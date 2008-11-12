@@ -1,0 +1,81 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-11-12T17:10:00+01:00
+- Ende: 2008-11-12T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1802
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1802
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=39746
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - überwiesen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - überwiesen
+- TOP 4: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2009 - überwiesen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretende Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Tarifzonen zum Flughafen Schönefeld ändern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.2: Fusion der Erpelgrund-Schule und der Heiligensee-Grundschule (16. G und 25. G) - überwiesen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Verwendung EU-Mittel in Reinickendorf - vertagt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Beschluss des Bebauungsplanes 12-17 vom 04. Juni 2008 sowie Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-17 - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Fertigen von Ausschussprotokollen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Teleheimarbeitsplätze im Bezirksamt - erledigt
+- TOP 9.3: Radfahrangebotsstreifen Hermsdorfer Straße - Triftstraße - Holzhauser Straße - vertagt
+- TOP 9.4: Maßregelvollzugs-Insassen in öffentlichen Wohneinrichtungen - erledigt
+- TOP 9.5: Parken im Kasinoweg - in der BVV abgelehnt
+- TOP 9.6: Umweltfreundliche Kraftfahrzeuge - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Absolutes Halteverbot in der Thaterstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Verkehrssituation im östlichen Bereich des S-Bahnhofs Hermsdorf - vertagt
+- TOP 9.9: Aktives Stadtzentrum Tegel - erledigt
+- TOP 9.10: Schaltung Fahrradampeln Waidmannsluster Damm - in der BVV abgelehnt
+- TOP 9.11: Leichtathletik-Weltmeisterschaft und Partnerschaft - überwiesen
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Nutzung freier Raumkapazitäten - ohne Änderungen in der BVV beschlossen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Sämtliche Veranstaltungen auf der Bezirkshomepage - vertagt
+- TOP 11.2: Mehr Qualität für die Dorfaue in Alt-Hermsdorf I - überwiesen
+- TOP 11.3: Straßenquerungen Barnimer Dörferweg - überwiesen
+- TOP 11.4: Seminare zum Umgang mit Gewalt in der Öffentlichkeit - überwiesen
+- TOP 11.5: Beschilderung Barnimer Dörferweg - überwiesen
+- TOP 11.6: Umgestaltung der Greenwich-Promenade - überwiesen
+- TOP 11.7: Mehrsprachige Informationsbroschüren - überwiesen
+- TOP 11.8: Freizeitverein Tegel-Süd e. V. - überwiesen
+- TOP 11.9: Mahnmal im Rathauspark - vertagt
+- TOP 11.10: Straßenfeste in Reinickendorf - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Bürgerfreundliche Vordrucke für Fensterbriefumschläge - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Mehr Qualität für die Dorfaue in Alt-Hermsdorf II - überwiesen
+- TOP 12.3: Sonderprogramm UEP - überwiesen
+- TOP 12.4: Kontakte zwischen Grundschulen und Kitas - überwiesen
+- TOP 12.5: Begutachtung von Palliativ-Patienten - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Eilverfahren für Patientenbegutachtung - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Fahrradampel Berliner Straße an den Borsighallen - überwiesen
+- TOP 13: Radverkehr Tegel: Lösungsvorschlag Nr. 5 Einzelhandelsfreundliche Umgestaltung der Berliner Straße - in der BVV abgelehnt
+- TOP 14: Unterstützung des Volksbegehrens "Kitakinder und Bildung von Anfang an = ein Gewinn für Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 14.1: Volksbegehren "Bildung von Anfang an" zulassen - direkte Demokratie ernst nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Fahrradbeauftragter - ohne Änderungen in der BVV beschlossen
+- TOP 16: Kostenübernahme bei Heimpflege - erledigt
+- TOP 16.1: Kostenübernahme bei Heimpflege - ohne Änderungen in der BVV beschlossen
+- TOP 17: Mehrzweckstreifen Oranienburger Straße - überwiesen
+- TOP 18: Aufklärung und Schutz - Kondomautomaten in Reinickendorfer Oberschulen und Jugendfreizeiteinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 19: Entwurf des Bezirkshaushaltsplans Reinickendorf für die Haushaltsjahre 2008 und 2009 (Doppelhaushalt) - überwiesen
+- TOP 20: Verleihung des Umweltpreises in Reinickendorf - beantwortet
+- TOP 21: Spielstätten - jedes Jahr ein neues Konzept? - überwiesen
+- TOP 22: Borsighafen in Tegel eine Erfolgsgeschichte - Arbeitsplätze für viele Reinickendorfer Arbeitnehmer - vertagt
+- TOP 23: Jahresergebnis des Kita-Eigenbetriebes - vertagt
+- TOP 24: Barrierefreier Zugang der Gustav-Dreyer-Schule - vertagt
+- TOP 25: Förderung von Zivilcourage - vertagt
+- TOP 26: Vorhandene Mittel für Schulstationen verwenden! - vertagt
+- TOP 27: Pflegestützpunkt für Reinickendorf - vertagt
+- TOP 28: Sprachtest bei Kindern, die keine Kita besuchen (Nicht-Kita Kinder) - vertagt
+- TOP 29: Broschüre: EU erlebbar machen - vertagt
+- TOP 30: Mehr Sicherheit für die Fußgänger im Bereich Provinzstraße - vertagt
