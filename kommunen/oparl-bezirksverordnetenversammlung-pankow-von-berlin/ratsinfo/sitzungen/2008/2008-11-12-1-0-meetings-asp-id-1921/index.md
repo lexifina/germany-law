@@ -1,0 +1,78 @@
+# 19. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-11-12T17:30:00+01:00
+- Ende: 2008-11-12T21:20:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1921
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1921
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=32746
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Sitzungsplan der BVV von Januar 2009 bis Juli 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Zukunftstag für Jungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Shared Space - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Sanierungsziele langfristig planungsrechtlich sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Kein Verkehrsinfarkt im Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Fußgängerampel Dietzgenstr. - in der BVV abgelehnt
+- TOP 1.14: Übergang Berliner Allee Höhe Parkstraße sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Personalentwicklung im Bezirksamt Pankow - überwiesen
+- TOP 1.16: Bezirkliche Personalentwicklungsplanung 1vorlegen - überwiesen
+- TOP 1.17: Klimakommune 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Endlich KfW-Kredite für unsere Schulen nutzen! - überwiesen
+- TOP 1.19: Ausbau Friedrich-Engels-Straße - beantwortet
+- TOP 1.20: Bornholmer Straße Tempo 50 rund um die Uhr sichern - in der BVV abgelehnt
+- TOP 1.21: Verbesserung der Stellung selbständiger Künstler/innen und Publizist/innen im JobCenter - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Für den Verbleib der Kurt-Tucholsky-Bibliothek im VÖBB - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Solaranlagen auch auf Dächern in Gebieten mit Erhaltungsverordnungen in Pankow genehmigen - überwiesen
+- TOP 1.24: Patenschaften des Bezirks - in der BVV abgelehnt
+- TOP 1.25: Zuwendungen Projekte Freier Träger 2009 - EP 39 - überwiesen
+- TOP 1.26: Ausstellung über schwulenfeindliche Gewalt präsentieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Hirschhof mit Bebauungsplan sichern - überwiesen
+- TOP 1.28: Behindertenbeirat und Behindertenbeauftragter - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Internetauftritt der Beauftragten für Integration auf den Seiten des Pankower Bezirksamtes verbessern - überwiesen
+- TOP 1.30: Digitale Lichtbilder bei Anträgen auf Bürgerämtern - überwiesen
+- TOP 1.31: Elektronischer Reisepass mit biometrischen Daten (ePass) - mit Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Interkulturelles Fest "Gemeinsam leben in Pankow" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Umzug Schauspielschule "Ernst Busch" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Langfristige Sicherung der Präsenz des Rates für MigrantInnen im Interkulturellen Haus in der Schönfließer Str.7 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Verkehrskonzept des Bezirkes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5.1: Verkehrsberuhigungskonzept - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Umleitung des Verkehrs in Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Gestaltung der Besprechungsräume Nr. 227 im Haus 6 und Nr. 411 im Haus 9 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Klimaschutz- und Energieeinspar-Projekte an Schulen fortführen und ausweiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Steg über den Gleimtunnel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: BVV in Projektauswahl einbeziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Erhaltung der Oderberger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Jungenarbeit ausweiten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Allgemeines Verfahren zum Umgang mit Straßenbäumen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Verkehrsprojekte in Sanierungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Fahrradverbindung zwischen Falkplatz und Arnimplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Gentechnik-freie Region Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Änderung der Bauplanung Straße Alt-Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Schließung Ibsenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Kochgelegenheiten in Jugendfreizeiteinrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Kommunales Wahlrecht für Nicht-EU-Bürgerinnen und Bürger! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Biodiversitätskonvention - Bezirk Pankow soll dem "Countdown 2010" beitreten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Sicherung der Lebensmittelkontrolle in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Zuleitung des Entwurfs des Ergänzungsplans für das Haushaltsjahr 2009 an die Ausschüsse der BVV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Benennung von Grünanlagen, öffentlichen Orten, Plätzen und Einrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Produktkatalog den Bezirksverordneten zugänglich machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Maßnahmen zur strukturellen Entlastung des Bezirkshaushaltes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Verlängerung der Veränderungssperre 3-12/2 im Bezirk Pankow, Ortsteil Weißensee für die Grundstücke Berliner Allee 301/311 sowie einer Teilfläche des Grundstücks Berliner Allee 313 und 315 (Flurstücke 76 und 77) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Benennung von Schulen - 42. Grundschule, 03G42 Pankow, Gudvanger Str. 16, 10439 Berlin - mit Abschlussbericht zur Kenntnis genommen
