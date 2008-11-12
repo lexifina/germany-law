@@ -1,0 +1,4 @@
+# Richtlinien für die rechtliche Behandlung von Ortsdurchfahrten im Zuge der Bundesstraßen
+
+Die Richtlinien für die rechtliche Behandlung von Ortsdurchfahrten im Zuge der Bundesstraßen (Ortsdurchfahrtenrichtlinien - ODR) sind als Anlage zum ARS 14/2008 im Verkehrsblatt 2008 S. 459 veröffentlicht worden (Anlage dem ARS nicht beigefügt, Veröffentlichung als Sonderband). Sie werden hiermit für den Bereich der Auftragsverwaltung der Bundesfernstraßen sowie entsprechend im Bereich des Straßenrechts des Landes, soweit dieses mit dem Bundesrecht übereinstimmt, eingeführt. Der Region Hannover, den Landkreisen, kreisfreien Städten und Gemeinden werden die Nummern 11 bis 21 zur Anwendung empfohlen.
+An die Niedersächsische Landesbehörde für Straßenbau und Verkehr Region Hannover, Landkreise, kreisfreien Städte und Gemeinden
