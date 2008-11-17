@@ -1,0 +1,56 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314825
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314825
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neuwahl des/der Vorsitzenden des Unterausschusses Bau, Umwelt und Wirtschaft
+- TOP 1.3.: Neubesetzung des Unterauschusses Bau, Umwelt und Wirtschaft sowie ggf. der anderen Unterausschüsse
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Wohnen am Wintrichring
+- TOP 2.2.: Spielplatz Simmerleinplatz Parksituation
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Errichtung eines Basketballplatzes
+- TOP 3.2.: Bericht Veranstaltung zum 09. November
+- TOP 3.3.: Budgetbericht
+- TOP 3.4.: Sozialbericht
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Halteverbot Leipziger- / Quedlinburger Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Informationsveranstaltung des KVR zu den Entscheidungsrechten des BA's
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Planungen für das Grundstück Ecke Hanauer Straße / Georg-Brauchle-Ring
+- TOP 4.2.: Verbesserung der Blindensignalisierung am U-Bahnhof OEZ
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge der B90/Grünen
+- TOP 4.1.: Automatisierte Grünphase für Fußgänger und Radfahrer bei der Überquerung des Wintrichrings von der Nederlinger Straße stadtauswärts - <div>zurückgestellt</div>
+- TOP 4.4.4: Anträge der FDP
+- TOP 4.1.: Klärung der verantwortlichkeiten für die Umsetzung der Pflichtablieferungsverordnung bezüglich der Internetseiten des BA 10 - <div>Anfrage weitergeleitet </div>
+- TOP 5.: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlun-gen durch den BA, Budgetangelegenheiten
+- TOP 5.1.: Zuschuss aus dem Budget des BA 10: Init. Art Temple: Ausstellung vom 28.11. bis 30.11.08
+- TOP 6.: Anhörungen
+- TOP 6.1.: 2. S-Bahn-Stammstrecke München - Verfahrensstand, Anträge und Empfehlungen
+- TOP 6.2.: Vollzug der Baumschutzverordnung 1. Wintrichring 46-48 2. Ernst-Platz-Str. 15
+- TOP 6.3.: Öffnung von Einbahnstraßen für den Radverkehr: - Dieselstraße - Eggmühler Straße
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Contentmanagement -System für die BA-Internetseiten (Zwischennachricht)
+- TOP 7.2.: Verkehrsplanungen anlässlich der Bebauung des Meillergeländes
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Anträge und Anfragen aus der Bürgerversammlung am 16.10.08
+- TOP 8.4.: Aufhebung der Einbahnregelung in der Rigaer Straße zwischen Hugo-Troendle-Straße und Leidingerplatz für Radfahrer
+- TOP 8.5.: Abbau des Investitionsstaus auf städtischen und Vereinssportanlagen; Sportinfrastruktur stärken II; Sanierung von Sportanlagen beschleunigen (Stadtratsanträge)
+- TOP 4: Anträge
