@@ -1,0 +1,102 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-11-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1341147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1341147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Artikel im Haidhauser Anzeiger vom 22.10.08 - Südring statt 2. Stammstrecke; Bürgerschreiben vom 24.10.2008 - <div>vertagt</div>
+- TOP 2.2.: Anfrage wegen Autoschmutz und Lärm auf der Tegernseer Landstraße; Bürgerschreiben vom 23.10.2008 - <div>in den UA Verkehr verwiesen und gleichzeitig an den ebenfalls zuständigen BA 17 weitergeleitet</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Parkraummanagement - Mischparken mit Parkscheibe statt reinem Lizenzparken in der Jamnitzerstraße - <div>abgelehnt</div>
+- TOP 2.2.: Parkraummanagement - Mischparken mit Parkscheibe rund um die Kirche St. Franziskus und dem Pfarrheim (Arminiusstraße, "Räubergasse", Hans-Mielich-Straße", Konradinstraße) - <div>nach Antrag</div>
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Elternbeirat der Grundschule an der Fromundstraße, für die Maßnahme: Selbstbehauptungskurse im Oktober 2008; Antragssumme: 1.238,50,-- ?; Beschlussvorlage des Direktoriums vom 27.10.2008 - <div>nach Antrag</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkplatzsituation vor der städtischen Kinderkrippe Teutoburger Straße; Bürgerantrag vom 21.10.2008 (verwiesen aus der Sitzung vom 21.10.08) - <div>nach Antrag</div>
+- TOP 3.2.: Bahnunterführung Sachsenstraße; Bürgerantrag vom 21.10.2008 (verwiesen aus der Sitzung vom 21.10.2008) - <div>abgelehnt; Änderungsantrag beschlossen</div>
+- TOP 3.3.: 70 zusätzliche Fahrradständer am Ausgang der U-Bahn-Station Mangfallplatz, Höhe Naupliastraße 29 - 39; Antrag der CSU-Fraktion vom 26.10.2008 - <div>nach Antrag</div>
+- TOP 3.4.: Fußgängertunnel neben dem Tunnel Claude-Lorrain-Straße - Hans-Mielich-Platz - <div>nach Antrag</div>
+- TOP 3.5.: Haltestelle Wettersteinplatz; Entfernung der Werbetafeln in den Straßenbahnwartehäuschen zur Sicherheit der Fußgänger - <div>nach Antrag</div>
+- TOP 3.1.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) a) Verfahrensstand; weitere Informationen b) Neuplanung Planfeststellungsabschnitt 3 München Ost - Haidhausen c) weiteres Vorgehen d) Anträge und Empfehlungen Anhörung der betroffenen bzw. tangierten Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Planungsreferates; Zuleitung des Referates für Stadtplanung u. Bauordnung vom 30.10.08 mit der Bitte um Stellungnahme bis 12.12.08 - <div>abgelehnt; der BA 18 bevorzugt den Südring</div>
+- TOP 3.2.: Beschleunigung der Buslinie 54 zwischen Ostbahnhof und Sylvensteinstraße; Projektkosten (Kostenobergrenze) 3.025.450 ? 1. Projektgenehmigung 2. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 3. Änderung des Mehrjahresinvestitionsprogrammes 2008 - 2012 beim Unterabschnitt 6300 "Gemeindestraßen"; Sitzungsvorlage Nr. 08-14 / V 01207; Beschluss des gemeinsamen Ausschusses für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauauschusses am 09.12.2008 (VB); Zuleitung des RAW vom 30.10.2008 mit der Bitte um Stellungnahme bis 02.12.2008 - <div>zugestimmt</div>
+- TOP 3.1.: Maßnahmen gegen das Lkw-Parken in der Säbener Straße im Bereich des querenden Grünzugs zwischen Am Heckenweg und Am Hohen Weg; Schreiben des BA 18 vom 25.07.08; Antwortschreiben des KVR vom 23.10.08 (neutrale Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Parkzone nur für Pkw am Hans-Mielich-Platz und in der Teutoburger Straße; BA-Antrags-Nr. 08-14 / B 00282 des BA 18 vom 15.07.08; Antwortschreiben des KVR vom 17.10.08 (negative Erledigung) - <div>erneutes Schreiben; BA fordert Parkbeschränkung für Lkw und Anhänger</div>
+- TOP 3.3.: Krumpterstraße - Schrägparkplätze und Kurzparkzone vor dem Getränkemarkt; Antrag Nr. 2751 des BA 18 vom 15.01.08; Beschluss des BA 18 vom 15.07.08; Zwischennachricht des KVR vom 17.10.08 (positive Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Einrichtung einer Haltverbotszone in der Oberbiberger Straße; verkehrsrechtliche Maßnahme nach § 45 StVO; Mitteilung des KVR - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Sachsenstraße; Aufhebung der Pkw-Positivbeschilderung; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung und der Landschaftsschutzverordnung / -bestandteil; Unterrichtung des Baureferates-Gartenbau vom 26.09.2008 und 30.09.2008 über das Fällen von Gefahrenbäumen - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Mitteilungen der Unteren Naturschutzbehörde zum Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Terhallestraße; Bescheid 17.10.08 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Bestandes-Erschließung im Perlacher Forst; Mitteilung des "Vereines zur Erhaltung und Pflege des Perlacher/Grünwalder Forstes e.V." vom 09.10.2008 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Weihnachtsbeleuchtung im städtischen Einflussbereich; München leuchtet efizient zur Weihnachtszeit; Antrag Nr. 02-08 / A 04078 der Stadtratsfraktion Bündnis90/Die Grünen/RL vom 27.11.07; Sitzungsvorlage Nr. 08-14 / V 00196; Beschluss des Bauausschusses vom 18.11.2008 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: neues Trainingsgelände für den TSV Weißblau-Sechzgerstadion; (alleinige / vorrangige) Nutzung der Sportanlage Säbener Straße 59 durch den FC Sportfreunde München e.V.; BA-Antrag Nr. 08-14 / B 00276 des BA 18 vom 15.07.08; Antwortschreiben des Schul- und Kultusreferates vom 06.10.08 (negative Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen; hier: Kindertageseinrichtung Oberbibergerstraße; 5 Plätze für unter 3-jährige; 50 Plätze für 3-jährige bis zur Einschulung; Bescheid des Schul- und Kultusreferates vom 01.09.2009 - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 00765; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 00839; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 3.5.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland; Leistungen nach dem SGB XII - Bericht 2007; Kommunale Leistungen nach dem SGB II - Bericht 2007; Sitzungsvorlage Nr. 08-14 / V 01041; Bekanntgabe in der gemeinsamen Sitzung des Sozialausschusses und des Kinder- und Jugendhilfeausschusses vom 13.11.2008 - <div>zur Kenntnis genommen</div>
+- TOP 3.6.: Vermeidung und Bewältigung von Armut; Schwerpunkte und Maßnahmen des Sozialreferates; München-Pass für junge Menschen besser bewerben; Antrag des Kreisjungendrings München-Stadt vom 25.08.2008; Sitzungsvorlage Nr. 08-14 / V 01094; Beschluss des Sozialausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 13.11.08 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Seniorenvertretungswahl 2009; Aufruf zur Kandidatur; Schreiben des Sozialreferates vom 29.10.2008
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Instandsetzung der Stützmauer / Hangsicherung am Harlachinger Berg (Tierpark Hellabrunn); Anhörung gem. § 13 der Satzung für die Bezirksausschüsse; Zuleitung des Baureferats vom 30.10.08 mit der Bitte um Zustimmung - <div>zugestimmt; Maßnahme soll aber - entgegen der Referatsmeinung - in den Sommerferien erfolgen</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Bozzarisstraße; Anhörung vom 23.10.08 - <div>Zustimmung unter Forderung der Ersatzpflanzung</div>
+- TOP 3.1.: Baufälle im 18. Stadtbezirk - <div>Anforderungen laut Liste</div>
+- TOP 3.2.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Anwesen in der Gabriel-Max-Straße; Mitteilung des Sozialreferats vom 28.10.08 mit der Bitte um Kenntnisnahme - <div>zur Kenntnis genommen</div>
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 Konditorei-Café "Café Mangfallplatz"; Mangfallplatz; Mitteilung vom 27.10.08 3.5.6.3.2 SSW "El Greco"; Säbener Straße; Mitteilung vom 03.11.08 - <div>zur Kenntnis genommen</div>
+- TOP 3.4.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; hier: Anwesen am Agilolfingerplatz; Mitteilung des Sozialreferats vom 03.11.2008 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Elektronische Anzeige-/Informationstafeln in den U-Bahnhöfen: Anzeige der Ergebnisse von Spielen auch ohne deutsche Beteiligung bei Fußball-Welt- und Europameisterschaften; Antrag Nr. 452 des BA 18 vom 16.09.08; Antwortschreiben der MVG vom 27.10.2008 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
