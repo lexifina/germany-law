@@ -1,0 +1,63 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-11-19T15:00:00+01:00
+- Ende: 2008-11-19T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2445
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2445
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126026.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126026.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126026.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschriften der öffentlichen Sitzungen am 03.09.2008 und 15.10.2008 - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 5: Wahlplakatierung - zur Kenntnis genommen
+- TOP 6: Regulative Möglichkeiten bezüglich Schwerlastverkehr - zur Kenntnis genommen
+- TOP 7: Grünpfeil in Düsseldorf - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 9: Optimierung des ruhenden Verkehrs - mehrheitlich beschlossen
+- TOP 10: Parkraumkonzept Benrath - zur Kenntnis genommen
+- TOP 11: Planungskatalog verkehrlicher Maßnahmen - vertagt
+- TOP 12: Umbau Konrad-Adenauer-Platz /Grundsatzbeschluss - vertagt
+- TOP 13: B-Pl5178/044-Ehem.GüterBhf Oberk-Ber BehBet; öff.Ausl - mehrheitlich beschlossen
+- TOP 14: Fahrbahninstandsetzungen und Radwegebau für das Jahr 2009 - zur Kenntnis genommen
+- TOP 15: Bauprogramm LZA 2009 - zur Kenntnis genommen
+- TOP 16: Bauprogramm Parkleitsystem 2009 - zur Kenntnis genommen
+- TOP 17: Bilker Kirche - Gleiseckverbindung - einstimmig beschlossen
+- TOP 18: Aachener Platz - Umbau - einstimmig beschlossen
+- TOP 19: Einbrunger Straße westl. Friederike-Fliedner-Weg; Einrichtung eines Zebrastreifens - einstimmig beschlossen
+- TOP 20: Linienänderung der NE 6 zum Fahrplanwechsel 07.01.2009 - einstimmig beschlossen
+- TOP 21: Wahl einer Schiedsperson - einstimmig beschlossen
+- TOP 22: Haushaltsplanentwurf des Amtes für Verkehrsmanagement sowie des Ordnungsamtes für das Jahr 2009 - mehrheitlich beschlossen
+- TOP 23: Teilergebnispläne des Amtes für Verkehrsmanagement - mehrheitlich beschlossen
+- TOP 24: Investive Teilfinanzpläne des Amtes für Verkehrsmanagement - mehrheitlich beschlossen
+- TOP 25: Teilergebnispläne des Ordnungsamtes - mehrheitlich beschlossen
+- TOP 26: Investive Teilfinanzpläne des Ordnungsamtes - mehrheitlich beschlossen
+- TOP 27: Veränderungsverzeichnis zum Haushaltsplanentwurf 2009 - mehrheitlich beschlossen
+- TOP 28: Vorschläge und Anregungen der Bezirksvertretungen - mehrheitlich beschlossen
+- TOP 29: Behindertengerechter Ausbau von Bushaltestellen - mehrheitlich abgelehnt
+- TOP 30: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 31: Auflösung der OSD - mehrheitlich abgelehnt
+- TOP 32: Radwege schaffen - mehrheitlich abgelehnt
+- TOP 33: Neubau und Ausbau von vierspurigen Hauptverkehrsstraßen - mehrheitlich abgelehnt
+- TOP 34: Antrag der SPD-Ratsfraktion zum Etat 2009 - mehrheitlich abgelehnt
+- TOP 35: Haushaltsplanentwurf 2009 - Verkehrsüberwachung - mehrheitlich abgelehnt
+- TOP 36: Haushaltsplanentwurf 2009 - Gewerbeangelegenheiten - mehrheitlich abgelehnt
+- TOP 37: Haushaltsplanentwurf 2009 - Prävention und Serviceorientierung - mehrheitlich abgelehnt
+- TOP 38: Haushaltsplanentwurf 2009 - Verkehrsleitpläne - mehrheitlich abgelehnt
+- TOP 39: Hauahaltsplanentwurf 2009 - Straßen - mehrheitlich abgelehnt
+- TOP 40: Haushaltsplanentwurf 2009 - Bus- und Bahnanlagen - mehrheitlich abgelehnt
+- TOP 41: Haushaltsplanentwurf 2009 - Attraktiver ÖPNV - mehrheitlich abgelehnt
+- TOP 42: Änderungsantrag zum Haushaltsplanentwurf 2009 - einstimmig beschlossen
+- TOP 43: Erweiterung Task-Force-Graffiti - mehrheitlich beschlossen
+- TOP 44: Straßensanierungen - mehrheitlich beschlossen
+- TOP 45: - Ortsumgehung Rath - - einstimmig beschlossen
+- TOP 46: Güterbahnhof Derendorf - mehrheitlich beschlossen
