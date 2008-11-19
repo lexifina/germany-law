@@ -1,0 +1,133 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-11-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1484041
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1484041
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Bushaltestelle Mainaustraße, Richtung Pasing; Verkehrsinsel oder Zebrastreifen (UA Planung, Umwelt, Bau und Verkehr) (vertagt aus 09/08)
+- TOP 2.2.: Kfz-Handel in der Limesstr. 117 und Bodenseestr. 234 (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.3.: Nutzung der Fläche als Parkplatz für Gebrauchtwagenhändler in der Bodenseestr. 230-234 und Limesstr. 115-117 (UA Planung,Umwelt, Bau und Verkehr)
+- TOP 2.4.: Nächtliche Lärmbelästigung durch parkende Lkw am Aufseßer Platz (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.5.: Künftige Nutzung des Heizkraftwerks Aubing in der Rupert-Bodner-Straße (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.6.: Öffentliche bauliche Maßnahmen zur Verkehrsverbesserung in Lochhausen (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.7.: Antrag auf Begrünung der Flurnummer 321/11 (Ecke Bodenseestr. / Limesstr.) (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.8.: Parken von Lkws an der Aubinger Str. unter der S-Bahn Westkreuz (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.9.: neues Haltverbot in der Schwemmstr. 2 - 6 (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Kleiberweg 11, gem. Baumbestandsplan Nr. 2008-24874 - Köferinger Str. 10, 2 Robinien - Friedhof Aubing und Friedhof Lochhausen (Liste des Baureferates vom 30.09.08) - Aubinger Str. 101, gem. Baumbestandsplan Nr. 2008-26798 - Rieneckerstraße (Liste des Baureferates vom 22.10.08) - Bodenseestr. 320, gem. Baumbestandsplan Nr. 2008-25979 - Kohlmeisenstr. 12, 1 Birke - Giechstr. 32, 1 Birke - Osterangertr. 46, 1 Nadelbaum - Veitshöchheimer Weg 6, gem. Baumbestandsplänen Nr. 2008-27453, 2008-27462
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 4.: Anträge
+- TOP 4.1.: Anfrage zur zukünftigen Planung auf dem Bahngelände östlich des Bahnhofs Aubing zwischen Gleis und Georg-Böhmer-Str. (vertagt aus 09/08)
+- TOP 4.2.: Verwirklichung eines Fuß- und Radweges auf der ehemaligen Gotthardtrasse im Bereich Pasing-Neuaubing-Aubing-Lochhausen-Langwied (vertagt aus 09-08)
+- TOP 4.3.: Erschließung des Gut Freiham (vertagt aus 09/08)
+- TOP 4.4.: Querungsmöglichkeit für Fußgänger an der Radolfzeller Straße
+- TOP 4.5.: Änderung der Vorfahrtsregelungen in der Aubing-Ost-Straße und Ubostraße
+- TOP 4.6.: Gehweg an der Hellensteinstraße
+- TOP 4.7.: Rechtzeitiger Informationsfluss der Stadtverwaltung bei Baumaßnahmen
+- TOP 4.8.: Rückverlegung der Vorfahrtsregelung Ubostr. / Einmündung Spieltränkergasse
+- TOP 4.9.: Anfrage zur Ableitung des Baustellenverkehrs bei Baubeginn in Freiham
+- TOP 4.10.: Begrünung und Entsiegelung der asphaltierten Freiflächen im Westkreuz
+- TOP 4.11.: Unterstützung der vorhandenen Jugendfreizeiteinrichtungen
+- TOP 5.: Entscheidungen
+- TOP 5.1.: Parksituation am S-Bahnhof Westkreuz (UA Planung, Umwelt, Bau und Verkehr) - <div>nach Antrag</div>
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 6.1.: Veranstaltung auf öffentlichen Verkehrsgrund, Christkindlmarkt SPD-Ortsverein Aubing-Lochhausen auf dem Gößweinsteinplatz am 06.12.08, Anhörung des KVR vom 15.10.08
+- TOP 6.2.: Plätze an weiterführenden Schulen im Münchner Westen, Anhörung des Schulreferates vom 07.10.08 (vertagt aus 09/08)
+- TOP 6.3.: Veranstaltung auf öffentlichen Verkehrsgrund: Wandertage Wanderfreunde Neuaubing e.V. am 13./14.12.08, Schr. KVR vom 30.10.08
+- TOP 6.4.: Veranstaltung auf Privatgrund: Weihnachtsmarkt auf dem Parkplatz der Höffner Möbelgesellschaft München, Ludwig-Koch-Str. 3 vom 28.11.- 21.12.08, Anhörung KVR vom 31.10.08
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 6.1.: Interkulturelles Integrationskonzept und Statistikbroschüre, Schr. Sozialreferat vom 06.08.08 (vertagt aus 09/08)
+- TOP 6.2.: Veranstaltungen / Kooperationen, Oktober 2008, Schr. Kulturreferat vom 01.10.08 (vertagt aus 09/08)
+- TOP 6.3.: Schul- und Sportausschuss vom 12.11.08: Abbau des Investitionsstaus auf städtischen und Vereinsportanlagen, Sportinfrastruktur stärken II, Sanierung von Sportanlagen beschleunigen
+- TOP 6.4.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 14.10.08: Haushaltsplan 2009 - Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.5.: Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 14.10.2008: Haushaltsplan 2009 - Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.6.: Regionale Sozialberichte 2007 im Internet
+- TOP 6.7.: Fortführung des Gaststättenbetriebs "Delfin-Cafe" vorher "Mekan", Limesstr. 39, Schr. KVR vom 31.10.08
+- TOP 6.8.: Bekanntgabe in der gemeinsamen Sitzung des Sozialausschusses und Kinder- und Jugendhilfeausschuss vom 13.11.08: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland, Leistungen nach dem SGB XII - Bericht 2007, Kommunale Leistungen nach dem SGB II - Bericht 2007
+- TOP 6.9.: Wirtschafts-Info Nr. 09/2008 des Referats für Arbeit und Wirtschaft vom 31.10.08
+- TOP 6.10.: Veranstaltungen/Kooperationen, November 2008, Schr. Kulturreferat vom 03.11.08
+- TOP 6.11.: Beschluss des Sozialausschusses und des Kinder- und Jugendhilfeausschusses vom 13.11.08: Vermeidung und Bewältigung von Armut, Schwerpunkte und Maßnahmen des Sozialreferats, München-Pass für junge Menschen besser bewerben
+- TOP 6.12.: Stellungnahmen des BA 13 und BA 19 zur "Nachqualifizierung/Revision der Denkmalliste"
+- TOP 6.13.: Durchführung einer Stadtteilkulturwoche
+- TOP 6.14.: Veranstaltung zur Vorstellung der Kandidatinnen und Kandidaten für die Seniorenbeiratswahl 2009
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Dank des Vereins "Reiten bei Freunden" für den Zuschuss für eine Aufstiegshilfe aus dem BA-Budget
+- TOP 6.2.: Dank des Vereins "Kultur am Westkreuz e.V." für den Zuschuss zum Johannisfeuer
+- TOP 6.3.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: ESV-Sportfreunde München-Neuaubing e.V., Schr. Direktorium v. 23.10.08
+- TOP 6.4.: Ablehnungsbescheid für Zuschuss aus dem Budget des BA 22: Antragsteller: Jugendtreff Neuaubing, Schr. Direktorium vom 20.10.08
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Neubau eines kulturellen Zentrums und Errichtung einer Außenstelle der Münchner Volkshochschule in Freiham, Anhörung des Kulturreferats vom 22.10.08
+- TOP 6.2.: Errichtung einer Außenstelle der Münchner Volkshochschule GmbH und Akademie für Erwachsenenbildung (GmbH) in Freiham, Anhörung des Kulturreferats vom 13.11.08, abgesetzt, da der Beschluss im Stadtrat erst in 2009 gefasst werden soll
+- TOP 6.1.: Gewerbeentwicklung Freiham; Vergabe einer städtischen Gewerbefläche, Schr. Referat für Arbeit und Wirtschaft vom 09.10.08
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Neuaufstellung des Flächennutzungsplans der Gemeinde Karlsfeld, Anhörung Planungsreferat vom 27.10.08
+- TOP 6.2.: S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allg. Eisenbahngesetz (AEG) a) Verfahrensstand; weitere Information b) Neuplanung Planfeststellungsabschnitt 3 München Ost - Haidhausen c) Weiteres Vorgehen d) Anträge und Empfehlungen Anhörung Planungsreferat vom 30.10.08
+- TOP 6.3.: Planfeststellung nach dem Personenbeförderungsgesetz; Straßenbahn-Neubaustrecke der Stadtwerke München GmbH in München zwischen Effnerplatz und St. Emmeram; Ersatzmaßnahmen auf der Gemarkung Aubing, Anhörung Planungsreferat vom 05.11.08
+- TOP 6.4.: Mobilfunk, Suchkreismeldung Lochhausen West, Schr. Referat für Gesundheit und Umwelt vom 04.11.08
+- TOP 6.5.: Planfeststellung nach § 18 Allg. Eisenbahngesetz (AEG); Erneuerung Bahnübergang km 12,6 "Waldweg" der Bahnstrecke München-Pasing - Buchloe, Strecke (5520) Anhörung des Planungsreferats vom 13.11.08
+- TOP 6.6.: Streitbergstr. 14, Neubau von zwei Einfamilien- bzw. Mehrfamilienhäusern mit Garagen - Vorbescheid, Anhörung des Planungsreferates vom 13.11.08
+- TOP 6.1.: Ausschuss für Stadtplanung und Bauordnung vom 01.10.08 (geänderter Beschluss): Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen B) Beschlussteil 1. Belegrechtsprogramm - Förderrichtlinien 2. Kinderkomponente beim KomPro A 3. Mischfinanzierung KomPro A/EOF 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum) 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau
+- TOP 6.2.: Ausschuss für Stadtplanung und Bauordnung vom 15.10.08: Schutz der Münchner Vorgärten a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedung und Vorgärten (Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) Weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten (vertagt aus 09/08)
+- TOP 6.3.: Starke Lärmbelästigung durch erheblich gestiegenen Schienengütertransport, Zwischenmitteilung Referat für Gesundheit und Umwelt vom 20.10.08 und Antwort des Eisenbahn-Bundesamt vom 22.10.08
+- TOP 6.4.: Schulbushaltestelle Ravensburger Ring 39; Änderung des Zeitzusatzes, Schr. KVR vom 27.08.08
+- TOP 6.5.: Änderung der Straßenbegrenzungslinie in der Kronwinkler Str. zwischen der Kastelburg- und Bergsonstr., Schr. Planungsreferat vom 15.10.08
+- TOP 6.6.: Sanierung der Müllerstadlstraße, Schr. Baureferat vom 20.10.08
+- TOP 6.7.: Ausbau von Kronwinkler Straße und Industriestraße, Schr. Baureferat vom 15.10.08
+- TOP 6.8.: Überquerung der Wiesentfelser Straße, Schr. KVR vom 13.10.08
+- TOP 6.9.: Prüfung der Verkehrssituation im Gleisdreieck an der Bodenseestraße, Schr. KVR vom 14.10.08
+- TOP 6.10.: Baumaßnahmen der Stadtwerke, Stichtag: 13.10.08, 20.10.08, 27.10.08, 03.11.08, 10.11.08
+- TOP 6.11.: Baufälle im 22. Stadtbezirk (v. 06.10.08 -12.10.08, v. 13.10.08 - 19.10.08, 20.10.08 - 26.10.08, 27.10 - 02.11.08, 03.11. - 09.11.08), Schr. Planungsreferat vom 13.10.08, 20.10.08, 27.10.08, 04.11.08, 10.11.08
+- TOP 6.12.: Baumfällung auf dem Grundstück Bodenseestr. 254a, Schr. Planungsreferat vom 20.10.08
+- TOP 6.13.: Erweiterung des Pfarrzentrums für einen Geräteraum in der Ubostr. 5 - nachträgliche Baumfällung, Schr. Planungsreferat vom 20.10.08
+- TOP 6.14.: Ausschuss für Stadtplanung und Bauordnung vom 24.09.08: Europaarbeit des Referats für Stadtplanung und Bauordnung und aktuelle Entwicklungen der "städtischen Dimension" auf euorpäischer Ebene (geänderter Beschluss)
+- TOP 6.15.: Zweckentfremdung von Wohnraum durch Abbruch, Aufseßer Str. 3, Schr. Sozialreferat vom 29.10.08
+- TOP 6.16.: Wasserprojekt Krautgartenweg - Flyer zur Baumaßnahme der SWM
+- TOP 6.17.: Umsetzungsstand der Kneipp-Anlage Langwieder Bach, Schr. Baureferat vom 20.10.08
+- TOP 6.18.: Postzustellung im 22. Stadtbezirk, Schr. Deutsche Post vom 20.10.08
+- TOP 6.19.: Antrag auf Genehmigung für Errichtung und Betrieb einer Abfallentsorgungsanlage der Fa. Remondis DATA Office GmbH auf dem Anwesen Rupert-Bodner-Str. 25, Schr. Referat für Gesundheit und Umwelt vom 21.10.08
+- TOP 6.20.: Änderung des Standortes der Telefonzelle an der S-Bahn-Haltestelle Leienfelsstraße; S8, Schr. Referat für Arbeit und Wirtschaft vom 30.10.08
+- TOP 6.21.: Betreutes Wohnen in Aubing, Schr. Kommunalreferat vom 30.10.08
+- TOP 6.22.: Ausbau der Industriestraße - Bergsonstraße, Aufstellungsbeschluss Nr. 1536, Schr. Baureferat vom 03.11.08
+- TOP 6.23.: Befestigung der Hoflacherstraße einschl. des Grünzuges am Wall der eingehausten A 99 (Tunnel am Tunnel Aubing), Schr. Baureferat vom 04.11.08
+- TOP 6.24.: Absenkung des Randsteins an der Wiesentfelserstr. Einmündung zur Riesenburgstr., Schr. Baureferat vom 04.11.08
+- TOP 6.25.: Straßenbaumaßnahmen im 22. Stadtbezirk, Schr. Baureferat vom 03.11.08
+- TOP 6.26.: Beschluss des Bauausschusses vom 18.11.08: Bebauungsplan mit Grünordnung Nr. 1955 - Colmdorfstraße
+- TOP 6.27.: Beschluss des Bauausschusses vom 18.11.08: Weihnachtsbeleuchtung im städt. Einflussbereich
+- TOP 6.28.: Leitlinie Gesundheit: Online Befragung des Referats für Gesundheit und Umwelt gestartet
+- TOP 6.29.: Erfahrungsbericht des BA 19 zum neuen Verfahren Baumschutzverordnung
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Mitteilung der Termine 2009 "Das Schulreferat trifft die Bezirksausschüsse", Schr. Schul- und Kultusreferat vom 16.10.08
+- TOP 11.2.: Informationsveranstaltung des Planungsreferats für den BA 22 Termin: 24.11.08 um 16 Uhr im Planungsreferat, Schr. Planungsreferat vom 10.10.08
+- TOP 11.3.: Fachtag des Behindertenbeirats "Arbeit für alle! Neue Modelle für die Ausbildung und Beschäftigung von Menschen mit Behinderung" am 28.11.08
+- TOP 11.4.: Einladung des Schulreferats an die Bezirksausschüsse 20, 21, 22 und 23 Termin: 20.11.08 um 16 Uhr im Schulreferat
+- TOP 11.5.: Einladung des Sozialreferats zur Informationsveranstaltung "Kommunales Wohnungsbauprogramm (KomPro)" Termin: 13.11.08 von 19 - 21 Uhr im Amt für Wohnen und Migration
+- TOP 11.6.: Einladung des Referats für Gesundheit und Umwelt zum kostenlosen Fachforum "Glas ein innovativer Baustoff" Termin: 27.11.08 ab 8.45 Uhr im Bauzentrum München
+- TOP 11.7.: Seniorenvertretungswahl 2009 - Wegweiser für die Kandiatur zur Delegiertenwahl
+- TOP 11.8.: Informationsveranstaltungen des Planungsreferats für die Bezirksausschüsse; Überblick über baurechtliche Aspekte der Arbeit der Bezirksausschüsse Termine: 24.11.08 und 03.12.08 jeweils um 18 Uhr im Rathaus
+- TOP 11.9.: Einladung zum kostenlosen Fachforum GreenBuilding am Montag, den 08.12.08 - Zertifizierte "Grüne Gebäude" bringen höchste Renditen, Referat für Gesundheit und Umwelt vom 14.11.08
+- TOP 11.10.: Einladungsflyer zur Regionalveranstaltung am 27.11.08 "Leitline Bildung", Schul- und Kultusreferat vom 12.11.08
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 17.12.08 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13.: Nichtöffentliche Sitzung
