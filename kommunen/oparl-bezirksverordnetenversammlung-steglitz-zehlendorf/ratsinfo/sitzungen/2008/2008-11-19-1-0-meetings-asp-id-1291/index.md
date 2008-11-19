@@ -1,0 +1,100 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-11-19T17:00:00+01:00
+- Ende: 2008-11-19T19:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1291
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1291
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Verschwenderische Verschandelung - beantwortet
+- TOP 3.2: Räume für die Musikschule in der Quentin-Blake-Grundschule - beantwortet
+- TOP 3.3: Zebrastreifen Spanische Allee / Rehwiese (Bezug: Drs. Nr. 98/III) - beantwortet
+- TOP 3.4: Mehr Informationen und mehr Transparenz beim Verbraucherschutz? - beantwortet
+- TOP 3.5: Internet- und Wartungskosten für die Schulen - beantwortet
+- TOP 3.6: Schikanebaustellen gegen Vertragspartner? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 4.1.1: Open-Air-Konzert - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines Bürgerdeputierten im Ausschuss für Personal und Verwaltung - gewählt
+- TOP 4.2.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 7 - gewählt
+- TOP 4.2.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk 8 - gewählt
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Sondermittel der BVV für das Kinder- und Jugendbüro Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Sondermittel der BVV für den Verein "Initiativkreis Berlin Stiftung e.V." - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan X-122-2 Nahversorgungszentrum Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Neubau Eisenbahnbrücke Krottnaurerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Beschleunigung der Bearbeitungszeiten von Wohngeldanträgen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Winterdienst für Friedenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Barrierefreier Zugang zum Bahnhofsgebäude am S-Bahnhof Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Sicherung der Mittelinsel in der Onkel-Tom-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Gedenktafel für den unbekannten Deserteur in Steglitz - in der BVV abgelehnt
+- TOP 4.6.3: Gedenkstele für einen desertierten Soldaten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Mehr Kapazitäten für das Arndt-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Benennung eines namenlosen Platzes nach der Freien Universität - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Lichtsignalanlage Riemeisterstraße am U-Bahnhof Onkel-Toms-Hütte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Einrichtung von Feriencamps für Schülerinnen und Schüler mit besonderem Förderungsbedarf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Umwidmung der Gymnastikhalle des Dreilinden-Gymnasiums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Schluss mit dem Lärm! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.10: Errichtung eines Fahrradwegs in der Benschallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.11: Außerbetriebliche Ausbildung sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.12: Verkehrssicherheit an der Kreuzung Argentinische Allee/Ecke Poßweg verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.13: Projekt "Elternlotsen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.14: Umbau der Aula am Paulsen-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.15: Aktive Stadtzentren I - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.16: Aktive Stadtzentren II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.17: S-Bahnhof Nikolassee kundenfreundlicher gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.18: Mehr Fahrradständer im Bahnhof und überdachte Fahrradabstellplätze vor dem Bahnhof Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Verkehrszeichen Radwegebenutzung entfernen - überwiesen
+- TOP 5.2: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Neuwahl von ehrenamtlichen Mitgliedern - überwiesen
+- TOP 5.3: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.3.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2007 - überwiesen
+- TOP 5.4: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.4.1: Übersicht über die im ersten Halbjahr 2008 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 5.4.2: Fortschreibung der Bezirkshaushaltsplanung 2009 - überwiesen
+- TOP 5.5: Anträge - erledigt
+- TOP 5.5.1: Tempo 30 in der Ihnestraße zwischen Brümmerstraße und Garystraße - überwiesen
+- TOP 5.5.2: Zuständigkeit der SE Immobilien auch für die Schulgebäude - überwiesen
+- TOP 5.5.3: Aufhebung Bebauungsplanverfahren "PLUS-Markt Potsdamer Chaussee" - überwiesen
+- TOP 5.5.4: PLUS-Markt in der Potsdamer Chaussee - überwiesen
+- TOP 5.5.5: Durchgangsverkehr Curtiusstraße - überwiesen
+- TOP 5.5.6: Erhalt der grünen Wannseebahn - überwiesen
+- TOP 5.5.7: Familienfreundliches Steglitz-Zehlendorf - überwiesen
+- TOP 5.5.8: Lastwagenverkehr Curtiusstraße - überwiesen
+- TOP 5.5.9: Mehr Transparenz bei der Begründung neuer Städtepartnerschaften - überwiesen
+- TOP 5.5.10: Rathaussanierung - überwiesen
+- TOP 5.5.11: Ampelschaltung Fußgängerüberweg Schloßstraße / Grunewaldstraße - überwiesen
+- TOP 5.5.12: Offenlegung städtebaulicher Verträge im Zusammenhang mit dem Bebauungsplan 6 - 13 (Karstadt / Wertheim, Schloßstraße) - überwiesen
+- TOP 5.5.13: Verkehrssicherheit im Bereich Riemeisterstraße Ecke Hochsitzweg verbessern - überwiesen
+- TOP 5.5.14: Sicherer Übergang in der Argentinischen Allee - auch für Blinde und Sehbehinderte - überwiesen
+- TOP 5.5.15: Wirtschaft in die Schulen - überwiesen
+- TOP 5.5.16: Weg Flurstück 55 - überwiesen
+- TOP 5.5.17: Kinderlärm - ja bitte! - überwiesen
+- TOP 5.5.18: Ampelanlagen Oskar-Helene-Heim und Machnower Straße Ecke Teltower Damm - überwiesen
+- TOP 5.5.19: Glascontainer in der Berlepschstraße - überwiesen
+- TOP 5.5.20: Verkehrsberuhigung Edwin-Redslob-Straße - überwiesen
+- TOP 5.5.21: Beseitigung der Fahrbahnschäden in der Clayallee - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Auswirkungen der aktuellen Streiks an den Schulen und KiTas im Bezirk Steglitz-Zehlendorf - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: B-Plan Curtiusstraße III - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Endlich Transparenz der bezirklichen Rücklagen - in der BVV abgelehnt
+- TOP 7.3: Kreisverkehr Lindenthaler Allee / Lissabonallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8.1: Gedenktafeln in der Treitschkestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9: Schlusswort des Vorstehers - erledigt
