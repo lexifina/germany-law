@@ -1,0 +1,144 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2008-11-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1281278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1281278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch die Chorgemeinschaft St. Peter und Paul Trudering i.H.v. 895,00 Euro zuzüglich Ergänzungsvorlage mit geändertem Betrag i.H.v. 640,00 Euro
+- TOP 1.2.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch den TSV Maccabi e.V. i.H.v. 6.000,00 Euro
+- TOP 2.1.: Antrag auf Anbringung eines grünen Pfeils
+- TOP 2.2.: Verkehr in der Messestadt Riem
+- TOP 2.3.: Schreiben der WEG Karpfenstraße 10 - 18
+- TOP 2.4.: Erweiterung des Familienzentrums Trudering - Informationen zum GenerationenTreff
+- TOP 2.5.: Regelmäßige Leerung der Müllbehälter; Errichtung eines Halteverbots; Umbenennung der Messestadt
+- TOP 3.1.: Keine Verschandelung von Grünanlagen durch ungepflegte Trafohäuschen, Antrag Nr. 08-14 / B 00021
+- TOP 3.2.: Riemer See: Stromverbrauch für die Grundwasserspeisung, Wasserqualität und Wasservögelpopulation, Antrag Nr. 08-14 / B 00273
+- TOP 3.3.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauersegler Straße
+- TOP 3.4.: Fußgängerampel für die Haltestelle "Halligenplatz", Antrag Nr. 08-14 / B 00380
+- TOP 3.5.: Friedenspromenade 9, Fl.Nr. 725/0, Gemarkung Trudering: Unterstützung Bauvorhaben durch den Bezirksausschuss des 15. Stadtbezirks (Az.: 5.1-2008-26452-32), Antrag Nr. 08-14 / B 00389
+- TOP 3.6.: Riemer Straße: Lösung der Parkproblematik, Antrag Nr. 08-14 / B 00018
+- TOP 3.7.: Schreiben des SV Gartenstadt Trudering e.V. an das Schul- und Kultusreferat mit der Bitte um Zuschusszahlungen für den Unterhalt vereinseigener Sportanlagen, Antrag Nr. 08-14 / B 00146
+- TOP 3.8.: Bedarf für eine Buslinie Gronsdorf - Waldtrudering, Antrag Nr. 08-14 / B 00258
+- TOP 3.9.: Antrag auf verkehrsberuhigende Maßnahmen an der Karpfenstraße, Antrag Nr. 08-14 / B 00525
+- TOP 3.10.: Verbesserung der Parksituation am Kulturzentrum Trudering für Nutzer und Anwohner, Antrag Nr. 08-14 / B 00267
+- TOP 3.11.: Fahrradwegergänzung in der St.-Augustinus-Straße ab Kreuzung Damaschkestraße bis Kreuzung Eigerstraße, Antrag Nr. 02-08 / B 02486
+- TOP 3.12.: Graffiti am Glockenturm im Neuen Friedhof Riem, Antrag Nr. 08-14 / B 00012
+- TOP 4.1.: Verbesserung der Situation an Parkausgängen
+- TOP 4.2.: Befestigung des Alexiswegs mit Asphalt und Leistung von Winterdienst, zumindest auf dem im städtischen Besitz befindlichen Bereich
+- TOP 4.3.: Maibaum Friedenspromenade
+- TOP 4.4.: Querungsmöglichkeit für Fußgänger und Rollstuhlfahrer; Messestadt Ost
+- TOP 4.5.: Einrichtung eines Bolzplatzes in Riem
+- TOP 4.6.: Vermeidung des nachmittäglichen Staus auf der B304 an der Grenze zu Haar
+- TOP 4.7.: Wachsender Bahn-Güterverkehr durch Trudering?
+- TOP 4.8.: Verdrussaufzug am S-Bahnhof Gronsdorf grundlegend ertüchtigen
+- TOP 5.1.: Verkauf einer städtischen Immobilie, FlurNr.: 1408/18, 1408 (Tlfl.), Gemarkung Trudering, Tower-Grundstück
+- TOP 5.2.: Halteverbot Astrid-Lindgren-Straße, Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.3.: Halteverbot im Einmündungsbereich Herderwiesweg / Florastraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 5.4.: ENERGY in the Park 2009 - Voranfrage
+- TOP 5.5.: 2. S-Bahn-Stammstrecke München, Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG), Anhörung der betroffenen bzw. tangierten Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Planungsreferates
+- TOP 5.6.: Absolutes Halteverbot in der Karpfenstraße nördlich Kreillerstraße, Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 6.1.: Planungsdaten des Schulreferates für die BV des Stadtbezirkes 15 Trudering-Riem am 30.10.2008
+- TOP 6.2.: Leistungsbilanz des Sozialreferates für die BV des Stadtbezirkes 15 Trudering-Riem am 30.10.2008
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Zuschuss für die Gedenkveranstaltung am 09.11.08
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum - Sonnenspitzstraße
+- TOP 7.2.: Bauvorhaben: Neubau einer Wohnanlage mit Tiefgarage - Reschstraße
+- TOP 7.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum - Birkhanweg zuzüglich der beantragten Pläne (Top 7.3.3/10/08)
+- TOP 7.4.: Bauvorhaben: Neubau eines Einfamilienhauses - Bahnstraße (Top 7.3.2/10/08)
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.2.: Schatzbogen - Riemerstraße, linksabbiegende Radfahrer; Ortstermin am 14.10.08
+- TOP 7.3.: Bürgerschreiben, Unfall am Busbahnhof Trudering; Ortstermin 14.10.08
+- TOP 7.4.: Ortstermin Selma-Lagerlöf-Straße - Platzgestaltung
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Sachbericht zum Verwendungsnachweis des QUAX - Errichtung einer Bibliothek
+- TOP 7.2.: Verwendungsnachweis des SFZ München Ost i.H.v. 940,00 Euro
+- TOP 7.3.: Verwendungsnachweis des Bürgerzentrums Trudering i.H.v. 250,00 Euro
+- TOP 7.4.: Verwendungsnachweis der Städtischen Sing- und Musikschule i.H.v. 255,00 Euro
+- TOP 7.5.: Verwendungsnachweis des Vereins der Freunde und Förderer der Musik i.H.v. 1.500,00 Euro
+- TOP 7.6.: Verwendungsnachweis der Freunde der FFW Abteilung Waldtrudering e.V. i.H.v. 798,99 Euro
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Helenstraße, Graf-Lehndorff-Straße, Friedhof Riem
+- TOP 8.3.: Von-Erckert-Straße
+- TOP 8.4.: Waldtruderinger Straße
+- TOP 8.5.: Waterbergstraße
+- TOP 8.6.: Waldschulstraße
+- TOP 8.7.: Hoferichterweg
+- TOP 8.8.: Graf-Ottenburg-Straße
+- TOP 8.9.: Von-Gravenreuth-Straße
+- TOP 8.10.: Friedenspromenade
+- TOP 8.13.: Huchenstraße
+- TOP 8.14.: Weißpfennigweg
+- TOP 8.15.: Graf-Lehndorff-Straße
+- TOP 8.16.: Bahnstraße
+- TOP 8.18.: Scheibmeirstraße
+- TOP 8.19.: Wiesbachhornstraße
+- TOP 9.1.: Termine und Mitteilungen: a) Informationsveranstaltungen des Referats für Stadtplanung und Bauordnung am 24.11.08 und 03.12.08 jeweils 18.00 Uhr im Großen Sitzungssaal des Rathauses b) Bundesweite Fachtagung "Kinder haben Rechte" in München (17./18.11.08), Kulturhaus Milbertshofen c) Informationsveranstaltung "Kommunales Wohnungsbauprogramm (KomPro)" am 13.11.08 im Amt für Wohnen und Migration von 19.00 - 21.00 Uhr, Raum 501 d) Einladung zum kostenlosen Fachforum - Glas, ein innovativer Baustoff am 27.11.08, Bauzentrum München
+- TOP 9.2.: Mitteilung der Termine "Das Schulreferat trifft die Bezirksausschüsse" am 11.03.2009 von 16.00 - 18.00 Uhr, Raum 535
+- TOP 9.3.: Rampe für Rollstuhlfahrer im Riemer Park, Antrag Nr. 08-14 / B 02905
+- TOP 9.4.: Weihnachtsdorf Riem Arcaden - Stellungnahme BA 15 gem. § 20 Abs. 1 BA-Satzung (Eilentscheidung)
+- TOP 9.5.: Busverkehr in der Messestadt Riem - Stellungnahme der BA-Vorsitzenden
+- TOP 9.6.: Einhaltung der Umweltvorschriften in Riem - Stellungnahme der BA-Vorsitzenden
+- TOP 9.7.: Statistisches Jahrbuch 2008 (zuzügl. Anforderung weiterer Exemplare für die Fraktionen)
+- TOP 9.8.: Anzeige für öffentliche Vergnügungsveranstaltungen - Riemer Park, Rodelhügel
+- TOP 9.9.: Anzeige einer Versammlung unter freiem Himmel (Art. 13 BayVersG) am 09.11.08 auf dem Platz der Menschenrechte
+- TOP 9.10.: Greenfields Open-Air, Graf-Lehndorff-Straße (Voranzeige 2009)
+- TOP 9.11.: Errichtung eines vorübergehenden Taxistandplatzes Olof-Palme-Straße (Alfons Schuhbeck Palazzo) vom 23.10.08 bis 28.02.09
+- TOP 9.12.: Leitlinie Gesundheit: Start der Online-Befragung auf muenchen.de
+- TOP 9.13.: 10 Jahre autofrei wohnen - Ergebnisse der Befragung unter den BewohnerInnen
+- TOP 9.14.: Seniorenvertretungswahl 2009 - erneuter Aufruf zur Kandidatur
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 06.10.08 bis 09.11.08
+- TOP 10.2.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Lavendel, Wamslerstraße 9
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Graf-Lehndorff-Straße
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Zauberwaldstraße
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Wasserburger Landstraße
+- TOP 10.6.: Mitteilung über ein Grundstücksgeschäft - Verkauf stadteigener Flächen, Flst. 1408/277, Gemarkung Trudering
+- TOP 10.7.: Ablehnung einer beantragten Zuwendung aus dem Budget des Bezirksausschusses; Isarbote i.H.v. 7.200,00 Euro
+- TOP 10.8.: Weihnachtsbeleuchtung im städtischen Einflussbereich, Beschluss des Bauausschusses vom 18.11.2008
+- TOP 10.9.: Widmung von zwei Teilstrecken der Evereststraße und der Gesamtstrecke der Karpfenstraße, Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 23.10.2008
+- TOP 10.10.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund, Willy-Brandt-Allee
+- TOP 10.11.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32 - Fotoaufnahmen auf öffentlichem Verkehrsgrund, Am Messefreigelände in der Messestadt Riem
+- TOP 10.12.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund, Rotfuchsweg
+- TOP 10.13.: Verkehrsrechtliche Anordnung nach § 45 StVO: Halteverbot in der Wasserburger Landstraße an der Bushaltestelle Bahnstraße
+- TOP 10.14.: Verkehrsrechtliche Anordnung nach § 45 StVO: Halteverbot an der Westseite der Hanns-Schwindt-Straße
+- TOP 10.15.: Mitteilungen über Veranstaltungen / Kooperationen des Kulturreferats im November 2008
+- TOP 10.16.: Sportinfrastruktur stärken II, Sanierung von Sportanlagen beschleunigen; Beschluss des Schul- und Sportausschusses des Stadtrates vom 12.11.2008
+- TOP 10.17.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland; Bekanntgabe in der gemeinsamen Sitzung des Sozialausschusses und des Kinder- und Jugendhilfeausschusses vom 13.11.2008
+- TOP 10.18.: Weiterer Ausbau der Schulsozialarbeit an Grund-, Haupt- und Förderschulen; Trägerschaftsvergabe für die neuen Standorte; Verwendung von Restmitteln und Umwidmung von Finanzmitteln im Bereich Schulsozialarbeit; Sozialarbeit an Grundschulen; Einrichtung von Schulsozialarbeit an der HS Walliser Straße; Beschluss der Vollversammlung des Stadtrates vom 08.10.2008
+- TOP 10.19.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008
+- TOP 10.20.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 14.10.2008
+- TOP 10.21.: Vermeidung und Bewältigung von Armut, Schwerpunkte und Maßnahmen des Sozialreferates, München-Pass für junge Menschen besser bewerben; Beschluss des Sozialausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 13.11.2008
+- TOP 10.22.: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008
+- TOP 10.23.: Mietwohnanlage Karwendelstraße / Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008
+- TOP 10.24.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008
+- TOP 10.25.: Verkürzung der Planungs- und Bauzeiten der neuen Münchner Gymnasien; Beschluss des Schul- und Sportausschusses des Stadtrates vom 12.11.2008
+- TOP 10.26.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft ? Bistro am Park, Lehrer-Wirth-Straße 23
+- TOP 10.27.: Vollzug des bayerischen Straßen- und Wegegesetzes (BayStrWG); Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis: Weihnachtsdorf am Willy-Brandt-Platz
+- TOP 10.28.: Mitteilung über ein Grundstücksgeschäft ? Kauf eines Grundstückes, Flst. 1408/181, Gemarkung Trudering
+- TOP 10.29.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 ? Filmaufnahmen auf öffentlichem Verkehrsgrund; Olof-Palme-Str., Willy-Brandt-Allee, Willy-Brandt-Platz, Heinrich-Wieland-Str.
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 8.17.: Wasserburger Landstraße
+- TOP 8.20.: Fauststraße
