@@ -1,0 +1,52 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-11-25T17:00:00+01:00
+- Ende: 2008-11-25T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2435
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2435
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126034.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126034.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126034.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Hygiene im Krankenhaus Gerresheim
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: STEK (BVen ua) KG u. Empf.
+- TOP 6: Lichtmasterplan, Teil 2 (weitere Gremien)
+- TOP 7: Optimierung des ruhenden Verkehrs
+- TOP 8: Nikolausmarkt auf dem Apostelplatz
+- TOP 9: Zuschüsse zu kulturellen Veranstaltungen
+- TOP 10: Sonderzuschuss an den Düsseldorfer Sportclub 1899 e.V.
+- TOP 11: Verwendung von Haushaltsmitteln
+- TOP 12: Ganztagsschulen
+- TOP 13: CO-Messgeräte an der CO-Pipeline
+- TOP 14: Sowjetischer Gedenkstein auf dem Gerresheimer Waldfriedhof
+- TOP 15: Kaserne Hubbelrath
+- TOP 16: Schäden an denkmalwerten Gebäuden in Untergerresheim
+- TOP 17: Sachstandsbericht zur Parkraumbewirtschaftung
+- TOP 18: Dorfplatz Hubbelrath
+- TOP 19: Sachstandsbericht L 404 n
+- TOP 20: Baugebiet Marie-Curie-Straße
+- TOP 21: Stadtentwicklungskonzept Düsseldorf 2020
+- TOP 22: Wirtschafts- und Wanderweg Forster Weg
+- TOP 23: Parkplätze Friedhofszufahrt Rotthäuser Weg
+- TOP 24: Bebauungsplan Mühlenbergweg
+- TOP 25: Papierbündelsammlungen
+- TOP 26: Verkehrstechnische Überlastung der Bergischen Landstraße
+- TOP 27: Gebäude S-Bahnhof Gerresheim
+- TOP 28: Atemmasken an der CO-Pipeline
+- TOP 29: Ausbau der L 404
+- TOP 30: Zufahrten Bergische Landstraße 35 - 43
+- TOP 31: DB-Unterführungen
+- TOP 32: S-Bahnhof Gerresheim
+- TOP 33: Denkmalpflegeplan Gerresheim
+- TOP 34: Nutzung von Treppen in Knittkuhl
+- TOP 35: Überprüfung der Ampelschaltung
