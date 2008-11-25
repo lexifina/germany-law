@@ -1,0 +1,90 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-11-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356721
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356721
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Grafinger Straße 69 ? Neubau eines Kindergartens (4 Gruppen)
+- TOP 3.1.1.2.: Berg-am-Laim-Str. 125 und Nachbargrundstücke, Konzept mit der Situierung eines Vollsortimenters ? Antrag Nr. 327 des BA 14 vom 27.07.2008
+- TOP 3.1.1.3.: 2. S-Bahn-Stammstrecke München ? Planfeststellung nach § 18 Abs. 1 AEG a) Verfahrensstand; weitere Informationen b) Neuplanung Planfeststellungsabschnitt 3 (München Ost ? Haidhausen) c) Weiteres Vorgehen d) Anträge und Empfehlungen
+- TOP 3.1.2.1.: Kreillerstraße 18 ? Behindertenparkplatz (Überprüfung)
+- TOP 3.1.2.2.: Trausnitzstraße 13 ? Eingeschränktes Haltverbot (Überprüfung)
+- TOP 3.1.2.3.: Versetzung von Containern in der Baumkirchner Straße
+- TOP 3.1.2.4.: Erweiterung Halteverbot in der Sonnwendjochstraße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Ansiedlung eines Montessori-Kinderhauses in Berg am Laim
+- TOP 3.4: Bereich Soziales
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Überseeplatz ? Antrag auf Baumfällung
+- TOP 3.7.2.: Lalidererstraße ? Antrag auf Baumfällung
+- TOP 3.7.3.: Freisinger Str. ? Antrag auf Baumfällung
+- TOP 3.7.4.: Isareckstraße ? Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten
+- TOP 4.1.1.3.: Ausführungen zu den Möglichkeiten der Stadt München, bei privaten Mietwohnungsverkäufen zu reagieren.
+- TOP 4.1.1.4.: Grafinger Straße ? Antrag auf unveränderte Gaststättenfortführung
+- TOP 4.1.1.5.: Abbruchanzeige Hachinger-Bach-Str.
+- TOP 4.1.2.1.: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen
+- TOP 4.1.2.2.: Haltverbot an der Bushaltestelle Grafinger Straße
+- TOP 4.1.2.3.: Taxistandplatz Friedenstraße (Ostbahnhof): Verlegung
+- TOP 4.1.2.4.: Taxistandplatz Rosenheimer Straße 143b-145: Verkürzung
+- TOP 4.1.2.5.: Taxistandplatz Anzinger Straße 15: Aufhebung
+- TOP 4.1.2.6.: Taxistandplatz Neumarkter Straße: Neueinrichtung
+- TOP 4.1.2.7.: Taxistandplatz Kreillerstraße: Aufhebung; Einrichtung einer Kurzparkzone
+- TOP 4.1.2.8.: Waldstraße zwischen St.-Veit-Straße und Groschenweg ? Parkmöglichkeit
+- TOP 4.1.2.9.: Baumkirchner Straße ? Weihnachtswarenbetrieb am 07.12.2008
+- TOP 4.1.2.10.: Autofrei Wohnen ? Ergebnisse der Bürgerbefragung 2007
+- TOP 4.1.3.1.: Weihnachtsbeleuchtung im städtischen Einflussbereich ? München leuchtet effizient zur Weihnachtszeit
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Mitteilung der Termine 2009 - ?Das Schulreferat trifft die Bezirksausschüsse?
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland Leistungen nach dem SGB XII ? Bericht 2007 Kommunale Leistungen nach dem SGB II ? Bericht 2007
+- TOP 4.4.2.: Vermeidung und Bewältigung von Armut - Schwerpunkte und Maßnahmen des Sozialreferates - München-Pass für junge Menschen besser bewerben - Antrag des Kreisjugendrings München-Stadt vom 25.08.2008
+- TOP 4.4.3.: Haushaltsplan 2009 - Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP 4.4.4.: Haushaltsplan 2009 - Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 4.4.5.: Infomaterial Seniorenbeirat
+- TOP 4.6: Sonstige
+- TOP 4.7.1.: Sonnbergstraße ? Fällungsbescheid
+- TOP 4.7.2.: Großvenedigerstraße - Fällungsbescheid
+- TOP 4.7.3.: Isareckstraße - Fällungsbescheid
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
