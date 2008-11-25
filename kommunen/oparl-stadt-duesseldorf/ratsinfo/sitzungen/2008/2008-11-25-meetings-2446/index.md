@@ -1,0 +1,52 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-11-25T16:00:00+01:00
+- Ende: 2008-11-25T18:02:00+01:00
+- Ort: extern
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2446
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2446
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126039.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126039.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126039.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift 8/2008 - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen und Einwohnern - zur Kenntnis genommen
+- TOP 4: Messe Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: BPl 5487/008-Wacholderstr-ÖB - zur Kenntnis genommen
+- TOP 7: Umbau der Stadtbahnhaltestelle Lohausen - zur Kenntnis genommen
+- TOP 8: Duisburger Landstraße - zur Kenntnis genommen
+- TOP 9: Neubau einer Kindertages- und Jugendfreizeiteinrichtung, Heinrich-Walbröhl-Weg - Grundsatzbeschluss - - zur Kenntnis genommen
+- TOP 10: Zuschuss an den Duisburg-Wittlaerer-Reiterverein e.V. - zur Kenntnis genommen
+- TOP 11: Bezirksbezogene Bauunterhaltungsmaßnahmen 2008 - zur Kenntnis genommen
+- TOP 12: Bezirksbezogene Bauunterhaltungsmaßnahmen 2008 LSV - zur Kenntnis genommen
+- TOP 13: Bezirksbezogene Bauunterhaltungsmaßnahmen 2008 - zur Kenntnis genommen
+- TOP 14: Historischer Stadtkern Kaiserswerth - zur Kenntnis genommen
+- TOP 15: Einbrungen - Rigolen - zur Kenntnis genommen
+- TOP 16: Rettungswache Kalkum - zur Kenntnis genommen
+- TOP 17: Ampelschaltung Arnheimer Straße/Kreuzbergstraße - zur Kenntnis genommen
+- TOP 18: Rahmer Straße - Querungshilfe - zur Kenntnis genommen
+- TOP 19: Angermunder Straße - Städtebaulicher Mittelpunkt - zur Kenntnis genommen
+- TOP 20: Betreuungsplätze für Kinder unter 3 Jahren - zur Kenntnis genommen
+- TOP 21: Mehrgenerationenhaus - zur Kenntnis genommen
+- TOP 22: Grundstück ehemaliger Kinderspielplatz Zur Lindung - zur Kenntnis genommen
+- TOP 23: Am Angerfeld - Maßnahmen zur Verkehrssicherheit - zur Kenntnis genommen
+- TOP 24: Kreuzbergstraße - Herrichtung Gehweg - zur Kenntnis genommen
+- TOP 25: Kreuzungspunkt Niederrheinstraße/Alte Landstraße - zur Kenntnis genommen
+- TOP 26: Straßenerneuerung Lohausen - zur Kenntnis genommen
+- TOP 27: Lantzallee/Niederrheinstraße - Fahrbahnachsmarkierung (sog. Mittelstreifen) - zur Kenntnis genommen
+- TOP 28: Hermann-Schauten-Weg - Abfallcontainer - zur Kenntnis genommen
+- TOP 29: Beschilderung in Einbrungen - zur Kenntnis genommen
+- TOP 30: Ausgleichsflächen im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 31: Angermunder Straße - Radweg - zur Kenntnis genommen
+- TOP 32: Stellungnahmen und Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 33: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
