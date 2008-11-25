@@ -1,0 +1,61 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-11-25T15:00:00+01:00
+- Ende: 2008-11-25T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2442
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2442
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126031.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126031.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126031.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschriften - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschriften - zur Kenntnis genommen
+- TOP 4: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 5: Anfragen und Anträge
+- TOP 6: Anfrage Verlässliche Kooperationsstrukturen Kita Schule - zur Kenntnis genommen
+- TOP 7: Anfrage Kooperation Bildungskonzepte, Bildungsdokumentation, FoBi - zur Kenntnis genommen
+- TOP 8: Anfrage Ratsfrau Hebeler - STEK - zur Kenntnis genommen
+- TOP 9: Anfrage FDP/CDU - Jugendwohnen - zur Kenntnis genommen
+- TOP 10: Anfrage FDP/CDU - Skater / BMX-Park
+- TOP 11: Antrag Risikobefragung Jugendlicher - mehrheitlich abgelehnt
+- TOP 12: Familienberichterstattung - mehrheitlich beschlossen
+- TOP 13: Entwurf des Haushaltsplans 2009
+- TOP 14: Entwurf des Haushaltsplanes 2009 - zur Kenntnis genommen
+- TOP 15: Etatantrag von CDU u. FDP - zur Kenntnis genommen
+- TOP 16: Fachübergreifende Vorlagen
+- TOP 17: Auditierungsverfahren familiengerechte Kommune - mehrheitlich beschlossen
+- TOP 18: OE Abteilung 6 - zur Kenntnis genommen
+- TOP 19: Neuregelung der Arbeitsgemeinschaften - mehrheitlich beschlossen
+- TOP 20: Elternbesuchsdienst - zur Kenntnis genommen
+- TOP 21: Elterninformationen - Düsseldorfer Elternbriefe - zur Kenntnis genommen
+- TOP 22: Meldeverfahren Vorsorgeuntersuchungen - zur Kenntnis genommen
+- TOP 23: 24-Std.-Dienst - zur Kenntnis genommen
+- TOP 24: Anerkennung Filius & Marie - vertagt
+- TOP 25: Neubau einer Kindertages- und Jugendfreizeiteinrichtung, Heinrich-Walbröhl-Weg - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 26: Grundsatz und Planungsbeschluss - einstimmig beschlossen
+- TOP 27: Neuregelung des Kinderförderungsgesetz (KiföG) - zur Kenntnis genommen
+- TOP 28: Terminplan JHA-Sitzungen 2009 - einstimmig beschlossen
+- TOP 29: Tageseinrichtungen für Kinder
+- TOP 30: Investitionen Kita - einstimmig beschlossen
+- TOP 31: Anpassung der Finanzierung - einstimmig beschlossen
+- TOP 32: Finanzierung einer zusätzlichen Kraft - einstimmig beschlossen
+- TOP 33: Sonderfinanzierung Waldkindergärten - einstimmig beschlossen
+- TOP 34: Anschubfinanzierung - einstimmig beschlossen
+- TOP 35: Erstattung an Kindertagespflegepersonen - zur Kenntnis genommen
+- TOP 36: Jugendförderung
+- TOP 37: Investitionskostenzuschüsse im Bereich der offenen Jugendarbeit - einstimmig beschlossen
+- TOP 38: Investitionskostenzuschuss JBH gGmbH - Projekt "Rather Modell" - einstimmig beschlossen
+- TOP 39: Jahresbericht Spielerei Düsseldorf - zur Kenntnis genommen
+- TOP 40: Kinderkinofest
+- TOP 41: Controllingberichte
+- TOP 42: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 43: Controllingbericht HzE - zur Kenntnis genommen
+- TOP 44: ???
