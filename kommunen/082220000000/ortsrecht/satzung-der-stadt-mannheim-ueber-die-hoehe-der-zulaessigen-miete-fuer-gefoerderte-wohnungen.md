@@ -1,0 +1,27 @@
+# Satzung der Stadt Mannheim über die Höhe der zulässigen Miete für geförderte Wohnungen
+
+- Gemeinde: Stadt Mannheim (ARS 082220000000)
+- Datum: 2008-11-25 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.mannheim.de/sites/default/files/page/2853/s06-19.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Stadtrecht der Stadt Mannheim
+6.19
+Satzung der Stadt Mannheim über die Höhe der zulässigen Miete für geförderte Wohnungen vom 25.11.2008
+Aufgrund von § 4 der Gemeindeordnung für Baden-Württemberg (GemO) in der Fassung vom 24. Juli 2000 (GBI. S. 581, ber. 698), zuletzt geändert durch Gesetz vom 14. Februar 2006 (GBl. S. 20) und § 32 des Landesgesetzes zur Förderung von Wohnraum und Stabilisierung von Quartiersstrukturen (Landeswohnraumförderungsgesetz - LWoFG) vom 11. Dezember 2007 (GBI. S. 581) hat der Gemeinderat am 25.11.2008 folgende Satzung beschlossen:
+§1 Geltungsbereich Für • öffentlich geförderten Wohnraum im Sinne des Ersten Wohnungsbaugesetzes und des Zweiten Wohnungsbaugesetzes, • Wohnraum, für dessen Bau bis zum 31.Dezember 2001 ein Darlehen oder ein Zuschuss aus Wohnungsfürsorgemitteln des Landes nach § 87 a Absatz 1 Satz 1 II.WoBauG bewilligt worden ist, und • Wohnraum, für den bis zum 31. Dezember 2001 Aufwendungszuschüsse und Aufwendungsdarlehen nach § 88 II.WoBauG bewilligt worden sind, werden nach § 32 Absatz 1 und 2 LWoFG die gesetzlichen Regelungen über die Kostenmiete zum 31. Dezember 2008 aufgehoben. Die am 31. Dezember 2008 geschuldete Miete wird ab 01. Januar 2009 zur vertraglich vereinbarten Miete. Ab dem 01. Januar 2009 finden die Vorschriften des allgemeinen Mietrechts nach Maßgabe des § 32 Absatz 3 LWoFG Anwendung. Demnach darf in Mannheim eine geförderte Wohnung für die Dauer der Bindung nicht zu einer höheren Miete zum Gebrauch überlassen werden, als in dieser Satzung festgesetzt ist. Dies gilt auch bei einer Neuvermietung der Wohnung. Die Höchstbeträge nach dieser Satzung sind nicht mehr anzuwenden, wenn die geförderte Wohnung keiner Mietpreisbindung mehr unterliegt.
+§2 Höchstbeträge (1) Für die öffentlich geförderten Wohnungen in Mannheim gelten die Höchstbeträge im Sinne von § 32 Absatz 3 LWoFG. Die Miete für öffentlich geförderte Wohnungen darf nicht höher sein, als sie sich bei einem Abschlag von zehn Prozent gegenüber der ortsüblichen Vergleichsmiete ergibt. Nebenkosten sind in den Höchstbeträgen nicht enthalten. Maßgebend ist die ortsübliche Vergleichsmiete des jeweils aktuellen Mannheimer Mietspiegels. (2) Liegt die zum 31. Dezember 2008 geschuldete Kostenmiete mehr als zehn Prozent unter der ortsüblichen Vergleichsmiete, gilt die bisherige Kostenmiete zum 1. Januar 2009 als vertraglich vereinbarte Miete. Liegt die Kostenmiete zum 31. Dezember 2008 unterhalb der ortsüblichen Vergleichsmiete aber über dem Abstandsgebot von zehn Prozent, darf die Miete ab 01.01.2009 nicht höher sein, als sie sich bei einem Abschlag von zehn Prozent gegenüber der ortsüblichen Vergleichsmiete ergibt. (3) Bei Wegfall der Selbstnutzung von Eigenheimen und Eigentumswohnungen durch die Eigentümer darf bei Vermietung dieser Wohnungen die Miete nicht höher sein, als sie sich bei einem Abschlag von zehn Prozent gegenüber der ortsüblichen Vergleichsmiete ergibt. (4) Für Mieterhöhungen ist § 558 BGB mit der Maßgabe anwendbar, dass Mieterhöhungen allenfalls bis zu der genannten Grenze von zehn Prozent unter der ortsüblichen Vergleichsmiete zulässig sind.
+Satzung der Stadt Mannheim über die Höhe der zulässigen Miete für geförderte Wohnungen
+
+Stadtrecht der Stadt Mannheim §3
+Höchstbeträge nach Modernisierung Nach einer Modernisierung im Sinne von § 559 BGB, die nach dem 31. Dezember 2008 durchgeführt wurde, kann der Vermieter die jährliche Miete grundsätzlich bis zu elf Prozent der für die Wohnung aufgewendeten Kosten erhöhen. Soweit eine Modernisierung den mittleren Standard einer entsprechenden Neubauwohnung übersteigt, dürfen nach § 32 Absatz 3 Satz 2 LWoFG höchstens vier Prozent der auf die Wohnung entfallenden Kosten auf die Jahresmiete aufgeschlagen werden. Auch nach einer Modernisierung darf die Miete nicht höher sein, als sie sich bei einem Abschlag von zehn Prozent gegenüber der ortsüblichen Vergleichsmiete ergibt. Die infolge einer Modernisierung zulässige Miete darf auch bei einem neuen Mietverhältnis vom Nachmieter verlangt werden.
+§4 Übergangsregelung Liegt die geschuldete Kostenmiete über der ortsüblichen Vergleichsmiete, gilt die bisherige Kostenmiete ab 01. Januar 2009 als vertraglich vereinbarte Miete. Ab 01. Januar 2010 gilt die ortsübliche Vergleichsmiete (ohne Abschlag von zehn Prozent) als die vertraglich vereinbarte Miete. Ab 01. Januar 2012 gilt der in § 2 Absatz 1 genannte Höchstbetrag als vertraglich vereinbarte Miete.
+§5 Inkrafttreten Diese Satzung tritt am 01. Januar 2009 in Kraft. Inkrafttreten am 01.01.2009 (Amtsblatt Nr.50 v.11.12.2008)
+Satzung der Stadt Mannheim über die Höhe der zulässigen Miete für geförderte Wohnungen
+
+Stadtrecht der Stadt Mannheim Änderungsübersicht
+Beschluss Satzung am 25.11.2008; Inkrafttreten am 01.01.2009 (Amtsblatt Nr. 50 v. 11.12.2008). Hinweis: Es ist abschließend nicht zu gewährleisten, dass die Änderungsübersicht vollständig ist.
+Satzung der Stadt Mannheim über die Höhe der zulässigen Miete für geförderte Wohnungen
