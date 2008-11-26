@@ -1,0 +1,8 @@
+# TOP 8: Sportpark Niederheid 2. Kunstrasen B+F
+
+- Sitzung: Sportausschuss (2008-11-26)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/154136
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/45531
