@@ -1,0 +1,6 @@
+# TOP 9: Pflege generell, z. B. Altenheim Cronenberg ambulante Pflege, palliativ - mündl. Bericht -
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Betriebsausschusses Alten- und Altenpflegeheime (2008-11-26)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/39736
