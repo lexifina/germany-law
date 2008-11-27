@@ -1,0 +1,83 @@
+# 24. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-11-27T16:30:00+01:00
+- Ende: 2008-11-27T22:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1928
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1928
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=62432
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - beantwortet
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-23 - beantwortet
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl eines Bürgerdeputierten für den Ausschuss für Stadtplanung und Verkehr - gewählt
+- TOP 8.4: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Umwelt, Grünflächen und Immobilienwirtschaft - gewählt
+- TOP 8.5: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Stadtplanung und Verkehr - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-1b nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XVI-1b im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bezirkshaushaltsrechnung 2007 - überwiesen
+- TOP 11.3: Sondermittel für den Umweltkreis in der evangelischen Kirchengemeinde Berlin-Müggelheim (SM 837) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Bürger für Rahnsdorf e.V. (SM 872) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Arbeitskreis Regionalmarketing Müggelsee (SM 873) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Sondermittel für MUT - Gesellschaft für Gesundheit mbH (SM 874) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sitzungsterminplan 2009 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Sondermittel für René Wiese / SAMBAKIDS (SM 876) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Finanzmittel für das Jubiläum "800 Jahre Köpenick" - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Änderung des § 34 "Beratung" Abs. 2 der Geschäftsordnung der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin vom 22. November 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Dokumentationstafel Waldstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bebauungsplan 9-6 VE ("Wasserturm Altglienicke") hier: - Änderung des Planverfahrens, Weiterführung nach § 13 a BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Bebauungsplan XVI-6 ("Müggelheimer Damm") hier: - Änderungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Einstellung der Zusammenarbeit mit der GBM (BVV-Beschluss Nr. 442/20/08 vom 26.06.2008) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Im I. Halbjahr zugelassene über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 13.2: Fortschreibung der Globalsummen 2009 - überwiesen
+- TOP 13.3: Bebauungsplan XVI-53 ("Ortskern Alt-Müggelheim") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.4: Bebauungsplan XVI-43 (Sportplatz Wendenschloßstraße") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Berlin duldet keine braunen Stiefel! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.2: Fläche An der Wuhlheide 250-270 für sportliche Nutzung erhalten - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: BA-Beschluss zur Aufhebung der Rücknahme des Entwidmungsantrages für das Grundstück An der Wuhlheide 250-270 - in der BVV zurückgezogen
+- TOP 14.4: Cabuwazi baurechtlich absichern - überwiesen
+- TOP 14.5: Standort für CABUWAZI in Alt-Treptow dauerhaft sichern - überwiesen
+- TOP 14.6: BVV-Sitzung zum Jubiläum "800 Jahre Köpenick" - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Verkehrsforum - überwiesen
+- TOP 14.8: Arztparkplätze - überwiesen
+- TOP 14.9: 800 Jahre ohne Heizpilze – der Tradition verpflichtet! - überwiesen
+- TOP 14.10: Beschilderung der Radwege R1 und RR9 - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Baumarkt Friedrichshagener Straße - überwiesen
+- TOP 14.12: Anwendung des Straßenausbaubeitragsgesetzes - überwiesen
+- TOP 14.13: Bauarbeiten Altstadt Köpenick 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Heimat von Fischotter und Biber - überwiesen
+- TOP 14.15: Staffelung der LKW-Maut zur Vermeidung von Abkürzungsfahrten - überwiesen
+- TOP 14.16: Querungsmöglichkeit in der Lindenstraße / Wuhleweg schaffen - überwiesen
+- TOP 14.17: Vertiefende Untersuchung zur Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Parkplatz Amtswäldchen - vertagt
+- TOP 14.19: Haltelinie vor Tiefgaragenausfahrt - vertagt
+- TOP 14.20: Spreearche - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Beibehaltung Friedhof Hessenwinkel - vertagt
+- TOP 14.22: Parkraumbewirtschaftung Altstadt Köpenick 2009 - überwiesen
+- TOP 14.23: Verkehrsberuhigung zur Schulwegsicherung in der Lindenallee (Friedrichshagen) - überwiesen
+- TOP 14.24: Budgetabsenkung 2009 für die Transferleistungen in der stationären Hilfe zur Pflege - überwiesen
+- TOP 14.25: Lärmmessungen in Bohnsdorf - überwiesen
+- TOP 14.26: Käthe-Tucholla-Stadion kenntlich machen - überwiesen
+- TOP 14.27: Unterstützung für das Projekt "Museum Fritz Kühn" - überwiesen
+- TOP 14.28: Eheschließungen und die Begründung eingetragener Lebenspartnerschaften außerhalb der Rathäuser ermöglichen - überwiesen
+- TOP 14.29: Umbenennung der Bushaltestelle "Frauenlobstraße" - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Interessenbekundungsverfahren Strandbad Rahnsdorf - vertagt
