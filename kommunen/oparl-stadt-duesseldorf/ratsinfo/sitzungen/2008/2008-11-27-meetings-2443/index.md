@@ -1,0 +1,57 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-11-27T15:00:00+01:00
+- Ende: 2008-11-27T18:00:00+01:00
+- Ort: extern
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2443
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2443
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126048.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126048.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126048.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Anfrage der Ratsfraktionen von CDU und FDP zu den Beratungsangeboten der Düsseldorfer Museen - zur Kenntnis genommen
+- TOP 5: Anfrage der Ratsfraktionen von CDU und FDP zur räumlichen Erweiterung des Heimatarchives Benrath - zur Kenntnis genommen
+- TOP 6: Antrag der Ratsfraktionen von CDU und FDP zur Darstellung der Landeshauptstadt Düsseldorf als Kunst- und Kulturmetropole auf der Weltausstellung Expo Shanghai 2010 - zur Kenntnis genommen
+- TOP 7: Interfraktioneller Antrag "Überprüfung baulicher Erfordernisse tanzhaus nrw" - zur Kenntnis genommen
+- TOP 8: Internetportal "rheinschiene@ktuell" - zur Kenntnis genommen
+- TOP 9: Präsentation d:kult (Bericht) - zur Kenntnis genommen
+- TOP 10: Beirat Tanz und Theater (Sitzung 04.11.2008) - zur Kenntnis genommen
+- TOP 11: Ausstellungsprogramm 1. Halbjahr 2009, Heinrich-Heine-Institut - zur Kenntnis genommen
+- TOP 12: Ausstellungsprogramm 1. Halbjahr 2009, Filmmuseum - zur Kenntnis genommen
+- TOP 13: Ausstellungsprogramm 1. Halbjahr 2009, Hetjens-Museum - zur Kenntnis genommen
+- TOP 14: Ausstellungsprogramm 1. Halbjahr 2009, Stadtmuseum - zur Kenntnis genommen
+- TOP 15: Ausstellungsprogramm 1. Halbjahr 2009, Theatermuseum - zur Kenntnis genommen
+- TOP 16: Ausstellungsprogramm 1. Halbjahr 2009, Kunstraum - zur Kenntnis genommen
+- TOP 17: Ausstellungsprogramm 1. Halbjahr 2009, Goethe-Museum - zur Kenntnis genommen
+- TOP 18: Ausstellungsprogramm 1. Halbjahr 2009, Mahn- und Gedenkstätte - zur Kenntnis genommen
+- TOP 19: Modernisierung der Stadtteilbücherei Garath, sowie Erneuerung der WC-Anlagen und Einbau eines Aufzuges in der Freizeitstätte Garath - einstimmig beschlossen
+- TOP 20: Brandschutzmaßnahmen im Kunstmuseum, Ehrenhof 5 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 21: Lichtmasterplan, Teil 2 (weitere Gremien) - einstimmig beschlossen
+- TOP 22: Zuschüsse an Theater u.ä. Einrichtungen - zur Kenntnis genommen
+- TOP 23: Zuschuss Filmfestival 2008 - zur Kenntnis genommen
+- TOP 24: Zuschuss Clara-Schumann-Ausstellung 2008 - zur Kenntnis genommen
+- TOP 25: Kosten Fördermaßnahmen Literatur - zur Kenntnis genommen
+- TOP 26: Sonderzuschüsse für Projekte 2008 - zur Kenntnis genommen
+- TOP 27: Fortsetzung der Haushaltsberatung 2009 - zur Kenntnis genommen
+- TOP 28: Antrag der SPD-Ratsfraktion zu den Haushaltsplanberatungen 2009 - Erstellung eines Masterplans für die Sanierung und Restaurierung der städtischen Kultureinrichtungen - zur Kenntnis genommen
+- TOP 29: Antrag der SPD-Ratsfraktion zu den Haushaltsplanberatungen 2009 - Ausbau und Schaffung von Musikateliers, sowie deren räumliche und finanzielle Unterstützung - zur Kenntnis genommen
+- TOP 30: Antrag der SPD-Ratsfraktion zu den Haushaltsplanberatungen 2009 - Einrichtung eines Kultur-Jugendförderpreises - zur Kenntnis genommen
+- TOP 31: Antrag der SPD-Ratsfraktion zu den Haushaltsplanberatungen 2009 - Umsetzung des musikpädagogischen Angebots "Jedem Kind ein Instrument" - zur Kenntnis genommen
+- TOP 32: Antrag der Linksfraktion Düsseldorf: Eintrittsfreier Tag in Museen und Kultureinrichtungen der Stadt - zur Kenntnis genommen
+- TOP 33: Antrag der Linksfraktion Düsseldorf: Kostenfreie Nutzung der Stadtbücherei für BürgerInnen - zur Kenntnis genommen
+- TOP 34: Antrag der Linksfraktion Düsseldorf: Erhöhung der Mittel für Bücher - zur Kenntnis genommen
+- TOP 35: Antrag der Linksfraktion Düsseldorf: Einführung eines "Kulturbeutels" für Jugendliche ab 15 Jahren - zur Kenntnis genommen
+- TOP 36: Antrag der Ratsfraktionen von CDU und FDP zu den Haushaltsplanberatungen 2009 - Förderung des Jugendsinfonieorchesters der Tonhalle Düsseldorf - zur Kenntnis genommen
+- TOP 37: Antrag der Ratsfraktionen von CDU und FDP zu den Haushaltsplanberatungen 2009 - Realisierung eines Kinder- und Jugendprojektes im Rahmen der Literaturförderung in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 38: Antrag der Ratsfraktionen von CDU und FDP zu den Haushaltsplanberatungen 2009 - Erstellung eines Internet-Auftritts "Literaturstadt Düsseldorf" im Rahmen der Literaturförderung in der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 39: Antrag der Ratsfraktionen von CDU und FDP zu den Haushaltsplanberatungen 2009 - Förderung der Konzertreihe "Ignition" in der Düsseldorfer Tonhalle - zur Kenntnis genommen
+- TOP 40: Interfraktioneller Antrag; Literaturförderung in der Landeshauptstadt Düsseldorf "Übertragen von nicht verausgabten Mitteln" - zur Kenntnis genommen
