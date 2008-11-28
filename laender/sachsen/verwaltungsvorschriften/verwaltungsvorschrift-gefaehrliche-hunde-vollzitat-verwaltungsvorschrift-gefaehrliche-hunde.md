@@ -1,8 +1,8 @@
 # Verwaltungsvorschrift Gefährliche Hunde Vollzitat: Verwaltungsvorschrift Gefährliche Hunde
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2001-10-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4031.1
+- Datum: 2008-11-28 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4031.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -25,9 +25,9 @@ Hauptinhalt
 Historische Fassung
 
 war gültig vom
-26.10.2001
+28.11.2008
 bis
-27.11.2008
+01.03.2012
 
 Verwaltungsvorschrift Gefährliche Hunde
 
@@ -42,8 +42,8 @@ Allgemeines
 Ziel
 
 Mit dem Gesetz zum Schutze der Bevölkerung vor gefährlichen Hunden (
-GefHundG ) vom 24. August 2000 (SächsGVBl. S. 358) und mit der Verordnung des Sächsischen Staatsministeriums des Innern zur Durchführung des Gesetzes zum Schutze der Bevölkerung vor gefährlichen Hunden (
-DVOGefHundG ) vom 1. November 2000 (SächsGVBl. S. 467) soll der Gefährdung der Bevölkerung des Freistaates Sachsen vor gefährlichen Hunden begegnet werden. Die Verwaltungsvorschrift enthält Begriffsbestimmungen und gibt Hinweise zur Anwendung des Gesetzes und der Durchführungsverordnung.
+GefHundG) vom 24. August 2000 (SächsGVBl. S. 358) und mit der Verordnung des Sächsischen Staatsministeriums des Innern zur Durchführung des Gesetzes zum Schutze der Bevölkerung vor gefährlichen Hunden (
+DVOGefHundG) vom 1. November 2000 (SächsGVBl. S. 467) soll der Gefährdung der Bevölkerung des Freistaates Sachsen vor gefährlichen Hunden begegnet werden. Die Verwaltungsvorschrift enthält Begriffsbestimmungen und gibt Hinweise zur Anwendung des Gesetzes und der Durchführungsverordnung.
 
 0.2
 
@@ -60,7 +60,7 @@ GefHundG
 
 Begriff der abstrakten Gefährlichkeit (§ 1 Abs. 2
 GefHundG in Verbindung mit § 1 Abs. 1
-DVOGefHundG )
+DVOGefHundG)
 
 Aggressionsverhalten gehört grundsätzlich zum normalen Verhalten eines Hundes.
 
@@ -102,7 +102,7 @@ nicht unmittelbar gegen den Hund richten, bei diesem aber ein Aggressionsverhalt
 
 Hunderassen/-gruppen, für die die Gefährlichkeitsvermutung gilt (§ 1 Abs. 1 und 2
 GefHundG in Verbindung mit § 1 Abs. 1
-DVOGefHundG )
+DVOGefHundG)
 
 1.2.1
 
@@ -140,17 +140,17 @@ Der Halter trägt keine „Beweislast“ für die Herkunft des Hundes. Trägt er
 DVOGefHundG angehört. Im Einzelnen bedeutet dies:
 
 Kann der Halter keinen Züchternachweis oder andere Dokumente vorlegen, die die Zuordnung des Hundes zu einer bestimmten Rasse beziehungsweise Gruppe ermöglichen, und besitzt der Hund keine Tätowierungsnummer, kann die Kreispolizeibehörde sich unter Berücksichtigung der typischen Wesens- und Körpermerkmale einer der Rassen beziehungsweise Gruppen sowie anderweitiger Anhaltspunkte für die Reinrassigkeit (zum Beispiel frühere Angaben des Halters; Aussage von Zeugen, vergleiche § 26 Abs. 1 Nr. 2
-SächsVwVfG ) eine eigene Überzeugung über die Rassezugehörigkeit bilden. Dabei ist auf das äußere Erscheinungsbild des zu beurteilenden Hundes abzustellen. Soweit erforderlich, kann die Behörde die Zuordnung zu einer bestimmten Rasse durch sachverständige Stellen vornehmen lassen.
+SächsVwVfG) eine eigene Überzeugung über die Rassezugehörigkeit bilden. Dabei ist auf das äußere Erscheinungsbild des zu beurteilenden Hundes abzustellen. Soweit erforderlich, kann die Behörde die Zuordnung zu einer bestimmten Rasse durch sachverständige Stellen vornehmen lassen.
 
 Ist danach die Herkunft des Tieres nicht bestimmbar, so muss davon ausgegangen werden, dass es sich bei dem Hund um einen Mischling handelt. Bei einem Mischling ist mindestens ein Elterntier kein Hund im Sinne von § 1 Abs. 1
-DVOGefHundG . Die Gefährlichkeitsvermutung scheidet für diesen Hund dann aus.
+DVOGefHundG. Die Gefährlichkeitsvermutung scheidet für diesen Hund dann aus.
 
 Eine Rassenbestimmung mittels genetischer Verfahren ist zurzeit nicht möglich.
 
 1.2.3
 
 Widerlegbarkeit der Gefährlichkeitsvermutung (§ 1 Abs. 2
-DVOGefHundG )
+DVOGefHundG)
 
 a)
 
@@ -193,7 +193,7 @@ Ferner kann bei entsprechenden Anhaltspunkten (zum Beispiel bei jungen Hunden zw
 c)
 
 Zeitliche Geltung des Gutachtens (§ 1 Abs. 2 Sätze 5 und 6
-DVOGefHundG )
+DVOGefHundG)
 
 Solange der Halter nicht wechselt , gilt das Gutachten grundsätzlich unbefristet.
 
@@ -213,14 +213,14 @@ GefHundG einzuleiten (siehe auch Nummer 1.3).
 d)
 
 Sachverständige im Hundewesen (§ 2
-DVOGefHundG )
+DVOGefHundG)
 
-Den Regierungspräsidien liegt eine Liste der vom Staatsministerium des Innern bestellten Sachverständigen vor, die bei Bedarf aktualisiert wird.
+Den Landesdirektionen liegt eine Liste der vom Staatsministerium des Innern bestellten Sachverständigen vor, die bei Bedarf aktualisiert wird.
 
 1.3
 
-Im Einzelfall gefährliche Hunde  (§ 1 Abs. 3
-GefHundG )
+Im Einzelfall gefährliche Hunde (§ 1 Abs. 3
+GefHundG)
 
 Unabhängig von seiner Zugehörigkeit zu einer bestimmten Rasse oder Gruppe ist ein einzelner Hund gefährlich im Sinne des Gesetzes, wenn er ein in § 1 Abs. 3
 GefHundG beschriebenes Verhalten zeigt oder gezeigt hat.
@@ -263,12 +263,12 @@ Zur Feststellung der Gefährlichkeit genügt es hier, wenn die Behörde von konk
 1.4
 
 Feststellung der Gefährlichkeit im Einzelfall (§ 1 Abs. 4
-GefHundG )
+GefHundG)
 
 1.4.1
 
 Anlass für die Feststellung der Gefährlichkeit eines Hundes im Einzelfall muss ein konkreter Fall oder (bei § 1 Abs. 3 Nr. 2
-GefHundG ) ein konkreter Anhaltspunkt für unangemessenes Aggressionsverhalten des einzelnen Hundes gegen Menschen, Tiere oder Sachen sein.
+GefHundG) ein konkreter Anhaltspunkt für unangemessenes Aggressionsverhalten des einzelnen Hundes gegen Menschen, Tiere oder Sachen sein.
 
 Die Kreispolizeibehörde hat die Gefährlichkeit des Hundes ausdrücklich festzustellen. In der Regel wird die Behörde aufgrund einer Anzeige seitens eines Bürgers oder Polizeivollzugsbeamten oder aus den Medien vom Vorfall Kenntnis erlangen. Vor Erlass des die Gefährlichkeit feststellenden Verwaltungsaktes ist gemäß § 1
 SächsVwVfG in Verbindung mit § 28
@@ -288,7 +288,7 @@ GefHundG ist für den Fall vorzusehen, dass der Hund erneut durch unangemessen a
 1.5
 
 Ausnahmen vom Anwendungsbereich (§ 1 Abs. 5
-GefHundG )
+GefHundG)
 
 Mit dem Einsatz „im Rahmen ihrer jeweiligen Zweckbestimmung“ ist der Einsatz während der gesamten „Dienstzeit“ der Hunde umfasst, das heißt von der In-Dienst-Stellung bis zur Außer-Dienst-Stellung, also nicht nur während der Ausübung einer einzelnen dienstlichen Aufgabe.
 
@@ -300,7 +300,7 @@ GefHundG begegnet werden, wohl aber mit den Vorschriften des allgemeinen Polizei
 2
 
 Zuchtverbot (§ 2
-GefHundG )
+GefHundG)
 
 2.1
 
@@ -309,7 +309,7 @@ Zucht ist das Verpaaren einer Hündin mit einem Rüden sowie die künstliche Bes
 Anwendungsbereich
 
 Erfasst sind nur Hunde nach § 1 Abs. 1
-DVOGefHundG , deren Gefährlichkeit nicht widerlegt ist.
+DVOGefHundG, deren Gefährlichkeit nicht widerlegt ist.
 
 2.2
 
@@ -339,7 +339,7 @@ StGB).
 3
 
 Handelsverbot (§ 3
-GefHundG )
+GefHundG)
 
 3.1
 
@@ -352,7 +352,7 @@ Anwendungsbereich
 Das Verbot gilt nicht für Tierheime und vergleichbare Einrichtungen, soweit sie lediglich die während der Betreuung eines Hundes entstandenen Kosten (zum Beispiel für Impfungen, Entwurmung) berechnen.
 
 Nicht verboten ist der Handel mit Welpen und Junghunden bis zu einem Alter von sechs Monaten (§ 1 Abs. 1 Satz 2
-DVOGefHundG ).
+DVOGefHundG).
 
 Ausgenommen vom Handelsverbot sind ferner
 
@@ -361,7 +361,7 @@ DVOGefHundG widerlegt wurde, sowie
 
 Hunde, die gemäß § 5 Abs. 2
 GefHundG bis zum 31. Dezember 2000 angezeigt wurden, sowie deren Nachkömmlinge im Sinne von § 5 Abs. 2 Satz 4
-GefHundG .
+GefHundG.
 
 3.3
 
@@ -379,14 +379,14 @@ OWiG besteht daher regelmäßig die Pflicht der Verwaltungsbehörde zur Abgabe d
 4
 
 Ausbildungsverbot (§ 4
-GefHundG )
+GefHundG)
 
 Zum Begriff der gesteigerten (unangemessenen) Aggressivität siehe Nummer 1.1.
 
 Bei Hunden, die zu Schutzzwecken ausgebildet werden und nicht den diensthundhaltenden Behörden angehören, darf die ausbilderische Zielstellung lediglich auf eine angemessene, ausschließlich defensiv orientierte Verteidigungsbereitschaft des Hundes ausgerichtet sein. Die Verteidigungsbereitschaft kann sich auf den Schutz und die Bewachung sowohl von Personen, Tieren oder Sachen als auch von territorialen Bereichen beziehen.
 
 Sämtliche Ausbildungsmethoden, die über eine ausschließlich defensive Orientierung hinausgehen und dabei insbesondere nicht provozierte Angriffshandlungen des Hundes gegen Menschen oder Tiere beinhalten, unterliegen einem Verbot im Sinne von § 4
-GefHundG .
+GefHundG.
 
 Ausnahmen von diesem Verbot gelten für die Ausbildung eines Hundes zu Schutzzwecken für Dritte. In diesen Fällen bedarf die Ausbildung einer Erlaubnis nach § 11 Abs. 1 Satz 1 Nr. 2 b) TierschutzG durch die zuständige Behörde (in Sachsen: die Lebensmittelüberwachungs- und Veterinärämter).
 
@@ -396,12 +396,12 @@ GefHundG ausgenommen, wenn die Ausbildung keine gegen Zivilpersonen gerichtete K
 5
 
 Haltung gefährlicher Hunde (§ 5
-GefHundG )
+GefHundG)
 
 5.1
 
 Voraussetzungen der Erlaubnis (§ 5 Abs. 1
-GefHundG )
+GefHundG)
 
 Die Erlaubnis umfasst stets nur einen bestimmten Hund und ist an die Person des Antragstellers gebunden.
 
@@ -417,7 +417,7 @@ GefHundG ist, wer für eine gewisse Dauer die tatsächliche Bestimmungsmacht üb
 Danach ist Haltung auch eine nur vorübergehende Betreuung mit Unterbringung (mindestens für eine Nacht).
 
 Halter ist nicht schon, wer einen Hund zur Führung überlassen bekommen hat, vergleiche § 6 Abs. 2
-GefHundG , oder wem kurzzeitig die tatsächliche Beaufsichtigung des Hundes übertragen wird.
+GefHundG, oder wem kurzzeitig die tatsächliche Beaufsichtigung des Hundes übertragen wird.
 
 Kann der Halter die Betreuung nicht selbst ausüben, hat er die sachkundige Haltung des Hundes durch eine andere Person (Dritter) zu gewährleisten. Der Dritte muss in seiner Person die Voraussetzungen des § 5 Abs. 1
 GefHundG erfüllen, das heißt
@@ -471,7 +471,7 @@ Unterbringung des Hundes
 a)
 
 Bei der verhaltensgerechten Unterbringung von gefährlichen Hunden (§ 5 Abs. 1 Nr. 4
-GefHundG ) sind die Vorschriften des
+GefHundG) sind die Vorschriften des
 Tierschutzgesetzes (TierSchG), der Tierschutz-Hundeverordnung vom 2. Mai 2001 (BGBl. I, S. 838 ff.) und der dazu erlassenen Ausführungsbestimmungen zur artgerechten Haltung zu beachten.
 
 b)
@@ -491,19 +491,19 @@ GefHundG die Genehmigung mit der Auflage verbunden werden, innerhalb einer besti
 Darstellung der Nebenbestimmungen
 
 Eine Befristung der Erlaubnis (§ 5 Abs. 1 Satz 3
-GefHundG ) kommt zum Beispiel in Betracht:
+GefHundG) kommt zum Beispiel in Betracht:
 
 a)
 
 im Hinblick auf § 9 Abs. 1
-GefHundG , wenn im Zeitpunkt der Entscheidung über den Erlaubnisantrag oder der Genehmigung nach § 5 Abs. 3 Satz 1
+GefHundG, wenn im Zeitpunkt der Entscheidung über den Erlaubnisantrag oder der Genehmigung nach § 5 Abs. 3 Satz 1
 GefHundG ein strafrechtliches Ermittlungsverfahren gegen den Antragsteller anhängig ist, das in den Nummern 1 bis 3 des § 9 Abs. 1
 GefHundG genannte Straftaten zum Gegenstand hat. In diesem Fall sollte der Halter die Auflage erhalten, nach einer bestimmten Zeit (zum Beispiel zwei Jahre) erneut einen Auszug aus dem Bundeszentralregister vorzulegen;
 
 b)
 
 im Hinblick auf § 9 Abs. 2
-GefHundG , wenn der Antragsteller in der Vergangenheit bereits gegen die dort in Nummer 1 oder in Nummer 4 genannten Vorschriften verstoßen hat. Nach Ablauf einer bestimmten Zeit sollte geprüft werden, ob zwischenzeitlich ein erneuter Verstoß erfolgte.
+GefHundG, wenn der Antragsteller in der Vergangenheit bereits gegen die dort in Nummer 1 oder in Nummer 4 genannten Vorschriften verstoßen hat. Nach Ablauf einer bestimmten Zeit sollte geprüft werden, ob zwischenzeitlich ein erneuter Verstoß erfolgte.
 
 Gegenstand von Auflagen der Kreispolizeibehörde können insbesondere sein:
 
@@ -513,13 +513,13 @@ GefHundG vorgeschrieben ist
 therapeutische Maßnahmen für den Hund
 
 Sterilisation/Kastration (§ 5 Abs. 3 Satz 3
-GefHundG )
+GefHundG)
 
 Haltungsbedingungen (§ 5 Abs. 4
-GefHundG )
+GefHundG)
 
 Ausgestaltung der Leinen- oder Maulkorbpflicht (§ 6 Abs. 1
-GefHundG ; siehe Nummer 6.1).
+GefHundG; siehe Nummer 6.1).
 
 5.1.6
 
@@ -563,16 +563,16 @@ Soweit erforderlich, wirken Kreis- und Ortspolizeibehörde zusammen und leisten 
 
 Zuständig für weitere Maßnahmen sind daher – gemäß § 60 Abs. 1, 3
 SächsPolG in erster Linie die Polizeibehörden, der Polizeivollzugsdienst dann, wenn ein sofortiges Tätigwerden erforderlich erscheint (§ 60 Abs. 2
-SächsPolG ). Sachlich zuständig sind die Ortspolizeibehörden (§ 68 Abs. 2
-SächsPolG ).
+SächsPolG). Sachlich zuständig sind die Ortspolizeibehörden (§ 68 Abs. 2
+SächsPolG).
 
 Als polizeiliche Maßnahme kommt insbesondere eine Beschlagnahme des Hundes nach § 27 Abs. 1 Nr. 1
 SächsPolG in Betracht. Die Beschlagnahme darf nicht länger als sechs Monate aufrechterhalten werden (§ 27 Abs. 3
-SächsPolG ).
+SächsPolG).
 
 Die Polizei (Ortspolizeibehörde oder Polizeivollzugsdienst, vergleiche § 60 Abs. 3
-SächsPolG ) verwahrt den beschlagnahmten Hund entweder selbst oder übergibt ihn Dritten zur Verwahrung , § 29 Abs. 3 in Verbindung mit § 27, § 29 Abs. 1 Sätze 2 und 3
-SächsPolG .
+SächsPolG) verwahrt den beschlagnahmten Hund entweder selbst oder übergibt ihn Dritten zur Verwahrung , § 29 Abs. 3 in Verbindung mit § 27, § 29 Abs. 1 Sätze 2 und 3
+SächsPolG.
 
 Der
 Verhältnismäßigkeitsgrundsatz
@@ -589,11 +589,11 @@ SächsPolG die Einziehung angeordnet und der Hund eingezogen werden.
 Die Verwertung im Wege der öffentlichen Versteigerung gemäß § 28 Abs. 2
 SächsPolG ist zwar grundsätzlich denkbar. Eine Versteigerung wird jedoch gerade bei gefährlichen Hunden kaum erfolgreich sein, so dass nach § 28 Abs. 2 a
 SächsPolG auch die freihändige Veräußerung zulässig ist. Ist eine Verwertung im Sinne von § 28 Abs. 2, 2 a
-SächsPolG , das heißt eine Vermittlung des beschlagnahmten Hundes an einen anderen Halter nicht möglich, bleibt – nach der Systematik des Polizeirechts – nur die Vernichtung , das heißt Einschläferung des Hundes, § 28 Abs. 3
-SächsPolG .
+SächsPolG, das heißt eine Vermittlung des beschlagnahmten Hundes an einen anderen Halter nicht möglich, bleibt – nach der Systematik des Polizeirechts – nur die Vernichtung , das heißt Einschläferung des Hundes, § 28 Abs. 3
+SächsPolG.
 
 Diese Konsequenz bietet keinen Grund, die Bestimmungen über polizeiliche Maßnahmen, insbesondere die §§ 26 ff.
-SächsPolG , von vornherein auf Tiere nicht anzuwenden. Vielmehr sind für Hunde nach § 90 a Satz 3
+SächsPolG, von vornherein auf Tiere nicht anzuwenden. Vielmehr sind für Hunde nach § 90 a Satz 3
 BGB
 die Vorschriften über Sachen entsprechend anwendbar; die vom
 Tierschutzgesetz gezogenen Grenzen sind dabei aber zu beachten.
@@ -617,8 +617,8 @@ Vor Anordnung der Einschläferung hat sich die gemäß §§ 28 Abs. 3, 60, 68 Ab
 SächsPolG zuständige Behörde mit dem Amtstierarzt ins Benehmen zu setzen.
 
 Die Kosten der Beschlagnahme und der bis zur Einziehung erforderlichen Verwahrung trägt der Halter, § 29 Abs. 3, 1 Satz 3
-SächsPolG , ebenso die Kosten der Verwertung oder einer eventuellen Einschläferung, § 28 Abs. 4
-SächsPolG .
+SächsPolG, ebenso die Kosten der Verwertung oder einer eventuellen Einschläferung, § 28 Abs. 4
+SächsPolG.
 
 c)
 
@@ -630,12 +630,12 @@ Sächsische Verwaltungsvollstreckungsgesetz ist anwendbar, wenn eine von der Kre
 GefHundG erlassene Haltungsuntersagung vollstreckt werden soll.
 
 Als Zwangsmittel kommt hier insbesondere die Ersatzvornahme (§ 24
-SächsVwVG ) in Betracht.
+SächsVwVG) in Betracht.
 
 5.2
 
 Übergangsregelung (§ 5 Abs. 2
-GefHundG )
+GefHundG)
 
 5.2.1
 
@@ -651,7 +651,7 @@ Für Nachkömmlinge dieser Nachkömmlinge gelten dann wiederum die allgemeinen R
 5.2.2
 
 Bedenken gegen die Zuverlässigkeit des Halters (§ 5 Abs. 2 Satz 2
-GefHundG )
+GefHundG)
 
 Zur Prüfung der Zuverlässigkeit siehe Nummer 9.
 
@@ -664,7 +664,7 @@ GefHundG bestehen, ist von der Zuverlässigkeit des Halters auszugehen.
 5.3
 
 Verbot der Haltung eines Hundes bei festgestellter Gefährlichkeit im Einzelfall (§ 5 Abs. 3
-GefHundG )
+GefHundG)
 
 5.3.1
 
@@ -683,22 +683,22 @@ Untersagung nach den unter Nummer 5.1.7 aufgeführten Grundsätzen; insbesondere
 5.4
 
 Gefahrvermeidung bei Haltung gefährlicher Hunde (§ 5 Abs. 4
-GefHundG )
+GefHundG)
 
 Eine Konkretisierung der diesbezüglichen Halterpflichten erfolgt beispielhaft in § 6
-GefHundG .
+GefHundG.
 
 5.5
 
 Warnschilder (§ 5 Abs. 5
-GefHundG )
+GefHundG)
 
 In den Warnschildern darf nur das Begriffspaar „Gefährlicher Hund“ enthalten sein.
 
 5.6
 
 Nachschaurecht/Überprüfung der sicheren Haltung gefährlicher Hunde durch die Kreispolizeibehörde (§ 5 Abs. 6
-GefHundG )
+GefHundG)
 
 5.6.1
 
@@ -718,14 +718,14 @@ c)
 
 die Einhaltung der dem Halter erteilten Auflagen.
 
-Die Nachschau soll anlassbezogen, ansonsten je nach Erforderlichkeit in regelmäßigen Abständen erfolgen. Die Kreispolizeibehörden legen dem Staatsministerium des Innern einmal jährlich, jeweils zum 15. März auf dem Dienstweg über die Regierungspräsidien einen Bericht über durchgeführte Nachschauen und deren Ergebnisse vor.
+Die Nachschau soll anlassbezogen, ansonsten je nach Erforderlichkeit in regelmäßigen Abständen erfolgen. Die Kreispolizeibehörden legen dem Staatsministerium des Innern einmal jährlich, jeweils zum 15. März auf dem Dienstweg über die Landesdirektionen einen Bericht über durchgeführte Nachschauen und deren Ergebnisse vor.
 
 5.6.2
 
 Verfahren
 
 Die nachschauenden Personen handeln, sofern sie nicht Bedienstete der Kreispolizeibehörde sind, als Beauftragte der Kreispolizeibehörde. Sowohl Bedienstete als auch Beauftragte müssen sich entsprechend ausweisen (§ 8
-SächsPolG ).
+SächsPolG).
 
 Die nachschauenden Personen müssen sachkundig sein. Bestehen Anhaltspunkte für eine Gefährdungssituation, kann der Polizeivollzugsdienst hinzugezogen werden. Auf die Vorschriften der Vollzugshilfe §§ 61 ff.
 SächsPolG wird hingewiesen.
@@ -751,7 +751,7 @@ SächsVwVfG angewandt werden.
 6
 
 Anlein- und Maulkorbpflicht (§ 6
-GefHundG )
+GefHundG)
 
 Konkretisierende Hinweise hierzu können sich zum Beispiel aus dem Sachverständigengutachten nach § 1 Abs. 2
 DVOGefHundG (Wesensanalyse) ergeben.
@@ -769,7 +769,7 @@ Reichweite
 6.1.1
 
 Maulkorbpflicht (§ 6 Abs. 1
-GefHundG )
+GefHundG)
 
 Folgende Anforderungen an die Beschaffenheit sind zu beachten:
 
@@ -788,21 +788,21 @@ Bestimmte Materialien wie zum Beispiel Nylon können infolge von Sauerstoffmange
 6.1.2
 
 Anleinpflicht (§ 6 Abs. 1
-GefHundG )
+GefHundG)
 
 Eine zur Führung eines gefährlichen Hundes als geeignet anzusehende Leine muss ausreichenden Kontrollmechanismus über den Hund durch den Hundeführer ermöglichen. Die Hundeleine muss auf jeden Fall reiß- und bruchfest sein. In begründeten Einzelfällen kann die Leinenlänge per Auflage durch die Kreispolizeibehörde vorgeschrieben werden. So kann beispielsweise bei einem ständig wildernden Hund eine 10 m lange – so genannte Schleppleine – ausreichend sein, während bei einem bissigen Hund eine Leinenlänge von maximal zwei Metern vorgeschrieben werden kann.
 
 6.2
 
 Geeignetheit zum Führen eines Hundes (§ 6 Abs. 2
-GefHundG )
+GefHundG)
 
 (keine Erläuterungen)
 
 6.3
 
 gleichzeitiges Führen von mehreren Hunden (§ 6 Abs. 3
-GefHundG )
+GefHundG)
 
 Nicht erfasst ist das Führen eines gefährlichen zusammen mit einem oder mehreren ungefährlichen Hund(en).
 
@@ -811,32 +811,32 @@ Im konkreten Einzelfall können Bestimmungen dazu durch Auflage getroffen werden
 6.4
 
 weiterführende Regelungen (§ 6 Abs. 4
-GefHundG )
+GefHundG)
 
 Beim Erlass von Polizeiverordnungen nach § 14 ist die höherrangige und abschließende Regelung des § 6 Abs. 4 Satz 2 zu beachten.
 
 7
 
 Mitteilungspflichten (§ 7
-GefHundG )
+GefHundG)
 
 § 7
 GefHundG erfasst die Haltung von
 
 vermutet gefährlichen Hunden, soweit die Vermutung nicht widerlegt wurde (§ 1 Abs. 1 und 2
-GefHundG , § 1 Abs. 1
-DVOGefHundG ),
+GefHundG, § 1 Abs. 1
+DVOGefHundG),
 
 im Einzelfall gefährlichen Hunden (§ 1 Abs. 3, 4
-GefHundG ) sowie von
+GefHundG) sowie von
 
 Hunden, die nach der Übergangsregelung (§ 5 Abs. 2
-GefHundG ) angezeigt wurden.
+GefHundG) angezeigt wurden.
 
 7.1
 
 Anzeigepflichten des Halters (§ 7 Abs. 1
-GefHundG )
+GefHundG)
 
 Die in § 7 Abs. 1 Sätze 1 und 2
 GefHundG geregelten Anzeigepflichten des Halters bestehen gegenüber der für ihn bis zum anzeigepflichtigen Ereignis örtlich zuständigen Kreispolizeibehörde.
@@ -874,22 +874,22 @@ SächsDSG zulässig.
 7.2
 
 Übermittlung von Daten durch die Gemeinde an die Kreispolizeibehörde (§ 7 Abs. 2
-GefHundG )
+GefHundG)
 
 Die für den neuen Halter zuständige Kreispolizeibehörde erhält Kenntnis von Name und Anschrift des neuen Halters grundsätzlich durch diesen selbst. Die entsprechende Mitteilungspflicht des für ihn zuständigen Gemeindesteueramtes nach Absatz 2 entsteht nur, wenn die Gemeinde eine Hundesteuersatzung erlassen hat, die zwischen gefährlichen und nicht gefährlichen Hunden unterscheidet.
 
 8
 
 Sachkunde (§ 8
-GefHundG )
+GefHundG)
 
 8.1
 
 Themenkatalog (vergleiche §§ 3, 4 Abs. 1
-DVOGefHundG )
+DVOGefHundG)
 
 Die zum Nachweis der Sachkunde (§ 5 Abs. 1 Nr. 2
-GefHundG ) erforderlichen Kenntnisse beziehen sich auf die acht zu prüfenden Themenbereiche:
+GefHundG) erforderlichen Kenntnisse beziehen sich auf die acht zu prüfenden Themenbereiche:
 
 Umweltverhalten
 
@@ -909,8 +909,8 @@ Aggressionen.
 
 Diese Themenbereiche sind in erster Linie Gegenstand des theoretischen Teils der Prüfung. Diesbezügliche Kenntnisse werden aber auch im praktischen Teil – als Hintergrundwissen – vorausgesetzt.
 
-Den Kreispolizeibehörden liegt ein vom Staatsministerium des Innern für verbindlich erklärter Themenkatalog  gemäß § 4 Abs. 1 Satz 2
-DVOGefHundG  (Stand: Juli 2001) vor.
+Den Kreispolizeibehörden liegt ein vom Staatsministerium des Innern für verbindlich erklärter Themenkatalog gemäß § 4 Abs. 1 Satz 2
+DVOGefHundG                (Stand: Juli 2001) vor.
 
 Er dient den Kreispolizeibehörden als Material, auf dessen Grundlage die Fragen zum theoretischen und zum praktischen Teil der Sachkundeprüfung auszuarbeiten sind.
 
@@ -919,7 +919,7 @@ Auf Anfrage ist interessierten Prüfungsbewerbern zur Vorbereitung auf die Prüf
 8.1.1
 
 Theoretische Kenntnisse (§ 4 Abs. 4
-DVOGefHundG )
+DVOGefHundG)
 
 Der theoretischen Prüfung wird im Wesentlichen der mit dem Staatsministerium des Innern abgestimmte, über die Landespolizeidirektion Zentrale Dienste Sachsen mit Schreiben vom 25. April 2001 an die Kreispolizeibehörden herausgegebene Fragenkatalog (in der Fassung vom 21. Juni 2001) zugrundegelegt.
 
@@ -928,7 +928,7 @@ Es wird empfohlen, daraus etwa 25, von Termin zu Termin unterschiedliche, Fragen
 8.1.2
 
 Praktische Kenntnisse (§ 4 Abs. 5
-DVOGefHundG )
+DVOGefHundG)
 
 Die in der Sachkundeprüfung erfassten praktischen Fähigkeiten beziehen sich auf den zwischenartlichen Umgang zwischen Halter und Hund. Dabei stehen die körperliche und die psychische Kommunikation mit einem fremden Hund im Vordergrund.
 
@@ -965,7 +965,7 @@ Sachkundeprüfung
 8.2.1
 
 Einrichtung des Prüfungsausschusses (§ 4 Abs. 2 Satz 1
-DVOGefHundG )
+DVOGefHundG)
 
 Der Prüfungsausschuss gibt sich eine Geschäftsordnung , die insbesondere Bestimmungen zu folgenden Punkten enthält:
 
@@ -1012,7 +1012,7 @@ schriftliche Begründung des Prüfungsergebnisses sowie Hinweis auf Recht des Be
 8.2.2
 
 Zusammensetzung des Prüfungsausschusses (§ 4 Abs. 2
-DVOGefHundG )
+DVOGefHundG)
 
 Die Ausschussmitglieder müssen nicht selbst die Sachkundeprüfung nach §§ 3 ff.
 DVOGefHundG abgelegt haben.
@@ -1041,7 +1041,7 @@ Der Vertreter des Ordnungsamtes ist in erster Linie dazu berufen, die rechtliche
 8.2.3
 
 Ablauf der Prüfung (§ 4 Abs. 4 und 5
-DVOGefHundG )
+DVOGefHundG)
 
 a)
 
@@ -1069,22 +1069,22 @@ der künftige Hundehalter der vorgesehenen sozialen Kontaktaufnahme mit deutlich
 c)
 
 Bei dem durch die zuständige Prüfungskommission zur Verfügung gestellten Hund (§ 4 Abs. 5
-DVOGefHundG ) sollte es sich um einen ungefährlichen Hund handeln, der mittelgroß bis groß und umgänglich, unbefangen, ausgesprochen sozialverträglich und spielfreudig ist. Diensthunde, die besondere Schutzaufgaben wahrnehmen, sind im Hinblick auf ihre besondere Ausbildung ungeeignet.
+DVOGefHundG) sollte es sich um einen ungefährlichen Hund handeln, der mittelgroß bis groß und umgänglich, unbefangen, ausgesprochen sozialverträglich und spielfreudig ist. Diensthunde, die besondere Schutzaufgaben wahrnehmen, sind im Hinblick auf ihre besondere Ausbildung ungeeignet.
 
 Grundsätzlich trägt der Landkreis/die Kreisfreie Stadt für den Zeitraum der Prüfung als Inhaber der Sachherrschaft die Tierhalterhaftung.
 
 8.2.4
 
 Bei Bestehen der gesamten Prüfung ist dies durch eine amtliche Bescheinigung zu dokumentieren (§ 4 Abs. 7
-DVOGefHundG ).
+DVOGefHundG).
 
 Bei Bestehen nur eines Prüfungsteils ist dem Prüfungsteilnehmer Gelegenheit zu geben, den anderen Teil innerhalb angemessener Zeit zu wiederholen (§ 4 Abs. 4
-DVOGefHundG ).
+DVOGefHundG).
 
 8.3
 
 Sachkundenachweis (§§ 4 Abs. 6, 5
-DVOGefHundG )
+DVOGefHundG)
 
 8.3.1
 
@@ -1104,7 +1104,7 @@ DVOGefHundG entsprechen.
 
 8.3.3
 
-Die Kreispolizeibehörde legt bei ihr eingereichte Nachweise im Sinne der Nummern 8.3.1.und 8.3.2 über das Regierungspräsidium dem Staatsministerium des Innern zur Prüfung vor.
+Die Kreispolizeibehörde legt bei ihr eingereichte Nachweise im Sinne der Nummern 8.3.1.und 8.3.2 über die Landesdirektion dem Staatsministerium des Innern zur Prüfung vor.
 
 9
 
@@ -1153,11 +1153,11 @@ BZRG nur Verurteilungen zu mehr als neunzig Tagessätzen Geldstrafe beziehungswe
 
 Regelmäßig zu verneinende Zuverlässigkeit
 
-Sind Tatsachen bekannt, die Bedenken gegen die Zuverlässigkeit im Sinne des  § 9 Abs. 2 Nr. 2
-GefHundG  begründen, so kann die Kreispolizeibehörde verlangen, dass der Antragsteller ein amts- oder fachärztliches Zeugnis über seine geistige und körperliche Eignung vorlegt.
+Sind Tatsachen bekannt, die Bedenken gegen die Zuverlässigkeit im Sinne des § 9 Abs. 2 Nr. 2
+GefHundG                begründen, so kann die Kreispolizeibehörde verlangen, dass der Antragsteller ein amts- oder fachärztliches Zeugnis über seine geistige und körperliche Eignung vorlegt.
 
-Bestehen tatsächliche Anhaltspunkte dafür, dass der Antragsteller betreut wird  (§ 9 Abs. 2 Nr. 3
-GefHundG )  , so kann die Kreispolizeibehörde das zuständige Vormundschaftsgericht um Mitteilung gemäß § 69 k FG bitten.
+Bestehen tatsächliche Anhaltspunkte dafür, dass der Antragsteller betreut wird (§ 9 Abs. 2 Nr. 3
+GefHundG) , so kann die Kreispolizeibehörde das zuständige Vormundschaftsgericht um Mitteilung gemäß § 69 k FG bitten.
 
 10
 
@@ -1333,8 +1333,6 @@ Anlage 2
 
 Anlage 3
 
-Anlage 3, Blatt 2
-
 Anlage 4
 
 Anlage 5
@@ -1349,9 +1347,9 @@ Fsn-Nr.: 22-V01.2
 
 Gültigkeitszeitraum
 
-Fassung gültig ab: 26. Oktober 2001
+Fassung gültig ab: 28. November 2008
 
-Fassung gültig bis: 27. November 2008
+Fassung gültig bis:  1. März 2012
 
 Drucken/Speichern
 
@@ -1378,7 +1376,7 @@ Barrierefreiheit
 |  |
 
 Quelle: REVOSax
-https://www.revosax.sachsen.de/vorschrift/4031.1
+https://www.revosax.sachsen.de/vorschrift/4031.2
 Stand vom
 18.11.2026
 
