@@ -1,4 +1,4 @@
 # Gesetz über die Weiterbildung in den Gesundheitsfachberufen im Freistaat Sachsen (Weiterbildungsgesetz Gesundheitsfachberufe – SächsGfbWBG)
 Vom 4. November 2002
-Rechtsbereinigt mit Stand vom 1. August 2008
+Rechtsbereinigt mit Stand vom 30. November 2008
 Der Sächsische Landtag hat am 10. Oktober 2002 das folgende Gesetz beschlossen:
