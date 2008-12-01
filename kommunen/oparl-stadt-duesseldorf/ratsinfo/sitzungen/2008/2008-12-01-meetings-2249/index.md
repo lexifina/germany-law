@@ -1,0 +1,74 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-12-01T15:00:00+01:00
+- Ende: 2008-12-01T16:50:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2249
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2249
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096631.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096631.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096631.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wirtschaftsplan 2009 - einstimmig beschlossen
+- TOP 4: Jahresabschluss- und Lagebericht 2007 des Stadtbetriebs Zentrale Dienste - einstimmig beschlossen
+- TOP 5: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2008 bis 2012 - einstimmig beschlossen
+- TOP 6: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2009 - einstimmig beschlossen
+- TOP 7: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum vom 01.01.2009 bis 31.12.2009 - einstimmig beschlossen
+- TOP 8: Kalkulation und Beibehaltung der seit dem 01.10.1997 gültigen Tarifsätze zur Übernahme, Behandlung und Entsorgung von Fäkalschlämmen in dem Klärwerk Düsseldorf-Süd für den Kalkulationszeitraum 2009 - einstimmig beschlossen
+- TOP 9: Kalkulation der Gebührensätze im Stadtgebiet Düsseldorf für den Zeitraum 1. Januar 2009 bis einschließlich 31.12.2009 - einstimmig beschlossen
+- TOP 10: Neufestsetzung der Personal- und Fahrzeugkostensätze ab 01.01.2009 gemäß der Richtlinien über die Erhebung von Entgelten für Leistungen der Chemisch-biologischen Laboratorien der Landeshauptstadt Düsseldorf vom 27.01.1983 - einstimmig beschlossen
+- TOP 11: Gebührenkalkulation Straßenreinigung für 2009 - einstimmig beschlossen
+- TOP 12: 18. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2009 - passieren lassen
+- TOP 14: 9. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshaupstadt Düsseldorf (Abfallentsorgungssatzung) - passieren lassen
+- TOP 15: 18. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (2009) - passieren lassen
+- TOP 16: Etatberatung 2009 - passieren lassen
+- TOP 17: Haushaltssatzung für das Haushaltsjahr 2009 - passieren lassen
+- TOP 18: Mitbringen - passieren lassen
+- TOP 19: HhPl 2009 - passieren lassen
+- TOP 20: Vorbericht - passieren lassen
+- TOP 21: Bezirksansätze - passieren lassen
+- TOP 22: Beteiligungsbericht - passieren lassen
+- TOP 23: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung - passieren lassen
+- TOP 24: 1. VVZ - passieren lassen
+- TOP 25: 2. Veränderungsverzeichnis zum Haushaltsplanentwurf 2009 - passieren lassen
+- TOP 26: 3. Veränderungsverzeichnis zum Haushaltsplanentwurf 2009 - passieren lassen
+- TOP 27: Stellenplan 2009 - passieren lassen
+- TOP 28: Kämmererliste - einstimmig beschlossen
+- TOP 29: KLR - zur Kenntnis genommen
+- TOP 30: Umwandlung von Realschulen und Gymnasien in gebundene Ganztagsschulen - einstimmig beschlossen
+- TOP 31: Grundsatzbeschluss Im Liefeld - einstimmig beschlossen
+- TOP 32: Sportpark Niederheid 2. Kunstrasen B+F - einstimmig beschlossen
+- TOP 33: Modernisierung der Stadtteilbücherei Garath, sowie Erneuerung der WC-Anlagen und Einbau eines Aufzuges in der Freizeitstätte Garath - einstimmig beschlossen
+- TOP 34: Gerresheimer Landstraße 89, Neubau einer 3-fach Sporthalle - Grundsatzbeschluss - - passieren lassen
+- TOP 35: Brandschutzmaßnahmen im Kunstmuseum, Ehrenhof 5 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 36: Simon-Gatzweiler-Platz, Niederschlagwasserbehandlung und Alberichweg, Zuleitungssammler - Grundsatzbeschluss - einstimmig beschlossen
+- TOP 37: Neubau einer Kindertages- und Jugendfreizeiteinrichtung, Heinrich-Walbröhl-Weg - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 38: Umbau Konrad-Adenauer-Platz /Grundsatzbeschluss - zurückgezogen
+- TOP 39: Güterbahnhof Derendorf - zurückgezogen
+- TOP 40: Bilker Kirche - Gleiseckverbindung - einstimmig beschlossen
+- TOP 41: Neubau Öffentliche Grünanlage mit Kinderspielplätzen Neue Stadtquartiere Derendorf - einstimmig beschlossen
+- TOP 42: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 43: AR Quadriennale GmbH - passieren lassen
+- TOP 44: AR Sportmarketing Düsseldorf GmbH - einstimmig beschlossen
+- TOP 45: Zero Stiftung - passieren lassen
+- TOP 46: Beirat Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 47: Wahl einer Schiedsperson - einstimmig beschlossen
+- TOP 48: Neufassung der Vorlage 70/41/2008 - passieren lassen
+- TOP 49: Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 50: Änderung und Ergänzung der Gebührensatzung für die städtischen Friedhöfe der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 51: Aufhebung der Satzung über die Bildung von Bestattungsbezirken in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 52: Öffentliche Beleuchtung ab 2009 - zur Kenntnis genommen
+- TOP 53: Beitritt des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf Anfang 2009 zur "Allianz der öffentlichen Wasserwirtschaft e. V." - einstimmig beschlossen
+- TOP 54: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 55: B-Plan 6171/048-§13-Änd.; Satzung - einstimmig beschlossen
+- TOP 56: Antrag Bü90/Grü: Kein Kohlekraftwerk in Düsseldorf - zurückgezogen
+- TOP 57: 60er HFA: Arena AR - mehrheitlich beschlossen
