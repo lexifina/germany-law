@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2008-12-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1346932
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1346932
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 2.1.: StadtschülerInnenvertretung München stellt sich vor
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Vermeidung und Bewältigung von Armut
+- TOP 3.2.: Implerstraße 51a; Zweckentfremdung von Wohnraum, Schaffung eines Büros zur Betreuung der zukünftigen Bewohner
+- TOP 3.3.: Sicherung und Ausweitung zielgruppenspez. Erziehungsberatung
+- TOP 4.: Schulreferat
+- TOP 4.1.: Sportanlage Wackersberger Str. 49; Lärmbeslästigung der Anwohner
+- TOP 5.1.: Freischankfläche Plinganserstr. 9
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Parkraummanagement in Sendling
+- TOP 6.2.: Lichtzeichenanlagenbauprogramm 2009
+- TOP 6.3.: Meldeliste Bauvorhaben SWM
+- TOP 6.4.: Aberlestr. 13; Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 7.1.: Neuauflage der Stadtteilbroschüre Sendling
+- TOP 7.2.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der BAs
+- TOP 7.3.: Budgetantrag Historische Gruppe Schmied von Kochel; Fackelzug am 24.12.2008, ? 380,-
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bebauungsplan Stemmerhof; Aufstellungsbeschluss
+- TOP 8.3.: 2. S-Bahn-Stammstrecke München; Planfeststellung
+- TOP 8.4.: Theresienhöhe Süd MK5; Gutachterliches Planungsverfahren
+- TOP 8.5.: Demleitnerstr. 4; Nutzungsänderung zweier Unterrichtsräume zu Gastraumnebenzimmern
+- TOP 8.6.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten
+- TOP 9.: Baureferat
+- TOP 9.1.: Randsteinabsenkungen an den Fußgängerüberwegen am Harras
+- TOP 9.2.: Weihnachtsbeleuchtung im städtischen Einflussbereich; München leuchtet effizient zur Weihnachtszeit
+- TOP 9.3.: Jubiläumsfeier des KJT 2Club; Zelt in der Grünanlage am Dietramszeller Platz
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Meindlstr. 18 - 18c
+- TOP 10.2.: Baumfällung Implerstr. 40 - 42a
+- TOP 10.3.: Baumfällung Oberländerstr. 33
+- TOP 10.4.: Bauvorhaben Lindwurmstr. 122 - 124; Baumfällungen
+- TOP 10.5.: Entfernung des Kastanienlaubes zur Bekämpfung der Miniermotte
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Umgestaltung der Albert-Roßhaupter-Straße; vorübergehende Aussaat auf dem provisorisch mit Humus versehenen Mittelstreifen
+- TOP 11.2.: Mietwohnanlage Karwendelstr. / Plinganserstr.; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs - <div>Kenntnis genommen</div>
+- TOP 12.: Anträge
+- TOP 12.1.: Herstellung eines Fußweges als Verbindung von der Fallstraße-Nord zur Plinganserstraße
+- TOP 12.2.: Benennung der Grünfläche an der Einmündung der Dietramszeller Str. in die Bruderhofstr. in "Sigi-Sommer-Platz"
+- TOP 12.3.: Grünstreifen vor dem REWE-Markt in der Alramstraße; Entfernung / Reduzierung der Gebüsche und Parkbänke
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Erhalt des EDEKA Marktes am Harras
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
