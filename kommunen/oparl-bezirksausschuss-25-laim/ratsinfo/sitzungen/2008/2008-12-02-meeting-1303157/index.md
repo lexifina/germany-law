@@ -1,0 +1,90 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2008-12-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1303157
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1303157
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Erneuerung der Fahrbahnmarkierung im Radwegbereich Agnes-Bernauer-Straße stadteinwärts / Ecke Fürstenrieder Straße
+- TOP 1.2.2.: Verkehrssituation Von-der-Pfordten-Straße
+- TOP 1.2.3.: Parksituation Hauzenberger Straße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Einrichtung von zwei Kurzzeitparkplätzen vor dem Kinderhaus Namen Jesu (Vertagung aus der BA-Sitzung vom 04.11.08)
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 2.000 ? für das Erstellen eines Erdhügels an der Rutsche zur Sicherheit der Kinder; Antragsteller: Daycare gGmbH, Kinderkrippe KiddieCorner
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget in Höhe von 2.740 ? für das 6. Faschingstreiben am 21.02.09; Antragsteller: Faschingsclub Laim e.V.
+- TOP 3.3.: Antrag UA Kultur: Übernahme der Kosten für 2 Adventskonzerte auf dem Laimer Anger aus dem BA-Budget
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 30.10.08: 2. S-Bahn-Stammstrecke München, Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) a) Verfahrensstand, weitere Informationen, b) Neuplanung Planfeststellungsabschnitt 3 München Ost-Haidhausen, c) weiteres Vorgehen, d) Anträge und Empfehlungen
+- TOP 4.2.: Schreiben Referat für Gesundheit und Umwelt vom 04.11.08: Mobilfunk; Suchkreismeldung
+- TOP 4.3.: Schreiben Baureferat vom 10.11.08: Laimer Unterführung
+- TOP 4.4.: Schreiben KVR vom 11.11.08: Lichtzeichenanlagen-Bauprogramm für 2009
+- TOP 4.5.: Schreiben Baureferat vom 19.11.08: Verlängerung der U 5-West von Laim nach Pasing
+- TOP 4.6.: Schreiben Planungsreferat vom 27.06.08: Perspektive München; Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung (Vertagung aus der BA-Sitzung vom 04.11.08)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Riegerhofstr. 20: Neubau einer Hauptschule mit 3-fach Sporthalle für Schul- und Vereinssport, Gaststätte und Vereinsräumen für den ESV München-Laim; hier: Baumfällungen
+- TOP 5.2.: Flotowstraße: Neubau 2er Wohneinheiten und 2er Reihenhäuser mit Garagen; hier: Baupläne
+- TOP 5.3.: Geyerspergerstraße: Neubau eines Doppelhauses mit Einzelgarage bzw. Carport; hier: Baumfällungen und Baupläne
+- TOP 5.4.: Stöberlstr. 88-94: Errichtung einer Balkonanlage; hier: Baumfällungen
+- TOP 5.5.: Stöberlstr. 87-93: Errichtung einer Balkonanlage; hier: Baumfällungen
+- TOP 5.6.: Landsberger Str. 185: Genehmigung der bestehenden Diskothek- und Eventhalle "Nachtgalerie" / befristet bis zum 31.12.2011; hier: Baupläne
+- TOP 5.7.: Rechpacherstr. 16: Neubau eines Wohnhauses; hier: Baupläne
+- TOP 5.8.: Flotowstr. 30: Neubau eines Doppelhauses (Haus 1+2) mit zwei Carports und zwei Nebengebäuden (RGB); hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung des UA Kultur vom 11.11.08
+- TOP 7.2.: Sitzung des UA Umwelt / Verkehr vom 28.11.08
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Schul- und Kultusreferat vom 17.10.08: Hortplätze im Stadtteil Laim
+- TOP 8.2.: Schreiben KVR vom 20.10.08: Straßenführung A 96 / Ausfahrt Laim - Ammerseestraße (Schreiben BA vom 24.09.08)
+- TOP 8.3.: Schreiben KVR vom 01.10.08: Genovevaweg; Haltverbot
+- TOP 8.4.: Schreiben KVR vom 24.10.08: Verlegung der Bushaltestelle Pronnerplatz (MVG-Linie 131 Richtung Knie)
+- TOP 8.5.: Schreiben KVR vom 03.11.08: Haltverbot in der Ludwig-Richter-Straße (Schreiben BA vom 03.09.08)
+- TOP 8.6.: Schreiben KVR vom 16.10.08: Kleingaststätte "Veit-Stoss-Stüberl", Veit-Stoss-Str. 9; unveränderte Fortführung
+- TOP 8.7.: Schreiben KVR vom 31.01.06 (Eingang 17.11.08): Gotthardstraße; Zweirichtungsradweg
+- TOP 8.8.: Schreiben KVR vom 23.10.08: Gaststätte "Straubinger Wirtshaus Café Bar", Straubinger Str. 9; unveränderte Fortführung
+- TOP 8.9.: Schreiben KVR vom 07.11.08: Infoveranstaltung vom 05.11.08; Folienvortrag
+- TOP 8.10.: Schreiben Baureferat vom 28.10.08: Fürstenrieder Straße, Südliche Stauräume vor der Agnes-Bernauer-Straße und Gotthardstraße
+- TOP 8.11.: Schreiben Kulturreferat vom 29.10.08: Jour Fixe Bezirksausschüsse Protokoll der Sitzung vom 08.10.08
+- TOP 8.12.: Schreiben Direktorium vom 21.10.08: Ablehnung einer beantragten Zuwendung aus dem Budget; Antragsteller: Grundschule Camerloherstraße
+- TOP 8.13.: Schreiben Direktorium vom 21.10.08: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: STÜPS Schule-Beruf e.V.
+- TOP 8.14.: Schreiben Direktorium vom 21.10.08: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Familienzentrum Laim
+- TOP 8.15.: Schreiben Direktorium vom 22.10.08: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Kath. Pfarrgemeinde zu den hl. zwölf Aposteln
+- TOP 8.16.: Schreiben Direktorium vom 22.10.08: Bewilligung einer Zuwendung aus dem Budget; Antragsteller: Grundschule Fürstenrieder Straße
+- TOP 8.17.: Pressemitteilung Referat für Gesundheit und Umwelt vom 30.100.8: Leitlinie Gesundheit; Online-Befragung gestartet
+- TOP 8.18.: Schreiben Planungsreferat vom 03.11.08: Joergstr. 6; Neubau eines Mehrfamilienhauses mit TG
+- TOP 8.19.: Schreiben Planungsreferat vom 21.10.08: Thurnyssenstr. 15; Gefahrenbaumbescheinigung
+- TOP 8.20.: Schreiben Planungsreferat vom 13.11.08: Fürstenrieder Str. 39; Nutzungsänderung einer Bürofläche in ein Studentenwohnheim und einer Ausstellungs- in eine Ladenfläche im RGB
+- TOP 8.21.: Schreiben Planungsreferat vom 17.11.08: Landsberger Str. 162; Neubau eines Hotels mit Tiefgarage, Gastronomie, Einzelhandel und Büroräumen / Vorbescheid
+- TOP 8.22.: Schreiben Sozialreferat vom 24.10.08: Regionale Sozialberichte 2007 online
+- TOP 8.23.: Schreiben Sozialreferat vom 03.11.08: Seniorenvertretungswahl 2009
+- TOP 8.24.: Schreiben Sozialreferat vom 11.11.08: Einladung zur Infoveranstaltung am 03.12.08
+- TOP 8.25.: Bautenliste vom 20.10.-26.10.08 1. Erstantragsverfahren a) Valpichlerstr. 134 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Westendstr. 192
+- TOP 8.26.: Bautenliste vom 27.10.-02.11.08 1. Änderungsverfahren a) Camerloherstr. 54
+- TOP 8.27.: Bautenliste vom 03.11.-09.11.08: 1. Erstantragsverfahren a) Hartelstr. 10 b) Reutterstr. 62 c) Agricolastr. 55
+- TOP 8.28.: Bautenliste vom 10.11.-16.11.08 1. Erstantragsverfahren a) Joergstr. 6 2. Änderungsverfahren a) Agricolastr. 59 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Elsenheimerstr. 45
+- TOP 8.29.: Schreiben Planungsreferat vom 04.11.08: Liste der beantragten Baumfällungen vom 27.10.-02.11.08
+- TOP 8.30.: Schreiben Planungsreferat vom 10.11.08: Liste der beantragten Baumfällungen vom 03.11.-09.11.08
+- TOP 8.31.: Schreiben Planungsreferat vom 17.11.08: Liste der beantragten Baumfällungen vom 10.11.-16.11.08
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 27.10.08: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 27.10.08
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 03.11.08: Baumaßnahmen der Stadtwerke; Stichtag: 03.11.08
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 10.11.08: Baumaßnahmen der Stadtwerke; Stichtag: 10.11.08
+- TOP 8.35.: Schreiben Stadtwerke München GmbH vom 17.11.08: Baumaßnahmen der Stadtwerke; Stichtag: 17.11.08
+- TOP 8.36.: Beschluss des Bauausschusses vom 16.10.08: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine (Sitzungsvorlagen Nr. 08-14 / V 00867)
+- TOP 8.37.: Bekanntgabe in der gemeinsamen Sitzung des Sozialausschusses und des Kinder- und Jugendhilfeausschusses vom 13.11.08: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland, Leistungen nach dem SGB XII - Bericht 2007, Kommunale Leistungen nach dem SGB II - Bericht 2007 (Sitzungsvorlage Nr. 08-14 / V 01041)
+- TOP 8.38.: Beschluss des Sozialausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 13.11.08: Vermeidung und Bewältigung von Armut, Schwerpunkte und Maßnahmen des Sozialreferates (Sitzungsvorlagen Nr. 08-14 / V 01904)
+- TOP 8.39.: Beschluss des Bauausschusses vom 18.11.08: Weihnachtsbeleuchtung im städtischen Einflussbereich (Sitzungsvorlagen Nr. 08-04 / V 00196)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten (Sitzungsvorlagen Nr. 08-14 / V 01203)
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen (Sitzungsvorlagen Nr. 02-08 / V 01053)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Mitwohnanlage Karwendelstraße / Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs (Sitzungsvorlagen Nr. 08-14 / V 00921)
+- TOP 8.43.: Schreiben Wohnen ohne Auto vom 30.10.08: Autofrei Wohnen - Wir können`s nur empfehlen
+- TOP 8.44.: Sitzung des UA Planen und Bauen vom 26.11.08
+- TOP 1.2: Bürgerpost an den BA
