@@ -1,0 +1,8 @@
+# TOP 4.9: Einrichtung einer Fahrradstation am Bahnhof Sindorf
+
+- Sitzung: Ausschuss für Stadtplanung und Verkehr (31. Sitzung) (2008-12-02)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/9755
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/18546
+- Beschluss (Datei): Beschlusstext (Einrichtung einer Fahrradstation am Bahnhof Sindorf) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUQXiopi_6trMup3a52SORCDIdRsN_1esZrwrMLkdzq0/Beschlusstext_565.08_-oeffentlich-_Ausschuss_fuer_Stadtplanung_und_Verkehr_02.12.2008.pdf
