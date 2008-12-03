@@ -1,0 +1,100 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2008-12-03T17:20:00+01:00
+- Ende: 2008-12-03T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=779
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=779
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Verwaltung und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten im Sozialausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Stadtentwicklung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2008/2009 und im Jahr 2009 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Anmeldung des Bezirks Neukölln zur Investitionsplanung 2009-2013 - überwiesen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Mitteilung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2008 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Familiencenter Gropiusstadt - beantwortet
+- TOP 8.2: Unterrichtsausfall in Neukölln - beantwortet
+- TOP 8.3: Baumfällungen im Martin-Wagner-Ring - beantwortet
+- TOP 8.4: Mittel aus dem Schul- und Sportstättensanierungsprogramm - beantwortet
+- TOP 8.5: Sanierungsmittel für Schulen und Sporthallen verwenden - beantwortet
+- TOP 8.6: Berlin-Pass - beantwortet
+- TOP 8.7: Wahrnehmung der Aufgaben einer Kita-Aufsicht - beantwortet
+- TOP 8.8: Zukunft Saalbau Neukölln - beantwortet
+- TOP 8.9: Neuköllner Stadtteilmütter und Ehrenpreis - beantwortet
+- TOP 8.10: Abriss der Asbestschulruine an de Lipschitzallee - beantwortet
+- TOP 8.11: Lichtinstallation am "Neuköllner Tor" - schriftlich beantwortet
+- TOP 8.12: 60-jähriges Jubiläum der Verkündung der Erklärung der Menschenrechte - schriftlich beantwortet
+- TOP 8.13: Wachschutz an Schulen - schriftlich beantwortet
+- TOP 8.14: Deutsches und Böhmisches Dorf - schriftlich beantwortet
+- TOP 8.15: Kriminalität - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Postzustellung für Bezirksverordnete - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Eltern von Schulschwänzern bekommen Stopp-Schild - überwiesen
+- TOP 9.3: Unterstützung der Kampagne für ein kommunales Wahlrecht für Migrantinnen und Migranten - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Stadtteilväter - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Ausstellung zum Thema "Deutsche Kolonialgeschichte" - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Ausstellung der Preisträger "Alzheimer & You - zeig Dein Engagement" - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Namibia-Wanderausstellung - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Veränderungssperre XIV-60/19 für das Grundstück Buckower Damm 30 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee/Buckower Damm") - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Kündigung von Kita-Plätzen bei nicht gezahlten Beiträgen - beantwortet
+- TOP 10.2: Machen Spielhallen den Bezirk kaputt? - beantwortet
+- TOP 10.3: Zunehmende Gewalt gegen Homosexuelle - beantwortet
+- TOP 10.4: Gesundheitlicher Verbraucherschutz in Neukölln - beantwortet
+- TOP 10.5: Aufstellung von "Heizpilzen" vor gastronomischen Einrichtungen - beantwortet
+- TOP 10.6: Umfangreiche Baumfällungen - beantwortet
+- TOP 10.7: Autobahntunnel Britz - beantwortet
+- TOP 10.8: Ärzte-Notstand in Neukölln - beantwortet
+- TOP 10.9: Führungschaos Job-Center - vertagt
+- TOP 10.10: Baumschädigungen in der Gutschmidtstraße - schriftlich beantwortet
+- TOP 10.11: Einrichtung weiterer Quartiersmanagement- bzw. Sanierungsgebiete - schriftlich beantwortet
+- TOP 10.12: Erstattung von Unterhaltsvorschüssen - vertagt
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kita-Plätze bei nicht gezahlten Beiträgen - überwiesen
+- TOP 12.2: Zweite Stufe der Umweltzone verschieben - vertagt
+- TOP 12.3: Anträge auf Kostenübernahme für vollstationäre Pflege - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Umgestaltung Rixdorf: Pragmatisches Ergebnis weiterführen - vertagt
+- TOP 12.5: Sicherstellung der baulichen Zustände in Kitas, die den freien Trägern vom Bezirksamt überlassen wurden - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Böhmisches Dorf barrierefrei gestalten - überwiesen
+- TOP 12.7: Tourismuswirtschaft stärken und vernetzen - überwiesen
+- TOP 12.8: Geschlechtergerechte Sprache bei Gedenktafeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Nachhaltige Jugendarbeit gegen Rechtsradikalismus - überwiesen
+- TOP 12.10: Kinderlärm - ja bitte! - überwiesen
+- TOP 12.11: Stau bei Sperrungen des Autobahntunnels Britz vermeiden! - in der BVV abgelehnt
+- TOP 12.12: Sanierungsmittel für Schulen und Sporthallen verwenden - in der BVV zurückgezogen
+- TOP 12.13: Elektronischer Reisepass mit biometrischen Daten (ePass) - überwiesen
+- TOP 12.14: Fußgängerschutz am U-Bahnhof Rudow - überwiesen
+- TOP 12.15: Finanzmittel für Neukölln - vertagt
+- TOP 12.16: Künstler/-innen und Publizist/-innen im Jobcenter - überwiesen
+- TOP 12.17: Förderung von Kultur und Kunst in Berlin - überwiesen
+- TOP 12.18: Festgelände auf dem Tempelhofer Feld - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Babybegrüßungsdienst - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Babybegrüßungsdienst - "Mütter helfen Müttern" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Anzahl der Feuerwehrfahrzeuge nicht verringern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Gefahrenabwehrende Maßnahmen für die Fußgänger in der Treptower Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Durchfahrtverbot für LKW über 3,5 Tonnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Hilfe für das Frauenviertel in der Gartenstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Nachnutzung Flughafengelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: 30 km/h in der Groß-Ziethener Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Berliner Bezirke erhalten! - 200 Jahre kommunale Selbstverwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Gentechnikfreie Kantinen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Zügige Weiterentwicklung des "Konzepts Mütterkurse" - mit Abschlussbericht zur Kenntnis genommen
