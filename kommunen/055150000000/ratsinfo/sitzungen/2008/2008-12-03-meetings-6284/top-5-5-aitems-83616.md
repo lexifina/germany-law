@@ -1,0 +1,8 @@
+# TOP 5.5: Anregung nach § 24 GO NW - 09/2008 "Das CINEMA Filmtheater regt an, nach Möglichkeiten zu suchen, Propangas-Heizstrahler ("Heizpilze") im öffentlichen und privaten Raum zu verbieten"
+
+- Sitzung: 37. Sitzung (2008-12-03)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/83616
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/40519
