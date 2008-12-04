@@ -1,0 +1,7 @@
+# TOP 6: Implementierung von Gender Meinstreaming in der Jugendhilfe (Anlage)
+
+- Sitzung: 23. öffentliche Sitzung des Jugendhilfeausschusses (2008-12-04)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=35260
+- Ergebnis: erledigt
