@@ -1,0 +1,8 @@
+# TOP 5.3: Maßnahmenprogramm 2009 des Tiefbauamtes für die bezirklichen Baumaßnahmen im Bezirk West
+
+- Sitzung: 43. Sitzung (2008-12-04)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/84646
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/40720
