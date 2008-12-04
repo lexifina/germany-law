@@ -1,0 +1,73 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-12-04T16:00:00+01:00
+- Ende: 2008-12-04T18:57:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2222
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2222
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096630.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096630.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00096630.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 23.10.2008 - einstimmig beschlossen
+- TOP 3: Seniorenangebote im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 4: STEK (BVen ua) KG u. Empf. - mehrheitlich beschlossen
+- TOP 5: Gerresheimer Landstraße 89, Neubau einer 3-fach Sporthalle - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Linienänderungen des Nachtnetzes ÖPNV zum Fahrplanwechsel 07.01.2009 - zur Kenntnis genommen
+- TOP 8: Zuschuss Boston Club e.V. - zur Kenntnis genommen
+- TOP 9: Trödelmarkt auf dem OBI-Parkplatz, Königsberger Straße 87, am 24.05.2009 - zur Kenntnis genommen
+- TOP 10: Bauunterhalt an städtischen Einrichtungen - zur Kenntnis genommen
+- TOP 11: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 12: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 13: Zuschüsse der Bezirksvertretung 8 im Jahre 2008 - zur Kenntnis genommen
+- TOP 14: Feuerwache / Sirenenwarnsystem in Unterbach - zur Kenntnis genommen
+- TOP 15: Ausbau Hildener Kreuz - L 404 - zur Kenntnis genommen
+- TOP 16: Verbesserung des Friedhofsservices - zur Kenntnis genommen
+- TOP 17: Technische Ausstattung der Schulen und städt. Kindertageseinrichtungen im Stadtbezirk 8 (Anfrage SPD - Fraktion) - zur Kenntnis genommen
+- TOP 18: Sanierungsmaßnahmen GHS Bernburger Straße - zur Kenntnis genommen
+- TOP 19: Anmeldezahlen Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 20: Ausbau L 404 N - zur Kenntnis genommen
+- TOP 21: Stadtbahnhaltestelle Betriebshof Lierenfeld - zur Kenntnis genommen
+- TOP 22: Turnhalle GHS Bernburger Straße - zur Kenntnis genommen
+- TOP 23: Fuß- und Radwege Haustertshofweg - zur Kenntnis genommen
+- TOP 24: Verkehrssituation Lierenfeld - zur Kenntnis genommen
+- TOP 25: Sonnenschutzplätze Unterbacher See - zur Kenntnis genommen
+- TOP 26: Erweiterung des Taubenturms Eller-Mitte
+- TOP 27: Freiwillige Feuerwehr Unterbach - zur Kenntnis genommen
+- TOP 28: Freifläche Reichenbacher Weg / Strigauer Weg - zur Kenntnis genommen
+- TOP 29: Ampelschaltung Bernburger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 30: Fuß-/Radweg parallel zur Vennhauser Allee Höhe Minigolfplatz - zur Kenntnis genommen
+- TOP 31: Fahrbahnsanierung Weinheimer Straße - zur Kenntnis genommen
+- TOP 32: CO-Messgeräte an der CO-Pipeline - zur Kenntnis genommen
+- TOP 33: Papierkörbe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Papierkörbe Unterbacher See - zur Kenntnis genommen
+- TOP 35: Abdeckung Düsselwege - zur Kenntnis genommen
+- TOP 36: Probeweise Öffnung der Einbahnstraßen Bebelstraße und Erlenkamp - zur Kenntnis genommen
+- TOP 37: Monckartzhofweg - zur Kenntnis genommen
+- TOP 38: Parkplatzerweiterung Eller- Mitte (Dringlichkeitsantrag CDU-Fraktion) - zur Kenntnis genommen
+- TOP 39: Lierenfelder Gewerbegebiete - zur Kenntnis genommen
+- TOP 40: Mehrgenerationenflächen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Mobile Geschwindigkeitsanzeige im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Pavillons Lore-Lorentz-Schule - zur Kenntnis genommen
+- TOP 43: Wartehäuschen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Sitzungstermine der Bezirksvertretung 8 im Jahre 2009 - zur Kenntnis genommen
+- TOP 45: Kleintierhaltung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Radwegebschilderung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Hundeauslaufplatz Nachbarschaftspark Schlesische Straße - zur Kenntnis genommen
+- TOP 48: Sanierung der Fahrbahndecke Kamper Weg - zur Kenntnis genommen
+- TOP 49: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 50: Geruchsbelästigung Am Karlshof - zur Kenntnis genommen
+- TOP 51: Sauberkeitsoffensive Eller - Mitte - zur Kenntnis genommen
+- TOP 52: Fußgängerampel Weinheimer Straße / Klein-Eller - zur Kenntnis genommen
+- TOP 53: Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 54: Gehölzrodungen und Umwandlungsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 55: Anmeldezahlen Einschulungsverfahren im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 56: Grünpflege - Beschädigung durch Steinschlag - zur Kenntnis genommen
