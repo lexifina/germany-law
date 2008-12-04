@@ -1,0 +1,6 @@
+# TOP 9: „Blaue Tonne“ (BUE041208-06927.doc)
+
+- Sitzung: Bezirksausschuss Uedesheim (2008-12-04)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/105694
