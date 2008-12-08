@@ -1,0 +1,85 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2008-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1307798
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1307798
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Gedenktafel in Hadern für Ermordete vom 01.05.1919
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 3.2.: UA Kinder, Jugend, Schule, Sport
+- TOP 3.3.: UA Budget
+- TOP 3.4.: Bericht des Behindertenbeauftragten
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag der IG Weihnachtsbaum auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 600,- ? (Direktorium, 11.11.08)
+- TOP 5.2.: Antrag des TSV Großhadern auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 20.000,- ? (Direktorium, 18.11.08)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Lichtzeichenanlagen-Bauprogramm 2009 (Kreisverwaltungsreferat, 11.11.08)
+- TOP 6.2.: Verkehrsrechtliche Anordnung, hier: Waldwiesenstr.; Sichthaltverbot (Kreisverwaltungsreferat, 05.11.08)
+- TOP 6.3.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse, Antr. BA 5 Au-Haidhausen (Direktorium, 17.11.08)
+- TOP 6.4.: Max-Lebsche-Platz 30 - 32, Ausbau des Moduls E4 eines Büro- und Laborgebäudes mit TG zu Betriebsflächen (Referat für Stadtplanung und Bauordnung, 20.11.08)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Hans-Grässel-Weg 11, gem. Baumbestandsplan Nr. 28120
+- TOP 7.2.: Waldgartenstr. 60, 1 Nordmanntanne
+- TOP 7.3.: Neufriedenheimer Str. 37 a, 1 Tanne
+- TOP 7.4.: Hosigaustr. 5 a, 3 Fichten
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 1 Robinie in der Ossingerstr. (Baureferat, 10.11.08)
+- TOP 7.2.: 113 Bäume auf dem Waldfriedhof (Baureferat, 26.09.08)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Fahrplanänderung aufgrund der Modernisierungsarbeiten im U-Bahnhof Münchner Freiheit (MVG, 14.11.08)
+- TOP 8.2.: Zweckentfremdung von Wohnraum, Heiglhofstr. 4 a (Sozialreferat, 12.11.08)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Würmtalstr. Höhe Einmündung Butenandtstr.; neue Radfahrquerung (Kreisverwaltungsreferat, 07.11.08)
+- TOP 8.4.: Zweckentfremdung von Wohnraum, Gräfelfinger Str. 153 (Sozialreferat, 30.10.08)
+- TOP 8.5.: Regionale Sozialberichte 2007 sind online (Sozialreferat, 24.10.08)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, Sauerbruchstr. 59 - 61 (SWM, 27.10.08)
+- TOP 8.7.: Bitte um Unterstützung bei der Öffnung der Turnhalle in der Hauptschule an der Blumenauer Str. 11 für Streetwork (REGSAM, 28.10.08)
+- TOP 8.8.: Jour Fixe der Bezirksausschüsse, Protokoll der Sitzung vom 08.10.08 (Kulturreferat, 29.10.08)
+- TOP 8.9.: Verkehrsrechtliche Anordnung, hier: Einrichtung einer Schulbushaltestelle am Canisiusplatz (Farnweg) (Kreisverwaltungsreferat, 20.11.08)
+- TOP 8.10.: Zusammensetzung der BA-Satzungskommission (Direktorium, 19.11.08)
+- TOP 8.11.: Zweckentfremdung von Wohnraum, Silberblattstr. 17 (Sozialreferat, 19.11.08)
+- TOP 8.12.: Genehmigung Wanderveranstaltung Wanderfreunde Neuaubing am 13. und 14.12.08 (Kreisverwaltungsreferat, 03.12.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Treppe vom Walter-Hopf-Weg zum Aktivitätenband Am Stiftsbogen (Baureferat, 07.11.08)
+- TOP 9.2.: Fenstersanierung der Westseite der Guardinischule (Schul- und Kultusreferat, 08.10.08)
+- TOP 9.3.: Parkplätze an der ehemaligen Bushaltestelle Würmtalstr. 126 (Baureferat, 20.11.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Broschüre "Autofrei Wohnen - Wir können's nur empfehlen!" (Wohnen ohne Auto, 30.10.08)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 08.10.2008: PERSPEKTIVE MÜNCHEN - Leitlinien, Konzepte, Programme Handlungskonzept: Herausforderungen des soziodemografischen Wandels für die Stadtentwicklung, insbesondere zur Maßnahme "Integration macht Schule" in Hadern in den Jahren 2008 - 2010 (Kosten 15.000,- ? / pro Jahr, S. 93)
+- TOP 12.2.: Beschluss vom 08.10.2008: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Belegrechtsprogramm - Förderrichtlinien 2. Kinderkomponente beim KomPro A 3. Mischfinanzierung KomPro A / EOF 4. Verlängerung der Bindungsdauer (München Modell - Eigentum, SoBoN-Eigentum) 5. Anwendung der Wohnraumförderungsbestimmungen für das München Modell - Eigentum 6. Stellplatzschlüssel für Vorhaben im geförderten Wohnungsbau
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 16.10.2008: Verwendung flacherer, gerundeter Randsteine; Entschärfung bisheriger scharfer und hoher Randsteine (abgelehnt)
+- TOP 12.2.: Beschluss des Schul- und Sportausschusses vom 12.11.2008: Errichtung von Minispielfeldern im Stadtgebiet, insbesondere auch in der Grünanlage an der Willibald- / Senftenauerstr., die von der Grundschule an der Senftenauerstr. genutzt werden soll Kooperation mit dem Deutschen Fußball-Bund e.V.
+- TOP 12.3.: Beschluss des Schul- und Sportausschusses vom 12.11.2008: Abbau des Investitionsstatus auf städtischen und Vereinssportanlagen Sportinfrastruktur stärken II, Sanierung von Sportanlagen beschleunigen Änderung des Mehrjahresinvestitionsprogramms (MIP) 2008 - 2012, insbesondere - zum Neubau eines Kunstrasenplatzes am Wolkerweg (Kosten 800.000,- ?, Priorität A 14 von 26, Anlage 3), - zur Lärmschutzwand am Wolkerweg (Kosten 340.000,- ?, Priorität C 26 von 26 = an letzter Stelle, Anlage 3), - zur Großinstandsetzung der Turnhalle und Judohalle des TSV Großhadern in 2009 (Bausumme 170.000,- ?, die mit 30 % = 51.000,- ? bezuschusst werden, Anlage 4 Nr. 3) und - zum Neubau einer Sporthalle des TSV Großhadern nach dem "Haderner Modell" in 2013 (Bausumme 1.140.000,- ?, die mit 40 % = 455.000,- ? bezuschusst werden, Anlage 4)
+- TOP 12.1.: Beschluss des Sozialausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 13.11.2008: Vermeidung und Bewältigung von Armut, Schwerpunkte und Maßnahmen des Sozialreferates München-Pass für junge Menschen besser bewerben
+- TOP 12.2.: Beschluss des Bauausschusses vom 18.11.2008: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008: Mietwohnanlage Karwendelstr. / Plinganserstr.; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008 und Hinweis / Ergänzung vom 11.11.2008: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.10.2008: Schutz der Münchner Vorgärten (VGH-Urteil vom 20.12.2004 Nr. 25 B 98.1863) a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) Weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten (Vertagt in den Planungsausschuss am 19.11.2008)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der gemeinsamen Sitzung des Sozialausschusses und des Kinder- und Jugendhilfeausschusses vom 13.11.2008: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland Leistungen nach dem SGB XII - Bericht 2007 Kommunale Leistungen nach dem SGB II - Bericht 2007
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
