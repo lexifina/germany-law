@@ -1,0 +1,6 @@
+# TOP 9: Geschwindigkeitsmessungen auf der St.-Antonius-Straße in Schlicherum (BRS091208-07205.doc)
+
+- Sitzung: Bezirksausschuss Rosellen (2008-12-09)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/105200
