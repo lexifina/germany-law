@@ -1,0 +1,71 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2008-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1300956
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1300956
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Park and Ride-Anlage auf der Ostseite des Bahnhofes Feldmoching hier: Parksituation in den Straßen auf der Westseite (Pfarrgemeinderat St. Peter und Paul München-Feldmoching, Sachausschuss Politik und gesellschaftliches Leben)
+- TOP 3.5.: Anträge aus der Kinder- und Jugendsprechstunde
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Ausführung des Durchstichs zwischen Am Schnepfenweg und Am Blütenanger als verkehrsberuhigter Bereich (BV-Empfehlung Nr. 08-14 / E 00052 vom 24.06.2008) (vertagt in der Sitzung am 11.11.2008)
+- TOP 5.2.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Lerchenstr. 19 (vertagt in der Sitzung am 11.11.2008) b) Bauvorhaben Lerchenauer Str. 240 c) Bauvorhaben Diamantstraße d) Bauvorhaben Göttnerstraße
+- TOP 5.3.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Feldmochinger Str. 429a b) Lerchenstraße
+- TOP 5.4.: Gemeinde Oberschleißheim Bebauungsplan Nr. 31a Sondergebiet Wissenschaft, Tierärztliche Fakultät an der Veterinärstraße
+- TOP 5.5.: Lichtzeichenanlagen - Bauprogramm für 2009
+- TOP 5.6.: Flohmärkte des Bewohnerstammtisches, Grünanlage Goldschmiedplatz
+- TOP 5.7.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (BA-Antrag-Nr. 08-14 / B 00249 des BA 05 - Au-Haidhausen)
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Quartierszentrum Blodigstraße (BA-Antrag-Nr. 08-14 / B 00073 vom 03.06.2008)
+- TOP 6.2.: Ausweitung des Projektes BASS - Beratung an Schulen durch Ambulante Erziehungshilfen - Hauptziel: Prävention von Schulverweigerung (BA-Antrag-Nr. 08-14 / B 00199 vom 01.07.2008)
+- TOP 6.3.: Lärmbelästigung auf dem Goldschmiedplatz a) Antwortschreiben des Kreisverwaltungsreferates b) Antwortschreiben des Baureferates
+- TOP 6.4.: Georthermie für den Stadtbezirk 24
+- TOP 6.5.: Stadtteilversammlung Hasenbergl am 27.10.2008 Beleuchtung im Hasenbergl
+- TOP 6.6.: Verkehrssituation in der Knospenstraße zwischen Paul-Preuß-Straße und Georg-Winkler-Straße / Schaarschmidtstraße
+- TOP 6.7.: Information über Verbesserungen auf der Buslinie 172
+- TOP 6.8.: Kauf Flst. 613 Feldmoching Erweiterung Sportanlage Georg-Zech-Allee
+- TOP 6.9.: Weihnachtsmarkt, Grünanlage auf dem Dülferanger vom 05.12. bis 21.12.2008 Vorabzustimmung
+- TOP 6.10.: Zug zur Kirche St. Agnes über die Irisstr./ Waldmeisterstr. des Siedler- u. Eigenheimvereins München am 16.11.2008 Vorabzustimmung
+- TOP 6.11.: Zirkusveranstaltung, Grünanlage Dülferanger Vorabzustimmung
+- TOP 6.12.: Vereinsjubiläum SF Harteck / Vorankündigung
+- TOP 6.13.: Feldmochinger Str. 374 Fällungsantrag vom 05.11.2008 auf dem Grundstück
+- TOP 6.14.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 6.15.: Meldelisten Baumfällungsanträge
+- TOP 6.16.: Meldelisten Bauvorhaben
+- TOP 6.17.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.18.: Verkehrsberuhigter Bereich Berchardweg / Schörgenwiesenweg Verkehrsrechtliche Anordnung
+- TOP 6.19.: Errichtung des Spielplatzes in der Gemeinschaftsunterkunft Waldmeisterstr. 98 Caritas-Beratungsstelle für Flüchtlinge
+- TOP 6.20.: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung
+- TOP 6.21.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Neufassung 20.11.2008)
+- TOP 6.22.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Neufassung 20.11.2008)
+- TOP 6.23.: PERSPEKTIVE MÜNCHEN Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz
+- TOP 6.24.: Klimaschutzfahrplan 4: Ökologische Mustersiedlung
+- TOP 6.25.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1763g Dülferstraße (südlich), Rainfarnstraße (östlich), Ittlingerstraße (westlich) (Teiländerung der Bebauungspläne Nr. 536 und Nr. 36a) im Sanierungsgebiet Hasenbergl
+- TOP 6.26.: Bebauungsplan mit Grünordnung Nr. 1688 b Schittgablerstraße (nördlich), Löwenzahnweg (südlich)
+- TOP 6.27.: Bebauungsplan mit Grünordnung Nr. 1947 Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München-Milbertshofen (östlich), Schittgablerstraße (südlich), Lerchenauer Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 1688a) - Knorr Bremse AG -
+- TOP 6.28.: Soziale Stadt Ludwigsfeld
+- TOP 6.29.: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen
+- TOP 6.30.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten
+- TOP 6.31.: Mietwohnanlage Karwendelstraße/ Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs
+- TOP 6.32.: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 6.33.: Vermeidung und Bewältigung von Armut Schwerpunkte und Maßnahmen des Sozialreferates
+- TOP 6.34.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland
+- TOP 6.35.: Errichtung von Minispielfeldern im Stadtgebiet Kooperation mit dem Deutschen Fußball-Bund e.V.
+- TOP 6.36.: - Abbau des Investitionsstaus auf städtischen und Vereinssportanlagen - Sportinfrastruktur stärken II - Änderung des Mehrrahresinvestitionsprogramms (MIP) 2008-2012
+- TOP 6.37.: Zweckentfremdung von Wohnraum - nicht öffentlich -
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
