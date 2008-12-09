@@ -1,0 +1,55 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2008-12-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1297471
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1297471
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Aufstellung eines mobilen Fahrradständers ; Westendstr.115
+- TOP 5: Anhörungen
+- TOP 5.1.: Beschlusss: Ausbau Gollier- / Astallerstraße
+- TOP 5.2.: Beschlussvollzugskontrolle für BA's
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Neubau und Sanierung Kinderhaus St.Rupert
+- TOP 6.1.2.: Meldelisten Bauvorhaben
+- TOP 6.1.3.: 2. S-Bahn-Stammstrecke München
+- TOP 6.1.4.: Bauvorhaben Schwanthaler Str. 137
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Start der Blade Night von der Theresienwiese
+- TOP 6.3: Bericht UA Ausländer und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Lichtzeichenbauprogramm 2009
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Bezuschussung der Stadtteiltage 2009 durch den BA 8
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 8.1.: Um- und Ausbau Donnersberger Brücke
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Investitionskostenförderung Kinderkrippe Kazmairstr.21
+- TOP 9.2.: Theresienhöhe, Bereich Alte Feuerwache Ganghoferstraße; Neubau einer öffentlichen Grünanlage mit Bolzplatz und Rad- und Fußweg
+- TOP 9.3.: nächtliche Sperrung der Landsberger Straße wegen Kranabbau (26.-27.11.)
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Planungen für eine Stadt-Umland-Bahn
+- TOP 11.2.: Abbbau des Investitionsstaus auf städt. und Vereinssportanlagen
+- TOP 11.3.: Protokoll Jour-Fix Bezirksausschüsse vom 08.10.08
+- TOP 11.4.: Grundsätzlich keine Trennung von Wohnungen und Arbeiten in neuen Wohngebieten
+- TOP 11.5.: Mietwohnungen Karwendel- / Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs
+- TOP 11.6.: Vermeidung und Bewältigung von Armut ; Schwerpunkte und Maßnahmen des Sozialreferates
+- TOP 11.7.: Weihnachtsbeleuchtung im städt. Einflussbereich
+- TOP 11.8.: PERSPEKTIVE MÜNCHEN, Klimawandel und Klimaschutz
+- TOP 11.9.: Klimaschutzfahrplan 4; Ökologische Mustersiedlung
+- TOP 11.10.: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung
+- TOP 11.11.: Haushaltsplan 2009
