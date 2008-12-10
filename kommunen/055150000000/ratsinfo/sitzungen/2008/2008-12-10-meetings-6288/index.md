@@ -1,0 +1,77 @@
+# 35. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-12-10T17:46:00+01:00
+- Ende: 2008-12-10T22:26:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6288
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6288
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00274595.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Einbringung des Entwurfes der Haushaltssatzung 2009
+- TOP 8.1: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2009 - einstimmig beschlossen
+- TOP 8.2: Neue Maßnahmen zum Haushaltsplan 2009 - einstimmig beschlossen
+- TOP 9: Einbringung von Vorlagen
+- TOP 9.1: Erweiterung Feuerwache 1 / Neubau Leitstelle und Rechenzentrum citeq - eingebracht
+- TOP 9.2: Fortschreibung Masterplan Verkehrsunfallprävention und aufstellung eines Verkerhssicherheitsprogrammes Münster 2009-2013 - eingebracht
+- TOP 10: Rechts- und Organisationsform des Amtes für Immobilienmanagement - einstimmig beschlossen
+- TOP 11: Jahresbericht 2007 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 12: Überörtliche Prüfung der Stadt Münster in den Jahren 2007 - 2008, - einstimmig beschlossen
+- TOP 13: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 13.1: Abfallgebühren 2009 - einstimmig beschlossen
+- TOP 13.2: Straßenreinigungsgebühren 2009 - einstimmig beschlossen
+- TOP 13.3: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2009 - einstimmig beschlossen
+- TOP 14: Vertragsverlängerung zur Überlassung des Städt. Preußen-Stadions an den SC Preußen 06 e. V. Münster - einstimmig beschlossen
+- TOP 15: Handlungskonzept, demografischer Wandel in Münster: - einstimmig geändert beschlossen
+- TOP 16: Einzelhandels- und Zentrenkonzept Münster - von der Tagesordnung abgesetzt
+- TOP 17: ÖPNV-Förderung Münster im Förderjahr 2008 gemäß § 11 Abs. 2 ÖPNVG NRW - einstimmig beschlossen
+- TOP 18: Sachstand und Zukunft der Städtebauförderung in Münster - Programm "Aktive Stadt- und Ortsteilzentren" - einstimmig beschlossen
+- TOP 19: Licht- und Gestaltungskonzept Bahnhofstraße in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - einstimmig beschlossen
+- TOP 20: Erweiterung des Hansa-Berufskollegs, Hansaring 80, 48155 Münster - einstimmig beschlossen
+- TOP 21: Ganztagsoffensive der Landesregierung - einstimmig beschlossen
+- TOP 22: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerschaft, Weiterqualifizierung für Ergänzungskräfte - einstimmig beschlossen
+- TOP 23: Preis der Stadt Münster für Europäische Poesie 2009 - einstimmig beschlossen
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Satzung für die Benutzung der städtischen Übergangsheime für Flüchtlinge, Aussiedler und Obdachlose der Stadt Münster - einstimmig beschlossen
+- TOP 26: Handlungsempfehlungen zur Förderung einer gleichberechtigten Teilhabe von Menschen mit geistiger Behinderung in Münster - einstimmig beschlossen
+- TOP 27: Bürgerschaftliches Engagement / Neuausrichtung der Freiwilligenagentur - einstimmig geändert beschlossen
+- TOP 28: Neuausrichtung der Stiftung Magdalenenhospital - einstimmig geändert beschlossen
+- TOP 29: Sanierung der 288 Sozialwohnungen der Kommunalen Stiftungen im Stadtteil Coerde - einstimmig beschlossen
+- TOP 30: Wirtschaftspläne
+- TOP 30.1: Wirtschaftsplan 2009 der citeq - einstimmig beschlossen
+- TOP 30.2: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 30.3: Wirtschaftsplan 2009 für Münster Marketing - einstimmig beschlossen
+- TOP 30.4: Wirtschaftsplan, Eröffnungsbilanz 2008/2009 und Finanzformel der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 30.5: Geänderte Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2008 - einstimmig beschlossen
+- TOP 30.6: Wirtschaftspläne der Stiftungen für das Jahr 2009 - einstimmig beschlossen
+- TOP 31: Bauleitplanung
+- TOP 31.1: Stadtbezirk Münster-Mitte
+- TOP 31.1.1: Vorhabenbezogener Bebauungsplan Nr. 525 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 31.2: Stadtbezirk Münster-Ost
+- TOP 31.2.1: 25. Änderung des FNP - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 33.1: Programm für Betriebe und Beschäftigte - ausgewählte Investitionen vorziehen - einstimmig beschlossen
+- TOP 34: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 34.1: Antrag zur Verkehrssicherheit - 1 Leben retten - Geschwindigkeitsniveau senken - verwiesen
+- TOP 34.2: "Antrag zur Verkehrssicherheit - 2 - Unfälle vermeiden - Geschwindigkeitsbegrenzungen nachhaltig durchsetzen" - verwiesen
+- TOP 34.3: "Antrag zur Verkehrssicherheit - 3 - Radfahrer schützen durch innovative Planungen - verwiesen
+- TOP 34.4: Antrag zur Verkehrssicherheit - 4 Bürgerinnen und Bürger melden Gefahrenstellen - verwiesen
+- TOP 34.5: "Ehemaliges OSMO-Gelände und Umgebung: Durchführung eines Planungswettbewerbes - verwiesen
+- TOP 34.6: Bildungschancen und -perspektiven junger Menschen verbessern - Beitragsfreiheit erweitern - verwiesen
+- TOP 35: Neuordnung des Zählergeschäftes der Stadtwerke Münster GmbH und der Stadtwerke Osnabrück AG durch die Gründung der smartOPTIMO GmbH + Co. KG - einstimmig beschlossen
+- TOP 36: Beitragsfreies Kindergartenjahr - Antrag der SPD-Fraktion an den Rat nr. A-R/0017/2008 "Kinder - mehrheitlich beschlossen
+- TOP 37: Anregung gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen Nr. 174/2008
+- TOP 38: Verschiedenes
