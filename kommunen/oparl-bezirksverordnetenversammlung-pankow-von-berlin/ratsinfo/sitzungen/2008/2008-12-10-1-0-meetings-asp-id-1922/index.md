@@ -1,0 +1,95 @@
+# 20. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2008-12-10T17:30:00+01:00
+- Ende: 2008-12-10T22:30:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1922
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=1922
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=33158
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Projekte Freier Träger im Jahr 2009" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - (offen)
+- TOP 1.5.1: Förderung der freien Träger der Jugendhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Nachwahl von Bürgerdeputierten bzw. stv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - überwiesen
+- TOP 1.11: Anmeldung für die Investitionsplanung 2009 - 2013 - überwiesen
+- TOP 1.12: Verordnung über die Veränderungssperre IV-29/3 im Bezirk Pankow, Ortsteil Prenzlauer Berg für das Grundstück Sredzkistraße 59/Rykestraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bebauungsplan IV-29 für die Grundstücke Rykestraße 21, Rykestraße 20/Sredzkistraße 61 und Sredzkistraße 59/Rykestraße im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Beschluss über den Bebauungsplan XVIII-23 vom 18.09.2007 für das Gebiet zwischen den Straßen Am Danewend, Hubertusdamm, Bahnhofstraße und dem Bahngelände sowie angrenzende Abschnitte der Straßen Am Danewend, Hubertusdamm und Bahnhofstraße im Bezirk Pankow, Ortsteil Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Ausstattung der Schulsekretariate - gegenstandslos
+- TOP 1.16: Bürgerfreundliche Bescheide - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Umwelt- und Energiepark im Botanischen Volkspark - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Kastanienallee in Prenzlauer Berg - Anregungen für die Planung und die Bürgerbeteiligung - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fahrradstraßen für den Kiez - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Solaranlagen auch auf denkmalgeschützte bezirkseigene Gebäude - gegenstandslos
+- TOP 1.21: Modell zur Zumessung für Hilfen zur Erziehung - gegenstandslos
+- TOP 1.22: Bezirkliche Personalentwicklungsplanung vorlegen - gegenstandslos
+- TOP 1.23: Zuwendungen Projekte Freier Träger 2009 - EP 39 - gegenstandslos
+- TOP 1.24: Hirschhof mit Bebauungsplan sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Digitale Lichtbilder bei Anträgen auf Bürgerämtern - gegenstandslos
+- TOP 1.26: Endlich KfW-Kredite für unsere Schulen nutzen! - gegenstandslos
+- TOP 1.27: Internetauftritt der Beauftragten für Integration auf den Seiten des Pankower Bezirksamtes verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Personalentwicklung im Bezirksamt Pankow - gegenstandslos
+- TOP 1.29: Umsetzung von Neuregelungen der Wohngeldnovelle - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Übergreifendes Bedarfsprogramm vorlegen - überwiesen
+- TOP 1.31: Verwendung von EU-Fördergeldern im Bezirk Pankow - beantwortet
+- TOP 1.32: Hundeboxen (Tütenspender) in Grünanlagen des Bezirks - im Ausschuss abgelehnt
+- TOP 1.33: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - überwiesen
+- TOP 1.34: Durchführung einer Spielleitplanung in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Detaillierten Zeit-Maßnahmeplan Grundschulentwicklung aufstellen - überwiesen
+- TOP 1.36: DDR-Nostalgie - vertagt
+- TOP 1.37: Soziale Sanierungsziele sichern - Mieter schützen! - überwiesen
+- TOP 1.38: Bushaltestelle im Bereich Revierförsterei Buch - überwiesen
+- TOP 1.39: Sanierungsziel für den Eliashof zügig prüfen - in der BVV abgelehnt
+- TOP 1.40: Erhöhung der Verkehrssicherheit am Knoten Walter-Friedrich-Straße/Groscurthstraße - überwiesen
+- TOP 1.41: Städtebaulichen Wettbewerb für das Grundstück Schönhauser Allee 148 / Kastanienallee 97 - 99 ausloben - überwiesen
+- TOP 1.42: Maßnahmen gegen Recyclinghof - überwiesen
+- TOP 1.43: Verfahren zur Bürgerbeteiligung bei der Grün- und Freiflächengestaltung schaffen - überwiesen
+- TOP 1.44: Fahrradstraßen in Pankow ermöglichen - überwiesen
+- TOP 1.45: Restzeitampeln für Fußgänger - überwiesen
+- TOP 1.46: Wappenprozess erfolgreich abschließen - in der BVV abgelehnt
+- TOP 1.47: Pankower Frauen- und Migrantenprojekte - ohne Änderungen in der BVV beschlossen
+- TOP 1.48: Haushalt 2009 - gegenstandslos
+- TOP 1.49: Für eine auskömmliche und bedarfsgerechte Finanzierung der Hilfen zur Erziehung im Land Berlin und in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.50: Personalentwicklung - gegenstandslos
+- TOP 1.51: GA-Antrag Life Science Center Buch - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Ausbau der Infrastruktur in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Trägerschaft Life Science Center Buch - vertagt
+- TOP 2.4: Kinderschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - vertagt
+- TOP 2.7: Mädchen- und Frauensport differenziert fördern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Gentechnikfreie Kantinen! - vertagt
+- TOP 2.9: Sonnenburger Platz ermöglichen - vertagt
+- TOP 2.10: Life Science Center Buch - vertagt
+- TOP 2.11: Beschilderung für BA-Gelände Fröbelstraße - vertagt
+- TOP 2.12: Öffnungszeiten der Seniorenfreizeitstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Jeder Schule ein/e Sozialarbeiter/in - vertagt
+- TOP 2.14: Tempo 30 in der Schönhauser Straße in Französisch-Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Sicheres Queren der Blankenburger Chaussee - vertagt
+- TOP 2.16: Beteiligungsrechte sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Brache aus dem Straßenreinigungsverzeichnis nehmen - vertagt
+- TOP 2.18: Kostenfreie Hotline für das JobCenter einrichten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: 20. Jahrestag der "Maueröffnung" im Bezirk Pankow - vertagt
+- TOP 2.20: Umsetzung des Gleichstellungspolitischen Rahmenprogramms - bezirklicher Masterplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplanentwurf XVIII-23 vom 18.09.2007 für das Gebiet zwischen den Straßen Am Danewend, Hubertusdamm, Bahnhofstraße und dem Bahngelände sowie angrenzenden Abschnitte der Straßen Am Danewend, Hubertusdamm und Bahnhofstraße, im Bezirk Pankow, OTKarow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Berliner Modellprojekt "Beteiligung von Kindern und Jugendlichen bei der Straßenraumplanung" hier: Kastanienallee Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Spielleitplanung Kinder und Jugendliche in Pankow modellhaft erproben - vertagt
+- TOP 2.24: Nutzungsentgelterhöhung für zu Wohnzwecken genutzte Parzellen in der Anlage "Blankenburg" - vertagt
+- TOP 2.25: Abschlussbericht zum Fördermittelmanagement Helmholtzplatz und Falkplatz - vertagt
+- TOP 2.26: Maßnahmeplan zur Sicherstellung der Versorgung mit Grundschulplätzen ab 2010 für die Region 1-3 der bezirklichen Schulentwicklungsplanung 2008, Fortschreibung Grundschulen - vertagt
