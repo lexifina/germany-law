@@ -1,0 +1,65 @@
+# 33. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2008-12-10T17:06:00+01:00
+- Ende: 2008-12-10T22:25:00+01:00
+- Ort: Festsaal des Rathauses, Stadtweinhaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6287
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6287
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00273928.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat Nr.. A-0025/2008 "Städtische Verwaltung familienfreundlich weiterentwickeln - Zertifizierung durch "audit berufundfamilie" anstreben!" - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktionsgemeinschaft von UWG-MS/ödp an den Rat Nr. A-R/0004/2008 vom 30.01.2008: " Stadtbild verschönern" - einstimmig beschlossen
+- TOP 2.3: CDU-Antrag Nr. A-R/0052/2008 Haus der kleinen Forscher - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion "Klimabonus einführen - Energie effizienter nutzen zum Vorteil von Mietern, Vermietern und der Umwelt" - einstimmig beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion und FDP-Fraktion an den Rat Nr. A-R/0055/2008 vom 28.10.2008 - Modellprojekt "Wohnen für Hilfe" auf neue Grundlagen stellen - - mehrheitlich beschlossen
+- TOP 3: Weiterentwicklung der Sporthalle am Pascal-Gymnasium, Raumprogrammbeschluss zum Anbau auf der Nordseite - mehrheitlich beschlossen
+- TOP 4: Stiftung Generalarmenfonds: Fortführung des Flüchtlingskinderfonds - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Rechts- und Organisationsform des Amtes für Immobilienmanagement - einstimmig beschlossen
+- TOP 6: Jahresbericht 2007 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 7: Überörtliche Prüfung der Stadt Münster in den Jahren 2007 - 2008, - einstimmig beschlossen
+- TOP 8: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 8.1: Abfallgebühren 2009 - einstimmig beschlossen
+- TOP 8.2: Straßenreinigungsgebühren 2009 - einstimmig beschlossen
+- TOP 8.3: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2009 - einstimmig beschlossen
+- TOP 9: Vertragsverlängerung zur Überlassung des Städt. Preußen-Stadions an den SC Preußen 06 e. V. Münster - ohne Beschlussfassung geschoben
+- TOP 10: Handlungskonzept, demografischer Wandel in Münster: - ohne Beschlussfassung geschoben
+- TOP 11: Einzelhandels- und Zentrenkonzept Münster - von der Tagesordnung abgesetzt
+- TOP 12: ÖPNV-Förderung Münster im Förderjahr 2008 gemäß § 11 Abs. 2 ÖPNVG NRW - einstimmig beschlossen
+- TOP 13: Sachstand und Zukunft der Städtebauförderung in Münster - Programm "Aktive Stadt- und Ortsteilzentren" - ohne Beschlussfassung geschoben
+- TOP 14: Licht- und Gestaltungskonzept Bahnhofstraße in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - einstimmig beschlossen
+- TOP 15: Erweiterung des Hansa-Berufskollegs, Hansaring 80, 48155 Münster - ohne Beschlussfassung geschoben
+- TOP 16: Ganztagsoffensive der Landesregierung - ohne Beschlussfassung geschoben
+- TOP 17: Weiterentwicklung der Berufskollegs: Errichtungsvorhaben der Berufskollegs in städtischer Trägerschaft, Weiterqualifizierung für Ergänzungskräfte - einstimmig beschlossen
+- TOP 18: Preis der Stadt Münster für Europäische Poesie 2009 - einstimmig beschlossen
+- TOP 19: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 20: Satzung für die Benutzung der städtischen Übergangsheime für Flüchtlinge, Aussiedler und Obdachlose der Stadt Münster - einstimmig beschlossen
+- TOP 21: Handlungsempfehlungen zur Förderung einer gleichberechtigten Teilhabe von Menschen mit geistiger Behinderung in Münster - einstimmig beschlossen
+- TOP 22: Bürgerschaftliches Engagement / Neuausrichtung der Freiwilligenagentur - ohne Beschlussfassung geschoben
+- TOP 23: Neuausrichtung der Stiftung Magdalenenhospital - ohne Beschlussfassung geschoben
+- TOP 24: Sanierung der 288 Sozialwohnungen der Kommunalen Stiftungen im Stadtteil Coerde - einstimmig beschlossen
+- TOP 25: Wirtschaftspläne
+- TOP 25.1: Wirtschaftsplan 2009 der citeq - einstimmig beschlossen
+- TOP 25.2: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 25.3: Wirtschaftsplan 2009 für Münster Marketing - einstimmig beschlossen
+- TOP 25.4: Wirtschaftsplan, Eröffnungsbilanz 2008/2009 und Finanzformel der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 25.5: Geänderte Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2008 - einstimmig beschlossen
+- TOP 25.6: Wirtschaftspläne der Stiftungen für das Jahr 2009 - einstimmig beschlossen
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Mitte
+- TOP 26.1.1: Vorhabenbezogener Bebauungsplan Nr. 525 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 26.2: Stadtbezirk Ost
+- TOP 26.2.1: 25. Änderung des FNP - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Neuordnung des Zählergeschäftes der Stadtwerke Münster GmbH und der Stadtwerke Osnabrück AG durch die Gründung der smartOPTIMO GmbH + Co. KG - einstimmig beschlossen
+- TOP 29: Beitragsfreies Kindergartenjahr - Antrag der SPD-Fraktion an den Rat nr. A-R/0017/2008 "Kinder - mehrheitlich beschlossen
+- TOP 30: Verschiedenes
