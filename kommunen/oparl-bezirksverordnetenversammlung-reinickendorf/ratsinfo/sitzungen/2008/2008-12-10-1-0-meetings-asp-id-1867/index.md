@@ -1,0 +1,80 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2008-12-10T17:10:00+01:00
+- Ende: 2008-12-10T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1867
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1867
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=40229
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - im Ausschuss abgelehnt
+- TOP 2: Einwohnerfragestunde - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - im Ausschuss abgelehnt
+- TOP 4: Mündliche Anfragen - im Ausschuss abgelehnt
+- TOP 5: Feststellungen - (offen)
+- TOP 5.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Feuerwehren im Bezirk Reinickendorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.2: Verkehrszählung Auguste-Viktoria-Allee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 6.3: Gleichstellung der Kinder bei Tagesmüttern und Tagesvätern mit Kita-Kindern bei Schwimmbadbenutzung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.4: Sicherer Schulweg in Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.5: Bettenzahl in der Psychiatrie - überwiesen
+- TOP 6.6: Zentrale Jugendsachbearbeitung erhalten - überwiesen
+- TOP 6.7: VzK 0271/XVIII "Zentrale Jugendsachbearbeitung erhalten" ABSCHLUSSBERICHT - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.8: Kein Radfahren auf den Fußwegen in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.9: Radfahrverkehr Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.10: Sozialräumliche Stadtentwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.11: Einzelhandel in der Heinsestraße schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.12: Einrichtung von Pflegestützpunkten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.13: Ferienangebote auf der Homepage des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.14: Antisemitischer und rassistischer Stimmung auf dem Fußballplatz entgegnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.15: Antisemitischer und ausländerfeindlicher Stimmung auf dem Fußballplatz entgegnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.16: Kostensfreie Kitajahre - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.17: Einrichtung von Pflegestützpunkten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 6.18: Höhenbegrenzer an der Brücke Klemkestraße einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik - in der BVV zurückgezogen
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Verbesserung und Erneuerung der Kopenhagener Straße - überwiesen
+- TOP 8.2: Wahl einer / eines Bezirksbeauftragten für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 9.1: Rechtsextremistische Aktivitäten in Reinickendorf früher erkennen - überwiesen
+- TOP 9.2: Nichtraucherschutz in Reinickendorfer Gaststätten - erledigt
+- TOP 9.2.1: Nichtraucherschutz in Reinickendorfer Gaststätten - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Jährlicher Bericht des Behindertenbeauftragten - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Kulturelle Bildung für Schülerinnen und Schüler und Jugendliche - erledigt
+- TOP 9.5: Generelles Rauch- und Alkoholverbot auf Spielplätzen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Angemessenes Gedenken für Bürgermeister und BVV-Vorsteher des Bezirks Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Bessere Terminierung von Gedenkveranstaltungen - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Zwangsverheiratung von jungen Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Bericht über die Berliner Schulinspektionen - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Erfolge der "Initiative Ausbildungsplatz" für Reinickendorfer Schülerinnen und Schüler ausbauen I - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Erfolge der "Initiative Ausbildungsplatz" für Reinickendorfer Schülerinnen und Schüler ausbauen II - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Dauert es bis zum Eintreffen der Feuerwehr in Reinickendorf immer länger? - ohne Änderungen in der BVV beschlossen
+- TOP 9.13: Mehrzweckstreifen Oranienburger Straße - in der BVV abgelehnt
+- TOP 9.14: Pflege-Patenschaften für Stolpersteine - ohne Änderungen in der BVV beschlossen
+- TOP 9.15: Partizipationsprojekte für Kinder und Jugendliche - ohne Änderungen in der BVV beschlossen
+- TOP 9.16: Ausbau des Netzwerks Kinderschutz - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Gesundheitliche Vorsorge bei Ausländern und Migrantinnen und Migranten - überwiesen
+- TOP 9.18: Fahrradampel Berliner Straße an den Borsighallen - in der BVV abgelehnt
+- TOP 10: Anträge - (offen)
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Testkäufer als Maßnahme gegen verbotenen Alkoholmissbrauch - überwiesen
+- TOP 11.2: Kids in die Sportklubs - überwiesen
+- TOP 11.3: Mobiles Bürgerbüro im Einsatz - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Öffentlichkeitsarbeit zur Einhaltung des Jugendschutzgesetzes und Konsequenzen bei Nicht-Einhaltung - überwiesen
+- TOP 11.5: Analphabetismus in Reinickendorf - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Personelle Ausstattung der Ordnungsämter - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Mehr Sicherheit in der Frohnauer Straße - überwiesen
+- TOP 12.3: Kiezstreife auch nach 22 Uhr einsetzen - überwiesen
+- TOP 12.4: Überholverbot auf der A 111 - überwiesen
+- TOP 12.5: Gefahrenstelle auf der Roedernallee - ohne Änderungen in der BVV beschlossen
+- TOP 13: Borsighafen in Tegel eine Erfolgsgeschichte - Arbeitsplätze für viele Reinickendorfer Arbeitnehmer - beantwortet
+- TOP 14: Jahresergebnis des Kita-Eigenbetriebes - beantwortet
