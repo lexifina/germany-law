@@ -1,0 +1,63 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2008-12-10T17:05:00+01:00
+- Ende: 2008-12-10T19:05:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1861
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1861
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 19.11.2008; die Niederschrift über die Sitzung des Rates der Stadt wird nachgereicht.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Einbringung des Haushaltsplanentwurfs 2009 mit Anlagen - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Ausgaben/Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 5.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen -Haushaltsjahr 2008-Auftragssachkonto B 01060086 7851025 -Barrierefreies Rathaus- - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen 2008Produkt 020.150.010 - Brandbekämpfung / Sachkonto 7853 002 / Auftrag B02150088Beschaffung und Einbau von technischen Geräten für die Nachrichtentechnik 2008 - ungeändert beschlossen
+- TOP 5.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen-Haushaltsjahr 2008 -Produktsachkonto 060 030 010 7315555 Auszahlung aus Rückstellunghier: Rückerstattung geleisteter Kostenerstattung an den Landschaftsverband Rheinland - ungeändert beschlossen
+- TOP 5.4: Über- und außerplanmäßige Ausgaben/Verpflichtungsermächtigungen -Haushaltsjahr 2007-Kenntnisnahme von Mehrausgaben - ungeändert beschlossen
+- TOP 5.5: 3. Bericht über die Fallzahlen- und Kostenentwicklung im Bereich der Hilfen zur Erziehung und Maßnahmen nach § 35a SGB VIII für das Haushaltsjahr 2008 (21.12.2007 - 31.08.2008) - ungeändert beschlossen
+- TOP 5.6: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushaltsjahr 2008Neugestaltung Ratssaal - ungeändert beschlossen
+- TOP 6: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2007 - ungeändert beschlossen
+- TOP 7: Gebäudemanagement der Stadt AachenWirtschaftsplan für das Wirtschaftsjahr 2009 - ungeändert beschlossen
+- TOP 8: Wirtschaftsplan 2009 -Eurogress Aachen- - ungeändert beschlossen
+- TOP 9: Bericht der Wirtschaftsprüfungsgesellschaft WiberaWirtschaftsberatung AG über den Jahresabschluss zum31.12.2006 und Lagebericht für das Wirtschaftsjahr 2006 dereigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb derStadt Aachen - ungeändert beschlossen
+- TOP 9.1: Wirtschaftsplan 2009 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 10: 21. Nachtrag zur Straßenreinigungs - und Gebührensatzung der Stadt Aachen vom 14.12.1987 - ungeändert beschlossen
+- TOP 11: Satzung über die Vermeidung, Verwertung und Beseitigung von Abfällen in der Stadt Aachen ( Abfallwirtschaftssatzung ) vom 10.12.2008 - ungeändert beschlossen
+- TOP 12: Abfallgebührensatzung der Stadt Aachen vom 10.12.2008 - ungeändert beschlossen
+- TOP 13: 11. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung der Stadt Aachen) - ungeändert beschlossen
+- TOP 14: 9. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 15: Verlängerung der Veränderungssperre für den Planbereich im Stadtbezirk Aachen-Mitte am Heidweg - ungeändert beschlossen
+- TOP 16: Bebauungsplan Nr. 896 - Weststraße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Weststraße, Halifaxstraße und Bahntrasse hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 17: Bebauungsplan Nr. 906 - Am Burgberg, Pappelweg - für den Planbereich im Stadtbezirk Aachen-Haaren im Bereich zwischen Am Burgberg, Friedenstraße und Pappelweghier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 18: Bebauungsplan Nr. 904 - Napoleonsberg / Nutztierheim - für den Planbereich im Stadtbezirk Aachen-Kornelimünster/Walheim im Bereich zwischen Napoleonsberg und Vennbahntrasse hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 19: Bebauungsplan Nr. 885 - Joseph-von-Görres-Straße/ Wertzgelände - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Stolberger Straße, Joseph-von-Görres Straße, Gneisenaustraße, Peliserkerstraßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - vertagt
+- TOP 20: Rehmviertel;hier: Einrichtung der Bewohnerparkzone 'O' - ungeändert beschlossen
+- TOP 21: Errichtung des "Hauses der Identität und Integration" sowie des Stadtarchivs im Gebäude Rheinnadel in Aachen Reichsweg - Grundsätzliches und Konzeption - zur Kenntnis genommen
+- TOP 22: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen - ungeändert beschlossen
+- TOP 23: Beauftragung und Durchführung einer Elternbefragung für die Grundschuljahrgänge 1 bis 3hier Antrag der SPD-Fraktion und der Fraktion Grüne im Rat vom 12.11.08 - vertagt
+- TOP 24: Eingliederung der Stadtbibliothek in den Kulturbetrieb der Stadt AachenAntrag der Fraktionen von SPD und Grünen vom 04.03.2008 und 14.05.2008 - ungeändert beschlossen
+- TOP 25: Projekt Wege gegen das Vergessen – durch das Aachen der Nazizeit Anbringung einer Gedenk- und Mahntafel am ehemaligen Gewerkschaftshaus - ungeändert beschlossen
+- TOP 26: Dezernatsverteilungsplan - ungeändert beschlossen
+- TOP 27: Änderung der Richtlinien über die Zuwendungen zum Geschäftsbedarf der Ratsfraktionen - ungeändert beschlossen
+- TOP 28: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 28.1: Besetzung von Ausschüssen - Schulausschuss - ungeändert beschlossen
+- TOP 28.2: Besetzung von Ausschüssen - Sozial- und Gesundheitsausschuss
+- TOP 28.3: Besetzung von Ausschüssen - Betriebsausschuss Gebäudemanagement
+- TOP 29: Anfragen
+- TOP 30: Mitteilungen der Verwaltung und Ratsanträge
+- TOP 31: Vorlage der Jahresrechnung der Stadt Aachen für das Haushaltsjahr 2007 - ungeändert beschlossen
+- TOP 32: 4. Nachtrag zur Vergnügungssteuersatzung - ungeändert beschlossen
+- TOP 33: Benennung von 4 stimmberechtigten Abgeordneten für die 35. ordentliche Hauptversammlung des Deutschen Städtetages vom 12. Mai bis 14. Mai 2009 in Bochum - ungeändert beschlossen
+- TOP 34: Resolution Wir sind Aachen - Nazis sind es nicht
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
