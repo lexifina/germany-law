@@ -1,0 +1,8 @@
+# TOP 5: Mobile Jugendarbeit im Ulmer Süden
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2008-12-10)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/5184
+- Ergebnis: Ziff. 2: mehrheitlich beschlossen (6 Ja/4 Nein)
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/746
