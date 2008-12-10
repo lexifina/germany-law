@@ -1,0 +1,83 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2008-12-10T17:00:00+01:00
+- Ende: 2008-12-10T19:52:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1292
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1292
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Schwimmbad Zehlendorfer Welle - beantwortet
+- TOP 3.2: Schwimmbad im Reha-Zentrum am Teltower Damm - beantwortet
+- TOP 3.3: Parkbänke im Bezirk - beantwortet
+- TOP 3.4: Wie geht es ohne Mediation weiter auf dem "Weg der Mitte?" - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeitsanträge - erledigt
+- TOP 4.1.1: Yehudi Menuhin Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Dringliche Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Neuwahl von ehrenamtlichen Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Feststellungen - erledigt
+- TOP 4.3.1: Feststellung gemäß § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahlen - erledigt
+- TOP 4.4.1: Wahl eines Bürgerdeputierten für den Ausschuss für Wirtschaft und Verkehr - gewählt
+- TOP 4.5: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.5.1: Sondermittel der BVV für einen Zuschuss für zwei Schülerkonzertreisen der John-F.-Kennedy-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Übersicht über die im ersten Halbjahr 2008 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.7: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Erlass der Veränderungssperre 6-15/36 (Curtiusstraße 28/34) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8: Anträge - erledigt
+- TOP 4.8.1: Bundespolizeipräsidium in die Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.8.2: Verkehrssicherheit im Bereich des Kindergartens in Nikolassee verbessern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.9: Ausschussanträge - erledigt
+- TOP 4.9.1: Aufnahme der Waldsiedlung "Onkel Toms Hütte" in die Welterbe-Liste der UNESCO - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.10.1: Friedhofsnutzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.2: Energieeinsparung bei Heizungsanlagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.3: Die Parks in Steglitz-Zehlendorf sind ein Aushängeschild für den Bezirk - bessere Pflege notwendig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.4: Erhalt und Sanierung des Ikarus-Denkmals im Bäkepark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.5: Kultur- und Gedenkstättenlinie der BVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.6: Hildburghauser Straße/Blanckertzweg - "kostengünstige Alternativausbauten benennen"! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.7: Schulbegleitende Sprachprogramme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.8: Grundständigkeit am Paulsen-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.9: Erhalt der grünen Wannseebahn - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.10: Verkehrssicherheit im Bereich Riemeisterstraße Ecke Hochsitzweg verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.11: Ampelanlagen Oskar-Helene-Heim und Machnower Straße Ecke Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.12: Ampelschaltung Fußgängerüberweg Schloßstraße / Grunewaldstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.10.13: Sicherer Übergang in der Argentinischen Allee - auch für Blinde und Sehbehinderte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Schulbuchkosten senken - überwiesen
+- TOP 5.1.2: Sicherer beiderseitiger Fahrradweg entlang der Grunewaldstraße - überwiesen
+- TOP 5.1.3: Projekt "Sanierung Rathaus Zehlendorf" - überwiesen
+- TOP 5.1.4: Mehr Kompetenzen für bezirkliche Straßenverkehrsbehörde - überwiesen
+- TOP 5.1.5: Bau einer Mensa für die Goethe-Oberschule - überwiesen
+- TOP 5.1.6: Freie Träger ins Umweltentlastungsprogramm Berlin - überwiesen
+- TOP 5.1.7: Bebauungsplan 6.13 Durchwegung der ehemaligen Treitschkestraße im Rahmen des Projekts "Boulevard Berlin" - überwiesen
+- TOP 5.1.8: Mauerweg geöffnet halten - überwiesen
+- TOP 5.1.9: Umsetzung der Skulptur von Heckeshorn ins Rathaus - überwiesen
+- TOP 5.1.10: Behindertenparkplätze am Rathaus Steglitz - überwiesen
+- TOP 5.1.11: Anbindung der "Alten Fischerhütte" an den ÖPNV - überwiesen
+- TOP 5.1.12: Wirtschaft in die Schulen - überwiesen
+- TOP 5.1.13: Mensa in der Max-von-Laue-Schule - überwiesen
+- TOP 5.1.14: Parkautomat - Rathaus Zehlendorf - überwiesen
+- TOP 5.2: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.2.1: Integrationsmonitoring - überwiesen
+- TOP 5.3: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.3.1: Fusion der Schmidt-Ott-Oberschule (Plantagenstraße 8-9) mit der Friedrich-Bayer-Oberschule (Lauenburger Straße 110) zum Schuljahresbeginn 2009/2010 - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Schlüssel für Sportvereine - beantwortet
+- TOP 6.2: Welche Wirkung hat die Aktion Adventskalender? - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: BVV-Sondermittel - in der BVV abgelehnt
+- TOP 8: Vorlage zur Kenntnisnahme und dringl. Empfehlung von Ausschüssen - erledigt
+- TOP 8.1: Fortschreibung der Bezirkshaushaltsplanung 2009 - vertagt
+- TOP 9: Schlusswort des Vorstehers - erledigt
