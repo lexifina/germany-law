@@ -1,0 +1,51 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2008-12-11T17:00:00+01:00
+- Ende: 2008-12-11T18:40:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-35
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-35
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2006-RAT-35
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde
+- TOP 2: Bewerbung Gesundheitscampus Nordrhein-Westfalen
+- TOP 3: Weiterführung WiN Emscher-Lippe GmbH
+- TOP 4: Finanzcontrolling: Unternehmensbericht November 2008
+- TOP 5: Beteiligungsbericht 2008
+- TOP 6: Aufhebung der Zweitwohnungsteuersatzung der Stadt Castrop-Rauxel
+- TOP 7: Beteiligung an der LEG Landesentwicklungsgesellschaft Nordrhein-Westfalen GmbH; hier: Verkauf der Beteiligung an der LEG Landesentwicklungsgesellschaft Nordrhein-Westfalen GmbH
+- TOP 8: Beirat für Kunst und Stadtgestaltung der Stadt Castrop-Rauxel hier: Berufung eines Nachfolgers für ein während der Tätigkeitszeit ausscheidendes Mitglied
+- TOP 9: Übertragung von operativen Aufgaben der Stadt Castrop-Rauxel auf den EUV hier: Abschluss eines Geschäftsbesorgungsvertrages betreffend Unterhaltung, Bau und Planung von Straßen, Wegen und Plätzen, Ingenieurbauwerken und der Heranziehung zu Erschließungsbeiträgen sowie zur Sportplatzunterhaltung
+- TOP 10: 'Ab in die Mitte 2008! Die City-Offensive NRW' hier: Workshop 'Tore.Hoch!' - Neue Stadteingänge für die Altstadt
+- TOP 11: Landeswettbewerb 'Ab in die Mitte 2009! Die City-Offensive NRW'
+- TOP 12: Genehmigung eines Dringlichkeitsentscheids gemäß § 60 Abs. 1 Satz 2 der Gemeindeordnung NW; hier: Energetische Sanierung der Fridtjof-Nansen-Realschule und der dazugehörenden Turnhalle unter Inanspruchnahme einer Zuwendung aus dem Investitionspakt zur energetischen Erneuerung sozialer Infrastruktur
+- TOP 13: 5. Änderung des Bebauungsplans Nr. 105 Planbereich: Freiheitstraße Hier: a) Entscheidung über die Stellungnahmen (§ 2 Abs. 3 BauGB) b) Satzungsbeschluss (§ 10 Abs. 1 BauGB)
+- TOP 14: Betreff: Rahmenplanung Merklinde, östlich der B 235
+- TOP 15: Planbereich 'Am Landwehrbach/Engellaustraße' hier: a) Entscheidung über die Stellungnahmen gem. § 2 Abs. 3 BauGB b) Entscheidung über die redaktionellen Änderungen und Ergänzungen c) Satzungsbeschluss gem. § 10 Abs. 1 BauGB
+- TOP 16: Haushaltsüberschreitungen bei den Haushaltsstellen 61600.718000 'Zuweisungen und Zuschüsse für laufende Zwecken an übrige Bereiche (LEG)' und 63000.932500 'Erschließungsmaßnahme Victor 3/4 (heute Mittelstandspark Ost)'
+- TOP 17: Erlass einer 1. Änderungssatzung zur Satzung für das Kommunalunternehmen der Stadt Castrop-Rauxel 'EUV, Stadtbetrieb Castrop-Rauxel - Anstalt öffentlichen Rechts -'
+- TOP 18: Erlass einer 1. Änderungssatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage in der Stadt Castrop-Rauxel (Entwässerungssatzung)
+- TOP 19: Gebührenbedarfsberechnung 2009 Stadtentwässerung und Erlass einer Gebührensatzung zur Entwässerungssatzung
+- TOP 20: Erlass einer 1. Änderungssatzung zur Kreislaufwirtschafts- und Abfallsatzung des EUV Stadtbetriebes Castrop-Rauxel vom 07.12.2007
+- TOP 21: Erlass einer 1. Änderungssatzung zur Straßenreinigungs- und Gebührensatzung des EUV Stadtbetriebes Castrop-Rauxel
+- TOP 22: Wirtschaftsplan 2009 des EUV Stadtbetrieb Castrop-Rauxel, AöR
+- TOP 23: Familienbericht Castrop-Rauxel 2008 Lebenslage und Zufriedenheit von Familien
+- TOP 24: Familienbericht Castrop-Rauxel 2007 Lebenslage und Zufriedenheit von Familien
+- TOP 25: Festlegung des Allgemeinen Aufnahmerahmens der Cottenburgschule und der Wilhelmschule
+- TOP 26: Umwandlung des Ernst-Barlach-Gymnasiums in ein gebundeses Ganztagsgymnasium ab dem Schuljahr 2010/2011
+- TOP 27: Antrag Integrationsliste; Bildung einer Arbeitsgruppe Integration in Ausbildung und Beruf
+- TOP 28: Resolution der Bürgermeister für den Frieden
+- TOP 29: Benennung eines beratenden Mitgliedes des Integrationsrates
+- TOP 30: Genehmigung einer Dringlichkeitsentscheidung für das Haushaltsjahr 2008 zur Bereitstellung von 285.000,-- Euro bei der Haushaltsstelle 45500.770000 - laufende Leistungen in Heimerziehung für Minderjährige - Bereich Jugend und Familie
+- TOP 31: 
+- TOP 32: Antrag von Ratsmitglied Thomas Schmidt vom 07.11.2008; 'Antrag: Einführung 'Ehrenamtskarte' Ehrenamt braucht Anerkennung - für jedes Alter!!!'
+- TOP 33: Anfragen der Ratsmitglieder
+- TOP 34: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
