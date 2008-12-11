@@ -1,0 +1,108 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2008-12-11T09:00:00+01:00
+- Ende: 2008-12-11T16:20:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2258
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2258
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166716.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166716.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00166716.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wirtschaftsplan 2009 - einstimmig beschlossen
+- TOP 4: Jahresabschluss- und Lagebericht 2007 des Stadtbetriebs Zentrale Dienste - einstimmig beschlossen
+- TOP 5: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2008 bis 2012 - einstimmig beschlossen
+- TOP 6: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2009 - einstimmig beschlossen
+- TOP 7: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum vom 01.01.2009 bis 31.12.2009 - einstimmig beschlossen
+- TOP 8: Kalkulation und Beibehaltung der seit dem 01.10.1997 gültigen Tarifsätze zur Übernahme, Behandlung und Entsorgung von Fäkalschlämmen in dem Klärwerk Düsseldorf-Süd für den Kalkulationszeitraum 2009 - einstimmig beschlossen
+- TOP 9: Kalkulation der Gebührensätze im Stadtgebiet Düsseldorf für den Zeitraum 1. Januar 2009 bis einschließlich 31.12.2009 - einstimmig beschlossen
+- TOP 10: Neufestsetzung der Personal- und Fahrzeugkostensätze ab 01.01.2009 gemäß der Richtlinien über die Erhebung von Entgelten für Leistungen der Chemisch-biologischen Laboratorien der Landeshauptstadt Düsseldorf vom 27.01.1983 - einstimmig beschlossen
+- TOP 11: Gebührenkalkulation Straßenreinigung für 2009 - einstimmig beschlossen
+- TOP 12: 18. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 13: Gebührenkalkulation Abfall für 2009 - einstimmig beschlossen
+- TOP 14: 9. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshaupstadt Düsseldorf (Abfallentsorgungssatzung) - einstimmig beschlossen
+- TOP 15: 18. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf (2009) - einstimmig beschlossen
+- TOP 16: ÄA Linke: Gebührensatzung Abfallentsorgung - mehrheitlich abgelehnt
+- TOP 17: Etatberatung 2009 - zur Kenntnis genommen
+- TOP 18: Haushaltssatzung für das Haushaltsjahr 2009 - mehrheitlich beschlossen
+- TOP 19: ÄA SPD: Beschäftigungsoffensive - mehrheitlich abgelehnt
+- TOP 20: ÄA Linksfraktion: Ausfinanzierung d. Stellenplans - mehrheitlich abgelehnt
+- TOP 21: ÄA Linksfraktion: Nord-Süd Städtepartnerschaft - mehrheitlich abgelehnt
+- TOP 22: ÄA Bü90/Grü zum Hpl-Entwurf 2009: Klimaschutzmittel müssen klimawirksam werden - mehrheitlich abgelehnt
+- TOP 23: ÄA SPD: Neue Wohnungen für Düsseldorf - mehrheitlich abgelehnt
+- TOP 24: ÄA SPD: Studierende in Düsseldorf - mehrheitlich abgelehnt
+- TOP 25: ÄA Bü90 Etat 2009: Bürgerhaushalt - mehrheitlich abgelehnt
+- TOP 26: ÄA Linksfraktion: Auflösung des OSD - mehrheitlich abgelehnt
+- TOP 27: ÄA von Bü90/Grü zum HPL-Entwurf 2009: Bildung von Anfang an - mehrheitlich abgelehnt
+- TOP 28: ÄA Linksfraktion: Kostenloses Mittagessen - mehrheitlich abgelehnt
+- TOP 29: ÄA Linksfraktion: Wöchentlich an 1 Tag freier Eintritt in Museen u. Kultureintr. - mehrheitlich abgelehnt
+- TOP 30: ÄA Linksfraktion: Keine Ein-EuroJobs - mehrheitlich abgelehnt
+- TOP 31: ÄA Linksfraktion: Sozialticket einführen - mehrheitlich abgelehnt
+- TOP 32: ÄA von Bü90/Grü zum HPL-Entwurf 2009: Mobilität ermöglichen - mehrheitlich abgelehnt
+- TOP 33: ÄA SPD: Sozialticket - mehrheitlich abgelehnt
+- TOP 34: ÄA SPD: Stärkung Ehrenamt - mehrheitlich abgelehnt
+- TOP 35: ÄA Linke Etat: Kostenlose Kitas - mehrheitlich abgelehnt
+- TOP 36: ÄA SPD: Beitragsfreie Betreuung für u. 3-jährige - mehrheitlich abgelehnt
+- TOP 37: ÄA Bü90/Grü zum HPL-Entwurf 2009: Soziale Stadt - Quartiere stärken - mehrheitlich abgelehnt
+- TOP 38: ÄA SPD: CO 2 arme Stadtquartiere - mehrheitlich abgelehnt
+- TOP 39: ÄA SPD: Industriestandort Süd - mehrheitlich abgelehnt
+- TOP 40: ÄA Linksfraktion: Kö-Bogen - mehrheitlich abgelehnt
+- TOP 41: ÄA Linksfraktion: Ausbau von Hauptverkehrsstraßen - mehrheitlich abgelehnt
+- TOP 42: ÄA SPD: Barrierefreie Haltestellen - mehrheitlich abgelehnt
+- TOP 43: ÄA SPD: Ausbau des Schienennetzwerkes - mehrheitlich abgelehnt
+- TOP 44: ÄA SPD: Taktzeiten des ÖPNV verbessern - mehrheitlich abgelehnt
+- TOP 45: ÄA Etat Linke: Reguläre Arbeitsverhältnisse - mehrheitlich abgelehnt
+- TOP 46: ÄA Linksfraktion: Die Schöpfung bewahren - mehrheitlich abgelehnt
+- TOP 47: ÄA zum HPL-Entwurf 2009: Klima braucht Schutz .... - mehrheitlich abgelehnt
+- TOP 48: ÄA Linksfraktion: Gewerbesteuersatz beibehalten - mehrheitlich abgelehnt
+- TOP 49: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung - mehrheitlich beschlossen
+- TOP 50: 1. VVZ - mehrheitlich beschlossen
+- TOP 51: 2. Veränderungsverzeichnis zum Haushaltsplanentwurf 2009 - mehrheitlich beschlossen
+- TOP 52: 3. Veränderungsverzeichnis zum Haushaltsplanentwurf 2009 - mehrheitlich beschlossen
+- TOP 53: Stellenplan 2009 - mehrheitlich beschlossen
+- TOP 54: Kämmererliste - mehrheitlich beschlossen
+- TOP 55: KLR - einstimmig beschlossen
+- TOP 56: Förderprogramm "Klimafreundliches Wohnen" - mehrheitlich beschlossen
+- TOP 57: EA Linke: Klimaschutzprogramm - mehrheitlich abgelehnt
+- TOP 58: Umwandlung von Realschulen und Gymnasien in gebundene Ganztagsschulen - einstimmig beschlossen
+- TOP 59: Grundsatzbeschluss Im Liefeld - einstimmig beschlossen
+- TOP 60: Sportpark Niederheid 2. Kunstrasen B+F - einstimmig beschlossen
+- TOP 61: Modernisierung der Stadtteilbücherei Garath, sowie Erneuerung der WC-Anlagen und Einbau eines Aufzuges in der Freizeitstätte Garath - einstimmig beschlossen
+- TOP 62: Gerresheimer Landstraße 89, Neubau einer 3-fach Sporthalle - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 63: Brandschutzmaßnahmen im Kunstmuseum, Ehrenhof 5 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 64: Simon-Gatzweiler-Platz, Niederschlagwasserbehandlung und Alberichweg, Zuleitungssammler - Grundsatzbeschluss - einstimmig beschlossen
+- TOP 65: Neubau einer Kindertages- und Jugendfreizeiteinrichtung, Heinrich-Walbröhl-Weg - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 66: Bilker Kirche - Gleiseckverbindung - einstimmig beschlossen
+- TOP 67: Neubau Öffentliche Grünanlage mit Kinderspielplätzen Neue Stadtquartiere Derendorf - einstimmig beschlossen
+- TOP 68: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 69: AR Quadriennale GmbH - mehrheitlich beschlossen
+- TOP 70: AR Sportmarketing Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 71: Zero Stiftung - mehrheitlich beschlossen
+- TOP 72: Beirat Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 73: Wahl einer Schiedsperson - einstimmig beschlossen
+- TOP 74: Gen. 60er: World Games 2013 - zur Kenntnis genommen
+- TOP 75: World Games 2013 - zur Kenntnis genommen
+- TOP 76: Gen. Eilbeschluss AR Arena - mehrheitlich beschlossen
+- TOP 77: 60er HFA: Arena AR - mehrheitlich beschlossen
+- TOP 78: AR Arena - mehrheitlich beschlossen
+- TOP 79: Neufassung der Rechnungsprüfungsordnung der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 80: ÄA SPD/Bü90/Grü: Rechnungsprüfungsordnung - mehrheitlich abgelehnt
+- TOP 81: Neufassung der Vorlage 70/41/2008 - einstimmig beschlossen
+- TOP 82: ÄA Linke Friedhossatzung - mehrheitlich abgelehnt
+- TOP 83: Änderung der Satzung für die Friedhöfe und für die Feuerbestattungsanlage der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 84: Änderung und Ergänzung der Gebührensatzung für die städtischen Friedhöfe der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 85: Aufhebung der Satzung über die Bildung von Bestattungsbezirken in der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 86: Öffentliche Beleuchtung ab 2009 - zur Kenntnis genommen
+- TOP 87: Beitritt des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf Anfang 2009 zur "Allianz der öffentlichen Wasserwirtschaft e. V." - einstimmig beschlossen
+- TOP 88: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 89: B-Plan 6171/048-§13-Änd.; Satzung - einstimmig beschlossen
+- TOP 90: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 91: Bestellung stimmberechtigter Abgeordneter - Hauptvers. Städtetag - mehrheitlich beschlossen
