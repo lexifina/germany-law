@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Herford
+- Beginn: 2008-12-12T16:00:00+01:00
+- Ende: 2008-12-12T20:40:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZZB-Tlx_7vaviMt20_PlMC8
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1241
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZccGzfr-u7hnoU0ZHm1o_90UXPDn_KoYN_JpLAx4p3w7/Einladung_Rat_12.12.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbhRfuMicI3jEnhJrmwnejPcpHY09H2xZUE9Shqgde2h/Oeffentliche_Niederschrift_Rat_12.12.2008.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 12.09.2008
+- TOP A.2: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.3: Baumaßnahme Sportlerheim Herringhausen - Einstimmig bei 2 Enthaltung(en)
+- TOP A.4: 3. Controllingbericht zum Haushalt 2008 - Zur Kenntnis genommen
+- TOP A.5: HVV GmbH: Wirtschaftsplan 2009 und geänderter Plan 2008 - Einstimmig ohne Enthaltungen
+- TOP A.6: Ganztagsentwicklung in der Sekundarstufe I - Mit Mehrheit ohne Enthaltungen
+- TOP A.7: Entwurf der Haushaltssatzung 2009 sowie Mittelfristige Ergebnis- und Finanzplanung 2008-2012 - Einstimmig ohne Enthaltungen
+- TOP A.8: Stellenplan für das Haushaltsjahr 2009 - Zur Kenntnis genommen
+- TOP A.9: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.10: Umwidmung der Petersstraße - Einstimmig bei 4 Enthaltung(en)
+- TOP A.11: Umsetzung des Projektes "Stolpersteine" in Herford - Einstimmig bei 1 Enthaltung(en)
+- TOP A.12: Gebührenhaushalt Straßenreinigung
+- TOP A.12a: Ersatz der Straßenreinigungsgebühr durch einen Grundsteuerzuschlag Antrag der Ratsfraktion Bündnis 90/Die Grünen - Zur Kenntnis genommen
+- TOP A.12b: Gebührenhaushalt Straßenreinigung hier: 28. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig bei 4 Enthaltung(en)
+- TOP A.13: Interkommunale Zusammenarbeit
+- TOP A.13a: Interkommunale Zusammenarbeit: Sachstandsbericht - Zur Kenntnis genommen
+- TOP A.13b: Antrag der Ratsfraktion Bündnis 90/DIE GRÜNEN vom 30.09.2008: Interkommunale Zusammenarbeit mit Kommunen innerhalb und außerhalb des Kreises Herford
+- TOP A.14: Kommunaler Jugendförderplan Teil III: Kinder u. Jugendbeteiligung in Herford - Zur Kenntnis genommen
+- TOP A.15: Öffentliche Spielplätze a) Sachstandsbericht über die Umsetzung des Spielplatzbedarfsplanes b) Vergabeverfahren für Spielplätze - Einstimmig ohne Enthaltungen
+- TOP A.16: Zentren- und Nahversorgungskonzept der Stadt Herford hier: Beschlussfassung - Einstimmig ohne Enthaltungen
+- TOP A.17: Anträge der FDP-Fraktion und der Fraktion Bündnis 90 / Die Grünen zur Aufstellung des Zeichens "Gemeinsamer Fuß- und Radweg" für den neugestalteten Bereich des Walles - Einstimmig ohne Enthaltungen
+- TOP A.18: Änderung der Hauptsatzung der Stadt Herford - Einstimmig ohne Enthaltungen
+- TOP A.19: Neufassung der Rechnungsprüfungsordnung - Einstimmig ohne Enthaltungen
+- TOP A.20: Satzung der Stadt Herford über Stundung, Niederschlagung und Erlass von Forderungen, über den Abschluss von Vergleichen und die Entscheidung über Widersprüche und im Klageverfahren - Einstimmig ohne Enthaltungen
+- TOP A.21: Änderung der Anlage zur Verwaltungsgebührensatzung der Stadt Herford (Gebührentarif - Tarifstelle 17) - Einstimmig ohne Enthaltungen
+- TOP A.22: Vergnügungssteuer; hier: 5. Satzung zur Änderung der Vergnügungssteuersatzung - Einstimmig ohne Enthaltungen
+- TOP A.23: Beschluss über die Jahresrechnung 2007 und die Entlastung des Bürgermeisters für die Führung der Haushaltswirtschaft im Haushaltsjahr 2007 - Einstimmig ohne Enthaltungen
+- TOP A.24: FNP-Teiländerung Nr. 2.08 "Waltgeristraße" hier: Feststellungsbeschluss - Einstimmig bei 0 Enthaltung(en)
+- TOP A.25: Durchführung eines verkaufsoffenen Sonntages am 29. März 2009 - Mit Mehrheit bei 1 Enthaltung(en)
+- TOP A.26: Immobilien- und Abwasserbetrieb Herford
+- TOP A.26a: Abwasserbeseitigungskonzept - Einstimmig ohne Enthaltungen
+- TOP A.26b: Jahresabschluss 2007 des Immobilien- und Abwasser-Betriebes Herford - Einstimmig ohne Enthaltungen
+- TOP A.26c: Änderung des Wirtschaftsplanes 2008 und Wirtschaftsplan 2009 a) Finanzplan b) Erfolgsplan c) Stellenplan - Einstimmig ohne Enthaltungen
+- TOP A.26d: Zuordnung von weiterem städtischem Anlagevermögen - Einstimmig ohne Enthaltungen
+- TOP A.27: Steuerung von Drittorganisationen
+- TOP A.27a: WWS GmbH: Wirtschaftsplan 2009 und geänderter Plan 2008 - Einstimmig ohne Enthaltungen
+- TOP A.27b: Interkomm GmbH: Wirtschaftsplan 2009 - Einstimmig ohne Enthaltungen
+- TOP A.27c: Die Chance gGmbH: Auflösung der Gesellschaft - Einstimmig ohne Enthaltungen
+- TOP A.27d: KBR Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2007 und Wirtschaftsplan 2009 - Einstimmig ohne Enthaltungen
