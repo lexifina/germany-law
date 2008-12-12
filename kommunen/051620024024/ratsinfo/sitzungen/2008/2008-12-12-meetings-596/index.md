@@ -1,0 +1,71 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2008-12-12T16:00:00+01:00
+- Ende: 2008-12-12T20:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/596
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/596
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Benennung von stimmberechtigten Abgeordneten für die 35. ordentliche Hauptversammlung des Deutschen Städtetages (RAT121208-07258.doc)
+- TOP 0: Bewerbung der Stadt Neuss als „Fairtrade-Stadt“ im Rahmen der internationalen Kampagne „Fairtrade-Towns“ von Transfair (RAT121208-07259.doc)
+- TOP 0: Hochschule Neuss (FB: School of Logistics School of Commerce) (RAT 121208-07262.doc)
+- TOP 0: Festsetzung von Gebühren 2009 für den Bereich „Abfallentsorgung“ (FA281108-07218.doc)
+- TOP 0: Abfallentsorgung – Blaue Tonne (RAT121208-07261.doc)
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 4: Einwohnerfragestunde
+- TOP 5: Jahresabschluss zum 31.12.2007 GMN
+- TOP 6: W-Plan GMN 2009
+- TOP 7: Abfallentsorgungsgebühren 2009
+- TOP 8: Soziale Frühwarnsysteme / Frühe Hilfen (JHA181108-6968.doc)
+- TOP 9: Kinderbildungsgesetz, hier: Änderungen bei der Refinanzierung der Mieten (JHA181108-07080.doc)
+- TOP 10: Finanzierung Werkstattverfahren Jahnstadion
+- TOP 11: Haushaltsplanes 2009
+- TOP 12: Beratung der mittelfristigen Ergebnisplanung 2008 - 2012
+- TOP 13: Beratung des Investitionsprogrammes (investive Finanzplanung) 2008 - 2012
+- TOP 14: Haushaltssatzung 2009
+- TOP 15: Prüfung der Eröffnungsbilanz der Stadt Neuss (RPA251108-07041.doc)
+- TOP 16: Einrichtung einer städtischen Gestaltungskommission - Antrag der FDP-Stadtratsfraktion vom 27.10.2008
+- TOP 17: Öffentliches Hearing zum Thema Bürgerbeteiligung in der Stadtplanung - Modelle, Erfahrungen und Konsequenzen für Neuss“ - Antrag der Stadtratsfraktion Unabhängige / Die Linke vom 28.10.2008
+- TOP 18: Festsetzung von Gebühren 2009 für den Bereich „Stadtentwässerung“ (BA250908-06832.doc)
+- TOP 19: Wirtschaftsplan der Stadtentwässerung Neuss für das Jahr 2009 (BA250908-06831.doc)
+- TOP 20: Festsetzung von Gebühren 2009 für die Entsorgung von Grundstücksentwässerungsanlagen (BA250908-06833.doc)
+- TOP 21: Verlängerung der Industriestraße (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA121108-06978.doc)
+- TOP 22: Verlängerung der Industriestraße (Kanalbau) - Planvorlage, Ausbauprogramm - (BA121108-06988.doc)
+- TOP 23: Personelle Besetzung in Wasser- und Bodenverbänden hier: Entsendung eines Vertreters der Stadt Neuss in den Ausschuss des Deichverbandes „Neue Deichschau Heerdt“ (BA121108-06979.doc)
+- TOP 24: Daimlerstraße - Neubau Einstiegshaltestelle „Böhmerstraße“ (BA121108-06980.doc)
+- TOP 25: Ausbau der Bonner Straße in Höhe Kasterstraße: Änderungsbeschluss (Straßenbau, Beleuchtung) (BA121108-07032.doc)
+- TOP 26: Festsetzung von Gebühren 2009 für den Bereich „Bestattungswesen“ (AUG111108-06985.doc)
+- TOP 27: Wirtschaftsplan 2009 der Städtischen Friedhöfe Neuss (AUG111108-07072.doc)
+- TOP 28: Wirtschaftsplan der Liegenschaften und Vermessung Neuss (LVN) für das Jahr 2009 (AWL201108-07133.doc)
+- TOP 29: Flächennutzungsplanänderung Nr. 118 - Holzheim, Blausteinsweg (Nord) - - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 30: Bebauungsplan Nr. 449 - Holzheim, Blausteinsweg (Nord) - - Bericht über die frühzeitigen Beteiligungung - erneute Entwurfsvorlage - erneuter Aufstellungsbeschluss - Vorbereitung der Auslegung
+- TOP 31: Antrag auf Änderung des Bebauungsplans Nr. 10b/2 - Grefrath, Mergelsweg - im Bereich Lüttenglehner Straße
+- TOP 32: Kinderspielplatzprogramm 2009 (UK291008-06946.doc)
+- TOP 33: Flächennutzungsplanänderung Nr. 109 - Allerheiligen, Schule und Begegnungsstätte - - Beschluss über die Stellungnahmen - Beschluss über die FNP-Änderung - Einholung der Genehmigung
+- TOP 34: Bebauungsplan Nr. 445 - Allerheiligen, Schule und Begegnungsstätte- - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 35: Grünrahmenplan zum Baugebiet B, Bebauungsplan Nr. 443, Am Henselsgraben (Allerheiligen) (AUG111108-06950.doc)
+- TOP 36: Errichtung einer Kindertageseinrichtung, eines Kinder- und Jugendzentrums und eines multifunktionalen Mehrzweckraumes in Allerheiligen (JHA181108-07108-PlanAllerheiligen.doc)
+- TOP 37: Neubau Kunstrasengroßspielfeld Theodor-Klein-Sportanlage Rosellen (SP051108-06969.doc)
+- TOP 38: Bebauungsplan Nr. 320/1 - Uedesheim, Sudermannstraße - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 39: Straßenbegleitgrün Bebauungsplan Nr. 457 – Am Blankenwasser – hier: 2. Bauabschnitt zwischen Blindeisenweg und Tucherstraße (AUG111108-06949.doc)
+- TOP 40: Änderung der städtischen Richtlinie I 2.3 Hier: Erhöhung des Betreuerschlüssels bei Jugenderholungsmaßnahmen (JHA110908-06835.doc)
+- TOP 41: Kindertageseinrichtung Am Hasenberg (JHA181108-06975.doc)
+- TOP 42: Antrag der Träger von Hortgruppen (JHA 181108-07074)
+- TOP 43: Herausnahme der Straßenbahnführung aus dem Hauptstraßenzug (Oberstraße bis Krefelder Straße) hier: Einwohnerantrag gem. § 25 GO NRW der Initiative „Bahn frei für mehr Neuss“ (RAT121208-07203)
+- TOP 44: Grundschule Allerheiligen (RAT121208-07234.doc)
+- TOP 45: Einführung eines „SozialTickets“ in der Stadt Neuss (RAT121208-07235.doc)
+- TOP 46: Innenstadtentwicklung ist ein dynamischer Prozess (RAT121208-07251.doc)
+- TOP 47: Bekämpfung der Herkulesstaude (RAT121208-07197.doc)
+- TOP 48: Umgestaltung des Rennbahnareals zum RennbahnPark - Sachstand (AWL101108-07161.doc)
+- TOP 49: Kenntnisnahme 3. Quartal 2008
+- TOP 50: Verfüllung der Grabungsstätte ehemaliger Busbahnhof (RAT121208-07252)
+- TOP 51: Barrierefreies Rathaus (RAT121208-07255.doc)
+- TOP 52: Einwohnerfragestunde
