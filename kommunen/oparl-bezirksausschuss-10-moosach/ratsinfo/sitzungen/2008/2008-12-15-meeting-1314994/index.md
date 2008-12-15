@@ -1,0 +1,98 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2008-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1314994
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1314994
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neuwahl des/der Vorsitzenden des Unterausschusses Bau, Umwelt und Wirtschaft
+- TOP 1.3.: Neubesetzung des Unterauschusses Bau, Umwelt und Wirtschaft sowie ggf. der anderen Unterausschüsse
+- TOP 2.: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Einbahnregelung Andernacher Straße - <div>Verweisung an UA - Ortstermin</div>
+- TOP 2.2.: Überlassung einer geeigneten Parkfläche innerhalb des Geländes des Betriebshofes Schragenhofstraße für die Zeit der Sanierung der Tiefgaragen der Wohnanlage Am Kapuzinerhölzl 3 - 13 - <div>weiterleiten an Baureferat</div>
+- TOP 2.3.: Vorstellung Bogensportverein - <div>Kenntnisnahme</div>
+- TOP 3.: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Errichtung eines Basketballplatzes
+- TOP 3.2.: Treffen im Sozialreferat
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Halteverbot Leipziger- / Quedlinburger Straße
+- TOP 3.2.: Ortstermin Dachauer Str. 334 a
+- TOP 3.3.: Verkehrsberuhigung Donauwörther Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Bericht Stadtgestaltungskommission Riesstraße 16
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Stadtteilwoche 2013 in Moosach
+- TOP 4.2.: Erhalt der Graffitis am Moosacher St.-Martins-Platz
+- TOP 4.3.: Faltblatt / Infomatierial für den Stadtbezirk Moosach
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 4.4.1.: Kreuzung Andernacher Straße / Feldmochinger Straße - <div>Behandlung zusammen mit TOP 2.1</div>
+- TOP 4.4.2.: Erhalt der Ampel an der Kreuzung Riesstraße / Georg-Brauchle-Ring - <div>Behandlung zusammen mit TOP 6.2 </div>
+- TOP 5.1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: Franz-Marc-Str. 6
+- TOP 5.2.: Projektplanung Bushaltestelle Nederlinger Straße
+- TOP 5.3.: (E) Gärtner-, Dürr-, Messerschmitt-, Dessauerstraße, Hans-Bunte-Straße Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1379 im 10. Stadtbezirk Moosach Erstmalige Herstellung Projektkosten (Kostenobergrenze): 2.500.000 ? Projektgenehmigung
+- TOP 6.: Anhörungen
+- TOP 6.1.: Zentrlae Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 6.2.: Lichtzeichenanlagen-Bauprogramm für 2009
+- TOP 6.3.: Abbau der klappbaren Sperrbeschilderung in der Borstei
+- TOP 6.4.: Wiederherstellung der Grünanlage Landshuter Allee / Triebstraße
+- TOP 6.5.: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage: Riesstraße 16
+- TOP 6.6.: Vollzug der Baumschutzverordnung: Donaustaufer Straße
+- TOP 6.7.: CityBike Marathon München am 19.04.2009
+- TOP 7.: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Bebauungsplan Brieger Straße (Änderungen aufgrund der Einwendungen)
+- TOP 7.2.: Mülleimer mit Aschenbechern an den U-Bahn-Abgängen (Zwischennachricht)
+- TOP 7.3.: Missstände im Kapuzinerhölzl (Maßnahmen wurden getroffen)
+- TOP 7.4.: Buslinienführung im Bereich des Moosacher Bahnhofs nach Inbetriebnahme der U-Bahn (Planungen sind derzeit noch nicht abgeschlossen)
+- TOP 7.5.: Verlagerung der Wertstoffinsel "In den Kirschen" (Standort wird aufgelöst)
+- TOP 7.6.: Neubau eines Technischen Betriebszentrums an der Schragenhofstraße - Lärmschutz (Vorhaben ist mir Auflagen hinsichtlich des Lärmschutzes genehmigungsfähig)
+- TOP 7.7.: Bordsteinabsenkungen in der Hardenbergstraße (Umsetzung im Frühjahr/Sommer 2009)
+- TOP 7.8.: Hinweise auf das Berufsbildungszentrum Riesstraße in den U-Bahnhöfen Georg-Brauchle-Ring und OEZ (abgelehnt)
+- TOP 7.9.: Bessere Beleuchtung in der Schragenhofstraße (Beleuchtung wird erweitert)
+- TOP 7.10.: Neubau eines Einfamilienhauses mit Stellplatz Lauterbachstr. 18 (Baumfällungen wurden genehmigt)
+- TOP 7.11.: Bauvorhaben Pirschstraße / Ecke Lechelstr. 20 (Erschließung über das Hartmannshofer Bächl genehmigungsfähig)
+- TOP 8.: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Klarheit über die zweite S-Bahn-Stammstrecke schaffen (Stadtratsantrag)
+- TOP 8.4.: Ansprechpartnerinnen und Ansprechpartner der HA II des Planungsreferates (Stadtplanung)
+- TOP 8.5.: Möglichkeiten der Stadt, bei privaten Mietwohnungsverkäufen zu reagieren
+- TOP 8.6.: Personenbezogener Sonderparkplatz Pfeilschifterstraße 12
+- TOP 8.7.: Verkauf eines städtischen Grundstückes Magdalena-Bräu-Weg
+- TOP 8.8.: Planungen für eine Stadt-Umland-Bahn bzw. Regio-Tram wieder voranbringen (Stadtratsantrag)
+- TOP 8.9.: Drehgenehmigung "Lenßen und Partner"
+- TOP 8.10.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten (Stadtratsantrag)
+- TOP 8.11.: Entwicklungsplanung Olympiapark 2018, Ergebnisse des Grundlagenworkshops
+- TOP 8.12.: Perspektive München; Fortschreibung des Zentrenkonzepts - Schwerpunkt Nahversorgung
+- TOP 8.13.: Perspektive München; Aktualisierung der Leitlinie Ökologie
+- TOP 8.14.: Zweckentfremdung von Wohnraum: Lauterbachstraße
+- TOP 8.15.: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung; Erziehungsberatung für gehörlose Eltern (Stadtratsantrag
+- TOP 8.16.: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 8.17.: Zusätzliche Haltestelle Moosach Bahnhof in der Großbeerenstraße
+- TOP 8.18.: Errichtung von Minispielfeldern im Stadtgebiet; Kooperation mit dem Deutschen Fußball-Bund e.V.
+- TOP 8.19.: Haushaltsplan 2009 des Sozialreferates ; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" (Neufassung vom 20.11.08) - des Amtes für Soziale Sicherung - des Stadtjugendamtes
+- TOP 8.20.: Gesundheitsförderung durch Sport und Bewegung; Flächendeckende Aufstellung von Bewegungsinseln
+- TOP 8.21.: Bebauungsplan mit Grünordnung 1616 b Brieger Straße
+- TOP 8.22.: Änderung des Flächennutzungsplanes mit integirerter Landschaftsplanung für den Bereich IV/24 Brieger Straße
+- TOP 8.23.: Klimaschutzfahrplan 4: Ökologische Mustersiedlung (Stadtratsantrag)
+- TOP 8.24.: Suchkreismeldung Mobilfunk
+- TOP 8.25.: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 8.26.: Tram 20 wieder zum Moosacher Bahnhof
+- TOP 8.27.: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmekonzepte Öffentlicher Nahverkehr (ÖPNV) und Motorisierter Individualverkehr (MIV)
+- TOP 8.28.: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit
+- TOP 8.29.: Maßnahmegenehmigung U-Bahnhöfe
+- TOP 8.30.: Ausbau Pelkovenstraße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
