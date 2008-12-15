@@ -1,0 +1,87 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2008-12-15T16:07:00+01:00
+- Ende: 2008-12-15T18:25:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6202
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6202
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00102291.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung - Stand: 12.12.2008 - 11.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00102032.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Cross Border Leasing - Transaktion Müllverbrennungsanlage - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort auf die Große Anfrage der Ratsgruppe DIE REPUBLIKANER (VO/1036/08) vom 01.12.08: Corss Border Leasing - Transaktion Müllverbrennungsanlage - abschließend zur Kenntnis genommen
+- TOP 2.2: Kinderschutz in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Anwort auf die Anfrage der Frakt. BÜNDNIS 90/ DIE GRÜNEN vom 28.11.08 zur Sicherung des Kindeswohls nach § 8 a SGB VIII (KJHG) - abschließend zur Kenntnis genommen
+- TOP 2.3: Hohe Gebühren und Energiekosten in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Hohe Gebühren und Energiekosten in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.4: Maßnahmen zur kulturellen Teilhabe von Wuppertal-Pass-InhaberInnen - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE. vom 02.12.2008 (VO/1043/08): Maßnahmen zur kulturellen Teilhabe von Wuppertal-Pass-InhaberInnen - abschließend zur Kenntnis genommen
+- TOP 2.5: Straßenreinigung - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Antwort auf die große Anfrage der WfW VO/1046/08 vom 02.12.2008: Straßenreinigung - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: ARGE-Kundinnen und -Kunden über Wuppertal-Pass informieren - zur Vorberatung verwiesen
+- TOP 4.2: Ausgabentransparenz in kommunalen Unternehmen - abgelehnt
+- TOP 4.3: Kommunaler Stabilisierungsfonds für Bürgerinnen und Bürger - abgelehnt
+- TOP 4.4: Fachtagung zum Übergang "Von der Förderschule in den Beruf" - zur Vorberatung verwiesen
+- TOP 4.5: Wohngeld im Verhältnis zu KdU-Leistungen nach SGB II und XII - zurückgezogen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Neubekanntmachung der Straßenbaubeitragssatzung - ungeändert beschlossen
+- TOP 6.2: Zweitwohnungssteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Vergnügungssteuersatzungen für die Zeiträume 2003 bis 2005 und ab 2006 - ungeändert beschlossen
+- TOP 6.4: Hundesteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.5: Satzung über die Abwasserbeseitigung in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Satzung über die Straßenreinigung und den Winterdienst sowie die dafür zu erhebenden Gebühren ab 01.01.2009 - ungeändert beschlossen
+- TOP 6.7: Satzung zur Regelung des Kostenersatzes für Einsätze der Feuerwehr Wuppertal und Hilfe leistender Feuerwehren - ungeändert beschlossen
+- TOP 6.8: Entgeltordnung für die Feuerwehr der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.9: Satzung über die Erhebung von Gebühren für die Durchführung der Brandschau in der Stadt Wuppertal (Brandschaugebührensatzung) - ungeändert beschlossen
+- TOP 6.10: Korrektur der Festsetzung der Pflegesätze für das Altenzentrum Wuppertaler Hof für die Zeit vom 01.06.2008 bis zum 30.06.2010 - geändert beschlossen
+- TOP 6.11: Verkaufsoffene Sonntage 2009 - ungeändert beschlossen
+- TOP 6.12: Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.13: Abfallwirtschaftssatzung - ungeändert beschlossen
+- TOP 6.14: Gebührensatzung zur Abfallwirtschaftssatzung für das Jahr 2009 - ungeändert beschlossen
+- TOP 6.15: Ordnungsbehördliche Verordnung zum Schutz von Naturdenkmalen gem. § 42 a LG NRW im Gebiet der Stadt Wuppertal - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Instandsetzung Brücke Ohligsmühle, Zusätzliche Bauleistungen - ungeändert beschlossen
+- TOP 7.2: Bereitstellung überplanmäßiger Mittel für Straßenerneuerung und -instandsetzung - ungeändert beschlossen
+- TOP 7.3: Kategorisierung und Priorisierung der im Doppelhaushalt 2008/2009 für 2009 vorgesehenen Investitionen - ungeändert beschlossen
+- TOP 7.4: Zuständigkeit für über- und außerplanmäßige Aufwendungen und Auszahlungen im Jahr 2009 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2009 des Eigenbetriebes ESW - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2007 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2007 - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2009 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2009 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplanung KIJU 2009 - ungeändert beschlossen
+- TOP 8.6: Cross-Border-Lease Kanalnetz - Austausch des Eigenkapitalerfüllungsinstruments - Dringlichkeitsentscheidung genehmigt
+- TOP 9: Planverfahren
+- TOP 9.1: Bauleitplanverfahren 1087 - Waldschloßbrauerei - - ungeändert beschlossen
+- TOP 9.2: Vorhaben- und Erschließungsplan (VEP) Nr. 934 V -Vor der Beule/Mählersbeck- - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1133 - Linde / Im Stockberg - - ungeändert beschlossen
+- TOP 9.4: 30. Flächennutzungsplanänderung und vorhabenbezogener Bebauungsplan Nr. 1115V "Parkstraße / Erbschlö" - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung Schulzentrum Ost, Max-Planck-Str. 10 - ungeändert beschlossen
+- TOP 10.2: Sanierung Schulzentrum West, Nocken 6 - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Energetische Gebäudesanierung fördern - denkmalgeschützte Bausubstanz besonders berücksichtigen. Antrag der Fraktionen von CDU und SPD vom 06.05.2008 - geändert beschlossen
+- TOP 11.2: 3. Fortschreibung des Abwasserbeseitigungskonzepts (ABK 2009) - ungeändert beschlossen
+- TOP 11.3: Verkauf des städtischen Grundstückes Lienhardplatz/Lienhardstraße/Kaiser-straße (Drucksache Nr. VO/1099/07 vom 21.12.07) - ungeändert beschlossen
+- TOP 11.4: Zusammenlegung der Lebensmittelüberwachungs- und Veterinärämter der drei bergischen Städte Remscheid, Solingen und Wuppertal - ungeändert beschlossen
+- TOP 11.5: Antrag auf Errichtung und Antrag auf Erweiterung der Zügigkeit eines Bildungsganges am Berufskolleg am Haspel - geändert beschlossen
+- TOP 11.6: Vorzeitige endgültige Schließung der städt. Gemeinschaftsgrundschule Elfenhang 4, 42329 Wuppertal - ungeändert beschlossen
+- TOP 11.7: 1.000-Schulen-Programm, Übermittagsbetreuung in Haupt- und Förderschulen - ungeändert beschlossen
+- TOP 11.8: Aktualisierung der Medienentwicklungsplanung für die Schulen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.9: Beschluss über die Jahresrechnung 2007 und Entscheidung über die Entlastung des Oberbürgermeisters - ungeändert beschlossen
+- TOP 11.10: Leistungen des Service Centers für die Stadt Remscheid - hier: Öffentlich-rechtliche Vereinbarung - zurückgestellt
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung im Aufsichtsrat der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 12.2: 35. ordentliche Hauptversammlung des Deutschen Städtetages vom 12. bis 14. Mai in Bochum - geändert beschlossen
