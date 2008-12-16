@@ -1,0 +1,97 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2008-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1328547
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1328547
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Kindergarten Hänsel & Gretel, Wunderhornstraße (vertagt aus der Sitzung / TOP 2.1.1.3 vom 21.10.2008)
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Beschwerde gegen die Art der Durchführung von Durchforstungsmaßnahmen im Perlacher / Grünwalder Forst; E-Mail des Vereins zur Erhaltung und Pflege des Perlacher / Grünwalder Forstes e.V. vom 11.11.2008 mit der Bitte um Unterstützung
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung der Arbeit des Hospizkreises Haar Landkreis München-Ost e.V.
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Veranstaltung zum Thema "Rund um die Pflege im 18. Stadtbezirk" am 05.03.2009; Beschlussfassung über die Finanzierung in Höhe von 500,-- ? aus dem Budgetanteil für BA-eigene Maßnahmen (vertagt aus der Sitzung vom 18.11.2008)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Verwendungsnachweis und Abschlussbericht des Antragstellers "Carpe Diem e.V." zur bezuschussten Maßnahme "Einbau eines Wasseranschlusses"
+- TOP 3.2.: Verwendungsnachweis des Antragstellers "Maibaum Menterschwaige e.V." zur bezuschussten Maßnahme "Maibaumaufstellung"
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Artikel im Haidhauser Anzeiger vom 22.10.08 - Südring statt 2. Stammstrecke; Bürgerschreiben vom 24.10.2008 (verwiesen aus der Sitzung vom 18.11.2008)
+- TOP 3.2.: Anfrage wegen Autoschmutz und Lärm auf der Tegernseer Landstraße; Bürgerschreiben vom 23.10.2008 (aus der Sitzung vom 18.11.2008 in den UA Verkehr verwiesen; Zusammenarbeit mit dem ebenfalls zuständigen BA 17)
+- TOP 3.3.: Parkraummanagement in Untergiesing 3.2.1.3.1 Stellungnahme des BA 18 zum Parkraummanagement 3.2.1.3.2 Bürgerschreiben aus der Sitzung vom 18.11.2008
+- TOP 3.1.: Lichtzeichenanlagen-Bauprogramm; Schreiben des Kreisverwaltungsreferates vom 11.11.2008 mit der Bitte um Stellungnahme bis 16.01.2009
+- TOP 3.1.: Verkehrszeichen (Zeichen 209 - vorgeschriebene Fahrtrichtung rechts) an der Kreuzung Aretinstraße / Karolingerallee; Antwortschreiben des Kreisverwaltungsreferates vom 13.11.2008 zur Nachfrage aus der Sitzung vom 21.10.2008
+- TOP 3.2.: Haltverbote in der Säbener Straße (probeweise); Verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 20.10.2008 zur Beschlussfassung aus der Sitzung vom 15.07.2008
+- TOP 3.1.: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV); Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008
+- TOP 3.2.: Planungen für eine Stadt-Umland-Bahn bzw. Regio-Tram wieder voranbringen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008
+- TOP 3.3.: Klarheit über die zweite S-Bahn-Stammstrecke schaffen; Beschluss der Vollversammlung des Stadtrates vom 26.11.2008
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Lärmschutz durch Reduzierung des Eisenbahngüterverkehrs auf dem Südring durch Verlagerung der Zahl der über den Südring verkehrenden Güterzüge; Antrag der Fraktion von Bündnis 90/Die Grünen im BA 18 vom 02.12.2008
+- TOP 3.1.: Unterrichtungen durch die Untere Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Benediktenwandstraße; Abdruck eines Bescheids vom 06.11.2008 3.3.6.1.2 Anwesen in der Schönstraße; Abdruck eine Bsecsheids vom 21.11.2008
+- TOP 3.2.: PERSPEKTIVE MÜNCHEN; Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 03.12.2008
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Neuer Belag für die Skaterfläche am Candidplatz; Antwortschreiben des Baureferats-Gartenbau vom 07.11.2008 zum Antrag des BA 18 vom 16.09.2008
+- TOP 3.2.: Aufstellung von Abfallbehältern (mit Abdeckung) auf dem Jugendspielplatz Candidplatz und Sanierung des Treppenabgangs Ecke Schönstraße / Candidauffahrt zum Parkplatz mit behindertengerechter Rampe; Antwortschreiben des Baureferats-Gartenbau vom 10.11.2008 zum Antrag des BA 18 vom 16.09.2008
+- TOP 3.1.: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung; Erziehungsberatung für gehörlose Eltern; Antrag auf Förderung der Erziehungsberatungsstelle der Israelitischen Kultusgemeinde München und Oberbayern vom 27.02.2008, Antrag auf Förderung der Pädagogisch-psychologischen Informations- und Beratungsstelle in ökumenischer Trägerschaft der Erzdiözese München und Freising sowie der Evangelisch-Lutherischen Landeskirche in Bayern vom 1.05.2008; Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.2008
+- TOP 3.2.: Gesundheitsförderung durch Sport und Bewegung, Flächendeckende Aufstellung von Bewegungsinseln; Schreiben des Schul- und Kultusreferates vom 17.11.2008
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund (Warenstellage), Peter-Auzinger-Straße 9; Zuleitung des KVR vom 21.11.2008
+- TOP 3.1.: Erhaltungssatzung im Stadtbezirk 5 - Au-Haidhausen - ; a) Wohnraum schaffen und vor Umwandlung schützen, b) Erhaltungssatzung für die Obere Au; Anhörung durch das Referat für Stadtplanung und Bauordnung zu einem Beschlussentwurf für die Behandlung zweier Bürgerversammlungsempfehlungen im Stadtrat mit der Bitte um Stellungnahme bis 12.01.2009
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Giesinger Garten"; Gerhardtraße; Mitteilung vom 17.11.08
+- TOP 3.3.: Berichtigung / Änderung der Satzung "Untere Au / Untergiesing" der Landeshauptstadt München zur Erhaltung der Zusammensetzung der Wohnbevölkerung gemäß § 172 Abs.1 Satz 1 Nr.2 BauGB (Erhaltungssatzung "Untere Au / Untergiesing") vom 23.05.2006; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008
+- TOP 3.4.: Instandsetzung der Stützmauer / Hangsicherung am Harlachinger Berg; Beschluss des Bauausschusses vom 18.11.2008
+- TOP 3.5.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008
+- TOP 3.6.: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008
+- TOP 3.7.: PERSPEKTIVE MÜNCHEN; Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Stadtteilfest Harlaching am 01.08.2009 auf dem Mangfallplatz; Zuleitung des Kreisverwaltungsreferats vom 02.12.2008 mit der Bitte um Stellungnahme
+- TOP 3.1.: Stellungnahme der CSU-Fraktion vom 24.11.2008 zum Protokoll der Sitzung des UA Kultur und Veranstaltungen vom 17.11.2008
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse; Schreiben des Direktoriums vom 17.11.2008 mit der Bitte um Stellungnahme zum Antrag des BA 5 vom 16.07.2008
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
