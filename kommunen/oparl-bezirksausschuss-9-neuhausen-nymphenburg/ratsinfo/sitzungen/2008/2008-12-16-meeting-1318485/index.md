@@ -1,0 +1,128 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2008-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1318485
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1318485
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Rolltreppen am U-Bahnhof Rotkreuzplatz / Fahrradfahren am Rotkreuzplatz
+- TOP 3.2.: Bürgeranliegen: Ausreichende Beleuchtung am Rotkreuzplatz
+- TOP 3.3.: Bürgeranliegen: Vorfahrtsregelung Alfons-/Jutastraße
+- TOP 3.4.: Bürgeranliegen: Verkehrssituation in der Margarethe-Danzi-Straße, Einhaltung der Geschwindigkeitsbegrenzung Tempo 30
+- TOP 3.5.: Bürgeranliegen: Leonrodstraße / Kennzeichnung Feuerwehrzufahrt und Wegbeleuchtung
+- TOP 3.6.: Bürgeranliegen: Parkplatzsituation in Neuhausen außerhalb des Mittleren Rings
+- TOP 3.7.: Antrag CSU: Entfernung von 2 Parkplätzen und Umwandlung in Halteverbot in der Romanstraße / Nymphenburger Straße
+- TOP 3.8.: KVR: Haltverbotsbeschilderung und Parkflächenmarkierung in der Winthir-/Jagdstraße
+- TOP 3.9.: KVR: Lichtzeichenanlagen-Bauprogramm für 2009
+- TOP 3.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen
+- TOP 3.11.: Baumaßnahmen der Stadtwerke im November 2008
+- TOP 3.12.: Baumaßnahmen der Stadtwerke, Stromprojekt Hertha-, Wotan-, Margarethe-Danzi-Straße
+- TOP 3.13.: Wohnen ohne Auto: "Autofrei Wohnen - Wir können's nur empfehlen !"
+- TOP 3.14.: ESV München: Hinweisschilder zum ESV (Schreiben BA 9 vom 21.10.08)
+- TOP 3.15.: KVR: Einrichtung von 4 allgemeinen Behindertenparkplätzen für Besucher der Kleingartenanlage NW 16 und des Westfriedhofs in der Baldurstraße
+- TOP 3.16.: =&gt; dazu: Kleingärtnerverein Nord-West 16
+- TOP 3.17.: Referat für Arbeit und Wirtschaft: MVV-Preiserhöhungen (Antrag BA 9 Nr. 378 vom 16.09.08)
+- TOP 3.18.: KVR: Bürgeranliegen Warnschilder "Kindergarten" in der Marlene-Dietrich-Straße (Schreiben BA 9 vom 12.09.08)
+- TOP 3.19.: KVR: Krankenanfahrt in der Franz-Schrank-Straße / Schwerbehindertenparkplätze auf dem Parkplatz Menzinger Straße
+- TOP 3.20.: KVR: Aufhebung des personenbezogenen Behindertenparkplatzes in der Gabrielenstraße vor Anwesen Blutenburgstr. 55
+- TOP 3.21.: KVR: Bürgeranliegen: Gefährliche Buswendemanöver Ecke Helmholtz-/Marlene-Deitrich-Straße (Wiedervorlage aus der Sitzung vom 18.11.08)
+- TOP 3.23.: Baureferat: Fahrbahnzustand und Verkehrssituation in der Merianstraße (Schreiben BA 9 vom 22.10.08)
+- TOP 3.24.: =&gt; dazu: Baureferat: Radwegmarkierung Merianstraße
+- TOP 3.25.: KVR: Verkehrsrechtliche Anordnung: Absolutes Haltverbot in der Kratzerstraße zwischen Tizian- und Malsenstraße
+- TOP 3.26.: Bürgeranliegen: Fußgänger- und Radweg Canalettostraße (Wiedervorlage aus der Sitzung vom 18.11.08)
+- TOP 3.27.: KVR: Bürgeranliegen: Verkehrssituation Fuß-/Radweg Canalettostraße (Schreiben BA 9 vom 12.09.08)
+- TOP 3.28.: KVR: Verkehrsrechtliche Anordnungen für die Parklizenzgebiete "St.-Benno-Viertel" und "Albrechtstraße"
+- TOP 3.29.: KVR: Nicht-Bewirtschaftung Lazarettstraße (Antrag BA 9 Nr. 636 vom 18.11.08)
+- TOP 3.31.: Bürgeranliegen: Höheres Parkaufkommen durch die Reihenfolge der Parklizenzierung
+- TOP 3.32.: Bürgeranliegen: Parkgebührenautomat in der Jutastr. 9
+- TOP 3.33.: Baureferat: Verschiebung geplanter Parkscheinautomaten- Standorte (Schreiben BA 9 vom 21.10.08)
+- TOP 3.34.: Beschluss der Vollversammlung des Stadtrats vom 26.11.08: Klarheit über die 2. S-Bahn-Stammstrecke schaffen
+- TOP 3.35.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr und Motorisierter Individualverkehr
+- TOP 3.36.: Beschluss des Bauausschusses vom 09.12.08: Änderung der Straßenreinigungssatzung ; hier: Rainer-Werner-Fassbinder-Platz und Erika-Mann-Straße
+- TOP 3.37.: Bürgeranliegen: Unzumutbare Fahrbahnenverschmutzung und gesundheitsschädliche (Fein-)Staubentwicklung im Bereich des Arnulfparks
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 03.11. - 09.11., 10.11. - 16.11., 17.11. - 23.11. und 24.11. - 30.11.08
+- TOP 3.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Klimaschutzfahrplan 4: Ökologische Mustersiedlung
+- TOP 3.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Mietwohnanlage Karwendelstraße/Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs
+- TOP 3.5.: Drastische Mieterhöhungen in Ramersdorf: Konterkariert die städtische Wohnungsbaugesellschaft Gewofag die städtischen Bemühungen zur Stärkung des lokalen Gewerbes ? (Anfrage aus der Rathaus Umschau)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Bauvorhaben Richildenstr. 57: Modernisierung und Erweiterung eines Einfamilienhauses
+- TOP 3.8.: =&gt; dazu: Baumfällungen
+- TOP 3.9.: Bauvorhaben Döllingerstraße: Neubau eines kommun angebauten Einfamilienhauses
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Bauvorhaben Volkartstr. 83: Neubau einer Wohnanlage mit 64 Wohnungen und einer Tiefgarage
+- TOP 3.12.: Bauvorhaben Wotanstraße: Neubau eines Mehrfamilienhauses mit Tiefgarage, Tektur
+- TOP 3.14.: Bauvorhaben Döllingerstr. 14: Neubau eines Einfamilienhauses
+- TOP 3.15.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Entwicklungsplanung Olympiapark 2018, Ergebnisse des Grundlagenworkshops
+- TOP 3.16.: Bauvorhaben Gerner Str. 33: Neubau eines Wohn- und Geschäftsgebäudes, Vorbescheid
+- TOP 3.17.: Bauvorhaben Alfonsstr. 8: Umbau und Umnutzung von Lehrsälen der Grund- und Hauptschule, Brandschutzmaßnahmen mit Neubau von Fluchttreppen; hier: Baumfällungen
+- TOP 3.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Perspektive München, Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung, Grundsatzbeschluss
+- TOP 3.19.: Bauvorhaben Romanplatz 7: Nutzungsänderung Buchhandlung zu Cafe mit Einzelhandel
+- TOP 3.20.: Sozialreferat: Bürgeranliegen: Verwahrlosung des Grundstücks Ignaz-Perner-Str. 8 (Schreiben BA 9 vom 17.11.08)
+- TOP 3.21.: =&gt; dazu: Schreiben Direktorium
+- TOP 3.22.: Kommunalreferat: Mitteilung über ein Grundstücksgeschäft für eine Kindertageseinrichtung, Bebauungsplan Nr. 1922 a "Nymphenburg"
+- TOP 3.23.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.25.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Landshuter Allee
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Nymphenburger Str. 121: Fällung von 1 Weide
+- TOP 3.2.: Hubertusstr. 31: Fällung von 1 Säulenthuja
+- TOP 3.3.: Zamboninistr. 5 c: Fällung von 1 Fichte
+- TOP 3.4.: Stuberstr. 11 a: Fällung von 1 Buche
+- TOP 3.5.: Palestrinastr. 6: Fällung von 3 Fichten
+- TOP 3.6.: Bäumlstr. 11: Fällung von 1 Kiefer
+- TOP 3.7.: Bürgeranliegen: Reinigung Gehweg Donnersbergerstr. 40-46
+- TOP 3.8.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 03.12.08: Perspektive München; Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz
+- TOP 3.9.: Bürgeranliegen:Straßenreinigung in Neuhausen
+- TOP 3.10.: Planungsreferat: Fällungsgenehmigung Hanfstaenglstr. 14
+- TOP 3.11.: Planungsreferat: Fällungsgenehmigung Richildenstr. 62
+- TOP 3.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.4: Unterausschuss für Schule und Soziales
+- TOP 3.1.: Einladung zur Sitzung der PSAG West am 04.12.08
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: REGSAM: Fragebogen Erfahrungen mit REGSAM
+- TOP 3.4.: Schulreferat: Gesundheitsförderung durch Sport und Bewegung; Flächendeckende Aufstellung von Bewegungsinseln
+- TOP 3.5.: Beschluss des Sozialausschusses und des Kinder- und Jugendhilfeausschusses in der gemeinsamen Sitzung vom 13.11.08: Vermeidung und Bewältigung von Armut; Schwerpunkte und Maßnahmen des Sozialreferates
+- TOP 3.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.08: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Sozialreferat: 4. Haushaltssicherungsgesetz, hier: Wilhelmine-Lübke-Haus (Schreiben BA 9 vom 21.10.08)
+- TOP 3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.10.: Schulreferat: Förderung der Mittagsbetreuung der "Marsmännchen" an der Grundschule Blutenburgstraße (Antrag BA 9 Nr. 516 vom 21.10.08)
+- TOP 3.11.: GBW Management GmbH: Bessere finanzielle Unterstützung für den Bewohnertreff Arnulfpark (Schreiben BA 9 vom 16.09.08)
+- TOP 3.12.: Beschluss des Schul- und Sportausschusses vom 03.12.08: Aufstellung mobiler Schulraumeinheiten an der Trojanostraße (Überbrückung der Schulversorgung im Schulsprengel der Südlichen Auffahrtsallee)
+- TOP 3.13.: Schulreferat: Neubau der Grundschule am Arnulfpark (Schreiben BA 9 vom 20.10.08)
+- TOP 3.3.5: Unterausschuss für Integration
+- TOP 3.3.6: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Veranstaltungen im November 08
+- TOP 3.2.: Einladung zur Theaterproduktion "Frankenstein - Opera Theatrale" vom 04.12. - 11.12.08
+- TOP 3.3.: JaBau / Gewofag: Einspruch gegen Mieterhöhung (Schreiben BA 9 vom 18.11.08)
+- TOP 3.4.: Kulturreferat: Projekt "Austauschforum zur Stadtteilkultur im Internet" (Wiedervorlage aus der Sitzung vom 18.11.08)
+- TOP 3.5.: Kulturreferat: Protokoll Jour Fixe mit den Bezirksausschüssen vom 08.10.08
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Budget aus dem Eigenmitteln des BA 9 für Jahresempfang 2009
+- TOP 4.2.: Bürgeranliegen: Permanente Ruhestörungen durch das Werkhaus, Leonrodstr. 23
+- TOP 4.3.: KVR: Pächterwechsel a) "Fasaneriehof", Fasaneriestr. 3 c b) "Radha", Elvirastr. 12 c) "Spatzenstüberl", Hirschbergstr. 7 d) "Girandola", Menzinger Str. 44
+- TOP 4.4.: Beschluss des Bauausschusses vom 18.11.08: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 4.5.: Bürgeranliegen: Störender Lärm durch Musik am Rotkreuzplatz
+- TOP 4.6.: KVR: Vorabanhörung zu Marktveranstaltungen auf dem Rotkreuzplatz (Krammarkt, Französischer Markt und Holsteiner Friesenmarkt)
+- TOP 4.7.: Direktorium: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 4.8.: Bürgeranliegen: Ruhe-, Müll- und Parkproblematik am Rainer-Werner-Fassbinder-Platz verursacht durch den Pächter der Freiheizhalle
+- TOP 4.9.: Bürgeranliegen: Genehmigung für den Verkauf von Schnee-Eis im Hirschgarten
+- TOP 5.: Verschiedenes
+- TOP 3.30.: =&gt; dazu: Bürgeranliegen
+- TOP 3.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit
+- TOP 3.14.: Beschluss des Sozialausschusses vom 04.12.08: Bauprogramm der Münchenstift GmbH: Generalsanierung des Münchner Bürgerheims
