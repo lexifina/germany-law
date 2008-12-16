@@ -1,0 +1,91 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2008-12-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1356790
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1356790
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Berg-am-Laim-Straße 125 - Neubau eines Verwaltungsgebäudes mit Tiefgarage
+- TOP 3.1.2.1.: Lichtzeichenanlagenbauprogramm 2008 ? Lichtzeichenanlagen an der St.-Veit-Straße
+- TOP 3.1.2.2.: Lichtzeichenanlagenbauprogramm 2008 ? Beschluss des Kreisverwaltungsausschusses
+- TOP 3.1.2.3.: Lichtzeichenanlagenbauprogramm 2009 ? Vormerk- und Antragsliste
+- TOP 3.1.2.4.: Grünanlage Wildalpjochstraße / Kranzhornstraße - <div></div>
+- TOP 3.1.2.5.: Parksitution in der Jella-Lepmann-Straße - <div></div>
+- TOP 3.1.2.6.: Buslinie 185 ? Bürgerantrag zur Weiterführung bis zum Michaelibad - <div></div>
+- TOP 3.2.1.: Verlagerung des Feldkreuzes an der Ursberger-/ Ecke Hohenburgstraße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6: Baumschutz
+- TOP 3.6.1.: Ampfingstraße ? Antrag auf Baumfällungen
+- TOP 3.6.2.: Hohenbrunner Str. - Antrag auf Baumfällungen
+- TOP 3.6.3.: Truderinger Straße 134 ? Neubau einer Wohnanlage mit Tiefgarage; Baumbestandsplan
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Fortschreibung des Zentrenkonzeptes ? Schwerpunkt Nahversorgung
+- TOP 4.1.1.3.: Einstellung von Sanktionen (?Amnestie?) anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit
+- TOP 4.1.1.4.: Örtliche Bauvorschriften ? Art. 81 Bayerische Bauordnung
+- TOP 4.1.1.5.: Stadtgestaltungskommission ? Sitzungstermine 2009
+- TOP 4.1.1.6.: Levelingstraße ? Umwandlung einer Firmenwohnung in Büroräume
+- TOP 4.1.1.9.: Truderinger Str. ? Antrag auf unveränderte Gaststättenfortführung
+- TOP 4.1.2.1.: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV)
+- TOP 4.1.2.2.: Klarheit über die zweite S-Bahn-Stammstrecke schaffen
+- TOP 4.1.2.3.: U-Bahn-Linie 2-Ost - Bahnhof Innsbrucker Ring bis Bahnhof Messestadt Ost Verstärkung der Fahrstromversorgung 1. Aktualisierung der Maßnahmegenehmigung Maßnahmesumme (SB) 2. Änderung des Mehrjahresinvestitionsprogrammes 2008 - 2012 (VB)
+- TOP 4.1.2.4.: Parkmöglichkeiten in der Waldstraße ? Zwischennachricht
+- TOP 4.1.2.5.: Verkehrsanordnungen am Technischen Rathaus ? Entsprechung der BA-Empfehlung
+- TOP 4.1.2.6.: Gammelsdorfer Straße ? Haltverbote an den Bauminseln vor Hausnummern 2 bis 8
+- TOP 4.1.2.7.: Krumbadstraße ? Aufhebung eines Behindertenparkplatzes
+- TOP 4.1.3.1.: Aktualisierung Leitlinie Ökologie ? Themenschwerpunkt: Klimawandel und Klimaschutz
+- TOP 4.1.3.2.: Klimaschutzfahrplan 4: Ökologische Mustersiedlung Antrag Nr. 02-08 / A 04237 der Stadtratsfraktion Bündnis90/Die Grünen/RL vom 12.02.08
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Gesundheitsförderung durch Sport und Bewegung ? Flächendeckende Aufstellung von Bewegungsinseln
+- TOP 4.3.2.: Sicherung der finanziellen Grundlagen für die Fortführung des Modellversuchs Ganztagsschule an der Grundschule Grafinger Straße sowie an den beiden anderen Standorten in Verhandlung mit dem Freistaat Bayern Empfehlung Nr. 08-14 / E 00014 der Bürgerversammlung des Stadtbezirkes 14
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung
+- TOP 4.4.2.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 4.4.3.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP 4.5.1.: Verwendungsnachweis Zeugnerhof
+- TOP 4.5.2.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 4.6: Bereich Baumschutz
+- TOP 4.6.1.: Kreillerstraße ? Bescheid zum Vollzug der Baumschutzverordnung
+- TOP 4.6.2.: Überseeplatz ? Bescheid zum Vollzug der Baumschutzverordnung
+- TOP 4.6.3.: Blombergstraße ? Antrag auf Baumfällungen - Vorabentscheidung
+- TOP 4.6.4.: Blombergstraße ? Gefahrenbaumbeseitigung
+- TOP 4.6.5.: Ampfingstraße ? Gefahrenbaumbeseitigung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.1.1.8.: Friedenstraße 10 ? Antrag auf unveränderte Gaststättenfortführung
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
