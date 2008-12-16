@@ -1,0 +1,54 @@
+# Stadtrat (30. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2008-12-16T17:03:00+01:00
+- Ende: 2008-12-16T20:33:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZYzGqKerpX3F3cA01N7x_CA
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/4114
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZR1la2weclT7L-JVd4vUqDUIblicoIoHFuQpSynPYzq/Bekanntmachung_Stadtrat_16.12.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZed6gMZzBeNRdgB7n2_AxehQzFBOlpL7WpG5ff9DyKzO/Oeffentliche_Niederschrift_Stadtrat_16.12.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Ausschüssen
+- TOP 1.1: Umbesetzung des Jugendhilfeausschusses hier: Beratende Mitgliedschaften
+- TOP 1.2: Umbesetzung des Wahlausschusses
+- TOP 1.3: Umbesetzung von Ausschüssen hier: Antrag der BBK-Fraktion
+- TOP 1.4: Umbesetzung von Ausschüssen hier: Antrag der SPD-Fraktion
+- TOP 2.: Bestellung eines weiteren allgemeinen Vertreters der Bürgermeisterin zur Wahrnehmung der Aufgabe des stellvertretenden Wahlleiters für die Durchführung der Kommunalwahlen 2009
+- TOP 6.: Grundschulsituation im Stadtteil Sindorf
+- TOP 3.: Dienstreisen nach Oswiecim im Rahmen der Städtepartnerschaft
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: Satzung zur Erhebung von Gebühren für das Notarzteinsatzwesen
+- TOP 4.2: 2. Satzung zur Änderung der Bestattungs- und Friedhofssatzung der Stadt Kerpen
+- TOP 4.3: 18. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 4.4: 3. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 4.5: 12. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 4.6: 8. Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 5.: Kindertageseinrichtungen in der Stadt Kerpen
+- TOP 5.1: Kindertageseinrichtungen - Bedarfsplanung für Kinder unter 3 Jahren
+- TOP 5.2: Neue Kindertagesstätte in Kerpen - Blatzheim
+- TOP 7.: Konkretisierende Ziele und Kennzahlen für den Haushalt 2009
+- TOP 8.: Haushaltssatzung für das Haushaltsjahr 2009 einschließlich des Stellenplanes
+- TOP 9.: Stadtentwicklung und Bauleitplanung
+- TOP 9.1: Bebauungsplan SI 252 "Lammertsheck", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 10.: Sachstand zur ärztlichen Versorgung in Kerpen
+- TOP 11.l: Öffentlich-rechtliche Vereinbarung zwischen den Städten Bedburg und Kerpen über die Zusammenarbeit in den Bereichen Beschaffung von Einsatzfahrzeugen, Geräten und Ausrüstungsgegenständen, Brandschau nach § 6 FSHG und Kostenersatz nach § 41 FSHG
+- TOP 12.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 12.1: Qualifizierung Kindertageseinrichtung Uhlandstr.
+- TOP 12.2: Bereitstellung überplanmäßiger Haushaltsmittel für Bodenuntersuchungen einer Altlastenfläche in Kerpen-Horrem
+- TOP 13.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Baubeginn Kindergarten Rasselbande
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
