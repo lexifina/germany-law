@@ -1,0 +1,54 @@
+# Rat (35. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2008-12-16T18:04:00+01:00
+- Ende: 2008-12-16T20:10:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbpA2Rcl3ZpVz_j4jDREtrk
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5023
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQL3NPpLOjRSrS8-6X36D4TWbMsp7MMd4Udi1g44FAUp/Bekanntmachung_Rat_16.12.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeXF2R7MUSXR0VqQ-7vXDTGMXTog88CmGJFYJAtKGmsF/Oeffentliche_Niederschrift_Rat_16.12.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 25.11.2008
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Umbesetzung von Gremien - Einstimmig
+- TOP 5.: Anpassung der Regelleistungen für Kinder und Jugendliche im SGB II und SGB XII - Einstimmig
+- TOP 6.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 6.1: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Sommerreinigung und des Winterdienstes für das Jahr 2009 - 37 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 6.2: Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Emsdetten auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Abfallentsorgung für das Jahr 2009 - 23 Ja-Stimme(n), 16 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 6.3: Abwasserbeseitigung; Gebührenkalkulation für das Jahr 2009 - Einstimmig
+- TOP 7.: Satzungsrecht
+- TOP 7.1: VI. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 8.: Richtlinien
+- TOP 8.1: Neufassung der Richtlinien für die Kindertagespflege nach dem SGB VIII - Einstimmig
+- TOP 9.: Mitgliedschaft im Städtenetzwerk Innenstadt NRW - Einstimmig
+- TOP 10.: Bebauungspläne
+- TOP 10.1: Bebauungsplan Nr. 31 A "Herzbach / Dreihuesweg" - Beschluss über Anregungen und Bedenken - Satzungsbeschluss - Herbeiführen der Rechtskraft - Einstimmig
+- TOP 10.2: Außenbereichssatzung Ahlintel - Beschluss über die eingegangenen Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft - Einstimmig
+- TOP 11.: Allgemeine Stadtentwicklungsplanung
+- TOP 11.1: Innenstadtkonzept - Ausführungsplanung Straße Am Brink - 31 Ja-Stimme(n), 8 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.2: Sanierungsgebiet Innenstadt Emsdetten - Förmliche Festlegung des Sanierungsgebietes - 37 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.3: Ziel 2 Förderung "Erlebnis.NRW" EMSAUE GANZ NAH - Rahmenplanung - - Einstimmig
+- TOP 12.: Ablösungsverträge nach Baugesetzbuch
+- TOP 12.1: Ablösung von Erschließungsbeiträgen nach §133 BauGB - Einstimmig
+- TOP 13.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 13.1: Abschnittsbildung - Zusammenfassung in Teilbereichen des Grünrings - Einstimmig
+- TOP 14.: Privaterschließungs- und städtebauliche Verträge
+- TOP 14.1: Privaterschließung nach § 124 BauGB im Bereich des Bebauungsplans Nr. 32 B "Schmitzkamp" - Einstimmig
+- TOP 15.: Schulangelegenheiten
+- TOP 15.1: Unterstützung einer Erklärung zum gemeinsamen Lernen in einer Schule für alle Kinder und Jugendliche - Einstimmig
+- TOP 16.: Allgemeine Umweltangelegenheiten
+- TOP 16.1: Umsetzung Rahmenkonzept "Sinninger See" - Einstimmig
+- TOP 17.: Stellenplan
+- TOP 17.1: Stellenplan 2009 - Einstimmig
+- TOP 18.: Etat / Budget
+- TOP 18.1: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2008 - 27 Ja-Stimme(n), 10 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 18.2: Haushaltssatzung und Produkte 2009 - 21 Ja-Stimme(n), 18 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 19.: Verschiedenes
