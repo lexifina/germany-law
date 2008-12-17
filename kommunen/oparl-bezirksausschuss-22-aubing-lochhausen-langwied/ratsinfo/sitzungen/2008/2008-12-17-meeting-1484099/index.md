@@ -1,0 +1,140 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2008-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1484099
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1484099
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Toreinfahrt zum Gelände der Deutschen Bahn in der Hellensteinstraße (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.2.: Erhalt der Sperrung für den Verkehr in der Voglerstraße (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.3.: Kfz-Handel auf dem Grundstück Limesstr. 117 - Nutzung und Lärmbelästigung (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.4.: Parkverbot für Lkw in der Aubinger Straße unter der S-Bahn Westkreuz (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.5.: Versorgungslage im Bereich Westkreuz mit Geschäften (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.6.: Räumung des Grundstücks Bodenseestr. 230 (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.7.: Anträge der Freien Ateliers & Werkstätten Ehrenbürgstr. e.V.
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Radolfzeller Str. 8-46, 1 Birke - Kastelburgstr. 1 d, 1 Birke und 2 Tannen - Fällung von Gefahrenbäume gem. Liste des Baureferates vom 10.10.08 - Fällung von Gefahrenbäume, Papinstraße - Kurt-Floericke-Str. 9, 1 Birke - Ebracher Str. 16, 2 Birken und 2 Tannen
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 4.: Anträge
+- TOP 4.1.: Schulversuch mit allen Schularten (Grund- / Haupt- / Realschule und Gymnasium) als integrierte rhythmisierte Ganztagsschule in Freiham
+- TOP 4.2.: Verwirklichung eines Fuß- und Radweges auf der ehemaligen Gotthardtrasse im Bereich Pasing-Neuaubing-Aubing-Lochhausen-Langwied (vertagt aus 09/08 und 10/08)
+- TOP 4.3.: Unterstützung der vorhandenen Jugendfreizeiteinrichtungen (vertagt aus 10/08)
+- TOP 4.4.: Beibehaltung der Außenstelle der Münchner Volkshochschule im 22. Stadtbezirk, Prüfung von Ausweichmöglichkeiten
+- TOP 4.5.: Bezirksausschuss-Sitzungen im Stadtteil Lochhausen - Langwied und Westkreuz
+- TOP 4.6.: Ankündigung und Berichte über Ortstermine im BA 22
+- TOP 4.7.: Zukunft des Anwesens Altostr. 16
+- TOP 4.8.: Einziehung der östlichen Teilstrecke der Zwicklgasse
+- TOP 4.9.: Erfahrungen über den Vorkurs "Deutsch" im 22. Stadtbezirk
+- TOP 4.10.: Sanierung der Straße "Am Aubinger Wasserturm"
+- TOP 4.11.: Aufstellung einer Wartehalle an der Bushaltestelle Hans-Steinkohl-Straße (Buslinie 175)
+- TOP 4.12.: Bebauung der Comdorfstraße - Auswirkungen auf die Gesamtanlage S-Bahnhof Aubing
+- TOP 4.13.: Änderung des Vorschriftzeichen 254 (Verbot für Radfahrer) durch das Vorschriftszeichen 239 (Sonderweg Fußgänger) mit dem Zusatz "Radfahrer frei" an der Kreuzung Limes-/Bodenseestraße auf Höhe und Seite der Apotheke Richtung stadteinwärts
+- TOP 4.14.: Bebauung Freiham: Entwicklung eines kinder- und jugendgerechten Spielplatzkonzeptes und Einbeziehung der örtlichen Kinder- und Jugendbeauftragten bei den Planungen
+- TOP 4.15.: Schaffung einer Unterführung für Radfahrer/Fußgänger unter der Auffahrtsrampe der A99 an der Lochhausener Straße, zwischen "Autobahn" und "Am Langwieder Bach"
+- TOP 4.16.: "Kinderball im Wienerwald" als Veranstaltung des BA 22
+- TOP 4.17.: Einrichtung eines gefahrlosen Übergangs an der Lochhausener Straße auf Höhe der Bushaltestelle zwischen Pirolstraße und Krähenweg
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 6.1.: EU-Projekt Child Friendly Cities, Antrag zur Beteiligung am geplanten Interreg IVB Nordwesteuropa-Projekt zur Verbesserung der Kinder- und Jugendfreundlichkeit von Städten, Anhörung des Sozialreferates vom 05.12.08
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 6.1.: Betreutes Wohnen in Aubing
+- TOP 6.2.: Erlaubnisbescheid für Christkindlmarkt auf dem Gößweinsteinplatz am 06.12.08, Schreiben des Kreisverwaltungsreferat vom 01.12.08
+- TOP 6.3.: Genehmigung der Wanderveranstaltung Wanderfreunde Neuaubing am 13./14.12.08, Schreiben des Kreisverwaltungsreferats vom 03.12.08
+- TOP 6.4.: Wirtschafts-Info Nr. 10/2008, Schr. des Referats für Arbeit und Wirtschaft vom 28.11.08
+- TOP 6.5.: Gesundheitsförderung durch Sport und Bewegung; Flächenendeckende Aufstellung von Bewegungsinseln, Schreiben des Schulreferats vom 17.11.08
+- TOP 6.6.: Nachqualifizierung und Revision der Denkmalliste München, Schreiben des Bayer. Staatsministeriums für Wissenschaft, Forschung und Kultur vom 06.11.08
+- TOP 6.7.: Verteilerplan stadtteilbezogenes Verzeichnis der städt. Kindergärten, Horte und Kooperationseinrichtungen, Schr. des Schulreferats vom 11/08
+- TOP 6.8.: Stadtteilwoche und Stadtteiltage im 22. Stadtbezirk, Schr. des Kulturreferats vom 03.12.08
+- TOP 6.9.: Veranstaltungen im Dezember 2008, Schr. des Kulturreferats vom 02.12.08
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Ableitung des Baustellenverkehrs bei Baubeginn in Freiham, Schr. des Kreisverwaltungsreferats vom 28.11.08
+- TOP 6.2.: Erstellung eines Konzeptes zur Erschließung Freihams für den öffentlichen Personennahverkehr, Schreiben des Planungsreferats vom 17.11.08
+- TOP 6.3.: Erweiterung Friedhof Aubing und Errichtung südlicher Zugang; Darstellung der künftigen Planungen des Friedhofes Aubing im Rahmen der Siedlungsmaßnahmen Freiham-Nord; Schreiben der Friedhofverwaltung vom 12.11.08
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Planfeststellung nach § 18 Allg. Eisenbahngesetz (AEG); Erneuerung Bahnübergang km 12,6 "Waldweg" der Bahnstrecke München Pasing - Buchloe, Strecke (5520), Anhörung des Planungsreferats vom 13.11.08 (vertagt aus 10/08)
+- TOP 6.2.: Streitbergstr. 14, Neubau von zwei Einfamilien- bzw. Mehrfamilienhäusern mit Garagen - Vorbescheid, Anhörung des Planungsreferats vom 13.11.08 (vertagt aus 10/08)
+- TOP 6.3.: Herrschinger Bahnweg, Neubau eines Bau- und Gartenfachmarktes im Gleisdreieck Pasing (Herrschinger Bahnweg/Paosostr.), Anhörung des Planungsreferats vom 20.11.08
+- TOP 6.4.: Lochhausener Str. 203, Neubau Gerwerbegebäude mit Werkstätten, Büros, Verkaufs- und Laborräume sowie einer Lagerhalle, Anhörung des Planungsreferats vom 20.11.08
+- TOP 6.5.: Roggensteiner Weg 3a, Neubau eines Einfamilienhauses, Anhörung des Planungsreferats vom 13.11.08
+- TOP 6.6.: Bodenseestr. 320, Neubau von 3 Gruppenhäusern mit Garagen/Carport, Anhörung des Planungsreferats vom 13.11.08
+- TOP 6.7.: Verlängerung der U-Bahn-Linie 5 West von Laim nach Pasing, Anhörung des Baureferats vom 24.11.08
+- TOP 6.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Altostr. 20, Anhörung des Kreisverwaltungsreferats vom 20.11.08
+- TOP 6.9.: Lichtzeichenanlagen- Bauprogramm 2009, Anhörung des Kreisverwaltungsreferats vom 11.11.08
+- TOP 6.10.: Anhörung über Baumfällungen zur Erweiterung des Aubinger Friedhofs, Anhörung des Baureferates vom 08.12.08
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 10.11.- 16.11.08, v. 17.11.- 23.1108, v. 24.11.08 - 30.11.08), Schr. Planungsreferat vom 17.11.08, 24.11.08, 01.12.08
+- TOP 6.2.: Behebung der Schäden an der Stützmauer und dem Absperrgitter entlang der Bahnlinie München-Augsburg in Höhe der Henschel-/ Federseestraße; Schreiben des Baureferats vom 20.11.08
+- TOP 6.3.: Verschmutzung S-Bahnhof Westkreuz; Chreiben des Referats für Arbeit und Wirtschaft vom 17.11.08
+- TOP 6.4.: Rampe am S-Bahnhof Aubing; Schreiben des Referats für Arbeit und Wirtschaft vom 17.11.08
+- TOP 6.5.: Erneuerung des Fußweges nördlich hinter der Häuserreihe der Dietrichsteinstraße; Schreiben des Baureferats vom 14.11.08
+- TOP 6.6.: Überprüfung der gewerblichen Nutzung öffentlichen Verkehrsraums Überlinger Weg / Mainaustraße; Schreiben des Planungsreferats vom 14.11.08
+- TOP 6.7.: Prüfung der Verkehrssituation in der Straßenunterführung Bergsonstraße am S-Bahnhaltepunkt Langwied; Schreiben des Baureferats vom 24.11.08
+- TOP 6.8.: Geländer für Freitreppe im Einkaufszentrum Radolfzeller Str., Schreiben des Baureferats vom 27.11.08
+- TOP 6.9.: Überprüfung der Situation für Radfahrer an der Kreuzung Limesstr. / Bodenseestr.; Schreiben des Kreisverwaltungsreferts vom 02.12.08
+- TOP 6.10.: Absperrgitter vor dem städtischen Kindergarten Ubostr. neben dem Zebrastreifen, Schreiben des Baureferats vom 01.12.08
+- TOP 6.11.: Ablagerung von Kies oder ähnlichen Abraum am Imkerweg, Schreiben des Baureferats vom 14.11.08
+- TOP 6.12.: Sanierung der Wege im städtischen Friedhof Aubing, Schreiben der Friedhofverwaltung vom 11.11.08
+- TOP 6.13.: Baumaßnahmen der Stadtwerke, Stichtag: 17.11.08
+- TOP 6.14.: Kohlmeisenstr. 12, Bescheid zur Baumfällung, Schreiben des Planungsreferats vom 24.11.08
+- TOP 6.15.: Einzelhandelsentwicklung an der Heimburgstr. und an der Stockacher Str., Schreiben des Planungsreferates vom 06.11.08
+- TOP 6.16.: P+R-Parkplatz am S-Bahnhof Langwied, Schreiben der P+R-GmbH vom 05.11.08
+- TOP 6.17.: Erschließungsvertrag für die Herstellung der öffentlichen Verkehrsflächen: Scharinenbach- und Wichnantstraße
+- TOP 6.18.: Bodenseestraße - Sanierung der Rechtsabbiegespur zur Brunhamstraße, Schr. des Baureferats vom 10.11.08
+- TOP 6.19.: Beteiligung an der Mobilfunk-Standortsuche im Rahmen der Vereinbarung zum Mobilfunkpakt 2, Suchgebiet Lochhausen West, Schreiben von O2 GmbH
+- TOP 6.20.: Planungsaufgaben, Planungsrecht und Planungsinstrumente - Grundlagen im Überblick vom Planungsreferats
+- TOP 6.21.: Mitteilung über ein Grundstücksgeschäft: - Goteboldstr./Waidachanger (Tausch) - Georg-Maurer-Straße (Verkauf) (UA Freiham)
+- TOP 6.22.: Zweckentfremdung von Wohnraum: - Wertheimer Str. 46 - Schwemmstr. 18
+- TOP 6.23.: Baumaßnahme der SWM: Wasserprojekt Krautgartenweg - Änderung imTerminablauf
+- TOP 6.24.: Planungen zum Erlebnis-/ Waldlehrpfad, Schr. des Planungsreferats vom 03.12.08
+- TOP 7.1.: Zentrale Beschlussvorlagenkontrolle zur Unterstützung der Bezirksausschüsse, Anhörung des Direktoriums vom 17.11.08
+- TOP 8.1.: Besserer Informationsfluss der Stadtverwaltung, Schreiben des Direktoriums vom 01.12.08
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Sozialausschusses am 02.12.08: Haushaltplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung - Neufassung (UA Soziales)
+- TOP 10.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.08: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes- Neufassung (UA Soziales)
+- TOP 10.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.08: Erziehungsberatung für gehörlose Eltern (UA Soziales)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Mietwohnanlage Karwendelstraße/Plinganserstraße (UA Soziales)
+- TOP 10.5.: Beschluss der Vollversammlung vom 26.11.08: Klarheit über die zweite S-Bahn-Stammstrecke schaffen (UA Planung)
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Klimaschutzplan 4: Ökologische Mustersiedlung (UA Planung)
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/21- Bodenseestr. (südlich), Bahnlinie München - Herrsching (südlich), Bahnlinie München - Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing - (UA Planung)
+- TOP 10.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Planung für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen (UA Planung)
+- TOP 10.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Bebauungsplan Nr. 950 - Bergsonstr. (nördlich) südlich Bundesbahnbetriebswagenwerk - Satzungsbeschluss - (UA Planung)
+- TOP 10.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Neue Grün- und Ausgleichsflächen in Pasing (UA Planung)
+- TOP 10.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Sonderflughafen Oberpfaffenhofen (UA Planung)
+- TOP 10.12.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 03.12.08: Perspektive München - Aktualisierung Leitlinie Ökologie (UA Planung)
+- TOP 10.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Perspektive München - Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung (UA Planung)
+- TOP 10.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten (UA Planung)
+- TOP 10.15.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Verkehrsentwicklungsplan - Übersicht wichtiger Vorhaben der Maßnahmenkonzepte, Öffentl. Verkehr (ÖPNV) und Motorisierter Individualverkehr (MiV) - (UA Planung)
+- TOP 10.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit (UA Planung)
+- TOP 10.17.: Beschluss des Bauausschusses vom 18.11.08: Weihnachtsbeleuchtung im städt. Einflussbereich - ergänzter Beschluss - (UA Planung)
+- TOP 10.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.10.08: Schutz der Münchner Vorgärten (vertagt aus 10/08) (UA Planung)
+- TOP 10.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1907 - Bodenseestr. (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München - Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing - (Satzungssbeschluss) (UA Planung)
+- TOP 10.20.: Beschluss des Kreisverwaltungsausschusses vom 16.12.08: Lichtzeichenanlagen-Bauprogramm 2008 (UA Planung)
+- TOP 10.21.: Beschluss des Bauausschusses vom 09.12.08: Siedlungsschwerpunkt Freiham - Verkehrliche Erschließung im 22. Stadtbezirk Aubing - Lochhausen - Langwied (UA Freiham)
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Sitzungstermine des BA für 2009 (Änderung des April-Termins)
+- TOP 11.2.: Ortstermin zum Bau der Kneippanlage am Langwieder Bach am Mittwoch, 14.01.09 um 10:00 Uhr, Schr. Baureferat vom 08.12.08
+- TOP 11.3.: Die Leitlinie Bildung im Gespräch vor Ort, Regionalkonferenz München Süd am Dienstag, 20.01.09 um 17:00 Uhr im Bürgersaal Fürstenried, Schr. Schul- und Kultusreferat vom 10.12.08
+- TOP 11.4.: Einladung zum Theaterstück "Der Komet der Hoffnung" der Grundschule Limesstr. am Donnerstag, 18.12.08 um 18:30 Uhr in der kleinen Turnhalle, Schr. Grundschule Limesstr. vom 12.12.08
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 21.01.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13.: Nichtöffentliche Sitzung
