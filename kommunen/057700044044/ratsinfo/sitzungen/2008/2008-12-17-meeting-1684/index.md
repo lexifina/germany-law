@@ -1,0 +1,51 @@
+# Rat der Gemeinde Stemwede (18. Sitzung)
+
+- Körperschaft: Gemeinde Stemwede
+- Beginn: 2008-12-17T17:00:00+01:00
+- Ende: 2008-12-17T19:45:00+01:00
+- Ort: Gaststätte Meier's Deele (Oppenwehe), Zum Dorferfeld 7, 32351 Stemwede-Oppenwehe, Saal
+- Status: 
+- Gremium: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://stemwede.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSNVh2tRaVG7Qcl4NOhH8yA
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1684
+- Quelle: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Presse (Rat der Gemeinde Stemwede) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXKAhuZb6t4lFJe4hHWK0_SCB0E_2NuFboMFupAfCLGS/Einladung_Presse_Rat_der_Gemeinde_Stemwede_17.12.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Gemeinde Stemwede) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWAuT6XZ-rZTbmsuEL_TYTrVTwxhOf2gJLS2I1FQ6kKC/Oeffentliche_Niederschrift_Rat_der_Gemeinde_Stemwede_17.12.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der Beschlussfähigkeit
+- TOP 2.: Bürgerfragestunde
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Beratung über die Nachwahl in verschiedene Ausschüsse - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Bekanntgabe und Feststellung des Ergebnisses des Bürgerentscheids zur Fragestellung "Soll der Mehrheitsbeschluss des Rates, dass Ortsvorsteher eingeführt werden, Bestand haben?" - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Satzung über die Aufhebung der Zweckbestimmung eines Weges als Wirtschaftsweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Eröffnungsbilanzentwurf ZGM zum 1.1.2007 - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Jahresabschluss und Lagebericht Wirtschaftsplan 2007 des ZGM - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Entwurf Wirtschaftsplan ZGM für 2009 - Ohne Abstimmung
+- TOP 10.: Eröffnungsbilanz Infrastruktur zum 1.1.2007 - Einstimmig, 0 Enthaltung(en)
+- TOP 11.: Jahresabschluss und Lagebericht des Infrastrukturvermögens für 2007 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Entwurf Wirtschaftsplan 2009 des Infrastrukturvermögens - 25 Ja-Stimme(n), 0 Gegenstimme(n), 7 Stimmenthaltung(en)
+- TOP 13.: Feststellung des Ergebnisses der Prüfung des Jahresabschlusses 2007 sowie des Lageberichtes für das Wirtschaftsjahr 2007 des Wasserwerkes der Gemeinde Stemwede - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Kalkulation des Wassergeldes für das Wirtschaftsjahr 2009 - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Entwurf des Wirtschaftsplanes 2009 des Wasserwerkes der Gemeinde Stemwede - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Feststellung des Ergebnisses der Prüfung des Jahresabschlusses 2007 sowie des Lageberichtes für das Wirtschaftsjahr 2007 des Eigenbetriebes "Abwasserbeseitigung der Gemeinde Stemwede" - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Änderung der Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Entwässerungsanlage (Entwässerungssatzung) - Einstimmig, 2 Enthaltung(en)
+- TOP 18.: Änderung der Satzung über die Entsorgung von Grundstücksentwässerungsanlagen - 25 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 19.: Kalkulation der Abwassergebühren für das Wirtschaftsjahr 2009 - Einstimmig, 2 Enthaltung(en)
+- TOP 20.: Entwurf des Wirtschaftsplanes 2009 des Abwasserbetriebes der Gemeinde Stemwede - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Evtl. Raumerfordernis am Schulzentrum im Hinblick auf die dortige Mittagsverpflegung (Umbau / Anbau am Lifehouse) - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Kalkulation der Müllabfuhrgebühren für das Jahr 2009 - 25 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 23.: Entwurf Haushaltssatzung u. Haushaltsplan Gemeinde Stemwede für 2009 - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Genehmigung eines überplanmäßigen Aufwandes / Auszahlung - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 25.a: Zustimmung zur Leistung von außerplanmäßigen Aufwendungen und Auszahlungen gem. § 60 Abs. 1 GO hier: Durchführung eines Bürgerentscheids - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: über/außerplanmäßige Aufwendungen/Auszahlungen - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: über- und außerplanmäßige Aufwendungen / Auszahlungen - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Bekanntgabe der vom Betriebsleiter genehmigten über- und außerplanmäßigen Aufwendungen / Auszahlungen im III. Quartal 2008 in der eigenbetriebsähnlichen Einrichtung Infrastrukturvermögen der Gemeinde Stemwede - Einstimmig, 0 Enthaltung(en)
+- TOP 29.: über- und außerplanmäßige Aufwendungen / Auszahlungen - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: überplanmäßige Aufwendungen/Auszahlungen - Einstimmig, 0 Enthaltung(en)
+- TOP 31.: Bericht der Gleichstellungsbeauftragten - Einstimmig, 0 Enthaltung(en)
+- TOP 32.: Verabschiedung einer Resolution zur Aufnahme der Schienenstrecke Rahden - Bielefeld in das Schienennahverkehrsnetz im besonderen Landesinteresse - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Verschiedenes
