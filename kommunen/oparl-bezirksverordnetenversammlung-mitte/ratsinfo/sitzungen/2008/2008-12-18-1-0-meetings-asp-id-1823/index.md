@@ -1,0 +1,105 @@
+# 21. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2008-12-18T17:30:00+01:00
+- Ende: 2008-12-18T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1823
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1823
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=67928
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 5.1: Marode Straßen im Bezirk Mitte - Instandhaltung nur Flickschusterei? - beantwortet
+- TOP 5.2: Wie geht es weiter mit dem Innovationspark Humboldthain? – Teil 3 - beantwortet
+- TOP 5.3: Kombibad Seestraße bundesligatauglich? - beantwortet
+- TOP 5.4: Dialogdisplays im Brüsseler Kiez? - beantwortet
+- TOP 5.5: Real im Gesundbrunnen-Center? - beantwortet
+- TOP 5.6: Bezirksstadtrat bereits auf Irrwegen? - beantwortet
+- TOP 5.7: Sicherheitskonzepte für Rosenthaler Platz - beantwortet
+- TOP 5.8: Hundekot auf den Gehwegen - schriftlich beantwortet
+- TOP 5.9: Wochenmarkt auf dem Platz vor dem "Roten Rathaus" für 2009 sichern - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Wirtschaftspolitik der Post AG - beantwortet
+- TOP 6.2: Weddinger Kiezmütter - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Verstaubte Umweltzone? - beantwortet
+- TOP 7.2: Chaos-Tage im Sozialamt und JobCenter Mitte - beantwortet
+- TOP 7.3: Mustergesundheitsamt - schriftlich beantwortet
+- TOP 7.4: Verwandtschaftsrat - schriftlich beantwortet
+- TOP 7.5: Weiterführung Trödelmarkt Leopoldplatz - schriftlich beantwortet
+- TOP 7.6: Rückerstraße 3: Wo sind die versprochenen Arbeitsplätze? - schriftlich beantwortet
+- TOP 7.7: Schule und Soziale Stadtentwicklung -Nachfragen zur Kleinen Anfrage 0243/III- - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Übertragung des Carl-Philipp-Emanuel-Bach-Gymnasiums in die Schulträgerschaft der Senatsverwaltung für Bildung, Wissenschaft und Forschung - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Benennung eines stellvertretenden Mitgliedes der BVV für den Verwaltungsrat des Kindergärten City, Eigenbetriebes von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Zusammenlegung der Schiedsamtsbezirke Mitte 9 und Mitte 10 zum Schiedsamtsbezirk Mitte 10 - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Anmeldungen für die Investitionsplanung 2009 - 2013 - überwiesen
+- TOP 9.4: Fachplan Grün- und Freiflächen - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf I-26 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-26 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Teilweise Aufhebung der Erhaltungsverordnung Huttenkiez im Bezirk Tiergarten von Berlin vom 06. Oktober 1993 (GVBl. S. 585) für den Teil der Zusammensetzung der Wohnbevölkerung gem. § 172 Abs. 1, Satz 1, Nr. 2 BauGB - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Entwurf des 2. Ergänzungsplanes des Bezirks Mitte für das Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauungsplanentwurf 1-42B sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-42B - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Beitragspflichtige Erneuerung der Schmidstraße, soweit sie in Ost-West-Richtung verläuft (Flurstücke 217, 211 und 231) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Konzept für kulturelle Bildung im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Ein Jahr warten ist genug! Drucksache 0444/III endlich umsetzen und die Öffnung der Neuen Schönhauser Straße für den Fahrradverkehr in Gegenrichtung vorbereiten und ermöglichen. - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Haltestellenleitsystem der Stadtrundfahrtunternehmen in Berlin Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: MB Fashion Week auf dem August-Bebel-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Buslinie 327 - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Städtebaulicher Rahmenplan für die Luisenstadt - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Vorschläge zur Vereinfachung der Genehmigung von Sportveranstaltungen außerhalb von Sportanlagen im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Arbeitsfördernde Maßnahmen in Qualität und Umfang für 2009 sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Fristgerechte Bezahlung gewerblicher Rechnungen - überwiesen
+- TOP 12.9: Von Ratten und Menschen - in der BVV zurückgezogen
+- TOP 12.10: Mit den Anwohnerinnen und Anwohnern die Lehrter Straße gestalten: Wohnquartier stärken und sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Fußgängersicherheit hat Vorrang! - in der BVV zurückgezogen
+- TOP 12.12: Verbraucherinformationsgesetz bürgerfreundlich umsetzen - überwiesen
+- TOP 12.13: Attraktivität des Zentralen Festplatzes erhöhen – Erdwall abtragen - überwiesen
+- TOP 12.14: Bürgerdeputierte für den Schulausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Knappe Kassen in den Bezirken: Vermarktung von Großflächenwerbung jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen III: Energieverschwendung stoppen - Nutzung privater Energiefresser in Bürodienstgebäuden stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Beteiligung des Ausschusses für Umwelt, Natur, Verkehr und Lokale Agenda und der Unteren Naturschutzbehörde im Vorfeld von Planungen für Grün- und Parkanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Bericht über die Umsetzung des Chancengleichheitsplans - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Kompetenz der Sondernutzungsgenehmigungen für den Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Einsparung von Energie, Abfall und Wasser für Schulen wieder attraktiv machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Ausbildungsoffensive 2007 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.5: Neue Schönhauser Straße für den Fahrradverkehr in beide Richtungen freigeben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Finanzierungskonzept zur Sanierung und Nutzung der Kulturfabrik in der Lehrter Straße 35 in Moabit unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Ergebnis Akteneinsicht Seydlitzstraße 1 - 5 am 11.07.2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Quartiersrats- und Vergabebeiratswahlen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Alkoholverbot auf Spiel- und Bolzplätzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Übertragung von bezirklichen Jugenderholungsstätten in freie Trägerschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Optionsvereinbarung für bewährte Veranstaltungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Patenschaften für Spielplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Zwischenlösung für den Wochenmarkt vor dem Roten Rathaus ermöglichen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Fahrradabstellanlage am Bahnhof Friedrichstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Umweltentlastungsprogramm endlich auch in Mitte nutzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.16: Markthallen-Verkauf in Moabit / Arminius-Halle sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Vielfalt fördern - Zusammenhalt stärken - Fortsetzung des interreligiösen Dialogs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Sicheres Fahrradfahren auf dem Weinbergsweg/Kastanienallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Bebauungsplanverfahren 1-39: Planungsziele des Bezirkes sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Einschulungssprengel gesetzlich ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Verlängerung der Schutzfristen für Kleingartenkolonien Sommerglück und Scherbeneck - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.22: Straßenbenennung nach Ellen Epstein - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Erweiterung des Geltungsbereiches des Bebauungsplanes I-B5d im Bezirk Mitte, Ortsteil Mitte und die Einstellung des Bebauungsplanverfahrens I-29 im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Festlegung der Zielbereiche für bezirkliche Gesundheitsziele - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Zulässigkeit des Bürgerbegehrens "Rathausbrücke" - mit Abschlussbericht zur Kenntnis genommen
