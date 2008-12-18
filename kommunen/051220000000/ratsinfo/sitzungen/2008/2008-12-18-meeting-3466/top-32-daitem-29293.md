@@ -1,0 +1,7 @@
+# TOP 32: Aufhebung der Benutzungsordnung für die Abfallbeseitigungsanlagen Deponie mit Wertstoffhof und Kompostierungsanlage in der zurzeit gültigen Fassung
+
+- Sitzung: Rat (2008-12-18)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/29293
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/6534
