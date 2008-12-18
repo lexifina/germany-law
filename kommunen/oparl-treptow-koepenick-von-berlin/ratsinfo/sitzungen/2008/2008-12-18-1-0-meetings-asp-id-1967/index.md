@@ -1,0 +1,63 @@
+# 25. (öfftl.) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2008-12-18T16:30:00+01:00
+- Ende: 2008-12-18T21:25:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1967
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=1967
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=65647
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Anmeldung zur Investitionsplanung 2009 bis 2013 - überwiesen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - beantwortet
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Neuwahl von Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Haltelinie vor Tiefgaragenausfahrt - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Parkplatz Amtswäldchen - überwiesen
+- TOP 9.3: Beibehaltung Friedhof Hessenwinkel - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Interessenbekundungsverfahren Strandbad Rahnsdorf - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf des vorhabenbezogenen Bebauungsplans 9-28 VE nebst Begründung Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplans 9-28 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bezirkshaushaltsrechnung 2006 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Ausbildungsatlas Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Abgabe von bezirkseigenen Grundstücken - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Zukunft des Treptower Parks – Öffentlichkeit informieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Bebauungsplan XVI-53 ("Ortskern Alt-Müggelheim") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung der 11. Schule (Gymnasium), Pablo-Neruda-Str. 6-7, 12559 Berlin mit dem Namen Emmy-Noether-Schule (Gymnasium) Herstellen des Einvernehmens mit der zuständigen Schulbehörde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung zweier Straßenabschnitte im Bezirk Treptow-Köpenick, Ortsteil Köpenick, am Ernst-Grube-Park gelegen, die sich zusammensetzen aus - Geh- und Radweg zwischen Spindlersfelder Straße (TVO), in Höhe der Wilhelm-Spindler-Brücke beginnend und Ernst-Grube-Park (eingeschränkt dem öffentlichen Verkehr gewidmet) und - Straße am Ernst-Grube-Park (inklusive Wendeanlage) zwischen Geh- und Radweg und Ernst-Grube-Straße (uneingeschränkt gewidmet) in "Am Ernst-Grube-Park". - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Vorhabenbezogener Bebauungsplan 9-28 VE ("Baumarkt Friedrichshagener Straße") hier: Planreife für das Grundstück Friedrichshagener Straße 24-37, im Bezirk Treptow-Köpenick, Ortsteil Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Haushaltsberatungen 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: B-Plan "Spreepark" - in der BVV abgelehnt
+- TOP 14.3: Standort des Grünauer BC 1917 e.V. sichern - überwiesen
+- TOP 14.4: Ausstellung über geraubte Bücher der Berliner Juden in Treptow-Köpenick zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Einrichtung eines Newsletters durch das Bezirksamt Treptow-Köpenick - überwiesen
+- TOP 14.6: Messstellen an Badestellen "Teppich" und "Kamerun" - überwiesen
+- TOP 14.7: Bürgerstiftung für Treptow-Köpenick - überwiesen
+- TOP 14.8: Umlaufsperre an der Zuwegung vom S-Bhf. Wuhlheide zum FEZ - überwiesen
+- TOP 14.9: Verlandung der Bänke stoppen - überwiesen
+- TOP 14.10: Verkehrsführung in der Wendenschloßstraße - mit Änderungen in der BVV beschlossen
+- TOP 14.11: Ortshinweistafeln für Plänterwald - überwiesen
+- TOP 14.12: Gestaltungskonzept Flächen am Bahnhof Schöneweide (Michael-Brückner-Straße) - überwiesen
+- TOP 14.13: Durchgehende Beleuchtung in der Fliegenpilzstraße - überwiesen
+- TOP 14.14: Feinstaubreduzierung bei gleichzeitiger Kostensenkung für die Pflege von Grünanlagen - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Filmwirtschaft in Treptow-Köpenick - beantwortet
+- TOP 15.2: Bürgerhaushalt - beantwortet
