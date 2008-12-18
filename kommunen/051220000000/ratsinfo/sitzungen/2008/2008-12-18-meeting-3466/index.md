@@ -1,0 +1,83 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2008-12-18T15:00:00+01:00
+- Ende: 2008-12-18T16:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRk6Hs0vdy2kxBTqIjYRz7g
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3466
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXrBw3vOBcq-nyoAZX2mrhgccHn4yubR4kS53vQm01WW/Oeffentliche_Niederschrift_Rat_18.12.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Umbesetzung von Ausschüssen
+- TOP 4: Beratung der Haushaltssatzung des Doppelhaushaltes für die Haushaltsjahre 2009 und 2010 einschließlich
+- TOP 5: Jahresrechnung und Entlastung für den Haushalt der Stadt Solingen
+- TOP 6: Vertrag zwischen der Verbraucherzentrale NRW und der Stadt Solingen
+- TOP 7: Vertrag zwischen der Verbraucherzentrale NRW und der Stadt Solingen
+- TOP 8: Umsetzung des neuen Sparkassengesetzes
+- TOP 9: Zustimmung zu einer erheblichen Mehrausgabe gemäß § 83 GO NRW im Teilplan 11.06 "IT-Management"
+- TOP 10: Zustimmung zu Mehrausgaben gemäß § 83 GO NRW
+- TOP 11: Stellenplanvorlage "Konzernbeschaffung"
+- TOP 12: Organisatorische Veränderungen im Stadtdienst 24 - Gebäudemanagement -
+- TOP 13: Befristete Stellenschaffung beim Stadtdienst Steuern -
+- TOP 14: Verlängerung von Z-Vermerken beim Stadtdienst Steuern
+- TOP 15: Stellenstreichung und Verlängerung von Z-Vermerken im Stadtdienst Soziales - Bereich Unterhaltsheranziehung -
+- TOP 16: Strategische Neuausrichtung des Stadtdienstes Jugend (51)
+- TOP 17: Stadtdienst Jugend (51) - Bereich Wirtschaftliche Jugendhilfe (alt 51-55 / neu 51-61) und Elternbeiträge (alt 51-42 / neu 51-62)
+- TOP 18: Anpassung der Hundesteuersatzung der Stadt Solingen und Erhöhung der Steuersätze
+- TOP 19: Neufassung der Friedhofsgebührensatzung für die Friedhöfe der Stadt Solingen
+- TOP 20: Neufassung der Satzung der Stadt Solingen über das städtische Friedhofs- und Bestattungswesen
+- TOP 21: Wirtschaftsplan des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG) für das Jahr 2009
+- TOP 22: Wirtschaftsplan 2009 des Technischen Betriebes Straßen und Grün der Stadt Solingen (TBSG)
+- TOP 23: Gebührenbedarfsberechnungen 2009
+- TOP 24: Neufassung der Satzung über die Abfallentsorgung in der Stadt Solingen (Abfallentsorgungssatzung -AbfS)
+- TOP 25: IV. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen (Straßenreinigungssatzung)
+- TOP 26: III. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluß an die öffentliche Abwasseranlage (Entwässerungssatzung -EntwS -)
+- TOP 27: III. Änderungssatzung zur Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung - EntsorgS -)
+- TOP 28: Ordnung der Stadt Solingen über die Erhebung von privatrechtlichen Entgelten
+- TOP 29: Wirtschaftsplan 2009 der EntsorgungsBetriebe Solingen
+- TOP 30: II. Änderung der Benutzungsordnung für das Müllheizkraftwerk der EntsorgungsBetriebe Solingen
+- TOP 31: Aufhebung der Ordnung der Stadt Solingen über die Erhebung privatrechtlicher Entgelte für die Benutzung
+- TOP 32: Aufhebung der Benutzungsordnung für die Abfallbeseitigungsanlagen Deponie mit Wertstoffhof und Kompostierungsanlage in der zurzeit gültigen Fassung
+- TOP 33: Zusammenlegung der Lebensmittelüberwachungs- und Veterinärämter der drei bergischen Städte Remscheid, Solingen und Wuppertal
+- TOP 34: Wirtschaftsplan 2009 der Altenzentren der Stadt Solingen
+- TOP 35: Eheleute Carl-Ruß-Stiftung
+- TOP 36: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten
+- TOP 37: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Stadtbibliothek Solingen
+- TOP 38: Informationsvorlage zur Vorlage " Ausbau der Betreuungsangebote für Kinder unter 3 Jahren" Drucksachen-Nr. 3968
+- TOP 39: Ausbau der Betreuungsangebote für Kinder unter 3 Jahren
+- TOP 40: Erhebung von privatrechtlichen Entgelten für die Benutzung städtischer Sportstätten
+- TOP 41: Erhebung von privatrechtlichen Entgelten für die Benutzung städtischer Sportstätten
+- TOP 42: Neufassung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung der städtischen Bäder
+- TOP 43: Kooperation der Bergischen Symphoniker mit der Stadt Wuppertal
+- TOP 44: Bauleitplanung Bauermannskulle
+- TOP 45: Bauleitplanung Burger Landstraße/Wieden-Süd
+- TOP 46: Bauleitplanung Bonner Straße, Erikaweg
+- TOP 47: Bauleitplanung Ulmenstraße
+- TOP 48: Bauleitplanung An den Eichen
+- TOP 49: Planänderungsverfahren CO-Pipeline
+- TOP 50: Einführung einer energieeffizienteren und wirtschaftlicheren Straßenbeleuchtung in Solingen
+- TOP 51: Verschiedenes
+- TOP 52: Auswirkung des "Rettungspakts für die Banken" auf die Kommunen
+- TOP 53: Anfrage der SPD-Fraktion zum Thema "Kindeswohl"
+- TOP 54: Schuldnerberatung
+- TOP 55: Bürgerbegehren "Solingen gehört uns"
+- TOP 56: Stellenplan 2009
+- TOP 57: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2008
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: RBSV GmbH - Stimmbindungsvertrag
+- TOP 4: Altenzentren der Stadt Solingen
+- TOP 5: Vergabe des Agenda-Preises der Stadt Solingen 2008
+- TOP 6: Verschiedenes
+- TOP 7: Beteiligungsgesellschaft Stadt Solingen mbH (BSG) - Fondsentwicklung
+- TOP 8: Bauleitplanung Burger Landstraße/Wieden-Süd
+- TOP 9: Bauleitplanung Bauermannskulle
