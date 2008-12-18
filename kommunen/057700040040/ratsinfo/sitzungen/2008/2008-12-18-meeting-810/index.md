@@ -1,0 +1,59 @@
+# Rat (29. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2008-12-18T16:00:00+01:00
+- Ende: 2008-12-18T18:00:00+01:00
+- Ort: Dorfgemeinschaftshaus Sielhorst, Springeldamm 1, 32369 Rahden, Dorfgemeinschaftsraum
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQug5v8Y8I2iixl0p33pP-E
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/810
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYIAXbaBlRaAYgDlXDf1Gf9P4x8wdxXUlsruQZCe5Kl2/Bekanntmachung_Rat_18.12.2008.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdmjRyDk3Uf4P0IX8TTbkCTwVO8YopjWS055l-bxZgQH/Oeffentliche_Niederschrift_Rat_18.12.2008.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 2.1: Leitung des Museumshofes
+- TOP 3.: 4. Änderung des Bebauungsplanes Nr. 4 "Alter Markt/Nördliches Ahlfeld - Neuaufstellung -" der Stadt Rahden; hier: a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlich- keit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorge- brachten Anregungen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - 27 Stimmen dafür, 1 dagegen, 1 Enthaltungen
+- TOP 4.: Beratung über die 7. Änderung der Satzung der Stadt Rahden über die Entsorgung von Grundstücksentwässerungsanlagen vom 20.05.1992 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Einführung der getrennten Kanalbenutzungsgebühr zum 01.01.2008 und Erlass der 2. Satzung vom ______ zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Rahden vom 30.06.2005 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Kanalsanierungen im Bereich des Gewerbegebietes Ost, Erlass einer Satzung über die vorgezogene Dichtheitsprüfung gem. § 61a LWG - Einstimmig, 0 Enthaltungen
+- TOP 7.: Pflichtprüfung des Wasserwerkes der Stadt Rahden für das Wirtschaftsjahr 2007; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2007; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk" für das Wirtschaftsjahr 2009 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung" für das Wirtschaftsjahr 2009 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2009 - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bestellung eines Ortsheimatpflegers für die Ortschaft Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2008 - Ohne Abstimmung
+- TOP 14.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen in den Haushaltsjahren 2007 und 2008 - Ohne Abstimmung
+- TOP 15.: Antrag der CDU-Fraktion auf Schaffung der Stelle einer/eines Familienbeauftragten bei der Stadt Rahden - Einstimmig, 1 Enthaltungen
+- TOP 16.: Antrag der SPD-Fraktion im Rat der Stadt Rahden auf Änderung der Geschäftsordnung des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bekanntgaben
+- TOP 17.1: Kauf des Windhorst Gebäudes durch die Fa. Harting
+- TOP 17.2: Krankenhaus Rahden
+- TOP 17.3: Pressekonferenz bzgl. Kreisumlage
+- TOP 17.4: Ratsinformationssystem
+- TOP 17.5: Schöffen für das Landgericht
+- TOP 17.6: Förderpreis der IGS
+- TOP 17.7: Planung des Radwegeteilstückes entlang der L 765 (Lemförder Straße) von der Firma Glas-Metall bis zum Friedhof in der Ortschaft Sielhorst
+- TOP 17.8: Resolution zur Aufnahme der Schienenstrecke Rahden - Bielefeld in das Schienennahverkehrsnetz im besonderen Landesinteresse
+- TOP 17.9: Angliederung des Schwimmbades Rahden an den EB Wasserwerk
+- TOP 17.10: Termine für den Haushalt 2009
+- TOP 18.: Verschiedenes
+- TOP 18.1: Ausbau des DSL-Netzes
+- TOP 18.2: Vandalismus im Schulzentrum
+- TOP 18.3: Bau der Mensa im Schulzentrum
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 19.: Wertberichtigung von Forderungen aus dem Bereich der Sozialhilfe - Einstimmig, 0 Enthaltungen
+- TOP 20.: Grundstücksangelegenheiten
+- TOP 20.1: Grundstücksangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 20.2: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden-Ost - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bekanntgaben
+- TOP 21.1: Pachtvertrag mit dem Tuspo Rahden über die Nutzung des Vereinsheimes als Jugendcafe
+- TOP 22.: Verschiedenes
+- TOP 22.1: Weitergabe von Informationen aus dem nichtöffentlichen Teil von Sitzungen
+- TOP 22.2: Beschwerdebrief aus Tonnenheide
