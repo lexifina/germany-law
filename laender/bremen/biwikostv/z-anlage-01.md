@@ -78,3 +78,9 @@ Kostenverzeichnis der Bildungs- und Wissenschaftsverwaltung:
  | Bemerkungen zu 205.05 bis 205.07: Der personelle Aufwand für die Abnahme von Prüfungen an Privatschulen ist sehr hoch, da hierfür zusätzlich ein Prüfungsausschuss eingerichtet werden muss. Der tatsächliche Aufwand ist jeweils zu ermitteln. |  | 
 205.08 | Bearbeitung eines Antrages auf Erteilung der staatlichen Anerkennung einer privaten Hochschule (§ 112 Abs. 1 BremHG) sowie der damit im Zusammenhang stehenden Folgegenehmigungen | 575,00 Euro bis 5.750,00 Euro | 
 205.09 | Bearbeitung eines Antrages einer ausländischen Hochschule auf Genehmigung einer Niederlassung (§ 112 Abs. 2 BremHG) sowie der damit in Zusammenhang stehenden Folgegenehmigungen | 575,00 Euro bis 5.750,00 Euro | 
+206 | Mittagessen an Ganztagsgrundschulen der Stadtgemeinde Bremen |  | 
+ | Gebühren für Mittagessen in den Ganztagsgrundschulen werden für die teilnehmenden Schülerinnen und Schüler von den Erziehungsberechtigten monatlich wie folgt erhoben: |  | 
+206.01 | Für Bezieher existenzsichernder Leistungen gem. SGB II, SGB XII oder Asylbewerberleistungsgesetz(nach Nachweis des Leistungsbezugs) | gebührenfrei | 
+206.02 | Für alle übrigen | 27,00 Euro | 
+206.03 | Für Geschwister auf derselben Grundschule je Kind | 23,25 Euro | 
+ | Bei der Berechnung der Gebühr wird ein ganzes Jahr zugrunde gelegt. Die Jahresgebühr ist monatlich anteilig in zwölf gleichen Beiträgen ab August bis Juli des jeweiligen Schuljahres zu entrichten. |  | 
