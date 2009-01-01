@@ -51,6 +51,7 @@
 § 36 Familien- und Sexualerziehung
 § 37 Umwelterziehung
 § 38 Schulgeld- und Lernmittelfreiheit
+§ 38a Unterstützungsangebote bei auswärtiger Unterbringung
 § 39 Erziehungs- und Ordnungsmaßnahmen
 5. Teil Lehrer, Schulleiter
 § 40 Personalhoheit, Lehrer
