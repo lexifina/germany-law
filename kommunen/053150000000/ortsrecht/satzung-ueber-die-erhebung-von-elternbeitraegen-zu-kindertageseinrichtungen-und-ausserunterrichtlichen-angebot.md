@@ -1,18 +1,18 @@
 # Satzung über die Erhebung von Elternbeiträgen zu Kindertageseinrichtungen und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2008-08-01 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung-ueber-die-erhebung-von-elternbeitraegen-zu-kindertageseinrichtungen2008-02-27.pdf
+- Datum: 2009-01-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/satzung-elternbeitraege-kindertageseinrichtungen-2008-12-03.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung über die Erhebung von Elternbeiträgen zu Kindertageseinrichtungen und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen vom 27. Februar 2008
+Satzung über die Erhebung von Elternbeiträgen zu Kindertageseinrichtungen und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen vom 3. Dezember 2008
 Präambel
-Der Rat der Stadt Köln hat in seiner Sitzung am 29.01.2008 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV. NRW. 2023; GV. NRW. S. 666) des § 90 Abs. 1 Sozialgesetzbuch VIII. in der Fassung der Bekanntmachung vom 08.12.1998 (BGBI. S. 3546), und der §§ 5 Abs. 2 und 23 Abs. 1 Gesetz zur frühen Bildung und Förderung von Kindern – Kinderbildungsgesetz – (KiBiz) vom 30. Oktober 2007 (GV. NRW. S. 462) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – die folgende Satzung beschlossen:
+Der Rat der Stadt Köln hat in seiner Sitzung am 13.11.2008 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV. NRW. 2023; GV. NRW. S. 666) des § 90 Abs. 1 Sozialgesetzbuch VIII. in der Fassung der Bekanntmachung vom 08.12.1998 (BGBI. S. 3546), und der §§ 5 Abs. 2 und 23 Abs. 1 Gesetz zur frühen Bildung und Förderung von Kindern – Kinderbildungsgesetz – (KiBiz) vom 30. Oktober 2007 (GV. NRW. S. 462) – jeweils in der bei Erlass dieser Satzung geltenden Fassung – die folgende Satzung beschlossen:
 Artikel 1
-Für die Elternbeiträge nach § 23 Gesetz zur frühen Bildung und Förderung von Kindern – Kinderbildungsgesetz – (KiBiz) und für die außerunterrichtlichen Angebote der Offenen Ganztagsschulen (OGTS) nach § 5 KiBiz gelten ab 01.08.2008 folgende Regelungen:
+Für die Elternbeiträge nach § 23 Gesetz zur frühen Bildung und Förderung von Kindern – Kinderbildungsgesetz – (KiBiz) und für die außerunterrichtlichen Angebote der Offenen Ganztagsschulen (OGTS) nach § 5 KiBiz gelten ab 01.01.2009 folgende Regelungen:
 §1 Beitragspflicht
 (1) Die Eltern haben monatliche öffentlich-rechtliche Beiträge zu den Jahresbetriebskosten (Elternbeiträge) der in §§ 5 und 23 KiBiz benannten Einrichtungen zu entrichten. Lebt das Kind nur mit einem Elternteil zusammen, so tritt dieser an die Stelle der Eltern.
 (2) Wird bei Vollzeitpflege nach § 33 SGB VIII. den Pflegeeltern ein Kinderfreibetrag nach § 32 Einkommensteuergesetz (EStG) gewährt oder Kindergeld gezahlt, treten die Personen, die diese Leistung erhalten, an die Stelle der Eltern. Diese Personen sind von Elternbeiträgen befreit und in der niedrigsten (beitragsfreien) Einkommensstufe.
@@ -38,11 +38,11 @@ Seite 2 von 5
 (5) Inhaber des Köln-Passes, Empfänger von Leistungen nach §§ 19, 28 SGB II. (Arbeitslosengeld II, Sozialgeld) und Leistungen nach dem Asylbewerberleistungsgesetz werden für die Dauer des Bezugs dieser Leistung ohne Prüfung der tatsächlichen Höhe in die erste Einkommensstufe eingruppiert. Dies gilt auch für Kinder, die Leistungen der wirtschaftlichen Erziehungshilfe nach §§ 27 Abs. 2 SGB VIII. beziehen.
 (6) Für das dritte und jedes weitere Kind sind die nach § 32 Abs. 6 Einkommensteuergesetz zu gewährenden Freibeträge von dem nach diesem Paragraphen ermittelten Einkommen abzuziehen.
 §5 Maßgeblicher Einkommenszeitraum
-(1) Maßgebend ist das Einkommen in dem dem Schuljahr bzw. Kindergartenjahr vorangegangenen Kalenderjahr.
-(2) Abweichend von Absatz 1 ist das tatsächliche Jahreseinkommen zugrunde zu legen, wenn es voraussichtlich auf Dauer höher oder niedriger ist als das Einkommen des vorangegangenen Kalenderjahres. Der Elternbeitrag ist im Fall einer solchen Änderung für dieses Kalenderjahr zu festzusetzen. Dabei erfolgt zunächst eine vorläufige Festsetzung, für die das Einkommen des Jahres geschätzt wird. Nach Vorlage der gesamten Einkommensnachweise für das Jahr wird der Beitrag dann endgültig festgesetzt.
+(1) Maßgebend ist das Einkommen in dem Schuljahr bzw. Kindergartenjahr vorangegangenen Kalenderjahr.
+(2) Abweichend von Absatz 1 ist das tatsächliche Jahreseinkommen zugrunde zu legen, wenn es voraussichtlich auf Dauer höher oder niedriger ist als das Einkommen des vorangegangenen Kalenderjahres. Der Elternbeitrag ist im Fall einer solchen Änderung für dieses Kalenderjahr neu festzusetzen. Dabei erfolgt zunächst eine vorläufige Festsetzung, für die das Einkommen des Jahres geschätzt wird. Nach Vorlage der gesamten Einkommensnachweise für das Jahr wird der Beitrag dann endgültig festgesetzt.
 (3) Änderungen der Einkommensverhältnisse, die zur Zugrundelegung einer anderen Einkommensgruppe führen können, sind von den Zahlungspflichtigen unverzüglich anzugeben. Werden sie verspätet angegeben, entscheidet die Verwaltung nach pflichtgemäßem Ermessen über eine rückwirkende Beitragsreduzierung; Beitragserhöhungen werden in der Regel rückwirkend vorgenommen.
 §6 Einkommensnachweis
-Die Zahlungspflichtigen nach § 1 sind verpflichtet, bei der Aufnahme und nach auf Verlangen ihr maßgebliches Einkommen nachzuweisen. Dazu reichen sie eine Einkommenserklärung mit allen Belegen ein. Vordrucke für die Einkommenserklärung werden vom Amt für Kinder, Jugend und Familie zur Verfügung gestellt. Ohne den geforderten Nachweis bzw. bei nicht glaubhaftem Einkommen ist der höchste Elternbeitrag zu zahlen. Zahlungspflichtige, die sich selber freiwillig in die höchste Einkommensstufe zuordnen, müssen keine Belege vorlegen.
+Die Zahlungspflichtigen nach § 1 sind verpflichtet, bei der Aufnahme und danach auf Verlangen ihr maßgebliches Einkommen nachzuweisen. Dazu reichen sie eine Einkommenserklärung mit allen Belegen ein. Vordrucke für die Einkommenserklärung werden vom Amt für Kinder, Jugend und Familie zur Verfügung gestellt. Ohne den geforderten Nachweis bzw. bei nicht glaubhaftem Einkommen ist der höchste Elternbeitrag zu zahlen. Zahlungspflichtige, die sich selber freiwillig in die höchste Einkommensstufe zuordnen, müssen keine Belege vorlegen.
 Seite 3 von 5
 
 §7 Fälligkeit
@@ -51,7 +51,8 @@ Die Elternbeiträge sind monatlich zum 15. zu zahlen.
 
 §8 Geschwisterermäßigung
 
-Besuchen mehr als ein Kind von Zahlungspflichtigen nach § 1 gleichzeitig eine der genannten Einrichtungen, so sind nur für ein Kind Beiträge zu erheben. Als Erstkind gilt das Kind, für das sich nach dem Einkommen und der Betreuungsart der höchste Beitrag ergibt.
+(1) Besuchen mehr als ein Kind von Zahlungspflichtigen nach § 1 gleichzeitig eine der genannten Einrichtungen, so sind nur für ein Kind Beiträge zu erheben. Als Erstkind gilt das Kind, für das sich nach dem Einkommen und der Betreuungsart der höchste Beitrag ergibt.
+(2) Für die Zeit, für die ein Kind mehr als 24 Monate im Kindergarten angemeldet ist, muss nur die Hälfte des nach den übrigen Bestimmungen dieser Satzung berechneten Elternbeitrags gezahlt werden. Der Beitrag wird ggf. auf volle Cent abgerundet. Zeiten in Spielgruppen oder ähnlichen privat organisierten Betreuungsformen werden nicht berücksichtigt. Für Betreuungszeiten in Einrichtungen, die nicht in Köln liegen, genügt die schriftliche Glaubhaftmachung durch die Zahlungspflichtigen.
 
 §9 Beitragstabelle
 
@@ -135,13 +136,13 @@ Seite 4 von 5
 (2) Für Kinder in Einrichtungen anderer Träger und in OGTS ist das Essensgeld direkt an den Träger zu zahlen.
 
 Artikel 2 - Inkrafttreten
-Diese Satzung tritt am Tag nach ihrer Bekanntmachung im Amtsblatt der Stadt Köln in Kraft. Gleichzeitig tritt die Satzung über die Erhebung von Elternbeiträgen zu Tageseinrichtungen für Kinder und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen vom 04.08.2006 (Amtsblatt der Stadt Köln Nr. 37 vom 16.08.2006) außer Kraft.
+Diese Satzung tritt am Tag nach ihrer Bekanntmachung im Amtsblatt der Stadt Köln in Kraft. Gleichzeitig tritt die Satzung über die Erhebung von Elternbeiträgen zu Tageseinrichtungen für Kinder und außerunterrichtlichen Angeboten der Offenen Ganztagsschulen vom 27.02.2008 (Amtsblatt der Stadt Köln Nr. 11 vom 12. März 2008) außer Kraft.
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
-Köln, den 27.02.2008
+Köln, den 03.12.2008
 
-Der Oberbürgermeister In Vertretung gez. Kahlen Stadtdirektor
+Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2008, S. 145 -
+- ABl StK 2008, S. 775 -
 
 Seite 5 von 5
