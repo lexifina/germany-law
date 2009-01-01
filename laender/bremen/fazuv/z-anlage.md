@@ -18,7 +18,7 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  |  | 1.3 | Durchführung und Bearbeitung
  |  |  | 1.3.1 | von Umsatzsteuerprüfungen in länder- und grenzüberschreitenden Betrugsfällen (Umsatzsteuersonderprüfgruppe)
  |  |  | 1.3.2 | der Prüfungsersuchen der zentralen Koordinierungsstelle beim Bundesamt für Finanzen an die Umsatzsteuersonderprüfgruppe
- |  |  | 1.4 | Festsetzung und Erhebung der Kraftfahrzeugsteuer
+ |  |  | 1.4 | Verwaltung der Kraftfahrzeugsteuer
  |  |  | 1.5 | Verwaltung der
  |  |  | 1.5.1 | Kapitalverkehrsteuern
  |  |  | 1.5.2 | Wechselsteuer
@@ -41,11 +41,10 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  |  | 1.14.4 | Hundesteuer
  |  |  | 1.14.5 | Vergnügungsteuer
  |  | Bremen-Ost, Bremen-West | 1.15 | Vollstreckung
-2 | Bremen-Ost | Alle Finanzämter im Lande Bremen | 2.1 | Straf- und Bußgeldverfahren bei
+2 | Bremen-Ost | Alle Finanzämter im Lande Bremen | 2.1 | Straf- und Bußgeldverfahren sowie Wahrnehmung der Aufgaben der Steuerfahndung bei
  |  |  | 2.1.1 | Steuerstraftaten und Steuerordnungswidrigkeiten
  |  |  | 2.1.2 | Straftaten und Ordnungswidrigkeiten, auf die nach den in der Eingangsformel der Verordnung zitierten ermächtigenden Vorschriften die Bestimmungen des achten Teils der Abgabenordnung Anwendung finden
- |  | Bremen- Mitte, Bremen- West, Bremen-Nord | 2.2 | Wahrnehmung der Aufgaben der Steuerfahndung
- |  |  | 2.3 | Besteuerung der natürlichen Personen mit Einkünften aus Land- und Forstwirtschaft sowie gesonderte und einheitliche Feststellung der Einkünfte aus Land- und Forstwirtschaft
+ |  | Bremen- Mitte, Bremen- West, Bremen-Nord | 2.2 | Besteuerung der natürlichen Personen mit Einkünften aus Land- und Forstwirtschaft sowie gesonderte und einheitliche Feststellung der Einkünfte aus Land- und Forstwirtschaft
 3 | Großbetriebsprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Betriebsprüfungen bei
  |  |  | 3.1.1 | Steuerpflichtigen, die einen gewerblichen Großbetrieb unterhalten, der auf Grund des Umsatzmerkmals als Großbetrieb einzuordnen ist
  |  |  | 3.1.2 | Unternehmen aller Größenklassen der Konzerne, zu denen mindestens ein gewerblicher Großbetrieb gehört, der auf Grund des Umsatzmerkmals als Großbetrieb einzuordnen ist
