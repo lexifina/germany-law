@@ -1,4 +1,3 @@
-## Landesjugendhilfegesetz (LJHG)
 # Inhaltsübersicht
 Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 1 Örtliche Träger der öffentlichen Jugendhilfe, Jugendamt
@@ -15,8 +14,8 @@ Erster Abschnitt Träger der öffentlichen Jugendhilfe
 § 12 Mitglieder des Landesjugendhilfeausschusses
 § 13 Amtsperiode des Landesjugendhilfeausschusses, Dauer der Mitgliedschaft
 § 14 Widerspruchs- und Beanstandungsrecht
-Zweiter Abschnitt Oberste Landesjugendbehörde, Unterrichtung des Landtags
-§ 15 Oberste Landesjugendbehörde
+Zweiter Abschnitt Oberste Landesjugendbehörden, Unterrichtung des Landtags
+§ 15 Oberste Landesjugendbehörden
 § 16 Unterrichtung des Landtages
 Dritter Abschnitt Träger der freien Jugendhilfe
 § 17 Leistungen freier Träger
