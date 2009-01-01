@@ -1,3 +1,4 @@
+## Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Sächsisches Finanzausgleichsgesetz – SächsFAG)
 # Inhaltsübersicht
 Erster Abschnitt Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
@@ -33,25 +34,26 @@ Zweiter Unterabschnitt Kulturlastenausgleich
 § 21 Kulturlastenausgleich
 Siebenter Abschnitt Bedarfszuweisungen
 § 22 Zuweisungen zum Ausgleich besonderen Bedarfs
-Achter Abschnitt Zweckzuweisungen zur Förderung von kommunalen Investitionen
-§ 23 Pauschale Zweckzuweisungen zur Förderung des Straßenbaus und des Schulhausbaus
+Achter Abschnitt Kommunales Vorsorgevermögen
+§ 23 Kommunales Vorsorgevermögen
+Neunter Abschnitt Zweckzuweisungen zur Förderung von kommunalen Investitionen
 § 24 Zweckzuweisungen zur Förderung kommunaler Investitionen
-Neunter Abschnitt Interkommunaler Finanzausgleich
+Zehnter Abschnitt Interkommunaler Finanzausgleich
 § 25 Grundsätze
+§ 25a Finanzausgleichsumlage
 § 26 Kreisumlage
 § 27 Kulturumlage
 § 28 Sozialumlage
-Zehnter Abschnitt Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
+Elfter Abschnitt Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
 § 29 Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
-§ 29a Kommunaler Finanzierungsanteil Digitalfunk
+§ 29a Digitalfunk
 § 29b Sanktionszahlungen
-Elfter Abschnitt Gemeinsame Vorschriften, Verfahren und Inkrafttreten
+Zwölfter Abschnitt Gemeinsame Vorschriften, Verfahren und Inkrafttreten
 § 30 Einwohnerzahl
 § 31 Berechnung, Festsetzung und Auszahlung
 § 32 Durchführungsvorschriften
 § 33 Mitwirkungspflichten
 § 34 Beirat
 § 35 Verjährung
-§ 35a Übergangsregelungen
 § 36 Inkrafttreten
-Anlage
+Anlage 1 (zu § 7 Abs. 3) Anlage 2 (zu § 22 Abs. 2 Nr. 7) Anlage 3 (zu § 22 Abs. 2 Nr. 8)
