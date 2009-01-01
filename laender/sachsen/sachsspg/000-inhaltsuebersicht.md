@@ -1,4 +1,4 @@
-# Inhaltsübersicht 1
+# Inhaltsübersicht
 Teil 1 Sparkassen im Freistaat Sachsen
 Abschnitt 1 Allgemeine Vorschriften
 § 1 Rechtsnatur, Trägerschaft
@@ -91,3 +91,4 @@ Abschnitt 5 Sonstige Vorschriften
 § 66 Rechtsaufsicht
 Teil 4 Haftung für bestehende Verbindlichkeiten ab dem 19. Juli 2005
 § 67 Haftung für bestehende Verbindlichkeiten ab dem 19. Juli 2005
+§ 68 Haftungsbeschränkung
