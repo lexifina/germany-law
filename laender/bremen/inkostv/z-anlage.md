@@ -26,35 +26,47 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 112.00 | Änderung oder Feststellung eines Familiennamens | 144 bis 1 150
 112.01 | Änderung des Vornamens | 40 bis 305
 114 | Glücksspiele und Sammlungen | 
-114.00 | Genehmigung öffentlicher Lotterien oder Ausspielungen, sofern nicht 114.01 Anwendung findet | 1,7 v.T. des zugelassenen Spielkapitals abzüglich der Lotteriesteuer, sofern diese erhoben wird, aufgerundet auf volle 5
+114.00 | Genehmigung öffentlicher Lotterien oder Ausspielungen, sofern nicht 114.01. Anwendung findet | 1,7 v.T. des zugelassenen Spielkapitals abzüglich der Lotteriesteuer, sofern diese erhoben wird, aufgerundet auf volle 5
 114.01 | Genehmigung öffentlicher Ausspielungen in geschlossenen Räumen (Tombolen) | 35
 114.02 | Änderung und Aufhebung einer Genehmigung nach 114.00 oder 114.01 | 10 bis 208
 114.03 | Genehmigung von Teilnahmebedingungen für öffentliche Lotterien oder Ausspielungen | 21 bis 416
 114.04 | Genehmigung von Änderungen oder Ergänzungen der Teilnahmebedingungen für öffentliche Lotterien oder Ausspielungen | 10 bis 208
-114.05 | Zulassung als Buchmacher | pro Kalenderjahr 267
-114.06 | Erlaubnis zur Beschäftigung eines Buchmachergehilfen | pro Kalenderjahr 138
-114.07 | Zulassung einer Nebenstelle | 138
-114.08 | Änderung der Zulassung als Buchmacher | 30
-114.09 | Aufhebung einer Zulassung oder Erlaubnis nach 114.05 bis 114.08 | 21 bis 416
-114.10 | Zulassung eines Totalisators für Pferderennen | für jeden Renntag 31
-114.11 | Zulassung einer Annahmestelle für Pferdewetten | 79
-114.12 | Zulassung eines Totalisators für Fußballwetten oder von Sportwetten mit festen Gewinnquoten | 1 319
-114.13 | Zulassung eines Totalisators für Zahlenwetten | 1 789
-114.14 | Zulassung eines Totalisators für Pferdewetten (Rennquintett) | 1 319
-114.15 | Änderung einer Zulassung nach 114.10 bis 114.14 | 10 bis 208
-114.16 | Genehmigung von Teilnahmebedingungen für Fußballwetten, Zahlenwetten und Pferdewetten (Rennquintett) sowie für Sportwetten mit festen Gewinnquoten | 416
-114.17 | Genehmigung von Änderungen oder Ergänzungen der Teilnahmebedingungen für Fußballwetten, Zahlenwetten und Pferdewetten (Rennquintett) sowie für Sportwetten mit festen Gewinnquoten | 84 bis 167
-114.18 | Aufhebung einer Zulassung nach 114.10 bis 114.14 | 21 bis 416
-114.19 | Zulassung einer Spielbank | 12 650
-114.20 | Änderung der Zulassung nach Nr. 114.19 und sonstige Genehmigungen auf Grund der Zulassung | 133 bis 2 658
-114.21 | Aufhebung einer Zulassung nach Nr. 114.19 | 1 249
+114.05 | Ablehnung eines Antrags auf Erlaubnis einer Lotterie oder Ausspielung | 10 bis 208
+114.06 | Zulassung als Buchmacher | pro Kalenderjahr 267
+114.07 | Erlaubnis zur Beschäftigung eines Buchmachergehilfen | Pro Kalenderjahr 138
+114.08 | Zulassung einer Nebenstelle | 138
+114.09 | Änderung der Zulassung als Buchmacher | 30
+114.10 | Aufhebung einer Zulassung oder Erlaubnis nach 114.06 bis 114.09 | 21 bis 416
+114.11 | Versagung der Zulassung als Buchmacher | 267
+114.12 | Versagung der Erlaubnis zur Beschäftigung eines Buchmachergehilfen | 138
+114.13 | Zulassung eines Totalisators für Pferderennen | Für jeden Renntag 31
+114.14 | Zulassung einer Annahmestelle für Pferdewetten | 79
+114.15 | Zulassung eines Totalisators für Fußballwetten oder von Sportwetten mit festen Gewinnquoten | Pro Kalenderjahr 1319
+114.16 | Zulassung eines Totalisators für Zahlenwetten | Pro Kalenderjahr 1789
+114.17 | Zulassung eines Totalisators für Pferdewetten (Rennquintett) | 1319
+114.18 | Änderung einer Zulassung nach 114.13 bis 114.17 | 208
+114.19 | Genehmigung von Teilnahmebedingungen für Fußballwetten, Zahlen- wetten und Pferdewetten (Rennquintett) sowie für Sportwetten mit festen Gewinnquoten | 416
+114.20 | Genehmigung von Änderungen oder Ergänzung der Teilnahmebedingungen für Fußballwetten, Zahlenwetten und Pferdewetten (Rennquintett) sowie für Sportwetten mit festen Gewinnquoten | 84 bis 167
+114.21 | Aufhebung einer Zulassung nach 114.13 bis 114.17 | 60 bis 416
+114.22 | Zulassung einer Annahmestelle zur Vermittlung von Glücksspielen aufgrund eines privatrechtlichen Vertrages mit dem Veranstalter von Glücksspielen in Bremen | 100 bis 2500
+114.23 | Genehmigung der Klassenlotterie | Pro Kalenderjahr 1319
+114.24 | Zulassung als Lotterieeinnehmer | 267
+114.25 | Versagung der Zulassung als Lotterieeinnehmer | 267
+114.26 | Zulassung als gewerblicher Spielevermittler | Pro Kalenderjahr 1319
+114.27 | Versagung der Zulassung als gewerblicher Spielevermittler | 1319
+114.28 | Ablehnung, Änderung und Aufhebung einer Genehmigung nach 114.22 bis 114.24 und 114.26 | 100 bis 1319
+114.29 | Ablehnung des Antrags der Tätigkeit als Sportwettvermittler | 1 319
+114.30 | Untersagung von unerlaubter Veranstaltung und Durchführung, Vermittlung und Werbung für Glücksspiel | 60 bis 1319
+114.31 | Zulassung einer Spielbank | 12 650
+114.32 | Änderung der Zulassung nach 114.31 und sonstige aufgrund Genehmigungen der Zulassung | 133 bis 2658
+114.33 | Aufhebung einer Zulassung nach 114.31 | 1249
 115 | Sammlungen | 
 115.00 | Amtshandlungen für öffentliche Sammlungen auf Grund sammlungsrechtlicher Vorschriften | gebührenfrei
 118 | Schornsteinfegerwesen | 
 118.00 | Eintragung in die Bewerberliste nach § 4 Abs. 1 des Schornsteinfegergesetzes, in das besondere Verzeichnis gemäß § 12 Abs. 2 der Verordnung über das Schornsteinfegerwesen und die Wiedereintragung gemäß § 4 Abs. 2 Nr. 1 Buchst. a und Abs. 2 Nr. 2 und 3 der Verordnung über das Schornsteinfegerwesen | 63,25
 118.01 | Wiedereintragung in die Bewerberliste nach § 4 Abs. 1 und Abs. 2 Nr. 1 Buchst. b der Verordnung über das Schornsteinfegerwesen | gebührenfrei
-118.02 | Bestellung als Bezirksschornsteinfegermeister nach § 5 Schornsteinfegergesetzes | 632,50
-118.03 | Bestellung als Bezirksschornsteinfegermeister nach § 5 des des Schornsteinfegergesetzes im Falle der Bewerbung um einen anderen Kehrbezirk gemäß § 12 der Verordnung über das Schornsteinfegerwesen | 155,25
+118.02 | Bestellung als Bezirksschornsteinfegermeister nach § 5 des Schornsteinfegergesetzes | 632,50
+118.03 | Bestellung als Bezirksschornsteinfegermeister nach § 5 des Schornsteinfegergesetzes im Falle der Bewerbung um einen anderen Kehrbezirk gemäß § 12 der Verordnung über das Schornsteinfegerwesen | 155,25
 118.04 | Bestellung als Bezirksschornsteinfegermeister auf Probe nach § 7 Abs. 1 Satz 1 des Schornsteinfegergesetzes | 126,50
 118.05 | Zulassung von Ausnahmen vom Verbot des Nebenerwerbs nach § 14 Abs. 3 Schornsteinfegergesetz | 46 bis 115
 118.06 | Bestellung zum Stellvertreter nach § 20, § 21 Abs. 2 oder § 28 Satz 3 des Schornsteinfegergesetzes | 57,50
@@ -65,13 +77,13 @@ Nr. | Kostentatbestand | Kostensatz in EUR
  | Anmerkung: | 
  | Die Bestellung ist gebührenfrei, wenn Antragsteller Behörde oder öffentlich-rechtliche Körperschaft ist oder Bestellung von Amts wegen erfolgt. | 
 120.1 | Gestellung von Beamten und Fahrzeugen einschließlich von Wasserfahrzeugen: | 
- | 1. | zur Begleitung von Fahrzeugen, soweit die Begleitung auf Grund verkehrsrechtlicher Vorschriften bestimmt worden ist,
- | 2. | zur Begleitung oder Sicherung von Transporten, wenn durch die Ladung die öffentliche Sicherheit gefährdet werden könnte und dieser Einsatz durch oder auf Grund von Rechtsvorschriften bestimmt worden ist,
- | 3. | zur Begleitung und Sicherung von Transporten mit wertvollen Ladungen, soweit dieses auf Antrag des Berechtigten geschieht und der Polizeivollzugsdienst nicht von Amts wegen tätig werden muss,
- | 4. | zur Überwachung von Tätigkeiten, durch die die öffentliche Sicherheit gefährdet werden könnte, für die die polizeiliche Überwachung durch oder auf Grund von Rechtsvorschriften bestimmt worden ist und es sich nicht um solche Tätigkeiten des Veranlassers handelt, die zur Abwehr einer anderweitigen Gefahr notwendig sind,
- | 5. | zur Begleitung oder Beförderung von Personen, wenn diese sich durch eigenes Verschulden in eine schutzbedürftige Lage versetzt haben und die Begleitung oder Beförderung überwiegend in ihrem Interesse liegt,
- | 6. | zur Überwachung von Veranstaltungen, soweit die Überwachung durch eine schriftliche Verfügung bestimmt worden ist oder der Berechtigte sie beantragt hat,
- | 7. | für die Begehung zur Abnahme bei der Polizei aufgeschalteter, neu installierter Überfall- und Einbruchmeldeanlagen; Gebührenschuldner ist das Unternehmen, das die Anlage errichtet hat;
+ | 1. zur Begleitung von Fahrzeugen, soweit die Begleitung auf Grund verkehrsrechtlicher Vorschriften bestimmt worden ist, | 
+ | 2. zur Begleitung oder Sicherung von Transporten, wenn durch die Ladung die öffentliche Sicherheit gefährdet werden könnte und dieser Einsatz durch oder auf Grund von Rechtsvorschriften bestimmt worden ist, | 
+ | 3. zur Begleitung und Sicherung von Transporten mit wertvollen Ladungen, soweit dieses auf Antrag des Berechtigten geschieht und der Polizeivollzugsdienst nicht von Amts wegen tätig werden muss, | 
+ | 4. zur Überwachung von Tätigkeiten, durch die die öffentliche Sicherheit gefährdet werden könnte, für die die polizeiliche Überwachung durch oder auf Grund von Rechtsvorschriften bestimmt worden ist und es sich nicht um solche Tätigkeiten des Veranlassers handelt, die zur Abwehr einer anderweitigen Gefahr notwendig sind, | 
+ | 5. zur Begleitung oder Beförderung von Personen, wenn diese sich durch eigenes Verschulden in eine schutzbedürftige Lage versetzt haben und die Begleitung oder Beförderung überwiegend in ihrem Interesse liegt, | 
+ | 6. zur Überwachung von Veranstaltungen, soweit die Überwachung durch eine schriftliche Verfügung bestimmt worden ist oder der Berechtigte sie beantragt hat, | 
+ | 7. für die Begehung zur Abnahme bei der Polizei aufgeschalteter, neu installierter Überfall- und Einbruchmeldeanlagen; Gebührenschuldner ist das Unternehmen, das die Anlage errichtet hat; | 
 120.10 | für jeden Beamten | Stundensatz nach der Allgemeinen Kostenverordnung Auslagen werden gesondert erhoben
 120.11 | für den Einsatz eines Kraftrades | für jeden angefangenen Km 0,65
 120.12 | für den Einsatz eines Personenkraftwagens | für jeden angefangenen Km 1
@@ -160,9 +172,9 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 123.01 | bei einem Schätzwert über 15 EUR | 10 v. H. des Schätzwertes mindestens 4
 123.02 | soweit der Schätzwert 500 EUR übersteigt, für den Mehrwert | 2 v. H. des Schätzwertes
  | Anmerkungen zu 123.00 bis 123.02: | 
- | a) | Gebührenschuldner sind die Empfangsberechtigten im Sinne des § 965 BGB (und die Finder, sofern sie gemäß § 973 BGB das Eigentum an der Sache erwerben).
- | b) | Bei Tieren werden Gebühren nach 123.00 bis 123.02 nur solange berechnet, als diese nicht an eine Verwahrstelle (Tierheim) abgeliefert sind.
- | c) | Neben der Gebühr zu 123.00 bis 123.02 sind die tatsächlich entstandenen Aufwendungen für das Abschleppen, Transportieren und Unterstellen von Fahrzeugen und anderen sperrigen Fundsachen zu erstatten.
+ | a) Gebührenschuldner sind die Empfangsberechtigten im Sinne des § 965 BGB (und die Finder, sofern sie gemäß § 973 BGB das Eigentum an der Sache erwerben). | 
+ | b) Bei Tieren werden Gebühren nach 123.00 bis 123.02 nur solange berechnet, als diese nicht an eine Verwahrstelle (Tierheim) abgeliefert sind. | 
+ | c) Neben der Gebühr zu 123.00 bis 123.02 sind die tatsächlich entstandenen Aufwendungen für das Abschleppen, Transportieren und Unterstellen von Fahrzeugen und anderen sperrigen Fundsachen zu erstatten. | 
 123.03 | Bescheinigung in Fundangelegenheiten | 5
 123.1 | Wohnwagen und Wohnwagenplätze | 
 123.10 | Genehmigung zur Aufstellung von Wohnwagen gem. § 2 Wohnwagengesetz bis zu einer Woche je Wagen | 9
@@ -172,6 +184,65 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 123.20 | Ausweise für die Presse zum Passieren von Absperrungen | gebührenfrei
 123.21 | Erlaubnis nach § 4 Abs. 4 Jugendschutzgesetz oder § 5 Abs. 3 Jugendschutzgesetz | 10 bis 92
 123.22 | Anordnungen, Maßnahmen nach §§ 7, 8 Jugendschutzgesetz | 40 bis 173
+13 | Personenstandswesen | 
+13.1 | Eheschließung | 
+13.1.1 | Prüfung der Ehevoraussetzungen (§ 13 PStG), | 
+13.1.1.1 | wenn nur deutsches Recht zu beachten ist | 40
+13.1.1.2 | wenn auch ausländisches Recht zu beachten ist | 80
+13.1.2 | Erneute Prüfung der Ehevoraussetzungen (§ 29 Abs. 2 PStV), | 
+13.1.2.1 | wenn nur deutsches Recht zu beachten ist | 20
+13.1.2.2 | wenn auch ausländisches Recht zu beachten ist | 40
+13.1.3 | Vornahme der Eheschließung (§ 14 PStG) | 
+13.1.3.1 | vor einem anderen als dem für die Anmeldung der Eheschließung zuständigen Standesamt (§ 12 PStG) | 25
+13.1.3.2 | außerhalb der üblichen Öffnungszeiten des Standesamtes, ausgenommen bei Vorliegen einer lebensgefährlichen Erkrankung (§ 13 Abs. 3 PStG) | 80
+13.1.3.3 | im Übrigen | gebührenfrei
+13.2 | Ehefähigkeitszeugnis | 
+13.2.1 | Ausstellung eines Ehefähigkeitszeugnisses (§ 39 PStG), | 
+13.2.1.1 | wenn nur deutsches Recht zu beachten ist | 40
+13.2.1.2 | wenn auch ausländisches Recht zu beachten ist | 80
+13.2.1.3 | wenn die Gebührenbefreiung im Rahmen zwischenstaatlicher Vereinbarungen vorgesehen ist | gebührenfrei
+13.2.2 | Beschaffung eines Ehefähigkeitszeugnisses für eine Ausländerin oder einen Ausländer | 40
+13.3 | Begründung einer Lebenspartnerschaft | 
+13.3.1 | Prüfung der Voraussetzungen für die Begründung einer Lebenspartnerschaft (§ 17 in Verbindung mit § 13 PStG), | 
+13.3.1.1 | wenn nur deutsches Recht zu beachten ist | 40
+13.3.1.2 | wenn auch ausländisches Recht zu beachten ist | 80
+13.3.2 | Erneute Prüfung der Voraussetzungen für die Begründung einer Lebenspartnerschaft (§ 30 in Verbindung mit § 29 Abs. 2 PStV), | 
+13.3.2.1 | wenn nur deutsches Recht zu beachten ist | 20
+13.3.2.2 | wenn auch ausländisches Recht zu beachten ist | 40
+13.3.3 | Mitwirkung an der Begründung einer Lebenspartnerschaft | 
+13.3.3.1 | vor einem anderen als dem für die Anmeldung der Begründung einer Lebenspartnerschaft zuständigen Standesamt (§ 17 in Verbindung mit § 12 PStG) | 25
+13.3.3.2 | außerhalb der üblichen Öffnungszeiten des Standesamtes, ausgenommen bei Vorliegen einer lebensgefährlichen Erkrankung (§ 17 in Verbindung mit § 13 Abs. 3 PStG) | 80
+13.3.3.3 | im Übrigen | gebührenfrei
+13.4 | Beurkundungsgrundlagen, Beurkundungen, Beglaubigungen und Bescheinigungen | 
+13.4.1 | Abnahme einer Versicherung an Eides statt (§ 9 Abs. 2 Satz 2 PStG) | 25
+13.4.2 | Beurkundung | 
+13.4.2.1 | einer im Ausland geschlossenen Ehe (§ 34 Abs. 1 PStG) | 65
+13.4.2.2 | einer vor einer ermächtigten Person im Inland geschlossenen Ehe zwischen Ausländern (§ 34 Abs. 2 PStG) | 65
+13.4.2.3 | einer im Ausland begründeten Lebenspartnerschaft (§ 35 Abs. 1 PStG) | 65
+13.4.2.4 | einer Geburt im Ausland (§ 36 Abs. 1 PStG) | 50
+13.4.2.5 | eines Sterbefalls im Ausland (§ 36 Abs. 1 PStG) | 30
+13.4.3 | Beglaubigung oder Beurkundung einer Erklärung | 
+13.4.3.1 | zur Namensführung von Ehegatten (§ 41 Abs. 1 PStG)oder Lebenspartnern oder Lebenspartnerinnen (§ 42 Abs. 1 PStG) | 25
+13.4.3.1.1 | zur Namensführung, wenn der in der Ehe oder Lebenspartnerschaft zu führende Name bei der Eheschließung oder Begründung der Lebenspartnerschaft bestimmt wird | gebührenfrei
+13.4.3.2 | zur Namensangleichung nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch (§ 43 Abs. 1 PStG) | 30
+13.4.3.3 | zur Namensangleichung nach § 94 des Bundesvertriebenengesetzes (§ 43 Abs. 1 PStG) | gebührenfrei
+13.4.3.4 | zur Anerkennung der Vaterschaft oder Mutterschaft (§ 44 Abs. 1 und 2 PStG) | gebührenfrei
+13.4.3.5 | zur Namensführung des Kindes (§ 45 Abs. 1 PStG) | 25
+13.4.3.5.1 | zur Namensführung, wenn der Geburtsname des Kindes bestimmt wird und das Kind dadurch erstmals einen Geburtsnamen erhält | gebührenfrei
+13.4.4 | Bescheinigungen über Erklärungen zur Namensführung (§ 46 PStV) | 10
+13.5 | Personenstandsurkunden | 
+13.5.1 | Ausstellung von Personenstandsurkunden (§ 55 PStG, §§ 49 bis 52 PStV) | 
+13.5.1.1 | Ausstellung einer Ehe-, Lebenspartnerschafts-, Geburts- oder Sterbeurkunde oder eines beglaubigten Registerausdrucks (§ 55 Abs. 1 PStG) | 10
+13.5.1.2 | Ausstellung einer Personenstandsurkunde durch ein anderes als das für die Ausstellung zuständige Standesamt durch Ausdruck und Beglaubigung der vom registerführenden Standesamt übermittelten Daten (§ 56 Abs. 4 Satz 2 PStG) | 10
+13.5.1.3 | Übermittlung der Urkundsdaten durch das registerführende Standesamt an das Ausstellungsstandesamt (§ 56 Abs. 4 Satz 1 PStG) | 8
+13.5.1.4 | für ein zweites und jedes weitere Stück einer Personenstandsurkunde, wenn es gleichzeitig beantragt und in einem Arbeitsgang hergestellt wird | 5
+13.5.2 | Erteilung von Personenstandsurkunden an Behörden und Gerichte (§ 65 PStG) | gebührenfrei
+13.5.3 | Eintragung in ein internationales Stammbuch der Familie (§ 52 PStV) | 10
+13.5.4 | Auskunft aus einem oder Einsicht in einen Registereintrag oder Auskunft aus den und Einsicht in die Sammelakten (§ 62 Abs. 2 PStG) | nach Zeitaufwand gemäß Allgemeinen Kostenverordnung
+13.5.5 | Auskunft aus einem oder Einsicht in einen Registereintrag für Behörden und Gerichte (§ 65 PStG) | gebührenfrei
+13.5.6 | Auskunft aus einem oder Einsicht in Personenstandsregister oder Sammelakten oder Gewährung der Durchsicht von Personenstandsregistern oder Sammelakten für wissenschaftliche Zwecke (§ 66 PStG) | gebührenfrei
+ | Anmerkungen zu Nummer 13 bis 13.5.6: | 
+ | Auslagen sind gesondert nach Maßgabe von § 11 des Bremischen Gebühren- und Beitragsgesetzes in der tatsächlich entstandenen Höhe zu erheben. Zu den erstattungspflichtigen Auslagen gehören auch die Aufwendungen für einen zugezogenen Dolmetscher oder Übersetzer oder die auf Wunsch der Eheschließenden oder zukünftigen Lebenspartnerinnen oder Lebenspartner veranlassten Kosten für die Bereitstellung von Räumlichkeiten außerhalb der Diensträume des Standesamtes. | 
 140 | Feldordnungsrecht | 
 140.00 | Bestätigung als Feldhüter gemäß § 8 Abs. 1 Satz 2 des Feldordnungsgesetzes | 63,25
  | Wenn Antragsteller Behörde oder öffentlich-rechtliche Körperschaft ist | gebührenfrei
