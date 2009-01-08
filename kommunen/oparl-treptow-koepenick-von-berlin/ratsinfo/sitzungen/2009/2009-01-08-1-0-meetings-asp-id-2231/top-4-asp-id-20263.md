@@ -1,0 +1,7 @@
+# TOP 4: Der Tourismusstandort Treptow-Köpenick und das Tourismusmarketing in den Jahren 2010 und 2011
+
+- Sitzung: 25. (öfftl.) Sitzung des Ausschusses für Kultur, Wirtschaftsförderung und Tourismus (2009-01-08)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=20263
+- Ergebnis: erledigt
