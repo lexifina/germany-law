@@ -1,1 +1,1 @@
-# Bremisches Hilfeleistungsgesetz (BremHilfeG) vom 18. Juni 2002
+# Bremisches Hilfeleistungsgesetz (BremHilfeG) in der Fassung der Bekanntmachung vom 19. März 2009

@@ -15,7 +15,7 @@ Kapitel 1 Allgemeine Vorschriften
 Kapitel 2 Berufsfeuerwehren
 § 10 | Angehörige der Berufsfeuerwehren
 § 11 | Leitung
-§ 12 | Aufgaben im vorbeugenden Brandschutz
+§ 12 | Aufgaben im vorbeugenden Gefahrenschutz
 Kapitel 3 Freiwillige Feuerwehren
 § 13 | Verwaltung, Leitung und Mitgliedschaft
 § 14 | Bereitschaftsführer und Bereichsführer
@@ -76,9 +76,9 @@ Teil 7 Entschädigung für Vermögensschäden
 § 55 | Entschädigungsregelung
 Teil 8 Kosten der Hilfeleistung
 § 56 | Kostenträger
-§ 57 | Gebühren bei Brand- und Hilfeleistungseinsätzen der Feuerwehr
+§ 57 | Gebühren bei Brand- und Hilfeleistungseinsätzen der Feuerwehr und im Katastrophenschutz
 § 58 | Gebühren und Entgelte des Rettungsdienstes
-§ 59 | Kosten des Katastrophenschutzes
+§ 59 | Kostenersatz
 Teil 9 Ordnungswidrigkeiten
 § 60 | Bußgeldvorschrift
 Teil 10 Datenschutzregelungen
@@ -92,6 +92,6 @@ Teil 11 Schlussvorschriften
 § 67 | Zuständigkeiten anderer Behörden
 § 68 | Erlass von Verwaltungsvorschriften
 § 69 | Übergangsregelungen
-§ 70 | Änderung des Krankenhausdatenschutzgesetzes
+§ 70 | Änderung anderer Vorschriften
 § 71 | Aufteilung der Feuerschutzsteuer
-§ 72 | Inkrafttreten des Gesetzes, Außerkrafttreten bisheriger Regelungen
+§ 72 | Inkrafttreten, Außerkrafttreten
