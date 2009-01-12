@@ -1,0 +1,80 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1585673
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1585673
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Taktung der Buslinie 167
+- TOP 1.2.: Immobiliengesuch für Gewerbe in der Hausgeräte Logistik
+- TOP 1.3.: Müllentsorgung in der Rudelsburgstr.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Wertstoffcontainerstandort: Am Stiftsbogen / Walter-Hopf-Weg
+- TOP 6.2.: Wertstoffcontainerstandort: Großhaderner Str. / Ettenhoferstr.
+- TOP 6.3.: Wertstoffcontainerstandort: Guardinistr. gegenüber Haus-Nr. 53
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Kruckenburgstr. 42, 2 Fichten
+- TOP 7.2.: Platanenstr. 40, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 12.11.08
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Unterlagen zu den Fortbildungsveranstaltungen des Referates für Stadtplanung und Bauordnung (Direktorium, 11.12.08)
+- TOP 8.2.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen (Schul- und Kultusreferat, 27.11.08)
+- TOP 8.3.: Gesundheitsförderung durch Sport und Bewegung, Flächendeckende Aufstellung von Bewegungsinseln (Schul- und Kultusreferat, 17.11.08)
+- TOP 8.4.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Guardinistr. 83 (Schul- und Kultusreferat, 29.08.08)
+- TOP 8.5.: Information über die Sanierung und Modernisierung des U-Bahnhofs "Münchner Freiheit" (MVG, 08.12.08)
+- TOP 8.6.: Verkehrsrechtliche Anordnung, hier: Bushaltestelle Flemischweg in der Wastl-Witt-Str.: Ausdehnung des Haltestellenbereichs (Kreisverwaltungsreferat, 15.12.08)
+- TOP 8.7.: Bezirkssportanlage Ludwig-Hunger-Str. 11, Trainingsbedingungen des TSV Großhadern, Protokoll des Schul- und Kultusreferates (Schul- und Kultusreferat, 11.12.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Nutzung des Grundstückes Terofalstraße 25 (Sozialreferat, 03.12.08)
+- TOP 9.2.: WC-Anlage in der U-Bahn-Station Großhadern (Kommunalreferat, 20.11.08)
+- TOP 9.3.: Verstärkte Verkehrsüberwachung in der Pfingstrosenstr. (Kreisverwaltungsreferat, 10.12.08)
+- TOP 9.4.: Überprüfung der Ampelschaltungen in den Durchgangsstraßen in Hadern, Zwischennachricht (Kreisverwaltungsreferat, 05.12.08)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Fahrradständer vor der Stadtbibliothek Hadern, Guardinistr. 90 (Bayerische Versorgungskammer, 28.11.08)
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Protokoll des BA-Vorsitzenden-Treffens am 08.10.08 (Direktorium, 26.11.08)
+- TOP 11.2.: Seniorenbeiratswahl 2009 (Sozialreferat, 10.12.08)
+- TOP 11.3.: Die Leitlinie Bildung im Gespräch vor Ort, Regionalkonferenz München Süd am Dienstag, 20.01.09 um 17:00 Uhr im Bürgersaal Fürstenried (Schul- und Kultusreferat, 10.12.08)
+- TOP 11.4.: Erfahrungsaustausch mit den Bezirksausschussvorsitzenden am 28.11.2008 (OB Ude, 08.12.08)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 26.11.2008: Abbau des Investitionsstatus auf städtischen und Vereinssportanlagen Sportinfrastruktur stärken II Änderung des Mehrjahresinvestitionsprogramms (MIP) 2008 - 2012
+- TOP 12.1.: Beschluss vom 17.12.2008: Haushaltsplan 2009 - Ansätze der zentralen Bereiche - Schlussabgleich
+- TOP 12.2.: Beschluss vom 17.12.2008: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München, insbesondere im Stadtbezirk 20 (Straßengruppe II und III)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 18.11.2008: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008: Mietwohnanlage Karwendelstr. / Plinganserstr.; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.2008 Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit (abgelehnt)
+- TOP 12.2.: Beschluss des Kreisverwaltungsausschusses vom 16.12.2008, insbesondere Fußgängerschutzanlagen an der Würmtal- / Platanenstr. (11 Punkte, Seite 4) und an der Sauerbruchstr. / Bushaltestelle Zöllerstr. (4.3 Punkte) sowie Vollanlage an der Waldwiesenstr. / Am Ährenfeld (9 Punkte, Seite 10) Lichtzeichenanlagen-Bauprogramm 2008
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: Sonderflughafen Oberpfaffenhofen
+- TOP 12.2.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 03.12.2008: PERSPEKTIVE MÜNCHEN Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2008: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum Familienzentrum Hadern / Blumenau (Seite 10 und 11), - Treff 21, Schule-Beruf e.V. (Anlage 1, Abschnitt 3.1.1, Nr. 66), - Kinderhaus Wolkerweg (a.a.O., Nr. 56), - PfiffTEEN Treffpunkt für Jugendliche (a.a.O., Nr. 57), - zur Nachbarschaft Neuhadern Bewohnertreff (Anlage 1, Abschnitt 3.2.2, Nr. 2)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung, Grundsatzbeschluss
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008 und Hinweis / Ergänzung vom 01.12.2008: Klimaschutzfahrplan 4: Ökologische Mustersiedlung
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.2008: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung, Erziehungsberatung für gehörlose Eltern
+- TOP 12.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ASZ Kleinhadern-Blumenau (Anlage, Abschnitt 5.1.2, Nr. 46/53) und zur Altenwohnanlage Konrad-Dreher-Str. 19 - 23 (a.a.O., Nr. 69/76)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV); insbesondere Verlängerung der U6 nach Martinsried (nach 2018) und Staatsstraße 2063 Neu-Gräfelfing (Seite 5 - 6)
+- TOP 12.2.: Bekanntgabe in der gemeinsamen Sitzung des Sozialausschusses und des Kinder- und Jugendhilfeausschusses vom 13.11.2008: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland Leistungen nach dem SGB XII - Bericht 2007 Kommunale Leistungen nach dem SGB II - Bericht 2007
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
