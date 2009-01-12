@@ -1,0 +1,59 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-01-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1594705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1594705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Implerstraße 51a; Zweckentfremdung von Wohnraum, Schaffung eines Büros zur Betreuung der zukünftigen Bewohner
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland
+- TOP 3.4.: Entwicklung eines interkulturellen Integrationskonzeptes für Sendling
+- TOP 4.: Schulreferat
+- TOP 4.1.: Einsatz von Megaphonen und sonstigen Beschallungsanlagen an der Sportanlage in der Wackersberger Straße
+- TOP 4.2.: Gesundheitsförderung durch Sport und Bewegung; Aufstellung von Bewegungsinseln
+- TOP 6.1.: Anzeichnung von Parkscheinautomaten in Sendling
+- TOP 6.2.: Öffnung der Berlepschstr. zwischen Anwesen Berlepschstr. 10 und Lipowskystr. für den gegenläufigen Radverkehr
+- TOP 6.3.: Sicherheit in den Münchner Straßentunnels
+- TOP 6.4.: Eingeschränkter Wochenendfahrbetrieb auf den U-Bahnlinien U3 und U6 wegen Umbaumaßnahmen am U-Bahnhof "Münchner Freiheit"
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Kochelseestr. 8 - 10
+- TOP 8.3.: Bauvorhaben Oberländerstr. 16
+- TOP 8.4.: Bauvorhaben Oberländerstr. 18
+- TOP 8.5.: Bauvorhaben Implerstr. 21
+- TOP 8.6.: Bauvorhaben Senserstr. 3
+- TOP 8.7.: Bauvorhaben Daiserstr. 20
+- TOP 8.8.: Bauvorhaben Engelhardstr. 26
+- TOP 8.9.: Bauvorhaben Lipowskystr. 16
+- TOP 8.10.: Einstellung von Sanktionen bei Verstöße gegen die Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten anlässlich der 850-Jahr-Feier
+- TOP 8.11.: Verkehrsentwicklungsplan
+- TOP 8.12.: Zweite S-Bahn-Stammstrecke
+- TOP 8.13.: Klimaschutzfahrplan
+- TOP 8.14.: Perspektive München; Aktualisierung Leitlinie Ökologie
+- TOP 8.15.: Perspektive München; Fortschreibung Zentrenkonzept
+- TOP 9.: Baureferat
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Radlkoferstr. 13 - 19
+- TOP 10.2.: Baumfällung Sylvensteinstr. 4 - 10
+- TOP 10.3.: Baumfällung Plinganserstr. 5
+- TOP 10.4.: Baumfällung Meindlstr. 18 - 18c; Fällungsfreigabe
+- TOP 10.5.: Baumfällung Implerstr. 40 - 42a; Fällungsfreigabe
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LH-München
+- TOP 13.2.: Mittelfristige Finanzplanung 2008 - 2012
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
