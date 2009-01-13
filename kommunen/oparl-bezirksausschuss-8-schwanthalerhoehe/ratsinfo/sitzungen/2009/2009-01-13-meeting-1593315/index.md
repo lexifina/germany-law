@@ -1,0 +1,75 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593315
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593315
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Fernwärmeanschluss Fäustelstraße 8
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund; Parkstr.1
+- TOP 5: Anhörungen
+- TOP 5.1.: Beschlussfassung Plangenehmigung Gollier- / Astallerstraße
+- TOP 5.2.: Nutzungsanfragen Theresienhöhe 2009
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten
+- TOP 6.1.2.: Mitteilung über ein Grundstücksverkauf
+- TOP 6.1.3.: 2. S-Bahn-Stammstrecke München; Vertagt aus der Novembersitzung
+- TOP 6.1.4.: Baumfällung im Rahmen eines Bauvorhabens; Barthstr.1
+- TOP 6.1.5.: Vorbescheid Bauvorhaben; Kazmairstr. 66
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Kinderkrippe Kazmairstr. 23
+- TOP 6.2.2.: Bescheid über die Anerkennung von Plätzen nach dem BayKiBiG Hans-Fischer-Str.15
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Lichtzeichenbauprogramm 2008
+- TOP 6.4.2.: Lichtzeichenprogramm 2009; vertagt aus der Novembersitzung
+- TOP 6.4.3.: Rohrkanalsanierung Schwanthalerhöhe
+- TOP 6.4.4.: Vollzug Bundesimmmissionschutzgesetzes; Lärm bei Tiefbaumaßnahme in der Barthstraße
+- TOP 6.4.5.: Verkehrsentwicklungsplan; ÖPNV und MIV
+- TOP 6.4.6.: Baumfällungen auf öffentlichem Grund
+- TOP 6.4.7.: Einführung des Parkraummangement; "Theresienhöhe","Schwanthalerhöhe", "Westend" und "Ridlerstraße"
+- TOP 6.4.8.: Baumfällung Geroltstraße 32-34; eine Robinie
+- TOP 6.4.9.: Verkehrsrechtlice Anordnung Ridlerstraße
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Budgetantrag Open Westend von 27.-29.0309; ? 850.-
+- TOP 7: Erledigungen
+- TOP 7.1.: Adäquate Ersatzpflanzungen im 8. Stadtbezirk; Antrag Nr. 02-08/B 2983 vom 12.03.08
+- TOP 7.3.: Philipp-Loewenfeld-Straße; Neubau dieser Straße (Ausführungsplanung) Realisierung des Fußgängerstegs Realisierung des Kindergartens
+- TOP 7.4.: Um- und Ausbau der Donnersbergerbrücke;
+- TOP 8: Anträge
+- TOP 8.1.: Zweite S-Bahnstammbahnstrecke (Antrag Bündnis 90 / Die Grünen)
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Gaststättenfortführung - Astallerstr.18
+- TOP 9.2.: Bewegungsinseln für den 8. Stadtbezirk
+- TOP 9.3.: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
+- TOP 11.1.: Sicherheit in den Münchner Straßentunnels
+- TOP 11.2.: Budgetangelegenheiten
+- TOP 11.3.: Überprüfung der Nebenkosten der Tiefgarage Ausfertigung der BV-Empfehlung
+- TOP 11.4.: Kennzahlenvergleich der 16 großen Großstädte Ausfertigung des Beschlusses
+- TOP 11.5.: Kinderhaus Medienfabrik Ganghoferstraße Ausfertigung des Beschlusses
+- TOP 11.6.: Abbau des Investitionsstaus auf städt. und Vereinssportanlagen Ausfertigung des Beschlusses
+- TOP 11.7.: Kindertagesstätte freigemeinnütziger Träger;Baukostenzuschuss St. Rupert Ausfertigung des Beschlusses
+- TOP 11.8.: Verteilerplan stadtteilbezogenes Verzeichnis der städt. Kindergärten, Horte und Koop-Einrichtungen
+- TOP 11.9.: Haushaltsentwurf 2009
+- TOP 11.10.: Klimaschutzfahrplan 4; Ergänzung für Unterlagen vom 01.12.08
+- TOP 11.11.: Perspektive München; Fortschreibung des Zentrenkonzeptes
+- TOP 11.12.: Einstellung von Sanktionen anlässlich der 850_Jahr-Feier Münchens Ausfertigung des Beschlusses
+- TOP 11.13.: Perspektive München; Aktualisierung Leitlinie Ökologie Ausfertigung des Beschlusses
+- TOP 11.14.: Mietwohnanlage Karwendel-/ Plinganserstr. Ausfertigung des Beschlusses
+- TOP 11.15.: Grundsätzlich keine Trennung von Wohnen und Arbeiten in neuen Wohngebieten Ausfertigung des Beschlusses
+- TOP 11.16.: Klarheit über die zweite S-Bahn-Stammstrecke schaffen Ausfertigung des Beschlusses
+- TOP 7.2.: Fußgänger- und Radfahrertunnel Hans-Fischer-Straße
