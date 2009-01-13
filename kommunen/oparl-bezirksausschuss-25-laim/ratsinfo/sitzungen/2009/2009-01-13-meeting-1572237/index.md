@@ -1,0 +1,92 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572237
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572237
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1.2.1.: Verbesserungen am S-Bahnhof Laim
+- TOP 1.2.2.: Mehrzweckgebäude an der Hogenbergstraße; Gespräch mit den örtlichen Vereinen und Institutionen
+- TOP 1.2.3.: Entlastung der Hans-Thonauer-Straße; Anfrage aus der Bürgerversammlung vom 25.11.08
+- TOP 2: Anträge
+- TOP 2.1.: UA Kultur: Aufstockung des Kuchenverkaufserlöses anlässlich der Feier 100 Jahre Trambahn nach Pasing als Spende an das Jugendzentrum Laimer
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Baureferat: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.07 über die Projektplanung; Projektname: Agnes-Bernauer-Straße zwischen Riegerhofweg udn Fürstenrieder Straße
+- TOP 3.2.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Gotthardstr. 57
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 17.11.08: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 4.2.: Schreiben KVR vom 11.11.08: Lichtzeichenanlagen-Bauprogramm für 2009 (Vertagung aus der BA-Sitzung vom 04.12.08)
+- TOP 4.3.: Schreiben Kinderbeauftragte vom 19.12.08: Ausschreibung: Ausrichtung des Weltkindertages 2009 im Stadtbezirk
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Inderstorferstr. 17a: Dachgeschoss-Ausbau mit 2 WE; hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung des UA Soziales, Schule, Sport vom 22.09.08
+- TOP 7.2.: BA-Sitzung vom 04.11.08
+- TOP 7.3.: BA-Sitzung vom 02.12.08
+- TOP 7.4.: Sitzung des UA Bau vom 17.12.08
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 08.12.08: Erfahrungsaustausch mit den Bezirksausschussvorsitzenden am 28.11.08
+- TOP 8.2.: Schreiben Kommunalreferat vom 19.11.08: Kein Verkauf des Grundstücks des ehem. Bäckerei-Wild-Hauses an der Agnes-Bernauer-Straße (Antrag Nr. 08-14 / B 00375 vom 16.09.08)
+- TOP 8.3.: Schreiben KVR vom 18.11.08: Gaststätte "Neues Rex", Agricolastr. 16: Neuerrichtung
+- TOP 8.4.: Schreiben KVR vom 05.12.08: Gaststätte "Cafè Stöberl", Stöberlstr. 75: unveränderte Fortführung
+- TOP 8.5.: Schreiben KVR vom 16.12.08: Gaststätte "Win-Wah", Zschokkestr. 55; unveränderte Fortführung
+- TOP 8.6.: Schreiben KVR vom 07.07.08: Josef-Schick-Straße; Haltverbot
+- TOP 8.7.: Schreiben KVR vom 20.11.08: Wohnungseigentümergemeinschaft Gotthardstr. 85; Fehlende Parkplatzmarkierung vor dem Anwesen
+- TOP 8.8.: Schreiben Direktorium vom 21.11.08: Verwendungsnachweis über den Budgetzuschuss; Antragsteller: Kindertagesstätte der Kirchenstiftung Namen Jesu
+- TOP 8.9.: Schreiben Direktorium vom 05.12.08: Zuwendung aus dem Budget des BA 25; Laimer Stadtteilfest am 28.06.08
+- TOP 8.10.: Schreiben Direktorium vom 17.12.08: Verwendungsnachweis über Zuschuss aus dem Budget; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 8.11.: Schreiben Schul- und Kultusreferat vom November 08: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 8.12.: Schreiben Schul- und Kultusreferat vom 17.11.08: Gesundheitsförderung durch Sport und Bewegung; Flächendeckende Aufstellung von Bewegungsinseln
+- TOP 8.13.: Schreiben Schul- und Kultusreferat vom 10.12.08: Leitlinie Bildung; Regionalveranstaltung Süd am 20.01.09
+- TOP 8.14.: Schreiben Schul- und Kultusreferat vom 17.12.08: Städtischer Kindergarten am ehemaligen Standort Saherrstr. 60 (Schreiben BA vom 25.11.08)
+- TOP 8.15.: Schreiben Sozialreferat vom 27.11.08: Antrag auf Zweckentfremdung von Wohnraum durch Abbruch, Hartelstraße
+- TOP 8.16.: Schreiben Sozialreferat vom 14.11.08: Kooperation zwischen Bezirksausschuss und Sozialbürgerhaus
+- TOP 8.17.: Schreiben Sozialreferat vom 10.12.08: Seniorenbeiratswahl 2009
+- TOP 8.18.: Schreiben Baureferat vom 02.12.08: Anleinpflicht für Hunde in der Grünanlage Fröbelplatz
+- TOP 8.19.: Schreiben Baureferat vom 12.11.08: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 8.20.: Schreiben Baureferat vom 12.12.08: Radl-Aufstellflächen sichern (Antrag Nr. 02-08 / B 02530 vom 06.11.07 bzw. Schreiben vom 03.09.08)
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 22.12.08: Baumaßnahmen der SWM; Stromprojekt Landsberger Str. 234-236
+- TOP 8.22.: Schreiben Planungsreferat vom 24.11.08: Rechpacherstr. 16; Neubau eines Wohnhauses
+- TOP 8.23.: Schreiben Planungsreferat / HA IV LBK vom 25.11.08: Riegerhofstr. 20; Neubau einer Hauptschule mit 3-fach-Sporthalle für Schul- und Vereinssport, Gaststätte und Vereinsräume für den ESV München-Laim
+- TOP 8.24.: Schreiben Planungsreferat / HA II Stadtplanung vom 25.11.08: Bauvorhaben Riegerhofstr. 20; Neubau einer Hauptschule mit 3-fach-Sporthalle für Schul- und Vereinssport, Gaststätte und Vereinsräumen des ESV München-Laim (Schreiben BA vom 23.10.08)
+- TOP 8.25.: Schreiben Planungsreferat vom 08.12.08: Flotowstr. 30; Neubau eines Doppelhauses (Haus 1+2) mit zwei Carports und zwei Nebengebäuden (RGB)
+- TOP 8.26.: Planungsreferat: Infoveranstaltung vom 24.11.08 und 03.12.08; Folienvorträge
+- TOP 8.27.: Bautenliste vom 17.11.-23.11.08 1. Erstantragsverfahren a) Hönlestr. 31 b) Veit-Stoß-Str. 58 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Elsenheimerstr. 3
+- TOP 8.28.: Bautenliste vom 24.11.-30.11.08 1. Erstantragsverfahren a) Landsberger Str. 286
+- TOP 8.29.: Bautenliste vom 01.12.-07.12.08: 1. Erstantragsverfahren a) Veit-Stoß-Str. 72 b) Ilmmünsterstr. 32
+- TOP 8.30.: Bautenliste vom 08.12.-14.12.08: 1. Erstantragsverfahren a) Fürstenrieder Str. 39 b) Veit-Stoß-Str. 58 2. Änderungsverfahren a) Agricolastr. 59
+- TOP 8.31.: Bautenliste vom 15.12.-21.12.08: Erstantragsverfahren a) Inderstorferstr. 17 b) Valpichlerstraße c) Camerloherstr. 69 d) Landsberger Str. 287 b
+- TOP 8.32.: Bautenliste vom 22.12.-28.12.08: 1. Erstantragsverfahren a) Joergstr. 86
+- TOP 8.33.: Schreiben Planungsreferat vom 24.11.08: Liste der beantragten Baumfällungen vom 17.11.-23.11.08
+- TOP 8.34.: Schreiben Planungsreferat vom 01.12.08: Liste der beantragten Baumfällungen vom 24.11.-30.11.08
+- TOP 8.35.: Schreiben Planungsreferat vom 08.12.08: Liste der beantragten Baumfällungen vom 01.12.-07.12.08
+- TOP 8.36.: Schreiben DB Netze AG vom 03.12.08: Toiletten im S-Bahnhof Laim
+- TOP 8.37.: Schreiben STÜPS vom 04.12.08: Sachbericht zur Ausbildungsfahrt der StreitschlicherInnen
+- TOP 8.38.: Schreiben Spielen in der Stadt vom 10.12.08: Kurzbericht über die vom BA 25 geförderten Einsätze der Spielbusse
+- TOP 8.39.: Beschluss des Bauausschusses vom 18.11.2008: Weihnachtsbeleuchtung im städtischen Einflussbereich (Sitzungsvorlagen Nr. 08-14 / V 00196)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Mietwohnanlage Karwendelstraße / Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs (Sitzungsvorlagen Nr. 08-14 / V 00921)
+- TOP 8.41.: Beschluss der Vollversammlung vom 26.11.08: Klarheit über die zweite S-Bahn-Stammstrecke (Sitzungsvorlage Nr. 08-14 / V 01251)
+- TOP 8.42.: Beschluss des Kinder- und Jugendhilfeausschuss vom 02.12.08: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung (Sitzungsvorlagen Nr. 08-14 / V 01170)
+- TOP 8.43.: Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.08: Kindertagesstätten sonstiger Träger; Kooperationseinrichtung an der Camerloherstr. 54 (Sitzungsvorlagen Nr. 08-14 / V 01216)
+- TOP 8.44.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 03.12.08: Perspektive München; Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz (Sitzungsvorlagen Nr. 08-14 / V 01318)
+- TOP 8.45.: Beschluss des Schul- und Sportausschusses vom 03.12.08: Kindertagesstätten sonstiger Träger; Kooperationseinrichtung an der Camerloherstr. 54, Leistung eines Baukostenzuschusses nach dem BayKiBiG (Sitzungsvorlagen Nr. 08-14 / V 1216)
+- TOP 8.46.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2001, Bezirkssportanlage Laim, westlich der Riegerhofstraße, südlich der Valpichlerstraße (Teiländerung des Bebauungsplan Nr. 431) - Neubau private evang. Lukas-Schule mit Dreifachsporthalle und Vereinsräume des ESV Laim (Sitzungsvorlagen Nr. 08-14 / V 01289)
+- TOP 8.47.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Klimaschutzfahrplan 4; Ökologische Mustersiedlung (Sitzungsvorlagen Nr. 08-14 / V 01294)
+- TOP 8.48.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Perspektive München; Fortschreibung des Zentrenkonzeptes -Schwerpunkt Nahversorgung, Grundsatzbeschluss (Sitzungsvorlagen Nr. 08-14 / V 00506)
+- TOP 8.49.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit (Sitzungsvorlagen Nr. 08-14 / V 01331)
+- TOP 8.50.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV) (Sitzungsvorlagen Nr. 08-14 / V 01296)
+- TOP 8.51.: Beschluss des Kreisverwaltungsausschusses vom 16.12.08: Lichtzeichenanlagen-Bauprogramm 2008 (Sitzungsvorlagen Nr. 08-14 / V 01382)
+- TOP 8.52.: Beschluss der Vollversammlung vom 17.12.08: Haushaltsplan 2009; Ansätze der zentralen Bereiche, Schlussabgleich (Sitzungsvorlagen Nr. 08-14 / V 01116)
+- TOP 8.53.: Beschluss der Vollversammlung vom 17.12.08: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LH München (Sitzungsvorlagen Nr. 08-14 / V 01403)
+- TOP 8.54.: Direktorium, Münchner Statistik, 3. Quartalsheft, Jahrgang 2008
+- TOP 8.55.: Schriftverkehr aus der BA-Sitzung vom 02.12.08
