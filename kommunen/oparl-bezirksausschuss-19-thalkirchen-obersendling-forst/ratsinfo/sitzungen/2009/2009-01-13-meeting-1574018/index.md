@@ -1,0 +1,56 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2009-01-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1574018
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1574018
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 02.12.08
+- TOP 2: Anträge
+- TOP 2.1.: Beschilderung Saargemünder Straße
+- TOP 2.2.: Wahlorganisation 2009
+- TOP 2.3.: Ratzingerplatz
+- TOP 2.4.: Sanierung Zielstattschule
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Hilfe von Mensch zu Mensch
+- TOP 3.2.: Förderverein des Städt. Thomas-Mann-Gymnasiums
+- TOP 3.3.: Forstenrieder SC
+- TOP 3.4.: ASZ Fürstenried-West
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Containerstandort Maria-Einsiedel-Str./Fraunbergstr.
+- TOP 4.3.: Containerstandort Wolfratshauser Str./Neunkirchner Str.
+- TOP 4.4.: Krähenplage Thalkirchen
+- TOP 4.5.: Suchkreismeldungen
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Haltverbot Seumestraße
+- TOP 5.2.: Verkehrssituation Wilhelm-Leibl-Straße/Wilh.-Leibl-Pl./Muttenthalerstr.
+- TOP 5.3.: Verlängerung Bus-Linie 135
+- TOP 5.4.: Haltverbot Sörgelstr./Herterichstr.
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Planungsstand ehem. Bhf. Thalkirchen
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Spielplatz an der Wengleinstraße
+- TOP 7.2.: Konzept Freiwilligen-Zentrum Süd
+- TOP 8: Entscheidungen
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Gaststättenpächterwechsel "Bistro No.13"
+- TOP 9.2.: Antrag auf Zweckentfremdung Humpelstr. 6
+- TOP 9.3.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der BA's
+- TOP 9.4.: Haupt` "Sommerbiathlon-Anlage"
+- TOP 9.5.: Forstenrieder Volkslauf 2009
+- TOP 10: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
