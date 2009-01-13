@@ -1,0 +1,63 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-01-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1617929
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1617929
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Förderer und Freunde der Städt. Erich-Kästner-Realschule; Lesung am 22.11.2008
+- TOP 2: (E) Erhalt des Grünlandcharakters in der Lerchenau Empfehlung Nr. 08-14 / E 00054 der Bürgerversammlung des Stadtbezirkes 24 ? Feldmoching-Hasenbergl ? am 24.06.2008
+- TOP 3.1.: Parkverbot für "nicht PKW" (Augustinum Wohnstift München-Nord)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Göttnerstr. 8 (vertagt in der Sitzung am 09.12.2008) b) Bauvorhaben Lerchenstr. 19 c) Bauvorhaben Heppstr. 8
+- TOP 5.2.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Heppstr. 8 b) Lerchenstr. 66
+- TOP 5.3.: Vollzug der Baumschutzverordnung: a) Feldmochinger Str. 372 b) Kristallstr. 8a - b c) Max-Wönner-Str. 35
+- TOP 5.4.: Verkauf einer städtischen Immobilie; Am Gottesackerweg (Sonstiges: befestigter Randstreifen, tlw. Garagenzufahrt)
+- TOP 5.5.: Veranstaltung auf öffentlichem Verkehrsgrund: CityBike Marathon München am 19.04.2009
+- TOP 5.6.: Veranstaltung auf öffentlichem Verkehrsgrund: Dorffasching in Feldmoching am 22.02.2009
+- TOP 5.7.: Frühlingsfest, Grünanlage Dülferanger vom 27.03.-05.04.2009
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Antrag auf Unterstützung für die Bereitstellung von städtischen Räumlichkeiten für kulturelle, Kinder- und Jugendveranstaltungen in der Lerchenau (BA-Antrag-Nr. 08-14 / B 00435 vom 16.09.2008)
+- TOP 6.2.: Antrag auf Erstellung eines Stadtteilführers für den 24. Stadtbezirk im Rahmen von "Kulturgeschichtspfade" für das Jahr 2010 (BA-Antrag-Nr. 08-14 / B 00519 vom 14.10.2008)
+- TOP 6.3.: Verkehrslage Lerchenstr. 14 (Internationale Montessori-Schule); Antrag auf Beschilderung / Einrichtung einer Tempo-30-Zone (BA-Antrag-Nr. 08-14 / B 00520 vom 14.10.2008)
+- TOP 6.4.: Aufnahme des Bereiches Dratfeld/ Sommerweide in das jährliche Arbeitsprogramm 2009 des Planungsreferates mit dem Auftrag, eine Außenbereichssatzung zu erlassen (BA-Antrag-Nr. 08-14 / B 00607 vom 11.11.2008)
+- TOP 6.5.: Gemeinschaftsunterkunft für Asylbewerber München, Waldmeisterstr. 98, Errichtung des Spielplatzes
+- TOP 6.6.: Stadtteil-Versammlung Hasenbergl am 27.10.2008 Außenanlagenbeleuchtung
+- TOP 6.7.: Bebauungsplan mit Grünordnung Nr. 1763 j, Grohmannstraße (südlich), Aschenbrennerstraße (westlich), Paulckestraße (nördlich) (Bürgeranfrage) a) Antwortschreiben Referat für Stadtplanung und Bauordnung b) Antwortschreiben GWG
+- TOP 6.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9.: Gemeinsames Gespräch zur Verlagerung der Mittelpunktsbibliothek in das Einkaufszentrum an der Blodigstraße (Vorabstellungnahme aus Termingründen)
+- TOP 6.10.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmung der Gesamtstrecke Paul-Huml-Bogen, einer Teilstrecke der Paul-Preuß-Straße
+- TOP 6.11.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Genehmigung für eine wesentliche Änderung einer Elektro- und Elektronikrecyclinganlage in der Waldmeisterstraße
+- TOP 6.12.: Vollzug der Straßenverkehrsordnung (StVO); Drehgenehmigung Produktion: "Lenßen und Partner"
+- TOP 6.13.: Mitteilungen über Grundstücksgeschäfte
+- TOP 6.14.: Ansprechpartnerinnen und Ansprechpartner der HA II des Referates für Stadtplanung und Bauordnung für die Bezirksausschüsse
+- TOP 6.15.: Gesundheitsförderung durch Sport und Bewegung Flächendeckende Aufstellung von Bewegungsinseln
+- TOP 6.16.: Stadtteilwoche Feldmoching-Hasenbergl-Nordheide-Hart 2009
+- TOP 6.17.: Meldelisten Baumfällungsanträge
+- TOP 6.18.: Meldelisten Bauvorhaben
+- TOP 6.19.: Lichtzeichenanlagen-Bauprogramm 2008
+- TOP 6.20.: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München
+- TOP 6.21.: Neubau eines Gartenbaustützpunktes in der Lindberghstraße im Stadtbezirk 12 Schwabing - Freimann
+- TOP 6.22.: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes- Schwerpunkt Nahversorgung
+- TOP 6.23.: Klimaschutzfahrplan 4: Ökologische Mustersiedlung (Hinweis/Ergänzung vom 01.12.2008)
+- TOP 6.24.: Mietwohnanlage Karwendelstraße/ Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs (Geänderter Beschluss)
+- TOP 6.25.: PERSPEKTIVE MÜNCHEN Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz (Geänderter Beschluss)
+- TOP 6.26.: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV)
+- TOP 6.27.: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung, oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit
+- TOP 6.28.: Haushaltsplan 2009 - Ansätze der zentralen Bereiche - Schlussabgleich
+- TOP 6.29.: Antrag auf verbindliche Klärung von Fragen vor Einführung einer Express-S-Bahn zur Flughafenanbindung auf der Trasse der S 1 (BA-Antrag-Nr. 08-14 / B 00521 vom 14.10.2008)
+- TOP 6.30.: Antrag BA 24 Jugendspielplätze bzw. Bolzplätze im Bereich südlich Feldmoching vom 26.06.2008 Sachstandsmitteilung
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
