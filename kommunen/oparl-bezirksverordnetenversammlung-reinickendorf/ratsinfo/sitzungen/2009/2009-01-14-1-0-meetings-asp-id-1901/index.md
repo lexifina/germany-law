@@ -1,0 +1,78 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2009-01-14T17:10:00+01:00
+- Ende: 2009-01-14T22:25:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1901
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1901
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=40580
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - in der BVV abgelehnt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Verwendung EU-Mittel in Reinickendorf - beantwortet
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Gesundheitstag 2007 in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Rettung der Wiesen in Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Steigendes Grundwasser in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Veranstaltungen in der Stadtbibliothek im Fontanehaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Wasserschäden in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Detaillierte Erfassung von Unterrichtsausfall an den Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Ehemaliges Gelände des Gaswerks Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Ganztagsschulprogramm fortsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Fahrbahnmarkierungen auf der Frohnauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Fahrradbeauftragter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Bessere Werbung für die Graphothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Hinweisschild an der Mark-Twain-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Mahnmal im Rathauspark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Gefahrenstelle auf der Roedernallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Bebauungsplanentwurf XX-253 für die Grundstücke Alt-Wittenau 87-95, Roedernallee 118-118 A, Oranienburger Straße 52-60, eine Teilfläche der Grünanlage Am Nordgraben sowie einen Abschnitt der Straßen Alt-Wittenau, Roedernallee und Oranienburger Straßeim Bezirk Reinickendorf, Ortsteil Wittenau - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Jugendschutz in Tegel unbefriedigend - beantwortet
+- TOP 8.1.1: Einwohnerversammlung in Tegel einberufen - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Letteplatz - vertagt
+- TOP 8.3: Reinickendorf demografisch im Minus - vertagt
+- TOP 8.4: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik - vertagt
+- TOP 8.5: 50 Mio. für Berlin: Schulstättensanierungs-Sofortprogramm des Senats auch in Reinickendorf umsetzen! - vertagt
+- TOP 8.6: Neue Fahne für das Wahrzeichen von Frohnau - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Einstellung des Verfahrens zum Bebauungsplan 12-16 für Teilflächen der Grundstücke Gabrielenstraße 13 und 15 / 25 sowie für Teilflächen der Flurstücke 297 / 40, 386/ 27, 737, 739 der Gemarkung Tegel Schloss im Bezirk Reinickendorf, Ortsteil Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Investitionsplanung 2009 bis 2013 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin - vertagt
+- TOP 10.2: Generelles Alkoholverbot an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Projekt "Der Bewegte Spielplatz" in Reinickendorf umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Berücksichtigung des Gender Mainstreamings in den Sportanlagen-Nutzungsvorschriften (SPAN) - erledigt
+- TOP 10.5: Integration in Sportvereinen - vertagt
+- TOP 10.6: CO2-Ausgleich - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Mehr Qualität für die Dorfaue in Alt-Hermsdorf II - erledigt
+- TOP 10.8: Umgestaltung der Greenwich-Promenade - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Beschluss des Bebauungsplanes 12-17 vom 04. Juni 2008 sowie Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-17 - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Denkmalschutz am Bahnhofplatz in Hermsdorf erhalten - das neue Seniorenheim muss sich architektonisch in das Ortsbild einfügen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Verbesserung und Erneuerung der Kopenhagener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Freizeitverein Tegel-Süd e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Sicherheit in Tegel - in der BVV abgelehnt
+- TOP 12.2: Radfahrverkehr Tegel - vertagt
+- TOP 12.3: Denkmal Wiltinger Straße in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Ausstellung "Die Arbeit am Feind" in Reinickendorf - überwiesen
+- TOP 12.5: Schulneubau Märkisches Viertel - überwiesen
+- TOP 12.6: Schutzhüllen für biometrische Reisepässe - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Schulsanierung - zusätzliche Mittel - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Bekämpfung der Schwarzarbeit im Berliner Gaststätten- und Restaurantgewerbe - überwiesen
+- TOP 13.2: Erfassung von Misshandlungsfällen - überwiesen
+- TOP 13.3: Elternwahlrecht bei Oberschultypen - überwiesen
+- TOP 13.4: Bildungsinitiative "Schlaumäuse - Kinder entdecken Sprache" - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Ausstellung "20 Jahre Friedliche Revolution und Deutsche Einheit" - überwiesen
