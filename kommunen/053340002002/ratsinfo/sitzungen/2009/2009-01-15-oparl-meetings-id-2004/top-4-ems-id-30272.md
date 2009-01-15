@@ -1,0 +1,8 @@
+# TOP 4: Volkshochschule AachenVeranstaltungsprogramm 1/2009
+
+- Sitzung: öffentliche Sitzung des Betriebsausschusses für das Theater und die VHS (2009-01-15)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=30272
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=7782&bi=12126
