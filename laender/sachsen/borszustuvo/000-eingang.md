@@ -1,0 +1,3 @@
+# Verordnung der Sächsischen Staatsregierung über die Übertragung von Zuständigkeiten zum Erlass von Rechtsverordnungen im Bereich des Börsenrechts auf das Sächsische Staatsministerium für Wirtschaft und Arbeit (Zuständigkeitsübertragungsverordnung Börsenrecht – BörsZustÜVO)
+Vom 5. Januar 2009
+Aufgrund von § 4 Abs. 6 Satz 2, § 6 Abs. 7 Satz 2, § 13 Abs. 4 Satz 2, auch in Verbindung mit § 14 Nr. 3, und § 22 Abs. 1 Satz 3 des Börsengesetzes (BörsG) vom 16. Juli 2007 (BGBl. I S. 1330, 1351), das durch Artikel 11 des Gesetzes vom 21. Dezember 2007 (BGBl. I S. 3089, 3137) geändert worden ist, wird verordnet:
