@@ -1,0 +1,101 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-01-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1617867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1617867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage Baureferat: Standortgenehmigung für einen Parkscheinautomaten im Lizenzgebiet ?Kasernenviertel?
+- TOP 2.4.2.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Bäckerei Frisch und Lecker, Rotkreuzplatz 2a
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: 3 Metallbügel zwischen Gehsteig und Straße vor der Einfahrt Klugstr. 47
+- TOP 3.2.: Elternbeirat St. Theresia: Straßenkonzept im neuen Wohngebiet an der Hanebergstraße
+- TOP 3.3.: Stephanuskirche: Ampelschaltung Notburgastraße
+- TOP 3.4.: Bürgeranliegen: MVG-Fahrpläne: Verschwinden der Margarethe-Danzi-Straße
+- TOP 3.5.: Antrag SPD: Das Baureferat bringt an allen U-Bahn-Abgängen Aschenbecher an
+- TOP 3.6.: KVR: CityBike Marathon am 19.04.09
+- TOP 3.7.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Ysenburgstr. 5
+- TOP 3.8.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Gertrud-Bäumer-Straße gegenüber Hausnr. 16
+- TOP 3.9.: Beschluss des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 16.12.08: Sicherheit in den Münchner Straßentunnels
+- TOP 3.10.: Beschluss der Vollversammlung des Stadtrats vom 17.12.08: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LH München
+- TOP 3.11.: Stadtwerke: Baumaßnahmen Fernwärmeprojekt Leonrodstraße
+- TOP 3.12.: KVR: Haltverbotsbeschilderung und Parkflächenmarkierung in der Winthir-/Jagdstraße (Wiedervorlage aus der Sitzung vom 16.12.08)
+- TOP 3.13.: KVR: Hinweisschilder für den ESV München e.V. (Schreiben BA 9 vom 21.10.08)
+- TOP 3.14.: Stadtwerke: Bürgeranliegen: Verwendung neuester Schallschutz- und Erschütterungserkenntnisse bei der Neugestaltung der Trambahnschienen auch im Bereich der Nymphenburger Straße (Schreiben BA 9 vom 21.10.08)
+- TOP 3.15.: KVR: Hinweisschilder "nur vorwärts einparken" und Erneuerung der Schrägparkmarkierung in der Sadelerstr. 13-15 (Schreiben BA 9 vom 14.11.08)
+- TOP 3.16.: KVR: Verlegung der Bücherbushaltestelle Albrechtstr. 6 vor Albrechtstr. 2
+- TOP 3.17.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Lorschstr. 1 / Seite Karl-Schurz-Straße
+- TOP 3.18.: Planungsreferat: Fahrbahnzustand und Verkehrssituation in der Merianstraße (Schreiben BA 9 vom 20.10.08)
+- TOP 3.19.: KVR: Bürgeranliegen Radspur Donnersbergerbrücke (Schreiben BA 9 vom 17.06.08) und Wiedervorlage aus der Sitzung vom 17.06.08
+- TOP 3.20.: Beschluss des Kreisverwaltungsausschusses vom 16.12.08: Lichtzeichenanlagen-Bauprogramm 2008
+- TOP 3.21.: KVR: Anordnung eines absoluten Haltverbots in der Frauenwörther Straße östlich Wintrichring (wegen Neubau der Lichtsignalanlage Wintrichring / In den Kirschen)
+- TOP 3.22.: Beschlussvorlage Baureferat: Standortgenehmigung für einen Parkscheinautomaten im Lizenzgebiet Kasernenviertel
+- TOP 3.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: Optimierung der Fahrradstellplätze infolge der Umwandlung von Kfz-Stellplätzen (in Parklizenzgebieten)
+- TOP 3.24.: Baureferat: Bürgeranliegen: Kassenautomat vor denkmalgeschütztem Anwesen in der Jutastr. 9 / Hedwigstr. 11 (Schreiben BA 9 vom 14.08.08)
+- TOP 3.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: 2. S-Bahn-Stammstrecke; Zwischenbericht
+- TOP 3.26.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr und Motorisierter Individualverkehr
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 01.12.-07.12., 08.12.-14.12.,15.12.-21.12. und 22.-28.12.08
+- TOP 3.2.: Informationsveranstaltungen des Planungsreferates für die Bezirksausschüsse am 24.11. und 03.12.08 / Bericht
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: 38. städtischer Fassadenwettbewerb; Fassadenpreise und lobende Erwähnungen 2007
+- TOP 3.4.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08 und Beschluss vom 10.12.08: Klimaschutzfahrplan 4: Ökologische Mustersiedlung
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 19.11.08: Mietwohnanlage Karwendelstraße/Plinganserstraße; weitere Beobachtung der Entwicklung der Besitzverhältnisse zum Zwecke des genossenschaftlichen Erwerbs
+- TOP 3.6.: Informationsveranstaltung "Kommunales Wohnungsbauprogramm (KomPro)" am 13.11.08 / Präsentationsmaterial
+- TOP 3.7.: Planungsreferat: Wettbewerb "Denkmalschutz und Neues Bauen" 2008 (Wiedervorlage aus der Sitzung vom 16.12.08)
+- TOP 3.8.: Bürgeranliegen (3x): Abbruch des Bunkers in der Volksgartenstr. 2
+- TOP 3.9.: Realisierungswettbewerb Rotkreuzplatz 1
+- TOP 3.10.: Planungsreferat: Notburgastr. 14, keine Errichtung einer Werbeanlage
+- TOP 3.11.: Baureferat: Entsiegelung des Vorgartens Roncalli-Kolleg in der Nymphenburger Str. 99 (Antrag BA 9 Nr. 4661 vom 21.03.00)
+- TOP 3.12.: Planungsreferat: Prüfung Terrassenanbau Albrechtstr. 25 (Schreiben BA 9 vom 17.11.08)
+- TOP 3.13.: Planungsreferat: Waisenhausstr. 17 und Nördliche Auffahrtsallee Nr. 1; keine Errichtung von Werbeanlagen
+- TOP 3.14.: Oberbürgermeister: Bebauung des Heilg-Geist-Geländes (Schreiben BA 9 vom 20.08.08)
+- TOP 3.15.: Beschluss des Bauausschusses vom 10.02.09: Öffentliche Grünanlage an der Wilhelm-Hale-Straße / Schloßschmidstraße im Umgriff der Bebauungspläne mit Grünordnung Nr. 1926a und Nr. 1926b
+- TOP 3.16.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Nymphenburger Straße
+- TOP 3.17.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Landshuter Allee
+- TOP 3.18.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Fuetererstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Planungsreferat: Fällungsgenehmigung für einen Gefahrenbaum, Frickastr. 33
+- TOP 3.2.: Planungsreferat: Fällungsgenehmigung Hubertusstr. 31
+- TOP 3.3.: Baureferat: Bürgeranliegen: Einsatz von Laubpustern (Schreiben BA 9 vom 16.12.08)
+- TOP 3.4.: Planungsreferat: Fällungsgenehmigung Dachauer Str. 128
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: FT Gern: Minispielfelder des Deutschen Fußball-Bundes
+- TOP 3.2.: Jugendamt: Ausschreibung für die Ausrichtung des Weltkindertages am 20.09.09
+- TOP 3.3.: Elternbeirat Frundsbergstraße: Ergänzung zum Antrag für eine Lernwerkstatt in der Kindertagesstätte Frundsbergstr. 43
+- TOP 3.4.: Schulreferat: Leitlinie Bildung; Regionalveranstaltung am 29.01.09 im Kolpinghaus
+- TOP 3.5.: REGSAM: Fragebogen Erfahrungen mit REGSAM (Wiedervorlage aus der Sitzung vom 16.12.08)
+- TOP 3.6.: Protokoll Vollversammlung REGSAM vom 12.11.08
+- TOP 3.9.: Sozialreferat: Seniorenbeiratswahl 2009 (Liste der Kandidaten/Vorstellungsrunden)
+- TOP 3.10.: GBW Management GmbH: Bessere finanzielle Unterstützung für den Bewohnertreff Arnulfpark (Schreiben BA 9 vom 16.09.08, Wiedervorlage aus der Sitzung vom 16.12.08)
+- TOP 3.11.: Antrag SPD: Sofortige Streichung der Studiengebühren an Bayerischen Universitäten und Fachhochschulen
+- TOP 3.12.: Beschluss des Sozialausschusses vom 04.12.08: Bauprogramm der Münchenstift GmbH: Generalsanierung des Münchner Bürgerheims (Wiedervorlage aus der Sitzung vom 16.12.08)
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Budgetantrag "Stadt und Kunst e.V." (Schreiben BA 9 vom 21.10.08)
+- TOP 3.2.: Kulturreferat: Fortbildungsveranstaltungen zur Stadtteilkultur (Finanzen, Haftung, Personal)
+- TOP 3.3.: Kulturreferat: Protokoll des 5. Informations- und Arbeitstreffens zur Stadtteilkultur am 18.11.08
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Bäckerei Frisch und Lecker, Rotkreuzplatz 2a
+- TOP 4.2.: Kleingärtnerverein Nord-West 16: Altkleidercontainer in der Kleingartenanlage
+- TOP 4.3.: Gaststätte Ysenegger: Betriebszeit des Wirtsgartens
+- TOP 4.4.: Oberbürgermeister: Erfahrungsaustausch mit den Bezirksausschussvorsitzenden am 28.11.08
+- TOP 4.5.: Oberbürgermeister: Informationen wegen Trinkgeldverbot für Müllmänner
+- TOP 4.6.: Direktorium: BA-Sitzungstermine und BV-Termine 2009
+- TOP 4.7.: KVR: Stadtteilwoche; Veranstaltungen im Hirschgarten vom 17.-24.07.09
+- TOP 4.8.: KVR: Pächterwechsel a) Gaststätte "Ruen Thong", Thorwaldsenstr. 19 b) Gaststätte "Ratschkathl", Frundsbergstr. 3
+- TOP 4.9.: KVR: Genehmigung für den Verkauf von Schnee-Eis im Hirschgarten
+- TOP 5.: Verschiedenes
+- TOP 3.7.: Antrag Verein zur politischen Jugendpartizipation e.V.: Zuschuss in Höhe von 1 000 ? für das Filmprojekt "Rollstuhl"von Oktober 2008-Februar 2009
+- TOP 3.8.: Antrag Evang.-Luth. Stephanuskirche: Zuschuss in Höhe von 4873 ? für die Sanierung des Spielplatzes des Kindergartens (Wiedervorlage aus der Sitzung vom 16.09.08)
