@@ -1,0 +1,102 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-01-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1575583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1575583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Beseitigung einer Gefahrenstelle an der Ausfahrt der Sparkasse in der Hans-Mielichstrasse; Bürgerschreiben vom 16.12.2008
+- TOP 2.2.: Verschiedene Punkte im 18. Stadtbezirk 1. Haltverbotregelung in der Konradinstraße 2. Behindertenparkplatz in der Konradinstraße 3.+4. Beschilderung "Altenheim" in der Konradinstr./Agilolfingerstraße 5. Straße am Hans-Mielich-Platz 6. Kunstfigur am Hans-Mielich-Platz Bürgerschreiben vom 16.12.2008
+- TOP 2.3.: Maßnahmen gegen die Zustände in der Birkenleiten; 1.) Schrittgeschwindigkeit 2.) Kennzeichnung der Parkplätze 3.) Fahrverbot für Schwerlasttransporte 4.) Beseitigung von Müll und Fäkalien Bürgerschreiben vom 18.12.2008
+- TOP 2.4.: Denkmalschutz am Anwesen Harthauser Straße 11; Bürgerschreiben vom 15.12.2008
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Antrag der Elterninitiative Opodeldoks e. V. an den BA 18 auf Bezuschussung zur Erfüllung der Brandschutzauflagen; Anfrage des BA 18 aus der Sitzung am 21.10.2008
+- TOP 3.1.: Verwendungsnachweis des Antragstellers "Kunst in Giesing" zur bezuschussten Maßnahme "Skulptur"
+- TOP 3.2.: Verwendungsnachweis des Antragstellers "Spiellandschaft Stadt e.V." zur bezuschussten Maßnahme "Ferienspielaktion"
+- TOP 3.3.: Verwendungsnachweis des Antragstellers "Jugendtreff Akku" zur bezuschussten Maßnahme "Candiplatzfest zur 850-Jahr Feier"
+- TOP 3.4.: Verwendungsnachweis des Antragstellers "Burschenverein Harlaching e.V." zur bezuschussten Maßnahme "Fest der Harlachinger Jugend am 19.07.2008"
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Schaffung von Sitzgelegenheiten an den Bushaltestellen Linie 54 Candid- / Ecke Gerhardstraße und vor Osram an der Candidstraße - <div>nach Antrag</div>
+- TOP 3.2.: Optimierung der Fahrradstellplätze infolge der Umwandlung von KFZ-Stellplätzen am U-Bahnaufgang Candidplatz / Jamnitzerstraße
+- TOP 3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bezoldstraße; Zuleitung des Kreisverwaltungsreferats vom 15.12.2008 mit der Bitte um Stellungnahme - <div>einstimmig zugestimmt</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Lichtzeichenanlagenbauprogramm 2008; Sitzungsvorlage Nr. 08-14 / V 01382; Beschluss des Kreisverwaltungsausschusses vom 16.12.2008 (SB);
+- TOP 3.2.: Neue Radverkehrsroute Untergiesing - Obergiesing - Harlaching durch den Giesinger Freizeitpark; Empfehlung Nr. 02-08 / E 00812 der Bürgerversammlung des 17. Stadtbezirks Obergiesing am 21.06.2007; Sitzungsvorlage Nr. 08-14 / V 01358; Beschluss des Bauausschusses vom 09.12.2008 (SB)
+- TOP 3.3.: Sicherheit in den Münchner Straßentunnels; Auswirkungen der aktualisierten Richtlinien für die Ausstattung und den Betrieb von Straßentunneln (RABT) (SB); Einführung von Organisationsformen gem. RABT (SB); Personelle Anpassung der Verkehrsüberwachung und des Tunnelunterhalts (SB); Bereitstellung einer zusätzlichen Verpflichtungsermächtigung in Höhe von 350.000.- ? bei Finanzposition 6300.960.8840.0 "Gemeindestraßen, Tunnelstörfallsimulationssystem" (VB); Änderung des Mehrjahresinvestitionsprogramms 2008 - 2012 in Investitionsliste 1 beim Unterabschnitt 6300 "Gemeindestraßen" (VB); Sitzungsvorlage Nr. 08-14 / V 01387; Beschluss des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 16.12.2008 (SB und VB)
+- TOP 3.4.: 2. S-Bahn-Strammstrecke München a) Zwischenbericht b) Stadtratsanträge Sitzungsvorlage Nr. 08-14/V 01487 Bschluss des Ausschusses für Stadtplanung u. Bauordnung vom 14.01.2009 (VB)
+- TOP 3.5.: Optimierung der Fahrradstellplätze infolge der Umwandlung von Kfz-Stellplätzen; Antrag Nr. 02-08 / A 03915 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 24.08.07; Sitzungsvorlagen Nr. 08-14/V 01262; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 14.01.09
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Wertstoffcontainerstandort (3 Container) Gerhardstraße/Agilolfingerstraße; Zuleitung des Abfallwirtschaftbetriebs vom 02.12.2008 mit der Bitte um Stellungnahme
+- TOP 3.1.: Klimaschutzfahrplan 4: Ökologische Mustersiedlung; Antrag Nr. 02-08 / A 04237 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 12.02.2008; Sitzungsvorlage Nr. 08-14 / V 01294; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Unterstützung des Schulobstprogrammes der Europäischen Union - <div>nach Antrag</div>
+- TOP 3.1.: Ausschreibung zur Ausrichtung des Weltkindertages 2009 "Kinder haben Rechte"; Schreiben des Sozialreferats, Büro der Kinderbeauftragten, vom 18.12.2008 (Bewerbungsschluss 20.02.2009)
+- TOP 3.2.: Schulfrucht-Programm der EU; Schreiben der Firma ZELGER GmbH vom 31.12.2008 mit der Bitte um Unterstützung
+- TOP 3.1.: Unterstützung des Vereins Carpe Diem e.V.; Antrag Nr. 08-14 / B 00513 des BA 18 vom 21.10.08; Antwortschreiben des Sozialreferats vom 23.12.2008 (negative Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.1.: Städtisches Theodolinden-Gymnasium, Am Staudengarten2, Abbruch der bestehenden Sporthallen und Neubau einer Doppelsporthalle; Vorläufige Genehmigung des Nutzerbedarfsprogramms, 2. Vorplanentwurft; Zuleitung des Schul- und Kultusreferats vom 04.08.2008
+- TOP 3.2.: Auslagerung des Städtischen Kinderhorts an der Rotbuchenstr. 79 b in das Anwesen Am Hollerbusch 5; Mitteilung des Schul- und Kultusreferats vom 03.12.2008
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen in der Gabriel-Max-Straße; Anhörung vom 18.12.2008
+- TOP 3.2.: Anwesen in der Meichelbeckstraße; Anhörung vom 23.12.2008
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Meichelbeckstraße; Zuleitung vom 18.12.2008
+- TOP 3.1.: Hans-Mielich-Platz; Neugestaltung des Platzbereiches und der Anschlussbereiche zu den umliegenden Straßen: Gerhard-, Hans-Mielich-, Kühbach- und Teutoburger Straße im 18. Stadtbezirk Untergiesing-Harlaching; Verbesserung; 1. Bedarfs- und Konzeptgenehmigung, 2. Auskunft zum aktuellen Sachstand der Planungen zur Neugestaltung des Hans-Mielich-Platzes, schnellstmögliche Beschlussfassung im Stadtrat, Antrag Nr. 08-14 / B 00284 des BA 18 vom 15.07.2008; 3. Neugestaltung des Hans-Mielich-Platzes ohne weitere Verzögerung und unabhängig vom geplantem Parkraummanagement, Antrag Nr. 08-14 / B 00285 des BA 18 vom 15.07.2008; Sitzungsvorlage Nr. 02-08 / V 11142; Beschluss in der gemeinsamen Sitzung des Bauausschusses und des Ausschusses für Stadtplanung und Bauordnung vom 10.12.2008 (SB)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Asia Grill"; Grünwalder Straße 14 a; Mitteilung vom 19.12.08 3.5.6.2.2 SSW "Ghazal", Grünwalder Straße 71; Mitteilung vom 22.12.08
+- TOP 3.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen in der Leitzachstraße; Mitteilung vom 22.12.08
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: keine Gebührenerhöhung für Sondernutzung auf öffentlichen Straßen für ehrenamtliche Veranstaltungen - <div>nach Antrag</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Unterlagen für die Beratung und Verabschiedung des Haushaltsplanentwurfs 2009; Haushaltsplan 2009, Ansätze der zentralen Bereiche, Schlussabgleich; Sitzungsvorlage Nr. 08-14 / V 01116; Beschluss des Finanzausschusses vom 16.12.2008 (VB) und der Vollversammlung des Stadtrats vom 17.12.2008 - Gesamtfinanzhaushalt - Gesamtergebnishaushalt - Teilfinanzhaushalte - Teilergebnishaushalte - Änderungslisten (ohne Investitionen) - Änderungen bei den Ein- und Auszahlungen aus Investitionstätigkeit - Haushalte der Stiftungen mit eigener Rechtspersönlichkeit - Produktdatenblätter - Übersicht über den voraussichtlichen Stand der Schulden - Stellenplan 2009 - Mittelfristige Finanzplanung; Sitzungsvorlage Nr. 08-14 / V 01381; Beschluss der Vollversammlung des Stadtrats vom 17.12.2008
+- TOP 4.2.: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München; Sitzungsvorlage Nr. 08-14 / V 01403; Beschluss des Kreisverwaltungsausschusses vom 16.12.2008 und der Vollversammlung des Stadtrats vom 17.12.2008
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
