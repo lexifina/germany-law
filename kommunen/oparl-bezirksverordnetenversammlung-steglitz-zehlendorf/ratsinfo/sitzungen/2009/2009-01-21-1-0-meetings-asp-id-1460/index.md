@@ -1,0 +1,77 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2009-01-21T17:00:00+01:00
+- Ende: 2009-01-21T19:43:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1460
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1460
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Holz-Skulptur "Flora"am S-Bahnhof Lichterfelde West - beantwortet
+- TOP 3.2: Qualität von Lebensmitteln und Speisen im schulischen Ganztagsbetrieb - schriftlich beantwortet
+- TOP 3.3: Heizungsprobleme an Schulen - beantwortet
+- TOP 3.4: Stellplätze Edwin-Redslob-Straße - beantwortet
+- TOP 3.5: Dauerhaft erkrankte Lehrer - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen - erledigt
+- TOP 4.1.1: Wahl von zwei Mitgliedern des Widerspruchsbeirats - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Anträge - erledigt
+- TOP 4.2.1: Verlängerung der Hallennutzungszeiten für Sportvereine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Querparken in der Bitterstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Wirtschaftliche Konsequenzen einer Null-Lösung Curtiusstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Lauenburger Straße als Fahrradstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Weg Flurstück 55 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Verkehrsberuhigung Edwin-Redslob-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Tempo 30 in der Ihnestraße zwischen Brümmerstraße und Garystraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Verkehrszeichen Radwegebenutzung entfernen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.8: Sicherer beiderseitiger Fahrradweg entlang der Grunewaldstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.9: Mauerweg geöffnet halten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltangelegenheiten: Dringl. Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Investitionsplanung 2009 - 2013 - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Geschäftszentrum am S-Bahnhof Nikolassee stärken - überwiesen
+- TOP 5.2.2: Haushaltsberatungen 2009 - überwiesen
+- TOP 5.2.3: Zebrastreifen Onkel-Tom-Straße, Höhe Siebenendenweg - überwiesen
+- TOP 5.2.4: Synagoge Hüttenweg - überwiesen
+- TOP 5.2.5: Aufruf zur diesjährigen Fahrradsternfahrt - überwiesen
+- TOP 5.2.6: Graffitibeschmierung von Verteilerkästen im öffentlichen Straßenland - überwiesen
+- TOP 5.2.7: Übertragung von Einrichtungen der Jugendhilfe an freie Träger - überwiesen
+- TOP 5.2.8: Fortbestand der Firma Pluta am Standort Dahlem sichern - überwiesen
+- TOP 5.2.9: Öffentlicher Beschäftigungssektor in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.10: Uneingeschränkte Solidarität mit Sderot - überwiesen
+- TOP 5.2.11: Hilfe für Menschen mit Behinderung - überwiesen
+- TOP 5.2.12: Spielfeld Brettnacher Straße - überwiesen
+- TOP 5.2.13: Gaslaternen nur gegen ähnliche Leuchtkörper austauschen - überwiesen
+- TOP 5.2.14: Verkehrsgefährdende Verkehrszeichen Königstraße - überwiesen
+- TOP 5.2.15: Bebauungsplan für das Gelände am S-Bahnhof Nikolassee - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Viel Geld für die Schulen und keine Manpower um es auszugeben? - beantwortet
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Jetzt mit der Planung von Baumaßnahmen für unsere Schulen beginnen - überwiesen
+- TOP 7.2: Jetzt mit der Mensaplanung für unsere Schulen beginnen - überwiesen
+- TOP 7.3: Mehr Lametta! - zurückgezogen
+- TOP 8: Ausschussanträge - erledigt
+- TOP 8.1: Aufhebung des Bebauungsplanverfahrens X-77-1 ("PLUS-Markt Potsdamer Chaussee") - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: KiTa Schmarjestraße - Kurzfristige Räumung absagen - in der BVV abgelehnt
+- TOP 9.2: Lastwagenverkehr Curtiusstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Behindertenparkplätze am Rathaus Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Fusion der Schmidt-Ott-Oberschule (Plantagenstraße 8-9) mit der Friedrich-Bayer-Oberschule (Lauenburger Straße 110) zum Schuljahresbeginn 2009/2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeiten - erledigt
+- TOP 11.1: Dringlichkeitsanträge - erledigt
+- TOP 11.1.1: Keine Fusion der Schmidt-Ott-Oberschule mit der Friedrich-Bayer-Oberschule zum Schuljahresbeginn 2009/2010 - in der BVV abgelehnt
+- TOP 12: Haushaltsangelegenheiten - erledigt
+- TOP 12.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 12.1.1: Fortschreibung der Bezirkshaushaltsplanung 2009 - vertagt
+- TOP 13: Schlusswort des Vorstehers - erledigt
