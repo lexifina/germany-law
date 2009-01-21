@@ -1,0 +1,109 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-01-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586351
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586351
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Radweg durch die Allee von der städtischen Baumschule Müllerstadel zum Lußsee (UA Planung)
+- TOP 2.2.: Spielplatzvorschläge für die Sommer SpielAktion 2009
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Kronwinklerstr. 66, 1 Silberahorn - Georg-Kirmair-Gasse 14 - Streitbergstr. 14, s. Baumbestandsplan Nr. 2008-26876 - Hellensteinstr. 50, s. Baumbestandsplan Nr. 2008-30078
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4.: Anträge
+- TOP 4.1.: Unterstützung der vorhandenen Jugendfreizeiteinrichtungen (in der BA-Sitzung vom 17.12.08 vertagt in den UA Soziales, Bildung, Sport und Kultur)
+- TOP 4.2.: Änderung des Vorschriftszeichen 254 (Verbot für Radfahrer) durch das Vorschriftszeichen 239 (Sonderweg Fußgänger) mit dem Zusatz "Radfahrer frei" an der Kreuzung Limes-/ Bodenseestraße auf Höhe und Seite der Apotheke Richtung stadteinwärts (in der BA-Sitzung vom 17.12.08 vertagt in den UA Planung, Umwelt, Bau und Verkehr) (ZURÜCKGEZOGEN)
+- TOP 4.3.: Entfernung der Werbeanlagen an der Ecke der Einmündung Am Langwieder Bach / Lochhausener Straße
+- TOP 4.4.: Durchführung eines Neujahrs- oder Frühlingsempfangs 2009 als BA eigene Veranstaltung
+- TOP 4.5.: Verschlechterung des Zustands am S-Bahnhof Aubing
+- TOP 4.6.: Erinnerungsantrag Streetwork-Bus
+- TOP 4.7.: Erinnerungsantrag Sicherung der Biotop und Landschaftspflege in der Landeshauptstadt München
+- TOP 5.: Entscheidungen
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 6.1.: Ausschreibung des Weltkindertages 2009 im Stadtbezirk, Anhörung Sozialreferat v. 19.12.08
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 6.1.: Barrierefreier Zugang zum Saal im Bay. Schnitzel- und Hendlhaus (ehem. Wienerwaldsaal) an der Limesstr. 63, Schr. Kulturreferat v. 16.12.08
+- TOP 6.2.: Seniorenbeiratswahl 2009, Schr. Sozialreferat v. 10.12.08
+- TOP 6.3.: Wirtschafts-Info, Schr. Referat für Arbeit und Wirtschaft v. 22.12.08
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Antrag auf Budgetmittel des BA 22, hier: Verwendung für eigene Veranstaltung, Gedenkveranstaltung am 09.11.08, Schr. Direktorium v. 17.12.08
+- TOP 6.2.: Bewilligungsbescheid für Zuschuss aus dem Budget v. 23.10.08, Sachbericht, Schr. ESV Sportfreunde München-Neuaubing e.V. v. 17.12.08
+- TOP 6.3.: Zuwendung aus dem Budget für den ESV-Sportfreunde München-Neuaubing - Spielaktion 2008, Schr. des Direktorium v. 02.01.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Erstellung eines Konzeptes zur Erschließung Freihams für den öffentlichen Personennahverkehr (Vertagung aus der BA-Sitzung vom 17.12.08)
+- TOP 6.2.: Erweiterung Friedhof Aubing und Errichtung südlicher Zugang; Darstellung der künftigen Planungen des Friedhofes Aubing im Rahmen der Siedlungsmaßnahmen Freiham-Nord (Vertagung aus der BA-Sitzung vom 17.12.08)
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Gemeinde Puchheim, Flächennutzungsplan - Änderung Nr. 6, Errichtung eines Golfplatzes, Anhörung Planungsreferat v. 15.12.08
+- TOP 6.2.: Maganusweg, Errichtung einer Kleingartenanlage, Anhörung Planungsreferat v. 10.12.08
+- TOP 6.3.: Leinenpflicht für die städtischen Grünanlagen am Westkreuz, Anhörung Baureferat v. 16.12.08
+- TOP 6.4.: Bodenseestraße, Verhinderung der Ansiedlung weiterer Gebrauchtwagenhändler auf freiwerdenden Flächen, Anhörung Planungsreferat v. 18.12.08
+- TOP 6.5.: Grünflächen Neuaubing, Anhörung Planungsreferat v. 16.12.08
+- TOP 6.6.: Bau einer Verbindungsstraße von der Mühlangerstraße über die A 8 zum Obermenzinger Kreisel, Anhörung Planungsreferat v. 30.12.08
+- TOP 6.7.: Projekt Kastelburgstraße, Anhörung Baureferat v. 30.12.08
+- TOP 6.8.: Kravogelstr. 29, Nutzungsänderung Wohnstätte für Behinderte zu sozialpädagogischer Tagesgruppe, Anhörung Planungsreferat v. 03.12.08
+- TOP 6.9.: Vollzug des Allg. Eisenbahngesetzes (AEG); Plangenehmigung für Umbaumaßnahmen zur Umsetzung des Brandschutzkonzeptes mit erforderlicher Sanierung der DB Regio Werkstatt München-Pasing, ANhörung des Planungsreferates vom 14.01.2009
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 08.12.-14.12, v. 15.12.-21.12.08, v. 29.12. - 04.01.09), Schr. Planungsreferat v. 15.12. und 22.12.08 und 07.01.09
+- TOP 6.2.: a) Aufstellung eines Zauns um das Schulgelände Ravensburger Ring, Schr. Grundschule v. 05.12.08 b) Aufstellung eines Zaunes für den Bereich des Kindergartens und der Grundschule am Ravensburger Ring (37), Bebauungsplan Westkreuz, Schr. Planungsreferat v. 29.12.2008
+- TOP 6.3.: Wohnen in München IV, a) Erfahrungsbericht für das Jahr 2007 mit Ergänzungen (Bekanntgabe), b) Beschlussteil (Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.10.08), Schr. Planungsreferat v. 04.12.08
+- TOP 6.4.: Unterlagen zu den Fortbildungsveranstaltungen des Planungsreferates, Schr. Direktorium v. 11.12.08
+- TOP 6.5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV / 21 Bodenseestraße (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostraße (nördlich) - Gleisdreieck Pasing-, Endgültiger Beschluss, Schr. Planungsreferat v. 05.12.08
+- TOP 6.6.: Winterdienst in der Wertheimer Straße, Schr. KVR v. 02.12.08
+- TOP 6.7.: Planfeststellung nach dem Personenbeförderungsgesetz; Straßenbahn-Neubaustrecke der Stadtwerke München GmbH in München zwischen Effnerplatz und St. Emmeran, Schr. Planungsreferat v. 10.12.08
+- TOP 6.8.: Zweckentfremdung von Wohnraum, Veitshöchheimer Weg 6, Schr. Sozialreferat v. 11.12.08
+- TOP 6.9.: Verlegung der Bushaltestelle Langwied (S) (MVG-Linie 143 Richtung Riesenburgstraße) in die P+R-Anlage, Schr. KVR v. 12.11.08
+- TOP 6.10.: Einrichtung eines Behindertenparkplatzes vor dem ASZ Aubing, Am Aubinger Wasserturm 30, Schr. KVR v. 10.12.08
+- TOP 6.11.: Ableitung des Baustellenverkehrs bei Baubeginn in Freiham, Schr. KVR v. 09.12.08
+- TOP 6.12.: Mitteilung über ein Grundstücksgeschäft, Schr. Kommunalreferat v. 15.12.08
+- TOP 6.13.: Einzelhandelsentwicklung an der Heimburgstraße und an der Stockacher Straße, Schr. BA 21 Pasing-Obermenzing v. 17.12.08
+- TOP 6.14.: Verbesserung der Verkehrsregelung an der Schussenrieder Straße, Schr. KVR v. 18.12.08
+- TOP 6.15.: Planfeststellung nach §18 AEG; Erneuerung Bahnübergang Km 12,6 "Waldweg" der Bahnstrecke München-Pasing-Buchlohe, Strecke 5520, Stellungnahme des Planungsreferats v. 30.12.08
+- TOP 6.16.: Querungsmöglichkeit für Fußgänger an der Radolfzeller Str., Schr. KVR v. 16.12.08
+- TOP 6.17.: BA-Information Stockacher Straße v. 15.12.08, Schr. Planungsreferat v. 19.12.08
+- TOP 6.18.: Immobiliengesuch - Gewerbe, Schr. Firma Unertl v. 17.12.08
+- TOP 6.19.: Verkehrssicherungspflicht des öffentlichen Feld- und Waldweges, FlNr. 8/5 Gemarkung Aubing, Schr. Baureferat v. 29.12.08
+- TOP 6.20.: Beteiligung der Öffentlichkeit - Frühzeitige Unterrichtung über das Plangebiet: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2014 - Autobahnkreuz München West (südlich), Bundesautobahn A8 (südwestlich), Mooswiesenstr. (westlich), Mühlangerstr. (nördlich), Berglwiesenstr. (östlich), Bundesautobahn A99 (südöstlich) (Teiländerung des Bebauungsplanes Nr. 1066)
+- TOP 8.1.: Erfahrungsaustausch mit den BA-Vorsitzenden am 28.11.08, Schr. OB Ude vom 08.12.08
+- TOP 8.2.: Informationsmaterial zum BA-Infoabend vom 13.11.08 - Kommunales Wohnungsbauprogramm, Schr. Sozialreferat vom 05.01.09
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 26.11.08: Klarheit über die zweite S-Bahn-Stammstrecke schaffen (UA Planung)
+- TOP 10.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV) (UA Planung)
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Perspektive München, Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung; Grundsatzbeschluss (UA Planung)
+- TOP 10.4.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Klimaschutzfahrplan 4: Ökologische Mustersiedlung (UA Planung)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Sonderflughafen Oberpfaffenhofen (UA Planung)
+- TOP 10.6.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 03.12.08: Perspektive München; Aktualisierung Leitlinie Ökologie, Themenschwerpunkt Klimawandel und Klimaschutz (UA Planung)
+- TOP 10.7.: Beschluss der Vollversammlung des Stadtrates vom 17.12.08: Haushaltsplan 2009, Ansätze der zentralen Bereiche, Schlussabgleich
+- TOP 10.8.: Beschluss der Vollversammlung des Stadtrates vom 17.12.08: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LH München
+- TOP 10.9.: Beschluss der Vollversammlung vom 17.12.08: Schutz der Münchner Vorgärten (UA Planung)
+- TOP 10.10.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.08: Verkehrsentwicklungsplan - Übersicht wichtiger Vorhaben der Maßnahmenkonzepte, Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MiV) (in der BA-Sitzung vom 17.12.08 an den UA Planung, Umwelt, Bau und Verkehr verwiesen)
+- TOP 10.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: Bahnübergang "Waldweg" im Stadtteil Aubing erhalten (UA Planung)
+- TOP 10.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: S-Bahn-Stammstrecke München - a) Zwischenbericht und b) Stadtratsanträge (UA Planung)
+- TOP 10.14.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler- und Klassenzahlen an den städt. Realschulen, den staatl. Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2008/2009 (UA Soziales)
+- TOP 10.15.: Bekanntgabe im Schu- und Sportausschusses vom 14.01.09: Schüler- und Klassenzahlen an den städt. und staatl. Gymnasium sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/2009 (UA Soziales)
+- TOP 10.17.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler- und Klassenzahlen der öffentl. Grund-,Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/2009 (UA Soziales)
+- TOP 10.18.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/2009 (UA Soziales)
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 18.02.09 um 19:30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13.: Nichtöffentliche Sitzung
+- TOP 10.16.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler/innen und Klassenstand; Berufliche Schulen der LHM im Schuljahr 2008/2009 (UA Soziales)
