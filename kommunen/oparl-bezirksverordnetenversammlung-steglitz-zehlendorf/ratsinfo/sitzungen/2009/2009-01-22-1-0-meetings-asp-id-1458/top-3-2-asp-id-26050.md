@@ -1,0 +1,8 @@
+# TOP 3.2: Freie Träger ins Umweltentlastungsprogramm Berlin
+
+- Sitzung: 17. öffentliche Sitzung des Umweltausschusses (2009-01-22)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=26050
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=26050
