@@ -1,0 +1,128 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2009-01-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1544859
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1544859
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1.1.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch den Förderverein Festring Trudering e.V. i.H.v. 1.250,00 Euro
+- TOP 1.2.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des Bezirksausschusses 15 Trudering-Riem durch die Chorgemeinschaft St. Peter und Paul Trudering i.H.v. 1.265,00 Euro
+- TOP 3: (E) Wiederherstellung / Erneute Einrichtung der Werstoffinsel St.-Augustinus-Straße/Haffstraße Empfehlung Nr. 08-14 / E 00151 der Bürgerver- sammlung des Stadtbezirkes 15 - Trudering-Riem am 30.10.2008 Vorverlegung der Glas-,/Kunststoff-/Aluminium- Abfallcontainer zum Anfang der Emil-Nolde-Straße (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 00148 der Bürgerver- sammlung des Stadtbezirkes 15 - Trudering-Riem am 30.10.2008
+- TOP 2.1.: Städtische Gymnasien / Sprengel
+- TOP 2.2.: Spatzennest e.V, Sicherheit der Kindergartenkinder, Pollergenehmigung
+- TOP 2.3.: Städtische Kindertagesstätte Turnerstraße - Errichtung eines Schallschutzzauns
+- TOP 3.1.: Riemer See: Stromverbrauch für die Grundwasserspeisung, Wasserqualität und Wasservögelpopulation
+- TOP 3.2.: Hollerithstraße 7-8, Neubau eines Gewerbe- und Büroparks mit Parkhaus und Tiefgarage - Gestaltung eines Fußweges
+- TOP 3.3.: Weitere Beachvolleyballfelder am Ostufer des Riemer Sees
+- TOP 3.4.: Verbesserung der Situation an Parkausgängen, Antrag Nr. 08-14 / B 00629
+- TOP 3.5.: Hunde im Riemer Park (Runder Tisch) - Schaffung einer Bade-/Trinkgelegenheit; Umrüstung der Mülleimer
+- TOP 3.6.: Perspektiven für das Haus der Gegenwart und den Tribünenkopfbau
+- TOP 3.7.: Rettungswache Trudering
+- TOP 3.8.: Antrag auf Untersagung von lärmbelästigenden Großveranstaltungen im Riemer Reitstadion, Antrag Nr. 08-14 / B 00381
+- TOP 3.9.: Fuß- und Radwege an der Friedenspromenade, Antrag Nr. 02-08 / B 02000
+- TOP 3.10.: Fußgängerampel für die Haltestelle "Halligenplatz", Antrag Nr. 08-14 / B00380
+- TOP 3.11.: München Triathlon 2008 (3 Bürgerschreiben)
+- TOP 3.12.: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit, Empfehlung Nr. 02-08 / E 01005 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 27.11.2007 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008
+- TOP 3.13.: Bebauungspläne für Bestandsgebiete in Trudering, Antrag Nr. 08-14 / B 00533
+- TOP 3.14.: Verlagerung der BMW-Niederlassung an der Wasserburger Landstraße, Antrag Nr. 08-14 / B 00401
+- TOP 3.15.: Abriss Kinderspielgeräte in der Haffstraße, Antrag Nr. 08-14 / B 00384
+- TOP 3.16.: Runder Tisch zur Sportflächensituation in Trudering, Antrag Nr. 02-08 / B 02808
+- TOP 3.17.: Planungen für das Gymnasium Trudering, Antrag Nr. 02-08 / B 02990
+- TOP 3.18.: Weiterer Bau-Ärger an der Lehrer-Wirth-Schule: Sperrung wichtiger Räume aus Brandschutzgründen
+- TOP 3.19.: Schreiben der MVG an den Schulleiter des Ernst-Mach-Gymnasiums bezüglich der Buslinie 193
+- TOP 3.20.: Schreiben der MVG bezüglich der neuen Haltestelle in der Wasserburger Landstraße 34
+- TOP 3.21.: 1. Kunst in der Messestadt Riem; Fortsetzung der Maßnahme 2. Realisierung und Wartung permanenter Kunst im öffentlichen Raum - mirbau'n in der Messestadt Riem BA-Antrag-Nr. 02-08 / B 02988 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 13.03.2008 - Panorama-Tafelelement Alpenkette auf dem Rodelberg in der Messestadt BA-Antrag-Nr. 02-08 / B 02989 des Bezirksausschusses des Stadtbezirkes 15 - Trudering-Riem vom 13.03.2008 Beschluss des Kulturausschusses vom 11.12.2008
+- TOP 3.22.: Lärmschutz an der A 94 durch eine Solarstromanlage, Antrag Nr. 1701 des Bezirksauschusses 15 vom 18.12.2003; Beschluss des Bauausschusses vom 09.12.2008
+- TOP 3.23.: Einführung einer "Kurzstrecke 2" für Fahrten mit der S-Bahn durch zwei Tarifzonen
+- TOP 3.24.: Schlittschuhlaufen auf dem Willy-Brandt-Platz; Antrag Nr. 08-14 / B 00725
+- TOP 3.25.: Ausweisung der Straße "Schrammingerweg" als Fahrradstraße; Beschluss des Bezirksausschusses 15 vom 24.07.08 (Top 1.2/,09/08), BV-Empfehlungen Nrn. 02-08 / E 00650 und 02-08 / E 00651
+- TOP 4.1.: Alleepflanzung entlang der Friedenspromenade - Patenschaftsbäume
+- TOP 4.2.: Planungen zum gymnasialen Ganztagesangebot im Münchner Osten
+- TOP 4.3.: Energiekonzept für das künftige Gymnasium in Trudering
+- TOP 4.4.: Christbaumverkauf auf städtischen Flächen
+- TOP 5.1.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO - Errichtung eines Halteverbots Hanns-Schwindt-Straße
+- TOP 5.2.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO - Errichtung eines Halteverbots Paul-Wassermann-Straße
+- TOP 5.3.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO - Errichtung eines Halteverbots Karpfenstraße
+- TOP 5.4.: Anhörung gemäß § 29 der Straßenverkehrsordnung (StVO); Hier: Faschingstreiben Ruaßiger Samstag in der Kirchtruderinger Straße am 21.02.2009
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/2009; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 14.01.2009
+- TOP 7.2.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/2009; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 7.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule im Schuljahr 2008/2009; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 7.4.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2008/2009; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 7.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/2009; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Gemeinde Haar - Bebauungsplan Nr. 183
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.2.: Errichtung eines Parkverbots am Schatzbogen (östlicher Fahrbahnrand) zwischen Kreillerstraße und Halfinger Straße
+- TOP 7.3.: Sanierung des Wald-/Wanderweges zwischen "Am Hochacker" und "Fauststraße"
+- TOP 7.4.: Anhörung gemäß § 9 der Satzung für die Bezirksausschüsse: Schwablhofstraße (Umbau), U-1635 (Neubau) mit Antrag Nr. 08-14 / B 00261
+- TOP 7.5.: Anhörung gemäß § 9 der Satzung für die Bezirksausschüsse: Bajuwarenstraße (BPl 1758)
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Kurzbericht / Dank zum Bewilligungsbescheid für den Tag der offenen Tür bei der Freiwilligen Feuerwehr Riem
+- TOP 7.2.: Beschaffung einer Hebebühne für das Bürgerzentrum Trudering e.V. aus dem Budget des Bezirksausschusses 15 (Top 1.3/12/08) - Stellungnahme Sicherheitstechnischer Dienst (POR-SITECHD)
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Solalindenstraße, Am Moosfeld, Wasserburger Landstraße, Dachsteinstraße, Waterbergstraße, Isarlandstraße
+- TOP 8.2.: Reiherweg
+- TOP 8.3.: In der Heuluss
+- TOP 8.4.: Chammünsterstraße
+- TOP 8.5.: Am Birkicht
+- TOP 8.6.: Veronikastraße
+- TOP 8.7.: Solalindenstraße
+- TOP 8.8.: Heilwigstraße
+- TOP 8.12.: Mona-Lisa-Straße
+- TOP 8.13.: Stieglitzweg
+- TOP 8.14.: Salzmesserstraße
+- TOP 8.15.: Möwestraße
+- TOP 8.16.: Tangastraße
+- TOP 8.17.: Hermann-Schaller-Straße
+- TOP 8.18.: Xaver-Weismor-Straße
+- TOP 8.22.: Edeltraudstraße
+- TOP 9.1.: Termine und Mitteilungen durch die BA-Vorsitzende
+- TOP 9.2.: Erfahrungsaustausch mit den Bezirksausschussvorsitzenden am 28.11.08
+- TOP 9.3.: BA-Sitzungstermine und BV-Termine für das Jahr 2009
+- TOP 9.4.: Rauchbelästigung in Alt-Riem aufgrund der Verbrennung von Gegenständen in der Schusterbauerstraße
+- TOP 9.5.: Genehmigung von Containerstandorten gem. der Grünanlagensatzung der LHM (Top 5.3/12/08)
+- TOP 9.6.: Vollzug der Straßenverkehrsordnung (StVO); hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund, Gnadenwaldplatz
+- TOP 9.7.: Ausschreibung zur Ausrichtung des Weltkindertages 2009 "Kinder haben Rechte"
+- TOP 9.8.: Rückgabe des Reserve-Notquatiers für Wohnungslose in der Karl-Schmidt-Straße
+- TOP 9.9.: Neubau von 3 Gymnasien in München Genehmigung des Standardraumprogramms für ein 4-zügiges Gymnasium; Beschluss des Schul- und Sportausschusses des Stadtrates vom 14.01.2009
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 24.11.08 - 11.01.09
+- TOP 10.2.: Zuwendungsbewilligung aus dem Budget des BA 15 für Miteinander in Trudering e.V. i.H.v. 6.400,00 Euro
+- TOP 10.3.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Villa Romantica, Wasserburger Landstraße 212
+- TOP 10.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Zuwegung zu den Anwesen Nr. 56 - 62 in der Evereststraße
+- TOP 10.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Kurzparkzone Wasserburger Landstraße
+- TOP 10.6.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem - Widmung der Gesamtstrecke der Oslostraße; Beschluss des Bezirksausschusses 15 Trudering-Riem vom 18.09.2008
+- TOP 10.7.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem - Widmung der Gesamtstrecke der Straße "Sigmund-Riefler-Bogen"; Beschluss des Bezirksausschusses 15 Trudering-Riem vom 18.09.2008
+- TOP 10.8.: U-Bahn-Linie 2-Ost Bahnhof Innsbrucker Ring bis Bahnhof Messestadt Ost, Verstärkung der Fahrstromversorgung; Beschluss der Vollversammlung des Stadtrats vom 17.12.2008
+- TOP 10.9.: Öffentliche Grünanlage an der Graf-Lehndorff-Straße im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1417 a; Beschluss des Bauausschusses vom 09.12.2008
+- TOP 10.10.: Lichtzeichenanlagen-Bauprogramm 2008; Beschluss des Kreisverwaltungsausschusses vom 16.12.2008
+- TOP 10.11.: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München; Beschluss der Vollversammlung des Stadtrats vom 17.12.2008
+- TOP 10.12.: Abbau des Investitionsstaus auf städtischen und Vereinssportanlagen / Sportinfrastruktur stärken II; Beschluss der Vollversammlung des Stadtrates vom 26.11.2008
+- TOP 10.13.: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÜPNV) und Motorisierter Individualverkehr (MIV); Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008
+- TOP 10.14.: 2. S-Bahn-Stammstrecke München a) Zwischenbericht b) Stadtratsanträge Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009
+- TOP 10.15.: Messestadt Riem 4. Bauabschnitt Wohnen, Ergebnis des städtebaulichen und landschaftsplanerischen Wettbewerbs; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 8.21.: Lebzelterstraße
+- TOP 8.20.: Friedenspromenade
