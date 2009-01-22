@@ -1,0 +1,82 @@
+# 22. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-01-22T17:30:00+01:00
+- Ende: 2009-01-22T21:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1847
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1847
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=68348
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Baumaßnahmeplanung 2009 - beantwortet
+- TOP 5.2: Mittes Straßen und Plätze als Heizpilzschutzgebiet? - beantwortet
+- TOP 5.3: Modenschau am Mahnmal - beantwortet
+- TOP 5.4: Abrissarbeiten in der Müllerstr. 48 - beantwortet
+- TOP 5.5: Sicherungskosten für das ehemalige Hertha-Domizil - schriftlich beantwortet
+- TOP 5.6: Aufwertung der Freiflächen rund um den Fernsehturm - schriftlich beantwortet
+- TOP 5.7: Kinderwunschzentrum für immer ade? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Will der Bezirksbürgermeister Schulen in freier Trägerschaft verbieten? - beantwortet
+- TOP 6.2: Falsche Versprechen? - beantwortet
+- TOP 6.3: Kanzleramtsrunde zur Bildungsmisere in Mitte: Das Bezirksamt ist außen vor - in der BVV zurückgezogen
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Mitte vor dem bildungspolitischen Aus? - beantwortet
+- TOP 7.2: Lehrter Straße 67 / Seydlitzstraße 21/22 : BewohnerInnen-Vertreibung made in Wilhelmstraße? - schriftlich beantwortet
+- TOP 7.3: Der Alex ist der Alex ist der Alex - schriftlich beantwortet
+- TOP 7.4: Preiserhöhung für das Schulessen – werden Eltern Verträge kündigen? - schriftlich beantwortet
+- TOP 7.5: Trödelmarkt auf dem Leopoldplatz - schriftlich beantwortet
+- TOP 7.6: Mehr Chancen – bessere Zukunft: Mehr Schulabschlüsse für junge Menschen in Mitte - schriftlich beantwortet
+- TOP 7.7: „Klein Luxemburg“ in der Lehrter Straße - schriftlich beantwortet
+- TOP 7.8: „Verspielter“ Wedding - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf 1-16 VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-16 VE - überwiesen
+- TOP 9.2: Bebauungsplanentwurf 1-39 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Fest-setzung des Bebauungsplanes 1-39 - überwiesen
+- TOP 9.3: Wahl eines Bezirksamtsmitgliedes - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Bebauungsplan 1-12 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-12 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: "Brandschutz" in den Schulen von Mitte - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Barrierefreier Zugang - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Geschichte erleben - überwiesen
+- TOP 12.3: Nutzungspflicht Zentrale Vergabestelle - überwiesen
+- TOP 12.4: Chance für Sommerbad Seydlitzstraße? - überwiesen
+- TOP 12.5: Schulstruktur nicht verordnen - überwiesen
+- TOP 12.6: Rad- und Wanderweg Panke - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Unterstützung der Weiterentwicklung des Westhafens - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Projekt Öffentlicher Beschäftigungssektor – ÖBS im Bereich der ethnischen Ökonomie - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Moderne Freizeitform für junge Menschen in Mitte etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: ÖBS Projekt - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Attraktivität des Zentralen Festplatzes erhöhen – Erdwall abtragen - in der BVV abgelehnt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Grundschule am Koppenplatz - Ersatzstandort für das Theaterhaus Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Entwicklung eines Berufsbildungskonzeptes für sozial benachteiligte junge Menschen mit hohem sozialpädagogischem Betreuungsbedarf (inklusive einer Finanzierung durch das JobCenter Mitte und die Abteilung Jugend und Finanzen des Bezirksamtes Mitte) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Solidarität mit dem tibetischen Volk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Wilhelmstraße - innerstädtisches Wohnen sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Teilnahme des Bezirks Mitte an der Initiative "Alter schafft Neues" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.6: Zuwendungsregister in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Welterbe als Leuchtturm nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Mehr Fahrradständer auf den Alex - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Bedarfsorientierte Ausstattung mit Schulhelfer/innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Unterstützung der Haushaltsberatungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Vertrag zur Betreibung der Wasserflächen am Potsdamer Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Beschluss über das Ergebnis der frühzeitigen Behörden- und Öffentlichkeitsbeteiligung, die Durch-führung der Behördenbeteiligung gemäß § 4 Abs. 2 BauGB des Bebauungsplans II-125-1VE - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Beschlüsse zur Aufstellung der Bebauungspläne 1-51, 1-52, 1-53 1-54, 1-55, 1-56, 1 57, 1-58 und 1-59 im Bezirk Mitte, Ortsteil Mitte, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, die Beteiligung der Behörden gemäß §4 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Beschluss über das Ergebnis der öffentlichen Auslegung und die Durchführung der erneuten öffentlichen Auslegung gemäß § 4a Abs. 3 Satz 3 i.V.m.§ 3 Abs. 2 BauGB des Bebauungs-plans 1-18B - mit Abschlussbericht zur Kenntnis genommen
