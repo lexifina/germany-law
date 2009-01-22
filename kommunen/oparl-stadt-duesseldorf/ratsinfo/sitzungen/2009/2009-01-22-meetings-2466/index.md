@@ -1,0 +1,64 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-01-22T16:00:00+01:00
+- Ende: 2009-01-22T18:53:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2466
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2466
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126055.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126055.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126055.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschift vom 04.12.2008 - einstimmig beschlossen
+- TOP 3: Erweiterung des Taubenturms Eller-Mitte - mehrheitlich beschlossen
+- TOP 4: Umgestaltung der Verkehrsfläche Am Turnisch / Reisholzer Straße - vertagt
+- TOP 5: FNPÄ 141-Elbsee-Öff.bet - einstimmig beschlossen
+- TOP 6: Zuschuss an den Unterbacher Tennisclub e.V. - einstimmig beschlossen
+- TOP 7: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8, hier: Initiativkreis Unterbacher Kulturtage e.V. - einstimmig beschlossen
+- TOP 8: Sportanlage Niermannsweg (SC Unterbach) 2. KR B+F - beantwortet
+- TOP 9: Skater-Anlage im Stadtbezirk 8 - beantwortet
+- TOP 10: Kath. Jugendbildungsstätte St. Swidbert - beantwortet
+- TOP 11: Ausbau Rothenbergstraße - beantwortet
+- TOP 12: Parksituation Gatherweg - beantwortet
+- TOP 13: Wohnungsbestände im Stadtbezirk 8 - beantwortet
+- TOP 14: Postfiliale Gumbertstraße - beantwortet
+- TOP 15: Gelände Sturmstraße / Sodener Weg - beantwortet
+- TOP 16: Sanierung der S-Bahnhöfe Eller und Eller-Süd - beantwortet
+- TOP 17: Masterplan Spielplätze - beantwortet
+- TOP 18: Fahrbahninstandsetzungen - beantwortet
+- TOP 19: Alarm- u. Gefahrenabwehrplan Bayer-CO-Pipeline - mehrheitlich abgelehnt
+- TOP 20: LEG-Wohnungen - mehrheitlich abgelehnt
+- TOP 21: Bewertung und Schlussfolgerung zur rechtsextremen Gewalt - einstimmig abgelehnt
+- TOP 22: Verkehrsberuhigung "Am Pfaffenbusch" - mehrheitlich abgelehnt
+- TOP 23: Rheinbahn-Wartehallen in Unterbach - zurückgezogen
+- TOP 24: Zweckverband Unterbacher See - einstimmig beschlossen
+- TOP 25: Bushaltestelle "Friedhof Unterbach" - Zebrastreifen - mehrheitlich abgelehnt
+- TOP 26: S-Bahnhof Eller-Süd - Fahrradständer - einstimmig beschlossen
+- TOP 27: Parkpflegewerk Schloss Eller - einstimmig beschlossen
+- TOP 28: Grundwasserkataster - einstimmig beschlossen
+- TOP 29: Fußgängerübergänge Kreuzung Heidelberger Str. / Schlossallee - vertagt
+- TOP 30: Straßenschäden im Stadtbezir 8 - einstimmig beschlossen
+- TOP 31: Parkmarkierungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Fußweg Schlossallee zur Dieter-Forte-Gesamtschule - zur Kenntnis genommen
+- TOP 33: Feuerwache / Sirenenwarnsystem in Unterbach - zur Kenntnis genommen
+- TOP 34: Widmung von Straßen - zur Kenntnis genommen
+- TOP 35: Probeweise Öffnung der Einbahnstraßen Bebelstraße, Erlenkamp und Lassallestraße für Radfahrer - zur Kenntnis genommen
+- TOP 36: CO-Pipeline - zur Kenntnis genommen
+- TOP 37: Gleiskörper Kuthsweg - zur Kenntnis genommen
+- TOP 38: Turnhalle GHS Bernburger Straße - zur Kenntnis genommen
+- TOP 39: Stadtbahnhaltestelle Betriebshof Eller - zur Kenntnis genommen
+- TOP 40: Masterplan Schulen, Programm 2009 und 2010 - zur Kenntnis genommen
+- TOP 41: Baumfällungen an der Südlichen Düssel - zur Kenntnis genommen
+- TOP 42: Ampelschaltung Bernburger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 43: Maßnahmen zur Förderung des Radverkehrs im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 44: Sonnenschutzplätze Unterbacher See - zur Kenntnis genommen
+- TOP 45: Papierkörbe Unterbacher See - zur Kenntnis genommen
+- TOP 46: Monckartzhofweg - Sitzbänke - zur Kenntnis genommen
+- TOP 47: Fläche Posener Straße / Breslauer Straße / Richardstraße - zur Kenntnis genommen
