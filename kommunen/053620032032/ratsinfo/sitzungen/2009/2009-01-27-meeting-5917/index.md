@@ -1,0 +1,54 @@
+# Ausschuss für Stadtplanung und Verkehr (32. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-01-27T17:00:00+01:00
+- Ende: 2009-01-27T19:56:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZR5Cp93Mrvalie3Vtkj-XFo
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/5917
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZexkb7GGuaTFJm4HjG8nKn5WDm2RMjWQ4RjGNLrz4skO/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_27.01.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 02.12.2008
+- TOP 2.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 2.1: Anregung und Beschwerde nach § 24 GO NRW zum Manheim Vertrag
+- TOP 2.2: Anregungen und Beschwerden gem. § 24 GO NRW hier: Übernahme der Kosten für eine Grundrechtsklage und ggf. auch für eine Verfassungsbeschwerde
+- TOP 2.3: Anregung und Beschwerde gem. § 24 GO NRW hier:Straßenführung über den "Heidefließ" zur Tennishalle, Tessiner Stuben, SSK und zum TC Kerpen
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Niederschrift der 18. Sitzung des Bürgerbeirates Manheim
+- TOP 3.2: Städtebauliche Planung für den Umsiedlungsort - Beschluss zu den Strukturkonzepten und dem Abgrenzungsvorschlag des Braunkohlenplanentwurfs
+- TOP 3.3: Bericht der Verwaltung
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Entwicklung des Stadtteils Kerpen - Perspektive 2020
+- TOP 4.2: Gewerbeflächenkonzept für die Stadt Kerpen
+- TOP 4.3: Standort Kita in der SEM Kerpen-Sindorf, Vogelrutherfeld
+- TOP 4.4: Namensgebung der Wege im Marienfeld
+- TOP 4.5: Horrem 2010 -Bahnhof Horrem- hier: Anträge der FDP-Fraktion
+- TOP 4.6: Einrichtung des Arbeitskreises Ortsentwicklung Sindorf
+- TOP 4.7: Standort eines Senioren- und Pflegezentrums im Stadtteil Sindorf
+- TOP 4.8: Antrag auf Einleitung der vorhabenbezogenen Bauleitplanverfahren zur Errichtung eines "Klinikparks" in Kerpen-Horrem
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 257 "Bolzplatz Vogelrutherfeld", Stadtteil Sindorf; hier: Beschluss zur Offenlage
+- TOP 5.2: Vorhabenbezogener Bebauungsplan KE 267 B/ 1. Änderung "Stiftsstraße/ Filzengraben" im Stadtteil Kerpen hier. Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.3: Bebauungsplan KE 332 "Hahnenstraße" im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.4: Bebauungsplan BP TÜ Nr. 246/ 3. Änderung "Gewerbe-/Industriegebiet Ville" im Stadtteil Kerpen Türnich hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.5: Sachstand Am Falder/Auf dem Bürrig
+- TOP 5a: Verkehrsplanung
+- TOP 5a.1: Einrichtung einer Bürgerwerkstatt zur Verkehrssituation Hermann-Löns-Straße / Danzinger Straße / Plauener Straße / Breslauer Straße
+- TOP 6.: Mitteilungen
+- TOP 6.1: S-Bahn Anschluss Kerpen/Manheim-neu, "Kerpener C", weiterer Haltepunkt Höhe Geilrath
+- TOP 7.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 7.1: Verlegung der Hochspannungsleitung nördlich von Buir/Manheim
+- TOP 7.2: Sachstand Am Falder/Auf dem Bürrig
+- TOP 7.3: Energiekompetenzzentrum Kerpen-Horrem
+- TOP 7.4: Nahverkehrsplan Rhein-Erft-Kreis
+- TOP 7.5: Lärmmessung in Buir / Sindorf
+- TOP 8.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
