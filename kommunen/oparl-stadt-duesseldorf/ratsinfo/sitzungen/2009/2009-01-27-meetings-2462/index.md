@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-01-27T17:00:00+01:00
+- Ende: 2009-01-27T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2462
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2462
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126057.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126057.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126057.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Stadtteilbücherei Gerresheim
+- TOP 4: Umgestaltung Am Gartenkamp und Anschluss an die Bergische Landstraße (B7)
+- TOP 5: Luftreinhalteplan, Feinstaubbelastung, Emissionsschutz
+- TOP 6: Parkplatz Sportanlage Dreherstraße
+- TOP 7: Masterplan Schulen, Programm 2009 und 2010
+- TOP 8: Verwendung von Haushaltsmitteln
+- TOP 9: Sachstandsbericht zur Parkraumbewirtschaftung
+- TOP 10: Verbindungsweg Heckteichstraße/Düssel ("Matschweg")
+- TOP 11: Dorfplatz Hubbelrath
+- TOP 12: Sachstandsbericht L 404 n
+- TOP 13: Baugebiet Marie-Curie-Straße
+- TOP 14: Wirtschafts- und Wanderweg Forster Weg
+- TOP 15: Parkplätze Friedhofszufahrt Rotthäuser Weg
+- TOP 16: Bebauungsplan Mühlenbergweg
+- TOP 17: Papierbündelsammlungen
+- TOP 18: Verkehrstechnische Überlastung der Bergischen Landstraße
+- TOP 19: Bankenservice und Banken-Arbeitsplätze erhalten
+- TOP 20: Keine Zwangsumzüge für Hartz-IV-Kinder
+- TOP 21: Bewertung und Schlussfolgerungen zur rechtsextremen Gewalt
+- TOP 22: Sicherheit Nach den Mauresköthen
+- TOP 23: Verkehrssicherheit Heyestraße
+- TOP 24: Bebauung Grundstück Diepenstraße - ehemalige Containeranlage -
+- TOP 25: Instandsetzung des Fußweges an der nördlichen Düssel
+- TOP 26: Sachstandsbericht zur Ludenberger Straße
+- TOP 27: Mehrgenerationenflächen
+- TOP 28: Sanierung S-Bahnhof Gerresheim I
+- TOP 29: Sanierung S-Bahnhof Gerresheim II
+- TOP 30: Sachstandsbericht Gerresheimer Bahnhof
+- TOP 31: Flüsterasphalt in der Ludenberger Straße
+- TOP 32: Verkehrssicherheit östlicher Abschnitt Bergische Landstraße
+- TOP 33: Sichtachse Forster Weg / Marthastraße / Rennbahn
+- TOP 34: Sicherheit für Mieter in den LEG-Häusern
+- TOP 35: Anlieger-Parkausweise Benderstraße
+- TOP 36: Sicherheit der CO-Pipeline im Bereich des Dahlhofbaches
+- TOP 37: Verbesserung der Einkaufsmöglichkeiten auf der Dreherstraße
+- TOP 38: Sportanlage Peckhausweg
+- TOP 39: Abbruchgenehmigung Glashüttengelände
+- TOP 40: Bebauung Gerricusstraße
+- TOP 41: Investitionen aus dem Konjunkturpaket im Stadtbezirk 7
+- TOP 42: Anmeldungen an den Grundschulen
+- TOP 43: LZA Glashüttenstraße/Gödinghover Weg
+- TOP 44: B-Plan 5976 -Nach den Mauresköthen-
+- TOP 45: Verbindungsweg Heckteichstraße - Düssel
+- TOP 46: Schäden an denkmalwerten Gebäuden in Untergerresheim
+- TOP 47: Baumentfernungen
+- TOP 48: Ergebnisse der Haushaltsberatungen 2009
