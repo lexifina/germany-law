@@ -1,0 +1,88 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-01-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631333
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631333
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bauleitplanung für den Bereich Neumarkter Straße
+- TOP 3.1.1.2.: Bebauungsplan mit Grünordung - Aufstellungsbeschluss - Berg-am-Laim-Straße (nördlich), Weihenstephaner Straße (östlich), Streitfeldstraße (nördlich), Neumarkter Straße (beidseits) -Teiländerung der Bebauungspläne Nrn. 82c und 1319
+- TOP 3.1.1.3.: Berg-am-Laim-Straße 125 - Neubau eines Verwaltungsgebäudes mit TG - Tektur
+- TOP 3.1.1.4.: Umwidmung des Baugrundstücks Ursberger Straße 10 in eine öffentliche Grünfläche - <div></div>
+- TOP 3.1.2.1.: Schaltzeiten von Fuß- und Radwegen an Schlüsselberg- und Kreillerstraße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Ausschreibung zur Ausrichtung des Weltkindertages 2009 "Kinder haben Rechte"
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.3.: ESV München Ost, Abteil. Fußball Junioren - Antrag auf Zuschussgewährung
+- TOP 3.5.4.: Theaterprojekt "Frankenstein" i. d. Tonhalle - Antrag auf Zuschussgewährung
+- TOP 3.6.1.: Berg-am-Laim-Straße - Antrag auf Baumfällung
+- TOP 3.6.2.: Pertisaustraße - Antrag auf Baumfällung
+- TOP 3.6.3.: Josephsburgstraße - Antrag auf Baumfällung
+- TOP 3.6.4.: Freilassinger Straße - Antrag auf Baumfällung
+- TOP 3.6.5.: Ellingerweg - Antrag auf Baumfällung
+- TOP 3.6.6.: Hansjakobstraße / Virgilstraße - Antrag auf Baumfällung
+- TOP 3.6.7.: Baumkirchner Straße - Antrag auf Baumfällung
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Haager Straße - Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.3.: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München
+- TOP 4.1.2.1.: 2. S-Bahn-Stammstrecke München a) Zwischenbericht - b) Stadtratsanfrage
+- TOP 4.1.2.2.: Sicherheit in den Münchner Straßentunnels
+- TOP 4.1.2.3.: Optimierung der Fahrradstellplätze infolge der Umwandlung von Kfz-Stellplätzen
+- TOP 4.1.2.4.: Erweiterung Haltverbot in der Sonnwendjochstraße
+- TOP 4.1.2.5.: Sitzgelegenheiten an den Haltestellen Bus 146
+- TOP 4.1.2.6.: Ansprechpartner bei der Straßenplanung im Planungs- und Baubezirk Ost
+- TOP 4.1.3.1.: Emissionsbelastung durch Gewerbebetrieb an der Thomas-Hauser-Straße
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008 / 2009
+- TOP 4.3.2.: Schüler- und Klassenzahlen der öff. Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008 / 2009
+- TOP 4.3.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städtischen Franz-Auweck-Abendschule für das Schuljahr 2008 / 2009
+- TOP 4.3.4.: Schüler/innen und Klassenstand Berufliche Schulen im Schuljahr 2008 / 2009
+- TOP 4.3.5.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 08/09
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: BA-Sitzungstermine und Bürgerversammlungstermine 2009
+- TOP 4.6.1.: Jahresmeldung - Fällen von städtischen Bäumen 2008 / 2009
+- TOP 4.6.2.: Risserkogelstraße - Bescheid zum Vollzug der Baumschutzverordnung
+- TOP 4.6.3.: Hohenbrunner Straße - Bescheid zum Vollzug der Baumschutzverordnung
+- TOP 4.6.4.: Gustav-Schwab-Straße - Gefahrenbaummitteilung
+- TOP 4.6.5.: Bertschstraße - Bescheid zum Vollzug der Baumschutzverordnung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.5.2.: Projektteam der Ludwig-Thoma-Realschule - Antrag auf Zuschussgewährung
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Bereich Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Bereich Baumschutz (2)
