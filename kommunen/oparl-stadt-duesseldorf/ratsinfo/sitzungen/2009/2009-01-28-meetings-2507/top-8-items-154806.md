@@ -1,0 +1,8 @@
+# TOP 8: Sachstand des EU Projektes "Open Cities"
+
+- Sitzung: Ausschuss für regionale und europäische Zusammenarbeit sowie Integration (2009-01-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/154806
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/47525
