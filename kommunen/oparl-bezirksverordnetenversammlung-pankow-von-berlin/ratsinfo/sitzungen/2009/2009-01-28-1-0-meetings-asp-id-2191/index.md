@@ -1,0 +1,79 @@
+# 21. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-01-28T17:30:00+01:00
+- Ende: 2009-01-28T21:20:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2191
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2191
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=33627
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Termin Volksentscheid "Freie Wahl zwischen Ethik und Religion" - vertagt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2005 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Ausstattung der Schulsekretariate - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Solaranlagen auch auf denkmalgeschützte bezirkseigene Gebäude - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Modell zur Zumessung für Hilfen zur Erziehung - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Solaranlagen auch auf Dächern in Gebieten mit Erhaltungsverordnungen in Pankow genehmigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Bushaltestelle im Bereich Revierförsterei Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Städtebaulichen Wettbewerb für das Grundstück Schönhauser Allee 148 / Kastanienallee 97 - 99 ausloben - mit Änderungen in der BVV beschlossen
+- TOP 1.15: Nachschiebeliste zur Anmeldung für die Investitionsplanung 2009 bis 2013 Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Anmeldung für die Investitionsplanung 2009 - 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Barrierefreies Arbeiten der BVV-Arbeit sichern! - überwiesen
+- TOP 1.18: Anschlag auf die Polizeiwache in der Eberswalder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Bürgerfreundliche Öffnungszeiten in Pankows Bürgerämtern - überwiesen
+- TOP 1.20: Ausstellung "Bruderland ist abgebrannt" auch in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Zugang zum Intranet - endlich volle Arbeitsfähigkeit der BVV herstellen! - in der BVV abgelehnt
+- TOP 1.22: Erstellen der drei Gedenktafeln in der Schönholzer Heide bis zum Volkstrauertag 2009 sicherstellen - überwiesen
+- TOP 1.23: Katastrophaler Zustand der Sanitäreinrichtungen an Pankower Schulen - in der BVV abgelehnt
+- TOP 1.24: Bebauungsplan 3-15 "Grünzug Schönholz" besser mit dem Bezirk Pankow abstimmen - überwiesen
+- TOP 1.25: Zwischenbilanz der Aktion "100 Bäume für Pankow" - beantwortet
+- TOP 1.26: Kampf dem Hundekot, öffentlicher Beschäftigungssektor könnte helfen - in der BVV abgelehnt
+- TOP 1.27: Ergänzung der Geschäftsordnung der Bezirksverordnetenversammlung Pankow von Berlin - überwiesen
+- TOP 1.28: DDR-Nostalgie - beantwortet
+- TOP 1.29: Erschließung der Baustellen an der BAB 10 - überwiesen
+- TOP 1.30: Personalentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bauliche Mängel in der Kita "La Cigale" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Trägerschaft Life Science Center Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Zusammenleben im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Interaktiver Kinder- und Jugendstadtplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Gentechnikfreie Kantinen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Sonnenburger Platz ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Life Science Center Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Beschilderung für BA-Gelände Fröbelstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Mitternachtssport - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Jeder Schule ein/e Sozialarbeiter/in - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Kein Verkehrsinfarkt im Prenzlauer Berg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Sicheres Queren der Blankenburger Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Brache aus dem Straßenreinigungsverzeichnis nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Übergang Berliner Allee Höhe Parkstraße sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: 20. Jahrestag der "Maueröffnung" im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Elektronischer Reisepass mit biometrischen Daten (ePass) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Klimakommune 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: GA-Antrag Life Science Center Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Förderung der freien Träger der Jugendhilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Spielleitplanung Kinder und Jugendliche in Pankow modellhaft erproben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Nutzungsentgelterhöhung für zu Wohnzwecken genutzte Parzellen in der Anlage "Blankenburg" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Abschlussbericht zum Fördermittelmanagement Helmholtzplatz und Falkplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Maßnahmeplan zur Sicherstellung der Versorgung mit Grundschulplätzen ab 2010 für die Region 1-3 der bezirklichen Schulentwicklungsplanung 2008, Fortschreibung Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Bebauungsplan XVIII-24-3 vom 01.08.2006 zur Änderung des Bebauungsplans XVIII-24 für das Gebiet zwischen Stadtrandsiedlung Karow / Am Kappgraben, Landesgrenze, Siverstorpstraße, Strömannstraße, der südlichen Grenze des Grundstücks Alt-Karow 30, den Straßen Alt-Karow und Bucher Chaussee sowie für die Siverstorpstraße und einen Abschnitt der Strömannstraße mit Ausnahme des Geländes zwischen der öffentlichen Parkanlage am Hofzeichendamm, Ingwäonenweg, Siverstorpstraße, Gatterweg und dem GrundstückGatterweg 17 im Bezirk Pankow, Ortsteil Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Verordnung über die Veränderungssperre IV-29/3 im Bezirk Pankow, Ortsteil Prenzlauer Berg, für das Grundstück Sredzkistraße 59 / Rykestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Jugendfreizeiteinrichtung Schweizer Garten im Sanierungsgebiet Bötzowviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Vertretung des Bezirks Pankow in der Fluglärmkommission für den Flughafen Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Einstellung der Bebauungsplanverfahren IV-21 und IV-35 - mit Abschlussbericht zur Kenntnis genommen
