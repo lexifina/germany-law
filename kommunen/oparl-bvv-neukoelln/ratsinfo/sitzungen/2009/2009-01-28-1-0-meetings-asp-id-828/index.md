@@ -1,0 +1,90 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-01-28T17:15:00+01:00
+- Ende: 2009-01-28T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=828
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=828
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Entschließungen - erledigt
+- TOP 4: Vorlagen zur Wahl - (offen)
+- TOP 4.1: Wahl von einer Person für den Beirat der Arbeitsgemeinschaft nach § 44 SGB II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Verkehr und Tiefbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Verwaltung und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Berufung von Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Verwaltung und Gleichstellung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Mindestlohn Wachschutz - beantwortet
+- TOP 7.2: Schneebeseitigung - beantwortet
+- TOP 7.3: Brandanschläge in Neukölln - beantwortet
+- TOP 7.4: U-Bahntunnel in Gefahr - beantwortet
+- TOP 7.5: Trägerkarten bei den Bürgerämtern - beantwortet
+- TOP 8: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 8.1: Führungschaos JobCenter - beantwortet
+- TOP 8.2: Erstattung von Unterhaltsvorschüssen - beantwortet
+- TOP 8.3: Zweite Stufe der Umweltzone verschieben - in der BVV abgelehnt
+- TOP 8.4: Umgestaltung Rixdorf: Pragmatisches Ergebnis weiterführen - in der BVV abgelehnt
+- TOP 8.5: Finanzmittel für Neukölln - in der BVV abgelehnt
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Aufstellung von Billboards vor der Regenweiher-Grundschule - in der BVV abgelehnt
+- TOP 9.2: Leistungsfähigkeit der Sonnenallee steigern - Staus verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Fahrbahnmarkierung für Radfahrer - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Haltverbot in der Bergiusstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Schulstationen - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Konversion des Flugfelds Tempelhof im Team gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Bebauung des Tempelhofer Feldes - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Offensive Klimaschutz für Neukölln 1 - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Offensive Klimaschutz für Neukölln 2 - ohne Änderungen in der BVV beschlossen
+- TOP 9.10: Offensive Klimaschutz für Neukölln 3 - ohne Änderungen in der BVV beschlossen
+- TOP 9.11: Elektronischer Reisepass mit biometrischen Daten (ePass) - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Anmeldung des Bezirks Neukölln zur Investitionsplanung 2009-2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Auswirkungen der neuen Einkommenssteuerpflicht für die Neuköllner Kindertagespflegestellen - beantwortet
+- TOP 10.2: Neustruktur des JobCenters - beantwortet
+- TOP 10.3: Öffentlicher Beschäftigungssektor (ÖBS) - beantwortet
+- TOP 10.4: Passt Berlin der Berlin-Pass? - schriftlich beantwortet
+- TOP 11: Große Anfragen - schriftlich - (offen)
+- TOP 11.1: Auswirkungen des Konjukturpakets II auf Neukölln - beantwortet
+- TOP 11.2: Schwimmunterricht an Neuköllner Schulen - schriftlich beantwortet
+- TOP 11.3: Sanierung von Schulen und Kitas - beantwortet
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Öffentlicher Beschäftigungssektor (ÖBS) - überwiesen
+- TOP 12.2: Neukölln soll vom Konjunkturpaket profitieren! - Bildungsinvestitionen in die Hardware - in der BVV abgelehnt
+- TOP 12.3: Stadtverträgliche Bebauung sichern: Berliner Bauordnung ändern - überwiesen
+- TOP 12.4: Neukölln soll vom Konjunkturpaket profitieren! - Sanierung der Psychiatrie des Krankenhauses Neukölln - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Hasenheide soll endlich zur Ruhe kommen - überwiesen
+- TOP 12.6: Anordnung Tempo 30 in der Neuköllnischen Allee - überwiesen
+- TOP 12.7: Mehr Sicherheit in der Sonnenallee für Kinder und Senioren - überwiesen
+- TOP 12.8: Leseschule als Schulversuch - vertagt
+- TOP 12.9: Energieausweis für die bezirklichen Liegenschaften - überwiesen
+- TOP 12.10: Konjunkturprogramm für Neukölln nutzen - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Interkulturelles Leitbild - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Steigerung der Attraktivität des Britzer Damms - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Gehwege erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Keine Bebauung an der Oderstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Radrouten finden - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Offensive Klimaschutz für Neukölln 4 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Böhmisches Dorf barrierefrei gestalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Kita-Plätze bei nicht gezahlten Beiträgen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Autohandelsplatz Tempelhofer Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Anpassung der LZA Johannisthaler Chaussee/Rudower Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: 30 km/h im Neudecker Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Ich geh' zur U! und du? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Internetseiten des Gartenkulturpfades Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Verzicht auf W-LAN in Kinder- und Jugendeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Erhaltungsverordnung "Krugpfuhlsiedlung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Erhaltungsverordnung "Ortskern Rudow" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Ehemaligen Parkplatz für Behinderte wieder einrichten - mit Abschlussbericht zur Kenntnis genommen
