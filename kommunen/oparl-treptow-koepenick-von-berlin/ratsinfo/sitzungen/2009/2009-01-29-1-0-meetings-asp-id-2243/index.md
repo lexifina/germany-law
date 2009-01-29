@@ -1,0 +1,72 @@
+# 26. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-01-29T16:30:00+01:00
+- Ende: 2009-01-29T21:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2243
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2243
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=72446
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten im JHA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für abw - gemeinnützige Gesellschaft für Arbeit, Bildung und Wohnen mbH (SM 901) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Förderverein "Freunde des Anne-Frank-Gymnasiums" (SM 904) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Amtliche Benennung von Zeitschriften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Umgestaltung Platz der Befreiung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Im I. Halbjahr zugelassene über- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: 800 Jahre ohne Heizpilze – der Tradition verpflichtet! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Anwendung des Straßenausbaubeitragsgesetzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Einrichtung eines Newsletters durch das Bezirksamt Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Umlaufsperre an der Zuwegung vom S-Bhf. Wuhlheide zum FEZ - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verlandung der Bänke stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Anmeldung zur Investitionsplanung 2009 bis 2013 - mit Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Arbeitsanweisung des Bezirksamtes Treptow-Köpenick von Berlin zum Umgang der Bezirksverwaltung mit Zuwendungen Privater - AZP - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Standort Adlershof für Hochschule für Schauspielkunst "Ernst Busch" - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Strandbad Rahnsdorf - überwiesen
+- TOP 14.3: Wegweisendes zu Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: In energetische Sanierung investieren - überwiesen
+- TOP 14.5: Beglaubigungen - überwiesen
+- TOP 14.6: Digitalisierung der Friedhofsakten - überwiesen
+- TOP 14.7: Manfred-Bofinger-Bibliothek - überwiesen
+- TOP 14.8: Vorsorgliche Erfassung des Baubedarfs im Bereich Kita - in der BVV abgelehnt
+- TOP 14.9: Jugendhilfeplanung weiterentwickeln - überwiesen
+- TOP 14.10: Verfahren Bürgerhaushalt - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Aktualisierung der bezirklichen Sozialdaten - überwiesen
+- TOP 14.12: Erzieherinnen und Erzieher fest einstellen - überwiesen
+- TOP 14.13: Konjunkturpaket auch für grüne Infrastruktur nutzen - überwiesen
+- TOP 14.14: Änderung von Ampelschaltungen - überwiesen
+- TOP 14.15: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.16: Abbiegepfeil Joachimstraße und Verkehrsberuhigung Annenallee - überwiesen
+- TOP 14.17: Wegweiser am Wuhlewanderweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Ehrenamtliche Mitarbeit von ehemaligen Bezirksamtsbeschäftigten - überwiesen
+- TOP 14.19: Nahversorgungszentrum für die Köllnische Vorstadt - überwiesen
+- TOP 14.20: Gedenktafeln an Sportanlagen - überwiesen
+- TOP 14.21: Radverkehr in Oberspreestraße eindeutig regeln - überwiesen
+- TOP 14.22: Sichtspiegel an der Einmündung Semmelweisstraße - überwiesen
+- TOP 14.23: Kontrolle der Einhaltung des "Apfelsaftgesetzes" - überwiesen
+- TOP 14.24: Bürgertreff Spindlersfeld/Köllnische Vorstadt - überwiesen
+- TOP 14.25: Hinweis auf das Schloss Köpenick am Bahnhof Spindlersfeld - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Stand und Perspektiven der Gesundheitswirtschaft im Bezirk Treptow-Köpenick - beantwortet
+- TOP 15.2: Aktueller Stand Mellowpark - beantwortet
+- TOP 15.3: Wie geht es weiter auf der Insel der Jugend? - beantwortet
