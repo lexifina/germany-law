@@ -1,0 +1,1 @@
+Auf Grund von Art. 4 Abs. 2 Satz 1 des Bayerischen Gesetzes über das Erziehungs- und Unterrichtswesen (BayEUG) in der Fassung der Bekanntmachung vom 7. Juli 1994 (GVBl S. 689, ber. S. 1024, BayRS 2230-1-1-K), erläßt das Bayerische Staatsministerium für Unterricht, Kultus, Wissenschaft und Kunst im Einvernehmen mit dem Staatsministerium der Finanzen folgende Verordnung:
