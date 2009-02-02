@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-02-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1594754
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1594754
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 3.1.: Bebauung Königsdorfer- / Thalkirchner Straße; Neubau eines Parkhauses, sowie Wohnbebauung mit Kooperationseinrichtung und zwei Altenwohngemeinschaften - <div>Zur Kenntnis genommen</div>
+- TOP 3.2.: Bebauung der städtischen Grundstücke an der Königsdorfer- und Thalkirchner Straße; Realisierung eines Kindergartens bzw. einer Kooperationseinrichtung, sowie Wohneinheiten für ambulant betreute Altenwohngemeinschaften und Übergangspflege - <div>Zur Kenntnis genommen</div>
+- TOP 3.3.: Nachnutzung der städt. Kindertagesstätte Johannes-Timm-Str. 9; Sicherung der Räume für ein Eltern- und kleinkindbezogenes soziales Angebot. Schaffung einer Fachpersonalstelle zum Aufbau des niederschwelligen Angebots für Eltern und Kleinkinder und zur Beratung vor Ort. - <div>Zur Kenntnis genommen</div>
+- TOP 3.4.: Satzung über das Verbot der Zweckentfremdung von Wohnraum
+- TOP 3.5.: Gemeinsames Kinderfest BA 6/Freie Turnerschaft München Süd
+- TOP 4.: Schulreferat
+- TOP 1: (E) Kein Einsatz von Megaphonen und sonstigen Beschallungsanlagen - <div>nach Antrag</div>
+- TOP 1.2.: Schüler- und Klassenzahlen
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Genehmigung eines mobilen Fahrradständers; Lindwurmstraße 92 - <div>nach Antrag</div>
+- TOP 6.2.: Parkraummanagement Sendling; Parkscheinautomaten-Standorte - <div>Rückverweisung an Fachausschuss</div>
+- TOP 6.3.: Optimierung der Fahrradstellplätze infolge der Umwandlung von Kfz-Stellplätzen
+- TOP 6.4.: Beschleunigung der Buslinie 54 zwischen Ostbahnhof und Sylvensteinstraße
+- TOP 6.5.: Lichtzeichenanlagen-Bauprogramm 2009; LZA Baumgartner-/ Ganghoferstraße
+- TOP 7.1.: Budgetantrag Sendlinger Kulturschmiede; Höfe Daiserstraße; ? 6030,-
+- TOP 7.2.: Neuer Mieterbeirat
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lindwurmstraße 102
+- TOP 8.3.: Bauvorhaben Königsdorfer Straße 11
+- TOP 8.4.: Bauvorhaben Lindwurmstraße 217
+- TOP 8.5.: Bauvorhaben Lipowskystraße 34
+- TOP 8.6.: Bauvorhaben Thalkirchner Str. 131
+- TOP 8.7.: 38. städtischer Fassadenwettbewerb
+- TOP 8.8.: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen
+- TOP 8.11.: Bauvorhaben Isarauen 8
+- TOP 8.12.: Hearing zum aktuellen Vergleich 2. S-Bahn-Tunnel und S-Bahn-Südring
+- TOP 8.13.: Bauvorhaben Bavariastraße 25
+- TOP 8.14.: Bauvorhaben Thalkirchner Straße 126
+- TOP 8.15.: Bauvorhaben Brudermühlstraße 24-30 / Thalkirchner Straße 133
+- TOP 9.: Baureferat
+- TOP 9.1.: Erstmalige Herstellung der Gehbahn zwischen Urban- und Brudermühlstraße
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.3.: Bauvorhaben Brudermühlstraße 24-30
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Benennung einer Grünfläche an der Einmündung der Dietramszeller Straße in die Bruderhofstraße, Ecke Schäftlarnstraße nach Sigi Sommer BV-Empfehlung Nr. 79 vom 10.07.2008
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 13.1.: Wertstoffcontainerstandort Fritz-Endres-Straße
+- TOP 10.1.: Bauvorhaben Valleystraße 22
+- TOP 10.2.: Bauvorhaben Kyreinstraße 6
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
