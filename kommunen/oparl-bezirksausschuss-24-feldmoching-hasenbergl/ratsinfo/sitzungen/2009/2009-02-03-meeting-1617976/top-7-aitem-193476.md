@@ -1,0 +1,7 @@
+# TOP 7.: Berichte
+
+- Sitzung: BA 24 - Vollgremium (2009-02-03)
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/193476
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/193476
