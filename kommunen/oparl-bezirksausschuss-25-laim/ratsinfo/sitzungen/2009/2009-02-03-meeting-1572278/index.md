@@ -1,0 +1,73 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-02-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572278
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572278
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Parkplätze zwischen Interim und Konditorei Detterbeck (Vertagung aus der BA-Sitzung vom 13.01.09)
+- TOP 1.2.2.: Schaffung einer Entladezone in der Zschokkestr. 69 / 71 (Vertagung aus der BA-Sitzung vom 13.01.09) dazu auch:Antrag auf Bordsteinabsenkung
+- TOP 1.2.3.: Baldiger Umbau des Bahnhofs Laim und Bau der Umweltverbundröhre
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Trambahnhaltestelle Willibaldplatz
+- TOP 2.2.: Bündnis 90 / Die Grünen: Zusammenarbeit Bezirksausschüsse und Sozialbürgerhaus
+- TOP 2.3.: Bündnis 90 / Die Grünen: Mehrzweckgebäude an der Hogenbergstraße / Gespräch mit Vereinen und Institutionen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Beruhigung der Lutzstraße durch Schilder "Zone 30" (Ziffer 1a des Antrages) Empfehlung Nr. 08-14 / E 00199 der Bürger- versammlung des 25. Stadtbezirkes Laim am 25.11.2008 - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage KVR: (E) Einrichtung eines Fußgängerüberweges in der Agnes-Bernauer-Straße auf Höhe des Riegerhofweges (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 E / 00200 der Bürger- versammlung des 25. Stadtbezirkes Laim vom 25.11.08 - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Baureferat: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.07 über die Projektplanung; Projektname: Agnes-Bernauer-Straße zwischen Riegerhofweg und Fürstenrieder Straße (Vertagung aus der BA-Sitzung vom 13.01.09)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 11.11.08: Lichtzeichenanlagen-Bauprogramm für 2009 (Vertagung aus der BA-Sitzung vom 13.01.09)
+- TOP 4.2.: Schreiben KVR vom 09.01.09: Faschingstreiben auf dem Laimer Anger am 21.02.09
+- TOP 4.3.: Schreiben Sozialreferat vom 15.01.09: Neuer Mieterbeirat
+- TOP 4.4.: Schreiben KVR vom 14.01.09: Zeitzusätze an den Haltverbotszonen am Linienweg der MVG-Linie 168 in der Aindorferstraße und Guido-Schneble-Straße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agnes-Bernauer-Str. 103: Neubau eines Wohnhauses / Vorbescheid
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Spielen in der Stadt e.v. vom 15.01.09: Planung der Einsätze der München Sommer SpielAktion 2009
+- TOP 6.2.: Schreiben Sozialreferat vom 09.01.09: Aktionstag für Familien am 15.05.09 unter dem Motto "Zeit für Familie"
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 09.12.08
+- TOP 7.2.: BA-Sitzung vom 13.01.09
+- TOP 7.3.: Gemeinsame Sitzung des UA Bau sowie UA Umwelt und Verkehr vom 28.01.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 21.01.09: Kulturelles Zentrum Laim, Planungen für den zweiten Bauabschnitt (Schreiben BA vom 19.09.08)
+- TOP 8.2.: Schreiben Direktorium vom 16.01.09: Zuwendungsbewilligung aus dem Budget; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.3.: Schreiben Direktorium vom 14.01.09: Zuwendungsbewilligung aus dem Budget; Antragsteller: Daycare gGmbH, Kinderkrippe KiddieCorner
+- TOP 8.4.: Schreiben Direktorium vom 15.01.09: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Familienzentrum Laim
+- TOP 8.5.: Schreiben Direktorium vom 15.01.09: Verwendungsnachweis über Budgetzuschuss; Antragsteller: STÜPS - Laim
+- TOP 8.7.: Schreiben Sozialreferat vom 09.01.09: Wiedereröffnung der städtischen Erziehungsberatungsstelle in Laim
+- TOP 8.8.: Schreiben Sozialreferat vom 05.01.09: Infomaterial zum BA-Infoabend vom 13.11.08 - Kommunales Wohnungsbauprogramm KomPro/B und C
+- TOP 8.9.: Schreiben Sozialreferat vom 20.01.09: Verbot der Zweckentfremdung von Wohnraum
+- TOP 8.10.: Schreiben Stadtwerke München GmbH vom 08.01.09: Baumaßnahmen der SWM, Stromprojekt Landsberger Str. 234-236
+- TOP 8.11.: Schreiben Stadtwerke München GmbH vom 19.01.09: Baumaßnahmen der SWM, Fernwärmeprojekt Fürstenrieder Straße; Änderungen im Terminablauf
+- TOP 8.12.: Schreiben Abfallwirtschaftsbetrieb München vom 16.01.09: Mängel an den DSD-Containerinseln im Gebiet München West
+- TOP 8.13.: Schreiben Planungsreferat vom 12.01.09: Flotowstraße; Neubau 2er Wohneinheiten und 2er Reihenhäuser mit Garagen
+- TOP 8.14.: Schreiben Planungsreferat vom 13.01.09: Fürstenrieder Str. 21 (ehem. Kaufhaus Beck), Umbau in ein Gewerbe- und Geschäftshaus
+- TOP 8.15.: Bautenliste vom 29.12.08-04.01.09 1. Erstantragsverfahren a) Willibaldstr. 7 b) Ofener Straße
+- TOP 8.16.: Bautenliste vom 05.01.-11.01.09: 1. Erstantragsverfahren a) Eckermannstr. 18 b) Geßlerstr. 30 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 103
+- TOP 8.17.: Bautenliste vom 12.01.-18.01.09 1. Erstantragsverfahren a) Rattenhuberstr. 3
+- TOP 8.18.: Schreiben Planungsreferat vom 04.01.09: Liste der beantragten Baumfällungen vom 29.12.08-04.01.09
+- TOP 8.19.: Schreiben Planungsreferat vom 12.01.09: Liste der beantragten Baumfällung vom 05.01.-11.01.09
+- TOP 8.20.: Beschluss der Vollversammlung vom 17.12.08: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 00765)
+- TOP 8.21.: Beschluss der Vollversammlung vom 17.12.08: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 00755)
+- TOP 8.22.: Vollversammlung vom 17.12.08: Klimaschutzfahrplan 4: Ökologische Mustersiedlung (Sitzungsvorlagen Nr. 08-14 / V 04237)
+- TOP 8.23.: Beschluss des Kinder- und Jugendhilfeausschusses vom 13.01.09: Generalinstandsetzungsmaßnahme und Errichtung eines Abenteuerspielplatzes Jugendtreff Laim, Von-der-Pfordten-Str. 59 (Sitzungsvorlagen Nr. 08-14 / V 01462)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen (Sitzungsvorlage Nr. 08-14 / V 01560)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: 2. S-Bahn-Stammstrecke München (Sitzungsvorlagen Nr. 08-14 / V 01487)
+- TOP 8.26.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/2009 (Sitzungsvorlagen Nr. 08-14 / V 01465)
+- TOP 8.27.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/2009 (Sitzungsvorlagen Nr. 08-14 / V 01396)
+- TOP 8.28.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler/innen und Klassenstand, Berufliche Schulen der LH München im Schuljahr 2008/2009 (Sitzungsvorlagen Nr. 08-14 / V 01335)
+- TOP 8.29.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler- und Klassenzahlen an den städt. Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2008/2009 (Sitzungsvorlagen Nr. 08-14 / V 01380)
+- TOP 8.30.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: Schüler- und Klassenzahlen der an den städt. und staatl. Gymnasien sowie an den Schulen des 2. Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/2009 (Sitzungsvorlagen Nr. 08-14 / V 01272)
+- TOP 8.31.: Schriftverkehr aus der BA-Sitzung vom 13.01.09
+- TOP 8.32.: Schreiben Familienzentrum Laim vom 09.01.09: Zuwendung aus dem Budget des BAs; Offene Spielaktion vom 17.-26.09.08, Kurzbericht
+- TOP 1.2: Bürgerpost an den BA
