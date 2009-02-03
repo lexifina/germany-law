@@ -1,0 +1,63 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-02-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1617976
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1617976
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neubesetzung der Unterausschüsse
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Gesamtverein Feldmoching e.V.; Dorffasching am 22.02.2009
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Anhörungen im Einzelfall auf Anforderung: a) Lerchenauer Str. 240 b) Auf den Schrederwiesen 37 c) Leonhard-Bugl-Straße
+- TOP 5.2.: Verkehrslage Lerchenstraße (Internationale Montessori-Schule); Antrag auf Beschilderung / Einrichtung einer Tempo-30-Zone (BA-Antrag-Nr. 08-14 / B 00520 vom 14.10.2008)
+- TOP 5.3.: Planung der Einsätze der Münchner Sommer SpielAktion 2009
+- TOP 5.4.: Neuer Mieterbeirat
+- TOP 5.5.: Puppentheater, Grünanlage Dülferanger vom 13.-21.04.2009
+- TOP 5.6.: Stadtteilwoche Feldmoching-Hasenbergl, Grünanlage Dülferanger vom 03.-10.07.2009
+- TOP 5.7.: Vollzug der Baumschutzverordnung, Bauvorhaben: Leonhard-Bugl-Straße
+- TOP 5.8.: Ankündigung Baumfällungen in der Fasanerie Nord in der Grünanlage Am Reigersbach
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Geothermie für den 24. Stadtbezirk (BA-Antrag-Nr. 08-14 / B 00434 vom 16.09.2008)
+- TOP 6.2.: Beleuchtung für die Fußgängerunterführung an der Herbergstrasse sowie der Zuwegung von Osten/Westen
+- TOP 6.3.: Einrichtung eines Zebrastreifens in der Lerchenstraße Ecke Josef-Frankl-Straße Antrag aus der Kinder- und Jugendsprechstunde des Bezirksausschusses 24 am 30.11.2007
+- TOP 6.4.: Anträge aus der Kinder- und Jugendsprechstunde des Bezirksausschusses 24 - Beleuchtung
+- TOP 6.5.: Schulwegsicherheit an der Max-Wönner-Straße; Stellungnahme der Polizeiinspektion 43
+- TOP 6.6.: Terminänderung der zweiten Vorbereitungssitzung der Stadtteilwoche Feldmoching-Hasenbergl-Nordhaide-Hart 2009
+- TOP 6.7.: Aktionstag für Familien am 15. Mai 2009 unter dem Motto "Zeit für Familie"
+- TOP 6.8.: Unveränderte Fortführung eines Gaststättenbetriebes Eschengarten, Ebereschenstr. 17
+- TOP 6.9.: "Naturschutzgebiet Panzerwiese" - Ergebnisprotokoll 3. Runder Tisch vom 22.10.2008
+- TOP 6.10.: Vollzug der Wassergesetze Bachräumungstermine 2009 für die Stadt- bzw. Stadtrandbäche
+- TOP 6.11.: Vollzug der Baumschutzverordnung, Bauvorhaben: Schleißheimer Straße
+- TOP 6.12.: Meldelisten Baumfällungsanträge
+- TOP 6.13.: Meldelisten Bauvorhaben
+- TOP 6.14.: Erhalt des Grünlandcharakters in der Lerchenau Empfehlung Nr. 08-14 / E 00054 der Bürgerversammlung des Stadtbezirkes 24 am 24.06.2008 Beschluss des Bezirksausschusses 24 vom 13.01.2009
+- TOP 6.15.: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen
+- TOP 6.16.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/2009
+- TOP 6.17.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2008/2009 Stand 20.10.2008
+- TOP 6.18.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/2009
+- TOP 6.19.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2008/2009
+- TOP 6.20.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/2009
+- TOP 6.21.: Klimaschutzfahrlpan 4: Ökologische Mustersiedlung (Ergänzter Beschluss)
+- TOP 6.22.: Haushaltsplan 2009 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Ergänzter Beschluss)
+- TOP 6.23.: FC Fasanerie Nord e.V./SpVgg Feldmoching e.V. Zusammenlegung des Sportbetriebes der Fußballmannschaften
+- TOP 6.24.: Zusätzlicher Wetterschutz an der S-Bahn-Station München-Fasanerie (Antrag aus der Kinder- und Jugendsprechstunde vom 21.11.2008)
+- TOP 6.25.: Bauvorhaben Göttnerstr. 8
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
