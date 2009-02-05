@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-02-05T14:00:00+01:00
+- Ende: 2009-02-05T21:23:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2485
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2485
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151773.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151773.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151773.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Akt. Anfr. Linke: Beraterverträge - beantwortet
+- TOP 5: Aktuelle Anfrage Bü90/Grü: - beantwortet
+- TOP 6: Anfragen - zur Kenntnis genommen
+- TOP 7: Anfr.CDU: Herztod - beantwortet
+- TOP 8: Anfr. CDU: Grünflächen - beantwortet
+- TOP 9: Anfr. FDP: Haus des Jugendrechts - beantwortet
+- TOP 10: Anfrage der Linksfraktion: Sponsoring 2008 - beantwortet
+- TOP 11: Anfrage SPD: Umsetzung von Baumaßnahmen - beantwortet
+- TOP 12: Anfrage: Sachstand Skaterpark - schriftlich beantwortet
+- TOP 13: Anträge - zur Kenntnis genommen
+- TOP 14: Antr. CDU/FDP: Freiwilligentag - mehrheitlich beschlossen
+- TOP 15: Antr. Grüne: Monitoring S-Bahn-Stationen - mehrheitlich abgelehnt
+- TOP 16: Antr. Bü90: Arbeits-, Wohn-, Freizeit- und Kulturstandort Altstadt - zurückgezogen
+- TOP 17: Antrag Bü90/Grü: SGB II - zur Kenntnis genommen
+- TOP 18: Interfr. Antr. SGBII - mehrheitlich beschlossen
+- TOP 19: ÄA Linksfraktion: SGB II - mehrheitlich abgelehnt
+- TOP 20: Antr. CDU/FDP: Albrecht-Dürer-Berufskolleg - mehrheitlich beschlossen
+- TOP 21: ÄA SPD + Bü90/Grü: Albrecht Dürer Berufskolleg - mehrheitlich abgelehnt
+- TOP 22: Antr. CDU/FDP: Mehrgenerationen-Flächen - mehrheitlich beschlossen
+- TOP 23: Antrag Linke: Städte-Koalition - verwiesen
+- TOP 24: Antr. Linke: Straßenbenennungen - mehrheitlich abgelehnt
+- TOP 25: Antr. Linke: Kohlekraftwerk - zur Kenntnis genommen
+- TOP 26: Gem. Antr.: Kohlekraftwerk - einstimmig beschlossen
+- TOP 27: Antr. Linke: Stromsperrungen - mehrheitlich abgelehnt
+- TOP 28: Antrag SPD: Düsseldorfer Konjunkturprogramm - mehrheitlich abgelehnt
+- TOP 29: Antrag SPD: Fachstelle nachhaltige Entwicklung - mehrheitlich abgelehnt
+- TOP 30: ÄA Bü90: Änderungsantrag der Ratsfraktion von Bü90/Grü: ÄA Bü90: Fachstelle nachhaltige Entwicklung - mehrheitlich abgelehnt
+- TOP 31: Kämmerer-Liste - mehrheitlich beschlossen
+- TOP 32: Elternbeitragssatzung - einstimmig beschlossen
+- TOP 33: Ausbauplanung U3 - einstimmig beschlossen
+- TOP 34: Sportanlage Niermannsweg (SC Unterbach) 2. KR B+F - einstimmig beschlossen
+- TOP 35: BSA Pariser Straße Kunstrasen B+F - einstimmig beschlossen
+- TOP 36: Realschule Färberstraße 40, Erneuerung und Sanierung der naturwissenschaftlichen und hauswirtschaftlichen Räume und Schaffung des 2. baulichen Fluchtweges - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 37: An den Linden / Angermunder Straße - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 38: Neubau Feuer- und Rettungswache Nord - FW 5, Düsseldorf Lohausen - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 39: Neubau einer Kindertages- und Jugendfreizeiteinrichtung, Güterbahnhof Derendorf - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 40: Sanierung und Erweiterung des städtischen Berufskolleg Bachstraße, Dependance Suitbertusstraße 15 - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 41: Am Litzgraben 28a, Neubau einer Kindertageseinrichtung - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 42: Abbau der alten Verkehrsrechner u.Erneuerung Steuergeräten/ Stufe 3 - einstimmig beschlossen
+- TOP 43: Güterbahnhof Derendorf - mehrheitlich beschlossen
+- TOP 44: Umbesetzungen - einstimmig beschlossen
+- TOP 45: AR Flughafen MG - Neuwahl - mehrheitlich beschlossen
+- TOP 46: AR FD Ground Handling GmbH - Neuwahl - einstimmig beschlossen
+- TOP 47: Beirat Sportagentur - mehrheitlich beschlossen
+- TOP 48: Beschlusskontrolle für den Rat - zur Kenntnis genommen
+- TOP 49: Namensänderung Städtische Gemeinschaftshauptschule Rather Kreuzweg - mehrheitlich beschlossen
+- TOP 50: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 51: B-Plan Nr. 5282/018 - mehrheitlich beschlossen
