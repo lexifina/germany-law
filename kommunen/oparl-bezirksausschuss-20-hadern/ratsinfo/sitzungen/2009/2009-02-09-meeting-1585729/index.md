@@ -1,0 +1,108 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-02-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1585729
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1585729
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Füttern von Tieren mit Essensresten nördlich der A 96 zwischen Willibald- und Silberdistelstr.
+- TOP 1.2.: Abfahrtszeiten der Buslinie 167
+- TOP 1.3.: Müllabfuhr macht Probleme, Artikel in der SZ am 22.01.09
+- TOP 1.4.: Bewerbung der Kunstmalerfamilie Amelkin für Veranstaltungen in 2009
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag der Evang.-Freikirchlichen Gemeinde auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.132,85 ? (Direktorium, 16.01.09)
+- TOP 5.2.: Antrag des ASZ Kleinhadern-Blumenau auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.085,- ? (Direktorium, 16.01.09)
+- TOP 5.3.: Antrag der Montessorischule auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.052,75 ? (Direktorium, 22.01.09)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Ausschreibung: Ausrichtung des Weltkindertages 2009 im Stadtbezirk (Büro der Kinderbeauftragten, 19.12.08)
+- TOP 6.2.: Veranstaltung in einer städt. Grünanlage, hier: Haderner Dorffest vom 30.04. - 29.05.09 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 12.01.09)
+- TOP 6.3.: Veranstaltung in einer städt. Grünanlage, hier: Flohmarkt des Kindergarten Ludwig Wörl am 03.04.09 von 13.30 - 17.00 Uhr auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 12.01.09)
+- TOP 6.4.: Veranstaltung in einer städt. Grünanlage, hier: Puppenbühne Liebe vom 09.04. - 19.04.09 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 12.01.09)
+- TOP 6.5.: Spielbuseinsätze in den Stadtbezirken (Spielen in der Stadt e.V., 15.01.09)
+- TOP 6.6.: Neuer Mieterbeirat, Beschlussentwurf (Sozialreferat, 15.01.09)
+- TOP 6.7.: Verkehrsrechtliche Anordnung, hier: Haltverbot Ossingerstr. (Kreisverwaltungsreferat, 16.01.09)
+- TOP 6.8.: Erinnerungsverfahren: Forst-Kasten-Allee 4 von Kreuzhof bis Schloss Fürstenried (Baureferat, 20.01.09)
+- TOP 6.9.: Erinnerungsverfahren: Großhaderner Str. 46, Helmstädtstr. (Baureferat, 19.01.09)
+- TOP 6.10.: Erinnerungsverfahren: Würmtalstr. 126, Umbau Bushaltestelle in Parkbucht (Baureferat, 20.01.09)
+- TOP 6.11.: Erinnerungsverfahren: Pelargonienweg 35 - 55 zwischen Am Waldrand und Steinpilzweg (Baureferat, 20.01.09)
+- TOP 6.12.: Veranstaltung in einer städt. Grünanlage, hier: Zirkus Roberti - Joschi Robin Frank vom 16.02. - 01.03.09 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 27.01.09)
+- TOP 6.13.: Änderung der Stimmbezirkseinteilung (Kreisverwaltungsreferat, 04.02.09)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Immastr. 6, 1 Douglasie
+- TOP 7.2.: An der Rehwiese 20, 1 Lärche
+- TOP 7.3.: Hochwaldstr. 17, 1 Kiefer
+- TOP 7.4.: Guardinistr. 129 - 143, 2 Ebereschen
+- TOP 7.5.: Alpenveilchenstr. 35, gem. Baumbestandplan Nr. 32544
+- TOP 7.6.: Waldgartenstr. 1, gem. Baumbestandsplan Nr. 33095
+- TOP 7.7.: Waldgartenstr. 82, gem. Baumbestandsplan Nr. 30969
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum - Waldsaumstr. (Sozialreferat, 02.01.09)
+- TOP 8.2.: Unveränderte Fortführung Gaststätte "Olympia", Wolkerweg 17 (Kreisverwaltungsreferat, 07.01.09)
+- TOP 8.3.: Vollzug der Wassergesetze, Bachräumungstermine 2009 für die Stadt- bzw. Stadtrandbäche (Baureferat, 12.01.09)
+- TOP 8.4.: Mängel an den DSD-Containerinseln im Gebiet München West (AWM, 16.01.09)
+- TOP 8.5.: Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum vom 17.12.08 (Sozialreferat, 20.01.09)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, Würmtalstr. 2 - Strom (SWM, 26.01.09)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Müllentsorgung in der Rudelsburgstr. (AWM, 23.01.09)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Trinkgeldverbot für Müllmänner (OB Ude, 19.12.08)
+- TOP 11.2.: Informationsmaterial zum BA-Infoabend vom 13.11.08 - Kommunales Wohnungsbauprogramm (Sozialreferat, 05.01.09)
+- TOP 11.3.: Einladung zum kostenlosen Fachforum "Effiziente Beleuchtung mit LED's" am 12.02.09 ab 08:45 Uhr im Bauzentrum München (Referat für Gesundheit und Umwelt, 09.01.09)
+- TOP 11.4.: Einladung zum kostenlosen Fachforum "Gebäudeintegrierte Photovoltaik" am 10.02.09 ab 08:45 Uhr im Bauzentrum München (Referat für Gesundheit und Umwelt, 09.01.09)
+- TOP 11.5.: Sachbericht zum Antrag vom 03.07.08 beim BA 20, Streitschlichterfahrt vom 11. - 14.11.08 (Stüps, 08.01.09)
+- TOP 11.6.: Aktionstag für Familien am 15.05.09 unter dem Motto "Zeit für Familie" (Sozialreferat, 15.01.09)
+- TOP 11.7.: Anmeldung zur Feier des Gartenbauvereins München-Großhadern e.V.
+- TOP 11.8.: Wahl der 9. Münchner Seniorenvertretung - Werbung zur Wahl (Sozialreferat, 19.01.09)
+- TOP 11.9.: Leitlinie Gesundheit, Einladung zur Veranstaltung am Donnerstag, 19.02.09 um 13.00 Uhr im alten Rathaussaal (Referat für Gesundheit und Umwelt, 26.01.09)
+- TOP 11.10.: Fachtag "Mädchen und Frauen in der extremen Rechten" am 06.03.09 vom 09.00 - 14.00 Uhr (Fach- und Informationsstelle gegen Rechtsextremismus, Feierwerk e.V., 29.01.09)
+- TOP 11.11.: Ausstellung "Städtebaulicher und landschaftsplanerischer Realisierungswettbewerb Messestadt Riem - 4. Bauabschnitt Wohnen", Ausstellung vom 03.02. - 13.02.09 (Referat für Stadtplanung und Bauordnung, 30.01.09)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 17.12.2008: Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München Sitzungsvorlage Nr. 08-14/V 01403
+- TOP 12.2.: Beschluss vom 17.12.2008: Schutz der Münchner Vorgärten a) Förmliche Aufhebung des § 3 der Satzung der Landeshauptstadt München über Einfriedungen und Vorgärten (Vorgartensatzung) b) Planungsrechtliche Situation der Münchner Vorgärten c) Weiteres Vorgehen zum Schutz der Münchner Vorgärten d) Zulassung von Carports in offener Bauweise vor bestehenden Garagenzufahrten Sitzungsvorlage Nr. 08-14/V 01017
+- TOP 12.3.: Beschluss vom 17.12.2008: Klimaschutzfahrplan 4: Ökologische Mustersiedlung Sitzungsvorlage Nr. 08-14/V 01294
+- TOP 12.4.: Beschluss vom 17.12.2008: Sonderflughafen Oberpfaffenhofen Sitzungsvorlage Nr. 08-14/V 00807
+- TOP 12.5.: Beschluss vom 17.12.2008: PERSPEKTIVE MÜNCHEN, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz Sitzungsvorlage Nr. 08-14/V 01318
+- TOP 12.6.: Beschluss vom 17.12.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - ASZ Kleinhadern-Blumenau des Caritas-Verbandes (Anlage, Abschnitt 5.1.2 Nr. 46 / 53, Ansatz 207.101,- ?) und - Altenwohnanlage Konrad-Dreher-Str. 19 - 23 des Caritas-Verbandes (a.a.O., Nr. 69 / 76, Ansatz 50.267,- ?) Sitzungsvorlage Nr. 08-14/V 00755
+- TOP 12.7.: Beschluss vom 17.12.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - Kinderhaus Wolkerweg des Bayerischen Jugendrings (Anlage 1, Abschnitt 3.1.1 "Kinder- und Jugendarbeit", Seite 2, Nr. 56, Ansatz 198.148,- ?), - Freizeitheim "PfiffTEEN Treffpunkt für Jugendliche" des Bayerischen Jugendrings (a.a.O., Nr. 57, Ansatz 307.167,- ?), - Freizeitheim Treff 21 des Deutschen Paritätischen Wohlfahrtsverbandes und des Vereins Schule-Beruf e.V. (a.a.O., Seite 3, Nr. 66, Ansatz 341.335,- ?), - Familienzentrum Hadern-Blumenau des Deutschen Paritätischen Wohlfahrtsverbandes (Seite 10 - 11, Abschnitt 4.3; Anlage 1, Abschnitt 3.2.1 "Familienangebote", Seite 2, Nr. 13, Ansatz 30.000,- ?; Bemerkung in Spalte 15), - Bewohnertreff "Nachbarschaft Neuhadern" des Deutschen Paritätischen Wohlfahrtsverbandes (Anlage 1, Abschnitt 3.2.2 "Aktivierung und Unterstützung für Familien, Frauen und Männer", Seite 1, Nr. 2, Ansatz 98.518,- ?) Sitzungsvorlage Nr. 08-14/V 00765
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 02.12.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale Sitzungsvorlage Nr. 08-14/V 00792
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2008: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung - Feinkonzept 2009 - Grobkonzept 2010 - 2011 Sitzungsvorlage Nr. 08-14/V 00791
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: Einstellung von Sanktionen ("Amnestie") anlässlich der 850-Jahr-Feier Münchens für Altfälle bei Verstößen gegen Baumschutzverordnung, Vorgartensatzung oder bei beanstandeten Kleinbauten und Beachtung der Verhältnismäßigkeit (abgelehnt) Sitzungsvorlage Nr. 08-14/V 01331
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 02.12.2008: Haushaltsplan 2009, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - "Bewohnertreff Hadern" des "Konzepts GRÜN" (Anlage 1, Abschnitt 4.1.7 "Quartierbezogene Bewohnerarbeit", Seite 3, Nr. 30 / 3, Ansatz 13.000,- ?, ab 2009 in Selbstorganisation), - "Blumenau" (a.a.O., Seite 4, Nr. 42, Ansatz 55.000,- ?), - Wohnungsförderung "Krokusstr. 73" der Firma KOMPRO München Krokusstr. GmbH & Co. KG (Anlage 1, Abschnitt 4.1.8, Nr. 23, Ansatz 3.000,- ?; Bemerkung in Spalte 16) Sitzungvorlage Nr. 08-14/V 00839
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen Sitzungsvorlage Nr. 08-14/V 01560
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: PERSPEKTIVE MÜNCHEN, Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung (vertagt in die Sitzung am 11.02.2009) Sitzungsvorlage Nr. 08-14/ V 00506
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.2009: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/2009, insbesondere in Hadern (Übersicht) Sitzungsvorlage Nr. 08-14/V 01465
+- TOP 12.2.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.2009: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/2009, insbesondere Grundschule und Tagesheim Am Hedernfeld, Grundschule und Hauptschule Blumenauer Str., Grundschule Canisiusplatz, Grundschule und Tagesheim Großhaderner Str., Grundschule und Hauptschule Guardinistr., Grundschule Senftenauerstr. Sitzungsvorlage Nr. 08-14/V 01396
+- TOP 12.3.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.2009: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2008/2009, Stand: 20.10.2008 Sitzungsvorlage Nr. 08-14/V 01335
+- TOP 12.4.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.2009: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2008/2009 Sitzungsvorlage Nr. 08-14/V 01380
+- TOP 12.5.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.2009: Schüler- und Klassenzahlen an den städt. und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/2009, insbesondere am Erasmus-Grasser-Gymnasium und Ludwigsgymnasium Sitzungvorlage Nr. 08-14/V 01272
+- TOP 12.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.12.2008: Verkehrsentwicklungsplan; Übersicht wichtiger Vorhaben der Maßnahmenkonzepte Öffentlicher Verkehr (ÖPNV) und Motorisierter Individualverkehr (MIV) Sitzungsvorlage Nr. 08-14/V 01296 (vertagt)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
