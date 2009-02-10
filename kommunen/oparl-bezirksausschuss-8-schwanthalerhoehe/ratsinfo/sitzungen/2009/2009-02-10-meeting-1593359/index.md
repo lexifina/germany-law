@@ -1,0 +1,51 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593359
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593359
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Einziehung einer Teilstrecke der Kazmairstraße, Einziehung der Gesamtstrecke des Gießerweges
+- TOP 5: Anhörungen
+- TOP 5.1.: Beschlussfassung Plangenehmigung Gollier- / Astallerstraße; vertagt aus der Januarsitzung
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Vorkaufsrecht Theresienhöhe
+- TOP 6.1.2.: Meldelisten
+- TOP 6.1.3.: Änderung der Satzung "Verbot der Zweckentfremdung von Wohnraum"
+- TOP 6.1.4.: Bauvorhaben Ligsalzstraße
+- TOP 6.1.5.: Errichtung von Werbeanlagen in der Landsberger Str. 20
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Neuer Mieterbeirat
+- TOP 6.2.2.: Vollzug des BAyKiBiG; Bescheid über die Anerkennung von Plätzen in der Johannes-Timm-Str.9
+- TOP 6.2.3.: Anbringung eines Hinweisschildes am Spielplatz Schwanthalerstr.111
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Versammlung unter freiem Himmel; 1 mal pro Monat Demonstrationszug
+- TOP 6.4.2.: Erweiterung des Stauraum-Haltverbotes an der Südseite der Landsbergerstraße westlich Trappentreustraße
+- TOP 6.4.3.: Versetzung einer Plakatsäule in der Bergmannstraße
+- TOP 6.4.4.: Sperrung Trappentreutunnel
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 7.1.: BA Antrag Um- und Ausbau Donnersberger Brücke; vertagt aus der Januarsitzung
+- TOP 7.2.: öffentliche Förderung für Sprachprogramme für Kinder; BA-Antrag Nr. 08-14 / B 87 des BA 8 vom 10.06.08
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: unveränderte Gaststättenfortführungen
+- TOP 9.2.: OB-Schreiben "Trinkgeldverbot"
+- TOP 10: Verschiedenes
+- TOP 10.1.: BA auf Reisen / Betriebsausflug
+- TOP 10.2.: Anfrage Wanderbaumallee "Stadtgestaltung aktuell"
+- TOP 11: Protokoll und Umlauf
