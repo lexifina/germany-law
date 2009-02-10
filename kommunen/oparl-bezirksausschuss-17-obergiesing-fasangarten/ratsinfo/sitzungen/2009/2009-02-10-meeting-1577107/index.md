@@ -1,0 +1,109 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2009-02-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1577107
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1577107
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.1.: neuer Sachverhalt Buslinie 145, Kiesmüllerstraße - Waldsassener Straße
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.: Bäume in der St.-Martin-Straße - <div>verwiesen in die Unterausschüsse Bau und Planung (FF) sowie Umwelt</div>
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: parken am Ostfriedhof; Bürgerschreiben vom 15.01.2009 - <div>in den UA Verkehr verwiesen</div>
+- TOP 2.2.: Zaun bzw. Bepflanzung zwischen Privatgrundstück und Frauenanstaltsgelände; Bürgerschreiben vom 14.01.2009 - <div>Antwortschreiben an die Bürgerin</div>
+- TOP 2.3.: Schreiben der Volksschule München/Hauptschule an der Parlacher Straße vom 22.01.2009 zum Ausbau der Aula - <div>Unterstützung</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Präsentation des Vorschlags zum Ausbau des Eisenbahn-Südrings für S-Bahnen durch den Mit-Geschäftsführer Dr. Vieregg der Firma VIEREGG-RÖSSLER GmbH - Innovative Verkehrsberatung
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3.: Anträge/Anfragen
+- TOP 3.1.: Lärmschutzwand an der Perlacher Straße für die restlichen Bauarbeiten am Agfa-Gelände - <div>nach Antrag</div>
+- TOP 4.: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0.1.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung 5.1.3.1.1 Fasangartenstraße 100; Neubau eines Mehrfamilien- u. eines Doppelhauses mit TG; Anhörung vom 19.01.09
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Bebauungsplan mit Grünordnung Nr. 1995 Welfenstraße (südlich), Schwester-Eubulina-Platz, Tassiloplatz, Bahnlinie München - Rosenheim (nördlich) Billigungsbeschluss
+- TOP 0.3.: Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum (ZeS); Zuleitung des Sozialreferats vom 16.01.2009
+- TOP 0.1.: Bauvorhaben Deisenhofener Straße / Herzogstandstraße; Seniorenwohngemeinschaften - <div>nach Antrag</div>
+- TOP 0.2.: Bitte um Stellungnahme der Lbk zum denkmalgeschützten Gebäude Deisenhofener Straße 1 (erteilte Genehmigungen, Erscheinungsbild etc.) - <div>nach Antrag</div>
+- TOP 0.1.: Aktionstag für Familien am 15. Mai 2009 unter dem Motto 'Zeit für Familie'; Schreiben des Sozialreferats vom 09.01.2009 mit der Bitte um Rückmeldung
+- TOP 0.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2009 Bitte zur Einsendung von Platzvorschlägen für Veranstaltungsorte bis Mitte Februar 2009 und Mitteilung weiterer Finanzierungshilfen bezüglich Spielbuseinsätzen in den Stadtteilien
+- TOP 0.1.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2008/2009, Stand 20.10.2008 Sitzungsvorlage Nr. 08-14/V 01335 Ergänzung 18.12.2008 Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 0.2.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/2009 Sitzungvorlage Nr. 08-14/V 01272 Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 0.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2008/2009 Sitzungsvorlage Nr. 08-14/ V 01380 Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 0.4.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2008/2009 Stand 20.10.2008 Sitzungsvorlage Nr. 08-14/V 01335 Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 0.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagestätten für das Schuljahr 2008/2009 Sitzungsvorlage Nr. 08-14/V 01396 Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 0.6.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/2009 Sitzungsvorlage Nr. 08-14/V 01465 Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 14.01.2009
+- TOP 0.7.: Auskunft über die nicht erfolgte Aufnahme des geplanten Sozialbürgerhauses auf dem ehemaligen AGFA-Gelände, Tegernseer Landstraße, im Mehrjahresinvestitionsprogramm 2009-2013; Schreiben des BA 17 vom 24.11.2008; Antwort des Kommunalreferats vom 17.12.2008
+- TOP 0.8.: Neuer Mieterbeirat Änderunng der Satzung und der Geschäftsordnung des Mieterbeirats
+- TOP 0.9.: Anfrage an das Schulreferat - behinderte Kinder in Obergiesinger Schulen, behindertengerechte Ausrüstung aller Obergiesinger Schulen etc.? BA-Antrag-Nr. 08/14 / B 00201 BA17 vom 08.07.2008; Antwortschreiben des Schul- und Kultusreferates vom 15.01.2008
+- TOP 0.1.: Sitzplätze im MVG-Wartehäuschen am Giesinger Bahnhofplatz; Bürgerschreiben vom 11.01.2009 (vertagt aus der Sitzung vom 13.01.2009) - <div>nach Antrag Bürgerin</div>
+- TOP 0.1.: Einrichtung eines Parklizenzgebietes (Anwohnerparken) im an die Bewohnerparkgebiete "südliche Au" und "Regerplatz" angrenzenden Wohngebiet zwischen Heilig-Kreuz-Kirche und Nockherberg; Empfehlung Nr. 08-14 / E 00022 der Bürgerversammlung des 17. Stadtbezirks Obergiesing am 05.06.2008 Sitzungsvorlagen Nr. 08-14/V 00743; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009
+- TOP 0.2.: Sicherheit in den Münchner Straßentunnels Bereitstellung einer zusätzlichen Verpflichtungsermächtigung in Höhe von 350.000,-- ? bei Finanzposition 6300.960.8840.0 "Gemeindestra0en, Tunnelstörfallsimulationssysteme" Änderung des Mehrjahresinvestitionsprogramms 2008 - 2012 in Investitionsliste 1 beim Unterabschnitt 6300 "Gemeindestraßen" Sitzungsvorlage Nr. 08-14/ V 01387 Beschluss der Vollversammlung des Stadrates vom 17.12.2008
+- TOP 0.3.: 2. S-Bahn-Stammstrecke München a) Zwischenbericht b) Stadtratsanträge - Zweiten S-Bahn-Tunnel zügig voranbringen; Antrag Nr. 08-14 / A 00210 der Stadtratsfraktion der SPD vom 05.08.08 - Zweite Stammstrecke; Antrag Nr. 08-14 / A 00358 der Stadtratsfraktion der SPD vom 28.10.08 - Klarheit über die zweite S-Bahn-Stammstrecke schaffen; Antrag Nr. 08-14 / A 00366 der Stadtratsfraktion DIE GRÜNEN/RL vom 29.10.08 Sitzungsvorlagen Nr. 08-14/V 01487 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009 zu 5.3.4.3 - Hearing zum aktuellen Vergleich 2. S-Bahn-Tunnel und S-Bahn-Südring; Antrag Nr. 08-14 / A 00527 der Stadtratsfraktion DIE GRÜNEN/RL vom 19.01.09; Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 28.01.09
+- TOP 0.4.: Schulbushaltestelle Sankt-Martin-Straße 30; Änderung des Zeitzusatzes; Mitteilung des KVR
+- TOP 0.5.: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen; Antrag Nr. 08-14 / A 00507 zur dringlichen Behandlung der ÖDP vom 08.01.2009; Sitzungsvorlagen Nr. 08-14 / V 01560; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009
+- TOP 0.6.: Optimierung der Fahrradstellplätze infolge der Umwandlung von Kfz-Stellplätzen Antrag Nr. 02-08 / A 03915 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 24.08.2007 Sitzungsvorlagen Nr. 08-14 / V 01262 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Weihnachten in Obergiesing (TOP 2.1.2.2 vom 13.01.2009 in Verbindung mit dem dazu einstimmig beschlossenen Antrag der SPD-Fraktion) - <div>siehe Protokoll UA Kultur</div>
+- TOP 6.: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.: Berichte der Beauftragten
+- TOP 7.7.1: Ausländer/Innen
+- TOP 7.7.2: Baumschutz
+- TOP 7.7.2.1: Einzelfälle
+- TOP 7.1.: Anwesen in der Landlstraße 13; Anhörung vom 30.12.2008
+- TOP 7.2.: Anwesen in der Bayrischzeller Str. 9; Anhörung vom 30.12.2008
+- TOP 7.3.: Anwesen in der Landlstr. 4; Anhörung vom 30.12.2008
+- TOP 7.4.: Anwesen in der Untersbergstr. 36 - 42; Anhörung vom 30.12.2008
+- TOP 7.5.: Anwesen in der Cincinnatistr. 2 - 30 und Pennstraße 14 - 42; Anhörung vom 12.01.2009
+- TOP 7.6.: Anwesen im Hermelinweg 12; Anhörung vom 12.01.2009
+- TOP 7.7.: Anwesen in der Holtzendorffstr. 37; Anhörung vom 21.01.2009
+- TOP 7.7.2.2: Baumbestandspläne
+- TOP 7.1.: Anwesenin der Fasangartenstraße 100; Anhörung vom 13.01.2008
+- TOP 7.2.: Anwesen in der Kapellenfeldstraße 17; Anhörung vom 21.01.2009
+- TOP 7.7.3: Behinderte
+- TOP 7.7.4: Genderfragen
+- TOP 7.7.5: Kinder
+- TOP 7.7.6: Jugend
+- TOP 7.7.7: Senioren/Innen
+- TOP 8.: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9.: Nichtöffentlicher Teil
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
