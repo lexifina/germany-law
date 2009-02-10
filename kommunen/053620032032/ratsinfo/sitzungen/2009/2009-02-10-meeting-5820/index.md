@@ -1,0 +1,53 @@
+# Stadtrat (31. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-02-10T17:03:00+01:00
+- Ende: 2009-02-10T19:49:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcDDQ5kB840mUyRNZH5gniQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/5820
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQw9Awwcat-7XmD4ZPgbFrBzowXZFmtAeS4kMKELC_Ba/Bekanntmachung_Stadtrat_10.02.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZU8bGXWa5_ZLVdGin9axxt3UE9iAd_DSRwVLxr7RvMl6/Oeffentliche_Niederschrift_Stadtrat_10.02.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Ausschüssen
+- TOP 1.1: Umsetzung des Jugendhilfeausschusses hier: beratende Mitgliedschaften
+- TOP 1.2: Umbesetzung von Ausschüssen hier: Antrag der BBK-Fraktion vom 26.01.09
+- TOP 2.: Aufbau eines Ausstellungs- und Informationszentrums für nachhaltiges, ressourcen- und energieeffizientes Bauen, Arbeiten und Wohnen; hier: Vortrag/Präsentation des "Internationalen Fachzentrums Bau", Düren
+- TOP 2 a.: Umsetzung des Konjunkturpakets II hier: 7. Änderung der Vergabeordnung der Stadt Kerpen
+- TOP 3.: Stadtentwicklung und Bauleitplanung
+- TOP 3.1: Bebauungsplan SI 257 "Bolzplatz Vogelrutherfeld", Stadtteil Sindorf; hier: Beschluss zur Offenlage
+- TOP 3.2: Vorhabenbezogener Bebauungsplan KE 267 B/ 1. Änderung "Stiftsstraße/ Filzengraben" im Stadtteil Kerpen hier. Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 3.3: Bebauungsplan BP TÜ Nr. 246/ 3. Änderung "Gewerbe-/Industriegebiet Ville" im Stadtteil Kerpen Türnich hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 3.4: Antrag auf Einleitung der vorhabenbezogenen Bauleitplanverfahren zur Errichtung eines "Klinikparks" in Kerpen-Horrem
+- TOP 4.: Klimaschutz; hier: Teilnahme am "European Energy Award - eea"
+- TOP 5.: Erstellung eines Solarkatasters für die Stadt Kerpen
+- TOP 6 a.: Stellenplan 2009: Einrichtung einer zusätzlichen Planstelle zur Beschäftigung von zwei Mitarbeitern im Bereich Zentraler Außendienst/ Ordnungsdienst
+- TOP 6 b.: Situation der Erftland Kommunale Wohnungsgesellschaft mbH; hier:Information über die Entscheidung der Gremien der Erftland gem. Ratsbeschluss vom 28.10.2008
+- TOP 6.: Haushaltsangelegenheiten
+- TOP 6.1: Entschuldung der Stadt Kerpen Antrag der UWG-Fraktion vom 19.01.2009
+- TOP 6.2: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen IV.Quartal 2008
+- TOP 6.3: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW in der Zeit vom 01.10. bis 31.12.2008
+- TOP 6.4: Baumaßnahme "Mittelstraße Horrem, 2. Bauabschnitt" Hier: Bereitstellung von außerplanmäßigen Haushaltsmitteln
+- TOP 7.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 8.: Mitteilungen
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Verteilung der Mittel des Kommunalen Investitionsprogrammes
+- TOP 9.2: Neuer Kindergarten im Stadtteil Neu-Bottenbroich
+- TOP 9.3: Geltung der Kerpener Liste für das Fachmarktzentrum Falder/Bürrig
+- TOP 9.4: Anlegung von Parkplätzen "Auf dem Gassenfeld"
+- TOP 9.5: Ansiedlung einer Tankstelle am Ortsausgang Brüggen
+- TOP 9.6: Grillhütte in Götzenkirchen
+- TOP 9.7: Straßenreinigung in der Kerpener Straße
+- TOP 10.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Städtebaulicher Vertrag zur Umgestaltung des Straßenraumes im Bereich Merzenicher Straße / Neuer Weg / Kirchenstraße / Eichemstraße im Stadtteil Buir
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
