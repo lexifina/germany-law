@@ -1,0 +1,75 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2009-02-11T17:10:00+01:00
+- Ende: 2009-02-11T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1927
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1927
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=40962
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Pachtvertrag Freitzeitverein Tegel-Süd e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 4.2: Pachtvertrag Freizeitverein Tegel-Süd e. V. - überwiesen
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Letteplatz (Große Anfrage 14.01.2009) - beantwortet
+- TOP 5.1.1: Quartiersmanagement Letteplatz - überwiesen
+- TOP 5.2: Reinickendorf demografisch im Minus (Große Anfrage 14.01.2009) - vertagt
+- TOP 5.3: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik (Große Anfrage 14.01.2009) - vertagt
+- TOP 5.4: 50 Mio. für Berlin: Schulstättensanierungs-Sofortprogramm des Senats auch in Reinickendorf umsetzen! (Große Anfrage 14.01.2009) - vertagt
+- TOP 5.5: Neue Fahne für das Wahrzeichen von Frohnau (Große Anfrage 14.01.2009) - vertagt
+- TOP 5.6: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin (Beschlussempfehlung 14.01.2009) - vertagt
+- TOP 5.7: Integration in Sportvereinen (Beschlussempfehlung 14.01.2009) - vertagt
+- TOP 5.8: Radfahrverkehr Tegel (Ersuchen 14.01.2009) - vertagt
+- TOP 5.9: Schulsanierung - zusätzliche Mittel (Ersuchen 14.01.2009) - erledigt
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als stellv. Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierte gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Schulbaumaßnahmen (IZBB) in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Mehr Sicherheit in den Abendstunden in Alt-Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Jugendfreizeiteinrichtung Ameisenburg - vertagt
+- TOP 7.4: Französisch an Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Öffnung der Ruppiner Chaussee bei Umleitung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Stadtteilmütter auch in Reinickendorf - vertagt
+- TOP 8.2: Ansturm auf den "Berlinpass" völlig überraschend? - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Den bezirklichen Haushaltsgewinn richtig nutzen - Präventionsprojekte fördern - vertagt
+- TOP 10.2: Vorhandene Mittel für Schulstationen verwenden! - vertagt
+- TOP 10.3: Gesundheitliche Vorsorge bei Ausländern und Migrantinnen und Migranten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Mehr Qualität für die Dorfaue in Alt-Hermsdorf I - vertagt
+- TOP 10.5: Testkäufer als Maßnahme gegen verbotenen Alkoholmissbrauch - vertagt
+- TOP 10.6: Barrierefreiheit in Reinickendorfer Schulen - in der BVV abgelehnt
+- TOP 10.7: Schulneubau Märkisches Viertel - vertagt
+- TOP 10.8: Verwendung des Gewinns des Haushaltsjahres 2007 - vertagt
+- TOP 10.9: Verwendung des Gewinns des Haushaltsjahres 2007 - vertagt
+- TOP 10.10: Verwendung des Gewinns des Haushaltsjahres 2007 - vertagt
+- TOP 10.11: Mittel aus dem Konjunkturprogramm II - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Einsatzkonzept der Feuerwehr - überwiesen
+- TOP 12.2: Unterstützung für "Wasserratten e.V." - überwiesen
+- TOP 12.3: Schulreinigung - überwiesen
+- TOP 12.4: Feuertreppe im Kulturhaus Centre Bagatelle in Frohnau - überwiesen
+- TOP 12.5: Konzepte von Jugendfreizeiteinrichtungen - überwiesen
+- TOP 12.6: Ausstellung "Die missbrauchte Religion - Islamisten in Deutschland" - überwiesen
+- TOP 12.7: Alkoholmissbrauch bei Jugendlichen: bezirkliche Präventionsmaßnahmen - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Fahrplanänderung der Ringlinie 326 zugunsten verbesserter Anschlüsse - überwiesen
+- TOP 13.2: "Totgeschwiegen" ohne Publikum? - überwiesen
+- TOP 13.3: Verbesserte Verkehrsführung auf der Residenzstraße - überwiesen
+- TOP 13.4: Flexible Schulanfangsphase an Grundschulen nur auf freiwilliger Basis - überwiesen
+- TOP 13.5: Zunehmender Verkehrsstau auf der Strecke B 96 zwischen Burgfrauenstraße und Wilhelmsruher Damm - vertagt
+- TOP 13.6: Elternwahlrecht bei Oberschultypen - vertagt
+- TOP 13.7: Bezirkliche Maßnahmen zur Einhaltung des Jugendschutzes - vertagt
+- TOP 13.8: Wahltermin "Religion Wahlfreiheit" - vertagt
