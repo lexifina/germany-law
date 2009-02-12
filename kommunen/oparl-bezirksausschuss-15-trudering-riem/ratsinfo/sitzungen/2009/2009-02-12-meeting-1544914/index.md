@@ -1,0 +1,98 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2009-02-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1544914
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1544914
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: (E) Lärmschutz entlang der S-Bahn (Trudering - Gronsdorf - Haar, usw.) sowie der Bahnstrecke München - Rosenheim Empfehlung Nr. 08 - 14 / E 00152 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 30.10.2008
+- TOP 2: (E) Lärmunterbindung auf dem Stadtplatz am Ende der Astrid-Lindgren-Straße Empfehlung Nr. 08-14 / E 00146 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 30.10.2008
+- TOP 2.1.: Standort des Truderinger Gymnasiums
+- TOP 2.2.: "Wall" zwischen Isarlandstraße und Wohngebiet Elisabeth-zu-Guttenberg-Straße soll erhalten bleiben
+- TOP 2.3.: Parksituation am Zentralen Platz Mitte (Nähe Selma-Lagerlöf-Straße)
+- TOP 2.4.: Nutzung des Willy-Brandt-Platzes
+- TOP 2.5.: Parkmöglichkeiten am Riemer See
+- TOP 2.6.: Parksituation in der Marianne-Plehn-Straße
+- TOP 2.7.: Vorfall in der städt. Buslinie 189 / 139
+- TOP 2.8.: Einwand gegen Bebauungsvorhaben an der Ingeborgstraße
+- TOP 3.1.: Querungsmöglichkeit für Fußgänger und Rollstuhlfahrer; Messestadt Ost
+- TOP 3.2.: Vermeidung des nachmittäglichen Staus auf der B304 an der Grenze zu Haar
+- TOP 3.3.: Lärmschutz an der A94 durch eine Solarstromanlage
+- TOP 3.6.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauersegler Straße
+- TOP 4.1.: Energetische Sanierung der Truderinger Schulen
+- TOP 4.2.: Hunde im Riemer Park (Runder Tisch) - Schaffung einer Bade-/Trinkgelegenheit; Umrüstung der Mülleimer
+- TOP 4.3.: Gleisanschluss für Logistiklager in Waldtrudering sichern
+- TOP 4.4.: Stellwerkausfälle in Riem: Wann hört das Chaos auf der S 2-Ost auf?
+- TOP 5.1.: Info-Veranstaltungen der Verkehrspolizeiinspektion ab 06.04.2009
+- TOP 5.2.: "Velonale München" am 26.07.2009 - Vorprüfung der Radveranstaltung
+- TOP 5.3.: Antrag zur Aufstellung einer Sammelhinweisanlage der Interwebung GmbH in der Riemer Straße / Am Mitterfeld
+- TOP 5.4.: Einziehung einer Teilstrecke des Dukatenweges (Vorankündigung inklusive Lageplan)
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Fauststraße - Neubau eines Mehrfamilienhauses mit TG-Erweiterung für gemeinsame Stellplatznutzung
+- TOP 7.2.: Heilwigstraße - Neubau von zwei Doppelhäusern mit 4 Garagen
+- TOP 7.3.: Solalindenstraße - Neubau eines Zwischengebäudes
+- TOP 7.4.: Am Birkicht - Neubau eines Mehrfamilienhauses mit Garagen
+- TOP 7.5.: Sonnenspitzstraße - Neubau eines Mehrfamilienhauses und eines Doppelhauses mit TG
+- TOP 7.6.: Lebzelterstraße - Neubau von zwei Dreispännern mit Garagen
+- TOP 7.7.: Von-Heydebreck-Straße - Neubau Mehrfamilienhaus mit Tiefgarage
+- TOP 7.8.: Von-Gravenreuth-Straße - Neubau eines Wohngebäudes mit TG
+- TOP 7.9.: Von-Gravenreuth-Straße - Neubau eines Mehrfamilienhauses mit TG
+- TOP 7.10.: Birkhahnweg - Neubau eines Mehrfamilienhauses mit Garagen
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Kurzbericht / Dank zum Bewilligungsbescheid für das Konzert in St. Peter und Paul
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8.1.: Mittelung über bereits durchgeführte Baumfällungen: Salzmesserstraße 8
+- TOP 8.2.: Kranichweg
+- TOP 8.3.: Möwestraße
+- TOP 8.4.: Eisvogelstraße
+- TOP 8.5.: Reschstraße
+- TOP 8.6.: Josef-Hagn-Straße
+- TOP 8.7.: Truderinger Straße
+- TOP 9.1.: Termine und Mitteilungen a) Ausstellung "Städtebaulicher und landschaftsplanerischer Realisierungswettbewerb Messestadt Riem - 4. Bauabschnitt Wohnen" vom 03.02.09 bis 13.02.09 im Foyer des Referats für Stadtplanung und Bauordnung b) Nach Mitteilung der Vorsitzenden
+- TOP 9.2.: Neuer Mieterbeirat
+- TOP 9.3.: Wahl der 9. Münchner Seniorenvertretung
+- TOP 9.4.: Promenadentreff im Februar
+- TOP 9.5.: Aktionstag für Familien am 15. Mai 2009 unter dem Motto "Zeit für Familie"
+- TOP 9.6.: Planung der Einsätze der Münchner SommerSpielAktion 2009
+- TOP 9.7.: Leitlinie Gesundheit - Einladung zur Veranstaltung am 19.02.09
+- TOP 9.8.: Einladung zum Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse in der Gleichstellungsstelle für Frauen
+- TOP 10.1.: Unterrichtung über Bauanträge; Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genhemigten Bauvorhaben vom 12.01.09 bis 25.01.09
+- TOP 10.2.: Drehgenehmigung Wasserburger Landstraße
+- TOP 10.3.: Von Heydebreck-Straße - Abbruchanzeige
+- TOP 10.4.: Willy-Brand-Platz - Unveränderte Fortführung eines Gaststättenbetreibes
+- TOP 10.5.: Truderinger Straße - Unveränderte Fortführung eines Gaststättenbetriebes
+- TOP 10.6.: Echo e.V. - Zuschussgewährung - Schriftverkehr, Verwendungsnachweis
+- TOP 10.7.: Investitionsförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Inverstitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 - Kinderkrippe Wardeinstraße 3 mit 28 Kinderkrippenplätzen - Umbau
+- TOP 10.8.: Paul-Wassermann-Straße - Mitteilung über ein Grundstückgeschäft
+- TOP 10.9.: Vollzug des Bayerischen Straßen- und Wegegesetzes im 25. Stadtbezirk - Widmung der Straßenstrecken Helsinkistraße, Stockholmstraße (Gesamtstrecke), Oslostraße, Edinburghplatz (Teilstrecke)
+- TOP 10.10.: Hearing zum aktuellen Vergleich 2. S-Bahn-Tunnel und S-Bahn-Südring
+- TOP 10.11.: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen
+- TOP 10.12.: Errichtung des 4-zügigen Gymnasiums München-Ost an der Friedenspromenade mit einer 3-fach-Sporthalle mit Zuschauertribüne und Freiflächen
+- TOP 10.13.: Messestadt Riem - 4. Bauabschnitt Wohnen - Ergebnis des städtebaulichen und landschaftsplanerischen Wettbewerbs - Weiteres Verfahren
+- TOP 10.14.: Schutz der Münchner Vorgärten
+- TOP 0: TOP 0
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 5: Anhörungen
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 8: Baumfällungen
+- TOP 9: Verschiedenes
+- TOP 10: Unterrichtungen
+- TOP 3.4.: Regelmäßige Leerung der Müllbehälter; Errichtung eines Halteverbots; Umbenennung der Messestadt
+- TOP 3.5.: Regelmäßige Leerung der Müllbehälter; Errichtung eines Halteverbots; Umbenennung der Messestadt
