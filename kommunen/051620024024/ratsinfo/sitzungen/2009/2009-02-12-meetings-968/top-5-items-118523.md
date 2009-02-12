@@ -1,0 +1,7 @@
+# TOP 5: Landeswettbewerb 2009 – Kleingartenanlagen in Nordrhein-Westfalen (KKG120209-07344.doc)
+
+- Sitzung: Kommission Kleingartenwesen (2009-02-12)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/118523
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/8419
