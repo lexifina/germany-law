@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-02-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1619977
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1619977
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verkehrssituation Gärtnerstraße westlich Hanauer Straße Abschnitt Hünefeldstraße / Hanauer Straße
+- TOP 2.2.: Gestaltung der Einmündung Spielstraße Claudiusplatz in die Pelkovenstraße
+- TOP 2.3.: Fahrbahnverengung Am Kapuzinerhölzl
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Errichtung eines Basketballplatzes
+- TOP 3.2.: Bericht "Das Schulreferat trifft die Bezirksausschüsse"
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Verkehrsberuhigung Donauwörther Straße
+- TOP 3.2.: Ortstermin Andernacher Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Bericht Kommission für Stadtgestaltung am 27.01.09
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4: Anträge
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Befestigung des Weges zwischen Bingener Straße (alt) und Feldmochinger Straße
+- TOP 4.2.: Verbindungsweg zwischen Hartmannshofen und S1-Haltestelle
+- TOP 4.3.: Runder Tisch: Sanierungsmaßnahmen Schulzentrum Gerastraße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Wertstoffinsel im Bereich Moosacher Bahnhof
+- TOP 4.2.: Prüfung Änderung Linienverlauf Buslinie 51
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Fahrradwege Baubergerstraße - <div>Antrag abgelehnt, die Polizei wird gebeten, mehr zu kontrollieren</div>
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Caritas Moosach: Kauf von Isar-Cards und Streifenkarten
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10; Traditioneller Feldbogen- und Bogensportverein München e.V.: Grundausstattung
+- TOP 5.3.: Obst-Gemüse-Südfrüchte-Verkaufsplatz an der Dachauer- / Baubergerstraße
+- TOP 6: Anhörungen
+- TOP 6.1.: Absolutes Halteverbot in der Richthofenstraße
+- TOP 6.2.: Absolutes Halteverbot in der Wichertstraße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Geruchs- und Lärmsbelästigung durch "Kentucky Fried Chicken" (Überprüfung der Lärmbelastung)
+- TOP 7.2.: Fahrradwegweiser Olympiapark (Wegweisung über Feldbahn- und Eggartenstraße nicht möglich)
+- TOP 7.3.: Zigarettenautomat Ecke Thorner- / Torgauer Straße (keine rechtliche Handhabe für Abbau)
+- TOP 7.4.: Planung eines Wochenmarktes im Quartierszentrum Moosach (Sachstand)
+- TOP 7.5.: Klärung der Verantwortlichkeiten für die Umsetzung der Pflichtablieferungsverordnung hinsichtlich der Internetseiten des BA 10 (werden derzeit noch nicht gesammelt)
+- TOP 7.6.: Reinigung der Gehsteige in der Netzerstraße und der Feldmochinger Straße durch die Grundstückseigentümer (entsprechende Hinweise wurden vorgenommen)
+- TOP 7.7.: Mülleimer an U-Bahn-Abgängen (Sachstand)
+- TOP 7.8.: Dachauer Straße 509, Nutzungsänderung Lager zu Reifenmontage (höhere Böschung rechtlich nicht möglich)
+- TOP 7.9.: Informationsmaterial über die Bezirksausschüsse (bereits vorhanden)
+- TOP 7.10.: PPP-Maßnahme Schule Gerastraße (Sachstand)
+- TOP 7.11.: Einsatz von Elektroloks statt Dieselloks auf dem Zubringergleis zum Rangierbahnhof (nicht möglich)
+- TOP 7.12.: Lichtzeichenanlage Pelkovenstraße / Riesstraße (Abbau erst nach Schließung des Mittelteilers Georg-Brauchle-Ring / Riesstraße)
+- TOP 7.13.: Stadtteilwoche Moosach im Jahr 2013 (wird in die Programmplanungen aufgenommen)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Perspektive München, Fortschreibung des Zentrenkonzepts (Ergänzung)
+- TOP 8.4.: Stadt-Umland-Bahn
+- TOP 8.5.: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen
+- TOP 8.6.: Spielbuseinsätze in den Stadtbezirken
+- TOP 8.7.: Bachräumungstermine 2009 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.8.: Aktionstag für Familien am 15.05.2009
+- TOP 8.9.: Drehgenehmigung "K 11 - Kommissare im Einsatz"
+- TOP 8.10.: Neues Zweckentfremdungsrecht seit 01.01.2009
