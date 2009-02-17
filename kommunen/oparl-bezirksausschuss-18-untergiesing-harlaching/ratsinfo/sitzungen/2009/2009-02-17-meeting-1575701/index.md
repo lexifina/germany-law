@@ -1,0 +1,105 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-02-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1575701
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1575701
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Protokolle der Dezember- und Januar-Sitzung
+- TOP 2.: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.1.: Ausbau des Eisenbahn-Südrings für die S-Bahn; Präsentation der Vieregg Rössler GmbH
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3.: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Elternbeirat der GS an der Fromundstraße, für die Maßnahme: 2 Selbstbehauptungskurse; Antragssumme: 2.962,-- ?; Antrag vom 30.01.09
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Zusendung der Abstimmungsunterlagen: Parkscheinautomaten-Standorte; Zuleitung des Baureferates vom 15.01.09 mit der Bitte um Rückmeldung (vertagt aus der Sitzung vom 20.01.2009)
+- TOP 3.1.: U-Bahnhof Candidplatz, Abgang beim Ärztehaus; abgeblätteter Putz, vermutlicher Wasserschaden; Anfrage des BA 18 aus der Sitzung am 21.10.2008; Antwortschreiben der Münchner Verkehrsgesellschaft mbH (neutrale Erledigung)
+- TOP 3.2.: Haltestelle Wettersteinplatz; Entfernung der Werbetafeln in den Straßenbahnwartehäuschen zur Sicherheit der Fußgänger; Antrag Nr. 08-14 / B 00617 des BA 18 vom 18.11.2008; Antwortschreiben der Münchner Verkehrsgesellschaft mbH vom 16.01.2009 (negative Erledigung)
+- TOP 3.3.: Fußgängertunnel neben dem Tunnel Claude-Lorrain-Straße - Hans-Mielich-Platz; Antrag Nr. 08-14 / B 00642 des BA 18 vom 18.11.2008; Antwortschreiben der DB-Netz AG vom 16.01.2009; Zuleitung des Referats für Arbeit und Wirtschaft vom 23.01.2009 (neutrale Erledigung)
+- TOP 3.1.: 2. S-Bahn-Stammstrecke in München; a) Zwischenbericht, b) Stadtratsanträge; Sitzungsvorlage Nr. 08-14 / V 01487; Beschluss der Vollversammlung des Stadtrats vom 28.01.2009 und Hinweise und Ergänzungen hierzu
+- TOP 3.2.: Zweites Konjunkturpaket der Bundesregierung für den MVV Ausbau nutzen; Antrag Nr. 08-14 / A 00507 der ÖDP im Stadtrat vom 08.01.2009; Sitzungsvorlage Nr. 08-14 / V 01560; Beschluss des Ausschusses für Stadtplanung und Bauorndung vom 14.01.2009 (SB)
+- TOP 3.3.: Stadt-Umland-Bahn - Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen; Antrag Nr. 08-14/A 00114 von Frau Stadträtin C. Tausend, Herrn Stadtrat N. Gradl und Herrn Stadtrat B. Schwartz vom 01.07.08 - Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen; Antrag Nr. 08-14 / A 00438 von Herrn Stadtrat Dr. G. Kronawitter u. Herrn Stadtrat W. Zöller vom 01.12.08; Sitzungsvorlagen Nr. 08-14/V 01572; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 11.02.09 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Wertstoffcontainerstandort Gerhardstraße / Agilolfingerstraße; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Rückäußerung bis Ende der 04. KW (vertagt aus der Sitzung vom 20.01.2009) - <div>Verweisung an Fachausschuss</div>
+- TOP 3.2.: Verbot von Laubbläsern im Stadtgebiet; Empfehlung Nr. 08-14 / E 00143 der Bürgerversammlung des 18. Stadtbezirks vom 23.10.2008; Beschlussentwurf für die Sitzung des Umweltschutzausschusses des Stadtrats am 03.03.2009; Zuleitung des Referats für Gesundheit und Umwelt vom 23.01.2009 mit der Bitte um Stellungnahme
+- TOP 3.1.: Verunreinigung durch Fäkalien im Bereich des Straßenbahnwendepunkt / Haltestelle Großhesseloher Brücke; erneute Anfrage des BA 18 vom 29.10.2008; Antwort der Münchner Verkehrsgesellschaft mbH vom 12.01.2009 (negative Erledigung) - <div>Verweisung an Fachausschuss</div>
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / - bestandteil; Unterrichtung über das Fällen von Gefahrenbäumen in den Isarauen; Mitteilung des Baureferats vom 30.12.2008
+- TOP 3.2.: Renaturierung des ehemaligen Geländes des Abfallwirtschaft Betriebs München an der Sachsenstraße; Zuleitung des Baureferats vom 12.01.2009
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Ausschreibung zur Ausrichtung des Weltkindertages 2009 "Kinder haben Rechte"; Schreiben des Sozialreferates - Büro der Kinderbeauftragten vom 18.12.08 inkl. Bewerbungsunterlagen (in der Sitzung am 20.01.09 in den UA verwiesen)
+- TOP 3.1.: Aktionstag für Familien am 15. Mai 2009 unter dem Motto 'Zeit für Familie'; Schreiben des Sozialreferats/Stadtjugendamt vom 09.01.2009 mit der Bitte um Unterstützung
+- TOP 3.1.: Realisierung des Spielplatzes Hans-Mielich-Platz / Teutoburger- / Gerhardstraße zur Behebung der Spielflächenunterversorgung in Untergiesing; Antrag Nr. 08-14 / B 00458 des BA 18 vom 16.09.2008; Antwortschreiben des Baureferats vom 02.01.2009 (positive Erledigung)
+- TOP 3.2.: Antrag der Eltern-Kind-Initiative Opodeldoks e.V. an den BA 18 auf Bezuschussung der Umbauarbeiten zur Erfüllung von Brandschutzauflagen; Anfrage des BA 18 vom 24.10.2008 an das Sozialreferat; Antwortschreiben des Sozialreferats vom 28.01.2009 (neutrale Erledigung)
+- TOP 3.1.: Wahl der 9. Münchner Seniorenvertretung; Werbung zur Wahl; Zuleitung des Sozialreferat vom 19.01.2009
+- TOP 3.2.: Kindertagesstätten sonstiger Träger; Kindertageseinrichtung an der Geiselgasteigstr. 80 im 18. Stadtbezirk; Leistung eines Baukostenzuschusses nach dem Bayerischen Kinderbildungs- und -betreuungsgesetzes (BayKiBiG); Sitzungsvorlage Nr. 08-14 / V 01498; Beschluss des Schul- und Sportausschusses des Stadtrats vom 04.02.2009 (SB)
+- TOP 3.3.: Tagesaufenthalt im städtischen Unterkunftsheim für Männer in der Pilgersheimer Straße; Zuleitung des Katholischen Männerfürsorgervereins vom 15.01.2009
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; Freischankfläche in der Zasinger Straße 2; Beschluss des BA 18 vom 17.02.2009 (vertagt aus der Sitzung vom 20.01.09) - <div>vertagt</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen in der Geiselgasteigstraße 69; Anhörung vom 12.01.09 (vertagt aus der Sitzung vom 20.01.09)
+- TOP 3.2.: Anwesen in der Harthauser Straße; Anhörung vom 12.01.09 (vertagt aus der Sitzung vom 20.01.09)
+- TOP 3.3.: Anwesen in der Athosstraße; Anhörung vom 26.01.2009
+- TOP 3.4.: Anwesen in der Bozzaris Straße; Anhörung vom 26.01.2009
+- TOP 3.5.: Anwesen in der Klobensteiner Straße; Anhörung vom 27.01.2009
+- TOP 3.6.: Anwesen in der Pilgersheimer Straße; Anhörung vom 27.01.2009
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: 3.5.4.2.1 Anwesen in der Bozzaristraße; Anhörung vom 20.01.2009
+- TOP 3.2.: 3.5.4.2.2 Anwesen in der Pilgersheimer Straße; Anhörung vom 23.01.2009
+- TOP 3.3.: 3.5.4.2.3 Anwesen in der Klobensteiner Straße; Anhörung vom 23.01.2009
+- TOP 3.4.: 3.5.4.2.4 Anwesen in der Athosstraße; Anhörung vom 22.01.2009
+- TOP 3.1.: Baufällle im 18. Stadtbezirk
+- TOP 3.2.: Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Zuleitung des Sozialreferats vom 16.01.2009
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 Kleingaststätte Flößerstüberl, Ludmillastraße; Mitteilung vom 30.01.09
+- TOP 3.4.: PERSPEKTIVE MÜNCHEN; Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung a) Grundsatzbeschluss b) BA Antrag-Nr. 08-14 / B 00734 des Bezirksausschusses des Stadtbezirkes 25 - Laim vom 02.12.2008; Sitzungsvorlagen Nr. 08-14/V 00506; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 11.02.2009 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tag des offenen Denkmals am 13.09.2009; Anmelde- und Informationsunterlagen; Schreiben der Deutschen Denkmalschutzstiftung
+- TOP 4.: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5.: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Leitlinie Gesundheit, Einladung zur Veranstaltung am 19. Februar 2009 im Alten Rathaussaal; Zuleitung des Referats für Gesundheit und Umwelt vom 26.01.2009
+- TOP 6.2.: Rund um die Pflege in Untergiesing-Harlaching; Informationsveranstaltung des BA 18 am Donnerstag, 05.03.2009, Münchenstift, Haus an der Tauernstraße, Tauernstr. 11, Beginn: 10:00 h (bis ca. 15:00 h)
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7.: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
