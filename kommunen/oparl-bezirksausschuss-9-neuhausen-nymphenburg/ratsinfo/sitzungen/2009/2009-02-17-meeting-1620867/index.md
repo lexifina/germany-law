@@ -1,0 +1,128 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-02-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürger: Entfernung des Radstreifens in der Nymphenburger Straße zwischen Gerner Brücke bis zur Romanstraße
+- TOP 3.2.: KVR: Temporäres Haltverbot wegen der Müllabfuhr in der Gudrunstraße Ostseite
+- TOP 3.3.: =&gt; dazu: KVR: Absolutes Haltverbot in der Gudrunstraße Westseite
+- TOP 3.4.: KVR: Einrichtung von Kurzzeitparkplätzen in der Renatastraße zwischen Roman- und Lachnerstraße
+- TOP 3.5.: KVR: Absolutes Haltverbot in der Karl-Schurz-Straße zwischen Isenstein- und Aldrianstraße
+- TOP 3.6.: KVR: Absolutes Haltverbot im Wendehammer der Claire-Watson- und Margit-Schramm-Straße
+- TOP 3.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen
+- TOP 3.8.: Baumaßnahmen der Stadtwerke
+- TOP 3.9.: Referat für Gesundheit und Umwelt: Einladung zum Fachforum "Effiziente Beleuchtung mit LED's" am 12.02.09
+- TOP 3.10.: Kommunalreferat: Einziehung des Straßennamens "Nürnberger Platz"
+- TOP 3.11.: KVR: Bürgeranliegen Ampelschaltung Notburgastraße (Schreiben BA 9 vom 20.01.09)
+- TOP 3.12.: Bürger: MVG-Fahrpläne: Verschwinden der Margarethe-Danzi-Straße (Schreiben BA 9 vom 20.01.09)
+- TOP 3.13.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Ysenburgstr. 5
+- TOP 3.14.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Gertrud-Bäumer-Str. 11
+- TOP 3.15.: Beschluss der Vollversammlung des Stadtrats vom 17.12.08: Sicherheit in den Münchner Straßentunnels
+- TOP 3.16.: Polizeiinspektion 42: Verkehrssituation in der Margarethe-Danzi-Straße, Einhaltung der Geschwindigkeitsbegrenzung Tempo 30 (Schreiben BA 9 vom 16.12.08)
+- TOP 3.17.: KVR: LZA-Bauprogramm 2009 (Schreiben BA 9 vom 19.12.08)
+- TOP 3.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.09: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen; Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen
+- TOP 3.19.: KVR: Anfahrtszone für Krankenfahrzeuge und Schwerbehindertenparkplätze für das Diagnosezentrum Franz-Schrank-Str. 2
+- TOP 3.20.: Bürger: Absolutes Haltverbot in der Yorckstraße
+- TOP 3.21.: =&gt; dazu: KVR: Verkehrsrechtliche Anordnung des absoluten Haltverbots in der Yorckstraße
+- TOP 3.22.: Bürger: Unübersichtliche Situation in der Fahrradstraße westliche Canalettostraße / Radfahrerbarriere am westlichen Ende des Rad-/Fußwegs Canalettostraße
+- TOP 3.23.: Antrag: Verbesserung der Beleuchtung und der Bedienbarkeit der Parkscheinautomaten in der Albrechtstraße
+- TOP 3.24.: Pro Bahn Oberbayern: Baldiger Umbau des Bahnhofs Laim und Bau der Umweltverbundröhre
+- TOP 3.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09, Beschluss der Vollversammlung des Stadtrats vom 28.01.09 (und Hinweis/Ergänzung): 2. S-Bahn-Stammstrecke; Zwischenbericht
+- TOP 3.26.: Beschlussvorlage Baureferat: Ausschreibung eines Gestaltungswettbewerbes für den Romanplatz (Empfehlung Nr. 972 der Bürgerversammlung vom 22.11.2007)
+- TOP 3.27.: Baureferat: Bürgeranliegen Unzumutbare Fahrbahnenverschmutzung und gesundheitsschädigende (Fein-) Staubentwicklung im Bereich des Arnulfparks (Schreiben BA 9 vom 16.12.08)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 29.12.08-04.01.09, 05.01.-11.01., 12.01.-18.01., 19.01.-25.01. und 26.01.-01.02.09
+- TOP 3.2.: Bauvorhaben Wilhelm-Hale-Straße: Abgrabung der anthropogenen Auffüllung im Vorfeld von Baumaßnahmen
+- TOP 3.3.: Bauvorhaben Trojanostr. 15: Neubau einer Interims-Containeranlage für eine Grundschule; hier: Baumfällungen
+- TOP 3.4.: Sozialreferat: Neuer Mieterbeirat
+- TOP 3.5.: Sozialreferat: Neues Zweckentfremdungsrecht
+- TOP 3.6.: Bauvorhaben Böcklinstr. 37: Sanierung und Erweiterung (Anbau) eines denkmalgeschützten Wohngebäudes
+- TOP 3.7.: Bauvorhaben Döllingerstr. 12: Neubau 2er Einfamilienhäuser mit Tiefgarage, Vorbescheid
+- TOP 3.8.: Drastische Mieterhöhungen in Ramersdorf: Konterkariert die städtische Wohnungsbaugesellschaft Gewofag die städtischen Bemühungen zur Stärkung des lokalen Gewerbes ? (Antwort auf eine Stadtratsanfrage aus der Rathaus Umschau)
+- TOP 3.9.: Beschluss des Schul- und Sportausschusses vom 04.02.09: Durchführung einer Brandschutz-maßnahme am Adolf-Weber-Gymnasium und der Franz-Auweck-Abendschule an der Kapschstr. 4
+- TOP 3.10.: Bauvorhaben Ysenburgstr. 6: Sanierung eines Mehrfamilienhauses mit DG-Ausbau, Lifteinbau und Balkonanbau, Heizungsneubau; Tektur
+- TOP 3.11.: Bauvorhaben Volkartstr. 56: Umbau eines Mehrfamilienhauses in ein Einfamilienhaus - Veränderung der Rückfassade / Statik;Tektur
+- TOP 3.12.: Planungsreferat: Einladung zur Informationsveranstaltung "Ergebnisse des Grundlagenworkshops Entwicklungsplanung Olympiapark 2018" am 17.02.09
+- TOP 3.13.: Bürger: Massive Lärmbelästigung durch Abbrucharbeiten in der Volksgartenstr. 2
+- TOP 3.14.: Bauvorhaben Blutenburgstr. 75: Neubau eines Wohngebäudes mit Garage
+- TOP 3.15.: Verein zur Erhaltung Gerns e.V.: Jägerhaus Ecke Klug-/Gerner Straße
+- TOP 3.16.: Planungsreferat: Genehmigung einer Werbeanlage in der Dachauer Str. 110
+- TOP 3.17.: Bauvorhaben Wilhelm-Hale-Str. 35-37: Abgrabung der anthropogenen Auffüllung im Vorfeld von Baumaßnahmen
+- TOP 3.18.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.09: Perspektive München; Fortschreibung des Zentrenkonzeptes Nahversorgung
+- TOP 3.19.: Bebauung des Heilig-Geist-Geländes
+- TOP 3.20.: Beschluss des Bauauschusses vom 10.02.09: Öffentliche Grünanlage an der Wilhelm-Hale-Straße / Schloßschmidstraße im Umgriff der Bebauungspläne mit Grünordnung Nr. 1926a und Nr. 1926b
+- TOP 3.22.: Planungsreferat: Leerstand und Verfall der Immobilie Ignaz-Perner-Str. 8, Öffentliche Sicherheit und Ordnung
+- TOP 3.23.: =&gt; dazu: Baureferat: Missachtung der Räum- und Streupflicht (Anfrage Nr. 59 aus der Bürgerversammlung vom 04.12.08)
+- TOP 3.24.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Nymphenburger Straße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Schwere-Reiter-Str. 9: Fällung von 11 Bäumen, Baumveränderung an 34 Bäumen
+- TOP 3.2.: Groffstr. 19: Fällung von 1 Bergahorn
+- TOP 3.3.: Blücherstr. 6: Fällung von 1 Ahorn
+- TOP 3.4.: Blücherstr. 8: Fällung von 1 Birke und 1 Ahorn
+- TOP 3.5.: Winthirplatz 4: Fällung von 1 Spitzahorn
+- TOP 3.6.: Washingtonstr. 7: Fällung von 1 Sommer-Linde
+- TOP 3.7.: Bolivarstr. 11: Fällung von 1 Zitterpappel
+- TOP 3.8.: Frickastr. 31: Fällung von 1 Birke
+- TOP 3.9.: Planungsreferat: Fällungsgenehmigung für einen Gefahrenbaum, Blücherstr. 2 (Kastanie)
+- TOP 3.10.: Baureferat: Fällen von Gefahrenbäumen in der Waisenhausstr. 20
+- TOP 3.11.: Baureferat: Fällen von Gefahrenbäumen in der Hubertusstr. 34 und in der Dom-Pedro-Str. gegenüber Johann-Sebastian-Bach-Straße
+- TOP 3.12.: Bürger: Baumfällarbeiten in der Neustätterstraße / Wiederanpflanzung
+- TOP 3.13.: Green City e.V.: Wanderbaumallee 2009
+- TOP 3.14.: Baureferat: Bachräumungstermine 2009 für die Stadt- bzw. Stadtrandbäche
+- TOP 3.15.: Baumfällungen Januar: a) Brunhildenstr. 34: Fällung von 2 Fichten b) Kratzerstr. 30: Fällung von 1 Lärche c) Reinmarplatz 12: Fällung 1 von Ahorn, Baumveränderung an 1 Ahorn
+- TOP 3.16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.17.: Planungsreferat: Fällungsgenehmigung Hubertusstr. 31 (Wiedervorlage aus der Sitzung vom 20.01.09)
+- TOP 3.18.: Baureferat: Bürgeranliegen Säuberung von Gehwegen im Bereich Donnersbergerstr. 40-46 (Schreiben BA 9 vom 16.12.08)
+- TOP 3.19.: Baureferat: Anbringung von Aushängen und dergleichen an Straßenbäumen (Schreiben BA 9 vom 13.11.08)
+- TOP 3.20.: Baureferat: Sanierung "Platz der Freiheit" (Antrag Nr. 514 BA 9 vom 21.10.08)
+- TOP 3.21.: Antrag SPD: Informationen zur Baumschutzverordnung
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Einladung zur Sitzung der PSAG West am 12.02.09
+- TOP 3.3.: Einladung zur Sitzung der ÖAG "Alte Menschen" am 16.02.09
+- TOP 3.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 03.02.09: Investitionskostenförderung Kinderkrippe Andreestr. 12
+- TOP 3.5.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: a) Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/09 b) Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/09 c) Schüler/innen und Klassenstand der Beruflichen Schulen im Schuljahr 2008/09 d) Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/09 e) Schüler- und Klassenzahlen an den städtischen und staatlichen Realschulen und der städt. Franz-Auweck-Abendschule im Schuljahr 2008/09
+- TOP 3.6.: Spielen in der Stadt e.V.: Spielbuseinsätze in den Stadtbezirken 2009
+- TOP 3.7.: Direktorium: 11. LILALU Festival 2009 auf dem Theaterfestivalgelände
+- TOP 3.8.: LILALU: Neues Projekt "Mädchen an den Ball"
+- TOP 3.9.: Kinderfest BA 9
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12.: Beschluss der Vollversammlung vom 17.12.08: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.13.: Beschluss der Vollversammlung vom 17.12.08: Haushaltsplan 2009; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 3.14.: Bürgermeisterin Strobl: Förderung der Mittagsbetreuung Marsmännchen
+- TOP 3.15.: Beschluss des Schul- und Sportausschusses vom 04.02.09: Brandschutzsanierung und Umbau Grund- und Hauptschule Alfonsstr. 8
+- TOP 3.16.: MGS: Neuhauser Trafo, Baubeginn Kinderkrippe (Schreiben BA 9 vom 16.12.08)
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Nachnutzung Schulstr. 5 (Wiedervorlage aus der Sitzung vom 20.01.09)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Bürger: Zwischenstand Wandgestaltungsprojekt Donnersbergerbrücke
+- TOP 3.4.: Kulturreferat: Wiedererrichtung des "Hirschalter" Denkmals im Hirschgarten (Schreiben BA 9 vom 18.11.08 - Abgabenachricht)
+- TOP 3.5.: Janusch Kozminski Filmproduktion: Straßen-Filme in Neuhausen-Nymphenburg
+- TOP 4.: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: KVR: Losverkaufsstände Tombola für München vom 12.03. - 11.10.09 am Rotkreuzplatz
+- TOP 4.2.: KVR: Kundgebung am 17.01.09 am Rosa-Luxemburg-Platz zum Gedenken an die Ermordung Rosa Luxemburgs und Karl Liebknechts
+- TOP 4.3.: KVR: Pächterwechsel a) Gaststätte "Bärenwirt", Winthirplatz 1 b) Gaststätte "Trattoria Semplice", Albrechtstr. 32 c) Cafe "Trattoria Mimi", Helene-Weber-Allee 9 d) Gaststätte "Edwards", Ysenburgstr. 13
+- TOP 4.4.: KVR: Drehgenehmigungen a) Südl. Auffahrtsallee, Gerner Brücke am 23.01.09, Produktion "Soko 5113" b) Tizianstr. 139, Tizianplatz 7-8 am 23.01.09, Produktion "Soko 5113" c) Straßen innerhalb des Stadtgebiets vom 14.01.-30.06.09, Produktion "K11 - Kommissare im Einsatz"
+- TOP 4.5.: Referat für Gesundheit und Umwelt: Einladung zur Veranstaltung "G'sundes München - G'sundes Leben - Was erwarten Sie dazu von Ihrer Stadt ?!" am 19.02.09
+- TOP 4.6.: Beschlussvorlage KVR: Entscheidung über eine Freischankfläche, Bäckerei Frisch und Lecker, Rotkreuzplatz 2a (Wiedervorlage aus der Sitzung vom 20.01.09)
+- TOP 4.7.: Kleingärtnerverein Nord-West 16: Altkleidercontainer in der Kleingartenanlage (Wiedervorlage aus der Sitzung vom 20.01.09)
+- TOP 4.8.: Sozialreferat: Wahl der 9. Münchner Seniorenvertretung - Werbung zur Wahl
+- TOP 5.: Verschiedenes
+- TOP 3.17.: Beschluss der Vollversammlung des Stadtrats vom 17.12.08: Bauprogramm der Münchenstift GmbH: Generalsanierung des Münchner Bürgerheims
