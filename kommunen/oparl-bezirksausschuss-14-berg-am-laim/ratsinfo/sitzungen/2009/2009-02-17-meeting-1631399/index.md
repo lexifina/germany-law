@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-02-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631399
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631399
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Antrag auf Genehmigung einer Freischankfläche in der Kreillerstraße 5
+- TOP 3.: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bebauungsplan mit Grünordung - Aufstellungsbeschluss - Berg-am-Laim-Straße (nördlich), Weihenstephaner Straße (östlich), Streitfeldstraße (nördlich), Neumarkter Straße (beidseits) - (Teiländerung der Bebauungspläne Nrn. 82c und 1319) - Antwortschreiben
+- TOP 3.1.1.2.: Friedenstraße 10 - Optimolgelände - "Garage" - Verlängerung der Baugenehmigung
+- TOP 3.1.1.3.: Wanderbaumallee 2009
+- TOP 3.1.1.4.: Alabamahalle ? Umwandlung in eine Konzerthalle
+- TOP 3.1.2.1.: Parkraummanagement in München - Festlegung der 3. und 4. Priorität - hier: Erweiterung des Sektor 4, Stadtbezirk 14
+- TOP 3.1.2.2.: Annabrunner Straße - Einbahnregelung - Parkverbote - Verkehrsspiegel - Versetzung der Wertstoffinsel - <div></div>
+- TOP 3.1.2.3.: Versetzung von Containern in der Baumkirchner Straße
+- TOP 3.1.2.4.: Radveranstaltung "Velonale München" am 26.07.09 - Vorprüfung durch das KVR
+- TOP 3.1.2.5.: Maifeier in der Baumkirchner Straße am 01.05.2009
+- TOP 3.1.2.6.: Zweijähriger Probebetrieb der Verlängerung der Buslinie 185 im Bereich Josephsburg
+- TOP 3.1.2.7.: Fahrgastanzeigen an Haltestellen der Tramlinie 19
+- TOP 3.2.1.: Tag des offenen Denkmals am 13.09.2009
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Ansiedlung eines Montessori-Kinderhauses in Berg am Laim
+- TOP 3.3.2.: Planung der Einsätze der Münchner SommerSpielAktion 2009
+- TOP 3.3.3.: 3. Münchner Jugendgesundheitstag an der Ludwig-Thoma-Realschule am 15.05.2009
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Mittelfristige Finanzplanung 2008 - 2012
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Talerweg 22 - Antrag auf Baumfällung
+- TOP 3.7.2.: Talerweg 24 - Antrag auf Baumfällung
+- TOP 3.7.3.: Talerweg 26 - Antrag auf Baumfällung
+- TOP 3.7.4.: Trausnitzstraße 30 - 36 - Freiflächengestaltungsplan
+- TOP 3.7.5.: Neumarkter Straße 66 - 68 - Freiflächengestaltungsplan
+- TOP 3.7.6.: Anzinger Straße 35 - Baumbestandspläne
+- TOP 4.: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über öff. und priv. Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Perspektive München - Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung - a) Grundsatzbeschluss b) Antrag des Bezirksausschuss Laim
+- TOP 4.1.1.3.: Neuer Mieterbeirat - Überarbeitung der Satzung
+- TOP 4.1.1.4.: Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum (ZeS)
+- TOP 4.1.1.5.: Sonnwendjochstraße 16 - Abbruchanzeige
+- TOP 4.1.1.6.: Diskothek "100 Grad" - Friedenstraße 10
+- TOP 4.1.2.1.: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen
+- TOP 4.1.2.2.: Stadt-Umland-Bahn - Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen - Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen
+- TOP 4.1.2.3.: Hearing zum aktuellen Vergleich 2. S-Bahn-Tunnel und S-Bahn-Südring
+- TOP 4.1.2.4.: Kreillerstraße 18 ? Behindertenparkplatz (Überprüfung)
+- TOP 4.1.2.5.: Lkw-Parken in der Schlüsselbergstraße, Altöttinger Straße, Fehwiesenstraße
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Wahl der 9. Münchner Seniorenvertretung - Werbung zur Wahl
+- TOP 4.5.1.: Förderkreis Grafingerschule - Schriftverkehr
+- TOP 4.5.2.: Interessensgemeinschaft Berg-am-Laim-Str. 131 - Verwendungsnachweis
+- TOP 4.5.3.: Frühzeitige Unterrichtung der Bezirksausschüsse
+- TOP 4.5.4.: Themenauswahl zur Bürgerversammlung Berg am Laim am 19.03.2009
+- TOP 4.6: Sonstige
+- TOP 4.6.1.: Hansjakobstraße 55 - Fällungsgenehmigung
+- TOP 5.: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
