@@ -1,0 +1,53 @@
+# Rat (46. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2009-02-18T17:00:00+01:00
+- Ende: 2009-02-18T21:50:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfj19RdwpY7iwoa_AmSA4GA
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1647
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf9WeqdpkzWcC2W2nEz6oob_WT-jjK-9Yld64A1Le49b/Bekanntmachung_Rat_18.02.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZekDRAtRossUfGd9rOTin-l6HOmdxRUKP6EPPr1tzHbJ/Oeffentliche_Niederschrift_Rat_18.02.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Rechnungen der Stadtwerke Gronau GmbH (Bernd Honermann, Auf der Sunhaar 18, 48599 Gronau)
+- TOP 2.2: Ausbaupläne zur Straße Buschgarten (Heinz Oberhaus, Buschgarten 45, 48599 Gronau)
+- TOP 3.: Niederschrift vom 21.01.2009
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Verbesserung der Verkehrssituation in den Kreisverkehren der Bahnunterführung; Antrag der UWG-Fraktion vom 05.02.2009 - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Maßnahmen der Stadt Gronau zum Konjunkturprogramm II; Antrag der Fraktion Pro Bürgerschaft vom 06.02.2009, Antrag der SPD-Fraktion vom 05.02.2009 sowie Antrag der GAL-Fraktion vom 06.02.2009 - Einstimmig, 0 Enthaltungen
+- TOP 4.3: Kommunale Seniorenpolitik; Antrag der FDP-Fraktion vom 09.02.2009 - 31 Jastimmen, 8 Neinstimmen, 0 Enthaltungen
+- TOP 5.: Einbringung des Budgetentwurfs 2009 - Einstimmig, 0 Enthaltungen
+- TOP 6.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2009 II. Abwassergebührenkalkulation für das Jahr 2009 - 31 Jastimmen, 8 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Wirtschaftsplan der Zentralen Bau- und Umweltdienste der Stadt Gronau 2009 - Einstimmig, 2 Enthaltungen
+- TOP 8.: 90. Änderung des Flächennutzungsplanes der Stadt Gronau, Bereich: Schwartenkamp/Tieker Damm, Stadtteil Gronau Bebauungsplan Nr. 148 "Schwartenkamp/Tieker Damm", Stadtteil Gronau Aufstellungsbeschluss Beteiligung der Öffentlichkeit Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Anordnung der Umlegung - 28 Jastimmen, 11 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Bebauungsplan Nr. 69 "Forstgarten", 1. vereinfachte Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung nach § 13a BauGB) Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB und der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 10.: Bebauungsplan Nr. 144 "Spinnerei Deutschland", 2. vereinfachte Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung nach § 13a BauGB) 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 11.: Bebauungsplan Nr. 153 „Schöttelkotter Damm / Von-Steuben-Straße“ Einfacher Bebauungsplan gemäß § 13 BauGB zur Steuerung der Hinterlandbebauung im Blockinnenbereich „Schöttelkotter Damm / Von-Steuben-Straße / August-Hahn-Straße / Tannenbergstraße“ 1. Billigung der Plankonzeption 2. Aufstellungsbeschluss 3. Beteiligung der Öffentlichkeit 4. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 12.: Bebauungsplan Nr. 20 "Altstadtsanierung I", 1. vereinfachte Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung nach § 13a BauGB) Aufstellungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 13.: Richtlinien über die Vergabe von Leistungen und Bauleistungen der Stadt Gronau (Westf.) vom 08.03.2000 1. Änderung - 32 Jastimmen, 6 Neinstimmen, 1 Enthaltungen
+- TOP 14.: Splittung der Tätigkeit des Fachdienstleiters -Rechnungsprüfung- Ergebnis der kommunalaufsichtlichen Prüfung - Ohne Abstimmung
+- TOP 15.: Gründung der Regionale 2016 Agentur GmbH - 36 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 16.: Terminplanung für das 2. Quartal 2009 - Ohne Abstimmung
+- TOP 17.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 17.1: Prüfungsbemerkungen des Landesrechnungshofes zum Projekt "Landesgartenschau Gronau/Losser 2003"
+- TOP 18.: Klage der Stadt Gronau gegen die Versagung der Genehmigung der Änderung des Flächennutzungsplanes bezüglich des Bereiches SO 1 für das geplante Factory-Outlet-Center mit einer Verkaufsfläche von max. 10.000 qm Berufung gegen das Urteil des Verwaltungsgerichtes Münster vom 03. Februar 2009 (Az.: 2 K 910/08) - 20 Jastimmen, 16 Neinstimmen, 1 Enthaltungen
+- TOP 18.1: Mitteilungen der Verwaltung
+- TOP 19.: Anfragen
+- TOP 19.1: Maßnahmen im Straßenverkehr für körperlich Beeinträchtigte (RM Walkowiak und RM Krause)
+- TOP 19.2: Erinnerung an Beantwortung einer Anfrage (RM Buchholz)
+- TOP 19.3: Kontaktadresse im Rathaus zulässig? (RM Buchholz)
+- TOP 19.4: Schwierigkeiten bei der Finanzierung des Windparks Borkum West II (RM Schwartze)
+- TOP 19.5: Oberflächenwassereinlauf der Gildehauser Straße erheblich abgesenkt (RM Bajorath)
+- TOP 19.6: Sachstandsbericht ärztliche Notfalldienstreform (RM Doetkotte)
+- TOP 19.7: Unter Adresse "Oststraße 17" neuer Plus-Markt geplant? (RM J. Lenz und RM Rehbein)
+- TOP 19.8: Vermietungssituation in der Eper Perle (RM Schwartze)
+- TOP 19.9: Kontakt der Verwaltung zu H&M (RM Walkowiak)
+- TOP 19.10: Termin für den Verkauf der Notunterkunft Tieker Damm (RM Buchholz)
