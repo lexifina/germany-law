@@ -1,0 +1,107 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-02-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586410
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586410
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2.: Bürgeranliegen
+- TOP 2.1.: Nutzung der P+R-Anlagen Langwied und Lochhausen (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 3.: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Roggensteiner Weg 9, 1 Rotbuche und 2 Birken - Hoheneckstr. 47, 1 Lerche - Kräheneckstr. 10, 1 Birke - Stockacher Str. 5, s. Baumbestandplan Nr. 2008-32794 - Kurt-Floericke-Str. 27, 1 Tanne, 3 Fichten, 1 Kiefer - Rohrsängerpl. 3, 3 Fichten - Rohrsängerpl. 11, 2 Fichten
+- TOP 3.2.: - Ebracher Str. 16 - Genehmigung zur Fällung von 4 Bäumen, Schr. Planungsreferat vom 23.01.09 - Hoheneckstr. 105 - Rücknahme der Baumfällungen, Schr. Planungsreferat vom 15.01.09
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4.: Anträge
+- TOP 4.1.: Bürgeranliegen / Dringlichkeitsantrag: Verkehrliche Regelung des Baustellenverkehrs am Baugebiet Schussenrieder Str. / Schubinweg
+- TOP 4.2.: Ausgleichsflächen im 22. Stadebezirk
+- TOP 4.3.: Aufnahme der Stadtteile Aubing, Neuaubing und Westkreuz in das Projekt "Soziale Stadt"
+- TOP 4.4.: Instandsetzung des momentan stillgelegten Geh- und Radweges an der Papinstr.
+- TOP 5.: Entscheidungen
+- TOP 5.1.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Pro Vita Ausserklinische Intensivpflege Christina Shawky-Böhme GmbH & Co.KG (UA Budget)
+- TOP 5.2.: Antrag auf Gewährung eines Zuschusses aus dem Buget des BA 22, Antragsteller: Elternbeirat der Grundschule Gotzmannstraße (UA Budget)
+- TOP 3: (E) 1. Erweiterung des Fußweges an der Eichenauer Straße zwischen Wildenrother Straße und Imkerweg zu einem Geh- und Radweg (Ziffer 1 des Antrages + Anlage 2 Nr. 3) Empfehlung Nr. 08-14 / E 00048 der Bürgerversammlung des Stadtbezirkes 22 Aubing ? Lochhausen ? Langwied am 03.07.2008 2. Ausbau der Fahrradstrecke von Aubing nach Puchheim (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 00050 der Bürgerversammlung des Stadtbezirkes 22 Aubing ? Lochhausen ? Langwied am 03.07.2008
+- TOP 3.4.: Antrag auf Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: BRK Wasserwacht OG München-West (UA Budget)
+- TOP 6.: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 6.1.: Neuer Mieterbeirat, Anhörung des Sozialreferats vom 15.01.2009
+- TOP 6.2.: Aktionsforum für Familien - Aktionstag für Familien am 15.05.09, Anhörung des Sozialreferats vom 15.01.09
+- TOP 6.3.: Anmeldung eines Feuerwerks an der Eschenriederstr. 98 am 01.08.2009, Anhörung des KVR v. 04.02.2009
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 6.1.: Veranstaltungen im Januar 2009, Schr. Kulturreferat vom 08.01.09
+- TOP 6.2.: Kunstrasenplatz SV Aubing e.V., Schr. des Oberbürgermeister vom 14.01.09
+- TOP 6.3.: Wahl der 9. Münchner Seniorenvertretung - Werbung zur Wahl, Schr. Sozialreferat vom 19.01.09
+- TOP 6.4.: Neues Recht - Zweckentfremdung von Wohnraum, Schr. Sozialreferat vom 20.01.09-
+- TOP 6.5.: Zweckentfremdung von Wohnraum: a) Wiesentfelser Straße b) Hoheneckstraße
+- TOP 6.6.: Wirtschafts-Info Januar 2009, Schr. Referat für Arbeit und Wirtschaft am 30.01.09
+- TOP 6.7.: Bewerbung als Schnellzeichner für Veranstaltungen, Schr. von Fam. Amelkin vom 31.01.09
+- TOP 6.8.: Veranstaltungen im Februar 2009, Schr. Kulturreferat vom 02.02.09
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Pfarrgebietsgrenzen im Neubaugebiet Freiham, Schr. des Erzbischöflichen Ordinariats vom 30.01.2009
+- TOP 6.2.: Bebauung Freiham; Entwicklung eines kinder- und jugendgerechten Spielplatzkonzeptes unter Einbeziehung der örtlichen Kinder- und Jugendbeauftragten, Schr. Planungsreferat vom 27.01.09
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Stockacher Str. 5, Umbau und Nutzungsänderung eines Gebäudes, Anhörung des Planungsreferats vom 26.01.09
+- TOP 6.2.: Colmdorfstr., Neubau eines Mehrfamilienhauses mit Tiefgarage, Anhörung des Planungsreferats vom 26.01.09
+- TOP 6.3.: Eichenauer Str. 1, Neubau einer Wohnanlge mit Tiefgarage, Anhörung des Planungsreferats vom 26.01.09
+- TOP 6.4.: Vollzug des Allgemeinen Eisenbahngesetzes; Plangenehmigung für Umbaumaßnahme zur Umsetzung des Brandschutzkonzeptes mit erforderlicher Sanierung der DB Regio Werkstatt Mü-Pasing, Anhörung des Planungsreferats vom 14.01.09 (vertagt aus 01-09)
+- TOP 6.5.: Erinnerungsverfahren: Straßensanierung Bodenseestraße 244 - 268, Anhörung des Baureferats v. 28.01.2009
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 05.01. - 11.01.09, v. 12.01. - 18.01.09, v.19.01. - 25.01.09, 26.01. - 01.02.09), Schr. Planungsreferat vom 12.01.09, 19.01.09, 26.01.09, 02.02.09
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 12.01.09, 19.01.09, 26.01.09, 02.02.09
+- TOP 6.3.: Querungsmöglichkeit für Fußgänger an der Radolfzeller Str., Schr. Baureferat vom 12.01.09 und Schr. KVR vom 05.02.09
+- TOP 6.4.: Ausschneiden der Sträucher am Gehweg Hellensteinstr., Schr. Baureferat vom 21.01.09
+- TOP 6.5.: Verschmutzung S-Bahnhof Westkreuz - Ortstermin, Schr. DB Station&Service vom 21.01.09
+- TOP 6.6.: Ausbau der Rothenfelser Straße zwischen Freienfels- und Limesstraße und der Mariabrunner Straße zwischen Sulzemooser Straße und Schönbrunner Straße, Schr. Baureferat vom 09.01.09
+- TOP 6.7.: Mängel an den DSD-Containerinseln im Gebiet München West, Schr. Abfallwirtschaftsbetrieb München vom 16.01.09
+- TOP 6.8.: Vollzug der Straßenverkehrsordnung: Erlaubnis zu Filmaufnahmen auf öfftentl. Verkehrsgrund - Trimburgstr. 7, Schr. KVR vom 20.01.09
+- TOP 6.9.: Vollzug der Wassergesetze - Bachräumungstermine 2009 für die Stadt- und Stadtrandbäche, Schr. Baureferat vom 12.01.09
+- TOP 6.10.: Kanalbau im Umgriff d. Bebauunsplanes Nr. 1955, Schr. Baureferat vom 17.11.08
+- TOP 6.11.: Unveränderte Fortführung der Gaststätte: a) Certisa Croatica, Henschelstr. 3, Schr. KVR vom 08.01.09 b) Bäckerei Konditorei Cafe Reicherzer (bisher: Cafe Riedmayr), Limesstr. 14,Schr. KVR vom 07.01.09
+- TOP 6.12.: Zebrastreifen oder Bedarfsampel statt Lotsenfurt an der Kreuzung Pretzfelder-/ Streitberg- und Colmdorfstraße; Gesicherter Schulwegübergang an der Lotsenfurt Pretzfelder Str. / Ecke Colmdorf, Schr. KVR vom 22.01.09
+- TOP 6.13.: Parkplatz für die Aubinger Lohe an der Eichenauer Str., Schr. Planungsreferat vom 26.01.09
+- TOP 6.14.: Wiesentfelser Straße: Einrichtung einer Haltverbotszone im Kurvenbereich, Schr. KVR vom 31.10.08
+- TOP 6.15.: Parkerleichtung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Altostr. 20, Schr. KVR vom 26.01.09
+- TOP 6.16.: Radwegverbindung zu den Böhmer Weihern und Puchheim; Radwegverlängerung Eichenauer Str., Schr. Planungsreferat vom 26.01.09
+- TOP 6.17.: Prüfung der Verkehrssituation an der Altostr. / Marzellgasse, Schr. KVR vom 27.01.09
+- TOP 6.18.: Protokoll zum Ortstermin " Kneippanlage am Langwieder Bach"
+- TOP 6.19.: Herstellung des Fahrradweges an der Bergsonstr., Schr. Baureferat vom 29.01.09
+- TOP 6.20.: Errichtung einer Wartehalle an der Haltestelle Hans-Steinkohl-Straße der Buslinie 157, Schr. SWM vom 29.01.09
+- TOP 6.21.: Erhalt der Sperrung für den Verkehr in der Vogelerstraße, Schr. KVR vom 30.01.09
+- TOP 6.22.: Mitteilung über ein Grundstückgeschäft: Bodenseestraße - unentgeltliche Rückübereignung, Schr. Kommunalreferat vom 29.01.09
+- TOP 8.1.: Besserer Informationsfluss der Stadtverwaltung, Schr. des Oberbürgermeister, eingeg. 03.02.09
+- TOP 8.2.: Mittelfristige Finanzplanung 2008 - 2012, Schr. Stadtkämmerei vom 26.01.09
+- TOP 8.3.: Frühzeitige Unterrichtung der Bezirksausschüsse, Schr. des Oberbürgermeisters vom 02.02.09
+- TOP 8.4.: Aufstellfläche für Ritterburg im 22. Stadtbezirk, Schr. Planungsreferat vom 21.01.09
+- TOP 9.: Antworten der Stadt / Sonstige Antworten
+- TOP 10.: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Kreisverwaltungsreferats, des Kulturausschusses und des Schul- und Sportausschusses in der gemeinsamen Sitzung vom 03.02.09: EU-Projekt Child Friendly Cities (UA Soziales)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.09: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen (UA Planung)
+- TOP 10.3.: Beschluss der Vollversammlung des Stadtrates vom 28.01.09: 2. S-Bahn-Stammstrecke München (UA Planung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.09: Stadt-Umland-Bahn (UA Planung)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 11.02.09: Perspektive München; Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung (Hinweis/Ergänzung) (UA Planung)
+- TOP 11.: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zur Veranstaltung "Leitlinie Gesundheit" am 19.02.09 im Alten Rathaussaal
+- TOP 11.2.: Fachtag "Mädchen und Frauen in der extremen Rechten" am 06.03.09 im Feierwerk/Kranhalle, Hansastr. 39
+- TOP 11.3.: Tag des offenen Denkmals am 13.09.09
+- TOP 11.4.: Einladung zur Ausstellung "Städtebaulicher und landschaftsplanerischer Realisierungswettbewerb Messestadt Riem - 4. Bauabschnitt Wohnen" vom 03.02. - 13.02.09 im Foyer des Referats für Stadtplanung und Bauordnung, Blumenstr. 28 b
+- TOP 11.5.: Einladung der Spaten Brauereinentwicklungsgesellschaft Langwied GmbH zur Informationsveranstaltung am 17.03.09 um 18.00 Uhr
+- TOP 12.: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 18.03.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13.: Nichtöffentliche Sitzung
