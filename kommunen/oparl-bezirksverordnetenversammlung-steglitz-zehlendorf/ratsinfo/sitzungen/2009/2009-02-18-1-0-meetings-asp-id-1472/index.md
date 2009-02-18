@@ -1,0 +1,105 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2009-02-18T17:00:00+01:00
+- Ende: 2009-02-18T20:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1472
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1472
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: "Die BVV ist doof", oder doch nicht? - beantwortet
+- TOP 3.2: Konjunkturpaket II- Investitionsmaßnahmen im Kita-Bereich - beantwortet
+- TOP 3.3: Kostenverdopplung beim Produkt Strafzettel - beantwortet
+- TOP 3.4: Was wird aus der Ruine der asbestbelasteten Bröndby-Oberschule? - beantwortet
+- TOP 3.5: Konsum und Handel von illegalen Betäubungsmitteln in Lankwitz - beantwortet
+- TOP 3.6: 70 Jahre Überfall auf Polen (k)ein Thema im Rahmen der bezirklichen Erinnerungspolitik? - beantwortet
+- TOP 3.7: Friedhofsentwicklungsplan - beantwortet
+- TOP 3.8: Baumaßnahmen an der Dreilinden-Grundschule und dem Dreilinden-Gymnasium - beantwortet
+- TOP 3.9: KFZ-Schranke an der Einfahrt zum Kastanienhof - beantwortet
+- TOP 3.10: Schirmherrschaften des Bezirksbürgermeisters - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel der BVV für das Kinder- und Jugendbüro Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Landschaftsplan XII-L-6 Steglitz-Zentrum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan XII-242-1 (Frobenstraße 77 / 81) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Hinweisschilder für HELIOS-Klinikum Emil von Behring auf der B 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Förderklassen für minderjährige unbegleitete Flüchtlinge der EAC in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Glascontainer in der Berlepschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Mehr Transparenz bei der Begründung neuer Städtepartnerschaften - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Freie Träger ins Umweltentlastungsprogramm Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Parkautomat - Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Mehr Kompetenzen für bezirkliche Straßenverkehrsbehörde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Geschäftszentrum am S-Bahnhof Nikolassee stärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Synagoge Hüttenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Graffitibeschmierung von Verteilerkästen im öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Zebrastreifen Onkel-Tom-Straße, Höhe Siebenendenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Haushaltsberatungen 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Hilfe für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Ampel Zehlendorf-Eiche mit moderner Signaltechnik ausstatten - überwiesen
+- TOP 5.1.2: Bebauungsplan X 26-1 / Bebauung Johannesstraße - überwiesen
+- TOP 5.1.3: Park and Ride ausbauen! - überwiesen
+- TOP 5.1.4: Baumnachpflanzungen - überwiesen
+- TOP 5.1.5: Mehr Rechtssicherheit für Sportvereine und Bezirksamt gewährleisten! - überwiesen
+- TOP 5.1.6: Straßenbahn auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.7: Aufstellung einer Informationstafel auf dem Platz an der Einmündung der Matterhornstraße in die Spanische Allee - überwiesen
+- TOP 5.1.8: Bebauungsplanverfahren - überwiesen
+- TOP 5.1.9: Auch Sanierung der Schulhöfe notwendig - überwiesen
+- TOP 5.1.10: Liegenschaft der Bundesanstalt für Risikobewertung (BfR) als Standort erhalten - überwiesen
+- TOP 5.1.11: Investitionsplanung rechtzeitig vorlegen - überwiesen
+- TOP 5.1.12: Den Pflegezustand der Parks in Steglitz-Zehlendorf nachhaltig verbessern - Jetzt! - überwiesen
+- TOP 5.1.13: Steglitz-Zehlendorfs Chancen nutzen II: Aufbau eines Technologie- und Gründerzentrums - überwiesen
+- TOP 5.1.14: Fahrradverleihstandorte im Bezirk - überwiesen
+- TOP 5.1.15: Maßnahmen zur Schulsanierung haben Vorrang - überwiesen
+- TOP 5.1.16: Aufwertung der Imbisse in der Schloßstraße - überwiesen
+- TOP 5.1.17: "In den neuen Gärten" und "Mudrastraße" für den Fahrradverkehr in beiden Richtungen freigeben - überwiesen
+- TOP 5.1.18: Energieausweise ins Internet - überwiesen
+- TOP 5.1.19: Die Schuleinzugsbereiche zu einem Schuleinzugsbereich zusammenlegen - überwiesen
+- TOP 5.1.20: Konjunkturprogramm II auch für Schulstruktur verwenden? - überwiesen
+- TOP 5.1.21: Parkregelung Wasgenstraße - überwiesen
+- TOP 5.1.22: Keine zusätzliche Verkehrsbelastung für die Malteserstraße - überwiesen
+- TOP 5.1.23: Die Türkische Bibliothek - überwiesen
+- TOP 5.1.24: Konzert für Jugendliche in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.25: Buswartehäuschen am Kamenzer Damm - Buslinie 181 - überwiesen
+- TOP 5.1.26: Fitnesstag in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.27: Kostengünstige Festnetzeinwahl für das Bezirksamt erhalten - Gegen Behördenruf-115-Abzocke - überwiesen
+- TOP 5.1.28: Bürgersteigflächen im Parkviertel Dahlem - überwiesen
+- TOP 5.1.29: Rolltreppen im U-Bahnhof Schloßstraße - überwiesen
+- TOP 5.1.30: Ladenstraße Onkel-Toms-Hütte wirtschaftlich stärken! - überwiesen
+- TOP 5.1.31: Standorte für Sekundarschulen sichern! - überwiesen
+- TOP 5.1.32: Beleuchtung des Weges zur Sporthalle Mühlenstraße - überwiesen
+- TOP 5.1.33: Stadtjäger in Steglitz-Zehlendorf einstellen - überwiesen
+- TOP 5.1.34: Keine Straßenbahn auf der Schloßstraße - überwiesen
+- TOP 5.1.35: Keine Autofahrergängelung in Steglitz-Zehlendorf durch Rot-Rot - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Dringliche Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Investitionsplanung 2009 - 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Investitionsplanung 2009 - 2013 dem Konjunkturprogramm II anpassen. Schul- und Straßeninvestition vorziehen - überwiesen
+- TOP 9: Haushaltsangelegenheiten - erledigt
+- TOP 9.1: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 9.1.1: Fortschreibung der Bezirkshaushaltsplanung 2009 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Große Anfragen - erledigt
+- TOP 10.1: Annäherung des Bezirksstraßenbildes an sozialistisches Einheitsgrau erwünscht? - beantwortet
+- TOP 10.2: Schlüsselverträge - beantwortet
+- TOP 10.3: Mittelvergabe aus dem Konjunkturpaket II und dem Programm des Senats zur Sanierung der Schulen - beantwortet
+- TOP 10.4: Prioritätenliste für das Konjunkturpaket II - beantwortet
+- TOP 10.5: Hausverbote für Jugendliche in Jugendfreizeitheimen? - beantwortet
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Auf den Einwohnerzuwachs reagieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Gaslaternen nur gegen ähnliche Leuchtkörper austauschen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Schlusswort des Vorstehers - erledigt
