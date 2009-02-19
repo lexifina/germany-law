@@ -1,0 +1,97 @@
+# 23. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-02-19T17:30:00+01:00
+- Ende: 2009-02-19T21:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1869
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1869
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=68818
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Mehr Schuldner – weniger Beratung - beantwortet
+- TOP 5.2: Verkauf der Reformationskirche? - beantwortet
+- TOP 5.3: Nach der Modenschau nun die Fressmeile auf dem August-Bebel-Platz ? - beantwortet
+- TOP 5.4: Mittel aus dem Konjunkturprogramm für das Job-Center? - beantwortet
+- TOP 5.5: Baumnachpflanzungen 2009 – mehr Lebensqualität im Bezirk? - beantwortet
+- TOP 5.6: Winterdienst - schriftlich beantwortet
+- TOP 5.7: Nahrungsangebot für Ratten in Mitte steigt - schriftlich beantwortet
+- TOP 5.8: Studenten machen Schule - auch in Mitte ? - schriftlich beantwortet
+- TOP 5.9: Erhöhte Kosten durch härteren Winter !! - schriftlich beantwortet
+- TOP 5.10: Wirtschaftliche Entwicklung des Bezirks Mitte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Attraktivität der Schulen in Mitte - beantwortet
+- TOP 7.2: Vielfalt fördern – Zusammenhalt stärken (3) - beantwortet
+- TOP 7.3: Mittel aus dem Konjunkturprogramm für Jobcenter - beantwortet
+- TOP 7.4: Konjunkturprogramm für Schulen – Stand der Planungen für die Umsetzung im Bezirk Mitte - beantwortet
+- TOP 7.5: Welche Mittel bekommen die Eigenbetriebe Kindergärten City aus dem Bund-Länder-Konjunkturprogramm? - schriftlich beantwortet
+- TOP 7.6: Vignetten bei der Parkraumbewirtschaftung des Bezirks - schriftlich beantwortet
+- TOP 7.7: Partnerschaftsreise Istanbul-Beyoglu und mitreisende Quartiersrätin - schriftlich beantwortet
+- TOP 7.8: Schulenergietag 2009 - schriftlich beantwortet
+- TOP 7.9: Unmut auch in den Bürgerämtern des Bezirks Mitte? - schriftlich beantwortet
+- TOP 7.10: Konjunkturprogramm II - schriftlich beantwortet
+- TOP 7.11: Alkoholausschank gemäß Kooperationsvereinbarungen? - schriftlich beantwortet
+- TOP 7.12: Berufseinstiegsbegleitung als zentraler Baustein eines künftigen Berufsbildungskonzeptes - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf II-169 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-169 - überwiesen
+- TOP 9.2: Bebauungsplanentwurf I-B5e sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-B5e - überwiesen
+- TOP 9.3: Bebauungsplanentwurf I-B5t sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-B5t - überwiesen
+- TOP 9.4: Beitragspflichtige Erneuerung der Straßenentwässerung der südlichen Verkehrsanlage Osloer Straße im Abschnitt von Koloniestraße bis Panke - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Beitragspflichtige Erneuerung der Straßenentwässerung in der Reinickendorfer Straße von Gottsched- bis Wiesenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf 1-16 VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-16 VE - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplanentwurf 1-39 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-39 - zurückgezogen
+- TOP 10.3: Bebauungsplan 1-12 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-12 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Besetzung des Jugendhilfe-Ausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Patientenfürsprecher - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Besetzung des Jugendhilfe-Ausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Fristverlängerung für Investitionsanmeldungen - zurückgezogen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Haushaltspolitische Leitlinien für den Doppelhaushaltsplan 2010/2011 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Nutzungszeiten für Sport im Bezirk ausweiten - Temporäre Sporthalle am Nordbahnhof ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Wirtschaftsförderung, hier: „Ethnische Ökonomie“ 1 - überwiesen
+- TOP 12.4: Doppelnutzung des Sportplatzes OSZ Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Hinweisschilder für die Seniorenvertretung im Rathaus Wedding - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Vermarktung von Großflächenwerbung - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Autofreier Sonntag 2009 - in der BVV abgelehnt
+- TOP 12.8: Mehr Verkehrssicherheit am Monbijouplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Seniorenwahlrecht stärken - überwiesen
+- TOP 12.10: Öffentlicher Raum wird „Shared Space – Begegnungszone“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Energieausweise bezirklicher Liegenschaften ins Internet stellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: U-Bahnlinie 5 in die Turmstraße! - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 13.1: Offener Protestbrief an den Senator für Bildung, Wissenschaft und Forschung - ohne Änderungen in der BVV beschlossen
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Fristgerechte Bezahlung gewerblicher Rechnungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Nutzungspflicht Zentrale Vergabestelle - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Verbleib des Sozialmedizinischen Dienstes und der Beratungsstelle für sexuell übertragbare Krankheiten sowie AIDS im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Quartiersratswahlen mit verstärkter Bürgerbeteiligung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Was kostet wo wie viel? - Die Berliner Hauptverwaltung im Kostenvergleich - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Mehr Bäume - mehr Freunde, wie viel Freunde braucht Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Parkraumbewirtschaftung als AnwohnerInnen-freundliches Instrument stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Gesunder Bezirk Mitte (3) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Pflegestützpunkte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Das Gelöbnis soll jedes Jahr auf dem Platz der Republik stattfinden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Zentraler Festplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Bericht über Pflegestützpunkte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.11: Interessenbekundungsverfahren des JobCenters Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Jahresbericht 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Integrierte Handlungs- und Entwicklungskonzepte der Quartiersmanagement-Gebiete Moabit West, Magdeburger Platz, Reinickendorfer-/Pankstraße, Soldiner Straße, Sparrplatz, Brunnenviertel-Ackerstraße und Brunnenviertel-Brunnenstr. – Fortschreibung 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Beschluss über das Ergebnis der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 Baugesetzbuch zum Bebauungsplan III-244, die Reduzierung des Geltungsbereiches des Bebauungsplans III-244, die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch, die Erweiterung des Geltungsbereichs des Bebauungsplans III-215 - mit Abschlussbericht zur Kenntnis genommen
