@@ -1,0 +1,7 @@
+# TOP 3: Zentrum Plus Gerresheim
+
+- Sitzung: Bezirksvertretung 7 (2009-02-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/155141
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/47734
