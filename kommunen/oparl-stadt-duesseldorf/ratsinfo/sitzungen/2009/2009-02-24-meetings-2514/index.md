@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-02-24T17:00:00+01:00
+- Ende: 2009-02-24T00:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126351.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126351.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126351.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Zentrum Plus Gerresheim
+- TOP 4: Stadtteilbücherei Gerresheim
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Einbringung des Entwurfs des Nahverkehrsplanes
+- TOP 8: Ortsumgehung Gerresheim
+- TOP 9: STEK (BVen ua) KG u. Empf.
+- TOP 10: Bezirksbezogene Bauunterhaltungsmaßnahmen
+- TOP 11: Bauern- und Handwerkermarkt auf dem Gerricusplatz
+- TOP 12: Zuschuss an Borussia Düsseldorf e.V.
+- TOP 13: Verwendung von Haushaltsmitteln
+- TOP 14: Anlieger-Parkausweise Benderstraße
+- TOP 15: Aktualisierte Planung zum Gerresheimer Bahnhof
+- TOP 16: Kindertagesstätte / Familienzentrum Gerricusstraße
+- TOP 17: Auswirkungen der Finanzkrise auf den Stadtbezirk
+- TOP 18: B-Plangebiet Nach den Mauresköthen
+- TOP 19: Grabsteine ohne Kinderarbeit
+- TOP 20: Sportstätten-Situation in Knittkuhl / Hubbelrath / Mehrzweckhalle
+- TOP 21: Leinenbefreiung für Hunde
+- TOP 22: Aufstellung von Fahrradständern
+- TOP 23: Fußweg Grütersaaper Weg
+- TOP 24: Sporthalle in Knittkuhl
+- TOP 25: Sachstandsbericht Lager 61
+- TOP 26: Verbesserung der Einkaufsmöglichkeiten auf der Dreherstraße
+- TOP 27: Sportanlage Peckhausweg
+- TOP 28: Investitionen aus dem Konjunkturpaket im Stadtbezirk 7
+- TOP 29: Anmeldungen an den Grundschulen
+- TOP 30: Naturschutz an der CO-Pipeline im Bereich des Dahlhofbaches
+- TOP 31: Markierungspfähle CO-Pipeline
+- TOP 32: Kindertagesstätte Gerricusstraße
+- TOP 33: Baumfällungen in Gerresheim
+- TOP 34: Wartehäuschen Rheinbahn-Haltestelle Knuppertzbrück
+- TOP 35: Spielwiese an der Altenheimstatt Gallberg
+- TOP 36: L 404 n -Südspange-
