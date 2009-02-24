@@ -1,0 +1,6 @@
+# TOP 1: Genehmigung des Protokolls vom 27.01.2009
+
+- Sitzung: Haupt- und Finanzausschuss (30. Sitzung) (2009-02-24)
+- Körperschaft: Gemeinde Lohfelden
+- Öffentlich: ja
+- OParl: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5869
