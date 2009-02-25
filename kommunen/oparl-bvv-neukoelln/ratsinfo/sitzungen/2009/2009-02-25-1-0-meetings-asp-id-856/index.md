@@ -1,0 +1,87 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-02-25T17:10:00+01:00
+- Ende: 2009-02-25T22:45:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=856
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=856
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl einer ehrenamtlichen Sozialpflegerin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl einer Schiedsfrau für den Schiedsamtsbezirk Neukölln 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl eines stellvertretenden Bürgerdeputierten im Wirtschaftsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan 8-18 - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan XIV-185ca-1 vom 16.09.2008 ("Sanierungsgebiet Wederstraße - westliche Wederstraße/Bürgerstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Bebauungsplan XIV-185da-1 vom 16.09.2008 ("Gewerbezentrum Juliushof") - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Bebauungsplan XIV-185g-1 vom 16.09.2008 ("Sanierungsgebiet Wederstraße - westliche Bürgerstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Konflikte im QM Richardplatz-Süd - beantwortet
+- TOP 8.2: Kooperationsvereinbarung Schloss Britz - beantwortet
+- TOP 8.3: Auftragsvergaben Konjunkturprogramm II - beantwortet
+- TOP 8.4: Mehrkosten durch Schnee? - beantwortet
+- TOP 8.5: Ausstellung des Berlin-Passes zweigleisig - beantwortet
+- TOP 8.6: Gemeinde Schönefeld Hochspannungstrasse - beantwortet
+- TOP 8.7: Planauslegung A 100 - schriftlich beantwortet
+- TOP 8.8: Schulsozialarbeiter - schriftlich beantwortet
+- TOP 8.9: Indischer Strahlenschrott in Berlin - schriftlich beantwortet
+- TOP 8.10: Winterversorgung wohnungsloser Menschen - schriftlich beantwortet
+- TOP 8.11: Prävention von Schuldistanz - schriftlich beantwortet
+- TOP 8.12: Perspektive des Möbellagers für Bedürftige - schriftlich beantwortet
+- TOP 8.13: 10-Millionen-Programm für Privatschulen - schriftlich beantwortet
+- TOP 8.14: 44er Berlin e. V. - schriftlich beantwortet
+- TOP 8.15: Einbürgerungen - schriftlich beantwortet
+- TOP 8.16: Parkplatz - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Leseschule als Schulversuch - in der BVV abgelehnt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Kassenärztliche Vereinigung auflösen? - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Einsatz von "Parkkrallen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Nordneuköllner Straßenbauprojekte zu Gesamtkonzept integrieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Parkbenennung nach Dora Mendler - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Parkraumbewirtschaftung vor dem Mutter- und Kindzentrum - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Fußgängerüberweg Buschkrugallee - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Fußgängerüberweg Fulhamer Allee/Parchimer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Fußgängerschutz am U-Bahnhof Rudow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Energieausweis für die bezirklichen Liegenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Schlimme Entgleisung des Bezirksbürgermeisters - beantwortet
+- TOP 11.2: Jugendbanden in Neukölln - beantwortet
+- TOP 11.3: Hasspredigten in Neuköllner Moscheen - beantwortet
+- TOP 11.4: Vorfälle bei Einbürgerungen in Neukölln - beantwortet
+- TOP 11.5: Ausstellung des Berlin-Passes - beantwortet
+- TOP 11.6: Das neue präventive Kinderschutzgesetz - Was bringt es für Neuköllner Kinder? - beantwortet
+- TOP 11.7: Ghetto der Chancenlosen - beantwortet
+- TOP 11.8: Alkoholberatung der Guttempler - schriftlich beantwortet
+- TOP 11.9: Bürgerämter - beantwortet
+- TOP 11.10: Warme Mahlzeiten für Bedürftige - schriftlich beantwortet
+- TOP 11.11: Unternehmens-Insolvenzen in Neukölln - schriftlich beantwortet
+- TOP 12: Große Anfragen - schriftlich - beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Einbürgerungsfeiern in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Anpassung der Ausführungsvorschriften an Verwaltungsgegebenheiten - überwiesen
+- TOP 13.3: Schillermarkt - Markt der Vielfalt - überwiesen
+- TOP 13.4: Wanderausstellung "Zeugnisse schwulenfeindlicher Gewalt" - überwiesen
+- TOP 13.5: Fußgängermittelinsel nicht richtig gesichert - überwiesen
+- TOP 13.6: Verkehr zur und auf der Autobahn A 100/A 113 - überwiesen
+- TOP 13.7: Neuköllner Schulkonzept vorlegen - vertagt
+- TOP 13.8: Alkoholberatung der Guttempler sichern! - überwiesen
+- TOP 13.9: Schülerforum - überwiesen
+- TOP 13.10: Hilfe für klein- und mittelständische Unternehmen - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Abknickende Vorfahrt Kölner Damm Ecke Lipschitzallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Pflegestützpunkte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Mehr Sicherheit im Klein-Ziethener Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Veränderungssperre XIV-60/19 für das Grundstück Buckower Damm 30 im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 ("Mohriner Allee/Buckower Damm") - mit Abschlussbericht zur Kenntnis genommen
