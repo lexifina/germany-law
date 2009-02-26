@@ -1,0 +1,83 @@
+# 27. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-02-26T16:30:00+01:00
+- Ende: 2009-02-26T21:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2244
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2244
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=69378
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - beantwortet
+- TOP 8: Personelles/Wahlen - beantwortet
+- TOP 8.1: Wahl einer/eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 8.2: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 902) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Selbsthilfegruppe "Lichtblick" (SM 903) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Kinderschutzkonferenz - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Lärmminderung am Müggelseedamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Straßenbenennungen im B-Plan-Gebiet XV-70 a ("Bohnsdorf West") - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Zukunft des Treptower Parks - Maßnahmenkonzept - überwiesen
+- TOP 12.5: Staffelung der LKW-Maut zur Vermeidung von Abkürzungsfahrten - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Verkehrsberuhigung zur Schulwegsicherung in der Lindenallee (Friedrichshagen) - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Standort für CABUWAZI in Alt-Treptow dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Heimat von Fischotter und Biber - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Unterstützung für das Projekt "Museum Fritz Kühn" - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Umbenennung der Bushaltestelle "Frauenlobstraße" - überwiesen
+- TOP 12.11: Digitalisierung der Friedhofsakten - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: In energetische Sanierung investieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Jugendhilfeplanung weiterentwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Fortschreibung der Globalsummen 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Budgetabsenkung 2009 für die Transferleistungen in der stationären Hilfe zur Pflege - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Erzieherinnen und Erzieher fest einstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Kontrolle der Einhaltung des "Apfelsaftgesetzes" - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Gender Mainstreaming - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Berufung eines beratenden Arbeitskreises zur Entwicklung und Umsetzung eines kommunalen Gesundheitszieles - überwiesen
+- TOP 13.3: Umbenennung des Weges zur Gaststätte Schmetterlingshorst im Ortsteil Köpenick, der von der Straße zum Müggelturm abgeht und zum Wanderstützpunkt Schmetterlingshorst am Langen See führt, in "Zum Schmetterlingshorst" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Vorhabenbezogener Bebauungsplan 9-27 VE ("Rübezahl") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.5: Beflaggung der Rathäuser Treptow und Köpenick zum Jubiläumsjahr 2009 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Seebad Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Preis für Zivilcourage ausloben - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Neuer Standort Köpenicker Feuerwehr - überwiesen
+- TOP 14.4: Berlinpass – Gut gemeint reicht nicht! - in der BVV zurückgezogen
+- TOP 14.5: Personelle Absicherung des Bezirkswahlamtes zur Erledigung der dem Amt übertragenen Aufgaben - in der BVV abgelehnt
+- TOP 14.6: Einzelhandelsstandort Bouchéstraße 71/74 - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Treptow-Köpenick gegen Homophobie - überwiesen
+- TOP 14.8: Ausschreibung des Strombezugs - in der BVV zurückgezogen
+- TOP 14.9: Passive Lärmschutzmaßnahmen bei der energetischen Sanierung realisieren - überwiesen
+- TOP 14.10: Politisches Bezirksamt - in der BVV abgelehnt
+- TOP 14.11: Fachmarktagglomeration dem B-Plangebiet XV-65 anpassen - überwiesen
+- TOP 14.12: Restaurierung Rathaus Treptow - überwiesen
+- TOP 14.13: Hartz-IV-Sätze für Kinder unverzüglich neu berechnen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Erforderliche passive Lärmschutzmaßnahmen in öffentlichen Gebäuden - überwiesen
+- TOP 14.15: Elektroauto für Fuhrpark des Bezirksamtes - überwiesen
+- TOP 14.16: Wiederaufbau der denkmalgeschützten Fassade beim Schmöckwitzer Straßenbahndepot - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Tag der offenen Tür von Bezirksamt und BVV - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Elcknerplatz - überwiesen
+- TOP 14.19: Kurzzeitparken in der Baumschulenstraße - überwiesen
+- TOP 14.20: Anordnung eines Radfahrstreifens in der Baumschulenstraße - überwiesen
+- TOP 14.21: Neue Lichtsignalanlage Wilhelminenhofstr. / Ecke Firlstr. - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Sicherung von Kleingartenanlagen – Aufstellung von Bebauungsplänen - überwiesen
+- TOP 14.23: Informationen des Bezirksamtes im Bezug auf Anträge zum Sachenrechtsbereinigungsgesetz - überwiesen
+- TOP 14.24: Eintritt in die BADC GmbH - überwiesen
+- TOP 14.25: Sinnvolle Auswahl von Obstgehölzen bei Nachpflanzungen auf KGA-Grundstücken - überwiesen
+- TOP 14.26: Verlängerung des Mietverhältnisses für den Mellowpark unterstützen (geänderte Fassung zum Beschluss) - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Die Halbzeit einer Legislaturperiode gestattet Rückblick und Ausblick - vertagt
