@@ -1,0 +1,7 @@
+# TOP 3: Besprechungspunkt: Drucksache Nr. 0673/XVIII "Straßenquerungen Barnimer Dörferweg"
+
+- Sitzung: 14. öffentliche Sitzung des Verkehrsausschusses (2009-02-26)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=15196
+- Ergebnis: im Ausschuss abgelehnt
