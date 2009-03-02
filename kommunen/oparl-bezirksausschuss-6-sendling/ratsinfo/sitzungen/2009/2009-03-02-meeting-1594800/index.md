@@ -1,0 +1,54 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-03-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1594800
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1594800
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2.: Referatsvertreter nehmen Stellung
+- TOP 3.: Soziales und Sozialreferat
+- TOP 4.: Schulreferat
+- TOP 4.1.: Bezirkssportanlage Dietramszeller Str. 9; Neubau eines Sportbetriebsgebäudes mit Räumen für eine Gaststätte und ein Jugendfreizeitheim sowie teilweise Umgestaltung der Freisportflächen - <div>Zur Kenntnis genommen</div>
+- TOP 6.1.: Parkraummanagement Sendling; Parkscheinautomaten-Standorte - <div>vertagt in die Aprilsitzung</div>
+- TOP 6.2.: Meldeliste Bauvorhaben SWM
+- TOP 7.1.: Neuer Mieterbeirat
+- TOP 7.2.: Gemeinsames Kinderfest BA 6 / Freie Turnerschaft München Süd
+- TOP 7.3.: Europawahl am 07.06.09 / Bundestagswahl am 27.09.09; ehrenamtliche Wahlhelfer gesucht
+- TOP 7.4.: Budgetantrag Sendlinger Kulturschmiede; Höfe Daiserstraße; überarbeiteter Antrag ? 4420,-
+- TOP 7.5.: Budgetantrag Historische Lernorte Sendling, Projektdokumentation "...nach unbekannt abgewandert"; ? 4000,-
+- TOP 7.6.: Budgetantrag Historische Lernorte Sendling, Fotodokumentation "...etwas sollte bleiben"; ? 4700,-
+- TOP 7.7.: Budgetantrag Elternbeirat der Grundschule am Gotzinger Platz, Theaterprojekt im Juni / Juli 2009; ? 1500,-
+- TOP 7.8.: Budgetanfrage; christlich-muslimische Begegnung während des Ökumenischen Kirchentages 2010
+- TOP 7.9.: Budgetanträge Himmelfahrtskirche 2009
+- TOP 8.: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Demleitnerstr. 17
+- TOP 8.3.: Bauvorhaben Schäftlarnstr. 96
+- TOP 8.4.: Bauvorhaben Isarauen 8 - aus der letzten Sitzung vertagt -
+- TOP 8.5.: Bauvorhaben Kyreinstraße 6; - aus der letzten Sitzung vertagt -
+- TOP 8.6.: Bebauungsplan Stemmerhof - Aufstellungsbeschluss
+- TOP 8.7.: 2. S-Bahn-Stammstrecke München
+- TOP 8.8.: Perspektive München - Zentrenkonzept
+- TOP 8.9.: Stadt-Umland-Bahn
+- TOP 9.: Baureferat
+- TOP 9.1.: Neugestaltung der Albert-Roßhaupter-Straße
+- TOP 9.2.: Gehbahnsanierung zwischen Steinerstr. und Zielstattstr.
+- TOP 9.3.: Isar-Plan
+- TOP 9.4.: Teilnahme an der Veranstaltungsreihe "Tunnelblick"
+- TOP 10.: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen im öffentlichen Raum
+- TOP 11.: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Keine Errichtung eines Türkisch-Islamischen-Kulturzentrums am Gotzinger Platz - <div>Zustimmung, mehrheitlich</div>
+- TOP 12.: Anträge
+- TOP 13.: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
