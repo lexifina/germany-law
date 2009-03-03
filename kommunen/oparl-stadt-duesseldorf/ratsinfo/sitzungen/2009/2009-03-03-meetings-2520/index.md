@@ -1,0 +1,62 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-03-03T15:00:00+01:00
+- Ende: 2009-03-03T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2520
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2520
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126068.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126068.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126068.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift
+- TOP 3: Anfragen
+- TOP 4: Anfrage FDP/CDU - Skater / BMX-Park - zur Kenntnis genommen
+- TOP 5: Ausbau der Schulsozialarbeit an Grundschulen - zur Kenntnis genommen
+- TOP 6: Anfrage CDU/FDP - Personalwirtschaft in Kitas - zur Kenntnis genommen
+- TOP 7: Anfrage CDU/FDP - Erweiterung Angebotszeiten - zur Kenntnis genommen
+- TOP 8: Anfrage CDU / FDP - Düsseldorfer Familienförderung - zur Kenntnis genommen
+- TOP 9: Anfrage CDU/FDP - Umsetzungsplanung Familienzentren - zur Kenntnis genommen
+- TOP 10: Anfrage CDU/FDP - Neuorientierung Düsseldorfer JBH - zur Kenntnis genommen
+- TOP 11: Anfrage CDU und FDP - Schulsozialarbeit nach § 13 SGB VIII - zur Kenntnis genommen
+- TOP 12: Anträge
+- TOP 13: Antrag CDU und FDP - Bericht zur Schulsozialarbeit - einstimmig beschlossen
+- TOP 14: Antrag CDU/FDP - Büroarbeitsgemeinschaft JJCP - einstimmig beschlossen
+- TOP 15: Antrag CDU/FDP - Weiterentwicklung Düsselferien - einstimmig beschlossen
+- TOP 16: Fachübergreifende Vorlagen
+- TOP 17: Personal- und Organisationsentwicklung - vertagt
+- TOP 18: Anerkennung als Träger der freien Jugendhilfe
+- TOP 19: Anerkennung Filius & Marie - einstimmig beschlossen
+- TOP 20: Öffentliche Anerkennung Psychotherapie e.V. - einstimmig beschlossen
+- TOP 21: Soziale Dienste
+- TOP 22: U5 - U9 Untersuchungen
+- TOP 23: Erz. Hilfen Sexualstraftäter - zur Kenntnis genommen
+- TOP 24: Tageseinrichtungen für Kinder
+- TOP 25: Umsetzung KiBiz - einstimmig beschlossen
+- TOP 26: Mietzuschuss Filius u. Marie - mehrheitlich beschlossen
+- TOP 27: Investitionsvorlage Kita - einstimmig beschlossen
+- TOP 28: Projekt "Familie leben" - Allein Erziehende - mehrheitlich beschlossen
+- TOP 29: Jugendförderung
+- TOP 30: Mittelvergabe 2009 jugendschützende Projekte - mehrheitlich beschlossen
+- TOP 31: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - einstimmig beschlossen
+- TOP 32: Konzeption "JuniorWAHLEN" - Informationsveranstaltung für Jung-/Erstwähler und Koordination der städtischen Umsetzung - einstimmig beschlossen
+- TOP 33: Kinder u. Jugendförderplan
+- TOP 34: Abenteuer Coolness
+- TOP 35: Jungenaktionstage
+- TOP 36: "Jugend, Kultur und Schule"; "Künstler/-innen in Schulen" und "Kulturinstitute und Schulen", "Künstler/-innen in Jugendfreizeiteinrichtungen"; Bericht über den aktuellen Sachstand der Projekte im Schuljahr 2008/09 und die Planungen für das Schuljahr - einstimmig beschlossen
+- TOP 37: Düsseldorfer Jugendrat
+- TOP 38: Fruits for You - zur Kenntnis genommen
+- TOP 39: Informationen aus dem Düsseldorfer Jugendrat
+- TOP 40: Controllingberichte
+- TOP 41: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
+- TOP 42: Controllingbericht Jugendförderung - zur Kenntnis genommen
+- TOP 43: Controllingbericht Kinderhilfezentrum - zur Kenntnis genommen
+- TOP 44: Controllingbericht HzE - zur Kenntnis genommen
+- TOP 45: Controlling Zuwendungen und Zuschüsse - zur Kenntnis genommen
