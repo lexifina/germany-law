@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-03-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618017
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618017
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Neubesetzung des Unterausschusses Planung, Verkehr und Umwelt
+- TOP 1.2.: Neubesetzung des Unterausschusses Schule, Sport, Soziales
+- TOP 2.: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Musikinstitut Bilan; Anl. 20jährigen Bestehens zwei Konzertaufführungen am 29.03. und 19.07.2009
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Kath. Pfarramt St. Nikolaus; 4 Konzerte im Jahr 2009
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Evang.-Luth. Pfarramt Evangeliumskirche; 4 Konzerte im Jahr 2009
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Kath. Pfarramt Mariä Sieben Schmerzen; 2 Konzerte am 05.04. und 21.06.2009
+- TOP 3.1.: Tempolimit Überschreitungen in der Paul-Preuß-Straße (Familie Hill)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5.: Anhörungsfälle
+- TOP 5.1.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Leonhard-Bugl-Str. b) Bauvorhaben Auf den Schrederwiesen 37 (vertagt in der Sitzung am 03.02.2009) c) Bauvorhaben Lassallestr. 97 - 99
+- TOP 5.2.: Quartierszentrum Hasenbergl Blodigstraße (östlich), Dülferstraße (nördlich)
+- TOP 5.3.: Gemeinde Oberschleißheim Flächennutzungsplan - Änderung Nr. 22
+- TOP 5.4.: Veranstaltung auf öffentlichem Verkehrsgrund: CityBike Marathon München am 19.04.2009 Änderungen der Streckenführung
+- TOP 5.5.: Veranstaltung auf einer städtischen Grünanlage: An- und Abfischen am Regattabadesee am 04.04.2009 und 10.10.2009
+- TOP 5.6.: Veranstaltung auf einer städtischen Grünanlage: Kinderzirkus Baldoni, Dülferanger vom 21.-31.05.2009
+- TOP 5.7.: Veranstaltung auf eine städtischen Grünanlage: Deutsch-Türkischer Kulturverein e.V., Goldschmiedplatz vom 05.-07.06.2009
+- TOP 5.8.: Brandschutzsanierung / Umbau / Erweiterung der Grundschule und Kindertagesstätte Lerchenauer Str. 322 im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 6.: Unterrichtungsfälle
+- TOP 6.1.: Dülferstraße, westlich der Paul-Preuß-Straße Halteverbote für 3 Fahrzeuglängen in westlicher Richtung beidseitig nach der Unterführung an der Kreuzung Paul-Preuß-Straße / Dülferstraße (BA-Antrags-Nr. 08-14/B 00517 vom 14.10.2008)
+- TOP 6.2.: "Unterstützung für die im 24. Stadtbezirk lebende Volksgruppe Sinti und Roma, am 16. Mai 2009 ihre Wanderskulptur im Münchner Rathaus zu zeigen" (BA-Antrags-Nr. 08-14/B 00608 vom 11.11.2008)
+- TOP 6.3.: Gebrauchtkleidercontainer an der Abzweigung Ratoldstraße/Rambertweg (BA-Antrags-Nr. 08-14/B 00619 vom 11.11.2008)
+- TOP 6.4.: Beschilderung "Verkehrsberuhigter Bereich" im Kreuzungsbereich der Dülfer- und Schaarschmidtstraße (BA-Antrags-Nr. 08-14/B 00730 vom 09.12.2008)
+- TOP 6.5.: Pappelallee - Halteverbote nördlich der Straße Am Blütenanger (Antrag Nr. 7 aus der Kinder- und Jugendsprechstunde am 21.11.2008) a) Schreiben des Kreisverwaltungsreferates vom 23.01.2009 b) Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO
+- TOP 6.6.: Öffentliche Nutzung der Bezirkssportanlage an der Ebereschenstr. 17 (Antrag Nr. 13 aus der Kinder- und Jugendsprechstunde am 21.11.2008)
+- TOP 6.7.: Mehr Mülleimer am Lerchenauer- und Fasaneriesee (Antrag Nr. 16 aus der Kinder- und Jugendsprechstunde am 21.11.2008)
+- TOP 6.8.: Pappelallee zwischen Am Blütenanger und Trollblumenstraße Beschluss des Bezirksausschusses 24 vom 09.12.2008
+- TOP 6.9.: Rückantwort zur LZA-Bauprogrammanfrage Lichtzeichenanlagen - Bauprogramm 2009 Hier: Punkt 3: Aschenbrenner-/ Schleißheimer Straße
+- TOP 6.10.: Auskunft über die Planungen zur Express-S-Bahn auf der S1 - Trasse (BA-Antrags-Nr. 08-14/B 00541 des Bezirksausschusses des Stadtbezirkes 10 Moosach vom 27.10.2008)
+- TOP 6.11.: Frühzeitige Unterrichtung der Bezirksausschüsse
+- TOP 6.12.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Seuffertstraße / Weißdornstraße
+- TOP 6.13.: Unveränderte Fortführung eines Gaststättenbetriebes Osteria Cocco, Dülferstr. 61
+- TOP 6.14.: Vollzug der Straßenverkehrsordnung (StVO): a) Drehgenehmigung Produktion: "K 11 - Kommissare im Einsatz" b) Drehgenehmigung Produktion: "Soko 5113"
+- TOP 6.15.: Buslinie 173 Schreiben der MVG
+- TOP 6.16.: Buslinie 172 Pressemeldung der MVG
+- TOP 6.17.: Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum (ZeS)
+- TOP 6.18.: Protokoll der Informationsveranstaltung des Sozialreferates vom 03.12.2008 für die Bezirksausschüsse
+- TOP 6.19.: Sitzungen der Arbeitsgruppe Wohnungslosigkeit
+- TOP 6.20.: Mittelfristige Finanzplanung 2008 - 2012
+- TOP 6.21.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen
+- TOP 6.22.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.23.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Kuckucksblumenstraße b) Schneeglöckchenstr. 79
+- TOP 6.24.: Meldelisten Baumfällungsanträge
+- TOP 6.25.: Meldelisten Bauvorhaben
+- TOP 6.26.: Meldelisten der Baumaßnahmen der Stadtwerke München
+- TOP 6.27.: PERSPEKTIVE München Fortschreibung des Zentrenkonzeptes- Schwerpunkt Nahversorgung (Hinweis/Ergänzung vom 12.01.2009)
+- TOP 6.28.: Änderung des Flächennutzungsplanes mit integrierter Lanschaftsplanung für den Bereich V/35 Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München-Milbertshofen (östlich), Schittgablerstraße (südlich), Lerchenauer Straße (westlich) - Knorr-Bremse AG -
+- TOP 6.29.: A) Bebauungsplan mit Grünordnung Nr. 1947 Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München-Milbertshofen (östlich), Schittgablerstraße (südlich), Lerchenauer Straße (westlich) (Teiländerung des Bebauungsplanes Nr. 1688a) - Knorr Bremse AG - B) Aufhebung von nicht überplanten Restbereichen der Aufstellungsbeschlüsse für die Bebauungspläne Nr. 1688 und 1947
+- TOP 6.30.: Stadt-Umland-Bahn - Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen - Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen
+- TOP 7.: Berichte
+- TOP 8.: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
