@@ -1,0 +1,97 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-03-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572335
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572335
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Wandgestaltungsprojekt Laim
+- TOP 1.2.2.: Bewerbung für Kunst im öffentlichen Raum
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Neuanbringung der fehlenden Straßenmarkierung an der Kreuzung Camerloherstraße / Guido-Schneble-Straße
+- TOP 2.2.: SPD: Installation einer Ampel an der Kreuzung Willibaldstraße / Landsberger Straße
+- TOP 2.3.: SPD: Anpassung der Fahrpläne der Buslinien 51 und 168 in den Abendstunden so dass 10-Minutentakt zwischen Laimer S-Bahnhof und Aindorferstraße entsteht
+- TOP 2.4.: Bündnis 90 / Die Grünen: Kreuzung Lautensackstraße / Schäufeleinstraße / Elsenheimerstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Gotthardstr. 57
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 20.01.09: Projekt: Fürstenrieder Straße / Camerloherstraße (Lichtzeichenanlage)
+- TOP 4.2.: Schreiben Baureferat vom 02.02.09: Projekt Perhamerstraße zwischen Rapoto- und Lutzstraße
+- TOP 4.3.: Schreiben KVR vom 16.02.09: Der Hörbus - kostenloser Hörtest auf dem Laimer Anger am 24.04.09
+- TOP 4.4.: Schreiben KVR vom 02.02.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 24.04.09
+- TOP 4.5.: Schreiben KVR vom 02.02.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 25.04.09
+- TOP 4.6.: Schreiben KVR vom 28.01.09: Maibaumfeier auf dem Laimer Anger am 01.05.09
+- TOP 4.7.: Schreiben KVR vom 02.02.09: Flohmarkt auf dem Spielplatz Hogenbergplatz am 02.05. und 03.10.09
+- TOP 4.8.: Schreiben KVR vom 02.02.09: Flohmarkt auf dem Hogenbergplatz am 16.05.09
+- TOP 4.9.: Schreiben KVR vom 16.05.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 16.05.09
+- TOP 4.10.: Schreiben KVR vom 30.01.09: Laimer Fischtage auf dem Laimer Anger vom 16.05.-03.06.09
+- TOP 4.11.: Schreiben KVR vom 29.01.09: Festival der Marionetten auf dem Laimer Anger vom 29.09.-05.10.09
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 286: Laim MK2; Neubau eines Büro- und Geschäftshauses mit TG; hier: Baupläne
+- TOP 5.2.: Fürstenrieder Str. 39: Nutzungsänderung einer Bürofläche in ein Boardinghouse, Ausstellungs- in Ladenfläche (RG); hier: Baumfällungen
+- TOP 5.3.: Byecherstr. 36: Erweiterung eines Einfamilienhauses (Anbau); hier: Baupläne und Baumfällungen
+- TOP 5.4.: Agricolastr. 55: Neubau eines Mehrfamilien- nd zweier Einfamilienhäuser mit Tiefgarage; hier: Baumfällungen
+- TOP 5.5.: Joergstr. 6: Neubau eines Mehrfamilienhauses mit Tiefgarage (E+III) / Tektur; hier: Baupläne und Baumfällungen
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Schule, Soziales und Sport vom 26.01.09
+- TOP 7.2.: Sitzung UA Umwelt und Verkehr vom 28.01.09
+- TOP 7.3.: BA-Sitzung vom 03.02.09
+- TOP 7.4.: Sitzung des UA Kultur vom 03.02.09
+- TOP 7.5.: Sitzung des UA Kultur vom 19.02.09
+- TOP 7.6.: Ortstermin UA Umwelt und Verkehr vom 19.02.09
+- TOP 7.7.: Sitzung UA Bau vom 25.02.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 02.02.09: Frühzeitige Unterrichtung der Bezirksausschüsse
+- TOP 8.2.: Schreiben Direktorium vom 29.01.09: Zuwendungen aus dem Budget des BA 25; Antragsteller: ASZ Laim
+- TOP 8.3.: Schreiben Baureferat vom 22.01.09: Trambahnwendeschleife Willibaldplatz (Schreiben BA vom 22.01.09)
+- TOP 8.4.: Schreiben Baureferat vom 04.02.09: Spielplatz am Joergplatz (Schreiben BA vom 21.01.09)
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 13.01.09: Einschulungsuntersuchungen (Schreiben BA vom 17.12.08)
+- TOP 8.6.: Schreiben KVR vom 23.01.09: Gaststätte "Restaurant Bavaria", Westendstr. 174; unveränderte Fortführung
+- TOP 8.7.: Schreiben KVR vom 13.02.09: Gaststätte "Asien-Perle", Agnes-Bernauer-Str. 51; unveränderte Fortführung
+- TOP 8.8.: Schreiben KVR vom 21.01.09: Schulbushaltestelle Schrobenhausener Str. 15; Änderung des Zeitzusatzes
+- TOP 8.9.: Schreiben KVR vom 21.01.09: Einrichtung einer Schulbushaltestelle an der Grundschule an der Camerloherstr. 110
+- TOP 8.10.: Schreiben KVR vom 06.02.09: Hygienesituation am S-Bahnhof Laim; Transport von Lebensmitteln in verschmutzten Aufzügen (Schreiben BA vom 21.01.09)
+- TOP 8.11.: Schreiben KVR vom 05.02.09: Europawahl am 07.06.09 und Bundestagswahl am 27.09.09; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 8.12.: Schreiben Schul- und Kultusreferat vom 02.02.09: Dauerhafte Raumlösung für die Schule der Phantasie in Laim (Antrag Nr. 02-08 / B 02992 vom 04.03.08)
+- TOP 8.13.: Schreiben Planungsreferat vom 10.02.09: Neuer S-Bahn-Haltepunkt Friedenheimer Brücke
+- TOP 8.14.: Schreiben Planungsreferat vom 16.02.09: Fürstenrieder Str. 147, Nutzungsänderung in Spielothek
+- TOP 8.15.: Schreiben Planungsreferat vom 12.02.09: Denkmalschutz Sammelakt (Schreiben BA vom 25.11.08)
+- TOP 8.16.: Schreiben Stadtkämmerei vom 26.01.09: Mittelfristige Finanzplanung 2008-2012
+- TOP 8.17.: Schreiben Sozialreferat vom 09.02.09: Protokoll zur Informationsveranstaltung des Sozialreferates am 03.12.08 für die Bezirksausschüsse
+- TOP 8.18.: Schreiben Sozialreferat vom 13.02.09: Sitzung der Arbeitsgruppe Wohnungslosigkeit am 22.01.08, 11.03.08, 24.07.08, 07,10,08 und 02.12.08
+- TOP 8.19.: Schreiben Sozialreferat vom 13.02.09: Zweckentfremdung von Wohnraum durch Abbruch; Alblstraße
+- TOP 8.20.: Schreiben Gleichstellungsstelle für Frauen vom 02.02.09: 2. Treffen der Frauen und Genderbeauftragten der Bezirksausschüsse am 21.01.09 sowie Einladung zum nächsten Treffen am 19.05.09
+- TOP 8.21.: Bautenliste vom 19.01.-25.01.09 1. Erstantragsverfahren a) Byecherstr. 36 b) Berchemstr. 87 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Vosslerstr. 4
+- TOP 8.22.: Bautenliste vom 26.01.-01.02.09 1. Erstantragsverfahren a) Valpichlerstr. 62
+- TOP 8.23.: Bautenliste vom 02.02.-08.02.09 1. Änderungsverfahren a) Joergstr. 6 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Agricolastr. 97
+- TOP 8.24.: Bautenliste vom 09.02.-15.02.09 1. Erstantragsverfahren a) Alblstr. 6 b) Landsberger Str. 286
+- TOP 8.25.: Schreiben Planungsreferat vom 02.02.09: Liste der beantragten Baumfällungen vom 26.01.-01.02.09
+- TOP 8.26.: Schreiben Planungsreferat vom 09.02.09: Liste der beantragten Baumfällungen vom 02.02.-08.02.09
+- TOP 8.27.: Schreiben Planungsreferat vom 16.02.09: Liste der beantragte Baumfällungen vom 09.02.-15.02.09
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 26.01.09: Baumaßnahmen der Stadtwerke; Stichtag: 12.01.09
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 26.01.09: Baumaßnahmen der Stadtwerke; Stichtag: 19.01.09
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 26.01.09: Baumaßnahmen der Stadtwerke; Stichtag: 26.01.09
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 02.02.09: Baumaßnahmen der Stadtwerke; Stichtag: 02.02.09
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 09.02.09: Baumaßnahmen der Stadtwerke; Stichtag: 09.02.09
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 16.02.09: Baumaßnahmen Stadtwerke; Stichtag: 16.02.09
+- TOP 8.34.: Schreiben GEWOFAG vom 22.01.09: Modernisierung der Siedlung Friedenheim
+- TOP 8.35.: Schreiben DB Netze vom 09.02.09: Toilettensituation am S-Bahnhof Laim (Schreiben BA vom 21.01.09)
+- TOP 8.36.: Schreiben Feierwerk e.V. vom 29.01.09: Fachtagung "Mädchen und Frauen in der extremen Rechten" am 06.03.09
+- TOP 8.37.: Schreiben IG Feuerwache vom 05.02.09: Vorstellung des Projektes "Praktikumsbörse"
+- TOP 8.38.: Schreiben Hauptschule an der Schrobenhausener Straße vom 09.02.09: Berufsinformationsabend zum Thema Übergang Schule-Beruf vom 27.01.09
+- TOP 8.39.: Beschluss der Vollversammlung vom 28.01.09: 2. S-Bahn-Stammstrecke München (Sitzungsvorlagen Nr. 08-14 / V 01487)
+- TOP 8.40.: Beschluss des Bauausschusses vom 10.02.09: Teilnahme an der Veranstaltungsreihe "Tunnelblicke" (Sitzungsvorlagen Nr. 08-14 / V 01535)
+- TOP 8.41.: Beschluss des Bauausschusses vom 10.02.09: Verlängerung der U-Bahn-Linie 5-West von Laim nach Pasing (Sitzungsvorlagen Nr. 08-14 / V 00843)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.09: Stadt-Umland-Bahn (Sitzungsvorlagen Nr. 08-14 / V 01572)
+- TOP 8.43.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.09: Perspektive München / Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung; Erstellung stadtteilbezogenen Konzeptes für Laim (Antrag Nr. 08-14 / B 00734 des BA 25 vom 02.12.08)
+- TOP 8.44.: Schriftverkehr aus der BA-Sitzung vom 03.02.09
+- TOP 1.2: Bürgerpost an den BA
