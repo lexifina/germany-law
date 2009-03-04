@@ -1,0 +1,92 @@
+# 22. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-03-04T17:30:00+01:00
+- Ende: 2009-03-04T21:40:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2195
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2195
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=34084
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Mitgliedes des Integrationsbeirates - gewählt
+- TOP 1.9: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 5 - die Grenze verläuft unverändert entlang der Bezirksgrenze zu Mitte, der Straßenzüge Schönhauser Allee, Danziger Straße, Prenzlauer Allee, Wisbyer Straße, Berliner Allee und Esplanade- im Bezirk Pankow - gewählt
+- TOP 1.10: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 6 - die Grenze verläuft unverändert entlang der Straßenzüge Prenzlauer Allee, Danzi-ger Straße, Greifswalder Straße sowie entlang der Grenze zum Ortsteil Weißensee - im Bezirk Pankow - gewählt
+- TOP 1.11: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 7 - die Grenze verläuft unverändert entlang der Straßenzüge Schönhauser Allee und Danziger Straße sowie entlang der Grenze zu den Bezirken Friedrichshain - Kreuzberg und Mitte - im Bezirk Pankow - gewählt
+- TOP 1.12: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 8 - die Grenze verläuft unverändert entlang der S - Bahn - Trasse, der Straßenzüge Greifswalder Straße und Landsberger Allee sowie entlang der Grenze zum Ortsteil Weißensee und der Bezirksgrenze zu Lichtenberg - im Bezirk Pankow - gewählt
+- TOP 1.13: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 09 - die Grenze des Schiedsamtsbezirks verläuft unverändert entlang der S - Bahn -Trasse, der Straßenzüge Greifswalder Straße, Danziger Straße, Landsberger Allee und der Bezirksgrenzen zu den Bezirken Friedrichshain-Kreuzberg und Lichtenberg - im Bezirk Pankow - gewählt
+- TOP 1.14: Wahl (Wiederwahl) einer Schiedsperson für den Schiedsamtsbezirk 11 - der Schiedsamtsbezirk umfasst unverändert die Ortsteile Heinersdorf, Blankenburg und Karow - im Bezirk Pankow - gewählt
+- TOP 1.15: Beschluss über den Bebauungsplan IV-34 vom 31.03.2008 für die Grundstücke Hans-Otto-Straße 10 / Hufelandstraße und Hans-Otto-Straße 8 im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Auflösung der Freilichtbühne Weißensee als bezirkliche Einrichtung - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Aufhebung der Gauß-Oberschule (03Y11) - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Bezirksgeförderte Angebote im Internet darstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Maßnahmen gegen Recyclinghof - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Verfahren zur Bürgerbeteiligung bei der Grün- und Freiflächengestaltung schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Soziale Sanierungsziele sichern - Mieter schützen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Erstellen der drei Gedenktafeln in der Schönholzer Heide bis zum Volkstrauertag 2009 sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Bebauungsplan 3-15 "Grünzug Schönholz" besser mit dem Bezirk Pankow abstimmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Kosten- und Finanzierungsübersicht 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Chance zur Verbesserung des Schulessens nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Kriterien für die Ausschreibung des Schulessens - zurückgezogen
+- TOP 1.28: Transparenz und Nachhaltigkeit bei der Verwendung der Mittel aus dem Konjunkturprogramm II? - beantwortet
+- TOP 1.29: Turnhalle für Grundschule in Französisch-Buchholz - beantwortet
+- TOP 1.30: Pankow im Fokus: Deutsche Geschichte ernst nehmen - überwiesen
+- TOP 1.31: Parkraumbewirtschaftung - überwiesen
+- TOP 1.32: Erhöhter Mehrwertsteuersatz für Serviceleistungen der Essensversorgung an Schulen - überwiesen
+- TOP 1.33: Zusätzliche Optionen der Immobilienentwicklung prüfen - überwiesen
+- TOP 1.34: Schulhelferstunden - schriftlich beantwortet
+- TOP 1.35: Umwelt- und Lärmbelastung für Anwohner der Wisbyerstr verhindern - überwiesen
+- TOP 1.36: Erweiterungsflächen für den Campus Berlin-Buch - überwiesen
+- TOP 1.37: Abwrackprämie auch für Bezieher von Transferleistungen - vertagt
+- TOP 1.38: Alternativen für den Eliashof mit den Betroffenen prüfen - vertagt
+- TOP 1.39: Termin Volksentscheid "Freie Wahl zwischen Ethik und Religion" - vertagt
+- TOP 1.40: Umwelt- und Lärmbelastung für Anwohner der Wisbyerstr verhindern - überwiesen
+- TOP 1.41: Jubiläen und BVV - vertagt
+- TOP 1.42: ÖPNV im Nordwestraum des Bezirkes weiterentwickeln - vertagt
+- TOP 1.43: Imbiss Schönhauser Allee - vertagt
+- TOP 1.44: Ratskeller Pankow - Zwischennutzung - vertagt
+- TOP 1.45: BerlinPass mit Pankower Angeboten erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Weg zur Schulzestraße - überwiesen
+- TOP 1.47: Umweltarbeit für Berlin - vertagt
+- TOP 1.48: Für ein Gesamtberliner Datenbanksystem der bezirklichen Museen - überwiesen
+- TOP 1.49: Projektplanungsbogen zur Beteilung von Kindern und Jugendlichen im Rahmen von Neubau und Sanierung von Spiel- und Freiflächen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Kultur- und Bildungsentwicklungsplan Pankow 2003 - 2007 (Stand 30.04.03) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Botanischer Volkspark Blankenfelde - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Kommunaler Klimaschutz (1): Bezirkliches Klimaschutzziel definieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Neue Mensa für die Rosa-Luxemburg-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Allgemeines Verfahren zum Umgang mit Straßenbäumen - vertagt
+- TOP 2.7: Verfahren zur Erstellung der Kosten- und Finanzierungsübersichten sowie Maßnahmen- und Prioritätenlisten in den Gebietskulissen des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Behutsame Entwicklung im Sanierungsgebiet Kollwitzplatz Süd - vertagt
+- TOP 2.9: Zukunftstag für Jungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Beschilderung für BA-Gelände Fröbelstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Shared Space - vertagt
+- TOP 2.12: Sicherung der Lebensmittelkontrolle in Pankow - vertagt
+- TOP 2.13: Umwelt- und Energiepark im Botanischen Volkspark - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Kastanienallee in Prenzlauer Berg - Anregungen für die Planung und die Bürgerbeteiligung - vertagt
+- TOP 2.15: Fahrradstraßen für den Kiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Kostenfreie Hotline für das JobCenter einrichten! - vertagt
+- TOP 2.17: Behindertenbeirat und Behindertenbeauftragter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Hirschhof mit Bebauungsplan sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Internetauftritt der Beauftragten für Integration auf den Seiten des Pankower Bezirksamtes verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Pankower Frauen- und Migrantenprojekte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Umsetzung von Neuregelungen der Wohngeldnovelle - vertagt
+- TOP 2.22: Bebauungsplan IV-34 vom 31.03.2008 für die Grundstücke Hans-Otto-Straße 10 / Hufelandstraße und Hans-Otto-Straße 8 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Gewährleistung der Sicherheit des IT-Einsatzes im Bezirksamt Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Einstellung des Bebauungsplanverfahrens 3-19 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bezirkswappen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Mehrkosten Investitionsmaßnahme Neubau des Bahnhofsvorplatzes und Buswendeanlage am Nordausgang S-Bahnhof Karow (Kapitel 4212, Titel 738 27) - mit Abschlussbericht zur Kenntnis genommen
