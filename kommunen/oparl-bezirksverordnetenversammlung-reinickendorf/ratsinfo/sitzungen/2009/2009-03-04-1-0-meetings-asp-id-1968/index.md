@@ -1,0 +1,67 @@
+# Sondertermin der Bezirksverordnetenversammlung Reinickendorf zur Fortsetzung der Behandlung der Tagesordnungspunkte vom 11.02.2009
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2009-03-04T17:10:00+01:00
+- Ende: 2009-03-04T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1968
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1968
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=41080
+
+## Tagesordnung
+
+- TOP 4: Keine NPD in bezirkseigenen Räumen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 5.2: Reinickendorf demografisch im Minus (Große Anfrage 14.01.2009) - beantwortet
+- TOP 5.2.1: Reinickendorf demografisch im Minus - überwiesen
+- TOP 5.2.2: Initiative "Kinderfreundliches Reinickendorf" - überwiesen
+- TOP 5.3: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik (Große Anfrage 14.01.2009) - beantwortet
+- TOP 5.3.1: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik - überwiesen
+- TOP 5.4: 50 Mio. für Berlin: Schulstättensanierungs-Sofortprogramm des Senats auch in Reinickendorf umsetzen! (Große Anfrage 14.01.2009) - in der BVV zurückgezogen
+- TOP 5.5: Neue Fahne für das Wahrzeichen von Frohnau (Große Anfrage 14.01.2009) - beantwortet
+- TOP 5.6: Beschlussfassung über die vorläufige Geschäftsordnung der Bezirksverordnetenversammlung Reinickendorf von Berlin (Beschlussempfehlung 11.02.2009) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Integration in Sportvereinen (Beschlussempfehlung 11.02.2009) - in der BVV abgelehnt
+- TOP 5.8: Radfahrverkehr Tegel (Ersuchen 11.02.2009) - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 7.2: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 7.3: Jugendfreizeiteinrichtung Ameisenburg (Vorlage zur Kenntnisnahme 11.02.2009) - vertagt
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Stadtteilmütter auch in Reinickendorf (Große Anfrage 11.02.2009) - vertagt
+- TOP 8.2: Ansturm auf den "Berlinpass" völlig überraschend? (Große Anfrage 11.02.2009) - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Den bezirklichen Haushaltsgewinn richtig nutzen - Präventionsprojekte fördern (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.2: Vorhandene Mittel für Schulstationen verwenden! (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.3: bereits abgehandelt in der Sitzung am 11.02.2009 - vertagt
+- TOP 10.4: Mehr Qualität für die Dorfaue in Alt-Hermsdorf I (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.5: Testkäufer als Maßnahme gegen verbotenen Alkoholmissbrauch (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.6: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 10.7: Schulneubau Märkisches Viertel (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.8: Verwendung des Gewinns des Haushaltsjahres 2007 (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.9: Verwendung des Gewinns des Haushaltsjahres 2007 (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 10.10: Verwendung des Gewinns des Haushaltsjahres 2007 (Beschlussempfehlung 11.02.2009) - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 12.2: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 12.3: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 12.4: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 12.5: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 12.6: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 12.7: Alkoholmissbrauch bei Jugendlichen: bezirkliche Präventionsmaßnahmen (Ersuchen 11.02.2009) - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 13.2: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 13.3: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 13.4: bereits abgehandelt in der Sitzung am 11.02.2009 - (offen)
+- TOP 13.5: Zunehmender Verkehrsstau auf der Strecke B 96 zwischen Burgfrauenstraße und Wilhelmsruher Damm (Empfehlung 11.02.2009) - vertagt
+- TOP 13.6: Elternwahlrecht bei Oberschultypen (Empfehlung 11.02.2009) - vertagt
+- TOP 13.7: Bezirkliche Maßnahmen zur Einhaltung des Jugendschutzes (Empfehlung 11.02.2009) - vertagt
+- TOP 13.8: Wahltermin "Religion Wahlfreiheit" (Empfehlung 11.02.2009) - vertagt
