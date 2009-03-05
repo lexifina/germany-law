@@ -1,0 +1,84 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-03-05T16:00:00+01:00
+- Ende: 2009-03-05T19:44:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2467
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2467
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126071.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126071.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126071.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 22.01.2009 - einstimmig beschlossen
+- TOP 3: Umgestaltung der Verkehrsfläche Am Turnisch / Reisholzer Straße - einstimmig beschlossen
+- TOP 4: Einbringung des Entwurfs des Nahverkehrsplanes - einstimmig beschlossen
+- TOP 5: Veenpark - zur Kenntnis genommen
+- TOP 6: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 e.V. - einstimmig beschlossen
+- TOP 7: Etat Ausstellungen und Veranstaltungen im Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 8: Abzug von Altpapierdepotcontainern im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 9: Trödelmärkte auf dem Gertrudisplatz im Jahre 2009 - einstimmig beschlossen
+- TOP 10: Jahrmärkte in Eller auf dem Gertrudisplatz im Jahre 2009 - einstimmig beschlossen
+- TOP 11: Benennung Veenpark / Willi-Terbuyken-Weg - vertagt
+- TOP 12: Bezirksbezogene Bauunterhaltungsmaßnahmen 2009 - einstimmig beschlossen
+- TOP 13: Freigabe verkaufsoffener Sonntage im Jahre 2009 - mehrheitlich beschlossen
+- TOP 14: Mittel der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 15: Gestaltungskonzept Grundstück Festenbergstraße Bebauungskonzept Grundstück Festenbergstraße - beantwortet
+- TOP 16: Bestattungen Friedhof Eller - beantwortet
+- TOP 17: Grundstück Am Turnisch 7 - beantwortet
+- TOP 18: Nutzung von leerstehenden Grundstücksflächen in Lierenfeld - beantwortet
+- TOP 19: Grundstück Kamper Weg 178 - beantwortet
+- TOP 20: Straßenschäden im Stadtbezirk 8 - beantwortet
+- TOP 21: Abbau der Altpapiercontainer im Stadtbezirk 8 - beantwortet
+- TOP 22: Ortsumgehung Flingern und L 404n - beantwortet
+- TOP 23: Bushaltestellen Jägerstraße und Am Hackenbruch - beantwortet
+- TOP 24: Video-Betreuung von Schulhöfen im Stadtbezirk 8 - beantwortet
+- TOP 25: Parkplatzerweiterung Eller - Mitte - beantwortet
+- TOP 26: Bindungsfristen zur Umgestaltung öffentlicher Flächen im Stadtbezirk 8 - beantwortet
+- TOP 27: Skateranlage im Stadtbezirk 8 - beantwortet
+- TOP 28: Fußgängerübergänge Kreuzung Heidelberger Str. / Schlossallee - einstimmig beschlossen
+- TOP 29: Wochenmarkt Eller - Ausschilderung - einstimmig beschlossen
+- TOP 30: LZA Heidelberger Straße / Karlsruher Straße - einstimmig beschlossen
+- TOP 31: Renaturierung Eselsbach - einstimmig beschlossen
+- TOP 32: Öffnung der Bebelstraße für den Fahrradverkehr - vertagt
+- TOP 33: Straßenreinigung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 34: Gestaltung Posener Straße / Reisholzer Straße - mehrheitlich beschlossen
+- TOP 35: Am Stufstock - einstimmig beschlossen
+- TOP 36: Parkscheibenregelung Vennhauser Allee 196 - 204 - einstimmig beschlossen
+- TOP 37: Bebauungsplanverfahren Elbsee - mehrheitlich abgelehnt
+- TOP 38: Buslinie 735 - einstimmig beschlossen
+- TOP 39: Kinderspielplatz Coburger Weg - einstimmig beschlossen
+- TOP 40: Internetempfang im Rathaus Eller - einstimmig beschlossen
+- TOP 41: Umgestaltung Gebiet Am Kleinforst - zurückgezogen
+- TOP 42: Fußgängerbrücke Josef-Wilbert-Straße / Minigolfplatz - einstimmig beschlossen
+- TOP 43: Bushaltestelle Am Stammesberg - einstimmig beschlossen
+- TOP 44: Fahrbahnsanierung Stichstraße zwischen Sandträgerweg 68 und 70 - einstimmig beschlossen
+- TOP 45: Baumscheiben Stichstraße Reichenbacher Weg 41 - 51 - einstimmig beschlossen
+- TOP 46: Bushaltestelle Friedhof - Unterbach - einstimmig beschlossen
+- TOP 47: Graffitibeseitigung 100m - Brücke - mehrheitlich beschlossen
+- TOP 48: Anstrich 100m - Brücke - zurückgezogen
+- TOP 49: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 50: Fahrplan Buslinie 732 - zur Kenntnis genommen
+- TOP 51: Darmstädter Straße - zur Kenntnis genommen
+- TOP 52: Fuß- / Radweg parallel zur Vennhauser Allee Höhe Minigolfplatz - zur Kenntnis genommen
+- TOP 53: Freiwillige Feuerwehr Unterbach - zur Kenntnis genommen
+- TOP 54: Friedhofssatzung - zur Kenntnis genommen
+- TOP 55: Wartehäuschen In den Maisbanden - zur Kenntnis genommen
+- TOP 56: Papierkörbe im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 57: Verkehrssituation Lierenfeld - zur Kenntnis genommen
+- TOP 58: Straßenschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 59: Andeckung Düsselwege - zur Kenntnis genommen
+- TOP 60: Verbesserung des Friedhofsservice - zur Kenntnis genommen
+- TOP 61: Gaslaternen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 62: Kinderspielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 63: Geruchsbelästigung Am Karlshof - zur Kenntnis genommen
+- TOP 64: Freifläche Reichenbacher Weg / Striegauer Weg - zur Kenntnis genommen
+- TOP 65: Erweiterung des Taubenturms Eller- Mitte - zur Kenntnis genommen
+- TOP 66: Fuß- und Radwegbrücke Am Kleinforst - zur Kenntnis genommen
+- TOP 67: Skateranlage im Stadtbezirk 8 - zur Kenntnis genommen
