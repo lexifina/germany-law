@@ -1,0 +1,21 @@
+# Beschluss des 2. produktorientierten doppischen Haushaltes 2009 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen und Beschluss der Haushaltssatzung 2009
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 67/2009 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2009-03-05
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZaWEu1xdgDxAl7WgGFy9o-g
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/1924
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des 2. produktorientierten doppischen Haushaltes 2009 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen und Beschluss der Haushaltssatzung 2009) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcKohyCzEp2ArTKfUG3afLzLYcleTI-dZ3FbOJs81pna/Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSl9r9hJtRUZG1kj4nf6oURnaB9SJlc5LiRUXJ7hBJEb/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWarbQQ8DlguBbLKcfswYUUsv1X1e4AqPrRps9MG8FpV/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUe2gA1J1pC0JLYbd5EKSkb2NJySq6uKye05nfhrsoT7/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWE3dad6FNwmeiGKFS3J8vg6A9_nYP7zT-YUBqy9cenO/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcxSxUQmXJqarL2cogs92VdaMpMobzDFs5IHZbsmgV5w/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYo2YDi_wFoe5yarQCr_1NO8vXOpQJC_fyEK2cuE1yg0/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeH54JA5N6qo-Vee76GcUg6Yo0Sh08kx3uSEMy1qYEl3/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcbLcZyHAabCD3GayhLweCPRz0WPRS4Dtze-C4Ucj9-m/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 67/2009 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRNXpMo7UB65iHqatUBPDllqw44wQ_ql4iXv4ynlv8Hf/Anlage_zur_Beschlussvorlage_67-2009_1._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8255 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
