@@ -12,7 +12,7 @@ Erster Teil: Das Recht der Polizei
 § 8 | Verantwortlichkeit nach anderen Vorschriften
 § 9 | Einschränkung von Grundrechten
 2. Abschnitt: Befugnisse
-1. Unterabschnitt: Allgemeine und besondere Befugnisse der Polizei
+1. Unterabschnitt:Allgemeine und besondere Befugnisse der Polizei
 § 10 | Allgemeine Befugnisse
 § 11 | Identitätsfeststellung, Prüfung von Berechtigungsscheinen
 § 11a | Kontrollstellen
@@ -33,7 +33,7 @@ Erster Teil: Das Recht der Polizei
 § 24 | Durchführung der Sicherstellung
 § 25 | Verwertung, Einziehung, Vernichtung
 § 26 | Herausgabe sichergestellter Sachen oder des Erlöses
-2. Unterabschnitt: Befugnisse zur Informationsverarbeitung
+2. Unterabschnitt:Befugnisse zur Informationsverarbeitung
 § 27 | Grundsätze der Datenerhebung
 § 28 | Datenerhebung
 § 29 | Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen, an besonders gefährdeten Objekten, auf öffentlichen Flächen, zur Eigensicherung und durch automatische Kennzeichenerkennung
@@ -99,7 +99,7 @@ Zweiter Teil: Organisation der Polizei
 § 70 | Polizeivollzugsdienst des Landes
 § 71 | Aufgaben der Polizei Bremen
 § 72 | Aufgaben des Landeskriminalamts
-§ 73 | Aufgaben des Senators für Inneres und Sport bei der Korruptionsbekämpfung
+§ 73 | Vollzugspolizeiliche Aufgaben des Senators für Inneres und Sport
 § 74 | Polizeivollzugsdienst der Stadtgemeinde Bremerhaven
 § 75 | Unterstützung und gemeinsamer Einsatz
 § 76 | Hilfspolizeibeamte
