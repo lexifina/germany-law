@@ -1,0 +1,89 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-03-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1585785
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1585785
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Schneeräumung in der Bramburgstr. und Beleuchtung im Verbindungsweg zwischen Gräfelfinger Str. und Guardinistr.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3.: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Budget
+- TOP 4.: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.: Entscheidungsfälle
+- TOP 5.1.: Antrag des VdK OV Hadern-Neuried Landesverband Bayern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.500,- ? (Direktorium, 18.02.09)
+- TOP 5.2.: Antrag des Stüps auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.541,94? (Direktorium, 26.02.09)
+- TOP 6.: Anhörungsfälle
+- TOP 6.1.: Veranstaltung in einer städt. Grünanlage, hier: Marionettentheater am Max-Lebsche-Platz vom 04.08. - 11.08.09 (inklusive 2 Tage Aufbau und 1 Tag Abbau) (Kreisverwaltungsreferat, 09.02.09)
+- TOP 6.2.: Veranstaltung in einer städt. Grünanlage, hier: Zirkus Baldoni vom 08.09. - 20.09.09 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 18.02.09)
+- TOP 6.3.: Realisierung einer viergruppigen Kinderkrippe Marchioninistr. 3 - 5, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 24.03.09 (Sozialreferat, 13.02.09)
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Aufhebung absolutes Haltverbot Neufriedenheimer Str. 57 (Kreisverwaltungsreferat, 11.02.09)
+- TOP 6.5.: Erinnerungsverfahren: Terofalstr. zwischen Wastl-Witt-Str. und Blumenauer Str. (Baureferat, 12.02.09)
+- TOP 6.6.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Max-Lebsche-Platz 38 (Kreisverwaltungsreferat, 13.02.09)
+- TOP 6.7.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Stiftsbogen 89 (Kreisverwaltungsreferat, 13.02.09)
+- TOP 6.8.: Veranstaltung in einer städt. Grünanlage, hier: Flohmarkt am Max-Lebsche-Platz am 25.04 / 30.05. / 20.06. / 18.07.09 (Ausweichtermine: 26.09. / 10.10.09) (Kreisverwaltungsreferat, 03.03.09)
+- TOP 6.9.: Beschlussentwurf: Radverkehr München, Grundsatzbeschluss zur Förderung des Radverkehrs in München (Referat für Stadtplanung und Bauordnung, 05.03.09)
+- TOP 6.10.: Werbeanlage, hier: Würmtalstr. 2 b, 4 Großflächentafeln am Bauzaun, beleuchtet, befristet auf die Dauer der Bauzeit (Referat für Stadtplanung und Bauordnung, 04.03.09)
+- TOP 6.11.: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Umlaufsperren, Antr. des BA 21 (Direktorium, 25.02.09)
+- TOP 6.12.: Entscheidungsrecht für die Bezirksausschüsse bei der Aufstellung von Werbetafeln und Infosäulen, Antr. des BA 21 (Direktorium, 25.02.09)
+- TOP 7.: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Waldesruhe 47, gem. Baumbestandplan Nr. 1021
+- TOP 7.2.: Am Brombeerschlag 2, 1 Atlas-Zeder
+- TOP 7.3.: Haderunstr. 1 a, 2 Ahorn und 1 Birke
+- TOP 7.4.: Hertlstr. 27, 1 Kiefer
+- TOP 7.5.: Neufriedenheimer Str. 62, 1 Fichte
+- TOP 7.6.: Terofalstr. 27 - 43, 47 - 53, 2 Robinien
+- TOP 7.7.: Windeckstr. 36, 1 Birke
+- TOP 7.8.: Haseneystr. 12, 2 Fichten
+- TOP 7.9.: Kleinhaderner Str. 37, 1 Stechfichte
+- TOP 7.10.: Ludlstr. 1 - 15, 4 Scheinakazien, 2 Sandbirken, 1 Vogelkirsche, 1 Winterlinde
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 2 Bäume auf dem Waldfriedhof (Baureferat, 11.02.09)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8.: Unterrichtungsfälle
+- TOP 8.1.: Frühzeitige Unterrichtung der Bezirksausschüsse (Oberbürgermeister Ude, 02.02.09)
+- TOP 8.2.: Mittelfristige Finanzplanung 2008 - 2012 (Stadtkämmerei, 26.01.09)
+- TOP 8.3.: Information über das Betriebskonzept der U3 / U6 während der Arbeiten zur Modernisierung des Stellweks Implerstr. (MVG, 09.02.09)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Sauerbruchstr. 5 - 9; Kurzparkzone (Kreisverwaltungsreferat, 12.02.09)
+- TOP 8.5.: Vollzug der Grünanlagensatzung vom 12.08.1991, Stromüberspannung in der Grünanlage an der Hertlstr. (Kreisverwaltungsreferat, 16.02.09)
+- TOP 8.6.: Verkehrsrechtliche Anordnung, hier: Aufhebung des personenbezogenen Behindertenparkplatzes in der Karl-Witthalm-Str. 12 (Kreisverwaltungsreferat, 03.11.08)
+- TOP 9.: Antworten der Stadt
+- TOP 9.1.: Ablagerung von Aushub im Landschaftspark Laim-Hadern-Pasing (Baureferat, 29.01.09)
+- TOP 9.2.: Hundewiese hinter dem Westbad (Baureferat, 29.01.09)
+- TOP 9.3.: Übergang vom Walter-Hopf-Weg zum Studentenwohnheim (Baureferat, 27.01.09)
+- TOP 9.4.: Sanierung der Sporthalle der Grundschule an der Senftenauerstr. 21 (Schul- und Kultusreferat, 11.02.09)
+- TOP 9.5.: Öffnung des Hans-Grässel-Weges für Fahrradfahrer entgegen der Einbahnrichtung (Kreisverwaltungsreferat, 19.02.09)
+- TOP 10.: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11.: Verschiedenes
+- TOP 11.1.: Tag des offenen Denkmals am 13.09.09 (Deutsche Stiftung Denkmalschutz, 02.02.09)
+- TOP 11.2.: Europawahl am 07.06.09 und Bundestagswahl am 27.09.09; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer (Kreisverwaltungsreferat, 05.02.09)
+- TOP 11.3.: Protokoll der Informationsveranstaltung des Sozialreferates vom 03.12.08 (Sozialreferat, 16.02.09)
+- TOP 11.4.: Protokoll zum 2. Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 21.01.09 in der Gleichstellungsstelle für Frauen; nächster Termin: 19.05.09 (Gleichstellungsstelle für Frauen, 02.02.09)
+- TOP 11.5.: Protokoll der Arbeitsgruppe Wohnungslosigkeit (Sozialreferat, 13.02.09)
+- TOP 11.6.: Radwegbenutzungspflicht (ADFC, 16.02.09)
+- TOP 11.7.: Einladung zum kostenlosen Fachforum am 24.03.09 "Energiesparmaßnahmen bei Sanierungen - Baurecht, Genehmigung, Zulassung" (Referat für Gesundheit und Umwelt im März 09)
+- TOP 11.8.: Informationsveranstaltung der SWM am 30.03.09 um 18.00 Uhr (SWM, 02.03.09)
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.01.2009: Zweites Konjunkturpaket der Bundesregierung für MVV Ausbau nutzen (abgelehnt) Sitzungsvorlagen Nr. 08-14 / V 01560
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.2009: Stadt-Umland-Bahn - Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen - Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen Sitzungsvorlagen Nr. 08-14/ B 01572
+- TOP 12.2.: Beschluss des Bauausschusses vom 10.02.2009: Teilnahme des Baureferats an der Veranstaltungsreihe "Tunnelblicke" am 09.03.2009, 19.00 Uhr, im Pfarrsaal St. Thomas Morus Sitzungvorlagen Nr. 08-14 / V 01535
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.2009: PERSPEKTIVE MÜNCHEN, Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung Sitzungsvorlagen Nr. 08-14 / V 00506
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
