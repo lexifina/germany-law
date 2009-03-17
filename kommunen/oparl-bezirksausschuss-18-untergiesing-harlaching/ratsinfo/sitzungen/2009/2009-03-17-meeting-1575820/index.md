@@ -1,0 +1,106 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1575820
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1575820
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Radwegbenutzungspflicht; Schreiben des ADFC vom 16.02.09 - <div>zur Kenntnis genommen</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.1.: Vertreter des Bayerischen Landesverbands der Marktkaufleute
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Benennung einer Vertretung für den 18. Stadtbezirk im Mieterbeirat der Landeshauptstadt München (gemäß § 4 Abs. 2 der Satzung über den Mieterbeirat nur Personen mit Hauptwohnsitz im jeweiligen Stadtbezirk)
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Fromundstraße 5 Selbstbehauptungskurse im März und Oktober 2009
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Münchner Konzertchor e.V. Konzert am 10.04.09 in der Emmauskirche Harlaching
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Städt. Unterkunftsheim für Männer, für die Maßnahme: ergänzende Ausstattung eines Tagesaufenthaltes; Antragssumme: 2.000,-- ?; Antrag vom 12.02.09
+- TOP 3.2.: AntragstellerIn: Zeitbank e. V., für die Maßnahme: Bestandsanalyse der sozialen Einrichtungen im 18. Stadtbezirk; Antragssumme: 1.500,-- ?; Antrag vom 28.01.2009
+- TOP 3.3.: AntragstellerIn: Hänsel & Gretel Kita GmbH, für die Maßnahme: Außenspielflächengestaltung des Kindergartens; Antragssumme: 8.532,-- ?; Antrag vom 16.02.2009
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: eingeschränkte Parkverbotszone im Bereich der Naupliastraße zur Armannspergstraße - <div>nach Antrag</div>
+- TOP 3.1.: Verschiedene Punkte im 18. Stadtbezirk 1. Haltverbotregelung in der Konradinstraße 2. Behindertenparkplatz in der Konradinstraße 3.+4. Beschilderung "Altenheim" in der Konradinstr./Agilolfingerstraße 5. Straße am Hans-Mielich-Platz 6. Kunstfigur am Hans-Mielich-Platz Bürgerschreiben vom 16.12.2008; Antwortschreiben des KVR vom 18.02.2009 (positive Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: 70 zusätzliche Fahrradständer am Ausgang der U-Bahn-Station Mangfallplatz, Höhe Naupliastraße 29 - 39; BA-Antrag Nr. 08-14 / B 00612 des BA 18 vom 18.11.08; Antwortschreiben des Baureferats vom 03.02.09 (positive Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Feinstaub- und Abgasmessung im Bereich der Grünwalder Straße zwischen Authari- und Tiroler Platz; Antrag der SPD-Fraktion vom 11.02.2009 (ED) - vertagt aus der Sitzung vom 17.02.2009 - <div>nach Antrag</div>
+- TOP 3.2.: Wertstoffcontainerstandort Gerhardstraße / Agilolfingerstraße; Zuleitung des Abfallwirtschaftsbetriebes mit der Bitte um Rückäußerung bis Ende der 04. KW (vertagt aus den Sitzungen vom 20.01. und 17.02.2009)
+- TOP 3.3.: Verunreinigung durch Fäkalien im Bereich des Straßenbahnwendepunkt / Haltestelle Großhesseloher Brücke - vertagt aus der Sitzung vom 17.02.2009
+- TOP 3.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.2007 über die Projektplanung; Projektname: Fromundstraße/Otkerstraße, "Soziale Stadt" Bank und Baum; Projekt Nr. 100397; Beschluss des Bezirksausschusses des Stadtbezirkes 18 vom 17.03.2009
+- TOP 3.1.: Isar-Plan; Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München Planungsabschnitt III, Bauabschnitt 7: "Realisierung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke" Bauabschnitt 7 Mitte Los 2, "Weideninsel" von ca. 120 m nördlich der Wittelsbacherbrücke bis ca. 300 m südlich der Reichenbachbrücke; Sitzungsvorlage Nr. 08-14 / V 01605; Beschluss des Bauausschusses vom 10.02.2009 (SB)
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen im Kornblumenweg; Bescheid vom 09.02.09
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Tegernseer Landstraße 138 (Klaus Mutschler Grundbesitzverwaltungs GmbH & Co. KG und Giant Leap GmbH & Co. KG) mit 36 Kinderkrippenplätzen, Umbau und Ausstattung; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 28.04.2009; Zuleitung des Sozialreferats vom 13.02.09 mit der Bitte um Stellungnahme bis spätestens 01.04.09
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; Freischankfläche in der Zasinger Straße 2; Beschluss des BA 18 vom 17.02.2009 (vertagt aus den Sitzungen vom 20.01. und 17.02.2009)
+- TOP 3.1.: Senioren-Wohngemeinschaften für das Bauvorhaben Deisenhofener Straße 18 / Herzogstandstraße - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen in der Geiselgasteigstraße; Anhörung vom 26.02.09
+- TOP 3.2.: Anwesen in der Naupliastraße; Anhörung vom 03.02.2009 (vertagt aus der Sitzung vom 17.02.2009)
+- TOP 3.3.: Anwesen in der Bezoldstraße; Anhörung vom 03.02.2009 (vertagt aus der Sitzung vom 17.02.2009)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen in der Geiselgasteigstraße; Zuleitung vom 03.02.2009 (vertagt aus der Sitzung vom 17.02.2009)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Planung des BA-Jahresempfangs 2009
+- TOP 3.2.: Tag des offenen Denkmals am 13.09.2009; Anmelde- und Informationsunterlagen; Schreiben der Deutschen Denkmalschutzstiftung (vertagt aus der Sitzung vom 17.02.2009)
+- TOP 3.1.: Weihnachtsbaum am Hans-Mielich-Platz; Antrag der Bürgerinitiative "mehr Platz zum Leben" vom 11.02.09) - <div>nach Antrag</div>
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Erhalt des Kaufhauses Hertie an der Tegernseer Landstraße - <div>nach Antrag</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: keine Gebührenerhöhung für Sondernutzung auf öffentlichen Straßen für ehrenamtliche Veranstaltungen; BA-Antrag Nr. 08-14 / B 00783 des BA 18 vom 20.01.09; Antwortschreiben des KVR vom 05.02.09 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mittelfristige Finanzplanung 2008 - 2012; Schreiben und Broschüre (siehe Umlaufmappe) der Stadtkämmerei vom 26.01.09
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
