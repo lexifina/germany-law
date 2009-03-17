@@ -1,0 +1,8 @@
+# TOP 6.4: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Hiltrup und im Stadtbezirk Münster-Nord
+
+- Sitzung: 47. Sitzung (2009-03-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/87097
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/41524
