@@ -1,0 +1,8 @@
+# TOP 5.1: Bestellung einer Trägervertreterin/eines Trägervertreters für die städtische Kindertageseinrichtung "Am Inselbogen", Gut Insel 24
+
+- Sitzung: 47. Sitzung (2009-03-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/87127
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/41599
