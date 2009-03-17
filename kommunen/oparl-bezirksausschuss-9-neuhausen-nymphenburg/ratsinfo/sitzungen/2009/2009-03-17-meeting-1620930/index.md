@@ -1,0 +1,117 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620930
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620930
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Faschingsclub Neuhausen (Az.: 03/09 - 4.1): Zuschuss in Höhe von 500 ? für das Faschingstreiben vom 22. - 24.02.09 am Rotkreuzplatz
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürger: Gefahr durch die doppelte Ampelanlage Dachauer-/Leonrodstraße
+- TOP 3.2.: Bürger: Verbesserung des Durchgangs vom Neubaugebiet Hirschgarten zum S-Bahnhof Laim
+- TOP 3.3.: Bürger: Bushaltestelle Nymphenburg Süd
+- TOP 3.4.: Antrag CSU: Steuerung der Rolltreppen am Rotkreuzplatz
+- TOP 3.5.: Antrag CSU: Vorübergehende Sperrung der Trojanostraße für den Durchgangsverkehr
+- TOP 3.6.: KVR: Stadt-Triathlon am 24.05.09 im Olympiapark und in der Ackermannstraße
+- TOP 3.7.: KVR: Beschleunigung der Buslinie 53, ergänzende Maßnahmen
+- TOP 3.8.: KVR: Haltverbot Emma-Ihrer-Str. 5, Entfernung des Zeitzusatzes
+- TOP 3.9.: Baumaßnahmen der Stadtwerke Februar
+- TOP 3.10.: ADFC: Radwegbenutzungspflicht
+- TOP 3.11.: KVR: Temporäres Haltverbot wegen der Müllabfuhr in der Gudrunstraße Ostseite (Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 3.12.: KVR: Absolutes Haltverbot in der Karl-Schurz-Straße zwischen Isenstein- und Aldrianstraße (Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 3.13.: Planungsreferat: Bürgeranliegen Straßen- und Verkehrskonzept im neuen Wohngebiet an der Hanebergstraße (Schreiben BA 9 vom 20.01.09)
+- TOP 3.14.: Bürger: Fußgängerampelschaltung Notburgastraße
+- TOP 3.15.: Bürger: MVG-Fahrpläne: Verschwinden der Margarethe-Danzi-Straße (Schreiben BA 9 vom 20.01.09, Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 3.16.: Baureferat: Bürgeranliegen Ausreichende Beleuchtung am Rotkreuzplatz (Schreiben BA 9 vom 16.12.08)
+- TOP 3.17.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.09: Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen; Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen
+- TOP 3.18.: KVR: Einrichtung eines zusätzlichen Parkverbotes auf der Brücke in der Nederlinger Straße zwischen Kuglmüller- und Zamboninistraße auf der Westseite der Brücke (Antrag BA 9 Nr. 635 vom 18.11.08)
+- TOP 3.19.: KVR: Nur vorwärts einparken-Zusatzschild in der Sadelerstr. 13-15 (Schreiben BA 9 vom 18.11.08)
+- TOP 3.20.: Sozialreferat: Barrierefreie Ausgestaltung der Fußgängerunterführung unter der Landshuter Allee (u.a. Antrag BA 9 Nr. 1625 vom 21.11.06)
+- TOP 3.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.09: Namensgebung für den neuen S-Bahn-Haltepunkt Friedenheimer Brücke
+- TOP 3.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.09: Verbesserung der Schienenanbindung des Flughafens München, Sach- und Planungsstand
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 02.02.-08.02, 09.02.-15.02., 16.02.-22.02. und 23.02.-01.03.09
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Bauvorhaben Volkartstraße: Neubau Facharztzentrum, Tektur
+- TOP 3.4.: Bauvorhaben Pegnitzstr. 5: Errichtung von erdgeschossigen Anbauten
+- TOP 3.5.: Bauvorhaben Zuccalistr. 33: Neubau eines Mehrfamilienhauses mit Tiefgarage (Haus 1), Tektur
+- TOP 3.6.: Bauvorhaben Nibelungenstr. 58: Neubau dreier Doppelhäuser mit Tiefgarage (Nibelungenstr. 58 und 58a, Rheingoldstr. 1, 1a, 1b, 1c), hier: Baumfällungen
+- TOP 3.7.: Bürger: Neubau am Rotkreuzplatz (ehemals Forster)
+- TOP 3.8.: Planungsreferat: Gerner Str. 33, Neubau eines Wohn- und Geschäftshauses, Vorbescheid
+- TOP 3.9.: Bauvorhaben Nymphenburger Str. 166: Umbau einer Wohnung in mehrere Appartements im 2. OG
+- TOP 3.10.: Bauvorhaben Orffstr. 56: Neubau eines Wohngebäudes mit Kinderkrippe und Tiefgarage, Vorbescheid
+- TOP 3.11.: Bürger: Leonrodplatz, südwestliche Wiese vor der Ladenzeile; Vorschläge für eine Neugestaltung
+- TOP 3.12.: Bürger: Einebnung des Erdwalls im Hirschgarten (Wilhelm-Hale-Straße / Schloßschmidstraße)
+- TOP 3.13.: Bauvorhaben Wendl-Dietrich-Str. 4: Umbau sowie Nutzungsänderung eines Ladenlokals zu einer Gaststätte im KG, EG mit Empore
+- TOP 3.14.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier:Volkartstraße
+- TOP 3.15.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Volkartstraße
+- TOP 3.16.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Notburgastraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Funkerstr. 5-9: Fällung von 1 Roßkastanie und 3 Pappeln
+- TOP 3.2.: Funkerstr. 11-15: Fällung von 1 Roßkastanie
+- TOP 3.3.: Heldstr. 7-23: Fällung von 1 Sommerlinde
+- TOP 3.4.: Heldstr. 22-26: Fällung von 1 Pappel
+- TOP 3.5.: Pfänderstr. 29-37: Fällung von 1 Sandbirke
+- TOP 3.6.: Hilblestr. 25-49: Fällung von 1 Pappel und 1 Sandbirke
+- TOP 3.7.: Trivastr. 23: Fällung von 1 Birke
+- TOP 3.8.: Dom-Pedro-Platz 1b: Fällung von 1 Fichte
+- TOP 3.9.: Simeonistr. 2-4: Fällung von 1 Hainbuche
+- TOP 3.10.: Pegnitzstr. 11: Fällung von 1 Fichte
+- TOP 3.11.: Taschnerstr. 27: Fällung von 2 Fichten
+- TOP 3.12.: Mallersdorfer Str. 3-9: Fällung von 1 Spitzahorn
+- TOP 3.13.: Mallersdorfer Str. 2-8: Fällung von 1 Spitzahorn
+- TOP 3.14.: Barellistr. 9: Fällung von 1 Fichte
+- TOP 3.15.: Bäumlstr. 11: Fällung von 2 Serbischen Fichten
+- TOP 3.16.: Wendl-Dietrich-Str. 50: Fällung von 1 Sommerlinde
+- TOP 3.17.: Isensteinstr. 11: Fällung von 1 Spitzahorn
+- TOP 3.18.: Sustrisstr. 11: Fällung von 2 Birken
+- TOP 3.19.: Walhallastr. 50: Fällung von 6 Lärchen, 3 Hainbuchen, 3 Fichten und 1 Akazie
+- TOP 3.20.: Bürger: Hundekotverschmutzung in der Brunhildenstraße und Umgebung
+- TOP 3.21.: Planungsreferat: Fällungsgenehmigung Bolivarstr. 11
+- TOP 3.22.: Planungsreferat: Fällungsgenehmigung Frickastr. 31
+- TOP 3.23.: Bürger: Baumfällarbeiten in der Neustätterstraße / Wiederanpflanzung (Schreiben BA 9 vom 17.02.09)
+- TOP 3.24.: Green City e.V.: Wanderbaumallee 2009 (Wiedervorlage aus der Sitzung vom 17.02.09 / Antworten der Fraktionen)
+- TOP 3.25.: Planungsreferat: Fällungsgenehmigungen Brunhildenstr. 34, Kratzerstr. 30, Reinmarplatz 12
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag SPD: Kostenloser Zugang in städtische Museen für Schüler des zweiten Bildungsweges
+- TOP 3.2.: Protokoll Arbeitsgruppe Wohnungslosigkeit
+- TOP 3.3.: Hauptschule am Winthirplatz - ausstehende Bauleistungen Ganztagsschule
+- TOP 3.4.: Protokoll der Sitzung der Arbeitsgemeinschaft Spiellandschaft Stadt am 17.02.09
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Bekanntgabe im Schul- und Sportausschuss vom 14.01.09: a) Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2008/09 b) Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2008/09 c) Schüler/innen und Klassenstand der Beruflichen Schulen im Schuljahr 2008/09 d) Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2008/09 e) Schüler- und Klassenzahlen an den städtischen und staatlichen Realschulen und der städt. Franz-Auweck-Abendschule im Schuljahr 2008/09 (Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 3.7.: Schulreferat: Minispielfelder des Deutschen Fußball-Bundes (Schreiben BA 9 vom 20.01.09)
+- TOP 3.8.: Schulreferat: Anbau einer Lernwerkstatt am Kita-Standort Frundsbergstr. 43 als Modellprojekt (Antrag BA 9 Nr. 788 vom 20.01.09)
+- TOP 3.9.: REGSAM: Erfahrungen mit REGSAM (Schreiben BA 9 vom 17.02.09)
+- TOP 3.10.: Protokoll zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 03.12.08
+- TOP 3.11.: Die Bärchen e.V.: Umzug nach Laim
+- TOP 3.12.: Sozialreferat: Kindertageseinrichtung im Haus Heilig Geist (Schreiben BA 9 vom 16.12.08)
+- TOP 3.13.: Beschlussvorlage Schulreferat: Neubau einer 5-zügigen Grundschule mit 8-gruppigem Tagesheim und 4-gruppiger Mittagsbetreuung im Siedlungsgebiet Nymphenburg Süd
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Planungsreferat: Stadtteilwoche vom 17.07. - 24.07.09 im Landschaftsschutzgebiet Hirschgarten
+- TOP 3.3.: Baureferat: Wandgestaltung Donnersbergerbrücke (Schreiben BA 9 vom 16.09.08)
+- TOP 3.4.: =&gt; dazu: Bürger: Zwischenstand Wandgestaltungsprojekt Donnersbergerbrücke (Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 3.5.: Kulturreferat: Wiedererrichtung des "Hirschalter" Denkmals im Hirschgarten (Schreiben BA 9 vom 18.11.08 - Abgabenachricht), Wiedervorlage aus der Sitzung vom 17.02.09
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Janusch Kozminski Filmproduktion: Straßen-Filme in Neuhausen-Nymphenburg (Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Faschingsclub Neuhausen: Zuschuss in Höhe von 500 ? für das Faschingstreiben vom 22. - 24.02.09 am Rotkreuzplatz
+- TOP 4.2.: Beschluss der Vollversammlung des Stadtrates vom 18.02.09: Neue Form der Bürgerversammlungen
+- TOP 4.3.: Stadtkämmerei: Mittelfristige Finanzplanung 2008-2012
+- TOP 4.4.: KVR: Pächterwechsel a) Gaststätte "Acetaia", Nymphenburger Str. 215 b) Gaststätte "Kegelheim", Stupfstr. 6 c) Gaststätte "Augustiner am Dante", Dantestr. 16 d) Kleingaststätte "Leon Cafe-Bar", Dachauer Str. 189
+- TOP 4.5.: KVR: Kundgebung der Tibet Initiative Deutschland zum 50. Jahrestag des tibetischen Volksaufstandes 1959 am 10.03.09 an der Romanstraße Ecke Hirschgartenallee
+- TOP 4.6.: KVR: Drehgenehmigung am 15.02.09 in der Pilar- und Tizianstraße, Produktion "Irren ist tödlich"
+- TOP 5: Verschiedenes
