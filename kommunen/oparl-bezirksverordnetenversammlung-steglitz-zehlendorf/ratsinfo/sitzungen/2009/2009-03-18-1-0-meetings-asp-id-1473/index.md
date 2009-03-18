@@ -1,0 +1,82 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2009-03-18T17:00:00+01:00
+- Ende: 2009-03-18T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1473
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1473
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Tote Ente auf dem Spielplatz am Lützelsteiner Weg in Dahlem - beantwortet
+- TOP 3.2: Notfallversorgung in Steglitz-Zehlendorf - beantwortet
+- TOP 3.3: Kontrolle der Hygiene in den Gaststätten im Bezirk - beantwortet
+- TOP 3.4: Ampel Ostpreußendamm/Einmündung Bäkestraße - beantwortet
+- TOP 3.5: Straßenschäden - beantwortet
+- TOP 3.6: Schülerinitiative Plant-for-the-planet - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitswahlvorschläge - erledigt
+- TOP 4.1.1: Wahl einer Vertreterin der Bezirksverordnetenversammlung in den Beirat der Arbeitsgemeinschaft Steglitz-Zehlendorf (Job-Center) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl einer Vertreterin der Bezirksverordnetenversammlung in den Beirat der Arbeitsgemeinschaft Steglitz-Zehlendorf (Job-Center) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Anträge - erledigt
+- TOP 4.2.1: Rumpelbasar erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Ausweisung von Parkflächen im Kastanienhof an der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Rathaussanierung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Schulbuchkosten senken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Spielfeld Brettnacher Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Öffentlicher Beschäftigungssektor in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.3.6: Ampel Zehlendorf-Eiche mit moderner Signaltechnik ausstatten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Bebauungsplanverfahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.8: Bürgersteigflächen im Parkviertel Dahlem - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.9: Ladenstraße Onkel-Toms-Hütte wirtschaftlich stärken! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.10: Bebauungsplan X 26-1 / Bebauung Johannesstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.11: Auch Sanierung der Schulhöfe notwendig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.12: Steglitz-Zehlendorfs Chancen nutzen II: Aufbau eines Technologie- und Gründerzentrums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.13: Liegenschaft der Bundesanstalt für Risikobewertung (BfR) als Standort erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Transparenz für den Bezirkshaushalt - überwiesen
+- TOP 5.1.2: "Nachtragshaushalt" im Doppelhaushalt - überwiesen
+- TOP 5.1.3: Barrierefreiheit bei der Verwendung der Mittel aus dem Konjunkturpaket II und dem Sonderprogramm "Plus 50" berücksichtigen - überwiesen
+- TOP 5.1.4: Einrichtung von Pflegestützpunkten - überwiesen
+- TOP 5.1.5: Straßenbäume sind Ökoinvestitionen! - überwiesen
+- TOP 5.1.6: Die Grundschulen nicht vergessen - überwiesen
+- TOP 5.1.7: Sprungtiefe für das Finckenstein-Bad - überwiesen
+- TOP 5.1.8: Umsetzung des Konjunkturprogramms in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.9: Energetische Gebäudesanierung mit dem Konjunkturprogramm II - überwiesen
+- TOP 5.1.10: Alkoholprävention im Bereich Rosengarten (Lankwitz) - überwiesen
+- TOP 5.1.11: Barrierefreier PC-Arbeitsplatz für NutzerInnen der Ingeborg-Drewitz-Bibliothek - überwiesen
+- TOP 5.1.12: Entlastung der Hauptverkehrsachsen - überwiesen
+- TOP 5.1.13: Verkehrsrisiko Kreuzung Birkbuschstraße/Schützenstraße - überwiesen
+- TOP 5.1.14: Blutspendetermin der Bezirksverordneten - überwiesen
+- TOP 5.1.15: Transparenz bei Lebensmittelüberwachung - überwiesen
+- TOP 5.1.16: Buslinie 186 - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Verkauf Gartenstadt Zehlendorf - überwiesen
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Geschäftsordnung des Beirates der sozialtherapeutischen Einrichtung für chronisch psychisch Kranke in der Leonorenstraße - beantwortet
+- TOP 7.2: Sarazenu - Sanierung des Rathauses Zehlendorf - beantwortet
+- TOP 7.3: Vorlagen zur Kenntnisnahme - beantwortet
+- TOP 7.4: Verantwortung des Bezirksamts für Fehler beim Kreiselgutachten und 17 Mio Euro Sanierungsmehrkosten - beantwortet
+- TOP 7.5: Überlastung des Wohnungamts? - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Mehr Sicherheit für Rudolf-Steiner-Schüler - vertagt
+- TOP 8.2: Verkehrliche Maßnahmen im Umfeld der Rudolf-Steiner-Schule - vertagt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Keine Autofahrergängelung in Steglitz-Zehlendorf durch Rot-Rot - vertagt
+- TOP 10: Ausschussanträge - erledigt
+- TOP 10.1: Vergaberichtlinien - erledigt
+- TOP 11: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 11.1: Aufruf zur diesjährigen Fahrradsternfahrt - vertagt
+- TOP 11.2: Standorte für Sekundarschulen sichern! - vertagt
+- TOP 11.3: Investitionsplanung 2009 - 2013 dem Konjunkturprogramm II anpassen. Schul- und Straßeninvestition vorziehen - vertagt
+- TOP 12: Schlusswort des Vorstehers - erledigt
