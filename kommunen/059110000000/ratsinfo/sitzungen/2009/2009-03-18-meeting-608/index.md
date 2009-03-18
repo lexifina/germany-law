@@ -1,0 +1,52 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2009-03-18T15:30:00+01:00
+- Ende: 2009-03-18T18:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZecUKEOK0pdcGGpf4-KCmG4
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/608
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXp86dQ72tG68jgX1D6OjiodAMtjJSANqgxBTCcV_Afe/Einladung_Seniorenbeirat_18.03.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVOmMvXHm7nGKGfLtr6MWeG8Yf_50vtS0sxT2If6s0mh/Oeffentliche_Niederschrift_Seniorenbeirat_18.03.2009.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Stolperkanten Boulevard - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Sonderbus-Haltestellen am Hauptbahnhof / Unterführung Wittener Straße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Heimaufsicht unter Berücksichtigung der neuen Gesetzgebung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Lieferservice des Bochumer Einzelhandels - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Nahverkehrsplan - Fortschreibung 2009 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Ausbesserung der Bushaltestellenanfahrt Wiemelhausen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Niederflurgerechter Ausbau der Haltestellen Hiltroper Busch und Paul-Müller-Straße "Bus 353" - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Der Rote Teppich, barrierefreie Absenkungen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Verkehrssituation Dahlhausen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Fußgänger-Überweg (Querungshilfe) an der Haltestelle "Buselohstraße" - Linie 368 - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Fußgängerweg an der Hermannshöhe - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Ansprechpartner in Krankenhäusern - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Bericht des Vorsitzenden - mündlicher Bericht in der Sitzung -
+- TOP 6.12: Berichte aus den Gremien - mündliche Berichte in der Sitzung -
+- TOP 7: Anfragen
+- TOP 7.1: Gahlensche Straße - Gefahrenquellen aus Sicht älterer Verkehrsteilnehmer - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Öffentliche Toiletten am Rathaus-Platz - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Barrierefreie und behindertengerechte Arztpraxen und Therapieeinrichtungen (Anfrage -Vorlage Nr. 20072381) - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
