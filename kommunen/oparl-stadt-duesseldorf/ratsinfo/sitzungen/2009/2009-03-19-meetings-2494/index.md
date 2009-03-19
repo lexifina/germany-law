@@ -1,0 +1,79 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-03-19T14:00:00+01:00
+- Ende: 2009-03-19T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2494
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2494
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151777.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151777.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151777.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Anfragen aus aktuellem Anlass
+- TOP 3: Anfrage aktuell d. SPD: Fußgängerüberwege Kölner Landstr. - beantwortet
+- TOP 4: Aktuelle Anfrage Linksfraktion: Bundeswehreinsatz - mehrheitlich abgelehnt
+- TOP 5: Aktuelle Anfrage Linke: Schusswaffen - beantwortet
+- TOP 6: Anfragen
+- TOP 7: Anfr. CDU: Energiesparmaßnahmen - beantwortet
+- TOP 8: Anfr. CDU: Betriebliche Verbesserungsvorschläge - beantwortet
+- TOP 9: Anfrage der SPD: Stehplätze in der LTUarena - beantwortet
+- TOP 10: Anfrage von Bürgermeister Conzen: SS-Vergleich mit dem OSD - beantwortet
+- TOP 11: Anfrage Bü90/Grü: Bau der Wehrhahnlinie - Sicherheit d. Gebäude - beantwortet
+- TOP 12: Anfrage Bü90/Grü: Leiser Landeanflug Düsseldorfer Flughafen Anfrage Bü 90/Grü: Leiser Landeanflug D`dorfer Flughafen - schriftlich beantwortet
+- TOP 13: Anfrage Rfr. Frey: Sozialticketmodelle - schriftlich beantwortet
+- TOP 14: Anfrage Linke: OSD-Maßnahmen - schriftlich beantwortet
+- TOP 15: Anträge
+- TOP 16: Antrag Bü90/Grü: Flagge zeigen für Tibet - mehrheitlich abgelehnt
+- TOP 17: Antrag SPD: Gemeinsamer Termin von Kommunal-und Bundestagswahl - mehrheitlich abgelehnt
+- TOP 18: Antrag CDU/FDP: Familienförderung - mehrheitlich beschlossen
+- TOP 19: ÄA SPD: Familienförderung - mehrheitlich abgelehnt
+- TOP 20: Antrag CDU u. FDP: Ehrenauszeichnungen - mehrheitlich beschlossen
+- TOP 21: Antrag Bü90/Grü: Equal Pay Day - mehrheitlich abgelehnt
+- TOP 21: Antrag Bü90/Grü: Worringer Platz - mehrheitlich abgelehnt
+- TOP 22: Antrag Linke: Einrichtung einer weiteren Gesamtschule - mehrheitlich abgelehnt
+- TOP 23: Antrag Linke: Zusammenlegung von Wahlen - mehrheitlich abgelehnt
+- TOP 24: Antrag Linke: Mehr Transparenz in Aufsichtsräten - mehrheitlich abgelehnt
+- TOP 25: Antrag Linke: Gentechnikfreies Essen - mehrheitlich abgelehnt
+- TOP 26: Antrag SPD: Arbeitsplätze schaffen .......... - zurückgezogen
+- TOP 27: Antrag SPD: Solare Energieerzeugung - mehrheitlich abgelehnt
+- TOP 28: Antrag SPD: Mehr Transparenz in öffentlichen Unternehmen - mehrheitlich abgelehnt
+- TOP 29: Konkunkturpaket II - mehrheitlich beschlossen
+- TOP 30: Konjunkturpaket II, Beschleunigung von Investitionen durch Vereinfachung des Vergaberechts- - einstimmig beschlossen
+- TOP 31: Art:cards Düsseldorf - mehrheitlich beschlossen
+- TOP 32: Festsetzung der Eintrittspreise für Konzerte der Tonhalle/Düsseldorfer Symphoniker - einstimmig beschlossen
+- TOP 33: Grenzweg 15, Neubau einer Einfachsporthalle für den Stadtteil Wittlaer - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 34: Personal- und Fahrzeugkostensätze im Rahmen der Entgeltkalkulation Leistungen für Dritte des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 35: Modernisierung der Stadtteilbücherei Garath, sowie Erneuerung der WC-Anlage und Einbau eines Aufzuges in der Freizeitstätte Garath - Bau und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 36: Umbau Konrad-Adenauer-Platz (geänderte Vorlage 66/151/2008) - mehrheitlich beschlossen
+- TOP 37: Kanalanschluss städtischer Kleingartenflächen -Darlehensvergabe- - einstimmig beschlossen
+- TOP 38: Geschäftsanweisung für die FiBu - einstimmig beschlossen
+- TOP 39: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - einstimmig beschlossen
+- TOP 40: Auditierungsverfahren - einstimmig beschlossen
+- TOP 41: Verkaufsoffener Sonntag am 29.03.09 - mehrheitlich beschlossen
+- TOP 42: Abberufung und Bestellung von Prüferinnen und Prüfern des Rechnungsprüfungsamtes - einstimmig beschlossen
+- TOP 43: Wahl eines Ersatzmitgliedes in den Kommunalen Wahlausschuss - einstimmig beschlossen
+- TOP 44: Umbesetzung des Umlegungsausschusses - einstimmig beschlossen
+- TOP 45: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 46: AR Grundstücksentwicklungsges. - Neuwahl - mehrheitlich beschlossen
+- TOP 47: AR IDR - mehrheitlich beschlossen
+- TOP 48: AR AWISTA - mehrheitlich beschlossen
+- TOP 49: Gesellschafterrat der IDR Public Management GmbH - mehrheitlich beschlossen
+- TOP 50: Bestellung JR-Mitglieder in Ausschüsse - einstimmig beschlossen
+- TOP 51: Wiederwahl von Schiedspersonen - einstimmig beschlossen
+- TOP 52: Neuwahl eines Schiedsmannes - einstimmig beschlossen
+- TOP 53: Aufhebung von Beschlüssen der Bv 5 - mehrheitlich beschlossen
+- TOP 54: Genehmigung 60er
+- TOP 55: Genehmigung 60er: Umwandlung GHS Rather Kreuzweg 21 - einstimmig beschlossen
+- TOP 56: Genehmigung 60er: MGS Lindenstraße 102 - einstimmig beschlossen
+- TOP 57: Genehmigung 60er: Umwandlung GHS zu Erweiterter Ganztagshauptschule - einstimmig beschlossen
+- TOP 58: Genehmigung 60er: Herrichtung der Fehmarnstraße 46 - einstimmig beschlossen
+- TOP 59: Planungsmaßnahmen
+- TOP 60: Erschließungssicherungsb. Max-Planck-Str. - einstimmig beschlossen
+- TOP 61: BPl 5973/014-An der Eselsfurt-§13,Satzung - mehrheitlich beschlossen
