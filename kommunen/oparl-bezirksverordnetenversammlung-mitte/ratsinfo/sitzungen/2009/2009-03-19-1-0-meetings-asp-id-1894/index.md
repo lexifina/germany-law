@@ -1,0 +1,112 @@
+# 24. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-03-19T17:30:00+01:00
+- Ende: 2009-03-19T20:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1894
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1894
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=69257
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Baumaßnahmen Rathaus Tiergarten / Umzug Gesundheitsamt - beantwortet
+- TOP 5.2: Jahresabschluss 2008 - beantwortet
+- TOP 5.3: Sozialmonitoring 2008 – der Norden Weddings in einer Abwärtsspirale? - beantwortet
+- TOP 5.4: Erika-Heß-Stiftung - schriftlich beantwortet
+- TOP 5.5: Hausaufgaben erledigt? - schriftlich beantwortet
+- TOP 5.6: Bürgerbeteiligung in den Untersuchungsgebieten von Mitte - schriftlich beantwortet
+- TOP 5.7: Berliner Innenstadt demnächst ohne TV-Empfang via Satellit? (Maßnahme gegen zwanghaftes Fernsehen?) - schriftlich beantwortet
+- TOP 5.8: Kontrolle des Heizpilzverbotes - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Pflegestützpunkte - beantwortet
+- TOP 6.2: Liegenschaftsfonds führt die Wiese auf`s Glatteis - beantwortet
+- TOP 6.3: Ist das Bezirksamt ohne „Kommunikationsstruktur“? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Information der BVV als Zufallsprodukt - beantwortet
+- TOP 7.2: Slalom auf Gehwegen - schriftlich beantwortet
+- TOP 7.3: Grundschulen in sozialen Brennpunkten - schriftlich beantwortet
+- TOP 7.4: Hilfe zur Pflege – Pflegebedürftige ohne Hilfe? - schriftlich beantwortet
+- TOP 7.5: Förderung türkischer Rechtsextremer durch das QM Reinickendorfer Straße/ Pankstraße - schriftlich beantwortet
+- TOP 7.6: Neues Jugendhaus Berlichingenstraße – hat das Bezirksamt die energetischen Vorgaben der BVV eingehalten? - schriftlich beantwortet
+- TOP 7.7: B(M)itte melde dich! - schriftlich beantwortet
+- TOP 7.8: JAM-Projekt – Jugendmodellprojekt ohne Wissen des JHA und der BVV? - schriftlich beantwortet
+- TOP 7.9: Mindestvoraussetzungen zur Umsetzung des Konjunkturpaktes II - schriftlich beantwortet
+- TOP 7.10: Vertiefte Berufsorientierung – Welche Konsequenzen hat das Bezirksamt aus der negativen Evaluation durch die Schüler und Schülerinnen und der Bundesagentur für Arbeit gezogen? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beschluss über den Bebauungsplanentwurf 1-17B und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-17B - überwiesen
+- TOP 9.2: Bebauungsplanentwurf II-180 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-180 - überwiesen
+- TOP 9.3: Vorhabenbezogener Bebauungsplanentwurf 1-41VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-41VE - überwiesen
+- TOP 9.4: Nachwahl von Mitgliedern im Ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Antifaschistische Mietklausel bei der Vergabe von Räumlichkeiten des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Umzugspläne des Collége Voltaire – Erhalt der Grips-Grundschule - überwiesen
+- TOP 11.3: Mauerseglerprojekt im Bezirk Mitte ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Nazis als Staatsbeamte verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Finanzierung der erforderlichen Beratungsangebote für die soziale und gesundheitliche Versorgung der Prostituierten im Kurfürstenkiez - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Schulmodellversuch „Produktionsschule“: Mitte ein Modellbezirk! - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Informationsveranstaltung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: "Jedem Kind ein Instrument“ - Klingt gut! - überwiesen
+- TOP 12.4: Kreuzung Fehrbelliner Straße/Ecke Veteranenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Massiver Ausbreitung von Spielhallen in den Einkaufsstraßen begegnen - überwiesen
+- TOP 12.6: Städtepartnerschaften sinnvoll umsetzen: Zweisprachige Lehrkräfte einsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Sicherer Überweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verpflichtende Früherkennungsuntersuchungen - überwiesen
+- TOP 12.9: Trotz Konjunkturpaket II keine Abstriche bei der Korruptionsprävention - überwiesen
+- TOP 12.10: Gedenktafel am künftigen Dienstsitz des Bundesnachrichtendienstes - überwiesen
+- TOP 12.11: Schulqualität muss sichtbar und messbar sein - ohne Änderungen in der BVV beschlossen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Straßenbahn in die Turmstrasse - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Beiratsbesetzung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Informationen über verdorbene Lebensmittel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Bürgerhaushalt Mitte Bestandteil der "neuen Kageler Konvention 2007" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Eingaben und Beschwerden online ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Personalentwicklung im Bezirk Mitte / Mindeststandards der Personal und Finanzausstattung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Qualifizierte und umfassende Betreuung sicherstellen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Öffentlicher Gesundheitsdienst in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Bürgerbeteiligung bei zukünftiger Investitionsplanung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Qualitätsentwicklung im JobCenter Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.10: Mobile Bürgerämter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Anzahl der Feuerwehrfahrzeuge nicht verringern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.12: Bezirkliche Beiräte umfassend öffentlich machen - zurückgezogen
+- TOP 15.13: Kuratorium für Heimdialyse im GSZM - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Kampagne zur Impfung von Mädchen gegen HPV - Humane Papillomaviren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Dicke Luft im JobCenter Mitte (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Interkulturelle Schulung - JobCenter I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Knappe Kassen in den Bezirken: Vermarktung von Großflächenwerbung jetzt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Öffentlicher Beschäftigungssektor (ÖBS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Prüfauftrag Hundeauslaufgebiet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Kontrolle des Jugendschutzes in Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.21: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.22: ÖBS Projekt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Kampf gegen Kinderarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Post(bank)-Filiale an der Müllerstr. 48 erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Berliner Stadtmission Lehrter/Seydlitzstraße: Entwicklung ermöglichen, Wohnnutzung sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.26: MB Fashion Week auf dem August-Bebel-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.27: Arbeitsfördernde Maßnahmen in Qualität und Umfang für 2009 sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.28: Fristgerechte Bezahlung gewerblicher Rechnungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.29: Aufstellung des vorhabenbezogenen Bebauungsplans 1-45 VE im Bezirk Mitte, Ortsteil Moabit, die Durchführung der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) und die Durchführung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.30: Aufhebung des BA-Beschlusses Nr. 558 vom 06.01.2009 (BA-Vorlage Nr. 599) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.31: Aufstellung des Bebauungsplans 1-60 für die Grundstücke Holzmarktstraße 66, 69, 73 und 75, sowie die angrenzenden Flurstücke 266, 395, 397, 399, 400 und 391 (teilweise), im Bezirk Mitte, Ortsteil Mitte, die Durchführung der Öffentlichkeitsbeteiligunggemäß § 3 Abs. 1 Baugesetzbuch, der frühzeitigen Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch sowie der Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.32: Einschränkung, Erweiterung und Teilung des Geltungsbereichs des Bebauungsplanentwurfs I-32 „Holzufer“ Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.33: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.34: Änderung der Kriterien zur Vergabe der Bezirksverdienstmedaille - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.35: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.36: Beschluss zum Bebauungsplanentwurf II-183 über das Ergebnis der Beteiligung der Behörde gem. § 4 Abs. 2 Baugesetzbuch (BauGB) und die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
