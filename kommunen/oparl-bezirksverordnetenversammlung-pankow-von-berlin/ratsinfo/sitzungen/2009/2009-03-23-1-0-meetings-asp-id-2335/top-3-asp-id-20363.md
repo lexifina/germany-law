@@ -1,0 +1,7 @@
+# TOP 3: Vorstellung Vorentwurf Stargarder Str. 51 (S.T.E.R.N.)
+
+- Sitzung: öffentliche Sitzung des Unterausschusses Spielplatzkommission des Kinder- und Jugendhilfeausschusses (2009-03-23)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=20363
+- Ergebnis: erledigt
