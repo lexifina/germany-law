@@ -1,0 +1,85 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-03-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620232
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620232
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Ersatzlose Aufhebung der Taxistände vor dem Gebäude Dachauer Str. 423
+- TOP 2.2.: Bushaltestelle bei Simrockstraße 39; Verkehrsbelastung in der Donauwörther Straße
+- TOP 2.3.: Verbesserungen beim Stadtbus 162
+- TOP 2.4.: Schaffung einer Anwohnerzone vor dem Haus Plauener Straße 11
+- TOP 2.5.: Einrichtung eines limitierten Tempo-30-Bereiches bzw. einer Gehwegbegrenzung vor dem Kindergarten Waldhornstraße 78
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Brunnenaktion
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Fahrbahnverengung Am Kapuzinerhölzl
+- TOP 3.2.: Verkehrsberuhigung Donauwörther Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Stellplätze Ehrenbreitsteiner Straße
+- TOP 4.2.: Bushaltestelle Pelkovenstraße / Ecke Feldmochinger Straße Richtung OEZ
+- TOP 4.3.: Erweiterung des Programms "Hundetütenspender"
+- TOP 4.4.: "Runder Tisch für städtische Einrichtungen" im Bereich Lauinger- / Dillinger Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Unterflurcontainer am Moosacher Bahnhof
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Benennung des südlichen Teilstücks der Melitta-Bentz-Straße im 10. Stadtbezirk Moosach Ambossstraße
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10, Elternbeirat Gymnasium Moosach: MFM-Projekt im März 2009
+- TOP 6: Anhörungen
+- TOP 6.1.: Änderung der BA-Satzung: Entscheidungsrecht für die Bezirksausschüsse bei der Aufstellung von Werbetafeln und Infosäulen
+- TOP 6.2.: Änderung der BA-Satzung: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Umlaufsperren
+- TOP 6.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Röthstr. 15
+- TOP 6.4.: Straßenfest des kath. Pfarramtes St. Martin am 12.07.2009 auf dem Chemnitzer Platz
+- TOP 6.5.: Radverkehr München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 6.6.: Boden- und Bauschutt-Recycling und Bodenbörsen; Gesamtkonzept für Standorte in München
+- TOP 6.7.: Zebrastreifen Berufsschule Riesstraße
+- TOP 6.8.: Zusammensetzung der BA-Satzungskommission
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sitzgelegenheit am Bouleplatz in der Grünanlage Merseburger Straße
+- TOP 7.2.: Pflege des Reigersbaches
+- TOP 7.3.: Überlassung einer geeigneten Parkfläche innerhalb des Geländes des Betriebshofes Schragenhofstraße für die Zeit der Sanierung der Tiefgaragen der Wohnanlage Am Kapuzinerhölzl 3-13
+- TOP 7.4.: Planungen für das Grundstück Ecke Hanauer Straße / Georg-Brauchle-Ring
+- TOP 7.5.: Verhinderung des Gehsteigparkens im Bereich der Siegmund-Schacky-Straße, Dresdner Straße und Hirschstraße; hier: Erhebung über den parkbedarf und die vorhandenen Stellplätze
+- TOP 7.6.: Rückantwort zur LZA-Bauprogrammanfrage 2009
+- TOP 7.7.: Errichtung von Minispielfeldern im Stadtgebiet, Kooperation mit dem Deutschen Fußball-Bund e.V.
+- TOP 7.8.: Auskunft über die Planungen zur Express-S-Bahn auf der S-1-Trasse
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke
+- TOP 8.3.: Austragung des Weltkindertages 2009
+- TOP 8.4.: Start des Parklizenzgebietes "Borstei" zum 18.05.2009
+- TOP 8.5.: Fällungsgenehmigung Holledauer Str. 27
+- TOP 8.6.: Entnennung eines Teilstückes der Melitta-Bentz-Straße
+- TOP 8.7.: Stadt-Umland-Bahn (Änderungsantrag)
+- TOP 8.8.: Verkehrsrechtliche Anordnung: Feuerwehrzufahrt Gneisenaustraße
+- TOP 8.9.: Erweiterung / Umbau / Instandsetzung der Grundschule Am Amphionpark 12, Neubau der Kindertagesstätte Nanga-Parbat-Straße 105
+- TOP 8.10.: Meldung ehrenamtlicher Wahlhelfer/innen für die Europawahl und Bundestagswahl
+- TOP 8.11.: 2. S-Bahn-Stammstrecke München ( Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 28.01.2009)
+- TOP 8.12.: Verbesserung der Schienbenanbindung des Flughafens München
+- TOP 8.13.: Vorbescheid Weidmannstraße 24 (Baumfällungen)
+- TOP 8.14.: Protokoll zur Informationsveranstaltung des Sozialreferates am 03.12.2008 für die Bezirksausschüsse
+- TOP 8.15.: Sitzungen der Arbeitsgruppe Wohnungslosigkeit
+- TOP 8.16.: Sammelhinweisanlage im südlichen Kreuzungsbereich Lerchenauer Straße / Moosacher Straße
+- TOP 8.17.: Radwegebenutzungspflicht (Schreiben des ADFC)
+- TOP 8.18.: Kinderbetreuungsplätze in der Landeshauptstadt
+- TOP 8.19.: Zweckentfremdung durch Abbruch: Weidmannstraße
+- TOP 8.20.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.21.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt MÜnchen (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.24.: Zuschüsse an freie Träger
+- TOP 8.25.: Schulbushaltestelle
+- TOP 8.23.: nicht-öffentlich
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
