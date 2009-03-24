@@ -1,0 +1,52 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-03-24T16:06:00+01:00
+- Ende: 2009-03-24T17:20:00+01:00
+- Ort: Rathaus Barmen, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6763
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6763
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 13.03.2009 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00104408.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00105883.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2007 des GMW - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2007/2008 - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 2.1: Jahresabschluss 2007: Entlastung des Betriebsausschusses des GMW - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan GMW 2009 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan 2009 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten - ungeändert beschlossen
+- TOP 4.1: Erteilung einer Handlungsvollmacht - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Cross-Border-Lease Kanalnetz - Vorzeitige Beendigung der Kanalnetz-Transaktion - ungeändert beschlossen
+- TOP 5.2: Bestellung eines Akkreditivs bei der KfW / NRW.Bank im Zusammenhang mit der Cross-Border-Lease-Transaktion der AWG Wuppertal - Entgegennahme ohne Beschluss
+- TOP 5.3: Fortführung von Projekten der Regionale 2006 durch die Bergische Entwicklungsagentur GmbH - Entgegennahme ohne Beschluss
+- TOP 5.4: Änderung des Gesellschaftsvertrages der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 5.5: Änderung des Gesellschaftsvertrages der WSW mobil GmbH - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Stand der Schulden und Kassenkredite zum 31.01.2009 - Entgegennahme ohne Beschluss
+- TOP 12.2: Abschließender Bericht zur Umsetzung des Haushaltssicherungskonzeptes 2006/2007 - Entgegennahme ohne Beschluss
+- TOP 13: Verkäufe und Baumaßnahmen
+- TOP 13.1: Kulturachse Barmen "Neugestaltung des Bahnhofsvorplatzes" - Durchführungsbeschluss - Entgegennahme ohne Beschluss
+- TOP 13.2: Lösung der Raumprobleme der Kfz-Zulassungsstelle - Entgegennahme ohne Beschluss
+- TOP 13.3: Finanzierung des Neubaus der Station Natur und Umwelt - Genehmigung überplanmäßiger Aufwendungen - ungeändert beschlossen
+- TOP 13.4: Verkauf von städtischen Grundstücken im Bereich der Hindenburgstraße (Fluchtlinienplan Nr. 795) - ungeändert beschlossen
+- TOP 13.5: Umbaubeschluss zur Umnutzung der Nordbahntrasse (Jackstädtweg) / Rheinischen Strecke zu einem Geh-, Rad- und Inlinerweg im Bereich zwischen Dorp und Kohlenstraße - ungeändert beschlossen
+- TOP 14: Dienstanweisungen und Satzungen
+- TOP 14.1: Verwaltungsgebührensatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14.2: Dritte Satzung zur Änderung der Satzung für die Hedwig-Wülfing-Stiftung - ungeändert beschlossen
+- TOP 15: Allgemeine Vorlagen
+- TOP 15.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2008 und 2009 - ungeändert beschlossen
+- TOP 15.2: Umsetzung von Maßnahmen im Rahmen des Konjunkturprogramms - ungeändert beschlossen
+- TOP 15.3: Zustimmung der vom Landschaftsverband beschieden gesondert berechnungsfähigen betriebsnotwendigen Investitionsaufwendungen für die Zeit vom 01.01.2009 bis 31.12.2010 - Entgegennahme ohne Beschluss
+- TOP 16: Berichte und Mitteilungen
