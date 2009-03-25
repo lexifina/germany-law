@@ -1,0 +1,78 @@
+# 37. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-03-25T17:32:00+01:00
+- Ende: 2009-03-25T21:00:00+01:00
+- Ort: Festsaal des Rathauses, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6767
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6767
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00278285.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Schaffung von Parkraum nach Umbau des Studentenwohnheims Bismarckallee
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Geschwindigkeitsbegrenzung auf dem Angelmodder Weg - verwiesen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Haushalt 2009, Ergebnis- und Finanzplanung bis 2012 und lokales
+- TOP -: Reden der Fraktionsvorsitzenden
+- TOP 8.1: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2009 - mehrheitlich geändert beschlossen
+- TOP 8.2: Lokales Konjunkturstützungsprogramm für Münster - mehrheitlich beschlossen
+- TOP 8.2.1: Lokales Konjunkturstützungsprogramm für Münster
+- TOP 8.3: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel des Bundes in der Stadt Münster und Genehmigung von Dringlichkeitsentscheidungen - mehrheitlich geändert beschlossen
+- TOP 8.3.1: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel des Bundes in der Stadt Münster und Genehmigung von Dringlichkeitsentscheidungen
+- TOP 8.3.2: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel des Bundes in der Stadt Münster
+- TOP 8.4: Umsetzung des Zukunftsinvestitionsgesetzes, Änderung der Zuständigkeitsordnung und Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 8.4.1: Umsetzung des Zukunftsinvestitionsgesetzes, Änderung der Zuständigkeitsordnung und Satzung zur Änderung der Hauptsatzung
+- TOP 8.5: Erneuerung der Beleuchtung im Stadtmuseum - einstimmig beschlossen
+- TOP 8.5.1: Erneuerung der Beleuchtung im Stadtmuseum
+- TOP 8.6: Chemisches und Veterinäruntersuchungsamt in gemeinsamer Trägerschaft - einstimmig beschlossen
+- TOP 8.7: Erweiterung Feuerwache 1 / Neubau Leitstelle und Rechenzentrum citeq - einstimmig beschlossen
+- TOP 8.8: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich beschlossen
+- TOP 8.9: Kommunale Förderung der Erziehungsberatungsstellen - einstimmig beschlossen
+- TOP 8.10: Luftreinhalteplan Münster - Stellungnahme - einstimmig beschlossen
+- TOP -: Sonstige Entscheidungen des Rates
+- TOP 9: Besetzung der Einigungsstelle nach LPVG - einstimmig beschlossen
+- TOP 10: 1. Änderung der Satzung über die Wochenmärkte in der Stadt Münster - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Hiltrup und im Stadtbezirk Münster-Nord - mehrheitlich beschlossen
+- TOP 11.1: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Hiltrup und im Stadtbezirk Münster-Nord
+- TOP 12: I. Abschluss des NKF-Projektes I: Einführung des Neuen Kommunalen Finanzmanagements für den Kernhaushalt - einstimmig beschlossen
+- TOP 13: Aussetzung der Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2009 - einstimmig beschlossen
+- TOP 14: Wirtschaftsplan 2009/2010 der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 15: Die Neuregelungen durch das Kinderförderungsgesetz (Kifög) - Finanzielle Auswirkungen auf den Bereich der Kindertagespflege - einstimmig beschlossen
+- TOP 15.1: Fahrdienst für Menschen mit Behinderungen in Münster: Senkung der Eigenbeteiligung - einstimmig beschlossen
+- TOP 15.1.1: Fahrdienst für Menschen mit Behinderungen in Münster: Senkung der Eigenbeteiligung
+- TOP 16: Stiftung Bürgerwaisenhaus: Aktiv für junge Menschen - Förderpreis der Stiftung (Antrag der Ratsfraktionen von CDU und FDP vom 31.05.2008) - einstimmig beschlossen
+- TOP 17: Stiftung Siverdes, Fortführung des Projektes "Privjet" - einstimmig beschlossen
+- TOP 18: Kinder- und Jugendpsychiatrische Versorgung in Münster - einstimmig beschlossen
+- TOP 19: Neuausrichtung des Projektes "Wohnen für Hilfe" - einstimmig beschlossen
+- TOP 19.1: Neuausrichtung des Projektes "Wohnen für Hilfe"
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Münster-Hiltrup
+- TOP 20.1.1: Bebauungsplan Nr. 137 Teilabschnitt I, 3. Änderung - einstimmig beschlossen
+- TOP 20.1.2: Bebauungsplan Nr. 137 Teilabschnitt IV, 1. Änderung - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk Münster-Südost
+- TOP 20.2.1: Bebauungsplan Nr. 182, 2. Änderung - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Münster-Ost
+- TOP 20.3.1: Vorhabenbezogener Bebauungsplan Nr. 506: - mehrheitlich beschlossen
+- TOP 20.3.2: Vorhabenbezogener Bebauungsplan Nr. 500 - Beschluss über Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 21: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 21.1: Kinderhauser Schleife - Wohnverhältnisse verbessern und soziales Umfeld stärken - einstimmig beschlossen
+- TOP 21.2: Wohnortnahe Schulbesuche wieder ermöglichen - einstimmig beschlossen
+- TOP 21.3: Resolution Gemeinsamer Wahltermin für die allgemeinen Kommunalwahlen und die Bundestagswahl 2009 - mehrheitlich abgelehnt
+- TOP 22: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 22.1: UN-Konvention umsetzen - Schulen, Kinder- und Jugendeinrichtungen barrierefrei gestalten - verwiesen
+- TOP 22.2: Planung für III. Nordtangente einstellen - verwiesen
+- TOP 22.3: Handlungskonzept Nordwestschleife - verwiesen
+- TOP 22.4: Die Bürgerschaft an der Entwicklung des Hafens beteiligen - verwiesen
+- TOP 22.5: Flexible und kooperative Gestaltungsmöglichkeiten - verwiesen
+- TOP 23: Verschiedenes
