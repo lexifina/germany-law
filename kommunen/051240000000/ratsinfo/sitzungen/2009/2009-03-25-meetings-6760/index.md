@@ -1,0 +1,107 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-03-25T16:03:00+01:00
+- Ende: 2009-03-25T16:17:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6760
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/6760
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00104770.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00105828.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Umsetzung von Maßnahmen im Rahmen des Konjunkturprogramms - vertagt auf Rat
+- TOP 1.1.1: Ergänzungsantrag zu VO/0220/09 - vertagt auf Rat
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Cross Border Leasing-Verträge des Wupperverbandes
+- TOP 2.1.1: Antwort auf die Anfrage der Ratsfraktion DIE LINKE. (VO/0025/09) vom 07.01.09: Cross Border Leasing-Verträge des Wupperverbandes
+- TOP 2.2: Anfrage Bauleitplanverfahren Nr. 622 B - Friedrich-Engels-Allee/Ost-4. Änderung des Bebauungsplanes, VO/0003/05
+- TOP 2.2.1: Bauleitplanverfahren Nr. 622 B - Friedrich-Engels-Allee/Ost - 4. Änderung des Bebauungsplanes, VO/0003/05
+- TOP 2.3: Investitionshilfen für die Stadt Wuppertal aus dem Zukunftsinvestitionsgesetz
+- TOP 2.3.1: Investitionshilfen für die Stadt Wuppertal aus dem Zukunftsinvestitionsgesetz; Anfrage der Fraktion Bündnis 90/DIE GRÜNEN vom 04.03.09, VO/0230/09
+- TOP 2.4: Schwebebahnfinanzierung
+- TOP 2.4.1: Schwebebahnfinanzierung
+- TOP 2.5: Steuereinbußen durch Konjunkturpaket II
+- TOP 2.5.1: Steuereinbußen durch Konjunkturpaket II; Anfrage der Ratsgruppe DIE LINKE vom 13.03.09, VO/0251/09
+- TOP 2.6: Anspruch auf das AIG-Depot nach Rücktritt des CBL-Investors Wachovia
+- TOP 2.7: Radonkonzentration in der Raumluft in städtischen Gebäuden
+- TOP 2.8: Umbau der Stehtribünen des Stadion am Zoo mit Beschäftigten in Arbeitsgelegenheiten
+- TOP 2.9: Einführung von Arbeitsgelegenheiten mit Mehraufwandsentschädigung von 2,50 EUR pro Std. als Ersatz von Arbeitsgelegenheiten in der Entgeltvariante durch die ARGE Wuppertal
+- TOP 2.10: Sicherheiten für das AIG-Depot im Zusammenhang mit der CBL-Transaktion der AWG Wuppertal
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Sicherung des bestehenden Siedlungscharakters der Kleinsiedlung - Konradswüste - - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Hinweisschilder zum Skulpturenpark Tony Cragg
+- TOP 4.1.1: Hinweisschilder zum Skulpturenpark Tony Cragg - Entgegennahme ohne Beschluss
+- TOP 4.2: Zukunft der Ohligsmühle - abgelehnt
+- TOP 4.3: Resolution "Leben für unsere Stadtteile" - ungeändert beschlossen
+- TOP 4.4: Integration von Kindern mit erhöhtem Förderbedarf - abgelehnt
+- TOP 4.5: Antrag: "Unternehmensfreundliche Verwaltung" - vertagen
+- TOP 4.6: IKEA - Investitionen in den Standort Wuppertal - vertagt auf Rat
+- TOP 4.6.1: IKEA - Ansiedlung in Wuppertal - vertagt auf Rat
+- TOP 4.7: Termin für die Kommunalwahl - vertagt auf Rat
+- TOP 4.8: Haushaltssicherungskonzept - vertagt auf Rat
+- TOP 4.9: "Ein-Euro-Jobs" - in der Sache erledigt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Neufassung der Satzung der Stadt Wuppertal über die Benutzung der städtischen Sportanlagen - ungeändert beschlossen
+- TOP 6.2: Dritte Satzung zur Änderung der Satzung für die Hedwig-Wülfing-Stiftung - ungeändert beschlossen
+- TOP 6.3: Dritte Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der Offenen Ganztagsschule im Primarbereich der Stadt Wuppertal ( Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.4: Satzung zur Erhebung von Elternbeiträgen für die Betreuung von Kindern in Kindertageseinrichtungen und in Kindertagespflege (Elternbeitragssatzung - ES) - ungeändert beschlossen
+- TOP 6.5: Satzung über die Abweichung von den Merkmalen der endgültigen Herstellung des Verbindungswegs zwischen der Kurfürstenstraße und der Elias-Eller-Straße - ungeändert beschlossen
+- TOP 6.6: Verwaltungsgebührensatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.7: Benutzungsordnung und Entgeltordnung des Stadtarchivs - ungeändert beschlossen
+- TOP 6.8: Entgeltordnung des Von der Heydt-Museums
+- TOP 6.10: Telefon-Sprechstellen im öffentlichen Straßenraum - ungeändert beschlossen
+- TOP 6.11: 15. Änderungssatzung zur Gebührensatzung in städtischen Übergangseinrichtungen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2008 und 2009 - ungeändert beschlossen
+- TOP 7.2: Finanzierung des Neubaus der Station Natur und Umwelt - Genehmigung überplanmäßiger Aufwendungen - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2009 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan GMW 2009 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2007 des GMW - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2007: Entlastung des Betriebsausschusses des GMW - ungeändert beschlossen
+- TOP 8.5: Bestellung eines Akkreditivs bei der KfW und der NRW.Bank im Zusammenhang mit der Cross-Border-Lease-Transaktion der AWG Wuppertal - Entgegennahme ohne Beschluss
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 718A - Stadthalle - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1111 - Moritzstr. / Friedrich-Ebert-Straße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1125 - Tannenbergstraße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 724/1 - Windfoche / Steinhauser Straße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplanverfahren Nr. 296 - Am Timpen - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1110 - Samoastraße - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan Nr. 1129 - Am Haken / Mirker Bach - - ungeändert beschlossen
+- TOP 9.8: Bebauungsplan Nr. 1068 - Bayreuther Straße / Briller Straße - - ungeändert beschlossen
+- TOP 9.9: Bebauungsplan Nr. 1131 - nördlich Widukindstraße - - ungeändert beschlossen
+- TOP 9.10: Bebauungsplanverfahren Nr. 1081 - Mittelstandspark VohRang - ungeändert beschlossen
+- TOP 9.11: Flächennutzungsplan-Änderungsverfahren Nr. 17 - Mittelstandspark VohRang - - ungeändert beschlossen
+- TOP 9.12: Bebauungsplan Nr. 1087 - Waldschloßbrauerei - - ungeändert beschlossen
+- TOP 9.13: Bebauungsplan Nr. 387 - Stockmannsmühle/ Nützenberger Straße - - ungeändert beschlossen
+- TOP 9.14: Bebauungsplan Nr. 1116 V - Eich - - ungeändert beschlossen
+- TOP 9.15: Stadtteilentwicklung Langerfeld - westlich Spitzenstraße - - geändert beschlossen
+- TOP 9.16: Fluchtlinienplan Nr. 795 (- Umgebung Hindenburgstraße -) - ungeändert beschlossen
+- TOP 9.17: Aufhebung der Fluchtlinienpläne Nr. 210 und 226 - ungeändert beschlossen
+- TOP 9.18: Flächennutzungsplanänderung Nr. 11 - Georg-Arends-Weg - - ungeändert beschlossen
+- TOP 9.19: Sanierungssatzung Stadtumbau West/Soziale Stadt - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Beschluss zur Umnutzung der Nordbahntrasse (Jackstädtweg) / Rheinischen Strecke zu einem Geh-, Rad- und Inlinerweg im Bereich zwischen Dorp und Kohlenstraße - ungeändert beschlossen
+- TOP 11.2: Zustimmung der vom Landschaftsverband beschieden gesondert berechnungsfähigen betriebsnotwendigen Investitionsaufwendungen für die Zeit vom 01.01.2009 bis 31.12.2010 - Entgegennahme ohne Beschluss
+- TOP 11.3: Auslaufende Auflösung der kath. Franziskusschule, Engelbert-Wüster-Weg 29, 42369 Wuppertal - ungeändert beschlossen
+- TOP 11.4: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen - ungeändert beschlossen
+- TOP 11.5: Errichtung einer Ganztagsschule - Realschule Hohenstein - ungeändert beschlossen
+- TOP 11.6: Beschleunigung von Investitionen durch Vereinfachungen im Vergaberecht - vertagt auf Rat
+- TOP 11.7: Weiterführung der integrativen Lerngruppe - zieldifferent - in der Sekundarstufe I - ungeändert beschlossen
+- TOP 11.8: Kindertagespflege - Neufassung der Richtlinien über die Genehmigung von Tagespflege und über die Festsetzung der Höhe der Geldleistung für Tagespflegepersonen nach § 23 Abs. 2 SGB VIII - ungeändert beschlossen
+- TOP 11.9: Leistungen des Service Centers für die Stadt Remscheid - hier: Öffentlich-rechtliche Vereinbarung
+- TOP 11.10: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung
+- TOP 11.11: Aufstellung der Vorschlagsliste zur Wahl der ehrenamtlichen Richterinnen und Richter beim Oberverwaltungsgericht NRW (OVG NRW)
+- TOP 11.12: Soziale Stadt Ostersbaum - Abschlussphase - ungeändert beschlossen
+- TOP 11.13: Cross-Border-Lease Kanalnetz - Vorzeitige Beendigung der Kanalnetz-Transaktion - Dringlichkeitsentscheidung genehmigt
+- TOP 11.14: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Entgegennahme ohne Beschluss
+- TOP 12: Gremienbesetzung / Benennung
