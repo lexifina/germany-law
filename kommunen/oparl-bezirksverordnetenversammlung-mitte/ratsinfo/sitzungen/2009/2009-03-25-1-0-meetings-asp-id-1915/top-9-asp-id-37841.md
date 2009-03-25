@@ -1,0 +1,7 @@
+# TOP 9: Beratung und Beschlussfassung von Drucksachen und Bezirksamtsvorlagen
+
+- Sitzung: 30. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne (2009-03-25)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=37841
+- Ergebnis: (offen)
