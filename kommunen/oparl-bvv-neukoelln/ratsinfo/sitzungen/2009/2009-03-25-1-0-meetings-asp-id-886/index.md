@@ -1,0 +1,77 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-03-25T17:12:00+01:00
+- Ende: 2009-03-25T20:35:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=886
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=886
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Naturschutz und Grünflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Postfiliale Prierosser Straße - beantwortet
+- TOP 9.2: "Rufmord" korrigiert? - beantwortet
+- TOP 9.3: Planungsunterlagen A 100 - beantwortet
+- TOP 9.4: Terroristische Aktivitäten in Neukölln? - beantwortet
+- TOP 9.5: Auswirkungen der Finanzkrise - beantwortet
+- TOP 9.6: Wohngeldnovelle - beantwortet
+- TOP 9.7: Kindl-Gelände - und nun? - beantwortet
+- TOP 9.8: Negativliste für Schmuddelrestaurants - beantwortet
+- TOP 9.9: Hygiene in Neuköllns Kitas - beantwortet
+- TOP 9.10: Werden Neuköllner Kinder richtig geimpft? - beantwortet
+- TOP 9.11: Ausgleichsmaßnahmen A 100 - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Neuköllner Schulkonzept vorlegen - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Öffentlicher Beschäftigungssektor (ÖBS) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Anpassung der Ausführungsvorschriften an Verwaltungsgegebenheiten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Europäische Strukturfonds in Neukölln - beantwortet
+- TOP 12.2: Kitas in Neukölln - Kommt es auch hier zu Brandbriefen? - beantwortet
+- TOP 12.3: Berufsorientierung an Neuköllner Schulen - beantwortet
+- TOP 12.4: Neue Integrationskurse für Nichtleistungsempfänger - schriftlich beantwortet
+- TOP 12.5: Kita-Eigenbetrieb SüdOst - beantwortet
+- TOP 12.6: Moschee in der Reuterstraße - beantwortet
+- TOP 13: Große Anfragen - schriftlich - beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Negativliste für Schmuddelrestaurants - überwiesen
+- TOP 14.2: Ordnungsämter stärken! - überwiesen
+- TOP 14.3: Anonyme Geburt bei Vivantes-Neukölln ermöglichen - überwiesen
+- TOP 14.4: Bessere Leistung für Lehrer! - überwiesen
+- TOP 14.5: Lichtverschmutzung - überwiesen
+- TOP 14.6: Mehr Grün für Neuköllns Straßen - überwiesen
+- TOP 14.7: Mehr Sicherheit vor dem Postamt Britz-Süd - überwiesen
+- TOP 14.8: Kita-Eigenbetrieb SüdOst - überwiesen
+- TOP 14.9: Sozialräumliche Planungskoordination - vertagt
+- TOP 14.10: Besserer Kundenservice im JobCenter Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Öko-Investitionsprogramm für Berlins Bezirke - überwiesen
+- TOP 14.12: Telefonnummer des JobCenters - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Mehrwertsteuersatz für Schulessen - überwiesen
+- TOP 14.14: Postsicherung im JobCenter Neukölln - in der BVV zurückgezogen
+- TOP 14.15: Biotop Holz in Neuköllns Parkanlagen - überwiesen
+- TOP 14.16: BerlinPass mit Neuköllner Angeboten erweitern - überwiesen
+- TOP 14.17: Fahrradabstellmöglichkeiten am U-Bahnhof Boddinstraße - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Fahrradleichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Konjunkturprogramm für Neukölln nutzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Unterstützung der Kampagne für ein kommunales Wahlrecht für Migrantinnen und Migranten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: 100 Jahre Rathaus Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Diebstahl eines Tonbandmitschnitts der außerordentlichen Sitzung des Ausschusses für Bürgerdienste und Gesundheit vom 22. April 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Einrichtung eines Untersuchungsausschusses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Informationspflicht einfordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Ausstellung - mit Abschlussbericht zur Kenntnis genommen
