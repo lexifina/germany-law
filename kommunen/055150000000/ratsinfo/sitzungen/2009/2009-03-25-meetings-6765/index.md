@@ -1,0 +1,65 @@
+# 35. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-03-25T17:07:00+01:00
+- Ende: 2009-03-25T20:59:00+01:00
+- Ort: Festsaal des Rathauses, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6765
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6765
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00277833.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Jahresrechnung des Bühnenbewirtschaftungsplanes 2007/2008 - zur Kenntnis genommen
+- TOP 3: Verlegung einer Gedenktafel zur Erinnerung an die Bücherverbrennung der Nationalsozialis-ten 1933 in Münster - einstimmig beschlossen
+- TOP 3.1: Verlegung einer Gedenktafel zur Erinnerung an die Bücherverbrennung der Nationalsozialis-ten 1933 in Münster
+- TOP 4: Stiftung Magdalenenhospital: Evaluationsergebnisse des Projektes "Von Mensch zu Mensch" - zur Kenntnis genommen
+- TOP 5: Stiftung Bürgerwaisenhaus: Verantwortung lernen - Ehrenamtliches Engagement an Schulen - Abschlussbericht - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Haushaltplan 2009 sowie Ergebnis- und Finanzplanung bis 2012
+- TOP 6.1: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2009 - ohne Beschlussfassung geschoben
+- TOP 6.2: Lokales Konjunkturstützungsprogramm für Münster - ohne Beschlussfassung geschoben
+- TOP 6.2.1: Lokales Konjunkturstützungsprogramm für Münster
+- TOP 6.3: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel des Bundes in der Stadt Münster und Genehmigung von Dringlichkeitsentscheidungen - ohne Beschlussfassung geschoben
+- TOP 6.3.1: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel des Bundes in der Stadt Münster und Genehmigung von Dringlichkeitsentscheidungen
+- TOP 6.3.2: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel des Bundes in der Stadt Münster
+- TOP 6.4: Umsetzung des Zukunftsinvestitionsgesetzes, Änderung der Zuständigkeitsordnung und Satzung zur Änderung der Hauptsatzung - einstimmig beschlossen
+- TOP 6.4.1: Umsetzung des Zukunftsinvestitionsgesetzes, Änderung der Zuständigkeitsordnung und Satzung zur Änderung der Hauptsatzung
+- TOP 6.5: Erneuerung der Beleuchtung im Stadtmuseum - einstimmig beschlossen
+- TOP 6.5.1: Erneuerung der Beleuchtung im Stadtmuseum
+- TOP 6.6: Chemisches und Veterinäruntersuchungsamt in gemeinsamer Trägerschaft - einstimmig beschlossen
+- TOP 6.7: Erweiterung Feuerwache 1 / Neubau Leitstelle und Rechenzentrum citeq - einstimmig beschlossen
+- TOP 6.8: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich beschlossen
+- TOP 6.9: Kommunale Förderung der Erziehungsberatungsstellen - einstimmig beschlossen
+- TOP 6.10: Luftreinhalteplan Münster - Stellungnahme - einstimmig beschlossen
+- TOP -: Sonstige Vorlagen zur Vorberatung von Ratsentscheidungen
+- TOP 7: Besetzung der Einigungsstelle nach LPVG - einstimmig beschlossen
+- TOP 8: 1. Änderung der Satzung über die Wochenmärkte in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 9: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Hiltrup und im Stadtbezirk Münster-Nord - ohne Beschlussfassung geschoben
+- TOP 9.1: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, im Stadtbezirk Münster-Hiltrup und im Stadtbezirk Münster-Nord
+- TOP 10: I. Abschluss des NKF-Projektes I: Einführung des Neuen Kommunalen Finanzmanagements für den Kernhaushalt - einstimmig beschlossen
+- TOP 11: Aussetzung der Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2009 - einstimmig beschlossen
+- TOP 12: Wirtschaftsplan 2009/2010 der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 13: Die Neuregelungen durch das Kinderförderungsgesetz (Kifög) - Finanzielle Auswirkungen auf den Bereich der Kindertagespflege - einstimmig beschlossen
+- TOP 14: Fahrdienst für Menschen mit Behinderungen in Münster: Senkung der Eigenbeteiligung - ohne Beschlussfassung geschoben
+- TOP 14.1: Fahrdienst für Menschen mit Behinderungen in Münster: Senkung der Eigenbeteiligung
+- TOP 15: Stiftung Bürgerwaisenhaus: Aktiv für junge Menschen - Förderpreis der Stiftung (Antrag der Ratsfraktionen von CDU und FDP vom 31.05.2008) - einstimmig beschlossen
+- TOP 16: Stiftung Siverdes, Fortführung des Projektes "Privjet" - einstimmig beschlossen
+- TOP 17: Kinder- und Jugendpsychiatrische Versorgung in Münster - einstimmig beschlossen
+- TOP 18: Neuausrichtung des Projektes "Wohnen für Hilfe" - mehrheitlich beschlossen
+- TOP 18.1: Neuausrichtung des Projektes "Wohnen für Hilfe"
+- TOP 19: Bauleitplanung
+- TOP 19.1: Stadtbezirk Hiltrup
+- TOP 19.1.1: Bebauungsplan Nr. 137 Teilabschnitt I, 3. Änderung - einstimmig beschlossen
+- TOP 19.1.2: Bebauungsplan Nr. 137 Teilabschnitt IV, 1. Änderung - einstimmig beschlossen
+- TOP 19.2: Stadtbezirk Südost
+- TOP 19.2.1: Bebauungsplan Nr. 182, 2. Änderung - einstimmig beschlossen
+- TOP 19.3: Stadtbezirk Ost
+- TOP 19.3.1: Vorhabenbezogener Bebauungsplan Nr. 506: - mehrheitlich beschlossen
+- TOP 19.3.2: Vorhabenbezogener Bebauungsplan Nr. 500 - Beschluss über Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20: Verschiedenes
