@@ -1,0 +1,60 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2009-03-25T17:00:00+01:00
+- Ende: 2009-03-25T20:40:00+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1879
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1879
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Einführung und Verpflichtung eines Ratsmitgliedes - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 18.02.2009
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 5: Haushaltssatzung 2009 - ungeändert beschlossen
+- TOP 6: Stellenplan 2009 - ungeändert beschlossen
+- TOP 7: Resolutionen
+- TOP 7.1: Resolution zur Werksschließung der Firma Gates - ungeändert beschlossen
+- TOP 7.2: Resolution: Bleiberecht für langjährig hier lebende geduldete Menschen
+- TOP 8: Änderung der Rechnungsprüfungsordnung und der Dienstanweisung für den Fachbereich Rechnungsprüfung - ungeändert beschlossen
+- TOP 8.1: Änderung der Rechnungsprüfungsordnung und der Dienstanweisung für den Fachbereich Rechnungsprüfung - ungeändert beschlossen
+- TOP 9: Öffentlich-rechtliche Vereinbarung über die Wahrnehmung von Aufgaben nach dem RettG NRW - ungeändert beschlossen
+- TOP 10: Beschleunigung von Investitionen durch Vereinfachung des Vergaberechteshier: befristete Anpassung der Fraktionsinfos nach § 3 Buchstabe b) und c) der Zuständigkeitsordnung - zurückgezogen
+- TOP 11: Internationale englischsprachige Kindertageseinrichtung - ungeändert beschlossen
+- TOP 12: Konjunkturpaket I - Förderprogramm Weltkulturerbe - ungeändert beschlossen
+- TOP 13: 8. Nachtrag zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung) der Stadt Aachen - ungeändert beschlossen
+- TOP 14: Satzung über die förmliche Festsetzung des Sanierungsgebietes Frankenberger Viertel - ungeändert beschlossen
+- TOP 15: Vorhabenbezogener Bebauungsplan Nr. 857 - Aachen Arkaden -- II. (vereinfachte) Änderung- 93. Änderung Flächennutzungsplan 1980 (vereinfachte Änderung)hier: - Bericht über das Ergebnis der Beteiligung der Behörden- Satzungsbeschluss- Änderungsbeschluss - ungeändert beschlossen
+- TOP 16: Bebauungsplan Nr. 893 - Eupener Straße / Am Chorusberg / Diepenbenden - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Eupener Straße, Zweiweiherweg, Diepenbenden, Hangstraße, Am Chorusberg und Luxemburger Ring hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - zurückgezogen
+- TOP 17: Bebauungsplan Nr. 894 S - Lütticher Straße / Hasselholzer Weg, (Teil Süd) - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Hasselholzer Weg, Adamshäuschen Preusweg und Lutherweghier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - zurückgezogen
+- TOP 18: Bebauungsplan Nr. 902 - Niederforstbach / Innerer Bahnbogen - für den Planbereich im Stadtbezirk Aachen-Brand im Bereich zwischen Münsterstraße und Vennbahnbogenhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 19: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 19.1: Vorschlag zur Wahl des Vorsitzenden und stellv. Vorsitzenden des aachen tourist service e.V. - ungeändert beschlossen
+- TOP 19.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19.3: Nachfolge von Ratsfrau Rennert - ungeändert beschlossen
+- TOP 19.4: Mandate von Ratsfrau Christiane Rennert - ungeändert beschlossen
+- TOP 20: Anfragen
+- TOP 21: Mitteilungen der Verwaltung und Ratsanträge
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
