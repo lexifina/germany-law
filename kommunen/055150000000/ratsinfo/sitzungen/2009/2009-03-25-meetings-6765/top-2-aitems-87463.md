@@ -1,0 +1,8 @@
+# TOP 2: Jahresrechnung des Bühnenbewirtschaftungsplanes 2007/2008
+
+- Sitzung: 35. Sitzung (Etat) (2009-03-25)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/87463
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/41332
