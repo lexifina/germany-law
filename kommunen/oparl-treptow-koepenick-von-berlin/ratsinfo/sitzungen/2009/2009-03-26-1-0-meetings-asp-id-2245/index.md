@@ -1,0 +1,73 @@
+# 28. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-03-26T16:30:00+01:00
+- Ende: 2009-03-26T22:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2245
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2245
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=72621
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl einer Bürgerdeputierten für den Ausschuss für Bildung und Bürgerdienste - gewählt
+- TOP 8.4: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Bildung und Bürgerdienste - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Die Halbzeit einer Legislaturperiode gestattet Rückblick und Ausblick - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Hygiene in Restaurants und Gaststätten Treptow-Köpenicks - beantwortet
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Verordnung über die erste Verlängerung der Veränderungssperre 9-12/15 für das Grundstück Schnellerstraße 79 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Sondermittel für Behindertenverein Köpenick e. V. (SM 908) - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sondermittel für Partner Treptow-Köpenick e. V. (SM 910) - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sondermittel für Berliner Segler-Verband e. V. (SM 913) - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Sondermittel für Lange Tafel e. V. (SM 914) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13.1: Zukunft des Treptower Parks - Maßnahmenkonzept - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Treptow-Köpenick nicht von der Stadtbahn abschneiden - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Zukunft des Treptower Parks – Sportliche Nutzung - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Verkehrsforum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.5: Querungsmöglichkeit in der Lindenstraße / Wuhleweg schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Lärmmessungen in Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Messstellen an Badestellen "Teppich" und "Kamerun" - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Ortshinweistafeln für Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Arbeitsanweisung des Bezirksamtes Treptow-Köpenick von Berlin zum Umgang der Bezirksverwaltung mit Zuwendungen Privater - AZP - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Nahversorgungszentrum für die Köllnische Vorstadt - mit Änderungen in der BVV beschlossen
+- TOP 13.11: Bürgertreff Spindlersfeld/Köllnische Vorstadt - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Berufung eines beratenden Arbeitskreises zur Entwicklung und Umsetzung eines kommunalen Gesundheitszieles - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.13: Fachmarktagglomeration dem B-Plangebiet XV-65 anpassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.14: Restaurierung Rathaus Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 13.15: Sinnvolle Auswahl von Obstgehölzen bei Nachpflanzungen auf KGA-Grundstücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Unterzeichnung der "Erklärung für Vielfalt, Toleranz und Demokratie" im Rahmen der bundesweiten Initiative "Orte der Vielfalt" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Benennung der Straße 174, im Ortsteil Altglienicke von der Schönefelder Chaussee abgehend, in "Lutz-Schmidt-Straße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Bebauungsplan XVI-66 („Kita Spitzerstraße“) hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Möglichkeiten der Freien Förderung für Arbeitssuchende ausschöpfen - überwiesen
+- TOP 15.2: "ServiceCenter" abschaffen - überwiesen
+- TOP 15.3: Beflaggung zu Nationalfeiertagen der EU-Mitgliedstaaten - überwiesen
+- TOP 15.4: Einhaltung gesundheitsgefährdender Grenzwerte bei der A100-Verlängerung - überwiesen
+- TOP 15.5: Eindeutige Markierung der Busparkplätze beim Allende-Center - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: 100 Jahre Kirche Baumschulenweg und altes Lyzeum (heutige Volkshochschule) - überwiesen
+- TOP 15.7: Konzept für Fläche An der Wuhlheide 250-270 unverzüglich fertigstellen - in der BVV zurückgezogen
+- TOP 15.8: Grundstück Lindenstraße 45 in 12555 Berlin (ehemaliges Bootshaus) - überwiesen
+- TOP 15.9: Lichtsignalanlage an der Zufahrt Hellweg-Baumarkt in der Friedrichshagener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 15.10: Schulwegsicherheit in der Wassersportallee - überwiesen
+- TOP 15.11: Grundschule am Pegasuseck - überwiesen
+- TOP 15.12: Synergien nutzen, Kosten sparen – Umzug des Tiefbauamts in die Rinkartstraße - überwiesen
+- TOP 15.13: Wiederaufstellung der Büste von Ernst Schneller - überwiesen
+- TOP 15.14: Supermarkt neben der Kirche – Sichtachsen in Friedrichshagen erhalten - überwiesen
