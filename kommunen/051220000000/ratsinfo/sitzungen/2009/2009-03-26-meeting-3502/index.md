@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-03-26T16:00:00+01:00
+- Ende: 2009-03-26T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZmfPgG1qw1tI-r4HRDFDi8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3502
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQFRFXs0GsE6CSeCDx7gmAbCF0rG-SEvGJhrPlZ2pUGr/Oeffentliche_Niederschrift_Rat_26.03.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Bergische Symphoniker
+- TOP 4: Städtische Initiative zum Erhalt des Regionale 2006-Projektes beroma-Laden
+- TOP 5: Bericht über EU-Richtlinie 2006/123/EG
+- TOP 6: Rheinisch-Bergischer Stadtwerke-Verbund
+- TOP 7: Beteiligungsbericht 2008 der Stadt Solingen
+- TOP 8: Beteiligungsbericht 2008 der Stadt Solingen
+- TOP 9: Beschleunigung von Investitionen durch Vereinfachungen im Vergaberecht
+- TOP 10: Maßnahmen aus dem Konjunkturpaket II
+- TOP 11: Konjunkturpaket II
+- TOP 12: Beantragung von Fördermitteln des „Konjunkturpaketes II“
+- TOP 13: Veröffentlichung der kommunalen Geschwindigkeitsmesspunkte – „Mobile Blitzer“
+- TOP 14: Kommunalwahltermin
+- TOP 15: Gemeinsamer Wahltermin für die allgemeinen Kommunalwahlen und die Bundestagswahl 2009
+- TOP 16: Ganztagsoffensive für die Sekundarstufe I
+- TOP 17: Schloss Burg
+- TOP 18: Armut vermeiden - Anpassung der Kosten der Unterkunft
+- TOP 19: Armut vermeiden - Attraktivierung des Solingen-Passes
+- TOP 20: Konzept für das Ittertal
+- TOP 21: Haushaltssicherungskonzept 2009 -2013
+- TOP 22: Beirat bei der Unteren Landschaftsbehörde
+- TOP 23: Verschiedenes
+- TOP 24: Birker Bad
+- TOP 25: Cross-Border Leasing
+- TOP 26: Konjunkturpaket II
+- TOP 27: Baumaßnahmen Schloss Burg
+- TOP 28: Solingen-Pass
+- TOP 29: Genehmigungspraxis für Förderprojekte "Soziale Stadt" und "Stadtumbau West"
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Übertragung der Aufgaben der Geschäftsführung der Beteiligungsgesellschaft Stadt Solingen GmbH
+- TOP 4: Verschiedenes
+- TOP 5: Kosten der Verwaltung für das Bäderkonzept
+- TOP 6: Anlaufkosten für die Fusion der Stadtwerke
