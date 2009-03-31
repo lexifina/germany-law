@@ -1,0 +1,75 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-03-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618061
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618061
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Benennung neues Mitglied im UA Planung, Verkehr und Umwelt
+- TOP 1.3.: Bestellung neue/r Beauftragte/r Heimbeirat "Lerchenauer" Lassallestraße
+- TOP 1.4.: Bestellung neue/r Baumschutzbeauftragte/r
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Musikinstitut Bilan; Anl. 20jährigen Bestehens zwei Konzertaufführungen am 29.03. und 19.07.2009 (vertagt in der Sitzung am 03.03.2009)
+- TOP 2.2.: Feldmochinger Straße - Verlängerung der Linksabbiegespur in die Himmelschlüsselstraße (Projekt-Nr.: 100415) (vertagt in der Sitzung am 03.03.2009)
+- TOP 3: (E) Ermittlung der tatsächlichen Lärmbelastung durch das Gütergleis in der Lerchenau sowie Maßnahmen zur Verringerung des Lärms Empfehlung Nr. 08-14 / E 00055 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenberglam 24.06.2008
+- TOP 3.4.: Gewährung eines Zuschusses aus dem BA-Budget: Pädagogische Aktion/Spielen in der Stadt e.V.; Spielaktion im September 2009
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Anträge der Einwohnerversammlung des 24. Stadtbezirkes vom 05.03.2009
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Rillierte Sicherheitsstreifen für Blinde am Bahnsteig des S-Bahnhofs Fasanerie (Bündnis 90/Die Grünen im BA 24)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Radverkehr München Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 5.2.: Boden- und Bauschutt-Recycling und Bodenbörsen Gesamtkonzept für Standorte in München
+- TOP 5.3.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Hochmuttinger Straße b) Bauvorhaben Lerchenauer Str. 317
+- TOP 5.4.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Kristallstr. 10 - 16 b) Kristallstr. 18 - 32
+- TOP 5.5.: Verkauf einer städtischen Immobilie; Azaleen-/Waldmeisterstraße (Grundstück)
+- TOP 5.6.: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Umlaufsperren
+- TOP 5.7.: Entscheidungsrecht für die Bezirksausschüsse bei der Aufstellung von Werbetafeln und Infosäulen
+- TOP 5.8.: Veranstaltung auf Privatgrund: Fest zum 90. Gründungstag der Lerchenau im Pfarrheim St. Agnes, Waldrebenstr. 15, 80935 München am 16.05.2009
+- TOP 5.9.: Veranstaltung auf einer städtischen Grünanlage: Mitmachzirkus mit Zirkusworkshops für Kinder auf der Zirkuswiese an der Weitlstr. 125 am 02.08. - 09.08.2009
+- TOP 5.10.: Z 283 statt Z 286 auf der Südseite der Paulckestraße
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Auflösung der Gemeinschaftsunterkunft an der Waldmeisterstraße - künftige Unterbringung der Bewohnerinnen und Bewohner (BA-Antrags-Nr. 08-14 / B 00698 vom 09.12.2008)
+- TOP 6.2.: Bau eines Kinder- und Jugendspielplatzes inkl. Bolzplatz in Feldmoching (BA-Antrags-Nr. 08-14 / B 00774 vom 13.01.2009)
+- TOP 6.3.: Sanierung und Kunstrasen auf der städtischen Sportanlage Lerchenauer Str. 270 (BA-Antrags-Nr. 08-14 / B 00844 vom 03.02.2009)
+- TOP 6.4.: Willy-Brandt-Gesamtschule in der Freudstr. 15; zusätzliche Bänke aus nicht brennbarem Material für die Halle der Willy-Brandt-Gesamtschule (Antrag Nr. 10 aus der Kinder- und Jugendsprechstunde am 21.11.2008)
+- TOP 6.5.: Auskunft über die Planungen zur Express-S-Bahn auf der S1-Trasse (BA-Antrags-Nr. 08-14 / B 00541 des Bezirksausschusses des Stadtbezirkes 10 Moosach vom 27.10.2008)
+- TOP 6.6.: Ausgleichfläche an der Trollblumenstraße
+- TOP 6.7.: Umwidmung und Verkehrsregelungen in der Heppstraße Nr. 22 bis 30
+- TOP 6.8.: Parkerleichterung für Schwerbehinderte; personenbezogener Sonderparkplatz im Bereich Linkstr. 21 a) Schreiben des Kreisverwaltungsreferates vom 17.02.2009 b) Verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 6.9.: Verkehrssituation Knospenstraße im Bereich zwischen Paul-Preuß-Straße und Georg-Winkler-Straße Notwendigkeit baulicher Maßnahmen
+- TOP 6.10.: Änderung des § 25 BA-Satzung
+- TOP 6.11.: Radwegbenutzungspflicht (Schreiben des Allgemeinen Deutschen Fahrrad-Club - ADFC, Kreisverband München)
+- TOP 6.12.: Schwerpunkt Nahversorgung (Schreiben der Penny-Markt-GmbH)
+- TOP 6.13.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Verkehrsberuhigte Bereiche Am Pfaffensteig / Schottwiesenweg / Auwasserweg
+- TOP 6.14.: Weltkindertag 2009
+- TOP 6.15.: Statistikblatt Kinderbetreuungsplätze in der LHM-Sozialreferat mit Stand 01.01.2009
+- TOP 6.16.: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale
+- TOP 6.17.: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.18.: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.19.: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.20.: Meldelisten Baumfällungsanträge
+- TOP 6.21.: Meldelisten Bauvorhaben
+- TOP 6.22.: Meldelisten der Baumaßnahmen der Stadtwerke München
+- TOP 6.23.: Verbesserung der Schienenanbindung des Flughafens München a) Sach- und Planungsstand, weiteres Vorgehen - München AirportExpress (MExpress) - Gutachten zur Flughafenanbindung München - Flughafen-Express-Light (FEL) auf der Trasse der S1 - Erdinger Ringschluss b) Anträge
+- TOP 6.24.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/35 Moosacher Straße (nördlich), Bahngleisbogen München-Feldmoching - München Milbertshofen (östl.), Schittgablerstraße (südl.), Lerchenauer Straße (westl.) - Knorr-Bremse-AG - Endgültiger Beschluss
+- TOP 6.25.: Stadt-Umland-Bahn - Planungen für eine Stadt-Umland-Bahn bzw. RegioTram wieder voranbringen - Schöpferische Denkpause für die Stadt-Umland-Bahn-Idee einlegen (Ergänzter Beschluss)
+- TOP 6.26.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund Nutzung des Königsplatzes; Kultur-open-Air-Veranstaltungen Renaissance des öffentlichen Raumes III Straßenfeste leicht gemacht
+- TOP 6.27.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
