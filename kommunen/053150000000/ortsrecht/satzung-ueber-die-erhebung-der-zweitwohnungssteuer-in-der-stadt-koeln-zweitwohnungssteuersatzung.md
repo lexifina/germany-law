@@ -1,15 +1,15 @@
 # Satzung über die Erhebung der Zweitwohnungssteuer in der Stadt Köln (Zweitwohnungssteuersatzung)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2008-12-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/zweitwohnungssteuersatzung2008-12-19.pdf
+- Datum: 2009-03-31 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/zweitwohnungssteuersatzung-2009-03-31.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Satzung über die Erhebung der Zweitwohnungssteuer in der Stadt Köln (Zweitwohnungssteuersatzung) vom 17.12.2004
-in der Fassung der 2. Satzung zur Änderung der Satzung über die Erhebung der Zweitwohnungssteuer in der Stadt Köln (Zweitwohnungssteuersatzung ) vom 19.12.2008
+Satzung über die Erhebung der Zweitwohnungssteuer in der Stadt Köln (Zweitwohnungssteuersatzung) vom 17. Dezember 2004
+in der Fassung der 3. Satzung zur Änderung der Satzung über die Erhebung der Zweitwohnungssteuer in der Stadt Köln (Zweitwohnungssteuersatzung ) vom 31. März 2009
 Der Rat der Stadt Köln hat in seiner Sitzung am 16.12.2004 aufgrund der §§ 7, 41 Abs. 1 und § 76 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (GV NRW S. 666), der §§ 15, 16, 31 des Meldegesetzes für das Land Nordrhein-Westfalen in der Fassung vom 16.09.1997 (GV NRW S. 332) sowie der §§ 1, 2, 3 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen vom 21. Oktober 1969 (GV NRW S. 712) - jeweils in der zum Zeitpunkt des Erlasses dieser Satzung geltenden Fassung - folgende Satzung über die Erhebung einer Zweitwohnungssteuer in der Stadt Köln beschlossen:
 §1 Steuergegenstand
 Die Stadt Köln erhebt eine Zweitwohnungssteuer für das Innehaben einer Zweitwohnung im Stadtgebiet.
@@ -31,11 +31,12 @@ b) für Wohnungen, die aus therapeutischen oder sozialpädagogischen Gründen en
 c) für Wohnungen, die von Trägern der öffentlichen und der freien Jugendhilfe entgeltlich oder unentgeltlich zur Verfügung gestellt werden und Erziehungszwecken dienen,
 d) für Räume in Frauenhäusern (Zufluchtswohnungen), e) für Räume zum Zwecke des Strafvollzugs
 Die Absätze 1 bis 4 gelten auch dann nicht, wenn sich die Hauptwohnung in einer unter Satz 1 genannten Wohnung befindet.
-(6) Die Absätze 1 bis 4 gelten ebenfalls nicht für ausschließlich aus beruflichen Gründen gehaltene Wohnungen eines nicht dauernd getrennt lebenden Verheirateten bzw. Lebenspartners im Sinne von § 1 Abs. 1 Satz 1 des Lebenspartnerschaftsgesetzes, dessen eheliche bzw. lebenspartnerschaftliche Wohnung sich in einer anderen Gemeinde befindet, soweit sich dieser überwiegend im Stadtgebiet aufhält und die eheliche bzw. lebenspartnerschaftliche Wohnung die Hauptwohnung ist.
+(6) Die Absätze 1 bis 4 gelten ebenfalls nicht für ausschließlich aus beruflichen Gründen gehaltene Wohnungen eines nicht dauernd getrennt lebenden Verheirateten bzw. Lebenspartners im Sinne von § 1 Abs. 1 Satz 1 des Lebenspartnerschaftsgesetzes, dessen eheliche bzw. lebenspartnerschaftliche Wohnung sich in einer anderen Gemeinde befindet, soweit sich dieser überwiegend im Stadtgebiet aufhält und die eheliche bzw. lebenspartnerschaftliche Wohnung die Hauptwohnung ist. Als berufliche Gründe gelten auch solche Tätigkeiten, die zur Vorbereitung auf die eigentliche Erwerbstätigkeit erforderlich sind, wie beispielsweise Studium, Lehre, Ausbildung, Volontariat u. a.
 §3 Persönliche Steuerpflicht
-(1) Steuerpflichtig ist, wer im Stadtgebiet eine Zweitwohnung oder mehrere Wohnungen innehat. Inhaber einer Zweitwohnung ist derjenige, dessen melderechtliche Verhältnisse die Beurteilung der Wohnung als Zweitwohnung bewirken oder der Inhaber einer Zweitwohnung im Sinne von § 2 Absatz 1 Buchstabe c) ist.
+(1) Steuerpflichtig ist, wer im Stadtgebiet eine Zweitwohnung oder mehrere Wohnungen innehat. Inhaber einer Zweitwohnung ist derjenige, dessen melderechtliche Ver-
 Seite 2 von 9
 
+hältnisse die Beurteilung der Wohnung als Zweitwohnung bewirken oder der Inhaber einer Zweitwohnung im Sinne von § 2 Absatz 1 Buchstabe c) ist.
 (2) Die Steuerpflicht besteht, solange die Wohnung des Steuerpflichtigen als Zweitwohnung zu beurteilen ist. Fällt der Zeitpunkt, mit dem die Beurteilung der Wohnung als Zweitwohnung beginnt, nicht auf den ersten Tag eines Monats, beginnt die Steuerpflicht am ersten Tag des folgenden Monats. Fällt der Zeitpunkt, mit dem die Beurteilung der Wohnung als Zweitwohnung endet, nicht auf den letzten Tag eines Monats, endet die Steuerpflicht am letzten Tag des vorangegangenen Monats.
 §4 Besteuerungszeitraum, Ermittlungszeitraum
 (1) Die Zweitwohnungssteuer ist eine Jahressteuer. Besteuerungszeitraum ist das Kalenderjahr. Besteht die Steuerpflicht nicht während des gesamten Kalenderjahres, ist Besteuerungszeitraum der Teil des Kalenderjahres, in dem die Steuerpflicht besteht.
@@ -43,10 +44,10 @@ Seite 2 von 9
 §5 Bemessungsgrundlage
 (1) Die Steuer bemisst sich nach der auf Grund des Mietvertrages im Besteuerungszeitraum geschuldeten Nettokaltmiete. Als im Besteuerungszeitraum geschuldete Nettokaltmiete ist die für den ersten vollen Monat des Ermittlungszeitraums geschuldete Nettokaltmiete, multipliziert mit der Zahl der in den Besteuerungszeitraum fallenden Monate, anzusetzen. Sollte im Mietvertrag zwischen den Parteien eine Miete vereinbart worden sein, in der einige oder alle Nebenkosten oder Aufwendungen für die Möblierung der Wohnung enthalten sind, sind zur Ermittlung der Nettokaltmiete pauschale Kürzungen im nachfolgenden Umfang vorzunehmen:
 a) für Teilmöblierung 10 v H b) für Vollmöblierung 30 v H c) eingeschlossene Nebenkosten ohne Heizung 10 v H d) eingeschlossene Nebenkosten mit Heizung 20 v H.
-(2) Ist der Zweitwohnungsinhaber Untermieter, gilt Abs. 1 entsprechend. Ist der Zweitwohnungsinhaber Hauptmieter, wird zur Ermittlung der Bemessungsgrundlage für dessen Zweitwohnungssteuer die nach dem Hauptmietvertrag maßgebliche Fläche der Wohnung um die Fläche reduziert, die der Untermieter individuell nutzt zuzüglich der anteiligen Fläche, die auf die gemeinschaftlich genutzten Räume entsprechend § 2 Abs. 2 entfällt, wenn der Untermieter für die Wohnung melderecht-
+(2) Ist der Zweitwohnungsinhaber Untermieter, gilt Abs. 1 entsprechend. Ist der Zweitwohnungsinhaber Hauptmieter, wird zur Ermittlung der Bemessungsgrundlage für dessen Zweitwohnungssteuer die nach dem Hauptmietvertrag maßgebliche Fläche der Wohnung um die Fläche reduziert, die der Untermieter individuell
 Seite 3 von 9
 
-lich erfasst ist. Die vom Hauptmieter vertraglich geschuldete Nettokaltmiete wird anteilmäßig in dem nach Satz 1 ermittelten Verhältnis gekürzt.
+nutzt zuzüglich der anteiligen Fläche, die auf die gemeinschaftlich genutzten Räume entsprechend § 2 Abs. 2 entfällt, wenn der Untermieter für die Wohnung melderechtlich erfasst ist. Die vom Hauptmieter vertraglich geschuldete Nettokaltmiete wird anteilmäßig in dem nach Satz 1 ermittelten Verhältnis gekürzt.
 (3) Für die Wohnungen im Sinne des § 1 der Zweiten Berechnungsverordnung ist ebenfalls die Nettokaltmiete (ohne Betriebskosten) anzusetzen. Die festgesetzte Ausgleichszahlung (früher „Fehlbelegungsabgabe“) zählt zur Bemessungsgrundlage.
 (4) Statt des Betrages nach Absatz 1 gilt als jährliche Nettokaltmiete für solche Wohnungen, die eigengenutzt, ungenutzt, zum vorübergehenden Gebrauch, unentgeltlich oder unterhalb der ortsüblichen Miete überlassen sind, die Miete, die laut jeweils zu Beginn des Ermittlungszeitraumes gültigem Mietspiegel für die Stadt Köln für Räume gleicher oder ähnlicher Art, Lage und Ausstattung regelmäßig zu zahlen ist. Die bei der Berechnung anzusetzende Wohnfläche wird nach Maßgabe der Wohnflächenverordnung vom 25.11.2003 in der jeweils geltenden Fassung ermittelt. Soweit Wohnungen im Sinne von § 2 Abs. 2 durch den Mietspiegel nicht erfasst werden, wird die ortsübliche Miete in Anlehnung an diesen geschätzt.
 (5) Bei Wohnwagen, Wohnmobilen und Wohnschiffen gilt als Nettokaltmiete die zu zahlende Stell- bzw. Liegeplatzmiete. Ist keine Miete zu entrichten, wird die in vergleichbaren Fällen zu zahlende Stell- bzw. Liegeplatzmiete zugrunde gelegt.
@@ -70,10 +71,9 @@ nung im Sinne des Meldegesetzes hat.
 (5) Ist die Nebenwohnung keine Zweitwohnung im Sinne von § 2, hat der Inhaber der Nebenwohnung dies nach amtlich vorgeschriebenem Vordruck zu erklären und die hierfür maßgeblichen Umstände anzugeben (Negativerklärung).
 (6) Die Festsetzung eines Verspätungszuschlages bei Nichtabgabe oder nicht fristgerechter Abgabe einer Steuererklärung erfolgt nach der Vorschrift des § 152 der Abgabenordnung (AO) in der jeweils geltenden Fassung.
 § 10 Festsetzung der Steuer
-(1) Die zu entrichtende Steuer wird durch Steuerbescheid festgesetzt. In dem Bescheid kann bestimmt werden, dass er auch für künftige Zeitabschnitte gilt, solange sich die Bemessungsgrundlagen und der Steuerbetrag nicht ändern. Der Bescheid wird geändert, wenn die Anzeige einer Änderung von Besteuerungsgrundlagen (§ 4 Absatz 2 Satz 3) oder die Anzeige des Endes der Steuerpflicht (§ 3 Absatz 2 Satz 3) eine niedrigere Steuerfestsetzung erforderlich macht. Die Möglich-
+(1) Die zu entrichtende Steuer wird durch Steuerbescheid festgesetzt. In dem Bescheid kann bestimmt werden, dass er auch für künftige Zeitabschnitte gilt, solange sich die Bemessungsgrundlagen und der Steuerbetrag nicht ändern. Der Bescheid wird geändert, wenn die Anzeige einer Änderung von Besteuerungsgrundlagen (§ 4 Absatz 2 Satz 3) oder die Anzeige des Endes der Steuerpflicht (§ 3 Absatz 2 Satz 3) eine niedrigere Steuerfestsetzung erforderlich macht. Die Möglichkeit der Änderung des Steuerbescheides nach den Vorschriften der Abgabenordnung über die Änderung von Steuerbescheiden bleibt unberührt.
 Seite 5 von 9
 
-keit der Änderung des Steuerbescheides nach den Vorschriften der Abgabenordnung über die Änderung von Steuerbescheiden bleibt unberührt.
 (2) Die Jahressteuer wird auf den nächsten durch 12 teilbaren Betrag abgerundet.
 § 11 Steuerentrichtung
 (1) Die Steuer wird halbjährlich am 01. April für den Zeitraum Januar bis Juni und am 01. Oktober für den Zeitraum Juli bis Dezember mit der Hälfte des Jahresbetrages fällig. Bis zur Bekanntgabe eines neuen Steuerbescheides ist die bisher festgesetzte Steuer als Vorauszahlung zu den gleichen Fälligkeitsterminen weiter zu entrichten.
@@ -113,13 +113,13 @@ Soweit diese Satzung im einzelnen nichts anderes bestimmt, sind die Vorschriften
 Seite 8 von 9
 
 § 16 Inkrafttreten
-Diese Satzung tritt am 01. Januar 2009 in Kraft.
+Diese Satzung tritt rückwirkend zum 01. Januar 2005 in Kraft.
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
-Köln, den 19.12.2008
+Köln, den 31.03.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2004, S 1021, 2005, S. 730, 2008, S. 837 -
+- ABl StK 2004, S 1021, 2005, S. 730, 2008, S. 837, 2009, S. 247 -
 
 Seite 9 von 9
