@@ -1,0 +1,107 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-03-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631465
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631465
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Friedenstraße - Ausfahrt Fuß- und Radwegtunnel - Projekt-Nr. 100407 - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bebauungsplan mit Grünordnung Seebrucker Straße (beiderseits), Kreillerstraße (nördlich), Hansjakobstraße (südlich) (Teiländerung des Bebauungsplans Nr. 26)
+- TOP 3.1.1.2.: Friedenstraße 22c, Teil-Nutzungsänderung und -Umbau eines Büro-, Industrie- und Lagergebäudes in einen Gesundheits- und Sportcenter + Indoorgolf sowie Büro- und Lagerflächen, befristet bis 31.12.2014
+- TOP 3.1.1.3.: Boden- und Bauschutt-Recycling und Bodenbörsen - Gesamtkonzept für Standorte in München
+- TOP 3.1.1.4.: Bebauungsplan mit Grünordnung - Aufstellungsbeschluss -Berg-am-Laim-Str. (nördlich), Weihenstephaner Str. (östlich), Streitfeldstrasse (nördlich), Neumarkter Str. (beidseits) - Ergebnis der Informellen Gespräche zu Bauvorhaben Berg-am-Laim-Str. 117- 125 - <div></div>
+- TOP 3.1.2.1.: Umlaufsperren an den Gehwegfurten zwischen Innsbrucker Ring und Ulrichsbergstraße - <div></div>
+- TOP 3.1.2.2.: Beschilderung des Zufahrtsbereichs der Kinderkrippe an der Grafinger Straße - <div></div>
+- TOP 3.1.2.3.: "Rund um den Ostbahnhof"- Fußgängerunterführung zum Ostbahnhof - Machbarkeitsstudie
+- TOP 3.1.2.4.: Radverkehr München - Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 3.1.2.5.: Radveranstaltung "Velonale München" am 26.07.2009
+- TOP 3.1.2.6.: Feuerwehrzufahrten in der Rottalstraße - Verkehrsrechtliche Anordnung
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Erweiterung und Umbau der Hauptschule Innsbrucker Ring 75 / Echardinger Grünstreifen und des Sonderpädagogischen Förderzentrums Innsbrucker Ring 75
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: "Netzwerk am Isareck" - Intergeneratives Pilotprojekt gefördert durch das Bund-Länder-Programm Soziale Stadt
+- TOP 3.5.1.: Förderkreis der Grundschule an der Grafinger Straße - Antrag auf Bezuschussung
+- TOP 3.5.2.: Zeugnerhof - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.5.3.: Regsam Fachbasis Berg am Laim West - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.5.4.: Evtl. Bezuschussung der Spielbusse durch den BA 14
+- TOP 3.5.5.: Budget der Bezirksausschüsse - Änderung und Ergänzung der Richtlinien
+- TOP 3.5.6.: Änderung des § 25 BA-Satzung
+- TOP 3.5.7.: Rechtsfähigkeit der Bezirksausschüsse - Abschluss von zivilrechtlichen Verträgen
+- TOP 3.5.8.: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Umlaufsperren
+- TOP 3.5.9.: Entscheidungsrecht für die Bezirksausschüsse bei der Aufstellung von Werbetafeln und Infosäulen
+- TOP 3.5.10.: Beschluss des BA-Vorstandes zur Verwendung der Verwaltungskostenpauschale
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Lödenseestraße 10 - Neubau eines Doppelhauses mit Garagen
+- TOP 3.7.2.: Böcklerweg 5 - Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.7.3.: Halserspitzstraße 27 - Antrag auf Baumfällungen
+- TOP 3.7.4.: Berg-am-Laim-Str. 89 - Antrag auf Baumfällungen
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Soziales Wohnungsbauprogramm 2009
+- TOP 4.1.1.3.: "Tonhalle" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.4.: "Padova" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.5.: "Zur Freiheit" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.6.: "Echardinger Gartenlaube" - Antrag auf unveränderte Fortführung
+- TOP 4.1.2.1.: Verbesserung der Schienenanbindung des Flughafens München
+- TOP 4.1.2.2.: Radwegbenutzungspflicht - Darstellung des ADFC
+- TOP 4.1.2.3.: Mehr Sicherheit für die "2-Räder" auf öffentlichen Plätzen
+- TOP 4.1.2.4.: Radfahren in der Neumarkter Straße und Truderinger Straße
+- TOP 4.1.2.5.: Leistungsbilanzen der Abteilungen Tiefbau und Gartenbau für den Stadtbezirk 14
+- TOP 4.1.2.6.: Bürgerschreiben zur Verlängerung der Buslinie 185
+- TOP 4.1.2.7.: Truderinger Straße - Anbringung eines Verkehrsspiegels
+- TOP 4.1.2.8.: Nutzung des Piusplatzes für Veranstaltungen
+- TOP 4.1.2.9.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 4.1.2.10.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen in München
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Umzug des Städtischen Horts Berg-am-Laim-Straße in das Anwesen 124
+- TOP 4.3.2.: Planungsdaten des Schulreferats für den Schul- und Kindertagesstättenbereich
+- TOP 4.3.3.: Neue Bädereintrittspreise - Information der Bezirksausschüsse
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Leistungsbilanz des Sozialreferates mit den Einrichtungen zur sozialen Versorgung
+- TOP 4.4.2.: Protokoll der Informationsveranstaltung des Sozialreferates vom 03.12.2008
+- TOP 4.5.1.: Initiative "Frankenstein" - Zuwendungsbescheid
+- TOP 4.5.4.: ESV München-Ost - Zuwendungsbescheid
+- TOP 4.5.5.: ESV München-Ost - Verwendungsnachweis
+- TOP 4.5.6.: Neue Form der Bürgerversammlungen
+- TOP 4.5.7.: Nominierungsverfahren für den Mieterbeirat seitens der Bezirksausschüsse
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.5.3.: Ludwig-Thoma-Realschule - Zuwendungsbescheid
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
