@@ -1,0 +1,1 @@
+Auf Grund des § 126 Abs. 3 Nr. 2 des Rahmengesetzes zur Vereinheitlichung des Beamtenrechts (Beamtenrechtsrahmengesetz – BRRG) in der Fassung der Bekanntmachung vom 17. Juli 1971 (BGBl. I S. 1025) in Verbindung mit § 1 des Gesetzes über Ermächtigungen zum Erlaß von Rechtsverordnungen vom 3. Juli 1961 (BGBl. I S. 856) erläßt die Bayerische Staatsregierung folgende Verordnung:
