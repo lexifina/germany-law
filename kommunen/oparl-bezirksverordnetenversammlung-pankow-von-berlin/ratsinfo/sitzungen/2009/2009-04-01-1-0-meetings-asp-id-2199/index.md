@@ -1,0 +1,75 @@
+# 23. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-04-01T17:30:00+02:00
+- Ende: 2009-04-01T21:45:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2199
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2199
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=34531
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfragen - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - mit Änderungen in der BVV beschlossen
+- TOP 1.9: Erhöhung der Verkehrssicherheit am Knoten Walter-Friedrich-Straße/Groscurthstraße - in der BVV abgelehnt
+- TOP 1.10: Restzeitampeln für Fußgänger - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.11: Barrierefreies Arbeiten der BVV-Arbeit sichern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Umwelt- und Lärmbelastung für Anwohner der Wisbyerstr verhindern - in der BVV abgelehnt
+- TOP 1.13: Umwelt- und Lärmbelastung für Anwohner der Wisbyerstr. verhindern - in der BVV abgelehnt
+- TOP 1.14: Forscherschloss Buch - LSC - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Keine Mietverträge in Pankow mit rechtsextremen, antisemitischen und fremdenfeindlichen Organisationen - überwiesen
+- TOP 1.16: Belegungsgebundene Wohnungen - beantwortet
+- TOP 1.17: Ausgestaltung des BVV-Saals - vertagt
+- TOP 1.18: Sportstandort Hansastraße 109 - überwiesen
+- TOP 1.19: AV Wohnen - vertagt
+- TOP 1.20: Aufstellung eines B-Planes für das Grundstück Schönhauser Allee 148 / Kastanienallee 97 - 99 - überwiesen
+- TOP 1.21: Darßer Bogen - "Die Straße der Krise"? - vertagt
+- TOP 1.22: Wärmeisolierung bezirkseigener Gebäude - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Jetzt die Gemeinschaftsschule weiter voranbringen! - vertagt
+- TOP 1.24: Entwicklung des Botanischen Volksparks Blankenfelde weiter fördern - überwiesen
+- TOP 1.25: Mittel des Konjunkturpakets II für Pankower Gewerbetreibende einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Ökologische Straßenbeleuchtung - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Unterstützende Maßnahmen gegen illegale Müllentsorgung - überwiesen
+- TOP 1.28: Sogenannte Ekelliste relativieren - vertagt
+- TOP 1.29: Kulturhaus Weißensee - überwiesen
+- TOP 1.30: Hinweisschilder Wildwechsel in der Hobrechtsfelder Chaussee - überwiesen
+- TOP 1.31: Negativliste für Pankower Straßen - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Zukunft der Schullandheime und Einrichtungen der Kinder- und Jugenderholung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Beschluss über die Zuwendungsvergabe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Neue Schulen für den Kiez - vertagt
+- TOP 2.7: Änderung der Bauplanung Straße Alt-Blankenburg - vertagt
+- TOP 2.8: Kochgelegenheiten in Jugendfreizeiteinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Erfahrungsaustausch zu Begegnungsstätten - Orte für alle Generationen - vertagt
+- TOP 2.10: Kommunales Wahlrecht für Nicht-EU-Bürgerinnen und Bürger! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Sanierungsziele langfristig planungsrechtlich sichern - vertagt
+- TOP 2.12: Stellenzusage für Kinderschutz umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Kein Verkehrsinfarkt im Prenzlauer Berg - vertagt
+- TOP 2.14: Umsetzung des Gleichstellungspolitischen Rahmenprogramms - bezirklicher Masterplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Bushaltestelle im Bereich Revierförsterei Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Durchführung einer Spielleitplanung in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Für eine auskömmliche und bedarfsgerechte Finanzierung der Hilfen zur Erziehung im Land Berlin und in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Ausstellung "Bruderland ist abgebrannt" auch in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Bebauungsplan IV-29 vom 20.11.2007 für die Grundstücke Rykestraße 21, Rykestraße 20 / Sredzkistraße 61 und Sredzkistraße 59 / Rykestraße im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Bebauungsplanentwurf 3-12 für das Gelände zwischen den nördlichen Grenzen der Grundstücke Roelckestraße 93, Berliner Allee 317 und 321, Berliner Allee, Nüßlerstraße und Roelckestraße sowie einen Abschnitt der Feldtmannstraße im Bezirk Pankow, Ortsteil Weißensee. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Fortschreibung der Kosten- und Finanzierungsübersichten 2008 - vertagt
+- TOP 2.22: Bebauungsplan 3-25 für die Grundstücke Oderberger Straße 19 sowie Kastanienallee 10-12 (teilweise) im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Bebauungsplan 3-26 für die Grundstücke Immanuelkirchstraße 14 und 14 A-C sowie Heinrich-Roller-Straße 15-18 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bericht aus dem Verwaltungsrat des Eigenbetriebes "Kindergärten Nordost" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Neuordnung der Grundschulstruktur in Blankenfelde und Französisch Buchholz - vertagt
+- TOP 3: Alternativen für den Eliashof mit den Betroffenen prüfen - zurückgezogen
