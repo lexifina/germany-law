@@ -1,4 +1,4 @@
-# Inhaltsübersicht 2
+# Inhaltsübersicht
 Teil 1 Schiedsstellen in den Gemeinden
 Abschnitt 1 Gemeindliche Schiedsstellen
 § 1 Aufgaben
