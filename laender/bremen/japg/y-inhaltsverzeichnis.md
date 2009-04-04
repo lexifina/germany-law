@@ -56,6 +56,7 @@ Teil 3 Vorbereitungsdienst
 § 45 | Urlaub
 § 46 | Gastreferendare, Übernahme aus anderen Ländern
 § 47 | Zweite juristische Staatsprüfung
+§ 47a | Ergänzungsvorbereitungsdienst
 § 48 | Beendigung des Vorbereitungsdienstes
 Teil 4 Übergangs- und Schlussbestimmungen
 § 49 | Personenbezeichnungen
