@@ -1,0 +1,70 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-04-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1594864
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1594864
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: "Wohnungsflüchter" - Grünanlage Alram- / Aberlestraße
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Südbad; Treppe großes Schwimmbecken
+- TOP 4: Schulreferat
+- TOP 4.1.: Sonnenschutz an der Pfeuferschule
+- TOP 4.2.: Kindergarten an der Valleystraße 22; Baukostenzuschuss
+- TOP 4.3.: Verlagerung der Freien Turnerschaft München-Süd e. V.
+- TOP 5.1.: Ostermarkt in den Isarauen; Gaststätte zum Flaucher, 04 - 05.04.2009
+- TOP 5.2.: Veranstaltung des KJT 2 Club in der Grünanlage an der Bezirkssportanlage Dietramszellerstr. 9; 15.05.2009
+- TOP 5.3.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Genehmigung einer Freischankfläche; Oberländerstraße 14
+- TOP 6.2.: Parklizenzregelung Wackersbergerstraße zwischen Daiserstraße und Esswurmstraße
+- TOP 6.3.: Parkraummanagement Sendling; Parkscheinautomaten-Standorte - <div>vertagt</div>
+- TOP 6.4.: Öffnung von Einbahnstraßen für den Radverkehr entgegen der Einbahnregelung; Schmied-Kochel-Str. und Wackersberger Str. zwischen Esswurm- und Implerstr.
+- TOP 6.5.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München
+- TOP 6.6.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 7.1.: Budgetantrag Historische Lernorte Sendling, Projektdokumentation "...nach unbekannt abgewandert"; ? 4000,-
+- TOP 7.2.: Budgetantrag Historische Lernorte Sendling, Fotodokumentation "...etwas sollte bleiben"; ? 4700,-
+- TOP 7.3.: Budgetantrag Elternbeirat Grundschule am Gotzinger Platz, Theaterprojekt im Juni / Juli 2009; ? 1500,-
+- TOP 7.4.: Budgetantragt IG-Feuerwache - Initiativgruppe e. V.; Spielangebot von März bis Juli 2009
+- TOP 7.5.: Budget der Bezirksausschüsse; Änderung / Ergänzung der Richtlinien
+- TOP 7.6.: Änderung der Stellvertretungsregelung in der BA-Satzungskommission (§ 25 Abs. 2 BA-Satzung)
+- TOP 7.7.: Entscheidungsrecht für die BAs bei der Genehmigung von Umlaufsperren
+- TOP 7.8.: Entscheidungsrecht für die BAs bei der Aufstellung von Werbetafeln und Infosäulen
+- TOP 7.9.: Bestückung der BA-Schaukästen
+- TOP 7.10.: Neuer Mieterbeirat
+- TOP 7.11.: Projekt BA-online; elektronische Übermittlung der TO-Unterlagen an die BA-Mitglieder - Testlauf Sitzungen 05.09 - 07.09
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Senserstr. 3
+- TOP 8.3.: Bauvorhaben Steinerstr. 16
+- TOP 8.4.: Bauvorhaben Kidlerplatz 5
+- TOP 8.5.: Bauvorhaben Kidlerstr. 41 - 43
+- TOP 8.6.: Bauvorhaben Lindenschmitstr. 7
+- TOP 8.7.: Radverkehr in München - Grundsatzbeschluss zur Förderung des Radverkehrs
+- TOP 8.8.: Flächennutzungsplan / Bebauungsplan Türkisch-Islamisches-Kulturzentrum
+- TOP 8.9.: Verbesserung der Schienenanbindung des Flughafens München
+- TOP 8.10.: Reale und virtuelle Stadtmodelle
+- TOP 8.11.: Veränderung der Poststandorte in München
+- TOP 8.12.: Bevölkerungsprognose der Bertelsmann Stiftung für München
+- TOP 9: Baureferat
+- TOP 9.1.: Quartiersplatz "Bahndeckel" Theresienhöhe
+- TOP 9.2.: Blühende Straßenränder
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Kidlerpl. 5
+- TOP 10.2.: Baumfällung Karwendelstr. 48
+- TOP 10.3.: Baumfällung Meindlstr. 18 - 18c
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Einrichtung von Hundepollern an der Grünanlage Bezirkssportanlage Dietramszeller Str.
+- TOP 13: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
