@@ -1,0 +1,55 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-04-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1681024
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1681024
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Freischankfläche Westendstr. 66
+- TOP 4.2.: Straßenbauprojekt Ridlerstr. zw. Haus Nr. 3 und Haus Nr. 11
+- TOP 4.3.: Straßenbauprojekt Barthstraße 4
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Baulisten
+- TOP 6.1.2.: Entscheidungsrecht für die Bezirksausschüsse von Werbetafel und Infosäulen: Antrag des BA 21 Pasing-Obermenzing
+- TOP 6.1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Aktion " Jugendarbeit ist eine sichere Bank"
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.3.1.: Internationales Stadteilfest Westend auf dem Gollierplatz
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Errichtung eines personenbezogenen Behindertenparkplatz in der Bergmannstr.58
+- TOP 6.4.2.: Entscheidungen für die Bezirksauschüsse bei der Genehmigung von Umlaufsperren Antrag des BA 21 Pasing-Obermenzing
+- TOP 6.4.3.: Baumfällungen Barthstraße 1 - 17
+- TOP 6.4.4.: Bericht aus dem Treffen mit dem BA 2
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Grundsatzbeschlüsse der BA's über die Mittelvergabe aus dem BA-Budget
+- TOP 6.5.2.: Budgetantrag LILALU vom Februar 2009
+- TOP 6.5.3.: Budgetantrag des Multikulturellen Jugendzentrums; Spielprogramm in den Sommerferien am Georg-Freundorfer-Platz
+- TOP 6.5.4.: Budgetantrag Kozminski Filmproduktion
+- TOP 6.5.5.: BA-Budget; Mittelbereitstellung für das Fest der Ehrenamtlichen am 23.04.2009
+- TOP 7: Erledigungen
+- TOP 7.1.: Versammlungen des Vereins " Helfer für Gottes kostbare Kinder Deutschland e.V."
+- TOP 7.2.: Neuer Mieterbeirat
+- TOP 7.3.: Neubau Fernwärmeleitung " Westend Los 2- 2. Bauabschnitt"
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Quartiersplatz "Bahndeckel" Teilprojekt 2: Grünfläche "Bahndeckel"
+- TOP 9.2.: Koordination Straßenbau und Fernwärme
+- TOP 9.3.: Änderung der BA-Satzung
+- TOP 9.4.: unveränderte Gaststättenfortführung
+- TOP 9.5.: Neue Bäderpreise; Information der SWM
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
