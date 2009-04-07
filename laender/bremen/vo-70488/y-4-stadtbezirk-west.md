@@ -13,17 +13,19 @@ Der Ortsteil In den Hufen wird im N durch den Ortsteil Blockland, im W den Autob
 (431) Ortsteil Utbremen
 Utbremen wird begrenzt im NO und SO von den Bahnanlagen, im SW von der Hans-Böckler-Straße und im NW von der Hansestraße und der Münchener Straße.
 (432) Ortsteil Steffensweg
-Der Ortsteil Steffensweg wird im N durch die nördliche Begrenzung der Grundstücke Schule Nordstraße, Fuhrpark und Steinlager, im W den Ortsteil Handelshäfen, im S die Hansestraße von der Nordstraße bis zum Spielplatz im Waller Grün und im O durch die westliche Begrenzung des Waller Grüns von der Hansestraße bis zur Bremerhavener Straße und die Bremerhavener Straße bis zur O-Grenze von Haus Nr. 82 begrenzt.
+Der Ortsteil Steffensweg wird im N durch die nördliche Begrenzung der Grundstücke Schule Nordstraße, Fuhrpark und Steinlager, im W den Ortsteil Überseestadt, im S die Hansestraße von der Nordstraße bis zum Spielplatz im Waller Grün und im O durch die westliche Begrenzung des Waller Grüns von der Hansestraße bis zur Bremerhavener Straße und die Bremerhavener Straße bis zur O-Grenze von Haus Nr. 82 begrenzt.
 (433) Ortsteil Westend
 Der Ortsteil Westend wird im N durch die nördliche Begrenzung der Grundstücke Schule und Sportplatz Vegesacker Straße, Schule und Spielplatz Helgolander Straße und Gerdstraße bis zur Eisenbahn, im W den Ortsteil Steffensweg, im S den Ortsteil Utbremen und im O durch die Eisenbahn begrenzt.
 (434) Ortsteil Walle
-Walle wird im NW durch den Nordwestrand des Waller Friedhofes, die Gröpelinger Heerstraße von der Altenescher Straße bis zur Ostgrenze von Haus Nr. 5 und den Westrand des Waller Seebades bis zu seiner nördlichen Ecke begrenzt. Die Grenze schneidet das Flst. 93/58 von Fl. VR 39 verläuft südwestlich des ehemaligen Bahngeländes bis zur Seewenjestraße, an ihr und dem Weg "Der Alte Deich" entlang über das Bahngelände, das bis zum Ortsteil Westend die Grenze im NO bildet. Im SW wird Walle durch den Ortsteil Handelshäfen, im SO die Ortsteile Westend und Steffensweg begrenzt.
+Walle wird im NW durch den Nordwestrand des Waller Friedhofes, die Gröpelinger Heerstraße von der Altenescher Straße bis zur Ostgrenze von Haus Nr. 5 und den Westrand des Waller Seebades bis zu seiner nördlichen Ecke begrenzt. Die Grenze schneidet das Flst. 93/58 von Fl. VR 39 verläuft südwestlich des ehemaligen Bahngeländes bis zur Seewenjestraße, an ihr und dem Weg "Der Alte Deich" entlang über das Bahngelände, das bis zum Ortsteil Westend die Grenze im NO bildet. Im SW wird Walle durch den Ortsteil Überseestadt, im SO die Ortsteile Westend und Steffensweg begrenzt.
 (435) Ortsteil Osterfeuerberg
 Der Ortsteil Osterfeuerberg wird im N durch die Verbindungsbahn zwischen der Eisenbahn Bremen-Bremerhaven und Bremen-Hamburg und im SW durch die Bahnlinie Bremen-Bremerhaven begrenzt.
 (436) Ortsteil Hohweg
 Der Ortsteil Hohweg wird im N durch den Ortsteil Blockland, im W den Schlickwiesenweg und die Bahnlinie Bremen-Bremerhaven, im S den Ortsteil Osterfeuerberg und im O durch den Ortsteil In den Hufen begrenzt.
+(437) Ortsteil Überseestadt
+Der Ortsteil Überseestadt umfasst den Getreidehafen, Holz- u. Fabrikenhafen und den Europahafen mit dem anschließenden Gelände. Er wird im SO durch die Oldenburger Bahn, im SW durch die Weser von der Oldenburger Bahn bis zu einer Linie, die rechtwinkelig von der Wesermitte in Richtung auf den Gröpelinger Fährweg abknickt, begrenzt, im NW durch den Gröpelinger Fährweg und im NO durch die Werftstraße/Bremerhavener Straße/Nordstraße, die Bogenstraße, dem ehemaligen Zollzaun parallel zur Heimatstraße und dessen Verlängerung bis zur Nordstraße, der nordöstlichen Begrenzung der Hans-Böckler-Straße und ab Hansa-Tor durch die Nordstraße und die Hans-Böckler-Straße bis zur Oldenburger Bahn.
 (441) Ortsteil Lindenhof
-Der Ortsteil Lindenhof wird im N durch die Debstedter Straße, im W die Ortsteile Industrie- und Handelshäfen, im S den Ortsteil Walle und im O durch die Gröpelinger Heerstraße (Nr. 60 bis 298) begrenzt.
+Der Ortsteil Lindenhof wird im N durch die Debstedter Straße, im W die Ortsteile Industriehäfen und Überseestadt, im S den Ortsteil Walle und im O durch die Gröpelinger Heerstraße (Nr. 60 bis 298) begrenzt.
 (442) Ortsteil Gröpelingen
 Gröpelingen wird im NW durch die Straßen Beim Ohlenhof und Halmerweg und die geradlinige Verlängerung des Halmerweges bis zur NO-Seite des Bahngeländes, im SW die Gröpelinger Heerstraße (Nr. 5 bis 199), im SO den Ortsteil Walle und im NO durch die Bahnlinie Bremen-Bremerhaven begrenzt.
 (443) Ortsteil Ohlenhof

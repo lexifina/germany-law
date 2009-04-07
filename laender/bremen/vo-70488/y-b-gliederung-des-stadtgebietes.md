@@ -5,7 +5,7 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
 1 | Mitte | 11 | Mitte | 111 | Altstadt
  |  |  |  | 112 | Bahnhofsvorstadt
  |  |  |  | 113 | Ostertor
- |  | 12 | Häfen*) | 121 | Handelshäfen
+ |  | 12 | Häfen | 121 | (aufgehoben)
  |  |  |  | 122 | Industriehäfen
  |  |  |  | 123 | stadtbrem. Überseehafengebiet Bremerhaven
  |  |  |  | 124 | Neustädter Hafen
@@ -71,6 +71,7 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
  |  |  |  | 434 | Walle
  |  |  |  | 435 | Osterfeuerberg
  |  |  |  | 436 | Hohweg
+ |  |  |  | 437 | Überseestadt
  |  | 44 | Gröpelingen | 441 | Lindenhof
  |  |  |  | 442 | Gröpelingen
  |  |  |  | 443 | Ohlenhof
@@ -91,5 +92,3 @@ Nr. | Stadtbezirke Bezeichnung | Nr. | Stadtteile Bezeichnung | Nr. | Ortsteile 
  |  |  |  | 533 | Lüssum-Bockhorn
  |  |  |  | 534 | Farge
  |  |  |  | 535 | Rekum
-Fußnoten
-*) Stadtteil ohne Ortsamtsverwaltung
