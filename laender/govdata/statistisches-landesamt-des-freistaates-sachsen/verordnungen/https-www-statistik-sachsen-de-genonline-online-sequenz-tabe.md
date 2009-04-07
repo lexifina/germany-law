@@ -1,16 +1,16 @@
-# Straßenverkehrsunfälle: Unfälle mit Personenschaden,Beteiligte, Hauptverursacher, Geschlecht,Verkehrsbeteiligung - Sachsen - Jahre
+# Straßenverkehrsunfälle: Verunglückte Kinder und Jugendlichebis 20 Jahre, Alter, Verkehrsbeteiligung, Ortslage- Sachsen - Jahr
 
 - Herausgeber: Statistisches Landesamt des Freistaates Sachsen
 - Datum: 2009-04-07 (Katalogangabe issued/modified)
-- Kennung: https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleErgebnis&selectionname=46241-204&regionalschluessel=
+- Kennung: https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleErgebnis&selectionname=46241-222&regionalschluessel=
 - Lizenz: -
-- Katalog: https://www.govdata.de/suche/daten/strassenverkehrsunfalle-unfalle-mit-personenschadenbeteiligte-hauptverursacher-geschlechtverkeh79e66
-- Quelle: GovData (CKAN-API), Datensatz 91bdd5e9-5f70-4cf4-8369-04274abff99d
+- Katalog: https://www.govdata.de/suche/daten/strassenverkehrsunfalle-verungluckte-kinder-und-jugendlichebis-20-jahre-alter-verkehrsbeteiligu5a505
+- Quelle: GovData (CKAN-API), Datensatz a7073801-2fb9-4bc9-9972-2470c62c86bc
 - temporal_start: 1995-01-01T00:00:00
 - temporal_end: 2024-01-31T23:59:59
-- Ressource: FlatCSV-Datei der Tabelle '46241-204' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-204&regionalschluessel=&format=ffcsv http://publications.europa.eu/resource/authority/file-type/CSV
-- Ressource: CSV-Datei der Tabelle '46241-204' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-204&regionalschluessel= http://publications.europa.eu/resource/authority/file-type/CSV
+- Ressource: FlatCSV-Datei der Tabelle '46241-222' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-222&regionalschluessel=&format=ffcsv http://publications.europa.eu/resource/authority/file-type/CSV
+- Ressource: CSV-Datei der Tabelle '46241-222' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-222&regionalschluessel= http://publications.europa.eu/resource/authority/file-type/CSV
 
 ---
 
-Straßenverkehrsunfälle: Unfälle mit Personenschaden,Beteiligte, Hauptverursacher, Geschlecht,Verkehrsbeteiligung - Sachsen - Jahre
+Straßenverkehrsunfälle: Verunglückte Kinder und Jugendlichebis 20 Jahre, Alter, Verkehrsbeteiligung, Ortslage- Sachsen - Jahr
