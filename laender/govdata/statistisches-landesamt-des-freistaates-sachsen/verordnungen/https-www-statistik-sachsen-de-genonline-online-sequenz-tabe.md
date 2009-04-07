@@ -1,16 +1,16 @@
-# Straßenverkehrsunfälle: Hauptverursacher an Unfällen mitPersonenschaden, Verkehrsbeteiligung,Altersgruppen, Geschlecht - SN - Jahr
+# Straßenverkehrsunfälle: Verunglückte,Verkehrsbeteiligung - Sachsen- Jahre - Monat/Monate kumulativ
 
 - Herausgeber: Statistisches Landesamt des Freistaates Sachsen
 - Datum: 2009-04-07 (Katalogangabe issued/modified)
-- Kennung: https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleErgebnis&selectionname=46241-217&regionalschluessel=
+- Kennung: https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleErgebnis&selectionname=46241-136&regionalschluessel=
 - Lizenz: -
-- Katalog: https://www.govdata.de/suche/daten/strassenverkehrsunfalle-hauptverursacher-an-unfallen-mitpersonenschaden-verkehrsbeteiligungalte0ab1b
-- Quelle: GovData (CKAN-API), Datensatz 4c7f840d-37c4-478b-b3fe-1bf64ab09581
+- Katalog: https://www.govdata.de/suche/daten/strassenverkehrsunfalle-verungluckteverkehrsbeteiligung-sachsen-jahre-monat-monate-kumulativ927c9
+- Quelle: GovData (CKAN-API), Datensatz 4d3fb716-0387-4d26-84f5-254d9e37d1cf
 - temporal_start: 1995-01-01T00:00:00
-- temporal_end: 2024-01-31T23:59:59
-- Ressource: FlatCSV-Datei der Tabelle '46241-217' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-217&regionalschluessel=&format=ffcsv http://publications.europa.eu/resource/authority/file-type/CSV
-- Ressource: CSV-Datei der Tabelle '46241-217' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-217&regionalschluessel= http://publications.europa.eu/resource/authority/file-type/CSV
+- temporal_end: 2025-04-30T23:59:59
+- Ressource: FlatCSV-Datei der Tabelle '46241-136' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-136&regionalschluessel=&format=ffcsv http://publications.europa.eu/resource/authority/file-type/CSV
+- Ressource: CSV-Datei der Tabelle '46241-136' https://www.statistik.sachsen.de/genonline/online?sequenz=tabelleDownload&selectionname=46241-136&regionalschluessel= http://publications.europa.eu/resource/authority/file-type/CSV
 
 ---
 
-Straßenverkehrsunfälle: Hauptverursacher an Unfällen mitPersonenschaden, Verkehrsbeteiligung,Altersgruppen, Geschlecht - SN - Jahr
+Straßenverkehrsunfälle: Verunglückte,Verkehrsbeteiligung - Sachsen- Jahre - Monat/Monate kumulativ
