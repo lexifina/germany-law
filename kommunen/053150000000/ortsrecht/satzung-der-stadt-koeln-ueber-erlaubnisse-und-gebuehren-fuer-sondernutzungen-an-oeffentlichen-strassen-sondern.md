@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen - Sondernutzungssatzung
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2008-10-28 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sondernutzungssatzung2008-10-28.pdf
+- Datum: 2009-04-15 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/sondernutzungssatzung-2009-04-15.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -11,7 +11,7 @@
 Satzung der Stadt Köln über Erlaubnisse und Gebühren für Sondernutzungen
 an öffentlichen Straßen - Sondernutzungssatzung -
 vom 13. Februar 1998
-in der Fassung der 3. Satzung zur Änderung der Sondernutzungssatzung vom 28.10.2008
+in der Fassung der 4. Satzung zur Änderung der Sondernutzungssatzung vom 15. April 2009
 Der Rat hat in seiner Sitzung am 29.01.1998 aufgrund der §§ 18, 19 und 19a des Straßen- und Wegegesetzes des Landes Nordrhein-Westfalen (StrWG NW) in der Fassung der Bekanntmachung vom 23. September 1995 (GV. NW. 1995 S. 1028, 1996 S. 141 und 1996 S. 216), des § 8 Abs. 1 und 3 des Bundesfernstraßengesetzes (FStrG) in der Fassung der Bekanntmachung vom 19. April 1994 (BGBl. I S. 854) in Verbindung mit §§ 7 und 76 Absatz 1 der Gemeindeordnung für das Land NordrheinWestfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (GV. NW. S. 666/SGV. NW. 2023) - jeweils in der bei Erlass dieser Satzung gültigen Fassung diese Satzung beschlossen:
 §1 Sachlicher Geltungsbereich
 (1) Diese Satzung gilt für alle Gemeinde-, Kreisstraßen und sonstigen öffentlichen Straßen im Sinne des § 3 Abs. 5 StrWG NW sowie für die Ortsdurchfahrten im Zuge der Bundes- und Landesstraßen im Gebiet der Stadt Köln.
@@ -182,7 +182,7 @@ Jahreserlaubnis
 
 m2/Jahr
 
-16,50 - 76,00
+12,60 – 56,70
 
 6
 
@@ -379,10 +379,10 @@ Seite 8 von 9
 
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
-Köln, den 28.10.2008
+Köln, den 15.04.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 1998, Nr. 9, 2001, Nr. 56, 2003, Nr. 41, 2008, Nr. 48 -
+- ABl StK 1998, Nr. 9, 2001, Nr. 56, 2003, Nr. 41, 2008, Nr. 48, 2009, Nr. 18 -
 
 Seite 9 von 9
