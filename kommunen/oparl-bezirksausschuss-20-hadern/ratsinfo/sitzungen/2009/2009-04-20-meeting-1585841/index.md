@@ -1,0 +1,121 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-04-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1585841
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1585841
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Wohnanlage Terofalstr. 63
+- TOP 1.2.: Bolzplatz am Stiftsbogen 15 a
+- TOP 1.3.: Containerstandplatz Großhaderner Str. 46
+- TOP 1.4.: Regelung "Spielstraße" für die Straße Am Waldspitz
+- TOP 1.5.: Nisten von Aaskrähen in der Wohnanlage Stiftsbogen 144
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Budget
+- TOP 3.3.: Bericht des REGSAM-Beauftragten
+- TOP 3.4.: UA Wohnen, Bau und Umwelt
+- TOP 3.5.: UA Soziales und UA Kinder, Jugend, Schule, Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag des Kath. Pfarramts St. Canisius auf Gewährung eines Zuschusses in Höhe von 200,- ? (Direktorium, 18.03.09)
+- TOP 5.2.: Antrag des Gartenbauvereins München-Großhadern e.V. auf Gewährung eines Zuschusses in Höhe von 6.630,58 ? (Direktorium, 25.03.09)
+- TOP 5.3.: (E) Haderner Wochenmarkt in der Heiglhofstr.; Verlegung von zwei bis drei Marktständen Empfehlung Nr. 08 - 14 / E 00102 der Bürgerversammlung des Stadtbezirkes 20 - Hadern vom 30.09.2008 (Kommunalreferat, 23.03.09)
+- TOP 5.4.: Zuwendung aus dem Budget des BA 20, Antrag des Elternbeirats der Hauptschule Blumenauer Str. vom 26.11.08, Projekt "Gesunde Ernährung" von Januar bis März 2009, Verlängerung des Bewilligungszeitraumes (Direktorium, 03.04.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest in der Neufriedenheimer Str. am 05.07.09 (Kreisverwaltungsreferat, 12.03.09)
+- TOP 6.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Wastl-Witt-Str. 9 (Kreisverwaltungsreferat, 10.03.09)
+- TOP 6.3.: Erinnerungsverfahren: Waldesruhe 2 + 2 a (Baureferat, 24.03.09)
+- TOP 6.4.: Änderung der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen, Antrag BA 5 (Direktorium, 24.03.09)
+- TOP 6.5.: Zweckentfremdung von Wohnraum: - Sauerbruchstr. (Sozialreferat, 23.03.09)
+- TOP 6.6.: Veranstaltung in einer städt. Grünanlage, hier: Kasperles Märchenzelt vom 30.03. - 12.07.09 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 31.03.09)
+- TOP 6.7.: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BAs; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung, Antrag BA 2 (Direktorium, 27.03.09)
+- TOP 6.8.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes, Antrag BA 2 (Direktorium, 27.03.09)
+- TOP 6.9.: Erinnerungsverfahren: Fürstenrieder Str. 166 - 259 zwischen BAB A 96 und Waldfriedhofstr. (Baureferat, 31.03.09)
+- TOP 6.10.: Fürstenrieder Str. 190, Neubau einer Pension mit Tiefgarage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 06.04.09)
+- TOP 6.11.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009) (MVG, 03.04.09)
+- TOP 6.12.: Feuerwerk auf dem Parkplatz vor Gelbhofstr. 18 am 06.06.09 (Kreisverwaltungsreferat, 09.04.09)
+- TOP 6.13.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Blade Night vom 11.05. - 14.09.09, Start / Ziel: Am Bavariapark (Kreisverwaltungsreferat, 09.04.09)
+- TOP 6.14.: Veranstaltung auf Privatgrund, hier: Haderner Dorffest auf dem Max-Lebsche-Platz vom 08. - 24.05.09 (Kreisverwaltungsreferat, 15.04.09)
+- TOP 6.15.: Vollzug des Sprengstoffgesetzes, hier: Feuerwerk am 24.04.09 auf dem Parkplatz des Hotels Säntis, Waldfriedhofstr. 90 (Kreisverwaltungsreferat, 17.04.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Sonnenblumenstr. 5, 1 Lärche
+- TOP 7.2.: Leostr. 2, 1 Tanne
+- TOP 7.3.: Eichenstr. 41, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 33189
+- TOP 7.4.: Nothkaufstr. 2, 1 Lärche
+- TOP 7.5.: An der Rehwiese, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 33131
+- TOP 7.6.: Immastr. 16, 1 Kiefer
+- TOP 7.7.: Platanenstr. 31, gem. Baumbestandsplan Nr. 7041
+- TOP 7.8.: Krokusstr. 75, 3 Tannen, 3 Fichten und 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 1 Ahorn an der BAB Lindau nördlich (Baureferat, 10.03.09)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Waldwiesenstr.; Sichthaltverbot (Kreisverwaltungsreferat, 25.02.09)
+- TOP 8.2.: Weitreichende Mängel an den DSD-Containerinseln im Gebiet München West (AWM, 23.02.09)
+- TOP 8.3.: Weltkindertag 2009 im Stadtbezirk 16 (Ramersdorf-Perlach) (Sozialreferat, 05.03.09)
+- TOP 8.4.: Daten Kinderkrippen und Verlaufsdaten Kinderkrippen, Stichtag: 01.01.09 (Sozialreferat, 10.03.09 und 20.03.09)
+- TOP 8.5.: Baumaßnahmen der SWM, Stromprojekt Würmtalstr. (SWM, 05.03.09)
+- TOP 8.6.: Änderung des § 25 BA-Satzung (Direktorium, 11.03.09)
+- TOP 8.7.: Zweckentfremdung von Wohnraum: - Am Sommerfeld (Sozialreferat, 12.03.09) - Hohenklingenstr. (Sozialreferat, 17.03.09)
+- TOP 8.8.: Spielbuseinsätze im Stadtbezirk 20 (Spielen in der Stadt e.V., 17.03.09)
+- TOP 8.9.: Information der Bezirksausschüsse; Neue Bädereintrittspreise (SWM, 16.03.09)
+- TOP 8.10.: Budget der Bezirksausschüsse, Änderung und Ergänzung der Richtlinien (Direktorium, 11.03.09)
+- TOP 8.11.: Unveränderte Fortführung: - Gaststätte "Hofmann", Gräfelfinger Str. 119 (Kreisverwaltungsreferat, 30.03.09)
+- TOP 8.12.: Terofalstr., Sanierung der Fahrbahn zwischen Blumenauer Str. und Wastl-Witt-Str., voraussichtlicher Beginn: 20.04.09 (Baureferat, 08.04.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Aschenbecher in den U-Bahntoiletten (Kommunalreferat, 25.02.09)
+- TOP 9.2.: Verkehrsrechtliche Anordnung, hier: Heiglhofstr. 1; Kurzparkzone, Großhaderner Str. 4 - 6 a; Kurzparkzone; Antr.: "Erweiterung der Kurzparkzonen in der Heiglhof- / und Großhaderner Str." (Kreisverwaltungsreferat, 02.03.09)
+- TOP 9.3.: - Fenstersanierung der Westseite der Guardinischule, Antr.: 2575; - Bereitstellung von Mitteln aus dem Konjunkturpaket der Bundesregierung für die Sanierung der Grundschulen in Hadern, Antr.: 838 (Schul- und Kultusreferat, 06.03.09)
+- TOP 9.4.: Finanzmittel aus dem Programm "Aktive Stadt und Ortsteilzentren" für den Stadtbezirksteil "Blumenau" (Referat für Stadtplanung und Bauordnung, 03.03.09)
+- TOP 9.5.: Kurzparkzone vor der St. Kosmas Apotheke (Holzapfelkreuth) (Kreisverwaltungsreferat, 11.03.09)
+- TOP 9.6.: Sanierung des Teerbelags des Fuß- und Radfahrweges Haderner Steg entlang des Lärmschutzwalles, westlich der Willibaldstr. (Baureferat, 10.03.09)
+- TOP 9.7.: Umwandlung des Tennenplatzes an der Bezirkssportanlage Ludwig-Hunger-Str. in einen Kunstrasenplatz (Schul- und Kultusreferat, 05.03.09)
+- TOP 9.8.: Abfahrtszeiten der Buslinie 167 (MVG, 17.03.09)
+- TOP 9.9.: Sommerstockbahn Am Hedernfeld (Baureferat, 20.03.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Schwerpunkt Nahversorgung (REWE-Group, Penny-Markt Gesellschaft, 24.02.09)
+- TOP 11.2.: Jahresbericht 2008 des Stüps (Stüps, 18.03.09)
+- TOP 11.3.: Protokoll des Treffens des Oberbürgermeisters mit den BA-Vorsitzenden im November 2008 (Direktorium, 24.03.09)
+- TOP 11.4.: Einladung zum Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse in der Gleichstellungsstelle für Frauen am Dienstag, den 19.05.09 von 18.00 - 20.00 Uhr (Gleichstellungsstelle für Frauen)
+- TOP 11.5.: Jahresbericht 2008 des Behindertenbeirats (Behindertenbeirat der Landeshauptstadt München, 27.03.09)
+- TOP 11.6.: Einladung zur Eröffnung einer Außenstelle Streetwork in der Silberdistelstr. 51 (Sozialreferat, 08.04.09)
+- TOP 11.7.: Bundesweiter Wettbewerb "Stadtradeln - Unsere Stadt fährt Rad!", Dienstag, 05.05.09 um 10:30 Uhr im Verkehrszentrum des Deutschen Museums
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 18.03.2009: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München; Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (mit Einstufung der Fürstenrieder Str. 166 - 290, des Stiftsbogens und der Würmtalstr. in die Gebührenklasse III sowie der Blumenauer Str. 2 - 24 ger. und 3 - 11 unger., der Großhaderner Str., der Guardinistr., der Heiglhofstr., des Lorettoplatzes, der Sauerbruchstr. und der Senftenauerstr. 1 - 187 unger. und 142 - 170 ger. in die Gebührenklasse II) Sitzungsvorlagen-Nr. 08-14 / V 01266
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.02.2009: Stadt-Umland-Bahn (Das Planungsreferat soll in 1 Jahr berichten.) Sitzungsvorlagen-Nr. 08-14 / V 01572
+- TOP 12.2.: Beschluss des Bauausschusses vom 10.02.2009: Teilnahme an der Veranstaltungsreihe "Tunnelblicke" (Das Baureferat sollte teilnehmen.) Sitzungsvorlagen-Nr. 08-14 / V 01535
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 03.03.2009: Abriss und Neubau des Jugendtreffs Pfiffteen im 20. Stadtbezirk Hadern, Wolkerweg 15 (Kostenobergrenze 1.584.000,- ?) Träger: Kreisjugendring München-Stadt Sitzungsvorlagen-Nr. 08-14 / V 01671
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 24.03.2009: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ASZ Kleinhadern-Blumenau (Ansatz 207.101,- ?) und zur Altenwohnanlage Konrad-Dreher-Str. 19 - 23 (Ansatz 50.267,- ?) Sitzungsvorlagen-Nr. 08-14 / V 01699
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 24.03.2009: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale Sitzungsvorlagen-Nr. 08-14/ V 01672
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 24.03.2009: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere zum Kinderhaus Wolkerweg (Ansatz 198.148,- ?), zum "PfiffTEEN Treffpunkt für Jugendliche" (Ansatz 307.167,- ?), zum "Treff 21, Schule-Beruf e.V." (Ansatz 341.335,- ?) und zur "Nachbarschaft Neuhadern, Bewohnertreff" (Ansatz 98.518,- ?) Sitzungsvorlagen-Nr. 08-14 / V 01680
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 24.03.2009: Zuschussnehmerdatei 2009 Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere zur Blumenau (Ansatz 55.000,- ?), zur "Nachbarschaft Kleinhadern, Na klar!" (Ansatz 13.000,- ?) und zur "Wohnungsförderung Krokusstr. 73" der Firma "KOMPRO München Krokusstr. GmbH & Co. KG" (Ansatz 3.000,- ?) Sitzungsvorlagen-Nr. 08-14 / V 01685
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.2009: Bevölkerungsprognose der Bertelsmann Stiftung für München Sitzungsvorlagen-Nr. 08-14 / V 01869
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 24.03.2009: Realisierung einer viergruppigen Kinderkrippe Marchioninistr. 3 - 5, Neubau und Umbau (Kostenobergrenze 2.834.000,- ?) Sitzungsvorlagen-Nr. 08-14 / V 01746
+- TOP 12.7.: Beschluss des Bauausschusses vom 31.03.2009: Blühende Straßenränder Sitzungsvorlagen-Nr. 08-14 / V 01047
+- TOP 12.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.2009: Reale und virtuelle Stadtmodelle - Fortschreibung des Stadtmodells 1:500 - Einsatz virtueller Modelle im Planungsreferat - Virtuelles Modell - Bundesweiter Erfahrungsaustausch städtischer Modellwerkstätten Sitzungsvorlagen-Nr. 08-14 / V 01494
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.2009: Verbesserung der Schienenanbindung des Flughafens München (vertagt) Sitzungsvorlagen-Nr. 08-14 / V 01813
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 17.03.2009: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund Nutzung des Königsplatzes; Kultur-open-Air-Veranstaltungen (Der BA Hadern hat am 07.05.2008 "keine weiteren Anregungen" gegeben.) Sitzungsvorlagen-Nr. 08-14 / V 01815
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.2009: Veränderung der Poststandorte in München Sitzungsvorlagen-Nr. 08-14 / V 01585
+- TOP 12.2.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Bauausschusses und des Kreisverwaltungsausschusses vom 01.04.2009: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" Sitzungsvorlagen-Nr. 08-14 / V 01913
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
+- TOP 9.10.: Kunst am Bau am U-Bahnhof Filserhochhaus, Hinweisschild auf den Urheber des Reliefs (MVG, 24.03.09)
