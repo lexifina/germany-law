@@ -1,0 +1,162 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-04-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620991
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620991
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Pädagogische Aktion/Spielen in der Stadt e.V. (Az.: 04/09 ? 3.4.1): Zuschuss in Höhe von 2.000 ? für ein Tanz- und Theaterfestival vom 17.-24.07.09
+- TOP 2.3.2.: Antrag Lilalu e.V. (Az.: 02/09 - 3.4.7a): Zuschuss in Höhe von 3.000 ? für das Spielprogramm vom 14.-30.08.09
+- TOP 2.3.3.: Antrag Lilalu e.V. (Az.: 02/09 - 3.4.7b): Zuschuss in Höhe von 3.000 ? für das Musikprogramm vom 14.-30.08.09
+- TOP 2.3.4.: Antrag Geschichtswerkstatt Neuhausen e.V. (Az.: 04/09 - 3.5.1): Zuschuss in Höhe von 1.000 ? für die Herausgabe des Kalenders 2010
+- TOP 2.3.5.: Antrag Bang Bang ! Concerts (Az.: 04/09 - 3.5.2): Zuschuss in Höhe von 2.800 ? für das Umsonst und Draussen Open Air am 16.08.09
+- TOP 2.3.6.: Antrag Verein der Freunde Neuhausens e.V. (Az.: 04/09 - 3.5.3): Zuschuss in Höhe von 2.800 ? für Maibaum und Maifeier am 02.05.09
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.2.: Beschlussvorlage KVR (Az.: 04/09 - 4.1): Genehmigung einer Freischankfläche für "Orient-Imbiss", Dom-Pedro-Str. 16
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 04/09 - 4.2): Genehmigung einer Freischankfläche für "Kochwerkstatt", Schlörstr. 11
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürger: Gemeinsamer Fuß-/Radweg wegen Baustelle an der Arnulfstraße zwischen Donnersberger- und Hackerbrücke
+- TOP 3.2.: Bürger: Absperrgitter für Straßenbahnhaltestelle Schloss Nymphenburg
+- TOP 3.3.: Bürger: Gefahrenstelle bei den Trainingsplätzen des ESV München in der Margarethe-Danzi-Straße
+- TOP 3.4.: Bürger: Unterschiedliche Verkehrszeichen für Fußgänger/Radfahrer an der Baustelle Nymphenburger-/Volkartstraße
+- TOP 3.5.: Bürger: Parksituation Brunhilden-, Kemnaten-, Walhallastraße
+- TOP 3.6.: Bürger: Verkehrsführung Gaßner-/Wotanstraße
+- TOP 3.7.: St. Theresia und Christuskirche: Antrag auf Verlängerung der Buslinie 132 zum Olympiapark West
+- TOP 3.8.: Direktorium: Änderung der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen
+- TOP 3.9.: Beschlussvorlage Planungsreferat: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 3.10.: KVR: Radwegverschwenkung auf die Fahrbahn in der Nymphenburger Straße zwischen Einmündung Ruffinistraße und Romanstraße
+- TOP 3.11.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Margit-Schramm-Str. 21
+- TOP 3.12.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Blutenburgstr. 55
+- TOP 3.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Beschlussvollzugskontrolle im Zeitraum 01.07.-31.12.08
+- TOP 3.14.: Stadtwerke: Standortwechsel eines Weichensteuerschrankes / BA-Schaukastens am Romanplatz
+- TOP 3.15.: Baumaßnahmen der Stadtwerke März 2009
+- TOP 3.16.: Baumaßnahmen der Stadtwerke; hier: Fernwärmeprojekt Wotanstraße
+- TOP 3.17.: Referat für Gesundheit und Umwelt: Ausnahmezulassung für den Einsatz von Geräten und Maschinen am 12.04., 13.04. und 19.04.09 in der Leonrodstr. 7 bis Rotkreuzplatz und Nymphenburger Str. 167-187 wegen Austausch der Straßenbahngleise der Linie 12
+- TOP 3.18.: KVR: Entfernung des Radstreifens in der Nymphenburger Straße zwischen Gerner Brücke bis zur Romanstraße (Schreiben BA 9 vom 17.02.09)
+- TOP 3.19.: KVR: Gudrunstraße, Haltverbot für Müllabfuhr
+- TOP 3.20.: KVR: Kurzparkregelung Renatastraße Ostseite zwischen Roman- und Lachnerstraße
+- TOP 3.21.: KVR: Anordnung absolutes Haltverbot in der Karl-Schurz-Straße zwischen Isenstein- und Aldrianstraße
+- TOP 3.23.: KVR: Bürgeranliegen Ampelschaltung Notburgastraße (Wiedervorlage aus der Sitzung vom 17.02.09)
+- TOP 3.24.: Baureferat: Bürgeranliegen Leonrodstraße / Kennzeichnung Feuerwehrzufahrt und Wegbeleuchtung (Schreiben BA 9 vom 16.12.08)
+- TOP 3.25.: KVR: Öffnung der Hanebergstraße für den gegenläufigen Radverkehr
+- TOP 3.26.: Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 01.04.09: Projektfortschrifttsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 3.27.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 01.04.09: Parkraummanagement in München - Ergebnisbericht Wirtschaftlichkeitsuntersuchung
+- TOP 3.28.: Radweg am Rotkreuzplatz / weitere Vorgehensweise
+- TOP 3.29.: Planungsreferat: Bau der Umweltverbundröhre und Umbau des Bahnhofs Laim (Schreiben BA 9 vom 17.02.09)
+- TOP 3.30.: Laimer Unterführung: Ortstermin mit dem BA 25 Laim am 20.04.09 um 17 Uhr, Treffpunkt Aufgang S-Bahnhof
+- TOP 3.31.: S-Bahn-Expertenhearing am 25.03.09: Pressemitteilungen "OB Udes Machtwort näher betrachtet" und "Widerlegung von Udes 7 Thesen zur zweiten Stammstrecke"
+- TOP 3.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.09: Verbesserung der Schienenanbindung des Flughafens München, Sach- und Planungsstand
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 02.03.-08.03., 09.03.-15.03., 16.03.-22.03. und 23.03.-29.03.09
+- TOP 3.3.: Bauvorhaben Romanstr. 56: Neubau eines Doppelhauses mit 2 Garagen, hier: Baumfällungen
+- TOP 3.4.: Gewofag: Modernisierungsmaßnahmen Apostelblöcke
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Reale und virtuelle Stadtmodelle
+- TOP 3.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Bevölkerungsprognose der Bertelsmann Stiftung für München
+- TOP 3.7.: Anforderungen von Bauvorhaben im März
+- TOP 3.8.: Bauvorhaben Tintorettostr. 16: Neubau eines Einfamilienhauses mit Doppelgarage
+- TOP 3.9.: Bauvorhaben Aiblingerstr. 9: Erweiterung (Anbau) und Umbau eines Einfamilienhauses mit Garage sowie Anbau eines Schwimmbads
+- TOP 3.11.: Bauvorhaben Pegnitzstr. 5: Nutzungsänderung: Büro zu Kindergarten
+- TOP 3.12.: =&gt; dazu: Bürgeranliegen
+- TOP 3.13.: Bauvorhaben Wilhelm-Hale-Straße: Neubau einer Wohnanlage mit Tiefgarage (WA 19), hier: Baumfällungen
+- TOP 3.14.: Bauvorhaben Fafnerstr. 29: Erweiterung der Garage mit Unterkellerung und Dachraum sowie Einbau einer Dachgaube; hier: Baumfällungen
+- TOP 3.15.: Planungsreferat: Bauvorhaben Wotanstraße, Neubau eines Mehrfamilienhauses mit Tiefgarage (Schreiben BA 9 vom 16.12.08)
+- TOP 3.16.: Bauvorhaben Dom-Pedro-Str. 16: Neubau eines Wohngebäudes im Innenhof auf vorhandener Tiefgarage
+- TOP 3.18.: Bürger: Baumfällungen in Zusammenhang mit Bauvorhaben Dall'Armistr. 73
+- TOP 3.19.: Bauvorhaben Zuccalistr. 16: Umbau, Modernisierung und Erweiterung des ehemaligen Jesuitenklosters in ein Wohngebäude sowie Neubau einer Tiefgarage,Tektur
+- TOP 3.20.: Trambahnhäusl am Romanplatz 7 / Sachstand
+- TOP 3.21.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Zentrale Bahnflächen Hauptbahnhof-Laim-Pasing, Bebauungsplan mit Grünordnung Nr. 1926a Bereich Birketweg; Ergebnis der städtebaulichen und landschaftsplanerischen Realisierungswettbewerbe für die Baufelder MK 3 und 4 sowie WA 14
+- TOP 3.22.: Direktorium: Bebauung des Heilig-Geist-Geländes (Schreiben BA 9 vom 17.02.09)
+- TOP 3.23.: Bürger: Trambahnhaus in der Ackermannstr. 88
+- TOP 3.24.: Bauvorhaben Hirschgarten 1: Neustrukturierung des Betriebshofes und Küchentrakts, Errichtung von Bedienstetenunterkünften für 9 Personen, Vorbescheid
+- TOP 3.25.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Donnersbergerstraße
+- TOP 3.26.: Sozialreferat: Zweckentfremdungvon Wohnraum; hier: Romanstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Heideckstr. 24-26: Fällung von 1 Ahorn
+- TOP 3.2.: Nibelungenstr. 17: Fällung von 2 Weißdorn
+- TOP 3.3.: Washingtonstr. 3-13: Fällung von 1 Sommerlinde
+- TOP 3.4.: Winthirplatz 4: Fällung von 1 Zierkirsche
+- TOP 3.5.: Reinmarplatz 12: Fällung von 1 Eschenahorn
+- TOP 3.6.: Wintrichring 89: Fällung von 2 Kiefern, 4 Fichten und 4 Birken
+- TOP 3.7.: Hirschgartenallee 18: Fällung von 3 Ahorn
+- TOP 3.8.: Kemnatenstr. 41: Baumveränderung an 1 Spitzahorn und 1 Eberesche
+- TOP 3.9.: Beschluss des Bauausschusses vom 31.03.09: Blühende Straßenränder
+- TOP 3.10.: Planungsreferat: Fällungsgenehmigung Pegnitzstr. 11
+- TOP 3.11.: Bürger: Ersatzpflanzung von Bäumen in der Neustätterstraße
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag Pädagogische Aktion/Spielen in der Stadt e.V.: Zuschuss in Höhe von 2.000 ? für ein Tanz- und Theaterfestival vom 17.-24.07.09
+- TOP 3.2.: Bürger: Sozialprojekt Nymphenburg Süd
+- TOP 3.3.: Grundschule Hirschbergstraße: Gründung einer Schulbibliothek
+- TOP 3.4.: KVR: Sport und Picknick der Agape-Jugend an jeweils den letzten Samstagen der Monate Mai-September 09 im Hirschgarten
+- TOP 3.5.: KVR: Veranstaltungen des Mütter-Väterzentrums Neuhausen: Spielkistl von Mobilspiel jeweils Montag-Freitag von 14-19 Uhr für die Zeit von 20.04.-31.10.09: a) am Spielplatz Thorwaldsen-/Lazarettstraße b) am Spielplatz Wilderich-Lang-Straße/Posseltplatz
+- TOP 3.6.: Zentrale Datenerfassung für sämtliche Kindertagesstätten der Stadt München
+- TOP 3.7.: Vorsichts- und Sicherheitsmaßnahmen in der Tagesbetreuung (Tagesmütter- und väter)
+- TOP 3.8.: Sozialreferat: Statistikblatt Kinderbetreuungsplätze
+- TOP 3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.10.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 24.03.09: Zuschussnehmerdatei 2009, Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" a) des Amtes für Soziale Sicherung b) des Stadtjugendamtes c) des Sozialreferates/Zentrale d) des Amtes für Wohnen und Migration
+- TOP 3.11.: Stadtwerke: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 3.12.: Protokoll des Arbeitskreises Spielplatzpaten der Arbeitsgemeinschaft Spiellandschaft Stadt vom 18.03.09
+- TOP 3.14.: Schulreferat: Hauptschule am Winthirplatz - ausstehende Bauleistungen Ganztagsschule (Schreiben BA 9 vom 17.03.09)
+- TOP 3.15.: =&gt; dazu: Schreiben Elternbeirat =&gt; dazu: Schreiben Schulleitung
+- TOP 3.16.: Schulreferat: Gewaltprävention im Kindergarten (Schreiben BA 9 vom 17.02.09)
+- TOP 3.17.: Spielen in der Stadt e.V.: Spielbuseinsätze im 9. Stadtbezirk
+- TOP 3.18.: Antrag Lilalu e.V.: Zuschuss in Höhe von 3.000 ? für das Spielprogramm vom 14.-30.08.09
+- TOP 3.19.: Antrag Lilalu e.V.: Zuschuss in Höhe von 3.000 ? für das Musikprogramm vom 14.-30.08.09
+- TOP 3.20.: Direktorium: 11. Lilalu Festival 2009, Befreiung von Gebühren für das Theaterfestivalgelände (Schreiben BA 9 vom 17.02.09)
+- TOP 3.21.: Lilalu e.V.: Mädchenfußball in Neuhausen-Nymphenburg / Gern
+- TOP 3.22.: Austragung Weltkindertag 2009
+- TOP 3.24.: Schulreferat: Präsentation der Veranstaltung Leitlinie Bildung vom 29.01.09
+- TOP 3.25.: Sozialreferat: Beschluss des Kinder- und Jugendhilfeausschusses vom 02.12.08: Sicherung und Ausweitung zielgruppenspezifischer Erziehungsberatung; hier: zu Punkt 3: Pädagogisch-psychologische Informations- und Beratungsstelle für Schüler/innen, Eltern und Lehrer/innen (PIB) (Schreiben BA 9 vom 16.12.08)
+- TOP 3.26.: Sozialreferat: Städtischer Newsletter auch für nichtstädtische Kindereinrichtungen (Schreiben BA 9 vom 16.12.08)
+- TOP 3.27.: Bürger: Genehmigung eines Kindergartens in der Pegnitzstr. 5 (Verweisung aus der Sitzung vom 17.03.09)
+- TOP 3.28.: =&gt; dazu: Konzept "International Preschool Nymphenburg"
+- TOP 3.29.: Oberbürgermeister: Wohnwerk München (Schreiben BA 9 vom 16.09.08)
+- TOP 3.30.: MdL Joachim Unterländer: Politische Unterstützung für das Wohnwerk München e.V.
+- TOP 3.31.: Behindertenbeirat München: Erholungsgelände an der Taxisstraße
+- TOP 3.32.: Bayerisches Staatsministerium für Wissenschaft, Forschung und Kunst: Sofortige Streichung der Studiengebühren (Antrag BA 9 vom 20.01.09)
+- TOP 3.33.: Bürger: Groffanlage / Stuberpark; Lärmbelästigung
+- TOP 3.34.: Beschluss des Schul- und Sportausschusses vom 25.03.09: Neubau einer 5-zügigen Grundschule mit 8-gruppigem Tagesheim und 4-gruppiger Mittagsbetreuung im Siedlungsgebiet Nymphenburg Süd
+- TOP 3.35.: Sozialreferat: Bauprogramm der Münchenstift GmbH: Generalsanierung des Münchner Bürgerheims (Schreiben BA 9 vom 17.02.09)
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Geschichtswerkstatt Neuhausen e.V.: Zuschuss in Höhe von 1.000 ? für die Herausgabe des Kalenders 2010
+- TOP 3.2.: Antrag Bang Bang ! Concerts: Zuschuss in Höhe von 2.800 ? für das Umsonst und Draussen Open Air am 16.08.09
+- TOP 3.3.: Antrag Verein der Freunde Neuhausens e.V.: Zuschuss in Höhe von 2.800 ? für Maibaum und Maifeier am 02.05.09
+- TOP 3.4.: Bayerisches Landesamt für Denkmalpflege: Tag des offenen Denkmals am 13.09.09
+- TOP 3.5.: Lilalu: Verfügungstage Theaterzelt "Das Schloss"
+- TOP 3.6.: Kulturreferat: Zwischennutzung der Stadtbibliothek Nymphenburg für eine kulturelle Nutzung (Antrag BA9 Nr. 735 vom 16.12.08)
+- TOP 3.7.: ICI forum: Verwendungsnachweis aus dem Budget des BA 9
+- TOP 3.8.: Direktorium: Gedenktafel für Hans Beimler (Antrag BA 9 Nr. 634 vom 18.11.08)
+- TOP 3.9.: Programmraster Stadtteilwoche Neuhausen-Nymphenburg vom 17.-24.07.09
+- TOP 3.10.: Direktorium: Wandgestaltung Donnersbergerbrücke (Schreiben BA 9 vom 17.03.09)
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für "Orient-Imbiss", Dom-Pedro-Str. 16
+- TOP 4.2.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für "Kochwerkstatt", Schlörstr. 11
+- TOP 4.3.: Direktorium: Änderung von § 25 der BA-Satzung
+- TOP 4.4.: Direktorium: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Umlaufsperren
+- TOP 4.5.: Direktorium: Entscheidungsrecht für die Bezirksausschüsse bei der Aufstellung von Werbetafeln und Infosäulen
+- TOP 4.6.: Direktorium: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien
+- TOP 4.7.: KVR: Sommerfest "Fete d'été pur petits et grands" am 04.07.09 in der Grünanlage Lazarett-/Thorwaldsenstraße
+- TOP 4.8.: KVR: Pächterwechsel a) "Indisches Restaurant Tulsi", Blutenburgstr. 15 b) "Kiosk Stelzer", Leonrodstr. 65
+- TOP 4.9.: KVR: Drehgenehmigungen a) Projekt der Hochschule für Film und Fernsehen am 19.03.09 in der Ysenburg-/Frundsbergstraße b) "K 11 - Kommmissare im Einsatz" am 24.03.09 am Platz der Freiheit c) "Versteckte Kamera" am 30.03.09 am Rotkreuzplatz
+- TOP 4.10.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Veränderung der Poststandorte in München
+- TOP 4.11.: KVR: Absage Marktveranstaltung Französischer Markt am 27.04.09 auf dem Rotkreuzplatz
+- TOP 4.12.: Direktorium: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes
+- TOP 4.13.: Beschluss des Kreisverwaltungsausschusses vom 17.03.09 und Beschluss der Vollversammlung des Stadtrats vom 18.03.09: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LHSt München
+- TOP 4.14.: Beschluss des Kreisverwaltungsausschusses vom 17.03.09: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 5: Verschiedenes
+- TOP 3.23.: Elternbeirat Kindertagesstätte St. Theresia: Hanebergstraße: Derzeitige Baustellensituation und zukünftiges Straßen- und Verkehrskonzept (Verweisung aus der Sitzung vom 17.03.09)
+- TOP 3.13.: Direktorium: Änderung des Katalogs der Entscheidung, Anhörung und Unterrichtung der BAs, hier: Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung
+- TOP 3.17.: =&gt; dazu: Baumfällungen
