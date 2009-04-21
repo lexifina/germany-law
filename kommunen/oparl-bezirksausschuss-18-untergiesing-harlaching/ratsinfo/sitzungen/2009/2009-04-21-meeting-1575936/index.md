@@ -1,0 +1,118 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-04-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1575936
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1575936
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Protokoll der Sitzung vom 17.02.2009 und Protokoll der Sitzung vom 17.03.2009
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Parkplatzsituation Kinderwelt Harlaching; Schreiben der Elternbeiratsvorsitzenden vom 12.03.2009
+- TOP 2.2.: Straßenzustand Bereich Menterschwaige; Bürgerschreiben vom 26.03.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Zeitbank e.V. Honorarkraft für eine Bestandsanalyse der sozialen Einrichtungen in Untergiesing/Harlaching von Mai - September 2009 - <div>vertagt</div>
+- TOP 3.2.: AntragstellerIn: Maibaumverein Menterschwaige e.V., für die Maßnahme: Maifeier vom 01. - 03.05.2009; Antragssumme: 3.228,70 ?; Beschlussvorlage des Direktoriums vom 23.03.2009
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Bürgervereinigung Maibaum-Untergiesing e.V. Maibaumaufstellung am 01.05.2009
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München; Sitzungsvorlage Nr. 08-14 / V 01793; Beschlussvorlage des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses, Kreisverwaltungsausschusses und Umweltschutzausschusses vom 11.03.2009 (VB) und Ergänzung zum Schreiben vom 05.03.09; Zuleitung des Referates für Stadtplanung u. Bauordnung mit der Bitte um Stellungnahme bis 03.04.09 (vertagt aus der Sitzung vom 17.036.2009)
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 03.12.2007 über Standortgenehmigung für Parkscheinautomaten - Lizenzgebiet Untergiesing - Lizenzgebiet Schyrenbad Beschuss des BA 18 vom 21.04.2009; Zuleitung des Baureferats-Tiefbau
+- TOP 3.1.: zügige Realsierung des S-Bahn-Südrings auf Grundlage der Planungen des Büros Vieregg-Rössler
+- TOP 3.2.: Realisierung des S-Bahn-Südrings auf Grundlage der Planungen des Büros Vieregg-Rössler - <div>nach Antrag</div>
+- TOP 3.3.: Umrüstung der Signalanlage an der Kreuzung Seyboth-/Theodolindenstraße von einer Bedarfsanlage zu einer Anlage mit vollautomatischer Phasenschaltung - <div>Verweisung an Fachreferat mit der Bitte um Prüfung </div>
+- TOP 3.1.: Änderung der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen; BA-Antrags-Nr. 08-14 / B 00892 des BA 05 - Au-Haidhausen vom 18.02.09; Az.: D-II-BA 1150/100-09/4; Schreiben des Direktoriums vom 24.03.09 mit der Bitte um Stellungnahme
+- TOP 3.1.: Verbesserung der Schienenanbindung des Flughafens München a) Sach- und Planungsstand, weiteres Vorgehen - MünchenAirportExpress (MExpress) - Gutachten zur Flughafenanbindung München - Flughafen-Express-Light (FEL) auf der Trasse der S1 - Erdinger Ringschluss b) Anträge Sitzungsvorlagen Nr. 08-14 / V 01813 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.2009 (VB)
+- TOP 3.2.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Altersheimerstraße 1; Mitteilung des KVR
+- TOP 3.3.: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"; Sitzungsvorlagen Nr. 08-14 / V 01913; Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 01.04.2009
+- TOP 3.4.: Parkraummanagement in München - Sektor III (Teilbereiche der Stadtbezirke 4, 6, 12, 13 und 18); Sitzungsvorlagen Nr. 08-14/V 01911; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses und Bauausschusses vom 01.04.2009 (VB)
+- TOP 3.5.: Parkraummanagement in München - Ergebnisbericht Wirtschaftlichkeitsuntersuchung; Sitzungsvorlagen Nr. 08-14 / V 01912; Beschluss des gemeinsamen Ausschusses für Stadtplanung u. Bauordnung, Bauausschusses und Kreisverwaltungsausschusses vom 01.04.2009 (SB)
+- TOP 3.3.3: UA Umwelt
+- TOP 1: (E) Überprüfung der Ursachen von Chemieabgasen im Umfeld der Tegernseer Landstraße in Höhe Waltramstraße (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 00142 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 23.10.2008 - <div>so beschlossen</div>
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Blühende Straßenränder; Antrag Nr. 08-14 / A 00136 der Stadtratsfraktion DIE GRÜNEN/RL vom 08.07.2008; Sit zungsvorlage Nr. 08-14 / V 01047; Beschluss des Bauausschusses vom 31.03.2009 (SB)
+- TOP 1.2.: Mitteilungen der Unteren Naturschutzbehörde zum Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen in der Lindenstraße; Bescheid vom 31.03.09
+- TOP 1.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / - bestandteil; Unterrichtung über das Fällen von Gefahrenbäumen; Mitteilung des Baureferats-Gartenbau vom 17.03.09
+- TOP 1.3.4: UA Soziales
+- TOP 1.1.: Erhalt des Städt. Stadions an der Grünwalder Straße - <div>nach Antrag</div>
+- TOP 1.1.: Unterstützung des Schulobstprogrammes der Europäischen Union; Antrag Nr. 08-14 / B 00802 vom 20.01.09; Antwortschreiben des Schul- u. Kultusreferats vom 20.02.09 (neutrale Erledigung)
+- TOP 1.2.: Schulwegkostenfreiheit - Unterstützung kinderreicher Familien? Bürgeranliegen aus der Sitzung vom 20.01.09; Schreiben des BA 18 vom 28.01.09; Antwortschreiben des Schul- und Kultusreferats vom 27.02.09 (negative Erledigung)
+- TOP 1.3.: Spielbusse im BA 18; E-Mail des Vereins PA / Spielen in der Stadt e.V. vom 17.03.2009
+- TOP 1.1.: Weltkindertag 2009 im Stadtbezirk 16 (Ramersdorf-Perlach); Schreiben des Sozialreferats vom 05.03.2009
+- TOP 1.2.: Zuschussnehmerdatei 2009; Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" 3.4.6.2.1 - des Sozialreferates / Zentrale; Sitzungsvorlage Nr. 08-14 / V 01672 3.4.6.2.2 - des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 01699 3.4.6.2.3 - des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 01680 3.4.6.2.4 - des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 01685 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 24.03.09 (SB)
+- TOP 1.3.: Kinderbetreuungsplätze in der Landeshauptstadt München; Stadtikstikblatt des Sozialreferates; Stand: 01.01.2009
+- TOP 1.4.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Wunderhornstraße 9 vom 12.03.2009
+- TOP 1.3.5: UA Bau und Planung
+- TOP 1.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 1.1.: Anwesen in der Naupliastraße; Anhörung vom 03.02.09 (vertagt aus den Sitzungen vom 17.02.09 und 17.03.09)
+- TOP 1.3.5.4.2: Baumbestandspläne
+- TOP 1.1.: Anwesen im Schilcherweg; Anhörung vom 06.03.09
+- TOP 1.2.: Anwesen in der Rabenkopfstraße; Anhörung vom 04.03.09 (vertagt aus der Sitzung vom 17.03.09)
+- TOP 1.3.: Anwesen in der Meichelbeckstraße; Anhörung vom 31.03.09
+- TOP 1.1.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München; Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München; Freischankflächenregelung für sogenannte Ladenlokale (kein Alkoholausschank); Antrag Nr. 02-08 / A 03696; Verbot von Gas-Heizstrahlern auf öffentlichem Grund; Antrag Nr. 02-08 / A 04054; Platz für Fußgänger; Werbeaufsteller; Antrag Nr. 08-14 / A 00148; Das Aufstellen von sogenannten Dreieckswerbeständern u. Radlständern mit Firmenwerbung vor Geschäften wird nicht verboten; Antrag Nr. 08-14 / A 00202; Fahrradabstellen 5 - Mehr Qualität bei mobilen Fahrradständern; Antrag Nr. 08-14 / A 00242; Duldung mobiler Werbeanlagen; Empfehlung Nr. 02-08 / E 00720; Verbot von Heizpilzen auf dem Stadtgebiet (Ziffer 3 des Antrages); Empfehlung Nr. 02-08 / E 01026; Verbot von Heizpilzen auf Freischankflächen; Empfehlung Nr. 08-14 / E 0006; Freischankflächen; Empfehlung Nr. 08-14 / E 00177; Konzept für Sondernutzungen in der Fußgängerzone; Bitte aus dem Bauausschuss vom 11.12.2007; Beschluss des Kreisverwaltungsausschusses vom 17.03.2009 (VB); Sitzungsvorlage Nr. 08-14 / V 01266; zu TOP 3.5.6.1 Neufassung vom 17.03.2009
+- TOP 1.2.: Baufälle im 18. Stadtbezirk
+- TOP 1.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen in der Klobensteiner Str.; Unterrichtung des Sozialreferats vom 02.03.09 3.5.6.3.2 Anwesen in der Lindenstraße; Unterrichtung des Sozialreferats vom 12.03.09 3.5.6.3.3 Anwesen in der Königswarterstraße; Unterrichtung des Sozialreferats vom 18.03.09 3.5.6.3.4 Anwesen in der Gabriel-Max-Straße; Unterrichtung des Sozialreferats vom 10.03.09
+- TOP 1.4.: Mitteilung über ein Grundstücksgeschäft; hier: Erwerb von Flächen, Flst. 12875/134; Mitteilung vom 23.02.2009
+- TOP 1.5.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.5.1 Kleingaststätte "Bistro Lounge", Pilgersheimer Straße; Mitteilung vom 13.03.09
+- TOP 1.6.: Reale und virtuelle Stadtmodelle - Fortschreibung des Stadtmodells 1:500 Sachstandsbericht - Konzept - Finanzierung - Einsatz virtueller Modelle im Planungsreferat Sachstandsbericht und weiteres Vorgehen - Virtuelles Modell Antrag Nr. 02-08/A 02022 der FDP vom 14.12.04 - Bundesweiter Erfahrungsaustausch städtischer Modellwerkstätten Sitzungsvorlagen Nr. 08-14/V 01494; Beschuss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09 (SB)
+- TOP 1.7.: Instandsetzung der Stützmauer / Hangsicherung am Harlachinger Berg im 18. Stadtbezirk Untergiesing-Harlaching; Projektkosten (Ausführungskosten): 770.000 ?; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 01927; Beschluss des Bauausschusses vom 31.03.2009 (SB)
+- TOP 1.8.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung u. Bauordnung u. der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2008 - 31.12.2008; Sitzungsvorlagen Nr. 08-14 / V 01941; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 01.04.2009 (Ref. f. Stadtpl. u. Bauordnung)
+- TOP 1.3.6: UA Kultur und Veranstaltungen
+- TOP 1.1.: Aktion "wanderkino. der temporäre Filmpalast" der Gruppe "die urbanauten"; Antrag der Fraktion Bündnis 90/DIE GRÜNEN im BA 18 vom 21.04.2009
+- TOP 1.1.: Oberbiberger Straße (Wiese neben Münchner-Kindl-Heim); Sommerfest KIGA "Harlachinger Kinderwelt" am 11.07.2009; Anhörung des KVR vom 17.03.09 mit der Bitte um Stellungnahme bis 28.04.09
+- TOP 1.1.: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichem Verkehrsgrund; Nutzung des Königsplatzes; Kultur-open-Air-Veranstaltungen; Renaissance des öffentlichen Raumes III; Straßenfeste leicht gemacht; Antrag Nr. 02-08 / A 04226 der Fraktion BÜNDNIS 90/DIE GRÜNEN/Rosa Liste vom 07.02.08; Sitzungsvorlage Nr. 08-14 / V 01815; Beschluss des Kreisverwaltungsausschusses vom 17.03.09 (VB)
+- TOP 1.2.: Kunst im öffentlichen Raum; Vollzug des Bayerischen Straßen- und Wegegesetzes; Antrag auf Aufstellung einer Skulptur auf dem Hans-Mielich-Platz vom 07.05.09 bis 31.08.09; Zuleitung des Baureferats vom 31.03.09 mit der Bitte um Kenntnisnahme
+- TOP 1.1.: Tag des offenen Denkmals am Sonntag, 13. September 2009; Informationen und Meldebogen; Schreiben des Bayerischen Landesamtes für Denkmalpflege vom 20.03.2009
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung des § 25 BA-Satzung; Az.: D-II-BA; Mitteilung des Direktoriums vom 11.03.2009
+- TOP 4.2.: Information der Bezirksausschüsse; Neue Bädereintrittspreise; Schreiben der Stadtwerke München GmbH vom 16.03.2009
+- TOP 4.3.: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien; Entwurf der Vorlage für die Bezirksausschuss-Satzungskommission am 23.04.2009; Zuleitung des Direktoriums vom 11.03.2009
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Veränderung der Poststandorte in München; Sitzungsvorlagen Nr. 08-14/V 01585; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.2009
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 1.3.6.1: Bericht
+- TOP 1.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 1.3.6.3: Anträge
+- TOP 1.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 1.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 1.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 1.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
