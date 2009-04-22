@@ -1,0 +1,132 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-04-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586528
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586528
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Versorgungslage am Westkreuz (UA Planung, Umwelt, Bau und Verkehr)
+- TOP 2.2.: Verkehrssituation auf dem Schubinweg mit Wichnantstraße (UA Planung,Umwelt, Bau, Verkehr)
+- TOP 2.3.: Verkehrsplanung der Gemeinde Gräfelfing - Leitung des Verkehrs aus dem westlichen Bereich der Bahnlinie München-Mittenwald über die Vogler- und Paosostraße (UA Planung,Umwelt, Bau und Verkehr)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Radolfzeller Str. 17 - 25, 1 Laubbaum - Aubing-Ost-Str. 19, 1 Birke - Bodenseestr. 194, 1 Fichte - Mainaustr. 31-35, 1 Birke und 3 Linden - Wiesenthauer Str. 10, 2 Walnuss-Bäume - Schussenrieder Str. 32, 1 Birke - Ubostr. 41, 1 Ahorn - Ubostr. 50, 1 Sommerlinde
+- TOP 3.2.: - Biburger Str. 28, Fällungsantrag vom 12.02.09 - Kravogelstr. 11, Fällungsantrag vom 22.03.09 - Roggensteiner Weg 9, Fällungsantrag vom 04.12.08
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Zustand der Umgebung S-Bahnhof Aubing; hier Lagerhalle Georg-Böhm-Straße
+- TOP 4.2.: Bau der Verbindungsspange zwischen Bergsonstraße und Kronwinkler Straße
+- TOP 4.3.: Errichtung eines Badebusses von der S-Bahnstation Lochhausen zur Langwieder Seenplatte
+- TOP 4.4.: Erstellung einer Urnenmauer und Sanierung der Parkplätze am Aubinger Friedhof
+- TOP 4.5.: Eindeutige Verkehrsregelung der Mundesgasse
+- TOP 4.6.: Errichtung von Buswartehäuschen an der Bushaltestelle Pirolstraße der Buslinie 830
+- TOP 4.7.: Namens- und Begrifferläuterungen an der Straßenbeschilderung im 22. Stadtbezirk
+- TOP 4.8.: Aubing-Ost-Str. 66 - Aufnahme in die Denkmalschutzliste
+- TOP 4.9.: 1. Sicherung der Bike und Ride - Flächen am Aubinger S-Bahnhof 2. Ausweitung der Fahrradstellplätze
+- TOP 4.10.: Übernahme der Kosten für Zauberer oder Kindertheater zum Tag der Familie am 15.05.09
+- TOP 4.11.: Kostenrahmen für BA-Empfang 2009
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.07 über die Projektplanung Projektname: Harburger Str., Schr. Baureferat vom 25.03.09 (UA Planung)
+- TOP 5.2.: Antrag des ESV Neuaubing, Abt. Handball auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 437,53 ?, Schr. Direktorium vom 23.03.09 (UA Budget)
+- TOP 5.3.: Antrag der ESV-Sportfreunde München-Neuaubing e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 500 ?, Schr. Direktorium vom 25.03.09 (UA Budget)
+- TOP 5.4.: Erstmalige Herstellung: Kastelburgstraße zwischen Mariabrunner Straße und Kronwinkler Straße im 22. Stadtbezirk, Schr. Baureferat vom 02.04.09 (UA Planung)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf Privatgrund: Kaninchenausstellung mit Sommerfest in der Vereinsanlage Reußensteinstr. 14 vom 04. - 05.07.2009, Anhörung des KVR vom 14.04.09
+- TOP 6.1.: Erhalt des ehemaligen Zwangsarbeiterlagers in der Ehrenbürgstr. 9, Schr. Kulturreferat vom 11.03.09
+- TOP 6.2.: Unterstützung der vorhandenen Freizeiteinrichtungen im 22. Stadtbezirk, Schr. Sozialreferat vom 16.03.09
+- TOP 6.3.: Beibehaltung einer Außenstelle der Münchner Volkshochschule im 22. Stadtbezirk; Prüfung von Ausweichmöglichkeiten, Schr. Kulturreferat vom 18.03.09
+- TOP 6.4.: Krippenplätze im Stadtgebiet, Schr. Sozialreferat vom 20.03.09
+- TOP 6.5.: Tätigkeitsbericht des Behindertenbeauftragten, Schr. Büro des Behindertenbauftragten vom März 2009
+- TOP 6.6.: Daten Kinderkrippen, Stand: 01.01.09, Schr. Sozialreferat vom 10.03.09
+- TOP 6.7.: Information der Bezirksausschüsse, Neue Bädereintrittspreise, Schr. SWM vom 16.03.09
+- TOP 6.8.: Anmeldung zum Tag des offenen Denkmals am 13.09.2009, Schr. Bayer. Landesamt für Denkmalpflege vom 20.03.09
+- TOP 6.9.: Veranstaltungen / Kooperationen, April 2009, Schr. Kulturreferat vom 02.04.09
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Grundsatzbeschlüsse über die Mittelvergabe aus dem BA-Budget, Schreiben des BA 6 vom 09.03.09
+- TOP 6.2.: Budget - Änderung und Ergänzung der Richtlinien, Schr. Direktorium vom 11.03.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Erschließung des Guts Freiham, Schr. Planungsreferat vom 25.02.09 (vertagt aus 03/09)
+- TOP 6.2.: Sportentwicklungsplanung Neuaubing-Freiham - Broschüre zur Sportentwicklungsplanung und Jahresdokumentation "Sport in München" 2008, Schr. Schulreferat vom 26.03.09
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Boden- und Bauschutt-Recycling und Bodenbörsen - Gesamtkonzept für Standorte München, Anhörung Planugsreferat vom 02.03.09 (vertagt aus 03/09)
+- TOP 6.2.: Straßenbaumaßnahme Colmdorfstraße, Anhörung Baureferat vom 17.03.09
+- TOP 6.3.: Stadt Germering - Bebauungsplan "Sondergebiet Einkaufszentrum (AEZ) an der Münchener Straße", Anhörung Planungsreferat vom 18.03.09
+- TOP 6.4.: Straßenkomplettsanierung nach Hochbau, Am Aubinger Wasserturm 21 - 39, Anhörung Baureferat vom 10.03.09
+- TOP 6.5.: Stockacher Str. 10, Neubau eines Lebensmittel-Discouters, eines Lebensmittel-Vollsortimenters, eines Fachmarktes für Betten und Teppiche oder Matratzen (Gebäude Süd); Neubau eines Fachmarktes für Fahrräder (Gebäude Nord), Anhörung Planungsreferat vom 10.03.09 und 30.03.09
+- TOP 6.6.: Radolfzeller Str. 5 a, Umbau eines Verbrauchermarktes und eines Fitness-Centers (nur innerhalb des Gebäudes), Anhörung Planungsreferat vom 06.04.09
+- TOP 6.7.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009), Anhörung MVG vom 03.04.09
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 09.03. - 15.03.09, v. 16.03. - 22.03.09, v. 23.03. - 29.03.09), Schr. Planungsreferat vom 16.03.09, 23.03.09, 31.03.09
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 09.03.09, 16.03.09, 23.03.09, 30.03.09, 06.04.09
+- TOP 6.3.: Verkehrssituation an der Einmündung Ubostr. / Rassogasse, Schr. KVR vom 10.03.09
+- TOP 6.4.: Bauliche Anordnung für Radfahrer und Fußgänger in der Hans-Steinkohl-Straße, Schr. Baureferat vom 09.03.09
+- TOP 6.5.: Zustand S-Bahnhof Aubing, Schr. Referat für Arbeit und Wirtschaft vom 10.03.09
+- TOP 6.6.: Nutzung der P+R-Anlagen Langwied und Lochhausen, Schr. P+R GmbH vom 19.03.09
+- TOP 6.7.: Liste der aufgelösten und hinzugekommenen Container-Standplätze in 2007 und 2008, Schr. Abfallwirtschaftsbetrieb München
+- TOP 6.8.: Bau eines Parkplatzes am Erholungsgebiet Langwieder See, Birken- und Lußsee - Stellungnahme an das Landratsamt Dachau, Schr. Planungsreferat vom 17.03.09
+- TOP 6.9.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Altostr. 20, Schr. KVR vom 26.01.09
+- TOP 6.10.: Mitteilung über ein Grundstücksgeschäft: Colmdorfstr., Schr. Kommunalreferat vom 24.03.09
+- TOP 6.11.: M-Fernwärme: Go West, Schr. SWM vom 06.03.09
+- TOP 6.12.: Planfeststellung zum Bahnübergang bei km 11,314 Bahnstrecke 5520 (München - Buchlohe), Planänderung: Vollschrankenabschluss und Gefahrraumfreimeldung, Schr. Planungsreferat vom 27.03.09
+- TOP 6.13.: Zufahrt und Parkplatz an der Kindertagesstätte Teckstraße; Aubing-Ost, Schr. Schulreferat vom 30.03.09
+- TOP 6.14.: Einziehung der östlichen Teilstrecke der Zwicklgasse, Schr. Baureferat vom 01.04.09
+- TOP 6.15.: Sanierung der Müllerstadelstraße zwischen der Autobahnbrücke A8 und der Straße Im Stocket sowie Im Stocket zw. Hausnr. 46 und 52, Schr. Baureferat vom 30.03.09
+- TOP 6.16.: Mitteilung über ein Grundstücksgeschäft, Am Scharinenbach, Schr. Kommunalreferat vom 01.04.09
+- TOP 6.17.: Verkehrsrechtliche Anordnung, hier: 30 km/h in der Eichenauer Str. im Bereich der Autobahnbrücke, Schr. KVR vom 06.04.09
+- TOP 6.18.: Sanierung des Freihamer Weges zwischen Pretzfelder Str. und dem nördlichen Friedhofsparkplatz, Schr. Baureferat vom 10.03.09
+- TOP 6.19.: Straßenbaumaßnahme: Verbindungsspange, Bodenseestr. und Erschließungsstraßen, Schr. Baureferat vom 10.03.09
+- TOP 6.20.: Aufstellung eines Warnschildes "Glatteisgefahr" an der Straße Am Langwieder Bach, Schr. Baureferat vom 01.04.09
+- TOP 6.21.: Bodenseestraße - Sanierung der nördlichen Fahrbahn zwischen Hausnr. 244 und 268 (stadtauswärts), Schr. Baureferat vom 08.04.09
+- TOP 6.22.: Generalinstandsetzung und Umbau der ehemaligen Grundschule in einen 3-gruppigen Hort an der Schussenrieder Str. 5; Genehmigung der Bedarfsanmeldung und Untersuchungsauftrag, Schr. Schulreferat vom 20.02.09
+- TOP 6.23.: Überlinger Weg - Sanierung der Fahrbahn (Überzug) zwischen Mainaustraße und Hs. Nr. 18
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen, Anhörung Direktorium vom 24.03.09
+- TOP 7.2.: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BA's; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung (Antrag Nr. 942 des BA 2 vom 03.03.09), Anhörung Direktorium vom 27.03.09
+- TOP 7.3.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes (Antrag Nr. 945 des BA 2 vom 03.03.09), Anhörung Direktorium vom 27.03.09
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung des Gaststättenbetriebes: - "Piccola Pausa" (ehem. "A Modo Mio"), Limesstr. 105
+- TOP 8.2.: Änderung des § 25 BA-Satzung, Schr. Direktorium vom 11.03.09
+- TOP 8.3.: Überlassung der Räume in der Ubostr. 7 für die Ausstellung anl. Feierlichkeiten 1000 Jahre Aubing, Schr. Kommunalreferat v. 11.03.09
+- TOP 8.4.: Wirtschafts-Info März 2009, Schr. Referat für Arbeit und Wirtschaft vom 31.03.09
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 24.03.09: Abriss und Neubau des Kinderhauses am Westkreuz; Aubinger Str. 57, Spiellandschaft Stadt e.V. (UA Planung)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Verhinderung der Ansiedlung weiterer Gebrauchtwagenhändler auf freiwerdenden Flächen (Ziffer 3 des Antrags) (UA Planung)
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Reale und virtuelle Stadtmodelle (UA Planung)
+- TOP 10.4.: Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschusses und Kreisverwaltungsauschusses vom 01.04.09: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" (UA Planung)
+- TOP 10.5.: Beschluss des Bauausschusses vom 31.03.09: Blühende Straßenränder (UA Planung)
+- TOP 10.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 01.04.09: Veränderung der Poststandorte in München (UA Planung)
+- TOP 10.7.: Beschluss des Kreisverwaltungsausschusses vom 17.03.09: Fortschreibung der Richtlinien für Veranstaltungen auf öffentlichen Verkehrsgrund (UA Planung)
+- TOP 10.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.03.09: Verbesserung der Schienenanbindung des Flughafens München -geänderter Beschluss - (UA Planung)
+- TOP 10.9.: Beschluss der Vollversammlung am 18.03.09: Neufassung der Richtlinien für Sondernutzungen an öffentlichen Straßen der LHM; Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LHM. Freischankflächen für sog. Ladenlokale ... (UA Planung)
+- TOP 10.10.: Beschluss des Bauausschusses vom 10.03.09: Freiham - Öffentliche Grün- und Ausgleichsflächen, Bebauungsplan mit Grünordnung Nr. 1916a; Bauteil 1: Öffentliche Grünfläche Kiefernhain - Gewerbegebiet Freiham Süd (UA Freiham)
+- TOP 10.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Siedlungsschwerpunkt Freiham; Sachstandsbericht, Überlegungen zum weiteren Vorgehen (UA Freiham)
+- TOP 10.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Bevölkerungsprognose der Bertelsmann Stiftung für München (UA Soziales)
+- TOP 10.13.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Beschlussvollzugskontrolle (BVK)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Protokoll OB-Treffen am 28.11.08, Schr. Direktorium vom 24.03.09
+- TOP 11.2.: Protokoll des BA-Vorsitzendenstreffens am 22.01.09, Schr. Direktorium vom 19.03.09
+- TOP 11.3.: Treffen BA-Vorsitzende - Neuauflage der Broschüre über die Bezirksausschüsse; Schreiben an Frau Bürgermeisterin Strobl vom 27.03.09
+- TOP 11.4.: Einladung zum Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 19.05.09 in der Gleichstellungsstelle für Frauen
+- TOP 11.5.: Jahresbericht 2008 des Behindertenbeirats, Schr. Behindertenbeirat vom 27.03.09
+- TOP 11.6.: Bundesweiter Wettbewerb "Stadtradeln - Unsere Stadt fährt Rad!", Dienstag 05.05.09 um 10:30 Uhr im Verkehrszentrum des Deutschen Museums
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 20.05.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
