@@ -1,0 +1,72 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-04-23T16:00:00+02:00
+- Ende: 2009-04-23T18:29:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2468
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2468
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126363.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126363.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126363.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 05.03.2009 - einstimmig beschlossen
+- TOP 3: Ortsumgehung Flingern, 2. Bauabschnitt - mehrheitlich beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Ladezone Deutzer Straße 114 - einstimmig beschlossen
+- TOP 6: Einbahnstraßenregelung Bebelstraße - einstimmig beschlossen
+- TOP 7: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 8: Benennung Veenpark / Willi-Terbuyken-Straße - einstimmig beschlossen
+- TOP 9: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 Haushalt 2009 - Produktsachkonto 5211058 - einstimmig beschlossen
+- TOP 10: Ortsumgehung Oberbilk - beantwortet
+- TOP 11: Stadtsauberleit und Graffiti im Stadtbezirk 8 - beantwortet
+- TOP 12: Bahnunterführung Gumbertstraße - beantwortet
+- TOP 13: Bildungslandschaft Eller und Jugendfreizeiteinrichtungen im Stadtbezirk 8 - beantwortet
+- TOP 14: Soziale Stadt und Quartierspaten im Stadtbezirk 8 - beantwortet
+- TOP 15: Kinderarmut im Stadtbezirk 8 - beantwortet
+- TOP 16: Wohnbebauung Oelser Straße - beantwortet
+- TOP 17: Bebauungsplan Am Kleinforst - beantwortet
+- TOP 18: Renaturierungsmaßnahmen in Vennhausen - beantwortet
+- TOP 19: Parkplatzsituation Sporthalle und Sportplatz Heidelberger Straße - beantwortet
+- TOP 20: Taubenabwehrmaßnahme Unterführung Gumbertstraße - beantwortet
+- TOP 21: Kanal Sandstraße - beantwortet
+- TOP 22: Nutzungsplan Bürgerhaus Eller - beantwortet
+- TOP 23: Kommunalwahlkosten 2009 - beantwortet
+- TOP 24: Umgestaltung Gertrudisplatz im Bereich Anhalter Straße - beantwortet
+- TOP 25: Renaturierung ehem. Sportanlage Tannenhofweg - beantwortet
+- TOP 26: Öffnung der Bebelstraße für den Fahrradverkehr - zurückgezogen
+- TOP 27: Kinderarmut im Stadtbezirk 8 - zurückgezogen
+- TOP 28: Fließgewässer im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 29: Toilettenanlage Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 30: Straßendecken Karlsruher Straße und Vennhauser Allee - einstimmig beschlossen
+- TOP 31: Fuß- und Radwege Kikweg und Hasseler Richtweg - einstimmig beschlossen
+- TOP 32: Gehweg Ellerkirchstraße 3 - 7 - einstimmig beschlossen
+- TOP 33: Schulweg Vennhauser Allee zur Dieter-Forte-Gesamtschule - einstimmig beschlossen
+- TOP 34: CKW-GW-Verunreinigung Unterbach / Reisholz - Sachstand 03/2009 - zur Kenntnis genommen
+- TOP 35: Grundwasserkataster Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Parkpflegewerk Schloss Eller und Grünpflegekonzept Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Grünpflege im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Fußgängerübergänge Kreuzung Heidelberger Straße / Schlossallee - zur Kenntnis genommen
+- TOP 39: Straßenreinigung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Verunreinigungen Eselsbach - zur Kenntnis genommen
+- TOP 41: Baumscheiben Reichenbacher Weg - zur Kenntnis genommen
+- TOP 42: Kinderspielplatz Am Schwalbenberg - zur Kenntnis genommen
+- TOP 43: Fahrbahnsanierung Sandträgerweg - zur Kenntnis genommen
+- TOP 44: Wochenmarkt Eller - Ausschilderung - zur Kenntnis genommen
+- TOP 45: Parkscheibenregelung Vennhauser Allee 196 - 204 - zur Kenntnis genommen
+- TOP 46: Platzgestaltung Posener Straße - zur Kenntnis genommen
+- TOP 47: Umgestaltung Gertrudisplatz im Bereich Anhalter Straße - zur Kenntnis genommen
+- TOP 48: Zweckverband Unterbacher See - zur Kenntnis genommen
+- TOP 49: Graffitibeseitigung 100m - Brücke Kikweg - zur Kenntnis genommen
+- TOP 50: Straßenschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 51: Kinderspielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 52: Pflanzinseln Gerresheimer Landstraße / Bushaltestelle Am Stammesberg - zur Kenntnis genommen
+- TOP 53: Bushaltestelle Friedhof - Unterbach - zur Kenntnis genommen
+- TOP 54: Renaturierung Eselsbach - zur Kenntnis genommen
+- TOP 55: Kinderspielplatz Posener Straße - zur Kenntnis genommen
