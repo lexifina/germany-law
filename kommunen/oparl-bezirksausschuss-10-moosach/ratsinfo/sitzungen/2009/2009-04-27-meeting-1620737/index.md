@@ -1,0 +1,96 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-04-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620737
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620737
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neubesetzung der Unterausschüsse
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Spielplatz Eggmühler- / Haylerstraße
+- TOP 2.2.: Aufhebung der Absperrung Kreuzung Feldmochinger- / Dachauer Straße
+- TOP 2.3.: Verkehrsspiegel Leipziger- / Pelkovenstraße
+- TOP 2.4.: Parkprobleme in der Hardenbergstraße
+- TOP 2.5.: Parkraummanagement Borstei ab 18.05.2009
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Ein Brunnen für Moosach
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Donauwörther Straße
+- TOP 3.2.: Ortstermin Am Kapuzinerhölzl
+- TOP 3.3.: Einrichtung eines limitierten Tempo-30-Bereiches bzw. einer Gehwegbegrenzung vor dem Kindergarten Waldhornstraße 78 (Geschwindigkeitsmessungen der Polizei liegen vor)
+- TOP 3.4.: Informationsveranstaltung SWM
+- TOP 3.5.: Ortstermin Schragenhofstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Grünplanung Landshuter Allee
+- TOP 3.2.: UA-Sitzung Pelkovenstraße / Hanauer Straße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 3.2.: Seniorenbeiratswahl
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Verlegung einer nichtgenutzten Wartehalle (zuletzt aufgestellt in der Dessauer Str.) in die Dachauer Straße
+- TOP 4.2.: Radwegverbesserung Grünanlage In den Kirschen
+- TOP 4.3.: Stadtteillauf 2009
+- TOP 4.4.: Zusätzliche Haltestelle für die Buslinie 175
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Müllbeseitigung entlang des Fahrrad- und Gehweges zwischen Moosanger und Weiherweg
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Solarenergie auf den Bahnsteigdächern am Moosacher Bahnhof
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10; Initiative "Upart Expo Moosach 2009"
+- TOP 5.3.: Gewährung eines Zuschusses aus dem Budget des BA 10; Lilalu e.V.: Mädchen an den Ball 2009
+- TOP 5.4.: Provisorischer Teilausbau der Melitta-Benz-Straße zwischen Allacher Straße und 100 m nördlich
+- TOP 5.5.: Ausbau der Netzerstraße
+- TOP 5.6.: Brunnen für Moosach: Abschließende Behandlung der BV-Empfehlung und des BA-Antrages
+- TOP 6: Anhörungen
+- TOP 6.1.: Ausbau der Ludwigsfelder Straße
+- TOP 6.2.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes (Antrag des BA 2 Ludwigsvorstadt - Isarvorstadt)
+- TOP 6.3.: Änderung der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen (Antrag des BA 5 Au - Haidhausen)
+- TOP 6.4.: Unterrichtung bzw. Anhörung der Bezirksausschüsse bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung (Antrag des BA 2 Ludwigsvorstadt - Isarvorstadt)
+- TOP 6.5.: Vollzug der Baumschutzverordnung: 1. Pelkovenstraße 92 2. Moosburger Straße 23
+- TOP 6.6.: Nachbarschaftstreffen der Siedlervereinigung Moosach-Eigenhaus
+- TOP 6.7.: Tag des offenen Denkmals am 13.09.2009
+- TOP 6.8.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009)
+- TOP 6.9.: Blade Night 2009
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Erhalt der Graffiti "1200 Jahre Moosach" und "Moosach 1725" am Moosacher St. Martins-Platz; Erhalt der Brandmauer zum Hacklhaus (Kulturreferat und Baureferat empfehlen, das Anliegen nicht weiter zu verfolgen)
+- TOP 7.2.: Befestigung des Weges zwischen Bingener Straße (alt) und Feldmochinger Straße (dem Antrag wird entsprochen)
+- TOP 7.3.: Abschrägung der Parkbuchten sowie Anordnung eines Haltverbotes in der Andernacher Straße / Ecke Feldmochinger Straße (das KVR hält die Maßnahmen für nicht sinnvoll)
+- TOP 7.4.: Verkaufsstand für Obst, Gemüse, Südfrüchte am "Moosacher Stachus" (Sondernutzungserlaubnis)
+- TOP 7.5.: Hinweise auf das Berufsbildungszentrum Riesstraße in den U-Bahnhöfen Olympia-Einkaufszentrum und Georg-Brauchle-Ring (abgelehnt)
+- TOP 7.6.: Geschwindigkeitsmessungen in der Waldhornstraße vor der Kindergruppe "Gänseblümchen" (Polizei sieht aufgrund der Ergebnisse keinen Handlungsbedarf)
+- TOP 7.7.: Unfallsituation in der Donauwörther Straße (Bericht der Polizei)
+- TOP 7.8.: Buslinie 51: Anfahrt der Haltestelle Olympia-Einkaufszentrum Ost (Änderung aufgrund wirtschaftlicher Erwägungen nicht möglich)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Verkehrsrechtliche Anordnung Werner-Friedmann-Bogen
+- TOP 8.4.: Verkehrsrechtliche Anordnung Wichertstraße
+- TOP 8.5.: Verkehrsrechtliche Anordnung Richthofenstraße
+- TOP 8.6.: Pächterwechsel "Myindigo Store", Hanauer Str. 68
+- TOP 8.7.: Neue Bädereintrittspreise
+- TOP 8.8.: Blühende Straßenränder (Stadtratsantrag)
+- TOP 8.9.: Kauf eines Grundstücks an der Pelkovenstraße (175 m²)
+- TOP 8.10.: Verkauf eines städt. Grundstückes an der Bunzlauer Straße (42 m²)
+- TOP 8.11.: Oberflächenwiederherstellung nach U-Bahnbau Memminger Platz / Untermenzinger Straße
+- TOP 8.12.: Parkraummanagement, Einführung der Parklizenzierung im Gebiet "Borstei"
+- TOP 8.13.: Parkraummanagement in München - Ergebnisbericht Wirtschaftlichkeitsuntersuchung
+- TOP 8.14.: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 8.15.: Förderung freier Träger
+- TOP 8.16.: Beschlussvollzugskontrolle (Beschlüsse des Ausschusses für Stadtplanung und Bauordnung)
+- TOP 8.17.: Veränderung der Poststandorte in München
+- TOP 8.18.: Bevölkerungsprognosen der Bertelsmann Stiftung für München
+- TOP 8.19.: Reale und virtuelle Stadtmodelle
+- TOP 8.20.: Müllablagerungen im Bereich der Waldflächen Schragenhofstraße / Tannenweg (Kapuzinerhölzl)
+- TOP 8.21.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München; Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München; Freischankflächenregelung für sog. Ladenlokale (kein Alkoholausschank) =&gt; Umfangreiche Unterlagen in der Geschäftsstelle
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
