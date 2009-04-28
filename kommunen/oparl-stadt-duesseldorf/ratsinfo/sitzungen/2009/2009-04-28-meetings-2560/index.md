@@ -1,0 +1,60 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-04-28T17:00:00+02:00
+- Ende: 2009-04-28T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2560
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2560
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126365.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126365.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126365.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Die Arbeit des OSD
+- TOP 6: 1. Änderung des Landschaftsplanes
+- TOP 7: Einbringung des Entwurfs des Nahverkehrsplanes
+- TOP 8: "Home & Garden 2009"
+- TOP 9: Verwendung von Haushaltsmitteln
+- TOP 10: Dokumentation "Abriss der Glashütte"
+- TOP 11: Aktueller Zustand und weitere Entwicklung der Fließgewässer
+- TOP 12: Straßennamen
+- TOP 13: Sachstandsbericht Lager 61
+- TOP 14: Eisenbahnbrücke
+- TOP 15: Gedenken am 08.05.2009
+- TOP 16: Sachstandsbericht Sana: Krankenhaus und Seniorenzentrum
+- TOP 17: Vorstellung des "Sport-Action-Busses" durch den SSB
+- TOP 18: Morper Straße
+- TOP 19: Notarztversorgung im Stadtbezirk 7
+- TOP 20: Wasserspielplatz Diepenpark
+- TOP 21: Weg der Befreiung
+- TOP 22: Aufstellung von Robidogs, Bänken und Abfallkörben
+- TOP 23: Flaggen im Gerresheimer Rathaus
+- TOP 24: Abrisskosten Gerresheimer Glashütte
+- TOP 25: Gesamtschüler aus Gerresheim
+- TOP 26: Notausfahrt Gallberg-Siedlung
+- TOP 27: CO-Pipeline Hubbelrath
+- TOP 28: Notfallversorgung für die Blanckertzsiedlung
+- TOP 29: Wirtschafts- und Wanderweg Forster Weg
+- TOP 30: Wander- und Wirtschaftsweg Gut Großeforst / Haus Roland
+- TOP 31: Sachstandsbericht L 404n
+- TOP 32: Verkehrstechnische Überbelastung der Bergischen Landstraße
+- TOP 33: Bebauungsplan Mühlenbergweg
+- TOP 34: Verkehrssicherheit Heyestraße
+- TOP 35: Ludenberger Straße -Lärmoptimierter Belag-
+- TOP 36: Sicherheit Nach den Mauresköthen
+- TOP 37: Vorabinformation über ein späteres Beitragsverfahren
+- TOP 38: Papierbündelsammlung
+- TOP 39: Parkplätze Friedhofszufahrt Rotthäuser Weg
+- TOP 40: Verbindungsweg Heckteichstraße/Katharinenstraße
+- TOP 41: Sanierung S-Bahnhof-Gerresheim I
+- TOP 42: Sanierung S-Bahnhof Gerresheim II
+- TOP 43: Sachstandsbericht Gerresheimer Bahnhof
