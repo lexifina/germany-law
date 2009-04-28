@@ -1,0 +1,104 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-04-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631531
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631531
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Hundepoller im gesamten "Behrpark" und Hinweisschilder an den Eingangsbereichen (Ziffer 1 des Antrages) - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Boden- und Bauschutt-Recycling und Bodenbörsen Gesamtkonzept für Standorte in München a) Stadtratsauftrag Gesamtkonzept für Boden- und Bauschuttrecyclinganlagen b) Antrag Nr. 02-08 / A 03185 von Herrn Stadtrat Josef Schmid vom 02.08.2006 c) Stellungnahme des BA 15 v. 27.03.2009 bzgl. des ehem. Rangierbahnhofs München Ost
+- TOP 3.1.2.1.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel am 13. Dezember 2009)
+- TOP 3.2.1.: Tag des offenen Denkmals am Sonntag, 13. September 2009
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Erweiterung, Umbau und Sanierung der Grundschule an der Grafinger Straße 71
+- TOP 3.3.2.: Bauliche Mängel der Grundschule an der Berg-am-Laim-Straße 142
+- TOP 3.3.3.: Kinderkrippe Dingolfinger Straße 11 - Beschlussentwurf
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Regsam Fachbasis Berg am Laim West - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.5.2.: Antrag auf Bezuschussung zum Buchprojekt Else Behrend-Rosenfeld / Siegfried Rosenfeld
+- TOP 3.5.3.: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen
+- TOP 3.5.4.: Unterrichtung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung
+- TOP 3.5.5.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des ges. öffentlichen Raumes
+- TOP 3.6.1.: Streitfeldstraße 33 - Sanierung einer Kleiderfabrik (Vorder- und Rückgebäude)
+- TOP 3.6.2.: Wildenwarter Str. 7 - Neubau einer Doppelhaushälfte mit Garage (Haus 1)
+- TOP 3.6.3.: Wildenwarter Str. 7 - Neubau einer Doppelhaushälfte mit Garage (Haus 2)
+- TOP 3.6.4.: Michaeliburgstraße 4 - Neubau eines Mehrfamilien- und eines Einfamilienhauses mit TG
+- TOP 3.6.5.: Baumkirchner Straße 26 - Antrag auf Baumfällungen
+- TOP 3.6.6.: Pachemstraße 1 - Antrag auf Baumfällungen
+- TOP 3.6.7.: Baumschutz in Ihrem Stadtteil - Schreiben des Bund Naturschutz
+- TOP 3.6.8.: Freilassinger Straße 16 - Antrag auf Baumfällung
+- TOP 3.6.9.: Eigenhausstr. 13 - Antrag auf Baumfällung
+- TOP 3.6.10.: Fehwiesenstraße 106 - Antrag auf Baumfällung
+- TOP 3.6.11.: Schlüsselbergstraße 45 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.1.: Antrag des BA 14 zum Grundstück Ursberger Str. 10
+- TOP 4.1.1.2.: Veränderung der Poststandorte in München
+- TOP 4.1.1.3.: Bevölkerungsprognose der Bertelsmann Stiftung für München
+- TOP 4.1.1.4.: Reale und virtuelle Stadtmodelle
+- TOP 4.1.1.5.: Beschlussvollzugskontrolle für Beschlüsse des Planungsausschusses
+- TOP 4.1.1.6.: Lödenseestraße 10 - Abbruchanzeige
+- TOP 4.1.1.7.: Altöttinger Straße 28 - Nutzungsänderung
+- TOP 4.1.1.8.: "Satyam" - Antrag auf unveränderte Fortführung
+- TOP 4.1.2.1.: Parkraummanagement in München - Sektor III
+- TOP 4.1.2.2.: Parkraummanagement in München - Beschleunigung der Umsetzung - Fortschrittsbericht
+- TOP 4.1.2.3.: Parkraummanagement in München - Ergebnisbericht Wirtschaftlichkeitsuntersuchung
+- TOP 4.1.2.4.: Fahrgastanzeigen an Haltestellen der Tramlinie 19
+- TOP 4.1.2.5.: Trausnitzstraße 13 ? Eingeschränktes Haltverbot (Überprüfung)
+- TOP 4.1.2.6.: Verkehrsführung vom Innsbrucker Ring in die Bad-Schachener-Straße
+- TOP 4.1.2.7.: Baustelleneinrichtung am Zwieselbergweg
+- TOP 4.1.2.8.: Blühende Straßenränder - Antrag der Grünen-Stadtratsfraktion
+- TOP 4.1.2.9.: Genehmigung der Maifeier des Maibaumvereins am 01.05.2009 in der Baumkirchner Str.
+- TOP 4.1.3.1.: Lärm- und Geruchsbelästigungen in der Thomas-Hauser-Straße
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Konzeption sozialpädagogischer Integrationsunterstützung Wohnen (SIW) für Haushalte in KomPro-B-Wohnhäusern
+- TOP 4.4.2.: Zuschussnehmerdatei 2009 für den Bereich "Förderung freier Träger" des Sozialreferats
+- TOP 4.4.3.: Zuschussnehmerdatei 2009 für den Bereich "Förderung freier Träger" des Wohnungsamtes
+- TOP 4.4.4.: Zuschussnehmerdatei 2009 für den Bereich "Förderung freier Träger" des Jugendamtes
+- TOP 4.4.5.: Zuschussnehmerdatei 2009 für den Bereich "Förderung freier Träger" des Sozialamtes
+- TOP 4.4.6.: Jahresbericht 2008 des Behindertenbeirats der Landeshauptstadt München
+- TOP 4.5.1.: Förderkreis der Grundschule an der Grafinger Straße - Zuwendungsbescheid
+- TOP 4.5.2.: KJR-Zeugnerhof - Zuwendungsbescheid
+- TOP 4.5.3.: ESV München-Ost - Verwendungsnachweis
+- TOP 4.6.1.: Unterrichtung über das Fällen von Gefahrenbäumen auf öffentlichem Grund
+- TOP 4.6.2.: Halserspitzstraße 27 - Bescheid über den Antrag auf Baumfällungen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
