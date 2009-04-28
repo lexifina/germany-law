@@ -1,0 +1,51 @@
+# Stadtrat (32. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-04-28T17:02:00+02:00
+- Ende: 2009-04-28T21:49:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdHk96dL4y_Ub8Fau9sFbHg
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/5821
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZa8TVnhEOcb21sVrYjQxz_THwHetaEsb_j8YKqR5wdDX/Bekanntmachung_Stadtrat_28.04.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWMlr82N36Y1cXrYT5-3WuS74Oz-uVBWQkMYBQuRKJ9f/Oeffentliche_Niederschrift_Stadtrat_28.04.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.: Resolution des Rates zur Kommunalwahl 2009 hier: Antrag der UWG-Fraktion
+- TOP 4.: Stadtentwicklung und Bauleitplanung
+- TOP 4.1: Bebauungsplan KE 332 "Hahnenstraße" im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 10 (1) BauGB
+- TOP 4.2: Bebauungsplan Nr. KE 329 "Sondergebiet SB-Warenhaus Sindorfer Straße", Stadtteil Kerpen hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB
+- TOP 4.3: Bebauungsplan KE Nr. 178 "Stiftsstraße/Brüsseler Straße" im Stadtteil Kerpen hier: A) Zwischenbericht zum „Städtbaulichen Vertrag“ B) Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 4.4: Bebauungsplan SI 253 B "Kindertagesstätte an der Zehsmaar", Stadtteil Sindorf Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.: Haushalt und Finanzen
+- TOP 5.1: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen I. Quartal 2009
+- TOP 5.2: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW in der Zeit vom 01.01. bis 31.03.2009
+- TOP 5.3: Bereitstellung von außerplanmäßigen Haushaltsmitteln in Höhe von 40.000,00 € zur Förderung der Einzelintegration in Kindertageseinrichtungen
+- TOP 5.4: Grundstückserweiterung städt.Kindertageseinrichtung Wibbelstätz
+- TOP 5.5: Aufhebung des Sperrvermerks „Erneuerung der Heizungsanlage im Rathaus“ und Bereitstellung überplanmäßiger Mittel für eine kombinierte Heizungsanlage sowohl für das Rathaus als auch für die Jahnhalle
+- TOP 5.6: Ersatzbau Kindertagesstätte Platanenallee
+- TOP 5.7: Überplanmäßige Mittelbereitstellung für die Fortführung des bereits eingeleiteten Umlegungsverfahren Burgackerstraße
+- TOP 6.: Personalsituation in der Abteilung 23.1 - Erzieherische Hilfen
+- TOP 6a.: Stellenplan 2009 hier: Folgebesetzung Stelle 90000410
+- TOP 7.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 7.1: Bestellung einer/eines Vertreters der Stadt Kerpen für den Aufsichtsrat der Erftland Kommunale Wohnungsgesellschaft mbH und der Erftland Holding GmbH
+- TOP 7.2: Anschaffung eines Fahrzeuges für die Abt. 21.2 - Allg.Ordnungswesen
+- TOP 8.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.1: Katastrophale Verkehrsverhältnisse in der Daimlerstraße 9-21
+- TOP 10.2: Sachstand Falder/Bürrig
+- TOP 10.3: Baumaßnahmen Kerpener Straße in Sindorf
+- TOP 10.4: Plakatierung im Wahlkampf
+- TOP 11.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
