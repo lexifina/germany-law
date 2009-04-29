@@ -1,0 +1,84 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-04-29T17:25:00+02:00
+- Ende: 2009-04-29T22:05:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=911
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=911
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlage zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Dringlichkeiten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 3.1: Konzept für den Berliner Religionsunterricht - in der BVV abgelehnt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl zum Bezirksverordnetenvorsteher - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Durchführung einer Einwohnerversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Abberufung eines Mitgliedes aus dem Beirat für Migrationsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Zustimmung zur Entscheidung über die Erneuerung der Regenwasserkanäle der Parchimer Allee zwischen Buschkrugallee und Fulhamer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlage zur Wahl - (offen)
+- TOP 8.1: Wahl einer stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Nachwahl eines Mitgliedes in den Beirat für Migrationsangelegenheiten - vertagt
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.2: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Mündliche Anfragen - (offen)
+- TOP 10.1: Kamel reiten - beantwortet
+- TOP 10.2: 20 Jahre friedliche Revolution - beantwortet
+- TOP 10.3: Baumfällungen in der Waßmannsdorfer Chaussee - beantwortet
+- TOP 10.4: Quartiersmanagement in Nord-Neukölln - beantwortet
+- TOP 10.5: Immer wieder Serverausfälle im Jobcenter Neukölln? - beantwortet
+- TOP 10.6: St. Thomas Friedhof - beantwortet
+- TOP 10.7: Investitionen für die Hufeisensiedlung - beantwortet
+- TOP 10.8: Wer hilft den Schulhelfern? - beantwortet
+- TOP 10.9: Straßenbaumbestand in Neukölln - beantwortet
+- TOP 10.10: Zukunft des Kinderdschungels - beantwortet
+- TOP 10.11: Baumfällung in der Glasower Straße - schriftlich beantwortet
+- TOP 10.12: Ausbau der A 100 - schriftlich beantwortet
+- TOP 10.13: Pflegestützpunkte in Neukölln - schriftlich beantwortet
+- TOP 10.14: Fahr Rad - schriftlich beantwortet
+- TOP 11: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 11.1: Sozialräumliche Planungskoordination - überwiesen
+- TOP 12: Beschlussempfehlungen - (offen)
+- TOP 12.1: Tourismuswirtschaft stärken und vernetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Kinderlärm - ja bitte! - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schillermarkt - Markt der Vielfalt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Fußgängermittelinsel nicht richtig gesichert - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Verkehr zur und auf der Autobahn A 100/A 113 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Große Anfragen - (offen)
+- TOP 13.1: "Rufmord" korrigiert II - beantwortet
+- TOP 13.2: Alte Regelung des Melderechts wieder einführen - beantwortet
+- TOP 13.3: Straßensanierung in Neukölln - beantwortet
+- TOP 13.4: Programm "Stärken vor Ort" - beantwortet
+- TOP 13.5: Personelle Ausstattung des Rechtsamtes - beantwortet
+- TOP 13.6: EU-Bürger - beantwortet
+- TOP 14: Große Anfragen - schriftlich - erledigt
+- TOP 15: Anträge - (offen)
+- TOP 15.1: Vermüllte Plätze in der Gropiusstadt - Bat-Yam-Platz und Lipschitzplatz - überwiesen
+- TOP 15.2: Kurzfilme von MaDonna - überwiesen
+- TOP 15.3: Abdeckung von Schiffsladungen - überwiesen
+- TOP 15.4: Missbrauch im Meldewesen verhindern - mit Änderungen in der BVV beschlossen
+- TOP 15.5: Reduzierung von Hundekot auf Neuköllns Straßen und Grünanlagen - überwiesen
+- TOP 15.6: Bildung einer Baumschutzkommission - überwiesen
+- TOP 15.7: Erzieherinnen und Erzieher fest einstellen - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Digitale Lichtbilder bei Anträgen in Bürgerämtern - überwiesen
+- TOP 15.9: "Mit dem Rad zum Bezirksamt" - mit Änderungen in der BVV beschlossen
+- TOP 15.10: Baumfällungen öffentlich machen - überwiesen
+- TOP 16: Mitteilungen - (offen)
+- TOP 16.1: Tempo 30 vor dem SPZ - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.2: Grüner Pfeil zur Verminderung der Umweltbelastung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.3: Durchfahrtverbot für LKW über 7,5 Tonnen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Schrittweise Umsetzung des Friedhofsentwicklungsplanes (FEP) für die landeseigenen Friedhöfe in Berlin-Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Leitbild für die interkulturelle Öffnung der Verwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Von der Straße ins Lehrinternat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Elektronischer Reisepass mit biometrischen Daten (ePass) - mit Abschlussbericht zur Kenntnis genommen
