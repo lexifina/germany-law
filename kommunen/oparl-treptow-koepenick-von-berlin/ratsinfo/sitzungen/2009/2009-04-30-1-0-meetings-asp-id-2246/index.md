@@ -1,0 +1,71 @@
+# 29. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-04-30T16:30:00+02:00
+- Ende: 2009-04-30T22:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2246
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2246
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-28 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl von 2 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Die Halbzeit einer Legislaturperiode gestattet Rückblick und Ausblick - beantwortet
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Wirtschaftliche Entwicklung in der Altstadt Köpenick - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Bezirks-Elternausschuss (BEA) Kita Treptow-Köpenick (SM 906) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für Brücke 7 e. V. (SM 916) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Landesverband der Freiwilligen Feuerwehren Berlins e. V. (SM 921) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Feinstaubreduzierung bei gleichzeitiger Kostensenkung für die Pflege von Grünanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Passive Lärmschutzmaßnahmen bei der energetischen Sanierung realisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Erforderliche passive Lärmschutzmaßnahmen in öffentlichen Gebäuden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Möglichkeiten der Freien Förderung für Arbeitssuchende ausschöpfen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Wiederaufstellung der Büste von Ernst Schneller - in der BVV zurückgezogen
+- TOP 12.6: Einhaltung gesundheitsgefährdender Grenzwerte bei der A100-Verlängerung - in der BVV abgelehnt
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung der im Ortsteil Rahnsdorf gelegenen Straße 523 in "Seidenbienenweg" - überwiesen
+- TOP 13.2: Verbleib des Jugendzirkus Cabuwazi (Altglienicke) und des Abenteuerspielplatzes Waslala sowie teilweise Aufhebung der Bezirksamtsvorlage Nr. 20/2000 des Bezirksamtes Treptow von Berlin - überwiesen
+- TOP 13.3: Festsetzung des Pachtzinses für Pachtgrundstücke in der Gartenanlage "Heide am Wasser", entsprechend der Einordnung der Parzellen gemäß ihrer Nutzungsart zur Wohnnutzung, zur Erholungsnutzung bzw. zur kleingärtnerischen Nutzung - überwiesen
+- TOP 13.4: Gleichstellungspolitische Ziele - überwiesen
+- TOP 13.5: Verleihung des Ehrenzeichens ''Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin'' - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Angemessene finanzielle Ausstattung der Bezirke sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Der 1. Mai gehört den Demokratinnen und Demokraten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.3: Unterstützung Projekt Traditionelles Handwerk - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Einwohnerversammlung zu den Plänen für das Grundstück An der Wuhlheide 250-270 (Paul-Zobel-Stadion) - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Verlängerung der A 100 - überwiesen
+- TOP 14.6: Weiterentwicklung der Tourismusförderung im Bezirk - überwiesen
+- TOP 14.7: Verkehrskonferenz Südost - überwiesen
+- TOP 14.8: Touristische Unterrichtungstafel für die Altstadt Köpenick an der Autobahn - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Finanzausstattung bei den "Hilfen zur Erziehung" - überwiesen
+- TOP 14.10: Unfallgefahr für Kinder beseitigen – Entfernung alter Eisenstangen in der Wuhlheide - im Ältestenrat zurückgezogen
+- TOP 14.11: Hygiene in Gaststätten - überwiesen
+- TOP 14.12: Benennung der Bibliothek in Altglienicke nach Liselotte Welskopf-Henrich - überwiesen
+- TOP 14.13: Harry-Potter-Spielplatz und dessen Umgebung - überwiesen
+- TOP 14.14: Hauptweg im Mentzelpark instand setzen - überwiesen
+- TOP 14.15: Bürgerfreundliche Verwaltungssprache - überwiesen
+- TOP 14.16: Sicherung des Schülerruderns - überwiesen
+- TOP 14.17: Förderung von Klimaschutzprojekten - überwiesen
+- TOP 14.18: Jugendwegweiser aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Veröffentlichung der Beschlüsse der Bezirksverordnetenversammlung - überwiesen
+- TOP 14.20: Einzelhandelskonzeption - vertagt
+- TOP 14.21: Kinder- und Jugendchöre nicht gefährden - überwiesen
+- TOP 14.22: Platzbenennung "An der Kirche" - überwiesen
+- TOP 14.23: Instandsetzung Fußweg Gosener Damm - überwiesen
+- TOP 14.24: Platanen sichern - Puschkinallee zweispurig - überwiesen
+- TOP 14.25: Aufbau eines freien WLAN-Systems in der Altstadt Köpenick - überwiesen
+- TOP 14.26: Tauchersteig für den Radverkehr entgegen der Einbahnstraßenrichtung zulassen - überwiesen
