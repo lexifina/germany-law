@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-04-30T14:00:00+02:00
+- Ende: 2009-04-30T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2495
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2495
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151781.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151781.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151781.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführerin des Rates - einstimmig beschlossen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 5: Anfrage Aktuell d. FDP: Polzeieinsatz beim Fortuna Spiel - beantwortet
+- TOP 6: Anfrage aktuell CDU: Schweinegrippe - beantwortet
+- TOP 7: Anfrage aktuell FDP: Alkoholverbot/Scherben in der Altstadt - schriftlich beantwortet
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Anfrage CDU: Föderalismusreform II - beantwortet
+- TOP 10: Anfrage CDU: SchuldnerAtlas - beantwortet
+- TOP 11: Anfrage Bü90/Grü: Organisationsform der ARGE - beantwortet
+- TOP 12: Anfrage SPD: Beteiligung öffentlicher Träger beim Konjunkturpaket II - beantwortet
+- TOP 13: Anfrage Linksfraktion: Vertragscontrolling CBL - schriftlich beantwortet
+- TOP 14: Anfrage Bü90/Grü: Mahn und Gedenkstätte - schriftlich beantwortet
+- TOP 15: Anfrage Bü90/Grü: Binnenschifffahrtsemissionen - schriftlich beantwortet
+- TOP 16: Anträge
+- TOP 17: Antrag SPD: Dienstleistungen u. Bürgerservice verbessern - mehrheitlich abgelehnt
+- TOP 18: Antrag SPD: Feinstaub in Schulen - verwiesen
+- TOP 19: Antrag Linksfraktion: Gegen die Verbreitung neonazistischen Gedankengutes - mehrheitlich abgelehnt
+- TOP 20: Antrag von FDP,CDU,SPD;Bü90/Grü: Aktionsbündnis "save me" - einstimmig beschlossen
+- TOP 21: Antrag Linksfraktion: Wege in der Stadt: kinderfreundliche Mobilität" - mehrheitlich abgelehnt
+- TOP 22: Antrag Bü90/Grü: Europe Direct Informationszentrum - mehrheitlich abgelehnt
+- TOP 23: Antrag Bü90/Grü: RRX - Halt in Benrath - einstimmig beschlossen
+- TOP 24: Antrag Bü90/Grü: ÖPNV ISS-Dome - zurückgezogen
+- TOP 25: Antrag Bü90/Grü: Recylingpapier - verwiesen
+- TOP 26: Antrag Bü90/Grü: Betrauungsvertrag mit der Rheinbahn AG - zurückgezogen
+- TOP 27: Kämmererliste - mehrheitlich beschlossen
+- TOP 28: Sanierung der Feuerwache Frankfurter Str. 245, 2. Bauabschnitt - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 29: Schulerweiterungsbau der GGS Heinrich-Heine-Schule, Heerdter Landstraße 186 - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 30: Bau einer Kinder- und Jugendfreizeiteinrichtung, Heerdter Landstraße 186 - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 31: GGS Beckbuschstr. 2, Erweiterungsbau für die Offene Ganztagsschule sowie Schaffung von Mehrzweckräumen - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 32: Gerresheimer Landstraße 89, Neubau einer Dreifachsporthalle - Ergänzungsbeschluss - - mehrheitlich beschlossen
+- TOP 33: Schulstandort Rückertstraße 6 - Sanieurng der Dreifachsporthalle - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 34: Denkmalgerechte Fassadensanierung Burgplatz 1- Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 35: Anschluss A46/ Deutzer Straße - BuF - einstimmig beschlossen
+- TOP 36: Änderung der Gebührensatzung - Entwässerung von Grundstücken - mehrheitlich beschlossen
+- TOP 37: 19. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung - mehrheitlich beschlossen
+- TOP 38: 19. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen - mehrheitlich beschlossen
+- TOP 39: Änderung d. Zuständigkeitsordnung - vertagt
+- TOP 40: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 41: Freigabe verkaufsoffener Sonntage im Jahre 2009 - mehrheitlich beschlossen
+- TOP 42: Lokale Agenda - zur Kenntnis genommen
+- TOP 43: Kooperationsvertrag zur Entwicklung eines Bildungsnetzwerkes in der "Bildungsregion Stadt Düsseldorf" - mehrheitlich beschlossen
+- TOP 44: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2008 - zur Kenntnis genommen
+- TOP 45: Mitgliedschaft der Stadt Düsseldorf im Verein Anna Maria Luisa de' Medici - vertagt
+- TOP 46: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 47: Planungsmaßnahmen
+- TOP 48: Stadtentwicklungskonzept Düssseldorf 2020+ - mehrheitlich beschlossen
