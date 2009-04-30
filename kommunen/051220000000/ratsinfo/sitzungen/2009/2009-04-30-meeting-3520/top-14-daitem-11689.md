@@ -1,0 +1,7 @@
+# TOP 14: Grundschule Kreuzweg
+
+- Sitzung: Bezirksvertretung Mitte (2009-04-30)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11689
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/7101
