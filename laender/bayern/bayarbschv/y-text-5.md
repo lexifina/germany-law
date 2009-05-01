@@ -1,0 +1,1 @@
+die Bayerischen Staatsministerien des Innern, der Justiz und für Verbraucherschutz sowie für Wissenschaft, Forschung und Kunst im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
