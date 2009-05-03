@@ -8,7 +8,7 @@ Inhaltsübersicht
 2. Abschnitt Zulassung der Veranstalter
 § 5 Zulassung von Rundfunkprogrammen
 § 6 Zulassungsvoraussetzungen
-§ 7 Sicherung der Meinungsvielfalt
+§ 7 Sicherung der Meinungs- und Angebotsvielfalt
 § 8 Vermeidung vorherrschender Meinungsmacht
 § 9 Mitwirkungspflichten
 § 10 Auswahlgrundsätze
