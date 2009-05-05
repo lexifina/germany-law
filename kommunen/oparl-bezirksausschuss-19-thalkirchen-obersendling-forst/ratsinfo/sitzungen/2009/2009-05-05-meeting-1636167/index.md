@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2009-05-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1636167
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1636167
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 31.03.09
+- TOP 2: Anträge
+- TOP 2.1.: Zwischennutzung Ratzingerplatz
+- TOP 2.2.: Termin Außerordentliche Sitzung "EKZ"
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Kirchenstiftung St. Maria-Thalkirchen
+- TOP 3.2.: Lilalu e.V.
+- TOP 3.3.: Andreaskirche
+- TOP 3.4.: Regsam
+- TOP 3.5.: Trägerverein Bürgersaal
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Grundsatzbeschluss - Förderung des Radverkehrs
+- TOP 5.2.: SWM - Leistungsprogramm 2010
+- TOP 5.3.: Neuregelung des ruhenden Verkehrs Drygalski-Allee
+- TOP 5.4.: Einführung gekennzeichneter Radwege
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Bebauungspläne für den südöstlichen Bereich Forstenried
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Neubau eines Sport- und Spielplatzes zwischen Limmatstr - Drygalski-Allee, Ecke Drygalski-Allee / Züricher Str.
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Satzungsänderung - Unterrichtung bzw. Anhörung bei Genehmigung von Baumaßnahmen nach der Erhaltungssatzung
+- TOP 9.2.: Satzungsänderung - Entscheidungsrecht bei Nutzung des gesamten öffentlichen Raumes
+- TOP 9.3.: Mobile Kaffeebar - Aidenbach-/Gmunder Straße
+- TOP 9.4.: Gaststättenfortführung Waakirchner Str. 33
+- TOP 9.5.: Gaststättenfortführung Hofmannstr. 23
+- TOP 9.6.: Gaststättenfortführung Graubündener Str. 100
+- TOP 9.7.: Gaststättenfortführung Hofmannstr. 43
+- TOP 9.8.: Gaststättenfortführung Zentralländstr. 30
+- TOP 10: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
