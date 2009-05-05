@@ -1,0 +1,91 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-05-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618102
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618102
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: TSV München 54 e.V.; Juniorenturnier am 30.04.2009
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Musikinstitut Bilan; Anl. 20jährigen Bestehens zwei Konzertaufführungen am 29.03. und 19.07.09
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Männergesangsverein Feldmoching e.V.; Konzert zum 50jährigen Bestehen am 09.05.2009
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Elternbeirat der Grundschule Eduard-Spranger-Straße; Kauf eines E-Pianos
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Bürgerverein Lerchenau; 90-Jahr-Feier am 16.05.2009
+- TOP 2.6.: Budget der Bezirksausschüsse Antrag der Evangeliumskirche vom 12.01.2009 beim BA 24 Konzerte im Jahr 2009
+- TOP 2.7.: Entscheidung über Sondernutzungserlaubnis Blumenverkaufsstand (Neuantrag) in der Dülferstr. 16
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Schaffung von ausreichenden Hort- und Kindergartenplätzen sowie Verbesserung der Situation der Mittagsbetreuung in der Fasanerie, der Siedlung am Lerchenauer See und Feldmoching (UA Schule, Sport, Soziales im BA 24)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Z 283 statt Z 286 auf der Südseite der Paulckestraße (vertagt in der Sitzung am 31.03.2009)
+- TOP 5.2.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Kristallstr. 10 - 16 b) Kristallstr. 18 - 32 (vertagt in der Sitzung am 31.03.2009) c) Opalstr. 10 - 16 d) Reigersbachstr. 14 - 16
+- TOP 5.3.: Anhörung im Einzelfall auf Anforderung: Bauvorhaben Hochmuttinger Straße (vertagt in der Sitzung am 31.03.2009)
+- TOP 5.4.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009)
+- TOP 5.5.: Verkauf einer städtischen Immobilie: Schleißheimer Straße (Grundstück mit Bebauung)
+- TOP 5.6.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes
+- TOP 5.7.: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BAs; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung
+- TOP 5.8.: Änderung der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen
+- TOP 5.9.: Veranstaltung auf einer städtischen Grünanlage: Veranstaltung des Deutsch-Türkischen Kulturvereins e.V. vom 05.-07.06.2009 auf dem Dülferanger
+- TOP 5.10.: Veranstaltung auf einer städtischen Grünanlage: Sonnenwendfeuer am 27.06.2009 und Gartenfest für Vereinsmitglieder am 04.07.2009 in der Gartenanlage Lerchenauer Str. 250
+- TOP 5.11.: Veranstaltung auf einer städtischen Grünanlage: Streetsoccer auf dem Dülferanger am 27.06.2009
+- TOP 5.12.: Veranstaltung auf einer städtischen Grünanlage: Skateboard Contest auf der Skateanlage am Fasaneriesee/Feldmochinger Straße am 28.06.2009
+- TOP 5.13.: Veranstaltung auf öffentlichem Verkehrsgrund: Kinderfest Kreisjugendring am 27.06.2009
+- TOP 5.14.: Verkehrsrechtliche Anordnung nach §45 StVO: Schleißheimer Str. 415, Einrichtung einer Kurzparkzone
+- TOP 5.15.: Veranstaltung auf städtischer Grünanlage: Fahrradrallye um Feldmochinger See, Fasaneriesee und Lerchenauer See am 23.05.2009
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Verlegung des Kriegerdenkmals Fasanerie auf eine städtische Grünfläche (BA-Antrags-Nr. 02-08 / B 02628 vom 04.12.2007)
+- TOP 6.2.: Durchführung verdeckter Geschwindigkeitskontrollen in den Stoßzeiten im Kreuzungsbereich Dülfer-/Schaarschmidtstraße (BA-Antrags-Nr. 08-14 / B 00618 vom 11.11.2008)
+- TOP 6.3.: Verbotsschild für Hunde auf dem Spielplatz am Skabiosenplatz (Antrag Nr. 5 aus der Kinder- und Jugendsprechstunde am 21.11.2008)
+- TOP 6.4.: Spielbusse im BA 24
+- TOP 6.5.: Bauvorhaben Lerchenauer Str. 317
+- TOP 6.6.: Grundschule an der Lerchenauer Str. 322: a) Schimmel im Kindergarten, Baumaßnahmen b) Geplante Baumaßnahmen
+- TOP 6.7.: Einmündung Himmelschlüsselstr. in die Feldmochinger Str.
+- TOP 6.8.: Veranstaltung auf einer städtischen Grünanlage hier: Deutsch-Türkischer Kulturverein e.V. auf dem Goldschmiedplatz vom 05.-07.06.2009
+- TOP 6.9.: Bezirkssportanlage Ebereschenstr. 15; Mitbenutzung durch zwei Mannschaften durch die SpVgg Feldmoching
+- TOP 6.10.: Gründung eines Gymnasiums im Münchner Norden Schreiben des Bayer. Staatsministerium für Unterricht und Kultus
+- TOP 6.11.: S-Bahnhof Fasanerie: hier Schotteraustausch und Überdachung des Zugangs zur U-Bahn Feldmoching (Schreiben der DB Netz AG)
+- TOP 6.12.: Erneuerung Spielplatz am Frühlingsanger 6 (Schreiben der WSB Bayern)
+- TOP 6.13.: Wohnungseigentümergemeinschaft Dülferstr. 14, Frühlingsanger 7 in 80933 München Spielplatzangebot (Schreiben der Bayerischen Städtebau Immobilienverwaltungs GmbH)
+- TOP 6.14.: Veranstaltung auf einer städtischen Grünanlage: Festival der Marionetten auf dem Dülferanger vom 05.05.-12.05.2009 Vorabzustimmung
+- TOP 6.15.: Unveränderte Fortführung eines Gaststättenbetriebes Discount Gaststätte, Aschenbrennerstr. 8
+- TOP 6.16.: Verkehrsrechtliche Anordnung nach § 45 StVO: Rainfarnstraße: Beschränkung des Parkens auf Pkw an der Einmündung Gundermannstraße
+- TOP 6.17.: Verkehrsrechtliche Anordnung nach § 45 StVO: Halteverbot zur Gewährleistung der Anfahrt des Bücherbusses an der Schule in der Waldmeisterstraße 38
+- TOP 6.18.: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 6.19.: Informationsflyer "Baumaßnahmen der SWM" 1. Halbjahr 2009 für den BA
+- TOP 6.20.: Baumaßnahmen der SWM Erdgasprojekt Schleißheimer Straße
+- TOP 6.21.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.22.: Meldelisten Bauvorhaben
+- TOP 6.23.: Meldelisten Baumfällungsanträge
+- TOP 6.24.: Vollzug der Baumschutzverordnung: a) Karlsfelder Str. 16 b) Kohlröschenstraße
+- TOP 6.25.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.26.: Verlaufsdaten Kinderbetreuungsplätze
+- TOP 6.27.: Erster Tätigkeitsbericht des ehrenamtlichen Behindertenbeauftragten der Landeshauptstadt München 2005 - 2008
+- TOP 6.28.: Jugendberatung JAL München Hasenbergl Jahresbericht 2008
+- TOP 6.29.: Grundschul- und Kindertagesstättenanlage Lerchenauer Straße 322 im 24. Stadtbezirk Feldmoching - Hasenbergl a) Brandschutzmaßnahmen b) Einrichtung einer zusätzlichen Hortgruppe c) Sporthallensanierung d) Errichtung einer Hausmeisterwohnung e) Außendämmung des Kindergartens
+- TOP 6.30.: Budget der Bezirksausschüsse Änderung und Ergänzung der Richtlinien
+- TOP 6.31.: Blühende Straßenränder
+- TOP 6.32.: Quartierszentrum Hasenbergl Blodigstraße (östlich), Dülferstraße (nördlich)
+- TOP 6.33.: Bebauungsplan mit Grünordnung Nr. 1939 a Schleißheimer Straße (östlich), bestehendes BMW Forschungs- und Innovationszentrum (BMW FIZ) (nördlich) -BMW FIZ Erweiterung Nord-
+- TOP 6.34.: Bebauungsplan mit Grünordnung Nr. 1939 b Schleißheimer Straße (westlich), Olschewskibogen (süd-östlich)
+- TOP 6.35.: Reale und virtuelle Stadtmodelle - Fortschreibung des Stadtmodells 1:500 - Einsatz virtueller Modelle im Planungsreferat - Virtuelles Modell - Bundesweiter Erfahrungsaustausch städtischer Modellwerkstätten
+- TOP 6.36.: Bevölkerungsprognose der Bertelsmann Stiftung für München
+- TOP 6.37.: Veränderung der Poststandorte in München
+- TOP 6.38.: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 6.39.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2008 - 31.12.2008
+- TOP 6.40.: Solarenergetische Optimierung von größeren Neubaugebieten
+- TOP 6.41.: Vergabe von Planungsleistungen an Private
+- TOP 6.42.: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der Landeshauptstadt München (Neufassung vom 17.03.2009)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
