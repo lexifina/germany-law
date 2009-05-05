@@ -1,0 +1,6 @@
+# TOP 8: Ergänzung von Angaben am Schwann-Denkmal vor der Alten Post
+
+- Sitzung: Kulturausschuss (2009-05-05)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/108977
