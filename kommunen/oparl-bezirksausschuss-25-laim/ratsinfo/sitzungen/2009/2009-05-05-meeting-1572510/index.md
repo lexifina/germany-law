@@ -1,0 +1,96 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-05-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572510
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572510
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Zebrastreifen über Elsenheimer Straße bei Haus Nr. 41/43 (Vertagung aus der BA-Sitzung vom 31.03.09)
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Kreuzung Lautensackstraße / Schäufeleinstraße / Elsenheimerstraße (Vertagung aus der BA-Sitzung vom 03.03.09)
+- TOP 2.2.: CSU-Fraktion: Verleih von Kinderbuggys im Westbad
+- TOP 2.3.: SPD-Fraktion: Taubenkot am Aufgang zum S-Bahnhof Laim
+- TOP 3: Entscheidungsfälle
+- TOP 1: Beschlussvorlage Sozialreferat: (E) Förderung von Mehr-Generationen-Projekten in Laim Empfehlung Nr. 08-14 / E 00193 ...................... - <div>vertagt</div>
+- TOP 1.2.: Beschlussvorlage Direktorium: Entscheidung über Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 1.400 Euro für Spielaktion im Mai 2009; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 1.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.000 Euro für Spielprogramm vom 14.08.30.08.09; Antragsteller: Lilalu e.V.
+- TOP 1.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 750 Euro für Modernisierung der Möblierung; Antragsteller: Kath. öffentliche Bücherei St. Willibald
+- TOP 1.5.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 190 Euro für Spieltag am 29.05.09; Antragsteller: Familienzentrum Laim e.V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 12.03.09: Radverkehr; Öffnung der Valpichlerstraße zwischen Wimpfener Straße und Fürstenrieder Straße für den gegenläufigen Radverkehr; Öffnung der Käpflstraße zwischen Senftenauerstraße und Saherrstraße für den gegenläufigen Radverkehr
+- TOP 4.2.: Schreiben Direktorium vom 24.03.09: Änderung der BA-Satzung; Unterrichtungsrecht bei Neukonzeption von Ampel und Ampelschaltung
+- TOP 4.3.: Schreiben Direktorium vom 27.03.09: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes
+- TOP 4.4.: Schreiben Direktorium vom 27.03.09: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BAs; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung
+- TOP 4.5.: Schreiben Planungsreferat vom 15.04.09: Bebauungsplan mit Grünordnung Nr. 1997 Bahnlinie Hauptbahnhof - Pasing (südlich) zwischen Am Knie und Willibaldstraße
+- TOP 4.6.: Schreiben MVG vom 03.04.09: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009)
+- TOP 4.7.: Schreiben KVR vom 26.03.09: Maiandacht am 27.05.09 am St. Ulrichplatz; Gebet am 14.06.09 auf dem Laimer Anger; Gospelkonzert am 16.06.09 auf dem Laimer Anger
+- TOP 4.8.: Schreiben KVR vom 07.04.09: Spieltag auf dem Hogenbergplatz am 28.05.09
+- TOP 4.9.: Schreiben KVR vom 23.03.09: Straßenfest am 18.07.09 auf dem Prannerplatz / Stöberlstraße
+- TOP 4.10.: Schreiben KVR vom 17.04.09: Streetsoccer-Turnier auf dem Laimer Anger am 19.07.09
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 263-273: Modernisierung und DG-Umbau (Landsberger Str. 263-271), Neubau (Landsberger Str. 273); hier: Baupläne
+- TOP 5.2.: Rattenhuberstr. 12: Aufstockung eines Bungalows; hier: Baumfällungen
+- TOP 5.3.: Flotowstr. 25: Neubau zweier Reihenhäuser mit 3 Wohnungen und Garagen; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 16.03.09
+- TOP 7.2.: Ortstermin UA Umwelt / Verkehr am 20.04.09
+- TOP 7.3.: Ortstermin UA Umwelt / Verkehr vom 23.04.09
+- TOP 7.4.: Sitzung UA Kultur vom 21.04.09
+- TOP 7.5.: Sitzung BA vom 31.03.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 17.04.09: Zuwendung aus dem Haushaltsjahr 2007, Widerrufsbescheid / Antragsteller: Kindergarten "Laimer Strolche e.V."
+- TOP 8.2.: Schreiben Referat für Gesundheit und Umwelt vom 26.03.09: Nächtliche Beleuchtung des Büro- und Geschäftsgebäudes Landsberger Str. 374 (Antrag Nr. 02-08 / B 02993 vom 04.03.08)
+- TOP 8.3.: Schreiben KVR vom 31.03.09: Gaststätte "Yelken", Senftenauerstr. 50; unveränderte Fortführung
+- TOP 8.4.: Schreiben KVR vom 02.04.09: Gaststätte "Gelatok", Fürstenrieder Str. 65; unveränderte Fortführung
+- TOP 8.5.: Schreiben KVR vom 03.04.09: Gaststätte "Torbogenstüberl", Stöberlstr. 33; unveränderte Fortführung
+- TOP 8.6.: Schreiben Stadtwerke München GmbH vom 08.04.09: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2009
+- TOP 8.7.: Schreiben Stadtwerke München GmbH vom 21.04.09: Baumaßnahmen der SWM; Fernwärmeprojekt Fürstenrieder Straße / Änderung im Terminablauf
+- TOP 8.8.: Schreiben Planungsreferat vom 18.03.09: Landsberger Str. 286; Laim MK 2: Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 8.9.: Schreiben Planungsreferat vom 26.03.09: Umwandlungsverbot von Miet- in Eigentumswohnungen (Antrag Nr. 02-08 / B 02750 vom 08.01.08)
+- TOP 8.10.: Schreiben Planungsreferat vom 02.04.09: Neuer S-Bahn-Haltepunkt Friedenheimer Brücke
+- TOP 8.11.: Schreiben Planungsreferat vom 08.04.09: Bauvorhaben Willibaldstr. 7; beantragte Baumfällungen
+- TOP 8.12.: Schreiben Sozialreferat vom 20.03.09: Verlaufsdaten
+- TOP 8.13.: Schreiben Büro des Behindertenbeauftragten vom März 09: Tätigkeitsbericht
+- TOP 8.14.: Schreiben Behindertenbeirat vom 27.03.09: Jahresbericht 2008
+- TOP 8.15.: Schreiben Gleichstellungsstelle für Frauen vom 07.01.09: Einladung zum Treffen der Frauen- und Genderbeauftragten der BAs am 19.05.09
+- TOP 8.16.: Schreiben Ausländerbeirat vom 09.04.09: Infobrief 21 / April 2009
+- TOP 8.17.: Bautenliste vom 16.03.-22.03.09 1. Erstantragsverfahren a) Lutzstr. 37 b) Agricolastr. 59 c) Camerloherstr. 181
+- TOP 8.18.: Bautenliste vom 23.03.-29.03.09 1. Erstantragsverfahren a) Landsberger Str. 263 b) Rattenhuberstr. 12 c) Fotowstr. 25
+- TOP 8.19.: Bautenliste vom 30.03.-05.04.09 und 06.04.-12.04.09: 1. Erstantragsverfahren a) Gotthardstr. 44 b) Geßlerstr. 6 c) Perhamerstr. 17 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Stadtlohner Str. 2 b) Stadtlohner Str. 16 c) Stadtlohner Str. 5 d) Perhamerstr. 1 e) Fürstenrieder Str. 10
+- TOP 8.20.: Bautenliste vom 13.04.-19.04.09: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Reutterstr. 42
+- TOP 8.21.: Schreiben Planungsreferat vom 23.03.09: Liste der beantragten Baumfällungen vom 16.03.-23.03.09
+- TOP 8.22.: Schreiben Planungsreferat vom 31.03.09: Liste der beantragten Baumfällungen vom 23.03.-29.03.09
+- TOP 8.23.: Schreiben Planungsreferat vom 14.04.09: Liste der beantragten Baumfällungen vom 30.03.-05.04.09 und 06.04.-12.04.09
+- TOP 8.24.: Schreiben Planungsreferat vom 20.04.09: Liste der beantragten Baumfällungen vom 13.04.-19.04.09
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 23.03.09: Baumaßnahmen der Stadtwerke; Stichtag: 23.03.09
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 30.03.09: Baumaßnahmen der Stadtwerke; Stichtag: 30.03.09
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 06.04.09: Baumaßnahmen der Stadtwerke; Stichtag: 06.04.09
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 14.04.09: Baumaßnahmen der Stadtwerke; Stichtag: 14.04.09
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 20.04.09: Baumaßnahmen der Stadtwerke; Stichtag: 20.04.09
+- TOP 8.30.: Beschluss der Vollversammlung vom 18.03.09: Neufassung der Richtlinien für Sondernutzungen an den öffentlichen Straßen der LH München, Neufassung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der LH München (Sitzungsvorlagen Nr. 08-14 / V 01266)
+- TOP 8.31.: Beschluss des Bauausschusses vom 31.03.09: Blühende Straßenränder (Sitzungsvorlagen Nr. 08-14 / V 01047)
+- TOP 8.32.: Beschluss des Bauausschusses vom 31.03.09: Pasing Zentrum, Gestaltung von Straßen und Plätzen im 21. Stadtbezirk Pasing-Obermenzing (Sitzungsvorlagen Nr. 08-14 / V 01872)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Reale und virtuelle Stadtmodelle (Sitzungsvorlagen Nr. 08-14 / V 01494)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Bevölkerungsprognose der Bertelsmann Stiftung für München (Sitzungsvorlagen Nr. 08-14 / V 1869)
+- TOP 8.35.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Veränderung der Poststandorte in München (Sitzungsvorlagen Nr. 08-14 / V 01585)
+- TOP 8.36.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.09: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.08-31.12.08 (Sitzungsvorlagen Nr. 08-14 / V 01941)
+- TOP 8.37.: Bekanntgabe in der Sitzung des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Bauausschuss und Kreisverwaltungsausschuss vom 01.04.09: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung" (Sitzungsvorlagen Nr. 08-14 / V 01913)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: Solarenergetische Optimierung von größeren Neubaugebieten (Sitzungsvorlagen Nr. 08-14 / V 01992)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: Vergabe von Planungsleistungen an Private (Sitzungsvorlagen Nr. 08-14 / V 02065)
+- TOP 8.40.: Schreiben BA 1 Altstadt-Lehel vom 27.03.09: Neuauflage der Broschüre über die Bezirksausschüsse
+- TOP 8.41.: Schreiben Bayerisches Landesamt für Denkmalpflege vom 20.03.09: Tag des offenen Denkmals am 13.09.09
+- TOP 8.42.: Schreiben STÜPS vom 18.03.09: Jahresbericht
+- TOP 8.43.: Schreiben DB Netze vom 14.04.09: Toilettensituation am S-Bahnhof München-Laim (Schreiben BA vom 17.03.09)
+- TOP 8.44.: Schreiben Klima-Bündnis vom 17.04.09: Bundesweiter Wettbewerb "Stadtradeln - Unsere Stadt fährt Rad"
+- TOP 8.45.: Schreiben Bund Naturschutz in Bayern e.V. vom 13.04.09: Baumschutz im Stadtteil
+- TOP 8.46.: Schriftverkehr aus der BA-Sitzung vom 31.03.09
+- TOP 1.2: Bürgerpost an den BA
