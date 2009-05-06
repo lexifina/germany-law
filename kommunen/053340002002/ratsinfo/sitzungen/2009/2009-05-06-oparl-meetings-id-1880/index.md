@@ -1,0 +1,62 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2009-05-06T17:00:00+02:00
+- Ende: 2009-05-06T19:00:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1880
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1880
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 25.03.2009; die Niederschrift über die Sitzung des Rates der Stadt wurde inzwischen übersandt.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Audit familiengerechte Kommune - ungeändert beschlossen
+- TOP 5: Übergang der Schulträgerschaft für die Kleebach-Schule und die Lindenschule auf die StädteRegion Aachen - ungeändert beschlossen
+- TOP 6: Jahresabschluss 2007 für Eurogress Aachen - ungeändert beschlossen
+- TOP 7: VHS Jahresabschluss zum 31. 12. 2007 und Lagebericht 2007 - ungeändert beschlossen
+- TOP 8: VHS - Entwurf Wirtschaftsplan 2009einschließlich mittelfristige Ergebnis- und Finanzplanung 2009 bis 2013 - ungeändert beschlossen
+- TOP 9: VHS - Verlegung von Stolpersteinen Projekt des Kölner Künstlers Gunter Demnig - ungeändert beschlossen
+- TOP 10: 1. Vorstellung des Spielplanes 2009/2010 von Stadttheater und Musikdirektion Aachen 2. Vorstellung des Konzertplanes 2009/2010 von Stadttheater und Musikdirektion Aachen 3. Wirtschaftsplan von Stadttheater und Musikdirektion 2009/20104. Vorläufiger Wirtschaftsplan von Stadttheater und Musikdirektion Aachen 2010/2011 - vertagt
+- TOP 11: Veränderung der Eintrittspreise von Stadttheater und Musikdirektion Aachen ab dem Geschäftsjahr 2009/2010 - ungeändert beschlossen
+- TOP 12: Jahresabschluss 2006/2007 von Stadttheater und Musikdirektion Aachen - ungeändert beschlossen
+- TOP 13: Beschleunigung von Investitionen durch Vereinfachung des Vergaberechteshier: befristete Anpassung der Fraktionsinfos nach § 3 Buchstabe b) und c) der Zuständigkeitsordnung sowie Ergänzung der Zuständigkeitsordnung hinsichtlich Architekten- und Ingenieurverträge alsneue Regelung § 3 Absatz 2 Ziffer d - ungeändert beschlossen
+- TOP 14: Übernahme der Unterhaltungspflicht von Fließgewässern durch den Wasserverband Eifel- Rur - ungeändert beschlossen
+- TOP 15: Umsetzung der europäischen Luftqualitätsrichtlinien in NRWVorbereitung einer lokalen Verordnung (Brennstoffverordnung), gültig für den lufthygienisch besonders belasteten Talkessel Aachen - vertagt
+- TOP 16: Verlängerung der Satzung über eine Veränderungssperre für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich an der Eupener Straße - ungeändert beschlossen
+- TOP 17: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 396 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Prinz-Heinrich-Straße (Brüsseler Ring), Kannegießerstraße, Herman-Löns-Allee, Am Hangeweiher und Lohmühlenstraßehier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 18: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 416 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich der Ringstraße (Luxemburger Ring) zwischen Steinebrück und Höfchensweghier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 19: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 425 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Eupener Straße, Diepenbenden und dem Chorusberg hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 20: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 445 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Eupener Straße, Höfchensweg und Salieralleehier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 21: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 450 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich westlich der Eupener Straße zwischen Diepenbenden und Zweiweiherweg hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 22: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 458 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Kornelimünsterweg, Monschauer Straße, Gillesbach und Ehrenfriedhofhier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 23: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 487 und seiner I. Änderung für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Am Chorusberg, Hangstraße und Eupener Straßehier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 24: Aufhebung des Bebauungsplanes (Durchführungsplanes) Nr. 565 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Monschauer Straße und Fuchserdehier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 25: Aufhebung des Bebauungsplanes Nr. 668 - Gewerbebereich Roermonder Straße - für den Planbereich im Stadtbezirk Aachen-Richterich im Bereich zwischen Roermonder Straße, Bahnlinie Aachen-Düsseldorf und dem Amstelbachhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 26: Bebauungsplan Nr. 913 - Roder Weg - für den Planbereich im Stadtbezirk Aachen-Richterich im Bereich zwischen Roermonder Straße, Bahnlinie Aachen-Düsseldorf und Amstelbachhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 27: Bebauungsplan Nr. 894 S - Lütticher Straße / Hasselholzer Weg, (Teil Süd) - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Hasselholzer Weg, Adamshäuschen Preusweg und Lutherweghier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 28: Bebauungsplan Nr. 917- Trierer Straße / Königsberger Straße - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Driescher Hofhier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 29: Bebauungsplan Nr. 893 - Eupener Straße, Am Chorusberg, Diepenbenden - im Stadtbezirk Aachen-Mitte für den Bereich Eupener Straße, Zweiweiherweg, Diepenbenden, Hangstraße, Am Chorusberg und Luxemburger Ring hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 30: Genehmigung der Dringlichkeitsentscheidung zum Erlass einer Satzung über ein besonderes gemeindliches Vorkaufsrecht gemäß § 25 BauGB im Planbereich Krefelder Straße / Feldchen - ungeändert beschlossen
+- TOP 31: Satzung über die förmliche Festsetzung des Sanierungsgebietes Aachen-Nord - ungeändert beschlossen
+- TOP 32: Beratung und Genehmigung des Bedarfsplans 2010 der Stadt Aachen zur Durchführung des Rettungsdienstes nach Abschluss des Beteiligungsverfahrens - ungeändert beschlossen
+- TOP 33: Wahl des Wahlausschusses für die Migrationsratswahl am 08. November 2009 - ungeändert beschlossen
+- TOP 34: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 34.1: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 34.2: Umbesetzung auf Vorschlag der CDU-Fraktion
+- TOP 35: Anfragen
+- TOP 36: Mitteilungen der Verwaltung und Ratsanträge
+- TOP 37: Haushalt 2009 / Schlussverfügung
+- TOP 38: 1. Nachtrag zur Satzung über die förmliche Festsetzung des Sanierungsgebietes "Hauptbahnhof Aachen“ vom 08.10.2001 - ungeändert beschlossen
+- TOP 39: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 39.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2009 hier: Sportpark Soers, Vorplatz Stadion - ungeändert beschlossen
+- TOP 39.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2009 hier: Umgestaltung Elisengarten - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
