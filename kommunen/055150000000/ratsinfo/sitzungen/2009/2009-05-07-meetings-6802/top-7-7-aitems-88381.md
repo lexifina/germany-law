@@ -1,0 +1,8 @@
+# TOP 7.7: Bebauungsplan Nr. 342, 3. Änderung - Beschluss zur Änderung
+
+- Sitzung: 40. Sitzung (2009-05-07)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/88381
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/42007
