@@ -1,0 +1,7 @@
+# TOP 1: Zukunft der Platanenallee im Treptower Park
+
+- Sitzung: 50. (öfftl.; außerordentliche) Sitzung des Ausschusses für Stadtplanung und Verkehr (2009-05-07)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=21354
+- Ergebnis: erledigt
