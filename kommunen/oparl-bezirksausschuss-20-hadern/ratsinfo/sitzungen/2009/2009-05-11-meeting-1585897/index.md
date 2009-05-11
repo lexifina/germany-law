@@ -1,0 +1,77 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-05-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1585897
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1585897
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Gelände der ehemaligen Post in der Terofalstr.
+- TOP 1.2.: Bolzplatz am Stiftsbogen 15 a (vertagt aus 04/09)
+- TOP 1.3.: Abbiegeregelung an der Kreuzung Fürstenriederstr. / Guardinistr. / Ehrwalder Str.
+- TOP 1.4.: Verschandelte Aussicht in Richtung Neurieder Wald
+- TOP 1.5.: Parksituation an der Kreuzung Klematisstr. / Alpenveilchenstr.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mobilfunk; Suchkreismeldung E-Plus, Kreuzhof II (Referat für Gesundheit und Umwelt, 20.04.09)
+- TOP 6.2.: Veranstaltung in einer städt. Grünanlage, hier: Flohmarkt des Kindergartens Ludwig-Wörl-Weg am 09.10.09 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 22.04.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Krokusstr. 33, 1 Scheinzypresse
+- TOP 7.2.: Cochemstr. 3, 1 Schwarzkiefer
+- TOP 7.3.: Kruckenburgstr. 34, gem. Baumbestandplan und Freiflächengestaltungsplan Nr. 8540
+- TOP 7.4.: Veilchenstr. 11, 1 Coloradotanne
+- TOP 7.5.: Stahleckstr. 10, 1 Birke
+- TOP 7.6.: Heiglhofstr. 54, 1 Weide, 1 Hainbuche, 1 Spitzahorn
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, Strom in der Hohenklingenstr. (SWM, 06.04.09)
+- TOP 8.2.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2009 für den BA (SWM, 08.04.09)
+- TOP 8.3.: Errichtung einer Werbeanlage, Würmtalstr. 2 b (Referat für Stadtplanung und Bauordnung, 01.04.09)
+- TOP 8.4.: Unveränderte Fortführung: - "Widmann", Heiglhofstr. 11 (Kreisverwaltungsreferat, 21.04.09) - "Gelat ok", Terofalstr. 8 (Kreisverwaltungsreferat, 28.04.09)
+- TOP 8.5.: Kurze Info-Broschüre zur Verpackungsverordnung (AWM, 23.04.09)
+- TOP 8.6.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Kindergartenplätzen: - Großhaderner Str. 34 (Schul- und Kultusreferat, 24.04.09) - Stiftsbogen 58 (Schul- und Kultusreferat, 24.04.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Mehr Sicherheit für Fußgänger durch Umgestaltung der Kreuzung Pfingstrosenstr. / Schachblumenweg / Am Wiesenhang (Baureferat, 08.04.09)
+- TOP 9.2.: Ausfahrt von der Anliegerstraße auf die Würmtalstr. (Baureferat, 20.04.09)
+- TOP 9.3.: Verlängerung des Holzgeländers an der Bushaltestelle Würmtalstr. / Waldhüterstr. (Baureferat, 20.04.09)
+- TOP 9.4.: Radverkehr; Öffnung des Hans-Grässel-Weges für Fahrradfahrer entgegen der Einbahnrichtung (Kreisverwaltungsreferat, 23.04.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Erschließungsmaßnahme "Am Stiftsbogen" in München-Großhadern; Zwischennutzung des für eine Polizeidienststelle vorgehaltenen Grundstücks als Naturspielberg (Immobilien Freistaat Bayern, 06.04.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung zum kostenlosen Fachforum am Mittwoch 13.05.09 "Optimale Ausnutzung der Förderprogramme, Energetische Sanierung - Erneuerbare Energien" (Referat für Gesundheit und Umwelt, April 09)
+- TOP 11.2.: Dokumentation zum Fachtag "Quartierbezogene Bewohnerarbeit" ist im Internet abrufbar (konzept: grün GmbH im Auftrag des Sozialreferates, 27.04.09)
+- TOP 11.3.: Aktionsforum für Familien - 1. Münchner Aktionstag für Familien am 15.05.09 (Sozialreferat, 28.04.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 22.04.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02016: Teilfortschreibung des Landesentwicklungsprogrammes Bayern (LEP), Ziviler Luftverkehr, Ziele B V 1.6.5 und B V 1.6.8, Gesamtstädtische Stellungnahme
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen SItzung vom 24.03.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01672: Zuschussnehmerdatei 2009, Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 24.03.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01685: Zuschussnehmerdatei 2009, Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere zum Bewohnertreff Blumenau (Ansatz in 2009 = 55.000,- ?, S. 5 und Anlage 4.1.7, Nr. 27, S. 2), zur "Nachbarschaft Kleinhadern, Na klar!" (Ansatz in 2009 = 13.000,- ?, Anlage 4.1.7, Nr. 41, S. 4) und zur Wf Krokusstr. 73 der Firma KOMPRO München Krokusstr. GmbH & Co. KG (Ansatz in 2009 = 3.000,- ?, Vertragslaufzeit 5 Jahre, Anlage 4.1.8, Nr. 23, S. 3)
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 24.03.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01680: Zuschussnehmerdatei 2009, Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere zum Kinderhaus Wolkerweg (Ansatz 198.148,- ?) und zum "PfiffTEEN Treffpunkt für Jugendliche" (Ansatz 307.167,- ?, Anlage 3.1.1, Nr. 56 + 57, S. 3), zum "Treff 21, Schule-Beruf e.V." (Ansatz 341.335,- ?, Anlage 3.1.1, Nr. 66, S. 3) sowie zur "Nachbarschaft Neuhadern, Bewohnertreff" (Ansatz 98.518,- ?, Anlage 3.2.2, Nr. 2, S. 1)
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen SItzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 24.03.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01699: Zuschussnehmerdatei 2009, Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere zum ASZ Kleinhadern-Blumenau (Ansatz 207.101,- ?, Anlage 5.1.2, Nr. 46, S. 5) und zur Altenwohnanlage Konrad-Dreher-Str. 19 - 23 (Ansatz 50.267,- ?, Anlage 5.1.2, Nr. 69, S. 6)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.04.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01494: Reale und virtuelle Stadtmodelle
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02065: Vergabe von Planungsleistungen an Private
+- TOP 12.2.: Beschluss des Sozialausschusses vom 30.04.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01904: Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Schloss-Prunn-Str. 1, Erdgeschoss für die Fortführung der Nutzung als Kinderarztpraxis (Das Sozialreferat befürwortet die Genehmigung im Einvernehmen mit dem BA, Beschluss vom 09.02.2009)
+- TOP 12.3.: Beschluss des Bauausschusses vom 05.05.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02093: Keine Ablagerung des Aushubs der Baustelle am Luise-Kiesselbach-Platz im Landschaftspark Pasing - Laim - Blumenau - Hadern BA-Antr. Nr. 45 vom 05.05.2008 (Das Zwischenlager wird nach Freiham verlegt.)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01715: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008/2009)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.04.2009 zur Sitzungsvorlage-Nr. 08-14 / 01941: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2008 - 31.12.2008
+- TOP 12.2.: Bekanntgabe in der Sitzung des Sozialausschusses vom 30.04.2009 zur Sitzungsvorlage-Nr. 08-14 / V 1857: Vollzug der Zweckentfremdungsverordnung
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
