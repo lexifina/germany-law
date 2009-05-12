@@ -1,0 +1,73 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593476
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593476
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Kommunale Verkehrsüberwachung; Strafzettel während der Ladetätigkeiten
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Genehmigung einer Freischankfläche; Schrenkstr. 13
+- TOP 4.2.: Verkaufseinrichtung auf öffentlichem Grund; Westendstr. 140
+- TOP 4.3.: Sperrzeitaufhebung; Alte Kongresshalle
+- TOP 4.4.: Genehmigung einer Freischankfläche; Westendstraße 29
+- TOP 5: Anhörungen
+- TOP 5.1.: Bikepolo-Turnier auf dem Georg-Freundorfer-Platz; 27. - 28.06.2009
+- TOP 5.2.: Eröffnungsfeier Kundencenter, Ganghoferstr.37-39; 26.06.2009
+- TOP 5.3.: Flohmärkte in der Grünanlage Gollierplatz
+- TOP 5.4.: Änderung der BA-Satzung; Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen
+- TOP 5.5.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes; Antrag des BA2 vom 03.03.09
+- TOP 5.6.: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BA's; Genehmigung von Baumaßnahmen nach Erhaltungssatzung; Antrag des BA 2 vom 11.03.09
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten Bauvorhaben
+- TOP 6.1.2.: Vorbescheid Heimeranstr. 68
+- TOP 6.1.3.: Vorkaufsrecht Heimeranstraße
+- TOP 6.1.4.: Vorkaufsrecht Parkstraße
+- TOP 6.1.5.: Quartiersplatz "Bahndeckel" Theresienhöhe; Teilprojekt 2 Grünfläche "Bahndeckel" Theresienhöhe
+- TOP 6.1.6.: Grundstücksverkehr Oda-Schaefer-Weg
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Zusammenarbeit zwischen SBH Laim-Schwanthalerhöhe und BA
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.3.1.: Bauernmarkt auf dem Georg-Freundorfer-Platz
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Spartenanfrage Ganghoferstraße Esplanade südl. Ben-Chorin-Straße
+- TOP 6.4.2.: Gollier- / Astallerstraße zwischen Ridler- und Kazmairstraße; Erneuerungsmaßnahme mit Verbesserungen
+- TOP 6.4.3.: Bergmannstraße; Erneuerungsmaßnahmen mit Verbesserungen
+- TOP 6.4.4.: Neubau Fernwärmeleitung "Westend Los 2 - 2. Bauabschnitt"
+- TOP 6.4.5.: Meldelisten Baumaßnahmen
+- TOP 6.4.6.: Koordination Straßenbau und Fernwärme
+- TOP 6.4.7.: Erhalt der Verbindungsstraßen auf der Theresienwiese während der Zeit des Oktoberfestaufbaus
+- TOP 6.4.8.: Wettbewerb " Stadtradeln - Unsere Stadt fährt Rad"
+- TOP 6.4.9.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009)
+- TOP 6.4.10.: Kurze Info-Broschüre zur Verpackungsordnung; Containerinseln in München
+- TOP 6.4.11.: Baumfällung Guldeinstraße 51
+- TOP 6.4.12.: Baumschutz im 8. Stadtbezirk
+- TOP 6.4.13.: Gefällte Bäume in der Gollierstraße
+- TOP 6.4.14.: Beschädigte Bäume an der Heimeranstraße / Ganghoferstraße
+- TOP 6.4.15.: Containerstandort Max-Friedländer-Bogen
+- TOP 6.4.16.: Unterführung an der Hans-Fischer-Straße
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Antrag der IG-Feuerwache über ? 2.060,- - vertagt aus der April-Sitzung -
+- TOP 6.5.2.: Antrag Kultur& Spielraum e.V. über ? 7.500,- - vertagt aus der April-Sitzung -
+- TOP 7: Erledigungen
+- TOP 7.1.: Denkmal am Sinti-Roma-Platz dauerhaft errichten; Antrag Nr. 02-08 / B 2645 des BA 8 vom 11.12.07
+- TOP 8: Anträge
+- TOP 8.1.: Radverkehr in München;Grundsatzbeschluss zur Förderung des Radverkehrs in München vertagt aus der April-Sitzung
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Gefahrenbaumfällung im 8. Stadtbezirk
+- TOP 9.2.: Tag des offenen Denkmals am 13. September 09; "Historische Orte des Genusses"
+- TOP 9.3.: Kinderkrippe Kazmairstraße 23; Sachstandsbericht
+- TOP 10: Verschiedenes
+- TOP 10.1.: Neuauflage der BA-Broschüre
+- TOP 11: Protokoll und Umlauf
