@@ -1,0 +1,108 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2009-05-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1577455
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1577455
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Unsere Stadt - Unsere Straßen III; München Obergiesing; Schreiben der Janusch Kozminski Filmproduktion vom 24.04.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Erweiterung des Nutzungskonzeptes für das auf dem Gelände der SpVgg 1906 / Haidhausen zu erichtende Minispielfeld; Antrag der Fraktion B90 / Die Grünen im BA 17 vom 28.04.2009 - <div>nach Antrag</div>
+- TOP 3.2.: Sanierung der Mietwohnungen der ehemaligen "Neuen Heimat" in Obergiesing - <div>nach Antrag</div>
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Tegernseer Landstr. 24; Beschluss des BA 17 vom 12.05.2009
+- TOP 0.2.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 17 Obergiesing; Widmung der Gesamtstrecke der Bantingstraße und einer Teilstrecke der Pennstraße; Sitzungsvorlage Nr. 08-14 / V 02141; Beschluss des BA 17 vom 12.05.2009
+- TOP 0.1.: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BAs; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung; BA-Antrags-Nr. 08-14 / B 00942 des BA 02 - Ludwigsvorstadt-Isarvorstadt vom 03.03.09; Az.: D-II-BA 1150/540-09/11; Zuleitung des Direktoriums vom 27.03.09 mit der Bitte um Stellungnahme
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.2.1 SSW "Mex Lounge & Bar", St.-Bonifatius-Straße; Mitteilung vom 15.04.2009 5.1.4.2.2 SSW "bei Kaptan", Weinbauernstraße; Mitteilung vom 15.04.2009 5.1.4.2.3 Kleingaststätte "Mama", Schwanseestraße; Mitteilung vom 14.04.2009 5.1.4.2.4 Kleingaststätte "Schwansee-Lounge", Schwanseestr.; Mitteilung vom 23.04.2009
+- TOP 0.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 5.1.4.3.1 Anwesen in der Fasangartenstraße; Unterrichtung vom 01.04.09 5.1.4.3.2 Anwesen Tegernseer Platz; Unterrichtung vom 17.04.09
+- TOP 0.4.: Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen; BA-Antrags-Nr. 02-08 / B 02697 des BA 4 Schwabing-West vom 12.12.2007; Vorlage für die Bezirksausschuss-Satzungskommission am 23.04.2009
+- TOP 0.5.: Vergabe von Planungsleistungen an Private; Antrag Nr. 08-08 / A 02606 von Herrn Stadtrat J. Schmid vom 08.08.2005; Sitzungsvorlagen Nr. 08-14 / V 02065; Beschluss des Ausschusses für Stadtplanung und Bauordung vom 29.04.2009 (SB)
+- TOP 0.6.: Bebauungsplan mit Grünordnung Nr. 1983; Giesinger Bahnhofplatz (südlich), Bahnlinie München Ost - Deisenhofen (westlich), Chiemgaustraße (nördlich), Schwanseestraße (östlich) (Teiländerung des Bebauungsplans Nr. 1586) - Satzungsbeschluss - Sitzungsvorlagen Nr. 08-14 / V 01993; Beschluss des Ausschusses für Stadtplanung u. Bauordung vom 29.04.09 (SB)
+- TOP 0.7.: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008/2009); Antrag Nr. 08-14 / A 00176 der Stadtratsfraktion BÜNDNIS 90/DIE GRÜNEN/RL vom 23.07.2008; Sitzungsvorlagen Nr. 08-14/V 01715; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09 (VB)
+- TOP 0.8.: Werinherstraße zwischen Raintaler Straße und Rotwandstraße im 17. Stadtbezirk Obergiesing; Projektkosten (Kostenobergrenze): 1.100.000 ?; Bedarfs- und Konzeptgenehmigung; Sitzungsvorlage Nr. 08-14 / V 01778; Beschluss des Bauausschusses vom 31.03.2009 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Soziale Stadt Projekt im Sanierungsgebiet "Tegernseer Landstraße - Chiemgaustraße"; Aufwertung des Schulhofes der Grund- und Hauptschule an der Ichostraße 2 im 17. Stadtbezirk - Obergiesing; Sitzungsvorlage Nr. 08-14 / V 01839; Beschluss des Schul- und Sportausschusses des Stadtrates vom 29.04.2009 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Leistungsprogramm 2010 der MVG (Fahrplanwechsel Dezember 2009); Zuleitung der MVG vom 03.04.2009 mit der Bitte um Stellungnahme bis 29.05.2009
+- TOP 0.2.: Schlierseestraße 75-87; Kurzparkzone; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 01.04.09 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 0.1.: Taxistandplatz Cincinnatistraße (Höhe Kino); Verlegung von der Cincinnatistraße in die Leifstraße; Mitteilung des KVR
+- TOP 0.2.: Sitzplätze im MVG-Wartehäuschen am Giesinger Bahnhofplatz; Schreiben des BA 17 vom 12.02.2009; Antwortschreiben der MVG vom 07.04.2009
+- TOP 0.3.: Fasangartenstraße zwischen Tegernseer Landstraße und Kreuzbichlweg im Stadtbezirk 17 Obergiesing; Erneuerungsmaßnahme mit Verbesserungen; Projektkosten (Ausführungskosten): 2.135.000 ?; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 01928; Beschluss des Bauausschusses vom 31.03.2009 (SB)
+- TOP 0.4.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Schwanseestraße 71 a; Mitteilung des KVR vom 12.03.2009
+- TOP 0.1.: Ergänzung des Leistungsprogramms 2010 der MVG um einen Probebetrieb der Buslinie 145 mit dem Wendepunkt neuer Kreisverkehr in der Fasangartenstraße - <div>nach Antrag</div>
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Lärmschutzwand an der Perlacher Straße für die restlichen Bauarbeiten am Agfa-Gelände; Antrag Nr. 08-14 / B 00847 des BA 17 vom 10.02.2009; Antwortschreiben des RGU vom 30.03.2009
+- TOP 0.2.: Instandsetzung der Aigner- und Gietlstraße; Verschönerung des Straßenraumes und Stadtbildes durch Baumpflanzungen; BA-Antrags-Nr. 08-14/B 00362 des BA 17 vom 09.09.08; Antwortschreiben des Baureferates vom 02.04.09
+- TOP 0.3.: Solarenergetische Optimierung von größeren Neubaugebieten; Sitzungsvorlagen Nr. 08-14/V 01992; Beschluss des Ausschusses für Stadtplanung und Bauordung vom 29.04.2009 (SB)
+- TOP 0.4.: Müllablage neben der Deisenhofener Str. 16a; Bürgeranfrage vom 24. März 2009; Abdruck eines Antwortschreibens des Sozialreferates vom 22.04.2009 an die Beschwerdeführerin
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Asamesischer Zirkus im Weißenseepark (Wiese beim Katzenbuckel) vom 03.07.09 bis 05.07.09; Zuleitung des KVR vom 01.04.09 mit der Bitte un Stellungnahme bis 13.05.09
+- TOP 0.2.: Entscheidungsrecht für Bezirksausschüsse bei Nutzung des gesamten öffentlichen Raumes; BA-Antrags-Nr. 08-14 / B 00945 des BA 02 - Ludwigsvorstadt-Isarvorstadt vom 03.03.09; Az.: D-II-BA 1150/540-09/12; Zuleitung des Direktoriums vom 27.03.09 mit der Bitte um Stellungnahme
+- TOP 0.3.: Veranstaltung auf öffentlichem Verkehrsgrund ge. § 29 der StVO; hier: Straßenfest auf dem Walchenseeplatz am 27.06.2009; Zuleitung des KVR vom 27.04.2009 mit der Bitte um Stellungnahme bis 10.06.09
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien; Beschluss der Bezirksausschuss-Satzungskommission vom 23.04.2009
+- TOP 7.7: Berichte der Beauftragten
+- TOP 7.7.7.1: Ausländer/Innen
+- TOP 7.7.7.2: Behinderte
+- TOP 7.7.7.3: Genderfragen
+- TOP 7.7.7.4: Kinder
+- TOP 7.7.7.5: Jugend
+- TOP 7.7.7.6: Senioren/Innen
+- TOP 7.7: Baumschutz
+- TOP 7.7.1: Einzelfälle
+- TOP 7.7.1.1.: Anwesen Fasangartenstraße 166; Anhörung vom 01.04.09
+- TOP 7.7.1.2.: Anwesen Sachranger Str. 30 - 44; Anhörung vom 15.04.09
+- TOP 7.7.1.3.: Anwesen Frasdorfer Str. 6c; Anhörung vom 15.04.09
+- TOP 7.7.1.4.: Anwesen Lungstr. 2 - 8 hier: Hs.Nr. 4; Anhörung vom 15.04.09
+- TOP 7.7.1.5.: Anwesen Lungstr. 1 - 7 (im Vorgarten Lungstr. 3); Anhörung vom 15.04.09
+- TOP 7.7.1.6.: Anwesen Balanstr. 369; Anhörung vom 15.04.09
+- TOP 7.7.1.7.: Anwesen Hermelinweg 19; Anhörung vom 21.04.2009
+- TOP 7.7.1.8.: Anwesen Frasdorfer Str. 2; Anhörung vom 21.04.09
+- TOP 7.7.2: Baumbestandspläne
+- TOP 7.7.2.1.: Anwesen Eschenbachstr. 1; Anhörung vom 17.04.09
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
