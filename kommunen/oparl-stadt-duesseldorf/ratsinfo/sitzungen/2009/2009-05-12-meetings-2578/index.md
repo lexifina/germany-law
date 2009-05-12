@@ -1,0 +1,54 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-05-12T15:00:00+02:00
+- Ende: 2009-05-12T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2578
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2578
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126095.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126095.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126095.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift
+- TOP 3: Anfragen
+- TOP 4: Anfrage Umsetzungsplanung Familienzentren - zur Kenntnis genommen
+- TOP 5: Anfrage Bildungslandschaften - zur Kenntnis genommen
+- TOP 6: Anfrage Prognosewerte HzE - zur Kenntnis genommen
+- TOP 7: Anfrage Entwicklung Tagespflege - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 9: Qualitätshandbuch Kita - einstimmig beschlossen
+- TOP 10: Antrag Bericht Soll-Ist-Vergleich - einstimmig beschlossen
+- TOP 11: Antrag Personaleinsatz OGS - einstimmig beschlossen
+- TOP 12: Antrag Präventionskonzept - mehrheitlich abgelehnt
+- TOP 13: Zentrale Dienste
+- TOP 14: Controllingbericht Bauvorhaben - zur Kenntnis genommen
+- TOP 15: Personal- und Organisationsentwicklung - vertagt
+- TOP 16: Personalsituation im Bezirkssozialdienst - zur Kenntnis genommen
+- TOP 17: Rahmenplan zur kommunalen Sozialberichterstattung auf Basis amtlicher Statistiken - zur Kenntnis genommen
+- TOP 18: Prüfung der Jahresrechnung 2007 - einstimmig beschlossen
+- TOP 19: Fachübergreifende Vorlagen
+- TOP 20: Anerkennung schwul-lesbische Jugendarbeit - einstimmig beschlossen
+- TOP 21: Erhöhung Pflegegeld - zur Kenntnis genommen
+- TOP 22: Erweiterung des Kompetenzzentrums Übergang Schule-Hochschule/Beruf - zur Kenntnis genommen
+- TOP 23: Tageseinrichtungen für Kinder
+- TOP 24: Weiterentwicklung Kitas zu Familienzentren - einstimmig beschlossen
+- TOP 25: Ausbauprogramm U3 nach KiBiz - einstimmig beschlossen
+- TOP 26: Finanzierung Mietkostenzuschuss - einstimmig beschlossen
+- TOP 27: Umbau Kita Kentstedenstraße - einstimmig beschlossen
+- TOP 28: Bau, Einrichtung und Instandsetzung Kita - einstimmig beschlossen
+- TOP 29: Umsetzung der Kindertagespflege - zur Kenntnis genommen
+- TOP 30: Jugendförderung
+- TOP 31: Bericht zur Schulsozialarbeit an Realschulen - einstimmig beschlossen
+- TOP 32: Weiterentwicklung Jugend-Job-Center
+- TOP 33: Investitionskostenzuschüsse - einstimmig beschlossen
+- TOP 34: Zuschüsse an freie Träger - einstimmig beschlossen
+- TOP 35: Aufhebung Sperrvermerk - einstimmig beschlossen
+- TOP 36: Düsselferien 2009 - zur Kenntnis genommen
+- TOP 37: Informationen aus dem Düsseldorfer Jugendrat - zur Kenntnis genommen
