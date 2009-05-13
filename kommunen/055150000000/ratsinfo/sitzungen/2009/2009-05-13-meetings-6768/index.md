@@ -1,0 +1,56 @@
+# 36. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-05-13T17:05:00+02:00
+- Ende: 2009-05-13T22:15:00+02:00
+- Ort: Festsaal des Rathauses, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6768
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6768
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00279553.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion Nr. A-R/0006/2008 Transparenz bei der Energiepreisgestaltung - mehrheitlich beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion A-R/0051/2008 "Mit Hybrid-Bussen Münsters Straßen sauberer machen - einstimmig beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion an den Rat Nr. 0010/2009 vom 16.03.09: "Hafenforum - Bürgerschaft an der Entwicklung des Hafenquartiers beteiligen". - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion und Fraktion Bündnis90/Die Grünen/GAL an den Rat vom 17.03.2009 - A-R/0008/2009 "Planung für III. Nordtangente einstellen" - mehrheitlich beschlossen
+- TOP 3: Öffentliche - von der Tagesordnung abgesetzt
+- TOP 4: Baustellen pünktlich abschließen - einstimmig geändert beschlossen
+- TOP 5: Atelierhaus Speicher II, Hafenweg 28 - einstimmig beschlossen
+- TOP 6: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung und Projektförderung 2009) - einstimmig beschlossen
+- TOP -: Berichtsvorlagen an den Hauptausschuss
+- TOP 7: Bericht zur Mitwirkung von Frauen in der Feuerwehr Münster - einstimmig geändert beschlossen
+- TOP 8: Umsetzung der Maßnahmen aus dem Konjunkturpaket II (Zukunftsinivestitionsgesetz) in der Kinder- und Jugendhilfe - zur Kenntnis genommen
+- TOP 9: u3-Ausbauprogramm der Stadt Münster - Zuschüsse für freier Träger zum erforderlichen Ausbau des Raumprogramms - zur Kenntnis genommen
+- TOP 10: 10 Jahre Gesundheitshaus - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Finanzierung der Feuerwache in Hiltrup - einstimmig beschlossen
+- TOP 12: Gestaltung Umfeld Kiffe-Pavillon, Umgestaltung der Asche - ohne Beschlussfassung geschoben
+- TOP 12.1: Gestaltung Umfeld Kiffe-Pavillon, Umgestaltung der Asche
+- TOP 13: Fortschreibung Masterplan Verkehrsunfallprävention und Aufstellung eines Verkerhssicherheitsprogrammes Münster 2009-2013 - ohne Beschlussfassung geschoben
+- TOP 13.1: Fortschreibung Masterplan Verkehrsunfallprävention und Aufstellung eines Verkerhssicherheitsprogrammes Münster 2009-2013
+- TOP 14: Satzung zur Änderung der Satzung über die Erhebung von Beiträgen nach § 8 KAG für Straßenbaumaßnahmen in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 15: Offene Ganztagsschulen, Umwandlung weiterer Schulen in offene Ganztagsschulen zum Schuljahr 2009/10 - ohne Beschlussfassung geschoben
+- TOP 16: Errichtungsbeschluss: Nutzung von Räumlichkeiten in der Astrid-Lindgren-Schule für Angebote der offenen Kinder- und Jugendarbeit in Gelmer - einstimmig beschlossen
+- TOP 17: Maßnahmen zur Verbesserung der Teilhabechancen von Kindern und Jugendlichen mit Armutsrisiko in den Bereichen Bildung, Gesundheit und früher Förderung - ohne Beschlussfassung geschoben
+- TOP 18: European Energy Award 2009 - Energiepolitisches Arbeitsprogramm - ohne Beschlussfassung geschoben
+- TOP 19: Förderprogramm Energieeinsparung und Altbausanierung in Münster - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Mitte
+- TOP 20.1.1: Bebauungsplan Nr. 522 - Geänderter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk West
+- TOP 20.2.1: Bebauungsplan Nr. 342, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Hiltrup
+- TOP 20.3.1: Bebauungsplan Nr. 483 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 20.4: Stadtbezirk Nord
+- TOP 20.4.1: 31. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - von der Tagesordnung abgesetzt
+- TOP 20.4.2: Bebauungsplan Nr. 521 - Geänderter Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 20.4.3: Bebauungsplan Nr. 515 - Beschluss über Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Verschiedenes
