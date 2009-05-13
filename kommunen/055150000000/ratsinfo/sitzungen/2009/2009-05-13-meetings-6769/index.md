@@ -1,0 +1,57 @@
+# 38. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-05-13T18:20:00+02:00
+- Ende: 2009-05-13T22:15:00+02:00
+- Ort: Festsaal des Rathauses, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6769
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6769
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00279585.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Raumsituation der Aegidii-Ludgeri-Grundschule
+- TOP 1.2: Raumsituation Aegidii-Ludgeri-Grundschule
+- TOP 1.3: Raumsituation Aegidii-Ludgeri-Grundschule
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 8: Finanzierung der Feuerwache in Hiltrup - einstimmig beschlossen
+- TOP 9: Fortschreibung Masterplan Verkehrsunfallprävention und Aufstellung eines Verkerhssicherheitsprogrammes Münster 2009-2013 - mehrheitlich geändert beschlossen
+- TOP 9.1: Fortschreibung Masterplan Verkehrsunfallprävention und Aufstellung eines Verkerhssicherheitsprogrammes Münster 2009-2013
+- TOP 10: Gestaltung Umfeld Kiffe-Pavillon, Umgestaltung der Asche - mehrheitlich beschlossen
+- TOP 10.1: Gestaltung Umfeld Kiffe-Pavillon, Umgestaltung der Asche
+- TOP 11: Satzung zur Änderung der Satzung über die Erhebung von Beiträgen nach § 8 KAG für Straßenbaumaßnahmen in der Stadt Münster - einstimmig beschlossen
+- TOP 12: Offene Ganztagsschulen, Umwandlung weiterer Schulen in offene Ganztagsschulen zum Schuljahr 2009/10 - einstimmig beschlossen
+- TOP 13: Errichtungsbeschluss: Nutzung von Räumlichkeiten in der Astrid-Lindgren-Schule für Angebote der offenen Kinder- und Jugendarbeit in Gelmer - einstimmig beschlossen
+- TOP 14: Maßnahmen zur Verbesserung der Teilhabechancen von Kindern und Jugendlichen mit Armutsrisiko in den Bereichen Bildung, Gesundheit und früher Förderung - mehrheitlich geändert beschlossen
+- TOP 15: European Energy Award 2009 - Energiepolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 16: Förderprogramm Energieeinsparung und Altbausanierung in Münster - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk Münster-Mitte
+- TOP 17.1.1: Bebauungsplan Nr. 522 - Geänderter Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 17.2: Stadtbezirk Münster-West
+- TOP 17.2.1: Bebauungsplan Nr. 342, 3. Änderung - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 17.3: Stadtbezirk Münster-Hiltrup
+- TOP 17.3.1: Bebauungsplan Nr. 483 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 17.4: Stadtbezirk Münster-Nord
+- TOP 17.4.1: 31. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - von der Tagesordnung abgesetzt
+- TOP 17.4.2: Bebauungsplan Nr. 521 - Geänderter Aufstellungsbeschluss - mehrheitlich beschlossen
+- TOP 17.4.3: Bebauungsplan Nr. 515 - Beschluss über Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 18: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 19: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 20: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 20.1: Kindertagespflege angemessen ausstatten - verwiesen
+- TOP 20.2: Europäische Charta für die Gleichstellung von Männern und Frauen auf lokaler Ebene: Münster ist dabei! - verwiesen
+- TOP 20.3: Beratungs- und Koordinierungsstelle ¿Neues Wohnen im Alter' einrichten - verwiesen
+- TOP 20.4: Impuls für Wolbeck: Handlungskonzept Ortszentrum - verwiesen
+- TOP 20.5: Wilhelm-Emanuel-von-Ketteler-Berufskolleg sanieren - Schülerentwürfe dabei einbeziehen - verwiesen
+- TOP 21: Verschiedenes
