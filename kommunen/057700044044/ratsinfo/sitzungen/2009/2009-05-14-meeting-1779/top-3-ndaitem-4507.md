@@ -1,0 +1,7 @@
+# TOP 3.: Informationen zum Planungsstand der Um- und Ausbaumaßnahme an der K 70 "Tielger Allee" in Oppenwehe - Anliegerantrag
+
+- Sitzung: Betriebsausschuss für Infrastrukturvermögen und ZGM (13. Sitzung) (2009-05-14)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/4507
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/1994
