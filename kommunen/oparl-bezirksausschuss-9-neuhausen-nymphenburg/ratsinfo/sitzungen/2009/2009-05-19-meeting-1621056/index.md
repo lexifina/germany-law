@@ -1,0 +1,137 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1621056
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1621056
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Pädagogische Aktion/Spielen in der Stadt e.V. (Az.: 04/09 ? 3.4.1): Zuschuss in Höhe von 2.000 ? für ein Tanz- und Theaterfestival vom 17.-24.07.09 (Wiedervorlage aus der Sitzung vom 21.04.09)
+- TOP 2.3.2.: Antrag Initiative Hirschbergschule (Az.: 04/09 - 3.4.3): Zuschuss in Höhe von 1.350 ? für den Kauf von Büchern für die Schülerbücherei
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage Baureferat (Az.: 05/09 ? 3.1.1): Errichtung einer neuen Bushaltestelle in der Wendl-Dietrich-Straße (beidseitig)
+- TOP 2.4.2.: Beschlussvorlage Baureferat (Az.: 10/96 ? 3.2.13): Erstmalige Herstellung von Gehbahn und Radweg in der Wotanstraße zwischen Hertha- und Margarethe-Danzi-Straße
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 05/09 - 4.1): Genehmigung einer Freischankfläche für "Gittis Eck", Sedlmayrstr. 18
+- TOP 2.4.4.: Beschlussvorlage KVR (Az.: 05/09 - 4.2): Genehmigung eines mobilen Fahrradständers vor dem ?Fuß-Forum?, Winthirstr. 10 a
+- TOP 2.4.5.: Beschlussvorlage KVR (Az.: 05/09 ? 4.3): Genehmigung einer Freischankfläche für ?Sweekies?, Wendl-Dietrich-Str. 4
+- TOP 2.4.6.: Ernennung eines neuen Jugendbeauftragten im BA 9
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Beschlussvorlage Baureferat: Errichtung einer neuen Bushaltestelle in der Wendl-Dietrich-Straße (beidseitig)
+- TOP 3.2.: Bürger: Gefährdung durch geparkte LKWs und Wohnwägen auf der Dom-Pedro- und der Johann-Sebastian-Bach-Straße
+- TOP 3.3.: Bürger: Straßenname für den Verbindungsweg zwischen Hilble- und Leonrodstraße
+- TOP 3.4.: Bürger: Schlammloch an der Dachauer-/Schwere-Reiter-Straße
+- TOP 3.5.: Antrag CSU: Verengung des westlichen Gehsteigs in der Neustätterstraße Einmündung Leonrodstraße
+- TOP 3.6.: KVR: Einrichtung von 1-2 Behindertenparkplätzen am Steubenplatz vor Anwesen Arnulfstr. 224
+- TOP 3.7.: KVR: Verkehrliche Maßnahmen im Zusammenhang mit dem Tollwood-Festival vom 18.06. - 12.07.09 und dem Sonderkongress Jehovas Zeugen vom 09.-12.07.09
+- TOP 3.8.: Leistungsprogramm 2010 der MVG (Fahrbahnwechsel Dezember 2009)
+- TOP 3.9.: Baumaßnahmen der Stadtwerke, Fernwärmeprojekt Arnulfstraße
+- TOP 3.10.: Baumaßnahmen der Stadtwerke, Infoflyer 1. Halbjahr 2009
+- TOP 3.11.: Baumaßnahmen der Stadtwerke, Liste April
+- TOP 3.12.: St. Theresia und Christuskirche: Antrag auf Verlängerung der Buslinie 132 zum Olympiapark West (Wiedervorlage aus der Sitzung vom 21.04.09)
+- TOP 3.13.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltschutzausschusses vom 06.05.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 3.14.: =&gt; dazu: Hinweis/Ergänzung vom 30.04.09
+- TOP 3.15.: =&gt; dazu: Kennzeichnungspflicht für Fahrräder (Verweisung aus der Sitzung vom 21.04.09)
+- TOP 3.16.: KVR: Bürger: Gefahr durch die doppelte Ampelanlage Dachauer-/Leonrodstraße (Schreiben BA 9 vom 17.03.09)
+- TOP 3.17.: =&gt; dazu: Schreiben Polizeiinspektion 42
+- TOP 3.18.: Baureferat: Bürgeranliegen: Verbesserung des Durchgangs vom Neubaugebiet Hirschgarten zum S-Bahnhof Laim (Schreiben BA 9 vom 17.03.09)
+- TOP 3.19.: KVR: Bürgeranliegen: Kennzeichnung Leonrodstr. 60-68 (Schreiben BA 9 vom 16.12.08)
+- TOP 3.20.: KVR: Einrichtung von 4 allgemeinen Behindertenparkplätzen für Besucher der Kleingartenanlage NW 16 und des Westfriedhofs in der Baldurstraße (Schreiben BA 9 vom 16.12.08)
+- TOP 3.21.: Bürgeranliegen: Radspur Donnersbergerbrücke
+- TOP 3.22.: Beschluss des Bauausschusses vom 05.05.09: Kreuzungsumbau Allacher Straße / Wintrichring
+- TOP 3.23.: BA-AntragTunnelverlängerung in der Landshuter Allee
+- TOP 3.24.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes am Christoph-Rapparini-Bogen vor Hausnr. 11
+- TOP 3.25.: KVR: Anordnung absolutes Haltverbot In den Kirschen westlich Einmündung Wintrichring
+- TOP 3.26.: Bürger: Parklizenzierung für das westliche Neuhausen
+- TOP 3.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: 2. S-Bahn-Stammstrecke; Verfahrensstand, weitere Information, Expertenhearing vom 25.03.09
+- TOP 3.28.: =&gt; dazu: Hinweis/Ergänzung vom 28.04.09
+- TOP 3.29.: Beschlussvorlage Baureferat: Erstmalige Herstellung von Gehbahn und Radweg in der Wotanstraße zwischen Hertha- und Margarethe-Danzi-Straße
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 30.03.-05.04., 06.04.-12.04., 13.04.-19.04., 20.04.-26.04. und 27.04.-03.05.09
+- TOP 3.2.: Bauvorhaben Tintorettostr. 19: Neubau eines Wohnhauses mit Garagen, hier: Baumfällungen
+- TOP 3.3.: Kommunalreferat: Mitteilung über ein Grundstücksgeschäft, hier: Kuglmüllerstr. 29
+- TOP 3.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: Vergabe von Planungsleistungen an Private
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: Solarenergetische Optimierung von größeren Neubaugebieten
+- TOP 3.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: Bericht über die regionale Zusammenarbeit
+- TOP 3.7.: Planungsreferat: Plananforderung Bauvorhaben Wilhelm-Düll-Str. 29 (Schreiben BA 9 vom 21.04.09)
+- TOP 3.8.: Bauvorhaben Wilhelm-Hale-Str. 51: Neubau einer Wohnanlage mit Tiefgarage (WA 19 Nord)
+- TOP 3.10.: Bauvorhaben Walhallastr. 29: Aufstockung eines Mehrfamilienhauses
+- TOP 3.11.: Bauvorhaben Walhallastr. 25-27: Aufstockung eines Mehrfamilienhauses
+- TOP 3.12.: Bauvorhaben Mareesstr. 10: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 3.14.: Bauvorhaben Romanstr. 56: Neubau eines Doppelhauses mit 2 Garagen
+- TOP 3.15.: Bauvorhaben Wilhelm-Hale-Straße: Neubau einer Wohnanlage mit Tiefgarage (WA 19)
+- TOP 3.16.: Bürger: Bauvorhaben Zuccalistr. 33
+- TOP 3.17.: Planungsreferat: Bürger: Baumfällungen in Zusammenhang mit Bauvorhaben Dall'Armistr. 73 (Schreiben BA 9 vom 21.04.09)
+- TOP 3.18.: Bauvorhaben Wilhelm-Hale-Str. 35-37: Neubau einer Wohnanlage mit Tiefgarage (WA 20)
+- TOP 3.19.: Bauvorhaben Blutenburgstr. 116: Gebäudeerweiterung und DG-Ausbau, Nutzungsänderung Druckerei in Betsaal sowie Büro zu Wohnungen, Bestandsgenehmigung
+- TOP 3.20.: Planungsreferat: Trambahnhäusl am Romanplatz 7 (Schreiben BA 9 vom 21.04.09)
+- TOP 3.21.: =&gt; dazu: Schreiben Stadtwerke
+- TOP 3.22.: Baureferat: Bürgeranliegen: Der Arnulfpark - Erfahrungen und Eindrücke einer Anwohnerfamilie und deren Besucher (Schreiben BA 9 vom 17.11.08)
+- TOP 3.23.: Planungsreferat: Kein Kahlschlag im südlichen Teil des Hirschgartens
+- TOP 3.24.: Bürger: Bebauung Heilig Geist - Gelände
+- TOP 3.25.: Sozialreferat: Zweckentfremdung von Wohnraum; hier: Romanstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Pfänderstr. 6-10: Fällung von 1 Fichte und 1 Laubbaum
+- TOP 3.2.: Heldstr. 1: Fällung von 2 Spitzahorn
+- TOP 3.3.: Volkartstr. 42: Fällung von 1 Kastanie
+- TOP 3.4.: Magdalenenstr. 18: Fällung von 1 Linde
+- TOP 3.5.: Hanfstaenglstr. 33: Fällung von 1 Fichte
+- TOP 3.6.: Volpinistr. 44: Fällung von 1 Birke
+- TOP 3.7.: Ferdinand-Maria-Str. 14: Fällung von 3 Serbischen Fichten und 1 Birke
+- TOP 3.8.: Kriemhildenstr. 22: Fällung von 1 Fichte
+- TOP 3.9.: Dall'Armistr. 71: Fällung von 1 Walnussbaum zur sofortigen Beseitigung von Gefahren
+- TOP 3.10.: Bürger: Mangelnde Pflege des Friedhofs Nymphenburg
+- TOP 3.11.: Bürger: Beschädigung der Rasenflächen am Nymphenburger Kanal, Nördliche Auffahrtsallee
+- TOP 3.12.: Bürger: Vermüllung am Hubertusbrunnen
+- TOP 3.13.: Bund Naturschutz: Baumschutz in Neuhausen-Nymphenburg
+- TOP 3.14.: Abfallwirtschaftsbetrieb München: Containerstandplatzverlegung Lothstraße
+- TOP 3.15.: Planungsreferat: Fällungsgenehmigung Reinmarplatz 12
+- TOP 3.16.: Bürger: Baumfällungen in der Walhallastr. 50
+- TOP 3.17.: Green City: Wanderbaumallee 2009 (Wiedervorlage aus der Sitzung vom 21.04.09)
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Bürger: Bank an der Volpinistraße, Belästigung von Passanten und Beeinträchtigung des Kindergartens
+- TOP 3.2.: Elternbeirat Kinderkrippe Dom-Pedro-Platz: Zusammenlegung der Kinderbetreuung
+- TOP 3.3.: Willy-Althof-Kindergarten: Nutzung der städtischen Wiese am Helene-Lange-Weg
+- TOP 3.4.: Direktorium: 18.jetzt - Fest junger Erwachsener im Rathaus am 17.10.09
+- TOP 3.5.: Schulreferat: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Christoph-Rapparini-Bogen 7
+- TOP 3.6.: Pressemitteilung "Zukunft des Ausländerbeirates"
+- TOP 3.7.: Einladung zum Beiratstreffen der Freizeitstätten an der Hanebergstraße am 26.05.09
+- TOP 3.8.: Antrag Pädagogische Aktion/Spielen in der Stadt e.V.: Zuschuss in Höhe von 2.000 ? für ein Tanz- und Theaterfestival vom 17.-24.07.09 (Wiedervorlage aus der Sitzung vom 21.04.09)
+- TOP 3.9.: Protokoll Bewohnertreff Nymphenburg Süd
+- TOP 3.10.: Antrag Initiative Hirschbergschule: Zuschuss in Höhe von 1.350 ? für den Kauf von Büchern für die Schülerbücherei
+- TOP 3.11.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse, hier: Filmprojekt Verein zur politischen Jugendpartizipation
+- TOP 3.12.: Wohnwerk München: Mieterhöhung
+- TOP 3.13.: Verwendungsnachweis aus dem Budget der Bezirksausschüsse, hier: Lilalu e.V.
+- TOP 3.14.: Behindertenbeirat München: Erholungsgelände an der Taxisstraße (Wiedervorlage aus der Sitzung vom 21.04.09)
+- TOP 3.15.: Bürger: Groffanlage / Stuberpark; Lärmbelästigung (Wiedervorlage aus der Sitzung vom 21.04.09)
+- TOP 3.16.: Neubau der Grundschule Nymphenburg Süd / Stellungnahme des BA 9 zur Behandlung im Stadtrat am 25.03.09 (Verweisung aus der Sitzung vom 21.04.09)
+- TOP 3.17.: Sozialreferat: Bauprogramm der Münchenstift GmbH: Generalsanierung des Münchner Bürgerheims (Schreiben BA 9 vom 17.02.09) Wiedervorlage aus der Sitzung vom 21.04.09
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.2.: Geschichtswerkstatt Neuhausen: Tag des offenen Denkmals 2009 (Schreiben BA 9 vom 21.04.09)
+- TOP 3.3.: Kulturreferat: Zwischennutzung der Stadtbibliothek Nymphenburg für eine kulturelle Nutzung (Antrag BA 9 Nr. 735 vom 16.12.08)
+- TOP 3.4.: Kulturreferat: Backstage Free & Easy Festival 2008
+- TOP 3.5.: Kommunalreferat: Auskunft über Hauseigentümer Döllingerstr. 5 (Schreiben BA 9 vom 21.04.09)
+- TOP 3.6.: Kommunalreferat: Überplanung des Areals Dachauer Str. 102-114 (Antrag BA 9 Nr. 959 vom 17.03.09)
+- TOP 3.7.: Kulturreferat: Wandgestaltung Donnersbergerbrücke (Schreiben BA 9 vom 17.03.09)
+- TOP 3.8.: Planungsreferat: Wiedererrichtung des "Hirschalter"-Denkmals im Hirschgarten (Schreiben BA 9 vom 18.11.08)
+- TOP 3.9.: Stadtwerke: Bücherinsel Romanplatz für Stadtteilkultur zur Verfügung stellen (zum Antrag BA 9 Nr. 48 vom 20.05.08)
+- TOP 3.10.: =&gt; dazu: Planungsreferat
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für "Gittis Eck", Sedlmayrstr. 18
+- TOP 4.2.: Beschlussvorlage KVR: Genehmigung eines mobilen Fahrradständers vor dem ?Fuß-Forum?, Winthirstr. 10 a
+- TOP 4.3.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche für ?Sweekies?, Wendl-Dietrich-Str. 4
+- TOP 4.4.: KVR: Magdalenenfest im Hirschgarten vom 11. - 19.07.09
+- TOP 4.5.: KVR: Pächterwechsel a) "Molyvos", Volpinistr. 19 b) "Peaches", Donnersbergerstr. 50 a c) "Settenani's 24", Dom-Pedro-Str. 17
+- TOP 5: Verschiedenes
+- TOP 3.1.: Antrag Jazzmusikerinitiative München (Az.: 05/09 ? 3.5.1): Zuschuss in Höhe von 9.500 ? für das Jazzfest vom 15.-18.10.09
+- TOP 3.13.: =&gt; dazu: Baumfällungen
