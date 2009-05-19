@@ -1,0 +1,35 @@
+# Vorbereitung der Debatte zum Planentwurf Doppelhaushalt 2010 / 11
+
+- Körperschaft: BVV Friedrichshain-Kreuzberg
+- Drucksache/Vorlage: DS/1282/III
+- Art: Beschluss
+- Datum: 2009-05-19
+- Ratsinformationssystem: https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=3519
+- OParl: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/papers.asp?id=3519
+- Quelle: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/download.asp?dtyp=130&id=69464
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4237 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=56
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4258 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=56
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4030 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=76
+- Beratung: Vorberatung  https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=65
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3780 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=78
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3828 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=64
+- Beratung: Entscheidung  https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=79
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3718 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=52
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3744 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=67
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4043 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=74
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4003 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=75
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3803 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3804 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3805 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=80
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3853 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=77
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3854 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=77
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3866 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=66
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3959 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3947 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung: Vorberatung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4428 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=51
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3579 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3580 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=3581 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- Beratung: Entscheidung https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/meetings.asp?id=4329 https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=25
+- underDirectionOf: https://www.sitzungsdienst-friedrichshain-kreuzberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=81
