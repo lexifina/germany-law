@@ -1,0 +1,8 @@
+# TOP 7.3: Rollstuhlplätze im Schauspielhaus Bochum
+
+- Sitzung: Seniorenbeirat (2009-05-19)
+- Körperschaft: Stadt Bochum
+- Öffentlich: ja
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/70778
+- Ergebnis: Die Anfrage wird schriftlich beantwortet.                                                           
+- Beratung: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/40202
