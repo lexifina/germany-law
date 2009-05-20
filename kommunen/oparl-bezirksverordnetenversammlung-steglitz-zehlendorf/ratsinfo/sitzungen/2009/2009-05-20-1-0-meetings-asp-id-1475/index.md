@@ -1,0 +1,62 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2009-05-20T17:00:00+02:00
+- Ende: 2009-05-20T18:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1475
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1475
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Umkleidekabinen für Sportler jetzt! - beantwortet
+- TOP 3.2: VHS-Tageslehrgang "Zweiter Bildungsweg - mittlerer Schulabschluss" - beantwortet
+- TOP 3.3: Liegewiese am Schlachtensee - beantwortet
+- TOP 3.4: Absperrungen vor dem US-amerikanischen Konsulat in der Clayallee - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Erlass der Veränderungssperre 6 - 17 B / 37 [Ferdinandstraße 31 - 35] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Vorhabenbezogener Bebauungsplan 6-21 VE Gelände der ehemaligen Teltowwerft - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.2.2: Bebauungsplan X-122-2 Nahversorgungszentrum Schlachtensee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Sicherung des Schülerruderns - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Beide Sitzbänke vor dem Bahnhof Lichterfelde-Ost erneuern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Ausstellung "Sag, was war die DDR?" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Ausschussanträge - erledigt
+- TOP 4.4.1: Treffen der Comenius-Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Wirtschaft in die Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Parkregelung Wasgenstraße - in der BVV abgelehnt
+- TOP 4.5.3: Entlastung der Hauptverkehrsachsen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Mehr Müllbehälter an der Krummen Lanke und am Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Bänke für den Hermann-Ehlers-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Den Schulstandort Beucke-Oberschule erhalten - überwiesen
+- TOP 5.1.2: Verkehrssituation in der Birkbuschstraße vor Lidl - überwiesen
+- TOP 5.1.3: Shared space in Lichterfelde-West - überwiesen
+- TOP 5.1.4: Griechisches Gemeindezentrum erhalten! - überwiesen
+- TOP 5.1.5: Erschließung Baugebiet Johannesstraße - überwiesen
+- TOP 5.1.6: "Jobbörse" für den Öffentlichen Beschäftigungssektor - überwiesen
+- TOP 5.1.7: Kreisverkehr Teltower Damm / Beeskowdamm / Kleinmachnower Weg - überwiesen
+- TOP 5.1.8: Schilda liegt am Schlachtensee und an der Krummen Lanke - überwiesen
+- TOP 5.1.9: VHS-Deutschkurse für Mütter/Eltern mit Migrationshintergrund ab 2010 auch in den Kitas von Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.10: Demokratische Legitimation für den Werteausgleich - überwiesen
+- TOP 5.1.11: Fraueninfrastrukturstellen für Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.12: Müllbehälter am Waldparkplatz Paulsborn - überwiesen
+- TOP 5.1.13: Tempo 30 bis zur Leo-Baeck-Straße - überwiesen
+- TOP 5.1.14: Bürgersteigabsenkung im Bereich Biesalski-Schule - überwiesen
+- TOP 5.1.15: Fahrradfahren in Einbahnstraßen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Selbstverschuldeter Baumnotstand in Steglitz-Zehlendorf durch Unterlassen? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Fläche für den Neubau einer Dreifeldtennishalle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Vorstehers - erledigt
