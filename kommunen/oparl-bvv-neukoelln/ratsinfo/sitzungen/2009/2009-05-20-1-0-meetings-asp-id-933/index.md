@@ -1,0 +1,75 @@
+# 27. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-05-20T17:45:00+02:00
+- Ende: 2009-05-20T22:04:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=933
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=933
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Bebauungsplan XIV-185db vom 11.09.2008 -Sanierungsgebiet Wederstraße - Block 9- - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Bebauungsplan XIV-185hb vom 11.09.2008 -Sanierungsgebiet Wederstraße - östliche Bürgerstraße- - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Berichte der Patientenfürsprecher 2008 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Mündliche Anfragen - (offen)
+- TOP 7.1: Falsche Informationen für den Schillerkiez - beantwortet
+- TOP 7.2: Ergebnisse der Dreckeckenhotline - beantwortet
+- TOP 7.3: Neues vom Columbiaquartier? - beantwortet
+- TOP 7.4: Haushalt 2010/2011 - beantwortet
+- TOP 7.5: Ausflugsverkehr in der Buslinie M44 - beantwortet
+- TOP 7.6: Schönes Grün am Standesamt - beantwortet
+- TOP 7.7: Zusätzliche Sozialarbeiter für Kiezschulen - beantwortet
+- TOP 7.8: Aus(für)bau der A 100? - beantwortet
+- TOP 7.9: Ergebnisse der vorbereitenden Untersuchung für das Gebiet Neukölln - Karl-Marx-Straße - schriftlich beantwortet
+- TOP 8: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 8.1: Nachwahl eines Mitgliedes in den Beirat für Migrationsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Neuköllner Schulkonzept vorlegen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Mehr Sicherheit vor dem Postamt Britz-Süd - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Fahrradabstellmöglichkeiten am U-Bahnhof Boddinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Elektronische Terminvereinbarung - beantwortet
+- TOP 10.2: Wertausgleich für Neukölln - beantwortet
+- TOP 10.3: Schulstrukturreform: Keiner kennt sich mehr aus - beantwortet
+- TOP 10.4: Geplante Abschiebung vietnamesischer Bürgerinnen und Bürger - beantwortet
+- TOP 10.5: "Alkohol ist dein Sanitäter in der Not ..." - beantwortet
+- TOP 10.6: AV Wohnen - schriftlich beantwortet
+- TOP 10.7: Klassenfrequenz - beantwortet
+- TOP 10.8: Bürgerbeteiligung im QM Richardplatz - beantwortet
+- TOP 11: Große Anfragen - schriftlich - (offen)
+- TOP 11.1: Umsetzung der UN-Behindertenrechtskonvention in Neukölln - schriftlich beantwortet
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Weiterführung der A 100 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Abberufung eines Bezirksamtsmitgliedes - vertagt
+- TOP 12.3: Elektronische Terminvereinbarung - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Kinderbetreuung statt Wanderzirkus - überwiesen
+- TOP 12.5: Versetzung des Wartehäuschens auf der Hermannbrücke (östliche Seite) - überwiesen
+- TOP 12.6: Eltern haften für ihre Kinder - überwiesen
+- TOP 12.7: Wahlwerbung erleichtern - überwiesen
+- TOP 12.8: Tempo 30 in der Jahnstraße? - überwiesen
+- TOP 12.9: Verkehrskonferenz Süd-Ost - überwiesen
+- TOP 12.10: Zusammenlegung von Schülern deutscher Herkunft auf wenige gemeinsame Schulen - in der BVV abgelehnt
+- TOP 12.11: Ökologische Straßenbeleuchtung - überwiesen
+- TOP 12.12: Gewaltprävention durch Kampfsport in der Schule - überwiesen
+- TOP 12.13: Umweltzone - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Wanderausstellung "Zeugnisse schwulenfeindlicher Gewalt" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Umweltfreundliche Fahrzeuge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Postzustellung für Bezirksverordnete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Unterstützung Neuköllner Gastronomiebetriebe bei der Umsetzung des Nichtraucherschutzgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Werbung für gesundheitsschädliche Genussmittel verbieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Parkraumbewirtschaftung vor dem Mutter- und Kindzentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Zufahrt zum Mercedes-Servicecenter in Rudow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Fortschreibung des Lokalen Aktionsplans des Bezirkes Neukölln "Jugend für Vielfalt, Toleranz und Demokratie gegen Rechtsextremismus, Fremdenfeindlichkeit und Antisemitismus" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Haltverbot in der Bergiusstraße - mit Abschlussbericht zur Kenntnis genommen
