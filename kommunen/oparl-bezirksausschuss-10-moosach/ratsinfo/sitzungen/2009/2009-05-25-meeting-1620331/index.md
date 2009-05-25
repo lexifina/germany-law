@@ -1,0 +1,72 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-05-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620331
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620331
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Anfahrt der Haltestelle Olympia-Einkaufszentrum Ost durch die Buslinie 175 anstatt der Buslinie 143
+- TOP 2.2.: Verkehrssituation am Spielplatz Eggmühler- / Haylerstraße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: "Ein Brunnen für Moosach"; Werbungskosten
+- TOP 3.2.: Jahreshauptversammlung REGSAM
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Besprechung bei Fa. Ascherl
+- TOP 3.2.: Besuch im Planungsreferat
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Verbesserung der Ampelschaltungen an der Max-Born-Straße / Feldmochinger Straße sowie Max-Born-Straße / Lassallestraße
+- TOP 4.2.: Sommerferienprogramm für Moosacher Kinder 2009
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Init. Schöne neue Welt für Podiumsdiskussion
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10; Siedlervereinigung Hartmannshofen: 90-Jahr-Feier
+- TOP 5.3.: Gewährung eines Zuschusses aus dem Budget des BA 10; AWO Moosach-Hartmannshofen: Herausgabe eines Kochbuchs
+- TOP 5.4.: Gewährung eines Zuschusses aus dem Budget des BA 10; REGSAM: 13. Moosacher StadtteilKulturTage
+- TOP 5.5.: Sondernutzung für Kiosk Andernacher Str. 40
+- TOP 5.6.: Freischankfläche Franz-Marc-Str. 4
+- TOP 6: Anhörungen
+- TOP 6.1.: Fest Junger Erwachsener "18.jetzt"
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Angleichung der Abfahrtszeit der Buslinie 162 mit der Abfahrtszeit der S 1 stadtauswärts (leichte Anpassungen werden versucht; größere Umstellung sind erst nach Fertigstellung der U-Bahn möglich)
+- TOP 7.2.: Parksituation am Simmerleinplatz (anstatt der beantragten Metallbügel wird ein Steinpoller aufgestellt)
+- TOP 7.3.: Prüfung Änderung Linienverlauf Buslinie 51 (abgelehnt)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Verkehrsrechtliche Anordnung: Endhaltestellen im Bereich Dessauer Straße / Oskar-Barnack-Straße (Linien 143 und 175)
+- TOP 8.4.: Zukunft des Ausländerbeirates
+- TOP 8.5.: Pächterwechsel Café "Die Dreizehn", Bingener Str. 13
+- TOP 8.6.: Umbenennung des südlichen Teils der "Melitta-Benz-Straße" in "Ambossstraße" (Schreiben der F.X. Meiller GmbH & Co KG)
+- TOP 8.7.: 2. S-Bahn-Stammstrecke München: Offene Fragen zum Vergleich Zweiter S-Bahn-Tunnel - Südring
+- TOP 8.8.: Kurze Info-Broschüre zur Verpackungsverordnung
+- TOP 8.9.: Städtische Bauprojekte und Vereinsbauprojekte; Bekanntgabe der Prioritätenlisten (Stand: März 2009)
+- TOP 8.10.: Werner-Seelenbinder-Weg; Instandsetzung der Fußgängerbrücke über die Landshuter Allee
+- TOP 8.11.: 2. S-Bahn-Stammstrecke München; Verfahrensstand; Anträge und Empfehlungen
+- TOP 8.12.: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien
+- TOP 8.13.: Neubau eines technischen Betriebszentrums in der Schragenhofstr. 6
+- TOP 8.14.: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 8.15.: Parkraummanagement in München - Ergebnisbericht und Wirtschaftlichkeitsuntersuchung
+- TOP 8.16.: Änderung der Regelung über die Stellvertretung der aus den Bezirksausschüssen zu benennenden Mitglieder der BA-Satzungskommission
+- TOP 8.17.: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008 / 2009)
+- TOP 8.18.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 8.19.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München (Hinweis/Ergänzung vom 30.04.2009)
+- TOP 8.20.: Erweiterung / Umbau / Instandsetzung der Grundschule Am Amphionpark an der Welzenbachstr. 12, Neubau der Kindertagesstätte Nanga-Parbat-Str. 105
+- TOP 8.21.: Solarenergetische Optimierung von größeren Neubaugebieten
+- TOP 8.22.: Vergabe von Planungsleistungen an Private
+- TOP 8.23.: Änderung BA-Katalog; Namenserläuterungen an Straßenschildern
+- TOP 8.24.: Parklizenz Borstei
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
