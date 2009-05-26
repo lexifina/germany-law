@@ -1,0 +1,78 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-05-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572553
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572553
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Unsere Stadt - Unsere Straßen III
+- TOP 1.2.2.: Bauvorhaben Agricolastr. 59
+- TOP 1.2.3.: Erlass einer Erhaltungssatzung oder Gestaltungssatzung für das Gebiet Senftenauerstraße, Byecherstraße, Aindorferstraße und Rushaimerstraße
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Landsberger Str. 217
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 28.04.09: Sommerfest auf der Grünanlage an der Schrobenhausener Str. 3 am 20.06.09
+- TOP 4.2.: Schreiben Direktorium vom 24.04.09: 18.jetzt - Fest junger Erwachsener im Rathaus am 17.10.09
+- TOP 4.3.: Schreiben KVR vom 07.05.09: Anwohnerstraßenfest Fachnersiedlung auf dem Weißenfelder Platz am 17.06.09
+- TOP 4.4.: Schreiben KVR vom 08.05.09: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Mitterhoferstr. 12
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Veit-Stoß-Str. 58-80: Nachverdichtung einer Wohnanlage durch Aufstockung der Bestandsgebäude; hier: Baumfällungen
+- TOP 5.2.: Flintsbacher Str. 6: Nutzungsänderung EG+UG: gewerblich genutzte Fläche zu Kindertagesstätte (Eltern-Kind-Initiative) und Anbau Außentreppe; hier: Baumfällungen
+- TOP 5.3.: Byecherstr. 36: Erweiterung eines Einfamilienhauses (Anbau); hier: Baumfällungen
+- TOP 5.4.: Rushaimerstr. 41: Errichtung eines Lagergebäudes; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 05.05.09
+- TOP 7.2.: Sitzung UA Schule, Soziales, Sport vom 05.05.09
+- TOP 7.3.: Sitzung UA Kultur vom 14.05.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 06.05.09: S-Bahnstammstrecke München; S-Bahnhof Laim - Vorhaltung öffentlicher Toiletten im Bahnhofsbereich (Schreiben BA vom 17.03.09)
+- TOP 8.2.: Schreiben Direktorium vom 05.05.09: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.3.: Schreiben Baureferat vom 05.05.09: Verschmutzung des Agricolaparks durch Hundekot (Schreiben BA vom 24.04.09)
+- TOP 8.4.: Schreiben Referat für Arbeit und Wirtschaft vom 23.04.09: Anpassung der Fahrpläne der Buslinien 51 und 168 in den Abendstunden; 10-Minuten-Takt zwischen S-Bahnhof Laim und Aindorferstraße (Antrag Nr. 08-14 / B 00939 vom 03.03.09)
+- TOP 8.5.: Schreiben Planungsreferat vom 16.04.09: Entwurf Grundsatzbeschluss Radverkehr in München (Schreiben BA vom 03.04.09)
+- TOP 8.6.: Schreiben Planungsreferat vom 09.04.09: Agnes-Bernauer-Str. 103; Neubau eines Wohnhauses
+- TOP 8.7.: Schreiben Planungsreferat vom 27.04.09: Agricolastr. 84; Fällungsgenehmigung
+- TOP 8.8.: Schreibenn Planungsreferat vom 23.04.09: Agricolastr. 97; Neubau eines Einfamilienhauses mit Garage / Neubau von 2 Doppelhäusern mit Garagen / Vorbescheid
+- TOP 8.9.: Schreiben KVR vom 19.03.09: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Fürstenrieder Str. 67
+- TOP 8.10.: Schreiben KVR vom 22.04.09: Gaststätte "Grilltempel zu Laim", Friedenheimer Str. 27; Neuerrichtung
+- TOP 8.11.: Schreiben KVR vom 27.04.09: Gastsätte "Schnellimbiss", Lautensackstr. 4 d; Neuerrichtung
+- TOP 8.12.: Schreiben KVR vom 04.05.09: Gaststätte "Bistro da Toni", Landsberger Str. 315; unveränderte Fortführung
+- TOP 8.13.: Schreiben Referat für Gesundheit und Umwelt vom 28.04.09: Vollzug des Bundes-Immissionsschutzgesetztes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Fürstenrieder Str. 6-21
+- TOP 8.14.: Schreiben Abfallwirtschaftsbetrieb München vom 23.04.09: Kurze Info-Broschüre zur Verpackungsverordnung
+- TOP 8.15.: Schreiben Ausländerbeirat München vom 23.04.09: Zukunft des Ausländerbeirates
+- TOP 8.16.: Schreiben Stadtkämmerei vom 07.05.09: Mehrjahresinvestitionsprogramm für die Jahre 2009-2013
+- TOP 8.17.: Bautenliste vom 20.04.-26.04.09: 1. Änderungsverfahren a) Willibaldplatz 1 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Reutterstr. 42 b) Geigerstr. 18
+- TOP 8.18.: Bautenliste vom 27.04.-03.05.09: 1. Änderungsverfahren a) Byecherstr. 36
+- TOP 8.19.: Bautenliste vom 04.05.-10.05.09 1. Erstantragsverfahren a) Aindorferstr. 157 b) Rushaimerstr. 41 c) Geigerstr. 5
+- TOP 8.20.: Schreiben Planungsreferat vom 28.04.09: Liste der beantragten Baumfällungen vom 20.04.-26.04.09
+- TOP 8.21.: Schreiben Planungsreferat vom 05.05.09: Liste der beantragten Baumfällungen vom 27.04.-03.05.09
+- TOP 8.22.: Schreiben Planungsreferat vom 11.05.09: Liste der beantragten Baumfällungen vom 04.05.-10.05.09
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 27.04.09: Baumaßnahmen der Stadtwerke; Stichtag: 27.04.09
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 04.10.09: Baumaßnahmen der Stadtwerke; Stichtag: 04.05.09
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 11.05.09: Baumaßnahmen der Stadtwerke; Stichtag: 11.05.09
+- TOP 8.26.: Beschluss des Bauausschusses vom 31.03.09: Pasing Zentrum; Gestaltung von Straßen und Plätzen im 21. Stadtbezirk Pasing-Obermenzing (Sitzungsvorlage Nr. 08-14 / V 01872)
+- TOP 8.27.: Beschluss des Kinder- und Jugendhilfeausschuss vom 28.04.09: Errichtung einer Einrichtung mit der Möglichkeit zu freiheitsentziehenden Maßnahmen von Kindern und Jugendlichen (Sozialpsychiatrisches Jugendzentrum) (Sitzungsvorlage Nr. 08-14 / V 02069)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008/2009) (Sitzungsvorlagen Nr. 08-14 / V 01715)
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) (Sitzungsvorlagen Nr. 08-14 / V 02092)
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.09 Verbesserung der Schienenanbindung des Flughafen München (Sitzungsvorlagen Nr. 08-14 / V 01813)
+- TOP 8.31.: Beschluss des Schul- und Sportausschusses vom 29.04.09: Städtische Bauprojekte und Vereinsbauprojekte; Bekanntgabe der Prioritätenliste (Stand: März 2009) (Sitzungsvorlagen Nr. 08-14 / V 001940)
+- TOP 8.32.: Beschluss des gemeinsamen Ausschuss für Stadtplanung und Bauordnung, Kreisverwaltungsauschusses, Bauausschusses und Umweltausschusses vom 06.05.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München (Sitzungsvorlagen Nr. 08-14 / V 01793)
+- TOP 8.33.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 06.05.09: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München-Beschleunigung der Umsetzung" (Sitzungsvorlagen Nr. 08-14 / V 01913)
+- TOP 8.34.: Beschluss des Verwaltungs- und Personalausschusses vom 06.05.09: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien (Sitzungsvorlagen Nr. 08-14 / V 02166)
+- TOP 8.35.: Beschluss des Verwaltungs- und Personalausschusses vom 06.05.09 Änderung der Satzung für die Bezirksausschüsse der LH München; Zusammenfassende Änderungssatzung (Sitzungsvorlagen Nr. 08-14 / V 02083)
+- TOP 8.36.: Beschluss des Verwaltungs- und Personalausschusses vom 06.05.09: Änderung der BA-Satzung und des BA-Kataloges: redaktionelle Änderungen (§5, 6, 8 Abs. 4 und 19 Abs. 3 BA-Satzung, Ziffer 7.3 BA-Katalog), § 25 BA-Satzung, Ziffern 14, 14.1 und 24 BA-Katalog (Sitzungsvorlagen Nr. 08-14 / V 02086)
+- TOP 8.37.: Schreiben Verein Stadtteilarbeit vom 21.04.09: Zu Hause wohnen bleiben; Durch Wohnberatung und Wohnungsanpassung für ältere und behinderte Menschen in München
+- TOP 8.38.: Schreiben Direktorium vom Mai 2009: Jahresbericht 2008 mit Jahresvorschau 2009
+- TOP 8.39.: Schreiben Feierwerk e.V. vom 13.05.09: Einladung zum Fachtag "Auf dem Weg zur mehrheitsfähigen Jugendkultur? Rechtsextreme in aktuellen Jugend- und Musikkulturen" am 19.06.09
+- TOP 8.40.: Schriftverkehr aus der BA-Sitzung vom 05.05.09
+- TOP 1.2: Bürgerpost an den BA
