@@ -1,0 +1,7 @@
+# TOP 4: Mitberatung von Drucksachen
+
+- Sitzung: 16. öffentliche Sitzung des Sozialausschusses (2009-05-26)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=15821
+- Ergebnis: zur Kenntnis genommen (Beratungsfolge beendet)
