@@ -1,0 +1,63 @@
+# Rat (38. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2009-05-26T18:00:00+02:00
+- Ende: 2009-05-26T23:25:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbVERLN5MhNWifITtdYH1Yo
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/2692
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa3kuuQ9-K5yAfy3LnEJ97l5QtBSkLPcY57Ib5DSJOaV/Einladung_Rat_26.05.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUSQHqmB7PjCiBtTNNUk49_yl35Z2eahdVOAr56xuWwc/Oeffentliche_Niederschrift_Rat_26.05.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beratung und Beschlussfassung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2009 und seiner Anlagen
+- TOP 5.1.: Haushaltsreden
+- TOP 5.2.: Leitentscheidungen und Feststellung der Budgets für das Haushaltsjahr 2009
+- TOP 5.2.1.: Beratung über den Entwurf der Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2009; hier: Antrag auf Gewährung einer Finanzhilfe aus dem Konjunkturpaket II - Einstimmig, 0 Enthaltung(en) 
+- TOP 5.2.2.: Haushalt 2009: Leistungsentgelt für Beamte - Einstimmig, 0 Enthaltung(en) 
+- TOP 5.2.3.: Zuschussanträge aus den Fachausschüssen
+- TOP 5.3.: Beschlussfassung zur Haushaltssatzung der Stadt Wesseling für das Haushaltsjahr 2009
+- TOP 5.4.: Haushalt 2009: Stellenplan - 30 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung 
+- TOP 5.5.: Wirtschaftsplan der Kindertageseinrichtungen der Stadt Wesseling für das Wirtschaftsjahr 2009 - Einstimmig, 2 Enthaltung(en) 
+- TOP 5.6.: Wirtschaftsplan der Kulturbetriebe der Stadt Wesseling für das Wirtschaftsjahr 2009 - Einstimmig, 2 Enthaltung(en) 
+- TOP 5.7.: Wirtschaftsplan der Sportstätten der Stadt Wesseling für das Wirtschaftsjahr 2009 - Einstimmig, 2 Enthaltung(en) 
+- TOP 5.8.: Wirtschaftsplan der Wald- und Parkanlagen der Stadt Wesseling für das Wirtschaftsjahr 2009 - Einstimmig, 2 Enthaltung(en) 
+- TOP 6.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2007, Behandlung des Jahresverlusts - Einstimmig, 0 Enthaltung(en) 
+- TOP 7.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2007, Behandlung des Jahresverlusts - Einstimmig, 0 Enthaltung(en) 
+- TOP 8.: Einbringung des Entwurfs des Jahresabschlusses und des Lageberichts zum 31.12.2007 - Einstimmig, 0 Enthaltung(en) 
+- TOP 9.: 8. Änderungssatzung zur Hauptsatzung der Stadt Wesseling - Einstimmig, 0 Enthaltung(en) 
+- TOP 10.: Änderung der Satzung Stadtbücherei / Schulzentralbibliothek - Einstimmig, 0 Enthaltung(en) 
+- TOP 11.: Satzung für das Archiv der Stadt Wesseling - Einstimmig, 0 Enthaltung(en) 
+- TOP 12.: 1. Änderungsordnung zur Benutzungsordnung für das Archiv der Stadt Wesseling - Einstimmig, 0 Enthaltung(en) 
+- TOP 13.: Gebührenordnung für das Stadtarchiv Wesseling - Einstimmig, 0 Enthaltung(en) 
+- TOP 14.: Neufassung der städtischen Vergabeordnung - 32 Ja-Stimme(n), 1 Nein-Stimme, 0 Enthaltung(en) 
+- TOP 15.: Ordnungsbehördliche Verordnung über die Sperrzeit an bestimmten Tagen in der Stadt Wesseling - Einstimmig, 0 Enthaltung(en) 
+- TOP 16.: Genehmigung einer Dringlichkeitsentscheidung: hier: Verordnung über das Offenhalten von Verkaufsstellen aus besonderem Anlass - 20 Ja-Stimme(n), 13 Nein-Stimme(n), 0 Enthaltung(en) Herr Elmar Gillet erklärt, dass er - entgegen seiner Fraktion - der Vorlage zustimmt. 
+- TOP 17.: Planfeststellung Kiesabgrabung Wesseling/ Brühl hier: Planfeststellung gemäß § 31 Wasserhaushaltsgesetz (WHG) Verfahrenseinleitung zur Änderung des geltenden Planfeststellungsbeschlusses - Einstimmig, 0 Enthaltung(en) 
+- TOP 18.: Regionale 2010 Rheinufer hier: Planfeststellung gemäß § 31 Wasserhaushaltsgesetz (WHG) - Einstimmig, 0 Enthaltung(en) 
+- TOP 19.: Fortschreibung des Schulentwicklungsplanes 2008 mit Ausblick bis 2015 - Einstimmig, 0 Enthaltung(en) 
+- TOP 20.: Antrag der CDU-Fraktion: Umbesetzung in politischen Gremien - Einstimmig, 0 Enthaltung(en) 
+- TOP 20.1.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en) 
+- TOP 21.: Antrag der CDU-Fraktion: Bestimmung eines Ausschussvorsitzenden - Einstimmig, 0 Enthaltung(en) 
+- TOP 22.: Antrag der CDU-Fraktion: Umbesetzung in externen Gremien - Einstimmig, 0 Enthaltung(en) 
+- TOP 23.: Antrag der FDP-Fraktion: Umbesetzung in Ausschüssen / Bestimmung eines Ausschussvorsitzenden - Einstimmig, 0 Enthaltung(en) 
+- TOP 24.: Antrag des Integrationsbeirats der Stadt Wesseling: Umbesetzung im Kultur- und Partnerschaftsausschuss - Einstimmig, 0 Enthaltung(en) 
+- TOP 25.: Begabtenförderung durch das Hochbegabtenzentrum für das Rheinland in den Kindertageseinrichtungen der Stadt Wesseling
+- TOP 26.: Ausbau der Kindertageseinrichtung St. Andreas - In der Flecht - für die Betreuung von Kindern unter drei Jahren (U3)
+- TOP 27.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Ernennung / Entlassung von Ehrenbeamten - Einstimmig, 0 Enthaltung(en) 
+- TOP 2.: Ernennung eines Beamten - Einstimmig, 0 Enthaltung(en) 
+- TOP 3.: Ernennung eines Beamten - Einstimmig, 0 Enthaltung(en) 
+- TOP 4.: Ernennung eines Beamten - Einstimmig, 1 Enthaltung 
+- TOP 5.: Mitteilungen und Anfragen
+- TOP 6.: Presseveröffentlichungen
