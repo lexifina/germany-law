@@ -1,0 +1,52 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2009-05-26T14:00:00+02:00
+- Ende: 2009-05-26T18:43:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1351
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1351
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Entwurf des VEP-Zielkonzepts - Von Verwaltung zurückgezogen
+- TOP 3: Bebauungsplan Nr. 698/I - Stadtbezirk Rheindahlen - Kenntnisnahme
+- TOP 4: 1. Änderung des Bebauungsplanes Nr. 658/IV - Kenntnisnahme
+- TOP 5: Bebauungsplan Nr. 664/VI - Kenntnisnahme
+- TOP 6: Bebauungsplan Nr. 697/VI - Kenntnisnahme
+- TOP 7: Bebauungsplan Nr. 699/X - Von Verwaltung zurückgezogen
+- TOP 8: Aufstellung eines Bebauungsplanes - Einstimmiger Beschluss
+- TOP 9: Bebauungsplan Nr. 682/III - Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 10: 185. Änderung des Flächennutzungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 11: Bebauungsplan Nr. 685/III - Stadtbezirk Stadtmitte - Mit Stimmenmehrheit beschlossen
+- TOP 12: Bebauungsplan Nr. 693/III - Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 13: Aufstellung eines Bebauungsplanes - Einstimmiger Beschluss
+- TOP 14: Aufstellung eines Bebauungsplanes - Vertagt (s. Niederschrift)
+- TOP 15: 183. Änderung des Flächennutzungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 16: Bebauungsplan Nr. 679/V - Stadtbezirk Neuwerk - Mit Stimmenmehrheit beschlossen
+- TOP 17: 1. Änderung eines Teilbereiches des BP 519/IX - Mit Stimmenmehrheit beschlossen
+- TOP 18: Bebauungsplan Nr. 690/IX - Einstimmiger Beschluss
+- TOP 19: 188. Änderung des Flächennutzungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 691/IX - Mit Stimmenmehrheit beschlossen
+- TOP 21: Aufstellung eines Bebauungsplanes - Einstimmiger Beschluss
+- TOP 22: 1. Änderung des 'Bebauungsplanes Nr. 109/VIII - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 23: Erhaltungssatzung Pahlkebad - Einstimmiger Beschluss
+- TOP 24: Festlegung der Eckpunkte zum Wettbewerb - Einstimmiger Beschluss
+- TOP 25: Festlegung Innenstadt Rheydt zum Stadtumbaugebiet - Einstimmiger Beschluss
+- TOP 26: Aufhebung der Schutzraumnutzung - Einstimmiger Beschluss
+- TOP 27: Verkehrskonzept Rheydter Innenstadt - Mit Stimmenmehrheit beschlossen
+- TOP 28: Ausbau der Dohler Straße - Einstimmiger Beschluss
+- TOP 29: Ausbau der Aachener Straße im Bereich der Kirche - Einstimmiger Beschluss
+- TOP 30: Fahrplanänderungen der NVV AG - Kenntnisnahme
+- TOP 31: Neuaufstellung des Nahverkehrsplanes - Einstimmiger Beschluss
+- TOP 32: Nahverkehrsplan VRR - Einstimmiger Beschluss
+- TOP 33: Konjunkturpaket II - Kenntnisnahme
+- TOP 34: Erneuerung von Straßenlampen - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Erschließung am Reststrauch - Einstimmiger Beschluss
+- TOP 36: Verbindungsweg Schloss-Dyck-Straße - Einstimmiger Beschluss
+- TOP 37: Berichte - Zur Kenntnis genommen
+- TOP 38: Anfragen und Mitteilungen - Zur Kenntnis genommen
