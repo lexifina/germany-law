@@ -1,0 +1,83 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-05-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631600
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631600
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Truderinger Str. 134 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.1.2.: Kraiburger Str. 6 - Neubau eines Mehrfamilienhauses mit drei Zweifachparkergaragen
+- TOP 3.1.1.3.: Antrag des BA 14 zum Grundstück Ursberger Str. 10
+- TOP 3.1.1.4.: Thomas-Hauser-Straße 2 - Abstellen von Gebrauchtwagen in einer Grünanlage
+- TOP 3.1.1.5.: Truderinger Gleisdreieck - Biotop oder Bahnbaubetriebshof und Baustoff-Recycling-Anlage
+- TOP 3.1.1.6.: Verkehrsführung vom Innsbrucker Ring in die Bad-Schachener-Straße
+- TOP 3.1.2.1.: 24. München-Marathon am 11.10.2009 - Anhörung
+- TOP 3.1.2.2.: Radveranstaltung "Velonale München" am 26.07.2009 - Anhörung
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Kath. Kindertagesstätte St. Michael - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.5.2.: Janusch Kozminski Filmproduktion - Anfrage bzgl. Filme über Berg am Laimer Straßen
+- TOP 3.5.3.: Neuauflage der BA-Broschüre
+- TOP 3.6: Sonstiges
+- TOP 3.6.1.: Hochriesstraße 8 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Diskothek "NOX" (vorher "Traumraum") - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.5.: Gaststätte "Motty's Treff" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.6.: Bebauungsplan mit Grünordnung Nr. 2033 - Seebrucker Straße (beiderseits), Kreillerstraße (nördlich), Hansjakobstraße (südlich) (Teiländerung des Bebauungsplanes Nr. 26)
+- TOP 4.1.1.7.: Solarenergetische Optimierung von größeren Neubaugebieten
+- TOP 4.1.1.8.: Vergabe von Planungsleistungen an Private
+- TOP 4.1.1.9.: Städtische Bauprojekte und Vereinsbauprojekte - Bekanntgabe der Prioritätenlisten
+- TOP 4.1.1.10.: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008 / 2009)
+- TOP 4.1.2.1.: Parkraummanagement in München - Ergebnisbericht Wirtschaftlichkeitsuntersuchung
+- TOP 4.1.2.2.: Parkraummanagement in München - Projektfortschrittsbericht 2008 / Sektor III
+- TOP 4.1.2.3.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Allg. Eisenbahngesetz a) Verfahrensstand; weitere Informationen; Expertenhearing am 25.03.2009 b) Neuplanung Planfeststellungsabschnitt 3 München Ost ? Haidhausen c) Weiteres Vorgehen d) Anträge und Empfehlungen
+- TOP 4.1.2.4.: Radverkehr in München - Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 4.1.3.1.: Verpackungsverordnung - Sammlung von Wertstoffen an den Containerinseln
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Kinderkrippe Dingolfinger Str. 11 - Beschluss des Kinder- und Jugendhilfeausschusses
+- TOP 4.4.2.: Kindergarten Grafinger Str. 69 - Ausführungsbeschluss des Schul- und Sportausschusses
+- TOP 4.4.3.: "Netzwerk am Isareck" - Beschluss des Sozialausschusses
+- TOP 4.5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.1.1.4.: Diskothek "La Tropicana" (ehemals Matador) - Antrag auf unveränderte Fortführung
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
