@@ -1,0 +1,55 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-05-26T16:00:00+02:00
+- Ende: 2009-05-26T19:55:00+02:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2585
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2585
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126124.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126124.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126124.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: FNP-Ä 147-Lacombletstr.-ÖB - zur Kenntnis genommen
+- TOP 4: BPl 5579/060-Lacomblet-ÖB - zur Kenntnis genommen
+- TOP 5: Flächennutzungsplanänderung Nr. 151 - zur Kenntnis genommen
+- TOP 6: BPl 5777/055-Gaußstr-Aufst.ÖB - zur Kenntnis genommen
+- TOP 7: Schwabstraße 4-8 + Bruchstraße 94 a - zur Kenntnis genommen
+- TOP 8: Ortsumgehung Flingern, 2. Bauabschnitt - mehrheitlich abgelehnt
+- TOP 9: SozStadt-Flingern/Oberb.-Abschlussber. - zur Kenntnis genommen
+- TOP 10: Verwendung Haushalt 2009 - zur Kenntnis genommen
+- TOP 11: Quartiersgaragen II - mehrheitlich abgelehnt
+- TOP 12: Beethovenstraße - mehrheitlich abgelehnt
+- TOP 13: Zoopark V - zur Kenntnis genommen
+- TOP 14: Zoopark V - zur Kenntnis genommen
+- TOP 15: Zoopark V - zur Kenntnis genommen
+- TOP 16: Zoopark V - zur Kenntnis genommen
+- TOP 17: Zoopark V - zur Kenntnis genommen
+- TOP 18: Mendelssohnstraße - zur Kenntnis genommen
+- TOP 19: Hans-Sachs-Straße - zur Kenntnis genommen
+- TOP 20: Vennhauser Straße - zur Kenntnis genommen
+- TOP 21: Graf-Recke-Straße - zur Kenntnis genommen
+- TOP 22: GBA-Verkehrsangelegenheiten ab 2004 - zur Kenntnis genommen
+- TOP 23: Grunerstraße - zur Kenntnis genommen
+- TOP 24: Kiefernstraße III - zur Kenntnis genommen
+- TOP 25: Hoffeldstr. - zur Kenntnis genommen
+- TOP 26: Verkehrszeichen - zur Kenntnis genommen
+- TOP 27: Flinger Broich 3 - zur Kenntnis genommen
+- TOP 28: Hundeausläufe - zur Kenntnis genommen
+- TOP 29: Umweltschutz VI - zur Kenntnis genommen
+- TOP 30: Soziale Stadt NRW - zur Kenntnis genommen
+- TOP 31: Bauunterhalt an Städt. Gebäuden II - zur Kenntnis genommen
+- TOP 32: Mulvanystraße - Buschermühle II - zur Kenntnis genommen
+- TOP 33: Schulen Generalien IV - zur Kenntnis genommen
+- TOP 34: Soziale Dienste - zur Kenntnis genommen
+- TOP 35: Sport - Generalien - zur Kenntnis genommen
+- TOP 36: Höherweg 100 - zur Kenntnis genommen
+- TOP 37: Speldorfer Straße - zur Kenntnis genommen
+- TOP 38: Schillerplatz
