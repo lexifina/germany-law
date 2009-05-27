@@ -1,0 +1,52 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-05-27T16:00:00+02:00
+- Ende: 2009-05-27T00:00:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2586
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2586
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126371.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126371.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126371.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: BPl 5682/013-Theodorstr/A44-Vereinf.Verf. 13 - einstimmig beschlossen
+- TOP 5: Maßnahmenprogramm Attraktivierung Bahnüberführungen - zur Kenntnis genommen
+- TOP 6: Graf-Recke-Str. 220 Erweiterung franz. Schule - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: BA Zum Gut Heiligendon o. Nr. - einstimmig beschlossen
+- TOP 9: Münsterstraße - signalisierter Fußgängerüberweg und Radwegergänzung - - einstimmig beschlossen
+- TOP 10: Hülsmeyerplatz - Verkehrsverbesserungen - - einstimmig beschlossen
+- TOP 11: Resolution Klinke - einstimmig beschlossen
+- TOP 12: Anfrage CDU: Kalkumer Straße 2-4, Nutzungskonzept - vertagt
+- TOP 13: Anfrage Bü90/Grüne: Eisflächennutzung ISS-Dome Anfrage Bü90/Grüne: Eisflächennutzung ISS-Dome - beantwortet
+- TOP 14: Anfrage Die Linke: Vorfeld West Flughafen - beantwortet
+- TOP 15: Anfrage CDU: Düsseldorfer Straße - vertagt
+- TOP 16: Anfrage CDU: Kanzlerstraße/Rehstraße - vertagt
+- TOP 17: Antrag Bü90/Grüne: Westfalenstraße Radwegsymbole - einstimmig beschlossen
+- TOP 18: Antrag Bü90/Grüne: Oberhausener Straße-Wartehallen - einstimmig beschlossen
+- TOP 19: Antrag Bü90/Grüne: Am Schüttenhof - Grünzug - einstimmig beschlossen
+- TOP 20: Antrag CDU: Beleuchtung Kirche St. Josef - einstimmig beschlossen
+- TOP 21: Antrag SPD: Abflachung Bordsteinkante Kieshecker Weg - einstimmig beschlossen
+- TOP 22: Antrag SPD: Verkehrsströme Rather Kreuzweg - einstimmig beschlossen
+- TOP 23: Antrag SPD: ISS-Dome Straßenbahnanbindung - vertagt
+- TOP 24: Kreisverkehr Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 25: Radverkehr Rather Markt/Amalienstraße - einstimmig beschlossen
+- TOP 26: Stellungnahme zum Nahverkehrsplan - einstimmig beschlossen
+- TOP 27: Antrag SPD: Nahverkehrsplan Linie 729 - einstimmig beschlossen
+- TOP 28: Trödelmärkte Schützenplatz Rather Broich - einstimmig beschlossen
+- TOP 29: Trödelmärkte Schützenplatz Vogelsanger Weg - einstimmig beschlossen
+- TOP 30: Zuschussvergabe 2009 - einstimmig beschlossen
+- TOP 31: Am Hülserhof / Zum Gut Heiligendonk - endgültige Herstellung - - zur Kenntnis genommen
+- TOP 32: Hamborner Straße/ Parsevalstraße - einstimmig beschlossen
+- TOP 33: Teilweise Umbenennung der Flughafenstraße - einstimmig beschlossen
+- TOP 34: Kalkumer Straße - Erneuerung der Schrankenanlage - - einstimmig beschlossen
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
