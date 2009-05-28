@@ -1,0 +1,80 @@
+# 30. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-05-28T16:30:00+02:00
+- Ende: 2009-05-28T21:30:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2247
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2247
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-29 - (offen)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines stellvertretenden Bürgerdeputierten für den Ausschuss für Sport - im Ältestenrat zurückgezogen
+- TOP 8.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Einzelhandelskonzeption - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Ortsverein Grünau e. V. (SM 905) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 911) - in der BVV abgelehnt
+- TOP 11.3: Sondermittel für Seniorenverein Wuhlheide e. V. (SM 915) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für PSV Olympia Berlin e. V. (SM 917) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Cajamarcaplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Umbenennung der Bushaltestelle "Frauenlobstraße" - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Gestaltungskonzept Flächen am Bahnhof Schöneweide (Michael-Brückner-Straße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Durchgehende Beleuchtung in der Fliegenpilzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Änderung von Ampelschaltungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Sichtspiegel an der Einmündung Semmelweisstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Abbiegepfeil Joachimstraße und Verkehrsberuhigung Annenallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Radverkehr in Oberspreestraße eindeutig regeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Elcknerplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kurzzeitparken in der Baumschulenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Anordnung eines Radfahrstreifens in der Baumschulenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Bebauungsplan XVI-66 („Kita Spitzerstraße“) hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: 100 Jahre Kirche Baumschulenweg und altes Lyzeum (heutige Volkshochschule) - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Schulwegsicherheit in der Wassersportallee - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Supermarkt neben der Kirche – Sichtachsen in Friedrichshagen erhalten - überwiesen
+- TOP 12.16: Benennung der im Ortsteil Rahnsdorf gelegenen Straße 523 in "Seidenbienenweg" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.17: Verbleib des Jugendzirkus Cabuwazi (Altglienicke) und des Abenteuerspielplatzes Waslala sowie teilweise Aufhebung der Bezirksamtsbeschluss Nr. 20/2000 des Bezirksamtes Treptow von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.18: Weiterentwicklung der Tourismusförderung im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Finanzausstattung bei den "Hilfen zur Erziehung" - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Platzbenennung "An der Kirche" - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Eheschließungen und die Begründung eingetragener Lebenspartnerschaften außerhalb der Rathäuser ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Gründung einer eigenständigen Grundschule in Schmöckwitz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung von öffentlichen Grün- und Erholungsanlagen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ersatzparkplätze für ehemaligen P&R Betriebsbahnhof Schöneweide - überwiesen
+- TOP 14.2: Parkverbot für LKW in der Glienicker Straße - überwiesen
+- TOP 14.3: Grundschule am Pegasuseck - überwiesen
+- TOP 14.4: Kreuzender Radverkehr in der Fürstenwalder Allee - überwiesen
+- TOP 14.5: Änderung der Geschäftsordnung - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.6: Partnerstädte - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Altstadtkonferenz 2010 - überwiesen
+- TOP 14.8: Sonnenschutz Spielplatz Zum Alten Windmühlenberg - überwiesen
+- TOP 14.9: Lärmschutzwand an der Köllnischen Brücke umgehend ausbessern - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Änderung der Schulentwicklungsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Dauercampingplätze - überwiesen
+- TOP 14.12: Namensanpassung Straßenbahnhaltestelle "Rathenaustraße/FHTW" - in der BVV abgelehnt
+- TOP 14.13: Fußweg zur Kita Raumschiff Orion instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Gartendenkmal Treptower Park schützen - überwiesen
+- TOP 14.15: Fluglärm-Messstelle in Müggelheim - überwiesen
+- TOP 14.16: Überweg für Fußgängerinnen und Fußgänger in der Friedrichshagener Str. 5 - überwiesen
+- TOP 14.17: Halteverbot Glienicker Straße - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Rückgabe der Fläche An der Wuhlheide 250-270 an den Bezirk - beantwortet
+- TOP 15.2: Entwicklung des Grundstücks An der Wuhlheide 250-270 - beantwortet
+- TOP 15.3: Musikschule Treptow-Köpenick – Perspektiven für Bildung und Kultur - beantwortet
