@@ -1,0 +1,158 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2009-05-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1545079
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1545079
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) TSV Waldtrudering e.V. 1. Errichtung eines Kunstrasenplatzes, Rotkehlchenweg 2 2. Änderung des Entwurfs des Mip 2009 - 2013
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Freunde der FFW Riem von 1874 e.V. Tag der offenen Tür am 04.07.2009
+- TOP 1.3.: (E) Budget der Bezirksausschüsse KWA Kuratorium Wohnen im Alter gemeinnützige Aktiengesellschaft Aufstellung eines Maibaums am 01.05.2009
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Wohnforum München gGmbH, Nachbarschaftstreff Oslostr. Aktionsprogramm Messestadt
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Ganztagesbetreuungsplätze / Ganztagesschulen in der Messestadt
+- TOP 2.2.: Hortsituation, Mittagsbetreuungsplätze
+- TOP 2.3.: Hortplätze an der Grundschule Lehrer-Götz-Weg
+- TOP 2.4.: Hortplatz für unsere Tochter; Grundschule Forellenstraße
+- TOP 2.5.: Bebauungsvorschlag für das Grundstück Truderinger Straße 321-325; FlurNr. 329
+- TOP 2.6.: Raum für größere Kinder und Jugendliche in der Messestadt Ost
+- TOP 2.7.: Wirtschaftsförderung in München zum Schaden der übrigen Republik
+- TOP 2.8.: Bahnhof Trudering: Straßenbeleuchtung zur Verminderung des Fahrraddiebstahls
+- TOP 2.9.: Schallschutz an der A 94
+- TOP 2.10.: Flächen für den Einzelhandel in der Messestadt
+- TOP 2.11.: Biotop oder Bahnbaubetrieb (Hallo-Ausgabe 14. Woche vom 02.04.09)
+- TOP 2.12.: Unsere Stadt - Unsere Straßen (Filmprojekt)
+- TOP 2.13.: Ganztagesbetreuung für Übertrittskinder aus der Messestadt
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Querungsmöglichkeit für Fußgänger und Rollstuhlfahrer; Messestadt Ost
+- TOP 3.2.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauersegler Straße
+- TOP 3.3.: Christbaumverkauf auf städtischen Flächen
+- TOP 3.4.: Probleme mit überlangen Straßennamen; BA-Antrag Nr. 02-08 / B 02807
+- TOP 3.5.: Veranstaltung auf öffentlichem Verkehrsgrund; hier: Radveranstaltung "Velonale München" am 26.07.2009 (s. auch Top 5.2/05/09)
+- TOP 3.6.: Streetsoccer auf dem Platz der Menschenrechte
+- TOP 3.7.: Baustoff-Umschlagzentrum am Bahnhof Trudering endlich verhindern (BA-Anträge Nrn. 08-14 / B 00158 und 08-14 / B 00724)
+- TOP 3.8.: Lösung der Parkproblematik in der Riemer Straße
+- TOP 3.9.: Benachteiligung der KiTa Stieglitzweg beseitigen
+- TOP 3.10.: Planungen zum gymnasialen Ganztagesangebot im Münchner Osten
+- TOP 3.11.: Aufnahme der Grundschule an der Markgrafenstraße in den Sprengel
+- TOP 3.12.: Verpflichtung der von der Stadt München gebauten und in Betriebsträgerschaft weitergeführten Kindertageseinrichtungen zum städtischen Abgleichverfahren von Anmeldungen
+- TOP 3.13.: Gleisanschluss für Logistiklager in Waldtrudering sichern
+- TOP 3.14.: Stellwerkausfälle in Riem: Wann hört das Chaos auf der S2-Ost auf?
+- TOP 3.15.: Warum hält die S-Bahn in Trudering nicht vollständig im Dachbereich an?
+- TOP 3.16.: Erweiterung der Fahrgastinformation am Truderinger Bahnhof
+- TOP 3.17.: Münchner Tafeln: Parken, Halten Helsinkistraße - Vollzug der Straßenverkehrsordnung (StVO)
+- TOP 3.18.: Wiese als Hundeklo
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Weiterführung des Projekts: "Willkommen in der Messestadt"
+- TOP 4.2.: Mehr und bessere Sitzbänke am Ödenstockacher Weg
+- TOP 4.3.: Fitnessparcours im Bajuwarenpark
+- TOP 4.4.: Kindergarten- und Hortunterversorgung im Bereich der Bajuwarenstraße rasch beenden
+- TOP 4.5.: Kinder und Jugendliche in Trudering-Riem: Ist- und Prognosedaten des Planungsreferates abgleichen
+- TOP 4.6.: Raumreserven bei städtischen Gymnasien und Realschulen offenlegen
+- TOP 4.7.: Veränderungssperre Max-Beckmann-Straße 4
+- TOP 4.8.: KomProB: Wohnen ohne Auto - Truderinger Straße 321-325
+- TOP 5: Anhörungen
+- TOP 5.1.: Vollzug der Wassergesetze: Tauchen mit Pressluftgeräten im Badesee Riem zuzügl. Entwurf der Allgemeinverfügung und Vorschlag eines Ortstermins am 18.06.09
+- TOP 5.2.: Radveranstaltung "Velonale München" am 26.07.2009 (s. auch Top 3.5/05709)
+- TOP 5.3.: Riemer Park Kindersportfest des Kindergartens am Stieglitzweg am 26.06.2009
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Fußballfeld / Kunstrasenplatz für die Messestadt
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2: Anhörung im Einzelfall auf Anforderung: Anton-Geisenhofer-Straße, Neubau einer Wohnanlage mit Tiefgarage
+- TOP 7.2.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2: Anhörung im Einzelfall auf Anforderung: Widmannstraße 2-4, Nutzungsänderung und Umbau von einem Büro/Kiosk in eine Kindergartengruppe
+- TOP 7.3.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2: Anhörung im Einzelfall auf Anforderung: Max-Beckmann-Straße 4, Neubau einer Wohnanlage mit 23 WE und einer Tiefgarage mit 24 Stellplätzen
+- TOP 7.4.: Gemeinde Feldkirchen Bebauungsplan Nr. 10 - temporäre Bauma-Stellplatzanlage
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Sanierung des Wald-/Wanderweges zwischen "Am Hochacker" und "Fauststraße"
+- TOP 7.2.: Zugeparkte Marianne-Plehn-Straße
+- TOP 7.3.: Alleepflanzung entlang der Friedenspromenade - Patenschaftsbäume, BA-Antrag Nr. 08-14 / B 00815
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Sachbericht zum Konzert am 29.03.2009 des Vereins der Freunde und Förderer der Musik in der Pfarrei St.-Augustinus e.V.
+- TOP 7.2.: Verwendungsnachweis des Förderverein Festring Trudering e.V. - Kinderzeche i.H.v. 1.250,00 Euro
+- TOP 7.3.: Verwendungsnachweis der Chorgemeinschaft St. Peter und Paul in Trudering - Große Truderinger Neujahrskonzert 2009 i.H.v. 1.265,00 Euro
+- TOP 7.4.: Verwendungsnachweis Bürgerzentrum Trudering - Hebebühne i.H.v. 3.500,00 Euro
+- TOP 7.5.: Budget der Bezirksausschüsse - Änderung und Ergänzung der Richtlinien Beschluss des Verwaltungs- und Personalausschusses vom 06.05.2009
+- TOP 7.6.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München - Zusammenfassende Änderungssatzung; Beschluss des Verwaltungs- und Personalausschusses vom06.05.2009
+- TOP 7.7.: Änderung der BA-Satzung und des BA-Kataloges: - redaktionelle Änderungen (§§ 5, 6, 8 Abs. 4, 19 Abs. 3 BA-Satzung, Ziffer 7.3 BA-Katalog (Referat für Stadtplanung und Bauordnung)) - § 25 BA-Satzung - Ziffern 14, 14.1, und 24 BA-Katalog (Baureferat) und Ziffer 20 BA-Katalog (Kreisverwaltungsreferat), Beschluss des Verwaltungs- und Personalausschusses vom 06.05.2009
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Anechostraße 11, Askaripfad 4, Groschenweg 36, Niobestraße 22
+- TOP 8.2.: Leonhardiweg 66
+- TOP 8.3.: Salzmesserstraße 72
+- TOP 8.4.: Florastraße 49a
+- TOP 8.5.: Am Hochacker 15
+- TOP 8.6.: Birkhahnweg 48
+- TOP 8.7.: Kranichweg 22
+- TOP 8.8.: Vogesenstraße 17b
+- TOP 8.9.: Dollwiesenweg 14
+- TOP 8.10.: Kathreinweg 32
+- TOP 8.11.: Königsseestraße 16
+- TOP 8.12.: Günderodestraße 21 - 21b
+- TOP 8.13.: Tsingtauer Straße
+- TOP 8.14.: Unnützstraße 9
+- TOP 8.15.: Funtenseestraße 6 (Haus 1)
+- TOP 8.16.: Funtenseestraße 6 (Haus 2)
+- TOP 8.17.: Mönchbergstraße 7 - 7a
+- TOP 8.18.: Kameruner Straße 9
+- TOP 8.19.: Zehntfeldstraße 242a
+- TOP 8.20.: Tangastraße 50a
+- TOP 8.21.: Wardeinstraße 28
+- TOP 8.22.: Rothuberweg 4 (Haus 1)
+- TOP 8.23.: Rothuberweg 4 (Haus 2)
+- TOP 8.24.: Rothuberweg 4 (Haus 3)
+- TOP 8.25.: Heilwigstraße 32a
+- TOP 8.26.: Waterbergstraße 7
+- TOP 8.27.: Rotfuchsweg 19
+- TOP 8.28.: Sigmund-Riefler-Bogen 22
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: - Einladung "Bundesweiter Wettbewerb Stadtradeln - unsere Stadt fährt Rad" am 05.05.09 - Einladung zum Fachforum "Moderne Techniken der Bestandsaufnahme" am 24.06.09 und zum Kooperationsforum "Qualitätssicherung in der Photovoltaik" am 01.07.09 - Einladung zum Tag der offenen Tür bei REFUGIO München am 27.06.09 - Einladung zur Eröffnung des Hortes Turnerstraße am 16.06.09 - Einladung KfW-Regionalkonferenzen zu den neuen Förderprogrammen im Rahmen des Konjunkturpaketes der Bundesregierung - 18.jetzt - Fest junger Erwachsener am 17.10.09 / Teilnahmeanfrage bzw. -absage erforderlich - Einladung zum Fachtag der Heilpädagogischen Tagesstätten am 23.06.09 - nach Mitteilung der BA-Vorsitzenden
+- TOP 9.2.: Querung der Bajuwarenstraße (Bürgeranliegen zuzügl. Antwort BA-Vorsitzende)
+- TOP 9.3.: Schreiben der BA-Vorsitzenden an den BA-Vorsitzenden des BA 14 Berg am Laim; Erläuterung der Beschlussfassung
+- TOP 9.4.: Neuauflage der BA-Broschüre
+- TOP 9.5.: Jahresbericht 2008 mit Jahresvorschau 2009
+- TOP 9.6.: Kurze Info-Broschüre zur Verpackungsordnung
+- TOP 9.7.: Veranstaltungen / Kooperationen des Kulturreferats im Mai 2009
+- TOP 9.8.: Vierzehnte Fortschreibung des Planungs- und Realisierungskonzeptes der MRG
+- TOP 9.9.: Veränderungssperre Nr. 647 Martin-Kollar-Straße 4, Flurstück Nr. 108/1, Gemarkung Trudering, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009
+- TOP 9.10.: Vergabe von Gewerbeparzellen; Messestadt Riem im Bereich der Gewerbegebiete Nordost (2. BA) und Nordwest (1. BA), Gewerbegebiet Drosselweg
+- TOP 9.11.: Neubau von 3 Kindertagesstätten in Systembauweise Serie 1: - Errichtung einer Kooperationseinrichtung in der Bajuwarenstraße I (Karpfenstraße) - Errichtung einer Kindertagesstätte Bajuwarenstraße IV (Evereststraße) - Errichtung einer Kindertagesstätte im Stadtbezirk 22 Aubing-Lochhausen-Langwied Beschluss des Schul- und Sportausschusses des Stadtrates vom 29.04.2009
+- TOP 9.12.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013
+- TOP 9.13.: Informationsflyer "Baumaßnahmen der SWM" 1. Halbjahr 2009 für den BA
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 13.04.09 - 10.05.09
+- TOP 10.2.: Zweckentfremdung von Wohnraum - St.-Augustinus-Straße
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Rotkehlchenweg
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Von-Grafenreuth-Straße
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Heldackerweg
+- TOP 10.6.: Zuwendungsbewilligung für die Freunde und Förderer der Turnerschule i.H.v. 248,00 Euro
+- TOP 10.7.: Zuwendungsbewilligung für die Freunde und Förderer der Musik in der Pfarrei St.-Augustinus e.V. i.H.v. 300,00 Euro
+- TOP 10.8.: Abstellen von Gebrauchtwagen in der Grünanlage Thomas-Hauser-Straße / Xaver-Weismor-Straße
+- TOP 10.9.: Blühende Straßenränder; Beschluss des Bauausschusses vom 31.03.2009
+- TOP 10.10.: Bebauungsplan mit Grünordnung Nr. 1758a - Bajuwarenstraße; Beschluss des Bauausschusses vom 31.03.2009
+- TOP 10.11.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) - Valentin-Linhof-Straße; Antrag auf Errichtung und Betrieb eines Auslieferungslagers für Chemieprodukte
+- TOP 10.12.: Mitteilung über ein Grundstücksgeschäft - Erwerb von Flächen, Flst. 1408/163, Gemarkung Trudering
+- TOP 10.13.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund, hier: Streetsoccer-Turnier auf dem Platz der Menschenrechte (Bescheid)
+- TOP 10.14.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund, hier: Flohmarkt auf dem Platz der Menschenrechte (Bescheid)
+- TOP 10.15.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Am Moosfeld 85 mit 78 Kinderkrippenplätzen (Umbau), Beschluss des Kinder- und Jugendhilfeausschusses vom 26.05.2009
+- TOP 10.16.: Städtische Bauprojekte und Vereinsbauprojekte, Bekanntgabe der Prioritätenliste (Stand: März 2009); Beschluss des Schul- und Sportausschusses des Stadtrates vom 29.04.2009
+- TOP 10.17.: Abdruck der Zahlungserinnerung "Die Ameise e.V."
+- TOP 10.18.: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008/2009); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009
+- TOP 10.19.: Vergabe von Planungsleistungen an Private; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009
+- TOP 10.20.: Solarenergetische Optimierung von größeren Neubaugebieten; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009
+- TOP 10.21.: Radverkehr in München - Grundsatzbeschluss zur Förderung des Radverkehrs in München; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltschutzausschusses vom 06.05.2009
+- TOP 10.22.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009
