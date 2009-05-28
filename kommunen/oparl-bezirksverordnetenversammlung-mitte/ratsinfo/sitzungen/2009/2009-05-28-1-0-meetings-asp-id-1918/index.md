@@ -1,0 +1,139 @@
+# 25. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-05-28T17:30:00+02:00
+- Ende: 2009-05-28T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1918
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1918
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=70099
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Thematische Stunde - (offen)
+- TOP 2.1: Allons enfants de la patrie au midi! - beantwortet
+- TOP 2.2: Umzugspläne des Collége Voltaire – Erhalt der Grips-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: des Vorstandes - erledigt
+- TOP 3.2: der Fraktionen - (offen)
+- TOP 3.3: der Ausschüsse - (offen)
+- TOP 3.4: des Bezirksamtes - erledigt
+- TOP 4: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Das Schicksal der Iranischen Straße 3 - beantwortet
+- TOP 5.2: Tutti Frutti all rooty! - Table Dance Bar tanzt dem Bezirksamt auf der Nase rum - beantwortet
+- TOP 5.3: Zukunft des Winterzaubers am Gendarmenmarkt - beantwortet
+- TOP 5.4: AG - Anti-Korruption, zugesagt für Dezember 2008 - beantwortet
+- TOP 5.5: Behindern Verwaltungsvorschriften die Arbeit der Seniorenvertretung?? - schriftlich beantwortet
+- TOP 5.6: Keine Kontrolle von Spielhallen? - schriftlich beantwortet
+- TOP 5.7: Ausschreibung zum Programm Aktive Stadt - schriftlich beantwortet
+- TOP 5.8: VHS-Gebäude Linienstraße - schriftlich beantwortet
+- TOP 5.9: Einbürgerung ohne "Kekse und Kaffee"?? - schriftlich beantwortet
+- TOP 5.10: Standort Diesterweg-Gymnasium - schriftlich beantwortet
+- TOP 5.11: Girls' Day - schriftlich beantwortet
+- TOP 5.12: Skaterbahn im Poststadion - schriftlich beantwortet
+- TOP 5.13: Mauerpark: Zahltag 2010? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Hertie schließt - Turmstraße mit Perspektiven? - beantwortet
+- TOP 6.2: Förderung des Türkischen Kulturvereins im Jahr 2009? - vertagt
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Nauener Platz - beantwortet
+- TOP 7.2: Wirtschaftsförderung: Alles Banane? - beantwortet
+- TOP 7.3: Erlass einer bezirklichen Haushaltssperre - Notbremse oder Bankrotterklärung? - beantwortet
+- TOP 7.4: Finanzielle Unterstützung ehrenamtlicher Arbeit von Bürgerinnen und Bürger in Mitte - schriftlich beantwortet
+- TOP 7.5: Qualifizierte Einlassungen zur Stadtentwicklungspolitik - schriftlich beantwortet
+- TOP 7.6: Maßnahmen des Bezirks gegen Berlin-"Schmiergarten"? - schriftlich beantwortet
+- TOP 7.7: Bezirksamtsübersetzung für BVV: "Bei Vielen Vergessen"?! - schriftlich beantwortet
+- TOP 7.8: Chancen einer Entwicklungsfläche - oder: des Regierenden neues Spielzeug? - schriftlich beantwortet
+- TOP 7.9: Zukunft des Wettbewerbsverfahrens östlicher Bereich Lehrter Straße - schriftlich beantwortet
+- TOP 7.10: Bezirkliche Immobilien - schriftlich beantwortet
+- TOP 7.11: Krankenkassenbeteiligung nach SGB V - schriftlich beantwortet
+- TOP 7.12: Trägerlandschaft nach Kapitel 3300 Titel 684 73 - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl eines Mitgliedes für den BVV-Vorstand - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf I-B5m sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5m - überwiesen
+- TOP 9.2: Bebauungsplanentwurf I-B5b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5b - überwiesen
+- TOP 9.3: Bebauungsplanentwurf I-B5a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5a - überwiesen
+- TOP 9.4: Beschluss über den Bebauungsplanentwurf 1-18B und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-18B - überwiesen
+- TOP 9.5: Bebauungsplanentwurf I-B5u sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5u - überwiesen
+- TOP 9.6: Beitragspflichtige Erneuerung der Straßenentwässerung in der Fennstraße im Abschnitt Reinickendorfer bis Müllerstraße - überwiesen
+- TOP 9.7: Beitragspflichtige Erneuerung der Straßenentwässerung in der Fennstraße im Abschnitt Müller- bis Tegeler Straße - überwiesen
+- TOP 9.8: Beitragspflichtige Erneuerung der Straßenentwässerung in der Müllerstraße von Fenn- bis Lindower Straße - überwiesen
+- TOP 9.9: Beitragspflichtige Erneuerung der Straßenentwässerung in der Sellerstraße - überwiesen
+- TOP 9.10: Beitragspflichtige Erneuerung der Straßenentwässerung in der Straße am Nordhafen - überwiesen
+- TOP 9.11: Bebauungsplanentwurf II-183 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-183 - überwiesen
+- TOP 9.12: Genehmigung der im Haushaltsjahr 2008 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Anmeldungen für die Investitionsplanung 2009 - 2013 - vertagt
+- TOP 10.2: Fachplan Grün- und Freiflächen - vertagt
+- TOP 10.3: Bebauungsplanentwurf II-169 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-169 - vertagt
+- TOP 10.4: Bebauungsplanentwurf I-B5e sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-B5e - vertagt
+- TOP 10.5: Bebauungsplanentwurf I-B5t sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-B5t - vertagt
+- TOP 10.6: Beschluss über den Bebauungsplanentwurf 1-17B und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-17B - vertagt
+- TOP 10.7: Bebauungsplanentwurf II-180 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-180 - vertagt
+- TOP 10.8: Vorhabenbezogener Bebauungsplanentwurf 1-41VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-41VE - vertagt
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Regelung zur Genehmigung von Sportveranstaltungen außerhalb von Sportanlagen - vertagt
+- TOP 11.2: Besetzung des Jugendhilfeausschusses - vertagt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Zum Haushalt 2010/2011 - vertagt
+- TOP 12.2: Die Türkische Bibliothek - vertagt
+- TOP 12.3: Interkulturelle Öffnung der Regelversorgung - vertagt
+- TOP 12.4: Theodor-Heuss-Gymnasium erhalten - vertagt
+- TOP 12.5: Schulstandorte Bezirk Mitte - überwiesen
+- TOP 12.6: Verkehrssicherheit an der Reinickendorfer Straße - vertagt
+- TOP 12.7: Lasst die Wärmepilze frei - vertagt
+- TOP 12.8: Zwischen Alexanderplatz und Humboldtforum: Berliner Bürgerforum behutsam im Dialog qualifizieren - überwiesen
+- TOP 12.9: Moderne Schulen in Mitte - überwiesen
+- TOP 12.10: Regelmäßige Kundenzufriedenheits-Befragung im JobCenter - vertagt
+- TOP 12.11: Verbraucherschutz beim Einkauf in Mitte gewährleisten - vertagt
+- TOP 12.12: Klassenfrequenzen senken! - vertagt
+- TOP 12.13: Bürgerbeteiligung in den städtebaulichen Untersuchungsgebieten von Mitte umgehend sicherstellen - vertagt
+- TOP 12.14: Umsetzung des § 20 SGB V durch die Krankenkassen in Mitte - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Sanierungsmittel in Diskussion zum Haushaltsplan 2010/2011 einbeziehen - vertagt
+- TOP 14.2: Neue Wege für die Leipziger Straße - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Wohnungspool Angemessener Wohnraum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Starker Geist; schwache Augen! - vertagt
+- TOP 15.3: ExRotaprint am Standort erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Weiterentwicklung des B-Plans 1-43 VE (Schultheiß-Gelände) - vertagt
+- TOP 15.5: Bürokratieabbau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Gesellschaftliche Teilhabe von hörbehinderten Menschen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Verbindliche verwaltungsinterne Richtlinien zur Genehmigungspraxis von Baugesuchen für die B-Pläne: I-B5e, I-B5b, I-B5a, I-B5t und I-B5m - vertagt
+- TOP 15.8: Fortgang des Hilfs-Projektes in Sri Lanka - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Protokolle über Partnerschaftsreisen - vertagt
+- TOP 15.10: Weihnachtsmärkte in Mitte erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Brüsseler Kiez als neues Sanierungsgebiet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Schultheiss-Areal Turm-/Strom-/Perleberger Straße hier: Bebauungsplan 1-43VE umgehend weiterbearbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Baugemeinschaften in Mitte - vertagt
+- TOP 15.14: Sozialräumlicher Einsatz von Instrumenten der Arbeitsmarktpolitik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Eigentümer-Nutzer-Modell im Bezirk realisieren und in der KLR abbilden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.16: Ausstellung "Spandauer Vorstadt 1993 - 2008" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Baugruppe Dortmunder Straße 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Denkmal für Georg Elser - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Frühzeitige Unterstützung der Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Sanierunsgebiete im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Bezirkliche städtebauliche Stellungnahmen für Liegenschaftsfonds Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Denkmalsubstanz Warenhaus Jandorf erhalten! - vertagt
+- TOP 15.22: Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Untersuchungs- und Sanierungsgebiete im Bezirk Mitte sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Optimierung von Verwaltungsabläufen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Wiederaufbau der Waisenbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Durchfahrverbot für LKW - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.26: Stadtverträgliche Bebauung sichern: Berliner Bauordnung ändern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.27: Haltestellenleitsystem der Stadtrundfahrtunternehmen in Berlin Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.28: Buslinie 327 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.29: Mit den Anwohnerinnen und Anwohnern die Lehrter Straße gestalten: Wohnquartier stärken und sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.30: Vermarktung von Großflächenwerbung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.31: Mehr Verkehrssicherheit am Monbijouplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.32: U-Bahnlinie 5 in die Turmstrasse - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.33: Beschluss zur Aufstellung des Bebauungsplans III-61-2 im Bezirk Mitte, Ortsteil Wedding, die Durchführung des Verfahrens als beschleunigtes Verfahren gemäß § 13a Baugesetzbuch, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.34: Fortführung des Bebauungsplanverfahren I-43 für das Gelände zwischen Voltairestraße, Alexanderstraße, Stralauer Straße und Dircksenstraße im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.35: Antrag auf Einleitung eines Planfeststellungsverfahrens für das Straßenbauprojekt im Block 902 - Neubau einer Straße II. Ordnung (Ellen-Epstein-Straße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.36: Beschluss über die Änderung der Planungsziele für die Landschaftspläne Panke III-L-2, III-L-3, III-L-4 und ihrer Fortführung als BFF-Landschaftspläne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.37: Masterplan Heidestraße - Beschluss über Leitlinien und Entwicklungsziele für die Entwicklung des Standortes beiderseits der Heidestraße - vertagt
