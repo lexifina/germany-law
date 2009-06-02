@@ -1,0 +1,7 @@
+# TOP 2: Protokolle der 25. und 27. Sitzung
+
+- Sitzung: 28. öffentliche Sitzung des Ausschusses für Bildung, Schule und Kultur (2009-06-02)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=7051
+- Ergebnis: erledigt
