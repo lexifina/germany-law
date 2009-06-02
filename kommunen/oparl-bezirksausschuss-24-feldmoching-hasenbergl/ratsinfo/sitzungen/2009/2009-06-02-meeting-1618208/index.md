@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-06-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618208
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618208
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Heimatverein Edelweiß Feldmoching e.V.; 125jähriges Gründungsjubiläum am 19.07.2009
+- TOP 3.1.: Lärm- und Geruchsbelästigungen durch Veranstaltungen auf der Festwiese Dülferanger und der Lackiererei in der Dülferstraße (Anwohner der Dülferstraße / Stabelerstraße)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Anträge aus der Kinder- und Jugendsprechstunde
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); NBS/ABS Nürnberg - Ingolstadt - München, Ausbaumaßnahmen im Bereich der Landeshauptstadt München, Planungsabschnitt 82 M der ABS Ingolstadt - München, Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen AZ 614-I-93
+- TOP 5.2.: Stadtsanierung in München "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt"; Sanierungsgebiete in den Stadtteilen Hasenbergl und Milbertshofen a) Aufhebung der Sanierungssatzung Hasenbergl b) Aufhebung der Sanierungssatzung Milbertshofen c) Sanierungsgebiet Petuelring - Sachstandsbericht d) Automatische Anpassung des Treuhändervertrages über die Durchführung städtebaulicher Sanierungsmaßnahmen im Stadtteil Milbertshofen e) Abschluss der Sanierung im Hasenbergl und in Milbertshofen - Resümee Einbindung der Bezirksausschüsse
+- TOP 5.3.: Gemeinde Oberschleißheim Bebauungsplan Nr. 66 Sportgelände an der Ingolstädter Straße Flächennutzungsplan - Änderung Nr. 20 Sondergebiet Sport (Parallelverfahren)
+- TOP 5.4.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Karlsfelder Straße b) Bauvorhaben Reigersbachstr. 14 - 16
+- TOP 5.5.: Vollzug der Baumschutzverordnung, Bauvorhaben: Diamantstr. 9 - 11
+- TOP 5.6.: Vollzug der Baumschutzverordnung: a) Herbergstr. 61 b) Am Blütenanger 7 c) Am Blütenanger 12 d) Am Blütenanger 13 e) Am Blütenanger 54e f) Diamantstr. 1 - 23 u. a.
+- TOP 5.7.: Schaffung einer Kurzparkzone für den Kindergarten an der Lerchenauer Straße 197 (BA-Antrags-Nr. 08-14 / B 00835 vom 03.02.2009) a) Schreiben des Kreisverwaltungsreferates vom 24.04.2009 b) E-Mail des Kreisverwaltungsreferates vom 19.05.2009
+- TOP 5.8.: Tausch einer städtischen Immobilie: Berberitzenstraße (Grundstück ohne Bebauung)
+- TOP 5.9.: Veranstaltung auf einer städtischen Grünanlage: Sommerfest auf dem Dülferanger vom 12.06. - 21.06.2009
+- TOP 5.10.: Veranstaltung auf einer städtischen Grünanlage: Openair-Veranstaltung auf dem Goldschmiedplatz am 10.07.2009
+- TOP 5.11.: Veranstaltung auf enier städtischen Grünanlage: Spielaktionen - an der Reinachstraße vom 03.08.-07.08.2009 - am Skabiosenplatz vom 10.08.-14.08.2009
+- TOP 5.12.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO: Straßenfest Lassallestr. nördlich Kreuzung Max-Wönner-Str. am 11.07.2009
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Verkehrsentwicklung im Münchner Norden (BA-Antrags-Nr. 08-14 / B 00833 vom 03.02.2009)
+- TOP 6.2.: Chancengleichheit bei der Aufnahme an Gymnasien für Kinder aus dem 24. Stadtbezirk - Feldmoching-Hasenbergl (BA-Antrags-Nr. 08-14 / B 01010 vom 31.03.2009)
+- TOP 6.3.: Rillierte Sicherheitsstreifen für Blinde am Bahnsteig der S-Bahn-Station München-Fasanerie (BA-Antrag vom 31.03.2009)
+- TOP 6.4.: Verbesserung der Schienenanbindung des Flughafens München a) Sach- und Planungsstand, weiteres Vorgehen - MünchenAirportExpress (MExpress) - Gutachten zur Flughafenanbindung München - Flughafen-Express-Light (FEL) auf der Trasse der S1 - Erdinger Ringschluss b) Anträge (Anträge des Bezirksausschusses des Stadtbezirkes 24: - BA-Antrags-Nr. 08-14 / B 00831 vom 03.02.2009 - BA-Antrags-Nr. 08-14 / B 01028 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01029 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01033 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01035 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01054 vom 31.03.2009)
+- TOP 6.5.: Sportanlage Lerchenauer Str. 270
+- TOP 6.6.: Erstmalige Herstellung der Berthold-Litzmann-Straße incl. Oberflächenentwässerung
+- TOP 6.7.: Grillplatzsituation auf dem Goldschmiedplatz (Schreiben der Familien Gehrlein, Oswald und Woller)
+- TOP 6.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.9.: Gewerbeentwicklung Schleißheimer Straße 395; Vergabe einer städtischen Gewerbefläche
+- TOP 6.10.: Errichtung einer zusätzlichen Haltestelle für die Buslinie 175 (BA-Antrags-Nr. 08-14 / B 01117 des Bezirksausschusses des Stadtbezirkes 10 - Moosach)
+- TOP 6.11.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 6.12.: Projektname: Kerbelweg (B-Plan 1503b) 1. Bauabschnitt
+- TOP 6.13.: Vollzug des Bayerischen Straßen- und Wegegesetzes Kunst im öffentlichen Raum Projekt "Nur Gutes" (Stadt-Gorilla auf Gehwegen)
+- TOP 6.14.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013
+- TOP 6.15.: Zukunft des Ausländerbeirates
+- TOP 6.16.: Neu erschienen: "Angebote für Kinder und Jugendliche im KJR München-Stadt" und Geschäftsbericht 2008
+- TOP 6.17.: Baumaßnahmen der SWM Wasserprojekt Heppstraße
+- TOP 6.18.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.19.: Meldelisten Bauvorhaben
+- TOP 6.20.: Meldelisten Baumfällungsanträge
+- TOP 6.21.: Kurze Info-Broschüre zur Verpackungsverordnung
+- TOP 6.22.: Ermittlung der tatsächlichen Lärmbelastung durch das Gütergleis in der Lerchenau sowie Maßnahmen zur Verringerung des Lärms (BV-E Nr. 08-14 / E 00055 der Bürgerversammlung des Stadtbezirkes 24 am 24.06.2008)
+- TOP 6.23.: Änderungen der BA-Satzung und des BA-Kataloges: - redaktionelle Änderungen - § 25 BA-Satzung - Ziffern 14, 14.1 und 24 BA-Katalog (Baureferat) und Ziffer 20 BA-Katalog (Kreisverwaltungsreferat)
+- TOP 6.24.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Zusammenfassende Änderungssatzung
+- TOP 6.25.: Budget der Bezirksausschüsse
+- TOP 6.26.: Grundschul- und Kindertagesstättenanlage Lerchenauer Straße 322 im 24. Stadtbezirk Feldmoching-Hasenbergl a) Brandschutzmaßnahmen b) Einrichtung einer zusätzlichen Hortgruppe c) Sporthallensanierung d) Errichtung einer Hausmeisterwohnung e) Außendämmung des Kindergartens
+- TOP 6.27.: Städtische Bauprojekte und Vereinsbauprojekte Bekanntgabe der Prioritätenlisten (Stand: März 2009)
+- TOP 6.28.: Karlsfelder Straße zwischen Schwabenbächl und Achatstraße im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 6.29.: Radverkehr in München Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 6.30.: Bebauungsplan mit Grünordnung Nr. 1939 b Schleißheimer Straße (westlich), Olschewskibogen (süd-östlich) - Satzungsbeschluss -
+- TOP 6.31.: Bericht über die regionale Zusammenarbeit (Regionsbericht 2008/2009)
+- TOP 6.32.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009 - 2013
+- TOP 6.33.: Projektfortschrittsbericht 2008 zum Projekt "Parkraummanagement in München - Beschleunigung der Umsetzung"
+- TOP 6.34.: Feldmochinger Straße (Bahnübergang Fasanerie) und Einmündung Himmelschlüsselstr. (Information des Baureferates)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
