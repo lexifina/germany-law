@@ -1,0 +1,65 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-06-04T16:00:00+02:00
+- Ende: 2009-06-04T19:59:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2469
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2469
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126125.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126125.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126125.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 23.04.2009 - einstimmig beschlossen
+- TOP 3: Ausbau L 404 / A46 - zur Kenntnis genommen
+- TOP 4: Maßnahmenprogramm Attraktivierung Bahnüberführungen - zur Kenntnis genommen
+- TOP 5: Parkplatzneubau an der Festenbergstraße - einstimmig beschlossen
+- TOP 6: Umgestaltung der Einmündung Vennhauser Allee / Eller Kamp - mehrheitlich beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 im Jahre 2009 - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Stand der Schulbau- und Sportstättensanierung - beantwortet
+- TOP 10: Ausstattung der S-Bahnhöfe in Eller - beantwortet
+- TOP 11: Seniorenwohnungen Am Stufstock - beantwortet
+- TOP 12: Rhein-Ruhr-Express - beantwortet
+- TOP 13: Unterbacher See - beantwortet
+- TOP 14: Grünschnitt Carl-Sonnenschein-Schule - beantwortet
+- TOP 15: Fuß- / Radweg Am Hackenbruch - beantwortet
+- TOP 16: Radweg Werstener Feld - beantwortet
+- TOP 17: Gleisbegrünung im Stadtbezirk 8 - beantwortet
+- TOP 18: Konjunkturpaket 2 im Stadtbezirk 8 - beantwortet
+- TOP 19: Turnhalle GHS Bernburger Straße - beantwortet
+- TOP 20: Betonkübel im Bereich Gertrudisplatz 21 - einstimmig beschlossen
+- TOP 21: Bürgersteig im Bereich Gertrudisplatz 16-18 - einstimmig beschlossen
+- TOP 22: Kinderarmut im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 23: Beitritt Düsseldorfs zur Gemeinschaft atomwaffenfreier Städte - zurückgezogen
+- TOP 24: Abfallbehälter Bürgerpark Am Stufstock - einstimmig beschlossen
+- TOP 25: Fußgängerüberweg Königsberger Straße - einstimmig beschlossen
+- TOP 26: Doggy Bags im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 27: Illumination in Unterbach - mehrheitlich beschlossen
+- TOP 28: Haltverbot Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 29: KSP Coburger Weg - einstimmig beschlossen
+- TOP 30: Parkscheibenregelung Vennhauser Allee 196-204 - einstimmig beschlossen
+- TOP 31: Naherholungsgebiet Elbsee - einstimmig beschlossen
+- TOP 32: Soziale Stadt und Quartierspaten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Nutzung von leerstehenden Grundstücken in Lierenfeld - zur Kenntnis genommen
+- TOP 34: Am Stufstock - zur Kenntnis genommen
+- TOP 35: Fuß- / Radweg Karlsruher Straße - zur Kenntnis genommen
+- TOP 36: Buslinie 735 - zur Kenntnis genommen
+- TOP 37: Fußgänger - LZA Heidelberger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 38: Ampelschaltung Bernburger Straße / Karlsruher Straße - zur Kenntnis genommen
+- TOP 39: Sanierungsmaßmahmen GHS Bernburger Straße - zur Kenntnis genommen
+- TOP 40: Straßendecken Karlsruher Straße, Vennhauser Allee und Neusalzer Weg - zur Kenntnis genommen
+- TOP 41: Internetzugang im Rathaus Eller - zur Kenntnis genommen
+- TOP 42: Veenpark - Öffentliche Grünflächen im B-Plan-Gebiet 6075/035 In den Kötten - zur Kenntnis genommen
+- TOP 43: Toilettenanlage Wasserspielplatz Schlosspark Eller - zur Kenntnis genommen
+- TOP 44: Schulbau- und Sportstättensanierung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Renaturierung ehem. Sportanlage Tannenhofweg - zur Kenntnis genommen
+- TOP 46: Stadtbahnhaltestelle Betriebshof Lierenfeld - zur Kenntnis genommen
+- TOP 47: Parkplatzsituation Sporthalle und Sportplatz Heidelberger Straße - zur Kenntnis genommen
+- TOP 48: Fußgängerbrücke Josef-Wilbert-Straße / Minigolfplatz - zur Kenntnis genommen
