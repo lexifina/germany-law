@@ -1,0 +1,6 @@
+# TOP 5: Betrieb des Kulturzentrums Cobra - Information der Verwaltung über den aktuellen Sachstand (mündlicher Vortrag)
+
+- Sitzung: Rechnungsprüfungsausschuss (2009-06-08)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/16988
