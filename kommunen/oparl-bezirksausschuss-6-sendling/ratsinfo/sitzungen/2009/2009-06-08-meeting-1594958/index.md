@@ -1,0 +1,66 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-06-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1594958
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1594958
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Besichtigungstermin der Unterkunft Implerstraße 51a am 30.06.2009
+- TOP 4: Schulreferat
+- TOP 5.1.: Freischankfläche Thalkirchner Str. 114
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5.3.: Freischankfläche Alramstraße 19
+- TOP 5.4.: Freischankfläche Implerstraße 49
+- TOP 5.5.: Freischankfläche Gotzingerstraße 52
+- TOP 6.1.: Haltverbot Spitzwegstr. / Lipowskystr.
+- TOP 6.2.: Veranstaltung "München radelt fürs Klima" am 19.07.2009
+- TOP 6.3.: Straßenfest in der Valleystr. am 04.07.2009
+- TOP 6.4.: Konzert am Sendlinger Kirchplatz am 27.06.2009
+- TOP 6.5.: Meldeliste Bauvorhaben SWM
+- TOP 7.1.: Budgetantrag Kozminski Filmproduktion; Unsere Stadt - Unsere Straßen
+- TOP 7.2.: Budgetantrag des Elternbeirates der Pfeuferschule, Trikots für Tagesheimcup; ? 225,-
+- TOP 7.3.: Budgetantrag Teestube "komm"-Streetwork, Hinterhoffest am 14.08.09; ? 340,-
+- TOP 7.4.: Budgetantrag Initiative "Kunst in Sendling", Offene Ateliers Sendling ab Oktober 2009; ? 8160,46
+- TOP 7.5.: Informationsveranstaltung "Budget der Bezirksausschüsse" am 13.07.2009
+- TOP 7.6.: Fest junger Erwachsener am 17.10.2009
+- TOP 7.7.: Budgetantrag St. Korbinian, Sendlinger Chornacht am 10.07.09
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstr. 21
+- TOP 8.3.: Bauvorhaben Reutberger Str. 6
+- TOP 8.4.: Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 8.5.: Parkraummanagement in München
+- TOP 8.6.: Bericht über die regionale Zusmmenarbeit
+- TOP 8.7.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen
+- TOP 8.8.: München lernt aus planerischen Fehlern; Was wird in Freiham Nord besser und warum?
+- TOP 9: Baureferat
+- TOP 9.1.: Einrichtung von Hundepollern an der Grünanlage der Bezirkssportanlage an der Dietramszeller Straße - <div>Zustimmend zur Kenntnis genommen</div>
+- TOP 9.2.: Projektauftrag Umgestaltung Am Harras
+- TOP 9.3.: Straßensanierungsmaßnahme in der Fallstraße 8-42 zwischen Leipart- und Fallstr. 42
+- TOP 9.4.: Kulturstrand in München
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Meindlstr. 14
+- TOP 10.2.: Baumfällung Kidlerplatz 5
+- TOP 10.3.: Karwendelstr. 11 - 17a; Stellungnahme zu den genehmigten Baumfällungen
+- TOP 10.4.: Baumpatenschaft für die Neupflanzung auf der Stemmerwiese
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Verbesserung der Tempo-30-Zone an der Grundschule an der Pfeuferstraße
+- TOP 13: Verschiedenes
+- TOP 13.1.: Benennung der Grünfläche an der Einmündung der Dietramszeller Straße in die Bruderhofstraße, Ecke Schäftlarnstraße nach Sigi Sommer
+- TOP 13.2.: Errichtung von Abfalleimern im Umfeld des Schinderstadls
+- TOP 13.3.: Mehrjahresinvestitionsprogramm 2009 - 2013
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
