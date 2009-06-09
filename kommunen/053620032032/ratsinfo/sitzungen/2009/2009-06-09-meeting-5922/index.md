@@ -1,0 +1,56 @@
+# Ausschuss für Stadtplanung und Verkehr (34. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-06-09T17:00:00+02:00
+- Ende: 2009-06-09T22:13:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQTRAKWrkqsNTWlossOSnY8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/5922
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZaxhNac4yoiIqnqJP0VoyzczGfDiJ768hi4VUMgbDtR5/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_09.06.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 30.03.2009
+- TOP 2.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 2.1: Anregung und Beschwerde gem. § 24 GO NRW hier: Herstellung eines Rad- und Fußweges an der Eifelstraße
+- TOP 2.2: Anregung und Beschwerde gemäß § 24 GO NRW hier: Baumaßnahmen im Zuge der Verlegung der Hambachbahn
+- TOP 2.3: ÖPNV
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Niederschriften der 21. 22. und 23. Sitzung des Bürgerbeirates Manheim
+- TOP 3.2: Vorstellung der Ergebnisse des Gutachterverfahrens Manheim-Neu
+- TOP 3.3: Bericht der Verwaltung
+- TOP 3.4: Verbringung des Straßenaushubs beim Neubau der A4
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Historische Lehrpfade - ergänzende Hinweise an Straßenbenennungsschildern
+- TOP 4.2: Fortschreibung des Konzeptes zur Wohnbaulandentwicklung im Stadtteil Sindorf hier: Bereich Kuhweg
+- TOP 4.3: Nahversorgung mit alternativen Lebensmittelmärkten
+- TOP 4.4: Lärmschutz an der A4 / A61
+- TOP 4.5: Hundespielwiesen
+- TOP 5.: Bauleitplanung
+- TOP 5.1: Bebauungsplan SI 257 "Bolzplatz Vogelrutherfeld", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.2: Bebauungsplan TÜ 335 "Kindertagesstätte Platanenallee", Stadtteil Türnich Aufstellungsbeschluss gem. § 2 (1) BauGB und Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.3: Bebauungsplan TÜ 246/4. Änderung "Gewerbegebiet-Industriegebiet Ville", Stadtteil Türnich hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.4: Bebauungsplan KE Nr. 178 "Stiftsstraße/Brüsseler Straße" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 5.5: Ausbau der Hahnenstraße
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Niederschrift der 5. Sitzung der Kinderunfallkommission vom 03.03.2009
+- TOP 6.2: Verbringung des Straßenaushubs beim Neubau der A4
+- TOP 6.3: Baumaßnahme verkehrliche Anbindung Lammertsheck hier: Vollsperrung der Heppendorfer Straße
+- TOP 7.: Städtebauliche Verträge
+- TOP 7.1: TÜ 246 4. Änderung "Gewerbe- und Industriegebiet Ville", Abschluss des 3. Änderungsvertrages zum Erschließungsvertrag vom 16.12.1998
+- TOP 8.: Mitteilungen
+- TOP 8.1: Klage gegen die Verlegung der A4 vor dem Bundesverwaltungsgericht
+- TOP 8.2: Bekanntgabe und Bewertung der Lärmmessergebnisse in Buir und Sindorf
+- TOP 9.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 9.1: Landeszuschüsse für Stadtentwicklung
+- TOP 9.2: Nutzung des alten Schulgeländes in Buir
+- TOP 9.3: Biogasanlage im Industriegebiet Dickenbuschfeld-West in Kerpen-Sindorf
+- TOP 10.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Untersuchungen zu einem neuen S-Bahn-Haltepunkt Sindorf-Geilrath
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
