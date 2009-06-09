@@ -1,0 +1,6 @@
+# TOP 10: Berichte aus den Arbeitsgruppen
+
+- Sitzung: Sitzung (2009-06-09)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/89560
