@@ -1,0 +1,116 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2009-06-10T17:10:00+02:00
+- Ende: 2009-06-10T21:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2037
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2037
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=43003
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Solidaritäts-Bekundung - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Serenade am See 2009 (Große Anfrage 22.04.2009) - beantwortet
+- TOP 5.2: Bekämpfung der Schwarzarbeit im Berliner Gaststätten- und Restaurantgewerbe (Beschlussempfehlung 22.04.2009) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.4: Änderung der Verteilung der Geschäftsbereiche der Bezirksamtsmitglieder (Vorlage zur Kenntnisnahme 13.05.2009) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Protest gegen den Senat: Brandbrief zum jahrgangsübergreifenden Lernen in Reinickendorf (Große Anfrage 13.05.2009) - beantwortet
+- TOP 5.6: Sozialstrukturatlas - Reinickendorf im Mittelmaß (Große Anfrage 13.05.2009) - überwiesen
+- TOP 5.7: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik (Beschlussempfehlung 13.05.2009) - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: U-18-Wahlen (Ersuchen 13.05.2009) - ohne Änderungen in der BVV beschlossen
+- TOP 5.9: Elternwillen berücksichtigen (Empfehlung 13.05.2009) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Auflistung der Liegenschaften des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Raumvergabe an extremistische Parteien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Erste-Hilfe-Defibrillatoren in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Betrieb der Reinickendorfer Strandbäder langfristig sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Kinder in Angst brauchen Schutz - Projekt Notinsel in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Hausordnungen an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Generelles Alkoholverbot an Schulen - vertagt
+- TOP 7.9: Ausschreibungsgestaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Aktion "Kinder lernen helfen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Bessere Terminierung von Gedenkveranstaltungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Konsequenzen aus Verschmelzung der Justizvollzugsanstalten Heiligensee und Hakenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Ausstellung "Weiße Stadt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Mehr Qualität für die Dorfaue in Alt-Hermsdorf I - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Sämtliche Veranstaltungen auf der Bezirkshomepage - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Bürgerfreundliche Vordrucke für Fensterbriefumschläge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Denkmal Wiltinger Straße in Frohnau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Wahltermin "Religion Wahlfreiheit" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Wickeltische im Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Tagesinformationsbörse beim JobCenter - überwiesen
+- TOP 7.21: Jahresbericht des Patientenfürsprechers des Vivantes Humboldt-Klinikums für das Jahr 2008 - überwiesen
+- TOP 7.22: Auswertung der Behördenbeteiligung nach § 4 Abs. 2 BauGB für den Bebauungsplan 12-18B-1 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Alkoholprävention an Reinickendorfer Schulen - vertagt
+- TOP 8.2: Alkoholprävention an Reinickendorfer Schulen II - vertagt
+- TOP 8.3: Sprachförderung an Reinickendorfer Kindertagesstätten - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Reinickendorfer Seniorenvertretung stärken - vertagt
+- TOP 10.2: Radweg Ruppiner Chaussee - vertagt
+- TOP 10.3: Mehr Verkehrssicherheit am Ludolfinger Platz in Frohnau - erledigt
+- TOP 10.4: Sichere Fußgängerführung am Zeltinger Platz in Frohnau - vertagt
+- TOP 10.5: Straßenquerungen Barnimer Dörferweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Kontakte zwischen Grundschulen und Kitas - vertagt
+- TOP 10.7: Mehr Sicherheit in der Frohnauer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Konzepte von Jugendfreizeiteinrichtungen - erledigt
+- TOP 10.9: Schulreinigung - erledigt
+- TOP 10.10: Zunehmender Verkehrsstau auf der Strecke B 96 zwischen Burgfrauenstraße und Wilhelmsruher Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: A. Entwurf des Bebauungsplanes XX-240b-1 vom 09. August 2007 für das Grundstück Sagemühler Steig 19/Freester Weg im Bezirk Reinickendorf, Ortsteil Heiligensee B. Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-240b-1. - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Personaleinsatzkonzept für Volksbegehren/Volksentscheide - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: 05.10.2009 - Tag der Epilepsie 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Starttermin Quartiersmanagement Letteplatz nicht weiter verzögern - erledigt
+- TOP 10.15: Reformpause statt Reformchaos an den Berliner Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Fahrplanänderung der Ringlinie 326 zugunsten verbesserter Anschlüsse - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Entsorgung von quecksilberhaltigen Leuchtmitteln - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Illegale Müllabladung im Bereich des Endes der Gollanczstraße - in der BVV abgelehnt
+- TOP 10.19: Verbesserung der Verkehrssituation vor der Grundschule am Schäfersee - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Ausschöpfung der Konjunkturprogramme - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Fußgängerquerung Bernauer Straße - Grüner Hauptweg - in der BVV abgelehnt
+- TOP 10.22: Wegführung "Barnimer Dörferweg" - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Von anderen CDU-geführten Bezirken lernen - vertagt
+- TOP 10.24: K2: Lärmschutz Berliner Straße - in der BVV abgelehnt
+- TOP 10.25: Sicherheitsgefühl in Tegel auf dem U-Bahnhof verbessern - vertagt
+- TOP 10.26: Sicherheitsgefühl in Tegel durch bessere Beleuchtung verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Sinnvolle Beschilderung im Bereich der Wohnanlage für Behinderte Zeltinger Straße / Markgrafenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Parken im Sigismundkorso einschränken - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Kontakte zwischen Grundschulen und Kitas - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: Reservetermine für BVV-Sitzungen im Jahr 2009 - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Jahrgangsübergreifendes Lernen an Grundschulen nicht erzwingen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Fremdsprachige Grundschulausbildung - überwiesen
+- TOP 12.2: Beratungsangebote im Bereich der Alkohol- und Drogensuchtprävention intensiver verbreiten - vertagt
+- TOP 12.3: Straßenbahn in das Märkische Viertel - vertagt
+- TOP 12.4: Nostalgischer Weihnachtsmarkt in Reinickendorf 2009 - überwiesen
+- TOP 12.5: Ertüchtigen der Freiwilligen Feuerwehren in Reinickendorf - überwiesen
+- TOP 12.6: Verstärkte Kontrolle von Spielplätzen durch den Ordnungsdienst - überwiesen
+- TOP 12.7: Naturpark Schönholz - vertagt
+- TOP 12.8: Serenade im Bezirk Reinickendorf - überwiesen
+- TOP 12.9: Feuerlöschboot in Reinickendorfer Gewässern - überwiesen
+- TOP 12.10: Sozialverträgliche Gestaltung der Mieten - vertagt
+- TOP 12.11: Schuleinzugsbereiche - überwiesen
+- TOP 12.12: Schulreifeuntersuchung durch niedergelassene Kinderärzte - überwiesen
+- TOP 12.13: Keine Regenbogenfahne vor dem Rathaus - vertagt
+- TOP 12.14: Essensversorgung an Schulen - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Nachtabschaltung Ampelanlage Am Nordgraben / Rathauspromenade - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Bericht über Sanierung im MV - überwiesen
+- TOP 13.3: Busverbindung Lübars - Blankenfelde - überwiesen
+- TOP 13.4: Ausstellung "Vier Säulen gegen Kinderunfälle" - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Fahrtrichtungsanzeiger auf dem S-Bahnhof Karl-Bonhoeffer-Nervenklinik - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Unentgeltliche Ausbildungen in den Berliner Bäder-Betrieben ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Schulwegsicherung für die künftige 12. Grundschule in Berlin-Heiligensee - vertagt
+- TOP 13.8: Beschleunigung der Gerichtsverfahren auch in Reinickendorf - vertagt
