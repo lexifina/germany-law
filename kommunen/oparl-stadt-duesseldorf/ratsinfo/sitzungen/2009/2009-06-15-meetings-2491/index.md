@@ -1,0 +1,58 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-06-15T15:00:00+02:00
+- Ende: 2009-06-15T00:00:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2491
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2491
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126115.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126115.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126115.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Kämmererliste - einstimmig beschlossen
+- TOP 4: Kämmererliste - einstimmig beschlossen
+- TOP 5: Controllingbericht - zur Kenntnis genommen
+- TOP 6: Betrauungsakt i.R. ÖPNV-Finanzierung VRR - passieren lassen
+- TOP 7: Maßnahmenprogramm Klimaschutz - Energetische Sanierung städtischer Wohnungen - einstimmig beschlossen
+- TOP 8: Verlagerung der Abendrealschule - Hermann-Harry-Schmitz-Weiterbildungskolleg- Rückertstraße und Bau einer Anwohnerquartiersgarage an der Franklinstraße 41-43 - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 9: Parkplatzneubau an der Festenbergstraße - passieren lassen
+- TOP 10: Sanierung des Gewässerdurchlasses der Inneren Südlichen Düssel im Bereich der Haroldstraße - einstimmig beschlossen
+- TOP 11: Franklinstr. 41-43, Teilsanierung der VHS - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 12: Ottweiler Str. 20, Sanierung und Erweiterung des Schulgebäudes - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 13: Bauausführungs- und Finanzierungsbeschluss, Grünzug Kaiserswerth -südl. Abschnitt- - zurückgezogen
+- TOP 14: Umbau der Werdener Straße (1. Ausbaustufe) - mehrheitlich beschlossen
+- TOP 15: Umrüstung von Gasbeleuchtung auf LED in Lohausen/ BuF - einstimmig beschlossen
+- TOP 16: Austausch von 9 Lichtzeichenanlagen im Zuge der Kölner Landstraße inkl. LED-Ausstattung - passieren lassen
+- TOP 17: 1. Änderung des Landschaftsplanes - einstimmig beschlossen
+- TOP 18: Sicherung der Erschließung - mehrheitlich beschlossen
+- TOP 19: Änderung Taxentarifordnung - einstimmig beschlossen
+- TOP 20: Teilweise Umbenennung der Flughafenstraße - einstimmig beschlossen
+- TOP 21: Umbenennung der LTU-arena-Straße - einstimmig beschlossen
+- TOP 22: Gutachtergremium für Entschädigungen beim U-Bahn-Bau - einstimmig beschlossen
+- TOP 23: Bestellung von stellvertretenden Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 24: Bestellung des Vorsitzenden des Gutachterausschusses - einstimmig beschlossen
+- TOP 25: Neubildung Einigungsstelle gem. § 67 LPVG - einstimmig beschlossen
+- TOP 26: Änderung GO Jugendrat - passieren lassen
+- TOP 27: Genehmigung einer Dienstreise - einstimmig beschlossen
+- TOP 28: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 29: Richtlinien zum Erwerb von Belegungs- und Mietbindungen - einstimmig beschlossen
+- TOP 30: Modestandort: Unterstützung des Vereins Fashion Net Düsseldorf - passieren lassen
+- TOP 31: Mitgliedschaft der Stadt Düsseldorf im Verein Anna Maria Luisa de' Medici - einstimmig beschlossen
+- TOP 32: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur 2009 - einstimmig beschlossen
+- TOP 33: Verleihung des Förderpreises für Wissenschaften 2009 - einstimmig beschlossen
+- TOP 34: Kunstpreis der Landeshauptstadt Düsseldorf/ Helmut Käutner-Preis; Änderung der Richtlinien und Wiederwahl der Jury - einstimmig beschlossen
+- TOP 35: Partnerschaft Welthungerhilfe - einstimmig beschlossen
+- TOP 36: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 37: Bebauungsplan Nr. 55778/041 - einstimmig beschlossen
+- TOP 38: BPl5670/019-Am Scheitenwege-Stell.Änd.Satz. - einstimmig beschlossen
+- TOP 39: FNP-Ä Nr. 152 - Südwestlich Moltkestraße - einstimmig beschlossen
+- TOP 40: NKF-Eröffnungsbilanz
+- TOP 41: Umwandlung von drei Gymnasien in gebundene Ganztagsschulen
