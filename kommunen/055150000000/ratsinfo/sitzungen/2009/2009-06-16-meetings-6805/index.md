@@ -1,0 +1,58 @@
+# 49. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-06-16T17:05:00+02:00
+- Ende: 2009-06-16T19:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6805
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6805
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00281288.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Bestellung einer stellvertretenden Schriftführerin für die Bezirksvertretung Münster-Mitte - einstimmig beschlossen
+- TOP 4.2: Gewährung von Zuschüssen im Stadtbezirk Mitte 2009 - einstimmig beschlossen
+- TOP 4.3: Unterhaltung der Unterflurcontainer am Standort Königsstraße - einstimmig beschlossen
+- TOP 4.4: Sanierung Bodelschwinghschule / PTA-Lehranstalt - einstimmig beschlossen
+- TOP 4.5: Ausbau der Straßen Rothenburg, der südl. Königsstraße, Ludgeristraße inkl. Marienplatz - mehrheitlich geändert beschlossen
+- TOP 4.6: Sichere Radverkehrsführung auf der Albrecht-Thaer-Str. durch die Anlage von Schutzstreifen - einstimmig geändert beschlossen
+- TOP 4.7: Neubau der Schulstraße zwischen der ehem. Eichendorffschule und Altumstraße - einstimmig beschlossen
+- TOP 4.8: Park Sentmaring - einstimmig beschlossen
+- TOP 4.9: Spielplatzsanierungen im Jahr 2009 - weiteres Vorgehen
+- TOP 4.9.1: Spielplatz Wilmergasse - einstimmig geändert beschlossen
+- TOP 4.10: Anregung gem. § 24 GO NRW Nr. 58/2009 "Stromanschlüsse am "kleinen Markt" an der Warendorfer Straße
+- TOP 5: Anhörungen
+- TOP 5.1: Bebauungsplan Nr. 529 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 5.2: Finanzierung Lichtkonzept Bahnhofstraße der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - einstimmig beschlossen
+- TOP 5.3: Baublock Schulstraße - einstimmig beschlossen
+- TOP 5.4: Kindertagesbetreuungsbericht 2009 - einstimmig beschlossen
+- TOP 5.5: Sportstättenbau der Mitgliedsvereine des Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 5.6: Lärmsanierung an bestehenden Schienenwegen des Bundes - Sanierungsbereich Innenstadtstrecke - - einstimmig abgelehnt
+- TOP 5.7: Stiftung Magdalenenhospital - Fortführung des Projektes "Von Mensch zu Mensch" - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Wettbewerb "Am Stadtgraben" - zur Kenntnis genommen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Fußgängerquerung Hammer Straße - eingebracht
+- TOP 7.2: Unechte Einbahnstraßen in der Marientalstraße und Jüdefelder Straße - eingebracht
+- TOP 7.3: Zufahrtsregelung Pferdegasse neu konzipieren - eingebracht
+- TOP 7.4: Verkehrssicherheit für Fußgänger und Radfahrer an der Kreuzung Weseler Straße/Bonhoefferstraße/Inselbogen - eingebracht
+- TOP 7.5: Umgestaltung des Platzes rund um die Kreuzkirche - eingebracht
+- TOP 7.6: Parksituation und Lieferverkehr in der Rothenburg - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Aktueller Stand zum Hochhaus im Zentrum Nord - zur Kenntnis genommen
+- TOP 8.2: Folgelasten beim Neubau von Spielplätzen - zur Kenntnis genommen
+- TOP 8.3: Fußballplatz am Sebastiankirchweg - zur Kenntnis genommen
+- TOP 8.4: Spielplatz Travelmannstraße - zur Kenntnis genommen
+- TOP 8.5: Ordnungsdienst der Stadt Münster - zur Kenntnis genommen
+- TOP 8.6: Mobiles WC am Lambertikirchplatz - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
