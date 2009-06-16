@@ -1,0 +1,6 @@
+# TOP 5: Genehmigung einer überplanmäßigen Ausgabe für den Neubau eines Kunstrasenplatzes mit Trainingsbeleuchtungsanlage im Hubert-Schäfer-Sportpark Weissenberg (SP 030609-07732.doc)
+
+- Sitzung: Finanzausschuss (2009-06-16)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/106308
