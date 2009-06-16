@@ -1,0 +1,66 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2009-06-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1636271
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1636271
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 27.04.09, 05.05.09 und vom 18.05.09
+- TOP 2: Anträge
+- TOP 2.1.: Konzept zur städtebaulichen Entwicklung
+- TOP 2.2.: Öffentliche Sicherheit und Ordnung in Thalkirchen
+- TOP 2.3.: Gartenzaunruine Bertelestraße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Maibaumverein Thalkirchen
+- TOP 3.2.: Miteinander leben e.V.
+- TOP 3.3.: Hänsel & Gretel KiTa GmbH
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Verein Hubertus; Vollzug des BImSchG
+- TOP 4.3.: Umbau Schießanlage Hubertus
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Ausbau von Radwegen im 19. Stadtbezirk Erhöhung der Sicherheit des Radwegs an der Herterichstraße
+- TOP 5.2.: Parksituation Wolfratshauser Straße 234
+- TOP 5.3.: Verlegung einer Bushaltestelle Drygalski-Allee 118
+- TOP 5.4.: Haltverbot Maria-Einsiedel-Straße
+- TOP 5.5.: Umleitung Kistlerhofstraße
+- TOP 5.6.: Kurzparkzonen Wolfratshauser Straße Haus-Nr. 215 - 223 und 262 - 276
+- TOP 5.7.: Parkverbotszone Spindlerplatz
+- TOP 5.8.: Verkehrsrechtliche Anordnung/ Halteverbot Festingstraße
+- TOP 5.9.: Verkehrsrechtliche Anordnung/ Zeitweilige Sperre Muttenthaler Straße
+- TOP 5.10.: Halteverbot Forstenrieder Allee/ Kriegelsteinerstraße
+- TOP 5.11.: Sollner Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Bauvorhaben Echterstraße 3
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Errichtung einer offenen Einrichtung für Kinder, Jugendliche und Familien auf einer Teilfläche des ehem . Siemensgeländes
+- TOP 7.2.: Neuer Mieterbeirat; Vorschläge für die Entsendung von Mitgliedern
+- TOP 8: Entscheidungen
+- TOP 8.1.: Neubau eines Sport- und Spielplatzes zwischen Limmatstr., Züricher Str. und Drygalski-Allee
+- TOP 8.2.: Sanierungsmaßnahme Spitzelbergstraße
+- TOP 8.3.: Sanierungsmaßnahme Kernstraße
+- TOP 8.4.: Sanierungsmaßnahme Humpelstraße
+- TOP 8.5.: Sanierungsmaßnahme Kaltschmiedstraße
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: MIP 2009 - 2013
+- TOP 9.2.: Zweckentfremdung Wolfratshauser Straße 137
+- TOP 9.3.: Zweckentfremdung Watteaustraße 7
+- TOP 9.4.: Gaststättenfortführung Boschetsrieder Str. 4
+- TOP 9.5.: Zentralländstraße 4
+- TOP 9.6.: Lärmschutz an der A 95
+- TOP 9.7.: Hertie
+- TOP 9.8.: Sommerfest Kleingartenanlage SW 58
+- TOP 9.&nbsp;: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
