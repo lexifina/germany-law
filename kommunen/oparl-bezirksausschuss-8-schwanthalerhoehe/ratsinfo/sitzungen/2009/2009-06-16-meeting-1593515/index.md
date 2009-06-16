@@ -1,0 +1,61 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593515
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593515
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Werbetafel in der Ligsalzstr. 27
+- TOP 3.2.: Parklizenzgebiet; Buseinfahrverbotsschilder; Parkverbotsschilder während der Wiesenzeit am Max- Friedländer- Bogen
+- TOP 3.3.: Parksituation in der Grasserstraße südlich der Hackerbrücke
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Einziehung einer Teilstrecke der Kazmairstraße und der Gesamtstrecke des Gießerweges; Vollzug des Bayerischen Straßen- und Wegegesetzes
+- TOP 4.2.: Widmung der Gesamtstrecke des Max- Friedländer- Bogens; Vollzug des Bayerischen Straßen- und Wegegesetzes
+- TOP 4.3.: Entscheidung über Sondernutzungserlaubnis in der Ganghoferstraße 6-10
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Bauvorfälle im 8. Stadtbezirk
+- TOP 6.1.2.: Verkauf der Immobilie Fl. Nr. 8439/2 Teilfläche und 7819 Teilfläche, Sektion V; Theresienhöhe; Anhörung des BA
+- TOP 6.1.3.: Nutzungsänderung eines Ladens in eine Kleinspielothek + PKW- Stellplatz in der Landsbergerstraße 115
+- TOP 6.1.4.: Abbau der Lichtzeichenanlage in der Bergmann-/ Gollierstraße; Anhörung des BA zu einer verkehrsrechtlichen Anordnung nach § 45 StVO
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: 18.jetzt- Fest junger Erwachsener; Einladung des Vorsitzenden; Teilnahme oder Fehlanzeige per E- Mail bis 15.07.2009
+- TOP 6.2.2.: Sortiment des Bauernmarktes am Georg- Freundorfer-Platz
+- TOP 6.2.3.: Neubesetzung des Mieterbeirates; Vorschläge des Bezirksausschusses bis spätestens 03.07.2009
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.3.1.: "München radelt fürs Klima"; Veranstaltung des RGU ausgeführt durch den ADFC am 19.07.2009; Anhörung des BA zu einer Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 StVO
+- TOP 6.3.2.: Projekt "Nur Gutes" ( Stadt- Gorilla auf Gehwegen) vom 30.05.- 06.09.2009; Kunst im öffentlichem Raum
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Informationen über derzeit anstehende und laufende Bauvorhaben der Stadtwerke München
+- TOP 6.4.2.: Standortvorschläge für Containerinseln in den Bereichen Bergmannstr./ Westendstr. und Max-Friedländer- Bogen
+- TOP 6.4.3.: Fertigstellung der Grünfläche und Querungsmöglichkeiten am Bahndeckel
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 8 für das Internationale Stadtteilfest am 04.07.2009 in Höhe von 1.320 Euro
+- TOP 6.5.2.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 8 für das OBEN OHNE Open Air am 25.07.2009 in Höhe von 3000 Euro
+- TOP 6.5.3.: Informationsveranstaltung für die Bezirksausschüsse über das Budget der Bezirksausschüsse am 13.07.2009
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009-2013; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009
+- TOP 9.2.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München; Beschluss des Stadtrates vom 20.05.2009 und Ergänzung vom 30.04.2009 zum Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, Kreisverwaltungsausschusses, Bauausschusses und Umweltausschusses vom 06.05.2009
+- TOP 9.3.: Städtische Bauprojekte und Vereinsbauprojekte; Bekanntgabe der Prioritätenlisten; Beschluss des Schul- und Sportausschusses des Stadtrates vom 29.04.2009
+- TOP 9.4.: Parkraummanagement in München; Ergänzung Ergebnisbericht Wirtschaftlichkeitsuntersuchung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 06.05.2009;Projektfortschrittsbericht 2008
+- TOP 9.5.: Verbesserung der Schienenanbindung des Flughafens München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.04.2009
+- TOP 9.6.: S- Bahn- Stammstrecke München; Planfeststellung nach § 18 Abs. 1 AEG; Beschluss des Ausschusses für Stadtplanung und Bauordnung; Ergänzung hierzu
+- TOP 9.7.: Änderung der Satzung für die Bezirksausschüsse der LHM und des BA- Katalogs; Änderung und Ergänzung der Richtlinien für das Budget der Bezirksausschüsse
+- TOP 9.8.: Mehrjahresinvestitionsprogramm für die Jahre 2009-2013; Investitionsvorhaben des Planungsreferates
+- TOP 9.9.: Unveränderte Fortführung Schank- und Speisewirtschaft "Kazmairstüberl" in der Trappentreustraße 35
+- TOP 9.10.: München lernt aus planerischen Fehlern: Was wird in Freiham besser und warum?; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009
+- TOP 10: Verschiedenes
+- TOP 11: Protokoll und Umlauf
