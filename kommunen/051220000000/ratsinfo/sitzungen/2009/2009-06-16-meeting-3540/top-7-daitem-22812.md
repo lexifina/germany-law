@@ -1,0 +1,6 @@
+# TOP 7: Hallenbad Birker Straße
+
+- Sitzung: Sportausschuss (2009-06-16)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/22812
