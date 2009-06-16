@@ -1,0 +1,112 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1576169
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1576169
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Burschenverein Harlaching Harlachinger Maifest vom 01. - 03.05.2009 zu TOP 3.1.2.2 Schreiben des Oberbürgermeisters vom 30.04.2009
+- TOP 3.2.: AntragstellerIn: Rabennest Kindergarten e.V., für die Maßnahme: Bodenverlegung und Küchenrenovierung im Kindergarten; Antragssumme: 9.800,--?; Beschussvorlage des Direktoriums vom 28.05.2009
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Kath. Kirchenstiftung Hl. Familie, für die Maßnahme: Kirchenkonzert am 18.10.2009; Antragssumme: 1.400,--?; Antrag vom 20.05.2009
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Budget der Bezirksausschüsse; Antrag des Maibaumvereins Menterschwaige e.V. vom 12.03.09; Schreiben des BA 18 vom 29.05.09; Eingangsbestätigung des Direktoriums vom 04.06.09
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Kurzstraße; absolutes Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 18.05.09 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.1.: Trambahnhaltestelle Großhesseloher Brücke; 20 zusätzliche Fahrradständer; BA-Antrag-Nr. 08-14 / B 00589 vom 21.10.08; Antwortschreiben des Baureferats vom 15.05.09 (positive Erledigung)
+- TOP 3.2.: Beseitigung der Gefahrenquelle an der Sparkassenausfahrt Hans-Mielich-Straße 35; Schreiben des BA 18 vom 22.01.2009; Antwortschreiben des KVR vom 15.05.2009 (negative Erledigung)
+- TOP 3.3.: Parkzone nur für Pkw am Hans-Mielich-Platz und in der Teutoburger Straße; BA-Antrag Nr. 08-14 / B 00282 vom 15.07.08; neuerliches Schreiben des BA 18 vom 26.11.08; Antwortschreiben des KVR vom 18.05.09 (negative Erledigung)
+- TOP 3.4.: Überlegungen und Vorschläge zur Neugestaltung des Agilolfingerplatzes (Ziffer 2 des Antrages); BA-Antrag Nr. 08-14 / B 00280 vom 15.07.08; Antwortschreiben des Baureferats vom 27.05.2009 (neutrale Erledigung)
+- TOP 3.1.: Verbesserung der Schienenanbindung des Flughafens München a) Sach- und Planungsstand, weiteres Vorgehen - MünchenAirportExpress (MExpress) - Gutachten zur Flughafenanbindung München - Flughafen-Express-Light (FEL) auf der Trasse der S1 - Erdinger Ringschluss b) Anträge (neu) Sitzungsvorlagen Nr. 08-14 / V 01813; Beschluss der Vollversammlung des Stadtrates vom 20.05.2009
+- TOP 3.2.: 2. S-Bahn-Stammstrecke München; Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) a) Verfahrensstand; weitere Informationen; Expertenhearing am 25.03.2009 b) Neuplanungen Planfeststellungsabschnitt 3 München Ost - Haidhausen c) weiteres Vorgehen d) Anträge und Empfehlungen Beschluss der Vollversammlung des Stadtrates vom 20.05.2009
+- TOP 3.3.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München; Sitzungsvorlagen Nr. 08-14 / V 01793; Anlage: Änderungsantrag der SPD und Bündnis 90/DIE GRÜNEN vom 06.05.2009; Beschluss der Vollversammlung des Stadtrates vom 20.05.2009
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Verschönerung des Jakob-Gelb-Platzes in Untergiesing mit Büschen, Sträuchern und Bänken etc. - <div>in den UA Umwelt verwiesen</div>
+- TOP 3.1.: Ersatzpflanzungen bei Fällungsgenehmigungen; Az.: 7.2-2009-10740-5; Schreiben des BA 18 vom 28.04.2009; Antwortschreiben der Unteren Naturschutzbehörde vom 04.05.2009 (neutrale Erledigung)
+- TOP 3.2.: Hundekottütenspender in den Grünanlagen des 18. Stadtbezirkes; Schreiben des BA 18 vom 24.03.2009; Antwortschreiben des Baureferats-Gartenbau vom 20.04.2009 (neutrale Erledigung)
+- TOP 3.3.: Pfützenstellen in den Grünanlagen des 18.Stadtbezirkes; Schreiben des BA 18 vom 25.03.2009; Antwortschreiben des Baureferats-Gartenbau vom 22.05.09 (positive Erledigung)
+- TOP 3.1.: Umwelt- und Gesundheitsbeeinträchtigungen durch Laubbläser; Gutachten über Umwelt- und Gesundheitsschädlichkeit von Laubbläsern; Antrag Nr. 02-08 / A 03860 der ÖDP vom 26.07.2007; Unterbindung des Einsatzes von tragbaren Laubbläsern und vergleichbaren Geräten insbesondere bei der Reinigung der Fußgängerbrücke über die Tegernseer Landstraße in Höhe Waltramstraße sowie generell auf Gehewegen zur Vermeidung vom Lärm, Abgasen und Staub im Wohnumfeld (Ziffer 2 des Antrages); Empfehlung Nr. 08-14 / E 00143 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching - vom 23.10.2008; Sitzungsvorlage Nr. 08-14 / V 02185; Beschluss des Umweltschutzausschusses vom 26.05.2009 (SB)
+- TOP 3.2.: Information über Baumfällung; Rotbuche in den Isarauen / Alemannenstraße; Mitteilung des Baureferates-Gartenbau vom 16.06.09
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Neugestaltung des Kinderspielplatzes am Paula-Herzog-Weg - <div>in den UA Soziales verwiesen</div>
+- TOP 3.1.: Neuer Mieterbeirat; Entsendung von Mitgliedern; Schreiben des Sozialreferates vom 22.05.2009 mit der Bitte um Rückmeldung bis spätestens 03.07.2009
+- TOP 3.1.: Unterstützung des Schulobstprogrammes der Europäischen Union; BA-Antrag Nr. 08-14 / B 00802 des BA 18 vom 20.01.09; Schreiben des BA 18 vom 27.04.09; Antwortschreiben des Schul- u. Kultusreferats vom 08.05.09 (negative Erledigung)
+- TOP 3.1.: Städtische Bauprojekte und Vereinsbauprojekte; Bekanntgabe der Prioritätenliste; Sitzungsvorlagen Nr. 08-14 / V 001940; Beschluss des Schul- und Sportausschusses des Stadtrates vom 29.04.2009 (SB)
+- TOP 3.2.: Mehrjahresinvestitionsprogramm (MIP) 2009 - 2013 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr.: 08-14 / V 02206 Beschluss des Schul- und Sportausschusses des Stadtrates vom 27.05.2009 (VB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Blumenverkaufsstand in der Fromundstraße / Tegernseer Landstraße; Beschluss des BA 18 vom 16.06.2009; Zuleitung des KVR vom 13.05.2009
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Schyrenplatz 2; Anhörung vom 28.05.2009
+- TOP 3.2.: Anwesen Sanatoriumsplatz 2; Anhörung vom 28.05.2009
+- TOP 3.3.: Anwesen Meichelbeckstr. 8; Anhörung vom 28.05.2009
+- TOP 3.4.: Anwesen Meichelbeckstraße 28; Anhörung vom 28.05.2009
+- TOP 3.5.: Anwesen Agilolfingerstraße 23; Anhörung vom 28.05.2009
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen im Schilcherweg 8 - 10; Anhörung vom 07.05.2009
+- TOP 3.2.: Anwesen in der Grödner Str. 8; Anhörung vom 07.05.2009
+- TOP 3.3.: Anwesen Bruggspergerstr. 66; Anhörung vom 27.05.2009
+- TOP 3.4.: Anwesen Tierparkstraße 30; Anhörung vom 28.05.2009
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Da Maria", Tegernseer Landstraße 316; Mitteilung vom 14.05.2009 3.5.6.2.2 SSW "Giesinger Garten", Gerhardstr. 4; Mitteilung vom 12.05.2009 3.5.6.2.3 SSW "Yakamoz-Müzikhol", Tegernseer Landstr. 302; Mitteilung vom 20.05.2009 3.5.6.2.4 Kleingaststätte "TTT", Ludmillastraße; Mitteilung vom 29.05.2009
+- TOP 3.3.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009 -2013; Sitzungsvorlagen Nr. 08-14 / V 02228; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009 (VB)
+- TOP 3.4.: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum? Sitzungsvorlagen Nr. 08-14/V 02214; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009 (SB)
+- TOP 3.5.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zu den Anträgen der Bezirksausschüsse 4, 11, 16, 21 und 24; Sitzungsvorlagen Nr. 08-14/V 02229; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009 (VB)
+- TOP 3.6.: MIP 2009-2013; Gestaltung des Hans-Mielich-Platzes - <div>nach Antrag</div>
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Freifläche am Candidplatz als Veranstaltungsfläche für Giesing und Harlaching - <div>vertagt</div>
+- TOP 3.1.: Grünanlage Oberbiberger Straße; Waldfest des Vereins zur Erhaltung und Pflege des Perlacher / Grünwalder Forstes e.V. am 25.07.2009; Zuleitung des KVR vom 20.05.09 mit der Bitte um Stellungnahme bis 01.07.09
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Zugang des Wahllokals Agilolfinger Schule für Menschen mit Behinderung; BA-Antrag Nr. 08-14 / B 00091 vom 17.06.08; Antwortschreiben des KVR vom 27.04.09 (positive Erledigung)
+- TOP 4.2.: Erhalt des Kaufhauses Hertie an der Tegernseer Landstraße; BA-Antrag-Nr. 08-14 / B 00958 des BA 18 vom 17.03.09; Zwischennachricht des RAW vom 12.05.09
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013; Unterrichtung der Stadtkämmerei vom 07.05.2009
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
