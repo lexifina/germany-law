@@ -1,0 +1,61 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2009-06-17T15:00:00+02:00
+- Ende: 2009-06-17T21:25:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1325
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1325
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022203.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022203.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00022203.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Aufstellung von Nebentätigkeiten des OB - Kenntnisnahme
+- TOP 4: Konjunkturpaket II - 2. Liste - Einstimmiger Beschluss
+- TOP 5: Erneuerung von Straßenlampen - Zur Kenntnis genommen
+- TOP 6: Entwurf 1.Nachtragssatzung Haushaltsjahr 2009 - Kenntnisnahme
+- TOP 7: Außerplanmäßige Bereitstellung von Haushaltsmittel - Einstimmiger Beschluss
+- TOP 8: Abschlussergebnis Stadtsparkasse 2008 - Einstimmiger Beschluss
+- TOP 9: Entlastung Sparkassenorgane - Einstimmiger Beschluss
+- TOP 10: Ablösevertrag "Am Wickrather Tor", Erschließung - Zur Kenntnis genommen
+- TOP 11: Beteiligungsbericht 2007 - Kenntnisnahme
+- TOP 12: mittelbare Beteiligung der NVV AG - Einstimmiger Beschluss
+- TOP 13: Beteiligung der NVV an der NEW Re - Einstimmiger Beschluss
+- TOP 14: Beteiligung der NVV an der GWG - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 15: mittelbare Beteiligung der NVV AG - Einstimmiger Beschluss
+- TOP 16: Einleitungen von Siedlungsabflüssen im Nierseinzug - Zur Kenntnis genommen
+- TOP 17: Durchleitungsvereinbarung - Einstimmiger Beschluss
+- TOP 18: 5. Nachtrag zur Parkgebührenordnung - Einstimmiger Beschluss
+- TOP 19: Ordnungsbehördliche Verordnung 11. Oktober 2009 - Zur Kenntnis genommen
+- TOP 20: Sachstandsbericht OGS - Einstimmiger Beschluss
+- TOP 21: GGS Heyden (ausl. Aufösung des Teilstandortes) - Einstimmiger Beschluss
+- TOP 22: KHS Stadtmitte - Neubau Küche / Mensa - Zur Kenntnis genommen
+- TOP 23: Fünfter Nachtrag Benutzungsordnung Stadtarchiv - Zur Kenntnis genommen
+- TOP 24: Änderung des § 27 der Gemeindeordnung NRW - Einstimmiger Beschluss
+- TOP 25: Achtzehnter Nachtrag Hauptsatzung - Zur Kenntnis genommen
+- TOP 26: Erteilung von Vollmachten für den Grundstücks. - Zur Kenntnis genommen
+- TOP 27: Spielplatzbedarfsplan 2009 - Mit Stimmenmehrheit beschlossen
+- TOP 28: Sockelverträge - Einstimmiger Beschluss
+- TOP 29: Dritter Nachtrag Elternbeitragssatzung - Zur Kenntnis genommen
+- TOP 30: Geldleistungen an Tagespflegepersonen - Einstimmiger Beschluss
+- TOP 31: Präventionskonzept für die Stadt MG - Einstimmiger Beschluss
+- TOP 32: Aufhebung der Schutzraumnutzung - Einstimmiger Beschluss
+- TOP 33: 1. Änderung des 'Bebauungsplanes Nr. 109/VIII - Einstimmiger Beschluss
+- TOP 34: Neuaufstellung des Nahverkehrsplanes - Einstimmiger Beschluss
+- TOP 35: Erhaltungssatzung Pahlkebad - Einstimmiger Beschluss
+- TOP 36: Festlegung Innenstadt Rheydt zum Stadtumbaugebiet - Einstimmiger Beschluss
+- TOP 37: Umbesetzung von Ausschüssen - Zur Kenntnis genommen
+- TOP 38: L 019 - Mit Stimmenmehrheit abgelehnt
+- TOP 39: Integrierte Gesamtverkehrsplanung NRW (IGVP NRW) - Mit Stimmenmehrheit abgelehnt
+- TOP 40: Veröffentlichung von Daten - Verwaltung macht Zusage
+- TOP 41: BP Hofstr. u.a. - Zur Kenntnis genommen
+- TOP 42: Prüfung der Modalitäten Ankauf PP und Hbf RY - Mit Stimmenmehrheit abgelehnt
+- TOP 43: Schienenpersonennahverkehr - Mit Stimmenmehrheit abgelehnt
+- TOP 44: Anfragen
