@@ -1,0 +1,122 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586646
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586646
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Schaffung von 4 Kurzzeitparkplätzen in Lochhausen an der Lochhausener Straße (UA Planung)
+- TOP 2.2.: Überqueren der Straße auf dem Autobahnhügel; generelle Geschwindigkeitsüberschreitungen des KFZ-Verkehrs ab Altostraße (UA Planung)
+- TOP 2.3.: Antrag auf Straßenausbesserung Negrellistr. (UA Planung)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Liebensteinstr. 21, gem. Baumbestandspl. Nr. 2009-10608 - Mainaustr. 22-24, 1 Eberesche - Freienfelsstr. 17, 1 Robinie
+- TOP 3.2.: Fällungsantrag Kronwinkler Str. 64, Schr. Planungsreferat vom 25.05.09
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.1.: Antrag aus der Jugendsprechstunde des BA 22 am 20.05.09 - Einsatz der Buslinie 161 an Wochenenden auch als Nachtlinie, evtl. gemeinsame Linienführung mit der Nachtlinie N47
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Realisierung der Realschule und des Gymnasiums in Freiham-Nord bereits im ersten Bauabschnitt
+- TOP 4.2.: Verkehrskonzept für die Aubing-Ost-Str.
+- TOP 5: Entscheidungen
+- TOP 5.1.: Antrag des Vereins der Freunde und Förderer der Grundschule Ravensburger Ring 37 auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 6.470 Euro, Schr. Direktorium vom 28.05.09 (UA Budget)
+- TOP 5.2.: Antrag des Vereins Kultur am Westkreuz e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.600 Euro, Schr. Direktorium vom 28.05.09 (UA Budget)
+- TOP 5.3.: Vollzug des Bayerischen Straßen- und Wegegesetzes im 22. Stadtbezirk Aubing-Lochhausen-Langwied; Aufstufung einer Teilstrecke der Straße "Im Stocket", Schr. Baureferat vom 08.06.09
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf Privatgrund, hier: Labyrinth im Maisfeld an der Lochhausener Str. vom 08.06. - 30.09.09, Anhörung KVR vom 22.05.09
+- TOP 6.2.: Veranstaltung auf städt. Grünanlage, hier: Standkonzert am Ramses-See mit anschließendem Fackelzug und Johannisfeuer in der Grünanlage Sipplingerstraße am 26.06.09, Anhörung KVR vom 27.05.09
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Standkonzert und Festzug anlässlich des 20. Aubinger Herbstfestes am Donnerstag, den 10.09.09, Anhörung KVR vom 29.05.09
+- TOP 6.4.: Veranstaltung auf städt. Grünanlage, hier: Kindertag "Was sind Pfadfinder" auf dem Sponeckplatz am 04.07.09 von 08.00 - 18.00 Uhr, Anhörung KVR vom 15.06.09
+- TOP 6.1.: Aufnahme der Stadtteile Aubing, Neuaubing und Westkreuz in das Projekt "Soziale Stadt", Schr. Planungsreferat vom 19.05.09
+- TOP 6.2.: Beschwerde gegen den Betreiber des "Delfin-Cafe" in der Limesstr. 39, Schr. KVR vom 27.05.09
+- TOP 6.3.: Einzelhandelskonzept für den 22. Stadtbezirk, Schr. Planungsreferat vom 22.05.09
+- TOP 6.4.: Veranstaltungsanzeige: Sommerfest des Kaninchenzuchtvereins B2 mit Kaninchenausstellung am 04./05.07.09 an der Reußensteinstraße 14, Schr. KVR vom 29.05.09
+- TOP 6.5.: Langwieder Seenplatte, insbesondere Lußsee: Abgetrennte Teilbereiche für Kinder, Nichtschwimmer und Senioren sowie Überwachung der Bereiche, Schr. Baureferat vom 02.06.09 Antrag Nr. 08-14 / B 01047 des BA 23 Allach-Untermenzing vom 14.04.09
+- TOP 6.6.: Veranstaltung auf öffentlichem Verkehrsgrund: Straßenfest der EIWOBAU-Siedlung am 27.06.09 von 14.00 bis 22.00 Uhr in der Kastelburgstraße zwischen Mariabrunner Str. und Feldmeierbogen, Schr. KVR vom 05.06.09
+- TOP 6.7.: Veranstaltungen / Kooperationen im Juni 2009, Schr. Kulturreferat vom 02.06.09
+- TOP 6.8.: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen; Antrag Nr. 08-14 / B 00795 des BA 10 Moosach vom 19.01.09; Schr. Sozialreferat vom 03.06.09
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendung aus dem Budget für ESV Neuaubing, Abteilung Handball, Schr. Direktorium vom 12.05.09
+- TOP 6.2.: Ablehnung einer beantragten Zuwendung für ESV-Sportfreunde München-Neuaubing e.V., Schr. Direktorium vom 05.05.09
+- TOP 6.3.: Budget der Bezirksausschüsse, Antrag des ESV Neuaubing, Abt. Handball vom 09.03.2009 beim BA 22 für den Kauf von Trikots, Schr. Direktorium vom 12.05.09
+- TOP 6.4.: Budget der Bezirksausschüsse, Schreiben des Evangelisch-Katholischen Rats vom 09.05.2009, Gräbersegnung, Schr. Direktorium vom 11.05.09
+- TOP 6.5.: Antrag auf Budgetmittel des BA 22, hier: Verwendung für eigene Veranstaltungen, BA-Empfang am 27.05.09, Schr. Direktorim vom 11.05.09
+- TOP 6.6.: Antrag auf Budgetmittel des BA 22, hier: Verwendung für eigenen Veranstaltungen, Zauberer / Kindertheater am 15.05.09, Schr. Direktorium vom 11.05.09
+- TOP 6.7.: Zuwendung aus dem Budget für den Förderverein der Grundschule am Ravensburger Ring 37, Bescheid des Direktoriums vom 03.06.09
+- TOP 6.8.: Unterstützung für die am 13.07.09 stattfindende Veranstaltung von REGSAM (Regionalisierung sozialer Arbeit in München) zum Thema Ganztagesschulen mit Mitteln des BA-Budgets
+- TOP 6.9.: Zuwendungen an Freiwillige Feuerwehren in München für Ausrüstungsgegenstände, Schr. Direktorium vom 02.06.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Voranfrage zur Straßenbennenung im Stadtbezirk 22, Anhörung Kommunalreferat vom 15.05.09 (vertagt aus 05/09)
+- TOP 6.2.: Gemeinde Karlsfeld, Bebauungsplan Nr. 100, Anhörung Planungsreferat vom 19.05.09
+- TOP 6.3.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Barrierefreier Ausbau S-Bahn München, Haltestelle Westkreuz, Strecke 5541 München - Westkreuz - Herrsching, Strecke 5540 München - Hbf - Gauting, Anhörung Planungsreferat vom 13.05.09
+- TOP 6.4.: Lochhausener Straße, Flur-Nr. 2789/2, Errichtung eines Lagerplatzes, Anhörung Planungsreferat vom 02.06.09
+- TOP 6.5.: Federseestr. 4, Neubebauung (Wohn- und Geschäftshaus bzw. -häuser mit Garage und Stellplätzen) - Vorbescheid; Anhörung Planungsreferat vom 02.06.09
+- TOP 6.6.: Kronwinkler Straße 24, Nutzungsänderung eines ehem. Bürogebäudes in eine Kooperationseinrichtung (Kinderkrippe, Kindergarten und -hort); Anhörung Planungsreferat vom 02.06.09
+- TOP 6.7.: Bodenseestr. 190, Errichtung von KFZ-Stellplätzen sowie Nutzungsänderung des Erdgeschosses im Bestandsgebäude zu Büroeinheiten - Vorbescheid; Anhörung Planungsreferat vom 02.06.09
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 04.05.-10.05.09, 11.05.-17.05.09, 18.05.-24.05.09, 25.05.-31.05.09, 01.06.-07.06.09), Schr. Planungsreferat vom 11.05.09, 19.05.09, 25.05.09, 03.06.09, 08.06.09
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 11.05.09, 18.05.09, 25.05.09
+- TOP 6.3.: Verkehrsrechtliche Anordnung, hier: Am Aubinger Wasserturm, allgemeiner Behindertenparkplatz, Schr. KVR vom 11.05.09
+- TOP 6.4.: Baumaßnahmen der SWM, Stromprojekt Hoheneckstr. 101, Schr. SWM vom 12.05.09
+- TOP 6.5.: Ausstattung der Sickerbecken der BAB A 99 mit Rettungsringen, Schr. Autobahndirekton Südbayern vom 15.05.09
+- TOP 6.6.: Arbeiten im Straßenraum: Pretzfelder Str. zwischen Riesenburgstr. und Streitbergstr. (Fernwämrearbeiten), Schr. KVR vom 14.05.09
+- TOP 6.7.: Arbeiten im Straßenreuam: Wiesentfelser Str., Schr. KVR vom 18.05.09
+- TOP 6.8.: Baumaßnahme: Colmdorfstr., Bebauungsplan Nr. 1955, Schr. Baureferat vom 15.05.09
+- TOP 6.9.: Entfernung der Containerinsel am Freihamer Weg (Parkplatz Aubinger Friedhof), Schr. Abfallwirtschaftsbetrieb München vom 07.04.09 (vertagt aus 05/09)
+- TOP 6.10.: Schaffung einer Unterführung für Radfahrer / Fußgänger unter der Auffahrtsrampe der A 99 an der Lochhausener Straße zwischen der Autobahn und der Straße "Am Langwieder Bach", Schr. Planungsreferat vom 08.04.09 (vertagt aus 05/09)
+- TOP 6.11.: Gefahrenzone für Radfahrer in der Wichnantstraße, Schr. KVR vom 04.05.09 (vertagt aus 05/09)
+- TOP 6.12.: Verkehrssichere Rettungswege an der A 99, Schr. Baureferat vom 22.05.09
+- TOP 6.13.: Aufnahme der Aubing-Ost-Str. 66 in die Denkmalschutzliste, Schr. Bayer. Landesamt für Denkmalpflege vom 22.05.09
+- TOP 6.14.: Sanierung Mainaustraße, Projektgenehmigung; Schr. Münchner Stadtentwässerung vom 25.05.05
+- TOP 6.15.: Baustelleneinrichtung an der Pretzfelder Straße; Ausnahmebewilligung KVR vom 27.05.09
+- TOP 6.16.: Kneippanlage am Langwieder Bach, Zwischenbericht; Schr. Baureferat vom 28.05.09
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Neuer Mieterbeirat - Entsendung von Mitgliedern, Anhörung des Sozialreferats vom 22.05.09
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013, Schr. Stadtkämmerei vom 07.05.09
+- TOP 8.2.: Unveränderte Fortführung des Gaststättenbetriebs: - "Bodenseestub'n" (bisher La Torre), Bodenseestr. 222, Schr. KVR vom 13.05.09
+- TOP 8.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.4.: Wirtschaftsinfo 05/2009, Schr. Referat für Arbeit und Wirtschaft vom 28.05.09
+- TOP 8.5.: Zweckentfremdung von Wohnraum: Limesstraße, Schr. Sozialreferat vom 29.05.09
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung vom 20.05.09: Verbesserung der Schienenanbindung des Flughafens München (UA Planung)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009 - 2013 (UA Planung)
+- TOP 10.3.: Beschluss der Vollversammlung vom 20.05.09: 2. S-Bahn-Stammstrecke München, Planfeststellung nach § 18 Abs. 2 Allgemeines Eisenbahngesetz (AEG) (UA Planung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09 und Hinweis / Ergänzung vom 20.05.09: Lärmschutzmaßnahmen an der Nordseite der Bahnlinie München-Augsburg (UA Planung)
+- TOP 10.5.: Beschluss der Vollversammlung vom 20.05.09: Radverkehr in München, Grundsatzbeschluss zur Förderung des Radverkehrs in München (UA Planung)
+- TOP 10.6.: Beschluss des Schul- und Sportausschusses vom 27.05.09: Kindertagesstätten sonstiger Träger; Kooperationseinrichtung an der Kronwinkler Str. 24, Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Leistung eines Baukostenzuschusses nach dem BayKiBiG (UA Planung)
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: Am Westkreuz a) Aufstellung eines Bebauungsplans für das Shopping Center an der Stockacher Str., Empf.-Nr. 70 vom 03.07.08 b) Entsiegelung und Begrünung der asphaltierten Freiflächen im Westkreuz, Antr.-Nr. 625 vom 19.11.08 (UA Planung)
+- TOP 10.8.: Beschluss des Verwaltungs- und Personalausschusses vom 06.05.09: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München, Zusammenfassende Änderungssatzung
+- TOP 10.9.: Beschluss des Verwaltungs- und Personalausschusses vom 06.05.09: Änderungen der BA-Satzung und des BA-Kataloges
+- TOP 10.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013 (UA Planung)
+- TOP 10.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum? (UA Freiham)
+- TOP 10.12.: Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 26.05.09: Kindertagesstätten sonstiger Träger; Kooperationseinrichtung an der Kronwinkler Straße 24, Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Leistung eines Baukostenzuschusses nach dem BAyKiBiG
+- TOP 10.13.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 16.06.09: Pasinger Badebus bleibt erhalten Optimale ÖPNV-Verbindung zu den Badeseen im Münchner Westen Einrichtung eines Badebusses von der S-Bahnstation Lochhausen zur Langwieder Seenplatte (Antrag Nr. 08-14 / B 01069 des BA 22 vom 22.04.09), Langwieder Seenplatte: Der Betrieb des Badebusses ist in den Sommermonaten zu gewährleisten und die Linienführung von Pasing aus über Allach-Untermenzing im Bereich der Eversbuschstraße zu leiten Badebus vom Pasinger Bahnhof zum Lußsee muss auch in der Badesaison 2009 gewährleistet sein (UA Planung)
+- TOP 10.14.: Beschluss der Vollversammlung vom 20.05.09: Neuer Mieterbeirat
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Informationsveranstaltung für Bezirksausschüsse, Thema: Budget der Bezirksausschüsse am Montag, 13.07.09 um 18.00 Uhr, Schr. Direktorium vom 12.05.09
+- TOP 11.2.: Verein "Helfende Hände": Dank und Einladung zum Sommerfest am 11.07.09 und zum 40-jährigen Bestehen am 23.10.09, Schr. vom 25.05.09
+- TOP 11.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.4.: Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 19.05.09 in der Gleichstellungsstelle für Frauen, Schr. Gleichstellungsstelle für Frauen vom 28.05.09
+- TOP 11.5.: Bürgerversammlung des 22. Stadtbezirkes Aubing-Lochhausen-Langwied am 30.06.09 um 19.00 Uhr in der Turnhalle der Grundschule an der Gotzmannstraße 19, 81245 München
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 15.07.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
