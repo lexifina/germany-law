@@ -1,0 +1,51 @@
+# 48. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-06-18T17:10:00+02:00
+- Ende: 2009-06-18T18:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6813
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6813
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00281208.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 2.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Beantwortung von Anfragen
+- TOP 3.1: Bahnübergang Schmitthausweg / Grienkenswell in Nienberge-Häger - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Zentrumserweiterung Nienberge - zur Kenntnis genommen
+- TOP 5: Entscheidungen
+- TOP 5.1: Brücke über den Offerbach - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster Gievenbeck-Ortsmitte" - einstimmig beschlossen
+- TOP 6.2: Vorhabenbezogener Bebauungsplan Nr. 473 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.3: 18. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 6.4: Bebauungsplan Nr. 523 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.5: 34. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 6.6: Bebauungsplan Nr. 485: Roxel - Nordumgehung zwischen Havixbecker Straße und Roxeler Straße - mehrheitlich beschlossen
+- TOP 6.7: Bebauungsplan Nr. 323, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.7.1: Bebauungsplan Nr. 323, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.8: Kindertagesbetreuungsbericht 2009 - einstimmig beschlossen
+- TOP 6.9: Sportstättenbau der Mitgliedsvereine des Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 6.10: Stiftung Magdalenenhospital - Fortführung des Projektes "Von Mensch zu Mensch" - einstimmig beschlossen
+- TOP 7: Vorschläge und Anregungen
+- TOP 7.1: Von der Bezirksvertretung
+- TOP 7.1.1: Trennung Verkehrsströme Heroldstraße - zur Kenntnis genommen
+- TOP 7.1.2: Bau einer durchgehenden Wegeverbindung für Fußgänger und Radfahrer östlich der Fritz- - zur Kenntnis genommen
+- TOP 7.1.3: Bau einer durchgehenden Wegeverbindung für Fußgänger und Radfahrer östlich der Fritz-Stricker-Straße zwischen Weseler Straße und GAD-Straße - Ausbaukosten im Hauhalt 2010 veranschlagen - eingebracht
+- TOP 7.1.4: Beleuchtungssituation Marktplatz Albachten - zur Kenntnis genommen
+- TOP 7.1.5: Zurückstellung von Sanierungs- / Investitionsmaßnahmen an der Peter-Wust-Grundschule I und - einstimmig beschlossen
+- TOP 7.1.6: Sanierung der Peter-Wust-Schule - eingebracht
+- TOP 7.1.7: Zebrastreifen auf der Osthofstraße in Albachten zur Schulwegsicherung - eingebracht
+- TOP 7.1.8: Parkplatzsituation vor der KiTa Wolkenburg - einstimmig beschlossen
+- TOP 7.1.9: Barrierefreier Zugang zur Sporthalle des Freiherr-vom-Stein-Gymnasiums - eingebracht
+- TOP 7.2: Vom Jugendforum West
+- TOP 7.2.1: Eingabe zur Anregung Nr. 3/2009 der AWO Unterbezirk Münster-Recklinghausen - Kinder u. - eingebracht
+- TOP 8: Verschiedenes - zur Kenntnis genommen
