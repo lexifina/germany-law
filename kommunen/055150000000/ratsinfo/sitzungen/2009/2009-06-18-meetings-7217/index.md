@@ -1,0 +1,53 @@
+# 41. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-06-18T17:07:00+02:00
+- Ende: 2009-06-18T22:37:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7217
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7217
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00281199.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Bekanntgabe von Eingaben und Anträgen
+- TOP 5: Vorgezogene Beratungspunkte mit externer Berichterstattung
+- TOP 5.1: Neubau des LWL- Landesmuseums: Vorstellung des aktuellen Planungsstandes
+- TOP 5.2: Vorstellung des Projektes "Naviki - Wege verbinden"
+- TOP 6: Stadtentwicklung, Stadterneuerung, Wohnen
+- TOP 6.1: Anträge zur Wohnungspolitik - mehrheitlich beschlossen
+- TOP 6.2: Lärmsanierung an bestehenden Schienenwegen des Bundes - Sanierungsbereich Innenstadtstrecke - - ohne Beschlussfassung geschoben
+- TOP 6.3: Förderung von Stadterneuerungsprojekten - Sachstand und Anträge für das Programmjahr 2010 - einstimmig beschlossen
+- TOP 6.4: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster Gievenbeck-Ortsmitte" - einstimmig geändert beschlossen
+- TOP 6.5: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster-Wolbeck" - einstimmig geändert beschlossen
+- TOP 6.6: Finanzierung Lichtkonzept Bahnhofstraße der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - einstimmig beschlossen
+- TOP 6.7: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2008 - zur Kenntnis genommen
+- TOP 7: Stadtplanung
+- TOP 7.1: Baublock Schulstraße - mehrheitlich beschlossen
+- TOP 7.2: Wettbewerb "Am Stadtgraben" - zur Kenntnis genommen
+- TOP 7.3: Bebauungsplan Nr. 529 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 7.4: Bebauungsplan Nr. 323, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 7.5: Bebauungsplan Nr. 485: Roxel - Nordumgehung zwischen Havixbecker Straße und Roxeler Straße - mehrheitlich beschlossen
+- TOP 7.6: 18. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 7.7: Vorhabenbezogener Bebauungsplan Nr. 473 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 7.8: 31. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 7.9: Bebauungsplan Nr. 515 - Beschluss über Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 7.10: Bebauungsplan Nr. 210, 1. Änderung - Kenntnisnahme des Entwurfes - zur Kenntnis genommen
+- TOP 7.11: 30. Änderung FNP - Beschluss zur Änderung - einstimmig beschlossen
+- TOP 7.12: Vorhabenbezogener Bebauungsplan Nr. 513 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 7.13: Vorhabenbezogener Bebauungsplan Nr. 513 - Kenntnisnahme des Entwurfes - zur Kenntnis genommen
+- TOP 7.14: 32. Änderung des Flächennutzungsplanes der Stadt Münster für den Bereich Albersloher Weg / Egbert-Snoek-Straße / Loddenheide / Bertha-von-Suttner-Weg / Rösnerstraße (Ratio) - einstimmig beschlossen
+- TOP 7.15: Vorhabenbezogener Bebauungsplan Nr. 517: Albersloher Weg / Egbert-Snoek-Straße / Loddenheide / Bertha-von-Suttner-Weg / Rösnerstraße (Ratio) - einstimmig beschlossen
+- TOP 7.16: Sachstand Entwicklung Nienberge Zentrum - zur Kenntnis genommen
+- TOP 8: Verkehr
+- TOP 8.1: Ausbau der Straßen Rothenburg, der südl. Königsstraße, Ludgeristraße inkl. Marienplatz - zur Kenntnis genommen
+- TOP 8.2: Ausführung des Verkehrssicherheitsprogrammes 2009 - 2013 - zur Kenntnis genommen
+- TOP 8.3: Planfeststellungsverfahren Ausbau A1 zwischen MS-Süd und DEK-Brücke - zur Kenntnis genommen
+- TOP 9: Verschiedenes
