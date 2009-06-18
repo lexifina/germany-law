@@ -1,0 +1,116 @@
+# 26. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-06-18T17:30:00+02:00
+- Ende: 2009-06-18T22:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1959
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1959
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=70406
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Kiezzentrum Schillerhöhe/Schillerpark - offener oder geschlossener "Runder Tisch"? - beantwortet
+- TOP 5.2: Theodor-Heuss-Oberschule ohne Standort - beantwortet
+- TOP 5.3: (Still)Stand der Planungen zur Kostenreduzierung durch Energiesparcontracting für Bürodienstgebäude? - beantwortet
+- TOP 5.4: Wahlergebnis zur Europawahl vom 07. Juni 2009 - schriftlich beantwortet
+- TOP 5.5: Ehre wem Ehre gebührt - schriftlich beantwortet
+- TOP 5.6: Städtepartnerschaften des Bezirks: Wie geht's weiter? - schriftlich beantwortet
+- TOP 5.7: Konjunkturpaket II: Umsetzung in Mitte gefährdet? - schriftlich beantwortet
+- TOP 5.8: Frühzeitige Berufsorientierung - "Komm auf Tour" - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Aktuelle Entwicklung zum Thema "Grips-Grundschule" - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Förderung des Türkischen Kulturvereins im Jahr 2009? - beantwortet
+- TOP 7.2: Ein nichtgewünschtes Ergebnis des Schuljahrs 2007/2008 (?) - die statistische Auswertung der Schulanfangsphase in den Grundschulen des Bezirks - beantwortet
+- TOP 7.3: Personalentwicklung im JobCenter Mitte - beantwortet
+- TOP 7.4: Isoliertes Jahresergebnis 2008 - ZeP-Option - beantwortet
+- TOP 7.5: Haus der Jugend am Nauener Platz - beantwortet
+- TOP 7.6: Isoliertes Jahresergebnis 2008 - Ausbildungsmittel - schriftlich beantwortet
+- TOP 7.7: Bundesprojekt "Jugend macht Stadt" - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Übertragung des Betriebs einer bezirklichen Jugendfreizeiteinrichtung auf einen freien Träger - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl eines Mitgliedes für den BVV-Vorstand - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Anmeldungen für die Investitionsplanung 2009 - 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Fachplan Grün- und Freiflächen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplanentwurf II-169 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-169 - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauungsplanentwurf I-B5e sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-B5e - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf I-B5t sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-B5t - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Beschluss über den Bebauungsplanentwurf 1-17B und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-17B - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bebauungsplanentwurf II-180 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-180 - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Vorhabenbezogener Bebauungsplanentwurf 1-41VE sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-41VE - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Beitragspflichtige Erneuerung der Straßenentwässerung in der Fennstraße im Abschnitt Reinickendorfer bis Müllerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Beitragspflichtige Erneuerung der Straßenentwässerung in der Fennstraße im Abschnitt Müller- bis Tegeler Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Beitragspflichtige Erneuerung der Straßenentwässerung in der Müllerstraße von Fenn- bis Lindower Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Beitragspflichtige Erneuerung der Straßenentwässerung in der Sellerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Beitragspflichtige Erneuerung der Straßenentwässerung in der Straße am Nordhafen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Die Würde des Menschen ist unantastbar - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schülerstreik - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Zum Haushalt 2010/2011 - in der BVV zurückgezogen
+- TOP 12.2: Die Türkische Bibliothek - überwiesen
+- TOP 12.3: Interkulturelle Öffnung der Regelversorgung - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Theodor-Heuss-Gymnasium erhalten - in der BVV abgelehnt
+- TOP 12.5: Verkehrssicherheit an der Reinickendorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Lasst die Wärmepilze frei - in der BVV abgelehnt
+- TOP 12.7: Regelmäßige Kundenzufriedenheits-Befragung im JobCenter - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verbraucherschutz beim Einkauf in Mitte gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Klassenfrequenzen senken! - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bürgerbeteiligung in den städtebaulichen Untersuchungsgebieten von Mitte umgehend sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Regelung zur Genehmigung von Sportveranstaltungen außerhalb von Sportanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Besetzung des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Mehr Mülleimer in der Ackerstraße - überwiesen
+- TOP 12.14: "Jobbörse" für den Öffentlichen Beschäftigungssektor - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Kommt tatsächlich erst das Fressen - und dann die Moral? Kritischen Dialog mit Migrantenvereinen fortführen - mit Änderungen in der BVV beschlossen
+- TOP 12.16: Informationsveranstaltung zum Wohnteilhabegesetz (WtG) - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Konzept für das Haus der Jugend am Nauener Platz - überwiesen
+- TOP 12.18: Sparen geht vor Schließen! Freie Raumkapazitäten an den Schulen, Bibliotheken und Rathäusern optimal nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Zukunftswerkstatt Lehrter Straße / Kruppstraße hier: Kleingartenanlagen im Gutachterverfahren Lehrter Straße berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Erhaltungssatzung für das Hansaviertel - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Rosenthaler Platz fahrradfreundlich umgestalten - überwiesen
+- TOP 12.22: Unterstützung der Berliner Taxi-Innung: Dienstwagen des Bezirksbürgermeisters abschaffen! - in der BVV abgelehnt
+- TOP 12.23: Reisen Stopp - in der BVV abgelehnt
+- TOP 12.24: Kinderplantschen in Berlins Mitte - überwiesen
+- TOP 12.25: Bebauungspläne I-B5 Spandauer Vorstadt hier: zugesagte Bürgerveranstaltung endlich durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Bürgerschaftliches Engagement in und für Mitte fördern (I): Unterstützung der Stiftung "Gute Tat" - überwiesen
+- TOP 12.27: Bürgerschaftliches Engagement in und für Mitte fördern (II): Das bürgerschaftliche Engagement von Jugendlichen in die pädagogische Arbeit von Jugend-Einrichtungen integrieren - überwiesen
+- TOP 12.28: Raus aus den Miesen - raus aus teuren Miet- und Eigentumsobjekten - in der BVV abgelehnt
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Sanierungsmittel in Diskussion zum Haushaltsplan 2010/2011 einbeziehen - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Neue Wege für die Leipziger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Geschichte erleben - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Projekt Öffentlicher Beschäftigungssektor – ÖBS im Bereich der ethnischen Ökonomie - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Wirtschaftsförderung, hier: „Ethnische Ökonomie“ 1 - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Trotz Konjunkturpaket II keine Abstriche bei der Korruptionsprävention - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Sozialplanverfahren in der Fehrbelliner Straße 44-48 einleiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Militariahandel mit NS-Symbolen auf Trödelmärkten unterbinden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Starker Geist; schwache Augen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.4: Weiterentwicklung des B-Plans 1-43 VE (Schultheiß-Gelände) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Ausbildungsoffensive 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Verbindliche verwaltungsinterne Richtlinien zur Genehmigungspraxis von Baugesuchen für die B-Pläne: I-B5e, I-B5b, I-B5a, I-B5t und I-B5m - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Protokolle über Partnerschaftsreisen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Baugemeinschaften in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Denkmalsubstanz Warenhaus Jandorf erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Räume für die Geschäftsstelle Landesjugendring - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.11: Hinweisschilder für die Seniorenvertretung im Rathaus Wedding - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Masterplan Heidestraße - Beschluss über Leitlinien und Entwicklungsziele für die Entwicklung des Standortes beiderseits der Heidestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Liegenschaftsfonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Festlegung der anfechtungsberechtigten Behörde für Vaterschaftsanfechtungen im Bezirk Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB sowie die Durchführung der öffentlichen Auslegung zu den Bebauungsplanentwürfen I-B24b, I-B5f, I-B5g, I-B5k, I-B5l, I-B5n, I-B5o und I-B5q gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
