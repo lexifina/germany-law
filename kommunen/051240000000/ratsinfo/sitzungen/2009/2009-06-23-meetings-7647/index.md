@@ -1,0 +1,55 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-06-23T16:03:00+02:00
+- Ende: 2009-06-23T16:50:00+02:00
+- Ort: Ratssaal, Rathaus Barmen, 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7647
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7647
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00107508.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00108602.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss und Konzernabschluss 2008 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2008 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2008 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2008 der BEG GmbH - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2008 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2008 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2008 - Entgegennahme ohne Beschluss
+- TOP 1.9: Jahresabschluss 2008 der Hotel AG - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 2.1: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen (KIJU) für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2009/2010 - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2007 / 2008 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Änderung des Gesellschaftsvertrages der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 5.2: Änderung des Gesellschaftsvertrages der WSW mobil GmbH - ungeändert beschlossen
+- TOP 5.3: Erhöhung des Stammkapitals der AWG Abfallwirtschaftsgesellschaft mbH - geändert beschlossen
+- TOP 5.4: PPP-Projekt in Wuppertal-Ronsdorf, Bandwirkerplatz 1 - Entgegennahme ohne Beschluss
+- TOP 5.4.1: PPP-Projekt in Wuppertal-Ronsdorf, Bandwirkerplatz 1 - Antwort auf die Anfrage der Ratsgruppe DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: FINCO - Erster Bericht 2009 - Entgegennahme ohne Beschluss
+- TOP 12.2: Stand der Schulden und Kassenkredite zum 30.04.2009 - Entgegennahme ohne Beschluss
+- TOP 12.3: Abschlussbericht Leitstellenkooperation Solingen-Wuppertal - Entgegennahme ohne Beschluss
+- TOP 13: Verkäufe und Baumaßnahmen
+- TOP 13.1: Erneuerung der Lüftungsanlage im Menschenaffenhaus - ungeändert beschlossen
+- TOP 14: Dienstanweisungen und Satzungen
+- TOP 15: Allgemeine Vorlagen
+- TOP 15.1: Umsetzung von Maßnahmen im Rahmen des Konjunkturprogramms - zur Entscheidung verwiesen
+- TOP 15.2: Stadtentwässerung - Maßnahmenkatalog 2010/Katalogentwurf 2011 - ungeändert beschlossen
+- TOP 15.3: Schwebebahnfinanzierung - Aufteilung der Kosten - Entgegennahme ohne Beschluss
+- TOP 15.3.1: Antwort auf die Anfrage: Schwebebahnfinanzierung - Aufteilung der Kosten - Anfrage der Ratsgruppe DIE LINKE - Entgegennahme ohne Beschluss
+- TOP 15.4: Weiterführung derTeilnahme der Stadt Wuppertal am Landesfonds "Kein Kind ohne Mahlzeit" - ungeändert beschlossen
+- TOP 16: Berichte und Mitteilungen
