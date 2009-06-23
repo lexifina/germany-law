@@ -1,0 +1,56 @@
+# Stadtrat (33. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-06-23T17:00:00+02:00
+- Ende: 2009-06-23T20:24:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQ7Ll7A-PFmb2jR-BkL6xpI
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/5822
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZctQevNpXunUiwrlIXfSVGQBy_kGEf9dZbz7AjYEJkl2/Bekanntmachung_Stadtrat_23.06.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZXR9oInsOahWTXs7o6Uvn9xgyT19PW-MFOuoqUPDvX6T/Oeffentliche_Niederschrift_Stadtrat_23.06.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Ausschüssen und Gremien
+- TOP 1.1: Umbesetzung des Ausschusses für Soziales und Integration
+- TOP 1.2: Wahl von sachkundigen Einwohnern/Einwohnerinnen hier: Mitgliedschaft der Stadtschulpflegschaft im Schulausschuss
+- TOP 2.: Integrationsausschuss
+- TOP 3.: Senioren- und Seniorinnenbeiratswahl 2009
+- TOP 4.: Quartiersbezogene kommunale Altenhilfeplanung der Stadt Kerpen, Teilplan Sindorf
+- TOP 5.: Haushaltssituation der Stadt Kerpen
+- TOP 6.: Erweiterung der Sindorfer Mühlenfeldschule
+- TOP zu 9.: Erweiterung der Mühlenfeldschule um 4 klassengroße Räume
+- TOP 7.: Umsetzung Konjunkturpaket II hier: Verabschiedung von Maßnahmen
+- TOP zu TOP 6: Umsetzung Konjunkturpaket II hier: Verabschiedung von Maßnahmen
+- TOP 8.: Einzelvergabe statt Vergabe an Generalunternehmen bei Baumaßnahmen
+- TOP 9.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 9.1: Bereitstellung außerplanmäßiger Haushaltsmittel für die Sanierung einer Altlastenfläche in Kerpen- Horrem
+- TOP 10.: Personal-/Stellenplanangelegenheiten
+- TOP 10.1: Stellenplan 2010 hier: Verlängerung der Stellenbefristung ARGE Rhein-Erft
+- TOP 10.2: Personalsituation in der Abteilung 22.2 - Schulverwaltung
+- TOP 10.3: Befristete Weiterbeschäftigung von Auszubildenden im Verwaltungsbereich nach Bestehen der Abschluss- bzw. Laufbahnprüfung
+- TOP 11.: Baumaßnahmen im Zuge der Verlegung der A 4
+- TOP 12.: Stadtentwicklung und Bauleitplanung
+- TOP 12.1: Historische Lehrpfade - ergänzende Hinweise an Straßenbenennungsschildern
+- TOP 12.2: Bebauungsplan SI 257 "Bolzplatz Vogelrutherfeld", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 12.3: Bebauungsplan TÜ 335 "Kindertagesstätte Platanenallee", Stadtteil Türnich Aufstellungsbeschluss gem. § 2 (1) BauGB und Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 12.4: Bebauungsplan TÜ 246/4. Änderung "Gewerbegebiet-Industriegebiet Ville", Stadtteil Türnich hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 12.5: TÜ 246 4. Änderung "Gewerbe- und Industriegebiet Ville", Abschluss des 3. Änderungsvertrages zum Erschließungsvertrag vom 16.12.1998
+- TOP 13.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Spielplätze im Neubaugebiet Wahlenpfad
+- TOP 15.2: DSL-Breitbandverfügbarkeit im Stadtgebiet Kerpen
+- TOP 15.3: Versickerungsmulden im Gebiet Vogelrutherfeld, Sindorf
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17.1: Abberufung eines Verwaltungsprüfers
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
