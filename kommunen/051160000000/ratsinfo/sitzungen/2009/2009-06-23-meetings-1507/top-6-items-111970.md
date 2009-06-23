@@ -1,0 +1,8 @@
+# TOP 6: Sachstandsbericht zur Förderung der Beschäftigung
+
+- Sitzung: Integrationsrat (2009-06-23)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/111970
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/9498
