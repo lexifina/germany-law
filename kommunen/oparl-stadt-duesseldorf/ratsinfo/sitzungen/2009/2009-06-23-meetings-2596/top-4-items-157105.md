@@ -1,0 +1,7 @@
+# TOP 4: S-Bahnhof Garath
+
+- Sitzung: Bezirksvertretung 10 (2009-06-23)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/157105
+- Ergebnis: zur Kenntnis genommen
