@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-06-23T17:00:00+02:00
+- Ende: 2009-06-23T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2595
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2595
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126376.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126376.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126376.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Schulwegsicherungsmaßnahmen
+- TOP 6: Neubau KSP Am Quellenbusch
+- TOP 7: Maßnahmenprogramm Attraktivierung Bahnüberführungen
+- TOP 8: Umwandlung von Gymnasien in Ganztagsschulen
+- TOP 9: Evangelische Kindertagesstätte Lohbachweg
+- TOP 10: Dog Event Düsseldorf
+- TOP 11: Verwendung von Haushaltsmittel
+- TOP 12: Verkehrstechnische Sicherungsmaßnahmen Ausfahrt Gerricusschule
+- TOP 13: WINGAS-Leitung von Hubbelrath nach Rath
+- TOP 14: Kinderarmut im Stadtbezirk 7
+- TOP 15: Gerresheimer Netz gegen Armut
+- TOP 16: Überarbeitung der Planung Pillebachbrücke und Renaturierung
+- TOP 17: Gehweg Sichelstraße
+- TOP 18: Veranstaltung für Erst- und Jungwähler
+- TOP 19: Informationstafel zur Brunnensäule Gerricusplatz
+- TOP 20: Tunnel Untergerresheim
+- TOP 21: Nisthilfen für Turmfalken und Mauersegler
+- TOP 22: Radwegekonzept für das südliche Gerresheim
+- TOP 23: Verkehrsführung rund um den Gerresheimer Bahnhof
+- TOP 24: Kompensation für die Tankstelle Torfbruchstraße 301
+- TOP 25: Noteinsätze Feuerwehr u.a.
+- TOP 26: Situation der ErzieherInnen Stadtbezirk 7
+- TOP 27: Veranstaltungssaal Apostelkirche
+- TOP 28: Alkoholmissbrauch
+- TOP 29: Baurecht im Grafenberger Wald/Ludenberger Straße
+- TOP 30: Sporthalle in Knittkuhl
+- TOP 31: Verkehrsregelungen Torfbruchstraße/Nachtigallstraße
+- TOP 32: Einsatz von Streetworkern in Gerresheim südlich der Bahn
+- TOP 33: "Nasse Keller" Am Eulenthal
+- TOP 34: Notarztversorgung im Stadtbezirk 7
+- TOP 35: Wasserspielplatz Diepenpark
+- TOP 36: Aufstellung von Robidogs, Bänken und Abfallkörben
