@@ -1,0 +1,58 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2009-06-24T17:05:00+02:00
+- Ende: 2009-06-24T19:30:00+02:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=1881
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=1881
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 06.05.2009; die Niederschrift über die Sitzung des Rates der Stadt wurde inzwischen übersandt.
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen.
+- TOP 4: Maßnahmenanpassungen im Rahmen des Konjunkturpaketes II - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen
+- TOP 5.1: Überplanmäßige Aufwendungen / Auszahlungen /Verpflichtungsermächtigungen - Haushaltsjahr 2009 -Produkt 020 070 020 - Auftragssachkonto B 020 70005 78 51 002 / 2009 - Rotlichtüberwachungsanlagen Wilhelmstr./Lothringerstr. und Kreuzung Bastei - - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen 2009Produkt 020.150.010 BrandschutzSachkonto 7831081, Auftrag B 02150225Sachkonto 5221001/7221001Ausbau Dachgeschoss Stolberger Straße 157, Ruheräume Leitstelle FeuerwehrAusstattung Ruheräume Leitstelle Feuerwehr - ungeändert beschlossen
+- TOP 5.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen 2009Produkt 020.170.010 NotfalldienstSanierung Gebäudehülle Feuerwache - Aachen, Stolberger Straße 155 - ungeändert beschlossen
+- TOP 6: Entwurf der Eröffnungsbilanz gemäß § 92 GO NRW - ungeändert beschlossen
+- TOP 7: Route Charlemagne - ungeändert beschlossen
+- TOP 8: Errichtung einer vierten Gesamtschule in der Stadt Aachen - geändert beschlossen
+- TOP 9: Sportentwicklungsplanung der Stadt AachenHandlungsempfehlungen - ungeändert beschlossen
+- TOP 10: Neufassung der Richtlinien für die Gewährung von Zuschüssen für Sportbaumaßnahmen durch die Stadt Aachen - ungeändert beschlossen
+- TOP 11: I. (vereinfachte) Änderung Bebauungsplan Nr. 888 - Krefelder Straße / Soerser Weg (Sportpark Soers) -;A. Bericht über das Ergebnis eingeschränkten Beteiligung gemäß § 13 (2) BauGBB. Satzungsbeschluss - ungeändert beschlossen
+- TOP 12: Aufhebung des Fluchtlinienplanes Nr. 181 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Ronheider Weg zwischen Höfchensweg, Weißhausstraße, der Bahnlinie Aachen - Belgien und dem Kreuzungsbereich der Bahnlinie Aachen - Belgien, RonheiderBerg / Maria-Theresia-Allee und Brüsseler Ring / Luxemburger Ring hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 13: Aufhebung des Fluchtlinienplanes Nr. 242 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Kaiser-Friedrich-Allee (heute Brüsseler Ring) im Bereich nord-westlich der Kreuzung Maria-Theresia-Allee, Kaiser-Friedrich-Allee und Ronheider Weg (heute Ronheider Berg) bis zur Höhe des Colynshofes und für die Kreuzung nord-westlich der Bahnlinie Aachen - Belgien selbst hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 14: Aufhebung des Fluchtlinienplanes Nr. 279 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Eupener Straße nördlich des Kreuzungsbereiches Eupener Straße, Salierallee, Ronheider Weg und Weißhausstraße, den Kreuzungsbereich selbst und die geplante Einmündung der Habsburger Allee in die Eupener Straßehier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 15: Aufhebung des Fluchtlinienplanes Nr. 293 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Lütticher Straße zwischen der Einmündung des Ronheider Weges (heute Ronheider Berg) im Süden und dem Hochgrundhaus im Norden, als auch für die Einmündung einer Planstraße in süd-westliche Richtung auf die Lütticher Straße hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 16: Aufhebung des Fluchtlinienplanes Nr. 368 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich süd-östlich der Bahnlinie Aachen - Belgien, südlich der Weißhausstraße, westlich der Eupener Straße und nord-östlich der süd-westlichen Gartenbereiche des Martelenberger Weges hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 17: Aufhebung des Bebauungsplanes Nr. 512 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich östlich des Von-Halfern-Weges, südlich des Gut Steeges und nord-westlich der nord-westlich verlaufenden hinteren Grundstücksgrenzen der Bebauung am Ronheider Berghier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 18: Aufhebung des Bebauungsplanes Nr. 535 für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Ronheider Weg im Bereich der südlichen Einmündung des Ronheider Winkels hier: Satzungsbeschluss gemäß § 10 Abs.1 BauGB - ungeändert beschlossen
+- TOP 19: Satzung über die förmliche Festsetzung des Sanierungsgebietes Aachen-Brand - ungeändert beschlossen
+- TOP 20: Viktoriaallee,hier: Umgestaltung - zur Kenntnis genommen
+- TOP 21: Weiterleitung von Fördermitteln für die Machbarkeitsstudie Ikonenmuseum - ungeändert beschlossen
+- TOP 22: Änderung der Satzung des Sparkassenzweckverbandes Kreis Aachen-Stadt Aachen - ungeändert beschlossen
+- TOP 22.1: Nachtrag: Änderung der Satzung des Sparkassenzweckverbandes Kreis Aachen-Stadt Aachen - ungeändert beschlossen
+- TOP 23: Ausbildung von zusätzlichen Lebensmittelkontrolleuren zur Effizienzsteigerung in der Lebensmittelüberwachung - ungeändert beschlossen
+- TOP 24: Abfallwirtschaftsplan des Landes Nordrhein-Westfalenhier: Tagesordnungsantrag der Fraktion der CDU und der Fraktionen von SPD und Grünen zur Sitzung des Rates der Stadt - geändert beschlossen
+- TOP 24.1: Gemeinsame Resolution der Gesellschafter und des Aufsichtsrates der AWA Entsorgung GmbH Eschweiler an die Regierung des landes Nordrhein Westfalen - ungeändert beschlossen
+- TOP 25: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 26: Anfragen
+- TOP 27: Mitteilungen der Verwaltung und Ratsanträge
+- TOP 28: Bebauungsplan Nr. 885 - Joseph-von-Görres-Straße / Wertzgelände - für den Planbereich Stadtbezirk Aachen-Mitte im Bereich zwischen Joseph-von-Görres-Straße, Gneisenaustraße und Stolberger Straßehier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - vertagt
+- TOP 29: Bedarf an neuen OGS Gruppen an Grundschulen in derStadt Aachen - ungeändert beschlossen
+- TOP 30: Finanzielle Eckdaten für die StädteRegion auf Basis der Jahresrechnung 2008 und einer perspektivischen Betrachtung des Haushaltsjahres 2009 ('Modellhaushalt'); hier: a) Beschlussempfehlung über die Höhe der Ausgleichszahlung b) Beschlussempfehlung zur Revisionsklausel - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2.1: nicht öffentlicher Tagesordnungspunkt
