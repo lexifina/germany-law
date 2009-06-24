@@ -1,0 +1,8 @@
+# TOP 9: Ausweisung von Kurzzeitparkflächen am Nikolaus-Knopp-Platz
+
+- Sitzung: Bezirksvertretung 4 (2009-06-24)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/157097
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/49592
