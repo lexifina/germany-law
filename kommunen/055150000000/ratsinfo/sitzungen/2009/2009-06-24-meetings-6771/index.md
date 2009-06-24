@@ -1,0 +1,94 @@
+# 39. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-06-24T18:04:00+02:00
+- Ende: 2009-06-24T22:10:00+02:00
+- Ort: Festsaal des Rathauses, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6771
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6771
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00281899.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Erweiterung des Einkaufszentrums zum Langebusch
+- TOP 1.1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bauleitplanung Stadtbezirk Münster-Nord
+- TOP 2.1: 31. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - mehrheitlich beschlossen
+- TOP 2.2: Bebauungsplan Nr. 515 - Beschluss über Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 6.1: Radioaktive Uran-Transporte durch Münster
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Ausländerbeirates
+- TOP 9: Aktuelle Haushaltsentwicklung 2009 - zur Kenntnis genommen
+- TOP 10: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Erster Zwischenbericht) - zur Kenntnis genommen
+- TOP 11: KiTa - Beiträge
+- TOP 11.1: KiTa - Beiträge gerecht zurückerstatten - einstimmig beschlossen
+- TOP 11.2: Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen - mehrheitlich geändert beschlossen
+- TOP 12: Feststellung von Jahresabschlüssen von Gesellschaften
+- TOP 12.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2008 - einstimmig beschlossen
+- TOP 12.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2008 - einstimmig beschlossen
+- TOP 12.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2008 - einstimmig beschlossen
+- TOP 12.4: Feststellung des Jahresabschlusses 2008 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 12.5: Feststellung des Jahresabschlusses 2008 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 12.6: Feststellung des Jahresabschlusses 2008 der Klarastift Service gGmbH - einstimmig beschlossen
+- TOP 12.7: Feststellung des Jahresabschlusses 2008 der Ambulante Dienste Klarastift gGmbH - einstimmig beschlossen
+- TOP 12.8: Feststellung der Jahresabschlüsse 2008 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 13: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster Gievenbeck-Ortsmitte" - einstimmig beschlossen
+- TOP 13.1: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster Gievenbeck-Ortsmitte"
+- TOP 14: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster-Wolbeck" - einstimmig beschlossen
+- TOP 14.1: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster-Wolbeck"
+- TOP 15: Anträge zur Wohnungspolitik - mehrheitlich beschlossen
+- TOP 16: Finanzierung Lichtkonzept Bahnhofstraße der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - einstimmig beschlossen
+- TOP 17: Konzertierte Aktion Wissenschaftsstadt Münster - 2. Sachstandsbericht: Projekte in den drei thematischen Schwerpunkten - zur Kenntnis genommen
+- TOP 18: Umwandlung der Johannesschule Hiltrup (Städtische Förderschule) in eine Verbundschule mit den Förderschwerpunkten Lernen und emotionale und soziale Entwicklung - einstimmig beschlossen
+- TOP 19: Kindertagesbetreuungsbericht 2009 - einstimmig beschlossen
+- TOP 20: Errichtungsbeschluss - Davertschule Amelsbüren - Modellprojekt zur Stärkung der Bildungs- und Erziehungsqualität in Kindertageseinrichtungen und Ganztagsschulen sowie der bedarfsgerechten Angebotsentwicklung und Gestaltung des Übergangs - mehrheitlich beschlossen
+- TOP 21: Errichtungsbeschluss: Erweiterung der Stadtteileinrichtung 37 Grad in Hiltrup-West und Aufstellen einer Fertigbauklasse auf dem Grundstück der Ludgerusschule Hiltrup - einstimmig beschlossen
+- TOP 22: Erweiterung der Kindertageseinrichtung Killingstraße in Münster-Kinderhaus - Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 23: Erweiterung der Kindertageseinrichtung Emmerbachtal in Münster-Hiltrup: Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 24: Lärmsanierung an bestehenden Schienenwegen des Bundes - Sanierungsbereich Innenstadtstrecke - - einstimmig geändert beschlossen
+- TOP 25: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2008 - zur Kenntnis genommen
+- TOP 26: Stiftung Magdalenenhospital - Fortführung des Projektes "Von Mensch zu Mensch" - einstimmig beschlossen
+- TOP 27: Stiftung Magdalenenhospital - Förderprogramm "Wohnen im Alter" - einstimmig beschlossen
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Münster-Mitte
+- TOP 28.1.1: Bebauungsplan Nr. 529 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 28.2: Stadtbezirk Münster-West
+- TOP 28.2.1: 18. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 28.2.2: Bebauungsplan Nr. 323, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 28.2.3: Bebauungsplan Nr. 485: Roxel - Nordumgehung zwischen Havixbecker Straße und Roxeler Straße - mehrheitlich beschlossen
+- TOP 28.2.4: Vorhabenbezogener Bebauungsplan Nr. 473 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28.2.5: 34. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 28.2.6: Bebauungsplan Nr. 523 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 28.3: Stadtbezirk Münster-Südost
+- TOP 28.3.1: 32. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 28.3.2: Vorhabenbezogener Bebauungsplan Nr. 517: Albersloher Weg / Egbert-Snoek-Straße / Loddenheide / Bertha-von-Suttner-Weg / Rösnerstraße (Ratio) - einstimmig beschlossen
+- TOP 28.4: Stadtbezirk Münster-Ost
+- TOP 28.4.1: 30. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 28.4.2: Vorhabenbezogener Bebauungsplan Nr. 513 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 29: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates
+- TOP 31.1: "Solartechnik auf allen städtischen Dächern und Grundstücken" Regenerative Energie, insbesondere Sonnenkraft besser nutzen - verwiesen
+- TOP 31.2: Chancen der deutschen Fußballroute NRW stärker nutzen - verwiesen
+- TOP 31.3: Haus der Kulturen - Förderung der interkulturellen Begegnung unter einem gemeinsamen Dach - verwiesen
+- TOP 31.4: Europäische Charta zur Gleichstellung von Frauen und Männern auf lokaler Ebene unterzeichnen - Aktionsplan erstellen
+- TOP 32: Verschiedenes
