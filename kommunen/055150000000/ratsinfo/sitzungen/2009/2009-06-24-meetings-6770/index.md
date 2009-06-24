@@ -1,0 +1,81 @@
+# 37. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-06-24T17:06:00+02:00
+- Ende: 2009-06-24T22:06:00+02:00
+- Ort: Festsaal des Rathauses, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6770
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6770
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00281588.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der CDU-Fraktion und FDP-Fraktion Nr. A-R/0013/2009 "Europäische Charta für die Gleichstellung von Männern und Frauen auf lokaler Ebene" - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion im Rat der Stadt Münster Nr. A-R/0056/2008 "Modellprojekt mit Alternativen Antriebskonzepten für die städtische Fahrzeugflotte auflegen - Der Verantwortung als Bundeshauptstadt im Klimaschutz gerecht werden" - einstimmig beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion an der Rat, Nr. A-R/0002/2009 - Vernetztes und integriertes Beratungs- und Informationskonzept für Energieinsparung und regenerative Energienutzung in Münster aufbauen - einstimmig geändert beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat Nr. A-R/0011/2009 - einstimmig beschlossen
+- TOP 2.5: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr.: A-R/0005/2009"UN-Konvention umsetzen - Schulen, Kinder -und Jugendeinrichtungen barrierefrei gestalten" - einstimmig beschlossen
+- TOP 2.6: Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat Nr. A-R/0004/2009 vom 02.03.2009 - "Kinderhauser Schleife - Wohnverhältnisse verbessern und soziales Umfeld stärken" - einstimmig beschlossen
+- TOP 3: Öffentliche Straßenbeleuchtung, neue Leuchten in der Altstadt - mehrheitlich beschlossen
+- TOP 3.1: Öffentliche
+- TOP 4: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgestellte bei der Stadt Münster - zur Kenntnis genommen
+- TOP 5: Förderung von Stadterneuerungsprojekten - Sachstand und Anträge für das Programmjahr 2010 - einstimmig beschlossen
+- TOP 6: Geschäftsbericht 2008 des Sozialamtes - zur Kenntnis genommen
+- TOP 7: Auslobung des 5. Entwicklungspolitischen Nord-Süd-Preises der Stadt Münster / bürger:sinn:stiftung 2010 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Aktuelle Haushaltsentwicklung 2009 - ohne Beschlussfassung geschoben
+- TOP 9: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Erster Zwischenbericht) - ohne Beschlussfassung geschoben
+- TOP 10: Feststellung von Jahresabschlüssen von Gesellscahften
+- TOP 10.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2008 - einstimmig beschlossen
+- TOP 10.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2008 - einstimmig beschlossen
+- TOP 10.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2008 - einstimmig beschlossen
+- TOP 10.4: Feststellung des Jahresabschlusses 2008 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 10.5: Feststellung des Jahresabschlusses 2008 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 10.6: Feststellung des Jahresabschlusses 2008 der Klarastift Service gGmbH - einstimmig beschlossen
+- TOP 10.7: Feststellung des Jahresabschlusses 2008 der Ambulante Dienste Klarastift gGmbH - einstimmig beschlossen
+- TOP 10.8: Feststellung der Jahresabschlüsse 2008 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 11: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster Gievenbeck-Ortsmitte" - ohne Beschlussfassung geschoben
+- TOP 11.1: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster Gievenbeck-Ortsmitte"
+- TOP 12: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster-Wolbeck" - ohne Beschlussfassung geschoben
+- TOP 12.1: Städtebauförderung: Programm "Aktive Stadt- und Ortsteilzentren Münster-Wolbeck"
+- TOP 13: Anträge zur Wohnungspolitik - ohne Beschlussfassung geschoben
+- TOP 14: Finanzierung Lichtkonzept Bahnhofstraße der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - ohne Beschlussfassung geschoben
+- TOP 15: Konzertierte Aktion Wissenschaftsstadt Münster - 2. Sachstandsbericht: Projekte in den drei thematischen Schwerpunkten - zur Kenntnis genommen
+- TOP 16: Umwandlung der Johannesschule Hiltrup (Städtische Förderschule) in eine Verbundschule mit den Förderschwerpunkten Lernen und emotionale und soziale Entwicklung - einstimmig beschlossen
+- TOP 17: Kindertagesbetreuungsbericht 2009 - einstimmig beschlossen
+- TOP 18: Errichtungsbeschluss - Davertschule Amelsbüren - Modellprojekt zur Stärkung der Bildungs- und Erziehungsqualität in Kindertageseinrichtungen und Ganztagsschulen sowie der bedarfsgerechten Angebotsentwicklung und Gestaltung des Übergangs - einstimmig beschlossen
+- TOP 19: Errichtungsbeschluss: Erweiterung der Stadtteileinrichtung 37 Grad in Hiltrup-West und Aufstellen einer Fertigbauklasse auf dem Grundstück der Ludgerusschule Hiltrup - einstimmig beschlossen
+- TOP 20: Erweiterung der Kindertageseinrichtung Killingstraße in Münster-Kinderhaus - Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 21: Erweiterung der Kindertageseinrichtung Emmerbachtal in Münster-Hiltrup: Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 22: Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen - ohne Beschlussfassung geschoben
+- TOP 23: Lärmsanierung an bestehenden Schienenwegen des Bundes - Sanierungsbereich Innenstadtstrecke - - ohne Beschlussfassung geschoben
+- TOP 24: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2008 - ohne Beschlussfassung geschoben
+- TOP 25: Stiftung Magdalenenhospital - Fortführung des Projektes "Von Mensch zu Mensch" - einstimmig beschlossen
+- TOP 26: Stiftung Magdalenenhospital - Förderprogramm "Wohnen im Alter" - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Mitte
+- TOP 27.1.1: Bebauungsplan Nr. 529 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 27.2: Stadtbezirk West
+- TOP 27.2.1: 18. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 27.2.2: Bebauungsplan Nr. 323, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 27.2.3: Bebauungsplan Nr. 485: Roxel - Nordumgehung zwischen Havixbecker Straße und Roxeler Straße - mehrheitlich beschlossen
+- TOP 27.2.4: Vorhabenbezogener Bebauungsplan Nr. 473 - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.2.5: 34. Änderung FNP - Abschließender Beschluss - einstimmig beschlossen
+- TOP 27.2.6: Bebauungsplan Nr. 523 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 27.3: Stadtbezirk Nord
+- TOP 27.3.1: 31. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - ohne Beschlussfassung geschoben
+- TOP 27.3.2: Bebauungsplan Nr. 515 - Beschluss über Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 27.4: Stadtbezirk Südost
+- TOP 27.4.1: 32. Änderung FNP - Beschluss über die Stellungnahmen - Abschließender Beschluss - einstimmig beschlossen
+- TOP 27.4.2: Vorhabenbezogener Bebauungsplan Nr. 517: Albersloher Weg / Egbert-Snoek-Straße / Loddenheide / Bertha-von-Suttner-Weg / Rösnerstraße (Ratio) - einstimmig beschlossen
+- TOP 27.5: Stadtbezirk Ost
+- TOP 27.5.1: 30. Änderung FNP - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 27.5.2: Vorhabenbezogener Bebauungsplan Nr. 513 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 28: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 29: Verschiedenes
