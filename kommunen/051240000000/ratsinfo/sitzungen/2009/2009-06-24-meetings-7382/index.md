@@ -1,0 +1,73 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-06-24T16:05:00+02:00
+- Ende: 2009-06-24T16:20:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7382
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7382
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 10.06.09, 10.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00107615.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00108437.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Sachstandsbericht Cross Border Leasing-Verträge
+- TOP 2.1.1: Antwort auf die Anfrage der Ratsgruppe DIE LINKE. (VO/0488/09) vom 08.06.09: Sachstandsbericht Cross Border Leasing-Verträge
+- TOP 2.2: Massentieranlage am Fettenberger Weg
+- TOP 2.3: Faires Beschaffungswesen
+- TOP 2.4: Kaltenbacher Hammer 1
+- TOP 2.5: VO/0150/09 Energieeffizienz und Klimaschutz in Wuppertal
+- TOP 2.6: Große Anfrage: "Schäden an der Brücke Max-Planck-Straße durch herausfallende Steine"
+- TOP 2.7: Verbesserung der Betreuungssituation von Kindern mit Behinderungen in Wuppertal
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Antrag: "Unternehmensfreundliche Verwaltung" - in der Sache erledigt
+- TOP 4.1.1: "Unternehmensfreundliche Verwaltung" - Bericht der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 4.2: Begrüßungspaket für Erstklässlerinnen und Erstklässler - abgelehnt
+- TOP 4.3: Hier zu Hause: Wuppertal für ein Bleiberecht für langjährig hier lebende geduldete Menschen!
+- TOP 4.3.1: Resolution für ein gerechtes Bleiberecht für langjährig hier lebende Menschen - ungeändert beschlossen
+- TOP 4.4: Resolution zur Strecke RB 47 - ungeändert beschlossen
+- TOP 4.5: Erklärung zum Aktionsbündnis "Wuppertal wehrt sich" - vertagt auf Rat
+- TOP 4.6: Streikbedingte Minderausgaben bei den Betreuungskosten als Sonderbudget für die städtischen Kindertageseinrichtungen - vertagen
+- TOP 4.7: Resolution zur Qualitätsentwicklung im Kindertagesstättenbereich - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Entgeltordnung des Von der Heydt-Museums - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Umsetzung von Maßnahmen im Rahmen des Konjunkturprogramms - vertagt auf Rat
+- TOP 7.2: Erneuerung der Lüftungsanlage im Menschenaffenhaus - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss der Kinder- und Jugendwohngruppen der Stadt Wuppertal für das Geschäftsjahr 2008 - Entgegennahme ohne Beschluss
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen (KIJU) für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2008 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.4: Erhöhung des Stammkapitals der AWG Abfallwirtschaftsgesellschaft mbH - geändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1127 - Kaiserstraße / Lienhardstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 942/1 - Hofschaft Greuel - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1120 - Hahnerberger Straße / Hipkendahl - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 1033 - Heinrich-Böll-Straße - - ungeändert beschlossen
+- TOP 9.5: "Süderweitung II des Steinbruchs Hahnenfurth mit begleitenden Maßnahmen" - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Energieeffizienz und Klimaschutz in Wuppertal - Bericht und Handlungsprogramm 2009-2020 - vertagt auf Rat
+- TOP 11.1.1: Ergänzungsantrag zu VO/0150/09 - vertagt auf Rat
+- TOP 11.1.2: Ergänzungsantrag zu VO/0150/09 - Energieeffizienz und Klimaschutz in Wuppertal - vertagt auf Rat
+- TOP 11.2: Stadtentwässerung - Maßnahmenkatalog 2010/Katalogentwurf 2011 - ungeändert beschlossen
+- TOP 11.3: Handlungsprogramm Wohnen - Konzept zur Zukunft des Wohnstandortes Wuppertal - ungeändert beschlossen
+- TOP 11.4: Förderrichtlinie Hof- und Fassadenprogramm - ungeändert beschlossen
+- TOP 11.5: Gesetz zur Förderung der politischen Partizipation in den Gemeinden - ungeändert beschlossen
+- TOP 11.6: Weiterführung derTeilnahme der Stadt Wuppertal am Landesfonds "Kein Kind ohne Mahlzeit" - ungeändert beschlossen
+- TOP 11.7: Wilhelm-Dörpfeld-Gymnasium - Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.8: Hermann-von-Helmholtz-Realschule - Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.9: Europäische Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene - ungeändert beschlossen
+- TOP 11.10: Information zu VO/0407/09
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Zweckverband Naturpark Bergisches Land - Änderung der Benennung eines Vertreters der Verwaltung - ungeändert beschlossen
+- TOP 12.2: Berufung von ehrenamtlichen Richtern am Sozialgericht Düsseldorf
+- TOP 12.3: Benennung von ehrenamtlichen Richtern am Verwaltungsgericht Düsseldorf
+- TOP 12.4: Berufung der Stellvertreter/innen des Wuppertaler Schülerparlaments - geändert beschlossen
