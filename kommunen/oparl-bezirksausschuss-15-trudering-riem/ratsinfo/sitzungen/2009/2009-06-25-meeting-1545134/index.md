@@ -1,0 +1,113 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2009-06-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1545134
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1545134
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Sonderpädagogisches Förderzentrum München Ost Druckkosten für die Zeitung "Eastsider"
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Städtische Kindertagesstätte Turnerstraße - Verlegung der Vogelnestschaukel
+- TOP 2.2.: Verlegung eines NEF (Notarzteinsatzfahrzeug) Standortes innerhalb des Rettungszweckverbandes München; Unterstützung des gemeindlichen Antrages um die Stationierung dieses Fahrzeuges am Isar-Amper-Klinikum München-Ost zuzüglich fraktionsübergreifender Gesamtantrag BA 15
+- TOP 2.3.: Bürgerversammlungen effektiver und bürgerfreundlicher machen
+- TOP 2.4.: Schadensfall Lehrer-Wirth-Schule
+- TOP 2.5.: Pferdehaltung am Hofgut Riem
+- TOP 2.6.: Anwesenentwässerung Ika-Freudenberg-Straße 45
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München-Rosenheim (südlich); Nieveauerhöhung des Rad- und Fußweges in der Unterführung Schwablhofstraße, Antrag Nr. 08-14 / B 00261 Beschluss des Bauausschusses vom 16.06.2009
+- TOP 3.2.: Frühjahrsputz am Riemer See
+- TOP 3.3.: "Wall" zwischen Isarlandstraße und Wohngebiet Elisabeth-zu-Guttenberg-Straße soll erhalten bleiben
+- TOP 3.4.: Alleepflanzung entlang der Friedenspromenade - Patenschaftsbäume, Antrag Nr. 08-14 / B 00815
+- TOP 3.5.: Feinstaub durch Planungspfusch
+- TOP 3.6.: Christbaumverkauf auf städtischen Flächen
+- TOP 3.7.: Verkehrsentwicklung in Trudering-Riem, Antrag Nr. 02-08 / B 02547
+- TOP 3.8.: Benutzungspflichtiger Radweg in Tempo 30 Zone in der Feldbergstraße
+- TOP 3.9.: Parkmöglichkeiten am Riemer See
+- TOP 3.10.: Abenteuerspielplatz für die Messestadt Antrag Nr. 08-14 / B 00392 und Empfehlung Nr. 08-14 / E 00150
+- TOP 3.11.: Gewerbeverlagerung in das "Hüllgraben" - Dreieck, Antrag Nr. 839
+- TOP 3.12.: Energetische Sanierung der Truderinger Schulen, Antrag Nr. 08-14 / B 00871 (Beschluss der Vollversammlung des Stadtrates vom 18.03.2009 zum Konjunkturpaket II)
+- TOP 3.13.: Darstellung der derzeitigen und zukünftigen Nutzung des Areals Ecke Am Mitterfeld - Joseph-Wild-Straße und Verhinderung der unbefugten Nutzung
+- TOP 3.14.: Städtische Gymnasien / Sprengel
+- TOP 3.15.: Neubau in der Max-Rothschild-Straße
+- TOP 3.16.: Schlittschuhlaufen auf dem Willy-Brandt-Platz
+- TOP 3.17.: Spatzennest e.V, Sicherheit der Kindergartenkinder, Pollergenehmigung
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Optimale Ausnutzung der Schulsporthallen - Überprüfung der Belegungszeiten
+- TOP 4.2.: Zweite Bezirkssportanlage in Trudering-Riem realisieren
+- TOP 4.3.: Neue Bushaltestelle für die Buslinie 146
+- TOP 5: Anhörungen
+- TOP 5.1.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Haltverbot, Kurzparkzone Marianne-Plehn-Straße
+- TOP 5.2.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Haltverbot Elisabeth-Mann-Borgese-Straße
+- TOP 5.3.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Haltverbot Astrid-Lindgren-Straße
+- TOP 5.4.: Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Haltverbot Willy-Brandt-Alle (Nebenfahrbahn)
+- TOP 5.5.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Schatzbogen 52, 54 und 62; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 22.09.2009 (Anhörung; Frist: 10.07.2009)
+- TOP 5.6.: Riemer Park - Laufveranstaltung der Adventjugend am 06.08.09
+- TOP 5.7.: Riemer Park - Sommerfest KIBIKU am 05.07.09
+- TOP 5.8.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO: Sommerfest auf dem Willy-Brandt-Platz am 19.07.2009
+- TOP 5.9.: Aktive Stadt - und Ortsteilzentren Einbindung der Bezirksausschüsse (Anhörung; Frist: 19.06.09)
+- TOP 5.10.: Ablehnung der Express-S-Bahn auf der S1-Trasse zur Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus, Empfehlung Nr. 08-14 / E 00243 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 26.03.2009 (Anhörung; Frist:: 28.07.09)
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Angebote für Kinder und Jugendliche im KJR München-Stadt (Infobroschüre)
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Sommerfest im Riemer Park
+- TOP 7.7.3: UA Planung:
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Budget der Bezirksausschüsse Zuwendungen an Freiwillige Feuerwehren in München für Ausrüstungsgegenstände
+- TOP 7.2.: Verwendungsnachweis - Verein der Freunde und Förderer der Musik in der Pfarrei St.-Augustinus e.V.
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Otto-Lederer-Weg 16, Wardeinstraße 28, Unnützstraße 9, Am Hochacker 15, Günderodestraße 21-21b, Mönchbergstraße 7
+- TOP 8.2.: Wachtelweg 24
+- TOP 8.3.: Damaschkestraße 5
+- TOP 8.4.: Vogesenstraße 14
+- TOP 8.5.: Graf-Spee-Platz 8
+- TOP 8.6.: In der Heuluss 84
+- TOP 8.7.: Am Moosfeld 92
+- TOP 8.8.: Elfriedenstraße 76
+- TOP 8.9.: Simplonstraße 2
+- TOP 8.10.: Turnerstraße 52
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: a) Einladung zur ersten Beiratssitzung des Kinder- und Jugendtreffs "FREIRAUM" am 18.06.09 b) Einladung zur Fronleichnamsprozession Pfarrei St. Franz Xaver am 21.06.2009 c) Einladung SOS-Kinder- und Familientreff Messestadt am 27.06.2009 d) nach Mitteilung der Vorsitzenden
+- TOP 9.2.: Öffentliche Ausschreibung von Wohnbauflächen Kommunales Wohnungsbauförderungsprogramm der Landeshauptstadt München
+- TOP 9.3.: Neuer Mieterbeirat - Entsendung von Mitgliedern (Frist: 03.07.2009)
+- TOP 9.4.: 3. Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 19.05.2009 (Protokoll); Einladung zum 4. Treffen am 22.07.2009
+- TOP 9.5.: Baumaßnahmen der SWM Stromprojekt Isarlandstraße, Fernwärmeprojekt Maria-Montessori-Straße, Stromprojekt Zehntfeldstraße
+- TOP 9.6.: Kundenmagazin "Linie 8" der MVG
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 11.05.09 bis 31.05.09
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Am Moosfeld
+- TOP 10.3.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Bistro Kult, Wasserburger Landstraße 32
+- TOP 10.4.: Verkehrsrechtliche Anordnung nach § 45 StVO Haltverbot in der Friedenspromenade nördlich Am Hochacker
+- TOP 10.5.: Vollzug der Straßenverkehrsordnung (StVO); hier §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund; Platz der Menschenrechte 26./27.05.09
+- TOP 10.6.: Vollzug der Straßenverkehrsordnung (StVO); hier §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund; Straßen innerhalb des Altstadtringes, innerhalb des mittleren Ringes und im Außenbereich von 01.07.09 bis 30.12.09
+- TOP 10.7.: Vollzug der Straßenverkehrsordnung (StVO); hier §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund; Rotfuchsweg von 24.06.09 bis 27.06.09
+- TOP 10.8.: Messestadt Riem EM 225 Wohn- und Anliegerstraßen im 2. BA Wohnen, Genehmigung für die Umgestaltung des Straßenplatzes Mitte in der Selma-Lagerlöf-Straße; Beschluss des Bauausschusses vom 16.06.2009
+- TOP 10.9.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen Änderungsgenehmigung für die Errichtung und Inbetriebnahme einer Anlage zur Annahme, Trennung und Zerlegung von Bildröhren sowie Erweiterung der Jahresdurchsatzleistung und Gesamtlagerkapazität der Linus München GmbH (Bescheid)
+- TOP 10.10.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013 Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009
+- TOP 10.11.: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009
+- TOP 10.12.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009 - 2013; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.2009
+- TOP 10.13.: Mehrjahresinvestitionsprogramm (MIP) 2009 - 2013 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse Beschluss des Kinder- und Jugendhilfeausschusses sowie des Sportausschusses des Stadtrates vom 26.05.2009
+- TOP 10.14.: Entwurf des Mehrjahresinvestitionsprogrammes für die Jahre 2009 - 2013, Einzelplan 4 / Sozialbereich; Beschluss des Sozialausschusses vom 28.05.2009
+- TOP 10.15.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Am Moosfeld 85; Beschluss des Kinder- und Jugendhilfeausschusses vom 26.05.2009
+- TOP 10.16.: Neuer Mieterbeirat Beschluss der Vollversammlung des Stadtrates vom 20.05.2009
+- TOP 10.17.: TSV Waldtrudering e.V., Rotkehlchenweg 2 - Verlängerung des Überlassungsvertrages; Beschluss des Schul- und Sportausschusses des Stadtrates vom 27.05.2009
+- TOP 10.18.: Errichtung einer Solaranlage auf dem Dach der Grundschule Helsinkistraße, Antrag Nr. 08-14 / B 00726; Beschluss des Schul- und Sportausschusses des Stadtrates vom 27.05.2009
+- TOP 10.19.: Daheim in München - Bezirksauschüsse in die geplanten Aktivitäten einbeziehen (Antrag des Bezirksausschusses 10 Moosach, Nr. 08-14 / B 00795)
+- TOP 10.20.: Konjunkturpaket II - hilft Sanierungsprojekt jetzt anzupacken: Schulgebäude aus KLEUSBERG Klassenraum-Containern (Infomaterial)
+- TOP 10.21.: Vollzug der Grünanlagensatzung Baustelleneinrichtung an der Magdalena-Schwarz-Straße
