@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-06-25T14:00:00+02:00
+- Ende: 2009-06-25T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2496
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2496
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151804.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151804.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151804.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 5: Anfrage Bü90/Grü: 28000 neue Wohnungen - beantwortet
+- TOP 6: Anfrage CDU: Familienimage Stadt Düsseldorf" - beantwortet
+- TOP 7: Anfrage CDU: Barrierefreie Info-Angebote - schriftlich beantwortet
+- TOP 8: Anfrage des Ratsherrn Gutt: Elektromobilität - schriftlich beantwortet
+- TOP 9: Anfrage SPD: Aquazoo-Löbbecke Museum - schriftlich beantwortet
+- TOP 10: Anfrage SPD:Abbruch des Tausendfüsslers - schriftlich beantwortet
+- TOP 11: Anfrage Bü90/Grü: Waffen u. Munition von Kindern genutzt - schriftlich beantwortet
+- TOP 12: Anfrage Rh Karen-Jungen: Charta der Vielfalt - schriftlich beantwortet
+- TOP 13: Anfrage Rh Czerwinski - schriftlich beantwortet
+- TOP 14: Anfrage Rfr. Deilmann: Runder Tisch Altstadt - schriftlich beantwortet
+- TOP 15: Anfrage Rfr. Bellstedt: Fluglärm objektiv messen - schriftlich beantwortet
+- TOP 16: Anfrage Linksfraktion: Kleingartenparzellen - schriftlich beantwortet
+- TOP 17: Anträge
+- TOP 18: Antrag Linksfraktion: Resolution zum Bleiberecht - mehrheitlich abgelehnt
+- TOP 19: Antrag FDP u. CDU: Campus-Messe - einstimmig beschlossen
+- TOP 20: Antrag SPD: Unternehmen gestalten den demografischen Wandel - mehrheitlich abgelehnt
+- TOP 21: Antrag SPD: Verkehrssicherheit für nichtmotorisierte Verkehrsteilnehmer - mehrheitlich abgelehnt
+- TOP 22: Antrag Bü90/Grü: Kontrollierte Abgabe von synthetischem Heroin (Diamorphin) - mehrheitlich abgelehnt
+- TOP 23: Antrag Bü90/Grü: Aktivitäten der Stadt Düsseldorf zum „Europäischen Jahr zur Bekämpfung von Armut und sozialer Ausgrenzung“ - mehrheitlich abgelehnt
+- TOP 24: Antrag Bü90/Grü: Masterplan Lärm - mehrheitlich abgelehnt
+- TOP 25: Antrag SPD: Entwicklung Ressourcen schonender Stadtquartiere - mehrheitlich abgelehnt
+- TOP 26: Antrag SPD: Sichere Fußwege in Gerresheim - verwiesen
+- TOP 27: Antrag Linke: Fan-Treff - verwiesen
+- TOP 28: Antrag Linksfraktion: - mehrheitlich abgelehnt
+- TOP 29: Antrag Linksfraktion: ARGE Süd - vertagt
+- TOP 30: Antrag der Linksfraktion: Legale Graffitiflächen - vertagt
+- TOP 31: Kämmererliste - mehrheitlich beschlossen
+- TOP 32: Kämmererliste - mehrheitlich beschlossen
+- TOP 33: NKF-Eröffnungsbilanz - einstimmig beschlossen
+- TOP 34: Betrauungsakt i.R. ÖSPV-Finanzierung VRR - mehrheitlich beschlossen
+- TOP 35: Jahresabschluss SSK 2008 - mehrheitlich beschlossen
+- TOP 36: Maßnahmenprogramm Klimaschutz - Energetische Sanierung städtischer Wohnungen - einstimmig beschlossen
+- TOP 37: Verlagerung der Abendrealschule - Hermann-Harry-Schmitz-Weiterbildungskolleg- Rückertstraße und Bau einer Anwohnerquartiersgarage an der Franklinstraße 41-43 - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 38: Parkplatzneubau an der Festenbergstraße - einstimmig beschlossen
+- TOP 39: Sanierung des Gewässerdurchlasses der Inneren Südlichen Düssel im Bereich der Haroldstraße - einstimmig beschlossen
+- TOP 40: Franklinstr. 41-43, Teilsanierung der VHS - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 41: Ottweiler Str. 20, Sanierung und Erweiterung des Schulgebäudes - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 42: Umbau der Werdener Straße (1. Ausbaustufe) - mehrheitlich beschlossen
+- TOP 43: Umrüstung von Gasbeleuchtung auf LED in Lohausen/ BuF - einstimmig beschlossen
+- TOP 44: Austausch von 9 Lichtzeichenanlagen im Zuge der Kölner Landstraße inkl. LED-Ausstattung - einstimmig beschlossen
+- TOP 45: 1. Änderung des Landschaftsplanes - einstimmig beschlossen
+- TOP 46: Sicherung der Erschließung - mehrheitlich beschlossen
+- TOP 47: Änderung Taxentarifordnung - mehrheitlich beschlossen
+- TOP 48: Teilweise Umbenennung der Flughafenstraße - mehrheitlich beschlossen
+- TOP 49: Umbenennung der LTU-arena-Straße - einstimmig beschlossen
+- TOP 50: Gutachtergremium für Entschädigungen beim U-Bahn-Bau - einstimmig beschlossen
+- TOP 51: Bestellung von stellvertretenden Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 52: Bestellung des Vorsitzenden des Gutachterausschusses - einstimmig beschlossen
+- TOP 53: Neubildung Einigungsstelle gem. § 67 LPVG - einstimmig beschlossen
+- TOP 54: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 55: Abberufung und Bestellung von Prüfern des Rechnungsprüfungsamtes - einstimmig beschlossen
+- TOP 56: Bericht der Gemeindeprüfungsanstalt NRW - einstimmig beschlossen
+- TOP 57: Änderung GO Jugendrat - mehrheitlich beschlossen
+- TOP 58: Ehrenamtstage - einstimmig beschlossen
+- TOP 59: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 60: Richtlinien zum Erwerb von Belegungs- und Mietbindungen - einstimmig beschlossen
+- TOP 61: Modestandort: Unterstützung des Vereins Fashion Net Düsseldorf - mehrheitlich beschlossen
+- TOP 62: Umwandlung von drei Gymnasien in gebundene Ganztagsschulen - einstimmig beschlossen
+- TOP 63: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur 2009 - einstimmig beschlossen
+- TOP 64: Verleihung des Förderpreises für Wissenschaften 2009 - einstimmig beschlossen
+- TOP 65: Kunstpreis der Landeshauptstadt Düsseldorf/ Helmut Käutner-Preis; Änderung der Richtlinien und Wiederwahl der Jury - einstimmig beschlossen
+- TOP 66: Partnerschaft Welthungerhilfe - einstimmig beschlossen
+- TOP 67: Änderung der Zuständigkeitsordnung - mehrheitlich beschlossen
+- TOP 68: Planungsmaßnahmen
+- TOP 69: Bebauungsplan Nr. 55778/041 - mehrheitlich beschlossen
+- TOP 70: BPl5670/019-Am Scheitenwege-Stell.Änd.Satz. - mehrheitlich beschlossen
+- TOP 71: FNP-Ä Nr. 152 - Südwestlich Moltkestraße - einstimmig beschlossen
