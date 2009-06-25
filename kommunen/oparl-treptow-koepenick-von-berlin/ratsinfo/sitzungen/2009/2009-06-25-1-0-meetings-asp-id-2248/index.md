@@ -1,0 +1,82 @@
+# 31. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-06-25T16:30:00+02:00
+- Ende: 2009-06-25T22:10:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2248
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2248
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl und Wiederwahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - gewählt
+- TOP 8.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 8.3: Wahl einer Schiedsfrau/Schiedsmann für den Schiedsamtsbezirk Treptow-Köpenick 5 - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Zentren- und Einzelhandelskonzeptes Treptow-Köpenick - überwiesen
+- TOP 11.2: - Entwurf des Bebauungsplans XV-70a ("Bohnsdorf West"), - Entwurf der Rechtsverordnung zum Bebauungsplan XV-70a im Bezirk Treptow-Köpenick, Ortsteile Bohnsdorf und Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für 1. Köpenicker Drachenboot e.V. (SM 907) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für die Jugendfeuerwehr Oberschöneweide (SM 922) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für B.A.U.M e. V. (SM 924) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Evangelische Stadtkirchengemeinde Köpenick (SM 925) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Selbsthilfegruppen Multiple Sklerose Berlin-Köpenick und Berlin-Treptow (SM 926) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.9: Sondermittel für Ehrenteit & Karney Wasserfest GbR (SM 928) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Sondermittel für Partner Treptow-Köpenick e. V. (SM 931) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Bürgerverein Baumschulenweg e. V. (SM 932) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Vorhabenbezogener Bebauungsplan 9-27 VE ("Rübezahl") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Tauchersteig für den Radverkehr entgegen der Einbahnstraßenrichtung zulassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bürgerbus in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Treptow-Köpenick gegen Homophobie - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: "ServiceCenter" abschaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Supermarkt neben der Kirche – Sichtachsen in Friedrichshagen erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Festsetzung des Pachtzinses für Pachtgrundstücke in der Gartenanlage "Heide am Wasser", entsprechend der Einordnung der Parzellen gemäß ihrer Nutzungsart zur Wohnnutzung, zur Erholungsnutzung bzw. zur kleingärtnerischen Nutzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Verlängerung der A 100 - vertagt
+- TOP 12.9: Verkehrskonferenz Südost - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Hygiene in Gaststätten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Gedenktafeln an Sportanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Hauptweg im Mentzelpark instand setzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Förderung von Klimaschutzprojekten - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Instandsetzung Fußweg Gosener Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Ersatzparkplätze für ehemaligen P&R Betriebsbahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Parkverbot für LKW in der Glienicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Halteverbot Glienicker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Elektroauto für Fahrzeugbestand des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2010/2011 - überwiesen
+- TOP 13.2: Benennung der im Bezirk Treptow-Köpenick zwischen Wendenschloßstraße und Segewaldweg gelegenen Nummernstraßen Straße 241 in "Am Marienhain" Straße 240 in "Marienhütter Weg" Straße 234 + 239 in "Bockmühlenweg" Straße 235 in "Zum Dahmeufer" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan 9-35 (''Magazine und Depots'') hier: - Auswertung der Beteiligung der Träger öffentlicher Belange - Teilung und Erweiterung des Geltungsbereiches - überwiesen
+- TOP 13.4: Bildung einer Arbeitsgruppe "Zuwendung Privater" (AG ZP) im Bezirksamt Treptow-Köpenick - überwiesen
+- TOP 13.5: Neuregelung von Raumüberlassung an Dritte im Bezirk Treptow-Köpenick - überwiesen
+- TOP 13.6: Prüfung der Liegenschaft "Alte Feuerwache", Michael-Brückner-Str. 9, 12439 Berlin, als Standort für die Mittelpunktbibliothek Treptow - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Vertreter der Berliner Bezirke bei der Europäischen Union - überwiesen
+- TOP 14.2: Schallschutzverordnung verbessern! - vertagt
+- TOP 14.3: Verkehrssicherheit Alemannenstraße zwischen Germanenstraße und Preußenstraße - überwiesen
+- TOP 14.4: FahrRat für Treptow-Köpenick - überwiesen
+- TOP 14.5: Sicherstellung der vorgegebenen Verkehrsraumprofile (Bereich Ecksteinweg/Sterndamm) - vertagt
+- TOP 14.6: Bearbeitung B-Plan 9-27 VE ("Rübezahl") - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Historisches Bahnhofsschild "Wilhelmshagen" - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Solaranlage in der Sportanlage Bruno-Bürgel-Weg 63 - überwiesen
+- TOP 14.9: König-Friedrich-Platz - überwiesen
+- TOP 14.10: Sammelbehälter für Leuchtstofflampen - überwiesen
+- TOP 14.11: Büste von Ernst Schneller - vertagt
+- TOP 14.12: Helmholtzkiez in Oberschöneweide und dessen Umgebung - überwiesen
+- TOP 14.13: Soziokulturelles Zentrum für Helmholtzkiez - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Entwicklung und Perspektiven der Fahrgastschifffahrt in Treptow-Köpenick - vertagt
