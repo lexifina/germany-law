@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-06-25T16:00:00+02:00
+- Ende: 2009-06-25T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZZVwFvhC-Zuq3WjydsuaQ04
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3555
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYZoY-Fg4tt-v4HIn_r2MTQRXdHpKd_AKmQi9PbKKSkO/Oeffentliche_Niederschrift_Rat_25.06.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Brücke Holunderweg
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Jahresabschluss zum 31.12.2008
+- TOP 5: Jahresabschluss zum 31.12.2008
+- TOP 6: Stadt-Sparkasse Solingen
+- TOP 7: Beteiligung der Stadt Solingen am ServiceCenter der Stadt Wuppertal
+- TOP 8: Beteiligung der Stadt Solingen am ServiceCenter der Stadt Wuppertal
+- TOP 9: Bestellung eines Geschäftsführers der städtischen Musikschule Solingen gGmbH
+- TOP 10: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 11: Mitschnitte von Ratssitzungen im Internet
+- TOP 12: Einbringung des Entwurfs der Eröffnungsbilanz der Stadt Solingen zum 01.01.2008
+- TOP 13: Sofortige Erstellung eines Nachtragshaushaltes für den Doppelhaushalt 2009/2010
+- TOP 14: Vorschlagslisten für die Berufung der ehrenamtlichen Richterinnen und Richter beim Sozialgericht Düsseldorf
+- TOP 15: Abschlussbericht Leitstellen-Kooperation Solingen-Wuppertal
+- TOP 16: Jahresabschluss 2008 und Lagebericht der Altenzentren der Stadt Solingen
+- TOP 17: Verlängerung der Geltungsdauer der sog. Biergartenverordnung
+- TOP 18: Bleiberecht für langjährig hier lebende geduldete Menschen
+- TOP 19: Kulturzentrum Cobra
+- TOP 20: Aktueller Sachstand Schloss Burg
+- TOP 21: Umsetzung Konjunkturpaket II
+- TOP 22: Bäderkonzept
+- TOP 23: Bäderkonzept
+- TOP 24: Ausbau des Klingenbades
+- TOP 25: Bäderlandschaft Solingen
+- TOP 26: Hallenbad Birkerstraße
+- TOP 27: Änderung der Gemeindegrenze im Rahmen des Flurbereinigungsverfahrens „Witzhelden-Wupperhänge“
+- TOP 28: Prüfung der Machbarkeit eines Breitbandkatasters
+- TOP 29: Verschiedenes
+- TOP 30: Gewerbesteuerzahlungen durch Solinger Betriebe
+- TOP 31: Maßnahmen des Konjunkturpaketes
+- TOP 32: Über- und außerplanmäßige Aufwendungen beim Rathausneubau
+- TOP 33: Bauleitplanung Cronenberger Straße/Konrad-Adenauer-Straße: Rathausneubau
+- TOP 34: Kita-Gebührenerstattung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Gesellschaftsangelegenheiten der Bergische Entwicklungsagentur GmbH
+- TOP 4: Altenzentren der Stadt Solingen
+- TOP 5: Kulturzentrum Cobra
+- TOP 6: Verschiedenes
