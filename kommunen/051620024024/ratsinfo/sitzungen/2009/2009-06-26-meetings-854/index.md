@@ -1,0 +1,81 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2009-06-26T16:00:00+02:00
+- Ende: 2009-06-26T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/854
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/854
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Installation des Frühwarnsystems für auffällige Kinder/Familien (RAT260609-07991.doc)
+- TOP 2: Abbau der Schwächen des (Versorgungs-) Nebenzentrums Reuschenberg (RAT260609-07995.doc)
+- TOP 3: Werkstattverfahren Jahnstadion (RAT260609-07989.doc)
+- TOP 4: Sportangebot für Schulen mit Ganztagsbetrieb (RAT260609-07985.doc)
+- TOP 5: Namensgebung für den Neubau auf dem Omnibusbahnhof (RAT260609-07993.doc)
+- TOP 6: Mitgliedschaft der Stadt Neuss im „Freundes- und Förderkreis der Mack-Kapelle Marianum Neuss“ (RAT260609-07992.doc)
+- TOP 7: InfraStruktur Neuss AöR – Sitzungsgeld Verwaltungsrat (BU HA180609-07936.doc)
+- TOP 8: Neue Richtlinien zur wirkungs- und bedarfsorientierten Integrationsförderung (IR030309-07445.doc)
+- TOP 9: Umsetzung des Nationalen Integrationsplans in der Stadt Neuss (IR260509-07850.doc)
+- TOP 10: Zukunft der Stadtwerke - Beteiligung eines strategischen Partners an den Stadtwerken Neuss Energie und Wasser GmbH
+- TOP 11: Einwohnerfragestunde
+- TOP 12: Genehmigung der Tagesordnung
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 15: Unterbringung des Theodor-Schwann-Kollegs (SCH140509-7801.doc)
+- TOP 16: Genehmigung einer überplanmäßigen Ausgabe für den Neubau eines Kunstrasenplatzes mit Trainingsbeleuchtungsanlage im Hubert-Schäfer-Sportpark Weissenberg (SP 030609-07732.doc)
+- TOP 17: Freiflächengestaltung Am Kehlturm / Hymgasse (ehemaliger Busbahnhof) - Planungsgrundsätze
+- TOP 18: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 19: Änderung der Hundesteuersatzung zum 1.1.2010
+- TOP 20: Bebauungsplan Nr. 169/12 - Grimlinghausen, Hüsenstraße - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 21: Konjunkturprogramm II (FA160609-07949.doc)
+- TOP 22: Kindertageseinrichtung „Allerheiligen B“ sowie Kinder- und Jugendzentrum Allerheiligen inkl. Bürgersaal (JHA 190509-07633.doc)
+- TOP 23: Bebauungsplan Nr. 464 - Stadionviertel, Erweiterung Bezirkssportanlage Stadtwald - - Entwurfsvorlage / Aufstellungsbeschluss / frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Bel
+- TOP 24: Ausbau der Bushaltestellen Nikolaus-Otto-Straße auf der Kaarster Straße (stadteinwärts und stadtauswärts) (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm- (BA170609-07771.doc)
+- TOP 25: Gewährung von Zuschüssen an die politischen Jugendorganisationen in 2009 (HA070509-07745.doc)
+- TOP 26: Radweg „Kurze Straße“ –Änderungsbeschluss- (Straßenbau, Beleuchtung) -Planvorlage, Ausbauprogramm- (BA170609-07834.doc)
+- TOP 27: Beschluss Einzelhandelskonzept Neuss
+- TOP 28: Bebauungsplan Nr. 201/3 - Stadionviertel, Maastrichter Straße / Eselspfad - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 29: Dienstreisegenehmigung für Stadtverordnete zur Expo Real in München 2009 (AWL230609-07946.doc)
+- TOP 30: Bebauungsplan Nr. 452 - Vogelsang, Niederdonker Weg - - Beschluss über die Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft
+- TOP 31: Flächennutzungsplanänderung Nr. 121 - Stadionviertel, Erweiterung Bezirkssportanlage Stadtwald - - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belang
+- TOP 32: Umbau der Bushaltestelle „Stephanusstraße“ auf der Stephanusstraße (Straßenbau) -Planvorlage, Ausbauprogramm- (BA020409-07550.doc)
+- TOP 33: Straßenverengungen Altebrücker Straße (Straßenbau) -Planvorlage, Ausbauprogramm- (BA020409-07547.doc)
+- TOP 34: Bebauungsplan Nr. 187/4 - Weckhoven, Franz-Leuninger-Straße - - Bericht über die frühzeitige Unterrichtung der Öffentlichkeit und die frühzeitige Beteiligung der Behörden und sonstigenTräger öffentlicher Belange - Auslegungsbeschluss
+- TOP 35: Verlegung der Bushaltestelle „Hahnenstraße“ auf der St.-Antonius-Straße (Straßenbau) -Planvorlage, Ausbauprogramm- (BA020409-07548.doc)
+- TOP 36: Gestaltung Uferpromenade Hafenbecken 1 mit Hafenkopf Neuss - Entwurfsvorlage
+- TOP 37: Radverkehrsanlagen Kaarster Straße zwischen Brücke und Brückerfeldstraße (Straßenbau, Markierung) - Planvorlage, Ausbauprogramm- (BA170609-07770.doc)
+- TOP 38: Familienzentren 2009/2010 (JHA190509-07629.doc)
+- TOP 39: Kindertageseinrichtung Am Hasenberg (JHA 190509-07792.doc)
+- TOP 40: Ausbau der Straße „Am Mühlenweg“ in Neuss, Allerheiligen, Baugebiet B (BPL 443) (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm- (BRS040609-07778.doc)
+- TOP 41: 6. Satzung zur Änderung der Satzung über die Nutzung der Obdachlosenunterkünfte der Stadt Neuss vom 12. November 1996 (SOZ270509-07720.doc)
+- TOP 42: Dienstreisegenehmigung für die Teilnahme an der Seniorenbegegnung im Rahmen der Städtepartnerschaft Rijeka-Neuss (RAT260609-07965.doc)
+- TOP 43: Flächennutzungsplanänderung Nr. 120 - Grefrath, Erweiterung Umfeld Skihalle - - Aufstellungsbeschluss - Auslegungsbeschluss
+- TOP 44: Entwicklung eines verbindlichen Leitbildes für die Bürgerbeteiligung in der Stadt Neuss (RAT260609-07900.doc)
+- TOP 45: Ausbauplanung Kinderspielplatzprogramm 2009 (UK 010409-07554.doc)
+- TOP 46: Bebauungsplan Nr. 461 - Allerheiligen, Illinghauser Hof - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 47: Beschlusscontrolling für Ausgleichsmaßnahmen im Planungsbereich (RAT260609-07963.doc)
+- TOP 48: Stundensätze in der Kindertagespflege (RAT260609-07967.doc)
+- TOP 49: Tagesbetreuung von Kindern – Fortschreibung der Bedarfsplanung (JHA190509-07563.doc)
+- TOP 50: Fortführung der Initiative „Kein Kind ohne Mahlzeit“ an den Neusser Schulen (RAT260609-07968.doc)
+- TOP 51: Schuljahresbezogene Förderung des Projekts „Elternarbeit“ des Arbeitskreises ProVier (JHA 190509-07701.doc)
+- TOP 52: Projekte der Jugendberufshilfe 2009 JHA190509-07709
+- TOP 53: Festsetzung der Tagesordnung: Vergabe eines Erbbaurechtes im Bereich der Skihalle (RAT260609-07976.doc)
+- TOP 54: Aufstellung d. Bürgerm. f. d. Jahr 2008 nach § 71 LBG gem. § 18 Abs. 2 KorruptionsbG Sachstand hins. der vom Bürgerm. eingelegten Rev. gegen das Urteil des OVG NRW v. 17.12.2008 wegen Abführung v. Einnahmen aus einer Beiratstätigkeit (RAT260609-7980.
+- TOP 55: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 56: NEUSSletter (RAT260609-07990.doc)
+- TOP 57: Kenntnisnahme üpl/apl Aufwendungen/Auszahlungen I/2009
+- TOP 58: Bericht aus Gesellschaften – hier Städtische Kliniken Lukaskrankenhaus GmbH: Aktuelle Situation und Perspektiven des Lukaskrankenhauses (RAT260609-07961.doc)
+- TOP 59: Prüfauftrag des Rates im Zusammenhang mit der Vergabe eines Erbbaurechtes im Bereich der Skihalle (RAT260609-07978.doc)
+- TOP 60: Kinder- und Jugendeinrichtung in Reuschenberg (RAT260609-07966.doc)
+- TOP 61: Videoüberwachung im öffentlichen Raum Initiative zur Änderung des Polizeigesetzes NRW (RAT260609-07979.doc)
+- TOP 62: Dezernatsverteilungsplan (RAT260609-07925)
+- TOP 63: Einwohnerfragestunde
+- TOP 64: „Wie und in welchem Maße verhindert ein Rheinbahn-Vertrag eine selbstbestimmte Neusser Innenstadt?“ (RAT260609-07977.doc)
+- TOP 65: EU-weite Ausschreibung von zwei Baufeldern in Neuss-Allerheiligen (AWL230609-07907.doc)
+- TOP 66: Konzept für ein städtisches Gebäudesanierungsprogramm (RAT260609-07964.doc)
+- TOP 67: Steigerung der Wahlbeteiligung bei den Kommunalwahlen (RAT260609-07975.doc)
