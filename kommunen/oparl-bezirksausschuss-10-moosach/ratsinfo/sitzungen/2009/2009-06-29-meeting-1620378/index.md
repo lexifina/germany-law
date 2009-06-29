@@ -1,0 +1,86 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-06-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620378
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620378
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verkehrsberuhigende Maßnahmen in der Saarlouiser Straße
+- TOP 2.2.: Verkehrssituation Dachauer - / Altomünster Straße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkproblematik im Umfeld des Memminger Platzes
+- TOP 3.2.: Ortstermin Feldmochinger Straße und Hardenbergstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Wertstoffcontainer
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Aufwertung Spielplatz Günzburger Platz
+- TOP 4.2.: Mehr Verkehrssicherheit an der Kreuzung Dachauer Straße Höhe Feldmochinger Straße
+- TOP 4.3.: Fußgängerquerung Dachauer Straße Höhe Leipziger Straße
+- TOP 4.4.: Vertretung des BA in Wettbewerben
+- TOP 4.5.: Wartehalle Moosacher Stachus
+- TOP 4.6.: Einwohnerversammlung für Jugendliche
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Nachbarschaftstreff Lauinger 23: Sommerfest am 03.07.09
+- TOP 5.2.: Wiederherstellung der öffentlichen Grünfläche an der Landshuter Allee / Moosacher Straße / Triebstraße
+- TOP 6: Anhörungen
+- TOP 6.1.: Straßenfest der Mietergemeinschaft Borstei am 25.07.2009
+- TOP 6.2.: Straßenfest Die Arche e.V. am 30.07.2009
+- TOP 6.3.: Spartenanfrage Baubergerstr. 40
+- TOP 6.4.: Neuer Mieterbeirat; Entsendung von Migliedern
+- TOP 6.5.: Vollzug der Baumschutzverordnung: 1. Glogauer Platz 4
+- TOP 6.6.: Ablehnung der Express-S-Bahn auf der S1-Trasse
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Müllbeseitigung entlang des Fahrrad- und Gehweges zwischen Moosanger und Weiherweg (kein Müll mehr vorhanden)
+- TOP 7.2.: Taxistandplatz Dachauer Straße 421 (wird um 10 Meter verkürzt)
+- TOP 7.3.: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen (Liste von Maßnahmen wird vorgeschlagen)
+- TOP 7.4.: Stellplätze Ehrenbreitsteiner Straße (10 Stellplätze sind ungebunden und werden anderweitig genutzt)
+- TOP 7.5.: Erweiterung des Programms "Hundetütenspender" (flächendeckende Versorgung nicht uimsetzbar, einzelne zusätzliche Spender möglich)
+- TOP 7.6.: Parkraummanagement Borstei; Ausnahmeregelung für gewerbliche Anlieger (Gebührenminderung nicht möglich)
+- TOP 7.7.: Sanierung bzw. Neubau der Bahnsteigdächer am Moosacher Bahnhof (Stellungnhahme der DB Station & Service)
+- TOP 7.8.: Obst - Gemüse - Südfrüchte - Verkaufsstand Bauberger - Bunzlauer - Dachauer Straße (Stand kann vorerst an alter Stelle stehen bleiben)
+- TOP 7.9.: Müllentsorgung im Kapuzinerhölzl (Frage der Zuständigkeit)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Statistik Entscheidungsrechte der BA
+- TOP 8.4.: Mäharbeiten des Straßenbegleitgrüns
+- TOP 8.5.: Nederlinger Straße / Allacher Straße (Straßenbauarbeiten)
+- TOP 8.6.: Verkehrsrechtliche Anordnung Postillonstraße Südseite / Parklizenzgebiet "Borstei"
+- TOP 8.7.: Verbesserung der Schienenanbindung des Flughafens München
+- TOP 8.8.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009 - 2013
+- TOP 8.9.: Krähen in München
+- TOP 8.10.: Mehrjahresinvestitionsprogramm des Planungsreferates
+- TOP 8.11.: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum? (Stadtratsantrag)
+- TOP 8.12.: Öffnung der Dieselstraße zwischen Henckystraße und Riesstraße für den gegenläufigen Radverkehr
+- TOP 8.13.: Öffnung des einbahngeregelten Abschnitts der Eggmühler Straße zwischen Moosburger Straße und Eininger Straße für den gegenläufigen Radverkehr
+- TOP 8.14.: Erwerb eine Grundstückes an der Triebstraße für den Straßenausbau
+- TOP 8.15.: Radverkehr in München
+- TOP 8.16.: Kanalsanierung in Moosach und Nederling
+- TOP 8.17.: Kommunales Wohnungsbauförderprogramm; Ausschreibung von Grundstücken
+- TOP 8.18.: Fällungsgenehmigung Welzenbachstraße 11
+- TOP 8.19.: Kanalbau Melitta-Bentz-Straße
+- TOP 8.20.: Neuer Mieterbeirat
+- TOP 8.21.: 2. S-Bahn-Stammstrecke München (geänderter Beschluss)
+- TOP 8.22.: Veranstaltungen des Kulturreferates
+- TOP 8.23.: Errichtung von acht Minispielfeldern im Stadtgebiet
+- TOP 8.24.: Haltestellen der Stadtrundfahrtslinien der Münchner Stadtrundfahrten oHG
+- TOP 8.25.: Bebauungsplan mit Grünordnung Nr. 1616 b (Brieger Straße)
+- TOP 8.26.: Kreuzungsumbau Allacher Straße / Wintrichring
+- TOP 8.27.: Mehrjahresinvestitionsprogramm des Schulreferates
+- TOP 8.28.: Mehrjahresinvestitionsprogramm des Sozialreferates
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
