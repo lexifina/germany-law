@@ -1,0 +1,92 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-06-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631669
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631669
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 - Antrag auf Genehmigung einer Freischankfläche an der Berg-am-Laim-Straße 59
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Truderinger Str. 134 - Neubau einer Wohnanlage mit Tiefgarage
+- TOP 3.1.2.1.: Ampfingstraße - Bürgerschreiben bzgl. Parkraummanagement und Umweltzone - <div></div>
+- TOP 3.1.2.2.: St.-Veit-Straße - Situierung der Litfaßsäule - Bürgerschreiben - <div></div>
+- TOP 3.1.2.3.: Taktanpassung der Buslinie 185 - Bürgerschreiben - <div></div>
+- TOP 3.1.2.4.: Zeitablauf der Neugestaltung der Baumkirchner Straße
+- TOP 3.2.1.: Anfrage wegen eines Stadtteilfestes in Berg am Laim im Jahr 2011
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Neuer Mieterbeirat - Entsendung von Mitgliedern
+- TOP 3.5.1.: Buchprojekt Else Rosenfeld - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.7.1.: Berg-am-Laim-Straße 71 - 73 - Antrag auf Baumfällungen
+- TOP 3.7.2.: Praschlerstraße 57 - Antrag auf Baumfällungen
+- TOP 3.7.3.: Anzinger Straße 41 - Antrag auf Baumfällungen
+- TOP 3.7.4.: Kraiburger Straße 6 - Antrag auf Baumfällungen
+- TOP 3.7.5.: Kranzhornstraße 4 - Antrag auf Baumfällungen
+- TOP 3.7.6.: Hochfellnstr. 11 - Antrag auf Baumfällungen
+- TOP 3.7.7.: Josephsburgstr. 184 - Antrag auf Baumfällungen
+- TOP 3.7.8.: Krumbadstraße - Freiflächengestaltungsplan zu einer 4-geschossigen Wohnanlage
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Kommunales Wohnungsbauförderungsprogramm - Ausschreibung von Grundstücken
+- TOP 4.1.1.3.: Bebauungsplan mit Grünordnung Nr. 2033 - Seebrucker Straße (beiderseits), Kreillerstraße (nördlich), Hansjakobstraße (südlich) - Beteiligung der Öffentlichkeit -
+- TOP 4.1.1.4.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013 Investitionsvorhaben des Planungsreferates
+- TOP 4.1.1.5.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009 - 2013
+- TOP 4.1.1.6.: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum?
+- TOP 4.1.1.7.: Truderinger Straße 134 - Abbruchanzeige
+- TOP 4.1.1.8.: Grafinger Straße 6 - "New York Tabledance" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.9.: Grafinger Straße 6 - "Bamboo Beach" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.10.: Gotteszeller Str. 2 - "Kardelen" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.11.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Str. (westlich) - Bahnlinie München ? Rosenheim (südlich) a)Grundsatzbeschluss b)Durchführung eines städtebaulichen und landschaftsplanerischen Ideenwettbewerbs
+- TOP 4.1.2.1.: Verkehrsführung vom Innsbrucker Ring in die Bad-Schachener-Straße, direkte Linksabbiegemöglichkeit; Antwortschreiben des Bezirksausschuss 16 - Ramersdorf-Perlach
+- TOP 4.1.2.2.: Beschilderung des Zufahrtsbereichs der Kinderkrippe an der Grafinger Straße
+- TOP 4.1.2.3.: Parkplatz für den Kindergarten an der Hachinger-Bach-Straße
+- TOP 4.1.2.4.: Behrpark - Theateraufführungen Bürgerkreis Berg am Laim
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Erweiterung, Umbau und Sanierung der Grundschule an der Grafinger Str. 71 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag 3. Änderung des Entwurfs des MIP 2009 - 2013
+- TOP 4.3.2.: Mehrjahresinvestitionsprogramm 2009 - 2013 - Investitionsmaßnahmen Schulreferat
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Anerkennung von Plätzen in der Kindertageseinrichtung Baumkirchner Straße 26
+- TOP 4.4.2.: "Daheim in München" - Bezirksausschüsse in geplante Aktivitäten einbeziehen
+- TOP 4.4.3.: Protokoll zum 3. Treffen der Frauen- und Genderbeauftragten der BA`s am 19.05.2009
+- TOP 4.4.4.: "Netzwerk am Isareck" - Intergeneratives Pilotprojekt gefördert durch "Soziale Stadt"
+- TOP 4.5.1.: Kinderfest St. Pius - Kurzbericht des Antragstellers nach Durchführung
+- TOP 4.5.2.: Budget der Bezirksausschüsse - Zuwendungen an Freiwillige Feuerwehren in München für Ausrüstungsgegenstände
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
