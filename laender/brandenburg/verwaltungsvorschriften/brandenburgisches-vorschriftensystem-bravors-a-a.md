@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2009-06-16 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/eignungsgebiete_2009
+- Datum: 2009-07-01 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/vv_kataster_1999
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,41 +26,111 @@ A |
 |
 
 Aktuelle Fassung
+Änderungshistorie
 
-Hinweise an die Regionalen Planungsgemeinschaften zur Festlegung von Eignungsgebieten "Windenergie"
+Verwaltungsvorschriften für das Liegenschaftskataster
 
-vom 16. Juni 2009
+vom 23. Juni 1999
 
-(ABl./09, [Nr. 25], S.1227)
+(ABl./99, [Nr. 29], S.606)
 
-I. Allgemeines
+zuletzt geändert durch Fortführungsentscheidungsvorschrift vom 1. Juli 2009
 
-Das Land Brandenburg hat sich mit der Energiestrategie 2020 und im Maßnahmekatalog zum Klimaschutz und zur Anpassung an die Folgen des Klimawandels zum Ausbau der regenerativen Energien bekannt. Bis zum Jahre 2020 sollen diese einen Anteil von 20 Prozent am Primärenergieverbrauch des Landes haben. Neben der verstärkten Nutzung der Biomasse- und Solarenergie soll dieses Ziel insbesondere durch den Ausbau der Windenergie erreicht werden.
+(ABl./20, [Nr. 47], S.1141)
 
-Die derzeit installierte elektrische Leistung von rund 3 700 MW mit 2 644 Anlagen (Stand 31. Dezember 2008) soll bis 2020 auf 7 500 MW beziehungsweise 55 PJ Windstrom ausgebaut werden. Dies soll sowohl durch Repowering als auch durch Ausweisung neuer Eignungsgebiete erreicht werden. Insgesamt 555 km2, das entspricht rund 1,9 Prozent der Landesfläche, werden zur Realisierung der Ausbauziele benötigt.
+Hinweis: Die Liegenschaftsvermessungsvorschrift vom 8. Juni 1999 (ABl. S. 606) ist durch die Liegenschaftsvermessungsvorschrift vom 1. Juli 2009 am 30. Juni 2009 außer Kraft getreten.
 
-Um schutzwürdige Interessen der Bevölkerung und der Umwelt mit dieser Art der Ressourcen schonenden Energiegewinnung in Einklang zu bringen, ist die Konzentration der Anlagen auf möglichst konfliktreduzierte Standorte notwendig. Dabei kommt insbesondere der Regionalplanung die Aufgabe zu, die Windenergienutzung raum- und umweltverträglich zu steuern. Für diesen Planungsprozess soll der Erlass eine Hilfestellung geben.
+1.
 
-II. Hinweise für die Regionalplanung
+Verwaltungsvorschrift zur  Durchführung von Liegenschaftsvermessungen
 
-1 Eignungsgebiete
+(Liegenschaftsvermessungsvorschrift - VVLiegVerm), III/2, Nr. 1/1999
 
-Regionalpläne können Eignungsgebiete für die Windenergienutzung ausweisen, um die in § 35 Absatz 3 Satz 3 des Baugesetzbuches angelegte Konzentrationswirkung zu erreichen. Dies sind Gebiete, die für die Errichtung raumbedeutsamer Windenergieanlagen geeignet sind. Raumbedeutsame Windenergieanlagen sind in diesen Gebieten zu konzentrieren.
+Vom 8. Juni 1999
 
-2 Voraussetzungen
+Liegenschaftsvermessungen sind spätestens ein Jahr nach örtlicher Funktionsfähigkeit des Satellitenpositionierungsdienstes der deutschen Landesvermessung (SAPOS®) auf das amtliche Bezugssystem der Lage zu beziehen. Die Funktionsfähigkeit und die Reichweite der GPS-Referenzstationen werden bekannt gegeben.
 
-a) Abwägung
+Werden Liegenschaftsvermessungen auf das amtliche Bezugssystem der Lage bezogen, sind die Punktdaten im Format der Einheitlichen Datenbankschnittstelle (EDBS) einzureichen. Sofern Grundrissdaten zur Übernahme eingereicht werden, sind diese im Format der EDBS und in der Datenstruktur gemäß Objektschlüsselkatalog Liegenschaftskataster Brandenburg (OSKA-LIKA Bbg) und Objektabbildungskatalog Liegenschaftskataster Brandenburg (OBAK-LIKA Bbg) aufzubereiten.
 
-Die Voraussetzungen für eine solche Planung liegen vor, wenn auf der Grundlage einer Untersuchung des gesamten Plangebietes ein schlüssiges Plankonzept erarbeitet wurde. Sollen Eignungsgebiete ausgewiesen werden, muss der Planungsträger die Anforderungen des Abwägungsgebots erfüllen. Die Planungsentscheidung muss nicht nur Auskunft darüber geben, von welchen Erwägungen die positive Eignungszuweisung für die Windenergienutzung innerhalb der Eignungsgebiete getragen wird, sondern vor allem deutlich machen, welche Gründe es rechtfertigen, den übrigen Planungsraum von Windenergieanlagen freizuhalten. In die Abwägung müssen alle öffentlichen und privaten Belange einfließen, die auf der Ebene der Regionalplanung erkennbar und von Bedeutung sind. Dabei sind alle planungserheblichen Belange, also nicht nur die Belange des Klimaschutzes und der Ausbauziele für regenerative Energien zu berücksichtigen, sondern insbesondere auch die Belange des Schutzes der Menschen und von Natur und Landschaft. Dem Träger der Planung kommt dabei die Aufgabe zu, einen möglichst gerechten Ausgleich der unterschiedlichen Interessen und Anforderungen an den Raum herbeizuführen und in diesem Sinne eine ausgewogene Planungsentscheidung zu treffen.
+Die VV tritt mit dieser Veröffentlichung im Amtsblatt in Kraft.
 
-b) Kriteriengerüst
+Die Liegenschaftsvermessungsvorschrift ist als Sonderdruck beim Landesvermessungsamt des Landes Brandenburg, Kartenvertrieb, Robert-Havemann-Str. 7, 15236 Frankfurt (Oder), Telefon (03 35) 55 82-7 00 gegen ein Entgelt von 20 Deutsche Mark zu beziehen.
 
-Das erforderliche Gesamtkonzept ist durch die Regionale Planungsgemeinschaft auf der Grundlage eines Kriteriengerüstes zu entwickeln. Dabei sind die Einzelkriterien am konkreten Einzelfall zu spiegeln. Die Kriterien ersetzen nicht die Auseinandersetzung mit dem Einzelfall. Von ihnen kann abgewichen werden, wenn die jeweils gegebene Raumstruktursituation dies rechtfertigt oder erfordert. In dieser Weise kann mit pauschalen Abstandswerten zu den verschiedenen Schutzgütern als Kriterium gearbeitet werden. Die Kriterien sind dabei aus fachlichen und/oder rechtlichen Argumenten objektiv nachvollziehbar herzuleiten und zu begründen.
+Mit In-Kraft-Treten der Liegenschaftsvermessungsvorschrift treten nachfolgende Runderlasse außer Kraft:
 
-c) Abstand zur Siedlungsnutzung
 
-Bei der Abgrenzung der Eignungsgebiete kann der Kriterienkatalog zum Schutz der Menschen pauschale Abstände zu Wohnsiedlungen aufnehmen. Es wird empfohlen, von einem Abstand von 1000 Metern zu vorhandenen oder geplanten, gemäß §§ 3 bis 7 der Baunutzungsverordnung dem Wohnen dienenden Gebieten auszugehen. Die Abstände können je nach Lage des Einzelfalls verringert oder vergrößert werden. Bei Einzelhäusern und Splittersiedlungen können auch geringere Abstände gerechtfertigt sein.
+Einrichtung einer zentralen Stelle für die Prüfung und Übernahme von Liegenschaftsvermessungen in das Liegenschaftskataster vom 4. August 1992, - III/6-1510 - ,
 
-Zu berücksichtigen ist auch die Schutzbedürftigkeit eines Baugebietes. Bei besonders empfindlichen Nutzungen, zum Beispiel bei Kur- und Klinikgebieten, kann dieser Abstand größer sein, bei weniger empfindlichen Nutzungen, zum Beispiel Gewerbe- oder Industriegebieten, geringer.
+Rechts- und Verwaltungsvorschriften zur Berufsausübung vom 6. November 1992,  Runderlass III Nr. 102/1992,
 
-Grundsätzlich kann ein Abstand zur Wohnbebauung aus dem Vorsorgegrundsatz abgeleitet werden. Die Vorsorge kann dabei auf Aspekte des vorbeugenden Immissionsschutzes, der Bedrängungswirkung, der Berücksichtigung von räumlichen Entwicklungs- und Gestaltungsmöglichkeiten der Gemeinden, etwa in den Blick genommene Entwicklung von potenziellen Siedlungserweiterungsflächen usw., abstellen. Auch die Tendenzen der technischen Entwicklung, zum Beispiel eine deutliche Zunahme der Anlagenhöhe, darf im Sinne eines vorsorgenden Planungsansatzes Berücksichtigung finden, insbesondere dann, wenn zum Zeitpunkt der Planaufstellung keine konkreten Planungen für das Einzelgebiet bekannt sind. Außerdem sind weitere Vorbelastungen in einem Raum zu berücksichtigen und können sich auf die Grenzziehung des Eignungsgebietes auswirken. Es bedarf jedoch immer der nachvollziehbaren Betrachtung des Einzelfalls durch den Planträger.
+Richtlinien für die kataster- und vermessungstechnische Bearbeitung von Verfahren der Vermögenszuordnung durch Bescheid mit Zuordnungsplan vom 14. Juli 1993, Runderlass III Nr. 60/1993, ABl. S. 1386,
+
+Sonderung nach einem Ausführungsplan vom 31. Mai 1994, Runderlass Nr. 54/1994,
+
+Verfahrensvorschriften zur Gebäudeeinmessung vom 1. Dezember 1994, Runderlass III Nr. 90/1994, ABl. S. 1714,
+
+Verfahrensvorschriften für Liegenschaftsvermessungen aus Nordrhein-Westfalen, die mit Erlass vom 7. August 1991 - III/6-8120 - sinngemäß anzuwenden waren und
+
+ergänzende und erläuternde Regelungen aus den in Form von Runderlassen bekannt gegebenen Dienstbesprechungen zu den mit Erlass vom 7. August 1991 - III/6-8120 - sinngemäß anzuwendenden Verfahrensvorschriften für Liegenschaftsvermessungen aus Nordrhein-Westfalen.
+
+2.
+
+Zeichenvorschrift für Vermessungsrisse
+
+(ZV-Riss), III/2, Nr. 2/1999
+
+Vom 7. Juni 1999
+
+Die ZV-Riss tritt mit dieser Veröffentlichung im Amtsblatt in Kraft.
+
+Die ZV-Riss ist als Sonderdruck beim Landesvermessungsamt des Landes Brandenburg, Kartenvertrieb, Robert-Havemann-Str. 7, 15236 Frankfurt (Oder), Telefon (03 35) 55 82-7 00 gegen ein Entgelt von 10 Deutsche Mark zu beziehen.
+
+Mit In-Kraft-Treten dieser VV treten nachfolgende Rund-erlasse außer Kraft:
+
+
+Die Zeichenvorschrift für Vermessungsrisse in Nordrhein-Westfalen - Zeichenvorschrift - Riss NRW - (ZV-Riss) - III C 4-7120 -, die mit Erlass vom 7. August 1991 - III/6-8120 - sinngemäß anzuwenden war, und
+
+ergänzende und erläuternde Regelungen aus den in Form von Runderlassen bekannt gegebenen Dienstbesprechungen zu den mit Erlass vom 7. August 1991 - III/6-8120 - sinngemäß anzuwendenden Verfahrensvorschriften für Liegenschaftsvermessungen aus Nordrhein-Westfalen.
+
+Hinweis: Die Zeichenvorschrift Liegenschaftskarte Brandenburg vom 7. Juni 1999 (ABl. S. 607) ist durch den Erlass 1/2008 vom 18. Januar 2008 am 17. Januar 2008 außer Kraft getreten.
+
+3.
+
+Zeichenvorschrift Liegenschaftskarte Brandenburg
+
+(ZV-Karte Bbg), III/3, Nr. 11/1999
+
+Vom 7. Juni 1999
+
+Zur einheitlichen Darstellung der Kartenzeichen, Signaturen und Beschriftungen in der Liegenschaftskarte wird die ZV-Karte Bbg als Teil C der Richtlinien für die Einrichtung der Automatisierten Liegenschaftskarte in Brandenburg (ALK-Richtlinien) erstmals eingeführt. Der Teil A (OSKA-LIKA Bbg), der Teil B (OBAK-LIKA Bbg) und der Teil D (ALK-Datenerfassungsrichtlinien) der ALK-Richtlinien wurden überarbeitet.
+
+Vom Landesvermessungsamt Brandenburg ist eine Musterkarte im Maßstab 1 : 1000 zu erstellen. Darüber hinaus sind die Referenzdateien der ALK zu überarbeiten.
+
+Die ZV-Karte Bbg und die überarbeiteten Teile A, B und D treten mit dieser Veröffentlichung im Amtsblatt in Kraft.
+
+Die ZV-Karte Bbg und die überarbeiteten Teile A, B und D sind beim Landesvermessungsamt des Landes Brandenburg, Kartenvertrieb, Robert-Havemann-Str. 7, 15236 Frankfurt (Oder), Telefon (03 35) 55 82-7 00 zu beziehen. Für die ZV-Karte Bbg ist ein Entgelt von 12 Deutsche Mark und für die Austauschblätter der überarbeiteten Teile der ALK-Richtlinien ein Entgelt von 5 Deutsche Mark zu entrichten.
+
+Mit In-Kraft-Treten dieser VV treten nachfolgende Runderlasse außer Kraft:
+
+
+Die Vorschriften für das automatisierte Zeichnen der Liegenschaftskarte in Nordrhein-Westfalen - Zeichenvorschrift-Aut NRW - (ZV-Aut) - III C 3-7118 -, die mit Erlass vom 7. August 1991 - III/6-8120 - sinngemäß anzuwenden waren, und
+
+ergänzende und erläuternde Regelungen aus den in Form von Runderlassen bekannt gegebenen Dienstbesprechungen zu den mit Erlass vom 7. August 1991 - III/6-8120 - sinngemäß anzuwendenden Verfahrensvorschriften für Liegenschaftsvermessungen aus Nordrhein-Westfalen.
+
+Hinweis: Die Fortführungsentscheidungsvorschrift vom 8. Juni 1999 (ABl. S. 607) ist durch den Erlass 1/2008 vom 18. Januar 2008 am 17. Januar 2008 außer Kraft getreten.
+
+4.
+
+Verwaltungsvorschrift zur Qualitätskontrolle bei der Fortführungsentscheidung
+
+(Fortführungsentscheidungsvorschrift - VVFortEnt), III/2, Nr. 3/1999
+
+Vom 8. Juni 1999
+
+Zur Sicherstellung der Qualität der Bestandsdaten und Katasterakten des Liegenschaftskatasters im Zusammenhang mit der Fortführungsentscheidung der Katasterbehörden über die Vermessungsschriften wird die VV eingeführt.
+
+Die Ergebnisse der Liegenschaftsvermessungen sind grundsätzlich in den Punkt- und Grundrissnachweis der Automatisierten Liegenschaftskarte zu übernehmen.
+
+Sie tritt mit dieser Veröffentlichung im Amtsblatt in Kraft.
+
+Die VVFortEnt ist als Sonderdruck beim Landesvermessungsamt des Landes Brandenburg, Kartenvertrieb, Robert-Havemann-Str. 7, 15236 Frankfurt (Oder), Telefon (03 35) 55 82-7 00 gegen ein Entgelt von 5 Deutsche Mark zu beziehen.
