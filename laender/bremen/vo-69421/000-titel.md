@@ -1,1 +1,1 @@
-# Verordnung über die Regelsätze der Sozialhilfe vom 10. Juni 2008
+# Verordnung über die Regelsätze der Sozialhilfe vom 16. Juni 2009

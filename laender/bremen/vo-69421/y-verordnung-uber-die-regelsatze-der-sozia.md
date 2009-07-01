@@ -1,2 +1,3 @@
-# Verordnung über die Regelsätze der Sozialhilfe vom 10. Juni 2008
-V aufgeh. durch § 2 Satz 2 der Verordnung vom 16. Juni 2009 (Brem. GBl. S. 202)
+# Verordnung über die Regelsätze der Sozialhilfe vom 16. Juni 2009
+V aufgeh. durch Artikel 2 i.V.m. Artikel 4 Abs. 2 des Gesetzes vom 17. Juli 2012 (Brem.GBl. S. 353)
+Einzelansicht Seitenanfang
