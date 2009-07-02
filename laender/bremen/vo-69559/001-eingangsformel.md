@@ -1,3 +1,2 @@
 # Eingangsformel
-Auf Grund des § 9 des Bremischen Ladenschlussgesetzes vom 22. März 2007 (Brem.GBI. S. 221) verordnet der Senat:
-Einzelansicht Seitenanfang
+Aufgrund des § 9 Absatz 3 des Bremischen Ladenschlussgesetzes vom 22. März 2007 (Brem.GBl. S. 221), geändert durch Gesetz vom 23. Juni 2009 (Brem.GBl. S. 207), verordnet der Senat:
