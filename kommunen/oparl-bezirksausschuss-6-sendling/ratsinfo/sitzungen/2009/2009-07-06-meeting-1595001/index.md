@@ -1,0 +1,58 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-07-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1595001
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1595001
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Neuer Mieterbeirat, Vorschläge des Bezirksausschusses
+- TOP 3.2.: BewohnerInnen-Fest Karwendelstr. am 25.09.2009
+- TOP 3.3.: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen
+- TOP 4: Schulreferat
+- TOP 4.1.: Baukostenzuschuss Kindergarten Valleystraße 22
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Verkehrsprobleme am Containerstandort Pullacher Platz / Ludwig-Kraft-Str., am Radweg zwischen Pullacher Platz und Thalkirchner Str., sowie an der Ein- / Ausfahrt des Wertstoffhofes Thalkirchner Straße
+- TOP 6.2.: Verbesserungsvorschläge für die Verkehrssituation in der Lindenschmitstraße
+- TOP 6.3.: Fernwärmebauvorhaben; Sperrung der Schäftlarnstraße zwischen Brudermühlstr. und Urbanstr. (KW 31 - 38)
+- TOP 6.4.: Stadtradeln - Unsere Stadt fährt Rad
+- TOP 6.5.: Meldeliste Bauvorhaben SWM
+- TOP 6.6.: Standortgenehmigung für Parkscheinautomaten
+- TOP 7.1.: Budgetantrag Initiative "Kunst in Sendling", Maßnahme "offene Ateliers ab Oktober 2009"; ? 8160,46
+- TOP 7.2.: Budgetantrag Himmelfahrtskirche, 2. Sendlinger Orgelnacht am 30.10.2009; ? 3130,-
+- TOP 7.3.: Budgetantrag Himmelfahrtskirche, Konzertreihe im November und Dezember 2009; ? 1050,-
+- TOP 7.4.: Budgetantrag Himmelfahrtskirche, Konzert am 22.11.2009; ? 2630,-
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Heinricht-Stieglitz-Kehre 27
+- TOP 8.3.: Bauvorhaben Bleyerstraße 6
+- TOP 8.4.: Bauvorhaben Thalkirchner Str. 129
+- TOP 8.5.: Wohnen in München IV
+- TOP 8.6.: Perspektive München
+- TOP 8.7.: Gewerbeflächenentwicklung
+- TOP 8.8.: Bauvorhaben Neubau Kindergarten und Pfarrheim St. Korbinian;Einplanung von Kinderkrippenplätzen
+- TOP 9: Baureferat
+- TOP 9.1.: Anfrage zum Stand der Planung zur Neugestaltung der Grünanlage zwischen Margaretenkirche und Plinganserstraße bzw. zur derzeitigen Baustelleinrichtung
+- TOP 9.2.: Umgestaltung des Platzes Am Harras; Projektgenehmigung
+- TOP 9.3.: Grünstreifen am REWE-Markt Alramstraße / Aberlestraße
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Dietramszeller Platz 2
+- TOP 10.2.: Baumfällung Dreimühlenstraße 42
+- TOP 10.3.: Baumfällung Schäftlarnstraße
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Die Markthallen in Sendling
+- TOP 13: Verschiedenes
+- TOP 13.1.: Benennung der Grünfläche an der Einmündung der Dietramszeller Straße in die Bruderhofstraße nach Sigi Sommer
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
