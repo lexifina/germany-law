@@ -1,0 +1,8 @@
+# TOP 4.1: Bürgerschaftliches Engagement in und für Mitte fördern (I): Unterstützung der Stiftung "Gute Tat"
+
+- Sitzung: 28. öffentliche Sitzung des Ausschusses für Wirtschaft und Arbeit (2009-07-06)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=39899
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=39899
