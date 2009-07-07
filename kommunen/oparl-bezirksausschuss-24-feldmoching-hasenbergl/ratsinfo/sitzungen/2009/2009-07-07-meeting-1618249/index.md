@@ -1,0 +1,81 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-07-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618249
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618249
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmung einer Teilstrecke der Röhrichtstraße (vertagt in der Sitzung am 02.06.2009)
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Pro Migrakunst; Interkultureller Tanzkurs ab 04.10.2009
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Evangelisches Hilfswerk München Teestube "komm"-Streetwork; Hinterhoffest am 14.08.2009
+- TOP 2.4.: Öffentliche Grünanlage Pappelallee/Blausternweg im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: DLRG OV München-Mitte e.V.; Innenausstattung der neuen Wasserrettungsstation
+- TOP 6: (E) Einrichtung einer besseren Servicestelle der Deutschen Post in der Lerchenau
+- TOP 7: (E) Überlassung eines städtischen Grundstücks zwecks Bürgergarten Empfehlung Nr. 08-14 / E 00231 der Bürgerversammlung des Stadtbezirks 24, Feldmoching-Hasenbergl vom 26.03.2009
+- TOP 7.8.: Projektname: Auf den Schrederwiesen - Umbau der Wendeschleife
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Antrag wurde zurückgezogen
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Neuer Mieterbeirat Entsendung von Mitgliedern
+- TOP 5.2.: Engstelle Trollblumenstraße zwischen Borsigstraße und Maiglöckchenweg
+- TOP 5.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2010
+- TOP 5.4.: Ausführung des Durchstichs zwischen Am Schnepfenweg und Am Blütenanger als verkehrsberuhigter Bereich Empfehlung Nr. 08-14 / E 00052 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 24.06.2008
+- TOP 5.5.: Ablehnung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus Empfehlung Nr. 08-14 / E 00243 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 26.03.2009
+- TOP 5.6.: Gemeinde Karlsfeld Bebauungsplan Nr. 100 Flächennutzungsplan - Änderung Nr.
+- TOP 5.7.: Gemeinde Oberschleißheim Bebauungsplan Nr. 2a "Gewerbegebiet östlich der ST 2342"
+- TOP 5.8.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Dülferstr. 69 b) Heppstr. 8
+- TOP 5.9.: Vollzug der Baumschutzverordnung: a) Max-Wönner-Str. 35 b) Toni-Pfülf-Str. 57 - 77 c) Dülferstr. 110
+- TOP 5.10.: Veranstaltung auf einer städtischen Grünanlage: "Sound of Hasenbergl" auf dem Goldschmiedplatz am 18.07.2009
+- TOP 5.11.: Erinnerungsverfahren Projektname: Niederalteicherstr. 4 - 4e
+- TOP 5.12.: Tausch einer städtischen Immobilie: Heidelerchenstraße 23 (Gartengrundstück ohne Bebauung)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Kenntlichmachung der Stadtbezirksteile des 24. Stadtbezirkes Feldmoching - Hasenbergl durch Beschilderung (BA-Antrags-Nr. 08-14 / B 01125 vom 05.05.2009)
+- TOP 6.2.: Errichtung eines Naturkindergartens in Elterninitiative in der Fasanerie (BA-Antrags-Nr. 08-14 / B 01120 vom 05.05.2009)
+- TOP 6.3.: Sanierung der Langenpreisinger Straße im Bereich zwischen Dülferstraße und Bernhardstraße (BA-Antrags-Nr. 08-14 / B 00953 vom 03.03.2009)
+- TOP 6.4.: Verbesserung der Schienenanbindung des Flughafens München a) Sach- und Planungsstand, weiteres Vorgehen - MünchenAirportExpress (MExpress) - Gutachten zur Flughafenanbindung München - Flughafen-Express-Light (FEL) auf der Trasse der S1 - Erdinger Ringschluss b) Anträge (Anträge des Bezirksausschusses des Stadtbezirkes 24: - BA-Antrags-Nr. 08-14 / B 00831 vom 03.02.2009 - BA-Antrags-Nr. 08-14 / B 01028 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01029 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01033 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01035 vom 31.03.2009 - BA-Antrags-Nr. 08-14 / B 01054 vom 31.03.2009) (geänderter Beschluss)
+- TOP 6.5.: Einmündung Borsigstraße / Trollblumenstraße
+- TOP 6.6.: Ausgleichsfläche an der Trollblumenstraße
+- TOP 6.7.: Betriebsgebäude Granatstr. 10; TSV Ludwigsfeld
+- TOP 6.8.: Verlaufsdaten Kinderbetreuungsplätze
+- TOP 6.9.: Einkaufsmöglichkeiten im Wohngebiet Lerchenauer See
+- TOP 6.10.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; Straßenfest im Rahmen der Stadtteilkulturwoche am 04.07.2009 in der Stösserstr./Wintersteinstr. Vorabzustimmung
+- TOP 6.11.: Taxistandplatz Fasanerie Bahnhof (Feldmochinger Ecke Himmelschlüsselstraße); Neueinrichtung
+- TOP 6.12.: Arbeiten im Straßenraum a) Feldmochinger Straße zwischen südlich Bahnübergang Fasanerie und südwestlich Einmündung Himmelschlüsselstraße - Fahrtrichtung stadteinwärts (Umbau Geh- und Radweg und Fahrbahnsanierung) b) Feldmochinger Straße/Himmelschlüsselstraße (Kreuzungsumbau)
+- TOP 6.13.: Entscheidungsrechte BA; Erfahrungsaustausch mit den BA-Vorsitzenden am 07.05.2009
+- TOP 6.14.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Opalstr. 10 - 16 b) Schwarzhölzlstraße c) Hainbuchenstr. 4
+- TOP 6.15.: Vollzug der Baumschutzverordnung: a) Am Blütenanger 54 e b) Herbergstr. 61 c) Diamantstr. 1 - 23 u. a.
+- TOP 6.16.: Meldelisten Baumfällungsanträge
+- TOP 6.17.: Meldelisten Bauvorhaben
+- TOP 6.18.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.19.: Baumaßnahmen der SWM a) Stromprojekt Göttnerstraße b) Stromprojekt Joseph-Seifried-Straße
+- TOP 6.20.: Umbau des Kreuzungsbereiches Aschenbrennerstraße / Schleißheimer Straße
+- TOP 6.21.: Ordnungsgemäße Herstellung der Pappelallee
+- TOP 6.22.: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen (Antrag-Nr. 08-14 / B 00795 des Bezirksausschusses des 10 Stadtbezirkes vom 19.01.2009)
+- TOP 6.23.: Kommunales Wohnungsbauförderprogramm Ausschreibung von Grundstücken
+- TOP 6.24.: Neuer Mieterbeirat
+- TOP 6.25.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.26.: Errichtung von acht Minispielfeldern im Stadtgebiet Kooperation mit dem Deutschen Fußball-Bund e.V.
+- TOP 6.27.: Mehrjahresinvestitionsprogramm (MIP) 2009 - 2013 1. Investitionsmaßnahmen für Schulen Kindertageseinrichtungen und Sportanlagen 2. verfahrenstechnische Neuerungen 3. Stellungnahmen der Bezirksausschüsse
+- TOP 6.28.: Karlsfelder Straße zwischen Schwabenbächl und Achatstraße im 24. Stadtbezirk Feldmoching - Hasenbergl
+- TOP 6.29.: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 11, 16, 21 und 24
+- TOP 6.30.: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum ?
+- TOP 6.31.: Gewerbeflächenentwicklung Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München
+- TOP 6.32.: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes- Schwerpunkt Nahversorgung
+- TOP 6.33.: PERSPEKTIVE MÜNCHEN - Fortschreibungskonzept
+- TOP 6.34.: PERSPEKTIVE MÜNCHEN Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz Konzept für die Öffentlichkeitsphase
+- TOP 6.35.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 7: Berichte
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
