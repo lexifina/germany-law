@@ -1,0 +1,108 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-07-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572610
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572610
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Parksituation in München-Laim
+- TOP 2: Anträge
+- TOP 2.1.: UA Soziales, Schule, Sport: Benennung eines Internet-Beauftragten
+- TOP 2.2.: Bündnis 90 / Die Grünen: Laden / Büro ASZ Laim
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des Bezirksausschusses 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 300 Euro für Pfarrfest am 12.07.09; Antragsteller: Kath. Pfarrei Zu den Heiligen Zwölf Aposteln
+- TOP 3.2.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des Bezirksausschusses 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.900 Euro für Einbau einer Küche; Antragsteller: Die Bärchen e.V.
+- TOP 3.3.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des Bezirksausschusses 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.213, 05 Euro für den Kauf einer neuen Hortküche; Antragsteller: Kindertagesstätte Namen Jesu
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 25.05.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten / Valpichlerstraße am 10.10.09
+- TOP 4.2.: Schreiben KVR vom 29.05.09: Absolutes Haltverbot in der Joergstraße nördlich Inderstorferstraße
+- TOP 4.3.: Schreiben Baureferat vom 03.06.09: Baumaßnahme Fürstenrieder Straße / Camerloherstraße
+- TOP 4.4.: Schreiben Referat für Gesundheit und Umwelt vom 04.06.09: Mobilfunk; Suchkreismeldung Laimer Platz Nordwest
+- TOP 4.5.: Schreiben Schulreferat vom 12.06.09: Einladung Das Schulreferat trifft die Bezirksausschüsse am Mittwoch, den 15.07.09
+- TOP 4.6.: Schreiben Planungsreferat vom 15.06.09: Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung; Ablehnung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus
+- TOP 4.7.: Schreiben Planungsreferat vom 05.06.09: Planfeststellungsverfahren nach dem Perseonenbeförderungsgesetz; Neubau eines Wendedreiecks der Stadtwerke München GmbH in München im Bereich des Knotens Westendstr. / Zschokkestr. / Tübinger Str.
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Junkerstr. 57: Generalsanierung einer Doppelhaushälfte, Änderung einer Gaube und Einbau einer weiteren Gaube, Ausbau einer Terassenüberdachung zu einem Wintergarten, Verlängerung einer Garage im Bereich der Zufahrtsüberdachung, Einbau eines Fenster-Tür-Elementes in die Garage; hier: Baupläne
+- TOP 5.2.: Agricolastr. 59: Neubau eines Einfamilienhauses; hier: Baumfällungen
+- TOP 5.3.: Veit-Stoß-Str. 58-80: Nachverdichtung einer bestehenden Wohnanlage durch Anbau von 2 Wohngebäuden mit TG; hier: geänderter Baumbestandsplan
+- TOP 5.4.: Veit-Stoß-Str. 58-80: Nachverdichtung einer Wohnanlage durch Aufstockung der Bestandsgebäude mit Penthäusern; hier: geänderter Baumbestandsplan
+- TOP 5.5.: Landsberger Str. 160-162: Neubau eines Hotels mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.6.: Schäufeleinstraße: Neubau von 4 Mehrfamilienhäusern und 2 Tiefgaragen; hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung BA vom 26.05.09
+- TOP 7.2.: Sitzung UA Kultur vom 22.06.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Arbeit und Wirtschaft vom 12.05.09: Nutzung bzw. Entwicklung der Immobilie "Hertie" an der Fürstenrieder Straße 51 (Antrag Nr. 08-14 / B 00940 vom 03.03.09)
+- TOP 8.2.: Schreiben Kommunalreferat vom 15.05.09: Städtische Grundstücke / Liegenschaften in Laim (Antrag Nr. 08-14 / B 00463 vom 07.01.08)
+- TOP 8.3.: Schreiben Referat für Arbeit und Wirtschaft vom 27.05.09: Taubenkot am Aufgang zum S-Bahnhof Laim (Antrag Nr. 08-14 / B 01127 vom 19.05.09)
+- TOP 8.4.: Schreiben Stadtwerke München GmbH vom 28.05.09: Verleih von Kinderbuggys im Westbad (Antrag Nr. 08-14 / B 01130 vom 05.05.09)
+- TOP 8.5.: Schreiben Stadtwerke München GmbH vom 02.06.09: Trambahnhaltestelle Willibaldplatz; Ausstattung mit Fahrgastinformationssystem (Antrag Nr. 08-14 / B 00826 vom 03.02.09, Schreiben BA vom 24.04.09)
+- TOP 8.6.: Schreiben Referat für Gesundheit und Umwelt vom 13.05.09: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV) / Straßenbau
+- TOP 8.7.: Schreiben Referat für Gesundheit und Umwelt vom 28.05.09: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Fürstenrieder Str. 6 bis 21
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 28.05.09: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Fürstenrieder Straße / Agnes-Bernauer-Straße
+- TOP 8.9.: Schreiben Referat für Gesundheit und Umwelt vom 15.06.09 und 19.06.09: Vollzug des Bundes-Immissionschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImschV, Fürstenrieder Str. 21, Demontage eines Baukrans
+- TOP 8.10.: Schreiben MVG vom 18.05.09: Bushaltestelle in der Guido-Schneble-Straße (Schreiben BA vom 06.05.09)
+- TOP 8.11.: Schreiben MVG vom 03.06.09: Bus- und Tramhaltestelle Westendstraße; Verbesserungsvorschläge (Antrag Nr. 02-08 / B 2527 vom 02.10.07)
+- TOP 8.12.: Schreiben KVR vom 25.05.09: Fußgängerüberweg Elsenheimer- / Hauzenbergerstraße (Schreiben BA vom 07.05.09)
+- TOP 8.13.: Schreiben KVR vom 17.06.09: Unveränderte Fortführung des Gaststättenbetriebes "Pizzeria Meraviglia", Riegerhofstr. 20
+- TOP 8.14.: Schreiben KVR vom 18.06.09: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Mitterhoferstr. 12
+- TOP 8.15.: Schreiben Direktorium vom 27.05.09: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 8.16.: Schreiben Direktorium vom 27.05.09: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Kath. Öffentliche Bücherei St.Willibald
+- TOP 8.17.: Schreiben Direktorium vom 27.05.09: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Familienzentrum Laim
+- TOP 8.18.: Schreiben Direktorium vom 28.05.09: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Lilalu e.V.
+- TOP 8.19.: Schreiben Direktorium vom 02.06.09: Budget der Bezirksausschüsse; Zuwendungen an Freiwillige Feuerwehren in München für Ausrüstungsgegenstände
+- TOP 8.20.: Schreiben Sozialreferat vom 08.06.09: Kommunales Wohnungsbauförderprogramm; Ausschreibung von Grundstücken
+- TOP 8.21.: Schreiben Sozialreferat vom 03.06.09: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen
+- TOP 8.22.: Schreiben Gleichstellungsstelle für Frauen vom 28.05.09: 3. Treffen der Frauen- und Genderbeauftragten der BAs am 19.05.09; Einladung zum nächsten Termin am 22.07.09
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 25.05.09: Baumaßnahmen der SWM; Fernwärmeprojekt Agnes-Bernauer-Straße
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 17.06.09: Baumaßnahmen der SWM; Stromprojekt Agnes-Bernauer-Str.
+- TOP 8.25.: Schreiben Planungsreferat vom 15.05.09: Hartelstr. 10; Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.26.: Schreiben Planungsreferat vom 18.05.09: Flotowstr. 25; Neubau zweier Reihenhäuser mit 3 Wohnungen und Garagen
+- TOP 8.27.: Schreiben Planungsreferat vom 20.05.09: Baumbestand auf dem Grundstück Agnes-Bernauer-Str. 55
+- TOP 8.28.: Bautenliste vom 11.05.-17.05.09 1. Erstantragsverfahren a) Junkerstr. 57 b) Valpichlerstr. 134 c) Eringerstr. 18 d) Schäufeleinstraße
+- TOP 8.29.: Bautenliste vom 18.05.-24.05.09 1.) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 160
+- TOP 8.30.: Bautenliste vom 25.05.-31.05.09 1. Erstantragsverfahren a) Fürstenrieder Str. 50 b) Vosslerstr. 4 2. Änderungsverfahren a) Joergstr. 6 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Friedenheimer Str. 100
+- TOP 8.31.: Bautenliste vom 08.06.-14.06.09: 1. Änderungsverfahren a) Alblstr. 6
+- TOP 8.32.: Bautenliste vom 15.06.-21.06.09 1. Änderungsverfahren a) Geßlerstr. 6 b) Veit-Stoß-Str. 58 c) Fürstenrieder Str. 21 d) Friedenheimer Str. 47
+- TOP 8.33.: Schreiben Planungsreferat vom 19.05.09: Liste der beantragten Baumfällungen vom 11.05.-17.05.09
+- TOP 8.34.: Schreiben Planungsreferat vom 03.06.09: Liste der beantragten Baumfällungen vom 25.05.-31.05.09
+- TOP 8.35.: Schreiben Planungsreferat vom 08.06.09: Liste der beantragten Baumfällungen vom 01.06.-07.06.09
+- TOP 8.36.: Schreiben Planungsreferat vom 15.06.09: Liste der beantragten Baumfällungen vom 08.06.-14.06.09
+- TOP 8.37.: Schreiben Planungsreferat vom 23.06.09: Liste der beantragten Baumfällungen vom 15.06.-21.06.09
+- TOP 8.38.: Schreiben Stadtwerke München GmbH vom 18.05.09: Baumaßnahmen der Stadtwerke; Stichtag: 18.05.09
+- TOP 8.39.: Schreiben Stadtwerke München GmbH vom 25.05.09: Baumaßnahmen der Stadtwerke; Stichtag: 25.05.09
+- TOP 8.40.: Schreiben Stadtwerke München GmbH vom 08.06.09: Baumaßnahmen der Stadtwerke; Stichtag: 08.06.09
+- TOP 8.41.: Schreiben Stadtwerke München GmbH vom 15.06.09: Baumaßnahmen der Stadtwerke; Stichtag: 15.06.09
+- TOP 8.42.: Schreiben Stadtwerke München GmbH vom 22.06.09: Baumaßnahmen der Stadtwerke; Stichtag: 22.06.09
+- TOP 8.43.: Beschluss der Vollversammlung des Stadtrates vom 20.05.09: 2. S-Bahn-Stammstrecke München, Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG)
+- TOP 8.44.: Beschluss der Vollversammlung des Stadtrates vom 20.05.09: Verbesserung der Schienenanbindung des Flughafens München (Sitzungsvorlagen Nr. 08-14 / V 01813)
+- TOP 8.45.: Beschluss der Vollversammlung des Stadtrates vom 20.05.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München (Sitzungsvorlagen Nr. 08-14 / V 01793)
+- TOP 8.46.: Beschluss der Vollversammlung vom 20.05.09: Budget der Bezirksausschüsse; Änderung und Ergänzung der Richtlinien (Sitzungsvorlagen Nr. 08-14 / V 02166)
+- TOP 8.47.: Beschluss der Vollversammlung vom 20.05.09: Änderung der BA-Satzung und des BA-Kataloges: redaktionelle Änderungen (§ 5, 6, 8 Abs. 4, 19 Abs. 3 BA-Satzung, Ziffer 7.3 BA-Katalog); § 25 BA-Satzung; Ziffern 14, 14.1, 24 und 20 BA-Katalog (Sitzungsvorlagen Nr. 08-14 / V 02086)
+- TOP 8.48.: Beschluss der Vollversammlung vom 20.05.09: Änderung der Satzung für die Bezirksausschüsse der LH München; Zusammenfassende Änderungssatzung (Sitzungsvorlagen Nr. 08-14 / V 02083)
+- TOP 8.49.: Beschluss der Vollversammlung vom 20.05.09: Neuer Mieterbeirat (Sitzungsvorlagen Nr. 08-14 / V 01519)
+- TOP 8.50.: Beschluss des Kinder- und Jugendhilfeausschusses vom 26.05.09: Haushalt 2010; Finanzierung des laufenden Betriebes für einen Abenteuerspielplatz des Trägers Kreisjugendring München-Stadt bei dem Jugendtreff Laim, Von-der-Pfordten-Str. 59 (Sitzungsvorlagen Nr. 08-14 / V 02020)
+- TOP 8.51.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2009-2013 (Sitzungsvorlagen Nr. 08-14 / V 02228)
+- TOP 8.52.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum ? (Sitzungsvorlagen Nr. 08-14 7 V 02214)
+- TOP 8.53.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: Mehrjahresinvestitionsprogramm für die Jahre 2009-2013, diverse Gliederungsziffern (Sitzungsvorlagen Nr. 08-14 / V 02229)
+- TOP 8.54.: Beschluss des Bauausschusses vom 16.06.09: Ausbau des Mittleren Ringes (B2R) Südwest - Luise-Kiesselbach-Platz - im 7. Stadtbezirk Sendling-Westpark (Sitzungsvorlagen Nr. 08-14 / V 02452)
+- TOP 8.55.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: a) Bebauungsplan mit Grünordnung Nr. 1997, Bahnlinie Hauptbahnhof - Pasing (südlich) zwischen Am Knie und Willibaldstr. - Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss - b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses für den Bebauungsplan mit Grünordnung Nr. 1997 (Sitzungsvorlagen Nr. 08-14 / V 02448)
+- TOP 8.56.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: PERSPEKTIVE MÜNCHEN - Fortschreibungskonzept (Sitzungsvorlagen Nr. 08-14 / V 02454)
+- TOP 8.57.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil (Sitzungsvorlagen Nr. 08-14 / V 02420)
+- TOP 8.58.: 2. Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: PERSPEKTIVE MÜNCHEN, Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung (Sitzungsvorlagen Nr. 08-14 / V 00506)
+- TOP 8.59.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: PERSPEKTIVE MÜNCHEN, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Konzept für die Öffentlichkeitsphase (Sitzungsvorlagen Nr. 08-14 / V 02478)
+- TOP 8.60.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Gewerbeflächenentwicklung, Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München (Sitzungsvorlagen Nr. 08-14 / V 02481)
+- TOP 8.61.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.09: Leistungsprogramm der MVG für die Fahrplanperiode 2010 (Sitzungsvorlagen Nr. 08-14 / V 02476)
+- TOP 8.62.: Schreiben DB Netze vom 25.05.09: Toilettensituation am S-Bahnhof Laim (Schreiben BA vom 07.05.09)
+- TOP 8.63.: Schreiben Lilalu vom 03.06.09: Lilalu 2008 / Medienbilanz
+- TOP 8.64.: Schriftverkehr aus der BA-Sitzung vom 26.05.09
+- TOP 1.2: Bürgerpost an den BA
