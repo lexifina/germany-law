@@ -1,2 +1,2 @@
-# § 71e Antragskonferenz
-Auf Verlangen des Antragstellers soll die Behörde eine Besprechung mit allen beteiligten Stellen und dem Antragsteller einberufen.
+# § 71e Elektronisches Verfahren
+Das Verfahren nach diesem Abschnitt wird auf Verlangen in elektronischer Form abgewickelt. § 3a Abs. 2 Satz 2 und 3 und Abs. 3 bleibt unberührt.

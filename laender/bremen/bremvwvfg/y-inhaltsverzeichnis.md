@@ -50,6 +50,7 @@ Abschnitt 1 Zustandekommen des Verwaltungsaktes
 § 40 | Ermessen
 § 41 | Bekanntgabe des Verwaltungsaktes
 § 42 | Offenbare Unrichtigkeiten im Verwaltungsakt
+§ 42a | Genehmigungsfiktion
 Abschnitt 2 Bestandskraft des Verwaltungsaktes
 § 43 | Wirksamkeit des Verwaltungsaktes
 § 44 | Nichtigkeit des Verwaltungsaktes
@@ -85,12 +86,12 @@ Abschnitt 1 Förmliches Verwaltungsverfahren
 § 69 | Entscheidung
 § 70 | Anfechtung der Entscheidung
 § 71 | Besondere Vorschriften für das förmliche Verfahren vor Ausschüssen
-Abschnitt 1a Beschleunigung von Genehmigungsverfahren
+Abschnitt 1a Verfahren über eine einheitliche Stelle
 § 71a | Anwendbarkeit
-§ 71b | Zügigkeit des Genehmigungsverfahrens
-§ 71c | Beratung und Auskunft
-§ 71d | Sternverfahren
-§ 71e | Antragskonferenz
+§ 71b | Verfahren
+§ 71c | Informationspflichten
+§ 71d | Gegenseitige Unterstützung
+§ 71e | Elektronisches Verfahren
 Abschnitt 2 Planfeststellungsverfahren
 § 72 | Anwendung der Vorschriften über das Planfeststellungsverfahren
 § 73 | Anhörungsverfahren

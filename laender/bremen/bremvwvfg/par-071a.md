@@ -1,3 +1,4 @@
-## Abschnitt 1a Beschleunigung von Genehmigungsverfahren
+## Abschnitt 1a Verfahren über eine einheitliche Stelle
 # § 71a Anwendbarkeit
-Hat das Verwaltungsverfahren die Erteilung einer Genehmigung zum Ziel (Genehmigungsverfahren), die der Durchführung von Vorhaben im Rahmen einer wirtschaftlichen Unternehmung des Antragstellers dient, finden die §§ 71b bis 71e Anwendung.
+(1) Ist durch Rechtsvorschrift angeordnet, dass ein Verwaltungsverfahren über eine einheitliche Stelle abgewickelt werden kann, so gelten die Vorschriften dieses Abschnitts und, soweit sich aus ihnen nichts Abweichendes ergibt, die übrigen Vorschriften dieses Gesetzes.
+(2) Der zuständigen Behörde obliegen die Pflichten aus § 71b Abs. 3, 4 und 6, § 71c Abs. 2 und § 71e auch dann, wenn sich der Antragsteller oder Anzeigepflichtige unmittelbar an die zuständige Behörde wendet.
