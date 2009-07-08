@@ -1,0 +1,96 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-07-08T17:10:00+02:00
+- Ende: 2009-07-08T22:50:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=980
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=980
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 5.1: Planung am Columbiadamm verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer stellvertretenden Bürgerdeputierten in den Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Verwaltung und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan XIV-256-1 vom 08.01.2009 - Am Bergpfuhl - - überwiesen
+- TOP 7.2: Bebauungsplan XIV-157i vom 20.01.2009 - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Mandats als stellvertretender Bürgerdeputierter im Sportausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Bildung, Schule und Kultur - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Bescheinigung zur Vorlage bei der GEZ - beantwortet
+- TOP 9.2: Einnahmeverluste des Ordnungsamtes Neukölln - beantwortet
+- TOP 9.3: Neukölln ohne Sonne? - beantwortet
+- TOP 9.4: Schulstruktur Neukölln - beantwortet
+- TOP 9.5: Wartehäuschen für Bus 104 - beantwortet
+- TOP 9.6: Zusammenlegung mehrerer Behördenstandorte - beantwortet
+- TOP 9.7: Baumpflege im Max-Pallen-Pfad - beantwortet
+- TOP 9.8: Serviceleistungen des Gewerbeamtes - beantwortet
+- TOP 9.9: Asbestfrei sanieren im Rathaus Neukölln? - beantwortet
+- TOP 9.10: Religion - (k)ein Teil der Kultur? - beantwortet
+- TOP 9.11: Kita-Eigenbetrieb SüdOst - beantwortet
+- TOP 9.12: Tanzschule - schriftlich beantwortet
+- TOP 9.13: Götterbäume (Ailanthus altissiima) in Neukölln - schriftlich beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Sozialräumlicher Einsatz von Instrumenten der Arbeitsmarktpolitik - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Kurzfilme von MaDonna - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Baumfällungen öffentlich machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Ein Standort für das Jobcenter? - beantwortet
+- TOP 11.2: Bordelle - ja oder nein? - beantwortet
+- TOP 11.3: Konjunkturprogramm II für Schulen - beantwortet
+- TOP 11.4: Inobhutnahme in Neukölln - beantwortet
+- TOP 11.5: Umsetzung der Radwegeplanung - beantwortet
+- TOP 11.6: Einbürgerungen in Neukölln - beantwortet
+- TOP 11.7: JüL in Neukölln - beantwortet
+- TOP 11.8: Neues vom Columbiaquartier - schriftlich beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Bescheinigung zur Vorlage bei der GEZ - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Bordellbericht - in der BVV abgelehnt
+- TOP 13.3: Ständige Ausstellung Neukölln - Neuköllner Gedenktafelprogramm - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Konzept für den Berliner Religionsunterricht - überwiesen
+- TOP 13.5: Projekt zur interkulturellen Öffnung der Seniorenarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Hilfe für Menschen mit Sehbehinderung beim Einkauf - überwiesen
+- TOP 13.7: Nachtfahrverbot für LKW im Drusenheimer Weg - überwiesen
+- TOP 13.8: Glascontainer Parchimer Allee 101 entfernen - überwiesen
+- TOP 13.9: Hinweisschilder - überwiesen
+- TOP 13.10: Schulwegsicherung Silberstein-Grundschule I - überwiesen
+- TOP 13.11: Schulwegsicherung Silberstein-Grundschule II - überwiesen
+- TOP 13.12: Schulwegsicherung Silberstein-Grundschule III - überwiesen
+- TOP 13.13: Bänke in der Schillerpromenade - überwiesen
+- TOP 13.14: Öffnung der Anzengruberstraße für Radfahrerinnen und Radfahrer - überwiesen
+- TOP 13.15: Öffnung der Schönstedtstraße für Radfahrerinnen und Radfahrer - überwiesen
+- TOP 13.16: Verkehrssicherheit auf Fahrradwegen - überwiesen
+- TOP 13.17: Entschärfung Gefahrensituation auf der Hermannbrücke - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Mitarbeiterrotation im Jobcenter und der Agentur für Arbeit - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Biotop Holz in Neuköllns Parkanlagen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Zwangsarbeiterlager - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Lichtzeichenanlagen Autobahntunnel Britz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Kulturentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Stadtteilväter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Ausstellung zum Thema "Deutsche Kolonialgeschichte" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Fahrbahnmarkierung für Radfahrer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Ausstellung der Preisträger "Alzheimer & You - zeig Dein Engagement" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Namibia-Wanderausstellung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Internationaler-Hindemith-Wettbewerb - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Anträge auf Kostenübernahme für vollstationäre Pflege - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Sicherstellung der baulichen Zustände in Kitas, die den freien Trägern vom Bezirksamt überlassen wurden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Geschlechtergerechte Sprache bei Gedenktafeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Neukölln soll vom Konjunkturpaket profitieren! - Sanierung der Psychiatrie des Krankenhauses Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Durchführung einer Einwohnerversammlung - mit Abschlussbericht zur Kenntnis genommen
