@@ -1,0 +1,6 @@
+# TOP 1.3: Entscheidung über Einwendungen gegen die Niederschrift (öffentlicher Teil) der 5. Sitzung vom 06.05.2009
+
+- Sitzung: 6. Sitzung des Kreistages Märkisch-Oderland (2009-07-08)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=1825
