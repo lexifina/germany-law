@@ -139,10 +139,10 @@ Prüfungswesen
 § 104 Örtliche Prüfung des Jahresabschlusses und des Gesamtabschlusses
 § 105 Örtliche Prüfung der Eigenbetriebe
 § 106 Weitere Aufgaben der örtlichen Prüfung
-§ 107 – aufgehoben –
+§ 107 (aufgehoben)
 § 108 Überörtliche Prüfungsbehörde
 § 109 Aufgaben und Gang der überörtlichen Prüfung
-§ 110 Überörtliche Prüfung der Eigenbetriebe
+§ 110 (aufgehoben)
 Fünfter Teil
 Aufsicht
 § 111 Wesen und Inhalt der Aufsicht
