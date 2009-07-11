@@ -1,4 +1,4 @@
-# Gesetz über die staatliche Anerkennung von Diplom-Sozialarbeitern, Diplom-Sozialpädagogen und Diplom-Heilpädagogen im Freistaat Sachsen (SächsSozAnerkG)
+# Gesetz über die staatliche Anerkennung von Absolventen mit Diplom oder Bachelor in den Fachgebieten des Sozialwesens oder der Heilpädagogik im Freistaat Sachsen (SächsSozAnerkG)
 Vom 13. Dezember 1996
-Rechtsbereinigt mit Stand vom 30. November 2008
+Rechtsbereinigt mit Stand vom 11. Juli 2009
 Der Sächsische Landtag hat am 12. Dezember 1996 das folgende Gesetz beschlossen:
