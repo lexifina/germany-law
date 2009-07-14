@@ -1,0 +1,57 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-07-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593555
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593555
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Querung der Heimeranstraße
+- TOP 3.2.: Einbahnstraßenregelung-Gollierstraße
+- TOP 4: Beschlüsse des BA 8
+- TOP 1: (E) Neuer Straßenbelag für die gesamte Bergmannstraße wegen Lärmbelästigung Empfehlung Nr. 08-14 / E 00034 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2008
+- TOP 5: Anhörungen
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten
+- TOP 6.1.2.: Grundstückserwerb Theresienhöhe/ Oda-Schäfer-Weg
+- TOP 6.1.3.: Kommunales Wohnungsbauförderprogramm; Ausschreibung von Grundstücken
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Straßenfest Astallerstraße
+- TOP 6.2.2.: Eröffnungsfeier Spielplatz IG Feuerwache
+- TOP 6.2.3.: Schulreferat trifft Bezirksausschüsse
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Vollzug des Bayerischen Naturschutzgesetzes; Neufassung der Naturdenkmalverordnung
+- TOP 6.4.2.: Verkehrsrechtliche Anordnung Trappentreustraße
+- TOP 6.4.3.: Projekt Erneuerung der Bergmannstraße zwischen Westend- / Kazmaistraße
+- TOP 6.4.4.: Fahrbahnsanierung Astallerstraße
+- TOP 6.4.5.: Fahrbahnsanierung Anglerstraße
+- TOP 6.4.6.: Querung der Wies'm während Oktoberfestauf- und /-abbaus
+- TOP 6.4.7.: Ablehung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimlaen Lärmschutzes sowie Untertunnelung für den fall des Baus
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Bescheid Nachbarschaftsfest Westendstraße
+- TOP 9.2.: Bescheid Straßenfest Gollierstraße
+- TOP 9.3.: Bescheid Straßenfest Bergmannstraße
+- TOP 9.4.: Ausbau Mittlerer Ring Südwest; Projektkosten
+- TOP 9.5.: Stadtradeln - Unsere Stadt fährt Rad
+- TOP 9.6.: Fristverlängerung für BA-Antrag 0-14 / B 778 des BA 8
+- TOP 9.7.: Gaststättenfortführung
+- TOP 9.8.: "Daheim in München" - Einbindung der Bezirksausschüsse
+- TOP 9.9.: Radverkehr in München; Grundssatzbeschluss zur Förderung des Radverkehrs inMünchen
+- TOP 9.10.: 2.S-Bahn-Stammstrecke München
+- TOP 10: Verschiedenes
+- TOP 10.1.: Einladung zum Stadtteilfest Gollierplatz
+- TOP 11: Protokoll und Umlauf
