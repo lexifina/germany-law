@@ -1,0 +1,134 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-07-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Unterstützung bei der Anmietung der Räumlichkeiten der Stadtsparkasse für das SOS-Mütter-und Kindertageszentrum München
+- TOP 2.2.: Anfragen und Anliegen zum geplanten Ausbau der Harburger Straße (bereits durch Baureferat in Bearbeitung)
+- TOP 2.3.: Verunreinigung des Naturschutzgebietes über der A 99 und Anbringung von Hundekotbeutel-Spender zwischen Am Langwieder Bach und Negrellistraße
+- TOP 2.4.: Geschwindigkeitsbegrenzung am Freihamer Weg auf 30 km/h
+- TOP 2.5.: Zunahme des Bahnlärms in der Lichtenfelser Straße und Wartezeiten am Bahnübergang Limesstraße
+- TOP 2.6.: Errichtung eines Wintergartens in der Bodenseestr. 228, Firmenparkplatz an der Zwernitzer Straße
+- TOP 2.7.: Beleuchtung des Weges vom Brachvogelplatz zum S-Bahnhof Westkreuz
+- TOP 2.8.: Vorverlegung der Halteverbotszone in der Ehrenbürgstraße in Richtung Giechstraße
+- TOP 2.9.: Bodenseestr. 194, Errichtung eines gestaffelten Anbaus; Duldung einer Lärmschutzwand hinter der Grundstücksgrenze
+- TOP 2.10.: Errichtung einer Haltestelle des Regionalbusses 267 beim ESV-Neuaubing, Papinstr. 22, als Bedarfshaltestelle und/oder in provisorischer Ausführung
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: - Radolfzeller Str. 8 - 46, 1 Linde, 1 Hainbuche, 1 Bergahorn - Taubertalstr. 5a, 1 Fichte - Freihamer Allee 31, Sanierung "Schloss Freiham", gem. Baumbestandsplan Nr. 2009-8895 - Henschelstr. 3, gem. Baumbestandsplan Nr. 2009-9663
+- TOP 3.2.: Fällungsantrag Rohrsängerplatz 19 a, Schr. Planungsreferat vom 23.06.09
+- TOP 3.3.: Fällungsantrag Osterangerstr. 40, Schr. Planungsreferat vom 23.06.09
+- TOP 3.4.: Fällen von Gefahrenbäumen: Feuerwehr Langwied, Berglwiesenstr. 135, Schr. Planungsreferat vom 14.05.09
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Personenaufzug am S-Bahnhof Westkreuz
+- TOP 4.2.: Erstellen einer Fahrbahnmarkierung am Übergang Bergsonstraße, Entschärfung des Kurvenbereiches
+- TOP 4.3.: Einrichtung eines Notdienstes während des Streiks im Sozialdienst und Erziehungsdienst; Erstattung von vereinnahmten Gebühren
+- TOP 4.4.: Machbarkeitsstudie für die zukünftige Bahnunterführung an der Hellensteinstraße
+- TOP 4.5.: Erstellung eines Verkehrskonzepts für den 22. Stadtbezirk
+- TOP 4.6.: Sanierung der Fuß- und Radwegunterführung der Aubinger Straße in Höhe Ramses See und Weg zum Ravensburger Ring
+- TOP 4.7.: Umgehende Beseitigung der Herkulesstauden
+- TOP 4.8.: Rad- und Fußwegunterführung an der S-Bahnstation Lochhausen, Errichten von Beleuchtung am Fahrradständer auf der Nordseite
+- TOP 4.9.: Auswirkung der neuen Wohnprojekte im Münchner Westen auf die schulische Versorgung mit Grund- und weiterführenden Schulen im 22. Stadtbezirk
+- TOP 4.10.: Erinnerungsantrag - Darstellung der durch Bebauungen anfallenden Ausgleichsflächen im 22. Stadtbezirk und Information über die geplanten Maßnahmen
+- TOP 4.11.: Prüfung der Verkehrssituation in der Ranertstr. und Langwieder Hauptstr. bis zur Eschenrieder Str. in Lochhausen
+- TOP 4.12.: Sanierung des Absperrgitters an der Henschelstr. zur S-Bahnlinie München - Augsburg
+- TOP 5: Entscheidungen
+- TOP 5.1.: Antrag des BRK Bereitschaft West 3 Aubing auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 5.999,- ?, Schr. Direktorium vom 10.07.09 (UA Budget)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Bekanntgabe des Wahlergebnisses der 9. Münchner Seniorenvertretung nach der konstituierenden Sitzung des Seniorenbeirates am 22.06.09, Schr. Sozialreferat vom 25.06.09
+- TOP 6.2.: Barrierefreier Zugang zum Saal im Bay. Schnitzel- und Hendlhaus (ehem. Wienerwaldsaal) an der Limesstr. 63, Schr. Kulturreferat vom 05.06.09
+- TOP 6.3.: Erlaubnisbescheid: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Dietrichsteinstr. Straßenfest der Dornier-Eigenheimer Neuaubing am 25.07.09, Schr. KVR vom 15.06.09
+- TOP 6.4.: Lösung zur Finanzierung der Eingangsklassen für das kommende Schuljahr an städtischen Gymnasien, Schr. Schul- und Kultusreferat vom 15.06.09
+- TOP 6.5.: Aufnahme der Aubing-Ost-Str. 66 in die Denkmalschutzliste, Schr. Planungsreferat vom 16.06.09
+- TOP 6.6.: Vollzug der Grünanlagensatzung: Freizeitpark an der Sipplinger Str., Schr. KVR vom 10.06.09
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendungen an Freiwillige Feuerwehren in München für Ausrüstungsgegenstände, Schr. Direktorium vom 02.06.09 - vertagt aus 06/09 -
+- TOP 6.2.: Zuwendung aus dem Budget für den gemeinnützigen Verein der Freunde und Förderer der Grundschule am Ravensburger Ring e.V., Bescheid des Direktoriums vom 30.06.09
+- TOP 6.3.: Zuwendung aus dem Budget für des Verein Kultur am Westkreuz e.V., Bescheid des Direktoriums vom 30.06.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Kronwinkler Str. 24, Nutzungsänderung eines ehem. Bürogebäudes in eine Kooperationseinrichtung, Anhörung des Planungsreferats vom 02.06.09 - vertagt aus 06/09 -
+- TOP 6.2.: Federseestr. 4 - Neubebauung mit Wohngeschäftshaus bzw. -häuser mit Garage und Stellplätzen, Anhörung des Planungsreferats vom 02.06.09 - vertagt aus 06/09 - (BV wurde vom Planungsreferat negativ beurteilt.)
+- TOP 6.3.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 2014a Autobahnkreuz München West (südlich), Bundesautobahn A8 (südwestlich), Mooswiesenstr. (westlich), Hanfgartenstr. (beiderseits), Berglwiesenstr. (östlich), Bundesautobahn A99 (südöstlich); Aufhebung des Aufstellungsbeschlusses 2014 im Bereich des ehemals geplanten Kreisels, Anhörung des Planungsreferats vom 03.06.09 - vertagt aus 06/09 -
+- TOP 6.4.: Vollzug des Bayer. Naturschutzgesetzes; Neufassung der Naturdenkmalverordnung, Anhörung des Planungsreferats vom 24.06.09
+- TOP 6.5.: Tausch einer städt. Immobilie: Nähe Böhmerweiher, Anhörung des Kommunalreferats vom 16.06.09
+- TOP 6.6.: Rupert-Bodner-Straße: Errichtung einer Transportbetonanlage, Anhörung des Planungsreferats vom 01.07.09
+- TOP 6.7.: Bodenseestr. 115: Errichtung eines Kfz-Verkaufsplatzes mit Verkaufsbüros, Anhörung des Planungsreferats vom 01.07.09
+- TOP 6.8.: Colmdorfstraße: Neubau eines Mehrfamilienhauses mit Tiefgarage - Tektur -, Anhörung des Planungsreferats vom 01.07.09
+- TOP 6.9.: Hellensteinstraße (Fl.Nr. 2064/22): Errichtung von Wohngebäuden/ Variante I: 9 Doppelhäuser + 3 Dreispänner + 2 Vierspänner Variante II: 9 Doppelhäuser + 4 Dreispänner (Hellenstein-/Reußensteinstr.) Anhörung des Planungsreferats vom 01.07.09
+- TOP 6.10.: Hellensteinstraße (Fl.Nr. 2038/0): Errichtung von Wohngebäuden Variante I: 3 Doppelhäuser + 5 Dreispänner Variante II: 5 Doppelhäuser + 5 Dreispänner Anhörung des Planungsreferats vom 01.07.09
+- TOP 6.11.: Henschelstr. 3, Neubau eines Wohn- und Geschäftshauses - Vorbescheid, Anhörung des Planungsreferats vom 01.07.09
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 08.06.-14.06.09, 15.06.-21.06.09, 22.06.-28.06.09), Schr. Planungsreferat vom 15.06.09, 23.06.09, 29.06.09
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 08.06.09, 15.06.09, 22.06.09, 29.06.09
+- TOP 6.3.: Instandsetzung und Erhaltung des derzeit gesperrten Geh- und Radweges an der Papinstr., Schr. Planungsreferat vom 03.06.09
+- TOP 6.4.: Änderung des Standortes der Telefonzelle an der S-Bahn-Haltestelle Leienfelsstraße; S8, Schr. Referat für Arbeit und Wirtschaft vom 08.06.09
+- TOP 6.5.: Zustand der Umgebung S-Bahnhof Aubing; hier Lagerhalle Georg-Böhmer-Str., Schr. Referat für Gesundheit und Umwelt vom 03.06.09
+- TOP 6.6.: Errichtung von Buswartehäuschen an der Bushaltestelle Pirolstr. der Buslinie 830 und an der Bushaltestelle Krähenweg, Schr. SWM vom 29.06.09
+- TOP 6.8.: Befahren des Gehwegs in der Pretzfelder Str. 9-11 durch Pkw und Busse, Aufstellung von Poller, Schr. KVR vom 09.06.09
+- TOP 6.9.: Anfrage zur Bebauung in der Colmdorfstraße, Schr. Planungsreferat vom 19.06.09
+- TOP 6.10.: Klappschilder (30 km/h) vor Schulen, Schr. KVR vom 08.06.09
+- TOP 6.11.: Container am S-Bahnhof Lochhausen, Schr. Abfallwirtschaftsbetrieb vom 08.06.09
+- TOP 6.12.: Kommunales Wohnungsbauförderungsprogramm - Ausschreibung von Grundstücken, Schr. Sozialreferat vom 08.06.09
+- TOP 6.13.: Vollzug des Allg. Eisenbahngesetzes; Plangenehmigung - Barrierefreier Ausbau S-Bahn München, Haltestelle Westkreuz ..., Schr. Planungsreferat vom 22.06.09
+- TOP 6.14.: Arbeiten im Straßenraum: Bodenseestraße im Bereich Gleisdreieck Pasing, Schr. KVR vom 19.02.09
+- TOP 6.15.: Mitteilung über ein Grundstücksgeschäft: - Karl-Harz-Weg, Schr. Kommunalreferat vom 15.06.09 - Gleisdreieck Pasing, Schr. Kommunalreferat vom 25.06.09
+- TOP 6.16.: Arbeiten im Straßenraum: Riesenburgstraße zwischen Nr. 28 und Pretzfelder Straße - Verlegung von Fernwärme, Schr. KVR vom 18.06.09
+- TOP 6.17.: Baumaßnahme der SWM - Fernwärmeprojekt Erschließung Westkreuz Pasing, 3. Bauabschnitt Riesenburgstraße und 4. Bauabschnitt Wiesentfelser Straße, Schr. SWM vom 08.06.09
+- TOP 6.18.: Baumaßnahme der SWM - Fernwärmeprojekt Erschließungsgebiet Westkreuz Pasing, Bodenseestraße/Mainaustraße - Änderung im Terminablauf, Schr. SWM vom 23.06.09
+- TOP 6.19.: Verkauf des städt. Anwesens: Schussenrieder Str. 3, Schr. Kommunalreferat vom 26.06.09
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: Streitbergstraße, Schr. Sozialreferat vom 05.06.09
+- TOP 8.2.: Unveränderte Fortführung der Gaststätte "Sushi Tenn Asia Schnellimbiss" (ehem. Asia Schnellimbiss), Bodenseestr. 275, Schr. KVR vom 29.06.09
+- TOP 8.3.: Wirtschafts-Info Juni 2009, Schr. Referat für Arbeit und Wirtschaft vom 30.06.09
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 08.07.2009: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010 (UA Soziales)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: München lernt aus planerischen Fehlern: Was wird in Freiham Nord besser und warum? (geänderter Beschluss) (UA Freiham)
+- TOP 10.3.: Beschluss der Vollversammlung am 20.05.09: 2. S-Bahn-Stammstrecke München (geänderter Beschluss) (UA Planung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München - Fortschreibungskonzept (UA Planung)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München - Langfristige Siedlungsentwicklung (UA Planung)
+- TOP 10.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München - Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Konzept der Öffentlichkeitsphase (UA Planung)
+- TOP 10.7.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Gewerbeflächenentwicklung - Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München (UA Planung)
+- TOP 10.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Wohnen in München IV - Erfahrungsbericht für das Jahr 2008 mit Ergänzungen und Beschlussteil (UA Planung)
+- TOP 10.9.: Beschluss des Schul- und Sportausschusses des Stadtrates vom 29.04.09: Städt. Bauprojekte und Vereinsprojekte, Bekanntgabe der Prioritätenliste (Stand März 2009) (UA Planung)
+- TOP 10.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Bebauungsplan mit Grünordnung Nr. 2034 - Lochhausener Straße (südlich), Mettnauer Straße (westlich), Rossittener Str. und Spatzenwinkel (nördlich), Pirolstraße (östlich) - Aufstellungsbeschluss und Verlegung der Verkehrsanbindung (UA Planung)
+- TOP 10.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1907 - Bodenseestr. (südlich), Bahnlinie München-Herrsching (südlich), Bahnlinie München-Mittenwald (westlich), Paosostr. (nördlich) - Gleisdreieck Pasing - Wechsel des Vorhabenträgers (UA Planung)
+- TOP 10.12.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 07.07.09: Leistungsprogramm der MVG für die Fahrplanperiode 2010 (UA Planung)
+- TOP 10.13.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München - Fortschreibung des Zentrenkonzeptes, Schwerpunkt Nahversorgung (UA Planung)
+- TOP 10.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 27.05.09: Mehrjahresinvestitonsprogramm für die Jahre 2009 - 2013 - Planungsreferat (geänderter Beschluss)
+- TOP 10.15.: Beschluss des Bauausschusses vom 07.07.09: Kastelburgstraße zwischen Mariabrunner Straße und Kronwinkler Straße im 22. Stadtbezirk - Erstmalige Herstellung (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.: Einladung zum Sommerfest der Grundschule am Ravensburger Ring 37 am 17.07.09 von 14.30 - 17.00 Uhr
+- TOP 11.3.: Gespräch zur Sportentwicklungsplanung Freiham / Neuaubing am Dienstag, den 21.07.09 um 17.30 Uhr im Nebenraum der Sportgaststätte des ESV Neuaubing, Papinstr. 22
+- TOP 11.4.: Typisierungsaktion für Tanja Back in der Pfarrei St. Lukas am 25.07.09 von 10 - 16 Uhr
+- TOP 11.5.: Einladung zu einer Informationsveranstaltung der DFS Deutsche Flugsicherung GmbH am 24.07.09, 07.08.09 oder 02.10.09
+- TOP 11.6.: Plakatwettbewerb des Behindertenbeirats, Schr. Behindertenbeirat vom 03.07.09
+- TOP 11.7.: Einladung zum kostenlosen Fachforum "Die neue EnEV 2009" am 21.07.09 im Bauzentrum München
+- TOP 11.8.: Wahl der ehrenamtlichen Richterinnen und Richter für das Bayerische Verwaltungsgericht München; Erstellung der Vorschlagslisten durch die kreisfreien Städte und Landkreise, Schr. KVR vom 07.07.09
+- TOP 11.9.: Reservierung der Ratsboxe für das Oktoberfest, Schr. Direktorium vom 13.07.09
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 19.08.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
