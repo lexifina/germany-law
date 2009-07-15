@@ -1,0 +1,8 @@
+# TOP 4: Haushaltsplanung 2010
+
+- Sitzung: Sitzung des Gemeinderats (2009-07-15)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/5719
+- Ergebnis: mit Stimmenmehrheit beschlossen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/1052
