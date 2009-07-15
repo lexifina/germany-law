@@ -1,0 +1,94 @@
+# 26. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-07-15T17:30:00+02:00
+- Ende: 2009-07-15T22:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2211
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2211
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=36129
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Bürgerdeputierten - gewählt
+- TOP 1.9: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.10: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) - überwiesen
+- TOP 1.11: Gründung einer Grundschule im Ortsteil Weißensee am Standort Sulzfelderstraße 15 in 13088 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Gründung eines Gymnasiums in der Achillesstraße 79 in 13125 Berlin - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.13: Übertragung der Verwaltung und Unterhaltung der äußeren Schulangelegenheiten für das Abendgymnasium Prenzlauer Berg (03A04), Pasteurstraße 7-11, 10407 Berlin zum 01.01.2010 auf die für das Schulwesen zuständige Senatsverwaltung zum Zwecke der Verlagerung des Standorts der Schule in die Driesener Straße 22, 10439 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Beschluss über den Bebauungsplanentwurf 3-12 vom 10. Februar 2009 für das Gelände zwischen den nördlichen Grenzen der Grundstücke Roelckestraße 93, Berliner Allee 317 und 321, Berliner Allee, Nüßlerstraße und Roelckestraße sowie einen Abschnitt der Feldtmannstraße im Bezirk Pankow, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Energieeinsparprojekte auf alle öffentlichen Gebäude ausdehnen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Keine Mietverträge in Pankow mit rechtsextremen, antisemitischen und fremdenfeindlichen Organisationen - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Arbeiten in der Storkower Straße und im Pieskower Weg - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Kontrollen der Fahrradfahrer im öffentlichen Straßenverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 des Baugesetzbuchs (BauGB) für das Gebiet "Humannplatz" im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Mehr Verkehrssicherheit in der Granitzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Neue Kleingartenanlagen für Pankowerinnen und Pankower! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Strategiewechsel in der Haushaltspolitik - mit Änderungen in der BVV beschlossen
+- TOP 1.23: Entwicklung der Liegenschaft "Stadtbad Oderberger Straße" - überwiesen
+- TOP 1.24: Lösungsvorschlag Problem fehlender Schulplätze in der Region 3 des OT Prenzlauer Berg - in der BVV abgelehnt
+- TOP 1.25: Kulturensemble am Thälmannpark - Konzeption - mit Änderungen in der BVV beschlossen
+- TOP 1.26: Das Schiff zur Rettung der Unschuld der Kunst - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Anreizsystem für die Abteilungen zur Senkung der Infrastruktur-Kosten einführen! - zurückgezogen
+- TOP 1.28: Projektgruppe Eliashof/Ernst-Thälmann-Park - beantwortet
+- TOP 1.29: Datenschutz als Schulfach - zurückgezogen
+- TOP 1.30: Blockweise Bebauungspläne - überwiesen
+- TOP 1.31: Pankower Integrationskonzept endlich fertigstellen - vertagt
+- TOP 1.32: Planungsworkshop zum ehemaligen Güterbahnhof - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Physiotherapeutische Versorgung für behinderte Kinder sichern - vertagt
+- TOP 1.34: Marthashof - Schwedter Straßé 37 - 40 - zurückgezogen
+- TOP 1.35: Standort Galenusstraße 64 und Klausthaler Straße 21 für die Panke-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Grenzen überwinden: Mehr Beteiligung bei den Planungen des regionalen Grünzugs zwischen Mauerpark und Barnim - überwiesen
+- TOP 1.37: Sicherung der Sanierungsziele in Prenzlauer Berg - vertagt
+- TOP 1.38: Bestandsmieter und Erhaltungsverordnung im Gebiet Humannplatz - überwiesen
+- TOP 1.39: Grenzen überwinden: Busverbindung im Norden zwischen den Bezirken Reinickendorf und Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.40: Bericht zu linker Gewalt - vertagt
+- TOP 1.41: Fahrradkurse für Frauen mit Migrationshintergrund - überwiesen
+- TOP 1.42: Zeitplan für städtebauliche Planung für das Grundstück Schönhauser Allee 148/Kastanienallee 97 - 99 ändern - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Erschließung der Baustelle an der BAB 10 - überwiesen
+- TOP 1.44: Entwicklungs- und Erschließungperspektive für die Anlage Schildow-Waldeck eröffnen - überwiesen
+- TOP 1.45: Städtepartnerschaften in Pankow langfristig und nachhaltig entwickeln - vertagt
+- TOP 1.46: Rückrufservice - überwiesen
+- TOP 1.47: Pankow für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - überwiesen
+- TOP 1.48: Maerker für Berliner - überwiesen
+- TOP 1.49: Mehr Verkehrssicherheit für Fußgänger und Fahrradfahrer an der Kreuzung am S-Bahnhof Pankow - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Fortschreibung der Behindertenkonzeption - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Bezirksname - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Tag der Spielplätze in Pankow einführen - vertagt
+- TOP 2.4: Interaktiver Kinder- und Jugendstadtplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Allgemeines Verfahren zum Umgang mit Straßenbäumen - vertagt
+- TOP 2.6: Gentechnikfreie Kantinen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Jeder Schule ein/e Sozialarbeiter/in - vertagt
+- TOP 2.8: Ausstattung der Schulsekretariate - vertagt
+- TOP 2.9: Fontäne am Weißen See - vertagt
+- TOP 2.10: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - vertagt
+- TOP 2.11: Pankower Frauen- und Migrantenprojekte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Umsetzung von Neuregelungen der Wohngeldnovelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Durchführung einer Spielleitplanung in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Verfahren zur Bürgerbeteiligung bei der Grün- und Freiflächengestaltung schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Barrierefreies Arbeiten der BVV-Arbeit sichern! - vertagt
+- TOP 2.16: ÖPNV im Nordwestraum des Bezirkes weiterentwickeln - vertagt
+- TOP 2.17: Umweltarbeit für Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Sportstandort Hansastraße 109 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Aufstellung eines B-Planes für das Grundstück Schönhauser Allee 148 / Kastanienallee 97 - 99 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Jetzt die Gemeinschaftsschule weiter voranbringen! - vertagt
+- TOP 2.21: Ausgestaltung des BVV-Saals - vertagt
+- TOP 2.22: Straßenertüchtigung für den Kiez-Bus Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Perspektive für Stellen des Arbeitsmarktpolitischen Rahmenprogramms (ARP) der Frauenprojekte - vertagt
+- TOP 2.24: Weißenseer Blumenfest - vertagt
+- TOP 2.25: Förderprogramm Stadtumbau Ost - Vorschlagsliste für die Programmplanung 2010 - vertagt
+- TOP 2.26: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Bebauungsplan 3-12 vom 10. Februar 2009 für das Gelände zwischen den nördlichen Grenzen der Grundstücke Roelckestraße 93, Berliner Allee 317 und 321, Berliner Allee; Nüßlerstraße und Roelckestraße sowie einen Abschnitt der Feldmannstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Projekte und Maßnahmen Stadtumbau Ost auf der Grundlage der Überarbeitung des Integrierten Stadtteilentwicklungskonzepts (INSEK) für den Ortsteil Buch - Prioritätensetzung - mit Abschlussbericht zur Kenntnis genommen
