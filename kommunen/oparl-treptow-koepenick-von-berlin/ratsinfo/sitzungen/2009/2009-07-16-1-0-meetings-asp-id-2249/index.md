@@ -1,0 +1,79 @@
+# 32. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-07-16T16:30:00+02:00
+- Ende: 2009-07-16T21:15:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2249
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2249
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - im Ausschuss abgelehnt
+- TOP 3: Bürgerfragestunde - gegenstandslos
+- TOP 4: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-31 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Schallschutzverordnung verbessern! - in der BVV zurückgezogen
+- TOP 9.2: Büste von Ernst Schneller - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Entwicklung und Perspektiven der Fahrgastschifffahrt in Treptow-Köpenick - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Bebauungsplan XVI-1b (''Am Krusenick'') - Entwurf des Bebauungsplans XVI-1b nebst Begründung - Entwurf der Rechtsverordnung über die Festsetzung zum Bebauungsplan XVI-1b im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2010 und 2011 - überwiesen
+- TOP 11.3: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 911) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für ESV Lok Schöneweide (SM 919) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Sondermittel für Freunde der Joseph-Schmidt-Musikschule e.V. (SM 930) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Indische Solidaritätsaktion e.V. (SM 933) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für NBZ Hessenwinkel e.V. (SM 935) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.8: Sondermittel für Alte Möbelfabrik e. V. (SM 937) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Kietz-AG Baumschulenweg (SM 938) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für Bürgerverein Altglienicke e. V. (SM 939) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Sondermittel für ESV Lok Schöneweide (SM 940) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Arztparkplätze - ohne Änderungen im Ausschuss beschlossen
+- TOP 12.2: Kreuzender Radverkehr in der Fürstenwalder Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Fluglärm-Messstelle in Müggelheim - überwiesen
+- TOP 12.4: Überweg für Fußgängerinnen und Fußgänger in der Friedrichshagener Str. 5 - ohne Änderungen im Ausschuss beschlossen
+- TOP 12.5: Zentren- und Einzelhandelskonzept Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bebauungsplan 9-35 (''Magazine und Depots'') hier: - Auswertung der Beteiligung der Träger öffentlicher Belange - Teilung und Erweiterung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Ziele der kommunalen Partnerschaften <span style="color: #888a85" title="Zusatzinfo">(Betreff mit Beschluss geändert)</span> - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Gleichstellungspolitische Ziele - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Bildung einer Arbeitsgruppe "Zuwendung Privater" (AG ZP) im Bezirksamt Treptow-Köpenick - überwiesen
+- TOP 12.10: Vertreter der Berliner Bezirke bei der Europäischen Union - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: 2. Änderungsbeschluss zum Bezirksamtsbeschluss Nr. 267/94 vom 31.10.1994 für den Bebauungsplanentwurf XVI-78 ("Schwefelberg") hier: Reduzierung und Teilung des Geltungsbereiches - überwiesen
+- TOP 13.2: Bebauungsplan XVI-1b (''Am Krusenick'') hier: Planreife für das Vorhaben gemäß Antrag vom 18.06.2009 im Allgemeinen Wohngebiet WA 2 der Grundstücke Friedrichshagener Straße 9 (teilw.), 9a (teilw.) im Bezirk Treptow-Köpenick, Ortsteil Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplans 2010/2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Touristische Unterrichtungstafel für das UNESCO-Weltkulturerbe "Gartenstadt Falkenberg" an der Autobahn - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Baubeiräte - überwiesen
+- TOP 14.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.4: Auf dem Bahnaußenring zum BBI - überwiesen
+- TOP 14.5: Einheitliche Vorfahrtsregelung in der Waltersdorfer Straße - in der BVV abgelehnt
+- TOP 14.6: Beseitigung von seit Jahren bekannten Straßenschäden in der Coloniaallee/Altglienicke - überwiesen
+- TOP 14.7: Änderung der Geschäftsordnung vom 28. Mai 2009 – Umgang mit den Vorlagen zur Kenntnisnahme - überwiesen
+- TOP 14.8: Verzicht auf Schranke in der Altstadt Köpenick - überwiesen
+- TOP 14.9: Hallennutzungszeiten für Studierende - überwiesen
+- TOP 14.10: Parken am Bahnhof Schöneweide - überwiesen
+- TOP 14.11: Sicherung Niederschöneweider Jugendprojekte - überwiesen
+- TOP 14.12: Ausweitung des Berechtigtenkreises für die Entgelt-Ermäßigung in der VHS Treptow-Köpenick - überwiesen
+- TOP 14.13: Schließung der Levi-Strauss-OS mit Ablauf des Schuljahres 2009/2010 - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Dahme-Radweg - überwiesen
+- TOP 14.15: Querung von Kopfsteinpflasterstraßen - überwiesen
+- TOP 14.16: Ampelanlage für Kreuzung Walter-Huth-Str. / Segelfliegerdamm - überwiesen
+- TOP 14.17: Verhaltensregeln für die Mitglieder der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin (Anlage 1 der Geschäftsordnung) - überwiesen
+- TOP 14.18: Global denken – lokal handeln - überwiesen
+- TOP 14.19: Runder Tisch Helmholtzkiez - überwiesen
+- TOP 14.20: Mitglieder der Sozialkommissionen - überwiesen
+- TOP 14.21: Unterstützung für das Aktionsprogramm Kindertagespflege - überwiesen
+- TOP 14.22: Entwicklung des Forums Adlershof vollenden - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bauvorhaben Obdachlosenheim in Hartriegelstraße von Hebron GmbH - beantwortet
