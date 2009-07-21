@@ -1,0 +1,181 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-07-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1621175
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1621175
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Kreisjugendring München-Stadt (Az.: 07/09 - 3.4.1): Zuschuss in Höhe von 1897 ? für das Sommerferienprogramm 2009
+- TOP 2.3.2.: Antrag ASZ Neuhausen (Az.: 07/09 - 3.4.2): Zuschuss in Höhe von 362 ? (zuschussfähig 72 ?) für ein Treffen der Ehrenamtlichen
+- TOP 2.3.3.: Antrag Dauerkleingartenanlage NW 1 e.V. (Az.: 07/09 - 4.1): Zuschuss in Höhe von 350 ? für das Bürgerfest am 18.07.09
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage KVR (Az.: 07/09 - 3.1.1): Verlegung Taxistandplatz Wilhelm-Hale-Straße Ecke Birketweg
+- TOP 2.4.2.: Beschlussvorlage KVR (Az.: 07/09 - 3.1.2): Verlegung Taxistandplatz Schloss Nymphenburg
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 07/09 - 4.2): Genehmigung einer Freischankfläche, "Cafe Neuhausen", Blutenburgstr. 106
+- TOP 2.4.4.: Beschlussvorlage KVR (Az.: 07/09 - 4.3): Genehmigung einer Freischankfläche, "Asia-Feinkost", Schlörstr. 15
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Beschlussvorlage KVR: Verlegung Taxistandplatz Wilhelm-Hale-Straße Ecke Birketweg
+- TOP 3.2.: Beschlussvorlage KVR: Verlegung Taxistandplatz Schloss Nymphenburg
+- TOP 3.3.: Antrag SPD: Neue und verlängerte Fahrbahnmarkierung der Abbiegespuren am Romanplatz
+- TOP 3.4.: Antrag SPD: Neue Weichen für die Straßenbahn am Romanplatz
+- TOP 3.5.: KVR: Abbau der Lichtzeichenanlagen a) Blutenburg-/Maillingerstraße
+- TOP 3.6.: b) Dom-Pedro-/Raglovichstraße
+- TOP 3.7.: KVR: Horemansstr. 6 a, Haltverbot zur besseren Erreichbarkeit der Feuerwehrzufahrt
+- TOP 3.8.: KVR: Haltestellen der Stadtrundfahrtslinien der Münchner Stadtrundfahrten oHG
+- TOP 3.9.: Baureferat: Fahrbahnsanierung Zuccali-, Kemnaten-, Laimer Straße
+- TOP 3.10.: RGU: Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn in der Menzinger Straße
+- TOP 3.11.: Baumaßnahmen der Stadtwerke im Juni
+- TOP 3.12.: Baumaßnahmen der Stadtwerke: Fernwärmeprojekt Renatastraße
+- TOP 3.13.: Baumaßnahmen der Stadtwerke: Fernwärmeprojekt Volkartstraße
+- TOP 3.14.: Baumaßnahmen der Stadtwerke: Wasserprojekt Zuccalistraße
+- TOP 3.15.: Stadtwerke: Spartenanfrage Südliches Schlossrondell bis Zuccalistr. 2 a
+- TOP 3.16.: KVR: Bürgeranliegen Verkehrsführung Kreuzung Wotanstraße / Winfriedstraße / Margarethe-Danzi-Straße und Verkehrsführung in der Margarethe-Danzi-Straße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.17.: KVR: Bürgeranliegen Aufhebung der Einbahnstraßenregelung an der Ecke De-la-Paz-/Winfriedstraße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.18.: Baureferat: Errichtung einer neuen Bushaltestelle in der Wendl-Dietrich-Straße beidseitig (Schreiben BA 9 vom 19.05.09)
+- TOP 3.19.: Bürgeranliegen: Gefährdung durch im Haltverbot geparkte Pkw und Lkw in der Johann-Sebastian-Bach-Straße (Schreiben BA 9 vom 19.05.09)
+- TOP 3.20.: Geschichtswerkstatt Neuhausen: Vorschläge zur Benennung des Weges zwischen der Leonrod- und der Hilblestraße (Wiedervorlage aus der Sitzung vom 16.06.09)
+- TOP 3.21.: MVG: Bürgeranliegen Verlängerung der Buslinie 132 zum Olympiapark West
+- TOP 3.22.: KVR: Erteilung von Sondernutzungserlaubnissen für Fahrradständer; Fahrradabstellkonzept
+- TOP 3.23.: Beschluss der Vollversammlung des Stadtrats vom 20.05.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München, Hinweis/Ergänzung vom 30.04.09
+- TOP 3.24.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Margit-Schramm-Str. 21
+- TOP 3.25.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Gabrielenstraße in der Parkbucht vor Blutenburgstr. 55
+- TOP 3.26.: Antrag SPD: Andere Endhaltestelle für den 168er Bus Nymphenburg Süd
+- TOP 3.27.: Stadtwerke: Steuerung der Rolltreppen am Rotkreuzplatz (Antrag Nr. 960 BA 9 vom 17.03.09)
+- TOP 3.28.: Bürger: Halteverbot Gudrunstraße (Wiedervorlage aus der Sitzung vom 16.06.09)
+- TOP 3.29.: =&gt; dazu: KVR: Haltverbote in der Gudrunstraße Ostseite
+- TOP 3.30.: KVR: Entfernung von 2 Parkplätzen und Umwandlung in Haltverbot in der Romanstraße (Antrag Nr. 736 BA 9 vom 16.12.08)
+- TOP 3.31.: Beschluss des Bauausschusses vom 16.06.09: Mehrjahresinvestitionsprogramm für die Jahre 2009-2013 mit verbindlicher Planung für 2014
+- TOP 3.32.: KVR: Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr: a) Weiglstraße b) Ofterdingenstraße c) Nodungstraße d) Schobserstraße e) Hilblestraße zwischen Hausnr. 10 und Dachauer Straße f) Prinzenstraße zwischen Edda- und Notburgastraße g) Merianstraße zwischen Triva- und Dom-Pedro-Straße
+- TOP 3.33.: KVR: Bürgeranliegen Radspur Donnersbergerbrücke (Schreiben BA 9 vom 19.05.09)
+- TOP 3.34.: KVR: Zebrastreifen Nederlinger-/Mettenstraße (Schreiben BA 9 vom 17.06.08)
+- TOP 3.35.: BA-Antrag Situation in der Landshuter Allee (Tunnelverlängerung und Verbesserung der Verkehrsknoten) - Sachstand
+- TOP 3.36.: Baureferat: Instandsetzung des Schulwegs zur Grundschule Gertrud-Bäumer-Straße (Antrag Nr. 2756 des BA 9 vom 15.01.08)
+- TOP 3.37.: Antrag FDP: Ampelschaltung im Bereich Wintrichring Höhe "In den Kirschen"
+- TOP 3.38.: Parkraummanagement
+- TOP 3.39.: Bürgeranliegen: Parklizenzbereich Kasernenviertel vor der KiTa Heldstraße
+- TOP 3.40.: Bürgeranliegen: Parklizenzbereich Kasernenviertel - Namensgebung
+- TOP 3.41.: Bürgeranliegen: Parklizenz in der Lazarettstraße
+- TOP 3.42.: Antrag Die Grünen: Einführung des Parkraummanagements für den Bereich zwischen Landshuter Allee und Renatastraße
+- TOP 3.43.: Planungsreferat: Bürgeranliegen Parklizenzierung Neuhausen westlich der Landshuter Allee (Schreiben BA 9 vom 19.05.09)
+- TOP 3.44.: Baureferat: Verschiebung der Parkscheinautomaten in der Leonrodstr. 83/85
+- TOP 3.45.: Baureferat: Keine Verschiebung des Parkscheinautomaten in der Lazarettstr. 3
+- TOP 3.46.: Bürgeranliegen: Laimer Unterführung, Konflikt Radfahrer / Fußgänger
+- TOP 3.47.: Antrag CSU-Stadtratsfraktion: Gefahrenfreie gemeinsame Nutzung der Laimer Unterführung von Fußgängern und Radfahrern - insbesondere des verengten, einspurigen Teilabschnitts zwischen S-Bahn-Aufgang und Wotanstraße/Nymphenburg Süd
+- TOP 3.48.: Beschluss der Vollversammlung des Stadtrates vom 20.05.09: 2. S-Bahn-Stammstrecke; Verfahrensstand, weitere Information, Expertenhearing vom 25.03.09
+- TOP 3.49.: Planungsreferat: Beschlussvorlage Ablehnung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus
+- TOP 3.50.: Beschluss der Vollversammlung des Stadtrates vom 20.05.09: Verbesserung der Schienenanbindung des Flughafens München
+- TOP 3.51.: Baureferat: Ausschreibung eines Gestaltungswettbewerbs für den Romanplatz (Schreiben BA 9 vom 16.06.09)
+- TOP 3.52.: Bürgeranliegen: Verkehrssituation Parkplatz an der Königbauerstraße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 25.05.-31.05., 01.06.-07.06., 08.06.-14.06., 15.06.-21.06., 22.06.-28.06. und 29.06.-05.07.09
+- TOP 3.2.: Sozialreferat: Kommunales Wohnungsbauförderprogramm, Ausschreibung von Grundstücken
+- TOP 3.3.: Bürgeranliegen: Lärmbelästigung der Anwesen Christoph-Rapparini-Bogen 13,15 und 17 durch ICE-Züge (Verweisung aus der Sitzung vom 16.06.09)
+- TOP 3.4.: Bauvorhaben Ernst-Henle-Straße: Neubau einer Wohnanlage, Vorbescheid
+- TOP 3.5.: Bauvorhaben Wilhelm-Düll-Str. 29: Aufstockung eines Mehrfamilienhauses mit Erweiterung der Tiefgarage, Vorbescheid
+- TOP 3.6.: Gewofag: Modernisierungsmaßnahmen Apostelblöcke (Schreiben BA 9 vom 21.04.09)
+- TOP 3.7.: Planungsreferat: Anforderung der Pläne zum Bauvorhaben Lannerstr. 5 (Schreiben BA 9 vom 17.02.09)
+- TOP 3.8.: Beschluss der Vollversammlung des Stadtrats vom 20.05.09: Neuer Mieterbeirat
+- TOP 3.9.: Überprüfung Erhaltungssatzung fürs "Maxim", Landshuter Allee 33
+- TOP 3.10.: Bürgeranliegen: Ablehnung der Umnutzung im Hause Pegnitzstr. 5
+- TOP 3.11.: Bauvorhaben Döllingerstr. 14: Neubau eines Einfamilienhauses
+- TOP 3.12.: =&gt; dazu: Baumfällungen
+- TOP 3.13.: Bauvorhaben Scherrstr. 7: Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage; hier: Baumfällungen
+- TOP 3.14.: Bürgeranliegen: Bebauungspläne Zuccalistr. 33
+- TOP 3.15.: Bauvorhaben Volksgartenstr. 2: Neubau von 12 Stadthäusern mit Tiefgarage; hier: Baumfällungen
+- TOP 3.16.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Wohnen in München IV, Erfahrungsbericht für das Jahr 2008
+- TOP 3.17.: Bauvorhaben Alfonsstr. 8: Umbau und Umnutzung von Lehrsälen der Grund- und Hauptschule, Brandschutzmaßnahmen mit Neubau von Fluchttreppen; hier: Baumfällungen
+- TOP 3.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München; Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung
+- TOP 3.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München; Langfristige Siedlungsentwicklung
+- TOP 3.20.: Baureferat: Bürgeranliegen Vorschläge für eine Neugestaltung des Leonrodplatzes (Schreiben BA 9 vom 17.03.09)
+- TOP 3.21.: Richelstraße: Fällung von 1 Waldkiefer und 2 Spitzahorn wegen der zukünftigen Wegführung laut Bebauungsplan Nr. 1926 a
+- TOP 3.22.: Beschluss des Bauausschusses vom 07.07.09: Postwiese und umliegende öffentliche Grünflächen zwischen Donnersbergerbrücke und Friedenheimer Brücke im Bebauungsplan Nr. 1926 a
+- TOP 3.23.: Planungsreferat: Bürgeranliegen Bauvorhaben Hirschgarten 1 (Schreiben BA 9 vom 16.06.09)
+- TOP 3.24.: Nichtöffentlich:
+- TOP 3.25.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Wendl-Dietrich-Straße
+- TOP 3.26.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Nymphenburger Straße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Lothstr. 17: Fällung von 1 Robinie
+- TOP 3.2.: Ysenburgstr. 7: Fällung von 1 Esche
+- TOP 3.3.: Volkartstr. 33: Fällung von 1 Silberahorn
+- TOP 3.4.: Volkartstr. 40: Fällung von 1 Birke
+- TOP 3.5.: Dom-Pedro-Str. 35: Fällung von 1 Birke
+- TOP 3.6.: Palestrinastr. 12: Fällung von 1 Blauzeder
+- TOP 3.7.: Fuststr. 23: Fällung von 1 Tanne
+- TOP 3.8.: Südliche Auffahrtsallee 67: Fällung von 1 Esche
+- TOP 3.9.: Nördliches Schlossrondell 8: Fällung von 1 Walnuss
+- TOP 3.10.: Wintrichring 87: Fällung von 1 Lärche
+- TOP 3.11.: Franz-Schrank-Str. 9: Fällung von 1 Akazie
+- TOP 3.12.: Arnulfstr. 103-105: Fällung von 1 Birke
+- TOP 3.13.: Arnulfstr. 269-277c: Fällung von 1 Weide
+- TOP 3.14.: Herthastr. 5: Baumveränderung an 1 Ahorn
+- TOP 3.15.: Mechthildenstr. 34: Fällung von 1 Robinie
+- TOP 3.16.: Stadtwerke: Baumfällarbeiten in der Minerviusstr. 8 und 12
+- TOP 3.17.: Planungsreferat: Fällung von 1 Kastanie als Gefahrenbaum im Hirschgarten
+- TOP 3.18.: Antrag FDP: Mülleimer im Bereich Nördliche und Südliche Auffahrtsallee
+- TOP 3.19.: Abfallwirtschaftsbetrieb: Wertstoffcontainerstandort Margarethe-Danzi-Straße / Rosa-Bavarese-Straße
+- TOP 3.20.: Planungsreferat: Fällungsgenehmigung Sedlmayrstr. 33-41, Schluderstr. 29-31
+- TOP 3.21.: Planungsreferat: Fällungsgenehmigung Prinzenstr. 53
+- TOP 3.22.: Planungsreferat: Fällungsgenehmigung Hubertusstr. 1
+- TOP 3.23.: Planungsreferat: Fällungsgenehmigung Zamboninistr. 57
+- TOP 3.24.: Planungsreferat: Fällungsgenehmigung Romanstr. 93
+- TOP 3.25.: Planungsreferat: Fällungsgenehmigung Pfänderstr. 6
+- TOP 3.26.: Wintrichring 89: Fällung von 4 Rotfichten
+- TOP 3.27.: Planungsreferat: Vollzug des Bayerischen Naturschutzgesetzes; Neufassung der Naturdenkmalverordnung
+- TOP 3.28.: Bürgeranliegen: Wertstoffinsel Herthastraße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag Kreisjugendring München-Stadt: Zuschuss in Höhe von 1897 ? für das Sommerferienprogramm 2009
+- TOP 3.2.: Antrag ASZ Neuhausen: Zuschuss in Höhe von 362 ? (zuschussfähig 72 ?) für ein Treffen der Ehrenamtlichen
+- TOP 3.3.: Bürgeranliegen: Hortsituation Gertrud-Bäumer-Schule
+- TOP 3.4.: =&gt; dazu: Schreiben BA 4: Fehlende Hortplätze für Kinder aus dem Ackermannbogen
+- TOP 3.5.: Bürgeranliegen: Unterstützung beim Jugendamt bzgl. Schaffung einer Planstelle für Schulsozialarbeit an der Grundschule Hirschbergstraße
+- TOP 3.6.: Bürgeranliegen: Antrag zum Kinderkrippenumbau
+- TOP 3.7.: Sozialreferat: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen (Antrag des BA 10 Moosach)
+- TOP 3.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 08.07.09: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010
+- TOP 3.9.: Beschluss des Sozialausschusses vom 28.05.09: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2009-2013, Einzelplan 4 / Sozialbereich
+- TOP 3.10.: Beschluss des Kinder- und Jugendhilfeausschusses vom 26.05.09: Entwurf des Mehrjahresinvestitionsprogramms 2009-2013, Einzelplan 4 / Jugendamtsbereich (Wiedervorlage aus der Sitzung vom 16.06.09)
+- TOP 3.11.: Bürgeranliegen: Fußballwiese für Kinder im Bereich des Helene-Lange-Wegs
+- TOP 3.12.: Bürgeranliegen: Spielplatz / Fahrradweg Zuccalistraße
+- TOP 3.13.: Kulturreferat: Schulbücherei Grundschule Hirschbergstraße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.14.: Sozialreferat: Vorsichts- und Sicherheitsmaßnahmen in der Tagesbetreuung (Tagesmütter- und väter) (Schreiben BA 9 vom 21.04.09)
+- TOP 3.15.: Schulreferat: Gewaltprävention im Kindergarten (Schreiben BA 9 vom 17.02.09)
+- TOP 3.16.: Antrag Die Grünen: Lilalu: Gebührenbefreiung für das Theaterfestivalgelände
+- TOP 3.17.: Elternbeirat: Erweiterung der Kita Frundsbergstr. 43 um den Anbau einer sog. Lernwerkstatt
+- TOP 3.18.: Direktorium: Nochmalige Überprüfung eines Budgetantrags, hier: VPJ
+- TOP 3.19.: Bürgeranliegen: Zeitungsartikel "Verwaister Erholungspark" Taxisstraße
+- TOP 3.20.: =&gt; dazu: Schreiben Schlösser- und Seenverwaltung
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Ergebnis Ortsbegehung Kino "Maxim", Landshuter Allee 33, am 06.07.09 / Antrag an das Kulturreferat
+- TOP 3.2.: Planungsreferat: Überplanung des Areals Dachauer Str. 102-114 (Antrag Nr. 959 BA 9 vom 17.03.09)
+- TOP 3.3.: Beschluss des Kulturausschusses vom 18.06.09: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2009-2013 und Stellungnahme zu den Anregungen der Bezirksausschüsse
+- TOP 3.4.: Oberbürgermeister Ude: Wandgestaltung Donnersbergerbrücke (Schreiben BA 9 vom 17.03.09) / Ergebnis Ortsbegehung am 29.06.09
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Dauerkleingartenanlage NW 1 e.V.: Zuschuss in Höhe von 350 ? für das Bürgerfest am 18.07.09
+- TOP 4.2.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche, "Cafe Neuhausen", Blutenburgstr. 106
+- TOP 4.3.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche, "Asia-Feinkost", Schlörstr. 15
+- TOP 4.4.: Bürgeranliegen: Beschwerde über Lärmbelästigung durch das AO-Hotel in der Arnulfstr. 102
+- TOP 4.5.: KVR: Sommerfest des Waisenhauses in der Waisenhausstr. 20 am 09.07.09
+- TOP 4.6.: KVR: Sommerfest und Tag der offenen Tür im Werkhaus in der Leonrodstr. 19 am 17.07.09
+- TOP 4.7.: KVR: Sommerfest der Maria-Ward-Schulen in der Maria-Ward-Str. 5 am 29.07.09
+- TOP 4.8.: KVR: Radfahrt "Tour de Franz" am 02.08.09
+- TOP 4.9.: KVR: Kinderfest im Hirschgarten Nähe Wasserspielplatz am 08.08.09
+- TOP 4.10.: KVR: Straßenfest SPD Neuhausen-Nymphenburg auf dem Rotkreuzplatz am 29.08.09
+- TOP 4.11.: KVR: Ritterfest 2010 auf der Grünanlage Olympiapark Süd, Voranfrage
+- TOP 4.12.: KVR: Kundgebung der "Ostturkistanischen Union in Europa e.V." am 03.07.09 gegenüber dem chinesischen Konsulat in der Romanstraße Ecke Hirschgartenallee
+- TOP 4.13.: KVR: Kundgebung zum Gedenken der Opfer des Völkermords in Srebrenica am 11.07.09 auf dem Rotkreuzplatz
+- TOP 4.14.: KVR: Pächterwechsel "Taj Mahal", Nymphenburger Str. 145
+- TOP 4.15.: KVR: Drehgenehmigung Produktion "Die Rosenheim-Cops" am 22. und 23.06.09 in der Nibelungenstr. 22-24 und Nimrodstr. 1 und am 01.07.09 in der Südlichen Auffahrtsallee 58
+- TOP 4.16.: Beschluss des Kommunalausschusses vom 18.06.09: Mehrjahresinvestitionsprogramm 2009-2013; Maßnahmen im Bereich des Kommunalreferates
+- TOP 4.17.: Sozialreferat: Ergebnis der Vorstandswahl Seniorenbeirat 2009
+- TOP 5: Verschiedenes
