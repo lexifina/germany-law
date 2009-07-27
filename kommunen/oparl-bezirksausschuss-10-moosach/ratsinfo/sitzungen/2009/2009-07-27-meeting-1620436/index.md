@@ -1,0 +1,75 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620436
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620436
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: a) Straßenerneuerung in der Pelkovenstraße zwischen Feldmochinger Straße und Claudiusplatz b) Fußgängerstreifen in der Hanauer Straße zwischen Mc Donald's und Saturn c) Bahnsteigbreite an der Station OEZ der U 1
+- TOP 2.2.: Heckenbepflanzung in Moosach; Gehwegparken
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Beibehaltung des Schulbusses 88
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Grünanlage Claudiusplatz
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Aufstellung von zusätzlichen Hunde-Tütenspendern
+- TOP 4.2.: Radweg "Am Kapuzinerhölzl" - Einfahrt Berufsschule
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; ASZ Moosach: Jazzfrühschoppen am 21.06.2009
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10; Freizeitstätte "Boomerang": Sommerferienprogramm
+- TOP 5.3.: Gewährung eines Zuschusses aus dem Budget des BA 10; AG "Brunnen für Moosach"
+- TOP 6: Anhörungen
+- TOP 6.1.: Halteverbot auf der Westseite der Hünefeldstraße
+- TOP 6.2.: Neufassung der Naturdenkmalverordnung
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Radweg an der Südseite des Georg-Brauchle-Rings auf Höhe des AWM (Weitergabe an das Baureferat)
+- TOP 7.2.: Überprüfung der Ampelschaltungen Max-Born-Str./Triebstraße und Hanauer Str./Triebstraße (Lösung der Problematik mit verkehrstechnischen Mitteln nicht möglich)
+- TOP 7.3.: Einrichtung von Kurzparkplätzen a) in der Feldmochinger Straße b) in der Hardenbergstraße
+- TOP 7.4.: Einrichtung einer Kurzparkzone in der Feldmochinger Straße, nördlich Treitschkestraße
+- TOP 7.5.: Einrichtung einer Kurzparkzone in der Hardenbergstraße, östlich Meggendorfer Straße
+- TOP 7.6.: Überprüfung der Kreuzung Riesstraße / Georg-Brauchle-Ring (Schließung des Mittelteilers erforderlich)
+- TOP 7.7.: Solarenergie auf den Bahnsteigdächern am Moosacher Bahnhof (nicht möglich)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Straßenunterhaltsarbeiten Netzerstr. 70 und 72 (Gehweg)
+- TOP 8.4.: Straßenunterhaltsarbeiten Dachauer Str. 250 - 258 (Feuerwehr-Zufahrten)
+- TOP 8.5.: Pächterwechsel "Augustinerstüberl", Feldmochinger Str. 24 a
+- TOP 8.6.: Sanierung des Schulzentrums an der Gerastraße
+- TOP 8.7.: Erneuerungsmaßnahme Pelkovenstraße (2. Bauabschnitt)
+- TOP 8.8.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München
+- TOP 8.9.: Einladung zu einer Informationsveranstaltung der DFS Deutsche Flugsicherung GmbH
+- TOP 8.10.: 2. S-Bahn-Stammstrecke (geänderter Beschluss)
+- TOP 8.11.: Budget der Bezirksausschüsse: Jahresrückblick 2008
+- TOP 8.12.: Fällungsgenehmigung Simmerleinplatz 20
+- TOP 8.13.: Errichtung einer Lichtzeichenanlage an der Einmündung Ambossstraße in die Allacher Straße
+- TOP 8.14.: Herstellung der öfentlichen Verkehrsflächen im Umgriff des Bebauungsplanes 1379 (Gärtner-, Dürr-, Messerschmitt-, Dessauerstraße, Hans-Bunte-Straße); Ausführungsgenehmigung
+- TOP 8.15.: Zweckentfremdung von Wohnraum: a) Treitschkestr. 4 b) Simrockstr. 1 c) Rathgeberstr. 34 d) Pelkovenstr. 143
+- TOP 8.16.: Bekanntgabe des Wahlergebnisses der 9. Münchner Seniorenvertretung
+- TOP 8.17.: Perspektive München: Langfristige Siedlungsentwicklung
+- TOP 8.18.: Münchner Bürgerinnen und Bürgerbefragung
+- TOP 8.19.: Information über das Betriebskonzept für die Weichenerneuerung am U-Bahnhof "Olympiazentrum"
+- TOP 8.20.: Wohnen in München IV (Erfahrungsbericht)
+- TOP 8.21.: Persprektive München: Aktualisierung Leitlinie Ökologie
+- TOP 8.22.: Perspektive München: Fortschreibungskonzept
+- TOP 8.23.: Gewerbeflächenentwicklung; Expertise zur nachfrage und zum Bedarf des klassischen Gewerbes in München
+- TOP 8.24.: GWG-Jahresbericht
+- TOP 8.25.: Kooperatives Verkehrsmanagement für die Region München (KVM)
+- TOP 8.26.: Perspektive München: Fortschreibung des Zentrenkonzepts
+- TOP 8.27.: Mehrjahresinvestitionsprogramm für die Jahre 2009 bis 2013 mit verbindlicher Planung für 2014
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
