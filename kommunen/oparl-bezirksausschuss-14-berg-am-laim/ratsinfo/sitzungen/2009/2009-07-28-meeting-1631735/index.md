@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631735
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631735
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Wiedererrichtung der beseitigten Wartehäuschen an der Straßenbahnhaltestelle Kreillerstraße, beide Fahrtrichtungen
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich) - Bahnlinie München-Rosenheim (südlich)
+- TOP 3.1.1.2.: Thomas-Hauser-Straße - Abstellen von Gebrauchtwagen in einer Grünanlage
+- TOP 3.1.2.1.: Grüner Linksabbiegepfeil an der Ampelanlage Kreillerstraße / Ecke St.-Veit-Straße - <div></div>
+- TOP 3.1.2.2.: Beeinträchtigung der Sichtverhältnisse im Josef-Ritz-Weg bzw. an den Einmündungen zu Hansjakob - und Baumkirchner Straße durch parkende Fahrzeuge, insbesondere LKW - Anfrage aus der Bürgerversammlung des Stadtbezirkes 14 vom 19.03.2009
+- TOP 3.1.2.3.: Ablehnung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus - - Empfehlung Nr. 08-14 / E 00243 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 26.03.2009
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Schulcontainer für das Sonderpädagogische Förderzentrum Innsbrucker Ring spätestens zum Schulbeginn 2010/2011 - <div></div>
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 - Kinderkrippe Dingolfinger Str. 11 (AWO) mit 48 Kinderkrippenplätzen - Ausstattung
+- TOP 3.4.2.: Verfügungsfond der Sozialen Stadt
+- TOP 3.5.1.: Initiative Rosenfeld-Buch - Antrag auf Bezuschussung aus dem BA-Budget (3.5.1./06/09)
+- TOP 3.7.1.: Neufassung der Naturdenkmalverordnung
+- TOP 3.7.2.: Berg-am-Laim-Str. 117 - Baumbestandspläne
+- TOP 3.7.3.: Ringbergstraße 26 - Baumfällungsantrag
+- TOP 3.7.4.: Hachinger-Bach-Str. 27 - Baumfällungsantrag
+- TOP 3.7.5.: Hachinger-Bach-Str. 34 - Baumfällungsantrag
+- TOP 3.7.6.: Krumbadstraße - Freiflächengestaltung
+- TOP 3.7.7.: Kraiburger Str. 6 - Freiflächengestaltung
+- TOP 3.7.8.: Gronsdorfer Str. 3 - Baumfällungsantrag
+- TOP 3.7.9.: Altöttinger Str. 3 - Freiflächengestaltung
+- TOP 3.7.10.: Rottalstraße 4 - 8 - Freiflächengestaltung
+- TOP 3.6: Sonstiges
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Planungsangelegenheiten / Bauvorhaben
+- TOP 4.1.1.2.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.3.: Münchner Bürgerinnen- und Bürgerbefragung 2009 / 2010
+- TOP 4.1.1.4.: PERSPEKTIVE MÜNCHEN - Langfristige Siedlungsentwicklung a) Grundsatzbeschluss - Rahmenbedingungen &Trends - Potenziale - Schlussfolgerungen b) Weiteres Vorgehen c) Vergaben eines Werkauftags
+- TOP 4.1.1.5.: PERSPEKTIVE MÜNCHEN - Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung a) Grundsatzbeschluss b) BA-Antrag-Nr. 08-14 / B 00734 des Bezirksausschusses 25 Laim vom 02.12.2008
+- TOP 4.1.1.6.: PERSPEKTIVE MÜNCHEN - Fortschreibungskonzept
+- TOP 4.1.1.7.: PERSPEKTIVE MÜNCHEN - Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz Konzept für die Öffentlichkeitsphase - Bekanntgabe -
+- TOP 4.1.1.8.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Bagatellgrenze bei Förderquoten; Einführung als ?Kann-Bestimmung? bei Befreiungen nach § 31 Absatz 2 Baugesetzbuch (BauGB) 2. Abschaffung der mietwirksamen, ratenweise fälligen Kaufpreisbestandteile (?mietpreisrelevante Geldleistungen?) bei städtischen Grundstücken für die Einkommensorientierte Förderung - EOF 3. Einführung einer einheitlichen Regelung für Mietsteigerungen im geförderten Mietwohnungsbau auf städtischen Grundstücken (München Modell-Miete, München Modell-Genossenschaften, KomPro A und KomPro B, EOF)
+- TOP 4.1.1.9.: Gewerbeflächenentwicklung Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München - Bekanntgabe -
+- TOP 4.1.1.10.: Wildenwarter Straße - Abbruchanzeige
+- TOP 4.1.1.11.: Friedenstraße 10 - "Kuhstall" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.12.: Kreillerstraße 71 - "Lounge 35" - Antrag auf unveränderte Fortführung
+- TOP 4.1.1.13.: Altöttinger Str. 33 - "Café Geiger" - Antrag auf unveränderte Fortführung
+- TOP 4.1.2.1.: S-Bahn-Unterführung Berg am Laim - Errichtung einer separaten Fuß- und Radwegunterführung - Projektaktualisierung seitens der Deutsche Bahn AG
+- TOP 4.1.2.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2010
+- TOP 4.1.2.3.: Kooperatives Verkehrsmanagement für die Region München (KVM) Projekt arrive - Angebote für eine mobile Region Beteiligung der Landeshauptstadt München
+- TOP 4.1.2.4.: Verkehrsentwicklung in Trudering-Riem - BA-Antrag Nr. 02547
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Kindertagesstätten sonstiger Träger; Kindertageseinrichtung an der Pertisaustraße 9 - Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Nachbarschaftstreff Maikäfersiedlung - Trägerschaftsauswahl für ein Projekt der Quartierbezogenen Bewohnerarbeit in der Maikäfersiedlung
+- TOP 4.5.1.: Instandsetzung des Kruzifix Berg-am-Laim-Straße 131 - Kurzbericht nach Abschluss der Maßnahme
+- TOP 4.5.2.: Gestaltung von Pausenhofmauern an der Berg-am-Laim-Schule - Schriftverkehr
+- TOP 4.5.3.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straße der Landeshauptstadt München (Sondernutzungsgebührensatzung)
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
