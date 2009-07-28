@@ -1,0 +1,136 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2009-07-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1600926
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1600926
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.2: Instandsetzung und Erweiterung der Schule an der Grandlstraße
+- TOP 1.2.1.2: Bericht des Vorsitzenden zu den Baustellen im Pasinger Zentrum
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: Gefahrenstelle Alte Allee (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 2.2.: Einbahnregelung für den Steinerweg
+- TOP 2.3.: Keine Ausleitung von Würmwasser an der Mergenthalterstraße / Erhalt der Wiese
+- TOP 2.4.: Abgabe von Gewerbemüll im Wertstoffhof Obermenzing
+- TOP 2.5.: Bebauung und Baumfällungen auf einem Grundstück in der Döbereinerstraße
+- TOP 2.6.: Sanierung Fußweg Hartlebenstraße bis Kraillinger Weg
+- TOP 2.7.: (N) Schaffung von Betreuungsplätzen an der Grundschule An der Schäferwiese
+- TOP 2.8.: (N) Fäkalien in Obermenzing
+- TOP 2.9.: (N) Schulwegsicherheit an der Kreuzung Hermann-Köhl-Str. / Offenbachstr. / Gottfried-Keller-Straße
+- TOP 2.10.: (N) Weiterführung des Radweges von der Agnes-Bernauer-Straße in die Gräfstraße
+- TOP 2.11.: (N) Platz / Räumlichkeit für Kinderveranstaltung
+- TOP 3: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: Härtingerstraße 6, 1 Rotfichte, 1 Birke
+- TOP 3.2.: Falkweg 25, 2 Thujen
+- TOP 3.3.: Betzenweg 76, 1 Kirsche, 1 Tanne
+- TOP 3.4.: (N) Gräfstraße 38, Baumbestandsplan
+- TOP 3.5.: (N) Dachstraße 53, 7 Ahornbäume
+- TOP 3.6.: (N) Menzinger Straße 163, 1 Rotbuche
+- TOP 3.7.: (N) Radeckestraße 7, 1 Zeder
+- TOP 3.8.: Lackerbauerstraße 9d, 1 Thuja
+- TOP 3.9.: Marschnerstraße 8, 2 Weiß-Birken
+- TOP 3.3.2: Gefahrenbäume
+- TOP 3.1.: (N) Liste des Baureferates-Gartenbau vom 17.07.2009
+- TOP 4: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht d UA Bau und verkehrliche Maßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Wohnraum in der Gleichmannstraße; Nutzungsänderung
+- TOP 5.2.: Wohnraum in der Bierbaumstraße; Neubau eines Zweifamilienhauses
+- TOP 6: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Berichte der Beauftragten
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 9.1.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Antragsteller: Initiative Fabrikspatzen ; Maßnahme: Musiktheater "Peterchens Mondfahrt" (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 2: (E) Lärmschutz an der Nordseite der Bahnlinie Augsburg - München zwischen den Bahnhöfen München Langwied und München Pasing Errichtung einer Lärmschutzwand entlang der Bahntrasse Augsburg - München Empfehlung Nr. 08-14 / E 00261 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 23.04.2009 Lärmschutz nördlich der Bahn nach Osten über die Lortzingstraße verlängern Empfehlung Nr. 08-14 / E 00263 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 23.04.2009 - <div>Abweichung von Referentenvorl.</div>
+- TOP 2.3.: Antrag auf Gewährung eines Zuschusses aus dem BA-Budget; Antragsteller: Klasse 1a der Grundschule Grandlstraße; Maßnahme: Projekt Tanz und Schule von Oktober 2009 bis Januar 2010
+- TOP 2.4.: Antrag der Kinderbeauftragten und der stellvertretenden Kinderbeauftragten auf Gewährung eines Zuschusses aus dem BA-Budget für das BA-Kinderfest am 12.09.09 (Budgetmittel für eigene Veranstaltungen)
+- TOP 5: (E) Innenverlegung des Taxistandes am Pasinger Marienplatz Empfehlung Nr. 02-08 / E 00383 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing, Bezirksteil Pasing vom 22.05.2006 Innenverlegung des Taxistandes am Pasinger Marienplatz (Ziffer 2 des Antrages) Empfehlung Nr. 02-08 / E 00715 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing, Bezirksteil Pasing vom 10.05.2007 - <div>nach Antrag</div>
+- TOP 6: (E) Errichtung einer Bedarfsampel für Fußgänger und Radfahrer in der Planegger Str. auf Höhe Hausnr. 94 Empfehlung Nr. 08-14 / E 00269 der Bürgerversammlung des Stadtbezirkes 21 - Pasing-Obermenzing am 23.04.2009 - <div>Abweichung von Referentenvorl.</div>
+- TOP 6.7.: Gewährung eines Zuschusses aus dem Budget des BA 21; Antrag der Arbeitsgemeinschaft der Pasinger Vereine e.V. auf Zuwendung für die Installation eines festen Stromanschlusses für das Pasinger Volksfest
+- TOP 6.9.: (N) Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.2007 über die Projektplanung; hier: Dirtline Anlage in der Silberdistelstraße
+- TOP 10: Anhörungen
+- TOP 10.1.: Mehr Sozialwohnungen im 21. Stadtbezirk Pasing-Obermenzing; Empfehlung Nr. 08-14 / E 00260 der Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing, Bezirksteil Pasing, am 23.04.09; Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.2.: Erteilung von Sondernutzungserlaubnissen für Fahrradständer; Fahrradabstellkonzept (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.3.: Vollzug des Bayer. Naturschutzgesetzes (BayNatSchG); Neufassung der Naturdenkmalverordnung (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.4.: Bodenseestraße 1, Neubau eines Einzelhandelszentrums mit zusätzlicher Büro- und Wohnnutzung sowie einer Tiefgarage (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.5.: Am Schützeneck 7, Neubau eines Büro- und Geschäftsgebäudes mit Ladeneinheit und Tiefgarage (AOK-Geschäftsstelle Pasing) (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.6.: Reginbaldstraße 20a, Neubau eines Mehrfamilienhauses (6 WE) (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.7.: Verdistraße 74, Erweiterung (Anbau) eines Wohn- und Geschäftshauses mit Ladenflächen (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.8.: Rathochstraße 99, Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage; Tektur (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.9.: Verdistraße 75, Neubau eines Einzelhandelsbetriebs mit Tiefgarage (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.10.: Gräfstraße 38, Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage (11 Stellpl.) sowie Abbruch der bestehenden Garagenanlage (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.11.: Aufstellen von Wertstoffcontainern am Standort Petzet- / Daudetstraße (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.12.: Aufstellen von Wertstoffcontainern am Standort Bergson- / Mooswiesenstraße (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 10.13.: Wahl der ehrenamtlichen Richeterinnen und Richter für das Bayerische Verwaltungsgericht München; Erstellung der Vorschlagslisten durch die kreisfreien Städte und Landkreise
+- TOP 10.14.: Willibaldstraße; Fahrbahnsanierung zwischen Gotthard- und Senftenauerstraße
+- TOP 10.15.: Planegger Straße 29-35; Sanierung
+- TOP 10.16.: Fuß- und Radwegunterführung Bahnhof Pasing - östlich
+- TOP 10.17.: Reihenhaussiedlung zwischen Maria-Eich-Straße und Paosostraße; Regelung des Dachausbaus durch entsprechende Satzung bzw. Bebauungsplanänderung (Empfehlung Nr. 08-14 / E 00270 der Bürgerversammlung des 21. Stadtbezirkes, Bezirksteil Pasing, am 23.04.09); Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 10.18.: Neugestaltung der Nordseite des Pasinger Bahnhofs; Ideenskizze Buswendeschleife Pasing Bahnhof Nord
+- TOP 10.19.: Verfahren zur Unterschutzstellung als Landschaftsbestandteil "Magerstandorte am Gleisdreieck Pasing"
+- TOP 10.20.: Bundesautobahn A 8 / West (Fahrtrichtung München); Benennung der Rastanlage bei km 0,7 nach Umbau in Kiosk mit WC
+- TOP 10.21.: (N) Bäckerstraße 89, Feuerwerk der Klasse II am 16.08.09
+- TOP 10.22.: (N) Feuerwerk Pippinger Straße / Breiter Weg am 25.07.09
+- TOP 10.23.: (N) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/25 Bahnlinie München-Augsburg, Bergsonstraße (nördlich), Bundesautobahn A 8 München-Stuttgart (südlich), Bundesautobahn A 99 (östlich) - Mühlangerstraße / Langwied -
+- TOP 10.24.: (N) Mergenthalerstraße am Fußgängersteg; Buddhistisches Ritual am 01.08.09, 17.30 bis 20.30 Uhr
+- TOP 10.25.: (N) Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz für den Neubau einer Trafostation und Errichtung eines 10 kV Mittelspannungskabels, Strecke 5503 München Hbf. - Augsburg Bf. km 7,1 - km 3,1 Gemarkung Pasing, Laim, Neuhausen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: CSU: Antrag: Änderung der Richtlinien für die Gewährung von Zuwendungen aus dem Budget der Bezirksausschüsse (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 11.2.: CSU: Antrag: Bebauung Schrämelstraße 90 - Nahversorgung des Wohngebietes
+- TOP 11.3.: CSU: Antrag: Behindertenparkplätze am Rathaus Pasing
+- TOP 11.4.: CSU: Antrag: 110 Jahre Schulwesen in Obermenzing, 100 Jahre Grundschule an der Grandlstraße
+- TOP 11.5.: CSU: Antrag: Keine Werbeveranstaltungen an der Pasinger Mariensäule
+- TOP 11.6.: SPD: Antrag: 1250-jähriges Stadtjubiläum in Pasing; Einsetzen einer Arbeitsgruppe zur rechtzeitigen Planung
+- TOP 11.7.: SPD: Antrag: Schulzentrum an der Grandlstraße - Schulplanungen an der Paul-Gerhardt-Allee
+- TOP 11.8.: SPD: Antrag: Kindertagesstättenplätze in Pasing
+- TOP 11.9.: SPD und Bündnis 90 / Die Grünen: Gemeinsamer Antrag: Kunst am Bau in Pasing (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 11.10.: SPD: Antrag: Ergänzung zum BA-Antrag vom 07.07.09 ?Verlegung des Obermenzinger Kreisels?
+- TOP 11.11.: SPD: Antrag: Verlängerung der Aufstellungsfrist für die Skulpturengruppe ?Sich aufrichtende Halme? im Weiher vor Schloss Blutenburg
+- TOP 12: Unterrichtungen
+- TOP 12.1.: (N) Baufälle im Stadtbezirk (Listen vom 29.06.-05.07., 06.07.-12.07, - 13.07.-19.07.09, 20.07.-26.07.09)
+- TOP 12.2.: (N) Vollzug der Baumschutzverordnung; Fällungsanträge im Stadtbezirk (Listen vom 29.06.-05.07., 06.07.-12.07. - 13.07.-19.07.09, 20.07.-26.07.09)
+- TOP 12.3.: (N) Baumaßnahmen der Stadtwerke München GmbH (Listen vom 06.07., 13.07.09, 20.07.09)
+- TOP 12.4.: Amtsblatt Nr. 19, (N) Amtsblatt Nr. 20
+- TOP 12.5.: Unveränderte Fortführung von Gaststätten - Schank- und Speisewirtschaft Pasinger Stüberl, Bodenseestraße 19
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Bauausschuss vom 16.06.2009 - Mehrjahresinvestitionsprogramm für die Jahre 2009 ? 2013 mit verbindlicher Planung für 2014; Entwurf für das Baureferat (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 13.2.: Kommunalausschuss vom 18.06.2009 - Mehrjahresinvestitionsprogramm 2009 bis 2013; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 13.3.: Ausschuss für Stadtplanung und Bauordnung vom 01.07.09 - PERSPEKTIVE MÜNCHEN; Langfristige Siedlungsentwicklung (vertagt aus der BA-Sitzung vom 07.07.09) - (N) a) Bebauungsplan mit Grünordnung Nr. 1997 Bahnlinie Hauptbahnhof - Pasing (südlich) zwischen Am Knie und Willibaldstraße; Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses für den Bebauungsplan mit Grünordnung Nr. 1997
+- TOP 13.4.: Ausschuss für Stadtplanung und Bauordnung und Ausschuss für Arbeit und Wirtschaft in gemeinsamer Sitzung vom 01.07.2009 - ?Aktive Stadt- und Ortsteilzentren? (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 13.5.: Ausschuss für Stadtplanung und Bauordnung sowie Sozialausschuss in gemeinsamer Sitzung vom 08.07.2009 - Münchner Bürgerinnen- und Bürgerbefragung 2009/2010 (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 13.6.: Kreisverwaltungsausschuss vom 14.07.09 - Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung) - Kooperatives Verkehrsmanagement für die Region München (KVM); Projekt arrive - Angebote für eine mobile Region, Beteiligung der Landeshauptstadt München (Bekanntgabe)
+- TOP 13.7.: Vollversammlung des Stadtrates vom 29.07.2009 - (N) "Aktive Stadt- und Ortsteilzentren" A) Bund-Länder-Städtebaufördrungsprogramm "Aktive Stadt- und Ortsteilzentren" B) Vergleichende stadtweite Betrachtung möglicher Programmgebiete C) Weiteres Vorgehen D) Organisatorische Erfordernisse zur Quartiersentwicklung E) Beauftragung der Münchner Gesellschaft für Stadterneuerung (MGS) als Treuhänderin F) Finanzierung G) Antrag und Empfehlung (Antrag Nr. 08-14 / B 01041 des BA 21 vom 31.03.09, Empfehlung Nr. 08-14 / E 00268 der Bürgerversammlung des 21. Stadtbezirkes vom 23.04.09) - (N) Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 14: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Direktorium - Protokoll des BA-Vorsitzendentreffens am 25.06.09 - Oktoberfest 2008; Plätze für Bezirksausschüsse in der Ratsboxe des Schottenhamel-Festzeltes - (N) BA-Budget; Bewilligungsbescheid vom 16.07.09 an den Trachtenverein D'Würmtaler-Stamm e.V.
+- TOP 14.2.: Gleichstellungsstelle für Frauen - Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 22.07.2009 von 18.00 bis 20.00 Uhr im Rathaus am Marienplatz, Zimmer 109
+- TOP 14.3.: Baureferat - Realisierung eines Dirt-Parks (Schr. des BA 21 vom 22.06.09) - Verbesserungsvorschläge rund um Schloss Blutenburg (vertagt aus der Sitzung vom 07.07.09) - Sanierungsarbeiten in der Engelbertstraße und Am Klostergarten (vertagt aus der BA-Sitzung vom 07.07.09) - (N) Baumschäden an der Würm (Schr. des BA 21 vom 22.06.09) - (N) Zurückschneiden von Sträuchern und Bäumen an belebten Straßen im Stadtbezirk (Schr. des BA 21 vom 24.06.09) - (N) Fußballplatz am Immermannplatz (Schr. des BA 21 vom 22.06.09) - (N) Wertstoffhof Lochhausener Straße (Antrag Nr. 08-14 / B 00686 des BA 21 vom 02.12.08 sowie Schr. des BA 21 vom 19.05.09) - Nordumgehung Pasing (Schr. des BA 21 vom 24.06.09)
+- TOP 14.4.: Referat für Gesundheit und Umwelt - Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung; Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs, Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn; Genehmigungsbescheid vom 12.06.09 - Einladung zu einer Informationsveranstaltung der DFS Deutsche Flugsicherung GmbH; Termine 24.07.09, 07.08.09, 02.10.09 jeweils von 13.00 bis voraussichtlich 17.00 Uhr (max. Teilnehmerzahl je Bezirksausschuss und Veranstaltungstermin: 4 BA-Mitglieder)
+- TOP 14.5.: Kreisverwaltungsreferat - Hildachstraße, Nordseite - Haltverbot vor Containerstandplatz - Pasinger Vorwies'n am 30.07.09, Einzug der Pasinger Bürger und Vereine; Erlaubnisbescheid vom 13.07.09 - Aufstellung einer zusätzlichen Ampel für Linksabbieger in der Weinbergerstraße an der Kreuzung Weinberger- / Blumenauer Straße für aus Richtung Gräfelfing kommende Pkw-/Lkw-Fahrer (Schr. des BA 21 vom 22.06.09) - Errichtung von Verkehrshelferüberwegen An der Schäferwiese / Peter-Keuder- Straße sowie Änderung des Zeitzusatzes an den absoluten Haltverboten im Be- reich der Grundschule; Verkehrsrechtliche Anordnung (vertagt aus der BA-Sitzung vom 07.07.09) - Haltverbotsbeschilderung an der Einmündung Verdistraße / Wöhlerstraße (Anfrage Nr. 02-ß8 / Q 00211 der Bürgerversammlung des 21. Stadtbezirkes Pasing-Obermenzing am 29.04.2008) - (N) Kindersprechstunde des BA 21 Pasing-Obermenzing am 24.04.09; Tempo 30 km/h in der Menzinger Straße
+- TOP 14.6.: Kulturreferat - Veranstaltungen / Kooperationen im Juli 2009
+- TOP 14.7.: Referat für Stadtplanung und Bauordnung - Gegen die Verlegung der Staatsstraße 2063 südlich von Pasing (Antrag des BA 21 Nr. 08-14 / B 01233 vom 16.06.09) - Kommission für Stadtgestaltung; Niederschrift über die 226. Sitzung am 19.05.09 sowie öffentliche Tagesordnung der 227. Sitzung am 21.07.07 (u.a. TOP 3 Am Schützeneck 7, Neubau eines Büro- und Geschäftsgebäudes) - Döbereinerstraße 36, Neubau eines Mehrfamilienhauses - (N) Münchner Schulwettbewerb zur Stadtentwicklung - (N) Vollzug des Allgemeinen Eisenbahngesetzes (AEG); NSB/ABS Nürnberg-Ingolstadt-München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen
+- TOP 14.8.: Schul- und Kultusreferat - Öffentlichkeitsphase Leitlinie Bildung - Anträge des Jugendzentrums aquarium Pasing auf Bezuschussung eines Quali-Crashkurses und eines M10-Crashkurses aus Budgetmitteln des BA 21 - Grundschule an der Peslmüllerstraße; Bereitstellung von nachschulischen Betreuungsplätzen (Schr. des BA 21 vom 25.05.09) - Kindersprechstunde des BA 21 am 24.04.09; Räume für die Mittagsbetreuung der Grundschule an der Grandlstraße (vertagt aus der BA-Sitzung vom 07.07.09) - Newsletter Nr. 73 - (N) Jugendeinwohnerversammlung des BA 21 am 15.05.09; Möglichkeiten zum Training für Sportvereine in Schulturnhallen (Schr. des BA 21 vom 22.06.09) - (N) Bescheid vom 22.07.09 über die Anerkennung von Plätzen für die Kindertageseinrichtung Freseniusstraße 49
+- TOP 14.9.: Sozialreferat - Bekanntgabe des Wahlergebnisses der 9. Münchner Seniorenvertretung nach der konstituierernden Sitzung des Seniorenbeirates am 22.06.09 (vertagt aus der BA-Sitzung vom 07.07.09) - Jugendhaus München e.V , Neufeldstraße 5 (Schr. des BA 21 vom 25.05.09) (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 14.10.: Referat für Arbeit und Wirtschaft - Europe Direct Informationen, Ausgabe Nr. 4/2009
+- TOP 14.11.: Münchner Verkehrsgesellschaft mbH (MVG) - (N) Reduzierung von Bushaltestellen in der Kaflerstraße
+- TOP 14.12.: Stadtwerke München GmbH - (N) Fernwärmeprojekt Erschließung Pasing West, hier: Hillernstraße / Institutstraße
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: Behindertenbeirat der Landeshauptstadt München - Plakatwettbewerb des Behindertenbeirates
+- TOP 14.2.: Polizeiinspektion 45 München (Pasing) - Freihalten des Fußgängerüberweges in Verlängerung der Hermann-Köhl-Straße vom Fahrradverkehr (Schr. des BA 21 vom 17.04.09) - Lkw-Verkehr in der Verdistraße, Einhaltung der Bestimmungen der Umweltzone
+- TOP 14.3.: Unfallkasse München - Geschäftsbericht 2008
+- TOP 14.4.: Kultur auf Rädern - Neue mobile Theaterproduktion von Kultur auf Rädern (vertagt aus der BA-Sitzung vom 07.07.09)
+- TOP 15: Verschiedenes
+- TOP 15.1.: Nächste BA-Sitzungen: - 15.09.2009, 19.00 Uhr, Alten- und Service-Zentrum Obermenzing, Packenreiterstraße 48, 81247 München - 06.10.2009, 19.00 Uhr, Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486, 81241 München
