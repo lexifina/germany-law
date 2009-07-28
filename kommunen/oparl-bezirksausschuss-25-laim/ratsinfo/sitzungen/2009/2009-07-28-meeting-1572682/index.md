@@ -1,0 +1,71 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572682
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572682
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Müllablagerung
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Sozialreferat: Förderung von Mehr-Generationen-Projekten in Laim (Empfehlung Nr. 08-14 / E 00193 der Bürgerversammlung vom 25.11.08) (Vertagung aus der BA-Sitzung vom 05.05.09) &gt; dazu: Teilnahme von Vertretern des Sozialreferates / Sozialraumplanung - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Gotthardstr. 77
+- TOP 3.3.: Beschlussvorlage KVR: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 750 Euro für offene Spielaktion für Kinder vom 16. - 25.09.09; Antragsteller: Familienzentrum Laim e.V.
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.700 Euro für 10-jähriges Jubiläum vom 25.-27.09.09; Antragsteller: Jazzclub München e.V.
+- TOP 3.5.: Übernahme der Kosten für eine Veranstaltung des BA anlässlich der Feierlichkeiten zu 20 Jahre Interim am 03.10.09 in Höhe von 3.600 Euro aus dem BA-Budget / Anteil für BA-eigene Veranstaltungen; Antragsteller: UA Kultur
+- TOP 3.6.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aindorferstr. 137
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 24.06.09: Vollzug des Bayerischen Naturschutzgesetzes (BayNatSchG); Neufassung der Naturdenkmalverordnung
+- TOP 4.2.: Schreiben KVR vom 30.06.09: Erteilung von Sondernutzungserlaubnissen für Fahrradständer; Fahrradabstellkonzept
+- TOP 4.3.: Schreiben Planungsreferat vom 30.06.09: Fürstenrieder Str. 63; Beschwerde wegen der Vergrößerung eines Verkaufsstandes (Obststand auf Privatgrund vor dem Gebäude Fürstenrieder Str. 63)
+- TOP 4.4.: Schreiben Baureferat vom 06.07.09: Fahrbahnsanierung Willibaldstraße zwischen Gotthard- und Senftenauerstraße
+- TOP 4.5.: Schreiben KVR vom 15.07.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 26.09.09
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Friedenheimer Str. 100: Erweiterung, Umbau und Aufstockung eines Einfamilienhauses / Vorbescheid
+- TOP 5.2.: Agricolastr. 97: Neubau von Doppelhaushäften mit Garage / Haus 1- 4
+- TOP 5.3.: Landsberger Str. 161-179: Aufhebung der Befristung für das Parkdeck, die Hallen 6, 7, 9 und für Teilbereiche der Halle 8 (bis Achse H 8/12); Nutzungsänderung Teilbereich Halle 8+9 inkl. baulicher Änderungen; Errichtung einer offenen Galerieebene in Halle 9 (Verkaufsstätte) mit neuen Treppen; Nachverdichtung des Parkhauses; Errichtung einer Freischankfläche zw. Halle 6, 7+9); Änderung der Befristung für Halle 8 von Achse H 8/12 bis H8/18
+- TOP 5.4.: Heinrich-Heine-Str. 3: Nutzungsänderung Wohnung Nr. 5 zu Kindergarten
+- TOP 5.5.: Stöberlstr. 80-86: Umbau bestehender DG-Wohnungen, DG-Ausbau und Errichtung einer Balkonanlage
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 13.07.09: Oktoberfest 2009; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Schule, Soziales und Sport vom 29.06.09
+- TOP 7.2.: Sitzung UA Kultur vom 20.07.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben KVR vom 10.06.09: Neubau einer Lichtsignalanlage; Kreuzung Fürstenrieder - / Camerloherstraße
+- TOP 8.2.: Schreiben KVR vom 26.06.09: Kreuzung Camerloherstraße / Guido-Schneble-Straße (Antrag Nr. 08-14 / B 01056 vom 31.03.09)
+- TOP 8.3.: Schreiben KVR vom 07.07.09: Wahl der ehrenamtlichen RichterInnen und Richter für das Bayerische Verwaltungsgericht München; Erstellung der Vorschlaglisten durch die kreisfreien Städte und Landskreise
+- TOP 8.4.: Schreiben Sozialreferat vom 25.06.09: Bekanntgabe des Wahlergebnisses der 9. Münchner Seniorenvertretung nach der konstituierenden Sitzung des Seniorenbeirates am 22.06.09
+- TOP 8.5.: Schreiben Baureferat vom 30.06.09: Taubenkot am Aufgang zum S-Bahnhof Laim (Antrag Nr. 08-14 / B 01127 des BAs vom 05.05.09)
+- TOP 8.6.: Schreiben Direktorium vom 01.07.09: Budget des BA 25; Antrag vom 08.06.09 des Kindergartens "Laimer Strolche e.V:"
+- TOP 8.7.: Schreiben Schul- und Kultusreferat vom 01.07.09: Öffentlichkeitsphase Leitlinie Bildung
+- TOP 8.8.: Schreiben Planungsreferat vom 13.07.09: Valpichlerstr. 134; Neubau eines Einfamilienhauses
+- TOP 8.9.: Schreiben Planungsreferat vom 09.07.09: Veit-Stoß-Str. 58-80: Nachverdichtung einer Wohnanlage durch Anbau 2er Wohngebäude mit TG / Tektur
+- TOP 8.10.: Schreiben Planungsreferat vom 10.07.09: Veit-Stoß-Str. 58-80; Nachverdichtung einer Wohnanlage durch Aufstockung der Bestandsgebäude mit Penthäusern
+- TOP 8.11.: Bautenliste vom 22.06.-28.06.09 1. Erstantragsverfahren a) Eringerstr. 9 b) Saherrstr. 35 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Hartelstr. 4
+- TOP 8.12.: Bautenliste vom 29.06.-05.07.09: 1. Erstantragsverfahren a) Agricolstr. 97 b) Landsberger Str. 240 c) Friedenheimer Str. 80 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Willibaldplatz 1
+- TOP 8.13.: Bautenliste vom 06.07.-12.07.09 1. Erstantragsverfahren a) Camerloherstr. 169 b) Stöberlstr. 80 c) Landsberger Str. 161 d) Heinrich-Heine-Str. 3
+- TOP 8.14.: Schreiben Planungsreferat vom 29.06.09: Liste der beantragten Baumfällungen vom 22.06.-28.06.09
+- TOP 8.15.: Schreiben Planungsreferat vom 06.07.09: Liste der beantragten Baumfällungen vom 29.06.-05.07.09
+- TOP 8.16.: Schreiben Planungsreferat vom 13.07.09: Liste der beantragten Baumfällungen vom 06.07.-12.07.09
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 29.06.09: Baumaßnahmen der Stadtwerke; Stichtag: 29.06.09
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 06.07.09: Baumaßnahmen der Stadtwerke; Stichtag: 06.07.09
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 13.07.09: Baumaßnahmen der Stadtwerke; Stichtag: 13.07.09
+- TOP 8.20.: Beschluss des Bauausschusses vom 16.06.09: Ausbau des Mittleren Ringes (B2R) Südwest - Luise-Kiesselbach-Platz (Sitzungsvorlagen Nr. 08-14 / V 02452)
+- TOP 8.21.: Beschluss des Kulturausschusses vom 18.06.09: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2009-2013 und Stellungnahme zu den Anregungen der Bezirksausschüsse (Sitzungsvorlagen Nr. 08-14 / V 02351)
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München; Langfristige Siedlungsentwicklung (Sitzungsvorlagen Nr. 08-14 / V 02475)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 08.07.09: Münchner Bürgerinnen- und Bürgerbefragung 2009 / 2010 (Sitzungsvorlagen Nr. 08-14 / V 02459)
+- TOP 8.24.: Beschluss des Kreisverwaltungsausschusses vom 14.07.09: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung) (Sitzungsvorlagen Nr. 08-14 / V 02568)
+- TOP 8.25.: Bekanntgabe in der Sitzung des Kreisverwaltungsausschusses am 14.07.09: Kooperatives Verkehrsmanagement für die Region München (KVM), Projekt arrive - Angebote für eine mobile Region (Sitzungsvorlagen Nr. 08-14 / V 02575)
+- TOP 8.26.: Schreiben GWG vom 25.06.09: Jahresbericht 2008
+- TOP 8.27.: Schreiben Behindertenbeirat der LH München vom 03.07.09: Plakatwettbewerb des Behindertenbeirates
+- TOP 8.28.: Beschluss der Vollversammlung vom 29.07.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München (Sitzungsvorlagen Nr. 08-14 / V 01793)
+- TOP 1.2: Bürgerpost an den BA
