@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618291
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618291
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: DLRG OV München-Mitte e.V. ; Innenausstattung der neuen Wasserrettungsstation (vertagt in der Sitzung am 07.07.09)
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Kreisjugendring München-Stadt "Der Club"; Sinti-Jazz-Night am 10.07.09
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Rossler e.V.; Feldmochinger Rosstag am 11.10.09
+- TOP 2.4.: Projektplanung Knospenstraße zwischen Paul-Preuß- und Georg-Winkler-Straße
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Freizeittreff Lerchenauer; Mobile Spielaktion im August 2009
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Standort Waldkindergarten in der Fasanerie (UA Planung, Verkehr, Umwelt des BA 24; Verein ?Naturkindergarten Fasanerie?)
+- TOP 3.3.: Verlegung der in der Trollblumenstraße geplanten Hortgruppe in die Räume der Kindertagesstätte Feldmochinger Straße 247 (Förderverein Kinderbetreuung Fasanerie e.V.)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Engstelle Trollblumenstraße zwischen Borsigstraße und Maiglöckchenweg (vertagt in der Sitzung am 07.07.09)
+- TOP 5.2.: Ausführung des Durchstichs zwischen Am Schnepfenweg und Am Blütenanger als verkehrsberuhigter Bereich Empfehlung Nr. 08-14 / E 00052 der Bürgerversammlung des Stadtbezirkes 24 am 24.06.08 (vertagt in der Sitzung am 07.07.09)
+- TOP 5.3.: Anhörung im Einzelfall auf Anforderung: a) Bauvorhaben Lerchenauer Str. 322
+- TOP 5.4.: Vollzug der Baumschutzverordnung: a) Am Haselnußstrauch 10
+- TOP 5.5.: Vollzug des Bayerischen Naturschutzgesetzes; Neufassung der Naturdenkmalverordnung
+- TOP 5.6.: Vollzug des Bayerischen Straßen- und Wegegesetzes, Kunst im öffentlichen Raum; Projekt "Nur Gutes" (Stadt-Gorilla auf Gehwegen) am 01.08.09
+- TOP 5.7.: Veranstaltung auf Privatgrund und städtischer Grünanlage: Pfarrfest St. Nikolaus, Stanigplatz 12 am 13.09.09 sowie Marienprozession rund um die Kirche St. Nikolaus und östliche Grünanlage (Aschenbrennerstraße, Stanigplatz)
+- TOP 5.8.: Veranstaltung auf städtischer Grünanlage: Circus Roberto auf dem Dülferanger vom 28.09.-12.10.09
+- TOP 5.9.: Straßenbaumaßnahme Schleißheimer Straße (Westseite)
+- TOP 5.10.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Reinachstr. 12
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Saubere Bahnhöfe und Bahnhofsumfelder in Feldmoching und Fasanerie (BA-Antrag Nr. 08-14 / B 01119 vom 05.05.09)
+- TOP 6.2.: Sicherer Schulweg zur Grundschule an der Lerchenauer Str. 322 (BA-Antrag Nr. 02-08 / B 02880 vom 12.02.08)
+- TOP 6.3.: Bereitstellung von Müllsäcken des Abdallwirtschaftsbetriebes für den Bezirksausschuss 24 für lokale Müllsammelaktionen von Bürgerinnen und Bürgern des Statdbezirkes (BA-Antrag Nr. 08-14 / B 01213 vom 02.06.09)
+- TOP 6.4.: Betriebsgebäude Granatstr. 10; Nachtrag zum Protokoll vom 31.03.09
+- TOP 6.5.: Ausgleichsfläche an der Trollblumenstraße
+- TOP 6.6.: Einmündung Borsigstraße / Trollblumenstraße; Anbringung eines Verkehrsspiegels
+- TOP 6.7.: Taxistand Kristallstraße
+- TOP 6.8.: Überprüfung der Ampelschaltungen Max-Born- / Triebstraße und Hanauer-/Triebstraße (Antrag BA 10 Moosach)
+- TOP 6.9.: Vollzug der Baumschutzverordnung: a) Max-Wönner-Str. 35
+- TOP 6.10.: Meldelisten Baumfällungsanträge
+- TOP 6.11.: Meldelisten Bauvorhaben
+- TOP 6.12.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.13.: Verkehrsrechtliche Anordnungen: a) Irisstraße Nordseite, östlich Lerchenauer Straße; Anfahrtszone für Kindergarten b) Paulckestraße Südseite; Umwandlung eingeschränktes Haltverbot in absolutes Haltverbot c) Schleißheimer Str. 415; Einrichtung einer Parkscheibenzone
+- TOP 6.14.: Veranstaltung auf öffentlicher Grünanlage: Grillfest auf dem Goldschmiedplatz am 11.07.09 / Vorabzustimmung
+- TOP 6.15.: Drehgenehmigung; Produktion "Franzi" am 09./10.07.09 in der Schneeglöckchenstr. 43-47 und gegenüber
+- TOP 6.16.: Kanalneubau Schleißheimer Straße zwischen ca. 50 m südlich der Augustin-Rösch-Straße und ca. 55 m nördlich des Schätzweg
+- TOP 6.17.: Budgetmittel BA 24 a) Männergesangverein Feldmoching e.V. b) Gesamtverein Feldmochung e.V.
+- TOP 6.18.: Wasserqualität Fasaneriesee
+- TOP 6.19.: Änderungen im Filialnetz der Deutschen Post, Joseph-Seifried-Str. 8
+- TOP 6.20.: Ergebnisse der Zwischenrunde Ludwigsfeld
+- TOP 6.21.: Ergebnis Vorstandswahl Seniorenbeirat 2009
+- TOP 6.22.: Budget der Bezirksausschüsse; Jahresrückblick 2008
+- TOP 6.23.: Kooperatives Verkehrsmanagement für die Region München; Projekt arrive - Angebote für eine mobile Region
+- TOP 6.24.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der LH München (Sondernutzungsgebührensatzung)
+- TOP 6.25.: Perspektive München; Langfristige Siedlungsentwicklung
+- TOP 6.26.: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010
+- TOP 6.27.: Mehrjahresinvestitionsprogramm für die Jahre 2009-2013 mit verbindlicher Planung für 2014; Entwurf für das Baureferat
+- TOP 6.28.: Jahresbericht 2008 der GWG
+- TOP 6.29.: Antrag zur Aufnahme von Bäumen in die Liste der Naturdenkmäler (BA-Antrag Nr. 02-08 / B 01212 vom 02.06.2009)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
