@@ -1,0 +1,55 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-07-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1595043
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1595043
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Errichtung eines Kleinkinderspielplatzes am Max-Hirschberg-Weg; Genehmigung der Projektplanung
+- TOP 3: Soziales und Sozialreferat
+- TOP 4: Schulreferat
+- TOP 4.1.: Mittagsbetreuung Grundschule am Gotzinger Platz
+- TOP 5.1.: Unveränderte Fortführung mehrerer Gaststättenbetriebe
+- TOP 6.1.: Parkraummanagement Sendling; Parkscheinautomaten-Standorte
+- TOP 6.2.: Radfahrt "Tour de Franz" am 02.08.2009
+- TOP 6.3.: Kooperatives Verkehrsmanagement für die Region München
+- TOP 6.4.: Satzung über die Gebühren für Sondernutzungen
+- TOP 7.1.: Budgetantrag FC Viktoria München e. V., 85-Jahr-Feier am 04. - 05.07.09 und 11. - 12.07.09; ? 740,-
+- TOP 7.2.: Budgetantrag Begegnungen am Gotzinger Platz / Himmelfahrtskirche; Türkisch-Bayerischer Folkloreabend; ? 810,-
+- TOP 7.3.: Budgetantrag "die urbanauten", Projekt "Isarlust"; ? 4000,-
+- TOP 7.4.: Ehrenamtliche Richter am Bayerischen Verwaltungsgericht
+- TOP 7.5.: Reservierungen der BAs für das Oktoberfest 2009
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Zukunftssicherung der Markthallen München auf dem Großmarktgelände
+- TOP 8.3.: Vorbescheidgenehmigung Gaststätte "Zum Flaucher"; Isarauen 8
+- TOP 8.4.: Bauvorhaben Implerstraße 17
+- TOP 8.5.: Bauvorhaben Bavariastraße 25
+- TOP 8.6.: Bauvorhaben Schäftlarnstraße 32
+- TOP 8.7.: Neuwidmung Isarpromenade zwischen Iasarring und Brudermühlstraße
+- TOP 8.8.: Perspektive München
+- TOP 8.9.: Münchner Bürgerinnen- und Bürgerbefragung 2009 / 2010
+- TOP 8.10.: Neues Kontorhaus und Zollverwaltungsgebäude der Großmarkthalle; Thalkirchner Str. 81
+- TOP 9: Baureferat
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Neufassung der Naturdenkmalverordnung
+- TOP 10.2.: Baumfällung Lipowskystraße 23
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Aufstellung von zwei Ruhebänken am Sigi-Sommer-Platz
+- TOP 13: Verschiedenes
+- TOP 13.1.: Einladung zur Informationsveranstaltung der DFS Deutsche Flugsicherung GmbH
+- TOP 13.2.: Benennung der Grünfläche an der Einmündung der Dietramszeller Straße in die Bruderhofstraße, Ecke Schäftlarnstraße nach Sigi Sommer
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
