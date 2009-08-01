@@ -6,7 +6,9 @@ Teil 1 Schulverwaltung und Qualitätssicherung
 § 3 | Aufgaben des Landes
 § 4 | Aufgaben der Stadtgemeinden
 § 5 | Landeshaushaltsordnung
-§ 6 | Schulangebot, Kapazitäten
+§ 6 | Schulangebot, Kapazitäten und stadtweite Anwählbarkeit
+§ 6a | Aufnahmeverfahren an allgemeinbildenden Schulen der Sekundarstufen
+§ 6b | Aufnahmeverfahren an berufsbildenden Schulen
 § 7 | Feststellung von Hochschulzugangsberechtigungen
 § 8 | Anstellungskörperschaften
 § 9 | Personalentwicklung
@@ -23,7 +25,7 @@ Teil 2 Die Schulen
 Abschnitt 1 Allgemeine Rechtsverhältnisse
 § 18 | Anwendungsbereich
 § 19 | Begriff der Schule
-§ 20 | Zusammenarbeit zwischen Schulen
+§ 20 | Zugeordnete Schulen, Schulverbund
 § 21 | Rechtsstellung der Schule und Selbstbewirtschaftung
 § 22 | Handlungsfreiraum der Schulen
 § 23 | Satzungsbefugnis
@@ -85,7 +87,7 @@ Abschnitt 3 Die Schulleitung
 § 69 | Findungsverfahren
 § 70 | Die Bestellung
 § 71 | (weggefallen)
-§ 72 | Verfahren nach Ablauf der Amtszeit
+§ 72 | Verfahren nach Ablauf der Probezeit
 § 73 | Ausnahmen
 § 74 | Verfahren bei der Besetzung sonstiger Schulleiterfunktionen
 § 74 a | Verfahren bei der Besetzung der übrigen besoldungsmäßig herausgehobenen Stellen in der Schule
@@ -108,8 +110,7 @@ Teil 3 | Gemeinsame Wahl- und Verfahrensvorschriften
 § 89 | Beschlussregelungen
 § 90 | Niederschrift
 § 91 | Pflicht zur Vertraulichkeit in Konferenzen
-§ 92 | Sonderschulen
-§ 93 | Ermächtigung zum Erlass von Rechtsverordnungen
+§ 92 | Ermächtigung zum Erlass von Rechtsverordnungen
+§ 93 | Übergangsbestimmungen
 Teil 4 Übergangs- und Schlussbestimmungen
-§ 94 | Übergangsbestimmungen
-§ 95 | In-Kraft-Treten
+§ 94 | Inkrafttreten
