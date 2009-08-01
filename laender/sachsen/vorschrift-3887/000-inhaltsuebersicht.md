@@ -37,8 +37,9 @@ Abschnitt 6 Versetzung, Wiederholung, Verlängerung der Schulbesuchsdauer
 § 30 Versetzungsbestimmungen und freiwillige Wiederholung
 § 31 Mehrmalige Nichtversetzung
 § 32 Freiwillige Verlängerung des Schulbesuchs und Höchstverweildauer
-Abschnitt 7 Erwerb des Realschulabschlusses, des Hauptschulabschlusses und des qualifizierenden Hauptschulabschlusses
+Abschnitt 7 Erwerb des Realschulabschlusses‚ des Hauptschulabschlusses‚ des qualifizierenden Hauptschulabschlusses und des erfolgreichen Abschlusses im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
 § 33 Abschlussprüfungen und besondere Leistungsfeststellungen
 § 34 Erwerb des Hauptschulabschlusses an der Schule zur Lernförderung
+§ 34a Erfolgreicher Abschluss im Förderschwerpunkt Lernen und im Förderschwerpunkt geistige Entwicklung
 Abschnitt 8 Schlussvorschrift
 § 35 In-Kraft-Treten und Außer-Kraft-Treten
