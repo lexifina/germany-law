@@ -17,21 +17,26 @@ Kapitel 1 Auftrag der Schule
 § 11 | Sexualerziehung
 § 12 | Zusammenarbeit mit anderen Institutionen
 Kapitel 2 Schulstruktur
-§ 13 | Schulversuche
+Abschnitt 1 Allgemeines
+§ 13 | Schulversuche und Reformschulen
 § 14 | Weiterentwicklung des Schulsystems
-§ 15 | Gliederung des Schulsystems
-§ 16 | Schulstufen
-§ 17 | Schularten
+§ 15 | (weggefallen)
+§ 16 | Schularten
+§ 17 | Schulstufen
+Abschnitt 2 Allgemeinbildende Schulen
 § 18 | Grundschule
 § 19 | (weggefallen)
 § 19a | (weggefallen)
-§ 20 | Sekundarschule
-§ 21 | Gymnasiale Oberstufe
-§ 22 | Förderzentrum
+§ 20 | Oberschule und Gymnasium
+§ 21 | Erwerb der Abschlüsse in den allgemeinbildenden Schulen
+Abschnitt 3 Besondere Organisationsformen allgemeinbildender Schulen
+§ 22 | Zentrum für unterstützende Pädagogik
 § 23 | Ganztagsschule
 § 23a | (weggefallen)
 § 24 | Schule für Erwachsene
+Abschnitt 4 Berufsbildende Schulen
 § 25 | Berufsschule
+§ 25 | Werkschule
 § 26 | Berufsfachschule
 § 27 | Berufsaufbauschule
 § 28 | Fachoberschule
@@ -46,7 +51,7 @@ Teil 3 Die Schülerin und der Schüler
 Kapitel 1 Rechte der Schülerin und des Schülers
 § 34 | Bildungsanspruch
 § 35 | Sonderpädagogische Förderung
-§ 36 | Einschulungsvoraussetzungen
+§ 36 | Einschulungsvoraussetzungen, Sprachförderung
 § 37 | Aufbauender Bildungsweg
 § 37a | Übergang von der Grundschule in weiterführende Bildungsgänge
 § 37b | (weggefallen)
@@ -54,14 +59,14 @@ Kapitel 1 Rechte der Schülerin und des Schülers
 § 39 | Zeugnisse für Externe
 § 40 | Prüfungen
 § 41 | (weggefallen)
-§ 41a | Maßnahmen zur Sicherheit der Schule
+§ 41a | (weggefallen)
 § 42 | Versetzung, Nichtversetzung
-§ 43 | Andere Formen der Anpassung des Bildungswegs innerhalb eines Bildungsganges an die Lernentwicklung
+§ 43 | Andere Formen der Anpassung des Bildungswegs an die Lernentwicklung
 § 44 | Verlassen des Bildungsganges
 § 45 | Verordnungsermächtigung
 § 46 | Ordnungsmaßnahmen
 § 47 | Arten der Ordnungsmaßnahmen
-§ 47a | Maßnahmen zur Sicherheit der Schulen
+§ 47a | Maßnahmen zur Sicherheit der Schule
 § 48 | Ferien
 § 49 | Schülerinnen und Schüler mit Migrationshintergrund
 § 50 | Gastschülerinnen und Gastschüler
@@ -77,7 +82,7 @@ Kapitel 2 Allgemeine Schulpflicht
 § 58 | Pflicht zur Teilnahme am Unterricht
 Teil 4 Rechte und Pflichten des schulischen Personals, der Erziehungsberechtigten und der Ausbildenden
 § 59 | Aufgaben der Lehrerinnen und Lehrer
-§ 59a | Aufgaben der Betreuungskräfte
+§ 59a | Aufgaben der sozialpädagogischen Fachkräfte und Betreuungskräfte
 § 59b | Aufgaben des schulischen Personals insgesamt
 § 60 | Rechte und Pflichten der Erziehungsberechtigten
 § 61 | Informations- und Hospitationsrecht der Erziehungsberechtigten
@@ -90,9 +95,10 @@ Teil 6 Zwangsmaßnahmen, Bußgeld- und Strafvorschriften
 § 66 | Strafvorschriften
 § 67 | Ermächtigung zum Erlass von Rechtsverordnungen
 Teil 7 Übergangs- und Schlussbestimmungen
-§ 68 | Orientierungsstufe und sechsjährige Grundschule
+§ 68 | Sechsjährige Grundschule
 § 69 | Gymnasien
-§ 70 | Haupt- und Realschule
-§ 71 | Abschlüsse
-§ 72 | Ordnungsmaßnahmen
-§ 73 | In-Kraft-Treten
+§ 70 | Sekundarschule, Gesamtschule, Gymnasium und Gymnasiale Oberstufe am Schulzentrum
+§ 70a | Eigenständige Zentren für unterstützende Pädagogik
+§ 71 | Zweijähriger Bildungsgang Berufseingangsstufe/Berufsfachschule
+§ 72 | Werkschulen
+§ 73 | Inkrafttreten
