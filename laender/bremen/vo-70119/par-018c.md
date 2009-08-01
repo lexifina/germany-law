@@ -1,7 +1,5 @@
-# § 18c Projektarbeit
-(1) Im zweiten Schulhalbjahr erhält der Prüfling im Rahmen eines fächerübergreifenden Unterrichts oder aus einer Themenstellung des Praktikums nach § 8 eine anwendungsbezogene Aufgabe als Projektarbeit.
-(2) Die Aufgabenstellung muss zeitlich so erfolgen, dass das Feststellen des Ergebnisses nicht früher als vier Wochen vor der mündlichen Prüfung erfolgt.
-(3) In der Projektarbeit soll der Prüfling nachweisen, dass er eine Problemstellung der Praxis erfassen, beurteilen, lösen und darstellen kann.
-(4) Das Thema der Projektarbeit wird von den Fachlehrerinnen und Fachlehrern festgelegt, betreut und bewertet. Vor Beginn der Projektarbeit wird das Thema durch die Schulleiterin oder den Schulleiter genehmigt.
-(5) Die Projektarbeit kann als Einzel- oder Gruppenarbeit durchgeführt werden. Wird sie als Gruppenarbeit durchgeführt, so muss sie neben einem gemeinsamen Teil einen von den einzelnen Teilnehmerinnen oder den einzelnen Teilnehmern eigenständig angefertigten abgrenzbaren Teil enthalten.
-(6) Die Bewertung geht als Note in die jeweiligen Prüfungsfächer ein.
+# § 18c Prüfungsaufgaben für die Zentrale Prüfung
+(1) Die von der Senatorin für Bildung und Wissenschaft beauftragten Gremien für die Vorbereitung der zentralen Aufgabenstellungen legen der Senatorin für Bildung und Wissenschaft für jedes Fach zwei Aufgabenvorschläge vor. Zu allen Aufgabenvorschlägen gehört die Angabe der Bearbeitungsdauer und eine Beschreibung der vom Prüfling erwarteten Leistung (Erwartungshorizont) einschließlich der Angabe von Bewertungskriterien. Aus diesen Aufgabenvorschlägen wählt die Senatorin für Bildung und Wissenschaft jeweils eine Prüfungsaufgabe aus.
+(2) Die Prüfungsaufgabe im Fach Deutsch enthält zwei Aufgaben zur Auswahl durch den Prüfling.
+(3) Die Prüfungsaufgabe im Fach Englisch enthält einen Fachrichtungsbezug („Berufliches Fenster"). Dieses „Berufliche Fenster" wird von Vertretern und Vertreterinnen der jeweiligen Bildungsgänge gestaltet und verantwortet. Alle Aufgaben sind in Anlehnung an das Niveau B1 des Gemeinsamen Europäischen Referenzrahmens für Sprachen zu gestalten.
+(4) Die Prüfungsaufgabe im Fach Mathematik beinhaltet Aufgaben, die die Leitideen „Zahl", „Messen" und „funktionaler Zusammenhang" berücksichtigen. Ein „Berufliches Fenster" wird von Vertretern und. Vertreterinnen, der jeweiligen Bildungsgänge gestaltet und verantwortet. Dieser Teil beinhaltet Aufgaben, die den Anwendungsbereich des Bildungsgangs berücksichtigen.

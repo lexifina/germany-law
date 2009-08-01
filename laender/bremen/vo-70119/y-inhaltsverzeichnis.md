@@ -16,14 +16,15 @@ Teil 2 Prüfung
 § 12 | Gegenstand, Ort und Termine der Prüfung, Belehrung
 § 13 | Berücksichtigung besonderer Belange behinderter Menschen
 § 14 | Zulassung zur Prüfung
-§ 15 | Form der Prüfung in den Fächern des fachrichtungsbezogenen Lernbereichs
+§ 15 | Festlegungen zur praktischen und schriftlichen Prüfung
 § 15a | Vornoten der Prüfungsfächer
 § 16 | Erste Prüfungskonferenz
 § 17 | Praktische Prüfung
 § 18 | Schriftliche Prüfung
 § 18a | Kombinierte Prüfung
 § 18b | Zusatzprüfung zum Erwerb des Mittleren Schulabschlusses
-§ 18c | Projektarbeit
+§ 18c | Prüfungsaufgaben für die Zentrale Prüfung
+§ 18d | Projektprüfung
 § 19 | Zweite Prüfungskonferenz
 § 20 | Mündliche Prüfung
 § 21 | Noten
