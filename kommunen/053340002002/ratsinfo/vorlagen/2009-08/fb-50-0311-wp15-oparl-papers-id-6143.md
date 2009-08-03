@@ -1,0 +1,23 @@
+# Sozialentwicklungsplan Aachen
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 50/0311/WP15
+- Art: Entscheidungsvorlage
+- Datum: 2009-08-03
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=6143
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=6143
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1927 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=15
+- Beratung: Anhörung/Empfehlung  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=33
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1902 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=10
+- Beratung: Anhörung/Empfehlung  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=5
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1914 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=12
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1976 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=24
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1945 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=19
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1989 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=27
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1922 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=14
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1981 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=25
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1968 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1992 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=2028 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=23
+- Beratung: Anhörung/Empfehlung http://ratsinfo.aachen.de/public/oparl/meetings?id=1985 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=26
