@@ -1,0 +1,92 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-08-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586065
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586065
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrslärmbelästigung im Bereich Kurparkstr.
+- TOP 1.2.: Lärmbelästigung duch Basketballplatz auf der Grünfläche Holzapfelkreuther- / Geroldseckstr.
+- TOP 1.3.: Probleme der Eigentümergemeinschaft Max-Lebsche-Platz 34 - 41
+- TOP 1.4.: Lärmbelästigung durch Spielplatz Wolkerweg
+- TOP 1.5.: Anfrage zur Umplanung der Wohnbebauung in der Schröfelhofstr.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Kinder, Jugend, Schule, Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag des Elternbeirats der Grundschule Großhaderner Str. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 600,- ? (Direktorium, 15.07.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes Karl-Witthalm-Str. (Kreisverwaltungsreferat, 20.07.09)
+- TOP 6.2.: Veranstaltung in einer städtischen Grünanlage, hier: Tag der offenen Tür der Schulpiraten e.V. am 16.10.09 14.30 - 18.00 Uhr innerhalb des Gebäudes Pfingstrosenstr. 29 a sowie der Grünanlage Spielplatz Am Wiesenbach / Brombeerschlag (Kreisverwaltungsreferat, 04.08.09)
+- TOP 6.3.: Stadtjugendamt / Förderung freier Träger, Haushaltsjahr: 2010, Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 30.07.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Hosigaustr. 7 - 7b, 1 Blaufichte
+- TOP 7.2.: Heinrich-Lammel-Str. 2, 1 Nadelbaum
+- TOP 7.3.: Waldsaumstr. 4, 1 Lärche
+- TOP 7.4.: Am Brombeerschlag 3a, 2 Fichten
+- TOP 7.5.: Alpenveilchenstr 25 b, 2 Fichten
+- TOP 7.6.: Veilchenstr. 13, 1 Fichte und 1 Kiefer (Antrag wurde zurückgezogen)
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Amarellenweg (Sozialreferat, 06.07.09)
+- TOP 8.2.: Öffentlichkeitsphase Leitlinie Bildung (Schul- und Kultusreferat, 01.07.09)
+- TOP 8.3.: Mitteilung über ein Grundstücksgeschäft, Waldgartenstraße (Kommunalreferat, 01.07.09)
+- TOP 8.4.: Kindertageseinrichtung Guardinistr. 58, Elterninformationsbrief über die bevorstehenden Bauarbeiten wegen Marderbefalls im Sommer 2009 (Schul- und Kultusreferat, 09.07.09)
+- TOP 8.5.: Baumaßnahmen Fürstenrieder Str. zwischen BAB 96 und Würmtalstr. (Baureferat, 14.07.09)
+- TOP 8.6.: Änderung im Filialnetz der Deutschen Post AG (Referat für Arbeit und Wirtschaft, 23.07.09)
+- TOP 8.7.: Trambaumaßnahmen in den Sommerferien (MVG, 22.07.09)
+- TOP 8.8.: Arbeiten im Straßenraum, hier: Fürstenrieder Str. zwischen BAB 96 und nördlich Würmtalstr. / Waldfriedhofstr., Fahrbahnsanierung, Bauabschnitt 1 vom 03.08. - 27.08.09 (Kreisverwaltungsreferat, 29.07.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Schulsprengel in Hadern (Schul- und Kultusreferat, 16.06.09)
+- TOP 9.2.: Rückbau der Tramtrasse am Lorettoplatz und Weiterführung des Naturlehrpfades (Baureferat, 26.06.09)
+- TOP 9.3.: Schlaglöcher in der Straße Am Wiesenbach (Baureferat, 14.07.09)
+- TOP 9.4.: Bolzplatz am Stiftsbogen 15 a (Baureferat, 17.07.09)
+- TOP 9.5.: Geländer Walter-Hopf-Weg (Baureferat, 20.07.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Radverkehr am Haderner Stern (Bayerische Versorgungskammer, 03.07.09)
+- TOP 10.2.: Erschließungsmaßnahme "Am Stiftsbogen" in München, FlNr. 269 Gemarkung Großhadern, Zwischennutzung des für eine Polizeidienststelle vorgehaltenen Grundstücks als Naturspielberg; Vor-Ort-Termin mit der Zentrale am 16.06.09 (Immobilien Freistaat Bayern, 13.07.09)
+- TOP 10.3.: Absenkung von Bordsteinen Ecke Butenandt- / Feodor-Lynen-Str. (LMU, 21.07.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Plakatwettbewerb des Behindertenbeirats (Behindertenbeirat der Landeshauptstadt München, 03.07.09)
+- TOP 11.2.: Protokoll des BA-Vorsitzendentreffens vom 25.06.09 (Direktorium, 06.07.09)
+- TOP 11.3.: Geschäftsbericht der Unfallkasse München, Geschäftsjahr 2008 (Unfallkasse München, 30.06.09)
+- TOP 11.4.: Interkulturelle Woche 2009, Einladung zur Podiumsdiskussion "München braucht Dich - ohne Bildung keine Zukunft" am Mittwoch, 30.09.09 (Caritas, 22.07.09)
+- TOP 11.5.: Jahresbericht 2008/2009 der Hauptschule an der Guardinistr. (Hauptschule Guardinistr., 30.07.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 29.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01793: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 30.06.2009 und des Schul- und Sportausschusses vom 01.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02236: Kindertagesstätten sonstiger Träger; Ankauf eines Teileigentums sowie Umbau der Kooperationseinrichtung an der Sauerbruchstr. 25 (Baukostenzuschuss 447.515 ?, wovon der Freistaat Bayern 214.200 ? trägt)
+- TOP 12.2.: Beschluss des Bauausschusses vom 16.06.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02452: Ausbau des Mittleren Ringes (B2R) Südwest - Luise-Kiesselbach-Platz - im 7. Stadtbezirk Sendling-Westpark (Projektkosten 398,5 Mio.?)
+- TOP 12.3.: Beschluss des Sozialausschusses vom 02.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02312: Nachbarschaftstreff Blumenau, Trägerschaftsauswahl für ein Projekt der Quartierbezogenen Bewohnerarbeit in der Blumenau, Stadtbezirk 20. Den Zuschlag erhält der "Verein für Sozialarbeit e.V." von 6 Bewerbern. Die laufenden Kosten betragen in 2009-2012 insgesamt 187.500 ? (Seite 10). Außerdem werden diesem Verein die Umbaukosten von 23.000 ? erstattet (Seite 11).
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 18.06.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02323: Mehrjahresinvestitionsprogramm 2009 bis 2013; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf, insbesondere zur Wiedereröffnung der Toilettenanlage am Lorettoplatz (wird privatisiert, Ausschreibung läuft) und zur Verlagerung des Sozialbürgerhauses für die Stadtbezirke 19 und 20 an den Ratzingerplatz (das Bebauungsplanverfahren ist noch nicht abgeschlossen, Seite 5-6).
+- TOP 12.2.: Beschluss des Bauausschusses vom 16.06.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02333: Mehrjahresinvestitionsprogramm für die Jahre 2009 - 2013 mit verbindlicher Planung für 2014; Entwurf für das Baureferat, insbesondere zu den BA-Beschlüssen vom 13.10.2008 (Anlage 15)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02420: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil (Vertagt)
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02454: PERSPEKTIVE MÜNCHEN - Fortschreibungskonzept (Mehrkosten in 2010 und 2011 insgesamt 170.000 ?)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02475: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung a) Grundsatzbeschluss - Rahmenbedingungen und Trends - Potenziale - Schlussfolgerungen b) Weiteres Vorgehen c) Vergabe eines Werkauftrages (Vertagt, beantragter Sachmittelbedarf 450.000 ?, Seite 33)
+- TOP 12.6.: 2. Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 00506: PERSPEKTIVE MÜNCHEN, Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung, insbesondere im Stadtbezirk Hadern (Seite 69)
+- TOP 12.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 08.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02459: Münchner Bürgerinnen- und Bürgerbefragung 2009 / 2010 (Kosten 160.000 - 180.000 ?, Seite 5)
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 14.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02568: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen der Landeshauptstadt München (Sondernutzungsgebührensatzung), insbesondere zur Gebühr für "Allgemeine Marktveranstaltungen" (9 ? je Frontmeter und Tag) und erstmalig für Christkindlmärkte (mindestens 2,50 ? je Frontmeter und Tag). Für bestimmte Warengattungen wird eine erhöhte Gebühr i.H.v. bis zu 27,63 ? je Frontmeter und Tag erhoben (Warengattung 1 = Wurstbraterei, Fischbraterei, Feinkost, alkoholische Heißgetränke, Seite 2-3 + Anlage). Dazu kommen je 100 ? für Auf- und Abbautage ( § 1 der Änderungssatzung, Nr. 28 der Anlage I = Gebührenverzeichnis der Sondernutzungsgebührensatzung n.F.)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Kreisverwaltungsausschusses vom 14.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02575: Kooperatives Verkehrsmanagement für die Region München (KVM), Projekt arrive - Angebote für eine mobile Region
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02481: Gewerbeflächenentwicklung, Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02478: PERSPEKTIVE MÜNCHEN, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Konzept für die Öffentlichkeitsphase
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
