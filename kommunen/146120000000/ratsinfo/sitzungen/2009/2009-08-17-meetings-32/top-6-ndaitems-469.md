@@ -1,0 +1,7 @@
+# TOP 6: TOP 6 Feststellung der Anzahl der Stellvertreter des Ortsvorstehers
+
+- Sitzung: 1. Sitzung des Ortschaftsrates Weixdorf (2009-08-17)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/469
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/617
