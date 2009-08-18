@@ -1,0 +1,141 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-08-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1621233
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1621233
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Kinderhaus Ferdinand (Az.: 08/09 - 3.4.1): Zuschuss in Höhe von 800 ? für ein Kunstprojekt zur 15-Jahr-Feier am 11.07.09
+- TOP 2.3.2.: Antrag Initiative "Musik vor Ort" (Az.: 08/09 - 3.5.1): Zuschuss in Höhe von 6.776 ? für Musik vor Ort - Herbst 2009 in Neuhausen
+- TOP 2.3.3.: Antrag Dauerkleingartenanlage NW 1 e.V. (Az.: 07/09 - 4.1): Zuschuss in Höhe von 350 ? für das Bürgerfest am 18.07.09 (Wiedervorlage aus der Sitzung vom 21.07.09)
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Beschlussvorlage Kommunalreferat (Az.: 10/96 - 3.2.13): Straßenbenennung im 9. Stadtbezirk: Seidlhofstraße, Reitknechtstraße
+- TOP 2.4.2.: Beschlussvorlage Baureferat (Az.: 10/96 - 3.1.4): Dom-Pedro-Platz, Gartendenkmalpflegerische Umgestaltung mit Kinderspiel
+- TOP 2.4.3.: Beschlussvorlage KVR (Az.: 08/09 - 4.1): Genehmigung eines mobilen Fahrradständers in der Winthirstr. 10 a
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürger: Gefahrlose Querung der Wotanstraße / Walhallastraße
+- TOP 3.2.: Bürger: Situation Herthastraße zwischen Wotan- und Irnfriedstraße sowie Situation Margit-Schramm-Straße
+- TOP 3.3.: Bürger: Anbringung von Pollern am Rosa-Luxemburg-Platz
+- TOP 3.4.: Bürger: Autowracks in der Zambonini- und Stievestraße
+- TOP 3.5.: Bürger: Unhaltbare Radlerausgrenzungen in Neuhausen, Gern, Nymphenburg
+- TOP 3.6.: Bürger: Erweiterung der Fahrradständer am S-Bahnhof Donnersbergerbrücke
+- TOP 3.7.: Bürger: Baustelle Hubertusstr. 11; Gefahr für Leib und Leben, Verstösse gegen die Straßenverkehrsordnung
+- TOP 3.8.: Antrag CSU: Verkehrsgefährdung durch parkende Pkws im Kurvenbereich Ruffinistraße / Einmündung von der Waisenhausstraße in die Ruffinistraße
+- TOP 3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.10.: Antrag FDP: Ausrüstung der Ampeln St.Galler-/Waisenhausstraße und Dom-Pedro-/Frundsbergstraße mit einem taktilen Signal; Anpassung der U-Bahnstation Gern an die Bedürfnisse sehbehinderter Menschen
+- TOP 3.11.: =&gt; dazu: Bürger: Behindertengerechte Bordsteinabsenkungen Dachauer Straße / Landshuter Allee
+- TOP 3.12.: =&gt; dazu: Ergebnisse des Stadtteilchecks "Herz und Rampe" in Neuhausen
+- TOP 3.13.: Bekanntgabe in der Sitzung des Kreisverwaltungsausschusses vom 14.07.09: Kooperatives Verkehrsmanagement für die Region München Projekt arrive - Angebote für eine mobile Region
+- TOP 3.14.: MVG: Trambaumaßnahmen in den Sommerferien
+- TOP 3.15.: Baumaßnahmen der Stadtwerke München
+- TOP 3.16.: Baumaßnahmen der Stadtwerke a) Stromprojekt Wilderich-Lang-Straße b) Wasserprojekt Andreestraße
+- TOP 3.17.: KVR: Abbau der Lichtzeichenanlage Dom-Pedro-/Raglovichstraße (Schreiben BA 9 vom 21.07.09)
+- TOP 3.18.: Baureferat: Bürgeranliegen: Verkehrsführung Kreuzung Wotanstraße / Winfriedstraße / Margarethe-Danzi-Straße und Verkehrsführung in der Margarethe-Danzi-Straße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.19.: Baureferat: Straßenschäden in der Kuglmüllerstraße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.20.: Polizeiinspektion 42: Bürgeranliegen: Gefährdung durch geparkte Lkws und Wohnwägen auf der Dom-Pedro- und der Johann-Sebastian-Bach-Straße
+- TOP 3.21.: Beschluss der Vollversammlung des Stadtrates vom 29.07.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 3.22.: MVG: Bürgeranliegen Haltestelle Nymphenburg Süd (Schreiben BA 9 vom 17.03.09)
+- TOP 3.23.: Planungsreferat: Bürgeranliegen Zukünftiges Straßen- und Verkehrskonzept im neuen Wohngebiet an der Hanebergstraße (Schreiben BA 9 vom 21.04.09)
+- TOP 3.24.: =&gt; dazu: Elternbeirat KiTa St. Theresia: Zukünftige Verkehrsführung im Baugebiet Heilig Geist (Schreiben BA 9 vom 16.06.09)
+- TOP 3.25.: Baureferat: Das Baureferat bringt allen U-Bahn-Abgängen Aschenbecher an (Antrag BA 9 Nr. 787 vom 20.01.09)
+- TOP 3.26.: KVR: Leonrodstr. 60-68, Haltverbot zur besseren Erreichbarkeit der Feuerwehrzufahrten verbunden mit der Ausweisung von 2 Pkw-Stellplätzen (Schreiben BA 9 vom 16.12.08)
+- TOP 3.27.: KVR: Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr: a) Hawartstraße b) Menradstraße zwischen Renata- und Stupfstraße c) Waskestraße
+- TOP 3.28.: Baureferat: Instandsetzung des Schulwegs zur Grundschule Gertrud-Bäumer-Straße (Antrag Nr. 2756 des BA 9 vom 15.01.08) Wiedervorlage aus der Sitzung vom 21.07.09
+- TOP 3.29.: KVR: Aufhebung des personenbezogenen Behindertenparkplatzes am Dom-Pedro-Platz 1a
+- TOP 3.30.: Bürger: Parksituation Therese-Danner-Platz
+- TOP 3.31.: =&gt; dazu: Schreiben KVR
+- TOP 3.32.: Baureferat: Bürgerbeschwerde Parkscheinautomaten-Standorte im Lizenzgebiet Kasernenviertel
+- TOP 3.33.: KVR: Start der Parklizenzgebiete Ebenau und Volkartstraße zum 05.10.09
+- TOP 3.34.: KVR: Ortstermin Laimer Unterführung am 21.09.09
+- TOP 3.35.: Planungsreferat: Pläne zur Umweltverbundröhre Laim
+- TOP 3.36.: Beschlussvorlage Kommunalreferat: Straßenbenennung im 9. Stadtbezirk: Seidlhofstraße, Reitknechtstraße
+- TOP 3.37.: Planungsreferat: City-Logistikzentrum, Verkehrskonzept (Schreiben BA 9 vom 18.03.08)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 06.07.-12.07., 13.07.-19.07., 20.07.-26.07. und 27.07.-02.08.09
+- TOP 3.2.: Bauvorhaben Wilhelm-Hale-Straße (WA 19): Neubau einer Wohnanlage mit Tifegarage, hier: Baumfällungen
+- TOP 3.3.: Bauvorhaben Zuccalistr. 21: Neubau eines Mehrfamilienhauses und einer Villa mit Tiefgarage, hier: Baumfällungen
+- TOP 3.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Gewerbeflächenentwicklung; Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München
+- TOP 3.5.: MGS: Dokumentation Stadtteilsanierung
+- TOP 3.6.: Bauvorhaben Leonrodstr. 46-46a: Nutzungsänderung und Umbau einer Kindertagesstätte
+- TOP 3.7.: Bauvorhaben Marlene-Dietrich-Straße: Neubau einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle, Freisportanlagen und Amtsmeistergebäude
+- TOP 3.8.: Bauvorhaben Scherrstr. 7: Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Tiefgarage
+- TOP 3.9.: Bauvorhaben Zuccalistr. 33: Neubau eines Einfamilienhauses mit Garage (Haus 2 und 3), Tektur
+- TOP 3.10.: Antrag Bündnis 90 / Die Grünen: Einbeziehung des BA 9 in die Olympiapark-Bebauungspläne zur Olympiabewerbung
+- TOP 3.11.: Protokoll Besprechung Neuhauser Trafo, 2. Bauabschnitt am 22.07.09
+- TOP 3.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München, Fortschreibungskonzept
+- TOP 3.13.: Beschlussvorlage Baureferat: Dom-Pedro-Platz, Gartendenkmalpflegerische Umgestaltung mit Kinderspiel
+- TOP 3.14.: Hauptbahnhof-Laim-Pasing
+- TOP 3.15.: Bauvorhaben Margarethe-Danzi-Straße: Bodenaustausch des kontaminierten Grundstücks zur Errichtung der Grundschule Nymphenburg Süd
+- TOP 3.16.: Planungsreferat: Plangenehmigung gemäß Allgemeinen Eisenbahngesetz für den Neubau einer Trafostation und Errichtung eines 10kV Mittelspannungskabels
+- TOP 3.17.: Beschluss des Bauausschusses vom 07.07.09: Postwiese und umliegende öffentliche Grünflächen zwischen Donnersbergerbrücke und Friedenheimer Brücke im Bebauungsplan mit Grünordnung Nr. 1926 a
+- TOP 3.18.: MVG: Künftige Nutzung des Trambahnhäuschens Ackermannstr. 88 (Schreiben BA 9 vom 21.04.09)
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Zum Künstlerhof 18: Fällung von 1 Säulenpappel
+- TOP 3.2.: Tizianstr. 83: Fällung von 1 Wacholder
+- TOP 3.3.: Bäumlstr. 2-4: Fällung von 1 Ahorn
+- TOP 3.4.: Frickastr. 8: Fällung von 1 Ahorn und 1 Fichte
+- TOP 3.5.: Hirschgartenallee 48: Fällung von 1 Fichte
+- TOP 3.6.: Romanstr. 88: Fällung von 4 Säulenpappeln
+- TOP 3.7.: Planungsreferat: Gefahrenbaumfällung Hawartstr. 9
+- TOP 3.8.: Planungsreferat: Gefahrenbaumfällung Bolivarstr. 5
+- TOP 3.9.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.10.: Bürger: Gefährlich maroder Baumbestand im Bereich der Zamboninistraße
+- TOP 3.11.: Referat für Gesundheit und Umwelt: Ausnahmezulassung für den Betrieb eines Kompressors in der Nacht von 10. auf 11.08.09 in der Birker-/Weiglstraße (wegen Fernwärmeverlegung)
+- TOP 3.12.: Planungsreferat: Fällungsgenehmigung Nördliches Schlossrondell 8
+- TOP 3.13.: Planungsreferat: Fällungsgenehmigung Franz-Schrank-Str. 9
+- TOP 3.14.: Planungsreferat: Fällungsgenehmigung Mechthildenstr. 34
+- TOP 3.15.: Baureferat: Fällantrag Linde in der Grundstückseinfahrt Hubertusstr. 34 (Schreiben BA 9 vom 17.02.09)
+- TOP 3.16.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09: Perspektive München; Aktualisierung Leitlinie Ökologie, Themenschwerpunkte Klimawandel und Klimaschutz, Konzept für die Öffentlichkeitsphase
+- TOP 3.17.: Antrag SPD: Aufnahme der Buche in der Hawartstraße in die Liste der Naturdenkmäler
+- TOP 3.18.: Bürger: Prüfung der Entfernung der Wertstoffinsel Hertha-/Irnfriedstraße
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag Kinderhaus Ferdinand: Zuschuss in Höhe von 800 ? für ein Kunstprojekt zur 15-Jahr-Feier am 11.07.09
+- TOP 3.2.: BA 3 Maxvorstadt: Wettbewerb Wiesenfeld-Siedlung, Antrag Stationäre Pflegeeinrichtung mit betreuter Wohnform für Alte Menschen in der Sozialregion Mitte
+- TOP 3.3.: Caritasverband: Einladung zur Podiumsdiskussion "München braucht Dich - ohne Bildung keine Zukunft" am 30.09.09
+- TOP 3.4.: Kündigung der Räume der AWO-Altentagesstätte; Unterstützung bei Suche nach neuem Standort (Verweisung aus der Sitzung vom 21.07.09)
+- TOP 3.5.: Sozialreferat: "Daheim in München" / Einbürgerungsfeier am 19.10.09
+- TOP 3.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.09: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010
+- TOP 3.7.: Bayerisches Staatsministerium für Unterricht und Kultus: Vorkurs Deutsch (Zwischenmitteilung zum Schreiben BA 9 vom 21.07.09)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Schulreferat: Zusammenlegung der Kinderbetreuung bei den Kinderkrippen (Schreiben BA 9 vom 19.05.09)
+- TOP 3.10.: Spielplatz / Fahrradweg Zuccalistraße - Schlossmauer / Vorstellung der Umgestaltung durch das Baureferat
+- TOP 3.11.: Lenbachhaus: Kostenloser Zugang in städtische Museen für Schüler des zweiten Bildungsweges (Antrag BA 9 Nr. 61 vom 17.03.09)
+- TOP 3.12.: Direktorium: Antrag auf Gebührenbefreiung für Lilalu für das Theaterfestivalgelände
+- TOP 3.13.: Schulreferat: Kindertageseinrichtung Frundsbergstr. 43; Errichtung eines Erweiterungsbaus als Lernwerkstatt, Vorstellung der Vorentwurfsplanung und Ausblick auf das weitere Vorgehen
+- TOP 3.14.: Schulreferat: Öffentlichkeitsphase Bildung
+- TOP 3.15.: Schulreferat: Das Schulreferat trifft die Bezirksausschüsse am 15.07.09 / Bericht
+- TOP 3.16.: Behindertenbeirat München: Nachnutzung des Erholungsparkgeländes an der Taxisstraße (Schreiben BA 9 vom 16.06.09)
+- TOP 3.17.: =&gt; dazu: Schreiben Verein Erholungspark
+- TOP 3.18.: Direktorium: Budget des BA 9, Backstage 2007
+- TOP 3.19.: KVR: Schulweghelfer an der Yorck-/Taxisstraße während der Bauzeit am Heilig-Geist-Gelände (Schreiben BA 9 vom 21.04.09)
+- TOP 3.20.: Schulreferat: Grundschulneubau Nymphenburg Süd, Projektauftrag (Schreiben BA 9 vom 19.05.09)
+- TOP 3.21.: Sozialreferat: Generalsanierung des Münchner Bürgerheims (Schreiben BA 9 vom 19.05.09)
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Initiative "Musik vor Ort": Zuschuss in Höhe von 6.776 ? für Musik vor Ort - Herbst 2009 in Neuhausen
+- TOP 3.2.: Kulturreferat: Zwischennutzung der Stadtbibliothek Nymphenburg für eine kulturelle Nutzung (Antrag BA 9 Nr. 735 vom 16.12.08)
+- TOP 3.3.: Deutsche Bundesbank: Anbringung einer Gedenktafel für Hans Beimler am Anwesen Döllingerstr. 5 (Schreiben BA 9 vom 16.06.09)
+- TOP 3.4.: Baureferat: Wiedererrichtung des "Hirschalter"-Denkmals im Hirschgarten (Schreiben BA 9 vom 18.11.08)
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Beschlussvorlage KVR: Genehmigung eines mobilen Fahrradständers in der Winthirstr. 10 a
+- TOP 4.2.: Antrag SPD: Wo BA 9 draufsteht, ist auch BA 9 drin
+- TOP 4.3.: Referat für Arbeit und Wirtschaft: Änderung im Filialnetz der Deutschen Post, Partner-Filiale in der Landshuter Allee 37
+- TOP 4.4.: KVR: Kundgebung "Freiheit für Dhondup Wangchen" am 31.07.09 auf dem Romanplatz
+- TOP 4.5.: KVR: Pächterwechsel a) "Luna y Sol", Richelstr. 10 b) "Ristorante Roma-Pizzeria", Dom-Pedro-Str. 6
+- TOP 4.6.: Antrag Dauerkleingartenanlage NW 1 e.V.: Zuschuss in Höhe von 350 ? für das Bürgerfest am 18.07.09 (Wiedervorlage aus der Sitzung vom 21.07.09)
+- TOP 4.7.: KVR: Ritterfest 2010 auf der Grünanlage Olympiapark Süd, Voranfrage (Wiedervorlage aus der Sitzung vom 21.07.09)
+- TOP 4.8.: Bürger: Stadtteilfest Hirschgarten
+- TOP 4.9.: Beschluss des Kreisverwaltungsausschusses vom 14.07.09: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der LH München (Sondernutzungsgebührensatzung)
+- TOP 5: Verschiedenes
