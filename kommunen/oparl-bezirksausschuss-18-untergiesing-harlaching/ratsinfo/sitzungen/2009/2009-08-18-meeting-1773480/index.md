@@ -1,0 +1,102 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-08-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1773480
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1773480
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Ehlersstraße; unübersichtliche Zu- und Ausfahrt zur Tiefgarage; Bürgerschreiben vom 04.08.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Parkplatzsituation Kinderwelt Harlaching; Unterschriften der Anlieger für eine Zone mit absolutem Haltverbot; Antrag des Elternbeirats (vertagt aus der Sitzung vom 21.04.2009)
+- TOP 3.1.: Beseitigung einer Gefahrenstelle an der Ausfahrt der Sparkasse in die Hans-Mielich-Straße; Anfrage des BA 18 aus der Sitzung vom 16.06.09; Antwortschreiben des Baureferats vom 30.06.09 (neutrale Erledigung) (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.2.: eingeschränkte Parkverbotszone im Bereich der Naupliastraße zur Armannspergstraße; BA-Antrag-Nr. 08-14 / B 00965 vom 17.03.09; Antwortschreiben des KVR vom 08.07.09 (positive Erledigung)
+- TOP 3.3.: Überweg an der Tauernstraße; Anliegen des BA 18 aus der Sitzung vom 17.03.09; Antwortschreiben des Baureferats vom 28.07.09 (positive Erledigung)
+- TOP 3.4.: Probeweise Abschaltung der Lichtzeichenanlage Claude-Lorrain- / Schyrenstraße; Stellungnahme des BA 18 vom 24.07.09; Antwortschreiben des KVR vom 29.07.09 zu 3.2.5.4 E-Mail des KVR vom 04.08.2009
+- TOP 3.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2010; Sitzungsvorlage Nr. 08-14 / V 02476; Beschluss des Ausschusses für Arbeit und Wirtschaft vom 07.07.2009 (VB) (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.2.: Kooperatives Verkehrsmanagement für die Region München (KVM); Projekt arrive - Angebote für eine mobile Region; Beteiligung der Landeshauptstadt München; Bekanntgabe in der Sitzung des Kreisverwaltungsausschusses vom 14.07.2009 (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.3.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München; Sitzungsvorlage Nr. 08-14 / V 01793 - § 4 Ziffer 9 b GeschO; Beschluss der Vollversammlung des Stadtrates vom 29.07.09
+- TOP 3.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Schmorellplatz 12; Mitteilung des KVR mit der Bitte um Kenntnisnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Vollzug des Bayerischen Naturschutzgesetzes (BayNatschG); Neufassung der Naturdenkmalverordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 24.06.2009 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: zeitgemäße und würdige Leichenhalle im Krankenhaus Harlaching; eigener Raum für trauernde Angehörige / für würdigen Abschied von Verstorbenen; Antrag des BA 17 aus der Sitzung vom 09.06.09 mit der Bitte um Unterstützung (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.1.: "Daheim in München" - Bezirksausschüsse in die geplanten Aktivitäten einbeziehen; Antrag Nr. 08-14 / B 00795 des BA 10 sowie Informationen des Sozialreferates zur Kenntnisnahme (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.2.: Neuer Mieterbeirat; Mieterbeirat als Abbild der Münchner Mieterschaft; Beirat für Wohnen; Sitzungsvorlage Nr. 08-14 / V 01519; Beschluss der Vollversammlung des Stadtrates vom 20.05.09 (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Neuwidmung der Isarpromenade zwischen Isarring und Brudermühlstraße; Empfehlung Nr. 08-14 / E 00204 der Bürgerversammlung des Stadtbezirkes 01 Altstadt Lehel am 02.12.2008; Entwurf einer Beschlussvorlage des Planungsreferates mit der Bitte um Stellungnahme bis 05.08.09 (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen Geiselgasteigstraße 48a; Anhörung vom 31.07.2009
+- TOP 3.1.: Sondernutzung durch ambulanten Obst-und Gemüseverkaufsstand Ecke St.-Magnus-Straße / Naupliastraße; Schreiben des Bayerischen Landesverbands für Marktkaufleute vom 29.04.09; Antwortschreiben der Bezirksinspektion Süd vom 25.05.09 (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.2.: Widmung des Weges entlang des Perlacher Forstes; Schreiben des BA 18 vom 23.06.09; Zwischennachricht des Baureferates vom 24.06.09
+- TOP 3.3.: Trink- und Imbisskiosk Teutoburger Straße 11; Antwortschreiben des KVR vom 27.06.08; ausstehende endgültige Stellungnahme des BA 18; Nachfrage des KVR vom 19.06.09 (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.4.: MIP 2009-2013; Gestaltung des Hans-Mielich-Platzes; BA-Antrag-Nr. 08-14 / B 01237 vom 16.06.09; Antwortschreiben des Baureferats vom 29.07.09 (positive Erledigung)
+- TOP 3.1.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Bagatellgrenze bei Förderquoten; Einführung als "Kann-Bestimmung" bei Befreiungen nach § 31 Abs. 2 Baugesetzbuch (BauGB) 2. Abschaffung der mietwirksamen, ratenweise fälligen Kaufpreisbestandteile ("mietpreisrelevante Geldleistungen") bei städtischen Grundstücken für die Einkommensorientierte Förderung-EOF 3. Einführung einer einheitlichen Regelung für Mietsteierungen im geförderten Mietwohnungsbau auf städtischen Grundstücken (München Modell-Miete, München Modell-Genossenschaften, KomPro A und B, EOF); Sitzungsvorlagen Nr. 08-14/V 02420; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09 (VB) (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.2.: Gewerbeflächenentwicklung; Expertise zur Nachfrage und zum Bedarf des klassischen Gewerbes in München; Sitzungsvorlage Nr. 08-14 / V 02481; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09 (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.3.: Kommunales Wohnungsbauförderprogramm; Ausschreibung von Grundstücken; Schreiben des Sozialreferates vom 08.06.09 (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.4.: PERSPEKTIVE MÜNCHEN - Fortschreibungskonzept; Sitzungsvorlagen Nr. 08-14 / V 02454; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.2009 (VB) (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.5.: PERSPEKTIVE MÜNCHEN; Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung a) Grundsatzbeschluss b) BA-Antrag-Nr. 08-14 / B 00734 des BA 25 - Laim vom 02.12.2008; Sitzungsvorlagen Nr. 08-14 / V 00506; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.09 (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.6.1 SSW "Moro-Bistro-Café", Pilgersheimer Str. 50; Mitteilung vom 25.06.09 (vertagt aus der Sitzung vom 21.07.09) 3.5.6.6.2 SSW "Adriatic", Grünwalder Str. 14d; Mitteilung vom 02.07.09 (vertagt aus der Sitzung vom 21.07.09)
+- TOP 3.7.: PERSPEKTIVE MÜNCHEN: Langfristige Siedlungsentwicklung a) Grundsatzbeschluss - Rahmenbedingungen und Trends - Potenziale - Schlussfolgerungen b) weiteres Vorgehen c) Vergabe eines Werkauftrags Sitzungsvorlage Nr. 08-14 / V 02475; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.07.2009(VB) (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.8.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Kulturstrand in München; Sitzungsvorlage Nr. 08-14 / V 02183; Beschluss des Bauausschusses vom 05.05.09 (SB) (vertagt aus der Sitzung vom 21.07.2009)
+- TOP 3.2.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung); Sitzungsvorlage Nr. 08-14 / V 02568; Beschluss des Kreisverwaltungsausschusses vom 14.07.09 (VB) (vertagt aus der Sitzung vom 21.07.09)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010; Sitzungvorlage Nr. 08-14 / V 02459; Beschluss des Ausschusses für Stadtplanung und Bauordnung und des Sozialausschusses vom 08.07.09 (VB) (vertagt aus der Sitzung vom 21.07.09)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
