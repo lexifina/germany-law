@@ -1,0 +1,139 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-08-19T18:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586764
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586764
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Das Westkreuz ist kein Grattlergebiet
+- TOP 2.2.: Errichtung einer Ampelanlage an der Kreuzung Berglwiesenstr. / An der Langwieder Haide (vertagt aus 07/09 in UA Planung)
+- TOP 2.3.: Bodenseestr. 194, Errichtung eines gestaffelten Anbaus; Duldung einer Lärmschutzwand hinter der Grundstücksgrenze (vertagt aus 07/09 in UA Planung)
+- TOP 2.4.: Bauvorhaben Papinstraße
+- TOP 2.5.: Parkplätze in der Papinstraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: - Papinstr. - FlNr. 3539/113, gem. Baumbestandsplan Nr. 2009-15152 - Ubostr. 3-5, 1 Kiefer und 2 Eschen - Kurt-Floericke-Str. 13, 1 Lärche und 1 Birke - Riesenburgstr. 37 - 49, 1 Ahorn - Harburger Str. 10, 1 Silbertanne - Norderstr. 12 b - Zwernitzer Str. 18, gem. Baumbestandsplan Nr. 2009-8190A und Freiflächengestaltungsplan Nr. 2009-8190 - Am Lochhauser Hügel 6, 1 Lärche und 1 Weide - Taubertalstr. 11, 1 Lärche
+- TOP 3.1.2.: Fällungsantrag Radolfzeller Str. 8 - 46, Schr. Planungsreferat vom 21.07.09
+- TOP 3.1.3.: Fällungsantrag Ubostr. 3, Schr. Planungsreferat vom 23.07.09
+- TOP 3.2: Regsam-Beauftragte
+- TOP 3.4: Jugendbeauftragte
+- TOP 3.6: Migrationsbeauftragte
+- TOP 3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Zusätzliche Schulräume für die Grund- und Hauptschule an der Wiesentfelser Straße
+- TOP 4.2.: Machbarkeitsstudie für die zukünftige Bahnunterführung an der Hellensteinstraße (vertagt aus 07/09)
+- TOP 4.3.: Erstellung eines Verkehrskonzepts für den 22. Stadtbezirk (vertagt aus 07/09)
+- TOP 4.4.: Einrichtung eines Notdienstes während des Streiks im Sozialdienst und Erziehungsdienst; Erstattung von vereinnahmten Gebühren (vertagt aus 07/09)
+- TOP 4.5.: Gelände für Bolzplatz
+- TOP 4.6.: Kino für Freiham und attraktive Gestaltung des Bahnhofvorplatzes Freiham
+- TOP 4.7.: Gehsteigabsenkung am neu errichteten Fußweg Colmdorfstraße
+- TOP 4.8.: Anfrage: Go West - Fernwärme
+- TOP 4.9.: Radverkehr: 1. radfahrtauglicher Zustand für Radwegverbindung "nördliches Tunnelportal" A 99 bis zur Freilandstraße 2. Beschilderung Radverbindung zur Langwieder Seenplatte
+- TOP 4.10.: Protokolle der BA -Sitzungen des BA 22 im RIS veröffentlichen
+- TOP 4.11.: Anfrage: Bebauung im Gebiet Flur-Karte 1265 Gemarkung Aubing Limesstraße 55 b - Gailenreuther Straße
+- TOP 4.12.: Prüfung der Verlegung der Buswendeschleife für die Linie 267 an der Zwernitzer Straße in Neuaubing ins Westkreuz
+- TOP 4.13.: Instandsetzung Zuweg Langwieder Seenplatte
+- TOP 5: Entscheidungen
+- TOP 5.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22: Einziehung einer Teilstrecke des Waidachangers, Schr. Baureferat vom 29.07.09 (UA Planung)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.1.1.: Veranstaltung auf öffentlichen Verkehrsgrund: Wiesentfelser Straße - Festzug zum 30jährigen Jubiläum Maibaumverein St. Markus am 12.09.09 bis 20.09.09, Anhörung des KVR vom 23.07.09
+- TOP 6.1.1.2.: Beschlussentwurf für den Sozialausschuss am 15.10.09: Bericht zu REGSAM, REGSAM neu denken - Vertragszeitraum 2010 - 2012, Anhörung des Sozialreferats vom 07.08.09
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Versorgungslage am Westkreuz, Schr. Planungsreferat vom 06.07.09
+- TOP 6.1.2.2.: Barrierefreier Zugang zum Saal im Bayer. Schnitzel- und Hendlhaus (ehem. Wienerwaldsaal) an der Limesstr. 63 (Antrag Nr. 2769/22. vom 16.01.08), Schr. Kulturreferat vom 09.07.09
+- TOP 6.1.2.3.: Erlaubnisbescheid für die Durchführung eines Standkonzerts und eines Festzugs anlässlich des Aubinger Herbstfestes am 10.09.09, Schr. KVR vom 22.07.09
+- TOP 6.1.2.4.: Städt. Anwesen in der Ziegeleistr. 10 - Kinderhaus Lochhausen e.V., Schr. Kommunalreferat vom 02.07.09
+- TOP 6.1.2.5.: Öffentlichkeitsphase Leitlinie Bildung - Fotoprotokoll der Regionalveranstaltung, Schr. Schulreferat vom 01.07.09
+- TOP 6.1.2.6.: Veranstaltungen im Juli 2009, Schr. Kulturreferat vom 01.07.09
+- TOP 6.1.2.7.: Europe Direct Informationen für München & Oberbayern, Schr. Referat für Arbeit und Wirtschaft vom 03.07.09
+- TOP 6.1.2.8.: Veranstaltungen / Kooperationen, August 2009, Schr. Kulturreferat vom 31.07.09
+- TOP 6.1.2.9.: Anmietung der Räumlichkeiten der Stadtsparkasse München in der Wiesentfelser Str. 68 durch das SOS-Mütter- und Kindertageszentrum München, Schr. Stadtsparkasse München vom 31.07.09
+- TOP 6.1.2.10.: "Daheim in München" - Antr. Nr. 795 des BA 10 dazu Beschluss des Sozialausschusses vom 04.12.08: "Daheim in München", Aktion der Stelle für interkulturelle Arbeit im Rahmen der Umsetzung des Integrationskonzeptes, Einführung von regelmäßigen Einbürgerungsfeiern
+- TOP 6.2: UA Budget
+- TOP 6.2.1.: Dank des Elternbeirats der Grundschule am Ravensburger Ring für Zuschuss zum Selbstbehauptungskurs und zur Einrichtung der Ganztagsklassen, Schr. vom 21.07.09
+- TOP 6.2.2.: Zuwendung aus dem Budget für das Bayer. Rote Kreuz, Bescheid des Direktoriums vom 20.07.09
+- TOP 6.3: UA Freiham
+- TOP 6.3.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.4.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.4.1.1.: Hellensteinstraße (Fl.Nr. 2064/22): Errichtung von Wohngebäuden/ Variante I: 9 Doppelhäuser + 3 Dreispänner + 2 Zweispänner Variante II: 9 Doppelhäuser + 4 Dreispänner (Hellenstein-/Reußensteinstr.) Anhörung des Planungsreferats vom 01.07.09 (vertagt aus 07/09)
+- TOP 6.4.1.2.: Hellensteinstraße (Fl.Nr. 2038/0): Errichtung von Wohngebäuden Variante I: 3 Doppelhäuser + 5 Dreispänner Variante II: 5 Doppelhäuser + 5 Dreispänner Anhörung des Planungsreferats vom 01.07.09 (vertagt aus 07/09)
+- TOP 6.4.1.3.: Henschelstr. 3, Neubau eines Wohn- und Geschäftshauses - Vorbescheid, Anhörung des Planungsreferats vom 01.07.09 (vertagt aus 07/09)
+- TOP 6.4.1.4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/25 Bahnlinie München-Augsburg, Bergsonstr. (nördlich), Bundesautobahn A8 München Stuttgart (südlich), Bundesautobahnring A99 (östlich) - Mühlangerstraße/Langwied -, Anhörung des Planungsreferats vom 21.07.09
+- TOP 6.4.1.5.: Verfahren zur Inschutznahme als Landschaftsbestandteil "Magerstandorte am Gleisdreieck Pasing", Anhörung des Planungsreferats vom 10.07.09
+- TOP 6.4.1.6.: Papinstraße (Fl.Nr. 3539/113): Neubau eines Mehrfamilienhauses mit Tiefgarage - BT A, Anhörung des Planungsreferats vom 09.07.09
+- TOP 6.4.1.7.: Papinstraße (Fl.Nr. 3539/113): Neubau 2er Mehrfamilienhäuser mit Tiefgarage - BT B, Anhörung des Planungsreferats vom 09.07.09
+- TOP 6.4.1.8.: Freihamer Allee 20-22: Neubau eines Wohnhauses mit 149 Betten, das ganz oder teilweise der Pflege und Betreuung seiner Bewohner dient - Vorbescheid, Anhörung des Planungsreferats vom 21.07.09
+- TOP 6.4.1.9.: Errichtung und Betrieb eines unterirdischen 17,4 t Flüssiggaslagers am Dietmar-Keese-Bogen der Panificio Italiano Veritas GmbH, Anhörung des RGU vom 21.07.09
+- TOP 6.4.1.10.: Straßenbaumaßnahme: Harburger Str. 2 - 16, Anhörung des Baureferats vom 30.07.09
+- TOP 6.4.1.11.: Änderung der Denkmalliste: Rupert-Bodner-Str. 3/5 (ehem. Heizkraftwerk), Anhörung des Planungsreferats vom 05.08.09
+- TOP 6.4.1.12.: Erlaubnis zum Halten für einen Shuttlebus der "Initiative für Menschen ohne Obdach" an der Bushaltestelle am S-Bahnhof Lochhausen, Verkehrsrechtliche Anordnung an der Buswendeanlage, Anhörung des KVR vom 11.08.09
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.4.2.1.: Baufälle im 22. Stadtbezirk ( v. 29.06.-05.07.09, v. 06.07.-12.07.09, v. 20.07.-26.07.09, v. 27.07.-02.08.09), Schr. Planungsreferat vom 06.07.09, 13.07.09, 27.07.09, 03.08.09
+- TOP 6.4.2.2.: Baumaßnahmen der Stadtwerke, Stichtag: 06.07.09, 13.07.09, 20.07.09, 27.07.09, 03.08.09
+- TOP 6.4.2.4.: S-Bahnhof Aubing; 1. Sicherung der Bike und Ride - Flächen 2. Ausweitung der Fahrradstellplätze und Überdachung dieser Schr. Baureferat vom 14.07.09
+- TOP 6.4.2.5.: Bau der Verbindungsspange zwischen Bergsonstr. und Kronwinkler Str., Schr. Baureferat vom 08.07.09
+- TOP 6.4.2.6.: Friedhof Aubing; 1. Errichtung einer Urnenmauer oder Urnenhalle 2. Sanierung des nördlichen Parkplatzes Schr. Friedhofsverwaltung vom 30.06.09
+- TOP 6.4.2.7.: Ausstattung der Sickerbecken der BAB A 99 mit Rettungsringen, Schr. Autobahndirektion Südbayern vom 21.07.09
+- TOP 6.4.2.8.: MVV-Regionalbuslinien 267 und 830 - zusätzliche Haltestellen und Wartehäuschen; Schr. RVO GmbH vom 27.07.09 Errichtung von Buswartehäuschen an der Bushaltestelle Pirolstr. der Buslinie 830 und an der Bushaltestelle Krähenweg
+- TOP 6.4.2.9.: Befahren des Gehweges in der Pretzfelder Str. 9 - 11 durch Pkw und Busse - Aufstellen eines Pollers, Schr. Baureferat vom 02.07.09
+- TOP 6.4.2.10.: Anfrage in der Bürgerversammlung vom 30.06.09 bzgl. Erneuerung der Bänke am Ramses See, Schr. Baureferat vom 14.07.09
+- TOP 6.4.2.11.: Bergsonstraße - Einrichtung einer Skateranlage, Schr. Baureferat vom 16.07.09
+- TOP 6.4.2.12.: Spielplatz Leienfelsstraße - Nutzung der Spielwiese, Schr. Baureferat vom 16.07.09
+- TOP 6.4.2.13.: Einsatz der Buslinie 161 an Wochenenden auch als Nachtlinie, evtl. gemeinsame Linienführung mit der Nachtlinie N 47 (Antrag aus der Jugendsprechstunde vom 20.05.09), Schr. MVG vom 14.07.09
+- TOP 6.4.2.14.: Straßenausbesserung Negrellistraße, Schr. Baureferat vom 21.07.09
+- TOP 6.4.2.15.: Badebus ab Lochhausen Bahnhof, Schr. Referat für Arbeit und Wirtschaft vom 21.07.09
+- TOP 6.4.2.16.: Sitzung der Kommission für Stadtgestaltung vom 19.05.09: u.a. Neubau eines Lebensmitteldiscounters, eines Vollsortimenters und eines Fachmarkts für Betten oder Teppiche in der Stockacher Str. 10, Niederschrift des Planungsreferat
+- TOP 6.4.2.17.: Mitteilung über Verkauf von Grundstücken: - Franz-Josef-Delonge-Straße - Bergsonstraße Schr. Kommunalreferat vom 17.07.09 und 30.06.09
+- TOP 6.4.2.18.: Arbeiten im Straßenraum: Wiesentfelser Str. zwischen Riesenburgstr. und Limesstraße - Verlegung von Fernwärme, Schr. KVR vom 02.07.09
+- TOP 6.4.2.19.: Arbeiten im Straßenraum: Riesenburgstr. zwischen Nr. 28 und Wiesentfelser Str. - Verlegung einer Fernwärmeleitung, Schr. KVR vom 21.07.09
+- TOP 6.4.2.20.: Straßenbaumaßnahme Kastelburgstraße zwischen Mariabrunner Str. und Kronwinkler Str., Schr. Baureferat vom 16.07.09
+- TOP 6.4.2.21.: Baustelleneinrichtung an der Pretzfelder Straße, Schr. KVR vom 23.07.09
+- TOP 6.4.2.22.: Trambaumaßnahmen in den Sommerferien, Schr. MVG vom 22.07.09
+- TOP 6.4.2.23.: Arbeiten im Straßenraum: Riesenburgstr. zwischen Pretzfelder Str. und Wiesentfelser Str., Fahrbahnsanierung, Schr. KVR vom 03.08.09
+- TOP 6.4.2.24.: Anbringung eines Verkehrsspiegels in der Parsberger Str. 5 - 5 a, Bürgeranliegen vom 20.05.09, Schr. Baureferat vom 29.07.09
+- TOP 6.4.2.25.: Geschwindigkeitsbegrenzung am Freihamer Weg auf 30 km/h, Schr. KVR vom 29.07.09
+- TOP 6.4.2.26.: Verwirklichung eines Fuß- und Radweges auf der ehemaligen Gotthardtrasse im Bereich Pasing-Neuaubing-Aubing-Lochhausen-Langwied, Schr. Baureferat vom 25.07.09
+- TOP 6.4.2.27.: Lichtzeichenanlage Bodenseestr. / Ecke Aufseßer Str., Schr. BA 21 vom 22.07.09 und KVR vom 15.06.09
+- TOP 7.1.: Vollzug des Sprengstoffgesetzes, hier: Feuerwerk Ranertstr. 1 (Nachbargrundstück) am 14.08.09 (Ersatztermin: 15.08.09), Anhörung des KVR vom 05.08.09 - Eilentscheidung des Vorstandes: Ablehnung -
+- TOP 7.2.: Zweckentfremdung von Wohnraum: Ranertstr., Anhörung Sozialreferat vom 29.07.09
+- TOP 8.1.: Zweckentfremdung von Wohnraum: Zwernitzer Straße, Schr. des Sozialreferats vom 15.07.09
+- TOP 8.2.: Wirtschafts-Info 07/2009, Schr. Referat für Arbeit und Wirtschaft vom 31.07.09
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: -Planungsgebiet Freiham; Errichtung aller Schularten (Grund-, Haupt-, Realschulen sowie Gymnasium) als integrierte rhythmisierte Ganztagsschule (Antrag Nr. 748/22. vom 17.12.08) - Verwirklichung der Realschule und des Gymnasiums als rhythmisierte Ganztagsschule in Freiham Nord bereits im ersten Bauabschnitt (Ziffer 1 des Antrags) (Antrag Nr. 1231/22. vom 17.06.09) - Sofortige Einstellung der erforderlichen Finanzmittel für die Realschule in Freiham Nord in das Mehrjahresinvestitionsprogramm in Liste 1 (Ziffer 2 des Antrags) (Antrag Nr. 1232/22. vom 17.06.09) Schr. Schulreferat vom 10.07.09 und E-Mail des Schulreferats vom 13.07.09
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kreisverwaltungsausschusses vom 14.07.09: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung)
+- TOP 10.2.: Bekanntgabe in der Sitzung des Kreisverwaltungsausschusses vom 14.07.09: Kooperatives Verkehrsmanagement für die Region München (KVM), Projekt arrive - Angebote für eine mobile Region, Beteiligung der Landeshauptstadt München (UA Planung)
+- TOP 10.3.: Beschluss des Bauausschusses vom 07.07.09: Kastelburgstraße zwischen Mariabrunner Straße und Kronwinkler Straße im 22. Stadtbezirk - Erstmalige Herstellung (UA Planung)
+- TOP 10.4.: 2. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.07.09 und Beschluss der Vollversammlung vom 22.07.09: Perspektive München, Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Protokoll des BA-Vorsitzendenstreffens am 25.06.09, Schr. Direktorium vom 06.07.09
+- TOP 11.2.: Interkulturelle Woche 2009 - Einladung zur Podiumsdiskussion "München braucht dich - ohne Bildung keine Zukunft" am 30.09.09 um 15 Uhr im Karmelitersaal, Karmeliterstr. 1, 80333 München
+- TOP 11.3.: Neuer Terminvorschlag für BA-Sitzung im Oktober: 14.10.09 in der Pfarrei St. Michael Lochhausen
+- TOP 11.4.: Situationsbericht über das Suchtverhalten der Münchner Bevölkerung, Schr. RGU - Koordination für Psychiatrie und Suchthilfe vom 12.08.09
+- TOP 11.5.: Protokoll über Gespräch zur Sportentwicklungsplanung für Müchnen Planungsbereich Freiham-Nord am 21.07.09
+- TOP 11.6.: Oktoberfest 2009, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Termin BA 22: Sonntag, 27.09.09, Schr. Direktorium vom 17.08.09
+- TOP 11.7.: Informationsveranstaltung für die Bezirksausschüsse; Bewerbung um die Olympischen und Paralympsichen Winterspiele 2018, Termin: Dienstag, 29.09.09 von 18.00 - 21.00 Uhr, Schr. Direktorium vom 12.08.09
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 16.09.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7: Anhörungen / Stellungnahmen (4)
+- TOP 8: Unterrichtungen / Bekanntgaben (4)
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.3: Kinderbeauftragte
+- TOP 3.5: Beauftragte für das Jubiläumsjahr 2010
