@@ -1,0 +1,65 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-08-20T16:00:00+02:00
+- Ende: 2009-08-20T17:12:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2470
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2470
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126117.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126117.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126117.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 04.06.2009 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: KSP Bunzlauer Weg / Oppelner Weg - einstimmig beschlossen
+- TOP 5: KSP Bunzlauer Weg / Sandträgerweg - einstimmig beschlossen
+- TOP 6: KSP Wickenweg - einstimmig beschlossen
+- TOP 7: Künstlermarkt auf dem Gertrudisplatz am 11.10.2009 - einstimmig beschlossen
+- TOP 8: Zuschuss an den Reit- und Ponyclub Düsseldorf e.V. - einstimmig beschlossen
+- TOP 9: Zuschuss an den Boston Club e.V. Düsseldorf - einstimmig beschlossen
+- TOP 10: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 12: Sicherheit von Spielplätzen im Stadtbezirk 8 - beantwortet
+- TOP 13: Grundstück Am Turnisch - beantwortet
+- TOP 14: Bebauung Sodener Weg - beantwortet
+- TOP 15: Umwandlung der Notunterkünfte Hasseler Richtweg - beantwortet
+- TOP 16: Kanalisation Gerersheimer Landstraße / Erkrather Straße - beantwortet
+- TOP 17: Maßnahmenkonzept Gänsemanagement Unterbacher See - beantwortet
+- TOP 18: Kanalisation Vennstraße - beantwortet
+- TOP 19: Grünpflege Unterbach - beantwortet
+- TOP 20: Kleingartenanlage Im Broich - beantwortet
+- TOP 21: Sirene der Feuerwehr Unterbach - beantwortet
+- TOP 22: S-Bahnhof Eller - Mitte - mehrheitlich beschlossen
+- TOP 23: LZA - Vennhauser Allee 160 - einstimmig beschlossen
+- TOP 24: Unterbacher See - Beendigung der Gänsejagd - mehrheitlich abgelehnt
+- TOP 25: Unterbacher See - Maßnahmenplan zur Vergrämung der Gänse - mehrheitlich beschlossen
+- TOP 26: Jägerstraße - Aufhebung Einbahnstraßenregelung - mehrheitlich abgelehnt
+- TOP 27: Verkehrsführung Richardstraße - mehrheitlich beschlossen
+- TOP 28: Grünpflege Sodener Weg, alter Schützenplatz - einstimmig beschlossen
+- TOP 29: Gleisbegrünung in Lierenfeld - vertagt
+- TOP 30: Attraktivitätssteigerung Unterbacher See - zur Kenntnis genommen
+- TOP 31: Lichtmasterplan 2 - Abwägung und Beschluss - zur Kenntnis genommen
+- TOP 32: Konjunkturpaket 2 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Schulweg Vennhauser Allee zur Dieter-Forte-Gesamtschule - zur Kenntnis genommen
+- TOP 34: Fuß- und Radwege Kikweg und Hasseler Richtweg - zur Kenntnis genommen
+- TOP 35: Fließgewässer im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Bürgersteig im Bereich Gertrudisplatz 16 - 18 - zur Kenntnis genommen
+- TOP 37: Gehweg Ellerkirchstraße 3 - 7 - zur Kenntnis genommen
+- TOP 38: Parkscheibenregelung Vennhauser Allee 196 - 204 und Freiheitstraße - zur Kenntnis genommen
+- TOP 39: Haltverbot Gerresheimer Landstraße - zur Kenntnis genommen
+- TOP 40: Bürgerpark Am Stufstock - zur Kenntnis genommen
+- TOP 41: Betonkübel Gertrudisplatz 19 und 21 - zur Kenntnis genommen
+- TOP 42: Bildungslandschaft Eller und Jugendfreizeiteinrichtungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 43: Fahrradständer S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 44: Tauben Gumbertstraße - zur Kenntnis genommen
+- TOP 45: Illumination in Unterbach - zur Kenntnis genommen
+- TOP 46: Fußgängerüberweg Königsberger Straße / An der Schützenwiese - zur Kenntnis genommen
+- TOP 47: Umgestaltung Gertrudisplatz im Bereich Anhalter Straße - zur Kenntnis genommen
+- TOP 48: Kanalsituation Gerresheimer Landstraße / Erkrather Straße und Vennstraße - zur Kenntnis genommen
