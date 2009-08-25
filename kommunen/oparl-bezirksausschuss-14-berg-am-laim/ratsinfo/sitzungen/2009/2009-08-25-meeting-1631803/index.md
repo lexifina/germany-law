@@ -1,0 +1,90 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-08-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631803
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631803
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Entscheidung über Sperrzeitaufhebung für die Diskothek "La Tropicana" (ehem. Matador)
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Grafinger Straße 35 - Neubau eines Wohngebäudes mit Duplexgaragen
+- TOP 3.1.1.2.: Altöttinger Str. 41-43 - Neubau einer Tiefgarage
+- TOP 3.1.1.3.: Bebauungsplan Nr. 1980; Berücksichtigung einer Solarkraftanlage und einer Wärmepumpe (Ziffer 3 des Antrages)
+- TOP 3.1.1.4.: Städtebaulicher und landschaftsplanerischer Ideenwettbewerb für das Bahnbetriebswerk 4
+- TOP 3.1.1.5.: Offenlegung Hachinger Bach
+- TOP 3.1.2.1.: Dingolfinger Straße - Haltverbote im Bereich der Bauminseln - <div></div>
+- TOP 3.1.2.2.: Rotlicht-Missachtungen in der Kreillerstraße in westlicher Richtung - <div></div>
+- TOP 3.1.2.3.: Baustellenverkehr in der Teisendorfer Str. und Rauschbergstraße - <div></div>
+- TOP 3.1.2.4.: Straßenfest in der Baumkirchner Straße am 13.09.2009
+- TOP 3.1.2.5.: Verkehrsentwicklung in Trudering-Riem - LKW-Führungskonzept
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Fit & Gut drauf - Ein Gesundheitsförderprogramm für Jugendliche in Stadtteilen mit besonderem Entwicklungsbedarf - Modellvorhaben "Kooperationen - Pilotprojekte für die Stadtgesellschaft" - 2. Förderphase
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Bericht zu REGSAM - REGSAM neu denken - Vertragszeitraum 2010 - 2012
+- TOP 3.4.2.: "Integration macht Schule im Quartier" - Stadtteil- und interkulturell orientiertes Projekt zur Elternarbeit in den Grund- Haupt- und Förderschulen im Soziale-Stadt-Gebiet
+- TOP 3.4.3.: "Daheim in München" - Aktion der Stelle für interkulturelle Arbeit im Rahmen der Umsetzung des Integrationskonzeptes - Einführung von regelmäßigen Einbürgerungsfeiern
+- TOP 3.5.1.: Kinderinsel e.V. Haidhausen - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.5.2.: Antrag auf Budgetmittel des BA 14 für den "Tag des offenen Denkmals"
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Großvenedigerstraße 33 - Antrag auf Baumfällung
+- TOP 3.7.2.: Ringbergstraße 6 - Antrag auf Baumfällung
+- TOP 3.7.3.: Truderinger Str. 217 - Antrag auf Baumfällung
+- TOP 3.7.4.: Neumarkter Str. 74 - Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Baumkirchner Straße 1 - Antrag auf unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.3.: Grafinger Straße 35 - Antrag auf unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.4.: Ensembleschutz von Ortskernen - Antrag der SPD-Fraktion des Bezirksausschuss 19
+- TOP 4.1.1.5.: Newsletter Soziale Stadt Ramersdorf / Berg am Laim
+- TOP 4.1.2.1.: S-Bahn-Unterführung Berg am Laim - Errichtung einer separaten Fuß-und Radwegunterführung - Projektaktualisierung seitens der Deutschen Bahn AG
+- TOP 4.1.2.2.: Radverkehr in München - Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 4.1.2.3.: Ampfingstraße - Antwortschreiben bzgl. Parkraummanagement und Umweltzone
+- TOP 4.1.2.4.: Verbreiterung der Haltestelle "Kreillerstraße" - Ablehnung durch das Baureferat
+- TOP 4.1.2.5.: St.-Veit-Straße - Situierung der Litfaßsäule - Stellungnahme der Polizeiinspektion
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Schulcontainer für das Sonderpädagogische Förderzentrum Innsbrucker Ring spätestens zum Schulbeginn 2010/2011
+- TOP 4.3.2.: Mitteilung der Termine 2010 - "Das Schulreferat trifft die Bezirksausschüsse"
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Initiative "Rosenfeld-Buch" - Bewilligungsbescheid
+- TOP 4.5.2.: Regelung zum Warenverkauf zugunsten wohltätiger Zwecke
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3: Wiedererrichtung der beseitigten Wartehäuschen an der Straßenbahnhaltestelle Kreillerstraße, beide Fahrtrichtungen - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
