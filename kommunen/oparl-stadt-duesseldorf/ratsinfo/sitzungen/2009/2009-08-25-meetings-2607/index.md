@@ -1,0 +1,62 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-08-25T17:00:00+02:00
+- Ende: 2009-08-25T00:00:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2607
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2607
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126131.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126131.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126131.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Seniorenzentrum Gallberg
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Verwendung von Haushaltsmitteln
+- TOP 7: Widmung von Straßen
+- TOP 8: Flaggen im Gerresheimer Rathaus
+- TOP 9: Arbeitskampf in den Kindertagesstätten
+- TOP 10: Toxykologische Untersuchung des Brombeerberges
+- TOP 11: Maßnahmen zum Plangebiet "Nach den Mauresköthen"/Lager 61
+- TOP 12: Weiterführung der Straßenbahnlinie 703 in das Glashüttengelände
+- TOP 13: Rasenfläche Dreherstraße/Ecke Schönaustraße, Hexenstein
+- TOP 14: Rheinbahn-Haltestelle "Neuenhaus"-Süd/Richtung Mettmann
+- TOP 15: Wettbewerb zur Platzgestaltung im Neubaugebiet "Am Quellenbusch"
+- TOP 16: Sondergutachten und Wettbewerb für den Bereich des Gerresheimer Bahnhofs
+- TOP 17: Baumbestand an der Bergischen Landstraße (B 7) im Bereich Auffahrt A3- Gallberg
+- TOP 18: Abwasserkanalnetz im Bereich Gallberg
+- TOP 19: Grüner Pfeil Bergische Landstraße/Erkrather Landstraße
+- TOP 20: Spielgeräte Bereich Fußgängerzone Gerresheim
+- TOP 21: Kriegskampfmittel im Bereich der CO-Pipeline Hubbelrath
+- TOP 22: Aufstellung von Fahrradständern
+- TOP 23: Geschwindigkeitsbegrenzung Heyestraße/Dörpfeldstraße
+- TOP 24: Aufstellung von Bänken Heyestr. 128 - 132
+- TOP 25: Graffiti Bergische Landstraße
+- TOP 26: Renaturierung Pillebach/Brücke
+- TOP 27: Alten- und behindertengerechte Wohnungen im Stadtbezirk 7
+- TOP 28: Nach den Mauresköthen / Lager 61
+- TOP 29: Inklusion
+- TOP 30: Taubenplage
+- TOP 31: Wander- und Wirtschaftsweg Gut Großeforst / Haus Roland
+- TOP 32: Erweiterung Stadtteilbücherei Gerresheim
+- TOP 33: Lichtzeichenanlage Bergische Landstraße / Erkrather Landstraße
+- TOP 34: Bordsteinabsenkungen Heckteichstraße/Höherhofstraße
+- TOP 35: Zusätzliche Spielpunkte für Kinder in Gerresheim-Süd
+- TOP 36: Kinderspielplatz an der Düssel
+- TOP 37: Lärmoptimierter Belag für die Ludenberger Straße
+- TOP 38: Spielplätze in der Stratenhofsiedlung
+- TOP 39: WINGAS-Leitung von Hubbelrath nach Rath
+- TOP 40: Verkehrssicherheit
+- TOP 41: Verkehrsführung rund um den Gerresheimer Bahnhof
+- TOP 42: Baumfällungen
+- TOP 43: Lichtmasterplan II
+- TOP 44: Planung Pillebachbrücke und Pillebachrenaturierung
+- TOP 45: Situation der Erzieher/innen in den Kindertagesstätten im Stadtbezirk 7
