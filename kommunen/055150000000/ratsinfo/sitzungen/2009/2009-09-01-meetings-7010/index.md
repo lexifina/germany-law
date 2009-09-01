@@ -1,0 +1,54 @@
+# 50. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-09-01T17:03:00+02:00
+- Ende: 2009-09-01T19:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7010
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7010
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00283012.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.2: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Berichte
+- TOP 4.1: Sitzelemente auf dem Picasso-Platz - Pixelbestuhlung
+- TOP 4.2: Bauliche Optimierungsmaßnahmen zur Beseitigung von Unfallhäufungsstellen im Bereich Friesenring bis Niedersachsenring sowie Danziger Freiheit - zur Kenntnis genommen
+- TOP 4.3: Auswertung einer Verkehrszählung in der Rudolfstraße - zur Kenntnis genommen
+- TOP 4.4: Einführung der Umweltzone in Münster - zur Kenntnis genommen
+- TOP 4.5: Bericht zu Baumaßnahmen an der Ostmarkstraße
+- TOP 5: Entscheidungen
+- TOP 5.1: Zuschüsse an Vereine, Verbände, Vereinigungen und sonstige Initiativen des Stadtbezirks Münster-Mitte 2009 - einstimmig beschlossen
+- TOP 5.2: Genehmigung einer Dringlichkeitsentscheidung, Zuschuss an den Verein "Münsters Warendorfer Straße e. V." für die Stromversorgung des kleinen Markts an der Warendorfer Straße/Ecke Oststraße - einstimmig beschlossen
+- TOP 5.3: Metzer Platz - einstimmig geändert beschlossen
+- TOP 5.4: Verkehrsberuhigung auf der Emsstraße - Anregung lfd. Nr. 145/2008 gemäß § 24 GO NW - mehrheitlich abgelehnt
+- TOP 5.5: Verkehrsberuhigung Alkuinstraße / Lambertistraße im Bereich Spielplatz Hubertiplatz - mehrheitlich abgelehnt
+- TOP 5.6: Genehmigung der Dringlichkeitsentscheidung Verkehrsberuhigung und Sicherung der Querung im Bereich der Sportanlagen an der Wienburgstraße - einstimmig beschlossen
+- TOP 5.7: Straßenbenennung Picassoplatz - einstimmig beschlossen
+- TOP 5.8: Sanierung von Spielplätzen mit eingesparten Finanzmitteln - einstimmig beschlossen
+- TOP 6: Anhörungen
+- TOP 6.1: Gymnasium Paulinum - Erneuerung Fachräume - einstimmig beschlossen
+- TOP 6.2: Zusatzprogramm "Barrierefreie Bushaltestellen" 2010 - einstimmig beschlossen
+- TOP 6.3: Entschärfung der Situation für die Radfahrer auf der Schillerstraße im Bereich von der Kanalbrücke bis zum Hansaring - ohne Beschlussfassung geschoben
+- TOP 6.4: Satzungsbeschluss Bebauungsplan Nr. 522: Östlich Auf der Horst / südlich Bohlweg - einstimmig beschlossen
+- TOP 6.5: Errichtungsbeschluss: Erweiterung von gruppenräumen für Schulkindbetreuungsangebote und kinderpädagogische Angebote - einstimmig beschlossen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Radverkehr in beide Fahrtrichtungen auf dem Hohen Heckenweg zwischen Piusallee und Wegeverbindung Thomas-Morus-Weg zulassen - eingebracht
+- TOP 7.2: Verkehrsbehinderungen auf der Wasserstraße - eingebracht
+- TOP 7.3: Autonomes sozio-kulturelles Zentrum - eingebracht
+- TOP 7.4: Baumfällung vor dem Haus Friedrich-Ebert-Straße 27 - zur Kenntnis genommen
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Fußgängerquerung Hammer Straße - Zwischenmitteilung zur Kenntnis genommen
+- TOP 8.2: Friedhof der Ordensfrauen aus der Gesellschaft vom "Heiligsten Herzen Jesu - Dames du Sacré Couer" an der Salzmannstraße wieder herstellen - zur Kenntnis genommen
+- TOP 8.3: Papierkörbe an den Bushaltestellen im Bahnhofsbereich - zur Kenntnis genommen
+- TOP 8.4: "Goldene Brücke" - Sperrungszeiten - zur Kenntnis genommen
+- TOP 8.5: Parksituation und Lieferverkehr in der Rothenburg - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
