@@ -1,0 +1,52 @@
+# Rat (51. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2009-09-02T17:00:00+02:00
+- Ende: 2009-09-02T19:38:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcdffvB-edx_S7cFgvT4U1o
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1661
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfF0BeUhaNp64KSiRnDFUlFF5vgI9qa1RRO1_y-Q2-jD/Bekanntmachung_Rat_02.09.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbK5HLblV7arjJpje4I51T-S-PwEgXV25D2P5qJVfG-d/Oeffentliche_Niederschrift_Rat_02.09.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Neubau einer Erdgasverdichterstation (Frage des Bürgers Klaus Gube)
+- TOP 2.2: Neubau von Gaskavernenspeicher im Amtsvenn (Frage des Bürgers Klaus Gube)
+- TOP 3.: Niederschrift vom 01.07.2009
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Öffentliche Bekanntmachungen auch in der Grenzland Wochenpost; Antrag der GAL-Fraktion vom 23.07.09 - 15 Jastimmen, 21 Neinstimmen, 1 Enthaltungen
+- TOP 5.: Bericht über die Budgetabwicklung der Stadt Gronau im II. Quartal 2009
+- TOP 6.: Prüfung der Eröffnungsbilanz
+- TOP 7.: Errichtung einer viergruppigen Kindertageseinrichtung - 29 Jastimmen, 6 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Richtlinien über die Vergabe von Leistungen und Bauleistungen der Stadt Gronau (Westf.) vom 08.03.2000 i.d.F. vom 18.02.2009 2. Änderung - Einstimmig, 0 Enthaltungen
+- TOP 9.: Sachkunde der Mitglieder des Verwaltungsrates der Sparkassen
+- TOP 10.: Terminplanung für das 4. Quartal 2009
+- TOP 11.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 12.: Neuordnung des Ärzte-Notdienstes - Einstimmig, 0 Enthaltungen
+- TOP 12.1: Mitteilungen der Verwaltung
+- TOP 12.1.1: Besuch aus der Partnerstadt Epe/NL
+- TOP 13.: Anfragen
+- TOP 13.1: Salzgewinnung und Folgenutzungen
+- TOP 13.2: Spielplatz an der August-Hahn-Straße (Anfrage von RM von Borczyskowski)
+- TOP 13.3: Ausbau Urenco Almelo (Anfrage von RM Buchholz)
+- TOP 13.4: Baustellenschilder für Maßnahmen des Konjunkturpaketes II (Anfrage von RM Krause)
+- TOP 13.5: Prüfungsberichte der Gewässeruntersuchung (Anfrage von RM Krause)
+- TOP 13.6: Zufahrt von der Wilhelmstraße in den Esteresch (Anfrage von RM Möllers)
+- TOP 13.7: Kindertageseinrichtung im Industriegebiet Gronau-Ost (Anfrage von RM Buchholz)
+- TOP 13.8: Straßenverschmutzung durch Hundekot (Anfrage von RM Gerwens)
+- TOP 13.9: Solaranlagen auf städt. Gebäuden (Anfrage von RM Bartels)
+- TOP 13.10: Bahnunterführung für Radfahrer und Fußgänger (Anfrage von RM John)
+- TOP 13.11: St. Katharinenweg (Anfrage von RM Arends)
+- TOP 13.12: Abriss der Antoniuskirche in Epe (Anfrage von RM Pieper)
+- TOP 13.13: Euregio-Rat am 11.09.2009 (Anfrage von RM Gabbe)
+- TOP 13.14: Kindergarten "Janosch" (Anfrage von RM Buchholz)
+- TOP 13.15: "Hertie"-Gebäude (Anfrage von RM M. Lenz)
+- TOP 13.16: Stellungnahme der Oberen Bauaufsichtsbehörde zur Außenbereichssatzung "Füchter Straße" (Anfrage von RM Terhaar)
+- TOP 13.17: Benennung des Platzes an der St.-Agatha-Kirche (Anfrage von RM Terhaar)
