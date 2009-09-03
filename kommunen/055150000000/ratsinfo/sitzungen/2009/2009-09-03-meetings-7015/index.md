@@ -1,0 +1,57 @@
+# 49. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-09-03T17:00:00+02:00
+- Ende: 2009-09-03T19:40:00+02:00
+- Ort: Forum für Schule und Kultur der Annette-von-Droste-Hülshoff-Schule Nienberge, Kirmstraße 1, 48161 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/94
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7015
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7015
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00283084.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen - zur Kenntnis genommen
+- TOP 2: Anregungen gemäß § 24 GO NW
+- TOP 2.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3: Berichte
+- TOP 3.1: Neubau Dreifachsporthalle in Roxel, Tilbecker Straße - zur Kenntnis genommen
+- TOP 3.2: Vorhabenbezogene 2. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - von der Tagesordnung abgesetzt
+- TOP 3.3: Ausweisung der Schmeddingstraße ab Soetenkamp sowie der Straße Soetenkamp als Anliegerstraße - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Aufstellen einer Skulptur auf dem Pantaleonplatz - einstimmig beschlossen
+- TOP 4.2: Gewährung von Zuschüssen an Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Münster-West - einstimmig geändert beschlossen
+- TOP 4.3: Fritz-Stricker-Straße - Zufahrt zum GAD-Gelände - mehrheitlich beschlossen
+- TOP 4.4: Roxel Nord II B-Plan Nr. 488 Grünzug mit Ballspielfläche - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Zusatzprogramm "Barrierefreie Bushaltestellen" 2010 - einstimmig beschlossen
+- TOP 5.2: 29. Änderung des Flächennutzungsplanes - von der Tagesordnung abgesetzt
+- TOP 5.3: Roxeler Straße - Querungshilfe in Höhe Schmeddingstraße - einstimmig beschlossen
+- TOP 5.4: Erschließung einer Teilfläche am Ende der Straße Gartenbreie im VBP 441 "Gievenbeck - Ramertsweg / Dieckmannstraße / Roxeler Straße" - einstimmig beschlossen
+- TOP 5.5: Bauliche Maßnahmen für die beantragte Umwandlung des vierten Zuges der Wartburgschule, ev. Grundschule, in einen Ganztagszug - von der Tagesordnung abgesetzt
+- TOP 6: Vorschläge und Anregungen
+- TOP 6.1: Begradigung des Radfahr-/Fußgängerweges an der Weseler Straße/Ecke Untietheide - zur Kenntnis genommen
+- TOP 6.2: Querungshilfe Annette-von-Droste-Hülshoff-Straße/Havixbecker Straße - zur Kenntnis genommen
+- TOP 6.3: Umwandlung - zur Kenntnis genommen
+- TOP 6.4: Appelbreistiege entschärfen - Gievenbecker Kirchplatz sicherer gestalten - zur Kenntnis genommen
+- TOP 6.5: Fläche hinter dem La Vie nutzbar machen - eingebracht
+- TOP 6.6: Glascontainer für den Südteil des Auenviertels in Gievenbeck - zur Kenntnis genommen
+- TOP 6.7: Rad-Fußweg an der BAB-Brücke Am Rohrbusch - zur Kenntnis genommen
+- TOP 6.8: Wasserversorgung Nienberge / Einingweg - zur Kenntnis genommen
+- TOP 6.9: Radwegenetz in Mecklenbeck bis zur Boeselagerstraße erweitern - eingebracht
+- TOP 6.10: Radwegemarkierung Einmündungsbereich Albachtener Straße - Oberort - zur Kenntnis genommen
+- TOP 6.11: Verkehrsknotenpunkt Weseler Straße / Boeselagerstraße / Autobahnauffahrt Süd - eingebracht
+- TOP 6.12: Erhöhung der Verkehrssicherheit für Fahrradfahrer auf der Heroldstraße - zur Kenntnis genommen
+- TOP 6.13: Neugestaltung der Hecke nördlich der Straße Wierling - eingebracht
+- TOP 6.14: Parkplatzsituation im Baugebiet Haus Wiek - eingebracht
+- TOP 6.15: Spielräume - Gesund älter werden in Mecklenbeck - eingebracht
+- TOP 6.16: Einführung Tempolimit von 70 km/h im Zuge der L 529, Hanseller Straße, Teilstück Nienberge-Häger - Hansell - eingebracht
+- TOP 6.17: Ampelphasenschaltung auf der Weseler Straße - eingebracht
+- TOP 6.18: Haltestreifen auf der Westspur des Dingbänger Weges vor dem Edeka-Markt / Mecklenbeck - eingebracht
+- TOP 6.19: Altglascontainer: Standorte und neue lärmgeminderte Container in Albachten - eingebracht
+- TOP 6.20: Parkplatzsituation vor der KiTa Wolkenburg - Nachbesserung - eingebracht
+- TOP 6.21: Erweiterung der Außenspielfläche der Kita Wolkenburg - eingebracht
+- TOP 6.22: Zebrastreifen auf der Osthofstraße in Albachten zur Schulwegsicherung - einstimmig geändert beschlossen
+- TOP 7: Verschiedenes - zur Kenntnis genommen
