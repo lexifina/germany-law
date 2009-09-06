@@ -15,4 +15,4 @@
 § 14 Vermietung von Sportbooten
 § 15 Sonderregelungen, Ausnahmen
 § 16 Ordnungswidrigkeiten
-§ 17 In-Kraft-Treten und Außer-Kraft-Treten
+§ 17 Inkrafttreten und Außerkrafttreten
