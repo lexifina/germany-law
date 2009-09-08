@@ -1,0 +1,132 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2009-09-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1577800
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1577800
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Maßnahmen gegen die Lärmbelästigungen am Walchenseeplatz/Landlstraße; Bürgerschreiben vom 06.07.2009
+- TOP 2.2.: Markierung von Parkplätzen bzw. nicht beparkbaren Bereichen in der Aigner- und Alpenrosenstraße; Bürgerschreiben vom 17.07.2009 - <div>verwiesen in den UA Verkehr</div>
+- TOP 2.3.: Sicherheitsmängel am S-Bahnhof St.-Martin-Straße; Bürgerschreiben vom 16.07.2009 - <div>erledigt mit E-Mail vom 28.08.2009</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Parksituation in der Feldmüllersiedlung; Parkerlaubnis nur für PKW; Antrag der Fraktion von Bündnis 90/Die Grünen im BA 17 vom 10.08.2009 - <div>abgelehnt</div>
+- TOP 3.2.: Keine Streichung bzw. Reduzierung der Dorfkerne aus der Denkmalliste; Antrag des BA 19Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln vom 10.08.2009 mit der Bitte um Unterstützung
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Überprüfung der Fahrradwege auf Befahrbarkeit durch das Baureferat-Gartenbau; Antrag der FDP-Fraktion vom 26.08.09 - <div>nach Antrag</div>
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragsstellerIn: die urbanauten; für die Maßnahme: Projekt "Isarlust - Temporäre Fußgängerbrücke vom 13. - 20.09.09"; Antragssumme: 4.000.- ?; Beschlussvorlage vom 14.07.2009
+- TOP 4.2.: AntragsstellerIn: 103er-Freizeittreff Obergiesing, KJR München-Stadt; für die Maßnahme: Sommerfest am 18.07.09; Antragssumme: 1.340.- ?; Beschlussvorlage vom 15.07.2009
+- TOP 4.3.: AntragstellerIn: ASZ Obergiesing, für die Maßnahme: Veranstaltung vom 19. - 23.10.2009; Antragssumme: 795,--?; Beschlussvorlage des Direktoriums vom 25.08.09
+- TOP 4.4.: AntragstellerIn: cogma, Agentur für Standortmarketing und Kommunikation, für die Maßnahme: "Mord in Giesing" - Interaktiver Stadtteil-Krimi; Antragssumme: 4.201,68 ?; Beschlussvorlage des Direktoriums vom 25.08.09
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Aignerstraße, Haus Nr. 6, Begrünung; Entscheidung gem. Vollmacht des Oberbürgermeisters vom 03.12.200 über die Projektplanung; Beschluss des Bezirksausschusses am 08.09.2009; Beschlussvorlage des Baureferats
+- TOP 0.1.: Vollzug von § 3 der BA-Satzung, Katalog Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme 5.1.3.1.1 Heimgartenstraße, DG-Ausbau (Nutzungsänderung Speicher in Wohnung mit Gauben und Dacheinschnitten); Zuleitung vom 22.07.2009 5.1.3.1.2 Edelweißstraße; Ausbau eines Dachspeichers über zwei Ebenen, Errichtung von drei Wohnungen, Dachterrassen im Hinterhaus bzw. auf dem Treppenhaus, Balkonvergrößerungen, Anbau eines Aufzugs, Nutzungsänderung Wohnung im EG für soziale Zwecke, Anbau eines Wintergartens; Zuleitung vom 22.07.2009
+- TOP 0.2.: Bebauungsplan mit Grünordnung Nr. 2000; Lincolnstraße (südlich), General-Kalb-Weg (westlich), Marklandstraße (beiderseits), Fasangarten u. Kiefernstraße (nördlich), Tegernseer Landstraße (östlich) "Wohnsiedlung Am Perlacher Forst" Stadtbezirk 17 - Obergiesing; erneute Beteiligung der Öffentlichkeit gem. § 4a Abs. 3 Baugesetzbuch (BauGB) u. erneute Beteiligung der Behörden gem. § 4 Abs. 2 BauGB; Begründung für den Bebauungsplan mit Grünordnung Nr. 2000; Zuleitung des Planungsreferates vom 25.08.09 mit der Bitte um Stellungnahme zu den Planunterlagen bis 30.09.2009
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Sanierung der Mietwohnungen der ehemaligen "Neuen Heimat" in Obergiesing; Antrag Nr. 08-14 / B 00123 des BA 17 vom 14.05.2009; Antwortschreiben des Kommunalreferats vom 07.08.2009
+- TOP 0.3.: Tegernseer Landstraße 25; Neubau eines Wohn- und Geschäftsgebäudes mit Rückgebäude und Tiefgarage; Stadtteilspaziergang, Abbruch des Gebäudebestandes; Schreiben des Referats für Stadtplanung und Bauordnung vom 23.07.2009
+- TOP 0.4.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 5.1.4.4.1 Anwesen Edelweißstraße; Unterrichtung vom 28.07.2009 5.1.4.4.2 Anwesen St.-Bonifatius-Straße; Unterrichtung vom 29.07.2009 5.1.4.4.3 Anwesen Holtzendorffstraße; Untterrichtung vom 03.07.2009
+- TOP 0.5.: Erhalt der Kleingartenanlage Süd-Ost 30 in der Untersbergstraße 97 als Daueranlage; Antrag Nr. 08-14 / B 0999 des BA 17 vom 10.03.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 03.07.2009
+- TOP 0.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.7.: Gefahrenträchtige Zustände auf dem Anwesen zwischen Tegernseer Landstraße und Warthofstraße, ehemalige McGraw-Kaserne; Schreiben des Staatlichen Bauamts München 1 vom 13.08.209
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Bericht zu REGSAM; REGSAM neu denken - Vertragszeitraum 2010 bis 2012; Beschlussentwurf für die Sitzung des Sozialausschusses am 15.10.2009; Zuleitung des Sozialreferats vom 07.08.2009 mit der Bitte um Stellungnahme hierzu: Schreiben von Regsam vom 18.08.2009
+- TOP 0.2.: Erweiterung der Europäischen Schule in München; Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. für den Bereich Lincolnstraße (südlich), Bahnlinie München Ost ? Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) - Grundsatz- und Aufstellungsbeschluss - Auslobung eines Realisierungswettbewerbes mit städtebaulichem Ideenteil für die Europäische Schule München Stadtbezirk 17 ? Obergiesing; Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 12.08.2009 mit der Bitte um Stellungnahme
+- TOP 0.3.: Fit & Gut drauf!; Ein Gesundheitsförderprogramm für Jugendliche in Stadtteilen mit besonderem Entwicklungsbedarf Modellvorhaben ?Kooperationen - Pilotprojekte für die Stadtgesellschaft? 2. Förderphase; Beschlussentwurf für die Sitzung des Gesundheitsausschusses am 13.10.2008 (SB); Zuleitung des Referats für Gesundheit und Umwelt vom 20.08.2009 mit der Bitte um Stellungnahme
+- TOP 0.4.: Anton-Fingerle-Bildungszentrum, Schlierseestr. 47, Errichtung Mobile Schulraumeinheiten im 17. Stadtbezirk Obergiesing; 1. Bedarfs- und Konzeptgenehmigung, 2. Projektkosten, 3. Änderung des Entwurfs des Mehrjahresinvestitionsprogramms 2009 bis 2013; Beschlussentwurf für die Sitzung des Schul- und Sportausschusses des Stadtrats vom 23.09.2009 (SB und VB); Zuleitung des Schul- und Kultusreferats vom 07.08.2009 mit der Bitte um Stellungnahme
+- TOP 0.1.: Minispielfeld Sportanlage St.-Martin-Straße 35; Antrag Nr. 08-14 / B 01126 des BA 17 vom 12.05.2009; Erweiterung des Nutzungskonzeptes für das auf dem Gelände der SpVgg 1906 Haidhausen zu errichtende Minispielfeld; Antrag Nr. 08-14 / B 01134 des BA 17 vom 12.05.2009; Sitzungsvorlage Nr. 08-14 / V 02433; Beschluss des Schul- und Sportausschusses des Stadtrats vom 01.07.2009 (SB) hierzu Schreiben des Schul- und Kultusreferats vom 26.06.2009
+- TOP 0.2.: Soziale Stadt im Sanierungsgebiet "Tegernseer Landstraße - Chiemgaustraße", Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel"; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 2553; Beschluss des Bauausschusses vom 07.07.2009 (SB)
+- TOP 0.3.: Städtisches Stadion an der Grünwalder Straße; Akuteller Sachstand?, Bearbeitungsstand der letztjährigen Bürgerversammlungsempfehlung?; Anfrage aus der Bürgerversammlung der 17. Stadtbezirks am 23.06.2009; Antwortschreiben des Schul -und Kultusreferats vom 29.07.2009
+- TOP 0.4.: Kindertageseinrichtung Pöllatstraße 2 - 4, Vollzug des Bayerischen Kinderbildungs- und -betreuungsgesetzes (BayKiBiG); Bescheid über die Anerkennung von Plätzen vom 23.07.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Umwandlung von Pkw-Parkplätzen im 17. Stadtbezirk in Radlparkplätze - Eintrachtrstraße - Tegernseer Landstraße, Höhe Ostfriedhof
+- TOP 0.2.: Kreuzung Cincinnati-/ Lincolnstrasse; morgendlicher Ausweichverkehr über diese Kreuzung weiter über die Agathariederstr. oder den Münchener- Kindl- Weg stadteinwärts
+- TOP 0.1.: Verkehrssituation am Mittleren Ring, Tegernseer Land- und Chiemgau Straße, McGraw-Graben; Mitteilung des Sach-, Planungs- und Verfahrensstandes, Machbarkeitsstudie, aktuelle Verkehrsbelastungszahlen; Zuleitung des Referats für Stadtplanung und Bauordnung vom 29.07.2009
+- TOP 0.2.: Zurückstellung der Straßenbau- / Fahrbahnsanierungsmaßnahme in Kiesmüller- und Waldsassener Straße bis nach der Durchführung einer probeweisen Wendefahrt der Buslinie 145 über den Kreisverkehr an der Fasangarten- / Minnewitstraße nach dessen Fertigstellung (Ziffer 2 des Antrages); Antrag Nr. 08-14 / B 1044 des BA 17 vom 10.03.2009; Antwortschreiben des Baureferats vom 23.06.2009
+- TOP 0.3.: "Halten auf Wunsch" auf dem Linienweg von Bus 220; Anfrage des BA 17 aus der Sitzung am 09.12.2008; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 09.07.2009
+- TOP 0.4.: Kooperatives Verkehrsmanagement für die Region München (KVM), Projekt arrive - Angebote für eine mobile Region; Beteiligung der Landeshauptstadt München; Sitzungsvorlage Nr. 08-14 / V 02575; Bekanntgabe in der Sitzung des Kreisverwaltungsausschusses vom 14.07.2009
+- TOP 0.5.: Maßnahmen zur Verbesserung der Schulwegsicherheit vor dem Asam-Gymnasium, Schlierseestraße 20; Ortermin am Asam-Gymnasium am 23.07.2009; Protokoll; Zuleitung der Polizeiinspektion 23 vom 30.07.2009 und Schreiben des Kreisverwaltungsreferats vom 18.08.2009
+- TOP 0.6.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München; Erhöhung des Radverkehrsanteils am Modal Split; b) Umsetzungskonezpt; c) Anträge; Sitzungsvorlage Nr. 08-14 / B 1793; Beschluss der Vollversammlung des Stadtrats vom 29.07.2009
+- TOP 0.7.: Leistungsprogramm der MVG für die Fahrplanperiode 2010; u.a. Buslinie 145, Verlegung der Wendeschleife aus der Kiesmüller- Waldsassener Straße zum neuen Kreisverkehr an der Fasangarten-/Minnewitstraße; Empfehlung Nr. 08-14 / E 00291 der Bürgerversammlung des 17. Stadtbezirks am 23.06.2009; Sitzungsvorlage Nr. 08-14/ V 02476; Beschluss der Vollversammlung des Stadtrats am 22.07.2009
+- TOP 0.8.: Radverkehr; Abmarkierung eines Radfahrstreifens auf der Fahrbahn in der Martin-Luther-Straße zwischen Einmündung Weinbauernstraße und Wirtstraße; Stellungnahme des BA 17 in der Sitzung am 09.06.2009; Antwortschreiben des Kreisverwaltungsreferats vom 15.07.2009
+- TOP 0.9.: Verzögerte Inbetriebnahme des neuen Giesinger Busbahnhofs; Information der Münchner Verkehrsgesellschaft vom 10.08.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Baumschnitt am St.-Martins-Platz; Bürgerschreiben (E-Mail) vom 13.07.09
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1 Anwesen in der Pennstraße; Bescheinigung vom 29.04.2009 5.4.4.1.2 Anwesen in der Weißenseestraße; Bescheid vom 03.08. und 04.08.2009 5.4.4.1.3 Anwesen in der Weißenseestraße; Bescheid vom 04.08.2009 5.4.4.1.4 Anwesen in der Falkensteinstraße; Bescheid vom 04.08.2009 5.4.4.1.5 Anwesen in der Weißenseestraße; Bescheid vom 13.07.2009 5.4.4.1.6 Anwesen in der Falkensteinstraße; Bescheid vom 13.07.2009 5.4.4.1.7 Anwesen in der Chiemgaustraße; Bescheid vom 13.07.2009 5.4.4.1.8 Anwesen in der Untersbergstraße; Bescheid vom 13.07.2009 5.4.4.1.9 Anwesen in der Tegernseer Landstraße; Bescheid vom 01.07.2009
+- TOP 0.2.: Weitere Steigerung der Energieeffizienz und der erneuerbaren Energienutzung in städtischen Gebäuden - Sofortprogramm Hochbau; Sitzungsvorlage Nr. 08-14 / V 02504; Beschluss des Bauauschusses vom 07.07.2009 ( VB)
+- TOP 0.3.: Baumfällung in der Perlacher Straße; Schreiben des Baureferats vom 15.07.2009
+- TOP 0.4.: Maßnahmen gegen Lärmbeeinträchtigungen durch die Bahnlinie/Brücke am Kolumbusplatz; Anfrage aus der Bürgersversammlung des 17. Stadtbezirks am 23.06.2009; Antwortschreiben des Referats für Gesundheit und Umwelt vom 11.08.2009
+- TOP 0.5.: Vollzug des Bundesimmissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImschV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personennahverkehrs, Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn; Zuleitungen des Referats für Gesundheit und Umwelt 5.4.4.5.1 Firma Goldschmidt-Thermit Railservice GmbH; Zuleitung vom 21.07.2009 5.4.4.5.2 Firma Richard Schulz Tiefbau GmbH & Co. KG; Zuleitung vom 26.06.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Änderung der Satzung über die Gebühren für Sondernutzungen auf öffentlichen Straßen in der Landeshauptstadt München (Sondernutzungsgebührensatzung); Sitzungsvorlage Nr. 08-14 / V 02568; Beschluss des Kreisverwaltungsausschusses vom 14.07.2009 (VB)
+- TOP 7.7: Berichte der Beauftragten
+- TOP 7.7.7.1: Ausländer/Innen
+- TOP 7.7.7.2: Behinderte
+- TOP 7.7.7.3: Genderfragen
+- TOP 7.7.7.4: Kinder
+- TOP 7.7.7.5: Jugend
+- TOP 7.7.7.6: Senioren/Innen
+- TOP 7.7: Baumschutz
+- TOP 7.7.1: Einzelfälle
+- TOP 7.7.1.4.: Anwesen in der Edelweißstraße; Anhörung vom 28.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.5.: Anwesen in der Falkensteinstraße; Anhörung vom 14.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.6.: Anwesen in der Frasdorfer Straße; Anhörung vom 28.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.7.: Anwesen in der Frasdorfer Straße; Anhörung vom 21.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.8.: Anwesen Neuschwansteinplatz; Anhörung vom 21.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.11.: Anwesen in der Schwanseestraße; Anhörung vom 21.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.17.: Anwesen in der Seemüllerstraße; Anhörung vom 12.08.2009
+- TOP 7.7.1.18.: Anwesen in der Balanstraße; Anhörung vom 12.08.09
+- TOP 7.7.1.19.: Anwesen in der Alzstraße; Anhörung vom 19.08.09
+- TOP 7.7.1.20.: Anwesen in der Cincinnatistraße / Leifstraße / Wikingerstraße; Anhörung vom 27.07.09 und 13.08.09 (vorab entschieden gem. § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.21.: Anwesen in der Pennstraße; Anhörung vom 28.07.09 (vorab entschieden gem. § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.22.: Anwesen in der Winlandstraße; Anhörung vom 28.07.09 (vorab entschieden gem. § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.2: Baumbestandspläne
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Treffen des Schul- und Kultusreferats mit den Bezirksausschüssen am 21.04.2010; Mitteilung des Schul- und Kultusreferats vom 06.08.2009
+- TOP 8.2.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018; Informationsveranstaltung für die Bezirksausschüsse am 29.09.2009; Zuleitung des Oberbürgermeisters vom 12.08.2009
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
+- TOP 7.7.1.3.: Anwesen in der Chiemgaustraße; Anhörung vom 14.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.10.: Anwesen in der Pöllatstraße; Anhörung vom 14.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
+- TOP 7.7.1.16.: Anwesen in der Weißenseestraße; Anhörung vom 14.07.2009 (vorab entschieden gemäß § 20 Abs. 1 Satz 2 BA-Satzung)
