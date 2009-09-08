@@ -1,0 +1,61 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-09-08T15:00:00+02:00
+- Ende: 2009-09-08T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2616
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2616
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126141.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126141.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126141.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift
+- TOP 3: Anfragen und Anträge
+- TOP 4: Anfrage Linksfraktion zur Personalausstattung in Kitas - zur Kenntnis genommen
+- TOP 5: Anfrage CDU und FDP - Verpflegungsgutscheine - zur Kenntnis genommen
+- TOP 6: Anfrage FDP/CDU zu Graffitiflächen - vertagt
+- TOP 7: Tageseinrichtungen für Kinder
+- TOP 8: Aktualisierung JHP - SEP - einstimmig beschlossen
+- TOP 9: Bericht zum Soll-Ist-Vergleich 1. KiBiz-Jahr - zur Kenntnis genommen
+- TOP 10: Bau, Einrichtung, Instandsetzung Kita - einstimmig beschlossen
+- TOP 11: Darstellung Bewegung, Ernährung, Sprachförderung in Kitas - zur Kenntnis genommen
+- TOP 12: Betriebsübergang Kita St. Hildegard und St. Mariä Himmelfahrt (Liebfrauen) - zur Kenntnis genommen
+- TOP 13: Familienförderung
+- TOP 14: Statusbericht Besuchsdienst
+- TOP 15: Jugendförderung
+- TOP 16: JFE Leichlinger Straße - Arche e.v. - einstimmig beschlossen
+- TOP 17: Rucksackprojekt im Haus des Kindes - zur Kenntnis genommen
+- TOP 18: Angebote zum sozialen Engagement - zur Kenntnis genommen
+- TOP 19: Projekt "Notinseln" und "Gute Fee" - zur Kenntnis genommen
+- TOP 20: NRW Landesprogramm "Kultur und Schule" Schuljahr 2009/10 - einstimmig beschlossen
+- TOP 21: Zentrale Dienste
+- TOP 22: Personaleinsatz in der OGS - zur Kenntnis genommen
+- TOP 23: Personal-(Ist)-Situation in Kitas - zur Kenntnis genommen
+- TOP 24: Rahmen- und Einzelvertrag - hier: Flexibilisierungsklausel - einstimmig beschlossen
+- TOP 25: Soziale Dienste
+- TOP 26: üpl.-Mittelbereitstellung HzE - einstimmig beschlossen
+- TOP 27: Bundesmodellprojekt Aus Fehlern lernen - zur Kenntnis genommen
+- TOP 28: Info zwei Gesetze - zur Kenntnis genommen
+- TOP 29: Anerkennungen als Träger der freien Jugendhilfe
+- TOP 30: Anerkennung KGS Fleher Straße - einstimmig beschlossen
+- TOP 31: Anerkennung Förderverein Gutenbergschule - einstimmig beschlossen
+- TOP 32: Anerkennung als Träger der freien Jugendhilfe - einstimmig beschlossen
+- TOP 33: Anerkennung Fr.v.Bodelschwingh-Schule - einstimmig beschlossen
+- TOP 34: Anerkennung Joachim-Neander-Schule - einstimmig beschlossen
+- TOP 35: Anerkennung Paulus Freizeitschule e.V. - einstimmig beschlossen
+- TOP 36: Anerkennung Verein d. Montessori Grundschule - einstimmig beschlossen
+- TOP 37: Anerkennung Kleine gelbe Schule - einstimmig beschlossen
+- TOP 38: Anerkennung Carl-Sonnenschein-Grundschule - einstimmig beschlossen
+- TOP 39: Anerkennung Marienschule am Rheindorfer Weg - einstimmig beschlossen
+- TOP 40: Anerkennung Freundes- und Förderkreis GS Wittlaer - einstimmig beschlossen
+- TOP 41: Anerkennung Don-Bosco-Schule - einstimmig beschlossen
+- TOP 42: Anerkennung als Träger der freien Jugendhilfe
+- TOP 43: Anerkennung Gerresheimer Gymnasium - einstimmig beschlossen
+- TOP 44: Verlängerung der Anerkennung Lernen und Leben e.V. - einstimmig beschlossen
