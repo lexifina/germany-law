@@ -1,0 +1,12 @@
+# Ordnungsamt ist auf der Hut. Kehren neue Besen gut? (I) hier: Black Sheriffs vs. Blue Drinker
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Drucksache/Vorlage: 1350/III
+- Art: Große Anfrage
+- Datum: 2009-09-08
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=3743
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/papers.asp?id=3743
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=130&id=101759
+- Beratung: Entscheidung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1994 https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=at&id=24
