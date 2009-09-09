@@ -1,0 +1,8 @@
+# TOP 6: Beseitigung von seit Jahren bekannten Straßenschäden in der Coloniaallee/Altglienicke
+
+- Sitzung: 58. (öfftl.) Sitzung des Ausschusses für Stadtplanung und Verkehr (2009-09-09)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=22349
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=22349
