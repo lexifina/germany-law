@@ -1,0 +1,7 @@
+# TOP 2: Beratung des Haushaltes 2010/2011 mit Bürgerbeteiligung
+
+- Sitzung: 28. öffentliche Sitzung des Ausschusses für Bürgerdienste und Gesundheit (2009-09-10)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=7437
+- Ergebnis: im Ausschuss abgelehnt
