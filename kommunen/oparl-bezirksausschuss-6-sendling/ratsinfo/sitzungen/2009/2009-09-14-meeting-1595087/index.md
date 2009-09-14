@@ -1,0 +1,60 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-09-14T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1595087
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1595087
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Bericht zu REGSAM; REGSAM neu denken
+- TOP 3.2.: Nachbarschaftsfest Karwendelstraße
+- TOP 3.3.: Informationsveranstaltung zur Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 3.4.: Daheim in München
+- TOP 3.5.: Situationsbericht Suchtverhalten
+- TOP 3.6.: Statistik Kinderbetreuungsplätze in München
+- TOP 4: Schulreferat
+- TOP 4.1.: Informationsveranstaltung des Schulreferates am 20.10.2010
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Festlegung der Ladezonen und Standorte der Beschilderung innerhalb der zukünftigen Parklizenzgebiete
+- TOP 6.2.: Standortgenehmigung für Parkscheinautomaten; Kraelerstr. 6 und Plinganserstr. 28
+- TOP 6.3.: Schäftlarnstr. 81 - 105; Genehmigung von drei Umfahrsperren
+- TOP 6.4.: Fernwärmebauvorhaben Schäftlarnstr.
+- TOP 6.5.: Parkplatz Am Isarkanal; Einrichtung eines LKW-Parkverbotes - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 6.6.: Pfeuferstraße; Verlängerung des Haltverbots an der Bushaltestelle Herzog-Ernst-Platz
+- TOP 7.1.: Budgetantrag Bewohnertreff Theresienhöhe, Fotoprojekt "zusammenGewachsen"; ? 300,-
+- TOP 7.2.: Budgetantrag FaschingsFreunde Sendling e. V., Beschaffung von 300 Orden; ? 893,25
+- TOP 7.3.: Budgetantrag die urbanauten; temporäre Öffnung der Braunauer Eisenbahnbrücke
+- TOP 7.4.: Oktoberfest 2009; Termin des BA 6 am 23.09.2009
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Berlepschstr. 12
+- TOP 8.3.: Bauvorhaben Lindwurmstr. 167
+- TOP 8.4.: Bauvorhaben Thalkirchner Str. 126
+- TOP 8.5.: Bauvorhaben Thalkirchner Str. 131
+- TOP 8.6.: Bauvorhaben Sozialbürgerhaus Meindlstr.
+- TOP 8.7.: Naturkindergarten Flaucherfüchse; Errichtung von zwei Bauwägen an der Grünanlage Am Isarkanal
+- TOP 9: Baureferat
+- TOP 9.1.: Fuß- und Radwegbrücken in München
+- TOP 9.2.: Bruderhofstraße; Parkraummanagement und Straßensanierung
+- TOP 9.3.: Margaretenplatz; Grünanlage östlich und nördlich der Margaretenkirche
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Kyreinstraße 8
+- TOP 10.2.: Baumfällung Valleystr. 44
+- TOP 10.3.: Baumfällung SBH-Meindlstraße
+- TOP 10.4.: Fällungsgenehmigung Lipowskystr. 23
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Novellierung der Bade- und Bootverordnung
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
