@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586121
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586121
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Parkplatz - Krokusstraße
+- TOP 1.2.: Max-Lebsche-Platz 34-41; Probleme mit Leerung der Mülltonnen
+- TOP 1.3.: Haseneystraße
+- TOP 1.4.: Probleme in der Großhaderner Straße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag der Seniorenvertretung Hadern auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 250,- ? (Direktorium, 25.08.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Beschlussentwurf für den Sozialausschuss: REGSAM neu denken, Vertragszeitraum 2010 - 2012 (Sozialreferat, 07.08.09)
+- TOP 6.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014; Anhörungsverfahren (Stadtkämmerei, 01.09.09)
+- TOP 6.3.: Bauvorhaben Ginsterweg 12: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid (Referat für Stadtplanung und Bauordnung, 03.09.09)
+- TOP 6.4.: Gemeinde Gräfelfing, Bebauungsplan Nr. 26 B - Erweiterung des Gewerbegebietes an der BAB A 96 / St. 2063 neu (Referat für Stadtplanung und Bauordnung, 03.09.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Str. 163, 1 Birke
+- TOP 7.2.: Ettenhoferstr. 4, 1 Tanne
+- TOP 7.3.: Wilhelm-Weitling-Str. 34, 2 Fichten
+- TOP 7.4.: Randeckstr. 7, 1 Zeder
+- TOP 7.5.: Würmtalstr. 61, 2 Schwarzkiefern
+- TOP 7.6.: Terofalstr. 101, 1 Spitzahorn
+- TOP 7.7.: Saalburgstr. 11, 1 Schwarzkiefer
+- TOP 7.8.: Eichenstr. 42, 1 Linde
+- TOP 7.9.: Georginenstr. 13, 1 Blaufichte und 1 Thuja
+- TOP 7.10.: Am Heidebruch 15 c, 1 Kiefer und 1 Kastanie
+- TOP 7.11.: Waldeslust 10, 2 Fichten und 1 Schwarzkiefer
+- TOP 7.12.: Kruckenburgstr. 36, 1 Birke
+- TOP 7.13.: Hohenklingenstr. 26, gem. Baumbestandsplan und Freiflächengestaltungsplan Nr. 15479
+- TOP 7.14.: Waldwiesenstr. 26, 1 Platane
+- TOP 7.15.: Kruckenburgstr. 16, 1 Schwarzkiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, hier: Sauerbruchstr. (SWM, 17.08.09) und Flyer der SWM zum Wasserprojekt Sauerbruchstr. (SWM, 21.08.09)
+- TOP 8.2.: Expertise Einkaufszentrum Münchner Südwesten (Referat für Stadtplanung und Bauordnung, 05.08.09)
+- TOP 8.3.: Vollzug des Bundes-Immissionschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmverordnung (32. BImSchV): Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, - Straßenbauarbeiten in der Fürstenrieder Straße (Referat für Gesundheit und Umwelt, 06.08.09) - Betrieb von Müllsammelfahrzeugen (Referat für Gesundheit und Umwelt, 13.08.09)
+- TOP 8.4.: Zweckentfremdung von Wohnraum: - Sonnenblumenstr. (Sozialreferat, 29.07.09) - Am Heidebruch (Sozialreferat, 30.07.09) - Großhaderner Str. (Sozialreferat, 21.08.09) - Cochemstr. (Sozialreferat, 25.08.09) - Lichtensteinstr. (Sozialreferat, 27.08.09)
+- TOP 8.5.: Antrag BA 10 und dazu Beschluss des Sozialausschusses vom 04.12.2008 zur Sitzungsvorlage-Nr. 08-14 / V 01164: "Daheim in München" Aktion der Stelle für interkulturelle Arbeit im Rahmen der Umsetzung des Integrationskonzeptes, Einführung von regelmäßigen Einbürgerungsfeiern (Sozialreferat, 27.07.09)
+- TOP 8.6.: Raumsituation Städtische Kindertageseinrichtung Kindergarten Senftenauerstr. 25 / Saherrstr. 60 (Schul- und Kultusreferat, 13.08.09)
+- TOP 8.7.: Vollzug der Grünanlagensatzung vom 12.08.1991, hier: Stromüberspannung in der Grünanlage an der Hartlstr. (Kreisverwaltungsreferat, 21.08.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Zu kurze Grünphasen für Fußgänger an Überwegen (Kreisverwaltungsreferat, 17.08.09)
+- TOP 9.2.: Wahlplakat der Bayernpartei (Kreisverwaltungsreferat, 31.08.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Pfosten am Einkaufszentrum Haderner Stern (Bayerische Versorgungskammer, 06.08.09)
+- TOP 10.2.: Feuerwehrzufahrt am "Haderner Stern" gegenüber der Stadtbibliothek (Bayerische Versorgungskammer, 26.08.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: 18.jetzt - Organisation der BAs (Schr. BA 12, 16.08.09)
+- TOP 11.2.: Mitteilung der Termine 2010 "Das Schulreferat trifft die Bezirksausschüsse"; Termin BA 20: 24.11.2010 (Schul- und Kultusreferat, 06.08.09)
+- TOP 11.3.: Antrag BA 19: Keine Reduzierung bzw. Streichung der Dorfkerne durch das Bayerische Landesamt für Denkmalpflege, bis Mitsprache und Mitentscheidung der Unteren Denkmalschutzbehörde und der BAs durch Gesetzesänderung sichergestellt sind (Schr. BA 19, 10.08.09)
+- TOP 11.4.: Oktoberfest 2009, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Termin BA 20: Donnerstag, 01.10.09 (Direktorium, 17.08.09)
+- TOP 11.5.: Informationsveranstaltung für die Bezirksausschüsse am Dienstag, 29.09.09 von 18.00 - 21.00 Uhr: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018 (OB Ude, 12.08.09)
+- TOP 11.6.: Einladung zur Premiere der mobilen Theaterproduktion 2009 (Kultur auf Rädern, 25.08.09)
+- TOP 11.7.: Sitzungstermine 2010 des BA 20
+- TOP 11.8.: Protokoll des 4. Treffens der Frauen-und Genderbeauftragten der Bezirksausschüsse am 22.07.09, nächster Termin: Donnerstag, 08.10.09 von 18.00 - 20.00 Uhr im Rathaus, Raum 109 (Gleichstellungsstelle für Frauen, 18.08.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 22.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02459: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010 (Kosten 160.000,- ? bis 180.000,- ?)
+- TOP 12.2.: Beschluss vom 22.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 00506: PERSPEKTIVE MÜNCHEN Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung, insbesondere in Hadern: Die Lebensmittelkaufkraft wurde in Hadern in 2003 zu 90% und in 2006 zu 100% gebunden (S. 69). Die Kosten eines Werkauftrages in 2010 werden 40.000,- ? bis 60.000,- ? betragen.
+- TOP 12.3.: Beschluss vom 29.07.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02454: PERSPEKTIVE MÜNCHEN Fortschreibungskonzept
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
