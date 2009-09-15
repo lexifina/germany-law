@@ -1,0 +1,101 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572795
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572795
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Neugestaltung Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Riegerhofweg; Zulassen des Parkens auf der gegenüberliegenden Straßenseite
+- TOP 1.2.2.: Spielstraße Bauhandwerkersiedlung
+- TOP 1.2.3.: Lärmbeschwerde gegen die Gaststätte in der Aindorferstr. 137
+- TOP 1.2.4.: Baustelle Valpichler- / Riegerhofstraße
+- TOP 1.2.5.: Neues Spiel-Casino Fürstenrieder Str. 39
+- TOP 1.2.6.: Veranstaltungen am Laimer Anger
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Fahrbahn der Ludwig-Richter-Straße
+- TOP 2.2.: CSU-Fraktion: Verkehrskontrolle mit Polizei und Kindern zur Sensibilisierung der Autofahrer im Stadtviertel
+- TOP 2.3.: Bündnis 90 / Die Grünen: weitere Nutzung "Hertie-Gebäude"
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Sozialreferat vom 07.08.09: Bericht zu REGSAM - REGSAM neu denken - Vertragszeitraum 2010-2012; Beschlussentwurf für den Sozialausschuss vom 15.10.09 &gt; dazu auch Schreiben REGSAM vom 18.08.09
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Mergentheimer Str. 4: Nutzungsänderung eines Lagergebäudes in ein Wohngebäude (2 WE), Anbringung eines Wärmedämm-Verbundsystems an den Außenwänden, Erneuerung des Daches mit Einbau zweier Gauben und einer Aufdachdämmung; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben KVR vom 16.07.09: Zustand Laimer Unterführung; Umsetzung kurzfristiger Maßnahmen zu Verbesserung der Situation (Antrag Nr. 08-14 / B 01128 vom 05.05.09); Einladung zum Ortstermin am 21.09.09
+- TOP 6.2.: Schreiben Direktorium vom 17.08.09: Oktoberfest 2009; Reservierung in der Ratsboxe, Termin für den BA 25: Montag, 21.09.09
+- TOP 6.3.: Schreiben OB Ude vom 12.08.09: Informationsveranstaltung für die Bezirksausschüsse; Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 07.07.09
+- TOP 7.2.: BA-Sitzung vom 28.07.09
+- TOP 7.3.: Sitzung UA Bau vom 19.08.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Schul- und Kultusreferat vom 20.07.09: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der KIndertageseinrichtung Camerloherstr. 54
+- TOP 8.2.: Schreiben Schulreferat vom 06.08.09: Mitteilung der Termine 2010; "Das Schulreferat trifft die BAs"
+- TOP 8.3.: Schreiben Planungsreferat vom 14.07.09: Flotowstr. 25; Neubau zweier Reihenhäuser mit 3 Wohnungen und Garagen
+- TOP 8.4.: Schreiben Planungsreferat vom 20.07.09: Personenbeförderungsgesetz (PBefG); Planfeststellungsverfahren für das Wendedreieck Westendstraße
+- TOP 8.5.: Schreiben Planungsreferat vom 24.07.09: Erlass einer Erhaltungssatzung oder Gestaltungssatzung für das Gebiet Senftenauerstraße, Byecherstraße, Aindorferstraße und Rushaimerstraße
+- TOP 8.6.: Schreiben Planungsreferat vom 29.07.09: Joergstr. 6; Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.7.: Schreiben Planungsreferat vom 28.07.09: Landsberger Str. 290; Neubau eines Büro- und Geschäftshauses mit Tiefgarage
+- TOP 8.8.: Schreiben Planungsreferat vom 07.08.09: Friedenheimer Str. 100; Erweiterung, Umbau und Aufstockung eines Einfamilienhauses / Vorbescheid
+- TOP 8.9.: Schreiben Kulturreferat vom 27.07.09: "Daheim in München" - Antrag Nr. 08-14 / B 00795 des BA 10 Moosach vom 19.01.09
+- TOP 8.10.: Schreiben Stadtwerke München GmbH vom 22.07.09: Trambaumaßnahmen in den Sommerferien
+- TOP 8.11.: Schreiben Stadtwerke München GmbH vom 10.08.09: Baumaßnahmen der SWM; Stromprojekt Ludwig-Richter-Straße
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 25.08.09: Baumaßnahmen der SWM; Fernwärmeprojekt Aindorferstraße
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 25.08.09: Baumaßnahmen der SWM; Fernwärmeprojekt Reindlstraße
+- TOP 8.14.: Schreiben KVR vom 24.07.09: Installation einer Lichtzeichenanlage an der Kreuzung Willibaldstraße / Landsberger Straße (Antrag Nr. 08-14 / B 00938 vom 09.03.09); Ampel an der Kreuzung Landsberger Straße / Willibaldstraße (Anfrage Nr. 08-14 7 Q 00048 der Bürgerversammlung vom 25.11.08)
+- TOP 8.15.: Schreiben KVR vom 28.07.09: Verkehrskontrolle mit Polizei und Kindern zur Sensibilisierung der Autofahrer im Bezirksgebiet (Antrag Nr. 08-14 / B 00461 vom 07.10.08)
+- TOP 8.16.: Schreiben KVR vom 28.07.09: Arbeiten im Straßenraum; Agnes-Bernauer-Str. 97 bis Fürstenrieder Straße; Straßenbauarbeiten im Fahrbahn- und Gehwegbereich
+- TOP 8.17.: Schreiben KVR vom 12.08.09: Gaststätte "Hakeyo House", Fürstenrieder Str. 22; unveränderte Fortführung
+- TOP 8.18.: Schreiben KVR vom 12.08.09: Gaststätte "Asado-Steak", Landsberger Str. 290 a; Neuerrichtung
+- TOP 8.19.: Schreiben KVR vom 17.08.09: Gaststätte "Gotthardgarten", Gotthardstr. 1; unveränderte Fortführung
+- TOP 8.20.: Schreiben Direktorium vom 28.07.09: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Die Bärchen e.V., Eltern-Kind-Initiative
+- TOP 8.21.: Schreiben Direktorium vom 28.07.09: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Kindertagesstätte Namen Jesu
+- TOP 8.22.: Schreiben Direktorium vom 28.07.09: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Kath. Pfarrei Zu den Heiligen Zwölf Aposteln
+- TOP 8.23.: Schreiben Direktorium vom 13.08.09: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Familienzentrum Laim e.V.
+- TOP 8.24.: Schreiben Direktorium vom 13.08.09: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Jazzclub München e.V.
+- TOP 8.25.: Schreiben Baureferat vom 30.07.09: Zustand Laimer Unterführung; Umsetzung langfristiger Maßnahmen zur Verbesserung der Situation (Antrag Nr. 08-14 / B 01129 vom 05.05.09)
+- TOP 8.26.: Schreiben Baureferat vom 19.08.09: Baumfällungen in der Zschokkestraße vor Hausnr. 57 (Schreiben BA vom 12.08.09)
+- TOP 8.27.: Schreiben Münchner Stadtentwässerung vom 07.08.09: Welche Planungen bestehen bzgl. der städtischen Grundstücke Mathunistr. 40 und 42? (Antrag Nr. 08-14 / B 01216 vom 26.05.09)
+- TOP 8.28.: Schreiben Kommunalreferat vom 04.08.09: Straßennamenserläuterungsschilder im 25. Stadtbezirk Laim (Antrag Nr. 08-14 / B 00644 vom 04.11.08)
+- TOP 8.29.: Schreiben Kommunalreferat vom 11.08.09: Städtische Grundstücke / Liegenschaften in Laim (Schreiben BA vom 23.07.09)
+- TOP 8.30.: Schreiben Referat für Gesundheit und Umwelt vom 04.08.09: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV), Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn
+- TOP 8.31.: Schreiben Referat für Gesundheit und Umwelt vom 12.08.09: Situationsbericht Suchtverhalten
+- TOP 8.32.: Schreiben Referat für Gesundheit und Umwelt vom 13.08.09: Vollzug des Bundes-Immissionschutzgesetzes (BImSchG) und der Geräte - und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Betrieb von Müllsammelfahrzeugen
+- TOP 8.33.: Schreiben Sozialreferat vom 06.08.09: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Joergstraße
+- TOP 8.34.: Bautenliste vom 13.07.-19.07.09: 1. Erstantragsverfahren a) Ossietzkystr. 3 b) Brosamerstr. 15 c) Elsenheimerstr. 57 2. Änderungsverfahren a) Elsenheimerstr. 57 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 16 b) Maxstadtstr. 28
+- TOP 8.35.: Bautenliste vom 20.07.-26.07.09 1. Erstantragsverfahren a) Hönlestr. 32 b) Hönlestr. 34 c) Senftenauerstr. 122
+- TOP 8.36.: Bautenliste vom 27.07.-02.08.09: 1. Erstantragsverfahren a) Camerloherstr. 110 b) Agricolastr. 99 c) Agricolastr. 99 d) Hartelstr. 6 e) Joergstr. 74 2. Änderungsverfahren a) Valpichlerstr. 134
+- TOP 8.37.: Bautenliste vom 03.08.-09.08.09 1. Erstantragsverfahren a) Sulzbeckstr. 13
+- TOP 8.38.: Bautenliste vom 10.08.-16.08.09: 1. Erstantragsverfahren a) Mergentheimer Str. 4 b) Fachnerstr. 1 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 16
+- TOP 8.39.: Schreiben Planungsreferat vom 20.07.09: Liste der beantragten Baumfällungen vom 13.07.-19.07.09
+- TOP 8.40.: Schreiben Planungsreferates vom 27.07.09: Liste der beantragten Baumfällungen vom 20.07.-26.07.09
+- TOP 8.41.: Schreiben Planungsreferat vom 03.08.09: Liste der beantragten Baumfällungen vom 27.07.-02.08.09
+- TOP 8.42.: Schreiben Planungsreferat vom 10.08.09: Liste der beantragten Baumfällungen vom 03.08.-09.08.09
+- TOP 8.43.: Schreiben Planungsreferat vom 24.08.09: Liste der beantragten Baumfällungen vom 17.08.-23.08.09
+- TOP 8.44.: Schreiben Stadtwerke München GmbH vom 20.07.09: Baumaßnahmen der Stadtwerke; Stichtag: 20.07.09
+- TOP 8.45.: Schreiben Stadtwerke München GmbH vom 27.07.09: Baumaßnahmen der Stadtwerke; Stichtag: 27.07.09
+- TOP 8.46.: Schreiben Stadtwerke München GmbH vom 03.08.09: Baumaßnahmen der Stadtwerke; Stichtag: 03.08.09
+- TOP 8.47.: Schreiben Stadtwerke München GmbH vom 10.08.09: Baumaßnahmen der Stadtwerke; Stand: 10.08.09
+- TOP 8.48.: Schreiben Stadtwerke München GmbH vom 17.08.09: Baumaßnahmen der Stadtwerke; Stichtag: 17.08.09
+- TOP 8.49.: Schreiben Stadtwerke München GmbH vom 24.08.09: Baumaßnahmen der Stadtwerke; Stichtag: 24.08.09
+- TOP 8.50.: Beschluss der Vollversammlung vom 22.07.09: Münchner Bürgerinnen- und Bürgerbefragung 2009 / 2010 (Sitzungsvorlagen Nr. 08-14 / V 02459)
+- TOP 8.51.: Beschluss der Vollversammlung vom 22.07.09: Perspektive München; Fortschreibung des Zentrenkonzeptes - Schwerpunkt Nahversorgung, u.a. Antrag Nr. 08-14 / B 00734 des BA 25 vom 02.12.08 (Sitzungsvorlagen Nr. 08-14 / V 00506)
+- TOP 8.52.: Beschluss der Vollversammlung vom 29.07.09: Perspektive München - Fortschreibungskonzept (Sitzungsvorlagen Nr. 08-14 / V 02454)
+- TOP 8.53.: Beschluss der Vollversammlung vom 29.07.09: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München (Sitzungsvorlagen Nr. 08-14 / V 01793)
+- TOP 8.54.: Schreiben Mittagsbetreuung an der Droste-Hülshoff-Schule vom 27.07.09: Bericht über die Mittagsbetreuung
+- TOP 8.55.: Schreiben Kath. Stadtpfarramt Namen Jesu vom 11.08.09: Bewilligung eines Zuschusses für die Anschaffung einer neuen Hortküche im Bereich der Kindertagesstätte
+- TOP 8.56.: Schreiben BA 12 Schwabing-Freimann / Kinder-und Jugendbeauftragter vom 16.08.09: 18.jetzt - Organisation der BAs
+- TOP 8.57.: Antrag BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 04.08.09: Denkmalliste
+- TOP 8.58.: Münchner Statistik; 1. Quartalsheft, Jahrgang 2009
+- TOP 8.59.: Schriftverkehr aus der BA-Sitzung vom 07.07.09
+- TOP 8.60.: Schriftverkehr aus der BA-Sitzung vom 28.07.09
+- TOP 8.61.: Camerloherstr. 110: Errichtung eines zustäzlichen Dreifachcontainers für die Mittagsbetreuung
+- TOP 1.2: Bürgerpost an den BA
