@@ -1,0 +1,8 @@
+# TOP 1: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter der drei bergischen Städte Remscheid, Solingen und Wuppertal
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung sowie zu TOP 1 gemeinsam mit dem Ausschuss für Ordnung, Sicherheit und Sauberkeit (2009-09-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/42827
+- Ergebnis: geändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/20473
