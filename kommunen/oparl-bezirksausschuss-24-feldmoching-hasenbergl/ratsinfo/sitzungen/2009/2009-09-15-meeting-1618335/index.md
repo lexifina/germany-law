@@ -1,0 +1,85 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618335
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618335
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Installation eines AK KulturGeschichtsPfad
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Kath. Kirchenstiftung St. Johannes Evangelist; Sommerfest am 19.06.2009
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: AG Bushäuschen für Schulkinder in Ludwigsfeld; Transport und Aufbau eines gebrauchten Bushäuschens
+- TOP 3: (E) Schaffung von Fahrradabstellplätzen an der Ecke Frankfurter Ring / Lerchenauer Straße Empfehlung Nr. 08-14 / E 00241 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching - Hasenbergl am 26.03.2009
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Auslichtung einer Baumgruppe vor einer Wohnanlage (Bewohner des Miethauses Blodigstr. 14a)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Straßenbaumaßnahme Schleißheimer Straße (Westseite) (vertagt in der Sitzung am 28.07.2009)
+- TOP 5.2.: Bebauungsplan für die Eggartensiedlung Empfehlung Nr. 08-14 / E 00251 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 26.03.2009
+- TOP 5.3.: Errichtung einer hinterleuchteten Werbewechselanlage "Mega Light" auf Monofuß, 1-seitig, Dachauer Str. 542
+- TOP 5.4.: Anhörung im Einzelfall auf Anforderung: Bauvorhaben in der Hummelblumenstraße
+- TOP 5.5.: Vollzug der Baumschutzverordnung, Bauvorhaben: Karlsfelder Straße
+- TOP 5.6.: Stadtjugendamt / Förderung freier Träger Haushaltsjahr: 2010 Projekt: Interessensgemeinschaft Ludwigsfeld / Stadtbezirk: 24 seitens des Sozialreferates gefördert seit 1996
+- TOP 5.7.: 5.7 a) Bericht zu REGSAM REGSAM neu denken - Vertragszeitraum 2010-2012 5.7b) Schreiben von REGSAM zur Anhörung der Bezirksausschüsse
+- TOP 5.8.: Veranstaltung auf städtischer Grünanlage: ABIX Herbstfest auf dem Abenteuerspielplatz Weitlstr. 125 am 10.10.2009
+- TOP 5.9.: Vollzug der Wassergesetze; Novellierung der Bade- und BootVO 2. Verordnungsentwurf vom 21.08.2009
+- TOP 5.10.: Gemeinde Karlsfeld; Bebauungsplan Nr. 101 für das Gebiet ?westlich der Münchner Straße / nördlich Weiherweg - Rothschwaige
+- TOP 5.11.: Vollzug der Baumschutzverordnung; Hans-Böckler-Straße
+- TOP 5.12.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Leuchsstraße b) Feldmochinger Str. 212 a
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Aufnahme in den VEP-Radverkehr einer: a) Fußgänger- und Fahrradbrücke über den Würmkanal im Raum Schwabenbächl/ Berthold-Litzmann-Straße b) Fußgänger- und Fahrradverbindung zwischen der "Allacher Lohe" und der beantragten Fußgänger- und Fahrradbrücke über den Würmkanal (BA-Antags-Nr. 08-14 / B 00645 vom 11.11.2008)
+- TOP 6.2.: Gesamtes Verkehrskonzept vor der Neugestaltung der S-Bahnkreuzung in der Fasanerie (BA-Antrags-Nr. 08-14 / B 1027 vom 31.03.2009)
+- TOP 6.3.: Saubere Bahnhöfe und Bahnhofsumfelder in Feldmoching und Fasanerie (BA-Antrags-Nr. 08-14 / B 01119 vom 05.05.2009)
+- TOP 6.4.: Behebung des Engpasses an der Einmündung der Trollblumenstraße in die Borsigstraße (BA-Antrags-Nr. 08-14 / B 01214 vom 02.06.2009) a) Schreiben des Baureferates b) Schreiben des Kreisverwaltungsreferates
+- TOP 6.5.: Dienststellenverständigung: Erweiterung: Städtische Kindertageseinrichtung; Hier: zweigruppiger Hort Lerchenauer Str. 322
+- TOP 6.6.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Lärm- und Geruchsbelästigungen durch die Lackiererei und die Tankstelle in der Dülferstraße
+- TOP 6.7.: Sperrung der Straße Auf den Schrederwiesen für Kraftfahrzeuge (ausgenommen Linienbusse) im Bereich der Wendeschleife
+- TOP 6.8.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); NSB/ABS Nürnberg-Ingolstadt-München; Ausbaumaßnahmen im Bereich der Landeshauptstadt München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen
+- TOP 6.9.: Umbau Straßenführung Bhf. Fasanerie-Nord (Bürgerschreiben)
+- TOP 6.10.: Gewährung eines Zuschusses aus dem BA-Budget: Schreiben von Pro Migrakunst
+- TOP 6.11.: Vollzug des Sprengstoffgesetzes - SprengG - Feuerwerk Klasse II, Feldmochinger Str. 251 am 07.08.2009 Vorabzustimmung
+- TOP 6.12.: Verbesserung der verkehrlichen Situation in der westlichen Dülferstraße, u.a.
+- TOP 6.13.: Verkehrsrechtliche Anordnungen nach § 45 StVO: a) Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Max-Wönner-Str. 27 b) Aufhebung des personenbezogenen Behindertenparkplatzes in der Stösserstr. 1
+- TOP 6.14.: Grundschule an der Lerchenauer Str. 322; Brandschutzsanierung / Umbau / Erweiterung; Bauablauf
+- TOP 6.15.: Mitteilung der Termine 2010 "Das Schulreferat trifft die Bezirksausschüsse"
+- TOP 6.16.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen
+- TOP 6.17.: Informationsveranstaltung für die Bezirksausschüsse; Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 6.18.: Antrag Denkmal-/Ensembleschutz (Antrag der SPD-Fraktion im Bezirksausschuss 19)
+- TOP 6.19.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching - Hasenbergl Widmung der Gesamtstrecke des Blausternweges, der Gesamtstrecke des Schwertlilienweges und einer Teilstrecke der Röhrichtstraße
+- TOP 6.20.: Sanierung der östlichen Fahrbahn in der Schleißheimer Straße zwischen Neuherbergstraße und der Stabeler Straße
+- TOP 6.21.: Mitteilung über einen Eigentumsübergang gemäß Art. 11.12 BayStr.WG Dachauer Straße
+- TOP 6.22.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Betrieb von Müllsammelfahrzeugen
+- TOP 6.23.: "Daheim in München" - Antrag Nr. 08-14 / B 00795 des Bezirksausschusses des 10. Stadtbezirkes Moosach am 19.01.2009
+- TOP 6.24.: Stadtteilwoche Feldmoching-Hasenbergl-Nordhaide-Hart 2009
+- TOP 6.25.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Kuckucksblumenstraße b) Berchardweg c) Rambertweg 17 (2x) d) Auf den Schrederwiesen
+- TOP 6.26.: Vollzug der Baumschutzverordnung: a) Gustav-Schiefer-Str. 4-16 b) Joseph-Seifried-Str. 3-11 (Vorabzustimmung)
+- TOP 6.27.: Meldelisten Baumfällungsanträge
+- TOP 6.28.: Meldelisten Bauvorhaben
+- TOP 6.29.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.30.: Trammbaumaßnahmen in den Sommerferien
+- TOP 6.31.: Situationsbericht über das Suchtverhalten der Münchner Bevölkerung
+- TOP 6.32.: Nah dran 2009 - der Kinderschutz e.V. informiert Sie!
+- TOP 6.33.: Wir über 60 (Magazin des Seniorenbeirates der Landeshauptstadt München)
+- TOP 6.34.: Statistikblatt Kinderbetreuungsplätze in der LHM-Sozialreferat 01.07.2009
+- TOP 6.35.: Leistungsprogramm der MVG für die Fahrplanperiode 2010
+- TOP 6.36.: PERSPEKTIVE München Fortschreibung des Zentrenkonzeptes Schwerpunkt Nahversorgung
+- TOP 6.37.: PERSPEKTIVE München Langfristige Siedlungsentwicklung
+- TOP 6.38.: Radverkehr in München Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 6.39.: Münchner Bürgerinnen- und Bürgerbefragung 2009/2010
+- TOP 6.40.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 6.41.: Fahrbahnsanierung in der Lassallestraße zwischen der Himmelschlüssel- und der Franz-Fackler-Straße
+- TOP 7: Berichte
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
