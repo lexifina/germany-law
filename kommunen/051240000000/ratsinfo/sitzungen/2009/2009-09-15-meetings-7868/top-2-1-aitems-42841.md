@@ -1,0 +1,8 @@
+# TOP 2.1: Jahresabschluss 2008 der Stadtsparkasse Wuppertal
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung sowie zu TOP 1 gemeinsam mit dem Ausschuss für Ordnung, Sicherheit und Sauberkeit (2009-09-15)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/42841
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/20388
