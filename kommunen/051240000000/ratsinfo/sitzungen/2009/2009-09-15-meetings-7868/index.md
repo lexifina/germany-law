@@ -1,0 +1,77 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung sowie zu TOP 1 gemeinsam mit dem Ausschuss für Ordnung, Sicherheit und Sauberkeit
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-09-15T16:05:00+02:00
+- Ende: 2009-09-15T17:05:00+02:00
+- Ort: Rathaus Altbau, 2. Etage, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/81, http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/78
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7868
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7868
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 02.09.2009 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00109346.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00110097.pdf
+
+## Tagesordnung
+
+- TOP 1: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter der drei bergischen Städte Remscheid, Solingen und Wuppertal
+- TOP 1: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter der drei bergischen Städte Remscheid, Solingen und Wuppertal - geändert beschlossen
+- TOP 1: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter der drei bergischen Städte Remscheid, Solingen und Wuppertal - geändert beschlossen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2008 der Stadtsparkasse Wuppertal
+- TOP 2.1: Jahresabschluss 2008 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2.2: Jahresabschluss 2008 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit -
+- TOP 2.2: Jahresabschluss 2008 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 2.3: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2008
+- TOP 2.3: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 2.4: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2008
+- TOP 2.4: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 2.5: Jahresabschluss 2008 der Technologiezentrum Wuppertal W-tec GmbH
+- TOP 2.5: Jahresabschluss 2008 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 3: Entlastungen
+- TOP 3: Entlastungen
+- TOP 3.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2008
+- TOP 3.1: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 4: Wirtschaftspläne
+- TOP 4: Wirtschaftspläne
+- TOP 5: Personelle Angelegenheiten
+- TOP 5: Personelle Angelegenheiten
+- TOP 6: Allgemeine Vorlagen
+- TOP 6: Allgemeine Vorlagen
+- TOP 6.1: Konkretisierung der Betrauung der WSW mobil GmbH mit gemeinwirtschaftlichen Verpflichtungen im ÖPNV auf dem Gebiet der Stadt Wuppertal
+- TOP 6.1: Konkretisierung der Betrauung der WSW mobil GmbH mit gemeinwirtschaftlichen Verpflichtungen im ÖPNV auf dem Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Konkretisierung der Betrauung im Rahmen des Finanzierungssystems des VRR
+- TOP 6.2: Konkretisierung der Betrauung im Rahmen des Finanzierungssystems des VRR - ungeändert beschlossen
+- TOP 6.3: Umbesetzung in der Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity
+- TOP 6.3: Umbesetzung in der Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 6.4: Wahl der Ausschussmitglieder zum Betriebsausschuss GMW
+- TOP 6.4: Wahl der Ausschussmitglieder zum Betriebsausschuss GMW - ungeändert beschlossen
+- TOP 6.5: Änderung des Gesellschaftsvertrages der Wuppertal Marketing GmbH
+- TOP 6.5: Änderung des Gesellschaftsvertrages der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 6.6: Änderung der Satzung der Stadtsparkasse Wuppertal
+- TOP 6.6: Änderung der Satzung der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 13: Berichtsvorlagen
+- TOP 13: Berichtsvorlagen
+- TOP 13.1: Jahresergebnisprognose 2009
+- TOP 13.1: Jahresergebnisprognose 2009 - Entgegennahme ohne Beschluss
+- TOP 13.2: Stand der Schulden und Kassenkredite zum 31.08.2009, Ausblick auf den Kassenkreditbedarf 2009
+- TOP 13.2: Stand der Schulden und Kassenkredite zum 31.08.2009, Ausblick auf den Kassenkreditbedarf 2009 - Entgegennahme ohne Beschluss
+- TOP 13.3: Weitere Berichte zur aktuellen Haushaltssituation
+- TOP 13.3: Weitere Berichte zur aktuellen Haushaltssituation
+- TOP 14: Anhebung des Höchstbetrages der Kassenkredite
+- TOP 14: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 15: Verkäufe und Baumaßnahmen
+- TOP 15: Verkäufe und Baumaßnahmen
+- TOP 16: Allgemeine Vorlagen
+- TOP 16: Allgemeine Vorlagen
+- TOP 16.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2009, Teil 2
+- TOP 16.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2009, Teil 2 - ungeändert beschlossen
+- TOP 17: Berichte und Mitteilungen
+- TOP 17: Berichte und Mitteilungen
