@@ -1,0 +1,67 @@
+# Stadtrat (34. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-09-15T18:00:00+02:00
+- Ende: 2009-09-15T22:52:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZe-lEljV0X7vlRuiqTaLdEk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/5823
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZiTp7eFv1h06btPPAX0hTpa_wxrjMkSNbifTH42JN67/Bekanntmachung_Stadtrat_15.09.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUw_gFcAVcgN-Vi4AmYRATF9tRip5tRECIft3Tjh_QtU/Oeffentliche_Niederschrift_Stadtrat_15.09.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson
+- TOP 2.: Senioren/Seniorinnenbeiratswahl am 09.11.2009
+- TOP 3.: Jahresbericht 2008 über die Betriebsführung städtischer Bäder
+- TOP 4.: Bau eines neuen Hallenbades in Kerpen
+- TOP 5.: Sachstandsbericht Konjunkturpaket II
+- TOP 6.: Brandschutzbedarfsplan der Stadt Kerpen
+- TOP 7.: Erlass von Ortsrecht
+- TOP 7.1: 3. Änderung der Bestattungs- und Friedhofssatzung der Stadt Kerpen
+- TOP 7.2: Einrichtung eines Integrationsausschusses und die entsprechende 11. Änderung der Hauptsatzung der Stadt Kerpen und 8. Änderung der Zuständigkeitsordnung sowie Schaffung weiterer organisatorischer Voraussetzungen
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1: Personalsituation in der Abteilung 25.2 -Baubetriebshof, Friedhofswesen-
+- TOP 8.2: Personalsituation in der Abteilung 11.1 - Organisation
+- TOP 8.3: Personalsituation in der Abteilung 11.3 -Personal-
+- TOP 9.: Besetzung der Einigungsstelle gem. § 67 LPVG NW
+- TOP 10.: Umsiedlung Manheim
+- TOP 10.1: Stellungnahme der Stadt Kerpen zum Entwurf des Braunkohlenplanes " Umsiedlung Manheim "
+- TOP 10.2: 63. Änderung des Flächenutzungsplanes der Stadt Kerpen "Umsiedlungsort Manheim - neu" hier: Einleitungsbeschluss gem § 2 (1) BauGB
+- TOP 10.3: Bebauungsplan MA 337 "Umsiedlungsort Manheim - neu", Stadtteil Manheim - neu Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 10.4: Umsiedlung Manheim hier: Abschluss eines Rahmenvertrages mit der Firma RWE Power AG
+- TOP 11.: Stadtentwicklung und Bauleitplanung
+- TOP 11.1: Ausbau der Hahnenstraße, hier: Sachstand
+- TOP 11.2: Bebauungsplan KE 332 "Hahnenstraße" im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 11.3: Bebauungsplan KE Nr. 338 „Hahnenpassage“ im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 11.4: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE 338 "Hahnenpassage" im Stadtteil Kerpen
+- TOP 11.5: 61. Änderung des Flächennutzungsplanes "Südlicher Siedlungsrand Brüggen", Stadtteil Brüggen Einleitungsbeschluss gem. § 2 (1) BauGB
+- TOP 11.6: 62. Änderung des Flächennutzungsplanes "Bolzplatz Brüggen", Stadtteil Brüggen Einleitungsbeschluss gem. § 2 (1) BauGB
+- TOP 11.7: Bebauungsplan TÜ 336 "Bolzplatz Brüggen", Stadtteil Brüggen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 11.8: Bebauungsplan TÜ 335 "Kindertagesstätte Platanenallee", Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 11.9: Bebauungsplan TÜ 246/4. Änderung "Gewerbe-/ Industriegebiet Ville", Stadtteil Türnich hier: Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 12.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 12.1: Bereitstellung außerplanmäßiger Haushaltsmittel für die Sanierung einer Altlastenfläche in Kerpen- Horrem
+- TOP 13.: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW in der Zeit vom 01.04. bis 30.06.2009
+- TOP 14.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen II. Quartal 2009
+- TOP 15.: Beschluss des Stadtrates über die vom Rechnungsprüfungsausschuss geprüfte Jahresrechnung für das Haushaltsjahr 2007 und die Entlastung der Bürgermeisterin gem. § 94 Abs. 1 GO NW (alt)
+- TOP 16.: Sponsoringbericht 2003 - 2008
+- TOP 17.: Verkehrslenkungsmaßnahmen Neue Pforte in Kerpen-Blatzheim
+- TOP 18.: Fuß-/Radweg in Buir zum Schulgebäude und Neuer Weg
+- TOP 19.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Bauzeiten für die geplanten Kindertagesstätten sowie die Erweiterung der Mühlenfeldschule
+- TOP 22.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 23.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 23.1: Vertrag zum Ankauf einer neu zu erstellenden Fahrradstation am Bhf- Horrem
+- TOP 24.: Auftragsvergabe Projektsteuerung "Bau eines neuen Hallenbades in Kerpen"
+- TOP 25.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 28.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
