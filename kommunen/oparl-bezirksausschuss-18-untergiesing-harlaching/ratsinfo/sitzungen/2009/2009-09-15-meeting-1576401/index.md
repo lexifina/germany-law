@@ -1,0 +1,109 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-09-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1576401
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1576401
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Gefahrensituation am Ende des Radwegs in der Humboldtstraße; Bürgerschreiben vom 31.07.2009
+- TOP 2.2.: Verkehrsrechtliche Anordnungen rund um den Harlachinger Berg; Schreiben des ADFC München vom 17.08.2009
+- TOP 2.3.: Parkraumregelung für Anwohnerinnen und Anwohner beim Umbau der Schulturnhalle des Theodor-Grimm-Gymnasiums; Schreiben der Münchener Verwaltungsgesellschaft mbH vom 18.08.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: ASZ Untergiesing; für die Maßnahme: Veranstaltung vom 19. - 23.10.2009; Antragssumme: 1.190.- ?; Beschlussvorlage des Direktoriums vom 26.08.2009 - <div>nach Antrag</div>
+- TOP 3.2.: AntragstellerIn: Naturkindergarten Isarauen e.V.; für die Maßnahme: Reparatur von Bauwagen und Podest; Antragssumme: 2.500.- ?; Beschlussvorlage des Direktoriums vom 26.08.2009 - <div>nach Antrag</div>
+- TOP 3.3.: AntragsstellerIn: Cogma, Agentur für Standortmarketing und Kommunikation; für die Maßnahme: "Mord in Giesing" - Interaktiver Standtteil-Krimi; Antragssumme: 5.000.- ?; Beschlussvorlage des Direktoriums vom 25.08.2009 - <div>abgelehnt</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Wiederherstellung der Oberfläche in der Schyrenstraße; Antrag der FDP-Fraktion im BA 18 vom 30.08.2009
+- TOP 3.1.: Anhörung gem. § 13 der BA-Satzung zu verkehrsrechtlichen Anordnungen gem. § 45 StVO; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 3.2.4.1.1 Eingeschränktes Haltverbot Lohstraße 52; Zuleitung vom 13.08.2009 3.2.4.1.2 Haltverbot in der Lautererstraße; Zuleitung vom 13.08.2009
+- TOP 3.2.: Verkehrssicherheit in der Bahnunterführung Sachsenstraße, Verkehrsregelung mittels Signalanlage, behindertengerechte Verbreiterung der Gehbahn, hilfsweise Verkehrsspiegel; Empfehlung Nr. 08-14 / E aus der Bürgerversammlung des 18. Stadtbezirks am 23.10.2008 und Antrag Nr. 08-14 7 B 00613 des BA 18 vom 18.11.2008; Sperrung der Unterführung und der Straße für den KfZ-Verkehr; Zuleitung des Kreisverwaltungsreferats vom 18.08.2009 mit der Bitte um Stellungnahme
+- TOP 3.3.: Fuß- und Radwegbrücken in München; Anträge des Stadtrats und Empfehlung der Bürgerversammlungen, u. a. Umbau und Freigabe ders ungenutzten (nördlichen Gleises auf der Braunauer Eisenbahnbrücke als Fuß- und Radweg (Ziffer 1 des Antrags), Empfehlung Nr. 02-08 / E 0999 der Bürgerversammlung des 18. Stadtbezirks am 25.10.2007; Sitzungsvorlage Nr. 08-14 / V 02063; Beschlussentwurf für die Sitzung des Bauausschusses am 15.10.2009; Zuleitung des Baureferats vom 26.08.2009 mit der Bitte um Stellungnahme
+- TOP 3.4.: Defreggerstraße; Gehbanherstellung und Bauschadensbegrenzung; Zuleitung des Baureferats vom 25.08.2009 mit der Bitte um Stellungnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vollzug der Wassergesetze; Novellierung der Bade- und Boot Verordnung; 2. Verordnungsentwurf vom 21.08.2009; Zuleitung des Referats für Gesundheit und Umwelt vom 25.08.2009 mit der Bitte um Stellungnahme
+- TOP 3.1.: Feinstaub- und Abgasmessung im Bereich der Grünwalder Straße zwischen Authari- und Tiroler Platz; Antrag der SPD-Fraktion vom 11.02.2009 (ED); Antrag Nr. 08-14 7 B 00978 des BA 18 vom 17.03.2009; Antwortschreiben des Referats für Gesundheit und Umwelt vom 07.08.2009 (neutrale Erledigung)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Pilgershieimer Straße; Schreiben des Referats für Stadtplanung und Bauordnung vom 21.08.2009
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Zukunft des Stadions an der Grünwalder Straße; Antrag der CSU-Fraktion 30.08.2009
+- TOP 3.1.: Bericht zu REGSAM - REGSAM neu denken - Vertragszeitraum 2010 bis 2012; Beschlussentwurf für den Sozialausschuss am 15.10.2009; Zuleitung des Sozialreferats vom 07.08.2009 mit der Bitte um Stellungnahme hierzu: Schreiben von REGSAM vom 18.08.2009
+- TOP 3.2.: Fit & Gut drauf!; Ein Gesundheitsförderprogramm für Jugendliche in Stadtteilen mit besonderem Entwicklungsbedarf Modellvorhaben ?Kooperationen - Pilotprojekte für die Stadtgesellschaft? 2. Förderphase; Beschlussentwurf für die Sitzung des Gesundheitsausschusses am 13.10.2008 (SB); Zuleitung des Referats für Gesundheit und Umwelt vom 20.08.2009 mit der Bitte um Stellungnahme (bereits vorabdurch den BA-Vorsitzenden vorab gemäß § 20 Abs. 1 Satz 2 BA-Satzung zugestimmt)
+- TOP 3.1.: Bessere Organisation freier Plätze in Eingangsklassen an städtischen und staatlichen Gymnasien: - öffentliche Bekanntgabe der Gymnasien mit freien Plätzen in Eingangsklassen - erforderlichenfalls Einrichtung einer dritten Eingangsklasse am Theodolinden-Gymnasium - bessere Vernetzung von staatlichem und städtischem Schulamt zur künftigen Vermeidung von Engpässen; Antrag Nr. 08-14 / B 1425 des BA 18 vom 21.07.2009; Antwortschreiben des Schul- und Kultusreferats vom 14.08.2009 (negative Erledigung)
+- TOP 3.2.: Städtisches Stadion an der Grünwalder Straße; Aktueller Sachstand?; Bearbeitungsstand der letztjährigen Bürgerversammlungsempfehlung?; Anfrage aus der Bürgerversammlung des 17. Stadtbezirks Obergiesing am 23.06.2009; Antwortschreiben des Schul- und Kultusreferats vom 29.07.2009 (positive Erledigung)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Keine Streichung bzw. Reduzierung der Dorfkerne aus der Denkmalliste; Antrag des BA 19Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln vom 10.08.2009 mit der Bitte um Unterstützung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Widdersteinstraße; Anhörung vom 20.08.2009
+- TOP 3.2.: Anwesen in der Bruggspergerstraße; Anhörung vom 20.08.2009
+- TOP 3.3.: Anwesen in der Geiselgasteigstraße; Anhörung vom 20.08.2009
+- TOP 3.4.: Anwesen in der Wunderhornstraße; Anhörung vom 20.08.2009
+- TOP 3.5.: Anwesen in der Braunstraße; Anhörung vom 20.08.2009
+- TOP 3.7.: Anwesen in der Birkenau; Anhörung vom 20.08.2009
+- TOP 3.8.: Anwesen in der Friedrich-Ebert-Straße; Anhörung vom 20.08.2009
+- TOP 3.9.: Anwesen in der Lindenstraße; Anhörung vom 20.08.2009
+- TOP 3.10.: Anwesen in der Meichelbeckstraße; Anhörung vom 20.08.2009
+- TOP 3.12.: Anwesen in der Harthauser Straße; Anhörung vom 27.08.2009
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Anwesen Aretinstraße 6; Anhörung vom 13.08.09 (vertagt aus der Sitzung vom 18.08.2009)
+- TOP 3.2.: Anwesen Menterschwaigstraße; Anhörung vom 18.08.2009
+- TOP 3.3.: Anwesen in der Birkenau; Anhörung vom 17.08.2009
+- TOP 3.4.: Anwesen in der Harthauser Straße; Anhörung vom 21.08.2009
+- TOP 3.5.: Anwesen in der Meraner Straße; Anhörung vom 28.08.2009
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: 3.5.6.2 Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 3.5.6.2.1 SSW "Poseidon", Säbener Str. 9; Mitteilung vom 06.08.2009 3.5.6.2.2 SSW "Giasinger", Konradinstr. 2; Mitteilung vom 06.08.2009 3.5.6.2.3 Kleingaststätte ?Captain Jack?; Pilgersheimer Str. 10; Mitteilung vom 11.08.2009
+- TOP 3.3.: 3.5.6.3 Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung des Sozialreferates nach Nr. 11 des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen in der Lauterer Str.; Unterrichtung vom 10.08.2009 3.5.6.3.2 Anwesen in der Friedrich-Ebert-Straße; Unterrichtung vom 05.08.2009
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Projekt Isarlust - Temporäre Fußgängerbrücke vom 13. bis 20. September; Schreiben des Referats für Stadtplanung und Bauordnung vom 19.08.2009
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.1.: UA Budget: Freitag, 11.09.09, 19.00 Uhr, Gaststätte "El Greco" UA Verkehr: Montag, 07.09.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Umwelt: Donnerstag, 10.09.09, 18.00 Uhr, Gaststätte "Gartenstadt" UA Soziales: Dienstag, 08.09.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Bau und Planung: Donnerstag, 10.09.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Kultur u. Veranstaltungen: Montag, 14.09.09, 18.00 Uhr, Gaststätte "Hans-Mielich"
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018; Informationsveranstaltung für die Bezirksausschüsse; Zuleitung des Oberbürgermeisters vom 12.08.2009 mit der Bitte um Rückmeldung
+- TOP 6.2.: Das Schulreferat trifft die Bezirksausschüsse; Mitteilung der Termine für 2010; Zuleitung des Schul- und Kultusreferats vom 06.08.2009
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.11.: Anwesen in der Menterschwaigstraße; Anhörung vom 20.08.2009
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
