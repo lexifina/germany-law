@@ -1,0 +1,54 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-09-16T16:04:00+02:00
+- Ende: 2009-09-16T16:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7384
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7384
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 02.09.2009 - 08.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00109406.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00110643.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Schadensersatzansprüche wegen Cross-Border-Leasing-Verträgen
+- TOP 2.1.1: Schadensersatzansprüche wegen CBL-Verträgen - Anfrage der Ratsgruppe DIE LINKE
+- TOP 2.2: Priorisierung des Döppersberg-Umbaus
+- TOP 2.2.1: Große Anfrage "Priorisierung des Döppersberg-Umbaus" der Ratsgruppe DIE LINKE vom 11.08.09
+- TOP 2.3: Massentieranlage am Fettenberger Weg
+- TOP 2.4: Verkauf der Daten von WuppertalerInnen
+- TOP 2.5: Hausverbote bei der Wahlparty am 30. August 2009
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Streikbedingte Minderausgaben bei den Betreuungskosten als Sonderbudget für die städtischen Kindertageseinrichtungen
+- TOP 4.2: Resolution zur Qualitätsentwicklung im Kindertagesstättenbereich - vertagt auf Rat
+- TOP 4.3: Kindergartenbeiträge zurückerstatten
+- TOP 4.4: Wirtschaftsförderung zum Motor für Klimaschutz im Bergischen ausbauen - vertagt auf Rat
+- TOP 4.5: Wolldecken statt heiße Luft - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2009, Teil 2 - ungeändert beschlossen
+- TOP 7.2: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2008 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebentrieb Offene Altenarbeit - - Entgegennahme ohne Beschluss
+- TOP 8.2: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2008 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 8.5: Konkretisierung der Betrauung der WSW mobil GmbH mit gemeinwirtschaftlichen Verpflichtungen im ÖPNV auf dem Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.6: Konkretisierung der Betrauung im Rahmen des Finanzierungssystems des VRR - ungeändert beschlossen
+- TOP 8.7: Änderung der Satzung der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter der drei Bergischen Städte Remscheid, Solingen und Wuppertal - geändert beschlossen
+- TOP 11.2: Pinguinale 2006 - ungeändert beschlossen
+- TOP 11.3: Wahl der Ausschussmitglieder zum Betriebsausschuss GMW - ungeändert beschlossen
+- TOP 11.4: Errichtung einer Ganztagsschule - Realschule Hohenstein - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Umbesetzung in der Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
