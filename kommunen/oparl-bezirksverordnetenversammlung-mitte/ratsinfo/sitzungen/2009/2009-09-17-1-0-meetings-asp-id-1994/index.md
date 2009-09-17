@@ -1,0 +1,136 @@
+# 28. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-09-17T17:30:00+02:00
+- Ende: 2009-09-17T22:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1994
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=1994
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=71287
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Thematische Stunde - (offen)
+- TOP 2.1: Geplante Kürzungen im Kinder- und Jugendbereich - beantwortet
+- TOP 2.2: Einsparungen im Bereich Jugend im Doppelhaushalt 2010/2011 - ohne Änderungen in der BVV beschlossen
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: des Vorstandes - erledigt
+- TOP 3.2: der Fraktionen - erledigt
+- TOP 3.3: der Ausschüsse - erledigt
+- TOP 3.4: des Bezirksamtes - erledigt
+- TOP 4: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Umgang mit Drucksachen der BVV von Seiten des Bezirksstadtrats für Wirtschaft, Immobilien und Ordnungsamt - beantwortet
+- TOP 5.2: Positiv-/Negativ-Katalog - beantwortet
+- TOP 5.3: Tacheles - Tod des Biotops? - beantwortet
+- TOP 5.4: Weltkriegsausstellung - beantwortet
+- TOP 5.5: Pflege der Pflegestützpunkte - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Haushalt 2010/11 und das Mustergesundheitsamt (MGA) - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bezirkspartnerschaftstreffen Istanbul Beyoglu 1.-4.7.2009: Was it dem Bezirk die Bezirkspartnerschaft wert? - beantwortet
+- TOP 7.2: Trinker in die Weddinger Wohngebiete? - beantwortet
+- TOP 7.3: Förderung ehrenamtlicher Tätigkeit? - beantwortet
+- TOP 7.4: Ordnungsamt ist auf der Hut. Kehren neue Besen gut? (I) hier: Black Sheriffs vs. Blue Drinker - schriftlich beantwortet
+- TOP 7.5: Freizug Dienstgebäude Iranische Straße im Plan? - schriftlich beantwortet
+- TOP 7.6: Wirtschaftsförderung - alles Banane? Teil II - schriftlich beantwortet
+- TOP 7.7: Hackescher Markt Süd und mehr Wohnen - schriftlich beantwortet
+- TOP 7.8: IBA-Bauten am Lützowplatz demnächst werbeplakatierte Investruine? - schriftlich beantwortet
+- TOP 7.9: Stand der Umsetzung des Konjunkturpaketes II - schriftlich beantwortet
+- TOP 7.10: Ordnungsamt ist auf der Hut. Kehren neue Besen gut? (II) hier: Sondernutzung öffentlichen Straßenlandes durch Gastronomie u.ä. in der Spandauer Vorstadt - schriftlich beantwortet
+- TOP 7.11: Quartiersmanagement in Mitte: Alles neu macht nicht nur der Mai - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2010 und 2011 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 3 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Beitragspflichtige Erneuerung der Straßenentwässerung der Verkehrsanlage Drontheimer Straße im Abschnitt von Osloer Straße bis Soldiner Straße - überwiesen
+- TOP 9.3: Beitragspflichtige Erneuerung der Straßenentwässerung der Verkehrsanlage Tromsöer Straße von Schwedenstraße bis Überbauung (=Ende der öffentlichen gewidmeten Straße) - überwiesen
+- TOP 9.4: Wahl eines Mitgliedes für den Vorstand der BVV - vertagt
+- TOP 9.5: Bebauungsplanentwurf 1-39 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festzsetzung des Bebauungsplanes 1-39 - überwiesen
+- TOP 9.6: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2008 - überwiesen
+- TOP 9.7: Wahl des Beirates in Sozialhilfeangelegenheiten gemäß § 34 AZG i.V. § 116 Abs. 2 SGB XII - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf I-B5m sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5m - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplanentwurf I-B5b sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5b - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplanentwurf I-B5a sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5a - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Beschluss über den Bebauungsplanentwurf 1-18B und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-18B - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf I-B5u sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5u - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bebauungsplanentwurf II-183 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes II-183 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Verringerte Zahlungen an die S-Bahn nachhaltig für den ÖPNV nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Was wird aus "ATZE"? - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Transparentes Ehrenamt 2010 - BVV informieren und einbeziehen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Jugend-Projekte erhalten! Keine voreiligen Schritte durch das Bezirksamt (1) - in der BVV zurückgezogen
+- TOP 12.3: Mauerpark - mit Grün verbinden - statt durch Bebauung trennen - überwiesen
+- TOP 12.4: Leistung statt "Lotterie" - in der BVV abgelehnt
+- TOP 12.5: Keine Schnellschüsse bei der Wartburgschule - in der BVV abgelehnt
+- TOP 12.6: Jugend-Projekte erhalten! Keine voreiligen Schritte durch das Bezirksamt (2) - in der BVV zurückgezogen
+- TOP 12.7: Barrierefreie Fußgängerbrücke vom Bahnhof Friedrichstraße über die Spree - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Öffentlicher Bücherschrank - in der BVV zurückgezogen
+- TOP 12.9: "E-Tankstellen" für Ausflugsschiffe - Schadstoffemission senken und Umwelt schonen - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Neue Grün- und Erholungsflächen für den Humboldthafen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Lokale Agenda 21-Prozess in Mitte beginnen - überwiesen
+- TOP 12.12: Für eine zeitgemäße SeniorInnen-Politik - überwiesen
+- TOP 12.13: Nachnutzungskonzept für die Reformationskirche im Beusselkiez - überwiesen
+- TOP 12.14: Hedwig Dohm - eine moderne Denkerin - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Baumschutz: DIN 18920 bei Ausschreibungen berücksichtigen - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Lebendiger Ort für Alle - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: "Jedem Kind ein Instrument“ - Klingt gut! - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Massiver Ausbreitung von Spielhallen in den Einkaufsstraßen begegnen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Verpflichtende Früherkennungsuntersuchungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Die Türkische Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Schulstandorte Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Zwischen Alexanderplatz und Humboldtforum: Berliner Bürgerforum behutsam im Dialog qualifizieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Moderne Schulen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Umsetzung des § 20 SGB V durch die Krankenkassen in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Kinderplantschen in Berlins Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Mitten in Mitte - Berliner Quartier mit Zukunft Planungsleitsätze für die städtebauliche Entwicklung des Bereichs zwischen Humboldthafen und Nordhafen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Bezirkszentralbibliothek im Rathaus Wedding - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Installation von solarthermischen Anlagen und Brauchwasseranlagen bei Neu- und Umbauten grundsätzlich prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Innovationspark Humboldthain - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.5: Projekt "TanzMitte" als Modellprojekt musischer Bildung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Wohnen in der Innenstadt - lärmgeschützt und familiengerecht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.8: Straßenbenennung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Parken in der Karl-Liebknecht-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen I: Energieverbrauchsenkung durch Energiesparpartnerschaften und Sanierungscontracting - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.11: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen II: Landesprogramm zur energetischen Sanierung des Gebäudebestandes fordern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen III: Energieverschwendung stoppen - Nutzung privater Energiefresser in Bürodienstgebäuden stoppen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.13: Erfolge von Huttenkids & Co sichern! Kontinuität der Jugendarbeit in den besonders benachteiligten Stadtteilen gewährleisten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.14: Beteiligung des Ausschusses für Umwelt, Natur, Verkehr und Lokale Agenda und der Unteren Naturschutzbehörde im Vorfeld von Planungen für Grün- und Parkanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Sonnige Aussichten für den Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Transparenz bei der Förderung von Projekten verfassungsrechtlich bedenklicher Träger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Ein Jahr warten ist genug! Drucksache 0444/III endlich umsetzen und die Öffnung der Neuen Schönhauser Straße für den Fahrradverkehr in Gegenrichtung vorbereiten und ermöglichen. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Barrierefreier Zugang - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.19: Unterstützung der Weiterentwicklung des Westhafens - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Doppelnutzung des Sportplatzes OSZ Gesundheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Öffentlicher Raum wird „Shared Space – Begegnungszone“ - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.22: Energieausweise bezirklicher Liegenschaften ins Internet stellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Informationsveranstaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.24: Sicherer Überweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.25: Trotz Konjunkturpaket II keine Abstriche bei der Korruptionsprävention - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.26: Mauerseglerprojekt im Bezirk Mitte ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.27: Bebauungspläne I-B5 Spandauer Vorstadt hier: zugesagte Bürgerveranstaltung endlich durchführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.28: Schülerstreik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.29: Beschluss über die Aufstellung des Bebauunsplanes 1-61 (Bayer-Schering) im Bezirk Mitte, Ortsteil Wedding, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, die Beteiligung der Behörden gemäß § 4 BauGB und für den benachbarten Bebauungsplan 1-47 (Bayer-Schering) im Bezirk Mitte, Ortsteil Wedding, die Auswertung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB, die Ausertung der Beteiligung der Behörden gemäß § 4 Abs. 1 u. 2 BauGB, die Reduzierung.. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.30: Beschluss über die Reduzierung des Geltungsbereiches des Bebauungsplanentwurfes II-187 - Quitzowstraße - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.31: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur im Jahre 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.32: Bürgerbegehren zur Rathausbrücke in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.33: Eckwertebeschluss zur Aufteilung des Produktsummenbudgets, der Zuweisung für sonstige Transferausgaben und der Einnahmevorgaben in Vorbereitung des Doppelhaushaltsplans 2010/2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.34: Jahresbericht 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.35: Benennung von öffentlichem Straßenland in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.36: Bestätigung der Entscheidung des Begleitausschusses "STÄRKEN vor Ort" für die Förderperiode 2009 zur Förderung von Mikroprojekten in der Zeit vom 15.07.2009 bis 31.12.2009 im Rahmen des ESF-Bundesprogramms "STÄRKEN vor Ort" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.37: Fortführung des Bebauungsplanes I-14 - Stallschreiberblock - im Bezirk Mitte, Ortsteil Mitte, die Duchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch und die Beteiligung der Behörden gemäß § 4 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.40: Aufstellung des Bebauungsplanes 1-62 für die beiderseits anliegenden Grundstücke der Heidestraße zwischen Perleberger Straße und Invalidenstraße mit Ausnahme der Grundstücke zwischen Minna-Cauer-Straße und Invalidenstraße im Bezirk Mitte, Ortsteil Moabit, die Durchführung der Öffentlichkeitsbeteiligung Gemäß § 3 Abs. 1 Baugesetzbuch, der frühzeitigen Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch sowie der Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.38: Verteilung der Geschäftsbereiche der Mitglieder im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.41: 3. Tätigkeitsbericht der Bezirksbeauftragten für Menschen mit Behinderung beim Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.39: Die im ersten Halbjahr des Haushaltsjahres 2009 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.42: Rosenthaler Platz fahrradfreundlich umgestalten - ohne Änderungen in der BVV beschlossen
