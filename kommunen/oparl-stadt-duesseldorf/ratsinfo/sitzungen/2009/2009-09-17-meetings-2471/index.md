@@ -1,0 +1,59 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-09-17T16:00:00+02:00
+- Ende: 2009-09-17T18:11:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2471
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2471
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126146.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126146.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126146.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 20.08.2009 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Schulorganisatorische Maßnahme an der Städtischen Katholischen Grundschule Leuthenstraße - Auflösung - - einstimmig beschlossen
+- TOP 5: Baumpflanzung Friedrich-Engels-Straße - vertagt
+- TOP 6: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 7: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Grünanlage zwischen Vennhauser Allee und Zwickauer Straße - beantwortet
+- TOP 9: Ganztagsschulen im Stadtbezirk 08 - beantwortet
+- TOP 10: Dreifachsporthalle Unterbach - beantwortet
+- TOP 11: Grünpflege im Stadtbezirk 8 - beantwortet
+- TOP 12: Schülerzahlen in den Eingangsklassen im Stadtbezirk 8 - beantwortet
+- TOP 13: Umgestaltung der Einmündung Vennhauser Allee / Eller Kamp - beantwortet
+- TOP 14: Fahrradampel Kreuzung Karlsruher Straße / Heidelberger Straße - beantwortet
+- TOP 15: Gaslaternen im Stadtbezirk 8 - beantwortet
+- TOP 16: Gleisbegrünung in Lierenfeld - einstimmig beschlossen
+- TOP 17: Lkw - Verbot Am Hackenbruch - mehrheitlich beschlossen
+- TOP 18: Spielplatz Am Hackenbruch - mehrheitlich beschlossen
+- TOP 19: 100-Meter-Brücke Kikweg - einstimmig beschlossen
+- TOP 20: Jägerstraße - einstimmig beschlossen
+- TOP 21: Strandbäder Unterbacher See - Wertschließfächer - einstimmig beschlossen
+- TOP 22: Fuß-/Radwegeinmündung Am Hackenbruch - einstimmig beschlossen
+- TOP 23: Jägerstraße - Geschwindigkeitskontrolle - einstimmig beschlossen
+- TOP 24: Grünfläche Ludwigstraße / Kissinger Straße - einstimmig beschlossen
+- TOP 25: Sperrung der Schlossallee für den Durchgangsverkehr in Richtung Heidelberger Straße - vertagt
+- TOP 26: Fahrradwege Vennhauser Allee zwischen Eller Kamp und Krippstraße - mehrheitlich abgelehnt
+- TOP 27: Toilettenanlage Gertrudisplatz - einstimmig beschlossen
+- TOP 28: Königshütter Straße - Fußwegreinigung - einstimmig beschlossen
+- TOP 29: Ballspielwiese Spielplatz Coburger Weg - einstimmig beschlossen
+- TOP 30: Bedarfsampel Gubener Straße / Grünberger Weg - mehrheitlich beschlossen
+- TOP 31: Beschilderung S-Bahnhof Eller - einstimmig beschlossen
+- TOP 32: Kinderarmut im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Doggy Bags im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Umbau der Kinderspielplätze Bunzlauer Weg / Oppelner Weg - zur Kenntnis genommen
+- TOP 35: Kleingartenanlage Im Broich - Entwässerungsgraben - zur Kenntnis genommen
+- TOP 36: Umwandlung der Notunterkünfte Hasseler Richtweg - zur Kenntnis genommen
+- TOP 37: Verkehrsführung Richardstraße - zur Kenntnis genommen
+- TOP 38: Grundstück Sodener Weg, alter Schützenplatz Eller - zur Kenntnis genommen
+- TOP 39: Auswirkungen der geänderten Zuständigkeitsordnung auf die Bezirksvertretungen - zur Kenntnis genommen
+- TOP 40: Grundwasserkataster im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Schülerzahlen in den Eingangsklassen - zur Kenntnis genommen
+- TOP 42: Verunreinigungen Eselsbach - zur Kenntnis genommen
