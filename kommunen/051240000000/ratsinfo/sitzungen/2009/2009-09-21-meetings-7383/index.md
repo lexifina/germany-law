@@ -1,0 +1,60 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-09-21T16:03:00+02:00
+- Ende: 2009-09-21T16:54:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7383
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7383
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand 18.09.09 - 10.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00109841.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00109967.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Schadensersatzansprüche wegen CBL-Verträgen - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Schadensersatzansprüche wegen CBL-Verträgen - Anfrage der Ratsgruppe DIE LINKE - abschließend zur Kenntnis genommen
+- TOP 2.2: Priorisierung des Döppersberg-Umbaus - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Große Anfrage "Priorisierung des Döppersberg-Umbaus" der Ratsgruppe DIE LINKE vom 11.08.09 - abschließend zur Kenntnis genommen
+- TOP 2.3: Massentieranlage am Fettenberger Weg - abschließend zur Kenntnis genommen
+- TOP 2.4: Verkauf der Daten von WuppertalerInnen - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Verkauf der Daten von Wuppertalerinnen; Antwort auf Anfrage der Fraktion Bündnis 90/Die Grünen - abschließend zur Kenntnis genommen
+- TOP 2.5: Hausverbote bei der Wahlparty am 30. August 2009 - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Hausverbote bei der Wahlparty am 30.08.09; Anfrage der Ratsgruppe DIE LINKE - abschließend zur Kenntnis genommen
+- TOP 2.6: Positive Meldepflicht der Vorsorgeuntersuchungen - Auswirkungen auf Wuppertal
+- TOP 2.6.1: Positive Meldepflicht der Vorsorgeuntersuchungen - Auswirkungen auf Wuppertal
+- TOP 2.7: Aufhebung von Einschränkungen in der Ausstattung und Nutzung von Kinderspielplätzen, die auf Grundlage von Lärmbelästigung erfolgt sind
+- TOP 2.7.1: Aufhebung von Einschränkungen in der Ausstattung und Nutzung von Kinderspielplätzen, die auf Grundlage von Lärmbelästigung erfolgt sind
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Streikbedingte Minderausgaben bei den Betreuungskosten als Sonderbudget für die städtischen Kindertageseinrichtungen - in der Sache erledigt
+- TOP 4.2: Resolution zur Qualitätsentwicklung im Kindertagesstättenbereich - zur Vorberatung verwiesen
+- TOP 4.3: Kindergartenbeiträge zurückerstatten - in der Sache erledigt
+- TOP 4.4: Wirtschaftsförderung zum Motor für Klimaschutz im Bergischen ausbauen - zur Vorberatung verwiesen
+- TOP 4.5: Wolldecken statt heiße Luft - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2009, Teil 2 - ungeändert beschlossen
+- TOP 7.2: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2008 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebentrieb Offene Altenarbeit - - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der APH für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2008 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 8.5: Konkretisierung der Betrauung der WSW mobil GmbH mit gemeinwirtschaftlichen Verpflichtungen im ÖPNV auf dem Gebiet der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.6: Konkretisierung der Betrauung im Rahmen des Finanzierungssystems des VRR - ungeändert beschlossen
+- TOP 8.7: Änderung der Satzung der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter der drei bergischen Städte Remscheid, Solingen und Wuppertal - geändert beschlossen
+- TOP 11.2: Pinguinale 2006 - ungeändert beschlossen
+- TOP 11.3: Wahl der Ausschussmitglieder zum Betriebsausschuss GMW - Dringlichkeitsentscheidung genehmigt
+- TOP 11.4: Errichtung einer Ganztagsschule - Realschule Hohenstein - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung in der Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
