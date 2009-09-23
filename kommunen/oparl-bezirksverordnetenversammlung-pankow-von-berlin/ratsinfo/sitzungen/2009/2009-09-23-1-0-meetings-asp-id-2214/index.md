@@ -1,0 +1,100 @@
+# 27. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-09-23T17:30:00+02:00
+- Ende: 2009-09-23T22:55:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2214
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2214
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Änderungen in der BVV beschlossen
+- TOP 1.9: Nachweis der im Haushaltsjahr 2008 in Anspruch genommenen über- und außer-planmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.10: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2008 - überwiesen
+- TOP 1.11: Wahl einer Beisitzerin für den Vorstand der BVV Pankow von Berlin - vertagt
+- TOP 1.12: Wahl von Mitgliedern in den Vorstand der Albert-Schweitzer-Stiftung - Wohnen & Betreuen - mit Änderungen in der BVV beschlossen
+- TOP 1.13: Wahl einer Schiedsperson für den Schiedsamtsbezirk 1 - der Schiedsamtsbezirk umfasst den Ortsteil Buch - im Bezirk Pankow - vertagt
+- TOP 1.14: Wahl einer Schiedsperson für den Schiedsamtsbezirk 10 - der Schiedsamtsbezirk umfasst den Ortsteil Weißensee - im Bezirk Pankow - vertagt
+- TOP 1.15: Einrichtung eines staatlich geförderten Treffpunktes - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Bezirksamtsgelände autofrei - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Endlich Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verkehrssicherheit in der Pankgrafenstraße erhöhen! - überwiesen
+- TOP 1.19: Halteverbot Bereich S-Bahnhof Karow - überwiesen
+- TOP 1.20: Marthashof - vertagt
+- TOP 1.21: Mauerpark fertig stellen, mit Grün verbinden - statt durch Bebauung trennen - vertagt
+- TOP 1.22: Transparenz in der Arbeit des Rates der Bürgermeister - überwiesen
+- TOP 1.23: Datenschutz im Unterricht mit einfließen lassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Gemeinschaftsschule auf der Werneuchener Wiese - überwiesen
+- TOP 1.25: Freigabe gesperrter Mittel Medienbeschaffung - vertagt
+- TOP 1.26: Bericht über Konjunkturpakete - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: "Albert-Schweitzer-Stiftung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Historische Aufklärung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Zusammenleben im Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Evangelische Friedhöfe entlang der Heinrich-Roller-Straße - vertagt
+- TOP 2.8: Schaffung einer Stelle bezirklicher Beauftragter Jobcenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8.1: Bezirklicher Beauftragter Jobcenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Entwicklung des kooperativen Standorts Eliashof - vertagt
+- TOP 2.10: Auflösung der bezirklichen Einrichtungen Stadtteilbibliotheken Esmarchstr.18 (Kurt-Tucholsky-Bibliothek) und Senefelderstr. 6 (Bibliothek im Eliashof) - vertagt
+- TOP 2.11: Schwimmhalle Pankow: Tür offenhalten - Moratorium beantragen - vertagt
+- TOP 2.12: Mädchen- und Frauensport differenziert fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Weiterbetrieb Kurt-Tucholsky-Bibliothek - vertagt
+- TOP 2.14: Erhöhung der Verkehrssicherheit im Bereich der Straßenbahnhaltestellen der Schönhauser Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Erfahrungsaustausch zu Begegnungsstätten - Orte für alle Generationen - vertagt
+- TOP 2.16: Sanierungsziele langfristig planungsrechtlich sichern - vertagt
+- TOP 2.17: Umwelt- und Energiepark im Botanischen Volkspark - vertagt
+- TOP 2.18: Kastanienallee in Prenzlauer Berg - Anregungen für die Planung und die Bürgerbeteiligung - vertagt
+- TOP 2.19: Beteiligungsrechte sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Kostenfreie Hotline für das JobCenter einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Umsetzung des Gleichstellungspolitischen Rahmenprogramms - bezirklicher Masterplan - vertagt
+- TOP 2.22: Für den Verbleib der Kurt-Tucholsky-Bibliothek im VÖBB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - vertagt
+- TOP 2.24: Umsetzung von Neuregelungen der Wohngeldnovelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - vertagt
+- TOP 2.26: Pankow im Fokus: Deutsche Geschichte ernst nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Chance zur Verbesserung des Schulessens nutzen - vertagt
+- TOP 2.28: Erweiterungsflächen für den Campus Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Wärmeisolierung bezirkseigener Gebäude - vertagt
+- TOP 2.30: Unterstützende Maßnahmen gegen illegale Müllentsorgung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Hinweisschilder Wildwechsel in der Hobrechtsfelder Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Nachtruhe in der Schönhauser Straße (OT Rosenthal) - Tempo 30 (22.00 - 6.00 Uhr) einrichten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.33: Fahrradwege an den Einmündungen Heimdall- und Tiniusstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Liegenschaft Sportstätte am Weißen See - vertagt
+- TOP 2.35: Mehr Sicherheit für Fußgängerinnen und Fußgänger in der Blankenfelder Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.36: Arbeiten in der Storkower Straße und im Pieskower Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Hinweise auf öffentliche Toiletten in oder im Umfeld der Parkanlagen im Bezirk - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.38: GA-Antrag für das Forscherschloss / LSC unverzüglich und vollständig einreichen - vertagt
+- TOP 2.39: Zugang zum S-Bahnhof Landsberger Allee fertigstellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Beidseitige Verbindungskurve zur besseren Verknüpfung der Straßenbahnlinien umgehend bauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.41: Kurt-Tucholsky-Bibliothek bleibt an VÖBB angeschlossen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Strategiewechsel in der Haushaltspolitik - vertagt
+- TOP 2.43: Zeitplan für städtebauliche Planung für das Grundstück Schönhauser Allee 148/Kastanienallee 97 - 99 ändern - vertagt
+- TOP 2.44: Planungsworkshop zum ehemaligen Güterbahnhof - vertagt
+- TOP 2.45: Kulturensemble am Thälmannpark - Konzeption - vertagt
+- TOP 2.46: Gemeinsamen Musikschulstandort im Prenzlauer Berg prüfen - vertagt
+- TOP 2.47: Entscheidungsgrundlage für den Bibliotheksentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.48: Haushaltsplanentwurf auch für den Bereich Kultur - vertagt
+- TOP 2.49: Datenschutzfragen klären, Klarheit schaffen: Endlich Sicherheit für die Kurt-Tucholsky-Bibliothek! - vertagt
+- TOP 2.50: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.51: Bebauungsplan 3-29 für das Grundstück Kuglerstraße, Lewaldstraße 2, Scherenbergstraße im Be-zirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.52: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 des Baugesetzbuchs (BauGB) für das Gebiet "Humannplatz" im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.53: Bebauungsplan XVIII-23 vom 18.09.2007 für das Gebiet zwischen den Straßen Am Danewend, Hubertusdamm, Bahnhofstraße und dem Bahngelände sowie angrenzende Abschnitte der Straßen Am Danewend, Hubertusdamm und Bahnhofstraße im Bezirk Pankow, Ortsteil Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.54: Abschluss von Mietverträgen zur Errichtung von Photovoltaikanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.55: Nachweis der im 1. Halbjahr 2009 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.56: Vorbereitung der Aufhebungsverordnung für die Sanierungsgebiete Weißensee - Komponistenviertel und Prenzlauer Berg - Winsstraße - vertagt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
