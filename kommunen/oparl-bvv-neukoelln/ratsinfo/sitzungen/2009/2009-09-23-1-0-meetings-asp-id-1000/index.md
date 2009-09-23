@@ -1,0 +1,97 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-09-23T17:05:00+02:00
+- Ende: 2009-09-23T22:25:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1000
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1000
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 1.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: Widerstand gegen Einschüchterungsversuche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verwaltung und Gleichstellung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Zusammenlegung der Franz-Schubert-Schule (Grundschule), der Rütli-Schule (Hauptschule) und der Heinrich-Heine-Schule (Realschule) zur Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bezirkshaushaltsplan für die Jahre 2010/2011 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Bebauungsplan XIV-109b vom 31.03.2009 - Wutzkycenter - - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Bebauungsplan XIV-185cba vom 13.02.2008 mit Deckblatt vom 10.06.2009 ("Sanierungsgebiet Wederstraße - Erweiterung der Zürich-Grundschule") - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Bebauungsplan XIV-274a vom 1.12.2008 - Waßmannsdorfer Dreieck - - ohne Änderungen in der BVV beschlossen
+- TOP 7.6: Bebauungsplan XIV-274b vom 1.12.2008 - Waßmannsdorfer Chaussee - - ohne Änderungen in der BVV beschlossen
+- TOP 7.7: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2008 - überwiesen
+- TOP 7.8: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2008 - überwiesen
+- TOP 7.9: Genehmigung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2009 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung eines beratenden Mitgliedes im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Anträge auf Hilfe zur Pflege - beantwortet
+- TOP 9.2: Vorbereitende Untersuchung Karl-Marx-Straße - beantwortet
+- TOP 9.3: Weil Arbeit faire Löhne braucht - in der BVV zurückgezogen
+- TOP 9.4: Filiallösung statt Schulschließung - beantwortet
+- TOP 9.5: Geschichtsaufarbeitung nach Art der Werkstatt der Kulturen - Ausstellung 3. Welt im zweiten Weltkrieg - beantwortet
+- TOP 9.6: Kostenlose Mitgliedschaft in Sportvereinen - beantwortet
+- TOP 9.7: Zufahrt zum Mercedes-Gelände - beantwortet
+- TOP 9.8: Strohfreuer? - beantwortet
+- TOP 9.9: Standort der Clay-Oberschule an der Lipschitzallee - beantwortet
+- TOP 9.10: Sanierung der Sporthalle an der Johannisthaler Chaussee - beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Fortschreibung des Lokalen Aktionsplanes für das Jahr 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Wohnungsbordelle eindämmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Anordnung Tempo 30 in der Neuköllnischen Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Hilfe für klein- und mittelständische Unternehmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Verkehrskonferenz Süd-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Ökologische Straßenbeleuchtung - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Wahlwerbung erleichtern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Bänke in der Schillerpromenade - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Verkehrssicherheit auf Fahrradwegen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Einführung der Berliner Schulstrukturreform in Neukölln - beantwortet
+- TOP 11.2: Umfahren Sie den Verkehrsausschuss!? - beantwortet
+- TOP 11.3: Schulstrukturreform nicht übers Knie brechen - beantwortet
+- TOP 11.4: Neubau der Clay-Oberschule am Standort Lipschitzallee verwirklichen! - beantwortet
+- TOP 11.5: Bauplanungsunterlage Rixdorf? - beantwortet
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Massive Beeinträchtigungen für Gewerbetreibende in der Boddinstraße - schriftlich beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Trägerwechsel bei Kindertagesstätten - überwiesen
+- TOP 13.2: Schulstrukturreform - Kein Schnellschuss zu Lasten der Schüler! - überwiesen
+- TOP 13.3: Bänke für die Grünanlage vor dem Bürgeramt Blaschkoallee - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Task Force Okerstraße - mit Änderungen in der BVV beschlossen
+- TOP 13.5: Fahrradständer für das Bürgeramt Blaschkoallee - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Parkplätze für Brautpaare vor dem Bürgeramt Blaschkoallee - überwiesen
+- TOP 13.7: Beirat für ÖBS - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Lärmschutzzone für Alt-Buckow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Anordnung Tempo 30 km/h in der Johannisthaler Chaussee im Bereich BAB-Aus- und Einfahrt und Rudower Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Mehr Sicherheit in der Sonnenallee für Kinder und Senioren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Ordnungsämter stärken! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Negativliste für Schmuddelrestaurants - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Reduzierung von Hundekot auf Neuköllns Straßen und Grünanlagen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Tempo 30 in der Jahnstraße? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.8: Umweltzone - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.9: Versetzung des Wartehäuschens auf der Hermannbrücke (östliche Seite) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Missbrauch im Meldewesen verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Trägerkarte zum Berlin-Ticket S auch für Schüler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Sprechzeiten für "in Maßnahme befindliche" Erwerbslose - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Befreiung von Rundfunkgebühren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Parkbenennung nach Dora Mendler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Schulstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Konversion des Flugfelds Tempelhof im Team gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Bebauung des Tempelhofer Feldes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Kinderlärm - ja bitte! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Fahrradabstellmöglichkeiten am U-Bahnhof Boddinstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Elektronische Terminvereinbarung - mit Abschlussbericht zur Kenntnis genommen
