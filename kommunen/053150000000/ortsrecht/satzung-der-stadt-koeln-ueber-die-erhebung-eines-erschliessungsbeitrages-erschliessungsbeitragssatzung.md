@@ -1,15 +1,15 @@
 # Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - Erschließungsbeitragssatzung
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2009-02-21 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/6._Änderung_der_stadt_köln_über_die_erhebung_e._erschließungsbeitrages__erschließungsbeitragssatzung__21-02-2009.pdf
+- Datum: 2009-09-23 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/8._Änderung_der_stadt_köln_über_die_erhebung_e._erschließungsbeitrages__erschließungsbeitragssatzung__23-09-2009.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Satzung der Stadt Köln über die Erhebung eines Erschließungsbeitrages - Erschließungsbeitragssatzung vom 29. Juni 2001
-in der Fassung der 6. Satzung zur Änderung der Erschließungsbeitragssatzung vom 21. Februar 2009
+in der Fassung der 8. Satzung zur Änderung der Erschließungsbeitragssatzung vom 23. September 2009
 Der Rat der Stadt Köln hat in seiner Sitzung am 15.05.2001 aufgrund des § 132 Baugesetzbuch (BauGB) in der Fassung der Bekanntmachung vom 27.08.1997 (BGBl. I S. 2141) in Verbindung mit §§ 7 und 76 Absatz 1 der Gemeindeordnung des Landes Nordrhein-Westfalen (GO NRW) in der Fassung der Bekanntmachung vom 14.07.1994 (GV. NRW S. 666/SGV. NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 
 § 1 Gegenstand der Satzung
@@ -144,40 +144,40 @@ Seite 3 von 9
 
 Einheitssatz für Erschließungsanlagen bzw. ihre Teileinrichtungen nach § 2 Abs. 1 Ziffer
 
-Herstellungszeitraum ab 01.01.2007 bis 31.12.2007
+Herstellungszeitraum ab 01.01.2008 bis 31.12.2008
 
 Euro/m²
 
-6
+7
 
 1 a) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-61,19 18,19 79,38
+54,75 22,11 76,86
 
 b) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-64,32 14,52 78,84
+64,32 16,36 80,68
 
 c) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-52,91 11,80 64,71
+52,91 13,30 66,21
 
 d) Fahrbahn
 
 Oberbau ohne Decke Decke gesamt
 
-51,03 10,49 61,52
+51,03 11,82 62,85
 
 Gehwege Radwege Parkflächen kombinierter Geh-/ Radweg Mischverkehrsflächen Oberbau ohne Decke
 Decke gesamt
 
-71,11 49,01 68,02 48,72 60,58 35,47 96,05
+74,90 49,01 58,83 48,72 45,69 41,13 86,82
 
 Fußgängergeschäftsstraßen
 
@@ -193,12 +193,12 @@ Oberbau ohne Decke Decke gesamt
 
 Oberbau ohne Decke Decke gesamt
 
-51,03 10,49 61,51
+51,03 11,82 62,85
 
 4 a) Straßenbegleitgrün b) Straßenbäume
 
-30,16 je Baum
-763,70
+14,31 je Baum
+1.005,70
 
 1 bis 4 Straßenbeleuchtung
 
@@ -206,11 +206,11 @@ Seite 4 von 9
 
 a) technische Leuchtstellen
 
-6,41
+6,34
 
 b) dekorative Leuchtstellen
 
-12,88
+13,82
 
 Die Verzeichnisse der Einheitssätze sind Bestandteil dieser Satzung.
 
@@ -222,9 +222,9 @@ Die Stadt trägt 10 % des beitragsfähigen Erschließungsaufwandes. § 5 Verteil
 
 (1) Der nach den §§ 1 bis 4 ermittelte Erschließungsaufwand wird auf die erschlossenen Grundstücke verteilt nach dem Verhältnis der Grundstücksflächen zueinander. Dabei wird die unterschiedliche Nutzung der erschlossenen Grundstücke nach Art und Maß berücksichtigt.
 Soweit als Maßstab der baulichen Nutzung das Vollgeschoss nach Maßgabe der folgenden Bestimmungen zugrunde zu legen ist, gilt als solches jedes Geschoss, dessen Deckenoberkante im Mittel mehr als 1,60 m über die Geländeoberfläche hinausragt und das eine Höhe von mindestens 2,30 m hat. Ein gegenüber den Außenwänden des Gebäudes zurückgesetztes oberstes Geschoss (Staffelgeschoss) ist nur dann ein Vollgeschoss, wenn es diese Höhe über mehr als zwei Drittel der Grundfläche des darunter liegenden Geschosses hat. Ein Geschoss mit geneigten Dachflächen ist ein Vollgeschoss, wenn es diese Höhe über mehr als drei Viertel seiner Grundfläche hat. Die Höhe der Geschosse wird von Oberkante Fußboden bis Oberkante Fußboden der darüberliegenden Decke, bei Geschossen mit Dachflächen bis Oberkante Dachhaut gemessen.
-(2) Als Grundstücksfläche im Sinne des Absatzes 1 gilt bei Grundstücken innerhalb des Geltungsbereiches eines Bebauungsplanes und innerhalb der im Zusammenhang bebauten Ortsteile (Innenbereich) die Fläche, die hinter der im Bebauungsplan festgesetzten Straßenbegrenzungslinie liegt und von der Erschließungsanlage erschlossen wird. Ist keine Straßenbegrenzungslinie festgesetzt, ist die tatsächliche Straßengrenze maßgebend.
-(3) Als Grundstücksfläche der erschlossenen Grundstücke im Sinne des Absatzes 1 gilt bei Grundstücken, die außerhalb des Geltungsbereiches eines Bebauungsplanes liegen und die nicht insgesamt dem Innenbereich zuzuordnen sind,
-a) die Fläche zwischen der gemeinsamen Grenze der Grundstücke und der Erschließungsanlage und einer im Abstand von 40 m dazu verlaufenden Linie. Grundstücksteile, die lediglich die wegemäßige Verbindung zur Erschließungsanlage herstellen, bleiben bei der Bestimmung der Grundstückstiefe unberücksichtigt.
+(2) Als Grundstücksfläche im Sinne des Absatzes 1 gilt bei Grundstücken innerhalb des Geltungsbereichs eines Bebauungsplans, der Festsetzungen über Art und Maß der baulichen Nutzung trifft, die Fläche, die hinter der im Bebauungsplan festgesetzten Straßenbegrenzungslinie liegt und von der Erschließungsanlage erschlossen wird. Ist keine Straßenbegrenzungslinie festgesetzt, ist die tatsächliche Straßengrenze maßgebend.
+(3) Bei Grundstücken, für die planungsrechtliche Festsetzungen über Art und Maß der baulichen Nutzung nicht bestehen, gilt als Grundstücksfläche im Sinne des Absatzes 1
+a) die Fläche zwischen der gemeinsamen Grenze der Grundstücke und der Erschließungsanlage und einer im Abstand von 40 m dazu verlaufenden Linie. Grundstücksteile, die lediglich die wegemäßige Verbindung zur Straße herstellen, bleiben bei der Bestimmung der Grundstückstiefe unberücksichtigt.
 
 Seite 5 von 9
 
@@ -318,5 +318,5 @@ b) diese gärtnerisch gestaltet sind.
 Seite 9 von 9
 
 § 10 Immissionsschutzanlagen Bei Anlagen zum Schutz von Baugebieten gegen schädliche Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes werden die Art, der Umfang, die Merkmale der endgültigen Herstellung sowie die Verteilung des beitragsfähigen Erschließungsaufwandes durch Satzung im Einzelfall abweichend oder ergänzend geregelt.
-§ 11 Inkrafttreten Diese Satzung tritt rückwirkend zum 01.01.2007 in Kraft. - ABl StK 2001, S. 289, 2004, S. 106, S. 876, 2005, S. 640, 2006, S. 889, 2007, S. 576, 2009, S. 175 -
+§ 11 Inkrafttreten Die Satzung tritt rückwirkend zum 01.01.2008 in Kraft. - ABl StK 2001, S. 289, 2004, S. 106, S. 876, 2005, S. 640, 2006, S. 889, 2007, S. 576, 2009, S. 175, S. 1087, S. 1088 -
 Seite 10 von 9
