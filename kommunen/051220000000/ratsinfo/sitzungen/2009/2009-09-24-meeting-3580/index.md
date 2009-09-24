@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-09-24T16:00:00+02:00
+- Ende: 2009-09-24T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZSwG6Xlri4sRtOWSWTtx-Hc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3580
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf0yFQptza2p79NWzAC4mFcu9W6MvpE6ljMt1we6lOLY/Oeffentliche_Niederschrift_Rat_24.09.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Neuorganisation des Revisionsdienstes
+- TOP 4: Durchführung eines Verfahrens der bürgerbeteiligten Haushaltssicherung
+- TOP 5: Außerplanmäßige Bewilligung von Mitteln zur Umsetzung des Parkraumkonzeptes an Verwaltungsgebäuden
+- TOP 6: Maßnahmen und Verfahren zur Haushaltssicherung
+- TOP 7: Jahresabschluss 2008 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 8: Endgültige Eröffnungsbilanz des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 9: Jahresabschluss 2008 des Technischen Betriebes Straßen und Grün der Stadt Solingen (TBSG)
+- TOP 10: Endgültige Eröffnungsbilanz des Technischen Betriebes Straßen und Grün der Stadt Solingen (TBSG)
+- TOP 11: Jahresabschluss 2008 der EntsorgungsBetriebe Solingen
+- TOP 12: Jahresabschluss 2008 der EntsorgungsBetriebe Solingen - Müllheizkraftwerk -
+- TOP 13: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter
+- TOP 14: Zusammenlegung der Veterinär- und Lebensmittelüberwachungsämter
+- TOP 15: Vorschlagsliste für die Berufung der ehrenamtlichen Richterinnen und Richter beim Landessozialgericht Nordrhein-Westfalen
+- TOP 16: Vorschlagsliste für die Berufung der ehrenamtlichen Richterinnen und Richter
+- TOP 17: II. Änderungssatzung zur Marktgebührensatzung der Stadt Solingen
+- TOP 18: 2. Änderung der Ordnungsbehördlichen Verordnung
+- TOP 19: Altenzentren der Stadt Solingen
+- TOP 20: Informationen über Ein-Euro-Jobs
+- TOP 21: Stellenplan 2009
+- TOP 22: Stellenplan 2009
+- TOP 23: Ordnung über die Erhebung von privatrechtlichen Entgelten für die Nutzung der Parkplätze am Theater und Konzerthaus
+- TOP 24: Friedrich-List-Berufskolleg
+- TOP 25: Jahresabschluss 2008 des Zweckverbandes Bergische Volkshochschule
+- TOP 26: Neufassung der Entgeltordnung für das Stadtarchiv Solingen
+- TOP 27: Umsetzung Konjunkturpaket II - Sicherung des Rechtsanspruchs für 3 - 6 jährige Kinder als Folge des U 3 - Ausbaus
+- TOP 28: Umsetzung Konjunkturpaket II
+- TOP 29: Erklärung nach § 87 Gemeindeordnung NRW
+- TOP 30: Bäderkonzept
+- TOP 31: Hallenbad Solingen
+- TOP 32: Änderung/Aktualisierung der Maßnahmenliste zum Konjunkturpaket II
+- TOP 33: Ehrenamtskarte NRW
+- TOP 34: Bauleitplanung Wuppertaler Straße/ gegenüber Schulte vom Brühl
+- TOP 35: Bauleitplanung Siebels
+- TOP 36: Bauleitplanung An den Eichen
+- TOP 37: Bauleitplanung Ritterstraße
+- TOP 38: Verschiedenes
+- TOP 39: Ladezeiten der Vorlagen aus dem Ratsinformationssystem des Internetauftritts der Stadt Solingen
+- TOP 40: Bauleitplanung Cronenberger Straße/Konrad-Adenauer-Straße: Rathausneubau
+- TOP 41: "Halbtagstätigkeit" eines Dezernenten
+- TOP 42: Parkplätze Solingen Hauptbahnhof
+- TOP 43: Mietverhältnis Civitec
+- TOP 44: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Quartal 2009
+- TOP 45: Brücke Holunderweg
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Beförderung von Beamten
+- TOP 4: Altenzentren der Stadt Solingen
+- TOP 5: Bestellung eines Betriebsleiters für die Altenzentren der Stadt Solingen
+- TOP 6: Betrauung der Stadtwerke Solingen GmbH - Verkehrsbetrieb
+- TOP 7: Abschluss eines Löschwasservertrages und Änderung des Konzessionsvertrages mit der Stadtwerke Solingen GmbH
+- TOP 8: Abschluss eines Löschwasservertrages und Änderung des Konzessionsvertrages mit der Stadtwerke Solingen GmbH
+- TOP 9: Hallenbad Solingen
+- TOP 10: Verschiedenes
+- TOP 11: Bauleitplanung An den Eichen
+- TOP 12: Bauleitplanung Ritterstraße
