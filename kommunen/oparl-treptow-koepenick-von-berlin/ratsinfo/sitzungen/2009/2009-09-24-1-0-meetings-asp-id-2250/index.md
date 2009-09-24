@@ -1,0 +1,86 @@
+# 33. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-09-24T16:30:00+02:00
+- Ende: 2009-09-24T21:45:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2250
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2250
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Mündliche Anfragen - beantwortet
+- TOP 6: Informationen der BzBmin - erledigt
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-32 - im Ausschuss abgelehnt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Wahl einer Bürgerdeputierten für den Ausschuss für Schulentwicklung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Evangelische Kirchengemeinde Berlin-Rahnsdorf (SM 941) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Schulförderverein "Freunde der Grundschule an der Wuhlheide" (SM 923) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Förderverein der Bouché-Grundschule e. V. (SM 942) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für "Schule ohne Rassismus - Schule mit Courage" (SM 947) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Benennung des im Zuge des Bauvorhabens "Stadtplatz am Kaisersteg" ausgebauten Geh- und Radweges (Flurstück 165 und 208), im Ortsteil Oberschöneweide zwischen Wilhelminenhofstraße 79 und 82 unmittelbar unter dem technischen Denkmal "Kranbahn" gelegen,in "Unter der Kranbahn" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Benennung des im Zuge des Bauvorhabens "Stadtplatz am Kaisersteg" ausgebauten Platzes, im Ortsteil Oberschöneweide zwischen Laufener Straße, dem Geh- und Radweg "Unter der Kranbahn" und der Fußgängerbrücke "Kaisersteg" gelegen, in "Platz am Kaisersteg" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Vertiefende Untersuchung zur Bahnhofstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Aktualisierung der bezirklichen Sozialdaten - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Harry-Potter-Spielplatz und dessen Umgebung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Grundschule am Pegasuseck - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Verkehrssicherheit Alemannenstraße zwischen Germanenstraße und Preußenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: FahrRat für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Beseitigung von seit Jahren bekannten Straßenschäden in der Coloniaallee/Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: 2. Änderungsbeschluss zum Bezirksamtsbeschluss Nr. 267/94 vom 31.10.1994 für den Bebauungsplanentwurf XVI-78 ("Schwefelberg") hier: Reduzierung und Teilung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Parken am Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Hallennutzungszeiten für Studierende - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Ausweitung des Berechtigtenkreises für die Entgelt-Ermäßigung in der VHS Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Dahme-Radweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Querung von Kopfsteinpflasterstraßen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Aufbau eines freien WLAN-Systems in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Sonnenschutz Spielplatz Zum Alten Windmühlenberg - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Informationen des Bezirksamtes im Bezug auf Anträge zum Sachenrechtsbereinigungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-55 ("Dahmestadt") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan 9-47 ("Uferweg Oberschöneweide") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Bebauungsplan XVI-42 ("Wendenschloßstraße / Segewaldweg") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.4: Inkraftsetzen des Pandemieplanes - überwiesen
+- TOP 13.5: Bebauungsplan XVI-36 ("Kaufhalle Siemensstraße und Umgebung") hier: Beschluss zur prioritären Fortsetzung des Bebauungsplanverfahrens und Umsetzung der Planung in 2010 in Kenntnisnahme der materiellen Auswirkungen für das Bezirksamt - überwiesen
+- TOP 13.6: Benennung des in Müggelheim liegenden öffentlichen Straßenabschnitts der Straße 34, vom Landschaftsschutzgebiet am Bauersee bis einschließlich der Grundstücksnummern 11/11A und 12, in "Am Bauersee" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Bebauungsplanverfahren XV-30 ("Treptowers") hier: Inhaltliche Änderungen zum Bebauungsplanentwurf XV-30 vom 22.12.1994 mit Deckblatt vom 21.07.1997 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Teilnahme an Veranstaltung zur Todesstrafe in Belarus und Japan - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Kita-Fahrten - überwiesen
+- TOP 14.3: Ruine in der Siriusstraße (Altglienicke) - mit Änderungen in der BVV beschlossen
+- TOP 14.4: Ersatzverkehr in Spindlersfeld - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Kinderschutz - überwiesen
+- TOP 14.6: Lärmminderung in der Salvador-Allende-Straße - überwiesen
+- TOP 14.7: Parksituation im Altglienicker Märchenviertel - überwiesen
+- TOP 14.8: Fahrradstellplätze am S-Bahnhof Adlershof - überwiesen
+- TOP 14.9: Woche der Kinderrechte - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Querungsmöglichkeit in der Späthstraße - überwiesen
+- TOP 14.11: Marode Lärmschutzwand an der A 117 in der Ortslage Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Informationsveranstaltung zum Wohnteilhabegesetz - überwiesen
+- TOP 14.13: Nachträgliche Verlängerung von Schutzfristen für Kleingartenanlagen - überwiesen
+- TOP 14.14: Überlassung von Räumlichkeiten an Parteien - überwiesen
+- TOP 14.15: Obdachlosenwohnheim in der Hartriegelstraße - überwiesen
+- TOP 14.16: Situation im Jobcenter für unter 25-Jährige verbessern - überwiesen
+- TOP 14.17: Aktionstag "Gartendenkmal Treptower Park aufräumen" - überwiesen
+- TOP 14.18: Unterrichtung der BVV zu Baumaßnahmen der Wasserbetriebe - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Dienstleistungsangebote der Deutschen Post AG im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Lokale Agenda 21 - überwiesen
+- TOP 14.21: Kulturführer für Treptow-Köpenick erstellen - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: "Schule ohne Rassismus - Schule mit Courage" - vertagt
+- TOP 15.2: Fallkosten-Controlling für Transferleistungen - beantwortet
+- TOP 15.3: Zukunft des Zentrums für Demokratie - beantwortet
+- TOP 15.4: Freiwilligenzentrum Sternenfischer - beantwortet
