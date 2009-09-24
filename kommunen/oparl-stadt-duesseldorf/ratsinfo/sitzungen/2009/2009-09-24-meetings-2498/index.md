@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-09-24T14:00:00+02:00
+- Ende: 2009-09-24T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2498
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2498
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00134510.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00134510.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00134510.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 4: Anfragen
+- TOP 5: Anfrage Bü90/Grü: Evaluation der wohnungspolitischen Maßnahmen des STEK - beantwortet
+- TOP 6: Anfrage Bü90/Grü: Ansprechpartner/innen für Wohnprojekte in der Verwaltung - beantwortet
+- TOP 7: Anfrage RF Bellstedt: Fluglärm in Düsseldorf - beantwortet
+- TOP 8: Anfrage Linke: - beantwortet
+- TOP 9: Anträge
+- TOP 10: Antrag Linksfraktion: ARGE Süd - mehrheitlich abgelehnt
+- TOP 11: Antrag der Linksfraktion: Legale Graffitiflächen - mehrheitlich abgelehnt
+- TOP 12: Antrag Linksfr.: Kleingartenanlagen - mehrheitlich abgelehnt
+- TOP 13: Antrag CDU u. FDP; Europ. Jahr z. Bekämpfung von Armut .................... - mehrheitlich beschlossen
+- TOP 14: Antrag CDU u. FDP. Sperrzeitenregelung - einstimmig beschlossen
+- TOP 15: Antrag SPD. Lärmschutz - zur Kenntnis genommen
+- TOP 16: Antrag SPD. Quartierspaten - mehrheitlich abgelehnt
+- TOP 17: Antrag Linksfr.: Altersteilzeit verlängern - mehrheitlich abgelehnt
+- TOP 18: Antrag Linksfr.: Lärmschutz Fleher Brücke - mehrheitlich abgelehnt
+- TOP 19: Antrag Linksfr.: Stadthaus Mühlenstr. - zurückgezogen
+- TOP 20: Antrag Bü90/Grü: Fahrrad-Express-Routen - mehrheitlich abgelehnt
+- TOP 21: Rechenschaftsbericht zur Jahresrechnung 2008 - einstimmig beschlossen
+- TOP 22: Prüfung der Jahresrechnung 2008, Entlastung des Oberbürgermeisters - einstimmig beschlossen
+- TOP 23: Kämmererliste - mehrheitlich beschlossen
+- TOP 24: Umsetzung des Konjunkturpaketes II - einstimmig beschlossen
+- TOP 25: Kö-Bogen / Wehrhahn-Linie: - mehrheitlich beschlossen
+- TOP 26: Niederkasseler Str. 36 Neubau Offene Ganztagsschule und Gymnastikhalle - Ausführungs- und Finanzierungsbeschluss - - mehrheitlich beschlossen
+- TOP 27: Ickerswarder Straße -AuF- - mehrheitlich beschlossen
+- TOP 28: Spichernplatz - Errichtung eines Aufstellgleises/ AuF-Beschluss - mehrheitlich beschlossen
+- TOP 29: Brandschutz- und Unterhaltungsmaßnahmen U-Bf. Victoriaplatz/Klever Straße - mehrheitlich beschlossen
+- TOP 30: Grünzug Kaiserswerth - mehrheitlich beschlossen
+- TOP 31: üpl.-Mittelbereitstellung HzE - mehrheitlich beschlossen
+- TOP 32: Einführung einer Ermäßigung der Niederschlagswassergebühren für Gründächer von Abwasserkunden zum 01.01.2010 - Beschluss - - mehrheitlich beschlossen
+- TOP 33: Straßenbenennungen im Bereich Le Quartier Central - mehrheitlich beschlossen
+- TOP 34: 4. Satzung zur Änderung der Satzung über Ehrenauszeichnungen - einstimmig beschlossen
+- TOP 35: JFE Leichlinger Straße - Arche e.v. - mehrheitlich beschlossen
+- TOP 36: Lokale Zentren als Kristallisationspunkte für Gemeinwesenarbeit - mehrheitlich beschlossen
+- TOP 37: Annahme einer Zuwendung - einstimmig beschlossen
+- TOP 38: Beschlusskomtrolle - mehrheitlich beschlossen
+- TOP 39: Verzeichnis der Vereins-und Verbandsmitgliedschaften - zur Kenntnis genommen
+- TOP 40: Genehmigung 60er
+- TOP 41: Genehmigung 60er: Eulerstarße 46 - mehrheitlich beschlossen
+- TOP 42: Genehmigung 60er: Kita Benninghauser Straße - mehrheitlich beschlossen
+- TOP 43: Genehmigung 60er-Beschluss: Schulerweiterungsbau Goethe-Gymnasium - mehrheitlich beschlossen
+- TOP 44: Genehmigung einer nach § 60 GO NRW getroffenen Entscheidung - mehrheitlich beschlossen
+- TOP 45: Planungsmaßnahmen
+- TOP 46: FNP-Änderung Nr. 129 - Nördlich Plockstraße - Plan - mehrheitlich beschlossen
+- TOP 47: FNP-Änderung Nr. 143 - Grafenberger Allee / Ivo-Beucker-Straße - einstimmig beschlossen
+- TOP 48: BPl. 5778/038-Grafenberger Allee / Ivo-Beucker-Str. - einstimmig beschlossen
+- TOP 49: BPl. 5971/022-Nürnberger Straße leer - einstimmig beschlossen
+- TOP 50: BPl. 5971/023-Niederheider Straße - einstimmig beschlossen
+- TOP 51: B-Plan Nr. 6274/024 - Am Pfaffenbusch - einstimmig beschlossen
