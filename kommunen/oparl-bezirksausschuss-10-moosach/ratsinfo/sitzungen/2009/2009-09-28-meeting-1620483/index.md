@@ -1,0 +1,88 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-09-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620483
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620483
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Denkmal- / Ensembleschutz
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Plangutachten zur Neugestaltung des Memminger Platzes; Protokoll der Jurysitzung vom 31.07.09
+- TOP 3.2.: "Graues Park- and Ride" im Umfeld des Memminger Platzes
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Vorstellung des Beleuchtungskonzepts der U-Bahnhöfe Moosach und Moosacher St.-Martins-Platz durch das Baureferat am 14.09.09
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Behindertenparkplätze Ärztehaus Hanauer Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 4.4.1.: Durchfahrt von der Emmy-Noether-Straße zum Georg-Brauchle-Ring: Verbesserung der Verkehrssicherheit
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Kath. Pfarramt St. Martin: Material für Sportprojekt
+- TOP 5.2.: Änderungsantrag zu einem bereits gewährten Zuschuss aus dem Budget des BA 10; Jugendzentrum "orange planet": Musical-Projekt der Hauptschule an der Haldenbergerstraße
+- TOP 6: Anhörungen
+- TOP 6.1.: Bericht zu REGSAM; REGSAM neu denken - Vertragszeitraum 2010-2012
+- TOP 6.2.: Bebauungsplan für die Eggartensiedlung (Empfehlung Nr. 08-14 / E 00251 der Bürgervrsammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl vom 26.03.09)
+- TOP 6.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014
+- TOP 6.4.: Pelkovenstraße zwischen Moosacher St.-Martins-Platz und Feldmochinger Straße; Straßenwiederherstellung nach U-Bahnbau
+- TOP 6.5.: Ernst-Platz-Str. 39 - 41 f; Fällung einer Zeder
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Optimierung der Fußgängerampel in der Dachauer Straße auf Höhe Leipziger Straße 1 (probeweise Umstellung auf Daueranforderung für Fußgänger zu den schulrelevanten Zeiten)
+- TOP 7.2.: Zweirichtungsradweg Allacher Straße (wird umgesetzt)
+- TOP 7.3.: Leistungsprogramm der MVG für die Fahrplanperiode 2010; u.a. Einrichtung einer zusätzlichen Haltestelle für die Buslinie 175, Bushaltestelle Pelkovenstraße / Ecke Feldmochinger Straße Richtung OEZ, Teilung der Buslinie 162 ab Amalienburgstraße (Anträge BA 10 werden nicht umgesetzt)
+- TOP 7.4.: Anfahrt der Haltestelle Olympia-Einkaufszentrum Ost durch die Linie 175 (wird nicht umgesetzt)
+- TOP 7.5.: Einsatz eines Schulbusses aufgrund besonderer Gefährlichkeit; Transfer der Schülerinnen und Schüler zwischen Wohnsiedlung "In den Kirschen" und Amphionparkschule (nicht möglich)
+- TOP 7.6.: Verbindungsweg zwischen Hartmannshofen und S 1 - Haltestelle (Umsetzung voraussichtlich ab Frühjahr 2010)
+- TOP 7.7.: Memminger Platz / Untermenzinger Straße, Oberflächenwiederherstellung nach U-Bahn-Bau (keine Kiss&Ride-Plätze in der Buswendeschleife; Prüfung, ob Fußgängerunterführung zwischen Bunzlauer Straße und Memminger Platz für Radverkehr freigegeben werden kann durch KVR)
+- TOP 7.8.: Radweg an der Südseite des Georg-Brauchle-Rings auf Höhe des Abfallwirtschaftsamtes (Schließung der vorhandenen Radweglücke)
+- TOP 7.9.: Erneuerung der Tischtennisplatte, Erweiterung der Teerfläche und Aufstellung weiterer Mülleimer am Basketballplatz an der Triebstraße (wird größtenteils umgesetzt)
+- TOP 7.10.: Ersatz der offenen Mülleimer durch abgedeckte Modelle (wird nicht umgesetzt)
+- TOP 7.11.: Aufwertung des Spielplatzes am Günzburger Platz (Planung wird derzeit erarbeitet)
+- TOP 7.12.: Aufstellung einer Schaukel am Spielplatz Eggmühler Straße / Haylerstraße (erfolgt im September)
+- TOP 7.13.: Feldmochinger Str. 38; Schäden am denkmalgeschützten Gebäude (wird überprüft)
+- TOP 7.14.: Satzung der LH München über das Verbot der Zweckentfremdung von Wohnraum; Gerastraße (wird überprüft)
+- TOP 7.15.: Daheim in München (Einbürgerungsfeier am 19.10.09 wird derzeit geplant)
+- TOP 7.16.: Parkprobleme in der Dachauer Straße auf Höhe Hausnr. 487 - 489
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Straßenunterhaltsarbeiten Pelkovenstraße
+- TOP 8.4.: Straßenunterhaltsmaßnahmen Uptown Munich - Straßen im Umfeld (Gärtner-, Dürr- und Hans-Bunte-Straße)
+- TOP 8.5.: Feldmochinger Straße, südlich Scharnhorststraße - Einrichtung einer Kurzparkzone
+- TOP 8.6.: Hünefeld- / Gärtnerstraße, Haltverbot im erweiterten Kreuzungsbereich; Entfernung des Zeitzusatzes
+- TOP 8.7.: Ampelschaltung im Bereich Wintrichring Höhe "In den Kirschen"
+- TOP 8.8.: Pächterwechsel "Burlon`s Ristorante", Hanauer Str. 68
+- TOP 8.9.: Feuerwerk am 22.08.09 auf dem Gelände der Gaststätte "Fasanerie", Hartmannshofer Str. 20
+- TOP 8.10.: Veranstaltung in der städtischen Grünanlage Merseburger Straße / Thornerstraße; Boule-Fest mit Boule-Turnier am 05.09.09
+- TOP 8.11.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für den Betrieb von Müllsammelfahrzeugen
+- TOP 8.12.: Statistikblatt Kinderbetreuungsplätze in der LHM - Sozialreferat 01.07.09
+- TOP 8.13.: Blindensignal am Moosacher Stachus
+- TOP 8.14.: Baumfällungen Schule Welzenbachstraße
+- TOP 8.15.: Fällungsgenehmigung Netzerstr. 33
+- TOP 8.16.: Situationsbericht Suchtverhalten
+- TOP 8.17.: 18.jetzt - Organisation der BAs
+- TOP 8.18.: Einhaltung der ursprünglichen Flughöhen über dem Stadtgebiet
+- TOP 8.19.: Perspektive München; Fortschreibung des Zentrenkonzeptes, Schwerpunkt Nahversorgung
+- TOP 8.20.: Radverkehr in München; Grundsatzbeschluss zur Förderung des Radverkehrs in München
+- TOP 8.21.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013; Kinderkrippe Feldmochinger Str. 14 (Babywatch gGmbH) mit 48 Kinderkrippenplätzen, Neubau
+- TOP 8.22.: Ausweisung von Vorranggebieten für die Installation von Windrädern
+- TOP 8.23.: Wohnen in München IV: (Erfahrungsbericht für das Jahr 2008 mit Ergänzungen)
+- TOP 8.24.: Ablehnung der Express-S-Bahn auf der S-1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus
+- TOP 8.25.: Perspektive München; Langfristige Siedlungsentwicklung
+- TOP 8.26.: Vorhabensbezogener Bebauungsplan mit Grünordnung Nr. 1821 b, Hanauer Straße (östlich), Pelkovenstraße (nördlich), westlich und südlich des Olympia-Einkaufszentrums (OEZ) - Büro- und Geschäftshaus an der Pelkovenstraße - (Teiländerung des Beb.Pl.Nr. 578), Qualifizierung des Aufstellungsbeschlusses Nr. 1821 vom 18.02.1998
+- TOP 8.27.: SWM Jahresbericht 2008
+- TOP 8.28.: München in Zahlen 2009
+- TOP 8.29.: Münchner Statistik; 1. Quartalsheft, Jahrgang 2009
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
