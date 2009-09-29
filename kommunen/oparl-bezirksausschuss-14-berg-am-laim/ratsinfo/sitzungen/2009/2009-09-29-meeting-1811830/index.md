@@ -1,0 +1,93 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-09-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1811830
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1811830
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Baumkirchner Straße 33 - Errichtung eines Neubaus anstelle dreier Bestandsgebäude, gemeinsame Bebauung dreier Grundstücke (Baumkirchner Str. 33 + 35 / Neumarkter Str. 94)
+- TOP 3.2.: Schüleinplatz 5 - Neubau einer Wohnanlage (8 WE) mit Tiefgarage
+- TOP 3.3.: Friedenstr. 10 - Optimolwerke - Brandschutzkonzept zu den Gastronomiebetrieben
+- TOP 3.4.: Grafinger Str. 6 - Kultfabrik - Gesamtplan mit Fluchtwegen und Flächen für die Feuerwehr
+- TOP 3.5.: Grafinger Str. 35 - Neubau eines Wohngebäudes mit Duplexgaragen
+- TOP 3.1.: Antrag zur Einbahnregelung in der Freisinger Straße
+- TOP 3.2.: Erteilung von Sondernutzungserlaubnissen für Fahrradständer; Fahrradabstellkonzept
+- TOP 3.3.: Wiedererrichtung der beseitigten Wartehäuschen an der Straßenbahnhaltestelle Kreillerstr., beide Fahrtrichtungen - Antwortschreiben des Referates für Arbeit und Wirtschaft
+- TOP 3.4.: Wiedererrichtung der beseitigten Wartehäuschen an der Straßenbahnhaltestelle Kreillerstr., beide Fahrtrichtungen - Bürgerschreiben aufgrund des Artikels in der Wochenzeitung hallo
+- TOP 3.5.: Antrag auf Einrichtung eines Haltverbots an der Halfinger Straße, Ecke Schatzbogen
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Sicherung der finanziellen Grundlage für die Fortführung des Modellversuchs Ganztagsschule an der Grafinger Straße
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Beschlussvorlage "Soziale Stadt" 2009 a) Stand der Umsetzung des Programms "Soziale Stadt" in den Sanierungsgebieten am Mittleren Ring Südost b) Weitere Beauftragung der Quartiersmanagements c) Städtebauförderung "Soziale Stadt" 2009
+- TOP 3.2.: Einführung des Amtes des Integrationsbeauftragten im BA 14 - Antrag der Grünenfraktion
+- TOP 3.1.: Kinderinsel e.V. Haidhausen - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.2.: Kath. Pfarramt St. Pius - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.3.: Gedenkveranstaltung am 12.11.2009 - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Josephsburgstraße - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.2.: Hachinger-Bach-Str. 34 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.3.: Großvenedigerstr. 33 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.4.: Neumarkter Str. 74 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.5.: Hansjakobstraße 148 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.6.: Berg-am-Laim-Str. 84 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.7.: Berg-am-Laim-Str. 90 - 96 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.8.: Praschlerstr. 29 - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.9.: Truderinger Str. - Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Grafinger Str. 6 - "Mondscheinbar" (vorher JJ 1) - Antrag auf unveränderte Fortführung
+- TOP 4.3.: Grafinger Str. 6 - "Cohibar" - Antrag auf unveränderte Fortführung
+- TOP 4.4.: Friedenstr. 10 - "Grinsekatze: Der Club" (ehemals der Keller) - Unveränderte Fortführung
+- TOP 4.5.: Berg-am-Laim-Str. 65 - "Zum Bräumeister" - Antrag auf unveränderte Fortführung
+- TOP 4.6.: PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung a) Grundsatzbeschluss Rahmenbedingungen und Trends Potenziale Schlussfolgerungen b) Weiteres Vorgehen c) Vergabe eines Werkauftrags
+- TOP 4.7.: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben ?Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)? im Rahmen der Fördermaßnahme ?Wettbewerb Energieeffiziente Stadt? des Förderkonzeptes ?Grundlagenforschung Energie 2020+?
+- TOP 4.8.: Ausweisung von Vorranggebieten für die Installation von Windrädern Antrag Nr. 02-08 / A 04177 der ÖDP vom 17.01.2008
+- TOP 4.1.: Taktanpassung der Buslinie 185 - Antwortschreiben der MVG
+- TOP 4.2.: Haltverbotszone in der Josephsburgstraße östlich Else-Rosenfeld-Straße und Schildensteinstraße: Änderung der Zeitzusätze
+- TOP 4.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Mühldorfstraße für Anwesen Ampfingstraße 24
+- TOP 4.4.: Ablehnung der Express-S-Bahn auf der S-1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie einer Untertunnelung für den Fall des Baus
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: ?Integration macht Schule im Quartier? Stadtteil- und interkulturell orientiertes Projekt zur Elternarbeit in den Grund-, Haupt- und Förderschulen im Sanierungsgebiet ?Innsbrucker Ring/Baumkirchner Straße? in Ramersdorf und Berg am Laim, gefördert durch das Bund-Länder- Programm ?Soziale Stadt?
+- TOP 4.2.: Nachbarschaftstreff Maikäfersiedlung - Trägerschaftsauswahl für ein Projekt der Quartierbezogen Bewohnerarbeit in der Maikäfersiedlung / Berg am Laim, Stadtbezirk 14
+- TOP 4.3.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013 - Kinderkrippe Dingolfinger Str. 11 (AWO München gemeinnützige Betriebs-GmbH) mit 48 Kinderkrippenplätzen - Ausstattung - Investitionskostenzuschuss in Höhe von 60.000 ?
+- TOP 4.4.: Kinderbetreuungsplätze in der LHM - Sozialreferat - mit Stand 01.07.2009
+- TOP 4.5.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1.Bagatellgrenze bei Förderquoten; Einführung als ?Kann-Bestimmung? bei Befreiungen nach § 31 Absatz 2 Baugesetzbuch (BauGB) 2.Abschaffung der mietwirksamen, ratenweise fälligen Kaufpreisbestandteile (?mietpreisrelevante Geldleistungen?) bei städtischen Grundstücken für die Einkommensorientierte Förderung - EOF 3.Einführung einer einheitlichen Regelung für Mietsteigerungen im geförderten Mietwohnungsbau auf städtischen Grundstücken (München Modell-Miete, München Modell-Genossenschaften, KomPro A und KomPro B, EOF)
+- TOP 4.1.: Elternbeirat der Grundschule an der Berg-am-Laim-Straße - Verwendungsnachweis
+- TOP 4.2.: Kinder- und Jugendtreff Zeugnerhof - Verwendungsnachweis
+- TOP 4.3.: Caritas Sozialdienst - Verwendungsnachweis
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Unterrichtung über das Fällen von Gefahrenbäumen auf öffentlichem Grund
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
