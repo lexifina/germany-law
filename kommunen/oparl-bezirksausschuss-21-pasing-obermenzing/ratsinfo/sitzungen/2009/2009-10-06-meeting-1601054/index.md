@@ -1,0 +1,118 @@
+# BA 21 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 21: Pasing-Obermenzing
+- Beginn: 2009-10-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/362
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1601054
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1601054
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.1: Genehmigung des Protokolls der letzten Sitzung und der TO
+- TOP 1.1.2: Bericht des Vorsitzenden zu den Baustellen im Pasinger Zentrum
+- TOP 2: Bürgeranliegen
+- TOP 2.2.1: Bürgersprechstunde
+- TOP 2.2.2: Bürgerpost an den BA 21
+- TOP 2.1.: - Parksituation Neufeldstraße in Pasing - Parkprobleme in der Neufeldstraße, insbesondere vor Haus-Nrn. 1 bis 5
+- TOP 2.2.: Vermüllung in Pasing (Straßen und Grünanlagen) - Zeit für ein Ramadama?
+- TOP 2.3.: Ladenzentrum Schrämelstraße 90
+- TOP 2.4.: Verkehrskonzept Pasing-Obermenzing, hier: Verkehrsberuhigung Villenkolonie I
+- TOP 2.5.: Schulweg Carossastraße / Peter-Vischer-Straße (Nähe Wensauerplatz)
+- TOP 2.6.: Neugestaltung Pasinger Zentrum
+- TOP 2.7.: Verlegung der Pippinger Straße im Bereich der Kirche St. Wolfgang (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 2.8.: Errichtung einer zweigruppigen Kinderkrippe in München-West (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 2.9.: Verkehrsproblematik im Zusammenhang mit der Eröffnung des neuen Kindergartens beim Klinikum Pasing
+- TOP 2.10.: Antrag auf Aufnahme in die Denkmalliste: Zweites Schulhaus in Pasing am Klostergarten; Umbau des Instituts der Englischen Fräulein, Institutstraße 1; Ehemaliger Bickl-Hof an der Josef-Retzer-Straße 17/19
+- TOP 2.11.: Bauvorhaben in der Döbereinerstraße; Stellungnahme sowohl zum Bauvorhaben als auch zu den vorgesehenen Baumfällungen
+- TOP 2.12.: Suche nach einer Fläche für Veranstaltungen mit Münchner Kindern (?Naturindianer?)
+- TOP 2.13.: Fahrrad- und Gehweg ?An der Schlossmauer? (Südwestseite des Nymphenbur- ger Parks)
+- TOP 3: Bericht des UA Umwelt und Natur + Beschlussfassung über Empfehlungen
+- TOP 3.3.1: Vollzug der Baumschutzverordnung
+- TOP 3.1.: An der Würm, 2 Birken
+- TOP 3.2.: Traunseestraße 10, 1 Nussbaum
+- TOP 3.3.: Gustav-Meyrink-Straße 18, 1 Ahorn
+- TOP 3.4.: Villacher Straße 51, 2 Birken
+- TOP 3.5.: Flemingstraße 12, 1 Roßkastanie
+- TOP 3.6.: Alte Allee 31, 1 Esche, 1 Spitzahorn
+- TOP 3.7.: Döbereinerstraße 28, Baumfällungen
+- TOP 3.8.: Baumfällung an der Bushaltestelle Lortzingstraße
+- TOP 3.9.: Maria-Eich-Straße 33, 1 Ahorn
+- TOP 3.10.: Freseniusstraße 40, 1 Buche, 1 Kiefer, 1 Esche
+- TOP 3.11.: Nußhäherstraße 14, 2 Stieleichen, 1 Hainbuche
+- TOP 3.12.: Franz-Hauser-Weg 22, 1 Thuje
+- TOP 3.13.: Fasanenstraße 26, 2 Thujen
+- TOP 3.14.: Scapinellistraße 15a, Baumbestandsplan
+- TOP 3.3.2: Gefahrenbäume
+- TOP 4: Bericht des UA Planung + Beschlussfassung über Empfehlungen
+- TOP 5: Bericht d UA Bau und verkehrliche Maßnahmen + Beschlussfassung über Empfehlungen
+- TOP 5.5.1: Vollzug der Zweckentfremdungsverordnung
+- TOP 5.1.: Anwesen in der Menzinger Straße; Abbruch und Neubau eines Wohnhauses (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 6: Bericht des UA Kultur und Heimatpflege + Beschlussfassung über Empfehlungen
+- TOP 7: Bericht des UA Soziales und Jugend + Beschlussfassung über Empfehlungen
+- TOP 7.7.1: Berichte der Beauftragten
+- TOP 8: Bericht des UA Budget + Beschlussfassung über Empfehlungen
+- TOP 9: Entscheidungen
+- TOP 9.2.: Gewährung eines Zuschusses aus dem BA-Budget: Antrag des Vereins Bayerische Philharmonie e.V. auf Zuwendung für die Ausstattung der neuen Proberäume (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10: Anhörungen
+- TOP 10.1.: Bauleitplanung in Nachbargemeinden: Gemeinde Gräfelfing, Bebauungsplan Nr. 26 B ? Erweiterung des Gewerbegebietes an der BAB A 96 / St 2063 neu (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10.2.: Umstufung der Kaflerstraße (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10.3.: Schaffung eines Kinos im Umfeld des S-Bahnhofs Pasing; Empfehlung Nr. 08-14 / E 00271 der Bürgerversammlung des 21. Stadtbezirkes am 23.04.09; Entwurf einer Beschlussvorlage für die Sitzung des Kulturausschusses am 01.10.09 (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10.4.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014; Anhörungsverfahren
+- TOP 10.5.: Bericht zu REGSAM, REGSAM neu denken - Vertragszeitraum 2010-2012; Beschlussvorlage für den Sozialausschuss am 15.10.09 (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10.6.: Beruhigung der Planegger Straße (Empfehlung Nr. 08-14 / E 00279 der Bürgerversammlung des Stadtbezirkes 21 Pasing-Obermenzing am 23.04.09); Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10.7.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013 und Art. 27 BayKiBiG, Kinderhaus Pippinger Str. 22 (GbR "An der Würm" und Minihaus München) mit 72 Kinderkrippenplätzen und 50 Kindergartenplätzen; Neubau und Aussattung (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 10.8.: Lortzingstraße, Flur-Nr. 1169/26; Antrag auf Errichtung von 10 Großflächen-Plakattafeln, Standort Lortzingstraße / Haberlandstraße
+- TOP 10.9.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013; Neubau Kinderkrippe Härtingerstraße mit 48 Kinderkrippenplätzen; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 01.12.09
+- TOP 10.10.: Paul-Gerhardt-Allee 34 - 36, Neubau eines Lebensmittel-Einzelhandelsmarktes; Tektur (Anbau eines Pfandraumes)
+- TOP 10.11.: Mergenthalerstraße 34, Neubau eines Einfamilienhauses mit Garage und Carport (Tektur)
+- TOP 10.12.: Kaspar-Kerll-Straße 5, Neubau von Einfamilienhäusern mit Garagen/Tiefgarage (Vorbescheid)
+- TOP 10.13.: Haidelweg 29, Nutzungsänderung im EG - Umbau von Lagerflächen zu Wohnungen, Bestandssanierung, Balkonanbauten; nachträgliche Genehmigung zweier DG-Wohnungen, Umbau im OG
+- TOP 11: Anträge und Anfragen
+- TOP 11.1.: CSU: Antrag: Zuwegung zum Carlhäusl in Obermenzing
+- TOP 11.2.: CSU: Antrag: Standorte für weitere KomPro-Häuser
+- TOP 11.3.: CSU: Anfrage: Kindergarten am Joseph-Haas-Weg
+- TOP 11.4.: CSU: Anfrage: Pasinger Zentrum - Kostenbeteiligungen an Straßenumbauten
+- TOP 11.5.: CSU: Anfrage: Aktualler Zeitplan Terminalgebäude / NUP
+- TOP 11.6.: CSU: Anfrage: Rutschgefahr im Westbad Pasing
+- TOP 11.7.: Antrag der Fraktionen: Aufenthaltsmöglichkeiten und Sicherheit auf den Pasinger Plätzen und im Pasinger Zentrum
+- TOP 12: Unterrichtungen
+- TOP 12.1.: Baumaßnahmen der Stadtwerke München GmbH (Listen vom 14.09.09, 21.09.09, 28.09.09)
+- TOP 12.2.: Baufälle im Stadtbezirk (Listen vom 07.09.-13.09.09, v. 14.09.-20.09.09, v. 21.09.-27.09.09)
+- TOP 12.3.: Vollzug der Baumschutzverordnung; Fällungsanträge im Stadtbezirk (Listen vom 07.09.-13.09.09, v. 14.09.-25.09.09, v. 21.09.-27.09.09)
+- TOP 12.4.: Amtsblatt Nr. 25, 26, 27
+- TOP 13: Stadtrats- und Ausschussbeschlüsse
+- TOP 13.1.: Kinder- und Jugendhilfeausschuss vom 22.09.09 - Errichtung eines Jugendhilfezentrums mit sozialpsychiatrischen Versorgungsleistungen in der Scapinellistraße 15a; Genehmigung des Nutzerbedarfsprogramms und Projektauftrag
+- TOP 13.2.: Ausschuss für Stadtplanung und Bauordnung vom 23.09.2009 - Reihenhaussiedlung zwischen Maria-Eich-Straße und Paosostraße; Regelung des Dachausbaus durch entsprechende Satzung bzw. Bebauungsplanänderung (Empfehlung Nr. 08-14 / E 00270 der Bürgerversammlung des 21. Stadtbezirkes am 23.04.09) - Wettbewerb "Denkmalschutz und Neues Bauen" 2008; Prämierung von Wettbewerbsbeiträgen - Ablehnung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus (Empfehlung Nr. 08-14 / E 00243 der Bürgerversammlung des STadtbezirkes 24 Feldmoching-Hasenbergl am 26.03.09) - Ausweisung von Vorranggebieten für die Installation von Windrädern - Sonderflughafen Oberpfaffenhofen, Sachstand - Beteiligung an einem vom Bundesministerium für Bildung und Forschung geförderten Forschungsvorhaben; "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ - Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen - Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln - PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung - Wohnen in München IV: A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe), B) Beschlussteil - Mehr Sozialwohnungen im 21. Stadtbezirk Pasing-Obermenzing (Empfehlung Nr. 08-14 / E 00260 der Bürgerversammlung des 21. Stadtbezirkes am 23.04.09)
+- TOP 13.3.: Kinder- und Jugendhilfeausschuss und Sozialausschuss in gemeinsamer Sitzung vom 13.10.09: - Haushaltsplan 2010, produkt- und zielorientierte Ansätze für den Bereich ?Förde- rung freier Träger? der Zentrale
+- TOP 14: Post an den BA
+- TOP 14.14.1: von der Stadtverwaltung
+- TOP 14.1.: Oberbürgermeister - Lärmschutz an der Nordseite der Bahnlinie München ? Augsburg zwischen den Bahnhöfen München-Langwied und München-Pasing; Errichtung einer Lärm- schutzwand entlang der Bahntrasse München ? Augsburg (Empfehlung Nr. 08-14 / E 00261 der Bürgerversammlung des 21. Stadtbezirkes am 23.04.09), Lärmschutz nördlich der Bahn nach Osten über die Lortzingstraße verlängern (Empfehlung Nr. 08-14 / E 00263 der Bürgerversammlung des 21. Stadtbezirkes am 23.04.09) (vertagt aus der BA-Sitzung am 15.09.09) - Errichtung einer Bedarfsampel für Fußgänger und Radfahrer in der Planegger Straße auf Höhe Hausnr. 94
+- TOP 14.2.: Direktorium - Zuwendung aus dem Budget des BA 21; Ausstellung der Initiative "gezeichnet Ott" vom 09.12.2008 - 18.01.2009 - Zuwendung aus dem Budget des BA 21; Fahnenweihe des Trachtenvereins D`Würmtaler-Stamm e.V. am 02.08.09 - Entscheidungsrecht für die Bezirksausschüsse bei der Aufstellung von Werbetafeln und Infosäulen (Antrag Nr. 08-14 / B 00862 des BA 21 vom 03.02.09) - Informationen der Antidiskriminierungsstelle für Menschen mit Migrationshintergrund (AMIGRA) - Zuwendung aus dem Budget des BA 21; Veranstaltung von REGSAM ?Ganz- tagsschulen im Münchner Westen? am 13.10.09 - Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Um- laufsperren (Antrag Nr. 08-14 / B 00851 des BA 21 vom 20.05.09)
+- TOP 14.3.: Gleichstellungsstelle für Frauen - Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 08.10.09 von 18.00 bis 20.00 Uhr, Rathaus am Marienplatz, Raum 109
+- TOP 14.4.: Baureferat - Verbesserungen rund um Schloss Blutenburg (Antrag Nr. 08-14 / B 01234 des BA 21 vom 16.06.09) - Planungsauftrag Dorfkern Obermenzing (BA-Antrag Nr. 08-14 / B 00951 vom 03.03.09) (vertagt aus der BA-Sitzung am 15.09.09) - Überbau Grundstück Haidelweg 5 (vertagt aus der BA-Sitzung am 15.09.09) - Kunst am Bau in Pasing (Antrag des BA 21 Nr. 08-14 / B 01406 vom 28.07.09) - Leistungsbilanzen des Baureferates, Hauptabteilungen Tiefbau und Gartenbau, anlässlich der Bürgerversammlung des Bezirksteils Obermenzing am 20.10.09 - Nordumgehung Pasing; Baumfällung in der Lortzingstraße sowie Teileröffnung am 08.10.09
+- TOP 14.5.: Referat für Gesundheit und Umwelt - Einladung zum Fachtag Pflanzenöl am 14.10.09 ab 14.00 Uhr im Bauzentrum München, Willy-Brandt-Allee 10 - Zusätzliche Informationsveranstaltung der DFS (Deutsche Flugsicherung GmbH) am 11.12.09 um 13.00 Uhr, Nordallee 34 am Flughafen München (S-Bahn-Hal- testelle Besucherpark)
+- TOP 14.6.: Kreisverwaltungsreferat - Geschwindigkeitsbeschränkung auf 40 km/h in der Bergsonstraße und der Alten Allee; Tempo 30 km/h vor dem Kindergarten Würmchen e.V. (Schr. des BA 21 vom 18.06.09) - Reduzierung der Geschwindigkeit in der Planegger Straße zwischen Gräfstraße und Peter-Putz-Straße auf 30 km/h - Georg-Deschler-Platz 4, Absolutes Haltverbot auf der Westseite der Fahrbahn; Verkehrsrechtliche Anordnung nach § 45 StVO (vertagt aus der BA-Sitzung am 15.09.09) - Verkehrssituation Pippinger Straße ? Geschwindigkeitsbeschränkung; Anord- nung von 30 km/h auch im Bereich der beiden Bushaltestellen ?Lochhausener Straße? und ?Steirerstraße?, Ausdehnung des Bereiches bis südlich Betzenweg (Schr. BA vom 11.07.08) (vertagt aus der BA-Sitzung am 15.09.09) - Straßenlärm in der Verdistraße, Verkehrslärmminderung durch reduzierte Ge- schwindigkeit; Antrag aus der Einwohnerversammlung vom 22.06.09 - Aufhebung des personenbezogenen Behindertenparkplatzes in der Bodenstedt- straße 10 - Verkehrssituation Schmaedelstraße
+- TOP 14.7.: Planungsreferat - Anbindung der Von-Kahr-Straße direkt an die A 8; Antrag aus der Einwohnerversammlung des BA 21 am 22.06.09 "Straßenlärm in der Verdistraße"; Zwischenmitteilung zum Bearbeitungsstand - Bürgerversammlung am 20.10.09; öffentlich geförderte Wohnungen im Stadtbezirk zum Stand 31.12.08 - Antrag auf Verlängerung der Auslauffrist für die Aufstellung der Skulpturengrup- pe ?Sich aufrichtende Halme? im Weiher vor Schloss Blutenburg (vertagt aus der BA-Sitzung am 15.09.09) - Vollzug der Baumschutzverordnung; Bauvorhaben Meyerbeerstraße 28 (vertagt aus der BA-Sitzung am 15.09.09) - Gegen die Verlegung der Staatsstraße 2063 südlich von Pasing (BA-Antrag Nr. 08-14 / B 01233 vom 16.06.09) (vertagt aus der BA-Sitzung am 15.09.09) - Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Verwaltungsverfahrensgesetz für den Neubau einer Trafostation und Errichtung eines 10 kv Mittelspannungskabels, Strecke 5503 München Hbf. - Augsburg Hbf., km 7,1 ? km 3,1 ? Gemarkung Pasing, Laim, Neuhausen (vertagt aus der BA-Sitzung am 15.09.09) - Vollzug der Baumschutzverordnung; Feichthofstraße 53, Bescheid vom 07.09.09 (vertagt aus der BA-Sitzung am 15.09.09) - Protokoll der 227. Sitzung der Kommission für Stadtgestaltung vom 21.07.09 - Vollzug der Baumschutzverordnung; Schladminger Straße 39, Bescheid der Unteren Naturschutzbehörde vom 29.09.09
+- TOP 14.8.: Sozialreferat - Jugendfreizeiteinrichtungen, hier: Jugendfreizeiteinrichtung im städt. Gebäude Lochhausener Straße 21 (Antrag Nr. 08-14 / B 00687 des BA 21 vom 02.12.08) - Aufnahme der Skaterhalle am Westbad in den Münchner Ferienpass (Antrag der Jugendeinwohnerversammlung am 15.05.09) (vertagt aus der BA-Sitzung am 15.09.09) - Ankündigung der Informationsveranstaltung des Sozialreferates für die Bezirks- ausschüsse am 30.11.09 (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 14.9.: Referat für Arbeit und Wirtschaft - Europe Direct Informationen 06/2009 - Wirtschafts-Info 09/2009
+- TOP 14.10.: Stadtwerke München GmbH - Baumaßnahmen der SWM: Wasserprojekt Ebenböckstraße - Informationsflyer ?Baumaßnahmen der SWM? im 2. Halbjahr 2009 - Baumaßnahmen der SWM, hier: Fernwärmeprojekt Erschließung Pasing; Heimburgstraße / Am Krautgarten, Änderung im Terminablauf - Baumaßnahme der SWM, hier: Fernwärmeprojekt Fischer-von-Erlach-Straße
+- TOP 14.14.2: Sonstige
+- TOP 14.1.: DIE ARCHE - Suizidprävention und Hilfe in Lebenskrisen e.V. - 40-Jahr-Feier am 28.10.09 im Kulturhaus Milbertshofen
+- TOP 14.2.: REWE Deutscher Supermarkt KGaA - Möglichkeiten für einen neuen REWE-Markt im Stadtbezirk
+- TOP 14.3.: Arbeitsgemeinschaft der freien Wohlfahrtsverbände - Dokumentation des Fachtags zur Arbeit dr Heilpädagogischen Tagesstätten "28 Mio. Euro pro Jahr! Lohnt sich das?" am 23.06.09
+- TOP 14.4.: BA 12 Schwabing-Freimann - Fest 18.jetzt, Organisationstreffen der Bezirksausschüsse am 28.09.09
+- TOP 14.5.: Polizeiinspektion 45 München (Pasing): Verkehrssituation Bäckerstraße zwischen Landsberger Straße und Weinbergerstraße (Schreiben BA vom 18.06.09) (vertagt aus der BA-Sitzung am 15.09.09)
+- TOP 14.6.: Kreisjugendring München-Stadt - 10 Jahre Färberei am 09.09.09; Festveranstaltung ab 18.00 Uhr, Claude-Lorrain-Str. 25, 81543 München
+- TOP 14.7.: Schloss- und Gartenverwaltung Nymphenburg - Ablauf der Gestattungsvereinbarung für das Kunstwerk "Sich aufrichtende Halme" im Weiher bei Schloss Blutenburg
+- TOP 14.8.: Münchner Gesellschaft für Stadterneuerung mbH - Geschäftsbericht 2008
+- TOP 14.9.: ISAR-WÜRM-LECH IWL Werkstätten GmbH - Einladung zu einer im Rahmen der 1. Münchner Woche für seelische Gesund- heit am 07.10.09 von 10.00 bis 16.00 stattfindenden Veranstaltung
+- TOP 14.10.: IN VIA Diözesanverband Fachbereich Migration - Einladung zur Feier ?20 Jahre IN VIA KOFIZA? am 28.10.09, 14.00 Uhr Basilika St. Bonifaz, Karlstr. 34, von 14.45 ? 19.00 Uhr Kath. Hochschulgemeinde, Karl- str. 32
+- TOP 15: Verschiedenes
+- TOP 15.1.: Neugestaltung der Nordseite des Pasinger Bahnhofs; Runder Tisch am Donnerstag, den 08.10.09 um 19.00 Uhr im Besprechungsraum der BA-Geschäftsstelle
+- TOP 15.2.: Nächste BA-Sitzungen: 10.11.2009 und 01.12.2009 jeweils um 19.00 Uhr im Bürgerzentrum Rathaus Pasing, Großer Sitzungssaal, Landsberger Straße 486, 81241 München
+- TOP 15.3.: Bürgerversammlung des 21. Stadtbezirkes, Bezirksteil Obermenzing, am Dienstag, den 20.10.2009 um 19.00 Uhr in der Turnhalle der Schule an der Grandlstraße (zuvor, von 18.00 bis 19.00 Uhr, Bürgersprechstunde mit Vertretern von Polizei und Stadtverwaltung)
