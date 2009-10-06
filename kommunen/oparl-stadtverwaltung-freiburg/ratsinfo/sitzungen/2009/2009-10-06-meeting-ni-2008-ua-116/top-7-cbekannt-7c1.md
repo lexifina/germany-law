@@ -1,0 +1,6 @@
+# TOP 7: Bekanntgaben und Aktuelles
+
+- Sitzung: 3. Sitzung des Umweltausschusses (2009-10-06)
+- Körperschaft: Stadtverwaltung Freiburg
+- Öffentlich: ja
+- OParl: https://ris.freiburg.de/oparl/agendaItem/ni_2008-UA-116%7CBekannt%7C1
