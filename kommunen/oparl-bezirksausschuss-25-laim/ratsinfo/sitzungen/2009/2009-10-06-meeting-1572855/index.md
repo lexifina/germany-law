@@ -1,0 +1,73 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-10-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572855
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572855
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Künstlerische Gestaltung der Laimer S-Bahn Unterführung
+- TOP 2: Anträge
+- TOP 2.1.: SPD-Fraktion: Erweiterung der Fahrradabstellanlagen an allen U-Bahnhöfen im Stadtbezirk
+- TOP 2.2.: SPD-Fraktion: Entwicklung eines Konzeptes für die Einrichtung des Tagesheimbetriebs an den städtischen Grundschulen im Stadtbezirk
+- TOP 2.3.: SPD-Fraktion: Wiederannahme des Kunststoff-Verpackungsmaterials an den Wertstoffhöfen
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 9.215,91 Euro für Verlegung eines Fußbodenbelages; Antragsteller: EKI Die Bärchen e.V.
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 10.000 Euro für Aufstellung eines weiteren Containers; Antragsteller: Camerloher Kids e.V.
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.750 Euro für Klassenfahrt vom 26.-30.10.09; Antragsteller: Stüps, Schule-Beruf e.V.
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 5.136,60 Euro für die Ausstattung der neuen Räume; Antragsteller: Laimer Strolche e.V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Stadtkämmerei vom 01.09.09: Mehrjahresinvestitionsprogramm für die Jahre 2010 bis 2014; Anhörungsverfahren
+- TOP 4.2.: Schreiben Kommunalreferat vom 14.09.09: Namensgebung für den "Laimer Anger" (Empfehlung Nr. 08-14 / E 00194 der Bürgerversammlung vom 25.11.08)
+- TOP 4.3.: Schreiben KVR vom 21.09.09: Veranstaltung auf dem Laimer Anger vom 03.11.-09.11.09; Kasperles Märchenzelt
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Flotowstr. 45: Anbau eines Wohnhauses, DG-Ausbau, Errichtung einer Gaube, Neubau eines Carports und einer Doppelparker-Garage; hier: Baupläne
+- TOP 5.2.: Agricolastr. 71: Neubau zweier Doppelhäuser mit Garagen / Vorbescheid; hier: Baupläne und Baumfällungen
+- TOP 5.3.: Lanzstr. 18b-20: Neubau eines Wohn- und Geschäftshauses / Vorbescheid; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 08.09.09: Ankündigung einer Informationsveranstaltung am 30.11.09
+- TOP 6.2.: Schreiben Kulturreferat vom 16.09.09: Jour Fixe Bezirksausschüsse am 19.10.09
+- TOP 6.3.: BA-Termine 2010
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 15.09.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Planungsreferat vom 28.08.09: Bauvorhaben Hartelstr. 6; Sanierung, Erweiterung und Aufstockung eines Wohngebäudes
+- TOP 8.2.: Schreiben Planungsreferat vom 04.09.09: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für den Neubau einer Trafostation und Errichtung eines 10 kV Mittelspannungskabels, Strecke 5503 München Hbf. - Augsburg Hbf. km 7,1 - km 3,1
+- TOP 8.3.: Schreiben Referat für Arbeit und Wirtschaft vom 02.09.09: Nutzung bzw. Entwicklung der Immobilie "Hertie" an der Fürstenrieder Straße 51(Antrag Nr. 08-14 / B 00940 vom 03.03.09)
+- TOP 8.4.: Schreiben Referat für Arbeit und Wirtschaft vom 14.09.09: Änderungen im Post-Filialnetz; Eröffnung einer Partnerfiliale in der Joergstr. 88
+- TOP 8.5.: Schreiben Abfallwirtschaftsbetrieb München vom 28.08.09: Müllablagerungen an Wertstoffcontainer-Standorten im Stadtbezirk 25 Laim (Schreiben BA vom 12.08.09)
+- TOP 8.6.: Schreiben Sozialreferat vom 31.08.09: Statistikblatt Kinderbetreuungsplätze in der LHM - Sozialreferat 01.07.09
+- TOP 8.7.: Schreiben Sozialreferat vom 10.09.09: Zweckentfremdung von Wohnraum durch Abbruch; Agricolastraße
+- TOP 8.8.: Schreiben Direktorium vom 03.09.09: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Die Bärchen e.V. für den Einbau / Erwerb einer Küche
+- TOP 8.9.: Schreiben Direktorium vom 03.09.09: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Kindertagesstätte der Kath. Kirchenstiftung Namen Jesu für Kauf einer neuen Hortküche
+- TOP 8.10.: Schreiben Direktorium vom 03.09.09: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Laimer Maibaumfreunde für Maitanz am 01.05.09
+- TOP 8.11.: Schreiben Direktorium vom 03.09.09: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Faschingsclub Laim für Faschingstreiben
+- TOP 8.12.: Bautenliste vom 24.08.-30.08.09 1. Erstantragsverfahren a) Flotowstr. 45
+- TOP 8.13.: Bautenliste vom 31.08.-06.09.09 1. Änderungsverfahren a) Agricolastr. 97
+- TOP 8.14.: Bautenliste vom 07.09.-13.09.09 1. Erstantragsverfahren a) Stöberlstr. 87 b) Fischartstr. 15 c) Agnes-Bernauer-Str. 41 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Lanzstr. 18 b b) Agricolastr. 71
+- TOP 8.15.: Schreiben Planungsreferat vom 07.09.09: Liste der beantragten Baumfällungen vom 31.08.-06.09.09
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 31.08.09: Baumaßnahmen der Stadtwerke; Stichtag: 31.08.09
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 07.09.09: Baumaßnahmen der Stadtwerke; Stichtag: 07.09.09
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 14.09.09: Baumaßnahmen der Stadtwerke; Stichtag: 14.09.09
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 21.09.09: Baumaßnahmen der Stadtwerke; Stichtag: 21.09.09
+- TOP 8.20.: Beschluss der Vollversammlung vom 29.07.09: Haushalt 2010, Finanzierung des laufenden Betriebes für einen Abenteuerspielplatz des Trägers Kreisjugendring München-Stadt bei dem Jugendtreff Laim, Von-der-Pfordten-Str. 59 (Sitzungsvorlagen Nr. 08-14 / V 02020)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Ablehnung der Express-S-Bahn auf der S-1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus (Sitzungsvorlagen Nr. 08-14 / V 02631)
+- TOP 8.22.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+" (Sitzungsvorlagen Nr. 08-14 / V 02609)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Wohnen in München IV (Sitzungsvorlagen Nr. 08-14 / V 02420)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Perspektive München; Langfristige Siedlungsentwicklung (Sitzungsvorlagen Nr. 08-14 / V 02475)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Ausweisung von Vorranggebieten für Installation von Windrädern (Sitzungsvorlagen Nr. 08-14 / V 02752)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen (Sitzungsvorlagen Nr. 08-14 / V 02956)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Sitzungsvorlagen Nr. 08-14 / V 02878)
+- TOP 8.28.: Schreiben Gleichstellungsstelle für Frauen vom 18.08.09: 4. Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 22.07.09; Einladung zum nächsten Treffen am 08.10.09
+- TOP 8.29.: Schreiben Kath. Öffentliche Bücherei St. Willbald vom 28.08.09: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.30.: Schreiben BA 12 Schwabing-Freimann / Kinder-und Jugendbeauftragter vom 17.09.09: 18.jetzt - Organisationstreffen am 28.09.09
+- TOP 8.31.: Schreiben Arbeitsgemeinschaft der freien Wohlfahrtsverbände München vom 09.09.09: Dokumentation des Fachtags "28 Mio. Euro pro Jahr ! Lohnt sich das?"
+- TOP 8.32.: Schriftverkehr aus der BA-Sitzung vom 15.09.09
+- TOP 1.2: Bürgerpost an den BA
