@@ -1,0 +1,52 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2009-10-07T15:00:00+02:00
+- Ende: 2009-10-07T16:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYUolYAu0lGKWkNLVR6PEC0
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/607
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSWGWgF8TZdMLwov17XsbOE2PQg1_qua4kRy5YX6xqm7/Einladung_Seniorenbeirat_07.10.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQcjFeQ4KqdXDUmLZzdA8vJkzzA-gF28MmyjGV2xaklk/Oeffentliche_Niederschrift_Seniorenbeirat_07.10.2009.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Errichten eines Mehrgenerationen-Bewegungsparks im Bereich des "Westparks" - Abstimmungsergebnis: Mehrheitlich nach Beschlussvorschlag                                           
+- TOP 3.2: Erstellung eines Flyers über die Bochumer Parkanlagen - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Generationenpark Arnoldstraße/Heuversstraße hier: Bewegungsraum für Alt und Jung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Behindertengerechter Ausbau Bahnhof Dahlhausen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Umleitung der Buslinie 368 bedingt durch die Sperrung der Buselohbrücke - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Wittener Straße, Reisebushaltestelle - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4.1: Wittener Straße Taxis für Reisebushaltestelle - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Boulevard, Stolperkanten - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Gefährdung für Fußgänger durch Bodenverwerfungen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Gahlensche Straße Gefahrenquellen aus Sicht älterer Verkehrsteilnehmer - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Umgestaltung Konrad-Adenauer-Platz - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Barrierefreie und behindertengerechte Arztpraxen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Rollstuhlplätze im Schauspielhaus - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Bericht des Vorsitzenden - mündlicher Bericht in der Sitzung -
+- TOP 6.12: Berichte aus den Gremien - mündliche Berichte in der Sitzung -
+- TOP 7: Anfragen
+- TOP 7.1: Behindertenparkplätze im öffentlichen Bereich - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: U 35 - Tangobahn - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
