@@ -1,0 +1,53 @@
+# Rat (34. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2009-10-07T16:00:00+02:00
+- Ende: 2009-10-07T20:00:00+02:00
+- Ort: Gasthaus Zum goldenen Hecht, Schnakenpohl 3, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZSisko5W7yT_NQCPnykc8gk
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/918
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT78-5ZWdc0Ps6n-fk5gGEjh8CiyyEbTMADDOfvHPbvS/Bekanntmachung_Rat_07.10.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYBbjuesobqICTAKjsw1zrAPADMj_1mo7deti0kxjsYD/Oeffentliche_Niederschrift_Rat_07.10.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: 1. Änderung des Bebauungsplanes Nr. 67 "Gewerbegebiet Rahden-Süd" und 61. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) zur Ausweisung einer weiteren Gewerbefläche; hier: a) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange b) Beratung und Beschlussfassung über die öffentliche Auslegung der 1. Änderung des Bebauungsplanes Nr. 67 "Gewerbegebiet Rahden-Süd" sowie des Änderungs- planes für die 61. Änderung des Flächennutzungsplanes gemäß § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 5.: Aufstellung des Bebauungsplanes Nr. 79 "Varl - Erweiterung Buschhügel" und 64. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) hier: a) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange b) Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungs planes Nr. 79 "Varl - Erweiterung Buschhügel" sowie des Änderungsplanes für die 64. Änderung des Flächennutzungsplanes gemäß § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 6.: 2. Änderung und Erweiterung des Bebauungsplanes Nr. 48 "Varl - L 769 - Firma Meier" sowie 63. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erlass einer Satzung zur förmlichen Festlegung des Sanierungsgebietes "Rahden Innenstadt"; hier: Aufstellungsbeschluss und Durchführung der Vorbereitenden Untersuchungen gemäß § 141 BauGB sowie Beteiligung und Mitwirkung der Betroffenen und öffentlichen Aufgabenträger gemäß § 137 und § 139 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 8.: Umgestaltung der Marktstraße; hier: Vorstellung der Vorentwurfsplanungen - Einstimmig, 0 Enthaltungen
+- TOP 9.: Neufassung der Satzung für die Stadtsparkasse Rahden - Einstimmig, 0 Enthaltungen
+- TOP 10.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2008 b) Verteilung des Bilanzgewinns - Einstimmig, 2 Enthaltungen
+- TOP 11.: Einsatz der Seitenladertechnik für die Müllabfuhr in der Stadt Rahden - Ohne Abstimmung
+- TOP 12.: Genehmigung einer überplanmäßigen Aufwendung/Auszahlung - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2009 - Ohne Abstimmung
+- TOP 14.: Bekanntgaben
+- TOP 14.1: Vergabe des Linienbündels A „Lübbecke und Umgebung“ im ÖPNV
+- TOP 14.2: Gründung der Jugendfeuerwehr Pr. Ströhen
+- TOP 14.3: 12. Rahdener Unternehmerstammtisch
+- TOP 15.: Verschiedenes
+- TOP 15.1: Innenstadtgutachten
+- TOP 15.2: Straßenbeleuchtung Küthe
+- TOP 15.3: Ortsheimatspfleger Rahden
+- TOP 15.4: Bauvorhaben Wellpott / Heinzig an der Sauerbruchstraße
+- TOP 15.5: Städtebauliche Rahmenplanung im Bereich Stellerloh
+- TOP 15.6: DSL in Rahden
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 17.: Bekanntgabe der im II. Quartal 2009 abgeschlossenen Grundstücksverträge
+- TOP 18.: Bekanntgabe der bis einschließlich III. Quartal 2009 erteilten Bauaufträge
+- TOP 19.: Änderungen des Vertrages vom 05.08.1999 zwischen der Miet-Schwimmmeister-Service Heino Kruse GmbH und der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Grundstücksangelegenheiten
+- TOP 20.1: Veräußerung eines städtischen Grundstückes - 25 Stimmen dafür, 2 dagegen, 1 Enthaltungen
+- TOP 20.2: Veräußerung einer Gewerbefläche im Gewerbegebiet Süd
+- TOP 21.: Bekanntgaben
+- TOP 21.1: Erhöhung der Aufwandsentschädigungen für Ratsmitglieder
+- TOP 22.: Verschiedenes
+- TOP 22.1: Einstellung eines Technikers / Bauingenieurs
