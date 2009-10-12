@@ -1,0 +1,104 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586177
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586177
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Radweg auf beiden Seiten der Terofalstraße
+- TOP 1.2.: Bebauung an der Schröfelhofstraße
+- TOP 1.3.: Telefonanlage der Kindergärten am Stiftsbogen
+- TOP 1.4.: Naturindianer suchen eine eigene Prärie in München und Umgebung
+- TOP 1.5.: Verschmutzte Grünflächen vor dem Kindergarten am Max-Lebsche-Platz / Prälat-Wellenhofer-Str.
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Kinder, Jugend, Schule, Sport
+- TOP 3.4.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag der Kreativwerkstatt auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 375,- Euro (Direktorium, 08.09.09)
+- TOP 5.2.: Antrag des Elternbeirates der Grundschule am Hedernfeld auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 480,- Euro (Direktorium, 08.09.09)
+- TOP 5.3.: Antrag KAB St. Canisius auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.500,- Euro (Direktorium, 09.09.09)
+- TOP 5.4.: TSV München-Großhadern e.V., Einbau einer neuen Heizungsanlage im Sportgebäude an der Heiglhofstraße 25 (Schul- und Kultusreferat, 28.09.09)
+- TOP 5.5.: Antrag des Kath. Pfarramtes Fronleichnam auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 2.700,- Euro (Direktorium, 02.10.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren: Wadlerstr. 1 - 41; Absenkungen Gehweg (Baureferat, 07.09.09)
+- TOP 6.2.: Marchioninistr. 15: 2 Sammelwerbeanlagen (Referat für Stadtplanung und Bauordnung, 10.09.09)
+- TOP 6.3.: Erinnerungsverfahren: Hohenklingenstr. / Ecke Stahleckstr. (Baureferat, 08.09.09)
+- TOP 6.4.: Ginsterweg 12, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 03.09.09) (vertagt aus 09/09)
+- TOP 6.5.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014; Anhörungsverfahren (Stadtkämmerei, 01.09.09) (vertagt aus 09/09)
+- TOP 6.6.: Genehmigungsantrag nach §§ 4 Abs. 1 Satz 1, 19. BImSchG vom 24.08.09; Sanierung Wärme- / Dampfversorgung durch Errichtung und Betrieb einer Feuerungsanlage für Dampfkessel (Nr. 1.2 Sp. 2a), eines Biomassekessels (Nr. 1.2 Sp. 2c) und eines Blockheizkraftwerkes (Nr. 1.4 Sp. 2b) (Referat für Gesundheit und Umwelt vom 28.09.09)
+- TOP 6.7.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen (Kreisverwaltungsreferat, 02.10.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Großhaderner Str. 22, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 17302
+- TOP 7.2.: Windeckstr. 62, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 13721
+- TOP 7.3.: Saalburgstr. 9, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 15661
+- TOP 7.4.: Blumenauer Str. 40, 1 Fichte
+- TOP 7.5.: Waldhüterstr. 28 - 36, 1 Akazie
+- TOP 7.6.: Kleinhaderner Str. 14, 1 Fichte und 1 Blautanne
+- TOP 7.7.: Aurikelstr., 1 Birke
+- TOP 7.8.: Windeckstr. 1, 1 Eiche
+- TOP 7.9.: Randeckstr. 5, 1 Kiefer
+- TOP 7.10.: Eisenhutstr. 17, 1 Birke
+- TOP 7.11.: Willibaldstr. 114 a, 1 Schwarzkiefer
+- TOP 7.12.: Sonnenblumenstr. 30, 1 Tanne und 2 Fichten
+- TOP 7.13.: Waldgartenstr. 71, 1 Tanne und 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Kruckenburgstr. 16, Fällungsantrag vom 18.08.09
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Statistikblatt Kinderbetreuungsplätze in der LHM - Sozialreferat 01.07.09 (Sozialreferat, 31.08.09)
+- TOP 8.2.: Zweckentfremdung von Wohnraum - Blumenauer Str. (Sozialreferat, 31.08.09) - Kriegerheimstr. (Sozialreferat, 08.09.09)
+- TOP 8.3.: Unveränderte Fortführungen - "Sushi-Wok", Würmtalstr. 99 (Kreisverwaltungsreferat, 08.09.09)
+- TOP 8.4.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Kindergarten- und Hortplätzen, Stiftsbogen 56 (Schul- und Kultusreferat, 11.09.09)
+- TOP 8.5.: Änderungen im Post-Filialnetz, Stadtteil Hadern, Marchioninistr. 2 (Referat für Arbeit und Wirtschaft, 14.09.09)
+- TOP 8.6.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Wastl-Witt-Str. 9 (Kreisverwaltungsreferat, 17.09.09)
+- TOP 8.7.: Arbeiten im Straßenraum: Würmtalstr. / Waldfriedhofstr. Ecke Fürstenrieder Str., Fahrbahnsannierung Einmündungsbereich (Kreisverwaltungsreferat, 24.09.09)
+- TOP 8.8.: Mitteilung über ein Grundstücksgeschäft, hier: Vingerstr. (Ecke Toemlingerstr. 24) (Kommunalreferat, 02.09.09)
+- TOP 8.9.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2009 für Bezirksausschuss 20 - Hadern (SWM, 25.09.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Anfrage zum Beschluss des Schul- und Sportausschusses vom 01.07.09; Kindertagesstätten sonstiger Träger, Ankauf eines Teileigentums sowie Umbau der Kooperationseinrichtung an der Sauerbruchstr. 25 (Schul- und Kultusreferat, 27.08.09)
+- TOP 9.2.: Bolzplatz Ludlstraße (Baureferat, 02.09.09)
+- TOP 9.3.: Grünanlage Franz-Kendler-Str. und Straßenlaternen Heiglhofstr. (Baureferat, 11.09.09)
+- TOP 9.4.: Übergang zwischen Fußweg und Ausgleichsfläche (Baureferat, 11.09.09), dazu BV "Parco Nobile", Schröfelhofstr., Bauabschnitt III - Haus G, H, J, K; öffentlicher Fußweg im südlichen Bereich der o.g. Wohnanlage (Klaus Wohnbau GmbH, 02.09.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Planungen für den P+R Parkplatz Max-Lebsche-Platz (P+R Park&Ride GmbH, 02.09.09)
+- TOP 10.2.: Verkehrslärmbelästigung im Bereich Kurparkstraße (Aufbaugesellschaft Bayern GmbH, 17.09.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Verwendungsnachweis über Budget-Zuschuss; Antragsteller: Elternbeirat der HS Blumenauer Straße (Direktorium, 03.09.09)
+- TOP 11.2.: Ankündigung einer Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 30.11.09 (Sozialreferat, 08.09.09)
+- TOP 11.3.: Neue Schulleitung an der Hauptschule Guardinistraße (HS Guardinistr. 60, 21.09.09)
+- TOP 11.4.: Dokumentation des Fachtags "28 Mio. Euro pro Jahr! Lohnt sich das?" (Arbeitsgemeinschaft der freien Wohlfahrsverbände München, 09.09.09)
+- TOP 11.5.: Einladung zur Feier "40 Jahre ARCHE - Suizidprävention" am 28.10.09 (Die Arche, 21.09.09)
+- TOP 11.6.: Einladung zum 4. Fachtag Pflanzenöl am 14.10.09 im Bauzentrum München (Referat für Gesundheit und Umwelt, 22.09.09)
+- TOP 11.7.: Einladung zu einer Infoveranstaltung der DFS Deutsche Flugsicherung GmbH am 11.12.09 (Referat für Gesundheit und Umwelt, 29.09.09)
+- TOP 11.8.: Einladung zum kostenlosen Fachforum "Passivhaus im Gewerbe und Büro" am Donnerstag, 29.10.09 (Referat für Gesundheit und Umwelt, 05.10.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02752: Ausweisung von Vorranggebieten für die Installation von Windrädern (abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09 zur Sitzungsvorlage Nr. 08-14 / V 02956: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09 zur Sitzungsvorlage Nr. 08-14 / V 02878: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (Für Hadern ist kein Anteil vorgesehen.)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: HInweisblatt / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02475: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung a) Grundsatzbeschluss - Rahmenbedingungen und Trends - Potenziale - Schlussfolgerungen b) Weiteres Vorgehen c) Vergabe eines Werkauftrags (Sachkosten in 2010 = 450.000,- ?)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02420: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil (Für Hadern ist keine Maßnahme vorgesehen.)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02609: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+"
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02862: Sonderflughafen Oberpfaffenhofen, Aktueller Sachstand
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
