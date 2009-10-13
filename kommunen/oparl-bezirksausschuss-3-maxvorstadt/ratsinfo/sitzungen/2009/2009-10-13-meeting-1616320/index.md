@@ -1,0 +1,88 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2009-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1616320
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1616320
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Bauvorhaben Barerstraße / Ecke Georgenstraße (UA Planung und Umwelt)
+- TOP 5.2.2.: Teer zwischen Kopfsteinpflaster vor dem Kirchplatz St. Benno (UA Verkehr und öffentlicher Raum)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag von Bündnis 90/DIE GRÜNEN: Denkmalschutz für die historischen Gebäudefassaden der Türkenstraße
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Meldelisten 38.KW Meldelisten 40. KW
+- TOP 2.1.2.: Nymphenburger Straße 17, DG-Ausbau durch Abbruch des vorhandenen Dachstuhls und Errichtung eines Dachaufbaus mit Flachdach
+- TOP 2.1.3.: Fürstenstraße 17, DG-Ausbau, Umbau sowie Errichtung eines Balkones und eines Aufzuges
+- TOP 2.1.4.: Königinstraße 33, Umbau und Erweiterung eines Wohn- und Geschäftshauses mit Tiefgarage - Vorbescheid
+- TOP 2.1.5.: Schleißheimer Straße 96, Nutzungsänderung Garagen zu Büro
+- TOP 2.1.6.: Amalienstraße 36, Neubau Hort und Einfachsporthalle - Vorbescheid
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Meldeliste 40 KW
+- TOP 2.2.2.: Neureutherstr. 17, 1 Esche
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Umbau Josephsplatz
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag von Bündnis 90/DIE GRÜNEN: Sitzgelegenheiten an der Trambahnhaltestelle Schellingstraße stadtauswärts
+- TOP 1.2.: Bauliche Nase an der Ecke Barer Straße/Schellingstraße: Der UA Verkehr und öffentlicher Raum ist der Ansicht, dass die Nase an der Südseite eindeutig überdimensioniert ist und eine Gefahr für Radfahrer und auch für Autos darstellt. Der BA soll beim Baureferat einen angemessenen Rückbau fordern.
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Möglicher Grünpfeilstandort Arnulf- / Hopfenstraße (von Norden Hopfenstraße kommend)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Türkenstraße 68, an der Hausmauer der Schule, Obstverkaufsstand
+- TOP 2.2.2.: "Floristikatelier das Füllhorn", theresienstraße 18; neue Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.3.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen; Antrag Nr. 08-14 / A 01054 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.09.2009
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kleingaststätte "Kim Phat", Dachauer Straße 20; Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche), Schellingstraße 54, Schellingsalon; vertagt aus Sitzung 14.07.2009
+- TOP 2.3.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Barer Straße 54, Kiosk; vertagt aus 15.09.2009
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Anhörung Christkindlmarkt auf dem Wittelsbacherplatz vom 26.11. - 23.12.09 (Aufbau ab 16.11.09, Abbau bis 30.12.09)
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 2.5.1.: Anwohnertiefgarage Josephsplatz; Bericht über den Workshop
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 30.11.2009; Sammelanmeldung erforderlich
+- TOP 2.2.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013; Kinderkrippe Lothstraße 19 (Die Seepferdchen GmbH & Co. KG) mit 36 Kinderkrippenplätzen; Ausstattung (Beschlussentwurf)
+- TOP 2.3.: Investitionskostenförderung gem. Art. 27 BayKiBiG; Kinderkrippe Luisenstraße 41 (Sinikka Veldmann) mit 36 Kinderkrippenplätzen; Ankauf der Immobilie (Entwurf Beschlussvorlage)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Baumaßnahmen der Stadtwerke München: - Stichtag: 07.09.2009, Schellingstraße
+- TOP 1.2.: Ausweisung von Vorranggebieten für die Installation von Windrädern
+- TOP 1.3.: Wohnen in München IV; Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) und Beschlussteil
+- TOP 1.4.: Baumaßnahmen der Stadtwerke München; Erzgießereistraße und Königinstraße
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Verkehrsrechtliche Anordnungen: - Versetzung von Behindertenparkplätzen Luisenstraße - Radweg Marsstraße (zwischen Dachauer Straße und Marsstraße) - Absolutes Halteverbot Elisenstraße für Anwesen Prielmayerstraße 5 (Justizgebäude)
+- TOP 2.2.: Haltverbot Theresienstraße: Antwortschreiben des KVR
+- TOP 2.3.: Antwort des Baureferates zur abgeänderten Beschlussvorlage "Platzgestaltung an der Rottmannstraße mit umgebenden verkehrsberuhigten Flächen im 3. Stadtbezirk "Maxvorstadt" vom 11.11.2008 (künftige Nutzung für Wochen- und Weihnachtsmärkte, Errichtung eines Brunnens).
+- TOP 2.4.: Information über das Betriebskonzept der U 6 während der Arbeiten an der Münchner Freiheit und an der Autobahnbrücke Freimann
+- TOP 3: Soziales und Bildung
+- TOP 3.1.: Verwendungsnachweise: - MFM-Projekt, Elternbeirat, Schule Dachauer Straße 98 - Diskussionsveranstaltung Münchner Forum
+- TOP 3.2.: Hortsituation und Raumbedarf des Förderzentrums und der Grundschule an der Dachauer Straße 98; Schreiben der Grundschule vom 14.07.2009; Schreiben des Schul- und Kultusreferates vom 17.09.2009
+- TOP 3.3.: Geplanter Umzug der Hortgruppe 3 in das Hauptgebäude der Schulen an der Dachauer Straße 98, Schreiben des Elternbeirats des Horts vom 09.07.2009; Schreiben des Schul- und Kultusrefraes vom 17.09.2009
+- TOP 3.4.: Hort Heßstraße 84; geplanter Umzug der Hortgruppe 3 in das Hauptgebäude der Schulen an der Dachauer Straße 98: Antwort des Schul- und Kultusreferates vom 17.09.2009 auf das Schreiben des BA 3 vom 16.07.2009
+- TOP 4: Kultur
+- TOP 4.1.: Einladung zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 30.11.2009
+- TOP 4.2.: Termin für die Bürgerversammlung 2010
+- TOP 4.3.: Bericht über das Kinder- und Bürgerfest 25.07.2009
+- TOP 4.4.: Vertretung des Bezirksausschusses nach außen
+- TOP 4.5.: Themen und Vorschläge für die Bürgerversammlung 2009
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
