@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618377
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618377
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: junges Orchester München e.V.; Kammermusikprojekt vom 13.-20.11.09
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Caritas Kinder- und Jugendtreff "Jump In"; Theaterfestival vom 13.-15.11.09
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Volkstheater e.V.; Theateraufführung anl. 50-jährigem Jubiläum im April 2010
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Freundeskreis der Städt. Willy-Brandt-Gesamtschule e.V.; Beschaffung von Sitzbänken
+- TOP 5: (E) Einseitiges Haltverbot in der Schneeglöckchenstraße Empfehlung Nr. 08-14 / E 00242 der Bürger- versammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl vom 26.03.2009
+- TOP 3: Anträge
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Zwei Kurzzeitparkplätze für Behinderte am Walter-Sedlmayr-Platz (Bündnis 90/Die Grünen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2010 bis 2014
+- TOP 5.2.: Veranstaltung auf städtischer Grünanlage: Circus Galliano auf der Zirkuswiese Weitlstr. 125 vom 06.10.-19.10.09
+- TOP 5.3.: Veranstaltung auf städtischer Grünanlage: Kasperles Märchenzelt am Dülferanger vom 12.11.-16.11.09
+- TOP 5.4.: Vollzug der Baumschutzverordnung, Bauvorhaben: Rambertweg 17 (je eine Doppelhaushälfte)
+- TOP 5.5.: Verkehrsrechtliche Anordnung: Haltverbot Sonnentaustr. 26b - 28
+- TOP 5.6.: Saisonale Umwandlung von KfZ-Stellplätzen zu Freischankflächen
+- TOP 5.7.: Vollzug der Baumschutzverordnung: a) Aschenbrennerstr. 8 b) Thelottstr. 1-29 c) Petrarcastr. 4-50 d) Harpprechtstr. 4-10
+- TOP 5.8.: Anhörung im Einzelfall auf Anforderung: Bauvorhaben Lerchenauer Str. 162
+- TOP 5.9.: Maßnahme zur Lärmminderung und Verkehrsberuhigung in der Himmelschlüsselstraße
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Parkverbot für "nicht PKW" auf der Westseite der Schleißheimer Straße (zwischen Neuherberg-/Aschenbrennerstraße) (BA-Antrags-Nr. 08-14 / B 00731 vom 09.12.08)
+- TOP 6.2.: Verkehrslage Lerchenstr. 14 (Internationale Montessori-Schule), Antrag Beschilderung / Einrichtung einer Tempo-30-Zone (BA-Antrags-Nr. 08-14 / B 00520 vom 14.10.08)
+- TOP 6.3.: Widmung einer Teilstrecke der Röhrichtstraße
+- TOP 6.4.: Riemerschmidstraße in Höhe Durchgang zur Udalrichstraße
+- TOP 6.5.: Errichtung eines Naturkindergartens in der Fasanerie
+- TOP 6.6.: Dülferstr. 3, Lärm- und Geruchsbelästigung durch die Lackiererei
+- TOP 6.7.: Verkehrsrechtliche Anordnung; Gemeinsamer Geh- und Radweg Röhrichtstraße
+- TOP 6.8.: Verkehrsrechtliche Anordnung; Änderung der Wechselverkehrsregelung in der Trollblumenstraße
+- TOP 6.9.: Drehgenehmigungen auf öffentlichem Verkehrsgrund: "Allianz-Masterstory" am 04.09.09 in der Feldmochinger Str. 310 (Skatepark)
+- TOP 6.10.: Provisorische Anbindung des S-Bahnhofs Fasanerie im südlichen Bereich
+- TOP 6.11.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von 52 Plätzen in der Kindertageseinrichtung Wintersteinstr. 16
+- TOP 6.12.: Mitteilung über ein Grundstücksgeschäft; Aufhebung des Erbbaurechts für eine Teilfläche (Straßengrund)
+- TOP 6.13.: Straßenbaumaßnahme Schleißheimer Straße (Westseite); Stellungnahme des Bezirksausschusses 11 Milbertshofen - Am Hart
+- TOP 6.14.: Jungbürgerfeier 18.jetzt; Besprechung der Jugendbeauftragten der BAs am 28.09.09
+- TOP 6.15.: Meldelisten Bauvorhaben
+- TOP 6.16.: Meldelisten Baumfällungsanträge
+- TOP 6.17.: Meldelisten Baumaßnahmen der Stadtwerke München
+- TOP 6.18.: Baumaßnahmen der Stadtwerke im 2. Halbjahr 2009 für den 24. Stadtbezirk
+- TOP 6.19.: Baumaßnahmen der Stadtwerke; Stromprojekt Himmelschlüsselstraße
+- TOP 6.20.: Ausführung des Durchstichs zwischen Am Schnepfenweg und Am Blütenanger als verkehrsberuhigter Bereich Empfehlung Nr. 08-14 / E 00052 der Bürgerversammlung vom 24.05.08
+- TOP 6.21.: Bebauungsplan mit Grünordnung Nr. 1784 a; Auf den Schrederwiesen (westlich), Schroppenwiesenstraße (nördlich), Dachauer Straße B 304 (östlich), Autobahnring München-Nord BAB A 99 (südlich)
+- TOP 6.22.: Realisierungswettbewerb zum Neubau der zentralen Kanalbetriebsstation der Münchner Stadtentwässerung an der Schleißheimer Straße
+- TOP 6.23.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 6.24.: Schutz für die Mieter der GBW-Wohnungen; Freistaat muss Garantien aussprechen
+- TOP 6.25.: Wohnen in München IV; Erfahrungsbericht für das Jahr 2008
+- TOP 6.26.: Stadtsanierung in München; "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt"; Sanierungsgebiete in den Stadtteilen Hasenbergl und Milbertshofen
+- TOP 6.27.: Perspektive München; Langfristige Siedlungsentwicklung (Hinweis/Ergänzung vom 17.08.09)
+- TOP 6.28.: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben
+- TOP 6.29.: Ausweisung von Vorranggebieten für die Installation von Windrädern
+- TOP 6.30.: Generalinstandsetzung des Sporttraktes der Willy-Brandt-Gesamtschule in der Freudstr. 15; Projektgenehmigung
+- TOP 7: Berichte
+- TOP 8: Verschiedenes
