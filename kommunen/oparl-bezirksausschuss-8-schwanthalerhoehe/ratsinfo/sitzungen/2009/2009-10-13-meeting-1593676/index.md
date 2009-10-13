@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-10-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593676
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593676
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Verkehrsinsel Grasserstraße
+- TOP 3.2.: Parklizenzen Westendstraße
+- TOP 3.3.: Barrierefreiheit im Zentralen Omnibusbahnhof München
+- TOP 3.4.: Zwischenbericht aus dem Max-Friedländer-Bogen
+- TOP 3.5.: "Junkies" auf dem Gollierplatz
+- TOP 3.6.: Steg Arnulfpark Westend
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Berufung des 1. Stellvertreters für die Unterausschüsse Bauen, Planen, Wohnen und Budget
+- TOP 2: (E) Fehlender Freiraum vor dem Rechts- Abbiegerpfeil an der Kreuzung Trappentreu-/Ridlerstraße Empfehlung Nr. 08-14 / E 00295 der Bürgerversammlung des 8. Stadtbezirkes Schwanthalerhöhe am 25.06.2009 - <div>nach Antrag</div>
+- TOP 2.3.: Beantragung einer Warenstellage (Postkarten) in der Gollierstr. 32
+- TOP 5: Anhörungen
+- TOP 5.1.: Mehrjahresinvestitionsprogramm für die Jahre 2010-2014
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten
+- TOP 6.1.2.: Ortstermin am Georg-Freundorfer-Platz
+- TOP 6.1.3.: Ratten in der Ganghoferstraße
+- TOP 6.1.4.: Abschluss der Sanierungsmaßnahme Block 18 Westend
+- TOP 6.1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.6.: Bebauungsplan zum ehemaligen Messegelände Südteil
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Vortrag von Regsam und SBH zum Thema "Armut" am 28.10.2009 im SBH um 16 Uhr
+- TOP 6.2.2.: Stellungnahme zum Anhörungsverfahren: Regsam Beschlussentwurf
+- TOP 6.2.3.: Bundesprogramm "Lernen vor Ort" - Kommunales Bildungsmanagement
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.3.1.: Beschlussvorlage Bibilotheksneubau Westend
+- TOP 6.3.2.: Einladung zum Fest: 35 Jahre Griechisches Haus
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Parkraummanagement und Baustellen im 8. Stadtbezirk
+- TOP 6.4.2.: Müllproblem am Heimeranplatz
+- TOP 6.4.3.: Müllproblem am Georg-Freundorfer-Platz
+- TOP 6.4.4.: Fahrbahnsanierung in der Bergmannstraße
+- TOP 6.4.5.: Bauarbeiten Gollierstraße / Astallerstraße
+- TOP 6.4.6.: Verkehrsinsel Grasserstraße - Einbahnstraßenregelung
+- TOP 6.4.7.: Versammlung unter freiem Himmel zum Thema: "Aktion PARK (ing) DAY im Rahmen der Münchner Nacht der Umwelt"
+- TOP 6.4.8.: Versammlung unter freiem Himmel zum Thema: "ProChoice! Für das Recht auf Abtreibung"
+- TOP 6.4.9.: Baumfällungsantrag Tulbeckstr. 40
+- TOP 6.4.10.: Baumfällungsantrag Guldeinstraße
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 8: Anträge
+- TOP 8.1.: Bauminsel in der Anglerstraße
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Unveränderte Fortführung der Gaststätte "Pera Palast"
+- TOP 10: Verschiedenes
+- TOP 10.1.: Vorläufige Einladung zur BA-Veranstaltung des Sozialreferates
+- TOP 11: Protokoll und Umlauf
