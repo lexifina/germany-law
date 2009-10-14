@@ -1,0 +1,105 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-10-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586882
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586882
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Errichtung einer zweigruppigen Kinderkrippe in München-West (UA Soziales) -vertagt aus 09/09 -
+- TOP 2.2.: Schallschutz am Rohrsängerplatz an den Bahnlinien München-Augsburg
+- TOP 2.3.: Verlegung des Containerstandplatzes an die Einmündung der Schwetzingenstraße
+- TOP 2.4.: Reitverbot in der Aubinger Lohe bzw. Reinigung der Wege durch die umliegenden Reitställe
+- TOP 2.5.: Suche nach einer Fläche für Veranstaltungen mit Münchner Kindern ("Naturindianer")
+- TOP 2.6.: Stadtteilbezogene Betätigungsmöglichkeiten im Rahmen der Betreuung von Kindern
+- TOP 2.7.: Überqueren der Straße auf dem Autobahnhügel, generelle Geschwindigkeitsüberschreitung des Kfz-Verkehrs ab Altostraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen aus Anforderungen: - Industriestr. 72, 1 Fichte und 1 Sommerlinde - Kravogelstr. 25, 1 Esche, 1 Ahorn und 1 Birke - Kleiberweg 17, 1 Föhre - Allinger Str. , 1 Birke
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Krögelsteiner Str., gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2009-22899 - Hans-Stützle-Str., gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2009-21216 - Germeringer Weg 6, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2009-19800, vertagt aus 09/09
+- TOP 3.3.: Fällungsantrag Kurt-Floericke-Str. 13, Schr. Planungsreferat vom 16.09.09
+- TOP 3.4.: Fällungsantrag Varnhagenstr. 41, Schr. Planungsreferat vom 18.09.09
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Bahnhof Freiham: 1. Multifunktionssaal mit Bühne und eventueller städtischer Beteiligung im Kino 2. Ansprechende Gestaltung der Plätze nördlich und südlich des Bahnhofs - vertagt aus 09/09 -
+- TOP 4.2.: Errichtung einer Realschule im 22. Stadtbezirk in Freiham
+- TOP 5: Entscheidungen
+- TOP 1: Reparatur des niedergetretenen Zauns am HIT-Parkplatz (Ziffer 1 des Antrages); Empfehlung Nr. 08-14 / E 00305 der Bürgerversammlung des Stadtbezirkes 22 am 30.06.2009
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 6.1.: Veranstaltung auf öffentlichen Verkehrsgrund: SPD-Christkindlmarkt am Gößweinsteinplatz am 05.12.09, Anhörung des KVR vom 02.10.09
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 6.1.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen: Kronwinkler Str. 24, Schr. Schul- und Kultusreferat vom 11.09.09
+- TOP 6.2.: Dokumentation des Fachtags zur Arbeit der Heilpädagogischen Tagesstätten am 23.06.09, Schr. Arbeitsgemeinschaft der freien Wohlfahrtsverbände München
+- TOP 6.3.: Anmietung der Räumlichkeiten in der Wiesentfelser Str. 68 durch das SOS-Mütter- und Kindertageszentrum München, Schr. GWG vom 16.09.09
+- TOP 6.4.: Anmietung von Räumlichkeiten in der Wiesentfelser Str. 68, Dankschreiben des SOS-Mütter- und Kindertageszentrum vom 28.09.09
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendung aus dem Budget für Regsam, Bescheid des Direktorium vom 23.09.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Namens- und Begriffserläuterungen an der Straßenbeschilderung im 22. Stadtbezirk, Anhörung Kommunalreferat vom 22.09.09
+- TOP 6.2.: Eichenauer Str. 1, Neubau zweier Wohngebäude mit Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 25.09.09
+- TOP 6.3.: Gemeinde Karlsfeld, Bebauungsplan Nr. 101 für das Gebiet "westlich der Münchner Straße / nördlich Weiherweg - Rotschwaige", Anhörung des Planungsreferats vom 04.09.09 - vertagt aus 09/09 -
+- TOP 6.4.: Gemeinde Gräfelfing, Bebauungsplan Nr. 26 B - Erweiterung des Gewerbegebietes an der BAB A 96 / St 2063 neu, Anhörung des Planungsreferats vom 03.09.09 - vertagt aus 09/09 -
+- TOP 6.5.: Herrschinger Bahnweg - Aufstellung von 4 Werbetafeln, Anhörung des Planungsreferats vom 22.09.09
+- TOP 6.6.: Straßenbaumaßnahmen: - Fahrwegsanierung in der Ubostraße zwischen Germeringer Weg und Hausnr. 4, - Gehwegsanierung in der Lochhausener Straße zwischen Sumpfmeisenweg und Bahnbrücke Anhörung des Planungsreferats vom 10.09.09 und 14.09.09
+- TOP 6.7.: Limesstr. 55b - Neubau eines Einfamilienhauses mit Garage - Haus 1, Anhörung des Planungsreferats vom 18.09.09
+- TOP 6.8.: Kunreuthstraße - Errichtung neuer Tiefgaragen als Ersatz für bestehende Hochgaragen und Erstellung zusätzlicher Wohn- und Gewerberäume (Kunreuth-/Riesenburgstraße), Anhörung des Planungsreferats vom 29.09.09
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 07.09-13.09.09, v. 14.09-20.09.09, v. 21.09.-27.09.09), Schr. Planungsreferat vom 14.09.09, 21.09.09, 28.09.09
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag:14.09.09, 21.09.09, 28.09.09
+- TOP 6.3.: Schaffung eines Übergangs an der Lochhausener Straße auf Höhe der Bushaltestelle zwischen Pirolstraße und Krähenweg, Schr. KVR vom 24.09.09
+- TOP 6.4.: Bezirkssportanlage Kronwinkler Str. 25; Parkplatz, Schr. Schul- und Kultusreferat vom 18.09.09
+- TOP 6.5.: Abbiegesituation von der Bodenseestr. in die Ehrenbürgstr., Schr. KVR vom 10.09.09
+- TOP 6.6.: Verkehrsrechtliche Anordnungen: - Sipplinger Str. 23; Feuerwehrzufahrt, Schr. KVR vom 14.09.09 - Radolfzeller Str. 17; Feuerwehrzufahrt, Schr. KVR vom 14.09.09 - Zufahrt zu dem Anwesen Freilandstr. 19 und 34, Schr. KVR vom 24.09.09
+- TOP 6.7.: Errichtung von Buswartehäuschen an der Bushaltestelle Pirolstr. der Buslinie 830 und an der Bushaltestelle Krähenweg, Schr. Referat für Arbeit und Wirtschaft vom 08.09.09 und Schr. MVV vom 10.09.09
+- TOP 6.8.: MVV-Regionalbuslinie 267 - Anbindung der Papinstr., Schr. MVV vom 16.09.09
+- TOP 6.9.: Baumaßnahmen der SWM, Erdgasprojekt Varnhagenstr., Schr. SWM vom 16.09.09
+- TOP 6.10.: Übergang in der Bergsonstr., Schr. KVR vom 17.09.09
+- TOP 6.11.: Umgehende Beseitigung der Herkulesstauden, Schr. KVR vom 16.09.09
+- TOP 6.12.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2009 für Bezirksausschuss 22, Schr. SWM vom 25.09.09
+- TOP 6.13.: Vollzug der beschlossenen verkehrsrechtlichen Maßnahmen, Schr. KVR vom 23.09.09
+- TOP 6.15.: Sanierung Fuß- und Radwegunterführung der Aubinger Straße Höhe Ramses See und Weg zum Ravensburger Ring
+- TOP 7.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014, Anhörung der Stadtkämmerei vom 01.09.09 - vertagt aus 09/09 -
+- TOP 7.2.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen - Antrag Nr. 1054 der Stadtratsfraktion DIE GRÜNEN/RL, Anhörung des KVR vom 02.10.09
+- TOP 7.3.: Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kindergarten- und 2 Krippengruppen an der Colmdorfstraße, Anhörung des Schulreferats vom 13.10.09
+- TOP 8.1.: Europe Direct Informationen 06/2009, Schr. Referat für Arbeit und Wirtschaft vom 22.09.09
+- TOP 8.2.: Unveränderte Fortführung eines Gaststättenbetriebs: - "Fliegerschänke", Veldensteinstr. 12
+- TOP 8.3.: Wirtschafts-Info 09/2009, Schr. RAW vom 30.09.09
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (UA Planung)
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Ausweisung von Vorranggebieten für die Installation von Windrädern (UA Planung)
+- TOP 10.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Sonderflughafen Oberpfaffenhofen, Aktueller Sachstand (UA Planung)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 10.6.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung
+- TOP 10.7.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Beteiligung an einem vom Bundeministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+"
+- TOP 10.8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: 40-Jahr-Feier ARCHE-Suizidprävention am Mittwoch, 28.10.09
+- TOP 11.2.: DFS-Informationsveranstaltung - Zusatztermin am Freitag den 11.12.09
+- TOP 11.3.: Einladung zum kostenfreien Fachforum "Passivhaus im Gewerbe und Büro" am 29.10.09 im Bauzentrum München
+- TOP 11.4.: Einladung des Schulreferats an die Bezirksausschüsse 20, 21, 22, 23 zur jährlichen Gesprächsrunde am 25.11.09
+- TOP 11.5.: Einladung zum Fachtag "Familienselbsthilfe" des Selbsthilfezentrums München am 01.12.09
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, 25.11.09 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 12.2.: Außerordentliche BA-Sitzung am Donnerstag, den 12.11.09 zum Thema "Schule"
+- TOP 13: Nichtöffentliche Sitzung
