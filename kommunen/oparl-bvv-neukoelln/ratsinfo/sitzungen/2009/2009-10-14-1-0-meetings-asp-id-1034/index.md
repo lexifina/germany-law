@@ -1,0 +1,72 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2009-10-14T17:20:00+02:00
+- Ende: 2009-10-14T21:20:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1034
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1034
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 1.1: Berliner Zentralbibliothek ins Rollbergviertel - gegenstandslos
+- TOP 1.2: Sarrazynismus - gegenstandslos
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl zum Bezirksstadtrat auf Vorschlag der Fraktion der CDU - gewählt
+- TOP 5.2: Überreichung der Ernennungsurkunde und Vereidigung des Bezirksstadtrates - erledigt
+- TOP 5.3: Wahl zum stellvertretenden Bezirksbürgermeister auf Vorschlag der Fraktion der CDU - gewählt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Übertragung eines Geschäftsbereiches an ein neues Bezirksamtsmitglied - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlage zur Wahl - (offen)
+- TOP 7.1: Nachwahl eines Mitgliedes in den Beirat für das Krankenhaus Neukölln - gewählt
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Zustimmung zur Entscheidung über die Erneuerung der Mischwasserkanäle der Mierstraße zwischen Lahnstraße und Mittelbuschweg - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Bebauungsplan XIV-179 vom 21.04.2009 - Campus Rütli - - ohne Änderungen in der BVV beschlossen
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Leitungswege Körnerkiez - beantwortet
+- TOP 9.2: Unterrichtsausfall an Rixdorfer Grundschule - beantwortet
+- TOP 9.3: Geregelter Geschäftsbetrieb des Eigenbetriebes "Kindertagesstätten SüdOst" - beantwortet
+- TOP 9.4: Aktionstag "Gewalt gegen Frauen" - beantwortet
+- TOP 9.5: Großrazzia gegen Islamisten in Berlin - beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Schulstrukturreform - Kein Schnellschuss zu Lasten der Schüler! - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Übernahme von Mietrückständen durch das JobCenter? - beantwortet
+- TOP 11.2: Gebetsräume in Neuköllner Schulen? - beantwortet
+- TOP 11.3: Kontrolle in Pflegeheimen - beantwortet
+- TOP 11.4: Unfallschwerpunkt Sonnenallee/Ziegrastraße - beantwortet
+- TOP 11.5: Schule ohne Rassismus - Schule mit Courage - beantwortet
+- TOP 11.6: Mehrsprachige Informationen über Influenzavirus A/H1N1 ("Schweinegrippe") - beantwortet
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Aktueller Stand der Instandhaltungsmaßnahmen des Eigenbetriebes SüdOst im Rahmen des Konjunkturprogramms - schriftlich beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Unterstützung für die Weltkulturerbestätten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Übernahme von Mietrückständen nach SGB II - überwiesen
+- TOP 13.3: Skulpturen-Park für junge Künstler auf dem Gelände des St. Thomas Friedhofs - überwiesen
+- TOP 13.4: Alte Tradition wiederbeleben - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Bebauungsplan Schulneubau Clay-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: "BAOBAB"-Fußballturnier - überwiesen
+- TOP 13.7: Zuschüsse zu Kita-Fahrten für Kinder aus Hartz-IV-Familien - überwiesen
+- TOP 13.8: Hinweisschild zum Namibia-Gedenkstein - in der BVV abgelehnt
+- TOP 13.9: Aufstellen von Fahrradbügeln - überwiesen
+- TOP 13.10: Arbeitsgelegenheiten für psychisch- und suchtkranke Menschen - überwiesen
+- TOP 13.11: Mitwirkung von Betroffenen für Untersuchungs- und Sanierungsgebiete im Bezirk Neukölln sicherstellen - überwiesen
+- TOP 13.12: Bedarfsampel am Columbiadamm - überwiesen
+- TOP 13.13: Wohnungen im geschützten Marktsegment - überwiesen
+- TOP 13.14: Reitergrab - überwiesen
+- TOP 14: Mitteilungen - erledigt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: 650 Jahre Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Kampagne gegen AIDS-Präventionsmüdigkeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Frühwarnsystem für Säuglinge und Kleinkinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Generationsübergreifendes Wohnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Kassenärztliche Vereinigung auflösen? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Öffentlicher Beschäftigungssektor (ÖBS) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Telefonnummer des JobCenters - mit Abschlussbericht zur Kenntnis genommen
