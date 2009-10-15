@@ -1,0 +1,60 @@
+# 34. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-10-15T16:30:00+02:00
+- Ende: 2009-10-15T19:00:00+02:00
+- Ort: Alt-Köpenick 21, 12555 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2251
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2251
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=72666
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl eines Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: "Schule ohne Rassismus - Schule mit Courage" - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Kulturwerk Schöneweide e. V. (SM 936) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Industriesalon Schöneweide e. V. (SM 948) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für NBZ Hessenwinkel e.V. (SM 949) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Bürger für Rahnsdorf e. V. (SM 946) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Änderung des Sitzungsterminplanes 2009 der BVV Treptow-Köpenick von Berlin - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Spreepark - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Ausstellung über geraubte Bücher der Berliner Juden in Treptow-Köpenick zeigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Neuer Standort Köpenicker Feuerwehr - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Fluglärm-Messstelle in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Sammelbehälter für Leuchtstofflampen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Prüfung der Liegenschaft "Alte Feuerwache", Michael-Brückner-Str. 9, 12439 Berlin, als Standort für die Mittelpunktbibliothek Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Ampelanlage für Kreuzung Walter-Huth-Str. / Segelfliegerdamm - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Veröffentlichung der Beschlüsse der Bezirksverordnetenversammlung - vertagt
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Benennung von 5 Straßen im B-Plan-Gebiet XV-70 a "Bohnsdorf West", die sich noch im Bau befinden Transversale: Alexander-Meißner-Straße Planstraße Nord: Ludwig-Prandtl-Straße Planstraße West: Gebrüder-Hirth-Straße Planstraße Mitte: Melitta-Schiller-Straße Planstraße Ost: Rita-Maiburg-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung des im Ortsteil Oberschöneweide gelegenen Weges 7 in "Fritz-König-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan XV-12-1 ("Wildenbruchstraße") hier: Änderung zum Bezirksamtsbeschluss Nr. 487/05 vom 15.11.05 zur Festsetzung des Bebauungsplanentwurfes XV-12-1 ("Wildenbruchstraße") vom 07. September 2005 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Baugenehmigung für Jugendherberge auf dem FEZ-Gelände schnell erteilen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Parkverbot in der Melli-Beese-Straße - überwiesen
+- TOP 14.3: Benutzungspflicht für Radwege in Bahnhofstraße aufheben - vertagt
+- TOP 14.4: Verfahren bei Benennungen von Straßen und Plätzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Offener Bücherschrank - überwiesen
+- TOP 14.6: Abitur an den Gemeinschaftsschulen - überwiesen
+- TOP 14.7: Miete für den Pavillon der Schlossplatzbrauerei - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Martin-Hoffmann-Straße und Victor-Hoffmann-Straße - überwiesen
+- TOP 14.9: Radwege Köpenicker Landstraße - vertagt
+- TOP 14.10: Solaranlagen auf Bezirksgebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Lauffener Straße mit „ff“ - überwiesen
+- TOP 15: Große Anfragen - im Ausschuss abgelehnt
