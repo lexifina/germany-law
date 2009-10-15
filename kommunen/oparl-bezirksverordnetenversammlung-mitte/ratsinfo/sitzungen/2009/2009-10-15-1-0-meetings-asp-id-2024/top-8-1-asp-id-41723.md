@@ -1,0 +1,8 @@
+# TOP 8.1: Nachschiebelisten zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2010 und 2011
+
+- Sitzung: 29. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (2009-10-15)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=41723
+- Ergebnis: überwiesen
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=41723
