@@ -1,0 +1,81 @@
+# 29. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-10-15T17:30:00+02:00
+- Ende: 2009-10-15T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2024
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2024
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=71873
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Umgang mit dem Heimatverein - beantwortet
+- TOP 5.2: Berliner Buddybär (BBB) in Bottrop - beantwortet
+- TOP 5.3: Politisches Bezirksamt ja, politische Verwaltung nein Danke! - beantwortet
+- TOP 5.4: Kantinenschließung - beantwortet
+- TOP 5.5: Partnerschaften mit den Heimatvereinen in Mitte - schriftlich beantwortet
+- TOP 5.6: Sonderberatung für arbeitslose Angestellte der SPD-Fraktion - schriftlich beantwortet
+- TOP 5.7: Außer Spesen nichts gewesen? - schriftlich beantwortet
+- TOP 5.8: Kiezspaziergang in der Spandauer Vorstadt - eine fehlgeschlagene Kontrolle? - schriftlich beantwortet
+- TOP 5.9: Einnahmen durch Werbung auf Parktickets - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Rathauskantinen in Mitte kaltgestellt? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Aktive Stadtzentren - schriftlich beantwortet
+- TOP 7.2: QPK - Gesundheitsplanung, Koordination und Qualitätsentwicklung im Haushaltsplan 2010/2011 - schriftlich beantwortet
+- TOP 7.3: Schleichende Entmietung der Wilhelmstraße? - schriftlich beantwortet
+- TOP 7.4: Kategorienveränderungen in den QM-Gebieten Brunnenviertel-Brunnenstr. und Brunnenviertel-Ackerstr. - schriftlich beantwortet
+- TOP 7.5: Heizpilze in Mitte forever - Wann setzt das Bezirksamt endlich das Heizpilzverbot um? - schriftlich beantwortet
+- TOP 7.6: Gebetsräume in den Schulen des Bezirks? - schriftlich beantwortet
+- TOP 7.7: Kinder- und Jugendprojekte im Bezirk: Leistungseinschränkungen durch neue Finanzierungsmodelle? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Nachschiebelisten zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2010 und 2011 - überwiesen
+- TOP 8.2: Sitzungskalender 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl eines Mitgliedes für den Vorstand der BVV - in der BVV abgelehnt
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Beitragspflichtige Erneuerung der Straßenentwässerung der Verkehrsanlage Drontheimer Straße im Abschnitt von Osloer Straße bis Soldiner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beitragspflichtige Erneuerung der Straßenentwässerung der Verkehrsanlage Tromsöer Straße von Schwedenstraße bis Überbauung (=Ende der öffentlichen gewidmeten Straße) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Berlinweite Bildungsoffensive in der Kinder- und Jugendarbeit - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Rechtliche Prüfung der Finanzierungspflicht nach § 11 und 79 SGB VIII - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Programmplanung "Aktive Stadtzentren" - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mittes Ressourcen nutzen: KleingärtnerInnen helfen bei gesunder Ernährung an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Wilhelmstraße - Wohnungen sind zum Wohnen da! - überwiesen
+- TOP 12.6: Altersbeschränkungen überprüfen und zeitgemäß anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Zivilschutzanlagen Blochplatz und Pankstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verwaltungsvorschrift "Aktive Stadtzentren" - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Interessenbekundungsverfahren für Energiepartnerschaften - mit Änderungen in der BVV beschlossen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Verbraucherinformationsgesetz bürgerfreundlich umsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Bürgerschaftliches Engagement in und für Mitte fördern (I): Unterstützung der Stiftung "Gute Tat" - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Für eine zeitgemäße SeniorInnen-Politik - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Nachnutzungskonzept für die Reformationskirche im Beusselkiez - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: W-LAN in den für Publikumsverkehr geöffneten bezirklichen Gebäuden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Umweltentlastungsprogramm endlich auch in Mitte nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Erhaltungssatzung für das Hansaviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Beschluss über das Ergebnis der Behördenbeteiligung und die Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB des Bebauungsplans I-32b "Holzufer" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Beauftragung Quartiersmanagement-Gebiet Moabit Ost (Perleberger-/Wilsnacker Str.) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Änderung des Geltungsbereichs und Fortführung des Bebauungsplanverfahrens I-33 "Heinrich-Heine-Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Änderung der Einschulungsbereiche für die Grundschulen im Bezirk Mitte - Verlängerung - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Entwicklungskonzept des Quartiersmanagement-Gebietes Moabit Ost 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Konsolidierungskonzept des Bezirksamtes Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Beschluss über die Ergebnisse der Öffentlichkeitsbeteiligung Gem. § 3 Abs. 1 BauGB und Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB zum Bebauungsplanentwurf III-61-2 und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Weiterführung des Bebauungsplans 1-50 als vorhabenbezogener Bebauungsplan 1-50VE, die Weiterführung des Bebauungsplans 1-50VE auf der Grundlage des § 13a Abs. 1 Satz 2 Nr. 1 Baugesetzbuch als beschleunigtes Verfahren ohne Durchführung einer Umweltprüfung nach § 2 Abs. 4 Baugesetzbuch, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch entsprechend der sich hieraus ergebenden Vorgaben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Beschluss über das Ergebnis der Behördenbeteiligung zu den Bebauungsplanentwürfen I-B5c, I-B5d, I-B5h, I-B5i, I-B5p, I-B5r, I-B5s und I-B5v gem. § 4 Abs. 2 BauGB, die Teilung des Bebauungsplanes I-B5c in die Bebauungspläne I-B5ca und I-B5cb sowie dieDurchführung der öffentlichen Auslegung zu den Bebauungsplanentwürfen I-B5ca, I-B5d, I-B5h, I-B5i, I-B5p, I-B5r, I-B5s und I-B5v gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
