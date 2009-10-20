@@ -1,0 +1,110 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-10-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1576871
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1576871
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: SWM-Hallenbad; Klausenerstraße; Frauenebadetag Bürgerschreiben vom 04.09.2009 siehe Protokoll Ortstermin vom16.09.2009 Antrag der Fraktion Bündnis 90 DIE GRÜNEN vom 05.10.2009
+- TOP 2.2.: Ruhestörung in der Säbener Straße durch Vereinsheim Sportfreunde e.V. Bürgerschreiben vom10.09.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Mehr Platz zum Leben, für die Maßnahme: gemeinsames Christbaumschmücken am 04.12.2009; Antragssumme 3004,24 ?; Antrag vom 20.09.2009
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Planung nicht nur einer S-Bahn-Stammstrecke Süd, sondern eines gesamten S-Bahn-Ring Antrag der SPD Fraktion vom September 2009 (vertagt aus Sitzung vom 15.09.2009)
+- TOP 3.1.: Verlängerung Buslinie 135 zur Alemannenstraße Antrag der CSU Fraktion vom 30.09.2009
+- TOP 3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Lohstraße 24 Schreiben des KVR vom 14.09.2009 mit der Bitte um Stellungnahme bis 29.10.2009
+- TOP 3.2.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen Antrag Nr. 08-14 / A 01054 der Stadtfraktion DIE GRÜNEN / RL vom 21.09.2009 Stellungnahme bis zum 09.11.2009
+- TOP 3.1.: Fußgängerüberweg Tauern- / Grünwalder- / Bozener- Straße Antwortschreiben des KVR vom 25.09.2009 zum Schreiben vom 27.07.2009
+- TOP 3.2.: Antwortschreiben des Baureferates zu: Änderungsvorschläge Hans-Mielich-Straße (kostengünstige Umgestaltung zur Verkehrsberuhigung und Ermöglichung einer Tempo-30-Zonenregelung)
+- TOP 3.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; Am Mühlbach 5 Seite Kupferhammer- bzw. Lohstraße; Halteverbot Schreiben vom Kreisverwaltungsreferat vom 30.03.2009
+- TOP 3.2.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemittel Beschluus des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 3.3.: Armanspergstr. 1 / Seite Naupliasrtraße; Errichtung eines eingeschränkten Halteverbots mit Zeichen 286 StVO
+- TOP 3.4.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009 Sitzungsvorlage Nr. 08-14 / V 02958 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen in der Grünwalder Straße; Schreiben des Referats für Stadtplanung und Bauordnung vom 03.09.2009 3.3.6.1.2 Anwesen in der Burggspergerstraße 31; Schreiben des Referats für Stadtplanung und Bauordnung vom 14.09.2009 3.3.6.1.3 Anwesen Aretinerstraße 29; Schreiben des Referats für Stadtplanung und Bauordnung vom 15.09.2009 3.3.6.1.4 Anwesen Waldeckstr. 30 Schreiben des Referats für Stadtplanung und Bauordnung vom 18.09.2009
+- TOP 3.2.: Isar-Plan Verbesserung der Hochwassersicherheit und naturnahe Umgestalltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München Planungsabschnitt III, Bauabschnitt 7: "Realisierung des Isar-Planes zwischen Braunauer Eisenbahnbrücke und der Corneliusbrücke" Ergebnisse des Modellversuchs für den Planungsabschnitt Nord von ca. 300 m südlich der Reichenbachbrücke bis zur Corneliusbrücke Bekanntgabe in der Sitzung des Bauausschusses vom 29.09.209
+- TOP 3.1.: Beteiligung derBezirksausschüsse im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf "PRO-LBK"; Ausweitung des Pilotprojekts "Digitales Beteiligungsverfahren für die BAs" auf die Bezirksausschüsse 13 - 18 ab 01.10.2009
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Neubau eines 6-gruppigen Hortes mit Teilunterkellerung für einen Vereinsstandort zur Sicherung des FC Alemannia 1912 e.V. Rotbuchstraße 79 b, 18. Stadtbezirk Untergiesing-Harlaching 1. Ausführungsgenehmigung 2. Änderung des Mehrjahresinvestitionsprogramms 2009 - 2013 Beschluss des Schul- und Sportausschusses des Stadtrates vom 23.09.2009 (SB) und (VB)
+- TOP 3.2.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" Beschluss des Kinder- und Jugendhilfsausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB) 3.4.6.2.1 der Zentrale München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit Antrag Nr. 08-14 / A 01013 der Stadtfraktion DIE GRÜNEN / RL vom 19.08.2009 Sitzungsvorlage Nr. 08-14 / V 02890 3.4.6.2.2 des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 08-14 / V 02841 3.4.6.2.3 des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 08-14 / V 02831 3.4.6.2.4 des Stadtjugendamtes Sitzungsvorlage Nr. 08-14 / V 02839
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Planung einer Zukunftswerkstatt für Untergiesing und Durchführung mit Hilfe des Münchner Forums - speziell für den Bereich Birkenau und zwischen Bahn und Candidplatz (vertagt aus der Sitzung vom 15.09.2009)
+- TOP 3.1.: Anwesen Hans-Mielich-Platz 2; Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschluss des Bezirksausschusses des Stadtbezirkes 18 vom 20.10.2009 Stellungsnahme des Kreisverwaltungsreferats - <div>vertagt</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Vollzug von § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2 Anhörung im Einzelfall auf Anforderung Geiselgasteigstr. 153, Gemarkung: Sektion VII, Fl.Nr.: 12871/6 Umbau und Erweiterung einer Gaststätte mit Bier- und Gastgarten sowie Neubau von Carports (vertagt aus der Sitzung vom 15.09.2009)
+- TOP 3.2.: Vollzug von § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2 Anhörung im Einzelfall auf Anforderung Grünwalder Straße 40, Gemarkung: Sektion VII, Fl.Nr.: 12935/0 Nutzungsänderung einer ehem. Stallung und eines Lagers in Wohnraum sowie Umbau des Wohnbestandes
+- TOP 3.3.: Vollzug von § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2 Anhörung im Einzelfall auf Anforderung Agilolfingerstraße 23, Gemarkung: München Sektion VII, Fl.Nr.: 12675/16 Neubau zweier Dachgeschosse mit 6 Wohnungen / Häuser A+B (Agilolfingerstr. 23 / Konradinstr. 30 / Thuseneldastr. 3) TEKTUR zu 1.22-2006-37355-33 (Hs. A)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Vollzug von § 13 der BA-Satzung Katalog-Angelegenheit Nr. 9.1 Vollzug der Baumschutzverordnung (vertagt aus der Sitzung vom 15.09.2009)
+- TOP 3.1.: Sitzung des Bezirksausschuss 18 vom 18.08.2009; Alkoholausschank an den Kiosken im Isarbereich; Stellungnahme PI 23
+- TOP 3.2.: Dauerhafte Sicherung des Anwesens Harthauser Straße 94 in städtischem Eigentum; Nutzung für soziale Zwecke / Einrichtungen nach dessen Verfügbarkeit zum Antrag Nr. 1423 des BA 18 vom 21.07.2009
+- TOP 3.1.: Hinweisblatt / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 Perspektive München Langfristige Siedlungsentwicklung a) Grundsatzbeschluss - Rahmenbedingungen und Trends - Potenziale - Schlussfolgerungen b) Weiteres Vorgehen c) Vergabe eines Werkvertrags Sitzungsvorlagen Nr. 08-14/ V 02475
+- TOP 3.2.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Bagatellgrenze bei der Förderquote; Einführung als "Kann-Bestimmung" bei Befreiung nach § 31 Absatz 2 Baugesetzbuch (BauGB) 2. Abschaffung der mietwirksamen, ratenweise fälligen Kaufpreisbestandteile ("mietpreisrelevante Geldleistungen") bei städtischen Grundstücken für die Einkommensorientierte Förderung- EOF 3. Einführung einer einheitlichen Regelung für Mietsteigerungen im geförderten Mietwohnungsbau auf städtischen Grundstücken (Münchner Modwll-Miete, Münchner Modell-Genossenschaften, KomPro A und B, EOF) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 3.3.: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahmen "Wettbewerb Energieeffiziente Stadt 2020+" des Förderkonzeptes "Grundlagenforschung Energie2020+" Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 3.4.: Erhaltungssatzung in den Stadtbezirken 5 Au-Haidhausen und 18 Untergiesing-Harlaching Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 3.5.: Baufälle im 18. Stadtbezirk
+- TOP 3.6.: Schutz der Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen Antrag Nr. 08-14 / A 01038 der Stadtratsfraktion der SPD vom 11.09.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Vorbereitung und Durchführung einer Versammlung für Kinder und Jugendliche (vertagt aus der Sitzung vom 15.09.2009) - <div>vertagt</div>
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 - 2014
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Erhalt des Kaufhauses Hertie an der Tegernseer Landstraße; Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft am 29.09.2009 zum Antrag Nr. 08 -14 / B00958 des Bezirksausschusses des Stadtbezirkes 18 Untergiesing- Harlaching vom 17.03.2009
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.1.: UA Budget: Freitag, 16.10.09, 19.00 Uhr, Gaststätte "Asia Grill", Grünwalder Straße 14 UA Verkehr: Montag, 12.10.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Umwelt: Donnerstag, 15.10.09, 18.00 Uhr, Gaststätte "Gartenstadt" UA Soziales: Dienstag, 13.10.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Bau und Planung: Donnerstag, 15.10.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Kultur, Veranstaltungen: Montag, 19.10.09, 18.00 Uhr, Gaststätte "Hans-Mielich"
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
