@@ -1,6 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums der Justiz zur Ausführung der Bundesnotarordnung (BNotOVO)
 Vom 16. Dezember 1998
-Rechtsbereinigt mit Stand vom 28. Mai 2002
+Rechtsbereinigt mit Stand vom 21. Oktober 2009
 Es wird verordnet aufgrund von
 1. § 6 Abs. 3 Satz 4, § 7 Abs. 5 Satz 2, § 9 Abs. 1 Satz 2 und § 25 Abs. 2 Satz 1 der Bundesnotarordnung (BNotO) in der im Bundesgesetzblatt III, Gliederungsnummer 303-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 1 des Gesetzes vom 31. August 1998 (BGBl. I S. 2585),
 2. Artikel 13 Abs. 8 des Dritten Gesetzes zur Änderung der Bundesnotarordnung und anderer Gesetze vom 31. August 1998 (BGBl. I S. 2585),
