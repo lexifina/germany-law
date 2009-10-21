@@ -1,0 +1,97 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2009-10-21T17:00:00+02:00
+- Ende: 2009-10-21T20:55:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1478
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1478
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Raststätte "Dreilinden" als Diskothek - beantwortet
+- TOP 3.2: Klimaschädliche Heizpilze in bezirkseigenen Liegenschaften - beantwortet
+- TOP 3.3: Park am Platz vor der Dreifaltigkeits-Gemeinde in Lankwitz - beantwortet
+- TOP 3.4: Pendeln statt Unterricht am Arndt-Gymnasium? - beantwortet
+- TOP 3.5: Kioskbau an der Karwendelstraße / Ringstraße - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitsfeststellungen - erledigt
+- TOP 4.1.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Feststellungen - erledigt
+- TOP 4.2.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Abberufungen - erledigt
+- TOP 4.3.1: Abberufung eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.4.1: Wahl der 4. stellvertretenden Schriftführerin der BVV - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Wahl einer stellvertretenden Bürgerdeputierten im Ausschuss für Eingaben und Beschwerden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan XII-286 [Kleingartenkolonie Eugen-Kleine-Brücke] - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.6: Anträge - erledigt
+- TOP 4.6.1: Unternehmensservice im Amt für Wirtschaftsförderung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Kennzeichnung der Kurve Onkel-Tom-Straße im Wald als Gefahrenstelle - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Kreisverkehrregelung am Ende der Martin-Buber-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: S-Bahn-Krise: Hilfe für Geschäftsleute - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Den Pflegezustand der Parks in Steglitz-Zehlendorf nachhaltig verbessern - Jetzt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Keine Straßenbahn auf der Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Griechisches Gemeindezentrum erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Fördermöglichkeiten für Schulen durch das EU-Bildungsprogramm bei Auslandsaufenthalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Auch Gründerinnen in Steglitz-Zehlendorf unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Aushängeschild Hermann-Ehlers-Platz (Teil II) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: Absolutes Halteverbot an der Kreuzung Am Waldfriedhof / Stewardstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Fahrradangebotsstreifen in der Finckensteinallee vom Dahlemer Weg bis zur Baseler Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Tempo 30 vor der Nord-Grundschule in der Fischerhüttenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Beleuchtung in der Waltershauser Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.11: Gehwegüberfahrt zwischen "Saturn" und "Kaiser's" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.12: Müllbehälter in der Grünanlage an der Schildhornstraße zwischen Gritznerstraße und Breitenbachplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.13: Wo bleiben die Schulhelfer? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.14: Rosen für den Rosengarten in Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.15: Gepflegtes Umfeld für das Schloßpark Theater - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Aus der letzten BVV vertagte Drucksachen: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.1.1: Wiederinbetriebnahme der Stammbahn zwischen Zehlendorf und Potsdam - überwiesen
+- TOP 5.2: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.2.1: Weiternutzung des Münterbaus des Arndt-Gymnasiums - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Fahrradangebotsstreifen in der Drakestraße - überwiesen
+- TOP 5.3.2: Fahrräder am Bahnhof Lichterfelde-Ost - überwiesen
+- TOP 5.3.3: Einstimmigen Bürgerwillen respektieren! - überwiesen
+- TOP 5.3.4: Weiterentwicklung der schulbezogenen Jugendsozialarbeit - überwiesen
+- TOP 5.3.5: Kreuzung Englerallee/Schorlemerallee entschärfen - überwiesen
+- TOP 5.3.6: Eine grundständige Gymnasialklasse am Paulsen-Gymnasium - überwiesen
+- TOP 5.3.7: Hunde-Leinenzwang im südlichen Bereich des Schlachtensees - überwiesen
+- TOP 5.3.8: Ausgleichsflächen schaffen - überwiesen
+- TOP 5.3.9: Grüner Sichtschutz "Bunker" Schwanenwerder - überwiesen
+- TOP 5.3.10: Erhalt des Miniclubs im JFE Flemmingstraße - überwiesen
+- TOP 5.3.11: Pflegestützpunkte im Bezirk bekannt machen - überwiesen
+- TOP 5.3.12: Aktuelle Zahlen zur Bestandsanalyse für Integrationskonzept - überwiesen
+- TOP 5.3.13: Baumschutz transparent machen - überwiesen
+- TOP 5.3.14: Vorplatz Rathaus Zehlendorf - überwiesen
+- TOP 5.3.15: Absolutes Halteverbot an der Einmündung Scharfestraße/Clayallee - überwiesen
+- TOP 5.3.16: Teilzeit-Ausbildung im Bezirksamt Steglitz-Zehlendorf ermöglichen - überwiesen
+- TOP 5.3.17: Zeitpunkt der Statikkontrollen in den Sporthallen - überwiesen
+- TOP 5.3.18: Kostenloses Obst für alle Berliner Schüler - überwiesen
+- TOP 5.3.19: Widerspruchsbescheide - überwiesen
+- TOP 5.3.20: Abriss-, Neubau- und Nutzungsänderungsverfahren - überwiesen
+- TOP 5.3.21: Klasse Licht für helle Köpfe - überwiesen
+- TOP 5.3.22: Zerstörungswut am S-Bahnhof Sundgauer Straße - überwiesen
+- TOP 6: Aus der letzten BVV vertagte Drucksachen - erledigt
+- TOP 6.1: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1.1: Keine Klassenlotterie für unsere Schüler - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.2.1: BVV-Beschluss Nr. 717 vom 17. Juni 2009. Zustimmung zum Ausbau der Hildburghauser Straße von Bezirksgrenze bis Blanckertzweg und des Blankertzweges (Drucksache 1037/III) - in der BVV abgelehnt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Placebos gegen "Scheinanmeldungen?" - beantwortet
+- TOP 7.2: Schlüsselverträge im Bezirk - in der BVV zurückgezogen
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Aufruf zum Bildungsstreik an der Wilma-Rudolph-Gesamtschule? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Runter vom Gas auf dem Steglitzer Damm! - vertagt
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Fahrradbügel Stadion Lichterfelde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Schlusswort des Vorstehers - erledigt
