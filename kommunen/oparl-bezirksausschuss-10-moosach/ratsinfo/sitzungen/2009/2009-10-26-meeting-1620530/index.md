@@ -1,0 +1,78 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-10-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620530
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620530
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: "Graues Park- und Ride" im Umfeld des Memminger Platzes / Ortstermin vom 07.10.09
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Sanierung der Sportanlagen Saarlouiser Straße
+- TOP 4.2.: Öffentliche Nutzung des städtischen Grundstücks Bunzlauer Straße
+- TOP 4.3.: Städtisches Grundstück Bauberger-, Bunzlauer-, Gubestraße
+- TOP 4.4.: Wochenmarkt Moosach
+- TOP 4.5.: Parkregelung und Bauzustand Pelkovenstraße West
+- TOP 4.6.: Baumpflanzungen Pelkovenstraße vor "Terrano"
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Initiative "Opernball": 1. Moosacher Operball am 01.05.10
+- TOP 6: Anhörungen
+- TOP 6.1.: Postsportverein München e.V.: 1.) Großinstandsetzung der Toilettenanlage im Sporthallengebäude an der Franz-Mader-Str. 11, 2.) Änderung des Mehrjahresinvestitionsprogramms 2009-2013
+- TOP 6.2.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 6.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014 (vertagt aus der BA-Sitzung vom 28.09.09)
+- TOP 6.4.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Dobmannstr. 10 mit 24 Kinderkrippenplätzen / Umbau
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Rückschnitt von Hecken an öffentlichen Fußwegen (wurde bereits größtenteils erledigt)
+- TOP 7.2.: Lärmbelastung durch den Neubau der technischen Betriebszentrale in der Schragenhofstraße (Dauer der Bauarbeiten bis Ende 2011)
+- TOP 7.3.: Situierung des Wartehäuschens am Moosacher Stachus nach dem U-Bahn-Bau (Situierung so weit im Westen, dass Platzbereich nicht beeinträchtigt)
+- TOP 7.4.: Befestigung der gekiesten Einfahrt der Berufsschule am Kapuzinerhölzl (Asphaltierung bereits im Juni 2009, Schlussabnahme des Bauvorhabens in Kürze)
+- TOP 7.5.: Absolutes Haltverbot Am Kapuzinerhölzl (dem Antrag des BAs wird entsprochen)
+- TOP 7.6.: Option der Nachrüstung einer Fußgängerampel bei der neu zu errichtenden LZA Allacher Straße / Melitta-Bentz-Straße (Ambossstraße) (wird vorgesehen)
+- TOP 7.7.: Beibehaltung des Schulbusses In den Kirschen - Amphionparkschule bis zum Abschluss des Kreuzungsumbaus Allacher Straße / Wintrichring (nicht möglich)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München GmbH
+- TOP 8.3.: Geplante Netzbaumaßnahmen der Stadtwerke München GmbH im Stadtbezirk 10 Moosach; Stand: September 2009
+- TOP 8.4.: Anzeige einer Versammlung unter freiem Himmel am 26.09.09 vor dem OEZ, Hanauer Str. 68
+- TOP 8.5.: Filmaufnahmen auf öffentlichem Verkehrsgrund am 01.10.09; Puchheimer Straße, Gröbenzeller Straße
+- TOP 8.6.: Filmaufnahmen auf öffentlichem Verkehrsgrund am 02.10., 05. - 08.10. und 16.10.09; Rathgeberstr. 35
+- TOP 8.7.: Filmaufnahmen auf öffentlichem Verkehrsgrund am 05.10.09; Rathgeberstr. 35 bis Memminger Platz
+- TOP 8.8.: Bewilligung einer Zuwendung aus dem Budget des BA 10; Antragsteller: Kath. Pfarramt St. Martin
+- TOP 8.9.: Veranstaltungen / Kooperationen Oktober 2009
+- TOP 8.10.: Niederschrift über die 227. Sitzung der Kommission für Stadtgestaltung vom 21.07.09 (u.a. Pelkovenstr. 143-145, Aufstellung eines Bebauungsplans zur Errichtung eines Büro- und Geschäftshauses)
+- TOP 8.11.: Einladung zu einer Informationsveranstaltung der DFS Deutsche Flugsicherung GmbH am 11.12.09
+- TOP 8.12.: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Anwesen in der Simrockstraße
+- TOP 8.13.: Ampelschaltung im Bereich Wintrichring in Höhe "In den Kirschen" (Antrag BA 9 Neuhausen-Nymphenburg)
+- TOP 8.14.: Biotoppflege im Waldgebiet Kapuzinerhölzl in München-Moosach, Durchführung eines "Ramadama" (Schreiben BA 21 Pasing-Obermenzing)
+- TOP 8.15.: Dokumentation des Fachtags "28 Mio. Euro pro Jahr! Lohnt sich das?"
+- TOP 8.16.: Perspektive München, Langfristige Siedlungsentwicklung
+- TOP 8.17.: Ausweisung von Vorranggebieten für die Installation von Windrädern
+- TOP 8.18.: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+"
+- TOP 8.19.: Strukturelles Umsetzungskonezept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 8.20.: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen
+- TOP 8.21.: Pelkovenstraße zwischen Moosacher St.-Martins-Platz und Feldmochinger Straße
+- TOP 8.22.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK), Sachstand Konsolidierung 2008/2009, Feinkonzept 2010, Grobkonzept 2011;Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 8.23.: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP 8.24.: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 8.25.: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 8.26.: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 8.27.: 39. städtischer Fassadenwettbewerb; Fassadenpreis und Lobende Erwähnung 2008
+- TOP 8.28.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009-30.06.2009
+- TOP 8.29.: Fahrbahnverengung Am Kapuzinerhölzl; Dank an den Bezirksausschuss
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
