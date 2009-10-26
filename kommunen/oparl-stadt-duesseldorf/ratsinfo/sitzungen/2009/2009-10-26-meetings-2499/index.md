@@ -1,0 +1,87 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-10-26T14:00:00+01:00
+- Ende: 2009-10-26T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2499
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2499
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00137992.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00137992.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00137992.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführein des Rates - zur Kenntnis genommen
+- TOP 2: Verpfl. RM - zur Kenntnis genommen
+- TOP 3: Anerkennung TO - zur Kenntnis genommen
+- TOP 4: Genehmigung NS - zur Kenntnis genommen
+- TOP 5: Anfragen aus aktuellem Anlass - zur Kenntnis genommen
+- TOP 6: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen / Stellvertreter des Oberbürgermeisters - zur Kenntnis genommen
+- TOP 7: Wahl der ehrenamtlichen Stellvertreter/innen des Oberbürgermeisters - zur Kenntnis genommen
+- TOP 8: Bestellung des Wahlprüfungsausschusses - zur Kenntnis genommen
+- TOP 9: Bildung des Kommunalwahlausschusses - zur Kenntnis genommen
+- TOP 10: Bildung der Ausschüsse und Festlegung der Zahl ihrer Mitglieder - zur Kenntnis genommen
+- TOP 11: Bildung eines Integrationsausschusses - zur Kenntnis genommen
+- TOP 12: Wahl der Ausschussmitglieder sowie der Stellvertreterinnen und Stellvertreter - zur Kenntnis genommen
+- TOP 13: Jugendhilfeausschuss - Wahl von Mitgliedern - zur Kenntnis genommen
+- TOP 14: Schulausschuss - Wahl der Mitglieder - - zur Kenntnis genommen
+- TOP 15: Verteilung der Ausschussvorsitze und stellvertretenden Ausschussvorsitze - zur Kenntnis genommen
+- TOP 16: Änderung der Hauptsatzung - zur Kenntnis genommen
+- TOP 17: Änderung der Zuständigkeitsordnung - vertagt
+- TOP 18: Verfahrensordnung für die Wahl des Integrationsrates / Integrationsausschusses - zur Kenntnis genommen
+- TOP 19: Änderung der Satzung für die Stadtsparkasse Düsseldorf - zur Kenntnis genommen
+- TOP 20: Kreispolizeibeirat - Wahl der Mitglieder - - zur Kenntnis genommen
+- TOP 21: Umlegungsausschuss - Bestellung von Mitgliedern - - zur Kenntnis genommen
+- TOP 22: Bildung der 13. Landschaftsversammlung Rheinland - zur Kenntnis genommen
+- TOP 23: Konstituierung des Regionalrates - zur Kenntnis genommen
+- TOP 24: Neubildung des Beirates bei der Unteren Landschaftsbüro - zur Kenntnis genommen
+- TOP 25: Kuratorium der Anton- und Katharina Kippenberg Stiftung - zur Kenntnis genommen
+- TOP 26: Verbandsversammlung des Zweckverbandes Wildgehege Neandertal - zur Kenntnis genommen
+- TOP 27: Interkommunaler Ausschuss der KAG Stadt Düsseldorf - Kreis Mettmann - zur Kenntnis genommen
+- TOP 28: Wahl von Delegierten - Verein Förderung Abfallwirtschaft - zur Kenntnis genommen
+- TOP 29: Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes - zur Kenntnis genommen
+- TOP 30: Verbandsversammlung des Zweckverbandes IT-Kooperation Rhein-Ruhr - zur Kenntnis genommen
+- TOP 31: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - zur Kenntnis genommen
+- TOP 32: Verbandsversammlung Zweckverband Unterbacher See - zur Kenntnis genommen
+- TOP 33: Verbandsversammlung Zweckverband Verkehrsverbund Rhein-Ruhr - zur Kenntnis genommen
+- TOP 34: Kuratorium des NRW-Forum Kultur und Wirtschaft e.V. - zur Kenntnis genommen
+- TOP 35: Verbandsversammlung des Zweckverbandes Rhein-Ruhr - zur Kenntnis genommen
+- TOP 36: Wahl von Mitgliedern in die Lenkungsgruppe Lokale Agenda - zur Kenntnis genommen
+- TOP 37: Verwaltungsausschuss der Agentur für Arbeit Düsseldorf - Vorschlag zur Ersatzberufung - zur Kenntnis genommen
+- TOP 38: - Kapitalvertretung bei städtischen Eigengesellschaften und Beteiligungsunternehmen - zur Kenntnis genommen
+- TOP 39: Aufsichtsrat Stadtwerke Düsseldorf AG - zur Kenntnis genommen
+- TOP 40: Konsortialausschuss Stadtwerke D´dorf AG - zur Kenntnis genommen
+- TOP 41: Beirat Stadtwerke Düsseldorf AG - zur Kenntnis genommen
+- TOP 42: AR der Bädergesellschaft Düsseldorf mbH - zur Kenntnis genommen
+- TOP 43: Beirat der Bädergesellschaft Düsseldorf mbH - zur Kenntnis genommen
+- TOP 44: Aufsichtsrat der AWISTA GmbH - zur Kenntnis genommen
+- TOP 45: AR er Deutschen Oper am Rhein Theatergemeinschaft Düsseldorf-Duisburg gGmbH - zur Kenntnis genommen
+- TOP 46: Aufsichtsrat der Düsseldorfer Künstleratelier GmbH - zur Kenntnis genommen
+- TOP 47: Aufsichtsrat der Flughafen Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 48: Benennung der Vertreter/innen für den Beirat der Flughafen Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 49: Kommission nach § 32 b Luftverkehrsgesetz - zur Kenntnis genommen
+- TOP 50: Aufsichtsrat der Flughafengesellschaft Mönchengladbach GmbH - zur Kenntnis genommen
+- TOP 51: Aufsichtsrat der Industrieterrains Düsseldorf-Reisholz AG - zur Kenntnis genommen
+- TOP 52: Gesellschafterrat der IDR Public Management GmbH - zur Kenntnis genommen
+- TOP 53: Aufsichtsrat der Jugendberufshilfe Düsseldorf gGmbH - zur Kenntnis genommen
+- TOP 54: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 55: Beirat der Sana Kliniken Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 56: Aufsichtsrat der Kunsthalle Düsseldorf gGmbH - zur Kenntnis genommen
+- TOP 57: Aufsichtsrat Messe Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 58: Aufsichtsrat Neue Schauspiel-Gesellschaft mbH Düsseldorf - zur Kenntnis genommen
+- TOP 59: Aufsichtsrat der Regionalen Bahngesellschaft Kaarst-Neuss-Düsseldorf-Erkrath-Mettmann-Wuppertal mbH - zur Kenntnis genommen
+- TOP 60: Aufsichtsrat Rheinbahn AG - zur Kenntnis genommen
+- TOP 61: Aufsichtsrat Städtische Wohnungsgesellschaft AG - zur Kenntnis genommen
+- TOP 62: Verwaltungsrat der Werkstatt für angepaßte Arbeit GmbH - zur Kenntnis genommen
+- TOP 63: Aufsichtsrat Zukunftswerkstatt Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 64: Kuratorium der Stiftung museum kunst palast - zur Kenntnis genommen
+- TOP 65: Kuratorium der Stiftung museum kunst palast - zur Kenntnis genommen
+- TOP 66: Aufsichtsrat Quadriennale GmbH - zur Kenntnis genommen
+- TOP 67: Aufsichtsrat Neuss-Düsseldorfer- Häfen GmbH& Co.KG
+- TOP 68: Aufsichtsrat Hafen Krefeld GmbH& Co.KG
+- TOP 69: Kuratorium der ZERO-Foundation
+- TOP 70: Düsseldorfer Innovations- und Wissenschaftsagentur GmbH (DIWA GmbH)
