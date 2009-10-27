@@ -1,0 +1,83 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-10-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1631935
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1631935
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Antrag für einen mobilen Fahrradständer in der Berg-am-Laim-Str. 75
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Bebauungsplan Nr. 1971 ? Baumkirchner Straße - Hortsituation im Sprengel der Grundschule an der Berg-am-Laim-Str. - Grundschulversorgung im Stadtbezirk
+- TOP 3.2.: Kreillerstr. - Antrag auf Errichtung einer großflächigen Werbetafel
+- TOP 3.3.: Neu-/Umgestaltung Baumkirchner Straße ? Behrpark ? Rondell
+- TOP 3.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 3.2.: Ampelschaltung Truderinger Straße / Ecke Thomas-Hauser-Straße
+- TOP 3.3.: Rotlichtmissachtung Kreillerstr. westl. Fahrtrichtung
+- TOP 3.4.: Parkraummanagement im Stadtbezirk 14
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Theater des hölzernen Gelächters ? Antrag auf Bezuschussung
+- TOP 3.2.: Ludwig-Thoma-Realschule ? Afrika-Projekt - Antrag auf Bezuschussung
+- TOP 3.3.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2010 - 2014
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Berg-am-Laim-Str. 100 ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.2.: Riedgaustr. 1+3 ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.3.: Dingolfinger Str. 11 ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.4.: Waldstr. 1 ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.5.: Hohenbrunner Str. 17 ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Aufstellungsbeschluss Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2038 - Vogelweideplatz, Prinzregentenstraße (südlich), Riedenburger Straße (westlich), Truderinger Straße (nördlich) - (Änderung des Bebauungsplanes Nr. 350, Teiländerung des Bebauungsplanes Nr. 1456) a) Bericht über das Ergebnis des städtebaulichen und landschaftsplanerischen Ideenwettbewerbes b) Aufstellungsbeschluss
+- TOP 4.3.: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen; Antrag Nr. 08-14 / A 01038 der Stadtratsfraktion der SPD vom 11.09.2009
+- TOP 4.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 ? 30.06.2009 - Bekanntgabe -
+- TOP 4.5.: Grafinger Str. 6 - ?Bamboo Beach? - Unveränderte Fortführung
+- TOP 4.1.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Erfahrungen mit der Umsetzung des Beschlusses und Informationen über die Mittelverwendung 2007-2009 a) Erfahrungen mit der Umsetzung des Beschlusses der Vollversammlung des Stadtrates vom 23.11.2005 und Information über die Mittelverwendung 2007-2009 b) Anpassung der Bindungsdauer für den Ablösemitteleinsatz c) Anpassung der Finanzierungsgrenze für mit Ablösemittel finanzierte Stellplätze
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten Antrag Nr. 02-08 / A 03583 von Herrn Stadtrat Josef Schmid und Frau Stadträtin Eva Maria Caim vom 15.03.2007
+- TOP 4.2.: Dienststellenverständigung ? Städtische Kindertageseinrichtung ? Berg-am-Laim-Str. 124
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008/2009 -Feinkonzept 2010- Grobkonzept 2011 - Optimierung von Prozessen und Strukturen Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 4.2.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit Antrag Nr. 01013
+- TOP 4.3.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 4.4.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP 4.5.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 4.1.: Kinderinsel e.V. Haidhausen ? Zuwendungsbescheid
+- TOP 4.2.: Ludwig-Thoma-Realschule ? Verwendungsnachweis Afrikaprojekt
+- TOP 4.3.: Ludwig-Thoma-Realschule ? Verwendungsnachweis Griechenlandprojekt
+- TOP 4.4.: AK Lehm-Ziegel-Stadt ? Schriftverkehr
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Fällungsantrag Bertschstr. - Bescheid
+- TOP 4.2.: Fällungsantrag Großvenedigerstr. - Bescheid
+- TOP 4.3.: Fällungsantrag Hansjakobstr. - Bescheid
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
