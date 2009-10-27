@@ -1,0 +1,116 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2009-10-27T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1630581
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1630581
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Vorstellung des 1. Preises "Realisierungswettbewerb für studentisches Wohnen und Betreutes Wohnen im HaidPark" durch BLAUWERK Architekten (Bauherr: AWO München gemeinnützige Betriebs-GmbH)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Vorstellung des Projekts "Macht Barmherzigkeit, Pilgerweg der Hoffnung im Münchner Norden" durch Architekten Heim & Kuntscher, ein (Kunst-)Projekt im Rahmen des ökumenischen Kirchentages 2010
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Kurzbericht der Polizei
+- TOP .4.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 1.5.: Unterrichtungen
+- TOP .1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009
+- TOP .2.: Neubau eines Verwaltungsgebäudes auf dem stadteigenen Grundstück Belgradstr. 75 - 81 (Sozialbürgerhaus); mögliche Änderung der Zuordnung von Bezirksausschüssen bei Umzug der BA-Geschäftsstelle Nord
+- TOP 1.1.: Anträge
+- TOP 1.2.: Entscheidungen
+- TOP 1: Erhalt des Hasting Studios trotz Umbau der Reitschule Empfehlung Nr. 08-14 / E 00349 der Bürgerversammlung des Stadtbezirkes 12 ? Schwabing-Freimann am 14.07.2009
+- TOP 1.3.: Anhörungen
+- TOP 1.1.: Freisinger Landstr., FlNr. 548/0, Neubau eines Wasserkraftwerk-Gebäudes (Planungsreferat, 28.09.09)
+- TOP 1.2.: Städtebauliche Entwicklungsmaßnahmen Funkkaserne - Straßen und Platzbezeichnungen - (Planungsreferat, 24.09.09)
+- TOP 1.3.: Leopoldstr. 252, FlNr. 840/0; Umbau Geschäfts-/Bürogebäude mit TG, Ausbau Feuerwehr-Aufstellflächen (Planungsreferat, 06.10.09)
+- TOP 1.4.: Gemeinde Oberschleißheim; Bebauungsplan Nr. 60b Gewerbegebiet Sonnenstraße - 2. Änderung (Planungsreferat, 14.10.09)
+- TOP 1.5.: Clemensstraße 6, Dachgeschoss-Ausbau (Planungsreferat vom 19.10.2009)
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.1.: Gebrauchtwagenmarkt an der Freisinger Landstraße
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.1.: Überarbeitung der Kfz-Verkehrsplanung für die geplante Tramlinie 23, BA-Antrag Nr. 2444 vom 28.09.2004; Feldversuch zur Abhängung der Ungererstraße, BA-Antrag Nr. 2496 vom 26.10.2004; Zwischennachricht (auch UA Umwelt und Verkehr)
+- TOP 1.5.3.: Sonstige Unterrichtungen
+- TOP 1.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen
+- TOP 1.2.: Information über die weiteren Arbeiten am Nordkopf, U-Bahnhof Freimann (Schr. MVG, 22.09.09)
+- TOP 1.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: 39. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2008
+- TOP 1.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+"
+- TOP 1.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 1.6.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung
+- TOP 1.7.: Beschluss des Bauausschusses vom 15.10.09: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten
+- TOP 1.8.: Beschluss des Bauausschusses vom 15.10.09: Fuß- und Radwegbrücken in München
+- TOP 1.9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Mittlerer Ring (B 2 R), Machbarkeitsstudie Isarring / Ifflandstraße (auch UA Verkehr und Umwelt)
+- TOP 1.1.: Sicherheit auf dem Gehweg Theodor-Dombart-Straße im Bereich Tengelmann und Bauernmarkt (Initiative Werner Lederer-Piloty)
+- TOP 1: Radverkehr; Freigabe der Einbahnstraßenregelung für den gegenläufigen Radverkehr in der Siegesstraße zwischen Fendtstraße und Nikolaistraße Empfehlung Nr. 02-08 / E 00509 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 18.07.2006
+- TOP 1.2.: Auskleidung der Münzsauger mit lärmdämmendem Material und Verlagerung der Innenraumreinigung bei der OMV Tankstelle in der Ungererstraße (Ziffer 1 a und 1 b) Lichtabblendung bei der Tankstelle der Fa. ESSO -Ungererstr. 54- (Ziffer 2) Weiterbildung von Mitarbeiterinnen und Mitarbeitern im RGU zum Thema Lärm (Ziffer 3) Empfehlung Nr. 08-14 / E 00335 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 14.07.2009
+- TOP 1.3.: Aufstellen von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Martkstr. 15; Beschluss des BA 12 vom 27.10.09 (Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB vom 26.11.2007)
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Osterwaldstr. 64, gem. Baumbestandsplan Nr. 2009-21856A
+- TOP 1.2.: Am Blütenring 18, 6 Fichten
+- TOP 1.3.: Antwerpener Str. 23, 1 Rosskastanie
+- TOP 1.4.: Floriansmühlstr. 60, gem. Baumbestandsplan Nr. 22731
+- TOP 1.5.: Hilsbacher Str. 10 a, 1 Birke
+- TOP 1.6.: Rheinlandstr. 6, 1 Robinie
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 1.1.: Geschwindigkeitsbegrenzung auf 30 km/h (Z. 274 StVO) in der Leinthalerstraße und -brücke östlich der Libellenstraße und der Stadtgrenze östlich der Leinthalerbrücke (Isarbrücke)
+- TOP 1.3.3.: Sonstige Anhörungen
+- TOP 1.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen (KVR, 02.10.09) (auch UA Bildung, Kultur, Soziales)
+- TOP 1.1.: Baustelle Leinthalerstr.
+- TOP 1.2.: Planungen für die Straße "Am Kiefernwald", Verkehrszählung über das Verkehrsaufkommen 2Am Kiefernwald2 durch den Haidpark zum Carl-Orff-Bogen sowie einer Erprobungsphase nach Fertigstellung des Haidparks (vertagt aus 09/09)
+- TOP 1.3.: Zaun entlang der Straßenbahnlinie 23 (vertagt aus 09/09)
+- TOP 1.4.: Verkehrssituation an der Münchner Freiheit, Bushaltestelle vor dem Haus Herzogstr. 1 (vertagt aus 09/09)
+- TOP 1.5.: Tiefgaragenausfahrt Eigentumswohnanlage Johann-Fichte-Str. 15 - 21 (vertagt aus 09/09)
+- TOP 1.6.: Bauarbeiten in der Kurwenalstraße 3
+- TOP 1.7.: Park- bzw. Fahrsituation in der Parkstadt Schwabing
+- TOP 1.1.: Hinweise auf das Metropol-Theater im U-Bahnbereich Freimann (Schr. KVR, 24.09.09)
+- TOP 1.2.: Erhöhung der Sichtbarkeit der Ampel an der Einmündung Situlistraße in der Freisinger Landstraße
+- TOP 1.3.: Überarbeitung der Kfz-Verkehrsplanung für die geplante Tramlinie 23, BA-Antr. Nr. 2444 vom 28.09.2004 Feldversuch zur Abhängung der Ungererstraße, BA-Antr. Nr. 2496 vom 26.10.2004; Zwischennachricht (auch UA Stadtplanung und Architektur)
+- TOP 1.1.: Rettungswegbeschilderung auf dem Privatweg von der Werner-Heisenberg-Allee zur Allianz-Arena (Schr. KVR, 24.09.09)
+- TOP 1.2.: Leinthalerstraße und -brücke - Geschwindigkeitsbegrenzung auf 30 km/h (Z 274 StVO) (Schr. KVR, 08.10.09)
+- TOP 1.5.3.: Genehmigte Baumfällungen
+- TOP 1.1.: Siegesstr. 12, Antrag auf Baumveränderung vom 09.07.09
+- TOP 1.1.: Vollzug der Grünanlagensatzung vom 12.08.1991: - Baustelleneinrichtung in der Grünanlage an der Biedersteiner Str. 22 - 32 (Schr. KVR, 16.09.09) - Baustelleneinrichtung in der Grünanlage an der Biedersteiner Str. 32 (Schr. KVR, 24.09.09) - Baustelleneinrichtung an der Münchner Freiheit (Schr. KVR, 05.10.09)
+- TOP 1.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 1.3.: Information über Betriebskonzept der U6 während den Arbeiten an der Münchner Freiheit und an der Autobahnbrücke Freimann (Schr. MVG, 23.09.09)
+- TOP 1.4.: Bushaltestelle Münchner Freiheit, Anwohnerschreiben vom 12.08.09 (Schr. SWM, 22.09.09)
+- TOP 1.5.: Baumaßnahmen der SWM: - Fernwärmeprojekt Funkkaserne, Änderung im Terminablauf (Schr. SWM, 25.09.09) - Fernwärmeprojekt Gustav-Mahler-Str. (Schr. SWM, 29.09.09) - Fernwärmeprojekt U-Bahn Münchner Freiheit (Schr. SWM, 29.09.09) - Stromprojekt Feilitzschstr., Änderung im Terminablauf (Schr. SWM, 05.10.09) (N) - Stromprojekt Mandlstraße (Schr. SWM, 14.10.2009)
+- TOP 1.6.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2009 für Bezirksausschuss 12 (Schr. SWM, 25.09.09)
+- TOP 1.7.: Fahrbahnsanierung Siegesstr. zwischen Nikolai- und Feilitzschstr. (Schr. Baureferat, 02.10.09)
+- TOP 1.8.: Beschluss des Umweltschutzausschusses vom 13.10.09: Lärmschutz an Bundesautobahnen
+- TOP 1.9.: Verkehrs- und Parksituation Alte Heide (Schr. OB, 29.09.09)
+- TOP 1.10.: Kurzparkzonen Ungererstr. 175 / Hinweisbeschilderung an der Kreuzung Ungerer- / Schenkendorfstr. (Schr. KVR, 29.09.09)
+- TOP 1.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Ausweisung von Vorranggebieten für die Installation von Windrädern
+- TOP 1.12.: Baumaßnahmen der Stadtwerke München, hier: Lyonel-Feininger-Str. (Schr. SWM, 05.10.09)
+- TOP 1.13.: Ortstermin Schulwegsicherheit in der Parkstadt Schwabing am 22.09.09 (vertagt aus 09/09)
+- TOP 1.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Mittlerer Ring (B 2 R), Machbarkeitsstudie Isarring / Ifflandstraße (auch UA Umwelt und Verkehr)
+- TOP 1.15.: Genehmigung der Baumaßnahme Marianne-Brandt-Straße - Wendehammer vom 19.10. - 06.11.2009 (Baureferat vom 15.10.2009)
+- TOP 1.1.: Antrag des Kreisjugendrings München-Stadt, Jugendsozialarbeit HS an der Feldenbergstraße auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.300,- ? (Direktorium, 07.10.09)
+- TOP 1.2.: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des Bezirksausschusses 12 für die Theatereröffnung "Heppel & Ettlich"und damit verbundene Instandsetzung
+- TOP 1.3.: Entscheidung über den Zuschuss aus Budgetmitteln des Bezirksausschusses 12 für die Domagkateliertage vom 08.10. bis 11.10.2009
+- TOP 1.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen (KVR, 02.10.09) (auch UA Umwelt und Verkehr)
+- TOP 1.2.: Veranstaltung in einer städtischen Grünanlage Hier: Lichtinstallation und Informationszentrum, Grünanlage Fröttmaninger Berg vom 28.11. - 31.12.2009 (KVR vom 16.10.2009)
+- TOP 1.3.: Veranstaltung auf öffentlichem Verkehrsgrund "Schwabinger Fasching" des Corso Leopold e.V. am 16.02.2010 auf der Leopoldstr. (KVR vom 15.10.2009)
+- TOP 1.1.: Alten- und Service-Zentrum Freimann - Komplettsperrung des nördlichen U-Bahn-Aufgangs an der Haltestelle Freimann
+- TOP 1.2.: Vorstellung ambulante Erziehungshilfe Schwabing-Freimann (Kinderschutz und e.V.)
+- TOP 1.1.: Beschluss des Schul- und Sportausschusses vom 14.10.09: Zentrale Vergabe der Gymnasiumsplätze für alle Münchner Schüler (Ziffer 3)
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: Schank- und Speisewirtschaft "Bareve", Ursulastr. 3 (Schr. KVR, 21.09.09)
+- TOP 1.1.: Verwendungsnachweise BA-Budget: - 80 Jahre Sport am Frankplatz - Grüne Achse Schwabing - Kunstausstellung FFF - Sachbericht 40-Jahresfeier Universitätskindertagesstätte e.V. München - 40 Jahre Musisches Zentrum - Künstlerische Performance für Grüne Achse mit Wanderbaumallee - Konzert des Mohr-Villa-Chores - Corso Leopold Streetlife Festival am 18./19.07.09 - Produktion "Manderlay" im Metropoltheater
+- TOP 1.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 1.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 1.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 1.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 1.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008/2009 - Feinkonzept 2010 - Grobkonzept 2011 Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 1.7.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Elternbeirats der Hauptschule an der Situlistraße, Antrag vom 10.11.2008 beim BA 12 Projekt "Initiative Lese- und Tanzforum" (Schr. Direktorium, 06.10.09)
+- TOP 1.8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Bericht zu REGSAM REGSAM neu denken, Vertragszeitraum 2010 - 2012
+- TOP 1.9.: Antrag auf Genehmigung einer Freischankfläche Eisdiele "Bartu", Wilhelmstraße 23; - Zwischennachricht -
+- TOP 1.10.: Veranstaltung auf öffentlichem Verkehrsgrund Schwabinger Weihnachtsmarkt an der Münchner Freiheit vom 27.11. - 24.12.2009 abgeänderter Lageplan (KVR vom 19.10.2009)
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1.1.: Die nächste Sitzung des BA 12 findet am Dienstag, den 24.11.2009 um 19.30 Uhr in der Seidlvilla, Nikoaiplatz 1b statt.
+- TOP 1.2.: Regionalausschusssitzung: Dienstag, den 20.10.2009 um 19.00 Uhr im Freizeittreff Freimann, Burmesterstr. 27
+- TOP 1.3.: UA-Sitzungen am Mittwoch, den 21.10.2009 um 19.30 Uhr: Ab 19.30 Uhr gemeinsame nicht-öffentliche Sitzung aller UAs: Seminarraum der Münchner Rückversicherung, Maria-Josepha-Str. 2 anschließend: - UA Bildung, Kultur und Soziales: Seidlvilla, Nikolaiplatz 1b - UA Stadtplanung und Architektur: Seminarraum der Münchner Rückversicherung, Maria-Josepha-Str. 2 - UA Umwelt und Verkehr: Seidlvilla, Nikolaiplatz 1b
