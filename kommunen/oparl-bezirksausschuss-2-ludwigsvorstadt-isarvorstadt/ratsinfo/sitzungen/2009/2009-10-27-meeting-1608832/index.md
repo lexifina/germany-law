@@ -1,0 +1,133 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2009-10-27T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1608832
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1608832
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Ausübung des Vorkaufsrechts nach § 24 BauGB in der Walterstraße; Antrag von DIE GRÜNEN/RL vom 14.10.2009; Plenumsbeschluss
+- TOP .2.: Beschwerdestelle für Mieter oder sonstige Betroffene von Bauvorhaben bei Übergriffen der Bauträger oder Hausbesitzer; Gemeinsamer Antrag der SPD-Fraktion und der Fraktion Bündnis 90/Rosa Liste des BA 2, Plenumsbeschluss
+- TOP .3.: Anträge aus der Kinder- und Jugendversammlung: - Rauchen vor der Schule - Tischtennis am Bavariaring - Überdachter Boltzplatz - Skateplatz Kapellenwiese - ampel Wittelsbacherstraße - Boulderwand Südfriedhof
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Budgetantrag des Deutsch-Gambischen Vereins e.V.: Erste Münchner "Nacht des Griots" am 03.10.2009 im Stadtmuseum München und Vernetzungstreffen der Gambia-Organisationen im Eine-Welt-Haus am 04.10.2009
+- TOP .2.: Förderverein Freunde der Grundschule Klenzestraße e.V., Budgetantrag vom 25.05.2009 - präventives Theaterstück; Antrag auf Erhöhung der Zuwendung Plenumsbeschluss
+- TOP .1.: Tanzsportclub Gelb-Schwarz-Casino München e.V.: Erweiterung der Tanhzräume in der Sonnenstraße 12 und Änderung des Mehrjahresinvestitionsprogramms 2009-2013; Plenumsbeschluss
+- TOP .1.: Sachberichte / Verwendungsnachweise zu Budgetmitteln: - Sommerfest der Teestube "komm" - Streetwork - Caritas: Akademie der Nationen 2008 - ICI forum munich e.V., Konzert mit Lesund am 07.02.2009 - Perspektive UBI e.V., Fußballturnier Glockenbach/Schlachthof CUP - Nord Süd Forum München e.V., Maibaum im Glockenbachviertel - Elternbeirt Grundschule Schwanthalerstraße: "Unser Schulhof wird bunt" - Elternbeirat Kindergarten Auenstraße 17: Maifest
+- TOP .2.: (Teil-)Rückzahlung eines bereits ausgezahlten Zuschusses aus Budget der Bezirksausschüsse: -Verein Tanztendenz München e.V. in Höhe von 300,00 ?; -IAF e.V., Verband binationaler Familien und Partnerschaften; 178,27 ? und Verwendungsnachweis -Jugendtreff "Tröpferlbad"; Kulturreise nach Kroatien, Rückforderung von 119,76 ?
+- TOP .3.: Zweckentfremdung von Wohnraum: - Landwehrstr. - Müllerstr. - Goethestr.
+- TOP .4.: Schulanlage Schwanthalerstr. 87/89, Protokoll des Ortstermins vom 01.07.08
+- TOP .5.: Antwort auf den Antrag: Erhalt der Teestube "komm" an der Adresse Zenettistr. 32
+- TOP .6.: Rückforderung von Budgetmitteln, hier: Kindergarten Klenzestr. für ein Hangelpferd
+- TOP .7.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP .8.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP .9.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP .10.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP .11.: Haushaltsplan 2010: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.209 (SB)
+- TOP .12.: Haushaltsplan 2010: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB)
+- TOP .13.: Haushaltsplan 2010: Produkt- und ielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.2009 (SB)
+- TOP .14.: 4. Haushaltssicherungskonzept (4.HSK); Optimierung von Prozessen und Strukturen - Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP .15.: Schutz für die Mieter der GBW-Wohnungen; Freistaat muss Garantien aussprechen Antrag Nr. 08-14 / A 01038 der Stadtratsfraktion der SPD vom 11.09.2009
+- TOP .16.: 4. Haushaltssicherungskonzept (4. HSK); Optimierung von Prozessen und Strukturen Gender Mainstreaming bei der Haushaltskonsolidierung, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.2009
+- TOP .17.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschuses vom 13.10.2009
+- TOP .18.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.2009
+- TOP .19.: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschlus des -Sozialausschusses und Kinder- und Jugendhilfeausschusses vom 13.10.2009
+- TOP .20.: Bericht zu REGSAM REGSAM neu denken, Vertragszeitruam 2010 - 2012; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.2009
+- TOP .21.: Budgetangelegenheit: Widerrufsbescheid für Bewilligungsbescheid vom 10.08.2009 "urbanauten" in Höhe von 3.000,00 ?
+- TOP .22.: Der Budgetantrag der Schule zur Sprachförderung für das Projekt "Tanz und Schule für die 1. Klasse" wurde zurückgezogen.
+- TOP .1.: Berichte der Beauftragten (Kinder/Jugend/SeniorInnen/AusländerInnen/REGSAM/Gleichgeschlechtliche Lebensformen/Kultur/Wohnungsfragen)
+- TOP .1.: Antrag von Bündnis 90/DIE GRÜNEN/Rosa Liste vom 30.09.2009: 1. Der Fußweg enlang des Westermühlbaches südlich und nördlich der neu geschaffenen "Kapuzi- ner-Unterführung" wird besser beleuchtet. 2. Dies erfolgt mit Lampen, die gezielt den Gehweg und möglichst wenig das umgebende Grün be- lichten.
+- TOP .2.: Antrag der SPD-Fraktion des BA 2 vom 23.09.2009: Sitzbank im U-Bahnhof Poccistraße
+- TOP .1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters: Standortgenehmigung für Parkscheinautomaten, Lizenzgebiet Alter Südfriedhof, Waltherstr. 31
+- TOP .3.1: Bauvorhaben
+- TOP .1.: AWO-Kindergarten Baumstraße 18: Versetzen des vorhandenen Zauns an die Gehwegkante
+- TOP .2.: Fraunhoferstraße 32; Nutzungsänderung von Gemeinbedarf Verwaltung (V) zu WB, Anbau im EG Hofseite
+- TOP .3.: Klenzestraße 1; Nutzungsänderung eines Geschäftsraumes in eine Gewerbe- und Gastronomiefläche
+- TOP .4.: Adlzreiterstraße 21; Erweiterung der Gaststätte durch Nutzungsänderung eines Ladens in einen Gastraum sowie Verlegung der WC-Anlagen in den rückwärtigen Anbau
+- TOP .5.: Westermühlstr. 23, Neubau eines Mehrfamilienhauses (8 WE) mit Tiefgarage - Tektur
+- TOP .6.: Roecklpl. 3, Umbau und Sanierung sowie Balkonanabau und EG-Anbau (Hofseite), Zusammenlegung zweier Wohnungen im EG, DG-Ausbau mit Wohneinheiten - Tektur
+- TOP .7.: Thalkirchner Str. 55, Renovierung und Modernisierung, Nutzungsänderung im EG + UG, An- und Einbau zweier Aufzüge, Ausbau zweier Dachgeschosse, Errichtung von Balkonen, Fluchtleitern und Dachterrassen
+- TOP .8.: Baaderstr. 50, Fassadensanierung mit Balkonanbau sowie brandschutztechnischer Ertüchtigung der Rettungswege (Rückgebäude) - Tektur (vertagt aus 09/09)
+- TOP .9.: Ickstattstr. 1 a, Umbau eines Wohnhauses in ein Studentenwohnheim mit Gaststätten - Vorbescheid (vertagt aus 09/09)
+- TOP .10.: Tumblingerstr. 17, DG-Ausbau sowie Anbau eines Personenaufzuges und von Balkonen etc. (vertagt aus 09/09)
+- TOP .11.: Müllerstr. 41, Balkonanbau (vertagt aus 09/09)
+- TOP .12.: Baaderstr. 7, Sanierung, DG-Ausbau sowie Errichtung von Balkonen und Aufzügen (vertagt aus 09/09)
+- TOP .13.: Beschlussentwurf für den Ausschuss für Arbeit und Wirtschaft am 17.11.09: Umbau des U-Bahnhofs Hauptbahnhof - Aufnahme in die Prioritätenliste (Ziffer 1)
+- TOP .14.: Jahnstraße 18, Nutzungsänderung
+- TOP .15.: Häberlstraße 9, Dachaufstockung mit 9 Hotelzimmern
+- TOP .16.: Erhardtstraße 12, Abbruch des bestehenden Daches und Errichtung eines neuen Dachgeschosses mit zwei Wohnungen
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baumfällung: Erhardtstr. 27
+- TOP .1.: Grünflächen an der Fußgängerunterführung Kapuzinerstraße
+- TOP .2.: Senefelderstr. zwischen Schwanthalerstr. und Bayerstr.
+- TOP .3.: Sanierung Europäisches Patentamt-Hauptgebäude, Erhardtstr. 27
+- TOP .4.: Baumaßnahmen der SWM, Wasserprojekt Erhardtstr.
+- TOP .5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Ausweisung von Vorranggebieten für die Installation von Windrädern
+- TOP .6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Zukunftssicherung der Markthallen München auf dem Großmarktgelände sowie auf dem Schlacht- und Viehhofareal, Standorterhaltung und -entwicklung
+- TOP .7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP .8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: PERSPEKTIVE MÜNCHEN, Pilotprojekt der Stadtteilentwicklung "Quartiersentwicklung durch identitätsorientierte Markenführung, südliches Bahnhofsviertel"
+- TOP .9.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Wettbewerb "Denkmalschutz und Neues Bauen" 2008; Prämierung von Wettbewerbsbeiträgen
+- TOP .10.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+)" im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+"
+- TOP .11.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung
+- TOP .12.: Beschluss des Bauausschusses vom 29.09.09: Zwingerstraße zwischen Frauenstraße und Rumfordstraße im 1. Stadtbezirk Altstadt-Lehel
+- TOP .13.: Bekanntgabe in der Sitzung des Bauausschusses vom 29.09.09: Isar-Plan Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München Planungsabschnitt III, Bauabschnitt 7: "Realisiserung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke"
+- TOP .14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP .15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen
+- TOP .16.: Baugenehmigung Reichenbachstr. 12, Renovierung von Wohnungen mit Errichtung eines neuen Daches, Anbau eines Außenaufzugs und von Balkonen, Teilaufstockung mit Dachterrasse (RGB), Anbau im Innenhof, Umbau der Gewerbeeinheiten
+- TOP .17.: Arbeiten im Straßenraum: ZOB Hackerbrücke (Herstellung von Taxistandplätzen)
+- TOP .18.: Vollzug der Grünanlagensatzung vom 12.08.1991: Baustelleneinrichtung in der Grünanlage an der Ziemssenstraße ggü. Hs.Nr. 1
+- TOP .19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: 39. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2008
+- TOP .20.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009
+- TOP .21.: Bescheid über Fällungsantrag vom 27.02.09: Müllerstr. 7
+- TOP .22.: Isar-Plan Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München (BV zum Bauausschuss vom 29.09.2009)
+- TOP .23.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten; Beschluss des Bauausschusses vom 15.10.2009
+- TOP .24.: Hermann-Lingg-Straße zwischen Bayerstraße und Schwanthalerstraße im 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt - Erneuerungsmaßnahme mit Verbesserungen; Bedarfs- und Konzeptgenehmigung Sitzungsvorlage Nr. 08-14 / V 0231, Beschluss des Bauaussxhusses vom 15.10.2009
+- TOP .25.: Fuß- und Radwegbrücken in München Sitzungsvorlage Nr. 08-14 / V 02063; Beschluss des Bauausschusses vom 15.10.2009
+- TOP .1.: Bericht der Beauftragten (AK Attraktive Innenstadt, Baumschutz)
+- TOP .1.: Antrag der CSU: Busparken im Umfeld der Theresienwiese (vertagt aus 09/09)
+- TOP .2.: Antrag der CSU: Bierpfennig (vertagt aus 09/09)
+- TOP .3.: Antrag der SPD-Fraktion im BA 2 vom 23.09.2009: Videokameras in der Thalkirchnerstraße
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: EDV- und Computerservice, Schillerstr. 18: mobiler Fahrradständer (vertagt aus 09/09)
+- TOP .2.: Call-City, Schillerstr. 18: mobiler Fahrradständer (vertagt aus 09/09)
+- TOP .3.: ROTO SPORT, Kapuzinerstr. 12: mobiler Fahrradständer (vertagt aus 09/09)
+- TOP .4.: "Patisserie Dukatz", Klenzestr. 69: Erweiterung einer bestehenden Freischankfläche
+- TOP .5.: Schillerstraße 3 a, mobiler Fahrradständer für die Wechselstube
+- TOP 6: Durchgangsbreite für Fußgänger und Radfahrer am Weihnachtsbaumverkauf auf der Theresienwiese
+- TOP 6.3.2: Verkehr
+- TOP 6.1.: Verkehrsrechtliche Anordnung: Tempo-30-Zone Bavariaring; Aufhebung der Vorfahrtsregelungen und Aufhebung einer Haltverbotszone
+- TOP 6.2.: Standortgenehmigung für einen Parkscheinautomaten im Lizenzgebiet Glockenbachviertel; Plenumsbeschluss
+- TOP 6.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 6.1.: Gaststättenfortführungen: - Lindwurmstraße 157, Viet Nam 1402 - Landwehrstraße 83, "Sofra Pejane" - Hans-Sachs-Straße 9, "monsoon" - Kohlstraße 2, "Rice" - Schützenstraße 8/UG, "Lola & Ludwig" - Zenettistraße 42, "O Pontos" (wie bisher)
+- TOP 6.2.: Straßenbenennungen im Stadtbezirk 2; Schreiben des Kommunalreferates vom 18.09.2009
+- TOP 6.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund:7
+- TOP 6.4.: Verkehrsrechtliche Anordnungen: -Parklizenzgebiet "Dreimühlenviertel" - Änderung einzelner Parkraumbewirtschaftungsformen -Aufhebung eines personenbezogenen Behindertenparkplatzes in der Isartalstraße 30 -Öffnung der Baldestraße zwischen Geyerstraße und Auenstraße für den genläufigen Radverkehr -Tempo-30-Zone Pestalozzistraße, Vorfahrtregelung Pestalozzi-/Stephanstraße, Fahrbahnmarkierung Pestalozzi-/Stephanstraße, Halteverbote Pestalozzistraße
+- TOP 6.5.: Versammlungen unter freiem Himmel: 9
+- TOP 6.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Sendlinger Straße - Teilabschnitt zwischen Färbergraben und Hackenstraße
+- TOP 6.7.: runabout MÜNCHEN MARATHON am 11.10.2009; verkehrsrechtliche Erlaubnis des KVR
+- TOP 6.8.: Durchfahrt für Radfahrer im Klinikviertel Schiller-, Nußbaum- und Ziemssenstraße
+- TOP 6.9.: Schreiben des KVR vom 08.10.2009 zur Beschwerde über die Gaststätte "Chic Saal" (s. TOP C 3.3.2/0909
+- TOP 6.10.: Schreiben des KVR an Dr. Schiller wegen seines Anliegens (TOP C 3.3.4) aus der Sitzung 10/09: Verschmutzung durch Bautätigkeit, Baulärm und wartende Taxis in der Mittererstraße
+- TOP 6.11.: Filmaufnahmen auf öffentlichem Verkehrsgrund, Hans-Sachs-Straße 3; Eilentscheidung des Vorsitzenden
+- TOP 6.1.: Termine
+- TOP 6.1.: Termin für die Bürgerversammlung 2010
+- TOP 6.2.: BA- und UA-Sitzungstermine im Jahr 2010
+- TOP 6.1.: Bürgerversammlung des 2. Stadtbezirkes am 12.11.2009
+- TOP 6.3.: Sonstiges / Verschiedenes
+- TOP 6.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 6.3.: Anhörungen
+- TOP 6.4.: Unterrichtungen
+- TOP 6.2.: Veranstaltungen
