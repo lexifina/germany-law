@@ -1,0 +1,7 @@
+# TOP 50.2: Benennung eines allgemeinen Vertreters
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Kreistages (2009-10-28)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/2518
+- Ergebnis: mehrheitlich beschlossen
