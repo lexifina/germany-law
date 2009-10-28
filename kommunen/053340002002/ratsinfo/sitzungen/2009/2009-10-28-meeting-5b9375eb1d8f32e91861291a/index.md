@@ -1,0 +1,79 @@
+# konstituierende Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2009-10-28T17:00:00+01:00
+- Ende: 2009-10-28T19:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2023
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9375eb1d8f32e91861291a
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung durch den Altersvorsitzenden Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit - ungeändert beschlossen
+- TOP 2: Benennung von Stimmzählern für die Sitzungen des Rates - ungeändert beschlossen
+- TOP 3: Bestellung eines Schriftführers und eines Stellvertreters - ungeändert beschlossen
+- TOP 4: Vereidigung und Amtseinführung des hauptamtlichen Oberbürgermeisters Marcel Philipp - ungeändert beschlossen
+- TOP 5: Einführung und Verpflichtung der Ratsmitglieder - ungeändert beschlossen
+- TOP 6: Festlegung der Zahl der zu wählenden ehrenamtlichen Stellvertreter des Oberbürgermeisters - ungeändert beschlossen
+- TOP 7: Wahl der ehrenamtlichen Stellvertreter des Oberbürgermeisters - ungeändert beschlossen
+- TOP 8: Einführung und Verpflichtung der ehrenamtlichen Stellvertreter des Oberbürgermeisters - ungeändert beschlossen
+- TOP 9: Bildung des Wahlprüfungsausschusses zur Vorprüfung der Wahl des Oberbürgermeisters, der Wahl des Rates der Stadt und der Wahl der Bezirksvertretungen am 30.08.2009 - ungeändert beschlossen
+- TOP 10: Entscheidung über Art, Anzahl, Größe und Zusammensetzung der zu bildenden Ausschüsse - ungeändert beschlossen
+- TOP 11: Wahl der Ausschussmitglieder - zurückgestellt
+- TOP 11.1: Besetzung von Ausschüssen hier Schulausschuss - zurückgestellt
+- TOP 12: Bildung von weiteren Ausschüssen des Rates der Stadt Aachen hier: Neubildung des Kinder- und Jugendausschuses - zurückgestellt
+- TOP 13: Bestimmung der Ausschussvorsitzenden und stellvertr. Ausschussvorsitzenden - ungeändert beschlossen
+- TOP 14: Wahl der städtischen Vertreter in Gesellschaften, Verbänden und sonstigen Organisationen - zurückgestellt
+- TOP 15: Vertretung der Stadt in Haupt- und Gesellschafterversammlungen - zurückgestellt
+- TOP 16: Bestellung der Mitglieder des Aufsichtsrates der AGIT „Aachener Gesellschaft für Innovation und Technologietransfer GmbH“ gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 16.1: Wahl der städt. Vertreter in Gesellschaften, Verbänden und sonstigen Organisationen; hier: Entsendung des Oberbürgermeisters bzw. eines Vertreters gem. § 113 (3) GO NW - zurückgestellt
+- TOP 17: Bestellung des Mitgliedes im Aufsichtsrat der Aachener Kreuz Merzbrück GmbH & Co. KG (AKM) gem. § 113 Abs. 2 GO NRW - zurückgestellt
+- TOP 18: Bestellung des Mitgliedes für den Beirat AKREKA GmbH - zurückgestellt
+- TOP 19: Bestellung der Mitglieder des Aufsichtrates der Aachener Parkhaus GmbH - APAG - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 20: Besetzung des Aufsichtsrates der „Aachener Straßenbahn- und Energieversorgungs AG“ - ASEAG - zurückgestellt
+- TOP 21: Zweckverband Aachener Verkehrsverbund - zurückgestellt
+- TOP 22: AVV GmbH - Aufsichtsrat - zurückgestellt
+- TOP 23: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR) -Verbandsversammlung- - zurückgestellt
+- TOP 24: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR); Mitglieder des Aufsichtsrates der NVR Rheinland GmbH - zurückgestellt
+- TOP 25: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR) -Hauptausschuss- - zurückgestellt
+- TOP 26: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR) -Vergabeausschuss- - zurückgestellt
+- TOP 27: Benennung von Vertretern der Stadt Aachen im Aufsichtsrat der AWA Entsorgung GmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 28: Benennung von 1 Vertreter der Stadt Aachen in der Gesellschafterversammlung der euregionale 2008 gmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 29: Eurogress Aachen Betriebs-GmbH, nachrichtlich - zurückgestellt
+- TOP 30: Benennung von 8 Vertretern der Stadt Aachen im Aufsichtsrat der Energieversorgungs- und Verkehrsgesellschaft Aachen“ (E.V.A.) gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 31: Bestellung der Mitglieder des Aufsichtsrates der Flugplatz Aachen-Merzbrück GmbH (FAM) gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 32: Bestellung der Mitglieder des Aufsichtsrates der Gewerbegrundstücksgesellschaft Aachen -GEGRA - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 33: Bestellung der Mitglieder des Aufsichtsrates der gewoge AG gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 34: Bestellung des Mitgliedes des Aufsichtsrates der „ Grenzüberschreitendes Gewerbegebiet Aachen- Heerlen N.V. - GOB N.V.“ und der „Avantis Services N.V.“gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 35: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Kur- und Badegesellschaft mbH gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 36: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der MVA Weisweiler GmbH & Co KG gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 37: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der regio it aachen - Gesellschaft für Informationstechnologie mbH gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 38: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Aachen AG (STAWAG) gem. § 113 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 39: Bestellung der Mitglieder des Aufsichtrates der Wassergewinnungs- und Aufbereitungsgesellschaft Nordeifel mbH - WAG - gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - zurückgestellt
+- TOP 40: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des WVER "Wasserverband Eifel-Rur" und den Verbandsrat gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - zurückgestellt
+- TOP 41: Bestellung der Mitglieder des Aufsichtsrates und der Gesellschafterversammlung der „vogelsang ip gemeinnützige GmbH“ gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 42: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des Zweckverbands Entsorgungsregion West gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - zurückgestellt
+- TOP 43: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des Zweckverbandes Straßenverkehrsamt Aachen gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - zurückgestellt
+- TOP 44: Wahl der Vertreter/innen der Stadt Aachen in die Gremien des Sparkassenzweckverbandes Städteregion Aachen - Stadt Aachen sowie Empfehlungen für die anstehenden Entscheidungen in der Verbandsversammlung - zurückgestellt
+- TOP 44.1: Tischvorlage zu TOP 44, Ziff. F b): Wahl der Vetreter der Stadt Aachen in die Gremien des Sparkassenzweckverbandes Städtetregion Aachen-Stadt Aachen sowie Empfehlungen für die anstehenden Entscheidungen in der Verbandsversammlung - zurückgestellt
+- TOP 45: Studieninstitut für kommunale Verwaltung Aachen - zurückgestellt
+- TOP 46: Trägerverein Berufsbildungs- und Gewerbeförderungseinrichtung Aachen e.V. der Handwerkskammer Aachen - zurückgestellt
+- TOP 47: Benennung von Mitgliedern des Direktoriums der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - zurückgestellt
+- TOP 48: Bestellung der Vertreter der Stadt Aachen im KREISPOLIZEIBEIRAT gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - zurückgestellt
+- TOP 49: Wahl von Mitgliedern des Regionalrates des Regierungsbezirkes Köln - zurückgestellt
+- TOP 50: Benennung der Mitglieder des Rates im Umlegungsausschuss - zurückgestellt
+- TOP 51: Vertretung der Stadt Aachen im Kuratorium der Viktoriaschule - zurückgestellt
+- TOP 52: Benennung eines Vorstandsmitgliedes und dessen Stellvertreter im Naturpark Nordeifel e.V. - zurückgestellt
+- TOP 53: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Aachen und der Stadt Stolberg zur Durchführung von Vermessungsarbeiten (Liegenschaftsvermessungen) - ungeändert beschlossen
+- TOP 54: Öffentlich-rechtliche Vereinbarung zwischen der Stadt Aachen und der Stadt Eschweiler zur Durchführung von Vermessungsarbeiten (Liegenschaftsvermessungen) - ungeändert beschlossen
+- TOP 55: Genehmigung der Dringlichkeitsentscheidung zur Erweiterung der Ratssaalmöblierung vom 29.09.2009 - ungeändert beschlossen
+- TOP 56: (nichtöffentlich)
+- TOP 57: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.2: nicht öffentlicher Tagesordnungspunkt
