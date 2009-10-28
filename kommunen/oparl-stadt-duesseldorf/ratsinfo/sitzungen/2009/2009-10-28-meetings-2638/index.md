@@ -1,0 +1,54 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-10-28T16:00:00+01:00
+- Ende: 2009-10-28T00:00:00+01:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2638
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2638
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126191.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126191.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126191.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung Schriftführer - einstimmig beschlossen
+- TOP 2: Festlegung der Zahl der Stellvertreter - einstimmig beschlossen
+- TOP 3: Wahl des Bezirksvorstehers - mehrheitlich beschlossen
+- TOP 4: Verpflichtung Bezirksvorsteher und Mitglieder - zur Kenntnis genommen
+- TOP 5: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 6: B-Plan Nr. 5779/033 - Gartenstadt Reitzensteinkaserne - mehrheitlich beschlossen
+- TOP 7: Nördlicher Zubringer -AuF- - mehrheitlich beschlossen
+- TOP 8: Anfrage Die Linke: Querwindbahn Flughafen - beantwortet
+- TOP 9: Anfrage CDU-Fraktion Spielplatz Robinsonweg/Frobenstraße - beantwortet
+- TOP 10: Antrag CDU: Platz zw. Münster-/Kreiten- und Schlieffenstraße - einstimmig beschlossen
+- TOP 11: Antrag CDU: Haltverbot Fallingbosteler Straße - einstimmig beschlossen
+- TOP 12: Antrag CDU: Verlegung der Bushaltestelle "Neu-Lichtenbroich" - mehrheitlich beschlossen
+- TOP 13: Antrag CDU: Schulweg "An der Golzheimer Heide" - einstimmig beschlossen
+- TOP 14: Antrag CDU: Schulweg Falkenweg/Sandweg über die Straße "Am Roten Haus" - einstimmig beschlossen
+- TOP 15: Antrag CDU: Spielplatz Ziegelstraße - Boule-/Boccia-Anlage - - einstimmig beschlossen
+- TOP 16: Antrag CDU: Schulweg Saargemünder Straße/Kehler Straße über die Eckenerstraße - einstimmig beschlossen
+- TOP 17: Antrag Die Linke Grünzug An der Golzheimer Heide - mehrheitlich abgelehnt
+- TOP 18: Haushaltsplanberatung - mehrheitlich beschlossen
+- TOP 19: HH-Antrag CDU: Klinke - mehrheitlich beschlossen
+- TOP 20: HH-Antrag SPD: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 21: HH-Antrag CDU: Ortsumgehung Rath - mehrheitlich beschlossen
+- TOP 22: HH-Antrag CDU: Neubau Jugendfreizeiteinrichtung Lichtenbroich - mehrheitlich beschlossen
+- TOP 23: HH-Antrag CDU: Integriertes Konzept "Soziale Stadt" - mehrheitlich beschlossen
+- TOP 24: HH-Antrag SPD: LZA Unterrather Straße/Kartäuser Park - mehrheitlich beschlossen
+- TOP 25: HH-Antrag CDU: Überplanung Unterrather-/Kalkumer Straße - mehrheitlich beschlossen
+- TOP 26: HH-Antrag CDU: Aufstellung eienr Toilette Hülsmeyerplatz - mehrheitlich beschlossen
+- TOP 27: HH-Antrag CDU: Bezirkssportanlage Ammerweg - mehrheitlich beschlossen
+- TOP 28: HH-Antrag CDU: Turnhalle für den Stadtbezirk 6 - mehrheitlich beschlossen
+- TOP 29: HH-Antrag CDU: KSP Heideweg - mehrheitlich beschlossen
+- TOP 30: HH-Antrag CDU: Bolzplatz Grünanlage St.-Franziskus-Straße - mehrheitlich beschlossen
+- TOP 31: HH-Antrag CDU: Um- bzw. Ausbau der Wittener Straße - mehrheitlich beschlossen
+- TOP 32: Unterhaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 33: Münsterstraße - Baumfällung - einstimmig beschlossen
+- TOP 34: Bochumer Straße - Baumfällung - einstimmig beschlossen
+- TOP 35: Trödelmärkte auf dem Schützenplatz Rather Broich im 1. Halbjahr 2010 - einstimmig beschlossen
+- TOP 36: Zuschussvergabe 2009 - einstimmig beschlossen
+- TOP 37: Mitteilungen der Verwaltung - zur Kenntnis genommen
