@@ -1,0 +1,6 @@
+# TOP 5: Vereidigung und Einführung des Oberbürgermeisters in sein Amt
+
+- Sitzung: Rat (2009-10-29)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/4496
