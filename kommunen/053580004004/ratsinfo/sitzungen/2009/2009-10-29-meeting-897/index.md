@@ -1,0 +1,51 @@
+# Gemeinderat
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2009-10-29T17:00:00+01:00
+- Ende: 2009-10-29T19:40:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZcBDC2XWSs_9BLJno-t2b8U
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/897
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUxkHlUFideziQFN7KtS2dVSflySgdoE-qDibB3owHYB/Oeffentliche_Niederschrift_Gemeinderat_29.10.2009.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers, sowie eines Stellvertreters
+- TOP 2.: Verpflichtung und Einführung der Ratsmitglieder
+- TOP 3.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 4.: Wahl der ehrenamtlichen Stellvertreter des Bürgermeisters
+- TOP 5.: Verpflichtung und Einführung der ehrenamtlichen Stellvertreter des Bürgermeisters
+- TOP 6.: Wahl der Ortsbürgermeister - 28 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.: Neubesetzung von Ausschüssen
+- TOP 7.1.: Bildung der Ausschüsse - 16 Ja-Stimme(n), 13 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.2.: Zählverfahren bei der Ausschussbesetzung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.3.: Festlegung der zahlenmäßigen Stärke der Ausschüsse - 16 Ja-Stimme(n), 12 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 7.4.: Verteilung der Ausschussvorsitze
+- TOP 8.: Neubesetzung von Gremien
+- TOP 8.1.: Benennung der Mitglieder des Partnerschaftskomitees - Einstimmig, 0 Enthaltung(en)
+- TOP 8.2.: Wahl der gemeindlichen Vertreter in den Kindergartenräten
+- TOP 8.3.: Wahl der Mitglieder des Behindertenbeirates
+- TOP 8.4.: Schulverband Schirmerschule - Einstimmig, 0 Enthaltung(en)
+- TOP 8.5.: EWV Energie- und Wasser-Versorgung GmbH
+- TOP 8.6.: Kommunale Datenverarbeitungszentrale Rhein-Erft-Rur (KDVZ) - Einstimmig, 0 Enthaltung(en)
+- TOP 8.7.: WOGA GmbH & Co. KG - Einstimmig, 0 Enthaltung(en)
+- TOP 8.8.: WOGA BeteiligungsGmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 8.9.: Verbandswasserwerk Aldenhoven GmbH - Einstimmig, 0 Enthaltung(en)
+- TOP 8.10.: Zukunftsinitiative Aachener Raum (ZAR) - 16 Ja-Stimme(n), 12 Nein-Stimme(n), 1 Stimmenthaltung(en)
+- TOP 8.11.: AVV-Beirat des Kreises Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 8.12.: Städte- und Gemeindebund NRW - Einstimmig, 0 Enthaltung(en)
+- TOP 8.13.: Arbeitsgemeinschaft Inde-Rur - Einstimmig, 0 Enthaltung(en)
+- TOP 8.14.: Freizeitzentrum Blausteinsee GmbH - 16 Ja-Stimme(n), 13 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.15.: Automotive Center for Industry GmbH (ACI GmbH) - 16 Ja-Stimme(n), 13 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 8.16.: Entwicklungsgesellschaft indeland mbH
+- TOP 8.17.: Gesellschaft für Wirtschafts- und Strukturförderung (GWS) im Kreis Düren - Einstimmig, 0 Enthaltung(en)
+- TOP 8.18.: Grünmetropole e.V. - 16 Ja-Stimme(n), 12 Nein-Stimme(n), 0 Stimmenthaltung(en)
+- TOP 9.: Mitteilungen und Anfragen.
+- TOP 10.: Verschiedenes.
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Mitteilungen und Anfragen.
+- TOP 2.: Verschiedenes.
