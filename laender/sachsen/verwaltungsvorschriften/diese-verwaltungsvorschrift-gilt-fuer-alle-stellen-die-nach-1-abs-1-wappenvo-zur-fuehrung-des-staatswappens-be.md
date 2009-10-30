@@ -1,8 +1,8 @@
 # Diese Verwaltungsvorschrift gilt für alle Stellen, die nach § 1 Abs. 1 WappenVO zur Führung des Staatswappens berechtigt sind, mit Ausnahme der Mitglieder des Landtages. Die Mitglieder des Landtages sind nach § 5 Abs. 1 WappenVO nicht zur Siegelführu
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2001-03-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1482.1
+- Datum: 2009-10-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1482.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -26,7 +26,7 @@ Dienstsiegel werden als Prägesiegel aus Metall, als Lacksiegel (Petschaft) aus 
 
 b)
 
-Die Dienstsiegel zeigen das Wappen des Freistaates Sachsen. In die Umschrift der Dienstsiegel ist die Bezeichnung der Stelle, die das Wappen führt, aufzunehmen. Im oberen Halbbogen der Umschrift sind die Worte „Freistaat Sachsen“ anzubringen. Hinsichtlich der Notare verbleibt es bei den Bestimmungen des § 2 Abs. 1 Satz 1 und 2 der Anlage zu Ziffer 1 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz über die In-Kraft-Setzung der Dienstordnung für Notare (VwV DONot) vom 12. Februar 1999 (SächsJMBl. Nr. 2 S. 40).
+Die Dienstsiegel zeigen das Wappen des Freistaates Sachsen. In die Umschrift der Dienstsiegel ist die Bezeichnung der Stelle, die das Wappen führt, aufzunehmen. Im oberen Halbbogen der Umschrift sind die Worte „Freistaat Sachsen“ anzubringen.
 
 c)
 
@@ -52,18 +52,6 @@ Auf die in der Anlage abgedruckten Muster wird hingewiesen.
 
 3.
 
-Herstellung der Dienstsiegel
-
-a)
-
-Dienstsiegel dürfen nur von besonders zugelassenen Firmen hergestellt werden. Die Zulassung erfolgt durch das Regierungspräsidium Dresden als Vorortpräsidium.
-
-b)
-
-Das Regierungspräsidium Dresden gibt die zugelassenen Firmen im Sächsischen Amtsblatt bekannt.
-
-4.
-
 Verwendung der Dienstsiegel
 
 a)
@@ -77,6 +65,23 @@ Die Verwendung des Prägesiegels soll Beurkundungen vorbehalten bleiben, die fü
 c)
 
 Nicht mehr verwendete Dienstsiegel sind zu vernichten. Über die Vernichtung ist eine Niederschrift zu fertigen.
+
+d)
+
+Der Verlust von Dienstsiegeln ist der obersten Dienstbehörde oder Dienststelle unverzüglich auf dem Dienstweg anzuzeigen. Bei Verdacht auf Diebstahl, Unterschlagung oder sonstige missbräuchliche Verwendung ist die zuständige Polizeidienststelle einzuschalten. Das in Verlust geratene Dienstsiegel ist durch öffentliche Bekanntmachung im Sächsischen Amtsblatt für ungültig zu erklären.
+
+4.
+
+Besondere Bestimmungen
+
+a)
+
+Die Bestimmungen des § 2 der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz über die Dienstordnung für Notarinnen und Notare (Dienstordnung für Notarinnen und Notare –
+DONot) vom 12. April 2001 (SächsJMBl. S. 34), die zuletzt durchVerwaltungsvorschrift vom 27. November 2008 (SächsJMBl. S. 421) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2007 (SächsABl. SDr. S. S 516), in der jeweils geltenden Fassung, bleiben unberührt.
+
+a)
+
+Nummer 2 Buchst. b Satz 3 gilt nicht für die Ländernotarkasse.
 
 5.
 
