@@ -1,2 +1,3 @@
 # Eingangsformel
-Aufgrund der § 1 Abs. 2, § 16 Abs. 2, § 24 Abs. 1 und § 52 des Gesetzes über das Schornsteinfegerwesen (Schornsteinfegergesetz - SchfG) vom 15. September 1969 (BGBl. I S. 1634) sowie des § 36 Abs. 2 des Gesetzes über Ordnungswidrigkeiten (OWiG) vom 24. Mai 1968 (BGBl. I S. 481) verordnet der Senat:
+Aufgrund des § 23 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2242), des § 16 Absatz 2 Satz 2 und des § 52 des Schornsteinfegergesetzes in der Fassung der Bekanntmachung vom 10. August 1998 (BGBl. I. S. 2071), das zuletzt durch Artikel 2 des Gesetzes vom 26. November 2008 (BGBl. I S. 2253) geändert worden ist, sowie § 1 der Verordnung zur Übertragung von Ermächtigungen aus dem Schornsteinfegerrecht und über die Zuständigkeiten für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Schornsteinfeger-Handwerksgesetz vom 1. September 2009 (Brem.GBl. S. 309 - 2132-f-3a) wird verordnet:
+Einzelansicht Seitenanfang

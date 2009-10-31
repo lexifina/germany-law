@@ -1,1 +1,1 @@
-# Verordnung über die Zuständigkeiten nach dem Gesetz über das Schornsteinfegerwesen vom 6. Januar 1970
+# Verordnung über die zuständigen Behörden nach dem Schornsteinfeger-Handwerksgesetz und dem Schornsteinfegergesetz vom 1. Oktober 2009
