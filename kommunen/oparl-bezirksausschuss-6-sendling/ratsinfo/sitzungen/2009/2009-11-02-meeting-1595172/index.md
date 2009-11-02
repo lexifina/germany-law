@@ -1,0 +1,55 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-11-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1595172
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1595172
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Bericht zu REGSAM
+- TOP 4: Schulreferat
+- TOP 4.1.: DAV-Kletteranlage München-Thalkirchen e. V.; Erweiterung des Kletterzentrums
+- TOP 4.2.: Planungen des Schulreferates bezüglich des Neubaus an der Meindlstr.
+- TOP 6.1.: Errichtung von Parkscheinautomaten in der Schäftlarnstraße
+- TOP 6.2.: Situierung weiterer Parkscheinautomaten
+- TOP 6.3.: Feuerwehrzufahrt am Anwesen Karwendelstraße 11 - 17
+- TOP 6.4.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 6.5.: Bauvorhaben der Stadtwerke München
+- TOP 7.1.: BA-Satzung; Aufnahme der Wahl von Jugendbeauftragten
+- TOP 7.2.: Budgetantrag FC Wacker München e. V.; Kauf von Toren, ? 1000,-
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Beschlussvollzugskontrolle
+- TOP 8.3.: Bauvorhaben Thalkirchner Str. 207; DAV-Kletteranlage
+- TOP 8.4.: Bauvorhaben Dietramszeller Str. 9
+- TOP 8.5.: Bauvorhaben Lindwurmstr. 167
+- TOP 8.6.: Bauvorhaben Bruderhofstr. 1
+- TOP 8.7.: Bauvorhaben Lipowskystr. 6
+- TOP 9: Baureferat
+- TOP 9.1.: Ausbau Mittlerer Ring - Südwest; Bezeichnung der Straßentunnel
+- TOP 9.2.: Greinerberg; Schaffung eines baulichen Radweges
+- TOP 9.3.: Ehemaliges Messegelände Südteil; Erschließung des Max-Hirschberg-Weges und der Fritz-Endres-Straße
+- TOP 9.4.: Fuß- und Radwegbrücken in München
+- TOP 9.5.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten
+- TOP 9.6.: Hundekottütenspender am Herzog-Ernst-Platz
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Schanzenbachstraße 18
+- TOP 10.2.: Fällung verschiedener Bäume im öffentlichen Raum
+- TOP 10.3.: Baumfällung Thalkirchner Str. 207
+- TOP 10.4.: Baumfällung Dietramszeller Str. 9
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
