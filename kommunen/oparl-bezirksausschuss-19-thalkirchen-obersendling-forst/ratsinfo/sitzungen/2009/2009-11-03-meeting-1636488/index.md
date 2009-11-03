@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2009-11-03T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1636488
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1636488
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 06.10.09
+- TOP 2: Anträge
+- TOP 2.1.: Fahrradständer Terminal Aidenbachstraße
+- TOP 2.2.: BA-Veranstaltung zum Thema "Datenschutz und Sicherheit im Internet - jugendgerecht"
+- TOP 2.3.: Ruhestörung Grünanlage Münsinger Str. / Kistlerhofstraße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Budgetkriterien
+- TOP 3.2.: "Leseinsel"
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Tempo 30 Hofbrunnstraße
+- TOP 5.2.: Situation Miesingstraße
+- TOP 5.3.: U-Bahnaufgang Thalkirchen (Zennerstr.)
+- TOP 5.4.: Antrag "Thorwest" (div. Themen)
+- TOP 5.5.: Gehwegparken Sollner Straße
+- TOP 5.6.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 5.7.: Busverbindung zum neuen ASZ Solln
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Kinderbetreuungsfinanzierung 2008 - 2013
+- TOP 7.2.: Schaffung von Jugendbeauftragten in der BA-Satzung
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: (E) TSV München-Solln e.V. Neubau einer Zweifach-Sporthalle an der Herterichstraße 1. Gewährung eines Zuschusses und eines Darlehens 2. Änderung des MIP 2009-2013
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Zweckentfremdung Falkenhorstweg
+- TOP 9.2.: Zweckentfremdung Rueppstr.
+- TOP 9.3.: Gaststättenpächterwechsel Königswieserstr. 5
+- TOP 9.4.: Gaststättenpächterwechsel Gmunder Str. 13
+- TOP 9.5.: Ausbau MR/SW; Bezeichnung der Straßentunnel
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
