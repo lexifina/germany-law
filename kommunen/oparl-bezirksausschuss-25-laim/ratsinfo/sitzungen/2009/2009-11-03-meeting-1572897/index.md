@@ -1,0 +1,86 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-11-03T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572897
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572897
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Vorstellung Seniorenbeiräte
+- TOP 1.2.1.: Radl-Sicherheit am Laimer Anger
+- TOP 1.2.2.: Verkehrssituation Willibaldstraße zwischen Gotthardstraße und Willibaldplatz; Umgestaltung Willibaldplatz
+- TOP 1.2.3.: Vorschlag zum Laimer Anger
+- TOP 2: Anträge
+- TOP 2.1.: SPD-Fraktion: Beschleunigung der Planungen für den Bau der Umweltverbundröhre
+- TOP 2.2.: CSU-Fraktion: Aushang der Öffnungzeiten des Bürgerhauses (Rathaus Pasing) in den BA-Schaukästen
+- TOP 2.3.: CSU-Fraktion: Fahrgasterhebung bei der U 4 / 5
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Landsberger Str. 317
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgemitteln des Bezirksausschusses 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 9.215,91 Euro für die Verlegung eines Fußbodenbelages; Antragsteller: EKI Die Bärchen e.V. (Vertagung aus der BA-Sitzung vom 06.10.09)
+- TOP 3.3.: Übernahme der Kosten für drei Veranstaltungen auf dem Laimer Anger (Adventskonzerte) in Höhe von 850 Euro aus dem BA-Budget; Antragsteller: UA Kultur
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.740 Euro für Faschingstreiben am 13.02.2010; Antragsteller: Faschingsclub Laim e.V.
+- TOP 3.5.: Schreiben Direktorium vom 12.10.09: Reduzierung eines mit BA-Beschluss vom 06.10.09 gewährten Zuschusses in Höhe von 4.039,60 Euro für Ausstattung neuer Räume auf jetzt 3.761,10 Euro; Antragsteller: Laimer Strolche e.V.
+- TOP 3.6.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.400 Euro für Laimer Advent Dult am 28. und 29.11.09
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 05.10.09: Laimer Unterführung; Radverkehr
+- TOP 4.2.: Schreiben KVR vom 02.10.09: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 4.3.: Schreiben Direktorium vom 13.10.09: Schaffung von Jugendbeauftragten in der BA-Satzung
+- TOP 4.4.: Schreiben KVR vom 20.10.09: Laimer Advent Dult auf dem Laimer Anger am 28.11. / 29.11., 05.12. / 06.12. und 12.12. / 13.12.09
+- TOP 4.5.: Schreiben KVR vom 14.10.09: Adventskonzert auf dem Laimer Anger am 04.12. / 11.12. / 19.12.09
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Aindorferstr. 199: Neubau eines Einfamilienhauses mit Garage; hier: Baupläne
+- TOP 5.2.: Joergstr. 6: Neubau eines Einfamilienhauses mit Tiefgarage (E+III) / Tektur; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 20.10.09
+- TOP 7.2.: Sitzung UA Soziales, Schule und Sport vom 12.10.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Planungsreferat vom 25.09.09: Fürstenrieder Str. 21 (ehem. Kaufhaus Beck); Umbau und Nutzungsänderung
+- TOP 8.2.: Schreiben Direktorium vom 07.10.09: Budgetmittel des BA 25; Antrag der Pädagogischen Aktion / Spielen in der Stadt e.V. vom 09.03.09
+- TOP 8.3.: Schreiben Direktorium vom 13.10.09: Budgetmittel des BA 25, Ablehnung einer beantragten Zuwendung; Antragssteller: Stüps Schule-Beruf e.V.
+- TOP 8.4.: Schreiben KVR vom 05.10.09: Arbeit im Straßenraum; Landsberger Str. 273-287 b, Verlegung einer Fernwärmeleitung
+- TOP 8.5.: Schreiben KVR vom 13.10.09: Neugestaltung Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Riegerhofweg: Zulassung des Parkens auf der Nordseite (Schreiben BA vom 22.09.09)
+- TOP 8.6.: Schreiben KVR vom 14.10.09: Baumaßnahme Fürstenrieder Straße / Valpichlerstraße
+- TOP 8.7.: Schreiben KVR vom 02.10.09: Gaststätte "Friedenheimer Stub`n", Friedenheimer Str. 59 a; unveränderte Fortführungen
+- TOP 8.8.: Schreiben KVR vom 12.10.09: Gaststätte "Bistro Pub Cin Cin", Lautensackstr. 2 b; unveränderte Fortführung
+- TOP 8.9.: Schreiben KVR vom 13.10.09: Gaststätte "Camerloher Stüberl", Camerloherstr. 91; unveränderte Fortführung
+- TOP 8.10.: Schreiben Baureferat vom 08.10.09: Installation einer Lichtzeichenanlage an der Kreuzung Willibaldstraße / Landsberger Straße (Antrag Nr. 08-14 / B 00938 vom 09.03.09 bzw. Schreiben BA vom 22.09.09)
+- TOP 8.11.: Schreiben Baureferat vom 12.10.09: Ausbau Mittlerer Ring (B 2 R) - Südwest; Bezeichnung der Straßentunnel
+- TOP 8.12.: Schreiben Baureferat vom 29.09.09: Unterrichtung über das Fällen von Gefahrenbäumen; Wohnanlage Kiem-Pauli-Weg
+- TOP 8.13.: Schreiben Referat für Gesundheit und Umwelt vom 24.09.09: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Fürstenrieder Str. 14-16
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 20.10.09: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmverordnung (32. BImSchV), Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchG; Fürstenrieder Straße / Agnes-Bernauer Straße
+- TOP 8.15.: Schreiben Stadtwerke Münche GmbH vom 15.10.09: Baumaßnahmen der SWM; Fernwärmeprojekt Fürstenrieder Straße / Valpichlerstraße
+- TOP 8.16.: Schreiben Münchner Stadtentwässerung vom 20.10.09: Welche Planungen bestehen bzgl. der städtischen Grundstücke Mathunistr. 40 und 42 ? (Antrag Nr. 08-14 / B 01216 vom 26.05.09 bzw. Schreiben BA vom 22.09.09)
+- TOP 8.17.: Bautenliste vom 21.09.-27.09.09 1. Erstantragsverfahren a) Landsberger Str. 155
+- TOP 8.18.: Bautenliste vom 28.09.-04.10.09: 1. Erstantragsverfahren a) Aindorferstr. 199
+- TOP 8.19.: Bautenliste vom 05.10.-11.10.09 1. Erstantragsverfahren a) Hartelstr. 10 b) Joergstr. 6
+- TOP 8.20.: Bautenliste vom 12.10.-18.10.09: 1. Änderungsverfahren a) Elsenheimerstr. 7 b) Lautensackstraße 23 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Haunerstr. 10
+- TOP 8.21.: Schreiben Planungsreferat vom 21.09.09: Liste der beantragten Baumfällungen vom 14.09.-25.09.09
+- TOP 8.22.: Schreiben Planungsreferat vom 28.09.09: Liste der beantragten Baumfällungen vom 21.09.-27.09.09
+- TOP 8.23.: Schreiben Planungsreferat vom 12.10.09: Liste der beantragten Baumfällungen vom 05.10.-11.10.09
+- TOP 8.24.: Schreiben Planungsreferat vom 20.10.09: Liste der beantragten Baumfällungen vom 12.10.-18.10.09
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 28.09.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 28.09.09
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 05.10.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 05.10.09
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 12.10.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 12.10.09
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 19.10.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 19.10.09
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.09: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen (Sitzungsvorlagen Nr. 08-14 / V 02956)
+- TOP 8.30.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) (Sitzungsvorlage Nr. 08-14 / V 02802)
+- TOP 8.31.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse ohne ausbeuterische Kinderarbeit (Sitzungsvorlagen Nr. 08-14 / V 02890)
+- TOP 8.32.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 02839)
+- TOP 8.33.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 02831)
+- TOP 8.34.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 02841)
+- TOP 8.35.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Bericht zu REGSAM; REGSAM neu denken, Vertragszeitraum 2010-2012 (Sitzungsvorlage Nr. 08-14 / V 02742)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: a) Bebauungsplan mit Grünordnung Nr. 1997, Bahnlinie Hauptbahnhof-Pasing (südlich) zwischen Am Knie und Willibaldstraße - Satzungsbeschluss; b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses für den Bebauungsplan mit Grünordnung Nr. 1997 (Sitzungsvorlagen Nr. 08-14 / V 02995)
+- TOP 8.37.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.09-30.06.09 (Sitzungsvorlagen Nr. 08-14 / V 02958)
+- TOP 8.38.: Beschluss des Bauausschusses vom 15.10.09: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten (Sitzungsvorlagen Nr. 08-14 / V 02684)
+- TOP 8.39.: Beschluss des Bauausschusses vom 15.10.09: Fuß- und Radwegbrücken in München
+- TOP 8.40.: Schreiben BA 12 / Jugendbeauftragter vom 05.10.09: 18.jetzt - Protokoll der Sitzung vom 28.09.09
+- TOP 8.41.: Schreiben Ausländerbeirat München vom 08.10.09: Infobrief 24 / Oktober 2009
+- TOP 1.2: Bürgerpost an den BA
