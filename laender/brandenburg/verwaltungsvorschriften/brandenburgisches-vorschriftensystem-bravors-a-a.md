@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2009-10-30 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_vv_bau_2009
+- Datum: 2009-11-05 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_sachverst_2009
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,18 +27,16 @@ A |
 
 Aktuelle Fassung
 
-Außerkrafttreten von Verwaltungsvorschriften
+Außerkrafttreten einer Verwaltungsvorschrift
 
-vom 30. Oktober 2009
+vom 5. November 2009
 
 (ABl./09, [Nr. 46], S.2351)
 
-Außerkrafttreten von Verwaltungsvorschriften
+Außerkrafttreten einer Verwaltungsvorschrift
 
-Bekanntmachung
+Bekanntmachung des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz
 
-des Ministeriums für Infrastruktur und Raumordnung
+Vom 5. November 2009
 
-Vom 30. Oktober 2009
-
-Die Verwaltungsvorschrift zur Brandenburgischen Bauvorlagenverordnung (VVBbgBauVorlV) vom 1. September 2003 (ABl. S. 954), die zuletzt durch Bekanntmachung vom 12. Juli 2005 (ABl. S. 734) geändert worden ist, und die Verwaltungsvorschrift zur Verordnung über die Gebühren und Auslagen für Amtshandlungen in baurechtlichen Angelegenheiten (VVBbgBauGebO) vom 1. September 2003 (ABl. S. 990) treten am Tag nach dieser Bekanntmachung außer Kraft.
+Die Verwaltungsvorschrift des Ministers für Ernährung, Landwirtschaft und Forsten über die Zulassung privater Sachverständiger nach § 7 Abs. 1 des Gesetzes zur Ausführung des Lebensmittel- und Bedarfsgegenständegesetzes des Landes Brandenburg vom 3. Mai 1995 (ABl. S. 462) tritt am Tag nach dieser Bekanntmachung im Amtsblatt für Brandenburg außer Kraft.
