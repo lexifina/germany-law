@@ -1,0 +1,60 @@
+# Rat (1. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2009-11-05T18:33:00+01:00
+- Ende: 2009-11-05T20:50:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWrRufAEmHtGFJhPeHtEhaw
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1683
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRFd9hfG6VBFp1gvWcg-y0RhuCzBgQTlU2cXzHvlTECh/Bekanntmachung_Rat_05.11.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVQQkNK5WROEz7EpJrYlFWn9jGLLVvCbaBLVjQaaMZZG/Oeffentliche_Niederschrift_Rat_05.11.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung eines Schriftführers/einer Schriftführerin und eines Stellvertreters/einer Stellvertreterin
+- TOP 2.: Feststellung des Altersvorsitzenden
+- TOP 3.: Vereidigung und Einführung des Bürgermeisters
+- TOP 4.: Verpflichtung und Einführung der Ratsmitglieder
+- TOP 5.: Stellvertreter / Stellvertreterinnen des Bürgermeisters
+- TOP 5.1: Bestimmung der Anzahl
+- TOP 5.2: Wahl der Stellvertreter / Stellvertreterinnen
+- TOP 6.: Verpflichtung und Einführung der stellvertretenden Bürgermeister
+- TOP 7.: Verabschiedung von ehemaligen Ratsmitgliedern
+- TOP 8.: Bildung eines Wahlprüfungsausschusses
+- TOP 9.: Bildung von Ausschüssen
+- TOP 9.1: Festlegung der Ausschüsse und deren Bezeichnung Festlegung der Ausschussgröße - Mehrheitlich dafür
+- TOP 9.2: Festlegung der Ausschussgröße
+- TOP 9.3: Bestimmung der Höchstzahl der Sachkundigen Bürgerinnen und Bürger - - einstimmig -
+- TOP 9.4: Wahlen zu den Ausschüssen hier: Sitzverteilung - - 32 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 9.5: Zuteilung der Ausschussvorsitze Benennung der Ausschussvorsitzenden und stellv. Ausschussvorsitzenden - - 32 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 10.: Wahl von 5 Vertretern / Vertreterinnen und 5 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Sonderschulverbandes Fröbelschule
+- TOP 11.: Wahl von 3 Vertretern / Vertreterinnen und 3 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Zweckverbandes Volkshochschule Lippe-West
+- TOP 12.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in den Fachausschuss des Zweckverbandes Volkshochschule Lippe-West
+- TOP 13.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Beirat des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 14.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Verbandsversammlung des Kommunalen Rechenzentrums Minden-Ravensberg/Lippe
+- TOP 15.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Verwaltungsrat des Abfallwirtschaftsverbandes Lippe
+- TOP 16.: Wahl von 2 Vertretern / Vertreterinnen und 2 Stellvertretern / Stellvertreterinnen in die Verbandsversammlung des Abfallwirtschaftsverbandes Lippe
+- TOP 17.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Gesellschafterversammlung der Gesellschaft für Abfallentsorgung Lippe (GAL)
+- TOP 18.: Wahl von BM Schemmel als stellvertretendes Aufsichtsratsmitglied in die Gesellschaft für Abfallentsorgung Lippe (GAL) lt. Vorschlag der Bürgermeisterkonferenz zur Besetzung des Aufsichtsrates der GAL vom 07.10.2009
+- TOP 19.: Wahl von 4 Vertretern / Vertreterinnen und 4 Stellvertretern / Stellvertreterinnen in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes
+- TOP 20.: Wahl der Vertreter / Vertreterinnen und Stellvertreter / Stellvertreterinnen in den Kindergartenrat der / des
+- TOP 20.1: Kindertagesstätte "Das Spatzennest" in Asemissen (2)
+- TOP 20.2: Kindertagesstätte "Kleine Strolche" in Leopoldshöhe (2)
+- TOP 20.3: Kindertagesstätte "Regenbogenkinderland" in Schuckenbaum (2)
+- TOP 20.4: Kindertagesstätte Greste (2)
+- TOP 20.5: Kindergarten Bechterdissen (1)
+- TOP 20.6: Kindertageseinrichtung der AWO Leopoldshöhe (1)
+- TOP 20.7: Kindertageseinrichtung der AWO Asemissen (1)
+- TOP 20.8: Kindertageseinrichtung des DRK Asemissen (1)
+- TOP 21.: Lippe Tourismus & Marketing AG (LTM AG)
+- TOP 21.1: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Hauptversammlung der Lippe Tourismus & Marketing AG
+- TOP 21.2: Besetzung des Aufsichtsrates der Lippe Tourismus & Marketing AG (LTM AG)
+- TOP 22.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in die Gesellschafterversammlung der Kommunalen Verkehrsgesellschaft Lippe mbH
+- TOP 23.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in den Beirat des Landestheaters Detmold
+- TOP 24.: Wahl eines Vertreters / einer Vertreterin und eines Stellvertreters / einer Stellvertreterin in das Netzwerk Lippe
+- TOP 25.: Gewährung einer Geschäftsaufwandspauschale an Ratsmitglieder ohne Fraktionsstatus
+- TOP 26.: Anfragen der Ratsmitglieder
