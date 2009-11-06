@@ -1,0 +1,8 @@
+# TOP 5: Ausschussbildung und Besetzung
+
+- Sitzung: Rat (2009-11-06)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/112539
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/9815
