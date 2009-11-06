@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2009-11-06T14:00:00+01:00
+- Ende: 2009-11-06T22:15:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1374
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1374
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung Rat - Zur Kenntnis genommen
+- TOP 2: Einführung RM - Zur Kenntnis genommen
+- TOP 3: Stellvertreter OB - Zur Kenntnis genommen
+- TOP 4: Einführung BM - Zur Kenntnis genommen
+- TOP 5: Ausschussbildung und Besetzung - Zur Kenntnis genommen
+- TOP 6: Bildung eines Wahlprüfungsausschusses für die Kommunalwahlen - Zur Kenntnis genommen
+- TOP 7: Ausschussvorsitzende - Zur Kenntnis genommen
+- TOP 8: Bildung eines Wahlausschusses für die Integrationswahl - Zur Kenntnis genommen
+- TOP 9: JHA - Zur Kenntnis genommen
+- TOP 10: Verwaltungsrat der Sparkasse - Zur Kenntnis genommen
+- TOP 11: Umlegungsausschuss - Einstimmiger Beschluss
+- TOP 12: Polizeibeirat - Einstimmiger Beschluss
+- TOP 13: Regionalrat - Einstimmiger Beschluss
+- TOP 14: Theterkuratorium - Zur Kenntnis genommen
+- TOP 15: euregio - Zur Kenntnis genommen
+- TOP 16: Niersverband - Zur Kenntnis genommen
+- TOP 17: Niersverband Verbandsrat - Zur Kenntnis genommen
+- TOP 18: IUK - Zur Kenntnis genommen
+- TOP 19: Innenstadtkommission - Zur Kenntnis genommen
+- TOP 20: IT Kooperation - Einstimmiger Beschluss
+- TOP 21: Schwalm Nette - Zur Kenntnis genommen
+- TOP 22: Braunkohlenausschuss - Zur Kenntnis genommen
+- TOP 23: Konferenz der Ratsmitglieder - Zur Kenntnis genommen
+- TOP 24: Landschaftsversammlung Rheinland - Zur Kenntnis genommen
+- TOP 25: Neuwahl des Beirats - Einstimmiger Beschluss
+- TOP 26: Verein zur Förderung der Abfallwirtschaft - Region Rhein-Wupper e.V. - - Einstimmiger Beschluss
+- TOP 27: Bestellung von ständigen Mitgliedern mit beratender Stimme in den SchuBiA - Einstimmiger Beschluss
+- TOP 28: Wahl Trägerversammlung ARGE - Einstimmiger Beschluss
+- TOP 29: Wahl Beirat ARGE - Einstimmiger Beschluss
+- TOP 30: Vertretung der Stadt Mönchengladbach in Organen - Zur Kenntnis genommen
+- TOP 31: Wiederwahl Beig. - Zur Kenntnis genommen
+- TOP 32: Bekanntgabe Abschlussergebnis Stadtsparkasse - Einstimmiger Beschluss
+- TOP 33: Überplanmäßige Bereitstellung von Haushaltsmitteln für Zinsen bei Erstattungen für Überzahlungen bei - Einstimmiger Beschluss
+- TOP 34: Überplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 005.060.090 (Steuerungs- und Schnitts - Einstimmiger Beschluss
+- TOP 35: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2009 - An den Fachausschuss verwiesen
+- TOP 36: Außerplanmäßige Bereitstellung von Haushaltsmitteln für den Verlustausgleich der EWMG - Zur Kenntnis genommen
+- TOP 37: Über- und außerplanmäßige Ausgaben des Haushaltsjahres 2008 - Zur Kenntnis genommen
+- TOP 38: Zustimmung zur Inangriffnahme neuer Investitionen hier: Genehmigung eines Dringlichkeitsentscheides - Zur Kenntnis genommen
+- TOP 39: Ordnungsbehördliche VO Offenhalten 8.11.2009 RH Genehmigung DE - Zur Kenntnis genommen
+- TOP 40: Ordnungsbehördliche VO Offenhalten 29.11. u. 27.12. - Zur Kenntnis genommen
+- TOP 41: Ordnungsbehördliche VO Offenhalten 6.12.2009 - Zur Kenntnis genommen
+- TOP 42: Ordnungsbehördliche Verordnung Offenhalten 13.12.2009 - Einstimmiger Beschluss
+- TOP 43: Erster Nachtrag zur Wahlordnung für die Wahl der Mitglieder des Integrationsrates - Einstimmiger Beschluss
+- TOP 44: Veränderungssperre - Einstimmiger Beschluss
+- TOP 45: BP Nr. 682/III - Einstimmiger Beschluss
+- TOP 46: Campuspark Pahlkebad - Einstimmiger Beschluss
+- TOP 47: Ergänzung des Nahverkehrsplanes - Einstimmiger Beschluss
+- TOP 48: Hochwasser - Vom Antragsteller zurückgezogen
+- TOP 49: Stellungnahme des Rates zur Sicherheitsbefragung von MigrantInnen - Zur Kenntnis genommen
+- TOP 50: Resolution zur gesetzlichen Altfallregelung nach §§ 104a, 104b AufenthG - Vom Antragsteller zurückgezogen
+- TOP 51: Anfragen - Zur Kenntnis genommen
