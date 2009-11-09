@@ -1,16 +1,15 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2009-02-10 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung2009-02-10.pdf
+- Datum: 2009-11-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung2009-02-10fassung2009-11-09.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Hauptsatzung der Stadt Köln
-vom 10. Februar 2009
-in der Fassung der 1. Änderungssatzung der Hauptsatzung der Stadt Köln vom 10. Februar 2009
+Hauptsatzung der Stadt Köln vom 10. Februar 2009
+in der Fassung der 3. Änderungssatzung der Hauptsatzung der Stadt Köln vom 9. November 2009
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 II. Bürgerbeteiligung § 13 Unterrichtung der Einwohnerinnen und Einwohner über allgemein bedeutsame Angelegenheiten § 14 Anregungen und Beschwerden § 15 Einwohnerantrag § 16 Bürgerbegehren, Bürgerentscheid, Ratsbürgerentscheid
@@ -160,7 +159,7 @@ III. Bezirksvertretungen
 
 IV. Ausschüsse
 § 20 Hauptausschuss (§ 57 Absätze 2 und 3, § 59 Abs. 1 GO)
-(1) Im Hauptausschuss führt die Oberbürgermeisterin/der Oberbürgermeister den Vorsitz. Dem Hauptausschuss gehören weiterhin 11 stimmberechtigte Ratsmitglieder sowie ggf. weitere Ratsmitglieder mit beratender Stimme gem. § 58 Abs. 1 Sätze 8 ff. GO an. Der Hauptausschuss wird ermächtigt, in den nicht unter § 41 Abs. 1 Satz 2, § 37 Abs. 1 GO sowie § 19 Abs. 1 Satz 2 dieser Hauptsatzung i.V.m. § 2 Abs. 1 der Zuständigkeitsordnung fallenden Angelegenheiten Entscheidungen zu treffen; jedoch bleiben Angelegenheiten von grundsätzlicher kommunalpolitischer oder erheblicher wirtschaftlicher Bedeutung der Beschlussfassung des Rates vorbehalten.
+(1) Im Hauptausschuss führt die Oberbürgermeisterin/der Oberbürgermeister den Vorsitz. Dem Hauptausschuss gehören weiterhin 13 stimmberechtigte Ratsmitglieder sowie ggf. weitere Ratsmitglieder mit beratender Stimme gem. § 58 Abs. 1 Sätze 8 ff. GO an. Der Hauptausschuss wird ermächtigt, in den nicht unter § 41 Abs. 1 Satz 2, § 37 Abs. 1 GO sowie § 19 Abs. 1 Satz 2 dieser Hauptsatzung i.V.m. § 2 Abs. 1 der Zuständigkeitsordnung fallenden Angelegenheiten Entscheidungen zu treffen; jedoch bleiben Angelegenheiten von grundsätzlicher kommunalpolitischer oder erheblicher wirtschaftlicher Bedeutung der Beschlussfassung des Rates vorbehalten.
 (2) Der Hauptausschuss kann in Angelegenheiten seines Aufgabenbereiches die Entscheidung der Oberbürgermeisterin/dem Oberbürgermeister übertragen.
 § 21 Sachkundige Bürger und Einwohner
 (§ 58 GO)
@@ -175,15 +174,15 @@ Bezirksvertreter, sachkundige Einwohner und Bürger sowie Oberbürgermeister als
 4. die Erteilung von Genehmigungen im Sinne des § 331 Abs. 3 StGB; 5. die Vorlage eines anonymisierten jährlichen Berichts an den Hauptausschuss
 bzw. an die Bezirksvertretungen. (4) Das Nähere regeln der Leitfaden und eine vom Ältestenrat zu beschließende Geschäftsordnung.
 § 22 Integrationsrat (§§ 27 i.V.m. 126 GO)
-(1) Der Integrationsrat besteht aus 33 Mitgliedern. Die Mitglieder werden vom Rat zu einem Drittel nach dem für die Ausschüsse geltenden Verfahren aus seiner Mitte, zu zwei Dritteln nach den Bestimmungen des § 27 GO für die Dauer der Wahlzeit des Rates nach Listen oder als Einzelbewerberinnen/Einzelbewerber gewählt. Ebenso werden persönliche Vertreterinnen/Vertreter gewählt.
-(2) Die Einzelheiten über die Wahl des Integrationsrates werden in einer gesonderten Wahlordnung geregelt.
+(1) Der Integrationsrat der Stadt Köln besteht aus 33 Mitgliedern. Die Mitglieder werden vom Rat zu einem Drittel nach dem für die Ausschüsse geltenden Verfahren aus seiner Mitte, zu zwei Dritteln nach den Bestimmungen des § 27 Gemeindeordnung (GO) für die Dauer der Wahlzeit des Rates nach Listen oder als Einzelbewerberinnen/Einzelbewerber gewählt. Ebenso werden persönliche Vertreterinnen/Vertreter gewählt.
+(2) Nähere Einzelheiten über die Durchführung der Wahl regelt die Wahlordnung für die Wahl des Integrationsrates.
 (3) Für die Verwaltung nimmt die Oberbürgermeisterin/der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter bzw. die Leiterin/der Leiter des Interkulturellen Referates an den Sitzungen des Integrationsrates teil. Daneben können mit beratender Stimme Vertreterinnen/Vertreter folgender Institutionen teilnehmen:
 - Amt für Diakonie - Arbeiterwohlfahrt - Arbeitgeberverband - Agentur für Arbeit Köln - Caritasverband - Deutscher Gewerkschaftsbund - Deutscher Paritätischer Wohlfahrtsverband - Förderverein Kölner Flüchtlingsrat e.V. Die Institutionen schlagen dem Integrationsrat ihre Vertreterinnen und Vertreter zur Berufung vor.
 (4) Der Integrationsrat kann sich mit allen Angelegenheiten der Gemeinde befassen. Es gelten die Befugnisse gem. § 27 Abs. 8 und 9 der Gemeindeordnung. Die Einzelheiten sind in einer gesonderten Satzung festzulegen.
 (5) Dem Integrationsrat werden zur Erfüllung seiner Aufgaben die notwendigen personellen und sachlichen Mittel bereit gestellt. Die Einzelheiten regelt ein Ratsbeschluss.
-(6) Der Integrationsrat kann dem Rat je ein Mitglied als sachkundige Einwohnerin/sachkundigen Einwohner gem. § 58 Abs. 4 GO sowie je ein Mitglied als
+(6) Der Integrationsrat kann dem Rat je ein Mitglied als sachkundige
 
-stellvertretende sachkundige Einwohnerin/stellvertretenden sachkundigen Einwohner in die Fachausschüsse vorschlagen.
+Einwohnerin/sachkundigen Einwohner gem. § 58 Abs. 4 GO sowie je ein Mitglied als stellvertretende sachkundige Einwohnerin/stellvertretenden sachkundigen Einwohner in die Fachausschüsse vorschlagen.
 § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik
 (1) Bei der Stadt Köln wird eine Seniorenvertretung gebildet. Die Seniorenvertretung der Stadt Köln wird entsprechend den Regelungen der jeweils gültigen Wahlordnung gewählt.
 (2) Auf Stadtebene und auf Stadtbezirksebene werden Arbeitsgemeinschaften gebildet, in die die Seniorenvertretung, die Wohlfahrtsverbände und die Fraktionen des Rates bzw. Bezirksvertretungen Mitglieder entsenden. Die Stadtarbeitsgemeinschaft besitzt das Recht, Anregungen oder Stellungnahmen dem Rat, einer Bezirksvertretung oder einem Ausschuss vorzulegen.
@@ -223,7 +222,7 @@ VII. Verwaltung
 (§ 5 GO)
 (1) Die Gleichstellungsbeauftragte arbeitet auf kommunaler Ebene darauf hin, vorhandene Benachteiligungen von Frauen abzubauen, um das verfassungsrechtliche Gebot der Gleichberechtigung von Frauen und Männern sowie die übrigen der Herstellung der Gleichberechtigung dienenden Gesetze zu verwirklichen. Die Gleichstellungsbeauftragte und ihre Stellvertreterin werden von der Oberbürgermeisterin/dem Oberbürgermeister bestellt. Sie sind frei von fachlichen Weisungen. Um die Erfüllung ihres Aufgabenbereiches gewährleisten zu können, können sie Aufgaben an ihnen nachgeordnete Mitarbeiterinnen/Mitarbeiter delegieren; gleichzeitig sind diese auch Ansprechpartnerinnen/Ansprechpartner für Gleichstellungsfragen.
 (2) In der Zuständigkeit der Gleichstellungsbeauftragten liegen gem. §§ 17 ff. LGG und § 5 GO alle frauenrelevanten Fragen und Angelegenheiten. Als frauenrelevant sind solche Fragen und Angelegenheiten zu verstehen, die die Lebens- und Arbeitsbedingungen von Frauen in anderer Weise oder in stärkerem Maße berühren, als die Lebens- und Arbeitsbedingungen von Männern. Es handelt sich um die Wahrnehmung von Querschnittsaufgaben, die fachübergreifend alle Bereiche der Kommunalpolitik und -verwaltung berühren können. Was frauenrelevant ist, entscheidet in Zweifelsfällen die Gleichstellungsbeauftragte.
-(3) Die Gleichstellungsbeauftragte kann in Angelegenheiten ihres Aufgabenbereiches als Gleichstellungsbeauftragte an den Sitzungen des Rates, seiner Ausschüsse, der Bezirksvertretungen und des Verwaltungsvorstandes teilnehmen. Ihr ist auf Wunsch das Wort zu erteilen. Bei ihrer Verhinderung nimmt ihre Stellvertreterin diese Aufgaben wahr. Die Teilnahme an den Sitzungen der Ausschüsse und der Bezirksvertretungen gem. Satz 1 sowie hierbei die Ausübung des Rederechtes gem. Satz 2 kann die Gleichstellungsbeauftragte auch auf ihre nachgeordneten Mitarbeiter/Mitarbei-terinnen übertragen. Der Gleichstellungsbeauftragten sind Zeit, Ort und Tagesordnung der Sitzungen des Rates, seiner Ausschüsse, der Bezirksvertretungen und des Verwaltungsvorstandes rechtzeitig bekannt zu geben, damit eine Stellungnahme der Gleichstellungsbeauftragten noch berücksichtigt werden kann. Gem. § 5 Abs. 5 GO
+(3) Die Gleichstellungsbeauftragte kann in Angelegenheiten ihres Aufgabenbereiches als Gleichstellungsbeauftragte an den Sitzungen des Rates, seiner Ausschüsse, der Bezirksvertretungen und des Verwaltungsvorstandes teilnehmen. Ihr ist auf Wunsch das Wort zu erteilen. Bei ihrer Verhinderung nimmt ihre Stellvertreterin diese Aufgaben wahr. Die Teilnahme an den Sitzungen der Ausschüsse und der Bezirksvertretungen gem. Satz 1 sowie hierbei die Ausübung des Rederechtes gem. Satz 2 kann die Gleichstellungsbeauftragte auch auf ihre nachgeordneten Mitarbeiter/Mitarbeiterinnen übertragen. Der Gleichstellungsbeauftragten sind Zeit, Ort und Tagesordnung der Sitzungen des Rates, seiner Ausschüsse, der Bezirksvertretungen und des Verwaltungsvorstandes rechtzeitig bekannt zu geben, damit eine Stellungnahme der Gleichstellungsbeauftragten noch berücksichtigt werden kann. Gem. § 5 Abs. 5 GO
 
 kann einer Beschlussvorlage durch die Gleichstellungsbeauftragte widersprochen werden. In diesem Fall hat die Oberbürgermeisterin/der Oberbürgermeister das Entscheidungsgremium zu Beginn der Beratung auf den Widerspruch und seine Begründung hinzuweisen.
 (4) Die Oberbürgermeisterin/der Oberbürgermeister stellt die verwaltungsinterne Beteiligung der Gleichstellungsbeauftragten im Rahmen ihres Aufgabenbereichs an allen Vorhaben der Verwaltung sicher. Die Mitwirkung ist schon im Planungsstadium zu gewährleisten. Ebenso stellt die Oberbürgermeisterin/der Oberbürgermeister der Gleichstellungsbeauftragten die notwendigen organisatorischen, personellen und finanziellen Bedingungen zur Erfüllung ihrer Aufgaben zur Verfügung.
@@ -258,7 +257,7 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129 ff -
+- ABl StK 2009, S. 129 ff, S. 1157, S. 1195 -
 
 Anlage zu § 1 der Hauptsatzung der Stadt Köln
 
