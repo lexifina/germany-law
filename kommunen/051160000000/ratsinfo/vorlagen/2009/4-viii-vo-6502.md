@@ -1,0 +1,23 @@
+# Leistungsvereinbarung
+
+- Körperschaft: Stadt Mönchengladbach
+- Drucksache/Vorlage: 4/VIII
+- Art: 1.1 - Beratungsvorlage
+- Datum: 2009-11-09
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/papers/vo/6502
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/papers/vo/6502
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Anlage: Vorlage http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055065.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055207.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055208.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055210.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055211.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055212.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055213.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055215.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055216.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055217.pdf
+- Anlage: Beschreibung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00055218.pdf
+- Beratung: - http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1415 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/68
+- Beratung: - http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1375 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Beratung: - http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1376 http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
