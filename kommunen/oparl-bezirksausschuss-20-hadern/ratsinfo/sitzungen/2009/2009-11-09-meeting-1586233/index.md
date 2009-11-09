@@ -1,0 +1,117 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586233
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586233
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bushaltestellenschild am Zugang neben der Brücke zum "Haderner Stern" (Schr. Bayerische Versorgungskammer, 12.10.09)
+- TOP 1.2.: Parksituation in der Windeckstraße
+- TOP 1.3.: Beförderung der Schulkinder mit dem Bus von Fürstenried-West nach Hadern
+- TOP 1.4.: Probleme in der Großhaderner Straße
+- TOP 1.5.: Anfrage zur Autobahnanbindung Gräfelfing - Würmtalstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Wohnen, Bau und Umwelt
+- TOP 3.4.: UA Budget
+- TOP 3.5.: Bericht zum "Runden Tisch" Lärmproblematik A 96
+- TOP 3.6.: Bericht der Beauftragten für das Kinderhaus Wolkerweg
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag des Elternbeirats der Grundschule an der Großhaderner Str. 50 auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 735,- ? (Direktorium, 26.10.09)
+- TOP 5.2.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.07 über die Projektplanung; Projektname: Würmtalstraße - Platanenstraße Bushaltestelle (Baureferat, 28.10.09)
+- TOP 5.3.: Antrag des Familienzentrums Hadern-Blumenau e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 1.736,48 ? (Direktorium, 28.10.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Wildanger 25: Anbau an ein Zweifamilienhaus, Nutzungsänderung der Wohnung im EG in Büroräume, Umbau OG in 2 Wohneinheiten, Errichtung 3er Wohneinheiten im DG sowie Neubau einer Tiefgarage (8 Stpl.) / Tektur (Planungsreferat, 07.10.09)
+- TOP 6.2.: Schaffung von Jugendbeauftragten in der BA-Satzung, Antr.-Nr. 1499 des BA 12 vom 29.09.09 (Direktorium, 13.10.09)
+- TOP 6.3.: Verkehrsrechtliche Anordnung, hier: Willibaldstr. zwischen Krokus- und Senftenauerstr.; Einführung der Rechts-vor-Links-Regelung (Kreisverwaltungsreferat, 22.10.09)
+- TOP 6.4.: Würmtalstr. 6, Neubau einer Wohnanlage (28 WE) mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 22.10.09)
+- TOP 6.5.: Grundschule Canisiusplatz 2 (Schul- und Kultusreferat vom 27.10.09)
+- TOP 6.6.: Verkehrsrechtliche Anordnung; hier: Verlegung der Schulbus-/ Bücherbushaltestelle am Canisiusplatz (Farnweg) und Änderung des Zeitzusatzes des Bücherbusses an der Haltestelle Farnweg (Kreisverwaltungsreferat, 23.10.09)
+- TOP 6.7.: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern, Antr. BA 10 (Direktorium, 26.10.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Waldgartenstr. 64, 1 Fichte
+- TOP 7.2.: Gräfelfinger Str. 89, 1 Birke und 1 Kiefer
+- TOP 7.3.: Cochemstr. 6a, 1 Birke
+- TOP 7.4.: Zypressenweg 5, 2 Birken
+- TOP 7.5.: Arnikaweg 2 - 4, 1 Tanne
+- TOP 7.6.: Rudi-Seibold-Str. 2, 1 Eiche
+- TOP 7.7.: Vingerstr. 57, 1 serbische Fichte
+- TOP 7.8.: Flemischweg 26, 1 Lärche
+- TOP 7.9.: Hertlstr. 26, 1 Schwarzkiefer
+- TOP 7.10.: Senftenauerstr. 29 - 53, 1 Birke
+- TOP 7.11.: Lichtensteinstr. 9, gem. Baumbestandsplan Nr. 14164
+- TOP 7.12.: Würmtalstr. 6, gem. Baumbestandsplan Nr. 23217
+- TOP 7.13.: Baumfällung Sauerbruch- / Pfingstrosenstr. aufgrund Bauarbeiten der Stadtwerke München (SWM, 06.11.09)
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Arnikaweg 2 - 4, 1 Fichte (Referat für Stadtplanung und Bauordnung, 16.10.09)
+- TOP 7.2.: Listen des Baureferates vom 06.10.09: - 69 Bäume auf dem Waldfriedhof - 26 Bäume an verschiedenen Straßen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Aurikelstr., Fällungsantrag vom 14.09.09 (Planungsreferat, 14.10.09)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Saalburgstraße (Sozialreferat, 05.10.09)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: Waldsaumstraße und Sauerbruchstraße (SWM, 12.10.09) und Flyer der Stadtwerke: Baumaßnahmen der SWM, Erdgasprojekt Waldsaumstraße (SWM, 09.10.09)
+- TOP 8.3.: Ausbau Mittlerer Ring (B 2 R) - Südwest, Bezeichnung der Straßentunnel (Baureferat, 12.10.09)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Wilhelm-Weitling-Str. Haltverbot (Kreisverwaltungsreferat, 15.10.09)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: Einrichtung von Haltverboten in der Langbehnstr. (Kreisverwaltungsreferat, 22.10.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Erd- / Kieshügel zwischen Walter-Hopf-Weg und Grünanlage (Baureferat, 28.09.09)
+- TOP 9.2.: Stauvermeidung in der Waldwiesenstraße (Kreisverwaltungsreferat, 08.10.09)
+- TOP 9.3.: Sanierung des Fußweges von der Blumenauer Straße zur Wastl-Witt-Straße (Baureferat, 07.10.09)
+- TOP 9.4.: Verkehrsrechtliche Anordnung, hier: Würmtalstraße (Nebenfahrbahn) westlich Waldhüterstraße Haltverbote (Kreisverwaltungsreferat, 09.10.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Gelände der ehemaligen Post in der Terofalstraße, München-Hadern (Deutsche Post Real Estate Germany, 19.10.09)
+- TOP 10.2.: Kindertagesstätte Prälat-Wellenhofer-Str. 32: Verschmutzte Grünfläche, Zufahrt zum Kindergarten (Schr. KiGa Prälat-Wellenhofer-Str. 32, 21.10.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Zuwendung aus dem Budget des BA 20; Antrag ASZ Kleinhadern-Blumenau vom 25.11.08 für Überarbeitung des Seniorenführers für Hadern (Direktorium, 30.09.09)
+- TOP 11.2.: Einladung "Das Schulreferat trifft die Bezirksausschüsse" am 25.11.09 (Schul- und Kultusreferat, 28.09.09)
+- TOP 11.3.: Infobrief 24 / Oktober 2009 (Ausländerbeirat München)
+- TOP 11.4.: Einladung zum Fachtag "Familienselbsthilfe" am 01.12.09 (Selbsthilfezentrum München, 07.10.09)
+- TOP 11.5.: Vortrag: Senior/innen als Fahrgast - Ein vorbildliches Projekt aus Salzburg am Samstag, den 14.11.09 (PRO BAHN Oberbayern, Oktober 09)
+- TOP 11.6.: Einladung zum Tag der offenen Tür im Nachbarschaftstreff "Naklar!" am Samstag, den 14.11.09 von 14.00 - 18.00 Uhr (Nachbarschaftstreff "Naklar!", 22.10.09)
+- TOP 11.7.: Einladung zum kostenfreien Fachforum "Hochwertige Sanierung von WEG-Gebäuden" am Donnerstag, 19.11.09 (Referat für Gesundheit und Umwelt, 20.10.09)
+- TOP 11.9.: Broschüre "Das kommunale Wohnungsbauprogramm in München" (Sozialreferat, 19.10.09)
+- TOP 11.10.: Einladung zu Melodien in unserer Turnhalle am Mittwoch, 11.11.09 (Aktion Sonnenschein, Heilpädagogische Tagesstätte, 23.10.09)
+- TOP 11.11.: Einladung zum Fachgespräch / Podiumsdiskussion: Die neue Energieeinsparverordnung (EnEV 2009) am Donnerstag, 12.11.09 um 17.30 Uhr (Referat für Gesundheit und Umwelt, 20.10.09)
+- TOP 11.12.: Einladung zur Eröffnung des Nachbarschaftstreffs Blumenau am 08.12.09 um 17.00 Uhr im Nachbarschaftstreff Rolf-Pinegger-Str. 5
+- TOP 11.13.: Stadtteilwoche Hadern 2010: Vorbereitungstreffen am - Mittwoch, 02.12.09 - Mittwoch, 27.01.10 jeweils um 19.00 Uhr im Augustinum, Stiftsbogen 74, Theatersaal (Kulturreferat, 08.10.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02752: Ausweisung von Vorranggebieten für die Installation von Windrädern (abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02878: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln (vertagt)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02956: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen Beschluss: Die Staatsregierung wird aufgefordert, die Wohnungen an eine Gesellschaft der öffentlichen Hand zu verkaufen. Sollte dies nicht möglich sein, werden die Mieter vor einem Verkauf mit Vereinbarungen zum Mieterschutz langfristig geschützt, insbesondere durch einen lebenslangen Ausschluss von Eigenbedarfs- und Verwertungskündigungen für Mieter über 60 Jahre, für die jüngeren Mieter auf die Dauer von 15 Jahren, und die Beschränkung der gesetzlichen Spielräume für Mieterhöhungen.
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02890: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02802: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK), Sachstand Konsolidierung 2008/2009, Feinkonzept 2010, Grobkonzept 2011; Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 12.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.4.: Beschluss des Bauausschusses vom 15.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02684: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten, insbesondere zu den künftigen Spielplätzen an der Sauerbruchstr. (850 m², im Bau) und am Stiftsbogen (2.300 m², Fertigstellung 2010)
+- TOP 12.5.: Beschluss des Bauausschusses vom 15.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02063: Fuß- und Radwegbrücken in München
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 zur Sitzungsvorlage-Nr. 08-14 7 V 02420: Wohnen in München IV, A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 12.2.: Beschluss und Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02475: Perspektive München; Langfristige Siedlungsentwicklung (Sachmittelbedarf je 450.000,- ? in 2009 und 2010, S. 33)
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02841: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum Projekt "Integriertes Wohnen" (Ansatz 138.135,- ?), - zur Altenwohnanlage Konrad-Dreher-Str. 19 - 23 (Ansatz 50.287,- ?) und - zum ASZ Kleinhadern-Blumenau (Ansatz 207.108,- ?)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02831: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Projekt des Vereins für Sozialarbeit in der Blumenau (Ansatz 55.000,- ?), - der Nachbarschaft Kleinhadern von Na klar! (Ansatz 13.000,- ?), - zur Krokusstr. 73 (Ansatz 3.000,- ?)
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02839: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum Kinderhaus am Wolkerweg (Ansatz 198.148,- ?), - zum Treffpunkt PfiffTEEN (Ansatz 307.167,- ?), - zum Treff 21 (Ansatz 341.335,- ?) und - zum Bewohnertreff Neuhadern (Ansatz 98.518,- ?)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 zur Sitzungsvorlagen-Nr. 08-14 / V 02958: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.-30.06.09
+- TOP 12.2.: Bekanntgabe in der Vollversammlung vom 07.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02862: Sonderflughafen Oberpfaffenhofen; Aktueller Sachstand
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02609. Beteiligung an einem vom Bundesministerium für Bildung und Forschung (BMBF) geförderten Forschungsvorhaben "Offene Innovationsprozesse für die energieeffiziente Stadt 2020+ (OFFIES 2020+) im Rahmen der Fördermaßnahme "Wettbewerb Energieeffiziente Stadt" des Förderkonzeptes "Grundlagenforschung Energie 2020+"
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
