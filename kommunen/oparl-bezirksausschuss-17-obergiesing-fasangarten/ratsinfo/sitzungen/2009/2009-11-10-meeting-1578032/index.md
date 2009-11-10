@@ -1,0 +1,111 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2009-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1578032
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1578032
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragsstellerIn: Kreisjugendring München Stadt; für die Maßnahme: Theatertage im 103er - Freizeittreff Obergiesing für alle Schüler der Grundschule an der Weißenseestraße; Antragssumme: 635,00 ?; Beschlussvorlage des Direktoriums vom 16.10.2009
+- TOP 4.2.: AntragsstellerIn: Fachdienst für ältere Migrantinnen und Migranten der Inneren Mission München; für die Maßnahme: das Giesinger Literaturmenü 2010 im April, Juni und Oktober 2010; Antragssumme: 900,00 ?; Beschlussvorlage des Direktoriums vom 20.10.2009
+- TOP 4.3.: Beschlussfassung über die Finanzierung des Neujahresempfangs aus dem Budgetanteil für BA-eigene Maßnahmen i. H. v. 2.500,00 ?
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragsstellerIn: Fachdienst für ältere Migrantinnen und Migranten der Inneren Mission München, für die Maßnahme: Auftaktfest Giesinger Literaturmenü am 22.01.2010 im Gemeindezentrum der Lutherkirche mit kulinarischen Spezialitäten, Erzählen, Musik und Tanz ; Antragssumme: 1619,00 ?; Antrag vom 01.10.2009
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Brunnen in der Perlacher Straße (verwiesen aus der Sitzung vom 13.10.2009)
+- TOP 0.1.: Bebauungsplan Nr. 1979 - ehem. AGFA-Gelände: - Einhaltung des Schuttabraumtermins zum 30.06.2009 - keine Schuttablagerungen aus anderen Straßen in der Weißenseestraße - Errichtung eines Bauzauns aus Holz Empfehlung Nr. 08-14 / E 00347 der Bürgerversammlung des 17. Stadtbezirkes vom 23.06.2009; Sitzungsvorlage Nr. 08-14 / V 03148; Beschluss des BA 17 vom 10.11.2009 - <div>nach Antrag</div>
+- TOP 2: (E) Bebauungsplan Nr. 1979 ? ehem. AGFA-Gelände: - Einhaltung des Schuttabraumtermins zum 30.06.2009 - keine Schuttablagerung aus anderen Straßen in der Weißenseestraße - Errichtung eines Bauzauns aus Holz Empfehlung Nr. 08-14 / E 00347 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing am 23.06.2009 - <div>nach Antrag</div>
+- TOP 2.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen Antrag Nr. 08 - 14 / A 01054 der Stadtfraktion DIE GRÜNEN / RL vom 21.09.2009; Schreiben des KVR vom 02.10.2009 mit der Bitte um Stellungnahme bis 09.11.2009 (vertagt aus der Sitzung vom 13.10.2009)
+- TOP 2.2.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Kappellenfeldstraße 15; Neubau eines Doppelhauses mit Doppelgarage - VORBESCHEID; Zuleitung der Lbk vom 26.10.09 mit der Bitte um Stellungnahme binnen eines Monats
+- TOP 2.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.1 SSW "Contact", Herzogstandstraße; Mitteilung vom 01.10.2009
+- TOP 2.2.: Erweiterung der Europäischen Schule in München Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2037 Lincolnstraße (südlich), Bahnlinie München Ost- Deisenhofen (westlich), Cincinnatistraße (nördlich), General-Kalb-Weg (östlich) - Grundsatz- und Aufstellungsbeschluss - Auslobung eines Realisierungswettbewerbes mit städtebaulichem Ideenteil für die Europäische Schule München; Sitzungsvorlagen Nr. 08-14 / V 02988; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 (VB) zu 5.1.4.2 Hinweis / Ergänzung vom 01.10.2009; Alternativer Standort für die Europäische Schule in München; Antrag Nr. 08-14 / A 01078 der Stadtratsfraktion der FDP vom 25.09.09
+- TOP 2.3.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009 Sitzungsvorlage Nr. 08-14 / V 02958 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009
+- TOP 2.4.: Baufälle im 17. Stadtbezirk
+- TOP 2.5.: Fertigstellung Giesinger Bahnhofsplatz; Schreiben des Baureferats vom 07.10.2009
+- TOP 2.6.: Tegernseer Landstr. 25, Fl.Nr. 15729 / 0, Gemarkung München Sektion VIII Bebauung des Anwesens Tegernseer Landstr. 25 und 27 - insbesondere aus Hinblick auf Denkmalschutz und Frischluftversorgung Anfrage des BA 17 vom 05.08.2009; Zwischennachricht der Lokalbaukommission vom 13.10.2009
+- TOP 2.7.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Anwesen Werinherstraße, 1. OG rechts Schreiben des Amtes für Wohnen und Migration vom 21.10.2009 mit der Bitte um Kenntnisnahme
+- TOP 2.8.: Fuß- und Radwegbrücken in München Renaissance des öffentlichen Raumes I Brücken bauen - ganz konkret Antrag Nr. 02-08 / A 04224 der Stadtratsfraktion Bündnis90/Die Grünen/RL vom 07.02.2008 Errichtung eines Fußgängersteges über die Isar in Verlängerung der Klenzestraße Empfehlung Nr. 02-08 / E 00942 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt - Isarvorstadt am 15.11.2007 Ideenwettbewerb Klenzesteg Antrag Nr. 08-14 / B 01273 des Bezirksausschusses des Stadtbezirkes 2 Ludwigsvorstadt - Isarvorstadt vom 29.01.2008 ?Klenzesteg? ? Fußgängersteg über die Isar Antrag Nr. 02-08 / B 02924 des Bezirksausschusses des Stadtbezirkes 5 Au-Haidhausen vom 20.02.2008 Klenzesteg - neue Fußgänger- und Radwegebrücke über die Isar auf der Höhe der Klenzestraße schaffen Antrag Nr. 08-14 / A 00540 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.01.2009 Umbau und Freigabe des ungenutzten (nördlichen) Gleises auf der Braunauer Eisenbahnbrücke als Fuß- und Radweg (Ziffer 1 des Antrages) Empfehlung Nr. 02-08 / E 00999 der Bürgerversammlung des Stadtbez. 18 Untergiesing - Harlaching am 25.10.2007 Errichtung eines Fußweges an der Braunauer Eisenbahnbrücke Empfehlung Nr. 08-14 / E 00290 der Bürgerversammlung des Stadtbez. 2 Ludwigsvorstadt - Isarvorstadt am 18.06.2009 Ausbau Heidemannstraße ? Fußgänger- und Fahrradüberführung über die Heidemannstr. zw. der Reichskleinsiedlung A. Nr. 82
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Schaffung von Jugendbeauftragten in der BA-Satzung; BA-Antrag-Nr. 08-14 / B 01499 des Bezirkausschusses des Stadtbezirkes 12 Schwabing - Freimann vom 29.09.2009; Schreiben des Direktoriums vom 13.10.2009 mit der Bitte um Stellungnahme
+- TOP 0.1.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" Beschluss des Kinder- und Jugendhilfsausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB) 5.2.4.1.1 der Zentrale München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit Antrag Nr. 08-14 / A 01013 der Stadtfraktion DIE GRÜNEN / RL vom 19.08.2009 Sitzungsvorlage Nr. 08-14 / V 02890 5.2.4.1.2 des Amtes für Soziale Sicherung Sitzungsvorlage Nr. 08-14 / V 02841 sowie Neufassung vom 06.10.2009 5.2.4.1.3 des Amtes für Wohnen und Migration Sitzungsvorlage Nr. 08-14 / V 02831 sowie Neufassung vom 06.10.2009 5.2.4.1.4 des Stadtjugendamtes Sitzungsvorlage Nr. 08-14 / V 02839 sowie Neufassung vom 06.10.2009
+- TOP 0.2.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4.HSK) - Sachstand Konsolidierung 2008 / 2009 - Feinkonzept 2010 - Grobkonzept 2011 Optimierung von Prozessen und Stukturen Gender Mainstreaming bei der Haushaltskonsolidierung Sitzungsvorlage Nr. 08 - 14 / V 02802 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB)
+- TOP 0.3.: Bericht zu REGSAM REGSAM neu denken Vertragszeitraum 2010 - 2012 Sitzungsvorlage Nr. 08 -14 / V 02742 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB)
+- TOP 0.4.: "Soziale Stadt" 2009 a) Stand der Umsetzung des Programms "Soziale Stadt" in den Sanierungsgebieten am Mittleren Ring Südost, "Tegernseer Landstraße / Chiemgaustraße" und "Insbrucker Ring / Baumkirchner Straße" b) Weitere Beauftragung der Quatiersmanagements c) Städtebauförderung Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf - Perlach Stadtbezirk 17 - Obergiesing Stadtbezirk 18 - Untergiesing - HArlaching Sitzungsvorlage Nr. 08 - 14 / V 03010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 (VB)
+- TOP 0.5.: Überdachung und behindertengerechte Zugänglichkeit der Briefkästen und Briefmarkenautomaten am Postamt Tegernseer Platz; Schreiben des Referat für Arbeit und Wirtschaft vom 19.10.2009 mit der Bitte um Fristverlängerung
+- TOP 0.6.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten Antrag Nr. 02-08 / A 03583 von Herrn Stadtrat Josef Schmid und Frau Stadträtin Eva Maria Caim vom 15.03.2007; Sitzungsvorlage Nr. 08-14 / V 02684; Beschluss des Bauausschusses vom 15.10.2009 (SB) Sitzungsvorlage Nr. 08 -14 / V 02684 Beschluss des Bauausschusses vom 15.10.2009 (SB)
+- TOP 0.1.: Budgetantrag des ASZ Obergiesing - Unterstützung der Maßnahme durch den Träger; Antwortschreiben der AWO zur Anfrage des BA 17 vom 15.09.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Umwandlung der Marklandstraße in eine Spielstraße; Bürgeranliegen aus der Sitzung vom 13.10.2009
+- TOP 0.1.: Bessere Überwachung des behindernden Gehwegparkens im Bereich des Fan-Treffs in der Deisenhofener Straße, Höhe Herzogstandstraße (Ziffer 2 des Antrages); Empfehlung nr. 08-14 / E 00352 der Bürgerversammlung des 17. Stadtbezirkes vom 23.06.09; Sitzungsvorlage Nr. 08-14 / V 03175; Beschluss des BA 17 vom 10.11.2009 - <div></div>
+- TOP 0.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen Antrag Nr. 08 - 14 / A 01054 der Stadtfraktion DIE GRÜNEN / RL vom 21.09.2009; Zuleitung des KVR vom 02.10.2009 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 13.10.2009) (FF)
+- TOP 0.2.: Feuerwehrzufahrt Schlierseestraße 79 / 81; Anhörung gemäß § 13 der Satzung für Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 08.10.09 mit der Bitte um Rückäußerung innerhalb 6 Wochen
+- TOP 0.3.: LZA Neubau an der Kreuzung Heimgarten- / Werinherstraße; Schreiben des KVR vom 13.10.2009 mit der Bitte um Stellungnahme zur verkehrlichen Situation
+- TOP 0.1.: Entschärfung der gefährlichen Verkehrssituation insbesondere für Radfahrer auf der Brücke Tegernseer Land-/ Regerstr.; Schreiben des BA 17 vom 24.07.09; Antwortschreiben des Baureferats vom 01.10.2009
+- TOP 0.2.: Schlierseestr. 75 - 87; Kurzparkzone; Verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.3.: Sitzbänke in den Wartehallen am provisorischen Bushalt Giesinger Bahnhof; Anliegen des BA 17 aus der Sitzung vom 08.09.2009 Antwortschreiben der MVG vom 09.10.2009
+- TOP 0.4.: Überprüfung der Fahrradwege auf Befahrbarkeit durch das Baureferat-Gartenbau; Antrag der FDP Fraktion vom 26.08.2009 BA-Antrag Nr. 08-14 / B 01453 des Bezirksausschusses des Stadbezirkes 17 vom 08.09.2009 Antwortschreiben des Baureferat-Gartenbau vom 15.10.2009
+- TOP 0.5.: Beginn der Probephase LZA Tegernseer Landstr. / Strab Schreiben des KVR vom 22.10.2009
+- TOP 0.6.: Verkehrsrechtliche Anordnung nach § 45 StVO; Aufhebung des personenbezogenen Behindertenparkplatzes in der Leifstraße 11 Seite: Wikingerstraße; Mitteilung des KVR vom 14.09.09
+- TOP 0.1.: Radquerung Tegernseer Landstraße Antrag der Fraktion von B90/Die Grünen im Bezirksausschuss 17 vom 28.10.2009 Der BA möge beschließen: In Höhe der Wirtstraße soll für Radfahrer in beide Richtungen eine legale Querungsmöglichkeit geschaffen werden.
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Wertstoffcontainerstandort Warngauerstraße / Schlierseestraße; Zuleitung des Abfallwirtschaftsbetriebes München mit der Bitte um Stellungnahme bis Ende der 50. KW
+- TOP 0.1.: Abholzung im Bereich Werinherstraße 20 - 28; Schreiben des BA 17 vom 15.09.09; Antwortschreiben des Baureferats-Gartenbau vom 29.09.2009
+- TOP 0.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.2.1 Anwesen in der Fasanengartenstr. 142; Bescheid vom 21.10.2009 5.4.4.2.2 Anwesen in der Pennstr. 38 - 60 hier HsNr. 42; Bescheid vom 15.10.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Brunnen in der Perlacher Straße (verwiesen aus der Sitzung vom 13.10.2009) - FF
+- TOP 0.1.: Lagerraum für das Kulturzentrum am Giesinger Bahnhof; BA-Antrag Nr. 08 - 14 / B01000 des Bezirksausschusses des Stadtbezirkes 17 - Obergiesing vom 10.03.2009 Antwortschreiben des Kulturreferats, Abteilung 3 vom 05.10.2009
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern; BA-Antrags-Nr. 08-14 / B 01302 des BA 10 - Moosach vom 29.06.2009; Schreiben des Direktoriums mit der Bitte um Stellungnahme bis 01.12.2009
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.7: Berichte der Beauftragten
+- TOP 7.7.7.1: Ausländer/Innen
+- TOP 7.7.7.2: Behinderte
+- TOP 7.7.7.3: Genderfragen
+- TOP 7.7.7.4: Kinder
+- TOP 7.7.7.5: Jugend
+- TOP 7.7.7.6: Senioren/Innen
+- TOP 7.7: Baumschutz
+- TOP 7.7.1: Einzelfälle
+- TOP 7.7.2: Baumbestandspläne
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
