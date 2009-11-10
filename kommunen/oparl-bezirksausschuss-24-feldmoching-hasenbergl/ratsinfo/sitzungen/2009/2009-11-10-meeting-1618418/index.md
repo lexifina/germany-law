@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618418
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618418
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Ernennung eines/einer neuen Jugendbeauftragten im BA 24
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Euro-Trainings-Centre ETC e.V.; Bau eines Bewegungs- und Sinnesparcours
+- TOP 2.2.: Projektplanung Knospenstraße zwischen Paul-Preuß- und Georg-Winkler-Straße (vertagt in der Sitzung am 28.07.09) / Ergebnis der Anwohnerversammlung vom 20.10.09
+- TOP 2.3.: Projektplanung Kreuzungsumbau Josef-Frankl-Straße / Lerchenstraße (vertagt in der Sitzung am 13.10.09)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Schaffung von Jugendbeauftragten in der BA-Satzung
+- TOP 5.2.: Neubau einer Lichtzeichenanlage an der Kreuzung Josef-Frankl-Straße / Lerchenstraße
+- TOP 5.3.: Gemeinde Oberschleißheim; Bebauungsplan Nr. 60 b Gewerbegebiet Sonnenstraße
+- TOP 5.4.: Anhörung im Einzelfall auf Anforderung: Bauvorhaben in der Lassallestr. 100
+- TOP 5.5.: Vollzug der Baumschutzverordnung, Bauvorhaben: a) Schwarzhölzlstraße b) Schneeglöckchenstr. 104
+- TOP 5.6.: Teilnahme der Bezirksausschüsse an Wettbewerben: hier: Benennung und Entsendung von Stellvertretern (BA-Antrags-Nr. 02-08 / B 01302 vom 29.06.2009)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Sanierung der Lerchenstraße zwischen Herberg- und Josef-Frankl-Straße (BA-Antrags-Nr. 08-14 / B 00308 vom 29.07.08)
+- TOP 6.2.: Mobilfunk; Veröffentlichung von Daten im laufenden Verfahren zum Aufstellen von Mobilfunksendeanlagen (BA-Antrags-Nr. 02-08 / B 02455 vom 09.10.07)
+- TOP 6.3.: Maßnahme zur Lärmminderung und Verkehrsberuhigung in der Himmelschlüsselstraße
+- TOP 6.4.: Stadtteilkulturwoche 2009 Feldmoching-Hasenbergl-Nordhaide-Hart
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: Meldeliste Baumfällungsanträge
+- TOP 6.7.: Vollzug der Baumschutzverordnung; Genehmigung zur Beseitigung von Borkenkäferbäumen auf dem Grundstück Mitteisstr. 13
+- TOP 6.8.: Vollzug der Baumschutzverordnung: Genehmigung zur Beseitigung von Gefahrenbäumen auf dem Grundstück Eduard-Spranger-Str. 34-42, Rainfarnstr. 21
+- TOP 6.9.: Bebauungsplan mit Grünordnung Nr. 1940 a Bunzlauer Platz (Ausgleichsflächen im Bereich des Stadtbezirks 24)
+- TOP 6.10.: Vollzug der Satzung über das Verbot der Zweckentfremdung von Wohnraum: a) Steinbergerstraße b) Reinachstraße
+- TOP 6.11.: Broschüre "Das kommunale Wohnungsbauprogramm in München"
+- TOP 6.12.: Mitteilung über ein Grundstücksgeschäft: Heidelerchenstraße
+- TOP 6.13.: Verkehrsrechtliche Anordnung: Sperrung Bruno-Frank-Weg, Witzleben- und Goerdelerstraße mit Zusatz "Anlieger frei"
+- TOP 6.14.: Drehgenehmigung: "K11 - Kommissare im Einsatz" am 15.10.09 in der Ponkratzstr. 15
+- TOP 6.15.: Zuwendung aus dem BA-Budget: a) Kath. Pfarramt Mariä Sieben Schmerzen b) Evangeliumskirche (Sachbericht) c) Teestube "komm" (Sachbericht)
+- TOP 6.16.: Sanierung des Betriebsgebäudes Granatstr. 10
+- TOP 6.17.: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 6.18.: Einladung zu einer Informationsveranstaltung der DFS Deutsche Flugsicherung GmbH: Zusätzlicher Termin am 11.12.09 um 13 Uhr
+- TOP 6.19.: Winterdienst 2009/2010; Allgemeine Übersicht der Einsatzgebiete
+- TOP 6.20.: Umleitung der Buslinien 60 und 173
+- TOP 6.21.: Liste Baumaßnahmen der Stadtwerke München
+- TOP 6.22.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten
+- TOP 6.23.: Fuß- und Radwegbrücken in München
+- TOP 6.24.: Beschlussvollzugskontrolle des Referates für Stadtplanung und Bauordnung
+- TOP 6.25.: Ablehnung der Express-S-Bahn auf der S1-Trasse oder Gewährung eines optimalen Lärmschutzes sowie Untertunnelung für den Fall des Baus (Empfehlung Nr. 08-14 / E 00243 der Bürgerversammlung vom 26.03.09)
+- TOP 6.26.: Perspektive München; Langfristige Siedlungsentwicklung
+- TOP 6.27.: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen
+- TOP 6.28.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.29.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.30.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.31.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 6.32.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept: Sachstand Konsolidierung, Fein- und Grobkonzept
+- TOP 6.33.: Bericht zu REGSAM; REGSAM neu denken, Vertragszeitraum 2010 - 2012
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
