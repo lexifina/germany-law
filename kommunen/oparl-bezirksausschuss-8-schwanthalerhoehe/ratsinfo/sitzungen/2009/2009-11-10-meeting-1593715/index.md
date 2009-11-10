@@ -1,0 +1,64 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593715
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593715
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Widmung Teilstrecken "Am Bavariapark" und "Theresienhöhe" sowie Widmungserweiterungen
+- TOP 5: Anhörungen
+- TOP 5.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 5.2.: Zweckentfremdung von Wohnraum Westendstraße 74
+- TOP 5.3.: Novellierung der Naturdenkmalverordnung
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten
+- TOP 6.1.2.: Anhörung zur Nutzungsänderung Ridlerstraße 31
+- TOP 6.1.3.: Anhörung zur Nutzungsänderung Bergmannstraße 22
+- TOP 6.1.4.: Grundstücksgeschäft Schwanthalerstraße 168
+- TOP 6.1.5.: Steg Arnulfpark
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: Bericht der Veranstaltung zum Armutsbericht
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Entscheidung über mobilen Fahrradständer in der Gollierstr. 40
+- TOP 6.4.2.: Entscheidung über mobilen Fahrradständer in der Ligsalzstr. 12
+- TOP 6.4.3.: Fahrradständer in der Schrenkstraße 2
+- TOP 6.4.4.: Baustellen in der Schwanthalerhöhe
+- TOP 6.4.5.: Straßenarbeiten in der Trappentreustraße
+- TOP 6.4.6.: Verkehrsrechliche Anordnungen Schwanthalerhöhe
+- TOP 6.4.7.: Straßenbauarbeiten in der Barthstraße 4
+- TOP 6.4.8.: Personenbezogener Behindertenparkplatz in der Bergmannstraße 62
+- TOP 6.4.9.: Anhörung zum Baumfällungsantrag in der Landsbergerstr. 128-132
+- TOP 6.4.10.: Unterrichtung zum Baumfällungsantrag in der Kazmairstr. 43
+- TOP 6.4.11.: Versammlung unter freiem Himmel "Gebetsprozession für den Schutz ungeborener Kinder und der Armen Seelen"
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Förderung des Buches "Zeit zum Aufstehen" von August Kühn
+- TOP 7: Erledigungen
+- TOP 7.1.: Baumpflanzungen und Sitzbänke im Bavariapark
+- TOP 7.2.: Antwort auf BV Anfrage
+- TOP 7.3.: Ausweitung der Parkraummanagementgebiete Theresienhöhe und Ridlerstraße
+- TOP 7.4.: Anwortschreiben des Baureferates zum Thema Bahndeckel
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Unveränderte Fortführung der Gaststätte Sabdzak & Bosna
+- TOP 9.2.: BA-Satzungsänderung - Schaffung von Jugendbeauftragten
+- TOP 9.3.: Ausbau Mittlerer Ring - Bezeichnung der Straßentunnel
+- TOP 9.4.: Neuer Mieterbeirat
+- TOP 9.5.: Winterdienst 2009/2010
+- TOP 9.6.: Weiterleitung Müllproblem am Heimeranplatz
+- TOP 10: Verschiedenes
+- TOP 10.1.: Fachgespräch: Die neue Energieeinsparverordnung 2009 (am 12. November von 17:30-20:00 im Bauzentrum München)
+- TOP 10.2.: Resümee LILALU
+- TOP 11: Protokoll und Umlauf
