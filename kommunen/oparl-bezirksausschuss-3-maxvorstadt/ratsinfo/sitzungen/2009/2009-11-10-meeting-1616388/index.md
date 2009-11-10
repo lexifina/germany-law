@@ -1,0 +1,98 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2009-11-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1616388
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1616388
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen an die Polizei aus der Sitzung vom 13.10.2009
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag von BÜNDNIS 90/DIE GRÜNEN vom 26.10.2009: Ausstieg aus der umweltschädlichen Laubbläser-Technologie
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben, 41. , 42. KW
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Listen der Baumfällungen 42. KW; 44. KW
+- TOP 2.2.2.: Baumfällung Isabellastraße 7, eine Blutpflaume 3-stämmig
+- TOP 2.2.3.: Baumfällung Arcisstraße 43, eine Robinie und ein Ahorns
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Antrag des BA 9 Neuhausen-Nymphenburg: Realisierung der gleisübergreifenden Wegevernetzung des Neubaugebietes "Arnulfpark" durch Fußgänger- und Fahrradstege. Der BA 9 bittet um Unterstützung seines Antrages.
+- TOP 1.4.: Antrag der SPD-Fraktion im Bezirksausschuss 3, Initiative Dr. Oskar Holl, vom 27.10.2009: Beseitigung der Verkehrsampeln an der Kreuzung Karl-/Meiserstraße
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen Antrag Nr. 08-14 / A 01054 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.09.2009; vertagt aus der Sitzung vom 13.10.2009
+- TOP 2.2.2.: Baureferat, Kunst im öffentlichen Raum: Temporäre Ausstellung von Bildern ("Königlich") in der Grünanlage an der Sandstraße/Josef-Rüderer-Straße
+- TOP 2.2.3.: Entscheidung über Sondernutzungserlaubnis, ein mobiler Fahrradständer Fa. Ashton Feucht GmbH, Theresienstraße 100
+- TOP 2.2.4.: Kreisverwaltungsreferat, Entscheidung über Sondernutzungserlaubnis: Obstverkaufsstand, Türkenstraße 68 an der Hausmauer der Schule (s. TOP C 2.2.1/1009
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Informationsveranstaltung für Studenten der LMU auf dem Geschwister-Scholl-Platz; Veranstalter: Bewerbungsgesellschaft München 2018 GmbH
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Budgetantrag des Kreisjugendringes München-Stadt: Jugendtreff M 10 City, Maßnahme Selbstbehauptungskurs "Jungen stärken" am 10.11., 17.11. und 01.12.2009
+- TOP 1.2.: Budgetantrag des Kreisjugendringes München-Stadt: Jugendtreff M 10 City, Projekt "Dunkelbruch" vom 23. bis 25.11.2009
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 1.1.: Antrag auf Veranstaltung des Holocaust-Gedenktages 2010 (27.01.2010) durch den Bezirksausschuss 3 Maxvorstadt
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: 39. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2008; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 (SB)
+- TOP 1.2.: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009
+- TOP 1.3.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten; Beschluss des Bauausschusses vom 15.10.2009
+- TOP 1.4.: Fällung eines Gefahrbaumes (Robinie) in der Nymphenburger Straße 51; Bescheid der Unteren Naturschutzbehörde vom 12.10.2009
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Verkehrsrechtliche Anordnungen: Arbeiten im Straßenraum Schellingstraße 145 - 147 (Reparatur der Fernwärmeleitung) Halteverbot in der Kurfürstenstraße, südlich der Georgenstraße auf ca. 12 Meter Länge
+- TOP 2.2.: Budgetangelegenheit: Verwendungsnachweis für Sommerfest im Arnulfpark am 27.09.2009
+- TOP 2.3.: Aufstellen von Hundekot-Tütenspendern und Müllbehältern in der Maxvorstadt
+- TOP 2.4.: Baumaßnahmen der Stadtwerke: Görresstraße 11, Fernwärme, Neubau
+- TOP 2.5.: runabout MÜNCHEN MARATHON am 11.10.2009: verkehrsrechtliche Erlaubnis des Kreisverwaltungsreferates
+- TOP 2.6.: Bürgerinitiative Begrünung und Verkehrsberuhigung der Schleißheimer Straße; Schreiben des Kreisverwaltungsreferates vom 08.10.2009
+- TOP 2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8.: Entwicklung eines Verkehrskonzeptes für die Augustenstraße bzw. einzelne Streckenabschnitte (Shared Space), BA Antrag Nr. 08-14 / B 00936 vom 20.3.20009; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 24.09.2009
+- TOP 2.9.: Theresien-/Türkenstraße: Kreuzungs- und Bushaltestellenumbau
+- TOP 2.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Haushaltsplan 2010: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14/V 02831
+- TOP 3.2.: Haushaltsplan 2010: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes ; Sitzungsvorlage Nr. 08-14 / V 02839
+- TOP 3.3.: Haushaltsplan 2010: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 02841
+- TOP 3.4.: Haushaltsplan 2010: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; Sitzungsvorlage Nr. 08-14 / V 02890, Antrag Nr. 08-14 / A 01013 der Stadtratsfraktion DIE GRÜNEN/RL; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP 3.5.: Optimierung von Prozessen und Strukturen; Gender Mainstreaming bei der Haushaltskonsolidierung, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB)
+- TOP 3.6.: Bericht zu REGSAM; REGSAM neu denken, Vertragszeitraum 2010 - 2012; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialhilfeausses vom 13.10.2009 (SB)
+- TOP 3.7.: Budget: Verwendungsnachweise - Verein für Sozialarbeit - Bewohnertreff Arnulfstraße, Sommerfest im Arnulfpark; hierzu auch Schreiben der Veranstalter über den Verlauf des Sommerfestes - Elternbeirat Grundschule Dachauer Straße, Kinder-Eltern-Initiative
+- TOP 3.8.: Neuer Mieterbeirat; Änderungssatzung
+- TOP 3.9.: Neuer Mieterbeirat; Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder
+- TOP 3.10.: Schaffung von Jugendbeauftragten in der BA-Satzung; BA-Antrag-Nr. 08-14 / B 01499 des BA 12 vom 29.09.2009 (siehe auch TOP G 3)
+- TOP 4: Kultur
+- TOP 4.1.: Budget: Verwendungsnachweise - Soziale Skulptur München, Beuys Fiu-Sender München - Fremdspracheninstitut München, "Sprachfimmel"
+- TOP 4.1.: Sitzungstermine 2010 (Plenum, UA's und Vorstand)
+- TOP 4.2.: Termin für die Bürgerversammlung 2010
+- TOP 4.3.: Schaffung von Jugendbeauftragten in der BA-Satzung; BA-Antrag-Nr. 08-14 / B 01499 des BA 12 vom 29.09.2009
+- TOP 4.4.: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern Das Direktorium bittet in seinem Schreiben vom 26.10.2009 bis 01.12.2009 um Stellungnahme der Bezirksausschüsse
+- TOP 4.5.: Stadtkämmerei, Anhörung zum Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2010 bis 2014
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
