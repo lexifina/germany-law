@@ -1,0 +1,58 @@
+# Rat der Stadt Rheda-Wiedenbrück (2. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2009-11-10T17:00:00+01:00
+- Ende: 2009-11-10T19:52:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa7TCvHCPdodAvYRiH_F7cM
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/759
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYKM6I4VVfGn8umht0DsoG1mVjH5LJ3AQZ1sgKA7Cdi9/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_10.11.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdMo7DJrLuZr6R7gvBotD6gIrysQgLhwlJ_oVc98ks75/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_10.11.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Verpflichtung der Ortsvorsteher
+- TOP 5: Personelle Zusammensetzung der Fachausschüsse des Rates der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 6: Bestimmung der Vorsitzenden und stellv. Vorsitzenden der Ausschüsse - Einstimmig
+- TOP 7: Erlass einer Wahlordnung für die Wahl der durch Urwahl zu wählenden stimmberechtigten Mitglieder des Integrationsausschusses der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 8: 8. Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für die Fachausschüsse - Einstimmig
+- TOP 9: Besetzung des Wahlausschusses - Einstimmig
+- TOP 10: Besetzung der Gesellschafterversammlung der FGS-Fördergesellschaft Wirtschaft und Kultur mbH Rheda-Wiedenbrück - Einstimmig
+- TOP 11: Besetzung des Aufsichtsrates der FGS-Fördergesellschaft Wirtschaft und Kultur mbH Rheda-Wiedenbrück - Einstimmig
+- TOP 12: Wahl der Vertreter für die Verbandsversammlung des Zweckverbandes VHS "Reckenberg-Ems" - Einstimmig
+- TOP 13: Wahl der Vertreter und Stellvertreter für die Verbandsversammlung des Zweckverbandes "INFOKOM Gütersloh" Wahl der Mitglieder des Verwaltungsrates der Infokom AÖR durch die Verbandsversammlung des Zweckverbandes - Einstimmig
+- TOP 14: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung "Kommunale Beteiligung Lokalfunk im Kreis Gütersloh" - Einstimmig
+- TOP 15: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung der Wasserversorgung Beckum GmbH - Einstimmig
+- TOP 16: AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH a) Besetzung der Gesellschafterversammlung b) Besetzung des Aufsichtsrates - Einstimmig
+- TOP 17: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung „Flughafen Gütersloh GmbH“ - Einstimmig
+- TOP 18: Benennung des stimmberechtigten Vertreters der Stadt Rheda-Wiedenbrück in der Hauptversammlung der RWE AG sowie in der Gesellschafterversammlung der Vereinigung ehemaliger kommunalen Aktionäre der VEW GmbH - Einstimmig
+- TOP 19: Wahl der Vertreterinnen und Vertreter in die Verbandsversammlung des Sparkassenzweckverbandes des Kreises Gütersloh und der Stadt Rheda-Wiedenbrück und Bindung der gewählten Mitglieder bei der Besetzung weiterer Gremien - Einstimmig
+- TOP 20: Wahl eines Mitgliedes des Kuratoriums der "Stiftung der Kreissparkasse Wiedenbrück" - Einstimmig
+- TOP 21: Bestellung von Mitgliedern des Umlegungsausschusses - Einstimmig
+- TOP 22: Besetzung der Städtepartnerschaftskommission - Einstimmig
+- TOP 23: Wahl der Mitglieder des Wapel-Wasserverbandes der Städte Rheda-Wiedenbrück und Rietberg, sowie der Gemeinde Verl im Kreis Gütersloh - Einstimmig
+- TOP 24: Vertretung der Stadt Rheda-Wiedenbrück in der Gesellschafterversammlung "pro Wirtschaft GT GmbH" - Einstimmig
+- TOP 25: Entsendung und personelle Besetzung von Stiftungsrat und Kuratorium der Bürgerstiftung Rheda-Wiedenbrück - Einstimmig
+- TOP 26: Entsendung und personelle Besetzung des Stiftungsrats der Stiftung Ausstellungs- und Begegnungsstätte Wiedenbrücker Schule - Einstimmig
+- TOP 27: Entsendung von Delegierten zur außerordentlichen Delegiertenversammlung der Deutschen Sektion des Rates der Gemeinden und Regionen Europas - Einstimmig
+- TOP 28: Bebauungsplan Nr. 365 "Sebastianstraße" hier: Erste Änderungssatzung zur Verlängerung der Satzung über die Anord- nung einer Veränderungssperre im Bereich des Bebauungsplanes Nr. 365 "Sebastianstraße" - 38 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 28.1: Aussprache zur aktuellen Haushaltssituation
+- TOP 29: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 30: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 32: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 33: Erklärung von Ausschließungsgründen
+- TOP 34: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 35: Genehmigung einer Dringlichkeitsentscheidung - 39 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 36: Bericht zur Beschlusskontrolle
+- TOP 37: Steuern, Gebühren und Beitragsangelegenheiten
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Dringende Anfragen und Anregungen
