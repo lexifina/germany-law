@@ -1,0 +1,89 @@
+# 28. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-11-11T17:30:00+01:00
+- Ende: 2009-11-11T21:03:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2221
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2221
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=37330
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.4.1: Platz des 9. November 1989 - vertagt
+- TOP 1.4.2: Zuschüsse an frei Träger für Insolvenzberatung 2010/2011 bedarfsorientiert anpassen! - überwiesen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Verordnung über die Veränderungssperre 3-5/6 für das Grundstück Treskowstraße 5 im Bezirk Pankow, Ortsteil Heinersdorf - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Wirtschaftsplan für die einzuführende Parkraumbewirtschaftung - überwiesen
+- TOP 1.10: Entwicklung des Botanischen Volksparks Blankenfelde weiter fördern - in der BVV zurückgezogen
+- TOP 1.11: Armutskonferenz - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Anton-Saefkow-Park - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Parkbänke im Schlosspark Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Runder Tisch zu "Seniorenfreundlicher Handel" - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Grenzen überwinden: Mehr Beteiligung bei den Planungen des regionalen Grünzugs zwischen Mauerpark und Barnim - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Blockweise Bebauungspläne - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Bestandsmieter und Erhaltungsverordnung im Gebiet Humannplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Mehr Verkehrssicherheit für Fußgänger und Fahrradfahrer an der Kreuzung am S-Bahnhof Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Maerker für Berliner - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Rückrufservice - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verkehrssicherheit in der Pankgrafenstraße erhöhen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Spiel- und Nachbarschaftshaus auf dem Hirschhof ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Platzhaus auf dem Hirschhof - in der BVV zurückgezogen
+- TOP 1.24: Handreichung Bürgerbeteiligung - überwiesen
+- TOP 1.25: Schulstrukturreform nicht übers Knie brechen - beantwortet
+- TOP 1.26: Kinderfreundliches Bezirksamt - überwiesen
+- TOP 1.27: Begrenzung des Flächenverbrauchs und Bodenschutz - überwiesen
+- TOP 1.28: Querung der Elsa-Brändström-Straße - überwiesen
+- TOP 1.29: Pankower Schlossparkmauer attraktiv mit legaler Graffiti-Kunst gestalten - überwiesen
+- TOP 1.30: Produktives Lernen in den Integrierten Sekundarschulen erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Anzeige der Abfahrtszeiten am S- und U-Bahnhof Schönhauser Allee - mit Änderungen in der BVV beschlossen
+- TOP 1.32: ÖPNV in Pankow beschleunigen - Sicherheit für alle Verkehrsteilnehmer erhöhen! - überwiesen
+- TOP 1.33: Ausstellung Wohl und Wehe der Ehe - überwiesen
+- TOP 1.34: Skulpturen-Diebstähle in Zukunft verhindern - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Platz des 9. November 1989 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Planungsraumkonferenzen im Bezirk flächendeckend einführen und absichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Verkehrskonzept des Bezirkes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4.1: Verkehrsberuhigungskonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Umleitung des Verkehrs in Heinersdorf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Schwerpunkt für Stadtteilbibliothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Interaktiver Kinder- und Jugendstadtplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Sicherung der Lebensmittelkontrolle in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: 20. Jahrestag der "Maueröffnung" im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Durchführung einer Spielleitplanung in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Weg zur Schulzestraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Abwrackprämie auch für Bezieher von Transferleistungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Sportstandort Hansastraße 109 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Jetzt die Gemeinschaftsschule weiter voranbringen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Ausgestaltung des BVV-Saals - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Mehr Sicherheit für Fußgängerinnen und Fußgänger in der Blankenfelder Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Behindertengerechter Zugang für die Deutsche Post und die AOK - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Hinweise auf öffentliche Toiletten in oder im Umfeld der Parkanlagen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Radwegenetz im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Kontrollen der Fahrradfahrer im öffentlichen Straßenverkehr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Mehr Verkehrssicherheit in der Granitzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Umsteuern bei den Haushaltsdefiziten im Bereich der Hilfen in besonderen Lebenslagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Neue Kleingartenanlagen für Pankowerinnen und Pankower! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bekanntmachungs- und Schaukästen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Kurt-Tucholsky-Bibliothek bleibt an VÖBB angeschlossen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Standort Galenusstraße 64 und Klausthaler Straße 21 für die Panke-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Das Schiff zur Rettung der Unschuld der Kunst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.28: Grenzen überwinden: Busverbindung im Norden zwischen den Bezirken Reinickendorf und Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Physiotherapeutische Versorgung für behinderte Kinder sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Bericht über Konjunkturpakete - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Bebauungsplanentwurf 3-26 für die Grundstücke Immanuelkirchstraße 14 und 14 A-C sowie Heinrich-Roller-Straße 15-18 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Neubestellung eines stellvertretenden Mitglieds im Verwaltungrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Bebauungsplanentwurf 3-12 vom 10. Februar 2009 für das Gelände zwischen den nördlichen Grenzen der Grundstücke Roelckestraße 93, Berliner Allee 317 und 321, Berliner Allee, Nüßlerstraße und Roelckestraße sowie einen Abschnitt der Feldtmannstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Einstellung des Bebauungsplanverfahrens XVIII-42 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Anpassung des Maßnahmeplans zur Sicherstellung der Versorgung mit Grundschulplätzen ab 2010 für die Regionen 1-3 der bezirklichen Schulentwicklungsplanung 2008, Fortschreibung Grundschulen - mit Abschlussbericht zur Kenntnis genommen
