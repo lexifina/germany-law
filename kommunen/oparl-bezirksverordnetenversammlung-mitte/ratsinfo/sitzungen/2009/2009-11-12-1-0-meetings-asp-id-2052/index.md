@@ -1,0 +1,70 @@
+# 30. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-11-12T17:30:00+01:00
+- Ende: 2009-11-12T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2052
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2052
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=72267
+
+## Tagesordnung
+
+- TOP -: Bürgerfragestunde - erledigt
+- TOP 1: Mitteilungen - (offen)
+- TOP 1.1: des Vorstandes - erledigt
+- TOP 1.2: der Fraktionen - erledigt
+- TOP 1.3: der Ausschüsse - erledigt
+- TOP 1.4: des Bezirksamtes - erledigt
+- TOP 2: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 3: Thematische Stunde - erledigt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Ergebnisse Alkoholverbot - beantwortet
+- TOP 5: Dringlichkeitsanfragen - (offen)
+- TOP 5.1: Platz da für den Wagenplatz - wohin mit dem Schwarzen Kanal? - beantwortet
+- TOP 5.2: Bäderbetriebe, Hauptausschuss & Monbi-Rasen - beantwortet
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.1: Sprachförderzentrum - beantwortet
+- TOP 6.2: Ansiedlung des College Voltaire - beantwortet
+- TOP 6.3: Wie geht's dem JAM-Projekt? - schriftlich beantwortet
+- TOP 7: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Wahl eines Mitgliedes für den Vorstand der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines stimmberechtigten Mitgliedes und dessen Stellvertreter in den Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG i.V. mit § 35 Abs. 6 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Berufung eines stimmberechtigten Mitgliedes in den Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG i.V. mit § 35 Abs. 6 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 9.1: Bebauungsplanentwurf 1-39 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festzsetzung des Bebauungsplanes 1-39 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2010 und 2011 - in der BVV abgelehnt
+- TOP 9.3: Nachschiebelisten zum Entwurf des Doppelhaushaltsplans Mitte für die Haushaltsjahre 2010 und 2011 - in der BVV abgelehnt
+- TOP 10: Dringlichkeitsanträge - (offen)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Beachvolleyballanlage BeachMitte - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Letzte "SenioInnen-BVV" 2005 - Gibt es in dieser Wahlperiode noch eine? - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bus der Linie M 27 - mit Änderungen in der BVV beschlossen
+- TOP 11.4: Querfinanzierung des Schuletats - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Gendarmenmarkt auch während der Bautätigkeit als Veranstaltungsort erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Steuerung der Ausgaben bei den Entgelt finanzierten Betreuungsleistungen - mit Änderungen in der BVV beschlossen
+- TOP 11.7: Gedenken braucht Raum - Entfernen der Werbetafeln rund um das Mahnmal an der Putlitzbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: GDM auf Konsolidierungskurs bringen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Entschließungen - (offen)
+- TOP 13: Anträge/Beschlussempfehlung - (offen)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Erste-Hilfe-Unterricht in der Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Finanzierung von Schulen den lokalen Bedürfnissen anpassen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.3: Einrichtung einer Deutsch-Türkischen Europaschule im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Sanierungsmittel in Diskussion zum Haushaltsplan 2010/2011 einbeziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Nutzungspflicht Zentrale Vergabestelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.6: Projekt Öffentlicher Beschäftigungssektor – ÖBS im Bereich der ethnischen Ökonomie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Wirtschaftsförderung, hier: „Ethnische Ökonomie“ 1 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.8: Schulqualität muss sichtbar und messbar sein - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Die Türkische Bibliothek - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Interkulturelle Öffnung der Regelversorgung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Schulstandorte Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Verkehrssicherheit an der Reinickendorfer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Verbraucherschutz beim Einkauf in Mitte gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Klassenfrequenzen senken! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.15: Bürgerbeteiligung in den städtebaulichen Untersuchungsgebieten von Mitte umgehend sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: "E-Tankstellen" für Ausflugsschiffe - Schadstoffemission senken und Umwelt schonen - mit Abschlussbericht zur Kenntnis genommen
