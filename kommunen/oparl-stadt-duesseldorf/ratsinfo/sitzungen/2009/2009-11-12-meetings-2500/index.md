@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-11-12T14:00:00+01:00
+- Ende: 2009-11-12T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2500
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2500
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00138053.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00138053.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00138053.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3: Anfragen
+- TOP 4: Anfrage Linke: ALG II- Beziehende - zur Kenntnis genommen
+- TOP 5: Anfrage Linke: - zur Kenntnis genommen
+- TOP 6: Anfrage Rh Laubenburg: Städt. Haushalt - zur Kenntnis genommen
+- TOP 7: Anfrage SPD: Impfung gegen Schweinegrippe - zur Kenntnis genommen
+- TOP 8: Anfrage der FDP-Ratsfraktion: Bilker Arkaden“ - zur Kenntnis genommen
+- TOP 9: Anfrage SPD. Auswirkungen des "schwarz-gelben" Koalitionsvertrages der neuen Bundesregierung auf den städtischen Haushalt - zur Kenntnis genommen
+- TOP 10: Anfrage Bü90/Grü:Beteiligung der Stadt Düsseldorf an der landesweiten Einbürgerungskampagne - zur Kenntnis genommen
+- TOP 11: Anfrage Bü90/Grü: hier: Zukunft der ARGE - zur Kenntnis genommen
+- TOP 12: Anfrage der FDP-Ratsfraktion: Google Street View - zur Kenntnis genommen
+- TOP 13: Anträge
+- TOP 14: Antrag SPD: Kein Verkauf von Krediten durch die Stadtsparkasse Düsseldorf - zur Kenntnis genommen
+- TOP 15: Antrag SPD. Klimafreundliches Düsseldorf: Klimafreundliches Düsseldorf: Fernwärmesatzung - zur Kenntnis genommen
+- TOP 16: Änderung der Zuständigkeitsordnung - zur Kenntnis genommen
+- TOP 17: Änderungsantrag der SPD-Ratsfraktion: Änderung der Zuständigkeitsordnung - zur Kenntnis genommen
+- TOP 18: Beratende Mitwirkung der fraktionslosen Ratsmitglieder in Ausschüssen - zur Kenntnis genommen
+- TOP 19: Ausschuss für die Gleichstellung von Frauen und Männern - zur Kenntnis genommen
+- TOP 20: Bestellung beratender Mitglieder des Jugendrates in Ausschüsse - zur Kenntnis genommen
+- TOP 21: Aufsichtsrat Neuss-Düsseldorfer- Häfen GmbH& Co.KG - zur Kenntnis genommen
+- TOP 22: Aufsichtsrat Hafen Krefeld GmbH& Co.KG - zur Kenntnis genommen
+- TOP 23: Kuratorium der ZERO-Foundation - zur Kenntnis genommen
+- TOP 24: Düsseldorfer Innovations- und Wissenschaftsagentur GmbH (DIWA GmbH) - zur Kenntnis genommen
+- TOP 25: Verwaltungsrat SSK - zur Kenntnis genommen
+- TOP 26: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes - zur Kenntnis genommen
+- TOP 27: Aufsichtsrat der Grundstücksentwicklungs-Gesellschaft mbH - zur Kenntnis genommen
+- TOP 28: Aufsichtsrat der Bädergesellschaft Düsseldorf mbH - zur Kenntnis genommen
+- TOP 29: Beirat der Bädergesellschaft Düsseldorf mbH - zur Kenntnis genommen
+- TOP 30: Aufsichtsrat der Düsseldorf Marketing & Tourismus GmbH - zur Kenntnis genommen
+- TOP 31: Düsseldorfer Gesundheitskonferenz - zur Kenntnis genommen
+- TOP 32: Entsendung von Vertreterinnen und Vertretern der Ratsfraktionen in den Vorstand der Psychosozialen Arbeitsgemeinschaft - zur Kenntnis genommen
+- TOP 33: Wahl von Schulausschussmitgliedern in das Kuratorium der Volkshochschule - zur Kenntnis genommen
+- TOP 34: Neuwahl einer Schiedsperson - zur Kenntnis genommen
+- TOP 35: Haifa-Foundation - zur Kenntnis genommen
+- TOP 36: Beitritt der Landeshauptstadt Düsseldorf zur Europäischen Städtekoalition gegen Rassismus - zur Kenntnis genommen
+- TOP 37: Aufhebung der Sperrzeit für Schank- und Speisewirtschaften in der Altstadt - zur Kenntnis genommen
+- TOP 38: Planungsmaßnahmen
+- TOP 39: B-Plan Nr. 5779/033 - Gartenstadt Reitzensteinkaserne - zur Kenntnis genommen
