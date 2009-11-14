@@ -38,7 +38,7 @@ Fünfter Abschnitt Wahlhandlung
 29 | Briefwahl
 Sechster Abschnitt Feststellung des Wahlergebnisses
 30 | Feststellung des Wahlergebnisses
-31 | Ungültige Stimmen, Zurückweisung von Wahlbriefen, Auslegungsregeln
+31 | Ungültige Stimmabgabe, Zurückweisung von Wahlbriefen, Auslegungsregeln
 32 | Entscheidung des Wahlvorstandes
 Siebter Abschnitt Erwerb und Verlust der Mitgliedschaft in der Bürgerschaft
 33 | Erwerb der Mitgliedschaft in der Bürgerschaft
@@ -61,14 +61,14 @@ Zweiter Teil Wahl der Stadtverordnetenversammlung der Stadt Bremerhaven
 47 | Wahlprüfung
 Dritter Teil Wahl der Beiräte im Gebiet der Stadt Bremen
 48 | Anwendung des Wahlgesetzes
-49 | Wahlrecht und Wählbarkeit
+49 | Wahlrecht, Wählbarkeit und Verlust der Mitgliedschaft
 50 | Wahltag
 51 | Beteiligungsanzeige, Wahlvorschläge
 52 | Unvereinbarkeit
 53 | Wahlprüfung
 Vierter Teil Schlußbestimmungen
 54 | Anfechtung
-55 | Fristen und Termine
+55 | Fristen, Termine und Form
 56 | Wahlkosten
 57 | Wahlstatistik
 58 | Landeswahlordnung
