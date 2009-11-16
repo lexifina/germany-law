@@ -1,0 +1,105 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-11-16T16:07:00+01:00
+- Ende: 2009-11-16T18:35:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7646
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7646
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 05.11.2009 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00110787.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00111497.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00110963.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Versorgungsamt - Kenntnis genommen
+- TOP 2.1.1: Beantwortung der Anfrage der Fraktion Bündnis 90/Die Grünen vom 27.10.2009 - Kenntnis genommen
+- TOP 2.2: Landschaftsschutz - Kenntnis genommen
+- TOP 2.2.1: Bauvorhaben im Landschaftsschutz - Antwort der Verwaltung - Kenntnis genommen
+- TOP 3: Bildung und Besetzung von Ausschüssen und sonstigen Gremien
+- TOP 3.0.1: Interfraktionelle Vereinbarung über die Besetzung der Ratsausschüsse mit sachkundigen Einwohnern in der Wahlperiode 2009-2014 - ungeändert beschlossen
+- TOP 3.0.2: Antrag der CDU-Fraktion zur Gremienbesetzung
+- TOP 3.0.3: Gremienbesetzungen - Antrag zu den Tagesordnungspunkten 3.1. bis 3.63
+- TOP 3.0.4: TOP 3: Besetzung von Ausschüssen und sonstigen Gremien
+- TOP 3.0.5: Antrag der FDP-Fraktion zur Besetzung der Gremien des Rates
+- TOP 3.0.6: Antrag der Fraktion DIE LINKE. zur Gremienbesetzung
+- TOP 3.0.7: Antrag der WfW-Fraktion zur Ausschuss und Gremienbesetzung
+- TOP 3.0.8: Liste der zu besetzenden Gremien - geändert beschlossen
+- TOP 3.1: Wahl der Mitglieder und deren Vertreter/innen in den Hauptausschuss - ungeändert beschlossen
+- TOP 3.2: Wahl der stimmberechtigten Mitglieder und deren Vertreter/innen in den Ausschuss für Finanzen, Beteiligungssteuerung und Betriebsausschuss APH/KIJU - ungeändert beschlossen
+- TOP 3.2.1: Bestellung von sachkundigen Einwohnern im Ausschuss für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH/KIJU - ungeändert beschlossen
+- TOP 3.3: Wahl der Mitglieder und deren Vertreter/innen in den Rechnungsprüfungsausschuss - ungeändert beschlossen
+- TOP 3.4: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 3.5: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Ordnung, Sicherheit, Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
+- TOP 3.6: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 3.7: Wahl der Mitglieder und deren Vertreter/innen in den Sportausschuss - ungeändert beschlossen
+- TOP 3.8: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Kultur - ungeändert beschlossen
+- TOP 3.9: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Stadtentwicklung, Wirtschaft und Bauen - ungeändert beschlossen
+- TOP 3.10: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Umwelt - ungeändert beschlossen
+- TOP 3.11: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 3.12: Wahl der Mitglieder und deren Vertreter/innen in den Ausschuss für Verkehr - ungeändert beschlossen
+- TOP 3.13: Bestellung der Mitglieder des Betriebsausschusses Gebäudemanagement Wuppertal - ungeändert beschlossen
+- TOP 3.14: Bildung des Wahlprüfungsausschusses; Wahl der Mitglieder und deren Vertreter/innen - ungeändert beschlossen
+- TOP 3.15: Wahl der Mitglieder und deren Vertreter/innen für den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 3.16: Wahl der Mitglieder und deren Vertreter/innen in den Integrationsausschuss - ungeändert beschlossen
+- TOP 3.17: Wahl der Mitglieder zur Landschaftsversammlung Rheinland - ungeändert beschlossen
+- TOP 3.18: Benennung der Mitglieder der Ankaufskommission Freiherr von der Heydt-Stiftung - ungeändert beschlossen
+- TOP 3.19: Benennung der Mitglieder der Kommission für die Dr.-Alfred-Springorum-Stiftung - ungeändert beschlossen
+- TOP 3.20: Benennung der Mitglieder des Kuratoriums Wilhelm-Dörpfeld-Gymnasium - ungeändert beschlossen
+- TOP 3.21: Benennung der Mitglieder des Börsenbeirates - ungeändert beschlossen
+- TOP 3.22: Benennung der Mitglieder für den Beirat des Trägervereins "Begegnungsstätte Alte Synagoge Wuppertal - ungeändert beschlossen
+- TOP 3.23: Benennung der Mitglieder des Tierheimbeirates - ungeändert beschlossen
+- TOP 3.24: Benennung der Mitglieder des Polizeibeirates - ungeändert beschlossen
+- TOP 3.25: Benennung der Mitglieder im Zweckverband Naturpark Bergisch Land - ungeändert beschlossen
+- TOP 3.26: Benennung der Mitglieder im Zweckverband Ittertal - ungeändert beschlossen
+- TOP 3.27: Benennung der Mitglieder des Zweckverbandes Wildgehege Neandertal - ungeändert beschlossen
+- TOP 3.28: Benennung des Vertreters der Stadt Wuppertal in Mitgliederversammlung und Vorstand des Schlossbauvereins Burg an der Wupper e.V. - ungeändert beschlossen
+- TOP 3.28.1: Benennung des Mitglieds im Beirat des Schlossbauvereins Burg an der Wupper e.V. - ungeändert beschlossen
+- TOP 3.29: Benennung der Mitglieder des Beirates Wuppertaler Kinder- und Jugendtheater - ungeändert beschlossen
+- TOP 3.30: Bestellung der Vertreter in der Zweckverbandsversammlung des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 3.31: Bestellung der Mitglieder für den Aufsichtsrat der AWG Abfallwirtschaftsgesellschaft Wuppertal mbH - ungeändert beschlossen
+- TOP 3.32: Wahl der bzw. des Vorsitzenden und der übrigen Mitglieder des Verwaltungsrates der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 3.33: Umbesetzung im Aufsichtsrat der BEG Entsorgungsgesellschaft mbH - ungeändert beschlossen
+- TOP 3.34: Bestellung der Mitglieder für den Aufsichtsrat der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 3.35: Bestellung der Mitglieder für den Aufsichtsrat der WSW mobil GmbH - ungeändert beschlossen
+- TOP 3.36: Besetzung des Aufsichtsrates der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 3.37: Abberufung und Bestellung der Mitglieder des Aufsichtsrates der Gemeinnützigen Wohnungsbaugesellschaft mbH (GWG) - ungeändert beschlossen
+- TOP 3.38: Bestellung der Mitglieder des Aufsichtsrates der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 3.39: Abberufung und Bestellung der Mitglieder des Verwaltungsrates der Wirtschaftsförderung Wuppertal AöR (Anstalt öffentlichen Rechts) - ungeändert beschlossen
+- TOP 3.40: Bestellung der Mitglieder für den Aufsichtsrat der Hotel AG - ungeändert beschlossen
+- TOP 3.41: Benennung der Mitglieder des Vereins zur Förderung der Abfallwirtschaft Region Rhein-Wupper - ungeändert beschlossen
+- TOP 3.42: Bestellung der Mitglieder für den Aufsichtsrat der Historische Stadthalle Wuppertal GmbH - ungeändert beschlossen
+- TOP 3.43: Bestellung der Mitglieder für den Aufsichtsrat der Wuppertaler Bühnen GmbH - ungeändert beschlossen
+- TOP 3.44: Bestellung der Mitglieder für den Beirat der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 3.45: Abberufung und Bestellung der Mitglieder für den Aufsichtsrat der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 3.46: Benennung der Mitglieder des Seniorenbeirates - ungeändert beschlossen
+- TOP 3.47: Benennung der Mitglieder des Beirates der Menschen mit Behinderung - ungeändert beschlossen
+- TOP 3.48: Benennung der Mitglieder des Gestaltungsbeirates der Stadt Wuppertal - ungeändert beschlossen
+- TOP 3.49: Wird im Rat am 14.12.2009 behandelt.
+- TOP 3.50: Umbesetzung im Finanzausschuss des Wupperverbandes - ungeändert beschlossen
+- TOP 3.51: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 3.52: Abberufung und Bestellung der Vertreter in der Zweckverbandsversammlung des Verkehrsverbundes Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 3.53: Wahl der Vertreter zur Mitgliederversammlung der Kommunalen Arbeitsgemeinschaft Bergisch Land e.V. - ungeändert beschlossen
+- TOP 3.54: Besetzung des Aufsichtsrates der EKOCity GmbH - ungeändert beschlossen
+- TOP 3.55: Neubesetzung des Verbandsrates des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 3.56: Besetzung der Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 3.57: Wahl der Mitglieder für den Regionalrat - ungeändert beschlossen
+- TOP 3.58: Benennung der Mitglieder des Beirates der ARGE Wuppertal - ungeändert beschlossen
+- TOP 3.59: Benennung der Mitglieder des Beirates Stiftung Sozialfonds Wuppertal - ungeändert beschlossen
+- TOP 3.60: Benennung der Mitglieder des Kuratoriums von der Heydt-Kulturpreis - ungeändert beschlossen
+- TOP 3.61: Wahl von Mitgliedern der Veranstaltergemeinschaft Lokalfunk Wuppertal e.V. - ungeändert beschlossen
+- TOP 3.62: Wahl der Beisitzerinnen und Beisitzer des Wahlausschusses für die Wahl der Migrantinnen und Migranten im Integrationsausschuss 2010 - ungeändert beschlossen
+- TOP 3.63: Benennung der Vorstandsmitglieder des Barmer Verschönerungsvereins - ungeändert beschlossen
+- TOP 4: Fraktionsanträge / Allgemeine Vorlagen
+- TOP 4.1: Solaranlagen auf denkmalgeschützten Gebäuden - zur Vorberatung verwiesen
+- TOP 4.2: Verkaufsoffene Sonntage 2010 - ungeändert beschlossen
+- TOP 4.3: Bebauungsplan Nr. 1130 - Friedrich-Ebert-Straße / südlich Treppenstraße - Anordnung einer Veränderungssperre - - Dringlichkeitsentscheidung genehmigt
+- TOP 4.4: Resolution: Bundesbeteiligung an den Kosten der Unterkunft - ungeändert beschlossen
+- TOP 4.5: Besetzung der Geschäftsbereichsleitung 2.2 - ungeändert beschlossen
+- TOP 4.5.1: Besetzung der Geschäftsbereichsleitung 2.2
+- TOP 4.6: Vorbereitung der Wahlen zum Integrationsausschuss - ungeändert beschlossen
