@@ -1,0 +1,57 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620638
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620638
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Parksituation im Bereich Gärtnerstraße 36
+- TOP 2.2.: Parken vor Baumasen in der Irma-Wenke-Straße
+- TOP 2.3.: Antrag auf Versetzung der Container in der Hugo-Troendle-Straße
+- TOP 2.4.: Stundenschlag der Magdalenenkirche
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Schulweg ?In den Kirschen?
+- TOP 4.2.: Neugestaltung Amphionpark
+- TOP 4.3.: Schutzgitter Unterführung Dachauer Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 6: Anhörungen
+- TOP 6.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/42 ? Dachauer Straße (südlich), Baubergerstraße (westlich), Allacher Straße (nördlich), Bahnlinie München-Regensburg (östlich) und Bebauungsplan mit Grünordnung Nr. 1940 a Bunzlauer Platz (südwestlich), Baubergerstraße (nordwestlich) und Bahnlinie München-Regensburg (südöstlich)
+- TOP 6.2.: Memminger Platz / Untermenzinger Straße Oberflächenwiederherstellung nach U-Bahnbau
+- TOP 6.3.: Teilnahme der Bezirksausschüsse an Wettbewerben: hier: Benennung und Entsendung von Stellvertretern - BA-Antrag Nr. 01302 des Bezirksausschusses 10 ? Moosach ? vom 29.06.2009
+- TOP 6.4.: Schaffung von Jugendbeauftragten in der BA-Satzung; BA-Antrag Nr. 1499 des Bezirksausschusses 12 ? Schwabing-Freimann vom 29.09.09
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anbringung von Piktogrammen auf dem Rad- und Fußweg in der Hanauer Straße zwischen McDonald's und Saturn (wird vorgesehen)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV ? Ausnahmezulassung gem. § 7 Abs. 2 BimSchV für Reparaturschweiß- und Schleifarbeiten am Gleiskörper der Straßenbahn
+- TOP 8.4.: Einbau von Querungshilfen im östlichen Kreuzungsbereich der Netzerstraße Ecke Warschauer Straße bzw. im westlichen Kreuzungsbereich der Netzerstraße Ecke Zügelstraße
+- TOP 8.5.: Versetzung der Wertstoffcontainer in der Bingener Straße
+- TOP 8.6.: Filmaufnahmen auf öffentlichem Verkehrsgrund am 04.11.2009; Haselwurzweg / Perlgrasweg / Bärlauchweg / Waldhornstraße
+- TOP 8.7.: Winterdienst 2009 / 2010 ? Allgemeine Übersicht der Einsatzgebiete
+- TOP 8.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Irma-Wenke-Straße
+- TOP 8.9.: Fuß- und Radwegbrücken in München
+- TOP 8.10.: Broschüre ?Das kommunale Wohnungsbauprogramm in München?
+- TOP 8.11.: PERSPEKTIVE MÜNCHEN Leitlinie ?Kinder- und Familienpolitik? Leitprojekt 1 ?Kinder- und familienfreundliches Wohnen? - Empfehlungen für kinder- und familiengerechtes Wohnen - Maßnahmen zur Verbesserung der Wohnberatung
+- TOP 8.12.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten Antrag Nr. 02-08 / A 03583 von Stadtrat Josef Schmid und Stadträtin Eva Maria Caim
+- TOP 8.13.: ?boomerang? - Dankesschreiben bzgl. BA-Zuschuss zum Sommerferienprogramm
+- TOP 8.14.: Zirkusprojekt an der Grundschule mit Tagesheim an der Dieselstraße
+- TOP 8.15.: Hanauer Str. - Unveränderte Fortführung des Gaststättenbetriebs ?Just Munich?
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
