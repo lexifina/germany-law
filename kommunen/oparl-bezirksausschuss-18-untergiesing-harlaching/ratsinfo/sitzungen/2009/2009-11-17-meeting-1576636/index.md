@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-11-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1576636
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1576636
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Verkehrsberuhigung Münchner-Kindl-Weg; Bürgerschreiben vom 19.10.2009
+- TOP 2.2.: Kreuzung am Grünwalder Stadion; Bürgerschreiben vom 14.10.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Bürgerinit. "Mehr Platz zum Leben" Christbaumschmücken am 04.12.09
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Untergiesing" gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschluss des BA 18 vom 17.11.2009
+- TOP 3.2.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Schyrenbad" gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschluss des BA 18 vom 17.11.2009
+- TOP 3.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Alemannenstraße 18; Mitteilung des KVR vom 15.10.09
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / - bestandteil; Anhörung über Baumfällungen; Zuleitung des Baureferats-Gartenbau mit der Bitte um Rückmeldung bis 12.11.09 (Fristverlängerung beantragt)
+- TOP 3.1.: Verschönerung des Jakob-Gelb-Platzes in Untergiesing mit Büschen, Sträuchern und Bänken etc.; BA-Antrag-Nr. 08-14 / B 01319 des BA 18 vom 21.07.09; Antwortschreiben des Baureferates vom 05.10.2009 (neutrale Erledigung)
+- TOP 3.2.: Sitzbank Fromund- / Otkerstraße; Antrag der SPD-Fraktion; Schreiben des BA 18 vom 24.08.09; Antwortschreiben des Baureferats vom 06.10.2009 (neutrale Erledigung)
+- TOP 3.3.: Einbeziehung ehemaliger Exponate des Kleinkunstforums am Hans-Mielich-Platz in die geplante Renaturierung des ehemaligen Geländes des Abfallwirtschaftsbetriebes in der Sachsenstraße
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde zum Vollzug des Bayerischen Naturschutzgesetzes und der Baumschutzverordnung 3.3.6.1.1 Anwesen Kurzstraße 2; Genehmigung vom 09.10.2009 3.3.6.1.2 Anwesen Sommerstraße 36; Bescheid vom 29.10.2009
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Schaffung von Jugendbeauftragten in der BA-Satzung; BA-Antrag-Nr. 08-14 / B 01499 des BA 12 Schwabing - Freimann vom 29.09.09; Schreiben des Direktoriums vom 13.10.09 mit der Bitte um Stellungnahme
+- TOP 3.1.: Hortplatzversorgung Grundschule Agilolfingerplatz; Realisierungsstand Festbau Kindertagesstätte St. Franziskus - Kindergarten und Hort; Anfrage des BA 18 vom 31.07.09; Antwortschreiben des Schul- und Kultusreferats vom 25.09.09 (neutrale Erledigung)
+- TOP 3.2.: Gewährleistung der Verkehrssicherheit von Spielplätzen auch an Wochenenden und Feiertagen; BA-Antrags-Nr. 08-14 / B 01426 des BA 18 vom 21.07.09; Antwortschreiben des Baureferats vom 07.10.09 (positive Erledigung)
+- TOP 3.3.: Planungssstand für ein Sozialbürgerhaus auf dem ehemaligen Agfa-Gelände; Anfrage des BA 18 vom 21.07.2009; Antwortschreiben des Sozialreferats vom 20.10.2009 (neutrale Erledigung)
+- TOP 3.1.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten; Sitzungsvorlage Nr. 08-14 / V 02684; Beschluss des Bauausschusses vom 15.10.2009
+- TOP 3.2.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008/2009 - Feinkonzept 2010 - Grobkonzept 2011 Optimierung von Prozessen und Strukturen Gender Mainstreaming bei der Haushaltskonsolidierung Sitzungsvorlage Nr. 08-14 / V 02802 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB)
+- TOP 3.3.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger"; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (VB) (Neufassung vom 06.10.2009) 3.4.6.3.1 des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 02841 3.4.6.3.2 des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 02831 3.4.6.3.3 des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 02839
+- TOP 3.4.: Bericht zu REGSAM; REGSAM neu denken; Vertragszeitraum 2010 - 2012; Sitzungsvorlage Nr. 08-14 / V 02742; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 (SB)
+- TOP 3.5.: PERSPEKTIVE MÜNCHEN, Leitlinie "Kinder- und Familienpolitik"; Leitlinie 1 "Kinder- und familienfreundliches Wohnen" - Empfehlungen für kinder- und familiengerechtes Wohnen - Maßnahmen zur Verbesserung der Wohnberatung Sitzungsvorlage Nr. 08-14 / V 02891 Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitsausschusses und des Umweltschutzausschusses in der gemeinsamen Sitzung vom 10.11.2009 (VB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Anwesen Hans-Mielich-Platz 2; Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschluss des Bezirksausschusses des Stadtbezirkes 18 vom 20.10.2009 Stellungsnahme des Kreisverwaltungsreferats (vertagt aus der Sitzung vom 20.10.2009)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Geiselgasteigstraße 69; Neubau eines Doppel- und eines Einfamilienhauses mit zwei Garagen; Anhörung vom 12.10.09 mit der Bitte um Stellungnahme innerhalb eines Monats
+- TOP 3.2.: Anwesen Lautererstraße 19; Neubau eines Einfamilienhauses mit Einzelgarage; Anhörung vom 25.09.09 (vertagt aus der Sitzung vom 20.10.2009)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: "Soziale Stadt" 2009 a) Stand der Umsetzung des Programms "Soziale Stadt" in den Sanierungsgebieten am Mittleren Ring Südost, "Tegernseer Landstraße / Chiemgaustraße" und "Innsbrucker Ring / Baumkirchner Straße" b) weitere Beauftragung der Quartiersmanagements c) Städtebauförderung Sitzungsvorlagen Nr. 08-14/V 03010; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 (VB)
+- TOP 3.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung 3.5.6.3.1 Meraner Straße; Mitteilung des Sozialreferats vom 14.10.2009 3.5.6.3.2 Aretinstraße; Mitteilung des Sozialreferats vom 12.10.2009 3.5.6.3.3 Harthauser Straße; Mitteilung des Sozialreferats vom 15.10.2009
+- TOP 3.4.: Gaststätten; unveränderte Fortführungen; Mitteilungen des KVR 3.5.6.4.1 SSW "Wirtshaus zum Schönhof", Schönstraße 76; Mitteilung vom 19.10.09
+- TOP 3.5.: Fuß- und Radwegbrücken in München; Sitzungsvorlage Nr. 08-14 / V 02063; Beschluss des Bauausschusses vom 15.10.2009 (SB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Vorbereitung und Durchführung einer Versammlung für Kinder und Jugendliche; Vorstellung eines Rahmenkonzepts durch die Kinder- und die Jugendbeauftragte (vertagt aus den Sitzungen vom 15.09. und 20.10.2009)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: 4.3.2 Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern; BA-Antrags-Nr. 08-14 / B 01302 des BA 10 - Moosach vom 29.06.09; Schreiben des Direktoriums vom 26.10.09 mit der Bitte um Stellungnahme bis 01.12.2009
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.1.: UA Budget: Freitag, 13.11.09, 19.00 Uhr, Gaststätte "Asia Grill", Grünwalder Straße 14 UA Verkehr: Montag, 09.11.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Umwelt: Donnerstag, 12.11.09, 18.30 Uhr, Gaststätte "Gartenstadt" UA Soziales: Dienstag, 10.11.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Bau und Planung: Donnerstag, 12.11.09, 19.00 Uhr, Gaststätte "Gartenstadt" UA Kultur, Veranstaltungen: Montag, 16.11.09, 18.00 Uhr, Gaststätte "Hans-Mielich"
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
