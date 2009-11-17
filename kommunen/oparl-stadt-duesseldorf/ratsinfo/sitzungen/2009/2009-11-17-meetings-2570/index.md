@@ -1,0 +1,54 @@
+# Schulausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-11-17T15:00:00+01:00
+- Ende: 2009-11-17T18:00:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/28
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2570
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2570
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126165.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126165.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126165.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 2: Verpflichtung der dem Schulausschuss angehörenden Bürgermitglieder
+- TOP 3: Anerkennung Tagesordnung
+- TOP 5: Schulentwicklungsplan - hier: Maßnahmeplanung Hauptschulen - einstimmig beschlossen
+- TOP 6: Anfragen
+- TOP 7: Anfrage der Ratsfrau Deilmann - Bestand von Hauptschulen - beantwortet
+- TOP 8: Anfrage der Ratsfraktionen von CDU und FDP vom 19.10.2009 zur Schulobstversorgung - beantwortet
+- TOP 9: Anfrage der Ratsfraktion Bündnis 90/Die Grünen vom 29.10.2009 - Qualität in der Offenen Ganztagsschule - beantwortet
+- TOP 10: Anträge
+- TOP 11: Antrag der Ratsfraktion Bündnis 90/Die Grünen vom 29.10.2009 zum Ausbau des gemeinsamen Unterrichts von behinderten und nichtbehinderten Kindern - einstimmig beschlossen
+- TOP 12: Neubesetzung von Gremien
+- TOP 13: Wahl von Schulausschussmitgliedern in das Kuratorium der Volkshochschule - einstimmig beschlossen
+- TOP 14: Bestellung von Mitgliedern des Vorstandes und des Kuratoriums der Stiftung "Institut zur Erlangung der Hochschulreife für Handwerker, Facharbeiter und andere Berufstätige mit abgeschlossener Ausbildung e.V." - einstimmig beschlossen
+- TOP 15: Wahl von Mitgliedern und deren Stellvertreter für den Beirat des "Medienzentrums für die Landeshauptstadt Düsseldorf" - einstimmig beschlossen
+- TOP 16: Wahl von Mitgliedern der Fachgruppe Gegen Gewalt an Schulen - einstimmig beschlossen
+- TOP 17: Wahl von Mitgliedern des Schulausschusses in das Vergabegremium der Stiftung zur Förderung begabter Schülerinnen und Schüler - einstimmig beschlossen
+- TOP 18: Entwurf des Haushaltsplans 2010
+- TOP 19: Entwurf des Haushaltsplanes 2010 - einstimmig beschlossen
+- TOP 20: Antrag der SPD-Ratsfraktion zum Entwurf des Haushaltsplans 2010 - Aus- und Weiterbildungsangebote für jede(n) Schüler/in - mehrheitlich abgelehnt
+- TOP 21: Antrag der SPD-Ratsfraktion zum Entwurf des Haushaltsplans 2010 - Erhöhung der Investitionsmittel für integrative Beschulung - mehrheitlich abgelehnt
+- TOP 22: Antrag der Linksfraktion zum Entwurf des Haushaltsplans 2010 - Gebührenfreie - mehrheitlich abgelehnt
+- TOP 23: Antrag der Linksfraktion zum Entwurf des Haushaltsplans 2010 - Integrative Beschulung - mehrheitlich abgelehnt
+- TOP 24: Antrag der Linksfraktion zum Entwurf des Haushaltsplans 2010 - Kostenloses Mittagessen - mehrheitlich abgelehnt
+- TOP 25: Antrag der Linksfraktion zum Entwurf des Haushaltsplans 2010 - Halbtagsstellen für Schulbibliotheken - mehrheitlich abgelehnt
+- TOP 26: Antrag der Linksfraktion zum Entwurf des Haushaltsplans 2010 - Veranstaltungsreihe zum Bildungsstreik 2010 - mehrheitlich abgelehnt
+- TOP 27: Aktuelle Berichte
+- TOP 28: Sachstands- und Erfahrungsbericht zur Singpause - zur Kenntnis genommen
+- TOP 29: Erhöhung der Zügigkeit für den Bildungsgang "Fachklasse für Verwaltungsfachangestellte" am Städtischen Max-Weber-Berufskolleg - einstimmig beschlossen
+- TOP 30: Erhöhung der Zügigkeit für den Bildungsgang "Bezirksfachklasse für Glaserin/Glaser" an der Städt. Albrecht-Dürer-Schule - einstimmig beschlossen
+- TOP 31: Einrichtung des Bildungsganges "Gestaltungstechnische/r Assistent/in und Allgemeine Hochschulreife" an der Städt. Lore-Lorentz-Schule - einstimmig beschlossen
+- TOP 32: Schulorganisatorische Maßnahme an der Städtischen Katholischen Grundschule Leuthenstraße - Auflösung - - einstimmig beschlossen
+- TOP 33: Schulisches Management - Weiterentwicklung der Qualifizierungsmaßnahmen für Lehrkräfte - einstimmig beschlossen
+- TOP 34: Ferienbetreuung in Förderschulen - zur Kenntnis genommen
+- TOP 35: Anmeldezahlen Grundschulen 2010/2011 - Stand: 13.11.2009 - zur Kenntnis genommen
+- TOP 36: Statusbericht zu den Projekten der 1. Integr. JHP/SEP - zur Kenntnis genommen
+- TOP 37: Bauangelegenheiten
+- TOP 38: Masterplan Schulen, Projektstatus - Information - - zur Kenntnis genommen
