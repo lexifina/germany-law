@@ -1,0 +1,69 @@
+# Stadtrat (2. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-11-17T17:02:00+01:00
+- Ende: 2009-11-17T19:20:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWAXgIE7k-QlWVzFFOWNDF8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7439
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZYLCfs3C1iEvfUW-a67HSm_P6eLi4D8KLf6hjSQfJAFS/Bekanntmachung_Stadtrat_17.11.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfEJj6aksUmCpMaL3eJEoRuWuvsGouVN1cQPIvVNq-BL/Oeffentliche_Niederschrift_Stadtrat_17.11.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung des Stadtverordneten Heiner Funke
+- TOP 2.: 12. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen; hier: Festlegung der Aufwandsentschädigung für die Ortsvorsteher/innen
+- TOP 3.: Durchführung und Gestaltung von Stadtteilforen als Aufgabe der Orstvorteherinnen und Ortsvorsteher
+- TOP 4.: Ausschüsse des Rates der Stadt Kerpen
+- TOP 4.1: Einrichtung eines Integrationsausschusses; hier: Bestätigung des Ratsbeschlusses vom 15.09.2009
+- TOP 4.2: Bäderwesen der Stadt Kerpen; hier: Antrag der CDU-Fraktion zur Änderung der Zuständigkeitsordnung für die Ausschüsse
+- TOP 4.3: Bildung und Besetzung der Ausschüsse
+- TOP 4.4: Bildung und Besetzung des Jugendhilfeauschusses
+- TOP 5.: Bestellung von Vertretern/innen der Stadt Kerpen in Organe von juristischen Personen oder Personenvereinigungen
+- TOP 5.1: Bestellung der Mitglieder für die Gesellschafterversammlung der Grundstücksentwicklungs- und verwertungsgesellschaft mbH sowie der WFK Wirtschaftsförderung Kerpen GmbH
+- TOP 5.2: Bestellung von Mitgliedern und Stellvertretern in den Umlegungsausschuss I, Umlegung Nr. 7 "Burgackerstraße" in Kerpen-Brüggen
+- TOP 5.3: Bestellung der Vertreter/innen der Stadt Kerpen für die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes (NWStGB)
+- TOP 5.4: Bestellung von Vertretern/innen für die Zweckverbandsversammlung des Zweckverbandes der Volkshochschule Bergheim
+- TOP 5.5: Bestellung eines/r Vertreters/in der Stadt Kerpen für die Wirtschaftsförderung Rhein-Erft GmbH
+- TOP 5.6: Bestellung von Vertretern/innen für die Gesellschafterversammlung und den Aufsichtsrat der ERFTLAND Wohnungsbaugesellschaft mbH
+- TOP 5.7: Bestellung von Vertretern/innen für die Gesellschafterversammlung und den Aufsichtsrat der ERFTLAND Holding GmbH
+- TOP 5.8: Bestellung eines/r Vertreters/in der Stadt Kerpen in die Verbandsversammlung der Kommunalen Datenverarbeitungszentrale Rhein-Erft-Rur
+- TOP 5.9: Bestellung von Vertretern/innen der Stadt Kerpen für den Beirat der Stadtbücherei Kerpen
+- TOP 5.10: Bestellung von Vertretern/innen für die Zweckverbandsversammlung des Zweckverbandes Musikschule "La Musica" Bergheim
+- TOP 5.11: Bestellung eines/r Vertreters/in der Stadt Kerpen für die Gesellschafterversammlung der Betriebsgesellschaft Radio Erft GmbH & Co. KG
+- TOP 5.12: Entsendung eines/r Vertreters/in der Stadt Kerpen in den Aufsichtsrat der Rhein-Erft-Verkehrsgesellschaft mbH
+- TOP 5.13: Bestellung eines Vertreters der Stadt Kerpen in den Beirat des Maria-Hilf-Krankenhauses Bergheim
+- TOP 5.14: Bestellung eines Vertreters der Stadt Kerpen in den Beirat des St.-Katharinen-Hospitals-Frechen
+- TOP 5.15: Bestellung von Vertreter/innen für den Regionalbeirat Erft der Kreissparkasse Köln
+- TOP 5a: Standort der geplanten neuen Turnhalle für die Mädchenrealschule Mater Salvatoris, Horrem
+- TOP 6.: Ausbau der Hahnenstraße
+- TOP 6a: Bebauungsplan KE 332 "Hahnenstraße" im Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.: Sachstandsbericht zum Konjunkturpaket II
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.1: Personalsituation in den Abteilungen 11.1 - Organisation und 11.3 - Personal
+- TOP 9.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 10.: Mitteilungen
+- TOP 10.1: Bombenfund bei Buir
+- TOP 10.2: Zahlen der November-Steuerschätzung
+- TOP 10.3: Baubeginn Kindertagesstätte Blatzheim
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 11.1: Verpachtung von Dachflächen für Solaranlagen Anfrage der CDU Fraktion vom 01.10.2009
+- TOP 11.2: Beginn der Rats- und Ausschusssitzungen
+- TOP 11.3: Forderungen wegen des Grundstücks Waldweg, Horrem
+- TOP 11.4: Sachstand Bebauungsplan Brüsseler Straße, Kerpen
+- TOP 11.5: Mountainbike-Bahn in Sindorf
+- TOP 11.6: Bauvorhaben in Sindorf, Ecke Kerpener Straße/Berliner Ring
+- TOP 11.7: Bolzplatz im Vogelrutherfeld, Sindorf
+- TOP 12.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 13.: Auftragsvergaben
+- TOP 13.1: Auftragsvergabe "Entwässerungskanalarbeiten Hauptstraße Horrem"
+- TOP 13.2: Auftragsvergabe "Ingenieurleistungen Bebauungs- und Flächennutzungsplan Umsiedlung Manheim"
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
