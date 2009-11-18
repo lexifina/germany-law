@@ -1,0 +1,63 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-11-18T16:00:00+01:00
+- Ende: 2009-11-18T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2651
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2651
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126170.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126170.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126170.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung am 02.09.2009 - mehrheitlich beschlossen
+- TOP 4: Anfragen
+- TOP 5: Reaktivierung des Personenverkehrs auf der Ratinger Weststrecke - zur Kenntnis genommen
+- TOP 6: Düsseldorfer Straßenordnung - zur Kenntnis genommen
+- TOP 7: Maßnahmen gegen Randgruppen - zur Kenntnis genommen
+- TOP 8: Mehr Sicherheit für den Fußgängerverkehr durch die neue Straßenverkehrsordnun - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 10: Bestellung des Geschäfts- und Schriftführers für den Ordnungs- und Verkehrsausschuss - einstimmig beschlossen
+- TOP 11: Entwurf des 3. Nahverkehrsplanes LHD
+- TOP 12: Verkehrsentwicklungsplan VEP 2020, 1.Statusbericht 2006-2008 - zur Kenntnis genommen
+- TOP 13: Ergebnisse der Mobilitätsbefragung in Düsseldorf 2008 - zur Kenntnis genommen
+- TOP 14: Ergebnisse Pilotprojekte zur Yellow-Box und dynamischen Schaltung von Zeitinseln - zur Kenntnis genommen
+- TOP 15: Abschluss des Forschungsprojektes Düsseldorf in Motion (Dmotion) - zur Kenntnis genommen
+- TOP 16: Nördlicher Zubringer -AuF- - einstimmig beschlossen
+- TOP 17: Umgestaltung der Einmündung Vennhauser Allee / Eller Kamp - zur Kenntnis genommen
+- TOP 18: Schulwegsicherung Vennhauser Allee - einstimmig beschlossen
+- TOP 19: Unterrather Straße "Klinke", 2. Bauabschnitt - Plankonzept - - zur Kenntnis genommen
+- TOP 20: Umbenennung der Haltestelle Klemensplatz - zur Kenntnis genommen
+- TOP 21: Fahrbahninstandsetzungen und Radwegebau für das Jahr 2010 - zur Kenntnis genommen
+- TOP 22: Bauprogramm Parkleitsystem 2010 - zur Kenntnis genommen
+- TOP 23: Bauprogramm Lichtzeichenanlagen 2010 - zur Kenntnis genommen
+- TOP 24: Einsatz von Jugendlichen Testkäufern als Maßnahmen gegen die Abgabe von Alkohol an Jugendliche - zur Kenntnis genommen
+- TOP 25: Bericht über das Düsseldorfer Taxigewerbe in 2008 - zur Kenntnis genommen
+- TOP 26: Beschlusskontrolle im Ordnungs- und Verkehrsausschuss - 3. Quartal 2009 - - zur Kenntnis genommen
+- TOP 27: Sitzungstermine des Ordnungs- und Verkehrsausschusses im Jahr 2010 - zur Kenntnis genommen
+- TOP 28: Haushaltsplanentwurf Amt 66 und Amt 32 - mehrheitlich beschlossen
+- TOP 29: Teilergebnispläne des Amtes für Verkehrsmanagement - mehrheitlich beschlossen
+- TOP 30: Investive Finanzpläne des Amtes für Verkehrsmanagement - mehrheitlich beschlossen
+- TOP 31: Teilergebnispläne des Ordnungsamtes - mehrheitlich beschlossen
+- TOP 32: Investive Finanzpläne des Ordnungsamtes - mehrheitlich beschlossen
+- TOP 33: Veränderungsverzeichnisse zum Haushaltsplanentwurf 2010 - mehrheitlich beschlossen
+- TOP 34: Vorschläge und Anregungen der Bezirksvertretungen - mehrheitlich abgelehnt
+- TOP 35: Haushaltsanträge
+- TOP 36: Haushaltsplanentwurf 2010 - Verkehrsüberwachung - mehrheitlich abgelehnt
+- TOP 37: Haushaltsplanentwurf 2010 - Gewerbeangelegenheiten - mehrheitlich abgelehnt
+- TOP 38: Haushaltsplanentwurf 2010 - Prävention und Serviceorientierung - mehrheitlich abgelehnt
+- TOP 39: Haushaltsplanentwurf 2010 - Verkehrsleitpläne - mehrheitlich abgelehnt
+- TOP 40: Haushaltsplanentwurf 2010 - Straßen - mehrheitlich abgelehnt
+- TOP 41: Haushaltsplanentwurf 2010 - Bus- und Bahnanlagen - mehrheitlich abgelehnt
+- TOP 42: Haushaltsplanentwurf 2010 - Attraktiver ÖPNV - mehrheitlich abgelehnt
+- TOP 43: Neubau und Ausbau von vierspurigen Hauptverkehrsstraßen - mehrheitlich abgelehnt
+- TOP 44: Behindertengerechter Umbau von Bushaltestellen - mehrheitlich abgelehnt
+- TOP 45: Auflösung des Ordnungs- und Servicediensts - mehrheitlich abgelehnt
+- TOP 46: Antrag der SPD-Ratsfraktion zum Haushaltsplanentwurf 2010 - mehrheitlich abgelehnt
