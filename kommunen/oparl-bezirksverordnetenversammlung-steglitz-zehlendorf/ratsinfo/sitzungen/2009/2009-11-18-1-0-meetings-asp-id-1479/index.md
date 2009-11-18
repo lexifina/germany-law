@@ -1,0 +1,89 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2009-11-18T17:00:00+01:00
+- Ende: 2009-11-18T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1479
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1479
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Tempolimit von 60 km/h auf der AVUS auf Höhe des Hüttenwegs - beantwortet
+- TOP 3.2: Bierpinsel ohne Zukunft? - beantwortet
+- TOP 3.3: Keine Wegebeleuchtung zur Sporthalle Mühlenstraße 70 - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Aus der letzten BVV vertagte Drucksachen: Anträge - erledigt
+- TOP 4.1.1: Runter vom Gas auf dem Steglitzer Damm! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl einer stellv. Bürgerdeputierten im Ausschuss für Gesundheit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl eines stellv. Bürgerdeputierten im Schulausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Sondermittel der BVV für die Kirchengemeinde Christi Himmelfahrt zu Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Parkbänke und Grünanlagen auf dem Steglitzer Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Herrichtung der kleinen Grünanlage an der Dessauerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Wiederinbetriebnahme der Stammbahn zwischen Zehlendorf und Potsdam - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Kontaktlehrer für alle Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Hinweisschilder auf das Schlossparktheater - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Unfallstelle Kilstetter und Brettnacher Treppe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Vermietung Obergeschoss Schmarjestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Neubau der Turnhalle für die Grundschule am Karpfenteich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Baumschutz transparent machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Grüner Sichtschutz "Bunker" Schwanenwerder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Hunde-Leinenzwang im südlichen Bereich des Schlachtensees - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Zeitpunkt der Statikkontrollen in den Sporthallen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Kostenloses Obst für alle Berliner Schüler - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Weiternutzung des Münterbaus des Arndt-Gymnasiums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Zurückhaltung der BA-Vorlage zum Beschluss 1159 vom 21.06.2006 (Betreff: Verkehrskonzept rund um das Schloss) - überwiesen
+- TOP 5.2: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2008 - überwiesen
+- TOP 5.2.2: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2008 - überwiesen
+- TOP 5.3: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.3.1: Übersicht über die im ersten Halbjahr 2009 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 5.4: Bebauungspläne: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.4.1: Erlass der Veränderungssperre XII - 286 / 38 [für das Flurstück 90 / 2, Flur 5, des Grundstücks Wismarer Straße 1 / 17 / Ostpreußendamm 83 / 83A im Bezirk Steglitz-Zehlendorf, Ortsteil Lichterfelde] - überwiesen
+- TOP 5.5: Anträge - erledigt
+- TOP 5.5.1: Marienplatz regelmäßig pflegen - überwiesen
+- TOP 5.5.2: Optimale Außendarstellung des Ordnungsamtes - überwiesen
+- TOP 5.5.3: Teilnahme am Schulversuch "Gemeinschaftsschule" - überwiesen
+- TOP 5.5.4: BürgerInnenwillen konsequent weiterführen! - überwiesen
+- TOP 5.5.5: Unterstützung für Kinderreiten im Bezirk - überwiesen
+- TOP 5.5.6: B-Plan erstellen - überwiesen
+- TOP 5.5.7: Energiesparen bei der Weihnachtsbeleuchtung - überwiesen
+- TOP 5.5.8: Touristische Ziele des Bezirks auch für die Radler auf dem europäischen Fernradwanderweg R 1 - überwiesen
+- TOP 5.5.9: Hygienemaßnahmen an den Schulen verstärken - überwiesen
+- TOP 5.5.10: Weihnachtsdekoration erst nach Totensonntag - überwiesen
+- TOP 5.5.11: Investitionsplanung zum "Quartierspark" auf der Planungsfläche für die B 101 - überwiesen
+- TOP 5.5.12: Ausbildung Klimaschutzberater/in im Sport - überwiesen
+- TOP 5.5.13: Ehrenamtliche Tätigkeiten - überwiesen
+- TOP 5.5.14: Anschluss halten - überwiesen
+- TOP 5.5.15: Anpassung Ampelschaltung Clayallee / Königin-Luise-Straße - überwiesen
+- TOP 5.5.16: Nur rechts abbiegen! - überwiesen
+- TOP 5.5.17: Fußgängerüberweg im Bereich der Bushaltestelle Behring-Krankenhaus / Machnower Straße - überwiesen
+- TOP 5.5.18: Seniorenwohnhäusern eine Zukunft geben! - überwiesen
+- TOP 5.5.19: JFE Flemmingstraße verbleibt in öffentlicher Trägerschaft - überwiesen
+- TOP 5.5.20: Neue Wohnformen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.5.21: Vierzügigkeit des Arndt-Gymnasiums erhalten - überwiesen
+- TOP 5.5.22: Preiswerte Baugrundstücke für Baugruppen - überwiesen
+- TOP 5.5.23: Lernmittelfreiheit einführen - überwiesen
+- TOP 5.5.24: Straßenbenennungen - überwiesen
+- TOP 5.5.25: Volkshochschulkurse auch in Seniorenfreizeitstätten - überwiesen
+- TOP 5.5.26: Funktionierende Schließfächer in der Gottfried-Benn-Bibliothek - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Schlüsselverträge im Bezirk - beantwortet
+- TOP 6.2: Zwischenbericht zum BVV-Beschluss Nr. 1159 vom 21.06.2006 - beantwortet
+- TOP 6.3: Dem Elternwillen folgen! - beantwortet
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Bürgerwillen umsetzen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Keine weitere Bezirksverschandelung durch Baustadtrat Stäglin! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Schlusswort des Vorstehers - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
