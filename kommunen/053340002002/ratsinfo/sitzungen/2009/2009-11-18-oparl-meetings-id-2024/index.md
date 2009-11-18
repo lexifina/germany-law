@@ -1,0 +1,101 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2009-11-18T17:00:00+01:00
+- Ende: 2009-11-18T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2024
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2024
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - ungeändert beschlossen
+- TOP 2: Genehmigung der Niederschrift über die Sitzung des Rates der Stadt vom 28.10.2009; die Niederschrift über die Sitzung des Rates der Stadt wird nachgereicht - vertagt
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - ungeändert beschlossen
+- TOP 4: Entscheidung über die Zusammensetzung der Ausschüsse - ungeändert beschlossen
+- TOP 5: Wahl der Ausschussmitglieder - zur Kenntnis genommen
+- TOP 5.1: Besetzung von Ausschüssenhier Schulausschuss - zur Kenntnis genommen
+- TOP 5.2: Wahl der Ausschussmitglieder - zur Kenntnis genommen
+- TOP 5.3: Wahl der Ausschussmitglieder;hier: sachkundige Einwohner in den Ausschüssen des Rates - ungeändert beschlossen
+- TOP 6: Bildung von weiteren Ausschüssen des Rates der Stadt Aachenhier: Neubildung des Kinder- und Jugendausschusses - ungeändert beschlossen
+- TOP 7: Benennung der Ausschussvorsitzenden und stellvertretenden Ausschussvorsitzenden - zur Kenntnis genommen
+- TOP 8: Wahl der städtischen Vertreter in Gesellschaften, Verbänden und sonstigen Organisationen - ungeändert beschlossen
+- TOP 8.1: Ratsantrag des Ratsherrn Schnitzler vom 22.10.2009 hier: Unvereinbarkeit von Amt und Mandat - ungeändert beschlossen
+- TOP 8.2: Wahl der städtischen Vertreter in Gesellschaften, Verbänden und sonstigen Organisationenhier: Grundsatzinformationen - ungeändert beschlossen
+- TOP 9: Vertretung der Stadt in Haupt- und Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 10: Wahl der städt. Vertreter in Gesellschaften, Verbänden und sonstigen Organisationen;hier: Entsendung des Oberbürgermeisters bzw. eines Vertreters gem. § 113 (3) GO NW - ungeändert beschlossen
+- TOP 11: Bestellung der Mitglieder des Aufsichtsrates der AGIT „Aachener Gesellschaft für Innovation und Technologietransfer GmbH“ gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 12: Bestellung des Mitgliedes im Aufsichtsrat der Aachener Kreuz Merzbrück GmbH & Co. KG (AKM) gem. § 113 Abs. 2 GO NRW - ungeändert beschlossen
+- TOP 13: Bestellung des Mitgliedes für den Beirat AKREKA GmbH - ungeändert beschlossen
+- TOP 14: Bestellung der Mitglieder des Aufsichtrates der Aachener Parkhaus GmbH - APAG - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 15: Besetzung des Aufsichtsrates der „Aachener Straßenbahn- und Energieversorgungs AG“ - ASEAG - ungeändert beschlossen
+- TOP 16: Zweckverband Aachener Verkehrsverbund - ungeändert beschlossen
+- TOP 17: AVV GmbH - Aufsichtsrat - ungeändert beschlossen
+- TOP 17.1: Umbesetzung von Ausschüssen und anderen Gremienhier: AVV GmbH - ungeändert beschlossen
+- TOP 18: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR) -Verbandsversammlung- - ungeändert beschlossen
+- TOP 19: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR); Mitglieder des Aufsichtsrates der NVR Rheinland GmbH - ungeändert beschlossen
+- TOP 20: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR) -Hauptausschuss- - ungeändert beschlossen
+- TOP 21: Zweckverband Nahverkehr - SPNV & Infrastruktur –Rheinland (NVR) -Vergabeausschuss- - ungeändert beschlossen
+- TOP 22: Benennung von Vertretern der Stadt Aachen im Aufsichtsrat der AWA Entsorgung GmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 23: Benennung von 1 Vertreter der Stadt Aachen in der Gesellschafterversammlung der euregionale 2008 gmbH gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 24: Eurogress Aachen Betriebs-GmbH, nachrichtlich - ungeändert beschlossen
+- TOP 25: Benennung von 8 Vertretern der Stadt Aachen im Aufsichtsrat der Energieversorgungs- und Verkehrsgesellschaft Aachen“ (E.V.A.) gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 26: Bestellung der Mitglieder des Aufsichtsrates der Flugplatz Aachen-Merzbrück GmbH (FAM) gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 27: Bestellung der Mitglieder des Aufsichtsrates der Gewerbegrundstücksgesellschaft Aachen -GEGRA - gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 28: Bestellung der Mitglieder des Aufsichtsrates der gewoge AG gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 29: Bestellung des Mitgliedes des Aufsichtsrates der „ Grenzüberschreitendes Gewerbegebiet Aachen- Heerlen N.V. - GOB N.V.“ und der „Avantis Services N.V.“gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 29.1: Ergänzung: Bestellung des Mitgliedes des Aufsichtsrates der „ Grenzüberschreitendes Gewerbegebiet Aachen- Heerlen N.V. - GOB N.V.“ und der „Avantis Services N.V.“gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 30: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Kur- und Badegesellschaft mbH gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 31: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der MVA Weisweiler GmbH & Co KG gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 32: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der regio it aachen - Gesellschaft für Informationstechnologie mbH gem. § 113 Abs. 3 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 33: Vorschlag für die Bestellung der Mitglieder des Aufsichtsrates der Stadtwerke Aachen AG (STAWAG) gem. § 113 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 34: Bestellung der Mitglieder des Aufsichtrates der Wassergewinnungs- und Aufbereitungsgesellschaft Nordeifel mbH - WAG - gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - ungeändert beschlossen
+- TOP 35: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des WVER "Wasserverband Eifel-Rur" und den Verbandsrat gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - ungeändert beschlossen
+- TOP 36: Bestellung der Mitglieder des Aufsichtsrates und der Gesellschafterversammlung der „vogelsang ip gemeinnützige GmbH“ gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 37: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des Zweckverbands Entsorgungsregion West gem. § 113 (2) GO NRW in Verbindung mit § 50 (4) GO NRW - ungeändert beschlossen
+- TOP 38: Bestellung von Vertretern der Stadt Aachen für die Verbandsversammlung des Zweckverbandes Straßenverkehrsamt Aachen gem. § 113 Abs. 2 GO NRW in Verbindung mit § 50 Abs. 4 GO NRW - ungeändert beschlossen
+- TOP 39: Wahl der Vertreter/innen der Stadt Aachen in die Gremien des Sparkassenzweckverbandes Städteregion Aachen - Stadt Aachen sowie Empfehlungen für die anstehenden Entscheidungen in der Verbandsversammlung - ungeändert beschlossen
+- TOP 39.1: Tischvorlage zu TOP 44, Ziff. F b): Wahl der Vetreter der Stadt Aachen in die Gremien des Sparkassenzweckverbandes Städtetregion Aachen-Stadt Aachen sowie Empfehlungen für die anstehenden Entscheidungen in der Verbandsversammlung - ungeändert beschlossen
+- TOP 40: Studieninstitut für kommunale Verwaltung Aachen - ungeändert beschlossen
+- TOP 41: Trägerverein Berufsbildungs- und Gewerbeförderungseinrichtung Aachen e.V. der Handwerkskammer Aachen - ungeändert beschlossen
+- TOP 42: Benennung von Mitgliedern des Direktoriums der Gesellschaft für die Verleihung des Internationalen Karlspreises zu Aachen e.V. - zur Kenntnis genommen
+- TOP 43: Bestellung der Vertreter der Stadt Aachen im KREISPOLIZEIBEIRAT gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - vertagt
+- TOP 44: Wahl von Mitgliedern des Regionalrates des Regierungsbezirkes Köln - ungeändert beschlossen
+- TOP 45: Benennung der Mitglieder des Rates im Umlegungsausschuss - ungeändert beschlossen
+- TOP 46: Vertretung der Stadt Aachen im Kuratorium der Viktoriaschule - ungeändert beschlossen
+- TOP 47: Benennung eines Vorstandsmitgliedes und dessen Stellvertreter im Naturpark Nordeifel e.V. - ungeändert beschlossen
+- TOP 48: Wahl der Mitglieder des REGIO-Rates - ungeändert beschlossen
+- TOP 49: Änderung der Hauptsatzung – Einrichtung eines Integrationsrates - ungeändert beschlossen
+- TOP 50: Änderung der Geschäftsordnung für den Rat und die Bezirksvertretungen der Stadt Aachen und die Ratsausschüsse vom 15.12.1995 - vertagt
+- TOP 51: Wahlordnung zur Bildung des Integrationsrats der Stadt Aachen - ungeändert beschlossen
+- TOP 52: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - zurückgezogen
+- TOP 52.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2009Energetische Sanierung der städtischen Kinder-Tageseinrichtungen Elsaßstraße und Stolberger Straße - ungeändert beschlossen
+- TOP 52.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2009 hier: Umbau Holzgraben/ Dahmengraben - ungeändert beschlossen
+- TOP 52.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen - Haushaltsjahr 2009 hier: Umbau der Ursulinerstraße - ungeändert beschlossen
+- TOP 53: Maßnahmenanpassung im Rahmen des Konjunkturpakets II - zur Kenntnis genommen
+- TOP 54: 12. Nachtrag zur Gebührensatzung zur Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Kanalanschlusssatzung der Stadt Aachen) - ungeändert beschlossen
+- TOP 55: Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 56: Satzung für die Feuerwehr - vertagt
+- TOP 57: Beitritt des Gebäudemanagements der Stadt Aachen in den Verband kommunaler Immobilien- und Gebäudewirtschaftsunternehmen e.V. (VKIG) - ungeändert beschlossen
+- TOP 58: Ordnungsbehördliche Verordnung zur Änderung der Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonntagen vom 10.12.2008 - ungeändert beschlossen
+- TOP 59: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 60: Keine IGA auf Kosten von Aachens Zukunfthier: Antrag der Fraktion Die Linke vom 23.10.2009 zur Tagesordnung - ungeändert beschlossen
+- TOP 61: Videoüberwachung am Elisenbrunnen;hier: Antrag der Fraktion der SPD vom 27.10.2009 zur Tagesordnung - vertagt
+- TOP 62: Änderung der Satzung des JugendamtesAntrag der Fraktion Die Linke vom 30.10.2009 - ungeändert beschlossen
+- TOP 63: Anfragen - vertagt
+- TOP 64: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 65: Kulturelle Hauptstadt Europas 2018hier: Genehmigung einer Dringlichkeitsentscheidung - ungeändert beschlossen
+- TOP 66: Wahl des Wahlausschusses für die Integrationsratswahl am 07. Februar 2010 - ungeändert beschlossen
+- TOP 67: Internationale Gartenbau Ausstellung 2017 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
