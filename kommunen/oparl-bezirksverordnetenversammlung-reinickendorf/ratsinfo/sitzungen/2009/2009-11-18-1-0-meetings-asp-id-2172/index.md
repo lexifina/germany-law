@@ -1,0 +1,87 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2009-11-18T17:10:00+01:00
+- Ende: 2009-11-18T21:45:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2172
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2172
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=45394
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Kontakte zwischen Grundschulen und Kitas (Beschlussempfehlung 14.10.2009) - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Schneebeseitigung vor Senioreneinrichtungen (Beschlussempfehlung 14.10.2009) - in der BVV abgelehnt
+- TOP 5.3: Schuleinzugsbereiche (Beschlussempfehlung 14.10.2009) - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Baumfällungen (Dringlichkeitsantrag 14.10.2009) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Äußerungen von Mitarbeiterinnen und Mitarbeitern des Bezirksamtes in parteilichen Publikationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Grundständiger naturwissenschaftlicher Zug an der Georg-Herwegh-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Computerzeitalter in Reinickendorf - Drucksachen in elektronischer Form - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Fachärztemangel in Altenheimen - überwiesen
+- TOP 7.5: Leichtathletik-Weltmeisterschaft und Partnerschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Sorgfältige Weiterentwicklung der Reinickendorfer Schulstandorte statt überstürzter Reformdynamik - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: 05.10.2009 - Tag der Epilepsie 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Sicherheitsgefühl in Tegel durch bessere Beleuchtung verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Elternwillen berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Sozialverträgliche Gestaltung der Mieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Prüfung Nebenkostenabrechnung durch JobCenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Schulentwicklung ohne Plan - beantwortet
+- TOP 8.1.1: Keine Schulentwicklung ohne Plan! - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Erstellung der Angebote des Jugendamtes in der Familienfarm - überwiesen
+- TOP 9.4: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Feuertreppe im Kulturhaus Centre Bagatelle in Frohnau - erledigt
+- TOP 10.2: Alkoholmissbrauch bei Jugendlichen: bezirkliche Präventionsmaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Standards Schulbauten - erledigt
+- TOP 10.4: Stadtteilmütter auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: EC-Karten-Zahlung in der Graphothek ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Naturpark Schönholz - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Öffentliches Grillen in Reinickendorf - in der BVV abgelehnt
+- TOP 10.8: Gesund durch die Schwangerschaft - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Fotomaterial für das Heimatmuseum Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: a) Beschluss des Bebauungsplans XX-288 vom 30. November 2007 mit Deckblatt vom 05. Mai 2009 für die Grundstücke Karolinenstraße 18, 19 und 21 sowie für die Tegeler Hafeninsel, am Tegeler Hafen 6a im Bezirk Reinickendorf, Ortsteil Tegel, b) Beschlussder Rechtsverordnung zur Festsetzung des Bebauungsplans XX-288 einschließlich Begründung. - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: a) Beschluss des Bebauungsplanentwurfs XX-253 vom 06.03.2009 mit Änderungsvermerk vom 17.08.2009 und b) Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes XX-253 einschließlich Begründung - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: a) Beschluss des Bebauungsplanes 12-18B a vom 04. Mai 2009 b) Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes c) Verlängerung der Veränderungssperre 12-18B / 44 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Mehr Fahrradständer am U-Bahnhof Wittenau - erledigt
+- TOP 10.14: a) Entwurf des Bebauungsplanes 12-15 b) Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12.15 vom 30. April 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Schnelle Schulfusion in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 11: Ersuchen - (offen)
+- TOP 11.1: Ehrenamtliche Helfer als Schulwegbegleiter / -helfer - überwiesen
+- TOP 11.2: Mehr Standorte für Glascontainer - überwiesen
+- TOP 11.3: Medienstückkosten - überwiesen
+- TOP 11.4: Veröffentlichung einer Liste Fällungen und Neupflanzungen von Bäumen auf der bezirklichen Internet-Seite - überwiesen
+- TOP 11.5: Fahrradständer auf der Residenzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Jobcenter - Antragsbearbeitung und Leistungen aus einer Hand - überwiesen
+- TOP 11.7: In schmalen Nebenstraßen den Durchgangsverkehr für LKW's unterbinden - überwiesen
+- TOP 11.8: Prüfungsergebnisse Betriebskostenabrechnungen - überwiesen
+- TOP 11.9: Konrad-Adenauer-Wanderausstellung in Reinickendorf zeigen - überwiesen
+- TOP 11.10: Nachbarschaftszentrum Amendestraße - überwiesen
+- TOP 12: Empfehlungen - (offen)
+- TOP 12.1: Festival of Lights auch in Reinickendorf - überwiesen
+- TOP 12.2: Pünktlicher 120er Bus - überwiesen
+- TOP 12.3: Gesundheitsdaten des Bezirks Reinickendorf - überwiesen
+- TOP 12.4: Schluss mit Geheimverträgen - Wir Berliner wollen unser Wasser zurück! - überwiesen
+- TOP 12.5: Berlin-Marathon durch Reinickendorf führen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Job-Pointer als niedrigschwelliger Zugang zu Jobangeboten - überwiesen
+- TOP 12.7: Tempo 30 vor der Seniorenanlage im Falkentaler Steig - überwiesen
+- TOP 12.8: Hinweisschilder Tegeler Einkaufszentrum - überwiesen
+- TOP 12.9: Parkverbot Borsigdamm Richtung Eisenhammer Weg - überwiesen
+- TOP 12.10: Berechtigtenkreis für Berlinpass erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Verschmutzungen am S-Bahnübergang Gorkistraße beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Linienführung des Bus 325 verändern - Erreichbarkeit des Humbodlt-Klinikums sicherstellen - überwiesen
+- TOP 12.13: Verdichtung der Taktzeiten der Buslinie 124 an Samstagen - überwiesen
