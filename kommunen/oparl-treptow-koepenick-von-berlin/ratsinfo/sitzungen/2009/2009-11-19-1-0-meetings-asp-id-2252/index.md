@@ -1,0 +1,81 @@
+# 35. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-11-19T16:30:00+01:00
+- Ende: 2009-11-19T23:58:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2252
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2252
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - im Ausschuss abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl einer Schiedsfrau/Schiedsmann für den Schiedsamtsbezirk Treptow-Köpenick 5 - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Benutzungspflicht für Radwege in Bahnhofstraße aufheben - überwiesen
+- TOP 9.2: Radwege Köpenicker Landstraße - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Beschlussvorlagen - (offen)
+- TOP 11.1: Sitzungsterminplan 2010 der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Genehmigung der im Haushaltsjahr 2008 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 11.3: Sondermittel für TC Grün-Weiß Rahnsdorf e. V. (SM 950) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für FiPP e.V./Abenteuerspielplatz Waslala (SM 951) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Collage e.V./Kreativzentrum für Frauen (SM 954) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für BBSC e. V. (SM 952) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Köpenicker Kanusportclub e. V. (SM 955) - mit Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2010 und 2011 - mit Änderungen in der BVV beschlossen
+- TOP 12.1.1: Bezirkshaushalt 2010/2011 – Förderung freier Träger - überwiesen
+- TOP 12.1.2: Bezirkshaushalt 2010/2011 –Jugendamt - Einrichtungen der Jugendarbeit - überwiesen
+- TOP 12.2: Veröffentlichung der Beschlüsse der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Altstadtkonferenz 2010 - vertagt
+- TOP 12.4: Informations- und Diskussionsveranstaltung Helmholtzkiez - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Mitglieder der Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Informationsveranstaltung zum Wohnteilhabegesetz - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Nachträgliche Verlängerung von Schutzfristen für Kleingartenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Obdachlosenwohnheim in der Hartriegelstraße - vertagt
+- TOP 12.9: Offener Bücherschrank - vertagt
+- TOP 12.10: Helmholtzkiez in Oberschöneweide und dessen Umgebung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Inkraftsetzen des Pandemieplanes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Stasiüberprüfung der Bezirksverordneten und Bürgerdeputierten - vertagt
+- TOP 13.2: Bebauungsplan XV-49 ("Hackenbergstraße") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Bebauungsplan XVI-52 ("Möllhausenufer") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.4: Im I. Halbjahr 2009 zugelassene über- und außerplanmäßigen Ausgaben - überwiesen
+- TOP 13.5: Benennung des Platzes vor dem Bahnhof Schöneweide im Ortsteil Niederschöneweide in "Cajamarcaplatz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Bildung und Einrichtung des Umwelt- und Naturschutzamtes zum 01.01.2010 - überwiesen
+- TOP 13.7: Benennung von 5 Privatstraßen im Grundstücksareal Wilhelminenhofstraße 76/77 (HTW Hochschule für Technik und Wirtschaft) in 12459 Berlin, die sich teilweise noch im Bau befinden: Planstraße A: Paul-Tropp-Straße Planstraße B: Peter-Behrens-Straße Planstraße C: Gottfried-Klemm-Straße Planstraße D: Johannes-Kraatz-Straße Planstraße E: Ernst-Ziesel-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Willenserklärung der BVV – 20 Jahre nach der Friedlichen Revolution - vertagt
+- TOP 14.2: Ergänzendes Planfeststellungsverfahren zur Reduzierung des Nachtflugs auf dem Flughafen BBI (I) - überwiesen
+- TOP 14.3: Müngersdorfer Straße - überwiesen
+- TOP 14.4: Radweg in der Schnellerstraße - überwiesen
+- TOP 14.5: Gesetzentwurf zur Publizitätspflicht im Bereich der Berliner Wasserwirtschaft in der vorliegenden Form übernehmen - vertagt
+- TOP 14.6: Freie Sicht für die Archenhold-Sternwarte - vertagt
+- TOP 14.7: Öffnungszeiten Schloss Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Ergänzendes Planfeststellungsverfahren zur Reduzierung des Nachtflugs auf dem Flughafen BBI (II) - überwiesen
+- TOP 14.9: Informationsveranstaltung des Bezirksamtes zum ergänzenden Planfeststellungsbeschluss zum Flughafen BBI - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Radweg in der Oberspreestraße - überwiesen
+- TOP 14.11: Bewirtschaftungsausgaben senken - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Stationäre Geschwindigkeitskontrollen - vertagt
+- TOP 14.13: Verwendung der Mittel aus der Erhöhung des Ansatzes für die Förderung freier Träger der Jugendarbeit - überwiesen
+- TOP 14.14: Aufhebung von Sperren im Bezirkshaushalt 2010/2011 - mit Änderungen in der BVV beschlossen
+- TOP 14.15: Überführung von Einrichtungen der Jugendarbeit in freie Trägerschaft - überwiesen
+- TOP 14.16: Standortverlagerung bezirklicher Einrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Seniorenfreizeiteinrichtungen - in der BVV abgelehnt
+- TOP 14.18: Mittelpunktbibliothek Treptow - vertagt
+- TOP 14.19: Objekt Südostallee 212 - vertagt
+- TOP 14.20: Nachlass Ingeborg Hunzinger - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Bürgerschaftliches Engagement von Bürgerinnen und Bürgern mit Migrationshintergrund fördern - überwiesen
+- TOP 14.22: Änderung § 36 der Geschäftsordnung - überwiesen
+- TOP 15: Große Anfragen - (offen)
