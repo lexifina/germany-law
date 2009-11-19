@@ -1,0 +1,134 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2009-11-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1545354
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1545354
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Hauptschule Lehrer-Wirth-Str. Streitschlichterausbildung v. 21.-23.10.09
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Jugendsozialarbeit der Hauptschule Feldbergstraße Streitschlichterausbildung v. 16. - 19.11.09 in Benediktbeuern
+- TOP 1.3.: (E) Budget der Bezirksausschüsse AK "Rund um die Geburt" Messestadt Riem Erstellung des Flyers "Rund um die Geburt"
+- TOP 1.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung zweier Teilstrecken der Ika-Freudenberg-Straße und einer Teilstrecke der Elisabeth-zu-Guttenberg-Straße
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verkehrssituation Niederalmstraße (3 Bürgerschreiben)
+- TOP 2.2.: Verkehrssituation Reiherweg
+- TOP 2.3.: Reparatur des städt. Uta-Brunnens, Ecke Waldtruderinger Straße / Tangastraße
+- TOP 2.4.: Trinkwasserbrunnen am Platz der Menschenrechte
+- TOP 2.5.: Katastrophe in Waldtrudering - merkliche Nachverdichtung von Bauraum
+- TOP 2.6.: Graffiti / BUGA-Park Skateranlage
+- TOP 2.7.: Verschmutzung Alt-Riem
+- TOP 2.8.: Einbahnregelung in der Karpfenstraße
+- TOP 2.9.: Verlängerung der Öffnungszeiten des Friedhofs Riem
+- TOP 2.10.: DANKE - Sicherheit der Kindergartenkinder vom Spatzennest e.V.
+- TOP 2.11.: Verkehrsberuhigung für die Zehntfeldstraße und den Hugo-Lang-Bogen / Unterschriftenaktion
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Nutzung der Stadtteilkulturzentren druch die örtlichen Bezirksausschüsse
+- TOP 3.2.: Verbesserung der Situation an Parkausgängen
+- TOP 3.3.: Verkehrsbeeinträchtigung durch Überwuchs in der Fausstraße
+- TOP 3.4.: "München - rein & sauber" - auch für Riem
+- TOP 3.5.: Messestadt Riem Ottendichler / Paul-Henri-Spaak-Straße, Bau eines freilaufenden Rechtsabbiegers (Top 5.6/09/09)
+- TOP 3.6.: Altkleidercontainer am Hochacker
+- TOP 3.7.: Wertstoffhof Trudering - Kunststoffentsorgung Wertstoffsammelstellen für den neuen Bajuwarenpark, BA-Antrag Nr. 08-14 / B 01557
+- TOP 3.8.: Beinaheunfall am Busbahnhof Trudering - Verkehrssicherheit
+- TOP 3.9.: Parkflächen in der Messestadt (Frage 2)
+- TOP 3.10.: Überflutung der Grünanlage Haffstraße
+- TOP 3.11.: Graf-Lehndorff-Straße (Anhörung gem. § 9 der BA-Satzung; siehe Top 5.6/07/09)
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Situation für Schüler verbessern - Zahl der Eingangsklassen erhöhen
+- TOP 4.2.: Erweiterung des Spielplatzes am Graf-Spee-Platz um eine Kletterwand / Abenteuereinheit
+- TOP 4.3.: Rappenweg als illegaler Schrottplatz?
+- TOP 4.4.: Einrichtung einer 3-Stunden Parkzone im Bereich Kreillerstraße / Wasserburger Landstraße / Bajuwarenstraße
+- TOP 4.5.: Errichtung von Hinweisschildern zur Grünanlagensatzung am Eingang des zentralen Grünzuges in der Messestadt (Platz der Menschenrechte)
+- TOP 4.6.: Durch Megabaumarkt bedingtes Verkehrschaos beseitigen
+- TOP 5: Anhörungen
+- TOP 5.1.: Schaffung von Jugendbeauftragten in der BA-Satzung (Anhörung; BA-Antrag Nr. 08-14 / B 01499 des Bezirksausschusses 12 Schwabing - Freimann)
+- TOP 5.2.: Messestadt Riem: Gestaltung der Buswendeschleife am Edinburghplatz
+- TOP 5.3.: Errichtung eines Wertstoffcontainerstandortes Karpfenstraße
+- TOP 5.4.: Stadtbezirk 15, Feldbergstraße, Bürgerhaus: Anmeldung eines Feuerwerks am 05.12.2009 - Jubiläum des Truderinger Trachtenverein e.V.
+- TOP 5.5.: Neue Haltestellen Buslinie 193 - Protokoll der SWM / Bitte um Stellungnahme BA
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Partizipation von Kindern und Jugendlichen
+- TOP 7.2.: Broschüre "Das kommunale Wohnungsbauprogramm in München"
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Sachstand der BA-Broschüre / Formblatt zur Einräumung von Nutzungsrechten
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Bebauungsplan mit Grünordnung Nr. 1539, Töginger Straße / BAB A 94 (südlich), Bahnlinie München - Mühldorf (nördlich), S-Bahnlinie München - Ismaning (östlich), Hüllgraben (Planentwurf; Anhörung)
+- TOP 7.2.: Stieglitzweg 3, Gemarkung Trudering: An- und Umbau sowie Errichtung 3er Carports
+- TOP 7.3.: 10. Änderung des Flächennutzungsplanes der Gemeinde Haar für eine Entlastungsstraße parallel zur A 99 (Anhörung)
+- TOP 7.4.: Bebauungsplan der Gemeinde Aschheim (Top 7.3.10/09/09 und 7.3.11/09/09): Stellungnahme der Gemeinde Aschheim
+- TOP 7.5.: Bahnstraße 2, Fl.Nr. 209/22, Gemarkung Trudering: Abstandsflächen
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgersteig / Gehweg Truderingerstraße 351 - ständige Nutzung durch Fahrradfahrer, hier: - Wiederholte Aufforderung zur Schaffung von Abhilfe - Untätigkeitsbeschwerde - Mithaftung - Antragstellung
+- TOP 7.2.: Zebrastreifen Helsinkistraße / Garagenein- und -ausfahrt zu den Riem Arcaden
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Verwendungsnachweis Freunde der Freiwilligen Feuerwehr i.H.v. 990,00 Euro
+- TOP 7.2.: Verwendungsnachweis Miteinander Trudering e.V. i.H.v. 6.400,00 Euro
+- TOP 7.3.: Verwendungsnachweis SFZ München-Ost i.H.v. 400,00 Euro
+- TOP 7.4.: Verwendungsnachweis Truderinger Musikverein e.V. i.H.v. 2.566,00 Euro
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen:
+- TOP 8.2.: Wachtelweg 10
+- TOP 8.3.: Bajuwarenstraße 99
+- TOP 8.4.: Westermeierstraße 33
+- TOP 8.5.: Ankoglstraße 15
+- TOP 8.6.: Lehrer-Götz-Weg 21
+- TOP 8.7.: Sulzer-Belchen-Weg 28
+- TOP 8.8.: Marthastraße 3
+- TOP 8.9.: Geitnerweg 15 a
+- TOP 8.10.: Solalindenstraße 31 b
+- TOP 8.11.: Großfriedrichsburgerstraße 22
+- TOP 8.12.: Friedenspromenade 95
+- TOP 8.13.: Sperberstraße 3 a
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: - Einladung des Selbsthilfezentrum (SHZ) München zum Fachtag "Familienselbsthilfe" am 01.12.09 - Einladung 30 Jahre Glockenbachwerkstatt e.V. am 12.11.09 - Einladung des Sozialreferates zur Informationsveranstaltung am 30.11.2009 von 18.00 - 20.30 Uhr, Orleansplatz 11, Raum 1082 - nach Mitteilung der BA-Vorsitzenden
+- TOP 9.2.: Teilnahme der Bezirksausschüsse an Wettbewerben, hier: Benennung und Entsendung von Stellvertretern (BA-Antrag Nr. 08-14 / B 01302 des Bezirksausschusses 10 - Moosach)
+- TOP 9.3.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18 b AEG i.V.m § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für die Errichtung einer GSM-R Infrastruktur am Standort Trudering Strecke München Hauptbahnhof - Rosenheim, Gemarkung Trudering (Stellungnahme BA 15)
+- TOP 9.4.: Winterdienst 2009 / 2010: Allgemeine Übersicht der Einsatzgebiete
+- TOP 9.5.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen (Top 5.6/10/09)
+- TOP 9.6.: Tipps und Informationen zur Beschäftigung von Haushaltshilfen und Pflegenden
+- TOP 9.7.: Information über das Betriebskonzept während der Bauarbeiten am U-Bahnhof Kreillerstraße
+- TOP 9.8.: Baumaßnahmen der SWM - Erdgasprojekt Schatzbogen
+- TOP 9.9.: HFK (Hilfe für Kids)-Nachrichten Nr. 4
+- TOP 9.10.: Tätigkeitsbericht SOS-Kinder- und Jugendhilfen München und Erding
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 05.10.2009 - 08.11.2009
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Hippelstraße
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Hochalmstraße
+- TOP 10.4.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Imbis Üzrek, Truderinger Straße 295, 81825 München
+- TOP 10.5.: Budgetmittel des Bezirksausschusses 15 Trudering-Riem, Nachforderung von Unterlagen: Förderverein des Kindergartens St.-Augustinus e.V.
+- TOP 10.6.: Budgetmittel des Bezirksausschusses 15 Trudering-Riem, Nachforderung von Unterlagen: Freunde der FFW Riem v. 1874 e.V.
+- TOP 10.7.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem: Einziehung einer Teilstrecke des Dukatenweges; Beschluss des Bezirksausschusses 15 Trudering-Riem vom 15.10.2009
+- TOP 10.8.: Kinder und Jugendliche brauchen attraktive Spielplätze und zeitgemäße Bewegungsmöglichkeiten; Beschluss des Bauausschusses vom 15.10.2009
+- TOP 10.9.: Fuß- und Radwegbrücken in München; Beschluss des Bauausschusses vom 15.10.2009
+- TOP 10.10.: Mitteilung über einen Eigentumsübergang gemäß § 6 FStrG: Grundbuchberichtigung, Flst. 78/8, 1480/3, 1530/1 Trudering, Am Mitterfeld
+- TOP 10.11.: Mitteilung über ein Grundstücksgeschäft: Flst. 1408/249 Trudering, Verkauf stadteigener Flächen
+- TOP 10.12.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Mutter-Theresa-Straße
+- TOP 10.13.: Vollzug der Straßenverkehrsordnung (StVO), §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund, hier: Fotoaufnahmen Volvo LKW, Hollerithstraße und Vollzug der Straßenverkehrsordnung (StVO), §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund, hier: Produktion "Um Himmels Willen", Rotfuchsweg
+- TOP 10.14.: mirbau'n in der Messestadt Riem (BA-Antrag Nr. 02-08 / B 02988), Beschluss des Kulturausschusses vom 01.10.2009
+- TOP 10.15.: Veranstaltungen / Kooperationen des Kulturreferates im November 2009
+- TOP 10.16.: Schutz für die Mieter der GBW-Wohnungen, Freistaat muss Garantien aussprechen Antrag Nr. 08-14 / A 01038 der Stadtratsfraktion der SPD vom 11.09.09; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 10.17.: Ausweisung neuer Gewerbeflächen, Berichtsjahr 2008; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009
+- TOP 10.18.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009
+- TOP 10.19.: Bericht zu REGSAM REGSAM neu denken, Vertragszeitraum 2010 - 2012; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009
+- TOP 10.20.: Neuer Mieterbeirat - Änderungssatzung Beschluss der Vollversammlung des Stadtrates vom 07.10.2009
+- TOP 10.21.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009
+- TOP 10.22.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009
+- TOP 10.23.: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009
+- TOP 10.24.: Haushaltskonsolidierung 4. Haushaltssicherungskonzept (4.HSK), Sachstand Konsolidierung 2008/2009, Feinkonzept 2010, Grobkonzept 2011, Optimierung von Prozessen und Strukturen Gender Mainstreaming bei der Haushaltskonsolidierung; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009
+- TOP 10.25.: PERSPEKTIVE MÜNCHEN Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und familienfreundliches Wohnen"; Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitsausschusses und des Umweltausschusses in der gemeinsamen Sitzung vom 10.11.2009
+- TOP 10.26.: Wir über 60 - Informationsbroschüre
