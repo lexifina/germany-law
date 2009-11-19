@@ -1,0 +1,6 @@
+# TOP 7: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Stadtwerke Neuss Energie und Wasser GmbH (RAT191109-08236.doc)
+
+- Sitzung: Rat der Stadt Neuss (2009-11-19)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/112408
