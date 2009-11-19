@@ -1,0 +1,7 @@
+# TOP 6: Verfahrensstand und weiteres Vorgehen zum Life-Science-Center
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Stadtentwicklung und Wirtschaftsförderung (2009-11-19)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=22324
+- Ergebnis: erledigt
