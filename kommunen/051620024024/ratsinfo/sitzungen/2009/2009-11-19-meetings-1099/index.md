@@ -1,0 +1,54 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2009-11-19T17:00:00+01:00
+- Ende: 2009-11-19T20:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1099
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1099
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Einwohnerfragestunde
+- TOP 3: Bestellung der Ausschussmitglieder und der stellvertretenden Ausschussmitglieder (RAT191109-08201)
+- TOP 5: Wahl von Stadtverordneten in den Umlegungsausschuss (RAT191109-08206.doc)
+- TOP 6: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Stadtwerke Neuss GmbH (RAT191109-08235.doc)
+- TOP 7: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Stadtwerke Neuss Energie und Wasser GmbH (RAT191109-08236.doc)
+- TOP 8: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Neusser Bäder und Eissporthalle GmbH (RAT191109-08248.doc)
+- TOP 9: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Verwaltungsrat der InfraStruktur Neuss AöR (RAT191109-08257.doc)
+- TOP 10: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Gesellschafterversammlung und Aufsichtsrat der Abfall- und Wertstofflogistik Neuss GmbH (RAT191109-08240.doc)
+- TOP 11: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Verwaltungsrat der Städtische Kliniken Neuss - Lukaskrankenhaus Neuss- GmbH (RAT191109-08234.doc)
+- TOP 12: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Neusser Bauverein AG (RAT191109-08241.doc)
+- TOP 13: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Gesellschafterversammlung und Aufsichtsrat der Neuss-Düsseldorfer Häfen GmbH & Co. KG (RAT191109-08247.doc)
+- TOP 14: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Gesellschafterversammlung der Neuss-Düsseldorfer Häfen Verwaltungs-GmbH (RAT191109-08261.doc)
+- TOP 15: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Beirat der Stadthafen Neuss Verwaltungs-GmbH (RAT191109-08262.doc)
+- TOP 16: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Verwaltungsrat der Gemeinnützige Werkstätten Neuss GmbH (RAT191109-08246.doc)
+- TOP 17: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Gesellschafterversammlung und Beirat der Neusser Marketing GmbH & Co. KG (RAT191109-08263.doc)
+- TOP 18: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Gesellschafterversammlung der Neusser Marketing Verwaltungs-GmbH (RAT191109-08264.doc)
+- TOP 19: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Verwaltungsrat der Gemeinschaftswerk zur Förderung der gewerblichen Berufsbildung zu Neuss GmbH (RAT191109-08233.doc)
+- TOP 20: Vertretung der Stadt Neuss in den Organen der städtischen Beteiligungsgesellschaften hier: Aufsichtsrat der Verkehrsgesellschaft Kreis Neuss mbH (RAT191109-08239.doc)
+- TOP 21: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung der ITK – Rheinland (RAT191109-08194.doc)
+- TOP 22: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung des Sparkassenzweckverbandes des Rhein-Kreises Neuss, der Stadt Neuss, der Stadt Korschenbroich u. der Stadt Kaarst, Verwaltungsr. der Sparkasse Neuss (RAT191109-08243.doc)
+- TOP 23: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung des Rheinischen Sparkassen- und Giroverbandes (RSGV) (RAT191109-08245.doc)
+- TOP 24: Vertretung der Stadt Neuss in Drittgremien hier: Kuratorien der Jubiläumsstiftung, Sparkassenstiftung Neuss, Stiftung Sport (RAT191109-08244.doc)
+- TOP 25: Vertretung der Stadt Neuss in Drittgremien Hier: Aufsichtsrat der ISR – Internationale Schule am Rhein in Neuss GmbH (RAT191109-08205.doc)
+- TOP 26: Vertretung der Stadt Neuss in Drittgremien Hier: Kuratorium der Stiftung Insel Hombroich (RAT191109-08208.doc)
+- TOP 27: Vertretung der Stadt Neuss Drittgremien hier: Berufsschulbeirat (RAT191109-08207.doc)
+- TOP 28: Vertretung der Stadt Neuss in Drittgremien Hier: Verein „Rheinisches Landestheater – vereinigt mit dem Theater Niederrhein – Neuss e.V. (RAT191109-08209.doc)
+- TOP 29: Vertretung der Stadt Neuss in Drittgremien Hier: Flughafenbeirat (RAT191109-08216.doc)
+- TOP 30: Vertretung der Stadt Neuss in Drittgremien hier: Umbesetzung im Ausschuss des Wasser- und Bodenverbandes Nordkanal (RAT191109-08220.doc)
+- TOP 31: Vertretung der Stadt Neuss in Drittgremien hier: Deichamt (Vorstand) und Erbentag (Ausschuss) des Deichverbandes Uedesheim (RAT191109-08204.doc)
+- TOP 32: Vertretung der Stadt Neuss in Drittgremien hier: Erbentag (Ausschuss) des Deichverbandes Meerbusch-Lank (RAT191109-08221.doc)
+- TOP 33: Vertretung der Stadt Neuss in Drittgremien hier: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr (VRR) und Gesellschafterversammlung der Kooperationsgesellschaft Mittlerer Niederrhein GbR (KMN) (RAT191109-08237.do
+- TOP 34: Vertretung der Stadt Neuss in Drittgremien hier: Aufsichtsrat der Kreiswerke Grevenbroich GmbH (RAT191109-08249.doc)
+- TOP 35: Vertretung der Stadt Neuss in Drittgremien Unterausschuss Nord des Braunkohlenausschusses bei der Bezirksregierung Köln (RAT191109-08267.doc)
+- TOP 36: Strategie für die Aufstellung und die Abwicklung der Haushalte im Finanzplanungszeitraum 2010 – 2013 (RAT191109-08272.doc)
+- TOP 37: Berufung von Vertreterinnen und Vertretern der Schulen zur ständigen Beratung im Schulausschuss (RAT191109-08305.doc)
+- TOP 42: Bericht zur aktuellen Haushaltslage (RAT191109-08273.doc)
+- TOP 44: Besetzung des Wahlausschusses (RAT191109-08231.doc)
+- TOP 45: Genehmigung der Tagesordnung
+- TOP 46: Besetzung des Wahlprüfungsausschusses (RAT191109-08232.doc)
