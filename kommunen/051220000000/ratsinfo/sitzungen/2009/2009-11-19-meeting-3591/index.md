@@ -1,0 +1,102 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-11-19T16:00:00+01:00
+- Ende: 2009-11-19T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZUb7Is97_obm2eB67Czix90
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3591
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXYU3766uGYNjsGqir9wPXKYSNJP7As4S9o-ILIMZNCp/Oeffentliche_Niederschrift_Rat_19.11.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 01. Sitzung des Rates am 29.10.2009
+- TOP 3: Festlegung der Zahl der ehrenamtlichen Stellvertreterinnen und Stellvertreter des Oberbürgermeisters
+- TOP 4: Wahl der ehrenamtlichen Stellvertreter/innen des Oberbürgermeisters
+- TOP 5: Einführung der ehrenamtlichen Stellvertreter des Oberbürgermeisters
+- TOP 6: Bildung der Ausschüsse
+- TOP 7: Besetzung der Ausschüsse
+- TOP 8: Neubildung des Jugendhilfeausschusses für die Wahlperiode 2009 - 2014
+- TOP 9: Beteiligungssteuerung
+- TOP 10: Stadt-Sparkasse Solingen
+- TOP 11: Stadt-Sparkasse Solingen
+- TOP 12: Rheinischer Sparkassen- und Giroverband
+- TOP 13: Regionalrat des Regierungsbezirks Düsseldorf
+- TOP 14: Polizeibeirat für den Kreispolizeibezirk Wuppertal
+- TOP 15: Kommunale Arbeitsgemeinschaft Bergisch Land e.V. (KAG)
+- TOP 16: Forschungsgemeinschaft Werkzeuge und Werkstoffe e.V.
+- TOP 17: Technische Akademie Wuppertal e.V.
+- TOP 18: Lokalfunk Radio RSG
+- TOP 19: Kuratorium "Die Schärfste Klinge"
+- TOP 20: Bildung der 13. Landschaftsversammlung Rheinland
+- TOP 21: Gesellschaft des Bergischen Instituts für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 22: Gesellschaft des Bergischen Instituts für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 23: Verein zur Förderung des Bergischen Instituts für Produktentwicklung und In-novationsmanagement e. V.
+- TOP 24: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 25: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 26: Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 27: Stadtwerke Solingen GmbH
+- TOP 28: Stadtwerke Aue
+- TOP 29: Änderung des Gesellschaftsvertrags Städtisches Klinikum gGmbH
+- TOP 30: Städtisches Klinikum Solingen gGmbH
+- TOP 31: Abberufung eines Geschäftsführers der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 32: Abberufung eines Geschäftsführers der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 33: Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 34: Bergische Volkshochschule
+- TOP 35: Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 36: Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 37: Städtische Musikschule Solingen GmbH
+- TOP 38: Schlossbauverein Burg an der Wupper e. V.
+- TOP 39: Bergische Entwicklungsagentur GmbH
+- TOP 40: Bergische Entwicklungsagentur GmbH
+- TOP 41: Gründer- und Technologiezentrum Solingen GmbH
+- TOP 42: Institut für Galvano- und Oberflächentechnik Solingen GmbH
+- TOP 43: Verband der kommunalen RWE-Aktionäre GmbH (VkA)
+- TOP 44: civitec - Zweckverband Kommunale Informationsverarbeitung
+- TOP 45: Zweckverband Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 46: Sanierungsgesellschaft Südliche Innenstadt Verwaltungs-GmbH
+- TOP 47: Sanierungsgesellschaft Südliche Innenstadt mbH & Co. KG
+- TOP 48: Wasserwerk Baumberg GmbH, Solingen
+- TOP 49: Wasserversorgungsverband Rhein-Wupper
+- TOP 50: Entsorgung Solingen GmbH
+- TOP 51: Bergisch-Rheinischer Wasserverband
+- TOP 52: Wupperverband
+- TOP 53: Verein zur Förderung der Abfallwirtschaft Region Rhein-Wupper e.V.
+- TOP 54: Feuerschadengemeinschaft kreisfreier Städte Rheinlands und Westfalens (FSG)
+- TOP 55: GVV-Kommunalversicherung VVaG
+- TOP 56: Kommunaler Schadenausgleich westdeutscher Städte (KSA)
+- TOP 57: Kommunale Gesundheitskonferenz
+- TOP 58: Zweckverband Erholungsgebiet Ittertal
+- TOP 59: Gewässerschaukommission der Stadt Solingen
+- TOP 60: Zweckverband Naturpark Bergisches Land
+- TOP 61: Geschwister-Niehoff-Stiftung
+- TOP 62: Bestellung von Mitgliedern des Umlegungsausschusses
+- TOP 63: Besetzung des Agenda-Teams
+- TOP 64: Kündigung der eigenständigen Mitgliedschaft der Stadt Solingen im KDN
+- TOP 65: Durchführung eines Verfahrens zur bürgerbeteiligten Haushaltssicherung
+- TOP 66: Zustimmung zu Mehraufwendungen gemäß § 83 GO NRW für gesetzliche Leistungen nach SGB XII und SGB II
+- TOP 67: Bildung einer Einigungsstelle
+- TOP 68: Gültigkeit der am 30.08.2009 stattgefundenen allgemeinen Wahlen zu den Vertretungen der Stadt Solingen
+- TOP 69: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 70: Altenzentren der Stadt Solingen
+- TOP 71: Altenzentren der Stadt Solingen
+- TOP 72: Kommunale Demokratie stärken
+- TOP 73: Antrag der Ratsfraktion Die Linke
+- TOP 74: Verschiedenes
+- TOP 75: Gewährleistung/Sicherstellung des Rettungsdienstes für Höhrath und Burg
+- TOP 76: Mitschnitte von Ratssitzungen im Internet
+- TOP 77: Quartalszahlung der Budgetmittel an die Schulen, Mittel für den Bau der neuen Kindertagesstätten
+- TOP 78: Qualität der Leistungserbringung auf der S 7
+- TOP 79: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2009
+- TOP 80: Tarifverhandlungen auf örtlicher Ebene
+- TOP 81: 2. Modellrechnung in Bezug auf Schlüsselzuweisungen und Pauschalen zum Entwurf des Gemeindefinanzierungsgesetzes 2010
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 01. Sitzung des Rates am 29.10.2009
+- TOP 3: Verschiedenes
+- TOP 4: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
