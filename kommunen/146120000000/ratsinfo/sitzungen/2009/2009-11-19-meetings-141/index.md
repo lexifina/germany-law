@@ -1,0 +1,55 @@
+# 6. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-11-19T16:00:00+01:00
+- Ende: 2009-11-19T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/141
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/141
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2009_11_19 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00012944.pdf
+- Wortprotokoll: Nachtrag_SR_2009_11_19 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00013719.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Expertenanhörung Kulturpalast
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Einwohnerversammlung zum Thema "Zukunft des Kulturpalasts" - Zustimmung
+- TOP 6: Besetzung des Behindertenbeirates - gewählt
+- TOP 7: Sanierung der Grundschule Schönfeld, Borsbergstraße 12a, 01328 Dresden - Zustimmung mit Änderung
+- TOP 8: Institutionelle Mitgliedschaft der Landeshauptstadt Dresden im Trägerverein des Institutes für Dopinganalytik und Sportbiochemie (IDAS) - "Verein für Dopinganalytik und spezielle Biochemie e. V." - Zustimmung
+- TOP 9: Vergabe eines Erbbaurechts an die Fraunhofergesellschaft zur Förderung der angewandten Forschung e. V.
+- TOP 10: Bestellung eines Wirtschaftsprüfers - Zustimmung
+- TOP 12: Rückübertragung der Kindertageseinrichtung - Zustimmung
+- TOP 13: Trägerschaftswechsel - Zustimmung mit Änderung
+- TOP 14: Trägerschaftswechsel - Zustimmung
+- TOP 15: Trägerschaftswechsel - Zustimmung mit Änderung
+- TOP 16: Aufnahme der Kindertageseinrichtung - Zustimmung
+- TOP 17: Aufhebung des Beschlusses V2662-SR76-08 - Zustimmung
+- TOP 18: Neubenennung und Wiederbenennung von Straßen - Zustimmung mit Änderung
+- TOP 19: Festsetzung entstandener Straßenausbaubeitragspflichten - Ablehnung
+- TOP 20: Abschaffung von Straßenausbaubeiträgen in der Landeshauptstadt Dresden - Ablehnung
+- TOP 21: Rückzahlung von Straßenausbaubeiträgen - Vertagung
+- TOP 22: Verkehrsbaumaßnahme Potschappler Straße zwischen Karlsruher Straße und Stadtgrenze - Vertagung
+- TOP 23: Grundhafter Ausbau der Straße Altnaußlitz und der Kölner Straße einschließlich des Ersatzneubaus des Durchlasses Roßthaler Bach - Zustimmung
+- TOP 24: Vorhabenbezogener Bebauungsplan Nr. 675, Dresden-Cotta, Einkaufszentrum Hamburger Straße - Vertagung
+- TOP 25: Vorhabenbezogener Bebauungsplan Nr. 654, Dresden-Niedersedlitz, Wohnsiedlung Kleinborthener Straße/Falkenhainer Straße - Vertagung
+- TOP 26: Satzung zur Änderung der Jahr- und Spezialmarktsatzung der Landeshauptstadt Dresden vom 10. Dezember 1992, zuletzt geändert am 10. April 2008 - Zustimmung
+- TOP 27: Straßenbaumkonzept Dresden - Vertagung
+- TOP 28: Dresdner Umweltprämie für Altfahrräder - Vertagung
+- TOP 29: Städtebauliche Überplanung - Vertagung
+- TOP 30: Innovationspreis "Familienfreundlichstes Unternehmen Dresdens" - Vertagung
+- TOP 31: Einführen eines Sozialtarifes - Sozialticket - Vertagung
+- TOP 32: Vermeidung des Erwerbs von Produkten aus ausbeuterischer Kinderarbeit im öffentlichen Beschaffungswesen - Vertagung
+- TOP 33: Parkraumkonzept Johannstadt - Vertagung
+- TOP 34: Begrünung des Wiener Platzes - Vertagung
+- TOP 35: Elbtal schützen - Dresdens Erbe, Dresdens Zukunft - Vertagung
+- TOP 36: Fortschreibung des Abwasserbeseitigungskonzeptes (ABK) der Landeshauptstadt Dresden aus dem Jahr 2003 - Zustimmung mit Änderung
+- TOP 37: Verhandlungsziele der Stadt Dresden bei künftigen Tarifverhandlungen im VVO/Fahrgastbeirat VVO
+- TOP 38: Sofortige Aussetzung der Wettbewerbsrealisierung "Seetor" - Ablehnung
+- TOP 39: Auslegung Bebauungspläne (verbindlicher Bauleitplan) - Vertagung
+- TOP 40: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge - Vertagung
