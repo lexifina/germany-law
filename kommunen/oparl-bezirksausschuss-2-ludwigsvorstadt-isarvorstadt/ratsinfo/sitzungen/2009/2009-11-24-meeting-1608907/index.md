@@ -1,0 +1,104 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2009-11-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1608907
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1608907
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Förderverein Freunde der Grundschule Klenzestraße e.V., Budgetantrag vom 25.05.2009 - präventives Theaterstück; Antrag auf Erhöhung der Zuwendung vertagt aus der Sitzung vom 27.10.2009 (TOP A 2.2)
+- TOP .2.: BA-eigene Veranstaltung "Alt und Jung - Grenzenlos" , Anfang 2010
+- TOP .3.: BA-eigene Veranstaltung "Kindertheater 2010", Anfang 2010
+- TOP .4.: BA-eigene Veranstaltung "Seniorentag im ASZ Isarvorstadt"
+- TOP .1.: Schaffung von Jugendbeauftragten in der BA-Satzung; BA-Antrag-Nr. 08-14/B 01499 des BA 12 vom 29.09.2009
+- TOP .2.: Aufstellung eines Spritzenautomaten am Goetheplatz
+- TOP .1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Wohnen in München IV
+- TOP .2.: Budget, Veranstaltungsberichte - Kirchenkonzert vom 10.10.2009 in St. Maximilian
+- TOP .3.: Beschluss der Vollversammlung vom 07.10.09: Neuer Mieterbeirat Berufung der stimmberechtigten Mitglieder Bekanntgabe der beratenden Mitglieder
+- TOP .4.: Beschluss der Vollversammlung vom 07.10.09: Neuer Mieterbeirat, Änderungssatzung
+- TOP .5.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag der Kath. Kirchenstiftung St. Andreas vom 17.10.09 für den Kauf eines Marktstandes für den Andreasmarkt vom 27. - 29.11.09 (Ablehnung wegen Verfristung)
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .7.: Abgeshlossenheitsbescheinigungen; Schreiben der Geschäftsstelle an D-II-BA (Inhalt: Informationen über Abgeschlossenheitsbescheinigungen im Stadtbezirk 2 sollen dem BA 2 wieder vorgelegt werden)
+- TOP .8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009: REGSAM neu denken, Vertragszeitraum 2010 - 2012
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Vorabinformation: Atelier Theresia und Isar-Krokodile
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Berichte des Beauftragten
+- TOP .1.: Änderung des Parklizenzgebietes Lindwurmstraße; Antrag der SPD-Fraktion im BA 2
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters: Standortgenehmigung für Parkscheinautomaten, Lizenzgebiet Alter Südfriedhof, Waltherstraße 31, vertagt aus der Sitzung vom 27.10.2009 (TOP B 2.1)
+- TOP .1.: Teilnahme der Bezirksausschüsse an Wettbewerben: hier: Benennung und Entsendung von Stellvertretern BA-Antr.-Nr. 08-14 / B 01302 des BA 10 vom 29.06.2009
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Zenettistraße 21, Teilabbruch Großvieh-Auftriebshalle, Umbau, Fassaden- und Nutzungsänderung sowie Trennung der einzelnen Gebäude
+- TOP .2.: Ringseisstraße 1, Sanierung eines denkmalgeschützten Mehrfamilienhauses mit Erneurung des Dachstuhls, DG-Ausbau, Lifteinbau, Heizungsneubau und Balkonanbau - Tektur
+- TOP .3.: Klenzestraße 22, Nutzungsänderung im Erdgeschoss mit baulicher Änderung - Ladenwohnung zu Ladengeschäft
+- TOP .4.: Nußbaumstraße 10, Dachausbau
+- TOP .5.: Schillerstraße 34, Aufstockung eines Wohngebäudes mit Lokal - Vorbescheid
+- TOP .6.: Bahnhofplatz 1, Nutzungsänderung: Einbau eines Supermarktes mit Backshp im Erd- und Untergeschoss, Erweiterung der Kellerfläche, Einbau eines restaurants mit Café im Erdgeschoss
+- TOP .7.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich I/33 und vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1999 Müllerstraße zwischen Corneliusstraße (östlich) und Fraunhoferstraße (westlich) ehem. Fernheizkraftwerk
+- TOP .8.: Arnulfstraße 3, Nutzungsänderung: Wartehalle zu Spielothek
+- TOP .9.: Baaderstraße 34, Umbau der Werkstatt zu Atelier mit Werkstatt, Erneuerung der Treppen, Errichtung eines Erkers, profilgleiche Aufstockung des 2. OG zu Nachbar
+- TOP .10.: Müllerstraße 7, bauliche Trennung des Turms HKW Müllerstraße 7 von den anschließenden Gebäuden zum Zwecke der Freistellung des Turmes durch Abbruchmaßnahmen (Müllerstraße 3 und 7, Corneliusstraße 4)
+- TOP .11.: Bayerstraße 7, Nutzungsänderung, Umbau und Neueinrichtung eines KFC-Restaurants
+- TOP .12.: Mozartstr. 21, Nutzungsänderung und Umbau einer Klinik in ein Wohngebäude (12 WE) incl. Tiefgarage (12 Stpl.)
+- TOP .13.: Bauvorhaben Schmellerstr. 15, Wohnungszusammenlegung, Nutzungsänderung und Errichtung einer Wand im EG des Rückgebäudes
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Mozartstr. 21, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 09-26126
+- TOP .2.: Baumfällung Erhardtstraße 27; vertagt aus der Sitzung vom 27.10.2009 (TOP B 3.2.1)
+- TOP .1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: PERSPEKITVE MÜNCHEN, Langfristige Siedlungsentwicklung
+- TOP .2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Sendlinger Straße - Teilabschnitt zwischen Färbergraben und Hackenstraße
+- TOP .3.: Beschluss der Vollversammlung vom 07.10.09: Zukunftssicherung der Markthallen München auf dem Großmarktgelände sowie auf dem Schlacht- und Viehhofareal, Standorterhaltung und -entwicklung
+- TOP .4.: Mitteilung über ein Grundstücksgeschäft: - Waltherstraße 7 a
+- TOP .5.: Beschluss der Vollversammlung vom 07.10.09: Vorkaufsrechtsausübung und Reprivatisierungspraxis - Fortschreibung des Grundsatzbeschlusses von 2002
+- TOP .6.: Beschluss des Bauausschusses vom 15.10.09: Hermann-Lingg-Straße zwischen Bayerstraße und Schwanthalerstraße, Erneuerungsmaßnahme mit Verbesserungen
+- TOP .7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Wettbewerb "Denkmalschutz und Neues Bauen" 2008; Prämierung von Wettbewerbsbeiträgen
+- TOP .8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: 39. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2008
+- TOP .9.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009
+- TOP .10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.09: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP .11.: Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitaauschusses und des Umweltausschusses in der gemeinsamen Sitzung vom 10.11.2009: PERSPEKTIVE MÜNCHEN, Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und familienfreundliches Wohnen" - Empfehlungen für kinder- und familiengerechtes Wohnen - Maßnahmen zur Verbesserung der Wohnberatung
+- TOP .1.: Pflanzkübel im Freischankbereich - Ungleichbehandlung Bürgeranliegen aus der Sitzung vom 27.10.2009
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Standortgenehigung für einen Parkscheinautomaten im Lizenzgebiet Glockenbachviertel; vertagt aus der Sitzung vom 27.10.2009 (TOP C 3.2.2)
+- TOP 2: (E) Verstärkung der Kontrollen im Parklizenzgebiet "Dreimühlenviertel" Empfehlung Nr. 08-14 / E 00284 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 18.06.2009 - <div>nach Antrag</div>
+- TOP 2.3.: (E) In zweiter Reihe parkende Lkw`s rund um den Gärtnerplatz (Ziff. 3) Empfehlung Nr. 08-14 / E 00286 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 18.06.2009 - <div>nach Antrag</div>
+- TOP 2.2.1: Gaststättenangelegenheiten
+- TOP 2.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.1.: Verkaufeinrichtung auf öffentlichem Verkehrsgrund, Rumfordstraße 18
+- TOP 2.2.: Genehmigung einer Freischankfläche Hans-Sachs-Straße 12
+- TOP 2.3.: Mobiler Fahrradständer, Schillerstraße 5
+- TOP 2.1.: Tollwood: Straßenverbreiterung für Leitungen, Ersatzareal am Kinderspielplatz als Kunsteisbahn mit Eisbildhauer
+- TOP 2.3.2: Verkehr
+- TOP 2.1.: Filmaufnahmen auf öffentlichem Verkehrsgrund: 1
+- TOP 2.2.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Halteverbotsantrag für Filmaufnahmen in der Buttermelcher-/Klenzestraße
+- TOP 2.3.: Versammlungen unter freiem Himmel: 4
+- TOP 2.4.: Sondernutzungserlaubnis für das Kunstprojekt "Free Art" am 23.10.2009 am Gärtnerplatz
+- TOP 2.5.: Unveränderte Gaststättenfortführungen: - Phy Quy Asia Bistro, Bayerstraße 101 - SB Back & Coffee Shop, Häberlstraße 1 - Santini, Fraunhoferstr. 43 - Shanes Kitchen, Geyerstraße 52
+- TOP 2.6.: Verkehrsrechtliche Anordnung des KVR: - Einrichtung eines allgemeinen Behinderteparkplatzes in der Corneliusstraße 42 - Einrichtung eines personenbezogenen Behindertenparkplatzes in Bereich St.-Pauls-Platz 11 - Arnulfstraße; Radwegzufahrt zum ZOB
+- TOP 2.7.: Beschluss des Bauausschusses vom 15.10.09: Fuß- und Radwegbrücken in München
+- TOP 2.8.: Widerruf von Sondernutzungserlaubnissen anlässlich einer sich fortbewegenden Versammlung "Selbstbestimmung und Frieden für Kurdistan" am 31.10.2009 von 13.00 Uhr bis 17.00 Uhr. Eilentscheidung des Kreisverwaltungsreferenten
+- TOP 2.9.: Straßenbenennungen im Stadtbezirk 2; Schreiben des Kommunalreferates vom 18.09.2009, vertagt aus der Sitzung vom 27.10.2009 (TOP C 4.2)
+- TOP 2.10.: Information des Baureferates: Winterdienst 2009/2010
+- TOP 2.1.: Termine
+- TOP 2.3.: Sonstiges / Verschiedenes
+- TOP 2.1.: Die UA-Protokolle müssen am Montag vor der BA-Sitzungswoche (um 9:00 Uhr) in der Geschäftsstelle vorliegen!
+- TOP 2.2.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse PLENUMSBESCHLUSS
+- TOP 2.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4.: Unterrichtungen
+- TOP 2.2.: Veranstaltungen
