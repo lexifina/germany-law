@@ -1,0 +1,51 @@
+# Bauausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-11-24T15:00:00+01:00
+- Ende: 2009-11-24T16:30:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/17
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2655
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2655
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126167.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126167.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126167.pdf
+
+## Tagesordnung
+
+- TOP 1: Beschlussfähigkeit
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 4: Genehmigung der Niederschrift über den öffentlichen Teil der Sitzung vom 08.09.2009
+- TOP 5: Änderung der Niederschrift über den öffentlichen Teil der Sitzung vom 08.06.2009 - mündlich -
+- TOP 6: Anfragen, Anträge und eilige Informationen
+- TOP 7: Haushaltsplan-Entwurf 2010, Ergebnisplan und Finanzplan - einstimmig beschlossen
+- TOP 8: Rücknahme der Kürzungen im Bauunterhalt Antrag der Linksfraktion - mehrheitlich abgelehnt
+- TOP 9: Haushaltsplanentwurf 2010 – Immobilienbewirtschaftung - mehrheitlich abgelehnt
+- TOP 10: Haushaltsplanentwurf 2010 – Toilettenanlagen - mehrheitlich abgelehnt
+- TOP 11: Haushaltsplanentwurf 2010 – Wasserbau - mehrheitlich abgelehnt
+- TOP 12: Notarztstation Hassels, Neubau - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 13: 2. Bauabschnitt Oper - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 14: Sonnenstr. 10, GGS, Fassadensanierung , Klassen- und Sondertrakt - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 15: Brinckmannstr. 16, Sanierung Einfachsporthalle - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 16: Heerdter Landstr. 186, Erweiterungsbau für den offenen Ganztag - Ausführungs- und Finanzierungsbeschluss - - zurückgezogen
+- TOP 17: Marie-Curie-Str. 9, Gerresheim, Neubau Kindertagesstätte - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 18: Heinrich-Walbröhl-Weg 10, Wittlaer, Neubau Kindertagesstätte mit Jugendfreizeiteinrichtung - Ausführungs- und Finazierungsbeschluss - - einstimmig beschlossen
+- TOP 19: Niederkasseler Str. 36, Städt. KGS Niederkassel, Sanierung Hofgebäude - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 20: Masterplan Schulen, Projektstatus - Information - - zur Kenntnis genommen
+- TOP 21: Genehmigung einer Dringlichen Entscheidung Schule Rückertstr. 6 - Einrichtung einer pädagogischen Übermittagsbetreuung und erste Umbauten für den gebundenen Ganztag - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 22: Jahresabschluss 2008 und Lagebericht 2008 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 23: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2010 - einstimmig beschlossen
+- TOP 24: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2009 bis 2013 - einstimmig beschlossen
+- TOP 25: Controllingbericht des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf zur finanzwirtschaftlichen Lage zum I. bis III. Quartal 2009 - zur Kenntnis genommen
+- TOP 26: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum vom 01.01.2010 bis 31.12.2010 - einstimmig beschlossen
+- TOP 27: Beibehaltung der Personal- und Fahrzeugsätze für 2010 gemäß der Richtlinie über die Erhebung von Entgelten für Leistungen der Chemisch-biologischen Laboratorien der Landeshauptstadt Düsseldorf vom 27.01.1983 - Information - - zur Kenntnis genommen
+- TOP 28: An den Linden / Angermunder Straße - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 29: Viersener Straße, Planstraße (Basisstraße) - Bau- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 30: In der Flieth, Regenrückhaltebecken - Bauausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 31: Am Neuenhof / In der Flieth - Bauausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 32: Bielefelder Straße bis Lüneburger Weg, Sammler - Bauausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 33: Kölner Landstraße, Regenklärbecken 1. Bauabschnitt - Bauausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 34: Ronsdorfer Straße 1. Bauabschnitt - Bauausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
