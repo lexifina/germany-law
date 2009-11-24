@@ -1,0 +1,133 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2009-11-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1630701
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1630701
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Kurzbericht der Polizei
+- TOP .4.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Beschlussvollzugskontrolle: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009 - 30.06.2009 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung Sitzungsvorlage Nr. 08-14 / V 02958
+- TOP .2.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018 Eckdatenbericht zum ersten Bewerbungsdokument (Mini Bid Book) Beschluss der Vollversammlung des Stadtrates vom 11.11.2009 Sitzungsvorlage Nr. 08-14 / V 03101
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Genehmigung einer Freischankfläche vor dem Backshop mit Cafe, Leopoldstraße 64
+- TOP .1.: Ungererstraße 70, Fl.Nr. 922/15, Nutzungsänderung: Gastronomie in private Kellerräume, Einbau einer Verbindungstreppe zwischen Keller und darüberliegender Wohnung - TEKTUR zu 1.2-2009-11729-41
+- TOP .2.: Freisinger Landstr. , Fl.Nr. 548/0, Neubau eines Wasserkraftwerk-Gebäudes (vertagt aus 10/2009)
+- TOP .3.: Heimstättenstraße 25, Fl.Nr. 125/10, AZ: 1.7-2009-24199-41, Neubau eines Einfamilienhauses, Vorbescheid
+- TOP .4.: Boxberger Straße 14, Fl.Nr. 52/3, AZ: 1.2-2009-24617-41, Neubau eines Einfamilienhauses mit Einliegerwohnung, Garage und Carport (Baugenehmigung bereits erteilt)
+- TOP .5.: Teilnahme der Bezirksausschüsse an Wettbewerben: Benennung und Entsendung von Stellvertretern BA-Antrags-Nr. 08-14 / B 01302 des BA 10 Moosach vom 29.06.2009
+- TOP .6.: Beichstraße 5, Flurstück: 12/0, Nutzungsänderung , Laden zu Gaststätte
+- TOP .7.: Franz-Joseph-Straße 16, Flurstück: 4465/9, Anbei eines Mehrfamilienhauses mit TG und PKW-Aufzug an ein best. MFH - Vorbescheid
+- TOP .8.: Hohenzollernstraße 12, Fl.Nr. 363/4, An- und Umbau sowie Nutzungsänderung eines Wohn- und Geschäftshauses
+- TOP .9.: Bernsteinweg 12, Fl.Nr. 309/258, Neubau eines Reihenhauses (Haus C) mit Garage und Stellplatz
+- TOP .1.: Berufung der stimmberechtigten Mitglieder und Bekanntgabe der beratenden Mitglieder gemäß Mieterbeiratssatzung (Beschluss des Sozialausschusses vom 22.09.2009 und der Vollversammlung des Stadtrates vom 07.10.2009) Sitzungsvorlage Nr. 08-14 / V 02681 siehe auch im UA Bildung Kultur Soziales TOP D 5.3.3
+- TOP .2.: Änderung der Mieterbeiratssatzung gemäß Beschluss des Sozialausschusses vom 22.09.2009 und der Vollversammlung des Stadtrates vom 07.10.2009) Sitzungsvorlage Nr. 08-14 / V 02682 siehe auch UA Bildung Kultur Soziales TOP D 5.3.4
+- TOP .3.: Broschüre "Das kommunale Wohnungsbauprogramm in München" liegt auf
+- TOP .4.: Brückenbauprogramm: Fuß- und Radwegbrücken in München Beschluss des Bauausschusses vom 15.10.2009 siehe auch UA U/V TOP C 5.4.3
+- TOP .5.: 39. städtischer Fassadenwettbewerb - Fassadenpreise und lobende Erwähnungen 2008 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 Sitzungsvorlage Nr. 08-14 / V 02975
+- TOP .6.: PERSPEKTIVE MÜNCHEN Leitlinie "Kinder- und Familienpolitik" und Leitprojekt 1 "Kinder- und familienfreundliches Wohnen" Sitzungsvorlage 08-14 / V 02891
+- TOP .7.: Lärmschutz durch Bretterschutzwände - Bebauung der Grundstücksflächen Argentagruppe an der Anni-Albers-/Walter-Gropius-Straße (Planungsreferat; 02.11.2009)
+- TOP .8.: Perspektive München - langfristige Siedlungsentwicklung; Grundsatzbeschluss mit Rahmenbedingungen und Trends, Potenziale und Schlussfolgerungen; weiteres Vorgehen; Vergabe eines Werkauftrags Beschluss der Vollversammlung des Stadtrates vom 28.10.2009 Sitzungsvorlage Nr. 08-14 / V 02475
+- TOP .9.: Wohnen in München IV - Erfahrungsbericht für das Jahr 2008 mit Ergänzungen Beschluss der Vollversammlung des Stadtrates vom 28.10.2009 Sitzungsvorlage Nr. 08-14 / V 02420
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Aufstellen von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Marktstr. 15; Beschluss des BA 12 vom 27.10.2009 (Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB vom 26.11.2007); vertagt aus 10/2009
+- TOP 2: (E) Errichtung von "Grünen Pfeilen" (Rechtsabbiegpfeilen) im Euro- Industriepark Empfehlung Nr. 08-14 / E 00311 der Bürgerversammlung des Stadtbezirkes 11 - Milbertshofen-Am Hart am 02.07.09 - <div>nach Antrag</div>
+- TOP 3: (E) Einrichtung eines absoluten Haltverbotes in der Heidemannstraße zwischen Gruson- straße und Ingolstädter Straße (nördlich) und zeitlich begrenztes Parken mit Parkscheibe südlich Empfehlung Nr. 08-14 / E 00329 der Bürgerver- sammlung des Stadtbezirkes 12 - Schwabing-Freimann vom 07.07.2009
+- TOP 3.4.: (E) Verlagerung der Zeitungsständer am Übergang Leopoldstraße/Hohenzollernstraße (Ziffer 3) Empfehlung Nr. 08-14 / E 00341 der Bürger- versammlung des 12. Stadtbezirkes - Schwabing-Freimann, Bezirksteil Schwabing- Alte Heide am 14.07.2009 - <div>nach Antrag</div>
+- TOP 3.5.: (E) Anbringung von Markierungen für Radfahrer und Fußgänger am Übergang Leopold-/ Hohenzollernstraße (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 00340 der Bürger- versammlung des Stadtbezirkes 12 - Schwabing-FReimann am 14.07.2009 - <div>nach Antrag</div>
+- TOP 3.3.1.: Baumfällungen
+- TOP 3.1.: Ifflandstr., Fl.Nr. 1186/34, 1 Ahorn
+- TOP 3.2.: Leopoldstr. 250, diverse Bäume gemäß Baumbestandsplan AZ. 9.41-2009.25280-5
+- TOP 3.3.: Destouchesstraße 21-33; AZ: 9.41-2009-26154-5
+- TOP 3.4.: Am Blütenring 18; AZ: 9.42-2009-24092-5
+- TOP 3.5.: Antwerpener Straße 9; AZ: 9.41-2009-27073-5
+- TOP 3.6.: Freimanner Bahnhofstraße 8
+- TOP 3.7.: Helene-Wessel-Bogen 7 (1 Pappel)
+- TOP 3.8.: Bauernfeindstraße 3 (1 Ahorn, 2 Ebereschen, 1 Birke)
+- TOP 3.1.: Fußgängerüberweg über die Walter-Gropius-Straße auf Höhe Hannes-Meyer-Straße
+- TOP 3.2.: Situlistraße zwischen Freisinger Landstraße und Leinthalerstraße; Errichtung einer Halteverbotszone und Schaffung einer Parkzone (Bauvorhaben A9 Hochbrücke Freimann)
+- TOP 3.3.: Z 283 in der Hörwarthstraße
+- TOP 3.4.: Kurzparkzone und Behindertenparkplatz Ungererstraße 175
+- TOP 3.3.3.: Sonstige Anhörungen
+- TOP 3.1.: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009
+- TOP 3.2.: Halteverbot in der Lyonel-Feininger-Straße Westseite zwischen Gunta-Stölzl-Straße und Anni-Albers-Straße
+- TOP 3.3.: Verkehrsbehinderung in der Parkstadt Schwabing
+- TOP 3.4.: Vollzug der Wassergesetze; Wasserkraftanlage am Eisbach im Bereich der Straße "Am Tucherpark" (WKA Tucherpark) - Bergmann/Hagen GbR
+- TOP 3.1.: Vorschlag zum Aufstellen von Haltverbotsschildern Kreuzung Guerickestraße / Fröttmaningerstraße
+- TOP 3.2.: Parksituation in der Sondermeierstr.
+- TOP 3.3.: Missstände in Freimann
+- TOP 3.4.: Zaun entlang der Straßenbahnlinie 23 (vertagt aus 09/09; Ortstermin 19.11.09))
+- TOP 3.5.: Baumaßnahmen am Mittleren Ring im Bereich der Einmündung Ifflandstraße
+- TOP 3.6.: Errichtung eines Zebrastreifen zwischen Burmestergrundschule und Hort/Kindergarten in der Bauernfeindstr. und Aufstellung eines Hinweisschildes auf Schule/Kinder
+- TOP 3.7.: Lärmschutz entlang der Häuser am Isarring auf Höhe Liebergesellstraße sowie des Englischen Gartens auf Höhe Kleinhesseloher See
+- TOP 3.8.: Gefährliches Radeln rund um die Münchner Freiheit
+- TOP 3.1.: Verlagerung des Parkstreifens auf die gegenüberliegende Fahrbahnseite auf der Situlistraße
+- TOP 3.1.: Einrichtung eines absoluten Haltverbots und abschnittsweise Geschwindigkeitsbeschränkung auf 30 km/h in der Oskar-Schlemmer-Straße und Lyonel-Feiniger-Straße
+- TOP 3.2.: Aufhebung der Radwegbenutzungspflicht in der Tivolistraße zwischen Öttingenstraße / Hirschauer Straße und Wiedenmayerstraße I Ifflandstraße
+- TOP 3.5.3.: Genehmigte Baumfällungen
+- TOP 3.1.: Frankfurter Ring 150, Fl.Nr. 265/0 Fällungsantrag vom 07.09.2009 AZ. 9.41-2009-26744-5
+- TOP 3.2.: Kaiserstraße 15, Fl.Nr. 361/13, AZ: 9.41-2009-26762-5
+- TOP 3.3.: Dauerkleingartenanlage NO 65, Josef-Wirth-Weg 17 (Baureferat, 06.11.2009)
+- TOP 3.4.: Fällung von Gefahrenbäumen gemäß Anlage (Baureferat, 15.10.2009)
+- TOP 3.1.: Ausnahmebewilligung zur Errichtung von 2 Schluckbrunnen (Tiefbrunnen Durchmesser 0,7 m) Heimstättenstraße 4, Fl.Nr. 1002 (Schreiben des KVR vom 22.10.2009)
+- TOP 3.2.: Winterdienst 2009 / 2010, Plan: Allgemeine Übersicht der Einsatzgebiete mit Verzeichnis der Vertragsfirmen und Einsatzleitung
+- TOP 3.3.: Brückenbauprogramm: Fuß- und Radwegbrücken in München Beschluss des Bauausschusses vom 15.10.2009 siehe auch UA StA TOP B 5.2.4
+- TOP 3.4.: Mittlerer Ring (B 2 R) - Machbarkeitsstudie Isarring / Ifflandstr. Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 Sitzungsvorlage Nr. 08-14 / V 03019
+- TOP 3.5.: Metropolregion konkret: Verkehrspotenziale der U6-Verlängerung nach Neufahrn umfassend ausloten Antrag Nr. 08-14 / A 00280 von Herrn Stadtrat Dr. Georg Kronawitter vom 19.09.2008 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.09.2009 Sitzungsvorlage Nr. 08-14 / V 02623
+- TOP 3.6.: Baustelleneinrichtung in der Grünanlage an der Biedersteiner Str. 22-32 Lfd.Nr. M3386/09
+- TOP 3.7.: Bänke Gohrenwiese / Schwabing (Schreiben des Bürgermeisters; 28.10.2009)
+- TOP 3.8.: Weihnachtsbeleuchtung im städtischen Einflussbereich Beschluss des Bauausschusses vom 17.11.2009 Sitzungsvorlage Nr. 08-14 / V 03182
+- TOP 3.9.: Verlagerung des Parkstreifens auf die gegenüberliegende Fahrbahnseite auf der Situlistraße BA-Antrag Nr. 08-14 / B 01498 des Bezirksausschuss 12 - Schwabing-Freimann - vom 29.09.2009 (KVR; 02.11.2009)
+- TOP 3.10.: Neubeschilderung am U-Bahnhof Freimann zum ASZ (MVG; 09.11.2009)
+- TOP 3.11.: Filmaufnahmen auf öffentlichem Verkehrsgrund; Hilsbacherstr. 20
+- TOP 3.12.: PERSPEKTIVE München "Leitlinie Gesundheit"
+- TOP 3.13.: Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV Münchner Freiheit, Feilitzschstraße / Leopoldstraße
+- TOP 3.14.: Baustelle Leinthalerstraße (Baureferat; 10.11.2009 / zu TOP 4.1.10.2009)
+- TOP 3.15.: Feuerwerk Königinstraße 34 am 21.11.2009
+- TOP 3.16.: Bauarbeiten Kurwenalstraße 3 (TOP C4.6/10/2009, Schreiben des Baureferates vom 10.11.2009
+- TOP 3.1.: Künstlermarkt an der Leopoldstraße (SPD-Fraktion, Initiative Petra Piloty)
+- TOP 3.2.: Verlegung von Stolpersteinen in der Leopoldstraße
+- TOP 3.1.: Entscheidung über die Gewährung eines Zuschusses aus den Budgetmitteln des BA 12 in Höhe von 3.960,00 ?für die Maßnahme: Fassbindertage im Rationaltheater vom 18.11. - 22.11.2009
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund "Schwabinger Fasching" des Corso Leopold e.V. am 16.02.2010 auf der Leopoldstr. (KVR vom 15.10.2009)
+- TOP 3.2.: Aufstellung von Losverkaufständen - Tombola für München 2010
+- TOP 3.3.: 25. München Marathon am 10.10.2010 mit Trachtenlauf am 09.10.2009
+- TOP 3.4.: "Spielen in der Stadt" - Planung der Einsätze der Münchner Sommer Spielaktion 2010
+- TOP 3.1.: Nachfrage zur Sanierung eines Streetball-Platzes auf dem Spielplatz Clemensstr. / Bismarckstr. (TOP B 16.2 aus der Sitzung vom 30.06.2009)
+- TOP 3.1.: Zentrale Vergabe der Gymnasiumsplätze für alle Münchner Schüler Beschluss des Schulausschusses vom 14.10.2009 incl. Stellungnahme des BA 12 Empfehlung Nr. 08-14 / E 00328 der Bürgerversammlung des Stadtbezirkes 12 vom 07.07.2009
+- TOP 3.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Red Horse Bar (Bar im Bordell "Leierkasten", Ingolstädter Straße 38
+- TOP 3.1.: Schaffung von Jugendbeauftragten in der BA-Satzung
+- TOP 3.2.: Massive Ruhestörung an Wochenenden durch die Gaststätte "Papatakis" (Schreiben des KVR vom 19.10.2009)
+- TOP 3.3.: Berufung der stimmberechtigten Mitglieder und Bekanntgabe der beratenden Mitglieder gemäß Mieterbeiratssatzung (Beschluss des Sozialausschusses vom 22.09.2009 und der Vollversammlung des Stadtrates vom 07.10.2009) Sitzungsvorlage Nr. 08-14 / V 02681 siehe auch im UA Stadtplanung und Architektur TOP 5.2.1
+- TOP 3.4.: Änderung der Mieterbeiratssatzung gemäß Beschluss des Sozialausschusses vom 22.09.2009 und der Vollversammlung des Stadtrates vom 07.10.2009) Sitzungsvorlage Nr. 08-14 / V 02682 siehe auch UA Stadtplanung und Architektur TOP D 5.2.2
+- TOP 3.5.: Erlaubniserteilung zur Neuerrichtung / Betrieb in Teilhaberschaft der Gaststätte "Ahrabians" in der Heinrich-Groh-Str. 17 (Bescheid des KVR vom 21.10.2009)
+- TOP 3.6.: Verlängerung Zuschuss aus dem Budget des BA12 Theaterwerkstatt Gerhard Weiss
+- TOP 3.7.: Veranstaltung auf öffentlichem Grund Schwabinger Weihnachtsmarkt an der Münchner Freiheit vom 27.11. bis 24.12.2009 2. Nachtrag - geänderter Lageplan Anlage: Erlaubnisbescheid
+- TOP 3.8.: Verwendungsnachweis über die Gewährung eines Zuschusses aus dem Budget des BA 12 für folgende Maßnahmen: a) Klangreden in Weiss-Grün" - Seidlvilla b) Freilichtausstellung Mai - September 2009 - Fröttmaninger Kunst- und Kulturkreis c) musikalisch-szenische Installation "Klangreden in Weiss-Grün" d) Danksagung und Kurzbericht des Mohr-Villa-Chores zum Konzert vom 24.07.2009 e) Projekt "Initiative Lese- und Tanzforum" (Rückzahlung) f) Straßenfest des Evangelisch-Lutherischen Pfarramtes
+- TOP 3.9.: Optimierung von Prozessen und Strukturen; Gender Mainstreaming bei der Haushaltskonsolidierung Beschluss des Kinder - und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 Sitzungsvorlage Nr. 08-14 / V 02802
+- TOP 3.10.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale München Nachhaltigkeit II: Zuschüsse nur ohne ausbeuterische Kinderarbeit Antrag Nr. 08-14 / A 01013 der Stadtratsfraktion DIE GRÜNEN/RL vom 19.08.2009 Beschluss des Kinder- und Jugenhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 Sitzungsvorlage Nr. 08-14 / V 02890
+- TOP 3.11.: Eilentscheidung - Antrag auf Festsetzung einer Veranstaltung Weihnachtsmarkt am Chinesischen Turm
+- TOP 3.12.: Filmaufnahmen auf öffentlichen Verkehrsgrund, Rappoldsteinerstr., Buchhiornerstr., Wünscherstr., Völckerstr., Berzeliusstr., Georg-Wopfner-Str., Lützelsteinstr., Harnierplatz vom 12.11. bis 13.11.2009
+- TOP 3.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 3.1.: Anträge
+- TOP 3.5.: Unterrichtungen
+- TOP 3.2.: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4.: Bürgeranliegen
+- TOP 3.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 3.5.3.: Sonstige Unterrichtungen
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.2.: Neugestaltung des Streetballplatzes in der Bismarckstraße (Bezug zu TOP D 4.1) - <div>nach Antrag</div>
