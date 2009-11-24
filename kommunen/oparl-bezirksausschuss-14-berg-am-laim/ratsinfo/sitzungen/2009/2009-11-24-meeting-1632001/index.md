@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-11-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1632001
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1632001
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Bebauungsplan mit Grünordnung Nr. 1539 ? Töginger Str./ BAB A 94 (südlich), Bahnlinie München-Mühldorf (nördlich), S-Bahnlinie München-Ismaning (östlich) ? Hüllgraben -
+- TOP 3.1.: Busverbindung U-Bahnstation (U5) Michaelibad und U-Bahnstation (U2) Josephsburg
+- TOP 3.2.: Dingolfinger Straße ? Haltverbote im Bereich der Bauminseln
+- TOP 3.3.: Grüner Linksabbiegepfeil an der Ampelanlage Kreiller-/ St.-Veit-Straße
+- TOP 3.4.: Verkehrs- und Parkplatzsituation an der Neumarkter Straße / Weihenstephaner Straße
+- TOP 3.5.: Verkehrsentwicklung in Trudering-Riem; LKW-Führungskonzept
+- TOP 3.6.: Beschleunigung der Buslinie 55 zwischen Diakon-Kerolt-Str. und Waldheimplatz
+- TOP 3.7.: Verkehrsentwicklung München Ost
+- TOP 3.8.: Christkindlmarkt in der Baumkirchner Straße am 06.12.2009 ? Anhörung
+- TOP 3.9.: Einbahnregelung Freisinger Straße
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Belange und Zielsetzungen des Quartiers Echardinger Str./ Bad Schachener Str. / Fehwiesenstr. / Innsbrucker Ring
+- TOP 3.2.: Bebauungsplan Nr. 1971 ? Stellungnahme zur Grundschulversorgung
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Schaffung von Jugendbeauftragten in der BA-Satzung
+- TOP 3.2.: Gedenkveranstaltung am 12.11.2009 -. Schriftverkehr
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Hochriesstraße 3 ? Neubau zweier Einfamilienhäuser mit Garagen
+- TOP 3.2.: Sonnwendjochstr. 54 ? Neubau eines Dreispänners mit Garagen
+- TOP 3.3.: Freilassinger Str. 21a ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.4.: Berg-am-Laim-Str. 100 ? Antrag auf Erteilung einer Baumfällungsgenehmigung
+- TOP 3.5.: Baumfällungen im Umfeld des Piusplatzes
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Schüleinplatz 5 - Abbruchanzeige
+- TOP 4.3.: ?+1Club? (ehemals 100 Grad) ? Friedenstr. 10 ? Unveränderte Fortführung
+- TOP 4.4.: ?Drei Türme? - Friedenstr. 10 ? Unveränderte Fortführung
+- TOP 4.5.: Winterdienst 2009 / 2010 ? Allgemeine Übersicht der Einsatzgebiete
+- TOP 4.6.: Wertstoffinsel Annabrunner Straße ? Schreiben Hausverwaltung
+- TOP 4.7.: Wertstoffinsel Annabrunner Straße ? Schreiben Rechtsbeistand
+- TOP 4.8.: Fuß- und Radwegbrücken in München
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: PERSPEKTIVE MÜNCHEN Leitlinie ?Kinder- und Familienpolitik? Leitprojekt 1 ?Kinder- und familienfreundliches Wohnen? - Empfehlungen für kinder- und familiengerechtes Wohnen - Maßnahmen zur Verbesserung der Wohnberatung
+- TOP 4.2.: München sozial ? Entwicklungen 1999 - 2008
+- TOP 4.1.: Sitzungs- und Bürgerversammlungstermine 2010
+- TOP 4.2.: Teilnahme der Bezirksausschüsse an Wettbewerben: hier: Benennung und Entsendung von Stellvertretern
+- TOP 4.3.: 5. Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am 08.10.2009
+- TOP 4.4.: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 4.5.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018 - Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book)
+- TOP 4.6.: Förderkreis Grafingerschule - Schriftverkehr
+- TOP 4.7.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse
+- TOP 4.8.: Ludwig-Thoma-Realschule - Zuwendungsbescheid
+- TOP 4.9.: Theater des hölzernen Gelächters - Zuwendungsbescheid
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Talerweg 8a - Baumfällungsunterrichtung
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
