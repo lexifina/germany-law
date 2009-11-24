@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-11-24T17:00:00+01:00
+- Ende: 2009-11-24T20:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2648
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2648
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126193.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126193.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126193.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung
+- TOP 2: Genehmigung Niederschrift
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Regenrückhaltebecken "In der Flieth" - zur Kenntnis genommen
+- TOP 5: FNP-Änderung Nr. 138 - Ehemaliges Glashüttengelände - zur Kenntnis genommen
+- TOP 6: Nikolausmarkt auf dem Apostelplatz - zur Kenntnis genommen
+- TOP 7: Zuschüsse - zur Kenntnis genommen
+- TOP 8: Sitzungstermine der Bezirksvertretung 7 im Jahr 2010 - zur Kenntnis genommen
+- TOP 9: Verwendung von Haushaltsmitteln - zur Kenntnis genommen
+- TOP 10: Bezirksempfang 2010 - zur Kenntnis genommen
+- TOP 11: Einsatz des mobilen Jugendzentrums "Of(f)-Road Bus" in Gerresheim - zur Kenntnis genommen
+- TOP 12: Radweg Torfbruchstraße fortsetzen - zur Kenntnis genommen
+- TOP 13: Wifi im Rathaus Gerresheim - zur Kenntnis genommen
+- TOP 14: Grundwasseruntersuchung Bereich Quellenbusch - zur Kenntnis genommen
+- TOP 15: Impfaktion gegen Schweinegrippe - zur Kenntnis genommen
+- TOP 16: Wanderwege Golfplatz Kosaido - zur Kenntnis genommen
+- TOP 17: Rheinbahn-Haltestelle "Stratenhofsiedlung" - zur Kenntnis genommen
+- TOP 18: Barrierefreie Haltestellen - zur Kenntnis genommen
+- TOP 19: Reduzierung des Einsatzes von Niederflurstraßenbahnen auf der Linie 703 - zur Kenntnis genommen
+- TOP 20: Schulsportanlage Peckhausweg Schulsportanlage Peckhausweg - zur Kenntnis genommen
+- TOP 21: Gelände der Bergischen Kaserne in Hubbelrath - zur Kenntnis genommen
+- TOP 22: Güterzugstrecke 2324 im Bereich Staufenplatz / Wittelsbachstraße - zur Kenntnis genommen
+- TOP 23: Presseberichterstattung über den Quellenbusch - zur Kenntnis genommen
+- TOP 24: Schieberstation der CO-Pipeline am Gollenbergsweg - zur Kenntnis genommen
+- TOP 25: Graffiti Bergische Landstraße - zur Kenntnis genommen
+- TOP 26: Weiterführung der Straßenbahnlinie 703 in das Glashüttengelände - zur Kenntnis genommen
+- TOP 27: Abwasserkanalnetz im Bereich Gallberg - zur Kenntnis genommen
+- TOP 28: Überweg Unter den Eichen/Heyestraße/Dörpfeldstraße - zur Kenntnis genommen
+- TOP 29: Einrichtung eines Wochenmarktes auf der Dreherstraße - zur Kenntnis genommen
+- TOP 30: Kinderspielplatz Limburgstraße - zur Kenntnis genommen
+- TOP 31: Kinderspielplatz Gutenbergstraße/Radweg - zur Kenntnis genommen
+- TOP 32: Baumschnitt Bergische Landstraße - zur Kenntnis genommen
+- TOP 33: Planierung Fußweg Dernkamp - zur Kenntnis genommen
+- TOP 34: Überholverbot Torfbruchstraße - zur Kenntnis genommen
