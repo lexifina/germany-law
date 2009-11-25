@@ -1,0 +1,106 @@
+---
+ecli: "ECLI:DE:BVerfG:2009:rk20091125.1bvr246409"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "1"
+aktenzeichen: "1 BvR 2464/09"
+decided: "2009-11-25"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 25. November 2009\n- 1 BvR 2464/09 -, Rn. 1-7,\n                    https://www.bverfg.de/e/rk20091125_1bvr246409"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/11/rk20091125_1bvr246409.html"
+corpus_doc_id: "BVerfG_2009-11-25_K_1_BvR_2464_09_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0092.md", "germany/bund/acts/bverfgg/0093.md", "germany/bund/acts/bverfgg/0093a.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/grundgesetz/artikel/103.md"]
+---
+
+# Bundesverfassungsgericht, 1 BvR 2464/09 vom 2009-11-25
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 1 BVR 2464/09 -
+
+                                 In dem Verfahren
+                                       über
+                           die Verfassungsbeschwerde
+des Herrn B...
+
+- Bevollmächtigte: Rechtsanwältin Gudrun Fuchs,
+                   Maximilianstraße 14/III, 93047 Regensburg -
+gegen a) den Beschluss des Amtsgerichts Regensburg vom 4. September 2009 -
+         1 UR II 622/07 -,
+
+       b) den Beschluss des Amtsgerichts Regensburg vom 30. Juli 2009 - 1 UR II
+          622/07 -,
+
+       c) den Beschluss des Amtsgerichts Regensburg vom 9. Juli 2007 - 1 UR II
+          622/07 -
+
+hat die 2. Kammer des Ersten Senats des Bundesverfassungsgerichts durch
+                                  die Richterin Hohmann-Dennhardt
+                                  und die Richter Gaier,
+                                  Kirchhof
+
+gemäß § 93b in Verbindung mit § 93a BVerfGG in der Fassung der Bekanntmachung vom 11. August 1993 (BGBl I S. 1473) am 25. November 2009 einstimmig
+beschlossen:
+
+Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen.
+
+                                      Gründe:
+ Die Verfassungsbeschwerde wird nicht zur Entscheidung angenommen. Annahmegründe nach § 93a Abs. 2 BVerfGG liegen nicht vor.
+
+  Soweit sich der Beschwerdeführer auf die Entscheidung der 2. Kammer des Ersten          2
+Senats des Bundesverfassungsgerichts vom 11. Mai 2009 - 1 BvR 1517/08 - (AnwBl
+2009, S. 645) beruft und eine Verletzung der Rechtswahrnehmungsgleichheit rügt,
+greift er damit inhaltlich auch die Entscheidung des Rechtspflegers vom 9. Juli 2007
+an. Seine Rüge ist insoweit jedoch nicht fristgemäß erhoben. Auch wenn der fachgerichtliche Rechtsbehelf grundsätzlich unbefristet möglich ist, wird die Monatsfrist des
+§ 93 Abs. 1 Satz 1 BVerfGG nur offengehalten, wenn der nicht befristete Rechtsbehelf innerhalb der für das Verfassungsbeschwerdeverfahren geltenden Einlegungsfrist erhoben wird (vgl. BVerfGE 19, 198 <200>; BVerfGE 76, 107 <115 f.>; BVerfGK
+3, 159 <163>; BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 25. Oktober 2000 - 2 BvR 1804/00 -, juris; BVerfG, Beschluss der 1. Kammer des Ersten Senats vom 24. Juli 1995 - 1 BvR 1822/94 -, NJW 1995, S. 3248; BVerfG Beschluss der
+
+                                          1/3
+
+1. Kammer des 2. Senats vom 17. September 1998 - 2 BvR 1278/98 -, juris; BVerfG,
+Beschluss der 1. Kammer des Zweiten Senats vom 24. April 1998 - 2 BvR 1598/96 -,
+juris; Hömig in: Maunz/Schmidt-Bleibtreu/Klein/Bethge, BVerfGG, § 93 Rn. 36 <Mai
+2009>).
+
+  Es sind auch die Anforderungen an eine substantiierte Begründung nach § 23 Abs.      3
+1 Satz 2, § 92 BVerfGG nicht erfüllt. Bezüglich des vom Bundesverfassungsgericht
+formulierten Maßstabs der Rechtswahrnehmungsgleichheit für die Bewilligung von
+Beratungshilfe sind die Einzelfallumstände substantiiert darzulegen. Insoweit reicht
+es nicht aus, wenn der Beschwerdeführer ohne Vorlage der erheblichen Unterlagen
+die Notwendigkeit rechtlicher Beratung lediglich behauptet.
+
+  Bezüglich der Rüge des Art. 103 Abs. 1 GG setzt sich der Beschwerdeführer nicht      4
+mit dem Gewährleistungsgehalt des rechtlichen Gehörs auseinander. Der Gehörsgrundsatz verpflichtet die Gerichte, die Ausführungen der Prozessbeteiligten zur
+Kenntnis zu nehmen und in Erwägung zu ziehen, nicht jedoch der von dem Beteiligten vertretenen Rechtsansicht zu folgen (vgl. BVerfGE 64, 1 <12>; 87, 1 <33>).
+Art. 103 Abs. 1 GG schützt nicht davor, dass das Vorbringen eines Beteiligten aus
+Gründen des formellen oder materiellen Rechts unberücksichtigt bleibt, etwa weil es
+nach Ansicht des Gerichts für die zu treffende Entscheidung unerheblich ist (vgl.
+BVerfGE 21, 191 <194>; 69, 145 <148 f.>; 70, 288 <294>; 96, 205 <216>; stRspr).
+
+  Das Amtsgericht weist darauf hin, dass es sich wegen seiner rechtlichen Auffassung zu Zulässigkeit und Begründetheit der Erinnerung nicht mit den Details der Ausführungen des Beschwerdeführers auseinandersetzte. Insoweit ist ein Verstoß gegen
+Art. 103 Abs. 1 GG nicht hinreichend dargetan. Dieser kann auch nicht mit dem Hinweis auf die nicht zulässig gerügte Rechtswahrnehmungsgleichheit begründet werden.
+
+ Von einer weiteren Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+ Diese Entscheidung ist unanfechtbar.                                                  7
+
+        Hohmann-Dennhardt               Gaier               Kirchhof
+
+
+
+
+                                         2/3
+
+Bundesverfassungsgericht, Beschluss der 2. Kammer des Ersten Senats vom
+25. November 2009 - 1 BvR 2464/09
+
+Zitiervorschlag BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 25. November 2009 - 1 BvR 2464/09 - Rn. (1 - 7), http://www.bverfg.de/e/
+                rk20091125_1bvr246409.html
+
+ECLI           ECLI:DE:BVerfG:2009:rk20091125.1bvr246409
+
+
+
+
+                                     3/3
