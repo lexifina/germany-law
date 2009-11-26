@@ -1,0 +1,7 @@
+# TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: öffentliche Sitzung des Seniorenbeirates im Marienheim Raeren, Spitalstraße 60, B-4730 Raeren/Belgien (2009-11-26)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b93703d1d8f32e9185edaea
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
