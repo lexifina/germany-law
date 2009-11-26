@@ -1,0 +1,59 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Vlotho
+- Beginn: 2009-11-26T17:00:00+01:00
+- Ende: 2009-11-26T18:25:00+01:00
+- Ort: Rathaus, Lange Str. 60, 32602 Vlotho, Sitzungssaal
+- Status: 
+- Gremium: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaEFZpK8yObRcvCGCeTkU5M
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2151
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQxW4oS8RNYTYK3SfbIFxeMP7F9fC1E-puMkabMJx8p_/Oeffentliche_Niederschrift_Rat_26.11.2009.pdf
+
+## Tagesordnung
+
+- TOP A: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die 1. -konstituierende- Sitzung vom 29.10.2009 -öffentlicher Teil-
+- TOP 2.: Verpflichtung eines Ratsmitgliedes
+- TOP 3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.: Genehmigung von dringlichen Entscheidungen gem. § 60 GO
+- TOP 5.: Bericht des Bürgermeisters über wichtige Angelegenheiten
+- TOP 6.: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO
+- TOP 7.1: Verkehrszählung Breslauer Str. - Zur Kenntnis genommen
+- TOP 7.2: Erneuerung der Seebruchstraße - Zur Kenntnis genommen
+- TOP 7.3: Gefahren an der Grundschule Uffeln / Lärmbelästigung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.4: Erneuerung der Fahrbahndecke im Eggeweg - Einstimmig, 0 Enthaltung(en)
+- TOP 7.5: Antrag auf Änderung der Friedhofssatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 7.6: Errichtung/Vervollständigung der Zaunanlage Friedhof Uffeln - Einstimmig, 2 Enthaltung(en)
+- TOP 7.7: Geschwindigkeitsüberschreitungen auf der Buhnstraße im Bereich der Grundschule Uffeln - Einstimmig, 0 Enthaltung(en)
+- TOP 7.8: Durchfahrverbot für Lastkraftwagen im Bereich Rottstraße - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Jahresabschluss 2008 der Vlothoer Wirtschaftsbetriebe - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Neufassung des Beschlusses zur Übertragung von Zuständigkeiten auf die Ausschüsse und den Bürgermeister - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Änderung der Betriebssatzung der Vlothoer Wirtschaftsbetriebe - Einstimmig, 1 Enthaltung(en)
+- TOP 11.: Gebührenbedarfsberechnung für die Übergangsheime für das Jahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Gebührenbedarfsberechnung Abfallentsorgung 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Gebührenbedarfsberechnung Straßenreinigung 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Gebührenbedarfsberechnung Bestattungswesen 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Gebührenbedarfsberechnung 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 16.: Beitrags- und Gebührensatzungsänderungen; hier: Artikelsatzung - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe -Sparte Abwasser- für das Jahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Personal - für das Jahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Innenstadtprojekte - für das Jahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Investitionen bei den Vlothoer Wirtschaftsbetrieben in der Betriebssparte Abwasser im Wirtschaftsjahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Service - für das Jahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Wirtschaftsplan der Vlothoer Wirtschaftsbetriebe - Sparte Straßenneubau - für das Jahr 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Erneuerung von zwei Durchlässen am Güstenbach (Im Grund) - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Oberflächenwasserableitung Harksiek - Entlastung des Straßendurchlasses - Abgesetzt
+- TOP 25.: Anlegung eines Radweges an der Rintelner Straße (L 866) - II BA - - Einstimmig, 0 Enthaltung(en)
+- TOP 26.: Einziehung einer Teilfläche des unbenannten Gemeindeweges im Bereich der Campingplätze Borlefzen, Rintelner Straße - Einstimmig, 0 Enthaltung(en)
+- TOP 27.: Einziehung einer Teilfläche der öffentlichen Straße "Fasanenweg" - Einstimmig, 0 Enthaltung(en)
+- TOP 28.: Verkauf des Busbahnhofs an die Stadtwerke Vlotho GmbH - Einstimmig, 1 Enthaltung(en)
+- TOP 29.: Neubeschaffung eines LKW für den Bauhof - Einstimmig, 0 Enthaltung(en)
+- TOP 30.: Haus des Gastes - Einstimmig, 0 Enthaltung(en)
+- TOP 31.: Bildung eines Fahrgastbeirates - Einstimmig, 0 Enthaltung(en)
+- TOP 32.: Über- und außerplanmäßige Haushaltsausgaben im Haushaltsjahr 2008/2009 - Einstimmig, 0 Enthaltung(en)
+- TOP 33.: Bewilligung von überplanmäßigen bzw. außerplanmäßigen Aufwendungen - Einstimmig, 0 Enthaltung(en)
+- TOP 34.: Fraktionsanträge gem. § 3 der Geschäftsordnung
+- TOP 35.: Anfragen nach § 18 der Geschäftsordnung und Mitteilungen
