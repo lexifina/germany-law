@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-11-26T16:00:00+01:00
+- Ende: 2009-11-26T17:58:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2473
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2473
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126190.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126190.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126190.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 05.11.2009 - einstimmig beschlossen
+- TOP 3: Gumbertstraße - Verbreiterung des Längsparkstreifens - einstimmig beschlossen
+- TOP 4: Parkraumoptimierung im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 5: Weihnachtsmarkt auf dem Gertrudisplatz am 20.12.2009 - einstimmig beschlossen
+- TOP 6: Weihnachtsmarkt in Unterbach am 05. und 06. Dezember 2009 - einstimmig beschlossen
+- TOP 7: Feuerwehr Unterbach (Anfrage CDU - Fraktion) - beantwortet
+- TOP 8: Bürgerhaus Eller, Jägerstraße 31 Bürgerhaus Eller, Jägerstraße 31 (Anfrage SPD-Fraktion) - beantwortet
+- TOP 9: Hortplätze im Stadtbezirk 8 - beantwortet
+- TOP 10: Parkplatz Festenbergstraße - beantwortet
+- TOP 11: Sperrung der Schlossallee für den Durchgangsverkehr in Richtung Heidelberger Straße - einstimmig beschlossen
+- TOP 12: Öffentliche Sitzung des Kriminalpräventiven Rates - zurückgezogen
+- TOP 13: Kriminalpräventiver Rat - einstimmig beschlossen
+- TOP 14: Umgestaltung Gertrudisplatz - mehrheitlich beschlossen
+- TOP 15: Quartierspaten im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 16: Schwimmbad Eller - einstimmig beschlossen
+- TOP 17: Integrationskonferenz im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 18: Sitzungen Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 19: Grundwasserproblematik in Düsseldorf-Vennhausen - vertagt
+- TOP 20: Hundeauslaufplätze - Doggie Bags - einstimmig beschlossen
+- TOP 21: Tempo 30 - Piktogramm Am Hackenbruch - einstimmig beschlossen
+- TOP 22: Grundstück Festenbergstraße - einstimmig beschlossen
+- TOP 23: Wegesanierung Friedhof - Eller - einstimmig beschlossen
+- TOP 24: Gehweg Haltestelle Friedhof - Eller - einstimmig beschlossen
+- TOP 25: Internetzugang im Rathaus Eller - zur Kenntnis genommen
+- TOP 26: Ballspielwiese Kinderspielplatz Coburger Weg - zur Kenntnis genommen
+- TOP 27: Kinderspielplatz Am Hackenbruch - zur Kenntnis genommen
+- TOP 28: Fuß- / Ragwegeinmündung Am Hackenbruch - zur Kenntnis genommen
+- TOP 29: Jägerstraße - zur Kenntnis genommen
+- TOP 30: Sitzungstermine der Bezirksvertretung 8 im Jahre 2010 - zur Kenntnis genommen
+- TOP 31: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 32: Gehölzrodungen und Umwandlungsmaßnahmen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 33: Jägerstraße - Geschwindigkeitsüberwachung - zur Kenntnis genommen
+- TOP 34: Grundwassersituation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Renaturierung Eselsbach - zur Kenntnis genommen
+- TOP 36: Einrichtungen mit Hortplätzen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Schulwegsicherung Vennhauser Allee - zur Kenntnis genommen
+- TOP 38: Toilettenanlage Gertrudisplatz - zur Kenntnis genommen
+- TOP 39: Bedarfsampel Gubener Straße / Grünberger Weg - zur Kenntnis genommen
+- TOP 40: Buslinen 721 / 722 - zur Kenntnis genommen
