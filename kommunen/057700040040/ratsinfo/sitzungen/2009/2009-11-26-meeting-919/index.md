@@ -1,0 +1,63 @@
+# Rat (2. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2009-11-26T17:00:00+01:00
+- Ende: 2009-11-26T18:00:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdn442Uo3flSJ27m4eYcNXU
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/919
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfPwMnd9tyBYgPcqW8P_DBlRkPB04v1RAt0OoCu20AwK/Bekanntmachung_Rat_26.11.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYAgBCD9AzmlQBvHhifMzU1w4ihlFn2EZnKEwec93yCQ/Oeffentliche_Niederschrift_Rat_26.11.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Wahl der Mitglieder und Stellvertreter in die Gesellschafterversammlung der Wirtschaftsförderungsgesellschaft Rahden
+- TOP 5.: Wahl von 3 Mitgliedern des Beirates der Stiftung "Standort: hier" der Stadtsparkasse Rahden
+- TOP 6.: Wahl von 5 Mitgliedern und Stellvertretern in die Schulverbandsversammlung des Förderschulverbandes Espelkamp
+- TOP 7.: Wahl von 4 Mitgliedern und Stellvertretern in die Verbandsversammlung des Zweckverbandes Volkshochschule Altkreis Lübbecke
+- TOP 8.: Wahl von 4 Mitgliedern und Stellvertretern in die Verbandsversammlung des Musikschulverbandes Espelkamp-Rahden-Stemwede
+- TOP 9.: Wahl eines Vertreters und Stellvertreters in die Gesellschafterversammlung der Minden-Herforder Verkehrsgesellschaft mbH
+- TOP 10.: Wahl eines Vertreters und Stellvertreters in die Betriebsgesellschaft Radio Minden-Lübbecke GmbH & Co. KG
+- TOP 11.: Wahl von 4 Mitgliedern und Stellvertretern in die Mitgliederversammlung des Nordrhein-Westfälischen Städte- und Gemeindebundes
+- TOP 12.: Wahl eines Vertreters und Stellvertreters für die Mitgliederversammung der Interessengemeinschaft Standortförderung Kreis Minden-Lübbecke (IGS)
+- TOP 13.: Wahl von 3 Mitgliedern und Stellvertretern für den Kindergartenausschuss Rahden
+- TOP 14.: Wahl von 3 Mitgliedern und Stellvertretern in den Ausschuss und den Kindergartenrat der Kindertagesstätte Rahden
+- TOP 15.: Wahl von 3 Mitgliedern und Stellvertretern in den Ausschuss für die Kindertagesstätte "Spatzennest"
+- TOP 16.: Wahl von 3 Mitgliedern und Stellvertretern in den Kindergartenausschuss Pr. Ströhen
+- TOP 17.: Wahl von 3 Mitgliedern und Stellvertretern in den Kindergartenausschuss Wehe-Tonnenheide
+- TOP 18.: Wahl eines Mitgliedes und stellvertretenden Mitgliedes für den Vorstand der Fischereigenossenschaft Rahden und Umgebung
+- TOP 19.: Neufassung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Erlass der 3. Satzung vom __________ zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Rahden vom 30.06.2005 - Einstimmig, 0 Enthaltungen
+- TOP 21.: Beratung über durchzuführende Investitionsmaßnahmen im Rahmen des Konjunkturpaketes II - Einstimmig, 0 Enthaltungen
+- TOP 22.: 1. Änderung des Bebauungsplanes Nr. 46 "Pr.-Ströhen-Altenheim" sowie 66. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 23.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2008; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 24.: Pflichtprüfung des Wasserwerkes der Stadt Rahden für das Wirtschaftsjahr 2008; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 25.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung" für das Wirtschaftsjahr 2010 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2010 - Einstimmig, 0 Enthaltungen
+- TOP 27.: Angliederung der Bäder an den Eigenbetrieb Wasserwerk der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 28.: Besetzung der Schulleiterstelle an der Ev. Grundschule Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 29.: Beratung über die Gültigkeit der am 30. August 2009 durchgeführten Wahlen des Bürgermeisters und des Rates der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 30.: Bekanntgaben
+- TOP 31.: Verschiedenes
+- TOP 31.1: Kreisverkehr Mühlenstraße
+- TOP 31.2: Pappel-Bruch "An der Burgweide" Rahden-Kleinendorf
+- TOP 31.3: Lindenallee an der K85 in Varlheide
+- TOP 31.4: Stadtbus
+- TOP 31.5: Bahnhof Rahden
+- TOP 31.6: DSL für Rahden
+- TOP 31.7: Sanierung der Straße "Vordamm"
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 32.: Grundstücksangelegenheiten
+- TOP 32.1: Bekanntgabe der im III. Quartal 2009 abgeschlossenen Grundstücksverträge
+- TOP 33.: Bekanntgaben
+- TOP 34.: Verschiedenes
+- TOP 34.1: Bauvorhaben an der Weher Straße/Gartenstraße
+- TOP 34.2: Lehrermangel an den Schulen
+- TOP 34.3: Planungsentwurf für den Neubau des Feuerwehrgerätehauses der Feuerwehr Pr. Ströhen
