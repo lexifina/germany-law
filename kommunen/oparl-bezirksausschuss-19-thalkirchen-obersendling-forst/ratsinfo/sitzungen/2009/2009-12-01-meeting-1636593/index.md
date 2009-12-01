@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2009-12-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1636593
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1636593
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 03.11.09
+- TOP 1.6.: Ausbau von Radwegen im 19. Stadtbezirk
+- TOP 2: Anträge
+- TOP 2.1.: Nutzung der Brachfläche Ecke Limmatstr. / Züricher Straße
+- TOP 2.2.: Aktualisierung des Beschlusses zur "Zivilcourage" vom 06.10.09
+- TOP 2.3.: Erhalt der denkmalgeschützten Lokschuppen am ehem. Thalkirchner Bahnhof
+- TOP 2.4.: Sperrung Schmiedberg für Fahrzeuge ab 15t
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Miteinander leben in Fürstenried e.V.
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Neunkirchner Str. 36
+- TOP 5.2.: Verkehrssituation Wilhelm-Leibl-Platz
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Änderung des Bebauungsplanes Nr. 71b
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Betriebsträgerschaft des Mobilen Vorlaufprojekts Obersendling; Auswertung des Interessenbekundungsverfahrens
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: (E) TSV München-Solln e.V. Neubau einer Zweifach-Sporthalle an der Herterichstraße 1. Gewährung eines Zuschusses und eines Darlehens 2. Änderung des MIP 2009-2013
+- TOP 8.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln Widmung einer Teilstrecke der Becker-Gundahl-Straße und einer Teilstrecke der Sollner Straße
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern Antrag des BA10 - Moosach vom 29.07.09 (Nr. B01302)
+- TOP 9.2.: Gaststättenpächterwechsel Hofmannstr. 34
+- TOP 9.3.: Antrag auf Zweckentfremdung Königswieser Straße
+- TOP 9.4.: Antrag auf Zweckentfremdung Feldafinger Platz
+- TOP 9.5.: Antrag auf Zweckentfremdung Hadorfer Straße
+- TOP 9.6.: Antrag auf Zweckentfremdung Herterichstraße
+- TOP 9.7.: Antrag auf Zweckentfremdung Minorstraße
+- TOP 9.8.: Werbeanlage Zielstattstr. 63 (Tektur)
+- TOP 9.9.: Blumenverkaufsstand Schäftlarn-/Pognerstraße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
