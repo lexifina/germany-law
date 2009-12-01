@@ -1,1 +1,1 @@
-# Bremisches Gesetz für Eigenbetriebe des Landes und der Stadtgemeinden in der Fassung vom 3. September 2001
+# Bremisches Gesetz für Eigenbetriebe und sonstige Sondervermögen des Landes und der Stadtgemeinden (Bremisches Sondervermögensgesetz - BremSVG) vom 24. November 2009
