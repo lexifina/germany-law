@@ -1,0 +1,6 @@
+# TOP 4: Niederschrift 24. Sitzung
+
+- Sitzung: Freizeit-, Sport- und Bäderausschuss (2009-12-01)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/112578
