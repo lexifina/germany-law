@@ -1,0 +1,80 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2009-12-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1572938
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1572938
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Wertstoffcontainer Friedenheimer Str. 33
+- TOP 1.3: Benennung eines / einer Seniorenbeauftragen
+- TOP 2: Anträge
+- TOP 2.1.: Parteiübergreifender Antrag der FDP-, CSU- und SPD-Fraktion: Maibaum auf dem Laimer Anger
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 für einen mobilen Fahrradständer; Agnes-Bernauer-Str. 75
+- TOP 3.2.: Beschlussvorlage Direktorium vom 10.11.09: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 9.950 Euro für Kauf von Sportausrüstung (Bälle und Trikots); Antragsteller: SV München Laim e.V.
+- TOP 3.3.: Beschlussvorlage Baureferat: Vollzug des Bayer. Straßen- und Wegegesetzes im Stadtbezirk 25 Laim; Widmung der Gesamtstrecke der U-Straße 1484
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 26.10.09: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern
+- TOP 4.2.: Schreiben KVR vom 04.11.09: Bauernmarkt auf dem Laimer Anger ab 06.11.09 =&gt; dazu auch Schreiben der Markthallen München vom 29.10.09
+- TOP 4.3.: Schreiben Spielen in der Stadt e.V. vom 11.11.09: Planung der Einsätze der Münchner Sommer SpielAktion 2010
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 155: Nutzungsänderung / Umbau Verwaltungsgebäude, 4-gruppige Kinderkrippe; hier: Baupläne
+- TOP 5.2.: Landsberger Str. 263-273: Modernisierung mit DG-Aufstockung, Anbringen von Wärmedämmung und Balkonanbau (Landsberger Str. 263-271), Neubau (Landsberger Str. 273); hier: Baupläne und Baumfällungen
+- TOP 5.3.: Landsberger Str. 191-191a: Um- und Neubau gemischt genutzter Gebäude / Vorbescheid; hier: Baupläne und Baumfällungen
+- TOP 5.4.: Schäufeleinstr. 20-20a: Neubau eines Mehrfamilienhauses (12 WE) mit Tiefgarage; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kulturreferat vom 08.10.09: Stadtteilwoche Laim 2010; Einladung zu den Vorbereitungssitzungen am 30.11.09 und 25.01.10
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 03.11.09
+- TOP 7.2.: Sitzung des UA Kultur vom 09.11.09
+- TOP 7.3.: Sitzung des UA Soziales, Schule und Sport vom 12.11.09
+- TOP 7.4.: Sitzung des UA Planen / Bauen vom 25.11.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 30.10.09: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse
+- TOP 8.2.: Schreiben Direktorium vom 03.11.09: Verwendungsnachweis über einen Zuschuss aus dem BA-Budget; Antragsteller: Kath. Pfarrei Zu den Hl. 12 Aposteln
+- TOP 8.3.: Schreiben Direktorium vom 11.11.09: Zuwendung aus dem Budget des BA 25, Widerrufsbescheid; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 8.4.: Schreiben Abfallwirtschaftsbetrieb München vom 22.10.09: Wiederaufnahme des Kunststoff-Verpackungsmaterials an den Wertstoffhöfen (Antrag des BA 25 Nr. 08-14 / B 01514 vom 06.10.09)
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 29.10.09: Nächtliche Beleuchtung des Büro- und Geschäftsgebäudes Landsberger Straße 374 (Antrag des BA 25 Nr. 02-08 / B 02993 vom 04.03.08)
+- TOP 8.6.: Schreiben Baureferat vom 30.09.09: Winterdienst 2009 / 2010
+- TOP 8.7.: Schreiben Sozialreferat vom 02.11.09: Nutzung des Landes / Büro im ASZ Laim für den BA, Vereine sowie weitere kulturelle und soziale Initiativen (Antrag Nr. 08-14 / B 01315 des BA 25 vom 07.07.09)
+- TOP 8.8.: Schreiben Sozialreferat vom 22.10.09: Genehmigung der Zweckentfremdung von Wohnraum durch Abbruch; Agricolastraße
+- TOP 8.9.: Schreiben Sozialreferat vom 19.10.09: Broschüre "Das kommunale Wohnungsbauprogramm in München"
+- TOP 8.10.: Schreiben KVR vom 04.11.09: Gaststätte "Club 1001 Nacht"; unveränderte Fortführung
+- TOP 8.11.: Schreiben KVR vom 27.08.09: Haltverbot an der Bushaltestelle Pronnerplatz (MVG-Linie 131 Richtung Rindermarkt) in der südlichen Anliegerfahrbahn der Landsberger Straße
+- TOP 8.12.: Schreiben Kulturreferat vom 03.11.09: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 19.10.09
+- TOP 8.13.: Schreiben Planungsreferat vom 27.10.09: Bauvorhaben Lanzstr. 18b - 20; Neubau eines Wohn- und Geschäftshauses / Vorbescheid
+- TOP 8.14.: Schreiben Planungsreferat vom 06.11.09: Agricolastr. 97; Neubau einer Doppelhaushälfte mit Garage - Haus1-4
+- TOP 8.15.: Bautenliste vom 19.10.-25.10.09 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 191
+- TOP 8.16.: Bautenliste vom 26.10.-01.11.09 1. Erstantragsverfahren a) Agricolastr. 57 b) Flotowstr. 45 2. Änderungsverfahren a) Landsberger Str. 263
+- TOP 8.17.: Bautenliste vom 02.11.-08.11.09 1. Änderungsverfahren a) Vosslerstr. 4 b) Agricolastr. 99
+- TOP 8.18.: Bautenliste vom 09.11.-15.11.09 1. Erstantragsverfahren a) Aindorferstr. 155 b) Veit-Stoß-Str. 55 2. Änderungsverfahren a) Schäufeleinstr. 20
+- TOP 8.19.: Schreiben Planungsreferat vom 29.10.09: Liste der beantragten Baumfällungen vom 19.10. - 25.10.09
+- TOP 8.20.: Schreiben Planungsreferat vom 09.11.09: Liste der beantragten Baumfällungen vom 02.11.-08.11.09
+- TOP 8.21.: Schreiben Planungsreferat vom 16.11.09: Liste der beantragten Baumfällungen vom 09.11.-15.11.09
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 26.10.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 26.10.09
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 02.11.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 02.11.09
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 09.11.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 09.11.09
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 16.11.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 16.11.09
+- TOP 8.26.: Beschluss der Vollversammlung vom 07.10.09: Neuer Mieterbeirat; Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder (Sitzungsvorlagen Nr. 08-14 / V 02681)
+- TOP 8.27.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.09: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit (Sitzungsvorlagen Nr. 08-14 / V 02890)
+- TOP 8.28.: Beschluss der Vollversammlung vom 28.10.09: Perspektive München, Langfristige Siedlungsentwicklung (Sitzungsvorlagen Nr. 08-14 / V 02475)
+- TOP 8.29.: Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitsausschusses und des Umweltausschusses in der gemeinsamen Sitzung vom 10.11.09: Perspektive München; Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "kinder- und familiengerechtes Wohnen" (Sitzungsvorlagen Nr. 08-14 / V 02891)
+- TOP 8.30.: Beschluss des Schul- und Sportausschusses vom 11.11.09: Neubau einer Kindertagesstätte mit 3 Kindergarten- und 4 Hortgruppen an der Camerloherstraße 108; Bedarfs- und Konzeptgenehmigung sowie Projektauftrag (Sitzungsvorlagen Nr. 08-14 / V 03059)
+- TOP 8.31.: Beschluss der Vollversammlung vom 11.11.09: Bewerbung um die Olympischen und Paralymischen Winterspiele 2018, Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book) (Sitzungsvorlagen Nr. 08-14 / V 03101)
+- TOP 8.32.: Beschluss des Bauausschusses vom 17.11.09: Weihnachtsbeleuchtung im städtischen Einflussbereich (Sitzungsvorlagen Nr. 08-14 / V 03182)
+- TOP 8.33.: Schreiben von LILALU vom 21.10.09: Dank für Bereitstellung von Budgetmitteln für pädagogische Maßnahmen
+- TOP 8.34.: Schreiben Kath. Pfarramt zu den Hl. Zwölf Aposteln vom 02.11.09: Dank für finanzielle Unterstützung des Pfarrfestes
+- TOP 8.35.: Schreiben Gleichstellungsstelle für Frauen vom 26.10.09: Protokoll des 5. Treffen der Frauen- und Genderbeauftragte der Bezirksausschüsse am 08.10.09 sowie Einladung zur Sitzung am 15.12.09
+- TOP 8.36.: Schreiben Spielen in der Stadt vom 12.11.09: Sachbericht zum Verwendungsnachweis
+- TOP 8.37.: Schreiben Kath. Öffentliche Bücherei St. Willibald vom 16.11.09: Sachbericht über den gewährten Zuschuss aus dem BA-Budget
+- TOP 8.38.: Schreiben Referat für Gesundheit und Umwelt vom 16.11.09: Mobilfunk (Unterlagen können beim BA-Vorsitzenden eingesehen werden)
+- TOP 8.39.: Schriftverkehr aus der BA-Stizung vom 03.11.09
+- TOP 1.2: Bürgerpost an den BA
