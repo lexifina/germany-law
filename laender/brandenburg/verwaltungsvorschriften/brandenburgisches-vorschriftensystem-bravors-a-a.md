@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2009-11-05 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_sachverst_2009
+- Datum: 2009-12-02 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_vv_eigbv_2009
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,16 +27,10 @@ A |
 
 Aktuelle Fassung
 
-Außerkrafttreten einer Verwaltungsvorschrift
+Aufhebung der Verwaltungsvorschriften des Ministeriums des Innern zur Eigenbetriebsverordnung
 
-vom 5. November 2009
+vom 2. Dezember 2009
 
-(ABl./09, [Nr. 46], S.2351)
+(ABl./09, [Nr. 50], S.2533)
 
-Außerkrafttreten einer Verwaltungsvorschrift
-
-Bekanntmachung des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz
-
-Vom 5. November 2009
-
-Die Verwaltungsvorschrift des Ministers für Ernährung, Landwirtschaft und Forsten über die Zulassung privater Sachverständiger nach § 7 Abs. 1 des Gesetzes zur Ausführung des Lebensmittel- und Bedarfsgegenständegesetzes des Landes Brandenburg vom 3. Mai 1995 (ABl. S. 462) tritt am Tag nach dieser Bekanntmachung im Amtsblatt für Brandenburg außer Kraft.
+Kein Text vorhanden.
