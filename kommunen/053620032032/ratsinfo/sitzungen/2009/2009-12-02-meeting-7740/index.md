@@ -1,0 +1,57 @@
+# Ausschuss für Stadtplanung und Verkehr (1. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-12-02T17:00:00+01:00
+- Ende: 2009-12-02T20:25:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXIlEY5XEKBXbsHJwZy2iFg
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7740
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQT21lrYnm597miOVdr3r6n5KJrBvo3r05sNk4MDS18N/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_02.12.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Verpflichtung der sachkundigen Bürger
+- TOP 2.: Bestellung einer Schriftführerin und eines stellvertretenden Schriftführers für die Erstellung der Niederschriften über die Ausschussbeschlüsse
+- TOP 3.: Einrichtung von Arbeitskreisen
+- TOP 3.1: Einrichtung eines Arbeitskreises Verkehr
+- TOP 3.2: Einrichtung eines Arbeitskreises ÖPNV
+- TOP 3.3: Weiterführung der Kinderunfallkommission
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Umbesetzung von Ausschüssen und Gremien hier: Umbesetzung des Arbeitskreises "Begleitung der Verlegeprojekte Hambachbahn und A4"
+- TOP 5.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 01.09.2009
+- TOP 6.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 6.1: Anregung und Beschwerde gem. § 24 GO NRW hier: 1. Vollsperrung der L 122 2. Geschwindigkeitsmessungen auf der Sindorfer Straße 3. Geschwindigkeitserfassung auf der Sindorfer Straße
+- TOP 7.: Umsiedlung Manheim
+- TOP 7.1: Niederschriften der 28. - 31. Sitzung des Bürgerbeirates Manheim
+- TOP 7.2: Bericht der Verwaltung
+- TOP 8.: Stadtentwicklung
+- TOP 8.1: Leerstandsmanagement in Kerpen
+- TOP 8.2: Standort der geplanten neuen Turnhalle für die Mädchenrealschule Mater Salvatoris in Horrem
+- TOP 9.: Bauleitplanung
+- TOP 9.1: Bebauungsplan TÜ Nr. 6 im Stadtteil Türnich hier: Beschluss zur Aufhebung gem. § 2 (1) BauGB
+- TOP 9.2: Bebauungsplan TÜ 246/4. Änderung "Gewerbe-/Industriegebiet Ville", Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 9.3: Bebauungsplan SI 331 Goethestraße/Kerpener Straße im Stadtteil Sindorf hier: Bauvorhaben Berliner Ring
+- TOP 9.4: Zeitplanung Baugebiet Lammertsheck
+- TOP 9.5: Bolzplatz Vogelrutherfeld
+- TOP 9.6: Entwicklung im Bereich der Eindhovener Straße
+- TOP 10.: Klima- und Immissionsschutz
+- TOP 10.1: Lärmschutz entlang der B 264 hier: Verkehrszählung
+- TOP 11.: Verkehrsplanung
+- TOP 11.1: Niederschrift der 8. Sitzung des Arbeitskreises ÖPNV
+- TOP 11.2: Niederschrift der 2.Sitzung des Arbeitskreises "Begleitung der Verlegeprojekte Hambachbahn und A4" vom 25.11.2009
+- TOP 11.3: Sofortmaßnahmen am Unfallschwerpunkt Erfttalstraße/Knotenpunkt A4
+- TOP 11.4: Umbenennung eines Teilstückes einer Straße im Stadtteil Blatzheim
+- TOP 12.: Städtebauliche Verträge
+- TOP 12.1: Abschluss eines Erschließungsvertrages zum Bauvorhaben der Fa. EMSOL Baubetreuung GmbH in der Eindhovener Straße im Stadtteil Kerpen
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 14.1: Verlegung der Hochspannungsleitung nördlich von Buir/Manheim
+- TOP 14.2: Lärmschutz an der A4
+- TOP 15.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
