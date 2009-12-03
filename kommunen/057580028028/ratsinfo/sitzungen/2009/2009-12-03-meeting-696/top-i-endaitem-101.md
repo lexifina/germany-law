@@ -1,0 +1,6 @@
+# TOP I.: Öffentliche Sitzung
+
+- Sitzung: Ausschuss für Schule, Bildung und Kultur (1. Sitzung) (2009-12-03)
+- Körperschaft: Gemeinde Rödinghausen
+- Öffentlich: ja
+- OParl: https://roedinghausen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/101
