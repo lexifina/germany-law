@@ -1,0 +1,51 @@
+# Bau- und Umweltausschuss (4. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2009-12-03T17:00:00+01:00
+- Ende: 2009-12-03T21:30:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-5
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbaTj8yW4rIK2U5-qgcIPsI
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1474
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ5XCU1wyoZmhQWmByaJpD651CRAgVbziyPwAjN6gGmt/Einladung_Bau-_und_Umweltausschuss_03.12.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bau- und Umweltausschuss) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUUO4Q8tJNqvfS6ASkOO7t3RmbeaM8459FQYFjqaLjiU/Oeffentliche_Niederschrift_Bau-_und_Umweltausschuss_03.12.2009.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Eröffnung der Sitzung
+- TOP A.2: Verpflichtung von Mitgliedern, die nicht Ratsmitglieder sind
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Bestellung von Schriftführern für die Sitzungen des Bau- und Umweltausschusses
+- TOP A.5: Niederschrift des öffentlichen Teiles der Sitzung des Bau- und Umweltausschusses vom 10.09.2009
+- TOP A.6: Fragestunde für Ausschussmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.10: Anträge zur Verbesserung der Verkehrssicherheit für Radfahrer und Fußgänger auf der Laarer Straße a)Antrag der CDU Ortsunion Herford-West und des Umweltvereines Laar Vunal e.V. auf Anlegung eines „Bürgerradweges“ an der Laarer Straße b)Antrag der SPD-Ratsfraktion, der Ratsfraktion Bündnis 90/Die Grünen und weiterer Ratsmitglieder zur Prüfung der baldigen Realisierung eines Rad- und Fußweges an der Laarer Straße und eines evtl. LKW- Verbotes im oberen Teil der Laarer Straße
+- TOP A.11: Herforder Stadttore, Kunst im Straßenraum
+- TOP A.12: Stadtumbau West - Umgestaltung des Magdeburger Platzes 1. Ergänzung zur Vorstellung der Entwurfsplanung
+- TOP A.13: Gebührenhaushalt Abfallbeseitigung a) Änderung der Satzung über die Abfallbeseitigung in der Stadt Herford b) Änderung der Satzung über die Kostendeckung der Abfallbeseitigung in der Stadt Herford
+- TOP A.14: Gebührenhaushalt Straßenreinigung hier: 29. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung
+- TOP A.15: Lärmaktionsplan der Stadt Herford
+- TOP A.16: Bündnis für regionale Baukultur in Westfalen
+- TOP A.17: Maßnahmen des Straßenausbauprogramms, der Grunderneuerung von Gehwegen und Sanierung von Fahrbahnen ab 2010
+- TOP A.18: Quartier "Westring/ Im Kleinen Feld" hier: Vorstellung der Planung Bürgerpark Kleines Feld
+- TOP A.19: FNP-Teiländerung Nr. 1.09 "Grünfläche Wittekindstraße" hier: Entwurfsbeschluss
+- TOP A.20: Änderung Nr. 1.09 des Bebauungsplanes Nr. 7.49a "Wittekindstraße" Hier: Entwurfsbeschluss
+- TOP A.21: FNP- Änderung 3.09 ,, Feuerwehrgerätehaus Schwarzenmoor’’
+- TOP A.22: FNP-Änderung Nr. 2.09 "Nahversorgung Elverdissen" hier: Sachstand und Einleitungsbeschluss
+- TOP A.23: Änderung Nr. 6.09 des Bebauungsplans Nr. 9.21 "Gustav-Nachtigalstr./Umgehungsstraße (Peterstraße)“ hier: Aufstellungsbeschluss
+- TOP A.24: Bebauungsplan Nr. 6.70 "Grüne Straße / Kerkhofs Ort" hier: Aufstellungsbeschluss
+- TOP A.25: Bebauungsplan Nr. 6.65 "Altensenner Weg – Ost“ hier: Satzungsbeschluss
+- TOP A.26: Bebauungsplan Nr. 8.68 "Annastraße/ Am Großen Stein" hier: Satzungsbeschluss
+- TOP A.27: Bebauungsplan Nr. 8.69 "Orthweg" hier: Satzungsbeschluss
+- TOP A.28: Tank- und Rastanlage an der BAB 2 hier: Sachstand zum Planfeststellungsverfahren
+- TOP A.29: Neubau eines Rad- und Gehweges an der B61 zwischen Herford und Löhne durch Straßen NRW hier: Vorstellung der Planung
+- TOP A.30: Bauangelegenheiten hier: Umgestaltung Parkhaus Altstadt
+- TOP A.31: Konzept zur Pflege und Entwicklung des Baumbestandes im Bereich der Herforder Innenstadt hier: Bericht zum Beschluss des Bau- und Umweltausschusses vom 04.12.2008
+- TOP A.32: Baumschutzangelegenheiten
+- TOP A.33: Denkmalschutzangelegenheiten hier: endgültige Eintragung weiterer Objekte a) Doppelwohnhaus Credenstraße 35/37 b) Wohnhaus einschl. Einfriedung Pöppelmannwall 15 c) Wohnhaus und Garagengebäude Weddigenufer 32
+- TOP A.34: Mitteilungen
