@@ -1,0 +1,71 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2009-12-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1595216
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1595216
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Sozialreferat: Schaffung einer Altenpflegeeinrichtung auf dem Grundstück an der Meindlstr. 14 - 16 Schulreferat: Planungen auf dem Grundstück Meindlstraße 14 - 16
+- TOP 2.2.: Sozialreferat: Bebauung der städtischen Grundstücke an der Königsdorfer- und Thalkirchner Str.; Realisierung eines Kindergartens bzw. einer Kooperationseinrichtung, sowie Wohneinheiten für ambulante betreute Altenwohngemeinschaften und Übergangspflege
+- TOP 2.3.: Errichtung von Hundekottütenspendern in Sendling; Neuhofener Anlagen
+- TOP 2.4.: Konzeptionelle Überlegungen zu den Anwesen Kidlerstr. 34 und Plinganserstr. 27 - 31
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010; Benennung von möglichen Einsatzorten
+- TOP 3.2.: Kennzahlenvergleich der 16 großen Großstädte in Deutschland; Armut und soziale Ausgrenzung
+- TOP 4: Schulreferat
+- TOP 4.1.: Erreichbarkeit der Kindertagesstätte Kindervila Theresia in der Fritz-Endres-Straße
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Standortänderung für Parkscheinautomaten im Bereich des Harras
+- TOP 6.2.: Standortänderung für Parkscheinautomaten im Lizenzgebiet Untersendling
+- TOP 6.3.: Personenbezogener Behindertenparkplatz in der Danklstr. 6
+- TOP 6.4.: Personenbezogener Behindertenparkplatz in der Lindwurmstr. 169
+- TOP 6.5.: Verparkung des Kreuzungsbereichs Am Isarkanal / Isarkanalparkplatz
+- TOP 6.6.: Fahrradampel vor dem Schulgebäude an der Implerstraße 35 - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 6.7.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP 6.8.: Schulbushaltestelle Valleystr. (Südbad); Änderung des Zeitzusatzes
+- TOP 6.9.: Standortänderung für den Parkscheinautomaten Lipowskystr. 10; Einrichtung einer Feuerwehrzufahrt
+- TOP 7.1.: Budgetantrag FC Wacker München e. V.; Kauf von Toren, ? 1000,-
+- TOP 7.2.: Budgetantrag Malkurs im ASZ-Sendling; ? 550,-
+- TOP 7.3.: Budgetantrag Himmelfahrtskirche, Ausstellung vom 25.10 - 29.11.09; ? 1407,-
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lindenschmitstr. 3 - 3b
+- TOP 8.3.: Bauvorhaben Gotzinger Straße 52
+- TOP 8.4.: Bauvorhaben Lindwurmstr. 191
+- TOP 8.5.: Bauvorhaben Am Harras 10
+- TOP 8.6.: Ehrenpreis für guten Wohnungsbau; Wohnen im Alter und vorbildliche Sanierung
+- TOP 8.7.: Neuwidmung Isarpromenade zwischen Isarring und Brudermühlstr.
+- TOP 8.8.: Handlungsprogramm Mittlerer Ring; Wohnen am Ring
+- TOP 8.9.: Umbau S-Bahnhof Am Harras
+- TOP 9: Baureferat
+- TOP 9.1.: Christbaum am Herzog-Ernst-Platz
+- TOP 9.2.: Realisierung eines behindertengerechten Baumhauses in der öffentlichen Grünfläche am Neuhofener Berg
+- TOP 9.3.: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 9.4.: Bezirkssportanlage Dietramszeller Str. 9; Neubau eines Sportbetriebsgebäudes mit Gaststätte und Räumen für ein Jugendfreizeitheim sowie teilweise Umgestaltung der Freisportfläche
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Flößergasse 7
+- TOP 10.2.: Baumfällung Thalkirchner Str. 144
+- TOP 10.3.: Baumfällungen Bauvorhaben Steinerstr. 16
+- TOP 10.4.: Baumfällungen im öffentlichen Raum
+- TOP 10.5.: Dokumentation Expertenhearing Baumschutz
+- TOP 10.6.: Baumfällung Bavariastr. 2a
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Wiederaufstellung der Wertstoffcontainer in der Hans-Preißinger-Straße am bisherigen Standort Empfehlung Nr. 08-14 / E 00421 der Bürgerver- sammlung des Stadtbezirkes 06 - Sendling am 29.10.2009 - <div>nach Antrag</div>
+- TOP 12: Anträge
+- TOP 12.1.: Zusammenarbeit des Rewe-Marktes in der Alramstr. mit der Parkräume KG
+- TOP 12.2.: Bericht der PI 15 zur Kriminalitätsentwicklung in Sendling
+- TOP 13: Verschiedenes
+- TOP 13.1.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 13.2.: Verkauf einer städtischen Immobilie; Königsdorfer Str. 15/17
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
