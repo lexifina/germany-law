@@ -1,0 +1,60 @@
+# Haupt- und Finanzausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-12-07T15:00:00+01:00
+- Ende: 2009-12-07T00:00:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/20
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2493
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2493
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126192.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126192.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126192.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung der Schriftführerin des Haupt- und Finanzausschusses - zur Kenntnis genommen
+- TOP 2: Anerkennung TO
+- TOP 3: Genehmigung NS - zur Kenntnis genommen
+- TOP 4: Wahl eines stellvertretenden Vorsitzenden nach § 57 Abs. 3 S. 3 GO - zur Kenntnis genommen
+- TOP 5: Anfrage Bü90/Grü: Verkleinerung von Gesamtschulen - zur Kenntnis genommen
+- TOP 6: Kämmererliste - zur Kenntnis genommen
+- TOP 7: Wirtschaftsplan 2010 des Stadtbetriebs Zentrale Dienste - zur Kenntnis genommen
+- TOP 8: Jahresabschluss und Lagebericht 2008 des Stadtbetriebs Zentrale Dienste - zur Kenntnis genommen
+- TOP 9: Jahresabschluss 2008 und Lagebericht 2008 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 10: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2009 bis 2013 - zur Kenntnis genommen
+- TOP 11: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2010 - zur Kenntnis genommen
+- TOP 12: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum vom 01.01.2010 bis 31.12.2010 - zur Kenntnis genommen
+- TOP 13: Gebührenkalkulation Straßenreinigung für 2010 - zur Kenntnis genommen
+- TOP 14: 20. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupstadt Düsseldorf - zur Kenntnis genommen
+- TOP 15: Gebührenkalkulation Abfall für 2010 - zur Kenntnis genommen
+- TOP 16: Etatberatung 2010 - zur Kenntnis genommen
+- TOP 17: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2010 mit Anlagen - zur Kenntnis genommen
+- TOP 18: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2010 mit Anlagen - zur Kenntnis genommen
+- TOP 19: 1. Veränderungsverzeichnis - zur Kenntnis genommen
+- TOP 20: 2. Veränderungsverzeichnis zum Haushaltsplanentwurf 2010 - zur Kenntnis genommen
+- TOP 21: Stellenplan 2010 - zur Kenntnis genommen
+- TOP 22: Nördlicher Zubringer -AuF- - zur Kenntnis genommen
+- TOP 23: Sonnenstr. 10, GGS, Fassadensanierung , Klassen- und Sondertrakt - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 24: 2. Bauabschnitt Oper - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 25: Sportanlage Niermannsweg SC Unterbach - B+F - zur Kenntnis genommen
+- TOP 26: Sportanlage Im Liefeld - Umbau der Sportanlage - zur Kenntnis genommen
+- TOP 27: Marie-Curie-Str. 9, Gerresheim, Neubau Kindertagesstätte - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 28: Heinrich-Walbröhl-Weg 10, Wittlaer, Neubau Kindertagesstätte mit Jugendfreizeiteinrichtung - Ausführungs- und Finazierungsbeschluss - - zur Kenntnis genommen
+- TOP 29: Brinckmannstr. 16, Sanierung Einfachsporthalle - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 30: Ersatzneubau der JFE Lichtenbroicher Weg - zur Kenntnis genommen
+- TOP 31: Ersatzneubau der JFE Lüderitzstraße - zur Kenntnis genommen
+- TOP 32: Schulorganisatorische Maßnahme an der Städtischen Katholischen Grundschule Leuthenstraße - Auflösung - - zur Kenntnis genommen
+- TOP 33: Schulentwicklungsplan - Maßnahmeplanung Hauptschulen - zur Kenntnis genommen
+- TOP 34: Änderung des Förderprogramms "klimafreundliches Wohnen" - zur Kenntnis genommen
+- TOP 35: sportAgentur Düsseldorf GmbH - zur Kenntnis genommen
+- TOP 36: Aufsichtsrat der sportAgentur Düsseldorf GmbH - Neuwahl - zur Kenntnis genommen
+- TOP 37: Benennung und Einführung eines Einheitlichen Ansprechpartners bei der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 38: Annahme einer Schenkung für das Hetjens-Museum - zur Kenntnis genommen
+- TOP 39: ahresbericht 2008 des Eine-Welt-Beirates - zur Kenntnis genommen
+- TOP 40: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 41: Plan Nr. 5282/021 - Niederrheinstraße - zur Kenntnis genommen
+- TOP 42: FNP-Ä 149-Andreasquartier-Plan - zur Kenntnis genommen
+- TOP 43: BPl5477/124-Andreasquartier-Satzung - zur Kenntnis genommen
