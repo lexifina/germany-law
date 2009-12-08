@@ -1,0 +1,99 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2009-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1578147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1578147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Protokoll der Sondersitzung vom 04.11.2009 und Protokoll der November-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Aufstellung von Hundepollern in der Watzmannstr.; Bürgerantrag vom 13.10.2009
+- TOP 3.2.: Baumpflanzung auf Fahrbahnmittelstreifen; Bürgerantrag vom 22.10.2009
+- TOP 3.3.: Wiederaufnahme meines Antrags vom 13.10.2009 zur Aufstellung von Bänken in der Watzmannstr.; Bürgerantrag vom 13.11.2009
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Fachdienst für ältere Migrantinnen und Migranten der Inneren Mission München e.V., für die Maßnahme: Giesinger LiteraturMenü 2010 im April, Juni u. Oktober 2010; Antragssumme: 900,00 ?; Beschlussvorlage des Direktoriums vom 20.10.2009 (vertagt aus der Sitzung vom 10.11.2009)
+- TOP 4.2.: AntragstellerIn: Fachdienst für ältere Migrant/innen der Inneren Mission München e.V., für die Maßnahme: Auftaktfest Giesinger LiteraturMenü am 22.01.2010; Antragssumme: 1.619,00 ?; Beschlussvorlage des Direktoriums über 1.500,00 ? vom 28.10.2010 (vertagt aus der Sitzung vom 10.11.2009)
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Vollzug von § 13 der BA-Satzung Katalogangelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen) Ichostr. 2, FlNr. 13529/0, Gemarkung Sektion VII; 1 Plakatwand, befristet von 2009 - 2012 Zuleitung des Planungsreferates vom 20.11.2009 mit der Bitte um Stellungnahme innerhalb eines Monats
+- TOP 0.1.: Baufälle 17. Stadtbezirk
+- TOP 0.2.: Weihnachtsbeleuchtung im städtischen Einflussbereich, Auftrag aus dem Beschluss des Bauausschusses vom 18.11.2008, Sitzungsvorlage Nr. 08-14 / V 03182, Beschluss des Bauausschusses vom 17.11.2009
+- TOP 0.3.: Tegernseer Landstr. 25, Fl.Nr. 15729/0, Gemarkung München Sektion VIII; Neubau eines Wohn- und Geschäftsgebäudes mit Rückgebäude und Tiefgarage Schreiben der LBK vom 03.11.2009
+- TOP 0.4.: Gaststätten (unveränderte Fortführungen); Mitteilung des KVR 5.1.4.4.1 SSW "Abbey Road", Kesselbergstr. 4, Mitteilung vom 29.10.2009 5.1.4.4.2 SSW "Cafe Cem & Cenk", Traunsteiner Straße 34, Mitteilung vom 29.10.2009 5.1.4.4.3 SSW "Contact", Herzogstandstr. 24, Mitteilung vom 16.11.2009
+- TOP 0.5.: Bebauungsplan mit Grünordnung Nr. 1995 Welfenstraße (südlich), Schwester-Eubulina-Platz, Tassiloplatz, Bahnlinie München-Rosenheim (nördlich) - Satzungsbeschluss - Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 0.6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftspalnung für den Bereich I/30 Tegernseer Landstraße (nordöstlich), Spixstraße (südöstlich), Perlacher Straße (südlich), Weißenseestraße (nordöstlich) - ehem. Agfa-Gelände Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 0.7.: A) Bebauungsplan mit Grünordnung Nr. 1979 Tegernseer Landstraße (nordöstlich), Spixstraße (südöstlich), Perlacher Straße (südlich), Weißenseestraße (nordöstlich) - ehem. Agfa-Gelände im Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße -Billigungsbeschluss- B) Empfehlung Nr. 08-14 / E 00348 der Bürgerversammlung des Stadtbezirkes 17 -Obergiesing- am 23.06.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 0.8.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung Zustimmung zur Durchführung 2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010; Bitte um Platzvorschläge bis 15.01.2010; Schreiben von Spielen in der Stadt e.V. vom 11.11.2009
+- TOP 0.1.: PERSPEKTIVE MÜNCHEN Leitlinie ?Kinder- und Familienpolitik? Leitprojekt 1 ?Kinder- und familienfreundliches Wohnen? - Empfehlungen für kinder- und familiengerechtes Wohnen - Maßnahmen zur Verbesserung der Wohnberatung Beschluss des Kinder- und Jugendhilfeausschuss, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitsausschusses und des Umweltausschusses in der gemeinsamen Sitzung vom 10.11.2009
+- TOP 0.2.: Zeitgemäße und würdige Leichenhalle im Krankenhaus Harlaching; eigener Raum für trauernde Angehörige / für würdigen Abschied von Verstorbenen; Antwortschreiben des RGU vom 21.10.2009 zum Antrag des BA 17 vom 09.06.2009
+- TOP 0.3.: Minispielfeld Sportanlage St.-Martin-Str. 35; Einhaltung der Immissionsschutzwerte; Antwortschreiben des Sportamts zum Antrag des BA 17 vom 09.06.2009
+- TOP 0.4.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018 Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book) Beschluss der Vollversammlung des Stadtrates vom 11.11.2009
+- TOP 0.5.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung Beschluss des Kinder- und Jugendhilfeausschuss und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2009 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: LZA Neubau an der Kreuzung Heimgarten- / Werinherstraße; Zuleitung des KVR vom 13.10.2009 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 10.11.2009)
+- TOP 0.2.: Beleuchtung des Fußweges "Am Bergsteig" bis Kolumbusplatz; Bürgerschreiben vom 09.11.2009 (vertagt aus der Sitzung vom 10.11.2009)
+- TOP 0.3.: Radquerung Tegernseer Landstraße; Antrag der Fraktion von B90/Die Grünen im Bezirksausschuss 17 vom 28.10.2009 (verwiesen aus der Sitzung vom 10.11.2009)
+- TOP 0.1.: Markierung von Parkplätzen bzw. nicht beparkbaren Bereichen in der Aigner- und Alpenrosenstraße; Antwortschreiben des KVR vom 22.10.2009 zum Schreiben des BA 17 vom 15.10.2009
+- TOP 0.2.: Fahrradständer vor dem Anwesen Brecherspitzstr. 2, Antwortschreiben der Hausverwaltung vom 09.11.2009 zum Schreiben des BA 17 vom 22.10.2009
+- TOP 0.3.: Schwanseestraße Einmündung Weißenseestraße, Querungshilfe Antwortschreiben des Baureferats / Tiefbau vom 11.11.2009 zum Antrag des BA 17 vom 16.02.2008
+- TOP 0.4.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz Antrag Nr. 08-14/ A 00871 von Herrn Stadtrat Manuel Pretzl vom 25.06.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Unterrichtungen der unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1Anwesen Kleinfeldstraße 6; Bescheid vom 09.11.2009
+- TOP 0.2.: PESPEKTIVE MÜNCHEN Leitlinie Gesundheit Schreiben des RGU vom 10.11.2009
+- TOP 0.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Schreiben des Gartenbau vom 14.10.2009
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.7: Berichte der Beauftragten
+- TOP 7.7.7.1: Ausländer/Innen
+- TOP 7.7.7.2: Behinderte
+- TOP 7.7.7.3: Genderfragen
+- TOP 7.7.7.4: Kinder
+- TOP 7.7.7.5: Jugend
+- TOP 7.7.7.6: Senioren/Innen
+- TOP 7.7: Baumschutz
+- TOP 7.7.1: Einzelfälle
+- TOP 7.7.1.1.: Anwesen Warthofstraße ; Anhörung vom 09.11.2009
+- TOP 7.7.2: Baumbestandspläne
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
