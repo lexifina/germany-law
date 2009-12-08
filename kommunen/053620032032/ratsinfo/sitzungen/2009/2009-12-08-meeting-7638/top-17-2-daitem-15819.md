@@ -1,0 +1,6 @@
+# TOP 17.2: Nutzung des ehemaligen Jugendzentrums "Magnet" in Kerpen-Sindorf
+
+- Sitzung: Haupt- und Finanzausschuss (2. Sitzung) (2009-12-08)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/15819
