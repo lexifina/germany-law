@@ -1,0 +1,118 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2009-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1616456
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1616456
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen an die Polizei aus der Sitzung vom 10.11.2009
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben der Grzimek GmbH vom 03.11.2009: Zustand der öffentlichen Anlagen im Museumsareal
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag der FDP-Fraktion im BA 3: Der BA 3 beauftragt den Vorsitzenden, sich beim Landesamt für Denkmalpflege dafür einzusetzen, dass das hintere Rückgebäude in der Kaulbachstraße 35 in die Landesdenkmalliste aufgenommen wird.
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Meldelisten: -Bauvorhaben der LBK, 44. KW -Bauvorhaben der LBK, 48. KW
+- TOP 2.1.2.: Bauvorhaben: -Schellingstraße 135, Sanierungsmaßnahmen mit DG-Ausbau -Karolinenplatz 5, Errichtung eines Raucherunterstandes als Anbau an ein denkmalgeschütztes Gebäude -Schellingstraße 44 VG, Nutzungsänderung im EG: Ladeneinheit zu Feinkostladen mit Imbiss und 25 Sitzplätzen - Von-der-Tann-Straße 2, Umbau und denkmalgerechte Sanierung eines Bürogebäudes, Umge- staltung der Fassade und des Eingangsbereichs im EG, Nutzungsänderung desunterirdi- schen Tresors in eine Technikzentrale sowie Neubau einer unteriridischen Anbindung an die TG der Anwesen Ludwigstraße 6 - 10 - Ludwigstraße 8, Anbau eines 2-geschossigen Büropavillons an ein denkmalgeschütztes Ge- bäude mit neuer Erschließungsanbindung an die Tiefgarage Ludwigstraße 6 - 10 sowie Abriss des eingeschossigen Garagen- und Lagergebäudes -Sandstraße 7-9, Katalog-Angelegenheit Planungsreferat Nr. 8.2 bzw. 8.3 (Werbeanlagen), -Professor-Huber-Platz 2,Katalog-Angelegenheit Planungsreferat Nr. 8.2 bzw. 8.3 (Werbeanlagen): 1 Riesenposter-Werbewechselanlage am Baugerüst, beleuchtet, alternativ montiert an der Nord-, West- oder Südseite, befristet von 1.12.2009 - 31.05.2010
+- TOP 2.1.3.: Beschlussvorlage des Baureferates: Sanierung und Aufwertung des Spielplatzes Tengstraße/am alten Nordfriedhof im 3. Stadtbezirk Maxvorstadt
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Liste der Unteren Naturschutzbehörde: 48. KW
+- TOP 2.2.2.: Nymphenburger Straße 51: eine Robinie Görresstraße 7: eine Birke
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Antrag der FDP-Fraktion im BA 3: An der Haltestelle "Technische Universität" der Buslinie 100 in der Luisenstraße soll das absolute halteverbot auf dem Seitenstreifen durch eine Zickzackmarkierung kenntlich gemacht werden.
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis Obststand Türkenstraße 68 an der Hausmauer der Türkenschule (s. TOP C 2.2.4/1109 - Vertagung -)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Baureferat, Anhörung: Lichtzeichenanlage Georgen-/Tengstraße: bauliche Verbesserung für Fußgänger
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Beschlussvorlage: Aufstellung von Verkaufeinrichtungen auf öffentlichem Grund, 3 Warenauslagen, Augustenstraße 104
+- TOP 2.2.2.: Kreisverwaltungsreferat, Beschlussvorlage: Mobile Fahrradständer, Arcisstr. 40
+- TOP 2.2.3.: Kreisverwaltungsreferat, Beschlussvorlage, mobiler Fahrradständer, Theresienstraße 48
+- TOP 2.2.4.: Kreisverwaltungsreferat, Beschlussvorlage mobiler Fahrradständer, Schellingstraße 62
+- TOP 2.2.5.: Baureferat: Vollzug des Bayer. Straßen- und Wegegesetzes, Projekt "Würfel" vom 09.06. bis 16.06.2010 am Königsplatz
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Anhörung: Kino-Open-Air vom 19.07.2010 bis längstens 30.07.2010
+- TOP 2.4.2.: Kreisverwaltungsreferat, Anhörung: 25. München Marathon am 10.10.2010 mit Trachtenlauf am 09.10.2010
+- TOP 2.4.3.: Faschingsveranstaltung am 16.02.2010 am Siegestor: Veranstalter: G.R.A.L. GmbH
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Platzwahl für Sommer SpielAktion 2010 "Spielen in der Stadt"
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budgetantrag Initiative "Kunstpavillon" Ausstellung vom 22.-29.02.2010 zum Thema Geschwister Scholl, einem Stück positiver Geschichte in der Münchner NS-Zeit.
+- TOP 2.2.: Budgetantrag Kreisjugendring München-Stadt Filmprojekt "Kick it like Kurt - jüdische Wurzeln des FC Bayern"
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: "Konzept für das Kunstareal München entwickeln"; Antrag Nr. 08-14 / A 01146 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.10.2009
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Dachauer Straße 92, Vorbescheid gem. Art. 71 BayBO
+- TOP 1.3.: Baureferat, Gartenbau, Fällung von zwei Gefahrbäumen: mit entsprechenden Ersatzpflanzungen Kindergarten Heßstraße 85, 1 Birke Schule Dachauer Straße 89, 1 Ahorn
+- TOP 1.4.: Baureferat, Gartenbau, Unterrichtung über das Fällen von Gefahrenbäumen: -Marsplatz Nordseite Denkmal, 1 Ahorn, Kronensterben, Nachpflanzung 1 Ahorn -Marsplatz Telekom, 1 Ahorn, zu geringer Abstand, keine Nachpflanzung -Blutenburgstraße/Adamstraße, 1 Sophora, Morschung Kronenansatz, Nachpflanzung 1 Kugelrobinie -Marlene-Dietrich-Straße 1, 1 Linde, abgestorben, Nachpflanzung 1 Linde -Arnulfstraße, Busbahnhof, 1 robinie, abgestorben, keine Nachpflanzung
+- TOP 1.5.: Bauvorhaben der Stadtwerke, 44. KW
+- TOP 1.6.: Beschlussvorlage des Oberbürgermeisters: Bewerbung um die Olympischen und Paralympischen Winterspeile 2018, Eckdatenpapier zum erssten Bewerbungskokument (Mini Bid Book)
+- TOP 1.7.: Baureferat, Gartenbau, Fällung von einem Gefahrbaum: mit entsprechender Ersatzpflanzung Lämmerstr./Hirtenstr./Dachauer Str., 1 Robinie
+- TOP 1.8.: Baureferat, Gartenbau, Unterrichtung über das Fällen von Gefahrenbäumen gem Schreiben vom Baureferat, 12.10.2009 und 15.10.2009
+- TOP 1.9.: Zweckentfremdung von Wohnraum in der Georgenstraße
+- TOP 1.10.: BA-Anhörung vom 07.09.2009 zur Erteilung einer Baugenehmigung (Erweiterung und Nutzungsänderung), Maximiliansplatz 5: Schreiben des Planungsreferates vom 11.11.2009
+- TOP 1.11.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage; Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Unveränderte Fortführung eines Gaststättenbetriebes: - Le's Lucky Sushi, Theresienstr. 57 - Nasca, Enhuberstraße 1
+- TOP 2.2.: Öffentlich-rechtliche Sondernutzungserlaubnis für Kronleuchter-Installation (Weihnachtsdekoration) in der Brienner Straße vom 24.11.2009 - 11.01.2010
+- TOP 2.3.: Kreisverwaltungsreferat, Parkraummanagement; Verkehrsrechtliche Anordnugn nach § 45 StVO, Lizenzgebiet Marsfeld
+- TOP 2.4.: Kreisverwaltungsreferat, Parkraummanagement; Verkehrsrechtliche Anordnung nach § 45 StVO, Lizenzgebiet St.-Vinzenz-Viertel
+- TOP 2.5.: Kreisverwaltungsreferat: Sondernutzungserlaubnis für Weihnachtsmarkt und Adventsspektakel auf dem Wittelsbacherplatz vom 26.11.2009 bis 23.12.2009
+- TOP 2.6.: Kreisverwaltungsreferat, Parkraummanagement: Verkehrsrechtliche Anordnung anch § 45 StVO, Parklizenzgebiet "Schleißheimer Straße", Errichtung eines absoluten Haltverbotes im Bereich Schleißheimer Straße 19
+- TOP 2.7.: Kreisverwaltungsreferat, Schreiben vom 28.10.2009: Der angeregte Rückbau der baulichen Nase an der Südseite Barer Straße/Schellingstraße wurde zuständigkeitshalber an die Stadtwerke München GmbH - Gleisbau, weitergeleitet.
+- TOP 2.8.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung nach § 45 StVO: Entfernung von Parkuhren, Aufstellen von Parkscheinautomaten Finkenstraße, Hauptfeuerwache, Frauenstraße, Ludwigstraße, Klosterhofstraße
+- TOP 2.9.: Bürgerinitiative Schleißheimer Straße zur Begrünung und Verkehrsberuhigung der Schleißheimer Straße: Feinstaubmessung Antwortschreiben des Referates für Gesundheit und Umwelt vom 29.10.2009 (s. TOP B 1.1/0909 und C 1.1/0909)
+- TOP 2.10.: Baureferat, Beschlussvorlage für den Beschluss des Bauausschusses vom 17.11.2009 (SB): Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 2.11.: Kreisverwaltungsreferat; verkehrsrechtliche Anordnung gem. § 45 Abs. 3 StVO: Z 283 StVO Marlene-Dietrich-Straße Wendehammer
+- TOP 2.12.: Öffentlich-rechtliche Sondernutzungserlaubnis für Temporäre Kunst im öffentlichen Raum (Sandstr./Dachauer Str./Josef-Ruederer-Str.)
+- TOP 2.13.: BA-Antrag Nr. 1484 vom 15.09.2009: Schreiben der MVG vom 10.11.2009
+- TOP 2.14.: Referat für Stadtplanung und Bauordnung, Zwischennachricht u.a. für den Antrag Nr. 08 - 14 / B00963 des BA 3: Entwicklung eines Verkehrskonzeptes für die Augustenstraße bzw. einzelne Streckenabschnitte ("Shares Space")
+- TOP 2.15.: Referat für Gesundheit und Umwelt Vollzug des Bundesimmissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImschV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau
+- TOP 2.16.: Baureferat Antwortschreiben zum Thema Begrünung und Verkehrsberuhigung der Schleißheimer Straße im Abschnitt zwischen Heßstraße und Georgenstraße
+- TOP 2.17.: Straßensperrungen für Filmaufnahmen (Karl-/Meiserstraße und Karl-/Augustenstraße): Eilentscheidung des Vorsitzenden
+- TOP 2.18.: Filmaufnahmen in der Ludwigstraße: "Nur die Guten sterben jung"; Eilentscheidung des Vorsitzenden
+- TOP 2.19.: Referat für Stadtplanung und Bauordnung, BV: Herausnahme von "verkehrsberuhigten Bereichen aus dem Münchner Radlnetz Antrag Nr. 08-14 / A 00871 von Herrn Stadtrat Manuel Pretzl vom 25.06.2009
+- TOP 2.20.: Baumaßnahmen der Stadtwerke München, 48. KW
+- TOP 3.1.: Beschlussvorlage des Referates für Stadtplanung und Bauordnung: Perspektive München Leitlinie "Kinder- und Familienpolitik"; Leitprojekt 1 "Kinder- und familienfreundliches Wohnen"
+- TOP 3.2.: Budgetmittel, Verwendungsnachweise -Elternbeirat der Grundschule an der Blutenburgstraße: Kurzbericht Selbstbehauptungskurse -Initiative Ferienaktion, Hessstraße 40 -Kath. Männerfürsorgeverein e.V., Ablehnung des Antrages vom 25.10.2009 wegen Verfristung
+- TOP 3.3.: Wettbewerb Wiesenfeld-Siedlung; Stationäre Pflegeeinrichtung mit betreuter Wohnform für alte Menschen in der Sozialregion Mitte, Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 03.11.2009
+- TOP 3.4.: Referat für Gesundheit und Umwelt: Perspektive München, Leitlinie für Gesundheit
+- TOP 3.5.: Sozialreferat, Beschlussvorlage: Investitionskosenförderung gem. Art. 27 BayKiBiG, Kinderkrippe Luisenstraße 41 (Sinikka Veldmann); Ankauf der Immobilie
+- TOP 3.6.: Sozialreferat, Beschlussvorlage Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 4: Kultur
+- TOP 4.1.: Enthüllung einer Gedenktafel am ehemaligen Wohnhaus von Hermann und Paula Frieb, Schellingstraße 78 am 11.12.2009: Herr Stadtrat Dr. Reinhard Bauer wird in Vertretung von Herrn Oberbürgermeister Christian Ude an der Enthüllung der Gedenktafel teilnehmen.
+- TOP 4.2.: Budgetmittel für "Holocaust-Gedenktag am 27.01.2010"; Bewilligungsbescheid des Direktoriums
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Nutzung der Stadtteilkulturzentren druch die örtlichen Bezirksausschüsse; Schreiben des Direktoriums an die Bezirksausschüsse vom 30.10.2009
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
+- TOP 4.2.: Ausstellungstechnische Verbesserung der U-Bahn-Gallerie Antwortschreiben des Direktoriums D-II-BA vom 30.10.2009
