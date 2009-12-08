@@ -1,0 +1,66 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2009-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1618459
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1618459
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung im Unterausschuss Kultur / Budget
+- TOP 1.3.: Ernennung eines/einer neuen Jugendbeauftragten im BA 24
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Budgetantrag des Euro-Trainigs-Centre ETC e. V.; Bau eines Bewegungs- und Sinnesparcours; ? 5867,99
+- TOP 2.2.: Widmung der Gesamtstrecke des Kerbelweges
+- TOP 2.3.: Widmung einer Teilstrecke der Azaleenstraße
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Spielen in der Stadt; Benennung von Platzvorschlägen für die Einsätze der Münchner Sommer SpielAktion 2010
+- TOP 5.2.: Haltverbot in der Ittlingerstraße südlich Dülferstraße
+- TOP 5.3.: Flohmarkt des Bewohnerstammtisches auf dem Goldschmiedplatz in 2010
+- TOP 5.4.: Vollzug der Baumschutzverordnung; Errichtung einer Pilgerstation am Heinrich-Braun-Weg
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Umlaufsperre am Bahnübergang Berberitzenstraße
+- TOP 6.2.: Ganztages-Eingangsklasse an der Grundschule Thelottstraße (BA-Antrag-Nr. 08-14 / B 01363 vom 28.07.09)
+- TOP 6.3.: Schulweghelfer an der Kreuzung Am Schnepfenweg / Sonnentaustraße (BA-Antrag-Nr. 08-14 / B 01534 vom 15.09.2009)
+- TOP 6.4.: Widmung einer Teilstrecke der Röhrichtstraße
+- TOP 6.5.: Ausschneidearbeiten an den Bäumen vor dem Anwesen Blodigstraße 14
+- TOP 6.6.: Modernisierung der Freisportflächen der städtischen Sportanlage Lerchenauer Straße 270
+- TOP 6.7.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse
+- TOP 6.8.: Grundschule an der Lerchenauer Straße 322; Verzögerung des Baubeginns auf Januar 2010
+- TOP 6.9.: Treibstofflager Detmoldstr. 11; Ein- und Ausfahrt aus dem Gefahrenstofflager
+- TOP 6.10.: Errichtung einer Mobilfunksendeanlage im Stadtbezirk 24
+- TOP 6.11.: Baumaßnahmen der SWM; Erdgasprojekt Feldmochinger Straße
+- TOP 6.12.: Bahnübergang Lerchenauer Str., südlich Franz-Fackler-Straße; Gleisumbauarbeiten im Bahnübergangsbereich
+- TOP 6.13.: Änderung der Wechselverkehrsregelung in der Trollblumenstraße Ecke Borsigstraße
+- TOP 6.14.: Versammlung unter freiem Himmel am 25.11.2009, 17:00 Uhr auf dem Gehweg an der Wintersteinstr. 35 / Stösserstr.
+- TOP 6.15.: Baustelleneinrichtung in der Grünanlage Am Schnepfenweg
+- TOP 6.16.: Einrichtung von 6 Schluckbrunnen in der Grünanlage Am Schnepfenweg
+- TOP 6.17.: Meldeliste Bauvorhaben
+- TOP 6.18.: Meldeliste Baumfällungsanträge
+- TOP 6.19.: Fällung eines Gefahrenbaums an der Lerchenauer Straße 250
+- TOP 6.20.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP 6.21.: Einmalige Herstellung der Karlsfelder Straße zwischen Schwabenbächl und Achatstraße
+- TOP 6.22.: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 6.23.: Bericht der 27. Schul- und Jugendhilfekonferenz
+- TOP 6.24.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland
+- TOP 6.25.: Perspektive München; Leitlinie "Kinder- und Familienpolitik"
+- TOP 6.26.: Haushaltsplan 2010; Bereich "Förderung freier Träger"
+- TOP 6.27.: Regionaler Sozialbericht 2008; Sozialregion Feldmoching-Hasenbergl
+- TOP 6.28.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 6.29.: Protokoll der Informationsveranstaltung des Kulturreferates vom 19.10.2009 für die Bezirksausschüsse
+- TOP 7: Berichte
+- TOP 7.1.: Berichte von der 5. Kinder- und Jugendsprechstunde des BA 24
+- TOP 8: Verschiedenes
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
