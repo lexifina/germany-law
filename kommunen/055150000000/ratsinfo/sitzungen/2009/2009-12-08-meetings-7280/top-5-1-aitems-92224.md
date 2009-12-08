@@ -1,0 +1,8 @@
+# TOP 5.1: Bericht über die Beteiligungen der Stadt Münster im Jahr 2008 (Beteiligungsbericht 2008)
+
+- Sitzung: 1. Sitzung (2009-12-08)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/92224
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/43109
