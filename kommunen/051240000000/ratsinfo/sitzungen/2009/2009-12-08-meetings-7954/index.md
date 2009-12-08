@@ -1,0 +1,60 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-12-08T16:02:00+01:00
+- Ende: 2009-12-08T17:30:00+01:00
+- Ort: Ratssaal, Rathaus Barmen, 2.Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7954
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7954
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 25.11.2009 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00110707.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00112842.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 0: Bestellung einer Geschäftsführerin für den Ausschuss für Finanzen und Beteiligungssteuerung und den gemeinsamen Betriebsausschusses APH/KIJU - ungeändert beschlossen
+- TOP 1: Jahresabschlüsse
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan 2010 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan 2010 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Bergisches Veterinär- und Lebensmittelüberwachungsamt (BVLA); Personalgestellungsverträge - zur Entscheidung verwiesen
+- TOP 4.2: Wahl eines/einer ersten und zweiten Stellvertreters/Stellvertreterin des Vorsitzenden des Verwaltungsrats der Stadtsparkasse Wuppertal - geändert beschlossen
+- TOP 4.3: Umbesetzung im Verbandsrat des Wupperverbandes - geändert beschlossen
+- TOP 4.4: Umbesetzung in der Verbandsversammlung des Wupperverbandes - zurückgezogen
+- TOP 4.5: Bestellung eines stellvertretenden Mitglieds für die Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Änderung der Richtlinie zur Finanzierung des ÖSPV im Verkehrsverbund Rhein-Ruhr (Finanzierungsrichtlinie) - ungeändert beschlossen
+- TOP 5.2: Beteiligungsbericht 2007 und 2008 - Entgegennahme ohne Beschluss
+- TOP 5.3: Verbandsversammlung 2009 des Wupperverbandes - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Dritter FINCO-Bericht 2009 - Entgegennahme ohne Beschluss
+- TOP 12.2: Stand der Schulden und Kassenkredite zum 10.11.2009 - Entgegennahme ohne Beschluss
+- TOP 13: Verkäufe und Baumaßnahmen
+- TOP 14: Dienstanweisungen und Satzungen
+- TOP 14.1: Satzung über die Straßenreinigung und den Winterdienst sowie die dafür zu erhebenden Gebühren ab 01.01.2010 - ungeändert beschlossen
+- TOP 14.2: 1. Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal vom 16.12.2008 - ungeändert beschlossen
+- TOP 14.3: Gebührensatzung zur Abfallwirtschaftssatzung 2010 - ungeändert beschlossen
+- TOP 15: Allgemeine Vorlagen
+- TOP 15.1: Fortschreibung der Maßnahmenliste zur Umsetzung des Konjunkturprogramms - ungeändert beschlossen
+- TOP 15.2: Aufnahme von Kassenkrediten bis zu einer Laufzeit von 5 Jahren - ungeändert beschlossen
+- TOP 16: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 22: Alten- und Altenpflegeheime
+- TOP 22.1: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2010 - stationärer Bereich - - ungeändert beschlossen
+- TOP 22.2: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2010 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 22.3: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2009 - ungeändert beschlossen
+- TOP 22.4: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2009 der APH Service GmbH - ungeändert beschlossen
+- TOP 22.5: Quartalsbericht III/2009 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 22.6: Quartalsbericht III/2009 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 23: Berichte und Mitteilungen
+- TOP 24: Kinder- und Jugendwohngruppen
+- TOP 24.1: Wirtschaftsplanung KIJU 2010 - ungeändert beschlossen
+- TOP 24.2: KIJU Bericht 3. Quartal 2009 - Entgegennahme ohne Beschluss
+- TOP 25: Berichte und Mitteilungen
