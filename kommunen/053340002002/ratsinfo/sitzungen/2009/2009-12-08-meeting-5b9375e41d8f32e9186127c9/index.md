@@ -1,0 +1,54 @@
+# öffentliche Sitzung des Wohnungs- und Liegenschaftsausschusses
+
+- Körperschaft: Aachen
+- Beginn: 2009-12-08T17:01:00+01:00
+- Ende: 2009-12-08T18:28:00+01:00
+- Ort: Verwaltungsgebäude Marschiert, Lagerhausstraße
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b2e1d8f32e9185d6f81
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2057
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9375e41d8f32e9186127c9
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner - (offen)
+- TOP 3: Bestellung des Schriftführers und seiner Stellvertreterin - ungeändert beschlossen
+- TOP 4: Einführung und Verpflichtung der sachkundigen Bürgerinnen und Bürger - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.5: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.7: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.8: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.9: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.10: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.11: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.12: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.13: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.14: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.15: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.16: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.17: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.18: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.19: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.20: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.21: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.5.22: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.6: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.6.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 1.6.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
