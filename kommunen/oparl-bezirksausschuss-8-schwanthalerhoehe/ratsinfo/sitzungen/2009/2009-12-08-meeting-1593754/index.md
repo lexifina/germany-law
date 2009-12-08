@@ -1,0 +1,61 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2009-12-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1593754
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1593754
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.: Resümee LILALU
+- TOP 1.2.: Regsam aktuell und Vorstellung des Armutsberichts
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 3.1.: Beschlussantrag zur IG-Feuerwache
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmung der Gesamtstrecke der Philipp-Loewenfeld-Straße - <div>nach Antrag</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Errichtung einer Kooperationseinrichtung an der Philipp-Loewenfeld-Straße
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.2.1.: 18.jetzt Quiz - BA-Was ist das?
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.3.1.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Anhörung Sondernutzung: Losverkaufstände Tombola für München 2010, Termin bis 16.12.2009
+- TOP 6.4.2.: Anhörung zur Vorfahrtsregelung Gollierstr./Astallerstr.
+- TOP 6.4.3.: Verkehrsrechtliche Anordnung Max-Friedländer-Bogen
+- TOP 6.4.4.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Ligsalzstraße 34
+- TOP 6.4.5.: Alternativmaßnahme zum Antrag "Verbotswidriger Durchgangsverkehr über den Heimeranplatz"
+- TOP 6.4.6.: Anhörung: Baumfällungsantrag Astallerstraße 6
+- TOP 6.4.7.: Anhörung: Baumfällungsantrag Tulbeckstraße 43-51
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 7: Erledigungen
+- TOP 7.1.: Antwort: Zweckentfremdung von Wohnraum Westendstr. 74
+- TOP 7.2.: Antwort: Baustellenmaterial Anglerstraße/Bergmannstraße
+- TOP 7.3.: Antwort: Bürgeranliegen zur Baustelle Ridlerstraße 5 und Medienfabrik Ganghoferstraße
+- TOP 7.4.: Antwort zur Verkehrsinsel in der Grasserstraße
+- TOP 7.5.: Antwort auf BV Anfrage - Durchfahrtsverbot Trappentreustraße und Parken auf dem Kiliansplatz
+- TOP 7.6.: Antwort zum Winterdienst Ansprechpartner 2009/2010
+- TOP 7.7.: Antwortschreiben an Bürgertreff Arnulfpark: Bau eines zentralen Stegs zwischen Arnulfpark und Westend
+- TOP 7.8.: Antwort zu den Umbaumaßnahmen in der Bergmannstr/Gollierstr/Astallerstr
+- TOP 7.9.: Zwischenbericht: Tauben und Sperrmüll im Anwesen Schwanthalerstraße 119
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Unterrichtung über die Beschlussvorlage: Bauträgerauswahl für Baugrundstücke des Kommunalen Wohnungsbauprogrammes - Teilprogramm für Benachteiligte am Wohnungsmarkt
+- TOP 9.2.: Unterrichtung über die Beschlussvorlage: Änderung der Straßenreinigungssatzung
+- TOP 10: Verschiedenes
+- TOP 10.1.: Einladung zur Ausstellung "Kreativität kennt kein Alter"
+- TOP 10.2.: Planung der Einsätze der Münchner Sommer Spiel Aktion 2010, Platzvorschläge bis 15. Januar 2010
+- TOP 10.3.: Gestattung BA Schaukasten Karl-Spengler-Straße / Oda-Schäfer-Weg
+- TOP 10.4.: Gitterversperrung auf der Theresienwiese
+- TOP 10.5.: Veröffentlichung von Sitzungsprotokollen in der Stadtteilbibliothek Westend
+- TOP 11: Protokoll und Umlauf
