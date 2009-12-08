@@ -1,0 +1,8 @@
+# TOP 5.4: Änderungsantrag zur Vorlage V/0685/2009
+
+- Sitzung: 2. öffentliche Sitzung (2009-12-08)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/92771
+- Ergebnis: zurückgezogen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/43302
