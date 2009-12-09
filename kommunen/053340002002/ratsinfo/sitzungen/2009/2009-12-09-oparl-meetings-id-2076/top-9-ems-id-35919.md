@@ -1,0 +1,6 @@
+# TOP 9: Paintball-Anlage Karl-Friedrich-Str.
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Aachen-Richterich (2009-12-09)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=35919
