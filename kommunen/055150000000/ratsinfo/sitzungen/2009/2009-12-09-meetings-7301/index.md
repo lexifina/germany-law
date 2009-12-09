@@ -1,0 +1,64 @@
+# 1. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-12-09T17:04:00+01:00
+- Ende: 2009-12-09T21:31:00+01:00
+- Ort: Festsaal, Rathaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7301
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7301
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00286736.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Bestellung eines Schriftführers für die Sitzungen des Hauptausschusses - einstimmig beschlossen
+- TOP 3: Wahl von stellvertretenden Vorsitzenden des Hauptausschusses - einstimmig geändert beschlossen
+- TOP 4: Ergebnisbericht zum Einplanungsgespräch - mehrheitlich beschlossen
+- TOP 5: Chancen der "Deutschen Fußballroute NRW e. V. " stärker nutzen - einstimmig beschlossen
+- TOP 6: Mitgliedschaft im Verein "Deutsches Bündnis gegen Depression e.V." - einstimmig beschlossen
+- TOP -: Berichtsvorlagen an den Hauptausschuss
+- TOP 7: u3-Ausbauprogramm der Stadt Münster - Zuschüsse für freie Träger zum erforderlichen Ausbau des Raumprogramms - zur Kenntnis genommen
+- TOP 8: Sonderfonds "Hilfen für Schwangere und junge Mütter zum Schutz des ungeborenen Lebens" - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 9: Strategische Haushaltsentwicklung und Haushaltssteuerung in Münster - ohne Beschlussfassung geschoben
+- TOP 10: Öffentlich-rechtliche Vereinbarung zur Einrichtung eines Einheitlichen Ansprechpartners im Rahmen der Umsetzung der Europäischen Dienstleistungsrichtlinie - einstimmig beschlossen
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2008 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Bericht über die Beteiligungen der Stadt Münster im Jahr 2008 (Beteiligungsbericht 2008) - zur Kenntnis genommen
+- TOP 13: Änderung der Jagdsteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 14: Änderung der Abfallsatzung - ohne Beschlussfassung geschoben
+- TOP 15: Förderprogramm Energieeinsparung und Altbausanierung - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 16: Anmietung eines Geschäftslokales in Münster-Kinderhaus, Sprickmannplatz 1 zur Fortführung des Interkulturellen Zentrums "ATRIUM" - einstimmig geändert beschlossen
+- TOP 17: Pflegestützpunkte in Münster - ohne Beschlussfassung geschoben
+- TOP 17.1: Pflegestützpunkte in Münster
+- TOP 18: Wirtschaftspläne städtischer Gesellschaften und Stiftungen
+- TOP 18.1: Wirtschaftsplan der citeq für das Jahr 2010 - einstimmig beschlossen
+- TOP 18.2: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 18.3: Wirtschaftsplan 2010 für Münster Marketing - einstimmig beschlossen
+- TOP 18.4: Geänderter Wirtschaftsplan der Stiftung Generalarmenfonds für das Jahr 2009 - einstimmig beschlossen
+- TOP 18.5: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2010 - einstimmig beschlossen
+- TOP 19: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 19.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2010 - einstimmig beschlossen
+- TOP 19.2: Abfallgebühren 2010 - einstimmig beschlossen
+- TOP 19.2.1: Abfallgebühren 2010
+- TOP 19.3: Straßenreinigungsgebühren 2010 - einstimmig beschlossen
+- TOP 19.4: Änderung - ohne Beschlussfassung geschoben
+- TOP 19.5: Änderung - einstimmig beschlossen
+- TOP 20: Fortführung und Besetzung des Beirates Münster Marketing - ohne Beschlussfassung geschoben
+- TOP 21: Besetzung und Umbesetzungen von Ausschüssen des Rates und von sonstigen Gremien - einstimmig beschlossen
+- TOP 21.1: Bildung, Besetzung und Umbesetzungen von Ausschüssen des Rates und sonstigen Gremien
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Mitte
+- TOP 22.1.1: Bebauungsplan Nr. 532 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 22.2: Stadtbezirk West
+- TOP 22.2.1: 29. Änderung des Flächennutzungsplanes - von der Tagesordnung abgesetzt
+- TOP 22.2.2: Bebauungsplan Nr. 227, 3. Änderung -Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 22.3: Stadtbezirk Südost
+- TOP 22.3.1: Vorhabenbezogener Bebauungsplan Nr. 514: Haus Lütkenbeck - einstimmig beschlossen
+- TOP 23: Beteiligung der Stadtwerke Münster GmbH an dem Gemeinschaftsunternehmen "Green GECCO" zum Bau von Anlagen zur regenerativen Stromerzeugung - ohne Beschlussfassung geschoben
+- TOP 23.1: Beteiligung der Stadtwerke Münster GmbH an dem Gemeinschaftsunternehmen "Green GECCO" zum Bau von Anlagen zur regenerativen Stromerzeugung
+- TOP 23.2: Beteiligung der Stadtwerke Münster GmbH an dem Gemeinschaftsunternehmen "Green GECCO" zum Bau von Anlagen zur regenerativen Stromerzeugung
+- TOP 24: Verschiedenes
