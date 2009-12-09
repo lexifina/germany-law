@@ -1,0 +1,88 @@
+# 29. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2009-12-09T17:30:00+01:00
+- Ende: 2009-12-09T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2225
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2225
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=37677
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - beantwortet
+- TOP 1.3: Geschäftliche Mitteilungen - beantwortet
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Schutz der Bestandsmieter bei zwei Modernisierungsvorhaben im Milieuschutzgebiet Humannplatz - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - beantwortet
+- TOP 1.6: Bericht des Bezirksamtes - beantwortet
+- TOP 1.7: Konsensliste - beantwortet
+- TOP 1.8: Sitzungsplan der BVV von Januar 2010 bis Oktober 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Nachwahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.10: Nachwahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.11: Nachwahl von vier stimmberechtigten Mitgliedern im Integrationsbeirat Pankow für die VI. Wahlperiode - gewählt
+- TOP 1.12: Verlängerung der Veränderungssperre 3-13/4 im Bezirk Pankow, Ortsteil Weißensee für das Grundstück Berliner Allee 300 - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Schlüsselsysteme für Sportanlagen des Bezirks - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Markt der Möglichkeiten des JobCenter Pankow - in der BVV abgelehnt
+- TOP 1.15: Entwicklung der Liegenschaft "Stadtbad Oderberger Straße" - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Transparenz in der Arbeit des Rates der Bürgermeister - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Freigabe gesperrter Mittel Medienbeschaffung - in der BVV abgelehnt
+- TOP 1.18: Querung der Elsa-Brändström-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: ÖPNV in Pankow beschleunigen - Sicherheit für alle Verkehrsteilnehmer erhöhen! - in der BVV abgelehnt
+- TOP 1.20: Wirtschaftsplan für die einzuführende Parkraumbewirtschaftung - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Jetzt die neue Gemeinschaftsschule Tesla Oberschule auch baulich weiter voranbringen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Sicherung der Schuldner- und Insolvenzberatung 2010/2011 - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Wie weiter mit dem Peter Edel - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Platz des 9. November 1989 - überwiesen
+- TOP 1.25: Heizpilzverbot aufheben - in der BVV abgelehnt
+- TOP 1.26: Hinweise auf Kultur- und Bildungseinrichtungen an ÖPNV-Haltestellen und Bahnhöfen - überwiesen
+- TOP 1.27: Parteienverständnis - Selbstverständnis - vertagt
+- TOP 1.28: Influenza A/H1N1 - Auswirkungen in Pankow - vertagt
+- TOP 1.29: Ehrenamtliche Tätigkeit - überwiesen
+- TOP 1.30: "gerade war gestern. Ein Bach wird naturnah" - Computeranimation für den Einsatz im Unterricht - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Antrag auf Neuauslegung der Pläne zum Bau des 16. Bauabschnitts der BAB 100 - vertagt
+- TOP 1.32: Wiedereröffnung Schwimmhalle Wolfshagener Straße (OT Pankow) - vertagt
+- TOP 1.33: Schulhöfe für alle Kinder und Jugendlichen öffnen - vertagt
+- TOP 1.34: Unterstützung für das Projekt "Bücherschrank" - vertagt
+- TOP 1.35: Das Informations- und Dokumentationssystem "ISIS" auch in Pankow einführen und anwenden - überwiesen
+- TOP 1.36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.37: Schilderwald in der Langhansstraße im OT Weissensee - überwiesen
+- TOP 1.38: Sichere Überquerungsmöglichkeit der Prenzlauer Promenade am Caligariplatz - überwiesen
+- TOP 1.39: Hygienemaßnahmen an den Schulen verstärken - in der BVV abgelehnt
+- TOP 1.40: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - vertagt
+- TOP 1.41: Maßnahmeplan "Bürgerfreundliche Verwaltungssprache" - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Ausbau der Infrastruktur in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Erschließung Rangierbahnhof Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Botanischer Volkspark Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Energieeinsparprojekte auf alle öffentlichen Gebäude ausdehnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6.1: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Orte des Gedenkens an Freiheit und Einigkeit im Bezirk Pankow - vertagt
+- TOP 2.8: Shared Space - vertagt
+- TOP 2.9: Umwelt- und Energiepark im Botanischen Volkspark - vertagt
+- TOP 2.10: Umsetzung von Neuregelungen der Wohngeldnovelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Erstellen der drei Gedenktafeln in der Schönholzer Heide bis zum Volkstrauertag 2009 sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bebauungsplan 3-15 "Grünzug Schönholz" besser mit dem Bezirk Pankow abstimmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Aufstellung eines B-Planes für das Grundstück Schönhauser Allee 148 / Kastanienallee 97 - 99 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Keine Mietverträge in Pankow mit rechtsextremen, antisemitischen und fremdenfeindlichen Organisationen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Kulturhaus Weißensee - vertagt
+- TOP 2.16: Berichte zum Erledigungsstand der Anträge aus der Senioren-BVV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Parkbänke im Schlosspark Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: GA-Antrag für das Forscherschloss / LSC unverzüglich und vollständig einreichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Bezirksamtsgelände autofrei - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Beidseitige Verbindungskurve zur besseren Verknüpfung der Straßenbahnlinien umgehend bauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bericht zu linker Gewalt - vertagt
+- TOP 2.22: Datenschutz im Unterricht mit einfließen lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Bericht über Konjunkturpakete - vertagt
+- TOP 2.24: Bebauungsplan IV-34 vom 31.03.2008 für die Grundstücke Hans-Otto-Straße 10 / Hufelandstraße und Hans-Otto-Straße 8 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Aufstellung des Bebauungsplanes 3-24 für das Grundstück Kastanienallee 97 - 99, Schönhauser Allee 148 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Bebauungsplan IV-28 für das Grundstück Senefelderstraße 21 im Bezirk Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Benennung des südlichen Teils des Antonplatzes - vertagt
+- TOP 2.28: Bebauungsplanentwurf 3-23 für die Grundstücke Berliner Allee 24/28, Bizetstraße 17/21 und einen Abschnitt der Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
