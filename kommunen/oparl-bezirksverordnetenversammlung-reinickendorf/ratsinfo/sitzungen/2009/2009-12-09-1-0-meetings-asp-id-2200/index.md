@@ -1,0 +1,63 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2009-12-09T17:05:00+01:00
+- Ende: 2009-12-09T22:10:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2200
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2200
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=45668
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 1.1: Wahl einer stellvertretenden Schriftführerin / eines stellvertretenden Schrfitführers für den Vorstand der BVV - gewählt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - gewählt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Ehrenamtliche Patenschaften für Familien und Mütter - überwiesen
+- TOP 7.2: Reinickendorfer Seniorenvertretung stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Beschilderung Barnimer Dörferweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Seminare zum Umgang mit Gewalt in der Öffentlichkeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Verstärkte Kontrolle von Spielplätzen durch den Ordnungsdienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Erlass der Verordnung über die Festsetzung des Bebauungsplanes XX-240b-1 - überwiesen
+- TOP 7.7: Aufstellung des Bebauungsplanes mit der Bezeichnung 12-31 für die Teilflächen des Grundstücks Bernauer Staße 151 im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Umsetzung Schulstrukturreform - überwiesen
+- TOP 8.2: Entwicklung der Oberschullandschaft in Reinickendorf - beantwortet
+- TOP 8.3: Haushaltsüberziehung im Ressort Jugend - beantwortet
+- TOP 8.3.1: Haushaltsführung im Ressort Jugend - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bezirkshaushaltsrechnung für das Haushaltsjahr 2008 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Sonderprogramm UEP - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Hertie und Woolworth Standorte trotz Insolvenz erhalten - erledigt
+- TOP 10.3: Standortplanung Oberschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Auf kleine Wirtschaftstreibende auch beim Klimaschutz Rücksicht nehmen - erledigt
+- TOP 10.4.1: Auf kleine Wirtschaftstreibende auch beim Klimaschutz Rücksicht nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Gegen die Einführung der Schüler-Lotterie an Oberschulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Unterstützung kleiner und mittelständischer Unternehmen in den S-Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Lernmittelfreiheit in Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Job-Pointer als niedrigschwelliger Zugang zu Jobangeboten - in der BVV abgelehnt
+- TOP 10.9: Jobcenter - Antragsbearbeitung und Leistungen aus einer Hand - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sichere Fußgängerführung am Zeltinger Platz in Frohnau - überwiesen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Verbot von Müllabwurfanlagen verhindern - überwiesen
+- TOP 12.2: Umsetzung Schulstrukturreform - gegenstandslos
+- TOP 12.2.1: Umsetzung der Schulstrukturreform mit intensiver Unterstützung des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Palliativ-Medizin im Bezirk - überwiesen
+- TOP 12.4: Sichere Fußgängerüberquerung in der Buddestraße / Bernstorffstraße - überwiesen
+- TOP 12.5: Mahn- und Gedenkstätten im Bezirk Reinickendorf - überwiesen
+- TOP 12.6: Gesundheitsangebote in Senioreneinrichtungen - überwiesen
+- TOP 12.7: Straßenfeste 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Geschwindigkeitskontrollen Gorkistraße - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Berücksichtigung städtebaulicher Kriminalprävention - überwiesen
+- TOP 13.2: Kreuzung Roedernallee / Flottenstraße - ohne Änderungen in der BVV beschlossen
