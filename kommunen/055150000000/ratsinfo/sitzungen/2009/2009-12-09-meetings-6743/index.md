@@ -1,0 +1,80 @@
+# 3. Sitzung (Einbringung Etat 2010)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2009-12-09T17:37:00+01:00
+- Ende: 2009-12-09T21:33:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/6743
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/6743
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00286771.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 1.1: Voranfrage zum Bau eines 50 m hohen Funkmastes auf dem Gelände der Landespolizeischule, Weseler Str. 264
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Ausländerbeirates
+- TOP 7.1: Nutzung des Kiffe-Pavillons als Haus der Kulturen - verwiesen
+- TOP 8: Einbringung des Entwurfes der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2010
+- TOP 8.1: Strategische Haushaltsentwicklung und Haushaltssteuerung in Münster - einstimmig geändert beschlossen
+- TOP 8.2: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2010 - einstimmig beschlossen
+- TOP 8.3: Neue Maßnahmen zum Haushaltsplan 2010 - einstimmig beschlossen
+- TOP 9: Öffentlich-rechtliche Vereinbarung zur Einrichtung eines Einheitlichen Ansprechpartners im Rahmen der Umsetzung der Europäischen Dienstleistungsrichtlinie - einstimmig beschlossen
+- TOP 10: Entwurf des Jahresabschlusses zum 31.12.2008 der Stadt Münster - einstimmig beschlossen
+- TOP 11: Bericht über die Beteiligungen der Stadt Münster im Jahr 2008 (Beteiligungsbericht 2008) - zur Kenntnis genommen
+- TOP 12: Änderung der Jagdsteuersatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 13: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 14: Förderprogramm Energieeinsparung und Altbausanierung - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 15: Anmietung eines Geschäftslokales in Münster-Kinderhaus, Sprickmannplatz 1 zur Fortführung des Interkulturellen Zentrums "ATRIUM" - einstimmig geändert beschlossen
+- TOP 16: Pflegestützpunkte in Münster - einstimmig beschlossen
+- TOP 16.1: Pflegestützpunkte in Münster
+- TOP 17: Verwendung der Gewinnausschüttung durch die Sparkasse Münsterland Ost an die Stadt Münster hier: Richtlinien zur Gewährung von Zuschüssen - einstimmig beschlossen
+- TOP 18: Wirtschaftspläne städtischer Gesellschaften und Stiftungen
+- TOP 18.1: Wirtschaftsplan der citeq für das Jahr 2010 - einstimmig beschlossen
+- TOP 18.2: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 18.3: Wirtschaftsplan 2010 für Münster Marketing - einstimmig beschlossen
+- TOP 18.4: Geänderter Wirtschaftsplan der Stiftung Generalarmenfonds für das Jahr 2009 - einstimmig beschlossen
+- TOP 18.5: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2010 - einstimmig beschlossen
+- TOP 19: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 19.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2010 - einstimmig beschlossen
+- TOP 19.2: Abfallgebühren 2010 - mehrheitlich beschlossen
+- TOP 19.2.1: Abfallgebühren 2010
+- TOP 19.3: Straßenreinigungsgebühren 2010 - einstimmig beschlossen
+- TOP 19.4: Änderung - mehrheitlich beschlossen
+- TOP 19.5: Änderung - mehrheitlich beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Münster-Mitte
+- TOP 20.1.1: Bebauungsplan Nr. 532 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk Münster-West
+- TOP 20.2.1: 29. Änderung des Flächennutzungsplanes - von der Tagesordnung abgesetzt
+- TOP 20.2.2: Bebauungsplan Nr. 227, 3. Änderung -Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 20.3: Stadtbezirk Münster-Südost
+- TOP 20.3.1: Vorhabenbezogener Bebauungsplan Nr. 514: Haus Lütkenbeck - einstimmig beschlossen
+- TOP 21: Fortführung und Besetzung des Beirates Münster Marketing - einstimmig geändert beschlossen
+- TOP 22: Besetzung und Umbesetzungen von Ausschüssen des Rates und von sonstigen Gremien - einstimmig beschlossen
+- TOP 22.1: Besetzung und Umbesetzungen von Ausschüssen des Rates und von sonstigen Gremien
+- TOP 23: Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - einstimmig beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 24.1: Weihnachtsbeihilfe - mehrheitlich abgelehnt
+- TOP 24.2: Betriebliche Mitbestimmung stärken - Die Stadt Münster geht voran - verwiesen
+- TOP 24.3: Kinderarmut in Münster ¿ eine drängende Handlungsaufforderung an die Kommunalpolitik - einstimmig geändert beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 25.1: Rathaus öffnen: Bürgerhaushalt für Münster - verwiesen
+- TOP 25.2: Säuberung der Fahrradabstellflächen am Osteingang des Hauptbahnhofes in Abstimmung mit der DB AG - verwiesen
+- TOP 25.3: Innerstädtische Wohnflächenpotentiale nutzen - pädagogische Qualitäten statt Zwischennutzungen schaffen - verwiesen
+- TOP 25.4: Änderung der Satzung des Gestaltungsbeirats - verwiesen
+- TOP 25.5: Planung für III. Nordtangente einstellen - Flächennutzungsplan korrigieren - verwiesen
+- TOP 25.6: Mehr Platz für mehr Radverkehr - Lücken im Netz schließen - Hindernisse für FußgängerInnen aus dem Weg räumen - verwiesen
+- TOP 25.7: Chancen für alle Kinder in unserer Stadt - Maßnahmeprogramm zur Bekämpfung der Kinderarmut in - verwiesen
+- TOP 26: Beteiligung der Stadtwerke Münster GmbH an dem Gemeinschaftsunternehmen "Green GECCO" zum Bau von Anlagen zur regenerativen Stromerzeugung - mehrheitlich geändert beschlossen
+- TOP 26.1: Beteiligung der Stadtwerke Münster GmbH an dem Gemeinschaftsunternehmen "Green GECCO" zum Bau von Anlagen zur regenerativen Stromerzeugung
+- TOP 26.2: Beteiligung der Stadtwerke Münster GmbH an dem Gemeinschaftsunternehmen "Green GECCO" zum Bau von Anlagen zur regenerativen Stromerzeugung
+- TOP 27: Verschiedenes
