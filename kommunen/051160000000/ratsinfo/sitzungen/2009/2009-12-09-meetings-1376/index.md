@@ -1,0 +1,60 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2009-12-09T15:00:00+01:00
+- Ende: 2009-12-09T00:00:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1376
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1376
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Stellv. Vorsitzende Hauptausschuss - Einstimmiger Beschluss
+- TOP 2: Entwurf 1.NT-Satzung 2009 - Zur Kenntnis genommen
+- TOP 3: Jahresrechnung 2008 - Zur Kenntnis genommen
+- TOP 4: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2009 - Einstimmiger Beschluss
+- TOP 5: Über- und außerplanmäßige Ausgaben des Haushaltsjahres 2008 - Einstimmiger Beschluss
+- TOP 6: Mittelbare Beteiligung der NVV AG an der SW Tönisvorst GmbH - Zur Kenntnis genommen
+- TOP 7: Beteiligung der NVV AG an der Niederrheinwerke Viersen GmbH - Zur Kenntnis genommen
+- TOP 8: Beteiligung der NVV AG an der Niederrheinwerke Viersen GmbH - Zur Kenntnis genommen
+- TOP 9: Beteiligung der NVV AG - Zur Kenntnis genommen
+- TOP 10: Zweitwohnungssteuersatzung - Zur Kenntnis genommen
+- TOP 11: Zwölfter Nachtrag zur Abfallgebührensatzung - Zur Kenntnis genommen
+- TOP 12: 14. Nachtrag Kanalbenutzungsgebührenordnung etc. - Zur Kenntnis genommen
+- TOP 13: 15. Nachtrag Kanalbenutzungsgebührenordnung und Zweiter Nachtrag Klärschlammbeseitigungssatzung - Zur Kenntnis genommen
+- TOP 14: Kostenbeteiligung an Abfallberatung und Stellflächen vom Sammelgroßbehältnissen - Zur Kenntnis genommen
+- TOP 15: Kommunales Abfallwirtschaftskonzept - Einstimmiger Beschluss
+- TOP 16: Überplanmäßige Bereitstellung von Haushaltsmitteln im Bereich "Hilfen zur Erziehung" - Zur Kenntnis genommen
+- TOP 17: Vierzehnter Nachtrag zur Benutzungsordnung Abfallentsorgungsanlagen - Zur Kenntnis genommen
+- TOP 18: Vorprüfung der Gültigkeit der Kommunalwahlen am 30.08.2009 - Einstimmiger Beschluss
+- TOP 19: DauerVO über das Offenhalten von Verkaufsstellen - Zur Kenntnis genommen
+- TOP 20: Bildung des Kreiswahlausschusses für die Landtagswahl - An den Rat verwiesen
+- TOP 21: EU-DLR mit dem Rhein-Kreis Neuss - Zur Kenntnis genommen
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung Rat - Einstimmiger Beschluss
+- TOP 23: Erweiterung Aufnahmekapazität GS Espenstraße - An den Rat verwiesen
+- TOP 24: Erster Nachtrag Schuleinzugsbereiche - Einstimmiger Beschluss
+- TOP 25: Ganztagsoffensive - Zur Kenntnis genommen
+- TOP 25: Schulorganisatorische Maßnahmen Sek.I - Zur Kenntnis genommen
+- TOP 26: Integrative Lerngruppen - Einstimmiger Beschluss
+- TOP 27: Einrichtung von integrativen Lerngruppen an der GHS Kirschhecke - Einstimmiger Beschluss
+- TOP 28: Gründung einer "Stiftung im Museum Abteiberg" - Einstimmiger Beschluss
+- TOP 29: Kommunalverfassungsrecht - Zur Kenntnis genommen
+- TOP 30: Sparkassensatzung - Zur Kenntnis genommen
+- TOP 31: Leistungsvereinbarung - Einstimmiger Beschluss
+- TOP 32: Leistungsvereinbarungen Tagestreff - Einstimmiger Beschluss
+- TOP 33: Leistungsvereinbarung mit dem Deutschen Kinderschutzbund - Einstimmiger Beschluss
+- TOP 34: Vertrag V d K - Einstimmiger Beschluss
+- TOP 35: Vereinbarung mit dem Verein Zornröschen - Einstimmiger Beschluss
+- TOP 36: Vergnügungsstättenkonzept - Einstimmiger Beschluss
+- TOP 37: Bebauungsplan Nr. 693/III - Stadtbezirk Stadtmitte - Einstimmiger Beschluss
+- TOP 38: Bebauungsplan Nr. 690/IX - Stadtbezirk Giesenkirchen - Von Verwaltung zurückgezogen
+- TOP 39: 1. Änderung eines Teilbereiches des Bebauungsplanes Nr. 519/IX - Einstimmiger Beschluss
+- TOP 40: Dreißigster Nachtrag Straßenreinigungssatzung - Einstimmiger Beschluss
+- TOP 41: Vierzehnte Satzung Einheitssätze - Einstimmiger Beschluss
+- TOP 42: Jahresabschluss 2008 GSM - Einstimmiger Beschluss
+- TOP 43: Anfragen - Zur Kenntnis genommen
+- TOP 46: Grundstücksverkauf "Hochwasserrückhaltebecken Geneicken" an den Niersverband - Zur Kenntnis genommen
+- TOP 47: Bodenordnungsmaßnahmen in den Gebieten "Buchholzer Wald" und "Niersaue" - Einstimmiger Beschluss
