@@ -1,0 +1,6 @@
+# TOP 6: Information über Asylverfahren, Aufenthaltserlaubnisse und finanzielle Leistungen (SOZ091209-08355)
+
+- Sitzung: Sozialausschuss (2009-12-09)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/113922
