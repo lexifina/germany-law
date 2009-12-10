@@ -1,0 +1,72 @@
+# 7. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-12-10T10:00:00+01:00
+- Ende: 2009-12-11T23:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/161
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/161
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2009_12_10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00015157.pdf
+- Wortprotokoll: 1. Nachtrag_SR_2009_12_10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00015422.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Mitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Verpflichtung eines Stadtrates gemäß § 35 Abs. 1 SächsGemO
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge - Zustimmung mit Änderung
+- TOP 6: Besetzung des Jugendhilfeausschusses - punktweise Abstimmung
+- TOP 7: Besetzung der Stellvertreter in den Ortsbeiräten Blasewitz und Plauen - Zustimmung
+- TOP 8: Verkehrsbaumaßnahme Potschappler Straße zwischen Karlsruher Straße und Stadtgrenze - Zustimmung mit Änderung
+- TOP 9: Vorhabenbezogener Bebauungsplan Nr. 675, Dresden-Cotta, Einkaufszentrum Hamburger Straße - Zustimmung
+- TOP 10: Vorhabenbezogener Bebauungsplan Nr. 654, Dresden-Niedersedlitz, Wohnsiedlung Kleinborthener Straße/Falkenhainer Straße - Zustimmung mit Änderung
+- TOP 11: Straßenbaumkonzept Dresden - Zustimmung mit Änderung
+- TOP 12: Städtebauliche Überplanung - Zustimmung
+- TOP 13: Begrünung des Wiener Platzes - Zustimmung mit Änderung
+- TOP 14: Innovationspreis "Familienfreundlichstes Unternehmen Dresdens" - Zustimmung
+- TOP 15: Vermeidung des Erwerbs von Produkten aus ausbeuterischer Kinderarbeit im öffentlichen Beschaffungswesen - Zustimmung mit Änderung
+- TOP 16: Parkraumkonzept Johannstadt - Zustimmung mit Änderung
+- TOP 17: Elbtal schützen - Dresdens Erbe, Dresdens Zukunft - Zustimmung
+- TOP 18: Auslegung Bebauungspläne (verbindlicher Bauleitplan) - Vertagung
+- TOP 19: Änderung der Geschäftsordnung des Stadtrates der Landeshauptstadt Dresden - Verweisung
+- TOP 20: Namensgebung der 101. Mittelschule
+- TOP 21: Verlagerung der Außenstelle des Beruflichen Schulzentrums für Agrarwirtschaft und Ernährung Am Werk 1, 01259 Dresden - Zustimmung mit Änderung
+- TOP 22: Planung und Durchführung der Baumaßnahme Marie-Curie-Gymnasium, Zirkusstraße 7, 01069 Dresden - Zustimmung
+- TOP 23: Gewährung einer außertariflichen Zulage für Fachärzte im Gesundheitsamt, Haupt- und Personalamt und Brand- und Katastrophenschutzamt - Zustimmung
+- TOP 24: Produktkatalog der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 27: Satzung zur Änderung der Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 28: Änderung der Satzung der Landeshauptstadt Dresden für den Eigenbetrieb "Stadtentwässerung Dresden" (Eigenbetriebssatzung Stadtentwässerung) - Zustimmung
+- TOP 30: Anmietung und Betreibung einer neu zu errichtenden Kindertageseinrichtung auf dem Grundstück Dieselstraße in 01257 Dresden-Leuben - Zustimmung
+- TOP 31: Verkehrsbaumaßnahme Schandauer Straße zwischen Bergmannstraße und Lauensteiner Straße - Zustimmung mit Änderung
+- TOP 32: Verkehrsbaumaßnahme Saalhausener Straße zwischen Kesselsdorfer Straße und Düsseldorfer Straße - Zustimmung
+- TOP 33: Flächennutzungsplan-Änderung Nr. 54, Ortsamt Prohlis, Teilbereich Tschirnhausstraße/Dohnaer Straße - Zustimmung
+- TOP 34: Bebauungsplan Nr. 213, Dresden-Weißig Nr. 15, Wohnbebauung Heinrich-Lange-Straße - Zustimmung
+- TOP 35: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse der Jahre 2009 und 2010 des Eigenbetriebes Stadtentwässerung Dresden - Zustimmung
+- TOP 37: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen an bestimmten Sonntagen und über das verlängerte Offenhalten an bestimmten Werktagen im Jahr 2010
+- TOP 38: Probeweises Angebot einer bezuschussten 4er-Karte als Sonderticket der Dresdner Verkehrsbetriebe AG für das Kalenderjahr 2010 unter wissenschaftlicher Begleitung durch die Technische Universität Dresden - Zustimmung
+- TOP 39: Verbesserung der Betreuungsqualität in den Dresdner Kindertagesstätten - Vertagung
+- TOP 40: Einführen eines Sozialtarifes - Sozialticket - Vertagung
+- TOP 41: Technisches Rathaus Hamburger Straße - Beratender Ausschuss - Zustimmung
+- TOP 42: Dresden unterzeichnet Pflege-Charta - Vertagung
+- TOP 43: Bericht über Kontrolle und Erfüllung der WOBA-Sozialcharta - Vertagung
+- TOP 44: Überprüfung der Stadträte auf MfS-Tätigkeit - Vertagung
+- TOP 45: Einrichtung von Fahrradstationen an den beiden Dresdner Fernbahnhöfen - Vertagung
+- TOP 46: Abriss verhindern - Wohngebiet Seidnitz/Tolkewitz erhalten - Vertagung
+- TOP 47: Alternative Maßnahmen für die aus der EFRE-Förderung nach V2982 ausgeschiedenen Teile der Entwicklungsgebiete in Löbtau und Plauen - Vertagung
+- TOP 48: Straßenbahnnetzerweiterung Johannstadt - Zentrum - Plauen - Vertagung
+- TOP 49: Vollzeitstelle für Fahrradbeauftragten - Fahrradverkehr systematisch fördern - Vertagung
+- TOP 51: Behandlung der Vorschläge und Anregungen der Einwohnerinnen und Einwohner zum Thema "Zukunft des Kulturpalastes" - zur Kenntnis genommen
+- TOP 52: Bürgerentscheid zur Zukunft des Kulturpalasts - Ablehnung
+- TOP 53: Instandsetzung, Modernisierung und Umbau des Kulturpalastes im Sinne der Erhaltung als Gemeinbedarfseinrichtung mit dem Hauptnutzungszweck: Konzertsaal Dresdner Philharmonie und Städtische Zentralbibliothek - Zustimmung mit Änderung
+- TOP 54: Vergabe-Nr.: A0004/09, Instandsetzung, Modernisierung und Umbau des Kulturpalastes Dresden mit dem Hauptnutzungszweck: Konzertsaal Dresdner Philharmonie und Städtische Zentralbibliothek, Art und Umfang der Leistung: Vergabe von Leistungen für Raum-
+- TOP 55: Verg.-Nr.: A0003/09
+- TOP 56: Verbesserung der Voraussetzungen in der Halle 1 der MESSE DRESDEN für Veranstaltungen der Unterhaltungsmusik - Zustimmung mit Änderung
+- TOP 57: Straßenbahnanbindung Messe/Ostragehege aus Richtung Friedrichstadt - Zustimmung mit Änderung
+- TOP 58: Beendigung des Mietvertrages Technisches Rathaus - Zustimmung
+- TOP 59: Beschleunigung der Sanierung der Albertbrücke - Maßnahmen zur Verbesserung des Verkehrsflusses - Zustimmung
+- TOP 60: Interimsbrücke für Fußgänger und Fahrradfahrer an der Albertbrücke - Zustimmung
+- TOP 61: - Eilantrag - Aufhebung der Straßenausbaubeitragssatzung - Rechtsmittel gegen den Bescheid der Landesdirektion Dresden vom 23.11.2009 - Zustimmung
