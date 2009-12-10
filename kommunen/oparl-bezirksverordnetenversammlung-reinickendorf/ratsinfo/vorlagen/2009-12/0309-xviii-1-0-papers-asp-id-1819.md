@@ -1,0 +1,26 @@
+# Reinickendorfer Seniorenvertretung stärken
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Drucksache/Vorlage: 0309/XVIII
+- Art: Vorlage zur Kenntnisnahme
+- Datum: 2009-12-10
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=1819
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/papers.asp?id=1819
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Drucksache-Sammeldokument https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=130&id=63641
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1438 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1499 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1529 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1631 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1665 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1702 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1717 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1746 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1773 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=1840 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Beratung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2033 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=2
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2037 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2070 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2101 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Entscheidung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2200 https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=2
