@@ -1,0 +1,8 @@
+# TOP A.17: Änderung der Geschäftsordnung des Beirates für Stadtbildpflege
+
+- Sitzung: Rat (4. Sitzung) (2009-12-11)
+- Körperschaft: Stadt Herford
+- Öffentlich: ja
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/22601
+- Beratung: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/8670
+- Beschluss (Datei): Beschlusstext (Änderung der Geschäftsordnung des Beirates für Stadtbildpflege) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYkghnVPQFiuyRy2XUZyygGSwm3Nm3wK8q8Yo0xGhqAZ/Beschlusstext_RA-87-2009_-oeffentlich-_Rat_11.12.2009.pdf
