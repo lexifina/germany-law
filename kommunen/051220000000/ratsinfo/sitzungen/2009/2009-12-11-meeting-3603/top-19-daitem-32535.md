@@ -1,0 +1,6 @@
+# TOP 19: Vorberatung der Gesellschafterversammlung der Stadtwerke Solingen GmbH am 15.12.2009
+
+- Sitzung: Beteiligungsausschuss (2009-12-11)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/32535
