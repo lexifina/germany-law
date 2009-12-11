@@ -1,0 +1,51 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-12-11T16:00:00+01:00
+- Ende: 2009-12-11T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRXAHmOYK_X6yPpRbXrc3-8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3603
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeQwHOCxXykUk8pSqLt2OC6aSyayAJ2m_1GrUK_tZ1y-/Oeffentliche_Niederschrift_Beteiligungsausschuss_11.12.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Organisation der Arbeit, Terminplanung 2010 und Gestaltung des Berichtswesens
+- TOP 4: Beteiligungs-Controlling
+- TOP 5: 3. Quartalsbericht 2009 der Bergischen Volkshochschule - Zweckverband der Städte Solingen - Wuppertal
+- TOP 6: 3. Quartalsbericht 2009 des Dienstleistungsbetriebes "Gebäude" der Stadt Solingen
+- TOP 7: 3. Quartalsbericht 2009 des Technischen Betriebes "Straßen und Grün" der Stadt Solingen
+- TOP 8: 3. Quartalsbericht 2009 der EntsorgungsBetriebe Solingen (EBS)
+- TOP 9: Wirtschaftsplan 2010 der EntsorgungsBetriebe Solingen (EBS)
+- TOP 10: Verschiedenes
+- TOP 11: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Wirtschaftsplan 2010 der Entsorgung Solingen GmbH
+- TOP 4: 3. Quartalsbericht 2009 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 5: 2. Halbjahresbericht 2008/2009 der Städtische Musikschule Solingen GmbH
+- TOP 6: 2. Halbjahresbericht 2008/2009 der Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 7: 3. Quartalsbericht 2009 der Altenzentren der Stadt Solingen
+- TOP 8: 3. Quartalsbericht 2009 der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 9: Wirtschaftsplan 2010 der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 10: Vorberatung der Gesellschafterversammlung der Städtisches Klinikum Solingen gemeinnützige GmbH am 13.01.2010
+- TOP 11: 3. Quartalsbericht 2009 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 12: Wirtschaftsplan 2010 der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 13: Wirtschaftsplan 2010 der Gründer- und Technologiezentrum Solingen GmbH
+- TOP 14: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH (GuT) im Januar 2010
+- TOP 15: Wirtschaftsplan 2010 der Institut für Galvano- und Oberflächentechnik Solingen GmbH
+- TOP 16: Vorberatung der Gesellschafterversammlung der Institut für Galvano- und Oberflächentechnik Solingen GmbH im Januar 2010
+- TOP 17: Wirtschaftspläne 2010 der Sanierungsgesellschaft Südliche Innenstadt Solingen mbH & Co. KG/ Verwaltungs-GmbH
+- TOP 18: Jahresabschluss 2008/2009 der Stadtwerke Solingen GmbH
+- TOP 19: Vorberatung der Gesellschafterversammlung der Stadtwerke Solingen GmbH am 15.12.2009
+- TOP 20: Löschwasservertrag
+- TOP 21: 3. Quartalsbericht 2009 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 22: Vorberatung der Gesellschafterversammlung der Beteiligungsgesellschaft Stadt Solingen mbH am 14.12.2009
+- TOP 23: Verschiedenes
