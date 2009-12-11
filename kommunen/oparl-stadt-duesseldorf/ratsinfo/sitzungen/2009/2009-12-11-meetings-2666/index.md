@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-12-11T16:00:00+01:00
+- Ende: 2009-12-11T00:00:00+01:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2666
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2666
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126183.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126183.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00126183.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift 9/2009 vom 02.10.2009
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Minigolfanlage Südpark
+- TOP 8: Umgestaltung auf dem Kamper Acker Umgestaltung auf dem Kamper Acker
+- TOP 9: Trödelmärkte Bayreuther Straße 1. Halbjahr 2010
+- TOP 10: Trödelmarkt Schützenplatz Spanger Straße
+- TOP 11: Anfrage: Btf. Karweg - Grünfläche?
+- TOP 12: Anfrage: Beleuchtung Geh-/Radweg Münchener Str.
+- TOP 13: Anfrage: U74
+- TOP 14: Anfrage: Benrather Hallenbad
+- TOP 15: Anfrage: Akustisches Warnsignal an Gleisquerungen Kölner Landstraße
+- TOP 16: Anfrage: Unechte Einbahnstraße Opladener Straße
+- TOP 17: Antrag: Umgestaltung Benrather Marktplatz
+- TOP 18: Antrag: Instandsetzung "In der Jücht"
+- TOP 19: Antag: Brücke Hildener Str. / Brockenstr.
+- TOP 20: Antrag: Benrather Marktplatz - behindertengerechte Toilettenanlage -
+- TOP 21: Antrag: Heubesstr./Urdenbacher Allee, Haltestelle
+- TOP 22: Antrag: Geh-/Radweg Itter, Im Besental
+- TOP 23: Antrag: Verbindungsweg Boschstr./Ernst-Abbe-Weg
+- TOP 24: Antrag: Verkehrsführung an der Nürnberger Str. / Kappeler Str.
+- TOP 25: Antrag: Bürgerhaus Benrath
+- TOP 26: Antrag: Ausbau des Fahrradwegnetzes
+- TOP 27: Antrag: Kinder- und Jugendförderplan
+- TOP 28: Antrag: Fußgängerüberweg Kappeler Str. in Höhe Wimpfener Str.
+- TOP 29: Antrag: Verfügungsmittel Seelsorgeeinheit Düsseldorfer Rheinbogen
+- TOP 30: Antrag: Verfügungsmittel "Reisholzer Quatschköpp e.V." 1982
+- TOP 31: Antrag: Verfügungsmittel Förderverein
+- TOP 32: Antrag: Verfügungsmittel AWO
+- TOP 33: Antrag: Verfügungsmittel Pfarrgemeinde St. Hubertus / St. Joseph
+- TOP 34: Antrag: Verfügungsmittel Lauftreff Düsseldorf-Süd
+- TOP 35: Antrag: Verfügungsmittel Repräsentation
+- TOP 36: Antrag: Verfügungsmittel Geranien Rathaus Benrath
+- TOP 37: Antrag: Verfügungsmittel Wikinger Kanufreunde Himmelgeist
+- TOP 38: Antrag: Spende für die Ausrichtung der Ausstellung "von Hand"
+- TOP 39: Antrag: Übertragung von Haushaltsmitteln
+- TOP 40: Dringlichkeitsantrag: Tempo 30 Südallee
