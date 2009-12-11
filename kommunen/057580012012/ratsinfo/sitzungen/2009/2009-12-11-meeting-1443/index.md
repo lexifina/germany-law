@@ -1,0 +1,51 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Herford
+- Beginn: 2009-12-11T16:00:00+01:00
+- Ende: 2009-12-11T19:40:00+01:00
+- Ort: Rathaus, Rathausplatz 1, 32052 Herford, Großer Sitzungssaal
+- Status: 
+- Gremium: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://herford.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZf_-W1SxsbkHT-IO1icwoeQ
+- OParl: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1443
+- Quelle: https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUDNNdRYuFNU4m69WiqUF1ErsVE_NHLACikvFiPa8X2d/Einladung_Rat_11.12.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://herford.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTqPbuzA04FFqRWU610jO1qTaZ3lRN-5m2KXe8VEafn0/Oeffentliche_Niederschrift_Rat_11.12.2009.pdf
+
+## Tagesordnung
+
+- TOP A.: Öffentlicher Teil
+- TOP A.1: Niederschrift des öffentlichen Teiles der Sitzung des Rates vom 30.10.2009
+- TOP A.2: Fragestunde für Ratsmitglieder sowie Einwohnerinnen und Einwohner
+- TOP A.3: Entgegennahme von Erklärungen gemäß § 31 GO NRW
+- TOP A.4: Beschlussfassung über die Gültigkeit der Wahl des Bürgermeisters und des Rates der Stadt Herford am 30. August 2009 nach Maßgabe des § 40 Abs. 1 des Kommunalwahlgesetzes.
+- TOP A.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP A.6: Konsolidierungsprozess
+- TOP A.7: Herforder Stadttore, Kunst im Straßenraum
+- TOP A.8: Beschluss über die Jahresrechnung 2008 und die Entlastung des Bürgermeisters für die Führung der Haushaltswirtschaft im Haushaltsjahr 2008
+- TOP A.9: Ganztagsentwicklung in der Sekundarstufe I; hier: Beschluss über a) die Errichtung einer Mensa für das Königin-Mathilde-Gymnasium b) die Anmietung und Umgestaltung des Grün-Gold Hauses zu einer Mensa für das Ravensberger Gymnasium und das Friedrichs-Gymnasium
+- TOP A.10: Bleiberechtsregelung für in Herford lebende Roma
+- TOP A.11: Konjunkturpaket II der Bundesregierung, Zukunftsinvestitionsgesetz hier: Sachstandbericht zur Umsetzung der Maßnahmen und Aufnahme der Maßnahme „Sanierung des Westflügels des Rathauses“ in die Maßnahmeliste
+- TOP A.12: Anpassung der Fraktionszuwendungen und Festsetzung von Zuwendungen für fraktionslose Ratsmitglieder gem. § 56 (3) GO NRW
+- TOP A.13: Änderung der Satzung des Behindertenbeirates
+- TOP A.14: Benennung neuer Mitglieder für den Behindertenbeirat der Stadt Herford
+- TOP A.15: Änderung der Satzung des Seniorenbeirates
+- TOP A.16: a.) Besetzung des Seniorenbeirates der Stadt Herford b.) Anfechtung der Wahl zum Seniorenbeirat am 06.11.2009
+- TOP A.17: Änderung der Geschäftsordnung des Beirates für Stadtbildpflege
+- TOP A.18: Anpassung der Mitgliederzahl und Wahl der Mitglieder des Wahlausschusses
+- TOP A.19: Lärmaktionsplan der Stadt Herford
+- TOP A.20: Gebührenhaushalt Abfallbeseitigung a) Änderung der Satzung über die Abfallbeseitigung in der Stadt Herford b) Änderung der Satzung über die Kostendeckung der Abfallbeseitigung in der Stadt Herford
+- TOP A.21: Gebührenhaushalt Straßenreinigung hier: 29. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung
+- TOP A.22: Bebauungsplan Nr. 6.65 "Altensenner Weg – Ost“ hier: Satzungsbeschluss
+- TOP A.23: Bebauungsplan Nr. 8.68 "Annastraße/ Am Großen Stein" hier: Satzungsbeschluss
+- TOP A.24: Bebauungsplan Nr. 8.69 "Orthweg" hier: Satzungsbeschluss
+- TOP A.25: Jahresabschluss 2008 des Immobilien-u. Abwasser Betriebes Herford - Feststellung und Ergebnisverwendung
+- TOP A.26: Beteiligungsbericht 2008/2009
+- TOP A.27: Durchführung verkaufsoffener Sonntage im Jahre 2010
+- TOP A.28: Steuerung von Drittorganisationen
+- TOP A.28a: HVV GmbH: Wirtschaftsplan 2010 und geänderter Plan 2009
+- TOP A.28b: Stadtwerke Herford GmbH: Ausweitung des Energiegeschäftes - Stromvertrieb
+- TOP A.28c: Kommunale Aktionärsvereinigung RWEE GmbH: Verkauf der Geschäftsanteile
+- TOP A.28d: WWS GmbH: Wirtschaftsplan 2010 und geänderter Plan 2009
+- TOP A.28e: Interkomm GmbH: Wirtschaftsplan 2010
+- TOP A.28f: KBR Kommunale Beteiligungsges. für den lokalen Rundfunk im Kreis Herford mbH: Jahresabschluss 2008 und Wirtschaftsplan 2010
