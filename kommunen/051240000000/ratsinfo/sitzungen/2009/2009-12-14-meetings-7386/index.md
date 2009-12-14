@@ -1,0 +1,92 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2009-12-14T16:05:00+01:00
+- Ende: 2009-12-14T18:57:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7386
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/7386
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 11.12.2009 - 08.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00112522.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00112789.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Bestellung der Schriftführung - ungeändert beschlossen
+- TOP 1.2: Wahl einer/eines stellvertretenden Vorsitzenden für den Hauptausschuss
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Elektromobilität
+- TOP 2.2: WSW Instandhaltungsstrategie - abschließend zur Kenntnis genommen
+- TOP 2.2.1: WSW Instandhaltungsstrategie - Anfrage der Ratsfraktion DIE LINKE vom 25.11.2009 - abschließend zur Kenntnis genommen
+- TOP 2.3: HSK-Entwurf der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 02.12.09 -HSK Entwurf der Verwaltung- - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Wirtschaftscluster Energie und Energieeffizienz fördern - ungeändert beschlossen
+- TOP 4.2: Resolution: Hilfe aus einer Hand für Langzeitarbeitslose erhalten - geändert beschlossen
+- TOP 4.2.1: Ergänzungsantrag TOP 4.2, VO/0932/09, Resolution: Hilfe aus einer Hand für Langzeitarbeitslose erhalten - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.3: Resolution gegen das Wachstumsbeschleunigungsgesetz - abgelehnt
+- TOP 4.3.1: Antrag zur Tagesordnung - Tagesordnungspunkt 4.3 Gesetz zur Beschleunigung des Wirtschaftswachstums (Wachstumsbeschleunigungsgesetz) - Finanzschwache Kommune berücksichtigen - ungeändert beschlossen
+- TOP 4.4: Dringlichkeitsantrag: Ausbildungs- und Beförderungsverbot - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Begrüßungspaket für Erstklässlerinnen und Erstklässler - Nichtbefassung beschlossen
+- TOP 5.2: Resolution zur Qualitätsentwicklung im Kindertagesstättenbereich - geändert beschlossen
+- TOP 5.3: Wirtschaftsförderung zum Motor für Klimaschutz im Bergischen ausbauen - Nichtbefassung beschlossen
+- TOP 5.4: Solaranlagen auf denkmalgeschützten Gebäuden - Nichtbefassung beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der städtischen Parkgebührenordnung durch Ausweitung der Bewirtschaftungszeiten und Einführung eines Veranstaltungstickets auf den Parkplätzen in der Umgebung des Barmer Bahnhofs und des Opernhauses - ungeändert beschlossen
+- TOP 6.2: Satzung über die Straßenreinigung und den Winterdienst sowie die dafür zu erhebenden Gebühren ab 01.01.2010 - ungeändert beschlossen
+- TOP 6.3: 1. Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal vom 16.12.2008 - ungeändert beschlossen
+- TOP 6.4: Abfallwirtschaftssatzung - ungeändert beschlossen
+- TOP 6.5: Gebührensatzung zur Abfallwirtschaftssatzung 2010 - ungeändert beschlossen
+- TOP 6.6: Pflicht zur Festlegung kürzerer Zeiträume für Dichtheitsprüfungen für im Wasserschutzgebiet Herbringhauser Talsperre befindlicher Abwasserleitungen gem. § 61 a, Abs. 5 Landeswassergesetz NRW - geändert beschlossen
+- TOP 6.7: Neufassung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Fortschreibung der Maßnahmenliste zur Umsetzung des Konjunkturprogramms - ungeändert beschlossen
+- TOP 7.2: Gewährung von Zuschüssen an den privaten Förderschulträger Troxler- Schule Wuppertal, Nommensenweg 12, 42285 Wuppertal - ungeändert beschlossen
+- TOP 7.3: Gewährung von Zuschüssen an den privaten Förderschulträger, Christian-Morgenstern-Schule Wuppertal, Wittensteinstr. 76, 42285 Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung der Richtlinie zur Finanzierung des ÖSPV im Verkehrsverbund Rhein-Ruhr (Finanzierungsrichtlinie) - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplanung KIJU 2010 - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan 2010 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2010 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2010 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplan 2010 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 496 - Kuchhauser Straße - - geändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1130 - Friedrich-Ebert-Straße / südl. Treppenstraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1135 - Am Schaffstal - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Sanierung und Umbau des Sportplatzes Widukindstr. in Wuppertal-Heckinghausen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Bergisches Veterinär- und Lebensmittelüberwachungsamt (BVLA); Personalgestellungsverträge - ungeändert beschlossen
+- TOP 11.2: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen Einjähriger Bildungsgang ""Berufsgrundschuljahr Körperpflege" - ungeändert beschlossen
+- TOP 11.4: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Erweiterung des Bildungsganges "Fachschule für Technik mit der Fachrichtung Maschinenbautechnik - ungeändert beschlossen
+- TOP 11.5: Auflösung des Abendgymnasiums unter gleichzeitiger Fortführung als Bildungsgang des Bergischen Kollegs - ungeändert beschlossen
+- TOP 11.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.7: Realschule Neue Friedrichstr. 19 - Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.8: Gymnasium Am Kothen, Schluchstr.32-34, Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.9: Realschule Leimbacher Str. 4, Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.10: Gymnasium Sedanstr. 14, Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.11: Kath. HS Bundesallee 30 (St. Laurentius-Schule) - Errichtung einer Verteilerküche und einer Mensa - ungeändert beschlossen
+- TOP 11.12: Gesamtschule Langerfeld, Heinrich-Böll-Str. 240/250, Erweiterung um einen auf sechs Züge - ungeändert beschlossen
+- TOP 11.13: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Bildungsgang "European Business Assistant - Europakaufmann" - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Berufung von Mitgliedern mit beratender Stimme für den Ausschuss für Schule und Bildung - geändert beschlossen
+- TOP 12.2: Wahl eines/einer ersten und zweiten Stellvertreters/Stellvertreterin des Vorsitzenden des Verwaltungsrats der Stadtsparkasse Wuppertal - geändert beschlossen
+- TOP 12.3: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Verbandsrat des Wupperverbandes - geändert beschlossen
+- TOP 12.5: Bestellung eines stellvertretenden Mitglieds für die Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - ungeändert beschlossen
+- TOP 12.6: Benennung der Vertreter der Stadt Wuppertal in der Verbandsversammlung des KDN-Dachverbandes kommunaler IT-Dienstleister - ungeändert beschlossen
+- TOP 12.7: Bestellung eines stellvertretenden Mitglieds für die Zweckverbandsversammlung des Zweckverbandes Bergische VHS - ungeändert beschlossen
+- TOP 12.8: Benennung von persönlichen Stellvertretern/innen für die Mitglieder der Verbandsversammlung des Abfallwirtschaftsverbandes EKOCity - geändert beschlossen
+- TOP 12.9: Bestellung stellvertretender Mitglieder für den Verwaltungsrat der Wirtschaftsförderung Wuppertal AöR - geändert beschlossen
+- TOP 12.10: Wahl der Mitglieder/Vertreterinnen für den Beirat bei der Unteren Landschaftsbehörde - ungeändert beschlossen
+- TOP 12.11: Benennung stellvertretender Mitglieder für die Zweckverbände Naturpark Bergisch Land, Ittertal und Wildgehege Neandertal - geändert beschlossen
+- TOP 12.12: Benennung sachkundiger Einwohnerinnen und Einwohner für die Ausschüsse des Rates - ungeändert beschlossen
+- TOP 12.13: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.14: Gremienbesetzung / Benennung - ungeändert beschlossen
+- TOP 12.15: Wahl der BeisitzerInnen des Wahlausschusses für MigrantInnen im Integrationsausschuss 2010 - ungeändert beschlossen
