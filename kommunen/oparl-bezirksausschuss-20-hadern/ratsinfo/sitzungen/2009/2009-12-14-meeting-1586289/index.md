@@ -1,0 +1,118 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2009-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1586289
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1586289
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Hundekottütenspender am Spielplatz Am Waldrand / Sauerbruchstraße
+- TOP 1.2.: Lärmbelästigung wegen Rechtsabbiegern Ampel Senftenauerstraße / Ecke Blumenauer Straße
+- TOP 1.3.: Untersagung der Garderobenlösung durch den Brandschutz in der Grundschule an der Blumenauer Straße
+- TOP 1.4.: Heiglhof-Perspektiven
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag der IG Weihnachtsbaum auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 600,- ? (Direktorium, 11.11.09)
+- TOP 5.2.: Antrag der Kath. Pfarrei Erscheinung des Herrn auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 350,- ? (Direktorium, 10.11.09)
+- TOP 5.3.: Antrag des FC Neuhadern e.V. auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 4.333,61 ? (Direktorium, 16.11.09)
+- TOP 5.4.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 20 Hadern Widmungserweiterung der Gesamtstrecke des Riedmaierweges von einem "beschränkt-öffentlichen Weg, Fußweg" zu einem "beschränkt-öffentlichen Weg, Fuß- und Radweg" (Baureferat, 01.12.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010 (Spielen in der Stadt, 11.11.09)
+- TOP 6.2.: Beschlussvorlage für den Schul- und Sportausschuss vom 13.01.2010: Grundschule Canisiusplatz 2 (Schul- und Kultusreferat, 17.11.09)
+- TOP 6.3.: Gemeinde Planegg, Bebauungsplan Nr. 59-2 Sondergebiet Wissenschaft der Universität in Martinsried, Neubau des Biomedizinischen Centrums (Referat für Stadtplanung und Bauordnung, 16.11.09)
+- TOP 6.4.: Am Kornacker, Neubau eines Doppelhauses mit zwei Carports, DHH 1 und DHH 2 (Referat für Stadtplanung und Bauordnung, 19.11.09)
+- TOP 6.5.: Erinnerungsverfahren: Würmtalstraße 117 Ecke Heiglhofstraße 4 (Baureferat, 23.11.09)
+- TOP 6.6.: Gemeinde Planegg, Bebauungsplan Nr. 70 Lidl westlich der Behringstraße, südlich der Semmelweisstraße (Referat für Stadtplanung und Bauordnung, 26.11.09)
+- TOP 6.7.: Würmtalstr., Neubau einer Wohnanlage (28 WE) mit Tiefgarage - Tektur (jetzt: 34 WE) (Referat für Stadtplanung und Bauordnung, 03.12.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Waldwiesenstr. 1, 1 Kiefer
+- TOP 7.2.: Konrad-Dreher-Str. 6, 1 Ahorn
+- TOP 7.3.: Ettenhoferstr. 13, 1 Birke
+- TOP 7.4.: Senftenauerstr. 139, 3 Fichten
+- TOP 7.5.: Waldeslust 5, 4 Hainbuchen
+- TOP 7.6.: Klematisstr. 12, 1 Tanne
+- TOP 7.7.: Wolkerweg 1 - 13 a, 2 Latschen
+- TOP 7.8.: Fürstenrieder Str., 1 Linde
+- TOP 7.9.: Pfingstrosenstr. 11 a, 1 Birke
+- TOP 7.10.: Pfingstrosenstr. 13, 1 Birke
+- TOP 7.11.: Pfingstrosenstr. 22, 2 Birken
+- TOP 7.12.: Am Kornacker 7, gem. Baumbestandsplänen Nr. 27774 und 27789
+- TOP 7.13.: Am Heidebruch, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 24751
+- TOP 7.14.: Hochwaldstr. 9, 1 Nadelbaum
+- TOP 7.15.: Kruckenburgstr. 30, 1 Birke
+- TOP 7.16.: Kornwegerstr. 42 b, 1 Mammutbaum
+- TOP 7.17.: Kriegerheimstr. 34, 1 Linde
+- TOP 7.18.: Würmtalstr. 6, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 29809
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Flemischweg 26, Fällungsantrag vom 09.10.09, 1 Lärche
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Wilhelm-Weitling-Straße, Haltverbot (Kreisverwaltungsreferat, 03.11.09)
+- TOP 8.2.: Unveränderte Fortführung von Gaststättenbetrieben: - "Schienhammer", Großhaderner Str. 47 (Kreisverwaltungsreferat, 29.10.09)
+- TOP 8.3.: Vollzug der Grünanlagensatzung vom 12.08.1991: Baustelleneinrichtung auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 27.10.09)
+- TOP 8.4.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse, Antr.-Nr. 2035 des BA 15 (Direktorium, 30.10.09)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: Haltverbotszonen an den Bushaltestellen Gelbhofstraße und Hedernfeld: Anbringung von Zeitzusätzen (Kreisverwaltungsreferat, 17.11.09)
+- TOP 8.6.: Verkehrsrechtliche Anordnung, hier: Verlegung der Schulbus- / Bücherbushaltestelle am Canisiusplatz (Farnweg) und Änderung des Zeitzusatzes des Bücherbusses an der Haltestelle Farnweg (Kreisverwaltungsreferat, 24.11.09)
+- TOP 8.7.: Neubau städtischer Kindertageseinrichtung Menaristraße 1, hier: sechsgruppiger Kindergarten und zweigruppiger Hort (Schul- und Kultusreferat, 12.11.09)
+- TOP 8.8.: Baumaßnahmen der Stadtwerke München, hier: Marchioninistraße (SWM, 30.11.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Hundekottütenspender an der Grünanlage Stiftsbogen (Baureferat, 02.11.09)
+- TOP 9.2.: Hortsprengel in Hadern, Zulassung von Kindern in einem Hort (Schul- und Kultusreferat, 05.11.09 und 27.10.09)
+- TOP 9.4.: Schrägparkplatz in der Krokusstraße (Kreisverwaltungsreferat, 03.11.09)
+- TOP 9.5.: Sperrpfosten Sauerbruchstraße / Waldheim / Zöllerstraße / Lorettoplatz (Baureferat, 09.11.09)
+- TOP 9.6.: Baumhaus in Richtung Neurieder Wald (Baureferat, 12.11.09)
+- TOP 9.7.: Hunde auf dem Spielplatz Max-Lebsche-Platz (Baureferat, 12.11.09)
+- TOP 9.8.: Geländer Bushaltestelle Würmtalstraße / Waldhüterstraße (Baureferat, 23.11.09)
+- TOP 9.9.: Hohe Bordsteine in der Guardinistraße (Baureferat, 23.11.09)
+- TOP 9.10.: Wasserrückstau nach Regenfällen auf Sauerbruchstraße und Stiftsbogen (Münchner Stadtentwässerung, 24.11.09)
+- TOP 9.11.: Umplanung des Max-Lebsche-Platzes (Referat für Stadtplanung und Bauordnung, 23.11.09)
+- TOP 9.12.: Rückbau der Aufpflasterung im Kreuzungsbereich Pfingstrosen- / Kriegerheimstraße (Baureferat, 17.11.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Abschlussbericht zum Elterntraining der Caritas, Anzahl der teilnehmenden Eltern aus Hadern (Caritas, 06.11.09)
+- TOP 10.2.: Container am Max-Lebsche-Platz (Remondis, 12.11.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Winterdienst 2009 / 2010 (Baureferat, 30.09.09)
+- TOP 11.6.: Protokoll des 5. Treffens der Frauen- und Genderbeauftragten der Bezirksausschüsse am 08.10.2009 in der Gleichstellungsstelle für Frauen, nächster Termin: 15.12.2009 von 18.00 - 20.00 Uhr im Rathaus am Marienplatz, Raum 109 (Gleichstellungsstelle für Frauen, 26.10.09)
+- TOP 11.7.: Jour Fixe Bezirksausschüsse, Protokoll der Sitzung vom 19.10.09 (Kulturreferat, 03.11.09)
+- TOP 11.8.: Stadtjugendamt, Angebote der Jugendhilfe, Jahresbericht 2008 (Sozialreferat, 11.11.09)
+- TOP 11.9.: Protokoll des Gesprächs der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 09.07.2009 (Direktorium, 26.11.09)
+- TOP 11.10.: Einladung zum Treffen der Frauen- und Genderbeauftragten der Bezirksausschüsse am Dienstag, den 15.12.09 von 18.00 - 20.00 Uhr im Rathaus, Raum 109 (Gleichstellungsstelle für Frauen, 27.11.09)
+- TOP 11.11.: Informationsveranstaltung der Stadtwerke München zur "Neubaustrecke Tram Westtangente" am Mittwoch, 27.01.2010 von 18.00 - 19.30 Uhr (SWM, 09.12.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 07.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02682: Neuer Mieterbeirat, Änderungssatzung
+- TOP 12.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.3.: Beschluss vom 28.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02475: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung a) Grundsatzbeschluss - Rahmenbedingungen und Trends - Potenziale - Schlussfolgerungen b) Weiteres Vorgehen c) Vergabe eines Werkauftrages (Sachkosten: 450.000,- ?)
+- TOP 12.4.: Beschluss vom 28.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02420: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2008 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 12.1.: Beschluss vom 11.11.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03101: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018, Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 zur Sitzungsvorlage Nr. 08-14 / V 02878: Strukturelles Umsetzungskonzept für die Verwirklichung verkehrlicher Maßnahmen unter Verwendung von Stellplatzablösemitteln
+- TOP 12.2.: Beschluss des Bauausschusses vom 17.11.2009 zur Sitzungsvorlagen Nr. 08-14 / V 02063: Fuß- und Radwegbrücken in München
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02742: Bericht zu REGSAM REGSAM neu denken, Vertragszeitraum 2010 - 2012, insbesondere Jahresbericht 2008, Region 20 - Hadern, Anlage 1, S. 57 - 59
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02890: Haushaltsplan 2010 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.10.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02802: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2008/2009 - Feinkonzept 2010 - Grobkonzept 2011 Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 12.6.: Beschluss des Bauausschusses vom 17.11.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03182: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03168: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03311: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitausschusses und des Umweltschutzausschusses in der gemeinsamen Sitzung vom 10.11.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02891: PERSPEKTIVE MÜNCHEN, Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und familienfreundliches Wohnen" - Empfehlungen für kinder- und familiengerechtes Wohnen - Maßnahmen zur Verbesserung der Wohnberatung
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03346: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03345: Handlungsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.10.2009 zur Sitzungsvorlage Nr. 08-14 / V 02958: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2009-30.06.2009
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
