@@ -1,0 +1,69 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2009-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1620685
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1620685
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Kleingartenanlage NW 18; Rückschnitt der Büsche und Sträucher an der Waldhornstraße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Planung der Einsätze der Münchner Sommer Spiel-Aktion 2010
+- TOP 3.2.: Sanierung Schulzentrum Gerastraße
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parksituation im Bereich Gärtnerstraße 36
+- TOP 3.2.: Parken vor Baumnasen in der Irma-Wenke-Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Antrag auf Versetzung der Container in der Hugo-Troendle-Straße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Verlängerung Tempo-30-Zone Riesstraße
+- TOP 4.2.: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 4.3.: Bauvorhaben und Planungsstand Schulzentrum Gerastraße
+- TOP 4.4.: Raumplanung Schulzentrum Gerastraße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Widmungserweiterung einer Teilstrecke des Magdalena-Bräu-Weges
+- TOP 5.2.: Sondernutzungserlaubnis Sanitätshaus Samberger
+- TOP 5.3.: Gewährung eines Zuschusses aus dem Budget des BA 10; GS Amphionpark: Trommelkurs für die 1. und 2. Klassen
+- TOP 6: Anhörungen
+- TOP 6.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/42 ? Dachauer Straße (südlich), Baubergerstraße (westlich), Allacher Straße (nördlich), Bahnlinie München-Regensburg (östlich) und Bebauungsplan mit Grünordnung Nr. 1940 a; Erörterungsveranstaltung am 30.11.2009 Bunzlauer Platz (südwestlich), Baubergerstraße (nordwestlich) und Bahnlinie München-Regensburg (südöstlich)
+- TOP 6.2.: Abfallentsorgungsanlage Am Neubruch 9
+- TOP 6.3.: Vollzug der Baumschutzverordnung: 1. Siegmund-Schacky-Str. 6 2. Bingener Str. 21 - 25
+- TOP 6.4.: Öffentliche Grünfläche Knorrr-Bremse; Triebstraße / Moosacher Straße
+- TOP 6.5.: Errichtung von Kinderkrippen sowie Bauträgerauswahl für Sozialen Wohnungsbau
+- TOP 6.6.: Zweckentfremdung von Wohnraum
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Schließung des Rangierbahnhofs (lt. DB ist eine Reduzierung von Leistungen, nicht jedoch eine Stilllegung geplant)
+- TOP 7.2.: Senkung vor und nach der Brücke im Grünstreifen nördlich der Allacher Straße (Mulden werden beseitigt)
+- TOP 7.3.: Einrichtung eines Stellplatzes für "Stattauto" in dem neu entstehenden Parkhaus am Moosacher Bahnhof (abhängig von der Auslastung der Garage ist eine Einrichtung möglich)
+- TOP 7.4.: Umbau Kinderkrippe Dobmannstr. 10 (Parksituation und Freiflächengestaltung ist geregelt)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018; Eckdatenpapier zum ersten Berwerbungsdokument (Mini Bid Book)
+- TOP 8.4.: Memminger Platz / Untermenzinger Straße; Oberflächenwiederherstellung nach U-Bahnbau
+- TOP 8.5.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Dobmannstr. 10 mit 24 Kinderkrippenplätzen / Umbau
+- TOP 8.6.: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 8.7.: Kennzahlen der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 8.8.: Handlungsprogramm Mittlerer Ring; Wohnen am Ring - Fortführung des Förderprogramms
+- TOP 8.9.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP 8.10.: Dokumentation Expertenhearing Baumschutz am 16.10.2008 im Großen Sitzungssaal des Rathauses
+- TOP 8.11.: Straßenbaumaßnahme Ambossstraße zwischen Allacher Straße und Melitta-Bentz-Straße
+- TOP 8.12.: Linienführung Bus 51 (Bürgerschreiben an die MVG)
+- TOP 8.13.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP 8.14.: Anordnung für bedarfsweise Verkehrsregelung OEZ an Weihnachtssamstagen
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
