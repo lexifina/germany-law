@@ -1,0 +1,6 @@
+# TOP 14a: Stromlieferung 2011/12 für das Segment "Sonderlieferstellen"
+
+- Sitzung: Stadtrat (3. Sitzung) (2009-12-15)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/15754
