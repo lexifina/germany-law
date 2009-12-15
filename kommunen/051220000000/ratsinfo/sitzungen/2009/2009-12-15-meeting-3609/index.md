@@ -1,0 +1,54 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-12-15T17:00:00+01:00
+- Ende: 2009-12-15T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZegmzVDSOAjOSRtlkeRRAZ4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3609
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfq52ryDf3g4ZBFRXzWJ6vA0zqZkJpjXnosjLf7lLOmm/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_15.12.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: HSK-Maßnahme 199 - Reduzierung Standard Grünflächenunterhaltung
+- TOP 2: Verpflichtung der Ausschussmitglieder
+- TOP 3: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4: Bestellung des Schriftführers für den Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+- TOP 5: Protokoll über die 39. Sitzung des ASVU am 21.09.2009
+- TOP 6: 3. Quartalsbericht 2009 (Ergebnisplan) inklusive HSK-Controlling
+- TOP 7: Bestellung des Vorsitzenden des Umlegungsausschusses
+- TOP 8: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 9: Verknüpfung Korkenziehertrasse - Müngsten (Straßenbahntrasse)
+- TOP 10: Abrechnungssatzung Dönhoffstraße
+- TOP 11: Bauleitplanung Freizeitanlage Aufderhöhe
+- TOP 12: Bauleitplanung Pöttweg
+- TOP 13: Bauleitplanung Henkenheide/ Spreestraße
+- TOP 14: Bauleitplanung Birkerstraße, Werwolf
+- TOP 15: Kommunale Demokratie stärken
+- TOP 16: Brücke Holunderweg
+- TOP 17: Angebot an Busfahrten in Richtung Papiermühle
+- TOP 18: Qualität der Leistungserbringung auf der S 7
+- TOP 19: Landesprogramm für energieeffiziente Siedlungen - 100 Klimaschutzsiedlungen in NRW
+- TOP 20: Altenhofer Straße
+- TOP 21: City 2013 - "Kreativ- und Standortoffensive für die Solinger Innenstadt"
+- TOP 22: Neues S-Bahn-Konzept des VRR und die Auswirkungen auf den Fahrplan der Stadtwerke Solingen GmbH (SWS)
+- TOP 23: Müngstener Brücke
+- TOP 24: Beitrag zur Stadt- und Verkehrsplanung,
+- TOP 25: Westliche Verlängerung der Viehbachtalstraße (L 405), Anbindung an die A3,
+- TOP 26: Stadterneuerungsanträge 2009
+- TOP 27: Verleihung des European Energy Award an die Stadt Solingen
+- TOP 28: Deutscher Lokaler Nachhaltigkeitspreis Zeitzeiche(N) für Solinger Aktionsprogramm "Nachhaltige Entwicklung"
+- TOP 29: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 30: Zusätzliche IC/ICE-Verbindungen Solingen Hauptbahnhof
+- TOP 31: Stadtquartier am Solinger Hauptbahnhof
+- TOP 32: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Freianlage/Stadtteilplätze Solingen Hauptbahnhof
+- TOP 4: Möbelmarkt der Fa. Boss in der Kölner Straße 22-24
+- TOP 5: Verschiedenes
