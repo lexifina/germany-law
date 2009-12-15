@@ -1,0 +1,122 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2009-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1621481
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1621481
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzung
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Zipfelmützen e.V. (Az.: 10/09 - 3.4.1): Zuschuss in Höhe von 603 ? für die Anschaffung von Esstischen und Lampen
+- TOP 2.3.2.: Antrag auf Budgetbewilligung aus dem Eigenanteil des BA 9 (Az.: 12/09 - 4.1): Zuschuss in Höhe von 3.500 ? für den Jahresempfang am 28.01.10
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Baureferat (Az.: 04/04 - 3.1.5): Standortgenehmigung für Parkscheinautomaten Blutenburgstr. 48, St.-Vinzenz-Viertel
+- TOP 2.4.2.: Baureferat (Az.: 10/96 - 3.2.13): Grüne Fuge Nord; Anlage einer öffentlichen Grünfläche mit Kinderspieleinrichtungen im Bebauungsplan mit Grünordnung Nr. 1926 b , Wilhelm-Hale-/Schloßschmidstraße
+- TOP 2.4.3.: KVR (Az.: 12/09 - 4.2): Genehmigung einer Freischankfläche, "Nymphenburger Feinkost", Notburgastr. 10
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Umbau des Romanplatzes
+- TOP 3.2.: Bürgeranliegen: Zuparken der Ruffinistraße Ecke Waisenhausstraße
+- TOP 3.3.: Kommunalreferat: Einziehung des Straßennamens "Simeoniplatz"
+- TOP 3.4.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Blutenburgstr. 57
+- TOP 3.5.: KVR: 25. München Marathon am 10.10.2010
+- TOP 3.6.: Baureferat: Bauarbeiten Wendl-Dietrich-Straße (Bushaltestellen Dankwartstraße) von 09.11. bis Mitte Dezember 2009
+- TOP 3.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP 3.8.: Baumaßnahmen der Stadtwerke München / November
+- TOP 3.9.: Direktorium: Bürgeranliegen Straßensituation im Stadtteil Neuhausen, Nymphenburg, Gern (Wiedervorlage aus der Sitzung vom 17.11.09) / Gespräch mit Baureferat
+- TOP 3.10.: Bürgeranliegen: Haltverbot an der Kreuzung Franz-Schrank-Straße / In den Kirschen (Schreiben BA 9 vom 20.10.09, Wiedervorlage aus der Sitzung vom 17.11.09) / Ergebnis Ortstermin
+- TOP 3.11.: Bürgeranliegen: Raser in der Birkerstraße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.12.: Bürgeranliegen: Fernwärmeprojekt Jutastraße - Fahrbahnbelag (Schreiben BA 9 vom 16.11.09)
+- TOP 3.13.: KVR: Linksabbiegeampel für Radfahrer an der Dachauer Straße stadtauswärts in Höhe Lazarettstraße, Zwischennachricht (Antrag BA 9 Nr. 1461 vom 15.09.09)
+- TOP 3.14.: KVR: Bürgeranliegen Gefahrlose Querung der Wotanstraße / Walhallastraße (Schreiben BA 9 vom 18.08.09)
+- TOP 3.15.: Bürgeranliegen: Belästigungen bei Tollwood 2009
+- TOP 3.16.: Baureferat: Neue und verlängerte Fahrbahnmarkierung der Abbiegespuren am Romanplatz (Antrag BA 9 Nr. 1324 vom 21.07.09)
+- TOP 3.17.: KVR: Abbau der Lichtzeichenanlage Dom-Pedro-/Raglovichstraße, hier: Ersatzmaßnahmen (Schreiben BA 9 vom 15.09.09)
+- TOP 3.18.: Bürgeranliegen: Aufhebung der Einbahnstraßenregelung De-la-Paz-/Winfriedstraße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.19.: Baureferat: Bürgeranliegen Neubaugebiet Hirschgarten (Schreiben BA 9 vom 20.10.09)
+- TOP 3.20.: KVR: Einrichtung eines Fußgängerüberweges in der Albrechtstraße (zwischen Zufahrt Rupprecht-Gymnasium/Feuerwehrzufahrt und Litfaßsäule)
+- TOP 3.21.: Parkraummanagement
+- TOP 3.22.: Baureferat: Standortgenehmigung für Parkscheinautomaten Blutenburgstr. 48, St.-Vinzenz-Viertel
+- TOP 3.23.: KVR: Bürgerbeschwerde zur Parklizenzierung St.-Vinzenz-Viertel
+- TOP 3.24.: KVR: Parklizenzgebiete "Albrechtstraße" und "Kasernenviertel"; Gebietswechsel/Umbeschilderungen im Bereich Kapschstraße (Schreiben BA 9 vom 13.10.09)
+- TOP 3.25.: Bürgeranliegen: "Kasernenviertel" / Name für Parkzone (Schreiben BA 9 vom 16.11.09)
+- TOP 3.26.: BA 3 Maxvorstadt: Realisierung der gleisübergreifenden Wegevernetzung des Neubaugebietes Arnulfpark durch Fußgänger- und Fahrradstege (Antrag BA 9 Nr. 1576 vom 20.10.09)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 02.11.-08.11., 09.11.-15.11. und 16.11.-22.11.09
+- TOP 3.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: Handlungsprogramm Mittlerer Ring; Wohnen am Ring - Fortführung des Förderprogrammes
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP 3.4.: Bauvorhaben Nederlinger Str. 103: Neubau einer Doppelhaushälfte
+- TOP 3.5.: Bauvorhaben Bernabeistr. 4: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.6.: Referat für Gesundheit und Umwelt: Lärmbelästigung der Anwesen Christoph-Rapparini-Bogen 13,15 und 17 durch ICE-Züge (Schreiben BA 9 vom 21.07.09)
+- TOP 3.7.: Bauvorhaben Hofenfelsstr. 48: Umbau der UG-Wohnung, Ausbau der südlichen Dachfläche, hier: Baumfällungen
+- TOP 3.8.: Beschluss der Vollversammlung des Stadtrats vom 11.11.09: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018; Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book)
+- TOP 3.9.: =&gt; dazu: Workshop zur Rahmenplanung Olympiapark am 15.12.09
+- TOP 3.10.: Nichtöffentlich:
+- TOP 3.11.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Schlörstraße
+- TOP 3.12.: Sozialreferat: Zwecktentfremdung von Wohnraum, hier: Scherrstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Nymphenburger Str. 88: Fällung von 1 Esche
+- TOP 3.2.: Dom-Pedro-Str. 19: Fällung von 1 Birke
+- TOP 3.3.: Ruffinistr. 2a: Fällung von 1 Laubbaum
+- TOP 3.4.: Romanstr. 13: Fällung von 1 Ahorn
+- TOP 3.5.: Hirschgartenallee 46: Fällung von 1 Birke
+- TOP 3.6.: Frickastr. 25: Fällung von 1 Birke
+- TOP 3.7.: Baureferat: Fällen von Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.8.: Referat für Gesundheit und Umwelt: Ausnahmezulassung für Maschinenarbeiten auf dem Krankenhausgelände des Deutschen Herzzentrums an der Lazarett- bzw. Lothstraße vom 19.11.-22.11.09 20 Uhr
+- TOP 3.9.: Planungsreferat: Fällungsgenehmigung Lazarettstr. 57
+- TOP 3.10.: Planungsreferat: Fällungsgenehmigung Taschnerstr. 10
+- TOP 3.11.: 2 Bürgeranliegen zum Verbleib der Wertstoffcontainer an der Karl-Schurz-/Stupfstraße und Renata-/Arnulfstraße
+- TOP 3.12.: Ergebnis der Überprüfung der Ersatzpflanzungen im Bereich des 9. Stadtbezirkes (Wiedervorlage aus der Sitzung vom 20.10.09)
+- TOP 3.13.: Baureferat: Karl-Schurz-Straße; Hundehaufen im Abschnitt "Ewiges Licht" bis zur Renatastraße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.14.: Wasserwirtschaftsamt München: Baumpflege am Nymphenburg-Biedersteiner-Kanal (Schreiben BA 9 vom 15.09.09)
+- TOP 3.15.: Bürgeranliegen: Mangelnde Pflege des Friedhofs Nymphenburg (Wiedervorlage aus der Sitzung vom 20.10.09)
+- TOP 3.16.: Bürgeranliegen: Flugverbot über München
+- TOP 3.17.: Baureferat: Dokumentation Expertenhearing Baumschutz am 16.10.08
+- TOP 3.18.: Planungsreferat: Aufnahme der Buche in der Hawartstraße in die Liste der Naturdenkmäler (Antrag BA 9 Nr. 1447 vom 18.08.09, Wiedervorlage aus der Sitzung vom 17.11.09)
+- TOP 3.19.: Bürgeranliegen: Prüfung Entfernung der Wertstoffinsel gegenüber Irnfriedstr. 11 / Herthastraße
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Bürgeranliegen: Einrichtung von Hortplätzen in der Zweig-Grundschule Südliche Auffahrtsallee / Trojanostr. 15
+- TOP 3.2.: Bürgeranliegen: Dramatische Toilettenlage in der Grundschule Winthirstraße
+- TOP 3.3.: Antrag SPD: Errichtung einer Kinderkrippe in der Dietleibstr. 11 / Wendl-Dietrich-Straße
+- TOP 3.4.: Spielen in der Stadt: Planung der Einsätze der Münchner Sommer SpielAktion 2010
+- TOP 3.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.09: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 3.6.: Sozialreferat: Regionaler Sozialbericht 2008, Sozialregion Neuhausen-Nymphenburg-Moosach
+- TOP 3.7.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Wiedervorlage aus der Sitzung vom 17.11.09)
+- TOP 3.8.: Antrag Zipfelmützen e.V.: Zuschuss in Höhe von 603 ? für die Anschaffung von Esstischen und Lampen
+- TOP 3.9.: Zukunft des IWO II Menzingerstraße / Gespräch mit der Inneren Mission
+- TOP 3.10.: Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 30.11.09 / Bericht
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12.: Planungsreferat: Wettbewerb "Wiesenfeld-Siedlung"; Stationäre Pflegeeinrichtung mit betreuter Wohnform für alte Menschen in der Sozialregion Mitte
+- TOP 3.13.: Verwendungsnachweis über eine Bewilligung aus dem Budget des BA 9, hier: Jugendtreff Neuhausen
+- TOP 3.14.: Bayerisches Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen: Jugendsozialarbeit an der Grundschule Hirschbergstraße (Schreiben BA 9 vom 22.10.09)
+- TOP 3.15.: BA 2 Ludwigsvorstadt-Isarvorstadt: 18.jetzt 2009 im Rathaus - Quiz "BA - Was ist das ?"
+- TOP 3.16.: Vorstellung des Baureferates / Gartenbau: Möblierung des Gartens vom Kriegsarchiv, Leonrodstraße
+- TOP 3.17.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse, hier: Pädagogische Aktion
+- TOP 3.18.: Sozialreferat: Errichtung des zweiten Alten- und Servicezentrums (ASZ) in Neuhausen-Nymphenburg an der Arnulfstr. 294
+- TOP 3.19.: Beschluss des Kinder- und Jugendhilfeausschusses, des Ausschusses für Stadtplanung und Bauordnung, des Gesundheitsausschusses und des Umweltschutzausschusses in der gemeinsamen Sitzung vom 10.11.09: Perspektive München, Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und familienfreundliches Wohnen"
+- TOP 3.20.: Baureferat: Grüne Fuge Nord; Anlage einer öffentlichen Grünfläche mit Kinderspieleinrichtungen im Bebauungsplan mit Grünordnung Nr. 1926 b , Wilhelm-Hale-/Schloßschmidstraße
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Protokoll Jour Fixe Bezirksausschüsse vom 19.10.09
+- TOP 3.2.: Kommunalreferat: Überplanung des Areals Dachauer Str. 102-114 (Antrag BA 9 Nr. 959 vom 17.03.09), Wiedervorlage aus der Sitzung vom 19.05.09
+- TOP 3.3.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse, hier: Theaterprojekt "Starke Stücke"
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag auf Budgetbewilligung aus dem Eigenanteil des BA 9: Zuschuss in Höhe von 3.500 ? für den Jahresempfang am 28.01.10
+- TOP 4.2.: KVR: Genehmigung einer Freischankfläche, "Nymphenburger Feinkost", Notburgastr. 10
+- TOP 4.3.: Direktorium: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse
+- TOP 4.4.: KVR: Losverkaufsstände Tombola für München 2010
+- TOP 4.5.: KVR: Kundgebung "Stoppt die Verfolgung von Falun Gong" am 06.12.09 in der Hirschgartenallee gegenüber dem chinesischen Konsulat
+- TOP 4.6.: KVR: Pächterwechsel a) "Cafe Blue", Dachauer Str. 159 b) "Inge's Treff", Dachauer Str. 189 c) "Bovenga due", Dom-Pedro-Str. 24 d) "Yee Chino", Helene-Weber-Allee 19 e) "Vereinsgaststätte FC Teutonia e.V.", Schwere-Reiter-Str. 13 f) "Bayerischer Herold", Leonrodstr. 73 g) "Asia Lounge Hai Li", Hilblestr. 20 h) "Das Stüberl", Schulstr. 2
+- TOP 4.7.: KVR: Drehgenehmigungen a) Studentisches Filmprojekt, Gelände an der Dachauer Str. 110 d am 21.11.09 b) Produktion "Kanal Fatal, der kleine Bullizist", Fuetererstr. 1-17 / 2-12 am 26.11.09
+- TOP 4.8.: Beschluss des Bauausschusses vom 17.11.09: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP 4.9.: KVR: Neuer Plan / Beschickerliste für Weihnachtsmarkt Rotkreuzplatz Nord vom 27.11.-23.12.09
+- TOP 4.10.: Empfehlungen und Anfragen aus der Bürgerversammlung vom 24.11.09
+- TOP 5: Verschiedenes
