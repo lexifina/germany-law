@@ -1,0 +1,83 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2009-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1630822
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1630822
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: (E) Sanierung und Ausbesserung der Straßenbeläge in der Gartenstadt, vorrangig in der Libellenstraße und der Einfahrt zum Aumeister Empfehlung Nr. 08-14 / E 00087 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 08.07.2008
+- TOP 1.1.: Bernsteinweg 12, Fl.Nr.: 309/258; Neubau eines Reihenhauses (Haus C) mit Garage und Stellplatz
+- TOP 1.2.: Maria-Probst-Straße 47, Fl.Nr.: 182/3, Nutzungsänderung mit Umbau
+- TOP 1.3.: Aufstellung von Werbeanlagen a) Domagkstr., Fl.N.: 874/5, 2 Plakattafeln auf der Westseite des Grundstücks befristet von 2009 bis 2012 b) Domagkstr., Fl.N.: 874/5, 2 Plakattafeln auf der Ostseite des Grundstücks befristet von 2009 bis 2012
+- TOP 1.4.: Heimstättenstraße 23, Fl.N.r. 125/10, Neubau eines Einfamilienhauses, Vorbescheid (vertagt aus 11/09)
+- TOP 1.5.: Erweiterung des Wochenmarktes an der Münchner Freiheit
+- TOP 1.6.: Flurstück 309/0, Errichtung eines Besucherinformations- und Bildungszentrum (Vorbescheid)
+- TOP 1.7.: Dietlindenstraße 26, Flurstück 921/14, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (Vorbescheid)
+- TOP 1.8.: Frankfurther Ring, Flurstück 264/0. Neubau eines Büro- und Dienstleistungsgebäudes mit Tiefgarage (Vorbescheid)
+- TOP 1.9.: Domagkstraße, Flurstück 266/7, Neubau zweier Büro- und Dienstleistungsgebäude inkl. Parkhaus und Tiefgarage (Vorbescheid)
+- TOP 1.1.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz Antrag Nr. 08-14 / A 00871 von Herrn Stadtrat Manuel Pretzl vom 25.06.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 Sitzungsvorlage Nr. 08-14 / V 03311
+- TOP 1.2.: Neuwidmung Isarpromenade zwischen Isarring und Brudermühlstraße Empfehlung Nr. 08-14 / E 00204 der Bürgerversammlung des 01. Stadtbezirkes Altstadt-Lehel am 02.12.2008 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 Sitzungsvorlage Nr. 08-14 / V 03122
+- TOP 1.3.: Veränderungssperre Nr. 648 - Otto-Sendtner-Straße 4 (Fl.Nr. 589/9 und 589/60) Erste Verlängerung nach § 17 Abs. 1 BauGB (Bebauunsplan Nr. 2012) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 Sitzungsvorlage Nr. 08-14 / V 03231
+- TOP 1.4.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung Zustimmung zur Durchführung 2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 Sitzungsvorlage Nr. 08-14 / V 03346
+- TOP 1.5.: Zurückziehung des Antrags auf Freischankfläche vor dem Backshop mit Cafe, Leopoldstraße 64
+- TOP 1.6.: Fuß- und Radwegbrücken in München Beschluss des Bauausschusses vom 07.11.2009 Sitzungsvorlage Nr. 08-14 / V 02063
+- TOP 1.7.: Freischankfläche vor der Eisdiele "Bartu", Wilhelmstraße 23, Schreiben des KVR-BI Nord, 19.11.2009
+- TOP 1.8.: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 Sitzungsvorlage Nr. 08-14 / V 03345
+- TOP 1.9.: Gebrauchtwagenmarkt an der Freisinger Landstraße (Schreiben des Referates für Stadtplanung und Bauordnung vom 24.11.2009 zu B4.1/10/09)
+- TOP 1.10.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen Antrag Nr. 08-14 / A 01060 von Herrn Stadtrat Dr. Georg Kronawitter vom 23.09.2009 Sitzungsvorlage Nr. 08-14 / V 03366
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes "Tristanstraße" gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007
+- TOP 1.2.: Sanierung und Ausbesserung der Straßenbeläge in der Gartenstadt, vorrangig in der Libellenstraße und der Einfahrt zum Aumeister Empfehlung Nr. 08-14 / E 00087 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 08.07.2008 Sitzungsvorlage Nr. 08-14 / V 03435 (siehe auch TOP B 2.1)
+- TOP 1.3.: Sondernutzungserlaubnis für die Montana Sports GmbH für die Aufstellung eines mobilen Fahrradständer auf der Leopoldstraße
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Potsdamer Straße 1 , Fällung einer Robinie; Baumveränderung am Wallnussbaum
+- TOP 1.2.: Heinrich-Geißler-Straße 45, 1 Spitzahorn
+- TOP 1.3.3.: Sonstige Anhörungen
+- TOP 1.1.: Entwicklung eines passiven Feinstaubkonzepts für den Bereich der Umweltzone
+- TOP 1.1.: Parkplatzprobleme vor der BR-Wohnanlage Floriansmühlstraße 64-74
+- TOP 1.2.: Parken in der Heinrich-Groh-Straße in Freimann
+- TOP 1.5.3.: Genehmigte Baumfällungen
+- TOP 1.1.: Fällung von Gefahrenbäumen gemäß Anlage (Baureferat, 18.11.2009)
+- TOP 1.2.: Helene-Wessel-Bogen 7, Fl.Nr. 137/19, Gemarkung: Freimann Antrag auf Baumveränderung vom 02.11.2009
+- TOP 1.3.: Bauernfeindstraße 3, Fl.Nr. 299/6; Gemarkung: Freimann; Fällungsantrag vom 28.10.2009 auf dem Grundstück (Planungsreferat; 02.12.2009)
+- TOP 1.1.: Radverkehr; Sitzung des BA 12 vom 27.10.2009 Empfehlung Nr. 02-08 / E 00509 der Bürgerversammlung des Stadtbezirk 12 Schwabing-Freimann vom 18.07.2009; Schreiben des Kreisverwaltungsreferates vom 16.11.2009
+- TOP 1.2.: Windkraftanlage Fröttmaning Lichtinstallation "Hope - Stern des Südens" vom 29.11. bis 31.12.2009 Anzeige nach § 15 BImSchG durch die Stadtwerke München Services GmbH vom 05.11.2009
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Filmaufnahmen auf öffentlichem Verkehrsgrund (4)
+- TOP 1.5.: Weihnachtsbeleuchtung im städtischen Einflussbereich Beschluss des Bauausschusses vom 17.11.2009 Sitzungsvorlage Nr. 08-14 / V 03182
+- TOP 1.6.: Freigabe der Einbahnstraßenregelung für Radfahrer in der Siegesstraße zwischen Fendstraße und Nikolaistraße
+- TOP 1.1.: Gewährung eines Zuschusses aus dem Budget des BA 12 a) CLEEC e.V. für das 2. Deutsch-Chinesische Frühlingsfest am 06.02.2010 b) Kindertheater ERBYTHEATER am 21.12.2009 c) Initiative "Ausstellung Seidlvilla" für die Ausstellung "Schleierhaft in TaliBURKAn, die Frau im Islam" vom 26.03. bis 30.04. 2010
+- TOP 2: (E) Ausbau GS Burmesterstr. ..
+- TOP 2.3.: Sperrzeitänderung: Aufhebung der Sperrzeit der Red Horse Vermietungs- und Verwaltungs GmbH für den "Leierkasten"
+- TOP 2.1.: Veranstaltung auf öffentlichem Grund Faschingsveranstaltung am 16.02.2010 im Bereich Siegestor; Veranstalter: G.R.A.L GmbH
+- TOP 2.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 2.1.: "G-Venti" , Grusonstraße, 80939 München
+- TOP 2.1.: Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung - Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 01.12.2009 Sitzungsvorlage Nr. 08-14 / V 03168
+- TOP 2.2.: Schwabinger Weihnachtsmarkt an der Münchner Freiheit vom 17.11. bis 24.12.2009 - neuer Lageplan
+- TOP 2.3.: Eröffnungsveranstaltung der Tramlinie 23 im Bereich der Münchner Freiheit am 12.12.2009 (Eilentscheidung - Zustimmung durch den BA 12)
+- TOP 2.4.: Zuwendungsbewilligung aus dem Budget des BA 12 für das Rationaltheater für die Fassbindertage vom 18.11. bis 22.11.2009
+- TOP 2.5.: Verwendungsnachweis für die Gewährung eines Zuschusses aus dem Budget des BA 12 - Evang.-Luth. Pfarramt München -Nikodemuskirche -Gemeindefest vom 12.07.2009 in der Alten Heide
+- TOP 2.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 2.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4.: Bürgeranliegen
+- TOP 2.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 2.5.3.: Sonstige Unterrichtungen
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
