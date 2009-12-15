@@ -1,0 +1,6 @@
+# TOP 4: Bebauungsplangebiet D 301 Zietenstraße
+
+- Sitzung: Finanzausschuss (2009-12-15)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11606
