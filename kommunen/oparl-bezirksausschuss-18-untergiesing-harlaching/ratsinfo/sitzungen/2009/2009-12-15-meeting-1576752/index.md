@@ -1,0 +1,94 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2009-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1576752
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1576752
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: 1.6 Nachbesetzung in den Unterausschüssen
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Antrag auf verkehrsberuhigten Bereich sowie Öffnung der Einbahnstraße für Radfahrer in der Pistorinistraße; Bürgerantrag vom 15.11.2009
+- TOP 2.2.: Antrag für Zebrastreifen an der Ecke Harlachinger Straße und Karolingerallee; Bürgerantrag vom 15.11.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Trambahnhaltestelle Großhesseloher Brücke; zusätzliche Parkplätze und Pflege der Grünfläche; Beschluss des BA 18 aus der Sitzung vom 21.10.2008; Antwortschreiben des Baureferats vom 11.11.2009 (negative Erledigung)
+- TOP 3.2.: Claude-Lorrain-Straße; Schutz der Buchen im Straßenbegleitgrün vor parkenden Autos; Kontrolle der Parksituation; Schreiben des BA 18 vom 24.08.09; Antwortschreiben des KVR vom 20.11.2009 (neutrale Erledigung)
+- TOP 3.3.: Ehlersstraße - unübersichtliche Zu- und Ausfahrt zur Tiefgarage; Bürgerschreiben vom 04.08.09; Schreiben des BA 18 vom 24.08.09; Antwortschreiben des KVR vom 23.11.2009 (negative Erledigung)
+- TOP 3.4.: Geiselgasteigstraße 130; Versetzung eines störenden Verkehrszeichens; Schreiben des BA 18 vom 31.07.2009; Antwortschreiben des KVR vom 23.11.2009 (neutrale Erledigung)
+- TOP 3.1.: Anpassung der Beschilderung des linksseitigen Gehwegs an der Siebenbrunner Straße; verkehrsrechtliche Anordnung (Änderung der Anordnung vom 27.07.09 in Punkt 1 und 2) nach § 45 StVO; Mitteilung des KVR
+- TOP 3.2.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz; Sitzungsvorlage Nr. 08-14/V 03311; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (SB)
+- TOP 3.3.: Aufhebung personenbezogener Behindertenparkplatz im Bereich Lohstraße 46; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 05.11.2009
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / - bestandteil; hier: Unterrichtung des Baureferats-Gartenbau über das Fällen von Gefahrenbäumen
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen Meichelbeckstraße; Bescheinigung vom 02.11.2009 3.3.6.2.2 Anwesen Harthauser Straße; Mitteilung vom 23.11.2009 3.3.6.2.3 Anwesen Gabriel-Max-Straße; Mitteilung vom 25.11.2009
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010; Schreiben der Pädagogischen Aktion/Spielen in der Stadt e.V. vom 11.11.2009 mit der Bitte um Mitteilung der Platzvorschläge bis 15. Januar 2010
+- TOP 3.1.: Neugestaltung des Kinderspielplatzes am Paula-Herzog-Weg; BA-Antrags-Nr. 08-14 / B 01338 des BA 18 vom 21.07.09; Antwortschreiben des Baureferats-Gartenbau vom 05.11.09 (positive Erledigung)
+- TOP 3.1.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung; Sitzungsvorlage Nr. 08-14 / V 03168; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2009 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Gemeinde Grünwald; Bebauungsplan Nr. B 46 (1. Änderung zum Bebauungsplan Nr. B 5) - für das Gebiet zwischen der Südlichen Münchner Straße, Ludwig-Thoma-Straße und Ludwig-Ganghofer-Straße; Zuleitung des Referates für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis 22.12.2009
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Aretinstraße 6; Neubau eines Einfamilienhauses; Anhörung vom 17.11.2009
+- TOP 3.2.: Anwesen Meichelbeckstr. 17; Neubau eines Mehrfamilienhauses; Anhörung vom 10.11.09 (vertagt aus der Sitzung vom 17.11.09)
+- TOP 3.3.: Anwesen in der Claude-Lorrain-Straße 25-27; Ertüchtigung des 2. Rettungswegs für die hofseitigen Appartements; Anhörung vom 04.11.09 (vertagt aus der Sitzung vom 17.11.2009)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Neugestaltung der Unterführung Tegernseer Landstraße in Höhe Otkerstraße im Rahmen des Programms "Soziale Stadt"; Planung noch 2009, Fertigstellung möglichst 2010; BA-Antrags-Nr. 08-14 / B 01491 vom 15.09.09; Zwischennachricht des Baureferats vom 10.11.2009
+- TOP 3.1.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.1.1 Anwesen Geiselgasteigstraße; Unterrichtung vom 12.11.2009 3.5.6.1.2 Anwesen Bruggspergerstraße; Unterrichtung vom 09.11.2009 3.5.6.1.3 Anwesen Münchner-Kindl-Weg; Unterrichtung vom 30.10.2009
+- TOP 3.2.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.: Weihnachtsbeleuchtung im städtischen Einflussbereich; Auftrag aus dem Beschluss des Bauausschusses vom 18.11.2008; Sitzungsvorlage Nr. 08-14 / V 03182; Beschluss des Bauausschusses vom 17.11.2009 (SB)
+- TOP 3.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 SSW "PANCHO", Pilgersheimer Str. 60; Mitteilung vom 18.11.2009
+- TOP 3.5.: Neuwidmung Isarpromenade zwischen Isarring und Brudermühlstraße; Sitzungsvorlage Nr. 08-14 / V 03122; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (SB)
+- TOP 3.6.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Zustimmung zur Durchführung 2010; Sitzungsvorlage Nr. 08-14/V 03346; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (VB)
+- TOP 3.7.: Handlungsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms; Sitzungsvorlage Nr. 08-14 / V 03345; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.121.2009 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018; Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book); Sitzungsvorlage Nr. 08-14 / V 03101; Beschluss der Vollversammlung des Stadtrates vom 11.11.2009
+- TOP 4.2.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse; BA-Antrags-Nr. 02-08 / B 02035 des BA 15 vom 26.04.07; Information des Direktoriums vom 30.10.2009
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
