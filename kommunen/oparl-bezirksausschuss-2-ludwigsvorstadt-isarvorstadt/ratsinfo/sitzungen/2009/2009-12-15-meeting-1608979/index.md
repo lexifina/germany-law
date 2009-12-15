@@ -1,0 +1,89 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2009-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1608979
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1608979
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Gewährung eines Zuschusses aus BA-Budgetmitteln: Atelier Hefele & Hottner (Druckkosten)
+- TOP .2.: Gewährung eines Zuschusses aus BA-Budgetmitteln: In VIA Kath. Mädchensozialarbeit (Weihnachtsfeier für Wohnungslose)
+- TOP .1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010, Platzvorschläge vom BA
+- TOP .1.: Sachberichte / Verwendungsnachweise zu Budgetmitteln: 1. Freizeitliga Isarvorstadt e.V., Jugendtreff Tröpferlbad: "Kulturreise Kroatien" 2. Rotznase e.V.: "Anschaffung von Sportgeräten, Musikinstrumenten und Werkbank
+- TOP .2.: Zweckentfremdung von Wohnraum: 1. Pestalozzistr. 2. Goethestr.
+- TOP .3.: Beschluss Kinder- und Jugendhilfeausschuss, Ausschuss für Stadtplanung und Bauordnung, Gesundheitsausschuss und Umweltschutzausschuss vom 10.11.2009: PERSPEKTIVE MÜNCHEN Leitlinie "Kinder- und Familienpolitik" Leitprojekt 1 "Kinder- und familienfreundliches Wohnen"
+- TOP .4.: Beschluss Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 13.10.2009: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP .5.: Beschluss Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 13.10.2009: Haushaltskonsolidierung; Haushaltssicherungskonzept (4. HSK) Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP .6.: Beschluss des Stadtrates vom 11.11.2009: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP .7.: Zahlungsaufforderung an Tanztendenz München e.V.; Überzahlung nicht zurück gezahlt
+- TOP .8.: Zuwendung aus dem Budget der Bezirksausschüsse: Antrag vom Deutsch-Gambischen Verein e.V. vom 02.10.09 (Ablehnung)
+- TOP .9.: Beschluss des Stadtrates vom 28.10.2009: Wohnen in München IV: A) Erfahrungsbericht für das Jahr 2008 B) 1. Bagatellgrenze bei Förderquoten 2. Abschaffung der mietwirksamen, ratenweise fälligen Kaufpreisbestandteile 3. Einführung einer einheitlichen Regelung für Mietsteigerungen
+- TOP .10.: Beschluss Kinder- und Jugendhilfeausschuss und Sozialausschuss vom 01.12.2009: Kennzahlenvergleich der 16 Großstädte der BRD - Europäisches Jahr 2010 gegen ARmut und soziale Ausgrenzung
+- TOP .11.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Antrag der CSU-Fraktion, Initiative: Claudius Wolfrum Pflanzung von zwei neuen Bäumen am Goetheplatz
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Antrag der SPD-Fraktion: Verbesserung der Ausschilderung im Umfeld des neuen ZOB
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Gärtnerplatz 2, Anbau eines Rückgebäudes an ein bereits bestehendes RG - Vorbescheid
+- TOP .2.: Landwehrstr. 5: Nutzungsänderungen
+- TOP .3.: Adlzreiterstr. 23-25: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .4.: Geyerstr.19: Dachgeschossausbau
+- TOP .5.: Geyerstr. 19: Anbau von Balkonen und eines Fassadenaufzuges
+- TOP .6.: Isartalstr. 16: Anbau von 5 Balkonen und einer Dachterrasse
+- TOP .7.: Bayerstr. 41: Erweiterung eines Hotel-Restaurants
+- TOP .8.: Aventinstr. 1: Nutzungsänderung einer ehem. Keks- und Konfektfabrik (RGB) in ein Wohn- und Gewerbegebäude
+- TOP .9.: Goethestr. 16: Nutzungsänderung (Laden statt Durchgang)
+- TOP .10.: Reisingerstr. 1: DG-Ausbau mit 2 Wohneinheiten
+- TOP .11.: Zenettistr. 11: Nutzungsänderung für die Neuordnung des Gesamtstellplatznachweises Viehof München
+- TOP .12.: Nußbaumstr. 14: Nutzung einer Teilfläche des öffentlichen Spielplatzes als Kindergartenspielplatz (Einzäunung)
+- TOP .13.: Bahnhofsplatz 2: 4 Riesenposter-Werbewechselanlagen am Baugerüst
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Gärtnerplatz 2, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 09-27047 siehe TOP B 3.1.1
+- TOP .2.: Isartalstr. 49, Antrag auf Baumfällung
+- TOP .1.: Vollzug der Grünanlagensatzung: Baustelleneinrichtung in der Grünanlage an der Ziemssenstr.
+- TOP .2.: Unterrichtung über das Fällen von Gefahrenbäumen: 2
+- TOP .3.: Beschluss des Stadtrates vom 28.10.2009: PERSPEKTIVE MÜNCHEN: Langfristige Siedlungsentwicklung a) Grundsatzbeschluss b) Weiteres Vorgehen c) Vergabe eines Werkauftrags
+- TOP .4.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP .5.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Neuwidmung Isarpromenade zwischen Isarring und Brudermühlstraße
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: mobiler Fahrradständer, Schillerstr. 7
+- TOP .2.: Freischankflächenantrag der Burger King GmbH vom 25.09.2009, Sonnenstr. 6
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Deklaration der im Wertstoffhof eingehenden Gegenstände als herrenloses Gut
+- TOP .1.: Veranstaltung auf öffentlichem Verkehrsgrund, Anhörung gem. § 29 StVO: Maibaumfest SUB e.V. am 01.05.2010
+- TOP .2.: 200 Jahre Wiesn - Antrag auf Verlängerung des Oktoberfestes
+- TOP .3.2: Verkehr
+- TOP .1.: Filmaufnahmen auf öffentlichem Verkehrsgrund: 7
+- TOP .3.: Unveränderte Gaststättenfortführung: - Aurora-Bar, Beethovenplatz 2 - Ratchada, Schwanthalerstr. 8
+- TOP .4.: Beschluss Bauausschuss vom 17.11.2009: Weihnachtsbeleuchtung im städtischen Einflussbereich
+- TOP .5.: Qualität für mobile Fahrradständer
+- TOP .6.: Werbung im öffentlichen Raum
+- TOP .7.: Versammlungen unter freiem Himmel: 2
+- TOP .8.: Umweltspur/Markierung für Radfahrer am Baldeplatz
+- TOP .9.: Haydnstraße: Geschwindigkeitsbegrenzung auf 30 km/h (Prüfantrag KVR)
+- TOP .10.: Verkehrliche Anordnung zum Wintertollwood 2009
+- TOP .11.: Antrag auf Neuerrichtung eines Gaststättenbetriebes: 1
+- TOP .12.: Veranstaltungen auf öffentlichem Verkehrsgrund: - Weihnachtsmarkt Pink Christmas, Stephansplatz
+- TOP .1.: Termine
+- TOP .1.: 1. öffentliche Sitzung des Mieterbeirates am 18.01.2009 (18:30 Uhr)
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Unterrichtung bei Anträgen auf Ausstellung Abgeschlossenheitsbescheinigungen Schreiben des Direktoriums vom 04.11.09 an das Planungsreferat
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
+- TOP .2.: Lichtzeichenanlage Schwanthalerstraße zwischen Anwesen Schwanthalerstraße 76 und Einmündung St.-Paul-Straße
