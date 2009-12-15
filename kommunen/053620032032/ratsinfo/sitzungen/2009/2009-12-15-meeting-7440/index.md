@@ -1,0 +1,57 @@
+# Stadtrat (3. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2009-12-15T17:00:00+01:00
+- Ende: 2009-12-15T19:02:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZRtuQZeRXvdKtjVTJft1sgc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7440
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZavIil_7-d5vfnRIAG1JM_XARMrm3u_BPGzQaUmHqsnH/Bekanntmachung_Stadtrat_15.12.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZW638Jbk7dRJ6BHq94nq7FEjsNBu6D0Th3fFQM9ByIj3/Oeffentliche_Niederschrift_Stadtrat_15.12.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestimmung von Mitgliedern der Schulkonferenzen der städt. Schulen im Rahmen der Bestellung von Schulleiterinnen oder Schulleitern gem. § 61 SchulG
+- TOP 2.: Stadtentwicklung und Bauleitplanung
+- TOP 2.1: Bebauungsplan TÜ Nr. 6 im Stadtteil Türnich hier: Beschluss zur Aufhebung gem. § 2 (1) BauGB
+- TOP 2.2: Bebauungsplan TÜ 246/4. Änderung "Gewerbe-/Industriegebiet Ville", Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 2.3: Abschluss eines Erschließungsvertrages zum Bauvorhaben der Fa. EMSOL Baubetreuung GmbH in der Eindhovener Straße im Stadtteil Kerpen
+- TOP 3.: Resolution zur Schlichtungsstelle NRW Bergbauschäden
+- TOP 4.: Erlass von Gebührensatzungen
+- TOP 4.1: 4. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 4.2: 13. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 4.3: 10. Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 4.4: 6. Satzung zur Änderung der Satzung der Stadt Kerpen über die Entsorgung von Grundstücksentwässerungsanlagen
+- TOP 4.5: 19. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 5.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen III. Quartal 2009
+- TOP 6.: Konjunkturpaket II hier: Sachstandsbericht und Umsetzung weiterer Maßnahmen
+- TOP 7.: Einführung der Ehrenamtskarte in der Stadt Kerpen
+- TOP 8.: Sozialraumprojekt Sindorf
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1: Bereitstellung von Ausbildungsplätzen für das Jahr 2010
+- TOP 10.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 11.: Mitteilungen
+- TOP 11.1: Integrationsausschusswahl
+- TOP 11.2: Neubau der Kindertagesstätte Türnich
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Verwendung von Fördermitteln des Landes für die Ausstattung von Schulen
+- TOP 12.2: Änderung des Flächennutzungsplanes am südlichen Siedlungsrand in Brüggen
+- TOP 12.3: Fuß-/Radweg in Buir zum Schulgebäude und Neuer Weg
+- TOP 12.4: Schäden am P+R-Platz Sindorf
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Auftragsvergaben
+- TOP 14.1: Autragsvergabe "Zeitvertragsarbeiten Heizung/Sanitär"
+- TOP 14.2: Auftragsvergabe "Rohbauarbeiten Neubau Kita Platanenallee in Türnich"
+- TOP 14.3: Auftragsvergabe "Errichtung eines regensicheren Rohbaus für die Aufstockung der Mühlenfeldschule in Sindorf"
+- TOP 14.4: Auftragsvergabe "Lieferung eines LKW für die Kanalunterhaltung"
+- TOP 14.5: Auftragsvergabe "Lieferung eines Abrollbehälters Wasser/Schaum für die Feuerwehr"
+- TOP 14a: Stromlieferung 2011/12 für das Segment "Sonderlieferstellen"
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 16.: Mitteilungen
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
