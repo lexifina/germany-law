@@ -1,0 +1,77 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2009-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1632067
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1632067
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Berg-am-Laim-Str. 77 ? Antrag für einen mobilen Fahrradständer
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Neugestaltung Baumkirchner Straße ? 1. Bauabschnitt
+- TOP 3.2.: Gehwegparken Ariboweg / Arnweg
+- TOP 3.3.: Haltestelle der Tram 19 an der Kreiller- / St.-Veit-Straße
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Bedarfs- und Konzeptgenehmigung / Projektauftrag Michaeli-Gymnasium - Erweiterungsbau Klassentrakt - Anbau Einfachsporthalle - Neugestaltung Eingangsbereich und Schulhof
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Planung der Einsätze der Münchner SommerSpielAktion 2010
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Streitfeldstraße 1 ? Antrag auf Baumfällung
+- TOP 3.2.: Geigelsteinstr. 10 ? Antrag auf Baumfällung
+- TOP 3.3.: Gratlspitzstr. 42 b ? Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Handlungsprogramm Mittlerer Ring - Wohnen am Ring - Fortführung des Förderprogramms
+- TOP 4.3.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung 2010
+- TOP 4.4.: Hochriesstraße 3 - Abbruchanzeige
+- TOP 4.1.: ?Rund um den Ostbahnhof? -Fußgängerunterführung zum Ostbahnhof- Machbarkeitsstudie
+- TOP 4.2.: Buseinsatz auf der MVG-StadtBus-Linie 185
+- TOP 4.3.: Zuwegung zum S-Bahnhof Berg am Laim von der ?Eisenbahnersiedlung? aus
+- TOP 4.4.: Herausnahme von ?verkehrsberuhigten Bereichen? aus dem Münchner Radlnetz
+- TOP 4.5.: Keine rechtsfreien Räume ? neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 4.1.: Einspruch gegen Containerstandplatzwahl in der Baumkirchner Straße
+- TOP 4.1.: Jour Fixe Kulturreferat / Bezirksausschüsse ? Protokoll der Sitzung vom 19. Oktober 2009
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Kooperative Sportentwicklungsplanung ? Innerstädtische Region Ramersdorf/Berg a. Laim
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Stadtteilbezogenes Verzeichnis der städt. Kindergärten, Horte, Kooperationseinrichtungen
+- TOP 4.2.: Kennzahlenvergleich der 16 großen Großstädte der BRD ? Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 4.3.: Aktiv für interkulturellen Austausch e.V. - Protokoll Runder Tisch 23.09.2009
+- TOP 4.1.: Haushaltsplan 2010 ? Ansätze der zentralen Bereiche - Gesamtergebnishaushalt
+- TOP 4.2.: Mittelfristige Finanzplanung 2009 - 2013
+- TOP 4.3.: Verwendungsnachweis ? Kinderfest Piusplatz
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Westerhamer Str. 49 - Fällungsbescheid
+- TOP 4.2.: Berg-am-Laim-Str. 100 - Fällungsbescheid
+- TOP 4.3.: Halfinger Straße 30 ? 32 ? Baumfällungen im Umgriff eines Bauvorhabens
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
