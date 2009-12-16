@@ -1,0 +1,6 @@
+# TOP 6: Verabschiedung Sitzungsplan 2010
+
+- Sitzung: 27. öffentliche Sitzung des Jugendhilfeausschusses (2009-12-16)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=17216
