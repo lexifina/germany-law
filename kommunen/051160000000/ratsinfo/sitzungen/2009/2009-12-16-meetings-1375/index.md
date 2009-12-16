@@ -1,0 +1,71 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2009-12-16T15:00:00+01:00
+- Ende: 2009-12-16T20:15:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1375
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1375
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Stand der Umsetzung der Maßnahmen aus dem Gutachten Rödl & Partner - Zur Kenntnis genommen
+- TOP 3: Ehrenamtskarte MG - Zur Kenntnis genommen
+- TOP 4: Jahresrechnung 2008 - Zur Kenntnis genommen
+- TOP 5: Entwurf 1.NT-Satzung 2009 - Zur Kenntnis genommen
+- TOP 6: Entwurf der Eröffnungsbilanz zum 01.01.2009 - Zur Kenntnis genommen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2009 - Zur Kenntnis genommen
+- TOP 8: Über- und außerplanmäßige Ausgaben des Haushaltsjahres 2008 - Zur Kenntnis genommen
+- TOP 9: Überplanmäßige Bereitstellung von Haushaltsmitteln im Bereich "Hilfen zur Erziehung" - Zur Kenntnis genommen
+- TOP 10: Außerplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 015 040 010 - Zur Kenntnis genommen
+- TOP 11: Mittelbare Beteiligung der NVV AG an der SW Tönisvorst GmbH - Zur Kenntnis genommen
+- TOP 12: Beteiligung der NVV AG an der Niederrheinwerke Viersen GmbH - Zur Kenntnis genommen
+- TOP 13: Beteiligung der NVV AG an der Niederrheinwerke Viersen GmbH - Zur Kenntnis genommen
+- TOP 14: Beteiligung der NVV AG - Zur Kenntnis genommen
+- TOP 15: Zweitwohnungssteuersatzung - Zur Kenntnis genommen
+- TOP 16: Zwölfter Nachtrag zur Abfallgebührensatzung - Zur Kenntnis genommen
+- TOP 17: 14. Nachtrag Kanalbenutzungsgebührenordnung etc. - Zur Kenntnis genommen
+- TOP 18: 15. Nachtrag Kanalbenutzungsgebührenordnung und Zweiter Nachtrag Klärschlammbeseitigungssatzung - Zur Kenntnis genommen
+- TOP 19: Dreißigster Nachtrag Straßenreinigungssatzung - Zur Kenntnis genommen
+- TOP 20: Kostenbeteiligung an Abfallberatung und Stellflächen vom Sammelgroßbehältnissen - Zur Kenntnis genommen
+- TOP 21: Kommunales Abfallwirtschaftskonzept - Zur Kenntnis genommen
+- TOP 22: Vierzehnter Nachtrag zur Benutzungsordnung Abfallentsorgungsanlagen - Zur Kenntnis genommen
+- TOP 23: Ausschreibung der Stelle einer/eines Technischen Beigeordneten - Zur Kenntnis genommen
+- TOP 24: Vorprüfung der Gültigkeit der Kommunalwahlen am 30.08.2009 - Zur Kenntnis genommen
+- TOP 25: Bildung des Kreiswahlausschusses für die Landtagswahl - Einstimmiger Beschluss
+- TOP 26: EU-DLR mit dem Rhein-Kreis Neuss - Zur Kenntnis genommen
+- TOP 27: DauerVO über das Offenhalten von Verkaufsstellen - Zur Kenntnis genommen
+- TOP 28: Genehmigung einer Dringlichkeitsentscheidung Rat - Zur Kenntnis genommen
+- TOP 29: Erweiterung Aufnahmekapazität GS Espenstraße - Zur Kenntnis genommen
+- TOP 30: Erster Nachtrag Schuleinzugsbereiche - Zur Kenntnis genommen
+- TOP 31: Schulorganisatorische Maßnahmen Sek.I - Zur Kenntnis genommen
+- TOP 32: Ganztagsoffensive - Zur Kenntnis genommen
+- TOP 33: Einrichtung von integrativen Lerngruppen an der GHS Kirschhecke - Zur Kenntnis genommen
+- TOP 34: Integrative Lerngruppen - Zur Kenntnis genommen
+- TOP 35: Integrative Lerngruppe GHS Aachener Straße - Zur Kenntnis genommen
+- TOP 36: Gründung einer "Stiftung im Museum Abteiberg" - Einstimmiger Beschluss
+- TOP 37: Veranstaltergemeinschaft "Radio Mönchengladbach e. V." - Zur Kenntnis genommen
+- TOP 38: Dritter Nachtrag Wahlordnung Integrationsrat - Zur Kenntnis genommen
+- TOP 39: Kommunalverfassungsrecht - Zur Kenntnis genommen
+- TOP 40: Achter Nachtrag zur Geschäftsordnung - Zur Kenntnis genommen
+- TOP 41: Sparkassensatzung - Zur Kenntnis genommen
+- TOP 42: Leistungsvereinbarung - Zur Kenntnis genommen
+- TOP 43: Leistungsvereinbarungen Tagestreff - Zur Kenntnis genommen
+- TOP 44: Leistungsvereinbarung mit dem Deutschen Kinderschutzbund - Zur Kenntnis genommen
+- TOP 45: Vertrag V d K - Zur Kenntnis genommen
+- TOP 46: Vereinbarung mit dem Verein Zornröschen - Zur Kenntnis genommen
+- TOP 47: Vergnügungsstättenkonzept - Zur Kenntnis genommen
+- TOP 48: Bebauungsplan Nr. 693/III - Stadtbezirk Stadtmitte - Zur Kenntnis genommen
+- TOP 49: 1. Änderung eines Teilbereiches des Bebauungsplanes Nr. 519/IX - Zur Kenntnis genommen
+- TOP 50: Vierzehnte Satzung Einheitssätze - Zur Kenntnis genommen
+- TOP 51: Jahresabschluss 2008 GSM - Zur Kenntnis genommen
+- TOP 52: Lärmschutzkommission für den Verkehrslandeplatz Mönchengladbach, hier: Umbesetzung - Zur Kenntnis genommen
+- TOP 53: Verbandsversammlung des Niersverbandes; - Zur Kenntnis genommen
+- TOP 54: Umbesetzung von Ausschüssen - Zur Kenntnis genommen
+- TOP 55: Erweiterung der Zuständigkeit des Planungs- und Bauausschusses um die Belange - Zur Kenntnis genommen
+- TOP 56: Sanierung Stadtbad Rheydt - Zur Kenntnis genommen
+- TOP 57: Anfragen - Zur Kenntnis genommen
