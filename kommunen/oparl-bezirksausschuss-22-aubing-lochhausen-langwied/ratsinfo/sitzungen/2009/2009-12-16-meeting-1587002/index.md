@@ -1,0 +1,109 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2009-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1587002
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1587002
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Stadtteilprobleme Neuaubing (UA Planung) (vertagt aus 11/09)
+- TOP 2.2.: Stellungnahme zum Bebauungsplan Nr. 2034 - Teiländerung des BP 480 im Rahmen der Bürgerbeteiligung (UA Planung)
+- TOP 2.3.: Entfernung des Durchfahrt-verboten-Schildes an der Einfahrt zum Manganusweg (UA Planung) (vertagt aus 11/09)
+- TOP 2.4.: Erhebliche Störungen im Ladenzentrum Westkreuz (UA Soziales) (vertagt aus 11/09)
+- TOP 2.5.: Parkplatzsituation am Rohrsängerplatz (UA Planung)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen zu einem Bauvorhaben - Altenburgstr. 17, gem. Baumbestandsplan Nr. 2009-23794 - Weißensteinstr. 2, gem. Baumbestandsplan Nr. 2009- 25657 - Schwojerstr. 24, gem. Baumbestandsplan Nr. 2009-29937 - Köferinger Str. 10, gem. Baumbestandsplan Nr. 2009-28336
+- TOP 3.2.: Baumfällungen auf Anforderung: - Neideckstr. 16, 2 Birken und 3 Fichten - Sigererstr. 14, 1 Bergahorn - Krähenweg, 4 Birken - Gailenreuther Str. 19, 1 Rotbuche - Waidachanger 5, 2 Ahorn
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Umbau des Geh- und Radweges an der Aubinger Straße
+- TOP 4.2.: Bauplanungen an der Osterangerstraße
+- TOP 4.3.: Dorfkern-Ensembles Aubing-Lochhausen-Langwied
+- TOP 5: Entscheidungen
+- TOP 1: Entfernung der Radlverbotsschilder in der Aubinger Straße beim S-Bahnhof Westkreuz und Zulassung des Zweirichtungsradverkehrs bis zu den Radlabstellplätzen (Ziffer 2 des Antrages) (UA Planung) BV-Empfehlung Nr. 08-14 / E 00300 (vertagt aus 11/09)
+- TOP 1.2.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Förderverein der Limesschule e.V. (UA Budget)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010 - Platzvorschläge, Anhörung Pädagogische Aktion/Spielen in der Stadt e.V. vom 11.11.09
+- TOP 6.1.: Anfrage zu Erfahrungen über den Vorkurs Deutsch im 22. Stadtbezirk; Beschlussvorlage "Sprachförderung in städtischen Kindertagesstätten", Schr. Schul- und Kultusreferat vom 28.10.09 (vertagt aus 11/09)
+- TOP 6.2.: Jahresbericht 2008 - Angebote der Jugendhilfe, Schr. Sozialreferat vom 11.11.09
+- TOP 6.3.: Veranstaltung auf öffentlichen Verkehrsgrund: Christkindlmarkt auf dem Gößweinsteinplatz am 05.12.09 - Bescheid, Schr. KVR vom 17.11.09
+- TOP 6.4.: Erhalt des ehemaligen Zwangsarbeiterlagers in der Ehrenbürgstr. 9 (Antrag Nr. 805/22.), Schr. Kulturreferat vom 27.11.09
+- TOP 6.5.: Tätigkeits- und Jahresbericht des HIPPY-Programms, Schr. Sozialreferat vom 09.11.09
+- TOP 6.6.: Statistikblatt Kinderbetreuungsplätze in der LHM, Schr. Sozialreferat vom 30.11.09
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendung aus dem BA-Budget, Abrechnung der Veranstaltung von REGSAM am 13.10.09, Schr. Direktorium vom 23.11.09
+- TOP 6.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2010 - Unterstützung aus dem BA-Budget, Anhörung Pädagogische Aktion/Spielen in der Stadt e.V. vom 11.11.09
+- TOP 6.3.: Zuwendungen aus dem BA-Budget für den Föderverein 1000 Jahre Urkunde Aubing e.V., Bewilligungsbescheid, Schr. Direktorium vom 01.12.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Kino für Freiham und attraktive Gestaltung des Bahnhofsvorplatzes Freiham, Schr. Planungsreferat vom 20.10.09
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Goteboldstr., Geh- und Radweg Langwieder Seen (Route 1), 1. Bauabschnitt zw. Müllerstadelstr. und ca. 320 m südöstlich der BAB A99, Anhörung Baureferat vom 12.11.09 (vertagt aus 11/09)
+- TOP 6.2.: Diverse Straßenumbenennungen und - verlaufsänderungen im 22. Stadtbezirk, Anhörung Kommunalreferat vom 14.10.09 (vertagt aus 11/09)
+- TOP 6.3.: Altenburgstr. 17, Neubau eines Mehrfamilienhauses mit Garagen, Anhörung Planungsreferat vom 23.11.09
+- TOP 6.4.: Errichtung einer Kneipp-Anlage im Langwieder Bach, Anhörung Referat für Gesundheit und Umwelt vom 19.11.09
+- TOP 6.5.: Absolutes Haltverbot Bergsonstraße, Anhörung des KVR vom 01.12.09
+- TOP 6.1.: Baumaßnahmen der Stadtwerke, Stichtag: 16.11.09, 23.11.09, 30.11.09
+- TOP 6.2.: Baufälle im 22. Stadtbezirk (v. 09.11. - 15.11.09, v. 23.11. - 29.11.09), Schr. Planungsreferat vom 16.11.09, 30.11.09
+- TOP 6.3.: Sanierung des Absperrgitters an der Henschelstraße zur Bahnlinie München - Augsburg, Schr. DB vom 18.11.09
+- TOP 6.5.: Fehlende Beleuchtung des Fußwegs vom Ramses zur S-Bahn Haltestelle Westkreuz - Gefährdung für Fußgänger, Schr. Baureferat vom 26.11.09
+- TOP 6.6.: Gehsteigabsenkung am neu errichteten Fußweg Colmdorfstraße (Ziffer 1), Schr. Baureferat vom 05.11.09
+- TOP 6.7.: Gehweg zur S-Bahn Lochhausen zwischen Langwieder Hauptstraße und Lochhausener Straße, Schr. Baureferat vom 09.11.09
+- TOP 6.8.: Baumaßnahmen der SWM: Fernwärmeprojekt Erschließung Westkreuz Pasing - 4. Bauabschnitt Wiesentfelser Straße, Schr. SWM vom 09.11.09
+- TOP 6.9.: Verkehrsrechtliche Anordnung: Haltverbot in der Ehrenbürgstraße, Schr. KVR vom 03.11.09
+- TOP 6.10.: Anbringung von Hinweisschildern zum Auffinden der Anwesen Freihamer Weg, Schr. Baureferat vom 17.11.09
+- TOP 6.11.: Baumpflanzungen auf dem städt. Grundstück am Überlinger Weg, Schr. Kommunalreferat vom 10.11.09
+- TOP 6.12.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/25 - Mühlangerstr./Langwied - Teilbereich Brauereiansieldung; Beteiligung der Öffentlichkeit, Schr. Planungsreferat vom 16.11.09
+- TOP 6.13.: Colmdorfstraße - neue Abstützmauern, Schr. Baureferat vom 24.11.09
+- TOP 6.14.: Kanalsanierung Mainaustraße - Betonkanal NE 800/1200 (Vorinformation), Schr. Münchner Stadtentwässerung vom 25.11.09
+- TOP 6.15.: Verkehrsrechtliche Anordnung: Zusatz "Fußgänger und Radfahrer kreuzen" an der Langwieder Haide, Schr. KVR vom 12.10.09
+- TOP 6.16.: Straßenbeleuchtung auf dem Weg (Friedrichshafener Fußweg) vom Brachvogelplatz zum S-Bahnhof Westkreuz - Zuschnitt der Büsche, Schr. Baureferat vom 17.11.09
+- TOP 6.17.: Bau der Verbindungsspange zwischen Bergsonstr. und Kronwinkler Str., Schr. Baureferat vom 27.11.09
+- TOP 6.18.: Neue Teamleitung im Planungsreferat, LBK - 43 T, Schr. Planungsreferat vom 30.11.09
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Weißensteinstr. 2, Neubau eines Geschosswohnungsbaus mit Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 07.12.09 (UA Planung)
+- TOP 7.2.: Bodenseestr. 279, Fl.Nr. 3539/31, Errichtung einer Werbewechselanlage, Anhörung Planungsreferat (UA Planung)
+- TOP 7.3.: Schwojerstr. 24, Neubau eines Einfamilienhauses mit zwei Duplexgaragen, Anhörung Planungsreferat vom 10.12.09 (UA Planung) ^
+- TOP 7.4.: Köferinger Str. 10, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (6 Stpl.), Anhörung Planungsreferat vom 10.12.09 (UA Planung)
+- TOP 7.5.: Antrag auf Veranstaltung für Langwieder See, Lußsee vom 16.07.-18.07.10, Lußsee Open Air, Anhörung KVR vom 11.12.09
+- TOP 7.6.: Umstufung von Teilstrecken der Scharinenbachstraße und der Wichnantstraße, Anhörung Baureferat vom 09.12.09 (UA Planung)
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: Limesstr. 55 b, Schr. Sozialreferat vom 25.11.09
+- TOP 8.2.: Europe Direct Information 08/2009, Schr. Referat für Arbeit und Wirtschaft vom 20.11.09
+- TOP 8.3.: Nutzungserlaubnis für den Circus Rio für einen Standplatz an der Bodenseestr./Anton-Böck-Str. vom 15.12.09 - 15.01.09, Schr. KVR vom 30.11.09 - Eilentscheidung durch BA-Vorsitzenden: keine Einwände -
+- TOP 8.4.: Wirtschafts-Info 11/2009, Schr. Referat für Arbeit und Wirtschaft vom 30.11.09
+- TOP 8.5.: Vollzug des AEG; Planfeststellung nach § 18 AEG für das Bauvorhaben: ESTW München Südwest, Neubau einer Lichtzeichenanlage mit Schranken und Gehwegschranken am Bahnübergang Aubing, Bahn-km 11,3 der Strecke 5520 München-Pasing - Buchloe (UA Planung)
+- TOP 8.6.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2010, Schr. Stadtkämmerei vom 04.12.09
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 11.11.09: - Bewerbung um die Olympischen und Paralympischen Winterspiele 2018, Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book)
+- TOP 10.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.09: - Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung (UA Soziales)
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: - Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz (UA Planung) - Ehrenpreis für guten Wohungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010 (UA Planung) - Handlungsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms (UA Planung) - Sonderflughafen Oberpfaffenhofen - Aktueller Sachstand (UA Planung)
+- TOP 10.4.: Beschluss des Schul- und Sportausschusses vom 02.12.09: - Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kindergarten- und 2 Krippengruppen an der Colmdorfstraße (UA Soziales)
+- TOP 10.5.: Bekanntgabe im Kinder- und Jugendhilfeausschuss vom 13.01.09: Neue Trägerschaften für Kinderkrippen seit Inkrafttreten des Bayerischen Kinderbildungs- und -betreungsgesetzes am 01.08.05 (UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Gespräch der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 09.07.09, Schr. Direktorium vom 13.07.09
+- TOP 11.2.: Jour Fixe Bezirksausschüsse im Kulturreferat - Protokoll der Sitzung am 19.10.09, Schr. Kulturreferat vom 03.11.09
+- TOP 11.3.: Münchner Statistik, 2. Quartalsheft, Jahrgang 2009
+- TOP 11.4.: Veranstaltungen / Kooperationen Dezember 2009, Schr. Kulturreferat vom 01.12.09
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 20.01.2010 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
