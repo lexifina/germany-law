@@ -1,0 +1,70 @@
+# öffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Stadt Aachen
+- Beginn: 2009-12-16T17:00:00+01:00
+- Ende: 2009-12-16T23:59:59+01:00
+- Ort: Rathaus
+- Status: durchgeführt
+- Gremium: http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=1
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/to010?SILFDNR=2025
+- OParl: http://ratsinfo.aachen.de/public/oparl/meetings?id=2025
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - ungeändert beschlossen
+- TOP 2: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 28.10.2009 und 18.11.2009; die Niederschrift über die Sitzung des Rates der Stadt vom 28.10.2009 wurde inzwischen übersandt, die Niederschrift vom 18.11.2009 wird nachgereicht. - ungeändert beschlossen
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - ungeändert beschlossen
+- TOP 4: Videoüberwachung am Elisenbrunnenhier: Bericht des Polizeipräsidenten gemäß Antrag der SPD-Fraktion vom 27.10.2009 - ungeändert beschlossen
+- TOP 5: Einbringung des Haushaltsplanentwurfs 2010 mit Anlagen - ungeändert beschlossen
+- TOP 6: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen
+- TOP 6.1: Erneuern der Lehrküche der Städt. Gemeinschaftshauptschule Eilendorf - vertagt
+- TOP 6.2: Über- und außerplanmäßige Aufwendungen/Auszahlungen/ Verpflichtungsermächtigungen 3. Bericht über die Fallzahlen- und Kostenentwicklung im Bereich der Hilfen zur Erziehung und Maßnahmen nach § 35 a SGB VIII für das Haushaltsjahr 2009 (01.01.2009 - 30.09.2009) - ungeändert beschlossen
+- TOP 6.3: Vennbahntrasse ViadukteAbdichtungserneuerung und Mauerwerkssanierung;hier: Bedarf überplanmäßiger Mittel - ungeändert beschlossen
+- TOP 6.4: Überplanmäßige Ausgaben bei Auftragskonto B 08010045-7852016 Erneuerung Rasenspielfeld, Sportplatz Grünenthaler Straße - ungeändert beschlossen
+- TOP 6.5: Am MühlenteichNeubau der Fußgängerbrücke über den Haarbach;hier: Änderung des Beschlusses der Bezirksvertretung vom 29.04.2009 - ungeändert beschlossen
+- TOP 6.6: Über- und außerplanmäßige Aufwendungen und AuszahlungenAuszahlungen sogen. 13. Rate - ungeändert beschlossen
+- TOP 7: Dienstanweisung für die Finanzbuchhaltung der Stadt Aachen - ungeändert beschlossen
+- TOP 8: Bildung von weiteren Ausschüssen des Rates der Stadt Aachenhier: Kinder- und JugendausschussBeanstandung des Ratsbeschlusses vom 18.11.2009 durch den Oberbürgermeister nach § 54 Abs. 2 GO NRW und Neubildung des Kinder- und Jugendausschusses - ungeändert beschlossen
+- TOP 9: Gebührenordnung für die Inanspruchnahme des Rettungsdienstes der Stadt Aachen - ungeändert beschlossen
+- TOP 10: 3. Nachtrag zur Jagdsteuersatzung - ungeändert beschlossen
+- TOP 11: Bericht der Wirtschaftsprüfungsgesellschaft Wibera Wirtschaftsberatung AG über denJahresabschluss zum 31.12.2007 und Lagebericht für das Wirtschaftsjahr 2007 dereigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb der Stadt Aachen - ungeändert beschlossen
+- TOP 12: Satzung über die Straßenreinigung und Erhebung von Straßenreinigungsgebühren in der Stadt Aachen vom 14. Dezember 1987 hier: 22. Nachtrag - ungeändert beschlossen
+- TOP 12.1: Satzung über die Straßenreinigung und Erhebung von Straßenreinigungsgebühren in der Stadt Aachen vom 14. Dezember 1987 -Ergänzungsvorlagehier: 22. Nachtrag - ungeändert beschlossen
+- TOP 13: Abfallgebührensatzung der Stadt Aachen vom 10.12.2008 - ungeändert beschlossen
+- TOP 14: V. Nachtrag zur Friedhofssatzung der Stadt Aachen vom 12.03.1997 - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan 2010 der eigenbetriebsähnlichen Einrichtung Aachener Stadtbetrieb - ungeändert beschlossen
+- TOP 16: Wirtschaftsplan EUROGRESS Aachen 2010 - ungeändert beschlossen
+- TOP 17: Wirtschaftsplan 2010 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 18: 108. Änderung des Flächennutzungsplanes 1980 der Stadt AachenBebauungsplan Nr. 915 - Seffenter Weg / Melaten (Hochschulerweiterung) - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 19: I. (vereinfachte) Änderung des Bebauungsplanes Nr. 903 - Stolberger Straße / Elsassstraße - hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - zurückgezogen
+- TOP 20: Satzung über eine Veränderungssperre für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Heidweg 17 - ungeändert beschlossen
+- TOP 21: Satzung über eine Veränderungssperre für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich Giselastraße/ Salierallee - ungeändert beschlossen
+- TOP 22: Beschlüsse des Rates der Stadt Aachen über die Gültigkeit der Wahl des Oberbürgermeisters der Stadt Aachen, der Wahl des Rates der Stadt Aachen und der Wahl der Bezirksvertretungen der Aachener Stadtbezirke vom 30.08.2009 - ungeändert beschlossen
+- TOP 23: Bestellung der Vertreter der Stadt Aachen im KREISPOLIZEIBEIRAT gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW - ungeändert beschlossen
+- TOP 23.1: Bestellung der Vertreter der Stadt Aachen im KREISPOLIZEIBEIRAT gem. § 113 (2) GO NW in Verbindung mit § 50 (4) GO NW
+- TOP 24: Beanstandung des Ratsbeschlusses zur Besetzung der Verbandsversammlung des Wasserverbandes Eifel-Rur vom 18.11.2009 durch den Oberbürgermeister nach § 54 Abs. 2 GO NRW - ungeändert beschlossen
+- TOP 25: Wahl des Kreiswahlausschusses für die Landtagswahl am 09.05.2010 - ungeändert beschlossen
+- TOP 26: Laufzeitverlängerung beim belgischen Kernkraftwerk Tihange stoppen - ungeändert beschlossen
+- TOP 27: Hilfen aus einer Hand für Langzeitarbeitslose - ungeändert beschlossen
+- TOP 28: Umbesetzung von Ausschüssen und anderen Gremien
+- TOP 28.1: Besetzung des Aufsichtsrats der E.V.A. GmbH - ungeändert beschlossen
+- TOP 28.2: Vorschlag DIE LINKE Sparkassenzweckverband - ungeändert beschlossen
+- TOP 28.3: Besetzung der Verbandsversammlung des Sparkassenzweckverbandes Städteregion Aachen-Stadt Aachen - ungeändert beschlossen
+- TOP 28.4: Tischvorlage: AVV Zweckverband - Umbesetzung - ungeändert beschlossen
+- TOP 28.5: Tischvorlage: Wahlvorschlag für den "Zweckverband Nahverkehr - SPNV & Infrastruktur - Rheinland" (NVR), hier: Vergabeausschuss - ungeändert beschlossen
+- TOP 28.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.7: Besetzung des Sparkassenbeirats - ungeändert beschlossen
+- TOP 28.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Anfragen - ungeändert beschlossen
+- TOP 30: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 31: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2010 - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
