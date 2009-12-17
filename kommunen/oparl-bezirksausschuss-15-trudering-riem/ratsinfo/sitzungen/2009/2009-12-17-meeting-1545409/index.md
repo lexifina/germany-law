@@ -1,0 +1,135 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2009-12-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1545409
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1545409
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Truderinger Trachtenverein e.V. Tiere für die Lebende Krippe; Weihnachtsmarkt 28./29.11.09
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Lehrer-Wirth-Hauptschule PC-Programm für Schülerbücherei
+- TOP 3: (E) Verstärkte Überwachung der Einhaltung der Tempo-30-Zonenregelung im Wohngebiet Waldtrudering, insbesondere Tangastraße Empfehlung Nr. 08-14 / E 00388 der Bürger- versammlung des Stadtbezirkes 15 - Trudering-Riem - am 01.10.2009
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Warum hält die S-Bahn (auch) in Gronsdorf nicht im Dachbereich an?
+- TOP 2.2.: Wiederherstellung der Straßenoberfläche nach Aufgrabungen
+- TOP 2.3.: Lehrer-Wirth-Schule - Schäden und Widersprüche
+- TOP 2.4.: Errichtung eines Parkverbots im Bereich der Wasserburger Landstraße (stadtauswärts), westlich: Kathreinweg, von Haus 2 - 6
+- TOP 2.5.: Beschilderung Florastraße
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Verkehrskonzept für die Niederalmstraße und den weiteren Umkreis
+- TOP 3.2.: Paul-Henri-Spaak-Straße / Ottendichler Straße (Rechtsabbieger)
+- TOP 3.3.: Aufstellung mehrerer Fahrradständer am Riemer See
+- TOP 3.4.: Fahrradabstellplage am Bahnhof Trudering
+- TOP 3.5.: Vollzug der Wassergesetze: Tauchen mit Pressluftgeräten im Badesee Riem (Allgemeinverfügung der LH München zum Tauchen im Badesee Riem mit Karte)
+- TOP 3.6.: Überprüfung Krippen / Kindertagesstätten
+- TOP 3.7.: Fehlende Umgehung Kirchtrudering - Verkehr durch Wohngebiet
+- TOP 3.8.: Verkehr in Trudering - Am Mitterfeld
+- TOP 3.9.: Höchste Eisenbahn für die Umfahrung Kirchtrudering
+- TOP 3.10.: Standort des Truderinger Gymnasiums
+- TOP 3.11.: Errichtung des 4-zügigen Gymnasiums München-Ost an der Friedenspromenade mit einer 3-fach Sporthalle mit Zuschauertribüne und Freiflächen; Beschluss des Schul- und Sportausschusses des Stadtrates vom 11.11.2009
+- TOP 3.12.: Hüllgraben in Kirchtrudering
+- TOP 3.13.: Anlage einer Spielstrasse in der Ernst-Hochholzer-Strasse
+- TOP 3.14.: Provisorisch aufgehobene Einbahnregelung im Flußaalweg zwischen Bajuwarenstraße und Friesenstraße
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Nachfrage wegen BA-Anträgen aus den Jahren 2007 und 2008 (BA-Anträge Nrn.: 02-08 / B 02689 und 02-08 / B 02984)
+- TOP 4.2.: Hallenbelegungszeiten der Grund-, Haupt- und Berufschulen im Stadtbezirk 15 sowie der Bezirkssportanlage Feldbergstraße
+- TOP 4.3.: Halteverbot im Drosselweg Kurvenbereich Drosselweg / Mauerseglerstrasse
+- TOP 4.4.: Rechtzeitig Ersatz für wegfallende Wertstoffinseln schaffen
+- TOP 4.5.: Abstimmung von Baugenehmigungen öffentlich geförderter Wohnungen in der Messestadt Ost mit dem BA 15
+- TOP 4.6.: Linienführung in der Schwablhofstraße
+- TOP 4.7.: Entlastung für die Zehntfeldstraße
+- TOP 4.8.: Ungenutzte Sportflächen in der Fauststraße 90
+- TOP 4.9.: Sanierungsmaßnahmen Joseph-Wild-Straße - künftige Nutzung?
+- TOP 5: Anhörungen
+- TOP 5.1.: Anhörung gemäß § 9 der Satzung für die Bezirksausschüsse Schwablhofstraße (Umbau), U-1635 (Neubau)
+- TOP 5.2.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für den Bereich IV/18 und Bebauungsplan mit Grünordnung Nr. 1958 b Wasserburger Landstraße (südlich), Horst-Salzmann-Weg (beidseits)
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2010 (Termin: 15.01.2010)
+- TOP 7.2.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Sachstand der BA-Broschüre
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Groschenweg 25, Neubau zweier Wohngebäude (Haupt- und Rückgebäude) mit Tiefgarage
+- TOP 7.2.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Birkhahnweg 17, Neubau eines Mehrfamilien- und eines Einfamilienhauses mit Garagen - TEKTUR
+- TOP 7.3.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Birkhahnweg 10, Neubau eines Doppelhauses mit Garagen (1)
+- TOP 7.4.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Birkhahnweg 10, Neubau eines Doppelhauses mit Garagen (2)
+- TOP 7.5.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Birkhahnweg 10, Neubau eines Doppelhauses mit Garagen (3)
+- TOP 7.6.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Birkhahnweg 10, Neubau eines Doppelhauses mit Garagen (4)
+- TOP 7.7.: Bauvorhaben Markgrafenstraße 22 b, FlurNr. 557/0, Stadtbezirk 15: Neubau 2er Doppelhäuser mit Garagen
+- TOP 7.8.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Mönchbergstraße 18, Neubau eines Dreifamilienhauses mit Garagen
+- TOP 7.9.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Bergerwaldstraße 25, Neubau eines Einfamilienhauses mit Garage
+- TOP 7.10.: Vollzug § 3 der BA-Satzung Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung: Bergerwaldstraße 25, Neubau eines Doppelhauses mit 2 Garagen
+- TOP 7.11.: Gemeinde Aschheim Bebauungsplan für ein Sondergebiet Freizeit und Erholung, südlich St. Emmeram-Realschule, östlich des Wasserskiparks, nördlich der Ludwig-Ganghofer-Straße (Termin: 30.12.2009)
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Sachbericht des Truderinger Musikvereins e.V. - Neuanschaffung von Musikinstrumenten
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Friedenspromenade 95, Grünanlage Steffelhofstraße, Grünanlage Kirchtruderinger Straße, Schwanenweg 30,
+- TOP 8.2.: Hella-von-Westarp-Straße 34
+- TOP 8.3.: Schwedensteinstraße 34
+- TOP 8.4.: Lohnrösslerweg 12
+- TOP 8.5.: Wasserburger Landstraße 259
+- TOP 8.6.: Steffelhofstraße 2
+- TOP 8.7.: Schwanenweg 30
+- TOP 8.8.: Xaver-Weismor-Straße 83
+- TOP 8.9.: Zehntfeldstraße 231 b
+- TOP 8.10.: Postweg 34, 36, 36 a
+- TOP 8.11.: Möwestraße 9
+- TOP 8.12.: Adelmannstraße 14
+- TOP 8.13.: Rotfuchsweg 10
+- TOP 8.14.: St.-Augustinus-Straße 19
+- TOP 8.15.: Karpatenstraße 1
+- TOP 8.16.: Günderodestraße 8
+- TOP 8.17.: Lachenmeyrstraße 20
+- TOP 8.18.: Josef-Hagn-Straße 3
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: 1) Einladung des Oberbürgermeisters zur gemeinsamen Gesprächsrunde mit den Bezirksausschussvorsitzenden am 29.01.2010 von 18.00 - 21.00 Uhr in der Grützner-Stube des Rathauses 2) nach Mitteilung der BA-Vorsitzenden
+- TOP 9.2.: Münchner Statistik: 2. Quartalsheft, Jahrgang 2009
+- TOP 9.3.: Konzerte im Riemer Reitstadion (BA-Antrag Nr. 08-14 / B 01548); Stellungnahme der BA-Vorsitzenden
+- TOP 9.4.: Mitteilung über die erneute Weiterleitung eines Bürgerschreibens zu BA-Antrag Nr. 08-14 / B 01065
+- TOP 9.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Vorübergehender Taxistandplatz Olof-Palme-Straße (Alfons-Schuhbeck Palazzo)
+- TOP 9.6.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG): Plangenehmigung nach § 18, 18 b AEG i.V.m. 3 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für die Errichtung einer GSM-R Infrastruktur am Standort Trudering, Strecke München Hauptbahnhof - Rosenheim (Stellungnahme der LH München)
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 09.11.09 - 06.12.09
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Heilwigstraße 79
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Dompfaffweg 5
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Zehntfeldstraße 140
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Zehntfeldstraße 144
+- TOP 10.6.: Zuwendungsbewilligung für den Elternbeirat der Hauptschule Lehrer-Wirth-Straße i.H.v. 785,60 Euro
+- TOP 10.7.: Zuwendungsbewilligung für den AK "Rund um die Geburt" Messestadt Riem i.H.v. 447,97 Euro
+- TOP 10.8.: Zuwendungsbewilligung für die Jugendsozialarbeit Hauptschule Feldbergstraße i.H.v. 1.300,00 Euro
+- TOP 10.9.: Bewerbung um die Olympischen und Paralympischen Winterspiele 2018, Eckdatenpapier zum ersten Bewerbungsdokument (Mini Bid Book); Beschluss der Vollversammlung des Stadtrates vom 11.11.2009
+- TOP 10.10.: Weihnachtsbeleuchtung im städtischen Einflussbereich; Beschluss des Bauausschusses vom 17.11.2009
+- TOP 10.11.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen; Beschluss des Bauausschusses vom 08.12.2009
+- TOP 10.12.: Messestadt Riem Knoten Ottendichler Straße / Paul-Henri-Spaak-Straße, Bau eines freilaufenden Rechtsabbiegers; Beschluss des Bauausschusses vom 17.11.2009
+- TOP 10.13.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Oslostraße
+- TOP 10.14.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Maria-Montessori-Straße
+- TOP 10.15.: Verkehrsrechtliche Anordnung nach § 45 StVO: Heinrich-Böll-Straße, Einbahnstraße / Haltverbot
+- TOP 10.16.: Verkehrsrechtliche Anordnung nach § 45 StVO: Haltverbot an der Bushaltestelle Wasserburger Landstraße (MVG-Linie 193)
+- TOP 10.17.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund: Willy-Brandt-Platz
+- TOP 10.18.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund: Wasserburger Landstraße + Nebenstraßen
+- TOP 10.19.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund: Teuchterstraße 20
+- TOP 10.20.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund: Landshammer Straße
+- TOP 10.21.: Veranstaltungen / Kooperationen des Kulturreferates im Dezember 2009
+- TOP 10.22.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 10.23.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 10.24.: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009
+- TOP 10.25.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2009
+- TOP 10.26.: Zweckentfremdung von Wohnraum - Reschstraße 5
+- TOP 10.27.: Zweckentfremdung von Wohnraum - Bergerwaldstraße 25
+- TOP 10.28.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2010 (Auszug / vollständiges Exemplar kann in der BA-Geschäftsstelle eingesehen werden)
