@@ -1,0 +1,98 @@
+# 31. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2009-12-17T17:40:00+01:00
+- Ende: 2009-12-17T22:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2073
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2073
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=72644
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Werbung für Scientology auf öffentlichem Straßenland - beantwortet
+- TOP 5.2: Rathauskantinen gerettet? - beantwortet
+- TOP 5.3: Mehr Stiftungen - weniger Transparenz? - beantwortet
+- TOP 5.4: CSD 2010 - durch Bauarbeiten in Gefahr? - beantwortet
+- TOP 5.5: Spielwiese in der Rehberge - beantwortet
+- TOP 5.6: Modellprojekt Gustav-Falke-Schule - beantwortet
+- TOP 5.7: Leopoldplatz - beantwortet
+- TOP 5.8: Erdwall vor dem Festplatz - beantwortet
+- TOP 5.9: Lagertanks am Westhafen - schriftlich beantwortet
+- TOP 5.10: Heimatverein Tiergarten - schriftlich beantwortet
+- TOP 5.11: Freilichtbühne Rehberge - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Konsequenzen geplanter Schließungen von Jugendeinrichtungen in Mitte - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Übergang Kita - Schule - beantwortet
+- TOP 7.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3: Nachschau der Bezirkshaushaltspläne 2010/2011 durch die Senatsverwaltung für Finanzen hier: 5.1.3 Veranschlagungsleitlinie Ausbildungsmittel - beantwortet
+- TOP 7.4: Silvesterdreck bis Ostern? - beantwortet
+- TOP 7.5: Förderung lokaler Initiativen ohne Konzeption? - beantwortet
+- TOP 7.6: Planungen im Östlichen Tiergarten: Versinkt Mittes größte Buddelwiese im Planungschaos? - beantwortet
+- TOP 7.7: Barrierefreiheit bei Schul- und Kitasanierungen - beantwortet
+- TOP 7.8: Weihnachtsmarkt am Gendarmenmarkt - schriftlich beantwortet
+- TOP 7.9: Offene alte Kassenzeichen: Kapitel 4212 Tiefbau - schriftlich beantwortet
+- TOP 7.10: Kleingärten in Berlin - schriftlich beantwortet
+- TOP 7.11: Zentrale Beschaffung von Büroaustattungen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung eines beratenden Mitgliedes für den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 7 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Umsetzung der Schulstrukturreform im Bezirk Mitte - Einführung von Integrierten Sekundarschulen und Gemeinschaftsschulen - mit Änderungen in der BVV beschlossen
+- TOP 8.3: Schließung von Einrichtungen der kommunalen Infrastruktur bzw. die Übertragung des Betriebs an andere Träger - mit Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beitragspflichtige Erneuerung der Fahrbahn in der Rungestraße im Abschnitt von Inselstraße bis zur Straße Am Köllnischen Park - überwiesen
+- TOP 9.2: Beitragspflichtige Erneuerung und hydraulische Erweierung von Mischwasseranlagaen und Erneuerung von Regenwasseranlagen durch die Berliner Wasserbetriebe in der Köpenicker Straße im Bereich zwischen Brücken- und Adalbertstraße - überwiesen
+- TOP 9.3: Beitragspflichtige hydraulische Erweiterung von Mischwasseranlagen durch die Berliner Wasserbetriebe in der Bellermannstraße im Bereich zwischen Prinzenallee und Stettiner Straße - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Genehmigung der im Haushaltsjahr 2008 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Weinmeisterhaus bleibt! - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Umzug des Theodor-Heuss-Gymnasiums (THG) an den Standort Stephanstr. 2 überdenken - in der BVV abgelehnt
+- TOP 11.3: Besetzung des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Wahl einer Bürgerdeputierten hier: Ausschuss für Wirtschaft und Arbeit - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Wahl einer Bürgerdeputierten hier: Ausschuss für Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Ausschuss für Moderne Schulen in Mitte (Drs.-Nr. 1128/III) - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Der Spittelmarkt - Für einen wirklich attraktiven Stadtplatz! - überwiesen
+- TOP 12.3: Bebauungspläne Molkenmarkt und Petriplatz - überwiesen
+- TOP 12.4: Hilfe für den Leopoldplatz zeitnah umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Sicherung von belegungsgebundenem Wohnraum insbesondere von Behindertenwohnraum - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Entwicklung eines integrierten Klimaschutzkonzeptes für den Bezirk Mitte - überwiesen
+- TOP 12.7: Mitte für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - überwiesen
+- TOP 12.8: Ampelanlage Tiergartentunnel/Invalidenstraße - überwiesen
+- TOP 12.9: Stiftung "Conrad" für einen "Sozial-Campus Olof-Palme" - überwiesen
+- TOP 12.10: Den Ökomarkt im Bereich Leopoldplatz retten - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Lokale Agenda 21-Prozess in Mitte beginnen - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Baumschutz: DIN 18920 bei Ausschreibungen berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Wilhelmstraße - Wohnungen sind zum Wohnen da! - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Übernahme der kommunalen Stimmenmehrheit in der Trägervertretung des Jobcenters Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Stärkung des Quartiers Sprengelkiez - Schließung der Tegeler Straße an der Fennstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Mit Tempo 30 Besucher des Holocoust-Mahnmals schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Lebendiger Ort für Alle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Durchfahrverbot für LKW - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Bericht über Pflegestützpunkte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Haltestellenleitsystem der Stadtrundfahrtunternehmen in Berlin Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Städtebaulicher Rahmenplan für die Luisenstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Finanzierung der erforderlichen Beratungsangebote für die soziale und gesundheitliche Versorgung der Prostituierten im Kurfürstenkiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Regelmäßige Kundenzufriedenheits-Befragung im JobCenter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Kritischen Dialog mit Migrantenvereinen fortführen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.12: Bürgerschaftliches Engagement in und für Mitte fördern (I): Unterstützung der Stiftung "Gute Tat" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Bus der Linie M 27 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.14: Gendarmenmarkt auch während der Bautätigkeit als Veranstaltungsort erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Programmmittel "Soziale Stadt" 2009 - 2011 der Quartiersmanagementgebiete Reinickendorfer-/Pankstraße, Moabit West, Magdeburger Platz, Soldiner Straße, Sparrplatz, Brunnenviertel - Ackerstraße und Brunnenviertel-Brunnenstraße - mit Abschlussbericht zur Kenntnis genommen
