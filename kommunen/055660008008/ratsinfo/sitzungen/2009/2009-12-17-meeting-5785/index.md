@@ -1,0 +1,53 @@
+# Rat (43. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2009-12-17T18:02:00+01:00
+- Ende: 2009-12-17T20:20:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZT7Z78M0slxWtw0ibVTBncc
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/5785
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWv5w20gYxZ2Nv-5abGorUZYFfRKHhvZxLt9bXnqOM7C/Bekanntmachung_Rat_17.12.2009.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa3-F3ifUTpxmTMgnumg6WT8SZVu1JselJwqSasV0zIl/Oeffentliche_Niederschrift_Rat_17.12.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 09.11.2009
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Genehmigung einer Dringlichkeitsentscheidung des Haupt-, Finanz- und Steuerungsausschusses hinsichtlich Änderung des öffentlich-rechtlichen Vertrages zwischen der Stadt Emsdetten und der Stadt Ochtrup aus Anlass der Vereinigung der Stadtsparkasse Emsdetten und der Stadtsparkasse Ochtrup - 36 Ja-Stimme(n), 1 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.: Genehmigung von Dringlichkeitsentscheidungen gemäß § 60 GO
+- TOP 5.1: Genehmigung einer Dringlichkeitsentscheidung des Bürgermeisters und des Ratsmitgliedes Dr. Kock zur Ausbauplanung Marderweg und Fuchsweg. - Einstimmig
+- TOP 6.: Wahl sachkundiger EinwohnerInnen als beratende Ausschussmitglieder - Einstimmig
+- TOP 7.: Beschluss über die Gültigkeit der Kommunalwahl
+- TOP 7.1: Einspruch gegen die Bürgermeister- und Gemeinderatswahl 2009, Feststellung der Gültigkeit der Bürgermeister- und Gemeinderatswahl 2009 - Einstimmig
+- TOP 8.: Etat / Budget
+- TOP 8.1: Entwurf der Haushaltssatzung und Produkte 2010 - Einstimmig
+- TOP 9.: Familienaudit - Ziele und Maßnahmen - Einstimmig
+- TOP 10.: Zielbildungsverfahren zum Programm "Familien gewinnen" - (kein Text vorhanden)
+- TOP 11.: Stiftung "Aktionsbündnis Amoklauf Winnenden - Stiftung gegen Gewalt an Schulen" - Einstimmig
+- TOP 12.: Teilnahme am Zertifizierungsverfahren European Energy Award - 35 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 13.: Stadtwerke Emsdetten GmbH
+- TOP 13.1: Feststellung des Jahresabschlusses 2008 Stadtwerke Emsdetten GmbH, Entlastung und Gewinnausschüttung - 36 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 14.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 14.1: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren für das Jahr 2010 - 34 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 15.: Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 31. Mai 2006 in der Fassung des I. Nachtrages vom 17.12.2009 - Einstimmig
+- TOP 16.: VII. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 17.: Beleuchtung von Bushaltestellen im Außenbereich - Einstimmig
+- TOP 18.: Bebauungspläne
+- TOP 18.1: Bebauungsplan Nr. 37 "Josefskirche" Neuaufstellung, 2. Änderung - Beschluss über die eingegangenen Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft - Einstimmig
+- TOP 19.: Allgemeine Stadtentwicklungsplanung
+- TOP 19.1: Aktualisierung des Einzelhandelsentwicklungs- und Zentrenkonzeptes der Stadt Emsdetten 2009 - Zustimmung zu den Abwägungsergebnissen aus der Öffentlichkeitsbeteiligung - Beschluss über die Aktualisierung des Einzelhandelsentwicklungs- und Zentrenkonzeptes der Stadt Emsdetten - Einstimmig
+- TOP 20.: Allgemeine Umweltangelegenheiten
+- TOP 20.1: Ziel 2 "Erlebnis NRW" EMSAUE GANZ NAH - Grundsatzbeschluss - - 33 Ja-Stimme(n), 1 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 21.: Schulangelegenheiten
+- TOP 21.1: Wahl der Schulleitungen der Emsdettener Schulen nach dem Schulgesetz hier: Entsendung von Mitgliedern der Schulträgerin in die erweiterten Schulkonferenzen - Einstimmig
+- TOP 22.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 22.1: Trägerschaft für den neuen Kindergarten "Lerchenfeld" - Einstimmig
+- TOP 22.2: Adoptionsvermittlung - Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen der Stadt Rheine und der Stadt Emsdetten zur Einrichtung einer gemeinsamen Adoptionsvermittlungsstelle der Städte Rheine, Ibbenbüren, Greven und Emsdetten - Einstimmig
+- TOP 22.3: Übertragung von Aufgaben der Familiengerichtshilfe auf den Kreisel e.V. gemäß § 76 SGB VIII - 36 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 22.4: Änderung der Finanzierungsvereinbarungen mit dem Caritasverband Emsdetten zur Finanzierung der Angebote im Rahmen der Aufgabenwahrnehmung für die Jugendhilfe für den Planungszeitraum 2010 bis 2014 - Einstimmig
+- TOP 23.: Verschiedenes
