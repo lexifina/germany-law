@@ -1,0 +1,99 @@
+# 36. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2009-12-17T16:30:00+01:00
+- Ende: 2009-12-17T22:25:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2253
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2253
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - im Ausschuss abgelehnt
+- TOP 2.1: Schließung der Außenstelle des Kinder- und Jugendgesundheitsdienstes (KJGD) in Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI-35 - im Ausschuss abgelehnt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl der Schiedspersonen für die Schiedsamtsbezirke Treptow-Köpenick 1 und 3 - gewählt
+- TOP 8.2: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Altstadtkonferenz 2010 - mit Änderungen in der BVV beschlossen
+- TOP 9.2: Obdachlosenwohnheim in der Hartriegelstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Offener Bücherschrank - überwiesen
+- TOP 9.4: Stasiüberprüfung der Bezirksverordneten und Bürgerdeputierten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.5: Willenserklärung der BVV – 20 Jahre nach der Friedlichen Revolution - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Mittelpunktbibliothek Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Gesetzentwurf zur Publizitätspflicht im Bereich der Berliner Wasserwirtschaft in der vorliegenden Form übernehmen - überwiesen
+- TOP 9.8: Freie Sicht für die Archenhold-Sternwarte - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Stationäre Geschwindigkeitskontrollen - in der BVV abgelehnt
+- TOP 9.10: Objekt Südostallee 212 - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Beschlussvorlagen - (offen)
+- TOP 11.1: Bezirkshaushaltsrechnung 2008 - überwiesen
+- TOP 11.2: Sondermittel für ALV , Selbsthilfeprojekt für Behinderte, Arbeitslose und von der Arbeitslosigkeit bedrohte Menschen (SM 953) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Förderverein Lokale Agenda 21 e. V. (SM 956) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Netzwerk e. V. (SM 957) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: - Entwurf des Bebauungsplans 9-12 B nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans 9-12 B im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - überwiesen
+- TOP 11.6: Aufhebung BVV-Beschluss 756/35/09 - in der BVV zurückgezogen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Radverkehr im Schwalbenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Unbefugte Zufahrt mit Kraftfahrzeugen in den Volkspark Wuhlheide zu unterbinden - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bebauungsplan XVI-43 (Sportplatz Wendenschloßstraße") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Dauercampingplätze - vertagt
+- TOP 12.5: Gartendenkmal Treptower Park schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bebauungsplan XVI-55 ("Dahmestadt") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Bebauungsplan 9-47 ("Uferweg Oberschöneweide") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Bebauungsplan XVI-42 ("Wendenschloßstraße / Segewaldweg") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Bebauungsplan XVI-36 ("Kaufhalle Siemensstraße und Umgebung") hier: Beschluss zur prioritären Fortsetzung des Bebauungsplanverfahrens und Umsetzung der Planung in 2010 in Kenntnisnahme der materiellen Auswirkungen für das Bezirksamt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Bebauungsplanverfahren XV-30 ("Treptowers") hier: Inhaltliche Änderungen zum Bebauungsplanentwurf XV-30 vom 22.12.1994 mit Deckblatt vom 21.07.1997 - vertagt
+- TOP 12.11: Lärmminderung in der Salvador-Allende-Straße - vertagt
+- TOP 12.12: Fahrradstellplätze am S-Bahnhof Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Abitur an den Gemeinschaftsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Benutzungspflicht für Radwege in Bahnhofstraße aufheben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: Radwege Köpenicker Landstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Bürgerschaftliches Engagement von Bürgerinnen und Bürgern mit Migrationshintergrund fördern - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Ergänzendes Planfeststellungsverfahren zur Reduzierung des Nachtflugs auf dem Flughafen BBI (II) - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Verwendung der Mittel aus der Erhöhung des Ansatzes für die Förderung freier Träger der Jugendarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Überführung von Einrichtungen der Jugendarbeit in freie Trägerschaft - vertagt
+- TOP 12.20: Radweg in der Schnellerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Bezirkshaushaltsrechnung 2007 - vertagt
+- TOP 12.22: Sicherung des Schülerruderns - vertagt
+- TOP 12.23: Kulturführer für Treptow-Köpenick erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Genehmigung der im Haushaltsjahr 2008 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.25: Im I. Halbjahr 2009 zugelassene über- und außerplanmäßigen Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.26: Bildung und Einrichtung des Umwelt- und Naturschutzamtes zum 01.01.2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.27: Ergänzendes Planfeststellungsverfahren zur Reduzierung des Nachtflugs auf dem Flughafen BBI (I) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Umbenennung der in Niederschöneweide liegenden, vom Bruno-Bürgel-Weg abgehenden Ostendstraße in "Alice-Archenhold-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Hilfen aus einer Hand für Arbeitssuchende fortsetzen - überwiesen
+- TOP 14.2: Öffentliche Veranstaltung zu „Fünf Jahre JobCenter Treptow-Köpenick“ - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Lernen in vernünftiger Atmosphäre an der Schule "Am Altglienicker Wasserturm" - überwiesen
+- TOP 14.4: Benennung der Mittelpunktbibliothek Köpenick nach einer Protagonistin des Friedrichshagener Dichterkreises - überwiesen
+- TOP 14.5: Zuwegung zum Sportplatz Wendenschloßstraße 182 - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Bau der "Wilhelminenhofbrücke" - überwiesen
+- TOP 14.7: Europäische Mobilitätswoche 2010 - vertagt
+- TOP 14.8: Öffentliche Veranstaltung zur Befragung der Sozialkommissionen - überwiesen
+- TOP 14.9: Änderung der GO - überwiesen
+- TOP 14.10: Verkehrsberuhigung im Bereich Joachimstraße und Cardinalstraße - überwiesen
+- TOP 14.11: Erneuerung des Daches beim Freilandlabor Kaniswall prioritär berücksichtigen - überwiesen
+- TOP 14.12: ALKIS-Einführung in den Bezirken sinnvoll gestalten - vertagt
+- TOP 14.13: Kein zusätzlicher Verkehr nach Bohnsdorf - vertagt
+- TOP 14.14: Bezirkliche Sozialstruktur auch im "JobCenter" beachten - überwiesen
+- TOP 14.15: Dostojewski-Bibliothek - überwiesen
+- TOP 14.16: Schulwegsicherung auf der Schönefelder Chaussee - überwiesen
+- TOP 14.17: Neue Ausgleichsfläche zur Renaturierung vorsorglich benennen - überwiesen
+- TOP 14.18: Wegeverbindung sichern - überwiesen
+- TOP 14.19: Ersatz BVV-Beschluss 756/35/09 - mit Änderungen in der BVV beschlossen
+- TOP 14.20: Verkehrszeichen mit Hinweis auf querende Radfahrerinnen und Radfahrer in der Ottomar-Geschke-Straße - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bearbeitung von Wohngeldanträgen - vertagt
+- TOP 15.2: Atelierangebote in Treptow-Köpenick - vertagt
