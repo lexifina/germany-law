@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2009-12-17T16:00:00+01:00
+- Ende: 2009-12-17T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZfRAN-vnS4o7BtTQp_MLplU
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3613
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYVrraV5JhrfNQX3GLoHX03tSw4f7DBVg1fjfH6T_GSD/Oeffentliche_Niederschrift_Rat_17.12.2009.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 02. Sitzung des Rates am 19.11.2009
+- TOP 3: Protokoll über die 03. Sitzung des Rates am 17.12.2009
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Bildung von Ausschüssen hier: Bildung eines Unterausschusses
+- TOP 6: Besetzung der Verbandsversammlung des Wupperverbandes
+- TOP 7: Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 8: Wasserversorgungsverband Rhein-Wupper
+- TOP 9: Bergische Volkshochschule
+- TOP 10: Besetzung des Beirates für das Walter-Bremer-Institut
+- TOP 11: Zusammenlegung von Arbeitslosenhilfe und Sozialhilfe gemäß dem Vierten Gesetz für moderne Dienstleistungen am Arbeitsmarkt – Hartz IV – (SGB II)
+- TOP 12: Wahl der Mitglieder des Beirates bei der Unteren Landschaftsbehörde
+- TOP 13: Sach- und Kommunikationsmittel zum Zwecke der Vorbereitung auf die Ratssitzung gemäß § 56 GO NRW
+- TOP 14: Finanzielle Zuwendung für Einzelmandatsträger/innen
+- TOP 15: Mitschnitte von Ratssitzungen im Internet
+- TOP 16: I. Nachtrag zum Stellenplan 2009
+- TOP 17: Abschluss von Personalgestellungsverträgen
+- TOP 18: Abschluss von Personalgestellungsverträgen
+- TOP 19: Überarbeitung Prioritätenliste 2009 für Investitionen
+- TOP 20: Konjunkturpaket II
+- TOP 21: Energiepreise transparent gestalten - Preiskalkulation offenlegen
+- TOP 22: Bürgerbeteiligte Haushaltssicherung
+- TOP 23: Einrichtung eines Bildungsgangs am Technischen Berufskolleg Solingen
+- TOP 24: Gebührenbedarfsberechnungen 2010
+- TOP 25: I. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 26: V. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 27: IV. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung derGrundstücke und den Anschluss an die öffentliche Abwasseranlage
+- TOP 28: Satzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen
+- TOP 29: Ordnung der Stadt Solingen über die Erhebung privatrechtlicher Entgelte für die Benutzung des Müllheizkraftwerkes der EntsorgungsBetriebe Solingen
+- TOP 30: Wirtschaftsplan 2010 der EntsorgungsBetriebe Solingen
+- TOP 31: Abschaffung der Jagdsteuer ab dem Jahre 2013
+- TOP 32: Neufassung des Rettungsdienstbedarfsplans der Stadt Solingen
+- TOP 33: Neufassung der Gebührensatzung für den Rettungsdienst der Stadt Solingen
+- TOP 34: I. Änderungssatzung zur Satzung über die Friedhöfe der Stadt Solingen
+- TOP 35: Neufassung der Friedhofsgebührensatzung für die Friedhöfe der Stadt Solingen
+- TOP 36: Bauleitplanung Birkerstraße, Werwolf
+- TOP 37: Abrechnungssatzung Dönhoffstraße
+- TOP 38: Kommunales Energiekonzept
+- TOP 39: Verschiedenes
+- TOP 40: HSK-Maßnahme 199, Reduzierung Standard Grünflächenunterhaltung
+- TOP 41: Anfrage der Ratsfraktion Bündnis 90 / Die Grünen - Offene Liste zum Thema "Kommunalfinanzen"
+- TOP 42: Rekommunalisierung der Stadtwerke Solingen GmbH
+- TOP 43: Löschwasservertrag
+- TOP 44: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2009
+- TOP 45: Interkulturelle Öffnung der Verwaltung
+- TOP 46: Fragen im Zusammenhang mit der Niederlegung des Karstadt-Gebäudes
+- TOP 47: Neuorganisation der Aufgabenwahrnehmung im Rechtskreis SGB II
+- TOP 48: City 2013 – „Kreativ- und Standortoffensive für die Solinger Innenstadt"
+- TOP 49: Warnstreik der Beschäftigten in der Abfallbeseitigung
+- TOP 50: Zuständigkeiten der Ausschüsse
+- TOP 51: HSK-Maßnahme 199 - Reduzierung Standard Grünflächenunterhaltung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 03. Sitzung des Rates am 17.12.2009
+- TOP 3: Protokoll über die 02. Sitzung des Rates am 19.11.2009
+- TOP 4: Bäderkonzept - Ausbau des Sportbades Klingenhalle mit gleichzeitiger Sanierung des Gesamtkomplexes
+- TOP 5: Verschiedenes
+- TOP 6: HSK-Maßnahme 199, Reduzierung Standard Grünflächenunterhaltung
+- TOP 7: Eissporthalle Solingen
