@@ -1,0 +1,66 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2009-12-17T09:00:00+01:00
+- Ende: 2009-12-17T00:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2501
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2501
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142772.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142772.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142772.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO
+- TOP 2: Genehmigung NS - mehrheitlich beschlossen
+- TOP 3: Kämmererliste - mehrheitlich beschlossen
+- TOP 4: Wirtschaftsplan 2010 des Stadtbetriebs Zentrale Dienste - mehrheitlich beschlossen
+- TOP 5: Jahresabschluss und Lagebericht 2008 des Stadtbetriebs Zentrale Dienste - einstimmig beschlossen
+- TOP 6: Jahresabschluss 2008 und Lagebericht 2008 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 7: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 2009 bis 2013 - einstimmig beschlossen
+- TOP 8: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2010 - mehrheitlich beschlossen
+- TOP 9: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für den Zeitraum vom 01.01.2010 bis 31.12.2010 - einstimmig beschlossen
+- TOP 10: Gebührenkalkulation Straßenreinigung für 2010 - einstimmig beschlossen
+- TOP 11: 20. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupstadt Düsseldorf - einstimmig beschlossen
+- TOP 12: Gebührenkalkulation Abfall für 2010 - einstimmig beschlossen
+- TOP 13: Etatberatung 2010 - zur Kenntnis genommen
+- TOP 14: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2010 mit Anlagen - zur Kenntnis genommen
+- TOP 15: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2010 mit Anlagen - zur Kenntnis genommen
+- TOP 16: 1. Veränderungsverzeichnis - zur Kenntnis genommen
+- TOP 17: 2. Veränderungsverzeichnis zum Haushaltsplanentwurf 2010 - zur Kenntnis genommen
+- TOP 18: Stellenplan 2010 - zur Kenntnis genommen
+- TOP 19: Beschluss des Wahlprüfungsausschusses - einstimmig beschlossen
+- TOP 20: Nördlicher Zubringer -AuF- - einstimmig beschlossen
+- TOP 21: Sonnenstr. 10, GGS, Fassadensanierung , Klassen- und Sondertrakt - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 22: 2. Bauabschnitt Oper - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 23: Sportanlage Niermannsweg SC Unterbach - B+F - einstimmig beschlossen
+- TOP 24: Sportanlage im Liefeld - einstimmig beschlossen
+- TOP 25: Marie-Curie-Str. 9, Gerresheim, Neubau Kindertagesstätte - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 26: Heinrich-Walbröhl-Weg 10, Wittlaer, Neubau Kindertagesstätte mit Jugendfreizeiteinrichtung - Ausführungs- und Finazierungsbeschluss - - einstimmig beschlossen
+- TOP 27: Brinckmannstr. 16, Sanierung Einfachsporthalle - Ausführungs- und Finanzierungsbeschluss - - einstimmig beschlossen
+- TOP 28: Ersatzneubau der JFE Lichtenbroicher Weg - einstimmig beschlossen
+- TOP 29: Ersatzneubau der JFE Lüderitzstraße - einstimmig beschlossen
+- TOP 30: Schulorganisatorische Maßnahme an der Städtischen Katholischen Grundschule Leuthenstraße - Auflösung - - einstimmig beschlossen
+- TOP 31: Schulentwicklungsplan - Maßnahmeplanung Hauptschulen - zur Kenntnis genommen
+- TOP 32: Schulentwicklungsplan - Maßnahmeplanung Hauptschulen - hier: Beschlüsse der Schulkonferenzen - zur Kenntnis genommen
+- TOP 33: Änderung des Förderprogramms "klimafreundliches Wohnen" - einstimmig beschlossen
+- TOP 34: Verwaltungsrat der Stadtsparkasse - mehrheitlich beschlossen
+- TOP 35: Abschluss von öffentlich-rechtlichen Vereinbarungen zur Bereitstellung der einheitlichen Behördenrufnummer 115 - einstimmig beschlossen
+- TOP 36: Benennung und Einführung eines Einheitlichen Ansprechpartners bei der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 37: Verleihung des Helmut-Käutner-Preises 2010 - einstimmig beschlossen
+- TOP 38: Annahme einer Schenkung für das Hetjens-Museum - mehrheitlich beschlossen
+- TOP 39: Umbesetzungen - einstimmig beschlossen
+- TOP 40: Planungsmaßnahmen - zur Kenntnis genommen
+- TOP 41: Plan Nr. 5282/021 - Niederrheinstraße - einstimmig beschlossen
+- TOP 42: FNP-Ä 149-Andreasquartier-Plan - einstimmig beschlossen
+- TOP 43: BPl5477/124-Andreasquartier-Satzung - mehrheitlich beschlossen
+- TOP 44: Änderung der Zuständigkeitsordnung (ZO) - zur Kenntnis genommen
+- TOP 45: VRR-Verbandsversammlung - zur Kenntnis genommen
+- TOP 46: AR Deutsche Oper am Rhein - zur Kenntnis genommen
+- TOP 47: Aufsichtsrat der Neue Schauspiel - Gesellschaft mbH - Ersatzwahl - - zur Kenntnis genommen
+- TOP 48: Aufsichtsrat der Rheinbahn AG - Ersatzwahl - - einstimmig beschlossen
+- TOP 49: Aufsichtsrat der Regionalen Bahngesellschaft - Ersatzwahl - einstimmig beschlossen
