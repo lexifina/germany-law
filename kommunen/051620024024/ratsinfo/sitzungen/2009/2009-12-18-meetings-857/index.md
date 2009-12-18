@@ -1,0 +1,51 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2009-12-18T16:00:00+01:00
+- Ende: 2009-12-18T19:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/857
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/857
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Geruchssituation in Neuss (RAT181209-08506.doc)
+- TOP 5: Änderung der Friedhofssatzung aufgrund Umsetzung der EU-Dienstleistungsrichtlinie 2006/123/EG – EU-DLR (AUG011209-08311.doc)
+- TOP 6: Bildung und Besetzung des Komitees für Partnerschaften und internationale Beziehungen (HA031209-08276)
+- TOP 8: Einwohnerfragestunde
+- TOP 15: Bplan Münchener Straße / Hindenburgplatz (BHZ170909-08144.doc)
+- TOP 16: Grimlinghausen, Am Kuhweg (West ) – Bebauungsplan Nr. 115/3 (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA101209-08423.doc)
+- TOP 17: Errichtung einer Wegebeleuchtung zwischen Josef-, Ripuarier- und Wingenderstraße (BA101209-08424.doc)
+- TOP 18: Ausbau Parkstreifen Kantstraße (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA160909-08020.doc)
+- TOP 19: Benennung der Mitglieder für die Baumkommission (AUG011209-08306.doc)
+- TOP 20: Benennung der Mitglieder für die Kommission für das Kleingartenwesen (AUG011209-08307.doc)
+- TOP 21: Renaturierung des Gillbaches in Neuss-Weckhoven (AUG011209-08308.doc)
+- TOP 22: Festsetzung von Gebühren 2010 für den Bereich „Bestattungswesen“ (AUG011209-08313.doc)
+- TOP 23: Wirtschaftsplan 2010 der Städtischen Friedhöfe Neuss (AUG011209-08319.doc)
+- TOP 24: Luftreinhalteplan Neuss (AUG011209-08356.doc)
+- TOP 25: Feststellung des Jahresabschlusses 2008 der Liegenschaften und Vermessung Neuss (LVN) und Beschluss zur Verwendung des Jahresgewinnes sowie Entlastung der Betriebsleitung (AWL021209-08341.doc)
+- TOP 26: Wirtschaftsplan der Liegenschaften und Vermessung Neuss (LVN) für das Jahr 2010 (AWL021209-08342.doc)
+- TOP 27: Benennung von sachkundigen Frauen und Männern als beratende Mitglieder des Jugendhilfeausschusses gemäß § 72 Abs. 5 KJHG i. V. m. § 5 Abs. 3 AG-KJHG sowie § 5 der Satzung für das Jugendamt der Stadt Neuss (JHA101209-08408)
+- TOP 28: Bildung und Besetzung des Unterausschusses Kinder (JHA101209-08409.doc)
+- TOP 29: Umwandlung der Realschule Südstadt in eine gebundene Ganztagsrealschule hier: Planvorlage und Kostenschätzung (SCH171209-08488.doc)
+- TOP 30: Umwandlung des Alexander-von-Humboldt-Gymnasiums in ein gebundenes Ganztagsgymnasium hier: Planvorlage und Kostenschätzung (SCH171209-08491.doc)
+- TOP 31: Feststellung des Wirtschaftsplanes 2010 für das Pflegeheim Herz-Jesu (SOZ091209-08347.doc)
+- TOP 32: Vorprüfung über die Gültigkeit der Wahl zum Rat der Stadt Neuss sowie der Wahl zum Bürgermeister der Stadt Neuss am 30.08.2009 (WPA071209-08398.doc)
+- TOP 33: Sitzungskalender des Rates und der Ausschüsse 2010 (RAT061109-08254.doc)
+- TOP 34: Haushalt 2010 Vorlage des Entwurfes der Haushaltssatzung der Stadt Neuss mit Anlagen für das Haushaltsjahr 2010 (RAT181209-08326.doc)
+- TOP 35: Jahresabschluss 2008 (RAT181209-08327.doc)
+- TOP 36: Satzungen der InfraStruktur Neuss AöR (RAT181209-08344.doc)
+- TOP 37: Abschluss einer öffentlich-rechtlichen-Vereinbarung mit der Landeshauptstadt Düsseldorf, Teilnahme am Projekt Einheitliche Behördenrufnummer D115 (RAT181209-08392)
+- TOP 38: Vertretung der Stadt Neuss in der Gesellschafterversammlung der Neuss-Düsseldorfer Häfen GmbH & Co. KG zwecks Beauftragung eines Abschlussprüfers (RAT181209-08466.doc)
+- TOP 39: Zuschüsse zum Geschäftsbedarf der im Rat vertretenen Fraktionen hier: Beanstandung und Neufassung eines Teilbeschlusses des Rates vom 06.11.09 zur Entschädigung eines Einzelmitgliedes (RAT181209-08469.doc)
+- TOP 40: Optimierung im Bereich der Straßenbeleuchtung (RAT181209-08496.doc)
+- TOP 41: Einrichtung des Unterausschusses Radverkehr (UR) (RAT181209-08499.doc)
+- TOP 42: Verbraucherberatungsstelle in Neuss (RAT181209-08498.doc)
+- TOP 43: Neue Werbeflächen der Firma Ströer in Neuss stören Anwohner und das Landschaftsbild (RAT181209-08497.doc)
+- TOP 44: Kenntnisnahme über- und außerplanmäßigen Aufwendungen und Auszahlungen im IV. Quartal 2008 und III. Quartal 2009
+- TOP 45: Einwohnerfragestunde
+- TOP 46: Rheinparkcenter - Breslauer Straße (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA101209-08422.doc)
+- TOP 48: Feststellung des Jahresabschlusses 2005 der Städtischen Hafenbetriebe Neuss (HA081009-08137.doc)
