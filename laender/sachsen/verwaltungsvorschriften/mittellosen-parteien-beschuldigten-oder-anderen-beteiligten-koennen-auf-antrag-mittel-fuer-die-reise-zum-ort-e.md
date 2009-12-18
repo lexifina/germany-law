@@ -1,8 +1,8 @@
 # Mittellosen Parteien, Beschuldigten oder anderen Beteiligten können auf Antrag Mittel für die Reise zum Ort einer Verhandlung, Vernehmung oder Untersuchung und für die Rückreise gewährt werden. Hierauf soll in der Ladung oder in anderer geeigneter We
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2006-06-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1368.1
+- Datum: 2009-12-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1368.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,7 +12,7 @@ I.
 
 1.
 
-Mittellosen Parteien, Beschuldigten oder anderen Beteiligten können auf Antrag Mittel für die Reise zum Ort einer Verhandlung, Vernehmung oder Untersuchung und für die Rückreise gewährt werden. Hierauf soll in der Ladung oder in anderer geeigneter Weise hingewiesen werden. Die gewährten Mittel gehören zu den Kosten des Verfahrens (vergleiche Nummer 9008 Nr. 2 und Nummer 9015 der Anlage 1 zu § 3 Abs. 2 des Gerichtskostengesetzes             , § 137 Abs. 1 Nr. 11 der Kostenordnung). Als mittellos im Sinne dieser Vorschrift sind Personen anzusehen, die nicht in der Lage sind, die Kosten der Reise aus eigenen Mitteln zu bestreiten. Die Vorschriften über die Bewilligung von Prozesskostenhilfe bleiben unberührt.
+Mittellosen Parteien, Beschuldigten oder anderen Beteiligten können auf Antrag Mittel für die Reise zum Ort einer Verhandlung, Vernehmung oder Untersuchung und für die Rückreise gewährt werden. Hierauf soll in der Ladung oder in anderer geeigneter Weise hingewiesen werden. Die gewährten Mittel gehören zu den Kosten des Verfahrens (vergleiche Nummer 9008 Nr. 2 und Nummer 9015 der Anlage 1 zu § 3 Abs. 2 GKG, Nummer 2007 Nr. 2 der Anlage 1 zu § 3 Abs. 2 FamGKG, § 137 Abs. 1 Nr. 10 KostO). Als mittellos im Sinne dieser Vorschrift sind Personen anzusehen, die nicht in der Lage sind, die Kosten der Reise aus eigenen Mitteln zu bestreiten. Die Vorschriften über die Bewilligung von Prozess- oder Verfahrenskostenhilfe bleiben unberührt.
 
 a)
 
@@ -79,6 +79,10 @@ b)
 Ist in Eilfällen die Übermittlung einer Fahrkarte oder die Auszahlung des Betrages nicht mehr möglich, kann auch die Geschäftsstelle des Amtsgerichts, in dessen Bezirk sich der Antragsteller aufhält, einen Vorschuss nach § 3 JVEG bewilligen und zur Zahlung anweisen. Ist ein Antrag auf gerichtliche Festsetzung des Vorschusses gestellt oder wird eine Festsetzung für angemessen erachtet, kann in dringenden Fällen auf Ersuchen des für die Entscheidung nach § 4 Abs. 1 JVEG zuständigen Gerichts eine Fahrkarte für ein bestimmtes Beförderungsmittel zur Verfügung gestellt oder ein festgesetzter Vorschuss ausgezahlt werden. Die Auszahlung des Vorschusses ist in der Ladung auffällig zu vermerken. Die ladende Stelle ist von der Gewährung des Vorschusses unverzüglich zu benachrichtigen.
 
 II.
+
+Ergänzend zu den vorgenannten Bestimmungen wird Folgendes bestimmt:Zur Vermeidung der Vorführung kann der Vollstreckungsleiter (Ziffer I der Richtlinien zu den §§ 82-85 JGG) mittellosen Verurteilten, die sich auf freiem Fuße befinden und zum Vollzug eines Jugendarrests in eine mehr als zehn Kilometer von ihrem Wohnort entfernte Jugendarrestanstalt eingewiesen werden, für die Fahrt zur Jugendarrestanstalt durch die Geschäftsstelle eine Fahrkarte aushändigen lassen.
+
+III.
 
 Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. Juni 2006 in Kraft. Gleichzeitig treten außer Kraft:
 
