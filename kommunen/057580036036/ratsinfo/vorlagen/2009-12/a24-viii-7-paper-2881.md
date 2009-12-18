@@ -1,0 +1,13 @@
+# Nutzungszeiten der Sporthallen nach Kunstrasenplatz-Erstellung
+
+- Körperschaft: Stadt Vlotho
+- Drucksache/Vorlage: A24-VIII/7
+- Art: Anregungen und Beschwerden § 24 GO
+- Datum: 2009-12-18
+- Ratsinformationssystem: https://vlotho.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQk-yJjJSuIb4vfGHm8q0nc
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2881
+- Quelle: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Anregungen und Beschwerden § 24 GO (Nutzungszeiten der Sporthallen nach Kunstrasenplatz-Erstellung) https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZe_wsoSdH1IpNpiyk9LulO2kI6kyI5oS6DsxDtPsVVtW/Anregungen_und_Beschwerden_--_24_GO_A24-VIII-7.pdf
+- Beratung:  https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2329 https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-8
+- Beratung:  https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2184 https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-186
