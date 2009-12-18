@@ -1,8 +1,8 @@
 # Satzung über die Abfallentsorgung in der Stadt Köln (Abfallsatzung - AbfS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2008-12-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallsatzung2008-12-19.pdf
+- Datum: 2009-12-18 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/abfallsatzung_18._dezember_2009.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,8 +10,8 @@
 
 Satzung über die Abfallentsorgung in der Stadt Köln
 (Abfallsatzung - AbfS -) vom 15. Dezember 2006
-in der Fassung der 2. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Stadt Köln (Abfallsatzung – AbfS -) vom 19. Dezember 2008
-Der Rat der Stadt Köln hat in seiner Sitzung vom 14.12.2006 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NRW 2023), der §§ 1, 2, 8 und 9 des Abfallgesetzes für das Land Nordrhein-Westfalen vom 21. Juni 1988 (GV NRW S. 250) - Landesabfallgesetz -, in Ausführung des Kreislaufwirtschafts- und Abfallgesetzes (KrW/AbfG) vom 27.09.1994 - BGBl. I S. 2705 - und aufgrund des § 81 Abs. 1 Nr. 4 der Bauordnung für das Land Nordrhein-Westfalen vom 16. Juni 1984 (SGV NRW 232) sowie des § 17 des Gesetzes über Ordnungswidrigkeiten vom 24. Mai 1968 (BGBl I S. 481) - jeweils in der bei Erlass der Satzung geltenden Fassung - diese Satzung beschlossen.
+in der Fassung der 3. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Stadt Köln (Abfallsatzung – AbfS -) vom 18. Dezember 2009
+Der Rat der Stadt Köln hat in seiner Sitzung vom 14.12.2006 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NRW 2023), der §§ 1, 2, 8 und 9 des Abfallgesetzes für das Land Nordrhein-Westfalen vom 21. Juni 1988 (GV NRW S. 250) - Landesabfallgesetz -, in Ausführung des Kreislaufwirtschafts- und Abfallgesetzes (KrW-/AbfG) vom 27.09.1994 - BGBl. I S. 2705 - und aufgrund des § 81 Abs. 1 Nr. 4 der Bauordnung für das Land Nordrhein-Westfalen vom 16. Juni 1984 (SGV NRW 232) sowie des § 17 des Gesetzes über Ordnungswidrigkeiten vom 24. Mai 1968 (BGBl I S. 481) - jeweils in der bei Erlass der Satzung geltenden Fassung - diese Satzung beschlossen.
 I.
 §1 Aufgabe
 (1) Die Stadt Köln betreibt die Abfallentsorgung in ihrem Gebiet nach Maßgabe der Gesetze und dieser Satzung als öffentliche Einrichtung.
@@ -28,8 +28,8 @@ Zur Abfallentsorgung gehören auch das Bereitstellen, Überlassen, Sammeln, Eins
 (2) Die Abfallentsorgung umfasst auch die Beratung über Möglichkeiten der Vermeidung und Verwertung und Beseitigung von Abfällen.
 §3 Inhalt der Abfallentsorgung durch die Stadt Köln
 (1) Der Abfallentsorgung durch die Stadt Köln unterliegen nach Maßgabe des § 13 Abs. 1 KrW-/AbfG und der folgenden Absätze
-a) Abfälle zur Beseitigung aus privaten Haushaltungen, b) Abfälle zur Verwertung aus privaten Haushaltungen, soweit die Abfallerzeu-
-ger/Abfallerzeugerinnen oder –besitzer/besitzerinnen zur Verwertung nicht in der Lage sind oder diese nicht beabsichtigen, c) Abfälle zur Beseitigung aus anderen Herkunftsbereichen, soweit die Abfallerzeuger/Abfallerzeugerinnen oder –besitzer/besitzerinnen diese nicht in eigenen Anlagen beseitigen oder überwiegende öffentliche Interessen eine Überlassung erfordern.
+a) Abfälle zur Beseitigung aus privaten Haushaltungen, b) Abfälle zur Verwertung aus privaten Haushaltungen, soweit die
+Abfallerzeuger/Abfallerzeugerinnen oder –besitzer/besitzerinnen zur Verwertung nicht in der Lage sind oder diese nicht beabsichtigen, c) Abfälle zur Beseitigung aus anderen Herkunftsbereichen, soweit die Abfallerzeuger/Abfallerzeugerinnen oder –besitzer/besitzerinnen diese nicht in eigenen Anlagen beseitigen oder überwiegende öffentliche Interessen eine Überlassung erfordern.
 (2) Der Abfallentsorgung durch die Stadt Köln unterliegen nicht
 a) Abfälle, die einer Rücknahme- oder Rückgabepflicht aufgrund einer Rechtsverordnung nach § 24 KrW-/AbfG unterliegen, soweit nicht die Stadt aufgrund einer Bestimmung nach § 24 Abs.2 Nr. 4 des KrW-/AbfG an der Rücknahme mitwirkt,
 b) Abfälle, die durch gemeinnützige Sammlung einer ordnungsgemäßen und schadlosen Verwertung zugeführt werden,
@@ -38,9 +38,9 @@ c) Abfälle, die durch gewerbliche Sammlung einer ordnungsgemäßen und schadlos
 Die Anlage 1 ist Bestandteil dieser Satzung.
 Alle nicht in Anlage 1 enthaltenen Abfälle sind von der Entsorgung durch die Stadt Köln ausgeschlossen.
 Schadstoffhaltige Abfälle unterliegen der kommunalen Abfallentsorgung nach Maßgabe des § 15 dieser Satzung sowie der Anlage 2 zu dieser Satzung.
-(4) Die Stadt Köln kann mit Zustimmung der zuständigen Genehmigungsbehörde in Ausnahmefällen die Erlaubnis zur Entsorgung von nicht in der Anlage 1 aufgeführten Abfällen in kommunalen Abfallentsorgungsanlagen erteilen.
 Seite 2 von 32
 
+(4) Die Stadt Köln kann mit Zustimmung der zuständigen Genehmigungsbehörde in Ausnahmefällen die Erlaubnis zur Entsorgung von nicht in der Anlage 1 aufgeführten Abfällen in kommunalen Abfallentsorgungsanlagen erteilen.
 Die Erlaubnis wird unter Vorbehalt des Widerrufs schriftlich erteilt und kann mit Bedingungen und Auflagen verbunden sowie befristet werden.
 (5) Über Absatz 1 bis 3 hinaus kann die Stadt Köln in Einzelfällen mit Zustimmung der zuständigen Genehmigungsbehörde Abfälle von der Entsorgung insgesamt oder vom Einsammeln und Befördern ausschließen, wenn sie diese nach ihrer Art, Menge oder Beschaffenheit nicht mit den in Haushaltungen anfallenden Abfällen beseitigen kann.
 Bis zur Entscheidung durch die zuständige Genehmigungsbehörde haben Abfallerzeuger/Abfallerzeugerinnen und –besitzer/besitzerinnen dafür zu sorgen, dass ihre Abfälle auf einem ihnen zu Verfügung stehenden Grundstück ohne Beeinträchtigung des Wohles der Allgemeinheit gelagert werden.
@@ -53,10 +53,11 @@ Alle anderen Abfälle der Anlage 1 sind vom Sammeln, Einsammeln und Befördern, 
 §4 Anfall der Abfälle
 (1) Abfälle fallen an, sobald ihre Abfalleigenschaften erfüllt sind (§ 3 Abs. 1 KrW/AbfG).
 (2) Als angefallen gelten Abfälle spätestens dann, wenn sie in gemäß § 9 zugelassene Abfallbehälter eingefüllt oder gemäß §§ 11 bis 16 bereitgestellt sind.
-(3) Unabhängig von Abs. 2 gelten Abfälle als angefallen, wenn sie in zulässiger Weise auf das Gelände einer der gemäß § 17 genannten Anlagen verbracht worden sind.
-(4) Als angefallen gelten Kraftfahrzeuge oder Anhänger ohne gültiges amtliches Kennzeichen spätestens dann, wenn diese auf öffentlichen Flächen oder außerhalb im Zusammenhang bebauter Ortsteile abgestellt sind, keine Anhaltspunkte für deren Entwendung oder bestimmungsgemäße Nutzung bestehen und sie nicht innerhalb eines Monats nach einer am Fahrzeug angebrachten, deutlich sichtbaren Aufforderung entfernt worden sind.
+(3) Unabhängig von Abs. 2 gelten Abfälle als angefallen, wenn sie in zulässiger Weise auf das Gelände einer der in § 17 genannten Anlagen verbracht worden sind.
+(4) Als angefallen gelten Kraftfahrzeuge oder Anhänger ohne gültiges amtliches Kennzeichen spätestens dann, wenn diese auf öffentlichen Flächen oder außerhalb im Zusammenhang bebauter Ortsteile abgestellt sind, keine Anhaltspunkte für deren
 Seite 3 von 32
 
+Entwendung oder bestimmungsgemäße Nutzung bestehen und sie nicht innerhalb eines Monats nach einer am Fahrzeug angebrachten, deutlich sichtbaren Aufforderung entfernt worden sind.
 §5 Anschluss- und Benutzungsrecht
 (1) Jeder Eigentümer/jede Eigentümerin eines im Gebiet der Stadt Köln liegenden Grundstücks ist berechtigt, im Rahmen der Satzung den Anschluss seines/ihres Grundstücks an die Abfallentsorgung durch die Stadt Köln zu verlangen (Anschlussrecht).
 (2) Der/die Anschlussberechtigte und jeder andere Abfallerzeuger/jede andere Abfallerzeugerin oder –besitzer/besitzerin im Gebiet der Stadt Köln hat im Rahmen der Satzung das Recht, die auf seinem/ihrem Grundstück oder sonst bei ihm/ihr angefallenen Abfälle der Abfallentsorgung durch die Stadt Köln zu überlassen (Benutzungsrecht).
@@ -66,11 +67,11 @@ Es besteht kein Anspruch auf eine bestimmte Art des Einsammelns und Beförderns.
 (1) Jeder Eigentümer/jede Eigentümerin eines im Gebiet der Stadt Köln liegenden Grundstücks, auf dem Abfall zur Verwertung oder zur Beseitigung aus privaten Haushaltungen oder Abfall zur Beseitigung aus anderen Herkunftsbereichen anfallen kann, ist verpflichtet, sein/ihr Grundstück im Rahmen der Satzung an die Abfallentsorgung durch die Stadt Köln anzuschließen (Anschlusszwang). Abweichend von Satz 1 können auch die Erzeuger/Erzeugerinnen und Besitzer/Besitzerinnen von Abfällen zur Beseitigung aus anderen Herkunftsbereichen selbst angeschlossen werden. Sie gelten dann als Anschlusspflichtige im Sinne dieser Satzung.
 (2) Anschlusspflichtige, Abfallerzeuger/Abfallerzeugerinnen und Abfallbesitzer/Abfallbesitzerinnen sind verpflichtet, im Rahmen der Satzung die auf ihrem Grundstück oder sonst bei ihnen angefallenen Abfälle der öffentlichen Abfallentsorgung zu überlassen (Benutzungszwang).
 (3) Kompostierbare Abfälle müssen in die Biotonne, verwertbares Altpapier (Zeitungen, Zeitschriften, grafische Papiere etc.) muss in die Papiertonne geworfen werden, soweit diese Tonnen in Anspruch genommen werden.
-(4) Die Stadt Köln kann aus abfallwirtschaftlichen Gründen Änderungen von Sammelsystemen vornehmen, sowie zur Erprobung und Einführung von neuen Methoden und Systemen zur Erfassung, Sammlung, Behandlung, Verwertung, Beseitigung und zum Transport von Abfällen Modellversuche mit örtlich oder zeitlich begrenzter Wirkung durchführen.
-(5) Soweit das Sammeln, Einsammeln und Befördern von Abfällen durch die Stadt Köln ausgeschlossen ist (§ 3 Abs. 5 und 6), sind die Abfälle zu einer nach Maßgabe
+(4) Die Stadt Köln kann aus abfallwirtschaftlichen Gründen Änderungen von Sammelsystemen vornehmen, sowie zur Erprobung und Einführung von neuen Methoden und Systemen zur Erfassung, Sammlung, Behandlung, Verwertung,
 Seite 4 von 32
 
-des § 17 von der Stadt Köln zur Verfügung gestellten Abfallentsorgungsanlage zu befördern.
+Beseitigung und zum Transport von Abfällen Modellversuche mit örtlich oder zeitlich begrenzter Wirkung durchführen.
+(5) Soweit das Sammeln, Einsammeln und Befördern von Abfällen durch die Stadt Köln ausgeschlossen ist (§ 3 Abs. 5 und 6), sind die Abfälle zu einer nach Maßgabe des § 17 von der Stadt Köln zur Verfügung gestellten Abfallentsorgungsanlage zu befördern.
 (6) Soweit die Stadt Köln Dritten oder privaten Entsorgungsträgern Pflichten zur Verwertung und Beseitigung nach den §§ 16 Abs. 2, 17 oder 18 KrW-/AbfG übertragen hat, besteht keine Überlassungspflicht gegenüber der Stadt Köln.
 §7 Befreiungen vom Anschluss- und Benutzungszwang
 (1) Vom Benutzungszwang ist auf Antrag zu befreien, wer:
@@ -83,14 +84,14 @@ c) Abfälle zur Beseitigung aus anderen Herkunftsbereichen in eigenen Anlagen un
 Die Stadt Köln kann verlangen, dass das Vorliegen der Voraussetzungen des Abs. 1 durch Vorlage prüffähiger Unterlagen nachzuweisen ist.
 (2) Über Abs. 1 hinaus kann eine Befreiung vom Anschluss- und Benutzungszwang erteilt werden, wenn dieser zu einer unzumutbaren Härte für den Überlassungspflichtigen/die Überlassungspflichtige führen würde und die ordnungsgemäße und schadlose Verwertung oder Beseitigung nach den §§ 5 ff und 10 ff KrW-/AbfG gewährleistet ist.
 (3) Weiter kann eine Befreiung vom Anschluss- und Benutzungszwang erteilt werden, wenn das Grundstück über ununterbrochen mindestens 6 Monate nicht bewohnt oder in sonstiger Weise genutzt wird und auf dem Grundstück keine Abfälle anfallen.
-(4) Die Befreiung wird unter Vorbehalt des jederzeitigen Widerrufs schriftlich erteilt und kann mit Bedingungen und Auflagen verbunden sowie befristet werden.
 Seite 5 von 32
 
+(4) Die Befreiung wird unter Vorbehalt des jederzeitigen Widerrufs schriftlich erteilt und kann mit Bedingungen und Auflagen verbunden sowie befristet werden.
 §8 Bemessung des Behältervolumens
 (1) Die Stadt Köln bestimmt Anzahl, Art und Größe der auf den Grundstücken aufzustellenden Behälter nach Maßgabe einer geordneten Abfallentsorgung im Sinne der §§ 1 bis 3 sowie betrieblicher Erfordernisse und unter Berücksichtigung von bestehenden Erfahrungswerten.
 (2) Bei Wohngrundstücken richten sich Anzahl, Art und Größe der erforderlichen Restabfallbehälter nach der Anzahl der Bewohner/Bewohnerinnen.
 Bei ihnen ist ein Behältervolumen von 35 l je Person und Woche erforderlich.
-In Ausnahmefällen kann hiervon abweichend auf begründeten schriftlichen Antrag ein Behältervolumen von weniger als 35 l je Person und Woche zugelassen werden. Soweit Papiertonnen und/oder Gelbe Tonnen genutzt werden, beträgt das Behältervolumen 20 l je Person und Woche. Sofern Restmüll-/Arzttonnen lediglich gemeinsam mit Biotonnen bzw. Kompostierung genutzt werden, beträgt das Mindestbehältervolumen 30 l je Person und Woche. Im Übrigen sind jedoch mindestens 20 l je Person und Woche vorzuhalten.
+Auf schriftlichen Antrag kann hiervon abweichend ein Behältervolumen von weniger als 35 l je Person und Woche zugelassen werden. Soweit Papiertonnen und/oder Gelbe Tonnen genutzt werden, beträgt das Behältervolumenmindestens 20 l je Person und Woche. Sofern Restmüll-/Arzttonnen lediglich gemeinsam mit Biotonnen bzw. Kompostierung genutzt werden, beträgt das Mindestbehältervolumen 30 l je Person und Woche. Im Übrigen sind jedoch mindestens 20 l je Person und Woche vorzuhalten.
 Wird festgestellt, dass das vorhandene Restabfallbehältervolumen für ein Grundstück nicht ausreicht, ist ein dem Bedarf entsprechendes Volumen festzusetzen und aufzustellen.
 (3) Bei Grundstücken, die nicht oder nur zum Teil Wohngrundstücke sind, richten sich Anzahl, Art und Größe der erforderlichen Behälter nach der dort tatsächlich anfallenden Abfallmenge.
 Für die Ermittlung der anfallenden Abfallmenge sind auf Verlangen der Stadt Köln geeignete Unterlagen vorzulegen.
@@ -98,9 +99,9 @@ Für den Wohnbereich ist Abs. 2 anzuwenden.
 (4) Der Abfallbehälter mit 60/70 l Fassungsvermögen ist die Mindestausstattung für ein Grundstück, auf dem Abfall anfallen kann.
 Wird ein Grundstück von nur einer Person bewohnt, wird das in Anspruch genommene Behältervolumen auf Antrag auf 30 l reduziert. Der Behälter darf dann nur noch bis zur Hälfte befüllt werden.
 (5) Für zwei oder mehrere benachbarte Grundstücke können ausnahmsweise auf gemeinsamen schriftlichen Antrag der Anschlusspflichtigen ein oder mehrere Abfallbehälter zur gemeinsamen Benutzung zur Verfügung gestellt werden.
+§9 Abfallbehälter
 Seite 6 von 32
 
-§9 Abfallbehälter
 (1) Zugelassene Abfallbehälter im Sinne dieser Satzung sind:
 1. nicht verschließbare Abfallbehälter – Restmülltonnen – mit einem Fassungsvermögen von 60 l, 70 l, 80 l, 110 l, 120 l, 180 l, 240 l, 500 l, 660 l, 770 l, 1100 l, 3000 l und 5000 l, Abfallsäcke (90 l),
 2. verschließbare Abfallbehälter – Arzttonnen - mit einem Fassungsvermögen von 60 l, 70 l, 80 l, 110 l, 120 l, 180 l, 240 l, 500 l, 660 l, 770 l, 1100 l, 3000 l und 5000 l,
@@ -116,13 +117,12 @@ Seite 6 von 32
 (3) Auf den Wegen zu den Standplätzen dürfen keine Stufen oder andere Hindernisse vorhanden sein. Etwaige Höhenunterschiede sind durch Rampen mit einer maximalen Steigung von 1:10 auszugleichen.
 (4) Standplätze und Transportwege auf dem Grundstück müssen stets in verkehrssicherem Zustand, frei von Hindernissen und ausreichend beleuchtet sein.
 Sie müssen mit einem harten, dauerhaften Belag versehen sein, der das Absetzen und den üblichen Abtransport der Abfallbehälter gewährleistet.
+Türen und Tore müssen mit einer Feststellvorrichtung versehen sein und so anschlagen, dass der Transport nicht behindert wird.
+Transportwege sollen:
 Seite 7 von 32
 
-Türen und Tore müssen mit einer Feststellvorrichtung versehen sein und so anschlagen, dass der Transport nicht behindert wird.
-Transportwege sollen: • für 60 l- bis 240 l-Behälter mindestens 1,20 m und • für 500 l- bis 1100 l-Behälter mindestens 1,50 m
-breit sein.
-(5) Der Standplatz soll: • je 60 l- bis 240 l-Behälter mindestens 0,80 x 0,80 m, • je 500 l- bis 1100 l-Behälter mindestens 1,75 x 1,50 m und • je 3000 l- oder 5000 l-Behälter mindestens 2,50 x 3,00 m
-groß sein.
+• für 60 l- bis 240 l-Behälter mindestens 1,20 m und • für 500 l- bis 1100 l-Behälter mindestens 1,50 m breit sein.
+(5) Der Standplatz soll: • je 60 l- bis 240 l-Behälter mindestens 0,80 x 0,80 m, • je 500 l- bis 1100 l-Behälter mindestens 1,75 x 1,50 m und • je 3000 l- oder 5000 l-Behälter mindestens 2,50 x 3,00 m groß sein.
 In geschlossenen Räumen oder bei überdachten Sammelstandplätzen soll die lichte Deckenhöhe mindestens 2 m betragen.
 (6) Die Standplätze für Abfallbehälter der Gruppe II (§ 12 Abs. 1 Vollservice) dürfen sich nicht weiter als 15 m von der Grundstücksgrenze befinden.
 (7) Standplätze für 3000 l- und 5000 l-Behälter müssen so beschaffen sein, dass das Sammelfahrzeug diese zum direkten Beladen anfahren kann.
@@ -131,18 +131,19 @@ Die Unterkanten der Türen sollen höchstens 5 cm über dem Transportweg liegen.
 Die Schranktüren müssen zur Zeit des Einsammelns zu öffnen sein.
 (9) Schrankähnliche Unterstellräume für Abfallbehälter mit 500 l bis 1100 l Fassungsvermögen sollen so beschaffen sein, dass die Deckel der Behälter geschlossen und die Behälter leicht herausgefahren werden können.
 Die Schranktüren müssen zur Zeit des Einsammelns zu öffnen sein.
-(10) Schrankähnliche Unterstellräume für Abfallbehälter mit 60 l, 80 l, 120 l oder 240 l Fassungsvermögen sollen die Anforderungen entweder des Absatzes 8 oder 9 erfüllen.
+(10) Schrankähnliche Unterstellräume für Abfallbehälter mit 60 l, 80 l, 120 l, 180 l oder 240 l Fassungsvermögen sollen die Anforderungen entweder des Absatzes 8 oder 9 erfüllen.
 (11) Sofern die Entleerung im Vollservice erfolgt, bedarf die Einrichtung neuer oder die Änderung vorhandener Standplätze oder Transportwege auf dem Grundstück der vorherigen schriftlichen Zustimmung der Stadt Köln.
 Diese Zustimmung richtet sich nach den in den Absätzen 1 bis 10 genannten Anforderungen sowie nach betrieblichen Gesichtspunkten.
 Sonstige öffentliche Erfordernisse, insbesondere bau-, brandschutz- und straßenrechtliche Vorschriften, bleiben unberührt.
+(12) Von den Vorschriften der Absätze 1 bis 10 kann die Stadt Köln Ausnahmen zulassen, in den Fällen des Vollservice (§ 12 Abs. 1) jedoch nur, wenn die Einhaltung
 Seite 8 von 32
 
-(12) Von den Vorschriften der Absätze 1 bis 10 kann die Stadt Köln Ausnahmen zulassen, in den Fällen des Vollservice (§ 12 Abs. 1) jedoch nur, wenn die Einhaltung dieser Anforderungen objektiv unmöglich ist oder zu einer unzumutbaren Härte führen würde.
+dieser Anforderungen objektiv unmöglich ist oder zu einer unzumutbaren Härte führen würde.
 Die Ausnahmen werden unter Vorbehalt des Widerrufs schriftlich erteilt und können mit Bedingungen und Auflagen verbunden sowie befristet werden.
 § 11 Benutzung der Abfallbehälter
 (1) Die von der Stadt Köln einzusammelnden Abfälle sind in zugelassene Abfallbehälter (§ 9 Abs. 1) getrennt einzufüllen.
 (2) In Ausnahmefällen können nicht verwertbare Abfälle nach vorheriger Genehmigung der Stadt Köln in anderer Weise bereitgestellt werden (offene Abfuhr).
-Die Abfälle sind in Säcken, Kartonagen u.ä. verpackt an einer für das Sammelfahrzeug erreichbaren Stelle zur Abfuhr bereitzustellen.
+Die Abfälle sind in Säcken, Kartonagen u. ä. verpackt an einer für das Sammelfahrzeug erreichbaren Stelle zur Abfuhr bereitzustellen.
 Errichtet die Stadt Köln zur Aufnahme dieser Abfälle spezielle Sammelbehälter, so sind sie in diese einzufüllen.
 Die Genehmigung gilt für Abfälle eines gewerblichen Zwecken dienenden Schiffes im Rheinstrom oder an anderen Liegeplätzen im Stadtgebiet als erteilt, wenn die Schiffsführung gegenüber der Häfen und Güterverkehr Köln AG die zur Berechnung der Gebühren notwendigen Angaben macht.
 (3) Für vorübergehend vermehrt anfallende Abfälle nicht sperriger Art dürfen zugelassene Abfallsäcke gem. § 9 Abs. 1 Ziff. 1 benutzt werden.
@@ -150,14 +151,20 @@ Die Genehmigung gilt für Abfälle eines gewerblichen Zwecken dienenden Schiffes
 Falsch befüllte Behälter für Abfälle zur Verwertung werden mit einem Aufkleber gekennzeichnet und von der AWB gebührenpflichtig als Restmüll entsorgt.
 (5) Der Grundstückseigentümer/die Grundstückseigentümerin hat dafür zu sorgen, dass die Abfallbehälter den Benutzern/Benutzerinnen zugänglich sind und von ihnen ordnungsgemäß benutzt werden können.
 (6) Abfallbehälter sind schonend zu behandeln; sie dürfen nur zweckentsprechend verwendet und nur soweit gefüllt werden, dass ihre Deckel sich schließen lassen.
-Abfälle dürfen nicht in Abfallbehälter gepresst, eingestampft oder in ihnen verbrannt werden.
+Abfälle dürfen nicht in Abfallbehältern verbrannt werden. Es ist nicht gestattet, brennende, glühende oder heiße Abfälle in Abfallbehälter zu füllen.
+(6a) Zulässig ist
 Seite 9 von 32
 
-Es ist nicht gestattet, brennende, glühende oder heiße Abfälle in Abfallbehälter zu füllen.
+1. der Einsatz technischer Einrichtungen zur Verdichtung des Abfalls (z. B. Müllpressen, Pressstempel), soweit er nicht zur Beschädigung der Abfallbehälter führt.
 
-Der Einsatz von technischen Einrichtungen zur Verdichtung des Abfalls (z.B. Müllpressen, Pressstempel) ist unzulässig. Der Einbau und/oder die Nutzung von Müllschleusen ist der Stadt Köln bzw. der AWB schriftlich anzuzeigen. Die Nutzung von Müllschleusen führt zu Gebührenzuschlägen nach § 2 Abs. 18 AbfGS.
+2. das Aussortieren von Wertstoffen/sperrigen Abfällen aus Abfallbehältern, sofern die aussortierten Stoffe einem nach dieser Satzung hierfür vorgehaltenen Erfassungssystem oder einem Sammelsystem nach § 6 Abs. 3 VerpackVO („Gelbe Tonne“, Glascontainer) zugeführt werden; eine Aussortierung auf öffentlichem Straßenland bzw. bei Gefahr für Leben und Gesundheit ist unzulässig.
 
-Unbefugten ist nicht gestattet, angefallene Abfälle zu durchsuchen oder wegzunehmen. Die Durchsuchung der Abfälle ist darüber hinaus jedermann untersagt, soweit sie mit Gefahren für Leben oder Gesundheit einzelner verbunden ist oder die Abfallbehälter beschädigt werden können. Jegliche Maßnahmen vor Ort zur Behandlung der in die Behälter für Abfälle zur Beseitigung eingegebenen Abfälle oder deren Verdichtung, z. B. unter Einsatz von Abfallpressen, sind nicht gestattet.“
+3. die Verwendung von Müllschleusen.
+Handlungen nach Ziffer 1 bis 3 dürfen nur durch Anschlusspflichtige nach § 6 Abs. 1 bzw. durch deren Beauftragte vorgenommen werden.
+
+(6b) Die in Abs. 6a genannten Maßnahmen sind der Stadt Köln bzw. der AWB schriftlich anzuzeigen.
+
+(6c) Die in Abs. 6a Ziff. 2 und 3 genannten Maßnahmen führen zu Gebührenzuschlägen nach § 2 Abs. 18 bzw. Abs. 19 AbfGS. Für die Verdichtung von Abfällen mit technischen Einrichtungen nach Abs. 6 a Ziff. 1 werden individuelle Gebührenzuschläge ermittelt und nach § 2 Abs. 20 AbfGS erhoben.
 
 (7) Das zulässige Gesamtgewicht wird für:
 
@@ -171,30 +178,27 @@ Wird das zulässige Gesamtgewicht überschritten oder sind die Behälter überf�
 
 (8) Abfallbehälter sind gegen Festfrieren zu schützen. Festgefrorene Abfallbehälter und festgefrorene Abfälle sind rechtzeitig zu lösen; anderenfalls ist die Stadt Köln nicht zur Einsammlung und Abfuhr verpflichtet.
 
-(9) Erde, Schutt, sperrige Gegenstände und solche, die die Abfallbehälter, Sammelfahrzeuge oder Abfallentsorgungsanlagen beschädigen, sowie Eis, Schnee und Flüssigkeiten, die sie ungewöhnlich verschmutzen können, dürfen nicht in Abfallbehälter gefüllt werden.
-
-Andernfalls ist die Stadt Köln nicht zur Einsammlung und Abfuhr verpflichtet.
-
-(10) Die Haftung für Schäden, die der Stadt Köln oder der AWB aus Verstößen gegen die vorstehenden Vorschriften entstehen, richtet sich nach den allgemeinen Vorschriften.
-
+(9) Erde, Schutt, sperrige Gegenstände und solche, die die Abfallbehälter, Sammelfahrzeuge oder Abfallentsorgungsanlagen beschädigen, sowie Eis, Schnee
 Seite 10 von 32
 
+und Flüssigkeiten, die sie ungewöhnlich verschmutzen können, dürfen nicht in Abfallbehälter gefüllt werden.
+Andernfalls ist die Stadt Köln nicht zur Einsammlung und Abfuhr verpflichtet.
+(10) Die Haftung für Schäden, die der Stadt Köln oder der AWB aus Verstößen gegen die vorstehenden Vorschriften entstehen, richtet sich nach den allgemeinen Vorschriften.
 § 12 Einsammeln der Abfälle
 (1) Die Stadt Köln bietet folgenden Service an:
 1. Gruppe I (Teilservice): - für 60 l, 80 l, 120 l, 180 l, 240 l-Behälter
 2. Gruppe II (Vollservice): - für 60 l, 70 l, 80 l, 110 l, 120 l, 180 l, 240 l, 500 l, 660 l, 770 l, 1100 l, 3000 l, 5000 l-Behälter
 Die Stadt Köln entscheidet über die Serviceart nach betrieblichen Erfordernissen.
 Auf Antrag ist zum 01.01. des Folgejahres ein Wechsel von Gruppe I nach Gruppe II möglich. Hierfür muss der Antrag bis zum 30.09. des laufenden Jahres bei der AWB eingehen. Ebenso kann bis zu diesem Zeitpunkt ein Antrag auf Aufhebung des Wechsels gestellt werden. Die Umstellung erfolgt dann ebenfalls zum 01.01. des Folgejahres.
-Erstmalig ist ein Wechsel von Gruppe I nach Gruppe II zum 01.07.2009 möglich. Hierfür ist bis zum 31.03.2009 ein Antrag bei der AWB zu stellen.
 (2) Behälter der Gruppe I sind von dem Anschlusspflichtigen/der Anschlusspflichtigen vor der Zeit des Einsammelns an einer für das Sammelfahrzeug erreichbaren Stelle auf dem Gehweg oder dem äußersten Rand der Fahrbahn so bereitzustellen, dass Dritte nicht mehr als nach den Umständen unvermeidbar behindert oder gefährdet werden. Nach der Entleerung sind die Behälter unverzüglich wieder von den Gehwegen oder Fahrbahnen zu entfernen.
 (3) Behälter der Gruppe II werden von der AWB von ihrem Standplatz zum Sammelfahrzeug und zurück transportiert. Der Grundstückseigentümer/die Grundstückseigentümerin ist verpflichtet, die Standplätze zur Zeit des Einsammelns zugänglich zu machen.
 In Kellern und kellerähnlichen Standorten mit Voll-Service werden nur 80 lPapiertonnen eingesetzt. Papiersäcke zur Entsorgung von Papier, Pappe und Kartonagen werden in der Größe von 40 l ausschließlich den Haushalten zur Verfügung gestellt, die keine Möglichkeit haben, eine Papiertonne aufzustellen.
 Die AWB kann Schlüssel entgegennehmen, wenn dies ihrem reibungslosen Betriebsablauf dient.
-(4) Wann und wie oft die Abfälle eingesammelt werden, regeln die Stadt Köln und die AWB. Abfälle werden in der Regel einmal wöchentlich, und zwar montags bis freitags in der Zeit zwischen 7.00 Uhr und 22.00 Uhr, eingesammelt.
-Sie können in begründeten Fällen im Rahmen der betrieblichen Möglichkeiten öfter sowie auch an Samstagen eingesammelt werden.
 Seite 11 von 32
 
-Papiertonnen und Papiersäcke werden 14-tägig geleert bzw. eingesammelt. Die Biotonnen werden einmal wöchentlich und im Dezember 14-tägig entleert.
+(4) Wann und wie oft die Abfälle eingesammelt werden, regeln die Stadt Köln und die AWB. Abfälle werden in der Regel einmal wöchentlich, und zwar montags bis freitags in der Zeit zwischen 7.00 Uhr und 22.00 Uhr, eingesammelt.
+Sie können in begründeten Fällen im Rahmen der betrieblichen Möglichkeiten öfter sowie auch an Samstagen eingesammelt werden.
+Papiertonnen und Papiersäcke werden 14-tägig geleert bzw. eingesammelt. Die Biotonnen werden von März bis November einmal wöchentlich und von Dezember bis Februar 14-tägig entleert.
 Fällt der planmäßige Sammeltag auf einen gesetzlichen Wochenfeiertag, können die Abfälle auch an einem vorhergehenden oder nachfolgenden Tag eingesammelt werden.
 Unterbleibt das Einsammeln des Abfalls am Sammeltag, wird es im Rahmen der betrieblichen Möglichkeiten vor dem nächsten Sammeltag nachgeholt.
 (5) In anderer Weise gesammelte Abfälle (§ 11 Abs. 2 Satz 1) sind gemäß Abs. 2 Satz 1 bereitzustellen.
@@ -208,10 +212,10 @@ Das Gewicht eines gefüllten Abfallsackes darf 15 kg nicht überschreiten.
 (1) Der Anschlusspflichtige/die Anschlusspflichtige und jeder andere Abfallerzeuger/jede andere Abfallerzeugerin und –besitzer/besitzerin hat im Rahmen der Satzung das Recht, sperrige Abfälle aus Kölner Haushaltungen, die wegen ihres Umfangs, ihres Gewichtes oder ihrer Menge nicht mit zumutbarem Aufwand in Abfallbehälter oder Abfallsäcke eingebracht werden können, im Einzelfall bis zu einer Menge von 3 Kubikmetern gesondert abfahren zu lassen. Bei Elektro- und Elektronikaltgeräten gilt zusätzlich § 14.
 Sperrige Abfälle sind zum Beispiel Hausratsgegenstände, Fahrräder, Gartengeräte.
 Dazu zählen nicht:
-• Bauteile wie Fensterrahmen, Türen, Badewannen u. ä. • Mopeds, Mofas, Motorräder, Autoreifen u. ä.
-In kompostierbaren Abfallsäcken untergebrachter Gartenverschnitt, gebündelte Sträucher und Äste bis zu 1,50 m Länge, Baumstämme bis zu 0,15 m im Durchmesser und bis zu 0,50 m Länge können ebenfalls gesondert abgefahren werden.
 Seite 12 von 32
 
+• Bauteile wie Fensterrahmen, Türen, Badewannen u. ä. • Mopeds, Mofas, Motorräder, Autoreifen u. ä.
+In kompostierbaren Abfallsäcken untergebrachter Gartenverschnitt, gebündelte Sträucher und Äste bis zu 1,50 m Länge, Baumstämme bis zu 0,15 m im Durchmesser und bis zu 0,50 m Länge können ebenfalls gesondert abgefahren werden.
 Soweit die sperrigen Abfälle nicht aus privaten Haushaltungen stammen, aber ihrer Beschaffenheit nach aus ihnen stammen könnten, werden diese Abfälle in haushaltsüblichen Mengen - bis zu 3 Kubikmeter – mitgenommen.
 Im Zweifelsfall entscheidet die AWB, welche Gegenstände abgefahren werden.
 (2) Die Abfuhr ist von dem Abfallerzeuger/der Abfallerzeugerin oder – besitzer/besitzerin unter Angabe von Art und Anzahl der Gegenstände bei der AWB schriftlich oder fernmündlich zu bestellen.
@@ -227,26 +231,25 @@ Falls dies nicht möglich ist, sollen sie auf der Straße - Verladestelle - in n
 Die Restmenge ist unverzüglich wieder vom Bereitstellungsort zu entfernen, es sei denn, der Bereitstellungsort befindet sich auf privatem Grundstück.
 Gleiches gilt unaufgefordert für alle am Abholtag bereitgestellten sperrigen Abfälle, wenn infolge von Betriebsstörungen oder höherer Gewalt (zum Beispiel Schneefall, Glatteis, Eisregen, Sturm) die Entsorgung am Abholtag nicht durchgeführt werden kann.
 (6) Für Abfälle nach Abs. 1 und § 14 Abs. 5, die nicht von Hand verladen werden können, besteht keine Abholpflicht.
-(7) Sperrige Abfälle gemäß Abs. 1 können mit Fahrzeugen bis zu einem zulässigen Gesamtgewicht von 3,5 t in Mengen, die üblicherweise in privaten Haushalten anfallen, auch unmittelbar bei den in § 17 Abs. 1 genannten Abfall-Centern in KölnGremberghoven und Köln-Ossendorf angeliefert werden.
-Anlieferungsberechtigt sind alle Nutzer/Nutzerinnen von Restmüllgefäßen; die Annahme der Abfälle kann vom Nachweis abhängig gemacht werden, dass das Rest-
 Seite 13 von 32
 
-müllgefäß den Anforderungen des § 8 Abs. 2 bis 5 genügt. Das Weitere wird in der jeweiligen Benutzungsordnung geregelt.
+(7) Sperrige Abfälle gemäß Abs. 1 können mit Fahrzeugen bis zu einem zulässigen Gesamtgewicht von 3,5 t in Mengen, die üblicherweise in privaten Haushalten anfallen, auch unmittelbar bei den in § 17 Abs. 1 genannten Abfall-Centern in KölnGremberghoven und Köln-Ossendorf angeliefert werden.
+Anlieferungsberechtigt sind alle Nutzer/Nutzerinnen von Restmüllgefäßen; die Annahme der Abfälle kann vom Nachweis abhängig gemacht werden, dass das Restmüllgefäß den Anforderungen des § 8 Abs. 2 bis 5 genügt. Das Weitere wird in der jeweiligen Benutzungsordnung geregelt.
 § 14 Elektro- und Elektronikaltgeräte
 (1) Für Elektro- und Elektronikaltgeräte (Elektroaltgeräte) aus privaten Haushalten im Stadtgebiet Köln gelten die nachstehenden Regelungen.
 Private Haushalte sind solche im Sinne des Kreislaufwirtschafts- und Abfallgesetzes sowie sonstige Herkunftsbereiche von Elektroaltgeräten, soweit die Beschaffenheit und die Menge der dort anfallenden Altgeräte mit den in privaten Haushalten anfallenden Altgeräten vergleichbar sind.
 Besitzer/Besitzerinnen von Elektroaltgeräten aus privaten Haushalten sind verpflichtet, diese einer vom restlichen Abfall getrennten Erfassung zuzuführen.
 Die Elektroaltgeräte werden in fünf Gruppen unterteilt:
 1. Haushaltsgroßgeräte, automatische Ausgabegeräte (z.B. Waschmaschinen, Elektroherde, Trockner)
-2. Kühlgeräte (Kühlschränke, Kühltruhen) 3. Informations- und Telekommunikationsgeräte, Geräte der Unterhaltungselekt-
-ronik Bildschirmgeräte 4. Gasentladungslampen (Leuchtstoffröhren) 5. Haushaltskleingeräte, Beleuchtungskörper, elektrische und elektronische Werk-
-zeuge, Spielzeuge, Sport- und Freizeitgeräte, Medizinprodukte, Überwachungsund Kontrollinstrumente.
-(2) Elektroaltgeräte der Gruppen 1 – 5 können von Endnutzern/Endnutzerinnen in haushaltsüblichen Mengen an den Abfallcentern Butzweilerstraße und August-HorchStraße 3 abgegeben werden.
+2. Kühlgeräte (Kühlschränke, Kühltruhen) 3. Informations- und Telekommunikationsgeräte, Geräte der
+Unterhaltungselektronik Bildschirmgeräte 4. Gasentladungslampen (Leuchtstoffröhren) 5. Haushaltskleingeräte, Beleuchtungskörper, elektrische und elektronische
+Werkzeuge, Spielzeuge, Sport- und Freizeitgeräte, Medizinprodukte, Überwachungs- und Kontrollinstrumente.
+(2) Elektroaltgeräte der Gruppen 1 – 5 können von Endnutzern/Endnutzerinnen in haushaltsüblichen Mengen an den Abfallcentern Butzweilerstraße 50 und AugustHorch-Straße 3 abgegeben werden.
 Elektrogeräte der Gruppen 1 bis 5 können von Vertreibern/Vertreiberinnen am Abfallcenter August-Horch-Straße 3 abgegeben werden. Bei Anlieferung von mehr als 10 Großgeräten der Gruppen 1, 2 und 3 ist vorab eine schriftliche Anmeldung erforderlich. Die Demontage von Elektroaltgeräten an den Abfallcentern ist untersagt. Das Weitere wird in der jeweiligen Benutzungsordnung geregelt.
 (3) Gasentladungslampen (Leuchtstoffröhren) - Gruppe 4 - können zusätzlich bei den von der Stadt eingerichteten Sammelstellen für Schadstoffe (mobile Schadstoffsammlung) im Rahmen der Benutzungsordnung abgegeben werden.
-(4) Elektroaltgeräte der Gruppe 5 können zusätzlich an den Betriebshöfen der AWB Maarweg 271, Gießener Straße 6 und Alteburger Straße 141a sowie bei den von der Stadt eingerichteten Sammelstellen für Schadstoffe (mobile Schadstoffsammlung) im Rahmen der Benutzungsordnung abgegeben werden.
 Seite 14 von 32
 
+(4) Elektroaltgeräte der Gruppe 5 können zusätzlich an den Betriebshöfen der AWB Maarweg 271, Gießener Straße 6 und Alteburger Straße 141a sowie bei den von der Stadt eingerichteten Sammelstellen für Schadstoffe (mobile Schadstoffsammlung) im Rahmen der Benutzungsordnung abgegeben werden.
 (5) Kühlgeräte, Haushaltsgroßgeräte sowie Bildschirmgeräte (Gruppen 1, 2 und 3) können nach vorheriger Anmeldung über den Sperrgutservice (§ 13) abgeholt werden.
 (6) Geräte, die eine Gefahr für die Gesundheit und/oder Sicherheit der Mitarbeiter/Mitarbeiterinnen darstellen, sind von der Annahme und Abholung ausgeschlossen.
 § 15 Schadstoffe
@@ -259,11 +262,13 @@ Spitze und scharfe Gegenstände (Abfallschlüssel 18 01 01 und 18 02 01) sowie A
 Diese Abfälle dürfen eine Kantenlänge von 400 mm nicht überschreiten. Säcke, in die diese Abfälle eingefüllt werden, dürfen eine Kantenlänge von 600 mm nicht überschreiten.
 Zu diesen Abfällen gehören keine Inkontinenzversorgungsprodukte; diese können in Abfallbehältern nach § 9 Abs. 1 Ziff. 1 und 2 entsorgt werden.
 Spitze und scharfe Gegenstände sind in schnitt- und stichfesten, bruchsicheren Behältern, die anderen Abfälle i. S. dieses Absatzes in Säcken (Polyäthylen, mindestens 0,05 mm Folienstärke oder Papier, 3-schichtig, bitumiert) zu sammeln.
-Die Behälter bzw. die Säcke sind verschlossen in die Abfallbehälter einzubringen.
 Seite 15 von 32
 
+Die Behälter bzw. die Säcke sind verschlossen in die Abfallbehälter einzubringen.
 § 17 Abfallentsorgungsanlagen
-(1) Für Bodenaushub, Bauschutt, thermisch behandelte Abfälle sowie vergleichbare mineralische Abfälle stellt die Stadt Köln folgende Abfallbeseitigungsanlage zur Verfügung: • Deponie "Vereinigte Ville", Erftstadt-Liblar, Luxemburger Straße Für sperrige Abfälle und Schadstoffe aus Haushaltungen nach Maßgabe der §§ 13 15 stellt die Stadt Köln folgende Abfallannahmestellen zur Verfügung:
+(1) Für Bodenaushub, Bauschutt, thermisch behandelte Abfälle sowie vergleichbare mineralische Abfälle stellt die Stadt Köln folgende Abfallbeseitigungsanlage zur Verfügung:
+• Deponie "Vereinigte Ville", Erftstadt-Liblar, Luxemburger Straße
+Für sperrige Abfälle und Schadstoffe aus Haushaltungen nach Maßgabe der §§ 13 15 stellt die Stadt Köln folgende Abfallannahmestellen zur Verfügung:
 • Abfall-Center in Köln-Ossendorf, Butzweilerstraße • Abfall-Center in Köln-Gremberghoven, August-Horch-Straße 3
 Für gemischte Bau- und Abbruchabfälle stehen folgende Anlagen zur Verfügung:
 • Anlage zur Aufbereitung von gemischten Bau- und Abbruchabfällen Geestemünder Straße, Gemarkung Longerich, Flur 97, Flurstück 330, KölnNiehl,
@@ -271,10 +276,12 @@ Für gemischte Bau- und Abbruchabfälle stehen folgende Anlagen zur Verfügung:
 Für die Aufbereitung von Gewerbeabfällen stehen folgende Anlagen zur Verfügung:
 • Anlage zur Aufbereitung von Gewerbeabfällen Geestemünder Straße, Gemarkung Longerich, Flur 97, Flurstück 330, KölnNiehl
 • Anlage zur Aufbereitung von Gewerbeabfällen Wikingerstraße, Gemarkung Heumar, Flur 8, Flurstück 349, Köln-Heumar.
-(2) Die Benutzung der Anlagen, z.B. hinsichtlich der Öffnungszeiten, zugelassenen Abfallarten sowie Annahmebedingungen, richtet sich nach den jeweiligen Betriebsund Benutzungsordnungen. Abfälle sind nach Abfallarten getrennt anzuliefern, soweit dies geboten und zumutbar ist. (3) Ist der Betrieb einer von der Stadt Köln zur Verfügung gestellten Abfallentsorgungsanlage gestört, sorgt die Stadt Köln im Rahmen ihrer Möglichkeiten erforderlichenfalls für Ersatz.
+(2) Die Benutzung der Anlagen, z.B. hinsichtlich der Öffnungszeiten, zugelassenen Abfallarten sowie Annahmebedingungen, richtet sich nach den jeweiligen Betriebsund Benutzungsordnungen.
+Abfälle sind nach Abfallarten getrennt anzuliefern, soweit dies geboten und zumutbar ist.
+(3) Ist der Betrieb einer von der Stadt Köln zur Verfügung gestellten Abfallentsorgungsanlage gestört, sorgt die Stadt Köln im Rahmen ihrer Möglichkeiten erforderlichenfalls für Ersatz.
+§ 18 Anmeldepflicht, Abmeldepflicht
 Seite 16 von 32
 
-§ 18 Anmeldepflicht, Abmeldepflicht
 (1) Der/die Anschlusspflichtige hat der AWB den erstmaligen Anfall von Abfällen, Art und voraussichtliche Mengen, Anzahl der Bewohner/Bewohnerinnen sowie jede Veränderung unverzüglich schriftlich mitzuteilen.
 (2) Wechselt der/die Anschlusspflichtige, so sind sowohl er/sie als auch der/die neue Anschlusspflichtige verpflichtet, die AWB unverzüglich schriftlich zu benachrichtigen.
 (3) Die Absätze 1 und 2 gelten entsprechend für Inhaber/Inhaberinnen von Arztpraxen und sonstigen Einrichtungen des medizinischen und pflegerischen Bereichs sowie der Forschung und Wissenschaft (§ 16).
@@ -288,9 +295,9 @@ Für Sachschäden, die bei der Abfallentsorgung durch die Stadt Köln oder die A
 (1) Zugelassene Abfälle gehen in das Eigentum der AWB über, sobald sie der AWB in deren Abfallbehältern oder an den städtischen Abfallentsorgungsanlagen überlassen werden.
 (2) Die Stadt Köln und die AWB sind nicht verpflichtet, im Abfall nach verlorenen Gegenständen zu suchen oder suchen zu lassen.
 Im Abfall vorgefundene Wertgegenstände werden als Fundsachen behandelt.
+§ 22 Gebühren
 Seite 17 von 32
 
-§ 22 Gebühren
 Für die Inanspruchnahme der Abfallentsorgung der Stadt Köln werden Gebühren nach der Abfallgebührensatzung (- AbfGS -) der Stadt Köln erhoben.
 Die der Umsatzsteuer unterliegenden Umsätze werden in Höhe des jeweils gültigen Umsatzsteuersatzes den Gebührenpflichtigen auferlegt.
 § 23 Andere Berechtigte und Verpflichtete
@@ -305,20 +312,23 @@ Die Grundstückseigentümer/Grundstückeigentümerinnen werden von ihren Verpfli
 1. Abfälle unter Verstoß gegen § 6 Abs. 2 auf fremden Grundstücken fortwirft oder ablagert,
 2. auf seinem Grundstück oder sonst bei ihm angefallene Abfälle der öffentlichen Abfallentsorgung nicht überlässt (§ 6 Abs. 2),
 3. Biomüll oder zur Wiederverwertung geeignetes Altpapier unter Verstoß gegen § 6 Abs. 3 und 4 nicht in die dafür vorgesehenen Abfallbehälter (§ 9 Abs. 1) einfüllt,
+4. vom Einsammeln und Befördern durch die Stadt Köln ausgeschlossene Abfälle nicht bestimmungsgemäß zu einer von der Stadt Köln erlaubten Abfallentsorgungsanlage befördert (§ 6 Abs. 6 und § 17),
 Seite 18 von 32
 
-4. vom Einsammeln und Befördern durch die Stadt Köln ausgeschlossene Abfälle nicht bestimmungsgemäß zu einer von der Stadt Köln erlaubten Abfallentsorgungsanlage befördert (§ 6 Abs. 6 und § 17),
 5. von der Stadt Köln bestimmte Abfallbehälter nicht benutzt und andere Abfallbehälter, insbesondere Pressmüllcontainer, ohne Zulassung der Stadt Köln unterhält (§ 9),
-6. die Einrichtung neuer und die Änderung vorhandener Standplätze oder Transportwege auf seinem Grundstück ohne die erforderliche vorherige Zustimmung der Stadt Köln vornimmt (§ 10 Abs. 11),
-7. den Auflagen bei der Festsetzung eines Standplatzes oder Transportweges auf seinem Grundstück nicht nachkommt (§ 10 Abs. 12),
-8. als Schiffsführer ohne Genehmigung Abfälle auf das Gebiet der Stadt Köln verbringt (§ 11 Abs. 2),
-9. entgegen § 11 Abs. 4 Abfallbehälter zur Sammlung kompostierbarer Bioabfälle oder von zur Verwertung geeignetem Altpapier mit anderem als dem vorgesehenen Abfall befüllt,
-10. entgegen § 11 Abs. 6 Abfälle unter Einsatz von technischen Einrichtungen verdichtet oder Abfälle unbefugt behandelt oder unbefugt durchsucht oder wegnimmt,
-11. entgegen § 13 Abs. 4 sperrige Abfälle vor dem festgelegten Abholtag zur Abholung bereitstellt,
-12. den erstmaligen Anfall von Abfällen, Art und voraussichtliche Mengen, die Anzahl der Bewohner/Bewohnerinnen sowie jede Veränderung nicht unverzüglich schriftlich anzeigt, Auskünfte nicht, falsch oder unvollständig erteilt sowie den Beauftragten der Stadt Zutritt zu seinem Grundstück verweigert (§§ 18 und 19).
+6. entgegen § 10 Abs. 1 auf seinem Grundstück keinen Standplatz für Abfallbehälter einrichtet,
+7. die Einrichtung neuer und die Änderung vorhandener Standplätze oder Transportwege auf seinem Grundstück ohne die erforderliche vorherige Zustimmung der Stadt Köln vornimmt (§ 10 Abs. 11),
+8. den Auflagen bei der Festsetzung eines Standplatzes oder Transportweges auf seinem Grundstück nicht nachkommt (§ 10 Abs. 12),
+9. als Schiffsführer ohne Genehmigung Abfälle auf das Gebiet der Stadt Köln verbringt (§ 11 Abs. 2),
+10. entgegen § 11 Abs. 4 Abfallbehälter zur Sammlung kompostierbarer Bioabfälle oder von zur Verwertung geeignetem Altpapier mit anderem als dem vorgesehenen Abfall befüllt,
+11. entgegen § 11 Abs. 6 Abfälle in Abfallbehältern verbrennt oder brennende, glühende oder heiße Abfälle in Abfallbehälter füllt.
+12. entgegen § 11 Abs. 6a unbefugt handelt, Abfallbehälter beschädigt oder unter Verstoß gegen § 6a Ziff. 2 Abfälle aussortiert.
+13. entgegen § 11 Abs. 6b die Nutzung von Müllschleusen, die Aussortierung von Wertstoffen/sperrigen Abfällen aus Abfallbehältern oder die Verdichtung von Abfällen unter Einsatz technischer Einrichtungen nicht anzeigt,
+14. entgegen § 13 Abs. 4 sperrige Abfälle vor dem festgelegten Abholtag zur Abholung bereitstellt,
+15. den erstmaligen Anfall von Abfällen, Art und voraussichtliche Mengen, die Anzahl der Bewohner/Bewohnerinnen sowie jede Veränderung nicht unverzüglich schriftlich anzeigt, Auskünfte nicht, falsch oder unvollständig erteilt sowie den Beauftragten der Stadt Zutritt zu seinem Grundstück verweigert (§§ 18 und 19).
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 50.000,-- € geahndet werden, soweit nicht andere gesetzliche Bestimmungen hierfür eine höhere Geldbuße vorsehen.
 II. In-Kraft-Treten
-Diese Satzung tritt am 01. Januar 2009 in Kraft.
+Diese Satzung tritt am 01. Januar 2010 in Kraft.
 Seite 19 von 32
 
 Anlage 1 zu § 3 Absatz 3 der Satzung über die Abfallentsorgung in der Stadt Köln (Abfallsatzung – AbfS -)
@@ -331,9 +341,9 @@ schlüssel
 
 01
 
-Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der physi-
+Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der
 
-kalischen und chemischen Behandlung von Bodenschätzen entstehen
+physikalischen und chemischen Behandlung von Bodenschätzen entstehen
 
 0103 09
 
@@ -471,9 +481,9 @@ schlüssel
 
 Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) von
 
-Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen und Druck-
+Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen und
 
-farben
+Druckfarben
 
 0802 02 wässrige Schlämme, die keramische Werkstoffe enthalten
 
@@ -633,11 +643,11 @@ Metallen und anderen Werkstoffen; Nichteisen-hydrometallurgie
 
 12
 
-Abfälle aus Prozessen der mechanischen Formgebung sowie der physikali-
+Abfälle aus Prozessen der mechanischen Formgebung sowie der
 
-schen und mechanischen Oberflächenbearbeitung von Metallen und Kunst-
+physikalischen und mechanischen Oberflächenbearbeitung von Metallen und
 
-stoffen
+Kunststoffen
 
 1201 01 Eisenfeil- und -drehspäne
 
@@ -737,9 +747,9 @@ Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen Prozessen mit 
 
 17
 
-Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten Standor-
+Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten
 
-ten)
+Standorten)
 
 1701 01 Beton
 
@@ -813,11 +823,11 @@ schlüssel
 
 18
 
-Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und For-
+Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und
 
-schung (ohne Küchen- und Restaurantabfälle, die nicht aus der unmittelbaren
+Forschung (ohne Küchen- und Restaurantabfälle, die nicht aus der
 
-Krankenpflege stammen)
+unmittelbaren Krankenpflege stammen)
 
 1801 01 spitze oder scharfe Gegenstände (außer 18 01 03) gemäß Anlage 2
 
@@ -835,11 +845,11 @@ Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht kein
 
 19
 
-Abfälle aus Abfallbehandlungsanlagen, öffentlichen Abwasserbehandlungsan-
+Abfälle aus Abfallbehandlungsanlagen, öffentlichen
 
-lagen sowie der Aufbereitung von Wasser für den menschlichen Gebrauch
+Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den
 
-und Wasser für industrielle Zwecke
+menschlichen Gebrauch und Wasser für industrielle Zwecke
 
 1901 02 Eisenteile, aus der Rost- und Kesselasche entfernt
 
@@ -1008,7 +1018,11 @@ Sammlungsart
 
 11 01 11
 
-Wässrige Spülflüssigkeiten, die gefährliche Stoffe ent- Schadstoffsammlung halten im Rahmen der Beschränkungen § 15 AbfS gemäß § 15 AbfS
+Wässrige Spülflüssigkeiten, die gefährliche Stoffe
+
+Schadstoffsammlung
+
+enthalten im Rahmen der Beschränkungen § 15 AbfS gemäß § 15 AbfS
 
 15 01 10
 
@@ -1032,15 +1046,17 @@ Altfahrzeuge, die weder Flüssigkeiten noch andere § 4 Absatz 4 AbfS gefährlic
 
 16 02 09
 
-Transformatoren und Kondensatoren, die PCB enthal- Schadstoffsammlung
+Transformatoren und Kondensatoren, die PCB
 
-ten im Rahmen der Beschränkungen § 15 AbfS
+Schadstoffsammlung
 
-gemäß § 15 AbfS
+enthalten im Rahmen der Beschränkungen § 15 AbfS gemäß § 15 AbfS
 
 16 05 04
 
-Gefährliche Stoffe enthaltende Gase in Druckbehäl- Schadstoffsammlung tern (einschl. Halonen) im Rahmen der Beschränkun- gemäß § 15 AbfS gen § 15 AbfS
+Gefährliche Stoffe enthaltende Gase in Druckbehältern (einschl. Halonen) im Rahmen der Beschränkungen § 15 AbfS
+
+Schadstoffsammlung gemäß § 15 AbfS
 
 16 05 07
 
@@ -1050,7 +1066,9 @@ Schadstoffsammlung gemäß § 15 AbfS
 
 16 05 08
 
-gebrauchte organische Chemikalien, die aus gefährli- Schadstoffsammlung chen Stoffen bestehen oder solche enthalten im Rah- gemäß § 15 AbfS men der Beschränkungen § 15 AbfS
+gebrauchte organische Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten im Rahmen der Beschränkungen § 15 AbfS
+
+Schadstoffsammlung gemäß § 15 AbfS
 
 18 01 01 spitze oder scharfe Gegenstände (außer 180103)
 
@@ -1064,7 +1082,9 @@ gemäß § 16 AbfS
 
 18 02 01
 
-spitze oder scharfe Gegenstände mit Ausnahme der- gemäß § 16 AbfS jenigen, die unter 180202 fallen
+spitze oder scharfe Gegenstände mit Ausnahme derjenigen, die unter 180202 fallen
+
+gemäß § 16 AbfS
 
 Seite 30 von 32
 
@@ -1140,9 +1160,11 @@ Batterien und Akkumulatoren, die unter 16 06 01, 16 Schadstoffsammlung 06 02 ode
 
 Gebrauchte elektrische und elektronische Geräte, die Elektro(nik)geräte-
 
-gefährliche Bauteile enthalten, mit Ausnahme derjeni- sammlung gemäß §§
+gefährliche Bauteile enthalten, mit Ausnahme
 
-gen, die unter 20 01 21 und 20 01 23 fallen
+sammlung gemäß §§
+
+derjenigen, die unter 20 01 21 und 20 01 23 fallen
 
 13, 14 AbfS
 
@@ -1174,10 +1196,10 @@ gemäß § 13 AbfS
 
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
-Köln, den 19.12.2008
+Köln, den 15.12.2006
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2006 S. 947, 2007 S. 609, 2008 S. 805 -
+- ABl StK 2006 S. 947, 2007 S. 609, 2008 S. 805, 2009 S. 1297 -
 
 Seite 32 von 32
