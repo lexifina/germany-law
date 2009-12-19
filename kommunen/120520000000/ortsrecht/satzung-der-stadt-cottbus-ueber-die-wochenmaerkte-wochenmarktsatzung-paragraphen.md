@@ -1,0 +1,94 @@
+# Satzung der Stadt Cottbus über die Wochenmärkte (Wochenmarktsatzung) Paragraphen
+
+- Gemeinde: Stadt Cottbus/Chóśebuz (ARS 120520000000)
+- Datum: 2009-12-19 (Datum im Dateinamen)
+- Quelle: https://cottbus.de/satzungen/538_2009-12-19-2.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Satzung der Stadt Cottbus über die Wochenmärkte (Wochenmarktsatzung)
+Paragraphen
+§ 1 Geltungsbereich § 2 Platz, Zeit und Öffnungszeiten der Wochenmärkte § 3 Gegenstände des Wochenmarktverkehrs § 4 Marktzulassung, Vergabe der Standplätze § 5 Verfahren über den einheitlichen Ansprechpartner § 6 Verkaufseinrichtungen § 7 Auf- und Abbau § 8 Medienanschlüsse § 9 Präsenzpflicht § 10 Verhalten auf dem Wochenmarkt § 11 Sauberhaltung des Wochenmarktes § 12 Haftung § 13 Ordnungswidrigkeiten § 14 Inkrafttreten/Außerkrafttreten
+Anlagen
+Anlagen
+Präambe l
+Aufgrund der §§ 3, 12 und 28 Abs. 2 Nr. 9 der Kommunalverfassung des Landes Brandenburg (BbgKVerf) vom 18. Dezember 2007 (GVBl. I S. 286) zuletzt geändert durch Gesetz vom 23. September 2008 (GVBl. I S. 202), der §§ 4 und 6 des Kommunalabgabengesetzes für das Land Brandenburg (KAG) in der Fassung der Bekanntmachung vom 31. März 2004 (GVBl. I S. 174), des § 67 der Gewerbeordnung (GewO) in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S.202), hat die Stadtverordnetenversammlung der Stadt Cottbus in Ihrer Tagung am 28. Oktober 2009 folgende Wochenmarktsatzung beschlossen:
+§ 1 Geltungsbereich
+(1) Diese Satzung gilt für alle festgesetzten Wochenmärkte im Sinne der §§ 67 und 69 GewO, die von der Stadt Cottbus veranstaltet werden.
+(2) Die Stadt Cottbus betreibt diese Wochenmärkte als bewirtschaftete öffentliche Einrichtung.
+(3) Die Wochenmarktplätze, die Markttage und die Marktzeiten sind in der Anlage 1 zu dieser Satzung aufgeführt. Die räumliche Ausdehnung ist den Lageplänen der Anlage 2 zu entnehmen. Die Anlagen 1 bis 3 sind Bestandteil dieser Satzung.
+§ 2 Platz, Zeit und Öffnungszeiten der Wochenmärkte
+(1) Die Wochenmärkte finden auf den in den Anlagen 1 und 2 festgesetzten Plätzen, den dort benannten Markttagen und während der dort aufgeführten Öffnungszeiten statt.
+(2) Die in der Anlage 1 aufgeführten Marktplätze stehen zu den Zeiten der traditionellen Veranstaltungen der Stadt Cottbus nur entsprechend den in der Anlage 1 aufgeführten Beschränkungen zur Verfügung.
+(3) Fällt ein Markttag gemäß Abs. 1 auf einen gesetzlich anerkannten Feiertag im Sinne des § 2 Abs. 1 des Gesetzes über die Sonn- und Feiertage (FTG) vom 21. März 1991 (GVBl. I/91 S. 44) entfällt der Markt ersatzlos.
+§ 3 Gegenstände des Wochenmarktverkehrs
+(1) Auf den Wochenmärkten der Stadt Cottbus dürfen nur Waren gemäß § 67 Abs. 1 Nr. 1 bis 3 GewO sowie der Verordnung über Waren des täglichen Bedarfs auf Wochenmärkten in Brandenburg (vom 4. Dezember 1991, GVBl. II/92) in der derzeit gültigen Fassung feilgeboten werden.
+(2) Der Handel mit lebenden Kleintieren ist gemäß § 4 der Viehverkehrsverordnung vom 06. Juli 2007 (BGBl. I S. 1274) in der derzeit geltenden Fassung spätestens 4 Wochen vorher bei dem zuständigen Beauftragten der Marktaufsicht schriftlich anzumelden.
+§ 4 M arktzulassung, Vergabe der Standplätze
+(1) Die Zulassung zum Handel auf dem Wochenmarkt erfolgt durch Erteilung einer behördlichen Erlaubnis (Marktzulassung), entweder als Tageszulassung durch die Beauftragten der Marktaufsicht vor Ort oder als befristete Dauerzulassung in Schriftform.
+(2) Die Marktzulassung ermächtigt zum Handel auf den Wochenmärkten und regelt zeitlich befristet das Warensortiment, die Nutzfläche, den Wochenmarktplatz und den Markttag. Der Inhaber einer gültigen Marktzulassung hat Anspruch auf Zuweisung eines Wochenmarktstandplatzes auf dem in der Marktzulassung benannten Marktplatz an den dort benannten Markttagen.
+(3) Die Zulassung zum Wochenmarkt erfolgt nach marktspezifischen Erfordernissen. Insbesondere das bereits vorhandene Warenangebot auf dem Wochenmarkt und in dessen unmittelbarer Nähe, der Grundsatz Erzeuger vor Händler, die zeitliche Reihenfolge des Antragseinganges und die tatsächlich möglichen Nutzflächen werden bei Erteilung der Marktzulassung berücksichtigt.
+(4) Der Antrag auf Marktzulassung ist generell schriftlich, mit dem in der Anlage 3 vorgeschriebenen Formular zu stellen. Die Antragsbearbeitung erfolgt bei Vorliegen aller Unterlagen innerhalb von 4 Wochen nach Posteingang. Tageszulassungen werden durch den Beauftragten der Marktaufsicht der Stadt Cottbus vor Ort erteilt.
+(5) Es besteht kein Rechtsanspruch auf Zuweisung einer konkreten Nutzfläche oder Beibehaltung eines bestimmten Standplatzes. Die Marktzulassung ist nicht übertragbar. Sie kann mit Auflagen und Bedingungen versehen werden und wird grundsätzlich befristet erteilt.
+(6) Für die Benutzung der öffentlichen Einrichtung des Wochenmarktes sind Marktgebühren nach der Satzung über die auf den Wochenmärkten der Stadt Cottbus zu entrichtenden Marktgebühren (Marktgebührenordnung) in der jeweils geltenden Fassung zu zahlen.
+
+der Stadt Cottbus zu entrichtenden Marktgebühren (Marktgebührenordnung) in der jeweils geltenden Fassung zu zahlen.
+(7) Die Marktzulassung kann versagt werden, wenn ein sachlich gerechtfertigter Grund vorliegt. Ein sachlich gerechtfertigter Grund für die Versagung liegt insbesondere dann vor, wenn Tatsachen die Annahme rechtfertigen, dass der Benutzer die für die Teilnahme am Wochenmarkt erforderliche Zuverlässigkeit nicht besitzt oder die zur Verfügung stehende Fläche nicht ausreicht.
+(8) Die Marktzulassung kann widerrufen werden, wenn ein sachlich gerechtfertigter Grund vorliegt. Ein sachlich gerechtfertigter Grund liegt insbesondere dann vor, wenn:
+die in der Marktzulassung benannte Fläche wiederholt nicht genutzt wird, der Inhaber der Marktzulassung oder dessen Beschäftigte erheblich oder trotz Mahnung wiederholt gegen die Bestimmungen dieser Marktsatzung verstoßen haben, nachträglich Versagungsgründe im Sinne des Abs. 7 bekannt werden oder die für die Nutzung zu entrichtenden Marktgebühren nicht gezahlt wurden. Wird die Marktzulassung widerrufen, kann der Beauftragte der Marktaufsicht die sofortige Räumung des Standplatzes verlangen.
+§ 5 Verfahren über den einheitlichen Ansprechpartner
+Verwaltungsverfahren nach dieser Satzung können über den einheitlichen Ansprechpartner für das Land Brandenburg abgewickelt werden. Es gelten die Regelungen des Gesetzes zum Verfahren Einheitlicher Ansprechpartner für das Land Brandenburg vom 7. Juli 2009 (GVBl. I S. 262) sowie die §§ 71 a bis e Verwaltungsverfahrensgesetz (VwVfG) in der Fassung der Bekanntmachung vom 23. Januar 2003 (BGBl. I S. 102), zuletzt geändert durch Artikel 2 Abs. 1 des Gesetzes vom 14. August 2009 (BGBl. I S. 2827) in Verbindung mit § 1 Verwaltungsverfahrensgesetz für das Land Brandenburg (VwVfGBbg) vom 07. Juli 2009 (GVBl. I/09, [Nr. 12], S. 262, 264).
+§ 6 Verkaufseinrichtungen
+(1) Als Verkaufseinrichtungen (Marktstände) auf dem Wochenmarktplatz sind Verkaufstische und –stände sowie Verkaufswagen und -anhänger im Sinne des § 55 Abs. 9 Nr. 10 und 11 der Brandenburgischen Bauordnung (BbgBO) vom September 2008 in der derzeit geltenden Fassung zugelassen. Dies gilt auch für die damit im Zusammenhang stehenden Überzelte oder Verschattungselemente. Verkaufseinrichtungen dürfen nicht höher als 3 m sein, Kisten und ähnliche Gegenstände dürfen nicht höher als 1,40 m gestapelt werden. Vordächer von Verkaufseinrichtungen müssen mindestens eine lichte Höhe von 2 m gemessen ab Marktplatzoberfläche haben. Sie dürfen die zugewiesene Grundfläche nicht mehr als 1 m überragen.
+(2) Verkaufseinrichtungen und damit im Zusammenhang stehende Überzelte und Verschattungselemente müssen den Wetterlagen entsprechend standfest und gesichert sein. Eingriffe bzw. Beschädigungen der Marktoberflächen sind nicht zulässig und ohne Erlaubnis ist eine Befestigung weder an Bäumen und deren Schutzvorrichtungen, noch an Verkehrs-, Energie-, Fernsprech- oder ähnlichen Einrichtungen zulässig.
+(3) Zur Verbesserung des Gesamterscheinungsbildes des Wochenmarktes und der Umsetzung von Ordnung und Sicherheit auf den Wochenmarktflächen können gegenüber dem Inhaber der Marktzulassung Forderungen an die innere und äußere Gestaltung der Verkaufseinrichtungen und an die Gestaltung der Nutzflächen gestellt werden.
+(4) Werbung in Form von Schildern und Plakaten ist nur innerhalb der Verkaufseinrichtungen in angemessenem, üblichem Rahmen gestattet und nur soweit es mit dem Geschäftsbetrieb des Standinhabers in Verbindung steht.
+(5) Die Gänge zwischen den Verkaufseinrichtungen und die Durchfahrten sind von Leergut, Waren und Geräten freizuhalten. Verkaufs-, Bedien-, Präsentations- oder Zwischenlagerflächen sind gemäß der Marktzulassung einzuhalten.
+§ 7 Auf- und Abbau
+(1) Waren, Verkaufseinrichtungen und sonstige Betriebsgegenstände dürfen frühestens eine Stunde vor Beginn der Marktöffnungszeit angeliefert, ausgepackt oder aufgestellt werden. Die Verkaufseinrichtungen sind bis zum Beginn der Marktöffnung betriebsfähig einzurichten. Verkaufseinrichtungen, Betriebsgegenstände und Waren müssen spätestens eine Stunde nach Beendigung der Marktzeit vom Marktplatz entfernt sein; bei Nichteinhaltung können sie auf Kosten des Standinhabers zwangsweise entfernt werden.
+(2) Den Inhabern einer Marktzulassung ist es gestattet, bis zum Beginn des Marktes Waren an die Verkaufsstände zu liefern und nach Marktschluss dort abzuholen. Das Befahren, Halten und Parken von Fahrzeugen im Bereich des Wochenmarktes ist während der Marktzeiten unzulässig. Ausnahmen können vom Beauftragten der Marktaufsicht zu festgelegten Flächenbereichen für sortimentsbezogene Nachlieferungen erfolgen.
+(3) Vor Beendigung der festgesetzten Marktzeit dürfen Verkaufseinrichtungen grundsätzlich nicht abgebaut werden. Aus sachlich gerechtfertigten Gründen kann dem Inhaber einer Marktzulassung in Ausnahmefällen der Auf- und Abbau von Verkaufseinrichtungen auch während der festgesetzten Marktzeit durch den Beauftragten der Marktaufsicht gestattet werden.
+§ 8 Medienanschlüsse
+(1) Für den Betrieb des Wochenmarktes werden technischen Anlagen für die Inhaber einer Marktzulassung zur Verfügung gestellt. Die Zuweisung eines Medienanschlusses erfolgt nach marktspezifischen und technischen Erfordernissen.
+(2) Für die Betriebssicherheit der technischen Anlagen der Verkaufseinrichtungen und für die ordnungsgemäße und gefahrlose Verlegung der Kabel bzw. Zuleitungen ist der Inhaber der Marktzulassung eigenverantwortlich.
+(3) Auf Basis der Marktzulassung ist ein eigenständiger Versorgungsvertrag mit dem Versorgungsunternehmen abzuschließen.
+(4) Die Haftung für Schäden an technischen Anlagen erfolgt nach dem Verursacherprinzip.
+§ 9 Präsenzpflicht
+(1) Die Marktzulassung verpflichtet zur Teilnahme am Wochenmarkt in dem in der Zulassung benannten Umfang. Die beabsichtigte Nichtnutzung der Marktzulassung ist rechtzeitig und unverzüglich anzuzeigen. Der Beauftragte der Marktaufsicht kann in begründeten Einzelfällen Ausnahmen von der Präsenzpflicht zulassen.
+
+(2) Es besteht kein Rechtsanspruch auf Rückerstattung oder Erlass der Marktgebühr bei gültiger Marktzulassung aber unbegründetem Fernbleiben des Nutzungsberechtigten.
+§ 10 Verhalten auf dem Wochenmarkt
+(1) Alle Nutzer haben mit dem Betreten der Wochenmärkte die Bestimmungen dieser Wochenmarktsatzung und die Anordnungen des Beauftragten der Marktaufsicht zu beachten. Gleichermaßen sind insbesondere die gesetzlichen Regelungen zur Preisangabenverordnung, des Jugendschutzes, der Bauordnung, des Brandschutzes sowie die veterinär- und lebensmittelrechtlichen Vorschriften zu beachten.
+(2) Jeder Nutzer hat sein Verhalten auf dem Wochenmarkt und den Zustand seiner Verkaufseinrichtungen so einzurichten, dass keine Personen oder Sachen geschädigt, gefährdet oder mehr als nach den Umständen unvermeidbar behindert oder belästigt werden.
+(3) Es ist während der Verkaufszeit insbesondere unzulässig:
+1. Waren im Umhergehen anzubieten, 2. zu betteln, 3. Waren laut auszurufen, anzupreisen oder öffentlich zu versteigern und ohne Genehmigung Tonwiedergabegeräte zu betreiben, 4. Waren außerhalb der festgesetzten Marktzeiten zu verkaufen, 5. motorisierte Fahrzeuge jeder Art, ausgenommen sind Rollstühle, zu führen oder abzustellen, 6. öffentliche nicht marktspezifische Werbung zu betreiben, 7. Anlagen der stadttechnischen Ver- und Entsorgung wie Schieber, Schächte, Unterflurhydranten zu verstellen, 8. Abwässer und Abfälle anderweitig als in die vorgesehenen Einleitstellen bzw. Abfallbehälter zu entsorgen, 9. die Wochenmarktflächen durch Abfälle, Öle, Benzine oder sonstige schädliche Stoffe zu verunreinigen, 10. in betrunkenem Zustand Wochenmarkthandel zu betreiben, 11. warmblütige Kleintiere zu schlachten, abzuhäuten oder zu rupfen.
+(4) Unter Einhaltung der lebensmittel- und tierschutzrechtlichen Vorschriften sind das Schlachten und Ausnehmen von Fisch jedoch erlaubt.
+(5) Den Beauftragten der Marktaufsicht ist jederzeit Zutritt zu den Standplätzen und Verkaufseinrichtungen zu gestatten. Alle im Marktverkehr tätigen Personen haben sich ihnen gegenüber auf Verlangen auszuweisen.
+§ 11 Sauberhaltung des Wochenmarktes
+(1) Die Reinigung und Abfallentsorgung wird durch die Marktverwaltung, entsprechend den jeweils gültigen städtischen Satzungen zur Abfallentsorgung, Straßenreinigung, Abfall- und Straßenreinigungsgebühren, veranlasst. Die Reinigung und Abfallentsorgung erfolgt durch einen beauftragten Dritten.
+(2) Abfälle und Kehricht sind innerhalb der Verkaufseinrichtungen in geeigneten Behältern so zu verwahren, dass der Marktverkehr nicht gestört, Waren nicht verunreinigt oder sonst nachteilig beeinflusst werden können. Nach Beendigung des Marktes hat die Entsorgung in die jeweils bereitgestellten Müllgroßbehältern zu erfolgen. Verpackungsmaterial ist eigenständig zurückzuführen. Die Marktplätze dürfen nicht verunreinigt werden. Abfälle einschließlich verdorbener Waren dürfen nicht auf die Wochenmärkte gebracht werden.
+(3) Soweit Abfälle durch ihr Aussehen oder ihren Geruch widerlich sind oder werden können, sind sie unverzüglich zu beseitigen
+(4) Die Marktteilnehmer sind für die Reinhaltung ihrer Verkaufseinrichtungen und der davor gelegenen Gänge und Fahrbahnen bis zu deren Mitte selbst verantwortlich. Sie sind auch verpflichtet, diese Flächen bei Eis- und Schneeglätte mit Sand zu bestreuen und während der Dauer der Glätte stumpf zu halten. Die Plätze sind besenrein zu verlassen.
+(5) Anfallendes Schmutzwasser darf nur in die dafür vorgesehenen Abwassereinleitungen entsorgt werden.
+(6) Altfett und Altöl aus Friteusen und Brätern dürfen nicht in die Oberflächenwassereinleiter entsorgt werden. Die Entsorgung ist mittels zugelassener Entsorgungsunternehmen eigenverantwortlich abzusichern. Eine Zwischenlagerung auf einer wasserdichten Abstellfläche ist möglich.
+§ 12 Haftung
+(1) Die Wochenmärkte werden auf eigene Gefahr benutzt und besucht. Die Stadt Cottbus haftet für Schäden, die den Marktteilnehmern und Besuchern entstehen, nur bei Vorsatz und grober Fahrlässigkeit ihrer Beauftragten.
+(2) Für Schäden, die im Zusammenhang mit dem Aufbau, dem Marktbetrieb und dem Abbau der Verkaufseinrichtungen entstehen, ist der jeweilige Verursacher haftbar. Gehört der Verursacher zum Personal eines Inhabers einer Marktzulassung, so haften Verursacher und Inhaber als Gesamtschuldner.
+(3) Mit der Marktzulassung übernimmt die Stadt Cottbus keine Haftung für die Sicherheit der Waren und sonstiger Gegenstände. Der Marktteilnehmer hat sich gegen Diebstahl, Sturm- und Feuerschäden selbst zu versichern.
+§ 13 Ordnungswidrigkeiten
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+1. andere als die in § 3 Abs. 1 benannten Waren anbietet, 2. der Anzeigepflicht nach § 3, Abs. 2 nicht oder nicht rechtzeitig nachkommt, 3. ohne gültige Marktzulassung nach § 4 Abs. 1 zu den Zeiten des Wochenmarktes (Anlage 1) Waren anbietet, 4. entgegen § 4 Abs. 5 Satz 2 die Marktzulassung anderen überlässt oder gegen Nebenbestimmungen der Marktzulassung verstößt, 5. entgegen § 6 Abs. 1 andere als die dort benannten Verkaufseinrichtungen nutzt, 6. entgegen § 6 Abs. 2 Eingriffe an der Marktoberfläche vornimmt oder diese beschädigt oder unerlaubt Befestigungen anbringt, 7. einer nach § 6 Abs. 3 erlassenen Verfügung zuwiderhandelt, 8. entgegen § 6 Abs. 4 zu den Zeiten des Wochenmarktes andere als die dort benannte Werbung auf der Marktfläche betreibt, 9. entgegen § 6 Abs. 5 Gängen nicht freihält oder Flächenzuweisungen nicht einhält, 10. entgegen § 7 Abs. 1 Satz 1 Waren, Verkaufseinrichtungen und sonstige Betriebsgegenstände früher als zu den dort benannten Zeiten
+
+anliefert, auspackt oder aufstellt, 11. entgegen § 7 Abs. 1 Satz 2 Verkaufseinrichtungen nicht bis zum Beginn der Marktöffnung betriebsfertig einrichtet, 12. entgegen § 7 Abs. 1 Satz 3 Verkaufseinrichtungen, Betriebsgegenstände und Waren nicht rechtzeitig entfernt, 13. entgegen § 7 Abs. 2 Satz 2 die Marktfläche während der Marktzeiten befährt, ohne im Besitz einer Ausnahmegenehmigung nach § 7 Abs. 2
+Satz 3 zu sein, 14. entgegen § 7 Abs. 3 Satz 1 Verkaufseinrichtungen vor Beendigung der Marktzeit abbaut, ohne im Besitz einer Ausnahmegenehmigung nach
+§ 7 Abs. 3 Satz 2 zu sein, 15. entgegen § 8 Abs. 1 Satz 2 Medienanschlüsse ohne Zuweisung in Anspruch nimmt, 16. entgegen § 8 Abs. 2 Kabel oder Zuleitungen nicht ordnungsgemäß verlegt oder technisch nicht betriebssichere Anlagen verwendet, 17. entgegen § 9 Abs. 1 der Präsenzpflicht ohne Ausnahmegenehmigung nach § 9 Abs. 3 nicht nachkommt, 18. den Vorschriften des § 10 über das Verhalten auf den Wochenmärkten zuwiderhandelt, 19. entgegen § 10 Abs. 4 den Beauftragten der Marktaufsicht den Zutritt zu den Standplätzen oder Verkaufseinrichtungen verwehrt, 20. den Vorschriften über die Sauberhaltung des Wochenmarktes nach § 11 Abs. 2 bis 4 zuwiderhandelt oder der Streu- und Räumpflicht nach
+§ 11 Abs. 4 nicht nachkommt oder 21. entgegen § 11 Abs. 5 und 6 Schmutzwasser oder Altfett und Altöl nicht ordnungsgemäß entsorgt.
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 1000 € geahndet werden. Die Höhe richtet sich nach dem in § 17 Absatz 1 des Gesetzes über Ordnungswidrigkeiten vom 19. Februar 1987 (BGBl I S.602) in der jeweils gültigen Fassung bestimmten Rahmen.
+§ 14 Inkrafttreten/Außerkrafttreten
+Die Wochenmarktsatzung tritt nach ihrer Veröffentlichung zum 01.01.2010 in Kraft. Gleichzeitig treten die Wochenmarktsatzung, Stadtverordnetenbeschluss vom 27. November 2002 und die 1. Änderung der Wochenmarktsatzung, Stadtverordnetenbeschluss vom 24. September 2003, außer Kraft.
+Cottbus, 02.11.2009
+gez. Frank Szymanski Oberbürgermeister der Stadt Cottbus
+Anlage n
+Anlage 1 Wochenmarktverzeichnis gemäß § 2 Abs. 1 Anlage 2 Lagepläne Anlage 3 Antrag auf Zulassung zum Wochenmarkt
