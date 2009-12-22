@@ -1,0 +1,7 @@
+# TOP 8: Weitere Nutzung des Gebäudes " Zentrum am Kleeblatt " durch den Träger Tandem
+
+- Sitzung: 33. öffentliche Sitzung des Jugendhilfeausschusses (2009-12-22)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=32283
+- Ergebnis: erledigt
