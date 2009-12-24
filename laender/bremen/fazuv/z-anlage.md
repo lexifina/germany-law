@@ -34,13 +34,13 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  |  | 1.11 | Besteuerung von Fonds, Verlustzuweisungsgesellschaften und Gesamtobjekten im Sinne des § 1 Abs. 1 Satz 1 Nr. 2 der Verordnung über die gesonderte Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 2 AO
  |  |  | 1.12 | Verwaltung der Spielbankabgabe einschließlich der Steueraufsicht
  |  |  | 1.13 | Durchführung der Einheitsbewertung und Bedarfsbewertung des Grundvermögens
- |  |  | 1.14 | Festsetzung und Erhebung der
+ |  |  | 1.14 | Verwaltung der
  |  |  | 1.14.1 | Grunderwerbsteuer
- |  |  | 1.14.2 | Grundbesitzabgaben
- |  |  | 1.14.3 | Zweitwohnungsteuer
- |  |  | 1.14.4 | Hundesteuer
- |  |  | 1.14.5 | Vergnügungsteuer
- |  | Bremen-Ost, Bremen-West | 1.15 | Vollstreckung
+ |  |  | 1.14.2 | Zweitwohnungsteuer
+ |  |  | 1.14.3 | Hundesteuer
+ |  |  | 1.14.4 | Vergnügungssteuer
+ |  |  | 1.15 | Festsetzung und Erhebung der Grundbesitzabgaben
+ |  | Bremen-Ost, Bremen-West | 1.16 | Vollstreckung
 2 | Bremen-Ost | Alle Finanzämter im Lande Bremen | 2.1 | Straf- und Bußgeldverfahren sowie Wahrnehmung der Aufgaben der Steuerfahndung bei
  |  |  | 2.1.1 | Steuerstraftaten und Steuerordnungswidrigkeiten
  |  |  | 2.1.2 | Straftaten und Ordnungswidrigkeiten, auf die nach den in der Eingangsformel der Verordnung zitierten ermächtigenden Vorschriften die Bestimmungen des achten Teils der Abgabenordnung Anwendung finden
