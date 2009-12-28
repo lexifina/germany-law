@@ -1,6 +1,6 @@
 # Verordnung des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft über die Voraussetzungen und das Verfahren der Zulassung privater Kontrollstellen nach dem Lebensmittelspezialitätengesetz und dem Markengesetz
 Vom 27. November 2000
-Rechtsbereinigt mit Stand vom 6. November 2008
+Rechtsbereinigt mit Stand vom 28. Dezember 2009
 Es wird verordnet aufgrund von
 1. § 5 Satz 1 des Gesetzes zur Durchführung der Rechtsakte der Europäischen Gemeinschaft über Bescheinigungen besonderer Merkmale von Agrarerzeugnissen und Lebensmitteln (Lebensmittelspezialitätengesetz – LSpG) vom 29. Oktober 1993 (BGBl. I S. 1814), das zuletzt durch Artikel 3 des Gesetzes vom 2. August 1994 (BGBl. I S. 2018, 2023) geändert worden ist, in Verbindung mit § 1 Abs. 2 der Verordnung der Sächsischen Staatsregierung zur Übertragung von Zuständigkeiten nach dem Lebensmittelspezialitätengesetz und dem Markengesetz vom 24. Juli 1998 (SächsGVBl. S. 434),
 2. § 139 Abs. 2 Satz 2 des Gesetzes über den Schutz von Marken und sonstigen Kennzeichen (Markengesetz – MarkenG) vom 25. Oktober 1994 (BGBl. I S. 3082, 1995 I S. 156), zuletzt geändert durch Artikel 5 des Gesetzes vom 16. Juli 1998 (BGBl. I S. 1827, 1833), in Verbindung mit § 2 Abs. 2 der Verordnung der Sächsischen Staatsregierung zur Übertragung von Zuständigkeiten nach dem Lebensmittelspezialitätengesetz und dem Markengesetz,
