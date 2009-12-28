@@ -16,7 +16,7 @@ Abschnitt 1 - Vorschriften für Hafenanlagen
 § 10 | Risikobewertung für die Hafenanlage
 § 11 | Plan zur Gefahrenabwehr in der Hafenanlage
 § 12 | Beauftragter für die Gefahrenabwehr in der Hafenanlage
-§ 13 | Anerkannte Stelle zur Gefahrenabwehr
+§ 13 | (aufgehoben)
 § 14 | Sicherheitserklärung
 Abschnitt 2 - Vorschriften für Schiffe
 § 15 | Einlaufverbot und Hafenverweisung
