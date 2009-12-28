@@ -1,15 +1,23 @@
 # Inhaltsverzeichnis
 Inhaltsübersicht
-Teil I Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe
+Teil I Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit
+Abschnitt 1 Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation
 § 1 | Anwendungsbereich
 § 2 | Ausnahmen vom Anwendungsbereich
 § 3 | Örtliche Zuständigkeit
 § 3a | Elektronische Kommunikation
+Abschnitt 2 Amtshilfe
 § 4 | Amtshilfepflicht
 § 5 | Voraussetzungen und Grenzen der Amtshilfe
 § 6 | Auswahl der Behörde
 § 7 | Durchführung der Amtshilfe
 § 8 | Kosten der Amtshilfe
+Abschnitt 2 europäische Verwaltungszusammenarbeit
+§ 8a | Grundsätze der Hilfeleistung
+§ 8b | Form und Behandlung der Ersuchen
+§ 8c | Kosten der Hilfeleistung
+§ 8d | Mitteilungen von Amts wegen
+§ 8e | Anwendbarkeit
 Teil II Allgemeine Vorschriften über das Verwaltungsverfahren
 Abschnitt 1 Verfahrensgrundsätze
 § 9 | Begriff des Verwaltungsverfahrens
