@@ -1,2 +1,2 @@
 # Landesjugendhilfegesetz (LJHG)
-Rechtsbereinigt mit Stand vom 11. Juli 2009
+Rechtsbereinigt mit Stand vom 28. Dezember 2009
