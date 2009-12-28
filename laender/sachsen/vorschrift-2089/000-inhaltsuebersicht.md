@@ -21,9 +21,10 @@ Abschnitt 1 Allgemeine Vorschriften zu Prüfingenieurenund Prüfsachverständige
 § 17 Allgemeine Voraussetzungen
 § 18 Allgemeine Pflichten
 § 19 Anerkennungsverfahren
+§ 19a Weitere Niederlassungen
 § 20 Erlöschen, Widerruf und Rücknahme der Anerkennung
 § 21 Führung der Bezeichnung Prüfingenieur oder Prüfsachverständiger
-§ 22 Gegenseitige Anerkennung
+§ 22 Gleichwertigkeit, gegenseitige Anerkennung
 Abschnitt 2 Prüfingenieure, Prüfämter,Typenprüfung, Fliegende Bauten
 Unterabschnitt 1 Prüfingenieure für Standsicherheit
 § 23 Besondere Voraussetzungen
@@ -45,7 +46,7 @@ Abschnitt 3 Prüfsachverständige für die Prüfung technischer Anlagen und Einr
 § 36 Aufgabenerledigung
 Abschnitt 4 Prüfsachverständige für den Erd- und Grundbau
 § 37 Besondere Voraussetzungen
-§ 38 Beirat
+§ 38 Verfahren
 § 39 Aufgabenerledigung
 Abschnitt 5 Vergütung
 § 40 Vergütung der Prüfingenieure und der Prüfämter
