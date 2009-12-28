@@ -32,11 +32,11 @@ Leichtstoffabscheider, die für einen Abwasserdurchfluß unter 10 l/s ausgelegt 
 3 Häufigkeit der Untersuchungen und Kontrollen Abkürzungen:
 Abkürzungen
 Abkürzung | Bedeutung
-t – | täglich im Sinne einer Probenahme und Untersuchung an allen Tagen oder zu Tageszeiten (Chargenbetrieb), an denen Abwasser der Abwasserbehandlungsanlage zugeführt oder in die Sammelkanalisation oder ein Gewässer eingeleitet wird
-w – | wöchentlich
-m – | monatlich
-a – | jährlich
-k – | kontinuierlich
+t | – | täglich im Sinne einer Probenahme und Untersuchung an allen Tagen oder zu Tageszeiten (Chargenbetrieb), an denen Abwasser der Abwasserbehandlungsanlage zugeführt oder in die Sammelkanalisation oder ein Gewässer eingeleitet wird
+w | – | wöchentlich
+m | – | monatlich
+a | – | jährlich
+k | – | kontinuierlich
 3.1 Allgemeine anlagenbezogene Kontrollen
 Allgemeine anlagenbezogene Kontrollen
 Anlagenteil/Art der Kontrolle | Häufigkeit
@@ -68,9 +68,9 @@ unter 50 m³/d | 50 m³/d bis unter 500 m³/d | über 500 m³/d
  | – Leitfähigkeit | t | t | t
  | – absetzbare Stoffe | t | t | t
  | – Trübung | – | k | k
- | – BSB 5 1) | m | w | w
- | – CSB 1) | w | w | t
-2. | Nährstoffe 1)
+ | – BSB5 1) | m | w | w
+ | – CSB1) | w | w | t
+2. | Nährstoffe1)
  | – Ammonium-Stickstoff | m | w | t
  | – Nitrat-Stickstoff | m | w | t
  | – Gesamt-Stickstoff | m | w | t
