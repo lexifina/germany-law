@@ -1,0 +1,2 @@
+# Eingangsformel
+Aufgrund des § 25 Absatz 1 in Verbindung mit § 52 des Schornsteinfegergesetzes in der Fassung der Bekanntmachung vom 10. August 1998 (BGBl. I S. 2071), das zuletzt durch Artikel 17 des Gesetzes vom 3. April 2009 (BGBl. I S. 700) geändert worden ist, des § 1 Absatz 1 Satz 3 des Schornsteinfeger-Handwerksgesetzes vom 26. November 2008 (BGBl. I S. 2241) jeweils in Verbindung mit § 1 der Verordnung vom 1. September 2009 (Brem.GBl. S. 315) wird verordnet:
