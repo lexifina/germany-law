@@ -1,21 +1,19 @@
-# Anlage 2 - - Anlagenverzeichnis
+# Anlage 2 - Anlagenverzeichnis
 Anlage 2
-zur Verordnung zur Erhebung von Hochwasserschutzbeiträgen in Bremerhaven
--Anlagenverzeichnis
-Abschnitt | Anlage | Deichkilometer*
-1 | Deich Südliche Landesgrenze bis Fischereihafenschleuse | FH 0+000 bis FH 2+919
-2 | Fischereihafenschleuse | FH 2+919 bis FH 3+330
-3 | Deich Fischereihafenschleuse bis Bussestraße 26 | FH 3+330 bis FH 3+555
-4 | Deich Bussestraße 26 bis Geestesturmflutsperrwerk | FH 3+555 bis FH 3+910
-5 | Geestesturmflutsperrwerk | FH 3+910 bis FH 4+040
-6 | Deich Geestesturmflutsperrwerk bis Hochschule Bremerhaven | FH 4+040 bis FH 4+200
-7 | Deich Hochschule Bremerhaven bis Wasser- und Schifffahrtsamt Bremerhaven | FH 4+200 bis FH 4+300
-8 | Deich Wasser- und Schifffahrtsamt Bremerhaven bis Gemeindegrenze Südseite Schleusenstraße (Weserdeich) mit Ausnahme der Sonderbauwerke Zoo am Meer und der Sportbootschleuse | FH 4+300 bis ÜH 0+620
-9 | Deich Gemeindegrenze bis Kaiserschleuse (Lohmanndeich) | ÜH 0+620 bis ÜH 1+500
-10 | Deich Weddewarder Deich bis nördliche Landesgrenze (Imsumer Deich) | ÜH 7+826,5 bis ÜH 9+193
-Die genaue Lage der Anlagen ist der zu diesem Anlagenverzeichnis gehörenden Karte, Maßstab 1 : 5.000, zu entnehmen.
+(zu § 4 Abs. 2)
+Anlagenverzeichnis
+Anlage | Länge | Stationierungspunkte |  | 
+Deich Südliche Landesgrenze bis ehem. Neues Lunesiel (Luneplate) | 5.780,00 m | 0 | bis | 70
+Deich ehem. Neues Lunesiel bis Fischereihafenschleuse (Seedeich) | 2.906,84 m | 70 | bis | 106
+Fischereihafenschleuse | 511,01 m | 106 | bis | 135
+Deich Fischereihafenschleuse bis Bussestraße 26 | 426,69 m | 135 | bis | 148.1
+Deich Bussestraße 26 bis Geestesturmflutsperrwerk | 327,29 m | 148.1 | bis | 158.1
+Geestesturmflutsperrwerk | 109,91 m | 158.1 | bis | 162
+Deich Geestesturmflutsperrwerk bis Hochschule Bremerhaven | 94,59 m | 162 | bis | 165
+Deich Hochschule Bremerhaven bis Wasser- und Schifffahrtsamt Bremerhaven | 268,18 m | 165 | bis | 179.1
+Deich Wasser- und Schifffahrtsamt Bremerhaven bis Sportbootschleuse (Weserdeich) mit Ausnahme Sonderbauwerk Zoo am Meer | 1.149,00 m | 179.1 | bis | 229.1
+Deich Sportbootschleuse bis Schleusenstraße (Lohmanndeich Süd) | 494,76 m | 244 | bis | 250.1
+Deich Schleusenstraße bis Kaiserschleuse (Lohmanndeich Nord) | 782,80 m | 250.1 | bis | 258
+Deich Containerterminal CT IV bis nördliche Landesgrenze (Norddeich) | 1.035,60 m | 361 | bis | 374
+Die genaue Lage der Anlagen ist der zu diesem Anlagenverzeichnis gehörenden Karte, Maßstab 1:10 000, zu entnehmen.
 Die Karte wird beim Magistrat Bremerhaven aufbewahrt und kann während der üblichen Sprechzeiten eingesehen werden.
-FH = Freihafen
-ÜH = Überseehafen
-Fußnoten
-* Kilometrierung des Hansestadt Bremischen Hafenamtes
