@@ -1,8 +1,8 @@
 # Die Justizverwaltungen des Bundes und der Länder haben die nachstehende Vereinbarung über den Ausgleich von Kosten getroffen. Die Verwaltungsvereinbarung ist gemäß ihrem Abschnitt VIII Absatz 1 Satz 1 am 1. Juli 2001 in Kraft getreten. Vom Abdruck de
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2001-07-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1465.1
+- Datum: 2010-01-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1465.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -12,7 +12,9 @@ A.
 
 Die Justizverwaltungen des Bundes und der Länder haben die nachstehende Vereinbarung über den Ausgleich von Kosten getroffen. Die Verwaltungsvereinbarung ist gemäß ihrem Abschnitt VIII Absatz 1 Satz 1 am 1. Juli 2001 in Kraft getreten. Vom Abdruck der Unterschriften wird abgesehen.
 
-Vereinbarung über den Ausgleich von Kosten
+Vereinbarung
+
+über den Ausgleich von Kosten
 
 I.
 
@@ -26,7 +28,7 @@ Sind nach der Verweisung eines Verfahrens Kosten zurückzuzahlen, so wird die R�
 
 II.
 
-Vergütungen der in Verfahren vor den ordentlichen Gerichten, den Gerichten für Arbeitssachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit im Wege der Prozesskostenhilfe, nach § 625 ZPO oder nach § 11a ArbGG beigeordneten Rechtsanwälte bei Verweisung eines Verfahrens an ein anderes Gericht
+Vergütungen der in Verfahren vor den ordentlichen Gerichten, den Gerichten für Arbeitssachen und in Angelegenheiten der freiwilligen Gerichtsbarkeit im Wege der Verfahrens- oder Prozesskostenhilfe, nach § 138 FamFG oder nach § 11a ArbGG beigeordneten Rechtsanwälte bei Verweisung eines Verfahrens an ein anderes Gericht
 
 Wird ein Verfahren an ein anderes Gericht verwiesen, so setzt der Urkundsbeamte der Geschäftsstelle dieses Gerichts die Vergütung des von dem verweisenden Gericht beigeordneten Rechtsanwalts fest; er erteilt auch die Auszahlungsanordnung. Die Vergütung des beigeordneten Rechtsanwalts wird aus den Haushaltsmitteln des Gerichts gezahlt, an das das Verfahren verwiesen worden ist.
 
@@ -46,7 +48,8 @@ Abgabe eines Verfahrens, Erstattungsverzicht
 
 Die Abschnitte I und II gelten auch bei der Abgabe eines Verfahrens.
 
-Die Länder verzichten gegenseitig auf die Erstattung von Beträgen, die nach den Abschnitten I bis III eingezogen oder ausgezahlt werden, auf den Ausgleich von Zahlungen, die auf Grund der Bewilligung von Prozesskostenhilfe geleistet werden, sowie auf die Abführung der Einnahmen, die sich auf Grund des § 130 der Bundesgebührenordnung für Rechtsanwälte ergeben.
+Die Länder verzichten gegenseitig auf die Erstattung von Beträgen, die nach den Abschnitten I bis III eingezogen oder ausgezahlt werden, auf den Ausgleich von Zahlungen, die auf Grund der Bewilligung von Verfahrens- oder Prozesskostenhilfe geleistet werden, sowie auf die Abführung der Einnahmen, die sich auf Grund des § 59
+RVG ergeben.
 
 V.
 
@@ -58,7 +61,7 @@ VI.
 
 Gerichtsvollzieherkosten
 
-Wird ein Gerichtsvollzieher auf Grund der Bewilligung von Prozesskostenhilfe eines anderen Gerichts unentgeltlich tätig, so verzichten die Länder gegenseitig auf die Erstattung der Auslagen, die dem Gerichtsvollzieher aus der Landeskasse ersetzt werden. Dies gilt auch, wenn die Gerichtsvollzieherkosten bei dem Gericht, das die Prozesskostenhilfe bewilligt hat, später eingezogen werden.
+Wird ein Gerichtsvollzieher auf Grund der Bewilligung von Verfahrens- oder Prozesskostenhilfe eines anderen Gerichts unentgeltlich tätig, so verzichten die Länder gegenseitig auf die Erstattung der Auslagen, die dem Gerichtsvollzieher aus der Landeskasse ersetzt werden. Dies gilt auch, wenn die Gerichtsvollzieherkosten bei dem Gericht, das die Verfahrens- oder Prozesskostenhilfe bewilligt hat, später eingezogen werden.
 
 VII.
 
@@ -76,7 +79,8 @@ Die Vereinbarung kann von jedem Beteiligten zum Ende eines Kalenderjahres mit ei
 
 B.
 
-Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. Juli 2001 in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz über den Ausgleich von Kosten vom 1. August 1994 (SächsJMBl. S. 103) verlängert durch Verwaltungsvorschrift vom 25. November 1999 (SächsJMBl. S. 186), außer Kraft.
+Diese Verwaltungsvorschrift tritt mit Wirkung vom 1. Juli 2001 in Kraft. Gleichzeitig tritt die
+Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz über den Ausgleich von Kosten vom 1. August 1994 (SächsJMBl. S. 103) verlängert durch Verwaltungsvorschrift vom 25. November 1999 (SächsJMBl. S. 186), außer Kraft.
 
 Dresden, den 19. September 2001
 
