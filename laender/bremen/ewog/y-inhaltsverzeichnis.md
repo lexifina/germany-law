@@ -26,6 +26,7 @@ Inhalt:
 § 19 | Haftung
 § 20 | Ordnungswidrigkeiten
 § 21 | Datenerhebung und -verarbeitung
+§ 21a | Normen des Deutschen Instituts für Normung e. V. (DIN-Normen)
 § 22 | Übergangsvorschriften
 § 23 | Inkrafttreten
 Anhang (zu § 8c Abs. 1: Allgemeine Grenzwerte)
