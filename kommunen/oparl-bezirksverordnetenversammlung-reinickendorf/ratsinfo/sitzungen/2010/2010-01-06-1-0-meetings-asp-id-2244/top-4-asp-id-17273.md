@@ -1,0 +1,7 @@
+# TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: 18. öffentliche Sitzung des Wirtschaftsausschusses (2010-01-06)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=17273
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
