@@ -1,0 +1,82 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1841086
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1841086
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Antrag zum Förderprogramm "Bürgerinnen und Bürger gestalten ihre Stadt - Bürgerbeteiligung in den Stadtvierteln" Projekt: Kinderfreundliche und naturnahe Gestaltung der Grünfläche im Bereich der aufgelassenen Trambahntrasse entlang der Kriegerheimstraße
+- TOP 1.2.: Anstrich der Grundschule an der Blumenauer Straße
+- TOP 1.3.: Rodelhang neben dem Spielplatz zwischen Gelbhofstraße / Am Hedernfeld und Fußgängerbrücke in die Blumenau
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport dazu: Schulweghelfer an der Kreuzung Sauerbruch- / Pfingstrosenstraße (GS Canisiusplatz 2, 21.12.09)
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Antrag des Elternbeirats der Grundschule Canisius auf Gewährung eines Zuschusses aus dem BA-Budget in Höhe von 540,- ? (Direktorium, 15.12.09)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Stiftsbogen 102, 104, 116, 130; Aufstockung (Referat für Stadtplanung und Bauordnung, 10.12.09)
+- TOP 6.2.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene "doppelte Behördenbeteiligung", Antr.-Nr. 1354 des BA 16 vom 28.07.2009 (Direktorium, 15.12.09)
+- TOP 6.3.: Ausschreibung Weltkindertag 2010 (Büro der Kinderbeauftragten, 21.12.09)
+- TOP 6.4.: Beschlussentwurf für den Kulturausschuss vom 11.02.2010: Maßnahmenpaket Innensanierung Guardinistraße 90; Münchner Stadtbibliothek und Münchner Volkshochschule (Kulturreferat, 22.12.09)
+- TOP 6.5.: Werbeanlage: Würmtalstraße 36, 4 beklebte und beleuchtete Großflächen als Bauzaun während der Bauzeit (Referat für Stadtplanung und Bauordnung, 18.12.09)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Würmtalstr. 12, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 26221
+- TOP 7.2.: Pfingstrosenstr. 12, 2 Fichten
+- TOP 7.3.: Am Wiesenhang 30, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 1 Ahorn Langbehnstraße / Walter-Hopf-Weg (Baureferat, 07.12.09)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verteilerplan stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen (Schul- und Kultusreferat, November 09)
+- TOP 8.2.: Bekanntgabe im Kinder- und Jugendhilfeausschuss vom 13.01.2009 zur Sitzungsvorlage-Nr. 08-14 / V 01406: Neue Trägerschaften für Kinderkrippen seit Inkrafttreten des Bayerischen Kinderbildungs- und -betreuungsgesetzes am 01.08.2005
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Haltverbot an der Bushaltestelle Wastl-Witt-Straße (Endhaltestelle der MVG-Linie 168) (Kreisverwaltungsreferat, 03.12.09)
+- TOP 8.4.: Vollzug der Grünanlagensatzung vom 12.08.1991, Stromüberspannung in der Grünanlage an der Hertlstraße (Kreisverwaltungsreferat, 08.12.09)
+- TOP 8.5.: Information über Gleisbauarbeiten zwischen den U-Bahnhöfen "Marienplatz" und "Sendlinger Tor" (MVG, 09.12.09)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Beförderung der Schulkinder mit dem Bus von Fürstenried West nach Hadern (MVG, 30.11.09)
+- TOP 9.2.: Aufstellung eines zweiten Kunststoffcontainers an allen Haderner Wertstoffinseln (AWM, 19.11.09)
+- TOP 9.3.: Parksituation in der Windeckstraße (Referat für Stadtplanung und Bauordnung, 30.11.09)
+- TOP 9.4.: Verschmutzte Grünfläche am Kindergarten Prälat-Wellenhofer-Straße 32 (Baureferat, 08.12.09)
+- TOP 9.5.: Wasserrückstau nach Regenfällen auf Sauerbruchstraße und Stiftsbogen (Münchner Stadtentwässerung, 15.12.09)
+- TOP 9.6.: Ausschilderung Max-Lebsche-Platz 30 - 41 (Kommunalreferat, 17.12.09)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Aufstellung eines Briefkastens im Neubaugebiet südlich der Prälat-Wellenhofer-Straße; Anfrage aus der Bürgerversammlung vom 30.09.2008 (Deutsche Post AG, 07.12.09)
+- TOP 10.2.: Beleuchtung der Treppe vom Einkaufszentrum Haderner Stern zum Parkplatz (Bayerische Versorgungskammer, 07.12.09)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.: Informationsveranstaltung zur Neubaustrecke Tram Westtangente am Mittwoch, 27.01.2010 von 18.00 - 19.30 Uhr in der Stadtwerke Zentrale, Emmy-Noether-Str. 2 (6 BA-Mitglieder angemeldet) (SWM 09.12.09)
+- TOP 11.3.: Bericht 2007 bis 2009 der Antidiskriminierungsstelle für Menschen mit Migrationshintergrund - AMIGRA - der Landeshauptstadt München (Direktorium, 10.12.09)
+- TOP 11.4.: Dokumentation Fachtag am 28.11.08 "Arbeit für alle! Neue Modelle für die Ausbildung und Beschäftigung von Menschen mit Behinderung" (Behindertenbeirat der Landeshauptstadt München, 18.12.09)
+- TOP 11.5.: Münchner Zukunftsreihe: "Älter, bunter, mehr - Soziodemografischer Wandel und die Herausforderung für die Münchner Stadtgesellschaft" am Donnerstag, 28.01.2010 von 19.00 - 21.30 Uhr (Referat für Stadtplanung und Bauordnung, 18.12.09)
+- TOP 11.6.: Münchner Zukunftsreihe: Podiumsdiskussion "Stadtgestalt unde Bürgerwille, haben sich die bisherigen Instrumente und Verfahren bewährt?" am Donnerstag, 21.01.2010 ab 18.30 Uhr im Großen Sitzungssaal des Rathauses (OB Ude, 16.12.09)
+- TOP 11.7.: Die GEWOFAG wird 100%-Tochter der Landeshauptstadt München (GEWOFAG, 18.12.09)
+- TOP 11.8.: Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel / Klimaschutz der Perspektive München, Einladung zur Auftakt- und Abschlussveranstaltung sowie zu thematischen Akteurswerkstätten (Referat für Stadtplanung und Bauordnung, Referat für Gesundheit und Umwelt, 29.12.09)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03351: Haushaltsplan 2010 - Ansätze der zentralen Bereich - Schlussabgleich
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03311: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03168: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 12.1.: Beschluss des Bauausschusses vom 08.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03366: Keine rechtsfreien Räume - neuen Straßen so früh wie möglich wegerechtlich widmen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03346: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03344: Sonderflughafen Oberpfaffenhofen, Aktueller Sachstand
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03345: Handlungsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung der Vollversammlung vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03421: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 12.2.: Bekanntgabe im Schul- und Sportausschuss vom 02.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03271: Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2009
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
