@@ -1,0 +1,81 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2225169
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2225169
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bauzaun Berberitzenstraße: Ergänzungen zu Protokoll Sitzung vom 01.06.2010
+- TOP 1.2.: Entsendung eines Vertreters des BA in den Beirat des "Stadtteilkulturvereins 2411"
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Init. "Pro Migrakunst" Fachtagung am 19./20.02.2011 im Gasteig
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Voilá! Opera! e.V. Projekt "Oper in Schulen" im Frühjahr 2011 an der Grundschule Waldmeisterstraße
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Kulturhistorischer Verein Feldmoching auf dem Gfild e.V. Ausstellung über Lagerkunst des DP-Lagers Schleißheim vom 11.03. - 07.05.2011
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt Evangeliumskirche Konzerte 2011
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V: Dorffasching in Feldmoching am 06.03.2011
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Caritas Kinder- und Jugendtreff Jump In: Projekt Ludwigsfelder Treff für Jung und Alt
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung Mariä Sieben Schmerzen Heimkehrerlicht auf der Fassade des Hauses Lichtblick
+- TOP 3.1.: Rasche Realisierung der Bahnüberführung Fasanerie
+- TOP 3.2.: Verkehrsanbindung in der Lerchenau
+- TOP 3.3.: Forderung nach Veröffentlichung der sog. Machbarkeitsstudie von 2010 bzgl. Bahnübergang Fasanerie
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Vollzug der Baumschutzverordnung (Bauvorhaben): 5.1.1. Detmoldstr.40 5.1.2 Weitlstr. 45a
+- TOP 5.2.: Vollzug der Baumschutzverordnung (Baumfällung): 5.2.1 Detmoldstr. 40 5.2.2 Franz-Sperr-Weg 6
+- TOP 5.3.: Bauvorhaben Ausbau der Detmoldstraße (2. Bauabschnitt)
+- TOP 5.4.: Regsam - Beschlussentwurf zur Fortführung auf ehrenamtlicher Basis
+- TOP 5.5.: Veranstaltung in städt. Grünanlage: Goldschmiedplatz; Flohmarkt des Bewohnerstammtisches Hasenbergl ab 09.04.2011
+- TOP 5.6.: Mobilfunk; Suchkreismeldung im Suchkreis M-Oberwiesenfeld
+- TOP 5.7.: Bauvorhaben Feldmochinger Str. 204 (Nutzungsänderung)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Beleuchtung für die Fußgängerunterführung an der Herbergstraße sowie Zuwegung von Osten/Westen (-&gt; BA-Antrag Nr. 08-14/B 00518 vom 14.10.2008)
+- TOP 6.2.: Bau eines Kinder- und Jugendspielplatzes inkl. Bolzplatz in Feldmoching (-&gt; BA-Antrag Nr. 08-14/B 00774 vom 13.01.2009)
+- TOP 6.3.: Schaffung von ausreichenden Hort- und Kindergartenplätzen sowie Verbesserung der Situation der Mittagsbetreuung (Fasanerie, Siedlung Lerchenauer See, Feldmoching) (-&gt; BA-Antrag Nr. 08-14/B 01110 vom 05.05.2009)
+- TOP 6.4.: Halteverbot ggü Zufahrt auf der Schrederwiesen 12/14 auf Länge von 26m (-&gt; BA-Antrag Nr. 08-14/B 01773 vom 08.12.2009)
+- TOP 6.5.: Parkplatzerweiterung ggü Reigersbachstraße 35, 35a, 37, 37a, 39 (-&gt; BA-Antrag Nr. 08-14/B 02081 vom 13.04.2010)
+- TOP 6.6.: Postzustellung durch Postdienstleister Süd-Post (-&gt; BA-Antrag Nr. 08-14/B 02445 vom 04.10.2010)
+- TOP 6.7.: Einrichtung einer Bücherbushaltestelle wg Schließung Stadtteilbibliothek Hasenbergl (-&gt; BA-Antrag Nr. 08-14/B 02447 vom 05.10.2010)
+- TOP 6.8.: Standort Naturkindergarten in der Fasanerie (-&gt; BA-Antrag Nr. 08-14/B 01362 vom 20.07.2009)
+- TOP 6.9.: Radwege im Rangierbahnhof - Nachbesserung der bereits durchgeführten Arbeiten (-&gt; Antrag TOP N 3.10 am 09.11.2010)
+- TOP 6.10.: Forderung eines Zebrastreifens auf der Josef-Frankl-Straße (-&gt; Antrag Nr. 7/1 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.11.: Kreuzung Lerchenauer Straße/Irisstraße: Verlegung Fußgängerampel (-&gt; Antrag Nr. 7/3 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.12.: Geh- und Radweg zwischen Moosglöckchenweg und Borsigstraße (-&gt;Zwischennachricht zu Antrag TOP 4.3 am 07.12.2010)
+- TOP 6.13.: LKW-Parkverbot in der Augustin-Röschstraße sowie Olschewskibogen (-&gt; Antrag TOP 3.3 am 13.10.2009)
+- TOP 6.14.: Gewährung eines Zuschusses aus dem BA-Budget: Schützengesellschaft Altbayern e.V. (hier: Kurzbericht/ Verwendungsnachweis)
+- TOP 6.15.: Gewährung eines Zuschusses aus dem BA-Budget: Evangeliumskirche Mchn-Hasenbergl (hier: Sachbericht/ Verwendungsnachweis)
+- TOP 6.16.: Gewährung eines Zuschusses aus dem BA-Budget: Elternbeirat Grundschule Paulckestr. (hier: Zwischenbericht zum Tanzprojekt)
+- TOP 6.17.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.18.: Meldelisten Baumfällungsanträge
+- TOP 6.19.: Meldelisten Bauvorhaben
+- TOP 6.20.: Unterrichtung über Freigabe Fällung Bäume (Baugenehmigung Karlsfelder Str. 16)
+- TOP 6.21.: MVG: Information über Betriebskonzept während Kabelarbeiten (Stellwerk Scheidplatz)
+- TOP 6.22.: Verkehrsrechtliche Anordnungen: 6.22.1 Lassallestraße/Max-Wönner-Straße/Franz-Fackler-Straße (Engerfassung der Kreuzung mittels Markierungen) 6.22.2 Ittlinger Straße (Ausweichstelle für den Linienbusverkehr)
+- TOP 6.23.: Anträge auf unveränderte Fortführung Gaststättenbetriebe: 6.23.1 Eberwurzstr. 28 6.23.2 Lerchenauer Str. 189 6.23.3 Weitlstr. 115
+- TOP 6.24.: Baumaßnahmen der Stadtwerke München: 6.24.1 Wasserprojekt Aschenbrennerstraße 6.24.2 Stromprojekt Mitteisstraße (Terminänderung) 6.24.3 Stromprojekt Opal-/Robinstraße (Terminänderung) 6.24.4 Stromprojekt Siedlung am Lerchenauer See (Terminänderung)
+- TOP 6.25.: Verfügung Direktorium: Änderung Präsentation bei Bürgerversammlungen
+- TOP 6.26.: Veranstaltungen Münchner Hoagart 'n 2011
+- TOP 6.27.: Regsam: Auszeichnung als "good-practice" Netzwerk
+- TOP 6.28.: Heldengedenkmarsch 2010 (Information zur Veranstaltung am 13.11.2010)
+- TOP 6.29.: Information Direktorium: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse. Hier: Ziffer 20 Veranstaltungen nach dem Versammlungsgesetz (-&gt; zu TOP 5.3 am 07.12.2010)
+- TOP 6.30.: Beschlussvorlage Sozialreferat: Ergänzung zu Beschlußvorlage Haushaltsplan 2011 (-&gt; TOP 6.26 am 07.12.2010)
+- TOP 6.31.: Beschlussvorlage Sozialreferat: Ergänzung zu Beschlussvorlage Haushaltsplan 2011 (-&gt; TOP 6.27 am 07.12.2010)
+- TOP 6.32.: Beschlussvorlage Sozialreferat: Ergänzung zu Beschlussvorlage Haushaltsplan 2011 (-&gt; TOP 6.28 am 07.12.2010)
+- TOP 6.33.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Mobilität in Deutschland (MiD); Befragung zum Alltagsverkehr in München
+- TOP 6.34.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: München setzt auf's Rad 2; von Nachbarn in Niederlanden und in Dänemark lernen
+- TOP 6.35.: Beschlussvorlage Baureferat: Neuerlass der Straßenreinigungs- und -sicherungsverordnung
+- TOP 6.36.: Beschlussvorlage Baureferat: Mehrjahresinvestitionsprogram für dei Jahre 2010-2014 mit verbindlicher Planung für 2015
+- TOP 6.37.: Beschlußvorlage Referat für Bildung und Sport: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2010
+- TOP 6.38.: Beschlussvorlage Stadtkämmerei: Haushaltsplan 2011: Ansätze der zentralen Bereiche, Schlußabgleich
+- TOP 6.39.: Beschlussvorlage Stadtkämmerei: Mittelfristige Finanzplanung 2010-2014
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Planung der Einsätze der Münchner Spielaktion 2011: Platzvorschläge
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
