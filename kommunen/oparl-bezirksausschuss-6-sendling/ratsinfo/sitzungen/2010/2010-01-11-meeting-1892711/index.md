@@ -1,0 +1,56 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-01-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1892711
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1892711
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Kriminalitätsentwicklung in Sendling
+- TOP 2.2.: Vorstellung der Arbeit des H-TEAM e. V.
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Einrichtung einer Tagespflege in Sendling
+- TOP 3.2.: Bauvorhaben des SKF mit KMFV auf dem Grundstück Plinganserstr. 27 - 31 und Kidlerstr. 34
+- TOP 3.3.: Ausschreibung Weltkindertag 2010
+- TOP 4: Schulreferat
+- TOP 4.1.: Sportinfrastrukturmaßnahmen in München
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Antrag auf Einführung eine Tempo-30-Zone in der Bruderhofstraße
+- TOP 6.2.: Kahlschlag auf dem Grundstück Anwesen Karwendelstraße 11 - 17 anlässlich der Einrichtung von Feuerwehrzufahrten
+- TOP 6.3.: Start der Parklizenzgebiete Herzog-Ernst-Platz und Untersendling zum 01.03.2010
+- TOP 6.4.: Verkehrsprobleme am Containerstandort Pullacher Platz / Ludwig-Kraft-Str., am Radweg zwischen Pullacher Platz und Thalkirchner Str., sowie an der Ein-/Ausfahrt des Wertstoffhofes Thalkirchner Straße - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 6.5.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen
+- TOP 7.1.: Budgetantrag Himmelfahrtskirche, Konzert am 20.03.10; ? 4150,-
+- TOP 7.2.: Teilnahme der Bezirksausschüsse an Wettbewerben; Benennung und Entsendung von Stellvertretern
+- TOP 7.3.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Barrierefreier Ausbau der S-Bahn München; Umgestaltung des S-Bahnhofes Am Harras
+- TOP 8.3.: Bauliche Nutzung des Innenhofes zwischen Aberlestr. 31 - 35 und Danklstr. 14 - 18
+- TOP 8.4.: Bauvorhaben Senserstr. 3 RG
+- TOP 8.5.: Bauvorhaben Berlepschstr. 12
+- TOP 8.6.: Bauvorhaben Urbanstr. 20
+- TOP 8.7.: Bauvorhaben Schäftlarnstr. 70
+- TOP 8.8.: Bauvorhaben Implerstr. 1
+- TOP 8.9.: Bauvorhaben Thalkirchner Str. 190
+- TOP 8.10.: Unterrichtung bei Anträgen auf Ausstellung von Abgeschlossenheitsbescheinigungen
+- TOP 8.11.: Gesamtkonzept Bahnknoten München; 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 9: Baureferat
+- TOP 9.1.: Errichtung von Tütenspendern in Sendling
+- TOP 9.2.: Ausastung der Straßenbäume in der Bruderhofstraße; Verwendung von Laubbläsern
+- TOP 10: Baum- und Umweltschutz
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Haushaltsplan 2010 (keine Kopie für die Fraktionen erstellt)
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
