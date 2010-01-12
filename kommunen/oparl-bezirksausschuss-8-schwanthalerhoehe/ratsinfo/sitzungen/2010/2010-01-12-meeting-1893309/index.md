@@ -1,0 +1,55 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893309
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893309
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.: Vorstellung des Gutachtens über elektromagnetische Felder am Bahndeckel
+- TOP 2: Annahme der Tagesordnung
+- TOP 3: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4: Beschlüsse des BA 8
+- TOP 4.1.: Standortgenehmigung für Parkscheinautomaten Lizenzgebiet Ridlerstraße
+- TOP 5: Anhörungen
+- TOP 5.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung
+- TOP 6: Berichte der Unterausschüsse und Beschlussfassungen über Anträge und Beschlussempfehlungen aus den Unterausschüssen
+- TOP 6.1: Bericht UA Planen, Wohnen und Gewerbe
+- TOP 6.1.1.: Meldelisten
+- TOP 6.1.2.: Anhörung zum Bauvorhaben Ridlerstraße 37 inklusive Baumfällungen
+- TOP 6.1.3.: Anhörung zur Werbetafel in der Landsberger Str. 154
+- TOP 6.1.4.: Beschlussantrag zur IG Feuerwache
+- TOP 6.1.5.: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 6.2: Bericht UA Soziales, Jugend und Senioren
+- TOP 6.3: Bericht UA Integration und Kultur
+- TOP 6.4: Bericht UA Umwelt und Verkehr
+- TOP 6.4.1.: Gitterversperrung auf der Theresienwiese
+- TOP 6.4.2.: Parkraummanagement in der Schwanthalerhöhe u.a. -Kreuzungsbereich Ganghoferstraße/Ecke Gollierstraße -Westendstraße
+- TOP 6.4.3.: Stellungnahme: Außerordentliche Bürgerversammlung zur 2. S-Bahn-Stammstrecke München
+- TOP 6.4.4.: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 6.4.5.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 6.4.6.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen
+- TOP 6.4.7.: Umlaufsperren in Grünanlagen
+- TOP 6.5: Bericht UA Budget und Finanzen
+- TOP 6.5.1.: Entscheidung über den Budgetantrag "Projekt KIM" i.H.v. 2.000,- Euro
+- TOP 7: Erledigungen
+- TOP 7.1.: Müllproblem am Heimeranplatz
+- TOP 7.2.: Müllproblem am Georg-Freundorfer-Platz
+- TOP 7.3.: Barrierefreier Steg zwischen Hacker- und Donnersbergerbrücke
+- TOP 7.4.: Sanierungs- und Verkaufsabsichten im förmlich festgelegten Sanierungsgebiet der Schwanthalerhöhe
+- TOP 7.5.: Bauvorhaben Ridlerstraße: Fassadengestaltung
+- TOP 7.6.: Verbotswidriger Durchgangsverkehr über den Heimeranplatz
+- TOP 8: Anträge
+- TOP 9: Unterrichtungen
+- TOP 9.1.: Sitzung der Bezirksausschuss-Satzungskommission am 20.01.2010
+- TOP 10: Verschiedenes
+- TOP 10.1.: Platzvorschläge für die Münchner Sommer SpielAktion 2010
+- TOP 10.2.: Ausschreibung zur Ausrichtung des Weltkindertages 2010
+- TOP 11: Protokoll und Umlauf
