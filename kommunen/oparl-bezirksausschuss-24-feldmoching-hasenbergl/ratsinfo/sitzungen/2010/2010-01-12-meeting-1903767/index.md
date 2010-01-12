@@ -1,0 +1,82 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1903767
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1903767
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Euro-Trainigs-Centre ETC e. V.; Bau eines Bewegungs- und Sinnesparcours (Schreiben des Direktoriums)
+- TOP 2.2.: Ausbau des Löwenzahnweges als Verkehrsberuhigten Bereich
+- TOP 2.3.: Ausbau des Blaukissenweges
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Evangeliumskirche; Konzerte
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung; Anpassung des Anhörungsrechts für Bezirksausschüsse an die in §4 BauGB n..F. nunmehr vorgesehene "doppelte Behördenbeteiligung"
+- TOP 5.2.: City Bike Marathon am 18.04.2010
+- TOP 5.3.: Ausschreibung Weltkindertag 2010
+- TOP 5.4.: Nutzung des Dülferangers vom 18.06. bis 20.06.2010
+- TOP 5.5.: Feldmochinger Dorffasching am 14.02.2010
+- TOP 5.6.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; WEBA Wertstoffhandel & -erfassung GmbH
+- TOP 5.7.: Vollzug des Allgemeinen Eisenbahngesetzes; Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen
+- TOP 5.8.: Vollzug der Baumschutzverordnung; Einzelmaßnahmen a) Dülferstr. 59 b) Dülferstr. 120 c) Dülferstr. 14
+- TOP 5.9.: Vollzug der Baumschutzverordnung; Baumaßnahmen a) Bernhardstr. 37 b) Eberwurzstr. 17
+- TOP 5.10.: Anhörung Bauvorhaben auf Anforderung, a) Steinheide 16 b) Lerchenstr. 66 c) Bernhardstr. 37 d) Eberwurzstr. 17 e) Lerchenauer Str. 255
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Erhalt der Eggartensiedlung in der Lerchenau
+- TOP 6.2.: Vermeidung von Schimmelbildung im Kindergarten an der Lerchenauer Str. 322
+- TOP 6.3.: Widmung einer Teilstrecke der Röhrichtstraße
+- TOP 6.4.: Bahnübergang Berberitzenstraße
+- TOP 6.5.: S-Bahnhof Fasanerie: Schaffung weiterer Fahrradstellplätze
+- TOP 6.6.: Abfallproblem am Fasaneriesee
+- TOP 6.7.: Fällungsgenehmigung Maßliebchenstr. 15
+- TOP 6.8.: Fällungsantrag Franz-Sperr-Weg 14
+- TOP 6.9.: Stadtteilwoche 2012 Feldmoching-Hasenbergl-Nordhaide-Hart
+- TOP 6.10.: Sportinfrastrukturmaßnahmen in München Sachstandsbericht 2009
+- TOP 6.11.: Bericht über das Mitmachfestival Showtime des Caritas-Generationenhauses Ludwigsfeld
+- TOP 6.12.: Die GEWOFAG wird 100%-Tochter der Landeshauptstadt München
+- TOP 6.13.: Eigentumsübergang an zwei Grundstücken (Dachauer Straße) aufgrund eines Wechsels der Straßenbaulast
+- TOP 6.14.: Abbau eines Halteverbotes in der Detmoldstraße
+- TOP 6.15.: Anordnung eines Halteverbotes in der Detmodstraße 11
+- TOP 6.16.: Haltverbot an der Bushaltestelle Stösserstraße
+- TOP 6.17.: Fällung von Gefahrbäumen
+- TOP 6.18.: Erwerb von Grundstücksflächen (Ludwigsfeld)
+- TOP 6.19.: Erwerb von Grundstücksflächen (Feldmoching)
+- TOP 6.20.: Antidiskriminierungsarbeit für Menschen mit Migrationshintergrund (Broschüre) Bericht 2007 bis 2009
+- TOP 6.21.: Umlaufsperren in Grünanlagen
+- TOP 6.22.: Siedlung am Lerchenauer See (Antwort auf Bürgerschreiben)
+- TOP 6.23.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen (Stadtratsantrag)
+- TOP 6.24.: Erstmalige Herstellung der Karlsfelder Straße
+- TOP 6.25.: Weihnachtsbeleuchtung im städtischen Einflussbereich, Auftrag aus dem Beschluss des Bauausschusses vom 18.11.2009
+- TOP 6.26.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP 6.27.: Kanalbau im Umgriff des Bebauungsplanes Nr. 1688 b "Löwenzahnweg"
+- TOP 6.28.: Fuß- und Radwegbrücken in München
+- TOP 6.29.: Sanierung des Betriebsgebäudes Granatstr. 10
+- TOP 6.30.: Fällungsgenehmigung Luitfriedstraße 18
+- TOP 6.31.: Absolutes Haltverbot in der Sonnentaustraße
+- TOP 6.32.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2010 (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 6.33.: Meldeliste Bauvorhaben
+- TOP 6.34.: Meldeliste Baumfällungsanträge
+- TOP 6.35.: Abgeschlossenheitsbescheinigungen - nicht-öffentlich -
+- TOP 6.36.: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 6.37.: Filmaufnahmen auf öffentlichem Verkehrsgrund: Hainbuchenstraße
+- TOP 6.39.: Handlungsprogramm Mittlerer Ring
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr, Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport, Soziales
+- TOP 7.3.: Unterausschuss Kultur, Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 6.38.: Grundschul- und Kindertagesstättenanlage Lerchenauer Str. 322
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
