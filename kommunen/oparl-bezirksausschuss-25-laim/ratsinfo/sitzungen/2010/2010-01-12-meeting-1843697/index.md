@@ -1,0 +1,122 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843697
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843697
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.0: Benennung eines / einer Seniorenbeauftragten
+- TOP 1.2.1.: Parksituation in der Schäufeleinstraße
+- TOP 1.2.2.: Umwandlung der Ronpeckhstraße in eine Spielstraße
+- TOP 1.2.3.: Umbauarbeiten in der Gotthardstraße
+- TOP 1.2.4.: Verkehrsberuhigung Lutzstraße (Teilstück zwischen Perhamerstraße und Landsberger Straße)
+- TOP 1.2.5.: Mietwohnanlagen Reithmannstr. 8 + 10 und Justinus-Kerner-Str. 8 + 10; Einrichtung eines einseitigen Haltverbots in der Reithmannstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU-Fraktion: Aufstellung von Warnschildern (Vorsicht Schule / Vorsicht Kinder) nach Fertigstellung der Lukasschule
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Willibaldplatz 5
+- TOP 3.2.: Beschlussvorlage KVR: Entscheidung über die Sondernutzungserlaubnis (mobiler Fahrradständer) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Willibaldplatz 5
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 25.11.09: Flohmarkt auf dem Hogenbergplatz am 13.03.10 und 20.03.10
+- TOP 4.2.: Schreiben KVR vom 25.11.09: Flohmarkt auf dem Hogenbergplatz am 17.04.10 und 08.05.10
+- TOP 4.3.: Schreiben KVR vom 25.11.09: Flohmärkte auf dem Hogenbergplatz im Frühjahr und Herbst (24.04.10 und 18.09.10)
+- TOP 4.4.: Schreiben KVR vom 30.11.09: Flohmarkt am Laimer Platz am 24.04.09
+- TOP 4.5.: Schreiben KVR vom 11.12.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 13.03.10
+- TOP 4.6.: Schreiben KVR vom 09.12.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 23.04.10
+- TOP 4.7.: Schreiben KVR vom 17.12.09: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 24.04.10
+- TOP 4.8.: Schreiben KVR vom 09.12.09 und 17.12.09: Laimer Faschingstreiben auf dem Laimer Anger am 13.02.10
+- TOP 4.9.: Schreiben KVR vom 22.12.09: Stadtteilwoche auf dem Laimer Anger vom 14.05-21.05.2010
+- TOP 4.10.: Schreiben Spielen in der Stadt e.V. vom 11.11.09: Planung der Einsätze der Münchner Sommer SpielAktion 2010 (Vertagung aus der BA-Sitzung vom 01.12.09)
+- TOP 4.11.: Schreiben Sozialreferat vom 30.11.09: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013; Haus für Kinder Elsenheimerstr. 7-13 (Elly&Stoffl GmbH) mit 60 Kinderkrippenplätzen und 46 Kindergartenplätzen / Umbau
+- TOP 4.12.: Schreiben Direktorium vom 15.12.09: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung, Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n. F. nunmehr vorgesehene "doppelte Behördenbeteiligung" (Antrag Nr. 08-14 / B 01354 des BA 16 Ramersdorf-Perlach vom 28.07.09)
+- TOP 4.13.: Schreiben Direktorium vom 17.12.09: Außerordentliche Bürgerversammlung für alle Münchner Bürger zur 2. S-Bahn-Stammstrecke München mit den Schwerpunkten Sicherheit und gute Vernetzung mit anderen Verkehrsmitteln (Empfehlung Nr. 08-14 / E 00494 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 01.12.09)
+- TOP 4.14.: Schreiben Sozialreferat vom 21.12.09: Ausschreibung Weltkindertag 2010
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Perhamerstr. 78, Neubau eines "Hotel Garni" mit 18 Einheiten und Tiefgarage (10 Stpl.) / Tektur; hier: Baupläne
+- TOP 5.2.: Agnes-Bernauer-Str. 105: Neubau eines Mehrfamilienhauses; hier: Baupläne
+- TOP 5.3.: Landsberger Str. 263-273: Modernisierung mit DG-Aufstockung, Anbringen von Wärmedämmung und Balkonanbau (Landsberger Str. 263-271); Neubau (Landsberger Str. 273) / Tektur; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Stadtwerke München GmbH vom 09.10.09: Informationsveranstaltung am 27.01.10 bzgl. Neubaustrecke Tram Westtangente
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 01.12.09
+- TOP 7.2.: Gemeinsamer Ortstermin des UA Umwelt / Verkehr und Planen / Bauen vom 27.11.09
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Stadtwerke München GmbH vom 17.11.09: Tram-Gleis wird wieder Grüngleis (Antrag Nr. 02-08 / B 02852 vom 29.01.08)
+- TOP 8.2.: Schreiben MVG vom 20.11.09: Fahrgasterhebung bei der U 4 / U 5 (Antrag Nr. 08-14 / B 01605 vom 03.11.09)
+- TOP 8.3.: Schreiben KVR vom 04.11.09: Änderung des Zeitzusatzes an der Schulbushaltestelle der Grundschule an der Camerloherstr. 110
+- TOP 8.4.: Schreiben KVR vom 03.11.09: Verlegung des baustellenbedingten personenbezogenen Behindertenparkplatzes von der Mitterhoferstr. 12 in die Schäufeleinstr. 22
+- TOP 8.5.: Schreiben KVR vom 20.11.09: Zustand Laimer Unterführung; Umsetzung kurzfristiger Maßnahmen zur Verbesserung der Situation (Antrag Nr. 08-14 / B 01128 vom 05.05.09)
+- TOP 8.6.: Schreiben KVR vom 03.12.09: Gehwegparken vor dem Cafe Detterbeck in der Agnes-Bernauer-Str. 89
+- TOP 8.7.: Schreiben KVR vom 04.12.09: Neubau einer Lichtzeichenanlage auf der Friedenheimer Brücke
+- TOP 8.8.: Schreiben KVR vom 18.12.09: Parken auf dem Gehweg in der Schäufeleinstraße, insbesondere auf der Südseite im Abschnitt zwischen Mitterhofer- und Elsenheimer Straße (Anfrage Nr. 08-14 / Q 00143 aus der Bürgerversammlung vom 17.11.09)
+- TOP 8.9.: Schreiben KVR vom 03.12.09: Erteilung von Sondernutzungserlaubnissen für Warenauslagen; Beschluss der Vollversammlung des Stadtrates vom 25.11.09
+- TOP 8.10.: Schreiben KVR vom 10.12.09: Kleingaststätte "Bierstüberl", Friedenheimer Str. 112; unveränderte Fortführung
+- TOP 8.11.: Schreiben KVR vom 15.12.09: Gaststätte "Absolut", Landsberger Str. 216; Antrag auf Neuerrichtung
+- TOP 8.12.: Schreiben KVR vom 15.12.09: Gaststätte "Eros", Landsberger Str. 216 A; Antrag auf Neuerrichtung
+- TOP 8.13.: Schreiben Direktorium vom 13.07.09: Gespräch der 2. Bürgermeisterin mit den Vorsitzenden der Bezirksausschüsse am 09.07.09
+- TOP 8.14.: Schreiben Direktorium vom 23.11.09: Zuwendung aus dem Budget des BA 25; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V. (Bewegungsbaustelle 18.05. - 20.05.09 ) und Zirkus Pumpernudl (25.05. - 27.05.09)
+- TOP 8.15.: Schreiben Direktorium vom 23.11.09: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Eltern-Kind-Initiative Laimer Strolche e.V.
+- TOP 8.16.: Schreiben Direktorium vom 25.11.09: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Eltern-Kind-Initiative Die Bärchen e.V.
+- TOP 8.17.: Schreiben Direktorium vom 25.11.09: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.18.: Schreiben Direktorium vom 25.11.09: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.19.: Schreiben Direktorium vom 27.11.09: Zuwendung aus dem Budget des BA 25; Antragsteller: Jazzclub München e.V.
+- TOP 8.20.: Schreiben Direktorium vom 09.12.09: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Sportverein München-Laim e.V.
+- TOP 8.21.: Schreiben Schul- und Kultusreferat vom 04.11.09: Städtische Kindertageseinrichtung Camerloherstr. 108, Saherrstr. 60; hier: dreigruppiger Kindergarten und (neu) fünfgruppiger Hort
+- TOP 8.22.: Schreiben Schul- und Kultusreferat vom November 2009: Stadtteilbezogenes Verzeichnis der städtischen Kindergärten, Horte und Kooperationseinrichtungen
+- TOP 8.23.: Schreiben Schul- und Kultusreferat vom 09.12.09: Entwicklung eines Konzeptes mit zeitlichen Vorgaben für die Errichtung des Tagesheimbetriebes an den städtischen Grundschulen im Stadtbezirk (Antrag Nr. 08-14 / B 01516 vom 06.10.09)
+- TOP 8.24.: Schreiben Sozialreferat vom 01.12.09: Information bzgl. Neue Trägerschaften für Kinderkrippen seit Inkrafttreten des Bayerischen Kinderbildungs- und betreuungsgesetzes am 01.08.05
+- TOP 8.25.: Schreiben Sozialreferat vom 21.12.09: Zweckentfremdung von Wohnraum; Vosslerstraße
+- TOP 8.26.: Schreiben Markthallen München vom 23.11.09: Vollzug des Straßen- und Wegegesetzes (BayStrWG) und der Straßenverkehrsordnung (StVO); Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis für den Bauernmarkt Laim / Agnes-Bernauer-Straße
+- TOP 8.27.: Schreiben Markthallen München vom 01.12.09: KomPro/B oder KomPro/C; Fl.st. 47 Gemarkung Laim, Agnes-Bernauer-Str. 77-79
+- TOP 8.28.: Schreiben Baureferat vom 03.12.09: Zusätzliche Abfallbehälter in der Fürstenrieder Straße / Ecke Gotthardstraße, Kirchmairstraße, Hogenbergstraße, Valpichlerstraße (Anfrage Nr. 08-14 / Q 00144 aus der Bürgerversammlung vom 17.11.09)
+- TOP 8.29.: Schreiben Baureferat vom 09.12.09: Errichtung eines Stegs von der Landsberger Straße über die Gleisanlagen als zusätzliche Fußgängerverbindung der Stadtbezirke 25 Laim und 9 Neuhausen-Nymphenburg (Anfrage Nr. 08-14 / Q 00145 aus der Bürgerversammlung vom 17.11.09)
+- TOP 8.30.: Schreiben Baureferat vom 22.12.09: Erweiterung der Fahrradabstellanlagen an allen U-Bahnhöfen im Stadtbezirk 25 Laim (Antrag Nr. 08-14 / B 01568 vom 06.10.09)
+- TOP 8.31.: Schreiben Baureferat vom 21.12.09: Sanierung der Fahrbahn der Ludwig-Richter-Straße (Antrag Nr. 08-14 / B 01485 vom 15.09.09)
+- TOP 8.32.: Schreiben Baureferat vom 07.12.09: Unterrichtung über das Fällen von Gefahrenbäumen; Schule Camerloherstr. 110 und Schrobenhausener Str. 15
+- TOP 8.33.: Schreiben Baureferat vom 04.12.09: Unterrichtung über das Fällen von Gefahrenbäumen; Gotthardstraße, Landsberger Straße, Friedenheimer Straße, Burgkmairstraße, Ludwig-Richter-Straße, Sandratstraße, Von-der-Pfordten-Straße, Agricolaplatz, Grünanlage Von-der-Pfordten-Straße, Aindorferstraße, Agnes-Bernauer-Straße, Willibaldplatz
+- TOP 8.34.: Schreiben Stadtkämmerei vom 04.12.09: Unterlagen für die Beratung und Verabschiedung des Haushaltsplanentwurfs 2010
+- TOP 8.35.: Schreiben Planungsreferat vom 23.10.09: Agricolastr. 59; Neubau eines Einfamilienhauses (RGB)
+- TOP 8.36.: Bautenliste vom 16.11.-22.11.09 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 41 b) Hönlestr. 21 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 293
+- TOP 8.37.: Bautenliste vom 23.11.-29.11.09: 1. Erstantragsverfahren a) Viebigplatz 8
+- TOP 8.38.: Bautenliste vom 30.11.-06.12.09 1. Erstantragsverfahren a) Schäufeleinstr. 2 b) Camerloherstr. 69
+- TOP 8.39.: Bautenliste vom07.12.-13.12.09 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 105 2. Änderungsverfahren a) Perhamerstr. 78
+- TOP 8.40.: Bautenliste vom 14.12.-20.12.09 1. Erstantragsverfahren a) Joergstr. 90 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Ofener Str. 19
+- TOP 8.41.: Schreiben Planungsreferat vom 23.11.09: Liste der beantragten Baumfällungen vom 16.11. - 22.11.09
+- TOP 8.42.: Schreiben Planungsreferat vom 14.12.09: Liste der beantragten Baumfällungen vom 07.12.-13.12.09
+- TOP 8.43.: Schreiben Planungsreferat vom 21.12.09: Liste der beantragten Baumfällungen vom 14.12.-20.12.09
+- TOP 8.44.: Schreiben Stadtwerke München GmbH vom 23.11.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 23.11.09
+- TOP 8.45.: Schreiben Stadtwerke München GmbH vom 30.11.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 30.11.09
+- TOP 8.46.: Schreiben Stadtwerke München GmbH vom 07.12.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 07.12.09
+- TOP 8.47.: Schreiben Stadtwerke München GmbH vom 14.12.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 14.12.09
+- TOP 8.48.: Schreiben Stadtwerke München GmbH vom 21.12.09: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 21.12.09
+- TOP 8.49.: Schreiben Kulturreferat vom 15.12.09: Jahresübersicht 2009
+- TOP 8.50.: Beschluss des Bauausschusses vom 17.11.09: Fuß- und Radwegbrücken in München (Sitzungsvorlagen Nr. 08-14 / V 02063)
+- TOP 8.51.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.09: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung (Sitzungsvorlagen Nr. 08-14 / V 03168)
+- TOP 8.52.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz (Sitzungsvorlagen Nr. 08-14 / V 03311)
+- TOP 8.53.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Zustimmung zur Durchführung 2010 (Sitzungsvorlagen Nr. 08-14 / V 03346)
+- TOP 8.54.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: Handlungsprogramm Mittlerer Ring; Wohnen am Ring -Fortführung des Förderprogramms (Sitzungsvorlagen Nr. 08-14 / V 03345)
+- TOP 8.55.: Bekanntgabe im Schul- und Sportausschuss vom 02.12.09: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2009 (Sitzungsvorlagen Nr. 08-14 / V 03271)
+- TOP 8.56.: Beschluss des Bauausschusses vom 08.12.09: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen (Sitzungsvorlagen Nr. 08-14 / V 03366)
+- TOP 8.57.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 16.12.09: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens, a) Untersuchungsergebnisse 2009: "vergleichende Untersuchung S-Bahn-Tunnel / Südring" und "Gutachten zur Flughafenanbindung", b) Umplanung des 2. S-Bahn-Tunnels im Ostabschnitt mit Haltepunkt Ostbahnhof (tief), c) beabsichtigtes weiteres Vorgehen (Sitzungsvorlagen Nr. 08-14 / V 03421)
+- TOP 8.58.: Schreiben des BA 10 Moosach vom 22.12.09: Ameisenplage auf Spielplätzen und Bürgersteigen (Antrag des BA 10 vom 14.10.09)
+- TOP 8.59.: Infobrief Nr. 25 / Dezember 2009 sowie Zuleitung aus der Sitzung der Vollversammlung des Ausländerbeirates am 16.11.2009
+- TOP 8.60.: Schreiben Baureferat vom 09.11.09: Dokumentation Expertenhearing Baumschutz am 16.10.08
+- TOP 8.61.: Schreiben Sozialreferat vom 11.11.09: Stadtjugendamt / Angebote der Jugendhilfe; Jahresbericht 2008
+- TOP 8.62.: Schreiben Lilalu vom 30.11.09: Lilalu e.V. Geschäftsbericht 2009
+- TOP 8.63.: Schreiben Direktorium vom 10.12.09: Bericht 2007 bis 2009 der Antidiskriminierungsstelle für Menschen mit Migrationshintergrund -AMIGRA-der Landeshauptstadt München
+- TOP 8.64.: Schreiben Behindertenbeirat der LH München vom 18.12.09: Dokumentation des Fachtages "Arbeit für alle"
+- TOP 8.65.: Broschüre Direktorium / Statistisches Amt: Münchner Statistik, 2. Quartalsheft, Jahrgang 2009
+- TOP 8.66.: Schreiben GEWOFAG vom 18.12.09: Die GEWOFAG wird 100 %- Tochter der LH München
+- TOP 8.67.: Schreiben Oberbürgermeister vom 16.12.09: Münchner Zukunftsreihe: Veranstaltung "Älter, bunter, mehr - Soziodemografischer Wandel und die Herausforderungen für die Münchner Stadtgesellschaft" am 28.01.2010
+- TOP 8.68.: Schreiben Oberbürgermeister vom 16.12.09: Münchner Zukunftsreihe: Verantstaltung "Stadtgestalt und Bürgerwille, haben sich die bisherigen Instrumente und Verfahren bewährt?" am 21.01.10
+- TOP 8.69.: Schreiben Oberbürgermeister vom 16.12.09: Münchner Zukunftsreihe: Veranstaltung "Zukunft Prekariat? Prekäre Arbeitsverhältnisse, Verarmungstendenzen und Gegenstrategien" am 04.02.2010
+- TOP 8.70.: Schriftverkehr aus der BA-Sitzung vom 01.12.09
+- TOP 1.2: Bürgerpost an den BA
