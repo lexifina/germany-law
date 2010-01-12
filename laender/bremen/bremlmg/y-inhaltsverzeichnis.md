@@ -70,8 +70,14 @@ Abschnitt 8 | Datenschutz
 § 56 | Geltung von Datenschutzvorschriften
 § 57 | Datenschutzkontrolle
 § 58 | Datenverarbeitung für publizistische Zwecke
-Abschnitt 9 | Bußgeld-, Übergangs- und Schlussvorschriften
+Abschnitt 9 | Bußgeldvorschriften
 § 59 | Ordnungswidrigkeiten
-§ 60 | Übergangsvorschrift
-§ 61 | Überprüfungsklausel
-§ 62 | In- und Außer-Kraft-Treten
+Abschnitt 10 | Ausführungsbestimmungen zu medienrechtlichen Staatsverträgen und Bundesgesetzen
+§ 60 | Ausführungsbestimmung zu § 35 des Rundfunkstaatsvertrages
+§ 61 | Zuständigkeit für den Datenschutz
+§ 62 | Aufsicht bei Telemedien
+§ 63 | Zuständigkeit bei Ordnungswidrigkeiten
+Abschnitt 11 | Übergangs- und Schlussvorschriften
+§ 64 | Übergangsvorschrift
+§ 65 | Überprüfungsklausel
+§ 66 | In- und Außer-Kraft-Treten
