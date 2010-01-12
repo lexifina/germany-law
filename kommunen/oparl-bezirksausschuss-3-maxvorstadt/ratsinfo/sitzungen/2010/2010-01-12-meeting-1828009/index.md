@@ -1,0 +1,107 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-01-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828009
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828009
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Haushaltsplan 2010
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen an die Polizei aus der Sitzung vom 08.12.2009
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Liste der Bauvorhaben 48. KW, 49. KW; 50. KW
+- TOP 2.1.2.: Von-der-Tann-Straße 6, Werbeanlage: Anbringen eines Riesenposters am Baugerüst vom 1.12.2009 bis 31.03.2010
+- TOP 2.1.3.: Bauvorhaben Schönfeldstraße 24 Neubau eines Ärzte-bzw. Seitengebäudes - Vorbescheid -
+- TOP 2.1.4.: Bauvorhaben Adalbertstraße 76: Renovierung und Modernisierung des denkmalgeschützten Anwesens, Dachgeschoßausbau, Anbau von Balkonen und eines Außenaufzugs, Wohnungserweiterungen der Erdgeschoßwohnungen und des Souterrain, Einbau einer Zentralheizung
+- TOP 2.1.5.: Bauvorhaben Türkenstraße 52 - 54 Beseitigung und Neuerrichtung eines Wohn- und Geschäftshauses sowie Neubau einer Tiefgarage - Vorbescheid -
+- TOP 2.1.6.: Bauvorhaben Dachauer Straße 19 Nutzungsänderung chemische Reinigung zu Spielstätte
+- TOP 2.1.7.: Bauvorhaben Rottmannstraße 14 c Nutzungsänderung von Gemeinbedaf Verwaltung (V) zu WB; Neubau eines Wohnhauses mit Tiefgarage - Vorbescheid -
+- TOP 2.1.8.: Bauvorhaben Dachauer Straße 92 Nutzungsänderung eines ehemaligen Autohauses in ein Fitness-Center, eine Bäckerei mit Café sowie Läden
+- TOP 2.1.9.: Bauvorhaben Dachauer Straße 2 Aufstockung des Gebäudes um ein Vollgeschoss und Dachausbau sowie Anbau einer Aufzugsanlage - Vorbescheid -
+- TOP 2.1.10.: Bau eines zentralen Stegs zwischen Arnulfpark und Westend (BA 8 bittet um Überdenken der Stellungnahme)
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Listen der Baumfällungen: 49. KW; 50. KW
+- TOP 2.2.2.: Luisenstraße 72, 1 Birke Kaulbachstraße 5, 1 Ahorn Kreittmayrstraße 29, 2 Platanen
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Optimierung der BA-Beteiligung um Verfahren der Bauleitplanung, Anpassung des Anhörungsrechts für Bezirksausschüsse BA-Antrag Nr. 08-14 / B 01354 des BA 16 Ramersdorf-Perlach
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der FDP-Fraktion im BA 3: Rückbau der "Nase" Schelling-/Barerstraße - Kosten, Ausführung, zukünftige Vermeidung
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat: Anhörung zur Einrichtung einer Ladezone in der Sandstraße, Höhe Hausnummer 37
+- TOP 2.1.2.: Baureferat: Lichtzeichenanlage Georgen-/Tengstraße vertagt aus der Sitzung 12/09 (TOP C 2.1.1)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Entscheidung über Sondernutzungserlaubnis - Amalienstraße 67, ein mobiler Fahrradständer - Barer Straße 90, ein mobiler Fahrradtständer
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: KVR, Entscheidungen über Sondernutzungserlaubnis, Freischankflächen - Freischankfläche, Barer Straße 80 - Freischankfläche Schellingstraße 54, Schellingsalon, vertagt aus 10/09, s. TOP C 2.3.2
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: TUNIX Open-Air in der Arcisstraße 17 (Wiese hinter der Glyptothek) vom 14.06. bis 18.06.2010
+- TOP 2.4.2.: St. Patrick's Day am 14.03.2010 (Parade zwischen Feilitzschstr. und Odeonsplatz)
+- TOP 2.4.3.: Kreisverwaltungsreferat: Faschingszug der "Damischen Ritter" am 07.02.2010
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Antrag Ausrichtung der Maxvorstädter Jungbürgerfeier durch den Bezirksausschuss 3 einschließlich Budgetantrag
+- TOP 1.2.: Ameisenplage auf Spielplätzen und Bürgersteigen; Antrag der SPD-.Fraktion im BA 10, Moosach; der BA bittet um Unterstützung seines Antrages
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Sozialreferat: Investitionskostenförderung "Kinderbetreuungsfinanzierung" 2008-1013, Kinderkrippe Richard-Wagner-Straße 5 mit 24 Kinderkrippenplätzen - Umbau
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budgetantrag: Kirchengemeinde St. Markus, Einbau eines "Setzers" in die Orgel
+- TOP 2.2.: Antrag der Initiative "Kunstpavillon" - Ausstellung vom 22 - 29.02.2010; Verzicht auf Eigenmittel
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms Sitzungsvorlage Nr. 08-14/V 03345
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Baureferat, Unterrichtung über das Fällen von Gefahrbäumen: - Zentnerstraße 2, 1 Kastanie - Türkenstraße 68 (Schule), 1 Ahorn, 1 Hainbuche - Pranck-/Deroystraße (Schule), 1 Robinie - Marsplatz 1 (Schule), 1 Kastanie
+- TOP 1.4.: Baureferat: Unterrichtung über die Fällung von Gefahrbäumen - Luisenstraße 7 (Schule), 1 Robinie
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Schul- und Kultusreferat: Sportinfrastrukturmaßnahmen Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.2009 Sitzungsvorlage: 08-14 / V 03271
+- TOP 1.7.: Denkmalschutz für die historischen Gebäudefassaden der Türkenstr.
+- TOP 1.8.: Ausstieg aus der umweltschädlichen Laubbläser-Technologie; s. dazu TOP B 1.1 aus der Sitzung 11/09
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baureferat, Beschlussvorlage vom 17.11.2009: Ruß- und Radwegbrücken in München, Renaissance des öffentlichen Raumes I
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: Verkehrsrechtliche Erlaubnisse: - Filmaufnahmen Türken-/Akademie-/Schellingstraße am 01.12.2009
+- TOP 2.4.: Baureferat: Antwortschreiben zur Kleinsteinpflasterung auf dem Ferdinand-Miller-Platz vor der Kirche St. Benno (s. TOP A 5.2.2/1009).
+- TOP 2.5.: Verkehrsrechtliche Anordnungen: - Zirkus-Krone-Straße und Wredesraße, Westseite; Anordnung von Z. 283 mit dem Zusatz "Großtiertransporter frei"
+- TOP 2.6.: Baureferat, Beschlussvorlage für Bauausschuss vom 08.12.2009 Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung, Antwortschreiben Begrünung und Verkehrsberuhigung der Schleißheimer Straße im Abscnitt zwischen Heßstraße und Georgenstraße (s. TOP C 1.1/0909)
+- TOP 2.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für Sitzung der Vollversammlung vom 16.12.2009: Gesamtkonzept Bahnknoten München 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 2.9.: Kreisverwaltungsreferat, Dreharbeiten am Josephsplatz, Eilentscheidung des Vorsitzenden
+- TOP 2.10.: Errichtung von Wartehäuschen an der Straßenbahnhaltestelle Schellingstr.
+- TOP 2.11.: Direktorium: Hamburger Fischmarkt auf dem Wittelsbacher Platz
+- TOP 2.12.: Kreisverwaltungsreferat, Schreiben vom 03.12.2009; Erteilung von Sondernutzungserlaubnissen für Warenauslagen, Beschluss vom 25.11.2009
+- TOP 2.13.: 25. München Marathon am 10.10.2010 mit Trachtenlauf am 09.10.2010 - Änderung der Streckenführung für den Halbmarathon: Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.14.: Kreisverwaltungsreferat: Einrichtung von Behindertenparkplätzen in der Rheinbergstraße (Ludwigstraße 15)
+- TOP 2.15.: Mobiles Entsorgungsangebot für Schrott- und Altfahrräder
+- TOP 3.1.: Budgetangelegenheiten - Kreisjugendring München-Stadt, Projekt "Jungen stärken"; Ablehnungsbescheid - Kreisjugendring München-Stadt, Projekt "Dunkelbruch"; Ablehnungsbescheid - Verwendungsnachweis "Pädagogisches Kochen" Mensa Luisengaymnasium
+- TOP 3.2.: Schreiben der Immbobilien Freistaat Bayern Zentrale vom 16.12.2009: Kinderspielplatz auf dem Areal der Akademie der Bildenden Künste München
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Kulturreferat, Jahresübersicht 2009
+- TOP 4.3.: Budgetangelegenheiten -Ablehnung eines Zuschusses an die Initiative "Kunstpavillon" (s. Sitzung 12/09)
+- TOP 4.1.: Liste der Anträge auf Abgeschlossenheitsbescheinigungen liegt wieder vor; Abstimmung der zukünftigen Verfahrensweise
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
