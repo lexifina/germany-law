@@ -1,0 +1,54 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-01-12T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1905837
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1905837
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 01.12.09
+- TOP 2: Anträge
+- TOP 2.1.: Festhalten am Status quo bei der Schießanlage im Forstenrieder Park
+- TOP 2.2.: Stopp der Planungen zur A99 Süd
+- TOP 2.3.: Keine Umwandlung der GU Tischlerstraße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: St. Maria Thalkirchen
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Schmiedberg/Münchner Straße
+- TOP 5.2.: Verkehrsführung Maria-Einsiedel-Straße
+- TOP 5.3.: LZA Siemensallee
+- TOP 5.4.: Bus-Linie 134; 15 Minutentakt
+- TOP 5.5.: Buslinienerweiterung zu St. Gabriel
+- TOP 5.6.: Wilhelm-Leibl-/Muttenthalerstraße
+- TOP 5.7.: Verkehrsgefährdung Prinz-Ludwigs-Höhe
+- TOP 5.8.: Radwegeausbau 19. Stadtbezirk
+- TOP 5.9.: Verkehrsangelegenheiten Solln
+- TOP 5.10.: Querung Meglingerstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung
+- TOP 6.3.: Erweiterung und Modifikation des Aufstellungsbeschlusses Nr. 1985
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Investitionskostenförderung Kinderkrippe Hofmannstr. 25
+- TOP 7.2.: Ausschreibung Weltkindertag 2010
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Werbetafel Plinganserstr. 128
+- TOP 9.2.: Gaststättenpächterwechsel Hofmannstr. 43
+- TOP 9.3.: Gaststättenpächterwechsel Mühltaler Str. 91
+- TOP 9.4.: Veräußerung des städt. Grundstücks Petersen/Herterichstr. und Erwerb des Grundstücks Wolfratshauser Straße 96
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 0.1.: Ruhestörung Grünanlage Münsinger Str. / Kistlerhofstraße
+- TOP 1: Allgemeiner Teil
