@@ -1,0 +1,81 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-01-13T17:05:00+01:00
+- Ende: 2010-01-13T21:55:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2225
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2225
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=45992
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - ohne Änderungen in der BVV beschlossen
+- TOP 5.1: Entwicklung der Oberschullandschaft in Reinickendorf (Große Anfrage 09.12.2009) - beantwortet
+- TOP 6: Feststellungen - beantwortet
+- TOP 7: Vorlagen zur Kenntnisnahme - beantwortet
+- TOP 7.1: Feuerwehren im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Märkisches Viertel an das U-Bahnnetz anschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Energetische Sanierung des Rathauses - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Mit den Mieterinnen und Mietern das MV modernisieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Bericht über Sanierung im MV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Schnelle Schulfusion in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Auswertung der Behördenbeteiligung nach § 4 Abs. 2 BauGB zum Bebauungsplan 12-26B - überwiesen
+- TOP 7.8: Auswertung der Behördenbeteiligung nach § 4 Abs. 2 BauGB zum Bebauungsplan 12-25B - überwiesen
+- TOP 7.9: Erlass der Verordnung über die Verlängerung der Veränderungssperre 12-18B / 44 - überwiesen
+- TOP 8: Große Anfragen - in der BVV abgelehnt
+- TOP 8.1: Reinickendorf: Grüner Bezirk im Berliner Norden - überwiesen
+- TOP 8.2: Bürgerbeteiligung bei Maßnahmen nach dem Straßenausbaubeitragsgesetz - überwiesen
+- TOP 8.2.1: Straßenausbaubeitragsgesetz - überwiesen
+- TOP 8.2.2: Novellierung des Straßenausbaubeitragsgesetzes - überwiesen
+- TOP 8.3: Umwandlung der Thomas-Mann-Oberschule - ein Gewinn für das Märkische Viertel und die Reinickendorfer Schullandschaft - beantwortet
+- TOP 8.3.1: Umwandlung der Thomas-Mann-Oberschule in ein Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - in der BVV abgelehnt
+- TOP 9.1: Erneuerung und Verbesserung der Alemannenstraße zwischen Maximiliankorso und Neubrücker Straße - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - in der BVV abgelehnt
+- TOP 10.1: Geplante Ortsumgehungsstraße durch Frohnauer Biotop verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Straßenplanung in und um Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Alkoholprävention in Sportvereinen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Diebstahl im Bürgeramt - erledigt
+- TOP 10.5: Tempo 30 im Bereich Haus Friedenshöhe anordnen - in der BVV abgelehnt
+- TOP 10.6: Besserer Schutz der Autofahrer vor Wildwechsel - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Fahrbahnmarkierungen am Falkentaler Steig - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Anpassung der Ampelschaltung zum Lärmschutz - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Scheinanmeldungen in den Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sichere Straßenüberquerung des Hermsdorfer Damms in der Höhe Olafstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Straßenquerung für Kinder an Boltz- und Spielplätzen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Jährliche Bewuchsentfernung am Tegeler Fließ sowie die Reinigung der Gräben in Heiligensee - ohne gesonderte Aufforderung - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Verkehrsfluss durch Ausweichmöglichkeiten verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Baumfällungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Gesundheitsdaten des Bezirks Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Broschüre des Senats von Berlin "Das Grüne Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - ohne Änderungen in der BVV beschlossen
+- TOP 12.1: Darstellung monatlicher Entwicklung der Hilfen zur Erziehung - überwiesen
+- TOP 12.1.1: Darstellung monatlicher Entwicklung der Hilfen zur Erziehung - überwiesen
+- TOP 12.2: Bouleplatz Greenwichpromenade - überwiesen
+- TOP 12.3: Kreisverkehrsplätze in Reinickendorf - überwiesen
+- TOP 12.4: Ausbau Alemannenstraße in Frohnau - überwiesen
+- TOP 12.5: Kostenentwicklungssystem im Bereich Jugend - überwiesen
+- TOP 12.6: Sekundarschulen mit eigener Oberstufe - überwiesen
+- TOP 12.7: Reinickendorfer Wirtschaftskonzept vorlegen - überwiesen
+- TOP 12.8: Nachhaltigkeit von Schulstandorten - überwiesen
+- TOP 12.9: Bericht über Zusammenarbeit Jugendhilfe und Schule erstellen - überwiesen
+- TOP 12.10: Ausbau Alemannenstraße - überwiesen
+- TOP 13: Empfehlungen - in der BVV abgelehnt
+- TOP 13.1: Keine Veränderungen der Kündigungsfristen im Mietrecht - überwiesen
+- TOP 13.2: Behindertengerechte Sechserbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Wildschweine im Stadtgebiet - überwiesen
+- TOP 13.4: Tempo 30 in der Zeltinger Straße - überwiesen
+- TOP 13.5: Zukunft der Wiesengrundschule - überwiesen
+- TOP 13.6: Rundweg am Poloplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Entgeltfreie Erste-Hilfe-Kurse - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: 10-Minutentakt für 120er Buslinie ausweiten - überwiesen
+- TOP 13.9: Greenwichpromenade - "Sechserbrücke" barrierefrei - ohne Änderungen in der BVV beschlossen
