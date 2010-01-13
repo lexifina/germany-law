@@ -1,0 +1,134 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2010-01-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1866915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1866915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 1: Ermöglichen bzw. Tolerieren des beidseitigen Parkens unter Einbeziehung der Gehbahnen in der Erminoldstraße zwischen Berger-Kreuz- und Adam-Berg-Straße sowie in der Auflegerstraße zwischen Anzlgut- und Erminoldstraße; Empfehlung Nr. 08-14 / E 00320 der Bürgerversammlung des 16. Stadtbezirkes ?Ramersdorf-Perlach ? Bezirksteil Ramersdorf am 16.06.2009; Sitzungsvorlage Nr. 08-14 / V 03367; Beschluss des Bezirksausschuss 16 am 01.12.2009; Beschlussvorlage des Kreisverwaltungsreferats (vertagt aus der Sitzung am 01.12.2009) - <div>Anfrage an das KVR</div>
+- TOP 2.6.1.1.: AntragsstellerIn: Elternbeirat der Grundschule Kafkastraße; für die Maßnahme: Kauf eines Kühlschranks; Antragssumme: 699.- ?; Beschlussvorlage des Direktoriums - <div>Zustimmung in voller Höhe</div>
+- TOP 3: Anträge
+- TOP 3.1.: Aufheben des Parkverbots in der Möschenfelder Straße; Bürgerschreiben vom 27.10.2009 (vertagt aus der Sitzung am 01.12.2009) - <div>Antwort direkt durch das KVR</div>
+- TOP 3.2.: Befristete Ladezone hinter dem Getränkemarkt in der Sudermannallee; Bürgerschreiben vom 21.10.2009 (vertagt aus der Sitzung am 01.12.2009) - <div>Nachfrage bei der LBK</div>
+- TOP 3.3.: 1.) Gehwegverbindung zu U 5, zwischen Elise-Aulinger-Straße und Therese-Giehse-Allee 2.) Einhaltung der gesetzlich vorgeschriebenen 30 km/h Regelung in der Elise-Aulinger-Straße, Assmannstraße und Rennerstraße 3.) Gehwegverbindung Europäische Schule und Perlacher Friedhof, Überquerung Putzbrunner Straße, in beiden Richtungen Bürgerschreiben vom 02.11.2009 (vertagt aus der Sitzung am 01.12.2009) - <div>WL von Nr. 1 und 2; Nr. 3 Antwort vom KVR</div>
+- TOP 3.4.: Lärmschutzmaßnahmen für die Anwohnerinnen und Anwohner am Innsbrucker Ring; Bürgerschreiben vom 23.11.2009 - <div>nach Antrag</div>
+- TOP 3.5.: Bessere Beleuchtung rund um das Life-Center und das Plettzentrum; Bürgerschreiben vom 06.12.2009 - <div>nach Antrag</div>
+- TOP 3.6.: unzureichender Winterdienst in der Rotkäppchenstraße; Bürgerschreiben vom 02.01.2010 - <div>Antwort durch das Baureferat</div>
+- TOP 3.1.: 1. Schulhoföffnungen auf den Prüfstand stellen 2. Reinigungsstandard ist dringend zu verbessern Antrag des Vorstands des BA 16 vom 11.01.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Aktueller Sachstand zu Karl-Marx-Ring 52; illegal errichteter Zaun; Antrag/Nachfrage der Fraktion von Bündnis 90/Die Grünen im BA 16 vom 20.10.2009 hierzu: Schreiben des Referats für Stadtplanung und Bauordnung vom 15.12.2009 - <div>Appell an LBK und Einladung der WEG</div>
+- TOP 3.2.: Beseitigung der gröbsten Schlaglöcher und Unebenheiten und Wiederherstellung der wichtigsten Markierungen; Antrag der FDP-Fraktion im BA 16 vom 10.12.2009 - <div>abgelehnt</div>
+- TOP 3.3.: Ablehnung einer Baumfällung in der Putzbrunner Straße; Bitte um Unterstützung; Bürgerschreiben vom 30.12.2009 - <div>abgelehnt</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: Ameisenplage auf Spielplätzen und Bürgersteigen; Antrag des BA 10 Moosach vom 14.10.2009 mit der Bitte um Unterstützung - <div>Unterstützung des Antrags des BA 10</div>
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Frauen
+- TOP 4.4.6.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.6.7: Integration
+- TOP 4.4.6.8: Behinderte
+- TOP 4.6.9: Internet
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Radverkehr; Aufhebung der Radwegbenutzungspflicht in der Ottobrunner Straße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnungen nach § 45 StVO; Zuleitungen des Kreisverwaltungsreferat vom 24.11.2009 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 01.12.2009) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 5.2.: Rückverlegung der Haltestelle Ständlerstraße/Balanstraße zurück auf Höhe der Kreuzung; Anfrage der Münchner Verkehrsgesellschaft vom 30.11.2009 mit der Bitte um Stellungnahme - <div>Zustimmung zum Vorschlag der MVG</div>
+- TOP 5.1.: Flohmärkte des Bürgerkreis Neuperlach e. V. im Jahr 2010; Zuleitung des Bürgerkreis Neuperlach e. V. vom 10.12.2009 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: "Kooperative Sportentwicklungsplanung, Innerstädtische Region ? Ramersdorf und Berg am Laim?; Handlungsempfehlungen für die Sportentwicklung in der Innerstädtischen Region ? Ramersdorf und Berg am Laim; Zuleitung des Schul- und Kultusreferats vom 16.11.2009 (vertagt aus der Sitzung am 01.12.2009) - <div>gem. der Empfehlung des UA BSIS</div>
+- TOP 5.2.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 bis 2013; Kinderkrippe Otto-Hahn-Ring (Siemens AG) mit 60 Kinderkrippenplätzen; Neubau; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 02.02.2010; Zuleitung des Sozialreferats vom 30.11.2009 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.3.: Ausschreibung zur Ausrichtung des Weltkindertages 2010 ?Beteiligung von Kindern ? Das Recht aus Freizeit, Spiel und Ruhe?; Zuleitung der Kinderbeauftragten der Landeshauptstadt München vom 18.12.2009 - <div>Der BA 16 wird sich nicht bewerben</div>
+- TOP 5.1.: Gemeinde Neubiberg; Bebauungsplan Nr. 69 für den Bereich südlich der Hauptstraße/westlich Cramer-Klett-Straße/Hofbergerstraße/westlich Kyffhäuserstraße/Hermannstraße; Verfahren nach § 4 BauGB; Zuleitung des Referats für Stadtplanung und Bauordnung vom 01.12.2009 mit der Bitte um Stellungnahme - <div>in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 5.2.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung; Innsbrucker Ring; Neubau einer Autoglaserei mit angegliedertem Büro- und Sozialbereich; Zuleitung des Referats für Stadtplanung und Bauordnung vom 14.12.2009 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.3.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung Anpassung des Anhörungsrechtes für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene ?doppelte Behördenbeteiligung?; Antrag Nr. 08-14 / B 1354 des BA 16 vom 28.07.2009; Zuleitung des Direktoriums vom 15.12.2009 mit der Bitte um Stellungnahme - <div>in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Prüfung der Realisierbarkeit einer Fußgängerzone Neuperlach-Zentrum (Thomas-Dehler-Straße im Bereich Hanns-Seidel-Platz); Antrag Nr. 08-14 / B 02359 des BA 16 vom 03.07.2007; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 03.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.2.: Radverkehr in München Grundsatzbeschluss zur Förderung des Radverkehrs in München; Konkrete Maßnahmen im 16. Stadtbezirk umsetzen; Ziff. 1) Optimierung der Wegweisung für Radfahrer; Ziff. 2) Stellplätze für Fahrräder; Ziff. 3) Optimierung der Wegeführung; Antrag Nr. 08-14 / B 01098 des BA 16 vom 05.05.2009; Antwortschreiben des Baureferats vom 01.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.3.: Parkregelung im Wendehammer in der Sudermannallee, Beibehaltung der Senkrechtparkregelung; Antrag Nr. 08-14 / B 00669 vom 02.12.2008; Nachfrage des BA 16 aus der Sitzung am 02.06.2009; Antwortschreiben des Kreisverwaltungsreferats vom 26.11.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.4.: Zustand der Haltestelle der Buslinie 55 in Neuperlach Zentrum; Bürgerschreiben vom 21.09.2009; Bürgeranliegen aus der Sitzung am 06.10.2009; Antwortschreiben der Münchner Verkehrsgesellschaft vom 25.11.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.5.: Errichtung einer Bushaltestelle am neuen Einkaufszentrum ?Life? am Plettzentrum; Antrag Nr. 08-14 / B 01511 des BA 16 vom 06.10.2009; Antwortschreiben der Münchner Verkehrsgesellschaft mbH vom 19.11.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.6.: Sicherung des östlichen Fußgängerüberwegs an der Einmündung Quidde-/Plettstraße, Höhe Anwesen Quiddestraße 30 neben der Parkplatzzufahrt; Antrag Nr. 08-14 / B 1512 des BA 16 vom 06.10.2009; Antwortschreiben des Baureferats vom 10.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.7.: Verkehrsprobleme in der Pfälzer-Wald-Straße; Bürgeranliegen in der Sitzung des BA 16 am 01.12.2009; Antwortschreiben des Kreisverwaltungsreferats vom 21.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.8.: Errichtung einer Schulbushaltestelle Gänselieselstraße 33; Antrag Nr. 08-14 / B 01689 des Ba 16 vom 01.12.2009; Antwortschreiben des Kreisverwaltungsreferats vom 23.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.9.: Grüner Pfeil für Linksabbieger an der Lichtzeichenanlage der Kreuzung Karl-Marx-Ring in Richtung Hugo-Lang-Bogen; Antrag Nr. 08-14 / B 1690 des BA 16 vom 01.12.2009; Antwortschreiben des Kreisverwaltungsreferats vom 17.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.10.: Verkehrssituation im Bereich Im Gefilde / Waldperlach; Bürgeranliegen in der Sitzung des BA 16 am 06.10.2009; Antwortschreiben des Baureferats vom 21.12.2009 - <div> zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.1.: Standortsuche für die Bibliothek in der Quiddestraße; Antarg Nr. 08-14 / B 01686 des BA 16 vom 01.12.2009; Antwortschreiben der Münchner Stadtbibliothek vom 10.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
+- TOP 6.1.: Umsetzung und Fertigstellung der Skateanlage im Grünzug ?Im Gefilde? in Waldperlach noch in diesem Jahr 2009; Realisierung des Rodelhügels im Grünzug Im Gefilde; Antrag Nr. 08-14 / B 01350 des BA 16 vom 16.09.2009; Antwortschreiben des Oberbürgermeisters vom 02.12.2009 - <div>Schreiben an den OB</div>
+- TOP 6.2.: Sicherung der Schulsporthallen für Kindersportgruppen; Antrag Nr. 08-14 7 B 01593 des BA 16 vom 03.11.2009; Antwortschreiben des Schul- und Kultusreferats vom 23.11.2009 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration, Sport verwiesen.</div>
+- TOP 6.3.: Antrag auf Erweiterung des Gültigkeitsbereiches für die ?Monatskarte für Behinderte/Senioren? auf das Michaelibad; Antrag Nr. 08-14 / B 01594 des BA 16 vom 03.11.2009; Antwortschreiben der Stadtwerke München GmbH vom 19.11.2009 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration, Sport verwiesen.</div>
+- TOP 6.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1.: Großbordell in Ramersdorf?; Schriftliche Anfrage gem. § 8 GeschO von Herrn Stadtrat Podiuk und Frau Stadträtin Burkhardt vom 05.11.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 27.11.2009 - <div>zur Kenntnis genommen</div>
+- TOP 6.2.: Werbeanlage in der Aschauer Straße; Urteil des Bayerischen Verwaltungsgerichtshofs vom 19.01.2009; Anfrage des BA 16 aus der Sitzung am 28.07.2009; Zuleitung des Referats für Stadtplanung und Bauordnung vom 01.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.3.: Baustelle in der Ottobrunner Straße; Bürgeranfrage vom 26.11.2009; Antwortschreiben des Kommunalreferats vom 01.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.4.: Bebbauungsplan Nr. 2041 Plettstraße (östlich), Ständlerstraße (nördlich), Albert-Schweitzer-Straße (westlich), Teiländerung des Bebauungsplanes Nr. 57 b; Aufstellungsbeschluss; Stellungnahme des BA 16 in der Sitzung am 03.11.2009; Sitzungsvorlage Nr. 08-14 / V 03303; Beschluss der Vollversammlung des Stadtrats vom 25.11.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.5.: Landesplanerische Beurteilung der Südanbindung Perlach; Anfrage des Bezirksausschuss 16 in der Sitzung am 03.11.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 07.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.6.: Gemeinde Putzbrunn; Bebauungsplan Nr. 54, Äußere Ottobrunner Straße ? Nord; Verfahren nach § 4 Abs. 1 BauGB; Beteiligung der Träger öffentlicher Belange; Stellungnahme des BA 16 vom 28.07.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 08.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.7.: Plettstraße 19; Erschließung des Grundstücks; Stellungnahme des BA 16 in der Sitzung am 02.12.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 14.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.8.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung Anpassung des Anhörungsrechtes für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene ?doppelte Behördenbeteiligung?; Antrag Nr. 08-14 / B 1354 des BA 16 vom 28.07.2009; Antwortschreiben des Direktoriums vom 02.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.9.: Unrechtmäßig errichtete Werbeanlagen im 16. Stadtbezirk und Verkehrssicherheit auf der Ständlerstraße; Antrag Nr. 08-14 / B 00291 des BA 16 vom 29.07.2008; Antwortschreiben vom 25.03.2009; Nachfrage des BA 16 aus der Sitzung am 30.06.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 22.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.10.: Wohnungen im Stadtbezirk Ramersdorf-Perlach, die in den nächsten Jahren aus der Bindung fallen; Planungen der LHM für die nächsten 10 bis 20 Jahre; Informationsveranstaltung für den 16. Stadtbezirk; Schreiben des Sozialreferats vom 23.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 6.1.: Ersatz der Abfallbehälter in der Maximilian-Kolbe-Alle durch die neuen rabensichereren tonnenförmigen Modelle; Antrag Nr. 08-14 / B 01463; Antwortschreiben des Baureferats vom 23.11.2009 - <div> zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.2.: Mülleimer mit Krähenschutz am Busbahnhof Neuperlach Zentrum; Antrag Nr. 08-14 / B 1517 des BA 16 vom 06.10.2009; Antwortschreiben des Baureferats vom 07.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 6.3.: Standorte für Wertstoffcontainer; Anfrage des Bezirksausschuss 16 in der Sitzung am 01.12.2009; Antwortschreiben des Abfallwirtschaftsbetriebs München vom 10.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 6.1.: Zentrale Plakatzonen für Wahlplakate in den Stadtbezirken; Anfrage des BA 16 aus der Sitzung am 06.10.2009; Antwortschreiben des Kreisverwaltungsreferats vom 24.11.2009 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 7.1.1.1 OMV-Tankstellenverkauf, Ottobrunner Straße; Mitteilung vom 25.11.2009 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.2.: Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz; Antrag Nr. 08-14 / A 00871 von Herrn Stadtrat Pretzl vom 25.06.2009; Sitzungsvorlage Nr. 08-14 / V 03311; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (SB) - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.3.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen; Antrag Nr. 08-14 / A 01060 von Herrn Stadtrat Dr. Kronawitter vom 23.09.2009;Sitzungsvorlage Nr. 08-14 / V 03366; Beschluss des Bauausschusses vom 08.12.2009 (SB) - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.4.: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München; a) Untersuchungsergebnisse 2009, "vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring", "Gutachten zur Flughafenanbindung"; b) Umplanung des 2. S-Bahn-Tunnels im Ostabschnitt mit Haltepunkt Ostbahnhof (tief); c) Beabsichtigtes weiteres Vorgehen; Sitzungsvorlage Nr. 08-14 / V 03421; Bekanntgabe in der Sitzung der Vollversammlung des Stadtrats vom 16.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.5.: Sondernutzung, Warenauslagen; Änderung des Vollzugs der Sondernutzungsverordnung; Zuleitung des Kreisverwaltungsreferat vom 03.12.2009 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.1.: Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung; Sitzungsvorlage Nr. 08-14 / V 03168; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.2009 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.2.: Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kindergarten- und 2 Krippengruppen an der St.-Cajetan-Straße; Produkt Nr. 1.1; Genehmigung des Nutzerbedarfsprogramms; Sitzungsvorlage Nr. 08-14 / V 03276; Beschluss des Schul- und Sportausschusses vom 02.12.2009 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.3.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013, Kinderhaus Rosenheimer Straße 116 (Elly & Stoffl GmbH) mit 24 Kinderkrippenplätzen und 23 Kindergartenplätzen) Umbau; Sitzungsvorlage Nr. 08-14 / V 03128; Beschluss des Kinder- und Jugendhilfeausschusses vom 01.12.2009 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.4.: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2009; Sitzungsvorlage Nr. 08-14 / V 03271; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1.: Baufälle im 16. Stadtbezirk - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.2.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 7.4.2.1 Anwesen in der Schneckestraße; Genehmigungsbescheide vom 18.11.2009 7.4.2.2 Anwesen in der Perlacher Bahnhofstraße; Genehmigungsbescheid vom 19.11.2009 7.4.2.3 Anwesen in der Frau-Holle-Straße; Genehmigungsbescheid vom 24.11.2009 7.4.2.4 Anwesen in der Führichstraße; Ablehnungsbescheid vom 27.10.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.3.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010; Sitzungsvorlage Nr. 08-14 / V 03346; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.4.: Handlunsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms; Sitzungsvorlage Nr. 08-14 / V 03345; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.5.: Bebauungsplan mit Grünordnung Nr. 1995; Welfenstraße (südlich), Schwester-Eubulina-Platz, Tassiloplatz, Bahnlinie München-Rosenheim (nördlich); Satzungsbeschluss; Sitzungsvorlage Nr. 08-14 / V 03320; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.6.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats vom 18.11., 01.12. und 11.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.7.: Entwicklungsgebiet Carl-Wery-Straße; Bebauungsplan Nr. 57 cl; Sanierung einer Kiesgrube an der Carl-Wery-Straße; Sitzungsvorlage Nr. 08-14 / V 03330; Beschluss des Kommunalausschusses vom 10.12.2009 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.1.: Weihnachtsbeleuchtung im städtischem Einflussbereich; Auftrag aus dem Bauausschuss vom 18.11.2008; Sitzungsvorlage Nr. 08-14 / V 03182 Beschluss des Bauausschusses vom 17.11.2009 (SB) - <div>Zur Kenntnis genommen bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 7.2.: Umlaufsperren in Grünanlagen; Notwendigkeit und ggf. Umbau im Rahmen des Grundsatzbeschlusses Radverkehr; Zuleitung des Baureferats vom 23.12.2009 - <div>Verweisung in UA Verkehr und UKGG, Zustimmung zum Antrag der CSU-Fraktion</div>
+- TOP 7.&nbsp;: (keine Beschlussfassung, lediglich Verweisung an einen Unterausschuss parallel
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 AntragsstellerIn: Integrative Montessori Schule; für die Maßnahme: Anschaffung von Sportgeräten; Antragssumme: 492,18; Antrag vom 15.12.2009 - <div> in den UA Bildung, Soziales, Integration, Sport verwiesen.</div>
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnach-weise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen 7.6.2.1 AntragstellerIn: Hospizverein Ramersdorf/Perlach; für die Maßnahme: 5-jähriges Bestehen des Vereins; Verwendungsnachweis vom 23.11.2009 7.6.2.2 AntragstellerIn: Pädagogische Aktion "Spielen in der Stadt e. V."; für die Maßnahme: Ferienspielaktion ; Verwendungsnachweis vom 17.11.2009 und Schreiben des Direktoriums vom 24.11.2009 - <div>en bloc in den UA Bildung, Soziales, Integration, Sport  verwiesen.</div>
+- TOP 7.3.: 7.6.3 Unterlagen für die Beratung und Verabschiedung des Haushaltsplanentwurfs 2010; 7.6.3.1 Haushaltsplan 2010; Ansätze der zentralen Bereiche, Schlussabgleich; Sitzungsvorlage Nr. 08-14 / V 03351; Beschluss des Finanzausschusses vom 15.12.2009 und Beschluss der Vollversammlung des Stadtrats vom 16.12.2009 - Gesamtfinanzhaushalt - Gesamtergebnishaushalt - Teilfinanzhaushalte - Teilergebnishaushalte - Änderungslisten (ohne Investitionen) - Änderungen bei den Ein- und Auszahlungen aus Investitionstätigkeit und Finanzierungstätigkeit - Haushalte der Stiftungen mit eigener Rechtspersönlichkeit - Produktdatenblätter - Ergebnisse der Fachausschussberatungen - Überscht über den voraussichtlichen Stand der Schulden 7.6.3.2 Mittelfristige Finanzplanung 2009 bis 2013; Sitzungsvorlage Nr. 08-14 / V 03392; Beschluss der Vollversammlung des Stadtrats vom 16.12.2009 7.6.3.3 Stellenplan und Personalauszahlungen - <div>zur Kenntnis genommen </div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Öffentlichkeitsphase: Leitlinie Ökologie ? Klimawandel/Klimaschutz der Perspektive München; Veranstaltungen; Einladung zur Auftakt- und Abschlussveranstaltung sowie zu thematischen Akteurswerkstätten; Zuleitung des Referats für Stadtplanung und Bauordnung sowie des Referats für Gesundheit und Umwelt vom 29.12.2009
+- TOP 8.2.: Besichtigung des Dorfkernensembles Perlach im Rahmen der Nachqualifzierung der Denkmalliste am 21.01.2010; Zuleitung der Unteren Denkmalschutzbehörde vom 12.01.2010
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: i. d. R. keine Behandlung im Gremium sondern Verweisung en bloc in die zust Uas
+- TOP 2.6.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des
