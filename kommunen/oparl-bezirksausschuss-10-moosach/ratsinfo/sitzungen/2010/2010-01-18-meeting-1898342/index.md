@@ -1,0 +1,68 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898342
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898342
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parksituation im Bereich Gärtnerstraße 36
+- TOP 3.2.: Parken vor Baumnasen in der Irma-Wenke-Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Versetzung der Container in der Hugo-Troendle-Straße
+- TOP 3.2.: Bauvorhaben Baubergerstr. / Netzerstraße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Anhörungsrecht der Bezirksausschüsse bei Errichtung von Häusern des Kommunalen Wohnungsbauprogramms (Kompro/B oder /C)
+- TOP 4.2.: U-Bahnhof Moosach ? BA-Schaukasten
+- TOP 4.3.: Entsiegelung Feldmochinger Straße / ehemalige Bushaltestelle
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Yellow Boogie Dancers: Kauf von Petticoats
+- TOP 6: Anhörungen
+- TOP 6.1.: Erstmalige Herstellung der Haylerstraße zwischen Dachauer Straße und Hsnr. 20
+- TOP 6.2.: Wertstoffinsel Mondscheinweg (vertagt aus der Sitzung am 14.12.2009)
+- TOP 6.3.: Aufstellung ?Mobile Interims- und Schulraumeinheiten?, Grund- und Hauptschule Haldenbergerstr. 27
+- TOP 6.4.: Ausschreibung Weltkindertag 2010
+- TOP 6.5.: Straßenbaumaßnahme Landshuter Allee
+- TOP 6.6.: Errichtung und Betrieb einer Autogastankstelle Triebstraße 35
+- TOP 6.7.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung; Anpassung des Anhörungsrechts für Bezirksausschüsse an die in §4 BauGB n.F. nunmehr vorgesehene "doppelte Behördenbeteiligung"
+- TOP 6.8.: City Bike Marathon München am 18.04.10
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Behindertenparkplätze vor dem Ärztehaus Medicenter Hanauer Str. 65 (Anforderungen wurden im Genehmigungsverfahren umgesetzt)
+- TOP 7.2.: Verbesserung der Schulwegsicherheit an der Einmündung der Feldmochinger Str. in die Dachauer Straße (das Fehlverhalten der Fußgänger kann nach Ansicht des KVR nur durch bauliche Maßnahmen verhindert werden)
+- TOP 7.3.: Bauzustand und Parkregelung in der Pelkovenstraße und einmündenden Straßen (Schreiben des Baureferates zum Ortstermin am 08.12.09)
+- TOP 7.4.: Sanierung der Sportanlagen Saarlouiser Straße (Kurzfristige Maßnahmen sollen bei einem Ortstermin festgelegt werden; Investitionsmaßnahmen sind nur langfristig möglich)
+- TOP 7.5.: Parkplätze in der Saarlouiser Straße und der Eininger Straße (Abmarkierungen sind nur in der Saarlouiser Straße möglich)
+- TOP 7.6.: Entlassungen bei der U-Bahn-Wache (Anfrage aus der Bürgerversammlung)
+- TOP 7.7.: Lange Bearbeitungszeiten beim Beschwerdemanagement der MVG (Anfrage aus der Bürgerversammlung)
+- TOP 7.8.: Probleme mit der Kranken- und Pflegekasse (Anfrage aus der Bürgerversammlung)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2009
+- TOP 8.4.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen
+- TOP 8.5.: Stadtteilkulturprojekte (Jahresübersicht 2009)
+- TOP 8.6.: Fällung von Gefahrenbäumen
+- TOP 8.7.: Postsportverein München e.V. : Großinstandsetzung der Toilettenanlagen, Änderung des Mehrjahresinvestitionsprogramms
+- TOP 8.8.: Umlaufsperren in Grünanlagen
+- TOP 8.9.: Stadt bezieht Stellung gegen die Initiative des Bayer. Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung (Stadtratsantrag)
+- TOP 8.10.: Die GEWOFAG wird 100%-Tochter der Landeshauptstadt München
+- TOP 8.11.: Gesamtkonzept Bahnknoten München: 2. Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 8.12.: Schüler/innen und Klassenstände sowie Einschreibeergebnis der Kindertageseinrichtungen (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.13.: Unveränderte Fortführung von Gaststättenbetrieben: a) Postsportpark, Franz-Mader-Str. 11 b) n.n., Café, Hanauer Str. 7 c) Bistro-Bar Moosbichl, Rathgeberstr. 3 d) Vereinswirtschaft des Kleingartenvereins NW 12, Nederlinger Str. 80
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
