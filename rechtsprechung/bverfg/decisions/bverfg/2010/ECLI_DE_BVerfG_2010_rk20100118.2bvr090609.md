@@ -1,0 +1,330 @@
+---
+ecli: "ECLI:DE:BVerfG:2010:rk20100118.2bvr090609"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 906/09"
+decided: "2010-01-18"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 18. Januar 2010\n- 2 BvR 906/09 -, Rn. 1-26,\n                    https://www.bverfg.de/e/rk20100118_2bvr090609"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2010/01/rk20100118_2bvr090609.html"
+corpus_doc_id: "BVerfG_2010-01-18_K_2_BvR_0906_09_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/bverfgg/0090.md", "germany/bund/acts/bverfgg/0093c.md", "germany/bund/acts/bverfgg/0093d.md", "germany/bund/acts/bverfgg/0095.md", "germany/bund/acts/estg/0009.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/stvg/0011.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 906/09 vom 2010-01-18
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 906/09 -
+
+
+
+
+                              Im Namen des Volkes
+
+                                In dem Verfahren
+                                      über
+                          die Verfassungsbeschwerde
+der Frau V ...
+
+- Bevollmächtigter: Rechtsanwalt Hans-Joachim Dohmeier,
+                    Ludwigstraße 49, 67059 Ludwigshafen -
+gegen a) den Beschluss des Oberlandesgerichts München vom 20. März 2009 -
+         10 U 2272/08 -,
+
+       b) den Beschluss des Oberlandesgerichts München vom 25. Februar 2009 -
+          10 U 2272/08 -,
+
+       c) den Beschluss des Oberlandesgerichts München vom 17. September
+          2008 - 10 U 2272/08 -
+
+hat die 1. Kammer des Zweiten Senats des Bundesverfassungsgerichts durch
+                                 die Richterin Osterloh
+                                 und die Richter Mellinghoff,
+                                 Gerhardt
+
+am 18. Januar 2010 einstimmig beschlossen:
+
+Der Beschluss des Oberlandesgerichts München vom 25. Februar 2009 - 10 U
+2272/08 - verletzt, soweit mit ihm die auf eine Zahlung in Höhe von 39.794,85 € für
+entgangenen Verdienstausfall gerichtete Berufung der Beschwerdeführerin vom
+4. März 2008 gegen das Urteil des Landgerichts München I vom 30. Januar 2008
+- 17 O 2307/92 - zurückgewiesen wird, die Beschwerdeführerin in ihrem Grundrecht
+aus Artikel 3 Absatz 1 des Grundgesetzes. Er wird in diesem Umfang und im Kostenausspruch aufgehoben. Die Sache wird im Umfang der Aufhebung an das Oberlandesgericht Nürnberg verwiesen.
+Damit wird der Beschluss des Oberlandesgerichts München vom 20. März 2009
+- 10 U 2272/08 -, soweit er die auf eine Zahlung in Höhe von 39.794,85 € für entgangenen Verdienstausfall gerichtete Berufung der Beschwerdeführerin vom
+4. März 2008 gegen das Urteil des Landgerichts München I vom 30. Januar 2008
+
+
+
+                                        1/10
+
+- 17 O 2307/92 - betrifft, gegenstandslos.
+Im Übrigen wird die Verfassungsbeschwerde nicht zur Entscheidung angenommen.
+Der Freistaat Bayern hat der Beschwerdeführerin drei Fünftel ihrer notwendigen
+Auslagen zu erstatten.
+Der Wert des Gegenstandes der anwaltlichen Tätigkeit wird auf 8.000 € (in Worten:
+achttausend Euro) festgesetzt.
+
+                                      Gründe:
+
+                                             I.
+ Die Verfassungsbeschwerde betrifft, soweit ihr stattgegeben wird, die Beurteilung      1
+des haftungsrechtlichen Kausalzusammenhanges zwischen einem Verkehrsunfall
+und dem Verdienstausfall des Unfallopfers.
+
+ 1. Der Personenkraftwagen der Beschwerdeführerin kollidierte 1986 mit dem Fahrzeug des N., der infolge überhöhter Geschwindigkeit auf die Fahrspur der Beschwerdeführerin geraten war. Die Beschwerdeführerin erlitt eine Verletzung der Halswirbelsäule. Die bei der Beschwerdeführerin nach dem Unfall auftretenden Sehstörungen
+wurden über zwei Jahre zunächst erfolglos behandelt. Im Jahre 1989 wurde festgestellt, dass ihr rechtes Auge schwer geschädigt ist; insgesamt ist ihr Sehvermögen
+um 30% gemindert. Die Schmerzen an der Halswirbelsäule bestanden ebenfalls fort.
+Die Beschwerdeführerin gab ihre Tätigkeit als Verwaltungsangestellte im Jahre 1990
+auf und erhielt auf ihren Antrag zunächst eine Berufsunfähigkeitsrente, später eine
+Erwerbsunfähigkeitsrente. In diesem Zusammenhang wurde eine Minderung der Erwerbsfähigkeit von 40% festgestellt.
+
+ Im Jahre 1992 klagte die Beschwerdeführerin gegen den Haftpflichtversicherer des       3
+N., um (weiteren) Schadensersatz zu erhalten. Hierauf sprach ihr das Landgericht mit
+Teilend- und Grundurteil vom 17. August 1998 ein ergänzendes Schmerzensgeld
+von 10.000 DM zu und stellte fest, dass die beklagte Versicherung alle aus dem Verkehrsunfall resultierenden materiellen und immateriellen Schäden zu ersetzen habe;
+der Unfall sei adäquat kausal für die Sehstörungen und die Verstauchung der Halswirbelsäule.
+
+  Gegen die Entscheidung des Landgerichts legten beide Parteien Berufung beim           4
+Oberlandesgericht ein. Das Berufungsgericht fasste den Tenor der angegriffenen
+Entscheidung mit Urteil vom 3. Dezember 1999 neu, ohne den Urteilsausspruch des
+Landgerichts inhaltlich zu modifizieren. Es verwies den Rechtsstreit an das Landgericht zur Entscheidung über die Höhe des der Beschwerdeführerin zu ersetzenden
+Schadens zurück.
+
+ 2. Mit Schlussurteil vom 30. Januar 2008 verurteilte das Landgericht die Beklagte      5
+zur Zahlung von 19.883,69 € unter Abweisung der Klage im Übrigen. Von den Kosten
+des Rechtsstreits wurden der Beschwerdeführerin 62% auferlegt. In der Begründung
+wurde darauf hingewiesen, dass die Alleinhaftung der Beklagten dem Grunde nach
+
+
+                                         2/10
+
+unstreitig sei. Das Gericht sei überzeugt, dass die Beschwerdeführerin durch den
+Unfall ein ausgeheiltes Schleudertrauma der Halswirbelsäule und eine dauernde Augenverletzung erlitten habe. Zum Verdienstausfall führte das Landgericht aus, es stehe zu seiner Überzeugung fest, dass die Beschwerdeführerin infolge ihres unfallbedingten Augenleidens „in der Minderung ihrer Erwerbsfähigkeit zu 40% auf Dauer
+beeinträchtigt“ sei. Ein Verdienstausfall könne der Beschwerdeführerin nur unter den
+Bedingungen, wie sie vor dem Unfall herrschten, zugesprochen werden. Für die Berechnung der Höhe sei § 9 EStG in der jeweils geltenden Fassung heranzuziehen.
+Dies führe zu einer Kürzung des geltend gemachten Verdienstausfalls um 82% auf
+12.249,55 €. Da bei der Beschwerdeführerin eine Minderung der Erwerbsfähigkeit
+von 40% festgestellt sei, habe sie 40% von dieser Summe, mithin 4.899,82 € nicht
+erzielen können.
+
+  3. Die Beschwerdeführerin legte am 4. März 2008 beim Oberlandesgericht Berufung gegen das Urteil des Landgerichts ein.
+
+  Mit Hinweisbeschluss vom 17. September 2008 teilte das Oberlandesgericht mit,          7
+dass es die Zurückweisung der Berufung beabsichtige. Das Landgericht habe jedenfalls im Ergebnis zu allen relevanten Punkten zutreffend Stellung genommen. Hinsichtlich des Verdienstausfalls führte das Oberlandesgericht aus, dass die Minderung
+der Erwerbsfähigkeit für einen zivilrechtlichen Ersatzanspruch nicht maßgeblich sei.
+Es komme auf den konkreten Verdienstausfall an. Hierbei sei maßgeblich, ob die Beschwerdeführerin trotz der abstrakt festgestellten Arbeitsfähigkeit von 60% imstande
+gewesen wäre, in ihrem Beruf 60% ihrer bisherigen Einnahmen zu erzielen oder eine
+zumutbare andere Arbeit hätte finden und dabei 60% ihrer früheren Einnahmen tatsächlich hätte verdienen können. Nur wenn dies verneint werden müsste, wäre der
+ganze Durchschnittsverdienst zu ersetzen. Genau von diesen Grundsätzen sei das
+Landgericht in nicht zu beanstandender Weise ausgegangen. Im Übrigen gelte hinsichtlich des Verdienstausfalls für 1990, Januar/Februar 1991 und von Oktober 1991
+bis zum 30. Juni 2002, dass sich die Beschwerdeführerin nach ihrem Vortrag in einem unkündbaren Arbeitsverhältnis befunden habe, so dass ein unfallbedingter Arbeitsplatzverlust ausscheide. Wenn sich die Beschwerdeführerin nach Aufforderung
+durch ihre Krankenkasse, aber ohne rechtlichen Grund, habe verrenten lassen, könne dies nicht zur Haftung der Beklagten führen. Die nicht durch eine unfallbedingte
+Kündigung des Arbeitgebers erzwungene Arbeitsplatzaufgabe schließe nach der
+Rechtsprechung des Senats die Haftung des Unfallschädigers für den Verdienstausfall aus.
+
+ Das Oberlandesgericht wies die Berufung der Beschwerdeführerin mit Beschluss            8
+vom 25. Februar 2009 zurück. Zur Begründung bezog sich das Gericht im Wesentlichen auf den Hinweisbeschluss vom 17. September 2008.
+
+ Die Anhörungsrüge wies das Oberlandesgericht mit Beschluss vom 20. März 2009            9
+zurück.
+
+ 4. Mit ihrer am 23. April 2009 erhobenen Verfassungsbeschwerde macht die Be-           10
+
+
+                                         3/10
+
+schwerdeführerin unter anderem geltend, die Ausführungen des Oberlandesgerichts
+zur Auslegung des erstinstanzlichen Urteils seien willkürlich. Das Berufungsgericht
+gehe zwar zutreffend davon aus, dass die Minderung der Erwerbsfähigkeit für den
+zivilrechtlichen Schadensersatzanspruch nicht maßgeblich sei, sondern vielmehr der
+konkrete unfallbedingte Verdienstausfall. Es sei deshalb durch das Gericht auch zu
+Recht dargelegt worden, dass entscheidend sei, ob die Beschwerdeführerin trotz der
+abstrakt festgestellten Arbeitsfähigkeit von noch 60% imstande gewesen wäre, in ihrem Beruf 60% ihrer bisherigen und zu erwartenden Einnahmen zu erzielen, oder
+jedenfalls eine zumutbare andere Arbeit hätte finden und dabei diese 60% ihrer früheren Einnahmen tatsächlich verdienen können, anderenfalls grundsätzlich der gesamte Durchschnittsverdienst zu ersetzen wäre. Wenn das Oberlandesgericht aber
+dann darauf abstelle, das Landgericht sei von diesen Grundsätzen ausgegangen, unterstelle es dem erstinstanzlichen Gericht Erwägungen, die es nicht angestellt habe.
+Das Landgericht sei gerade nicht von einer abstrakten Arbeitsfähigkeit ausgegangen.
+
+ 5. Die Bayerische Staatsregierung und die Beklagte des Ausgangsrechtsstreits haben von einer Stellungnahme abgesehen.
+
+                                         II.
+  Die Kammer nimmt die Verfassungsbeschwerde zur Entscheidung an und gibt ihr           12
+statt, soweit das Oberlandesgericht die auf eine Zahlung in Höhe von 39.794,85 € für
+entgangenen Verdienstausfall gerichtete Berufung der Beschwerdeführerin vom
+4. März 2008 gegen das Urteil des Landgerichts München I vom 30. Januar 2008 zurückgewiesen hat. Dies ist zur Durchsetzung der in § 90 Abs. 1 BVerfGG genannten
+Rechte der Beschwerdeführerin angezeigt (§ 93a Abs. 2 Buchstabe b BVerfGG).
+Das Bundesverfassungsgericht hat die für die Beurteilung der Verfassungsbeschwerde maßgeblichen verfassungsrechtlichen Fragen bereits entschieden (§ 93c Abs. 1
+Satz 1 BVerfGG). Die Verfassungsbeschwerde ist im genannten Umfang zulässig
+und offensichtlich begründet im Sinne von § 93c Abs. 1 Satz 1 BVerfGG. Im Übrigen
+ist die Verfassungsbeschwerde nicht zur Entscheidung anzunehmen.
+
+ 1. Die Entscheidung des Oberlandesgerichts verletzt das Grundrecht der Beschwerdeführerin aus Art. 3 Abs. 1 GG.
+
+ a) Der allgemeine Gleichheitssatz des Art. 3 Abs. 1 GG gebietet, wesentlich Gleiches gleich und wesentlich Ungleiches ungleich zu behandeln (vgl. BVerfGE 1, 14
+<52>; 98, 365 <385>; stRspr). Der allgemeine Gleichheitssatz wendet sich nicht nur
+an den Gesetzgeber, sondern bindet auch die vollziehende Gewalt und die Rechtsprechung. Allerdings zieht Art. 3 Abs. 1 GG der Rechtsprechung bei der Auslegung
+und Anwendung des einfachen Rechts - im Sinne eines Willkürverbots - nur gewisse
+äußerste Grenzen (vgl. BVerfGE 42, 64 <73>; 62, 189 <192>). Nicht jede fehlerhafte
+Anwendung des einfachen Rechts stellt daher einen Verstoß gegen den allgemeinen
+Gleichheitssatz dar. Ein Richterspruch ist nur dann verfassungsrechtlich zu beanstanden, wenn er unter keinem rechtlichen Aspekt vertretbar ist (stRspr; vgl. BVerfGK
+11, 390 <396> m.w.N.).
+
+
+                                         4/10
+
+  b) Nach diesem Maßstab ist die angegriffene Entscheidung mit Art. 3 Abs. 1 GG         15
+nicht vereinbar. Die in dem Hinweisbeschluss des Oberlandesgerichts vom 17. September 2008 enthaltenen und die Zurückweisung der Berufung durch Beschluss vom
+25. Februar 2009 tragenden Erwägungen, mit denen das Gericht die den Angriffen
+der Beschwerdeführerin gegen die durch das Landgericht festgestellte Höhe des unfallbedingten Verdienstausfallschadens entgegen getreten ist, sind unter keinem
+rechtlichen Gesichtspunkt vertretbar.
+
+  aa) Soweit das Oberlandesgericht davon ausgeht, dass der Wegfall oder die Minderung der Arbeitsleistung als solche keinen schadensersatzrechtlich relevanten Schaden darstellt, maßgebend vielmehr der konkrete Verdienstausfall der Beschwerdeführerin aufgrund ihrer Unfallverletzungen ist, stimmt dies mit der in Rechtsprechung
+und Literatur allgemein vertretenen Ansicht überein (vgl. BGHZ 38, 55 <55 f.>; 54, 45
+<50>; 90, 334 <336>; BGH, Urteil vom 8. November 2001 - IX ZR 64/01 -, NJW
+2002, S. 292 <293>; Küppersbusch, Ersatzansprüche bei Personenschaden,
+10. Aufl. 2010 Rn. 40; Greger, Haftungsrecht des Straßenverkehrs, Großkommentar,
+3. Aufl. 1997, § 11 StVG Rn. 64). Der Rechtsprechung des Bundesgerichtshofs entspricht auch der daran anschließende Prüfungsansatz des Oberlandesgerichts, ob
+die Beschwerdeführerin trotz der abstrakt festgestellten Arbeitsfähigkeit von noch
+60% imstande gewesen wäre, in ihrem Beruf 60% ihrer bisherigen und zu erwartenden Einnahmen zu erzielen, oder jedenfalls eine zumutbare andere Arbeit hätte finden und dabei diese 60% ihrer früheren Einnahmen tatsächlich hätte verdienen können; der ganze Durchschnittsverdienst wäre grundsätzlich nur dann zu ersetzen,
+wenn diese Fragestellungen zu verneinen wären (vgl. BGH, Urteil vom 24. Oktober
+1978 - VI ZR 142/77 -, VersR 1978, S. 1170; s. auch BGH, Urteil vom 25. Januar
+1968 - III ZR 122/67 -, VersR 1968, S. 396 f.).
+
+  Nicht nachzuvollziehen ist jedoch, wenn das Oberlandesgericht die Anwendung dieser Maßstäbe auf die Feststellung beschränkt, das Landgericht sei genau von diesen
+Grundsätzen in nicht zu beanstandender Weise ausgegangen. Dies trifft offensichtlich nicht zu. Das Landgericht ist ausgehend von seiner Überzeugung, dass die Beschwerdeführerin infolge ihres unfallbedingten Augenleidens in der Minderung ihrer
+Erwerbsfähigkeit (MdE) zu 40% auf Dauer beeinträchtigt sei, zu dem Ergebnis gelangt, dass die Beschwerdeführerin „angesichts der bestehenden MdE von 40%“
+nicht in der Lage sei, den entsprechenden Anteil des - zuvor anhand der unbestrittenen Berechnungen der Beschwerdeführerin ermittelten - bereinigten Verdienstes zu
+erzielen. Es zieht den mit den zuvor dargestellten Rechtsgrundsätzen nicht zu vereinbarenden Schluss, der tatsächliche unfallbedingte Verdienstausfall der Beschwerdeführerin errechne sich „als 40%-Anteil in Höhe von (40% von 12.249,55 € =)
+4899,82 €“. Damit stellt das Landgericht also nicht - wie das Oberlandesgericht ohne
+erkennbaren sachlichen Grund behauptet - auf den konkreten Verdienstausfall der
+Beschwerdeführerin ab, sondern allein auf die Minderung der Erwerbsfähigkeit als
+Faktor der Berechnung des Verdienstausfallschadens. Die angegriffene Entscheidung stützt sich demnach bei der Rechtsanwendung auf eine Argumentation, die mit
+
+
+
+                                         5/10
+
+den vom Oberlandesgericht als maßgeblich erachteten Rechtssätzen unvereinbar
+ist. Dies ist nicht nachvollziehbar und willkürlich.
+
+  bb) Die angegriffene Entscheidung beruht auch auf der willkürlichen Zurückweisung    18
+der Angriffe der Beschwerdeführerin gegen die Feststellung der Höhe ihres Verdienstausfallschadens. Die weitere Erwägung des Oberlandesgerichts, nach der eine
+Haftung der Beklagten für den Verdienstausfall der Beschwerdeführerin ausgeschlossen sei, weil sie sich bis 1990 in einem unkündbaren Arbeitsverhältnis bei einem kirchlichen Arbeitgeber befunden und nach Aufforderung durch die Krankenkasse ohne zwingenden rechtlichen Grund habe verrenten lassen, ist ebenfalls nicht
+nachvollziehbar und kann daher die angegriffene Entscheidung nicht selbständig tragen. Die nicht durch eine unfallbedingte Kündigung von Seiten des Arbeitgebers erzwungene Aufgabe des Arbeitsplatzes kann zwar einen Grund darstellen, der eine
+Schadensersatzpflicht des Unfallverursachers für den anschließenden Verdienstausfall ausschließt. Die von der Beschwerdeführerin vorgetragenen Geschehnisse im
+Vorfeld der von ihr ausgesprochenen Kündigung legen einen derartigen Schluss jedoch unter keinem erkennbaren Gesichtspunkt nahe.
+
+  (1) Ein Schadensersatzanspruch setzt voraus, dass es sich bei dem geltend gemachten Schaden um eine adäquat-kausale Unfallfolge handelt (unstr.; vgl. etwa
+BGHZ 74, 221 <225>). Diese allgemeine Voraussetzung für eine Haftung genügt
+aber nicht in jedem Fall, um die Ersatzpflicht des Schädigers für einen bestimmten
+Schaden zu begründen. Trotz adäquater Verursachung kann es ausnahmsweise an
+dem für die Einstandspflicht nötigen inneren Zusammenhang zwischen der Schutzgutverletzung und dem daraus entstehenden Schaden fehlen, für den der Verletzte
+Ersatz verlangt. Besteht bei der insoweit gebotenen wertenden Betrachtung zwischen der Verletzungshandlung und der geltend gemachten Schadensfolge nicht
+mehr als ein rein äußerer, gleichsam zufälliger Zusammenhang, dann fehlt es an der
+sachlichen Berechtigung, dem Schädiger auch diese Schadensfolge zuzurechnen
+(vgl. BGHZ 25, 86 <90 ff.>; 70, 374 <376>; 74, 221 <225>; s. auch BGH, Urteil vom
+17. September 1991 - VI ZR 2/91 -, NJW 1991, S. 3275 <3276>). An dem für die Einstandspflicht erforderlichen haftungsrechtlichen Zusammenhang mit dem Gefahrenbereich, den der Schädiger durch die Schutzgutverletzung für den Geschädigten eröffnet hat, kann es insbesondere dann fehlen, wenn der Geschädigte aufgrund eines
+eigenen Willensentschlusses selbst in den Geschehensablauf eingegriffen und dadurch die eigentliche Ursache für die von ihm geltend gemachte Schadensfolge gesetzt hat. Bei solcher Fallgestaltung kann eine wertende Betrachtung zu dem Ergebnis führen, dass der hierdurch geprägte Schaden ausschließlich dem eigenen
+Lebensrisiko des Geschädigten zuzuordnen ist. So ist anerkannt, dass der haftungsrechtliche Zusammenhang zur Schutzgutverletzung unterbrochen ist, wenn das den
+Schaden auslösende Verhalten des Geschädigten völlig ungewöhnlich oder unsachgemäß ist (BGHZ 103, 113 <119>; BGH, Urteil vom 16. Januar 1990 - VI ZR 170/89 -
+, NJW 1990, S. 1360 f.>; BGH, Urteil vom 14. März 1985 - IX ZR 26/84 -, NJW 1986,
+S. 1329 <1331>). Entsprechendes kann gelten, wenn der den Schaden herbeiführen-
+
+
+
+                                        6/10
+
+de Willensentschluss des Geschädigten der vom Schädiger geschaffenen Gefahrenlage so weit entrückt und so tief in den Bereich des eigenen Lebensrisikos des Geschädigten hinein verlagert ist, dass der Schädiger für diese Folge gerechterweise
+nicht mehr haftbar gemacht werden kann (BGH, Urteil vom 17. September 1991 -
+VI ZR 2/91 -, NJW 1991, S. 3275 <3276>). Der Bundesgerichtshof betont allerdings
+ausdrücklich, dass an die Annahme eines solchen Ausnahmefalles strenge Anforderungen zu stellen sind und es der im Schadensrecht geltende Grundsatz der Totalrestitution gebiete, eine dahingehende Bewertung nur in außergewöhnlich gelagerten Fällen vorzunehmen (BGH, Urteil vom 17. September 1991 - VI ZR 2/91 -, NJW
+1991, S. 3275 <3276>).
+
+  (2) Das Oberlandesgericht hat sich mit diesen Rechtssätzen nicht auseinandergesetzt. Dies war aber nach dem Sach- und Streitstand offensichtlich geboten. Nach ihrem von der Beklagten nicht bestrittenen Berufungsvorbringen zu den Ereignissen in
+dem Zeitraum zwischen dem Unfall und der Beendigung ihrer Tätigkeit als Verwaltungsangestellte gab es nachvollziehbare Gründe für ihre Entscheidung, das Arbeitsverhältnis zu kündigen und fortan zunächst von einer Berufsunfähigkeitsrente, dann
+von einer Erwerbsunfähigkeitsrente zu leben: Nach dem Unfall nahm die Beschwerdeführerin ihre Arbeit wieder auf, musste sich aber in der Folgezeit wegen der bei
+dem Unfall erlittenen Verletzungen an der Halswirbelsäule und in diesem Zusammenhang bestehender augenbedingter Kopfschmerzen zahlreichen ärztlichen Behandlungen unterziehen. Ihr Arbeitgeber nahm diese Situation schon drei Monate
+nach dem Unfall zum Anlass, die Beschwerdeführerin aufzufordern, sich auf ihre
+Dienstfähigkeit untersuchen zu lassen, was auch geschah und zu weiteren ärztlichen
+Untersuchungen führte, zunächst jedoch nicht zur Aufgabe ihrer beruflichen Tätigkeit. Die ärztlichen Behandlungen wurden auch in den Folgejahren fortgesetzt. In den
+Jahren 1987 und 1988 war die Beschwerdeführerin wegen ihrer unfallbedingten Beschwerden jeweils 55 Tage krank geschrieben oder dienstunfähig. Der Augenarzt der
+Beschwerdeführerin überwies sie im Juli 1989 zu einer Untersuchung an die Universitätsklinik in Gießen, bei der die Auswirkungen ihrer Beschwerden an der Halswirbelsäule und die hieraus resultierenden Beeinträchtigungen an dem Sehvermögen
+auf die Arbeitsfähigkeit der Beschwerdeführerin gutachterlich geprüft wurden. Die
+Universitätsklinik teilte dem Augenarzt mit, dass bei der Beschwerdeführerin eine
+posttraumatische Konvergenzinsuffizienz vorliege, die mit Augenbeschwerden einhergingen. Ein nachfolgendes medizinisches Gutachten bestätigte die Verdachtsdiagnose. Ab August 1989 wurde die Beschwerdeführerin von ihrem Augenarzt wegen
+ihrer Augenbeschwerden erneut arbeitsunfähig krankgeschrieben und blieb dies bis
+in das Jahr 1990 hinein. Vor diesem Hintergrund wurde die Beschwerdeführerin von
+ihrer Krankenkasse aufgefordert, einen Rentenantrag zu stellen. Die Beschwerdeführerin entschloss sich, dieser Anregung zu folgen, beantragte im Dezember 1989 die
+Gewährung einer Rente und kündigte schließlich ihr Arbeitsverhältnis als Verwaltungsangestellte.
+
+ Dieser Sachverhalt bedurfte zwingend der rechtlichen Würdigung durch das Ober-        21
+
+
+
+                                        7/10
+
+landesgericht anhand der dargestellten höchstrichterlichen Rechtsprechung. Es liegt
+keineswegs auf der Hand, vielmehr sogar fern, von einem rein äußeren, gleichsam
+zufälligen Zusammenhang zwischen dem Unfall und dem im Gefolge der Kündigung
+des Arbeitsverhältnisses einhergehenden Verdienstausfall auszugehen, auch wenn
+die Kündigungserklärung auf dem eigenen Willensentschluss der Beschwerdeführerin beruht. Unter den geschilderten Umständen spricht nach dem Erkenntnisstand
+der Kammer nichts dafür, dass der ab dem Jahre 1990 eintretende Verdienstausfall
+ausschließlich dem eigenen Lebensrisiko der Beschwerdeführerin zugeordnet werden müsste. Es erscheint nicht außergewöhnlich, dass sich eine Verwaltungsangestellte, die auf ihr Sehvermögen angewiesen ist, wegen der beschriebenen unfallbedingten Augenbeschwerden und der dadurch bedingten Arbeitsausfälle dazu
+entschließt, ihren Beruf aufzugeben.
+
+  Soweit sich das Oberlandesgericht darauf stützt, dass sich die Beschwerdeführerin      22
+nach ihrem Berufungsvortrag im Unfallzeitpunkt in einem unkündbaren Arbeitsverhältnis befunden habe, so dass ein unfallbedingter Verlust des Arbeitsplatzes von
+vorneherein ausgeschieden sei, liegt darin eine willkürliche Fehlinterpretation des
+Vorbringens der Beschwerdeführerin. Angesichts ihres sonstigen Vorbringens liegt
+es auf der Hand, dass die Beschwerdeführerin lediglich dartun wollte, in einem Dauerarbeitsverhältnis zu stehen; ihr Vortrag enthält mitnichten die Behauptung, dass sie
+einen gewissermaßen absoluten, auch in der Person des Arbeitnehmers liegende
+Kündigungsgründe ausschließenden Kündigungsschutz genossen habe. Die weitere
+Erwägung des Oberlandesgerichts, es begründe keine Haftung der Beklagten für den
+Verdienstausfallschaden, wenn sich die Beschwerdeführerin dann auf die Aufforderung ihrer Krankenkasse hin ohne zwingenden rechtlichen Grund verrenten lasse,
+verfehlt die dargestellten Maßstäbe des Haftungsrechts in krasser Weise und ist nicht
+nachvollziehbar. Soweit sich das Oberlandesgericht auf den Rechtssatz stützt, die
+nicht durch eine unfallbedingte Kündigung seitens des Arbeitgebers erzwungene Aufgabe eines Arbeitsplatzes schließe eine Eintrittspflicht des Unfallschädigers für den
+anschließenden Verdienstausfall aus, beruft es sich lediglich auf eigene unveröffentlichte Entscheidungen, ohne deren Sachverhalte und entscheidungsrelevanten Erwägungen offenzulegen und ohne sich mit der oben referierten Rechtsprechung des
+Bundesgerichtshofs zu befassen, die eine wesentlich differenziertere Sicht gebietet.
+
+ 2. Im Übrigen wird die Verfassungsbeschwerde nicht zur Entscheidung angenommen. Von einer Begründung wird nach § 93d Abs. 1 Satz 3 BVerfGG abgesehen.
+
+                                         III.
+  Die Kammer hebt nach § 93c Abs. 2 in Verbindung mit § 95 Abs. 2 BVerfGG den            24
+Beschluss des Oberlandesgerichts München vom 25. Februar 2009 auf, soweit er die
+auf eine Zahlung in Höhe von 39.794,85 € für entgangenen Verdienstausfall gerichtete Berufung der Beschwerdeführerin gegen das Urteil des Landgerichts München I
+vom 30. Januar 2008 - 17 O 2307/92 - zurückweist. Das Bundesverfassungsgericht
+hält es für geboten, die Sache an ein anderes Oberlandesgericht zur erneuten Ent-
+
+
+                                         8/10
+
+scheidung zu verweisen.
+
+ Der Beschluss des Oberlandesgerichts München vom 20. März 2009 wird damit im    25
+Umfang der Aufhebung des Beschlusses vom 25. Februar 2009 gegenstandslos.
+
+ Die Entscheidung über die Auslagenerstattung beruht auf § 34a Abs. 2 BVerfGG.   26
+
+              Osterloh            Mellinghoff           Gerhardt
+
+
+
+
+                                      9/10
+
+Bundesverfassungsgericht, Beschluss der 1. Kammer des Zweiten Senats vom
+18. Januar 2010 - 2 BvR 906/09
+
+Zitiervorschlag BVerfG, Beschluss der 1. Kammer des Zweiten Senats vom 18. Januar 2010 - 2 BvR 906/09 - Rn. (1 - 26), http://www.bverfg.de/e/
+                rk20100118_2bvr090609.html
+
+ECLI            ECLI:DE:BVerfG:2010:rk20100118.2bvr090609
+
+
+
+
+                                    10/10
