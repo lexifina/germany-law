@@ -1,0 +1,104 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-01-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1864348
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1864348
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Oktober-Protokoll
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Kindergrupppe Giesing - Raumsuche, Schreiben der Kindergruppe Giesing vom 08.12.2009
+- TOP 2.2.: Gufidaunerstraße; Grünanlage und Laubbäume; Taubenproblematik; Abwasserschächte; Bürgerschreiben vom 09.12.2009
+- TOP 2.3.: Wildparker in der Naupliastraße; Lärmschutz Tegernseer Landstraße; Markierung des Fahrradwegs der Oberbibergerstraße; Fahrrad-Parkproblem; Bürgerschreiben vom 08.12.2009
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Maibaumverein Menterschwaige e.V. Maifeier v. 30.04. - 02.05.2010
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Kath. Pfarramt Hl. Familie, für die Maßnahme: Innenrenovierung der St. Anna Kirche; Antragssumme: ? ?; Antrag vom 15.12.2009
+- TOP 3.2.: AntragstellerIn: BI "Mehr Platz zum Leben", für die Maßnahme: div. Skulpturen und Christbaumschmücken im Rahmen des Kunstforums Hans-Mielich-Platz; Antragssumme: 5.630,-- ?; Antrag vom 25.12.2009
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Oberbibergerstraße - Fahrradweg zwischen Tegelbergstraße und Mangfallplatz; Erneuerung der Teerdecke der Oberbibergerstraße; Antrag der CSU-Fraktion - <div>nach Antrag</div>
+- TOP 3.2.: Regulierung des Verkehrs an der Humboldtstraße Ecke Claude-Lorrain-Straße; Antrag der SPD-Fraktion - <div>abglehnt</div>
+- TOP 3.1.: Klara-Heese-Straße; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.2.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Grünwalder Straße 29; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 25.11.2009
+- TOP 3.3.: Haltverbot an der Bushaltestelle Lebscheestraße (MVG-Linie 52 Richtung Marienplatz); verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 25.11.2009
+- TOP 3.4.: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München a) Untersuchungsergebnisse 2009: - "Vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring" - "Gutachten zur Flughafenanbindung" b) Umplanung des 2. S-Bahn-Tunnels im Ostabschnitt mit Haltepunkt Ostbahnhof (tief) c) Beabsichtigtes weiteres Vorgehen Sitzungsvorlagen Nr. 08-14 / V 03421 Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 16.12.2009
+- TOP 3.5.: Umlaufsperren in Grünanlagen; Schreiben des Baureferats-Gartenbau vom 23.12.2009 mit der Bitte um Kenntnisnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Claude-Lorrain-Straße; Schutz der Buchen im Straßenbegleitgrün vor parkenden Autos; Kontrolle der Parksituation; Schreiben des BA 18 vom 24.08.2009; Antwortschreiben des Baureferats vom 03.12.2009 (positive Erledigung)
+- TOP 3.1.: Isar-Plan; Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; Bauabschnitt 7: "Realisierung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke"; Bauabschnitt 7 Nord, "Übergang zum Deutschen Museum" von ca. 300 m südlich der Reichenbachbrücke bis in die kleine Isar; Sitzungsvorlage Nr. 08-14 / V 03361; Beschluss des Bauausschusses vom 08.12.2009 (SB)
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen Heinrich-Kroller-Straße; Bescheinigung vom 08.12.2009
+- TOP 3.3.: Lichtkonzept für den öffentlichen Raum in München; Lichtkonzept I; Beleuchtungskonzept für die Landeshauptstadt München mit dem Ziel, das Erscheinungsbild der Stadt zu verbessern und Energie einzusparen; Lichtkonzept II; Beleuchtung neuer Vorhaben und großer Neubaugebiete und Siedlungen in München; Lichtkonzept III; Beleuchtung städtischer Plätze, Gebäude und Stadtlandschaften; Beschluss des Bauausschusses vom 19.01.10
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Ameisenplage auf Spielplätzen und Bürgersteigen; Antrag des BA 10 - Moosach aus der Sitzung vom 14.12.2009 mit der Bitte um Unterstützung
+- TOP 3.1.: Ausschreibung zur Ausrichtung des Weltkindertages 2010 "Beteiligung von Kindern - Das Recht aus Freizeit, Spiel und Ruhe"; Anmeldeschluss: 19.02.2009; Schreiben des Sozialreferates vom 18.12.2009 mit der Bitte um kurze Rücksprache
+- TOP 3.1.: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2009; Sitzungsvorlage Nr. 08-14/V 03271; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.2009
+- TOP 3.2.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010; Sitzungsvorlage Nr.: 08-14 / V 03499; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 13.01.2010
+- TOP 3.3.: Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010; Stand 20.10.2009; Sitzungsvorlage Nr. 08-14/V 03370; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 3.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14/V 03393; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2009
+- TOP 3.5.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14/V 03371; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 13.01.2010
+- TOP 3.6.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14/ V 03432; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13. Januar 2010
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung; Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n. F. nunmehr vorgesehene "doppelte Behördenbeteiligung"; Antrag des BA 16 vom 28.07.09; Schreiben des Direktoriums vom 15.12.2009 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Lautererstraße 9; Neubau eines Doppelhauses - Haus A; Anhörung vom 10.12.09 (vertagt aus der Sitzung vom 15.12.09)
+- TOP 3.2.: Anwesen Lautererstraße 9; Neubau eines Doppelhauses - Haus B; Anhörung vom 10.12.2009 (vertagt aus der Sitzung vom 15.12.2009)
+- TOP 3.3.: Anwesen in der Vintschgauer Straße 10; Neubau eines Einfamilienhauses; Anhörung vom 15.12.2009
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Einrichtung eines Trinkwasserbrunnens am Mangfallplatz; BA-Antrags-Nr. 08-14 / B 01424 des BA 18 vom 21.07.09; Antwortschreiben des Baureferats vom 09.12.09 (negative Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich rechtzeitig widmen; Sitzungsvorlage Nr. 08-14 / V 03366; Beschluss des Bauausschusses vom 08.12.2009 (SB)
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW "al Dente"; Schönstraße 21; Mitteilung vom 17.12.2009
+- TOP 3.4.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen; Beschluss vom 25.11.2009; Schreiben des Kreisverwaltungsreferates vom 03.12.2009
+- TOP 3.5.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung; Sitzungsvorlage Nr. 08-14 / V 03424; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
