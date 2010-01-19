@@ -1,0 +1,120 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-01-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904326
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904326
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Janusch Kozminski Filmproduktion (Az.: 05/02 - 3.6.4): Zuschuss in Höhe von 12.000 ? für die Erstellung von sechs Filmen über Straßen
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: KVR (Az. 01/10 - 4.1): Genehmigung einer Freischankfläche, "Bachmaier Wirtshaus", Dachauer Str. 185
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Antrag Bündnis 90 / Die Grünen: Aufzüge Laimer Unterführung zur S-Bahn
+- TOP 3.2.: KVR: City Bike Marathon am 18.04.10
+- TOP 3.3.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Merzbacherstr. 24
+- TOP 3.4.: KVR: Änderung der Zeiten beim absoluten Haltverbot in der Karl-Schurz-Straße zwischen Isenstein- und Aldrianstraße
+- TOP 3.5.: KVR: Anordnung einer Feuerwehrzufahrt am Nördlichen Schlossrondell
+- TOP 3.6.: Baureferat: Umlaufsperren in Grünanlagen
+- TOP 3.7.: Beschluss des Bauausschusses vom 08.12.09: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Bayer. Schlösserverwaltung: Ausbesserung des Übergangs über den Biedersteiner Kanal am Nördlichen Schlossrondell vor Hausnr. 6 (Antrag BA 9 vom 17.11.09)
+- TOP 3.10.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Frundsbergstr. 1
+- TOP 3.11.: Direktorium: Bürgeranliegen Straßensituation im Stadtteil Neuhausen, Nymphenburg, Gern (Wiedervorlage aus der Sitzung vom 15.12.09) / Gespräch mit dem Baureferat
+- TOP 3.12.: Bürgeranliegen: Fernwärmeprojekt Jutastraße - Fahrbahnbelag
+- TOP 3.13.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Rupprechtstr. 15
+- TOP 3.14.: KVR: Einrichtung von zwei allgemeinen Behindertenparkplätzen in der Richelstr. 11
+- TOP 3.15.: Baureferat: Bürgeranliegen Sichtbehinderung an der Ausfahrt Landshuter Allee 33
+- TOP 3.16.: KVR: Bürgeranliegen Fahr- und Parkverbot für Lkw's im Bereich Rotkreuzplatz bis Arnulfstraße
+- TOP 3.17.: Bürgeranliegen: Tramhaltestelle Neuhauser Trafo
+- TOP 3.18.: Baureferat: Neue und verlängerte Fahrbahnmarkierung der Abbiegespuren am Romanplatz (Antrag BA 9 Nr. 1324 vom 21.07.09) Wiedervorlage aus der Sitzung vom 15.12.09
+- TOP 3.19.: KVR: Bürgeranliegen: Aufhebung der Einbahnstraßenregelung De-la-Paz-/Winfriedstraße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.20.: Bürgeranliegen: Beibehaltung der Braganzastraße als Sackgasse
+- TOP 3.21.: Baureferat: Bau eines Gehweges an der Ostseite der Johann-Schmaus-Straße (Antrag Nr. 1462 BA 9 vom 15.09.09)
+- TOP 3.22.: KVR: Juta-/Alfonsstraße; Wiederherstellung der ursprünglichen Vorfahrtsregelung (Schreiben BA 9 vom 16.12.08)
+- TOP 3.23.: Bürgeranliegen: Sichtbehinderung und Verkehrsgefährdung durch parkende Fahrzeuge an der Südlichen Auffahrtsallee (Südseite)
+- TOP 3.24.: Bürgeranliegen: Namensgebung für das Parklizenzgebiet Kasernenviertel
+- TOP 3.25.: Antrag Bündnis 90 / Die Grünen: Einführung des Parkraummanagements für den Bereich zwischen Landshuter Allee und Renatastraße (Wiedervorlage aus der Sitzung vom 20.10.09)
+- TOP 3.26.: Einrichtung eines Radlerweges zu beiden Seiten der Furt am Rotkreuzplatz (Antrag Stadträtin Schmucker aus der Rathaus-Umschau)
+- TOP 3.27.: Direktorium: Außerordentliche Bürgerversammlung für alle Münchner Bürger zur 2. S-Bahn-Stammstrecke mit den Schwerpunkten Sicherheit und guter Vernetzung mit anderen Verkehrsmitteln (Empfehlung der Bürgerversammlung des Stadtbezirkes Altstadt-Lehel vom 01.12.09)
+- TOP 3.28.: Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 16.12.09: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 3.29.: Bürgeranliegen: Antrag für mehr Sicherheit S-Bahnhof Hirschgarten / Backstage
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 23.11.-29.11., 30.11.-06.12., 07.12.-13.12., 14.12.-20.12. und 21.12.-27.12.09
+- TOP 3.2.: Bauvorhaben Leonrodstr. 13: Nutzungsänderung von Gemeinbedarf-Verwaltung zu Wohnbau; Neubau eines Wohnhauses mit Tiefgarage, Vorbescheid; hier: Baumfällungen
+- TOP 3.3.: Direktorium: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung; Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene "doppelte Behördenbeteiligung"
+- TOP 3.4.: Planungsreferat: Anforderung von Bauplänen durch den BA 9 vom 15.12.09
+- TOP 3.5.: Bauvorhaben Krumpenhofweg: Neubau zweier Wohngebäude (25 WE) mit Tiefgarage
+- TOP 3.6.: Bauvorhaben Furtwänglerstr. 16: Neubau eines Einfamilienhauses mit Garage
+- TOP 3.7.: Bauvorhaben Ysenburgstr. 7: Aufstockung des Rückgebäudes, Wiederaufbau des ursprünglichen Zustandes, Neubau einer Duplex-Doppelgarage; Vorbescheid
+- TOP 3.8.: Bauvorhaben Romanstr. 30: Umbau und Erweiterung eines Einfamilienhauses mit 2 WE und eines Nebengebäudes mit 1 WE, Nutzungsänderung eines Büros in Wohnen, Abbruch eines unterirdischen Schwimmbades
+- TOP 3.9.: Bauvorhaben Gudrunstr. 10: Nutzungsänderung: Gemüseladen zu Cafe / Bistro
+- TOP 3.10.: Planungsreferat: Nibelungenstr. 53, Neubau von 18 Wohnungen und Erweiterung der Tiefgarage (Schreiben BA 9 vom 20.10.09)
+- TOP 3.11.: Immobilien Freistaat Bayern: Nachnutzung des Geländes Rosa-Luxemburg-Platz / Emma-Ihrer-Straße, südliches Oberwiesenfeld (Schreiben BA 9 vom 12.11.09)
+- TOP 3.12.: Bauvorhaben Richelstr. 19: Umbau eines ehemaligen Stellwerks in Ausstellungs- und Verkaufsräume mit Betriebsleiterwohnung
+- TOP 3.13.: =&gt; dazu: Baumfälllungen
+- TOP 3.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.16.: Bauvorhaben Zuccalistr. 49: Neubau eines Mehrfamilienwohnhauses mit Tiefgarage, Vorbescheid
+- TOP 3.17.: Planungsreferat: Nymphenburger Str. 150: Nutzungsänderung einer Gastronomie in drei Spielcasinos (Schreiben BA 9 vom 20.10.09)
+- TOP 3.18.: Bauvorhaben Dachauer Str. 100: Neubau eines Hochschulgebäudes (Dachauer Str. 100-104c, Heßstr. 121), Vorbescheid
+- TOP 3.19.: Nichtöffentlich:
+- TOP 3.20.: WEB-Listen vom 01.12.-15.12.09
+- TOP 3.21.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Wendl-Dietrich-Straße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Romanstr. 93 - 93a: Fällung von 1 Buche, 1 Lärche, 2 Linden, 2 Ahorn, 1 Süßkirsche
+- TOP 3.2.: Trivastr. 12-16: Fällung von 1 Birke
+- TOP 3.3.: Baureferat: Fällen von Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.4.: Antrag Bündnis 90 / Die Grünen: Umweltplaketten
+- TOP 3.5.: BA 10 Moosach: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 3.6.: Planungsreferat: Fällungsgenehmigung Nymphenburger Str. 88
+- TOP 3.7.: Planungsreferat: Fällungsgenehmigung Dom-Pedro-Str. 19
+- TOP 3.8.: Planungsreferat: Fällungsgenehmigung Hirschgartenallee 46
+- TOP 3.9.: Planungsreferat: Fällgenehmigung Lazarettstr. 57 (Schreiben BA 9 vom 16.12.09)
+- TOP 3.10.: Bayer. Schlösserverwaltung: Beseitigung des Kastanienlaubs im Schlosspark Nymphenburg (Schreiben BA 9 vom 11.11.09)
+- TOP 3.11.: Referat für Gesundheit und Umwelt: Friedhof Nymphenburg, Bepflanzung des Abfallplatzes
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Sozialreferat: Beschlussvorlage Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Menzinger Str. 44-46 mit 36 Kinderkrippenplätzen
+- TOP 3.2.: Sozialreferat: Ausschreibung Weltkindertag 2010
+- TOP 3.3.: Schulreferat: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Engasserbogen 5
+- TOP 3.4.: Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.09: Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2009
+- TOP 3.5.: Bekanntgabe im Kinder- und Jugendhilfeausschuss vom 13.01.09: Neue Trägerschaften für Kinderkrippen seit Inkrafttreten des Bayerischen Kinderbildungs- und -betreuungsgesetzes am 01.08.05
+- TOP 3.6.: PSAG-West-Sitzungstermine für 2010
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Sozialreferat: Regionaler Sozialbericht 2008, Sozialregion Neuhausen-Nymphenburg-Moosach (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.9.: Sozialreferat: Zukunft des IWO II Menzinger Straße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Verwendungsnachweis für einen Zuschuss aus dem Budget des BA 9, hier: Kinderhaus Ferdinand e.V.
+- TOP 3.12.: Sozialreferat: Schulsozialarbeit an der Grundschule Hirschbergstraße (Antrag Nr. 1328 BA 9 vom 21.07.09)
+- TOP 3.13.: Baureferat: Bürgeranliegen Fußballwiese im Bereich des Helene-Lange-Wegs (Schreiben BA 9 vom 21.07.09)
+- TOP 3.14.: Geschäftsbericht 2009 Lilalu e.V. für den Zuschuss aus dem Budget des BA 9
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: Jahresübersicht 2009
+- TOP 3.2.: Kulturreferat: Protokoll Jour Fixe Bezirksausschüsse vom 19.10.09 (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.3.: Kommunalreferat: Überplanung des Areals Dachauer Str. 102-114 (Antrag BA 9 Nr. 959 vom 17.03.09), Wiedervorlage aus der Sitzung vom 15.12.09
+- TOP 3.4.: Direktorium: Zuwendung aus dem Budget der Bezirksausschüsse, hier: Theaterprojekt "Starke Stücke" (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.5.: Baureferat: Künstlerische Wandgestaltung Donnersbergerbrücke, Beleuchtung
+- TOP 3.6.: =&gt; dazu: Kulturreferat (Schreiben BA 9 vom 17.11.09)
+- TOP 3.7.: Verwendungsnachweis für einen Zuschuss aus dem Budget des BA 9, hier: Kultüren 7
+- TOP 3.9.: Antrag Janusch Kozminski Filmproduktion: Zuschuss in Höhe von 12.000 ? für die Erstellung von sechs Filmen über Straßen
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: KVR: Genehmigung einer Freischankfläche, "Bachmaier Wirtshaus", Dachauer Str. 185
+- TOP 4.2.: Bürgeranliegen: Ruhestörung durch Netto-Markt im Wohngebiet Leonrodstr. 31
+- TOP 4.3.: KVR: Spielfest in der Grünanlage Hirschgarten am 09.05.10
+- TOP 4.4.: KVR: Änderung der Sondernutzungserlaubnis bei Warenauslagen
+- TOP 4.5.: KVR: Kundgebung Amnesty International zum Thema "Hinrichtung des EU-Bürgers Akmal Shaikh in China" am 29.12.09 in der Romanstraße gegenüber dem chinesischen Generalkonsulat
+- TOP 4.6.: KVR: Pächterwechsel a) Gaststätte "Hannes", Hedwigstr. 9 b) Gaststätte "Kyklos", Wilderich-Lang-Str. 10 (Teilhabereintritt)
+- TOP 4.7.: KVR: Drehgenehmigung für "Soko 5113" am 09.12.09 in der Hippmannstraße, Laimer Straße, Gaßnerstraße
+- TOP 4.8.: Die GEWOFAG wird 100%-Tochter der Landeshauptstadt München
+- TOP 5: Verschiedenes
+- TOP 3.8.: Planungsreferat: Beschlussvorlage Dachauer Str. 100-110, Heßstraße südwestlich, Lothstr. 17; Ergänzung zum Eckdatenbeschluss Dachauer Str. 110-114 und Luitpold-Kaserne, Leonrodplatz, Dachauer Straße östlich, Schwere-Reiter-Straße südlich, Infanteriestraße westlich sowie weiteres Vorgehen vom 23.07.08
