@@ -1,0 +1,76 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-01-20T17:00:00+01:00
+- Ende: 2010-01-20T19:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1693
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1693
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Nachtpatrouillen der Ordnungsämter - beantwortet
+- TOP 3.2: Postfiliale am Hindenburgdamm 1 - beantwortet
+- TOP 3.3: Werbeanlagen im Schlachtensee - beantwortet
+- TOP 3.4: Sporthalle der Kästner-Grundschule - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 4.1.1: Kurzfristig Verbesserungen im S-Bahn-Verkehr für Steglitz-Zehlendorf erreichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Feststellungen - erledigt
+- TOP 4.2.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.3.1: Wahl eines stellv. Bürgerdeputierten im Haushaltsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Wahl eines stellv. Bürgerdeputierten im Ausschuss für Personal und Verwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungspläne Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan 6-22 'Truman Plaza' - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.6: Anträge - erledigt
+- TOP 4.6.1: Schneeräumung an Bushaltestellen verbessern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Umweltstandard für Regenwassereinläufe - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Wahrheit ohne Geschichtsklitterung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Fahrradangebotsstreifen in der Drakestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Weiterentwicklung der schulbezogenen Jugendsozialarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: Erhalt des Miniclubs im JFE Flemmingstraße bis Sommer 2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Energiesparen bei der Weihnachtsbeleuchtung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: Investitionsplanung zum "Quartierspark" auf der Planungsfläche für die B 101 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Ausbildung Klimaschutzberater/in im Sport - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Weihnachtsdekoration erst nach Totensonntag - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Solarmodule für die Kronach-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.11: Kein Wildschweinzutritt auf Spielplätzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.12: Busspur Drakestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Halle für Freizeitsport - überwiesen
+- TOP 5.1.2: Essensversorgung an sonderpädagogischen Förderzentren - überwiesen
+- TOP 5.1.3: Eine größere Kindertagesstätte am Markusplatz schaffen - überwiesen
+- TOP 5.1.4: Grüner Pfeil - überwiesen
+- TOP 5.1.5: (Aus-)Rutschgefahr am S-Bahnhof Zehlendorf beseitigen! - überwiesen
+- TOP 5.1.6: Nachwahl einer/eines Vorsitzenden des Behindertenbeirats - überwiesen
+- TOP 5.1.7: Schlaglochsanierungsprogramm - überwiesen
+- TOP 5.1.8: Beschleunigung M 48 im Ortskern Zehlendorf-Mitte - überwiesen
+- TOP 5.1.9: Neues Verkehrskonzept "Alte Fischerhütte" - überwiesen
+- TOP 5.1.10: Optimale Zusammenarbeit mit der Polizei - überwiesen
+- TOP 5.1.11: Ampelschaltung Kreuzung Bergstraße/Bismarckstraße - überwiesen
+- TOP 5.1.12: Beleuchtung Fischerhüttenstraße - überwiesen
+- TOP 5.1.13: Errichtung von Solaranlagen auf Dächern öffentlicher Gebäude - überwiesen
+- TOP 5.1.14: Und wieder Heizpilze - überwiesen
+- TOP 5.1.15: Obstfrühstück für die Schüler/innen der Paul-Braune-Schule - überwiesen
+- TOP 5.1.16: Schadstofffreie Elektrofahrzeuge - überwiesen
+- TOP 5.1.17: Tore für den Sportplatz des OSZ Immenweg - überwiesen
+- TOP 5.1.18: Hallenzeiten für den Jugend-Fußball im Bezirk - überwiesen
+- TOP 6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1: Preiswerte Baugrundstücke für Baugruppen - in der BVV abgelehnt
+- TOP 6.2: Planungsrechtliche Voraussetzungen für AUDI-Ansiedlung schaffen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Bundeswehr an die Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Umwandlung von Real-, Haupt- und Gesamtschulen in integrierte Sekundarschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Schlusswort des Bezirksverordnetenvorstehers - erledigt
