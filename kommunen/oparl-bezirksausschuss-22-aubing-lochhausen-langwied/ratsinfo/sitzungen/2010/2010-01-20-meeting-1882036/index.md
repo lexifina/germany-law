@@ -1,0 +1,112 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-01-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1882036
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1882036
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Abgabe von Verpackungsmaterial am Wertstoffhof (UA Planung)
+- TOP 2.2.: Parkplatzsituation am Rohrsängerplatz (UA Planung) (vertagt aus 12/09)
+- TOP 2.3.: Durchgangsverkehr auf der Kronwinkler Straße zwischen Aubing-Ost-Straße und Kastelburgstraße (UA Planung)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Streitbergstr. 24, Genehmigung der Baumfällung, Schr. Planungsreferat vom 14.12.09
+- TOP 3.2.: Unterrichtung über das Fällen von Gefahrenbäumen (Landschaftsschutzverordnung, Baumschutzverordnung), Listen des Baureferates vom 19.11.09
+- TOP 3.3.: Baumfällungen auf Anforderung: - Reichenaustr. 7, 1 Silberahorn - Olchinger Weg 4, 1 Birke - Lindacher Str. 9 b, 1 Lärche
+- TOP 3.4.: Baumfällungen zu einem Bauvorhaben: - Zwernitzer Str. 37, gem. Baumbestandsplan Nr. 2009-30476 - Bodenseestr. 230, gem. Baumbestandsplan Nr. 2009-31355 - Mainaustr. 2c, gem. Baumbestandsplan Nr. 2009-29651
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Fehlende Wegbeleuchtung in der Grünanlage zwischen Kastelburgstraße und Aubing-Ost-Straße Höhe der Hornberger Straße
+- TOP 4.2.: Errichtung von Buswartehäuschen an den Haltestellen Riesenburgstraße, Kunreuthstraße und Colmdorfstraße (Südseite) der Linie 143
+- TOP 4.3.: Ausgleichsflächen Langwieder Haide
+- TOP 5: Entscheidungen
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Aubinger Archiv e.V. (UA Budget)
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Elternbeirat der Hauptschule Wiesentfelser Str. (UA Budget)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Bewerbung: Ausrichtung des Weltkindertages 2010, Schr. Sozialreferat vom 21.12.09
+- TOP 6.2.: Veranstaltung auf Privatgrund, hier: 10. Aubinger Weinfest des Burschenvereins Aubing e.V. vom 16.07. - 17.07.2010 von 16.00 - 03.00 Uhr, Anhörung KVR vom 28.12.09
+- TOP 6.1.: Bericht 2007 bis 2009 der Antidiskriminierungsstelle für Menschen mit Migrationshintergrund - AMIGRA - der LH München, Schr. Direktorium vom 10.12.09
+- TOP 6.2.: Jahresübersicht 2009 zur Stadtteilkultur, Schr. Kulturreferat vom 15.12.09
+- TOP 6.3.: Infobrief Nr. 25 und Vollversammlung des Ausländerbeirats, Schr. Ausländerbeirat vom 23.12.09
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendung aus dem BA-Budget für den Förderverein der Limesschule e.V., Bewilligungsbescheid, Schr. Direktorium vom 23.12.09
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Siedlungsschwerpunkt Freiham, Städtebauliche Einbindung und Qualität der Vorhaltefläche für eine Trambahntrasse, Schr. BA 21 vom 07.12.09
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Köferinger Str. 10, Neubau eines Mehrfamilienhauses (6 WE) mit Tiefgarage (6 Stpl.), Anhörung des Planungsreferates vom 10.12.09 (vertagt aus 12/09)
+- TOP 6.2.: Weißensteinstr. 2, Neubau eines Geschosswohnungsbaus mit Tiefgarage - Vorbescheid, Anhörung des Planungsreferates vom 07.12.09 (vertagt aus 12/09)
+- TOP 6.3.: Schwojerstr. 24, Neubau eines Einfamilienhauses mit zwei Duplexgaragen, Anhörung des Planungsreferates vom 10.12.09 (vertagt aus 12/09)
+- TOP 6.4.: Bodenseestr. 234, Fl.Nr. 321/0 - Errichtung von 4 Werbetafeln, Anhörung Planungsreferat vom 17.12.09
+- TOP 6.5.: Bodenseestr. 230 - Nutzungsänderung der Fläche zu Parkplatz und zu Parkplatz für Gebrauchtwagenhändler - TEKTUR, Anhörung Planungsreferat vom 21.12.09
+- TOP 6.6.: Beschlussentwurf: Bebauungsplan Nr. 1536, Bergsonstraße (südlich), Industriestraße (westlich), Lidelstraße (nördlich) (Aufhebung des Aufstellungsbeschlusses), Anhörung Planungsreferat vom 30.12.09
+- TOP 6.7.: Erinnerungsverfahren, Projektname: Wiesentfelser Straße zw. Limesstraße und HausNr. 57, Fahrbahnsanierung, Anhörung Baureferat vom 30.12.09
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 30.11.-06.12.09, v. 07.12.-13.12.09, v. 14.12.-20.12.09, v. 21.12.-27.12.09), Schr. Planungsreferat vom 07.12.09, 14.12.09, 21.12.09, 29.12.09
+- TOP 6.2.: Bessere Beschilderung in der Goteboldstraße, Schr. KVR vom 11.12.09
+- TOP 6.3.: Verkehrsrechtliche Anordnung, Buswendeanlage am Bahnhof Lochhausen an der Lochhausener Straße (Buslinie 830), Schr. KVR vom 31.08.09
+- TOP 6.4.: Baugenehmigung Bodenseestr. Fl.Nr. 318/62, 1 Sammelhinweispylon für Baumarkt Praktiker, Schr. Planungsreferat vom 09.12.09
+- TOP 6.5.: Rad- und Fußwegunterführung an der S-Bahnstation Lochhausen: Errichten von Beleuchtungen am Fahrradständer auf der Nordseite
+- TOP 6.7.: Ablagerung von Kies oder ählichem Abraum am Imkerweg, Schr. Planungsreferat vom 02.12.09
+- TOP 6.8.: Baumaßnahmen der Stadtwerke, Stichtag: 07.12.09, 14.12.09, 21.12.09
+- TOP 6.9.: Sicherung des Standortes Ehrenbürgstr. 9 für Atelier und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unter Denkmalschutz/Ensembleschutz stehenen Anlagen, Schr. Kulturreferat vom 11.12.09
+- TOP 6.10.: Zweckentfremdung von Wohnraum, hier: Altostr. 84, Schr. Sozialreferat vom 16.12.09
+- TOP 6.11.: Parkverbot Goteboldstraße / Kreuzkapellenstraße, Schr. KVR vom 17.12.09
+- TOP 6.12.: Zugang zur S-Bahn Station Westkreuz, Schr. Planungsreferat vom 17.12.09
+- TOP 6.13.: Machbarkeitsstudie für die zukünftige Bahnunterführung an der Hellensteinstraße, Schr. Planungsreferat vom 17.12.09
+- TOP 6.14.: Mitteilung über ein Grundstücksgeschäft, Flst. 815 u.a. Aubing, BÜ Waldweg, Schr. Kommunalreferat vom 18.12.09
+- TOP 6.15.: Bebauungsplan mit Grünordnung Nr. 1593, Töginger Straße / BAB A 94 (südlich), Bahnlinie München-Mühldorf (nördlich), S-Bahnlinie München-Ismaning (östlich) - Hüllgraben - , Schr. Planungsreferat vom 22.12.09
+- TOP 6.16.: Lärmschutzmaßnahmen Wohnanlage Lochhausener Straße 228 - 244 a, Schr. Referat für Gesundheit und Umwelt vom 17.12.09
+- TOP 6.17.: Verunreinigung der Wege in der Aubinger Lohe durch Pferdedung, Schr. Baureferat vom 22.12.09
+- TOP 6.18.: Überprüfung der Verkehrssituation in der Ranertstraße und Langwieder Hauptstraße bis zur Eschenrieder Straße und Keltenafferstraße in Lochhausen, Schr. KVR vom 29.12.09
+- TOP 6.19.: Bahnlärm an der Lichtenfelser Straße , Schr. Referat für Gesundheit und Umwelt vom 28.12.09
+- TOP 6.20.: Umlaufsperren in Grünanlagen, Schr. Baureferat vom 23.12.09
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr "doppelte Behördenbeteiligung", Anhörung des Direktoriums vom 15.12.09
+- TOP 7.2.: Ameisenplage auf Spielplätzen und Bürgersteigen - Antrag des BA 10, Schr. Direktorium vom 22.12.09
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Wirtschafts-Info 12/2009, Schr. Referat für Arbeit und Wirtschaft vom 18.12.09
+- TOP 8.2.: Vollzug der Wassergesetze; Tauchen mit Pressluftgerät im Langwieder See - Erfahrungsaustausch Betroffene und Träger öffentlicher Belange, Schr. RGU vom 17.12.09
+- TOP 8.3.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen, Schr. KVR vom 03.12.09
+- TOP 8.4.: Unterlagen zur Beratung und Verabschiedung des Haushaltsplanentwurfs 2010, Schr. Stadtkämmerei vom 04.12.09
+- TOP 8.5.: Unveränderte Fortführung von Gaststättenbetrieben: - "Lochhauser Eck" (vormals "Certisa Coratica"), Henschelstr. 3, Schr. KVR vom 16.12.09
+- TOP 8.6.: Europe Direct Informationen 09/2009, Schr. Referat für Arbeit und Wirtschaft vom 22.12.09
+- TOP 8.7.: Veranstaltungen/Kooperationen Januar 2010, Schr. Kulturreferat vom 04.01.10
+- TOP 8.8.: Verlängerung der Nutzungsdauer bis 21.02.10, Zirkus Rio, Freiham, Fl.St. 3508/13, Schr. Kommunalreferat vom 12.01.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.12.09: - Kennzahlenvergleich der 16 großen Großstädte der Bundesrepublik Deutschland - Europäisches Jahr 2010 gegen Armut und soziale Ausgrenzung
+- TOP 10.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 01.12.09: - Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kindergarten- und 2 Krippengruppen an der Colmdorfstraße, Genehmigung des Nutzerbedarfsprogramms (UA Planung)
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.09: - Sonderflughafen Oberpfaffenhofen, Aktueller Sachstand - Handlungsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms - Herausnahme von "verkehrsberuhigten Bereichen" aus dem Münchner Radlnetz - Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010
+- TOP 10.4.: Beschluss des Bauausschusses vom 08.12.09: - Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 10.5.: Bekanntgabe in der Sitzung der Vollversammlung vom 16.12.09: - Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 10.6.: Bekanntgabe im Schul- und Sportausschuss vom 02.12.09: - Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2009
+- TOP 10.7.: Beschluss der Vollversammlung vom 16.12.09: - Münchner Volkshochschule GmbH, Akademie der Erwachsenenbildung (MVHS), Errichtung einer Außenstelle Freiham im 22. Stadtbezirk (UA Freiham, UA Soziales)
+- TOP 10.8.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: - Bereinigtes EInschreibeergebnis für das Tageseinrichtungsjahr 2009/2010 (UA Soziales) - Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010, Stand: 20.10.09 (UA Soziales) - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2009/2010 (UA Soziales) - Schüler- und Klassenzahlen an den städtischen und stattlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010 (UA Soziales) - Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010 (UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Podiumsdiskussion "Älter, bunter, mehr - Soziodemografischer Wandel und die Herausforderungen für die Münchner Stadtgesellschaft" am 28.01.10 um 19.00 Uhr im Großen Sitzungssaal im Rathaus
+- TOP 11.2.: Podiumsdiskussion "Stadtgestalt und Bürgerwille, haben sich die bisherigen Instrumente und Verfahren bewährt?" am 21.01.10, 18.30 Uhr im Großen Sitzungssaal im Rathaus
+- TOP 11.3.: Die GEWOFAG wird 100%-Tochter der Landeshauptstadt München, Schr. GEWOFAG vom 18.12.09
+- TOP 11.4.: Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel / Klimaschutz der Perspektive München, Einladung zur Auftakt- und Abschlussveranstaltung sowie zu thematischen Akteurswerkstätten, Schr. Planungsreferat und Referat für Gesundheit und Umwelt vom 29.12.09
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 24.02.10 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.6.: Aufnahme der Stadtteile Aubing, Neuaubing und Westkreuz in das Projekt "Soziale Stadt"
