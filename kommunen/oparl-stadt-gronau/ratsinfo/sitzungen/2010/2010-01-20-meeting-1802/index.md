@@ -1,0 +1,51 @@
+# Rat (4. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-01-20T18:00:00+01:00
+- Ende: 2010-01-20T22:08:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUCLNJPTmMKfGi4xmlBBPdg
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1802
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRyCRukIj0fAKIHRZxrHhhKQTHVf__frrNYB_B7jbKVp/Bekanntmachung_Rat_20.01.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVMot5PsYVRkkamagXM7kv9nOIKweiuV_q9CTZnS0RHV/Oeffentliche_Niederschrift_Rat_20.01.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Niederschrift vom 16.12.2009
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Erhalt der Radstation/Werkstatt am Bahnhof; Antrag der Fraktion Pro Bürgerschaft vom 07.12.2009 - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Provisorische Parkfläche für das St. Antonius-Hospital; Antrag der FDP-Fraktion vom 03.01.2010 - Einstimmig, 0 Enthaltungen
+- TOP 4.3: Mitgliedschaft in Gremien der WohnBau Westmünsterland eG; Antrag der FDP-Fraktion vom 10.01.2010 - Einstimmig, 0 Enthaltungen
+- TOP 5.: St. Antoniuskirche Epe Antrag auf Eintragung in die Denkmalliste der Stadt Gronau - 25 Jastimmen, 16 Neinstimmen, 1 Enthaltungen
+- TOP 6.: Antrag der St. Antonius-Hospital Gronau GmbH auf Aufstellung eines Bebauungsplanes für das Grundstück der St. Antoniuskirche im Stadtteil Epe - 38 Jastimmen, 2 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Einführung des getrennten Abwassergebührenmaßstabes für Schmutz- und Niederschlagswasser hier: Neufassung der Satzung der Stadt Gronau(Westf.) über die Entwässerung der Grundstücke und den Anschluss an die öffentlichen Abwasseranlagen - Abwasserbeseitigungssatzung -
+- TOP 8.: Einführung des getrennten Abwassergebührenmaßstabes für Schmutz- und Niederschlagswasser hier: Erlass einer neuen Satzung über die Entsorgung von Abwässern aus Kleinkläranla- gen und abflusslosen Gruben in der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 9.: Einführung des getrennten Abwassergebührenmaßstabes für Schmutz- und Niederschlagswasser hier: Neufassung der Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - Einstimmig, 0 Enthaltungen
+- TOP 10.: I. Wirtschaftsplan des Abwasserwerkes der Stadt Gronau (Westf.) für das Wirtschaftsjahr 2010 II. Abwassergebührenkalkulation für das Jahr 2010 - 22 Jastimmen, 17 Neinstimmen, 3 Enthaltungen
+- TOP 11.: Grundstücksentwicklungsgesellschaft der Stadt Gronau -GEG- - Einstimmig, 1 Enthaltungen
+- TOP 12.: Jahresabschluss 2008 der Grundstücksentwicklungsgesellschaft der Stadt Gronau -GEG- - Einstimmig, 1 Enthaltungen
+- TOP 13.: Jahresabschluss 2008 der Grundstücksentwicklungsgesellschaft der Stadt Gronau -GEG- Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 14.: Wirtschaftsplan 2010 der Grundstücksentwicklungsgesellschaft der Stadt Gronau -GEG- - Einstimmig, 1 Enthaltungen
+- TOP 15.: Zentrale Bau- und Umweltdienste der Stadt Gronau - Jahresabschluss des Wirtschafts- jahres 2008 - 30 Jastimmen, 0 Neinstimmen, 12 Enthaltungen
+- TOP 16.: Wirtschaftsplan für das Jahr 2010 der Zentralen Bau- und Umweltdienste - Einstimmig, 1 Enthaltungen
+- TOP 17.: Weitere Verwendung der Mittel des Konjunkturpaketes II - II. Tranche - Einstimmig, 0 Enthaltungen
+- TOP 18.: Denkmalangelegenheit: Verfahren zur Eintragung der Stauanlage in der Dinkel, sog. Blömers Schleuse, Stadtteil Gronau, in die Denkmalliste der Stadt Gronau - 23 Jastimmen, 18 Neinstimmen, 1 Enthaltungen
+- TOP 19.: Antrag auf Aufstellung einer Außenbereichssatzung für den Bereich Füchter Straße - 24 Jastimmen, 16 Neinstimmen, 0 Enthaltungen
+- TOP 20.: Endausbau von Straßen 2010 - Prioritätenliste und Ausbauplanungen - - Einstimmig, 0 Enthaltungen
+- TOP 21.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 23.: Anfragen
+- TOP 23.1: Terminierung der ersten Sitzung des Ausschusses für Anregungen und Beschwerden (RM Krause)
+- TOP 23.2: Wahl des Integrationsausschusses der Stadt Gronau (RM Breuer)
+- TOP 23.3: Verpflegung für die Sitzungen des Rates (RM Bartels)
+- TOP 23.4: Offenlegung der Gehälter der Sparkassenvorstände (RM Schwartze)
+- TOP 23.5: Überprüfung der Wirtschaftlichkeit des späteren Beginns der Gremiensitzungen (RM Nordholt)
