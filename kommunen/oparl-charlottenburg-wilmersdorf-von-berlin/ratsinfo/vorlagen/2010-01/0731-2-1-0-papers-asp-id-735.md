@@ -1,0 +1,13 @@
+# Zukunft der Annie-Heuser-Schule
+
+- Körperschaft: Charlottenburg-Wilmersdorf von Berlin
+- Drucksache/Vorlage: 0731/2
+- Art: Beschluss
+- Datum: 2010-01-20
+- Ratsinformationssystem: https://www.berlin.de/ba-charlottenburg-wilmersdorf/politik/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=735
+- OParl: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/papers.asp?id=735
+- Quelle: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=231 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=473 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=14
+- Beratung: Beratung https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/meetings.asp?id=232 https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-charlottenburg-wilmersdorf.de/oi/oparl/1.0/organizations.asp?typ=at&id=9
