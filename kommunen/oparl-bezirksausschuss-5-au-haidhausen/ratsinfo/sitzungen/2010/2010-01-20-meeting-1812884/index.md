@@ -1,0 +1,73 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-01-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1812884
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1812884
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anträge
+- TOP 6: Sachverhalte zur Entscheidung (1)
+- TOP 6.1.: Antrag des Adelgundenheims auf einen Zuschuss aus dem BA-Budget: Haushaltsgegenstände für betreute Jugendliche
+- TOP 6.2.: Antrag auf Sondernutzungserlaubnis zur Aufstellung zweier Warenstellagen für Postkarten bzw. Bilderrahmen in der Metzstr. 5
+- TOP 7: Sachverhalte zur Anhörung (1)
+- TOP 8: Sachverhalte zur Unterrichtung (1)
+- TOP 8.1: Erledigte BA-Anträge und Anfragen
+- TOP 8.1.1.: Lösung der Parkprobleme des Maria-Theresia-Gymnasiums
+- TOP 8.1.2.: Problematische Verkehrssituation am neuen Einkaufszentrum "daseinstein"
+- TOP 8.1.3.: Aktualisierung der Vorschriften für Nutzer der Isarufer
+- TOP 8.1.4.: Möglichkeiten des Besuchs städtischer Schulen und Bildungseinrichtungen für Menschen mit Behinderungen (Zwischennachricht)
+- TOP 8.1.5.: Ampelschaltungen am Rosenheimer Platz
+- TOP 8.2: Unterrichtungen und Informationen (vgl. schriftliche Infos)
+- TOP 8.3: Mitteilungen der Verwaltung - Reaktionen auf BA-Schreiben
+- TOP 8.3.1.: Untere Denkmalschutzbehörde: Baumaßnahmen in den Anwesen Hochstr. 2 und 4
+- TOP 8.3.2.: Branddirektion: Trinkwassernotbrunnen auf der Postwiese
+- TOP 2: Sachverhalte zur Anhörung (2)
+- TOP 2.1.: Bauvorhaben Lothringer Str. 4 - Tektur: Sanierung von denkmalgeschützten Wohngebäuden mit Läden, Anbau von Balkonen und Fassadenaufzügen, DG-Neubau (Lothringer Str. 4 + 6/VGB) sowie Neubau eines Wohngebäudes (27 WE) mit Tiefgarage (RGB) und eines Wohngebäudes (22 WE, 1 Laden ? Rosenheimer Str. 83)
+- TOP 2.2.: Bauvorhaben Ackerstr. 25: Neubau eines Einfamilienhauses in geschlossener Bauweise
+- TOP 2.3.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung ? Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB nunmehr vorgesehene ?doppelte Behördenbeteiligung? - Antrag des BA 16 auf Änderung der BA-Satzung
+- TOP 3: Sachverhalte zur Unterrichtung (2)
+- TOP 2: Sachverhalte zur Anhörung (3)
+- TOP 2.1.: Bürgeranliegen: Sanierung des Isarradwegs zwischen Deutschem Museum und Wittelsbacherbrücke
+- TOP 3: Sachverhalte zur Unterrichtung (3)
+- TOP 3.1.: Reaktionen der Verwaltung auf BA-Schreiben/Bürgeranliegen: a) Fußgängerübergang Auerfeldstraße/Zita-Zehner-Platz: Maßnahmen gegen Gefährdung durch Linksabbieger b) Entfernung des Grünen Pfeils an der Kreuzung Preysingstraße/Innere Wiener Straße
+- TOP 3.2.: Umlaufsperren in Grünanlagen Ergebnisse der Überprüfung und geplante Maßnahmen zur Erfüllung des Grundsatzbeschlusses zur Förderung des Radverkehrs in München Schreiben des Baureferats vom 23.12.2009
+- TOP 1: Kinder und Jugend
+- TOP 2: Behinderte und Barrierefreiheit
+- TOP 3: Ausländer und Flüchtlinge
+- TOP 4: Frauen und Mädchen
+- TOP 5: Internet
+- TOP 6: Regsam
+- TOP 7: Baumschutz
+- TOP 1: Sachverhalte zur Entscheidung (2)
+- TOP 1.1.: s.o., Teil A , TOP 6.1
+- TOP 1.2.: s.o., Teil A, TOP 6.2
+- TOP 2: Sachverhalte zur Anhörung (4)
+- TOP 2.1.: Werbeanlage Regerstr. 29: 2 Plakattafeln (befristet von 2009 bis 2012)
+- TOP 2.2.: Spielaktionen 2010 des AKA e.V. in verschiedenen Grünanlagen
+- TOP 2.3.: Marktveranstaltungen auf dem Orleansplatz 2010
+- TOP 2.4.: Erweiterung des Wochenmarktes an der Weißenburger Straße Antrag der Markthallen München vom 16.12.2009
+- TOP 3: Sachverhalte zur Unterrichtung (4)
+- TOP 3.1.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen: Rückkehr zur ?alten? Verwaltungsanordnung aufgrund des Stadtratsbeschlusses vom 25.11.2009 ? Schreiben des Kreisverwaltungsreferats vom 03.12.2009
+- TOP 3.2.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Beschlussvorlage für den Planungsausschuss am 13.01.2010
+- TOP 1: Nächste BA-Sitzung
+- TOP 1.1.: Mittwoch, 24.02.2010, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur, Mi. 03.02.2010, 18.30 Uhr Ort wird noch bekannt gegeben
+- TOP 2.2.: UA Wohnen, Arbeit u. Soziales, Mo. 08.02.2010, 19.30 Uhr, BA-Geschäftsstelle, Tal 13
+- TOP 2.3.: UA Gesundheit, Umwelt und Verkehr, Mo. 08.02.2010, 19.00 Uhr, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 2.4.: UA Wirtschaft, Di., 09.02.2010, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 2.5.: UA Planung und Stadtentwicklung, Do. 11.02.2010, 19.30 Uhr, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 3: Sonstige Termine
+- TOP 3.1.: Bürgerversammlungen 2010 Bezirksteil Au: Di., 02.02.2010, 19 Uhr, Sporthalle des Pestalozzi-Gymnasiums, Eduard-Schmid-Str. 1 Bezirksteil Haidhausen: Do., 04.02.2010, 19 Uhr, Hofbräukeller, Innere Wiener Str. 19 Vor beiden Versammlungen findet ab 18 Uhr eine Bürgersprechstunde mit Vertretern der Stadtverwaltung und der Polizei statt
+- TOP 7.1.: entfällt
