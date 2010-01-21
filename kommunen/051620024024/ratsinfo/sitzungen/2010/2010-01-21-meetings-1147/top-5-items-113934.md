@@ -1,0 +1,6 @@
+# TOP 5: Konzeption „Neuss barrierefrei“ (SOZ210110-08505.doc)
+
+- Sitzung: Sozialausschuss (2010-01-21)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/113934
