@@ -1,0 +1,89 @@
+# 32. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-01-21T17:30:00+01:00
+- Ende: 2010-01-21T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2105
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2105
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=73076
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Rutschpartien in Mitte verhindern - beantwortet
+- TOP 5.2: Bearbeitungsdauer für Einbürgerungsanträge - beantwortet
+- TOP 5.3: Arbeitnehmerinnen- und Arbeitnehmerrechte im "Nichtöffentlichen Dienst"? - im Ältestenrat zurückgezogen
+- TOP 5.4: Ausnahmsweise Veränderungssperre - beantwortet
+- TOP 5.5: Schneeräumpflicht - schriftlich beantwortet
+- TOP 5.6: Das Projekt "Teach First" - schriftlich beantwortet
+- TOP 5.7: Schillerparkcenter - schriftlich beantwortet
+- TOP 5.8: Freilichtbühne Rehberge - schriftlich beantwortet
+- TOP 5.9: BMW Huttenstraße - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Stadt-Mission Impossible Lehrter Straße 67 / Seydlitzstraße 21, 22? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Ausschreibung "Dienstleistungen als Gebietsbeauftragte für die Fortführung von Quartiersverfahren der sozialen Stadt" insbesondere im Bereich Tiergarten Süd / Quartiersmanagementgebiet Magdeburger Platz - beantwortet
+- TOP 7.2: Sonderpädagogische Förderung für Kinder und Jugendliche in Mitte: Schulhelfer - beantwortet
+- TOP 7.3: KKH-Lauf noch nicht gelaufen? - beantwortet
+- TOP 7.4: Verhältnis BA zu der Bürgerplattform Wedding-Moabit - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Wahl eines Bezirksamtsmitgliedes - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Entwürfe des Doppelhaushaltsplans Mitte und des Ergänzungsplans für die Haushaltsjahre 2010 und 2011 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Erlass einer Veränderungssperre mit der Bezeichnung 1-33/17 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfs I-33 "Heinrich-Heine-Straße" liegende Grundstück Sebastianstraße 8 sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - überwiesen
+- TOP 9.2: Bebauungsplan III-61-2 (Schwyzer Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-61-2 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Beitragspflichtige Erneuerung der Fahrbahn in der Rungestraße im Abschnitt von Inselstraße bis zur Straße Am Köllnischen Park - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beitragspflichtige Erneuerung und hydraulische Erweiterung von Mischwasseranlagen und Erneuerung von Regenwasseranlagen durch die Berliner Wasserbetriebe in der Köpenicker Straße im Bereich zwischen Brücken- und Adalbertstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beitragspflichtige hydraulische Erweiterung von Mischwasseranlagen durch die Berliner Wasserbetriebe in der Bellermannstraße im Bereich zwischen Prinzenallee und Stettiner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Dritten Pflegestützpunkt im Bezirk Mitte in Moabit einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Straßenbenennung - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Zukünftiges Sanierungsgebiet Müllerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Umgestaltung der Grünfläche am Fernsehturm - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Trimmpfad für Seniorinnen und Senioren - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Stellvertretende Bürgerdeputierte im Ausschuss für Gesundheit - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Mehr Angebote für Deutsch-Klassen - überwiesen
+- TOP 12.5: Bäume für den Mauerpark - jetzt! - überwiesen
+- TOP 12.6: Ehrenamtliche Tätigkeiten - in der BVV zurückgezogen
+- TOP 12.7: IG Turmstraße nicht ausgrenzen! - überwiesen
+- TOP 12.8: Freie Zu- und Abfahrt des Berliner Großmarktes! - ohne Änderungen in der BVV beschlossen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Portrait des Bundespräsidenten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Schließung der Willy-Brandt-Gesamtschule verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Innovationspark Humboldthain - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Gesamtstädtische kulturelle Aufgabenstellung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Jede Schule für Alle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Haushalt entlasten - Klima schützen - Arbeitsplätze schaffen I: Energieverbrauchsenkung durch Energiesparpartnerschaften und Sanierungscontracting - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Umsetzung des BVV-Beschlusses "Jede Schule für Alle" (DS: 0957/III) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Kreuzung Fehrbelliner Straße/Ecke Veteranenstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.9: Massiver Ausbreitung von Spielhallen in den Einkaufsstraßen begegnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Moderne Schulen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Zukunftswerkstatt Lehrter Straße / Kruppstraße hier: Kleingartenanlagen im Gutachterverfahren Lehrter Straße berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Kinderplantschen in Berlins Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Barrierefreie Fußgängerbrücke vom Bahnhof Friedrichstraße über die Spree - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Neue Grün- und Erholungsflächen für den Humboldthafen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Nachnutzungskonzept für die Reformationskirche im Beusselkiez - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Hedwig Dohm - eine moderne Denkerin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Was wird aus "ATZE"? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Gedenken braucht Raum - Entfernen der Werbetafeln rund um das Mahnmal an der Putlitzbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Beschluss zur Aufstellung des Bebauungsplans III-46-1 im Bezirk Mitte, Ortsteil Wedding (Mittelpunktbibliothek), die Durchführung des Verfahrens als beschleunigtes Verfahren gemäß § 13a Baugesetzbuch, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Vertragsverlängerungen 2010 für die Beauftragten der Quartiersmanagement-Gebiete Sparrplatz, Magdeburger Platz, Soldiner Straße, Reinickendorfer-/Pankstraße, Moabit West, Moabit Ost sowie Brunnenviertel - Brunnenstraße und Ackerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.21: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.22: Integrierte Handlungs- und Entwicklungskonzepte der Quartiersmanagement-Gebiete Moabit West, Moabit Ost, Magdeburger Platz, Reinickendorfer-/Pankstraße, Soldiner Straße, Sparrplatz, Brunnenviertel-Ackerstraße und Brunnenviertel-Brunnenstraße - Fortschreibung 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.23: Bestätigung der Entscheidung des Begleitausschusses STÄRKEN vor Ort für die Förderperiode 2010 zur Förderung von Mikroprojekten in der Zeit vom 01.02.2010 bis 31.12.2010 im Rahmen des ESF-Bundesprogramms STÄRKEN vor Ort - mit Abschlussbericht zur Kenntnis genommen
