@@ -1,0 +1,128 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2010-01-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1871004
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1871004
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse AK Gesundheitspfad Riemer Park Erstellung eines Flyers
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Friedenskirche Trudering Konzert am 06.12.2009
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Chorgemeinschaft St. Peter und Paul Trudering Neujahrskonzert im Januar 2010
+- TOP 1.4.: Bebauungsplan mit Grünordnung Nr. 1417 a, Teilbereiche I und II, Riemer Bahnhof, Riemer Straße, Teilprojekt Graf-Lehndorff-Straße im 15. Stadtbezirk Trudering-Riem Erstmalige Herstellung Beschluss des Bezirksausschusses des Stadtbezirkes 15 Trudering-Riem vom 21.01.2010
+- TOP 1.5.: (E) Einhausung der Müllpresse des "Lidl-Marktes" in der Emil-Nolde-Straße (Ziffer 2 des Antrages); Empfehlung Nr. 08-14 / E 00387 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem am 01.10.2009
+- TOP 6: (E) Lärmbelästigung durch Basketballspielplatz; Ruhestörung ab Einbruch der Dunkelheit (Ziffern 1 + 3 des Antrages) Empfehlung Nr. 08-14 / E 00149 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 30.10.2008
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Von Erckert-Straße - Parkplatz Kulturzentrum Trudering
+- TOP 2.2.: Haben Fahrgäste mit Behinderung auch an Wochenenden und Feiertagen einen Beförderungsanspruch?
+- TOP 2.3.: 150 Jahre 1860 München - Beantragung eines verkaufsoffenen Samstages (Ausnahmeersuchen auf erweiterte Ladenöffnungszeiten)
+- TOP 2.4.: Mobilfunkantenne im Truderinger Wald Übergabe von 1527 Unterschriften gegen den Bau am vorgesehenen Standort
+- TOP 2.5.: Verkehrssituation Feldbergstraße
+- TOP 2.6.: Schlittenberg "In der Heuluss" - Gefährdung durch nicht angeleinte Hunde
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Budget der Bezirksausschüsse Beschluss des BA 19 am 03.11.2009: Verwendung von Budgetmitteln für Veranstaltungen des BA
+- TOP 3.2.: Vorgehen / Vorschläge für Zuschüsse aus dem BA-Budget
+- TOP 3.3.: Bahnhof Trudering: Straßenbeleuchtung zur Verminderung des Fahrraddiebstahls
+- TOP 3.4.: Radwegverbindung zwischen Riem und Trudering endlich realisieren
+- TOP 3.5.: Umlaufsperren in Grünanlagen
+- TOP 3.6.: Baustelle zukünftiges Gymnasium
+- TOP 3.7.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen (Antrag Nr. 08-14 / A 01060 von Herrn Stadtrat Dr. Kronawitter)
+- TOP 3.8.: Fertigstellung der Straßenführung in der Astrid-Lindgren-Straße / Belästigung durch den Autoverkehr
+- TOP 3.9.: Verlängerung der Öffnungszeiten des Friedhofs Riem
+- TOP 3.10.: Krautgärten-Verpachtung an der Markgrafenstraße auch noch 2010 möglich?
+- TOP 3.11.: Herstellung eines Fußweges in der Emplstraße (Nordseite) zur Gewährleistung der Schulwegsicherheit
+- TOP 3.12.: Antrag auf Untersagung von lärmbelästigenden Großveranstaltungen im Riemer Reitstadion
+- TOP 3.13.: Aus der Not eine Tugend machen: Mobilfunkturm als Aussichtsturm im Truderinger Wald
+- TOP 3.14.: LKW-Verkehr in der Bajuwarenstraße
+- TOP 3.15.: Neue Spielotheken in der Truderinger Straße 278
+- TOP 3.16.: Anfrage zur Situation in der Bahnstraße - Suche nach einem alternativen Recyclingstandort
+- TOP 3.17.: Situation für Schüler verbessern - Zahl der Eingangsklassen erhöhen
+- TOP 3.18.: Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen
+- TOP 3.19.: Wertstoffhof Trudering - Kunststoffentsorgung (BA-Antrag Nr. 08-14 / B 01546 und 08-14 / B 01557)
+- TOP 3.20.: Orientierungsschilder an der S-Bahnstation Gronsdorf verbessern
+- TOP 3.21.: Buslinie 193 - Kapazitätsprobleme
+- TOP 3.22.: Überflutung der Grünanlage Haffstraße
+- TOP 3.23.: Optimale Ausnutzung der Schulsporthallen - Überprüfung der Belegungszeiten
+- TOP 3.24.: Veranstaltungskalender für den Riemer Park
+- TOP 3.25.: Fehlende Umgehung Kirchtrudering - Verkehr durch Wohngebiet
+- TOP 3.26.: Logistikgleis Bahnhof Trudering (ergänzende Stellungnahme Eisenbahn-Bundesamt; BA-Antrag Nr. 08-14 / B 01388)
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Was bringt eine Ausdehnung des 10-Minuten-Taktes auf der S4-Ost verkehrlich?
+- TOP 4.2.: Wann kommt der barrierefreie Ausbau der S-Bahnstation Riem?
+- TOP 5: Anhörungen
+- TOP 5.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung, Anpassung der Anhörungsrechte für Bezirksausschüsse an die § 4 BauGB n.F. nunmehr vorgesehene "doppelte Behördenbeteiligung"; BA-Antrag Nr. 08-14 / B 01354 des BA 16 Ramersdorf-Perlach (Anhörung)
+- TOP 5.2.: Verkauf einer städtischen Immobilie Anhörung des Bezirksausschusses gemäß § 3 der Bezirksausschusssatzung, hier: Drosselweg/Mauerseglerstraße, Flst. 205/5 und 206/16, Gemarkung Trudering
+- TOP 5.3.: Musical - Produktion "India" Städt. Flst. 1408/104, Gemarkung Trudering Olof-Palme-Straße / Graf-zu-Castell-Straße
+- TOP 5.4.: Info-Veranstaltungen der Verkehrspolizeiinspektion München in der Zeit von 29.03.2010 bis 08.09.2010 (Frist: 19.02.2010)
+- TOP 5.5.: Flohmarkt auf dem Platz der Menschenrechte am 17.04.2010
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Ausschreibung zur Ausrichtung des Weltkindertages 2010 "Beteiligung von Kindern - das Recht aus Freizeit, Spiel und Ruhe"
+- TOP 7.2.: Sportinfrastrukturmaßnahmen in München - Sachstandsbericht 2009; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.2009
+- TOP 7.3.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 7.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule im Schuljahr 2009/2010; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 7.5.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 7.6.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 7.7.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Jahresübersicht 2009 zur Stadtteilkultur
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Gemeinde Aschheim Aufstellung eines Bebauungsplanes für das Gebiet "Solarpark Aschheim und Erstellung von Ausgleichsflächen, nördlich Abfanggraben, westlich BAB A 99, östlich B 471 am Umsetzermast" (Anhörung)
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Errichtung eines Parkverbots im Bereich der Wasserburger Landstraße (stadtauswärts), westlich: Kathreinweg, von Haus 2 - 6
+- TOP 7.2.: Verkehrskonzept für die Niederalmstraße und den weiteren Umkreis
+- TOP 7.3.: Halteverbot im Drosselweg Kurvenbereich Drosselweg / Mauerseglerstrasse
+- TOP 7.4.: Rechtzeitig Ersatz für wegfallende Wertstoffinseln schaffen
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Budget der Bezirksausschüsse Antrag des Elternbeirates Lehrer-Wirth-Straße - Verwendungsnachweis / Abzug
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Nachfrage zum Baumfällungsbescheid Großfriedrichsburger Straße 20 - 22
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen: Waldschulstraße 15, Josef-Hagn-Straße 3, Lachenmeyrstraße 20, Schwedensteinstraße 34, Am Eulenhorst 66, Matterhornstraße 24
+- TOP 8.2.: Fauststraße 46 b
+- TOP 8.3.: Karlsburgerstraße 61
+- TOP 8.4.: Sperberstraße 18
+- TOP 8.5.: Fabinistraße 16
+- TOP 8.6.: Adelmannstraße 6
+- TOP 8.7.: Mönchbergstraße 18
+- TOP 8.8.: Monikastraße 6
+- TOP 8.9.: Simplonstraße 3
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: 1) Erfahrungsaustausch zur Übertragung von Entscheidungsrechten des Oberbürgermeisters auf die Bezirksausschüsse nach Art. 60 Abs. 2 Satz 2 Bayerische Gemeindeordnung am 18.01.2010 um 18.00 Uhr im Rathaus, Raum 504 2) Öffentliche Erörterung gemäß § 3 Abs. 1 BauGB zur Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/18 und den Bebauungsplan mit Grünordnung Nr. 1958 b Wasserburger Landstraße (südlich), Horst-Salzmann-Weg (beidseits) am 20.01.2010 um 19.00 Uhr im Kinder- und Jugendtreff frei.raum 3) Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel/Klimaschutz der Perspektive München, Auftakt- und Abschlussveranstaltungen 4) Podiumsdiskussion Stadtgestalt und Bürgerwille am 21.01.2010 um 18.30 Uhr, Großer Sitzungssaal im Rathaus 5) Nach Mitteilung der Vorsitzenden
+- TOP 9.2.: Verbesserung der Schneeräumung - Initiative der CSU-Stadtratsfraktion
+- TOP 9.3.: Umwandlung der GEWOFAG in ein 100%-iges Tochterunternehmen der Landeshauptstadt München
+- TOP 9.4.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen - Änderung der Sondernutzungsrichtlinien bzgl. Warenauslagen
+- TOP 9.5.: Ameisenplage auf Spielplätzen und Bürgersteigen (Antrag des Bezirksausschuss 10 Moosach)
+- TOP 9.6.: Bebauungsplan mit Grünordnung Nr. 1539, Töginger Straße / BAB A 94 (südl.), Bahnlinie München-Mühldorf (nördl.), S-Bahnlinie München-Ismaning (östl.), - Hüllgraben -; Beschluss des BA 13 Bogenhausen
+- TOP 9.7.: Containerinsel Mutter-Teresa-Straße, Stellungnahme Abfallwirtschaftsbetrieb München
+- TOP 9.8.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); für die Errichtung einer GSM-R Infrastruktur am Standort Trudering
+- TOP 9.9.: Eröffnung der Kindertageseinrichtung Michael-Ende-Straße 26, 81829 München
+- TOP 9.10.: 10.tes Truderinger "RAMA DAMA"; Bestätigung der Übernahme der Schirmherrschaft
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 07.12.09 - 10.01.2010
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Hererostraße 7
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Sulzer-Belchen-Weg 28
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Graf-Lehndorff-Straße 37
+- TOP 10.5.: Zuwendungsbewilligung für den Truderinger Trachtenverein e.V. i.H.v. 460,00 Euro
+- TOP 10.6.: Zuwendungsbewilligung für den Elternbeirat der Lehrer-Wirth-Hauptschule i.H.v. 555,00 Euro
+- TOP 10.7.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Alexandros, Friedenspromenade 114
+- TOP 10.8.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - Da Giovanni, Kreillerstraße 160 a
+- TOP 10.9.: Verkehrsrechtliche Anordnung nach § 45 StVO: Verlängerung des absoluten Haltverbots, Markgrafenstraße
+- TOP 10.10.: Mitteilung über die Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich der Selma-Lagerlöf-Straße
+- TOP 10.11.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund, Thomas-Hauser-Straße
+- TOP 10.12.: - Lichtkonzept I: Beleuchtungskonzept für die Landeshauptstadt München mit dem Ziel, das Erscheinungsbild der Stadt zu verbessern und Energie zu sparen - Lichtkonzept II: Beleuchtung neuer Vorhaben und großer Neubaugebiete und Siedlungen in München - Lichtkonzept III: Beleuchtung städtischer Plätze, Gebäude und Stadtlandschaften; Beschluss des Bauausschusses vom 19.01.2010
+- TOP 10.13.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandeslentwicklung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010
+- TOP 10.14.: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München a) Untersuchungsergebnisse 2009: vergleichende Untersuchung 2.S-Bahn-Tunnel/Südring und Gutachten zur Flughafenanbindung b) Umplanung des 2. S-Bahn-Tunnels im Ostabschnitt mit Haltepunkt Ostbahnhof (tief) c) Beabsichtigtes weiteres Vorgehen Bekanntgabe in der Sitzung der Vollversammlung des Stadtrates vom 16.12.2009
+- TOP 10.15.: Veranstaltungen / Kooperationen des Kulturreferats im Januar 2010
