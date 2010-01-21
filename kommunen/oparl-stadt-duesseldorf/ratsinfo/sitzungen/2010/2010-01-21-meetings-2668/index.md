@@ -1,0 +1,57 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-01-21T17:00:00+01:00
+- Ende: 2010-01-21T18:45:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2668
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2668
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00134693.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00134693.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00134693.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung der Niederschrift - zur Kenntnis genommen
+- TOP 3: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Grünfläche Kamper Weg - einstimmig beschlossen
+- TOP 6: Plan Nr. 5776/014 - Nördl. Königsberger Str. West - - vertagt
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Öffnung von Lehrerparkplätzen im Stadtbezirk 8 - beantwortet
+- TOP 10: Parkplätze Skateranlage und Schlosspark Eller - beantwortet
+- TOP 11: Fließgewässer im Stadtbezirk 8 - beantwortet
+- TOP 12: Umbau von Haltestellen im Stadtbezirk 8 - beantwortet
+- TOP 13: Dynamische Fahrgastinformation - zur Kenntnis genommen
+- TOP 14: Winterdienst im Stadtbezirk 8 - beantwortet
+- TOP 15: Winterdienst im Stadtbezirk 8 - beantwortet
+- TOP 16: Baustopp A 46 / Eller - Deutzer Straße - beantwortet
+- TOP 17: Familienzentrum Chemnitzer Straße 43 - beantwortet
+- TOP 18: Signaltechnische Optimierung A 46 - Eller / Deutzer Straße - zur Kenntnis genommen
+- TOP 19: Brunnenbauwerk Sandträgerweg / Düsselbrücke - beantwortet
+- TOP 20: Brückenbauwerke - zur Kenntnis genommen
+- TOP 21: Hundeauslaufplatz Neusalzer Weg - beantwortet
+- TOP 22: Parkplätze Unterbach - beantwortet
+- TOP 23: Öffnung der Lehrerparkplätze am Riehl-Kolleg - einstimmig beschlossen
+- TOP 24: Soziale Situation im Stadtbezirk 8 - mehrheitlich abgelehnt
+- TOP 25: Förderprogramm Soziale Stadt - einstimmig beschlossen
+- TOP 26: Arbeitskreis Grundwasser - einstimmig beschlossen
+- TOP 27: Informationen im Internet - einstimmig beschlossen
+- TOP 28: Park- / Seitenstreifen Schlesische Straße - einstimmig beschlossen
+- TOP 29: Hinweisschilder Wochenmarkt Eller - vertagt
+- TOP 30: Öffnung Parkplatz Vennhauser Allee / Krippstraße - einstimmig beschlossen
+- TOP 31: Fußgängerüberweg Höherweg - zur Kenntnis genommen
+- TOP 32: Fahrbahninstandsetzungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 33: Errichtung einer Ladezone Gumbertstraße - einstimmig beschlossen
+- TOP 34: Zufahrt Parkplatz Eller - Mitte - einstimmig beschlossen
+- TOP 35: Sitzungstermine der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 36: Wegesanierung Friedhof Eller - zur Kenntnis genommen
+- TOP 37: Fußgängerüberweg Königsberger Straße / An der Schützenwiese - zur Kenntnis genommen
+- TOP 38: Beschilderung S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 39: Bürgerhaus Eller - zur Kenntnis genommen
+- TOP 40: Winterdienst im Stadtbezirk 8 - zur Kenntnis genommen
