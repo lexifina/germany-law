@@ -1,0 +1,8 @@
+# TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 1
+
+- Sitzung: Bezirksvertretung 1 (2010-01-22)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/159984
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/51613
