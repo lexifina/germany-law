@@ -1,0 +1,7 @@
+# TOP 5: Benennung von Mitgliedern des Jugendhilfeausschusses für den Heimbeirat des Rheinischen Landesjugendheimes
+
+- Sitzung: Jugendhilfeausschuss (2010-01-25)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/4327
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/15980
