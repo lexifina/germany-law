@@ -1,0 +1,125 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-01-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1819131
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1819131
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Vorbereitung der Beratungsgegenstände (Antwort der Rechtsabteilung; 03.12.2009)
+- TOP .1.: Gewährung eines Zuschusses aus dem Budget des BA 12 a) Mohr-Villa Freimann e.V. für die Maßnahme: Ausstellung "Naturpropheten in Freimann" vom 08.01. bis 28.02.2010 - zurückgezogen am 20.01.2010 b) "die urbanauten" für die Maßnahme: Altschwabing Kunst- und Kulturhappening vom 23.01. - 31.01.2010 c) Corso Leopold e.V. für die Maßnahme: Fasching auf der Leopoldstraße am 16.02.2009 von 12.00 bis 19.00 Uhr d) Evang-Luth. Erlöserkirche München-Schwabing für die Maßnahme: Konzert am 07.07.2010
+- TOP .1.: St. Patrick's Day am 14.03.2010 zwischen Feilitzschstraße und Odeonsplatz über Leopold-, Ludwir- und Briennerstraße)
+- TOP .2.: City Bike Marathon München und nördliche Umgebung am 18.04.2010
+- TOP .3.: Ausschreibung zur Ausrichtung des Weltkindertages 2010 "Beteiligung von Kindern - das Recht aus Freizeit, Spiel und Ruhe"
+- TOP .4.: Info-Veranstaltung der Verkehrspolizeiinspektion München vom 29.03.2010 bis 08.09.2010
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Kioske 1 und 32 in der Allianz-Arena, Werner-Heisenberg-Alle 25
+- TOP .2.: Hopfendolde, Feilitzschstraße 17
+- TOP .3.: "Imbiss-Stadel" - Kleingaststätte mit Ladenöffnungszeit, Situlistraße 16
+- TOP .4.: "Level 228" - Diskothek, Frankfurter Ring 228
+- TOP .5.: "Vereinsheim ESV München-Freimann", Vereinswirtschaft, Frankplatz 15
+- TOP .6.: "Kleingartenanlage NO 65", Vereinswirtschaft, Josef-Wirth-Weg 17
+- TOP .7.: "Echinger Einkehr", Schank- und Speisewirtschaft, Echinger Str. 1
+- TOP .1.: Eilentscheidung: Veranstaltung auf öffentlichem Verkehrsgrund Lichtmess-Türmerfest des Kath. Pfarramtes St. Ursula zur Einweihung des Kirchturms am 02.02.2010 auf dem Kaiserplatz
+- TOP .2.: Zuwendungen aus dem Budget der Bezirksausschüsse Verband Christlicher Pfadfinderinnen und Pfadfinder (VCP) Bayern e.V. Antrag vom 25.06.2009 für die Maßnahme: Kinder- und Jugendfest am 25.09.2009 incl. Sachbericht (Schreiben des Direktorium; 27.10.2009)
+- TOP .3.: Zuwendungsbewilligung aus Budgetmitteln des BA 12 (Haushaltsjahr 2009) a) CLEEC e.V. für die Maßnahme: 2. Deutsch-Chinesisches Frühlingsfest am 06.02.2010 b) Waldkindergarten Kallamatsch e.V. für die Maßnahme: Kindertheater ERBYTHEATER am 21.12.2009 c) Initiative "Ausstelung Seidlvilla" für die Maßnahme "Schleierhaft in TaliBURKAN, die Frau im Islam" vom 26.03. bis 30.04.2010
+- TOP .4.: Sportinfrastrukturmaßnahmen in München ; Sachstandsbericht 2009 Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.2009 Sitzungsvorlage-Nr. 08-14 / V 03271
+- TOP .5.: Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010 Einschreibeergebniss für das Tageseinrichtungsjahr und Schüler- und Klassenkennzahlen Sitzungsvorlage Nr. 08-14 / V 03499 Sitzungsvorlage Nr. 08-14 / V 03371 Sitzungsvorlage Nr. 08-14 / V 03393 Sitzungsvorlage Nr. 08-14 / V 03370 Sitzungsvorlage Nr. 08-14 / V 03432 Sitzungsvorlage Nr. 08-14 / V 03499
+- TOP .6.: Bewilligung von Budgetmittel des BA 12; Antrag vom 25.02.2009 des Corso Leopold e.V. - fehlende Nachweise
+- TOP .7.: Haushaltsplan 2010; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des - Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 02841 - Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 02839 - Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 02831 Beschluss der Vollversammlung des Stadtrates vom 16.12.2009
+- TOP .8.: Eilentscheidung - Feuerwerk im Englischen Garten, Seehaus am 20.01.2010
+- TOP .9.: Danksagung - Rationaltheater für die Unterstützung der Fassbinder-Tage
+- TOP .1.: Genehmigung einer Freischankfläche vor dem Cafe Polo, Leopoldstr. 64
+- TOP .1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung; Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene "doppelte Behördenbeteiligung" BA-Antrags-Nr. 08-14 / B 01354 des Bezirksausschusses des Stadtbezirkes 16 Ramersdorf-Perlach vom 28.07.2009
+- TOP .2.: Leopoldstraße 202 - 208; Flurstück 894/5, Geb. 202 - Nutzungsänderung in EG + 1. OG: Gewerbe zu wohnen sowie Umbau der Fassade und Anbau von Balkonen
+- TOP .3.: Stadt Garching - 38. Änderung des Flächennutzungsplanes und Bebauungsplan Nr. 146 "Einzelhandel und Boardinghouse"
+- TOP .4.: Bauleitplanung Leopoldstraße 152 - 194 a) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung b) Bebauungsplan mit Grünodrnung Nr. 2029
+- TOP .5.: Tausch einer städtischen Immobilie, Osterwaldstraße
+- TOP .6.: Umgestaltung Kißkaltplatz und Maria-Josepha-Straße (siehe auch TOP D 3.3.7.)
+- TOP .7.: Bernsteinweg 7, Flurstück 309/268, Neubau eines Einfamilienhauses mit Garage
+- TOP .1.: Sanierung und Ausbesserung der Straßenbeläge in der Gartenstadt (siehe auch TOP D 4.2)
+- TOP .2.: Straßen- und Platzbezeichnungen an der ehemaligen Funkkaserne
+- TOP .1.: Gesamtkonzept Bahnknotenpunkt München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München a) Untersuchungsergebnisse 2009 b) Umplanung des 2. S-Bahn-Tunnel / Südring c) Beabsichtigtes weiteres Vorgehen
+- TOP .2.: Freischankflächen und Öffentlicher Raum im Allgemeinen (Schreiben des Oberbürgermeister; 23.12.2009)
+- TOP .3.: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen Beschluss des Bauausschusses vom 08.12.2009 (incl. Änderungsantrag) Antrag Nr. 08-14 / A 01060 ; Sitzungsvorlage Nr. 08-14 / V 03366
+- TOP .4.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010 Antrag Nr. 08-14 / A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009 Sitzungsvorlage Nr. 08-14 / V 03424
+- TOP .5.: Gedenktafel Funkkaserne - Benennung der Straßen und Plätze nach ehemaligen Displaced Persons im Bereich des Baugebietes Funkkaserne (Schreiben des Referates für Stadtplanung und Bauordnung; 05.01.2010)
+- TOP .6.: Lichtkonzept I bis III für den öffentlichen Raum in München Beschluss des Bauausschusses vom 19.01.2010 Antrag Nr: 08-14 / A 00705 bis 00707 Sitzungsvorlage Nr. 08-14 / V 02502
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Sondernutzungserlaubnis - Aufstellung von Verkaufseinrichtungen (Warenstellage Kleidung); Occamstraße 12
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Baumfällungen zu Bauvorhaben Flurstück 309/0, Errichtung eines Besucherinformations- und Bildungszentrum (Vorbescheid); vertagt aus 12/09
+- TOP .2.: Baumfällungen zu Bauvorhaben Dietlindenstraße 26, Flurstück 921/14, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage (Vorbescheid)
+- TOP .3.: Baumfällungen zu Bauvorhaben Frankfurther Ring, Flurstück 264/0. Neubau eines Büro- und Dienstleistungsgebäudes mit Tiefgarage (Vorbescheid)
+- TOP .4.: Baumfällungen zu Bauvorhaben Domagkstraße, Flurstück 266/7, Neubau zweier Büro- und Dienstleistungsgebäude inkl. Parkhaus und Tiefgarage (Vorbescheid)
+- TOP .5.: Danziger Straße 13, Fl.N. 924/114, 1 Birke
+- TOP .6.: Baumfällungen zu Bauvorhaben Lillweg 28, Flurstück 522/44, Abbruch und Neubau eines Wohngebäudes - Vorbescheid
+- TOP .7.: Floriansmühlstraße 60 (23 Bäume)
+- TOP .8.: Baumfällungen zu Bauvorhaben Maria-Probst-Straße 23-24, Flurstück 137/43, Aufstockung und Umbau einer Halle für Großhandel - Tektur
+- TOP .9.: Domagkstraße 10 (10 Bäume)
+- TOP .10.: Tristanstraße 8, 1 Eberesche
+- TOP .11.: Leopoldstraße 250; 23 Bäume
+- TOP .1.: Alois-Wolfmüller-Straße, Haltverbot auf der Nordseite
+- TOP .3.3.: Sonstige Anhörungen
+- TOP .1.: Errichtung eines personenbezogenen Behindertenparkplatzes in der Herzogstraße 25
+- TOP .2.: Errichtung eines personenbezogenen Behindertenparkplatzes in der Heinrich-Geißler-Straße 10
+- TOP .3.: Vollzug der Wassergesetze; Wasserkraftanlage im Bereich der Straße "Am Tucherpark" - Stadtwerke München; hier: Stellungnahme im wasserrechtlichen Sinn
+- TOP .4.: Umgestaltung Kißkaltplatz und Maria-Josepha-Straße (siehe auch TOP C 3.6)
+- TOP .1.: Tram-Bahn Linie 23 - veränderte Buslinienführung von der Parkstadt Schwabing (Bereich Petueltunnel) zur Münchner Freiheit
+- TOP .2.: Sanierung und Ausbesserung der Straßenbeläge in der Gartenstadt (siehe auch TOP C 4.1)
+- TOP .3.: Einrichtung eines Parklizenzgebietes in der Alten Heide
+- TOP .4.: Münchner Freiheit: Tram 23 / Bus 54 (Beschwerde über die Buslinienführung 54 und den daraus resultierenden Lärm-/ Abgasbelästigungen)
+- TOP .1.: Haltverbot (Z 283) Leopoldstraße Oststraße nördlich Johann-Fichte-Straße
+- TOP .2.: Neueinrichtung von Bushaltestellen Emmerigweg (MVG-Linie N40 Richtung Kieferngarten und Fürstenried West)
+- TOP .3.: Fröttmaninger Straße / Guerickestraße - Haltverbot im Kreuzungsbereich
+- TOP .4.: Ergänzung des absoluten Haltvervots mit dem Zusatz "Feuerwehrzufahrt" in der Mannlichstraße (Zufahrt zum Anwesen Biedersteiner Str. 28-30)
+- TOP .5.: Haltverbot (Z 283) Lyonel-Feiniger-Straße Westseite südlich Gunta-Stölzl-Straße
+- TOP .5.3.: Genehmigte Baumfällungen
+- TOP .1.: Unterrichtung über das Fällen von Gefahrenbäumen des Baureferates - Gatenbau - Schule, Wilhelmstraße 29 (2 Robinien) - Heidemannstraße, 4 Spitzahorn - Rainackerweg, 6 Robinien - Harnierplatz, 3 Pappeln
+- TOP .2.: Freimanner Bahnhofstraße 7, Fl.Nr. 114/28, 1 Weide
+- TOP .3.: Freimanner Bahnhofstraße, Fl.Nr. 114/36, 1 Linde, 1 Hollunder, 1 Vogelkirsche
+- TOP .4.: Freimanner Bahnhofstraße 24, Fl.Nr. 114/50, 1 Birke
+- TOP .5.: Neubau des Besucher- und Informationszentrums "HeideHaus Fröttmaning"; Rhodungsantrag zur Baufeldfreimachung
+- TOP .1.: Fragen zum Straßenverkehr: Geschwindigkeitskontrollen in der Parkstadt Schwabing; speziell in der Lyonel-Feininger-Str.), KVR, 18.12.2009
+- TOP .2.: Vollzug der Grünanlagensatzung; Baustelleneinrichtung an der Münchner Freiheit Verlängerung der Ausnahmebewilligung zum Aufstellen von Material- und Bürocontainern
+- TOP .3.: Vollzug der Grünanlagensatzung; Infocontainer an der Münchner Freiheit (vormals Kölner Platz) Verlängerung der Ausnahmebewilligung zum Aufstellen eines Infocontainers der SWM
+- TOP .4.: Park- bzw. Fahrsituation in der Parkstadt Schwabing; Schreiben des KVR an den Bürger
+- TOP .5.: Verkehrsbehinderung in der Parkstadt Schwabing; Schreiben des KVR an den Bürger
+- TOP .6.: Information der MVG über Gleisbauarbeiten zwischen den U-Bahnhöfen "Marienplatz" und "Sendlinger Tor"
+- TOP .7.: Verkehrssituation Parkstadt Schwabing; Anni-Albers-Straße / Lyonel-Feininger-Straße Schreiben des KVR an den Bürger; 14.12.2009
+- TOP .8.: Missstände in Freimann - Bushaltestelle Joseph-Wirth-Straße (MVG; 10.12.2009)
+- TOP .9.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen Beschluss des Stadtrates vom 25.11.2009
+- TOP .10.: Antrag BA 10: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP .11.: Sofortige Aufhebung der Geh- und Radwegsperrung vor dem Anwesen Leopoldstr. 23
+- TOP .12.: Vollzug der Grünanlagensatzung; Baustelleneinrichtung am Fröttmanninger Berg Ausnahmebewilligung zum Abbau des "Stern des Südens" und Aufstellen von Bürocontainern, Mobiltoilette, Hebebühne, Aggregat und Bauzaunumfriedung
+- TOP .13.: Umlaufsperren in Grünanlagen (Schreiben des Baureferates - BAU-G 3-S; 23.12.2009)
+- TOP .14.: Missstände in Freimann - Behinderung auf dem Fuß- und Radweg an der Freisinger Landstraße zwischen Heidemannstraße und Josef-Wirth-Weg durch Betonfüße und einen Bauzaun (Schreiben des KVR; 22.12.2009)
+- TOP .15.: Tiefgaragenzufahrt Berliner Straße 4a/6 (Schreiben des Baureferates; 17.12.2009)
+- TOP .16.: Bus (Buslinie 54) in der Germaniastraße (Schreiben der MVG; 22.12.2009)
+- TOP .17.: Leopoldstraße 152 - Zaun zwischen Metro und Holiday Inn-Gelände; Bereich Tram 23 (Schreiben des Baureferates; 29.12.2009)
+- TOP .18.: Behinderung auf dem Fuß- und Radweg an der Freisinger Landstraße zwischen Heidemannstr. und Josef-Wirth-Weg durch Betonfüße und einen Bauzaun (Schreiben des KVR; 05.01.2010)
+- TOP .19.: Parksituation Sondermeierstraße (Schreiben des KVR; 08.01.2010)
+- TOP .20.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.4.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
