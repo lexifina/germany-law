@@ -1,0 +1,91 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-01-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868464
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868464
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Mühldorfstr. 6 ? Handwerkskammer ? Anbringung einer Werbeanlage
+- TOP 3.2.: Städtische Kinderkrippe an der Grafinger Straße - Überplanung
+- TOP 3.3.: Realisierungswettbewerb ? Neubau der Feuerwache 5 und des 2. Teils des Zentrums für Katastrophenschutz an der Anzinger Straße 41
+- TOP 3.1.: Lärmsituation im Tunnelbauwerk Innsbrucker Ring
+- TOP 3.2.: Postitionierung von Containern in der Isareck-/ Annabrunner Straße
+- TOP 3.3.: Einrichtung einer Pkw-Parkzone in der Heinrich-Wieland-Straße
+- TOP 3.4.: Gehwegparken Ariboweg / Arnweg
+- TOP 3.5.: Umlaufsperren in Grünanlagen
+- TOP 3.6.: Parkraummanagement in München - Festlegung der 3. und 4. Priorität - hier: Erweiterung des Sektor 4, Stadtbezirk 14
+- TOP 3.1.: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 3.1.: Piusplatz ? Spielaktionen AKA e.V. für 2010
+- TOP 3.2.: St.-Veit-Festwiese ? Kurdisches Newroz-Fest der Kurdischen Frauengruppe Nergiz, 20.03.
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Gesamtbetrachtung der Sportbedarfe und -entwicklung für den Münchner Osten
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Unterbringung von Jugendlichen und Heranwachsenden in Berg am Laim
+- TOP 3.3.6.: Sonstiges
+- TOP 3.1.: Weißpfennigweg 1 ? Errichtung eines Zweifamilienhauses und eines Dreispänners
+- TOP 3.2.: Josephsburgstr. 72 ? Neubau einer Einrichtung für altersgerechtes Wohnen
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Diskothek ?Rafael? - Kultfabrik ? Antrag auf unveränderte Fortführung
+- TOP 4.3.: Diskothek ?Noa? - Kultfabrik ? Antrag auf unveränderte Fortführung
+- TOP 4.4.: Glasfasernetzausbau der SWM ? Projektvorstellung der SWM
+- TOP 4.5.: Lichtkonzept für den öffentlichen Raum in München
+- TOP 4.6.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 4.1.: Containerstandplatz Baumkirchner Straße ? Bitte um Beantragung einer Sondernutzungsgenehmigung für den südlichen Standplatz
+- TOP 4.2.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen
+- TOP 4.3.: Keine rechtsfreien Räume ? neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 4.4.: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München a) Untersuchungsergebnisse 2009: - ?Vergleichende Untersuchung 2. S-Bahn-Tunnel / Südring? - ?Gutachten zur Flughafenanbindung? b) Umplanung des 2. S-Bahn-Tunnels im Ostabschnitt mit Haltepunkt Ostbahnhof (tief) c) Beabsichtigtes weiteres Vorgehen
+- TOP 4.1.: Verschmutzung Grünanlage ?Rosenheimer Bahndamm?
+- TOP 4.1.: Stadtteilkulturprojekte - Jahresübersicht 2009
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Sportinfrastrukturmaßnahmen in München ? Sachstandsbericht 2009
+- TOP 4.2.: Staatliches Michaeli-Gymnasium Hachinger-Bach-Straße 25 - Erweiterungsbau Klassentrakt - Anbau Einfachsporthalle - Neugestaltung Eingangsbereich und Schulhof 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag
+- TOP 4.3.: Erweiterung, Umbau und Sanierung der Grundschule in der Grafinger Straße 71
+- TOP 4.4.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009 / 2010
+- TOP 4.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009 / 2010
+- TOP 4.6.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule, Schuljahr 2009 / 2010
+- TOP 4.7.: Schüler/innen und Klassenstand ? Berufliche Schulen der Landeshauptstadt 2009 / 2010
+- TOP 4.8.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art 2009 / 2
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung ? Anpassung des Anhörungsrechts für Bezirksausschüsse an die in § 4 BauGB n.F. Nunmehr vorgesehene ?doppelte Behördenbeteiligung?
+- TOP 4.2.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen ? Beschluss v. 25.11.2009
+- TOP 4.3.: Verwendung von Budgetmitteln für Veranstaltungen des Bezirksausschusses
+- TOP 4.4.: Förderkreis der Grundschule an der Grafinger Str. e.V. - Verwendungsnachweis
+- TOP 4.4.6.: Sonstige
+- TOP 4.1.: Baumbestand auf dem Grundstück Berg-am-Laim-Str. 100 - Antwort d. Naturschutzbehörde
+- TOP 4.2.: Fällungsantrag auf dem Grundstück Westerhamer Str. 48 ? Antwort d. Naturschutzbehörde
+- TOP 4.3.: Unterrichtung über Eingriffe in den Gehölzbestand von öffentlichen Grün- und Freiflächen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.7.: Baumschutz
