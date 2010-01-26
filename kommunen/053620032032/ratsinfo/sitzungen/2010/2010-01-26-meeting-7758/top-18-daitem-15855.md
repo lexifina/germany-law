@@ -1,0 +1,6 @@
+# TOP 18.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
+
+- Sitzung: Stadtrat (4. Sitzung) (2010-01-26)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/15855
