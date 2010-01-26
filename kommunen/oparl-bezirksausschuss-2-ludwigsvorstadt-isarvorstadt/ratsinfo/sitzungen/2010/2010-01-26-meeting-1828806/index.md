@@ -1,0 +1,129 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-01-26T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828806
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828806
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: BA-eigene Veranstaltung: Kindertheater 2010
+- TOP .2.: Zuschuss aus dem BA-Budget: Antrag v. Elternbeirat der Schule zur Sprachförderung
+- TOP .1.: Bewerbung: Ausrichtung des Weltkindertages 2010
+- TOP .1.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Handlungsprogramm Mittlerer Ring Wohnen am Ring - Fortführung des Förderprogramms
+- TOP .2.: Sachberichte / Verwendungsnachweise zu Budgetmitteln: - Green City, Wanderbaumallee in der Schwanthalerstraße
+- TOP .3.: Zuwendung aus dem BA-Budget: Isar-Krokodile e.V. Zurücknahme des Antrages
+- TOP .4.: Zuwendung aus dem BA-Budget: Green City e.V. Rückzahlung aufgrund verfristeter Belege
+- TOP .5.: Zuwendung aud dem BA-Budget: Naomi Lawrence, Nur Gutes Zuschuss wird nicht in Anspruch genommen
+- TOP .6.: BA-eigene Veranstaltung: Kindertheater 2010 Voraussetzungen liegen nicht vor
+- TOP .7.: KiJU: Rauchverbot Tumblinger Schule Antwortschreiben der Schulleiterin
+- TOP .8.: Zuwendung aus dem BA-Budget: KiTa Klenzestraße Rückzahlung
+- TOP .9.: Beschluss Ausschuss für Stadtplanung udn Bauordnung vom 02.12.2009: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP .10.: Beschluss Kinder- und Jugendhilfeausschuss und Sozialhilfeausschuss vom 01·12.2009: Kennzahlenvergleich der 16 großen Großstädte der BRD
+- TOP .11.: Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 02.12.2009: Sportinfrastrukturmaßnahmen, Sachstandsbericht 2009
+- TOP .12.: Beschluss Sort- und Schulausschuss vom 02.12.2009: Tanzsportclub Gelb-Schwarz-Casino München e.V. 1. Erweiterung der Tanzräume Sonnenstr. 12 2. Änderung Mehrjahresinvestitionsprogramm 2009-2013
+- TOP .13.: Zugang Sprachheilschule in der Stielerstraße an Wahltagen: Änderung der Wahlbenachrichtigung, Barrierefreiheit
+- TOP .14.: Glockenbachwerkstatt e.V.: Dankschreiben für die Förderung im Jahr 2009
+- TOP .15.: KiJu: Skaterbahn KuBu (Antrag vom 18.09.2009) Antwortschreiben Baureferat
+- TOP .16.: Bekanntgabe Schul- und Sportausschuss vom 13.01.2010: - Bereinigtes Einschreibeergebnis - Schüler- und Klassenzahlen
+- TOP .17.: Beschwerdestelle für Mieter und Betroffene von Bauvorhaben
+- TOP .1.: Gestaltung eines Stadtteilführers (siehe Beispiel "Soziale Welt der Maxvorstadt")
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag des UA Planen/Bauen: Nachpflanzung zweier Großbäume in der Isartalstr. 49 PLENUMSBESCHLUSS
+- TOP .1.: Standortgenehmigung für Parkscheinautomaten: Lizenzgebiet St. Pauls-Viertel, Pettenkoferstr. 37
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Schwanthalerstr. 60: Nutzungsänderung
+- TOP .2.: Lindwurmstr. 32: Errichtung einer Dachterrasse sowie Treppenaufbau
+- TOP .3.: Goethestr. 40: Wetterschutz-Überdachung und Umwandlung Wirtsgarten in Café, Verringerung der Café-Fläche und Nutzungsänderung
+- TOP .4.: Isartalstr. 30: Nutzungsänderung
+- TOP .5.: Gärtnerplatz 2: Anbau zweier Erker und eines Balkons
+- TOP .6.: Landwehrstr. 25: Einbau Außen-Nottreppe, Umbau Dachstuhl, Umbauten und Nutzungsänderungen
+- TOP .7.: Güllstr. 6: Einbau eines Dacheinschnitts
+- TOP .8.: Pestalozzistr. 28: DG-Ausbau
+- TOP .9.: Pestalozzistr. 28: Nutzungsänderung
+- TOP .10.: Tumblingerstr. 16: Anbau eines Wintergartens auf der Dachterrasse
+- TOP .11.: Schillerstr. 36: Penthouse-Geschossaufbau auf dem Rückgebäude sowie Verbindung des Geschosses mit Dachspitz des Vorderhauses
+- TOP .12.: Landwehrstr. 56: Nutzungsänderung
+- TOP .13.: Ickstattstr. 1 a: Umbau
+- TOP .14.: Klenzestr. 97: Nutzungsänderung I
+- TOP .15.: Klenzestr. 97: Nutzungsänderung II
+- TOP .16.: Westermühlstr. 3: Umwandlung
+- TOP .17.: Müllerstr. 7: Bauliche Trennung des Turms
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Müllerstr. 7
+- TOP .2.: Häberlstr. 11b
+- TOP .1.: Beschluss Bauausschuss vom 17.11.2009: Fuß- und Radwegbrücken in München
+- TOP .2.: Beschluss Bauausschuss vom 08.12.2009: Weg mit den Schlaglöchern - Fahrbahnbelag sanieren! Hermann-Ligg-Straße
+- TOP .4.: Beschluss Bauausschuss vom 08.12.2009: Isar-Plan, Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar
+- TOP .5.: Änderung des Flächennutzungsplanes für den Bereich I/33 und Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1999, Müllerstrasse (ehem. Fernheizkraftwerk) Ergebnisprotokoll der Erörterungsveranstaltung
+- TOP .6.: Beschluss Bauausschuss vom 17.11.2009: Hermann-Lingg-Str., Erneuerungsmaßnahme mit Verbesserungen
+- TOP .7.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Handlungsprogramm Mittlerer Ring, Wohnen am Ring
+- TOP .8.: Bekanntgabe der Vollversammlung des Stadtrates vom 16.12.2009: Gesamtkonzept Bahnknoten München - 2. S-Bahn-Stammstrecke
+- TOP .9.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Neuwidmung Isarpromenade zwischen Isarring und Brudermühlstraße
+- TOP .11.: Baumfällungsantrag Isartalstr. 49 (Genehmigung des Vorhabens)
+- TOP .12.: Beschluss Bauausschuss vom 08.12.2009: Weg mit den Schlaglöchern - Fahrbahnbelag sanieren! Hermann-Lingg-Str.
+- TOP .13.: Umlaufsperren in Grünanlagen (Schreiben Baureferat)
+- TOP .1.: Außerordentliche Bürgerversammlung zur 2. S-Bahn-Stammstrecke (Stellungnahme)
+- TOP .2.: Umgehung von Erhaltungssatzungen durch Gesellschaften Bürgerlichen Rechts Bügeranliegen (betrifft auch den UA KJS)
+- TOP .3.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung (Stellungnahme)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Antrag des UA KVR: Anbringung von zwei Pollern am Baaderplatz sowie Umgestaltung der Grünfläche
+- TOP 1: (E) Ziffer 2 des Antrages Nr. 9 aus der BV 02 vom 12.11.2009; Deklaration der im städtischen Wertstoffhof eingehenden Gegenstände als "herrenloses Gut" Empfehlung Nr. 08-14 / E 00436 der Bürgerver- sammlung des Stadtbezirkes 02 - Ludwigsvorstadt- Isarvorstadt am 12.11.2009
+- TOP 1.2.: (E) Emissionsmessung der "Motorland GmbH" in einer Wohneigentumsanlage Empfehlung Nr. 08-14 / E 00438 der Bürgerversammlung des Stadtbezirks 2 Ludwigvorstadt-Isarvorstadt am 12.11.09
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: Freischankflächenantrag, Sonnenstr. 6
+- TOP 1.2.: Freischankflächenantrag, Waltherstr. 19
+- TOP 1.3.: Freischankflächenantrag, Schwanthalerstr. 41
+- TOP 1.4.: Freischankflächenantrag, Müllerstr. 49
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Antrag für eine Warenauslage, Kapuzinerstr. 12
+- TOP 1.2.: Antrag für eine Warenauslage, Baaderstr. 53
+- TOP 1.3.: Antrag für einen mobilen Fahrradständer, Schillerstr. 8
+- TOP 1.4.: Antrag für eine Warenstellage, Körnerstr. 5
+- TOP 1.5.: Antrag für eine Warenstellage, Lindwurmstr. 1
+- TOP 1.6.: Antrag für einen mobilen Fahrradständer, Schillerstr. 23
+- TOP 1.7.: Antrag für eine Warenstellage, Reisingerstr. 3
+- TOP 1.8.: Antrag für eine Warenstellage, Reichenbachstr. 38
+- TOP 1.9.: Antrag für eine Warenstellage, Baaderstr. 35
+- TOP 1.1.: Fasching in der Reichenbachstraße, 16.02.2010
+- TOP 1.2.: Cycling Days München vom 21. - 23.05.2010
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Außerordentliche Bürgerversammlung zur 2. S-Bahn-Stammstrecke (Stellungnahme, betrifft auch P/B)
+- TOP 1.1.: Vorschlag zur Einrichtung eines Wochenmarktes am Stephansplatz
+- TOP 1.2.: Kapuzinerplatz 4: Einrichtung einer Ladezone
+- TOP 1.1.: Versammlungen unter freiem Himmel: 4
+- TOP 1.2.: Unveränderte Gaststättenfortführung: - LO SPRIZZETTO, Lindwurmstr. 7 - Shane`s Restaurant, Geyerstr. 52 - Hotelbar, Geyerstr. 52 - Bei Amina, Lindwurmstr. 21 - Hong Kong Bar, Kapuzinerstr. 39 - Café Central, Paul-Heyse-Str. 17 - Theresias, Schwanthalerstr. 88 - Sindbad Club, Landwehrstr. 43 - Indian Express, Schillerstr. 3a (UG)
+- TOP 1.3.: Verkehrsrechtliche Anordnung: - Thalkirchner Str. 45/47 - Lindwurmstr. 153 (Seite Schmellerstr.) - Bavariaring Tempo-30-Zone
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Verkehrliche Anordnung: - Wintertollwood, Taxistandplatz
+- TOP 1.6.: MVG: Information über Gleisbauarbeiten zwischen den U-Bahnhöfen Marienplatz und Sendlinger Tor
+- TOP 1.7.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.12.2009: Herausnahme von verkehrsberuhigten Bereichen aus dem Münchner Radlnetz
+- TOP 1.8.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen Beschluss vom 25.11.2009
+- TOP 1.9.: Antrag des BA 10: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 1.10.: Temporäre Haltverbotsschilder für Busse im Umfeld der Theresienwiese während des Oktoberfestes (BA-Antrags- Nr. 08-14 / B 01584) Sperrung der Zufahrtsstraßen zum Bavariaring beim nächsten Oktoberfest (BA-Antrags-Nr. 08-14 / B 01702) Schreiben vom KVR (Zwischenstand)
+- TOP 1.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.13.: Beschluss Ausschuss Stadtplanung und Bauordnung vom 13.02.2010: Stadt bezieht Stellung gegen Initiative zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 1.1.: Bürgeranliegen: Warenauslagen Sendlinger-Tor-Platz 5, Antrag der Grünen/Rosa Liste Stadtratsfraktion unterstützen
+- TOP 1.2.: Bürgeranliegen: Anregung für die Verkehrsplanung im Bereich Waltherstr. / Häberlstr. am Goetheplatz
+- TOP 1.3.: Bürgeranliegen: Maßnahmen gegen Ungleichbehandlung Pflanzkübel im Freischankbereich (aus der Sitzung vom 27.10.2009 sowie vom 24.11.2009)
+- TOP 1.4.: Bürgeranliegen: Verbesserung der Parksituation Schmeller-/Lindwurmstraße
+- TOP 1.5.: Bürgeranliegen: Versetzung der Bushaltestelle Klenzestr. 105 (Buslinie 131)
+- TOP 1.6.: Bügeranliegen: Maßnahmen gegen wegfallende Parkplätze in der Schmellerstraße
+- TOP 1.1.: Termine
+- TOP 1.3.: Sonstiges / Verschiedenes
+- TOP 1.1.: Fragebogen: Mandatsträger mit Migrationshintergrund
+- TOP 1.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4.: Unterrichtungen
+- TOP 1.12.: Beschluss Bauausschuss vom 08.12.2009: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen
+- TOP 1.2.: Veranstaltungen
