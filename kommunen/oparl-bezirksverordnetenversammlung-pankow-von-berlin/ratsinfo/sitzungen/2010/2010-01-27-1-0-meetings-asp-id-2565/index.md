@@ -1,0 +1,100 @@
+# 30. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-01-27T17:30:00+01:00
+- Ende: 2010-01-27T21:40:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2565
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2565
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=38380
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Sozialverträgliche und mieterfreundliche Sanierung durch die HoWoGe im Pankower Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Aufhebung der Robert-Havemann-Oberschule in 13125 Berlin, Achillesstraße 79 zum Schuljahr 2013/14 - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Demokratische Traditionen sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Erhalt Stille Straße 10 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Pankower Integrationskonzept endlich fertigstellen - zurückgezogen
+- TOP 1.12: Entlastung von stupiden Tätigkeiten - Plan zur RFID-Einführung vorlegen - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Handreichung Bürgerbeteiligung - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Ausstellung Wohl und Wehe der Ehe - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Kinderfreundliches Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Zuschüsse an freie Träger für Insolvenzberatung 2010/2011 bedarfsorientiert anpassen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Schilderwald in der Langhansstraße im OT Weissensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Hinweise auf Kultur- und Bildungseinrichtungen an ÖPNV-Haltestellen und Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Sicherheit während der Tiefbaumaßnahmen - überwiesen
+- TOP 1.20: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verbesserung der Erreichbarkeit der Robert-Havemann-Oberschule - überwiesen
+- TOP 1.22: Hundeverbot auf dem Kollwitzplatz aufheben - in der BVV abgelehnt
+- TOP 1.23: Maßnahmeplan "Bürgerfreundliche Verwaltungssprache" - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Teilnahme am Wettbewerb "Kommunaler Klimaschutz 2010" - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Kultur und Bildung im Eliashof - beantwortet
+- TOP 1.26: Initiativen im Eliashof - beantwortet
+- TOP 1.27: Benennung der Grünfläche am südlichen Antonplatz nach Tino Schwierzina - vertagt
+- TOP 1.28: Christi Himmelfahrt - in der BVV abgelehnt
+- TOP 1.29: Initiative im Eliashof - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Öffnungszeiten von Wochenmärkten - überwiesen
+- TOP 1.31: Liste der beantragten und erteilten Vorbescheide bzw. Baugenehmigungen zu Neubauvorhaben sowie erteilte Abgeschlossenheitsbescheinigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Monitoring der Hochbautätigkeit im Bezirk - zurückgezogen
+- TOP 1.33: Erschließung Baustelle an der BAB 10 - beantwortet
+- TOP 1.34: Keine "Gated Communities" - überwiesen
+- TOP 1.35: Ausgleichsbeträge nach § 154 BauGB in den Pankower Sanierungsgebieten - vertagt
+- TOP 1.36: Bundeshauptstadt der Biodiversität - überwiesen
+- TOP 1.37: Mehr Verkehrssicherheit für den Radverkehr in Pankow Süd - überwiesen
+- TOP 1.38: Kulturhaus Weißensee - vertagt
+- TOP 1.39: Visualisierung der Eigentumsverhältnisse im Prenzlauer Berg - überwiesen
+- TOP 1.40: Entwicklung des ehemaligen Rangier- und Güterbahnhofs Heinersdorf - vertagt
+- TOP 1.41: Schutz öffentlichen Eigentums - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Langfristige Sicherung der Präsenz des Rates für MigrantInnen im Interkulturellen Haus in der Schönfließer Str.7 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Umleitung des Verkehrs in Heinersdorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Orte des Gedenkens an Freiheit und Einigkeit im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Erinnerung an die Sprengung der Gasometer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Erfahrungsaustausch zu Begegnungsstätten - Orte für alle Generationen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6.1: Nicht umgesetzte Drucksache VI-0468 vom 28.05.2008, "Erfahrungsaustausch zu Begegnungsstätten - Orte für alle Generationen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Shared Space - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Umwelt- und Energiepark im Botanischen Volkspark - vertagt
+- TOP 2.9: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Barrierefreies Arbeiten der BVV-Arbeit sichern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Unterstützende Maßnahmen gegen illegale Müllentsorgung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Ökologische Straßenbeleuchtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Kulturhaus Weißensee - vertagt
+- TOP 2.14: Einrichtung eines staatlich geförderten Treffpunktes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Anton-Saefkow-Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Erhalt der kommunalen Einrichtung für Senioren in der Stille Straße 10 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Grenzen überwinden: Mehr Beteiligung bei den Planungen des regionalen Grünzugs zwischen Mauerpark und Barnim - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Blockweise Bebauungspläne - vertagt
+- TOP 2.20: Mehr Verkehrssicherheit für Fußgänger und Fahrradfahrer an der Kreuzung am S-Bahnhof Pankow - vertagt
+- TOP 2.21: Bericht zu linker Gewalt - vertagt
+- TOP 2.22: Mauerpark fertig stellen, mit Grün verbinden - statt durch Bebauung trennen - vertagt
+- TOP 2.23: Transparenz in der Arbeit des Rates der Bürgermeister - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bericht über Konjunkturpakete - vertagt
+- TOP 2.25: Verkehrssicherheit in der Pankgrafenstraße erhöhen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Spiel- und Nachbarschaftshaus auf dem Hirschhof ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Anzeige der Abfahrtszeiten am S- und U-Bahnhof Schönhauser Allee - vertagt
+- TOP 2.28: Benennung des südlichen Teils des Antonplatzes - vertagt
+- TOP 2.29: Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 3 Baugesetzbuch (BauGB) für das Gebiet "Glaßbrennerstraße" im Bezirk Pankow, Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.30: Bebauungsplan 3-27 für die Grundstücke Rykestraße 33 und Rykestraße 34 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Veränderungssperre 3-5/6 im Bezirk Pankow, Ortsteil Heinersdorf, für das Grundstück Treskowstraße 5 - vertagt
+- TOP 2.32: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Umzug Musikschulstandort Pappelallee 41B in den Eliashof - vertagt
+- TOP 2.34: Bebauungsplanentwurf 3-25 für die Grundstücke Oderberger Straße 19 sowie Kastanienallee 10-12 (teilweise) im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Organisationsänderung in der Abteilung Kultur, Wirtschaft und Stadtentwicklung. Zusammenlegung des LuV's 9 - Amt für Planen und Genehmigen - und des LuV's 10 - Vermessungsamt - zum Stadtentwicklungsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Organisationsänderung in der Abteilung Öffentliche Ordnung - Zusammenlegung des LuV 7 - Ordnungsamt, des LuV 14 - Veterinär- und Lebensmittelaufsichtsamt und der Unteren Straßenverkehrsbehörde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: "Wilhelm-von-Humboldt-Schule" (42. Grundschule 03G42) Pankow, Gudvanger Straße 16 in 10439 Berlin als Gemeinschaftsschule im Rahmen einer Pilotphase - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Umsetzung des Gesetzes zur Einführung der Integrierten Sekundarschule (ISS) im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Pankow im Gesunde Städte-Netzwerk der Bundesrepublik Deutschland - Konzipierung des Jahresprogramms 2010 "gesund und fit im Alter" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.40: Verlängerung der Veränderungssperre 3-13/4 im Bezirk Pankow, Ortsteil Weißensee für das Grundstück Berliner Allee 300 - mit Abschlussbericht zur Kenntnis genommen
