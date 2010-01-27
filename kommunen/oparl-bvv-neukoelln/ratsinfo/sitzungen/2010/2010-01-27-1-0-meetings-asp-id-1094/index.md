@@ -1,0 +1,109 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-01-27T17:25:00+01:00
+- Ende: 2010-01-27T22:34:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1094
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1094
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Erwerbslose nicht für Behördenfehler haftbar machen - in der BVV abgelehnt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl eines stellvertretenden Bürgerdeputierten in den Wirtschaftsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten in den Wirtschaftsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Wahl einer Patientenfürsprecherin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Wahl einer Schiedsfrau für den Schiedsamtsbezirk Neukölln 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Schule und Kultur - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Entscheidung über die Umgestaltung der Karl-Marx-Straße im Abschnitt zwischen Jonasstraße und Silbersteinstraße/Lahnstraße - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Veränderungssperre XIV-B 5/20 für das Grundstück Karl-Marx-Straße 259 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-B 5 - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Veränderungssperre XIV-B 4b/21 für das Grundstück Britzer Damm 76 im Bezirk Neukölln, Ortsteil Britz im Geltungsbereich des Bebauungsplanentwurfes XIV-B 4b - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Veränderungssperre 8-46/22 für das Grundstück Rudower Straße 132 im Bezirk Neukölln, Ortsteil Buckow im Geltungsbereich des Bebauungsplanentwurfes 8-46 ("Rudower Straße/Johannisthaler Chaussee") - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Schulentwicklungsplan 2009-2014 und Fusion von Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 6.6: Bebauungsplan XIV-185cba vom 13.02.2008 mit Deckblatt vom 10.06.2009 ("Sanierungsgebiet Wederstraße - Erweiterung der Zürich-Grundschule") - ohne Änderungen in der BVV beschlossen
+- TOP 6.7: Durchführung einer Einwohnerversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung eines stellvertretenden beratenden Mitgliedes im Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Unangemeldet gesperrter Zuzug - beantwortet
+- TOP 8.2: Winterchaos in Neukölln - beantwortet
+- TOP 8.3: Arbeitsplatzüberwachung - beantwortet
+- TOP 8.4: Schneeberäumung - beantwortet
+- TOP 8.5: Bezirke gemeinsam gegen Nazis - beantwortet
+- TOP 8.6: Neues Passwesen in Berlin - beantwortet
+- TOP 8.7: Ausgleichsmaßnahmen - beantwortet
+- TOP 8.8: Preise für Neuköllner Schulen - beantwortet
+- TOP 8.9: Unfallfalle Fußgängerüberweg?! - beantwortet
+- TOP 8.10: Musikschule - beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Gleiche Regeln für alle! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Bessere Leistung für Lehrer! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Mehrwertsteuersatz für Schulessen - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Konzept für den Berliner Religionsunterricht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Bebauungsplan XIV-256-1 vom 08.01.2009 - Am Bergpfuhl - - vertagt
+- TOP 9.6: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Arbeitsgelegenheiten für psychisch- und suchtkranke Menschen - überwiesen
+- TOP 9.8: Sicherung der Kleingartenanlage Steingrube Weimarsruh - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Seniorenbegegnungen mit der Partnerstadt Wetzlar - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Kinderärztlicher Notdienst - beantwortet
+- TOP 10.2: Wo sind die Ärzte im Bezirk? - beantwortet
+- TOP 10.3: Einnahmen aus dem Dualen System - beantwortet
+- TOP 10.4: Neu ausgeschriebene Reinigungspläne für Schulen - beantwortet
+- TOP 10.5: Aktionsraum plus Neukölln-Nord - beantwortet
+- TOP 10.6: Wiederherstellung Gartendenkmal Hufeisensiedlung - beantwortet
+- TOP 10.7: Stopp oder Weiterbau der A 100? - vertagt
+- TOP 10.8: (Nicht)Raucherschutzgesetz? - vertagt
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Informationen zur anonymen Geburt - überwiesen
+- TOP 12.2: Meine Stimme zählt! - in der BVV zurückgezogen
+- TOP 12.3: Keine Zusammenarbeit mit der Islamischen Gemeinschaft Milli Görüs - überwiesen
+- TOP 12.4: QM-Wahlordnungen transparent machen - überwiesen
+- TOP 12.5: Keine Homophobie in Neuköllner Jugendeinrichtungen - überwiesen
+- TOP 12.6: Bushaltestelle für das Sportzentrum Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Gartendenkmal Hufeisensiedlung - überwiesen
+- TOP 12.8: Videoüberwachung im U- und S-Bahnhof Hermannstraße - überwiesen
+- TOP 12.9: Keine Kündigung der Pachtverträge - überwiesen
+- TOP 12.10: Protokolle der Steuerungsrunde zugänglich machen - überwiesen
+- TOP 12.11: Grundsätzliches Verbot zur Errichtung von Minaretten im Bezirk - in der BVV abgelehnt
+- TOP 12.12: Beschlussvorlagen veröffentlichen - in der BVV zurückgezogen
+- TOP 12.13: Handreichung Bürgerbeteiligung - überwiesen
+- TOP 12.14: QMs demokratisieren - überwiesen
+- TOP 12.15: Aufstellung von CD/DVD-Recyclingboxen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Lichtverschmutzung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Reitergrab - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Kosten für die Genehmigung von Baumaßnahmen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Fahrradständer im Kindl-Boulevard - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Frauengesundheitstag - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Patientenfürsprecher erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Sozialmedizinischer Dienst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Routinemäßige Vorsorgeuntersuchungen aller Kleinkinder in Nord-Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Veränderungssperre XIV-244a/16 für das Grundstück Ziegrastraße 2/48 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfs XIV-244a ("Grünbereich Ziegrastraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Suchtprävention schützt Kinder und Jugendliche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Information über Präventionsprojekte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Stärkung des öffentlichen Gesundheitsdienstes (ÖGD) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Schwangerschaftsberatung gem. §§ 218, 219 StGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Gutachten für Demenzkranke und behinderte Jugendliche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: Bessere Kenntlichmachung der Mittelinsel am Mauerweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Bebauungsplan XIV-117a vom 13.02.2008 - Lipschitzallee - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Fußgängerüberweg Buschkrugallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Mehr Sicherheit vor dem Postamt Britz-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Ökologische Straßenbeleuchtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Bebauungsplan XIV-157i vom 20.01.2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Bescheinigung zur Vorlage bei der GEZ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.18: Projekt zur interkulturellen Öffnung der Seniorenarbeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.19: Zusammenlegung der Franz-Schubert-Schule (Grundschule), der Rütli-Schule (Hauptschule) und der Heinrich-Heine-Schule (Realschule) zur Gemeinschaftsschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.20: Verlängerung der Veränderungssperre XIV-60/18 für das Grundstück Mohriner Allee 21, 21A, 21B im Bezirk Neukölln, Ortsteil Britz, im Geltungsbereich des Bebauungsplanentwurfes XIV-60 („Mohriner Allee/Buckower Damm“) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.21: Veröffentlichung in "Was, Wann, Wo" - mit Abschlussbericht zur Kenntnis genommen
