@@ -1,0 +1,91 @@
+# 37. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-01-28T16:30:00+01:00
+- Ende: 2010-01-28T22:00:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2597
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2597
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - im Ausschuss abgelehnt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Sondermittel für Verein der Freunde und Förderer der Sonnenblumengrundschule e. V. (SM 1004) - ohne Änderungen in der BVV beschlossen
+- TOP 2.2: Sondermittel für abw - gemeinnützige Gesellschaft für Arbeit, Bildung und Wohnen mbH (SM 1006) - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI-36 - im Ausschuss abgelehnt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.3: Wahl eines Bürgerdeputierten für den Ausschuss für Stadtplanung und Verkehr - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Dauercampingplätze - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Bebauungsplanverfahren XV-30 ("Treptowers") hier: Inhaltliche Änderungen zum Bebauungsplanentwurf XV-30 vom 22.12.1994 mit Deckblatt vom 21.07.1997 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Lärmminderung in der Salvador-Allende-Straße - mit Änderungen in der BVV beschlossen
+- TOP 9.4: Überführung von Einrichtungen der Jugendarbeit in freie Trägerschaft - mit Änderungen in der BVV beschlossen
+- TOP 9.5: Bezirkshaushaltsrechnung 2007 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Sicherung des Schülerruderns - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Europäische Mobilitätswoche 2010 - überwiesen
+- TOP 9.8: ALKIS-Einführung in den Bezirken sinnvoll gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Kein zusätzlicher Verkehr nach Bohnsdorf - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Bearbeitung von Wohngeldanträgen - beantwortet
+- TOP 10.2: Atelierangebote in Treptow-Köpenick - schriftlich beantwortet
+- TOP 11: Beschlussvorlagen - (offen)
+- TOP 11.1: Ergebnis des erneuten Anzeigeverfahrens gem. § 6 Abs. 4 AGBauGB vom August/September und November 2009 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Aufhebung der Amelia-Earhart-Schule (Hauptschule) - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Strandbad "Müggelsee" - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Bürgerfreundliche Verwaltungssprache - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Neuregelung von Raumüberlassung an Dritte im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Verzicht auf Schranke in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Aktionstag "Gartendenkmal Treptower Park aufräumen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Lauffener Straße mit „ff“ - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Miete für den Pavillon der Schlossplatzbrauerei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Gesetzentwurf zur Publizitätspflicht im Bereich der Berliner Wasserwirtschaft in der vorliegenden Form übernehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Bebauungsplan XV-49 ("Hackenbergstraße") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Bebauungsplan XVI-52 ("Möllhausenufer") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Radweg in der Oberspreestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Bezirkshaushalt 2010/2011 – Förderung freier Träger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Bezirkshaushalt 2010/2011 –Jugendamt - Einrichtungen der Jugendarbeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Erneuerung des Daches beim Freilandlabor Kaniswall prioritär berücksichtigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Wegeverbindung sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Öffentliche Veranstaltung zur Befragung der Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Bezirkliche Sozialstruktur auch im "JobCenter" beachten - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: - Entwurf des Bebauungsplans 9-12 B nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans 9-12 B im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.19: Verkehrsberuhigung im Bereich Joachimstraße und Cardinalstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.20: Bau der "Wilhelminenhofbrücke" - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Schulwegsicherung auf der Schönefelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Verkehrszeichen mit Hinweis auf querende Radfahrerinnen und Radfahrer in der Ottomar-Geschke-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Schließung des Bürgeramtes III in 12587 Berlin, Myliusgarten 20 - überwiesen
+- TOP 13.2: Benennung der 29. Schule (Grundschule), Adlergestell 776, 12527 Berlin mit den Namen Schmöckwitzer Insel-Schule (Grundschule) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Einrichtung von Stellen für eine zusätzliche "Pflegekraft" und "Fallkostencontrolling der Transferausgaben KdU" und Bereitstellung der erforderlichen Personalmittel zum 1. Januar 2010 im Haushaltsplan des Sozialamtes - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bibliotheksbenennungen - überwiesen
+- TOP 14.2: Gedenkorte bekannter machen - überwiesen
+- TOP 14.3: Begrünungskonzept Wilhelminenhofstraße und deren Umgebung - überwiesen
+- TOP 14.4: Lange Nacht der Politik - im Ältestenrat zurückgezogen
+- TOP 14.5: Schulstationen und Schülerclubs erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Kein Engagement von honorarpflichtigen externen Moderatoren - überwiesen
+- TOP 14.7: Aktualisierung des Obdachlosenrahmenplans von Berlin - überwiesen
+- TOP 14.8: S-Bahnverkehr - in der BVV zurückgezogen
+- TOP 14.9: Bürger-Ehrenbuch - überwiesen
+- TOP 14.10: Snowboardschule Müggelberge - in der BVV abgelehnt
+- TOP 14.11: Rudolf-Rühl-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Schnee- und Eisbeseitigung in den Haltestellenbereichen des ÖPNV - mit Änderungen in der BVV beschlossen
+- TOP 14.13: Sichere Überquerung der Bruno-Taut-Straße - überwiesen
+- TOP 14.14: Lichtzeichen mit Hinweis auf querende Fußgängerinnen und Fußgänger sowie Radfahrerinnen und Radfahrer Salvador-Allende-Straße/Fürstenwalder Damm - überwiesen
+- TOP 14.15: Waldweg an der Mittelheide für Durchfahrt sperren - überwiesen
+- TOP 14.16: Würdiges Umfeld beim Gedenkstein für die Opfer des Kapp-Putsches - überwiesen
+- TOP 14.17: Geschwindigkeitskontrolle in der Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Straßenbenennung "Zur Güterbahn" - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Sportfläche Birkenwäldchen - vertagt
