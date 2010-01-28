@@ -1,0 +1,100 @@
+# 8. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-01-28T16:00:00+01:00
+- Ende: 2010-01-28T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/363
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/363
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2010_01_28 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00019017.pdf
+- Wortprotokoll: Nachtrag_SR_2010_01_28 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00019379.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Mitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden - Zustimmung
+- TOP 2: Verpflichtung einer Stadträtin gemäß § 35 Abs. 1 SächsGemO
+- TOP 3: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 4: Fragestunde der Stadträtinnen und Stadträte (1 Fragerunde)
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 8: Wahl des Aufsichtsrates der DGI Gesellschaft für Immobilienwirtschaft mbH Dresden - zurückgezogen
+- TOP 9: Wahl des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH - zurückgezogen
+- TOP 10: Wahl des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - zurückgezogen
+- TOP 12: Wahl des Aufsichtsrates der Technische Werke Dresden GmbH - zurückgezogen
+- TOP 13: Wahl des Aufsichtsrates der Cultus gGmbH der Landeshauptstadt Dresden - zurückgezogen
+- TOP 14: Wahl des Aufsichtsrates der Dresden-IT GmbH - zurückgezogen
+- TOP 15: Wahl des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - zurückgezogen
+- TOP 16: Wahl des Aufsichtsrates der Dresden Marketing GmbH - zurückgezogen
+- TOP 17: Wahl des Aufsichtsrates der Konzert- und Kongressgesellschaft mbH Dresden Kulturpalast/Schloß Albrechtsberg - zurückgezogen
+- TOP 18: Wahl des Aufsichtsrates der Messe Dresden GmbH - zurückgezogen
+- TOP 19: Wahl des Aufsichtsrates der Qualifizierungs- und Arbeitsförderungsgesellschaft Dresden mbH - zurückgezogen
+- TOP 20: Wahl des Aufsichtsrates der Stadtreinigung Dresden GmbH - zurückgezogen
+- TOP 22: Wahl des Aufsichtsrates der Zoo Dresden GmbH - zurückgezogen
+- TOP 23: Besetzung des zeitweiligen Ausschusses "Technisches Rathaus Hamburger Straße"
+- TOP 24: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 25: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 26: Besetzung des Ortsbeirates Blasewitz
+- TOP 27: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 28: Umbesetzung im Ortsbeirat Plauen - Zustimmung
+- TOP 29: Umbesetzung im Ausschuss Allgemeine Verwaltung, Ordnung und Sicherheit - gewählt
+- TOP 30: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - gewählt
+- TOP 31: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - gewählt
+- TOP 32: Umbesetzung im Ausschuss Umwelt und Kommunalwirtschaft - gewählt
+- TOP 33: Umbesetzung im Ausschuss für Umwelt und Kommunalwirtschaft - gewählt
+- TOP 34: Umbesetzung im Ausschuss Stadtentwicklung und Bau - erneute Beratung
+- TOP 35: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - erneute Beratung
+- TOP 36: Umbesetzung im Ausschuss für Kultur - gewählt
+- TOP 37: Umbesetzung im Ausschuss Soziales, Gesundheit und Wohnen - gewählt
+- TOP 38: Umbesetzung im Ausschuss Wirtschaftsförderung - gewählt
+- TOP 39: Umbesetzung im Petitionsausschuss - zurückgezogen
+- TOP 40: Umbesetzung im Betriebsausschuss Städtische Krankenhäuser - gewählt
+- TOP 41: Umbesetzung im Betriebsausschuss IT/Stadtentwässerung/Friedhofswesen - gewählt
+- TOP 42: Umbesetzung im Betriebsausschuss für Sportstätten und Bäder - gewählt
+- TOP 43: Umbesetzung im Ausländerbeirat - erneute Beratung
+- TOP 44: Umbesetzung in der Verbandsversammlung des Zweckverbandes VVO/Hauptausschuss VVO - gewählt
+- TOP 45: Wahl der Bewerberinnen und Bewerber für das Amt der ehrenamtlichen Richterin bzw. des ehrenamtlichen Richters für die Kammern der Sozialhilfe und des Asylbewerberleistungsgesetzes am Sozialgericht Dresden für die Vorschlagsliste - gewählt
+- TOP 46: Namensgebung der 55. Mittelschule - Zustimmung
+- TOP 48: Eintrittspreise und Entgelte für Kurse im Theaterhaus RUDI ab dem 01.01.2010 - Zustimmung mit Änderung
+- TOP 49: Satzung - Zustimmung mit Änderung
+- TOP 50: Flächennutzungsplan-Änderung Nr. 46, Ortsamt Plauen, Strehlener Straße/Nordseite - Zustimmung
+- TOP 51: Bebauungsplan Nr. 123.3, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platz - Verweisung
+- TOP 52: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofssatzung) vom 29. Juni 2006 - Vertagung
+- TOP 53: Einrichtung von Fahrradstationen an den beiden Dresdner Fernbahnhöfen - Vertagung
+- TOP 54: Verbesserung der Betreuungsqualität in den Dresdner Kindertagesstätten - Vertagung
+- TOP 55: Alternative Maßnahmen für die aus der EFRE-Förderung nach V2982 ausgeschiedenen Teile der Entwicklungsgebiete in Löbtau und Plauen - Vertagung
+- TOP 56: Einführen eines Sozialtarifes - Sozialticket - Vertagung
+- TOP 57: Dresden unterzeichnet Pflege-Charta - Vertagung
+- TOP 58: Abriss verhindern - Wohngebiet Seidnitz/Tolkewitz erhalten - Vertagung
+- TOP 59: Rückzahlung von Straßenausbaubeiträgen - Zustimmung mit Änderung
+- TOP 60: Straßenbahnnetzerweiterung Johannstadt - Zentrum - Plauen - Vertagung
+- TOP 61: Überprüfung der Stadträte auf MfS-Tätigkeit - Vertagung
+- TOP 62: Vollzeitstelle für Fahrradbeauftragten - Fahrradverkehr systematisch fördern - Vertagung
+- TOP 63: Auslegung Bebauungspläne (verbindlicher Bauleitplan) - Vertagung
+- TOP 64: Bericht über Kontrolle und Erfüllung der WOBA-Sozialcharta - Vertagung
+- TOP 65: Kitaplätze schaffen - Investitionsvorhaben bei Kitas beschleunigen - Vertagung
+- TOP 66: Bericht zur sozialen Situation und zu den Bildungschanchen der Kinder in Dresden - Vertagung
+- TOP 67: Verhandlungsziele der Stadt Dresden bei künftigen Tarifverhandlungen im VVO/Fahrgastbeirat VVO
+- TOP 68: Initiative "500-Solardächer-Programm" - Vertagung
+- TOP 69: Sofortiger Schutz aller Mitarbeiterinnen und Mitarbeiter des Technischen Rathauses - Vertagung
+- TOP 70: Finanzierung Umbau Kulturpalast Dresden und Projekt Heizkraftwerk Mitte - Vertagung
+- TOP 71: Verwaltungsstandorte mit neuer Perspektive - Vertagung
+- TOP 72: Einwohnerversammlung zum Thema "Zentralhaltestelle Kesselsdorfer Straße" - Vertagung
+- TOP 73: Änderung der Regelungen über die Bildung und Zusammensetzung der Aufsichtsräte in den Gesellschaftsverträgen städtischer Beteiligungsunternehmen - Zustimmung mit Änderung
+- TOP 74: Wahl des Aufsichtsrates der DGI Gesellschaft für Immobilienwirtschaft mbH Dresden - gewählt
+- TOP 75: Wahl des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH - gewählt
+- TOP 76: Wahl des Aufsichtsrates der Dresdner Verkehrsbetriebe AG - gewählt
+- TOP 77: Wahl des Aufsichtsrates der Stadtentwässerung Dresden GmbH - gewählt
+- TOP 78: Wahl des Aufsichtsrates der Technische Werke Dresden GmbH - gewählt
+- TOP 79: Wahl des Aufsichtsrates der Cultus gGmbH der Landeshauptstadt Dresden - gewählt
+- TOP 80: Wahl des Aufsichtsrates der Dresden-IT GmbH - gewählt
+- TOP 81: Wahl des Aufsichtsrates der DGH - Dresdner Gewerbehofgesellschaft mbH - gewählt
+- TOP 82: Wahl des Aufsichtsrates der Dresden Marketing GmbH - gewählt
+- TOP 83: Wahl des Aufsichtsrates der Konzert- und Kongressgesellschaft mbH Dresden Kulturpalast/Schloß Albrechtsberg - gewählt
+- TOP 84: Wahl des Aufsichtsrates der Messe Dresden GmbH - gewählt
+- TOP 85: Wahl des Aufsichtsrates der Qualifizierungs- und Arbeitsförderungsgesellschaft Dresden mbH - gewählt
+- TOP 86: Wahl des Aufsichtsrates der Stadtreinigung Dresden GmbH - gewählt
+- TOP 87: Wahl des Aufsichtsrates der STESAD GmbH - gewählt
+- TOP 88: Wahl des Aufsichtsrates der Zoo Dresden GmbH - gewählt
+- TOP -: Folgende Informationsvorlage wurde ausgereicht:
