@@ -1,0 +1,7 @@
+# TOP 1: Mitteilungen und Festsetzung der Tagesordnung
+
+- Sitzung: 19. öffentliche Sitzung des Verkehrsausschusses (2010-01-28)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=17397
+- Ergebnis: erledigt
