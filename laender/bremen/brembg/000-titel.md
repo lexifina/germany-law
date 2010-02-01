@@ -1,1 +1,1 @@
-# Bremisches Beamtengesetz in der Fassung vom 15. September 1995
+# Bremisches Beamtengesetz (BremBG) vom 22. Dezember 2009

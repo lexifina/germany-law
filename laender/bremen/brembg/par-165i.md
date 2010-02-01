@@ -1,5 +1,0 @@
-## 7. Wissenschaftliche und künstlerische Mitarbeiter
-# § 165 i
-(1) Einstellungsvoraussetzung für wissenschaftliche Mitarbeiter ist neben den allgemeinen Voraussetzungen in der Regel ein abgeschlossenes Hochschulstudium.
-(2) Absatz 1 gilt entsprechend für die Einstellung künstlerischer Mitarbeiter. Die künstlerische Befähigung kann durch ein abgeschlossenes Hochschulstudium oder durch eine mehrjährige künstlerische Berufstätigkeit nachgewiesen werden.
-(3) Wissenschaftliche und künstlerische Mitarbeiter werden, soweit sie in das Beamtenverhältnis berufen werden, für die Dauer von zwei Jahren zu Beamten auf Zeit ernannt. Bei Bewährung ist eine zweimalige Verlängerung von jeweils zwei Jahren möglich. Die Vorschriften für Beamte auf Lebenszeit gelten entsprechend, soweit in diesem Abschnitt oder im Bremischen Hochschulgesetz nichts anderes bestimmt ist. Der wissenschaftliche oder künstlerische Mitarbeiter ist mit Ablauf seiner Amtszeit entlassen. Ein Eintritt in den Ruhestand ist ausgeschlossen. In besonders begründeten Ausnahmefällen können wissenschaftliche und künstlerische Mitarbeiter zu Beamten auf Lebenszeit ernannt werden.

@@ -1,9 +1,0 @@
-## 3. Juniorprofessoren
-# § 165 e
-(1) Einstellungsvoraussetzungen für Juniorprofessoren sind neben den allgemeinen dienstrechtlichen Voraussetzungen
-1. ein abgeschlossenes Hochschulstudium,
-2. pädagogische Eignung,
-3. besondere Befähigung zu wissenschaftlicher Arbeit, die in der Regel durch die herausragende Qualität einer Promotion nachgewiesen wird.
-§ 165 b Abs. 4 Satz 1 gilt entsprechend. Sofern vor oder nach der Promotion eine Beschäftigung als wissenschaftlicher Mitarbeiter oder wissenschaftliche Hilfskraft erfolgt ist, sollen Promotions- und Beschäftigungsphase zusammen nicht mehr als sechs Jahre betragen haben. Verlängerungen nach § 57 b Abs. 4 Nr. 1 und Nr. 3 bis 5 des Hochschulrahmengesetzes in der Fassung des Fünften Gesetzes zur Änderung des Hochschulrahmengesetzes und anderer Vorschriften vom 16. Februar 2002 (BGBl. I S. 693) bleiben hierbei außer Betracht. § 57 b Abs. 2 Satz 1 des Hochschulrahmengesetzes in der vorbezeichneten Fassung gilt entsprechend.
-(2) Juniorprofessoren werden, soweit sie in das Beamtenverhältnis berufen werden, für die Dauer von drei Jahren zu Beamten auf Zeit ernannt. Das Beamtenverhältnis des Juniorprofessors soll mit seiner Zustimmung im Laufe des dritten Jahres um weitere drei Jahre verlängert werden, wenn er sich als Hochschullehrer bewährt hat; anderenfalls kann das Beamtenverhältnis mit Zustimmung des Juniorprofessors um bis zu einem Jahr verlängert werden. Eine weitere Verlängerung ist abgesehen von den Fällen des § 165 h Abs. 3 und 4 nicht zulässig; dies gilt auch für eine erneute Einstellung als Juniorprofessor. Ein Eintritt in den Ruhestand mit Ablauf der Dienstzeit ist ausgeschlossen.
-(3) Soweit in diesem Abschnitt oder im Bremischen Hochschulgesetz nichts anderes bestimmt ist, gelten für Juniorprofessoren die Vorschriften für Beamte auf Lebenszeit entsprechend.

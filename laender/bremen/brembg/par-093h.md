@@ -1,7 +1,0 @@
-# § 93 h
-(1) Personalakten sind nach ihrem Abschluß von der personalaktenführenden Behörde fünf Jahre, soweit die Möglichkeit eines Wiederauflebens eines Versorgungsanspruchs besteht dreißig Jahre, aufzubewahren. Personalakten sind abgeschlossen, wenn
-1. der Beamte ohne Versorgungsansprüche aus dem öffentlichen Dienst ausgeschieden ist, mit Ablauf des Jahres der Vollendung des 65. Lebensjahres, in den Fällen des § 49 dieses Gesetzes und des § 10 des Bremischen Disziplinargesetzes jedoch erst, wenn mögliche Versorgungsempfänger nicht mehr vorhanden sind,
-2. der Beamte ohne versorgungsberechtigte Hinterbliebene verstorben ist, mit Ablauf des Todesjahres,
-3. nach dem verstorbenen Beamten versorgungsberechtigte Hinterbliebene vorhanden sind, mit Ablauf des Jahres, in dem die letzte Versorgungsverpflichtung entfallen ist.
-(2) Unterlagen über Erkrankungen, Beihilfen, Freie Heilfürsorge, Heilverfahren, Vorschüsse, Abtretungen, Verpfändungen und Pfändungen, Unterstützungen, Reise- und Umzugskostenvergütungen und Erholungsurlaub sind fünf Jahre nach Ablauf des Jahres aufzubewahren, in dem die Bearbeitung des einzelnen Vorgangs abgeschlossen wurde. Unterlagen, aus denen die Art einer Erkrankung ersichtlich ist, sind unverzüglich zurückzugeben, wenn sie für den Zweck, zu dem sie vorgelegt worden sind, nicht mehr benötigt werden.
-(3) Personalakten werden nach Ablauf der Aufbewahrungsfrist vernichtet, wenn sie nicht vom zuständigen Archiv übernommen werden.
