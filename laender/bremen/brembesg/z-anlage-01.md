@@ -1,6 +1,3 @@
-## Besoldungsgruppe 9
-## Besoldungsgruppe 10
-## Besoldungsgruppe 11
 # Anlage 1 - Besoldungsordnung A Grundgehaltssätze (Monatsbeträge in Euro)
 Anlage 1
 Besoldungsordnung A Grundgehaltssätze (Monatsbeträge in Euro)

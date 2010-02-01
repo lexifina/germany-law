@@ -1,4 +1,4 @@
-# § 39a
-(1) Der Senat und die Spitzenorganisationen der zuständigen Vereinigungen der Richter im Lande Bremen wirken nach Maßgabe der folgenden Absätze bei der Gestaltung der Rechtsstellung der Richter zusammen.
-(2) Die Spitzenorganisationen nehmen bei Fragen der Rechtsstellung der Richter an den Gesprächen nach § 97 Abs. 2 des Bremischen Beamtengesetzes teil. § 97 Abs. 2 Satz 3 des Bremischen Beamtengesetzes gilt entsprechend.
-(3) Auf die Vorbereitung allgemeiner Regelungen der Rechtsstellung der Richter findet § 97 Abs. 3 des Bremischen Beamtengesetzes entsprechende Anwendung.
+# § 39a Spitzenorganisationen der Vereinigungen der Richterinnen und Richter
+(1) Die Spitzenorganisationen der zuständigen Vereinigungen der Richterinnen und Richter im Lande Bremen sind bei der Vorbereitung allgemeiner Regelungen über die Rechtsstellung der Richterinnen und Richter zu beteiligen.
+(2) Die Spitzenorganisationen nehmen bei Fragen der Rechtsstellung der Richterinnen und Richter an den Gesprächen nach § 93 Absatz 2 des Bremischen Beamtengesetzes teil.
+(3) § 93 Absatz 3 Satz 1, 2, 4 und 5 und Absatz 4 des Bremischen Beamtengesetzes findet entsprechende Anwendung.
