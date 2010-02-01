@@ -24,3 +24,4 @@ Abschnitt 4 Weitere Bestimmungen
 § 18 | Außer-Kraft-Treten
 Anlage - | Verzeichnis der Fächer (Aufgabenfelder)
 Anlage - | Stundentafel für die Einführungsphase
+Anlage - | Tabelle der Durchschnittsnoten Fachhochschulreife (schulischer Teil)
