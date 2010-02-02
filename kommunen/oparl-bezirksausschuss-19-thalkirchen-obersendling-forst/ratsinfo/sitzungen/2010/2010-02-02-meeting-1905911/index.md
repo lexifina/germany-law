@@ -1,0 +1,54 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-02-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1905911
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1905911
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 12.01.10
+- TOP 2: Anträge
+- TOP 2.1.: Änderung Friedhofsatzung
+- TOP 2.2.: Fragenkatalog Mehrgenerationenplatz
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Elternbeirat der GS Boschetsrieder Straße
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Wasserführung im Werkkanal
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Querung Meglingerstraße
+- TOP 5.2.: Überprüfung LZA im Stadtbezirk
+- TOP 5.3.: Abbiegespur Boschetsrieder-/Höglwörther Straße
+- TOP 5.4.: Parkverbot Spindlerplatz
+- TOP 5.5.: Parksituation Eberlestraße
+- TOP 5.6.: Umlaufsperren bei Radwegen
+- TOP 5.7.: Tram Westtangente
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Änderung Flächennutzungsplan und Bebauungsplan mit Grünordnung Nr. 1930b
+- TOP 6.3.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung
+- TOP 6.4.: Baudenkmal Genfer Platz 4
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Ausschreibung Weltkindertag 2010
+- TOP 7.2.: Kinderkrippe Hofmannstr. 25
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Gaststättenpächterwechsel Pognerstr. 5
+- TOP 9.2.: Gaststättenpächterwechsel Drygalski-Allee 118
+- TOP 9.3.: Gaststättenpächterwechsel Siemensallee 61
+- TOP 9.4.: Gaststättenpächterwechsel Kreuzhofstr. 10
+- TOP 9.5.: Cycling Days
+- TOP 9.6.: Forstenrieder Volkslauf
+- TOP 9.7.: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
