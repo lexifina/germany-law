@@ -1,0 +1,54 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-02-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1903812
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1903812
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Ausbau des Löwenzahnweges als verkehrsberuhigten Bereich (vertagt in der Sitzung am 12.01.2010)
+- TOP 2.2.: Ausbau des Blaukissenweges (vertagt in der Sitzung am 12.01.2010)
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Gesamtverein Feldmoching e.V.; Dorffasching am 14.02.2010
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: FC Fasanerie Nord e.V.; Jugend-Hallenturnier am 20./21.02.2010
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Euro-Trainings-Centre ETC e.V.; Bau eines Bewegungs- und Sinnesparcours (vertagt in der Sitzung am 12.01.2010)
+- TOP 3.1.: Ameisenplage auf Spielplätzen und Bürgersteigen (BA 10)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Anhörung im Einzelfall auf Anforderung: Bauvorhaben in der Schneeglöckchenstr. 79
+- TOP 5.2.: Ausschreibung Weltkindertag 2010 (vertagt in der Sitzung am 12.01.2010)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Bauliche Änderungen in der Lassallestraße
+- TOP 6.2.: Nahversorgung der Siedlung am Lerchenauer See
+- TOP 6.3.: Straßenverkehr in und um Feldmoching
+- TOP 6.4.: Aufhebung der Vorfahrtsregelung in der Himmelschlüsselstraße
+- TOP 6.5.: Überwachung der Durchführung des Bebauungsplanes: Schleißheimerstr. (westlich), Olschewskibogen (süd-östlich)
+- TOP 6.6.: Grundschul- und Kindertagesstättenanlage Lerchenauer Straße 322
+- TOP 6.7.: Schleißheimer Straße (Westseite) zwischen Weitlstraße und Augustin-Rösch-Straße
+- TOP 6.8.: Sondernutzungsverordnung bei Warenauslagen
+- TOP 6.9.: Jahresübersicht 2009 zur Stadtteilkultur
+- TOP 6.10.: Stadt bezieht Stellung gegen die Initiative des bayrischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 6.11.: Verkehrsberuhigter Bereich Kerbelweg
+- TOP 6.12.: Stadtteilkultur Januar 2010
+- TOP 6.13.: Lichtkonzept für den öffentlichen Raum in München
+- TOP 6.14.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009 / 2010
+- TOP 6.15.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2009 / 2010
+- TOP 6.16.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009 / 2010
+- TOP 6.17.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009 / 2010
+- TOP 6.18.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009 / 2010 Stand 20.10.2009
+- TOP 6.19.: Haushaltsplan 2010 - Ansätze zentrale Bereiche - Schlussabgleich (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 6.20.: Meldelisten Bauvorhaben
+- TOP 6.21.: Meldelisten Baumfällungsanträge
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
