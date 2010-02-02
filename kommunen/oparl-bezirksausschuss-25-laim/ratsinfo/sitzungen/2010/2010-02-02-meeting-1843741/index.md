@@ -1,0 +1,60 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-02-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843741
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843741
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Ablehnung des Bauvorhabens Agnes-Bernauer-Str. 105
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Wahl eines / einer neuen Vorsitzenden des UA Schule, Soziales, Sport
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 10.000 Euro für die Aufstellunge eines Containers; Antragsteller: Camerloher Kids e.V. (Vertagung aus der BA-Sitzung vom 06.10.09) - dazu Schreiben Direktorium vom 30.12.09
+- TOP 3.2.: Beschlussvorlage KVR: Entscheidung über Sperrzeitänderung gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Landsberger Str. 200
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Gesundheit und Umwelt vom 07.01.10: Mobilfunk; Suchkreismeldung My 4443, M-Laimerplatz-Nordwest 475380 - Suchkreiserweiterung
+- TOP 4.2.: Schreiben KVR vom 13.01.10: Maifeier am 01.05.10 auf dem Laimer Anger
+- TOP 4.3.: Schreiben KVR vom 13.01.10: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Veit-Stoß-Str. 25
+- TOP 4.4.: Schreiben KVR vom 18.01.10: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 25
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 14.12.09
+- TOP 7.2.: Sitzung UA Kultur vom 18.01.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 19.01.10: Budget des BA 25; Antrag des Jazzclub München e.V.
+- TOP 8.2.: Schreiben Referat für Gesundheit und Umwelt vom 12.01.10: Agnes-Bernauer-Str. 51; nächtliche Anlieferung (Schreiben BA vom 28.12.09)
+- TOP 8.3.: Schreiben Baureferat vom 23.12.09: Umlaufsperren in Grünanlagen
+- TOP 8.4.: Schreiben Baureferat vom 07.01.10: Radl-Sicherheit am Laimer Anger (Schreiben BA vom 19.11.09)
+- TOP 8.5.: Schreiben Baureferat vom 21.12.10: Sanierung der Fahrbahn der Ludwig-Richter-Straße (Antrag Nr. 08-14 / B 01485 vom 15.09.09)
+- TOP 8.6.: Schreiben KVR vom 18.11.09: Änderung der Zeitzusätze an den Haltverbotszonen am Linienweg der MVG-Linie 168 in der Aindorferstraße und Guido-Schneble-Straße; verkehrsrechtliche Anordnung
+- TOP 8.7.: Schreiben KVR vom 28.12.09: Gaststätte "Yelken", Senftenauerstr. 50; unveränderte Fortführung
+- TOP 8.8.: Schreiben Planungsreferat vom 08.01.10: Haunerstr. 10; Neubau eines Wohnhauses mit Tiefgarage / Vorbescheid
+- TOP 8.9.: Bautenliste vom 21.12.09-27.12.09 1. Erstantragsverfahren a) Ofener Str. 17 b) Fachnerstr. 41 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Ofener Str. 19
+- TOP 8.10.: Bautenliste vom 28.12.09-03.01.10 und 04.01.-10.01.10 1. Erstantragsverfahren a) Lautensackstr. 4 2. Änderungsverfahren a) Agricolstr. 99
+- TOP 8.11.: Bautenliste vom 11.01.-17.01.10: 1. Erstantragsverfahren a) Hartelstr. 6 2. Änderungsverfahren a) Camerloherstr. 69
+- TOP 8.12.: Schreiben Planungsreferat vom 29.12.09: Liste der beantragte Baumfällungen vom 21.12.-27.12.09
+- TOP 8.13.: Schreiben Planungsreferat vom 11.01.10: Liste der beantragten Baumfällungen vom 04.01.-10.01.10
+- TOP 8.14.: Schreiben Planungsreferat vom 18.01.10: Liste der beantragten Baumfällungen vom 11.01.-17.01.10
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 18.01.10: Baumaßnahmen der Stadtwerke; Stichtag: 18.01.10
+- TOP 8.16.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010 (Sitzungsvorlagen Nr. 08-14 / V 03499)
+- TOP 8.17.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2009/2010 (Sitzungsvorlagen Nr. 08-14 / V 03393)
+- TOP 8.18.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: Schüler/innen und Klassenstand; Berufliche Schulen der LH München im Schuljahr 2009/2010, Stand: 20.10.09 (Sitzungsvorlagen Nr. 08-14 / V 03370)
+- TOP 8.19.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010 (Sitzungsvorlagen Nr. 08-14 / V 03371)
+- TOP 8.20.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010 (Sitzungsvorlagen Nr. 08-14 / V 03432)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.10: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung (Sitzungsvorlagen Nr. 08-14 / V 03424)
+- TOP 8.22.: Beschluss des Bauausschusses vom 19.01.10: Lichtkonzept für den öffentlichen Raum in München (Sitzungsvorlagen Nr. 08-14 / V 02502)
+- TOP 8.23.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft am 20.01.10: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz); Grundsatzbeschluss (Sitzungsvorlagen Nr. 08-14 / V 03526)
+- TOP 8.24.: Schreiben SV München-Laim e.V. vom 15.01.10: Zuschuss des Bezirksausschusses für den SV München Laim
+- TOP 8.25.: Schreiben Referat für Stadtplanung und Bauordnung und Referat für Gesundheit und Umwelt vom 29.12.09: Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel / Klimaschutz der Perspektive München; Veranstaltungen / Einladung zur Auftakt - und Abschlussveranstaltung sowie zu thematischen Akteurswerkstätten
+- TOP 8.26.: Broschüre "Einblicke. Rückblicke. Ausblicke. München", Magazin anlässlich 30 Jahre Referat für Stadtplanung und Bauordnung
+- TOP 1.2: Bürgerpost an den BA
