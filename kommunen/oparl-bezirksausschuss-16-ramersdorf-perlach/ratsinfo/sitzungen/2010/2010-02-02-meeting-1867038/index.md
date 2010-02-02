@@ -1,0 +1,98 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2010-02-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1867038
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1867038
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: Beschlussfassung über die Finanzierung des Kultursommertag im Ostpark-Theatron im 16. Stadtbezirk, am 11. Juli 2010 aus dem Budgetanteil für BA-eigene Veranstaltungen; Summe: 7.000,- ? - <div>Zustimmung in voller Höhe</div>
+- TOP 2.6.1: Entscheidungen über die Gewährung..........
+- TOP 3: Anträge
+- TOP 3.1.: Verstärkte Geschwindigkeitskontrollen in der Holzwiesenstrasse; Bürgerschreiben vom 06.01.2010 - <div>nach Antrag</div>
+- TOP 3.2.: Erneuerung des Fahrbahnbelages in der Ottobrunner- und Putzbrunner Straße; Antrag der SPD-Fraktion im BA 16 vom 18.01.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.1.: Räume für die Mittagstischbetreuung an der Führichschule; Antrag der SPD-Fraktion im BA 16 vom 31.01.2010 - <div>nach Antrag</div>
+- TOP 3.2.: Bewohnertreff für das Neubaugebiet ?Im Gefilde?; Antrag der SPD-Fraktion im BA 16 vom 31.01.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Werbeanlage im Sandgrubenweg/Peralohstraße; Bürgerschreiben vom 30.12.2009 - <div>WL an das Planungsreferat</div>
+- TOP 3.1.: Bessere Aussicht auf dem Aussichtsberg im Ostpark; Bürgerschreiben vom 18.01.2010 - <div>nach Antrag</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: 1.) Angleichung des Bürgersteigs am Gerhart-Hauptmann-Ring Nr. 11 als Abfahrt für Radfahrer auf die Straße; 2.) Maßnahmen gegen überfüllte Abfalleimer 3.) Maßnahmen gegen die Krähenplage Bürgerschreiben vom 31.12.2009 - <div>siehe Protokoll</div>
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Frauen
+- TOP 4.4.6.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.6.7: Integration
+- TOP 4.4.6.8: Behinderte
+- TOP 4.6.9: Internet
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Informationsveranstaltungen der Verkehrspolizeiinspektion München auf dem Pfanzeltplatz in der Zeit vom 29.03.2010 bis 08.09.2010; Zuleitung des Kreisverwaltungsreferats vom 15.01.2010 - <div>Zustimmung</div>
+- TOP 5.2.: Überprüfung der Lichtzeichenanlagen im 16. Stadtbezirk; Zuleitung des Kreisverwaltungsreferats vom 18.01.2010 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung; Anpassung des Anhörungsrechtes für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene ?doppelte Behördenbeteiligung?; Antrag Nr. 08-14 / B 1354 des BA 16 vom 28.07.2009; Zuleitung des Direktoriums vom 15.12.2009 mit der Bitte um Stellungnahme hierzu: Antrag der CSU-Fraktion vom 13.01.2010 (vertagt aus der Sitzung am 13.01.2010) - <div>gem. dem Antrag der CSU-Fraktion</div>
+- TOP 5.2.: Gemeinde Neubiberg; Bebauungsplan Nr. 69 für den Bereich südlich der Hauptstraße/westlich Cramer-Klett-Straße/Hofbergerstraße/westlich Kyffhäuserstraße/Hermannstraße; Verfahren nach § 4 BauGB; Zuleitung des Referats für Stadtplanung und Bauordnung vom 01.12.2009 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 13.01.2010) - <div>Zustimmung</div>
+- TOP 5.1.: Soziale Stadt Projekt im Sanierungsgebiet Innsbrucker Ring / Baumkirchner Straße; Aufwertung und Umgestaltung Piusplatz und angrenzende Grünanlagen im 14. Stadtbezirk Berg am Laim und im 16. Stadtbezirk Ramersdorf-Perlach; Projektkosten (Kostenobergrenze): 2,7 Mio. ?; 1.Konzeptgenehmigung, 2. Projektauftrag, 3. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogramms 2010 ? 2014; Sitzungsvorlage Nr. 08-14 / V 03342; Beschlussentwurf für die Sitzung des Bauausschusses am 16.03.2010; Zuleitung des Baureferats vom 29.01.2010 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Fehlender Gehweg in der Adilostraße, östlich der Unterführung Lehenweg; neue Bushaltestelle der Linie 55 ab 13.12.2009; Antrag Nr. 08-14 / B 01590 des BA 16 vom 03.11.2009; Antwortschreiben des Baureferats vom 29.12.2009 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.2.: Weidener Straße, verstärkte Kontrollen der geltenden Geschwindigkeitsbegrenzungen (Tempo 30) und Aufstellen von Geschwindigkeitsanzeigern; Antrag Nr. 08-14 / B 00573 des BA 16 vom 04.11.2008; Nachfrage des BA 16 aus der Sitzung am 03.03.2009; Antwortschreiben des Kreisverwaltungsreferats vom 24.08.2009; Nachfrage des BA 16 aus der Sitzung am 06.10.2009; Antwortschreiben des Kreisverwaltungsreferats vom 04.01.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.3.: Durchfahrtsverbot für LKW über 7,5 Tonnen im Schumacherring; Antrag Nr. 08-14 / B 01508 des BA 16 vom 06.10.2009; Antwortschreiben des Kreisverwaltungsreferats vom 07.01.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.4.: Anpassung der Ampelphasen am Mittleren Ring im Kreuzungsbereich A8/ Rosenheimer Straße und Ottobrunner Straße; Antrag Nr. 08-14 / B 01349 des BA 16 vom 28.07.2009; Antwortschreiben des Kreisverwaltungsreferats vom 12.01.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.5.: Einrichtung von Schwerbehinderten-Parkplätzen am Alfred-Neumann-Anger; Antrag Nr. 08-14 / B 01691 des BA 16 vom 01.12.2009; Antwortschreiben des Kreisverwaltungsreferats vom 19.01.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.6.: Verkehrsberuhigung der Niederalmstraße; Schreiben des Kreisverwaltungsreferats an betroffene Bürgerinnen und Bürger vom 18.01.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.1.: Nachbarschaftstreff im Neubaugebiet "Im Gefilde"; Anfrage des BA 16 aus der Sitzung am 03.11.2009; Antwortschreiben des Sozialreferats vom 05.01.2010 - <div>in den UA Bildung, Soziales, Integration, Sport verwiesen.</div>
+- TOP 6.2.: Bewohnertreff für das Gebiet um die Haldenseestraße; Anfrage des BA 16 aus der Sitzung 02.12.2009; Antwortschreiben des Sozialreferats vom 13.01.2010 - <div>in den UA Bildung, Soziales, Integration, Sport verwiesen.</div>
+- TOP 6.1.: Umlaufsperren in Grünanlagen; Anfrage des BA 16 aus der Sitzung am 13.01.2010; Antwortschreiben des Baureferats vom 28.01.2010 - <div>in den UA UKGG und den UA Verkehr verwiesen</div>
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Bushaltestelle Linie 55 Adilostraße; Nachrüstung mit Mobiliar; Bürgerschreiben an die Stadtwerke München Gmbh vom 30.12.2009 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 7.1.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14 / V 03432; Bekanntgabe im Schulausschuss des Stadtrats vom 13.01.2010 - <div>zur Kenntnis genommen bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen</div>
+- TOP 7.2.: Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010; Stand 20.10.2009; Sitzungsvorlage Nr. 08-14 / V 03370; Bekanntgabe im Schulausschuss des Stadtrates vom 13.01.2010 - <div>zur Kenntnis genommen bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.3.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14 / V 03371; Bekanntgabe im Schulausschuss des Stadtrats vom 13.01.2010
+- TOP 7.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14 / V 03393; Bekanntgabe im Schulausschuss des Stadtrates vom 13.01.2010 - <div>zur Kenntnis genommen bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.5.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010; Sitzungsvorlage Nr. 0814 / V 03499; Bekanntgabe im Schulausschuss des Stadtrats vom 13.01.2010 - <div>zur Kenntnis genommen bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.6.: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich Förderung freier Träger; Beschlüsse der Vollversammlung des Stadtrats vom 16.12.2009 7.3.6.1 Amt für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 02841 7.3.6.2 Stadtjugendamt; Sitzungsvorlage Nr. 08-14 / V 02839 7.3.6.3 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 02831 - <div>zur Kenntnis genommen bzw. in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 7.1.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Antrag Nr. 08-14 / A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009; Sitzungsvorlage Nr. 08-14 / V 03424; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.2.: Baufälle im 16. Stadtbezirk - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.3.: Verordnung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats mit der Bitte um Kenntnisnahme 7.4.2.1 Anwesen Bad-Dürkheimer-Straße; Mitteilung vom 15.01.2010 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.1.: Lichtkonzept für den öffentlichen Raum in München Antrag Nr. 02-08 / A 03751 der FDP vom 13.06.2007 Lichtkonzept I Beleuchtungskonzept für die Landeshauptstadt München mit dem Ziel, das Erscheinungsbild der Stadt zu verbessern und Energie einzusparen Antrag Nr. 08-14 / A 00705 der Stadtratsfraktion der FDP vom 27.03.2009 Lichtkonzept II Beleuchtung neuer Vorhaben und großer Neubaugebiete und Siedlungen in München Antrag Nr. 08-14 / A 00706 der Stadtratsfraktion der FDP vom 27.03.2009 Lichtkonzept III Beleuchtung städtischer Plätze, Gebäude und Stadtlandschaften Antrag Nr. 08-14 / A 00707 der Stadtratsfraktion der FDP vom 27.03.2009; Sitzungsvorlage Nr. 08-14 7 V 02502; Beschluss des Bauausschusses vom 19.01.2010 (SB) - <div> zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 7.2.: Bachräumungstermine 2010 für die Stadt- bzw. Stadtrandbäche; Zuleitung des Baureferats vom 14.01.2010 - <div> zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse (keine Beschlussfassung, lediglich Verweisung an einen Unterausschuss parallel zur Prüfung der Anträge durch das Direktorium)
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Sportgipfel des Bezirksausschuss 16 am 10.02.2010; Konzeption und Fragen - <div>zur Kenntnis genommen</div>
+- TOP 8.2.: Informationsveranstaltung des Sozialreferats am 04.03.2010 für die Bezirksausschüsse; Zuleitung des Sozialreferats vom 19.01.2010 mit der Bitte um Rückmeldung bis zum 25.02.2010 - <div>zur Kenntnis genommen</div>
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 8.1.: Bericht der Vorsitzenden über die Verwendung / Abrechnung der Verwaltungskostenpauschale nach § 17 BA-Satzung - <div>zur Kenntnis genommen</div>
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zust. UAe
