@@ -1,0 +1,63 @@
+# 4. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-02-03T18:08:00+01:00
+- Ende: 2010-02-03T18:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7270
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7270
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00288637.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 5.1: Kanalstraße zwischen Promenade und Lublinring aus dem Vorbehaltsnetz nehmen - verwiesen
+- TOP 6: Anregungen des Ausländerbeirates
+- TOP 7: Ordnungsbehördliche Verordnung zur Änderung der ordnungsbehördlichen Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, - Innenstadtbereich "Altstadt/Bahnhofsviertel" - für die Jahre 2008 bis 2010 - einstimmig beschlossen
+- TOP 8: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Dritter Zwischenbericht) - einstimmig beschlossen
+- TOP 8.1: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Dritter Zwischenbericht)
+- TOP 9: NKF-Gesamtabschluss für die Stadt Münster zum 31.12.2010 / Gesamtabschlussrichtlinie - einstimmig beschlossen
+- TOP 9.1: NKF-Gesamtabschluss für die Stadt Münster zum 31.12.2010 / Gesamtabschlussrichtlinie
+- TOP 10: Grundausrichtung des Beteiligungsmanagements im Stadtkonzern Münster - einstimmig beschlossen
+- TOP 11: Städtebauliche Rahmenbedingungen für die Durchführung eines Europaweiten Vergabeverfahrens zur Veräußerung der stadtwerkeeigenen Grundstücke "ehemaliges OSMO-Gelände" sowie der zur Insolvenzmasse der Fa. Ostermann + Scheiwe GmbH + Co.KG gehörenden Gr - von der Tagesordnung abgesetzt
+- TOP 12: Umsetzung des § 61a Landeswassergesetz NRW "Private Abwasseranlagen" - einstimmig beschlossen
+- TOP 13: Verkürzung der Fristen in Wasserschutzgebieten - einstimmig beschlossen
+- TOP 14: Bauleitplanung
+- TOP 14.1: Stadtbezirk Münster-Hiltrup
+- TOP 14.1.1: Vorhabenbezogener Bebauungsplan Nr. 519 - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 14.2: Stadtbezirk Münster-Südost
+- TOP 14.2.1: Bebauungsplan Nr. 533 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 15: Bestellung von Vertreter/innen der Stadt Münster in den Ausschuss des Unterhaltungsverbandes II St. Mauritz - Altenberge - einstimmig geändert beschlossen
+- TOP 16: Bestellung von Mitgliedern des Rates für den Integrationsrat - einstimmig geändert beschlossen
+- TOP 17: Besetzungen und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 17.1: Besetzungen und Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 18: Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - von der Tagesordnung abgesetzt
+- TOP 19: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 19.1: Veranstaltungsort OSMO-Halle - verwiesen
+- TOP 19.2: Kundenfreundlich, komfortabel, kompetent - Münsters Stadtverwaltung 2011 - verwiesen
+- TOP 19.3: Wohnen, leben, arbeiten und feiern - Münsters Innenstadt muss für alle attraktiv bleiben - verwiesen
+- TOP 19.4: Rathaus öffnen: Bürgerschaft an Stadtentwicklung beteiligen - verwiesen
+- TOP 19.5: Schulentwicklungsplanung: Beratung inhaltlich vorbereiten - verwiesen
+- TOP 19.6: Münster als Stadt der Fotografie - Erinnerung an den großen Fotografen Friedrich Hundt - verwiesen
+- TOP 19.7: Ausstieg aus der Kohleverstromung in Hamm - verwiesen
+- TOP 19.8: Runder Tisch der Stiftungen - verwiesen
+- TOP 19.9: Motorischen Test für Grundschulkinder vorantreiben - verwiesen
+- TOP 19.10: Allen Kindern und Jugendlichen die Mitgliedschaft in Vereinen ermöglichen - Einführung der KinderMitmachKarte (KiM-Card) - - verwiesen
+- TOP 19.11: "Rathaus öffnen: Mehr Mitbestimmung für Kinder und Jugendliche in Münster" - verwiesen
+- TOP 19.12: Handyparken in Münster einführen - verwiesen
+- TOP 19.13: Erhebung einer Kulturförderabgabe - Attraktivität Münsters sichern und ausbauen - verwiesen
+- TOP 19.14: Modellversuch: Bürgerbeteiligung bei der Vergabe der frei verfügbaren Mittel in einer Bezirksvertretung ermöglichen - verwiesen
+- TOP 19.15: Familienfreundliche Verwaltung in Münster: Mehr Telearbeitsplätze in der Stadtverwaltung - verwiesen
+- TOP 19.16: Nachhaltige Bewirtschaftung der städtischen Flächen - verwiesen
+- TOP 19.17: Unterstützung für den SC Westfalia Kinderhaus - verwiesen
+- TOP 19.18: Mehr Tempo: Hochgeschwindigkeitsinternet für Münster - verwiesen
+- TOP 19.19: Münsters Schullandschaft weiterentwickeln - ein Bildungsbericht für Münster Für einen neuen Anfang in der Schulentwicklungsplanung - verwiesen
+- TOP 20: Verschiedenes
