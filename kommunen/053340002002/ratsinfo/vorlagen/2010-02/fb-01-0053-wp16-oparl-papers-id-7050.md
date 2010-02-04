@@ -1,0 +1,11 @@
+# Integration ausländischer Mitbürger;hier: Integrationsvereinbarung
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 01/0053/WP16
+- Art: Kenntnisnahme
+- Datum: 2010-02-04
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=7050
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=7050
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=2151 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=89
+- Beratung: Kenntnisnahme  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=89
