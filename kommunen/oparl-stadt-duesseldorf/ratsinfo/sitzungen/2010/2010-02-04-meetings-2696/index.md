@@ -1,0 +1,58 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-02-04T14:00:00+01:00
+- Ende: 2010-02-04T21:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2696
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2696
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142770.pdf
+- Ergebnisprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142770.pdf
+- Wortprotokoll: Niederschrift oeffentlich http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142770.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell SPD: Baustraße durch den Hofgarten - beantwortet
+- TOP 3.2: Anfrage aktuell Bü90/Grü: Kostensteigerungen beim Projekt Kö-Bogen - beantwortet
+- TOP 3.3: Anfrage aktuell: Baukostensteigerungen beim Projekt Kö-Bogen - beantwortet
+- TOP 3.4: Anfrage aktuell DIE LINKE: Kö-Bogen - beantwortet
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 4.1: Anfrage FDP: Sporthallen - beantwortet
+- TOP 4.2: CDU: Pandemie-Strategie - beantwortet
+- TOP 4.3: CDU: Quartiersgaragen - beantwortet
+- TOP 4.4: Anfrage Bü90/Grü: Zukunft der Jobcenter - beantwortet
+- TOP 4.5: Anfrage Linke: Keine Unterstützung der Stadt bei Abschiebungen - schriftlich beantwortet
+- TOP 4.6: Anfrage LiNKE. Abschiebungen 2009 - schriftlich beantwortet
+- TOP 4.7: Anfrage SPD: Grundstücksverkäufe - schriftlich beantwortet
+- TOP 5: Anträge
+- TOP 5.1: Bü90: Schulentwicklungsplanung - mehrheitlich abgelehnt
+- TOP 5.2: Bü90: Hilfsangebote für obdachlose Menschen - mehrheitlich abgelehnt
+- TOP 5.3: Antrag LINKE. Resolution für ein neues Gerichtsverfahren - zur Kenntnis genommen
+- TOP 5.4: Antrag LINKE: Gebührenfreies Girokonto für Düsselpassberechtigte - mehrheitlich abgelehnt
+- TOP 5.5: Antrag SPD. Klimafreundliches Düsseldorf - zur Kenntnis genommen
+- TOP 5.6: Antrag SPD. Organisation des zukünftigen Integrationsausschusses - zur Kenntnis genommen
+- TOP 5.7: Antrag Bü90/Grü: Lärmschutz auf der Fleher Brücke - einstimmig beschlossen
+- TOP 5.7.1: EA SPD: Lärmschutz auf der Fleher Brücke - zur Kenntnis genommen
+- TOP 5.8: Antrag Bü90/Grü: Mobilität sichern - dem Stillstand begegnen - mehrheitlich abgelehnt
+- TOP 5.9: Antrag Bü90/GRÜNE: Keine Autos durch den Hofgarten - mehrheitlich abgelehnt
+- TOP 5.9.1: EA SPD: Keine Straße durch den Hofgarten - mehrheitlich abgelehnt
+- TOP 5.10: Antrag SPD. Kö-Bogen: Verkehrslenkende Maßnahmen - mehrheitlich abgelehnt
+- TOP 5.11: Resolution CDU, SPD, Bü90/Grü, FDP: Jobcenter/SGB II - mehrheitlich beschlossen
+- TOP 6: JHP Kinder- und Jugendförderung - einstimmig beschlossen
+- TOP 7: Mitgliedschaft der Stadt Düsseldorf im Verein Anna Maria Luisa de' Medici - mehrheitlich beschlossen
+- TOP 8: Erste Satzung zur Änderung der Betriebssatzung des Stadtentwässerungsbetriebs - einstimmig beschlossen
+- TOP 9: Änderung Geschätsordnung Rat - einstimmig beschlossen
+- TOP 10: Wahl der Mitglieder und stellvertretenden Mitglieder des Kreiswahlausschusses - zur Kenntnis genommen
+- TOP 11: Integrationsausschuss - Wahl von RM - - zur Kenntnis genommen
+- TOP 12: Mitglieder Riehl-Kolleg - einstimmig beschlossen
+- TOP 13: Verbandsversammlung ITKR - Ersatzbestellung - einstimmig beschlossen
+- TOP 14: Verbandsversammlung Rhein-Ruhr 2012 - Ersatzbestellung - einstimmig beschlossen
+- TOP 15: Genehmigung 60er: Düsseldorfer Soforthilfe für Haiti - einstimmig beschlossen
+- TOP 16: Beschlusskontrolle Rat - zur Kenntnis genommen
+- TOP 17: Umbesetzung Ausschüsse u.a. - einstimmig beschlossen
