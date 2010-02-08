@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898391
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898391
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Trinklsiedlung; hier: Wertstoffinsel - Mondscheinweg - Trinklsiedlung
+- TOP 2.2.: Sauberkeit der Straßen in Moosach
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Jour Fixe Schulreferat ("Mobile Interims-Schulraumeinheiten")
+- TOP 3.2.: Weltkindertag
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ausbau Hayler Straße
+- TOP 3.2.: Ortstermin Parksituation Gärtnerstraße
+- TOP 3.3.: Ortstermin Parksituation in der Irma-Wenke-Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Wertstoffcontainer Trinklsiedlung
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 3.2.: Jahresbericht Budget
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Seniorennachmittag 2010
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 4.4.1.: Verbesserung des Verkehrsflusses auf der Auffahrt vom Georg-Brauchle-Ring (von Osten kommend) zur Landshuter Allee (südwärts)
+- TOP 4.4.2.: Veränderung von Umlaufsperren
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 10; Initiative "Beuys Birthday im Pelkovenschlössl: Ausstellung vom 14.-16.05.10 im Pelkovenschlössl
+- TOP 5.2.: Erweiterung einer bestehenden Freischankfläche; Cafe Live, Bunzlauer Str. 25
+- TOP 5.3.: Brieger Straße; Genehmigung der Projektplanung
+- TOP 4: (E) Erweiterung des Parklizenzgebietes "Borstei" auf die Emmy-Noether-Straße Empfehlung Nr. 08-14 / E 00392 der Bürgerversammlung des 10. Stadtbezirkes - Moosach am 13.10.2009
+- TOP 5: (E) Errichtung eines Zebrastreifens in der Riesstraße auf Höhe Dieselstraße Empfehlung Nr. 08-14 / E 00391 der Bürgerversammlung des 10. Stadtbezirkes Moosach am 13.10.2009
+- TOP 6: Anhörungen
+- TOP 6.1.: Überprüfung der Lichtzeichenanlagen im 10. Stadtbezirk
+- TOP 6.2.: Flohmarkt in der Grünanlage Simmerleinplatz am 24.04.10
+- TOP 6.3.: Pflanzenbörse Siedlervereinigung Moosach in der Grünanlage Simmerleinplatz am 08.05.10
+- TOP 6.4.: Instandsetzung des Durchlasses "Hartmannshofer Bach unter der Lechelstraße"
+- TOP 6.5.: Verkauf einer städtischen Immobilie - nichtöffentlich -
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Verbesserung der Verkehrssicherheit an der Durchfahrt von der Emmy-Noether-Straße zum Georg-Brauchle-Ring (Zwischennachricht; Überprüfung der gesamten verkehrlichen Situation in der Emmy-Noether-Straße)
+- TOP 7.2.: Bunzlauer Str. 9, Nutzungs- und Verwertungsmöglichkeiten (Protokoll Kommunalreferat; der Antrag des BA 10 wird bis zur Erledigung der an das Kommunalreferat gestellten Aufgaben zurückgestellt)
+- TOP 7.3.: Dachsanierung bei GWG-Gebäuden; Umsetzung der EnEV (Anfrage aus der Bürgerversammlung)
+- TOP 7.4.: Ameisenplage auf Spielplätzen und Bürgersteigen (Antworten der BAs 8 und 16 auf den Antrag des BA 10)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldelisten Bauvorhaben
+- TOP 8.3.: Aufhebung des derzeitigen Zusatzes beim absoluten Haltverbot auf der Nordseite der Richthofenstraße
+- TOP 8.4.: Anordnung eines absoluten Haltverbots im Kurvenbereich der Lauinger - / Saarlouiser Straße
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebs; hier: Tafernwirtschaft Gut Nederling, Nederlinger Str. 78
+- TOP 8.6.: Erinnerungsverfahren; Projektname Landshuter Allee zwischen Moosacher Straße und Hanebergstraße
+- TOP 8.7.: Bachräumungstermine 2010 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.8.: Budget der Bezirksausschüsse, Erfahrungsbericht 2009
+- TOP 8.9.: Aktuelle Grundwasserwerte im Bereich Moosach-Feldmoching
+- TOP 8.10.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept
+- TOP 8.11.: Novelle der Bayerischen Bauordnung 2008; 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis
+- TOP 8.12.: Arbeit für alle ! Neue Modelle für die Ausbildung und Beschäftigung vom Menschen mit Behinderung (Broschüre)
+- TOP 8.13.: Einblicke.Rückblicke.Ausblicke. München (Magazin anläßlich 30 Jahre Referat für Stadtplanung und Bauordnung)
+- TOP 8.14.: Münchner Statistik, 2. Quartalsheft
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
