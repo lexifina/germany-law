@@ -1,0 +1,392 @@
+---
+ecli: "ECLI:DE:BGH:2010:080210ANWZ.B.112.09.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Anwaltsenat"
+aktenzeichen: "AnwZ(B) 112/09"
+decided: "2010-02-08"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2010&Sort=1&Seite=12&nr=55085&anz=3646&pos=376&Blank=1.pdf"
+corpus_doc_id: "BGH_Anwaltsenat_LE_2010-02-08_NA_AnwZB_112_09_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bpersvg_2021/0025.md", "germany/bund/acts/brao/0068.md", "germany/bund/acts/brao/0069.md", "germany/bund/acts/brao/0112f.md", "germany/bund/acts/grundgesetz/artikel/012.md", "germany/bund/acts/grundgesetz/artikel/031.md", "germany/bund/acts/grundgesetz/artikel/041.md", "germany/bund/acts/grundgesetz/artikel/072.md", "germany/bund/acts/gvg/0021b.md", "germany/bund/acts/vwgo/0066.md"]
+---
+
+# Bundesgerichtshof, AnwZ(B) 112/09 vom 2010-02-08
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                                BESCHLUSS
+AnwZ (B) 80/09
+AnwZ (B) 112/09
+
+                                vom 8. Februar 2010
+
+                                  in dem Verfahren
+
+Nachschlagewerk:          ja
+BGHZ:                  nein
+BGHR:                     ja
+
+
+
+BRAO § 68 Abs. 2
+BRAO § 90 Abs. 1 a.F. (heute: § 112f BRAO n.F.)
+
+
+a) Nach § 68 Abs. 2 Satz 1 BRAO sind Teilneuwahlen des Vorstands einer Rechtsanwaltskammer nur alle zwei Jahre durchzuführen. Ein anderer Turnus ist unzulässig.
+
+b) Eine Wahl ist nur bei einem Wahlfehler für ungültig zu erklären, der auf das Wahlergebnis
+   von Einfluss ist oder konkret und nicht nur theoretisch von Einfluss sein kann. Das ist bei
+   einem Verstoß gegen § 68 Abs. 2 Satz 1 BRAO der Fall.
+
+c) Das Gericht darf trotz eines solchen Fehlers davon absehen, die angefochtene Wahl für
+   ungültig zu erklären, wenn das dem wahlprüfungsrechtlichen Grundsatz des geringstmöglichen Eingriffs entspricht oder wenn das Interesse am Bestandsschutz des im
+   Vertrauen auf die Gesetzmäßigkeit der Wahl gewählten Vorstands den festzustellenden
+   Wahlfehler überwiegt.
+
+BGH, Beschluss vom 8. Februar 2010 - AnwZ (B) 80/09
+                                   - AnwZ (B) 112/09 - AGH Hamburg
+
+
+
+
+wegen Anfechtung der Vorstandswahl 2007 der Antragsgegnerin
+
+                                        -2-
+
+
+
+    Der Senat für Anwaltssachen des Bundesgerichtshofs hat durch den Präsidenten des Bundesgerichtshofs Prof. Dr. Tolksdorf, den Richter Dr. Schmidt-Räntsch, die Richterin Lohmann und die Rechtsanwälte Dr. Wüllrich und
+    Dr. Braeuer nach mündlicher Verhandlung
+
+    am 8. Februar 2010
+
+    beschlossen:
+
+
+          Der Senat beabsichtigt, die sofortigen Beschwerden der Antragsgegnerin und des Beigeladenen zu 8 gegen die Beschlüsse des
+          II. Senats des Anwaltsgerichtshofs in der Freien und Hansestadt
+          Hamburg vom 24. Juni 2009 und vom 3. August 2009 zurückzuweisen.
+
+
+          Termin zur Fortsetzung der mündlichen Verhandlung wird von
+          Amts wegen bestimmt werden (voraussichtlich Juli 2010).
+
+
+
+                                      Gründe:
+
+
+
+
+                                         I.
+
+1         Die Antragsteller sind im Bezirk der Antragsgegnerin als Rechtsanwälte
+    zugelassen. Sie fechten im Wege der Wahlanfechtung die Neuwahl von neun
+    Mitgliedern des aus 23 Mitgliedern bestehenden Vorstands der Antragsgegnerin
+    in der Kammerversammlung am 22. Mai 2007 (fortan Vorstandswahl 2007) an.
+    An dieser Versammlung nahmen 311 Kammermitglieder der insgesamt etwa
+    9.000 Rechtsanwälte teil, die der Antragsgegnerin angehören. Vor der Wahl
+
+                                          -3-
+
+
+
+    lehnte die Mehrheit der anwesenden stimmberechtigten Kammermitglieder den
+    Antrag eines Kammermitglieds auf Absetzung der Wahl wegen Verstoßes gegen § 68 BRAO ab. Bei der daran anschließenden Wahl wurden neun Vorstandssitze wegen Ablaufs der Wahlperiode neu besetzt. Dafür standen
+    13 Kandidaten zur Wahl, wobei im Wege der Blockwahl durch Abgabe von
+    höchstens neun Stimmen auf einem Stimmzettel verfahren wurde. Gewählt
+    wurden die Beigeladenen. Die Neuwahl von nur neun Vorstandsmitgliedern
+    geht auf ein von der Antragsgegnerin seit 1953 praktiziertes Verfahren zurück,
+    wonach nicht alle zwei Jahre zwölf bzw. elf Mitglieder ihres Vorstands neu gewählt werden, sondern jeweils im ersten Jahr zwei, in zweiten Jahr neun, im
+    dritten Jahr sechs und im vierten Jahr sechs Mitglieder. Dieses Verfahren steht
+    nach Ansicht der Antragsteller im Widerspruch zu § 68 Abs. 2 BRAO. Die Antragsgegnerin hält ihr Verfahren für zulässig und meint, sie habe jedenfalls keine Möglichkeit, auf einen zweijährigen Turnus umzustellen.
+
+2         Mit den angegriffenen Beschlüssen hat der Anwaltsgerichtshof, soweit
+    hier von Interesse, die Vorstandswahl 2007 der Antragsgegnerin für ungültig
+    erklärt (BRAK-Mitt. 2009, 185). Dagegen wenden sich die Antragsgegnerin und
+    der Beigeladene zu 8 mit ihren von dem Anwaltsgerichtshof zugelassenen sofortigen Beschwerden.
+
+
+
+
+                                           II.
+
+3         Die gemäß § 215 Abs. 3 BRAO i.V.m. §§ 91 Abs. 6, 42 Abs. 4 BRAO
+    a.F. (vgl. Feuerich/Weyland, BRAO, 7. Aufl., § 91 Rdn. 11 a.E.) und entsprechend § 66 VwGO zulässigen Rechtsmittel der Antragsgegnerin und des Beigeladenen können keinen Erfolg haben, soweit sie geltend machen, das praktizierte Wahlverfahren stehe mit § 68 Abs. 2 BRAO in Einklang. Der Antragsgeg-
+
+                                         -4-
+
+
+
+    nerin ist aber im Interesse eines geringstmöglichen Eingriffs in das Wahlgeschehen Gelegenheit zu geben, die fehlerhaften jährlichen Teilneuwahlen ihres
+    Vorstands im Wege der Selbstkorrektur auf den gesetzlich vorgesehenen Turnus von zwei Jahren umzustellen.
+
+4         1. Das von der Antragsgegnerin praktizierte Wahlverfahren ist mit § 68
+    Abs. 2 Satz 1 BRAO nicht zu vereinbaren und unzulässig.
+
+5         a) Die Mitglieder des Vorstands einer Rechtsanwaltskammer werden
+    nach § 68 Abs. 1 Satz 1 BRAO auf vier Jahre gewählt. Nach § 68 Abs. 2 Satz 1
+    BRAO scheidet alle zwei Jahre die Hälfte der Mitglieder aus, bei ungerader
+    Zahl, wie im Fall der Antragsgegnerin, beim ersten Mal die größere Zahl. Diese
+    gesetzliche Vorgabe lässt das von der Antragsgegnerin praktizierte Verfahren
+    schon dem Wortlaut nach nicht zu. Nach diesem Verfahren sind zwar nach Ablauf von zwei Jahren im rechnerischen Ergebnis elf bzw. zwölf Mitglieder des
+    Vorstands neu gewählt worden. Einen solchen, wie es die Antragsgegnerin
+    nennt, behutsamen Wechsel sieht das Gesetz aber gerade nicht vor. Es lässt
+    mit der Formulierung "alle zwei Jahre" keinen gewissermaßen laufenden Austausch zu, sondern verlangt einen Zwei-Jahres-Turnus. Das wird schon bei einer reinen Wortlautauslegung im zweiten Halbsatz der Vorschrift deutlich, der
+    sich mit dem Fall einer ungeraden Zahl von Vorstandsmitgliedern befasst und
+    bestimmt, dass "beim ersten Mal" die größere Zahl neu zu wählen ist. Diese
+    Regelung setzt - entgegen der von der Antragsgegnerin und von Professor
+    Henssler in einem dem Senat vorgelegten Gutachten (ebenso unter Hinweis auf
+    dieses Verfahren jetzt auch Hartung in Henssler/Prütting, BRAO, 3. Aufl., § 68
+    Rdn. 13 ff.) vertretenen Auffassung - zwingend ein Ausscheiden der Hälfte der
+    Mitglieder in einem Zuge voraus (so [noch] Hartung in Henssler/Prütting, BRAO,
+    2. Aufl., § 68 Rdn. 4; Feuerich/Weyland, aaO, § 68 Rdn. 4; Lauda in Gaier/Wolf/Göcken, Anwaltliches Berufsrecht, § 68 BRAO Rdn. 5).
+
+                                          -5-
+
+
+
+6          b) Das Ergebnis der Wortlautauslegung wird durch eine an Entstehungsgeschichte (unten aa), Zweck (unten bb) und Systematik (unten cc) der Vorschrift ausgerichtete Auslegung bestätigt.
+
+7          aa) § 68 Abs. 2 Satz 1 BRAO geht auf § 44 Abs. 1 Satz 1 der Rechtsanwaltordnung vom 1. Juli 1878 (RGBl. S. 177) zurück (Begründung des Regierungsentwurfs einer BRAO in BT-Drucks. III/120 S. 85 zu § 81). Diese Vorschrift
+    lautete:
+
+           "Die Wahl des Vorstands erfolgt auf vier Jahre, jedoch mit der
+           Maßgabe, daß alle zwei Jahre die Hälfte der Mitglieder, bei ungerader Zahl zum ersten Male die größere Zahl ausscheidet."
+
+8          Eine in der Struktur ähnliche Regelung hatte schon § 13 Abs. 1 des ersten Entwurfs einer Deutschen Rechtsanwaltsordnung von 1872 (abgedruckt bei
+    Schubert, Entstehung und Quellen der Rechtsanwaltsordnung von 1878 [1985],
+    S. 77 ff.) vorgesehen. Nach ihr sollten allerdings jährlich wechselnd vier oder
+    fünf von neun Vorstandsmitgliedern ausscheiden. Der Vorschlag setzte sich
+    nicht durch. Der von dem Reichsjustizamt vorgelegte Entwurf einer Rechtsanwaltsordnung vom 24. Oktober 1877 (Drucksache des Bundesrats Nr. 100, abgedruckt bei Schubert, aaO, S. 161) sah in § 40 Abs. 1 eine feste Amtszeit der
+    Vorstandsmitglieder von zwei Jahren vor. In den Beratungen im Bundesrat haben sich die Länder mit der Reichsregierung - in Anlehnung an § 13 des Entwurfs von 1872 - auf eine Amtszeit von vier Jahren mit einem Ausscheiden der
+    Hälfte des Vorstands alle zwei Jahre verständigt. Ziel dieser Änderung war
+    nach einem Bericht des hanseatischen Gesandten Krüger vom 4./5. Dezember
+    1877 über die Beratungen im Bundesrat, "ein zu oftmaliges Wählen und das
+    damit verbundene Parteitreiben zu vermeiden" (abgedruckt bei Schubert, aaO,
+    S. 182). Der historische Gesetzgeber hat sich damit bewusst gegen ein jährliches Ausscheiden von Teilen des Vorstands und für einen zweijährigen Turnus
+
+                                          -6-
+
+
+
+    entschieden. Daran knüpft der Bundesgesetzgeber an. "Ein Wechsel nach einer
+    allzu kurzen Amtszeit", so heißt es in der Entwurfsbegründung der Bundesregierung (BT-Drucks. III/120 S. 85 zu § 81), "soll vermieden werden, weil darunter die Führung der Geschäfte leiden könnte. Ebenso könnte die Arbeit des
+    Vorstands erheblich gestört oder gar unterbrochen werden, wenn am Ende der
+    Wahlperiode alle Mitglieder des Vorstands gleichzeitig ausscheiden würden."
+    Der Bundesgesetzgeber versprach sich allerdings von einer Teilneuwahl des
+    Vorstands alle zwei Jahre neben der nicht zu häufig unterbrochenen Kontinuität
+    der Vorstandsarbeit auch eine bessere Legitimierung der Vorstandsmitglieder.
+    Das ändert aber an seiner Entscheidung für einen Turnus von zwei Jahren
+    nichts.
+
+9             bb) Gegen die Auffassung der Antragsgegnerin spricht auch der Zweck
+    der Vorschrift. Sie soll mehreren, in gewissem Umfang auch divergierenden
+    Zielen gerecht werden. Einerseits soll die Vorstandsarbeit nicht durch allzu häufige Neuwahlen gestört werden. Andererseits soll die Amtszeit des gesamten
+    Vorstands nicht vier Jahre betragen, um dem Anliegen einer besseren Legitimierung durch die Mitglieder der Kammer Rechnung zu tragen. Auch soll ein
+    abrupter Wechsel nach Ablauf der Amtszeit vermieden werden. Diese Ziele lassen sich nach der Einschätzung des Bundesgesetzgebers sämtlich durch die
+    Neuwahl der Hälfte des Vorstands, bei ungerader Zahl von Vorstandsmitgliedern zuerst der größeren und dann der kleineren Zahl, in einem zweijährigen
+    Turnus verwirklichen. Dieses Ergebnis würde zu einem entscheidenden Teil
+    verfehlt, wenn entgegen der Entscheidung des Gesetzgebers jedes Jahr unterschiedlich große Teile des Vorstands neu gewählt werden. Es mag dahingestellt
+    bleiben, ob die demokratische Legitimierung dadurch intensiver würde. Verfehlt
+    würde jedenfalls das dem Gesetzgeber ebenso wichtige, für die Bemessung der
+    Amtszeit und die Festlegung auf einen Zwei-Jahres-Turnus zudem ausschlaggebende Ziel, eine Störung der Vorstandsarbeit durch allzu häufige Neuwahlen
+
+                                          -7-
+
+
+
+     des Vorstands zu vermeiden. Der Vorstand soll nach der Entscheidung des Gesetzgebers eben nicht jedes Jahr in kleinen Teilen, sondern nur alle zwei Jahre,
+     dann aber je zur Hälfte neu gewählt werden. Diese Entscheidung ist entgegen
+     dem Gutachten Henssler eindeutig.
+
+10         cc) Sie hat ihren Ausdruck auch nicht nur in der Beschreibung des Turnus in § 68 Abs. 2 Satz 1 BRAO ("alle zwei Jahre"), sondern auch in den mit ihr
+     in systematischem Zusammenhang stehenden Regelungen in § 68 Abs. 2
+     Satz 2 BRAO einerseits und § 69 Abs. 3 Satz 1 BRAO andererseits gefunden.
+     Nach der ersten Norm werden die zum ersten Male ausscheidenden Mitglieder
+     des Vorstands durch das Los bestimmt. Mit diesem Losverfahren werden bei
+     der Erstbestellung des Vorstands diejenigen Mitglieder ermittelt, deren Amtszeit
+     nicht vier, sondern nur zwei Jahre betragen soll, um in den in Satz 1 der Vorschrift festgelegten Zwei-Jahres-Turnus zu gelangen. Nach der zweiten Norm
+     wird bei vorzeitigem Ausscheiden eines Vorstandsmitglieds zwar ein Ersatzmitglied gewählt, aber nur für den Rest seiner Amtszeit, um den Zwei-Jahres-Turnus nicht zu verlassen.
+
+11         c) Für dieses Verständnis des § 68 Abs. 2 BRAO spricht schließlich
+     auch, dass eine entsprechende Auslegung des § 21b Abs. 4 GVG, der für die
+     Mitglieder des Gerichtspräsidiums eine nahezu wortgleiche Regelung trifft, allgemeiner Meinung entspricht. Nach § 21b Abs. 4 Satz 1 GVG werden die Mitglieder des Präsidiums auf vier Jahre gewählt. Nach § 21b Abs. 4 Satz 2 GVG
+     scheidet alle zwei Jahre die Hälfte davon aus. Wie in § 68 Abs. 2 Satz 2 BRAO
+     vorgesehen, werden die zum ersten Mal ausscheidenden Mitglieder durch das
+     Los bestimmt, § 21b Abs. 4 Satz 3 GVG. Mit der Regelung verfolgt der Gesetzgeber das gleiche Ziel wie mit § 68 Abs. 2 BRAO. Es soll einerseits die Kontinuität der Arbeit des Präsidiums, anderseits aber auch eine hinreichende demokratische Legitimierung seiner Mitglieder sichergestellt werden (Kis-
+
+                                          -8-
+
+
+
+     sel/Mayer, GVG, 5. Aufl., § 21b Rdn. 13). Niemand hat bisher in Zweifel gezogen, dass die Regelung einen Zwei-Jahres-Turnus vorgibt und deshalb (nur)
+     alle zwei Jahre Wahlen zum Präsidium stattzufinden haben (BGHZ 112, 330,
+     336; OLG Frankfurt am Main DRiZ 2008, 184, 185; Kissel/Mayer, aaO). Ein
+     Grund, das bei § 68 Abs. 2 BRAO anders zu sehen, ist nicht ersichtlich.
+
+12         d) Die Handhabung der Antragsgegnerin lässt sich nicht mit der in der
+     Ursprungsfassung der Bundesrechtsanwaltsordnung (vom 1. August 1959,
+     BGBl. I S. 565) in § 214 BRAO a.F. vorgesehenen Übergangsvorschrift für die
+     bei Inkrafttreten der Bundesrechtsanwaltsordnung am 1. Oktober 1959 (§ 237
+     Abs. 1 BRAO in der Fassung von 1959) amtierenden Vorstandsmitglieder rechtfertigen (anders aber jetzt Hartung in Henssler/Prütting, BRAO, 3. Aufl., § 68
+     Rdn. 14 ohne nähere Begründung). Danach blieben die seinerzeit amtierenden
+     Vorstandsmitglieder bis zum Ende ihrer Amtszeit im Amt. An der Geltung des
+     Zwei-Jahres-Turnus änderte diese Regelung nichts. Sie hinderte die Rechtsanwaltskammern auch nicht daran, diesen Turnus so einzuhalten, wie es das Gesetz verlangt. Die Altvorstände blieben zwar ohne Neuwahl Mitglieder des
+     Kammervorstands. Für sie war aber ebenso wie für die neu gewählten Mitglieder des Kammervorstands nach § 68 Abs. 2 Satz 2 BRAO durch Los zu
+     bestimmen, wer nach zwei Jahren auszuscheiden hatte. War die Amtszeit eines
+     Altvorstands kürzer als die so bestimmte Amtszeit, musste für ihn ein Ersatzmitglied gewählt werden, das aber gemäß § 69 Abs. 3 Satz 1 BRAO nach dem
+     Rest der Amtszeit des Altvorstands ausschied.
+
+13         e) Das von der Antragsgegnerin praktizierte Verständnis von § 68 Abs. 2
+     BRAO lässt sich auch nicht, wie das von der Antragsgegnerin vorgelegte
+     Rechtsgutachten Henssler meint, mit regionalem Gewohnheitsrecht begründen.
+     Es kann offen bleiben, ob sich das fehlerhafte Verständnis einer Norm zu Gewohnheitsrecht verfestigen kann (vgl. BVerfG NJW 2009, 1469, 1473; BGHZ
+
+                                            -9-
+
+
+
+     37, 219, 222) und ob die dafür jedenfalls erforderliche Überzeugung der beteiligten Kreise, dass die langjährig praktizierte Anwendung der Norm dem Willen
+     des Gesetzgebers entspricht, hier erfüllt ist. Eine Norm des Bundesrechts wie
+     § 68 Abs. 2 BRAO kann nämlich durch regionales Gewohnheitsrecht nur verdrängt oder ergänzt werden, wenn der Landesgesetzgeber zu Abweichungen
+     oder Ergänzungen von Bundesrecht befugt wäre. Das ist er nur auf den hier
+     nicht einschlägigen Gesetzgebungsfeldern des Art. 72 Abs. 3 Satz 1 GG oder
+     bei einem entsprechenden Vorbehalt im Bundesrecht, an dem es hier ebenfalls
+     fehlt. Etwa in Hamburg entstandenes regionales Gewohnheitsrecht wäre deshalb nach Art. 31 GG nichtig.
+
+14          2. Der Verstoß gegen § 68 Abs. 2 Satz 1 BRAO dürfte nach dem bisherigen Sachstand dazu führen, dass die Wahl zum Vorstand der Antragsgegnerin
+     vom 22. Mai 2007 für ungültig zu erklären ist.
+
+15          a) Gemäß § 90 Abs. 1 BRAO a.F. (und § 112f Abs. 1 BRAO) kann die
+     Wahl von Organen der Rechtsanwaltskammer für ungültig erklärt werden, wenn
+     sie unter Verletzung des Gesetzes (oder der Satzung) zustande gekommen ist.
+     Die Missachtung der Vorschriften über den richtigen Turnus der Vorstandswahlen nach § 68 Abs. 2 BRAO ist eine solche Gesetzesverletzung im Sinne von
+     § 90 Abs. 1 BRAO a.F., § 112f Abs. 1 BRAO (Deckenbrock in Henssler/
+     Prütting, 3. Aufl., § 112f Rdn. 26).
+
+16          b) Rechtsfolge dieser Gesetzesverletzung ist nach dem in den Gesetzesmaterialen (vgl. BT-Drucks. III/120 S. 92 zu § 103) nicht näher erläuterten
+     Wortlaut des § 90 Abs. 1 BRAO a.F. (und § 112f Abs. 1 BRAO), dass die angefochtene Wahl nicht etwa für ungültig erklärt werden "muss", sondern für ungültig erklärt werden "kann".
+
+                                         - 10 -
+
+
+
+17         aa) Mit dieser Regelung wird die Erklärung einer Wahl für ungültig nicht
+     in das Belieben des Gerichts gestellt. Ein solches Verständnis wäre mit dem
+     Zweck der Wahlanfechtung, die Einhaltung der gesetzlichen und satzungsmäßigen Vorgaben für die Wahl, aber auch die diesen Vorgaben entsprechende
+     Teilhabe der Kammermitglieder an dem Wahlvorgang sicherzustellen, unvereinbar. Vielmehr kann eine Wahl, die gegen Gesetz oder Satzung verstößt,
+     vorbehaltlich der zu 3. anzustellenden Prüfung in Anlehnung an die Rechtslage
+     bei der Anfechtung von Beschlüssen der Rechtsanwaltskammer (Senat, Beschl.
+     v. 18. April 2005, AnwZ (B) 27/04, NJW 2005, 1710; ebenso für das Vereinsrecht: BGHZ 49, 209, 211; 59, 369, 375 f.) und an das Wahlprüfungsrecht
+     (BVerfGE 4, 370, 373; 89, 243, 254; 89, 266, 273; 89, 291, 304; 103, 111, 134;
+     121, 266, 310; Dreier/Morlok, GG, 2. Aufl., Art. 41 Rdn. 19; Umbach/Clemens/Roth, GG, Art. 41 Rdn. 25; weitergehend: VGH München NVwZ-RR 1996, 680, 681: auch theoretische Möglichkeit) und an gesetzliche Einschränkungen in § 90 Abs. 1 BRAO a.F. funktionell entsprechende Vorschriften
+     wie § 101 Abs. 3 Satz 2 Nr. 2 HandwO oder § 25 BPersVG nur bei solchen
+     Fehlern Bestand haben, die sich auf das Wahlergebnis weder tatsächlich ausgewirkt haben noch konkret und nicht nur theoretisch haben auswirken können
+     (Deckenbrock in Henssler/Prütting, BRAO, 3. Aufl., § 112f Rdn. 31; Schmidt-Räntsch in Gaier/Wolf/Göcken, aaO, § 112f BRAO Rdn. 10).
+
+18         bb) Der Verstoß gegen § 68 Abs. 2 BRAO hat sich tatsächlich auf das
+     Ergebnis der Vorstandswahlen der Antragsgegnerin ausgewirkt.
+
+19         (1) Dies ergibt sich schon daraus, dass die im Mai 2007 vorgenommene
+     Teilneuwahl des Vorstands der Antragsgegnerin nicht im gesetzlich vorgegebenen Umfang erfolgte, weil entgegen § 68 Abs. 2 BRAO weniger als die Hälfte
+     der Mitglieder des Vorstands neu gewählt wurde. Die Antragsgegnerin war seit
+     dem Inkrafttreten der Bundesrechtsanwaltsordnung am 1. August 1959 und
+
+                                         - 11 -
+
+
+
+     damit auch bei den Vorstandswahlen 2007 verpflichtet, ihren Turnus der Vorstandswahlen in ein gesetzmäßiges Verfahren überzuleiten. Eine gesetzeskonforme Wahl hätte deshalb bereits nach der Anzahl der gewählten Vorstandsmitglieder ein anderes Ergebnis zeitigen müssen.
+
+20         (2) Auch in der Sache hat sich die Zahl der neu zu wählenden Vorstandsmitglieder auf die Wahlentscheidung auswirken können. Denn die Kammermitglieder entscheiden mit ihrer Wahl nicht nur darüber, welche einzelnen
+     Mitglieder in den Vorstand gewählt werden. Vielmehr sollen sie durch die Neuwahl jeweils der Hälfte des Kammervorstands auch auf die Besetzung des Gesamtvorstands Einfluss nehmen können (Entwurfsbegründung in BT-Drucks.
+     III/120 S. 85 zu § 81). Die aus der Wahl resultierende Gesamtbesetzung des
+     Kammervorstands ist aus der Sicht der wahlberechtigten Kammermitglieder
+     eine wesentliche Grundlage ihrer jeweiligen Wahlentscheidung. Es ist deshalb
+     nicht ohne weiteres davon auszugehen, dass dieselben Kandidaten auch dann
+     gewählt worden wären, wenn eine Neuwahl nicht nur für neun, sondern, wie
+     geboten, für zwölf Vorstandsmitglieder angesetzt worden wäre.
+
+21         3. Trotz eines ergebnisrelevanten Fehlers könnte das Gericht im Rahmen seines begrenzten Ermessens indessen davon absehen, die angefochtene
+     Wahl nach § 90 Abs. 1 BRAO a.F. (oder nach § 112f Abs. 1 BRAO) für ungültig
+     zu erklären, wenn dies ausnahmsweise auf Grund des wahlprüfungsrechtlichen
+     Grundsatzes des geringstmöglichen Eingriffs geboten erschiene.
+
+22         a) Die Ungültigerklärung einer gesamten Wahl setzt regelmäßig einen
+     erheblichen Wahlfehler von solchem Gewicht voraus, dass ein Fortbestand der
+     in dieser Weise gewählten Vertretung unerträglich erschiene (BVerfGE 103,
+     111, 134; 121, 266, 311 f.). Zudem könnte das Gericht in Anlehnung an die
+     Rechtsprechung des Bundesverfassungsgerichts zur Wahlprüfung nach Art. 41
+
+                                          - 12 -
+
+
+
+     GG auch dann davon absehen, eine Wahl für ungültig zu erklären, wenn das
+     Interesse am Bestandsschutz des im Vertrauen auf die Gesetzmäßigkeit der
+     Wahl   gewählten   Vorstands   den     festzustellenden   Wahlfehler   überwiegt
+     (BVerfGE 103, 111, 135; 121, 266, 312 f.; ablehnend etwa Umbach/
+     Clemens/Roth, aaO, Art. 41 Rdn. 27).
+
+23          b) In welche Richtung der Senat sein begrenztes Ermessen auszuüben
+     hat, dürfte maßgeblich davon abhängen, ob es der Antragsgegnerin gelingt,
+     den Turnus ihrer Vorstandswahlen auch ohne gerichtliches Eingreifen an die
+     gesetzlichen Vorgaben des § 68 Abs. 2 BRAO anzupassen.
+
+24          aa) Im Rahmen seiner Abwägung wird der Senat einerseits zu berücksichtigen haben, dass allein durch die Ungültigerklärung einzelner Teilwahlen
+     ein gesetzmäßiger Zustand nicht erreicht werden könnte. Andererseits beruht
+     die Vorstandswahl 2007 nicht auf einem singulären Fehler. Eine Fortsetzung
+     des seit 1953 praktizierten und auch nach dem Inkrafttreten der Bundesrechtsanwaltsordnung am 1. Oktober 1959 nicht an deren Vorgaben angepassten
+     Wahlturnus erschiene nicht hinnehmbar.
+
+25          bb) Eine Änderung des fehlerhaften jährlichen Turnus ist auch rechtlich
+     möglich und erfordert entgegen der Ansicht der Antragsgegnerin keine Gesetzesänderung. Freilich ist es nicht Sache des Senats, der Antragsgegnerin einen
+     konkreten von mehreren möglichen Wegen für die Umstellung auf den gesetzmäßigen Zwei-Jahres-Rhythmus vorzuschreiben. Falls hierfür - etwa im Rahmen einer einmaligen Neukonstituierung des Kammervorstands oder aber einer
+     schrittweisen Zusammenführung der bisher jährlichen Teilneuwahlen - der gesamte Vorstand oder einzelne seiner Mitglieder vorzeitig vom Amt zurücktreten
+     sollten, fände § 69 Abs. 3 Satz 1 BRAO auf einen solchen Fall keine Anwendung. Diese Vorschrift gilt nach ihrem Zweck, die Einhaltung des Zwei-Jahres-
+
+                                          - 13 -
+
+
+
+     Turnus zu gewährleisten (vgl. oben II. 1. b) cc)), nicht für Rücktritte, die den
+     Übergang zu einem überhaupt erstmals gesetzeskonform gewählten Vorstand
+     ermöglichen sollen und eine solche besondere Zweckbindung, etwa durch einen entsprechenden Hinweis in der Rücktrittserklärung oder eine Bezugnahme
+     auf einen entsprechenden Beschluss der Kammerversammlung, nach außen
+     hin erkennen lassen.
+
+26         cc) Sollte die Antragsgegnerin bis zur Fortsetzung der mündlichen Verhandlung verbindlich geklärt haben, wie der Übergang zum Zwei-Jahres-Turnus
+     gestaltet wird, wäre das sachliche Ziel der Wahlanfechtung, den bisherigen gesetzeswidrigen Turnus aufzugeben, erreicht. Eine Erklärung der Vorstandswahl
+     2007 für ungültig würde dann den selbstverantwortlich gefundenen Übergang
+     zum gesetzlichen Neuwahlturnus nur erschweren. Sie entspräche deshalb nicht
+     mehr dem Prinzip des geringstmöglichen Eingriffs. Von ihr wäre abzusehen.
+
+27         dd) Anders läge es dagegen, wenn es der Antragsgegnerin bis zur Fortsetzung der mündlichen Verhandlung nicht gelingt, zu dem Zwei-Jahres-Turnus
+     überzugehen oder das Verfahren für diesen Übergang festzulegen. Das könnte
+     befürchten lassen, dass die Rückkehr zu dem vorgeschriebenen Turnus letztlich scheitert und der fehlerhafte Turnus auf Dauer fortgeführt wird. In einem
+     Wahlanfechtungsverfahren, mit dem gerade dieser grundlegende Fehler abgestellt werden soll, könnte es dann auch unter Berücksichtigung der schützens-
+
+                                   - 14 -
+
+
+
+werten Interessen der Beigeladenen nicht nur möglich, sondern im Gegenteil
+geboten sein, die Vorstandswahl 2007 der Antragsgegnerin für ungültig zu erklären.
+
+
+
+
+Tolksdorf                    Schmidt-Räntsch                       Lohmann
+
+
+                 Wüllrich                         Braeuer
+
+
+
+
+Vorinstanzen:
+AGH Hamburg, Entscheidung vom 24.06.2009 - II ZU 8/07 -
+              Entscheidung vom 03.08.2009 - II ZU 6/07 -
