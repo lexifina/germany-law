@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1841831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1841831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Budgetmittel der Bezirksausschüsse, Ablehnung einer beantragten Zuwendung, Antragsteller: IG Weihnachtsbaum
+- TOP 1.2.: Trambahn im Westen
+- TOP 1.3.: Teerdecke Gräfelfinger Straße
+- TOP 1.4.: Situation in der Großhaderner Straße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Soziales
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Ausschreibung Weltkindertag 2010 (Sozialreferat, 21.12.09)
+- TOP 6.2.: Veranstaltung in einer städtischen Grünanlage, hier: Flohmarkt des Kindergartens Ludwig-Wörl-Weg 44 auf dem Max-Lebsche-Platz am 16.04.10 (Kreisverwaltungsreferat, 08.01.10)
+- TOP 6.3.: Überprüfung Lichtzeichenanlagen im Stadtbezirk 20 (Kreisverwaltungsreferat, 18.01.10)
+- TOP 6.4.: Regionalgespräche mit der Lokalbaukommission (Referat für Stadtplanung und Bauordnung, 19.01.10)
+- TOP 6.5.: Erinnerungsverfahren: Waldesruhe 20, 22 / Ecke Dr.-Ruder-Weg 11 (Baureferat, 18.01.10)
+- TOP 6.6.: Erinnerungsverfahren: Wastl-Witt-Straße zwischen Terofal- und Blumenauer Straße (Baureferat, 18.01.10)
+- TOP 6.7.: Veranstaltung in einer städtischen Grünanlage, hier: Haderner Dorffest 2010 vom 07.05 - 16.05.2010 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 22.01.10)
+- TOP 6.8.: Erinnerungsverfahren: Haderunstraße 20 - 22 (Baureferat, 25.01.10)
+- TOP 6.9.: Erinnerungsverfahren: Marchioninistraße 4 (Baureferat, 25.01.10)
+- TOP 6.10.: Mobilfunk; Suchkreismeldung: vorgesehene UMTS-Erweiterung am bestehenden GSM-Standort Gräfelfinger Str. 146 (Referat für Gesundheit und Umwelt, 04.02.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Würmtalstr. 184, 1 Birke
+- TOP 7.2.: Am Sommerfeld 20, gem. Baumbestandsplan Nr. 32260
+- TOP 7.3.: Ginsterweg 12, gem. Baumbestandsplan Nr. 24524
+- TOP 7.4.: Heiglhofstr. 13, 1 Esche, 1 Fichte und 3 Kastanien
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Kurparkstraße (Sozialreferat, 30.12.09) - Luzernenweg (Sozialreferat, 25.01.10)
+- TOP 8.2.: Jahresübersicht 2009 der Stadtteilkultur in allen 25 Stadtbezirken (Kulturreferat, 15.12.09)
+- TOP 8.3.: Unveränderte Fortführung von Gaststättenbetrieben: - "Lal Qila", Würmtalstraße 47 (Kreisverwaltungsreferat, 22.12.09)
+- TOP 8.4.: Erteilung von Sondernutzungserlaubnissen für Warenauslagen, Beschluss vom 25.11.09 (Kreisverwaltungsreferat, 03.12.09)
+- TOP 8.5.: Baumaßnahmen der Stadtwerke München, hier: Würmtalstraße 117 (SWM, 21.12.09)
+- TOP 8.6.: Umlaufsperren in Grünanlagen (Baureferat, 23.12.09)
+- TOP 8.7.: Vollzug der Wassergesetze, Bachräumungstermine 2010 für die Stadt- bzw. Stadtrandbäche (Baureferat, 14.01.10)
+- TOP 8.8.: Budget der Bezirksausschüsse, Erfahrungsbericht 2009 (Direktorium, 13.01.10)
+- TOP 8.9.: Vollzug der Grünanlagensatzung vom 12.08.1991, Baustelleneinrichtung auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 21.01.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Beschilderung für das Kinderhaus Wolkerweg und den Jugendtreff PfiffTEEN (Baureferat, 15.12.09)
+- TOP 9.2.: Parkbuchten an der Sauerbruchstr. 52 - 62 (Baureferat, 22.12.09)
+- TOP 9.3.: Gemeinde Planegg - Bebauungsplan Nr. 59-2, Sondergebiet Wissenschaft der Universität in Martinsried - Neubau des Biomedizinischen Centrums, Planung der U-Bahn-Haltestelle Martinsried (Referat für Stadtplanung und Bauordnung, 13.01.10)
+- TOP 9.4.: Überdachung der Sitzgelegenheiten an der Haltestelle Waldfriedhofstraße stadtauswärts (SWM, 19.01.10)
+- TOP 9.5.: Mediation in der Blumenau (Sozialreferat, 25.01.10)
+- TOP 9.6.: Bäume am Rodelhang neben dem Spielplatz zwischen Gelbhofstraße / Am Hedernfeld und der Fußgängerbrücke in die Blumenau (Baureferat, 26.01.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Erreichbarkeit des Vereins und der Abteilung Großhadern (Freunde der Freiwilligen Feuerwehr Großhadern von 1892 e.V., 12.01.10)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Ameisenplage auf Spielplätzen und Bürgersteigen, Antr. BA 10 vom 14.12.09
+- TOP 11.2.: Aktionsforum für Familien, Aktionstag für Familien am 30.04.2010 (Sozialreferat, 27.01.10)
+- TOP 11.3.: Tram Westtangente - Präsentation vom 27.01.10 (SWM, 28.01.10)
+- TOP 11.4.: Einladung zum kostenfreien Fachforum "EnEV 2009 gegen 2007" am Dienstag, den 09.02.2010 (Referat für Gesundheit und Umwelt, 22.01.10)
+- TOP 11.5.: Einladung zur Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am Donnerstag, den 04.03.2010 von 18.00 - 20.00 Uhr (Sozialreferat, 19.01.10)
+- TOP 11.6.: Einladung zum Fachgespräch "Politische Arbeit mit Comics: Comics von Rechts - Comics gegen Rechts" am Donnerstag, den 11.03.2010 von 15.30 - 17.30 Uhr (Fachinformationsstelle Rechtsextremismus München: Feierwerk, 01.02.10)
+- TOP 11.7.: Einladung zum Einführungsabend zum Einsatz des Kinder-Aktions-Koffers im Stadtteil Blumenau am Dienstag, den 09.03.2010 um 18.00 Uhr im Nachbarschaftstreff Blumenau, Rolf-Pinegger-Str. 5 (Münchner Kinder- und Jugendforum, 03.02.10)
+- TOP 11.8.: Podiumsdiskussion "Solarenergie in München - Sackgasse oder Chance?" am Donnerstag, den 25.02.2010 von 15.00 - 18.00 Uhr im Münchner Stadtmuseum, St.-Jakobs-Platz 1 (Referat für Gesundheit und Umwelt, 01.02.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03345: Handlungsprogramm Mittlerer Ring, Wohnen am Ring - Fortführung des Förderprogramms (Kosten: 1 Mio. Euro jährlich bis 2016)
+- TOP 12.2.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03346: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Zustimmung zur Durchführung 2010
+- TOP 12.3.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03344: Sonderflughafen Oberpfaffenhofen, Aktueller Sachstand (Prüfung der Erfolgsaussichten eines Antrages der Stadt auf Zulassung der Berufung gegen das Urteil des Verwaltungsgerichts München vom 23.10.2009)
+- TOP 12.4.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02841: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau (Ansatz 207.101,- Euro, Abschnitt 5.1.2, laufende Nr. 44) und - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 des Caritas-Verbandes (CV) (Ansatz 50.267,- Euro, laufende Nr. 67) als "strukturelle Hilfen zur Unterstützung der Alltagskompetenz" (Abschnitt 5.1.2 der "Zusammenfassung nach Projekten")
+- TOP 12.5.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02831: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum neuen Projekt (seit 01.08.2009) des "Vereins für Sozialarbeit Blumenau" des Deutschen Paritätischen Wohlfahrtsverbandes (DPWV) (Ansatz 55.000,- Euro, laufende Nr. 9) und - zur "Nachbarschaft Kleinhadern, Na klar!" (Ansatz 13.600,- Euro, laufende Nr. 40) als "Quartierbezogene Bewohnerarbeit" (Abschnitt 4.1.7 der Gesamtübersicht) sowie - zum Projekt "Krokusstraße 73" der Firma "KOMPRO München Krokusstraße GmbH & Co. KG" (Ansatz 3.000,- Euro, Vertragslaufzeit 5 Jahre, laufende Nr. 22, Abschnitt 4.1.8 = Wohnungsversorgung KOMPRO B und C der Gesamtübersicht)
+- TOP 12.6.: Beschluss vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 02839: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere zu den Projekten - "Kinderhaus Wolkerweg" (Ansatz 198.148,- Euro, laufende Nr. 56) und - "PfiffTEEN Treffpunkt für Jugendliche" des Bayerischen Jugendrings (BJR) (Ansatz 307.167,- Euro, laufende Nr. 57) sowie - "Treff 21 Schule-Beruf e.V." des DPWV (Ansatz 341.335,- Euro, laufende Nr. 66 im Rahmen der Kinder- und Jugendarbeit = 3.1.1) und - zur "Nachbarschaft Neuhadern Bewohnertreff" des DPWV (Ansatz 98.518,- Euro, laufende Nr. 2 des Abschnitts 3.2.2 / 1 = "Angebote der Begegnung und Nachbarschaftshilfe")
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 08.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03366 gemäß Änderungsantrag der CSU-Fraktion vom 08.12.2009: Keine rechtsfreien Räume - neue Straßen so früh wie möglich wegerechtlich widmen (Das Baureferat bleibt beauftragt, die straßenrechtliche Widmung so früh wie möglich durchzuführen.)
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 12.01.2010 und des Schul- und Sportausschusses vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03237: Grundschule Canisiusplatz 2 im 20. Stadtbezirk Hadern (Projektkosten: 21.220.000,- Euro)
+- TOP 12.2.: Beschluss des Bauausschusses vom 19.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 02502: Lichtkonzept für den öffentlichen Raum in München (abgelehnt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03424: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung (vertagt)
+- TOP 12.1.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft vom 20.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03526: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz), Grundsatzbeschluss, insbesondere - zum Rückbau der Altanlage zum Lorettoplatz (S. 8) und - zum Abschnitt Fürstenrieder Straße / Waldfriedhofstraße (S. 17 und 25) mit Wendeschleife am Haupteingang des Waldfriedhofs
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03499: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010, insbesondere im Stadtbezirk 20 (Genehmigte Kindergartenplätze 1.427, davon belegt 1.394)
+- TOP 12.2.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03370: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010, Stand: 20.10.2009
+- TOP 12.3.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03393: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2009/2010
+- TOP 12.4.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03371: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010, insbesondere - am Erasmus-Grasser-Gymnasium mit 1.269 Schülern und - am Ludwigsgymnasium mit 870 Schülern
+- TOP 12.5.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03432: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010, insbesondere - Grundschule (GS) Am Hedernfeld, - GS an der Blumenauer Straße, - GS am Canisiusplatz, - GS an der Großhaderner Straße, - GS an der Guardinistraße, - GS an der Senftenauerstraße, - Hauptschule (HS) an der Blumenauer Straße, - HS an der Guardinistraße, - Tagesheim Am Hedernfeld und - Tagesheim an der Großhaderner Straße
+- TOP 12.6.: Bekanntgabe in der Sitzung der Vollversammlung vom 16.12.2009 zur Sitzungsvorlage-Nr. 08-14 / V 03421: Gesamtkonzept Bahnknoten München: 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens München
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
