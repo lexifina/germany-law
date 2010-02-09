@@ -1,0 +1,105 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2010-02-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1865751
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1865751
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 1.1.: Benennung einer/s Jugendbeauftragten
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Fan-Club Deisenhofener Str. 18; Bürgerschreiben vom 17.01.2010
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Ameisenplage auf Spielplätzen und Bürgersteigen; Antrag des BA 10 - Moosach aus der Sitzung vom 14.12.2009 mit der Bitte um Unterstützung
+- TOP 3.2.: Parken nur für PKW in der Aignerstr. 27 ? 43 und in der Unteren Grasstr. 18 ? 32 sowie am Scharfreiterplatz; Antrag der Fraktion der Grünen im BA 17 vom 25.01.2010
+- TOP 3.3.: Tempo 30 Marklandstraße; Überwachung der Geschwindigkeitsbegrenzung auf 30 km/h mittels Radardisplays, Antrag der Fraktion der Grünen im BA 17 vom 25.01.2010
+- TOP 3.4.: Münchner GBW-Wohnungen; Sicherung als bezahlbarer Wohnraum auch nach einem Verkauf; Gemeinsamer Antrag der SPD-Fraktion und der Fraktion der Grünen im BA 17 vom 27.01.2010
+- TOP 3.5.: Antrag zur Buslinie 145 ? Wendung über den Kreisel Fasangartenstraße; Antrag des UA Verkehr vom 04.02.2010
+- TOP 3.6.: Antrag zur Buslinie 147 (bzw. 220) ? Neue Bedarfshaltestelle zwischen Lincoln? und Minnewitstraße; Antrag des UA Verkehr vom 04.02.2010
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.1.1 Chiemgaustraße 34b; Neubau eines Mehrfamilienhauses (vertagt aus der Sitzung vom 12.01.2010) 5.1.3.1.2 Schwanseestraße 3; Nutzungsänderung eines Büros in eine Eisdiele (Erweiterung) (vertagt aus der Sitzung vom 12.01.2010) 5.1.3.1.3 Freyunger Str. 4; Neubau eines Mehrfamilienhauses mit Garage (vertagt aus der Sitzung vom 12.01.2010) 5.1.3.1.4 Tegernseer Landstraße 143; Neubau eines Hotels (vertagt aus der Sitzung vom 12.01.2010) 5.1.3.1.5 Wirtstr.; Nutzungsänderung: Gemeinbedarf Verwaltung zu WA sowie Neubau eines Wohnhauses mit Läden im EG und Tiefgarage ? Vorbescheid
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.1.1 SSW "Kalimera", Werinherstraße 69; Mitteilung vom 29.12.09
+- TOP 0.2.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung; Sitzungsvorlage Nr. 08-14/V 03424; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010 (VB)
+- TOP 0.3.: Sondernutzung, Warenauslagen; Änderung des Vollzugs der Sondernutzungsverordnung; Zuleitung des Kreisverwaltungsreferat vom 03.12.2009
+- TOP 0.4.: Baufälle Stadtbezirk 17
+- TOP 0.5.: Städtisches Stadion an der Grünwalder Straße; Sitzungsvorlage Nr. 08-14 / V 03264; Beschluss der Vollversammlung des Stadtrates vom 16.12.2009
+- TOP 0.6.: Novelle der Bayerischen Bauordnung 2008 a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis b) weiteres Vorgehen c) Anträge - schriftliche Bestätigung von Beratungsgesprächen im Planungsreferat; Antrag Nr. 02-08/A01506 von Frau Stadträtin Mechthilde Wittmann vom 15.03.2004 - Handhabe der LBK bei Bauausführungen, Antrag Nr. 02-08/A02392 von Frau Stadträtin Gertraud Walter und Herrn Stadtrat Oliver Belik vom 29.03.2005
+- TOP 0.7.: Bebauungsplan mit Grünordnung Nr. 1995; Welfenstraße (südlich), Schwester-Eubulina-Platz, Tassiloplatz, Bahnlinie München - Rosenheim (nördlich) -Satzungsbeschluss- Stadtbezirk 5 Au-Haidhausen Sitzungsvorlagen Nr. 08-14/V03320 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.12.2009 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Konzept für die Entwicklung von der Haupt- zur Mittelschule, Initiative der Schulleitung der Hauptschule an der Cincinnatistraße
+- TOP 0.1.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14 / V 03432; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 0.2.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010; Sitzungsvorlage Nr. 08-14 / V 03499; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 0.3.: Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010; Stand 20.10.2009; Sitzungsvorlage Nr. 08-14 / V 03370; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2010
+- TOP 0.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendrealschule; Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14/V 03393; Bekanntgabe im Schul- und Sportausschuss des Stadtrates vom 13.01.2009
+- TOP 0.5.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010; Sitzungsvorlage Nr. 08-14/V 03371; Bekanntgabe im Schul- und Sportausschuss des Stadtrats vom 13.01.2010
+- TOP 0.6.: Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen 1. Allgemeines 2. Kurzdarstellung zum aktuellen Stand der Projekte an allen 37 Schulstandorten mit gebundenen Ganztagesklassen 3. Stellenzuschaltungen für den Ausbau der neu zu errichtenden Ganztageszüge in der gebundenen und offenen Form 4. Aktuell entscheidungsreife Projekte 5. Änderung des Mehrjahresinvestitionsprogramms 2009 - 2013 im UA 2110 bzw. 2130; Sitzungsvorlage-Nr.: 08-14 / V 03300; Beschluss des Schul- und Sportausschusses des Stadtrates vom 13.01.2010 (SB und VB)
+- TOP 0.7.: Überdachung und behindertengerechte Zugänglichkeit der Briefkästen und Briefmarkenautomaten am Postamt Tegernseer Platz BA-Antrag Nr.08-14 / B1420 vom April 2009; Antwortschreiben des Referates für Arbeit und Wirtschaft vom 14.01.2010
+- TOP 0.8.: Gemeinschaftswaschraum der Gewofag für Jugendliche in der Perlacher Straße BA-Antrag vom 13.10.2009; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 14.01.2010
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Amerstorfferstraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO (Halteverbot); Vertagt aus der Sitzung vom 09.02.2010)
+- TOP 0.1.: Lichtzeichenanlage Tegernseer Landstraße / Strab; probeweise Abschaltung; Schreiben des KVR vom 13.01.10 mit der Bitte um Rückäußerung
+- TOP 0.2.: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 17; Zuleitung des Kreisverwaltungsreferats vom 18.01.2010 mit der Bitte um Stellungnahme
+- TOP 0.3.: Amerstorfferstraße; Haltverbot; Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 18.01.2010
+- TOP 0.4.: Giesinger Bahnhof ? Wallbergstraße; Neubau der Wallbergstraße; Bebauungsplan mit Grünordnung Nr. 1983 Giesinger Bahnhof (südlich); Anhörung gem. § 9 BA-Satzung; Zuleitung des Baureferats vom 13.01.2010 (FF)
+- TOP 0.1.: Umlaufsperren in Grünanlagen; Schreiben des Baureferats-Gartenbau vom 23.12.2009
+- TOP 0.2.: Fahrradständer vor dem Postgebäude an der Tegernseer Landstraße; Anliegen des BA 17 aus der Sitzung vom 13.10.2009; Antwortschreiben des Baureferats vom 29.12.2009
+- TOP 0.3.: Überprüfung der Tempo-30-Zonen; Antrag des BA 17 vom 13.10.2009; Antwortschreiben des Kreisverwaltungsreferates vom 07.01.2010
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Schreiben des Baureferats-Gartenbau vom 01.12.2009
+- TOP 0.2.: Lichtkonzept für den öffentlichen Raum in München Antrag Nr. 02-08 / A 03751 der FDP vom 13.06.2007; Lichtkonzept I Beleuchtungskonzept für die Landeshauptstadt München mit dem Ziel, das Erscheinungsbild der Stadt zu verbessern und Energie einzusparen, Antrag Nr. 08-14 / A 00705 der Stadtratsfraktion der FDP vom 27.03.2009; Lichtkonzept II, Beleuchtung neuer Vorhaben und großer Neubaugebiete und Siedlungen in München, Antrag Nr. 08-14 / A 00706 der Stadtratsfraktion der FDP vom 27.03.2009; Lichtkonzept III Beleuchtung städtischer Plätze, Gebäude und Stadtlandschaften Antrag Nr. 08-14 / A 00707 der Stadtratsfraktion der FDP vom 27.03.2009; Sitzungsvorlage Nr. 08-14 7 V 02502; Beschluss des Bauausschusses vom 19.01.2010 (SB)
+- TOP 0.3.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt Antrag Nr. 509 der Stadtratsfraktion Bündnis 90 / Die Grünen / RL vom 24.06.1997 c) Flächenmonopol für ökologische Ausgleichsflächen; Pilotprojekt "Eschenrieder Moos mit 1 Münchner Ökokonto" Antrag Nr. 3465 von Herrn Stadtrat Helmut Pfundstein vom 28.12.2001 Sitzungsvorlage Nr. 08-14 / V 03620
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.7: Berichte der Beauftragten
+- TOP 7.7.7.1: Ausländer/Innen
+- TOP 7.7.7.2: Behinderte
+- TOP 7.7.7.3: Genderfragen
+- TOP 7.7.7.4: Kinder
+- TOP 7.7.7.5: Jugend
+- TOP 7.7.7.6: Senioren/Innen
+- TOP 7.7: Baumschutz
+- TOP 7.7.1: Einzelfälle
+- TOP 7.7.1.1.: 7.7.1.1.1 Anwesen Balanstr. 388; Anhörung vom 25.01.2010
+- TOP 7.7.2: Baumbestandspläne
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
