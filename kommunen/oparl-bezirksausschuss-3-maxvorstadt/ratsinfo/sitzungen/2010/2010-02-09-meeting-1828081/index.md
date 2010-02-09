@@ -1,0 +1,96 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-02-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828081
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828081
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Liste der Bauvorhaben 52. KW, 1. KW, 2. KW, 3. KW
+- TOP 2.1.2.: Bauvorhaben Türkenstraße 52 - 54 Beseitigung und Neuerrichtung eines Wohn- und Geschäftshauses sowie Neubau einer Tiefgarage - Vorbescheid - vertagt aus 0110/TOP B 2.1.5/0110)
+- TOP 2.1.3.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung Anpassungdes Anhörungsrechtes für Bezirksausschüsse an die in § 4 Bau GB n.F. nunmehr vorgesehe "doppelte Behördenbeteiligung" BA-Antrag Nr. 08-14 / B 01354
+- TOP 2.1.4.: Referat für Stadtplanung und Bauordnung: Anhörung zu stadtgestalterischen Maßnahmen - Kunstareal München: Anfrage der Stadtratsfraktion von Bündnis 90/Die Grünen/Rosa Liste vom 21.10.2009, Konzept für das Kunstareal, Antwortentwurf des Planungsreferates, Stellungnahme des BA 3
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Untere Naturschutzbehörde, Liste der Baumfällungen -3. KW
+- TOP 2.2.2.: Adelheidstraße 8, 1 Esche
+- TOP 2.2.3.: Görresstraße 7, 1 Birke
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat; Überprüfen der Lichtzeichenanlagen im Stadtbezirk 3 (s. dazu auch Lichtzeichenanlage Georgen-/Tengstraße)
+- TOP 2.1.2.: Lichtzeichenanlage Georgen-/Tengstraße, vertagt aus den Sitzungen 12/09 und 01/10 (s. TOP C 2.1.2/0110)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Beschlussvorlagen, Sondernutzungserlaubnisse - mobiler Fahrradständer, Schellingstraße 56 - mobiler Fahrradständer, Türkenstraße 16 (N) - mobiler Fahrradständer, Josephsplatz 4 - Obstverkaufsstand, Hackerbrücke Nordseite - Verkaufseinrichtung auf öffentlichem Grund, Amalienstraße 14 - 14 a (N) -erkaufseinrichtung auf öffentlichem Grund, Augustenstraße 37
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Beschlussvorlage: Bar "Palais - Club Privee", Arnulfstraße 16 - 18 I, Aufhebung der Sperrzeit
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Umzug des Narhalla Prinzenpaares am 16.02.2010
+- TOP 2.4.2.: Kreisverwaltungsreferat: Laufveranstaltung im Alten Botanischen Garten am 22.06.2010
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 2.5.1.: Projektvorstellung der Stadtwerke München im Unterausschuss: Glasfasernetzausbau 2010
+- TOP 1: Anträge (3)
+- TOP 1.1.: Maxvorstädter Jungbürgerfeier 2010 vertagt aus 0110/TOP D 1.1
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Stadt bezieht Stellung gegen die Initiave des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung; Antrag Nr. 08-14/A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009
+- TOP 1.2.: Umlaufsperren in Grünanlagen; Schreiben des Baureferates vom 23.12.2009 zum Grundsatzbeschluss zur Förderung des Radverkehrs in München vom 29.07.2009 (Nr. 08-14 / V 1793)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel/Klimaschutz der Perspektive München
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Antrag Nr. 08-14/A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 03.02.2010: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt Antrag Nr. 509 der Stadtratsfraktion BÜNDNIS 90/DIE GRÜNEN vom 24.06.1997 c) Flächenpool für ökologische Ausgleichsflächen; Pilotprojekt "Eschenrieder Moos mit 1. Münchner Ökokonto"
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 03.02.2010: Novelle der Bayerischen Bauordnung 2008 a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis b) Weiteres Vorgehen c) Anträge
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Container zur Entsorgung von Weihnachtsbäumen im Stadtbereich
+- TOP 2.2.: Container zur Entsorgung von Christbäumen vor der Grundschule an derTürkenstraße
+- TOP 2.3.: Schreiben des Referates für Gesundheit und Umwelt vom 22.12.2009: Beschwerde des Ehepaares Conradi über Lärmbelästigung durch Freischankflächen in der Türkenstraße
+- TOP 2.4.: Baureferat, Hochbau, Lichtkonzept für den öffentlichen Raum in München; Beschlussvorlage für den Bauausschuss am 19.01.2010
+- TOP 2.5.: Stillegung der Verkehrsampeln an der Kreuzung Karl-/Meiserstraße Schreiben des Kreisverwaltungsreferates vom 11.01.2010, Beginn der Probephase
+- TOP 2.6.: Kreisverwaltungsreferat: Cycling Days München und südliche Landkreise vom 21.05. bis 23.06.2010; Eilentscheidung des Vorsitzenden
+- TOP 2.7.: Harmonisierung der Ampelanlagen Ludwig- Ecke Adalbertstraße und Akademie- Ecke Schackstraße; Antwortschreiben des Kreisverwaltugnsreferates vom 13.01.2010
+- TOP 2.8.: Kreisverwaltungsreferat; Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kreittmayrstraße 31 a
+- TOP 2.10.: Kreisverwaltungsreferat, Veranstaltung auf öffentlichem Verkehrsgrund, verkehrsrechtliche Erlaubnis für den Faschingszug "Die Turmfalken e.V." (Die Damischen Ritter)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2009/2010, Stand 20.10.2009; Beschlussvorlage des Schul- und Kultusreferates für die Sitzung des Schul- und Sportausschusses am 13.01.2010
+- TOP 3.2.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010; Beschlusvorlage des Schul- und Kultusreferates für die Sitzung des Schul- und Sportausschusses am 13.01.2010
+- TOP 3.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule, Schuljahr 2009/2010; Beschlussvorlage des Schul- und Kultusreferates für die Sitzung des Schul- und Sportausschusses am 13.01.2010
+- TOP 3.4.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010; Beschlussvorlage des Schul- und Kultusreferates für die Sitzung des Schul- und Sportausschusses am 13.01.2010
+- TOP 3.5.: Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010; Beschlussvorlage des Schul- und Kultusreferates für die Sitzung des Schul- und Sportausschusses am 13.01.2010
+- TOP 3.6.: Verbesserungsvorschläge zur Aufwertung des Spielplatzes in der Tengstraße und Alter Nordfriedhof
+- TOP 3.7.: Sozialreferat, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss am 02.02.2010: Investitionskostenförderung gemäß der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013 Kinderkrippe Richard-Wagner-Straße 5 (E.ON Energie AG) mit 24 Kinderkrippenplätzen, Umbau
+- TOP 4: Kultur
+- TOP 4.1.: Budgetangelegenheiten: - Bewilligungsbescheid, Kreisjugendring München-Stadt, "Kick it like Kurt - jüdische Wurzeln des FC Bayern" - Bewilligungsbescheid für die Renovierungskosten der U-Bahn-Galerie
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
