@@ -1,0 +1,6 @@
+# TOP 2.: Genehmigung der Niederschrift der letzten Sitzung
+
+- Sitzung: Wahlausschuss (2. Sitzung) (2010-02-10)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/45272
