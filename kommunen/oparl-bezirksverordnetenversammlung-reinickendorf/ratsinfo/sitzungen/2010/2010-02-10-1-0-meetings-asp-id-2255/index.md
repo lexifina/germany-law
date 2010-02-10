@@ -1,0 +1,85 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-02-10T17:00:00+01:00
+- Ende: 2010-02-10T21:55:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2255
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2255
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=46421
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Umweltfreundliche Kraftfahrzeuge - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Umweltschonende und Ressourcen sparende Ausrüstung der bezirkseigenen Kraftfahrzeugflotte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Klimaschutz-Spende am Parkautomat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Parken im Sigismundkorso einschränken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Alkohol bei Straßenfesten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Einrichtung eines "Runden Tisches gegen linke Gewalt in Berlin" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Fahrradständer auf der Residenzstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Aufstellung des Bebauungsplanes 12-24 - überwiesen
+- TOP 7.9: Umwandlung der Thomas-Mann-Oberschule von einer Gesamtoberschule in ein Gymnasium - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Konzeptentwicklung Nachnutzung Flughafen Tegel - beantwortet
+- TOP 8.2: Gute-Nacht-Café für Wohnungslose in Wittenau - überwiesen
+- TOP 8.3: Wirtschaftsförderung Bestandsaufnahme - und wie weiter? - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung eines stellvertretenden beratenden Mitglieds für den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bestellung eines stellvertretenden Mitglieds der BVV Reinickendorf für den Verwaltungsrat der Kindertagesstätten des Eigenbetriebes Nordwest von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Erneuerung und Verbesserung der Ruppiner Chaussee zwischen Schulzendorfer Straße und Landesgrenze - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Visionen statt Verfall - TXL-Gelände für die Zukunft gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Erstellung von Stadtplanungs- und Wirtschaftskonzepten für die Nachnutzung des Flughafens Tegel - erledigt
+- TOP 10.3: Sichere Fußgängerführung am Zeltinger Platz in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.3.1: Sichere Fußgängerführung am Zeltinger Platz in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Mitternachtssport gegen Jugendgewalt und Jugendkriminalität - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Einsatz von "jugendlichen Testkäuferinnen und Testkäufern" in Reinickendorf - vertagt
+- TOP 10.6: Schluss mit Geheimverträgen - Wir Berliner wollen unser Wasser zurück! - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Konrad-Adenauer-Wanderausstellung in Reinickendorf zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Pünktlicher 120er Bus - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Tempo 30 vor der Seniorenanlage im Falkentaler Steig - vertagt
+- TOP 10.10: Parkverbot Borsigdamm Richtung Eisenhammer Weg - überwiesen
+- TOP 10.11: Linienführung des Bus 325 verändern - Erreichbarkeit des Humboldt-Klinikums sicherstellen - in der BVV abgelehnt
+- TOP 10.12: Verdichtung der Taktzeiten der Buslinie 124 an Samstagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Keine Schulentwicklung ohne Plan! - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Mahn- und Gedenkstätten im Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Geschwindigkeitskontrollen Gorkistraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Tempo 30 in der Zeltinger Straße - vertagt
+- TOP 10.17: 10-Minutentakt für 120er Buslinie ausweiten - in der BVV abgelehnt
+- TOP 10.18: Nachbarschaftszentrum Amendestraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Fußgängerüberweg des Zeltinger Platzes - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Gegen linksextreme Gewalt in Berlin - vertagt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: "Lange Nacht des Rathauses 2010" - überwiesen
+- TOP 12.2: Nachnutzung Flughafen Tegel - überwiesen
+- TOP 12.3: Zeitliche Geschwindigkeitsbeschränkung vor Schulen und Kindergärten einheitlich regeln - überwiesen
+- TOP 12.4: Kinderfreundliches Reinickendorf I - Leitbild - überwiesen
+- TOP 12.5: Gute-Nacht-Café in Wittenau - überwiesen
+- TOP 12.6: Gewässerentwicklungskonzept Tegeler Fließ - überwiesen
+- TOP 12.7: Kinderfreundliches Reinickendorf II - Cities for Children - überwiesen
+- TOP 12.8: Kulturveranstaltungen im Sommer 2010 - überwiesen
+- TOP 12.9: Einführungsphasen an Gymnasien - überwiesen
+- TOP 12.10: Open-Air-Konzert im Bezirk - überwiesen
+- TOP 12.11: Das Humboldtjahr im Humboldtbezirk - überwiesen
+- TOP 12.12: Straßenausbaubeitragsgesetz - überwiesen
+- TOP 12.13: Großveranstaltungen 2010 - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Beseitigung von Gefahrenstellen im Wald - überwiesen
+- TOP 13.2: Verstärkung der Stadtjäger - überwiesen
+- TOP 13.3: Angebot deutsch-französische Europaschule auch für Reinickendorfer Oberschüler - überwiesen
+- TOP 13.4: Hinweisschilder gegen das Füttern von Wildtieren - überwiesen
+- TOP 13.5: Kiezsäulen am Letteplatz und im Märkischen Viertel - überwiesen
+- TOP 13.6: Haushalts-Sonderprogramm Winter 2009/2010 - vertagt
+- TOP 13.7: Salzgebrauch auf Gehwegen ermöglichen - vertagt
