@@ -1,0 +1,83 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-02-17T17:00:00+01:00
+- Ende: 2010-02-17T18:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1694
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1694
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Standfestigkeit des Bierpinsels - beantwortet
+- TOP 3.2: Auslaufen des Stadtteilmütterprojekts zu Ende März 2010 - schriftlich beantwortet
+- TOP 3.3: Schlaglochbeseitigung im Bezirk - schriftlich beantwortet
+- TOP 3.4: Sanierung der Sporthalle der Dreilinden-Grundschule - schriftlich beantwortet
+- TOP 3.5: Kann denn Putzen Sünde sein? - beantwortet
+- TOP 3.6: Rauchen in der Fahrbibliothek - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellungen - erledigt
+- TOP 4.1.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Feststellung gem. § 25 (2) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines Bürgerdeputierten im Ausschuss für Bauen, Liegenschaften und Gebäudeverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl einer stellv. Bürgerdeputierten im Ausschuss für Bauen, Liegenschaften und Gebäudeverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Schulwettbewerb - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Abstellkonzept für Fahrräder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Investitionsvorhaben Radwegesanierung Wolfensteindamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Bürgeramt Lankwitz barrrierefrei umbauen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Eine grundständige Gymnasialklasse am Paulsen-Gymnasium - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: BürgerInnenwillen konsequent weiterführen! - in der BVV abgelehnt
+- TOP 4.4.5: Tempo 30 im Straßenzug Laubacher-, Maßmann-, Lepsiusstraße - in der BVV abgelehnt
+- TOP 4.4.6: Grüne Welle auf der B 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Schluss mit Geheimverträgen - Wir Berliner wollen unser Wasser zurück - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Bessere Beleuchtung in der Mühlenau-Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Teleheimarbeitsplätze im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Änderung der Geschäftsordnung der BVV: Haushaltstransparenz bei Beratung von Anträgen - in der BVV abgelehnt
+- TOP 4.4.11: Halteverbot auf dem Hüttenweg vor der Flanaganstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Kreisverkehr Machnower- / Sachtlebenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Schlaglochsanierungsprogramm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Optimale Zusammenarbeit mit der Polizei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Errichtung von Solaranlagen auf Dächern öffentlicher Gebäude - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.16: Und wieder Heizpilze - in der BVV abgelehnt
+- TOP 4.4.17: Essensversorgung an sonderpädagogischen Förderzentren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Jahrgangsübergreifendes Lernen (JÜL) freiwillig weiterführen - überwiesen
+- TOP 5.1.2: Schilder im Schlachtensee - überwiesen
+- TOP 5.1.3: "Hilfe aus einer Hand" für ALG II-Berechtigte muss erhalten bleiben - überwiesen
+- TOP 5.1.4: Fahrradstellplätze für den S-Bahnhof Wannsee - überwiesen
+- TOP 5.1.5: Alkoholprävention im Bezirk stärken - überwiesen
+- TOP 5.1.6: Korruptionsschutz in Steglitz-Zehlendorf verstärken - überwiesen
+- TOP 5.1.7: "Zebrastreifen" auf dem Dahlemer Weg - überwiesen
+- TOP 5.1.8: Bestandschutz von Sportanlagen gegenüber intoleranten (Neu)-Anwohnern - überwiesen
+- TOP 5.1.9: Einhaltung von Lohnsicherheit bei der PIN AG - überwiesen
+- TOP 5.1.10: Forststraße zur Fahrradstraße - überwiesen
+- TOP 5.1.11: Runter mit den Wasserpreisen! - überwiesen
+- TOP 5.1.12: Automatische Belüftung von Schulen - überwiesen
+- TOP 5.1.13: Warteräume in den Bürgerämtern früher öffnen! - überwiesen
+- TOP 5.1.14: Spielgeräte verschenken - überwiesen
+- TOP 5.1.15: W-LAN im Rathaus Zehlendorf - überwiesen
+- TOP 5.2: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Fusion der Freiherr-von-Hünefeld-Grundschule mit der Markus-Grundschule am Standort Karl-Stieler-Straße - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Strom statt Bildung? - schriftlich beantwortet
+- TOP 7.2: Was hat Vorrang in Steglitz-Zehlendorf: Der Schulsport oder die Solarwirtschaft? - schriftlich beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Informationen an den Schulen über das Bundesamt für den Zivildienst - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Der VDI an Steglitz-Zehlendorfer Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Beleuchtung Bahnhofsvorplatz Lichterfelde-Ost - im Ältestenrat zurückgezogen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Seniorenwohnhäusern eine Zukunft geben! - in der BVV abgelehnt
+- TOP 9.2: Zurückhaltung der BA-Vorlage zum Beschluss 1159 vom 21.06.2006 (Betreff: Verkehrskonzept rund um das Schloss) - in der BVV abgelehnt
+- TOP 10: Schlusswort des Vorstehers - erledigt
