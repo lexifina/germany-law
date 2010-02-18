@@ -1,0 +1,6 @@
+# TOP 9.1: Herstellung einer Fischtreppe am Rohlfinger Stau
+
+- Sitzung: Haupt- und Finanzausschuss (2. Sitzung) (2010-02-18)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13353
