@@ -1,0 +1,15 @@
+# Bewohnerparken, Bewohnerparkzone N (Nizzaallee);Ratsantrag der SPD-Fraktion vom 08.12.2009
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: FB 61/0118/WP16
+- Art: Entscheidungsvorlage
+- Datum: 2010-02-22
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=7108
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=7108
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2222 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2224 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2181 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Entscheidung http://ratsinfo.aachen.de/public/oparl/meetings?id=2183 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
+- Beratung: Anhörung/Empfehlung  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=22
+- Beratung: Entscheidung  http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=17
