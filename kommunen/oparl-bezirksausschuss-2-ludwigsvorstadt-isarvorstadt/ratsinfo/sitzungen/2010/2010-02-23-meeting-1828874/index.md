@@ -1,0 +1,122 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-02-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828874
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828874
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 3.1.: Mehr Einflussmöglichkeiten für junge Menschen (Antrag der Stadtratsfraktion DIE GRÜNEN/RL) PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt) (1)
+- TOP 4.1.: Beschluss des Stadtrates vom 16.12.2009: Haushaltsplan 2010 - Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger"
+- TOP 4.2.: BA-Budget: Grundschule Klenzestraße, Kurzbericht zum Theaterprojekt "Mein Körper ist mein Freund"
+- TOP 4.3.: Markthallen München: Terminverlängerung bezgl. Schaffung von Ersatzräumen für Zenetti-Treff (BA-Antrag Nr. 1501)
+- TOP 4.4.: Beschluss Stadtrat vom 16.12.2009: Handlungsprogramm Mittlerer Ring - Wohnen am Ring
+- TOP 5: Sonstiges (2)
+- TOP 5.1.: Bürgeranliegen: Fehlende Hortplätze für die Kinder der Grundschule Klenzestraße
+- TOP 5.1: Berichte der Beauftragten
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen (2)
+- TOP 2.1.: Standortgenehmigung Parkscheinautomat: Schwanthalerstr. 2
+- TOP 2.2.: Projektplanung Pestalozzistraße / Stephanstraße PLENUMSBESCHLUSS
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Haydnstr. 5: Nutzungsänderung
+- TOP 3.1.2.: Landwehrstr. 50: Einbau eines Stüberls
+- TOP 3.1.3.: Schillerstr. 41: Umbau, Aufstockung und Nutzungsänderung
+- TOP 3.1.4.: Baaderstr. 50: DG-Umbau
+- TOP 3.1.5.: Baaderstr. 7: Generalsanierung u.a.
+- TOP 3.1.6.: Landwehrstr. 70-70a: DG-Ausbau
+- TOP 3.1.7.: Kohlstr. 2: Werbeanlagen
+- TOP 3.1.8.: Uhlandstr. 3: Errichtung Carport
+- TOP 3.1.9.: Erhardtstr. 3: Anbau Personenaufzug
+- TOP 3.1.10.: Ruppertstr. 5: Nutzungsänderung
+- TOP 3.1.11.: Museumsinsel 1: Nutzungsänderung
+- TOP 3.1.12.: Goethestr. 7: Nutzungsänderung
+- TOP 3.1.13.: Baaderstr. 60: Umbau, Nutzungsänderung
+- TOP 3.1.14.: Baaderstr. 60: DG-Umbau
+- TOP 3.1.15.: Arnulfstr. 3: Nutzungsänderung
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.1.: Frauenlobstr. 28
+- TOP 3.2.2.: Pettenkoferstr. 11 PLENUMSBESCHLUSS
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Isar-Plan, Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar (Stellungnahme)
+- TOP 3.3.2.: Beleuchtung des Fußweges entlang des Westermühlbaches
+- TOP 4: Unterrichtungen (siehe Beiblatt) (2)
+- TOP 4.1.: Beschluss Bauausschuss vom 19.01.2010: Lichtkonzept für den öffentlichen Raum
+- TOP 4.2.: Schmellerstr. 15: Baugenehmigung
+- TOP 4.3.: Beschluss Bauausschuss vom 08.12.2009: Isar-Plan, Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar
+- TOP 4.4.: Schreiben einer Hauverwaltungs GmbH bezüglich einiger Belange in der Isartalstr. 45 + 47: Rückmeldung der Referate
+- TOP 4.5.: Fällungen von Gefahrenbäumen
+- TOP 4.6.: Bekanntgabe im Stadtrat vom 16.12.2009: Gesamtkonzept Bahnknoten München - 2. S-Bahn-Stammstrecke und Schienenanbindung des Flughafens
+- TOP 4.7.: Beschluss Stadtrat vom 16.12.2009: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung
+- TOP 4.8.: Bachräumungstermine 2010 für Stadt- bzw. Stadtrandbäche
+- TOP 4.9.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 03.02.2010: Novelle der Bayerischen Bauordnung 2008
+- TOP 4.10.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 03.02.2010: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP 4.11.: Gärtnerplatz 2: Vorbescheid
+- TOP 4.12.: Landwehrstr. 5: Baugenehmigung
+- TOP 4.13.: Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 03-02.2010: Ergebnis der Kundenbefragung zum Servicezentrum und -telefon des Planungsreferates - LBK
+- TOP 5: Sonstiges (3)
+- TOP 5.1: Bericht des Beauftragten
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Interfraktioneller Antrag des UA KVR: Der letzte Wiesnsonntag soll reservierungsfrei sein und reduzierte Preise für Kinder anbieten
+- TOP 1.4.: Antrag der SPD-Fraktion: Neue Richtlinien für Warenauslagen im öffentlichen Raum - klare und transparente Regeln zum Vorteil von Bürgern und Einzelhandel
+- TOP 2: Entscheidungen (3)
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Antrag auf Erweiterung einer Freischankfläche: Bayerstr. 13
+- TOP 2.1.2.: Antrag auf Aufhebung der Sperrzeit, Goethestr. 3
+- TOP 2.1.3.: Antrag auf Erweiterung einer Freischankfläche: Klenzestr. 71 PLENUMSBESCHLUSS
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.2.1.: Antrag für eine Warenauslage, Zenettistr. 33
+- TOP 2.2.2.: Antrag für eine Verkaufseinrichtung: Zweibrückenstr. 10
+- TOP 2.2.3.: Antrag für eine Warenstellage: Pestalozzistr. 16
+- TOP 2.2.4.: Antrag für eine Verkaufseinrichtung: Schillerstr. 17
+- TOP 2.2.5.: Antrag für eine Warenauslage: Reisingerstr. 3 PLENUMSBESCHLUSS
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 2.3.2.: Errichtung eines Radwegs auf beiden Seiten der Zenettistraße (Ziffer 1 des Antrags)
+- TOP 2.3.3.: Ziffer 1 des Antrags Nr. 9 aus der BV 02 vom 12.11.2009: Ganzjährige Querung für die Anwohner der Theresienwiesn
+- TOP 2.3.5.: Einrichtung einer Querungsmöglichkeit am Sendlinger-Tor-Platz (Ziffer 2 des Antrags) PLENUMSBESCHLUSS
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Veranstaltungen (1)
+- TOP 3.1.1.: Beschlussentwurf: Gegen eine schleichende Ausweitung des Oktoberfestes BA-ANtrag Nr. 08-14 / B 1704
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Überprüfung Lichtzeichenanlagen
+- TOP 3.2.2.: Polizeianfahrtszone Arnulfstraße (verkehrsrechtliche Anordnung)
+- TOP 3.2.3.: Verkehrsinsel Grasserstr.
+- TOP 3.2.4.: Haltverbot Frauenstr. 32 (verkehrsrechtliche Anordnung) PLENUMSBESCHLUSS
+- TOP 3.3: Sonstiges (4)
+- TOP 3.3.1.: Gartenbauvorschlag für den Fußweg zwischen Matthias-Pschorr-Str. und Theresienhöhe
+- TOP 3.3.2.: Novellierung der Sondernutzungsrichtlinien
+- TOP 4: Unterrichtungen (siehe Beiblatt) (3)
+- TOP 4.1.: Videokameras in der Thalkirchner Straße 66 - 70
+- TOP 4.2.: Verkehrsrechtliche Anordnungen: - Taxistand am ZOB, Arnulfstr. 21
+- TOP 4.3.: Unveränderte Gaststättenfortführung: - Königs-Bistro, Bahnhofsplatz 7 (UG, Schmankerlgasse)
+- TOP 4.4.: Versammlungen unter freiem Himmel: 4
+- TOP 4.5.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 13.01.2010: Stadt bezieht Stellung gegen die Initiative zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 4.6.: Direkte Linienführung der Buslinie 152 (Schreiben des Referates für Arbeit und Wirtschaft) BA-Antrag 08-14 / B 00944
+- TOP 4.7.: Genehmigungsverfahren BierBike: Interfraktionelle Anfrage des BA 2
+- TOP 4.8.: Kostenlose Mitnahme von Fahrrädern zu bestimmten Zeiten in öffentlichen Verkehrsmitteln
+- TOP 5: Sonstiges (5)
+- TOP 5.1.: Bürgeranliegen: Änderung der Beschilderung im Parklizenzgebiet Ludwigsvorstadt-Innenstadtklinikum (Bavariaring)
+- TOP 5.2.: Informationen zum Stadtstrand
+- TOP 1: Termine
+- TOP 2: Veranstaltungen (2)
+- TOP 3: Sonstiges / Verschiedenes
+- TOP 3.1.: Budget Bezirksausschüsse, Erfahrungsbericht
+- TOP 3.2.: Themen für die Bürgerversammlung am 20.05.2010
