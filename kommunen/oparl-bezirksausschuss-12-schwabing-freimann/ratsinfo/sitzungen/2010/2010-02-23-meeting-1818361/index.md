@@ -1,0 +1,93 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818361
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818361
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Rechtzeitige Erstellung und Verteilung der Handzettel zu den Bürgerversammlungen
+- TOP .1.: Aufhebung der Kostenpflichtigkeit der Parkplätze an der U-Bahnstatin Studentenstadt
+- TOP .2.: Zugangssteuerung zu den Parkplätzen am Ungererbad während der Freibadsaison
+- TOP .1.: Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizensgebietes "Tristanstraße" (Ortstermin: 09.02.2010)
+- TOP .2.: Erschließung des Europarks durch den ÖPNV
+- TOP .3.: Aufstellung von Tempo 30 Schildern auf der Kieferngartenstraße und am Schlößlanger
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Rheinlandstraße 1 (diverse Bäume gemäß Plan)
+- TOP .2.: Kunigundenstr., Flurstück 921/50 (diverse Bäume gemäß Plan)
+- TOP .3.3.: Sonstige Anhörungen
+- TOP .1.: Überprüfung Lichtzeichenanlage im Stadtbezirk 12
+- TOP .2.: Radverkehr; Freigabe der Einbahnstraßenregelung für den gegenläufigen Radverkehr in der Siegesstraße zwischen Fendtstraße und Nikolaistraße Empfehlung Nr. 02-08 / E 0509 der Bürgersammlung des Bezirksausschusses 12 vom 18.07.2010
+- TOP .3.: Novellierung der Sondernutzungsrichtlinien (betrifft auch den UA BKS)
+- TOP .1.: Elektrosmog durch Trafostation am Parzivalplatz
+- TOP .2.: Umwandlung von 1 1/2 KFZ-Parkplätze in Fahrradstellplätze vor dem Eisladen "Gelato Bartu" in der Wilhelmstraße 23 / Ecke Kaiserstraße
+- TOP .3.: Umwandlung der Germaniast. in eine Einbahnstr. von der Johann-Fichte-Str. zur Potsdamerstr.
+- TOP .4.: Bessere Anbindung der Münchner Freiheit an das öffentliche Verkehrsnetz
+- TOP .5.: Antrag auf Verlegung der Bushaltestelle der Linie 53 und N41 vor dem Anwesen Herzogstraße 1 / 1a (siehe auch TOP D.4.1.)
+- TOP .6.: Einführung einer Tempo-30-Zone in der Königinstraße zwischen Maria-Josepha-Straße und Schönfeldstraße
+- TOP .1.: Sicherheit auf dem Gehweg Theodor-Dombart-Straße im Bereich Tengelmann und Bauernmarkt
+- TOP .2.: Entwicklung eines passiven Feinstaubkonzepts für den Bereich der Umweltzone
+- TOP .3.: Übersichtliche Gestaltung der Kreuzung Ungererstraße/Schenkendorfstraße; a) Entfernung des vor der Ampel und Hinweisschildern stehenden Baumes, b) Neu- bzw. Ersatzpflanzung des in der streng regelmäßig bis zu den Einfahrten angelegten Baumreihe fehlenden Baumes.
+- TOP .4.: Anbringung eines Grünen Pfeils an der Kreuzung Domagk-/Alfred-Arndt-Straße und Kreuzung Domagk-/Walter-Gropius-Straße
+- TOP .1.: Verkürzung des bestehenden eingeschränkten Haltverbotes in der Garchinger südlich Echinger Straße
+- TOP .2.: Absolutes Haltverbot im Wendehammer der Marianne-Brandt-Straße
+- TOP .3.: Absolutes Haltverbot (Z 238 StVO) Alte Heide
+- TOP .4.: Wendeverbote Leopoldstraße
+- TOP .5.: Absolutes Haltverbot im Wendehammer Lilly-Reich-Straße
+- TOP .5.3.: Genehmigte Baumfällungen
+- TOP .1.: Vollzug der Wassergetze - Bachräumungstermine 2010 für die Stadt- und Stadtrandbäche
+- TOP .2.: Abgabennachricht - Lärmschutz entlang der Häuser am Isarring auf Höhe Liebergesellstr. sowie des Englischen Gartens auf Höhe Kleinhesseloher See
+- TOP .3.: Parksituation Floriansmühlstraße / Fernsehstudio Freimann des BR (Bezug zum TOP: C. 4.1/12/09 und TOP D. 3.1.7/01/10)
+- TOP .4.: MVG-Nachtlinie N40 - Linienweg im Norden optimieren (Zwischennachricht) Antrag Nr. 08-14 / A 01280 vom 29.12.2009, Herrn Stadtrat Richard Quaas, CSU-Fraktion
+- TOP .5.: Filmaufnahmen auf öffentlichem Verkehrsgrund (2)
+- TOP .1.: Abhalten der BA-Sitzung (26.10.2010) im neuen Jugendzentrum an der Gustav-Mahler-Straße
+- TOP .1.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA12 a) Theater Heppel & Ettlich für die Maßnahme: Kauf einer Tonanlage
+- TOP .1.: Genehmigung der Termine für den Kinderflohmarkt an der Münchner Freiheit 2010
+- TOP .2.: Mehr Einflussmöglichkeiten für junge Menschen1; Antrag Nr. 08-14 / A 01025 der Stadtratsfraktion DIE GRÜNEN/RL vom 01.09.2009
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Tulip Inn" - Schank- und Speisewirtschaft im Hotel, Domagkstr.
+- TOP .2.: "Milch Cafe", Schank- und Speisewirtschaft, Feilitzschstr. 7
+- TOP .3.: "Q62" (ehemals: FirstFloor), Bar, Leopoldstraße 62
+- TOP .1.: Sachberichte / Verwendungsnachweise a) Theater des Hölzernen Gelächters
+- TOP .2.: Budget der Bezirksausschüsse - Erfahrungsbericht 2009
+- TOP .3.: Zuwendungsbewilligungen aus dem Budget des BA 12 a) Evang.-Luth. Erlöserkirche München-Schwabing für das Konzert am 07.07.2010 b) Corso Leopold e.V. für den Corso Kinderfasching am 16.02.2010 c) Initiative "die urbanauten" für die Veranstaltung "Altschwabing 2.0" vom 23.01. -31.01.2010
+- TOP .4.: Probleme in der Zusammenarbeit des BA1 mit dem Schulreferat
+- TOP .5.: Eilentscheidung: Veranstaltung auf öffentlichem Verkehrsgrund hier: Vorabanfrage wegen Ökumenischem Kreuzweg am 24.03.2010 Germaniastraße und Kaiserplatz
+- TOP .1.: Bauvorhaben: Osterwaldstraße 37, Flurstück 1054/4, Neubau eines Wohngebäudes mit Tiefgarage und 12 Stellplätze - Vorbescheid
+- TOP .2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/45 Burmesterstraße (östlich), Reúschstraße (südlich)
+- TOP .3.: Änderung der Denkmalliste; hier: Königinstraße 38, Ostgebäude der Münchner Rückversicherungs-AG
+- TOP .4.: Anderung der Denkmalliste; hier: Am Tucherpark 12, Technisches Zentrum der HypoVereinsbank
+- TOP .5.: Bauvorhaben: Gieselastr. 3a, Fl.Nr.: 3257/0; Abbruch und Neuaufbau eines ausgebauten Dachgeschosses, Einbau eines Aufzugs vom Kellergeschoss bis ins Dachgeschoss sowie Neubau der Eingangstreppe
+- TOP .6.: Bauvorhaben: Heimstättenstr. 23a, Fl.Nr.: 125/23, Neubau eines Einfamilienhauses
+- TOP .7.: Bauvorhaben: Maria-Probst-Str. 6, Fl.Nr.: 137/2; Umbau und Sanierung des V-Marktes
+- TOP .1.: Antrag auf Verlegung der Bushaltestelle der Linie 53 und N41 vor dem Anwesen Herzogstraße 1 / 1a (siehe auch TOP B.4.5.)
+- TOP .1.: Städtepartnerschaft München - China
+- TOP .1.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.01.2010 Antrag Nr. 08-14 / A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009 Sitzungsvorlagen Nr. 08-14 / V 03424
+- TOP .2.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt (Antrag Nr. 509 der Stadtratsfraktion BÜNDNIS 90 / DIE GRÜNEN/RL vom 24.06.1997 c) Flächenpool für ökologische Ausgleichsflächen; Pilotprojekt "Eschenrieder Moos mit 1. Münchner Ökokonto" (Antrag Nr. 3465 von Herrn Stadtrat Helmut Pfundstein vom 28.12.2001 Sitzungsvorlagen Nr. 08-14 / V 03620 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010
+- TOP .3.: Novelle der Bayerischen Bauordnung 2008 a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis b) weiteres Vorgehen c) Anträge - Schriftliche Bestätigung von Beratungsgesprächen im Planungsreferat Antrag Nr. 02-08 / A 01506 von Frau Stadträtin Mechthilde Wittmann vom 15.03.2004 - Handhabe der LBK bei Bauausführungen, Antrag Nr. 02-08 / A 02392 von Frau Stadträtin Gertrud Walter und Herrn Stadtrat Oliver Belik vom 29.03.2005 Sitzungsvorlagen Nr. 08-14 / V 03564 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010
+- TOP .4.: Veränderungssperre Nr. 651, Freisinger Landstraße 74, Flurstücke Nr. 544/4 und 544/8, Gemarkung Freimann (Bebauungsplan Nr. 2031) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010 Sitzungsvorlage Nr. 08-14 / V 03666
+- TOP .5.: Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und -telefon des Planungsreferates - Lokalbaukommission Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010 Sitzungsvorlagen Nr. 08-14 / V 03628
+- TOP .6.: Lichtkonzept für den öffentlichen Raum, Antrag Nr. 02-08 / A 03751 der FDP vom 13.06.2007 Lichtkonzept I, Antrag Nr. 08-14 / A 00705 der Stadtratsfraktion der FDP vom 27.03.2009 Lichtkonzept II, Antrag Nr. 08-14 / A 00706 der Stadtratsfraktion der FDP vom 27.03.2009 Lichtkonzept III, Antrag Nr. 08-14 / A 00707 der Stadtratsfraktion der FDP vom 27.03.2009 Beschluss des Bauausschusses vom 19.01.2010 Sitzungsvorlage Nr. 08-14 / V 02502
+- TOP .7.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt c) Flächenpool für ökologische Ausgleichsflächen; Pilotprojekt "Eschenrieder Moos mit 1. Münchner Ökokonto" Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010 Sitzungsvorlage Nr. 08-14 / V 03620
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.2.: Sonstige Unterrichtungen
