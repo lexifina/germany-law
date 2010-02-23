@@ -1,0 +1,125 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1864464
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1864464
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Bürgerschreiben vom 22.01.2010; Verkehrsangelegenheit Klausener - Gufidauner Str.;
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Bürgerinitiative "Mehr Platz zum Leben" für die Maßnahme: div. Skulpturen und Christbaumschmücken im Rahmen des Kunstforums Hans-Mielich-Platz; Antragsumme: 5.630,00 ?; Beschlussvorlage des Direktoriums vom 19.01.2010
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: die urbanauten, für die Maßnahme " Isarlust - Temporäre Fußgängerbrücke vom 17.07. bis 24.07.2010" (alte Braunauer Eisenbahnbrücke); Antragssumme: 4.000,00 ?; Antrag vom 05.02.2010
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Umwidmung der Vahrnerstraße Richtung Lautererstraße (Einbahnstraße) Antrag des CSU-Fraktion vom 29.01.2010 - <div>nach Antrag</div>
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 18 Schreiben des Kreisverwaltungsreferates vom 18.01.2010 m. d. B. um Mithilfe bei der Überprüfung der Lichtzeichenanlagen
+- TOP 3.2.: Naupliastraße; Kurzparkzonen; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Schreiben des KVR vom 28.01.2010 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.1.: Fußgängerüberweg an der Ecke Harlachinger Straße und Karolingerallee; Antwort des KVR, Verkehrsmanagment zum Bürgerschreiben vom 15.11.2009
+- TOP 3.2.: Defekte Automatik-Tür an der U-Bahn-Haltestelle St.-Quirin-Platz Bürgeranliegen aus der Sitzung vom 15.12.2009, Antwortschreiben des MVG vom 01.02.2010
+- TOP 3.3.: Ausnahmegenehmigung für Kleinbusse der MVG zur Fahrt über die Thalkirchner Brücke zur Verlängerung der Buslinie 135 von der Thalkirchner Straße zur Alemannenstraße (Ziffer 1 des Antrages); Antwortschreiben des Baureferats vom 29.01.2010
+- TOP 3.1.: Verkehrsrechtliche Anordnung nach § 45 StVO; Alemannen- / Schönstraße, Anpassung der Busführung nach Umbau; Schreiben des Kreisverwaltungsreferates vom 18.12.2009
+- TOP 3.2.: Standortwechsel des Pfostens (Verkehrszeichenrohr zur Beschilderung des Parkscheinautomaten) in der Jamnitzerstr. 15 Antwortschreiben durch das Baureferat vom 05.01.2010
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Auslichtung Entlang der Hochleite - freier Blick über die Isar; Antrag des CSU-Fraktion vom 03.02.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Vollzug der Wassergesetze; Isar - Plan, Verbesserung des Hochwassserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen der Weideninsel und dem Deutschen Museum, Bauabschnitt Nord, Schreiben des Referats für Gesundheit und Umwelt vom 20.01.2010 (Frist bis 05.03.2010)
+- TOP 3.2.: Pilotprojetz "Digitale Beteiligung der Bezirksausschüsse bei Baumfällungen im Einzelgenehmigungsverfahren" -Anhörung-; Schreiben des Referats für Stadtplanung und Bauordnung vom 01.02.2010
+- TOP 3.1.: Vollzug der Grünanlagensatzung vom 12.08.1991 Baustelleneinrichtung an der Naupliastraße 105 ggü. Verlängerung der Ausnahmebewilligung vom 21.04.2009 zur Benutzung der städtischen Grünanlage bis 31.03.2010 mit Bescheid vom 15.01.2010 des KVR
+- TOP 3.2.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung und der Landschaftsschutzverordnung (teilweise) bzw. Information über Eingriffe in den Gehölzbestand von öffentlichen und halböffentlichen Grün- und Freiflächen. - Unterrichtung über Gefahrenbäume mit Schreiben des Baureferats vom 01.12.2009
+- TOP 3.3.: Vollzug der Wassergesetze; Bachräumungstermine 2010 für die Stadt- bzw. Stadtrandbäche, Schreiben des Baureferats vom 14.01.2010
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Verschmutzungen in der St.-Magnus-Straße durch Schulkinder auf dem Schul- und Heimweg; Bürgeranliegen aus der Sitzung vom 19.01.2010 (verwiesen aus der Sitzung vom 19.01.2010)
+- TOP 3.1.: Dauerhafte Aufstellung der am Kunstforum Hans-Mielich-Platz ausgestellten Skulptur "Händel & Gretel" auf der Renaturierungsfläche des Gartenbaus an der Sachsenstraße; Antwortschreiben des Baureferates, Hochbau vom 11.01.2010 zum BA-Antrag vom 15.09.2009 BA-Antrags-Nr. 08-14 / B 01542
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß der Vollmacht des Oberbürgermeisters vom 26.11.2007; Otkerstr. Beschluss des Bezirksausschusses des Stadtbezirks 18 vom 23.02.2010
+- TOP 3.1.: St. - Annakirche, Unterstützung der Renovierungsarbeiten, SPD-Antrag vom 04.02.2009
+- TOP 3.2.: Antrag zum Verkauf der Wohnungen der GBW in Untergiesing; Antrag der CSU-Fraktion, der FDP-Fraktion und der Fraktion Bündnis90/DIE GRÜNEN vom 12.02.10 - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Hochleite 12, Umbau eines Wohngebäudes mit Anbau eines Balkons -Anhörung vom 25.01.2010
+- TOP 3.2.: Mondstr. 12, Neubau eines Stadthauses (2WE) - Vorbescheid, Anhörung vom 26.01.2010
+- TOP 3.3.: Untere Weidenstr. 25a, Wiedererrichtung des 2. OG, Anhörung vom 26.01.2010
+- TOP 3.4.: Anwesen Hochkalterstr. 2 - 14, Nachverdichtung einer Wohnanlage mit 25 - 30 WE - Vorbescheid, Anhörung vom 26.01.2010
+- TOP 3.5.: Anwesen Pilgersheimer Str. 25, Umbau und Erweiterung einer DG-Wohnung, Anhörung vom 26.01.2010
+- TOP 3.6.: Anwesen Geiselgasteigstr. 48a, Neubau eines Mehrfamilienhauses, Anhörung vom 27.01.2010
+- TOP 3.7.: Anwesen Haselburgstr. 11, Abbruch und Neuerrichtung eines Einfamilienhauses mit Einliegerwohnung und Garage, Anhörung vom 27.01.2010
+- TOP 3.8.: Anwesen Geiselgasteigstr. 48, Neubau eines Mehrfamilienhauses, Anhörung vom 12.01.2010 (vertagt aus der Sitzung vom 18.01.2010)
+- TOP 3.9.: Anwesen Rabenkopfstr. 40 Neubau eines Einfamilienhauses, Anhörung vom 13.01.2010 (vertagt aus der Sitzung vom 18.01.2010)
+- TOP 3.10.: Anwesen Agilolfingerstr. 23, Neubau zweier Dachgeschosse mit 6 Wohnungen - Anhörung vom 04.02.2010
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: 3.5.4.3 Verkauf einer städtischen Immobilie; Anhörung des BA gem. § 3 der Bezirksausschusssatzung Freibadstr. 6, Schreiben des Kommunalreferat vom 03.02.2010
+- TOP 3.1.: Fahrradständer am Ausgang der U-Bahnstation Mangfallplatz; BA-Antrags-Nr. 08-14 / B 00612 Zwischennachricht des Baureferats, Tiefbau
+- TOP 3.2.: Beleuchtung des St.-Anna-Kircherls in den Wintermonaten, Schreiben des BA 18 vom 18.01.2010; Antwortschreiben des Katholischen Pfarramtes Hl. Familie vom 03.02.2010
+- TOP 3.1.: Novelle der Bayerischen Bauordnung 2008 a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis b) weiteres Vorgehen c) Anträge - Schriftliche Bestätigung von Beratungsgesprächen im Planungsreferat, Antrag Nr. 02-08/A01506 von Frau Stadträtin Mechthilde Wittmann vom 15.03.2004 - Handhabe der LBK bei Bauausführungen, Antrag Nr. 02-08/A02392 von Frau Stadträtin Gertraud Walter und Herrn Stadtrat Oliver Belik vom 29.03.2005 Sitzungsvorlagen Nr. 08-14 V 03564
+- TOP 3.2.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt Antrag Nr. 509 der Stadtratsfunktion Bündnis 90 / Die Grünen / RL vom 24.06.1997 c) Flächenpool für okologische Ausgleichsflächen; Pilotprojekt, "Eschenrieder Moos mit 1 Münchner Ökokonto" Antrag von Herrn Stadtrat Helmut Pfundstein vom 28.12.2001 Sitzungsvorlagen Nr. 08-14/V03620 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 SSW "Kukuvaya bei Kostas"; Tegernseer Landstr. 316; Mitteilung vom 15.01.2010 3.5.6.3.2 SSW mit regelmäßigen Musikdarbietungen, "Yakamoz Müzikhol", Tegernseer Landstr. 302, Mitteilung vom 11.01.2010 3.5.6.3.3 SSW "Zum Dachs", Säbener Str. 173, Mitteilung vom 29.01.2010
+- TOP 3.4.: Baufälle im Stadtbezirk 18
+- TOP 3.5.: Ergebnis der Kundinnen- / Kundenbefragung zum Serviczentrum und -telefon des Planungsrferats - Lokalbaukommision Sitzungsvorlage: Nr. 08-14 ; V03628; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010
+- TOP 3.6.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Antrag Nr. 08-14 / A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009 Sitzungsvorlage Nr. 08-14 / V03424 Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010
+- TOP 3.7.: Lichtkonzept für den öffentlichen Raum in München; Antrag Nr. 02-08 / A03751 der FDP vom 13.06.2007; Lichtkonzept I, Beleuchtungskonzept für die LHM mit dem Ziel, das Erscheinungsbild der Stadt zu verbessern und Energie einzusparen, Antrag Nr. 08-14 / A 00705 der Stadtratsfraktion der FDP vom 27.03.2009; Lichtkonzept II, Beleuchtung neuer Vorhaben und großer Neubaugebiete und Siedlungen in München, Antrag Nr. 08-14 / A 00706 der Stadtratsfraktion der FDP vom 27.03.2009; Lichtkonzept III, Beleuchtung städtischer Plätze, Gebäude und Stadtlandschaften, Antrag Nr. 08-14 / A 00707 der Stadtratsfraktion der FDP vom 27.03.2009 Sitzungsvorlage Nr. 08-14 / V 02502 Beschluss des Bauausschusses vom 19.01.2010
+- TOP 3.8.: Unterrichtung über Zweckentfremdung, Anwesen Lindenstr., Isenschmidstr. , 1. OG Schreiben des Sozialreferats vom 13.01.2010
+- TOP 3.9.: Unterrichtung über Zweckentfremdung, Anwesen Kastenseestr., Schreiben des Sozialreferats vom 28.01.2010
+- TOP 3.10.: Unterrichtung über Zweckentfremdung, Anwesen Haselburgstr., Schreiben des Sozialreferats vom 22.01.2010
+- TOP 3.11.: Unterrichtung über Zweckentfremdung, Anwesen Schilcherweg, Schreiben des Sozialreferats vom 29.01.2010
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: 100. Geburtstag des Stadions an der Grünwalderstr.; Unterstützungsantrag der FDP vom 06.02.2010 bzgl. Feiern und einer Ausnahmegenehmigung für Konzerte - <div>nach Antrag</div>
+- TOP 3.1.: Anzeige einer Veranstaltung eines Flohmarktes, Gerhardstraße 2, Kirschbaum Kindergarten, Schreiben des VVB vom 09.02.2010, Anhörungsfrist bis 02.03.2010
+- TOP 3.1.: Tag des offenen Denkmals 2010 (12.09.2010); Schreiben der Deutschen Stiftung für Denkmalschutz vom 02.02.2010
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Probleme in der Zusammenarbeit des BA 1 mit dem Schulreferat; Schreiben des BA 1 an den Oberbürgermeister vom 27.01.2010 zur Kenntnisnahme
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.1.: UA Budgetangelegenheiten: Freitag, 19.02.10, 19.00 Uhr, Restaurant ?Asia Grill?
+- TOP 6.2.: UA Verkehr: Montag, 15.02.10, 18.00 Uhr, Gaststätte ?Gartenstadt?
+- TOP 6.3.: UA Umwelt: Donnerstag, 18.02.10, 18.30 Uhr, Gaststätte ?Gartenstadt"
+- TOP 6.4.: UA Soziales: Donnerstag, 18.02.10, 17.00 Uhr, Gaststätte ?Gartenstadt?
+- TOP 6.5.: UA Bau und Planung: Donnerstag, 18.02.10, 19.00 Uhr, Gaststätte ?Gartenstadt?
+- TOP 6.6.: UA Kultur u. Veranstaltungen: Montag, 22.02.10, 18.00 Uhr, Gaststätte ?Hans-Mielich?
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Einladung zur Informationsveranstaltung - Monitoring des Sozialbürgerhauses am 04.03.2010; Schreiben vom 19.01.2010, Rückmeldung bis 25.02.2010
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
