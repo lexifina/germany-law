@@ -1,0 +1,86 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-02-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868535
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868535
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Anpassung des Spielplatzes an der Hansjakobstraße (am alten Bahndamm) in Größe und Ausstattung an die stark gestiegene Anzahl der nutzenden Kinder (Ziffer 5 des Antrages) - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Soziale Stadt Projekt im Sanierungsgebiet Innsbrucker Ring / Baumkirchner Straße Aufwertung und Umgestaltung Piusplatz und angrenzende Grünanlagen 1. Konzeptgenehmigung 2. Projektauftrag 3. Anmeldung zur Fortschreibung des Mehrjahresinvestitionsprogrammes 2010 - 2014
+- TOP 3.1.1.2.: Wegesituation zwischen Innsbrucker Ring und Grafinger Straße
+- TOP 3.1.1.3.: Innsbrucker Ring 75 ? Verlängerung einer mobilen Heizzentrale als Provisorium
+- TOP 3.1.1.4.: Neumarkter Str. 47 ? Verkauf einer städt. Immobilie zur Ansiedlung eines Gewerbebetriebs
+- TOP 3.1.2.1.: Kindertagesstätte Hachinger-Bach-Straße 11, Anbringung eines Zeichens 136 StVO
+- TOP 3.1.2.2.: Überprüfung Lichtzeichenanlagen im Stadtbezirk 14
+- TOP 3.1.2.3.: Containerstandort Annabrunner Straße
+- TOP 3.2.1.: Maifeier in der Baumkirchner Straße am 01.05.2010
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Erweiterung und Umbau der Hauptschule und des Sonderpädagogischen Förderzentrums am Innsbrucker Ring 75 / Echardinger Grünstreifen inkl. Interimscontaineranlage
+- TOP 3.4: Bereich Soziales
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Pilotprojekt ?Digitale Beteiligung der Bezirksausschüsse bei Baumfällungen im Einzelgenehmigungsverfahren?
+- TOP 3.7.2.: Levelingstraße 21 ? Antrag auf Baumfällungen
+- TOP 3.7.3.: Berg-am-Laim-Str. 110 ? Antrag auf Baumfällungen
+- TOP 3.7.4.: Berg-am-Laim-Str. 69 ? Antrag auf Baumfällungen
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Sonnbergstraße 12 ? Abbruchanzeige
+- TOP 4.1.1.3.: Grafinger Straße 6 ? Unveränderte Fortführung ?Strobe NG?
+- TOP 4.1.1.4.: Berg-am-Laim-Str. 89/91 ? Unveränderte Fortführung ?Blaywatch?
+- TOP 4.1.1.5.: Truderinger Str. 190 ? Errichtung eines Drogeriemarktes
+- TOP 4.1.1.6.: Prozess begleitende Evaluierung Soziale Stadt, Sanierungsgebiet Innsbrucker Ring / Baumkirchner Straße ? Dokumentation des Auftaktworkshops
+- TOP 4.1.1.7.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung (Hinweis/Ergänzung vom 21.01.2010)
+- TOP 4.1.1.8.: Lichtkonzept für den öffentlichen Raum in München
+- TOP 4.1.1.9.: Ausgleichsflächen in der Bauleitplanung ? Gesamtstädtisches Konzept a) Grundsatzbeschluss b) ?Neue Wälder braucht die Stadt? (Stadtratsantrag Nr. 509 - Fraktion Grüne/Rosa Liste) c) ?Flächenpool für ökologische Ausgleichsflächen?; Pilotprojekt ?Eschenrieder Moos?
+- TOP 4.1.1.10.: Novelle der Bayerischen Bauordnung 2008 a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis b) Weiteres Vorgehen c) Stadtratsanträge
+- TOP 4.1.1.11.: Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und -telefon der LBK
+- TOP 4.1.2.1.: Gehwegparken Ariboweg / Arnweg ? Schriftverkehr KVR / Antragsteller
+- TOP 4.1.2.2.: ?Rund um den Ostbahnhof? - Fußgängerunterführung zum Ostbahnhof - Machbarkeitsstudie (Hinweis/Ergänzung vom 21.01.2010)
+- TOP 4.1.2.3.: Ampelschaltung Bad-Schachener-Straße / Hofangerstraße / St.-Michael-Straße
+- TOP 4.1.3.1.: Lärmsituation im Tunnelbauwerk Innsbrucker Ring
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Bescheid über die Anerkennung von 77 Plätzen i.d. Kindertageseinrichtung Friedenstr. 22 b
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Bauträgerauswahl für Baugrundstücke des Kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B) - Neuvergabe von städtischen Grundstücken für die Bebauung im Rahmen von KomPro/B in der Truderinger Straße 158, Flurnr. 350/2 Gemarkung Berg am Laim
+- TOP 4.6: Sonstige
+- TOP 4.7.1.: Fällungsantrag Gratlspitzstraße 42 b ? Fällungsgenehmigung
+- TOP 4.7.2.: Fällungsantrag Fehwiesenstr. 114 b ? Antragsunterlagen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
