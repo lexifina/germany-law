@@ -1,0 +1,118 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-02-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904387
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904387
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag Faschingsclub Neuhausen e.V. (Az.: 02/10 - 4.1): Zuschuss in Höhe von 500 ? für das Faschingstreiben am Rotkreuzplatz vom 14.-16.02.10
+- TOP 2.3.2.: Antrag Besonders e.V. (Az.: 02/10 - 3.4.1): Zuschuss in Höhe von 3.189,01 ? für Therapie mit Menschen mit geistigen und körperlichen Behinderungen
+- TOP 2.3.3.: Antrag Janusch Kozminski Filmproduktion (Az.: 05/02 - 3.6.4): Zuschuss in Höhe von 12.000 ? für die Erstellung von sechs Filmen über Straßen (Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: Baureferat (Az.: 02/10 - 3.1.1): Projektplanung Wotan-/Winfriedstraße
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Beschlussvorlage Baureferat: Projektplanung Wotan-/Winfriedstraße
+- TOP 3.2.: Bürgeranliegen: Gefährliche Kreuzung Leonrodstraße / Landshuter Allee
+- TOP 3.3.: KVR: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 9
+- TOP 3.4.: KVR: Haltverbot / Lieferzone Romanstraße / Hirschgartenallee
+- TOP 3.5.: KVR: Einrichtung eines oder zwei allgemeiner Behindertenparkplätze in der Rupprechtstr. 29
+- TOP 3.6.: KVR: Absolutes Haltverbot an allen Fahrbahnrändern außerhalb der Parkbuchten in der Artilleriestraße
+- TOP 3.7.: Referat für Arbeit und Wirtschaft: Aktualisierung der Ausschilderung der öffentlichen Wegeverbindungen im Olympiapark Nord
+- TOP 3.8.: Projektvorstellung der Stadtwerke München: Glasfasernetzausbau 2010
+- TOP 3.9.: Baureferat: Umlaufsperren in Grünanlagen (Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 3.10.: Anfrage CSU und FDP zur Tram Westtangente
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Arbeit und Wirtschaft vom 20.01.10: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße; Grundsatzbeschluss
+- TOP 3.13.: Baumaßnahmen der Stadtwerke: Stromprojekt Romanplatz
+- TOP 3.14.: KVR: Bürgeranliegen Raser in der Birkerstraße (Schreiben BA 9 vom 11.12.09)
+- TOP 3.15.: KVR: Linksabbiegeampel für Radfahrer an der Dachauer Straße stadtauswärts in Höhe Lazarettstraße (Antrag BA 9 Nr. 1461 vom 15.09.09)
+- TOP 3.16.: KVR: Verkehrsgefährdung durch parkende PKW im Kurvenbereich Ruffinistraße / Einmündung von der Waisenhausstraße in die Ruffinistraße (Antrag BA 9 Nr. 1446 vom 18.08.09)
+- TOP 3.17.: =&gt; dazu: Bürgeranliegen: Zuparken der Ruffinistraße Ecke Waisenhausstraße (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.18.: Bürgeranliegen: Parkraummanagement; Anwohnerparklizenz für Carsharing oder Leihwagen
+- TOP 3.19.: Bürgeranliegen: Geh-, Radwegbrücke Pronnerplatz / Nymphenburger Park
+- TOP 3.20.: Bürgeranliegen: Baumaßnahmen Birketweg
+- TOP 3.21.: Antrag CSU: Kein Parken von Bussen im Arnulfpark
+- TOP 3.22.: Antrag CSU: Kein Parken auf dem Kunstwerk auf dem Rainer-Werner-Fassbinder-Platz
+- TOP 3.23.: Baureferat: Realisierung der gleisübergreifenden Wegevernetzung des Neubaugebiets Arnulfpark durch Fußgänger- und Fahrradstege (Antrag BA 9 Nr. 1576 vom 20.10.09)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 28.12.09 - 03.01.10, 04.01. - 10.01.11.01. - 17.01.,18.01. - 24.01. und 25.01.-31.01.10
+- TOP 3.2.: Planungsreferat: Regionalgespräche mit der Lokalbaukommission am 03.03. oder 10.03.10
+- TOP 3.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Novelle der Bayerischen Bauordnung 2008; Bericht zur Umsetzung und erste Erfahrungen aus der Praxis, weiteres Vorgehen
+- TOP 3.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10 und Hinweis/Ergänzung: Stadt bezieht Stellung gegen die Initiative des bayrischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 3.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Ergebnis der Kundinnen-/Kundenbefragung zum Servicezentrum und -telefon der Planungsreferates, Lokalbaumkommission
+- TOP 3.7.: Einblicke.Rückblicke.Ausblicke.München (Magazin anlässlich 30 Jahre Referat für Stadtplanung und Bauordnung)
+- TOP 3.8.: Bauvorhaben Stuberstr. 20: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Baumfällungen
+- TOP 3.9.: Planungsreferat: Bürgeranliegen: Erhöhtes Lärmaufkommen in der Ferdinand-Maria-Straße 32 (Schreiben BA 9 vom 20.10.09)
+- TOP 3.10.: Baureferat: Stand Wiederbegrünung Hof Birkerstr. 3 (Anfrage aus der Bürgerversammlung vom 24.11.09)
+- TOP 3.11.: Deutsche Bahn: Bürgeranliegen Lärmbelästigung der Anwesen Christoph-Rapparini-Bogen 13,15 und 17 durch ICE-Züge (Schreiben BA 9 vom 15.12.09)
+- TOP 3.12.: Planungsreferat: Bauvorhaben Von-Goebel-Platz 8, Vorbescheid
+- TOP 3.13.: Immobilien Freistaat Bayern: Nachnutzung des Geländes Rosa-Luxemburg-Platz / Emma-Ihrer-Straße, südliches Oberwiesenfeld (Schreiben BA 9 vom 12.11.09, Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 3.14.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Dachauer Str. 100-110, Heßstraße südwestlich, Lothstr. 17; Ergänzung zum Eckdatenbeschluss Dachauer Str. 110-114 und Luitpold-Kaserne, Leonrodplatz, Dachauer Straße östlich, Schwere-Reiter-Straße südlich, Infanteriestraße westlich sowie weiteres Vorgehen vom 23.07.08
+- TOP 3.15.: Beschluss der Vollversammlung des Stadtrats vom 03.03.10: Dachauer Straße (nordöstlich) zwischen Willi-Gebhard-Ufer, Olympiapark, Schwere-Reiter-Straße und Leonrodplatz; Entwicklung des Olympischen Dorfes und des Mediendorfes; Grundsatzbeschluss und weiteres Vorgehen
+- TOP 3.16.: Beschluss des Sozialausschusses vom 14.01.10: Bauvorhaben Orffstr. 56; Übernahme der Projektsteuerung durch die GEWOFAG und Anpassung der Projektrahmenbedingungen für o.g. Baugrundstück im Rahmen des kommunalen Wohnbauprogramms (KomPro/B)
+- TOP 3.17.: Bauvorhaben Nymphenburger Str. 150: Nutzungsänderung einer Gastronomie in 3 Spielcasinos
+- TOP 3.18.: Planungsreferat: Plangenehmigung für den Neubau einer Trafostation und Errichtung eines 10 kV Mittelspannungskabels
+- TOP 3.19.: Nichtöffentlich:
+- TOP 3.20.: WEB-Listen vom 16.12.-31.12.09
+- TOP 3.21.: Kommunalreferat: Vorkaufsrecht nach dem BauGB; hier: Schlörstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Südliche Auffahrtsallee 59-60: Fällung von 1 Esche
+- TOP 3.2.: Prinzenstr. 44 - 46: Fällung von 1 Linde
+- TOP 3.3.: Planungsreferat: Fällgenehmigung für Gefahrenbäume Maillingerstr. 18
+- TOP 3.4.: Antrag FDP: Annahme von Altglas, Blech und Plastik am Wertstoffhof Arnulfstraße
+- TOP 3.5.: Baureferat: Bachräumungstermine 2010 für die Stadt- bzw. Stadtrandbäche
+- TOP 3.6.: Planungsreferat: Ablehnungsbescheid Baumfällung Trivastr. 12
+- TOP 3.7.: Planungsreferat: Fällgenehmigung Dom-Pedro-Str. 19 (Schreiben BA 9 vom 13.01.10)
+- TOP 3.8.: Ergebnis der Überprüfung der Ersatzpflanzungen im Bereich des 9. Stadtbezirkes (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.9.: Planungsreferat: Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel/Klimaschutz der Perspektive München; Einladung zur Auftakt- und Abschlussveranstaltung sowie zu thematischen Akteurswerkstätten
+- TOP 3.10.: Planungsreferat: Baumschutzverordnung auch nach dem Urteil des Verwaltungsgerichts München vollziehbar
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag Besonders e.V.: Zuschuss in Höhe von 3.189,01 ? für Therapie mit Menschen mit geistigen und körperlichen Behinderungen
+- TOP 3.2.: Sozialreferat: Informationsveranstaltung für die Bezirksausschüsse, Thema: Einführung in das Monitoring des Sozialreferates am 04.03.10
+- TOP 3.3.: Sozialreferat: Aktionstag für Familien am 30.04.10
+- TOP 3.4.: Bekanntgabe im Schul- und Sportausschuss vom 13.01.10: a) Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2009/2010 b) Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2009/2010 c) Schüler- und Klassenzahlen an den städtischen und staatlichen Realschulen und der Städtischen Franz-Auweck-Abendschule im Schuljahr 2009/2010 d) Schüler/innen und Klassenstand der beruflichen Schulen im Schuljahr 2009/2010 e) Bereinigtes Einschreibeergebnis für das Tageseinrichtungsjahr 2009/2010
+- TOP 3.5.: Frauennotruf München
+- TOP 3.6.: Sozialreferat: Ausschreibung Weltkindertag 2010 (Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 3.7.: Schulreferat: Bürgeranliegen: Dramatische Toilettenlage in der Grundschule am Winthirplatz (Schreiben BA 9 vom 14.12.09)
+- TOP 3.8.: Sozialreferat: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 13.10.09: Haushaltsplan 2010, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Schreiben BA 9 vom 14.12.09)
+- TOP 3.9.: "Große für Kleine" Förderverein der Grundschule am Winthirplatz: Newsletter Nr. 1
+- TOP 3.10.: Zukunft des IWO II Menzingerstraße (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.11.: GEWOFAG: Kinderfreundliche Hausordnung (Schreiben BA 9 vom 16.11.09)
+- TOP 3.12.: Aufnahme in das Programm "Soziale Stadt" für den Bereich Rotkreuzplatz zum Steubenplatz (Wiedervorlage aus der Sitzung vom 15.12.09)
+- TOP 3.13.: KVR: Lilalu-Sommerfestival, Rücknahme der Nutzungsgebühren für 2009 (Empfehlung aus der Bürgerversammlung vom 24.11.09), Zwischennachricht
+- TOP 3.14.: Verwendungsnachweis über einen Zuschuss aus dem Budget des BA 9, hier: Lilalu e.V. a) Spielprogramm Umsonst & Draußen b) Musikprogramm
+- TOP 3.15.: Verein Erholungspark für Kriegs- und Körperbeschädigte München e.V.: Kündigung des Pachtgeländes an der Taxisstr. 12
+- TOP 3.16.: Bayer. Schlösser- und Seenverwaltung: Ehemaliges Erholungsparkgelände an der Taxisstr. 12 (Schreiben BA 9 vom 18.12.09)
+- TOP 3.17.: =&gt; dazu: Ausschreibungstext Nachnutzung
+- TOP 3.18.: Schulreferat: Beschlussvorlage Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 3 Kindergarten- und 2 Kinderkrippengruppen am Eisnergutbogen (Birketweg-West III); Genehmigung des Nutzerbedarfsprogramms
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Antrag CSU: Mehr Ausleih- und Rückgabeterminals in der neuen Bibliothek im Neuhauser Trafo
+- TOP 3.2.: Antrag SPD: "Kultur unterwegs"
+- TOP 3.3.: Projekt "Zeitkapsel"
+- TOP 3.4.: Künstler im Atelierhaus Dachauer Str. 110g: Neubebauung des Geländes Dachauer Str. 100 - 110
+- TOP 3.5.: Antrag Janusch Kozminski Filmproduktion: Zuschuss in Höhe von 12.000 ? für die Erstellung von sechs Filmen über Straßen (Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Faschingsclub Neuhausen e.V.: Zuschuss in Höhe von 500 ? für das Faschingstreiben am Rotkreuzplatz vom 14.-16.02.10
+- TOP 4.2.: Direktorium: Budget der Bezirksausschüsse, Erfahrungsbericht 2009
+- TOP 4.3.: Sozialreferat: Interkultureller Integrationsbericht der LH München; Indikator: kommunalpolitische Mandate von Menschen mit Migrationshintergrund
+- TOP 4.4.: KVR: Sport- und Picknickveranstaltungen der Agape-Jugend in der Grünanlage Hirschgarten am 24.04., 29.05., 26.06., 28.08., 25.09. und 30.10.10
+- TOP 4.5.: KVR: Europatag am 07.05.10 auf dem Rotkreuzplatz
+- TOP 4.6.: KVR: Kundgebung am 29.01.10 gegenüber Menzinger Str. 3 (Türkisches Generalkonsulat) zum Thema: Solidarität mit streikenden Tekel Arbeiter_innen in der Türkei
+- TOP 4.7.: KVR: Kundgebung am 05.02.10 in der Romanstraße gegenüber dem Generalkonsulat der VR China zum Thema: Menschenrechtsverletzungen in der VR China
+- TOP 4.8.: Beschluss des Bauausschusses vom 19.01.10: Lichtkonzept für den öffentlichen Raum in München
+- TOP 4.9.: KVR: Pächterwechsel Gaststätte "Fu Ji", Renatastr. 12
+- TOP 4.10.: Bürgeranliegen: Genehmigung für den Verkauf von Schnee-Eis im Hirschgarten 2010
+- TOP 5: Verschiedenes
