@@ -1,0 +1,77 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-02-24T17:00:00+01:00
+- Ende: 2010-02-24T22:28:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1135
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1135
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Verurteilung von politisch motivierter Gewalt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Berufung eines stellv. Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung des Mandats als Bürgerdeputierter im Ausschuss für Naturschutz und Grünflächen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Nachrücken einer stellvertretenden Bürgerdeputierten als Bürgerdeputierte - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Programm gegen Homophobie - beantwortet
+- TOP 8.2: Pädagogisches Konzept ohne Kontrolle? - beantwortet
+- TOP 8.3: Unterbringung von Neuköllner Kindern und Jugendlichen in Röttersdorf und Frostenwalde - beantwortet
+- TOP 8.4: Kein Alkohol für Kinder und Jugendliche - beantwortet
+- TOP 8.5: Mobilitätshilfe in Neukölln - beantwortet
+- TOP 8.6: Treberhilfe in Neukölln - schriftlich beantwortet
+- TOP 8.7: Papierkörbe ändern - beantwortet
+- TOP 8.8: Elternbeteiligung - schriftlich beantwortet
+- TOP 8.9: Öffnungszeiten von Jugendclubs - beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Stopp oder Weiterbau der A 100? - beantwortet
+- TOP 9.2: (Nicht)Raucherschutzgesetz? - schriftlich beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Zukunft des "Kids Garden" - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplan XIV-256-1 vom 08.01.2009 - Am Bergpfuhl - - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Entschärfung Gefahrensituation auf der Hermannbrücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Arbeitsgelegenheiten für psychisch- und suchtkranke Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Straßenschäden infolge des Frostes - beantwortet
+- TOP 11.2: Folgen der Frostschäden für Neukölln? - beantwortet
+- TOP 11.3: Musikschule Neukölln - beantwortet
+- TOP 11.4: Endstation Kirgisien? - beantwortet
+- TOP 11.5: Nachnutzung Tempelhof - beantwortet
+- TOP 11.6: Zuzug als Chance für Nordneukölln! - beantwortet
+- TOP 11.7: Rechtsextreme Straftaten - vertagt
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Alternative Wohnformen für ältere Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Bildungs- und Kulturzentrum "Europa" - überwiesen
+- TOP 13.3: Deklaration "Biologische Vielfalt in Kommunen" - überwiesen
+- TOP 13.4: Zusätzliche Mittel für Neuköllner Straßen - überwiesen
+- TOP 13.5: Postalische Versorgung sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Weiterbau der A 100 stoppen - überwiesen
+- TOP 13.7: Eingänge zum Tempelhofer Feld - überwiesen
+- TOP 13.8: Bürgerbeteiligung im Aktionsraum - überwiesen
+- TOP 13.9: FNP-Änderungsverfahren Tempelhofer Feld - überwiesen
+- TOP 13.10: Bezirke sollen vom steigenden Tourismus profitieren - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Anonyme Geburt bei Vivantes-Neukölln ermöglichen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Schulwegsicherung Silberstein-Grundschule III - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: B-Plan XIV-47 e/1 vom 21.04.1989 - Festplatz am See im Britzer Garten - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: B-Plan XIV-216 vom 24.01.1990 - Wissmannstraße/Karlsgartenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: B-Plan XIV-24-1 vom 20.06.2000 - Gewerbezentrum Naumburger Straße/Lahnstraße - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Netzwerk Kinderschutz mit Leben ausfüllen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Bebauungsplan XIV-185cba vom 13.02.2008 ("Sanierungsgebiet Wederstraße - Erweiterung der Zürich-Grundschule") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Verkehr zur und auf der Autobahn A 100/A 113 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Bebauungsplan XIV-185cba vom 13.02.2008 mit Deckblatt vom 10.06.2009 ("Sanierungsgebiet Wederstraße - Erweiterung der Zürich-Grundschule") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Bänke für die Grünanlage vor dem Bürgeramt Blaschkoallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Fahrradständer für das Bürgeramt Blaschkoallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Übernahme von Mietrückständen nach SGB II - mit Abschlussbericht zur Kenntnis genommen
