@@ -1,0 +1,150 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-02-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1871716
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1871716
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Vorstellung des Planfeststellungsverfahrens Aubing-Ost-Straße durch Aurelis
+- TOP 1.6: Bau einer rumänisch-orth. Einrichtung, Vorstellung durch Weihbischof Patrunjel
+- TOP 1.7: Projekt Agropolis - eine Farm für Freiham
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Helfer vor Ort - Aubing / Akzeptanz in der ILST München, Schr. BRK vom 01.02.10
+- TOP 2.2.: Parksituation Ecke Henschelstr. / Federseestr.
+- TOP 2.3.: Baumfällung Brunham- / Ecke Papinstraße, Antrag auf Neubepflanzung (UA Planung)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen auf Anforderung: - Noderstr. 12 - 12b, 1 Nußbaum - Altostr. 55, 1 Ahorn - Berglwiesenstr. 132, 1 Kiefer, 1 Esche
+- TOP 3.1.2.: Baumfällungen zu einem Bauvorhaben: - Lidelstr., gem. Baumbestandsplan Nr. 2009-31215 - Sandbergstr. 12, gem. Baumbestandsplan Nr. 2009-31722 - Am Gleisdreieck, gem. Baumbestandsplänen Nr. 2009-30924 - Veldensteinstr. 7, gem. Baumbestandsplan Nr. 2009-30329 - Papinstr. Fl. Nr. 3539/132, Baumbestandsplan Nr. 2010-1853 - Kohlmeisenstr. 12, Baumbestandsplan Nr. 2009-32634
+- TOP 3.1.3.: Fällungsgenehmigung: Ravensburger Ring 5 - 27
+- TOP 3.1.4.: Fällung von Gefahrenbaum: Schule Wiesentfelserstr. 53, Schr. Baureferat vom 22.12.09
+- TOP 3.2: Regsam-Beauftragte
+- TOP 3.4: Jugendbeauftragte
+- TOP 3.6: Migrationsbeauftragte
+- TOP 3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Umlaufsperren für die Parkeingänge des Freizeitgeländes zwischen Wiesentfelser Straße und Ehrenbürgstraße
+- TOP 4.2.: Tag der Familie am 30.04.10 - Übernahme der Kosten für Zauberer oder Kindertheater
+- TOP 4.3.: Querung der Limesstraße
+- TOP 4.4.: Forderungen an die Untere Naturschutzbehörde bezüglich der vom BA behandelten Baumschutzfälle
+- TOP 4.5.: Absolutes Haltverbot Federseestr. ab Hausnummer 7 bis zur Ziegeleistr.
+- TOP 4.6.: Sachstand Agroplis - Eine Farm in Freiham
+- TOP 4.7.: Bebauungsplan mit Grünordnung Nr. 1977, Bebauungsplanumgriff Aubing-Ost-Str. - Hornberger Str., Bebauung der ehem. DB-Einrichtungen
+- TOP 4.8.: Erinnerungsantrag: Ökologische und historische Lehrpfade in der Moosschweige und Aubinger Lohe
+- TOP 4.9.: Verknappung des Zugangebotes auf der Linie S4
+- TOP 5: Entscheidungen
+- TOP 5.1.: Gewährung eines Zuschusses aus Budget des BA 22, Antragsteller: Burschenverein Aubing e.V. (UA Budget)
+- TOP 5.2.: Verbindungsspange zwischen Bergsonstraße und Kronwinkler Straße, Beschluss des Bezirksausschusses
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.1.1.: Veranstaltung auf Privatgrund: Schwarze Wochen, Kulturwochen für den Münchner Westen von der CSU in Bayern e.V. auf der Festwiese am Belandwiesenweg vom 06.03. - 20.03.2010, Anhörung KVR vom 18.01.10
+- TOP 6.1.1.2.: Veranstaltung auf öffentlichen Verkehrsgrund: Maibaumaufstellung und Festzug des Burschenverein e.V. im Bereich Schwemmstr. am 01.05.10, Anhörung KVR vom 02.02.10
+- TOP 6.1.1.3.: Mehr Einflussmöglichkeiten für junge Menschen, Anhörung Direktorium vom08.02.10
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Bestätigung für Kinderfasching des BA 22 am 14.02.10, Schr. KVR vom 14.01.10
+- TOP 6.1.2.2.: Raumsituation in der Jugendfreizeiteinrichtung Aubinger Tenne (Ziffer 7 des Antrages), Schr. Planungsreferat vom 22.01.10
+- TOP 6.1.2.3.: Kindersprechstunde des BA 21 am 20.11.09: Spielmöglichkeiten im Ebenböckpark und Ameisenprobleme am Abenteuerspielplatz an der Mainaustraße, Schr. BA 21 vom 29.01.10
+- TOP 6.1.2.4.: Informationen über Verhandlungsstand zur Schulversorgung mit dem Freistaat Bayern, Schr. Schul- und Kultusreferat vom 29.01.10
+- TOP 6.1.2.5.: Probleme in der Zusammenarbeit des BA 1 mit dem Schulreferat, Schr. BA 1 vom 27.01.10
+- TOP 6.1.2.6.: Veranstaltungen / Kooperationen im Februar 2010, Schr. Kulturreferat vom 01.02.10
+- TOP 6.1.2.7.: Grundstückssuche für Hundeverein, Schr. Kommunalreferat vom 29.01.10
+- TOP 6.2: UA Budget
+- TOP 6.2.1.: Budget der Bezirksausschüsse - Erfahrungsbericht 2009, Schr. Direktorium vom 13.01.10
+- TOP 6.2.2.: Angebote zur Gewaltprävention in der Schule, Schr. Direktorium vom 01.02.10
+- TOP 6.2.3.: Antrag auf Budgetmittel des BA 22: Verwendung für eigene Veranstaltung - Kinderball 2010, Schr. Direktorium vom 02.02.10
+- TOP 6.2.4.: Budget des BA 22: hier: Verwendung für eigene Veranstaltungen, "1000 Jahre Aubing", Schr. Direktorium vom 05.02.2010
+- TOP 6.2.5.: Bescheid, Zuwendungsbewilligung für das Aubinger Archiv e.V., Schr. Direktorium vom 08.02.10
+- TOP 6.2.6.: Bescheid, Zuwendungsbewilligung für den Elternbeirat der Hauptschule Wiesentfelser Str., Schr. Direktorium vom 09.02.10
+- TOP 6.2.7.: Hauptschule an der Wiesentfelser Straße, Dank für Bezuschussung aus dem BA-Budget
+- TOP 6.3: UA Freiham
+- TOP 6.3.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.3.1.1.: Centa-Hafenbrädl-Straße: Abgrabung der anthropogenen Auffüllung im Vorfeld von Baumaßnahmen (Centa-Hafenbrädl-Str. / Papinstraße), Anhörung Planungsreferat vom 21.01.10
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.3.2.1.: Planfeststellung nach § 18 AEG; Neubau der S-Bahn-Station Freiham - Strecke 5541 München-Westkreuz-Herrsching, km 4,182 - 4,406 in der Landeshautpstadt München, Schr. Planungsreferat vom 07.01.10
+- TOP 6.3.2.2.: Beginn Baumaßnahme - Bahnhof Freiham, Schr. Kommunalreferat vom 12.01.10
+- TOP 6.3.2.3.: Mitteilung über ein Grundstücksgeschäft: - Flst. 3509/18, 3509/17, Centa-Hafenbrädl-Straße - Flst. 3514, 3506/3, Am Gut Freiham - Flst. 3509/12, Anton-Böck-Straße - Flst. 3508/22 Aubing, Hans-Stützle-Straße - Flst. 3509/12 (Tlfl.) Aubing, Anton-Böck-Straße
+- TOP 6.3.2.4.: Kanalbau Gewerbegebiet Freiham, Freihamer Allee - Projektgenehmigung, Schr. Münchner Stadtentwässerung vom 16.12.09
+- TOP 6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.4.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.4.1.1.: Überprüfung Lichtzeichenanlagen im Stadtbezirk 22, Anhörung KVR vom 18.01.10
+- TOP 6.4.1.2.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 VwVfG; Umbau Bahnübergang Hellensteinstraße, Strecke 5520 München-Pasing-Buchloe - Bahnhof München Pasing, km 9,375, Anhörung Planungsreferat vom 25.01.10
+- TOP 6.4.1.3.: Ubostr. 32-34 - Neubau von 9 Reihenhäusern mit TG; Sanierung bzw. Nutzungsänderung einer Metzgerei, Anhörung Planungsreferat vom 29.01.10
+- TOP 6.4.1.4.: Am Bahnsportplatz - Neubau zweier Dreispänner mit Tiefgarage, Anhörung Planungsreferat vom 29.01.10
+- TOP 6.4.1.5.: Papinstraße, Fl.Nr. 3539/132, Neubau eines Mehrfamilienhauses mit Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 03.02.10
+- TOP 6.4.1.6.: Centa-Hafenbrädl-Straße: Abgrabung der anthropogenen Auffüllung im Vorfeld von Baumaßnahmen (Centa-Hafenbrädl-Str. / Papinstr.), Anhörung Planungsreferat vom 21.01.10
+- TOP 6.4.1.7.: Verkehrsrechtliche Anordnung, Absolutes Haltverbot Ubostraße, Anhörung KVR vom 04.02.10
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.4.2.1.: Baufälle im 22. Stadtbezirk ( v.28.12.09 - 03.01.10, 11.01.10 - 17.01.10, 18.01.10 - 24.01.10, 25.01.10 - 31.01.10, 01.02.-07.02.10), Schr. Planungsreferat vom 11.01.10, 18.01.10, 25.01.10, 02.02.10, 08.02.10
+- TOP 6.4.2.2.: Mitteilung über ein Grundstücksgeschäft: - Flst. 1602 Aubing - Elisabeth-Jost-Straße
+- TOP 6.4.2.3.: Verlängerung der Route des Badebusses zur Langwieder Seenplatte (Ziffer 4 des Antrages), Schr. Münchner Linien GmbH & Co. KG vom 05.01.10
+- TOP 6.4.2.4.: Aufhebung des personenbezogenen Behindertenparkplatzes in der Kallenbergstr. 38, Schr. KVR vom 24.11.09
+- TOP 6.4.2.5.: Einrichtung eines Haltverbots (Z 283) in der Bergsonstraße Nordseite östlich Kronwinklerstraße, Schr. KVR vom 28.12.09
+- TOP 6.4.2.6.: MVV-Regionalbuslinie 267 - Anbindung der Papinstraße, Schr. MVV vom 12.01.09
+- TOP 6.4.2.7.: Baumaßnahmen der Stadtwerke, Stichtag: 18.01.10, 25.01.10, 01.02.10, 08.02.10
+- TOP 6.4.2.8.: Vollzug der Wassergesetze: Bachräumungstermine 2010 für die Stadt- und Stadtrandbäche, Schr. Baureferat vom 14.01.10
+- TOP 6.4.2.9.: Schaffung von 4 Kurzzeitparkplätzen in Lochhausen an der Lochhausener Straße, Schr. KVR vom 11.01.10
+- TOP 6.4.2.10.: Einrichtung einer weiteren Zufahrt für das Feuerwehrgerätehaus an der Ubostraße für Freiwillige Feuerwehr, Abt. Aubing (Antrag Nr. 1729 des BA 22 vom 20.12.2006), Schr. KVR vom 08.01.10
+- TOP 6.4.2.11.: Überprüfung der Verkehrssituation in der Ranertstraße und Langwieder Hauptstraße bis zur Eschenrieder Straße und Keltenafferstraße in Lochhausen, Straßeneinmündung von der Lochhausener Straße in die Schussenrieder Straße (Antrag Nr. 1677 des BA 22 vom 25.11.09), Schr. KVR vom 11.01.2010
+- TOP 6.4.2.12.: Verkehrsrechtliche Anordnung: Haltverbot in der Spieltränkergasse 4, Schr. KVR vom 19.01.10
+- TOP 6.4.2.13.: Neuerrichtung einer Flüssiggasanlage (14,5 Tonnen) am Dietmar-Keese-Bogen 4, Zulassung des vorzeitigen Beginns (Bescheid), Schr. Referat für Gesundheit und Umwelt vom 15.01.10
+- TOP 6.4.2.14.: Erlaubnis für Filmaufnahmen auf öffentlichen Verkehrsgrund im gesamten Stadtgebiet: Produktion "Aktenzeichen XY... ungelöst", Schr. KVR vom 22.01.10
+- TOP 6.4.2.15.: Beteiligung der Öffentlichkeit: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/28 und Bebauungsplans mit Grünordnung Nr. 1977 - Aubing-Ost-Straße (südlich), Hornberger Str. (westlich), Bahnlinie München-Pasing-Buchlohe (nördlich), Berberichweg (östlich), Joseph-Suder-Bogen (östlich), Schr. Planungsreferat vom 26.01.10, 25.01.10, 28.01.10
+- TOP 6.4.2.16.: Befahren des Gehwegs in der Pretzfelder Str. 9-11 durch Pkw und Busse, Schr. KVR vom 21.01.10
+- TOP 6.4.2.17.: Schaffung einer Unterführung für Radfahrer / Fußgänger unter der Auffahrtsrampe der A 99 an der Lochhausener Straße zwischen der Autobahn und der Straße "Am Langwieder Bach", Schr. Planungsreferat vom 27.01.10
+- TOP 6.4.2.18.: Verkehrliche Maßnahmen im Ortskern Lochhausen, Schr. KVR vom 12.01.10
+- TOP 6.4.2.19.: Vorplanung der P+R-Anlage Aubing, Schr. P+R GmbH vom 01.02.10
+- TOP 6.4.2.20.: Entfernung des "Durchfahrt-verboten-Schildes" an der Einfahrt zum Manganusweg, Schr. KVR vom 25.01.10
+- TOP 6.4.2.21.: Anbringung von Hausnummern an Straßenschildern in der Industriestraße und Mariabrunnerstraße, Schr. Kommunalreferat vom 03.02.10
+- TOP 6.4.2.23.: Mobilfunk; Suchkreismeldung, hier: vorgesehene UMTS-Erweiterung am bestehenden GSM-Standort Gemarkung Langwied, Fl.Nr. 190 (Mooswiesenstr. 109), Schr. Ref. f. Gesundheit und Umwelt vom 04.02.10
+- TOP 6.4.2.24.: Aktuelles Platzangebot auf der Linie S3, Schr. DB vom 25.01.10
+- TOP 6.4.2.25.: Bodenseestr. 194 - Errichtung eines gestaffelten Anbaus, Antwort des Planungsreferates vom 22.01.10
+- TOP 6.4.2.26.: Zusätzliche Fahrradständer am S-Bahnhof Neuaubing, Schr. Baureferat vom 03.02.10
+- TOP 6.4.2.27.: Einrichtung eines absoluten Haltverbotes im Bereich der Spieltränkergasse Ausfahrt Anwesen Marzellgasse 7 und Ausfahrt Spieltränkergasse 4, Schr. KVR vom 19.01.10
+- TOP 7.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/29 Industriestraße (westlich), Altostraße (östlich), Anhörung Planungsreferat vom 12.02.10
+- TOP 7.2.: Antrag auf Feuerwerk der Klasse 2 am 08.05.10 in der Trimburgstraße, Anhörung KVR vom 15.02.10
+- TOP 7.3.: Erinnerungsverfahren, Fahrbahnsanierung nach Fernwärme-Grabung Mainaustr. 1-71 von Bodenseestraße bis Radolfzeller Straße, Anhörung Baureferat vom 10.02.10
+- TOP 7.4.: Bundesautobahn A 8 München-Ulm; Bundesautobahn A 99, Autobahnring München; Ausbau AK München West, Plangenehmigung, Anhörung Planungsreferat vom 15.02.10
+- TOP 7.5.: Novellierung der Sondernutzungsrichtlinien, Anhörung KVR vom 19.02.10
+- TOP 8.1.: Unveränderte Fortführung der Gaststätte "Luca's", ehem. "Piccolo Pausa", Limesstr. 105, Schr. KVR vom 18.01.10
+- TOP 8.2.: Nutzungserlaubnis für den Circus Rio - Werbung für den Baumarkt "Praktiker", Schr. Kommunalreferat vom 28.01.10
+- TOP 8.3.: Wirtschafts-Info 01/2001, Schr. Referat für Arbeit und Wirtschaft vom 29.01.10
+- TOP 8.4.: Protokolle der BA-Sitzungen des BA 22 im RIS veröffentlichen, Schr. Direktorium vom 27.01.10
+- TOP 8.5.: Zweckentfremdung von Wohnraum: Altenburgstraße
+- TOP 8.6.: Neuerrichtung des Gaststättenbetriebes, hier: Club 124 Exclusiv, Lochhausener Str. 124, Schr. KVR vom 04.02.10
+- TOP 8.7.: Baumaßnahmen der SWM, Fernwärmeprojekt Erschließungsgebiet Westkreuz - Mainaustraße, 1. Bauabschnitt, Schr. SWM vom 11.02.10
+- TOP 8.8.: Bauplanungen an der Osterangerstraße, Schr. Planungsreferat vom 11.02.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Bauausschusses vom 19.01.10: Lichtkonzept für den öffentlichen Raum in München (UA Planung)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 03.02.10: - Novelle der Bayer. Bauordnung 2008 (UA Planung) - Siedlungsschwerpunkt Freiham, Städtebauliche Einbindung und Qualität der Vorhaltefläche für eine Trambahntrasse (UA Freiham) - Ausgleichsflächen in der Bauleitplanung - Gesamtstädtisches Konzept (UA Planung) - Stadt bezieht Stellung gegen die Initiative des bayer. Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung - Hinweis/Ergänzung - Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und - telefon des Planungsreferats - LBK
+- TOP 10.3.: Beschlus des Ausschusses für Stadtplanung und Bauordnung vom 13.01.10: Stadt bezieht Stellung gegen die Initiative des bayer. Wirtschaftsministerums zur Liberalisierung der Einzelhandelsentwicklung -Beschluss vertagt -
+- TOP 10.4.: Beschluss des Kulturausschusses vom 21.01.10: Sicherung des Standorts Ehrenbürgstr. 9 für Ateliers und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unter Denkmalschutz/Ensembleschutz stehenden Anlage - Beschluss vertagt (UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: AKtionsforum für Familien - Aktionstag für Familien am 30.04.10, Schr. Sozialreferat vom 27.01.10
+- TOP 11.2.: Einladung zur Informationsveranstaltung für Bezirksausschüsse durch das Sozialreferat am 04.03.10 von 18 - 20 Uhr, Schr. Sozialreferat am 01.02.10
+- TOP 11.3.: Einladung zum Fachgespräch "Politische Arbeit mit Comics: Comics von Rechts - Comics gegen Rechts" am 11.03.10 von 15.30 - 17.30 Uhr im Feierwerk/Orangehouse
+- TOP 11.4.: Forum 22: Gemeinsame Infoveranstaltung von BA 22 und BA 21 zum Thema: Tramverlängerung von Pasing nach Freiham am 25.03.2010 um 19.30 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 11.5.: Podiumsdiskussion "Solarenergie in München - Sackgasse oder Chance?", am 25.02.10 von 15.-18.00 Uhrim Münchner Stadtmuseum, St. Jakobs-Platz1
+- TOP 11.6.: Tag gegen Lärm am 28.04.2010, Beiträge zum Programm - Umgebungslärm (UA Umwelt)
+- TOP 11.7.: Regionalgespräch 2010 zwischen LBK und BA am 14.04.10 um 17.00 Uhr im Raum 614, Blumenstr. 19, Schr. Planungsreferat vom 17.02.10
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 17.03.2010 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7: Anhörungen / Stellungnahmen (4)
+- TOP 8: Unterrichtungen / Bekanntgaben (4)
+- TOP 6.4.2.22.: Mobilfunk; Suchkreismeldung, hier: vorgesehene UMTS-Erweiterung am bestehenden GSM-Standort Anton-Böck-Str. 30, Schr. Ref. f. Gesundheit und Umwelt vom 04.02.10
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.3: Kinderbeauftragte
+- TOP 3.5: Beauftragte für das Jubiläumsjahr 2010
