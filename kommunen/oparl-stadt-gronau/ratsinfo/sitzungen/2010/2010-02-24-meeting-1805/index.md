@@ -1,0 +1,55 @@
+# Rat (5. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-02-24T18:00:00+01:00
+- Ende: 2010-02-24T22:30:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfGH3WtT9YEGhOcncan6Fqs
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1805
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeTCfRQnfdudHDDKf3BJT_XeOCelHg6bxCkSrawBiA3X/Bekanntmachung_Rat_24.02.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWl_9U9_m439Q285hD52VCvxaG6ya9NDasJBpFh8GZUu/Oeffentliche_Niederschrift_Rat_24.02.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 20.01.2010
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Provisorische Parkfläche für das St. Antonius-Hospital: Antrag der FDP-Fraktion vom 03.01.2010 - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Beanstandung des Beschlusses zur Änderung der Gesellschaftsverträge kommunaler Gesellschaften und der Beschlüsse zur Bestellung von Vertretern/innen in Organen juristischer Personen bzw. Niederlegung dieser Ämter; Antrag der SPD-, FDP-, UWG- und GAL-Fraktion vom 11.02.2010 sowie Kenntnisnahme der Aufhebungsverfügung des Kreises Borken vom 04.02.2010 – Aktenzeichen 14-15 18 01 - 23 Jastimmen, 15 Neinstimmen, 3 Enthaltungen
+- TOP 3.3: Änderung der Hauptsatzung der Stadt Gronau (Westf.) Antrag der Fraktion Pro! Bürgerschaft vom 12.02.2010 - Einstimmig, 5 Enthaltungen
+- TOP 4.: Einbringung des Bugetentwurfes 2010 - Einstimmig, 0 Enthaltungen
+- TOP 5.: nicht-öffentliche Vorlage - Einstimmig, 0 Enthaltungen
+- TOP 6.: nicht-öffentliche Vorlage - Einstimmig, 0 Enthaltungen
+- TOP 7.: nicht-öffentliche Vorlage - Einstimmig, 0 Enthaltungen
+- TOP 8.: nicht-öffentliche Vorlage - Einstimmig, 0 Enthaltungen
+- TOP 9.: nicht-öffentliche Vorlage - 20 Jastimmen, 19 Neinstimmen, 2 Enthaltungen
+- TOP 10.: Beanstandung des Beschlusses des Rates vom 03.02.2010 zur Erstellung eines Wortprotokolls der Ratssitzung am selben Tage - 17 Jastimmen, 8 Neinstimmen, 16 Enthaltungen
+- TOP 11.: Baudenkmal Wasserturm, Eschweg Überplanmäßige Bereitstellung und Freigabe der Mittel für den ersten Bauabschnitt der Sanierung des Wasserturms - Einstimmig, 0 Enthaltungen
+- TOP 12.: Einführung des getrennten Abwassergebührenmaßstabes für Schmutz- und Niederschlagswasser hier: Neufassung der Beitrags- und Gebührensatzung zur Abwasserbeseitigungssatzung der Stadt Gronau (Westf.) - 33 Jastimmen, 8 Neinstimmen, 0 Enthaltungen
+- TOP 13.: Bekanntmachung über das Ende der vertraglich vereinbarten Laufzeit des Konzessionsvertrages mit der Stadtwerke Gronau GmbH - Ohne Abstimmung
+- TOP 14.: Beschluss über den Erlass einer Veränderungssperre gem. § 16 BauGB für den Geltungsbereich des Bebauungsplans Nr. 139 "Dibeliusstraße", Stadtteil Gronau - Einstimmig, 0 Enthaltungen
+- TOP 15.: Vertrag über die kommunale Finanzierung des Trägeranteils zu den Betriebskosten der Tageseinrichtung Pusteblume in Trägerschaft der Chance GmbH - Einstimmig, 1 Enthaltungen
+- TOP 16.: Terminplanung für das 2. Quartal 2010 sowie Ergänzungen für das 1. Quartal - Ohne Abstimmung
+- TOP 17.: Gemeindekongress 2010 des Städte- und Gemeindebundes NRW; Entsendung sechs weiterer Vertreter - Einstimmig, 0 Enthaltungen
+- TOP 18.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Besuch der Synagoge in Enschede
+- TOP 19.2: Sportstättenentwicklungsplan für die Fraktionsvorsitzenden
+- TOP 19.3: Abrissantrag für die St.-Antonius-Kirche genehmigt
+- TOP 20.: Anfragen
+- TOP 20.1: Notfallpraxen im Kreisgebiet (RM Doetkotte/RM Krause)
+- TOP 20.2: Sanierungsbedarf an der Kfz.-Halle der Feuerwehr (RM Hönerlage)
+- TOP 20.3: Schadensersatzforderungen wegen Eisglätte (RM Hönerlage)
+- TOP 20.4: Niedrigere Preise im Beherbergungsgewerbe? (RM Wagner)
+- TOP 20.5: Erkenntnisse aus dem Vorfall bei der Fa. Urenco Deutschland GmbH (RM Buchholz)
+- TOP 20.6: Kosten für die Beseitigung der Frostschäden (RM Roters/RM Lenz)
+- TOP 20.7: Auswirkungen der vorgeschlagenen Gewerbesteuererhöhung auf die Gronauer Unternehmen (RM Bartels)
+- TOP 20.8: Einbußen bei der Einkommenssteuer wegen Grenzpendlern (RM Bartels)
+- TOP 20.9: Holzschutzwand Gildehauser Straße/Händelstraße (RM Buchholz)
+- TOP 20.10: Abschaltung der Ampelanlage am WZG (RM Bartels)
+- TOP 20.11: Ende des Pachtvertrages mit der DJK Arminia Gronau 54 e.V. (RM Roters)
+- TOP 20.12: Aktueller Strahlenschutzbericht (RM Buchholz)
