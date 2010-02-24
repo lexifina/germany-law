@@ -1,0 +1,51 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-02-24T16:00:00+01:00
+- Ende: 2010-02-24T19:50:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2802
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2802
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00135814.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00135814.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00135814.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzungen am 18.11.2009 und 13.01.2010 - zur Kenntnis genommen
+- TOP 3.1: Information zur Wehrhahn – Linie - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 4.1: Kö-Bogen: Verkehrsführung während der Bauphase - zur Kenntnis genommen
+- TOP 4.2: Aufnahme Radstation in Liste der Radstationen des AGFS - zur Kenntnis genommen
+- TOP 4.3: Verlängerung Straßenbahnlinie 701 ISS-Dome - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Ergänzung von Radwegmarkierungen - mehrheitlich abgelehnt
+- TOP 5.2: Nahverkehrsplan der Landeshauptstadt Düsseldorf - mehrheitlich abgelehnt
+- TOP 5.3: Prüfauftrag: City-Linie - einstimmig beschlossen
+- TOP 5.4: Fahrgastinformation und Krisenmanagement bei Havarien im Schienenpersonen-nahverkehr - einstimmig beschlossen
+- TOP 5.5: Hinweise auf Aufzüge an U-Bahn-Stationen - einstimmig beschlossen
+- TOP 5.6: Mit der Bahn nach Viersen und Eindhoven - einstimmig beschlossen
+- TOP 5.7: NVP: Barrierefreier Haltestellenausbau - mehrheitlich abgelehnt
+- TOP 5.8: NVP: Abend- und Nachtverkehr - mehrheitlich abgelehnt
+- TOP 5.9: NVP: U 81 - mehrheitlich abgelehnt
+- TOP 5.10: Barrierefreier Haltestellenausbau Luegplatz - einstimmig beschlossen
+- TOP 5.11: Sonderverkehr - mehrheitlich beschlossen
+- TOP 5.12: Änderungsantrag zur Vorlage 61/13/2010 – Gutachterverfahren „Gerresheim Süd verbinden“ - mehrheitlich abgelehnt
+- TOP 6: Verkehrsbericht 2009 - zur Kenntnis genommen
+- TOP 7: Gutachterverfahren "Gerresheim Süd verbinden" - zur Kenntnis genommen
+- TOP 8: Sachstandsbericht Modernisierungsoffensive Bahnhöfe (MOF 2) - zur Kenntnis genommen
+- TOP 9: Entwurf des 3. Nahverkehrsplanes LHD - vertagt
+- TOP 10: Kö - Bogen - 2. Bauabschnitt -Verlagerung südlicher Tunnelmund - zur Kenntnis genommen
+- TOP 11: Geänderte Führung der Straßenbahnlinien 706 und 715 im Rahmen der Baumaßnahme Kö-Bogen - zur Kenntnis genommen
+- TOP 12: Kö - Bogen – Verkehrsanlagen - zur Kenntnis genommen
+- TOP 13: Nördlicher Zubringer - 3. Fahrspur stadteinwärts - zur Kenntnis genommen
+- TOP 14: Vorrangschaltung für die U 78 bei Fan - Transporten - zur Kenntnis genommen
+- TOP 15: Bericht über die Auftragsvergaben des Amtes für Verkehrsmanagement - zur Kenntnis genommen
+- TOP 16: Freigabe eines verkaufsoffenen Sonntags am 21. März - mehrheitlich beschlossen
+- TOP 17: Freigabe verkaufsoffener Sonntage im Jahre 2010 - zurückgezogen
+- TOP 18: Neuwahl einer Schiedsperson - zur Kenntnis genommen
