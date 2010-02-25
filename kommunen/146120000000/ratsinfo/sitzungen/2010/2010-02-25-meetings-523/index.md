@@ -1,0 +1,65 @@
+# 9. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-02-25T16:00:00+01:00
+- Ende: 2010-02-25T22:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/523
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/523
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2010_02_25 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00021725.pdf
+- Wortprotokoll: Beschlussausfertigung_V0380/09 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00022909.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte (1 Fragerunde)
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Besetzung des zeitweiligen Ausschusses "Technisches Rathaus Hamburger Straße"
+- TOP 6: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - gewählt
+- TOP 7: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - gewählt
+- TOP 8: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 9: Umbesetzung im Ausschuss für Finanzen und Liegenschaften, - gewählt
+- TOP 10: Umbesetzung im Jugendhilfeausschuss
+- TOP 11: Besetzung des zeitweiligen Ausschusses "Untersuchung des Verwaltungshandelns bei der Festsetzung von Straßenausbaubeiträgen" - gewählt
+- TOP 12: Umbesetzung im Ortsbeirat Plauen - Zustimmung
+- TOP 13: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Friedhofssatzung) vom 29. Juni 2006 - Zustimmung
+- TOP 14: Einrichtung von Fahrradstationen an den beiden Dresdner Fernbahnhöfen - Ablehnung
+- TOP 15: Verbesserung der Betreuungsqualität in den Dresdner Kindertagesstätten - Zustimmung mit Änderung
+- TOP 16: Alternative Maßnahmen für die aus der EFRE-Förderung nach V2982 ausgeschiedenen Teile der Entwicklungsgebiete in Löbtau und Plauen - Zustimmung mit Änderung
+- TOP 17: Einführen eines Sozialtarifes - Sozialticket - Vertagung
+- TOP 18: Dresden unterzeichnet Pflege-Charta - Vertagung
+- TOP 19: Abriss verhindern - Wohngebiet Seidnitz/Tolkewitz erhalten - Vertagung
+- TOP 20: Straßenbahnnetzerweiterung Johannstadt - Zentrum - Plauen - Vertagung
+- TOP 21: Überprüfung der Stadträte auf MfS-Tätigkeit - Vertagung
+- TOP 22: Vollzeitstelle für Fahrradbeauftragten - Fahrradverkehr systematisch fördern - Vertagung
+- TOP 23: Auslegung Bebauungspläne (verbindlicher Bauleitplan) - Vertagung
+- TOP 24: Bericht über Kontrolle und Erfüllung der WOBA-Sozialcharta - Vertagung
+- TOP 25: Kitaplätze schaffen - Investitionsvorhaben bei Kitas beschleunigen - Vertagung
+- TOP 26: Bericht zur sozialen Situation und zu den Bildungschancen der Kinder in Dresden - Vertagung
+- TOP 27: Verhandlungsziele der Stadt Dresden bei künftigen Tarifverhandlungen im VVO/Fahrgastbeirat VVO
+- TOP 28: Initiative "500-Solardächer-Programm" - Vertagung
+- TOP 29: Finanzierung Umbau Kulturpalast Dresden und Projekt Heizkraftwerk Mitte - Vertagung
+- TOP 30: Verwaltungsstandorte mit neuer Perspektive - Vertagung
+- TOP 31: Einwohnerversammlung zum Thema "Zentralhaltestelle Kesselsdorfer Straße" - Vertagung
+- TOP 32: Änderung der Geschäftsordnung des Stadtrates der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 33: Alternative Interimslösung für die Unterbringung der 550 Mitarbeiterinnen und Mitarbeiter des Stadtortes Hamburger Straße 19 - Zustimmung mit Änderung
+- TOP 34: Lingnerstadt entwickeln - Ansiedlung des Technischen Rathauses prüfen - zurückgezogen
+- TOP 35: Erweiterung des räumlichen Geltungsbereiches der Gestaltungssatzung G-05 für das Güterverkehrszentrum (GVZ) Dresden-Friedrichstadt - Zustimmung
+- TOP 36: Verkehrsbaumaßnahme Fetscherstraße zwischen Fiedlerstraße und Pfotenhauerstraße - Vertagung
+- TOP 37: Ausbau der Kirchruine St.-Pauli zur kulturell genutzten Gemeinbedarfseinrichtung im Sanierungsgebiet Dresden-Hechtviertel - Vertagung
+- TOP 38: Bebauungsplan Nr. 333, Dresden-Plauen Nr. 2, Wohnbebauung Passauer Straße - Zustimmung
+- TOP 39: Organisation des Dresdner Stadtfestes 2010 - Zustimmung mit Änderung
+- TOP 40: Marketingkonzeption für Dresden - Vertagung
+- TOP 41: Neufassung der "Satzung über Erlaubnisse und Gebühren für Sondernutzung der öffentlichen Grünanlagen der Landeshauptstadt Dresden (Sondernutzung Grünanlagen)" - Vertagung
+- TOP 42: Satzung der Landeshaupstadt Dresden über die Abfallwirtschaft (Abfallwirtschaftssatzung) - Vertagung
+- TOP 43: Kooperationsvereinbarung Hochwasserschutz Laubegast (Z1) - Vertagung
+- TOP 44: Schülerbeförderung 77. Grundschule - Vertagung
+- TOP 45: Freie Zugänglichkeit der Parkanlagen Pillnitz - Vertagung
+- TOP 46: Sozialverträgliche Kontoführungsgebühren der Ostsächsischen Sparkasse - Vertagung
+- TOP 47: Höhere Bundesbeteiligung an den Kosten für Unterkunft und Heizung (KdU) für ALG II-Beziehende - Vertagung
+- TOP 48: Ehrenordnung der Landeshauptstadt Dresden - Vertagung
+- TOP 49: Erhalt von "coloradio" - Zustimmung mit Änderung
