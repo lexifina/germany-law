@@ -1,0 +1,106 @@
+# 33. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-02-25T17:30:00+01:00
+- Ende: 2010-02-25T23:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2127
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2127
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=73670
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Alkoholverbot Leopoldplatz/Ottopark - was hat das Ordnungsamt getan? - beantwortet
+- TOP 5.2: Beteiligung der Stadtteilvertretung an der vorbereitenden Untersuchung nach § 141 BauGB für den Bereich Müllerstraße - beantwortet
+- TOP 5.3: Barrierefreie Schulen in Mitte - beantwortet
+- TOP 5.4: Pflegeheim-Noten - beantwortet
+- TOP 5.5: Geldspielgeräte - schriftlich beantwortet
+- TOP 5.6: Hat der Bezirk Mitte doch genug Geld? Außenbeleuchtung der Hansa-Grundschule - schriftlich beantwortet
+- TOP 5.7: Die bundesweite Kampagne "Dein Tag für Afrika" - schriftlich beantwortet
+- TOP 5.8: Erläuterungsschilder Straßennamen - schriftlich beantwortet
+- TOP 5.9: Programmplanung "Aktive Stadtzentren" Nachfragen zur Vorlage zur Kenntnisnahme zur Drs.-Nr. 1394/III - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Hol schon mal den Wagen, Harry! - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Mitte eine Eisbahn? - beantwortet
+- TOP 7.2: Verhältnis des Quartiersrates und des Quartiersmanagementträgers zu Projektnehmern und Projektbeteiligten im Quartiermanagementgebiet Tiergarten Süd/Magedeburger Platz - beantwortet
+- TOP 7.3: "Betriebsratsverseucht" - das Unwort 2009 - schriftlich beantwortet
+- TOP 7.4: Vorläufige Haushaltswirtschaft? - schriftlich beantwortet
+- TOP 7.5: HzE - Zuweisung für Mitte - wie viel Mittel brauchen wir und wie viel bekommen wir? - schriftlich beantwortet
+- TOP 7.6: Stiftungen im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.7: Verkauf des Seniorenwohnhauses Lehrter Straße 69a - schriftlich beantwortet
+- TOP 7.8: Stiftung Bürger für Mitte - schriftlich beantwortet
+- TOP 7.9: Umsetzung der EU-Wasserrahmenrichtlinie - schriftlich beantwortet
+- TOP 7.10: Prüfung im Gesundheitsamt - schriftlich beantwortet
+- TOP 7.11: Personalreduzierungen beim Öffentlichen Gesundheitsdienst (ÖGD) - schriftlich beantwortet
+- TOP 7.12: Winterdienste im Bezirk Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Ackerstraße zwischen Scheringstraße und Max-Urich-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Gustav-Meyer-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Hussitenstraße zwischen Gustav-Meyer-Allee und Usedomer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Max-Urich-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Scheringstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Stralsunder Straße zwischen Hussitenstraße und Brunnenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.7: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Usedomer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung in der Voltastraße - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Bebauungsplan III-244 (Kleingartenkolonie Quartier Napolèon) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-244 - überwiesen
+- TOP 9.10: Erlass einer Veränderungssperre I-B5e/18 (Spandauer Vorstadt) für die im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfes I-B5e für die Grundstücke Hackescher Markt 4, Neue Promenade 3-9, Kleine Präsidentenstraße 1/3 und Große Präsidentenstraße 5-10 liegenden Grundstücke Große Präsidentenstraße 6 und 7 im Bezirk Mitte, Ortsteil Mitte sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Erlass einer Veränderungssperre mit der Bezeichnung 1-33/17 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfs I-33 "Heinrich-Heine-Straße" liegende Grundstück Sebastianstraße 18 sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - vertagt
+- TOP 10.2: Bebauungsplan III-61-2 (Schwyzer Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-61-2 - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Entwürfe des Doppelhaushaltsplans Mitte und des Ergänzungsplans für die Haushaltsjahre 2010 und 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Umzug der Wohngruppe mit Korsakow-Syndrom - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Haushaltskonsolidierung bedarf fairer finanzieller Rahmenbedingungen für den Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Keine Abschiebung von Ali Derakhshans - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Neubau des Gastronomie-Großmarktes an der Siemensstraße - überwiesen
+- TOP 12.2: Missbilligung der Amtsführung des Bezirksstadtrates für Stadtentwicklung - in der BVV abgelehnt
+- TOP 12.3: Notplan Kältehilfe - überwiesen
+- TOP 12.4: Erhalt der Graffiti-Wand am ehemaligen Klub International - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Chancen nicht verspielen! - überwiesen
+- TOP 12.6: Evangelisches Zentrum am Hauptbahnhof: Sozialverträglichkeit des Vorhabens unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Produktives Lernen sicherstellen - überwiesen
+- TOP 12.8: Besetzung des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Kinderfreundlicher Bezirk Mitte - Cities for Children - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Teilnahme am Seminar "Spielhallen - Trends - Probleme - Steuerungspotentiale" - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Zusammenarbeit Jugendhilfe und Schule - in der BVV zurückgezogen
+- TOP 12.12: Lass die Kinder spielen! - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Mauerpark - mit Grün verbinden - statt durch Bebauung trennen - vertagt
+- TOP 14.2: Entwicklung eines integrierten Klimaschutzkonzeptes für den Bezirk Mitte - vertagt
+- TOP 14.3: Bäume für den Mauerpark - jetzt! - vertagt
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Starker Geist; schwache Augen! - vertagt
+- TOP 15.3: Qualitätsentwicklung im JobCenter Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Nachbesserung des Seniorenmitwirkungsgesetzes - vertagt
+- TOP 15.5: Klimaschutz und Kostensenkung: Endlich den Ballast Iranische Str. 3 abwerfen! - vertagt
+- TOP 15.6: Qualitätssicherung berufsfördernder Maßnahmen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: "Jobbörse" für den Öffentlichen Beschäftigungssektor - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Baumschutz: DIN 18920 bei Ausschreibungen berücksichtigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Verringerte Zahlungen an die S-Bahn nachhaltig für den ÖPNV nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Programmplanung "Aktive Stadtzentren" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.11: Verwaltungsvorschrift "Aktive Stadtzentren" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.12: Interessenbekundungsverfahren für Energiepartnerschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.13: Geschäftsverteilung und Vertretungsregelungen des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Anwendung des § 214 Abs. 4 BauGB (Behebung eines Formfehlers) für die Bebauungspläne I-B5e und I-B5t im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Vertretungsregelungen der Mitglieder des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: a) Aufstellung des Bebauungsplanes 1-67 b) Einstellung des Bebauungsplanverfahrens II-177 c) Einstellung des Bebauungsplanverfahrens II-178 d) Einstellung des Bebauungsplanverfahrens II-179 e) Einschränkung des Geltungsbereiches des Bebauungsplanes II-138 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Beschluss über die Ergebnisse der Beteiligung der Behörden gem. § 4 Abs. 1 und Abs. 2 Baugesetzbuch und über das Ergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 Baugesetzbuch zum Bebauungsplanentwurf 1-45VE (Hamberger) und die Durchführung der Öffentlichkeitsbeteiligung gem. § 3 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Sportentwicklungsplanung Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Einrichtung eines gebundenen Ganztagsgymnasiums und die zentralen Angebote der Sekundarstufe II für die Integrierten Sekundarschulen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
