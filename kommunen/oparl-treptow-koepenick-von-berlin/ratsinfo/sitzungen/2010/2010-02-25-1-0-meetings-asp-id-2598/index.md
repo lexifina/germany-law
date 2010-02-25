@@ -1,0 +1,68 @@
+# 38. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-02-25T16:30:00+01:00
+- Ende: 2010-02-25T20:43:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2598
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2598
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=72711
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers VI-37 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Sportfläche Birkenwäldchen - beantwortet
+- TOP 11: Beschlussvorlagen - (offen)
+- TOP 11.1: Sondermittel für Albatros gGmbH (SM 1002) - ohne Änderungen im Ausschuss beschlossen
+- TOP 11.2: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 1003) - mit Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Diakonisches Werk Neukölln-Oberspree e.V. (SM 1007) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Förderverein Wendenschloßgrundschule e.V. (SM 1008) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Verkehrsberuhigung des Schlichtingsheimer Weges - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Kita-Fahrten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Offener Bücherschrank - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Martin-Hoffmann-Straße und Victor-Hoffmann-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Straßenbenennung "Zur Güterbahn" - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Gedenkorte bekannter machen - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Aufhebung der Amelia-Earhart-Schule (Hauptschule) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Strukturplan der Stadtbibliothek Treptow-Köpenick 2008 ff - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Lernen in vernünftiger Atmosphäre an der Schule "Am Altglienicker Wasserturm" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Kein Engagement von honorarpflichtigen externen Moderatoren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.11: Würdiges Umfeld beim Gedenkstein für die Opfer des Kapp-Putsches - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Schließung des Bürgeramtes III in 12587 Berlin, Myliusgarten 20 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Einrichtung von Stellen für eine zusätzliche "Pflegekraft" und "Fallkostencontrolling der Transferausgaben KdU" und Bereitstellung der erforderlichen Personalmittel zum 1. Januar 2010 im Haushaltsplan des Sozialamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Vorhabenbezogener Bebauungsplan 9-43 VE ("Bärensiegel") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan XVI-77 ("Grenzweg Süd") hier: Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - überwiesen
+- TOP 13.3: Aufhebung der Haushaltssperre für das Kapitel 3330 - Titel 51101, 51111, 51143, 52703, 53101, 54010, 54053 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Aufhebung haushaltswirtschaftlicher Sperren im Haushaltsplan 2010 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Leitlinien für die Förderung des Bürgerschaftlichen Engagements des Bezirksamtes Treptow-Köpenick von Berlin - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Initiierung einer "Task Force Berliner Solarwirtschaft" - überwiesen
+- TOP 14.2: Bürgerbeteiligung bei der Gestaltung des Elcknerplatzes - überwiesen
+- TOP 14.3: Steganlage Große Krampe - Müggelheim - überwiesen
+- TOP 14.4: Neuen Standort für "KAiAK-Netz" in Oberschöneweide suchen - überwiesen
+- TOP 14.5: Parkraumkonzeption für die Altstadt Köpenick - überwiesen
+- TOP 14.6: Sanierungsziel „Aktionspark“ in Oberschöneweide beibehalten - überwiesen
+- TOP 14.7: Projekte aus gekürzten S-Bahn-Zuschüssen - mit Änderungen in der BVV beschlossen
+- TOP 14.8: Gedenken an die Opfer des Kapp-Putsches - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Winterdienst auf Zuwegung zum Forum Köpenick - im Ältestenrat zurückgezogen
+- TOP 14.10: Erhalt des Großgastronomie-Gebäudes am Strandbad Müggelsee - überwiesen
+- TOP 14.11: Zusätzliche Gelder für Schlaglochbeseitigung - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Turnhallenneubau der Anne-Frank-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Strandbad Müggelsee - beantwortet
+- TOP 15.2: Auswirkungen des geplanten neuen Kraftwerkes Klingenberg - beantwortet
