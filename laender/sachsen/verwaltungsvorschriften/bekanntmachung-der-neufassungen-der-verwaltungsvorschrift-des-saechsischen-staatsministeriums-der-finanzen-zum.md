@@ -1,8 +1,8 @@
 # Bekanntmachung der Neufassungen der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen zum Vollzug der Sächsischen Trennungsgeldverordnung (VwV-SächsTGV)
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2007-11-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.6
+- Datum: 2010-02-26 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1804.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -57,8 +57,11 @@ zum Vollzug der Sächsischen Trennungsgeldverordnung
 (VwV-SächsTGV)
 
 [Geändert durch
-VwV vom 4. Oktober 2001 (SächsABl. S. 1071) und durch VwV
-vom 7. November 2007 (MBl. SMF S. 214)]
+VwV vom 4. Oktober 2001 (SächsABl. S. 1071), durch VwV
+vom 7. November 2007 (MBl. SMF S. 214) und durch VwV
+vom 26. Januar 2010 (MBl. SMF S. 10, 137)
+
+mit Wirkung vom 26. Februar 2010]
 
 Abschnitt I
 
@@ -1047,7 +1050,7 @@ Verfahren zur steuerlichen Behandlung von Trennungsgeld
 
 Allgemeines
 
-Trennungsgelder sind gemäß § 3 Nr. 13 Satz 2 Einkommensteuergesetz (           EStG) nur insoweit steuerfrei, als sie die nach § 9 Abs. 1 Satz 3 Nr. 5 und Abs. 5 sowie § 4 Abs. 5 Satz 1 Nr. 5 EStG abziehbaren Aufwendungen nicht übersteigen. Die danach nicht steuerfreien Teile von Trennungsgeldern nach der                       SächsTGV sind sowohl für Arbeitnehmer als auch für Beamte und Richter steuerpflichtiger Arbeitslohn. Dieser steuerpflichtige Arbeitslohn ist für Arbeitnehmer auch sozialversicherungsbeitragspflichtig. Dies gilt für alle gezahlten Trennungsgelder, die auf Zeiträume ab dem 1. Januar 1996 entfallen.
+Trennungsgelder sind gemäß § 3 Nr. 13 Satz 2 Einkommensteuergesetz (           EStG) nur insoweit steuerfrei, als sie die nach § 9 Abs. 1 Satz 3 Nr. 5 und Abs. 5 sowie § 4 Abs. 5 Satz 1 Nr. 5 EStG abziehbaren Aufwendungen nicht übersteigen. Die danach nicht steuerfreien Teile von Trennungsgeldern nach der                       SächsTGV sind sowohl für Arbeitnehmer als auch für Beamte und Richter steuerpflichtiger Arbeitslohn. Dieser steuerpflichtige Arbeitslohn ist für Arbeitnehmer auch sozialversicherungsbeitragspflichtig.
 
 19
 
@@ -1105,17 +1108,25 @@ Anlagen
 
 Anmerkung:
 
-Anlagen bekannt gemacht durch Bek vom 24. Oktober 2001 (SächsMBl.SMF 8/2001 S. 69)
+Anlagen bekannt gemacht durch Bek vom 24. Oktober 2001 (MBl. SMF 8/2001 S. 69)
 
-Anlagen 7 und 8 geä. durch Bek vom 17. Februar 2003 (SächsMBl. SMF 3/2003 S. 97)
+Anlagen 2 entfällt (§ 11 Abs. 3 SächsTGV trat zum 31. Dezember 2002 außer Kraft)
 
-Anlagen 4 bis 8 und 10 geä. durch Bekanntmachungen vom 31. August 2004 (SächsMBl. SMF 6/2004 S. 90),
+Anlagen 7 und 8 geä. durch Bek vom 17. Februar 2003 (MBl. SMF 3/2003 S. 97)
 
-Anlage 6 geä. durch Bek. vom 8. August 2005 (SächsMBl. SMF 7/2005 S. 64)
+Anlagen 4 bis 8 und 10 geä. durch Bekanntmachungen vom 31. August 2004 (MBl. SMF 6/2004 S. 90),
+
+Anlage 6 geä. durch Bek. vom 8. August 2005 (MBl. SMF 7/2005 S. 64)
 
 Anlage 6 neu gefasst durch Bek. vom 20. Dezember 2005 (MBl. SMF 6/2006 S. 1)
 
-Anlagen 6 und 10 neu gefasst durch Bek. vom 7. November 2007 (MBl. SMF 7/2007 S. 214)
+Anlagen 6 und 10 neu gefasst durch Bek. vom 7. November 2007 (MBl. SMF 7/2007 S. 214),
+
+Anlagen 1, 3, 5, 6, 9 und 10 neu gefasst durch VwV vom 26. Januar 2010 (MBl. SMF 2/2010 S. 10, ber. MBl. SMF 8/2010 S. 137)
+
+Anlage 1
+
+Anlage 3
 
 Anlage 4
 
@@ -1126,5 +1137,7 @@ Anlage 6
 Anlage 7
 
 Anlage 8
+
+Anlage 9
 
 Anlage 10
