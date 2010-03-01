@@ -2,6 +2,6 @@
 Anlage 9
 (§ 4 Abs. 1 Nr. 1 EZulV)
 Zulage für Dienst zu ungünstigen Zeiten (Beträge in Euro)
-Gültig ab 1. März 2009
+Gültig ab 1. März 2010
 § 4 Abs. 1 Nr. 1 EZulV
-2,88
+2,91
