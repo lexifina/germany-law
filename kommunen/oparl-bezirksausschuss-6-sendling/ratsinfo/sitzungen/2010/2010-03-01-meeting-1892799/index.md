@@ -1,0 +1,70 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-03-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1892799
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1892799
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Planungen des Schulreferates auf dem Grundstück an der Meindlstraße
+- TOP 2.2.: Kleinkinderspielplatz Max-Hirschberg-Weg
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Aufnahme des Grundstücks Meindlstraße 8 und 14 in die Flächenreserve Gemeinbedarf; pflegerische Versorgung älterer Menschen in München
+- TOP 3.2.: Integration einer Tagespflege in die geplante Senioreneinrichtung in der Meindlstraße - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 3.3.: Errichtung einer Tagespflege im Stadtbezirk Sendling
+- TOP 3.4.: Mobile Einstiegstreppe im Sportschwimmbecken Südbad
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: - Umbenennung der "Schmied-Kochel-Straße" in "Schmied von Kochel Straße" - Sparsamere Straßenbeleuchtung in den Seitenstraßen - Installation eines beleuchteten Fußgängerüberwegs in der Implerstraße Höhe Schmied-Kochel-Straße - Verkehrsberuhigung in der Schmied-Kochel-Straße Energiesparaktion durch wärmedämmende Fenster
+- TOP 6.2.: Anliegen hinsichtlich der Einführung des Parkraummanagements im Lizenzgebiet Herzog-Ernst-Platz
+- TOP 6.3.: Schulbushaltestelle Valleystraße; Korrektur des Zeitzusatzes
+- TOP 6.4.: Bahnhofspaten für die S-Bahnhöfe
+- TOP 7.1.: Budgetantrag Sendlinger Kulturschmiede e.V; Ausstellung D´Halle, ? 4140,-
+- TOP 7.2.: Kommunalpolitische Mandate von Menschen mit Migrationshintergrund
+- TOP 7.3.: Mehr Einflussnahmemöglichkeit für junge Menschen; Rede-und Antragsrecht für Kinder und Jugendliche
+- TOP 7.4.: Budgetantrag ?die urbanauten?, Projekt Isarlust ? temporäre Fußgängerbrücke; ? 4000,-
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Bavariastr. 25
+- TOP 8.3.: Bauvorhaben Schöttlstr. 10
+- TOP 8.4.: Bauvorhaben Lindwurmstr. 169
+- TOP 8.5.: Bauvorhaben Thalkirchner Str. 126
+- TOP 8.6.: Bauvorhaben Flößergasse 7
+- TOP 8.7.: Bauvorhaben Thalkirchner Str. 190
+- TOP 8.8.: Bauvorhaben Demleitnerstr. 4; Errichtung einer Dreifachturnhalle
+- TOP 8.9.: Kinderspielplätze in den Anwesen Kidlerstr. 41 - 49 und Valleystr. 52 - 58
+- TOP 8.10.: Barrierefreier Ausbau der S-Bahn München; Umgestaltung des Bahnhofes am Harras
+- TOP 8.11.: Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und - telefon der Lokalbaukommission
+- TOP 8.12.: Sozialbürgerhaus Meindlstr.; Besprechungsraum
+- TOP 8.13.: Einladung der LBK zum Regionalgespräch 2010
+- TOP 9: Baureferat
+- TOP 9.1.: Neugestaltung des gesamten Margaretenplatzes
+- TOP 9.2.: Spielgerät für den Implerplatz
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Flößergasse 7
+- TOP 10.2.: Baumfällung Schäftlarnstraße 32
+- TOP 10.3.: Baumfällung Kraelerstraße 1
+- TOP 10.4.: Baumfällung Implerstraße 29-33
+- TOP 10.5.: Baumfällung Flößergasse 6
+- TOP 10.6.: Baumfällung Diepoldstr. 5
+- TOP 10.7.: Baumfällung Maronstr. 3
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Umstellung der Rolltreppen vom Bahnsteig in das Zwischengeschoss im U-Bahnhof Implerstraße auf Fahrtrichtungswechsel - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: (E) Einrichtung eines "Parksperrgebietes" während des Oktoberfestes in Sendling Empfehlung Nr. 08-14 / E 00426 der Bürgerversammlung des Stadtbezirkes 6 - Sendling am 29.10.2009 - <div>nach Antrag</div>
+- TOP 3: (E) 30 km/h Zone Pfeuferstraße (Schule) Empfehlung Nr. 08-14 / E 00427 der Bürgerversammlung des 6. Stadtbezirkes - Sendling am 29.10.2009 - <div>Abweichung von Referentenvorl. - Beschluss durch Oberbürgermeister aufgehoben</div>
+- TOP 3.4.: Tempo 30 Zone Grundschule an der Pfeuferstraße - <div>Abweichung von Referentenvorl.</div>
+- TOP 12: Anträge
+- TOP 12.1.: Stadtteilwoche in Sendling
+- TOP 13: Verschiedenes
+- TOP 13.1.: Tag des offenen Denkmals am 12.09.2010
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
