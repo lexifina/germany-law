@@ -1,0 +1,61 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-03-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1903856
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1903856
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Volkstheater e.V.; 50-jähriges Jubiläum im April 2010
+- TOP 2.2.: Am Blütenanger - Öffentliche Grün- und Ausgleichsfläche, Bebauungsplan mit Grünordnung Nr. 1503 b
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Einrichtung einer Tempo 30 Zone in der Weitlstraße, ab Reschreiter Straße (Anlieger der Weitlstraße)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Überprüfung der Lichtzeichenanlagen im 24. Stadtbezirk (vertagt in der Sitzung am 02.02.10)
+- TOP 5.2.: Kirmesfest am Dülferanger vom 07.05. - 09.05.10
+- TOP 5.3.: Anhörung Bauvorhaben auf Anforderung: Skabiosenplatz 10
+- TOP 5.4.: Vollzug der Baumschutzverordnung; Baumaßnahmen Olschewskibogen
+- TOP 5.5.: Verkauf einer städtischen Immobilie: Fortnerstr. 2
+- TOP 5.6.: Mehr Einflussmöglichkeiten für junge Menschen 1; Antrag Nr. 08-14/ A 1025 der Stadtratsfraktion DIE GRÜNEN/RL vom 01.09.09
+- TOP 5.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/44 - Rothwiesenstraße (östlich), Autobahnring - Nord A 99 (nördlich)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Abbau des Provisoriums - Neubau der Diakonie (Schreiben Hr. Ottmann)
+- TOP 6.2.: Maßnahmen zur Lärmminderung und Verkehrsberuhigung in der Himmelschlüsselstraße
+- TOP 6.3.: Bahnübergang an der Feldmochinger Straße - Entfernung des Asphalthochbords
+- TOP 6.4.: Lassallestraße; bauliche Änderungen
+- TOP 6.5.: Freischneiden der Bahnstromleitung zum Erhalt und Wiederherstellung der Schutzabstände (Schreiben der DB)
+- TOP 6.6.: Vollzug des Allg. Eisenbahngesetzes (AEG); NSB/ABS Nürnberg-Ingolstadt-München; Ausbaumaßnahmen im Bereich der Landeshauptstadt München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Planergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen - Stellungnahme zur Erwiderung der DB ProjektBau GmbH
+- TOP 6.7.: Nutzung des Schwimmbades des Wohnstifts Augustinum
+- TOP 6.8.: Verkehrsrechtliche Anordnung: a) Haltverbot in der Ittlingerstraße südlich Dülferstraße b) Haltverbot am Wendehammer Am Schnepfenweg c) Aufhebung der Wochenmarkt-Haltverbote am südlichen Ast der Wellenkampstraße
+- TOP 6.9.: Integrationsfest am Dülferanger vom 13.05.-16.05.10 - Lageplan
+- TOP 6.10.: Neubau einer Lichtsignalanlage - Josef-Frankl-/Lerchenstraße
+- TOP 6.11.: Bachräumungstermine 2010 für die Stadt- und Stadtrandbäche
+- TOP 6.12.: Probleme in der Zusammenarbeit mit dem Schulreferat - Schreiben BA 1
+- TOP 6.13.: KulturGeschichtsPfad für den 24. Stadtbezirk - aktueller Stand
+- TOP 6.14.: Anmeldung einer stationären Versammlung unter freiem Himmel; VERDI Bayern am 17.02.09 in der Dachauer Str. 651-655
+- TOP 6.15.: Novelle der Bayerischen Bauordnung 2008
+- TOP 6.16.: Budget der Bezirksausschüsse - Erfahrungsbericht 2008
+- TOP 6.17.: Kindertagesstätten freigemeinnütziger Träger; Kooperationseinrichtung "Maria Sieben Schmerzen" an der Thelottstr. 28 - Leistung eines Baukostenzuschusses nach dem BayKiBiG
+- TOP 6.18.: Ausgleichflächen in der Bauleitplanung, Gestamtstädtisches Konzept
+- TOP 6.19.: Schleißheimer Straße (Westseite) zwischen Weitlstraße und Augustin-Rösch-Straße - Erstmalige Herstellung
+- TOP 6.20.: Stadt bezieht Stellung gegen die Initiative des bayer. Wirtschafsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 6.21.: Ergebnis der Kundinnen-/Kundenbefragung zum Servicezentrum und -telefon des Planungsreferats - LBK
+- TOP 6.22.: Lichtkonzept für den öffentlichen Raum
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
