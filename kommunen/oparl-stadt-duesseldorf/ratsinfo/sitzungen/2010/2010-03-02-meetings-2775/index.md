@@ -1,0 +1,52 @@
+# Jugendhilfeausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-03-02T15:00:00+01:00
+- Ende: 2010-03-02T17:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/22
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2775
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2775
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00135708.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00135708.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00135708.pdf
+
+## Tagesordnung
+
+- TOP 1: TO
+- TOP 2: Niederschrift - einstimmig beschlossen
+- TOP 3: Anfragen und Anträge
+- TOP 3.1: Jugendschutzkontrollen zu Karneval - zur Kenntnis genommen
+- TOP 3.2: (Vor-)schulische Sprachfördermaßnahmen - zur Kenntnis genommen
+- TOP 3.3: Ausbau der Betreuungsangebote in der Kindertagespflege - zur Kenntnis genommen
+- TOP 3.4: Antrag Linksfraktion Änderung der Bezirkssatzung - mehrheitlich abgelehnt
+- TOP 3.5: Besetzung von Stellen in Kitas - mehrheitlich beschlossen
+- TOP 4: Fachübergreifende Vorlagen
+- TOP 4.1: Organisationsentwicklung in der Inobhutnahme - einstimmig beschlossen
+- TOP 4.2: Prüfung der Jahresrechnung 2008 - zur Kenntnis genommen
+- TOP 4.3: Zuwendungen an das Jugendamt im Jahr 2009 - zur Kenntnis genommen
+- TOP 4.4: Anerkennung Uniklinik Düsseldorf - einstimmig beschlossen
+- TOP 4.5: Umsetzung KiBiz für das Kiga-Jahr 2010/2011 - einstimmig beschlossen
+- TOP 5: Familienförderung
+- TOP 5.1: Familien leben - zur Kenntnis genommen
+- TOP 6: Tageseinrichtungen für Kinder
+- TOP 6.1: Gesamtstädtische Elternbefragung - zur Kenntnis genommen
+- TOP 6.2: Bau, Einrichtung und Instandsetzung - einstimmig beschlossen
+- TOP 6.3: Kita Universitätsstraße - zur Kenntnis genommen
+- TOP 6.4: Übernahme von Planungskosten - mehrheitlich beschlossen
+- TOP 6.5: Qualitätsentwicklung Sprachförderung - zur Kenntnis genommen
+- TOP 6.6: Qualifizierungszeiten im Erziehungsdienst - zur Kenntnis genommen
+- TOP 7: Jugendförderung
+- TOP 7.1: Jugendinternetportal - einstimmig beschlossen
+- TOP 7.2: Mittelvergabe Gewaltprävention - einstimmig beschlossen
+- TOP 7.3: Ersatzneubau JFE Lüderitzstr. 75/81 - zur Kenntnis genommen
+- TOP 7.4: Projekt JuniorWAHLEN und Aktion 22tausend im Wahljahr 2009 - zur Kenntnis genommen
+- TOP 7.5: Informationen aus dem Düsseldorfer Jugendrat
+- TOP 8: Controllingberichte
+- TOP 8.1: Controllingbericht Jugendförderung - zur Kenntnis genommen
+- TOP 8.2: Controllingbericht KHZ - zur Kenntnis genommen
+- TOP 8.3: Controllingbericht HzE - zur Kenntnis genommen
+- TOP 8.4: Controllingbericht Zuwendungen und Zuschüsse - zur Kenntnis genommen
+- TOP 8.5: Controllingbericht Tageseinrichtungen für Kinder - zur Kenntnis genommen
