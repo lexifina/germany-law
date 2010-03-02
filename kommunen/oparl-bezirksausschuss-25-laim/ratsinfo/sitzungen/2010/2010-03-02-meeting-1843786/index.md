@@ -1,0 +1,105 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-03-02T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843786
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843786
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Bebauungsplan mit Grünordnung Nr. 2027
+- TOP 1.2.2.: Geh- / Radwegbrücke Pronnerplatz / Nymphenburger Park
+- TOP 1.2.3.: Verlegung der Wertstoffcontainer Friedenheimerstr. 33
+- TOP 1.2.4.: Ablehnung der geforderte Einbahnstraßenregelung in der Lutzstraße zwischen Perhamerstraße und Landsberger Straße
+- TOP 1.2.5.: Verkehrssituation Lutzstraße
+- TOP 1.2.6.: Ampelschaltung an der Kreuzung Fürstenrieder Straße / Agnes-Bernauer-Straße
+- TOP 1.2.7.: Wandgestaltung in der Unterführung am Laimer Bahnhof; Konzept und Entwurf
+- TOP 1.2.8.: Flotowstr. 44; Antrag auf Fällung von 4 Hainbuchen
+- TOP 1.2.9.: Vorschläge zur Verschönerung des Laimer Kreisels
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Einwohnerversammlung zur Tram Westtangente
+- TOP 2.2.: CSU: Beibehaltung des Angebots von Einzelfahrscheinen für Inhaber des München Passes
+- TOP 2.3.: CSU: Aufhebung der Zeitbeschränkung (06.00-09.00 Uhr) der IsarCardS
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 22.01.10: Flohmärkte auf dem Hogenbergplatz am 27.03. und 02.10.10
+- TOP 4.2.: Schreiben Referat für Gesundheit und Umwelt vom 04.02.10: Mobilfunk; Suchkreismeldung; hier: vorgesehene UMTS-Erweiterung am bestehenden GSM-Standort Westendstr. 262
+- TOP 4.3.: Schreiben KVR vom 10.02.10: Festival der Marionetten auf dem Laimer Anger vom 23.09.-27.09.10
+- TOP 4.4.: Schreiben Direktorium vom 08.02.10: Mehr Einflussmöglichkeiten für junge Menschen
+- TOP 4.5.: Schreiben Baureferat vom 20.01.10: Sanierung Ludwig-Richter-Straße zwischen Siglstraße und Straubinger Straße
+- TOP 4.6.: Schreiben Baureferat vom 28.01.10: Sanierung Riegerhofstraße zwischen Valpichlerstraße und Gotthardstraße
+- TOP 4.7.: Schreiben Baureferat vom 08.02.10: Straßensanierung Landsberger Straße zwischen Fürstenrieder Straße und Friedenheimer Brücke
+- TOP 4.8.: Schreiben Baureferat vom 15.02.10: Landsberger Straße östlich Wotanstraße
+- TOP 4.9.: Schreiben Baureferat vom 11.02.10: Landsberger Straße Kreuzung Willibaldstraße
+- TOP 4.10.: Schreiben KVR vom 10.02.10: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hufnaglstr. 9
+- TOP 4.11.: Schreiben Bayerisches Landesamt für Denkmalpflege vom 08.02.10: Tag des offenen Denkmals am 12.09.10
+- TOP 4.12.: Schreiben KVR vom 19.02.10: Novellierung der Sondernutzungsrichtlinien und Sondernutzungsgebührensatzung
+- TOP 4.13.: Schreiben KVR vom 22.02.10: Kurzparkzone Westendstraße zwischen Elsenheimerstraße und Zschokkestraße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Ofener Str. 19: Neubau einer Doppelhaushälfte mit Garage / Tektur; hier: Baumfällungen
+- TOP 5.2.: Ilmmünsterstr. 64: Energetische Sanierung mit Umbau und Einbau einer Einliegerwohnung sowie DG-Ausbau und Errichtung einer Gaube; hier: Baupläne
+- TOP 5.3.: St.-Ulrich-Str. 4: Neubau eines Wohnhauses (3-4 WE) mit Garagen / Vorbescheid; hier: Baupläne
+- TOP 5.4.: Camerloherstr. 171: Anbau Wohnraum mit Keller an DHH und Wärmedämmung der Aussenwände; hier: Baupläne
+- TOP 5.5.: Landsberger Straße; Fernwärmeerschließung München-West, Druckerhöhungsstation Laim (Landsberger Straße / Pronnerplatz); hier: Baumfällungen
+- TOP 5.6.: Hartelstr. 6: Neubau eines Wohngebäudes; hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Planungsreferat vom 17.02.10: Regionalgespräch 2010 zwischen Lokalbaukommission und den Bezirksausschüssen am 10.03.10
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 12.01.10
+- TOP 7.2.: Kinder- und Jugendsprechstunde vom 29.01.10
+- TOP 7.3.: Ortstermin UA Umwelt und Verkehr und UA Bau vom 29.01.10
+- TOP 7.4.: Sitzung UA Bau vom 02.02.10
+- TOP 7.5.: BA-Sitzung vom 02.02.10
+- TOP 7.6.: Sitzung UA Soziales, Schule und Sport vom 04.02.10
+- TOP 7.7.: Sitzung UA Kultur vom 23.02.10
+- TOP 7.8.: Sitzung UA Bau vom 24.02.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Baureferat vom 26.01.10: Maibaum auf dem Laimer Anger (Antrag Nr. 08-14 / B 01709 vom 01.12.09)
+- TOP 8.2.: Schreiben KVR vom 18.01.10: Spielstraße Bauhandwerkersiedlung, Lechfeld- / Gunzenlehstraße (Schreiben BA vom 22.09.09)
+- TOP 8.3.: Schreiben KVR vom 21.01.10: Gaststätte "Asien Perle", Agnes-Bernauer-Str. 51; Beschwerde über Geruchsbelästigung und Gewerbemüllentsorgung (Schreiben BA vom 28.12.09)
+- TOP 8.4.: Schreiben KVR vom 13.01.10: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Fürstenrieder Str. 67
+- TOP 8.5.: Schreiben KVR vom 09.02.10: Gaststätte "Yelken", Senftenauerstr. 50; unveränderte Fortführung
+- TOP 8.6.: Schreiben Direktorium vom 13.01.10: Budget der Bezirksausschüsse; Erfahrungsbericht 2009
+- TOP 8.7.: Schreiben Direktorium vom 01.02.10: Angebote zur Gewaltprävention in der Schule
+- TOP 8.8.: Schreiben Direktorium vom 02.02.10: Zuschuss aus dem Budget; Antragsteller: Jazzclub München
+- TOP 8.9.: Schreiben Direktorium vom 10.02.10: Nutzung des Ladens / Büro im ASZ Laim für den BA, Vereine sowie weitere kulturelle und soziale Einrichtungen (Antrag Nr. 08-14 / B 01315 vom 07.07.09 bzw. Schreiben BA vom 02.02.10)
+- TOP 8.10.: Schreiben Direktorium vom 15.02.10: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Camerloher Kids e.V.
+- TOP 8.11.: Schreiben Direktorium vom 19.02.10: Protokoll des Treffens der BA-Vorsitzenden vom 14.01.10
+- TOP 8.12.: Schreiben Sozialreferat vom 27.01.10: Aktionsforum für Familien; Aktionstag für Familien am 30.04.10
+- TOP 8.13.: Schreiben Sozialreferat vom 01.02.10: Zweckentfremdung von Wohnraum durch Abbruch; Landsberger Straße
+- TOP 8.14.: Schreiben Sozialreferat vom 13.01.10: Interkultureller Integrationsbericht der LH München; Indikator: kommunalpolitische Mandate von Menschen mit Migrationshintergrund
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 19.02.10: Baumaßnahmen der SWM; Fernwärmeprojekt Erschließung Pasing-Laim, Landsberger Straße
+- TOP 8.16.: Schreiben Stadtkämmerei vom 18.02.10: Mittelfristige Finanzplanung 2009-2013
+- TOP 8.17.: Schreiben Planungsreferat vom 01.02.10: Beschleunigung der Planungen für den Bau der Umweltverbundröhre Laim (Antrag Nr. 08-14 / B 01604 vom 03.11.09)
+- TOP 8.18.: Schreiben Planungsreferat vom 11.02.10: Bauvorhaben Landsberger Str. 263-273; Modernisierung mit DG-Aufstockung, Anbringung von Wärmedämmung und Balkonanbau (Landsberger Str. 263-271), Neubau (Landsberger Str. 273) / Tektur
+- TOP 8.19.: Bautenliste vom 18.01.-24.01.10: 1. Erstantragsverfahren a) Weiß-Ferdl-Str. 26 b) Fürstenrieder Str. 112 c) Johannes-Scharrer-Str. 8
+- TOP 8.20.: Bautenliste vom 25.01.-31.01.10 1. Erstantragsverfahren a) Steinbeisplatz 2 b) Rushaimerstr. 41 2. Änderungsverfahren a) Elsenheimerstr. 7 b) Ofener Str. 19 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) St.-Ulrich-Str. 4
+- TOP 8.21.: Bautenliste vom 01.02.-07.02.10 1. Erstantragsverfahren a) Ilmmünsterstr. 64 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Haunerstr. 10
+- TOP 8.22.: Bautenliste vom 08.02.-14.02.10: 1. Erstantragsverfahren a) Perhamerstr. 22 b) Landsberger Straße c) Camerloherstr. 82 d) Camerloherstr. 171
+- TOP 8.23.: Schreiben Planungsreferat vom 25.01.10: Liste der beantragten Baumfällungen vom 18.01.-24.01.10
+- TOP 8.24.: Schreiben Planungsreferat vom 02.02.10: Liste der beantragten Baumfällungen vom 25.01.-31.01.10
+- TOP 8.25.: Schreiben Planungsreferat vom 15.02.10: Liste der beantragten Baumfällungen vom 08.02.-14.02.10
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 25.01.10: Baumaßnahmen der Stadtwerke; Stichtag: 25.01.10
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 01.02.10: Baumaßnahmen der Stadtwerke; Stichtag: 01.02.10
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 08.02.10: Baumaßnahmen der Stadtwerke; Stichtag: 08.02.10
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 15.02.10: Baumaßnahmen der Stadtwerke; Stichtag: 15.02.10
+- TOP 8.30.: Beschluss des Bauausschusses vom 19.01.10: Lichtkonzept für den öffentlichen Raum (Sitzungsvorlagen Nr. 08-14 / V 02502)
+- TOP 8.31.: Beschluss der Vollversammlung vom 27.01.10: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz), Grundsatzbeschluss (Sitzungsvorlagen Nr. 08-14 / V 03526)
+- TOP 8.32.: Beschluss des Kinder- und Jugendhilfeausschusses vom 02.02.10: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013 und Art. 27 BayKiBiG, Haus für Kinder Elsenheimerstr. 7-13 (Elly & Stoffl GmbH) mit 60 Kinderkrippenplätzen und 46 Kindergartenplätzen; Umbau (Sitzungsvorlagen Nr. 08-14 / V 03466)
+- TOP 8.33.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und -telefon des Planungsreferates / Lokalbaukommission (Sitzungsvorlagen Nr. 08-14 / V 03628)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept (Sitzungsvorlagen Nr. 08-14 / V 03620)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Novelle der Bayerischen Bauordnung 2008; a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis, b) weiteres Vorgehen, c) Anträge (Sitzungsvorlagen Nr. 08-14 / V 03564)
+- TOP 8.36.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung (Sitzungsvorlagen Nr. 08-14 / V 03424)
+- TOP 8.37.: Beschluss des Verwaltungs- und Personalausschuss vom 10.02.10: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München; 1. Vorberatung in der BA-Satzungskommission: a) Anhörungsrecht für BAs bei Dreharbeiten und Baugenehmigungen, b) Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen, c) Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung, d) Schaffung von Jugendbeauftragten in der BA-Satzung; 2. Umsetzung der Empfehlungen in eine Änderungssatzung (Sitzungsvorlagen Nr. 08-14 7 V 02079)
+- TOP 8.38.: Schreiben BA 1 Altstadt-Lehel vom 27.01.10: Probleme in der Zusammenarbeit mit dem Schulreferat
+- TOP 8.39.: Schreiben Kinder- und Jugendbeauftragte BA 2 Isarvorstadt-Ludwigsvorstadt vom 14.02.10: 18. jetzt - Beteiligung der BAs
+- TOP 8.40.: Einladung zum Fachgespräch "Politische Arbeit mit Comics: Comics von Rechts - Comics gegen Rechts" am 11.03.10
+- TOP 8.41.: Schriftverkehr aus der BA-Sitzung vom 12.01.10
+- TOP 8.42.: Schriftverkehr aus der BA-Sitzung vom 02.02.10
+- TOP 1.2: Bürgerpost an den BA
