@@ -1,0 +1,54 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-03-02T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1905971
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1905971
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 02.02.2010
+- TOP 2: Anträge
+- TOP 2.1.: Grünanlage Kistlerhof- / Münsinger Str.
+- TOP 2.2.: Verfahren zur Betriebsgenehmigung von Kita und Kinderkrippen
+- TOP 2.3.: Linienführung Bus N40
+- TOP 2.4.: Objekte zur Aufnahme in die Denkmalliste
+- TOP 2.5.: Sachstandsbericht Versorgung mit Schulraum
+- TOP 2.6.: Straßenbaumaßnahmen im Stadtbezirk
+- TOP 2.7.: Ausbau Wolfratshauser Straße
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Suchkreismeldungen
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Querung Meglingerstraße
+- TOP 5.2.: Verkehrssituation Melchiorstraße
+- TOP 5.3.: Cycling Days
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Denkmalensemble Forstenried
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Mehr Einflussmöglichkeiten für junge Menschen
+- TOP 7.2.: Dirt-Park
+- TOP 7.3.: Aufnahmeeinrichtung Baierbrunner
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Projektplanung Luganoweg
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Tag des offenen Denkmals
+- TOP 9.2.: Werbetafel Basler Str. 66
+- TOP 9.3.: Gaststättenpächterwechsel Aidenbachstr. 86
+- TOP 9.4.: Gaststättenpächterwechsel Zentralländstr. 16
+- TOP 9.5.: Gaststättenpächterwechsel Herterichstr. 101
+- TOP 9.6.: Novellierung der Sondernutzungsrichtlinien
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1.6.: Sperrung Schmiedberg für Fahrzeuge über 15t
+- TOP 1: Allgemeiner Teil
