@@ -1,0 +1,82 @@
+# 31. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-03-03T17:30:00+01:00
+- Ende: 2010-03-03T20:20:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2584
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2584
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=39017
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=116&id=39463
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Aufhebung Sperre Invest-Mittel RFID - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Platz des 9. November 1989 - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Sichere Überquerungsmöglichkeit der Prenzlauer Promenade am Caligariplatz - in der BVV abgelehnt
+- TOP 1.11: Das Informations- und Dokumentationssystem "ISIS" auch in Pankow einführen und anwenden - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Verbesserung der Erreichbarkeit der Robert-Havemann-Oberschule - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Verfehlte Kommunikation zwischen Bezirksamt und MACHmit! Museum? - beantwortet
+- TOP 1.14: Sachstand zum B-Plan XVIII-29a in Blankenburg - beantwortet
+- TOP 1.15: Alkoholprävention im Bezirk stärken - überwiesen
+- TOP 1.16: Modernisierung Breite Straße 28 - 30 sowie 31 a - h durch die GESOBAU - überwiesen
+- TOP 1.17: Für einen neuen Flächennutzungsplan - Stärkung des Klimaschutzes und Reduzierung der Bodenneuversiegelung - überwiesen
+- TOP 1.18: Antrag auf zeitliche Verlängerung des Sanierungsgebietes Bötzowstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Optimierung der Busverbindungen nach Blankenfelde und Glienicke - überwiesen
+- TOP 1.20: Vorgaben und Verfahrensweisen für die sozialverträgliche Sanierung und Modernisierung der Wohngebäude der HOWOGE im Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Straßenbaumaßnahmen im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Situation von Kindern in temporären Bedarfsgemeinschaften verbessern - überwiesen
+- TOP 1.23: Schlaglochsonderprogramm für die Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Spielstraße an der Gethsemanekirche - überwiesen
+- TOP 1.25: Modernisierungsrückstände abbauen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Schlosspark Buch als Außenstelle der IGA 2017 - überwiesen
+- TOP 1.27: Filmstadt Weißensee - überwiesen
+- TOP 1.28: Konsequenzen aus dem mangelhaften Winterdienst ziehen - überwiesen
+- TOP 1.29: Öko-Konto für Pankow - überwiesen
+- TOP 1.30: Gefahren durch Schnee- und Eisreste für FußgängerInnen und FahrradfahrerInnen beseitigen - überwiesen
+- TOP 1.31: Bezirkliche Integrationsarbeit verstärken - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Hartz IV - Verteilung der Eingliederungsmittel - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Erschließung Rangierbahnhof Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2.1: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Ehe-Ausstellung im Schloss Schönhausen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Life Science Center Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Sanierungsziele langfristig planungsrechtlich sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Kein Verkehrsinfarkt im Prenzlauer Berg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Umsetzung von Neuregelungen der Wohngeldnovelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Durchführung einer Spielleitplanung in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: GA-Antrag Life Science Center Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Ausstellung "Bruderland ist abgebrannt" auch in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Parkraumbewirtschaftung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13.1: Verkehrsmanagement im Gleimviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Kosten- und Finanzierungsübersicht 2008 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Sportstandort Hansastraße 109 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Jetzt die Gemeinschaftsschule weiter voranbringen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Schlüsselsysteme für Sportanlagen des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Behindertengerechter Zugang für die Deutsche Post und die AOK - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Erhalt Stille Straße 10 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: GA-Antrag für das Forscherschloss / LSC unverzüglich und vollständig einreichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Endlich Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Das Schiff zur Rettung der Unschuld der Kunst - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Bestandsmieter und Erhaltungsverordnung im Gebiet Humannplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Rückrufservice - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Querung der Elsa-Brändström-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Produktives Lernen in den Integrierten Sekundarschulen erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Unterstützung für das Projekt "Bücherschrank" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.29: "gerade war gestern. Ein Bach wird naturnah" - Computeranimation für den Einsatz im Unterricht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Umzug des Musikschulstandortes Pappelallee 41 B in den Eliashof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Tagesordnungspunkt (betrifft Privatpersonen)
