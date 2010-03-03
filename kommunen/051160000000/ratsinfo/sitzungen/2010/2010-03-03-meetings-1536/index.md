@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-03-03T15:00:00+01:00
+- Ende: 2010-03-03T19:30:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1536
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1536
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - An den Rat verwiesen
+- TOP 2: Niederschrift - Kenntnisnahme
+- TOP 3: Wahl einer/eines Beigeordneten - Einstimmiger Beschluss
+- TOP 4: Erweiterung der Regelaufnahmekapazität an der Gesamtschule Espenstraße - Zur Kenntnis genommen
+- TOP 5: 3. Nachtrag zur Wahlordnung - Einstimmiger Beschluss
+- TOP 6: Wahl von 8 Ratsmitgliedern - Einstimmiger Beschluss
+- TOP 7: Kunststiftung im Museum Abteiberg - Einstimmiger Beschluss
+- TOP 8: Gesamtschule Neuwerk - Zur Kenntnis genommen
+- TOP 9: Stand der Umsetzung der Maßnahmen aus dem Gutachten Rödl & Partner - Einstimmiger Beschluss
+- TOP 10: Fraktionsfinanzen - Zur Kenntnis genommen
+- TOP 11: Niersverband - Einstimmiger Beschluss
+- TOP 12: Städtetag NW - Einstimmiger Beschluss
+- TOP 13: Entwurf der Eröffnungsbilanz zum 01.01.2009 - Einstimmiger Beschluss
+- TOP 14: Bereitstellung von Haushaltsmitteln und Zustimmung zur Inangriffnahme - Einstimmiger Beschluss
+- TOP 15: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2009 - Einstimmiger Beschluss
+- TOP 16: Dienstanweisung für die Finanzbuchhaltung - Kenntnisnahme
+- TOP 17: Vertretung der Stadt im Beirat der MGMG - Einstimmiger Beschluss
+- TOP 18: Jahresbericht 2008 der Niederrheinische Versorgung und Verkehr AG - Kenntnisnahme
+- TOP 19: Dichtheitssatzung - Einstimmiger Beschluss
+- TOP 20: Ordnungsbehördliche Verordnung Offenhalten am 25. April 2010 - Zur Kenntnis genommen
+- TOP 21: Ordnungsbehördliche VO Offenhalten Verkaufsstellen 2. Mai 2010 - Zur Kenntnis genommen
+- TOP 22: Erste Änderungsverordnung Dauerverordnung Offenhalten Verkaufsstellen - Zur Kenntnis genommen
+- TOP 23: Vierte Änderungsverordnung zur Straßen- und Anlagenverordnung - Zur Kenntnis genommen
+- TOP 24: Internationale Kampagne "Städte für das Leben - Städte gegen die Todesstrafe" - Zur Kenntnis genommen
+- TOP 25: Sechzehnter Nachtrag zur Zuständigkeitsordnung - Einstimmiger Beschluss
+- TOP 26: Leistungsvereinbarung Cafe Pflaster MG - Zur Kenntnis genommen
+- TOP 27: Verlängerung des Vertrages AWO und SKM - Einstimmiger Beschluss
+- TOP 28: Leistungsvereinbarung mit der Evangelischen Jugend- und Familienhilfe gGmbH - Einstimmiger Beschluss
+- TOP 29: Abenteuerspielplatz Oststraße - Zur Kenntnis genommen
+- TOP 30: 185. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 31: Bebauungsplan Nr. 685/III - Einstimmiger Beschluss
+- TOP 32: 187. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 33: Denkmalgerechte Sanierung des Hauptbahnhofs - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 34: Flughafen - Mit Stimmenmehrheit abgelehnt
+- TOP 35: Übertragung - Zur Kenntnis genommen
+- TOP 36: Benutzungsgebühren - An den Fachausschuss verwiesen
+- TOP 37: Hockeystadion - Einstimmiger Beschluss
+- TOP 38: Neuorganisation SGB II - Einstimmiger Beschluss
+- TOP 39: Neubesetzung der Ausschüsse - Einstimmiger Beschluss
+- TOP 40: Abrechnung Erschließung - Zur Kenntnis genommen
+- TOP 41: Aufgabenzuweisung des Landes NRW - Zur Kenntnis genommen
+- TOP 42: Anfragen - Zur Kenntnis genommen
