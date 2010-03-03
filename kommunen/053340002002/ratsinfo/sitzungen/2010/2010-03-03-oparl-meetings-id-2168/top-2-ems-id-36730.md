@@ -1,0 +1,6 @@
+# TOP 2: Genehmigung der Niederschrift vom 20.01.2010
+
+- Sitzung: öffentliche Sitzung des Hauptausschusses (2010-03-03)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=36730
