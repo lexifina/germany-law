@@ -1,0 +1,8 @@
+# TOP 6.: Eintragung des Fachwerkhauses Ziegenstr. 8, Stemwede-Dielingen, in die Denkmalliste der Gemeinde Stemwede
+
+- Sitzung: Bau-, Planungs- und Umweltausschuss (2. Sitzung) (2010-03-03)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5033
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2318
