@@ -1,0 +1,74 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-03-04T17:00:00+01:00
+- Ende: 2010-03-04T19:30:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2669
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2669
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00136516.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00136516.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00136516.pdf
+
+## Tagesordnung
+
+- TOP 1: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 2: Verpflichtung - einstimmig beschlossen
+- TOP 3: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Plan Nr. 5776/014 - Nördl. Königsberger Str. West - - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Umbenennung GGS Arnstadter Weg - einstimmig beschlossen
+- TOP 8: Trödelmärkte auf dem Gertrudisplatz im Jahre 2010 - einstimmig beschlossen
+- TOP 9: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2010 - einstimmig beschlossen
+- TOP 10: Freigabe verkaufsoffener Sonntage im Jahre 2010 - mehrheitlich beschlossen
+- TOP 11: Freigabe eines verkaufsoffenen Sonntags in Eller - mehrheitlich beschlossen
+- TOP 12: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 e.V. - einstimmig beschlossen
+- TOP 13: Etat Ausstellungen und Veranstaltungen im Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 14: Zweiter Abzug von Altpapierdepotcontainern - einstimmig beschlossen
+- TOP 15: Jugendfreizeitstätte Kuthsweg 43 - beantwortet
+- TOP 16: Sachstand Sauberkeitsoffensive im Stadtbezirk 8 - beantwortet
+- TOP 17: Planungen am Elbsee - beantwortet
+- TOP 18: Ranaturierung Sportplatzfläche Tannenhofweg - beantwortet
+- TOP 19: B-Plan - Entwurf Am Kleinforst - beantwortet
+- TOP 20: Soziale Situation im Stadtbezirk 8 - beantwortet
+- TOP 21: Parken auf Gehwegen - beantwortet
+- TOP 22: Sanierung Georg-Schulhoff-Realschule, Kamper Weg - beantwortet
+- TOP 23: Anbau Förderschule Erfurter Weg - beantwortet
+- TOP 24: Konjunkturpaket II im Stadtbezirk 8 - beantwortet
+- TOP 25: Sanierung Lore-Lorentz-Schule - beantwortet
+- TOP 26: Baumbestand Harffstraße - beantwortet
+- TOP 27: Hochkreuz Friedhof Eller - beantwortet
+- TOP 28: Umsetzung des Wartehäuschens In den Kötten - zurückgezogen
+- TOP 29: Neujahrsempfang der Bezirksvertretung 8 - mehrheitlich abgelehnt
+- TOP 30: Mietangebote für Vereine und Initiativen - einstimmig beschlossen
+- TOP 31: Hochbordbahnsteige im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 32: Führung der Straßenbahnlinie 715 - einstimmig beschlossen
+- TOP 33: Parkplatz Gumbertstraße, Netto-Markt - einstimmig beschlossen
+- TOP 34: Toilettenanlage Wasserspielplatz Tannenhofweg - einstimmig beschlossen
+- TOP 35: Hundeauslaufplatz ehem. Sportplatz Tannenhofweg - mehrheitlich beschlossen
+- TOP 36: Abfallbehälter entlang Düssel, Hoxbach und Eselsbach - einstimmig beschlossen
+- TOP 37: Umzäunung Menzelsee - vertagt
+- TOP 38: Brückenbauwerke - zur Kenntnis genommen
+- TOP 39: Baumfällungen an der Südlichen Düssel - zur Kenntnis genommen
+- TOP 40: Fuß- / Radweg Karlsruher Straße - zur Kenntnis genommen
+- TOP 41: Am Hackenbruch - Tempo 30 - Piktogramm - zur Kenntnis genommen
+- TOP 42: Grundstück Festenbergstraße - zur Kenntnis genommen
+- TOP 43: Sperrung der Schlossallee - zur Kenntnis genommen
+- TOP 44: Dynamische Fahrgastinformation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 45: Stadtbad Eller - zur Kenntnis genommen
+- TOP 46: Bezirkshaushaltsplan - zur Kenntnis genommen
+- TOP 47: Fußgängerüberweg Höherweg - zur Kenntnis genommen
+- TOP 48: Fahrbahninstandsetzungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: Signaltechnische Optimierung A 46 - Eller / Deutzer Straße - zur Kenntnis genommen
+- TOP 50: Gehweg Haltestelle Friedhof Eller - zur Kenntnis genommen
+- TOP 51: Lehrerparkplätze GGS Vennhauser Allee und Peter-Härtling-Schule - zur Kenntnis genommen
+- TOP 52: Informationen im Internet - zur Kenntnis genommen
+- TOP 53: Einrichtung einer Ladezone Gumbertstraße / Ellerkirchstraße - zur Kenntnis genommen
+- TOP 54: Hundeauslaufplätze - Doggybags - zur Kenntnis genommen
+- TOP 55: Öffentliche Grünfläche Kamper Weg - zur Kenntnis genommen
+- TOP 56: Park- / Seitenstreifen Schlesische Straße - zur Kenntnis genommen
+- TOP 57: Verkehrsführung Kamper Weg / Eller Kamp - zur Kenntnis genommen
