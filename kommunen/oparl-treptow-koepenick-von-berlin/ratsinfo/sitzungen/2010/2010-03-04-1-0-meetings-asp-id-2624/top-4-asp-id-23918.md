@@ -1,0 +1,8 @@
+# TOP 4: Sicherung Niederschöneweider Jugendprojekte
+
+- Sitzung: 35. (öfftl.) Sitzung des Ausschusses für Bildung und Bürgerdienste (2010-03-04)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=23918
+- Ergebnis: im Ausschuss zurückgezogen
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=23918
