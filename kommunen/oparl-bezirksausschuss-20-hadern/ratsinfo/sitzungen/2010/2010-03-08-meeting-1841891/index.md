@@ -1,0 +1,99 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-03-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1841891
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1841891
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Parken auf dem Gehweg Waldwiesenstraße / Ecke Gräfelfinger Straße
+- TOP 1.2.: Verschmutzung der Würmtalstraße rund um die Filiale der Sparda-Bank
+- TOP 1.3.: Wertstoffcontainer Guardinistraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Budget
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 1: Begrenzung der Geschwindigkeit auf der Autobahn A 96 im Stadtgebiet München auf 60 km/h und entsprechende Überwachung Empfehlung Nr. 08-14 / E 00354 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 29.09.2009 (Kreisverwaltungsreferat, 15.02.10)
+- TOP 1.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters über die Projektplanung: Gestaltung der Tramtrasse Kriegerheimstraße im Zuge des Rückbaus im 20. Stadtbezirk Hadern (Baureferat, 02.02.10)
+- TOP 1.3.: Antrag des Elternbeirates der Hauptschule Blumenauer Straße auf Gewährung eines Zuschusses in Höhe von 800,- ? (Direktorium, 18.02.10)
+- TOP 1.4.: Antrag des digitalanalog e.V. auf Gewährung eines Zuschusses in Höhe von 540,- ? (Direktorium, 23.02.10) dazu: Schreiben des digitalanalog e.V. vom 22.02.10
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren: Geroldseckstraße Ecke Tratzbergstraße (Baureferat, 11.02.10)
+- TOP 6.2.: Mehr Einflussmöglichkeiten für junge Menschen 1, Antrag-Nr. 08-14 / A 01025 der Stadtratsfraktion DIE GRÜNEN / RL vom 01.09.2009 (Direktorium, 08.02.10)
+- TOP 6.3.: Novellierung der Sondernutzungsrichtlinien (Kreisverwaltungsreferat, 19.02.10)
+- TOP 6.4.: Verkehrsrechtliche Anordnung, hier: Ludwig-Hunger-Straße Haltverbot (Kreisverwaltungsreferat, 18.02.10)
+- TOP 6.5.: Vollzug des Sprengstoffgesetzes, hier: Feuerwerk am 12.03.2010 um 19.00 Uhr in der Heiglhofstraße 3 (Kreisverwaltungsreferat, 19.02.10) Eilentscheidung des BA-Vorsitzenden: Zustimmung
+- TOP 6.6.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2, hier: Anhörungs- und Beteiligungsverfahren (Referat für Stadtplanung und Bauordnung, 24.02.10)
+- TOP 6.7.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag des Elternbeirates der Grundschule Canisiusplatz vom 09.12.2009, Klassenintervention zum Thema "Mobbing", Antrag auf Verlängerung des Bewilligungszeitraumes (Direktorium, 25.02.10)
+- TOP 6.8.: Erinnerungsverfahren: Am Ährenfeld (Baureferat, 22.02.10)
+- TOP 6.9.: Änderung der BA-Satzung; Bildung eines Ferienausschusses (Direktorium, 01.03.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Würmtalstr. 56 a, 1 Zypresse
+- TOP 7.2.: Geranienstr. 8, 1 Fichte
+- TOP 7.3.: Waldgartenstr. 51, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2007
+- TOP 7.4.: Senftenauerstr. 21, 1 Esche
+- TOP 7.5.: Würmtalstraße, 1 Weide
+- TOP 7.6.: Waldeslust 20, 1 Weide
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 25.01.10, 03.02.10 und 11.02.10: - Waldfriedhof, 3 Bäume - Kornwegerstraße und Sonnenblumenstraße, 5 Bäume - BAB Lindau nördlich, 1 Ahorn - Schule Senftenauerstraße 21, 1 Ahorn
+- TOP 7.2.: Terofalstr. 101, 1 Weide (Referat für Stadtplanung und Bauordnung, 26.01.10)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Budgetzuschüsse für Angebote der Gewaltprävention in der Schule (Direktorium, 01.02.10)
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Würmtalstraße (Sozialreferat, 26.01.10) - Heckenrosenstraße (Sozialreferat, 10.02.10) - Am Sommerfeld (Sozialreferat, 11.02.10)
+- TOP 8.3.: Rückschnitt von Gehölzaufwuchs: - Würmtalstraße und Kriegerheimstraße, diverse Arten (Baureferat, 05.02.10)
+- TOP 8.4.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Kinderkrippen- und Kindergartenplätzen: - Sauerbruchstraße 25 - Waldgartenstraße 82 (Schul- und Kultusreferat, 05.02.10)
+- TOP 8.5.: Aktualisierte Auflagen- und Hinweisblätter (Kreisverwaltungsreferat, 05.02.10)
+- TOP 8.6.: Mittelfristige Finanzplanung 2009 - 2013 (Stadtkämmerei, 18.02.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Ausschilderung Anwesen Max-Lebsche-Platz 30 - 41 (Baureferat, 26.01.10)
+- TOP 9.2.: Verklebte Schilder in der Helmstädtstraße (Baureferat, 26.01.10)
+- TOP 9.3.: Bolzplatz Ludlstraße (Baureferat, 19.01.10)
+- TOP 9.4.: Durchführung von baulichen Maßnahmen an den Einmündungen Mäuselweg und Vingerstraße (Baureferat, 20.01.10)
+- TOP 9.5.: Radweg auf beiden Seiten der Terofalstraße (Kreisverwaltungsreferat, 21.01.10)
+- TOP 9.6.: Bank zwischen den Kindergärten am Stiftsbogen (Baureferat, 12.02.10)
+- TOP 9.7.: Hundekottütenspender am Spielplatz am Waldrand Sauerbruchstraße (Baureferat, 08.02.10)
+- TOP 9.8.: Aufstellung von Fahrradständern im Bereich der ehemaligen Bushaltestelle Würmtalstraße / Fürstenrieder Straße in dem aufgelassenen Wartehäuschen (Ziffer 1 des Antrages)
+- TOP 9.9.: Garderoben in der Grundschule an der Blumenauer Straße 11 (Kreisverwaltungsreferat, 09.02.10)
+- TOP 9.10.: Regelung Gastschulanträge (Schul- und Kultusreferat, 11.02.10)
+- TOP 9.11.: Renovierungsarbeiten am Schulgebäude Blumenauer Straße 11, Farbanstrich an der Fassade (Schul- und Kultusreferat, 08.02.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Fahrradständer am U-Bahn-Abgang Haderner Stern und Beseitigung eines Lochs (Kath. Pfarramt St. Ignatius, 09.02.10)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Tag des offenen Denkmals am Sonntag, 12.09.2010 (Bayerisches Landesamt für Denkmalpflege, 08.02.10)
+- TOP 11.2.: 18. jetzt - Beteiligung der BAs (Kinderbeauftragte BA 2, 14.02.10)
+- TOP 11.3.: Tag gegen Lärm am Mittwoch, 28.04.2010 (Gesundheitsladen e.V. München, 08.02.10)
+- TOP 11.4.: Probleme in der Zusammenarbeit mit dem Schul- und Kultusreferat (Schr. BA 1, 03.02.10)
+- TOP 11.5.: Regionalgespräche 2010 zwischen Lokalbaukommission und den Bezirksausschüssen Termin: Mittwoch, 14.04.2010 um 17.00 Uhr (Referat für Stadtplanung und Bauordnung, 17.02.10)
+- TOP 11.6.: Broschüre "Seminare 2010" Bauzentrum München (Referat für Gesundheit und Umwelt, 17.02.10)
+- TOP 11.7.: Broschüre "Baurecht after work 2010" Bauzentrum München (Referat für Gesundheit und Umwelt, 17.02.10)
+- TOP 11.8.: Protokoll des Treffens der BA-Vorsitzenden am 14.01.2010 (Direktorium, 19.02.10)
+- TOP 11.9.: Informationsveranstaltung der SWM am 23.03.2010 um 18.00 Uhr (SWM, 22.02.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 27.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03526: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße (Ratzingerplatz) Grundsatzbeschluss
+- TOP 12.2.: Beschluss vom 27.01.2010 im Anschluss an den Beschluss des Kinder- und Jugendhilfeausschusses vom 12.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03237: Grundschule Canisiusplatz 2 A) Generalinstandsetzung des Altbaus und Erweiterung durch Neubau eines Klassentrakts (Gesamtkosten 21.220.000,- Euro, S. 2 - 6, 9) B) Erhalt der Mittagsbetreuung an der Grundschule am Canisiusplatz im bisherigen Umfang und Mitbenutzung der Räume der geplanten Kindertagesstätte, BA-Antr. Nr. 243 (Dem Antrag wird grundsätzlich entsprochen, S. 6 - 7, 11) C) Errichtung eines Horts anstelle des geplanten Tagesheimes an der Grundschule am Canisiusplatz, BA-Antr. Nr. 244 (Abgelehnt, S. 7 - 9, 11)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 19.01.2010 zur Sitzungsvorlage-Nr. 08-14 / V 02502: Lichtkonzept für den öffentlichen Raum in München (Abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03564: Novelle der Bayerischen Bauordnung 2008 a) 1. Bericht zur Umsetzung und erste Erfahrungen aus der Praxis b) Weiteres Vorgehen c) Anträge
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010 zur Sitzungsvorlage-Nr. 08-14 / V 3424: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03620: Ausgleichsflächen in der Bauleitplanung Gesamtstädtisches Konzept (Vertagt bis 10.03.2010)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 03.02.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03628: Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und -telefon des Planungsreferates - Lokalbaukommission
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
