@@ -1,0 +1,53 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-03-09T16:00:00+01:00
+- Ende: 2010-03-09T19:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2728
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2728
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00136732.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00136732.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00136732.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Flinger Broich 87 - zur Kenntnis genommen
+- TOP 4: Flinger Broich-Radwege - einstimmig beschlossen
+- TOP 5: BPl5579/061-Mercedesstr.(Fishman-Tower)öff.Ausl. - einstimmig beschlossen
+- TOP 6: Freigabe verkaufsoffener Sonntage im Jahre 2010 - mehrheitlich abgelehnt
+- TOP 7: Bezirksvertretung Generalien IV - zurückgezogen
+- TOP 8: Fahrrad - Garagen - mehrheitlich abgelehnt
+- TOP 9: Verwendung Haushalt 2010 - einstimmig beschlossen
+- TOP 10: Verwendung Haushalt 2010 - einstimmig beschlossen
+- TOP 11: Verwendung Haushalt 2010 - mehrheitlich beschlossen
+- TOP 12: Bezirksbezogene Haushaltsmittel 2010 - mehrheitlich abgelehnt
+- TOP 13: Verwendung Haushalt 2010 - mehrheitlich abgelehnt
+- TOP 14: Verwendung Haushalt 2010 - mehrheitlich abgelehnt
+- TOP 15: Verwendung Haushalt 2010 - einstimmig beschlossen
+- TOP 16: Verwendung Haushalt 2010 - einstimmig beschlossen
+- TOP 17: Verwendung Haushalt 2010 - mehrheitlich abgelehnt
+- TOP 18: Lindemannstraße - Verkehrssituation - einstimmig beschlossen
+- TOP 19: Unfallstatistik - einstimmig beschlossen
+- TOP 20: Beethovenstraße - mehrheitlich abgelehnt
+- TOP 21: Zoopark V - zurückgezogen
+- TOP 22: Zoopark V - zurückgezogen
+- TOP 23: Ackerstr. II GPW - schriftlich beantwortet
+- TOP 24: Verkehrszeichen - schriftlich beantwortet
+- TOP 25: Zoo-Park V - beantwortet
+- TOP 26: GBA verschiedene HNR II - zur Kenntnis genommen
+- TOP 27: Ackerstr. II - zur Kenntnis genommen
+- TOP 28: Haushalt 2010 - zur Kenntnis genommen
+- TOP 28.1: Haushalt 2010 ff. - zur Kenntnis genommen
+- TOP 28.2: Haushalt 2010 - zur Kenntnis genommen
+- TOP 28.3: Haushalt 2010 - zur Kenntnis genommen
+- TOP 28.4: Haushalt 2010 - zur Kenntnis genommen
+- TOP 29: Abfallbeseitigung Duales System III - zur Kenntnis genommen
+- TOP 30: Umweltschutz VI - zur Kenntnis genommen
+- TOP 31: Flinger Broich 91 - zur Kenntnis genommen
+- TOP 32: Heinrichstraße - Ausbau - zur Kenntnis genommen
