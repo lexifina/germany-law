@@ -1,0 +1,55 @@
+# Ausschuss für Stadtplanung und Verkehr (3. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-03-09T17:00:00+01:00
+- Ende: 2010-03-09T20:07:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUhjwq13OD8QeJJURTyacgc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7962
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVMntDPxdxqUvf_bhUPwYyDd7whjwt3WIANYJl3cr3be/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_09.03.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der Verwaltung über die Ausführung von Beschlüssen/Aufträgen/Empfehlungen aus der Sitzung am 20.01.2010
+- TOP 2.: Umsiedlung Manheim
+- TOP 2.1: Niederschrift der 32. Sitzung des Bürgerbeirates Manheim
+- TOP 2.2: Bau der Kreisstraße zur Erschließung von Manheim-neu
+- TOP 2.3: Bericht der Verwaltung
+- TOP 3.: Stadtentwicklung
+- TOP 3.1: Gewerbeflächenkonzept für die Stadt Kerpen
+- TOP 3.2: Naherholungskonzept für Manheim und Geilrath
+- TOP 3.3: Ausweisung von Erdbebenzonen
+- TOP 3.4: Sachstand Vergnügungsstättenkonzept
+- TOP 4.: Bauleitplanung
+- TOP 4.1: Bebauungsplan SI Nr.28 „Hermann-Löns-Straße“ und seine rechtskräftigen Änderungen hier: Beschluss zur Aufhebung gem. § 2 (1) BauGB
+- TOP 4.2: Bebauungsplan SI 331 "Kerpenerstraße/Goethestraße", Stadtteil Sindorf hier: Beschluss zur Offenlage
+- TOP 4.3: Bebauungsplan KE Nr. 4 im Stadtteil Kerpen und seine rechtskräftigen Änderungen hier: Beschluss zur Aufhebung gem. § 2 (1) BauGB
+- TOP 5.: Verkehrsplanung
+- TOP 5.1: Niederschrift über die Sitzung des Arbeitskreises ÖPNV vom 17.02.2010
+- TOP 5.2: Niederschrift der ersten gemeinsamen Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit und der Kinderunfallkommission vom 25.02.2010
+- TOP 5.3: Verkehrssituation L277 Heppendorfer Straße im Stadtteil Sindorf Hier: verkehrliche Auswirkungen einer Netztrennung für den MIV zwischen der K 39 und der Straße Zum Vogelrutherfeld
+- TOP 5.4: Widmung von Straßen
+- TOP 6.: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen
+- TOP 7.: Mitteilungen
+- TOP 7.1: Sachstandsbericht Einzelhandelssituation im Stadtteil Brüggen
+- TOP 7.2: Demontage der Mobilfunkanlage am Standort Kalksandseteinwerk Empfangslücke Manheim
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: Kurvenbahnsteig und Bahnhofsgebäude Horrem
+- TOP 8.2: Vorgehen der Verwaltung zum Bürgerworkshop Hermann-Löns-Straße im Stadtteil Sindorf
+- TOP 8.3: Querung der Landstraße in Richtung Erftstadt-Gymnich (L 162 Hahnenstraße)
+- TOP 8.4: Projekt Burgackerstraße Stadtteil Brüggen
+- TOP 8.5: Sachstand Einzehandel "Cap-Markt, Nordring im Stadtteil Kerpen
+- TOP 8.6: Sachstand Projekt Brüsseler Straße im Stadtteil Kerpen
+- TOP 8.7: Sachstand Standort REWE Türnich
+- TOP 8.8: Pflanzmaßnahmen bei Bergerhausen
+- TOP 8.9: Sachstand Bebauungsplan Bolzplatz Brüggen
+- TOP 9.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Entwicklung Kerpen - West, Antrag der CDU Fraktion K281/09
+- TOP 11.: Sachstand Standort REWE Türnich/Sachstandsbericht Einzelhandelssituation im Stadtteil Brüggen
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
