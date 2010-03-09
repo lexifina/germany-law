@@ -1,0 +1,8 @@
+# TOP 3.3: Wirtschaftsplan 2010 der Bergischen Entwicklungsagentur GmbH (BEA)
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU (2010-03-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/44731
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/21248
