@@ -1,0 +1,59 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-03-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893393
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893393
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Allgemeine Arbeitsweise und Handlungsmöglichkeiten des Amtes für Wohnen und Migration bei Zweckentfremdungen
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Mülltonnen für Hundekottüten im Bereich Ganghoferstraße / Ecke Ridlerstraße
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Entscheidung über Sondernutzungserlaubnis Speiseeiswirtschaft "Florenz"
+- TOP 5.2.: Anhörung: Gegen eine schleichende Ausweitung des Oktoberfestes
+- TOP 5.3.: Anhörung: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 5.4.: Meldeliste
+- TOP 5.5.: Runder Tisch zum "Bahndeckel" am 25.03.2010
+- TOP 5.6.: Antwort zum BA-Antrag Nr. 02-08/B02644 Sanierungs- und Verkaufsabsichten im förmlich festgelegten Sanierungsgebiet der Schwanthalerhöhe
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Anhörung: Mehr Einflussmöglichkeiten für junge Menschen
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Tag des offenen Denkmals am 12.09.2010
+- TOP 8: Umwelt und Verkehr
+- TOP 1: (E) Parklizenzgebiet Schwanthalerhöhe Einführung des Mischparkens anstatt Bewohnerparken am Gollierplatz Empfehlung Nr. 08-14 / E 00296 der Bürgerversammlung des 8. Stadtbezirkes ? Schwanthalerhöhe am 25.06.2009
+- TOP 1.2.: Parkraummanagement
+- TOP 1.3.: Ausweitung der Parkraummanagementgebiete Theresienhöhe und Ridlerstraße (Antwort zum BA Antrag Nr. 778)
+- TOP 1.4.: (E) Maßnahmen gegen überhöhte Geschwindigkeit am Schul- und Kindergartenweg Hans-Fischer-Straße (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 00032 der Bürgerversammlung des Stadtbezirkes 8 Schwanthalerhöhe am 19.06.2008
+- TOP 1.5.: Verkehrsinsel Grasserstraße
+- TOP 1.6.: Anhörung: Einrichtung von 2 Verkehrshelferübergängen in der Bergmannstraße
+- TOP 1.7.: Anhörung: Festumzug Frühlingsfest am 16.04.2010
+- TOP 1.8.: Anhörung: Baumfällungsantrag Westendstraße 17
+- TOP 1.9.: Anhörung: Baumfällungsantrag Westenstraße 74
+- TOP 1.10.: Anhörung: Baumfällungsantrag Schwanthalerstraße 111a
+- TOP 1.11.: Anhörung: Baumfällungsantrag Geroltstr. 32
+- TOP 1.12.: Antwort auf die Frage zum Winterdienst - Zugang zur Theresienhöhe
+- TOP 1.13.: Antwort: Erneuerung des Zebrastreifens in der Bergmannstraße
+- TOP 1.14.: Tag gegen Lärm am 28.04.2010
+- TOP 1.15.: Verkehrsrechtliche Anordnung: Hotelanfahrtszone Landsberger Straße
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Budgetantrag Workshop "Digitalanalog für Junges Publikum"
+- TOP 9.2.: Budgetantrag Aktion "Mobile Spiele" von April bis Oktober 2010 (MKJZ)
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Probleme in der Zusammenarbeit mit dem Schulreferat
+- TOP 11.2.: 18.jetzt - Beteiligung der Bezirksausschüsse
+- TOP 11.3.: Regionalgespräch 2010 zwischen Lokalbaukommission und den Bezirksausschüssen am 10.03.2010
+- TOP 11.4.: Bahnhofspaten für die S-Bahnhöfe
+- TOP 11.5.: Änderung der Satzung für die Bezirksausschüsse
+- TOP 11.6.: Informationsveranstaltung der SWM am 23.03.2010 um 18 Uhr
+- TOP 12: Protokoll und Umlauf
