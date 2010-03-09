@@ -1,0 +1,110 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-03-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828151
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828151
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.2.: Schreiben vom 03.02.2010: Wiedereinführung eines Taxistandes, Türkenstr. 16
+- TOP 5.2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 18.02.2010 zum Artikel im Lokalteil der "Abendzeitung" über Vor- und Nachteile des Glockbachviertels als "Szeneviertel" und Vergleich mit Verhältnissen in der Maxvorstadt
+- TOP 5.2.4.: Schreiben einer Bürgerin aus der Schönfeldstraße: Verkehrsführung (Einbahnrichtung) in der Schönfeldstraße
+- TOP 5.2.5.: Schreiben eines Bürgers vom 02.03.2010: Kreuzungsregelung Ecke Meiser- / Karlstraße
+- TOP 1: Anträge (1)
+- TOP 1.1.: Stellungnahme zur zukünftigen Gestaltung des Norkauer Platzes (unter Berücksichtigung des Antrages der SPD Stadträte Zurek und Kaplan)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: Deutsche Stiftung Denkmalschutz: Tag des offenen Denkmals am 12.09. 2010, Anmeldung
+- TOP 2: (E) Neubau Landeskriminalamt, Abschalten der Beleuchtung Empfehlung Nr. 08-14 / E 00469 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 19.11.2009
+- TOP 2.3.: Mehr grün in der Maxvorstradt (Nr. 1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 4. KW, 5. KW, 6. KW, 7. KW
+- TOP 2.1.2.: Bauvorhaben Türkenstraße 52 - 54; Beseitigung und Neuerrichtung eines Wohn- und Geschäftshauses sowie Neubau einer Tiefgarage - Vorbescheid vertagt aus der Sitzung 01/10 TOP B 2.1.5
+- TOP 2.1.3.: Bauvorhaben Karlstraße 36; Umbau Vordergebäude mit Lifteinbau, Dachgeschossausbau, Balkonanbau, Wohnungsumbau und Fassadensanierung
+- TOP 2.1.4.: Bauvorhaben Meiserstraße 5 - 9 Neubau eines Verwaltungsgebäudes - Vorbescheid (ehem. Meiserstraße 5 - 9,( laut amtl. Lageplan jetzt Katharina-von-Bora-Straße 5 - 9)
+- TOP 2.1.5.: Bauvorhaben, Dachauer Straße 15 Nutzungsänderung eines Lagers mit Büro in ein Entertainmentcenter mit zwei oder drei Spielhallen à 144 m² mit jeweils zwölf Geldspielgeräten zuzügl. Nebenflächen - Vorbescheid
+- TOP 2.1.6.: Bauvorhaben Barer Straße 3, Anbringung von acht vorgesetzten Balkonen
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Adalbertstr. 76
+- TOP 2.2.2.: Ludwigstr. 28
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Abbau eines Taxistandplatzes in der Nymphenburger Straße 3
+- TOP 2.1.2.: Neueinrichtung eines Taxistandplatzes Arnulfstraße 35 (Hotel Eurostars Grand Central): Neueinrichtung
+- TOP 2.1.3.: Kreisverwaltungsreferat Überprüfung der Lichtzeichenanlagen im Stadtbezirk 3 vertagt aus Sitzung 02/10 TOP C 2.1.1
+- TOP 2.1.4.: Bürgeranfrage, vertagt aus der Sitzung 02/20: Maßmannstraße Nordseite - Fußweg und Radweg zum Spielplatz Maßmannbergl
+- TOP 2.1.5.: Abbau der Lichtzeichenanlage Friedrich-/Georgenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat Sondernutzungserlaubnisse: - ein mobiler Fahrradständer, Hiltenspergerstraße 11
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Vollzug des Gaststättengesetzes: Antrag der "Löwenbräukeller" Gastronomie GmbH vom 29.10.2009 auf Betriebsartänderung in Schank- und Speisewirtschaft mit regelmäßigen Musik-, Kleinkunst- und Theaterdarbietungen
+- TOP 2.3.2.: Kreisverwaltungsreferat, Sondernutzungserlaubniss: - Freischankfläche Schellingstraße 54
+- TOP 2.3.3.: Freischankfläche Schellingsalon, Schellingstraße 54: Bestuhlung der Freischankfläche
+- TOP 2.3.4.: Kreisverwaltungsreferat, Genehmigung einer Freischankfläche Türkenstraße 54
+- TOP 2.3.5.: Kreisverwaltungsreferat, Erweiterung einer bestehenden Freischankfläche: Gabelsberger Straße 99
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Zeltaufstellung für Publikumsgespräche im Innenhof des Volkstheaters, Briennerstraße 50
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Budgetantrag Elternbeirat Grundschule Dachauer Straße: Tanzprojekt
+- TOP 2.2.: Mehr Einflussmöglichkeiten für junge Menschen 1; Antrag Nr. 08-14 / A 01025 der Stadtratsfraktion DIE GRÜNEN/RL vom 01.09.2009
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Bekanntgabe in der Sitzung des Planungsausschusses vom 03.02.2010: Ergebnis der Kundenbefragung
+- TOP 1.2.: Gefahrenbaumfällung Königinstr. 21
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung: Baugenehnmigung gem. Art. 59 und Art 68 BayBO im vereinfachten Genehmigungsverfahren (Werbeanlage), Prielmayerstraße 3, dreimal Austausch Einzelbuchstabenanlage auf Blende, einseitig wirkend, Austausch der Haub am bauseitigen Sonderelement Leuchtkasten, einseitig wirkend
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Bauvorhaben Schellingstraße 44 VG (s. TOP B 2.1.2/1209): Antwortschreiben des Referates für Stadtplanung und Bauordnung auf die Anfrage nach der Ablösung von Stellplätzen zum o.g. Bauvorhaben.
+- TOP 1.6.: Baumfällungen im Garten der Akademie der Bildenden Künste, Ersatzpflanzungen: Schreiben der Landschaftsarvhitektin Dr. Ing. Amrei Mosbauer vom 16.02.2010
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Beschluss des Planungsausschusses vom 03.02.2010: Stellungnahme gegen die Initiative zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 2.3.: Zwischenstand zu BA Antrag Nr. 1776: Rückbau der Fußgängernase Ecke Schellingstraße/Barer Straße
+- TOP 2.4.: Umbenennung der ehem. Meiserstraße soll aufgehoben werden: Eilentscheidung des Vorsitzenden vom 29.01.2010
+- TOP 2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.7.: Beschluss Bauausschuss vom 19.02.2010: Lichtkonzept für den öffentlichen Raum
+- TOP 2.8.: Anfrage aus der Bürgerversammlung des 3. Stadtbezirkes vom 19.11.2009; Aufhebung der Einbahnstraße im Viertel, vertagt aus der Sitzung 02/10 TOP F 2.9
+- TOP 2.9.: Bürgerinitiative Schleißheimer Straße zur Begrünung und Verkehrsberuhigung der Schleißheimer Straße im Abschnitt zwischen Heßstraße und Georgenstraße; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 11.02.2010 auf das Schreiben des BA 3 vom 04.02.2010.
+- TOP 2.10.: Baumaßnahmen der Stadtwerke: - Kaulbachstraße 33, Tiefbauarbeiten, prov. Trafostation - Amalienstraße 17, Umbau, Aufstellung einer prov. Netztrafostation und Umkabelarbeiten zum Beginn und am Ende des Umbaus der Netztrafostation
+- TOP 2.11.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnungen: - Öffnung der Türkenstraße zwischen Akademiestraße und Theresienstraße für den gegenläufigen Radverkehr
+- TOP 2.12.: Kreisverwaltungsreferat, Cycling Days München und südl. Landkreise am 23.05.2010: Schreiben der Regierung von Oberbayern an das Schul- und Kultusreferat/Sportamt
+- TOP 2.13.: Fehlender Briefkasten an der Tramhaltestelle Schellingstraße; Schreiben des Vorsitzenden an die Deutsche Post
+- TOP 2.14.: Schreiben des Kreisverwaltungsreferates vom 18.01.2010: Probeweise Abschaltung der Signalanlage Karl-/Katharina-von-Bora-Straße im Frühjahr 2010 für die Dauer von zwölf Monaten (s. TOP C 1.4 aus der Sitzung 11/09
+- TOP 2.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Kreisjugendring München-Stadt Projekt: "Auf Herz und Rampen prüfen"
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Bescheid an den Vorstand des Kinderhauses am Josephinum e.V. über die Anerkennung von Plätzen
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Sozialreferat, Amt für Soziale Sicherung: Bedarfsplanung zur pflegerischen Versorgung in München, Entwurf einer Beschlussvorlage
+- TOP 4: Kultur
+- TOP 4.1.: Budgetangelegenheit: Dokumentation zur Veranstaltung "Soziale Skulptur München"
+- TOP 4.1.: Optimierung der BA-Beteiligung im Verfahren der Bauleitplanung Anpassung des Anhörungsrechtes für Bezirksausschüsse an die in § 4 BauGB n.F. nunmehr vorgesehene "doppelte Behördenbeiteiligung" BA-Antrag Nr. 08-14 / B 01354
+- TOP 4.2.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München; Beschluss des Verwaltungs- und Personalausschusses vom 10.02.2010 (VB)
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.: Kinder- und Bürgerfest 2010
+- TOP 4.5.: Beauftragte(r) für den Schaukasten neben der U-Bahn-Galerie
+- TOP 4.6.: Änderung der BA-Satzung, Bildung eines Ferienausschusses (Anhörung)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.2.: entfällt
+- TOP 3: Aktuelle Sachstandsberichte
