@@ -1,0 +1,70 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-03-09T16:09:00+01:00
+- Ende: 2010-03-09T17:28:00+01:00
+- Ort: Ratssaal, Rathaus Barmen, 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8192
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8192
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand 22.02.10) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00114503.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00115946.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2008 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2008/2009 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2008 des GMW - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2007 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2008 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2008 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2008 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 2.1: Entlastung des Betriebsausschusses des GMW für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 2.2: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2008 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2010/2011 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2009/2010 - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan 2010 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 3.4: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2010 - Entgegennahme ohne Beschluss
+- TOP 3.5: Wirtschaftsplan 2010 - GMW - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Gesetz zur Schaffung von mehr Transparenz in öffentlichen Unternehmen in Nordrhein-Westfalen - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Jährlicher Bericht über freiwillige Leistungen der Stadt - vertagen
+- TOP 12.2: Auswirkungen der haushaltsrechtlichen Vorgaben der Bezirksregierung auf die Personalwirtschaft - Entgegennahme ohne Beschluss
+- TOP 12.3: Letzter Finco-Bericht 2009 - Entgegennahme ohne Beschluss
+- TOP 12.4: Stand der Schulden und Kassenkredite - Entgegennahme ohne Beschluss
+- TOP 13: Verkäufe und Baumaßnahmen
+- TOP 13.1: Immobilien in Verwaltung der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 13.2: Immobilien in Verwaltung der Delphin Vermögensverwaltung GmbH & Co. KG - Entgegennahme ohne Beschluss
+- TOP 13.3: Finanzierung des Projektes "Städtebauliche Neugestaltung des Platzes vor dem Barmer Bahnhof" - ungeändert beschlossen
+- TOP 14: Dienstanweisungen und Satzungen
+- TOP 14.1: Jagdsteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 14.2: 1. Änderung der Verwaltungsgebührensatzung der Stadt Wuppertal vom 02.04.2009 - ungeändert beschlossen
+- TOP 15: Allgemeine Vorlagen
+- TOP 15.1: Abschluss einer Öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben nach dem Gesetz zur Bildung Einheitlicher Ansprechpartner in Nordrhein-Westfalen zwischen den Städten Remscheid, Solingen und Wuppertal - ungeändert beschlossen
+- TOP 15.2: Unterbringung der Kfz-Zulassungsstelle - ungeändert beschlossen
+- TOP 15.3: Zinsschuldenquote 2009 - Entgegennahme ohne Beschluss
+- TOP 15.4: Einsatz von Zinsderivaten - ungeändert beschlossen
+- TOP 15.5: Externe Einstellungen im Zeitraum Januar bis Dezember 2009 - Entgegennahme ohne Beschluss
+- TOP 15.6: Umsetzung des Haushaltssicherungskonzeptes 2010 - 2014 - ungeändert beschlossen
+- TOP 15.7: Änderung der Entgeltordnung für das Sinfonieorchester Wuppertal - ungeändert beschlossen
+- TOP 15.8: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 15.9: Änderung der Entgeltordnung für die Bergische Musikschule - ungeändert beschlossen
+- TOP 15.10: Bereinigung des städtischen Beteiligungsportfolios - ungeändert beschlossen
+- TOP 16: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 22: Alten- und Altenpflegeheime
+- TOP 23: Berichte und Mitteilungen
+- TOP 23.1: Quartalsbericht IV/2009 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 23.2: Quartalsbericht IV/2009 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 24: Kinder- und Jugendwohngruppen
+- TOP 25: Berichte und Mitteilungen
