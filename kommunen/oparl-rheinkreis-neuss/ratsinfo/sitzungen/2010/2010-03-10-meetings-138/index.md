@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2010-03-10T15:05:00+01:00
+- Ende: 2010-03-10T18:43:00+01:00
+- Ort: Kreishaus Grevenbroich Kreissitzungssaal (1. Etage) Auf der Schanze 4, 41515 Grevenbroich (Tel. 02181/601-2171 oder -2172)
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/138
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/138
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Be- und Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Wahl der Mitglieder des Naherholungsausschusses der Kreiswerke Grevenbroich GmbH - einstimmig beschlossen
+- TOP 2.2: Wahl des stellvertretenden Aufsichtsratsvorsitzenden der Verkehrsgesellschaft Rhein-Kreis Neuss GmbH - einstimmig beschlossen
+- TOP 2.3: Anträge - einstimmig beschlossen
+- TOP 2.4: Verwaltungsausschuss bei der Agentur für Arbeit Mönchengladbach - einstimmig beschlossen
+- TOP 3: Einbringung des Entwurfs des Jahresabschlusses für das Haushaltsjahr 2008 - einstimmig beschlossen
+- TOP 4: Verzeichnis der über-/außerplanmäßigen Aufwendungen und Auszahlungen im Haushaltsjahr 2009 (drittes Verzeichnis) - einstimmig beschlossen
+- TOP 5: Konjunkturpaket II der Bundesregierung
+- TOP 5.1: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen - mehrheitlich abgelehnt
+- TOP 5.2: Konjunkturpaket II der Bundesregierung - einstimmig beschlossen
+- TOP 6: Kreishaushalt 2010
+- TOP 6.1: Beteiligungsrecht der kreisangehörigen Städte/Gemeinden bei der Aufstellung der Haushaltssatzung des Rhein-Kreises Neuss gem. § 55 KrO. NRW - einstimmig beschlossen
+- TOP 6.2: Haushaltssatzung nebst Anlagen des Rhein-Kreises Neuss für das Haushaltsjahr 2010
+- TOP 6.2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.2: Antrag der SPD-Kreistagsfraktion zur Stärkung der interkommunalen Zusammenarbeit - einstimmig beschlossen
+- TOP 6.2.3: Zahlungstermine der Kreisumlage - einstimmig beschlossen
+- TOP 6.2.4: Haushaltssatzung nebst Anlagen des Rhein-Kreises Neuss für das Haushaltsjahr 2010 - mehrheitlich beschlossen
+- TOP 7: Kreisjugendmusikschule - Erhöhung der Unterrichtsgebühren - einstimmig beschlossen
+- TOP 8: Errichtung und Änderung von Bildungsgängen an den Berufsbildungszentren - einstimmig beschlossen
+- TOP 9: Fortführung der Ausbildung Chemisch-technischer Assistentinnen/Assistenten am Berufsbildungszentrum Dormagen - einstimmig beschlossen
+- TOP 10: Wirtschaftsplan für das Jahr 2010 für die Seniorenhäuser des Rhein-Kreises Neuss - einstimmig beschlossen
+- TOP 11: Wirtschaftspläne der Kreiskrankenhäuser Dormagen und Grevenbroich - einstimmig beschlossen
+- TOP 12: Gesamtstellenplan 2010 - einstimmig beschlossen
+- TOP 13: Fairtrade-Kreis - einstimmig beschlossen
+- TOP 14: Abschluss einer öffentlich-rechtlichen Vereinbarung zwischen dem Rhein-Kreis Neuss und der Stadt Mönchengladbach zur Übertragung der Aufgaben nach dem Gesetz zur Bildung Einheitlicher Ansprechpartner in Nordrhein-Westfalen (EA - Gesetz NRW) - einstimmig beschlossen
+- TOP 15: Anträge
+- TOP 15.1: Gemeinsamer Antrag der CDU- und FDP-Kreistagsfraktion zum Thema "Inklusion" vom 23.02.2010 - einstimmig beschlossen
+- TOP 15.2: Antrag der SPD-Kreistagsfraktion zum Thema "TNT" vom 14.01.2010
+- TOP 15.3: Antrag der Kreistagsfraktion Bündnis 90/Die Grünen zum Thema "Aufruf für ein Sanktionsmoratorium" vom 25.01.2010
+- TOP 15.4: Gemeinsamer Antrag der CDU- und FDP-Kreistagsfraktionen zum Thema "Sozialstruktur-Atlas" vom 26.02.2010
+- TOP 16: Mitteilungen
+- TOP 17: Anfragen
+- TOP 17.1: Anfragen der SPD-Kreistagsfraktion zum Thema "Grundwasser" vom 26.01.2010 und 01.02.2010
+- TOP 17.2: Anfrage der Fraktion Bündnis 90/ Die Grünen zur Bauaufsicht zur Vermeidung von Sicherheitsmängeln vom 05.03.2010
+- TOP 17.3: Sperrvermerk
+- TOP 18: Einwohnerfragestunde
