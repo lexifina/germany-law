@@ -1,0 +1,7 @@
+# TOP 9: Benennung von Mitgliedern für die Umsetzungsgruppe für das Interkulturelle Gesamtkonzept
+
+- Sitzung: Zuwanderer- und Integrationsrat (2010-03-10)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/24386
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/15471
