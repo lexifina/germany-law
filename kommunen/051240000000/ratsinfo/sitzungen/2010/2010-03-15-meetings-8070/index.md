@@ -1,0 +1,102 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-03-15T16:03:00+01:00
+- Ende: 2010-03-15T21:12:00+01:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8070
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8070
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung des Rates - Stand: 12.03.2010 - 09.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00115581.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00115868.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00115673.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2: Wahlvorschlag der CDU-Ratsfraktion zur Wahl des Beigeordneten für Kultur, Bildung und Sport - ungeändert beschlossen
+- TOP 1.3: Einbringung Haushaltsplanentwurf 2010 / 2011
+- TOP 1.4: Haushaltssicherungskonzept
+- TOP 1.4.1: Umsetzung des Haushaltssicherungskonzeptes 2010 - 2014 - ungeändert beschlossen
+- TOP 1.4.2: Große Anfrage zum HSK-Entwurf der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 1.4.2: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 22.12.2009 - abschließend zur Kenntnis genommen
+- TOP 1.4.3: Von Bund und dem Land NRW verursachte Einnahmeverluste in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 1.4.3: Vom Bund und dem Land NRW verursachte Einnahmeverluste in Wuppertal; Anfrage der Fraktion Bündnis 90/DIE GRÜNEN vom 22.02.10, VO/0216/10 - abschließend zur Kenntnis genommen
+- TOP 1.4.4: Wege aus der Kommunalverschuldung - abschließend zur Kenntnis genommen
+- TOP 1.4.4: Wege aus der Kommunalverschuldung; Anfrage der FDP-Fraktion vom 23.02.10, VO/0227/10 - abschließend zur Kenntnis genommen
+- TOP 1.4.5: Haushaltskonsolidierung nur bei Vorleistung des Landes - abgelehnt
+- TOP 1.4.6: Änderungsantrag zu VO/0131/10 - Einsparungen - Politik hat Vorbildfunktion - zur Vorberatung verwiesen
+- TOP 1.4.7: Haushaltssicherungskonzept: Konzept zur Beteiligung der BürgerInnen - abgelehnt
+- TOP 1.4.8: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 1.4.9: Änderung der Entgeltordnung für das Sinfonieorchester Wuppertal - ungeändert beschlossen
+- TOP 1.4.10: Änderung der Entgeltordnung für die Bergische Musikschule - ungeändert beschlossen
+- TOP 1.4.11: Bereinigung des städtischen Beteiligungsportfolios - ungeändert beschlossen
+- TOP 1.4.12: Austritt der Stadt Wuppertal aus dem Zweckverband Wildgehege Neandertal - ungeändert beschlossen
+- TOP 1.4.13: HSK - Personalentwicklung in den Ressorts Umweltschutz sowie Grünflächen und Forsten - abschließend zur Kenntnis genommen
+- TOP 1.4.13: Beantwortung der Großen Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 09.02.10 zum HSK - abschließend zur Kenntnis genommen
+- TOP 1.4.14: HSK: Laufendes Geschäft der Verwaltung wieder in die Hände der Politik geben - abgelehnt
+- TOP 1.4.15: Auswirkungen Aufgabenzuweisung des Landes NRW an die Stadt Wuppertal - zur Vorberatung verwiesen
+- TOP 1.4.16: Beitrag der Stadtsparkasse zur Haushaltskonsolidierung - zurückgezogen
+- TOP 1.4.17: Haushaltssicherungskonzept ablehnen - abgelehnt
+- TOP 1.4.18: "Essener Signal" uneingeschränkt unterstützen - ungeändert beschlossen
+- TOP 1.4.19: Änderungsantrag zu VO/0247/10 - Essener Signal - Eigenverpflichtung ernst nehmen - abgelehnt
+- TOP 1.4.20: "Essener Signal uneingeschränkt unterstützen" - abgelehnt
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Keine zusätzlichen Fördermittel für den Ganztag in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort zur Anfrage der Ratsfraktion Bündnis 90 /Die Grünen vom 24.02.2010 "Keine zusätzlichen Fördermittel für den Ganztag in Wuppertal" - abschließend zur Kenntnis genommen
+- TOP 2.2: Dramatische Verschlechterung der Personalsituation in Wuppertaler Kitas - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Dramatische Verschlechterung der Personalsituation in Wuppertaler Kitas - Anfrage der Ratsfraktion Bündnis 90 DIE GRÜNEN - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Umsetzung der UN-Konvention über die Rechte der Menschen mit Behinderung
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Aufgabenträgerschaft im SGB II - ungeändert beschlossen
+- TOP 4.2: Demografie gestalten - abgelehnt
+- TOP 4.3: Neueinführung einer Baumschutzsatzung - abgelehnt
+- TOP 4.3.1: Baumschutzsatzung - abgelehnt
+- TOP 4.4: "Essener Signal" uneingeschränkt unterstützen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Eintritte für Kinder, Jugendliche und Schülerinnen und Schüler auflisten - für erledigt erklärt
+- TOP 6: Ortsrecht
+- TOP 6.1: Jagdsteuersatzung der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Änderung der Entgeltordnung für die Bäder der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: 1. Änderung der Verwaltungsgebührensatzung der Stadt Wuppertal vom 02.04.20009 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Finanzierung des Projektes "Städtebauliche Neugestaltung des Platzes vor dem Barmer Bahnhof" - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2008 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2008 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2008 des Eigenbetriebes Gebäudemanagement Wuppertal (GMW) - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses des GMW für das Geschäftsjahr 2008 - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2010 - GMW - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1129 - Am Haken / Mirker Bach - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1075 - Spelleken Park - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1139 - Geranienstraße - - Dringlichkeitsentscheidung genehmigt
+- TOP 9.4: Fluchtlinienplan Nr. 549 - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 1110 - Samoastraße - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1143 - Laaker Teich - - ungeändert beschlossen
+- TOP 9.7: Vorhabenbezogener Bebauungsplan Nr. 1107 V -Heidter Straße / Rädchen- - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Gymnasium Bayreuther Str., Errichtung einer Verteilerküche und einer Mensa - Dringlichkeitsentscheidung genehmigt
+- TOP 10.2: Realschule Blücherstr. in Vohwinkel, Errichtung einer Verteilerküche und einer Mensa - Dringlichkeitsentscheidung genehmigt
+- TOP 10.3: Realschule Hohenstein, Errichtung einer Verteilerküche und einer Mensa - Dringlichkeitsentscheidung genehmigt
+- TOP 10.4: Schulzentrum Süd (Carl-Fuhlrott-Gymnasium und Friedrich-Bayer-Realschule), Errichtung einer Verteilerküche und einer Mensa - Dringlichkeitsentscheidung genehmigt
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Entscheidung über die Gültigkeit der Wahl des Oberbürgermeisters am 30. August 2009 - ungeändert beschlossen
+- TOP 11.2: Entscheidung über die Gültigkeit der Wahl des Rates der Stadt am 30. August / Nach-wahl im (Kommunal-)Wahlbezirk 01 Elberfeld-Mitte am 27. September 2009 sowie der Vertretungen der Stadtbezirke am 30. August 2009 - ungeändert beschlossen
+- TOP 11.3: Gremientätigkeiten von Herrn Oberbürgermeister Jung - Entgegennahme ohne Beschluss
+- TOP 11.4: Abschluss einer Öffentlich-rechtlichen Vereinbarung zur Übertragung der Aufgaben nach dem Gesetz zur Bildung Einheitlicher Ansprechpartner in Nordrhein-Westfalen zwischen den Städten Remscheid, Solingen und Wuppertal - ungeändert beschlossen
+- TOP 11.5: Richtlinien der Stadt Wuppertal zur aktiven Mitwirkung in den Gebieten der Sozialen Stadt/Stadtumbau West - Verfügungsfonds - ungeändert beschlossen
+- TOP 11.6: Unterbringung der Kraftfahrzeug - Zulassungsstelle - ungeändert beschlossen
+- TOP 11.7: Austritt der Stadt Wuppertal aus dem Zweckverband Erholungsgebiet Ittertal - ungeändert beschlossen
+- TOP 11.8: Weiterführung der integrativen Lerngruppe - zieldifferent - in der Sekundarstufe I - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bildung der Kreiswahlausschüsse für die Landtagswahl am 09. Mai 2010 - geändert beschlossen
+- TOP 12.2: Ergänzung des Jugendhilfeausschusses um zwei weitere beratende Mitglieder - geändert beschlossen
+- TOP 12.3: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 10. Juni 2010 in Neuss - Benennung der stimmberechtigten Abgeordneten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.4: Umbesetzung im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.5: Wahl der Stellvertretenden Mitglieder im Integrationsausschuss - geändert beschlossen
+- TOP 12.6: Umbesetzung im Ausschuss für Ordnung, Sicherheit und Sauberkeit und Betriebsausschuss ESW - ungeändert beschlossen
