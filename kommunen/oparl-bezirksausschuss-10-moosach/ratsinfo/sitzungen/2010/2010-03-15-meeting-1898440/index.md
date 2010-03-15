@@ -1,0 +1,92 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898440
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898440
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Busverbindungen nach U3 Ausbau bis zum Moosacher Bahnhof
+- TOP 2.2.: Parken im Magdalena-Bräu-Weg
+- TOP 2.3.: Zebrastreifen/Ampel für Fußgänger aus Richtung der Oskar-Barnack-Straße zum OEZ
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ausbau Hayler Straße
+- TOP 3.2.: Ortstermin Parksituation Gärtnerstraße
+- TOP 3.3.: Ortstermin Parksituation in der Irma-Wenke-Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Trinklsiedlung; hier: Wertstoffinsel - Mondscheinweg ? Trinklsiedlung
+- TOP 3.2.: Nachqualifizierung der Denkmalliste; hier: Dorfkernensemble Moosach
+- TOP 3.3.: Baumfällungen entlang der Landshuter Allee
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Rückschnitt der Hecken am Rangierbahnhof
+- TOP 4.2.: Rodelhügel Spielplatz Oskar-Barnack-Straße; Rodelhügel Grünanlage In den Kirschen
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Entscheidung über Sperrzeitänderung; Antrag der WHF GmbH
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 10; Workshop "Digitalanalog für Junges Publikum" im Frühjahr / Sommer 2010
+- TOP 6: Anhörungen
+- TOP 6.1.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge
+- TOP 6.2.: Mehr Einflussmöglichkeiten für junge Menschen 1; Antrag Nr. 08 - 14 / A 01025 der Stadtratsfraktion DIE GRÜNEN/RL vom 01.09.2009
+- TOP 6.3.: Tag des offenen Denkmals am Sonntag, 12. September 2010
+- TOP 6.4.: Parkregelung in der Pelkovenstraße 51 - 53
+- TOP 6.5.: Novellierung der Sondernutzungsrichtlinien
+- TOP 6.6.: Vollzug der Baumschutzverordnung: 1. Darmstädter Str. 6
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Ameisenplage auf Spielplätzen und Bürgersteigen (Antworten der BAs 13, 14, 17, 18, 19, 21, 22 und 24 auf den Antrag des BA 10)
+- TOP 7.2.: Maßnahmen zur Erhöhung der Sicherheit in der Unterführung Dachauer Straße (Erneuerung der Verkehrsgeländer und Installierung von Spritzschutz im Dezember 2009)
+- TOP 7.3.: Lkw-Parkverbot im Wohngebiet Claudiusplatz (Anfrage aus der Bürgerversammlung; Keine Einrichtung eines Lwk-Parkverbots)
+- TOP 7.4.: Sauberkeit der Straßen in Moosach (Antwort des Baureferates: Mit Splitterabkehraktion muss erfahrungssgemäß bis kurz vor Ostern abgewartet werden)
+- TOP 7.5.: Errichtung eines Basketballfeldes in der Grünanlage an der Karl-Lipp-Straße (Der Basketballkorb wird in die angrenzende Rasenfläche versetzt und der Bereich um den Korb asphaltiert.)
+- TOP 7.6.: Anträge zum MVG Angebot (Empfehlungen aus der Bürgerversammlung am 13.10.2009 - Zwischennachricht)
+- TOP 7.7.: Verlängerung der Geschwindigkeitsbegrenzug auf 30 km/h in der Riesstraße (Eine Verlängerung wurde abgelehnt, da eine gesicherte Querungsmöglichkeit durch den fertiggestellten Fußgängerüberweg besteht.)
+- TOP 7.8.: Verbesserung der Straßenbeleuchtung in der Pelkovenstraße im Zuge der Straßenwiederherstellung nach dem Bau der U3 (Voraussichtliche Errichtung einer neuen Straßenbeleuchtung in diesem Jahr)
+- TOP 7.9.: Modernisierung der Spielflächen des Amphionparkes (Planung und Bürgerbeteiligung sind für 2010 vorgesehen. Die Umsetzung kann frühstens 2011 erfolgen)
+- TOP 7.10.: Errichtung einer Fußgängerwarnampel an der Kreuzung Hugo-Troendle- / Dachauer Straße stadtauswärts (Anbringung eines Gelbblinkers ist nicht erforderlich und wird vom KVR auch nicht befürwortet.)
+- TOP 7.11.: Schulweg "In den Kirschen" (Aufstellen der Beleuchtung im Sommer 2010, damit Ausweisung als offizieller Schulweg möglich)
+- TOP 7.12.: Aufstellen von Fahrradständern an der Trambahnhaltestelle Hugo-Troendle-Straße (Einrichtung von ca. 7 Fahrradstellplätzen, aufgrund beengter Platzverhältnisse ist keine Aufstellung von Fahrradständern möglich)
+- TOP 7.13.: Ausweisung eines Zweirichtungsradweges an der Allacher Straße (wird ausgeführt)
+- TOP 7.14.: KomPro/B und Kinderkrippe in der Bunzlauer- / Baubergerstraße (Zwischennachricht des Kommunalreferates)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Wintersplittabkehr 2010 - Terminschiene zur Info
+- TOP 8.4.: Dachauer Straße (nordöstlich) zwischen Willi-Gebhard-Ufer, Olympiapark, Schwere-Reiter-Straße und Leonrodplatz Entwicklung des Olympischen Dorfes und des Mediendorfes
+- TOP 8.5.: Bericht über die der Beschlussvollzugskontrolle unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung der Vollversammlung des Stadtrates
+- TOP 8.6.: City Bike Marathon München: Zeitfenster mit Ordnerkonzept und Durchlaufzeiten
+- TOP 8.7.: Vollzug der Baumschutzverordnung: Lechelstr. 14
+- TOP 8.8.: Wohnungsmarkt München Expertenbefragung 2008
+- TOP 8.9.: Nutzung erneuerbarer Energien im Städtebau
+- TOP 8.10.: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP 8.11.: Protokoll der BA-Veranstaltung am 30.11.2009 des Sozialreferates
+- TOP 8.12.: Verlängerung der U3 bis Moosach ab Ende 2010: Busverkehr am Olympia-Einkaufszentrum Ost
+- TOP 8.13.: Information über das Betriebsskonzept während der Schleifarbeiten auf der U1 Nord OEZ - Rotkreuzplatz im Abendverkehr
+- TOP 8.14.: Aufstellung "Mobile Interims- Schulraumeinheiten" Grund- und Hauptschule Haldenbergstraße 27
+- TOP 8.15.: Ergebnis der Kundinnen- / Kundenbefragung zum Servicezentrum und -telefon des Planungsreferats - Lokalbaukommission
+- TOP 8.16.: Probleme in der Zusammenarbeit mit dem Schulreferat
+- TOP 8.17.: "Sozialgerechte Bodennutzung" - Ein Erfolgsmodell feiert Jubiläum
+- TOP 8.18.: Lärmminderungsplanung für München
+- TOP 8.19.: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 8.20.: Lichtkonzept für den öffentlichen Raum in München
+- TOP 8.21.: Mobilfunk; Suchkreismeldung - nicht öffentlich -
+- TOP 8.22.: Baubeginnsanzeige der Mobilfunksendeanlage - nicht öffentlich -
+- TOP 8.23.: Protokoll des "Runden Tischs" zum Münchner Norden am 01.12.2009 in Unterschleißheim
+- TOP 8.24.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 8.25.: Frühzeitige Unterrichtung: Vorhabenbezogener Bebauungsplan mit Grünordnungs Nr. 1821 b Hanauer Straße (östlich), Pelkovenstraße (nördlich), westlich und südlich des OEZ
+- TOP 8.26.: Haltverbote in der Hirsch- und Dresdner Straße (Bürgeranfrage)
+- TOP 8.27.: Unveränderte Fortführung von Gaststättenbetrieben: a) Café im OEZ, Riesstr. 65
+- TOP 8.28.: Bauträgerauswahl für Baugrundstücke des Kommunalen Wohnungsbauprogramms
+- TOP 8.29.: Grenzmarkierung vor Garage in der Quedlinburger Straße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
