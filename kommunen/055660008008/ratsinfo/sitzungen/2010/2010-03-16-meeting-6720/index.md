@@ -1,0 +1,58 @@
+# Rat (46. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2010-03-16T18:05:00+01:00
+- Ende: 2010-03-16T22:02:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWS3FEgqvRjewvdgmmm9ZJY
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6720
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYOrzwH0pRQjAhB-SnetAgv1RiWni5Whf-RgA8njUtI1/Bekanntmachung_Rat_16.03.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZEl6nmAAahJNshxMPE3Ff2hIti2U1kjXqMKNQ4pNH_L/Oeffentliche_Niederschrift_Rat_16.03.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 23.02.2010
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Antrag "Abschaffung des Programms 'Familien gewinnen'"
+- TOP 5.: Haushaltssatzung und Produkte 2010 - 20 Ja-Stimme(n), 18 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 6.: Umbesetzung von Gremien - Einstimmig
+- TOP 7.: Neuwahl von Mitgliedern des Umlegungsausschusses - Einstimmig
+- TOP 8.: Genehmigung einer Dringlichkeitsentscheidung des Haupt-, Finanz- und Steuerungsausschusses betr. Genehmigung einer Dienstreise von Ratsmitgliedern - Einstimmig
+- TOP 9.: Genehmigung von Dienstreisen für Mitglieder des Rates der Stadt Emsdetten im Rahmen der Wahrnehmung von Mitgliedschaftsrechten in Verbänden, Vereinen und sonstigen Gremien - (kein Text vorhanden)
+- TOP 9.1: Genehmigung von Dienstreisen für Mitglieder des Rates der Stadt Emsdetten und seiner Ausschüsse im Rahmen der Wahrnehmung von Mitgliedschaftsrechten in Verbänden, Vereinen und sonstigen Gremien sowie für Dienstreisen im Rahmen ihrer Mandatstätigkeit (Wahlperiode 2009 bis 2014) - Einstimmig
+- TOP 10.: K 53n, Westumgehung Emsdetten bekräftigender Grundsatzbeschluss - 32 Ja-Stimme(n), 7 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 11.: Ermächtigungsübertragungen nach § 22 GemHVO - Zur Kenntnis genommen
+- TOP 12.: Richtlinien
+- TOP 12.1: Richtlinien für städtische Zuschüsse zu Lärmschutzmaßnahmen Antrag der Fraktion "DIE GRÜNEN" vom 09.12.2009 - Einstimmig
+- TOP 13.: Verkehrsfragen
+- TOP 13.1: Erhebung von Parkgebühren durch Parkscheinautomaten - Verkürzung der Parkzeit je Zahleinheit - 37 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 14.: Satzungsrecht
+- TOP 14.1: XIII. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten - Einstimmig
+- TOP 14.2: XIV. Nachtrag zur Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten - Kalkulation Kanalanschlussbeitrag - - Einstimmig
+- TOP 14.3: Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten in der Fassung des XV Nachtrags - Einstimmig
+- TOP 14.4: I. Nachtrag zur Satzung der Stadt Emsdetten über die Erhebung von Beiträgen nach § 8 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) für straßenbauliche Maßnahmen in der Stadt Emsdetten vom 18. Dezember 2002 - Einstimmig
+- TOP 14.5: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Sommerreinigung und der Winterwartung ab April 2010 - (kein Text vorhanden)
+- TOP 14.5.1: Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Sommerreinigung und der Winterwartung ab April 2010 - 36 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 15.: Gebühren zur Satzung über die Abfallentsorgung in der Stadt Emsdetten auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Abfallentsorgung ab April 2010 - Einstimmig
+- TOP 16.: Abwasserbeseitigung; Gebührenkalkulation für das Jahr 2010 - Einstimmig
+- TOP 17.: Anpassung Verwaltungsgebührensatzung - Einstimmig
+- TOP 18.: Handbuch Sondernutzung - 36 Ja-Stimme(n), 0 Gegenstimme(n), 3 Enthaltung(en)
+- TOP 19.: Bebauungspläne
+- TOP 19.1: Bebauungsplan Nr. 39 "Engelnkamp", 10. Änderung - Beschluss über die eingegangenen Stellungnahmen - Satzungsbeschluss - Herbeiführung der Rechtskraft - Einstimmig
+- TOP 20.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 20.1: Aufhebung von Ratsbeschlüssen bezüglich der Handhabung von Vorausleistungen - Einstimmig
+- TOP 21.: Klärschlammvererdung in der Kläranlage Emsdetten-Austum - Einstimmig
+- TOP 22.: Fassadensanierung des NW-Traktes am Gymnasium Martinum - Einstimmig
+- TOP 23.: Resolution zur Finanzierung von Schulsozialarbeit - Einstimmig
+- TOP 24.: Etat / Budget
+- TOP 24.1: Einführung von Schulsozialarbeit an fünf Emsdettener Grundschulen - 37 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 25.: Umgestaltung Platz Brink und Bahnhofstraße - Ermächtigung des AI zur Auftragsvergabe - 32 Ja-Stimme(n), 0 Gegenstimme(n), 7 Enthaltung(en)
+- TOP 26.: Stellenplan
+- TOP 26.1: Stellenplan 2010 - 38 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 27.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2010 - Einstimmig
+- TOP 28.: Verschiedenes
