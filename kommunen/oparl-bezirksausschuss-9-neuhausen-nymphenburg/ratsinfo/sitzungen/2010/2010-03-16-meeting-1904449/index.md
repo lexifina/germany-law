@@ -1,0 +1,111 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-03-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904449
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904449
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag digitalanalog e.V. (Az.: 03/10 - 3.4.1): Zuschuss in Höhe von 540 ? für den Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010
+- TOP 2.3.2.: Antrag Gemeinschaftszentrum Integriertes Wohnen (Az.: 03/10 - 3.4.2): Zuschuss in Höhe von 90,27 ? für einen Ausflug ins Sealife für BewohnerInnen der betreuten Altenwohnungen am 08.04.10
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: KVR (Az.: 03/10 - 3.1.1): Verlängerung der Grünphasen für Fußgänger an den Ampelanlagen der Kreuzungen Nymphenburger-/Volkartstraße, Leonrod-/Dachauer Straße sowie Dachauer-/Heideckstraße (Empfehlung Nr. 457 der Bürgerversammlung vom 24.11.09)
+- TOP 2.4.2.: Baureferat (Az.: 03/10 - 3.1.2): Sanierung der Gehwege Stupfstraße, Schäringerstraße, Menradstraße (Empfehlung Nr. 454 der Bürgerversammlung vom 24.11.09)
+- TOP 2.4.3.: Baureferat (Az.: 10/96 - 3.2.13): Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung der Gesamtstrecke der Claire-Watson-Straße
+- TOP 2.4.4.: KVR (Az.: 03/10 - 4.10): Genehmigung einer Freischankfläche, Bäckerei Isaak, Nibelungenstr. 4
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Beschlussvorlage KVR: Verlängerung der Grünphasen für Fußgänger an den Ampelanlagen der Kreuzungen Nymphenburger-/Volkartstraße, Leonrod-/Dachauer Straße sowie Dachauer-/Heideckstraße (Empfehlung Nr. 457 der Bürgerversammlung vom 24.11.09)
+- TOP 3.2.: Beschlussvorlage Baureferat: Sanierung der Gehwege Stupfstraße, Schäringerstraße, Menradstraße (Empfehlung Nr. 454 der Bürgerversammlung vom 24.11.09)
+- TOP 3.3.: KVR: Waisenhausstr. 74, Anordnung eines absoluten Haltverbots für die Feuerwehrzufahrt
+- TOP 3.4.: KVR: Änderung des Zeitzusatzes der zwei allgemeinen Behindertenparkplätze in der Donnersbergerstr. 5
+- TOP 3.5.: KVR: Krankenanfahrtszone Nymphenburger Str. 163, Freigabe für medizinische Transporte
+- TOP 3.6.: Baureferat: Wintersplittabkehr 2010
+- TOP 3.7.: Informationsveranstaltung der Stadtwerke am 23.03.10 um 18 Uhr
+- TOP 3.8.: Baumaßnahmen der Stadtwerke: Fernwärmeprojekt Merianstraße
+- TOP 3.9.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Beschlussvollzugskontrolle(BVK); Bericht über die der BVK unterliegenden Beschlüsse im Zeitraum 01.07.-31.12.09
+- TOP 3.10.: Referat für Arbeit und Wirtschaft: Aufzüge Laimer Unterführung zur S-Bahn (Antrag BA 9 Nr. 1797 vom 19.01.10)
+- TOP 3.11.: Bürgeranliegen: Keine Verschlechterung für Behinderte durch den Neubau der Tram Westtangente
+- TOP 3.12.: Anfrage CSU und FDP zur Tram Westtangente (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.13.: Beschluss der Vollversammlung des Stadtrats vom 27.01.10: Neubaustrecke Tram Westtangente vom Romanplatz bis zur Aidenbachstraße; Grundsatzbeschluss
+- TOP 3.14.: KVR: 1. und 2. Nachtrag Anhörung Cycling Days München am 23.05.10
+- TOP 3.15.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Blutenburgstr. 57
+- TOP 3.16.: Baureferat: Fuß- und Radwegbrücken in München (Schreiben BA 9 vom 16.11.09)
+- TOP 3.17.: KVR: Bürgeranliegen: Haltverbot an der Kreuzung Franz-Schrank-Straße / In den Kirschen (Schreiben BA 9 vom 11.12.09)
+- TOP 3.18.: Baureferat: Bürgeranliegen: Raser in der Birkerstraße (Schreiben BA 9 vom 11.12.09)
+- TOP 3.19.: Antrag CSU: Statt Wendeschleife an der Lothstraße Frequenzverstärkung der Tram 20/21 bis Westfriedhof
+- TOP 3.20.: KVR: Neue und verlängerte Fahrbahnmarkierung der Abbiegespuren am Romanplatz (Antrag BA 9 Nr. 1324 vom 21.07.09)
+- TOP 3.21.: KVR: Abschaltung der Lichtzeichenanlage Dom-Pedro-/Raglovichstraße; hier: Schließung des Westastes der Merianstraße
+- TOP 3.22.: KVR: Aufhebung der "unechten" Einbahnstraßenregelung an der Ecke De-la-Paz-/Winfriedstraße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.23.: Antrag CSU: Anbindungen der Stadtteilbereiche Ebenau und Gern-West an das ÖPNV-Netz durch Stadtteilbusse
+- TOP 3.24.: Planungsreferat: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2; hier: Anhörungs- und Beteiligungsverfahren
+- TOP 3.25.: Bürgeranliegen: Beschwerde über die Erteilung von Parklizenzen für Unternehmen
+- TOP 3.26.: Beschlussvorlage Baureferat: Vollzug des Bayerischen Straßen- und Wegegesetzes; Widmung der Gesamtstrecke der Claire-Watson-Straße
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 01.02.-07.02, 08.02.-14.02., 15.02.-21.02. und 22.02.-28.02.2010
+- TOP 3.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: EU Projekt "POLIS" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategien in Städtebau und strategischer Planung
+- TOP 3.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Wohnungsmarkt München, Expertenbefragung 2009
+- TOP 3.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Nutzung erneuerbarer Energien im Städtebau
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP 3.6.: Planungsreferat: Regionalgespräche mit der Lokalbaukommission am 24.03.10 um 16 Uhr / Themenwünsche ?
+- TOP 3.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: Novelle der Bayerischen Bauordnung 2008; Bericht zur Umsetzung und erste Erfahrungen aus der Praxis, weiteres Vorgehen
+- TOP 3.8.: Bauvorhaben Stuberstr. 20: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.9.: Bauvorhaben Lannerstr. 5: Neubau eines Doppelhauses mit Einliegerwohnung
+- TOP 3.10.: Immobilien Freistaat Bayern: Nachnutzung des Geländes Rosa-Luxemburg-Platz / Emma-Ihrer-Straße, südliches Oberwiesenfeld (Schreiben BA 9 vom 12.11.09, Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.11.: Beschluss der Vollversammlung des Stadtrats vom 03.03.10: Dachauer Straße (nordöstlich) zwischen Willi-Gebhard-Ufer, Olympiapark, Schwere-Reiter-Straße und Leonrodplatz; Entwicklung des Olympischen Dorfes und des Mediendorfes 2018; Grundsatzbeschluss und weiteres Vorgehen
+- TOP 3.12.: Bürgeranliegen: Spielhalle in der Schwanthalerstr. 28 - Vergleich mit der Nymphenburger Str. 150
+- TOP 3.13.: Bauvorhaben Südliche Auffahrtsallee 26: Nutzungsänderung einzelner Wohnräume in eine Physiotherapie-Praxis
+- TOP 3.14.: WEB-Listen vom 16.01.-31.01. und 01.02.-15.02.10
+- TOP 3.15.: Sozialreferat: Zweckentfremdung von Wohnraum, hier: Bernabeistraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Horemansstr. 11-21: Fällung von 1 Blaufichte
+- TOP 3.2.: Zuccalistr. 19: Fällung von 1 Linde
+- TOP 3.3.: Antrag Seniorenvertretung für Pasing-Obermenzing: Aufstellung von Bänken im Bereich "An der Schloßmauer"
+- TOP 3.4.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen im 9. Stadtbezirk
+- TOP 3.5.: Ergebnis der Überprüfung der Ersatzpflanzungen im Bereich des 9. Stadtbezirkes (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag digitalanalog e.V.: Zuschuss in Höhe von 540 ? für den Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010
+- TOP 3.2.: Antrag Gemeinschaftszentrum Integriertes Wohnen: Zuschuss in Höhe von 90,27 ? für einen Ausflug ins Sealife für BewohnerInnen der betreuten Altenwohnungen am 08.04.10
+- TOP 3.3.: Direktorium: Mehr Einflussmöglichkeiten für junge Menschen 1
+- TOP 3.4.: BA 1 Altstadt-Lehel: Probleme in der Zusammenarbeit mit dem Schulreferat
+- TOP 3.5.: Protokoll der Sitzung der ÖAG Alte Menschen vom 28.01.10
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.03.10: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Menzinger Str. 44-46 (Dritter Orden) mit 36 Kinderkrippenplätzen
+- TOP 3.8.: =&gt; dazu: Schreiben Sozialreferat (Schreiben BA 9 vom 15.01.10)
+- TOP 3.9.: Bekanntgabe im Kinder- und Jugendhilfeausschuss vom 13.01.09: Neue Trägerschaften für Kinderkrippen seit Inkrafttreten des Bayerischen Kinderbildungs- und -betreuungsgesetzes am 01.08.05 (Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.11.: Sozialreferat: Regionaler Sozialbericht 2008, Sozialregion Neuhausen-Nymphenburg-Moosach (Wiedervorlage aus der Sitzung vom 19.01.10)
+- TOP 3.12.: "Große für Kleine" Förderverein der Grundschule am Winthirplatz: Newsletter Nr. 1 (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.13.: Verwendungsnachweis für einen Zuschuss aus dem Budget des BA 9, hier: Kindergarten Zipfelmützen e.V.
+- TOP 3.14.: Sozialreferat: Protokoll der BA-Veranstaltung vom 30.11.09
+- TOP 3.15.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Antrag SPD: Einrichtung von W-Lan Zugang in der Neuhauser Stadtbibliothek
+- TOP 3.2.: Tag des offenen Denkmals am 12.09.10
+- TOP 3.3.: Projekt "Zeitkapsel" (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.4.: Verwendungsnachweis für einen Zuschuss aus dem Budget des BA 9, hier: Jazzmusiker Initiative München e.V.
+- TOP 3.5.: Verwendungsnachweis für einen Zuschuss aus dem Budget des BA 9, hier: Geschichtswerkstatt Neuhausen e.V.
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Direktorium: Änderung der BA-Satzung; Bildung eines Ferienausschusses
+- TOP 4.2.: Beschluss des Verwaltungs- und Personalausschusses vom 10.02.10: Änderung der Satzung für die Bezirksausschüsse
+- TOP 4.3.: Kommunalreferat: Kasperltheater vom 29.06.-20.07.10 auf dem Leonrodplatz
+- TOP 4.4.: KVR: Sommerfest in der Grünanlage Hirschgarten am 17.07.10
+- TOP 4.5.: KVR: Kundgebung "Mahnwache zum Gedenken an den tibetischen Volksaufstand vom 10. März 1959 und alle seitherigen Opfer" am 10.03.10 in der Romanstraße, gegenüber chin. Generalkonsulat
+- TOP 4.6.: KVR: Kranzniederlegung am Platz der Freiheit zum Gedenken der Befreiung des KZ Dachaus am 27.04.10 am Platz der Freiheit
+- TOP 4.7.: KVR: Drehgenehmigung "K 11 - Kommissare im Einsatz" am 11.02.10 in der Landshuter Allee 8
+- TOP 4.8.: KVR: Pächterwechsel a) "Cafe Freiheit", Leonrodstr. 20 b) "Cá Dé Bar", Stupfstr. 21 c) "Gourvin", Hirschbergstr. 1
+- TOP 4.9.: Stadtkämmerei: Mittelfristige Finanzplanung 2009-2013
+- TOP 4.10.: Beschlussvorlage KVR: Genehmigung einer Freischankfläche, Bäckerei Isaak, Nibelungenstr. 4
+- TOP 4.11.: Beschluss des Kreisverwaltungsausschusses vom 02.03.10: Saisonale Umwandlung von KfZ-Stellplätzen zu Freischankflächen
+- TOP 4.12.: Beschlussvorlage KVR: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung (Vorabstellungnahme durch die BA-Vorsitzende aus Fristgründen)
+- TOP 5: Verschiedenes
