@@ -1,0 +1,9 @@
+# TOP 11.: Ermächtigungsübertragungen nach § 22 GemHVO
+
+- Sitzung: Rat (46. Sitzung) (2010-03-16)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/31852
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/12753
+- Beschluss (Datei): Beschlusstext (Ermächtigungsübertragungen nach § 22 GemHVO) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYJmKHENbfQkmRFomojlN-_JBj5dNX3iLdQJsv2YTkTA/Beschlusstext_57-2010_-oeffentlich-_Rat_16.03.2010.pdf
