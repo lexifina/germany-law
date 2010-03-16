@@ -1,0 +1,51 @@
+# Haupt- und Finanzausschuss (4. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-03-16T17:03:00+01:00
+- Ende: 2010-03-16T23:07:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZa9tFnDJSpYyvlxpA57ohFo
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7771
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWum-YFuUv4iYHCJDHX7JPbUlzPrpf4cisUTC4hoBtiq/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_16.03.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 3. Sitzung vom 19. Januar 2010
+- TOP 2.: Öffentliche Bekanntmachungen der Stadt Kerpen
+- TOP 3.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 3.1: Anregung und Beschwerde gem. § 24 GO NRW hier: Reduktion der kommunalen CO2-Emmissionen um 40%
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 4. Satzung zur Änderung der Hundesteuersatzung der Stadt Kerpen
+- TOP 4.2: 3. Satzung zur Änderung der Satzung über die Erhebung von Kostenersatz und Gebühren für die Dienstleistungen der Freiwilligen Feuerwehr der Stadt Kerpen (Feuerwehrsatzung)
+- TOP 4.3: Neufassung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen
+- TOP 5.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen im IV. Quartal 2009
+- TOP 6.: Sachstandsbericht Konjunkturpaket II
+- TOP 7.: Personal-/Stellenplanangelegenheiten
+- TOP 7.1: Personalsituation in der Abteilung 11.1 -Archiv-
+- TOP 7.2: Einrichtung einer Fachinformatikerstelle in der Abt. 11.2 -EDV- zur jährlichen Einsparung von rund 120.000 € (brutto)
+- TOP 7.3: Personalsituation in der Abteilung 16.4 -Bauordnung-
+- TOP 7.4: Personalsituation in der Abteilung 22.2 -Schulen-
+- TOP 7.5: Personalsituation in der Abteilung 24.1 -Hochbau-
+- TOP 7.6: Ausbau präventiver und ambulanter Maßnahmen im Bereich der Hilfen zur Erziehung
+- TOP 7.7: Organisations- u. Personalvorlage 2010
+- TOP 8.: Einführung und Bereitstellung eines Geoinformationssystems; hier: Zusätzliche Mittelbereitstellung im Haushalt 2010
+- TOP 9.: Vermögenswirksame Neuanschaffungen EDV
+- TOP 10.: Beratung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2010
+- TOP 10.1: Personalraum städt. Kita Pusteblume in Manheim und Ausbau u3
+- TOP 11.: Kennzahlen aus dem System IKVS
+- TOP 12.: Unvollständige Grundbesitzabgabenbescheide; Antrag der CDU Fraktion vom 09.02.2010
+- TOP 13.: Zahlung von Gewerbesteuer durch RWE; Antrag der CDU – Fraktion vom 25.01.2010
+- TOP 14.: Mitteilungen
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Besetzung der Streetworkerstellen
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Abschluss von Zinssicherungsgeschäften
+- TOP 18.: Grundstücksangelegenheit in der Gemarkung Kerpen hier: Abschluss eines Tauschvertrages
+- TOP 19.: Verkauf eines städtischen Grundstückes
+- TOP 20.: Mitteilungen
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
