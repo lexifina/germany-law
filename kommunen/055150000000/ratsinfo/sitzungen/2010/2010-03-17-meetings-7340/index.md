@@ -1,0 +1,53 @@
+# 3. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-03-17T17:03:00+01:00
+- Ende: 2010-03-17T21:32:00+01:00
+- Ort: Festsaal, Rathaus, Prinzipalmarkt 8-9, 48143 Münster
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7340
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7340
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00290501.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen von Bezirksvertretungen
+- TOP 2.1: Antrag der SPD-Fraktion Nr. A-R/0018/2010 "Mehr Tempo: Hochgeschwindigkeitsinternet für Münster - einstimmig beschlossen
+- TOP 2.2: Antrag der SPD-Fraktion an den Rat, Nr. A-R/0015/2010 vom 27.01.2010 "Familienfreundliche Verwaltung in Münster: Mehr Telearbeitsplätze in der Stadtverwaltung - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der CDU-Fraktion an den Rat Nr. A-R/002/2010 vom 11.01.2010 "Kundenfreundlich, komfortabel, kompetent - Münsters Stadtverwaltung 2011" - mehrheitlich beschlossen
+- TOP 2.4: Antrag der CDU-Fraktion an den Rat Nr. A-R/0003/2010 vom 18.01.2010: " Wohnen, leben, arbeiten und Feiern - Münsters Innenstadt muss für alle attraktiv bleiben" (Anlage) - einstimmig geändert beschlossen
+- TOP 2.5: Antrag der FDP-Fraktion an den Rat Nr. A-R/0001/2010 vom 11.01.2010 "Veranstaltungsort OSMO-Halle" - einstimmig beschlossen
+- TOP 2.6: Anregung ABV/0001/2010 der Bezirksvertretung Münster-Mitte an den Rat, die Kanalstraße zwischen Promenade und Lublinring aus dem Vorbehaltsnetz zu nehmen - einstimmig beschlossen
+- TOP 2.7: Antrag der CDU-Fraktion Nr. A-R/0006/2010 vom 29.01.2010 an den Rat - einstimmig beschlossen
+- TOP 2.8: Antrag der CDU-Fraktion Nr. A-R/0008/2010 an den Rat "Runder Tisch der Stiftungen" vom 22.01.2010 - einstimmig geändert beschlossen
+- TOP 3: Neue Wege im Radwegebau - Unterstützung von Bürgerradwegen an Kreisstraßen - mehrheitlich geändert beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Verwendung von Mitteln des zweiten Konjunkturprogrammes des Bundes für das Abendgymnasium, die Abendrealschule und das Wilhelm-Emmanuel-von-Ketteler-Berufskolleg - ohne Beschlussfassung geschoben
+- TOP 4.1: Verwendung von Mitteln des zweiten Konjunkturprogrammes des Bundes für das Abendgymnasium, die Abendrealschule und das Wilhelm-Emmanuel-von-Ketteler-Berufskolleg
+- TOP 5: Abdeckung der Verluste aus der Badsaison für das DJK Sportbad Coburg - einstimmig beschlossen
+- TOP 6: Geänderte Finanzierung der Sporthalle Pascal-Gymnasium - Anbau - einstimmig beschlossen
+- TOP 6.1: Geänderte Finanzierung der Sporthalle Pascal-Gymnasium - Anbau
+- TOP 7: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2010 - ohne Beschlussfassung geschoben
+- TOP 8: Städtebauliche Rahmenbedingungen für die Durchführung eines Europaweiten Vergabeverfahrens zur Veräußerung der stadtwerkeeigenen Grundstücke "ehemaliges OSMO-Gelände" sowie der zur Insolvenzmasse der Fa. Ostermann + Scheiwe GmbH + Co.KG gehörenden Gr - ohne Beschlussfassung geschoben
+- TOP 9: Verkauf des Blockheizkraftwerkes Coerde an die Stadt Münster - einstimmig beschlossen
+- TOP 10: Optimierung der Klärgasverwertung in der Stadt Münster - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-West, Gievenbeck - Bereich Roxeler Straße 416-420 / Gartenbreie - - mehrheitlich beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhaltender Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, für das Kalenderjahr 2010 - ohne Beschlussfassung geschoben
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2009 - zur Kenntnis genommen
+- TOP 14: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2010 - einstimmig beschlossen
+- TOP 15: Anregung gemäß § 24 GO vom 21.10.2008 von Greenpeace Münster Team 50 plus - von der Tagesordnung abgesetzt
+- TOP 16: Satzung zur Änderung der Benutzungs- und Gebührenordnung des Stadtarchivs Münster - einstimmig beschlossen
+- TOP 17: Wirtschaftsplan 2010/2011 der Städtischen Bühnen Münster - ohne Beschlussfassung geschoben
+- TOP 17.1: Wirtschaftsplan 2010/2011 der Städtischen Bühnen Münster
+- TOP 18: Umstukturierung der Fachberatung Kindertagespflege - Neuausrichtung des Aufgabenbereichs des Vereins Münsteraner Tageseltern e.V. - - einstimmig beschlossen
+- TOP 19: Schulentwicklungsplanung 2011 ff. - ohne Beschlussfassung geschoben
+- TOP 20: Weiterentwicklung eines Bildungsnetzwerks in der Bildungsregion Münster - ohne Beschlussfassung geschoben
+- TOP 21: Energie- und Abfallsparen an städtischen Schulen und Kindertagesstätten 2010 - 2012 - einstimmig beschlossen
+- TOP 21.1: Energie- und Abfallsparen an städtischen Schulen und Kindertagesstätten 2010 - 2012
+- TOP 22: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 22.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 23: Verschiedenes
