@@ -1,0 +1,85 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-03-17T17:00:00+01:00
+- Ende: 2010-03-17T20:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1695
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1695
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Schulpatenschaften der Deutschen Bank - beantwortet
+- TOP 3.2: Wochenmarkt Steglitzer Damm - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl eines stellv. Bürgerdeputierten im Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für die Elterninitiative Schülertreff Haus der Jugend - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sondermittel der BVV für den Potsdamer Ruder-Club Germania e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Sondermittel der BVV für den BJK Kleinmachnow-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-15 [Curtiusstraße / Lichterfelde-West] - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Planung der Erinnerungsstelen im Bezirk - in der BVV abgelehnt
+- TOP 4.4.2: Bus 285 bis Jagdschloss Grunewald - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Buslinie 623 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Verunstaltungen beseitigen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Verunstaltungen beseitigen! II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Kontrolle der Einhaltung des "Apfelsaftgesetzes" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: 30 km zwischen 22.00 - 6.00 Uhr auf der Machnower Straße - in der BVV abgelehnt
+- TOP 4.5.2: Steglitz-Zehlendorf International - Festival der Vielfalt im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Park-and-Ride-System am Bahnhof Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Badestellen Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Verkaufserlös auf Schwanenwerder für Jugendferien- und Erholungsmaßnahmen sichern - in der BVV abgelehnt
+- TOP 4.5.6: Vorfahrt auf der Sven-Hedin-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Eine Hortkooperation am Markusplatz schaffen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Nachwahl einer/eines Vorsitzenden des Behindertenbeirats - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Halle für Freizeitsport - in der BVV abgelehnt
+- TOP 4.5.10: (Aus-)Rutschgefahr am S-Bahnhof Zehlendorf beseitigen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Beschleunigung M 48 im Ortskern Zehlendorf-Mitte - in der BVV abgelehnt
+- TOP 4.5.12: Obstfrühstück für die Schüler/innen der Paul-Braune-Schule - in der BVV abgelehnt
+- TOP 4.5.13: Schadstofffreie Elektrofahrzeuge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Schilder im Schlachtensee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Runter mit den Wasserpreisen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: "Sinnvolles" Warten mit Hotspot in Bürgeramt-Warteräumen - überwiesen
+- TOP 5.1.2: "Ehrenamt" im Schulunterricht - überwiesen
+- TOP 5.1.3: Eine zweite Chance für die Stadtteilmütter? - überwiesen
+- TOP 5.1.4: Projekt "Stadtteilmütter" sichern - überwiesen
+- TOP 5.1.5: Online-Abrufbarkeit von Publikationen des Kulturamtes - überwiesen
+- TOP 5.1.6: Ladiusstraße - Halbseitiges Parken wieder zulassen - überwiesen
+- TOP 5.1.7: Aufsuchende Elternhilfe im Bezirk umsetzen - überwiesen
+- TOP 5.1.8: Bürgerwillen in der Schorlemerallee umsetzen - überwiesen
+- TOP 5.1.9: Parken in engen Anwohnerstraßen - überwiesen
+- TOP 5.1.10: Stau Potsdamer Straße auflösen - überwiesen
+- TOP 5.1.11: Junge Bäume brauchen Wasser - überwiesen
+- TOP 5.1.12: Temporärer grüner Pfeil für die Curtiusstraße - überwiesen
+- TOP 5.1.13: Effizienz automatischer Lüftungsanlagen prüfen - überwiesen
+- TOP 5.1.14: Gilt die Ausnahmeregelung für Geschwisterkinder weiterhin uneingeschränkt? - überwiesen
+- TOP 5.1.15: Die Bevölkerung von Steglitz-Zehlendorf schützen! Krankenhäuser entlasten! Der nächste Winter kommt bestimmt! - überwiesen
+- TOP 5.1.16: Beflaggung zu Nationalfeiertagen der EU-Mitgliedsstaaten - überwiesen
+- TOP 5.1.17: Abgebrochene Sanierung der Toiletten der Grundschule am Karpfenteich baldmöglichst fortsetzen - überwiesen
+- TOP 5.1.18: Kinderbetreuung während der Sitzung der Bezirksverordnetenversammlung - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1: Neue Wohnformen in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 7.2: JFE Flemmingstraße verbleibt in öffentlicher Trägerschaft - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Vierzügigkeit des Arndt-Gymnasiums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.4: Einhaltung von Lohnsicherheit bei der PIN AG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.5: W-LAN im Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Fusion der Freiherr-von-Hünefeld-Grundschule mit der Markus-Grundschule am Standort Karl-Stieler-Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9.1: Schriftliche Beantwortung Großer Anfragen - erledigt
+- TOP 9.1.1: Strom statt Bildung? - erledigt
+- TOP 9.1.2: Was hat Vorrang in Steglitz-Zehlendorf: Der Schulsport oder die Solarwirtschaft? - erledigt
+- TOP 10: Schlusswort des Vorstehers - erledigt
