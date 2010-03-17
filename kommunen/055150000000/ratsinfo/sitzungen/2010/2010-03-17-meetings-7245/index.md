@@ -1,0 +1,74 @@
+# 5. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-03-17T17:49:00+01:00
+- Ende: 2010-03-17T21:36:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7245
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7245
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00291075.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 5.1: Earth Hour 2010 Abschalten in Münster - Weltweite Aktion zum Klimaschutz
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Wiederwahl des Beigeordneten Stadtrat Dr. Wolf Heinrichs - mehrheitlich beschlossen
+- TOP 9: Gewährung von Zuschüssen aus der Gewinnauschüttung der Sparkasse Münsterland Ost an die Stadt Münster - einstimmig beschlossen
+- TOP 9.1: Gewährung von Zuschüssen aus der Gewinnauschüttung der Sparkasse Münsterland Ost an die Stadt Münster
+- TOP 10: Verwendung von Mitteln des zweiten Konjunkturprogrammes des Bundes für das Abendgymnasium, die Abendrealschule und das Wilhelm-Emmanuel-von-Ketteler-Berufskolleg - einstimmig beschlossen
+- TOP 10.1: Verwendung von Mitteln des zweiten Konjunkturprogrammes des Bundes für das Abendgymnasium, die Abendrealschule und das Wilhelm-Emmanuel-von-Ketteler-Berufskolleg
+- TOP 11: Abdeckung der Verluste aus der Badsaison für das DJK Sportbad Coburg - einstimmig beschlossen
+- TOP 12: Geänderte Finanzierung der Sporthalle Pascal-Gymnasium - Anbau - einstimmig beschlossen
+- TOP 12.1: Geänderte Finanzierung der Sporthalle Pascal-Gymnasium - Anbau
+- TOP 13: Haushalt 2010
+- TOP 13.1: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2010 - mehrheitlich beschlossen
+- TOP 14: Städtebauliche Rahmenbedingungen für die Durchführung eines Europaweiten Vergabeverfahrens zur Veräußerung der stadtwerkeeigenen Grundstücke "ehemaliges OSMO-Gelände" sowie der zur Insolvenzmasse der Fa. Ostermann + Scheiwe GmbH + Co.KG gehörenden Gr - mehrheitlich geändert beschlossen
+- TOP 15: Verkauf des Blockheizkraftwerkes Coerde an die Stadt Münster - einstimmig beschlossen
+- TOP 16: Optimierung der Klärgasverwertung in der Stadt Münster - einstimmig beschlossen
+- TOP 17: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-West, Gievenbeck - Bereich Roxeler Straße 416-420 / Gartenbreie - - mehrheitlich beschlossen
+- TOP 18: Ordnungsbehördliche Verordnung über das Offenhaltender Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel, für das Kalenderjahr 2010 - mehrheitlich geändert beschlossen
+- TOP 19: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2009 - zur Kenntnis genommen
+- TOP 20: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2010 - mehrheitlich beschlossen
+- TOP 21: Anregung gemäß § 24 GO vom 21.10.2008 von Greenpeace Münster Team 50 plus - von der Tagesordnung abgesetzt
+- TOP 22: Wirtschaftsplan 2010/2011 der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 23: Wirtschaftsplan 2010/2011 der Städtischen Bühnen Münster
+- TOP 24: Satzung zur Änderung der Benutzungs- und Gebührenordnung des Stadtarchivs Münster - einstimmig beschlossen
+- TOP 25: Umstrukturierung der Fachberatung Kindertagespflege - Neuausrichtung des Aufgabenbereichs des Vereins Münsteraner Tageseltern e.V. - - einstimmig beschlossen
+- TOP 26: Schulentwicklungsplanung 2011 ff. - mehrheitlich geändert beschlossen
+- TOP 27: Weiterentwicklung eines Bildungsnetzwerks in der Bildungsregion Münster - einstimmig beschlossen
+- TOP 28: Energie- und Abfallsparen an städtischen Schulen und Kindertagesstätten 2010 - 2012 - einstimmig beschlossen
+- TOP 28.1: Energie- und Abfallsparen an städtischen Schulen und Kindertagesstätten 2010 - 2012
+- TOP 29: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 29.1: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien
+- TOP 30: Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - einstimmig geändert beschlossen
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 31.1: Arbeitsgemeinschaft oder Optionskommune ? Informationen für eine sachgerechte Ratsentscheidung aufbereiten - mehrheitlich beschlossen
+- TOP 31.2: Die Zukunft städtischer Arbeitsmarktpolitik sichern und gestalten - mehrheitlich beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 32.1: SGB II-Leistungen weiter aus einer Hand sicherstellen!" - verwiesen
+- TOP 32.2: Hafenforum - Neue Perspektiven für die Entwicklung am Hafen - verwiesen
+- TOP 32.3: Münsterpass wieder neu einrichten - verwiesen
+- TOP 32.4: Weichen für ein attraktives Bahnhofsumfeld und eine baldige Sanierung des Bahnhofs Hiltrup stellen - verwiesen
+- TOP 32.5: Münster als Standort für eMobility stärken - Netz für Stromtankstellen ausweiten - verwiesen
+- TOP 32.6: Bürgerschaft am Klimaschutz beteiligen - verwiesen
+- TOP 32.7: Kultur-Fördertopf stärkt Transparenz und Mitsprache - verwiesen
+- TOP 32.8: Ein neues Südbad ist das Ziel! - verwiesen
+- TOP 32.9: Aufwertung des Stadtteils Kinderhaus sachgerecht gestalten - Bebauungsplan zur Zentrumserweiterung aufheben - verwiesen
+- TOP 32.10: Offensive für einen guten offenen Ganztag - verwiesen
+- TOP 32.11: Stützungsmaßnahmen für den Schulstandort Kinderhaus ergreifen - verwiesen
+- TOP 32.12: Münsters Schülerinnen und Schüler mobiler machen - Ein Schul- und Freizeitticket für Münster - verwiesen
+- TOP 32.13: Umzugsaufforderungen einstellen - Wohnraum schaffen! - verwiesen
+- TOP 32.14: Bebauung Grevener Straße: Wunde im Stadtbild schließen, Wohngebäude mit Einfachausstattung erhalten, bezahlbaren Wohnraum errichten - verwiesen
+- TOP 32.15: Denkmal Bahnhof Hiltrup erhalten, Kinder- und Jugendarbeit in Hiltrup stärken - verwiesen
+- TOP 32.16: Vorrang für den öffentlichen Verkehr - Perspektiven für den Personenverkehr auf der Westfälischen Landeseisenbahn - verwiesen
+- TOP 33: Verschiedenes
