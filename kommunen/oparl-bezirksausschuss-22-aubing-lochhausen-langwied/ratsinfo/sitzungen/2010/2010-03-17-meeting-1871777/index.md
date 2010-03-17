@@ -1,0 +1,99 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-03-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1871777
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1871777
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6: Bau einer rumänisch-orth. Einrichtung, Vorstellung durch Weihbischof Patrunjel
+- TOP 2: Bürgeranliegen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällungen zu einem Bauvorhaben: - Reußensteinstr., Gemarkung Aubing Fl. Nr. 2064/22, gem. Baumbestandsplan Nr. 2010-3780 - Hellensteinstr. Gemarkung Aubing Fl.Nr. 2038/9, gem. Baumbestandsplan Nr. 2010-3778 - Sandbergstr. 12, Gemarkung Langwied Fl.Nr. 705/4, gem. Baumbestandsplan Nr. 2010-3805 - Johannes-Tanner-Str. 5, gem. Baumbestandsplan Nr. 2010-3621 - Schussenrieder Str. 3, gem. Baumbestandsplan Nr. 2010-3731
+- TOP 3.2: Regsam-Beauftragte
+- TOP 3.4: Jugendbeauftragte
+- TOP 3.6: Migrationsbeauftragte
+- TOP 3.6.1.: Interkultureller Integrationsbericht der LH München, Indikator: kommunalpolitische Mandate von Menschen mit Migrationshintergrund, Schr. Sozialreferat vom 13.01.10
+- TOP 3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Beseitigungsverfügung für illegale Wohncontainer und Autohandel Georg-Böhmer-Str. 1
+- TOP 4.2.: Dringlichkeitsantrag: Einrichtung der Schulsozialarbeit an der Grundschule am Ravensburger Ring
+- TOP 5: Entscheidungen
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: digitalanalog e.V. (UA Budget)
+- TOP 5.2.: Vollz. d. Bay. Straßen- und Wegegesetzes, Widmung einer Teilstrecke der Hans-Stützle-Straße (UA Freiham)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Tag des offenen Denkmals am Sonntag, 12.09.10, Schr. Bay. Landesamt für Denkmalpflege vom 08.02.10
+- TOP 6.1.2.2.: Veranstaltungen/Kooperationen des Kulturreferats im März 2010, Schreiben Kulturreferat vom 03.03.2010
+- TOP 6.2: UA Budget
+- TOP 6.3: UA Freiham
+- TOP 6.3.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.3.2.1.: Gewerbegebiet Freiham, Vergabe eines Gewerbegrundstückes, Schr. Ref. f. Arbeit u. Wirtschaft vom 11.02.10
+- TOP 6.3.2.2.: Genehmigungsbescheid für Neuerrichtung einer Flüssiggasanlage, Dietmar-Keese-Bogen 4, Schr. Ref. f. Gesundheit u. Umwelt vom 23.02.10
+- TOP 6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.4.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.4.1.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/29 Industriestraße (westlich), Altostraße (östlich), Anhörung Planungsreferat vom 12.02.10 (vertagt aus 02/10),
+- TOP 6.4.1.2.: Novellierung der Sondernutzungsrichtlinien, Anhörung KVR vom 19.02.10 (vertagt aus 02/10)
+- TOP 6.4.1.3.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2, Anhörung Planungsreferat vom 24.02.10
+- TOP 6.4.1.4.: Verkauf einer städtischen Immobilie: Kastelburgstraße (Flst: 1611/2), Anhörung Kommunalreferat vom 08.03.2010
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.4.2.1.: Baumaßnahmen der Stadtwerke, Stichtag: 15.02.10, 22.02.10, 01.03.10
+- TOP 6.4.2.2.: Baufälle im 22. Stadtbezirk (v. 08.02.-14.02.10, v. 15.02.-21.02.10, v. 22.02.-28.02.10), Schr. Planungsreferat vom 15.02.10, 23.02.10, 01.03.10
+- TOP 6.4.2.3.: Kanalsanierung Mainaustraße Betonkanal 800/1200, Anliegerinformation, Schr. Münchner Stadtentwässerung vom 18.02.10
+- TOP 6.4.2.4.: Strukturkonzept Mühlangerstraße / Langwied, Änderung des Flächennutzungsplanes, Schr. Planungsreferat vom 17.02.10
+- TOP 6.4.2.5.: Fehlende ÖPNV-Anbindung im Bereich der Aubing-Ost-Straße, Schr. MVG vom 17.02.10
+- TOP 6.4.2.6.: Bahnhofspaten für die S-Bahnhöfe, Schr. DB Netze vom 18.02.10
+- TOP 6.4.2.7.: Verkehrssituation auf dem Schubinweg mit Wichnantstraße, Schr. KVR vom 15.02.10
+- TOP 6.4.2.8.: Verkehrssituation in der Brunhamstraße, Schr. KVR vom 04.02.10
+- TOP 6.4.2.9.: Parkverbot in der Goteboldstraße / Kreuzkapellenweg, Schr. KVR vom 09.02.10
+- TOP 6.4.2.10.: Umbau des Geh- und Radweges an der Aubinger Straße, Schr. Baureferat vom 23.02.10
+- TOP 6.4.2.11.: S-Bahnhof Aubing; 1. Sicherung der Bike und Ride - Flächen 2. Ausweitung der Fahrradstellplätze und Überdachung dieser Schr. Baureferat vom 22.02.10
+- TOP 6.4.2.12.: Plangenehmigung nach § 18 , 18b AEG i.V.m. § 74 Abs. 6 VwVfG; Umbau Bahnübergang Hellensteinstraße, Strecke 5520 München-Pasing-Buchloe - Bf. München Pasing, km 9,375, Schr. Planungsreferat vom 26.02.10
+- TOP 6.4.2.13.: Erneuerung der Bänke am Ramsessee, Schr. Baureferat vom 23.02.10
+- TOP 6.4.2.14.: Mitteilung über ein Grundstücksgeschäft - Industriestraße, FlNr. 364 Aubing, Schr. Kommunalreferat vom 25.02.10 - Hohenrechbergstraße Flst. 2223, ./7 Aubing, Schr. Kommunalreferat vom 01.03.10
+- TOP 6.4.2.15.: Sachstandsbericht zu BV-Empfehlungen: Nr. 43 vom 03.07.08 "Erstellung Gesamtkonzept für den 22. Stadtbezirk"; Nr. 760 vom 26.07.07 "Erstellung Gesamtkonzept für den 22. Stadtbezirk" und Nr. 118 vom 23.06.05 "Höhenbeschränkung der Limesunterführung auf 3,5 m", Schr. Planungsreferat vom 26.02.10
+- TOP 6.4.2.16.: Arbeiten im Straßenraum: Mainaustraße zwischen Bodenseestraße und Radolfzeller Straße - Verlegung der Fernwärmeleitung, Schr. KVR vom 03.03.2010
+- TOP 6.4.2.17.: Öffentliche Auslegung des Bebauungsplans mit Grünordnung Nr. 2009 - Goteboldstraße zwischen Lochhausener Straße und Müllerstadelstraße, Müllerstadelstraße zwischen Goteboldstraße und Paul-Ehrlich-Weg, Paul-Ehrlich-Weg zwischen Müllerstadelstraße und der Anrampung der Autobahnbrücke, Schr. Planungsreferat vom 04.03.2010
+- TOP 7.1.: Änderung der BA-Satzung, Bildung eines Ferienausschusses, Anhörung Direktorium vom 01.03.10
+- TOP 7.2.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung, Anhörung Sozialreferat vom 09.03.10
+- TOP 8.1.: Europe Direct Information 01/2010, Mitteilung Ref. f. Arbeit u. Wirtschaft vom 23.02.10
+- TOP 8.2.: Unveränderte Fortführung der Kleingaststätte "Asia Schnellimbiss", Bodenseestr. 275, Schr. KVR vom 17.02.10
+- TOP 8.3.: Mittelfristige Finanzplanung 2009-2013, Schr. Stadtkämmerei vom 18.20.10
+- TOP 8.4.: Kein Google Street View in Trudering-Riem, Schr. BA 15 vom 02.03.10
+- TOP 8.5.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Imbiss bei Cumali" ehem. "Kebab Haus", Altostr. 37, Schr. KVR vom 23.02.10
+- TOP 8.6.: Wirtschafts-Info 02/2010, Schr. Ref. f. Arbeit u. Wirtschaft vom 01.03.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Verwaltungs- und Personalausschusses vom 10.02.10: - Änderung der Satzung für die Bezirksausschüsse der LH München
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 03.02.10: - Siedlungsschwerpunkt Freiham, Städtebauliche Einbindung und Qualität der Vorhaltefläche für eine Trambahntrasse (UA Freiham) - Hinweis/Ergänzung: Stadt bezieht Stellung gegen die Initiative des bay. Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 10.3.: Beschluss des Kreisverwaltungsausschusses vom 02.03.10: - Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen (UA Planung)
+- TOP 10.4.: Beschluss des Kulturausschusses vom 11.02.10: - Sicherung des Standortes Ehrenbürgstr. 9 für Ateliers und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unter Denkmalschutz/Ensembleschutz stehenden Anlage (UA Soziales)
+- TOP 10.5.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.03.10: - EU Projekt "Polis" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategien in Städtebau und strategischer Planung (UA Planung) - Wohnungsmarkt München, Expertenbefragung 2009 - Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum 01.07.09-31.12.09
+- TOP 10.6.: Beschluss des Bauausschusses vom 19.01.10: - Bebauungsplan mit Grünordnung Nr. 2005 Industrie-, Huisler-, Hohenrechberg-, Mariabrunner Straße im 22. Stadtbezirk, Erstmalige Herstellung (UA Planung)
+- TOP 10.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: - Bebauungsplan Nr. 1536 Bergsonstr. (südlich), Industriestr. (westlich), Lidelstr. (nördlich) (UA Planung) - Bebauungsplan mit Grünordnung Nr. 1633a Kronwinkler Str. zwischen Bergsonstr. und Kastelburgstr. (UA Planung) - Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München " sichern - Nutzung erneuerbarer Energien im Städtebau
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Infoveranstaltung der SWM am 23.03.10 um 18.00 Uhr in der SWM-Zentrale, Emmy-Noether-Str. 2, Raum D0.00, Schr. SWM vom 24.02.10
+- TOP 11.2.: Volksentscheid zum Nichtraucherschutz am 04.07.10, Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 21.04.2010 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7: Anhörungen / Stellungnahmen (4)
+- TOP 8: Unterrichtungen / Bekanntgaben (4)
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.3: Kinderbeauftragte
+- TOP 3.5: Beauftragte für das Jubiläumsjahr 2010
