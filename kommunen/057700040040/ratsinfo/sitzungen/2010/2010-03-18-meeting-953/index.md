@@ -1,0 +1,54 @@
+# Rat (6. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2010-03-18T17:00:00+01:00
+- Ende: 2010-03-18T19:10:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZaWm-qbcSvOhrMN-77rlNdY
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/953
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZmqqXpreMy5tt-n1ylvAal5hSHi9cy65dESP14uIC0u/Bekanntmachung_Rat_18.03.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUChK9wy293BRHhU4D4EvE7Jl1H26oxYZRY96qW3y412/Oeffentliche_Niederschrift_Rat_18.03.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 4.1: Zukunft des Rahdener Krankenhauses - Einstimmig, 0 Enthaltungen
+- TOP 5.: Förderprogramm "Jung kauft Alt - Junge Leute kaufen alte Häuser" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 6.: Beratung und Beschlussfassung über durchzuführende Investitionsmaßnahmen im Rahmen des Konjunkturpaketes II - 25 Stimmen dafür, 9 dagegen (SPD Fraktion), 0 Enthaltungen
+- TOP 7.: Beratung und Beschlussfassung über den Stellenplan 2010 - 30 Stimmen dafür, 0 dagegen, 4 Enthaltungen (FWG Fraktion)
+- TOP 8.: Entwurf der Haushaltssatzung 2010 mit Haushaltsplan - 24 Stimmen dafür, 10 dagegen, (SPD-Fraktion und Ratsmitglied Steinkamp), 0 Enthaltungen
+- TOP 9.: 2. Änderung und Erweiterung des Bebauungsplanes Nr. 48 "Varl - L 769 - Firma Meier" sowie 63. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 10.: 5. vereinfachte Änderung des Bebauungsplanes Nr. 4 "Alter Markt und nördliches Ahlfeld" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 11.: Aufstellung des Bebauungsplanes Nr. 80 „Eisenbahnstraße" sowie 67. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 12.: Aufstellung des Bebauungsplanes Nr. 79 "Varl - Erweiterung Buschhügel" sowie 64. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 64. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 13.: 1. Änderung des Bebauungsplanes Nr. 67 "Gewerbegebiet B239 Rahden-Süd" sowie 61. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 61. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 14.: 12. Änderung des Bebauungsplanes Nr. 13 "Gerichtsstraße/Flachsstraße" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Namensgebung für den Bahnhof Rahden - Einstimmig, 0 Enthaltungen
+- TOP 16.: Umwandlung der Ev. Grundschule Pr. Ströhen in eine Offene Ganztagsgrundschule zum Schuljahr 2010/11 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bekanntgaben
+- TOP 17.1: Einladung aus Glindow
+- TOP 17.2: Feuerwehreinsatz in Varl
+- TOP 17.3: Ärztliche Notfallversorgung in Ostwestfalen-Lippe
+- TOP 17.4: Naturdenkmalverordnung der Kreises Minden-Lübbecke
+- TOP 17.5: Pilzbefall einer Linde am Alten Markt
+- TOP 18.: Verschiedenes
+- TOP 18.1: Seniorenbeirat
+- TOP 18.2: Harting
+- TOP 18.3: Arbeitskreis ÖPNV
+- TOP 18.4: Ausschussbesetzung
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 19.: Weiterentwicklung des Bahnhofsumfeldes in Rahden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bekanntgaben
+- TOP 20.1: Nebeneinkünfte
+- TOP 21.: Verschiedenes
+- TOP 21.1: Wegweisende Beschilderung zu privaten Unternehmen
+- TOP 21.2: Arbeitskreis für Einsparungen von freiwilligen Leistungen im Haushaltsplan 2010
+- TOP 21.3: Ersatzbeschaffung eines Schleppers für den Bauhof Rahden
+- TOP 21.4: Veräußerung einer Gewerbefläche im Gewerbegebiet Rahden-Ost
