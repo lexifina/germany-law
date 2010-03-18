@@ -1,0 +1,91 @@
+# 34. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-03-18T17:30:00+01:00
+- Ende: 2010-03-18T21:35:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2156
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2156
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=74097
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Anträge/Beschlussempfehlung - (offen)
+- TOP 5.1: Mauerpark - mit Grün verbinden - statt durch Bebauung trennen - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Entwicklung eines integrierten Klimaschutzkonzeptes für den Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Bäume für den Mauerpark - jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Produktives Lernen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 6.1: Maulkorb für Schulleiter? - beantwortet
+- TOP 6.2: Neues von der Treberhilfe? - beantwortet
+- TOP 6.3: Prüfung im Gesundheitsamt: Zur schriftlichen Antwort auf die Drucksache-Nr. 1542/III - beantwortet
+- TOP 6.4: Wie viel Geld bekommt der Bezirk Mitte zur Straßensanierung - beantwortet
+- TOP 6.5: Nie mehr Ekelrestaurants auch in Berlin Mitte? - beantwortet
+- TOP 6.6: Sonderedition mit Sonderausgaben? - schriftlich beantwortet
+- TOP 7: Dringlichkeitsanfragen - (offen)
+- TOP 7.1: Vorläufige Haushaltswirtschaft im JobCenter - beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Scheinvaterschaften in Mitte - beantwortet
+- TOP 8.2: Girl'sDay - beantwortet
+- TOP 8.3: Wie lange können wir noch planschen? - beantwortet
+- TOP 8.4: Bußgeldvergabe bei Verstößen u.a. gegen das Gaststättengesetz und die Spielverordnung - beantwortet
+- TOP 8.5: Maulkorb für Schulleiter? - zurückgezogen
+- TOP 8.6: Integriertes Stadtteilkonzept für einen Aktionsraum Plus - beantwortet
+- TOP 9: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Übertragung des Betriebs von bezirklichen Jugendfreizeiteinrichtungen auf freie Träger der Jugendhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Schulentwicklungsplan 2009 des Bezirks Mitte von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Bebauungsplanentwurf I-B5f (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B 5f - überwiesen
+- TOP 10.2: Bebauungsplanentwurf I-B5g (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5g - überwiesen
+- TOP 10.3: Bebauungsplanentwurf I-B5k (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5k - überwiesen
+- TOP 10.4: Bebauungsplanentwurf I-B5l (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5l - überwiesen
+- TOP 10.5: Bebauungsplan I-B5n (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5n - überwiesen
+- TOP 10.6: Bebauungsplanentwurf I-B5o (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Feststzung des Bebauungsplanes I-B5o - überwiesen
+- TOP 10.7: Bebauungsplanentwurf I-B5q (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5q - überwiesen
+- TOP 10.8: Bebauungsplanentwurf I-B24b (westliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B24b - überwiesen
+- TOP 10.9: Beitragspflichtige Erneuerung der Fahrbahn Berolinastraße (incl. der Anschluss- und Folgearbeiten am Gehweg) im Abschnitt von Karl-Marx-Allee bis Mollstraße (in direkter "L"-form) - überwiesen
+- TOP 11: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 12: Dringlichkeitsanträge - (offen)
+- TOP 12.1: Einrichtung spezieller Fachklassen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Schulentwicklungsplan - in der BVV zurückgezogen
+- TOP 12.3: Bei Bedarf: Verlängerung der Kältehilfe über den 31. März hinaus - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - überwiesen
+- TOP 12.5: Ja zur Straßenbahn zum Hauptbahnhof - Nein zur Autobahn durch Mitte - vertagt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Konsequenzen aus den Ergebnissen der Bezirkshaushaltsrechnungen - überwiesen
+- TOP 13.2: Fahrradstreifen in der Karl-Marx-Allee - überwiesen
+- TOP 13.3: GDM-Plan zügig umsetzen! - überwiesen
+- TOP 13.4: Prioritätensetzung im Ordnungsamt - Entgegenwirken von Glücksspiel im Bezirk Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Gedenkstätte Deportationsort Güterbahnhof Moabit - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Ergänzung zum aktuellen Schulentwicklungsplan - ohne Änderungen in der BVV beschlossen
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Starker Geist; schwache Augen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Nachbesserung des Seniorenmitwirkungsgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Klimaschutz und Kostensenkung: Endlich den Ballast Iranische Str. 3 abwerfen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.4: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.5: Vorschläge zur Vereinfachung der Genehmigung von Sportveranstaltungen außerhalb von Sportanlagen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Antifaschistische Mietklausel bei der Vergabe von Räumlichkeiten des Bezirksamtes - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.7: Umsetzung des § 20 SGB V durch die Krankenkassen in Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.8: Regelung zur Genehmigung von Sportveranstaltungen außerhalb von Sportanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Lokale Agenda 21-Prozess in Mitte beginnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Zivilschutzanlagen Blochplatz und Pankstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: GDM auf Konsolidierungskurs bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Hilfe für den Leopoldplatz zeitnah umsetzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.13: Umgestaltung der Grünfläche am Fernsehturm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Trimmpfad für Seniorinnen und Senioren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Die Errichtung eines Sprachförderzentrums im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Fortführung des Bebauungsplanverfahrens I-43b als vorhabenbezogenen Bebauungsplan I-43b VE für das Gelände zwischen Schicklerstraße, Alexanderstraße, Stralauer Straße und Dircksenstraße im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Aufstellung des Bebauungsplanes 1-68 (Krausenblock) im Bezirk Mitte, Ortsteil Mitte, auf der Grundlage des § 13a des Baugesetzbuchs als beschleunigtes Verfahren, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
