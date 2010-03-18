@@ -1,0 +1,7 @@
+# TOP 6: Bürger-/Einwohnerversammlung
+
+- Sitzung: BA 15 - Vollgremium (2010-03-18)
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/280623
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/280623
