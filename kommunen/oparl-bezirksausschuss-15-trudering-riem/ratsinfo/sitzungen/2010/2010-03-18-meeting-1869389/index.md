@@ -1,0 +1,121 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2010-03-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869389
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869389
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse digitalanalog e.V. Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Konzert am 21.03.2010
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verkehrssituation Reiherweg (BA-Antrag Nr. 08-14 / B 01655, Top 3.13/02/10)
+- TOP 2.2.: Verkehrssystem Messestadt
+- TOP 2.3.: Mobilfunkanlage Am Eulenhorst
+- TOP 2.4.: LKW's und hohe Geschwindigkeiten in der Graf-Lehndorff-Straße
+- TOP 2.5.: Radweg Riemer Straße
+- TOP 2.6.: Hilfe!!! Die Katastrophe der offenen Ganztagesschule in der Lehrer-Wirth-Schule geht in die nächste Runde
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: 150 Jahre 1860 München - Beantragung eines verkaufsoffenen Samstages bzw. Ausnahmeersuchen auf erweiterte Ladenöffnungszeiten (Zwischennachricht)
+- TOP 3.2.: Radwegverbindung zwischen Gartenstadt Trudering und Neuperlach-Zentrum verbessern
+- TOP 3.3.: Entlastung für die Zehntfeldstraße (BA-Anträge Nrn. 08-14 / B 01555 und 08-14 / B 01751)
+- TOP 3.4.: Bilder vom Bahnübergang Thomas-Hauser-Straße - Defekte Bahnschranke
+- TOP 3.5.: Bahnhofspaten für die S-Bahnhöfe (Schreiben der DB Station&Service AG)
+- TOP 3.6.: Projektplanung, Projektname: Friesenstraße (Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.2007, Top 1.1/10/09)
+- TOP 3.7.: Wie setzt LH München den Rechtsanspruch auf den Besuch eines Kindergartens in der Praxis um?
+- TOP 3.8.: Freies Rederecht für Leitungen städtischer Kindertageseinrichtungen in örtlichen Gremien
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Winterdienst in der Grünanlage südlich der Batschkastraße
+- TOP 4.2.: Putz- und Farbschäden am Bahnhof Trudering ausbessern
+- TOP 5: Anhörungen
+- TOP 5.1.: Riemer Park Haarathon-Lauf des Isar-Amper-Klinikums München-Ost am 26.09.2010 von 10.00 - 13.30 Uhr
+- TOP 5.2.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2 (hier: Anhörungs- und Beteiligungsverfahren)
+- TOP 5.3.: Errichtung einer Informationssäule, Olof-Palme-Straße, Fl.Nr. 1408/18, Gemarkung Trudering; Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen)
+- TOP 5.4.: Neubau eines Nachbarschaftstreffs in der Bajuwarenstraße / Trudering (Beschlussentwurf; s. auch BA-Anträge Nrn. 02-08 / B 02044 und 08-14 / B 01078)
+- TOP 5.5.: Änderung der BA-Satzung: Bildung eines Ferienausschusses
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Entwurf Bebauungsplan mit Grünordnung Nr. 1683 b Markgrafenstraße (nördlich), Friedenspromenade (östlich) - Gymnasium Trudering (Top 5.3/02/10)
+- TOP 7.2.: Bebauungsplan mit Grünordnung Nr. 1728 m, Messestadt Riem, 4. Bauabschnitt Wohnen (Top 5.5/02/10)
+- TOP 7.3.: Bauvorhaben Königseestraße, Neubau eines Mehrfamilienhauses mit Garagen, Verfahrens-Nr.: 3964-32
+- TOP 7.4.: Bauvorhaben Simplonstraße, Neubau einer Wohnanlage mit Tiefgarage, Verfahrens-Nr.: 4122-32
+- TOP 7.5.: Bauvorhaben Mondseestraße, Neubau zweier Einfamilienhäuser mit Garagen, Verfahrens-Nr.: 4567-32
+- TOP 7.6.: Bauvorhaben Adelmannstraße, Neubau einer Wohnanlage (2 Gebäude / 10 Wohneinheiten), Verfahrens-Nr.: 3728-32
+- TOP 7.7.: Bauvorhaben Ingeborgstraße, Neubau eines Mehrfamilienhauses mit Garagen, Verfahrens-Nr.: 1150-32
+- TOP 7.8.: Bauvorhaben Graf-Ottenburg-Straße, Vorbescheid, Verfahrens-Nr.: 167/23
+- TOP 7.9.: Bauvorhaben Zehntfelstraße, Neubau eines Doppel- und Einfamilienhauses, Verfahrens-Nr. 375/1
+- TOP 7.10.: Bauvorhaben Gustav-Lindner-Weg, Neubau von zwei Wohnhäusern mit insgesamt 7 Wohnungen sowie einer TG mit 8 Stellplätzen, Verfahrens-Nr.: 1067-32
+- TOP 7.11.: Bauvorhaben Am Mitterfeld, Errichtung einer Wohnanlage (24 WE) mit Tiefgarage (26 Stpl.), Verfahrens-Nr.: 32645-32
+- TOP 7.12.: Bauvorhaben Schneefinkenweg, Neubau eines Mehrfamilienhauses bzw. 2er Mehrfamilienhäuser (Vorbescheid)
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.2.: Errichtung eines Parkverbots im Bereich der Wasserburger Landstraße (stadtauswärts), westlich: Kathreinweg, von Haus 2 - 6
+- TOP 7.3.: Halteverbot im Drosselweg Kurvenbereich Drosselweg / Mauerseglerstrasse
+- TOP 7.4.: Rechtzeitig Ersatz für wegfallende Wertstoffinseln schaffen
+- TOP 7.5.: Fertigstellung der Straßenführung in der Astrid-Lindgren-Straße / Belästigung durch den Autoverkehr
+- TOP 7.6.: Erweiterung des Spielplatzes am Graf-Spee-Platz um eine Kletterwand / Abenteuereinheit
+- TOP 7.7.: Freerunning-Parcour in Trudering-Riem
+- TOP 7.8.: LKW's in der Ottilienstraße
+- TOP 7.9.: Fußgängerfurt an der Friedenspromenade
+- TOP 7.10.: Fahrrad-Abstellmöglichkeiten am U- und S-Bahnhof Trudering (BA-Anträge Nrn. 08-14 / B 01550 und 08-14 / B 01372)
+- TOP 7.11.: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 15 (Top 3.11/02/10)
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Kurzbericht - Restaurierung der Tiergruppe im Pausenhof der Feldbergschule
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Mitteilung über bereits durchgeführte Baumfällungen:
+- TOP 8.2.: Dar-es-Salaam-Straße 15
+- TOP 8.3.: Tsingtauerstraße 67
+- TOP 8.4.: Anechostraße 21
+- TOP 8.5.: Salzmesserstraße 42
+- TOP 8.6.: Mondseestraße 15
+- TOP 8.7.: Solalindenstraße 48
+- TOP 8.8.: Zehntfeldstraße 192
+- TOP 8.9.: Batschkastraße 16 b
+- TOP 8.10.: Hochalmstraße 23
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: 1) Einladung zur Informationsveranstaltung der SWM am 23.03.2010 um 18.00 Uhr, Raum D 0.00, Emmy-Noether-Straße 2 2) Einladung zur Eröffnungsveranstaltung zum Tag des offenen Denkmals am Sonntag, 12.09.2010 3) nach Mitteilung der Vorsitzenden
+- TOP 9.2.: Jahresgespräch mit der Polizeiinspektion (PI) 25 - Themensammlung
+- TOP 9.3.: Mehr Einflussmöglichkeiten für Junge Menschen (Antrag der Stadtratsfraktion DIE GRÜNEN/RL Nr. 08-14 / A 01025, Anlage 3)
+- TOP 9.4.: Grünzug Haffstraße - Vergabe der Landschaftsbauarbeiten (Mitteilung des Baureferates - Gartenbau)
+- TOP 9.5.: Anzeige für öffentliche Vergnügungsveranstaltungen - GREENFIELDS Open Air am 10.06.2010 von 10.00 - 22.00 Uhr auf der Galopprennbahn Riem
+- TOP 9.6.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 9.7.: Protokoll des Sozialreferates zur BA-Veranstaltung am 30.11.2009
+- TOP 9.8.: Mittelfristige Finanzplanung 2009 - 2013 der Landeshauptstadt München (Broschüre der Stadtkämmerei)
+- TOP 9.9.: Baumaßnahmen der SWM - Fernwärmeprojekt Heinrich-Böll-Straße
+- TOP 9.10.: Bauzentrum München - Broschüre "Baurecht after work 2010"
+- TOP 9.11.: Bauzentrum München - Broschüre "Seminare 2010"
+- TOP 9.12.: Jahresgespräch mit der MRG (Top 4.2/02/10)
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben vom 15.02.10 - 28.02.10
+- TOP 10.2.: Kein Google Street View in Trudering-Riem - Umkehr der Beweispflicht, Bitte des Bezirksausschusses (BA) 15 um Unterstützung durch die BA's 1-14 und 16-25
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Ingeborgstraße
+- TOP 10.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Errichtung eines Haltverbots im Kathreinweg
+- TOP 10.5.: Verkehrsrechtliche Anordnung nach § 45 StVO: Errichtung von Haltverboten in der Kästlenstraße an allen Einmündungspunkten
+- TOP 10.6.: Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Veranstaltung auf öffentlichem Verkehrsgrund hier: Info-Veranstaltungen der Verkehrspolizeiinspektion München in der Zeit von 29.03.2010 bis 08.09.2010
+- TOP 10.7.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§ 29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 10.8.: Vollzug des BayKiBiG Bescheid über die Anerkennung von Plätzen in der Lehrer-Wirth-Straße 38, Änderung des Bescheides vom 05.01.2007
+- TOP 10.9.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München, Beschluss des Verwaltungs- und Personalausschusses vom 10.02.2010
+- TOP 10.10.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen; Beschluss des Kreisverwaltungsausschusses vom 02.03.2010
+- TOP 10.11.: Nutzung erneuerbarer Energien im Städtebau a) Baupflicht für die Nutzung erneuerbarer Energien bei Neubauten im Stadtgebiet b) Marburg setzt auf Sonne - München auch? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 10.12.: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 10.13.: Beschlussvollzugskontrolle (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2009 - 31.12.2009; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 10.14.: EU Projekt "POLIS" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategie in Städtebau und strategischer Planung; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 10.15.: Grundschule Lehrer-Götz-Weg 21 Erweiterung der Grundschule und des Hortes sowie Neubau einer Einfachsporthalle an der Joseph-Hagn-Straße (Projektkosten); Beschluss des Schul- und Sportausschusses des Stadtrates vom 03.02.2010
+- TOP 10.16.: Kindertagesstätten sonstiger Träger; Kooperationseinrichtung an der Widmannstraße 2+4, Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 -2013; Beschluss des Schul- und Sportausschusses des Stadtrates vom 10.03.2010
+- TOP 10.17.: Neubau einer Kooperationseinrichtung mit 3 Kindergarten- und 4 Krippengruppen, eines 4-gruppigen Hortes sowie einer Dienstwohnung für die technische Hausverwaltung an der Feldbergstraße 85 (Projektkosten); Beschluss des Schul- und Sportausschusses des Stadtrates vom 10.03.2010
+- TOP 10.18.: Wohnungsmarkt München - Exprertenbefragung 2009 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
