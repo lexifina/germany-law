@@ -1,0 +1,372 @@
+---
+ecli: "ECLI:DE:BGH:2010:220310NOTZ13.09.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Notarsenat"
+aktenzeichen: "NotZ 13/09"
+decided: "2010-03-22"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2010&Sort=1&Seite=28&nr=51667&anz=3646&pos=841&Blank=1.pdf"
+corpus_doc_id: "BGH_Notarsenat_NA_2010-03-22_NA_NotZ_13_09_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bnoto/0004.md", "germany/bund/acts/bnoto/0010.md", "germany/bund/acts/bnoto/0111.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/012.md", "germany/bund/acts/grundgesetz/artikel/014.md", "germany/bund/acts/grundgesetz/artikel/033.md"]
+---
+
+# Bundesgerichtshof, NotZ 13/09 vom 2010-03-22
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+
+                               BESCHLUSS
+NotZ 13/09                                        Verkündet am:
+                                                  22. März 2010
+                                                  Holmes
+                                                  Justizangestellte
+                                                  als Urkundsbeamtin
+                                                  der Geschäftsstelle
+
+                               in dem Verfahren
+
+
+
+
+wegen Bestellung zur Notarin
+
+                                 -2-
+
+
+
+Der Bundesgerichtshof, Senat für Notarsachen, hat durch den Vorsitzenden Richter Galke, die Richterin Dr. Kessal-Wulf, den Richter Dr. Appl
+sowie den Notar Justizrat Dr. Bauer und die Notarin Dr. Brose-Preuß
+auf die mündliche Verhandlung vom 22. März 2010
+
+
+beschlossen:
+
+
+     Auf die sofortige Beschwerde des weiteren Beteiligten wird
+     der Beschluss des Notarsenats des Oberlandesgerichts
+     Stuttgart vom 3. Juli 2009 - 1 Not 3/09 - aufgehoben.
+
+
+     Der Antrag auf gerichtliche Entscheidung wird zurückgewiesen.
+
+
+     Die Antragstellerin hat die Gerichtskosten beider Rechtszüge zu tragen sowie dem Antragsgegner und dem weiteren
+     Beteiligten entstandene außergerichtliche Kosten zu erstatten.
+
+
+     Der Geschäftswert des Beschwerdeverfahrens wird auf
+
+
+                              50.000 €
+
+
+     festgesetzt.
+
+                                        -3-
+
+
+
+                                      Gründe:
+
+
+1           I. Die Antragstellerin, eine Bezirksnotarin in U. , bewarb sich auf
+    die im Dezember 2007 vom Antragsgegner auf seiner Internetseite
+    www.justiz-bw.de ausgeschriebene Stelle einer Notarin/eines Notars zur
+    hauptberuflichen Amtsausübung in U. . Die Stellenausschreibung enthielt den Zusatz: "Das Justizministerium Baden-Württemberg behält sich
+    im Rahmen der ihm zustehenden Organisationsgewalt und Personalhoheit vor, die Notarstelle im Interesse einer geordneten Rechtspflege nicht
+    durch die (Neu-)Bestellung eines Notars zur hauptberuflichen Amtsausübung, sondern durch Verlegung des Amtssitzes eines im württembergischen Rechtsgebiet bereits bestellten Notars im Hauptberuf zu besetzen."
+
+
+2           Mit Bescheid vom 20. Januar 2009, zugestellt am 30. Januar 2009,
+    teilte der Antragsgegner der Antragstellerin mit, dass er beabsichtige, die
+    ausgeschriebene Stelle mit dem weiteren Beteiligten zu besetzen. Der
+    weitere Beteiligte, zuvor ebenfalls Bezirksnotar, war am 1. November
+    2006 zum Notar im Hauptberuf mit Amtssitz in S.           bestellt worden.
+    Die von ihm eingegangene Sozietät mit zwei weiteren Notaren im Hauptberuf endete am 30. September 2007. Seine - von einem Mitglied des
+    Landtages gegenüber dem Antragsgegner unterstützten - Bemühungen,
+    wieder in den Landesdienst als Bezirksnotar übernommen zu werden,
+    hatten keinen Erfolg. Jedoch zog der Antragsgegner eine Verlegung des
+    Amtssitzes in Betracht und forderte den weiteren Beteiligten zu einer
+    entsprechenden Stellungnahme auf. Der weitere Beteiligte ersuchte daraufhin am 10. Oktober 2007 um die Verlegung seines Amtssitzes nach
+    U. . Ein bei dem Antragsgegner behördenintern gefertigter Vermerksentwurf vom 30. Oktober 2007 ging noch dahin, dieses Gesuch abzulehnen; in dem endgültigen, am 29. November 2007 auf Leitungsebene ge-
+
+                                        -4-
+
+
+
+    billigten Vermerk vom 8. November 2007 wurde die Ausschreibung einer
+    zweiten Stelle für einen Notar im Hauptberuf in U.          aber befürwortet.
+    Ende November 2007 wandte sich der weitere Beteiligte an einen ihm
+    bekannten Staatssekretär, der sich mit Schreiben vom 29. November
+    2007, beim Antragsgegner eingegangen am 3. Dezember 2007, gegenüber dem Antragsgegner für eine Verlegung des Amtssitzes nach U.
+    einsetzte.   Der    Antragsgegner     antwortete      mit   Schreiben    vom
+    18. Dezember 2007, er habe die Ausschreibung einer Notarstelle zur
+    hauptberuflichen Amtsausübung in U.       veranlasst. Es stehe dem weiteren Beteiligten frei, sich auf diese Stelle zu bewerben, wobei es sich
+    nach den von Art. 33 Abs. 2 GG und der Bundesnotarordnung vorgegebenen Leistungskriterien richte, welchem der Bewerber der Vorzug zu
+    geben sein werde.
+
+
+3         In dem seinem Bescheid vom 20. Januar 2009 beigefügten Auszug
+    aus der Auswahlentscheidung verwies der Antragsgegner unter anderem
+    darauf, ein erheblicher Teil des sich für U.      ergebenden Beurkundungsbedarfs werde durch acht im Amtsgerichtsbezirk N-U.             (Bayern) bestellte Notare im Hauptberuf abgedeckt. Durch die Verlegung des Amtssitzes des weiteren Beteiligten solle das Beurkundungsvolumen der in
+    U.   bereits tätigen Notare - vier Anwaltsnotare, ein Notar im Hauptberuf,
+    fünf Bezirksnotare - gestärkt und die Anzahl der in N-U.           getätigten
+    Beurkundungen verringert werden. Auffällige, erhebliche Leistungsunterschiede der Bewerber aus den Reihen der Bezirksnotare gegenüber dem
+    weiteren Beteiligten seien nicht festzustellen.
+
+
+4         Das Oberlandesgericht hat dem Antrag der Antragstellerin auf gerichtliche Entscheidung stattgegeben, den Bescheid vom 20. Januar
+    2009 nebst der Entscheidung des Antragsgegners über die Amtssitzverlegung des weiteren Beteiligten aufzuheben, und über ihre Bewerbung
+
+                                        -5-
+
+
+
+    auf die ausgeschriebene Notarstelle neu zu entscheiden. Zur Begründung hat es ausgeführt, eine bedarfsbezogene Einrichtung der zweiten
+    Notarstelle zur hauptberuflichen Amtsausübung in U.        sei nicht erkennbar, vielmehr sei die Ausschreibung unter Überschreitung des dem Antragsgegner zustehenden Organisationsermessens unter sachwidriger
+    Begünstigung eines einzelnen Bewerbers erfolgt. Hiergegen wendet sich
+    der weitere Beteiligte mit seiner sofortigen Beschwerde.
+
+
+
+
+5         II. Die sofortige Beschwerde ist gemäß § 111 Abs. 4 BNotO i.V. mit
+    § 42 Abs. 4 BRAO zulässig. Sie ist darüber hinaus begründet.
+
+
+6         1. Sie hat allerdings nicht bereits deshalb Erfolg, weil der Antrag
+    auf gerichtliche Entscheidung als unzulässig anzusehen wäre. Der Antragsgegner hat mit dem angegriffenen Bescheid vom 20. Januar 2009
+    seine Absicht erklärt, die für U.   ausgeschriebene Notarstelle mit dem
+    weiteren Beteiligten zu besetzen; damit war für die Antragstellerin die
+    rechtliche Möglichkeit zur Anfechtung der Auswahlentscheidung mit dem
+    Antrag auf gerichtliche Entscheidung in Gestalt einer Verpflichtungsklage
+    eröffnet (vgl. BGHZ 69, 224, 226; Senatsbeschluss vom 5. Februar 1996
+    - NotZ 25/95 - juris Tz. 10).
+
+
+7         Jedoch ist das Begehren der Antragstellerin in der Sache nicht gerechtfertigt.
+
+
+8         2. Im rechtlichen Ausgangspunkt geht das Oberlandesgericht richtig davon aus, dass nach § 4 BNotO so viele Notare zu bestellen sind,
+    wie es den Erfordernissen einer geordneten Rechtspflege entspricht. Die
+    der Landesjustizverwaltung damit eingeräumte Bedürfnisprüfung ist eine
+    Ermessensentscheidung im Rahmen der staatlichen Bedarfsplanung, die
+
+                                      -6-
+
+
+
+    von den Gerichten lediglich daraufhin nachgeprüft werden kann, ob die
+    gesetzlichen Grenzen des (Organisations-)Ermessens überschritten oder
+    von diesem in einer dem Zweck der Ermächtigung nicht entsprechenden
+    Weise Gebrauch gemacht worden ist (§ 111 Abs. 1 Satz 3 BNotO). Das
+    Abstellen auf "die Erfordernisse der geordneten Rechtspflege" ist dabei
+    eine sachliche Begrenzung des Ermessens mit der Folge, dass der Antragsgegner seine Entscheidung ausschließlich an diesem Erfordernis
+    auszurichten hat (BGHZ 67, 348, 350; 73, 54, 56 f.; vgl. auch Senat, Beschluss vom 20. Juli 1998 - NotZ 31/97 - DNotZ 1999, 251, 252).
+
+
+9         Das ist hier geschehen. Der Antragsgegner hat dafür zu sorgen,
+    dass die den Notaren gestellten Aufgaben (vgl. §§ 1, 20 ff. BNotO) von
+    diesen angemessen und effizient erfüllt werden können. Dazu gehört die
+    Sicherung einer zügigen und ortsnahen notariellen Betreuung der Bevölkerung durch landeseigene Notare. Das von der Antragstellerin in diesem Zusammenhang hervorgehobene - im Vergleich zu S.              - geringere Urkundsaufkommen der in U.    tätigen Notare ist zu einem wesentlichen Teil darauf zurückzuführen, dass die rechtsuchende Bevölkerung
+    für Beurkundungen zu acht Notaren im Hauptberuf "abwandert", die ihren
+    Amtssitz im benachbarten N-U.     (Bayern) haben. Dem durfte der Antragsgegner durch die Schaffung einer zweiten Notarstelle zur hauptberuflichen Amtsausübung entgegenwirken. Es handelt sich um einen sachlichen, den Erfordernissen einer geordneten Rechtspflege entsprechenden Grund, der sich ersichtlich in den Grenzen des dem Antragsgegner
+    zustehenden Organisationsermessens hält. Es ist grundsätzlich nicht zu
+    beanstanden, wenn die Landesjustizverwaltung eine umfassende Versorgung der Bevölkerung mit notariellen Dienstleistungen durch landeseigene Notare anstrebt.
+
+                                        -7-
+
+
+
+10         3. Die Belange der in U.     eingesetzten Bezirksnotare - so auch
+     der Antragstellerin - werden dadurch nicht berührt; insbesondere ist keine Verletzung von verfassungsmäßigen Rechten aus den Artt. 33 Abs. 2,
+     12 Abs. 1 GG zu erkennen.
+
+
+11         a) Abgesehen davon, dass die Antragstellerin die Besetzung der
+     neu eingerichteten Stelle mit ihrer Person anstrebt und sich dazu in Widerspruch setzt, wenn sie die Schaffung der ausgeschriebenen Stelle als
+     sachwidrig und nicht dem tatsächlichen Bedarf an notariellen Dienstleistungen entsprechend rügt, kann die Ausübung des Organisationsermessens nach § 4 BNotO einen Bewerber grundsätzlich nicht in seinen subjektiven Rechten verletzen, weil sie keine Schutznorm zu seinen Gunsten
+     darstellt. Die in § 4 BNotO statuierte Pflicht, Notare nach den Bedürfnissen einer geordneten Rechtspflege zu bestellen, besteht ausschließlich
+     gegenüber der Allgemeinheit und deren Interesse an einer funktionierenden vorsorgenden Rechtspflege. Der Verpflichtung der Landesjustizverwaltung, ihr durch § 4 BNotO eröffnetes Ermessen fehlerfrei auszuüben,
+     steht insoweit kein subjektives Recht von Notarbewerbern gegenüber;
+     die Ermessensbindung der Verwaltung dient nicht dazu, Berufsaussichten der Interessenten - hier insbesondere der Bezirksnotare - rechtlich
+     abzusichern (Senatsbeschlüsse vom 18. September 1995 - NotZ 46/94 -
+     DNotZ 1996, 902, 903 f.; vom 24. November 1997 - NotZ 10/97 - DNotZ
+     1999, 239, 240; vom 14. April 2008 - NotZ 118/07 - DNotZ 2008, 865).
+     Daran vermag der Umstand nichts zu ändern, dass im württembergischen Rechtsgebiet die Bestellung zum öffentlichen Notar eine weitere
+     (höchste) Beförderungsstufe in der beamtenrechtlichen Laufbahn für Bezirksnotare darstellt (vgl. Senatsbeschluss vom 1. August 2005 - NotZ
+     11/05 - ZNotP 2006, 37, 38).
+
+                                       -8-
+
+
+
+12         b) Durch die Einrichtung einer neuen Notarstelle wird auch deshalb
+     nicht in verfassungsmäßige Rechte der bereits amtierenden Notare eingegriffen, weil Art. 12 Abs. 1 GG ebenso wie Art. 14 Abs. 1 GG nicht gewährleistet, dass einem Notar als dem Träger eines öffentlichen Amtes
+     Konkurrenten ferngehalten werden (BGHZ 67, 348, 351). Dies gilt erst
+     recht für im Landesdienst stehende beamtete Bezirksnotare. Zwar ist die
+     Einrichtung neuer Notarstellen mit der Einschränkung zu versehen, nur
+     so viele Stellen zu schaffen, dass dem jeweiligen Amtsinhaber ein solches Maß an finanzieller Unabhängigkeit gewährleist ist, dass er sich
+     nötigenfalls wirtschaftlichem Druck widersetzen kann (BGHZ 67 aaO
+     353; 73 aaO 57; Senatsbeschlüsse vom 11. Juli 2005 - NotZ 1/05 -
+     DNotZ 2005, 947, 949; vom 20. November 2006 - NotZ 23/06 - juris
+     Tz. 12). Bezirksnotare sind indes Beamte im statusrechtlichen Sinne, für
+     deren Dienstverhältnis das allgemeine Beamtenrecht gilt. Im Rahmen
+     dieser statusrechtlichen Beamtenstellung üben sie die ihnen von § 3
+     Abs. 1 LFGG zugewiesenen Aufgaben der vorsorgenden Rechtspflege
+     aus. Der dadurch eröffnete sachliche Schutzbereich des Art. 33 Abs. 5
+     GG wird durch die von der Antragstellerin durch die Schaffung einer weiteren Notarstelle zur hauptberuflichen Amtsausübung befürchteten nachteiligen Veränderungen in Bezug auf Einkommen und Berufsbild nicht berührt, denn eine Bestandsgarantie für die der Antragstellerin neben ihrer
+     Besoldung zufließenden Gebührenanteile enthält Art. 33 Abs. 5 GG
+     nicht. Dass aus anderen Gründen eine verfassungsrechtlich relevante
+     Unteralimentierung drohen könnte, hat die Antragstellerin nicht geltend
+     gemacht; es ist dafür auch sonst nichts ersichtlich (vgl. BGHZ 173, 297,
+     301 f.). Vielmehr ist die Grundversorgung der Antragstellerin als Beamtin
+     mit festen Bezügen gesichert. Das allein gewährleistet schon die für das
+     Amt des beamteten Notars notwendige wirtschaftliche Unabhängigkeit
+     (Senatsbeschluss vom 15. April 1991 - NotZ 1/91 - BGHR BNotO § 116
+     Abs. 1 Anwaltsnotar 1).
+
+                                       -9-
+
+
+
+
+13         4. Nicht nur bei der Errichtung, sondern auch bei der Besetzung
+     einer Notarstelle durch Verlegung des Amtssitzes eines bereits bestellten Notars ist der Landesjustizverwaltung unter Beachtung der Belange
+     einer geordneten Rechtspflege (§ 10 Abs. 1 Satz 3 BNotO) ein weitgehender, nur beschränkt einer gerichtlichen Überprüfung unterliegender
+     Entscheidungsspielraum gegeben (Senatsbeschlüsse vom 5. Februar
+     1996 - NotZ 25/95 - DNotZ 1996, 906, 908; vom 26. März 2001 - NotZ
+     28/00 - DNotZ 2001, 730; vom 20. November 2006 aaO Tz. 6). Eine
+     Rechtsverletzung der Antragstellerin auch in diesem Bereich scheidet
+     grundsätzlich aus, weil der erhebliche Ermessensspielraum, wie er der
+     Landesjustizverwaltung eingeräumt ist, sich allein organisationsrechtlich
+     und personalwirtschaftlich bestimmt (Senatsbeschluss vom 24. Juli 2006
+     - NotZ 1/06 - DNotZ 2007, 63).
+
+
+14         a) Insbesondere können es im Interesse einer geordneten Rechtspflege Gründe der übergreifenden Personalplanung nahe legen, eine
+     Amtssitzverlegung vorzunehmen oder sich dagegen zu entscheiden.
+     Desgleichen kann sich für die Landesjustizverwaltung das Erfordernis
+     einer Amtssitzverlegung aus Umständen ergeben, die am bisherigen
+     Amtssitz des Notars entstanden sind und die den Einsatz des Notars an
+     anderer Stelle als geboten erscheinen lassen; auch das fällt unter die
+     organisationsrechtliche Personalhoheit der Landesjustizverwaltung. Dabei können in die Ausübung des Ermessens Umstände einfließen, wie
+     sie von der Antragstellerin selbst vorgetragen werden, insbesondere eine
+     mangelnde "Sozietätsfähigkeit" des betreffenden Notars mit dadurch bedingten fehlenden Sozietätsaussichten oder ein von ihm verursachtes
+     "schlechtes Klima" unter den ortsansässigen Notaren, um den Wechsel
+     an einen anderen Amtssitz als notwendig erscheinen zu lassen. Sie sind
+     ebenso berücksichtigungsfähig wie der vom Antragsgegner vorgebrachte
+
+                                        - 10 -
+
+
+
+     Gesichtspunkt, durch den Amtssitzwechsel eines bereits amtierenden
+     Notars die angestrebte zügige und ortsnahe notarielle Betreuung der Bevölkerung in U.     sicherzustellen (Senatsbeschlüsse vom 19. Januar
+     1981 - NotZ 14/80 - DNotZ 1981, 521, 522; vom 24. Juli 2006 aaO 64).
+
+
+15         b) Wenn die Antragstellerin in diesem Zusammenhang geltend
+     macht, der weitere Beteiligte erhalte in U.   einen Standortvorteil im Hinblick auf die für das Jahr 2018 angestrebte Notariatsreform mit einer
+     Umstellung auf das freiberufliche Notariat, so übersieht sie zum einen,
+     dass der weitere Beteiligte bereits seit dem 1. November 2006 Notar im
+     Hauptberuf ist und in dieser Eigenschaft lediglich die Verlegung seines
+     Amtssitzes erstrebt. Zum anderen hat die als Bezirksnotarin derzeit in
+     U.   eingesetzte Antragstellerin keinen Anspruch darauf, nach der Notariatsreform als Notarin im Hauptberuf ebenfalls in U.    tätig zu sein. Die
+     Anzahl der für Bezirksnotare zur Verfügung stehenden Stellen für Notare
+     im Hauptberuf, auf die sie sich nach der Notariatsreform oder bereits zuvor als Beförderungsstufe in ihrer beamtenrechtlichen Laufbahn bewerben können, verringert sich durch die Amtssitzverlegung des weiteren
+     Beteiligten zudem nicht, da seine Stelle in S.       zur Wiederbesetzung
+     vorgesehen ist.
+
+
+16         c) Die Entscheidung des Antragsgegners leidet auch nicht deshalb
+     an einem Rechtsfehler, weil ein Mitglied des Landtages und ein Staatssekretär sich darum bemühten, den weiteren Beteiligten bei seiner von
+     ihm in Aussicht genommenen beruflichen Veränderung zu unterstützen.
+     Denn es lässt sich schon nicht feststellen, dass sie sich auf die angegriffene Entscheidung des Antragsgegners ausgewirkt haben. Den Antrag
+     des weiteren Beteiligten, als Bezirksnotar in den Landesdienst zurückzukehren, hat der Antragsgegner abschlägig beschieden. Zum Zeitpunkt,
+     als sich der Staatssekretär im Interesse des weiteren Beteiligten an den
+
+                                        - 11 -
+
+
+
+     Antragsgegner wandte, stand dessen Entscheidung, eine weitere Notarstelle zur hauptberuflichen Amtsausübung in U.      zu schaffen und dafür
+     den Amtssitzwechsel eines in Württemberg bereits bestellten Notars in
+     Aussicht zu nehmen, bereits fest. Eine sachwidrige Einflussnahme in
+     dem Zeitraum zwischen dem 30. Oktober 2007 (Vermerksentwurf auf Arbeitsebene) und dem 29. November 2007 (Billigung des mit Vermerk vom
+     8. November 2007 unterbreiteten Entscheidungsvorschlags durch den
+     Minister) ist nicht ersichtlich und wird von der Antragstellerin auch nicht
+     geltend gemacht. Im Übrigen ist das an den Staatssekretär seitens des
+     Antragsgegners gerichtete Schreiben vom 18. Dezember 2007 seinem
+     Inhalt nach nicht zu beanstanden, da dort ausdrücklich darauf verwiesen
+     wird, die Besetzungsentscheidung habe sich an den von Art. 33 Abs. 2
+     GG und der Bundesnotarordnung vorgegebenen Leistungskriterien zu
+     orientieren.
+
+
+17         5. Allerdings ist dem Oberlandesgericht darin zuzustimmen, dass
+     zumindest Anhaltspunkte für eine bereits auf einen bestimmten Bewerber
+     - den weiteren Beteiligten - bezogene Ausschreibung gegeben sind, wie
+     sie nicht zuletzt die zeitlichen Zusammenhänge und der Zusatz offenbaren, den der Antragsgegner seiner Ausschreibung beigefügt hat.
+
+
+18         a) Der Senat hat bereits entschieden, dass § 4 BNotO (ausnahmsweise) Schutzfunktionen entfalten kann, wenn die Landesjustizverwaltung die Grenzen ihres Organisationsermessens dergestalt überschreitet,
+     dass sie sich vom öffentlichen Interesse durch eine nicht bedarfs-, sondern rein bewerberbezogene Stellenermittlung löst unter sachfremder
+     Begünstigung oder Benachteiligung einzelner Bewerber (BGHZ 173, 297,
+     306; Senatsbeschluss vom 12. Juli 2004 - NotZ 8/04 - ZNotP 2004, 410).
+     Dafür ist hier indes - wie ausgeführt - nichts ersichtlich, weil der Antragsgegner sich bei Schaffung einer zweiten Notarstelle zur hauptberuf-
+
+                                       - 12 -
+
+
+
+     lichen Ausübung in U.    an dem Bedürfnis nach einer angemessenen und
+     ausreichenden Versorgung der rechtsuchenden Bevölkerung mit notariellen Leistungen orientiert hat.
+
+
+19         b) Die genannten Grundsätze haben gleichermaßen zu gelten,
+     wenn die Landesjustizverwaltung sich innerhalb des Besetzungsverfahrens bei ihrer der eigentlichen Auswahlentscheidung vorgelagerten Entscheidung, ob die frei gewordene oder neu geschaffene Stelle durch Verlegung des Amtssitzes eines bereits amtierenden Notars besetzt werden
+     soll, von Erwägungen leiten lässt, die nicht allein personalwirtschaftlich
+     oder organisationsrechtlich bestimmt sind. Wenn sie bei ihrer der Auswahlentscheidung vorausgehenden Organisationsentscheidung schon
+     einen bestimmten Bewerber im Blick hat, ist ihr Beurteilungsmaßstab in
+     diesem Fall dahingehend modifiziert, dass bei auffälligen, erheblichen
+     Eignungsunterschieden zu konkurrierenden Bewerbern die Artt. 3, 12, 33
+     Abs. 2 GG zu berücksichtigen sind und damit das Prinzip der Bestenauslese Beachtung zu finden hat, um dem öffentlichen Interesse an einer
+     geordneten Rechtspflege angemessen Rechnung zu tragen (vgl. Senatsbeschlüsse vom 14. Juli 2003 - NotZ 47/02 - ZNotP 2003, 470, 471; vom
+     7. Dezember 2006 - NotZ 24/06 - DNotZ 2007, 154, 155; vom 14. April
+     2008 - NotZ 114/07 - bei juris Tz. 4 [in DNotZ 2008, 862 nicht vollständig
+     abgedruckt]).
+
+
+20         c) Das hat der Antragsgegner indes erkannt und ausweislich der
+     Begründung seiner Auswahlentscheidung einen Leistungsvergleich vorgenommen, der zugunsten des weiteren Beteiligten ausgefallen ist und
+     ausfallen durfte. Der weitere Beteiligte (24. März 1959) und die Antragstellerin (11. Oktober 1958) haben nahezu das gleiche Lebensalter. Das
+     Ergebnis der württembergischen Notarprüfung des weiteren Beteiligten
+     lag mit 8,76 Punkten über dem der Antragstellerin, die 8,06 Punkte er-
+
+                                       - 13 -
+
+
+
+     zielt hat. Die letzte Anlassbeurteilung lag für beide Bewerber bei
+     7,5 Punkten. Die Antragstellerin (1. März 1995) hat gegenüber dem weiteren Beteiligten (1. Juli 1999) lediglich ein höheres Dienstalter aufzuweisen. Das allein rechtfertigt keinen auffälligen und erheblichen Leistungsunterschied, der den Antragsgegner hätte veranlassen müssen, der
+     Antragstellerin den Vorzug zu geben.
+
+
+21           Nach alledem ist die Entscheidung des Antragsgegners, die ausgeschriebene Stelle im Wege eines Amtssitzwechsels und nicht aus den
+     Reihen der sich bewerbenden Bezirksnotare zu besetzen, nicht zu beanstanden.
+
+
+
+
+     Galke                         Kessal-Wulf                         Appl
+
+
+                   Bauer                             Brose-Preuß
+
+
+
+
+     Vorinstanz:
+     OLG Stuttgart, Entscheidung vom 03.07.2009 - 1 Not 3/09 -
