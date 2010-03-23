@@ -1,0 +1,7 @@
+# TOP 5.1: Aktueller Stand der Maßnahmen im Moabiter Poststadion sowie in dessen Umfeld
+
+- Sitzung: 27. öffentliche Sitzung des Sportausschusses (2010-03-23)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=44508
+- Ergebnis: erledigt
