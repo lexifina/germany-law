@@ -1,0 +1,112 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-03-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828941
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828941
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Bürgeranliegen: Münchner Kammerspiele im Bahnhofsviertel
+- TOP .1.: Anfrage zum Erhalt der Räume des Pfadfinderstamms Pegasus, Pestalozzistraße
+- TOP .2.: Antrag auf Bereitstellung von geeigneten Räumlichkeiten zur Einrichtung von weiteren Betreuungsgruppen (Hort- oder Mittagsbetreuung)
+- TOP .1.: Zuschuss aus dem BA-Budget: Gesundheitsladen München e.V., Anschaffung von Akustikplatten
+- TOP .2.: BA-Budget: die urbanauten, "Isarlust - Temporäre Fußgängerbrücke"
+- TOP .3.: BA-Budget: digitalanalog e.V., Workshop "Digitalanalog für Junges Publikum"
+- TOP .4.: BA-eigene Veranstaltung: Kinderfest zur Schulhoföffnung der Tumblingerschule
+- TOP .5.: BA-eigene Veranstaltung: Stadtteilfest Am Glockenbach
+- TOP .1.: Mehr Einflussmöglichkeiten für junge Menschen (aus der Sitzung vom 23.02.2010)
+- TOP .2.: Beschlussvorlage für den Schul- und Sportausschuss vom 14.04.2010: Errichtung eines Hauses für Kinder mit 2 Kindergarten- und 2 Kinderkrippengruppen an der Müllerstr. 7
+- TOP .1.: Schreiben BA 1 an den Oberbürgermeister: Zusammenarbeit mit dem Schulreferat
+- TOP .2.: BA-Budget: Elternbeirat der Schule zur Sprachförderung, Genehmigungsbescheid
+- TOP .3.: Beschluss Kinder- und Jugendhilfeausschusses vom 09.03.2010: Ausschreibung von Trägerschaften bezuschusste soziale Einrichtungen
+- TOP .1.: Änderung der Reinigungsklassen im 2. Stadtbezirk (Vorschläge und Terminabsprache mit dem Baureferat)
+- TOP .2.: Bürgeranliegen: Nutzung des Toilettenhäuschens (Pestalozzistraße) für Kunstausstellung
+- TOP .3.: Bürgeranliegen: fehlende Hortplätze (aus der Sitzung vom 23.02.2010)
+- TOP .4.: Bürgeranliegen: Versetzung / Instandhaltung der 101 Portraits, Unterführung Kapuzinerstraße (aus der Sitzung vom 23.02.2010)
+- TOP .5.: Bürgeranliegen: Ateliernutzung
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Standortgenehmigung für Parkscheinautomaten: Pettenkoferstr. 37 (aus der Sitzung 01/10)
+- TOP .2.: Standortgenehmigung für Parkscheinautomaten: Schwanthalerstr. 2 (aus der Sitzung 02/10)
+- TOP .3.: Begrünung der Waltherstraße (unterer Teil)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Kobellstr. 3: DG-Ausbau, Neubau Außenaufzug, Errichtung zusätzlicher Balkone, Nutzungsänderung
+- TOP .2.: Zenettistr. 43: Errichtung Hygieneschleuse
+- TOP .3.: Schillerstr. 36: Penthouse-Geschossaufbau
+- TOP .4.: Baaderstr. 7: Generalsanierung u.a.
+- TOP .5.: Landwehrstr. 56: Nutzungsänderung
+- TOP .6.: Baaderstr. 30: Ausbau und Sanierung DG
+- TOP .7.: Klenzestr. 99: Umbau und Nutzungsänderung
+- TOP .8.: Adlzreiterstr. 21: Erneuerung Balkone
+- TOP .9.: Aldzreiterstr. 21: Erweiterung Gaststätte
+- TOP .10.: Fraunhoferstr. 43: Neubau Wohn- / Geschäftshaus
+- TOP .11.: Erhardtstr. 3: Anbau eines Personenaufzugs im Innenhof
+- TOP .12.: Hermann-Lingg-Str. 16: Neubau eines Gebäudes
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baaderstr. 31
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Änderung des Parklizenzgebietes Lindwurmstraße (Schreiben KVR vom 04.03.2010)
+- TOP .2.: Green City: Antrag auf Wanderbaumstandort (24.06. - 28.07.2010) PLENUMSBESCHLUSS
+- TOP .1.: Die demontierte Sitzbank im U-Bahnhof Poccistraße soll wieder aufgestellt werden
+- TOP .2.: Beschluss Bauausschuss 19.01.2010: Lichtkonzept öffentlicher Raum
+- TOP .3.: Müllerstr. 7: Genehmigung des Fällungsantrages
+- TOP .4.: Unterrichtung über das Fällen von Gefahrbäumen: 2
+- TOP .5.: Bekanntgabe Ausschuss Stadtplanung und Bauordnung vom 10.03.2010: Wohnungsmarkt München, Expertenbefragung 2009
+- TOP .6.: Bekanntgabe Ausschuss Stadtplanung und Bauordnung vom 10.03.2010: Beschlussvollzugskontrolle
+- TOP .7.: Beschluss Ausschuss Stadtplanung und Bauordnung vom 10.03.2010: Nutzung erneuerbarer Energien im Städtebau
+- TOP .8.: Beschluss Ausschuss Stadtplanung und Bauordnung vom 10.03.2010: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP .9.: Baumaßnahmen der SWM: Stromprojekt Rumfordstr/Klenzestr
+- TOP .1.: Änderung der Reinigungsklassen im 2. Stadtbezirk (Vorschläge und Terminabsprache mit dem Baureferat) siehe TOP A 5.1
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Interfraktioneller Antrag des UA KVR: Gärtnerplatz, Vollzug der Grünanlagensatzung
+- TOP .2.: Interfraktioneller Antrag des UA KVR: Gärtnerplatz, Reinigung
+- TOP .3.: Interfraktioneller Antrag des UA KVR: Gärtnerplatz, Monitoring
+- TOP .4.: Interfraktioneller Antrag des UA KVR: Gärtnerplatz, Mediatoren und Flyer
+- TOP .5.: Interfraktioneller Antrag des UA KVR: Gärtnerplatz, Einführung eines Konzepts ähnlich dem SAM (Wien)
+- TOP .6.: Interfraktioneller Antrag des UA KVR: Gärtnerplatz, Lärmgutachten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.: Antrag auf Freischankfläche: Kohlstr. 2
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für einen mobilen Fahrradständer: Goethestr. 24
+- TOP .2.: Antrag für eine Warenauslage: Reisingerstr. 3 (aus der Sitzung vom 23.02.2010)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .2.: Ziffer 1 des Antrags Nr. 9 aus der BV 02 vom 12.11.2009: Ganzjährige Querung für die Anwohner der Theresienwiesn (aus der Sitzung vom 23.02.2010)
+- TOP .1.: Festumzug zum Frühlingsfest am 16.04.2010
+- TOP .2.: Straßenfest Maikönigin, Hans-Sachs-Str. 1-5, 30.04.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge
+- TOP .2.: Überprüfung Lichtzeichenanlagen (aus der Sitzung vom 23.02.2010)
+- TOP .1.: Unveränderte Gaststättenfortführung: - The Lodge, Fraunhoferstr. 43 - Trinkhalle, Baaderstr. 68 - Le Pain Quotidien, Gärtnerplatz 2 - NIL, Hans-Sachs-Str. 2
+- TOP .2.: Fasching in der Reichenbachstraße, 16.02.2010: Genehmigung
+- TOP .3.: Veranstaltung "Cycling Days" am 23.05.2010: Stand des Genehmigungsverfahrens und Rückmeldung des KVR
+- TOP .4.: Anregung für die Verkehrsplanung Waltherstr./Häberlstr. (Bürgeranliegen aus der Sitzung 01/10): Stellungnahme KVR und PI 14
+- TOP .5.: Radweg Kapuzinerstraße (BV-Empfehlung Nr. 02-08 / E 00625 vom 16.11.2006), Radwege zwischen Wittelsbacher Brücke und Paul-Heyse-Unterführung (BV-Empfehlung Nr.02-08 / E 00367 vom 11.05.2006): Zwischennachricht Baureferat
+- TOP .6.: Verbesserung der Parksituation Schmeller- /Lindwurmstr. (Bürgeranliegen aus der Sitzung 01/10): Stellungnahme KVR
+- TOP .7.: Ladezone Kapuzinerplatz (Anhörung aus der Sitzung 01/10): Rückmeldung KVR
+- TOP .8.: Filmaufnahmen auf öffentlichem Verkehrsgrund: 3
+- TOP .9.: Versammlungen unter freiem Himmel: 2
+- TOP .10.: Verkehrsrechtliche Anordnungen: - Holzstraße 25; Anlieferzone
+- TOP .11.: Pflanzkübel im Freischankbereich (Bürgeranliegen aus der Sitzung vom 26.01.2010): Stellungnahme KVR
+- TOP .12.: Beschluss Kreisverwaltungsausschuss vom 02.03.2010: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP .13.: Lärmbelästigung durch die Gaststätte Los Bandidos, Thalkirchner Str. 71 (Bürgeranliegen)
+- TOP .1.: Termine
+- TOP .1.: Volksentscheid am 04.07.2010; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP .2.: Pfarrgemeinderat St. Andreas München:Kunstaktion "AUDIOVISION" (31.03.2010)
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Änderung der Satzung für die BAs (z.K.)
+- TOP .2.: Änderung der BA-Satzung: Bildung eines Ferienausschusses (Stellungnahme)
+- TOP .3.: Beschluss Verwaltungs- und Personalausschuss vom 10.02.2010: Änderung der BA-Satzung
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
