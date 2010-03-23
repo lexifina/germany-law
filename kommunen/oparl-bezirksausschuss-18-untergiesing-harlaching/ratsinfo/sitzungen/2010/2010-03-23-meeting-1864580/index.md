@@ -1,0 +1,108 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-03-23T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1864580
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1864580
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Geiselgasteigstraße 132 - versperrte Zufahrt durch Dauerparker; Bürgerschreiben vom 25.02.2010
+- TOP 2.2.: Gedenkstein in der Peter-Auzinger-Straße; Bürgerschreiben vom 16.03.2010
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: die urbanauten, für die Maßnahme: Projekt "Isarlust - Temporäre Fußgängerbrücke vom 17. - 24.07.2010"; Antragssumme: 4.000,00 ?; Beschlussvorlage des Direktoriums vom 18.02.2010
+- TOP 3.2.: AntragstellerIn: digitalanalog e.V., für die Maßnahme: "Digitalanalog für Junges Publikum" im Frühjahr / Sommer 2010; Antragssumme: 540,00 ?; Beschlussvorlage des Direktoriums vom 23.02.2010 zu TOP 3.1.2.2 Mitteilung des Direktoriums zur Telefonpauschale / Fahrtkostenpauschale vom 01.03.2010
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Bürgervereinigung Maibaum Untergiesing e.V., für die Maßnahme: Maibaumfest am 01.Mai 2010; Antragssumme: 1.815,00 ?; Antrag vom 01.03.2010
+- TOP 3.1.: Rückzug des Budgetantrags des Kath. Pfarramtes Hl. Familie für die Renovierung der St.-Anna-Kirche; Mitteilung vom 04.03.2010
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Verkehrsangelegenheit Klausener - Gufidauner Str.; Bürgerschreiben vom 22.01.2010 (verwiesen aus der Sitzung vom 23.02.2010) zu TOP 3.2.1.1 weiteres Bürgerschreiben an das Baureferat - Abteilung Verwaltung u. Recht vom 25.02.2010
+- TOP 3.1.: Errichtung einer Bushaltestelle am Laurinplatz (Linie 139) - <div>nach Antrag</div>
+- TOP 3.1.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2; hier: Anhörungs- und Beteiligungsverfahren; Zuleitung des Referates für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.1.: Markierung des Fahrradwegs der Oberbibergerstraße; Bürgerschreiben aus der Sitzung vom 19.01.10; Antwortschreiben des KVR vom 05.02.10 (negative Erledigung)
+- TOP 3.2.: St.-Magnus-Straße - Bepflanzung des Mittelstreifens der Fahrspur; Schreiben des BA 18 vom 02.02.10; Antwortschreiben des KVR hinsichtlich der Verkehrssicherheit vom 11.02.10 (neutrale Erledigung)
+- TOP 3.3.: Maßnahmen zur Qualitätssteigerung der Fuß- und Radwegbrücke über die Tegernseer Landstraße auf Höhe der Waltramstraße; BA-Antrag-Nr. 08-14 / B 01653 vom 20.10.09; Antwortschreiben des Baureferats vom 17.02.10 (
+- TOP 3.4.: Verlängerung der Buslinie 135 zur Alemannenstraße (Ziffer 2 des Antrages); BA-Antrags-Nr. 08-14 / B 01650 des BA 18 vom 20.10.09; Antwortschreiben des Referates für Arbeit u. Wirtschaft vom 23.02.2010 (negative Erledigung)
+- TOP 3.5.: Pistorinistraße - Antrag auf verkehrsberuhigten Bereich sowie Öffnung der Einbahnstraße für Radfahrer in der Pistorinistraße; Bürgerschreiben vom 05.11.09; Schreiben des BA 18 vom 17.12.09; Antwortschreiben des KVR vom 26.02.2010 (neutrale Erledigung)
+- TOP 3.6.: St.-Magnus-Straße - Geschwindigkeitsüberschreitungen und Parken in zweiter Reihe; Anfrage zur Verkehrsführung; Bürgeranliegen aus der Sitzung des BA 18 vom 19.01.2010; Schreiben des BA 18 vom 05.02.2010; Antwortschreiben des KVR vom 26.02.2010 (neutrale Erledigung)
+- TOP 3.1.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen; Beschluss des Kreisverwaltungsausschusses vom 02.03.2010 (SB); Sitzungsvorlage Nr. 08-14 / V 03784
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Mülleimer im Park zwischen der Schyrenstraße und dem Schyrenbad
+- TOP 3.1.: Mitteilungen der Unteren Naturschutzbehörde über den Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Traminer Straße; Bescheinigung vom 15.02.2010
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Mehr Einflussmöglichkeiten für junge Menschen 1; Antrag Nr. 08-14 / A 01025 der Stadtratsfraktion DIE GRÜNEN/RL vom 01.09.2009; Schreiben des Direktoriums vom 08.02.2010 mit der Bitte um Stellungnahme
+- TOP 3.2.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung; Schreiben des Sozialreferats vom 09.03.2010 mit der Bitte um Rückmeldung bis 23.04.2010
+- TOP 3.1.: Protokoll der BA-Veranstaltung am 30.11.2009 im Sozialreferat
+- TOP 3.2.: Frauenbadetag im Hallenbad an der Klausener Straße - beklagenswerte Zustände; Frauenbadetag im Bad Giesing-Harlaching - Beachtung der Hygiene im Wasserbecken und Abstellen der Verschmutzung außerhalb; Frauenbadetag im Bad Giesing-Harlaching - verschiedene Maßnahmen zur Verbesserung; Sitzungsvorlage Nr. 08-14 / V 03806; Beschluss des Ausschusses für Arbeit u. Wirtschaft am 16.03.2010
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Freischankfläche in der Otkerstraße; Beschluss des BA 18 aus der Sitzung vom 23.02.2010 (vertagt aus der Sitzung vom 23.02.2010)
+- TOP 3.1.: Denkmalschutz im Schwimmbadviertel (Untergiesing); Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 05.03.2010 - <div>mehrheitl. - gegen die Stimmen der SPD-Fraktion - so beschlossen</div>
+- TOP 3.1.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Konradinstraße 4 - 1 großflächige Plakattafel; Zuleitung der Lbk vom 18.02.2010 mit der Bitte um Stellungnahme binnen eines Monats (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.2.: Verkauf einer städtischen Immobilie; Anhörung der Bezirksausschüsse gem. § 3 der Bezirksausschusssatzung; hier: Anwesen Freibadstraße; Zuleitung des Kommunalreferats vom 03.02.2010 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 23.02.2010)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Hochkalterstraße 2 - 14; Nachverdichtung einer Wohnanlage mit 25 - 30 WE / VORBESCHEID; Anhörung vom 26.01.2010 (vertagt aus der Sitzung vom 23.02.2010)
+- TOP 3.2.: Birkenleiten 41; Teilabriss, Teilwiederaufbau und Nutzungsänderung der "Kramer-Mühle" zu Büro, Gewerbe und Ateliers mit Wohnnutzung; Anhörung vom 26.02.10
+- TOP 3.3.: Harthauser Str. 87; Neubau von 12 Wohneinheiten mit TG; Anhörung vom 26.02.2010
+- TOP 3.4.: Meichelbeckstraße 9; Neubau eines Einfamilienhauses mit TG; Anhörung vom 02.03.2010
+- TOP 3.5.: Veroneser Str. 9; Neubau eines Einfamilienhauses mit Garagen; Anhörung vom 05.03.2010
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Goldene Kanne", Aggensteinstraße; Mitteilung vom 09.02.2010 3.5.6.2.2 SSW "Siebenbrunn", Siebenbrunner Str.; Mitteilung vom 04.03.2010
+- TOP 3.3.: Wohnungsmarkt München; Expertenbefragung 2009; Sitzungsvorlage Nr. 08-14 / V 03637; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 3.4.: Ausstellung "stadt_bau_plan - 850 Jahr Stadtentwicklung München" sichern; Sitzungsvorlage Nr. 08-14/V 03724; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010 (SB)
+- TOP 3.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2009 - 31.12.2009; Sitzungsvorlage Nr. 08-14 / V 03790; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 3.6.: Nutzung erneuerbarer Energien im Städtebau a) Baupflicht für die Nutzung erneuerbarer Energien bei Neubauten im Stadtgebiet b) Marburg setzt auf Sonne - München auch? Sitzungsvorlage Nr. 08-14/V 03728; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010 (SB)
+- TOP 3.7.: EU Projekt "POLIS" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategien in Städtebau und strategischer Planung; Sitzungsvorlage Nr. 08-14 / V 03828; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 10.03.2010
+- TOP 3.8.: Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009 - mit weiterführenden Daten und Fakten zum Stadtentwicklungsprojekt Hammarby Sjöstad in Stockholm; Sitzungsvorlagen Nr. 08-14 / V 03752; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Candidplatz, Maifest des MIB e.V. vom 21.05. - 24.05.2010; Anhörung des KVR mit der Bitte um Stellungnahme bis 06.04.2010
+- TOP 3.2.: Cycling Days München und südl. Landkreise am 23.05.2010; Zuleitung des KVR vom 08.03.2010 mit der Bitte um Stellungnahme bis spätestens 21.03.2010
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Kein Goolge Street View in Trudering-Riem; Antrag des BA 15 vom 25.02.2010 mit der Bitte um Unterstützung aller Bezirksausschüsse
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Änderung der BA-Satzung; Bildung eines Ferienausschusses; Schreiben des Direktoriums vom 01.03.2010 mit der Bitte um schnellstmögliche Rückäußerung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: "fliegendes Gewerbe" - Fahrradhändler am Hans-Mielich-Platz; Anliegen aus der Sitzung des BA 18 vom 19.01.2010; Antwortschreiben der Bezirksinspektion Süd vom 10.02.10 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München 1. Vorberatungen in der BA-Satzungskommission a) Anhörungsrecht für Bezirksausschüsse bei Dreharbeiten und Baugenehmigungen b) Änderungen der BA-Satzung: Unterrichtungsrecht bei Neukonzeption von Ampeln und Ampelschaltungen c) Änderungen des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung d) Schaffung von Jugendbeauftragten in der BA-Satzung 2. Umsetzung der Empfehlungen in eine Änderungssatzung Sitzungsvorlagen Nr. 08-14/V 02079; Beschluss des Verwaltungs- und Personalausschusses vom 10.02.2010 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
