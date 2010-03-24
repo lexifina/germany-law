@@ -1,0 +1,83 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-03-24T17:12:00+01:00
+- Ende: 2010-03-24T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1164
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1164
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan XIV-287b vom 06.07.2007 ("Krugpfuhlsiedlung - Rambowstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan 8-22a - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Zahlungsstau bei HzE-Rechnungen - beantwortet
+- TOP 8.2: "Villenviertel Buckow" - beantwortet
+- TOP 8.3: Kosten von Scheinvaterschaften - beantwortet
+- TOP 8.4: Fahrradkontrollen in Neukölln - beantwortet
+- TOP 8.5: Schneeschimmelbefall Neuköllner Grünflächen/Naturrasen-Sportplätze - beantwortet
+- TOP 8.6: Bewegte Welten 2010 - beantwortet
+- TOP 8.7: Bühnenprogramm "Bewegte Welten" gesichert? - beantwortet
+- TOP 8.8: Fußball WM: Public Viewing in Neukölln - beantwortet
+- TOP 8.9: Zusammenarbeit mit der Treberhilfe - schriftlich beantwortet
+- TOP 8.10: Schlechte Zahlungsmoral für Vertretungslehrer - beantwortet
+- TOP 8.11: Wegfall der Anschlussförderung im sozialen Wohnungsbau - beantwortet
+- TOP 8.12: "Der lange Tag gegen Nazis" - beantwortet
+- TOP 8.13: Erschließung des Tempelhofer Feldes - beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Rechtsextreme Straftaten - beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Anonyme und frühzeitige Beratung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Berliner Mauerweg besser mit Neukölln verbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Öko-Investitionsprogramm für Berlins Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Hinweisschilder - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Keine Zusammenarbeit mit der Islamischen Gemeinschaft Milli Görüs - überwiesen
+- TOP 10.6: Keine Homophobie in Neuköllner Jugendeinrichtungen - überwiesen
+- TOP 10.7: Bildung einer Baumschutzkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Handlungsmöglichkeiten bei sozialen Ungleichgewichten und Integrationsproblemstellungen - beantwortet
+- TOP 11.2: Schülerlotto in Neukölln - beantwortet
+- TOP 11.3: Bilinguale Erziehung an der Europakita Riesestraße - beantwortet
+- TOP 11.4: Scheinvaterschaften - ein Problem in Neukölln? - beantwortet
+- TOP 11.5: Kündigung von Kleingartenpachtverträgen - schriftlich beantwortet
+- TOP 11.6: Denkmalschutz in Neukölln - vertagt
+- TOP 11.7: Gewaltvorfälle an Schulen in Neukölln - vertagt
+- TOP 11.8: "2010 mit dem Rad zum Bezirksamt?" - vertagt
+- TOP 11.9: Tätigkeit der Treberhilfe gGmbH für das Bezirksamt Neukölln - vertagt
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Protokolle und Schriftstücke für Sehbehinderte - schriftlich beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Sicherheit an der Kreuzung Gutschmidtstraße/Ecke Fritz-Reuter-Allee - überwiesen
+- TOP 13.2: "Köpfe für Neukölln" - überwiesen
+- TOP 13.3: Überquerungshilfe am U-Bahnausgang Rudow - überwiesen
+- TOP 13.4: U-Bahnhof Karl-Marx-Straße in "Böhmisches Dorf" umbenennen! - überwiesen
+- TOP 13.5: Voreinander abbiegen in der Stubenrauchstraße - überwiesen
+- TOP 13.6: Programm zur Vorbereitung von Migrantinnen und Migranten - überwiesen
+- TOP 13.7: Scheinvaterschaften verhindern! - überwiesen
+- TOP 13.8: Problemgebiete stabilisieren! - überwiesen
+- TOP 13.9: Kita-Ausbildungsverbund - überwiesen
+- TOP 13.10: Kiez International - ohne Änderungen in der BVV beschlossen
+- TOP 13.11: Aktionstage des Ordnungsamtes - überwiesen
+- TOP 13.12: Lehrerstundenzuweisung - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Vernachlässigungen erkennen - Lehrer unterstützen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Alkoholberatung der Guttempler sichern! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Protokolle der Steuerungsrunde zugänglich machen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Informationen zur anonymen Geburt - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Ständige Ausstellung Neukölln - Neuköllner Gedenktafelprogramm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Fortschreibung des Lokalen Aktionsplanes für das Jahr 2010 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Aufstellung von CD/DVD-Recyclingboxen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Durchführung einer Einwohnerversammlung - zur Kenntnis genommen (Beratungsfolge beendet)
