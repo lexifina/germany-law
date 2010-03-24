@@ -1,0 +1,7 @@
+# TOP 4.3: Kinderfreundliches Reinickendorf III - "Aufsuchende Elternhilfe"
+
+- Sitzung: 30. öffentliche Sitzung des Jugendhilfeausschusses (2010-03-24)
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/agendaItems.asp?id=17830
+- Beratung: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=17830
