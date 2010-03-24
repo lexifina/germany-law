@@ -1,0 +1,8 @@
+# TOP 4.: Brandschutzbedarfsplanung - Prüfung eines neuen Standortekonzeptes
+
+- Sitzung: Rat der Gemeinde Stemwede (3. Sitzung) (2010-03-24)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5091
+- Ergebnis: Einstimmig, 2 Enthaltung(en)
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2335
