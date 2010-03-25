@@ -1,0 +1,6 @@
+# TOP 3: Entscheidung über Verfügungen des Wahlleiters bei der Prüfung von Wahlvorschlägen
+
+- Sitzung: öffentliche Sitzung des Kreiswahlausschusses für die Wahlkreise 31 Wuppertal I und 32 Wuppertal II (2010-03-25)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/45035
