@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-03-25T14:00:00+01:00
+- Ende: 2010-03-25T20:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2697
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2697
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00137369.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00137369.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00137369.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wahl eines Stadtkämmerers und Bestellung eines Stadtdirektors - mehrheitlich beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell der FDP: Stehplätze in Bundesligastadien bzw. in der Esprit-Arena - beantwortet
+- TOP 4.2: Anfrage aktuell von CDU und FDP: Diamorphingestützte Behandlung für Schwerstopiatabhängige - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage SPD: Ehrenamtskarte für Düsseldorf - beantwortet
+- TOP 5.2: Anfrage CDU: Kampagne "Traumpass" - beantwortet
+- TOP 5.3: Anfr: Rh Dr. Kirchner: Ratsfernsehen - Web TV - beantwortet
+- TOP 5.4: Anfr. Rh Dr. Kirchner: Gründung von rechter Gruppierung - beantwortet
+- TOP 5.5: Anfrage SPD: Charta von Aalborg - beantwortet
+- TOP 5.6: Anfrage Bü90/Grü: Kürzung des Etats der kom!ma - beantwortet
+- TOP 5.7: Anfrage SPD: Neugestaltung der Schadowstraße - beantwortet
+- TOP 5.8: Anfrage DIE LINKE: Umsetzung der geänderten Wohnraumnutzungsbestimmungen - schriftlich beantwortet
+- TOP 5.9: Anfrage der Ratsfrau Frey: Sperrung der Bundesmittel für aktive Arbeitsmarktpolitik - schriftlich beantwortet
+- TOP 5.10: Anfrage Bü90/Grü: Städtische Informationspolitik zum Kö-Bogen - schriftlich beantwortet
+- TOP 5.11: Anfrage FDP: Förderung der Elektromobilität in Düsseldorf - schriftlich beantwortet
+- TOP 5.12: Anfrage FDP u. CDU: Baumaßnahmen Schule, Kindergarten und Familienzentrum – Am Litzgraben“ - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Wehrhahnlinie - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Anträge
+- TOP 8.1: Antrag CDU;FDP: Einbindung der Wohlfahrtsverbände in den Integrationsausschuss - zur Kenntnis genommen
+- TOP 8.2: Antrag SPD. Eintrittsfreies Public Viewing - mehrheitlich abgelehnt
+- TOP 8.3: Antrag DIE LINKE: Gerichtliches Vorgehen gegen sittenwidrige Löhne - mehrheitlich abgelehnt
+- TOP 8.4: ÄA Bü90/Grü: Gerichtliches Vorgehen gegen sittenwidrige Löhne - zur Kenntnis genommen
+- TOP 8.5: Antrag CDU-FDP: Taktfrequenz des Nachtexpresses - mehrheitlich beschlossen
+- TOP 8.6: ÄA Bü90/Grü: Taktfrequenz des Nachtexpresses - zur Kenntnis genommen
+- TOP 8.7: Antrag CDU u. FDP. Sonntagsöffnung der Stadtteilbüchereien und der Zentralbibliothek - zur Kenntnis genommen
+- TOP 8.8: ÄA SPD: Sonntagsöffnung der Stadtteilbüchereien und der Zentralbibliothek - zur Kenntnis genommen
+- TOP 8.9: Antrag Bü90/Grü: Kein Gehwegparken zu Lasten der Fußgänger/-innen - mehrheitlich abgelehnt
+- TOP 8.10: Antrag Bü90/Grü: Leitlinien für Energieeffizientes Bauen - verwiesen
+- TOP 8.11: Antrag Bü90/Grü: Gender Mainstreaming - mehrheitlich abgelehnt
+- TOP 8.12: Antrag CDU u. FDP: Qualifizierung junger Menschen für Kindertageseinrichtungen und –tagespflege - mehrheitlich beschlossen
+- TOP 9: üpl/ apl 2009 - mehrheitlich beschlossen
+- TOP 10: Fassadensanierung TVG III - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 11: Heerdter Landstr. 186, Erweiterungsbau für den offenen Ganztag - Ausführungs- und Finanzierungsbesch - einstimmig beschlossen
+- TOP 12: Kanalbaumaßnahme Gudastraße und andere (ca. 1.380 Meter) - Grundsatzbeschluss - - einstimmig beschlossen
+- TOP 13: Kö - Bogen – Verkehrsanlagen - mehrheitlich beschlossen
+- TOP 14: Sonderzuschuss für die Deutsche Oper am Rhein zur Durchführung des "Public Viewing" 2010 - zur Kenntnis genommen
+- TOP 15: Art:card junior - zur Kenntnis genommen
+- TOP 16: Zielvereinbarung zur Erlangung des Zertifikats zum Audit familiengerechte Kommune - mehrheitlich beschlossen
+- TOP 17: Organisationsentwicklung in der Inobhutnahme - einstimmig beschlossen
+- TOP 18: Mitgliederversammlung des Städtetages NRW am 10. Juni in Neuss - - zur Kenntnis genommen
+- TOP 19: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - einstimmig beschlossen
+- TOP 20: Benennung eines Vertreters für den Beirat Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 21: Aufsichtsrat der Düsseldorf Marketing &Tourismus GmbH - Neuwahl - - einstimmig beschlossen
+- TOP 22: Genehmigung eines 60er-Beschlusses - mehrheitlich beschlossen
+- TOP 23: Prüfungsordnung für Angestellte im kommunalen Verwaltungsdienst - einstimmig beschlossen
+- TOP 24: Abberufung von zwei Prüferinnen und einem Prüfer des Rechnungsprüfungsamtes - einstimmig beschlossen
+- TOP 25: Wahl beratender Mitglieder in den Integrationsausschuss - zur Kenntnis genommen
+- TOP 25.1: Wahl eines beratenden Mitglieds in den Integrationsausschuss - einstimmig beschlossen
+- TOP 25.2: Wahl eines beratenden Mitgliedes in den Integrationsausschuss - zur Kenntnis genommen
+- TOP 26: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 28: Vorschlag zur Besetzung des Verwaltungsausschusses der Agentur für Arbeit Düsseldorf - einstimmig beschlossen
+- TOP 29: Aufsichtsrat der Regionalen Bahngesellschaft Kaarst -Neuss-Düsseldorf-Erkrath-Mettmann-Wuppertal mbH - einstimmig beschlossen
