@@ -1,0 +1,73 @@
+# 39. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-03-25T16:30:00+01:00
+- Ende: 2010-03-25T22:35:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2599
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2599
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - (offen)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines stellvertretenden beratenden Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Beschlussvorlagen - (offen)
+- TOP 11.1: 2. Ergänzungsplan des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2010/2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für Industriesalon Schöneweide e. V. (SM 1010) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Alte Möbelfabrik e.V. (SM 1011) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für ajb gmbh (SM 1013) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Netzwerk e.V. (SM 1015) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Gartendenkmal Treptower Park schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Änderung der Geschäftsordnung vom 28. Mai 2009 – Umgang mit den Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Verhaltensregeln für die Mitglieder der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin (Anlage 1 der Geschäftsordnung) - in der BVV abgelehnt
+- TOP 12.4: Unterstützung für das Aktionsprogramm Kindertagespflege - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Änderung § 36 der Geschäftsordnung - in der BVV abgelehnt
+- TOP 12.6: Aktualisierung des Obdachlosenrahmenplans von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Steganlage Große Krampe - Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Initiierung einer "Task Force Berliner Solarwirtschaft" - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Erhalt des Großgastronomie-Gebäudes am Strandbad Müggelsee - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-45 G ("Ausschluss Einzelhandel Teilbereich Niederschöneweide") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XVI-67 ("Sportplatz Köpenzeile") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Leitlinien zur Förderung des bürgerschaftlichen Engagements - überwiesen
+- TOP 14.2: Transparenz, Beschäftigtenvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - überwiesen
+- TOP 14.3: Anpassung des Schonvermögens im SGB XII - überwiesen
+- TOP 14.4: Fußgängertunnel Schöneweide - überwiesen
+- TOP 14.5: 65. Jahrestag der Befreiung vom Nationalsozialismus - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Endlich mehr Barrierefreiheit im ÖPNV - Einsatz von Niederflurbahnen in Treptow-Köpenick - überwiesen
+- TOP 14.7: Hinterausgang S-Bahnhof Treptower Park - überwiesen
+- TOP 14.8: Militärpräsenz auf der ILA verringern - mit Änderungen in der BVV beschlossen
+- TOP 14.9: Anreizsysteme im SGB II ausbauen - überwiesen
+- TOP 14.10: Nächtliche Geschwindigkeitsbegrenzung in der Schnellerstraße - überwiesen
+- TOP 14.11: Aufhebung der Haushaltssperre - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Schlechterstellung bei Bezug von Wohngeld stoppen - überwiesen
+- TOP 14.13: Sicherung des Fortbestandes der "Hilfe aus einer Hand" - überwiesen
+- TOP 14.14: CDA-Anflugverfahren für BBI - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Krankenversicherungszuschüsse - überwiesen
+- TOP 14.16: Gestaltungskonzept an der Nahtstelle zwischen altem und neuem Adlershof - überwiesen
+- TOP 14.17: Anflugverfahren – Beteiligung des Bezirksamtes - überwiesen
+- TOP 14.18: Für einen neuen Flächennutzungsplan – Stärkung des Klimaschutzes und Reduzierung der Bodenneuversiegelung - überwiesen
+- TOP 14.19: ILA 2010 – Schutz von Mensch und Umwelt - ohne Änderungen in der BVV beschlossen
+- TOP 14.20: Verkehrsorganisatorische Maßnahmen beim Umbau des Hirschgartendreiecks - vertagt
+- TOP 14.21: E-Mobility - überwiesen
+- TOP 14.22: Renovierung der Eingangshalle des S-Bhf. Grünau - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Funktionsgebäude Frauentog - vertagt
+- TOP 15.2: Altstadtkonferenz 2010 im Bezirk Treptow-Köpenick - vertagt
+- TOP 15.3: Angebote für Demenzerkrankte in Treptow-Köpenick - vertagt
+- TOP 15.4: Pflegestützpunkte in Treptow-Köpenick - vertagt
