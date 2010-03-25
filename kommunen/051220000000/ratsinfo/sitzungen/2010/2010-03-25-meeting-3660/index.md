@@ -1,0 +1,75 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-03-25T16:00:00+01:00
+- Ende: 2010-03-25T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQL4-6fkz3-_kNGcBJnYTdk
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3660
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZTdJF6gYHj0tb1b7gI0Ry25cCq68Oge8aMoOW2kc-e/Oeffentliche_Niederschrift_Rat_25.03.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 04. Sitzung des Rates
+- TOP 3: Protokoll über die 06. Sitzung des Rates
+- TOP 4: Protokoll über die 05. Sitzung des Rates
+- TOP 5: Umbesetzung von Gremien
+- TOP 6: Bildung einer Einigungsstelle
+- TOP 7: Mitgliederversammlung 2010 des Städtetages Nordrhein-Westfalen
+- TOP 8: Mitgliederversammlung 2010 des Städtetages Nordrhein-Westfalen
+- TOP 9: Berufung beratender Mitglieder im Ausschuss für Schule und Weiterbildung
+- TOP 10: Änderung der Geschäftsordnung für den Rat der Stadt Solingen, seine Ausschüsse und die Bezirksvertretungen
+- TOP 11: Neufassung der Regelung über die Zuständigkeiten der Ausschüsse
+- TOP 12: Notwendigkeit einer Besetzung der vierten Beigeordnetenstelle
+- TOP 13: HSK-Maßnahme 199 - Reduzierung Standard Grünflächenunterhaltung
+- TOP 14: HSK-Maßnahme 199 - Reduzierung Standard Grünflächenunterhaltung
+- TOP 15: Essener Signal uneingeschränkt unterstützen
+- TOP 16: Landschaftsumlage 2010
+- TOP 17: Umlageerhöhung Landschaftsverband Rheinland
+- TOP 18: Beteiligung der Stadt Solingen an dem von der Stadt Wuppertal betriebenen ServiceCenter
+- TOP 19: Abschluss einer öffentlich-rechtlichen Vereinbarung
+- TOP 20: Interkulturelles Konzept der Stadt Solingen
+- TOP 21: Pro-NRW
+- TOP 22: Satzungsänderung der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 23: 'Zukunft der Stadtwerke Solingen GmbH sichern'
+- TOP 24: Strategische Ausrichtung Stadtwerke Solingen GmbH
+- TOP 25: Bestandsaufnahme Anteilsverkauf/Alternativenbetrachtung Stadtwerke Solingen GmbH
+- TOP 26: Bau einer Leistungssporthalle
+- TOP 27: Bau einer Leistungssporthalle
+- TOP 28: City 2013 - Kreativ- und Standortoffensive für die Solinger Innenstadt
+- TOP 29: Aktionsprogramm "Nachhaltige Entwicklung in Solingen" - Fortschreibung 2010
+- TOP 30: Bauleitplanung Geilenberg
+- TOP 31: Bauleitplanung Hofschaft Birkendahl
+- TOP 32: Bauleitplanung Kuller Straße
+- TOP 33: Bauleitplanung Scheidter Feld
+- TOP 34: Bauleitplanung Scheidter Feld
+- TOP 35: Attraktives Busangebot im neuen Nahverkehrsplan
+- TOP 36: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2010
+- TOP 37: Verschiedenes
+- TOP 38: Kosten durch Schäden in leerstehenden städtischen Gebäuden
+- TOP 39: Wegeproblematik in Solinger Hofschaften
+- TOP 40: HSK: Schließung der Festhalle Ohligs und des Stadtsaales Wald
+- TOP 41: Löschwasservertrag
+- TOP 42: Übertragung von Aufgaben des Bundes und des Landes
+- TOP 43: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2010
+- TOP 44: Anfrage der SPD-Ratsfraktion vom 15.03.2010
+- TOP 45: Urteilsverkündung zur Verfassungsbeschwerde in Sachen Umwelt- und Versorgungsverwaltung
+- TOP 46: Politische Versammlungen am 1. Mai
+- TOP 47: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 48: Carl-Ruß-Schule
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 04. Sitzung des Rates
+- TOP 3: Wirtschaftsplan 2010 der Bergische Entwicklungsagentur GmbH
+- TOP 4: Wirtschaftsplan 2010 der Bergische Entwicklungsagentur GmbH
+- TOP 5: Verschiedenes
+- TOP 6: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2010
+- TOP 7: Städtisches Klinikum Solingen gemeinnützige GmbH Satzungsänderung
+- TOP 8: Satzungsänderung der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 9: Bauleitplanung Geilenberg
+- TOP 10: Bauleitplanung Hofschaft Birkendahl
