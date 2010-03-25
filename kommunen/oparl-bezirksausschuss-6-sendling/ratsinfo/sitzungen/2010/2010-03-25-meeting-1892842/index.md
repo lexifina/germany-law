@@ -1,0 +1,66 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-03-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1892842
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1892842
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung der Planungen für die ehemaligen Produktionsstätten der Philip Morris AG
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Vorhaben Plinganserstraße 27 - 31 mit Kidlerstraße 34; 1. Erstellung eines Bebauungsplanes zur Verhinderung einer geschlossenen Straßenrandbebauung, sowie zum Schutz der Sichtbarkeit und Erlebbarkeit der glazialen Hangkante von der Plinganserstr. in das Sendlinger Unterfeld 2. Auslobung eines Gestaltungswettbewerbes für die Baumaßnahme - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 3.2.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 3.3.: Streckenänderung der Buslinie 132
+- TOP 4: Schulreferat
+- TOP 5.1.: Genehmigung einer Freischankfläche in der Fallstraße 9
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Mobiler Fahrradständer in der Thalkirchner Str. 131
+- TOP 6.2.: Buswende an der Plinganserstr. / Sylvensteinstr.
+- TOP 6.3.: Novellierung der Sondernutzungsrichtlinien
+- TOP 6.4.: Verlegung des Radweges in der Implerstraße im Bereich der Implerschule - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 6.5.: Fernwärmebauvorhaben Ganghoferstraße und Danklstraße
+- TOP 6.6.: Parkraummanagement; Einführung der Parklizenzierung in den Gebieten Margaretenplatz, Karwendelstr und Brudermühlviertel am 03.05.2010
+- TOP 6.7.: Cycling Days München am 23.05.2010
+- TOP 7.1.: Budgetantrag H-Team e. V., Feier zum 20jährigen Bestehen am 28.07.10; ? 3194,-
+- TOP 7.2.: Budgetantrag die urbanauten, Isarlust - Temporäre Fußgängerbrücke vom 17. - 24.07.10; ? 4000,-
+- TOP 7.3.: Budgetantrag digitalanalog e.V.; Musik sowie Video Kunst für Kinder; ? 540,-
+- TOP 7.4.: Änderung der BA-Satzung; Bildung eines Ferienausschusses
+- TOP 7.5.: Wahlhelfer für den Volksentscheid am 04.07.2010
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Aberlestr. 31
+- TOP 8.3.: Nachqualifizierung der Denkmalliste; Ensebleschutz Sendlinger Dorfkern
+- TOP 8.4.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge
+- TOP 8.5.: Beschlussvollzugskontrolle
+- TOP 8.6.: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München"
+- TOP 8.7.: Nutzung erneuerbarer Engergien im Städtebau
+- TOP 8.8.: Wohnungsmarkt München; Expertenbefragung 2009
+- TOP 8.9.: Bericht zur Eurocities-Jahresversammlung
+- TOP 8.10.: EU-Projekt "POLIS"
+- TOP 9: Baureferat
+- TOP 9.1.: Bruderhofstr. 5 - 13; Gehbahnsanierung
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Aberlestr. 31
+- TOP 10.2.: Baumfällung Flößergasse 6
+- TOP 10.3.: Baumfällung Maronstr. 3
+- TOP 10.4.: Baumfällung Karwendelstr. 11
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Rolltreppen im U-Bahnhof Implerstraße; Fahrtrichtungswechsel
+- TOP 12: Anträge
+- TOP 12.1.: Einrichtung Implerstraße 51a; Erhöhung der Personalausstattung
+- TOP 12.2.: Wohnungen für Sendling - konstruktive Nutzung der städt. Grundstücke am Gotzinger Platz
+- TOP 12.3.: Parken in der Kraelerstraße; Behinderung der Gehsteignutzung
+- TOP 13: Verschiedenes
+- TOP 13.1.: Errichtung eines Wertstoffcontainerstandortes in der Meindstr.
+- TOP 13.2.: Stadtteilwoche in Sendling - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
