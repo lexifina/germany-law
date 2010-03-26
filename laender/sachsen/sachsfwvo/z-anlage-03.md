@@ -67,23 +67,22 @@ Wettermantel aus dunkelblauem Stoff,
 cc)
 T-Shirt, Polohemden oder Sweatshirt aus dunkelblauem Stoff, auch mit der Aufschrift „Feuerwehr“
 angeordnet werden.
-2 Persönliche Schutzkleidung Die im Folgenden genannte und beschriebene persönliche Schutzkleidung wird für die Feuerwehren im Freistaat Sachsen eingeführt. Die Farbe dunkelblau der Schutzkleidung ähnelt RAL 5004. RAL-Farbvorlagen können vom Deutschen Institut für Gütesicherung und Kennzeichnung e.V. in Sankt Augustin bezogen werden.
+2 Persönliche Schutzkleidung Die Schutzausrüstung besteht aus
 a)
-Feuerwehrüberjacke dunkelblau, mehrlagig nach Herstellungs- und Prüfungsbeschreibung für eine universelle Feuerwehrschutzkleidung (HuPF) Teil 1
+Feuerwehrjacke in der Farbe dunkelblau,
 b)
-Feuerwehrjacke dunkelblau, einlagig mit Innenfutter nach HuPF Teil 3
+Feuerwehrhose in der Farbe dunkelblau,
 c)
-Feuerwehrüberhose dunkelblau, mehrlagig in Bundhosenschnitt nach HuPF Teil 4 Typ A zweilagig oder Typ B vierlagig
+Feuerwehrhelm,
 d)
-Feuerwehrhose dunkelblau, einlagig, Latz- oder Rundbundhose nach HuPF Teil 2 Als Mindestausstattung bei der Brandbekämpfung ist für Tätigkeiten im unmittelbaren Gefahrenbereich einer möglichen Stichflammenbildung die Feuerwehrüberjacke und eine Feuerwehrüberhose Typ B in Verbindung mit weiteren Schutzkleidungsteilen zu tragen. Die Schutzwirkung der Feuerwehrüberhose Typ B wird auch durch Tragen der Feuerwehrhose und der Feuerwehrüberhose Typ A erreicht. Außerhalb des unmittelbaren Gefahrenbereiches einer möglichen Stichflammenbildung kann anstelle der Feuerwehrüberjacke und Feuerwehrüberhose eine Feuerwehrjacke und Feuerwehrhose verwendet werden.
+Feuerwehrschutzhandschuhen,
 e)
-Feuerwehrhelm Ausführung nach der jeweils geltenden Norm.
+Feuerwehr-Sicherheitsschuhwerk,
 f)
-Feuerwehrschutzhandschuhe Ausführung nach der jeweils geltenden Norm.
+Feuerwehr-Haltegurt,
 g)
-Feuerwehr-Sicherheitsschuhwerk Ausführung nach der jeweils geltenden Norm.
-h)
-Feuerwehr-Sicherheitsgurt Ausführung nach der jeweils geltenden Norm.
+weiteren Schutzausrüstungsstücken.
+Persönliche Schutzausrüstung muss dem Stand der Technik entsprechen. Die unter den Buchstaben a und b aufgeführten Schutzausrüstungsstücke müssen der DIN EN 469, Ausgabe Februar 2007, zu beziehen über die Beuth Verlag GmbH, Berlin, und beim Deutschen Patentamt archivmäßig gesichert niedergelegt, sowie den Anforderungen zur Wahrnehmbarkeit des Anhangs B der DIN EN 469, Ausgabe Februar 2007, entsprechen.
 3 Funktionsabzeichen Funktionsabzeichen in gestickter oder gewebter Ausführung. Trageweise:
 aa)
 Jacke: Mitte des linken Unterärmels, 120 mm von der Ärmelunterkante bis zum unteren Rand des Abzeichens

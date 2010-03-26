@@ -41,6 +41,7 @@ c) | Höherer feuerwehrtechnischer Dienst
  | bb) | Brandrat (BR) | wie HBM mit Zulage, jedoch mit goldfarbener Einfassung, Eichenlaub wie BRef, Balken wie BMA, jedoch goldfarben, darüber liegend ein sechseckiger Stern, goldfarben, Diagonallänge 18 mm, über dem Balken mittig angeordnet, Abstände untereinander je 3 mm
  | cc) | Brandoberrat (BOR) | wie BR, jedoch mit zwei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
  | dd) | Branddirektor (BD) | wie BR, jedoch mit drei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
- | ee) | Leitender Branddirektor (LtdBD) | dunkelblaue festkantige Tuch- oder Filzunterlage, 105 mm breit, 80 mm hoch, Einfassungen wie BRef, innen liegend in einem Abstand von 3 mm eine weitere Litze, zwei Eichenlaubblätter wie BRef, halbrund geschwungen in 3 mm Abstand zueinander, in der Mitte darüber ein sechseckiger goldfarbener Stern, Diagonallänge 30 mm
- | ff) | Direktor der Feuerwehr (DdF) | wie LtdBD, jedoch mit zwei Sternen, gleichmäßig nebeneinander liegend angeordnet
-Abbildungen
+ | ee) | Leitender Branddirektor in Besoldungsgruppe A16 (LtdBD) | dunkelblaue festkantige Tuch- oder Filzunterlage, 105 mm breit, 80 mm hoch, mit goldfarbener Einfassung, innen liegend in einem Abstand von 3 mm eine weitere Litze, zwei Eichenlaubblätter wie BRef, halbrund geschwungen in 3 mm Abstand zueinander, in der Mitte darüber ein sechseckiger goldfarbener Stern, Diagonallänge 30 mm
+ | ff) | Leitender Direktor in Besoldungsgruppe B2 (LtdD) oder Direktor der Feuerwehr (DdF) in Besoldungsgruppe B 1 bis B 3 oder vergleichbare Angestellte | wie LtdBD in Besoldungsgruppe A16, jedoch mit zwei Sternen, gleichmäßig nebeneinander liegend angeordnet
+Abbildungen Anlage 1 Nr. 2 Buchstabe a und b
+Abbildungen Anlage 1 Nr. 2 Buchstabe c
