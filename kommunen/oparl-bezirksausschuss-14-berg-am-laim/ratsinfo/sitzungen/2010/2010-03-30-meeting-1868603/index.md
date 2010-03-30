@@ -1,0 +1,104 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-03-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868603
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868603
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Truderinger Str. 217 ? Antrag auf Errichtung einer Werbeanlage
+- TOP 3.1.1.2.: Neumarkter Str. 47 ? Verkauf einer städt. Immobilie zur Ansiedlung eines Gewerbebetriebs
+- TOP 3.1.1.3.: Berg-am-Laim-Str. 117 ? 125 ? Einzelhandel, Büroflächen & Ärztehaus - Vorbescheid
+- TOP 3.1.2.1.: Antrag auf Errichtung einer Kurzparkzone in der Kreillerstr. stadteinwärts im Bereich zwischen Eigenhausstraße und Virgilstraße - <div></div>
+- TOP 3.1.2.2.: Wiedererrichtung der beidseitigen Wartehäuschen an der Trambahnhaltestelle Kreillerstr. - <div></div>
+- TOP 3.1.2.3.: Kein Google Street View in Trudering-Riem
+- TOP 3.1.2.4.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2
+- TOP 3.1.2.5.: Novellierung der Sondernutzungsrichtlinien
+- TOP 3.1.2.6.: Einbeziehung des BA 14 bei der Planung / Neugestaltung der Baumkirchner Straße
+- TOP 3.1.2.7.: Bahnhofspaten für die S-Bahnhöfe ? Schreiben der DB Station&Service AG
+- TOP 3.2.1.: Tag des offenen Denkmals am Sonntag, 12. September 2010
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Mehr Einflussmöglichkeiten für junge Menschen ? Antrag der Stadtratsfraktion Grüne/RL
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Unterbringung von in der Regel heranwachsenden unbegleiteten männlichen Flüchtlingen ohne Jugendhilfebedarf im geeigneten Wohnobjekt in der Baumkirchner Str. 17
+- TOP 3.4.2.: Auswahl von Gebieten mit besonderem sozialpolitischen Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 3.4.3.: Unterstützung bei der Aneignung von Plätzen im Rahmen einer ?Friedlichen Koexistenz im öffentlichen Raum? in den Sanierungsgebieten der Stadtbezirke 14, 16 und 17
+- TOP 3.5.1.: Änderung der BA-Satzung ? Bildung eines Ferienausschusses
+- TOP 3.5.2.: Landeshauptstadt München ? Mittelfristige Finanzplanung 2009 - 2013
+- TOP 3.5.3.: Maibaumverein Berg am Laim e.V. - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.5.4.: Digitalanalog e.V. - Antrag auf Bezuschussung aus dem BA-Budget
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Baumkirchner Straße 25 ? 27 ? Antrag auf Baumfällungen
+- TOP 3.7.2.: Berg-am-Laim-Str. - Neubau von 18 Wohneinheiten mit Gewerbefläche und Tiefgarage
+- TOP 3.7.3.: Sonnwendjochstraße 4 ? Neubau eines Dreispänners mit 3 Garagen
+- TOP 3.7.4.: Josephsburgstraße - Unangemessener und nicht fachgerechter Rückschnitt von Bäumen in städtischem und privatem Eigentum - Bürgerschreiben
+- TOP 3.7.5.: Ampfingstr. 53 ? 55 - Antrag auf Baumfällungen
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Josephsburgstraße 141 - Abbruchanzeige
+- TOP 4.1.1.3.: Kranzhornstraße 4 - Abbruchanzeige
+- TOP 4.1.1.4.: Ampfingstraße 48 ? Unveränderte Fortführung des Gaststättenbetriebs ?Padova?
+- TOP 4.1.1.5.: Truderinger Str. 115a - Unveränderte Fortführung des Gaststättenbetriebs ?Flügelrad?
+- TOP 4.1.1.6.: Friedenstr. 10 - Unveränderte Fortführung des Gaststättenbetriebs ?Candy Shop?
+- TOP 4.1.1.7.: Altöttinger Str. 41-43 ? Auflagen im Genehmigungsbescheid
+- TOP 4.1.1.8.: Streitfeldstr. 33 ? Sanierung einer Kleiderfabrik - Vorbescheid
+- TOP 4.1.1.9.: Aufwertung und Umgestaltung Piusplatz und angrenzende Grünanlagen
+- TOP 4.1.1.10.: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP 4.1.1.11.: Nutzung erneuerbarer Energien im Städtebau a) Baupflicht für die Nutzung erneuerbarer Energien bei Neubauten im Stadtgebiet b) Marburg setzt auf Sonne ? München auch?
+- TOP 4.1.1.12.: Wohnungsmarkt München - Expertenbefragung 2009
+- TOP 4.1.1.13.: EU Projekt ?POLIS? - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategien in Städtebau und strategischer Planung - Bekanntgabe
+- TOP 4.1.1.14.: Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009 - mit weiterführenden Daten und Fakten zum Stadtentwicklungsprojekt Hammarby Sjöstad in Stockholm
+- TOP 4.1.1.15.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung -Bekanntgabe-
+- TOP 4.1.2.1.: Stadtteilverträgliche Umgestaltung des Innsbrucker Rings; Verkehrsbeziehungen auf dem ?Deckel? des Rings im Bereich Ampfingstraße ordnen ? Antrag Nr. 02415 des BA 14
+- TOP 4.1.2.2.: Ampelschaltung Truderinger Straße / Ecke Thomas-Hauser-Str.
+- TOP 4.1.2.3.: Heinrich-Wieland-Straße ? Einrichtung einer Pkw-Parkzone nach § 45 StVO
+- TOP 4.1.2.4.: Hachinger-Bach-Straße ? Errichtung eines Zeichens 136-10 StVO - Zusatz ?Kindergarten?
+- TOP 4.1.2.5.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 4.1.3.1.: Erweiterung S-Bahn-Abstellanlage Steinhausen ? Einbringung von Artenschutzargumenten
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Planungsdaten des Schulreferats im Schul- und Kindertagesstättenbereich
+- TOP 4.3.2.: Erweiterung und Umbau der Hauptschule und des Sonderpädagogischen Förderzentrums am Innsbrucker Ring 75
+- TOP 4.3.3.: Bescheid über die Anerkennung von 46 Plätzen in der Kindertageseinrichtung Pertisaustr. 9
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Protokoll der BA-Veranstaltung mit dem Sozialreferat am 30.11.2009
+- TOP 4.5.1.: Budget der Bezirksausschüsse ? Erfahrungsbericht 2009
+- TOP 4.6: Sonstige
+- TOP 4.7.1.: Baumveränderungen auf dem Grundstück Berg-am-Laim-Str. 100
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
