@@ -1,0 +1,653 @@
+# Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über die Durchführungsbestimmungen zur Prozess- und Verfahrenskostenhilfe sowie zur Stundung der Kosten des Insolvenzverfahrens Vollzitat: Verwaltungsvorschrift des Sä
+
+- Herausgeber: Freistaat Sachsen
+- Datum: 2010-03-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11342.1
+- Text: REVOSax-Seite der Fassung, als Text
+- Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
+
+---
+
+Zur Portalnavigation
+
+Zum Hauptinhalt
+
+Zum Footer-Bereich
+
+REVOSax – Landesrecht Sachsen
+
+Portalnavigation
+
+REVOSax
+
+Hauptinhalt
+
+Historische Fassung
+
+war gültig vom
+31.03.2010
+bis
+29.02.2016
+
+Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über die Durchführungsbestimmungen zur Prozess- und Verfahrenskostenhilfe sowie zur Stundung der Kosten des Insolvenzverfahrens 
+
+
+Vollzitat: Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa über die Durchführungsbestimmungen zur Prozess- und Verfahrenskostenhilfe sowie zur Stundung der Kosten des Insolvenzverfahrens  vom  8. März 2010 (SächsJMBl. S. 40), die zuletzt durch die Verwaltungsvorschrift vom  4. Juli 2025 (SächsJMBl. S. 55) geändert worden ist, zuletzt enthalten in der Verwaltungsvorschrift vom  4. Dezember 2025 (SächsABl. SDr. S. S 244)
+
+A.
+
+Durchführungsbestimmungen zur Prozesskostenhilfe
+
+1.
+
+Antrag
+
+1.1
+
+Einem Antrag auf Bewilligung der Prozesskostenhilfe ist grundsätzlich der Vordruck „Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe” beizufügen (§ 117 Abs. 2 bis 4
+ZPO in Verbindung mit den Bestimmungen der Prozesskostenhilfevordruckverordnung). Wird der Antrag zu Protokoll der Geschäftsstelle erklärt, soll die Partei durch Aushändigung des Hinweisblattes zum Vordruck auf die Bedeutung der Prozesskostenhilfe hingewiesen werden.
+
+1.2
+
+Hat eine Partei die Bewilligung von Prozesskostenhilfe beantragt, sind die Akten dem Gericht vorzulegen.
+
+1.3
+
+Dieser Verwaltungsvorschrift liegen zwei Tabellen als Anlagen an. Den Tabellen können die voraussichtlich entstehenden Verfahrenskosten in den dort genannten Verfahren entnommen werden (Anlage 1 – Klageverfahren der ordentlichen Gerichtsbarkeit I. und II. Instanz; Anlage 2
+– familiengerichtliche Verfahren I. Instanz). Die Kosten setzen sich aus den bei einem normalen Verfahrensablauf entstehenden Gerichtsgebühren (Gebühr für das Verfahren im Allgemeinen) sowie den Gebühren für die Vertretung durch einen Prozessbevollmächtigten (Nummern 3100 und 3104 oder die Nummern 3200 und 3202 VV-
+RVG) zuzüglich Auslagenpauschale und Umsatzsteuer zusammen. Voraussichtlich entstehende weitere Kosten sind dem jeweiligen Kostenbetrag der Tabelle hinzuzurechnen.
+
+Für die Bewilligung von Prozesskostenhilfe in Angelegenheiten nach dem
+Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (
+
+FamFG) wird zusätzlich auf Abschnitt B verwiesen.
+
+2.
+
+Mitwirkung der Geschäftsstelle
+
+2.1
+
+(1) Die Vordrucke mit den Erklärungen über die persönlichen und wirtschaftlichen Verhältnisse bei Prozesskostenhilfe und die dazugehörenden Belege sowie die bei der Durchführung der Prozesskostenhilfe entstehenden Vorgänge sind in allen Fällen unabhängig von der Zahl der Rechtszüge für jeden Beteiligten in einem besonderen Beiheft zu vereinigen. Das gilt insbesondere für Kostenrechnungen und Zahlungsanzeigen über Monatsraten und sonstige Beträge (§ 120 Abs. 1
+ZPO).
+
+(2) In dem Beiheft sind ferner die Urschriften der die Prozesskostenhilfe betreffenden gerichtlichen Entscheidungen und die dazugehörigen gerichtlichen Verfügungen aufzubewahren. In die Hauptakten ist ein Abdruck der gerichtlichen Entscheidungen aufzunehmen. Jedoch sind zuvor die Teile der gerichtlichen Entscheidungen zu entfernen oder unkenntlich zu machen, die Angaben über die persönlichen und wirtschaftlichen Verhältnisse der Partei enthalten. Enthält die gerichtliche Entscheidung keine Angaben über die persönlichen und wirtschaftlichen Verhältnisse der Partei, kann die Urschrift auch zur Hauptakte genommen werden; in diesem Fall ist ein Abdruck im Beiheft aufzubewahren.
+
+(3) Das Beiheft sowie die darin zu verwahrenden Schriftstücke erhalten hinter dem Aktenzeichen den Klammerzusatz „(PKH)“. Werden die Prozessakten zur Entscheidung über ein Rechtsmittel dem Rechtsmittelgericht vorgelegt, ist den Akten das Beiheft beizufügen. Das Beiheft ist dagegen zurückzubehalten, wenn die Akten an nicht beteiligte Gerichte oder Behörden versandt werden. Gleiches gilt, wenn dem Verfahrensgegner, seinem Prozessbevollmächtigten, Dritten oder ihren Bevollmächtigten Akteneinsicht, auch in Form der Übersendung der Akten, gewährt wird.
+
+2.2
+
+Hat das Gericht Prozesskostenhilfe bewilligt, vermerkt die Geschäftsstelle auf dem Aktendeckel neben dem Namen der Partei „Prozesskostenhilfe mit/ohne Zahlungsbestimmung bewilligt Bl. …”.
+
+2.3
+
+Der Geschäftsstelle obliegt die Überwachung des Eingangs von Mitteilungen der Landesjustizkasse Chemnitz über die Einziehung der Beträge.
+
+2.4
+
+Dem Kostenbeamten sind die Akten, unbeschadet der Bestimmungen der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz und für Europa zur Kostenverfügung (
+VwV KostVfg), vorzulegen, sobald
+
+2.4.1
+
+das Gericht Prozesskostenhilfe bewilligt hat,
+
+2.4.2
+
+die Entscheidung über die Prozesskostenhilfe geändert worden ist,
+
+2.4.3
+
+das Rechtsmittelgericht andere Zahlungen als das Gericht der Vorinstanz bestimmt hat,
+
+2.4.4
+
+das Gericht die Entscheidung über die zu leistenden Zahlungen geändert oder die Bewilligung der Prozesskostenhilfe aufgehoben hat,
+
+2.4.5
+
+bei Prozesskostenhilfe mit Zahlungsbestimmung die Einstellung der Zahlung oder deren Wiederaufnahme angeordnet worden ist,
+
+2.4.6
+
+ein Verfahren, in dem Prozesskostenhilfe mit Zahlungsbestimmung bewilligt worden ist, an ein oder von einem Gericht eines anderen Bundeslandes verwiesen oder abgegeben wurde (Nr. 6.2 und Nr. 6.3).
+
+2.5
+
+Dem Rechtspfleger sind die Akten in folgenden Fällen vorzulegen:
+
+2.5.1
+
+nach Eingang der Mitteilung der Sollstellung durch die Landesjustizkasse Chemnitz zur Bestimmung einer Wiedervorlagefrist zwecks Prüfung der vorläufigen Einstellung der Zahlungen (§ 120 Abs. 3 Nr. 1
+ZPO),
+
+2.5.2
+
+nach Eingang einer Mitteilung der Landesjustizkasse Chemnitz, dass die Partei mit der Zahlung einer Monatsrate oder eines sonstigen Betrages länger als drei Monate im Rückstand ist (§ 124 Nr. 4
+ZPO) oder dass ein solcher rückständiger Betrag gezahlt wurde,
+
+2.5.3
+
+wenn sich nach einer vorläufigen Einstellung der Zahlungen (§ 120 Abs. 3 Nr. 1
+ZPO) Anhaltspunkte dafür ergeben, dass die bisherigen Zahlungen die voraussichtlich entstehenden Kosten nicht decken,
+
+2.5.4
+
+bei jeder Veränderung des Streitwertes,
+
+2.5.5
+
+wenn der Gegner Zahlungen auf die Kosten leistet,
+
+2.5.6
+
+wenn eine Entscheidung über die Kosten ergeht oder diese vergleichsweise geregelt werden (§ 120 Abs. 3 Nr. 2
+ZPO),
+
+2.5.7
+
+wenn die Akten nach Beendigung eines Rechtsmittelverfahrens an die erste Instanz zur Überprüfung zurückgegeben werden, ob die Zahlungen nach § 120 Abs. 3
+ZPO vorläufig einzustellen sind,
+
+2.5.8
+
+wenn nach Ansatz der Kosten zu Lasten des Gegners eine Zweitschuldneranfrage der Landesjustizkasse Chemnitz eingeht und die Partei, der Prozesskostenhilfe mit Zahlungsbestimmung bewilligt ist, als Zweitschuldner nach § 31 Abs. 2
+GKG in Anspruch genommen werden kann (Nr. 4.8).
+
+3.
+
+Bewilligung ohne Zahlungsbestimmung
+
+3.1
+
+Soweit und solange ein Kostenschuldner nach den Vorschriften der
+Zivilprozessordnung von der Entrichtung der Kosten deshalb befreit ist, weil ihm oder seinem Gegner Prozesskostenhilfe ohne Zahlungsbestimmung bewilligt ist, wird wegen dieser Kosten eine Kostenrechnung (Ziffer I Nr. 1 in Verbindung mit § 27 der Anlage zur
+
+VwV KostVfg) auf ihn nicht ausgestellt.
+
+3.2
+
+(1) Waren Kosten bereits vor der Bewilligung angesetzt und der Landesjustizkasse Chemnitz zur Einziehung überwiesen, ersucht der Kostenbeamte die Landesjustizkasse Chemnitz, die Kostenforderung zu löschen, soweit die Kosten noch nicht gezahlt sind.
+
+(2) Die Rückzahlung bereits entrichteter Kosten ist nur dann anzuordnen, wenn sie nach dem Zeitpunkt gezahlt sind, in dem die Bewilligung wirksam geworden ist. Wird die Partei, der Prozesskostenhilfe ohne Zahlungsbestimmung bewilligt ist, rechtskräftig in die Prozesskosten verurteilt (Entscheidungsschuldner nach § 29 Nr. 1
+GKG), sind vom Gegner bereits entrichtete Kosten zurückzuzahlen, soweit es sich nicht um eine Zahlung nach § 13 Abs. 1 und 3
+
+JVEG
+handelt und die Partei, der Prozesskostenhilfe bewilligt worden ist, der besonderen Vergütung zugestimmt hat (§ 31 Abs. 3 Satz 1 Halbsatz 2
+GKG).
+
+3.3
+
+Der Kostenbeamte hat den Eintritt der gesetzlichen Voraussetzungen, unter denen die Kosten von der Partei, der Prozesskostenhilfe ohne Zahlungsbestimmung bewilligt ist, und dem Gegner eingezogen werden können, genau zu überwachen. Zu beachten ist dabei Folgendes:
+
+3.3.1
+
+Zu Lasten der Partei dürfen die außer Ansatz gelassenen Beträge nur aufgrund einer gerichtlichen Entscheidung angesetzt werden, durch die die Bewilligung aufgehoben worden ist (§ 124
+ZPO).
+
+3.3.2
+
+Zu Lasten des Gegners sind die Kosten, von deren Entrichtung die Partei befreit ist, erst anzusetzen, wenn der Gegner rechtskräftig in die Prozesskosten verurteilt ist oder sie durch eine vor Gericht abgegebene oder dem Gericht mitgeteilte Erklärung übernommen hat oder sonst für die Kosten haftet (§ 125 Abs. 1 ZPO, § 29
+GKG); dies gilt auch für die Geltendmachung von Ansprüchen, die nach § 59
+
+RVG auf die Staatskasse übergegangen sind. Die Gerichtskosten, von deren Zahlung der Gegner einstweilen befreit ist (§ 122 Abs. 2 ZPO), sind zu seinen Lasten anzusetzen, wenn er rechtskräftig in die Prozesskosten verurteilt ist oder der Rechtsstreit ohne Urteil über die Kosten durch Vergleich oder in sonstiger Weise beendet ist (§ 125 Abs. 2 ZPO). Wird ein Rechtsstreit, in dem dem Kläger, Berufungskläger oder Revisionskläger Prozesskostenhilfe ohne Zahlungsbestimmung bewilligt ist, mehr als sechs Monate nicht betrieben, ohne dass das Ruhen des Verfahrens (§ 251
+
+ZPO) angeordnet ist, stellt der Kostenbeamte durch Anfrage bei den Parteien fest, ob der Rechtsstreit beendet ist. Gibt keine der Parteien binnen angemessener Zeit eine Erklärung ab, setzt er auf den Gegner die diesem zur Last fallenden Kosten an. Das gleiche gilt, wenn die Parteien den Rechtsstreit trotz der Erklärung, dass er nicht beendet sei, auch jetzt nicht weiter betreiben oder wenn der Gegner erklärt, der Rechtsstreit ruhe oder sei beendet.
+
+4.
+
+Bewilligung mit Zahlungsbestimmung
+
+4.1
+
+(1) Vom Gericht zugleich mit der Bewilligung der Prozesskostenhilfe festgesetzte Monatsraten und aus dem Vermögen zu zahlenden Beträge (§ 120 Abs. 1
+ZPO) werden nach Einreichung der Klage (des Antrags) oder, falls das Gericht für den Beginn der Zahlungen einen späteren Termin bestimmt hat, rechtzeitig vor diesem Zeitpunkt der Landesjustizkasse Chemnitz zur Einziehung überwiesen.
+
+(2) Der Kostenbeamte überweist der Landesjustizkasse Chemnitz zunächst einen fiktiven Höchstbetrag zur Einziehung, der bei der Festsetzung
+
+a)
+
+eines festen Betrages dem festen Betrag,
+
+b)
+
+mehrerer Teilbeträge der Summe der festgesetzten Teilbeträge,
+
+c)
+
+von Monatsraten dem 48-fachen Monatsbetrag,
+
+d)
+
+von Monatsraten zugleich mit einem festen Betrag und/oder mehreren Teilbeträgen dem 48-fachen Monatsbetrag und dem festen Betrag und/oder den Teilbeträgen
+
+entspricht. Monatsraten, Teilbeträge und einmalige Zahlungen, deren Fälligkeitstermine und der fiktive Höchstbetrag sind in der Annahmeanordnung anzugeben. Kann bei Vorlage der Akten an den Kostenbeamten die endgültige Höhe der von der Partei, der Prozesskostenhilfe mit Zahlungsbestimmung bewilligt ist, zu zahlenden Kosten bereits konkret berechnet werden (zum Beispiel bei der Bewilligung von Prozesskostenhilfe nach Erlass einer das Verfahren beendenden Entscheidung oder Abschluss eines Vergleichs), ist dieser Betrag als Höchstbetrag zur Einziehung zu überweisen.
+
+(3) Eine Abschrift des Beschlusses über die Bewilligung der Prozesskostenhilfe ist beizufügen. Die Teile der Entscheidung, welche Angaben über die persönlichen und wirtschaftlichen Verhältnisse enthalten, sind nicht zugänglich zu machen.
+
+4.2
+
+Sind vor Bewilligung der Prozesskostenhilfe Gerichtskosten angesetzt und der Landesjustizkasse Chemnitz zur Einziehung überwiesen, ist zu prüfen, ob und gegebenenfalls wann diese bezahlt worden sind. Ist eine Zahlung noch nicht erfolgt, veranlasst der Kostenbeamte die Löschung des Kostensolls.
+
+4.3
+
+(1) Zahlungen vor Wirksamwerden der Prozesskostenhilfe sollen erst bei der Prüfung nach § 120 Abs. 3 Nr. 1 ZPO berücksichtigt werden, spätere Zahlungen sind auf die nach § 120 Abs. 1
+ZPO zu leistenden anzurechnen.
+
+(2) Wird die Partei, der Prozesskostenhilfe bewilligt worden ist, rechtskräftig in die Prozesskosten verurteilt (Entscheidungsschuldner nach § 29 Nr. 1
+GKG), sind vom Gegner bereits entrichtete Kosten zurückzuzahlen, soweit es sich nicht um eine Zahlung nach § 13 Abs. 1 und 3
+
+JVEG
+handelt und die Partei, der die Prozesskostenhilfe bewilligt worden ist, der besonderen Vergütung zugestimmt hat (§ 31 Abs. 3 Satz 1 Halbsatz 2
+GKG).
+
+4.4
+
+Bestimmt das Rechtsmittelgericht andere Zahlungen als das Gericht der Vorinstanz, ist (vorbehaltlich Nr. 4.5) von dem Kostenbeamten des Rechtsmittelgerichts eine entsprechende Änderung der Sollstellung zu veranlassen. Zur kassenmäßigen Abwicklung ist der sich aufgrund der neu festgelegten Zahlungen ergebende neue fiktive Höchstbetrag oder, wenn die Schlusskostenrechnung bereits vorliegt, der sich aus dieser ergebende Gesamtbetrag zur Einziehung zu überweisen. Die zahlungspflichtige Partei wird durch einen entsprechenden Ausdruck der Landesjustizkasse Chemnitz unterrichtet.
+
+4.5
+
+Für Zahlungen, die während der Anhängigkeit des Verfahrens vor einem obersten Gerichtshof des Bundes zu leisten sind (§ 120 Abs. 2
+ZPO) gilt Folgendes:
+
+4.5.1
+
+Die Einziehung der an die Landesjustizkasse Chemnitz zu leistenden Zahlungen (§ 120 Abs. 2 ZPO) hat der Kostenbeamte des Gerichts des ersten Rechtszugs nach den Hinweisen des Kostenbeamten des Gerichtshofes zu veranlassen. Dabei werden dem Kostenbeamten die Entscheidungen des Gerichtshofes, soweit sie die Prozesskostenhilfe betreffen, in beglaubigter Abschrift mitgeteilt. Der Zahlungsverzug (vergleiche § 124 Nr. 4
+ZPO, Nr. 10.2.2) ist dem Gerichtshof anzuzeigen. Nach Rückkehr der Akten vom Rechtsmittelgericht werden die angefallenen Vorgänge mit dem Beiheft vereinigt.
+
+4.5.2
+
+Zahlungen, die nach § 120 Abs. 2
+ZPO an die Bundeskasse zu leisten sind, werden von der Geschäftsstelle des obersten Gerichtshofes des Bundes angefordert und überwacht.
+
+4.6
+
+(1) Bestimmt der Rechtspfleger, dass die Zahlungen einstweilen einzustellen sind, oder ordnet er die Wiederaufnahme der Zahlungen an, verständigt der Kostenbeamte unverzüglich die Landesjustizkasse Chemnitz.
+
+(2) Sieht der Rechtspfleger im Falle einer Vorlage nach Nr. 2.5.2 davon ab, die Bewilligung der Prozesskostenhilfe aufzuheben, hat der Kostenbeamte dies der Landesjustizkasse Chemnitz mitzuteilen.
+
+4.7
+
+Zu Lasten des Gegners der Partei, der Prozesskostenhilfe bewilligt ist, sind die unter die Bewilligung fallenden Kosten erst anzusetzen, wenn er rechtskräftig in die Prozesskosten verurteilt ist oder sie durch eine vor Gericht abgegebene oder dem Gericht mitgeteilte Erklärung übernommen hat oder sonst für die Kosten haftet (§ 125 Abs. 1
+ZPO
+, § 29
+GKG). Nr. 3.3.2 Satz 1 letzter Halbsatz gilt entsprechend.
+
+4.8
+
+Wird dem Kostenbeamten eine Zweitschuldneranfrage der Landesjustizkasse Chemnitz vorgelegt, prüft er, ob die Partei, der Prozesskostenhilfe mit Zahlungsbestimmung bewilligt ist, für die gegen den Gegner geltend gemachten Gerichtskosten als Zweitschuldner ganz oder teilweise haftet. Liegen diese Voraussetzungen vor, unterrichtet er die Landesjustizkasse Chemnitz hiervon und legt die Akten mit einer Berechnung der Kosten, für die die Partei nach § 31 Abs. 2
+GKG in Anspruch genommen werden kann, unverzüglich dem Rechtspfleger vor.
+
+5.
+
+Gemeinsame Bestimmungen
+
+5.1
+
+Werden dem Kostenbeamten Tatsachen über die persönlichen oder wirtschaftlichen Verhältnisse bekannt, die eine Änderung oder Aufhebung der Bewilligung der Prozesskostenhilfe rechtfertigen könnten (§ 120 Abs. 4, § 124 Nrn. 2 und 3
+ZPO), hat er die Akten dem Rechtspfleger vorzulegen.
+
+5.2
+
+Hat der Gerichtsvollzieher Berechnungen über Kosten für Amtshandlungen, die er aufgrund der Prozesskostenhilfe unentgeltlich erledigt hat, zu den Akten mitgeteilt, sind diese Kosten beim Ansatz wie sonstige Gerichtskosten zu behandeln.
+
+5.3
+
+Wenn bei einem obersten Gerichtshof des Bundes Kosten der Revisionsinstanz außer Ansatz geblieben sind, weil dem Kostenschuldner oder seinem Gegner Prozesskostenhilfe bewilligt ist, hat der Kostenbeamte diesem Gericht Nachricht zu geben, sobald sich ergibt, dass Beträge durch die Bundeskasse einzuziehen sind. Dieser Fall kann eintreten,
+
+5.3.1
+
+wenn das Revisionsgericht die Sache zur anderweitigen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, zurückverwiesen hat und nach endgültigem Abschluss des Verfahrens zu Lasten des Gegners der Partei, der Prozesskostenhilfe bewilligt ist, Kosten des Revisionsverfahrens gemäß Nr. 3.3.2 oder 4.7 anzusetzen sind,
+
+5.3.2
+
+wenn der für die Revisionsinstanz beigeordnete Rechtsanwalt seinen Anspruch auf Vergütung gegen die Bundeskasse geltend macht, nachdem die Prozessakten zurückgesandt sind; in diesem Fall teilt der Urkundsbeamte der Geschäftsstelle des obersten Gerichtshofes des Bundes eine beglaubigte Abschrift des Beschlusses, durch den die Vergütung festgesetzt worden ist, zu den Prozessakten mit,
+
+5.3.3
+
+wenn nach Beendigung des Revisionsverfahrens ein Beschluss ergeht, durch den die Bewilligung der Prozesskostenhilfe aufgehoben wird.
+
+5.4
+
+In der Nachricht teilt der Kostenbeamte mit, ob und gegebenenfalls in welcher Höhe etwaige Zahlungen, die nach § 120 Abs. 2 ZPO an die Landesjustizkasse Chemnitz entrichtet worden sind, auf die Kosten des Revisionsverfahrens zu verrechnen sind. Sind die Zahlungen nach § 120 Abs. 2
+ZPO an die Bundeskasse zu leisten, sind dem obersten Gerichtshof des Bundes alle die bewilligte Prozesskostenhilfe betreffenden Entscheidungen, die Kostenentscheidungen und eine Kostenrechnung unter Angabe der Beträge mitzuteilen, die in dem Verfahren von der Landesjustizkasse Chemnitz vereinnahmt worden sind.
+
+6.
+
+Verfahren bei Verweisung und Abgabe
+
+6.1
+
+Wird ein Verfahren an ein anderes Gericht des Freistaates Sachsen verwiesen oder abgegeben, hat der Kostenbeamte des verweisenden oder abgebenden Gerichts der Landesjustizkasse Chemnitz eine Abschrift der Entscheidung zu übersenden; eine Änderung der Sollstellung des Höchstbetrages ist nicht erforderlich. Die Geschäftsstelle des verweisenden oder abgebenden Gerichts hat noch eingehende Mitteilungen der Landesjustizkasse Chemnitz an das übernehmende Gericht weiterzuleiten.
+
+6.2
+
+Bei Verweisung oder Abgabe an ein Gericht eines anderen Bundeslandes ist die Löschung der Sollstellung des Höchstbetrages zu veranlassen. Außerdem sind dem übernehmenden Gericht die bis zu diesem Zeitpunkt bezahlten Beträge mitzuteilen.
+
+6.3
+
+Wurde das Verfahren von einem Gericht eines anderen Bundeslandes verwiesen oder abgegeben, ist unter Berücksichtigung der bezahlten Beträge die Sollstellung des Höchstbetrages (Nr. 4.1) zu veranlassen.
+
+7.
+
+Kostenansatz nach Entscheidung oder bei Beendigung des Verfahrens
+
+7.1
+
+Ergeht im Verfahren eine Kostenentscheidung, wird ein Vergleich geschlossen oder wird das Verfahren in dieser Instanz auf sonstige Weise beendet, setzt der Kostenbeamte die Kosten an und stellt die Kostenschuldner fest. In die Kostenrechnung sind die Gerichtskosten und die nach § 59
+RVG auf die Staatskasse übergegangenen Ansprüche aufzunehmen. Sämtliche Zahlungen der Partei sind, erforderlichenfalls nach Anfrage bei der Landesjustizkasse Chemnitz zu berücksichtigen. Ist Prozesskostenhilfe mit Zahlungsbestimmung bewilligt worden, sind die Akten nach Aufstellung der Kostenrechnung unverzüglich dem Rechtspfleger vorzulegen.
+
+7.2
+
+Die Kosten der Rechtsmittelinstanz werden von dem Kostenbeamten des Rechtsmittelgerichts angesetzt (§ 19 Abs. 1 Satz 1 Nr. 2
+GKG). Kann dieser die Zahlungen, die von der Partei geleistet worden sind, der Prozesskostenhilfe bewilligt wurde, noch nicht abrechnen, weil zu diesem Zeitpunkt die Vergütungen der Rechtsanwälte noch nicht bezahlt sind (§§ 50 und 55
+
+RVG) oder noch Zahlungen der Partei ausstehen, hat der Kostenbeamte der ersten Instanz die endgültige Abrechnung vorzunehmen.
+
+7.3
+
+Der Partei, die Zahlungen zu leisten hat, ist eine Abschrift der Kostenrechnung zu erteilen, verbunden mit einem Nachforderungsvorbehalt, wenn eine Inanspruchnahme über den in der Kostenrechnung enthaltenen Betrag hinaus in Betracht kommt.
+
+8.
+
+Weiteres Verfahren nach Aufstellung der Kostenrechnung
+
+8.1
+
+(1) Nach Vorlage der Akten (Nrn. 4.8, 7.1 Satz 4) prüft der Rechtspfleger, welche Entscheidungen zur Wiederaufnahme oder Einstellung der Zahlungen zu treffen sind.
+
+(2) Er berücksichtigt dabei auch die bekannten Gerichtsvollzieherkosten (§ 122 Abs. 1 Nr. 1 Buchst. a ZPO) und die zu den Prozessakten mitgeteilte Vergütung des beigeordneten Rechtsanwalts (§ 50 Abs. 2 RVG), soweit sie noch nicht aus der Staatskasse beglichen ist und der Partei ein Erstattungsanspruch gegen den Gegner nicht zusteht. Teilt der Rechtsanwalt seine gesetzliche Vergütung (mit den Gebühren nach § 13 Abs. 1 RVG) nicht mit (§ 55 Abs. 6
+RVG) oder wird eine notwendige Kostenausgleichung nach § 106
+
+ZPO nicht beantragt, wird der Rechtspfleger seine Bestimmung ohne Rücksicht auf die Vergütungsansprüche des Rechtsanwalts treffen.
+
+8.2
+
+Ergibt sich eine Restschuld der Partei, der Prozesskostenhilfe bewilligt ist, bestimmt der Rechtspfleger den Zeitpunkt der Einstellung der Zahlungen. War vorher eine vorläufige Einstellung verfügt, wird er die Wiederaufnahme der Zahlungen anordnen.
+
+8.3
+
+Ergibt sich keine Restschuld der Partei, wird der Rechtspfleger die Einstellung der Zahlungen anordnen. Zu beachten ist, dass eine endgültige Einstellung der Zahlungen unter Umständen erst nach Rechtskraft der Entscheidung verfügt werden kann, weil bei der Einlegung eines Rechtsmittels durch die Partei oder den Gegner und Bewilligung von Prozesskostenhilfe mit Zahlungsbestimmung für die Partei die Raten bis zur achtundvierzigsten Monatsrate weiter zu zahlen sind.
+
+8.4
+
+(1) Der Betrag, der vom Gegner der Partei eingezogen werden kann (Nr. 4.7), ist der Landesjustizkasse Chemnitz zur Einziehung zu überweisen (Neusollstellung). Die Landesjustizkasse Chemnitz ist dabei um Mitteilung des Einziehungsergebnisses zu ersuchen.
+
+(2) Nach Zahlung ist die Änderung der Sollstellung des Höchstbetrages (Nr. 4.1) anzuordnen. Wird nicht gezahlt, ist nach Nr. 4.8 zu verfahren.
+
+8.5
+
+(1) Übersteigt der zum Soll gestellte Höchstbetrag die von der Partei tatsächlich geschuldeten gesamten Gerichts- und Rechtsanwaltskosten, teilt der Kostenbeamte nach endgültiger Erledigung des Verfahrens (Rechtskraft oder sonstige Erledigung und soweit eine Nachforderung nach Nr. 7.3 ausgeschlossen ist) mit Änderungsanordnung den zu zahlenden Gesamtbetrag der Schlusskostenrechnung der Landesjustizkasse Chemnitz mit.
+
+(2) Entspricht der nach der Schlusskostenrechnung geschuldete Gesamtbetrag dem Gesamtbetrag von achtundvierzig Monatsraten, der sonstigen Teilbeträge und/oder der aus dem Vermögen zu zahlenden Beträge oder ist er höher, verbleibt es bei dem zum Soll gestellten Höchstbetrag. Der Landesjustizkasse Chemnitz ist nur eine Abschrift der Schlusskostenrechnung zu übersenden; eine Änderungsanordnung ist nicht erforderlich.
+
+9.
+
+Aufhebung und Änderung der Bewilligung
+
+9.1
+
+Hat das Gericht die Bewilligung der Prozesskostenhilfe aufgehoben (§ 124
+ZPO
+), berechnet der Kostenbeamte die bis zu diesem Zeitpunkt angefallenen Kosten (gegebenenfalls unter Einbeziehung der nach § 59
+RVG auf die Staatskasse übergegangenen Ansprüche der Rechtsanwälte) und überweist sie der Landesjustizkasse Chemnitz; Ziffer I Nr. 1 in Verbindung mit § 10 der Anlage zur
+
+VwV KostVfg
+
+bleibt unberührt. Soweit erforderlich, ist der beigeordnete Rechtsanwalt zur Einreichung seiner Kostenrechnung aufzufordern (§ 50 Abs. 2 und § 55 Abs. 6
+RVG). Die aufgrund der Bewilligung der Prozesskostenhilfe bezahlten Beträge sind abzusetzen. Die Löschung der Sollstellung über die vom Gericht gemäß § 120 Abs. 1
+
+ZPO festgesetzten Zahlungen ist zu veranlassen.
+
+9.2
+
+Setzt das Gericht andere Zahlungen fest, gilt Nr. 4.4 entsprechend. Der Landesjustizkasse Chemnitz ist eine Abschrift der gerichtlichen Entscheidung zu übersenden.
+
+10.
+
+Verfahren bei der Landesjustizkasse Chemnitz
+
+Für die Behandlung der vom Gericht im Verfahren der Prozesskostenhilfe festgesetzten Monatsraten und sonstigen Beträge durch die Landesjustizkasse Chemnitz gilt Folgendes:
+
+10.1
+
+Der von dem Kostenbeamten mitgeteilte Höchstbetrag oder Betrag der Schlusskostenrechnung (Nr. 4.1) ist zum Soll zu stellen. Von der Sollstellung darf die Landesjustizkasse Chemnitz nicht absehen. Ein fiktiver Höchstbetrag ist in der Zahlungsaufforderung an die Partei nicht anzugeben.
+
+10.2
+
+Die Landesjustizkasse Chemnitz hat dem Gericht mitzuteilen:
+
+10.2.1
+
+die Sollstellung unter Angabe der Buchungsnummer,
+
+10.2.2
+
+unter Angabe des bisher gezahlten Gesamtbetrages sowie der bestehenden und erfolglosen Vollstreckungsmaßnahmen jede Monatsrate und jeden sonstigen Betrag, mit dessen Zahlung die Partei länger als drei Monate im Rückstand ist (§ 124 Nr. 4
+ZPO),
+
+10.2.3
+
+die Zahlung des gesamten zum Soll gestellten Betrages,
+
+10.2.4
+
+die nachträgliche Zahlung eines dem Gericht mitgeteilten Betrages, mit dem die Partei länger als drei Monate im Rückstand war,
+
+10.2.5
+
+auf Ersuchen die für einen bestimmten Zeitraum eingegangenen Zahlungen oder den Stand des Einziehungsverfahrens.
+
+10.3
+
+Eine Partei, die fällige Beträge nicht rechtzeitig zahlt, ist vor der Beitreibung in der Regel zu mahnen. In der Mahnung ist der Schuldner auf die Folgen des Verzugs (insbesondere § 124 Nr. 4
+ZPO), auch hinsichtlich der nicht rechtzeitigen Zahlung der weiteren Raten hinzuweisen. Für die folgenden Raten ist eine Mahnung nicht mehr erforderlich.
+
+10.4
+
+Im Übrigen gelten die allgemeinen Kassenbestimmungen für die Einziehung von Kosten.
+
+11.
+
+Verfahren bei der Verwaltungs-, der Sozial- und Finanzgerichtsbarkeit
+
+Bei den Gerichten der Verwaltungs-, der Sozial- und der Finanzgerichtsbarkeit tritt in den vorstehenden Bestimmungen der Richter an die Stelle des Rechtspflegers.
+
+B.
+
+Durchführungsbestimmungen zur Verfahrenskostenhilfe
+
+1.
+
+Anwendbarkeit von Abschnitt A
+
+1.1
+
+In Angelegenheiten nach dem
+Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (
+
+FamFG) gelten die Regelungen in Abschnitt A entsprechend
+
+1.1.1
+
+auch für Beteiligte, denen Verfahrenskostenhilfe nach § 76 Abs. 1
+FamFG in Verbindung mit den §§ 114 ff.
+
+ZPO bewilligt wird,
+
+1.1.2
+
+auch für Parteien, denen Prozesskostenhilfe nach § 113 Abs. 1
+FamFG in Verbindung mit den §§ 114 ff.
+
+ZPO bewilligt wird.
+
+1.2
+
+Die voraussichtlich entstehenden Verfahrenskosten können der Anlage 2 entnommen werden.
+
+1.3
+
+Das Beiheft sowie die darin zu verwahrenden Schriftstücke erhalten hinter dem Aktenzeichen den Klammerzusatz „(VKH)“.
+
+1.4
+
+Hat das Gericht Verfahrenskostenhilfe bewilligt, vermerkt die Geschäftsstelle auf dem Aktendeckel neben dem Namen des Beteiligten „Verfahrenskostenhilfe mit/ohne Zahlungsbestimmungen bewilligt Bl. …“.
+
+2.
+
+Abweichungen
+
+2.1
+
+Abschnitt A Nummern 2.5.8 und 4.8 gelten mit der Maßgabe, dass auf § 26 Abs. 2
+FamGKG verwiesen wird.
+
+2.2
+
+Abschnitt A Nummern 3.2 und 4.3 gelten mit der Maßgabe, dass auf § 24 Nr. 1 und § 26 Abs. 3 Satz 1 zweiter Halbsatz
+FamGKG verwiesen wird.
+
+2.3
+
+Abschnitt A Nummern 3.3.2 und 4.7 gelten mit der Maßgabe, dass auf § 24
+FamGKG verwiesen wird.
+
+2.4
+
+Abschnitt A Nummer 7.2 gilt mit der Maßgabe, dass auf § 18 Abs. 1 Satz 1 Nr. 2
+FamGKG verwiesen wird.
+
+2.5
+
+Abschnitt A Nummer 8.1 Abs. 2 Satz 2 gilt mit der Maßgabe, dass § 106
+ZPO
+in Verbindung mit § 85
+FamFG anzuwenden ist.
+
+C.
+
+Durchführungsbestimmungen zur Stundung der Kosten des Insolvenzverfahrens
+
+1.1
+
+Hat das Gericht die Stundung der Kosten des Insolvenzverfahrens nach § 4a
+InsO bewilligt, vermerkt die Geschäftsstelle auf dem Aktendeckel neben dem Namen des Schuldners „Stundung bewilligt Bl. …”.
+
+1.2
+
+Werden nach Erteilung der Restschuldbefreiung die Stundung verlängert und Zahlungen festgelegt (§ 4b
+InsO), gelten im Übrigen folgende Nummern des Abschnitts A entsprechend:
+
+1.2.1
+
+Nummer 2.1 mit der Maßgabe, dass die im Zusammenhang mit der Entscheidung nach § 4b
+InsO und ihrer Durchführung anfallenden Vorgänge in das Beiheft aufzunehmen sind. Der Klammerzusatz lautet „(Stundung)“. Nach Abschluss des Insolvenzverfahrens und nach rechtskräftiger Gewährung der Restschuldbefreiung gilt § 117 Abs. 2 Satz 2
+
+ZPO entsprechend;
+
+1.2.2
+
+Nummer 2.4.4;
+
+1.2.3
+
+Nummer 2.5.1 mit folgendem Wortlaut: „nach Eingang der Mitteilung der Sollstellung durch die Landesjustizkasse Chemnitz (Nr. 10.2.1) zur Bestimmung einer Wiedervorlagefrist zwecks Prüfung der Einstellung der Zahlungen”;
+
+1.2.4
+
+Nummer 2.5.2 mit der Maßgabe, dass der Klammerzusatz „(§ 4c Nr. 3
+InsO)” lautet;
+
+1.2.5
+
+Nummer 4.1 mit der Maßgabe, dass der Landesjustizkasse Chemnitz grundsätzlich der konkret berechnete Gesamtbetrag der Kosten des Insolvenzverfahrens als Höchstbetrag zur Einziehung zu überweisen ist;
+
+1.2.6
+
+Nummer 5.1 mit der Maßgabe, dass der Klammerzusatz „(§ 120 Abs. 4 Satz 1 und 2
+ZPO
+oder § 4c Nrn. 1, 2 und 4
+InsO)” lautet;
+
+1.2.7
+
+Nummer 9.1 Satz 1 bis 3 mit der Maßgabe, dass der Klammerzusatz in Satz 1 „(§ 4c
+InsO)” lautet;
+
+1.2.8
+
+Nummer 9.2;
+
+1.2.9
+
+Nummer 10 mit der Maßgabe, dass die Höhe der vom Kostenbeamten in der Schlusskostenrechnung berechneten Kosten des Insolvenzverfahrens dem Kostenschuldner mitzuteilen ist und dass der Klammerzusatz in Nr. 10.2.2 und in Nr. 10.3 „(§ 4c Nr. 3
+InsO)“ lautet.
+
+1.3
+
+Dem Rechtspfleger sind die Akten ferner vorzulegen, wenn die Restschuldbefreiung versagt oder widerrufen wird (§ 4c Nr. 5 InsO) oder wenn der Schuldner keine angemessene Erwerbstätigkeit ausübt, sich nicht um eine Beschäftigung bemüht oder eine zumutbare Tätigkeit ablehnt (§ 4c Nr. 4
+InsO).
+
+D.
+
+Inkrafttreten und Außerkrafttreten
+
+Diese Verwaltungsvorschrift tritt am Tage nach ihrer Veröffentlichung in Kraft. Gleichzeitig tritt die Verwaltungsvorschrift des Sächsischen Staatsministeriums der Justiz zu den Durchführungsbestimmungen zum Gesetz über die Prozesskostenhilfe und zur Stundung der Kosten des Insolvenzverfahrens (VwV DB-PKHG-InsO) vom 3. Dezember 2001 (SächsJMBl. S. 164), zuletzt geändert durch Verwaltungsvorschrift vom 4. Dezember 2006 (SächsJMBl. S. 305), zuletzt enthalten in der Verwaltungsvorschrift vom 10. Dezember 2007 (SächsABl. SDr. S. S 516), außer Kraft.
+
+Dresden, den 8. März 2010
+
+Der Staatsminister der Justiz und für Europa
+
+Dr. Jürgen Martens
+
+Anlagen
+
+Anlage 1
+
+Anlage 2
+
+Verweis auf Bundesgesetze
+
+Fundstelle und systematische Gliederungsnummer
+
+SächsJMBl. 2010 Nr. 3, S. 40
+
+Fsn-Nr.: 32-V10.1
+
+Gültigkeitszeitraum
+
+Fassung gültig ab: 31. März 2010
+
+Fassung gültig bis: 29. Februar 2016
+
+Drucken/Speichern
+
+HTML-Gesamtansicht
+
+Vorschrift als PDF
+
+Anlagen als PDF
+
+Einzeldruck
+
+Hilfe
+
+Hilfe
+
+Hilfe zu Historische Fassungen
+
+Fragen und Antworten
+
+Barrierefreiheit
+
+|  |
+
+|  |
+
+Quelle: REVOSax
+https://www.revosax.sachsen.de/vorschrift/11342.1
+Stand vom
+18.11.2026
+
+Herausgeber: Sächsische Staatskanzlei https://www.sk.sachsen.de/
