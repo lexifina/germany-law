@@ -1,0 +1,81 @@
+# 32. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-03-31T17:30:00+02:00
+- Ende: 2010-03-31T21:35:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2603
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2603
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=39352
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=116&id=39816
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Verkehrschaos in Pankow abmildern! - vertagt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Gründung einer Grundschule im Ortsteil Prenzlauer Berg am Standort des Jugendkultur- und Bildungszentrum "Eliashof" in der Senefelderstraße 6 in 10437 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Gründung einer Grundschule im Ortsteil Prenzlauer Berg am Standort Danziger Straße 50 in 10435 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Wohnungslosigkeit abbauen - Hilfeangebote optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Pankow für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Begrenzung des Flächenverbrauchs und Bodenschutz - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Skulpturen-Diebstähle in Zukunft verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sicherheit während der Tiefbaumaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Öffnungszeiten von Wochenmärkten - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Bundeshauptstadt der Biodiversität - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Mehr Verkehrssicherheit für den Radverkehr in Pankow Süd - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Visualisierung der Eigentumsverhältnisse im Prenzlauer Berg - in der BVV abgelehnt
+- TOP 1.19: Für einen neuen Flächennutzungsplan - Stärkung des Klimaschutzes und Reduzierung der Bodenneuversiegelung - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Modernisierung Breite Straße 28 - 30 sowie 31 a - h durch die GESOBAU - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Schlosspark Buch als Außenstelle der IGA 2017 - in der BVV abgelehnt
+- TOP 1.22: Verkehrssicherheit in Karow und Buch - überwiesen
+- TOP 1.23: Parken in engen Anwohnerstraßen - in der BVV abgelehnt
+- TOP 1.24: Mehr Kultur wagen! - überwiesen
+- TOP 1.25: Mauerpark fertig stellen - jetzt. - überwiesen
+- TOP 1.26: Rahmen für "Rahmenplan Rangierbahnhof" erweitern - überwiesen
+- TOP 1.27: Wie weiter mit den Kultureinrichtungen "Eliashof"? - beantwortet
+- TOP 1.28: "Sinnvolles" Warten mit Hotspot in Bürgeramt-Warteräumen - in der BVV abgelehnt
+- TOP 1.29: Eingliederung in Arbeit ohne Sperren - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Jugendoffiziere: Schulen sollen Pluralität gewährleisten - überwiesen
+- TOP 1.31: Internetangebot Bürgerbeteiligung aufbauen - überwiesen
+- TOP 1.32: Keine Reduzierung von Musikunterricht - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Ausnahmeregelung für Geschwisterkinder - überwiesen
+- TOP 1.34: Erinnerung an den 50. Jahrestag der Errichtung der Berliner Mauer - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - überwiesen
+- TOP 1.36: Verbesserung der Verkehrssicherheit für Fußgänger im Ortsteil Buch - überwiesen
+- TOP 1.37: Perspektive für das Kulturareal am Ernst-Thälmann-Park - überwiesen
+- TOP 1.38: Unterstützung für Ganztagsgymnasien - überwiesen
+- TOP 1.39: Kürzung von Eingliederungsleistungen 2010 verhindern - Pankower Schwerpunktsetzung bei Verteilung der Eingliederungsmittel - überwiesen
+- TOP 1.40: Beteiligung am Stiftungspreis 2010: "Die seniorenfreundlichste Stadt: Aktivieren, integrieren und unterstützen" - mit Änderungen in der BVV beschlossen
+- TOP 1.41: Stellungnahme zu den Kosten- und Finanzierungsübersichten (BA-Vorlage VI-1052/2010, KoFi 2009) - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Stellungnahme zu Projekten und Maßnahmen Städtebaulicher Denkmalschutz auf der Grundlage des Integrierten Stadtteilentwicklungskonzeptes (INSEK) für das Gebiet Humannplatz / Ostseestraße - Prioritätensetzung (BA-Vorlage VI-0966/2009) - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Gebietssozialpläne in Erhaltungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Nachtruhe in der Schönhauser Straße (OT Rosenthal) - Tempo 30 (22.00 - 6.00 Uhr) einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Runder Tisch zu "Seniorenfreundlicher Handel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: 100 Jahre Straßenbahn Heinersdorf - Alexanderplatz feiern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Entwicklung der Liegenschaft "Stadtbad Oderberger Straße" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Kulturensemble am Thälmannpark - Konzeption - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Haushaltsplanentwurf auch für den Bereich Kultur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Spiel- und Nachbarschaftshaus auf dem Hirschhof ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Ausstellung Wohl und Wehe der Ehe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Hinweise auf Kultur- und Bildungseinrichtungen an ÖPNV-Haltestellen und Bahnhöfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Antrag auf Neuauslegung der Pläne zum Bau des 16. Bauabschnitts der BAB 100 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Liste der beantragten und erteilten Vorbescheide bzw. Baugenehmigungen zu Neubauvorhaben sowie erteilte Abgeschlossenheitsbescheinigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Schutz öffentlichen Eigentums - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Initiative im Eliashof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Sozialverträgliche und mieterfreundliche Sanierung durch die HoWoGe im Pankower Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Modernisierungsrückstände abbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Fortschreibung der Umzugsplanung 2010 bis 2012 für Bürodienstgebäude des Bezirksamtes Pankow - mit Abschlussbericht zur Kenntnis genommen
