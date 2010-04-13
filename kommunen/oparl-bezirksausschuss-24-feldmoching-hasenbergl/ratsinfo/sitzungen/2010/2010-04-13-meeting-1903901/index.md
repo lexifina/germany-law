@@ -1,0 +1,100 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1903901
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1903901
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Pädagogische Aktion/Spielen in der Stadt e.V.; Spielbusse im Mai und Juli 2010
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: digitalanalog e.V.; Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Kreisjugendring München-Stadt; Lesefestival am 06./07.05.2010
+- TOP 2.4.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.07 über die Projektplanung: Löwenzahnweg / Schittgablerstraße - Herstellung einer Grünanlage mit Kinderspiel gem. Bebauungsplan Nr. 1688 b und Erschließungsvertrag vom 19.06./01.07.09
+- TOP 2.5.: Vollzug des Bayer. Straßen- und Wegegesetzes: Widmung einer Teilstrecke der Bernhardstraße
+- TOP 2.6.: Entfernung der Schrottfahrzeuge in der Toni-Pfülf-Straße
+- TOP 2.7.: Beseitigung der Straßenverschmutzung an der ökologischen Studienbaustelle Am Schnepfenweg, Reigersbachstr., Am Blütenanger
+- TOP 2.8.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 03.12.07 über die Projektplanung: Löwenzahnweg - Bebauungsplan Nr. 1688 b (U 1636)
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Visualisierung der Ortsgeschichte des DP-Lager "Frauenholz" auf dem Kirchenstiftungsgelände (Kath. Pfarrgemeinde Mariä Sieben Schmerzen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Ensembleschutz in der Feldmochinger Straße (Kulturhistorischer Verein Feldmoching auf dem Gfild e.V.)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Kein Google Street View in Trudering-Riem (Antrag des BA 15)
+- TOP 3.7.: Anträge aus der Informationsveranstaltung "Eggarten - wie geht es weiter" vom 18.03.10
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Veranstaltung auf städtischer Grünanlage: Kasperls Märchenzelt der Puppenbühne Stoßberger auf dem Dülfer Anger vom 09.09.-12.09.10
+- TOP 5.2.: Baumaßnahmen an der Einmündung Himmelschlüsselstraße in die Feldmochinger Straße
+- TOP 5.3.: Austausch der Lichtzeichenanlage Lerchenauer Straße / Irisstraße
+- TOP 5.4.: Austausch der Lichtzeichenanlagen Dachauer Str. / MAN und Dachauer Str. / MTU
+- TOP 5.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes Am Schnepfenweg 174
+- TOP 5.6.: Nachqualifizierung der Denkmalliste - Münchner Dorfkernensembles; Feldmochinger Straße
+- TOP 5.7.: Änderung der BA-Satzung; Bildung eines Ferienausschusses
+- TOP 5.8.: Veranstaltung auf städt. Grünanlage: Circus Rio auf dem Dülferanger vom 28.04.-04.05.2010
+- TOP 5.9.: Mobilfunk - Suchkreismeldung a) für den Suchkreis Feldmoching, Suchkreis Nr. 510301829 b) vorgesehene UMTS-Erweiterung am bestehenden GSM-Standort Flur-Nr. 3023, Feldmoching
+- TOP 5.10.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/44 - Rothwiesenstraße (östlich), Autobahnring - Nord A 99 (nördlich) (vertagt in der Sitzung vom 02.03.10)
+- TOP 5.11.: Verkauf einer städt. Immobilie: Fortnerstr. 2 (vertagt aus der Sitzung am 02.03.2010)
+- TOP 5.12.: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2
+- TOP 5.13.: Auswahl von Gebieten mit besonderem sozialpolitischen Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 5.14.: Veranstaltung auf städtischer Grünanlage: Sonnenwendfeuer am 19.06.10 und Gartenfest für Vereinsmitglieder am 03.07.10 in der Kleingartenanlage Lerchenauer Str. 250
+- TOP 5.15.: Leistungsprogramm 2011 der MVG - Fahrplanwechsel Dezember 2010
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Zebrastreifen Gundermannstraße
+- TOP 6.2.: Errichtung einer großen Reifenschaukel und eines Beachvolleyball-Feldes am Feldmochinger See sowie eines Bolzplatzes im Gebiet Bergwachtstraße
+- TOP 6.3.: Ausstattung des Spielplatzes an der Eudard-Spranger-Str. 11 (Antrag aus der Kinder- und Jugendsprechstunde)
+- TOP 6.4.: Umwidmung und Verkehrsregelungen in der Heppstraße Nr. 22 bis 30
+- TOP 6.5.: Genehmigungsantrag der WEBA GmbH;hier: Punkt 7 - Ausbau der Detmoldstraße
+- TOP 6.6.: Schaffung eines Fußgängerüberweges mit abgesenkten Bordsteinkanten im Bereich Blütenanger / Feldmochinger Straße
+- TOP 6.7.: Schaffung von abgesenkten Bordsteinkanten im Bereich Blütenanger / Feldmochinger Straße sowie am S-Bahnhof Fasanerie
+- TOP 6.8.: Terminänderung für Münchner Tafel am Goldschmiedplatz (Vorabzustimmung durch den Vorsitzenden)
+- TOP 6.9.: Unveränderte Fortführung des Gaststättenbetriebs: "Fasanenstüberl", Leberblümchenstr. 20
+- TOP 6.10.: City Bike Marathon München und nördlich Umgebung am 18.04.2010
+- TOP 6.11.: Protokoll der BA-Veranstaltung am 30.11.2009 im Sozialreferat
+- TOP 6.12.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Sperre der Leonhard-Bugl-Straße b) Feldmochinger Straße stadtauswärts halten bei geschlossener Bahnschranke c) Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Grohmannstr. 3
+- TOP 6.13.: Personelle Veränderungen in der Lokalbaukommission
+- TOP 6.14.: Wintersplittabkehr 2010 - Terminschiene zur Info
+- TOP 6.15.: Protokoll zur Sanierung des Betriebsgebäudes Granatstraße 10 (TSV Ludwigfeld)
+- TOP 6.16.: Neubau eines Einfamilienhauses in der Schneeglöckchenstraße (Bescheid)
+- TOP 6.17.: Gemeinde Oberschleißheim - Flächennutzungsplan - Änderung Nr. 22; Auszug des Gemeinderatsbeschlusses
+- TOP 6.18.: Entscheidung Weltkindertag 2010
+- TOP 6.19.: Protokoll: Städt. Freisportanlage an der Lerchenauer Str. 270 - Modernisierung der Freisportflächen
+- TOP 6.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.21.: Angebote zur Gewaltprävention in der Schule
+- TOP 6.22.: Preisanpassung an den P+R Anlagen im Stadtgebiet München
+- TOP 6.23.: Novellierung der Sondernutzungsrichtlinien un der Sondernutzungsgebühren
+- TOP 6.24.: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen
+- TOP 6.25.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke
+- TOP 6.26.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP 6.27.: Anpassung des Münchner Stellplatzrechts für Kraftfahrzeuge an die BayBO - Novelle 2007
+- TOP 6.28.: Bericht zur EUROCITIES- Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009
+- TOP 6.29.: Generalinstandsetzung des Sporttraktes der Willy-Brandt-Gesamtschule in der Freudstraße
+- TOP 6.30.: EU Projekt "POLIS" - Förderung In IEE II
+- TOP 6.31.: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP 6.32.: Nutzung erneuerbarer Energien in Städtebau
+- TOP 6.33.: Wohnungsmarkt München - Expertenbefragung 2009
+- TOP 6.34.: Beschlussvollzugskontrolle (BVK) - Bericht
+- TOP 6.35.: Zuschussnehmerdatei 2010: Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" a) des Amtes für Soziale Sicherung b) des Stadtjugendamtes c) des Amtes für Wohnen und Migration d) des Sozialreferats/Zentrale
+- TOP 6.36.: Ausgleichflächen in der Bauleitplanung - Gesamtstädtisches Konzept (Änderungsantrag)
+- TOP 6.37.: Perspektive München: Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und famlienfreundliches Wohnen" (Änderungsantrag)
+- TOP 6.38.: Städtebauliche Entwicklungsmaßnahmen Nordhaide - Sachstandsbericht mit Film zur Darstellung der Einhaltung der Entwicklungsziele
+- TOP 6.39.: Baumaßnahmen der SWM - Erdgasprojekt Feldmochinger Straße; Änderung im Terminablauf
+- TOP 6.40.: Meldeliste Bauvorhaben
+- TOP 6.41.: Meldelisten Baumfällungen
+- TOP 6.42.: Jahresbericht der Städt. Willy-Brandt-Gesamtschule (Hinweis: Einsichtnahme in der BA-Geschäftsstelle möglich)
+- TOP 6.43.: Münchner Krautgärten wachsen weiter - neuer Standort in Feldmoching wird realisiert (Auszug aus der Rathaus-Umschau)
+- TOP 6.44.: Schwimmbad-Nutzung im Wohnstift Augustinum
+- TOP 6.45.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Volksentscheid am 04.07.2010 - Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 8.2.: Münchner Solartage 2010
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
