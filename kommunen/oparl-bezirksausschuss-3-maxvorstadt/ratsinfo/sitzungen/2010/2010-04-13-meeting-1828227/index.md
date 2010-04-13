@@ -1,0 +1,140 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828227
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828227
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.2.: Bürgeranliegen: Beschilderung und Überwachung der Tempo-30-Zone in der Königinstraße
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.: Deutsche Stiftung Denkmalschutz: Tag des offenen Denkmals am 12.09.2010 (Vorschläge) vertagt aus der Sitzung 03/10
+- TOP 2.2.: Vollzug des BImSchG: Änderungsantrag Heizkraftwerk TU München iVm Antrag auf Zulassung des vorzeitigen Beginns (Stellungnahme)
+- TOP 2.3.: Begrünung der Neureutherstraße
+- TOP 2.4.: Referat für Stadtplanung und Bauordnung, Untere Denkmalschutzbehörde: Denkmaleigenschaft für das Anwesen Schellingstraße 47 - Hauskapelle für den kath. Mädchenschutzverein e.V.
+- TOP 2.1.2.: Augustenstraße 15 - 19, Neubau eines Mehrfamilienhauses mit Tiefgarage 1. Tektur: Teilungen von Wohnungen und Keller, Verschiebung von Stellplätzen
+- TOP 2.2.2.: Barer Str. 11, eine Blutpflaume, eine Sommerlinde
+- TOP 2.2.4.: Zieblandstraße 45, eine Birke, zwei Ahornbäume
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.1.1.: Referat für Stadtplanung und Bauordnung: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2, Anhörungs- und Beteiligungsverfahren
+- TOP 2.1.2.: Parklizenzgebiet St.-Vinzenz-Viertel - Richtigstellung der Beschilderung
+- TOP 2.1.3.: Kreisverwaltungsreferat: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 3 vertagt aus Sitzung 02/10
+- TOP 2.1.4.: Kreisverwaltungsreferat: Abbau der Lichtzeichenanlage Friedrich-/Georgenstraße (Vorschlag des BA 12) vertagt aus der Sitzung 03/10
+- TOP 2.1.5.: Baureferat, Beschlussvorlage: Behindertengerechte Absenkung und Markierung des Fußgängerübergangs Lothstraße Höhe Hausnummer 98 bzw. 100 zur Bushaltestelle 154; Empfehlung Nr. 08-14 / E 00472 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 19.11.2009 Sitzungsvorlage Nr. 08-14 / V 03838
+- TOP 2.1.6.: Baureferat, Beschlussvorlage: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 3 Maxvorstadt Einziehung einer Teilstrecke der "Königinstraße" Widmung des Fuß- und Radweges "Königinstraße" Sitzungsvorlage Nr. 08-14 / V 04005
+- TOP 2.1.7.: Kreisverwaltungsreferat Anhörung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO: Öffnung der Heßstraße zwischen Winzerer- und Lothstraße für den gegenläufigen Radverkehr
+- TOP 2.2.1.: Antrag des Green City e.V.: Wanderbaumallee in der Schellingstraße ab dem 11.05.2010 (Stellungnahme)
+- TOP 2.2.2.: Aufstellung einer Verkaufseinrichtung auf öffentlichem Grund: Heßstr. 90
+- TOP 2.2.3.: Direktorium: Gestaltung von U-Bahnhöfen - Satzungsänderung BA-Antrag Nr. 08-14 / B 01991 des BA 12 Schwaing-Freimann
+- TOP 2.2.4.: Anhörungsverfahren für Flohmarkt an der Erika-Mann-Str. am 08.05.2010
+- TOP 2.2.5.: Kreisverwaltungsreferat, Anhörung: Lesung zum Gedenken an die Bücherverbrennung auf dem Königsplatz am 10.05.2010
+- TOP 7: (E) Gestaltung des Platzes an der Rottmannstraße / Schleißheimer Straße (Antrag Nr. 3) Empfehlung Nr. 08-14 / E 00180 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 13.11.2008
+- TOP 7.8.: Kreisverwaltungsreferat: Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund, -Schellingstraße 66 - 68 (Zwischenhaus) - Türkenstraße 66
+- TOP 7.9.: Kreisverwaltungsreferat: Aufstellung eines Infopavillon in der Grünanlage Geschwister-Scholl-Platz am 03.05. und 04.05.2010 durch Wasti e.V., Fachschaft BWL/VWL
+- TOP 2.3.1.: Antrag auf Erweiterung einer bestehenden Freischankfläche, Barer Str. 80
+- TOP 2.3.2.: Genehmigung einer Freischankfläche, Adalbertstraße 32
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (1)
+- TOP 2.1.: Budgetantrag: Elternbeirat der Grundschule an der Dachauer Straße 98; 5-Finger-Selbstbehauptungskurs im Mai 2010 (Kosten 750,00 ?).
+- TOP 2.2.: Budgetantrag: Antragsteller: Grundschule an der Blutenburgstraße Sozialkompetenztraining ab 03.03.2010 Höhe des beantragten Zuschusses:150,00 ?
+- TOP 1: Anträge (2)
+- TOP 2.1.: Budgetantrag: Antragsteller: digitalanalog e.V. Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010 Höhe des beantragten Zuschusses: 540,00 ?
+- TOP 1: Planung und Umwelt
+- TOP 1.2.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Nutzung erneuerbarer Energien
+- TOP 1.3.: Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Beschlussvollzugskontrolle
+- TOP 1.4.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Konzept für das Kunstareal München entwickeln
+- TOP 1.5.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Die Königinstraße gehört den Münchnern - keine Privilegien für das US-Generalkonsulat
+- TOP 1.7.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP 1.8.: Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: EU Projekt "POLIS" - Förderung in IEE II
+- TOP 1.10.: Bekanntgabe Ausschuss Stadtplanung und Bauordnung: Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im Nov 2009
+- TOP 1.11.: Schreiben des Bayerischen Landesamtes für Denkmalpflege: Denkmaleigenschaft des Gebäudes Kaulbachstr. 35
+- TOP 1.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010: Nutzung erneuerbarer Energien im Städtebau -entfällt- (s. TOP F 1.2)
+- TOP 1.14.: Bekanntgabe im Ausschuss für Staplanung und Bauordnung vom 10.03.2010: Beschlussvollzugskontrolle
+- TOP 2.4.: Kreisverwaltungsreferat: "Willkommensfeier der Deutschen Olympiateilnehmer" mit Autokorso vom Siegestor zum Marienplatz und Veranstaltung auf dem Marienplatz am 02.03.2010. Eilentscheidung des Vorsitzenden vom 23.02.2010
+- TOP 2.5.: Kreisverwaltungsreferat, "Willkommensfeier der Deutschen Olympiateilnehmer" mit Autokorso vom Siegestor zum Marienplatz und Veranstaltung auf dem Marienplatz am 02.03.2010 - Genehmigungsbescheid -
+- TOP 2.6.: Öffnung der Nordseite der Gabelsbergerstraße (zwischen Türken- und Barer Straße) entgegen der Einbahnrichtung für Radfahrer.
+- TOP 2.7.: Öffnung der Südseite der Theresienstraße (zwischen Türken- und Arcisstraße) entgegen der Einbahnrichtung für Radfahrer
+- TOP 2.8.: Überwachung des ruhenden Verkehrs im Parklizenzgebiet "Schleißheimer Straße" (aus der Sitzung 01/10); Rückmeldung des KVR
+- TOP 2.10.: Sandstraße 37-39; Anlieferungszone für neuen Penny
+- TOP 2.12.: Beschluss des Kreisverwaltungsausschusses vom 23.03.2010: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 2.13.: Beschluss der Vollversammlung des Stadtrates vom 03.03.2010: Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung
+- TOP 2.14.: Eilentscheidung des Vorsitzenden (18.03.2010): Anhörung zum Osterlammgrillen der Griechischen Gemeinde am 04.04.2010
+- TOP 2.17.: Referat für Stadtplanung und Bauordnung; Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 24.03.2010 Sitzungsvorlage Nr. 08-14 / V 3945
+- TOP 2.19.: Kreisverwaltungsreferat: Einrichtung eines personenbezogenen Sonderparkplatzes für Schwerbehinderte im Bereich Kreittmayrstraße 31 a
+- TOP 2.20.: 5. Nachtrag - Anhörung Veranstaltung Cycling Days am 23.05.2010, 2. Anhörung der Regierung von Oberbayern Eilentscheidung des Vorsitzenden
+- TOP 3.1.: Sozialreferat: Stationäre Pflegeeinrichtung mit betreuter Wohnform für alte Menschen in der Sozialregion München Mitte, Antwortschreiben vom 23.02.2010 auf den Brief des BA 3 vom 16.12.2009
+- TOP 3.5.: Budgetangelegenheiten: - Rückforderung von Zuwendungen vom Förderverein zur Erziehungshilfe e.V. (Fußballtore)
+- TOP 3.6.: Prioritätenfestlegung und Bedarfszahlen der Stadtbezirke im ausbauprogramm von Krippen und Kindergartenplätzen
+- TOP 3.7.: Sozialreferat: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale Sitzungsvorlage Nr. 08-14 / V 03858
+- TOP 3.8.: Sozialreferat: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010, für den Bereich "Förderung freier Träger" des Stadtjugendamtes Sitzungsvorlage Nr. 08-14 / V 03873
+- TOP 4.1.: Meldung ehrenamtlicher WahlhelferInnen
+- TOP 4.3.: Änderung der BA-Satzung: Bildung eines Ferienausschusses (Anhörung) vertagt aus der Sitzung 03/10
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2.1.: Bürgeranliegen: Haltverbot in der Richard-Wagner-Straße
+- TOP 5.2.3.: Bürgeranliegen: Beschwerde über Radfahrer und abgestellte Fahrräder in der Gabelsbergerstraße Ecke Luisenstraße
+- TOP 6: Vorstellung aktueller Projekte durch die Verwaltung
+- TOP 1.1.: N: BA (DIE GRÜNEN): Begrünung der Neureutherstraße
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Amalienstr. 38: Errichtung eines Wintergartens mit Glasfassade und geneigtem, begrünten Dach als Erweiterung einer Restaurantfläche / Tektur
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Linprunstr. 53, eine Tanne
+- TOP 2.2.3.: Heßstraße 61, eine zweistämmige Korkenzieherweide
+- TOP 1.1.: Bürgerschreiben: Beschwerde über Beschilderung im Parklizenzgebiet
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 1: (E) Behindertengerechte Absenkung und Markierung des Fußgängerübergang Lothstraße Höhe Hausnummer 98 bzw. 100 zur Bushaltestelle 154 Empfehlung Nr. 08-14 / E 00472 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 19.11.2009
+- TOP 2.1: Verkehr
+- TOP 2.1.8.: Münchner Verkehrsgesellschaft mbH (MVG) Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.6.: Kreisverwaltungsreferat: Entscheidungen über Freischankflächen - Steinheilstraße 10 - Barer Straße 61
+- TOP 2.3: Gaststätten
+- TOP 2.3.3.: N: Genehmigung einer Freischankfläche, Schellingstraße 54 (vertagt vom 09.03 und 09.03.2010)
+- TOP 2.4.1.: Ökumenischer Kirchentag vom 12.05.2010 bis 16.05.2010 in München, Anhörung
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.2.: Budgetantrag: Antragsteller: Theatergruppe "Triere" Projekt "Die Schwebe" vom 15.08. - 31.12.2010 Höhe des beantragten Zuschusses: 2.730,00 ?
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1.1.: Referat für Stadtplanung und Bauordnun: Bauvorhaben Königinstraße 25, Umbau und Erweiterung bzw. Neubau eines Bürogebäudes mit Tiefgarage - Vorbescheid; Antwortschreiben des PlanRef vom 23.02.2010 auf eine Stellungnahme des BA 3 vom 18.06.2009 (s. TOP B 3.1.3 aus 06/09)
+- TOP 1.6.: Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: WOhnungsmarkt München, Expertenbefragung 2009
+- TOP 1.9.: Schreiben der LMU vom 22.02.2010: Ersatzpflanzungen auf dem Gelände der Tierärztlichen Fakultät
+- TOP 1.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP 1.15.: Beschluss der Vollversammlung des Stadtrates vom 24.03.2010: Ertüchtigung des Bahnknotens München; 2. S-Bahn-Stammstrecke
+- TOP 1.16.: Beschluss der Vollversammlung des Stadtrates vom 24.03.2010: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP 1.17.: Referat für Gesundheit und Umwelt: Neubau Landeskriminalamt, Abschalten der Beleuchtung, Empfehlung Nr. 08-14 / E 00469 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 19.11.2009, Ausfertigung durch das RGU
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kommunalreferat, Beschlussvorlage: "Die Umbenennung der ehemaligen Meiserstraße (jetzt Katharina-von-Bora-Straße) sol aufgehoben werden" Empfehlung Nr. 08-14 / E 00471 der Bürgerversammlung des BA 3 vom 19.11.2009
+- TOP 2.2.: Kreisverwaltungsreferat, Beschluss des Kreisverwaltungsausschusses vom 02.03.2010: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen Antrag Nr. 08-14 / A 01054 der Stadtratsfraktion DIE GRÜNEN/RL vom 21.09.2009
+- TOP 2.3.: Kreisverwaltungsreferat, Beschlussvorlage: Veranstaltung Streetlife Festival/Corso Leopold, Veranstaltungsablauf im Juli und September 2009, Räumliche Ausweitung Sitzungsvorlage Nr. 08-14 / V 03787
+- TOP 2.9.: Google Street View; Antrag des BA 15 (BA-Antrag Nr. 08-14 / B 01901)
+- TOP 2.11.: Beschluss des Kreisverwaltungsausschusses vom 23.03.2010: Preisanpassung an den P + R Anlagen im Stadtgebiet München zum 01.05.2010
+- TOP 2.15.: Austausch Lichtzeichenanlage Augusten-/Theresienstraße: Eilentscheidung des Vorsitzenden
+- TOP 2.16.: Referat für Stadtplanung und Bauordnung; Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 24.03.2010 Sitzungsvorlage Nr. 08-14 / V 03946
+- TOP 2.18.: Baureferat; Gestaltung des Rottmannplatzes: Antwortschreiben auf eine Anfrage des BA 3 vom 16.10.2009 (s. TOP F 2.3/2009) zu den Strom- und Wasseranschlüssen auf dem Rottmannplatz (s. dazu auch TOP C 2.2.6 - Beschlussvorlage des Baureferates zur Gestaltung des Rottmannplatzes)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.2.: Beschluss der Vollversammlung des Stadtrates vom 03.03.2010: Perspektive München: Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und familienfreundliches Wohnen"
+- TOP 3.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.04.2010: Zuschussnehmerdatei 2010; Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger"
+- TOP 3.4.: Sozialreferat: Unterlagen zur Informationsveranstaltung für die BAs vom 04.03.2010 ("Monitoring für das Sozialreferat" sowie ein Päckchen Karten)
+- TOP 4: Kultur
+- TOP 4.2.: Änderung der Satzung für die BAs (z.K.)
+- TOP 4.4.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung, Schreiben des Oberbürgermeisters vom 01.03.2010
+- TOP 4.5.: Jungbürgerfeier am 25.04.2010 im Volkstheater: Sachstandsbericht
+- TOP 4.6.: Ergebnis der Kassenprüfung
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
