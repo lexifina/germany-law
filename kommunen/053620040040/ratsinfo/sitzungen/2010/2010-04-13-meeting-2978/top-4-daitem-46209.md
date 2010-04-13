@@ -1,0 +1,6 @@
+# TOP 4.: Ergänzung des Haushaltssicherungskonzeptes der Stadt Wesseling *)
+
+- Sitzung: Hauptausschuss (3. Sitzung) (2010-04-13)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/46209
