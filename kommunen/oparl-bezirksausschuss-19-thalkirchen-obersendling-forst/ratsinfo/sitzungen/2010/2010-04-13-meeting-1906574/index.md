@@ -1,0 +1,76 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-04-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1906574
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1906574
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Wahl der/des neuen Vorsitzenden des Unterausschusses Budget und Veranstaltungen
+- TOP 1.7.: Festlegung der endgültigen Tagesordnung
+- TOP 1.8.: Genehmigung des Protokolls vom 02.03.10
+- TOP 9: (E) Austausch des Straßenbelages auf der A 95 Ziffer 1 Empfehlung Nr. 02-08 / E 01045 der Bürgerversammlung des Stadtbezirkes 19 Thalkirchen - Obersendling - Forstenried - Fürstenried - Solln am 03.04.2008
+- TOP 2: Anträge
+- TOP 2.1.: Ausbau Wolfratshauser Straße
+- TOP 2.2.: Fußweg vom U-Bahnhof "Forstenrieder Allee" zum Seniorenheim St. Antonius an der Filchnerstraße
+- TOP 2.3.: Strandbar an der Isar
+- TOP 2.4.: Verwendung eines Beamers bei BA-Sitzungen
+- TOP 2.5.: Baustopp Kurzbauerstr. 2a
+- TOP 2.6.: Lärmschutzmaßnahmen Bürgersaal und VHS
+- TOP 2.7.: Neonazi-Aufmarsch am 08.05.10
+- TOP 2.8.: JOKI - Kinderkrippe Possenhofener Str. 18
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Tag des offenen Denkmals
+- TOP 3.2.: Kulturtage
+- TOP 3.3.: Elternbeirat Hauptschule Zielstattstraße
+- TOP 3.4.: Trägerverein Bürgersaal Fürstenried e. V.
+- TOP 3.5.: Digitalanalog e. V.
+- TOP 3.6.: Lilalu e. V.
+- TOP 3.7.: Maibaumverein Thalkirchen e. V.
+- TOP 3.8.: (E) Budget der Bezirksausschüsse Historischer Verein Forstenried e.V. Ausstellung mit Begleitbuch "150 Jahre Schule in Forstenried"
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Containerstandort Seumestraße
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Gefährdung des Straßenverkehrs in Solln / Eberlestraße
+- TOP 5.2.: Querung Kistlerhofstraße / Ecke Traubinger Straße
+- TOP 5.3.: Querung Kreuzung Liesl-Karlstadt-Straße / Ecke Forstenrieder Allee
+- TOP 5.4.: LZA Hofbrunn- / Diefenbachstraße
+- TOP 5.5.: Buslinie nach St. Gabriel
+- TOP 5.6.: MVG - Leistungsprogramm 2011
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Denkmalliste - Dorfkernensemble Forstenried
+- TOP 6.3.: Evaluation der Stellplatzsatzung für Kfz
+- TOP 6.4.: Beschlussentwurf Bezirkssportanlage Solln
+- TOP 6.5.: Beschlussentwurf Waldorfschule
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Mehr Einflussmöglichkeiten für junge Menschen
+- TOP 7.2.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM -Begleitung
+- TOP 7.3.: KITA Steinerstraße
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Projektplanung Becker-Gundahl-Straße
+- TOP 8.2.: A95 - Austausch des Straßenbelages bis zum "Burgfrieden"
+- TOP 8.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling- Forstenried-Fürstenried-Solln Widmung einer Teilstrecke der Becker-Gundahl-Straße und einer Teilstrecke der Sollner Straße - <div>nach Antrag</div>
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Fürstenrieder Frühlingsfest und Kulturtage
+- TOP 9.2.: Circus Galliano
+- TOP 9.3.: Google Street View
+- TOP 9.4.: Zweckentfremdung Bleibtreustraße
+- TOP 9.5.: Zweckentfremdung Wilhelm-Leibl-Straße (Negativattest)
+- TOP 9.6.: Änderung der BA-Satzung; Bildung eines Feriensenats
+- TOP 9.7.: Gaststättenpächterwechsel Graubündener Str. 100
+- TOP 9.8.: Mitteilungen über verschiedene Grundstücksgeschäfte
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
