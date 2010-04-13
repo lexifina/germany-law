@@ -1,0 +1,123 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Raumnot Grund- und Hauptschule Schrobenhausener Str. 15
+- TOP 1.2.2.: Kreuzung Landsberger Straße / Elsenheimerstraße; Nutzung des nur für Radfahrer vorgesehenen Übergangs auch durch Fußgänger
+- TOP 1.2.3.: Lösungsvorschlag S-Bahnhof Laim
+- TOP 1.2.4.: Wertstoffcontainer Friedenheimer Str. 33
+- TOP 1.2.5.: Verkehrssituation Lutzstraße
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Soziale Absicherung der Mieterinnen und Mieter der GBW-Wohnungen
+- TOP 2.2.: CSU: Sicherstellung des Bestandes der Fußgängerunterführung unter der Fürstenrieder Straße in Höhe Fürstenrieder Str. 54 auf der westlichen Seite und Fürstenrieder Str. 51 auf der östlichen Seite
+- TOP 2.3.: CSU: Trambahnprojekt Westtangente
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 540 Euro für "Digitalanalog für Junges Publikum" im Frühjahr / Sommer 2010; Antragsteller: digitalanalog e.V.
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 6.000 Euro für Druckkosten des Stadtteilbuchs "Laim-ein Stadtteil in 24 Stunden"; Antragsteller: MünchenVerlag GmbH
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.465 Euro für Maitanz am 01.05.10; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.000 Euro für Spielprogramm Umsonst & Draussen 2010; Antragsteller: Lilalu
+- TOP 3.5.: Übernahme der Kosten in Höhe von 5.037 Euro für den Festzug anlässlich der 110jährigen Eingemeindung Laims zu München aus dem Budget des BA 25 / Anteil für Eigenveranstaltungen; Antragsteller: UA Kultur
+- TOP 3.6.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Friedenheimer Str. 27
+- TOP 3.7.: Beschlussvorlage Baureferat: Befestigung eines Teils des Zugangs zum Bus-Einstieg an der Haltestelle Menaristraße der Buslinie 168 stadtauswärts (Empfehlung Nr. 08-14 / E 00197 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.08) Empfehlung Nr. 08-14 / E 00197 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.2008 - <div>nach Antrag</div>
+- TOP 8: Beschlussvorlage Kommunalreferat: Straßenbenennung im 25. Stadtbezirk Laim Namensgebung für den "Laimer Anger" (Empfehlung Nr. 08-14 / E 00194 der Bürgerversammlung des Stadtbezirkes 25 Laim am 25.11.2008) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 24.02.10: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge, sog. Phase 2; hier: Anhörungs- und Beteiligungsverfahren
+- TOP 4.2.: Schreiben KVR vom 01.03.10: Kasperles Märchenzelt vom 26.10.-31.10.10 auf dem Laimer Anger
+- TOP 4.3.: Schreiben KVR vom 04.03.10: Mathunistr. 40; Haltverbot
+- TOP 4.4.: Schreiben Direktorium vom 01.03.10: Änderung der BA-Satzung; Bildung eines Ferienausschusses
+- TOP 4.5.: Schreiben Baureferat vom 11.02.10: Projekt Landsberger Straße Kreuzung Willibaldstraße (Vertagung aus der BA-Sitzung vom 02.03.10)
+- TOP 4.6.: Schreiben Sozialreferat vom 09.03.10: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 4.7.: Schreiben Referat für Arbeit und Wirtschaft vom 08.03.10: Toiletten an S-Bahnhöfen; u.a. S-Bahnhof Laim: Fehlende Toiletten, defekter Aufzug, Pflege des Bahnhofs (Empfehlung Nr. 08-14 / E 00442 der Bürgerversammlung vom 17.11.09)
+- TOP 4.8.: Schreiben KVR vom 16.03.10: Werbetafeln auf dem Laimer Anger für diverse Veranstaltungen
+- TOP 4.9.: Schreiben KVR vom 23.03.10: Gospelkonzert auf dem Laimer Anger am 13.05.10
+- TOP 4.10.: Schreiben KVR vom 25.03.10: Radverkehr; Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr, hier: Helmpertstraße
+- TOP 4.11.: Schreiben KVR vom 25.03.10: Austausch der Lichtzeichenanlage Senftenauerstraße / Josef-Schick-Straße
+- TOP 4.12.: Schreiben Sozialreferat vom 25.03.10: Einbürgerungsfeier am 20.04.10
+- TOP 4.13.: Schreiben MVG vom 25.03.10: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agricolastr. 71: Neubau eines Doppelhauses mit Garagen / Vorbescheid; hier: Baupläne
+- TOP 5.2.: Weiß-Ferdl-Str. 26: Erweiterung und energetische Sanierung einer DHH zum Niedrigenergiehaus (Anbau mit Unterkellerung, Einbau einer Holzpellet-Heizanlage, Einbau zweier Dachgauben, eines Erkers und einer thermischen Solaranlage) / Tektur; hier: Baupläne
+- TOP 5.3.: Geyerspergerstr. 37-39: Neubau eines Einfamilienhauses; hier: Baumfällungen
+- TOP 5.4.: Agricolastr. 99: Neubau einer Doppelhaushälfte mit Garage - Haus 1 / Tektur; hier: Baupläne
+- TOP 5.5.: Reutterstr. 42: Nutzungsänderung zur Erweiterung eines Bäckerei-Ladengeschäftes mit Sitzcafé auf der ehemaligen Bank-Nutzfläche; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kreisjugendring München-Stadt vom 29.03.10: Einladung Stadtteilcheck BA 25 am 16.04.10
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung des UA Kultur vom 23.02.10
+- TOP 7.2.: Sitzung BA vom 02.03.10
+- TOP 7.3.: Sitzung des UA Umwelt und Verkehr vom 05.03.10
+- TOP 7.4.: Sitzung des UA Kultur vom 16.03.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben KVR vom 17.02.10: Aufstellung von Warnschildern (Vorsicht Schule / Vorsicht Kinder) nach Fertigstellung der Lukasschule (Antrag Nr. 08-14 / B 01766 vom 12.01.10)
+- TOP 8.2.: Schreiben KVR vom 25.02.10: Gaststätte "Thantawan", Genovevaweg 31; unveränderte Fortführung
+- TOP 8.3.: Schreiben KVR vom 02.03.10: Gaststätte "Aindorfer Hof", Guido-Schneble-Str. 36; unveränderte Fortführung
+- TOP 8.4.: Schreiben KVR vom 03.03.10: Volksentscheid am 04.07.10; Meldung ehrenamtlicher Wahlhelferinnen und Wahlhelfer
+- TOP 8.5.: Schreiben KVR vom 08.03.10: Kurzparkzone Westendstraße zwischen Elsenheimerstraße und Zschokkestraße; verkehrsrechtliche Anordnung
+- TOP 8.6.: Schreiben KVR vom 04.02.10: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Veit-Stoß-Str. 25
+- TOP 8.7.: Schreiben KVR vom 16.03.10: Gebet am Laimer Anger am 13.06.10 / Absage
+- TOP 8.8.: Schreiben Baureferat vom 19.02.10: Laimer Unterführung (Schreiben BA vom 02.02.10)
+- TOP 8.9.: Schreiben Baureferat vom 26.02.10: Baumfällungen Schule Schrobenhausener Str. 15
+- TOP 8.10.: Schreiben Direktorium vom 23.02.10: Budget des BA 25; Verwendungsnachweis über Zuschuss an Laimer Strolche e.V. (Umbau Kindergarten) und Laimer Maibaumfreunde e.V. (Laimer Adventdult)
+- TOP 8.11.: Schreiben Direktorium vom 25.02.10: Treffen der Frauen- und Genderbeauftragten der BAs in der Gleichstellungsstelle für Frauen am 18.03.10
+- TOP 8.12.: Schreiben Direktorium vom 04.03.10: Mehrzweckgebäude an der Hogenbergstraße; 2. Bauabschnitt
+- TOP 8.13.: Schreiben Sozialreferat vom 23.02.10: Protokoll der BA-Veranstaltung am 30.11.09
+- TOP 8.14.: Schreiben Sozialreferat vom 18.03.10: Unterlagen zur Informationsveranstaltung für die BAs vom 04.03.10 / Monitoring für das Sozialreferat
+- TOP 8.15.: Schreiben Sozialreferat vom 24.03.10: Karte zur Informationsveranstaltung für die BAs am 04.03.10
+- TOP 8.16.: Schreiben Sozialreferat vom 24.03.10: Aktionstag 30.04.10 "München gewinnt mit Familien"
+- TOP 8.17.: Schreiben Schulreferat vom 25.02.10: Ist in der Siglstraße eine weitere Kindertagesstätten-Einrichtung möglich? (Antrag Nr. 02-08 / B 01909 vom 06.03.07), Errichtung einer größeren Einrichtung zur Kinderbetreuung auf dem Gelände Siglstr. 19 + 21 (Antrag Nr. 08-14 / B 00462 vom 14.10.08)
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 26.02.10: Baumaßnahmen der SWM, Fernwärmeprojekt Landsberger Straße
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 01.03.10: Gestaltung Willibaldplatz (Schreiben BA vom 02.02.10)
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 24.03.10: Baumaßnahmen der SWM; Fernwärmeprojekt Erschließung Friedenheim
+- TOP 8.21.: Schreiben Planungsreferat vom 08.03.10: Kleingartenanlage Ecke Barmer Straße / Westendstraße (Schreiben BA vom 06.02.10)
+- TOP 8.22.: Schreiben Planungsreferat vom 18.03.10: Agricolastr. 71; Neubau eines Doppelhauses mit Garagen / Vorbescheid
+- TOP 8.23.: Schreiben Referat für Gesundheit und Umwelt vom 22.03.10: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchG, Fürstenrieder Str. 38
+- TOP 8.24.: Schreiben Abfallwirtschaftsbetrieb München vom 23.03.10: Wertstoffinsel Friedenheimerstraße / Agnes-Bernauer-Straße (Schreiben BA vom 17.03.10)
+- TOP 8.25.: Bautenliste vom 22.02.-28.02.10 1. Erstantragsverfahren a) Hartelstr. 36 b) Reutterstr. 49 a 2. Änderungsverfahren a) Weiß-Ferdl-Str. 26 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agricolastr. 71 b) Schäufeleinstr. 2
+- TOP 8.26.: Bautenliste vom 01.03.-07.03.10: 1. Erstantragsverfahren a) Reutterstr. 42 b) Agricolastr. 99
+- TOP 8.27.: Bautenliste vom 15.03.-21.03.10: 1. Erstantragsverfahren a) Saherrstr. 62 2. Änderungsverfahren a) Berchemstr. 87
+- TOP 8.28.: Bautenliste vom 22.03.-28.03.10 1. Erstantragsverfahren a) Haunerstr. 10 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Flotowstr. 30
+- TOP 8.29.: Schreiben Planungsreferat vom 23.02.10: Liste der beantragten Baumfällungen vom 15.02.-21.02.10
+- TOP 8.30.: Schreiben Planungsreferat vom 01.03.10: Liste der beantragten Baumfällungen vom 22.02.-28.02.10
+- TOP 8.31.: Schreiben Planungsreferat vom 16.03.10: Liste der beantragten Baumfällungen vom 01.03.-07.03. und 08.03.-14.03.10
+- TOP 8.32.: Schreiben Planungsreferat vom 22.03.10: Liste der beantragte Baumfällungen vom 15.03.-21.03.10
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 22.02.10: Baumaßnahmen der Stadtwerke; Stichtag: 22.02.10
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 01.03.10: Baumaßnahmen der Stadtwerke; Stichtag: 01.03.10
+- TOP 8.35.: Schreiben Stadtwerke München GmbH vom 15.03.10: Baumaßnahmen der Stadtwerke; Stichtag: 15.03.10
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 22.03.10: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 22.03.10
+- TOP 8.37.: Schreiben Stadtwerke München GmbH vom 29.03.10: Baumaßnahmen der Stadtwerke; Stichtag: 29.03.10
+- TOP 8.38.: Beschluss des Kreisverwaltungsausschusses vom 02.03.10: Saisonale Umwandlung von Kfz-Stellplätzen zu Freischankflächen (Sitzungsvorlagen Nr. 08-14 / V 03784)
+- TOP 8.39.: Beschluss der Vollversammlung des Stadtrates vom 03.03.10: Perspektive München; Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 "Kinder- und familienfreundliches Wohnen", Empfehlungen für kinder- und familiengerechtes Wohnen, Maßnahmen zur Verbesserung der Wohnberatung (Sitzungsvorlagen Nr. 08-14 / V 02891)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Nutzung erneuerbarer Energien im Städtebau (Sitzungsvorlagen Nr. 08-14 / V 03728)
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern (Sitzungsvorlagen Nr. 08-14 / V 03724)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept (Sitzungsvorlagen Nr. 08-14 / V 03620)
+- TOP 8.43.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2009-31.12.2009 (Sitzungsvorlagen Nr. 08-14 / V 03790)
+- TOP 8.44.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Wohnungsmarkt München, Expertenbefragung 2009 (Sitzungsvorlagen Nr. 08-14 7 V 03637)
+- TOP 8.45.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: EU Projekt "POIS" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategien in Städtebau und strategischer Planung (Sitzungsvorlage Nr. 08-14 / V 03828)
+- TOP 8.46.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Bericht zur EUROCITIES - Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009 (Sitzungsvorlagen Nr. 08-14 / V 03752)
+- TOP 8.47.: Beschluss des Sozialausschusses vom 11.03.10: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Heinrich-Heine-Str. 3, Erdgeschoss, Wohnung Nr. 5 für Erweiterung der bestehenden Kindertageseinrichtung (Kindergarten) (Sitzungsvorlagen Nr. 08-14 / V 03668)
+- TOP 8.48.: Beschluss des Kreisverwaltungsausschusses vom 23.03.10: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung (Sitzungsvorlagen Nr. 08-14 / V 03904)
+- TOP 8.49.: Beschluss des Kreisverwaltungsausschusses vom 23.03.10: Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.10 (Sitzungsvorlagen Nr. 08-14 / V 03901)
+- TOP 8.50.: Beschluss der Vollversammlung vom 24.03.10: Ertüchtigung des Bahnknotens München; Schienenanbindung des Flughafens (Sitzungsvorlagen Nr. 08-14 / V 03946)
+- TOP 8.51.: Beschluss der Vollversammlung vom 24.03.10: Ertüchtigung des Bahnknotens München; 2. S-Bahn-Stammstrecke (Sitzungsvorlagen Nr. 08-14 / V 03945)
+- TOP 8.52.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.04.10: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Veränderung in der Behindertenhilfe seit der Übernahme der Zuständigkeit durch den Bezirk Oberbayern (Sitzungsvorlagen Nr. 08-14 / V 03831)
+- TOP 8.53.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.10: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 03873)
+- TOP 8.54.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.10: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 03867)
+- TOP 8.55.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.10: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlagen Nr. 08-14 / V 03858)
+- TOP 8.56.: Schreiben BA 15 Trudering-Riem vom 02.03.10: Kein Google Street View in Trudering-Riem
+- TOP 8.57.: Schreiben Büro der Kinderbeauftragten vom 11.03.10: Entscheidung Weltkindertag 2010
+- TOP 8.58.: Wandgestaltung - Laimer Unterführung
+- TOP 8.59.: Schreiben DB Station&Service AG vom 19.03.10: Infrastruktur am S-Bahnhof Laim (Schreiben BA vom 25.02.10)
+- TOP 8.60.: Münchner Statistik, 3. Quartalsheft, Jahrgang 2009
+- TOP 8.61.: Schriftverkehr aus der BA-Sitzung vom 02.03.10
+- TOP 1.2: Bürgerpost an den BA
