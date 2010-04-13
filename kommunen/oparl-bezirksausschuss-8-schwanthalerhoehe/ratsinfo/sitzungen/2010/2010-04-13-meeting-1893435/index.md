@@ -1,0 +1,52 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893435
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893435
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Beschwerde über unzumutbare Lärmbelästigung durch die Gaststätte "Camps Bay"
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: Evaluation der Münchner Stellplatzsatzung für Kraftfahrzeuge
+- TOP 5.2.: Anhörung: Antrag für eine Freischankfläche, Theresienhöhe 15
+- TOP 5.3.: Anhörung: Bauvorhaben in der Philipp-Loewenfeld-Straße
+- TOP 5.4.: Anhörung: Bauvorhaben in der Schwanthalerstraße 111a
+- TOP 5.5.: Meldeliste
+- TOP 5.6.: Eröffnung Quartiersplatz Theresienhöhe (Bahndeckel)
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Anhörung: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 6.2.: Anhörung: Investitionskostenförderung Haus für Kinder Ganghoferstr. 68-70
+- TOP 6.3.: Einrichtungen der Wohlfahrtsverbände laden zur Aktion Rollentausch
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Einbürgerungsfeier am 20. April 2010 - Mitwirkung der Bezirksausschüsse
+- TOP 7.2.: Unsere Stadt - Unsere Straßen, Straßenfilme in der Schwanthalerhöhe
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Haltverbot Ganghoferstraße
+- TOP 8.2.: Anhörung: Flohmarkt auf dem Georg-Freundorfer-Platz
+- TOP 8.3.: AW: Taubenproblem an der Unterführung Barthstraße
+- TOP 8.4.: AW: Mülltonnen für Hundekottüten am Sinti-Roma-Platz
+- TOP 8.5.: AW: BA-Antrag Nr. 08-14 / B 01565 Bauminsel in der Anglerstraße
+- TOP 8.6.: Erlaubnisbescheid Sondernutzung: "Für München" Tombola 2010
+- TOP 8.7.: Straßenumbau in der Gollierstraße
+- TOP 8.8.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens Sitzungsvorlagen Nr. 08-14 / V03946
+- TOP 8.9.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke Sitzungsvorlagen nr. 08-14 / V 03945
+- TOP 8.10.: Unterrichtung über das Fällen von Gefahrenbäumen am Gollierplatz
+- TOP 8.11.: Genehmigungsbescheid für die Baumfällungen in der Westendstraße 74
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Budgetantrag: Workshop "Digitalanalog für Junges Publikum" i.H.v. 540,-. Euro
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung: Änderung der BA-Satzung - Bildung eines Ferienausschusses
+- TOP 11.2.: Google Street View - Antrag des Bezirksausschusses 15 Trudering-Riem
+- TOP 12: Protokoll und Umlauf
