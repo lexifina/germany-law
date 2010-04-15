@@ -1,0 +1,56 @@
+# 11. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-04-15T16:00:00+02:00
+- Ende: 2010-04-15T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/525
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/525
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2010_04_15 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00026188.pdf
+- Wortprotokoll: Nachtrag_SR_2010_04_15 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00026585.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4: Wahl des Aufsichtsrates der DREWAG - Stadtwerke Dresden GmbH - gewählt
+- TOP 5: Wahl des Aufsichtsrates der EnergieVerbund Dresden GmbH - gewählt
+- TOP 6: Wahl des Aufsichtsrates der Zoo Dresden GmbH
+- TOP 7: Umbesetzung im Seniorenbeirat - gewählt
+- TOP 8: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 9: Einführen eines Sozialtarifes - Sozialticket - Vertagung
+- TOP 10: Auslegung Bebauungspläne (verbindlicher Bauleitplan) - Zustimmung mit Änderung
+- TOP 11: Kitaplätze schaffen - Investitionsvorhaben bei Kitas beschleunigen - Zustimmung
+- TOP 12: Bericht zur sozialen Situation und zu den Bildungschancen der Kinder in Dresden - Ablehnung
+- TOP 13: Verhandlungsziele der Stadt Dresden bei künftigen Tarifverhandlungen im VVO/Fahrgastbeirat VVO
+- TOP 14: Initiative "500-Solardächer-Programm" - Zustimmung
+- TOP 15: Finanzierung Umbau Kulturpalast Dresden und Projekt Heizkraftwerk Mitte - Vertagung
+- TOP 16: Verwaltungsstandorte mit neuer Perspektive - Vertagung
+- TOP 17: Einwohnerversammlung zum Thema "Zentralhaltestelle Kesselsdorfer Straße" - Vertagung
+- TOP 18: Verkehrsbaumaßnahme Fetscherstraße zwischen Fiedlerstraße und Pfotenhauerstraße - Verweisung
+- TOP 19: Ausbau der Kirchruine St.-Pauli zur kulturell genutzten Gemeinbedarfseinrichtung im Sanierungsgebiet Dresden-Hechtviertel - Zustimmung
+- TOP 20: Marketingkonzeption für Dresden - Vertagung
+- TOP 21: Freie Zugänglichkeit der Parkanlagen Pillnitz - Vertagung
+- TOP 22: Sozialverträgliche Kontoführungsgebühren der Ostsächsischen Sparkasse - Vertagung
+- TOP 23: Höhere Bundesbeteiligung an den Kosten für Unterkunft und Heizung (KdU) für ALG II-Beziehende - Vertagung
+- TOP 24: Ehrenordnung der Landeshauptstadt Dresden - Vertagung
+- TOP 25: Eintritts- und Anrechtspreise in der Staatsoperette Dresden ab der Spielzeit 2010/2011 - Zustimmung mit Änderung
+- TOP 26: Sanierungsgebiet Äußere Neustadt - 2. Fortschreibung des Städtebaulichen Erneuerungskonzeptes - Vertagung
+- TOP 27: Bebauungsplan Nr. 123.3, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platz - Vertagung
+- TOP 28: Prioritätenliste Straßenbahn-Neubaustrecken als Grundlage für die weitere Planung - Zustimmung
+- TOP 29: Betriebsordnung der Landeshauptstadt Dresden für das Krematorium des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Betriebsordnung Krematorium) - Vertagung
+- TOP 30: Entgeltordnung der Landeshauptstadt Dresden für die Benutzung des Krematoriums Dresden-Tolkewitz - Vertagung
+- TOP 31: Satzung der Landeshauptstadt Dresden über die Friedhofsgebühren für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden - Vertagung
+- TOP 32: Eilantrag: Bürgerversammlung zum Thema "Aktueller Stand beim Hochwasserschutz im Dresdner Osten" unverzüglich durchführen - Vertagung
+- TOP 33: Namensgebung der Schule für Erziehungshilfe - Zustimmung
+- TOP 34: Sanierung und Instandsetzung der Albertbrücke einschließlich der Umgestaltung und des grundhaften Ausbaus des Rosa-Luxemburg-Platzes und des Sachsenplatzes - Vertagung
+- TOP 35: Erweiterung des vorhandenen Parkplatzes "Alte Feuerwache" Loschwitz - Verweisung
+- TOP 36: Vorhaben- und Erschließungsplan Nr. 578, Dresden-Leuben, Wohnanlage an der Berthold-Haupt-Straße - Zustimmung
+- TOP 37: Neufassung der "Satzung über Erlaubnisse und Gebühren für Sondernutzung der öffentlichen Grünanlagen der Landeshauptstadt Dresden (Sondernutzung Grünanlagen)" - Verweisung
+- TOP 38: Erhalt des "Blauen Wunders" und Aufwertung des Schiller- und Körnerplatzes - Vertagung
+- TOP 39: Bürgerhaushalt Dresden für den Doppelhaushalt 2011/2012 - Vertagung
+- TOP 42: Umsetzung des Konjunkturprogramms II (KP II) , Vollzug der VwV KommInfra 2009, Umgang mit Bewilligungsresten und Ausgabenermäßigungen bzw. -erhöhungen in der Landeshauptstadt Dresden gemäß Schreiben des Sächsischen Staatsministeriums des Innern (SMI)
