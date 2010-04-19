@@ -1,0 +1,83 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-04-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898489
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898489
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Google Street View ? Antrag des Bezirksausschusses 15 Trudering - Riem
+- TOP 2.2.: Änderungen zum Busnetz für die Fahrplanperiode 2011 (verschiedene Bürgeranträge)
+- TOP 3: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.2.1.: Ortstermin Parksituation Gärtnerstraße
+- TOP 3.2.2.: Ortstermin Parksituation in der Irma-Wenke-Straße
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.1.: Trinklsiedlung; hier: Wertstoffinsel - Mondscheinweg ? Trinklsiedlung
+- TOP 3.4: Sonstige Berichte
+- TOP 4.1: Anträge der SPD
+- TOP 4.1.1.: Schulsport HS und GS Haldenbergerstraße
+- TOP 4.1.2.: Beleuchtung Wiesenstraße
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Aufhebung der Sperrzeit: S.R. Wellness-Oase, Triebstr. 11 a
+- TOP 5.2.: Genehmigung einer Freischankfläche: Bunzlauer Str. 22
+- TOP 5.4.: Gewährung eines Zuschusses aus dem Budget des BA 10: Seniorenbeirat AK 10 Moosach: Seniorennachmittag am 30.04.2010
+- TOP 5.5.: Gewährung eines Zuschusses aus dem Budget des BA 10: Elternbeirat der GS Jenaer Straße: ?Projekt Kinder treffen Künstler?
+- TOP 5.6.: Gewährung eines Zuschusses aus dem Budget des BA 10: Eigenheimerverein München-Moosach: Fahnenweihe am 02.05.2010
+- TOP 5.7.: Gewährung eines Zuschusses aus dem Budget des BA 10: Förderverein der HS München-Moosach: Erwerb einer Filmausrüstung
+- TOP 5.8.: Gewährung eines Zuschusses aus dem Budget des BA 10: Lilalu e.V: Festival ?Lilalu Umsonst & Draußen?
+- TOP 5.9.: Genehmigung einer Freischankfläche: Bunzlauer Str. 20
+- TOP 5.10.: (E) Budget der Bezirksausschüsse Schulsozialarbeit der AWO gGmbH Hauptschule an der Haldenbergerstraße Projekt "Bewegte Pause" ab 19.04.2010 - <div></div>
+- TOP 5.11.: (E) Budget der Bezirksausschüsse Münchner Filmwerkstatt e.V. Film-AG an der Hauptschule an der Haldenberger Straße - <div></div>
+- TOP 6: Anhörungen
+- TOP 6.1.: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP 6.2.: Bebauungsplan mit Grünordnung Nr. 1821 b (Hanauer Str. (östlich), Pelkovenstr. (nördlich), westlich und südlich des Olympia-Einkaufszentrums (OEZ)
+- TOP 6.3.: Verkauf einer Städt. immobilie: Koblenzer Straße
+- TOP 6.4.: Unterhaltsarbeiten Riesstraße 59
+- TOP 6.5.: Vollzug der Baumschutzverordnung: Lechelstr. 22
+- TOP 6.6.: Austausch der Lichtzeichenanlage Untermenzinger-/Lauinger Straße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Fuß- und Radweg Magdalena-Bräu-Weg (Verkehrsschild wurde inzwischen freigeschnitten)
+- TOP 7.2.: Infokästen für den BA in den neuen Moosacher U-Bahnhöfen (in beiden U-Bahnhöfen sind BA-Schaukästen vorgesehen)
+- TOP 7.3.: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern (Zwischennachricht)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München
+- TOP 8.3.: Personelle Veränderungen in der Lokalbaukommission
+- TOP 8.4.: Einrichtungen der Wohlfahrtsverbände laden zur Aktion Rollentausch
+- TOP 8.5.: Einladung zur Vollversammlung des Ausländerbeirates
+- TOP 8.6.: Einbürgerungsfeier am 20.04.2010
+- TOP 8.7.: Sondernutzungserlaubnis Obst- und Gemüsestand Bauberger Ecke Dachauer Str. neben Kiosk
+- TOP 8.8.: Stadtjugendamt / Aktionsforum für Familien: Aktionstag 30.04.2010
+- TOP 8.9.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des OB auf die Bezirksausschüsse zur Entscheidung (Schreiben des OB)
+- TOP 8.10.: Pächterwechsel ?Caffe Luis?, Pelkovenstr. 42
+- TOP 8.11.: Zweckentfremdung von Wohnraum: Dachauer Str. 419
+- TOP 8.12.: Mitteilung über ein Grundstücksgeschäft: Kauf einer Fläche in der Franz-Fihl-Straße
+- TOP 8.13.: Fällung von Klirschbäumen vor dem Anwesen Konstanzer Str. 44
+- TOP 8.14.: Bebauungsplan für die Eggartensiedlung (Empfehlung der Bürgerversammlung des 24. Stadtbezirkes)
+- TOP 8.15.: Ausgleichsflächen in der Bauleitplanung
+- TOP 8.16.: Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.2010
+- TOP 8.17.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 8.18.: Ertüchtigung des Bahnknotens München; Schienenanbindung des Flughafens
+- TOP 8.19.: Angebote zur Gewaltprävention in der Schule
+- TOP 8.20.: Entscheidung Weltkindertag 2010
+- TOP 8.21.: Städt. Freisportanlage Homer- / Dietrichstraße; Umbau des Rasenspielfeldes in einen Kunstrasenplatz
+- TOP 8.22.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke
+- TOP 8.23.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP 8.24.: EU Projekt ?POLIS?
+- TOP 8.25.: Bericht zur EUROCITIES-Jahresversammlung
+- TOP 8.26.: Zuschussnehmerdatei 2010: Vollzu gdes Haushaltsplanes 2010 für den Bereich ?Förderung freier Träger? (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
+- TOP 5.3.: Verbesserung der Parkmöglichkeiten für Fahrräder am S- und U-Bahnhof Moosach; Entfernung von Schrotträdern am S-Bahnhof Moosach und U-Bahnhof Westfriedhof - <div></div>
