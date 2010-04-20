@@ -1,0 +1,160 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-04-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1864696
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1864696
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.2.1.: Einzäunung am Spazierweg der Hochleite; Verschönerung des Spazierwegs an der Harlachinger Straße; Bürgerschreiben vom 26.03.2010
+- TOP 2.1.2.2.: Denkmalschutz in der Birkenau; Bürgerschreiben vom 20.03.2010
+- TOP 2.1.2.3.: Zufahrt- und Parksituation Grünwalderstraße 177/177a; Bürgerschreiben vom März 2010
+- TOP 2.1.2.4.: Zebrastreifen über die Säbener Straße; Bürgerschreiben vom 23.03.2010
+- TOP 2.1.2.5.: Sammelstelle Harlachinger Straße für Altkleidung (direkt am 1860-Stadion) - jetzt quasi Müllhalde; Bürgerschreiben vom 23.03.2010
+- TOP 2.1.2.6.: Waldwiese am Perlacher Forst; Versetzung der Fußballtore; Bürgeranliegen vom 31.03.2010
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.1: UA Budgetangelegenheiten
+- TOP 3.1.2.1.: AntragstellerIn: Burschenverein Harlaching e.V., für die Maßnahme: Harlachinger Maifest vom 30.04. bis 02.05.2010; Antragssumme: 1.600,00 ?; Beschlussvorlage des Direktoriums vom 31.03.2010
+- TOP 3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.2: UA Verkehr
+- TOP 3.2.2.1.: Erneuerung der Fahrbahn in der Agilolfingerstraße zwischen Krumpter- und Konradinstraße (Ziffer 1 des Antrages); Empfehlung Nr. 08-14 / E 509 der Bürgerversammlung des Stadtbezirkes 18 Untergiesing-Harlaching am 03.12.2009; Sitzungsvorlage Nr. 08-14 / V 03952; Beschluss des Bezirksausschusses des Stadtbezirkes 18 Untergiesing-Harlaching vom 20.01.2010
+- TOP 3.2.2.2.: Errichtung einer Sitzgruppe / Sitzbank im U-Bahnhof Mangfallplatz (Nordost) (Ziffer 3 des Antrags); Empfehlung Nr. 08-14 / E 00511 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching vom 03.12.2009; Sitzungsvorlage Nr. 08-14 / V 03967; Beschluss des BA 18 am 20.04.2010
+- TOP 3.2.3.1.: Anpassung der Lichtsignalanlage "Pilgersheimer Straße / Winterstraße" an die Belange der Fahrgäste der Buslinie 52; Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 07.04.2010 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.2.4.1.: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010); Zuleitung der MVG vom 25.03.2010 mit der Bitte um Stellungnahme bis 21.05.2010
+- TOP 3.2.5.1.: Erhalt der Signalanlage an der Grödner / Säbener / Klausener Straße; BA-Antrag-Nr. 08-14 / B 01755 vom 17.11.09; Antwortschreiben des KVR vom 01.02.2010 (negative Erledigung)
+- TOP 3.2.5.2.: Oberbiberger Straße - Fahrradweg zwischen Tegelbergstraße und Mangfallplatz; Erneuerung der Teerdecke der Oberbibergerstraße; BA-Antrag Nr. 08-14 / B 01811 des BA 18 vom 19.01.2010; Antwortschreiben des Baureferats vom 19.03.2010 (negative Erledigung)
+- TOP 3.2.5.3.: Bürgernahe Verbesserung der Ampelschaltung in der Geiselgasteigstraße; BA-Antrag Nr. 08-14 / B 01882 des BA 18 vom 23.02.2010; Antwortschreiben des KvR vom 22.03.10 (positive Erledigung)
+- TOP 3.2.6.1.: Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.2010; Beschluss des Kreisverwaltungsausschusses vom 23.03.2010 (VB); Sitzungsvorlage Nr. 08-14 / V 03901
+- TOP 3.2.6.2.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens a) Gutachten zur Flughafenanbindung 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Weiteres Vorgehen c) Anträge Sitzungsvorlagen Nr. 08-14 / V 03946; Beschluss der Vollversammlung des Stadtrates vom 24.03.2010 zu 3.2.6.2 Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 24.03.2010
+- TOP 3.2.6.3.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke a) Vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Stand der Planfeststellungsverfahren und Umplanungen des 2. S-Bahn-Tunnels c) Weiteres Vorgehen d) Lärmsanierung am DB-Südring e) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 03945 Beschluss der Vollversammlung des Stadtrates vom 24.03.2010 zu 3.2.6.3 Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 24.03.2010
+- TOP 3.2.6.4.: Schienenersatzverkehr bei Sperrung der U-Bahn; U1-Süd Kolumbusplatz - Mangfallplatz; verkehrliche Maßnahmen; Mitteilung des KVR
+- TOP 3.3: UA Umwelt
+- TOP 3.3.2.1.: Bad Giesing-Harlaching in der Klausener Straße: Leiserstellen der Lautsprecher in den Außenanlagen zum Schutz der Anwohner in den umliegenden Straßen; Empfehlung Nr. 08-14 / E 00508 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching - vom 03.12.2009; Sitzungsvorlage Nr. 08-14 / V 03963; Beschluss des BA 18 am 20.04.09
+- TOP 3.3.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4: UA Soziales
+- TOP 3.4.5.1.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Beteiligung; Schreiben des Sozialreferats vom 09.03.2010 mit der Bitte um Rückmeldung bis 23.04.2010; Nachfrage des BA 18 aus der Sitzung vom 23.03.2010; Antwortschreiben des Sozialreferats vom 06.04.2010 (neutrale Erledigung)
+- TOP 3.4.6.1.: Dienststellenverständigung: Neubau: Städtische Kindertageseinrichtung; KOOP Säbener Straße 61, 81547 München; Mitteilung des Schul- und Kultusreferates vom 12.03.2010
+- TOP 3.4.6.2.: Zuschussnehmerdatei 2010; Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Veränderung in der Behindertenhilfe seit der Übernahme der Zuständigkeit durch den Bezirk Oberbayern; Sitzungsvorlage Nr. 08-14 / V 03831; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.04.2010 (SB)
+- TOP 3.4.6.3.: Zuschussnehmerdatei 2010; Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 03867; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 3.4.6.4.: Zuschussnehmerdatei 2010; Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 03873; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 3.4.6.5.: Zuschussnehmerdatei 2010; Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferats/Zentrale; Sitzungsvorlage Nr. 08-14 / V 03858; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 3.5: UA Bau und Planung
+- TOP 3.5.2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier Blumenverkaufsstand am Authariplatz 15; Beschluss des BA 18 vom 20.04.2010 (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.5.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Freischankfläche in der Otkerstraße; Beschlussvorlage durch das Kreisverwraltungsreferat (Vorlage folgt)
+- TOP 3.5.3.1.: Verunstaltung des Straßen- und Platzbildes in München durch Werbeträger aller Art; div. Anträge des BA 12 mit der Bitte um Unterstützung
+- TOP 3.5.3.2.: Denkmalschutz im Schwimmbadviertel (Untergiesing) II; Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 07.04.2010 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.5.3.3.: Wiederherstellung Gehweg zwischen Tegernseer Landstraße und Gozbertstraße (vor dem Gebäude REWE/Tegernseer Landstraße und Gozbertstraße 3) - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 3.5.4.1.: Verkauf einer städtischen Immobilie; Anhörung der Bezirksausschüsse gem. § 3 der Bezirksausschusssatzung; hier: Anwesen Freibadstraße; Zuleitung des Kommunalreferats vom 03.02.2010 mit der Bitte um Stellungnahme (vertagt aus den Sitzungen vom 23.02.2010 und 23.03.2010)
+- TOP 3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.5.4.1.1.: Reinekestraße; Neubau eines Einfamilienhauses mit Garage (Reineke- / Wunderhornstraße); Anhörung vom 11.03.2010 (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.5.4.1.2.: Lindenstraße 24; Neubau eines Einfamilienhauses mit Doppelgarage und Schwimmbecken - TEKTUR zu 2009-18401; Anhörung vom 11.03.2010 (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.5.4.1.3.: Geiselgasteigstraße 40; Neubau eines Wohnhauses (10 WE) mit Tiefgarage (10 Stpl.); Anhörung vom 12.03.2010 (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.5.4.1.4.: Hochkalterstraße 2 - 14; Nachverdichtung einer Wohnanlage mit 25 - 30 WE / VORBESCHEID; Anhörung vom 26.01.2010 (vertagt aus den Sitzungen vom 23.02.2010 und 23.03.2010)
+- TOP 3.5.4.1.5.: Birkenleiten 41; Teilabriss, Teilwiederaufbau und Nutzungsänderung der "Krämer-Mühle" zu Büro, Gewerbe und Ateliers mit Wohnnutzung; Anhörung vom 26.02.2010 (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.5.4.1.6.: Candidstraße 18 bis 26; Schallschutzmaßnahme, Balkonverglasung und Fensteraustausch; Anhörung vom 26.03.2010
+- TOP 3.5.4.1.7.: Schmorellplatz 9; Umbau und Erweiterung eines Wohngebäudes - TEKTUR; Anhörung vom 26.03.2010
+- TOP 3.5.4.1.8.: Lindenstraße 20; Neubau zweier Mehrfamilienhäuser mit Tiefgarage (Lindenstraße 20 / Über der Klause) - VORBESCHEID; Anhörung vom 26.03.2010
+- TOP 3.5.4.1.9.: Am Staudengarten 5; Neubau eines Reihenmittelhauses; Anhörung vom 26.03.2010
+- TOP 3.5.4.2: Baumbestandspläne
+- TOP 3.5.6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.6.2.: Satzung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterichtung der Bezirksausschüsse; Unterrichtungen des Sozialreferats 3.5.6.2.1 Anwesen Menterschwaigstraße; Unterrichtung vom 16.03.2010
+- TOP 3.5.6.3.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.6.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 Kleingaststätte "Capitan Jack", Pilgersheimer Str. 10; Mitteilung vom 05.03.2010
+- TOP 3.6: UA Kultur und Veranstaltungen
+- TOP 3.6.4.1.: Grünanlage Oberbiberger Straße; Waldfest 2010 des Vereins zur Erhaltung und Pflege des Perlacher / Grünwalder Forstes e.V. am 24.07.2010; Zuleitung des KVR mit der Bitte um Stellungnahme bis 28.04.2010
+- TOP 3.6.4.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: 40. Int. Deutsch-Amerikanische Wandertage (Start: Rotbuchenstraße) am 03./04.07.2010; Zuleitung des KVR vom 30.03.2010 mit der Bitte um Stellungnahme
+- TOP 3.6.5.1.: 100. Geburtstag des Stadions an der Grünwalderstraße; Unterstützungsantrag des BA 18 bzgl. Feiern und einer Ausnahmegenehmigung für Konzerte; BA-Antrags-Nr. 08-14 / B 01884 vom 23.02.2010; Antwortschreiben des Schul- und Kultusreferates vom 23.03.2010 (neutrale Erledigung)
+- TOP 3.6.7.1.: Gedenkstein in der Peter-Auzinger-Straße; Bürgerschreiben vom 16.03.2010 (vertagt aus der Sitzung vom 23.03.2010)
+- TOP 3.6.7.2.: Kulturaufwertung Bereich Isar; Konzept "Südstrand" - Strandbar an der Isar; E-Mail vom 25.03.2010
+- TOP 4: Sonstige Fälle
+- TOP 4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.2: Sonstige Anträge
+- TOP 4.2.1.: Konsequenzen aus Briefaktion des e.a. Stadtrates K. Richter / Unterstützung des Anliegens des BA 1 Altstadt-Lehel sowie des Antrags des BA 5 Au-Haidhausen
+- TOP 4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.3.1: Baumschutzfälle
+- TOP 4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.1.: Sitzungsunterlagen für alle Mitglieder der BAs bei Entscheidungen aus dem Bereich der laufenden Verwaltung (OB-Vollmacht); BA-Antrags-Nr. 08-14/B 01829 des BA 12 vom 26.01.2010; Az.: D-II-BA 1150/550 - 09/11; Antwortschreiben des Oberbürgermeisters vom 02.03.2010 (negative Erledigung)
+- TOP 4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.5.1.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung; Az.: D-HA II/BA; Schreiben des Oberbürgermeisters vom 01.03.2010
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.1: Kinder
+- TOP 5.2: Senioren/-innen
+- TOP 5.3: Ausländer /-innen
+- TOP 5.4: Jugend
+- TOP 5.5: Sport und Vereine
+- TOP 5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.1: Termine der UA - Sitzungen
+- TOP 6.2: Ankündigungen
+- TOP 6.2.1.: Aktionsforum für Familien; Münchner Aktionstag für Familien am 30. April 2010 unter dem Motto "München gewinnt mit Familien"; Einladung zur Auftaktveranstaltung "Armut in Familien" am 30. April 2010; Schreiben des Sozialreferats vom 24.03.2010
+- TOP 6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.1.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
+- TOP 3.1.1: Bericht (1)
+- TOP 3.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3.1.3: Anträge (1)
+- TOP 3.1.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.1.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.1.7: Sonstiges (1)
+- TOP 3.2.1: Bericht (2)
+- TOP 3.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 3: Errichtung einer Sitzgruppe / Sitzbank im U-Bahnhof Mangfallplatz (Nordost) (Ziffer 3 des Antrags) - <div></div>
+- TOP 3.2.3: Anträge (2)
+- TOP 3.2.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.2.5: Antworten der Verwaltung auf Anträge und Anfragen (1)
+- TOP 3.2.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.2.7: Sonstiges (2)
+- TOP 3.3.1: Bericht (3)
+- TOP 3.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 2: Bad Giesing-Harlaching in der Klausener Straße: Leiserstellen der Lautsprecher in den Außenanlagen zum Schutz der Anwohner in den umliegenden Straßen - <div></div>
+- TOP 3.3.3: Anträge (3)
+- TOP 3.3.4: Anhörungsfälle / Stellungnahmen (1)
+- TOP 3.3.5: Antworten der Verwaltung auf Anträge und Anfragen (2)
+- TOP 3.3.6: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 3.3.7: Sonstiges (3)
+- TOP 3.4.1: Bericht (4)
+- TOP 3.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 3.4.3: Anträge (4)
+- TOP 3.4.4: Anhörungsfälle / Stellungnahmen (2)
+- TOP 3.4.5: Antworten der Verwaltung auf Anträge und Anfragen (3)
+- TOP 3.4.6: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 3.4.7: Sonstiges (4)
+- TOP 3.5.1: Bericht (5)
+- TOP 3.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (4)
+- TOP 3.5.3: Anträge (5)
+- TOP 3.5.4: Anhörungsfälle / Stellungnahmen (3)
+- TOP 3.5.5: Antworten der Verwaltung auf Anträge und Anfragen (4)
+- TOP 3.5.6: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 3.5.7: Sonstiges (5)
+- TOP 3.6.1: Bericht (6)
+- TOP 3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 3.6.3: Anträge (6)
+- TOP 3.6.4: Anhörungsfälle / Stellungnahmen (4)
+- TOP 3.6.5: Antworten der Verwaltung auf Anträge und Anfragen (5)
+- TOP 3.6.6: Unterrichtungsfälle / Bekanntgaben (4)
+- TOP 3.6.7: Sonstiges (6)
