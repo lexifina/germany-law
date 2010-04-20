@@ -1,0 +1,148 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-04-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904509
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904509
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: Antrag digitalanalog e.V. (Az.: 03/10 - 3.4.1): Zuschuss in Höhe von 540 ? für den Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010 (Wiedervorlage aus der Sitzung vom 16.03.10)
+- TOP 2.3.2.: Antrag Lilalu e.V. (Az.: 04/10 - 3.4.1): Zuschuss in Höhe von 5.000 ? für das Festival "Lilalu Umsonst & Draussen" vom 13.-29.08.10
+- TOP 2.3.3.: Antrag Lilalu e.V. (Az.: 04/10 - 3.4.2): Zuschuss in Höhe von 5.000 ? für die Open Air Bühne für das Lilalu-Festival vom 13.-29.08.10
+- TOP 2.3.4.: Antrag auf Budgetbewilligung aus dem Eigenanteil des BA 9 (Az. 04/10 - 3.4.3): Zuschuss i.H.v. 1.000 ? für das BA-Kinderfest am 13.06.10
+- TOP 2.3.5.: Antrag Initiative "Hide Out 2" (Az.: 04/10 - 3.5.1): Zuschuss in Höhe von 2.250 ? für das Bluesfest auf dem Rotkreuzplatz am 01.08.10
+- TOP 2.3.6.: Antrag Geschichtswerkstatt Neuhausen e.V. (Az.: 04/10 - 3.5.2): Zuschuss in Höhe von 1.000 ? für die Herausgabe eines Kalenders für das Jahr 2011
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: KVR (Az.: 10/96 - 3.2.13): Einrichtung einer Ladezone in der Erika-Mann-Straße; Errichtung absoluter Haltverbote im Bereich des Wendehammers in der Erika-Mann-Straße
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Gehweg zwischen Ferdinand-Maria-Straße und Arnulfstraße
+- TOP 3.2.: Antrag SPD: Rechts vor Links in 30 km/h-Zonen
+- TOP 3.3.: KVR: Verlängerung des Haltverbots in der Emma-Ihrer-Straße
+- TOP 3.4.: KVR: Absolutes Haltverbot in der Hippmannstr. 3
+- TOP 3.5.: KVR: Stadt-Triathlon am 30.05.2010 im Olympiapark und der Ackermannstraße
+- TOP 3.6.: MVG: Leistungsprogramm 2011, Fahrplanwechsel Dezember 2010
+- TOP 3.7.: BA 15 Trudering-Riem: Kein Google Street View in Trudering-Riem
+- TOP 3.8.: KVR: Kurzparker-Ausweitung Frundsbergstraße
+- TOP 3.9.: KVR: Schienenersatzverkehr bei Sperrung der U 1 Rotkreuzplatz - Olympia-Einkaufszentrum; Anordnung von Bushaltestellen
+- TOP 3.10.: KVR: Verkehrsrechtliche Anordnung vom 29.03.-08.05.10 in der Nibelungenstraße zwischen Winthirplatz und Winthirstraße wegen Fernwärmeleitungsverlegung
+- TOP 3.11.: Beschluss des Kreisverwaltungsausschusses vom 23.03.10: Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.10
+- TOP 3.12.: Beschluss des Bauausschusses vom 16.03.10: Technisches Betriebszentrum Schragenhofstr. 6; Teilprojekt "Umstellung und Modernisierung der Ansteuerung der Straßenbeleuchtung"
+- TOP 3.13.: Baureferat: Sanierung der Gehwege Stupf-, Schäringer- und Menradstraße (Empfehlung Nr. 454 der Bürgerversammlung vom 24.11.09)
+- TOP 3.14.: Bürgeranliegen: Park- und Haltezone Hirschgartenallee 48 / Romanstraße
+- TOP 3.15.: Referat für Arbeit und Wirtschaft: Aufzüge Laimer Unterführung zur S-Bahn (Antrag BA 9 Nr. 1797 vom 19.01.10), Wiedervorlage aus der Sitzung vom 16.03.10
+- TOP 3.16.: Bürgeranliegen: Keine Verschlechterung für Behinderte durch den Neubau der Tram Westtangente (Schreiben BA 9 vom 16.03.10)
+- TOP 3.17.: Baureferat: Fuß- und Radwegbrücken in München (Schreiben BA 9 vom 17.11.09)
+- TOP 3.18.: Baureferat: Bau eines Gehweges an der Ostseite der Johann-Schmaus-Straße (Antrag Nr. 1462 BA 9 vom 15.09.09)
+- TOP 3.19.: Situation in der Landshuter Allee (Tunnelverlängerung und Verbesserung der Verkehrsknoten), Antrag Nr. 637 BA 9 vom 18.11.08; Sachstand ?
+- TOP 3.20.: Baureferat: Fahrradstellplatzkonzept (1. Realisierungsabschnitt)
+- TOP 3.21.: Parkraummanagement in Neuhausen
+- TOP 3.22.: KVR: Erteilung von Ausnahmegenehmigungen an gewerbliche Anlieger (Schreiben BA 9 vom 17.03.10)
+- TOP 3.23.: KVR: Anwohnerparklizenz für Carsharing oder Leihwagen (Schreiben BA 9 vom 19.02.10)
+- TOP 3.24.: Bürgeranliegen: Verkehrsüberwachung Parklizenzgebiete Neuhausen
+- TOP 3.25.: Planungsreferat: Einführung des Parkraummanagements für den Bereich zwischen Landshuter Allee und Renatastraße (Schreiben BA 9 vom 18.01.10)
+- TOP 3.26.: Beschluss der Vollversammlung des Stadtrates vom 24.03.10 und Hinweis/Ergänzung vom 23.03.10: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP 3.27.: Beschluss der Vollversammlung des Stadtrates vom 24.03.10 und Hinweis/Ergänzung vom 23.03.10: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke
+- TOP 3.28.: KVR: Einrichtung einer Ladezone in der Erika-Mann-Straße; Errichtung absoluter Haltverbote im Bereich des Wendehammers in der Erika-Mann-Straße
+- TOP 3.29.: KVR: Kein Parken auf dem Kunstwerk auf dem Rainer-Werner-Fassbinder-Platz (Schreiben BA 9 vom 25.02.10)
+- TOP 3.30.: KVR: Antrag für mehr Sicherheit S-Bahnhof Hirschgarten / Backstage (Schreiben BA 9 vom 18.01.10)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 01.03.-07.03., 08.03.-14.03., 15.03.-21.03., 22.03.-28.03. und 29.03.-04.04.10
+- TOP 3.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung
+- TOP 3.3.: Bauvorhaben Walhallastr. 35: Abbruch eines Einfamilienhauses und Neubau einer Wohnanlage, Vorbescheid
+- TOP 3.4.: Bauvorhaben Erhard-Auer-Str. 14: Errichtung eines Gebäudes für die Nachbarschaftshilfe
+- TOP 3.5.: Bauvorhaben Stuberstr. 20: Neubau eines Mehrfamilienhauses mit Tiefgarage, Tektur
+- TOP 3.6.: Bauvorhaben Nederlinger Str. 103: Neubau einer Doppelhaushälfte; hier: Baumfällungen
+- TOP 3.7.: Planungsreferat: Bruckmannstraße, Neubau eines Zweifamilienhauses mit Garage
+- TOP 3.8.: Planungsreferat: Pegnitzstr. 5, Einrichtung eines Kindergartens in ein bestehendes Grenzgebäude
+- TOP 3.9.: Bauvorhaben Leonrodstr. 12: DG-Ausbau und Aufzugseinbau im Vordergebäude, Nutzungsänderung im Rückgebäude, Fassadenrenovierung; Tektur
+- TOP 3.10.: Errichtung einer Moschee in der Dachauer Straße / Leonrodplatz (Bericht in der SZ) ?
+- TOP 3.11.: Beschluss der Vollversammlung des Stadtrats vom 03.03.10: Dachauer Straße (nordöstlich) zwischen Willi-Gebhard-Ufer, Olympiapark, Schwere-Reiter-Straße und Leonrodplatz; Entwicklung des Olympischen Dorfes und des Mediendorfes 2018; Grundsatzbeschluss und weiteres Vorgehen (Wiedervorlage aus der Sitzung vom 16.03.10)
+- TOP 3.12.: Bauvorhaben Blutenburgstr. 75: Nutzungsänderung und Umbau eines Werkstattgebäudes in ein Wohnhaus (Gewerbe zu Wohnen), Neuaufteilung der Grundrisse, Einbau von Loggien und Dachterrassen
+- TOP 3.13.: Planungsreferat: Theaterzelt Das Schloss, Schwere-Reiter-Str. 13; Lärmschutzgutachten
+- TOP 3.14.: Kommunalreferat: Stadteigenes Anwesen Leonrodstr. 40, Vermietung EG
+- TOP 3.15.: Antrag FDP: Sachstand zum Porzellanmalerhäuschen Menzinger Str. 9; Zustand der Häuser der Porzellanmanufaktur Nymphenburg
+- TOP 3.16.: Baureferat: Dom-Pedro-Platz, Gartendenkmalpflegerische Umgestaltung mit Kinderspiel
+- TOP 3.17.: Nichtöffentlich:
+- TOP 3.18.: WEB-Listen vom 01.03.-15.03.10
+- TOP 3.19.: Sozialreferat: Zweckentfremdung von Wohnraum, hier: Zuccalistraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Montenstr. 5: Fällung von 1 Trauerweide
+- TOP 3.2.: Romanstr. 63: Fällung von 1 Kiefer
+- TOP 3.3.: Hirschgarten 1: Fällung von 1 Linde
+- TOP 3.4.: Herthastr. 40: Fällung von 1 Rotfichte und 1 Birke
+- TOP 3.5.: Nymphenburg-Biedersteiner-Kanal: Fällung von 8 Bäumen
+- TOP 3.6.: Baureferat: Fällung von 2 Spitzahorn an der Schule Winthirplatz 6 als Gefährenbäume
+- TOP 3.7.: Referat für Gesundheit und Umwelt: Mobilfunk, Suchkreismeldung a) Andreestraße b) Leonrodstraße
+- TOP 3.8.: Bürgeranliegen: Hundekottüten am Weg "An der Schlossmauer"
+- TOP 3.9.: Antrag FDP: Annahme von Altglas, Blech und Plastik am Wertstoffhof Arnulfstraße (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.10.: KVR: Umweltplaketten (Antrag BA 9 Nr. 1799 vom 19.01.10)
+- TOP 3.11.: Planungsreferat: Fällgenehmigung Dom-Pedro-Str. 19 (Schreiben BA 9 vom 10.02.10)
+- TOP 3.12.: Baureferat: Bäume vor Aiblingerstr. 9 (Schreiben BA 9 vom 10.02.10)
+- TOP 3.13.: Baureferat: Zustand öffentlicher Gebäude (Schreiben BA 9 vom 20.10.09)
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Antrag Lilalu e.V.: Zuschuss in Höhe von 5.000 ? für das Festival "Lilalu Umsonst & Draussen" vom 13.-29.08.10
+- TOP 3.2.: Antrag Lilalu e.V.: Zuschuss in Höhe von 5.000 ? für die Open Air Bühne für das Lilalu-Festival vom 13.-29.08.10
+- TOP 3.3.: Antrag auf Budgetbewilligung aus dem Eigenanteil des BA 9: Zuschuss i.H.v. 1.000 ? für das BA-Kinderfest am 13.06.10
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Bürgeranliegen: Spielplatz im Schulhof der Hirschbergschule
+- TOP 3.6.: Bürgeranliegen: Betreuungssituation Grundschulkinder / Antrag Soziale Stadt
+- TOP 3.7.: Lilalu e.V.: Lilalu Festival 2010; Mitveranstalter BA 9
+- TOP 3.8.: Antrag SPD: Schutz für die Mieter der GBW-AG - Wohnungen
+- TOP 3.9.: KVR: Veranstaltungen des Mütter-Väter-Zentrums Neuhausen auf dem Lazarettspielplatz: a) Spielplatzaktion vom 01.04.-31.10.10 jeweils Montag-Freitag von 15-18 Uhr b) Flohmarkt am 24.04., 15.05., 12.06., 17.07., 25.09. und 23.10.10 c) Familiensommerfest am 26.06.10
+- TOP 3.10.: Direktorium: Budget der Bezirksausschüsse; Angebote zur Gewaltprävention in der Schule
+- TOP 3.11.: Aktion Rollentausch der Wohlfahrtsverbände vom 23.04.-02.05.10
+- TOP 3.12.: Aktionstag für Familien am 30.04.10
+- TOP 3.13.: Beschlüsse des Kinder-und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 13.04.10: Zuschussnehmerdatei 2010; Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des a) Sozialreferates / Zentrale b) Amtes für Soziale Sicherung c) Stadtjugendamtes d) Amtes für Wohnen und Migration
+- TOP 3.14.: Antrag digitalanalog e.V.: Zuschuss in Höhe von 540 ? für den Workshop "Digitalanalog für Junges Publikum" im Frühjahr/Sommer 2010 (Wiedervorlage aus der Sitzung vom 16.03.10)
+- TOP 3.15.: Direktorium: Mehr Einflussmöglichkeiten für junge Menschen 1 (Wiedervorlage aus der Sitzung vom 16.03.10)
+- TOP 3.16.: Bayerisches Staatsministerium für Arbeit und Sozialordnung, Familie und Frauen: Förderung der offenen Behindertenarbeit im Löhe Haus (Schreiben BA 9 vom 16.03.10)
+- TOP 3.17.: Sozialreferat: Unterlagen zur Informationsveranstaltung Monitoring für die Bezirksausschüsse vom 04.03.10
+- TOP 3.18.: Städt. Adolf-Weber-Gymnasium: Ganztagsunterricht an den Gymnasien in München (Schreiben BA 9 vom 23.02.10)
+- TOP 3.19.: Sozialreferat: Einbürgerungsfeier am 20.04.10
+- TOP 3.20.: Sozialreferat: Entscheidung Weltkindertag 2010
+- TOP 3.21.: Schulreferat: Einrichtung von Hortplätzen in der Zweig-Grundschule Südliche Auffahrtsallee / Trojanostr. 15 (Schreiben BA 9 vom 14.12.09)
+- TOP 3.22.: REGSAM: Streetwork in Neuhausen (Schreiben BA 9 vom 14.12.09)
+- TOP 3.23.: Verwendungsnachweis für einen Zuschuss aus dem Budget, hier: Mütter-Väter-Zentrum Neuhausen
+- TOP 3.24.: Erfahrungsaustausch mit den Schulen des 9. Stadtbezirkes (Wiedervorlage aus der Sitzung vom 16.03.10)
+- TOP 3.25.: Sachbericht über einen Zuschuss aus dem Budget, hier: Kindergarten Zipfelmützen e.V.
+- TOP 3.26.: Sozialreferat: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 3.27.: Aufnahme in das Programm "Soziale Stadt" für den Bereich Rotkreuzplatz zum Steubenplatz (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.28.: KVR: Lilalu-Sommerfestival, Rücknahme der Nutzungsgebühren für 2009 (Empfehlung aus der Bürgerversammlung vom 24.11.09), Zwischennachricht
+- TOP 3.29.: Nachnutzung stadteigenes Anwesen Schulstr. 5
+- TOP 3.30.: Erholungspark Taxisstraße:
+- TOP 3.31.: Bürgeranliegen: Sorge um Erholungspark
+- TOP 3.32.: Verein Erholungspark: Petition; Bewerbung um Pachtvertrag
+- TOP 3.33.: Ergebnis der Ausschreibung ?
+- TOP 3.34.: Errichtung eines "Seniorenspielplatzes" ?
+- TOP 3.35.: Beschluss der Vollversammlung des Stadtrates vom 03.03.10: Perspektive München, Leitlinie "Kinder- und Familienpolitik"
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Antrag Initiative "Hide Out 2": Zuschuss in Höhe von 2.250 ? für das Bluesfest auf dem Rotkreuzplatz am 01.08.10
+- TOP 3.2.: Antrag Geschichtswerkstatt Neuhausen e.V.: Zuschuss in Höhe von 1.000 ? für die Herausgabe eines Kalenders für das Jahr 2011
+- TOP 3.3.: Geschichtswerkstatt Neuhausen e.V.: Veranstaltungen zum "Tag des offenen Denkmals" am 12.09.10
+- TOP 3.4.: Antrag CSU: Mehr Ausleih- und Rückgabeterminals in der neuen Bibliothek im Neuhauser Trafo (Wiedervorlage aus der Sitzung vom 23.02.10)
+- TOP 3.5.: Künstler im Atelierhaus Dachauer Str. 110g: Neubebauung des Geländes Dachauer Str. 100 - 110 (Schreiben BA 9 vom 23.02.10)
+- TOP 3.6.: Ausführung künstlerische Wandgestaltung Donnersbergerbrücke
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: KVR: Maifeier des Vereins der Freunde Neuhausens e.V. am 08.05.10 auf dem Rotkreuzplatz
+- TOP 4.2.: KVR: Europäische Jonglierconvention 2011, Voranfrage zur Nutzung der Grünanlage Olympiapark Süd
+- TOP 4.3.: KVR: Verschiedene Kundgebungen am 26.03.10 im Bereich der Wendl-Dietrich-Straße
+- TOP 4.4.: KVR: Kundgebungen "Für ein verfassungsgemäßes Bayerisches Versammlungsgesetz" am 26.03., 30.04., 28.05., 25.06., 30.07., 27.08., 24.09. 29.10.10 im Bereich Rotkreuzplatz / Wendl-Dietrich-Straße
+- TOP 4.5.: KVR: Verschiedene Kundgebungen am 30.04.10 in der Amelungenstr. 11, Gelfratstr. 11 und Lorschstr. 11
+- TOP 4.6.: KVR: Drehgenehmigungen a) "Der Bär" am 07.04.10 am Rainer-Werner-Fassbinder-Platz b) "Adel Hoch" am 14. oder 15.04.10 in der Ysenburgstr. 2
+- TOP 4.7.: KVR: Pächterwechsel a) "Fasaneriehof", Fasaneriestr. 3 c b) "Thaihaus", Hilblestr. 20
+- TOP 4.8.: Tombola "Für München": Container der Tombola am Rotkreuzplatz (Schreiben BA 9 vom 15.12.09)
+- TOP 4.9.: =&gt; dazu: KVR: Erlaubnisbescheid
+- TOP 4.10.: Beschluss des Kreisverwaltungsausschusses vom 23.03.10: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP 4.11.: Oberbürgermeister Ude: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 5: Verschiedenes
