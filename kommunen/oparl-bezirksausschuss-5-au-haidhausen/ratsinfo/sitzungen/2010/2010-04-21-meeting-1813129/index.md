@@ -1,0 +1,108 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-04-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813129
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813129
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anträge
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: digitalanalog e.V.: Workshop ?Digitalanalog für junges Publikum? (aus 03/10 vertagt)
+- TOP 6.1.2.: Alten- und Service-Zentrum Haidhausen: Flohmarkt am 08.05.2010
+- TOP 6.1.3.: Lilalu e.V.: Festival ?Lilalu Umsonst & Draußen? vom 13. bis 29.08.2010
+- TOP 6.1.4.: Eigene Veranstaltung: Seifenkistlrennen am 25.07.2010
+- TOP 6.2: BA-Beschlüsse zur Erledigung von Bürgerversammlungs-Empfehlungen
+- TOP 6.2.1.: Schneeräumung auf dem gesamten Gehweg in der Nockherstraße , Ziffer 3 des Antrags - <div></div>
+- TOP 2: (E) Behindertengerechter Zugang zur Mariahilfkirche Empfehlung Nr. 08-14 / E 00540 .............. - <div></div>
+- TOP 3: (E) Öffnung des Alten- und Servicezentrums Untergiesing für die untere Au Empfehlung Nr. 08-14 / E 00536 ....................... - <div></div>
+- TOP 7.1.: Teilnahme am Internationales Stadtteilfest am 04.07.2010 auf dem Johannisplatz? (Erstes Vorbereitungstreffen am 26.04. um 19 Uhr im AKA, Rosenheimer Str. 123)
+- TOP 8.1: Erledigte BA-Anträge und Anfragen
+- TOP 8.1.1.: Anmietverträge für Baucontainer
+- TOP 8.1.2.: Verwendung von Stellplatzablösemitteln für die Anwohnertiefgaragen Welfenstraße und Orleansstraße
+- TOP 8.1.3.: Überprüfung der Baumgräben im Stadtbezirk 5
+- TOP 8.1.4.: Wiederherstellung der Poller an der Fußgängerzone Preysingstraße
+- TOP 8.2: Unterrichtungen und Informationen (vgl. schriftliche Infos)
+- TOP 8.3: Eilentscheidungen der Vorsitzenden gem. § 20 der BA-Satzung
+- TOP 8.3.1.: Weißenburger Platz: Aufstellung eines Pavillons ?Zentrum des Zuhörens? während des Ökumenischen Kirchentags (13.-15.05.2010)
+- TOP 1: Kinder und Jugend
+- TOP 2: Behinderte und Barrierefreiheit
+- TOP 3: Ausländer und Flüchtlinge
+- TOP 4: Frauen und Mädchen
+- TOP 5: Internet
+- TOP 6: Regsam
+- TOP 7: Baumschutz
+- TOP 7.1.: Rosenheimer Str. 4: 1 Akazie
+- TOP 7.2.: Nockherstr. 26-38 a: 1 Ahorn
+- TOP 7.1.: ?Projektraum Haidhausen?, Milchstr. 4: Vorstellung des Konzeptes im UA
+- TOP 7.2.: Beteiligung am Sommerfest auf dem Wiener Platz? Anfrage der Markthallen München
+- TOP 7.3.: Beteiligung am Tag des offenen Denkmals am 12.09.2010 unter dem Motto ?Kultur und Bewegung ? Reisen, Handel, und Verkehr??
+- TOP 7.4.: Unsere Straßen ? Unsere Stadt III Schreiben der Janusz Kozminski Filmproduktion vom 17.03.2010
+- TOP 7.5.: Einladung Freies Musikzentrum
+- TOP 0.1.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung
+- TOP 0.2.: Monitoring für das Sozialreferat ? Tabellenband 2007-2008 Stadtkarten für die vier Indikatoren
+- TOP 0.3.: Stammsteher auf dem Orleansplatz: Bedarf für psychiatrische Betreuung
+- TOP 0.4.: Wohnungsmarkt München: Expertenbefragung 2009 Bekanntgabe im Planungsausschuss vom 10.03.2010
+- TOP 0.1.: s.o., TOP 6.1
+- TOP 0.2.: Veranstaltungen: 1. Isarinselfest: Vorstellung des Festprogramms durch die Veranstalter 2. Ausstellung/Stadtteilfest ?Art in Au? vom 25. bis 27.06.2010
+- TOP 0.3.: Bauvorhaben bzw. Nutzungsänderungen aus dem Bereich Gewerbe/Gaststätten: 1. Rosenheimer Str. 6: Nutzungsänderung eines Bäckereiladens in eine Kleingaststätte mit afghanischen Spezialitäten (ohne bauliche Änderungen)
+- TOP 0.4.: Werbeanlagen 1. Welfenstraße: 1 Werbetafel (befristet von April 2010 bis April 2011)
+- TOP 0.5.: Kein Google Street View in Trudering-Riem Antrag des BA 15 vom 02.03.2010 mit der Bitte um Unterstützung durch andere BAe
+- TOP 0.6.: ?Wein Cantina?, Elsässer Str. 23: Abdruck der Baugenehmigung
+- TOP 0.7.: Keine Vergnügungsstätten in der Inneren Wiener Straße
+- TOP 0.1.: Bauvorhaben Preysingplatz 14 ? Vorbescheid: Neubau ?Kinderhaus St. Josefsheim
+- TOP 0.2.: Bauvorhaben Johannisplatz 16 - Vorbescheid: Abbruch und Neubau eines Wohngebäudes mit Laden im EG
+- TOP 0.3.: Bauvorhaben Mariahilfstr. 1: Errichtung einer Dachterrasse
+- TOP 0.4.: Bauvorhaben Pariser Str. 21: DG-Ausbau, Anbau Fassadenlift
+- TOP 0.5.: Bauvorhaben Prinzregentenstr. 64: Nutzungsänderung einer Wohnung in eine Arztpraxis (2. OG)
+- TOP 0.6.: Bauvorhaben Entenbachstr. 29: Errichtung eines zweiten Rettungsweges und Anbau einer Pförtnerloge
+- TOP 0.7.: Mitteilungen der LBK zu Stellungnahmen des BA 1. Tektur Bazeillesstr. 19 (Baugenehmigung) 2. Ismaninger Str. 22
+- TOP 0.8.: Wohnungsmarkt in München ? Expertenbefragung 2009 Bekanntgabe im Planungsausschuss vom 10.03.2010
+- TOP 0.1.: s.o., TOP 6.2
+- TOP 0.2.: Fahrradabstellplatzkonzept (1. Realisierungsabschnitt): a) Ergebnisse der Detailuntersuchungen und weiteres Vorgehen, b) Kostendarstellung, c) Anträge Anhörung zur Beschlussvorlage für den Bauausschuss
+- TOP 0.3.: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP 0.4.: Anhörung zu geplanten verkehrsrechtlichen Anordungen: 1.Eduard-Schmid-Str. 18: Aufhebung des eingeschränkten Haltverbots 2. Lichtzeichenanlage Prinzregenten-/Wagenbauerstraße: Probeweise Abschaltung 3. Schwarzstr. 1: Einrichtung eines personenbezogenen Behindertenparkplatzes
+- TOP 0.5.: Erhalt der Fahrradabstellplätze am Ostbahnhof
+- TOP 0.6.: Entfernung des Grünen Pfeils an der Kreuzung Preysingstraße/Innere Wiener Straße Antwort des KVR auf das BA-Schreiben vom 21.01.2010
+- TOP 0.7.: Mangelnder Winterdienst am Zugang zu S-Bahn-Station Rosenheimer Platz; Zustand der S-Bahn-Stationen Rosenheimer Platz und Isartor Antwort der Deutschen Bahn auf das BA-Schreiben vom 25.02.2010
+- TOP 0.8.: Schulweghelfer an der Kreuzung Flurstraße/Einsteinstraße Antwort des Kreisverwaltungsreferats auf Bürgerbeschwerden und BA-Schreiben
+- TOP 0.9.: Verkehrssituation am Einkaufszentrum ?daseinstein? Schreiben der Betreibergesellschaft vom 02.03.2010
+- TOP 0.10.: Ertüchtigung des Bahnknotens München: 1. 2. S-Bahn-Stammstrecke 2. Schienenanbindung des Flughafens Beschlussvorlagen der Vollversammlung vom 24.03.2010
+- TOP 0.11.: Ostbahnhof: Plangenehmigungsbescheid für den barrierefreien Ausbau des Bahnsteiges E
+- TOP 0.12.: Preisanpassung an den P+R-Anlagen im Stadtgebiet München zum 01.05.2010 Beschlussvorlage für den Kreisverwaltungsausschuss vom 23.03.2010
+- TOP 0.13.: Nutzung erneuerbarer Energien im Städtebau Beschlussvorlage für den Planungsausschuss vom 10.03.2010
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Unterausschuss-Sitzungen
+- TOP 2.1.: UA Wohnen, Arbeit u. Soziales, Mo. 03.05.2010, 19.30 Uhr, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 2.2.: UA Kultur, Mi. 05.05.2010, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24
+- TOP 2.3.: UA Planung und Stadtentwicklung, Mi. 05.05.2010, 19.30 Uhr, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 2.4.: UA Gesundheit, Umwelt und Verkehr, Mo. 10.05.2010, 19.00 Uhr, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 2.5.: UA Wirtschaft, Di., 11.05.2010, 19.30 Uhr, Stadtteilbüro der MGS, Weißenburger Platz 4
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.6.: Mittwoch, 19.05.2010, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4: Sonstige Termine
+- TOP 4.1.: ?Münchner Mittelschulen mit individueller Förderung?: Informationsveranstaltung des Münchner Lehrer- und Lehrerinnenverbands e.V. für BA-Vorsitzende, Schulbeauftragte und Schulleiter am Dienstag, 04.05.2010, 18 bis 19.30 Uhr, Bavariaring 37
+- TOP 6: Sachverhalte zur Entscheidung (1)
+- TOP 7: Sachverhalte zur Anhörung (1)
+- TOP 8: Sachverhalte zur Unterrichtung (1)
+- TOP 0: Sachverhalte zur Anhörung (2)
+- TOP 0: Sachverhalte zur Unterrichtung (2)
+- TOP 0: Sachverhalte zur Entscheidung (2)
+- TOP 0: Sachverhalte zur Anhörung (3)
+- TOP 0: Sachverhalte zur Unterrichtung (3)
+- TOP 0: Sachverhalte zur Anhörung (4)
+- TOP 0: Sachverhalte zur Unterrichtung (4)
+- TOP 0: Sachverhalte zur Entscheidung (3)
+- TOP 0: Sachverhalte zur Anhörung (5)
+- TOP 0: Sachverhalte zur Unterrichtung (5)
+- TOP 8.1.5.: Lucile-Grahn-Straße: Maßnahmen gegen Lärmbelästigung der Anwohner durch Belieferung der Tengelmann- und Müller-Brot-Filialen
