@@ -1,0 +1,76 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-04-21T17:00:00+02:00
+- Ende: 2010-04-21T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1696
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1696
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Straßenbaumpflanzungen in Steglitz-Zehlendorf - beantwortet
+- TOP 3.2: Stellenbesetzung an der Quentin-Blake-Europaschule - beantwortet
+- TOP 3.3: Kosten für einige W-Lan-Anschlüsse für mindestens 100.000 € plus laufende Kosten von ca. 25.000 € pro Jahr? - beantwortet
+- TOP 3.4: Erneute Nacht-und-Nebel-Aktion im Schulamt: Das Aus für ehrenamtliche Cafeterien an Schulen mit einem Handstreich! - beantwortet
+- TOP 3.5: Weitere Abwicklung im Klinikum Benjamin Franklin - beantwortet
+- TOP 3.6: Wochenmarkt am Rathaus Zehlendorf - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitswahlvorschläge - erledigt
+- TOP 4.1.1: Wahl eines stellvertretenden Mitgliedes für den Widerspruchsbeirat in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines Mitgliedes für den Widerspruchsbeirat in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.3.1: Berufung eines beratenden Mitglieds als Vertretung der Katholischen Kirche in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Haushaltsangelegenheiten: Sondermittelanträge - erledigt
+- TOP 4.4.1: Sondermittel der BVV für das Outreach-Team Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Sondermittel der BVV für Runde Tische Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bebauungsplan 6-13 (Karstadt/Wertheim, Schloßstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Ehrenamtliche Tätigkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Tore für den Sportplatz des OSZ Immenweg - in der BVV abgelehnt
+- TOP 4.6.3: Fahrradstellplätze für den S-Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Bestandschutz von Sportanlagen gegenüber intoleranten (Neu)-Anwohnern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Jahrgangsübergreifendes Lernen (JÜL) freiwillig weiterführen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Ladiusstraße - Halbseitiges Parken wieder zulassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Bürgerwillen in der Schorlemerallee umsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Stau Potsdamer Straße auflösen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Temporärer grüner Pfeil für die Curtiusstraße - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Dialogdisplay für die Gärtnerstraße, 12207 Berlin - überwiesen
+- TOP 5.1.2: Fußgängerfreundliche Ampeln - überwiesen
+- TOP 5.1.3: Fahrradstreifen in der Schloßstraße - überwiesen
+- TOP 5.1.4: Parken im Laehrschen Jagdweg - überwiesen
+- TOP 5.1.5: Hortbetreuung - überwiesen
+- TOP 5.1.6: Umbenennung der Takustraße in Konrad-Zuse-Straße - überwiesen
+- TOP 5.1.7: Anpassung der Kreuzung Ahlener Weg an den Abbiegeradius M 85 - überwiesen
+- TOP 5.1.8: Die Fortbildungsverpflichtung der Lehrkräfte dokumentieren - überwiesen
+- TOP 5.1.9: Keine Spielhöllen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.10: Beitritt zur Deklaration "Biologische Vielfalt in Kommunen" - überwiesen
+- TOP 5.1.11: Anpassung der Abbiegespur Schloßstraße in die Schildhornstraße an den Ausschwenkbereich der Busse - überwiesen
+- TOP 5.1.12: Information über Inklusive Schulen im Bezirk - überwiesen
+- TOP 5.1.13: Lankwitz endlich für den Frühling 2010 fit machen! - überwiesen
+- TOP 5.1.14: Förderung des Fahrradverkehrs in der Moltkestraße vor der Kronachschule - überwiesen
+- TOP 5.1.15: "Traumberuf Chef" - überwiesen
+- TOP 5.1.16: Schließung des Geister-Wochenmarktes Steglitzer Damm - überwiesen
+- TOP 5.1.17: Verlegung der Bushaltestelle Sundgauer Straße - überwiesen
+- TOP 5.1.18: Wanderausstellung "Auf dem Dienstweg" in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.19: Schwimmbad am Ostpreußendamm - überwiesen
+- TOP 5.1.20: Zaun "Elfi-Wiese" - überwiesen
+- TOP 6: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 6.1: Sondermittel der BVV für das Nachbarschaftsheim Mittelhof e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Inklusion an Grundschulen in Steglitz-Zehlendorf - beantwortet
+- TOP 7.2: Ist die "schwarz-grüne Erinnerungspolitik" eingeschlafen? - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Warteräume in den Bürgerämtern früher öffnen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: "Ehrenamt" im Schulunterricht - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Vorstehers - erledigt
