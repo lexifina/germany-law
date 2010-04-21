@@ -1,0 +1,144 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-04-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1871838
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1871838
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Bebauungsplan 2034 Lochhausen, Umfahrung Olching (UA Planung)
+- TOP 2.2.: Hundekotbeutel und Abfallbehälter (UA Planung)
+- TOP 2.3.: Wegzustand in der Aubinger Lohe - Wiedererrichtung von Verbotsschilder für Reiter (UA Planung)
+- TOP 2.4.: Verlängerung der Haltverbotszone am Ende der Federseestraße bis zur Einfahrt Ziegeleistraße (UA Planung)
+- TOP 2.5.: Entfernung des Mülls neben den Containern am S-Bahnhof Aubing
+- TOP 2.6.: Verkehr Lichteneckstraße - Neuplanung Wohngebiet an der Aubing-Ost-Straße
+- TOP 2.7.: Kirchenbau auf dem Grundstück an der Kastelburg-/Industriestraße für rumänisch-orthodoxen Bischofsitz
+- TOP 2.8.: Schrottplatz Brachvogelplatz
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen zu einem Bauvorhaben - Johannes-Tanner-Str. 5, gem. Baumbestandsplan Nr. 2010-3621 (vertagt aus 03/10) - Schussenrieder Str. 3, gem. Baumbestandsplan Nr. 2010-3731 (vertagt aus 03/10) - Sandbergstr. 12, gem. Baumbestandsplan Nr. 2010-3805 (vertagt aus 03/10) - Reußensteinstraße, Gemarkung Aubing Fl.Nr. 2064/22, gem. Baumbestandsplan Nr. 2010-3780 (vertagt aus 03/10) - Aubinger Str. 101, gem. Baumbestandsplan Nr. 2010-4722 - Hoheneckstr. 25, gem. Baumbestandsplan Nr. 2009-30870 (N) - Federseestr. 1, gem. Baumbestandplna Nr. 2010-6536
+- TOP 3.2.: Baumfällungen auf Anforderung - Reichenaustr. 18-20, 1 Ahorn, 1 Hainbuche - Roggensteiner Weg 4, 2 Birken - Kunreuthstr. 36, 1 Ahorn - Kunreuthstr. 35-43, 1 Ahorn - Dinkelsbühler Str. 32, 1 Spitzahorn - Aufseßer Str. 8, 1 Arve - Aubinger Str. 77, 1 Zypresse
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Aufnahme des "Abenteuer"-Spielplatzes am Westkreuz in das Ameisenbekämpfungsprogramm
+- TOP 4.2.: Neue Mitbürger aus Freiham-Süd willkommen heißen
+- TOP 4.3.: Beseitigung des Winterstreuguts
+- TOP 4.4.: Komplette Fahrtroute der Buslinie 143 bis zur Endhaltestelle Riesenburgstraße auch an Samstagen, Sonn- und Feiertagen
+- TOP 4.5.: Wertstoffinsel für Freiham Süd
+- TOP 4.6.: Verhandlungen zwischen Kommunalreferat und Eigentümer des Grundstücks östlich der Kinderkrippe Thuisbrunner Straße bzgl. Eintragung einer Dienstbarkeit und Herstellung des Kieswegs
+- TOP 4.7.: Verbesserung der Fahrradabstellmöglichkeiten am Bahnhof Neuaubing
+- TOP 4.8.: Entlastung der Kreuzung Aubinger Straße / Hellensteinstraße, stärkere Absicherung der Querungsmöglichkeit Aubinger Straße auf Höhe der Kirche St. Lukas
+- TOP 4.9.: Beseitigung der Straßenverunreinigungen im Zufahrtsbereich der Großbaustelle Colmdorfstraße
+- TOP 4.10.: Verlegung der Straßenmarkierung Langwieder Haide / Mühlangerstraße
+- TOP 4.11.: Reinigung der Unterführung im S-Bahnhof Aubing
+- TOP 4.12.: Überprüfung und Verbesserung der Situation an der südlichen Einmündung der Ubostraße in die Altostraße
+- TOP 5: Entscheidungen
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Fassl Club Lochhausen e.V. (UA Budget)
+- TOP 5.4.: Entscheidung über die Projektplanung, Projektname: Kronwinkler Straße zwischen Bergson- und Kastelburgstraße
+- TOP 5: (E) Bolzplatz oder Abenteuerspielplatz in Aubing Empfehlung Nr. 08-14 / E 00310 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 30.06.2009 Gelände für Bolzplatz in Alt-Aubing BA-Antrags-Nr. 08-14 / B 01435 des Bezirksausschusses des Stadtbezirkes 22 Aubing-Lochhausen-Langwied vom 19.08.2009
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung, Anhörung Sozialreferat vom 09.03.10 (vertagt aus 03/10)
+- TOP 6.2.: Veranstaltung auf öffentlicher Grünanlage; Dorffest der Maibaumfreunde Langwied e.V. am Waidachanger 7a am 30.05.10, Anhörung KVR vom 30.03.10
+- TOP 6.1.: EU-Projekt "Child-Friendly-Cities", Schreiben Sozialreferat vom 18.03.10
+- TOP 6.2.: Freizeit Sportstätten; Anbringen von Mülleimern; Sitzbänke zwischen Lochhausen und Langwied; Anbringung bzw. Verbesserungen von Beleuchtungen; Öffentliche Toilettenanlagen (Ziffer 1.1-1.14 und 2, 3, 5, 6), Schreiben Baureferat vom 22.03.10 und 24.03.10
+- TOP 6.3.: Unterlagen zur Informationsveranstaltung für die BAs am 04.03.10, Monitoring für das Sozialreferat, Schreiben Sozialreferat vom 18.03.10
+- TOP 6.4.: Aktionstag "München gewinnt mit Familien" am 30.04.10, Schreiben Sozialreferat vom 24.03.10
+- TOP 6.5.: Karte zur Informationsveranstaltung für die BAs vom 04.03.10, Schreiben Sozialreferat vom 24.03.10
+- TOP 6.6.: Grund- und Hauptschule an der Wiesentfelser Straße; keine Umwandlung in Mittelschule; Einrichtung einer Arbeitsgruppe, Schreiben Schulreferat vom 23.03.10
+- TOP 6.7.: Veranstaltungen des Kulturreferats im April 2010, Schr. Kulturreferat vom 29.03.10
+- TOP 6.8.: Helfer vor Ort - Aubing, Akzeptanz in der ILST München, Schreiben KVR vom 30.03.10
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Antrag auf Budgetmittel - Verwendung für eigene Veranstaltung "Tag der Familie" am 30.04.2010
+- TOP 6.2.: Bescheid - Zuwendungsbewilligung aus Budgetmitteln des BA 22 für Burschenverein Aubing e.V., Schr. Direktorium vom 31.03.10
+- TOP 6.3.: Bescheid - Ablehnung einer beantragten Zuwendung aus Budgetmitteln des BA 24 für digitalanalog e.V., Schr. Direktorium vom 31.03.10
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Huislerstr. 3: Neubau eines Doppelhauses mit Duplex-Garage, Anhörung Planungsreferat vom 15.03.10
+- TOP 6.2.: Bodenseestr. 234: 2 beleuchtete Großflächen-Plakattafeln, Anhörung Planungsreferat vom 22.03.10
+- TOP 6.3.: Vollzug der Wassergesetze, Allgemeinverfügung für das Tauchen mit Atemgerät im Langwieder See, Anhörung Referat für Gesundheit und Umwelt vom 05.03.10
+- TOP 6.4.: Aubinger Str. 101: Neubau eines Wohnhauses (2 WE) mit Einzelgarage und Stellplatz, Anhörung Planungsreferat vom 24.03.10
+- TOP 6.5.: Neideckstr. 13: Neubau eines Wohnhauses (6 WE) mit Tiefgarage (6 Stpl.), Anhörung Planungsreferat vom 25.03.10
+- TOP 6.6.: Leistungsprogramm 2011 der MVG - Fahrplanwechsel Dezember 2010, Anhörung MVG vom 25.03.10
+- TOP 6.7.: Parsberger Str. 7: Neubau eines Wohnhauses mit 2 WE und Carport, Anhörung Planungsreferat vom 01.04.10
+- TOP 6.8.: Limesstr. 46: Errichtung von Balkonen, Anhörung Planungsreferat vom 31.03.10
+- TOP 6.9.: Thuisbrunner Str. 15: Neubau eines Doppelhauses mit Garage bzw. Carport, Anhörung Planungsreferat vom 31.03.10
+- TOP 6.10.: Limesstr. 39: Neubau eines Mehrfamilienhauses mit Laden und Tiefgarage - Vorbescheid, Anhörung Planungsreferat vom 31.03.10
+- TOP 6.11.: Fahrradabstellplatzkonzept (1. Realisierungsabschnitt), Anhörung Baureferat vom 31.03.10
+- TOP 6.12.: Mobilfunk - Suchkreismeldung: vorgesehene UMTS-Erweiterung am bestehenden Standort Langwied, Flurstück-Nr. 502/2, Anhörung Referat für Gesundheit und Umwelt vom 26.03.10
+- TOP 6.1.: Baumaßnahmen der Stadtwerke, Stichtag: 15.03., 22.03.10, 29.03.10
+- TOP 6.2.: Baufälle im 22. Stadtbezirk (v. 01.03.-07.03.,08.03.-14.03.,15.03.-21.03., 22.03.-28.03.10), Schreiben Planungsreferat vom 16.03., 22.03.10, 29.03.10
+- TOP 6.3.: Änderung von Hinweisschildern auf der A 99 und A 8 sowie innerstädtisch an der Kreuzung Mühlangerstraße / An der Langwieder Haide, Schreiben BA 21 Pasing-Obermenzing vom 12.03.10
+- TOP 6.4.: Errichtung von Buswartehäuschen an den Haltestellen Riesenburgstraße, Kunreuthstraße und Colmdorfstraße (Südseite) der Linie 143, Schreiben MVG vom 15.03.10
+- TOP 6.5.: Laufende Diskussion um den künftigen Rehwild-Abschussplan des städtischen Eigenjagdreviers Moosschwaige, Schreiben KVR vom 12.03.10 und 08.04.10
+- TOP 6.6.: Öffentliche Toilettenanlagen an der S-Bahnstation Westkreuz (Ziffer 6 des Antrages), Schreiben Referat für Arbeit und Wirtschaft vom 08.03.10
+- TOP 6.7.: Baumfällung Brunham- / Ecke Papinstraße - Antrag auf Neupflanzung, Schreiben Baureferat vom 22.03.10
+- TOP 6.8.: Fußweg zwischen Reichenaustraße und Hochhaus "Ramses", Schreiben Baureferat vom 10.03.10
+- TOP 6.9.: Lärmmessung an der Einmündung Kallenbergstraße in die Rupert-Bodner-Straße, Schreiben Referat für Gesundheit und Umwelt vom 09.03.10
+- TOP 6.10.: Gefahrenzone für Radfahrer in der Wichnantstraße; hier Vergleich: Wichnantstraße - Freihamer Weg, Schreiben KVR vom 08.03.10
+- TOP 6.11.: Erstellung eines Verkehrskonzeptes für den 22. Stadtbezirk, Schreiben Planungsreferat vom 08.03.10
+- TOP 6.12.: Personelle Veränderungen in der Lokalbaukommission, Schreiben Planungsreferat vom 03.03.10
+- TOP 6.13.: Mitteilung über ein Grundstücksgechäft: - Schussenrieder Straße, Schreiben Kommunalreferat vom 03.03.10 - Kronwinkler Straße, Schreiben Kommunalreferat vom 31.03.10
+- TOP 6.14.: Sachstandsbericht zu Bürgerversammlungsempfehlungen; Nr. 42 vom 03.07.08 "Bebauung Gleisdreieck Pasing: verkehrstüchtige Bahnunterführung Bodenseestraße", Nr. 302 vom 02.07.09 "Verkehrstüchtiger Ausbau der Bahnunterführung Bodenseestraße (Höhe Gleisdreieck", Nr. 759 vom 02.07.07 "Ausbau der Eisenbahnunterführung Bodenseestraße" und Nr. 118 vom 28.06.05 "Höhenbeschränkung der Limesunterführung auf 3,50m", Schreiben Planungsreferat vom 05.03.10
+- TOP 6.15.: Sachstandsbericht zur Bürgerversammlungsempfehlung Nr. 303 vom 02.07.09 "Verhinderung der Zu- und Abfahrt zum Gewerbegebiet Bodenseestraße 226/228 durch das Wohngebiet Zwernitzer Straße
+- TOP 6.16.: Erhalt der Sperrung für den Verkehr in der Voglerstraße, Schreiben Planungsreferat vom 04.03.10
+- TOP 6.17.: Arbeiten im Straßenraum, Wiesentfelser Straße, Fahrbahnsanierung, Schreiben KVR vom 12.03.10
+- TOP 6.18.: Rad- und Fußwegunterführung an der S-Bahnstation Lochhausen: Errichten von Beleuchtungen am Fahrradständer auf der Nordseite, Schreiben Baureferat vom 12.03.10
+- TOP 6.19.: Schaffung von 4 Kurzzeitparkplätzen in Lochhausen an der Lochhausener Straße, Schreiben KVR vom 16.03.10
+- TOP 6.20.: Brunhamstraße / Ecke Papinstraße, Anfrage zu Werbetafeln, Schreiben Planungsreferat vom 16.03.10
+- TOP 6.21.: Bodenseestr. 234, 4 Werbetafeln, Schreiben Planungsreferat vom 18.03.10
+- TOP 6.22.: Bodenseestr. 230, Nutzungsänderung der Fläche zu Parkplatz und zu Parkplatz für Gebrauchtwagenhändler, Schreiben Planungsreferat vom 18.03.10
+- TOP 6.23.: Zweckentfremdung von Wohnraum, Hoheneckstraße, Schreiben Sozialreferat vom 22.03.10
+- TOP 6.24.: Wiesentfelser Straße, Sanierung der Fahrbahn zwischen Limesstraße und Hausnr. 57, Schreiben Baureferat vom 22.03.10
+- TOP 6.25.: Durchgangsverkehr auf der Kronwinkler Straße zwischen Aubing-Ost-Straße und der Kastelburgstraße, welche in diesem Bereich als Spielstraße ausgewiesen ist, Schreiben KVR vom 17.03.10
+- TOP 6.26.: Fehlende Wegbeleuchtung in der Grünanlage zwischen Kastelburgstraße und Aubing-Ost-Straße Höhe der Hornberger Straße, Schreiben Baureferat vom 29.03.2010
+- TOP 6.27.: Wiesentfelser Str. 74 - Verlegen einer Fernwärmeleitung, Schreiben KVR vom 01.04.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Gestaltung von U-Bahnhöfen - Satzungsänderung, Anhörung Direktorium vom 09.04.10
+- TOP 7.2.: Mobile Spielaktionen im Jahr 2010 auf diversen städtischen Grünanlagen beantragt durch den Spiellandschaft Stadt e.V., Anhörung KVR vom 15.04.10
+- TOP 7.3.: Nachqualifizierung der Denkmalliste; hier: Münchner Dorfkernensembles - Langwied, Lochhausen, Anhörung Planungsreferat vom 13.04.10
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Münchner Statistik, 3. Quartalsheft Jahrgang 2009
+- TOP 8.2.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung, Schr. des Oberbürgermeisters vom 01.03.10
+- TOP 8.3.: Wirtschafts-Info 03/2010, Schr. Referat für Arbeit und Wirtschaft vom 30.03.2010
+- TOP 8.4.: Zweckentfremdung von Wohnraum: Taubertalstraße, Schreiben Sozialreferat vom 06.04.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: Feuerwerk in der Trimburgstr. 2 am 08.05.10, Schreiben KVR vom 22.03.10
+- TOP 9.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Arbeiten im Straßenraum: Bahnübergang "Germeringer Weg" - Umbauarbeiten im Auftrag der DB AG, Schr. KVR vom 25.03.10
+- TOP 9.4.: Informationsflyer "Baumaßnahmen der SWM" - 1. Halbjahr 2010, Schr. SWM vom 07.04.10
+- TOP 9.5.: Baumaßnahmen der SWM - Fernwärmeprojekt Ehrenbürgstraße, Schr. SWM vom 16.04.10
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung vom 03.03.10: - Stadt bezieht Stellung gegen die Initiative des bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung - Perspektive München, Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1"Kinder- und familienfreundliches Wohnen", Empfehlungen für kinder- und familiengerechtes Wohnen, Maßnahmen zur Verbesserung der Wohnberatung (UA Soziales) - Änderung der Satzung für die Bezirksausschüsse der LH München, 1. Vorberatungen in der BA-Satzungskommission, a) Anhörungsrecht für BAs bei Dreharbeiten und Baugenehmigungen, b) Änderung der BA-Satzung: Unterrichtungsrecht bei der Neukonzeption von Ampeln und Ampelschaltungen, c) Änderung des Katalogs der Fälle der Entscheidungen, Anhörungen und Unterrichtungen der BAs; Unterrichtung bzw. Anhörung bei der Genehmigung von Baumaßnahmen nach Erhaltungssatzung, d) Schaffung von Jugendbeauftragten in der BA-Satzung, 2. Umsetzung der Empfehlungen in eine Änderungssatzung
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.10: - Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern - Nutzung erneuerbarer Energien in Städtebau - Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept (UA Planung) - Bebauungsplan Nr. 1536, Bergsonstraße (südlich), Industriestraße (westlich), Lidelstraße (nördlich) (Aufhebung des Aufstellungsbeschlusses), (UA Planung) - Bebauungsplan mit Grünordnung Nr. 1633 a, Kronwinkler Straße zwischen Bergsonstraße und Kastelburgstraße (Teiländerung des Bebauungsplanes Nr. 1401), Satzungsbeschluss (UA Planung)
+- TOP 10.3.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.03.10: - EU Projekt "POLIS" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Potenziale mittels lokaler Strategie in Städtebau und strategischer Planung (UA Planung) - Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009 (UA Planung) - Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.09-31.12.09 - Wohnungsmarkt München Expertenbefragung 2009
+- TOP 10.4.: Beschluss des Kreisverwaltungsausschusses vom 23.03.10: - Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung - Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.10
+- TOP 10.5.: Beschluss der Vollversammlung vom 24.03.10: - Ertüchtigung des Bahnknotens München, Schienenanbindung des Flughafens (UA Planung) - Ertüchtigung des Bahnknotens München, 2. S-Bahn-Stammstrecke
+- TOP 10.6.: Bekanntgabe in der Vollversammlung vom 24.03.10: - EU-Projekt Child Friendly Cities, Bekanntgabe über das Ergebnis des Antrags zur Beteiligung am Interreg IVB Nordwesteuropa-Projekt zur Verbesserung der Kinder- und Jugendfreundlichkeit von Städten (UA Soziales)
+- TOP 10.7.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.10: - Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (UA Soziales) - Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (UA Soziales) - Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (UA Soziales) - Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich " Föderung freier Träger" des Amtes für Soziale Sicherung (UA Soziales)
+- TOP 10.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.10: - Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept (UA Planung)
+- TOP 10.9.: Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.10: - Bekämpfung von Ameisen in Kinderspielbereichen (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Einladung zum 8. Fachgespräch der Münchner Wohnungswirtschaft am 13.04.10 im Bauzentrum München
+- TOP 11.2.: Protokoll und Einladung zum nächsten Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse in der Gleichstellungsstelle für Frauen am 30.06.2010
+- TOP 11.3.: Aktionsforum für Familien - Münchner Aktionstag für Familien am 30.04.10, Einladung zur Auftaktveranstaltung im Alten Rathaussaal
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 5.3.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Kinder- und Jugendtreff Aubinger Tenne, KJR (UA Budget)
