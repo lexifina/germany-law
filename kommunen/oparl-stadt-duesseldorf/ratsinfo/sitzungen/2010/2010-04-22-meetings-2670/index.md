@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-04-22T17:00:00+02:00
+- Ende: 2010-04-22T19:36:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2670
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2670
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00139188.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00139188.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00139188.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Gutachten "Gesamtkonzept für ein verträgliches Miteinander von Nutzung und Naturschutz an Unterbache - zur Kenntnis genommen
+- TOP 4: FNPÄ141-Elbsee-Aufst.;BürgBet.Beh.Bet.öff.Ausl. - mehrheitlich beschlossen
+- TOP 5: Parkplatzneubau an der Festenbergstraße - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Kinder- und Jugendförderplan 2010-2014 - zur Kenntnis genommen
+- TOP 8: Zufahrt Parkplatz Eller - Mitte - einstimmig beschlossen
+- TOP 9: Ladezone Deutzer Straße 114 - mehrheitlich beschlossen
+- TOP 10: Parkscheibenregelung Vennhauser Allee 241 - vertagt
+- TOP 11: Abzug eines Altpapierdepotcontainers - einstimmig beschlossen
+- TOP 12: Trödelmärkte auf dem OBI-Parkplatz - einstimmig beschlossen
+- TOP 13: Grundschule Gerresheimer Landstraße 89 - einstimmig beschlossen
+- TOP 14: Gewerbegebiet Nördlich Königsberger Straße (Ost) - beantwortet
+- TOP 15: Seniorenzentren Plus im Stadtbezirk 8 - schriftlich beantwortet
+- TOP 16: Intensivierung der Verkehrsbegrünung im Stadtbezirk 8 - beantwortet
+- TOP 17: Verkehrsfläche Am Turnisch - beantwortet
+- TOP 18: Umzäunung Menzelsee - einstimmig beschlossen
+- TOP 19: Naherholungsgebiet Elbsee - einstimmig beschlossen
+- TOP 20: Buslinie 732 - Haltestelle In den Maisbanden - zurückgezogen
+- TOP 21: Bemalung von Schaltkästen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 22: Weihnachtsbeleuchtung auf dem Gertrudisplatz - einstimmig beschlossen
+- TOP 23: Parksituation am Schlosspark Eller - mehrheitlich beschlossen
+- TOP 24: U3 - Betreuung im Stadtbezirk 8 - vertagt
+- TOP 25: Gedenktafel Höherweg - einstimmig beschlossen
+- TOP 26: Unfall- und Kriminalstatistik im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 27: Straßenbeleuchtung Konradstraße - einstimmig beschlossen
+- TOP 28: Kleingarten S-Bahnhof Eller - einstimmig beschlossen
+- TOP 29: Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 30: Hochkreuz Friedhof Eller - einstimmig beschlossen
+- TOP 31: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 32: Umgestaltung Gertrudisplatz - zur Kenntnis genommen
+- TOP 33: Unterfluranlage Lierenfelder Plätzchen - zur Kenntnis genommen
+- TOP 34: Feuerwache Unterbach - zur Kenntnis genommen
+- TOP 35: Parkplatz Gumbertstraße 178, Netto-Markt - zur Kenntnis genommen
+- TOP 36: Hundeauslaufplatz ehem. Sportplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 37: Toilettenanlage Wasserspielplatz Tannenhofweg - zur Kenntnis genommen
+- TOP 38: Öffnung der Lehrerparkplätze am Riehl-Kolleg - zur Kenntnis genommen
+- TOP 39: Veranstaltungen auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 40: Masterplan Kinderspielplätze - zur Kenntnis genommen
+- TOP 41: Renaturierung Tannenhofweg - zur Kenntnis genommen
+- TOP 42: Führung der Straßenbahnlinie 715 und barrierefreier Einstieg an U 75 - Haltestellen - zur Kenntnis genommen
+- TOP 43: Georg-Schulhoff-Realschule, Kamper Weg - zur Kenntnis genommen
+- TOP 44: Unterbacher See, Vergrämung der Gänse - zur Kenntnis genommen
+- TOP 45: Unterbacher See, Sonnenschutz - zur Kenntnis genommen
+- TOP 46: Aktion Blühendes Düsseldorf, Blumenkübel - zur Kenntnis genommen
+- TOP 47: Sicherung der Uferzonen im Elbsee - zur Kenntnis genommen
+- TOP 48: Hochbordbahnsteige im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 49: "zentren plus" im Stadtbezirk 8 - zur Kenntnis genommen
