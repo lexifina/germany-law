@@ -1,0 +1,164 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2010-04-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869444
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869444
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.0.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.5: Nachbesetzung der Unterausschüsse
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1: (E) Kiesabgrabung Grünstreifen Haffstraße: uneingeschränkte Akteneinsicht für betroffene Anwohner und Erstellen eines Maßnahmenkatalogs zur zukünftigen Unterbindung solchen Versagens (Ziffer 3 und 4 des Antrags) Empfehlung Nr. 08-14 / E 00385 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem - am 01.10.2009 - <div>nach Antrag der Referentin</div>
+- TOP 1.2.: Freizeitgestaltung für Jugendliche, Freizeitsport im Teenageralter; Sitzungsvorlage Nr. 08-14 / V 03477 - <div>Zustimmung</div>
+- TOP 1.6.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Astrid-Lindgren-Straße Projekt "Kinder treffen Künstler" ab 29.03.2010 - <div>Zustimmung in Höhe von 2.250.-</div>
+- TOP 1.7.: (E) Budget der Bezirksausschüsse naturindianer-Kids gUG Kundschafter-Camp in Trudering im August und September 2010 - <div>abgelehnt</div>
+- TOP 1.8.: (E) Budget der Bezirksausschüsse naturindianer-Kids gUG Gewaltpräventionsprojekt v. Mai - Juli 2010 - <div>abgelehnt</div>
+- TOP 1.9.: (E) Budget der Bezirksausschüsse TSV Trudering e.V. Grundausstattung der neugegründeten Basketballabteilung - <div>Zustimmung</div>
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verschmutzung der Landshamerstraße - <div>WL an das Baureferat</div>
+- TOP 2.2.: Anfrage zur Planung von Fußgängerüberwegen - <div>nach Antrag</div>
+- TOP 2.3.: Schuhbecks Teatro in München Riem - <div>Zustimmung</div>
+- TOP 2.4.: Akustische Sanierungsmaßnahmen an der Grundschule an der Turnerstraße - <div>Unterstützung des Anliegens der Grundschule</div>
+- TOP 2.5.: Bauprojekt Gymnasium an der Friedenspromenade, Trudering hier: Grundschule an der Markgrafenstraße, Truderinger Gymnasium: Abgrenzung der beiden Schulgelände - <div>Unterstützung des Anliegens der Grundschule</div>
+- TOP 2.6.: Erweiterung des Kindergartens in der Unnützstraße - <div>nach Antrag</div>
+- TOP 2.7.: Einschulung 2010 in der Messestadt Ost - Kapazitätsgrenzen in Grundschulen, Horten etc. - <div>Anfrage an das Schulreferat</div>
+- TOP 2.8.: Erstellung eines Sportentwicklungsplans für den BA 15 - <div>nach Antrag</div>
+- TOP 2.9.: Hundepoller in der Grünanlage in der Huchenstraße - <div>Der BA 15 fordert Tütenspener und Abfalleimer in diesem Bereich</div>
+- TOP 2.10.: Unsere Stadt unsere Straßen III, München Trudering-Riem - <div>Der BA 15 befürwortet einen Film über die Truderinger Str.</div>
+- TOP 2.11.: Geothermie in Waldtrudering Teil 2 - <div>nach Antrag</div>
+- TOP 2.12.: Einbeziehung der zu erwartenden Betriebskosten einschließlich der Zeitverluste und Unannehmlichkeiten für die Fahrgäste in die Debatte um die 2. Stammstrecke der S-Bahn - <div>zur Kenntnis genommen</div>
+- TOP 2.13.: Parksituation in der Ika-Freudenbergstraße (Alt-Riem) - <div>WL an das Planungs- bzw. Baureferat</div>
+- TOP 2.14.: Umstiegssituation am Leuchtenbergring - <div>nach Antrag</div>
+- TOP 2.15.: Wiedereinführung der Sperrmüllsammlung - <div>nach Antrag</div>
+- TOP 2.16.: Ferienbetreuung von Grundschulkindern - <div>nach Antrag</div>
+- TOP 2.17.: Neuregelung der Zuständigkeit des einzelnen Bezirksausschusses für nicht nur stadtteilbezogene Angelegenheiten - <div>zur Kenntnis genommen</div>
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Schlittenberg, In der Heuluss - Gefährdung durch nicht angeleinte Hunde
+- TOP 3.2.: Abstimmung von Baugenehmigungen öffentlich geförderter Wohnungen in der Messestadt Ost mit dem BA 15
+- TOP 3.3.: Kfz-Dichte in der Messestadt
+- TOP 3.4.: Parkflächen in der Messestadt (Frage 2)
+- TOP 3.5.: Aufnahme der Von-Erckert-Straße westlicher Teil ab Wasserburger Landstraße in den Straßensanierungsplan
+- TOP 3.6.: Anfrage zur Situation in der Bahnstraße - Suche nach einem alternativen Recyclingstandort
+- TOP 3.7.: Nachfrage wegen BA-Anträgen aus den Jahren 2007 und 2008(BA-Anträge Nrn.: 02-08 / B 02689 und 02-08 / B 02984)
+- TOP 3.8.: Ampelschaltung an der Kreuzung Zehntfeld-/Feldbergstraße/Hugo-Lang-Bogen anpassen
+- TOP 3.9.: "arrive"-Ergebnisse auf Trudering-Riems Ampeln übertragen
+- TOP 3.10.: Radaranlage an der Kreuzung Wasserburger Landstraße / Bajuwarenstraße
+- TOP 3.11.: Von Erckert-Straße - Parkplatz Kulturzentrum Trudering, Geschwindigkeitsmessungen
+- TOP 3.12.: Radwegverbindung zwischen Riem und Trudering endlich realisieren
+- TOP 3.13.: Linienführung in der Schwablhofstraße
+- TOP 3.14.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 3.15.: Haben Fahrgäste mit Behinderung auch an Wochenenden und Feiertagen einen Beförderungsanspruch?
+- TOP 3.16.: Reparatur der Anlagenbänke des Kinderspielplatzes zwischen Rotkehlchenweg und Häherweg
+- TOP 3.17.: Graffiti / BUGA-Park Skateranlage
+- TOP 3.18.: Ungenutzte Sportflächen in der Fauststraße 90
+- TOP 3.19.: Lehrer-Wirth-Schule - Schäden und Widersprüche
+- TOP 3.20.: Situation für Schüler verbessern - Zahl der Eingangsklassen erhöhen
+- TOP 3.21.: Vorklassen für das neue Gymnasium - genaue Darstellung des weiteren Vorgehens
+- TOP 3.22.: 150 Jahre 1860 München, Beantragung eines verkaufsoffenen Samstags bzw. Ausnahmeersuche auf erweiterte Ladenöffnungszeiten
+- TOP 3.23.: Wertstoffhof Trudering - Kunststoffentsorgung Wertstoffsammelstellen für den neuen Bajuwarenpark (Antrag Nr. 08-14 / B 01557 ) Bericht vom Ortstermin am 03.03.2010
+- TOP 3.24.: Straßenreinigung Riem, Oslostraße
+- TOP 3.25.: Bahnhofspaten für die S-Bahnhöfe (TOP 3.5/03/10)
+- TOP 3.26.: Suchkreisinformation für das Gebiet 1970/1953 8358 München Trudering; (TOP 11.1/01/10); Antwort von Alcatel-Lucent
+- TOP 3.27.: Sammlung von Verpackungsabfällen im Wertstoffhof - <div>nach Antrag</div>
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Qualifizierte Nachverdichtung in Trudering und Riem - <div>vertagt in die Mai-Sitzung</div>
+- TOP 4.2.: Mehrgenerationenhaus verbunden mit einer Wohngemeinschaft für Senioren (intelligente Wohnungen) - <div>zurückgezogen</div>
+- TOP 4.3.: Grundstücksvergabe im 4. Bauabschnitt Messestadt Der BA 15 beantragt einen wesentlichen Teil der geplanten Reihenhausgrundstücke provisionsfrei an private Bauherren zu vergeben. - <div>nach Antrag, ohne "provisionsfrei"</div>
+- TOP 4.4.: Die Stadt München wird aufgefordert, im 4. Bauabschnitt die Grundstücke bevorzugt an Genossenschaften und Baugemeinschaften zu verkaufen. - <div>nach Antrag</div>
+- TOP 4.5.: Gehobener Wärmedämmstandard im 4. Bauabschnitt Messestadt - <div>nach Antrag</div>
+- TOP 4.6.: Konkrete Umsetzung der Münchner Fahrradkampagne in Trudering - <div>nach Antrag</div>
+- TOP 4.7.: Irmelastraße : Kleine Straße für (zu) große LKWs? - <div>nach Antrag</div>
+- TOP 4.8.: Nach zwei Jahren Lehrstand ? wie geht s mit dem städtischen Gebäude (ex-Polizeiaußenstelle) an der Bajuwarenstraße weiter? - <div>nach Antrag</div>
+- TOP 4.9.: Auswirkungen des LKW-Führungskonzeptes in Trudering-Riem - <div>nach Antrag</div>
+- TOP 4.10.: ?Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt-Lehel? - <div>nach Antrag</div>
+- TOP 4.11.: Task- Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen - <div>nach Antrag</div>
+- TOP 5: Anhörungen
+- TOP 5.1.: Leistungsprogramm der Münchner Verkehrsgesellschaft mbH, Fahrplanwechsel Dezember 2010 - <div>zugestimmt</div>
+- TOP 5.2.: Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 der STVO; Lichtzeichenanlage Riemer Straße/Wendeanlage - <div>Zustimmung</div>
+- TOP 5.3.: Neue Wertstoffsammelstellen im 15. Stadtbezirk 5.3.1Forellenstraße/Böcklerweg 5.3.2 Kreillerstraße 194 - <div>Zustimmung</div>
+- TOP 5.4.: Festplatz Wasserburger Landstraße/Feldbergstraße, Vereinsjubiläum Truderinger Böllerschützen 21.05. bis 23.05.2010 (Frist 29.04.2010)
+- TOP 5.5.: Vollzug von § 13 der Satzung für die Bezirksausschüsse; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen): Kirchtruderinger Straße, Gemarkung Trudering 1 unbeleuchtet Werbetafel
+- TOP 5.6.: Austausch der Lichtzeichenanlage von-Erckert-/Wasserburger Landstraße
+- TOP 5.7.: Grünanlage Graf-Spee-Platz, Fußballturnier Andreas Knürr am 23.05.2010 (Frist 30.04.2010)
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Sommerfest im Riemer Park
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Bauvorhaben Königseestraße, Neubau eines Mehrfamilienhauses mit Garagen, Verfahrens-Nr.: 3964-32 (Top 7.3.3/03/10)
+- TOP 7.2.: Bauvorhaben Simplonstraße, Neubau einer Wohnanlage mit Tiefgarage, Verfahrens-Nr.: 4122-32 (Top 7.3.4/03/10)
+- TOP 7.3.: Bauvorhaben Graf-Ottenburg-Straße, Vorbescheid, Verfahrens-Nr.: 167/23 (Top 7.3.8/03/10)
+- TOP 7.4.: Bauvorhaben Am Mitterfeld, Errichtung einer Wohnanlage (24 WE) mit Tiefgarage (26 Stpl.), Verfahrens-Nr.: 32645-32 (Top 7.3.11/03/10)
+- TOP 7.5.: Bauvorhaben Schneefinkenweg, Neubau eines Mehrfamilienhauses bzw. 2er Mehrfamilienhäuser (Vorbescheid) (Top 7.3.12/03/10)
+- TOP 7.6.: Bauvorhaben Mönchbergstraße, Neubau eines Dreifamilienhauses mit Garagen/TEKTUR zu 2009-26505, Verfahrens-Nr. 29961-32
+- TOP 7.7.: Bauvorhaben Funtenseestraße, Neubau eines Mehrfamilienhauses mit Garagen, Verfahrens-Nr. 2485-32
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Radweg Riemer Straße
+- TOP 7.2.: Verlegung der Wertstoffinseln, Truderingerstr. 321- 325 und Markgrafenstraße Ortstermin des UA Bau u.Verkehr am 08.04.2010
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Budget der Bezirksausschüsse; Antrag vom 16.12.2009 der Chorgemeinschaft St. Peter und Paul Trudering, Neujahrskonzert im Januar 2010
+- TOP 7.2.: Kurzbericht - Ausstattung des Jugendraums der Initiative Jugendtreff in der Messestadt
+- TOP 7.3.: Verwendungsnachweis Truderinger Trachtenverein "lebende Krippe"
+- TOP 7.4.: Verwendungsnachweis Förderverein Grundschule Feldbergstraße, Restaurierung der Tiergruppe im Pausenhof der Grundschule
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Sansibarstr.47, Solalindenstr.48, Kathreinweg 30, Samlandstr.39, Zeisigweg 12 Unterrichtung über geplante Fällungen von Gefahrenbäumen auf öffentlichen Grundstücken: Theodor-Kober-Str.1 8.2 Hella-von-Westarp-Str.34 8.3 Zehntfeldstr.119 8.4 Postweg 8.5 Feldbergstr.86 8.6 Truderinger Str.221 8.7 Waldschulstr.21 b 8.8 Mönchbergstr.20 8.9 Otto-Lederer-Weg 51 / Haus 1 + 2 8.10 Otto-Lederer-Weg 51 / Haus 3 + 4 8.11 Weißpfennigweg 8 8.12 Max-Beckmann-Str.15 8.13 Zehntfeldstr.262 8.14 Wasserburger Landstr.157 8.15 Zaunkönigweg 3 8.16 Damaschkestr.100 8.17 Großfriedrichsburgerstr.17d 8.18 Hochalmstr.12 8.19 In der Rosenau 3 8.20 Säntisstr.20 8.21 Mondseestr.15
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine und Mitteilungen: 8. Fachgespräch der Münchner Wohnungswirtschaft am Dienstag 13.04.2010 im Bauzentrum München Aktive Zentren Auftaktveranstaltung zu den vorbereitenden Untersuchungen am 23.04.2010, 17 bis 20 Uhr im Kulturzentrum Trudering Aktionsforum für Familien; Auftaktveranstaltung "Armut in Familien" am 30.04.2010 um 9:00 h im Alten Rathaussaal, Marienplatz 15 Richtfest der GEWOFAG in Riem am 13.04.2010, Ruth-Beutler-Str/Heinrich-Böll-Straße, ab 11:30 h BAUMA 2010, Verkehrliche Erschließung, Parkraumkonzept, 8. Abstimmungsgespräch am 08.03.2010, ab 13:00 h, im Besprechungsraum M 11 (1.167) Messe München Münchner Solartage 2010 am 08. und 09.05.2010 in der Messestadt Riem
+- TOP 9.2.: Protokoll der Erörterungsveranstaltung zum Bebauungsplan mit Grünordnung Nr. 1728 m, Messestadt Riem, 4. Bauabschnitt Wohnen Edinburghplatz südlich (Teiländerung des Bebauungsplans mit Grünordnung Nr. 1728 d, Teil 1)
+- TOP 9.3.: Kein Google-Street-View in Trudering-Riem; Antrag Nr. 08-14 / B 01901 des BA 15 vom 25.02.2010; Schreiben des BA 4 Schwabing-West, des BA 12 Schwabing-Freimann und des BA 22 Aubing-Lochhausen-Langwied an die Rechtsabteilung der Landeshauptstadt München
+- TOP 9.4.: Protokoll der Erörterungsveranstaltung zum Bebauungsplanentwurf mit Grünordnung Nr. 1683 b, Markgrafenstraße (nördlich), Friedenspromenade (östlich), Gymnasium Trudering, Teiländerung des Bebauungsplans mit Grünordnung Nr. 1683 a)
+- TOP 9.5.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 9.6.: Sitzungsunterlagen für alle Mitglieder der BAs bei Entscheidungen aus dem Bereich der laufenden Verwaltung (OB-Vollmacht); BA-Antrag Nr. 08-14 / B 01829 des BA 12 Schwabing-Freimann vom 26.01.2010; Antwort des Oberbürgermeisters vom 02.03.2010
+- TOP 9.7.: Protokoll der 7. Sitzung des Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse in der Gleichstellungsstelle für Frauen am 18.03.2010
+- TOP 9.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Beteiligung
+- TOP 9.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.11.: Fachforum Ökologische Wärmedämmstoffe - eine echte Alternative am 26.04.2010
+- TOP 9.12.: 3klang e. V. , Informationsflyer
+- TOP 9.13.: Baumaßnahmen der SWM ? Stromprojekt Sperberstraße/Graf-Spee-Platz
+- TOP 9.14.: Baumaßnahmen der SWM ? Fernwärmeprojekt Maria-Montessori-Straße
+- TOP 9.15.: Baumaßnahmen der SWM ? Stromprojekt Halligenplatz
+- TOP 9.16.: Baumaßnahmen der SWM ? Stromprojekt Riemer Straße
+- TOP 9.17.: Stellungnahme des Arbeitskreises Bauleitplanung im Münchner Forum zum Bebauungsplanentwurf Nr. 1683 b - Gymnasium Trudering
+- TOP 9.18.: Werbung im öffentlichem Raum "Wie viel Stroer verträgt die Stadt"; 7 Anträge des Bezirksausschuss 12 Schwabing-Freimann mit der Bitte um Unterstützung
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauanträge: Erstantragsverfahren, Abbruchsanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten, Änderungen zu genehmigten Bauvorhaben 01.03. bis 04.04.2010
+- TOP 10.2.: Zweckentfremdung von Wohnraum - Simplonstr. 3
+- TOP 10.3.: Zweckentfremdung von Wohnraum - Gerstäckerstr. 104
+- TOP 10.4.: Zweckentfremdung von Wohnraum - Monikastr. 6
+- TOP 10.5.: Zweckentfremdung von Wohnraum - Königsseestr. 10
+- TOP 10.6.: Antrag auf unveränderte Fortführung einer Schank- und Speisewirtschaft - ATA Lounge & Restaurant (Clubtribüne, Galopprennbahn Riem), Graf-Lehndorff-Str. 36
+- TOP 10.7.: Zuwendungsbewilligung für digitalanalog e. V. i. H. v. 540.- ?
+- TOP 10.8.: Zuwendungsbewilligung für den Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e. V. i. H. v. 1.500.- ?
+- TOP 10.9.: Erlaubnisbescheid: Flohmarkt auf dem Platz der Menschenrechte am 17.04.2010
+- TOP 10.10.: Vollzug der Straßenverkehrsordnung (StVO), hier: §§29 und 32 - Filmaufnahmen auf öffentlichem Verkehrsgrund für das gesamte Stadtgebiet München
+- TOP 10.11.: Verkehrsrechtliche Anordnung nach § 45 StVO: Kurzparkzonen Kreillerstraße zwischen Bajuwaren- und Elritzenstraße
+- TOP 10.12.: Mitteilung über ein Grundstücksgeschäft - Enteignung Flst. 339/1, Truderinger Straße
+- TOP 10.13.: Veranstaltungen / Kooperationen des Kulturreferates im März und April 2010
+- TOP 10.14.: Ertüchtigung des Bahnknotens München;Schienenanbindung des Flughafens a) Gutachten zur Flughafenanbindung 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit, b) weiteres Vorgehen, c) Anträge; Beschluss der Vollversammlung des Stadtrates am 24.03.2010 sowie Hinweise und Ergänzungen hierzu
+- TOP 10.15.: Ertüchtigung des Bahnknotens München; 2. S-Bahn-Stammstrecke; a) vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit, b) Stand der Planfeststellungsverfahren und Umplanungen des 2. S-Bahn-Tunnels, c) weiteres Vorgehen, d) Lärmsanierung am DB-Südring, e) Anträge und Empfehlungen; Beschluss der Vollversammlung des Stadtrates am 24.03.2010 sowie Hinweise und Ergänzungen hierzu
+- TOP 10.16.: Perspektive München, Leitlinie "Kinder- und Familienpolitik", Leitprojekt 1 " Kinder- und familienfreundliches Wohnen", Empfehlungen für kinder- und familiengerechtes Wohnen, Maßnahmen zur Verbesserung der Wohnberatung; Beschluss der Vollversammlung des Stadtrats vom 03.03.2010
+- TOP 10.17.: ericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009, mit weiterführenden Daten und Fakten zum Stadtentwicklungsprojekt Hammarby Sjöstad in Stockholm;Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010
+- TOP 10.18.: Preisanpassung an den P+R-Anlagen im Stadtgebiet München zum 01.05.2010; Beschluss des Kreisverwaltungsausschusses vom 23.03.2010 (VB)
+- TOP 10.19.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung; Beschluss des Kreisverwaltungsausschusses am 23.03.2010 (VB)
+- TOP 10.20.: Zuschussnehmerdatei 2009; Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 10.21.: Zuschussnehmerdatei 2009; Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 10.22.: Zuschussnehmerdatei 2009; Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 10.23.: Zuschussnehmerdatei 2009; Vollzug des Haushaltsplanes 2009 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 (SB)
+- TOP 10.24.: Bekämpfung von Ameisen in Kinderspielbereichen; Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.2010
+- TOP 10.25.: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept, a) Grundsatzbeschluss, b) Neue Wälder braucht die Stadt, Antrag Nr. 509 der Stadtratsfraktion Bündnis 90/Die Grünen vom 24.06.97, c) Flächenpool für ökologische Ausgleichsflächen, Pilotprojekt "Eschenrieder Moos" mit 1. Münchner Ökokonto"; Antrag Nr. 345 von Herrn Stadtrat Pfundstein vom 28.1201; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010
+- TOP 1.5.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Aufhebung der Sperrzeit für ein Lokal im Stahlgruberring - <div>Zustimmung</div>
