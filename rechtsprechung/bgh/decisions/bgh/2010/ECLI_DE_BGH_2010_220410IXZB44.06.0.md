@@ -1,0 +1,85 @@
+---
+ecli: "ECLI:DE:BGH:2010:220410IXZB44.06.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-09"
+aktenzeichen: "IX ZB 44/06"
+decided: "2010-04-22"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2010&Sort=1&Seite=38&nr=51894&anz=3646&pos=1144&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-09_NA_2010-04-22_IX_ZB_44_06_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/inso/0093.md"]
+---
+
+# Bundesgerichtshof, IX ZB 44/06 vom 2010-04-22
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                           BESCHLUSS
+IX ZB 44/06
+                                   vom
+
+                              22. April 2010
+
+        in dem Zwangsvollstreckungsverfahren während der Insolvenz
+
+                                         -2-
+
+
+
+    Der IX. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter
+    Dr. Ganter, die Richter Raebel, Vill, Dr. Pape und Grupp
+
+
+    am 22. April 2010
+    beschlossen:
+
+
+          Die Rechtsbeschwerden gegen den Beschluss der 3. Zivilkammer
+          des Landgerichts Kassel vom 28. Februar 2006 werden zurückgewiesen.
+
+
+          Die Kosten des Verfahrens werden den Rechtsbeschwerdeführern
+          auferlegt mit der Maßgabe, dass der Kostenerstattungsanspruch
+          der weiteren Beteiligten zu 1 je zur Hälfte aus beiden Massen als
+          Insolvenzforderung zu berichtigen ist.
+
+
+          Der Gegenstandswert der Rechtsbeschwerden wird auf 27.000 €
+          festgesetzt.
+
+
+
+
+                                       Gründe:
+
+
+1         Die Rechtsbeschwerden sind aufgrund der rechtlich zutreffenden Erwägungen des Beschwerdegerichts unbegründet. Titelschuldner sind nach der
+    nicht zu beanstandenden Auslegung des vollstreckbaren Schiedsspruchs vom
+    14. Juni 2004 die Gesellschafter Dr. H.           und Dr. B.     der G.     -
+                                             GbR infolge eines jeweils persönlich
+    und unmittelbar wirkenden Rechtsgrundes (Eingriffskondiktion). Die Regelung
+
+                                          - 3 -
+
+
+
+    des § 93 InsO betrifft jedoch nur den Bereich der gesetzlich akzessorischen
+    Gesellschafterhaftung (BGHZ 151, 245, 248 ff), der hier nicht berührt ist.
+
+
+2         Der Kostenerstattungsanspruch der weiteren Beteiligten zu 1 war aufschiebend bedingt bereits vor Insolvenzeröffnung gegen die Titelschuldner entstanden und ist infolge dessen nur als Insolvenzforderung geltend zu machen
+    (vgl. etwa HmbKomm-InsO/Lüdtke, 3. Aufl. § 42 Rn. 12 f).
+
+
+    Ganter                               Raebel                                  Vill
+
+
+                     Pape                                     Grupp
+
+
+
+
+    Vorinstanzen:
+    AG Kassel, Entscheidung vom 02.08.2005 - 620 M 435/05 -
+    LG Kassel, Entscheidung vom 28.02.2006 - 3 T 935/05 -
