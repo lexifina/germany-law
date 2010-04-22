@@ -1,0 +1,93 @@
+# 35. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-04-22T17:30:00+02:00
+- Ende: 2010-04-22T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2180
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2180
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=74604
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Neue Geschäfts(un)ordnung für Quartiersräte - beantwortet
+- TOP 5.2: Erinnern und Gedenken ohne den Bezirk? - beantwortet
+- TOP 5.3: Anmeldesituation an der Papageno-Grundschule - beantwortet
+- TOP 5.4: Neue Jobs für Moabit - beantwortet
+- TOP 5.5: Schulstandort Lützowstraße - schriftlich beantwortet
+- TOP 5.6: Unerledigte Drucksachen der BVV hier: Anfrage "Betriebsratsverseucht" - schriftlich beantwortet
+- TOP 5.7: Private Nachhilfe schon für Kinder in der 1. Grundschulklasse - schriftlich beantwortet
+- TOP 5.8: Optionsvereinbarungen für Weihnachtsmärkte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Lex Straßenland 1 - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Stand Drucksache 1395/III: "Mittes Ressourcen nutzen: KleingärtnerInen helfen bei gesunder Ernährung an Schulen" - beantwortet
+- TOP 7.2: Bebauung des Mauerparks - beantwortet
+- TOP 7.3: Verein Ambulante Hilfen - noch Aufträge an Tochterfirmen? - schriftlich beantwortet
+- TOP 7.4: Wie unabhängig ist "independent living"? - schriftlich beantwortet
+- TOP 7.5: Welche Zukunft hat der Gendarmenmarkt? - schriftlich beantwortet
+- TOP 7.6: "Und draußen vor der großen Stadt stehn die Nutten sich die Füße platt" - schriftlich beantwortet
+- TOP 7.7: Anmeldezahlen 7. Klassen - schriftlich beantwortet
+- TOP 7.8: BND macht Parkraumbewirtschaftung notwendig?! - schriftlich beantwortet
+- TOP 7.9: Independent Living - gemeinnützig, aber intransparent? - schriftlich beantwortet
+- TOP 7.10: Sondernutzung öffentlichen Straßenlandes durch Schankvorgärten - schriftlich beantwortet
+- TOP 7.11: Eindämmung von Spielhallen in Mitte! - schriftlich beantwortet
+- TOP 7.12: WBM-Modernisierung im Milieuschutzgebiet Oranienburger Vorstadt hier: Borsigstraße 32/33 - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung eines beratenden Mitgliedes in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 7 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplan III-244 (Kleingartenkolonie Quartier Napolèon) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-244 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beitragspflichtige Erneuerung der Fahrbahn Berolinastraße (incl. der Anschluss- und Folgearbeiten am Gehweg) im Abschnitt von Karl-Marx-Allee bis Mollstraße (in direkter "L"-form) - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: TanzZeit vs. TanzMitte? - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Havariemaßnahmen für Schüler/innen und Personal im Schulgebäude Lützowstraße 83-85 - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Schulstandort Lützowstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Lex-Straßenland 2 - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bündnis für Biologische Vielfalt beitreten - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Zug der Erinnerung - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Ja zur Straßenbahn zum Hauptbahnhof - Nein zur Autobahn durch Mitte - in der BVV abgelehnt
+- TOP 12.2: Die heilende Kraft des Lachens - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Sozialverträgliches Wohnen auch nach der Sanierung - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Fahrradständer für den neuen Spielplatz Ottopark - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Informationsveranstaltung: Prävention gegen Spielsucht - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Projekt "Ferienschwimmen" durch Schwimmpaten fortführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Keine aktive Zentren in Mitte ohne ethnische Ökonomie - überwiesen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Notplan Kältehilfe - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Chancen nicht verspielen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Fahrradstreifen in der Karl-Marx-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Erhalt der Beratungsstelle für Sehbehinderte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.3: Zurück in die Schule - eine neue Alternative für das Freiwillige Soziale Jahr - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Finanzierung von Schulen den lokalen Bedürfnissen anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Jährlicher Energiebericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.6: Schulentwicklungsplanung aktualisieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Bürgerbeteiligung beim "Aktiven Stadtteilzentrum" erleichtern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.8: Rad- und Wanderweg Panke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Klassenfrequenzen senken! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.10: Rosenthaler Platz fahrradfreundlich umgestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Programmplanung "Aktive Stadtzentren" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.12: Querfinanzierung des Schuletats - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Sicherung von belegungsgebundenem Wohnraum insbesondere von Behindertenwohnraum - in der BVV zurückgezogen
+- TOP 15.14: Teilnahme am Seminar "Spielhallen - Trends - Probleme - Steuerungspotentiale" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Bei Bedarf: Verlängerung der Kältehilfe über den 31. März hinaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Beschluss über das Anhörungsergebnis der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB zum Bebauungsplanentwurf III-46-1 (Mittelpunktbibliothek) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Aufstellung des Bebauungsplanentwurfs I-52a-1 für das Grundstück Caroline-Michaelis-Straße 8 (Teilfläche des Flurstücks 282 der Flur 121) im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Beschluss über das Anhörungsergebnis der Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB zu den Entwürfen der Bebauungspläne 1-51 bis 1-59 (Rosenthaler Vorstadt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: INSEK Luisenstadt (Integriertes Stadtentwicklungskonzept) als Städtebaulicher Rahmenplan - vertagt
