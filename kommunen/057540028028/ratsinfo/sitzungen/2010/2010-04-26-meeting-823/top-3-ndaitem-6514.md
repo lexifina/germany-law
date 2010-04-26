@@ -1,0 +1,6 @@
+# TOP 3: Öffentliche Sicherheit in Rheda-Wiedenbrück
+
+- Sitzung: Ausschuss für Soziales, Familie, Jugend und Sport (3. Sitzung) (2010-04-26)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/6514
