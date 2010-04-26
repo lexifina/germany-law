@@ -1,0 +1,6 @@
+# TOP 3.: Informationen zu möglichen Hochwasserschutzmaßnahmen an der Else durch den Werre-Wasserverband (ohne Vorlage)
+
+- Sitzung: Umweltausschuss (3. Sitzung) (2010-04-26)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13768
