@@ -1,0 +1,80 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-04-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868672
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868672
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Friedenstr. 22a ? Nutzungsänderung einer Lagerhalle in eine Boulder- und Kletterhalle
+- TOP 3.1.1.2.: Werbung im öffentlichen Raum ? Wie viel ?STRÖER? verträgt die Stadt? - Antrag BA 12
+- TOP 3.1.2.1.: Haltestelle der Tram 19 an der Kreillerstr. / St.-Veit-Straße stadteinwärts - <div></div>
+- TOP 3.1.2.2.: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP 3.1.2.3.: Wertstoffcontainerstandort Dornbergstraße
+- TOP 3.1.2.4.: Stadtteilverträgliche Umgestaltung des Innsbrucker Rings
+- TOP 3.2.1.: Piusplatz, Sommerfest AKA e.V. am 12.06.2010
+- TOP 3.2.2.: Baumkirchner Straße, Maifeier des Maibaumvereins Berg am Laim e.V. am 01.05.2010
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Antrag auf Budgetmittel des BA 14 für das Kinderfest 2010
+- TOP 3.5.2.: Unsere Stadt ? Unsere Straßen III ? Angebot zur Erstellung von Stadtteilfilmen
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Kreillerstraße 48 ? Antrag auf Baumfällungen
+- TOP 3.7.2.: Weißpfennigweg 1 ? Neubau zweier Doppelhäuser mit 3 Garagen
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Sonnwendjochstraße 54 - Abbruchanzeige
+- TOP 4.1.1.3.: Leistungsbilanz der Hauptabteilungen Tiefbau und Gartenbau des Baureferates
+- TOP 4.1.1.4.: Ausgleichsflächen in der Bauleitplanung Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neu Wälder braucht die Stadt Antrag Nr. 509 der Stadtratsfraktion GRÜNE/RL c) Flächenpool für ökologische Ausgleichsflächen; Pilotprojekt ?Eschenrieder Moos mit 1. Münchner Ökokonto Antrag Nr. 3465 von Herrn Stadtrat Helmut Pfundstein
+- TOP 4.1.2.1.: Busverbindung U-Bahnstation (U5) Michaelibad und U-Bahnstation (U2) Josephsburg
+- TOP 4.1.2.2.: Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.2010
+- TOP 4.1.2.3.: Lichtzeichenanlagen-Bauprogramm
+- TOP 4.1.2.4.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke a) Vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Stand der Planfeststellungsverfahren und Umplanungen des 2. S-Bahn-Tunnels c) Weiteres Vorgehen d) Lärmsanierung am DB-Südring e) Anträge und Empfehlungen
+- TOP 4.1.2.5.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens a) Gutachten zur Flughafenanbindung 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Weiteres Vorgehen c) Anträge
+- TOP 4.1.3.1.: Bekämpfung von Ameisen in Kinderspielbereichen - Bekanntgabe -
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Unterlagen zur Informationsveranstaltung für die Bezirksausschüsse vom 04.03.2010
+- TOP 4.5.1.: Kinderinsel Haidhause e.V. - Verwendungsnachweis
+- TOP 4.5.2.: Ludwig-Thoma-Realschule - Verwendungsnachweis
+- TOP 4.5.3.: Änderung der Gemeindeordnung - Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 4.5.4.: Sitzungsunterlagen für alle Mitglieder der BA's bei Entscheidungen aus dem Bereich der laufenden Verwaltung (OB-Vollmacht)
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
