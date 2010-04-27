@@ -1,0 +1,133 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-04-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818438
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818438
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Kurzbericht des Vorsitzenden
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Änderung des Aufgabenbereichs des UA Umwelt / Verkehr (Beschluss)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Änderung der Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP .2.: Sitzungsunterlagen für alle Mitglieder des BAs bei Entscheidungen aus dem Bereich der laufenden Verwaltung (OB-Vollmacht)
+- TOP .3.: "Tag gegen Lärm" - 28. April 2010 in und um München
+- TOP .4.: Gestaltung von U-Bahnhöfen - Satzungsänderung Antrag des Bezirksausschusses 12, Antrags-Nr.: 08-14 / B 01991
+- TOP .1.: Neugestaltung Münchner Freiheit
+- TOP .2.: Schaffung eines Platzes vor der Erlöserkirche
+- TOP .1.: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 12 a) Münchner Verlag GmbH für die Maßnahme: Druckkosten für das Stadtteilbuch "Schwabing - ein Zustand" in Höhe von 6.000,-- EURO b) Kreisjugendring München-Stadt, Freizeittreff Freimann für die Maßnahme: Projekt " Gut drauf" von Anfang Mai bis Herbst 2010 in Höhe von 487,-- ?
+- TOP .2.: (E) Budget der Bezirksausschüsse ASZ Schwabing-Ost Stiftung Kath. Familien- und Altenpflegewerk Eröffnung eines Angebots für pflegende Angehörige
+- TOP .1.: Neubau eines Gymnasium im Münchner Norden (Ziff. 1) Empfehlung Nr. 08-14 / E 00326 der Bürgerversammlung des 12. Stadtbezirkes vom 07.07.2010 Beschlussvorlage für den Schul- und Sportausschuss vom 05.05.2010
+- TOP .2.: Blade Night jeweils Montags vom 03.05.2010 bis 06.09.2010 (außer 28.06.20109) mit Start / Ziel Am Bavariapark
+- TOP .3.: Fahrradstadtrundfahrt anlässlich des Ökumenischen Kirchentages mit Start / Ziel Südteil Theresienwiese am 13.05.2010
+- TOP .4.: Spieleaktionen Spiellandschaft Stadt e.V. für das Jahr 2010
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Tibet Kitchen" Schank- und Speisewirtschaft, Occamstraße 4
+- TOP .1.: Perspektive München; Leitlinie "Kinder- und Familienpolitik" Leitprojekt 1 "Kinder- und familienfreundliches Wohnen" - Empfehlungen für kinder- und familienfreundliches Wohnen - Maßnahmen zur Verbesserung der Wohnberatung Beschluss der Vollversammlung des Stadtrates vom 03.03.2010 Sitzungsvorlage Nr. 08-14 / V 02891
+- TOP .2.: Stadt bezieht Stellung gegen die Initiative des Bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung Antrag Nr. 08-14 / A 00968 der Stadtratsfraktion DIE GRÜNEN/RL vom 03.08.2009 Beschluss der Vollversammlung des Stadtrates vom 03.03.2010 Sitzungsvorlagen Nr. 08-14 / V 03424 (auch UA UV TOP D.5.3.4.)
+- TOP .3.: Erlaubnisbescheid für die Holzkugelaufstellung und ökumenischem Kreuzweg am 24.03.2010, Erlöserkirche Germaniastr. 4 und Stadtpfarrkirche St. Ursula Kaiserplatz
+- TOP .4.: Bescheid / Zuwendung zu Anträgen auf Zuwendungen aus dem Budget des BA 12 a) Kreisjugendring München-Stadt, Jugendtreff am Biederstein b) Treffpunkt Filmkultur e.V. c/o ARRI Kino c) Corso Leopold e.V.
+- TOP .5.: Neugestaltung der Unterführung Untererstraße / Münchner Freiheit (Zwischenbericht zum Antrag 08-14 / B 01207) auch UA StA
+- TOP .6.: Verwendungsnachweis / Sachbericht für Zuwendungen aus dem Budget des BA 12 - TamS Theater Grenzgänger - Integrative Theatertage 2009
+- TOP .7.: Informationen zur Veranstaltung für die Bezirksausschüsse vom 04.03.2010 des Sozialreferates "Monitoring für das Sozialreferat"
+- TOP .8.: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Sitzungsvorlage Nr. 08-14 / V 03873 des Sozialreferates / Zentrale, Sitzungsvorlage Nr. 08-14 / V 03858 des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 08-14 / V 03831 des Amtes für wohnen und Migration, Sitzungsvorlage Nr. 08-14 / V 03867
+- TOP .9.: neue Bädereintrittspreise ab dem 01.05.2010; Schreiben der SWM vom 08.04.2010
+- TOP .10.: Erlaubnisbescheid - Veranstaltung auf öffentlichem Verkehrsgrund hier: Informationsveranstaltung "Privatquatriere für den 2. Ökumenischen Kirchentag"
+- TOP .11.: Veranstaltung auf öffentlichem Verkehrsgrund hier: 3. CityBike Marathon München am 18.04.2010
+- TOP .1.: Darstellung und Ausführungen des Planungsreferates zu den augenblicklich bearbeiteten und demnächst vorzustellenden städtebaulichen Entwürfen im Planungsgebiet zwischen Leinthalerstraße und ehemaliger Papierfabrik (auch UA UV: TOP D.1.1.)
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis hier: Genehmigung einer Freischankfläche, Cafe Backhaus Salve, Siegfriedstraße
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis hier: Genehmigung einer Freischankfläche, Kaiserstraße 34
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Leopoldstraße 250, Flurstück 837/0, Neubau einer Wohnanlage mit Kindertagesstätte und Tiefgarage / WA 3; Baumfällungen gemäß Plan
+- TOP .2.: Auwiesenweg 1a; 4 Bäume gemäß Plan
+- TOP .3.: Leopoldstraße 250, Flurstück 837; 3 Bäume gemäß Plan
+- TOP .4.: Grasmeierstr. 8, 2 Bäume gemäß Plan
+- TOP .5.: Weizenfeldstr. 4, 1 Baum gemäß Plan
+- TOP .6.: Freisinger Landstr. 72, 1 Baumgruppe gemäß Plan
+- TOP .1.: Bergkieferweg 9, Flurstück: 309/189, Neubau eines Einfamilienhauses mit Garage
+- TOP .2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/40 und Bebauungsplan mit Grünordnung Nr. 1982 a Ingolstädter Straße (östlich), Stadtgrenze (südlich) - Sportgelände an der Ingolstädter Straße -
+- TOP .3.: Occamstraße 4, Flurstück 207/26, Nutzungsänderung RGB: regallager zu Waxing Studio / Kosmetikstudio
+- TOP .4.: Bismarckstraße 15, Flurstück 380/18, Einbau von Dachgauben, Änderung der Eingangssituation und Anbau von Balkonen
+- TOP .5.: Admiralbogen, Flurstück 309/0, Neubau eines Besucherinformations- und Bildungszentrums ("Heidehaus" Fröttmaning)
+- TOP .1.: Öffentliche Widmung eines Radweges zwischen Fröttmaning und Garching
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Heinrich-Geissler-Straße 47 (Gefahrenbaum); Schreiben des Baureferates-Gartenbau vom 17.03.2010
+- TOP .2.: Kleinlappener Straße 5, Fl.Nr. 63/12, 1 Schwarzkiefer
+- TOP .3.: Beseitigung von Gefahrenbäumen auf dem Grundstück Leopoldstraße 250, 2 Bergahorn
+- TOP .1.: Baumaßnahmen der Stadtwerke München; Leopoldstraße 71 (Niederspannungskabellegung von der Siegfriedstraße 3 über Herzogstraße bis Leopoldstraße 71); auch TOP D.5.3.1.
+- TOP .2.: Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im November 2009 - mit weiterführenden Daten und Fakten zum Stadtentwicklungsprojekt Hammarby Sjöstad in Stockholm Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010 Sitzungsvorlagen Nr. 08-14 / V 03752
+- TOP .3.: Sachstandsbericht zum Antrag 08-14 / B 01210 des BA 12 "Benennung der Endhaltestelle der Tram 23 in Bauhausplatz"
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung Beschluss des Kreisverwaltungsausschusses vom 23.03.2010 Sitzungsvorlage Nr. 08-14 / V 03904 (auch UA UV TOP D.5.3.7)
+- TOP .6.: Wohnungsmarkt München - Expertenbefragung 2009 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010 Sitzungsvorlagen Nr. 08-14 / V 03637
+- TOP .7.: Baumaßnahmen der SWM; Stromprojekt Mandlstraße
+- TOP .8.: Baumaßnahmen der SWM; Wasserprojekt Virchowstraße
+- TOP .9.: Baumaßnahmen der Stadtwerke München - Burmesterstraße - Münchner Freiheit / Herzogstraße
+- TOP .10.: Neugestaltung der Unterführung Untererstraße / Münchner Freiheit (Zwischenbericht zum Antrag 08-14 / B 01207) auch UA BKS
+- TOP .11.: Fahrbahnsanierungen im BA 12, Information des Baureferates -Tiefbau - Hartweg, Frötzweg und Lichtweg sowie im Bereich des Flecklangers - Haberkernstraße - Hortensienstraße , Begonienstraße und der Erikastraße
+- TOP .12.: Bebauungsplan mit Grünordnung Nr. 1991 Domagkstraße (südlich) ehemalige Güterbahntrasse / zukünftige Tramlinie 23 (westlich), Dauerkleingartenanlage NO 26 (nördlich) und Leopoldstraße (östlich) Beschluss des Bauausschusses vom 16.03.2010 Sitzungsvorlage Nr. 08-14 / V 03679
+- TOP .13.: Baumaßnahmen der SWM: Stromprojekt Leopoldstraße
+- TOP .14.: Ausgleichsflächen in der Bauleitplanung - Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt c) Flächenpool für ökologische AUsgleichsflächen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010
+- TOP .15.: Sanierung des Gehweges Liebergesellstraße
+- TOP .16.: Kreuzungsumbau Freisinger Landstraße Ecke Josef-Wirth-Weg, 19.04.-07.05.2010
+- TOP .17.: Baumaßnahmen der SWM - 1.Halbjahr 2010
+- TOP .1.: Darstellung und Ausführungen des Planungsreferates zu den augenblicklich bearbeiteten und demnächst vorzustellenden städtebaulichen Entwürfen im Planungsgebiet zwischen Leinthalerstraße und ehemaliger Papierfabrik (auch StA UV: TOP C.1.1)
+- TOP .2.: Abfallproblematik - Zunehmende Vermüllung Schwabings durch "To-Go" Verpackungen, Entwicklung eines Konzepts für zuverlässige Entsorgung
+- TOP .3.: Errichtung von Radwegen in der Dietlindenstraße zwischen Ungererstraße und Biedersteiner Straße und Errichtung von Radwegenbeiderseits der Potsdamer Straße zwischen Germania- und Ungererstraße
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Fortführung und Erweiterung der Warenauslagen für Obst, Gemüse und Südfrüchte, an der Münchner Freiheit
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Verlängerung und Erweiterung der Warenauslagen für Blumen und Postkarten), an der Münchner Freiheit
+- TOP .3.: Standortgenehmigung für Parkscheinautomaten hier: Lizenzgebiet Tristanstraße, Leopoldstraße ggü. Eisenacher Straße
+- TOP .4.: Standortgenehmigung für Parkscheinautomaten hier: Lizenzgebiet Tristanstraße, Parzivalplatz ggü. 3 bis 5
+- TOP .5.: Entscheidung über Sondernutzungserlaubnis hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Aufstellung von Mini-Kleiderständern für Kinderkleidung in der Marktstraße)
+- TOP .6.: Entscheidung über Sondernutzungserlaubnis hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Aufstellung von Kleiderständern / Textil in der Occamstraße)
+- TOP .1.: Radverkehr; Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr Keferstraße - Jungwirthstraße - Liebergesellstraße
+- TOP .1.: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP .2.: Austausch der Lichtzeichenanlage Dietlinden- / Ungererstraße
+- TOP .1.: Aufstellung von Hundekotbeutel_Automaten im Leopoldpark
+- TOP .2.: zeitlich begrenzte Genehmigung für "reines Lizensparken" (Besitzer von Zweitwohnungen)
+- TOP .3.: Monitore für Werbung in U-Bahn-Wägen und Musik in U-Bahnhöfen
+- TOP .4.: Bordsteinabsenkung in der Burmesterstraße
+- TOP .5.: Lastwagen in der Mattighofer Straße
+- TOP .1.: Aufhebung der Kostenpflichtigkeit der Parkplätze an der U-Bahnstation Studentenstadt
+- TOP .2.: Aufstellung von Tempo 30 Schildern auf der Kieferngartenstraße und am Schlößlanger
+- TOP .3.: Einrichtung von Minikreisverkehren im Euroindustriepark
+- TOP .1.: Anordnung von absolutem Haltverbot; Alois-Wolfmüller-Straße, Nordseite
+- TOP .1.: Baumaßnahmen der Stadtwerke München; Leopoldstraße 71 (siehe TOP C.5.3.1)
+- TOP .2.: Preisanpassung an den P+R Anlagen im Stadtgebiet München zum 01.05.2010 Beschluss des Kreisverwaltungsausschusses vom 23.03.2010 Sitzungsvorlage Nr. 08-14 / V 03901
+- TOP .3.: Vollzug der Grünanlagensatzung vom 12.08.1991 a) Baustelleneinrichtung an der Marcel-Breuer-Straße b) Containeranlage an der Marcel-Breuer-Straße c) Baustelleneinrichtung an der Münchner Freiheit d) Baustelleneinrichtung im Leopoldpark
+- TOP .4.: Stadt bezieht Stellung gegen die Initiative des Bayerischen Wirtschaftsministeriums zur Liberalisierung der Einzelhandelsentwicklung (auch im UA BKS TOP B.5.3.2)
+- TOP .5.: EU Projekt "POLIS" - Förderung in IEE II - Zur Identifizierung und Mobilisierung solarer Strategien in Städtebau und strategischer Planung (auch UA STA TOP C.5.3.3.)
+- TOP .6.: Die Königinstraße gehört den Münchnern - keine Privilegien für das US-Generalkonsulat Antrag Nr. 08-14 / A 01214 der BIA vom 25.11.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010 Sitzungsvorlagen Nr. 08-14 / V 03716
+- TOP .7.: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung Beschluss des Kreisverwaltungsausschusses vom 23.03.2010 Sitzungsvorlage Nr. 08-14 / V 03904 (auch UA UV TOP C.5.3.5)
+- TOP .8.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke Sitzungsvorlagen Nr. 08-14 / V 03945 Schienenanbindung des Flughafens Sitzungsvorlagen Nr. 08-14 / V 03946
+- TOP .9.: Werbewahn an der Münchner Freiheit; Schreiben der MVG vom 29.03.2010
+- TOP .10.: Grüne Achse Schwabing Beschluss des Bauausschusses vom 16.03.2010 Sitzungsvorlage Nr. 08-14 / V 03837
+- TOP .11.: Filmaufnahmen auf öffentlichem Verkehrsgrund (8)
+- TOP .12.: Erlaubnisbescheid für Kinderflohmärkte an der Münchner Freiheit, erster Termin: 10.04.2010
+- TOP .13.: Zulassung des Gehwegparkens in der Echinger Straße (Schreiben des KVR vom 08.04.2010
+- TOP .14.: Bekämpfung von Ameisen in Kinderspielbereichen Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.2010
+- TOP .15.: Elektrosmog durch Trafostation am Parzivalplatz: Stellungnahme der SWM vom 01.04.2010
+- TOP .16.: Beibehalten des Landschaftsschutzes in der DB-Gartenanlage an der Sondermeierstraße
+- TOP .17.: Lichtzeichenanlage Bauprogramm Beschluss des Kreisverwaltungsausschusses vom 27.04.2010 Sitzungsvorlage Nr. 08-14 / V 04058
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
