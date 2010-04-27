@@ -1,0 +1,145 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-04-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829008
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829008
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Wahl des/der Ausländerbeauftragten
+- TOP .1.: Zuschuss für "Geschichten Großer Geister", Alter Südfriedhof am 23. und 24.07.2010
+- TOP .1.: Leerstand von Wohnraum in der Rothmundstraße 3
+- TOP .1.: Protokoll der BA-Veranstaltung am 30.11.2009 (Sozialreferat)
+- TOP .2.: Schulanlage Schwanthalerstr. 87/89, Umgestaltung des Schulhofes (Schreiben + Protokoll)
+- TOP .3.: KiJu: Bedarfsampel an der Wittelsbacherstr./Ecke Klenzestr (Stellungnahme KVR)
+- TOP .4.: Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Wohnungsmarkt München; Expertenbefragung 2009
+- TOP .5.: Beschluss Vollversammlung des Stadtrates vom 03.03.2010: Perspektive München; Leitlinie "Kinder- und Familienpolitik", Leitsprojekt 1 "Kinder- und familienfreundliches Wohnen"
+- TOP .6.: Sozialreferat: Informationsveranstaltung für die BAs vom 04.03.2010, Unterlagen "Monitoring für das Sozialreferat" sowie Karten
+- TOP .7.: Beschluss Kinder- und Jugendausschuss gemeinsam mit Sozialausschuss vom 13.04.2010: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger"
+- TOP .8.: Fehlende Hortplätze für die Grundschule Klenze 48 (Schreiben des Schul- und Kultusreferats vom 17.03.2010)
+- TOP .9.: Beschluss Kinder- und Jugendhilfeausschuss vom 09.03.2010: Ausschreibung von trägerschaften für bezuschusste soziale Einrichtungen
+- TOP .10.: Budget-Bescheide - die urbanauten: Temporäre Fußgängerbrücke - digitananalog e.V.: Digitalanalog für Junges Publikum
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Einbürgerungsfeier am 20. April 2010, Teilnahme des BA 2
+- TOP .3.: Planung der BA-eigenen Veranstaltung "Kindertheater"
+- TOP .4.: Tag des offenen Denkmals 2010, Teilnahme des BA 2
+- TOP .5.: Neue Räume für Zenetti-Treff/Jugendtreff Tröpferlbad
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1: Bauvorhaben
+- TOP .3.: Bayerstr. 79: Sanierung, Neubau, Nutzungsänderung, Anbau Balkone
+- TOP .4.: Arnulfstr. 3: Nutzungsänderung
+- TOP .5.: Schwanthalerstr. 57: Nutzungsänderung, Sanierung
+- TOP .6.: Rothmundstr. 5: Erweiterung Freischankfläche
+- TOP .7.: Ehrengutstr. 9: DG-Ausbau, Anbau Aufzug
+- TOP .8.: Kapuzinerstr. 17. Anbau Balkone
+- TOP .9.: Zenettistr. 45: Umbau einer Wohnung
+- TOP .10.: Hans-Sachs-Str. 1: Modernisierung, Nutzungsänderung, Neubau DG, Anbau Balkone
+- TOP .11.: Thalkirchner Str. 4: Erweiterung Gastraum, Teilung der Bürofläche
+- TOP .12.: Lessingstr. 12: Nutzungsänderung
+- TOP .13.: Aventinstr. 1: Nutzungsänderung, Umbau
+- TOP .14.: Gärtnerplatz 2: Errichtung eines Rückgebäudes - Tektur
+- TOP .15.: Hermann-Lingg-Straße
+- TOP .16.: Zenettistr. 29: DG-Um- und Ausbau, Balkonanbau
+- TOP .17.: Klenzestr. 34: Neubau Mehrfamilienhaus
+- TOP .18.: Schwanthalerstr. 47: Nutzungsänderung Boardinghaus
+- TOP .19.: Museumsinsel 1:Rohbau Treppenhäuser, Nutzungsänderung
+- TOP .20.: Häberlstr. 1: Nutzungsänderung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .2.: Geyerstr. 21
+- TOP .3.: Gärtnerplatz 2 (siehe TOP B 3.1.14)
+- TOP .4.: - Lindwurmstr. 2a - Mathildenstr. 8 - Nußbaumstr. 20 - Nußbaumstr. 7 - Pettenkoferstr. 9b
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .2.: Fahrradstellplatzkonzept (1. Realisierungsabschnitt) siehe TOP C 3.3.1
+- TOP .3.: Hermann-Lingg-Straße: Erneuerungsmaßnahme mit Verbesserungen (Beschlussvorlage für die Sitzung des Bauausschusses am 11.05.2010)
+- TOP .1.: Parkautomaten und Schutz von Grün
+- TOP .2.: Bekanntgabe Ausschuss Stadtzplanung und Bauordnung vom 10.03.2010: EU Projekt "POLIS" - Förderung in IEE II
+- TOP .3.: Bekanntgabe Ausschuss Stadtplanung und Bauordnung vom 10.03.2010: Bericht zur EUROCITIES-Jahresversammlung zu Fragen der nachhaltigen Stadtentwicklung im Nov 2009
+- TOP .4.: Spartentunnel Reichenbachbrücke: Wiederbegrünung Baustelleneinrichtungsflächen; Verschiebung der Ersatzpflanzungen (Schreiben der Münchner Stadtentwässerung vom 08.03.2010)
+- TOP .5.: Vollzug des BImSchG: Krandemontage Lindwurmstr. 99 (18. - 19.03.2010)
+- TOP .6.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Ausstellung "stadt_bau_plan - 850 Jahre Stadtentwicklung München" sichern
+- TOP .7.: Beschluss Kreisverwaltungsausschuss vom 23.03.2010: Preisanpassung an den P + R Anlagen im Stadtgebiet München zum 01.05.2010
+- TOP .8.: Klenzestr. 99: Ungenehmigte Nutzungsänderung von WOhn- und Büroräumen, Zwangsgeldfälligkeit (VG München, Urteil vom 25.02.2010)
+- TOP .9.: Beschluss der Vollversammlung des Stadtrates vom 24.03.2010: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP .10.: Beschluss der Vollversammlung des Stadtrates vom 24.03.2010: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke
+- TOP .11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.03.2010: Nutzung erneuerbarer Energien
+- TOP .12.: Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Beschlussvollzugskontrolle
+- TOP .13.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.03.2010: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP .14.: Landwehrstr. 56: Baugenehmigung vom 19.03.2010
+- TOP .15.: Baumaßnahmen SWM: Bayerstr. 7
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .6.: Antrag des UA KVR: Schriftliche Mahnung der Freischankflächenbesitzer, die ihre FSF nicht markieren
+- TOP .7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Antrag auf Genehmigung einer Freischankfläche: Pestalozzistr. 16
+- TOP .2.: Antrag auf Erweiterung einer Freischankfläche: Dreimühlenstr. 17
+- TOP .3.: Antrag auf Erweiterung einer Freischankfläche: Bayerstr. 47
+- TOP .4.: Antrag auf Aufhebung der Sperrzeit: Arnulfstr. 17
+- TOP .5.: Antrag auf Genehmigung einer Freischankfläche: Baldestr. 13
+- TOP .6.: Antrag auf Erweiterung einer Freischankfläche: Pestalozzistr. 21
+- TOP .7.: Antrag auf Erweiterung einer Freischankfläche: Hans-Sachs-Str. 9
+- TOP .8.: Antrag auf Genehmigung einer Freischankfläche: Thalkirchner Str. 16
+- TOP .9.: Antrag auf Genehmigung einer Freischankfläche: Baaderstr. 35
+- TOP .10.: Antrag auf Erweiterung einer Freischankfläche: Müllerstr. 51
+- TOP .11.: Antrag auf Genehmigung einer Freischankfläche: Bayerstr. 7
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für eine Warenauslage: Kapuzinerstr. 12
+- TOP .2.: Antrag für eine Warenauslage: Fraunhoferstr. 4
+- TOP .3.: Antrag auf einen mobilen Fahrradständer: Schillerstr. 21
+- TOP .4.: Antrag für eine Warenauslage: Goethestr. 38
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Ziffer 1 des Antrags Nr. 9 aus der BV 02 vom 12.11.2009: Ganzjährige Querung für die Anwohner der Theresienwiesn
+- TOP .3.: Sperrung der Wiesn-Anrainer-Viertel für Gelegenheitsparker (Ziffer 1 b des Originalantrags)
+- TOP .1.: 6. Glockenbach Sommermarkt, 31.07.2010
+- TOP .2.: Straßenfest in der Pestalozzistr., 28.08.2010 (Ersatztermin 04.09.2010)
+- TOP .3.: Anwohnerfest in der Klenzestraße am 03.06.2010 (Ersatztermin am 06.06.2010)
+- TOP .4.: 2. Ökumenischer Kirchentag vom 12.05.2010 - 16.05.2010 (eilt!)
+- TOP .5.: Straßenfest mit Flohmarkt in der Geyerstraße, 12.06.2010
+- TOP .7.: Blade Night, jeweils montags vom 03.05. bis 06.09.2010
+- TOP .8.: Geschichten Großer Geister, Alter Südfriedhof, 23. und 24.07.2010
+- TOP .9.: KUBU am Glockenbach: Sommerfest, 07.05. - 09.05.2010
+- TOP .10.: KUBU am Glockenbach: Public Viewing, ab 15.05.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Leistungsprogramm 2011 der MVG (Fahrplanwechsel Dezember 2010)
+- TOP .2.: Übergang St. Paul-Straße bei der U-Bahn (Zebrastreifen)
+- TOP .1.: Fahrradstellplatzkonzept (1. Realisierungsabschnitt)
+- TOP .2.: BA 12: "Wie viel Ströer verträgt die Stadt?" - Verunstaltung des Straßen- und Platzbildes durch Werbeträger aller Art verhindern
+- TOP .1.: Google Street View; Antrag des BA 15 (BA-Antrag Nr. 08-14 / B 01901) + Stellungnahme des BA 13
+- TOP .2.: Versammlungen unter freiem Himmel: 4
+- TOP .4.: Filmaufnahmen auf öffentlichem Verkehrsgrund: 3
+- TOP .5.: Videokameras in der Thalkirchner Str.: Schreiben des Bayerischen Landesamtes für Datenschutzaufsicht (BA-Antrag Nr. 08-14 / B 01586)
+- TOP .6.: Unveränderte Gaststättenfortführung: - Rennsalon (ehemals Baldeschänke), Baldestr. 13 - Jennifer Parks (ehemals Spike), Holzstr. 14 - Sound Cafe, Bayerstr. 49
+- TOP .7.: Beschluss Vollversammlung Stadtrat vom 03.03.2010: Stadt bezieht Stellung gegen Initiative zur Liberalisierung der Einzelhandelsentwicklung
+- TOP .8.: Ampelabschaltung Bavariaring
+- TOP .9.: Ampelabschaltung Kaiser-Ludwig-Platz
+- TOP .10.: Beschluss Kreisverwaltungsausschuss vom 23.03.2010: Novellierung der Sondernutzungsrichtlinien und der Sondernutzungsgebührensatzung
+- TOP .11.: Verkehrsrechtliche Anordnung: - Arnulfstr. 1; Polizeianfahrtszone - Ickstattstr. 3a; Aufhebung Behindertenparkplatz
+- TOP .12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .13.: Anbringen eines Verkehrsspiegels am Fußweg Kapuziner-/Ecke Isartalstraße
+- TOP .14.: Uhr am Baldeplatz
+- TOP .1.: Bürgeranliegen: Schaffung einer Parknische für den Schwimmbus
+- TOP .2.: Bürgeranliegen: Freischankflächen in der Reichenbachstraße
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .3.: entfällt
+- TOP .2.: Veranstaltungen
