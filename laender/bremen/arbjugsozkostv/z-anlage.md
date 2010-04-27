@@ -47,10 +47,10 @@ B. | Kostentatbestände |
 302.06 | Sonstige Messplätze auf Stationen in Krankenhäusern oder vergleichbaren Einrichtungen, pro überwachter Stelle | 59,80 Euro
 31 | Gebühren auf dem Gebiete des Arbeitsschutzes und der technischen Sicherheit | 
 310 | Sozialer Arbeitsschutz | 
-310.00 | Ausnahmen von den Vorschriften über die Arbeitszeit und den Vorschriften über das Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen | 54,00 Euro bis 800,00 Euro
-310.01 | Amtshandlungen auf Grund des Mutterschutzgesetzes und § 18 Abs. 1 des Bundeserziehungsgeldgesetzes | 108,00 Euro bis 1.200,00 Euro
+310.00 | Ausnahmen von den Vorschriften über die Arbeitszeit und den Vorschriften über das Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen | 54,00 Euro bis 1 200,00 Euro
+310.01 | Amtshandlungen aufgrund des Mutterschutzgesetzes, des § 18 Absatz 1 des Bundeselterngeld- und Elternzeitgesetzes sowie des § 5 Absatz 2 des Pflegezeitgesetzes | 108,00 Euro bis 1 200,00 Euro
 310.02 | Ausnahmen vom Jugendarbeitsschutzgesetz | 54,00 Euro bis 600,00 Euro
-310.03 | Ausnahmen vom Ladenschlussgesetz | 54,00 Euro bis 300,00 Euro
+310.03 | Ausnahmen vom Bremischen Ladenschlussgesetz | 54,00 Euro 300,00 Euro
 310.04 | Ausgabe von Kontrollgeräten nach dem Fahrpersonalgesetz | 
  | a) Fahrerkarte | 22,00 Euro
  | b) Werkstattkarte | 30,00 Euro
@@ -74,7 +74,7 @@ B. | Kostentatbestände |
 314.03 | Registrierung von Strahlenpässen; je Strahlenpass | 25,00 Euro
 314.04 | Ausstellung von Fachkundebescheinigungen | 35,00 Euro
 314.05 | Sonstige Amtshandlungen auf Grund der Strahlenschutzvorschriften | 54,00 Euro bis 400,00 Euro
-315 | Geräte- und Produktsicherheitsgesetz sowie Medizinproduktegesetz | 
+315 | Geräte- und Produktsicherheitsgesetz | 
 315.00 | Genehmigungen zur Errichtung und zum Betrieb von Anlagen sowie Änderung dieser Genehmigungen | 5 v. T. der Errichtungskosten mind. 162,00 Euro
  | Die Gebühr erhöht sich ggf. um eine nach Nr. 315.01 fällige Gebühr. | 
  | Anmerkungen: | 
