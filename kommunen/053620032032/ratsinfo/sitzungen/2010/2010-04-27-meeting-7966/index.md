@@ -1,0 +1,54 @@
+# Ausschuss für Stadtplanung und Verkehr (4. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-04-27T17:03:00+02:00
+- Ende: 2010-04-27T22:22:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUgJLuYe1aOfFbZmMGx8Q5Y
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7966
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfZHh7LBWYCExThRlYUsiCU3l-nTbHxl-VVwU1TWMJRT/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_27.04.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 3. Sitzung vom 09. März 2010
+- TOP 2.: Umsiedlung Manheim
+- TOP 2.1: Zukunftsweisende Energiekonzeption für Manheim-neu
+- TOP 2.2: Einrichtung einer Anrufungsstelle Bergschäden für das Rheinische Braunkohlenrevier
+- TOP 2.3: Verkehrsanbindung Manheim-neu
+- TOP 2.4: Niederschrift der 33. Sitzung des Bürgerbeirates Manheim
+- TOP 2.5: Bericht der Verwaltung
+- TOP 3.: Stadtentwicklung
+- TOP 3.1: Gewerbeflächenkonzept für die Stadt Kerpen
+- TOP 3.2: Gestaltung von Kreisverkehren - Sponsoring
+- TOP 3.3: Fahrradfreundliche Stadt Kerpen
+- TOP 3.4: Umbau Hahnenstraße
+- TOP 3.5: Bericht zu den Kontrakten „Wohnbaulandentwicklung“, „Bodenpolitik“ und „Familien- und Kinderfreundlichkeitsprüfung in der Bauleitplanung“ in der Stadt Kerpen für den Zeitraum vom 01.08.2008 bis zum 31.03.2010
+- TOP 3.5.1: Verlängerung des Kontraktes zur Wohnbaulandentwicklung in der Stadt Kerpen
+- TOP 3.5.2: Verlängerung des Kontraktes über die Bodenpolitik in der Stadt Kerpen
+- TOP 3.5.3: Verlängerung des Kontraktes über Familien- und Kinderfreundlichkeitsprüfung in der Stadt Kerpen
+- TOP 3.6: 2. Änderung des Einzelhandelskonzeptes der Stadt Kerpen und Abschluss eines Kontraktes zum Einzelhandelskonzept der Stadt Kerpen
+- TOP 3.7: Erstellung eines unabhängigen geologischen Gutachtens zum Tagebau Buir – Antrag der Fraktion DIE LINKE vom 13.03.2010
+- TOP 3.8: Niederschrift der 4.Sitzung des Arbeitskreises "Tagebau Buir" vom 14.04.2010
+- TOP 4.: Bauleitplanung
+- TOP 4.1: 59. Änderung des Flächennutzungsplanes "Westliche Regengasse", Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 4.2: Bebauungsplan KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 4.3: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen
+- TOP 4.4: Bebauungsplan KE Nr. 332 "Hahnenstraße" im Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung
+- TOP 4.5: Bebauungsplan TÜ Nr. 6 "Alfred-Nobel-Straße", Stadtteil Türnich hier: Beschluss zur Offenlage
+- TOP 4.6: Sachstandsbericht Bolzplatz Brüggen
+- TOP 5.: Verkehrsplanung
+- TOP 5.1: Niederschrift der 2. Sitzung der Kinderunfallkommission vom 22.04.2010
+- TOP 5.2: Widmung von Straßen
+- TOP 6.: Mitteilungen
+- TOP 6.1: Wohnbaulandentwicklung in Kerpen
+- TOP 7.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 7.1: Fahrkartenautomat im Rathaus - Lesbarkeit der Minifahrpläne
+- TOP 7.2: Sachstandsbericht zu den Sofortmaßnahmen am Unfallschwerpunkt Erfttalstraße/Knotenpunkt A4
+- TOP 8.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
