@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-04-27T16:00:00+02:00
+- Ende: 2010-04-27T18:50:00+02:00
+- Ort: extern
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3061
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3061
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00139366.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00139366.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00139366.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen und Einwohnern - zur Kenntnis genommen
+- TOP 4: Graf-Recke-Siftung - Aufgaben, Organisation - zur Kenntnis genommen
+- TOP 5: Entwicklungsplanung Graf-Recke-Stift - zur Kenntnis genommen
+- TOP 6: BPl 5988/01-Wasserwerksweg-Einw.ÖB;Stellungn.BehB;ÖAus - zur Kenntnis genommen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Zuschuss an den Lohausener Sportverein 1920 e.V. - zur Kenntnis genommen
+- TOP 12: Bauunterhaltungsmittel 2010 - zur Kenntnis genommen
+- TOP 13: Niederrheinstraße - östliche Seite zwischen Freiligrathplatz und Stockumer Höfe - zur Kenntnis genommen
+- TOP 14: Wohnungsmarkt Düsseldorf - zur Kenntnis genommen
+- TOP 15: Hochbahnsteige im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 16: Kinder- und Jugendförderplan 2010 - 2014 - zur Kenntnis genommen
+- TOP 17: Familienzentrum Angermund - zur Kenntnis genommen
+- TOP 18: Standort Familienzentrum Angernund - zur Kenntnis genommen
+- TOP 19: Alte Landstraße von Hausnr. 87 - 107 - zur Kenntnis genommen
+- TOP 20: Freiheitshagen - zur Kenntnis genommen
+- TOP 21: Gestaltung Kaiserswerther Markt - zur Kenntnis genommen
+- TOP 22: Rahmer Straße - Halteverbotsbeschilderung - zur Kenntnis genommen
+- TOP 23: kleine Kapelle Duisburger Landstraße - zur Kenntnis genommen
+- TOP 24: Alte Landstraße - Geschwindigkeitsbegrenzung - zur Kenntnis genommen
+- TOP 25: Kaiserswerther Markt - Neugestaltung - zur Kenntnis genommen
+- TOP 26: Graffiti - zur Kenntnis genommen
+- TOP 27: Grundschulen im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 28: 20 Jahre Historischer Stadtkern Kaiserswerth - zur Kenntnis genommen
+- TOP 29: Stellungnahmen/Mitteilungen 27.04.2010 - zur Kenntnis genommen
+- TOP 30: Niederrheinstraße von Kittelbachstraße bis Sankt-Göres Straße - zur Kenntnis genommen
+- TOP 31: Verkehrssituation im Stadtbezirk 5 durch Ausbau B8n - zur Kenntnis genommen
+- TOP 32: Sachstand des Klageverfahrens gegen den Neubauabschnitt der A 44 zwischen Ratingen und Velbert - zur Kenntnis genommen
+- TOP 33: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 34: Verschiedenes - zur Kenntnis genommen
