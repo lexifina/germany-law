@@ -1,0 +1,65 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-04-28T18:20:00+02:00
+- Ende: 2010-04-28T21:56:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7271
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7271
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00292959.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Bebauungspläne der Wohn + Stadtbau an der Salzmannstraße (Flurstück 218)
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 7.1: Hinweistafel mit erläuterndem Text zum Traindenkmal errichten - verwiesen
+- TOP 7.2: Ausschluss kerngebietstypischer Vergnügungsstätten im Bebauungsplan Nr. 342 - verwiesen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Stadt Münster unterstützt Entwicklung und Wirken des Integrationsrats - verwiesen
+- TOP 9: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2004 - 2006 und Frauenförderplan 2010 - 2012 - von der Tagesordnung abgesetzt
+- TOP -: Ausstieg aus der Kohleverstromung in Hamm
+- TOP 10: Entwicklung von Leitbildzielen und strategischen Zielen im Rahmen der Einführung einer zielrientierten Steuerung und weiteren Haushaltsentwicklung - mehrheitlich geändert beschlossen
+- TOP 11: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Städtische Bühnen Münster, inkl. 5. Finanzformel für die Spielzeiten 2011/2012 bis 2013/2014 - mehrheitlich geändert beschlossen
+- TOP 12: Strategisches Flächenmanagement der Stadt Münster: Bildung eines optimierten Immobilienbestandes und dessen Erhalt durch nachhaltige Bewirtschaftung - mehrheitlich beschlossen
+- TOP 13: Satzung zur Begründung eines besonderen Vorkaufsrechts für die Großwohnsiedlung "Kinderhaus-Brüningheide" gemäß § 25 Abs. 1 Nr. 2 des Baugesetzbuchs (BauGB) - einstimmig geändert beschlossen
+- TOP 14: Vorfinanzierung der Erneuerung der Klarissengasse - mehrheitlich beschlossen
+- TOP 15: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich abgelehnt
+- TOP 16: Umwandlung des vierten Halbtagszuges an der Wartburgschule (ev. Grundschule) in einen gebundenen Ganztagszug zum Schuljahr 2010/2011 - einstimmig beschlossen
+- TOP 17: Dringlichkeitsentscheidung gem. § 60 GO NW, hier: Investition der Kommunalen Stiftungen Münster in Fotovoltaikanlagen auf Dächern ihrer eigenen Immobilien - einstimmig beschlossen
+- TOP 18: Schlussfolgerungen aus der Analyse des Wettbewerbsbeitrages der Stadt Münster - einstimmig geändert beschlossen
+- TOP 19: Klimaschutzkonzept 2020 für Münster - mehrheitlich beschlossen
+- TOP 19.1: Klimaschutzkonzept 2020 für Münster
+- TOP 20: Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster - einstimmig beschlossen
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - einstimmig beschlossen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Münster-West
+- TOP 23.1.1: Veränderungssperre Nr. 99 für den Bereich Mecklenbeck - Weseler Straße 651 - 653 - einstimmig beschlossen
+- TOP 23.1.2: Veränderungssperre Nr. 100 für den Bereich Nienberge - Altenberger Straße - einstimmig beschlossen
+- TOP 23.2: Stadtbezirk Münster-Hiltrup
+- TOP 23.2.1: 1. Änderung des Bebauungsplanes Nr. 483 - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 23.3: Stadtbezirk Münster-Nord
+- TOP 23.3.1: 38. Änderung des Flächennutzungsplanes für den Bereich der Entlastungsstraße Nord - mehrheitlich beschlossen
+- TOP 23.3.1.1: 38. Änderung des Flächennutzungsplanes für den Bereich der Entlastungsstraße Nord
+- TOP 23.4: Stadtbezirk Münster-Ost
+- TOP 23.4.1: Entwurf der Stellungnahme der Stadt Münster zu den Deckblättern II, IV, V, VI, VII, VIII der Plan-feststellung für den Ausbau der B51/B 481n - mehrheitlich beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 24.1: Schulsanierungen wie geplant durchführen - keine Vorfestlegungen in der Schulentwicklungsplanung - mehrheitlich beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 25.1: Reaktivierung der WLE: Bestand sichern, Realisierungsperspektive eröffnen - verwiesen
+- TOP 25.2: Kinder und Jugendliche wirken an der Gestaltung ihrer Lebenswelt mit - Partizipation und Partizipationsformen für Kinder und Jugendliche in der Stadt Münster altersgerecht ausbauen und weiterentwickeln - verwiesen
+- TOP 25.3: Planungen Knotenpunkt B51/Warendorfer Str. überarbeiten - verwiesen
+- TOP 25.4: Ein kostenloses Girokonto für Münsterpass-Berechtigte - verwiesen
+- TOP 25.5: Gesundheitsinitiative an Schulen: Vorbeugung durch Hygiene - verwiesen
+- TOP 25.6: Münster unterstützt die Kampagne "Steuer gegen Armut" - verwiesen
+- TOP 26: Verschiedenes
