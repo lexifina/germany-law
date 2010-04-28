@@ -1,0 +1,60 @@
+# 4. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-04-28T17:03:00+02:00
+- Ende: 2010-04-28T21:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7341
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7341
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00292847.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen von Bezirksvertretungen
+- TOP 2.1: Anregung der Bezirksvertretung Münster-Südost an den Rat Nr. ABV/0001/2009 "Auf dem Angelmodder Weg zwischen Wersebrücke und Ortseingangsschild Gremmendorf wird eine einheitliche Geschwindigkeitsbegrenzung (Tempo 50) eingerichtet." - einstimmig beschlossen
+- TOP 2.2: Gemeinsamer Antrag der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen/GAL und der Fraktion DIE LINKE Nr. A-R/0035/2010 "Bebauung Grevener Straße: Wunde im Stadtbild schließen, Wohngebäude mit Einfachausstattung erhalten, bezahlbaren Wohnraum errich - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen/GAL, Fraktion Die Linke, Ratsgruppe UWG/ÖDP und Ratsherr Langenfeld an den Rat Nr. A-R/0020/2010 vom 03.02.2010 "Hafenforum - Neue Perspektiven für die Entwicklung am Hafen" - einstimmig beschlossen
+- TOP 2.4: Antrag A-R/0023/2010 der CDU-Fraktion im Rat der Stadt Münster vom 04.03.2010 - "Weichen für ein attraktives Bahnhofsumfeld und eine baldige Sanierung des Bahnhofs Hiltrup stellen" - einstimmig beschlossen
+- TOP 2.5: Antrag Nr. A-R/0037/2010 der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen/GAL, Fraktion Die Linke. Münster, Ratsherr Pfau (UWG), Ratsherr Kersting (ödp), Ratsherr Langenfeld (Piraten) "Vorrang für den öffentlichen Verkehr - Perspektiven für den Perso - einstimmig beschlossen
+- TOP 2.6: Antrag A-R/0004/2010 der CDU-Fraktion im Rat der Stadt Münster vom 19.01.2010 - "Rathaus öffnen: Bürgerschaft an der Statentwicklung beteiligen" - einstimmig geändert beschlossen
+- TOP 2.7: Antrag der SPD-Fraktion an den Rat Nr. A-R/0033/2010 "Münsters Schülerinnen und Schüler mobiler machen - Ein Schul- und Freizeitticket für Münster" - einstimmig beschlossen
+- TOP 2.8: Antrag der SPD-Fraktion an den Rat Nr. A-R/0032/2010 "Stützungsmaßnahmen für den Schulstandort Kinderhaus ergreifen" - einstimmig beschlossen
+- TOP 2.9: Antrag der SPD-Fraktion an den Rat Nr. A-R/0017/2010 vom 25.01.2010 - einstimmig beschlossen
+- TOP 2.10: Antrag der FDP-Ratsfraktion an den Rat Nr. A-R/0026/2010: "Kultur-Fördertopf stärkt Transparenz und Mitsprache" - einstimmig beschlossen
+- TOP 2.11: Antrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen/GAL, Fraktion DIE LINKE., Ratsgruppe UWG/ödp, Ratsherr Langenfeld an den Rat A-R/0021/2010: Münsterpass wieder neu einrichten - mehrheitlich geändert beschlossen
+- TOP 2.12: Antrag der SPD-Fraktion an den Rat A-R/0034/2010 vom 09.03.2010: Umzugsaufforderungen einstellen - Wohnraum schaffen! - einstimmig beschlossen
+- TOP 2.13: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0038/2010: "SGB II-Leistungen weiter aus einer Hand sicherstellen!" - einstimmig beschlossen
+- TOP 3: Präventionskonzept Frühe Hilfen Hier: Familienbesuche in Münster - 1. Erfahrungsbericht - zur Kenntnis genommen
+- TOP 4: Münster am See - die Zukunft eines innerstädtischen Lebensraums - einstimmig geändert beschlossen
+- TOP 4.1: Münster am See - die Zukunft eines innerstädtischen Lebensraums
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2004 - 2006 und Frauenförderplan 2010 - 2012 - von der Tagesordnung abgesetzt
+- TOP 6: Entwicklung von Leitbildzielen und strategischen Zielen im Rahmen der Einführung einer zielrientierten Steuerung und weiteren Haushaltsentwicklung - ohne Beschlussfassung geschoben
+- TOP 7: Managementkontrakt mit der eigenbetriebsähnlichen Einrichtung Städtische Bühnen Münster, inkl. 5. Finanzformel für die Spielzeiten 2011/2012 bis 2013/2014 - ohne Beschlussfassung geschoben
+- TOP 8: Strategisches Flächenmanagement der Stadt Münster: Bildung eines optimierten Immobilienbestandes und dessen Erhalt durch nachhaltige Bewirtschaftung - ohne Beschlussfassung geschoben
+- TOP 9: Satzung zur Begründung eines besonderen Vorkaufsrechts für die Großwohnsiedlung "Kinderhaus-Brüningheide" gemäß § 25 Abs. 1 Nr. 2 des Baugesetzbuchs (BauGB) - ohne Beschlussfassung geschoben
+- TOP 10: Vorfinanzierung der Erneuerung der Klarissengasse - einstimmig beschlossen
+- TOP 11: Benutzungs- und Gebührensatzung der Lehranstalt für pharmazeutisch-technische Assistenten/innen - mehrheitlich abgelehnt
+- TOP 12: Umwandlung des vierten Halbtagszuges an der Wartburgschule (ev. Grundschule) in einen gebundenen Ganztagszug zum Schuljahr 2010/2011 - einstimmig beschlossen
+- TOP 13: Dringlichkeitsentscheidung gem. § 60 GO NW, hier: Investition der Kommunalen Stiftungen Münster in Fotovoltaikanlagen auf Dächern ihrer eigenen Immobilien - einstimmig beschlossen
+- TOP 14: Schlussfolgerungen aus der Analyse des Wettbewerbsbeitrages der Stadt Münster - einstimmig beschlossen
+- TOP 15: Klimaschutzkonzept 2020 für Münster - mehrheitlich geändert beschlossen
+- TOP 15.1: Klimaschutzkonzept 2020 für Münster
+- TOP 16: Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - einstimmig beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk West
+- TOP 17.1.1: Veränderungssperre Nr. 99 für den Bereich Mecklenbeck - Weseler Straße 651 - 653 - einstimmig beschlossen
+- TOP 17.1.2: Veränderungssperre Nr. 100 für den Bereich Nienberge - Altenberger Straße - einstimmig beschlossen
+- TOP 17.2: Stadtbezirk Hiltrup
+- TOP 17.2.1: 1. Änderung des Bebauungsplanes Nr. 483 - Beschluss zur Änderung - mehrheitlich beschlossen
+- TOP 17.3: Stadtbezirk Nord
+- TOP 17.3.1: 38. Änderung des Flächennutzungsplanes für den Bereich der Entlastungsstraße Nord - mehrheitlich beschlossen
+- TOP 17.3.1.1: 38. Änderung des Flächennutzungsplanes für den Bereich der Entlastungsstraße Nord
+- TOP 17.4: Stadtbezirk Ost
+- TOP 17.4.1: Entwurf der Stellungnahme der Stadt Münster zu den Deckblättern II, IV, V, VI, VII, VIII der Plan-feststellung für den Ausbau der B51/B 481n - mehrheitlich beschlossen
+- TOP 18: Verschiedenes
