@@ -1,0 +1,54 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-04-28T18:00:00+02:00
+- Ende: 2010-04-28T22:15:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVMd9RNQZ5L-rQSRvtK9F5I
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1808
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeXY72FII64WsXCbf_QcPsM1v4gH03-_RixNM2Jup0va/Bekanntmachung_Rat_28.04.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYmwk7Kl7eqHqHGSvYc3QE0JZWMGeJO-7ZgHi9iJGvrt/Oeffentliche_Niederschrift_Rat_28.04.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 24.03.2010
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Frühe Sprachförderung intensivieren - Bildungschancen verbessern Antrag der SPD-Fraktion vom 10.01.2010 - 22 Jastimmen, 0 Neinstimmen, 20 Enthaltungen
+- TOP 3.2: Patenschaften für die Tiere des Stadtparks Gronau; Antrag der SPD-Fraktion vom 14.04.2010 - Einstimmig, 1 Enthaltungen
+- TOP 4.: Budgetbericht zum I-Quartal 2010 - Ohne Abstimmung
+- TOP 5.: Wirtschaftsplan 2010 der Stadtwerke Gronau GmbH - Einstimmig, 15 Enthaltungen
+- TOP 6.: Wirtschaftsplan 2010 der rock´n popmuseum GmbH - Einstimmig, 15 Enthaltungen
+- TOP 7.: Wirtschaftsplan 2010 der Kulturbüro Gronau GmbH - Einstimmig, 15 Enthaltungen
+- TOP 8.: Wirtschaftsplan 2010 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG) - Einstimmig, 15 Enthaltungen
+- TOP 9.: Verwendung von Mitteln des Konjunkturpaketes II - 3. Tranche für Sportfördermaßnahmen - Einstimmig, 0 Enthaltungen
+- TOP 10.: Sanierung der Wärmeerzeuger des ZBU / Errichtung einer 150 KW-Hackschnitzelfeuerung mit Heizraum und Hackgutlager hier: Finanzierung der Maßnahme über ein KfW-Darlehen - Einstimmig, 0 Enthaltungen
+- TOP 11.: Wiederwahl des Technischen Beigeordneten (Stadtbaurat) der Stadt Gronau
+- TOP 12.: Stellenplan der Stadt Gronau für das Haushaltsjahr 2010; Einrichtung einer zusätzlichen Stelle (17 Std./Woche) im Fachdienst Innere Verwaltung - 27 Jastimmen, 12 Neinstimmen, 3 Enthaltungen
+- TOP 12.1: Stellenplan der Stadt Gronau für das Haushaltsjahr 2010 - 13 Jastimmen, 18 Neinstimmen, 11 Enthaltungen
+- TOP 13.: Abschließende Beratung des Gesamtbudgets 2010
+- TOP 13.1: Abschließende Beratung des Gesamtbudgets 2010 1. Ergänzung - 24 Jastimmen, 0 Neinstimmen, 18 Enthaltungen
+- TOP 14.: Bestellung von Vertreter(n)/innen in Gesellschafterversammlungen und Aufsichtsräten städtischer Gesellschaften - 24 Jastimmen, 18 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Festlegung der Befugnisse der Ausschüsse nach § 58 der Gemeindeordnung NRW
+- TOP 15.1: Festlegung der Befugnisse der Ausschüsse nach § 58 der Gemeindeordnung NRW - 17 Jastimmen, 24 Neinstimmen, 0 Enthaltungen
+- TOP 16.: Satzungsbeschluss zur Außenbereichssatzung "Füchter Straße", Stadtteil Gronau - 24 Jastimmen, 16 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 144 "Spinnerei Deutschland", 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gemäß § 13a BauGB) 1. Aufstellungsbeschluss 2. Auslegungsbeschluss 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 145 "Kurfürstenstraße - Glanemanns Weg", 1. vereinfachte Änderung, Stadtteil Gronau 1. Aufstellungsbeschluss 2. Auslegungsbeschluss 3. Beteiligung der Behörden - 39 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 19.: Bebauungsplan Nr. 67 "Nördlich der Wilhelmschule", 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung) 1. Aufstellungsbeschluss 2. Auslegungsbeschluss 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 20.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 21.: Mitteilungen der Verwaltung
+- TOP 22.: Anfragen
+- TOP 22.1: Ausschilderung der Baustelle Nienborger Straße (RM von Borczyskowski)
+- TOP 22.2: Förderverein für das Rock´n´Popmuseum (RM Buchholz)
+- TOP 22.3: Rettungswege zur Urenco Deutschland GmbH (RM Buchholz)
+- TOP 22.4: Verlegung des Workshops zum Einzelhandelskonzept (RM Schwartze)
+- TOP 22.5: Inbetriebnahme des Personenaufzugs im Bahnhof Gronau (RM John)
+- TOP 22.6: Überprüfung der Rechtmäßigkeit des Beschlusses zum Budget 2010 (RM Möllers)
+- TOP 22.7: Betrieb der Ampel an der Kreuzung Spinnereistraße/Losserstraße (RM Bartels)
+- TOP 22.8: Fußgängerampel im Ortszentrum von Epe (RM Krefter)
+- TOP 22.9: Nächste Sitzung des Integrationsausschusses (RM Adamsky)
+- TOP 22.10: Ebenerdige Zuwegung zu den Gleisen des Bahnhofs Gronau (RM Buchholz)
