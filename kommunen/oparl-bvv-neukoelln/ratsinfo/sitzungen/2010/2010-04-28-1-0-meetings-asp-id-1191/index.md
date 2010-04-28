@@ -1,0 +1,94 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-04-28T17:10:00+02:00
+- Ende: 2010-04-28T21:25:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1191
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1191
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Nachwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Wahl eines Schiedsmanns für den Schiedsamtsbezirk Neukölln 2 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Wahl eines Schiedsmanns für den Schiedsamtsbezirk Neukölln 4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.4: Wahl eines Schiedsmanns für den Schiedsamtsbezirk Neukölln 6 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan 8-33 vom 27.01.2010 - Buckower Damm - - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan 8-27 ("Leonberger Ring") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Berichte der Patientenfürsprecher für das Jahr 2009 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Resozialisierung in Neukölln - beantwortet
+- TOP 9.2: Beleuchtung des Rathausturms - beantwortet
+- TOP 9.3: Asylbewerber - beantwortet
+- TOP 9.4: Inn-Sportplatz - beantwortet
+- TOP 9.5: Heinz Stapf-Filme - gegenstandslos
+- TOP 9.6: Linke Gewalt - beantwortet
+- TOP 9.7: Deutsch-Garantie - beantwortet
+- TOP 9.8: Kriminalstatistik - beantwortet
+- TOP 9.9: Berliner Schulen - beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Denkmalschutz in Neukölln - beantwortet
+- TOP 10.2: Gewaltvorfälle an Schulen in Neukölln - beantwortet
+- TOP 10.3: "2010 mit dem Rad zum Bezirksamt?" - beantwortet
+- TOP 10.4: Tätigkeit der Treberhilfe gGmbH für das Bezirksamt Neukölln - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Zusammenarbeit mit der islamischen Gemeinde Milli Görüs - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Homophobie in Neuköllner Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Hinweisschilder auf Kulturdenkmale auf U-Bahnhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Trägerwechsel bei Kindertagesstätten - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Zuschüsse zu Kita-Fahrten für Kinder aus Hartz-IV-Familien - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Seniorenspielplatz auf dem Gelände Flugplatz Tempelhof - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Keine Zusammenarbeit mit der Islamischen Gemeinschaft Milli Görüs - gegenstandslos
+- TOP 11.8: Keine Homophobie in Neuköllner Jugendeinrichtungen - gegenstandslos
+- TOP 11.9: Zusätzliche Mittel für Neuköllner Straßen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Weiterbau der A 100 stoppen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: FNP-Änderungsverfahren Tempelhofer Feld - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.12: U-Bahnhof Karl-Marx-Straße in "Böhmisches Dorf" umbenennen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.13: Kita-Ausbildungsverbund - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Einsatz mehrsprachiger Erzieherinnen in Kitas insbesondere bei bilingualer Ausrichtung - beantwortet
+- TOP 12.2: Neukölln und der neue Flughafen BBI - beantwortet
+- TOP 12.3: Bündnisarbeit nunmehr im Bezirk? - beantwortet
+- TOP 12.4: Gewalt an Neuköllner Schulen - beantwortet
+- TOP 12.5: Korruptionsbekämpfung in Neukölln - beantwortet
+- TOP 12.6: Altersarmut - beantwortet
+- TOP 12.7: Vergleichsarbeiten in der Grundschule - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Vergleichsarbeiten der Grundschulen - schriftlich beantwortet
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Ausbau der bilingualen Plätze in der Kita Riesestraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Erweiterung der Freiwilligenbörse - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Östlicher Ausgang des S-Bahnhofs Neukölln - überwiesen
+- TOP 14.4: Erhalt der Beratungsstelle für Hörbehinderte - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Krankenversicherungszuschüsse - überwiesen
+- TOP 14.6: Mieterberatung verstärken - überwiesen
+- TOP 14.7: Zeitungs- und Zigarettengeschäfte - in der BVV abgelehnt
+- TOP 14.8: "Infobox" am Tempelhofer Feld - überwiesen
+- TOP 14.9: Mehr Transparenz - überwiesen
+- TOP 14.10: Teil-Umbenennung der Falkstraße - überwiesen
+- TOP 14.11: Gedenkstätte für die Opfer des Nationalsozialismus - überwiesen
+- TOP 14.12: Tempelhofer Feld - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Konzept für den Schillerkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Vermüllte Plätze in der Gropiusstadt - Bat-Yam-Platz und Lipschitzplatz - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Produktives Lernen in den Integrierten Sekundarschulen erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Handreichung Bürgerbeteiligung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Eingänge zum Tempelhofer Feld - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Überquerungshilfe am U-Bahnausgang Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauungsplan XIV-287b vom 06.07.2007 ("Krugpfuhlsiedlung - Rambowstraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Wohnungsbordelle eindämmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Schulentwicklungsplan 2009-2014 und Fusion von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Bebauungsplan XIV-185cba vom 13.02.2008 mit Deckblatt vom 10.06.2009 ("Sanierungsgebiet Wederstraße - Erweiterung der Zürich-Grundschule") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Bushaltestelle für das Sportzentrum Neukölln - mit Abschlussbericht zur Kenntnis genommen
