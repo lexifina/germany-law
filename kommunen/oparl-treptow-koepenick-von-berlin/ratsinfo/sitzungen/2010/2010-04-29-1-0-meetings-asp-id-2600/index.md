@@ -1,0 +1,72 @@
+# 40. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-04-29T16:30:00+02:00
+- Ende: 2010-04-29T22:25:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2600
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2600
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - beantwortet
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - im Ausschuss abgelehnt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Verkehrsorganisatorische Maßnahmen beim Umbau des Hirschgartendreiecks - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Altstadtkonferenz 2010 im Bezirk Treptow-Köpenick - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Funktionsgebäude Frauentog - schriftlich beantwortet
+- TOP 10.2: Angebote für Demenzerkrankte in Treptow-Köpenick - schriftlich beantwortet
+- TOP 10.3: Pflegestützpunkte in Treptow-Köpenick - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Berliner Parkeisenbahn gGmbH (SM 1005) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Spatzennest e. V. (SM 1012) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Bürger für das Märchenviertel und den Elsengrund e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für PSV Olympia Berlin e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Bezirksverband der Gartenfreunde Treptow e. V. - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Global denken – lokal handeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Europäische Mobilitätswoche 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kein zusätzlicher Verkehr nach Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Begrünungskonzept Wilhelminenhofstraße und deren Umgebung - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Sichere Überquerung der Bruno-Taut-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Lichtzeichen mit Hinweis auf querende Fußgängerinnen und Fußgänger sowie Radfahrerinnen und Radfahrer Salvador-Allende-Straße/Fürstenwalder Damm - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bebauungsplan XVI-77 ("Grenzweg Süd") hier: Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Sanierungsziel „Aktionspark“ in Oberschöneweide beibehalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Parkraumkonzeption für die Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bürgerbeteiligung bei der Gestaltung des Elcknerplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Bebauungsplan XVI-67 ("Sportplatz Köpenzeile") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Hinterausgang S-Bahnhof Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Anflugverfahren – Beteiligung des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Umwandlung von weiterführenden Schulen in Integrierte Sekundarschulen zum Schuljahr 2010/2011 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Einrichtung von zwei Hundeauslaufgebieten im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Gedenkstein für Alide Ratsch - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Absenkung der Bordsteinkante an der Straße „Am Bahndamm“ (Köpenick-Nord) - vertagt
+- TOP 14.4: Gewerbepark Segelfliegerdamm 67 - überwiesen
+- TOP 14.5: Sichere und ökologische Berliner Fernwärme - vertagt
+- TOP 14.6: Gedenken für die gefallenen deutschen Soldaten in Afghanistan - gegenstandslos
+- TOP 14.7: Zug der Erinnerung - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Wiederaufstellung von Vorwegweisern - überwiesen
+- TOP 14.9: Errichtung eines Grillplatzes im Volks- und Waldpark Wuhlheide - überwiesen
+- TOP 14.10: Flugverbot für Nazi-Flieger bei ILA - vertagt
+- TOP 14.11: Benennung der Mittelpunktbibliothek Köpenick - überwiesen
+- TOP 14.12: Park-Such-Verkehr in der Bahnhofstraße vermeiden - vertagt
+- TOP 14.13: Aufbau einer Verkehrszeichen-Datenbank - überwiesen
+- TOP 14.14: Internationale Kinderkunstwettbewerbe nutzen - überwiesen
+- TOP 14.15: Verkehrssicherheit an der Kreuzung Köpenicker Landstraße/ Am Plänterwald - überwiesen
+- TOP 14.16: Straßenbenennung nach Konrad Zuse - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Zivilgesellschaftliches Engagement langfristig absichern - vertagt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Stiftungen in Treptow-Köpenick - vertagt
+- TOP 15.2: Straßenzustand im Gebiet Eibenweg, Breiter Weg und Oststraße - vertagt
