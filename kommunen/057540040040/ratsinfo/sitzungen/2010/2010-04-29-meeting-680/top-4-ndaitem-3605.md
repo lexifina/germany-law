@@ -1,0 +1,7 @@
+# TOP 4.: Bericht des Bürgermeisters gemäß § 55 Abs. 1 der Gemeindeordnung
+
+- Sitzung: Bauausschuss (4. Sitzung) (2010-04-29)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/3605
+- Beschluss (Datei): Beschlusstext (Bericht des Bürgermeisters gemäß § 55 Abs. 1 der Gemeindeordnung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaJS2hM_fxQRPDFkL6pIqfK7lfY62CxrIZ2ZBg2Rf9rR/Beschlusstext_TOP_4._-oeffentlich-_Bauausschuss_29.04.2010.pdf
