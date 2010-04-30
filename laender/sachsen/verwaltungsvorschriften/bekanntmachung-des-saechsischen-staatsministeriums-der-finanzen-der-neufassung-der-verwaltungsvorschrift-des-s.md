@@ -1,8 +1,8 @@
 # Bekanntmachung des Sächsischen Staatsministeriums der Finanzen der Neufassung der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2006-05-27 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.5
+- Datum: 2010-04-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.6
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -49,7 +49,12 @@ des Sächsischen Staatsministeriums der Finanzen
 (VwV-DKfz)
 
 [Geändert durch
-VwV vom 4. Mai 2006 (SächsABl. S. 498) mit Wirkung vom 27. Mai 2006]
+VwV vom 4. Mai 2006 (SächsABl. S. 498)
+
+und durch
+VwV vom 6. April 2010 (SächsABl. S. 589)
+
+mit Wirkung vom 30. April 2010]
 
 Abschnitt I
 
@@ -126,9 +131,11 @@ Pflichtversicherungsgesetz wie ein Haftpflichtversicherer im Rahmen der Mindestv
 
 Der Fahrer haftet dem Land
 
-für Fremdschäden im Rahmen der Mindestversicherungssummen wie ein Haftpflichtversicherter gegenüber dem Versicherer nur bei Vorsatz und grober Fahrlässigkeit,
+für Fremdschäden im Rahmen der Mindestversicherungssummen wie ein Haftpflichtversicherter gegenüber dem Versicherer nur bei Vorsatz oder bei Verletzung bestimmter versicherungsrechtlicher Obliegenheiten,
 
-für Eigenschäden nur bei Vorsatz und grober Fahrlässigkeit.
+für Eigenschäden anlässlich von Dienstfahrten nur bei Vorsatz und grober Fahrlässigkeit sowie
+
+für Eigenschäden anlässlich von Privatfahrten bei Vorsatz und für jede Fahrlässigkeit.
 
 4
 
@@ -350,15 +357,7 @@ Der unter Nummer 6 genannte Personenkreis ist berechtigt, das personengebundene 
 
 14.2
 
-Eine Genehmigung nach Nummer 12.1 Satz 3 kann für den Einzelfall oder generell erteilt werden, wenn der Bedienstete (Selbstfahrer) zum Führen von Kraftfahrzeugen geeignet erscheint. Bei ausreichender Fahrpraxis kann von einer Fahrprobe abgesehen werden.
-
-14.3
-
-Die Mitnahme von im Dienst des Freistaates stehenden Personen durch Selbstfahrer ist zulässig, soweit dies zur Erledigung von Dienstgeschäften erforderlich ist.
-
-15
-
-Pflichten der Kraftfahrer
+Eine Genehmigung nach Nummer 12.1 Satz 3 kann für den Einzelfall oder generell erteilt werden, wenn der Bedienstete (Selbstfahrer) zum Führen von Kraftfahrzeugen gev class="td_last_1"> Pflichten der Kraftfahrer
 
 15.1
 
