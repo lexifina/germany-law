@@ -15,7 +15,8 @@ Teil 2: | Berufsbezeichnung „Beratender Ingenieur“ und Berufsaufgaben
 Teil 3: | Ingenieurkammer
 § 11 | Rechtsstellung der Ingenieurkammer
 § 12 | Aufgaben der Ingenieurkammer
-§ 13 | Liste der bauvorlageberechtigten Ingenieure
+§ 13 | Bauvorlageberechtigte
+§ 13a | Tragwerksplaner
 § 14 | Versorgungswerk
 § 15 | Kammermitgliedschaft
 § 16 | Organe der Ingenieurkammer
