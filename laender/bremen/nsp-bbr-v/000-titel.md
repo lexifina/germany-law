@@ -1,0 +1,1 @@
+# Verordnung für die Prüfung für Schülerinnen und Schüler nicht anerkannter Ersatzschulen und für Nichtschülerinnen und Nichtschüler zur Erlangung der Einfachen Berufsbildungsreife und der Erweiterten Berufsbildungsreife (NSP-BBR-V) vom 1. Mai 2010
