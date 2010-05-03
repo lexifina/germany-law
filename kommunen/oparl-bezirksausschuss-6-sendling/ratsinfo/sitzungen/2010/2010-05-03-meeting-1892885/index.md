@@ -1,0 +1,78 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1892885
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1892885
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung der Planung zum Kinderspielplatz Max-Hirschberg-Weg
+- TOP 2.2.: STATTAUTO München stellt sich vor
+- TOP 2.3.: Schaffung von Kfz-Stellplätzen für CarSharing; a) 4 Stellplätze am Kidlerplatz b) 4 Stellplätze am Südbad-Parkplatz Valleystr. c) 4 Stellplätze am REWE-Parkplatz Alramstr. 14 d) 4 Stellplätze am Lehrerparkplatz Demleitnerstr. 2
+- TOP 2.4.: Der Bayerische Landesverband der Marktkaufleute stellt seine Arbeit vor
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Zuschussnehmerdatei 2010; Förderung freier Träger (die Vorlage kann bei Interesse in der BA-Geschäftsstelle eingesehen werden)
+- TOP 3.2.: Jugendtreffpunkt auf dem Vorplatz des REWE-Marktes in der Aberlestraße
+- TOP 3.3.: Bedarfsplanung zur pflegerischen Versorgung in München; Gelände Meindlstraße 14 - 16
+- TOP 4: Schulreferat
+- TOP 5.1.: Engelhardstr. 33; Genehmigung eine Freischankfläche
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Genehmigung einer Warenstellage in der Lindwurmstr. 203
+- TOP 6.2.: Öffnung der Oberländerstraße für den gegenläufigen Radverkehr
+- TOP 6.3.: Parkraumbewirtschaftung in Sendling; Parkscheinautomatenstandort vor dem Anwesen Oberländerstr. 38
+- TOP 6.4.: Fahrradrundfahrt anlässlich des Ökumenischen Kirchentages am 13.05.2010
+- TOP 6.5.: Blade Night 2010
+- TOP 6.6.: Umbau S-Bahnbahnhof Harras
+- TOP 6.7.: Behindertenparkplatz Plinganserstr. 60
+- TOP 6.8.: Behindertenparkplatz Johannes-Timm-Str. 9
+- TOP 6.9.: Behindertenparkplatz Danklstr. 11
+- TOP 6.10.: Lichtzeichenanlagen-Bauprogramm
+- TOP 6.11.: Baumaßnahmen SWM a) Lindenschmitstr. b) Thalkirchner- / Schäftlarnstr.
+- TOP 6.12.: MVG - Leistungsprogramm 2011
+- TOP 6.13.: Gehsteigparken in der Kraelerstraße
+- TOP 6.14.: Parkregelung vor dem Anwesen Kidlerstr. 15
+- TOP 6.15.: Einführung eines 10-Minuten-Taktes für die Buslinie 132 in der Zeit von 10.30 Uhr bis 20.00 Uhr - <div>zur Kenntnis genommen</div>
+- TOP 7.1.: (E) Budget der Bezirksausschüsse realitätsbüro c/o Uhlig Ausstellung von April bis Dezember 2010 - <div>durch Antragstellerin zurückgezogen</div>
+- TOP 7.3.: Budgetantrag "Die Buntstifte e. V.", Zuwendung für die Ausstattung und Montage von Beleuchtung und Akustikdecken; ? 12.694,32
+- TOP 7.4.: Budgetantrag Sendlinger Kulturschmiede e. V., Straßenfest am 24.07.2010; ? 2.000,-
+- TOP 7.5.: Budgetantrag H-Team e. V., Feier zum 20jährigen Bestehen am 28.07.2010; ? 3.166,15
+- TOP 7.6.: Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die BAs zur Entscheidung
+- TOP 7.7.: Gestaltung von U-Bahnhöfen; Änderung der BA-Satzung
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Nachqualifizierung und Revision der Denkmalliste; Ensemble Sendlinger Dorfkern
+- TOP 8.3.: Neubau Sozialbürgerhaus Meindlstr. 16; Klimatisierung des Sitzungsraumes im EG
+- TOP 8.4.: Fristsetzung für die Anhörung der BAs im Baugenehmigungsverfahren
+- TOP 8.5.: Ausgleichsflächen in der Bauleitplanung
+- TOP 8.6.: Ertüchtigung des Bahnknotens München
+- TOP 9: Baureferat
+- TOP 9.1.: Realisierung eines behindertengerechten Baumhauses am Neuhofener Berg
+- TOP 9.2.: Sparsamere Straßenbeleuchtung in den Seitenstraßen
+- TOP 9.3.: Bekämpfung von Ameisen in Kinderspielbereichen
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Bauvorhaben Flößergasse 2
+- TOP 10.3.: Baumfällung Meindlstr. 12
+- TOP 10.5.: Baumfällung Diepoldstr. 5
+- TOP 10.6.: Baumfällung Thalkirchner Str. 190
+- TOP 10.7.: Novellierung der Baumschutzverordnung
+- TOP 10.8.: Baumfällung Heinrich-Stieglitz-Kehre 27
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Nazi-Aufmarsch im Münchner Süden
+- TOP 13: Verschiedenes
+- TOP 13.1.: Errichtung eines Wertstoffcontainerstandortes in der Meindstraße
+- TOP 13.2.: Generalsanierung der Stadtbibliothek und Münchner Volkshochschule in der Albert-Roßhaupter-Str.; Genehmigung der Bedarfsanmeldung und des Untersucherungsauftrags
+- TOP 13.3.: Privatveranstaltung im Südbad
+- TOP 13.4.: Neue Bädereintrittspreise
+- TOP 10.4.: Baumfällung Bruderhofstr. 31
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
