@@ -1,0 +1,77 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-05-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843873
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843873
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.1.: Wohnanlage Reithmannstr. 8 + 10 und Justinus-Kerner-Str. 8 + 10
+- TOP 2: Anträge
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 01.04.10: Fischtage auf dem Laimer Anger vom 04.06.-13.06.10
+- TOP 4.2.: Schreiben Baureferat vom 31.03.10: Schlittenberg in München-Laim
+- TOP 4.3.: Schreiben KVR vom 13.04.10: Adventdult auf dem Laimer Anger vom 27.-28.11.10
+- TOP 4.4.: Schreiben Direktorium vom 09.04.10: Gestaltung von U-Bahnhöfen; Satzungsänderung
+- TOP 4.5.: Schreiben KVR vom 15.04.10: Spielaktionen Spiellandschaft Stadt e.V. für das Jahr 2010
+- TOP 4.6.: Schreiben Baureferat vom 10.04.10: Änderung der Reinigungsklassen im Stadtbezirk 25
+- TOP 4.7.: Schreiben Planungsreferat vom 16.04.10: Novellierung Baumschutzverordnung
+- TOP 4.8.: Schreiben Sozialreferat vom 09.03.10: Auswahl von Gebieten mit besonderem sozialpolitischem Handlungsbedarf für eine REGSAM-Begleitung (Vertagung aus der BA-Sitzung vom 13.04.10)
+- TOP 4.9.: Schreiben KVR vom 25.03.10: Radverkehr; Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr (Helmpertstraße, Mergentheimer Straße, Reutterstraße) (Vertagung aus der BA-Sitzung vom 13.04.10)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 17: 1 beleuchtete Werbetafel
+- TOP 5.2.: Lanzstr. 18b-20: Neubau eines Wohn- und Geschäftshauses / Vorbescheid; hier: Baupläne
+- TOP 5.3.: Hartelstr. 6: Neubau eines Wohngebäudes; hier: Baumfällungen
+- TOP 5.4.: Landsberger Straße: Fernwärmeerschließung München-West / Druckerhöhungsstation Laim (Landsberger Straße / Pronnerplatz); hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben BA 15 Trudering-Riem vom 02.03.10: Kein Google Street View in Trudering-Riem &gt; dazu auch Schreiben BA 13 Bogenhausen vom 14.04.10
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung (Seniorencafe) des UA Soziales, Schule und Sport vom 24.03.10
+- TOP 7.2.: Kinder- und Jugendsprechstunde des UA Soziales, Schule und Sport vom 26.03.10
+- TOP 7.3.: Sitzung UA Kultur vom 14.04.10
+- TOP 7.4.: BA-Sitzung vom 13.04.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 01.03.10: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 8.2.: Schreiben Direktorium vom 14.04.10: Gespräch des Oberbürgermeisters mit den Vorsitzenden der Bezirksausschüsse am 29.01.10
+- TOP 8.3.: Schreiben Direktorium vom 15.04.10: Verwendungsnachweis über einen Zuschuss aus dem Budget des BA 25; Antragsteller: Sportverein München Laim e.V.
+- TOP 8.4.: Schreiben Direktorium vom 21.04.10: Budgetmittel des BA 25, Ablehnung einer beantragten Zuwendung; Antragsteller: digitalanalog e.V.
+- TOP 8.5.: Schreiben Direktorium vom 21.04.10: Budgetmittel des BA 25, Ablehnung einer beantragten Zuwendung; Antragsteller: Lilalu e.V.
+- TOP 8.6.: Schreiben Direktorium vom 21.04.10: Budgetmittel des BA 25, Ablehnung einer beantragten Zuwendung; Antragsteller: MünchenVerlag GmbH
+- TOP 8.7.: Schreiben Direktorium vom 21.04.10: Budgetmittel des BA 25, Bewilligung einer beantragten Zuwendung; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.8.: Schreiben Gleichstellungsstelle für Frauen vom 22.03.10: Protokoll des Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse vom 18.03.10
+- TOP 8.9.: Schreiben Planungsreferat vom 31.03.10: Bebauungsplan mit Grünordnung Nr. 2027, Beginn der Bauarbeiten (Schreiben BA vom 17.03.10)
+- TOP 8.10.: Schreiben Planungsreferat vom 20.04.10: Bauvorhaben Flotowstr. 30; Neubau eines Einfamilienhauses mit zwei Carports und einem Nebengebäude (RGB) / Vorbescheid
+- TOP 8.11.: Schreiben KVR vom 24.11.09: Radverkehr; Änderung der Beschilderung für Radfahrer und Fußgänger in der Laimer Unterführung
+- TOP 8.12.: Schreiben KVR vom 26.03.10: Lichtzeichenanlage Agnes-Bernauer-Straße / Fürstenrieder Straße (Schreiben BA vom 17.03.10)
+- TOP 8.13.: Schreiben KVR vom 01.04.10: Arbeiten im Straßenraum; Aindorfer Str. 86-94 sowie Einmündungsbereich Joergstraße, Verlegung einer Fernwärmeleitung
+- TOP 8.14.: Schreiben KVR vom 31.03.10: Arbeiten im Straßenraum; Valpichlerstraße zwischen Fürstenrieder Straße und Wimpfener Straße sowie Einmündung Tuttlinger Straße, Verlegung einer Fernwärmeleitung
+- TOP 8.15.: Schreiben KVR vom 31.03.10: Arbeiten im Straßenraum; Vosslerstraße zwischen Laimer Platz und Joergstraße, Verlegung einer Fernwärmeleitung
+- TOP 8.16.: Schreiben KVR vom 31.03.10: Arbeiten im Straßenraum, Laimer Platz zwischen Vosslerstraße und Buswendeschleife, Verlegen einer Fernwärmeleitung
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 08.04.10: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 07.04.10: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2010 für den BA
+- TOP 8.19.: Bautenliste vom 12.04.-18.04.10: 1. Erstantragsverfahren a) Heigenmooserstr. 1 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agricolastr. 71
+- TOP 8.20.: Schreiben Planungsreferat vom 12.04.10: Liste der beantragten Baumfällungen vom 05.04.-11.04.10
+- TOP 8.21.: Schreiben Planungsreferat vom 19.04.10: Liste der beantragten Baumfällungen vom 12.04.-18.04.10
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 07.04.10: Baumaßnahmen der Stadtwerke; Stichtag: 07.04.10
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 12.04.10: Baumaßnahmen der Stadtwerke; Stichtag: 12.04.10
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 19.04.10: Baumaßnahmen der Stadtwerke; Stichtag: 19.04.10
+- TOP 8.25.: Beschluss der Vollversammlung vom 24.03.10: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke (Sitzungsvorlagen Nr. 08-14 / V 03945)
+- TOP 8.26.: Beschluss der Vollversammlung vom 24.03.10: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens (Sitzungsvorlagen Nr. 08-14 / V 03946)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.10: Ausgleichsflächen in der Bauleitplanung / Gesamtstädtisches Konzept (Sitzungsvorlagen Nr. 08-14 / V 03620)
+- TOP 8.28.: Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.10: Bekämpfung von Ameisen in Kinderspielbereichen (Sitzungsvorlage Nr. 08-14 / V 03951)
+- TOP 8.29.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 20.04.10: Toiletten am S-Bahnhöfen, u.a. S-Bahnhof Laim: Fehlende Toiletten, defekter Aufzug, Pflege des Bahnhofs (Empfehlung Nr. 08-14 / E 00442 der Bürgerversammlung vom 17.11.09) (Sitzungsvorlagen Nr. 08-14 / V 03881)
+- TOP 8.30.: Beschluss des Kreisverwaltungsausschusses vom 27.04.10: Lichtzeichenanlagen-Bauprogramm (Sitzungsvorlagen Nr. 08-14 / V 04058)
+- TOP 8.31.: Antrag BA 7 Sendling-Westpark vom 13.04.10: Eindämmen von Spielhallen und Geldspielautomaten
+- TOP 8.32.: Schreiben BA 12 Schwabing-Freimann vom 06.04.10: Werbung im öffentlichen Raum
+- TOP 8.33.: Schreiben Mittagsbetreuung Camerloher Kids e.V. vom 19.04.10: Bewilligung des Antrages auf Gewährung eines Zuschusses für einen weiteren Container für die Mittagsbetreuung an der Camerloher Schule
+- TOP 8.34.: Schriftverkehr aus der BA-Sitzung vom 13.04.10
+- TOP 1.2: Bürgerpost an den BA
