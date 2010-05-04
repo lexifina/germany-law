@@ -1,0 +1,126 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2010-05-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1867407
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1867407
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Nachbesetzung der Unterausschüsse
+- TOP 1.6.: Vertreter des Referats für Stadtplanung und Bauordnung zu den Planungen in der Hochäckerstraße im Vorstand klären ob Einladung im Mai oder Juni
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: Postkartenständer vor einem Geschäft in der Aribonenstraße; Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Entscheidung des BA 16 am 04.05.2010 Beschlussvorlage des Kreisverwaltungsreferats - <div>Zustimmung</div>
+- TOP 2.1.: Beschlussfassung über die Finanzierung der Eröffnungsfeier für den Karl-Preis-Platz im 16. Stadtbezirk, am 09.05.2010 aus dem Budgetanteil für BA-eigene Veranstaltungen; Summe: 2.000,- ? - <div>Zustimmung</div>
+- TOP 2.2.: Bestellen einer städtischen Dienstleistung für die Sanierung des Bolzplatzes am Oskar-Maria-Graf-Ring im 16. Stadtbezirk, Summe: 7.000.- ? - <div>Zustimmung</div>
+- TOP 3: Anträge
+- TOP 3.1.: Planung zur Verkehrsberuhigung der Thomas-Dehler-Straße in München Perlach; Bürgerschreiben vom 21.02.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 3.2.: Ottobrunner Straße; Parkverbot für LKW von der Ständlerstraße bis zur Kreuzung Ottobrunner-/Unterhachinger-/Schmidbauerstraße; Bürgerschreiben vom 24.02.2010 vertagt aus der Sitzung am 14.04.2010) - <div>abgelehnt</div>
+- TOP 3.3.: 1. Kostenvergleich Bau Stummellösung SAP bzw. Neubau einer Straße südl. der Nabburger Straße zur Anbindung des Gewerbegebietes und Lärmschutzmauer Wilhelm-Hoegner-Straße. 2. S-Bahnhof Perlach: Behindertengerechter bzw. kinderwagengeeigneter Zugang zu den Gleisen. 3. Anbringung ?30? auf der Fahrbahn Weidener Straße von der Unterhachinger bzw. Unterbiberger Straße in die Weidener Straße, Verkehrsaufkommen in der Weidener Straße; Bürgerschreiben vom 01.03., 29.03. und 07.04.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>nach Antrag</div>
+- TOP 3.4.: Verkehrssituation Unterhachinger Straße / Ortsausgang; Bürgerschreiben vom 04.03.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 3.5.: Erhöhung der Verkehrssicherheit am Ortseingang München-Unterhachinger Straße; Antrag der CSU-Fraktion im BA 16 vom 30.03.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>nach Antrag</div>
+- TOP 3.6.: Verkehrsanbindung Neuperlach - Süd; Bürgerschreiben vom 10.03.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>siehe TOP 3.1.3</div>
+- TOP 3.7.: Erleichtertes Einfädeln in die Ständlerstraße; Antrag der CSU-Fraktion vom 30.03.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>nach Antrag</div>
+- TOP 3.8.: Rampenähnliche Verlängerung des Bahnsteiges am S-Bahnhof Perlach mit Zugang zur Neubiberger Straße; Bürgerschreiben vom 11.04.2010 - <div>siehe TOP 3.1.3</div>
+- TOP 3.9.: Schaffung einer östlichen Zufahrt im Zuge der Erweiterung des Wertstoffhofs an der Bayerwaldstraße 33; Antrag der CSU-Fraktion vom 16.04.2010 - <div>zurückgezogen</div>
+- TOP 3.10.: Die Landeshauptstadt München wird aufgefordert 1) in der Wilhelm-Hoegner-Straße am südlichen Überweg zwischen der Lorenzstraße und der Elise-Aulinger-Straße ein Fußgängerüberweg (Zebrastreifen) einzurichten 2) ab der Hans-Ehard-Straße für die Wilhelm-Hoegner-Straße eine Geschwindigkeitsbegrenzung auf 30 kmh anzuordnen oder alternativ die für die umliegenden Gebiete bereits bestehende 30 km-Zone vorzuziehen.Antrag der Fraktion DaCG/ödp im BA 16 vom 20.04.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.11.: Zurückstellung der geplanten Erweiterung des Wertstoffhofes in der Bayerwaldstraße bis zu einer optimierten Verkehrsanbindung des Gewerbegebietes; Antrag der SPD-Fraktion im BA 16 vom 30.04.2010 - <div>nach Antrag</div>
+- TOP 3.12.: Vorschlag einer parallel zur Autobahn (BAB 8) situierten Entlastungs- und Erschließungs-straße mit Anschluss an die Ständlerstraße, zum Zwecke der Sicherstellung einer geord-neten städtebaulichen Entwicklungsmöglichkeit des Gebietes zwischen Unterhachinger Straße und BAB 8; Antrag der CSU-Fraktion vom 28.04.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.13.: Planerische Berücksichtigung der Untertunnelung des Autobahnkopfs A8/ Mittlerer Ring/Ramersdorfer Straße bei der ?Dorfkernsanierung Ramersdorf; Antrag der CSU-Fraktion im BA 16 vom 02.05.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.1.: Errichtung eines Festplatzes im Grünzug Im Gefilde; Schreiben der Waldperalcher Bürger IG vom 19.04.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Situation für behinderte Menschen im Michaelibad; Bürgerschreiben vom 30.03.2010 - <div>Wl an das RAW und den Behindertenbeauftragten der Landeshauptstadt München</div>
+- TOP 3.2.: Antrag auf schnellstmögliche Containeraufstellung für den Kindergartenbetrieb an der Kirchseeonerstraße; Antrag der SPD-Fraktion im BA 16 vom 01.05.2010 - <div>nach Antrag</div>
+- TOP 3.3.: Kindertageseinrichtung für Ramersdorf-Mitte; Antrag der SPD-Fraktion im BA 16 vom 01.05.2010 - <div>nach Antrag</div>
+- TOP 3.4.: Beteiligung der REGSAM-Gremien bei der Gestaltung der Quartierszentren; Antrag von REGSAM vom 03.05.2010 übernommen von der SPD-Fraktion - <div>nach Antrag</div>
+- TOP 3.1.: Zukunft des Quiddezentrums Neuperlach; Antrag der CSU-Fraktion im BA 16 vom 30.03.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 3.2.: Darstellung der Pläne für die Entwicklung des Gebietes an der Hochäckerstraße im Rahmen der nächsten Bürgerversammlung im 16. Stadtbezirk, Bezirksteil Ramersdorf; Antrag der CSU-Fraktion im BA 16 vom 29.04.2010
+- TOP 3.1.: Sperrung der Wiese am Lanzenstielweg für Hunde; Bürgerschreiben vom 20.04.2010 - <div>in den UA UKGG verwiesen</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Frauen
+- TOP 4.4.6.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.6.7: Integration
+- TOP 4.4.6.8: Behinderte
+- TOP 4.6.9: Internet
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Anzeigen für öffentliche Vergnügungsveranstaltungen; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 5.1.1.1 St.-Ingbert-Straße, Straßenfest in der Umkehrschleife am 03.07.2010; Zuleitung vom 06.04.2010 5.1.1.2 Theodor-Heuss-Platz; Spielaktionen mit Kindern der Christuskirche ab 22.05.2010 bis Oktober 2010 jeden 2. oder 4. Samstag; Zuleitung vom 13.04.2010 5.1.1.3 Fußballturnier an der Chiemgaustr., Ecke Rosenheimer Str. veranstaltet durch das Stadtjugendamt München - Streetwork am 19.09.2010 von 10.00 - 20.00 Uhr; Zuleitung vom 19.04.2010 5.1.1.4 Fußballturnier an der Görzer Str. 95 veranstaltet durch das Stadtjugendamt München - Streetwork am 27.06.2010 von 10.00 - 20.00 Uhr; Zuleitung vom 19.04.2010 5.1.1.5 Gymnastik und Volleyball im Ostpark veranstaltet durch das Sportamt München, Mai bis September 2010 täglich von 18:00 bis 18:45; Zuleitung vom 20.04.2010 (bereits vorab gem. § 20 Abs. 1 Satz 2 BA-Satzung durch die BA-Vorsitzende entschieden) 5.1.1.6 Ostpark, Sommereröffnung Freizeitsport Sportamt am 02.05.2010; Zuleitung vom 20.04.2010 (bereits vorab gem. § 20 Abs. 1 Satz 2 BA-Satzung durch die BA-Vorsitzende entschieden) 5.1.1.7 Kirchseeoner Straße, Kinderzirkus Baldoni am 23.09. bis 03.10.2010; Zuleitung vom 21.04.2010 stpark; Veranstaltungsfläche Theatron, Public Viewing 11.06. bis 11.07.2010; Zuleitung des Kreisverwaltungsreferats vom 22.04.2010 (Nachtrag) - <div>siehe Protokoll</div>
+- TOP 5.2.: Leistungsprogramm der Münchner Verkehrsgesellschaft mbH (MVG)2011, Fahrplanwechsel Dezember 2010; Zuleitung der MVG vom 25.03.2010 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 14.04.2010) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 5.3.: Gestaltung von U-Bahnhöfen - Satzungsänderung; Antrag Nr. 08-14 / B 01991 des BA 12 Schwabing-Freimann vom 23.03.2010; Zuleitung des Direktorium vom 09.04.2010 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.4.: Spielaktionen der Spiellandschaft Stadt e. V. für das Jahr 2010 auf diversen Grünanlagen im 16. Stadtbezirk; Zuleitung des Kreisverwaltungsreferats vom 15.04.2010 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.1.: Sportgipfel des Bezirksausschuss 16 am 10.02.2010; Erstellung eines Sportentwicklungsplanes für den 16. Stadtbezirk; Antrag Nr. 08-14 / B 1931 des BA 16 vom 02.03.2010; Zuleitung des Schul- und Kultusreferats mit der Bitte um Rückmeldung - <div>in den UA BSIS verwiesen</div>
+- TOP 5.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2, Anhörungen im Einzelfall auf Anforderung; Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme 5.4.1.1 Thierseestraße; Neubau eines Wohnhauses (11 WE) mit TG (11 Stellpl.); - TEKTUR; Zuleitung vom 31.03.2010 (vertagt aus der Sitzung am 14.04.2010) - <div>in den UA Bau verwiesen</div>
+- TOP 5.2.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen), Ottobrunner Str. 133 b, 2 Leuchtkästen (680 x 680 mm), 2 Einzelbuchstaben-Leuchtschriften; Zuleitung des Referats für Stadtplanung und Bauordnung vom 09.04.2010 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 14.04.2010) - <div>Zustimmung</div>
+- TOP 5.3.: Novellierung der Baumschutzverordnung; Zuleitung des Referats für Stadtplanung und Bauordnung vom 16.04.2010 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.4.: A) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. ... Hochäckerstraße (nördlich), BAB München-Salzburg (östlich), Peralohstraße (südlich) und Unterhachinger / Ottobrunner Straße (westlich) - Grundsatz- und Aufstellungsbeschluss - B) Auslobung eines Plangutachterverfahrens durch die Bayerische Bau- und Immobilien Gruppe GmbH & Co. KG; Beschlussentwurf für die Sitzung des Ausschusses für Stadtplanung und Bauordnung am 09.06.2010 (VB); Zuleitung des Referats für Stadtplanung und Bauordnung vom 22.04.2010 mit der Bitte um Stellungnahme - <div>in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 5.5.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung; Quiddestr.; Neubau einer Wohnanlage mit Bewohnertreff, Einzelhandelszentrum und Praxen - Vorbescheid; Zuleitung des Referats für Stadtplanung und Bauordnung vom 26.04.2010 mit der Bitte um Stellungnahme - <div>in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 5.6.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Ottobrunner Str., 1 Werbetafel freistehend auf Pfosten ? befristet bis 01.07.2013; Zuleitung des Referats für Stadtplanung und Bauordnung vom 29.04.2010 - <div>in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 5.1.: 5.5.1 Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik ? Diskussionsphase; Zuleitung des Referats für Gesundheit und Umwelt vom 16.04.2010 mit der Bitte um Stellungnahme - <div>in den UA UKGG verwiesen</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Kurzparkzone und LKW-Parkverbot im Bereich des Perlacher Friedhofs entlang der Putzbrunner Straße Durchgang bei der Europäischen Schule zwischen der Putzbrunner Straße und der Rennertstraße; Antrag Nr. 08-14 / B 1596 des BA 16 vom 03.11.2009; Antwortschreiben des Baureferats vom 31.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.2.: Anpassung der Ampelphasen am Mittleren Ring im Kreuzungsbereich A8/ Rosenheimer Straße und Ottobrunner Straße; Antrag Nr. 08-14 / B 01349 des BA 16 vom 28.07.2009, Nachfrage aus der Sitzung am 02.03.2010; Antwortschreiben des Kreisverwaltungsreferats vom 07.04.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.3.: Aufhebung der Radwegbenutzungspflicht in der Ottobrunner Straße zwischen Innsbrucker Ring und Unterhachinger Straße/Schmidbauerstraße; Stellungnahme des BA 16 aus der Sitzung am 13.01.2010; Antwortschreiben des Kreisverwaltungsreferats vom 25.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 6.1.: Umsetzung und Fertigstellung der Skateanlage im Grünzug ?Im Gefilde? in Waldperlach noch in diesem Jahr 2009; Realisierung des Rodelhügels im Grünzug Im Gefilde; Antrag Nr. 08-14 / B 01350 des BA 16 vom 16.06.2009; Antwortschreiben des Oberbürgermeisters vom 05.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport  verwiesen</div>
+- TOP 6.2.: Verlagerung der Kinderkrippe in der Plettstraße; Anfrage des BA 16 aus der Sitzung am 06.10.2009; Antwortschreiben des Sozialreferats vom 01.04.2010 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport  verwiesen</div>
+- TOP 6.1.: Durchführung einer Lärmstudie in München-Neuperlach im Wohngebiet zwischen Kafkastr., Karl-Marx-Ring, Putzbrunner Straße und Fritz-Erler-Straße durch die Landeshauptstadt München; Antrag Nr. 08-14 / B 1595 des BA 16 vom 03.11.2009; Antwortschreiben des Referats für Gesundheit und Umwelt vom 19.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.2.: Bessere Aussicht auf dem Aussichtsberg im Ostpark; Antrag Nr. 08-14 / B 1843 des BA 16 vom 02.02.2010; Antwortschreiben des Baureferats vom 31.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.3.: 1. Die Stadt München sorgt unverzüglich dafür, dass die Anlage am Fußwegzwischen dem Ausgang der Unterführung U-Bahn Quiddestraße und derUnterführung Heinrich-Wieland-Straße gesäubert wird. 2. Die Schulleitung der Albert-Schweitzer-Hauptschule wird aufgefordert, IhreSchülerinnen und Schüler dazu anzuhalten, Müll in dafür vorgesehenen Behälternzu entsorgen. 3. Die Stadt München stellt an den Ausgängen der U-Bahn-UnterführungAbfallbehälter auf; Antrag Nr. 08-14 / B 1693 des BA 16 vom 01.12.2009; Antwortschreiben des Baureferats vom 23.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.4.: Fragen bezüglich der Hochwassergefahr des Hachinger Baches - Wie hoch ist die Gefahr von Überschwemmungen durch den Hachinger Bach? - Wie wird die vorhandene Bebauung in Neuperlach Süd vor Hochwassergeschützt? - Wie wird bei der neuen Wohnbebauung an der Carl-Wery-Straße die barrierefreie Bebauung gewährleistet; Antrag Nr. 08-14 / B 01007 des BA 16 vom 31.03.2009; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 30.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen.</div>
+- TOP 6.1.: Zentraler Eintragungsraum für das Volksbegehren "Für echten Nichtraucherschutz!" im Stadtbezirk 16; Zurückweisung der Stellungnahme des Kreisverwaltungsreferats und Aufrechterhaltung der Forderung nach einer Eintragungsstelle im Sozialbürgerhaus am Hanns-Seidel-Platz für künftige Volksbegehren (Antrag Nr. 08-14 / B 1518 des BA 16 vom 06.10.2009); Antrag Nr. 08-14 / B 1687 des BA 16 vom 02.12.2009; Antwortschreiben des Kreisverwaltungsreferats vom 29.03.2010 - <div>verbleibt beim Vorstand</div>
+- TOP 6.2.: Zusammenarbeit des BA 16 und dem Schul- und Kultusreferat; Anfrage des BA 16 aus der Sitzung am 03.11.2009; Zwischennachricht des Direktoriums vom 09.04.2010 - <div>verbleibt beim Vorstand</div>
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: 7.1.1 Ertüchtigung des Bahnknotens München; Ergänzungen zum Beschluss der Vollversammlung des Stadtrats vom 24.03.2010 7.1.1.1 2. S-Bahn-Stammstrecke; a) vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit, b) Stand der Planfeststellungsverfahren und Umplanungen des 2. S-Bahn-Tunnels, c) weiteres Vorgehen, d) Lärmsanierung am DB-Südring, e) Anträge und Empfehlungen; Sitzungsvorlage Nr. 08-14 / V 03945 7.1.1.2 Schienenanbindung des Flughafens a) Gutachten zur Flughafenanbindung 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit, b) weiteres Vorgehen, c) Anträge; Sitzungsvorlage Nr. 08-14 / V 03946; Ertüchtigung des Bahnknotens München; - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 7.2.: München Pass, Fahrkostenvergünstigungen; Zeitbeschränkung der "IsarCardS"; Antrag Nr. 08-14 / B 1630 des BA 7 Sendling-Westpark vom 10.11.2009; MVV-Sozialticket: Gleichbehandlung der Hartz-IV-Empfänger mit anderen Nutzergruppen (z. B. Senioren), Gültigkeit auch vor 09:00 h; Empfehlung Nr. 08-14 / E 00506 der Bürgerversammlung des 16. Stadtbezirks am 26.11.2009; Sitzungsvorlage Nr. 08-14 / V 03821; Beschluss der Vollversammlung des Stadtrats vom 24.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 7.3.: Lichtzeichenanlagenbauprogramm; Sitzungsvorlage Nr. 08-14 / V 04058; Beschluss des Kreisverwaltungsausschusses vom 27.04.2010 - <div>zur Kenntnis genommen  bzw. in den UA Verkehr und öffentliche Ordnung verwiesen.</div>
+- TOP 7.1.: Protokoll des Treffen der Gleichstellungsbeauftragten in der Gleichstellungsstelle für Frauen am 18.03.2010 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport  verwiesen</div>
+- TOP 7.2.: Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 08-14 / V 03951; Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.2010
+- TOP 7.3.: Neue Bädereintrittspreise; Information der Bezirksausschüsse; Zuleitung der Stadtwerke München GmbH vom 08.04.2010 - <div>zur Kenntnis genommen  bzw. in den UA Bildung, Soziales, Integration und Sport  verwiesen</div>
+- TOP 7.1.: Baufälle im 16. Stadtbezikr - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.2.: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept, a) Grundsatzbeschluss, b) Neue Wälder braucht die Stadt, Antrag Nr. 509 der Stadtratsfraktion Bündnis 90/Die Grünen vom 24.06.97, c) Flächenpool für ökologische Ausgleichsflächen, Pilotprojekt "Eschenrieder Moos" mit 1. Münchner Ökokonto"; Antrag Nr. 345 von Herrn Stadtrat Pfundstein vom 28.1201; Sitzungsvorlage Nr. 08-14 / V 03620; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010 (VB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.3.: Bebauungsplan Nr. 1060 h, Neubiberger Str. östlich zwischen Lorenzstraße und Wilhelm-Hoegner-Straße, Wichernweg und Wolframstraße; Endgültige Herstellung der Anliegerstraßen: Anton-Braith-Straße (U-1111), Theodor-Alt-Straße (U-1112), Stademannstraße (U-1113), Langkostraße, Mathias-Schmid-Weg; Erstmalige Herstellung; Sitzungsvorlage Nr. 08-14 / V 03954; Beschluss des Bauausschusses vom 20.04.2010 (SB) - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.4.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 7.4.4.1 Anwesen in der Jäcklinstraße; Ablehnungsbescheid vom 14.04.2010 - <div>zur Kenntnis genommen  bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 AntragsstellerIn: Pädagogische Aktion Spielen in der Stadt e. V.; für die Maßnahme: Einsatz des Artmobils an der Führichstraße an verschiedenen Terminen im 16. Stadtbezirk; Antragssumme: 2.010.- ?; Antrag vom 12.04.2010 - <div>in den UA BSIS verwiesen</div>
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnach-weise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.3.: Sitzungsunterlagen für alle Mitglieder der Bezirksausschüsse bei Entscheidungen aus dem Bereich der laufenden Verwaltung (OB-Vollmacht); Antrag Nr. 08-14 / B 01829 des BA 12 Schwabing-Freimann vom 26.01.2010; Antwortschreiben des Oberbürgermeisters vom 02.03.2010 - <div>zur Kenntnis genommen</div>
+- TOP 7.4.: Änderung der Gemeindeordnung, Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung; Schreiben des Oberbürgermeisters vom 01.03.2010 - <div>zur Kenntnis genommen</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.1.: Nachqualifizierung der Denkmalliste, Dorfkernensembles; Ortstermin des Regionalausschusses am 10.05.2010
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zuständigen UA
+- TOP 2.6.3: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln
