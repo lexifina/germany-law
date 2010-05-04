@@ -1,0 +1,72 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-05-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1903945
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1903945
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung in den Unterausschüssen - Planung, Verkehr und Umwelt - Schule, Sport und Soziales (Vertreter) - Kultur und Budget
+- TOP 1.3.: Ernennung einer/eines neuen Beauftragten für Radfahrer im BA 24
+- TOP 1.4.: REGSAM im 24. Stadtbezirk - Aktuelles
+- TOP 1.5.: Machbarkeitsstudie zum Ersatz des Bahnübergangs in der Fasanerie; Präsentation des Baureferates
+- TOP 2: Entscheidungsfälle
+- TOP 3.1.: Werbung im öffentlichen Raum (Antrag des BA 12)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Anträge aus der Informationsveranstaltung "Eggarten - wie geht es weiter" vom 18.03.10 (vertagt in der Sitzung am 10.04.2010)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Eindämmen von Spielhallen und Geldspielautomaten (Antrag des BA 7)
+- TOP 3.6.: 50 Jahre Hasenbergl Kosten für die Festwoche
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Tag der offenen Tür der Freiwilligen Feuerwehr Harthof am 11.07.2010
+- TOP 5.2.: Gestaltung von U-Bahnhöfen - Satzungsänderung
+- TOP 5.3.: Spieleaktionen Spiellandschaft Stadt e. V. für das Jahr 2010
+- TOP 5.4.: Novellierung Baumschutzverordnung
+- TOP 5.5.: Kinderfest vom Kreisjugendring München am 19.06.2010
+- TOP 5.6.: Festzug Riadastona Feldmoching e. V. am 12.06.2010
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Vollzug des Allg. Eisenbahngesetzes (AEG); NSB/ABS Nürnberg-Ingolstadt-München; Ausbaumaßnahmen im Bereich der Landeshauptstadt München, Planungsabschnitt 82 M der ABS Ingolstadt-München, Planungsergänzung zur landschaftspflegerischen Begleitplanung für die Herstellung von Baustelleneinrichtungs- und Zwischenlagerflächen - Radwegverbindung entlang des Füßlgrabens (Schreiben des Referates für Stadtplanung und Bauordnung)
+- TOP 6.2.: Umsetzung der Neugestaltung des Spielplatzes an der Toni-Pfülf-Straße für Kinder und Jugendliche im Jahr 2010 (BA-Antrag Nr. 08-14 / B 01949 vom 02.03.2010)
+- TOP 6.3.: Verkehrsrechtliche Anordnung nach § 45 StVO: a) Frühlingsanger, Aufhebung Kurzparkzone
+- TOP 6.4.: LKW-Verkehr in der Lerchenstraße (Weiterleitung an das KVR)
+- TOP 6.5.: Verlängerung der StadtBuslinie 175 (Schreiben der MVG)
+- TOP 6.6.: Baumaßnahmen der SWM Stromprojekt Grohmannstraße
+- TOP 6.7.: Lichtzeichenanlagen-Bauprogramm
+- TOP 6.8.: City Bike Marathon München und nördliche Umgebung am 18.04.2010 Zeitfenster-Ordnerkonzept neu
+- TOP 6.9.: Bearbeitungsdauer von Zuschussanträgen (Verzögerung aufgrund des neuen Dokumenten-Management-System)
+- TOP 6.10.: Errichtung einer Kooperationseinrichtung mit 3 Kindergarten- und 2 Kinderkrippengruppen an der Diamantstraße, Ludwigsfeld
+- TOP 6.11.: Bekämpfung von Ameisen in Kinderspielbereichen
+- TOP 6.12.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP 6.13.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 6.14.: Errichtung von Mobilen Schulraumeinheiten an den nachstehenden Schulstandorten in München (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 6.15.: Eggartensiedlung
+- TOP 6.16.: Information der Bezirksausschüsse Neue Bäderpreise
+- TOP 6.17.: Jugendberatung München Hasenbergl Jahresbericht 2009 (Einsichtnahme in der BAG Nord möglich)
+- TOP 6.18.: Sanierung der Asphaltfahrbahn des Tollkirschenweges
+- TOP 6.19.: Ausgleichflächen in der Bauleitplanung - Gesamtstädtisches Konzept (Hinweis/Ergänzung)
+- TOP 6.20.: Zuschussnehmerdatei 2010: Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale
+- TOP 6.21.: Anliegerbeschwerde gerichtet an die LHM gegen Asia Markt
+- TOP 6.22.: Änderung der Gemeindeordnung Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung
+- TOP 6.23.: Verwendungsnachweis Freundeskreis der städt. Willy-Brandt-Gesamtschule
+- TOP 6.24.: Jahresbericht 2008/2009 Städt. Willy-Brandt-Gesamtschule München (Einsichtnahme in der BAG Nord möglich)
+- TOP 6.25.: Münchener Statistik 3. Quartalsheft, 2009 (Einsichtnahme in der BAG Nord möglich)
+- TOP 6.26.: Mittelfristige Finanzplanung 2009 - 2013 (Einsichtnahme in der BAG Nord möglich)
+- TOP 6.27.: Baumaßnahmen SWM Stromprojekt Pulverturmstraße
+- TOP 6.28.: Meldeliste Bauvorhaben
+- TOP 6.29.: Meldeliste Baumfällungsanträge
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
