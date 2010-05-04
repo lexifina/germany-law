@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-05-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1906637
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1906637
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 13.04.10
+- TOP 1.7.: Verbot der Demonstration der Organisation "Freie Nationalisten" am 08.05.2010 zwischen Schweizer Platz und der U-Bahnstation Großhadern
+- TOP 2: Anträge
+- TOP 2.1.: Pflegemaßnahme auf dem städtischen Flurstück südlich der Autobahn und nördlich der Kreuzhofstraße
+- TOP 2.2.: Begutachtung von Schnittmaßnahmen durch die Untere Naturschutzbehörde
+- TOP 2.3.: Erhalt der unter Denkmalschutz stehenden Backsteinbauten im Südbereich des alten Thalkirchner Bahnhofs
+- TOP 2.4.: Mittagsbetreuung für Schule an der Herterichstraße
+- TOP 2.5.: Kindergarten Herterichstraße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Tag des offenen Denkmals
+- TOP 3.2.: Historischer Verein Forstenried e.V.
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Containerstandort Seumestraße
+- TOP 4.3.: Novellierung der Baumschutzverordnung
+- TOP 4.4.: Containerstandort Zentralländstraße
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Boschetsrieder Str. 53, 59 - 63a
+- TOP 5.2.: Einziehung einer Teilstrecke der Koppstraße
+- TOP 5.3.: Tempo 30 Sollner Str. und Hofbrunnstraße
+- TOP 5.4.: "Grüner Pfeil" an der Herterichstraße zur Drygalski-Allee
+- TOP 5.5.: Anträge Bouda
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Denkmalliste - Münchner Dorfkernensemble
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Werbung im öffentlichen Raum
+- TOP 9.2.: Gestaltung von U-Bahnhöfen - Satzungsänderung
+- TOP 9.3.: Antrag auf Zweckentfremdung Possenhofener Straße
+- TOP 9.4.: Verlängerung des Mietvertrages Bürgersaal Fürstenried Ost
+- TOP 9.5.: Veranstaltung Hinterbrühler See
+- TOP 9.6.: Spargel- und Kürbisverkauf Wolfratshauser Straße
+- TOP 9.7.: Sommerfest Kleingartenverein SW58
+- TOP 9.8.: Versammlung zum Kirchentag Baierbrunner Straße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
