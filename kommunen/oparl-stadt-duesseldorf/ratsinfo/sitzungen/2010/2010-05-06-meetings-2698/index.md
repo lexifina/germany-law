@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-05-06T14:00:00+02:00
+- Ende: 2010-05-06T20:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2698
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2698
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00140258.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00140258.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00140258.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung eines Beigeordneten
+- TOP 2: Verleihung von Ehrenringen des Rates
+- TOP 3: Anerkennung TO
+- TOP 4: Genehmigung NS - einstimmig beschlossen
+- TOP 5: Aktuelle Anfragen - beantwortet
+- TOP 6: Anfragen - beantwortet
+- TOP 6.1: Anfrage CDU+FDP: Entwicklung des Stadtteils Oberbilk - zur Kenntnis genommen
+- TOP 6.2: Anfrage Bü90/Grü: Schöner Wohnen in Düsseldorf - zur Kenntnis genommen
+- TOP 6.3: Anfrage Rh Dr. en jur. (BOL) Kirchner: Stasi-, RAF-KPD- und Rote Hilfe Vergangenheit/Gegenwart bei f - zur Kenntnis genommen
+- TOP 6.4: Anfrage der Ratsfraktion von Bü90/Grü - zur Kenntnis genommen
+- TOP 6.5: Anfrage Bmín Dr. Strack-Zimmermann: Namensgebung von Schulen bzw. Straßen in Düsseldorf - zur Kenntnis genommen
+- TOP 6.6: Anfrage der Ratsfraktionen von CDU und FDP: Qualitätsanalyse und Qualitätsentwicklung ........... - zur Kenntnis genommen
+- TOP 6.7: Anfrage des Ratsherrn Petring: Betreuungslücke - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Wehrhahnlinie - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Anträge
+- TOP 9.1: Antrag Bü90/Grü: Ökologische Kriterien bei Grundstücksverkäufen
+- TOP 9.2: Antrag Bü90/Grü: Stadtradeln
+- TOP 9.3: Antrag Bü90/Grü: Inklusionsplan für Düsseldorf
+- TOP 9.4: Antrag SPD: Mehr Gesamtschulplätze für Düsseldorf
+- TOP 9.5: Antrag SPD: Umsetzung der UN Konvention zur Inklusion in der Schule
+- TOP 9.6: Antrag BÜNDNIS 90/DIE GRÜNEN und SPD: 80 km/h auf der Fleher Brücke
+- TOP 9.7: Antrag Linke: Bankrettungspaket - zur Kenntnis genommen
+- TOP 9.8: Antrag LINKE: Einführung einer Kulturförderabgabe - zur Kenntnis genommen
+- TOP 9.9: Antrag LINKE: Keine Sanktionen gegen ALG II-Bezieherinnen und Bezieher - zur Kenntnis genommen
+- TOP 10: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - Haushaltsjahr 2009 - zur Kenntnis genommen
+- TOP 11: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - Haushaltsjahr 2010 - zur Kenntnis genommen
+- TOP 12: Frankfurter Str. 245, Sanierung der Feuerwache, 2. BA - Ausführungs- und Finanzierungsbeschluss - - zur Kenntnis genommen
+- TOP 13: Benninghauser Straße, Neubau Kindertagesstätte und Jugendfreizeiteinrichtung - Ausführungs- und Fina - zur Kenntnis genommen
+- TOP 14: Oberbilker Markt - zur Kenntnis genommen
+- TOP 15: Basisstraße und der Umbau Heerdter Dreieck - zur Kenntnis genommen
+- TOP 16: IDR - zur Kenntnis genommen
+- TOP 17: Aufgabe der städt. JFE Frankfurter Str. - zur Kenntnis genommen
+- TOP 18: Aufgabe der städt. Spielanlage Wittenberger Weg - zur Kenntnis genommen
+- TOP 19: Gültigkeit der Wahl des Integrationsausschusses am 07. Februar 2010 - zur Kenntnis genommen
+- TOP 20: Bestellung von Prüferinnen des Rechnungsprüfungsamtes - zur Kenntnis genommen
+- TOP 21: Kunstpreis der Landeshauptstadt Düsseldorf 2010 - zur Kenntnis genommen
+- TOP 22: Annahme einer Schenkung - zur Kenntnis genommen
+- TOP 23: Annahme einer Schenkung - zur Kenntnis genommen
+- TOP 24: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2009 - zur Kenntnis genommen
+- TOP 25: Neuwahl einer Schiedsperson - zur Kenntnis genommen
+- TOP 26: Planungsmaßnahmen
+- TOP 27: BPl 5275/023-Nördl.Plockstr..-Satzung - zur Kenntnis genommen
+- TOP 28: Pl 5373/050-Östl.AachenerStr-1.Verl. VÄ - zur Kenntnis genommen
+- TOP 29: BPl5178/044-EhemGüterbhfOberkassel-Satzung - zur Kenntnis genommen
