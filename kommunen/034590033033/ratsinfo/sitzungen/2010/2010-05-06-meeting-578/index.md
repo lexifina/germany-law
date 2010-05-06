@@ -1,0 +1,55 @@
+# Rat (31. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2010-05-06T17:35:00+02:00
+- Ende: 2010-05-06T20:55:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWngB0JLske1sIvQSPhhP_Y
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/578
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUHeA2HTUgnvn3hx_QTvcjk-GQFDMaqUBVcVm7jLFqw1/Bekanntmachung_Rat_06.05.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWfswvdlXrfVjy2tCe5wjzn8eKx2KKIzEQbQaYwCinPT/Oeffentliche_Niederschrift_Rat_06.05.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschriften über die Sitzungen vom 16.03.2010 und 15.04.2010
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Schreiben des MdB Karl-Ludwig Thiele
+- TOP 3.2: Einverständnis zur Weitergabe der Telefonnummern und e-mail-Adressen aller Ratsmitglieder untereinander
+- TOP 3.3: Termin für die offizielle Einweihung der Mensa an der Johannisschule
+- TOP 3.4: Bewilligung des Ganztagsangebotes für die Realschule Wallenhorst und die St. Bernhardschule
+- TOP 3.5: Antrag der Gruppe CDU/FDP auf Beratung des Punktes "Sanierung Hollager Straße"
+- TOP 3.6: Sachstand Bauvorhaben Aldi, Hansastraße
+- TOP 3.7: Sachstand Ausleuchtung Rednerpult im Ratssaal
+- TOP 4.: Satzungsrecht
+- TOP 4.1: 1. Änderung der Hauptsatzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Familie und Soziales
+- TOP 5.1: Erhöhung der Elternbeiträge für die Wallenhorster Kindergärten - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 5.2: Einrichtung von Ganztagsgruppen in den Wallenhorster Kindergärten - mehrheitlich mit 16 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 6.: Bauleitpläne
+- TOP 6.1: Bebauungsplan Nr. 253 „Östlich der Hofstelle Duling“ hier. Aufstellungsbeschluss gem. § 2 (1) BauGB; Beschluss der Planungsziele - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 7.1: Dorferneuerung in Wallenhorst hier: Möglichkeiten der Dorferneuerung für die Bereiche Altes Dorf - Rulle-Ost - Nettetal - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.2: Sanierung des Kirchplatzes und seines Umfeldes im Rahmen der Sanierungsmaßnahme „Wallenhorst-Zentrum“ hier: Beschluss über die Entwurfsplanung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.3: Vermietung der Dachflächen kommunaler Gebäude für Photovoltaikanlagen Dritter - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.4: Klageverfahren Maschwegbrücke hier: Empfehlung des OVG zur Rücknahme der Klage - mehrheitlich mit 16 Ja-Stimme(n), 14 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.: Straßenbau
+- TOP 8.1: Umbau der „Hollager Straße“ im Ortsteil Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Umwelt
+- TOP 9.1: Waldflächen im Bereich der Wohnsiedlung „In den Dillen“ hier: Genehmigung von Fällarbeiten zum Herstellen der Verkehrssicherheit - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 10.: Kämmereiangelegenheiten
+- TOP 10.1: Jahresabschluss für das Haushaltsjahr 2008 - Der Tagesordnungspunkt wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 10.2: Überplanmäßige Auszahlung Maßnahme: Baukosten der Mensa an der Johannisschule - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Kommunalangelegenheiten
+- TOP 11.1: Standortverlegung der Kaffee Partner Ost-Automaten GmbH
+- TOP 11.2: Übertragung der Entscheidung über die Annahme oder Vermittlung von Zuwendungen gem. § 25 a II GemHKVO - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 11.3: Neubesetzung des Schulausschusses hier: stellvertretende/r Lehrervertreter/in - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Anfragen und Anregungen
+- TOP 12.1: Kostenaufstellung für den Veilchendienstag im Rathaus
+- TOP 12.2: Kritische Anmerkungen zum journalistischen Vorgehen des Bürgerechos
+- TOP 12.3: Neuer Internetauftritt der Gemeinde
+- TOP 12.4: Persönliche Anmerkungen zu journalistischen Veröffentlichungen im Bürgerecho
