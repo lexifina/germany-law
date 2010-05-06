@@ -1,0 +1,54 @@
+# 12. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-05-06T16:00:00+02:00
+- Ende: 2010-05-06T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/526
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/526
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2010_05_06 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00028793.pdf
+- Wortprotokoll: Beschlussausfertigung_V0447/10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00030219.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Besetzung im Ortsbeirat Prohlis - gewählt
+- TOP 6: Besetzung Ortsbeirat Blasewitz - gewählt
+- TOP 7: Umbesetzung Jugendhilfeausschuss - Vertagung
+- TOP 8: Einführen eines Sozialtarifes - Sozialticket - Zustimmung mit Änderung
+- TOP 9: Finanzierung Umbau Kulturpalast Dresden und Projekt Heizkraftwerk Mitte - Zustimmung mit Änderung
+- TOP 10: Verwaltungsstandorte mit neuer Perspektive - Zustimmung mit Änderung
+- TOP 11: Haushaltsstabilisierung für die Jahre 2010 bis 2013 - Zustimmung mit Änderung
+- TOP 12: Marketingkonzeption für Dresden - Zustimmung
+- TOP 13: Betriebsordnung der Landeshauptstadt Dresden für das Krematorium des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden (Betriebsordnung Krematorium) - Zustimmung mit Änderung
+- TOP 14: Entgeltordnung der Landeshauptstadt Dresden für die Benutzung des Krematoriums Dresden-Tolkewitz - Zustimmung mit Änderung
+- TOP 15: Satzung der Landeshauptstadt Dresden über die Friedhofsgebühren für die Friedhöfe des Eigenbetriebes Städtisches Friedhofs- und Bestattungswesen Dresden - Zustimmung
+- TOP 16: Freie Zugänglichkeit der Parkanlagen Pillnitz - Vertagung
+- TOP 17: Sozialverträgliche Kontoführungsgebühren der Ostsächsischen Sparkasse - Vertagung
+- TOP 18: Höhere Bundesbeteiligung an den Kosten für Unterkunft und Heizung (KdU) für ALG II-Beziehende - Vertagung
+- TOP 19: Ehrenordnung der Landeshauptstadt Dresden - Vertagung
+- TOP 20: Sanierungsgebiet Äußere Neustadt - 2. Fortschreibung des Städtebaulichen Erneuerungskonzeptes - Zustimmung mit Änderung
+- TOP 21: Bebauungsplan Nr. 123.3, Dresden-Altstadt I Nr. 15, Prager Straße-Süd/Wiener Platz - Vertagung
+- TOP 22: Eilantrag: Bürgerversammlung zum Thema "Aktueller Stand beim Hochwasserschutz im Dresdner Osten" unverzüglich durchführen - Vertagung
+- TOP 23: Sanierung und Instandsetzung der Albertbrücke einschließlich der Umgestaltung und des grundhaften Ausbaus des Rosa-Luxemburg-Platzes und des Sachsenplatzes - Vertagung
+- TOP 24: Erhalt des "Blauen Wunders" und Aufwertung des Schiller- und Körnerplatzes - Vertagung
+- TOP 25: Bürgerhaushalt Dresden für den Doppelhaushalt 2011/2012 - Vertagung
+- TOP 26: Satzung der Landeshauptstadt Dresden über die Abfallwirtschaft (Abfallwirtschaftssatzung) - Zustimmung
+- TOP 27: Unterzeichnung der "Erklärung der EUROCITIES zum Klimawandel" - Vertagung
+- TOP 28: Namensgebung des Beruflichen Schulzentrums für Wirtschaft III in 01159 Dresden - Zustimmung
+- TOP 29: Einwohnerversammlung zum Thema "Zentralhaltestelle Kesselsdorfer Straße" - Vertagung
+- TOP 30: Überplanmäßige Zuschusserhöhung für den Eigenbetrieb Kindertageseinrichtungen Dresden im Haushaltsjahr 2010
+- TOP 31: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2009 - Zustimmung
+- TOP 32: Fortschreibung des Integrierten Handlungskonzeptes - Zustimmung
+- TOP 33: Bebauungsplan Nr. 74, 1. Änderung, Dresden-Nickern I, Dohnaer Straße Südseite (Gewerbepark) - Zustimmung
+- TOP 34: Wiedereinrichtung einer Fährverbindung Pieschen - Ostragehege - Vertagung
+- TOP 35: Unterstützung der Gemeinschaftsschule Pieschen - Vertagung
+- TOP 36: Verbesserter Lärmschutz auf der A 17/Lockwitztalbrücke - Vertagung
+- TOP 37: Überprüfung der Lärmschutzmaßnahmen entlang der Bundesautobahn 17 im Stadtgebiet Dresden - Vertagung
+- TOP 38: Regelmäßige Anpassung des jugendhilflichen Förderetats an unabweisbare Kostensteigerungen - Vertagung
