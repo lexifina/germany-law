@@ -1,2 +1,0 @@
-# § 26d Verhältnis zu anderen Rechtsvorschriften
-Für geschützte Teile von Natur und Landschaft im Sinne des § 18 und geschützte Biotope im Sinne des § 22a ist § 26c dieses Gesetzes nur insoweit anzuwenden, als die Schutzvorschriften einschließlich der Vorschriften über Ausnahmen und Befreiungen keine strengeren Regeln für die Zulassung von Projekten enthalten. Die Pflichten nach § 26c Abs. 3 Satz 2 über die Beteiligung der Kommission und nach § 26c Abs. 4 Satz 2 über die Unterrichtung der Kommission bleiben jedoch unberührt.

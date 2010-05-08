@@ -1,1 +1,1 @@
-# Bremisches Naturschutzgesetz (BremNatSchG) in der Fassung vom 19. April 2006
+# Bremisches Gesetz über Naturschutz und Landschaftspflege (BremNatG) vom 27. April 2010

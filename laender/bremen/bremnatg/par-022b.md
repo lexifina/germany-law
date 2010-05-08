@@ -1,2 +1,0 @@
-# § 22b Schutz von Gewässern und Uferzonen
-Alle Planungsträger haben bei wasserwirtschaftlichen Planungen und Maßnahmen auf die Erhaltung oder Entwicklung eines dem Gewässertyp entsprechenden möglichst naturnahen Zustandes der Gewässer einschließlich ihrer Gewässerrandstreifen und Uferzonen als Lebensstätten und Lebensräume für heimische Tier- und Pflanzenarten hinzuwirken, damit deren großräumige Vernetzungsfunktion auf Dauer erfüllt werden kann.
