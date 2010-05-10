@@ -1,0 +1,94 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842011
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842011
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Vorschlag zur Verbesserung der Verkehrssicherheit Marchioninistraße / Ecke Feodor-Lynen-Straße
+- TOP 1.2.: Einkaufsmöglichkeiten in der Heiglhofstraße
+- TOP 1.3.: Probleme mit Jugendlichen am Haderner Stern
+- TOP 1.4.: Schließung des REWE mit Poststelle in der Blumenau
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, VdK OV Hadern-Neuried, Festveranstaltung am 16.05.2010 (Direktorium, 14.04.10)
+- TOP 5.2.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule Großhaderner Straße, Trainingslager der Jugendleichtathletikmannschaft vom 12. - 15.05.2010 (Direktorium, 13.04.10)
+- TOP 5.3.: Budget der Bezirksausschüsse, Kath. Pfarramt Erscheinung des Herrn, Einbau einer neuen Schließ- und Notrufanlage im Behinderten-WC (Direktorium, 20.04.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mobile Spielaktionen im Jahr 2010 auf diversen städtischen Grünanlagen beantragt durch den Spiellandschaft Stadt e.V., hier: Zirkus Pumpernudl auf dem Spielplatz Wastl-Witt-Straße vom 07.06. - 09.06.2010 (Kreisverwaltungsreferat, 15.04.10)
+- TOP 6.2.: Gestaltung von U-Bahnhöfen - Satzungsänderung (Direktorium, 09.04.10)
+- TOP 6.3.: Novellierung Baumschutzverordnung (Referat für Stadtplanung und Bauordnung, 16.04.10)
+- TOP 6.4.: Veranstaltung in einer städtischen Grünanlage, hier: Neufriedenheimerplatz am 11.07.2010 von 10.00 - 15.00 Uhr 75-Jahr-Feier Siedlervereinigung der Kurparksiedlung (Kreisverwaltungsreferat, 14.04.10)
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest der Anwohner in der Rolandseckstraße am 26.06.2010 (Kreisverwaltungsreferat, 16.04.10)
+- TOP 6.6.: Veranstaltung auf dem Sportplatz der Pfarrei Fronleichnam Senftenauerstraße 111 vom 25. - 27.06.2010, Jubiläumsfeier "90 Jahre Siedlervereinigung München-Hadern e.V." (Kreisverwaltungsreferat, 20.04.10) Eilentscheidung des BA-Vorsitzenden: Zustimmung
+- TOP 6.7.: Veranstaltung in einer städtischen Grünanlage, hier: Waldorfhaus für Kinder, Waldgartenstraße 82, Einweihungsfest am 12.06.2010 von 15.00 - 18.00 Uhr (Kreisverwaltungsreferat, 22.04.10)
+- TOP 6.8.: Marktfestsetzung, hier: Kunsthandwerkermarkt mit ausschließlich Handgemachtem vom 04. - 06.06.2010, Stiftsbogen 74 im Augustinum Collegium Augustinum / Wohnstift München-Neufriedenheim (Kreisverwaltungsreferat, 22.04.10)
+- TOP 6.9.: Umbau der Buswendeanlage Lorettoplatz (MVG, 22.04.10) (vertagt aus 04/10)
+- TOP 6.10.: Nachqualifizierung der Denkmalliste, hier: Münchner Dorfkernensembles; Vergangener Ortstermin des Regionalausschusses Oberbayern des Landesdenkmalrats am 09.04.2010, betr. Großhadern (Referat für Stadtplanung und Bauordnung, 26.04.10)
+- TOP 6.11.: Veranstaltung in einer städtischen Grünanlage, hier: Bauwagen Spielkistl von Mobil-Spiel e.V. auf der Grünfläche Terofalstraße und Wastl-Witt-Straße vom 26.06. - 02.07.2010 (Kreisverwaltungsreferat, 03.05.10)
+- TOP 6.12.: Erinnerungsverfahren: Hohenklingenstraße 2 - 4 (Baureferat, 28.04.10)
+- TOP 6.13.: Veranstaltung auf Privatgrund, hier: Lehrinstitut Derksen, Pfingstrosenstraße 73, Kulturveranstaltung am 08.05.2010 (Kreisverwaltungsreferat, 03.05.10) Eilentscheidung des BA-Vorsitzenden: Zustimmung
+- TOP 6.14.: Gemeinde Neuried, Bebauungsplan Nr. 41 östlich der Rosenstraße (Referat für Stadtplanung und Bauordnung, 04.05.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Kornwegerstraße 27, 1 Fichte
+- TOP 7.2.: Stiftsbogen 17 - 27, 2 Ahornbäume
+- TOP 7.3.: Neufriedenheimer Straße 44, 1 Blaufichte
+- TOP 7.4.: Kurparkstraße 48, gem. Baumbestandsplänen Nr. 8690 und 8691
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Maenherstraße 3, 1 Birke (Referat für Stadtplanung und Bauordnung, 15.04.10)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2010 für den BA (SWM, 07.04.10)
+- TOP 8.2.: Baumaßnahmen der SWM, Erdgasprojekt Kriegerheimstraße / Lorettoplatz (SWM, 09.04.10)
+- TOP 8.3.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 08.04.10)
+- TOP 8.4.: Unveränderte Fortführung eines Gaststättenbetriebs: - "Sportwirt", Wolkerweg 17 (Kreisverwaltungsreferat, 01.04.10)
+- TOP 8.5.: Zweckentfremdung von Wohnraum: - Pfingstrosenstraße (Sozialreferat, 29.03.10)
+- TOP 8.6.: Vollzug der Grünanlagensatzung vom 12.08.1991, Stromüberspannung in der Grünanlage an der Hertlstraße (Kreisverwaltungsreferat, 23.04.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Verschmutzung der Würmtalstraße rund um die Filiale der Sparda-Bank (Baureferat, 08.04.10 und MVG, 22.04.10)
+- TOP 9.2.: Gehsteig Schröfelhofstraße (Baureferat, 06.04.10)
+- TOP 9.3.: Teerdecke Gräfelfinger Straße (Baureferat, 06.04.10)
+- TOP 9.4.: Anwesen "Weißes Bräuhaus", Würmtalstraße 113 (Kommunalreferat, 06.04.10)
+- TOP 9.5.: Verbot des Demonstrationszuges der "Freien Nationalisten" am 08.05.2010 (Kreisverwaltungsreferat, 26.04.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Antrag des BA 7 Sendling-Westpark: Eindämmen von Spielhallen und Geldspielautomaten (BA 7, 16.04.10)
+- TOP 11.2.: Flyer des Bauzentrums München: - Fachforum "Wärmepumpe und Solartechnik" - Fachforum "Be- und Entlüftung von Wohngebäuden" - Infoabende Mai bis Juli 2010 (Referat für Gesundheit und Umwelt, 14.04.10)
+- TOP 11.3.: Anträge des BA 12 Schwabing-Freimann: Werbeträger an Straßen und Plätzen (BA 12, 06.04.10)
+- TOP 11.4.: Protokoll des 7. Treffens der Frauen- und Genderbeauftragten vom 18.03.2010; neue Termine: Mittwoch, 30.06.2010 und Freitag, 17.09.2010 (Gleichstellungsstelle für Frauen, 22.03.10)
+- TOP 11.5.: Vorbereitungstreffen für die "Beteiligung der Bezirksausschüsse" beim nächsten 18.jetzt am Donnerstag, 10.06.2010 um 19.00 Uhr (Schr. BA 2, 04.05.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 24.03.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03946: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens a) Gutachten zur Flughafenanbindung 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Weiteres Vorgehen c) Anträge
+- TOP 12.2.: Beschluss vom 24.03.2010 und Hinweis / Ergänzung zum Beschluss vom 23.03.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03945: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke a) Vergleichende Untersuchung 2. S-Bahn-Tunnel / Südring 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Stand der Planfeststellungsverfahren und Umplanungen des 2. S-Bahn-Tunnels c) Weiteres Vorgehen d) Lärmsanierung am DB-Südring e) Anträge und Empfehlungen
+- TOP 12.3.: Beschluss vom 24.03.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03615: Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 10. Stadtbezirkes
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 27.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04058: Lichtzeichenanlagen-Bauprogramm, insbesondere zur abgelehnten Maßnahme Nr. 5 an der Würmtalstraße / Schloss-Prunn-Straße / Platanenstraße (11 Punkte): Es kommt lediglich eine Mittelinsel für Fußgänger (S. 3). Die beantragte Maßnahme Nr. 32 an der Waldwiesenstraße / Am Ährenfeld hat 8 Punkte. Die beantragte Maßnahme Nr. 34 an der Waldwiesen- / Eichenstraße hat 7,7 Punkte. Die beantragte Maßnahme Nr. 51 an der Sauerbruch- / Zöllerstraße hat 5,3 Punkte.
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03873: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus Wolkerweg" (Nr. 56, Zuschuss 198.148,- ?), - zum "PfiffTEEN Treffpunkt für Jugendliche" (Nr. 57, Zuschuss 307.167,- ?), - zum "Treff 21, Schule-Beruf e.V." (Nr. 66, Zuschuss 341.335,- ?), - zum "Studio im Netz, SiN e.V." (Nr. 105, Zuschuss 81.567,- ?), - zum "Familienzentrum Hadern-Blumenau" (Abschnitt 3.2.1, Nr. 13, Zuschuss 31.726,- ?) und - zur "Nachbarschaft Neuhadern Bewohnertreff" (Abschnitt 3.2.2/1, Nr. 2, Zuschuss 98.518,- ?)
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03867: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Bewohnertreff Blumenau (Nr. 9, Zuschuss 61.590,- ?), - zur "Nachbarschaft Kleinhadern, Na klar!" (Nr. 41, Zuschuss 16.100,- ?) und - zur Krokusstraße 73 (Nr. 22, Zuschuss 3.000,- ?)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03858: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 12.5.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03831: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung Veränderung der Behindertenhilfe seit der Übernahme der Zuständigkeit durch den Bezirk Oberbayern, insbesondere - zum ASZ Kleinhadern-Blumenau (Nr. 44, Zuschuss 207.101,- ?) und - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 (Nr. 67, Zuschuss 50.267,- ?)
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.05.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03984: Realisierung einer viergruppigen Kinderkrippe in der Marchioninistraße 3+5 im 20. Stadtbezirk Hadern, Neubau und Umbau Genehmigung für vorgezogenen Baumfällungs- und Erdabtragungsarbeiten für archäologische Voruntersuchung (Kosten 30.000,- ?)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Hinweis / Ergänzung vom 11.03.2010 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03620: Ausgleichsflächen in der Bauleitplanung Gesamtstädtisches Konzept
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03951: Bekämpfung von Ameisen in Kinderspielbereichen, insbesondere an der Willibaldstraße / Ecke Kleinhaderner Straße (S. 4, Nr. 16, Kosten 1.000,- ?)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
