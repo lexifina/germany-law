@@ -1,0 +1,8 @@
+# TOP 4: Finanzmittel für den Förderverein der Cossebauder Schulen e.V.
+
+- Sitzung: 9. Sitzung des Ortschaftsrates Cossebaude (2010-05-10)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/8224
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/3189
