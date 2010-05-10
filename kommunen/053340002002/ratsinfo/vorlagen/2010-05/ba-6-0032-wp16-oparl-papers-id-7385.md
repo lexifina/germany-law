@@ -1,0 +1,11 @@
+# Ampelschaltung Kreuzung Horbacher -/Scherb-/Oberdorfstraße in Horbach;Antrag der CDU-BF vom 22.01.2010, lfd. Nr. 9
+
+- Körperschaft: Stadt Aachen
+- Drucksache/Vorlage: BA 6/0032/WP16
+- Art: Kenntnisnahme
+- Datum: 2010-05-10
+- Ratsinformationssystem: http://ratsinfo.aachen.de/public/vo020?VOLFDNR=7385
+- OParl: http://ratsinfo.aachen.de/public/oparl/papers?id=7385
+- Quelle: https://ratsinfo.aachen.de/public/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Kenntnisnahme http://ratsinfo.aachen.de/public/oparl/meetings?id=2260 http://ratsinfo.aachen.de/public/oparl/organizations?typ=gr&id=28
+- underDirectionOf: http://ratsinfo.aachen.de/public/oparl/organizations?typ=at&id=36
