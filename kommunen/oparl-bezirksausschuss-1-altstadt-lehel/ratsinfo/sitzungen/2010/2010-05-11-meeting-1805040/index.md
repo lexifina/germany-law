@@ -1,0 +1,105 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-05-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1805040
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1805040
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Einwohnerversammlung: Änderung des Bebauungsplans ?Am Gries?, Anträge 1 und 7 aus der Einwohnerversammlung vom 13.04.2010
+- TOP .2.: Einwohnerversammlung: Begrüßung des Baus einer Synagoge im Lehel, Antrag Nr. 10 aus der Einwohnerversammlung vom 13.04.2010
+- TOP .1.: Sanierungsmaßnahmen Damenstiftstraße 11: Überprüfung auf Zweckentfremdung von Wohnraum (Ziffer 2 des Antrags)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Theatinerstraße 38: Ladenausbau mit Nutzungsänderung und brandschutz- relevanten Maßnahmen im 1. UG ? 2. OG und Umgestaltung der Fassade im EG und 1. OG; Frist: 14.05.2010
+- TOP .2.: Theatinerstraße 46: Renovierung der Fassade mit Erweiterung der Verkaufsflächen im EG; Frist: 16.04.2010
+- TOP .3.: Lerchenfeldstr. 4 - 6: Dachgeschossumbau mit zwei Dachgeschossen eines Mehr-familienhauses mit 2 oder 3 Maisonette-Wohnungen ? Vorbescheid; Frist 22.05.2010
+- TOP .4.: Prinzregentenstraße 1: Umbau und Erweiterung Diskothek ?P 1? im Haus der Kunst
+- TOP .1.: ?Tag des offenen Denkmals? am Sonntag, den 12.09.2010; Einsendeschluss 31.05.2010 (vertagt aus 2010.03 und 2010.04)
+- TOP .2.: Ehemaliges Heizkraftwerk Müllerstraße, Kamine Stadtbildverträglichkeit
+- TOP .2.1: Gaststätten
+- TOP .1.: ?DLS Restaurants GmbH?, Zweibrückenstraße 1: Genehmigung einer Freischank-fläche
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Theateraufführung Alte Münze, Hofgraben 4 vom 13.07. bis 07.08.2010
+- TOP .2.: Münchner Stadtlauf am 27.06.2010
+- TOP .3.: Infoveranstaltung Branddirektion am 20.05.2010
+- TOP .4.: ?Oper für Alle? am 26.06.2010 auf dem Max-Joseph-Platz
+- TOP .5.: ?Corso Leopold? am 29. und 30.05.2010
+- TOP .6.: Live-Fernsehproduktion vom 28.06. - 02.07.2010 auf dem Rindermarkt
+- TOP .7.: ?Metzgersprung? mit Kirchenzug am 12.09.2010 auf dem Marienplatz
+- TOP .8.: Sommerveranstaltung 2010 im Brunnenhof der Residenz
+- TOP .9.: Infoveranstaltung UV-Schutz am 21.06.2010 in der Neuhauser Straße
+- TOP .10.: CDS Rainbow-Family-Area am 17.07.2010 auf dem Marienhof
+- TOP .11.: UniCredit Festspiel-Nacht 2010 am 25.06.2010
+- TOP .12.: Große Fronleichnamsprozession am 03.06.2010 auf dem Marienplatz
+- TOP .13.: Japanfest am 18.07.2010 im Englischen Garten
+- TOP .1.: Antrag BA 12 Schwabing-Freimann: Ergänzung der Satzung zu Anhörungen bei U-Bahnhöfen
+- TOP .2.: Antrag des BA 12: Werbeträger im Öffentlichen Raum (vertagt aus 2010.04 C 3.2.2)
+- TOP .1.: Bürger: Widerrechtliches Befahren und Parken in der Privatstraße 'Am Gries'
+- TOP .2.: Einwohnerversammlung: Verkehrsführung von der Prinzregentenstraße zur Straße 'Am Gries', Antrag Nr. 4 aus der Einwohnerversammlung vom 13.04.2010
+- TOP .1.: BV-Empfehlungen Nr. 491: Sendlinger Straße als Fußgängerzone
+- TOP .2.: BV-Empfehlungen Nr. 525 (aus der BV des Stadtbezirks 13, aber den Stadtbezirk 1 betreffend): Verkehrsspiegel an der Einmündung der Paradies-, Rosenbusch- Reitmorstraße in die Widenmeyerstraße zur Verbesserung der Sichtbedingungen
+- TOP .1.: Parkraummanagement in München
+- TOP .2.: Ausdehnung der ?Blauen Zonen? Antrag der Stadtratsfraktion DIE GRÜNEN/RL: Tempo 30 in der Altstadt
+- TOP .3.: BV-Empfehlung Nr. 491: Sendlinger Straße als Fußgängerzone
+- TOP .4.: Novellierung der Baumschutzverordnung; Frist: 25.05.2010
+- TOP .5.: Öffnung der Falkenturmstraße für den gegenläufigen Radverkehr
+- TOP .6.: Antrag BA 15: Task-Force für die Ermittlung freier Potentiale bei der Kinder-betreuung einsetzen
+- TOP .1.: Hofflohmarkt am 26. Juni im Lehel
+- TOP .1.: (E) Budget der Bezirksausschüsse Kunstausschuss St. Lukas Kunstprojekt "Contemplatio"
+- TOP .2.: (E) Budget der Bezirksausschüsse Kultur und Spielraum e.V. Kinderprogramm für das Stadtgründungsfest am 12./13.06.2010
+- TOP .1.: Leitlinie der Münchner Suchtpolitik
+- TOP .2.: Verlängerung des Bewilligungszeitraumes für ZAB e.V.
+- TOP .1.: Mehr Einflussmöglichkeiten für junge Menschen, Antrag der Stadtratsfraktion DIE GRÜNEN/RL vom 01.09.2009 (vertagt aus 2010.03 und 2010.04)
+- TOP .2.: Konzeption einer Alternative zu 18.Jetzt (vertagt aus 2010.04)
+- TOP .1.: Einladung des Schulreferats zur jährlichen Gesprächsrunde 12.05.2010 um 16.00 Uhr im Schulreferat, Neuhauser Str. 39, Zi 535 Rückmeldung bis 07.05.2010
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Antrag BA 15: Der BA 15 schließt sich dem Antrag des BA 1 2009.12 A 5.8 Briefaktion des Karl Richter
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Freistellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Schreiben des Baureferats zur Neugestaltung des Platzes der Opfer des National-sozialismus, Disposition der Info-Termine
+- TOP 0.5.: Antwortschreiben des Bayerischen Landesamt für Denkmalpflege zu TOP 2010.04 B 1.1: Vater-Rhein-Brunnen unter Denkmalschutz
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Fortführung der Gaststätte ?Discovery?, Neuhauser Str.
+- TOP 0.5.: Unveränderte Fortführung der Diskothek ?Schrannenclub?, Viktualienmarkt 15
+- TOP 0.6.: Unveränderte Fortführung der Gaststätte ?Cafe Fräulein?, Frauenstr. 11
+- TOP 0.7.: Videoüberwachung am Sendlinger-Tor-Platz
+- TOP 0.8.: Eilentscheidung vom 16.04.2010 ?Aktionstag Bayerisches Rotes Kreuz? am 24.04.2010 auf dem Marienplatz
+- TOP 0.9.: Eilentscheidung vom 16.04.2010 ?Fahrradrundfahrt anlässlich des ÖKT? am 13.05.2010
+- TOP 0.10.: Antwortschreiben und Genehmigungsbescheid des Veranstaltungsbüros, KVR, zur Veranstaltung der National Kidney Fondation, TOP 2010.04 C 3.1.3
+- TOP 0.11.: Unveränderte Fortführung der Gaststätte ?Velvet? (bisher: ?Jennifer Parks?, Marienstr. 18
+- TOP 0.12.: Beschluss des Bayerischen Verwaltungsgerichts: ungenehmigter Diskothekbetrieb ?Vice?, Kaufingerstr. 9 / Fürstenfelder Str. 9 (Passage)
+- TOP 0.13.: Eilentscheidung vom 30.04.2010 Gewinnausgabe Tombola ?Für München?
+- TOP 0.14.: Antwortschreiben des KVR zur Ablehnung der Änderung der Betriebszeit der Freischankfläche ?Stadtcafe?, St.-Jakobs-Platz 1, TOP 2010.04 C 2.1.2
+- TOP 0.15.: Unveränderte Fortführung der Gaststätte ?pizza e more?, Sendlinger Str. 46
+- TOP 0.16.: Unveränderte Fortführung der Gaststätte ?Playa?, Kreuzstr. 3b
+- TOP 0.17.: Unveränderte Fortführung der Gaststätte ?Harpers & Queens?, Sendlinger Str. 46
+- TOP 0.1.: Beschluss des Kreisverwaltungsausschusses vom 27.04.2010: Lichtzeichenanlagen-Bauprogramm
+- TOP 0.2.: Verlegung von Behindertenparkplätzen im Bereich Herzogspitalstraße
+- TOP 0.3.: Arbeiten im Straßenraum: Sattlerstraße, Fürstenfelderstraße und Kaufinger Straße
+- TOP 0.4.: Verkehrsrechtliche Anordnung: Abbau des Zeichens Vorfahrt gewähren, Knöbelstraße
+- TOP 0.5.: City Partner Info zur verkehrlichen Maßnahmen am ÖKT
+- TOP 0.6.: Sanierung der Westenriederstr. zwischen Tal und Zwingerstr. zu TOP 2010.03 D 3.2
+- TOP 0.7.: Sanierung: Hochbrückenstraße zwischen Tal ? Wurzerstraße
+- TOP 0.1.: SWM informiert über neue Bädereintrittspreise
+- TOP 0.2.: Jahresdokumentation 2009 Sport
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
