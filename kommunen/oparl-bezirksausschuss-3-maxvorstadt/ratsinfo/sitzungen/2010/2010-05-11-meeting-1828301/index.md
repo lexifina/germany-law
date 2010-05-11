@@ -1,0 +1,112 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-05-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828301
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828301
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers vom 15.04.2010 Durchfahrtsperre am Ferdinand-Miller-Platz
+- TOP 5.2.2.: Schreiben der Privatklinik Josephinum: baustellenbedingte Einbahnstraßenregelung in der Schönfeldstraße
+- TOP 5.2.3.: Schreiben vom 10.05.2010 zur Planung der Anwohnertiefgarage am Josephsplatz
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag der Fraktion von Bündnis 90/Die Grünen im BA 3 vom 13.04.2010, vertagt aus der Sitzung vom 13.04.2010: Die Stadt München wird aufgefordert, den Leitfaden für das "Grünkonzept Maxvorstadt" zu aktualisieren, d.h., die nicht realisierbaren Straßenabschnitte (z.B. Schellingstraße) herauszunehmen, bereits realisierte Abschnitte (z.B. Schwindstraße) als bestehend einzutragen sowie neu in Frage kommende Abschnitte einzutragen. Insbesondere ergeht die Aufforderung, die Neureutherstraße in das Grünkonzept mit aufzunehmen.
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.2.: Referat für Stadtplanung und Bauordnung, Anhörung: Novellierung der Baumschutzverordnung
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: - Liste der Bauvorhaben 14. KW, 15. KW, 16. KW - Liste der Abgeschlossenheitsbescheinigungen 13., 14., 15. KW
+- TOP 2.1.2.: Augustenstraße 2, Neubau eines Hotels mit Tiefgarage (Augustenstraße 2/Dachauer Straße 30)
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Liste der Baumfällungen 14. KW, 16. KW
+- TOP 2.2.2.: Zieblandstraße 29 - 33, fünf Akazien
+- TOP 2.2.3.: Kaulbachstraße 47, ein Bergahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der Fraktion von Bündnis 90/Die Grünen im BA 3 vom 13.04.2010, vertagt aus der Sitzung vom 13.04.2010 (s. TOP B 1.1)
+- TOP 1.2.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 26.04.2010: Anwohnertiefgarage Josephsplatz - Installation von Ladestationen für Elektrofahrzeuge in die Planung einbeziehen.
+- TOP 1.3.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 06.05.2010 zum Fahrradstellplatzkonzept einschließlich des mit BA-Antrag vom 10.03.2009 geforderten Verkehrskonzeptes.
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Standortgenehmigung für Parkscheinautomaten Lizenzgebiet Königsplatz, Augustenstraße 5
+- TOP 2.1.2.: Kreisverwaltungsreferat: Entscheidung über die Einrichtung, Änderung oder Aufhebung einer Ladezone; eingeschränktes Haltverbot (Z286 StVO) in der Arcisstraße 35/37, Einrichtung
+- TOP 2.1.3.: Kreisverwaltungsreferat, Anhörung: Aufhebung einer Hotelanfahrtszone in der Karlstraße 49
+- TOP 2.1.4.: Baureferat, Beschlussvorlage: Seidlstraße zwischen Arnulfstraße und Stiglmaierplatz, Projekt-Nr.: 100465
+- TOP 2.1.5.: Referatt für -Stadtplanung und Bauordnung, Anhörung: Bauvorhaben Barer Straße FlurNr. 3954/2, Gemarkung Sektion III, Bau einer Wartehalle mit hinterleuchteter Werbefläche (WH 2080)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Werbung im öffentlichen Raum; verschiedene Anträge des Bezirksausschusses 12 Schwabing - Freimann
+- TOP 2.2.2.: Fahrradstellplatzkonzept (1. Realisierungsabschnitt)
+- TOP 2.2.3.: Direktorium, Gestaltung von U-Bahnhöfen, Satzungsänderung; BA-Antrag Nr. 08-14 / B 01991 des BA 12 Schwabing-Freimann
+- TOP 2.2.4.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse: - Barer Straße 84, neue Verkaufseinrichtung auf öffentlichem Grund - Amalienstraße 91, neue Verkaufseinrichtung auf öffentlichem Grund - Görresstraße 41, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.6.: Baureferat, Anhörung: Änderung der Reinigungsklassen im Stadtbezirk 3 Maxvorstadt
+- TOP 2.2.7.: Kreisverwaltungsreferat, Anhörung: Infostand in der Grünanlage Geschwister-Scholl-Platz am 31.05. und am 01.06.2010
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat; Entscheidung über Sondernutzungserlaubnis (Freischankflächen): - Schellingstraße 128 - Schellingstraße 54, vertagt aus der Sitzung 04/2010 - Schleißheimer Straße 100
+- TOP 2.3.2.: Kreisverwaltungsreferat, Entscheidung über Sperrzeitänderung: Elisenstraße 3, "Elli Disco"
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Anhörung: Konzert Eric Clapton auf dem Königsplatz am 05.06.2010
+- TOP 2.4.2.: Kreisverwaltungsreferat, Anhörung: Innenstadt, 32, Münchner Stadtlauf 2010 am 27.06.2010
+- TOP 2.4.3.: Kreisverwaltungsreferat, Anhörung: Streetlife Festival/corso Leopold in der Ludwig-/Leopoldstraße am 29.05. und am 30.05.2010
+- TOP 2.4.4.: Kreisverwaltungsreferat, Anhörung: Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 03.06. bis 13.06.2010.
+- TOP 2.4.5.: Kreisverwaltungsreferat, Anhörung: Nutzung der Grünanlage Geschwister-Scholl-Platz für die BR-Livesendung Südwild vom 28.06.2010 bis 02.07.2010
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Referat für Gesundheit und Umwelt, Anhörung: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik, Diskussionsphase
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 MFM Projekt der 4. Klassen im Juni 2010
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Schwindstraße MFM-Projekt
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Pädagogische Aktion/Spielen in der Stadt e.V. Spielbusse vom 07. - 09.05.10 und am 17./18.05.2010
+- TOP 3.1.: Sozialreferat: Stationäre Pflegeeinrichtung mit betreuter Wohnform für alte Menschen in der Sozialregin München Mitte; Antwort auf das Schreiben des BA 3 an das Sozialreferat vom 16.12.2009 vertagt aus der Sitzung 13.04.2010
+- TOP 3.2.: Sozialreferat: Prioritätenfestlegung und Bedarfszahlen der Stadtbezirke im Ausbauprogramm von Krippen und Kindergartenplätzen, BA-Antrags-Nr. 08-14 / B 0177 des BA 3 vom 12.01.2010, vertragt aus der Sitzung 13.04.2010
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung: Nutzungsänderung chemische Reinigung zu Spielstätte, Dachauer Straße 19, Schreiben des PLAN/REF vom 30.03.2010
+- TOP 1.2.: Beschluss des Planungsausschusses vom 14.04.2010: Ausgleichsflächen in der Bauleitplanung
+- TOP 1.3.: Freischankfläche Gabelsbergerstraße 99: Entscheidung durch den OB
+- TOP 1.4.: Informationsveranstaltung zum Schutz von Gebäudebrütern; Antwortschreiben des Referates für Gesundheit und Umwelt vom 24.03.2010
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde: Linprunstraße 53, Fällungsantrag vom 17.02.2010, eine Tanne
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Abhilfemaßnahmen im Zusammenhang mit der Sperrung der Königinstsraße BA-Antrag 02-08 / B 02057 des BA 3
+- TOP 2.2.: Aufhebung eine Behindertenparkplatzes im Bereich Neureuther Str.7
+- TOP 2.3.: Beibehaltung der Einbahnregelung in der Schönfeldstraße von Osten nach Westen in Richtung Ludwigstraße
+- TOP 2.4.: Eilentscheidung vom 08.04.2010: Zustimmung zum Auftakt der Fahrradmarketingkampagne am 24.04 und 25.04.2010
+- TOP 2.5.: Liste der Bauvorhaben der Stadtwerke München: Pappenheimstraße 12, Fernwärme Seidlstraße 25, Fernwärme
+- TOP 2.6.: Referat für Stadtplanung und Bauordnung: Antwortschreiben auf Anfrage eines Bürgers zur Verkehrsberuhigung an der Pinakothek der Moderne (s. TOP A 5.2.1/0210).
+- TOP 2.7.: Kreisverwaltungsreferat: Lichtzeichenanlagen-Bauprogramm Beschluss des Kreisverwaltungsausschusses vom 27.04.2010
+- TOP 2.8.: Antrag des BA 15 trudering-Riem, Nr. 08-14 / B 01901 vom 25.02.2010: "Kein Google Street View"
+- TOP 2.9.: Kreisverwaltungsreferat: Genehmigungsbescheid für das Straßenfest der Gesellschaft für Öffentlichkeitsarbeit Bayerischer Brauereien e.V. am 23.04.2010
+- TOP 2.10.: Kreisverwaltungsreferat: Fahrradstadtrundfahrt anlässlich Ökumenischer Kirchentag, Anhörung; Eilentscheidung des Vorsitzenden
+- TOP 2.11.: Kreisverwaltungsreferat: Blade Night jeweils montags vom 17.05.2010 bis evtl. 13.09.2010, Anhörung; Eilentscheidung des Vorsitzenden
+- TOP 2.12.: Kreisverwaltungsreferat, Anhörung: Nutzung des Grünbereiches um den Brunnen am Prof.-Huber-Platz a, 13.05.2010 für einen Gottesdienst mit ca. 100 Personen mit gegenseitiger Fußwaschung; Eilentscheidung des Vorsitzenden
+- TOP 2.13.: Liste der Baumaßnahmen der Stadtwerke München: 15. KW
+- TOP 2.14.: Kreisverwaltungsreferat, Genehmigungsbescheid: "Nachtradeln - Rund um die Altstdt" mit Veranstaltung auf dem Marienplatz am 24.04.2010 und "Radlfrühjahrsveranstaltung" am Bavariapark am 25.04.2010
+- TOP 2.15.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung: Aufhebung der Zone für Einsatzfahrzeuge in der Karlstraße 79 und gegenüber
+- TOP 2.16.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung: taxistandplatz Arnulfstraße 35 (Hotel Eurostars Grand Central), Neueinrichtung
+- TOP 2.17.: Behindertengerechte Absenkung der Gehsteigkante an der Amalienstraße/Oskar-von-Miller-Ring, Westseite
+- TOP 3: Soziales und Bildung
+- TOP 3.1.: Beschluss des Bauausschusses vom 20.04.2010: Bekämpfung von Ameisen in Kinderspielbereichen
+- TOP 3.2.: Kreisverwaltungsreferat: Spieleaktionen Spiellandschaft Stadt e.V. für das Jahr 2010, Anhörung; Eilentscheidung des Vorsitzenden
+- TOP 3.3.: Sozialreferat, Beschluss des Sozialausschusses vom 04.05.2010: Bedarfsplanung zur pflegerischen Versorgung in München; Aufnahme des Grundstücks Meindlstraße 8 und 14 in die "Flächenreserve Gemeinbedarf" Pflegerische Versorgung älterer Menschen in München Antrag Nr. 2316 des BA 6 Sendling vom 13.07.2006
+- TOP 4: Kultur
+- TOP 4.1.: Kulturreferat, Beschluss des Kulturausschusses vom 22.04.2010: Neubau NS-Dokumentationszentrum in München im 3. Stadtbezirk Maxvorstadt
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Budgetantrag des BA 3 für eine Veranstaltung zur Öffentlichkeitsarbeit des Bezirksausschusses 3 Maxvorstadt (Höhr: 1.500,00 ?)
+- TOP 4.3.: Jungbürgerfeier am 25.04.2010: Nachbetrachtung
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 2.2.5.: Begrünung der Neureutherstraße vertagt aus der Sitzung 04/2010
+- TOP 3: Aktuelle Sachstandsberichte
