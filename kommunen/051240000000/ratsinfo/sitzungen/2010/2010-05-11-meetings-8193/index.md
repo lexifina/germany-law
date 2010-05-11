@@ -1,0 +1,56 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-05-11T16:06:00+02:00
+- Ende: 2010-05-11T17:25:00+02:00
+- Ort: Ratssaal, Rathaus Barmen, 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8193
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8193
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung- Stand 26.04.2010 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00116885.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00117768.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2009 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2009 der Hotel AG - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan 2010 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Benennung des Prüfers für den Jahresabschluss 2010 der Hotel AG - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Externe Einstellungen im Zeitraum Januar bis März 2010 - Entgegennahme ohne Beschluss
+- TOP 12.2: Stand der Schulden und Kassenkredite zum 31.03.2010 - Entgegennahme ohne Beschluss
+- TOP 13: Verkäufe und Baumaßnahmen
+- TOP 14: Dienstanweisungen und Satzungen
+- TOP 15: Anträge und Anfragen
+- TOP 15.1: Jährlicher Bericht über freiwillige Leistungen der Stadt - abgelehnt
+- TOP 15.2: Abführung des Gewinnes der Stadtsparkasse - abgelehnt
+- TOP 15.3: Kennzahlen-Set - Entgegennahme ohne Beschluss
+- TOP 15.3.1: NKF-Kennzahlenset - Entgegennahme ohne Beschluss
+- TOP 15.4: Bürgerdienst - Plattform schaffen für eine transparente und effiziente Verwaltung - abgelehnt
+- TOP 15.5: Neuberechnung der Regenwassergebühren - abgelehnt
+- TOP 15.6: Auswirkungen Aufgabenzuweisung des Landes NRW an die Stadt Wuppertal - abgelehnt
+- TOP 15.7: Fragen zum Haushaltsplan 2010 - 2011 - Entgegennahme ohne Beschluss
+- TOP 15.7.1: Fragen zum Haushaltsplan 2010-2011 - Anfrage der WfW Fraktion vom 26.04.10, VO/0383/10 - Entgegennahme ohne Beschluss
+- TOP 16: Allgemeine Vorlagen
+- TOP 16.1: Beteiligung der Stadt Solingen am ServiceCenter - ungeändert beschlossen
+- TOP 16.2: Über- und außerplanmäßige Bereitstellung von Mitteln für 2009 und 2010 - ungeändert beschlossen
+- TOP 16.3: Instandsetzung Brücke Ohligsmühle, Erhöhung der Gesamtbaukosten - ungeändert beschlossen
+- TOP 16.4: Neugestaltung Döppersberg - ungeändert beschlossen
+- TOP 16.5: Erstattung von Winterdienstgebühren - ungeändert beschlossen
+- TOP 16.6: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 17: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 23: Alten- und Altenpflegeheime
+- TOP 24: Berichte und Mitteilungen
+- TOP 25: Kinder- und Jugendwohngruppen
+- TOP 26: Berichte und Mitteilungen
