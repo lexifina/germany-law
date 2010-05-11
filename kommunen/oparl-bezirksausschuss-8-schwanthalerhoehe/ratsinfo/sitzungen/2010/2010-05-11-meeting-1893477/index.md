@@ -1,0 +1,58 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-05-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893477
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893477
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Anfrage: Gehsteigfrühstück Tulbeckstraße 50
+- TOP 4.2.: Parksituation, Theresienhöhe-Hans-Fischer-Straße
+- TOP 4.3.: Baustelle Post in der Bergmannstraße
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Entscheidung Freischankfläche Schwanthalerstr. 158
+- TOP 5.2.: Entscheidung Freischankfläche Gollierstr. 14
+- TOP 5.3.: Entscheidung Freischankfläche Astallerstr. 18
+- TOP 5.4.: Anhörung: Antrag Freischankfläche Bergmannstr. 33
+- TOP 5.5.: Anhörung: Gestaltung von U-Bahnhöfen - Satzungsänderung
+- TOP 5.6.: Anhörung: Umgestaltung Bergmannstraße zwischen Tulbeck- und Westendstraße
+- TOP 5.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.8.: Meldeliste
+- TOP 5.9.: Werbung im öffentlichen Raum - BA-Anträge BA 12 Schwabing-Freimann
+- TOP 5.10.: Fest Eröffnung Bahndeckel
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Anhoerung: Spieleaktionen Spiellandschaft Stadt e.V. für das Jahr 2010
+- TOP 6.2.: Anhoerung: KiKS Eröffnungswochenende vom 18.06.2010 bis 20.06.2010
+- TOP 6.3.: AW: Investitionskostenförderung - Haus für Kinder, Ganghoferstr. 68-70
+- TOP 6.4.: Pressemeldung des KJR zum Spot am Georg-Freundorfer-Platz
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Unsere Stadt - Unsere Straßen, Filmproduktion
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Verkehrsrechtliche Anordnung Geroltstraße
+- TOP 8.2.: Anhörung: Novellierung Baumschutzverordnung
+- TOP 8.3.: Blade Night vom 03.05. bis 06.09.2010, außer 28.06.2010
+- TOP 8.4.: Fahrradstadtrundfahrt anlässlich des Ökumenischen Kirchentags am 13.05.2010
+- TOP 8.5.: AW BA Antrag Nr. 08-14 / B 01950 Errichtung eines Wartehäuschens an der Trambahnhaltestelle Holzapfelstraße
+- TOP 8.6.: Lichtzeichenanlagen-Bauprogramm
+- TOP 8.7.: Bauvorhaben der SWM
+- TOP 8.8.: Bürgerversammlung zur 2. S-Bahn Stammstrecke
+- TOP 8.9.: AW: Mögliche Containeraufstellung am Max-Friedländer-Bogen
+- TOP 8.10.: Treffen BA 8 und BA 2 vom 23.04.2010 zum Thema: Gitterversperrung auf der Theresienwiese
+- TOP 8.11.: Einbeziehung des Gebiets "Alte Messe" in das Parkraummanagement
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Init. "Tag des offenen Denkmals" c/o H. Schwedes Führung am Tag des offenen Denkmals am 12.09.2010
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt Oben ohne Open Air am 24.07.2010
+- TOP 9.4.: (E) Budget der Bezirksausschüsse Kultur & Spielraum München e.V. Kinder-Kultur-Sommer 2010
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 12: Protokoll und Umlauf
