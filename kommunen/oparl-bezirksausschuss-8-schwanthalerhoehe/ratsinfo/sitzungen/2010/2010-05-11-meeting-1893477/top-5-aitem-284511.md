@@ -1,0 +1,7 @@
+# TOP 5: Bauen, Planen, Wohnen und Gewerbe
+
+- Sitzung: BA 08 - Vollgremium (2010-05-11)
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/284511
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/284511
