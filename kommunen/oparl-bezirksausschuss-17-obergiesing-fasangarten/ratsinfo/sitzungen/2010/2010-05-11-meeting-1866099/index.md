@@ -1,0 +1,101 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2010-05-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1866099
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1866099
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Bauarbeiten in den Straßen Am Bergsteig, Hefnerstraße und Untere Grasstraße
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Verunstaltung des Straßen- und Platzbildes in München durch Werbeträger aller Art; diverse Anträge des BA 12 - Schwabing-Freimann - mit der Bitte um Unterstützung
+- TOP 3.2.: Eindämmen von Spielhallen und Geldspielautomaten; Antrag des BA 7 - Sendling-Westpark vom 13.04.2010 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher-Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 24.07.2010; Antragssumme: 1.000,00 ?; Beschlussvorlage des Direktoriums vom 13.04.2010
+- TOP 4.2.: AntragstellerIn: Kolpingsfamilie München-Giesing H.- Kreuz e.V., für die Maßnahme: Aufstellung eines Kreuzbrunnens; Antragssumme: 5.000,00 ?; Beschlussvorlage des Direktoriums vom 17.02.2010 (vertagt aus den Sitzungen vom 09.03. und 13.04.2010 - FF: UA Kultur) - <div>vertagt</div>
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Rotwandstraße 1 - Erweiterung bzw. Verlegung der Freischankfläche; Beschluss des BA 17 vom 11.05.2010
+- TOP 0.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2, Anhörung im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.1.1 Anwesen Pöllatstr. 2; Ersatzbau Kindergarten, Neubau Pfarrzentrum, Betreutes Wohnen mit Altenservice, Wohnungen für Bedienstete, Vorbescheid; Anhörung vom 07.04.10 (vertagt aus der Sitzung vom 13.04.2010)
+- TOP 0.1.: Giesinger Bahnhof; Bebauungsplan mit Grünordnung Nr. 1586; provisorischer Busbahnhof Schwanseestraße 1. Bauabschnitt - Teil 2 (Rückbau provisorischer Busbahnhof) im 17. Stadtbezirk Obergiesing-Fasangarten; Sitzungsvorlage Nr. 08-14 / V 04050; Beschluss des Bauausschusses vom 20.04.2010 (SB)
+- TOP 0.2.: Baufälle im 17. Stadtbezirk
+- TOP 0.3.: Sicherung der Kleingartenanlage Südost 30; Antrag Nr. 08-14 / A 00690; Stadtbezirk 17 - Obergiesing; Sitzungsvorlagen Nr. 08-14 / V 04123; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.05.2010 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Akute Raumnot und unzumutbare Zustände in der Kindertagesstätte Tirschenreuther Str. 11 (TOP 2.1.2.1 vom 13.04.2010, Durchführung eines Ortstermins)
+- TOP 0.1.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik; Diskussionsphase; Zuleitung des Referates für Gesundheit und Umwelt mit der Bitte um Rückmeldung bis 14.06.2010
+- TOP 0.1.: A) Errichtung von Mobilen Schulraumeinheiten an den nachstehenden Schulstandorten in München a) Schulzentrum Engadiner Straße 1 im 19. Stadtbezirk b) Asam-Gymnasium, Schlierseestraße 20 im 17. Stadtbezirk c) Wilhelm-Hausenstein-Gymnasium, Elektrastraße 61 im 13. Stadtbezirk d) GS/HS Bernaysstraße 35 im 11. Stadtbezirk e) GS Feldmochinger Straße 251 im 24. Stadtbezirk f) GS/HS Haldenbergerstraße 27 im 10. Stadtbezirk Moosach 1. Projektauftrag 2. Projektgenehmigung 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung 4. Genehmigung zur verwaltungsinternen Ermächtigung der Vergabe für das jeweilige Projekt 5. Änderung des Mehrjahresinvestitionsprogramms 2009-2013 in den betroffenen Unterabschnitten 2110, 2130, 2220 und 2320 6. Außerplanmäßige Mittelbereitstellungen im Finanzhaushalt - Investitionstätigkeit bei Finanzpositionen in den Bereichen UA 2110, 2130, 2220 und 2320 7. Ausnahme von Finanzierungsvorbehalt B) Raumsituation am Gymnasium Fürstenried C) Ausreichend Unterrichtsräume an den Gymnasien für die Eingangsklassen schaffen D) Dringende Verbesserung der gymnasialen Eingangsklassensituation im Münchner Osten durch Einrichtung von Vorläuferklassen für das Truderinger Gymnasium E) Schaffung von Räumen für Eingangsklassen; Sitzungsvorlage Nr. 08-14 / V 04040; Beschluss des Schul- und Sportausschusses des Stadtrates vom 14.04.2010 (SB) + (VB) zu TOP 5.2.4.1 Ergänzung zur Beschlussvorlage für den Schul- und Sportausschuss am 14.04.2010
+- TOP 0.2.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 10. Stadtbezirkes; Sitzungsvorlage Nr. 08-14 / V 03615; Beschluss der Vollversammlung des Stadtrates vom 24.03.2010
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Schließung des Schleichweges im Westen des St.-Martin-Platzes / Erweiterung des dortigen Spielplatzes (Neubewertung auf Grundlage einer vom Planungsreferat vorzulegenden konkreten Planung, vertagt aus der Sitzung vom 13.04.2010) - <div>vertagt</div>
+- TOP 0.3.: Antrag zur Buslinie 147 (bzw. 220) ? Neue Bedarfshaltestelle zwischen Lincoln? und Minnewitstraße (vertagt aus der Sitzung vom 13.04.2010)
+- TOP 0.1.: Rotwandstraße zwischen Landlstraße und Deisenhofener Straße; Aufhebung der Einbahnstraße; Schreiben des KVR vom 12.04.2010 mit der Bitte um Stellungnahme
+- TOP 0.1.: Amerstorfferstraße; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 22.03.2010
+- TOP 0.2.: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens a) Gutachten zur Flughafenanbindung 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) weiteres Vorgehen c) Anträge Sitzungsvorlagen Nr. 08-14 / V 03946; Beschluss der Vollversammlung des Stadtrates vom 24.03.2010; HInweis / Ergänzung vom 23.03.2010
+- TOP 0.3.: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke a) Vergleichende Untersuchung 2. S-Bahn-Tunnel/Südring 2009, nachfolgende Aktivitäten und Untersuchungen, Fazit b) Stand der Planfeststellungsverfahren und Umplanungen des 2. S-Bahn-Tunnels c) Weiteres Vorgehen d) Lärmsanierung am DB-Südring e) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 03945; Beschluss der Vollversammlung des Stadtrates vom 24.03.2010; Hinweis/Ergänzung vom 23.03.2010
+- TOP 0.4.: Antrag zur Buslinie 145 ? Wendung über den Kreisel Fasangartenstraße; Antrag nr. 08-14 / B 01856 des BA 17 vom 09.02.10; Antwortschreiben des KVR vom 07.04.10
+- TOP 0.5.: Lichtzeichenanlagen-Bauprogramm; Beschluss des Kreisverwaltungsausschusses vom 27.04.2010 (SB); Sitzungsvorlage Nr. 08-14 / V 04058
+- TOP 0.6.: Einsatz mobiler Radardisplays in Tempo-30-Zonen; BA-Antrag Nr. 08-14 / B 01953 vin 09.03.10; Antwortschreiben des KVR vom 23.04.10
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Novellierung Baumschutzverordnung; Az.: 9.81-2010-9086-5; Zuleitung der Unteren Naturschutzbehörde vom 16.04.2010 mit der Bitte um Stellungnahme bis 25.05.2010 zum Verordnungsentwurf und zur Karte der Gebietsabgrenzung
+- TOP 0.1.: Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 08-14 / V 03951; Bekanntgabe in der Sitzungdes Bauausschusses vom 20.04.2010
+- TOP 0.2.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt c) Flächenpool für ökologische Ausgleichsflächen; Pilotprojekt "Eschenrieder Moos mit 1. Münchner Ökokonto" Sitzungsvorlage nr. 08-14 / V 03620; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010 (VB); Hinweis / Ergänzung vom 11.03.2010
+- TOP 0.3.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.3.1 Anwesen Tegernseer Landstraße; Bescheid vom 20.04.2010 5.4.4.3.2 Anwesen Trauchbergstraße; Bescheid vom 21.04.2010 5.4.4.3.3 Anwesen Weißenseestraße; Bescheid vom 22.04.2010 5.4.4.3.4 Anwesen Werinherstraße; Bescheid vom 23.04.2010
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Mobile Spielaktionen im Jahr 2010 auf diversen städtischen Grünanlagen beantragt durch den Verein Spiellandschaft Stadt e.V.; Zuleitung des KVR mit der Bitte um Stellungnahme
+- TOP 0.2.: Grünanlagen Hohenschwangauplatz, Scharfreiterplatz und Alpenplatz; Fit und gut drauf! mobile Aktionen am 08.06.2010 und 22.06.10 - Anhörungsfrist 17.05.2010; Zuleitung des KVR vom 19.04.2010
+- TOP 6: Sonstige Fälle
+- TOP 6.6.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 6.6.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 6.1.: Gestaltung von U-Bahnhöfen - Satzungsänderung; BA-Antrags-Nr. 08-14 / B 01991 des BA 12 - Schwabing-Freimann vom 23.03.10; Schreiben des Direktoriums vom 09.04.2010 mit der Bitte um Stellungnahme
+- TOP 6.6.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 6.1.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung; Az.: D-HA II/BA; Schreiben des Oberbürgermeisters vom 01.03.2010
+- TOP 6.2.: Sitzungsunterlagen für alle Mitglieder der BAs bei Entscheidungen aus dem Bereich der laufenden Verwaltung (OB-Vollmacht); BA-Antrags-Nr. 08-14/B 01829 des BA 12 Schwabing-Freimann vom 26.01.2010; Az.: D-II-BA 1150/550 - 09/11; Antwortschreiben des Oberbürgermeisters vom 02.03.2010
+- TOP 7.7: Berichte der Beauftragten
+- TOP 7.7.7.1: Ausländer/Innen
+- TOP 7.7.7.2: Behinderte
+- TOP 7.7.7.3: Genderfragen
+- TOP 7.7.7.4: Kinder
+- TOP 7.7.7.5: Jugend
+- TOP 7.7.7.6: Senioren/Innen
+- TOP 7.7: Baumschutz
+- TOP 7.7.1: Einzelfälle
+- TOP 7.7.1.1.: 7.7.1.1 Bayrischzeller Straße 9, 1 Scheinakazie, Antrag vom 06.04.2010 7.7.1.2 Stadelheimer Straße 10 - 10 c, 1 Weide, Antrag vom 10.04.2010 7.7.1.3 Kistlerstraße, 1 Fällung, 7 Baumveränderungen; Antrag vom 26.04.2010
+- TOP 7.7.2: Baumbestandspläne
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
