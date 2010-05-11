@@ -1,0 +1,53 @@
+# Stadtrat (7. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-05-11T17:00:00+02:00
+- Ende: 2010-05-11T20:14:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZW7dQ6qXRv0knKdbsoymx6w
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7760
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZFtwbDzF7aEvMBjNNYa5u5RIsdTx2nhDxii64nokop8/Bekanntmachung_Stadtrat_11.05.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcea-zxqouzLSjj_f40RBtQ8FQoqT4xAtF8ja6hBmHUf/Oeffentliche_Niederschrift_Stadtrat_11.05.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.: 59. Änderung des Flächennutzungsplanes "Westliche Regengasse", Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 3.: Erstellung eines jährlichen kommunalen Armuts- und Reichtumsberichts hier: Antrag der Linksfraktion
+- TOP 4.: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen I. Quartal 2010
+- TOP 5.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 6.: Antrag auf Prüfung des Auswirkungen von Aufgabenzuweisungen des Landes NRW an die Stadt Kerpen hinschtlich einer Verletzung des Kernbereichs der kommunalen Selbstverwaltung durch das Land NRW und ggf. einer Klageerhebung auf Einhaltung des Konnexitätsprinzips
+- TOP 7.: Stadtentwicklung und Bauleitplanung
+- TOP 7.1: Bericht zu den Kontrakten „Wohnbaulandentwicklung“, „Bodenpolitik“ und „Familien- und Kinderfreundlichkeitsprüfung in der Bauleitplanung“ in der Stadt Kerpen für den Zeitraum vom 01.08.2008 bis zum 31.03.2010
+- TOP 7.1.1: Verlängerung des Kontraktes zur Wohnbaulandentwicklung in der Stadt Kerpen
+- TOP 7.1.2: Verlängerung des Kontraktes über die Bodenpolitik in der Stadt Kerpen
+- TOP 7.1.3: Verlängerung des Kontraktes über Familien- und Kinderfreundlichkeitsprüfung in der Stadt Kerpen
+- TOP 7.2: 2. Änderung des Einzelhandelskonzeptes der Stadt Kerpen und Abschluss eines Kontraktes zum Einzelhandelskonzept der Stadt Kerpen
+- TOP 7.3: Erstellung eines unabhängigen geologischen Gutachtens zum Tagebau Buir – Antrag der Fraktion DIE LINKE vom 13.03.2010
+- TOP 7.4: Einrichtung einer Anrufungsstelle Bergschäden für das Rheinische Braunkohlenrevier
+- TOP 7.5: Bebauungsplan KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP zu TOP 7.5: Bebauungsplan KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 7.6: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen
+- TOP zu TOP 7.6: Erlass einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen
+- TOP 7.7: Bebauungsplan KE Nr. 332 "Hahnenstraße" im Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung
+- TOP 7.8: Bebauungsplan TÜ Nr. 6 "Alfred-Nobel-Straße", Stadtteil Türnich hier: Beschluss zur Offenlage
+- TOP 7.9: Fahrradfreundliche Stadt Kerpen
+- TOP 8.: Zeitplan Neubau Kindergarten Rasselbande am Kerpener Weg im Stadtteil Blatzheim
+- TOP 9.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 10.: Mitteilungen
+- TOP 11.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: ExpoReal 2010 in München
+- TOP 14a: Festlegung des Verkaufspreises von städtischen Grundstücken im Bebauungsplangebiet "Burgackerstraße" in Kerpen-Brüggen und Festlegung der Vergabe-Richtlinien
+- TOP 15.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 16.: Mitteilungen
+- TOP 17.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Anfrage vom 19.04.2010 zur Mitfinanzierung der Wirtschaftsförderung Rhein-Erft GmbH (WFG) durch die Stadt Kerpen
+- TOP 19.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
