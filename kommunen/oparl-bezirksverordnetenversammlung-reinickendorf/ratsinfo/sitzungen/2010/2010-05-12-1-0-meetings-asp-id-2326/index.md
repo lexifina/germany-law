@@ -1,0 +1,94 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-05-12T17:10:00+02:00
+- Ende: 2010-05-12T21:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2326
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2326
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - in der BVV abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Musische und künstlerische Bildung in Reinickendorf (Große Anfrage 14.04.2010) - beantwortet
+- TOP 5.1.1: Ausreichende Ausstattung der Schulen mit Schulmusikern - überwiesen
+- TOP 5.1.2: Aufhebung der Austauschbarkeit der Fächer Kunst und Musik in den Klassenstufen 7 bis 9 der integrierten Sekundarschulen - überwiesen
+- TOP 5.2: Novellierung des Straßenausbaubeitragsgesetzes (Beschlussempfehlung 14.04.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Die Umweltzone darf ehrenamtliches Engagement nicht unterbinden (Antrag 14.04.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Transparenz bei Gutachten herstellen (Ersuchen 14.04.2010) - erledigt
+- TOP 5.4.1: Transparenz bei Gutachten herstellen - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Sommerbadebetrieb in Tegel aufrecht erhalten (Empfehlung 14.04.2010) - mit Änderungen in der BVV beschlossen
+- TOP 5.6: Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.1: Übertragung der Einrichtung für wohnungslose alleinstehende Personen in der Kopenhagener Straße 29 an den freien Träger "Verein für Berliner Stadtmission" - ohne Änderungen in der BVV beschlossen
+- TOP 5.6.2: Übertragung Einrichtung Kopenhagener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.6.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: Feststellungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Flächendeckend Spielplatzwächter in Reinickendorf einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Haushaltsberatungen langfristiger vorbereiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Brandschutz im Rathaus Reinickendorf endlich umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Reaktivierung der Heidekrautbahn (Zwischenbericht) - überwiesen
+- TOP 7.5: Angemessenes Gedenken für Bürgermeister und BVV-Vorsteher des Bezirks Reinickendorf - überwiesen
+- TOP 7.6: Öffentlichkeitsarbeit zur Einhaltung des Jugendschutzgesetzes und Konsequenzen bei Nicht-Einhaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Bezirkliche Maßnahmen zur Einhaltung des Jugendschutzes - überwiesen
+- TOP 7.8: Medienkompetenz von Eltern stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Planbetten in Reinickendorf - überwiesen
+- TOP 7.10: "Spielend" Deutsch lernen im Kreise der Familie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Standortplanung Oberschulen - überwiesen
+- TOP 7.12: Busverbindung Lübars - Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Gesund durch die Schwangerschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Alkoholprävention in Sportvereinen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2010 und 2011 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Jährliche Bewuchsentfernung am Tegeler Fließ sowie die Reinigung der Gräben in Heiligensee - ohne gesonderte Aufforderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Baumfällungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Schluss mit Geheimverträgen - Wir Berliner wollen unser Wasser zurück! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Prüfungsergebnisse Betriebskostenabrechnungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Verdichtung der Taktzeiten der Buslinie 124 an Samstagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Umsetzung der Schulstrukturreform mit intensiver Unterstützung des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Haushaltsführung im Ressort Jugend (Punkt 1) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.23: Haushaltsführung im Ressort Jugend (Punkt 2) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.24: Haushaltsführung im Ressort Jugend (Punkt 3) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.25: Haushaltsführung im Ressort Jugend (Punkt 4) (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.26: Kostenentwicklungssystem im Bereich Jugend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Darstellung monatlicher Entwicklung der Hilfen zur Erziehung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Stromsparhelfer: Arbeitslose helfen Arbeitslosen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Einbindung der Grundschulen in das Thema Sekundarschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Einstellung des Bebauungsplans XX-293 vom 9. November 1998 (im Verfahren) mit Deckblatt vom 30. August 2001 und 3. Dezember 2001 für das Grundstück Am Springebruch 65 im Bezirk Reinickendorf, Ortsteil Lübars. - überwiesen
+- TOP 7.31: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-18Ba für das Gelände zwischen der Grünfläche der Berliner Straße 71- 82, der S-Bahntrasse, der Ernststraße sowie der Berliner Straße im Bezirk Reinickendorf, Ortsteil Tegel. - überwiesen
+- TOP 7.32: Umwandlung der Paul-Löbe-, Carl-Bosch-, Julius-Leber-, Greenwich-, Albrecht-Haushofer- und Bettina-von-Arnim-Schule von einer Haupt-, Real- bzw. Gesamtoberschule in eine integrierte Sekundarschule (ISS) ab dem Schuljahr 2010/2011 - überwiesen
+- TOP 7.33: Sachstandsbericht zu den "Gleichstellungspolitischen Zielsetzungen 2009" im Bezirksamt Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Bestellung einer Ombudsfrau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Situation im Maßregelvollzug in Reinickendorf - vertagt
+- TOP 8.2: Zukunft der Wiesengrundschule - vertagt
+- TOP 8.3: Dezentrale Kulturarbeit für alle! - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - vertagt
+- TOP 9.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Wahl der Patientenfürsprecher für die Krankenhäuser im Bezirk Reinickendorf gemäß § 26 Landeskrankenhausgesetz (LKG) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: ÖPNV-Verbindung zum Freibad Lübars - vertagt
+- TOP 10.2: In schmalen Nebenstraßen den Durchgangsverkehr für LKW's unterbinden - in der BVV abgelehnt
+- TOP 10.3: 65. Jahrestag Kriegsende - vertagt
+- TOP 10.4: Kinderfreundliches Reinickendorf IV - Fahrradwegekarte - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Beschäftigungsmaßnahmen für chronisch psychisch kranke Menschen - überwiesen
+- TOP 12: Ersuchen - überwiesen
+- TOP 12.1: Sonder-Bauprogramm für Schulstrukturreform - vertagt
+- TOP 12.2: Arbeit der Sozialkommission im Bezirksamt - überwiesen
+- TOP 12.3: Radfahrstreifen Heiligenseestraße - überwiesen
+- TOP 12.4: Endlich Tourismuskonzept für Bezirk vorlegen - überwiesen
+- TOP 12.5: Berliner Projektfonds Kulturelle Bildung - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.1: Kostenlose Abgabe von Laub bei der BSR-Kompostierung - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Unterstützung GSW-Mieter - vertagt
+- TOP 13.3: Einladung zu Beiratssitzungen des JobCenters - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Mit dem Velo-Taxi zum Schiffsanleger - überwiesen
+- TOP 13.5: Fahrradtransport in Bussen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: ÖPNV-Anbindung Gelände TXL - überwiesen
