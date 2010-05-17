@@ -1,0 +1,67 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-05-17T16:05:00+02:00
+- Ende: 2010-05-17T18:56:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8071
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8071
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00117814.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung - Stand: 14.05.2010 - 11.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00117640.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Einführung eines Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Sammlungsbestände des Fuhlrott-Museums - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Reduktion der kommunalen CO2-Emissionen um 40 % bis 2010
+- TOP 3.2: Erstattung von Winterdienstgebühren
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Kulturförderabgabe für Wuppertal - zur Vorberatung verwiesen
+- TOP 4.2: Abführung des Gewinnes der Stadtsparkasse - abgelehnt
+- TOP 4.3: Resolution Atomausstieg - abgelehnt
+- TOP 4.4: Initiativkreis "Pro Wettbewerb im Strommarkt" - Gegen längere Laufzeiten von AKWs - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.4.1: Änderungsantrag der CDU-Fraktion zu TOP 4.4 - Initiativkreis "Pro Wettbewerb im Strommarkt" - Gegen längere Laufzeiten von Atomkraftwerken - geändert beschlossen
+- TOP 4.5: Forderung nach einem Sanktionsmoratorium - abgelehnt
+- TOP 4.6: Konzepte zur Zukunft der Wuppertaler Bühnen - zur Vorberatung verwiesen
+- TOP 4.7: Konkretisierung des Haushaltssicherungskonzeptes im Kulturbereich - zur Vorberatung verwiesen
+- TOP 4.8: Aufhebung der festgesetzten Zügigkeit an den Gemeinschaftsgrundschulen - zur Vorberatung verwiesen
+- TOP 4.9: Mehr soziale Gerechtigkeit - Sozialticket ist unsozial - abgelehnt
+- TOP 4.10: Bericht über das Gespräch mit der freien Kulturszene - zurückgezogen
+- TOP 4.11: Sachstandsbericht Pina-Bausch-Archiv - zur Vorberatung verwiesen
+- TOP 4.12: Sachstandsbericht Vergabe Kulturgutachten Bergisch Land - zur Vorberatung verwiesen
+- TOP 4.13: Resolution Eigenmittelbei Förderung durch den Bund - zur Vorberatung verwiesen
+- TOP 4.14: "Sammelwidersprüche gegen die Veröffentlichung von Häusern und anderen Objekten bei Google Street View" - zur Vorberatung verwiesen
+- TOP 4.15: Nordbahntrasse durchgängig entwickeln - ungeändert beschlossen
+- TOP 4.16: Runder Tisch für Handwerk und Stadt - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Auswirkungen Aufgabenzuweisung des Landes NRW an die Stadt Wuppertal - abgelehnt
+- TOP 5.2: Neuberechnung der Regenwassergebühren - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung des Beirates der Menschen mit Behinderung - ungeändert beschlossen
+- TOP 6.2: Satzung über die Erhebung von Gebühren für die Benutzung von Übergangseinrichtungen für ausländische Flüchtlingen und Aussiedler sowie Obdachloseneinrichtungen der Stadt Wuppertal und Satzung über die Errichtung und Unterhaltung von Übergn - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Instandsetzung Brücke Ohligsmühle, Erhöhung der Gesamtbaukosten - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln für 2009 und 2010 - ungeändert beschlossen
+- TOP 7.3: Anhebung des Höchstbetrages der Kassenkredite - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan Nr. 1101 V - Heckinghauser Str./ Feuerstr.- - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1066 - Engineering Park Wuppertal - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Neugestaltung Döppersberg - ungeändert beschlossen
+- TOP 11.2: Übernahme von Planungs- und Entwicklungskosten bei der Aufstellung und Änderung von Bauleitplänen - ungeändert beschlossen
+- TOP 11.3: Leistungen des ServiceCenters für die Stadt Solingen - ungeändert beschlossen
+- TOP 11.4: Entscheidung über die Gültigkeit der Wahl der Migrantinnen und Migranten im Integrationsausschuss der Stadt Wuppertal am 07. Februar 2010 - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung im Beirat der Unteren Landschaftsbehörde - ungeändert beschlossen
+- TOP 12.2: Verwaltungsausschuss der Bundesagentur für Arbeit Wuppertal - ungeändert beschlossen
+- TOP 12.3: Ehrenrat - Benennung der Mitglieder - geändert beschlossen
+- TOP 12.4: Umbenennung im Aufsichtsrat der Wuppertaler Bühnen - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - ungeändert beschlossen
