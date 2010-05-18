@@ -1,0 +1,141 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904569
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904569
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Verein der Freunde Neuhausens e.V. Maifeier am 08.05.2010
+- TOP 2.3.2.: (E) Budget der Bezirksausschüsse Dauerkleingartenanlage NW 1 e.V. Bürgerfest am 17.07.2010
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Initiative "I love colors" Künstlerische Gestaltung der Donnersbergerbrücke
+- TOP 2.3.4.: Antrag Pädagogische Aktion/Spielen in der Stadt e.V. (Az.: 05/10 - 3.4.2): Zuschuss in Höhe von 1.000 ? für Mietkosten für das Theaterfestival "Rampenlicht" vom 23.06-30.06.10
+- TOP 2.4: Beschlussvorlagen
+- TOP 2.4.1.: KVR (Az.: 10/96 - 3.2.13): Einrichtung einer Ladezone in der Erika-Mann-Straße; Errichtung absoluter Haltverbote im Bereich des Wendehammers in der Erika-Mann-Straße (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 2.4.2.: Baureferat (Az.: 05/10 - 3.1.1): Reinigung und Räumung in den Unterführungen der Landshuter Allee bereits ab 07.00 Uhr (Empfehlung Nr. 455 der Bürgerversammlung vom 24.11.09)
+- TOP 3: (E) Einrichtung einer Ganztagsklasse an der Zweigschule.....
+- TOP 3.4.: KVR (Az.: 05/10 - 4.3): Genehmigung einer Freischankfläche, Heideckstr. 2 a
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Baureferat: Reinigung und Räumung in den Unterführungen der Landshuter Allee bereits ab 07.00 Uhr (Empfehlung Nr. 455 der Bürgerversammlung vom 24.11.09)
+- TOP 3.2.: Bürgeranliegen: Missachtung der Tempo 30-Zone in der Renatastraße
+- TOP 3.3.: Bürgeranliegen: Parkplatzerweiterung am Hirschgarten
+- TOP 3.4.: Bürgeranliegen: Straßenbeleuchtung Böcklinstraße
+- TOP 3.5.: Baureferat: Änderung der Satzung über die Straßenreinigung, hier: Arnulfstraße, Friedenheimer Brücke, Wilhelm-Hale-Straße
+- TOP 3.6.: Beschluss des Kreisverwaltungsausschusses vom 27.04.10: Lichtzeichenanlagen-Bauprogramm
+- TOP 3.7.: KVR: Verkehrsregelnde Maßnahmen im Gelände der Wehrbereichsverwaltung, Dachauer Str. 128
+- TOP 3.8.: KVR: Verkehrliche Maßnahmen im Zusammenhang mit dem Tollwood-Festival vom 01.-25.07.10 und dem Kongress Jehovas Zeugen vom 16.-18.07.10
+- TOP 3.9.: KVR: Verkehrsrechtliche Anordnung vom 03.05.-02.07.10 in der Nymphenburger Str. 131 wegen Fernwärmeanschluss
+- TOP 3.10.: Stadtwerke: Informationsflyer "Baumaßnahmen der SWM" 1. Halbjahr 2010 für den BA
+- TOP 3.11.: Baumaßnahmen der Stadtwerke: a) Fernwärmeprojekt Hanebergstraße b) Stromprojekt Dom-Pedro-Platz
+- TOP 3.12.: BA 13 Bogenhausen: Stellungnahme zum Antrag des BA 15 Trudering-Riem "Kein Google Street View"
+- TOP 3.13.: KVR. Ausweitung der Kurzparkerzone Frundsbergstraße südlich Dom-Pedro-Platz (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.14.: Bürgeranliegen: Fussgängerampel Wotan-/Winfriedstraße
+- TOP 3.15.: Bürgeranliegen: Park- und Haltezone Ecke Hirschgartenallee / Romanstraße
+- TOP 3.16.: KVR: Zeitliche Änderung beim absoluten Haltverbot Karl-Schurz-Straße Nordseite zwischen Isenstein- und Aldrianstraße
+- TOP 3.17.: Stadtwerke: Tram Westtangente, Präsentation Informations- und Abstimmungsabend mit den Kompetenzteams der Bezirksausschüsse am 08.04.10
+- TOP 3.18.: Stadtwerke: Trambahnwendeschleife Loth-/Lazarettstraße (Schreiben BA 9 vom 19.02.10)
+- TOP 3.19.: Antrag CSU: Statt Wendeschleife an der Lothstraße Frequenzverstärkung der Tram 20/21 bis Westfriedhof (Wiedervorlage aus der Sitzung vom 16.03.10)
+- TOP 3.20.: KVR: Ausrüstung von Ampeln mit einem taktilen Signal (Antrag BA 9 Nr. 1443 vom 18.08.09)
+- TOP 3.21.: KVR: Aufhebung der unechten Einbahnregelung Ecke Winfriedstraße / De-la-Paz-Straße (Schreiben BA 9 vom 20.10.09)
+- TOP 3.22.: =&gt; dazu: Bürgeranliegen: Negative Auswirkungen der Aufhebung der Einbahnstraßenregelung
+- TOP 3.23.: Referat für Arbeit und Wirtschaft: Anbindung der Stadtteilbereiche Ebenau und Gern-West an das ÖPNV-Netz durch Stadtteilbusse (Antrag BA 9 Nr. 1961 vom 16.03.10)
+- TOP 3.24.: KVR: Bürgeranliegen Sichtbehinderung und Verkehrsgefährdung durch parkende Fahrzeuge an der Südlichen Auffahrtsallee, Südseite (Schreiben BA 9 vom 18.01.10)
+- TOP 3.25.: Antrag SPD: Änderungen bei der Parkraumlizenzierung in der Ebenau und Volkartstraße
+- TOP 3.26.: Radweg Rotkreuzplatz
+- TOP 3.27.: KVR: Änderung der Beschilderung für Radfahrer und Fußgänger in der Laimer Unterführung
+- TOP 3.28.: =&gt; dazu: Anfrage aus der Rathaus-Umschau zur Umweltverbundröhre
+- TOP 3.29.: Beschluss der Vollversammlung des Stadtrates vom 24.03.10: Ertüchtigung des Bahnknotens München: Schienenanbindung des Flughafens
+- TOP 3.30.: Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 24.03.10: Ertüchtigung des Bahnknotens München: 2. S-Bahn-Stammstrecke
+- TOP 3.31.: KVR: Einrichtung einer Ladezone in der Erika-Mann-Straße; Errichtung absoluter Haltverbote im Bereich des Wendehammers in der Erika-Mann-Straße (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.32.: =&gt; dazu: KVR: Kein Parken auf dem Kunstwerk auf dem Rainer-Werner-Fassbinder-Platz (Schreiben BA 9 vom 25.02.10, Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.33.: KVR: Antrag für mehr Sicherheit S-Bahnhof Hirschgarten / Backstage (Schreiben BA 9 vom 16.04.10)
+- TOP 3.34.: =&gt; dazu: Schreiben aurelis zum Thema Abgrenzung von Bahngleisen (Verweisung aus der Sitzung vom 20.04.10)
+- TOP 3.35.: KVR: Kein Parken von Bussen im Arnulfpark (Antrag BA 9 Nr. 1924 vom 23.02.10)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 05.04.-11.04., 12.04.-18.04., 19.04.-25.04. und 26.04.-02.05.10
+- TOP 3.2.: Bürgeranliegen: Fassadenänderung Arnulfstr. 180-212
+- TOP 3.3.: BA 7 Sendling-Westpark: Eindämmen von Spielhallen und Geldspielautomaten
+- TOP 3.4.: Direktorium: Gestaltung von U-Bahnhöfen (einschließlich Werbeanlagen), Satzungsänderung
+- TOP 3.5.: =&gt; dazu: BA 12 Schwabing-Freimann: Werbung im öffentlichen Raum - Wie viel "Ströer" verträgt die Stadt ?
+- TOP 3.6.: Beschluss der Vollversammlung des Stadtrats vom 24.03.10: Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 10. Stadtbezirkes
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.10 sowie Hinweis/Ergänzung vom11.03.10: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP 3.9.: Bauvorhaben Gudrunstr. 10: Nutzungsänderung eines Gemüseladens in ein Künstlercafe
+- TOP 3.10.: Bauvorhaben Zuccalistr. 21: Neubau eines Einfamilienhauses (Rückgebäude) und eines Mehrfamilienhauses mit Tiefgarage (Vordergebäude)
+- TOP 3.11.: Planungsreferat: Lannerstr. 5, Neubau eines Doppelhauses mit Einliegerwohnung (Schreiben BA 9 vom 16.03.10)
+- TOP 3.12.: Bauvorhaben Rosa-Bavarese-Straße / Wotanstraße: Neubau eines Gebäudes mit Tiefgarage, Einzelhandel- und Büronutzung, Dienstleistung, Fitness und Ärztehaus; Tektur
+- TOP 3.13.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.10: Dachauer Str. 100-110, Heßstraße (südwestlich), Lothstr. 17; Ergänzung zum Eckdatenbeschluss Dachauer Str. 110-114
+- TOP 3.14.: Planungsreferat: Rahmenplanung Olympiapark, Protokoll des dritten Workshops vom 15.12.09
+- TOP 3.15.: Kommunalreferat: Vermietung stadteigenes Anwesen Schulstr. 5
+- TOP 3.16.: Oberbürgermeister: Städtebaulicher Vertrag zum Bebauungsplan mit Grünordnung Nr. 1810 Hanebergstraße, hier: Dom-Pedro-Platz, Gartendenkmalpflegerische Umgestaltung mit Kinderspiel (Beschluss BA 9 vom 18.08.09)
+- TOP 3.17.: =&gt; dazu: Schreiben Planungsreferat
+- TOP 3.18.: Realisierungswettbewerb Am Hirschgarten WA 18; Bericht der Vorprüfung
+- TOP 3.19.: Polizeiinspektion 42: Bürgeranliegen Container vor dem chinesischen Konsulat, Romanstr. 107
+- TOP 3.20.: Nichtöffentlich:
+- TOP 3.21.: WEB-Liste vom 16.03.-31.03.10
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Kelheimer Str. 1: Fällung von 1 Fichte
+- TOP 3.2.: Maillingerstr. 26: Fällung von 1 Esche
+- TOP 3.3.: Schachenmeierstr. 50: Fällung von 1 Eberesche
+- TOP 3.4.: Landshuter Allee 77-81: Fällung von 1 Birke
+- TOP 3.5.: Romanstr. 20: Fällung von 1 Ahorn
+- TOP 3.6.: Prinzenstr. 50: Fällung von 1 Ahorn
+- TOP 3.7.: Südliche Auffahrtsallee 53: Fällung von 1 Birke
+- TOP 3.8.: Lannerstr. 1: Fällung von 1 Blutpflaume
+- TOP 3.9.: Gaßnerstr. 12: Fällung von 2 Pappeln und 1 Birke
+- TOP 3.10.: Walhallastr. 1: Fällung von 1 Linde
+- TOP 3.11.: Bürgeranliegen: Abfallcontainer am südlichen Zugang zum Schlosspark Nymphenburg in der Zuccalistraße
+- TOP 3.12.: KVR: Vollzug der Grünanlagensatzung; Baustelleneinrichtung am Eisnergutbogen vom 28.04.-15.07.10
+- TOP 3.13.: Referat für Gesundheit und Umwelt: Vertragliche Standortsicherung einer Mobilfunksendeanlage
+- TOP 3.14.: Planungsreferat: Fällgenehmigung Montenstr. 5
+- TOP 3.15.: Planungsreferat: Fällgenehmigung Herthastr. 40
+- TOP 3.16.: Baureferat: Aufstellen von Bänken und Abfallbehältern im Bereich "An der Schlossmauer" (Schreiben BA 9 vom 11.03.10)
+- TOP 3.17.: =&gt; dazu: Bürgeranliegen: Hundekottüten am Weg "An der Schlossmauer" (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.18.: Antrag FDP: Annahme von Altglas, Blech und Plastik am Wertstoffhof Arnulfstraße (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.19.: Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.10: Bekämpfung von Ameisen in Kinderspielbereichen
+- TOP 3.20.: Planungsreferat: Novellierung Baumschutzverordnung
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Schulreferat: Einrichtung einer Ganztagsklasse an der Zweigschule der Grundschule Südl. Auffahrtsallee / Trojanostraße (Empfehlung Nr. 451 der Bürgerversammlung vom 24.11.09)
+- TOP 3.2.: Antrag Pädagogische Aktion/Spielen in der Stadt e.V.: Zuschuss in Höhe von 1.000 ? für Mietkosten für das Theaterfestival "Rampenlicht" vom 23.06-30.06.10
+- TOP 3.3.: KVR: Sommerfest für Kinder und Erwachsene auf dem Spielplatz Thorwaldsen-/Lazarettstraße am 10.07.10
+- TOP 3.4.: BA 15 Trudering-Riem: Task-Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Bürgeranliegen: Spielplatz im Schulhof der Hirschbergschule (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.7.: Bürgeranliegen: Betreuungssituation Grundschulkinder / Antrag Soziale Stadt (Wiedervorlage aus der Sitzung vom 20.04.10)
+- TOP 3.8.: Direktorium: Mitveranstalterschaft des Bezirksausschusses
+- TOP 3.9.: =&gt; dazu: Lilalu e.V.: Lilalu Festival 2010; Mitveranstalter BA 9
+- TOP 3.10.: Baureferat: Leinenpflicht im Hirschgarten (Schreiben BA 9 vom 12.03.10)
+- TOP 3.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.12.: Sozialreferat: Leistungsbilanz für den Stadtbezirk 9 / Streetwork in Neuhausen
+- TOP 3.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.14.: Bürgeranliegen: Fahrradweg Grünanlage an der Schlossmauer
+- TOP 3.15.: Kommunalreferat: Nachnutzung stadteigenes Anwesen Schulstr. 5 (Schreiben BA 9 vom 22.03.10)
+- TOP 3.16.: Schlösserverwaltung: Gelände Erholungspark Taxisstraße, hier: Verpachtung / Errichtung eines Aktivparks für Senioren (Schreiben BA 9 vom 22.04. und 23.04.10)
+- TOP 3.17.: Beschluss des Schul- und Sportausschusses vom 05.05.10: Neubau einer 3-zügigen Grundschule mit 6-gruppigem Tagesheim, Einfachsporthalle und Freisportanlage am Arnulfpark; Ausführungsgenehmigung
+- TOP 3.18.: Schulreferat: Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kinderkrippen- und 2 Kindergartengruppen am Birketweg-West I; Vorläufige Genehmigung des Nutzerbedarfsprogramms
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Kulturreferat: "Kultur Unterwegs" (Antrag BA 9 Nr. 1925 vom 23.02.10)
+- TOP 3.2.: Antrag Initiative "I love colors": Zuschuss in Höhe von 9.590 ? für die künstlerische Wandgestaltung Donnersbergerbrücke
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Verein der Freunde Neuhausens e.V.: Zuschuss in Höhe von 300 ? für die Maifeier am 08.05.10
+- TOP 4.2.: Antrag Dauerkleingartenanlage NW 1 e.V.: Zuschuss in Höhe von 350 ? für das Bürgerfest am 17.07.10
+- TOP 4.3.: KVR: Genehmigung einer Freischankfläche, Heideckstr. 2 a
+- TOP 4.4.: KVR: Trachten- und Schützentag im Hirschgarten am 25.07.10
+- TOP 4.5.: KVR: Untersuchungen des KVR zum Thema "Hass-Musik" (Schreiben BA 9 vom 09.03.10)
+- TOP 4.6.: KVR: Drehgenehmigung für den 03.05.10 auf dem Rotkreuzplatz, Fotoshootings für Fahrradmarketingkampagne der LHSt München
+- TOP 4.7.: KVR: Pächterwechsel a) "Vian Sushi", Hübnerstr. 7 b) "Leon's", Dachauer Str. 185 c) "Keglerheim", Stupfstr. 6 d) "Heideck-Stüberl", Heideckstr. 12
+- TOP 4.8.: BA 15 Trudering-Riem: Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt-Lehel
+- TOP 4.9.: Stadtwerke: Neue Bädereintrittspreise
+- TOP 4.10.: KVR: Antrag auf Ausnahmeerlaubnis für den Verkauf von Schnee-Eis im Hirschgarten an Sonn- und Feiertagen (Schreiben BA 9 vom 23.02.10)
+- TOP 5: Verschiedenes
