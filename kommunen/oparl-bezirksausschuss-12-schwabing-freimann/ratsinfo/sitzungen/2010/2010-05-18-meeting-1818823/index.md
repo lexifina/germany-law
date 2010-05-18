@@ -1,0 +1,93 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818823
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818823
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Kurzbericht des Vorsitzenden
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .5.: Vorstellung des Projektes "Wiedervereinigung des Englischen Gartens im Bereich des Kleinhesseloher Sees" (Architektur- und Stadtplanungsbüro Grub-Lejeune
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Beteiligung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf "Pro-LBK"
+- TOP .10.: Sonstiges
+- TOP .1.: Besetzung des Feriensenats
+- TOP .1.: Kein Parken westlich des U-Bahnhofs Fröttmaning
+- TOP .1.: Versetzung Standort Parkscheinautomat im Lizensgebiet Tristanstraße, Leopoldstraße 173 c
+- TOP .1.: Erhaltung des Landschaftsschutzes für die DB Gartenanlage an der Sondermeierstraße
+- TOP .2.: Lastwagen in der Mattighoferstraße (vertagt aus 04/10)
+- TOP .1.: Änderung des Flächennutzungsplanes für den Bereich V/40 und Entwurf des Bebauungsplans 1982a mit Grünordnugn Nr. 1982a; Information des Bezirksausschusses 11 Milbertshofen-Am Hart (auch UA StA, TOP D.5.3.2.)
+- TOP .2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (3)
+- TOP .3.: Tramlinie 23 - Bürgeranliegen; Verbesserung der Verkehrsplanung
+- TOP .4.: Zwischennachricht zu BA-Anträgen Lösung der Verkehrsproblematik Isarring - Ifflandstraße Nr. 08-14 / B 01712 und Antrag zur Lösung der Verkehrsproblematik Isarring (Variantenprüfung) Nr. 08-14 / B 01854
+- TOP .5.: Behindertengerechte Umsteigemöglichkeit für die Bewohner der Pfennigparade (Schreiben der MVG; 20.04.2010)
+- TOP .6.: Vollzug der Grünanlagensatzung; Baustelleneinrichtung an der Münchner Freiheit
+- TOP .7.: Änderung der Zufahrt auf die A 9 - Zwischennachricht zum Antrag des BA 12 Nr. 08-14 / B 01827 (Schreiben des Bauereferats vom 28.04.2010)
+- TOP .8.: Grüne Achse Schwabing; Antrag Nr. 08-14 / A 00485 von Herrn Stadtrat Dr. Reinhard Bauer, Frau Stadträtin Dr. Ingrid Anker, Frau Stadträtin Dr. Inci Sieber und Herrn Stadtrat Klaus Rupp Beschluss des Bauausschusses vom 20.04.2010 Sitzungsvorlage Nr. 08-14 / V 03837
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse KuVe Kulturverein Alte Heide e.V. Einstudieren und Aufführen des Stückes "Hamlet"
+- TOP .2.: Verbesserung der Spielsituation am Bolzplatz an der Burmester-/ Bauernfeindstraße
+- TOP .1.: Straßenfest Pfarrgemeinde Maria vom Guten Rat in der Hörwarthstraße 5 am 27.06.2010
+- TOP .2.: Entwurf der Münchner Leitlinien der Suchtpolitik
+- TOP .3.: Streetlife Festival / Corso Leopold in der Ludwig-/Leopoldstraße am 29.05 und 30.05.2010
+- TOP .4.: Anträge des BA 15 mit der Bitte um Unterstützung 1) Task-Force für die Ermittlung freier Potenziale bei der Kinderbetreuung einsetzen 2) Konsequenzen aus der Briefaktion des e.a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt Lehel
+- TOP .5.: Japanfest im Englischen Garten am 18.07.2010
+- TOP .6.: StuStaCulum, Musik- und Theaterfestival in der Studentenstadt Freimann vom 02.06. - 05.06.2010
+- TOP .7.: Straßenfest Evang.-Luther. Kirchengemeinde Nikodemus Echinger Straße 20 am 11.07.2010
+- TOP .8.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/31 Frankfurter Ring (südlich), Joseph-Dollinger-Bogen (westlich), BAB A9 Berlin-München (westlich) und Domagkstraße (nördlich) - ehemalige Funkkaserne (siehe auch TOP D.3.2.5.)
+- TOP .9.: "Stadtradln "München radelt fürs Klima" des RGU am 11.07.2010
+- TOP .10.: Flohmarkt der KITA Haar, Oskar-Schlemmer-Straße, am 11.06.2010
+- TOP .1.: Neubau eines Gymnasiums im Münchner Norden (Ziffer 1) Empfehlung Nr. 08-14 / E 00326 der Bürgerversammlungdes 12. Stadtbezirkes vom 07.07.2009 Beschluss des Schul- und Sportausschusses des Stadtrates vom 05.05.2010 Sitzungsvorlage Nr. 08-14 / V 04030
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Orange", Schank- und Speisewirtschaft, Ursulastraße 10
+- TOP .2.: Gasthaus Weinbauer, Schank- und Speisewirtschaft, Fendstraße 5
+- TOP .1.: Anzeige von sich fortbewegenden Versammlungen unter freiem Himmel a) Bildungsstreik 2010 gegen Nationalismus, Sexismus, Rassismuns am 09.06.2010 b) Wanderbaumallee - Begrünung der Münchner Straßen am 11.05.2010
+- TOP .2.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den BA 10 Beschluss der Vollversammlung des Stadtrates vom 24.03.2010 Sitzungsvorlage Nr. 08-14 / V 03615
+- TOP .3.: Fahrradstadtrundfahrt anlässlich des Ökumenischen Kirchentages (Schreiben des KVR; Kosten)
+- TOP .4.: Zuwendungsbewilligung im aus Budgetmitteln der Bezirksausschüsse a) ASZ Schwabing-Ost für die Maßnahme: Angebot füpr pflegende Angehörige b) Kreisjugendring, Freizeittreff Freimann für die Maßnahme: Projekt "Gut drauf" c) München Verlag für die Maßnahme: Zuschuss für die Druckkosten des Stadtteilbuches "Schwabing - ein Zustand"
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis Hier: Erweiterung einer bestehenden Freischankfläche, Leopoldstraße
+- TOP .2.: Entscheidung über Sondernutzungserlaubnis Hier: Erweiterung einer bestehenden Freischankfläche, Hohenzollernstraße
+- TOP .3.: Entscheidung über Sondernutzungserlaubnis Hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Haimhauserstraße
+- TOP .4.: Entscheidung über Sondernutzungserlaubnis Hier: Genehmigung einer Freischankfläche, Siegfriedstraße
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Kunigundenstraße , Flurstück 921/50, diverse Bäume gemäß Plan
+- TOP .2.: Leeopoldstraße 250, 5 Bäume (gemäß beiliegender Pläne)
+- TOP .1.: Novellierung Baumschutzverordnung
+- TOP .2.: Kunigundenstraße 34, Flurstück 921/55, Sanierung eines Wohngebäudes mit DG - Ausbau und Erneuerung der Balkone
+- TOP .3.: Clemensstraße 28, Flurstück 380/8, Anbau eines Personenaufzugs
+- TOP .4.: Antonienstraße 7, Flurstück 922/70, Umbau DG und Verlängerung der Gauben
+- TOP .5.: Bebauungsplan mit Grünordnung Nr. 1943 b Frankfurther Ring (südlich) A9 Berlin - München (westlich) und Domagkstraße (nördlich) - Funkkaserne - Az.: 610 - II- 12
+- TOP .6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/31 Frankfurter Ring (südlich), Joseph-Dollinger-Bogen (westlich), BAB A9 Berlin-München (westlich) und Domagkstraße (nördlich) - ehemalige Funkkaserne (siehe auch TOP C.3.8.)
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Unterrichtung über das Fällen von Gefahrenbäumen - Burmesterstraße 20, 1 Ahorn (Schreiben des Baureferats - Gartenbau, 12.04.2010)
+- TOP .2.: Ablehnung der Fällung von 2 Ahornbäumen, Grasmeierstraße
+- TOP .1.: Baumaßnahmen der Stadtwerke München, Braunaugenstraße 2, Fernwärme
+- TOP .2.: Änderung des Flächennutzungsplanes für den Bereich V/40 und Entwurf des Bebauungsplans 1982a mit Grünordnugn Nr. 1982a; Information des Bezirksausschusses 11 Milbertshofen-Am Hart (auch UA U/V, TOP B.5.3.1.)
+- TOP .3.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept Antrag Nr. 3465 von Herrn Stadtrat Helmut Pfundstein vom 28.12.2001 Beschluss des Ausschusses für Stadtplanung und Bauordnung Sitzungsvorlagen Nr. 08-14 / V 03620
+- TOP .4.: Werbung im öffentlichem Raum; Stellungnahmen zu den eingebrachten Anträgen des BA 12 - Bezirksausschuss 16, Ramersdorf-Perlach - Bezirksausschuss 15, Trudering-Riem - Bezirksausschuss 18, Untergiesing-Harlaching
+- TOP .5.: Wohnungsmarkt München - Expertenbefragung 2009 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010 Sitzungsvorlagen Nr. 08-14 / V 03637
+- TOP .6.: Veränderungssperre Nr. 650, Otto-Sendtner-Straße 12, Flurstück Nr. 589/13, Gemarkung Freimann, Erste Verlängerung nach § 17 Abs. 1 BauGB (Bebauungsplan Nr. 2012) Beschluss des Ausschusses für Sztadtplanung und Bauordnung vom 05.05.2010 Sitzungsvorlagen Nr. 08-14 / V 04045
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
