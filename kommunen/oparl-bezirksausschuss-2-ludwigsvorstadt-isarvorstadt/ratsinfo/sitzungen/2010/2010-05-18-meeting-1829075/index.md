@@ -1,0 +1,111 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-05-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829075
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829075
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik, Diskussionsphase
+- TOP .1.: Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 2 Kindergarten- und 2 Kinderkrippengruppen an der Müllerstr. 7; Beschluss Schul- und Sportausschuss vom 14.04.2010
+- TOP .2.: Abbau der Skateranlage auf der Theresienwiese bereits am 17.05.2010
+- TOP .3.: SWM: Neue Bädereintrittspreise
+- TOP .4.: Spieleaktionen Spiellandschaft Stadt e.V. für das Jahr 2010
+- TOP .5.: Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den BA 10; Beschluss der Vollversammlung des Stadtrates vom 24.03.2010
+- TOP .6.: Stiftungsfonds Ludwig und Lina Petuel, Leerstand von Wohnraum in der Rothmundstraße; Beschluss des Sozialausschusses vom 04.05.2010 (BV-Empfehlung Nr. 08-14 / E 00289)
+- TOP .7.: Wohnungsmarkt München, Expertenbefragung; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010
+- TOP .8.: Zuwendung aus dem BA-Budget: Rückforderung von Überzahlung (2)
+- TOP .9.: BA 15 bittet um Unterstützung seiner Anträge: BA-Antrag Nr. 08-14 / B 02069 BA-Antrag Nr. 08-14 / B 02070
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Arnulfstr. 17: Errichtung eines Wirtsgartens
+- TOP .2.: Tumblingerstr. 38: Errichtung eines Personenaufzugs
+- TOP .3.: Pestalozzistr. 19: Umbaumaßnahmen
+- TOP .4.: Klenzestr. 34: Neubau Mehrfamilienhaus (eilt) inklusive Baumschutz
+- TOP .5.: Schwanthalerstr. 47: Nutzungsänderung Boardinghaus (eilt)
+- TOP .6.: Museumsinsel 1: Rohbau Treppenhäuser, Nutzungsänderung (eilt)
+- TOP .7.: Häberlstr. 1: Nutzungsänderung (eilt)
+- TOP .8.: Klenzestr. 26: Erweiterung eines Supermarktes
+- TOP .9.: Auenstr. 100-100a: Brandschutz- und Sanierungsmaßnahmen, Nutzungsänderung
+- TOP .10.: Müllerstr. 45: Teilung, Zusammenlegung sowie Grundrissänderung von Wohneinheiten und Errichtung Tiefgarage
+- TOP .11.: Schillerstr. 22: Umbau Laden im EG
+- TOP .12.: Lindwurmstr. 32: Errichtung einer Dachterrasse sowie Treppenaufbau
+- TOP .13.: Landwehrstraße 56: Renovierung und Anbau
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Fraunhoferstr. 22a
+- TOP .2.: Kapuzinerstr. 26
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Gestaltung von U-Bahnhöfen - Satzungsänderung; Antrag Nr. 08-14 / B 01991 des BA 12
+- TOP .2.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP .3.: Novellierung Baumschutzverordnung
+- TOP .4.: Übergang St. Paul-Straße bei der U-Bahn (Zebrastreifen)
+- TOP .5.: BA 12: "Wie viel Ströer verträgt die Stadt?" - Verunstaltung des Straßen- und Platzbildes durch Werbeträger aller Art verhindern
+- TOP .1.: Nachpflanzung von zwei Großbäumen in der Isartalstr. 49
+- TOP .2.: Bürgeranliegen: Änderung des Parklizenzgebietes "Lindwurmstraße"; Rückmeldung KVR
+- TOP .3.: Bauvorhaben Arnulfstr. 3 (Nutzungsänderung in Spielothek): Bescheid der LBK
+- TOP .4.: Baumaßnahmen der SWM: Netzbaumaßhnamen
+- TOP .5.: Baumaßnahmen der SWM: Stromprojekt Reichenbachstraße
+- TOP .6.: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010
+- TOP .7.: Nutzung erneuerbarer Energien im Städtebau; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010
+- TOP .8.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/33 - ehem. Fernheizkraftwerk; Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP .9.: Parkscheinautomaten vor denkmalgeschützten Fassaden (Rückmeldung Baureferat)
+- TOP .10.: Baumaßnahmen SWM: Fernwärmeprojekt Fliegenstraße
+- TOP .11.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1999, Müllerstraße; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 05.05.2010
+- TOP .12.: Vorkaufsrecht nach dem BauGB: Schwanthalerstr.
+- TOP .1.: Themenfestlegung für das Treffen "Attraktive Innenstadt"
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Antrag auf Erweiterung einer Freischankfläche: Rothmundstr. 5
+- TOP .2.: Antrag auf eine Freischankfläche: Schwanthalerstr. 2-6
+- TOP .3.: Antrag für eine Freischankfläche: Schillerstr. 29
+- TOP .4.: Antrag für eine Freischankfläche: Zenettistr. 35
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für eine Warenauslage: Goethestr. 38
+- TOP .2.: Antrag für eine Warenauslage: Corneliusstr. 31
+- TOP .3.: Antrag für Warenauslagen: Hans-Sachs-Str. 11
+- TOP .4.: Antrag für Warenauslagen: Fraunhoferstr. 26
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Baldeplatz: Zoozies Sommerfest am 06.08.2010
+- TOP .2.: Stadtradeln "München radelt fürs Klima" des RGU am 11.07.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Unveränderte Gaststättenfortführung: - Glockenbach-Stüberl, Arndtstr. 2 - Terazza, Hackerbrücke 4 (ZOB) - Funkhaus, Buttermelcherstr. 2 a - Hilal, Landwehrstr. 41
+- TOP .2.: Bekämpfung von Ameisen in Kinderspielbereichen; Bekanntgabe des Bauausschusses vom 20.04.2010
+- TOP .3.: Fortschreibung des Sicherheitskonzeptes für das Oktoberfest; Beschluss Kreisverwaltungsausschus und Ausschuss für Arbeit und WIrtschaft vom 20.04.2010
+- TOP .4.: Versammlungen unter freiem Himmel: 2
+- TOP .5.: Genehmigung der Wanderbaumallee in der Schwanthalerstraße (Sondernutzungserlaubnis), 24.06. bis 28.07.2010
+- TOP .6.: Rückmeldung BI Mitte: Beschwerde über die Gaststätte "Rennsalon", Baldestr. 13
+- TOP .7.: Lichtzeichenanlagen-Bauprogramm; Beschluss Kreisverwaltungsausschuss vom 27.04.2010
+- TOP .8.: Vorschlag zur Einrichtung eines Wochenmarktes: Rückmeldung der Markthallen München
+- TOP .9.: Filmaufnahmen auf öffentlichem Verkehrsgrund: 3
+- TOP .10.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die BAs zur Entscheidung (Schreiben des Oberbürgermeisters vom 01.03.2010)
+- TOP .11.: Eilentscheidung vom 20.04.2010: 2. Ökumenischer Kirchentag
+- TOP .12.: Genehmigungsbescheid für das Straßenfest "Wahl zur Maikönigin"
+- TOP .13.: Neue Richtlinien für Warenauslagen im öffentlichen Raum: Klare und transparente Regeln zum Vorteil von Bürgern und Einzelhandel
+- TOP .14.: Videoüberwachung am Sendlinger-Tor-Platz und Orleansplatz; Beschluss des Kreisverwaltungsausschusses am 27.04.2010
+- TOP .15.: Vollzug des BImSchG: Goetheplatz (U-Bahnhof Ecke Waltherstraße)
+- TOP .16.: Genehmigung für das Straßenfest von Sub e.V.
+- TOP .17.: Anbringung von zwei Pollern am Baaderplatz sowie Umgestaltung der Grünfläche
+- TOP .1.: Schreiben an die Deutsche Post / DHL
+- TOP .2.: Bürgeranliegen: Antrag auf Sperrung der Hackerbrücke während des Oktoberfestes
+- TOP .3.: Bürgeranliegen: LKW und Verkehrssicherheit im Bereich Thalkirchner Str. / Zenettistr. u.a.
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Festlegung der BA-Termine 2011
+- TOP .2.: Nutzung der Stadtteilkulturzentren durch die BAs, Übernahme der Hälfte der Mietkosten (Schreiben vom Direktorium z.K.)
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
