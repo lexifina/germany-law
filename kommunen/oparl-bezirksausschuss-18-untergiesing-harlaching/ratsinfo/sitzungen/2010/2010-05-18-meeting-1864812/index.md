@@ -1,0 +1,103 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-05-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1864812
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1864812
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neue Kinderkrippe in Untergiesing; Schreiben der MoriMu Kinderkrippe GmbH vom 27.04.2010
+- TOP 2.2.: Erneuerung bzw. Sanierung des "Hohen Wegs"; Bürgerantrag vom 25.04.2010
+- TOP 2.3.: Parklizenzbereich Untergiesing; Bürgerschreiben vom 04.05.2010
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: hb-lankowitz, für die Maßnahme: Gemeinschaftsausstellung von 8 Künstlern vom 01. bis 30.06.2010; Antragssumme: 1.350,00 ?; Beschlussvorlage des Direktoriums vom 04.05.10 (1.014,00 ?)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: KJR München-Stadt, für die Maßnahme: ; Antragssumme: 637,00 ?; Antrag vom 22.04.2010
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Erneuerung / Sanierung des Poißlweges (Ziffer 2 des Antrages); Empfehlung Nr. 08-14 / E 00510 der Bürgerversammlung des BA 18 am 03.12.09; Sitzungsvorlage Nr. 08-14 / V 04048; Beschluss des BA 18 vom 18.05.10
+- TOP 3.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Harthauser Straße 103; Zuleitung des KVR vom 21.04.10 mit der Bitte um Stellungnahme bis 04.06.10
+- TOP 3.1.: Errichtung einer Bushaltestelle am Laurinplatz (Linie 139); Antrag Nr. 08-14 / B 01982 des BA 18 vom 23.03.10; Antwortschreiben des Referates für Arbeit u. Wirtschaft vom 21.04.10 (negative Erledigung)
+- TOP 3.2.: Die Vahrnerstraße wird in Richtung der Lautererstraße zur Einbahnstraße umgewidmet; BA-Antrag-Nr. 08-14 / B 01881 des BA 18 vom 23.02.10; Antwortschreiben des KVR vom 06.04.10 (negative Erledigung)
+- TOP 3.3.: Lärmschutz Tegernseer Landstraße (Flüsterasphalt); Bürgeranliegen aus der Sitzung des BA 18 vom 19.01.2010; Antwortschreiben des Baureferats-Tiefbau vom 07.04.10 (negative Erledigung)
+- TOP 3.4.: Trambahnhaltestelle Großhesseloherbrücke; Fahrradständer und Parkplätze für Autos; Beschluss des BA 18 aus der Sitzung vom 21.10.2008; Antwortschreiben der P+R GmbH vom29.04.10 (neutrale Erledigung)
+- TOP 3.1.: Lichtzeichenanlagen-Bauprogramm; Beschluss des Kreisverwaltungsausschusses vom 27.04.2010 (SB); Sitzungsvorlage Nr. 08-14 / V 04058
+- TOP 3.2.: Parkraummanagement; Einführung der Parklizensierung in den Gebieten "Schyrenbad" und "Untergiesing"; Schreiben des KVR vom 22.04.10
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Einzäunung am Spazierweg der Hochleite; Verschönerung des Spazierwegs an der Harlachinger Straße; Bürgerschreiben vom 26.03.2010 (verwiesen aus der Sitzung vom 20.04.2010)
+- TOP 3.1.: Novellierung der Baumschutzverordnung; Az.: 9.81-2010-9086-5; Zuleitung der Unteren Naturschutzbehörde vom 16.04.10 mit der Bitte um Stellungnahme bis 25.05.10
+- TOP 3.1.: Auslichtung Entlang der Hochleite - freier Blick über die Isar; BA-Antrag-Nr. 08-14 / B 01880 des BA 18 vom 23.02.10; Antwortschreiben des Baureferats vom 31.03.2010 mit dem Vorschlag einer Ortsbegehung (neutrale Erledigung)
+- TOP 3.2.: Mülleimer im Park zwischen der Schyrenstraße und dem Schyrenbad; Schreiben des BA 18 vom 25.03.10; Antwortschreiben des Baureferats-Gartenbau vom 15.04.10 (positive Erledigung)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Lautererstraße 3 - 5; Bescheid vom 23.04.2010
+- TOP 3.2.: Bekämpfung von Ameisen in Kinderspielbereichen; Sitzungsvorlage Nr. 08-14 / V 03951; Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.2010
+- TOP 3.3.: Baumpflanzung in der Sommerstraße; Sitzungsvorlage Nr. 08-14 / V 04067; Beschluss des Bezirksausschusses des Stadtbezirkes 5 Au-Haidhausen vom 19.05.2010
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Task-Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen; Antrag des BA 15 Trudering-Riem vom 16.04.10 mit der Bitte um Unterstützung
+- TOP 3.1.: Entwurf der Münchner Leitlinien der Suchtpolitik; Zuleitung des Sozialreferats vom 21.04.10 mit der Bitte um Rückmeldung bis 14.06.2010
+- TOP 3.1.: Öffnung des Alten- u. Servicezentrums Untergiesing für die untere Au; Sitzungsvorlage Nr. 08-14 / V 03938; Beschluss des Bezirksausschusses des 5. Stadtbezirkes Au-Haidhausen vom 21.04.2010
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Vorkaufsrecht in Erhaltungssatzungsgebieten; Antrag der Fraktion Bündnis 90/Die Grünen vom 26.04.2010 - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Hans-Mielich-Str. 12; Abbruch u. Neuerrichtung der unterkellerten Innenhofanlage, Umbau u. Nutzungsänderung der Gewerbefläche im EG / RGB zu 2 Wohnungen, Teilung einer Gewerbeeinheit im UG zu 2 Einheiten; Anhörung vom 09.04.2010 (vertagt aus der Sitzung vom 20.04.2010)
+- TOP 3.2.: Birkenleiten 41; Teilabriss, Teilwiederaufbau u. Nutzungsänderung der "Kramer-Mühle" (vertagt aus den Sitzungen vom 23.03.2010 und 20.04.2010)
+- TOP 3.3.: Konradinstraße 8; Beseitigung eines Lager- u. Gewerbegebäudes; Anhörung vom 22.04.2010
+- TOP 3.4.: Sommerstraße 51; Anbau eines Balkons; Anhörung vom 22.04.2010
+- TOP 3.5.: Freibadstraße 7; Anbau von 15 Balkonen; Anhörung vom 22.04.10
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Bad Giesing-Harlaching; Informationen zur Sanierung; Anfrage des BA 18 aus der Sitzung vom 20.04.2010; Antwortschreiben der SWM GmbH vom 29.04.2010 (neutrale Erledigung)
+- TOP 3.2.: Denkmalschutz im Schwimmbadviertel (Untergiesing); BA-Antrag-Nr. 08-14 / B 01987 des BA 18 vom 23.03.2010; Stellungnahme des Bayerischen Landesamtes für Denkmalpflege vom 20.04.2010 (neutrale Erledigung)
+- TOP 3.3.: Antrag zum Verkauf der Wohnungen der GBW in Untergiesing; BA-Antrag-Nr. 08-14 / B 01883; Stellungnahme des Bayerischen Staatsministeriums der Finanzen vom 08.04.10 (neutrale Erledigung)
+- TOP 3.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 Vereinswirtschaft "Leone Nero", Grünwalder Straße; Mitteilung vom 09.04.2010 3.5.6.1.2 SSW "miasan", Schyrenstraße; Mitteilung vom 20.04.2010
+- TOP 3.2.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Eindämmen von Spielhallen und Geldspielautomaten; Antrag des BA 7 Sendling-Westpark mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Gestaltung von U-Bahnhöfen - Satzungsänderung; BA-Antrags-Nr. 08-14 / B 01991 des BA 12 vom 23.03.10; Schreiben des Direktoriums vom 09.04.10 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Änderung der Gemeindeordnung; Übertragung laufender Angelegenheiten des Oberbürgermeisters auf die Bezirksausschüsse zur Entscheidung; Nachfrage zur konkreten Ausgestaltung (Stadtteilbeschilderung und Plakattafeln); Zwischennachricht des Direktoriums vom 04.05.2010
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Information der Bezirksausschüsse; Neue Bädereintrittspreise; Schreiben der SWM vom 08.04.10
+- TOP 4.2.: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 10. Stadtbezirkes; Sitzungsvorlage Nr. 08-14 / V 03615; Beschluss der Vollversammlung des Stadtrates vom 24.03.2010
+- TOP 4.3.: Änderung der BA-Satzung; Bildung eines Ferienausschusses; Sitzungsvorlage Nr. 08-14 / V 04174; Beschluss des Verwaltungs- u. Personalausschusses vom 12.05.2010 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
