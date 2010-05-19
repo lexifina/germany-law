@@ -1,0 +1,81 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-05-19T17:00:00+02:00
+- Ende: 2010-05-19T18:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1697
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1697
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Anonyme Kontrollen für Sicherheit - beantwortet
+- TOP 3.2: Untersuchung Erich-Kästner-Grundschule - beantwortet
+- TOP 3.3: "Müllwanderweg" am Schlachtensee? - beantwortet
+- TOP 3.4: Jeder Dritte ein "Schwarzes Schaf"? - beantwortet
+- TOP 3.5: Umsetzung von Finanzmitteln im Bereich von Schulen - beantwortet
+- TOP 3.6: Vergleichstests an Grundschulen - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Ausschusswahlvorschläge - erledigt
+- TOP 4.1.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk 4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.2.1: Berufung eines beratenden Mitgliedes und dessen Stellvertreters als Vertretung des Bezirkselternausschusses in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Sondermittel der BVV für den Segel-Club Ahoi e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Sondermittel der BVV für den Tennis-Club Grün-Weiss Nikolassee 1925 e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Sondermittel der BVV für den Bezirksjugendring Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Schwenklifter für die Schwimmhalle Hüttenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Für einen grünen Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Unterstützung für Sukkat Shalom e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Winterdienst im Internet - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Automatische Belüftung von Schulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Die Bevölkerung von Steglitz-Zehlendorf schützen! Krankenhäuser entlasten! Der nächste Winter kommt bestimmt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Parken in engen Anwohnerstraßen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Junge Bäume brauchen Wasser - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Effizienz automatischer Lüftungsanlagen prüfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Gilt die Ausnahmeregelung für Geschwisterkinder weiterhin uneingeschränkt? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Unterbrochene Sanierung der Toiletten der Grundschule am Karpfenteich fortsetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Beflaggung zu Nationalfeiertagen der EU-Mitgliedsstaaten - in der BVV abgelehnt
+- TOP 4.5.9: Projekt "Stadtteilmütter" sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Dialogdisplay für die Gärtnerstraße, 12207 Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Hortbetreuung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Parken im Laehrschen Jagdweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Bebauungsplan 6-15 "Curtiusstraße" - überwiesen
+- TOP 5.1.2: Seniorinnen und Senioren mit Migrationshintergrund - überwiesen
+- TOP 5.1.3: Behindertenbus-Parkplätze für das Hans-Rosenthal-Haus - überwiesen
+- TOP 5.1.4: Tempo 30 im Lichterfelder Ring - überwiesen
+- TOP 5.1.5: Einhaltung der Rauchverbote auf U- und S-Bahnhöfen - überwiesen
+- TOP 5.1.6: Mittagessen auch für Schüler der 5. und 6. Klassen - überwiesen
+- TOP 5.1.7: Einrichtung Buscap und Kurzzeitparken Hindenburgdamm - überwiesen
+- TOP 5.1.8: Die Schnellläuferklassen am Werner-von-Siemens-Gymnasium erhalten - überwiesen
+- TOP 5.1.9: Saubere Briefkästen - überwiesen
+- TOP 5.1.10: Marga-Meusel-Platz - überwiesen
+- TOP 5.1.11: Busbeschleunigung X 10, etc. und Führung 118 - überwiesen
+- TOP 5.1.12: Fusion von Beucke-Realschule und Kopernikus-Gesamtschule zu einer Integrierten Sekundarschule - überwiesen
+- TOP 5.1.13: Bezirkliches Netzwerk zum Thema Depression - überwiesen
+- TOP 5.1.14: Unterstützung des Vereins Harmonie e.V. - überwiesen
+- TOP 5.1.15: Weiterführung des BBJ-Projektes "Mein Berlin" - überwiesen
+- TOP 5.1.16: Unterstützung des Streetworker-Projekts "Street Life" in Zehlendorf-Süd - überwiesen
+- TOP 5.1.17: Personelle Unterstützung der Schülerlabore im Bezirk - überwiesen
+- TOP 5.1.18: Bewachter Fahrradparkplatz mit -werkstatt - überwiesen
+- TOP 5.1.19: "Gefördert durch die BVV" - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Ausschussanträge - erledigt
+- TOP 7.1.1: Sondermittel der BVV für den Heimatverein Steglitz e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Anträge - erledigt
+- TOP 7.2.1: Finanzierung Fliegefest - überwiesen
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: "Traumberuf Chef" - in der BVV abgelehnt
+- TOP 9: Schlusswort des Bezirksverordnetenvorstehers - erledigt
