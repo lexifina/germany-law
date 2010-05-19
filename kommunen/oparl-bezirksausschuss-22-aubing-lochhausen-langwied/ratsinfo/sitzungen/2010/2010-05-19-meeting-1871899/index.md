@@ -1,0 +1,112 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1871899
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1871899
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Unratablagerungen in der Aubinger Lohe (UA Planung)
+- TOP 2.2.: Schandfleck S-Bahnhof Lochhausen (UA Planung)
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen zu einem Bauvorhaben: - Gündinger Str. , gem. Baumbestandsplan Nr. 2010-2811 - Am Langwieder Bach 13, gem. Baumbestandsplan Nr. 2010-5327 - Thuisbrunner Str. 15, gem. Baumbestandsplan Nr. 2010-70169 - Altostr. 146-146 a, gem. Baumbestandsplan Nr. 2010-7588 - Bodenseestr. 190-192, gem. Baumbestandsplan Nr. 2010-9127
+- TOP 3.2.: Genehmigung der Baumfällung, Reichenaustr. 18-20, Schr. Planungsreferat vom 28.04.10
+- TOP 3.3.: Baumfällungen auf Anforderung: - Ubostr. 6, 1 Linde, 1 Birke - Eschenrieder Str. 23, 4 Birken - Kastelburgstr. 11, 1 Birke
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Entfernung der Plastikplanen bei den Ausgleichsflächen in der Aubinger Lohe
+- TOP 4.2.: Änderung der Parkverbotszone (Feuerwehranfahrt) an der Ubostraße zur Kurzzeitparkzone
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10, Projektplanung Radolfzeller Straße / Mainaustraße, Fußgängerquerung (UA Planung)
+- TOP 5.2.: Vollz. d. Bay. Straßen- und Wegegesetzes, Umstufung von zwei Teilstrecken der Scharinenbachstraße und von einer Teilstrecke der Wichnantstraße (UA Planung)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Nachqualifizierung der Denkmalliste, hier: Münchner Dorfkernensembles; Vergangener Ortstermin des Regionalausschusses Oberbayern des Landesdenkmalrats am 01.03.2010, Anhörung Planungsreferat vom 13.04.10 (vertagt aus 04/10)
+- TOP 6.2.: Antrag auf Veranstaltung auf öffentlichem Verkehrsgrund, hier: Standkonzert in Altostr. und Festzug ab Schwemmstr. anlässlich Aubinger Herbstfest am 09.09.10, Anhörung KVR vom 21.04.10
+- TOP 6.3.: Antrag auf Veranstaltung auf Privatgrund, hier: Aubinger Höfe-Fest im Münchner Grüngürtel zum Tag der Regionen in der Ubostr. am 26.09.2010 von 10.30-17.00 Uhr, Anhörung KVR vom 23.04.10
+- TOP 6.4.: Antrag auf Veranstaltung auf Privatgrund, hier: Eröffnung Schloß Freiham am 12.06.10, Freihamer Allee 32, Anhörung KVR vom 03.05.10
+- TOP 6.5.: Bund-Länder-Städtebauförderungsprogramm "Stadtteile mit besonderem Entwicklungsbedarf - Soziale Stadt", Anhörung Planungsreferat
+- TOP 6.1.: Grund- und Hauptschule an der Wiesentfelser Straße; keine Umwandlung in Mittelschule; Einrichtung einer Arbeitsgruppe, Schr. Schul- und Kultusreferat vom 23.03.10 (vertagt aus 04/10)
+- TOP 6.2.: Neue Bädereintrittspreise, Schr. SWM vom 08.04.01
+- TOP 6.3.: Sanierung der Stockbahn Bezirkssportanlage Kronwinkler Straße, Schr. Baureferat vom 15.04.10
+- TOP 6.4.: Genehmigung für Veranstaltung auf öffentlichem Verkehrsgrund, hier: Maifeier mit Maibaumaufstellung im Bereich Alto-/ Bergson-/ Schwemmstr. am 01.05.2010, Schr. KVR vom 23.04.10
+- TOP 6.5.: Ameisenproblem am Abenteuerspielplatz an der Mainaustraße, Schr. Baureferat vom 27.04.10
+- TOP 6.6.: Veranstaltungen/Kooperationen im Mai 2010, Schr. Kulturreferat vom 04.05.10
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Kreisjugendring München-Stadt für Jugend-Band-Wettbewerb am 18./19.06.10, Schr. Direktorium vom 29.04.10
+- TOP 6.2.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Kreisjugendring München-Stadt für Kunstobjekt im Juni/Juli 2010, Schr. Direktorium vom 29.04.10
+- TOP 6.3.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Fassl-Club Lochhausen e.V. für Maibaum 2010, Schr. Direktorium vom 29.04.10
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Grundstücksgeschäfte Freiham, Schr. Kommunalreferat vom 20.04.10
+- TOP 6.2.: Gewerbegebiet Freiham, Vergabe von Gewerbegrundstücken, Schr. Ref. f. Arbeit u. Wirtschaft vom 22.04.10
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Novellierung Baumschutzverordnung, Anhörung Planungsreferat vom 16.04.10
+- TOP 6.2.: Gestaltung von U-Bahnhöfen - Satzungsänderung, Anhörung Direktorium vom 09.04.10
+- TOP 6.3.: Errichtung einer Werbeanlage, Bodenseestr. 279, Fl.Nr. 3539/33, Anhörung Planungsreferat vom 27.04.10
+- TOP 6.4.: Linien 267 (Beibehaltung der jetzigen Linienführung) und 157 (Engstelle in der Wiesentfelser Straße), Anhörung SWM vom 30.04.10
+- TOP 6.5.: Erinnerungsverfahren, Zwernitzer Str. zwischen Anwesen Hs. Nr. 1 und Hs. Nr. 5 (Unterhalt/Bauschaden/Einfahrt), Anhörung Baureferat vom 27.04.10
+- TOP 6.6.: Bund-Länder-Städtebauförderungsprogramm "Stadtteile mit besonderem Entwicklungsprogramm - Soziale Stadt, Anhörung Planungsreferat
+- TOP 6.1.: Baubeginnsanzeige der Mobilfunksendeanlage(n) am Standort Mooswiesenstr. (UMTS-Erweiterung an der bestehenden T-Mobile Mobilfunkstation), Schr. Ref. f. Gesundheit u. Umwelt vom 13.04.10)
+- TOP 6.2.: Plangenehmigung nach § 18, 18b AEG i.V.m. § 74 Abs. 6 VwVfG; Umbau Bahnübergang Hellensteinstraße, Strecke 5520 München-Pasing-Buchloe - Bf. München Pasing, km 9,375, Schr. Planungsreferat vom 12.04.10
+- TOP 6.3.: Zweckentfremdung von Wohnraum, Parsberger Str., Schr. Sozialreferat vom 13.04.10
+- TOP 6.4.: Baumaßnahmen der Stadtwerke, Stichtag: 07.04.10, 12.04.10. 19.04.10, 26.04.10, 03.05.10
+- TOP 6.5.: Baufälle im 22. Stadtbezirk (v. 05.04.-11.04.10, 12.04.-18.04.10, v. 19.04.-25.04.10, v. 26.04.-02.05.10), Schr. Planungsreferat vom 12.04.10, 19.04.10, 27.04.10, 03.05.10
+- TOP 6.6.: Allgemeinverfügung, Tauchen am Langwieder See, Schr. Ref. f. Gesundheit und Umwelt vom 22.04.10
+- TOP 6.7.: Müllbeseitigungs-/ oder Reinigungsprogramm der Firmen Gewerbegebiet Rupert-Bodner-Str., Schr. Baureferat vom 19.04.10
+- TOP 6.8.: Verkehrsrechtliche Anordnung, Verlängerung absolutes Haltverbot in der Federseestraße, Schr. KVR vom 07.04.10
+- TOP 6.9.: BAB A 8 München - Ulm; BAB A 99, Autobahnring München; Ausbau AK München West, Plangenehmigung, Schr. Planungsreferat vom 19.04.10
+- TOP 6.10.: Leistungsprogramm der MVG, Ergänzung: Busnetz Pasing, Schr. MVG vom 27.04.10
+- TOP 6.11.: Flst. 340, 340/4, 340/5 je Teilflächen an der Bodenseestraße, Helfende Hände e.V., Schr. Kommunalreferat vom 26.04.10
+- TOP 6.12.: Zustand der Oberfläche des Weges Negrellistraße, Schr. DB vom 23.04.10
+- TOP 6.13.: Querung der S-Bahn (vorgesehene Fuß- und Radwegverbindungen), Schr. Planungsreferat vom 21.04.10
+- TOP 6.14.: Verknappung des Zugangebotes auf der Linie S4, Schr. Ref. f. Arbeit u. Wirtschaft vom 28.04.10
+- TOP 6.15.: Verkehrsrechtliche Anordnung: Absolutes Haltverbot in der Ubostraße Ostseite für FFW Aubing, Schr. KVR vom 04.03.2010
+- TOP 6.16.: Weiterführung der Buslinie 267 nach Germering, Schr. Referat für Arbeit und Wirtschaft vom 04.05.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Nachqualifizierung der Denkmalliste, hier: Münchner Dorfkernensembles; Vergangener Ortstermin des Regionalausschusses Oberbayern des Landesdenkmalrates am 10.05.10, Anhörung Planungsreferat vom 12.05.10 (UA Soziales)
+- TOP 7.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Fest- und Kirchenzug Trachtengau München, Alto-, Ubo- und Schwemmstr. am 11. + 12.09.2010, Anhörung KVR vom 12.05.10
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Sportgaststätte ESV Neuaubing", Papinstr. 22, Schr. KVR vom 13.04.10
+- TOP 8.2.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Waldwirtschaft Bienenheim", Bienenheimstr. 11, Schr. KVR vom 15.04.10
+- TOP 8.3.: Europe Direkt Informationen 02/2010, Schr. Ref. f. Arbeit u. Wirtschaft vom 07.04.10
+- TOP 8.4.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Aubinger Einkehr", Gößweinsteinplatz 7, Schr. KVR vom 29.04.10
+- TOP 8.5.: Wirtschafts-Info 04/2010, Schr. Ref. f. Arbeit u. Wirtschaft vom 29.04.10
+- TOP 8.6.: Unveränderte Fortführung, Ausschank v. Getränken und Abgabe v. Speisen in einer Veranstaltungsgaststätte "Soccer Park", Colmdorfstr. 3, Schr. KVR vom 29.04.10
+- TOP 8.7.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse; Übernahme der Hälfte der Mietkosten ab 01.01.10, Schr. Direktorium vom 30.04.10
+- TOP 8.8.: Baumaßnahmen der SWM, Fernwärmeprojekt Erschließungsgebiet Westkreuz, Friedrichshafener Straße, Schr. SWM vom 12.05.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kreisverwaltungsausschusses vom 27.04.10: - Lichtzeichenanlagen-Bauprogramm (UA Planung)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.10: - Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP 10.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.10: - Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Wohnung Migration, des Stadtjugendamtes, des Amtes für Soziale Sicherung und des Sozialreferates / Zentrale
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Eindämmen von Spielhallen und Geldspielautomaten, Antrag BA 7 vom 27.03.10
+- TOP 11.2.: Kein Google Street-View, Schr. BA 13 vom 14.04.10
+- TOP 11.3.: Werbung im öffentlichen Raum, Anträge des BA 12
+- TOP 11.4.: Freie Potenziale bei der Kinderbetreuung; Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richter, Anträge des BA 15 vom 22.04.10
+- TOP 11.5.: Hohes Fahrgastaufkommen auf der Buslinie 143 (Riesenburgstr. - Dessauerstr.) während der Hauptverkehrszeiten vor Schulbeginn und nach Schulende, Schr. BA 21 vom 23.04.10 (UA Planung)
+- TOP 11.6.: Einladung zum 18.Jetzt - Vorbereitungstreffen am 10.06.10 um 19 Uhr im Rathaus, Zimmer 280
+- TOP 11.7.: Veranstaltung Forum 22 zum Thema " Fettkraut, Quellschnecke & Co - Seit über 1000 Jahren im Aubinger Moos" am 14.09.10 um 19.00 Uhr im Bay. Schnitzel- und Hendlhaus, Limesstr. 63
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 16.06.2010 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
