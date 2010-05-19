@@ -1,8 +1,8 @@
 # Brandenburgisches Vorschriftensystem (BRAVORS) | A | A |
 
 - Herausgeber: Land Brandenburg
-- Datum: 2010-04-15 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_sparkassen_2010
+- Datum: 2010-05-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://bravors.brandenburg.de/verwaltungsvorschriften/akt_abgabepreise_2010
 - Text: HTML-Seite der Stadt, als Text
 - Hinweis: BRAVORS, Lesefassung der Landesregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -27,18 +27,20 @@ A |
 
 Aktuelle Fassung
 
-Aufhebung der Mustergeschäftsanweisung für die Innenrevision der Sparkassen
+Abgabepreise für gebrauchte Pflastersteine und Straßenborde aus Naturstein an öffentliche Baulastträger
 
-vom 15. April 2010
+vom 19. Mai 2010
 
-(ABl./10, [Nr. 17], S.733)
+(ABl./10, [Nr. 23], S.944)
 
-Aufhebung der Mustergeschäftsanweisung
+Die Bekanntmachung richtet sich an
 
-für die Innenrevision der Sparkassen
+die Straßenbaubehörde des Landes Brandenburg,
 
-Bekanntmachung des Ministeriums der Finanzen
+die Landkreise, die kreisfreien Städte sowie die kreisangehörigen Städte und Gemeinden des Landes Brandenburg.
 
-Vom 15. April 2010
+Mit Runderlass des Ministeriums für Stadtentwicklung, Wohnen und Verkehr (MSWV), Abteilung 5, Nummer 10/1997 - Straßenbau - vom 10. Juni 1997 (ABl. S. 602) wurden Regelungen zur Abgabe von Pflastersteinen, Straßenbordsteinen und Platten aus Naturstein, die bei Baumaßnahmen im Zuge von Bundesfern- und Landesstraßen anfallen, an öffentliche Baulastträger eingeführt.
 
-Es wird bekannt gemacht, dass die Mustergeschäftsanweisung für die Innenrevision der Sparkassen vom 27. Juni 1991 (ABl. S. 407) durch Erlass des Ministeriums der Finanzen vom 21. Dezember 2000 aufgehoben wurde.
+Der Runderlass des MSWV, Abteilung 5, Nummer 10/1997 - Straßenbau - vom 10. Juni 1997 wird hiermit außer Kraft gesetzt.
+
+Öffentliche Baulastträger können sich bei Bedarf an den Landesbetrieb Straßenwesen Brandenburg wenden.
