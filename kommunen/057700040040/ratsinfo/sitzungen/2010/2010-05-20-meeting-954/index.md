@@ -1,0 +1,55 @@
+# Rat (7. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2010-05-20T17:00:00+02:00
+- Ende: 2010-05-20T19:30:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcExmksdODgnvbnQgbSyMck
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/954
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf2lDPWqjb9oSd-7SFTXwiEKckbbBmRtWYD8OHh_4vP6/Bekanntmachung_Rat_20.05.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYAT1pPbYr3C8UO9eb1bxlzuXFmUwTFMCwNJMOw7qs-e/Oeffentliche_Niederschrift_Rat_20.05.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Verkehrssituation im Zuge des Kreisverkehrs „Mühlenstraße/Hohes Feld“ und im Siedlungsbereich „Zur Niedermühle/An der Niedermühle“
+- TOP 5.: 5. vereinfachte Änderung des Bebauungsplanes Nr. 4 "Alter Markt und Nördliches Ahlfeld" der Stadt Rahden; hier: a) Beratung und Beschlussfassung über die während der Beteiligung der betroffenen Öffentlichkeit und der berührten Behörden und sonstigen Träger öffentlicher Belange vorgebrachten Anregungen gemäß § 13 Abs. 2 i.V.m. § 3 Abs. 2 und 4 Abs. 2 BauGB b) Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 6.: 2. vereinfachte Änderung des Bebauungsplanes Nr. 40 "Ortskern Tonnenheide" der Stadt Rahden; hier: a) Beratung und Beschlussfassung über die während der Beteiligung der betroffenen Öffentlichkeit und der berührten Behörden und sonstigen Träger öffentlicher Belange vorgebrachten Anregungen gemäß § 13 Abs. 2 i.V.m. § 3 Abs. 2 und 4 BauGB b) Satzungsbeschluss gemäß §§ 10 und 13 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erlass einer 4. Änderungssatzung zur Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 - 31 Stimmen dafür, 2 dagegen (Zimmermann/Kröger), 2 Enthaltungen (Steinkamp/Staubach)
+- TOP 8.: Erlass einer 3. Satzung zur Änderung der Gebührensatzung zur Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Umbau/Erweiterung des Feuerwehrgerätehauses in Pr. Ströhen - 30 Stimmen dafür, 1 dagegen (Staubach), 4 Enthaltungen (Dodenhöft/Henke/Steinkamp/Kokemor)
+- TOP 10.: Dichtheitsprüfung der privaten Abwasserleitungen im Stadtgebiet, Erlass einer Satzung für die Wasserschutzgebiete in Rahden und die Ortschaft Wehe - Einstimmig, 0 Enthaltungen
+- TOP 11.: Dichtheitsprüfung der privaten Abwasserleitungen im Stadtgebiet, Erlass einer Satzung für die Bereiche Schulstraße/ Schlangenstraße(teilw) und Feldstraße, Weberstraße, Drohneweg, Sonnenseite - Einstimmig, 0 Enthaltungen
+- TOP 12.: Erlass einer 4. Änderungssatzung zur Entwässerungssatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 13.: Erlass einer 1. Satzung zur Änderung der Hauptsatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 14.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2009 b) Verteilung des Bilanzgewinns - Einstimmig, 0 Enthaltungen
+- TOP 15.: Neu- bzw. Wiederwahl von Schiedspersonen für die Schiedsamtsbezirke Rahden und Kleinendorf - Einstimmig, 0 Enthaltungen
+- TOP 16.: Bestellung eines Ortsheimatpflegers für die Ortschaft Rahden - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bekanntgaben
+- TOP 17.1: Herstellung einer Fischtreppe am Rohlfinger Stau
+- TOP 18.: Verschiedenes
+- TOP 18.1: Krankenhaus Rahden
+- TOP 18.2: Ehrenamtskarte/Freiwilligenbörse
+- TOP 18.3: Fahrradwegbrücke Weher Straße
+- TOP 18.4: Fahrradweg Lemförder Straße
+- TOP 18.5: Bahnhof Rahden
+- TOP 18.6: Jung kauft Alt
+- TOP 18.7: Arbeitskreis ÖPNV
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 19.: Sicherung einer Straßenfläche - 31 Stimmen dafür, 2 dagegen, 0 Enthaltungen
+- TOP 20.: Veräußerung eines Gewerbegrundstückes im Gewerbegebiet Rahden-Ost - Einstimmig, 0 Enthaltungen
+- TOP 21.: Bekanntgabe der im I. Quartal 2010 abgeschlossenen Grundstücksverträge
+- TOP 22.: Bekanntgabe der bis einschließlich I. Quartal 2010 erteilten Bauaufträge
+- TOP 23.: Genehmigung einer überplanmäßigen Aufwendung/Auszahlung - Einstimmig, 0 Enthaltungen
+- TOP 24.: Bekanntgaben
+- TOP 25.: Verschiedenes
+- TOP 25.1: Jung kauft Alt
+- TOP 25.2: Stadtfest Rahden
+- TOP 25.3: Grunderwerb für den Umbau und die Erweiterung des Feuerwehrgerätehaus Pr. Ströhen
+- TOP 25.4: Gewerbegebiet Rahden-Süd
