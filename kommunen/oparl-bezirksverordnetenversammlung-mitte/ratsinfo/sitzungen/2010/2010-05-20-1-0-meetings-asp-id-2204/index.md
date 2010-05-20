@@ -1,0 +1,97 @@
+# 36. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-05-20T17:30:00+02:00
+- Ende: 2010-05-20T20:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2204
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2204
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=75255
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Schließung des KJGD in der Stettiner Straße - beantwortet
+- TOP 5.2: Energiesparverträge - auch Mitte betroffen? - beantwortet
+- TOP 5.3: Einheitliche Ansprechpartner in Berlin - beantwortet
+- TOP 5.4: Entwicklung der Trinkerszene am Leopoldplatz - beantwortet
+- TOP 5.5: Vertragliche Hämmer bei Hamberger - beantwortet
+- TOP 5.6: Unansehnlicher Pfuhl in der Tucholskystraße - schriftlich beantwortet
+- TOP 5.7: Reform des Stellenpools - schriftlich beantwortet
+- TOP 5.8: Umwidmung des Hackeschen Marktes - schriftlich beantwortet
+- TOP 5.9: Sind Cafeterien an Schulen im Bezirk gefährdet? - schriftlich beantwortet
+- TOP 5.10: Umgestaltung im Großen Tiergarten - schriftlich beantwortet
+- TOP 5.11: Aktueller Stand Bebauungsplan 1-14 (Molkenmarkt und Klosterviertel)? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Schuleingangsuntersuchung - beantwortet
+- TOP 6.2: Besetzung des Schulsekretariats in der Heinrich-Seidel-Grundschule - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Wird aus dem langen Weg eine unendliche Geschichte? - beantwortet
+- TOP 7.2: Rahmenarbeitszeitregelung für die AußendienstmitarbeiterInnen der bezirklichen Ordnungsämter (AOD) - beantwortet
+- TOP 7.3: Keine Weihnacht am Opernpalais? - beantwortet
+- TOP 7.4: Entfristung der Arbeitsverhältnisse der Beschäftigten des Ordnungsamtes (I) - beantwortet
+- TOP 7.5: Nachwuchskräfte für Führungsaufgaben - schriftlich beantwortet
+- TOP 7.6: Müllerhalle vor dem Aus? - schriftlich beantwortet
+- TOP 7.7: Havariemaßnahmen am Schulstandort Lützowstraße 83-85 - schriftlich beantwortet
+- TOP 7.8: Erweiterung der Liegewiese im Bereich "Ehemaliges Sommerbad Poststadion" - schriftlich beantwortet
+- TOP 7.9: Zukunft der befristet eingestellten Mitarbeiter/-innen im Ordnungsamt - beantwortet
+- TOP 7.10: Bürgerplattform Wedding-Moabit (I) - schriftlich beantwortet
+- TOP 7.11: Bürgerplattform Wedding-Moabit (II) - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Übertragung des Betriebs von bezirklichen Jugendfreizeiteinrichtungen auf freie Träger der Jugendhilfe - mit Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf I-B5d (südliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5d - überwiesen
+- TOP 9.2: Bebauungsplanentwurf I-B5h (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5h - überwiesen
+- TOP 9.3: Bebauungsplanentwurf I-B5i (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5i - überwiesen
+- TOP 9.4: Bebauungsplanentwurf I-B5p (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5p - überwiesen
+- TOP 9.5: Bebauungsplanentwurf I-B5r (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5r - überwiesen
+- TOP 9.6: Bebauungsplanentwurf I-B5s (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5s - überwiesen
+- TOP 9.7: Bebauungsplanentwurf I-B5v (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5v - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der im Haushaltsjahr 2007 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Erlass einer Veränderungssperre mit der Bezeichnung 1-33/17 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfs I-33 "Heinrich-Heine-Straße" liegende Grundstück Sebastianstraße 18 sowie Entscheidung über den beigefügten Entwurf der Rechtsverordnung - in der BVV zurückgezogen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Straßenbenennung - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Aktualisiertes Personalentwicklungskonzept - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Sanierungsmaßnahmen im Hansaviertel umsetzen! - überwiesen
+- TOP 12.3: Projekt zur Stärkung Bürger- und Ordnungspartnerschaften - Pro BüPart - - überwiesen
+- TOP 12.4: Weihnacht am Opernpalais! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Musterjugendamt nach den unterschiedlichen bezirklichen Gegebenheiten gestalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Radweg an der Panke - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Jeder das, was ihr gehört: Grips-Spielgeräte für die Fritzlar-Homberg-Grundschule! - überwiesen
+- TOP 12.8: Sondernutzungsgebühren in Mitte - überwiesen
+- TOP 12.9: Löwenbrücke im Grossen Tiergarten endlich sanieren und wieder öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Karl-Marx-Allee II. Bauabschnitt - überwiesen
+- TOP 12.11: Entfristung der Arbeitsverhältnisse der Beschäftigten des Ordnungsamtes (II) - ohne Änderungen in der BVV beschlossen
+- TOP 13: Entschließungen - (offen)
+- TOP 14: Anträge/Beschlussempfehlung - (offen)
+- TOP 14.1: Der Spittelmarkt - Für einen wirklich attraktiven Stadtplatz! - ohne Änderungen in der BVV beschlossen
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Intranetzugang - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Gesamtkonzept Parkraumbewirtschaftung in Mitte umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Nutzungszeiten für Sport im Bezirk ausweiten - Temporäre Sporthalle am Nordbahnhof ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Wirtschaftsförderung, hier: „Ethnische Ökonomie“ 1 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.5: Verpflichtende Früherkennungsuntersuchungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Altersbeschränkungen überprüfen und zeitgemäß anpassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Beachvolleyballanlage BeachMitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Freie Zu- und Abfahrt des Berliner Großmarktes! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Straßenbenennung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: INSEK Luisenstadt (Integriertes Stadtentwicklungskonzept) als Städtebaulicher Rahmenplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Benennung eines privaten Stadtplatzes in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Aufhebung des Beschlusses der Veränderungssperre I-33/17 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfs I-33 "Heinrich-Heine-Straße" liegende Grundstück Sebastianstraße 18 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Durchführung der erneuten öffentlichen Auslegung zur Behebung eines Formfehlers für die Bebauungspläne I-B5a, I-B5b, I-B5m und I-B5u (Spandauer Vorstadt) im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Die Verteilung der Geschäftsbereiche der Mitglieder im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Beschluss über die Aufstellung des Bebauungsplans 1-64 (Mauerpark) im Bezirk Mitte, Ortsteil Gesundbrunnen, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, die Beteiligung der Behörden gemäß § 4 Abs. 1 und 2 Baugesetzbuch sowie die Einstellung der Bebauungspläne III-237a und III-239 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Teilung des Geltungsbereichs und Änderung des Bebauungsplanentwurfs I-58 für das Gebiet zwischen Gertraudenstraße, Mühlendamm, Spree und Spreekanal im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
