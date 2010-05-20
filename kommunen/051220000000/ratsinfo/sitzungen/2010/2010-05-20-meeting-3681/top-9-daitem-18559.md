@@ -1,0 +1,6 @@
+# TOP 9: Vergaben gem. § 22 (2) der Hauptsatzung der Stadt Solingen
+
+- Sitzung: Haupt- und Personalausschuss (2010-05-20)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/18559
