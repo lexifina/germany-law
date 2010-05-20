@@ -1,0 +1,6 @@
+# TOP 2.: Wärmeversorgungsanlage St.Michael Gymnasium Nachrüstung Einzelraumsteuerung hier: Vergabe der Ing.Leistung nach HOAI
+
+- Sitzung: Bau- und Feuerwehrausschuss (4. Sitzung) (2010-05-20)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/12737
