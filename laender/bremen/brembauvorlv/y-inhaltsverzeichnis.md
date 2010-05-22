@@ -1,19 +1,23 @@
 # Inhaltsverzeichnis
 Inhaltsverzeichnis
-§ 1 | Allgemeines
-§ 2 | Vorklärung verfahrensrechtlicher Fragen
-§ 3 | Bauvorlagen für den Bauantrag und das bauaufsichtliche Zustimmungsverfahren
-§ 4 | Bauvorlagen für das vereinfachte Genehmigungsverfahren und das Genehmigungsfreistellungsverfahren
-§ 5 | Bauvorlagen für den Abbruch baulicher Anlagen
-§ 6 | Bauvorlagen für den Bauvorbescheid und für die Erteilung einer Ausnahme oder Befreiung
-§ 7 | Bauvorlagen für die Typengenehmigung
-§ 8 | Bauvorlagen für die Ausführungsgenehmigung Fliegender Bauten
-§ 9 | Bauvorlagen für Werbeanlagen
-§ 10 | Bauvorlagen für die Teilung von Grundstücken
-§ 11 | Lageplan
-§ 12 | Bauzeichnungen
-§ 13 | Baubeschreibung, Betriebsbeschreibung, Berechnungen
-§ 14 | Standsicherheitsnachweis und andere bautechnische Nachweise
-§ 15 | Datenschutzbestimmungen
-§ 16 | Übergangsvorschriften
-§ 17 | Inkrafttreten
+Teil 1 Allgemeines
+§ 1 | Begriff, Beschaffenheit
+§ 2 | Anzahl
+Teil 2 Vorzulegende Bauvorlagen
+§ 3 | Bauliche Anlagen
+§ 4 | Werbeanlagen
+§ 5 | Vorbescheid, Abweichungen, Ausnahmen und Befreiungen
+§ 6 | Beseitigung von Anlagen
+Teil 3 Inhalt der Bauvorlagen
+§ 7 | Lageplan
+§ 8 | Bauzeichnungen
+§ 9 | Bau- und Betriebsbeschreibung, Berechnungen
+§ 10 | Standsicherheitsnachweis
+§ 11 | Brandschutznachweis
+§ 12 | Nachweise für Wärme-, Schall-, Erschütterungsschutz
+§ 13 | Übereinstimmungsgebot
+Teil 4 Datenschutz
+§ 14 | Übermittlung personenbezogener Daten
+Teil 5 Übergangs- und Schlussvorschriften
+§ 15 | Übergangsvorschriften
+§ 16 | Inkrafttreten, Außerkrafttreten

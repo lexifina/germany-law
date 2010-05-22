@@ -1,3 +1,4 @@
-# Anlage 1
+# Anlage 1 - Zeichen und Farben für Bauvorlagen
 Anlage 1
-zu § 1 Abs. 4, § 11 Abs. 6 (Zeichen für Bauvorlagen)
+(zu § 7 Absatz 6 und § 8 Absatz 4 BremBauVorlV)
+Zeichen und Farben für Bauvorlagen
