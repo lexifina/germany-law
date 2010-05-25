@@ -1,0 +1,6 @@
+# TOP 4: Klageverfahren Stadt Solingen ./. Deutsche Bank AG CMS Spread Ladder Swaps
+
+- Sitzung: Finanzausschuss (2010-05-25)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/10963
