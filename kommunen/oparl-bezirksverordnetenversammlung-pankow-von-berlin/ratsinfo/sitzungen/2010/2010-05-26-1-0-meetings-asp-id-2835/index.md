@@ -1,0 +1,54 @@
+# außerordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin zu seniorenpolitischen Fragen und Themen
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-05-26T16:00:00+02:00
+- Ende: 2010-05-26T18:00:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2835
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2835
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=40281
+
+## Tagesordnung
+
+- TOP 1: Begrüßung durch den Vorsteher - erledigt
+- TOP 2: Impulsreferat durch die Seniorenvertretung - erledigt
+- TOP 3: Abstimmung über die Tagesordnung - erledigt
+- TOP 4: Bericht des Bezirksamtes zu seniorenpolitischen Schwerpunkten 2010 und Nachfragen zum Bericht - erledigt
+- TOP 5: Mündliche Anfragen - erledigt
+- TOP 6: Große Anfragen - (offen)
+- TOP 6.18: Pläne der GESOBAU - beantwortet
+- TOP 6.5: Brücke Sudauer Straße - beantwortet
+- TOP 6.10: Winterdienst auf dem Gelände Fröbestraße 17 - beantwortet
+- TOP 6.11: Beleuchtung des Geländes Fröbelstraße 17 - beantwortet
+- TOP 6.2: Seniorenfreundliche Gestaltung Ersatzverkehr ÖPNV - beantwortet
+- TOP 6.4: Fußgängerfreundliche Ampelphasen - beantwortet
+- TOP 6.7: Wartehäuschen Bushaltestelle S-Bhf. Buch - beantwortet
+- TOP 6.8: 20 Jahre nach der Wende! - behindertengerechte Fußwege und Straßen - beantwortet
+- TOP 6.9: Winterdienst in Pankow - beantwortet
+- TOP 6.14: Verkehr in Pankow-Heinersdorf - beantwortet
+- TOP 6.15: Malchower Straße ins Verkehrsnetz aufnehmen - beantwortet
+- TOP 6.17: Grundstück Prenzlauer Promenade Ecke Am Steinberg - beantwortet
+- TOP 6.1: Erhalt Angebot für Senioren - beantwortet
+- TOP 6.3: Haushalt 2010/2011 - beantwortet
+- TOP 6.12: Begegnungsstätte Breitestraße 3 - beantwortet
+- TOP 6.16: Schwimmhallen Oderberger Straße und Wolfshagener Straße - beantwortet
+- TOP 6.6: Seniorenfreundlicher Handel - seniorenfreundlicher Betrieb - beantwortet
+- TOP 6.13: Kaufhallen-Ruine am Pankower Anger - beantwortet
+- TOP 7: Anträge - (offen)
+- TOP 7.1: Bürgersteige in Französisch-Buchholz (alt) - überwiesen
+- TOP 7.2: Straßenlaternen - überwiesen
+- TOP 7.3: Schneebeseitigung Haltestellenbereich BVG - überwiesen
+- TOP 7.4: Unterstellmöglichkeiten BVG-Bus-Haltestelle - überwiesen
+- TOP 7.5: Bereitstellung von Investitionsmitteln für die Begegnungsstätte Stillestr. 10 - überwiesen
+- TOP 7.6: Leitsystem / Hinweisschilder auf dem Gelände Fröbelstraße 17 - überwiesen
+- TOP 7.7: Zuwachs an Begegnungsangeboten und Öffnung in das Wohnumfeld - in der BVV abgelehnt
+- TOP 7.8: Wohnraum für SeniorInnen im Ortsteil Prenzlauer Berg schaffen - überwiesen
+- TOP 7.9: Kennzeichnung der im Raum Berlin im Straßenland genutzten Fahrräder - überwiesen
+- TOP 7.10: Kurzfristige Beräumung der Bürgersteige, Straßenübergänge für Fußgänger und der Haltestellen des ÖPNV im Straßenland unmittelbar nach Schneefall und Vereisung in späteren Winterperioden - überwiesen
+- TOP 7.11: Verhinderung der Verschmutzung und Beschädigung in den Parkanlagen im Bezirk - überwiesen
+- TOP 7.12: Schutz der Grünanlagen im Innenbereich des durch eine Mauer geschützten Teiles des Schlossparks - überwiesen
+- TOP 7.13: Beseitigung der erheblichen Gehwegschäden in der Busonistraße in Karow - überwiesen
+- TOP 7.14: Renovierung des Treppenhauses im Seniorenwohnhaus Binzstr. 30 - überwiesen
