@@ -1,0 +1,53 @@
+# Bezirksvertretung 6
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-05-26T15:30:00+02:00
+- Ende: 2010-05-26T17:23:00+02:00
+- Ort: Münsterstraße 519, 40472 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/37
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2714
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2714
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00141467.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00141467.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00141467.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - mehrheitlich beschlossen
+- TOP 3: Sanierung Einbrunger Weg - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Änderung Bpl 5681/16-BochumerStr/Am Gatherhof - einstimmig beschlossen
+- TOP 6: FNP-Ä 155 Bochumer/Am Gatherhof-Aufst. ÖB - einstimmig beschlossen
+- TOP 7: BPl 5580/024-VogelsangerWeg/Nördl.Zubringer-öff.Auslegung - einstimmig beschlossen
+- TOP 8: BPl5682/013-Theodor/A44-§13, Stellungn;Satzung - einstimmig beschlossen
+- TOP 9: Anfrage CDU: Bauvorhaben Am Walbert/Beedstraße - beantwortet
+- TOP 10: Anfrage Bü90/Grüne: Terrassenpreise - beantwortet
+- TOP 11: Anfrage FDP Verkehrserfassung Breisacher Straße - beantwortet
+- TOP 12: Anfrage Die Linke: Wasserzähler - zurückgezogen
+- TOP 13: Anfrage SPD-Fraktion: Leer stehende Wohnungen Unterrath - beantwortet
+- TOP 14: Anfrage CDU: Geruchbelästigungen
+- TOP 15: Anfrage CDU: Querungshilfe Münsterstraße - zur Kenntnis genommen
+- TOP 16: Antrag CDU: KSP Selbecker Straße - einstimmig beschlossen
+- TOP 17: Antrag CDU: Haltestelle der Linie 701 "Am Schein" - einstimmig beschlossen
+- TOP 18: Antrag CDU: Kreitenstraße - Öffnung für Radfahrer - einstimmig beschlossen
+- TOP 19: Antrag CDU: Einfahrt REWE-Parkplatz - einstimmig beschlossen
+- TOP 20: Antrag Bü90/Grüne: ehem. Standortübungsgelände - zurückgezogen
+- TOP 21: Antrag CDU: Parkbucht Münsterstraße/Haeselerstraße - einstimmig beschlossen
+- TOP 22: Antrag FDP Herrichtung Fußweg Kartäuser Kloster - einstimmig beschlossen
+- TOP 23: Antrag FDP: Gaslaternen Kleinschmitthauser Weg - zurückgezogen
+- TOP 24: Antrag CDU: Grünanlage St.-Franziskus-Straße - einstimmig beschlossen
+- TOP 25: Antrag CDU: St.-Franziskus-Straße - Einmündung Heideweg (Ostseite) - einstimmig beschlossen
+- TOP 26: Antrag CDU: Seiteneingang des Unterrather Friedhofes - einstimmig beschlossen
+- TOP 27: Antrag CDU: Fußgängerüberweg Sankt-Franziskus-Straße/Haeselerstraße - einstimmig beschlossen
+- TOP 28: Antrag CDU: Verkehrssituation Heideweg/Max-Halbe-Straße - einstimmig beschlossen
+- TOP 29: Antrag SPD-Fraktion: Denkmalschutz - mehrheitlich beschlossen
+- TOP 30: Antrag CDU-Fraktion: Behindertenparkplatz Westfalenstraße 24 - einstimmig beschlossen
+- TOP 31: Antrag SPD-Fraktion: Grünzug Mühlenbroicher Weg - zur Kenntnis genommen
+- TOP 32: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf - zur Kenntnis genommen
+- TOP 33: Trödelmärkte auf dem Schützenplatz Rath im 2. Halbjahr 2010 - einstimmig beschlossen
+- TOP 34: Prüfergebnis Strab 715 - zur Kenntnis genommen
+- TOP 35: Zuschussvergabe 2010 - einstimmig beschlossen
+- TOP 36: Mitteilungen der Verwaltung - zur Kenntnis genommen
