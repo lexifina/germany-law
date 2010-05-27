@@ -1,0 +1,8 @@
+# TOP 7: Öffnung von Schloss Eller
+
+- Sitzung: Bezirksvertretung 8 (2010-05-27)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/162625
+- Ergebnis: beantwortet
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/53347
