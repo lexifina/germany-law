@@ -1,0 +1,52 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-05-27T17:00:00+02:00
+- Ende: 2010-05-27T19:40:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2671
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2671
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00141584.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00141584.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00141584.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 22.04.2010 - einstimmig beschlossen
+- TOP 3: Polizeistatistik und Kriminalitätsentwicklung 2009 im Stadtbezirk 8 - zurückgezogen
+- TOP 4: Zuschüsse der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 5: Zuschüsse zu kulturellen Veranstaltungen - einstimmig beschlossen
+- TOP 6: Unterhaltung von städtischen Grundstücken - einstimmig beschlossen
+- TOP 7: Öffnung von Schloss Eller - beantwortet
+- TOP 8: Masterpläne Spiel- und Bolzplätze im Stadtbezirk 8 - beantwortet
+- TOP 9: Unterbacher See - Öffnungszeiten der Gaststätten - beantwortet
+- TOP 10: U3 - Betreuungsplätze im Stadtbezirk 8 - beantwortet
+- TOP 11: Altpapiercontainer im Stadtbezirk 8 - beantwortet
+- TOP 12: Maßnahmen zur Förderung des Radverkehrs - beantwortet
+- TOP 13: Parktaschen Gumbertstraße Höhe Haus Nr. 158-160 - beantwortet
+- TOP 14: Fahrradweg Deutzer Straße Höhe Haus Nr. 102 - beantwortet
+- TOP 15: Fahrbahndecke Am Krahnap / Krippstraße / Ellerkirchstraße - beantwortet
+- TOP 16: Musikpavillon Schlosspark Eller - einstimmig beschlossen
+- TOP 17: Handläufe auf dem Breidenplatz - einstimmig beschlossen
+- TOP 18: Baumfällung südliche Düssel - einstimmig beschlossen
+- TOP 19: Geschäftsordnung des Rates - vertagt
+- TOP 20: Geschäftsordnung des Rates - vertagt
+- TOP 21: Grünfläche Schlesische Straße - einstimmig beschlossen
+- TOP 22: Kreuzung Amselstraße / Am Ellerforst - Gehwegabsenkungen - einstimmig beschlossen
+- TOP 23: Parksituation am Schlosspark Eller - einstimmig beschlossen
+- TOP 24: Sauberkeitsoffensive im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 25: Intensivierung der Verkehrsbegrünung - zur Kenntnis genommen
+- TOP 26: Gewässerunterhaltung Eselsbach - zur Kenntnis genommen
+- TOP 27: Abfallbehälter entlang Düssel, Hoxbach und Eselsbach - zur Kenntnis genommen
+- TOP 28: Modernisierungsoffensive Bahnhöfe II - zur Kenntnis genommen
+- TOP 29: Straßenbeleuchtung Konradstraße - zur Kenntnis genommen
+- TOP 30: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 31: Parkplatzneubau an der Festenbergstraße - zur Kenntnis genommen
+- TOP 32: Naherholungsgebiet Elbsee - zur Kenntnis genommen
+- TOP 33: Umzäunung Menzelsee - zur Kenntnis genommen
+- TOP 34: Wasserspielplatz Schlosspark Eller - zur Kenntnis genommen
+- TOP 35: Parkplatz Venhauser Allee / Krippstraße - zur Kenntnis genommen
