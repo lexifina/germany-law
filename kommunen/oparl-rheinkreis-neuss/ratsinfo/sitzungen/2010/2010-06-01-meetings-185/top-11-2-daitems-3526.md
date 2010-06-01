@@ -1,0 +1,7 @@
+# TOP 11.2: Geruchsbelästigungen in Barrenstein
+
+- Sitzung: öffentliche Sitzung des Planungs- und Umweltausschusses (2010-06-01)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/3526
+- Ergebnis: zur Kenntnis genommen
