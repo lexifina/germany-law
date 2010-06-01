@@ -1,0 +1,62 @@
+# Bezirksausschuss Rosellen
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2010-06-01T17:00:00+02:00
+- Ende: 2010-06-01T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/19
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1198
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1198
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: Verpflichtung von sachkundigen Bürgerinnen bzw. sachkundigen Bürgern
+- TOP 0: Ausweisung von verkehrsgeschützten Quartieren (BRS010610-09116.doc)
+- TOP 0: Umgang mit auffälligen Jugendlichen (BRS010610-09117.doc)
+- TOP 0: Bericht zur Entwicklung der Baugebiete in Allerheiligen (BRS010610-09121.doc)
+- TOP 0: Einwohnerfragestunde in den Bezirksausschüssen (BRS010610-09125.doc)
+- TOP 0: Eisenbahnlärm in Elvekum (BRS010610-09118.doc)
+- TOP 0: Breitbandversorgung (BRS010610-09119.doc)
+- TOP 0: Kirchengrundstück (BRS010610-09120.doc)
+- TOP 0: Aufstellung einer Wartehalle an der Albert-Schweitzer-Straße (BRS010610-09122.doc)
+- TOP 0: Platzsituation an den weiterführenden Schulen in Norf (BRS010610-09123.doc)
+- TOP 0: Müllcontainer (BRS010610-09124.doc)
+- TOP 0: Frostschäden (BRS010610-09141.doc)
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 3: Bestellung eines stellvertretenden Schriftführers (BRS010610-09026.doc)
+- TOP 4: Kindertageseinrichtung und Kinder- und Jugendzentrum in Allerheiligen B (JHA270410-08998.doc)
+- TOP 5: Umbau der Raiffeisenstraße (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA280410-08885)
+- TOP 6: Bebauungsplan Nr. 461 - Allerheiligen, Illinghauser Hof - - Bericht über die frühzeitige Unterrichtung der Öffentlichkeit und die frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - Vorbereitung der Auslegung
+- TOP 7: Bebauungsplan Nr. 11 - Rosellen - - Befreiung von Festsetzungen
+- TOP 8: Entlastung der Bauhauszufahrt - Antrag des Bezirksausschusses Rosellen
+- TOP 9: Öffnung einer direkten Verbindung zwischen Allerheiligen A und dem sog. Ortsmittelpunkt für den Individualverkehr - Antrag des Bezirksausschusses Rosellen
+- TOP 10: Abbau von Betonpflanzringen auf der Horremer Straße in Allerheiligen - Antrag des Bezirksausschusses Rosellen
+- TOP 11: BPL 420 – Am Illinghauser Hof (Zentrum) – Kopfplatz (Straßenbau und Beleuchtung) -Planvorlage, Ausbauprogramm- (BRS010610-09069.doc)
+- TOP 12: Sanierung, Umwandlung und Aufgabe von Kinderspielplätzen (UK230310-08804.doc)
+- TOP 13: Direkte Verbindung für den Individualverkehr zwischen Allerheiligen A und dem sog. Ortsmittelpunkt (BRS010610-08727.doc)
+- TOP 14: Verkehrszeichen Horremer Straße (BRS010610-09089.doc)
+- TOP 15: Müllbehälter (BRS010610-09092.doc)
+- TOP 16: Optimierung des LKW-Verkehrs (BRS010610-09101.doc)
+- TOP 17: Wegeverbindung zwischen Rosellen und Hoisten (BRS010610-09106.doc)
+- TOP 18: Stellungnahmen zu diversen Punkten (BRS010610-09108.doc)
+- TOP 19: Norfbachbrücke (BRS010610-09105.doc)
+- TOP 20: Informationstafel an der Norfbachbrücke (BRS010610-09107.doc)
+- TOP 21: Brücke über den Norfbach (BRS010610-09103.doc)
+- TOP 22: Parkplatz REWE-Markt (BRS010610-09102.doc)
+- TOP 23: Spiegel auf der Gierer Straße (BRS010610-09104.doc)
+- TOP 24: Verbindungsweg in Schlicherum (BRS010610-09109.doc)
+- TOP 25: Querungshilfe auf der Neuenberger Straße (BRS010610-09110.doc)
+- TOP 26: Bürgersteig Peter-Behrens-Straße (BRS010610-09111.doc)
+- TOP 27: Lärmschutz Elvekum (BRS010610-09112.doc)
+- TOP 28: Straßenspange (BRS010610-09087.doc)
+- TOP 29: Verkehrszählungen auf der Straße „Am Alten Bach“ (BRS010610-08787.doc)
+- TOP 30: Befestigung des Parkplatzes Mühlenbusch an der Waldstraße (BRS010610-08927.doc)
+- TOP 31: Stadtentwicklungsprozess Perspektive Neuss 2025+ Sachstandsbericht Räumliches Strukturkonzept (BRS010610-09005.doc)
+- TOP 32: Rückversetzung der Wertstoffcontainer Altebrücker Straße (BRS010610-09028.doc)
+- TOP 33: Spielplatzplanung und Ausbauplanung Rankestraße, Allerheiligen hier: Bericht über die Beschlussfassung des Rates am 07.05.2010 (BRS010610-08924.doc)
+- TOP 34: Brücke Raiffeisenstraße - Reduzierung der Fahrgeschwindigkeit zur Einhaltung statischer Erfordernisse Hier: Bericht über die Beschlussfassung des Bauausschusses am 10.02.2010 (BRS010610-09029.doc)
+- TOP 35: Erläuterungsschild zur Hans-Peter-Keller-Straße hier: Bericht über die Beschlussfassung des Kulturausschusses am 09.02.2010 (BRS010610-09085.doc)
+- TOP 36: Bericht der Verwaltung über die Vermarktung von Wohnbaugrundstücken in den Neubaugebieten in Neuss-Allerheiligen (AWL190510-09061)
