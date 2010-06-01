@@ -1,0 +1,75 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-06-01T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1903989
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1903989
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Initiative "Macht Barmherzigkeit" Kunstprojekt anl. des ökumenischen Kirchentages am 14.05.2010 - <div></div>
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Trachtenverein Riadastoana Feldmoching e.V. Heimatabend anl. des 90. Vereinsjubiläums am 12.06.2010 - <div></div>
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung in den Unterausschüssen - Planung, Verkehr und Umwelt (Vertreterin) - Schule, Sport und Soziales (Vertreterin) - Kultur und Budget
+- TOP 1.3.: Ernennung einer/eines neuen Ausländerbeauftragten im BA 24
+- TOP 2: Entscheidungsfälle
+- TOP 1.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Auflockerung der Lärmschutzwand an der Thaddäus-Robl-Straße (Bürgerversammlungs-Empfehlung Nr. 08-14 / E 00253)
+- TOP 1.5.: Entscheidung über Veranstaltung auf öffentlichem Verkehrsgrund; Abhalten eines Flohmarktes auf dem Walter-Sedlmayer-Platz am 17.07.2010
+- TOP 3: Anträge
+- TOP 3.1.: Task-Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen (Antrag des BA 15)
+- TOP 3.2.: Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt-Lehel (Antrag des BA 15)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Anträge aus der 6. Kinder-/Jugendsprechstunde des Bezirksausschusses 24 am 23.04.2010
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Lassallestr. 95
+- TOP 5.2.: Straßenfest Lassallestraße, nördlich Kreuzung Max-Wönner-Str. am 10.07.2010 (Freizeittreff Lerchenauer)
+- TOP 5.3.: Lichtzeichenanlage - Bauprogramm für 2010
+- TOP 5.4.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG): Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Weichenerneuerung mit Bettungserneuerung in W 3, 4, 5 und Planumschutzschicht und Entwässerung nur in Weiche 3 im Bf. Mü-Feldmoching Strecke 5500 München - Regensburg Ikm 13,600 - 14,000 Gemarkung Feldmoching
+- TOP 5.5.: Fotoausstellung auf dem Goldschmiedplatz ab 20.06.2010
+- TOP 5.6.: Vollzug der Baumschutzverordnung; Feldmochinger Str. 251 Errichtung eines temporären Schulcontainers
+- TOP 6.23.: Einrichtung von Fahrradstraßen
+- TOP 5.8.: Spielplatzplanung Blaukissenweg / Trollblumenstr. / Füsslgraben
+- TOP 5.9.: Gemeinde Oberschleißheim Bebauungsplan Nr. 71 Sondergebiet in Badersfeld Flächennutzungsplan ? Änderung Nr.
+- TOP 5.10.: Vollzug der Baumschutzverordnung; Schwarzhölzerstr. 18b Neubau eines Einfamilienhauses mit Doppelgarage; Haus B
+- TOP 5.11.: Bauvorhaben Dachauer Str. 570
+- TOP 5.12.: Vollzug der Baumschutzverordnung; Feldmochinger Str. 212a Umbau und Erweiterung eines Einfamilienhauses mit Errichtung eines Nebengebäudes ? Vorbescheid
+- TOP 5.13.: Christbaumentsorgung im Winter 2010/11 Vorschläge für Sammelplätze
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.2.: Eggartensiedlung (Schreiben Vivico Real Estate)
+- TOP 6.3.: Verkauf Städt. Flst. 1346/28, 1347/4 Feldmoching Fortnerstraße 24. Stadtbezirk - made in hasenbergl a. G. -
+- TOP 6.4.: Behebung des Engpasses an der Einmündung der Trollblumenstraße in die Borsigstraße (BA-Antrags-Nr. 08-14 / B 01214)
+- TOP 6.5.: Geteerte Fläche hinter dem städtischen Kindergarten in der Diamantstraße (Antrag aus der 5. Kinder-/Jugendsprechstunde des BA 24 am 27.11.2009)
+- TOP 6.6.: Asphalthochbord an der Einmündung Himmelschlüssel-/Feldmochinger Straße
+- TOP 6.7.: Umgestaltung des Verkehrsknotens südlich des Bahnübergangs S-Bahnhof Fasanerie-Nord (BA-Antrags-Nr. 08-14 / B 00071)
+- TOP 6.8.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse; Übernahme der Hälfte der Mietkosten ab 01.01.2010
+- TOP 6.9.: Mitteilung über ein Grundstücksgeschäft
+- TOP 6.10.: Verkehrsrechtliche Anordnung: a) Zeitänderung an der Bücherbushaltestelle in der Thelottstraße 20 b) Haltverbot in der Weitlstraße östlich Rainfarnstraße c) Schleißheimer Straße: Beschildeung der Haltestellenbereiche an der Dülferstraße als Busspur
+- TOP 6.11.: Beteiligung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf "PRO-LBK"
+- TOP 6.12.: Bebauungsplan mit Grünordnung Nr. 1784 a Auf den Schrederwiesen (westlich), Schroppwiesenstraße (nördlich), Dachauer Straße B 304 (östlich), Autobahnring Münche-Nord BAB A 99 (südlich)
+- TOP 6.13.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014 (umfangreiche Unterlagen in der BA-Geschäftsstelle)
+- TOP 6.14.: Beratung durch die Kommission für Stadtgestaltung am 18.05.2010 Blodigstraße / Dülferstraße - Stadtbezirk 24 Projekt "Dülferzentrum"
+- TOP 6.15.: Baumfällungen vorm Haus Linkstraße 74
+- TOP 6.16.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG); Frima Autohaus Thaller (Lackierwerkstatt), Dülferstraße 3; Lärmbelästigung durch Lüftungsanlage
+- TOP 6.17.: Wohnungsmarkt München Expertenbefragung 2009
+- TOP 6.18.: Mieterbeirat Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 10. Stadtbezirkes
+- TOP 6.19.: Information zur Auswahl der Gebiete mit besonderem Handlungsbedarf für REGSAM
+- TOP 6.20.: SWM Erdgasprojekt Feldmochinger Straße Änderung im Terminablauf
+- TOP 6.21.: Arbeiten im Straßenraum: a) Bahnübergang Fasanerie - Feldmochinger Straße b) Feldmochinger Str. 405 - 397
+- TOP 6.22.: "Parken nur für LKW" an der TG-Ausfahrt Ratoldstr. 24
+- TOP 6.24.: Meldeliste Bauvorhaben
+- TOP 6.25.: Meldeliste Baumfällungsanträge
+- TOP 6.26.: Schulhofgestaltung (Schreiben des Elternbeirates der GS an der Lerchenauer Straße)
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: (E) Auflockerung der Lärmschutzwand an der Thaddäus-Robl-Straße Empfehlung Nr. 08-14 / E 00253 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl am 26.03.2009 - <div></div>
