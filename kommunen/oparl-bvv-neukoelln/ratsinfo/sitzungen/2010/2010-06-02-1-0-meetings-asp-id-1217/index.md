@@ -1,0 +1,72 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-06-02T17:10:00+02:00
+- Ende: 2010-06-02T21:40:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1217
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1217
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Umwandlung von Schulen zu integrierten Sekundarschulen - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan XIV-287c vom 06.07.2007 mit dem Deckblatt vom 05.10.2009 ("Krugpfuhlsiedlung - Parchimer Allee") - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Veränderungssperre XIV-166/23 für das Grundstück Tempelhofer Weg 115/121, Britzer Damm 148/154 im Bezirk Neukölln, Ortsteil Britz im Geltungsbereich des Bebauungsplanentwurfes XIV-166 ("Moosrosenstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Einzelhandels- und Zentrenkonzept - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Bebauungsplan XIV-287a vom 06.07.2007 mit dem Deckblatt vom 05.10.2009 ("Krugpfuhlsiedlung - Hanne Nüte") - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Großbaustelle an der Rudower Spinne - beantwortet
+- TOP 8.2: Vergleichsarbeiten - beantwortet
+- TOP 8.3: Sozialarbeiter - ein Auslaufmodell? - beantwortet
+- TOP 8.4: Personalnotstand beim Kinder- und Jugendgesundheitsdienst? - beantwortet
+- TOP 8.5: Situation Marktplatz Britz-Süd - beantwortet
+- TOP 8.6: Umsetzung des Verkehrskonzeptes südwestliches Rudow - beantwortet
+- TOP 8.7: Kleinwindanlagen auf der Lise-Meitner-Schule - schriftlich beantwortet
+- TOP 8.8: Evaluierung Berliner Kitas - schriftlich beantwortet
+- TOP 8.9: Sicherheit auf Sportflächen mit Rasen - schriftlich beantwortet
+- TOP 8.10: Integrationsgesetz - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Modellprojekt für "Deutsch-Garantie" in Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Milieuschutz Schillerkiez? - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Bürgerbeteiligung im Aktionsraum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.5: Scheinvaterschaften verhindern! - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Kooperation zwischen der Hermann-Nohl-Schule und der Kita Riesestraße - beantwortet
+- TOP 10.2: Wanderarbeiter und Touristen aus Rumänien - beantwortet
+- TOP 10.3: Mietenentwicklung in Neukölln - beantwortet
+- TOP 10.4: "Weiterbau U7" - beantwortet
+- TOP 10.5: Mietexplosion im ehemaligen sozialen Wohnungsbau - beantwortet
+- TOP 10.6: Bürgerarbeit - beantwortet
+- TOP 10.7: Radverkehrsförderung in Neukölln - schriftlich beantwortet
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Kooperation zwischen der Hermann-Nohl-Schule und der Kita Riesestraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Schülermonatskarten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Schulwegsicherung Schliemann-Grundschule - überwiesen
+- TOP 12.4: Müllbehälter an den Gropiuspassagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Radstreifen Werbellinstraße - überwiesen
+- TOP 12.6: Zivilgesellschaftliches Engagement absichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Mittelfristige Gesundheitsplanung - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Beirat für ÖBS - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: "Köpfe für Neukölln" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Problemgebiete stabilisieren! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Zustimmung zur Entscheidung über den Neubau der Lahnstraße im Abschnitt zwischen Karl-Marx-Straße und Neuköllnische Brücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Verkehrskonferenz Süd-Ost - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Bänke in der Schillerpromenade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Öffnung der Schönstedtstraße für Radfahrerinnen und Radfahrer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Mitwirkung von Betroffenen für Untersuchungs- und Sanierungsgebiete im Bezirk Neukölln sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Hinweis am Bürgeramt Blaschkoallee - mit Abschlussbericht zur Kenntnis genommen
