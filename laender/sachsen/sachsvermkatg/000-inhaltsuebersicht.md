@@ -12,8 +12,8 @@ Abschnitt 2 Daten
 § 9 Landesvermessung
 § 10 Liegenschaftskataster
 § 11 Bereitstellung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens durch Vermessungsbehörden
-§ 12 Bereitstellung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens durch Gemeinden und Öffentlich bestellte Vermessungsingenieure
-§ 13 Geodienste
+§ 12 Übermittlung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens durch Gemeinden und Öffentlich bestellte Vermessungsingenieure
+§ 13 Nutzung von Informationen aus den Datenbeständen des amtlichen Vermessungswesens
 § 14 Fortführung, Berichtigung und Erneuerung des Liegenschaftskatasters
 § 15 Datenerhebung und Datenübermittlung für das Liegenschaftskataster
 § 16 Grenzbestimmung
