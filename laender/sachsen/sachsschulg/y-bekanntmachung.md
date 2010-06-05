@@ -10,6 +10,6 @@ Aufgrund des Artikels 2 des Zweiten Gesetzes zur Umsetzung des besseren Schulkon
 7. den am 1. Januar 2002 in Kraft getretenen Artikel 27 des Gesetzes vom 28. Juni 2001 (SächsGVBl. S. 426, 428),
 8. den am 3. Mai 2003 in Kraft getretenen Artikel 3 der Verordnung vom 10. April 2003 (SächsGVBl. S. 94),
 9. das teils am 1. August 2003, teils am 1. August 2004 in Kraft getretene Gesetz vom 18. Juli 2003 (SächsGVBl. S. 189),
-10. das teils am 9. März 2004, teils am 1. August 2004 in Kraft getretene, teils am 30. September 2004 in Kraft tretende eingangs genannte Gesetz .
+10. das teils am 9. März 2004, teils am 1. August 2004 in Kraft getretene, teils am 30. September 2004 in Kraft tretende eingangs genannte Gesetz.
 Dresden, den 16. Juli 2004
 Der Staatsminister für Kultus Prof. Dr. Karl Mannsfeld
