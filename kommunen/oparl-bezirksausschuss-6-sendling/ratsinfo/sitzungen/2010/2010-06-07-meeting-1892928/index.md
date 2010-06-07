@@ -1,0 +1,57 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-06-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1892928
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1892928
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Jugendtreffpunkt auf dem Vorplatz des REWE-Marktes in der Aberlestraße
+- TOP 3.2.: Einweihung des Bahndeckels / Bürgerfest
+- TOP 4: Schulreferat
+- TOP 5.1.: Freischankfläche Thalkirchner Str. 126
+- TOP 5.2.: Freischankfläche Bruderhofstr. 31
+- TOP 5.3.: Freischankfläche Oberländerstr. 40
+- TOP 6.1.: Straßenfest in der Daiserstr. am 24.07.2010
+- TOP 6.2.: Konzert am Sendlinger Kirchplatz am 03.07.2010
+- TOP 6.3.: Einrichtung von Fahrradstraßen
+- TOP 6.4.: Lichtzeichenanlagen-Bauprogramm
+- TOP 6.5.: Lichtzeichenanlage Baumgartner- / Ganghoferstraße
+- TOP 6.6.: Fernwärmebaustelle Schäftlarnstraße
+- TOP 6.7.: Straßensanierung Bruderhofstraße
+- TOP 6.8.: Fahrradampel im Bereich der Implerschule
+- TOP 7.1.: Budgetantrag "Die Buntstifte e. V.", Zuwendung für die Ausstattung und Montage von Beleuchtung und Akustikdecken; ? 12.694,32
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Init. Kunst in Sendling c/o C. Schneider Offene Ateliers Sendling v. 07. - 10.10.10 - <div>Kürzung auf  3000,-</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Brudermühlstr. 21 - 27
+- TOP 8.3.: Bauvorhaben Lindwurmstr. 205
+- TOP 8.4.: Bauvorhaben Schöttlstr. 10
+- TOP 8.5.: Nachqualifizierung der Denkmalliste; Dorfkern Sendling
+- TOP 9: Baureferat
+- TOP 9.1.: Vorstellung des Straßenprofils des Harras nach dem Umbau
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Pilotprojekt "PRO-LBK"
+- TOP 10.2.: Baumfällung Bavariastr. 22c
+- TOP 10.3.: Baumfällung Daiserstr. 42
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Verlängerung der Öffnungszeit - <div>nach Antrag</div>
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Wertstoffcontainerstandort Meindlstraße
+- TOP 13.2.: Christbaumentsorgung im Winter 2010 / 11; mögliche Örtlichkeiten für Sammelstellen
+- TOP 13.3.: Zukunft der Markthallen München
+- TOP 13.4.: Novellierung der Bade- und Bootsverordnung
+- TOP 13.5.: Tag des offenen Denkmals am 12.09.2010
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
