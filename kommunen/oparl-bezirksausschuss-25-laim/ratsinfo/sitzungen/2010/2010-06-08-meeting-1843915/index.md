@@ -1,0 +1,100 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-06-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843915
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843915
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Antrag zur Verbesserung der Verkehrssicherheit; Ettenhueberstraße / Agnes-Bernauer-Straße
+- TOP 1.2.2.: Straßenbenennung "Laimer Anger"
+- TOP 1.2.1.3: Vorstellung der Arbeit von REGSAM in Laim
+- TOP 1.2.1.4: Hortsituation in Laim; Teilnahme eines Vertreters des Schulreferates
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Erhaltung aller Kleingartenanlagen im Stadtbezirk 25
+- TOP 2.2.: SPD: Errichtung der seit langem geforderten Lichtzeichenanlage Gotthardstraße / Laimer Platz / Riegerhofstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 1.600 Euro für Kinderfestival am 16.05.10; Antragsteller: Spektrum e.V.
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 07.05.10: Haltverbot am Kärtner Platz
+- TOP 4.2.: Schreiben KVR vom 06.05.10: Lichtzeichenanlagen Bauprogramm für 2010
+- TOP 4.3.: Schreiben Abfallwirtschaftsbetrieb München vom 20.05.10: Christbaumentsorgung im Winter 2010/11
+- TOP 4.4.: Schreiben Baureferat vom 17.05.10: Fürstenrieder Str. 160-166 / Brücke A 96; Bordsteinabsenkung Fußgängerüberweg
+- TOP 4.5.: Schreiben Direktorium vom 20.05.10: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten (Antrag Nr. 08-14 / B 01141 des BA 5 Au-Haidhausen vom 13.05.09)
+- TOP 4.6.: Schreiben Planungsreferat vom 25.05.10: Vollzug des Allgemeinen Eisenbahngesetzes (AEG), Planänderung gem. §§ 18, 18d AEG i.V.m. § 76 Abs. 2 Verwaltungsverfahrensgesetz (VwVfG) für das Vorhaben "Neubau einer Trafostation und Errichtung eines 10 kV Mittelspannungskabels", Strecke 5503 München Hbf - Augsburg Hbf km 7,1 - km 3,1; Verlagerung der Ausgleichsfläche
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Agricolastr. 71: Neubau eines Doppelhauses mit zwei Garagen; hier: Baupläne und Baumfällungen
+- TOP 5.2.: Saherrstr. 62: Umbau und Nutzungsänderung eines Ladenlokals in eine Kinderkrippe, ein Büro für Nachbarschaftshilfe und ein Lager - Tektur; hier: Baupläne
+- TOP 5.3.: Agnes-Bernauer-Str. 105: Neubau eines Mehrfamilienhauses; hier: Baupläne
+- TOP 5.4.: Flotowstr. 25: Neubau zweier Reihenhäuser mit 3 Wohnungen und Garagen / Tektur; hier: Baupläne
+- TOP 5.5.: Fürstenrieder Str. 10: Anbau von Balkonanlagen (Fürstenrieder Str. 10 / Perhamer Str. 2+2a); hier: Baupläne
+- TOP 5.6.: Stadtlohner Str. 2: Anbau von Balkonanlagen; hier: Baupläne
+- TOP 5.7.: Stadtlohner Str. 5-9: Anbau von Balkonanlagen; hier: Baupläne
+- TOP 5.8.: Stadtlohner Str. 16: Anbau von Balkonanlagen und Grundrissänderung; hier: Baupläne
+- TOP 5.9.: Landsberger Straße: 9 unbeleuchtete Großflächen, freistehend (Landsberger Straße / Fürstenrieder Straße)
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 14.04.10
+- TOP 7.2.: Sitzung UA Soziales, Schule und Sport vom 20.04.10
+- TOP 7.3.: Sitzung UA Kultur vom 04.05.10
+- TOP 7.4.: BA-Sitzung vom 04.05.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 30.04.10: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse; Übernahme der Hälfte der Mietkosten ab 01.01.10
+- TOP 8.2.: Schreiben Direktorium vom 04.05.10: BAs beim 18.jetzt - Vorbereitungstreffen 10.06.10
+- TOP 8.3.: Schreiben Direktorium vom 10.05.10: Verwendungsnachweis über Zuschuss aus dem Budget des BA 25; Antragsteller: Die Bärchen e.V.
+- TOP 8.4.: Schreiben Direktorium vom 10.05.10: Beteiligung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf "PRO-LBK"; Abschluss des Pilotprojektes bei der BA-Geschäftsstelle Ost für die BAs 13-18; Ausweitung des "Digitalen Beteiligungsverfahren für die BAs" auf alle Bezirksausschüsse zum 15.06.10
+- TOP 8.5.: Schreiben Sozialreferat vom 22.04.10: Weiterhin Einzelfahrscheine des MVV für München-Pass-Inhaber (Antrag Nr. 08-14 / B 01934 vom 02.03.10)
+- TOP 8.6.: Schreiben Sozialreferat vom 07.05.10: Information zur Auswahl der Gebiete mit besonderem Handlungsbedarf für REGSAM
+- TOP 8.7.: Schreiben Sozialreferat vom 07.05.10: Zweckentfremdung von Wohnraum durch Abbruch; Haunerstraße
+- TOP 8.8.: Schreiben Abfallwirtschaftsbetrieb München vom 22.04.10: Verlegung der Wertstoffinsel Nördlinger Straße / Perkhoferstraße
+- TOP 8.9.: Schreiben Abfallwirtschaftsbetrieb München vom 28.04.10: Wertstoffcontainer Standort Friedenheimer Str. 33
+- TOP 8.10.: Schreiben Baureferat vom 23.04.10: Geh- / Radwegbrücke Pronner Platz / Nymphenburger Park; Steg von der Landsberger Straße über die Gleisanlagen als zusätzliche Verbindung der Stadtbezirke 25 und 9 (Schreiben BA vom 17.03.10)
+- TOP 8.11.: Schreiben Baureferat vom 19.05.10: Fahrradabstellplätze S-Bahnhof Laim (Schreiben BA vom 30.04.10)
+- TOP 8.12.: Schreiben KVR vom 03.05.10: Lichtzeichenanlage Elsenheimer - / Landsberger Straße - zusätzliche Fußgängerfurt (Schreiben BA vom 21.04.10)
+- TOP 8.13.: Schreiben KVR vom 03.05.10: Radverkehr; Einrichtung von Fahrradstraßen
+- TOP 8.14.: Schreiben KVR vom 03.05.10: Arbeiten im Straßenraum; Valpichlerstraße zwischen Wimpfener Straße udn Riegerhofstraße - Verlegung einer Fernwärmeleitung
+- TOP 8.15.: Schreiben KVR vom 05.05.10: Fernwärmearbeiten Valpichlerstraße zwischen Fürstenrieder Straße und Wimpfener Straße; Verlängerung der verkehrsrechtlichen Anordnung
+- TOP 8.16.: Schreiben KVR vom 21.05.10: Valpichlerstraße / Fernwärmeleitung, 1. Bauaubschnitt
+- TOP 8.17.: Schreiben KVR vom 22.04.10: Gaststätte "Teufelsküche", Helmpertstr. 2; unveränderte Fortsetzung
+- TOP 8.18.: Schreiben KVR vom 06.05.10: Gaststätte "Cafeteria Linhard", Stöberlstr. 75; unveränderte Fortführung
+- TOP 8.19.: Schreiben Planungsreferat vom 04.05.10: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen (Antrag Nr. 08-14 / B 02017 vom 13.04.10)
+- TOP 8.20.: Schreiben Planungsreferat vom 12.05.10: Landsberger Straße, Fernwärmeerschließung München-West, Druckerhöhungsstation Laim
+- TOP 8.21.: Schreiben Schul- und Kultusreferat vom 17.05.10: Mehrzweckgebäude an der Hogenbergstraße (Schreiben BA vom 30.04.10)
+- TOP 8.22.: Schreiben Schul- und Kultusreferat vom 17.05.10: Kindertageseinrichtung im Gebiet Zschokke - / Westendstraße (Schreiben BA vom 30.04.10)
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 03.05.10: Baumaßnahmen der SWM; Stromprojekt Gotthardstraße - Änderung im Terminablauf
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 17.05.10: Baumaßnahmen der SWM; Fernwärmeprojekt Agnes-Bernauer-Straße, Oberflächenwiederherstellung
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 25.05.10: Baumaßnahmen der SWM; Fernwärmeprojekt Helmpertstraße
+- TOP 8.26.: Schreiben Referat für Gesundheit und Umwelt vom 07.05.10: Baubeginnsanzeige für Mobilfunksendeanlage
+- TOP 8.27.: Schreiben Stadtkämmerei vom 07.05.10: Mehrjahresinvestitionsprogramm für die Jahre 2010-2014
+- TOP 8.28.: Schreiben Referat für Arbeit und Wirtschaft vom 29.04.10: Wirtschafts-Info 04/2010
+- TOP 8.29.: Bautenliste vom 19.04.-25.04.10 1. Erstantragsverfahren a) Agricolastr. 71
+- TOP 8.30.: Bautenliste vom 26.04.-02.05.10: 1. Erstantragsverfahren a) Aindorferstr. 137 b) Camerloherstr. 173 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 51
+- TOP 8.31.: Bautenliste vom 03.05.-09.05.10: 1. Änderungsverfahren a) Saherrstr. 62 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Lautensackstr. 1
+- TOP 8.32.: Bautenliste vom 10.05.-16.05.10: 1. Erstantragsverfahren a) Stadtlohner Str. 5 b) Agricolaplatz 13 c) Fürstenrieder Str. 10 d) Stadtlohner Str. 2 e) Berchemstr. 44 a f) Stadtlohner Str. 16 2. Änderungsverfahren a) Flotowstr. 25 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheid a) Fürstenrieder Str. 51
+- TOP 8.33.: Bautenliste vom 17.05.-23.05.10: 1. Erstantragsverfahren a) Fürstenrieder Str. 16 b) Johannes-Scharrer-Str. 2 c) Flantinstr. 13 d) Stürzerstr. 37 2. Änderungsverfahren a) Weiß-Ferdl-Str. 26
+- TOP 8.34.: Schreiben Planungsreferat vom 27.04.10: Liste der beantragten Baumfällungen vom 19.04.-25.04.10
+- TOP 8.35.: Schreiben Planungsreferat vom 10.05.10: Liste der beantragten Baumfällungen vom 03.05.-09.05.10
+- TOP 8.36.: Schreiben Planungsreferat vom 25.05.10: Liste der beantragten Baumfällungen vom 17.05.-23.05.10
+- TOP 8.37.: Schreiben Stadtwerke München GmbH vom 26.04.10: Baumaßnahmen der Stadtwerke; Stichtag: 26.04.10
+- TOP 8.38.: Schreiben Stadtwerke München GmbH vom 03.05.10: Baumaßnahmen der Stadtwerke; Stichtag: 03.05.10
+- TOP 8.39.: Schreiben Stadtwerke München GmbH vom 10.05.10: Baumaßnahmen der Stadtwerke; Stichtag: 10.05.10
+- TOP 8.40.: Schreiben Stadtwerke München GmbH vom 17.05.10: Baumaßnahmen der Stadtwerke; Stichtag: 17.05.10
+- TOP 8.41.: Beschluss der Vollversammlung vom 24.03.10: Mieterbeirat, Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 10. Stadtbezirkes (Sitzungsvorlagen Nr. 08-14 / V 03615)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.10: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept (Sitzungsvorlagen Nr. 08-14 / V 03620)
+- TOP 8.43.: Anträge BA 15 Trudering-Riem vom 22.04.10: Task-Force für die Ermittelung freier Potentiale bei der Kinderbetreuung einsetzten; Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt-lehel
+- TOP 8.44.: Schreiben Ausländerbeirat München: Infobrief 26 / April 2010
+- TOP 8.45.: Schreiben Faschingsclub Laim e.V. vom 03.05.10: Bericht über Faschingstreiben am Laimer Anger vom 13.02.10
+- TOP 8.46.: Schreiben Bund Naturschutz Kreisgruppe München und Arbeitskreis Attraktiver Nahverkehr im Münchner Forum vom 12.05.10: Stellungnahme zum MVG-Leistungsprogramm 2011
+- TOP 8.47.: Schreiben Schul- und Kultusreferat vom 26.04.10: Jahresdokumentation 2009 "Sport in München"
+- TOP 8.48.: Schreiben Schul- und Kultusreferat vom 12.05.10: Leitlinie Bildung - Dokumentation der Öffentlichkeitsarbeit
+- TOP 8.49.: Schreiben Direktorium April 2010: Jahresbericht 2009 mit Jahresvorschau 2010
+- TOP 8.50.: Schriftverkehr aus der BA-Sitzung vom 13.04.10
+- TOP 8.51.: Schriftverkehr aus der BA-Sitzung vom 04.05.10
+- TOP 1.2: Bürgerpost an den BA
