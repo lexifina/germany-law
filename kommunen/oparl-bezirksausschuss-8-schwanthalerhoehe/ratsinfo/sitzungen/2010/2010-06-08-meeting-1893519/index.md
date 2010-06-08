@@ -1,0 +1,65 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-06-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893519
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893519
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Gitterversperrung auf der Theresienwiese
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Unsere Stadt - Unsere Straßen III (Filmproduktion)
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Entscheidung über Sondernutzungserlaubnis - Warenauslage Schwantahlerstr. 160
+- TOP 5.2.: Entscheidung Freischankfläche Kazmairstr. 28
+- TOP 5.3.: Anhoerung: Vorbescheid Anglerstr. 19a-23
+- TOP 5.4.: Anhörung: Reprivatisierung Ligsalzstr. 46
+- TOP 5.5.: Fest Bahndeckel - Feierwerk
+- TOP 5.6.: AW Freischankflächen im 8. Stadtbezirk
+- TOP 5.7.: Meldeliste
+- TOP 5.8.: Bauarbeiten im Viertel - Verlegung Glasfaserkabel
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Information zur Auswahl der REGSAM-Gebiete mit einem besonderen Handlungsbedarf
+- TOP 6.2.: Beschluss des Kinder- und Jugendhilfeausschusses: Haus für Kinder Ganghoferstr. 68-70
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhoerung: Latin Open Air - Frist 15.06.2010
+- TOP 8.2.: Anhoerung: Kasperltheater auf dem Georg-Freundorfer-Platz - Frist 28.06.2010
+- TOP 8.3.: Anhoerung: Fußball WM - Westendstraße - Fristverlängerung 09.06.2010
+- TOP 8.4.: Anhoerung: München radelt fürs Klima
+- TOP 8.5.: Anhoerung: Hoffest der Augustiner Bräustuben
+- TOP 8.6.: Nachtrag Anhoerung: KIKS Eröffnungs WE
+- TOP 8.7.: Anhoerung: Lichtzeichenanlagen - Programm für 2010 - Frist 19.06.2010
+- TOP 8.8.: Anhoerung: Novellierung Baumschutzverordnung - farblich gekennzeichnet
+- TOP 8.9.: Anhörung: Querung Grasserstraße
+- TOP 8.10.: AW zum BA-Antrag Nr. 08-14 / B 01946 Einbeziehung des Gebiets "Alte Messe" in das Parkraummanagement
+- TOP 8.11.: AW Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 8.12.: AW zur Frage bezüglich des Winterdienstes
+- TOP 8.13.: Einrichtung von 2 Verkehrshelferübergängen in der Bergmannstraße
+- TOP 8.14.: Genehmigung Blade Night
+- TOP 8.15.: Radverkehr, Einrichtung von Fahrradstraßen
+- TOP 8.16.: Stellungsnahme von Arbeitskreis Attraktiver Nahverkehr (AAN) und Bund Naturschutz (BN) zum MVG Leistungsprogramm 2011
+- TOP 8.17.: Beteiligung der Bezirksausschüsse im Vollzug der Baumschutz-VO; Verfahrensumstellung auf PRO-LBK
+- TOP 8.18.: Christbaumentsorgung im Winter - Termin 16.06.2010
+- TOP 8.19.: Baumbesichtigung/Beratung Pfarramt Maria Heimsuchung
+- TOP 8.20.: AW Taubenproblem an der Unterführung in der Barthstraße
+- TOP 8.21.: AW Unrat an der Unterführung in der Barthstr./Landsberger Str.
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Innere Mission München Sommerfest am 25.06.2010
+- TOP 10: Anträge
+- TOP 10.1.: Antrag auf Änderung der BA-Satzung: Anhörungsrecht bei bestimmten Baustelleneinrichtungen
+- TOP 11: Verschiedenes
+- TOP 11.1.: Bildung eines Ferienausschusses
+- TOP 11.2.: Oktoberfesttermin in 2010
+- TOP 11.3.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse
+- TOP 11.4.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten
+- TOP 12: Protokoll und Umlauf
