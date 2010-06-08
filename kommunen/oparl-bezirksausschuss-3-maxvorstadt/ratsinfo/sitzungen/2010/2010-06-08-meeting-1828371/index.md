@@ -1,0 +1,104 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-06-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828371
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828371
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Polizeiinspektion 12: Mitteilungen zu Fragen aus der Sitzung vom 11.05.2010
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Antrag von Bündnis 90/Die Grünen vom 05.04.2010 (modifizierter Antrag aus der Sitzung vom 11.05.2010, TOP B 1.1/052010): Aktualisierung des "Grünkonzeptes Maxvorstadt"
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: Referat für Stadtplanung und Bauordnung, Anhörung zum Beschlussentwurf; Luxussanierungen in der Maxvorstadt, Empfehlungen Nr. 08-14 / E 00473, E 00474 (Ziffer 1) und E 00475 (Ziffer 2) der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt vom 19.11.2009
+- TOP 2: (E) Begrünung der Karlstraße mit Bäumen im Abschnitt Dachauer Straße bis Seidlstraße und der Dachauer Straße an der Haltestelle Karlstraße Empfehlung Nr. 08-14 / E 00466 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 19.11.2009
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission: Liste der Bauvorhaben: 17. KW, 18. KW, 19. KW, 20. KW
+- TOP 2.1.2.: Referat für Stadtplanung und Bauordnung, Bauvorhaben: a) Linprunstraße 18, Neubau eines Vorder- und Rückgebäudes mit Tiefgarage - Vorbescheid b) Steinheilstraße 11, Dachgeschossausbau mit Hofbebauung - Vorbescheid c) Schönfelstraße 13, Umbau von Büros in Teilbereichen im EG und 1. OG d) Dachauer Straße 21, Nutzungsänderung Fitnessbetrieb zu Spielothek e) Dachauer Straße 7, Nutzungsänderung eines Ladens in eine Spielothek f) Barer Straße 77, Nutzungsänderung von Wohnungen in Büros imEG/VGB; Errichtung eines Ersatzbaues für das Nebengebäude mit Änderung in Büronutzung
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde: Liste der Baumfällungen 20. KW
+- TOP 2.2.2.: Maillingerstraße 15, ein Bergahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag von Bündnis 90/Die Grünen im BA 3 vom 06.05.2010 zum Fahrradabstellkonzept einschließlich des mit BA-Antrag vom 10.03.2009 geforderten Verkehrskonzeptes, Fahrradabstellplätze in der Augustensraße (vertagt aus der Sitzung vom 11.05.2010, TOP C 1.3).
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Antrag der FDP-Fraktion im BA 3 vom 31.05.2010: Corso Leopold und Streetlife-Festival am 11. und 12. September 2010; Öffnen der Trasse Von-der-Tann-Straße/Schönfeldstraße während der Veranstaltung
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung, Anhörung: Aufhebung des Fußgängerüberweges Königin-/Schönfeldstraße
+- TOP 2.1.2.: Der Bezirksausschuss 4, Schwabing-West bittet um Unterstützung seines Antrages: Öffnung von Einbahnstraße für den gegenläufigen Radverkehr James-Loeb-Straße und Georgenstraße zwischen Arcis- und Nordendstraße
+- TOP 2.1.3.: Kreisverwaltungsreferat, Radverkehr, Einrichtung Fahrradstraßen; Anhörung
+- TOP 2.1.4.: Kreisverwaltungsreferat, Anhörung: austausch der Lichtzeichenanlage Georgen-/Schleißheimer Straße, Ludwig-/Schellingstraße und Ludwig-/Theresienstraße
+- TOP 2.1.5.: Kreisverwaltungsreferat, Anhörung: Lichtzeichenanlagen-Bauprogramm für 2010
+- TOP 2.1.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Anhörung: Abbau der Lichtzeichenanlge-Masten und Verkehrsregelung Karl-/Meiserstraße (Katharina-von-Bora-Straße)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Entscheidungen über Sondernutzungserlaubnisse: - Amalienstraße 43, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - Türkenstraße 16, mobiler Fahrradständer - Nordendstraße 16, Aufstellung einer neuen Verkaufseinrichtung auf öffentlichem Grund - Schellingstraße 34, Verkaufseinrichtung auf öffentichem Grund - Amalienstraße 37, Verkaufeinrichtung auf öffentlichem Grund - Amalienstraße 47, Verkaufseinrichtung auf öffentlichem Grund - Amalienstraße 47, Verkaufseinrichtung auf öffentlichem Grund - Türkenstraße 31, Verkaufeinrichtung auf öffentlichem Grund - Türkenstraße 67, Verkaufeinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Baureferat, Anhörung: Fahrradstallplatzkonzept (1. Realisierungsabschnitt), Ergebnisse der Detailuntersuchungen und weiteres Vorgehen, Kostendarstellung, Anträge (vertagt aus der Sitzung vom 11.05.2010, TOP C 2.2.2, Unterlagen liegen bereits vor).
+- TOP 2.2.3.: Abfallwirtschaftsbetrieb München, Anhörung: Christbaumsammlung im Winter 2010/2011
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnisse, Freischankflächen: - Schleißheimer Straße 69 - Augustenstraße 94 (N)- Türkenstraße 61
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Anhörung: Breitensportfestival auf dem Königsplatz und Blade Day am 04.07.2010
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungen, Anhörung: Fußballübertragung der Deutschlandspiele im Freien (Hochschul-Public Viewing) am 13.06.2010 im Anwesen Lothstraße 64 und am 18.06.2010 im Anwesen Lothstraße 12.
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Der Bezirksausschuss 15 Truering-Riem bittet um Unterstützung folgender Anträge: - Konsequenzen aus der Briefaktion des e. a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt-Lehel - Task-Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen.
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kath. Deutscher Frauenbund St. Benno Jubiläumsfeier am 04.07.2010
+- TOP 2.2.: Referat für Gesundheit und Umwelt, Anhörung: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik, Diskussionsphase (vertagt aus der Sitzung vom 11.05.2010, TOP D 2.1), Unterlagen liegen bereits vor.
+- TOP 2.3.: Schul- und Kultusreferat, Beschlussvorlage für den Schul- und Sportausschuss am 30.06.2010: errichtung eines Hauses für Kinder mit 3 Kindergarten- und 3 Krippengruppen an der Dachauer Straße 61 im 3. Stadtbezirk Maxvorstadt
+- TOP 1: Anträge (4)
+- TOP 1.1.: Antrag der SPD-Fraktion im BA 3: Veranstaltung eines Jugend-Foto-Wettbewerbs für in der Maxvorstadt lebende Schülerinnen und Schüler im Schuljahr 2010/2011
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budgetangelegenheit: Initiative "84 GHz", Kunst im Karrée, Betrag: 2.500,00 ?
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Absenkung derRradwegkante Luisenstsraße Westseite gegenüber Sophienstraße BA-Antrag Nr. 08-14 / B 01872 des BA 3 Maxvorstadt Antwortschreiben des Baureferates vom 22.04.2010
+- TOP 2.2.: Reaktivierung des Spiel- und Aufenthaltsbereichs am Georg-Elser-Platz BA-Antrag Nr. 02-08 / B 01448 des BA 3 Maxvorstadt Antwortschreiben des Baureferates vom 29.04.2010
+- TOP 2.3.: Kreisverwaltungsreferat: Bescheid für Bücherledung und Errichtung "Brandfleck" auf dem Königsplatz anlässlich des Jahrestages zur Bücherverbrennung am 10.05.2010
+- TOP 2.4.: Kreisverwaltungsreferat, vollzug des Bayer. Straßen- und Wegegesetzes: Erteilung einer öffentlich-rechtlichen Sondernutzungserlaubnis für das Projekt "Wanderbaumallee" in der Schellingstraße durch Green city e. V.
+- TOP 2.5.: Kreisverwaltungsreferat, Absenkung des Bordsteins vor dem Anwesen Richard-Wagner-Straße 7: Antwort des KVR auf eine Anfrage des BA 3(s. TOP A 5.2.1/0410)
+- TOP 2.6.: Kreisverwaltungsreferat: Taxistandplatz Nymphenburgr Straße 5 wird aufgehoben
+- TOP 2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.8.: Kreisverwaltungsreferat: Erlaubnisbescheid für Fahrradstadtrundfahrt anlässlich des Ökumenischen Kirchentages am 13.05.2010
+- TOP 2.9.: Kreisverwaltungsreferat: Erlaubnisbescheid Ökumenischer Kirchentag vom 12. - 16.05.2010
+- TOP 2.10.: Baumaßnahmen der Stadtwrke München: - 19. KW, Linprunstraße, Fernwärme - Türkenstraße 35, Fernwärme
+- TOP 2.11.: Kreisverwaltungsreferat, Genehmigung Blade Night jeweils montags vom 17.05. bis 13.09.2010 mit Start/Ziel am Bavariapark (Stadtbezirk 8)
+- TOP 2.12.: Kreisverwaltungsreferat, Stadtradeln "München radelt für's Klima" des RGU, ausführung ADFC am 11.07.2010, Anhörung; Eilentscheidung des Vorsitzenden
+- TOP 2.13.: Kreisverwaltungsreferat, Streetlife Festival/Corso Leopold in der Ludwig-/Leopoldstraße am 29.05 und 30.05.2010, Nachtrag; Eilentscheidung des Vorsitzenden
+- TOP 2.14.: Münchner Verkehrsgesellschaft mbH (MVG): Information über die Planungen zur Busspur Odeonsplatz und zur Verlegung der Haltestelle im Zuge der Beschleunigung der Linie 100
+- TOP 2.15.: Kreisverwaltungsreferat, Freischankfläche für Schank- und Speisewirtschaft "Frida", Steiheilstraße 10, Seite Enhuberstraße, Unterrichtung: Das KVR beantragt, die Entscheidung des Oberbürgermeisters einzuholen.
+- TOP 2.16.: Kreisverwaltungsreferat, Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG); Sondernutzungserlaubnis Wittelsbacherplatz für Hamburger Fischmarkt vom 03.06. bis 13.06.2010.
+- TOP 2.17.: Kreisverwaltungsreferat, Vollzug des § 29 Abs. 2 der Straßenverkehrsordnung (StVO); Verkehrsrechtliche Erlaubnis für Streetlife Festival/Corso Leopold (Car Free Day) am 29.05. und am 30.05.2010.
+- TOP 3.1.: Fehlende Hortplätze im Neubaugebiet Arnulfpark und in den Grundschulen Blutenburgstraße, Hirschbergstraße und Südl. Auffahrtsallee; Schreiben des BA 9 Neuhausen - Nymphenburg an das Schulreferat
+- TOP 3.2.: Schul- und Kultusreferat: Vollzugdes BayKiBiG; Bescheid über die Anerkennung von Plätzen, Kindertageseinrichtung Dachauer Straße 107
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Wahl Vorsitzende/r des UA Soziales und Bildung
+- TOP 4.3.: Direktorium, Unterrichtung: Nutzung der Stadtteilkulturzentren urch die örtlichen Bezirksausschüsse, Übernahme der Hälfte der Mietkosten ab 01.01.2010
+- TOP 4.4.: Stadtkämmerei: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014
+- TOP 4.5.: Direktorium, Beteiligung der Bezirksausschüsse im Volzug der Baumschutzverordnung, Unterrichtung: Verfahrensumstellung auf "PRO-LBK", Abschluss des Pilotprojekts bei der BA-Geschäftsstelle Ost für die Bezirksausschüsse 13 - 18; Ausweitung des "Digitalen Beteiligungsverfahrens für die BAs" auf alle Bezirksausschüsse ab 15.06.2010
+- TOP 4.6.: Direktorium, Unterrichtung: Änderung der BA-Satzung; Bildung eines Ferienausschusses
+- TOP 4.7.: Antrag des Vorsitzenden zur Bildung eines Ferienausschusses vom 01.06.2010
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
