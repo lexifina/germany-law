@@ -1,0 +1,69 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-06-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1906694
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1906694
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 13.04.10 und 04.05.10
+- TOP 2: Anträge
+- TOP 2.1.: Raumsituation an der GS Zielstattstraße
+- TOP 2.2.: Keine weiteren Neonazi-Aufmärsche
+- TOP 2.3.: Feststellung der Verletzung der Satzungsrechte des BA 19 - Baumschutz
+- TOP 2.4.: Ablehnung Autobahnsüdring A 99
+- TOP 2.5.: Zulassung eines Standes am "Tag der Vereine" für die Bürgerinitiative "Forstenrieder Park ohne Schießanlage"
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Sommerfest der Inneren Mission München
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Lärmschutzwall BAB 95
+- TOP 4.3.: Neues Beteiligungsverfahren im Vollzug der Baumschutzverordnung
+- TOP 4.4.: Christbaumentsorgung im Winter
+- TOP 4.5.: Novellierung der Bade- und BootVO
+- TOP 4.6.: Containerstandort Seumestraße
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Einrichtung von Fahrradstraßen
+- TOP 5.2.: Austausch der LZA Boschetsrieder- / Wolfratshauser Straße
+- TOP 5.3.: LZA - Bauprogramm 2010
+- TOP 5.4.: Kurzparkzone Scheidegger Straße
+- TOP 5.5.: Tiefgaragen-Ausfahrtsbereich Forstenrieder Allee 214, 216 / Blaichacher Str. 4
+- TOP 5.6.: Verkehrsführung Thalkirchen
+- TOP 5.7.: Radwege; Umlaufsperren
+- TOP 5.8.: Einrichtung einer Bücherbushaltestelle in der Konrad-Witz-Straße
+- TOP 5.9.: Empfehlung BV vom 21.04.09 zum Thema "Stäblistraße"
+- TOP 5.10.: Baustelle Schäftlarnstraße
+- TOP 5.11.: Fragenkatalog zur Tramwesttangente
+- TOP 5.12.: Grenzmarkierung Gmunder Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Bebauungsplan Neuried
+- TOP 6.3.: Bauvorhaben Lochhamer Str. 67
+- TOP 6.4.: Kurzbauerstr. 2a
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Mittagsbetreuung GS Herterichstraße
+- TOP 7.2.: Kindergarten Herterichstraße
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Freischankfläche Baierbrunner Str. 20
+- TOP 8.2.: Warenstellage Kistlerhofstr. 111
+- TOP 8.3.: Warenstellage Herterichstr. 103
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Antrag auf Zweckentfremdung Filchnerstraße
+- TOP 9.2.: Sommerfest Gierlinger Park
+- TOP 9.3.: "Tag der offenen Tür" - Cowboyclub
+- TOP 9.4.: Gleichbehandlung aller Ba-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten
+- TOP 9.5.: Veranstaltung der "Spiellandschaft" am Gierlinger Park
+- TOP 9.6.: Feuerwerk Bräutigamstraße 18
+- TOP 9.7.: Antrag auf Zweckentfremdung Leutstettener Straße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
