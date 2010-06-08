@@ -1,0 +1,8 @@
+# TOP 6: Vorstellung der Aktivitäten 2010 der Arbeitsgruppe "Spenge kreativ"
+
+- Sitzung: Kulturausschuss (2. Sitzung) (2010-06-08)
+- Körperschaft: Stadt Spenge
+- Öffentlich: ja
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/546
+- Beratung: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/238
+- Beschluss (Datei): Infotext (Vorstellung der Aktivitäten 2010 der Arbeitsgruppe "Spenge kreativ") https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZff4R1dSvcxJSNt6rtll_s1WZcJ7DPQdm-2esuQIaZj9/Infotext_90-2010_-oeffentlich-_Kulturausschuss_08.06.2010.pdf
