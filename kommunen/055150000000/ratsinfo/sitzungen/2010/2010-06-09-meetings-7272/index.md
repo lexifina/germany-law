@@ -1,0 +1,61 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-06-09T18:18:00+02:00
+- Ende: 2010-06-09T21:16:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7272
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7272
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00294408.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 6.1: Herkunft des Materials (insbesondere Pflastersteine) für die Innenstadt
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Vorschlag des Integrationsrates zu einer Resolution gegen die Abschiebung von Minderheiten in den Kosovo und zur Veränderung des Bleiberechts - einstimmig beschlossen
+- TOP 9: Eckwerte für den Haushaltsplan 2011 und Konzept zur Haushaltskonsolidierung - eingebracht
+- TOP -: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2004 - 2006 und Frauenförderplan 2010 - 2012 - von der Tagesordnung abgesetzt
+- TOP 10: Überplanmäßige Mittel für den Ausbau der Straßen Rothenburg, Königsstraße, Ludgeristraße einschl. Marienplatz - mehrheitlich geändert beschlossen
+- TOP 11: Satzung zur Änderung der Hauptsatzung und Änderung der Zuständigkeitsordnung - einstimmig geändert beschlossen
+- TOP 12: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2009 - einstimmig beschlossen
+- TOP 13: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Bereich Hammer Straße und im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus - mehrheitlich beschlossen
+- TOP 14: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Vierter Zwischenbericht) - mehrheitlich beschlossen
+- TOP 14.1: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Vierter Zwischenbericht)
+- TOP 15: Preis der Stadt Münster für europäische Poesie - mehrheitlich beschlossen
+- TOP 16: Neufassung "Allgemeine Bedingungen für den Besuch der Tageseinrichtungen für Kinder in der Trägerschaft der Stadt Münster" - einstimmig beschlossen
+- TOP 17: Änderung derElternbeitragstabellen für die Erhebung von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen nach der Sa - mehrheitlich geändert beschlossen
+- TOP 18: Fahrdienst für Menschen mit Behinderungen: Wegfall der Eigenbeteiligung - mehrheitlich beschlossen
+- TOP 19: 5. Fortschreibung des Abwasserbeseitigungskonzeptes 2009 der Stadt Münster - einstimmig beschlossen
+- TOP 20: Bauleitplanung
+- TOP 20.1: Stadtbezirk Münster-Mitte
+- TOP 20.1.1: Vorhabenbezogener Bebauungsplan Nr. 534 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 20.2: Stadtbezirk Münster-West
+- TOP 20.2.1: 29. Änderung des Flächennutzungsplanes - von der Tagesordnung abgesetzt
+- TOP 20.2.1.1: 29. Änderung des Flächennutzungsplanes
+- TOP 21: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien und 2. Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - einstimmig geändert beschlossen
+- TOP 22: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster - einstimmig beschlossen
+- TOP 23: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 23.1: Resolution an Landtag und Landesregierung - Für eine Neuausrichtung der NRW-Wohnungspolitik" - mehrheitlich beschlossen
+- TOP 24: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 24.1: Bildung ernst nehmen - Hauptschülern eine Perspektive geben - verwiesen
+- TOP 24.2: - Autofreie Innenstadt - Teilnahme am World-Carfree-Day durch die Stadt Münster - verwiesen
+- TOP 24.3: Münster als Stadt des Friedens - Volkstrauertag anders begehen - verwiesen
+- TOP 24.4: Aktionsplan "Inklusives Gemeinwesen Stadt Münster" - verwiesen
+- TOP 24.5: Ort der Kulturen und Religionen der Welt - verwiesen
+- TOP 24.6: Städtische Besteuerungspraxis gegenüber Unternehmen in der Krise - verwiesen
+- TOP 24.7: Gutes Essen in der Schule - für alle! - verwiesen
+- TOP 24.8: Schulterschluss mit der Region .Für eine Strategie der interkommunalen Partnerschaft - verwiesen
+- TOP 24.9: "Coermühle an Wochenenden sperren" - verwiesen
+- TOP 24.10: Geplanter Bau eines Funkmastes auf dem Gelände der Landespolizeischule, Weseler Str. 264 - verwiesen
+- TOP 25: Verschiedenes
