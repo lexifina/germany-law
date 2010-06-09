@@ -1,0 +1,87 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-06-09T17:10:00+02:00
+- Ende: 2010-06-09T21:45:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2349
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2349
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=48060
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - vertagt
+- TOP 2: Einwohnerfragestunde - vertagt
+- TOP 3: Konsensliste - vertagt
+- TOP 4: Mündliche Anfragen - vertagt
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - in der BVV abgelehnt
+- TOP 5.1: Situation im Maßregelvollzug in Reinickendorf (Große Anfrage 12.05.2010) - vertagt
+- TOP 5.2: Zukunft der Wiesengrundschule (Große Anfrage 12.05.2010) - überwiesen
+- TOP 5.2.1: Erhalt Wiesengrundschule - überwiesen
+- TOP 5.2.2: Schulanfangsphase im Wiesengrund - überwiesen
+- TOP 5.3: Dezentrale Kulturarbeit für alle! (Große Anfrage 12.05.2010) - überwiesen
+- TOP 5.3.1: Dezentrale Kulturarbeit - überwiesen
+- TOP 5.4: ÖPNV-Verbindung zum Freibad Lübars (Beschlussempfehlung 12.05.2010) - in der BVV abgelehnt
+- TOP 5.5: 65. Jahrestag Kriegsende (Beschlussempfehlung 12.05.2010) - erledigt
+- TOP 5.6: Sonder-Bauprogramm für Schulstrukturreform (Ersuchen 12.05.2010) - überwiesen
+- TOP 5.7: Unterstützung GSW-Mieter (Empfehlung 12.05.2010) - überwiesen
+- TOP 6: Feststellungen - erledigt
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 7.1: "Bolzplatz" im Tegeler Forst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Fertigen von Ausschussprotokollen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Planmäßige Stelle im Büro der Bezirksverordnetenversammlung besetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: EC-Karten-Zahlung in der Graphothek ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Die STASI in Reinickendorf - Geschichtliche Aufklärung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Sichere Straßenüberquerung des Hermsdorfer Damms in der Höhe Olafstraße (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Berlin-Marathon durch Reinickendorf führen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Broschüre des Senats von Berlin "Das Grüne Berlin" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Tempo 30 in der Zeltinger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Kinderfreundliches Reinickendorf II - Cities for Children - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Gegen linksextreme Gewalt in Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Jahresbericht 2009 des Patientenfürsprechers im Vivantes- Humboldt-Klinikum - überwiesen
+- TOP 7.13: Jahresbericht 2009 der Patientenfürsprecherin der Psychiatrie des Vivantes Netzwerkes für Gesundheit GmbH am Standort: Am Nordgraben - überwiesen
+- TOP 8: Große Anfragen - erledigt
+- TOP 9: Vorlagen zur Beschlussfassung - erledigt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Wirtschaftsfreundliches Reinickendorf - erledigt
+- TOP 10.2: Festival of Lights auch in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Nachbarschaftszentrum Amendestraße - in der BVV abgelehnt
+- TOP 10.4: Verbot von Müllabwurfanlagen verhindern - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Berücksichtigung städtebaulicher Kriminalprävention - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bericht über Zusammenarbeit Jugendhilfe und Schule erstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Gute-Nacht-Café in Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Nachnutzung Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Tag der Ausbildung - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Kinderfreundliches Reinickendorf III - "Aufsuchende Elternhilfe" - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: NEB-Insel - erledigt
+- TOP 10.12: Mädchenarbeit in Jugendeinrichtungen - erledigt
+- TOP 10.13: Inventar Bollerwagen wieder zentral verwalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Kinderfreundliches Reinickendorf V - Kinderfußgängerschein - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Familien- und kinderfreundlicher Bezirk - Kita-Messe Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Grundschulreform des Senats ein Erfolgsprojekt? - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Jahrgangsübergreifendes Lernen in der Schulanfangsphase nur auf freiwilliger Basis - Schulen vom JÜL-Zwang befreien! - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Ganztagsgymnasien nicht schlechter stellen als Sekundarschulen: Ausstattung mit Lehrerstunden vergleichbar gestalten! Lehrerstellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Kindern von Klasse 1 bis 6 Hortbesuche ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Elektronische Akte - Zukunftsmusik oder bereits Wirklichkeit in Reinickendorf? - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Migrantinnen/Migranten und Gesundheitsangebote - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Cité Foch auf dem Weg in die Verwahrlosung - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Erneuerung und Verbesserung der Alemannenstraße zwischen Maximiliankorso und Neubrücker Straße - überwiesen
+- TOP 11: Anträge - erledigt
+- TOP 12: Ersuchen - erledigt
+- TOP 12.1: Flusskreuzschifffahrtsanleger - überwiesen
+- TOP 12.2: Fällungen im Fließtal - überwiesen
+- TOP 12.3: Bekämpfung der Miniermotte - überwiesen
+- TOP 12.4: Spielplatzflächen in Reinickendorf - überwiesen
+- TOP 12.5: Radfahrstreifen Holzhauserstraße - überwiesen
+- TOP 12.6: Bürotürschilder im "neuen Kleid" - überwiesen
+- TOP 12.7: Barrierefreiheit am Neubau an der Chamisso-Grundschule - überwiesen
+- TOP 12.8: Kreisverkehre Ruppiner Chaussee - überwiesen
+- TOP 12.9: Verkehrsregelung Rue Racine - überwiesen
+- TOP 12.10: Barrierefreiheit an der Chamisso-Grundschule - überwiesen
+- TOP 13: Empfehlungen - erledigt
+- TOP 13.1: Ampelschaltung Jean-Jaures-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Betrieb der Linie S 85 wieder aufnehmen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Werbung für Volksfeste im öffentlichen Straßenland - überwiesen
