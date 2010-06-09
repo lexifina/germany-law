@@ -1,0 +1,86 @@
+# 34. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-06-09T17:30:00+02:00
+- Ende: 2010-06-09T21:27:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2644
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2644
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=40575
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Nichtverträgliche Verdichtung im Prenzlauer Berg vermeiden und Freiflächen sichern - vertagt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Ausschussbesetzung - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Beschluss über den Bebauungsplan 3-23 für die Grundstücke Berliner Allee 24/28, Bizetstraße 17/21 und einen Abschnitt der Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Optimierung der Busverbindungen nach Blankenfelde und Glienicke - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Alkoholprävention im Bezirk stärken - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Kürzung von Eingliederungsleistungen 2010 verhindern - Pankower Schwerpunktsetzung bei Verteilung der Eingliederungsmittel - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Wirksamkeit der Pflegestützpunkte und ihre weitere Entwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Komödienhaus Pfefferberg - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Wanderausstellung "Opfer rechter Gewalt in Deutschland seit 1990" präsentieren! - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Die nachhaltige Entwicklung der Botanischen Anlage Blankenfelde wirksam unterstützen - überwiesen
+- TOP 1.18: Autobahnanschlussstelle für Karow und Buch - überwiesen
+- TOP 1.19: Haltestellenumbenennung - in der BVV abgelehnt
+- TOP 1.20: Städtebauliches Entwicklungskonzept für die Flächen rund um den Weißen See - mit Änderungen in der BVV beschlossen
+- TOP 1.21: Fortschreibung StEP Verkehr - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Fußgängerfreundliche Gestaltung in der Stargader Straße vor der Gethsemanekirche - überwiesen
+- TOP 1.23: Life-Science-Center (LSC) in Buch - beantwortet
+- TOP 1.24: Kein Turmbahnhof am "Karower Kreuz" - überwiesen
+- TOP 1.25: Spielleitplan umsetzen - vertagt
+- TOP 1.26: Anmeldung des Bezirks Pankow zum berlinweiten Modellprojekt "Begegnungszonen" - überwiesen
+- TOP 1.27: Parkraumbewirtschaftung - Parkzone 43 - vertagt
+- TOP 1.28: Stammstrecke der Heidekrautbahn über Wilhelmsruh und Pankow-Park endlich wieder in Betrieb nehmen - vertagt
+- TOP 1.29: Entwicklung der nördlichen Berliner Allee und des angrenzenden Parks am Weißen See - beantwortet
+- TOP 1.30: Ausstellung "Gegen die Regeln" zeigen - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Gartenarbeitsschule Galenusstraße - vertagt
+- TOP 1.32: Abstandsflächen - überwiesen
+- TOP 1.33: Stadtbad Oderberger Straße - Verkauf nur mit der Auflage "Schwimmbad" - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Hinweisschilder Schloss Schönhausen - vertagt
+- TOP 1.35: Brücke Sudauer Straße im Ortsteil Buch - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Denkmalschutzbericht erstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Generationsübergreifende Nutzung kommunaler Einrichtungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Beteiligungsrechte sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Durchführung einer Spielleitplanung in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Weg zur Schulzestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Für ein Gesamtberliner Datenbanksystem der bezirklichen Museen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Mehr Verkehrssicherheit für Fußgänger und Fahrradfahrer an der Kreuzung am S-Bahnhof Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Entlastung von stupiden Tätigkeiten - Plan zur RFID-Einführung vorlegen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Datenschutzfragen klären, Klarheit schaffen: Endlich Sicherheit für die Kurt-Tucholsky-Bibliothek! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Verkehrssicherheit in der Pankgrafenstraße erhöhen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Begrenzung des Flächenverbrauchs und Bodenschutz - vertagt
+- TOP 2.16: Skulpturen-Diebstähle in Zukunft verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Schilderwald in der Langhansstraße im OT Weissensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Verbesserung der Erreichbarkeit der Robert-Havemann-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Bundeshauptstadt der Biodiversität - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Mehr Verkehrssicherheit für den Radverkehr in Pankow Süd - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Initiative im Eliashof - vertagt
+- TOP 2.22: Für einen neuen Flächennutzungsplan - Stärkung des Klimaschutzes und Reduzierung der Bodenneuversiegelung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Modernisierung Breite Straße 28 - 30 sowie 31 a - h durch die GESOBAU - vertagt
+- TOP 2.24: Antrag auf zeitliche Verlängerung des Sanierungsgebietes Bötzowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Eingliederung in Arbeit ohne Sperren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Erinnerung an den 50. Jahrestag der Errichtung der Berliner Mauer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Beteiligung am Stiftungspreis 2010: "Die seniorenfreundlichste Stadt: Aktivieren, integrieren und unterstützen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Keine Reduzierung von Musikunterricht - vertagt
+- TOP 2.29: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Grundstück: Oderberger Str. 19 (Hirschhof) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Bebauungsplan 3-31B für das Gelände zwischen Eberswalder Straße, Schönhauser Allee, Kastanienallee und Oderberger Straße mit Ausnahme der Grundstücke Oderberger Straße 19 und Kastanienallee 10-12 (teilweise) im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Bebauungsplanentwurf 3-23 für die Grundstücke Berliner Allee 24/28, Bizetstraße 17/21 und einen Abschnitt der Bizetstraße im Bezirk Pankow, OT Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Ausbildungspreis 2009/2010 der Ausbildungsoffensive Pankow - mit Abschlussbericht zur Kenntnis genommen
