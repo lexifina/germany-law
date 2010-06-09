@@ -1,0 +1,51 @@
+# 5. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-06-09T17:05:00+02:00
+- Ende: 2010-06-09T21:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7342
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7342
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00294479.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Gemeinsamer Antrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen/GAL, Fraktion Die LINKE, Ratsgruppe UWG/ödp, - mehrheitlich beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion Nr. A-R 0024/2010 - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der Ratsfraktion DIE LINKE Nr.: A-R/0042/2010 - mehrheitlich beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion Nr. A-R/0045/2010 vom 21.04.2010 - einstimmig beschlossen
+- TOP 2.5: Antrag der Ratsfraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0041/2010 "Planungen Knotenpunkt B51/Warendorfer Straße überarbeiten" - einstimmig beschlossen
+- TOP 2.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.7: Anregung ABV/0002/2010 der Bezirksvertretung Münster-Mitte an den Rat "Hinweistafel mit erläuterndem Text zum Traindenkmal errichten" - einstimmig geändert beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgestellte bei der Stadt Münster - zur Kenntnis genommen
+- TOP 4: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2011 - einstimmig geändert beschlossen
+- TOP 4.1: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2011
+- TOP 5: Interfraktioneller Antrag an den Rat A-R/0023/2008 "Münster als Stadt des Friedens weiter profilieren". Konkretisierte Verfahrensempfehlungen - einstimmig beschlossen
+- TOP 6: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung und Projektförderung 2010) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Satzung zur Änderung der Hauptsatzung und Änderung der Zuständigkeitsordnung - ohne Beschlussfassung geschoben
+- TOP 8: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2004 - 2006 und Frauenförderplan 2010 - 2012 - von der Tagesordnung abgesetzt
+- TOP 9: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2009 - einstimmig beschlossen
+- TOP 10: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Bereich Hammer Straße und im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus - ohne Beschlussfassung geschoben
+- TOP 11: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Vierter Zwischenbericht) - mehrheitlich beschlossen
+- TOP 11.1: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Vierter Zwischenbericht)
+- TOP 12: Preis der Stadt Münster für europäische Poesie - einstimmig beschlossen
+- TOP 13: Neufassung "Allgemeine Bedingungen für den Besuch der Tageseinrichtungen für Kinder in der Trägerschaft der Stadt Münster" - einstimmig beschlossen
+- TOP 14: Änderung derElternbeitragstabellen für die Erhebung von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen Ganztagsschulen nach der Sa - einstimmig geändert beschlossen
+- TOP 15: Fahrdienst für Menschen mit Behinderungen: Wegfall der Eigenbeteiligung - einstimmig beschlossen
+- TOP 16: 5. Fortschreibung des Abwasserbeseitigungskonzeptes 2009 der Stadt Münster - einstimmig beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk Mitte
+- TOP 17.1.1: Vorhabenbezogener Bebauungsplan Nr. 534 - Beschluss zur Aufstellung - einstimmig beschlossen
+- TOP 17.2: Stadtbezirk West
+- TOP 17.2.1: 29. Änderung des Flächennutzungsplanes - von der Tagesordnung abgesetzt
+- TOP 17.2.1.1: 29. Änderung des Flächennutzungsplanes
+- TOP 18: 1. Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien und 2. Entsendung von sachkundigen Einwohnern/innen in Ausschüsse des Rates - einstimmig beschlossen
+- TOP 19: Öffentlichkeit und Transparenz beim Promenadenflohmarkt herstellen - einstimmig beschlossen
+- TOP 20: Verschiedenes
