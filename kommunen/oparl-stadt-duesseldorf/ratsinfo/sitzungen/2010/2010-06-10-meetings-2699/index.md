@@ -1,0 +1,72 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-06-10T14:00:00+02:00
+- Ende: 2010-06-10T18:50:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2699
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2699
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142301.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142301.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142301.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Aktuelle Anfragen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage CDU und FDP: Ausschreibung und Vergaben städtischer Aufträge - beantwortet
+- TOP 3.2: Anfrage der Ratsfraktionen von CDU und FDP: Familienzentren in Düsseldorf - beantwortet
+- TOP 3.3: Anfrage Bü90/Grü: Kriterien zur Ausschreibung Lieferung elektrischer Energie 2010 - beantwortet
+- TOP 3.4: Anfrage SPD: Nichtteilnahme der Verwaltung am Ortstermin Franklinstraße - schriftlich beantwortet
+- TOP 4: Anträge
+- TOP 4.1: Antrag LINKE: Einführung einer Kulturförderabgabe - mehrheitlich abgelehnt
+- TOP 4.2: Antrag Bü90/Grü: Aktivitäten der Stadt Düsseldorf zum Europäischen Jahr 2011 der Frei-willigentätigk - mehrheitlich abgelehnt
+- TOP 4.3: ÄA CDU und FDP: Aktivitäten der Stadt Düsseldorf zum Europäischen Jahr 2011 der Freiwilligentätigkei - mehrheitlich beschlossen
+- TOP 4.4: Antrag Bü90/Grü: Einmalige Erhöhung der Mittel für die Förderung von MigrantInnenvereinen - mehrheitlich abgelehnt
+- TOP 4.5: Antrag SPD: Bürgersprechstunde in den Fachausschüssen - mehrheitlich abgelehnt
+- TOP 4.6: ÄA Bü90/Grü: Bürgersprechstunden in den Fachausschüssen - mehrheitlich abgelehnt
+- TOP 4.7: Antrag Bü90/Grü: Ausstellung gegen die Regeln - Lesben und Schwule im Sport - mehrheitlich beschlossen
+- TOP 4.8: Antrag Bü90/Grü: Stellungnahme zum Entwurf des Landesentwicklungsplans - zur Kenntnis genommen
+- TOP 4.9: Antrag DIE LINKE: Bürgeranhörung Franklinstraße - zurückgezogen
+- TOP 5: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - Haushaltsjahr 2010 - mehrheitlich beschlossen
+- TOP 6: Umsetzung des Konjunkturpaketes II - Sachstandsbericht - mehrheitlich beschlossen
+- TOP 7: Umbau Allwetterbad - mehrheitlich beschlossen
+- TOP 8: ÄA DIE LINKE: Umbau des Allwetterbades Flingern - mehrheitlich abgelehnt
+- TOP 9: Oberbilker Markt - einstimmig beschlossen
+- TOP 10: Fortschreibung des Rettungsdienstbedarfsplans sowie 2. Änderung der Gebührentarife zur Gebührensatzu - mehrheitlich beschlossen
+- TOP 11: BestandsInvest – Aufhebung der Koppelung des städt. Programms mit dem Landesprogramm NRW - einstimmig beschlossen
+- TOP 12: Satzung „Düsseldorfer Jugendrat“ - einstimmig beschlossen
+- TOP 13: Satzung zur Bestimmung von Fristen für Dichtheitsprüfungen nach § 61 a LWG NRW - Beschluss - und Inf - einstimmig beschlossen
+- TOP 14: Kuratorium des NRW-Forum Kultur und Wirtschaft e.V. - mehrheitlich beschlossen
+- TOP 15: Verbandsversammlung des Zweckverbandes IT-Kooperation Rhein/Ruhr - mehrheitlich beschlossen
+- TOP 16: Verbandsversammlung des Bergisch-Rheinischen Wasserverbandes - mehrheitlich beschlossen
+- TOP 17: Verbandsversammlung des Zweckverbandes Erholungsgebiet Unterbacher See - mehrheitlich beschlossen
+- TOP 18: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - mehrheitlich beschlossen
+- TOP 19: Aufsichtsrat der Rheinbahn AG - mehrheitlich beschlossen
+- TOP 20: Aufsichtsrat Städtische Wohnungsgesellschaft Düsseldorf AG (SWD) - einstimmig beschlossen
+- TOP 21: Aufsichtsrat der Sana Kliniken Düsseldorf GmbH - mehrheitlich beschlossen
+- TOP 22: Aufsichtsrat der Neue Schauspiel-Gesellschaft mbH - einstimmig beschlossen
+- TOP 23: Kommission nach § 32 b Luftverkehrsgesetz - mehrheitlich beschlossen
+- TOP 24: Aufsichtsrat der Düsseldorfer AWISTA GmbH - einstimmig beschlossen
+- TOP 25: Aufsichtsrat Flughafen Mönchengladbach GmbH - mehrheitlich beschlossen
+- TOP 26: Verwaltungsrat der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 27: Genehmigung 60er
+- TOP 28: Genehmigung eines 60er-Beschlusses: Sanierung der Feuerwache Frankfurter Straße 245 - mehrheitlich beschlossen
+- TOP 29: Genehmigung 60er: Neubau Basisstraße und Umbau Heerdter Dreieck - mehrheitlich beschlossen
+- TOP 30: Genehmigung 60er: Benninghauser Straße - mehrheitlich beschlossen
+- TOP 31: Genehmigung 60er: Aufgabe der städtischen Jugendfreizeiteinrichtung Frankfurter Straße - mehrheitlich beschlossen
+- TOP 32: Genehmigung 60er: Aufgabe der städtischen Spielanlage Wittenberger Weg - mehrheitlich beschlossen
+- TOP 33: Namensänderung für das städt. Schloß-Gymnasium - mehrheitlich beschlossen
+- TOP 34: Annahme einer Schenkung - mehrheitlich beschlossen
+- TOP 35: Annahme einer Schenkung - mehrheitlich beschlossen
+- TOP 36: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2009 - mehrheitlich beschlossen
+- TOP 37: Planungsmaßnahmen
+- TOP 38: Beitrittsbeschluss FNP-Ä Nr. 116 - Hafen - mehrheitlich beschlossen
+- TOP 39: Förderung von Migrantenvereinen - mehrheitlich abgelehnt
+- TOP 40: Änderungssatzung der städtischen Satzung über die Durchführung von Bürgerbegehren und Bürgerentschei - einstimmig beschlossen
+- TOP 41: Kuratorium der Stiftung "Kunstsammlung Nordrhein-Westfalen" - einstimmig beschlossen
+- TOP 42: Umbesetzung von Ausschüssen - einstimmig beschlossen
