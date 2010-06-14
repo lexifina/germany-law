@@ -1,0 +1,100 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842071
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842071
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Indianische Schwitzhüttenzeremonie sucht passenden Standort
+- TOP 1.2.: Verkehrssituation Pfingstrosenstraße
+- TOP 1.3.: Verbesserung der Verkehrssicherheit im Bereich Marchioninistraße / Ecke Feodor-Lynen-Straße
+- TOP 1.4.: Wertstoffcontainer Guardinistraße; Fahrradweg
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 3.3.: UA Soziales
+- TOP 3.4.: UA Kinder / Jugend / Schule / Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 1: Tempo 30 und Vorfahrtsregelung in der Pfingstrosenstraße; verstärkte Überwachung und Durchsetzung (Ziffer 1 des Antrages) zusätzliche Kennzeichnung des Tempo 30 auf dem Asphalt (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 00355 der Bürgerversammlung des 20. Stadtbezirkes Hadern am 29.09.2009 (Kreisverwaltungsreferat, 20.05.10)
+- TOP 1.2.: Budget der Bezirksausschüsse, Elternbeirat der Guardini-Grundschule, Trommler-Workshop vom 14. - 18.06.2010 (Direktorium, 17.05.10)
+- TOP 1.3.: Budget der Bezirksausschüsse, Regsam, Nachbarschaftsfest am 26.06.10 (Direktorium, 26.05.10)
+- TOP 1.4.: Budget der Bezirksausschüsse, Nachbarschaftstreff Blumenau, Erstellung eines Flyers "Blumenau-Info" (Direktorium, 27.05.10)
+- TOP 1.5.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz, MFM-Projekt am 01./02.07.2010 (Direktorium, 27.05.10)
+- TOP 1.6.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des OB vom 26.11.2007, hier: Vinzenz Zöttl Bäckerei-Konditorei GmbH Co. KG Hönigschmidplatz 7 (Kreisverwaltungsreferat, 09.06.10)
+- TOP 1.7.: Budget der Bezirksausschüsse, Bürgerinitiative BIBAB96-München, Mitgliederversammlung am 21.07.2010 (Direktorium, 07.06.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Lichtzeichenanlagen-Bauprogramm für 2010 (Kreisverwaltungsreferat, 06.05.10)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Großhaderner Straße, Tag der offenen Tür der FFW am 12.06.2010 (Kreisverwaltungsreferat, 17.05.10) Entscheidung des Vorstandes: Zustimmung
+- TOP 6.3.: Radverkehr; Einrichtung von Fahrradstraßen (Kreisverwaltungsreferat, 03.05.10)
+- TOP 6.4.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik, Diskussionsphase (Referat für Gesundheit und Umwelt, 18.05.10)
+- TOP 6.5.: Christbaumentsorgung im Winter 2010/11 (AWM, 20.05.10)
+- TOP 6.6.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten, Antrag-Nr. 1141 des BA 5 (Direktorium, 20.05.10)
+- TOP 6.7.: Großhaderner Straße, Errichtung eines Wohngebäudes (30 WE + Verwaltung) mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 18.05.10)
+- TOP 6.8.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Straßenfest Wilhelm-Weitling-Straße am 24.07.2010 (Kreisverwaltungsreferat, 01.06.10)
+- TOP 6.9.: Niederhedernstraße 1, Neubau einer Pension mit Tagescafé und Tiefgarage (Referat für Stadtplanung und Bauordnung, 01.06.10)
+- TOP 6.10.: Krokusstraße 63, Aufstockung der Bestandsgebäude Krokusstraße 63 - 69 / Willibaldstr. 148 - 154 - Vorbescheid (Referat für Stadtplanung und Bauordnung, 01.06.10)
+- TOP 6.11.: Veranstaltung auf Privatgrund, hier: Public Viewing zur Fußball WM 2010 der Ev. Simeonsgemeinde in der Violenstraße 6 vom 13.06. - 07.07.2010 (Kreisverwaltungsreferat, 07.06.10) Eilentscheidung des BA-Vorsitzenden: Zustimmung
+- TOP 6.12.: Erfahrungsbericht zum Haderner Dorffest (Kreisverwaltungsreferat, 11.06.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Wildtaubenweg 3, 1 serbische Fichte
+- TOP 7.2.: Großhaderner Straße, gem. Baumbestandsplan Nr. 9400
+- TOP 7.3.: Wilhelm-Weitling-Straße 19, 1 Douglasie
+- TOP 7.4.: Brunellenweg 30, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Beteiligung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf "PRO-LBK"; Abschluss des Pilotprojekts bei der BA-Geschäftsstelle Ost für die Bezirksausschüsse 13 - 18; Ausweitung des "Digitalen Beteiligungsverfahren für die BAs" auf alle Bezirksausschüsse ab 15.06.2010 (Direktorium, 10.05.10)
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Platanenstraße (Sozialreferat, 10.05.10) - Am Waldspitz (Sozialreferat, 18.05.10) - Kurparkstraße (Sozialreferat, 19.05.10) - Haderunstraße (Sozialreferat, 19.05.10)
+- TOP 8.3.: Jahresdokumentation 2009, Sport in München (Schul- und Kultusreferat, 26.04.10)
+- TOP 8.4.: Nutzung der Stadtteilkulturzentren durch die örtlichen Bezirksausschüsse; Übernahme der Hälfte der Mietkosten ab 01.01.2010 (Direktorium, 30.04.10)
+- TOP 8.5.: Information zur Auswahl der Gebiete mit besonderem Handlungsbedarf für REGSAM (Sozialreferat, 07.05.10)
+- TOP 8.6.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014 (Stadtkämmerei, 07.05.10)
+- TOP 8.7.: Leitlinie Bildung - Dokumentation der Öffentlichkeitsphase (Schul- und Kultusreferat, 12.05.10)
+- TOP 8.8.: Verkehrsrechtliche Anordnung, hier: Vorübergehende Einrichtung einer Bücherbushaltestelle in der Guardinistraße 88 (Kreisverwaltungsreferat, 02.06.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Regelung von Gastschulanträgen (Schul- und Kultusreferat, 06.05.10)
+- TOP 9.2.: Annahme von Kunststoffverpackungen an den Wertstoffhöfen (AWM, 27.04.10)
+- TOP 9.4.: Geh- und Radweg von der Blumenauer Straße über den Lobelienweg Richtung Baumschule (Baureferat, 12.05.10)
+- TOP 9.5.: Oberirdische Verteilerkästen Würmtalstraße / Heiglhofstraße (Baureferat, 20.05.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Poststelle im REWE-Geschäft in der Terofalstraße 19, Änderung im Filialnetz, neue Poststelle: Terofalstraße 6 (Deutsche Post, 19.05.10)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anträge des BA 15 mit der Bitte um Unterstützung: - Task-Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen, BA-Antr. Nr. 2070 vom 22.04.10 - Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richter und Unterstützung des Anliegens des BA 1 Altstadt-Lehel, BA-Antr. Nr. 2069 vom 22.04.10
+- TOP 11.2.: Infobrief Nr. 26 des Ausländerbeirates München (Ausländerbeirat, 03.05.10)
+- TOP 11.3.: Hof- und Vorgartenwettbewerb 2010/2011, Teilnehmer-Werbung (Baureferat, 30.04.10)
+- TOP 11.4.: SHZ-Rundbrief ist online (Selbsthilfezentrum München, 01.06.10)
+- TOP 11.5.: Flyer Fachforum "Gutes Raumklima zum Wohnen und Arbeiten" und "Trinkwasser-Erwärmung mit Frischwasser-Systemen" (Referat für Gesundheit und Umwelt, 01.06.10)
+- TOP 11.6.: Dank des Städtischen Tagesheims an der Großhaderner Straße 50 für Zuschuss aus dem BA-Budget
+- TOP 11.7.: Reservierung der Ratsboxe für das Oktoberfest (Direktorium, 08.06.10)
+- TOP 11.8.: Einladung zum Kinderforum in der Blumenau am 09.07.2010 (Münchner Kinder- und Jugendforum, 10.06.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 28.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03620: Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03728: Nutzung erneuerbarer Energien im Städtebau
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03858: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03831: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau (Nr. 44, Zuschuss 207.101,- ?) und - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 (Nr. 67, Zuschuss 50.267,- ?)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03873: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus Wolkerweg" (Nr. 56, Zuschuss 198.148,- ?), - zum "PfiffTEEN Treffpunkt für Jugendliche" (Nr. 57, Zuschuss 307.167,- ?), - zum "Treff 21, Schule-Beruf e.V." (Nr. 66, Zuschuss 341.335,- ?), - zum "Studio im Netz, SiN e.V." (Nr. 105, Zuschuss 81.567,- ?), - zum "Familienzentrum Hadern-Blumenau" (Abschnitt 3.2.1, Nr. 13, Zuschuss 31.726,- ?) und - zur "Nachbarschaft Neuhadern Bewohnertreff" (Abschnitt 3.2.2/1, Nr. 2, Zuschuss 98.518,- ?)
+- TOP 12.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 13.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03867: Zuschussnehmerdatei 2010, Vollzug des Haushaltsplanes 2010 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum Bewohnertreff Blumenau (Nr. 9, Zuschuss 61.590,- ?), - zur "Nachbarschaft Kleinhadern, Na klar!" (Nr. 41, Zuschuss 16.100,- ?) und - zur Krokusstraße 73 (Nr. 22, Zuschuss 3.000,- ?)
+- TOP 12.6.: Beschluss des Kinder- und Jugendhilfeausschusses vom 04.05.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03984: Realisierung einer viergruppigen Kinderkrippe in der Marchioninistraße 3+5 Neubau und Umbau
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03637: Wohnungsmarkt München, Expertenbefragung 2009
+- TOP 12.2.: Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03951: Bekämpfung von Ameisen in Kinderspielbereichen, insbesondere an der Willibaldstraße / Ecke Kleinhaderner Straße (S. 4, Nr. 16, Kosten 1.000,- ?)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
