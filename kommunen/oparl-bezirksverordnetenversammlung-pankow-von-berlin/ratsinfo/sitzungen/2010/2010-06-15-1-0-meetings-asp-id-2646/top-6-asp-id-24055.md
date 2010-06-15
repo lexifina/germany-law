@@ -1,0 +1,7 @@
+# TOP 6: Strukturelle Planung des Beratungshauses in Buch
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Gesundheit, Arbeit und Soziales (2010-06-15)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=24055
+- Ergebnis: erledigt
