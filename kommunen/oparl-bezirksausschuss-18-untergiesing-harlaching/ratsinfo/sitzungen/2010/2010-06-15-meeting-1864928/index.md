@@ -1,0 +1,98 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-06-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1864928
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1864928
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Zuordnung und Bereinigung der Hausnummern der Anwesen Säbener Platz 4, 4a und 5; Bürgerschreiben vom 05.05.2010 - <div>Weiterleitung an das Kommunalreferat</div>
+- TOP 2.2.: Sperrung der Grünwalder Straße; Auswirkungen auf die Weningstraße und Reichenhaller Straße
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: KJR München-Stadt, für die Maßnahme: Einweihungsfest der Aktionsfläche vor dem Jugendtreff AKKU; Antragssumme: 637,00 ?; Beschlussvorlage des Direktoriums vom 12.05.10
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Programm für Kinder und Familien beim Zirkusfest in Harlaching; Antragssumme: 4.000,00 ?; Antrag vom 21.05.10
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Einbahnstraße vor dem Anwesen Wettersteinplatz 1-3; Bürgerantrag aus dem Jahr 2009; Antwortschreiben des BA 18 vom 27.07.09 (negative Erledigung); neuer Bürgerantrag vo mai 2010
+- TOP 3.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über Standortgenehmigung für Parkscheinautomaten Lizenzgebiet Untergiesing, Jakob-Gelb-Platz ggü. Haus Nr. 9; Beschluss des BA 18 vom 15.06.2010
+- TOP 3.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über Standortgenehmigung für Parkscheinautomaten Lizenzgebiet Schyrenbad, Humboldtstraße 14; Beschluss des BA 18 vom 15.06.2010
+- TOP 3.1.: Ablehnung der Trassenempfehlung für den Bau des Autobahn-Südrings A 99 - Süd; Bürgerantrag aus der Sitzung vom 18.05.2010 - <div>nach Antrag</div>
+- TOP 3.2.: Ortstermin Humboldtstraße- Vorschläge zur Lösung der Rückstauproblematik Humboldtstraße Ecke Claude-Lorrain-Straße; Antrag der SPD- Fraktion vom 30.05.2010
+- TOP 3.1.: Lichtzeichenanlagen-Bauprogramm für 2010; Kombinierte Vormerk- und Neuantragsliste für das Bauprogramm 2010 (Stand: 06.05.2010); Zuleitung des KVR mit der Bitte um Rückleitung bis 19.06.10
+- TOP 3.2.: Radverkehr; Einrichtung von Fahrradstraßen; Infoblatt Fahrradstraße; Zuleitung des KVR vom 03.05.10 mit der Möglichkeit, Vorschläge einzubringen
+- TOP 3.1.: Zebrastreifen über die Säbener Straße; Bürgeranliegen aus der Sitzung vom 20.04.2010; Antwortschreiben des KVR vom 14.05.10 (negative Erledigung)
+- TOP 3.1.: Stellungnahme der Verbände Bund Naturschutz Kreisgruppe München und Arbeitskreis Attraktiver Nahverkehr im Münchner Forum zum Leistungsprogramm der MVG
+- TOP 3.2.: Arbeiten im Straßenraum Grünwalder Straße 12-14 Verlegung einer Fernwärmeleitung, Verkehrsrechtliche Anordnung vom 17.05.2010
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vollzug der Wassergesetze; Novellierung der Bade- und BootVO; Verordnungsentwurf vom 14.05.10; Zuleitung des RGU mit der Bitte um Stellungnahme bis 01.06.10 (Fristverlängerung beantragt)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Information zur Auswahl der Gebiete mit besonderem Handlungsbedarf für REGSAM; Antwortschreiben des Sozialreferats vom 07.05.10 zur diesbezüglichen Anhörung (neutrale Erledigung)
+- TOP 3.1.: Münchner Hauptschulen auf dem Weg; Magazin des Staatlichen Schulamtes in der Landeshauptstadt München
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Genehmigung einer Freischankfläche in der Rotbuchenstraße 55; Beschluss des BA 18 vom 15.06.2010
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Humboldtstraße 28; Beschluss des BA 18 vom 15.06.2010
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Vorkaufsrecht nach dem BauGB; Anfrage des BA 18 vom 26.03.2010; Antwortschreiben des Kommunalreferats vom 12.05.10 (neutrale Erledigung)
+- TOP 3.1.: Hans-Mielich-Platz; Informationsveranstaltung für die Beitragszahler (Straßenausbaubeitragssatzung) am 17.06.2010; Schreiben des Baureferats-Tiefbau vom 17.05.2010
+- TOP 3.2.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung des Sozialreferats nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Anwesen Geiselgasteigstraße; Mitteilung vom 03.05.10
+- TOP 3.3.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.3.1 Kleingaststätte "Humboldt 20", Humboldtstraße 20; Mitteilung vom 06.05.10
+- TOP 3.4.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.: Mehrjahresinvestitionsprogramm 2010-2014. Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.2010 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010- 2014 08-14/V 04345
+- TOP 3.6.: Mehrjahresinvestitionsprogramm für die Jahre 2010-2014 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.2010 08-14/V 04346
+- TOP 3.7.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung; Beschluss des Bauausschusses vom 15.06.2010; 08-14/V 04017
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Grundsatzbeschluss zur kulturellen Nutzung der Isarauen; Antrag der CSU-Fraktion
+- TOP 3.1.: Pfarrfest des Kath. Pfarramts St. Franziskus am 11.07.2010 in der Arminiusstraße; Zuleitung des KVR mit der Bitte um Stellungnahme bis 29.06.2010
+- TOP 3.1.: Reinigung des Gedenksteins in der Peter-Auzinger-Straße; Bürgeranliegen vom 16.03.2010; Schreiben des BA 18 vom 27.04.2010; Antwortschreiben des Baureferats-Gartenbau vom 04.05.10 (negative Erledigung)
+- TOP 3.1.: Kulturstrand in München; Antrag der Urbanauten vom 08.04.10 für das Kunst- und Kulturprojekt "Unter dem Pflaster der Strand" 2010 auf dem Isarbalkon der Corneliusbrücke; Sitzungsvorlage Nr. 08-14 / V 04191; Beschluss des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 11.05.10 (SB)
+- TOP 3.1.: Umbenennung des Bayram-Festes; Bürgerantrag vom 21.05.2010
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten; BA-Antrags-Nr. 08-14 / B 01141 des BA 5 vom 13.05.10; Schreiben des Direktoriums vom 20.05.10 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014; Zuleitung der Stadtkämmerei vom 07.05.10
+- TOP 4.2.: Kein Google Street View in Trudering Riem; Antrag des BA 15 vom 25.02.2010 sowie darauf bezogene weitere Anträge der anderen BA; Schreiben des Oberbürgermeisters vom 27.05.2010
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
