@@ -1,0 +1,137 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-06-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1805123
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1805123
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Moderationsgespräch Damenstiftstraße vom 09.06.2010
+- TOP .1.: Vorstellung der Planungen für den Platz der Opfer der Nationalsozialismus
+- TOP .1.: BA: Stadtbildverträglichkeit des ehemaligen Heizkraftwerkes, Müllerstraße
+- TOP .1.: BV-Empfehlungen Nr. 476 und 477 Damenstiftstraße 11 (vertagt aus 2010.04 und 2010.05)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Karlsplatz 3: Erweiterung des Dachgeschosses im VGB, Überbauung der Dachterrasse im RGB, Nutzungsänderung EG
+- TOP .2.: Kaufingerstraße 4: Schaufenster-Erweiterung im Arkadenbereich
+- TOP .3.: Rindermarkt 5: Errichtung einer Eingangsüberdachungsanlage
+- TOP .4.: Marienplatz 16: Zusammenlegung zweier Ladenflächen zu einer Ladenfläche mit abgetrenntem Backoffice
+- TOP .5.: Ledererstraße 3: Nutzungsänderung EG: Lebensmittel-Einzelhandel mit Ladencafé zu Einzelhandel mit Gaststätte unter 40 Gastraumplätzen (Tektur)
+- TOP .6.: Residenzstraße 2: Residenzpost München ? Sanierung und Umbau für Büros / Verwaltung, Einzelhandel, Gastronomie und Wohnen (Tektur)
+- TOP .7.: Frauenstraße 32: Nutzungsänderung Wettbüro zu Spielothek
+- TOP .8.: Viktualienmarkt 13: Umbau einer Gaststätte mit Erweiterung Wirtsgarten
+- TOP .9.: Thierschstraße 5: Abbruch und Neuerrichtung des Dachgeschosses
+- TOP .10.: Lerchenfeldstraße 4: Dachgeschossumbau mit zwei Dachgeschossen eines Mehrfamilienhauses mit 2 oder 3 Maisonette Wohnungen VORBESCHEID (vertagt vom 11.05.2010)
+- TOP .11.: Residenzstraße 9: Errichtung einer Freischankfläche
+- TOP .2.1: Gaststätten
+- TOP .1.: Cafe Luitpold, Brienner Straße 11: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: (E) Lärmbelästigung durch Diskotheken Am Kosttor Empfehlung Nr. 08-14 / E 00492 der Bürgerver- sammlung des Stadtbezirkes 1 Altstadt-Lehel am 01.12.2009
+- TOP 3: (E) Aschenbecher am Hotel "Mandarin Oriental" (Ziffer 8 des Antrages) Empfehlung Nr. 08-14 / E 00499 der Bürger- versammlung des Stadtbezirkes 1 - Altstadt-Lehel am 01.12.2009
+- TOP 3.4.: Gaststätte ?Lux?, Ledererstraße 13: Genehmigung einer Freischankfläche
+- TOP 3.2.2: Sondernutzungen
+- TOP 3.1.: Heiliggeiststraße 7: Aufstellung eines Postkartenständers
+- TOP 2: (E) Entfernung des Obstwagens in der Maximilianstr. 24-26 (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 00495 der Bürgerver- sammlung des Stadtbezirkes 1 - Altstadt-Lehel am 01.12.2009 - <div>2010.06 C 2.2.2</div>
+- TOP 2.3.: Tal 22: Genehmigung eines mobilen Fahrradständers
+- TOP 2.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 2.1.: ?Europatage der Musik? der Städtischen Sing- und Musikschule am 25.06.2010
+- TOP 2.2.: Gemeindefest St. Lukas am 11.07.2010 auf dem Mariannenplatz; Frist: 16.06.2010
+- TOP 2.3.: Vorstellung des neuen Faschingsprinzenpaares der Faschingsgesellschaft Würmensia e.V. am 11.11.2010 auf dem Marienplatz
+- TOP 2.4.: Straßenfest am 24.07.2010 auf dem Mariannenplatz
+- TOP 2.5.: CSD am 17. / 18. Juli 2010
+- TOP 2.6.: Literarisches Fest am 08.07.2010 auf dem Salvatorplatz; Frist: 17.06.2010
+- TOP 2.7.: Informationsveranstaltung des Christlichen Entwicklungsdienstes am 17.07.2010 in der Neuhauserstraße
+- TOP 2.8.: 5. Lesbisches Angertorstraßenfest am 10.07.2010
+- TOP 2.9.: Fränkisches Weinfest im Alten Hof 16.07. bis 01.08.2010
+- TOP 2.10.: Salvatorplatz: Lesung des Literaturhauses mit Musik und Ausschank am 15.07.2010
+- TOP 2.1.: Christbaumsammlung im Winter 2010/2011
+- TOP 2.2.: BA 12: Werbeträger im Öffentlichen Raum
+- TOP 2.1.: Bürger: Unsöldstraße 9 + 11 ? Anlieferungszone werktags 7.30 ? 9.30 Uhr für die Fahrzeuge der Post/DHL-Anlieferung
+- TOP 2.2.: Bürger: Unsöldstraße 12: Versetzen des Parkscheinautomates Nr. 490 (siehe auch TOP E 2.2)
+- TOP 1: (E) Durchfahrt bei Kustermannhaus über den Viktualienmarkt öfter kontrollieren und für Fremde verhindern (Ziffer 6 des Antrages) Empfehlung Nr. 08-14 / E 00498 der Bürger- versammlung des 1. Stadtbezirkes Altstadt-Lehel am 01.12.2009 - <div>nach Antrag</div>
+- TOP 1.2.: Standortgenehmigung eines Parkscheinautomaten Unsöldstraße 12
+- TOP 3: (E) Durchfahrt ?Alter Hof? zur Fußgängerzone umwidmen. Absperrketten an Pollern dauerhaft befestigen Empfehlung Nr. 08-14 / E 00502 der Bürgerversammlung des 1. Stadtbezirkes Altstadt-Lehel am 01.12.2009
+- TOP 3.4.: Projektplanung Straßenbaumaßnahme Hofgartenstraße
+- TOP 3.1.: Lichtzeichenanlagen ? Bauprogramm 2010; Frist: 19.06.2010
+- TOP 3.2.: Außerordentliche Bürgerversammlung zur 2. S-Bahnstammstrecke
+- TOP 3.1.: BA: Kultursandstrand in München: Entwicklung eines Kulturbegriffs und Kriterien für mögliche Standorte für derartige Veranstaltungen
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Initiative "Hinterhofflohmärkte" Hinterhofflohmärkte im Lehel am 26.06.2010
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Initiative "Kinderfest am St.-Anna-Platz" Kinderfest am St.-Anna-Platz am 17.07.2010
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Förderverein Grundschule St. Anna e.V. 2. St. Anna Musik-Festival am 24.06.2010
+- TOP 3.1.: BA 15: Task-Force für die Ermittlung freier Potentiale bei der Kinderbetreuung
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Nutzung von Stadtteilkulturzentren durch den BA, Mietkostenübernahme
+- TOP 0.2.: Entwurf des Mehrjahresinvestitionsprogramm für die Jahre 2010 ? 2014
+- TOP 0.3.: Beschluss des Verwaltungs- und Personalausschusses vom 12.05.2010: Änderung der BA-Satzung; Bildung eines Ferienausschusses
+- TOP 0.4.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten
+- TOP 0.5.: Antrag des BA 15: Bürgerversammlungen effektiver und bürgerfreundlicher machen
+- TOP 0.6.: Verdienstausfall selbständiger und freiberuflicher BA-Mitglieder
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Freistellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antwortschreiben des Amts für Wohnen und Migration zur Zweckentfremdung von Wohnraum in der Damenstiftstr. 11, TOP 2010.04 B 2.1
+- TOP 0.5.: Antwortschreiben des Planungsreferates zum Projektauftrag zur Entwicklung des Hackenviertels, TOP 2010.03 B 1.1
+- TOP 0.6.: Mitteilung über ein Grundstücksgeschäft
+- TOP 0.7.: Antwortschreiben der LBK zur Damenstiftstr. 11, BV-Empf. Nr. 476, 477, TOP 2010.05 B 2.1
+- TOP 0.8.: Beschluss des Bauausschusses vom 15.06.2010: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung
+- TOP 0.9.: Antwortschreiben des Amts für Wohnen und Migration zur Damenstiftstr. 11, BV-Empf. Nr. 476, 477, TOP 2010.05 B 2.1
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Fortführung der Diskothek ?Wiener's der Kaffee?, Neuturmstr.
+- TOP 0.5.: Genehmigung der FSF Gaststätte ?Schiffmacher?, Prälat-Zistl-Str. 4, TOP 2010.04 B 1.1
+- TOP 0.6.: Pressemitteilung Opening Nektar Beach
+- TOP 0.7.: Unveränderte Fortführung der Diskothek ?La Stanza?, St.-Anna-Str. 13
+- TOP 0.8.: Unveränderte Fortführung der Diskothek ?Eden Bar?, Maderbräustr. 4
+- TOP 0.9.: Beschluss des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 11.05.2010: Kulturstrand für München
+- TOP 0.10.: Eilentscheidung vom 19.05.2010 zum Nachtrag Streetlifefestival / Corso Leopold
+- TOP 0.11.: Eilentscheidung vom 19.05.2010 zum Bennofest am 19.06.2010 auf dem Odeonsplatz
+- TOP 0.12.: Eilentscheidung vom 18.05.2010 zur Veranstaltung ?Stadtradeln? am 11.07.2010
+- TOP 0.13.: Schreiben des BA 3: Ablehnung eines Fischmarktes auf dem Wittelsbacherplatz
+- TOP 0.14.: Entscheidung des OB zur Genehmigung der Freischankfläche Thierschstr. 44, TOP 2010.01 C 2.1.4
+- TOP 0.15.: Eilentscheidung vom 27.05.2010 zur Veranstaltung ?Stadtgründungsfest am 12.13.2010 in der Innenstadt?
+- TOP 0.16.: Eilentscheidung vom 31.05.2010 zur Veranstaltung ?Opernfestspiele 2010? und Zusatzveranstaltung auf dem Marstallplatz
+- TOP 0.17.: Eilentscheidung vom 31.05.2010 zur Veranstaltung ?Michael Jackson Ausstellung? am 25./26.06.2010
+- TOP 0.18.: Unveränderte Fortführung der Diskothek ?City Lounge?, Sonnenstr. 5
+- TOP 0.19.: Antwortschreiben zu TOP 2010.05 A 3.1: Versammlung einer christlichen Organisation auf dem Marienplatz
+- TOP 0.20.: Antrag des BA 15: Kein Google Street View in Trudering-Riem
+- TOP 0.21.: Beschlussvorlage des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 11.05.2010: Kulturstrand in München
+- TOP 0.1.: Arbeiten im Straßenraum, Sattlerstr., Fürstenfelder Str.
+- TOP 0.2.: Baustellenverlängerung St.-Anna-Str. 2
+- TOP 0.3.: Verfahrensumstellung bei Baumfällungsantragen auf ?PRO-LBK?
+- TOP 0.4.: Informationsblatt Fahrradstraße
+- TOP 0.5.: Info zur Erneuerung des Fahrbahnbelags in der Hochbrückenstraße
+- TOP 0.6.: Gleisarbeiten Maximilianstraße ? Bescheid an die Baufirma
+- TOP 0.7.: Antwortschreiben der Unteren Naturschutzbehörde zur Baumfällung Parterinsel 3, TOP 2010.04 B 1.1
+- TOP 0.8.: Antwortschreiben des Baureferats zu Boden Schlaglöchern in der Adelgundenstr. / Ecke Maximilianstraße, TOP 2010.04 A 3.1
+- TOP 0.9.: Bauvorhaben: Frauenstraße zwischen Blumenstraße - Westenriederstraße
+- TOP 0.10.: Bauvorhaben: Münzstraße zwischen Brauhaustraße und Sparkassenstraße
+- TOP 0.11.: Antwortschreiben zur Hotelanfahrtszone Rindermarkt, TOP 2010.03 D 2.2 N
+- TOP 0.12.: Eilentscheidung vom 27.05.2010 zur Novellierung der Bade- und Bootsverordnung
+- TOP 0.13.: Antwortschreiben zu BA-Antrag Nr. 1877: Versetzung des Verkehrsschildes ?Absolutes Halteverbot?, Hochbrückenstr. 4
+- TOP 0.14.: Verkehrsrechtliche Anordnung nach § 45 StVO PRM ?Südl. Lehel? und ?Mittleres Lehel?, 2010.02 D 3.4
+- TOP 0.1.: Vorbereitungstreffen 18Jetzt am 10. Juni
+- TOP 0.2.: Ablehnungsbescheid ?Lilalu?, TOP 2010.04 E 2.3
+- TOP 0.3.: Zuwendungsbescheid ?digitalanalog?, TOP 2010.04 E 2.1
+- TOP 0.4.: Pressemitteilung der planworx GmbH: Tango bleibt auf der Praterinsel
+- TOP 0.5.: Zuwendungsbescheid ?Kultur und Spielraum e.V.?, TOP 2010.05 E 2.2
+- TOP 0.6.: Leitlinie Bildung ? Dokumentation der Öffentlichkeitsphase
+- TOP 0.7.: Ablehnungsbescheid St. Lukas Kirche, TOP 2010.05 E 2.1
+- TOP 0.8.: Änderungsbescheid ZAB, TOP 2010.05 E 3.1
+- TOP 0.9.: Antwortschreiben des Kulturreferats zum BA-Antrag 2010.03 E 1.1: Konzeptionelle Planung für das Maximilianforum
+- TOP 0.10.: Beschluss des Kulturausschusses vom 08.07.2010: Stärkung der Stadtteilkultur
+- TOP 3.4: Unterrichtungen (siehe Anlage)
+- TOP 3.0: Bericht
+- TOP 3.1: Anträge
+- TOP 3.2: Entscheidungen
+- TOP 3.3: Anhörungen
+- TOP 2.3.2: Sonstige
