@@ -1,0 +1,53 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-06-16T18:00:00+02:00
+- Ende: 2010-06-16T22:15:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZeXRrhVESRZtwoupA3iO4js
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1813
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdPkSkwHU4lj5kjNgG1CgnlihAv2mBhhj-gRVCd_IgHT/Bekanntmachung_Rat_16.06.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQBWlX9nATYIvwMZVm4HXQnFbmkr6G5qrMewtjH762rl/Oeffentliche_Niederschrift_Rat_16.06.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 26.05.2010
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Auslegung einer Widerspruchsliste gegen die Veröffentlichung von Bildmaterial des Google-Dienstes “Street View“; Antrag der SPD-Fraktion vom 16.05.2010 - Einstimmig, 0 Enthaltungen
+- TOP 3.2: Satzungsbeschluss zur Änderung der Hauptsatzung; Antrag der FDP-Fraktion vom 16.05.2010 - 22 Jastimmen, 17 Neinstimmen, 0 Enthaltungen
+- TOP 3.3: Weitere Änderung der Gesellschaftsverträge kommunaler Gesellschaften; Antrag der FDP-Fraktion vom 16.05.2010 - 38 Jastimmen, 1 Neinstimmen, 1 Enthaltungen
+- TOP 3.4: Aktualisierung von B-Plänen im Bereich des Gewerbegebietes Ochtruper Straße; Antrag der FDP-Fraktion vom 21.05.2010 - 22 Jastimmen, 15 Neinstimmen, 3 Enthaltungen
+- TOP 3.5: Gebundene Ganztagsschule: Fridtjof-Nansen-Realschule Gronau; Antrag der CDU-Fraktion vom 26.05.2010 - Einstimmig, 0 Enthaltungen
+- TOP 3.6: Entwicklungsperspektiven des Gronauer Ballsports; Antrag der FDP-Fraktion vom 03.06.2010 - Ohne Abstimmung
+- TOP 4.: Verwendung von Mitteln des Konjunkturpaketes - 3. Tranche für Sportfördermaßnahmen - Einstimmig, 6 Enthaltungen
+- TOP 5.: Antrag auf Änderung des Bebauungsplans Nr. 40 "Möllenweg", Stadtteil Gronau Bebauungsplan Nr. 40 „Möllenweg“, 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gemäß § 13a BauGB) 1. Aufstellungsbeschluss 2. Auslegungsbeschluss 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 6.: Einhaltung der Auskunftspflichten gemäß Ehrenordnung
+- TOP 7.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 8.: Erweiterung der Erdgaskavernenspeicheranlage im Eper Amtsvenn durch die E.ON Gas Storage GmbH - Einstimmig, 0 Enthaltungen
+- TOP 8.1: Mitteilungen der Verwaltung
+- TOP 8.1.1: Städtepartnerschaften - Einladung aus Mezöberény - Ohne Abstimmung
+- TOP 8.1.2: Geänderte Gesellschaftsverträge ins Handelsregister eingetragen
+- TOP 8.1.3: Stellungnahme zur Medienberichterstattung zum Bauvorbescheid für das FOC
+- TOP 8.1.4: Aufsichtsbehörde stimmt Haushalt 2010 im Grundsatz zu
+- TOP 8.1.5: Sanierung der Bogenbrücke auf dem Inselparkgelände
+- TOP 9.: Anfragen
+- TOP 9.1: Unvereinbare Gremientermine (RM Buchholz)
+- TOP 9.2: Einladung eines Sachverständigen zur Sitzung des Ausschusses für Verkehr, Umwelt, Energie und Tierschutz (RM Buchholz)
+- TOP 9.3: Verkehrsführungskonzept für den Ortsteil Epe (RM Arends)
+- TOP 9.4: Swap-Geschäfte der Stadt Gronau und ihrer Gesellschaften (RM Gabbe)
+- TOP 9.5: Endgültiger Kreditrahmen des Haushalts 2010 (RM Rehbein)
+- TOP 9.6: Sachstand der Einrichtung einer Mensa im Gymnasium (RM Rehbein)
+- TOP 9.7: Grünpflege an der Hans-Christian-Andersen-Schule (RM von Borczyskowski)
+- TOP 9.8: Sachstand Regionale 2016 (RM von Borczyskowski)
+- TOP 9.9: Sachstand in der Klageangelegenheit gegen die Aufhebungsverfügung des Landrates zur Änderung der Gesellschaftsverträge (RM von Borczyskowski)
+- TOP 9.10: Gelungene Umgestaltung des Kurt-Schumacher-Platzes (RM von Borczyskowski)
+- TOP 9.11: Verbleib des Inventars aus dem Zivilschutzbunker (RM Buchholz)
+- TOP 9.12: Hohe Frequenz bei Bordsteinabsenkungen im Bereich der Gildehauser Straße (RM Buchholz)
+- TOP 9.13: Alkoholverbot am Drilandsee (RM Breuer)
+- TOP 9.14: Verkehrsberuhigung im Neubaugebiet Am Wolbertshof/Wolbertskamp (RM Reus)
+- TOP 9.15: Kontrollen zur Einhaltung des Jugendschutzes (RM Bartels)
