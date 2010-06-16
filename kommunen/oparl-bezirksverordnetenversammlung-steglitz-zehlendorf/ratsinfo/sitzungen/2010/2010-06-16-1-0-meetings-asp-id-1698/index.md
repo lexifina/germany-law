@@ -1,0 +1,78 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-06-16T17:00:00+02:00
+- Ende: 2010-06-16T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1698
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1698
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Geht Luxussanierung vor Fertigstellung? - beantwortet
+- TOP 3.2: Kein Platz für Pfadfinder in Steglitz-Zehlendorfer Jugendfreizeitheimen? - beantwortet
+- TOP 3.3: Gymnasium Steglitz - gut ausgerüstet als Ganztagsgymnasium? - beantwortet
+- TOP 3.4: Skulptur des Bildhauers Walter Schmarje - beantwortet
+- TOP 3.5: Alles im Loth in Sachen Lebensmittelsicherheit? - beantwortet
+- TOP 3.6: Umgestaltung des Kreuzungsbereichs Bergstraße/Filandastraße - beantwortet
+- TOP 3.7: Ehrengräber - schriftlich beantwortet
+- TOP 3.8: Gestank und Lärm durch die "Zehlendorfer Welle" - schriftlich beantwortet
+- TOP 3.9: Holz-Skulptur "Flora" am S-Bahnhof Lichterfelde-West - schriftlich beantwortet
+- TOP 3.10: Parkplatz "Alter Krug" - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Personal und Verwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Verordnung über die Verlängerung der Veränderungssperre 6 - 17 B / 37, nunmehr 6 - 17 Ba / 37 [Ferdinandstraße 31 - 35] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Ehrengräber - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Der erste Reichspräsident - Wanderausstellung über Friedrich Ebert nach Steglitz-Zehlendorf holen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: "Hilfe aus einer Hand" für ALG II-Berechtigte muss erhalten bleiben - in der BVV abgelehnt
+- TOP 4.4.2: "Sinnvolles" Warten mit Hotspot in Bürgeramt-Warteräumen - in der BVV abgelehnt
+- TOP 4.4.3: Online-Abrufbarkeit von Publikationen des Kulturamtes - in der BVV abgelehnt
+- TOP 4.4.4: Keine Spielhöllen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Wanderausstellung "Auf dem Dienstweg" in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Beitritt zur Deklaration "Biologische Vielfalt in Kommunen" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.7: Saubere Briefkästen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.8: Mittagessen auch für Schüler der 5. und 6. Klassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Finanzierung Fliegefest - in der BVV abgelehnt
+- TOP 4.4.10: Unterstützung des Vereins Harmonie e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Personelle Unterstützung der Schülerlabore im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.12: Bewachter Fahrradparkplatz mit -werkstatt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Einhaltung der Rauchverbote auf U- und S-Bahnhöfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: BVV-Beschluss Nr. 873 vom 17.02.2010 (Investitionsvorhaben Radwegsanierung. Drucksache Nr. 1152/III) BVV-Beschluss Nr. 762 vom 23.09.2009 (Bezirkshaushaltsplan 2010 und 2011. Drucksache Nr. 1145/III) - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Fahrradroute von Wannsee nach Lichterfelde-Ost - überwiesen
+- TOP 5.2.2: Schulschwimmen durch Berliner Bäderbetriebe und Schwimmvereine ergänzen - überwiesen
+- TOP 5.2.3: Parkverkehr erleichtern, Stau vermeiden! - überwiesen
+- TOP 5.2.4: Verbessertes Einstellungsverfahren für Lehrer an unseren Schulen - überwiesen
+- TOP 5.2.5: Umbenennung der Reservistenkameradschaft "Flakregiment 12" - überwiesen
+- TOP 5.2.6: Die Verkehrssituation vor den Schulen gefahrenfrei und sicher gestalten - überwiesen
+- TOP 5.2.7: Sonntagsöffnung kleiner Läden unterstützen - überwiesen
+- TOP 5.2.8: Beleuchtung in Schulen - überwiesen
+- TOP 5.2.9: Flächen für Urbane Landwirtschaft - überwiesen
+- TOP 5.2.10: Lange Nacht der Bilder in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.11: Wohin mit dem Müll am Schlachtensee? - überwiesen
+- TOP 5.2.12: Boys Day, ja bitte - aber nicht am Girls Day - überwiesen
+- TOP 5.2.13: Kräutergarten für die Grundschulen im Bezirk - überwiesen
+- TOP 5.2.14: Verkehrssicherheit auf dem Bürgersteig und der Fahrbahn erhöhen! - überwiesen
+- TOP 5.2.15: Postfiliale Heinersdorfer Straße - überwiesen
+- TOP 5.2.16: Franz-Amrehn-Platz - überwiesen
+- TOP 5.3: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.3.1: Fußgängerfreundliche Ampeln - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Kündigungen ohne Konzept in der JFE Flemmingstraße - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Die Fortbildungsverpflichtung der Lehrkräfte dokumentieren - in der BVV abgelehnt
+- TOP 9: Schlusswort des Vorstehers - erledigt
