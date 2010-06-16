@@ -1,0 +1,6 @@
+# TOP 2.: Heizungs- und Einzelraumsteuerung für das St.Michael Gymnasium Auftragsvergabe der Heizungsarbeiten
+
+- Sitzung: Bau- und Feuerwehrausschuss (5. Sitzung) (2010-06-16)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/13073
