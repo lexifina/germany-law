@@ -1,0 +1,115 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-06-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1871960
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1871960
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Pferdekoppel und Reitstall am Krähenweg (UA Planung)
+- TOP 2.2.: Indianische Schwitzhüttenzeremonie sucht passenden Standort
+- TOP 2.3.: Nutzung als Lagerplatz, Wertheimer Straße
+- TOP 2.4.: Barrierefreier Ausbau der S-Bahnhöfe
+- TOP 2.5.: LKW-Parkverbot in der Kastelburgstraße auf dem Parkplatz der Bezirkssportanlage Aubing
+- TOP 2.6.: Autohändler an der Bodenseestraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Beteiligung der BA's im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf "PRO-LBK"; Abschluss des Pilotprojekts bei der BA-Geschäftsstelle Ost, Ausweitung des "Digitalen Beteiligungsverfahren für die BAs" auf alle BA's ab 15.06.10, Schr. Direktorium vom 10.05.10
+- TOP 3.2.: Baumfällungen auf Anforderung: - Am Aubinger Wasserturm 35-37 - Dinkelsbühler Str. 10 - Hellensteinstr. 3 - Ehrenbürgstr. 8
+- TOP 3.3.: Baumfällungen zu einem Bauvorhaben: - Biburger Str., gem. Baumbestands- und Freiflächengestaltungsplan Nr. 2010-11060 - Leienfelsstr. 18, gem. Baumbestandsplan Nr. 2010-10461
+- TOP 3.4.: Genehmigte Baumfällungen: - Am Lochhauser Hügel 6, Fällungsantrag vom 03.05.10, Fällung eines Bergahorns - Dinkelsbühler Str. 32, Fällungsantrag vom 30.03.10, Fällung eines Spitzahorns - Kastelburgstr. 11, Fällungsantrag vom 23.04.10, Fällung einer Birke
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Pflanzung von Bäumen auf der Westseite am Rande der Sandfläche des Kinderspielplatzes Hohenester- / Mariabrunnerstr. zur Beschattung
+- TOP 4.2.: Dringlichkeitsantrag: Bestellung städtischer Leistungen zur Realisierung des Open-Air-Konzertes am Lußsee
+- TOP 4.3.: Dringlichkeitsantrag: Zukünftige Nutzung der Aubinger Tenne, Ubostraße
+- TOP 5: Entscheidungen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf Privatgrund, hier: Aktion "Wir für Aubing" der FFW, des BRK, des THW, der PI 45 und Jugendorganisationen in der Ubostr. am 10.07.10, Anhörung KVR vom 20.05.10
+- TOP 6.2.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik, Anhörung Ref. f. Gesundheit u. Umwelt vom 16.04.10
+- TOP 6.3.: Antrag des Münchner Kasperletheaters auf Nutzung des Grundstücks Kastelburgstr. vom 07.10. - 10.10.10, Anhörung Kommunalreferat vom 27.05.10
+- TOP 6.4.: Antrag auf Veranstaltung auf städtischer Grünanlage, hier: Standkonzert am Ramsessee mit anschließendem Fackelzug und Johannisfeuer in der Grünanlage Sipplingerstr. am 25.06.10, Anhörung KVR vom 27.05.10
+- TOP 6.1.: Information zur Auswahl der REGSAM-Gebiete mit einem besonderem Handlungsbedarf, Schr. Sozialreferat vom 06.05.10
+- TOP 6.2.: Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Ziegeleistr. 10, Schr. Schul- und Kultusreferat vom 12.05.10
+- TOP 6.3.: Jahresbericht 2009 des Kreisjugendring München-Stadt - Hilfe für Kids, Schr. Kreisjugendring vom 28.05.10
+- TOP 6.4.: SHZ-Rundbrief 2/2010 ist online, Schr. Selbsthilfezentrum München vom 01.06.10
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Errichtung und Betrieb des Heizkraftwerks Freiham, Anhörung Reg. v. Oberbayern vom 17.05.10
+- TOP 6.1.: Mitteilung über ein Grundstücksgeschäft, Jakob-Baummann-Str., Flst. 3509/32, Schr. Kommunalreferat vom 05.05.10
+- TOP 6.2.: Mitteilung über ein Grundstücksgeschäft, Halbanschluss A96 Freiham, Flst. 3497, 3528 u. a. Aubing, Schr. Kommunalreferat vom 05.05.10
+- TOP 6.3.: Mitteilung über ein Grundstücksgeschäft, Hans-Stützle-Str., Flst. 3508/30, Schr. Kommunalreferat vom 11.05.10
+- TOP 6.4.: Kino in Freiham und attraktive Gestaltung des Bahnhofsvorplatzes Freiham, Schr. Planungsreferat vom 25.05.10
+- TOP 6.5.: Gewerbegebiet Freiham, Vergabe eines Gewerbegrundstücks, Schr. Ref. f. Arbeit u. Wirtschaft vom 25.05.10
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Leienfelsstr. 18, Neubau eines Mehrfamilienhauses (6 WE) mit Garagen, Anhörung Planungsreferat vom 02.06.10
+- TOP 6.2.: Christbaumentsorgung im Winter 2010/11, Anhörung AWM vom 20.05.10
+- TOP 6.3.: Lichtzeichenanlagen-Bauprogramm 2010, Anhörung KVR vom 06.05.10
+- TOP 6.4.: Verunreinigung des Naturschutzgebietes über der A 99 und Anbringung von Hundekotbeutel-Spender; Anbringung von Hundekotbeutel- und Abfallbehältern am Krautgartenweg, Anhörung Baureferat vom 21.05.10
+- TOP 6.5.: Straßenwiederherstellung nach Bauschaden Im Stocket 38, Anhörung Baureferat vom 25.05.10
+- TOP 6.6.: Biburger Str., Errichtung eines Mehrfamilienhauses, Anhörung Planungsreferat vom 31.05.10
+- TOP 6.7.: Radverkehr; Einrichtung von Fahrradstraßen, Anhörung KVR vom 03.05.10
+- TOP 6.8.: Austausch der Lichtzeichenanlage Bodensee- / Limesstr., Anhörung KVR vom 07.05.10
+- TOP 6.1.: Umlaufsperren für die Parkeingänge des Freizeitgeländes zwischen Wiesentfelser Straße und Ehrenbürgstraße, Schr. Baureferat vom 10.05.10
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 10.05.10, 17.05.10, 26.05.10, 31.05.10
+- TOP 6.3.: Baufälle im 22. Stadtbezirk (v. 03.05.-09.05.10, v. 10.05.-16.05.10, v. 17.05.-23.05.10, v. 24.05.-30.05.10), Schr. Planungsreferat vom 10.05.10, 18.05.10, 25.05.10, 31.05.10
+- TOP 6.4.: Querung Limesstraße, Schr. KVR vom 07.05.10
+- TOP 6.5.: Ameisenplage auf Spielplätzen und Bürgersteigen, Schr. Baureferat vom 10.05.10
+- TOP 6.6.: Aufnahme des "Abenteuer"-Spielplatzes am Westkreuz in das Ameisenbekämpfungsprogramm, Schr. Baureferat vom 10.05.10
+- TOP 6.7.: Beseitigung der Straßenverunreinigungen im Zufahrtsbereich der Großbaustelle Colmdorfstraße, Schr. Baureferat vom 12.05.10
+- TOP 6.8.: Zweckentfremdung von Wohnraum, Neideckstr., Schr. Sozialreferat vom 18.05.10
+- TOP 6.9.: Zweckentfremdung von Wohnraum, Thuisbrunner Str., Schr. Sozialreferat vom 12.05.10
+- TOP 6.10.: Mitteilung über ein Grundstücksgeschäft, Bergsonstr., Flst. 2166 Aubing, Schr. Kommunalreferat vom 11.05.10
+- TOP 6.11.: Verlegung der Straßenmarkierung Langwieder Haide / Mühlangerstraße, Schr. KVR vom 11.05.10
+- TOP 6.12.: Stellungnahme von Arbeitskreis Attraktiver Nahverkehr und Bund Naturschutz zum Leistungsprogramm der MVG, Schr. vom 12.05.10
+- TOP 6.13.: Abladen von Verpackungsmaterial an Wertstoffhöfen, Schr. AWM vom 20.05.10 und 27.05.10
+- TOP 6.14.: Ausnahmegenehmigung gem. Bundes-Immissionsschutzgesetz für Durchführung von Mäharbeiten des Straßenbegleitgrüns, Schr. Ref. f. Gesundheit u. Umwelt vom 21.05.10
+- TOP 6.15.: Zweckentfremdung von Wohnraum, Hoheneckstr., Schr. Sozialreferat vom 28.05.10
+- TOP 6.16.: Erinnerungsantrag: Ökologische und historische Lehrpfade in der Moosschwaige und Aubinger Lohe, Schr. Planungsreferat vom 19.05.10
+- TOP 6.17.: Mitteilung über ein Grundstücksgeschäft, Bodenseestr. / Reichenaustr., Flst. 340, 340/4, 340/5, Schr. Kommunalreferat vom 27.05.10
+- TOP 6.18.: Verkehrsrechtliche Anordnung, hier: Badebuslinie der Münchner Linien GmbH & Co. KG, Lochhausen Bahnhof - Langwieder See (Kreuzkapellenstr.), Schr. KVR vom 02.06.10
+- TOP 6.19.: Bodenseestr. 234, 2 beleuchtete Großflächen-Plakattafeln, Baugenehmigung, Schr. Planungsreferat, 01.06.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlichen Pflichten, Anhörung Direktorium vom 20.05.10
+- TOP 7.2.: Freihamer Allee 31, Sanierung "Schloß Freiham", Tektur (Nutzungsänderung)
+- TOP 7.3.: Karl-Harz-Weg 23, Anbau und Umbau von Lagerhallen und Neubau einer Winterschießanlage - Vorbescheid
+- TOP 7.4.: Papinstr., Neubau eines Mehrfamilienhauses mit Tiefgarage (BT C)
+- TOP 7.5.: Bodenseestr. 222, Nutzungsänderung eines Fitness-Centers in drei kleine Spielhallen, Büroraum und Lager
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Mehrjahresinvestitionsprogramm für die Jahre 2010-2014, Schr. Stadtkämmerei vom 07.05.10
+- TOP 8.2.: Bürgerversammlung des 22. Stadtbezirkes am 29.06.10, Schr. Oberbürgermeister vom 17.05.10
+- TOP 8.3.: Wirtschafts-Info 05/2010, Schr. Ref. f. Arbeit u. Wirtschaft vom 28.05.10
+- TOP 8.4.: Europe Direct Informationen 03/2010, Schr. Ref. f. Arbeit u. Wirtschaft vom 01.06.10
+- TOP 8.5.: Kein Google Street View in Trudering-Riem, Antrag des BA 15 Nr. 08-14 / B 01901 vom 25.02.2010, Schr. OB Ude vom 27.05.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung vom 28.04.10: - Ausgleichsflächen in der Bauleitplanung, Gesamtstädtisches Konzept
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.10: - Mehrjahresinvestitionsprogramm 2010 - 2014 Festsetzung der Reihenfolge großer Siedlungmaßnahmen für die Jahre 2010 - 2014 - Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 10.3.: Beschluss des Kulturausschusses vom 08.07.10: - Sicherung des Standortes Ehrenbürgstr. 9 für Ateliers und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unter Denkmalschutz / Ensembleschutz stehenden Anlage
+- TOP 10.4.: Beschluss des Bauausschusses vom 15.06.10: - Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung
+- TOP 10.5.: Beschluss des Schul- und Sportausschusses vom 09.06.10: - Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen d) Erweiterung der Hortküche (künftig Tagesheimküche) für die Versorgung der Ganztagesklassen der Grundschule am Ravensburger Ring 37
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Bürgerversammlung Aubing-Lochhausen-Langwied am 29.06.10 um 19.00 Uhr in der Grundschule am Ravensburger Ring 37
+- TOP 11.2.: Kompostieranlage Schernthaner, Optimierung des Anlagenbetriebes, Besichtigungstermin am 15.07.10, 16.00 Uhr, Treffpunkt Parkplatz Hauptgebäude Entsorgungspark Freimann (Werner-Heisenberg-Allee 62
+- TOP 11.3.: Einladung zum Sommerfest 2010 der Grundschule Ravensburger Ring 37 am 02.07.10 von 15.00-17.30 Uhr
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 21.07.2010 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
