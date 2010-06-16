@@ -1,0 +1,110 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-06-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813286
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813286
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anträge
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.2: Anträge auf Sondernutzungserlaubnis
+- TOP 6.2.1.: Grillparzerstr. 35: Antiquitäten Bohm: Mobiler Fahrradständer
+- TOP 6.2.2.: Grillparzerstr. 35: Antiquitäten Bohm: Warenauslage 1 Bücherregal
+- TOP 6.2.3.: Balanstr. 8: ?Le Bazar de Cuisine?: Warenstellage für Haushaltsartikel
+- TOP 6.2.4.: Gasteig: Sperrzeitaufhebung für das Musikfestival ?digital-analog? (15./16.10.2010)
+- TOP 6.2.5.: Gaststätte ?Chi Bao Bao?, Braystr. 22: Verlegung der bestehenden Freischankfläche
+- TOP 6.2.6.: Kleingaststätte ?Wein-Cantina?, Elsässer Str. 23: Erweiterung der Freischankfläche
+- TOP 6.2.7.: ?Café Hüller?, Eduard-Schmid-Str. 8: Erweiterung der Freischankfläche
+- TOP 6.3: BA-Beschlüsse zur Erledigung von Bürgerversammlungs-Empfehlungen
+- TOP 7.1.: Stadtratsanfrage Beschwerde beim Sandstrand Corneliusbrücke
+- TOP 7.2.: Installation mit dem Titel ?easyVote? am Weißenburger Platz anlässlich der Ausstellung ?Cityscale? am 22.07.2010 und 23.07.2010
+- TOP 7.3.: Hamburger Fischmarkt am Orleansplatz vom 09.-18.07.2010
+- TOP 8.1: Erledigte BA-Anträge und Anfragen
+- TOP 8.2: Unterrichtungen und Informationen (vgl. schriftliche Infos)
+- TOP 8.3: Mitteilungen der Verwaltung - Reaktionen auf BA-Schreiben
+- TOP 8.3.1.: Kein Google Street View in Trudering-Riem
+- TOP 8.3.2.: Sperrzeitaufhebungen für Veranstaltungen in der Muffathalle im März, April und Mai 2010
+- TOP 8.3.3.: Gleiserneuerung Gleisdreieck Grillparzerstraße: Aufstellfläche bei Flurstr. 32
+- TOP 8.4: Sonstiges
+- TOP 8.4.1.: Bordeauxplatz: Durchführung eines Sommerfestes mit Public Viewing
+- TOP 8.4.2.: Verkehrsentlastung in der Preysingstraße im Abschnitt zwischen Wolfgang- und Metzstraße (BA-Antrags-Nr. 08-14/ B 02071)
+- TOP 8.4.3.: Fällung der Kastanien in der Bazeillesstraße: Bericht über Schulausschusssitzung
+- TOP 8.4.4.: art in au: Genehmigungsbescheid
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 7.1.: Spicherenstr. 8: 1 Weide
+- TOP 1.1.: s.o. TOP 6.1.2
+- TOP 1.2.: s.o. TOP 6.1.3
+- TOP 1.1.: s.o. TOP 6.1
+- TOP 1.2.: s. o. TOP 6.2
+- TOP 2.1.: Rosenheimer Platz 1: Nutzungsänderung eines Backwarenladens in einen Laden mit Cafebetrieb (als Gaststätte)
+- TOP 2.2.: Wiener Platz: Straßenfest der Markthallen München am 27.06.2010
+- TOP 2.3.: Metzstraße: Sommerfest des Projektladens International am 17.07.2010
+- TOP 2.4.: Orleansstr.80: 1 hinterleuchtete Mega-Light-Wechselwerbeanlage
+- TOP 2.5.: Balanstraße (Bahnunterführung): 1 hinterleuchtete Mega-Light-Wechselwerbeanlage
+- TOP 2.6.: Wertstoffcontainerstandort Europaplatz/Maria-Theresia-Straße
+- TOP 2.7.: Christbaumentsorgung im Winter 2010/2011: Vorschläge für zusätzliche Sammelstellen?
+- TOP 2.1.: Bauvorhaben Ruhestr. 6: Neubau eines Reihenhauses (EFH)
+- TOP 2.2.: Bauvorhaben Mariahilfplatz 9: Nutzungsänderung dreier Räume einer Kindertagesstätte (Besprechungs-/Mehrzweckraum in zwei Gruppenräume, Aufenthalts- in Therapieraum)
+- TOP 2.3.: Bauvorhaben St.-Wolfgangs-Platz 9 g: Nutzungsänderung einer Praxis zu zwei Wohnungen
+- TOP 2.4.: Verkauf einer städtischen Immobilie: Kreuzplätzchen
+- TOP 2.5.: Bauvorhaben Wörthstr. 7: Abbruch eines Nebengebäudes mit Neubau einer zweigeschossigen Kita an gleicher Stelle; Anbau eines Außenaufzugs, einer KG-Außentreppe + von 5 Balkonen am Bestand mit Anlage der Innenhöfe; Nutzungsänderungen (VGB + RGB)
+- TOP 2.6.: Bauvorhaben Johannisplatz 11: Dachgeschoss-Ausbau ? Vorbescheid
+- TOP 2.7.: Bauvorhaben Orleansplatz 7: Umbau und Erweiterung in ein Bürogebäude mit Lidl-Markt und Postfiliale (Orleansplatz 7/ Orleansstr. 50+52) - Tektur
+- TOP 2.8.: Bauvorhaben Orleansstr. 11a: Umbau eines Gemeinschaftsraums zu einer barrierefreien Woh nung, Umbau eines Büros zu einem Gemeinschaftsraum im EG; Einbau zweier zweigeschossiger Wohnungen in den Dachraum
+- TOP 3.1.: Mehrjahresinvestitionsprogramm 2010-2014: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010-2014; Beschlussvorlage für den Planungsausschuss am 09.06.2010
+- TOP 3.2.: Mehrjahresinvestitionsprogramm 2010-2014: Gliederungsziffern des Planungsreferats; Beschlussvorlage für den Planungsausschuss am 09.06.2010
+- TOP 2.1.: Bürgeranliegen: Mehr Sicherheit für Fußgänger an der Kreuzung Innere Wiener Straße/Einsteinstraße
+- TOP 2.2.: Lichtzeichenanlagen-Bauprogramm für 2010 Anhörungsschreiben des KVR vom 06.05.2010
+- TOP 2.3.: Radverkehr: Einrichtung von Fahrradstraßen Schreiben des KVR vom 03.05.2010
+- TOP 2.4.: Novellierung der Bade- und Boot-Verordnung: Entwurf vom 14.05.2010 Anhörungsschreiben des Referats für Gesundheit und Umwelt vom 14.05.2010
+- TOP 3.1.: Fahrradabstellplätze am Rosenheimer Platz (BA-Antrag Nr. 1973 v. 17.03.2010)
+- TOP 3.2.: Balanstraße von der Rosenheimer Straße abhängen (BA-Antrag Nr. 1914 v. 24.02.2010)
+- TOP 3.3.: Öffnung der Metzstraße für den Fahrradverkehr in Gegenrichtung (Initiative des UA)
+- TOP 3.4.: Umbaumaßnahmen am Haidenauplatz (BA-Antrag Nr. 1913 v. 24.02.2010)
+- TOP 3.5.: Allgemeiner Behindertenparkplatz Orleansplatz 13: Aufhebung der Zeitbeschränkung
+- TOP 3.6.: Vollzug der Baumschutzverordnung: Verfahrensumstellung auf ?PRO-LBK? - Ausweitung des ?Digitalen Beteiligungsverfahrens? auf alle Bezirksausschüsse ab 15.06.20
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 3: Nächste BA-Sitzung
+- TOP 4: Sonstige Termine
+- TOP 4.1.: Sommerfest des Marktes am Wiener Platz am 27.06.2010, 11.00-19.00 Uhr
+- TOP 4.2.: 170. Gründungsjubiläum des Männerchors Münchener-Liedertafel am 20.06.2010, 10 Uhr
+- TOP 4.3.: Maria Hilf Fest am 13.06.2010 (Eingang der Einladung: 10.06.2010)
+- TOP 6: Sachverhalte zur Entscheidung (1)
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Projekt-Laden International Haidhausen Internationales Sommer - und Straßenfest am 17.07.2010 - <div></div>
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Initiative "art in au" Graffiti-Wettbewerb vom 25. - 27.06.2010 - <div></div>
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Initiative "undercoverfiction ensemble" Musiktheaterprojekt vom 18. - 21.06.2010 - <div></div>
+- TOP 7: Sachverhalte zur Anhörung (1)
+- TOP 8: Sachverhalte zur Unterrichtung (1)
+- TOP 1: Sachverhalte zur Entscheidung (2)
+- TOP 2: Sachverhalte zur Anhörung (2)
+- TOP 3: Sachverhalte zur Unterrichtung (2)
+- TOP 1: Sachverhalte zur Entscheidung (3)
+- TOP 2: Sachverhalte zur Anhörung (3)
+- TOP 3: Sachverhalte zur Unterrichtung (3)
+- TOP 1: Sachverhalte zur Entscheidung (4)
+- TOP 2: Sachverhalte zur Anhörung (4)
+- TOP 3: Sachverhalte zur Unterrichtung (4)
+- TOP 1: Sachverhalte zur Entscheidung (5)
+- TOP 2: Sachverhalte zur Anhörung (5)
+- TOP 3: Sachverhalte zur Unterrichtung (5)
+- TOP 1: Sachverhalte zur Entscheidung (6)
+- TOP 2: Sachverhalte zur Anhörung (6)
+- TOP 3: Sachverhalte zur Unterrichtung (6)
