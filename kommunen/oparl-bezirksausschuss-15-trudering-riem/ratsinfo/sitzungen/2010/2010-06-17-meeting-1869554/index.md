@@ -1,0 +1,90 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2010-06-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869554
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869554
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Bürgerzentrum Trudering e.V. Kauf von 50 Stühlen
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Familienzentrum Messestadt Riem e.V. Jubiläumsfeier am 24.07.2010
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Freunde der FFW Riem v. 1874 e.V. Tag der offenen Tür am 03.07.2010
+- TOP 1.4.: Vollzug des Bayerischen Straßen- und Wegegesetzes, Widmung von neu hergestellten Bereichen der Ortsstraße Haffstraße; Sitzungsvorlage Nr. 08-14 / 04509
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Echo e.V. Kindermitmachzirkus vom 09. - 13.08.2010
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Felicitas-Füss-Straße, Verkehrssituation
+- TOP 2.2.: Einmündung Naue-/Fauststraße; Errichtung von Hinweisschildern
+- TOP 2.3.: Parksituation Marianne-Plehn-Straße
+- TOP 2.4.: Lenkung des Schwerlastverkehrs vor der Bahnunterführung Thomas-Hauser-Straße
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Lärmschutzmaßnahmen entlang der Bahnlinie München - Rosenheim
+- TOP 3.2.: Verkehrskonzept Münchner Osten - Radfahrer
+- TOP 3.3.: Zustand des Spielplatzes im neuen Bajuwarenpark
+- TOP 3.4.: Anfrage zur Situation in der Bahnstraße - Suche nach einem alternativen Recyclingstandort
+- TOP 3.5.: Befestigung der Wertstoffsammelstellen in Waldtrudering / Zugang zu den Müllcontainern Waldschulstraße in Waldtrudering
+- TOP 3.6.: Sammlung von Verpackungsabfällen im Wertstoffhof
+- TOP 3.7.: Bürgerversammlungen effektiver und bürgerfreundlicher machen - <div>zur Kenntnis genommen</div>
+- TOP 3.8.: Erweiterung des Spielplatzes am Graf-Spee-Platz um eine Kletterwand / Abenteuereinheit
+- TOP 3.9.: Kein Google Street View in Trudering-Riem
+- TOP 3.10.: Einschulung 2010 in der Messestadt Ost, Kapazitätsgrenzen in Grundschulen, Horten etc.; Antwortschreiben Schul- und Kultusreferat zur Anfrage vom 22.04.10
+- TOP 3.11.: Hundepoller in der Grünanlage an der Huchenstraße; Antwortschreiben Baureferat-Gartenbau zur Anfrage aus der Sitzung vom 22.04.10
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Nachfragen zur Parksituation vor Waldtruderinger Drogeriemarkt
+- TOP 4.2.: Gespräch zu der Situation bei Veranstaltungen im Riemer Reitstadion
+- TOP 4.3.: Container an der Forellenschule nutzen
+- TOP 5: Anhörungen
+- TOP 5.1.: Joseph-Wild-Straße 2; Antrag auf Genehmigung von Werbeanlagen - 9 Werbetafeln
+- TOP 5.2.: Riemer Straße 346; Antrag auf Genehmigung von Werbeanlagen - 2 Großflächige Plakatwerbungen, beleuchtet (Fremdwerbung)
+- TOP 5.3.: Wertstoffcontainerstandort Birkhahnweg / Ecke Waldschulstraße; Antrag auf Standort
+- TOP 5.4.: Christbaumentsorgung im Winter 2010/11; Bitte um Standortvorschläge für Sammelstellen
+- TOP 5.5.: Gewofag Open Air Kino und 2 Tage public viewing, Riemer Park, Wiese hinter Quax, 08.07. - 11.07.2010
+- TOP 5.6.: Straßenfest in der Lehrer-Wirth-Straße am 17.07.2010 (Ersatztermin 24.07.2010)
+- TOP 5.7.: Straßenfest in der Maria-Montessori-Str. am 25.07.2010 (Ersatztermin: 01.08.2010)
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Fotowettbewerb für Kinder (TOP 4.8 / 05/10)
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Qualifizierte Nachverdichtung in Trudering und Riem (TOP 4.1 / 05/10)
+- TOP 7.2.: 12. Änderung des Flächennutzungsplanes der Gemeinde Aschheim, Photovoltaikpark, Bewirtschaftung eines "Greens" eines Golfplatzes; Schreiben Planungsreferat vom 14.05. und 18.05.2010 (TOP 7.3.1 / 02/10)
+- TOP 7.3.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für die Erweiterung des Umschlagbahnhofs München-Riem in der Landeshauptstadt München - Neubau einer Containerabstellanlage ("Lastdepot") - Anhörungsverfahren - Referat für Stadtplanung und Bauordnung
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Radweg Riemer Straße (TOP 7.4.1 / 04/10); Schreiben BA 13 vom 12.05.2010, Schreiben Baureferat-Tiefbau vom 20.05.2010
+- TOP 7.2.: Verkehrskonzept für die Niederalmstraße und den weiteren Umkreis; Antwortschreiben Planungsreferat an den BA 16 vom 17.05.2010
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Bezuschussung aus dem Budget des BA 15; Antrag der Chorgemeinschaft St. Peter und Paul vom 16.12.2009 auf Bezuschussung des Neujahrskonzwerts vom 17.01.2010; Schreiben des Oberbürgermeisters vom 05.05.2010
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Novellierung Baumschutzverordnung, Anhörung durch das Planungsreferat, Untere Naturschutzbehörde (TOP 5.11 / 05/10)
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: 8.2 Lachenmeyerstr. 32 8.3 Max-Beckmann-Str. 32 8.4 Florastr. 8a 8.5 Herderwiesweg 1 / Haus 1 8.6 Herderwiesweg 1 / Haus 2 8.7 Herderwiesweg 1 / Haus 3 8.8 Herderwiesweg 1 / Haus 4 8.9 Drosselweg 30 8.10 Hella-von-Westarp-Str. 31 8.11 Iltisstr. 34 8.12 Häherweg 14 8.13 Riemer Str. 349 8.14 Schatzbogen 31 8.15 Schmuckerweg 4 8.16 Kirtaweg 36 8.17 Schwedensteinstr.34 8.18 Linnenbrüggerstr. 22 8.19 Mondseestr. 14 8.20 Agathenstr. 14 a 8.21 Bussardweg 7
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine Promenadentreff im Juni nach Mitteilung der Vorsitzenden
+- TOP 9.2.: ?Konsequenzen aus Briefaktion des e.a. Stadtrates Karl Richterund Unterstützung des Anliegens des BA 1 Altstadt-Lehel? - Stellungnahmen anderer BAs
+- TOP 9.3.: Task- Force für die Ermittlung freier Potentiale bei der Kinderbetreuung einsetzen - Stellungnahmen anderer BAs
+- TOP 9.4.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten; Antwortschreiben Direktorium
+- TOP 9.5.: Radverkehr; Einrichtung von Fahrradstraßen; Schreiben des Kreisverwaltungsreferats
+- TOP 9.6.: Anliegerinformation: Einbau innovativen Fahrbahnbelags in der Wasserburger Landstraße zwischen Stadtgrenze und Friedenspromenade
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauvorhaben im Stadtbezirk vom 10.05.-23.05.2010
+- TOP 10.2.: Aufhebung eines personenbezogenen Behindertenparkplatzes in der Selma-Lagerlöf-Straße / Ingeborg-Bachmann-Straße, verkehrsrechtliche Anordnung
+- TOP 10.3.: Böcklerweg 21 - Abbruchanzeige
+- TOP 10.4.: In der Rosenau 3 - Abbruchanzeige
+- TOP 10.5.: Wamslerstraße 9 - Unveränderte Fortführung SSW "T&K Gastronomie und Entertainment UG"
+- TOP 10.6.: Max-Rothschild-Straße 6 - Unveränderte Fortführung Kleingaststätte "Cafe-Bar As"
+- TOP 10.7.: Bescheid über Anerkennung von Kindergartenplätzen, Elisabeth-Mann-Borghese-Straße 35 (75 Plätze)
+- TOP 10.8.: Bessere Information der Anlieger über die Erschließungskosten
+- TOP 10.9.: Stellungnahme von AAN und BN zum MVG-Leistungsprogramm 2011
+- TOP 10.10.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014; Unterrichtung durch die Stadtkämmerei
+- TOP 10.11.: Mehrjahresinvestitionsprogramm 2010 - 2014; verschiedene Stadtratsbeschlüsse - Entwurf Einzelplan 4 Sozialbereich - Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen - verschiedene Gliederungsziffern Referat für Stadtplanung und Bauordnung
