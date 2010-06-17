@@ -1,0 +1,128 @@
+# 37. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-06-17T17:30:00+02:00
+- Ende: 2010-06-17T22:25:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2233
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2233
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=75838
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Genehmigungspraxis für Spielhallen im Bezirk Mitte - beantwortet
+- TOP 4.2: Prüfungen von Anträgen auf Erteilung einer Glücksspiel-Lizenz - beantwortet
+- TOP 4.3: Erhöhung einer Vergnügungssteuer auf die Bruttoeinspielergebnisse bei Gewinnspielgeräten an allen Aufstellorten - ohne Änderungen in der BVV beschlossen
+- TOP 4.4: Keine Umgehung der Spielverordnung! - ohne Änderungen in der BVV beschlossen
+- TOP 4.5: Spielstätten: Kein Mehrwert für die Region aber Verstärkung von Suchtgefahr und Armut! - ohne Änderungen in der BVV beschlossen
+- TOP 4.6: Sicherstellung des Jugendschutzes beim Betrieb von Spielautomaten - ohne Änderungen in der BVV beschlossen
+- TOP 4.7: Mehr Kontrollen in legalen sowie gegen illegale Einrichtungen! - ohne Änderungen in der BVV beschlossen
+- TOP 4.8: Jugendschutz in Spielsalons und gleich gearteten Unternehmen - ohne Änderungen in der BVV beschlossen
+- TOP 4.9: Vergnügungsstättengesetz/-verordnung - ohne Änderungen in der BVV beschlossen
+- TOP 4.10: Bebauungspläne zur planungsrechtlichen Einflussnahme auf die Ansiedlung/Versagung von Spielhallen/Spielotheken - mit Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Alle Jahre wieder... Grillkontrollen im Tiergarten? - beantwortet
+- TOP 5.2: Grünanlagen um den Fernsehturm - beantwortet
+- TOP 5.3: Park Café - alles im (Ab)Fluss? - beantwortet
+- TOP 5.4: Nicht erledigte Beschlüsse der BVV hier: Drs.-Nr. 1200/III "Schulmodellversuch Produktionsschule" - beantwortet
+- TOP 5.5: Ende der vorläufigen Haushaltswirtschaft - beantwortet
+- TOP 5.6: Dialogdisplay - schriftlich beantwortet
+- TOP 5.7: QR-Wahlen im QM-Gebiet Soldiner Straße - schriftlich beantwortet
+- TOP 5.8: Angst vor der Bürgerbeteiligung!? - schriftlich beantwortet
+- TOP 5.9: Mehr Müll im Schillerpark? - schriftlich beantwortet
+- TOP 5.10: Kleingartenverband gegen Grünfläche und Kinderspielplatz - schriftlich beantwortet
+- TOP 5.11: Frauenbeirat Stadtplanung im Bezirk Mitte - kompetente BeraterInnen oder lästiges Damenkränzchen? - schriftlich beantwortet
+- TOP 5.12: Beteiligungsrechte der Stadtteilvertretung Müllerstraße - schriftlich beantwortet
+- TOP 5.13: Stellenbesetzung und Auswahlverfahren von Führungskräften - schriftlich beantwortet
+- TOP 5.14: Es war doch Geld da! Außenbeleuchtung in der Hansa-Grundschule - schriftlich beantwortet
+- TOP 5.15: Hat Mann und Frau da noch Töne - Baumaßnahmen in der Musikschule Fanny Hensel, Linienstraße 162 - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Wer hat den "Schwarzen Peter"? - beantwortet
+- TOP 6.2: Wie sozial ausgewogen ist das Sparpaket der Bundesregierung wirklich? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Keine Meldepflicht bei Gewaltvorfällen an Schulen: Gewaltzunahme oder nur statistischer Rückgang? - beantwortet
+- TOP 7.2: Treberhilfe in Selbstauflösung? Welche Auswirkungen hat das auf Mitte? - schriftlich beantwortet
+- TOP 7.3: Einbindung der zentralen Vergabestelle - schriftlich beantwortet
+- TOP 7.4: Senat + Kitas: Erst geben, dann nehmen - schriftlich beantwortet
+- TOP 7.5: Bebelplatz - kein Platz für Mercedes und Co. - schriftlich beantwortet
+- TOP 7.6: Parkraumbewirtschaftung - der Senat entscheidet künftig, wann, was und wo...?! - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Einzelhandels- und Zentrenkonzept des Bezirkes Mitte als Fachplan der BEP 2004 (Bereichsentwicklungsplanung) - überwiesen
+- TOP 9.2: Genehmigung der im Haushaltsjahr 2009 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf I-B5f (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B 5f - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplanentwurf I-B5g (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5g - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplanentwurf I-B5k (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5k - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauungsplanentwurf I-B5l (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5l - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf I-B5n (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5n - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bebauungsplanentwurf I-B5o (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5o - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Bebauungsplanentwurf I-B5q (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5q - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Bebauungsplanentwurf I-B24b (westliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B24b - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Bebauungsplanentwurf I-B5h (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5h - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Bebauungsplanentwurf I-B5i (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5i - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Bebauungsplanentwurf I-B5p (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5p - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Bebauungsplanentwurf I-B5r (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5r - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Bebauungsplanentwurf I-B5s (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5s - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Bebauungsplanentwurf I-B5v (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5v - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: QR-Wahlen im Bezirk - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Barriere freier Zugang - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bessere Arbeitsbedingungen für LehrerInnen und ErzieherInnen an den Grundschulen! - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: JAM - Gute Arbeit unserer bezirklichen freien Träger der Jugendberufshilfe - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Keine Dumpinglöhne in Mitte! Keine Vernichtung der Arbeitsplätze auf dem 1. Arbeitsmarkt! - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Rechtsanspruch auf frühkindliche Förderung uneingeschränkt umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Umbenennung der Einemstraße - überwiesen
+- TOP 12.6: Erfolgreiche Inklusion - Umsetzung der UN-Konvention in Mitte - überwiesen
+- TOP 12.7: Denkmal zur Mahnung und Erinnerung an die Bücherverbrennung am 10. Mai 1933 besser schützen - in der BVV zurückgezogen
+- TOP 12.8: Aktive Stadtzentren Müllerstr. und Turmstr. - Verfügungstellung von Protokollen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Zebrastreifen in der Kaiserin-Augusta-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Mitwirkung der Stadtteilvertretungen Müllerstraße und Turmstraße sicherstellen hier: Stadtteilvertretung in Steuerungsrunde - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Zeitlich befristetes Parkverbot in der Tiergartenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Neuordnung der JobCenter für mehr Integrationen, Qualität, Effizienz und Kundennähe nutzen - überwiesen
+- TOP 12.13: Mitwirkung der Stadtteilvertretungen Müller- und Turmstraße sicherstellen hier: Mitwirkung in Gutachten- und Wettbewerbsverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Wahl eines Stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Zwischennutzung des Schloss-Platzes - in der BVV zurückgezogen
+- TOP 12.16: Keine alleinige Entscheidung zur Ausgabensteuerung aus finanzpolitischer Sicht - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Fashion Week in Mitte sichern - Denkmal Bücherverbrennung Bebelplatz schützen - mit Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 13.1: Sozialen Frieden nicht durch undurchdachte und ungerechte Kürzungen gefährden! - mit Änderungen in der BVV beschlossen
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Bürgerschaftliches Engagement in und für Mitte fördern (II): Das bürgerschaftliche Engagement von Jugendlichen in die pädagogische Arbeit von Jugend-Einrichtungen integrieren - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Neubau des Gastronomie-Großmarktes an der Siemensstraße - mit Änderungen in der BVV beschlossen
+- TOP 15.3: GDM-Plan zügig umsetzen! - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Keine aktiven Zentren in Mitte ohne ethnische Ökonomie - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Jeder das, was ihr gehört: Grips-Spielgeräte für die Fritzlar-Homberg-Grundschule! - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Patenschaften von Zahnärztinnen und Zahnärzten mit Kitas und Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Krankenhäuser machen Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Teilnahme des Bezirks Mitte an der Initiative "Alter schafft Neues" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Moderne Freizeitform für junge Menschen in Mitte etablieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Verbraucherinformationsgesetz bürgerfreundlich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Kreuzung Fehrbelliner Straße/Ecke Veteranenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Nazis als Staatsbeamte verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Kritischen Dialog mit Migrantenvereinen fortführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Transparentes Ehrenamt 2010 - BVV informieren und einbeziehen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Mauerpark - mit Grün verbinden - statt durch Bebauung trennen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Wilhelmstraße - Wohnungen sind zum Wohnen da! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Hilfe für den Leopoldplatz zeitnah umsetzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.13: Bäume für den Mauerpark - jetzt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Evangelisches Zentrum am Hauptbahnhof: Sozialverträglichkeit des Vorhabens unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.15: Umzug der Wohngruppe mit Korsakow-Syndrom - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Keine Abschiebung von Ali Derakhshan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Zug der Erinnerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Beschluss über die Aufstellung des vorhabenbezogenen Bebauungsplans I-11-1 VE "Tieckstraße 22" im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
