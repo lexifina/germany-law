@@ -63,14 +63,9 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 115 | Sammlungen | 
 115.00 | Amtshandlungen für öffentliche Sammlungen auf Grund sammlungsrechtlicher Vorschriften | gebührenfrei
 118 | Schornsteinfegerwesen | 
-118.00 | Eintragung in die Bewerberliste nach § 4 Abs. 1 des Schornsteinfegergesetzes, in das besondere Verzeichnis gemäß § 12 Abs. 2 der Verordnung über das Schornsteinfegerwesen und die Wiedereintragung gemäß § 4 Abs. 2 Nr. 1 Buchst. a und Abs. 2 Nr. 2 und 3 der Verordnung über das Schornsteinfegerwesen | 63,25
-118.01 | Wiedereintragung in die Bewerberliste nach § 4 Abs. 1 und Abs. 2 Nr. 1 Buchst. b der Verordnung über das Schornsteinfegerwesen | gebührenfrei
-118.02 | Bestellung als Bezirksschornsteinfegermeister nach § 5 des Schornsteinfegergesetzes | 632,50
-118.03 | Bestellung als Bezirksschornsteinfegermeister nach § 5 des Schornsteinfegergesetzes im Falle der Bewerbung um einen anderen Kehrbezirk gemäß § 12 der Verordnung über das Schornsteinfegerwesen | 155,25
-118.04 | Bestellung als Bezirksschornsteinfegermeister auf Probe nach § 7 Abs. 1 Satz 1 des Schornsteinfegergesetzes | 126,50
-118.05 | Zulassung von Ausnahmen vom Verbot des Nebenerwerbs nach § 14 Abs. 3 Schornsteinfegergesetz | 46 bis 115
-118.06 | Bestellung zum Stellvertreter nach § 20, § 21 Abs. 2 oder § 28 Satz 3 des Schornsteinfegergesetzes | 57,50
-118.07 | Erteilung von Leistungsbescheiden zur Beitreibung von rückständigen Gebühren und Auslagen gem. § 25 Abs. 4 Schornsteinfegergesetz | 40 bis 207
+118.00 | Bestellung zum Bezirksschornsteinfegermeister nach § 5 Absatz 1 des Schornsteinfegergesetzes | 500,00 Euro
+118.01 | Bestellung eines Stellvertreters des zuständigen Bezirksschornsteinfegermeisters nach § 20 Satz 2 oder § 28 Satz 3 des Schornsteinfegergesetzes | 57,50 Euro
+118.02 | Erteilung von Leistungsbescheiden zur Beitreibung von rückständigen Gebühren und Auslagen gem. § 25 Abs. 4 Schornsteinfegergesetz | 40 bis 207
 12 | Öffentliche Sicherheit und Ordnung | 
 120 | Allgemeines Polizeirecht | 
 120.00 | Bestellung zum Hilfspolizeibeamten gem. § 76 Abs. 1 BremPolG | 69
@@ -174,7 +169,7 @@ Nr. | Kostentatbestand | Kostensatz in EUR
  | Anmerkungen zu 123.00 bis 123.02: | 
  | a) Gebührenschuldner sind die Empfangsberechtigten im Sinne des § 965 BGB (und die Finder, sofern sie gemäß § 973 BGB das Eigentum an der Sache erwerben). | 
  | b) Bei Tieren werden Gebühren nach 123.00 bis 123.02 nur solange berechnet, als diese nicht an eine Verwahrstelle (Tierheim) abgeliefert sind. | 
- | c) Neben der Gebühr zu 123.00 bis 123.02 sind die tatsächlich entstandenen Aufwendungen für das Abschleppen, Transportieren und Unterstellen von Fahrzeugen und anderen sperrigen Fundsachen zu erstatten. | 
+ | b) Neben der Gebühr zu 123.00 bis 123.02 sind die tatsächlich entstandenen Aufwendungen für das Abschleppen, Transportieren und Unterstellen von Fahrzeugen und anderen sperrigen Fundsachen zu erstatten. | 
 123.03 | Bescheinigung in Fundangelegenheiten | 5
 123.1 | Wohnwagen und Wohnwagenplätze | 
 123.10 | Genehmigung zur Aufstellung von Wohnwagen gem. § 2 Wohnwagengesetz bis zu einer Woche je Wagen | 9
@@ -222,7 +217,7 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 13.4.2.4 | einer Geburt im Ausland (§ 36 Abs. 1 PStG) | 50
 13.4.2.5 | eines Sterbefalls im Ausland (§ 36 Abs. 1 PStG) | 30
 13.4.3 | Beglaubigung oder Beurkundung einer Erklärung | 
-13.4.3.1 | zur Namensführung von Ehegatten (§ 41 Abs. 1 PStG)oder Lebenspartnern oder Lebenspartnerinnen (§ 42 Abs. 1 PStG) | 25
+13.4.3.1 | zur Namensführung von Ehegatten (§ 41 Abs. 1 PStG) oder Lebenspartnern oder Lebenspartnerinnen (§ 42 Abs. 1 PStG) | 25
 13.4.3.1.1 | zur Namensführung, wenn der in der Ehe oder Lebenspartnerschaft zu führende Name bei der Eheschließung oder Begründung der Lebenspartnerschaft bestimmt wird | gebührenfrei
 13.4.3.2 | zur Namensangleichung nach Artikel 47 des Einführungsgesetzes zum Bürgerlichen Gesetzbuch (§ 43 Abs. 1 PStG) | 30
 13.4.3.3 | zur Namensangleichung nach § 94 des Bundesvertriebenengesetzes (§ 43 Abs. 1 PStG) | gebührenfrei
