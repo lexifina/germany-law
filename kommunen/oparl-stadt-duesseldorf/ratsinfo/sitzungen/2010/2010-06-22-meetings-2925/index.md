@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-06-22T17:00:00+02:00
+- Ende: 2010-06-22T19:45:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2925
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2925
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142731.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142731.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00142731.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 2.1.1: Pl 5976/025-Düssel Park Gerresheim Süd- Aufstellung - zur Kenntnis genommen
+- TOP 2.1: Pl5976/22-Geb.beiderseits Nach den Mauresköthen-Aufheb.Aufst. - zur Kenntnis genommen
+- TOP 3: Plan Nr.5976/026-Nördl.Nach den Mauresköthen- Aufstellung - zur Kenntnis genommen
+- TOP 4: Öffentliche Grünanlage Bergische Landstraße - zur Kenntnis genommen
+- TOP 5: Dog Event auf der Galopprennbahn - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Geordnetes Parken auf der Morperstraße - zur Kenntnis genommen
+- TOP 8: Verwendung von Haushaltsmitteln - zur Kenntnis genommen
+- TOP 9: Widmung von Verkehrsflächen - zur Kenntnis genommen
+- TOP 9.1: Unterhaltung von Grundstücken u.a. - zur Kenntnis genommen
+- TOP 10: Spielplatz an der Hundewiese - zur Kenntnis genommen
+- TOP 11: Wegbeleuchtung Parkplatz Gerricusstraße - zur Kenntnis genommen
+- TOP 12: Wegweisung zum Parkplatz Gerricusstraße - zur Kenntnis genommen
+- TOP 13: Stadtteilkonferenzen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 13.1: Wildpark Grafenberger Wald - zur Kenntnis genommen
+- TOP 14: Treppengelände Waldweg Dreherstraße - zur Kenntnis genommen
+- TOP 14.1: Bogensport-Club Düsseldorf e.V. - zur Kenntnis genommen
+- TOP 15: Nutzung Hansenhof / Neuenhaus
+- TOP 15.1: Nutzung Gut Mydlinghoven - zur Kenntnis genommen
+- TOP 16: Baumfällungen an der Bergischen Landstraße - zur Kenntnis genommen
+- TOP 17: Zaun Golfclub - zur Kenntnis genommen
+- TOP 18: Bezirkssozialdienst - zur Kenntnis genommen
+- TOP 19: Falsch bemessene Wasserzähler - zur Kenntnis genommen
+- TOP 20: Baumschnitt im Naturschutzgebiet - zur Kenntnis genommen
+- TOP 21: Sichelstraße - zur Kenntnis genommen
+- TOP 22: Staufenhalle am Staufenplatz - zur Kenntnis genommen
+- TOP 23: Vorabinformation Erschließungskosten - zur Kenntnis genommen
+- TOP 24: Fahrradständer - zur Kenntnis genommen
+- TOP 25: Anwohnerparken Katharinenstraße - zur Kenntnis genommen
+- TOP 26: Sulzbachstraße - zur Kenntnis genommen
+- TOP 27: Wanderwege Golfplatz Kosaido - zur Kenntnis genommen
+- TOP 28: Brücke Steinweg - zur Kenntnis genommen
+- TOP 29: Platzgestaltung im Neubaugebiet Am Quellenbusch - zur Kenntnis genommen
+- TOP 30: Heyestraße - Errichtung Fußgängerschutzanlage und Zeitinsel Haltestelle Dörpfeldstr - zur Kenntnis genommen
