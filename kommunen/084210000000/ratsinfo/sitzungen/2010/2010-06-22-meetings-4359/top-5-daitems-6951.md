@@ -1,0 +1,8 @@
+# TOP 5: Hilfen zur Erziehung - Kennzahlenauswertung 2009
+
+- Sitzung: Sitzung des Jugendhilfeausschusses (2010-06-22)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/6951
+- Ergebnis: Kenntnis genommen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/1781
