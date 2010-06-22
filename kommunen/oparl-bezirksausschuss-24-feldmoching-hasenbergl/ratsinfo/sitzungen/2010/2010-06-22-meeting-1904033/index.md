@@ -1,0 +1,63 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-06-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904033
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904033
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Macht Barmherzigkeit" Kunstprojekt anl. des ökumenischen Kirchentages am 14.05.2010 Sitzungsvorlage Nr. 08-14 / V 04290 (vertagt in der Sitzung am 01.06.2010)
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt Mobile Spielaktion "Afrika" im August 2010
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Feldmochinger Rosstag am 10.10.2010
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Evangeliumskirche Gemeindefest am 11.07.2010
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Evangeliumskirche Kindermusical im November 2010
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: a) Ampelinstallation an der Kreuzung Lassallestraße / Franz-Fackler-Straße b) Bordsteinerhöhung an der Max-Wönner-Straße Ecke Lassallestraße c) Farbliche Umgestaltung der Glascontainer in der Toni-Pfülf-Straße d) Farbliche Umgestaltung der Glascontainer in der Hans-Böckler-Straße e) Absenkung der Türschwellen an der öffentlichen Toilette am Lerchenauer See an der Ecke Lassallestraße / Franz-Fackler-Straße f) Abflachung der Rampe an der Unterführung in der Lassallestraße (auf Höhe der Einkaufspassage) (Stadtteilcheck "Auf Herz und Rampen prüfen")
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Vollzug der Baumschutzverordnung; Ebereschenstraße 33 Neubau eines Dreispänners
+- TOP 5.2.: Katastrophenschutzübung mit Feldgottesdienst und Grillabend vom 31.07. - 01.08.2010 (Malteser Hilfsdienstes e.V.)
+- TOP 5.3.: Spieleaktionen vom 02.08. - 13.08.2010 von jeweils 14.00 - 17.00 Uhr - an der Grünanlage Gustav-Schiefer-Straße - am Skabiosenplatz (Freizeittreff Lerchenauer)
+- TOP 5.4.: Bauvorhaben Schneeglöckchenstr. 104
+- TOP 5.5.: Bauvorhaben Lerchenauer Str. 162
+- TOP 5.6.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten (Antrag Nr. 08-14 / B 01141 des Bezirksausschusses des Stadtbezirkes 5 vom 13.05.2009)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Sachstandsbericht zum StR-Antrag Nr. 84-90 / 102744
+- TOP 6.2.: Öffentliche Grün- und Ausgleichsfläche Am Blütenanger, B-Plan Nr. 1503 b
+- TOP 6.3.: S-Bahnhof Fasanerie, Wartehäuschen (Antrag Nr. 08-14 / B 02028 des BA 24)
+- TOP 6.4.: Spieleaktionen Spiellandschaft Stadt für das Jahr 2010
+- TOP 6.5.: Abmarkierung eines Parkplatzes für drei bis vier PKW im Bereich der Lerchenauer Straße 221-223 (Antrag Nr. 08-14 / B 01876 des BA 24 vom 08.12.2009)
+- TOP 6.6.: Antrag auf Budgetmittel des Bezirksausschusses 24 hier: Verwendung für eigene Veranstaltungen (max. 20% Ihres Jahresbudgets)
+- TOP 6.7.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung Frühzeitige Abrechnung von Erschließungsbeiträgen Empfehlung Nr. 08-14 / E 00252 des BA 24 am 26.03.2009 Bessere Information der Anlieger über die Erschließungskosten
+- TOP 6.8.: Kein Google Street View in Trudering-Riem Antrag des BA 15 Trudering - Riem Nr. 08-14 / B 01901 vom 25.02.2010 sowie darauf bezogene weitere Anträge der anderen Bezirksausschüsse
+- TOP 6.9.: Schleißheimer Straße (Westseite) zwischen Weitlstraße und Augustin-Rösch-Straße im 24. Stadtbezirk Feldmoching Hasenbergl Erstmalige Herstellung
+- TOP 6.10.: Verkehrsrechtliche Anordnung a) Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Am Schnepfenweg b) Absolutes Haltverbot in der Karlsfelder Straße östlich der Dachauer Straße
+- TOP 6.11.: Jahresbericht 2009 - Hilfe für Kids (Bericht im Sitzungsordner in der BA-Geschäftsstelle)
+- TOP 6.12.: Mehrjahresinvestitionsprogramm (MIP) 2010 - 2014 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Dissens 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 6.13.: Mehrjahresinvestitionsprogramm 2010 - 2014 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010 - 2014
+- TOP 6.14.: Leitlinie Bildung - Dokumentation der Öffentlichkeitsphase (Einsichtnahme in der Geschäftsstelle)
+- TOP 6.15.: Städt. Freisportanlage an der Lerchenauer Str. 270 Modernisierung der Freisportflächen im 24. Stadtbezirk Feldmoching-Hasenbergl
+- TOP 6.16.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahme zu den Anträgen der Bezirksausschüsse 4, 9 und 21
+- TOP 6.17.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.18.: Zuwendung aus dem Budget der Bezirksausschüsse Sommerfest am 25.06.2010
+- TOP 6.19.: Bestätigung für Kirmesfest 04. - 06.06.2010 auf dem Dülfer Anger zur Kenntnisnahme
+- TOP 6.20.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) Ausnahmegenehmigung gem § 7 Abs. 2 der 32. BImSchV
+- TOP 6.21.: Neu erschienen: "Angebote für Kinder und Jugendliche im KJR München-Stadt" und Geschäftsbericht 2009
+- TOP 6.22.: Information über eine Fahrbahnsanierung im BA 24
+- TOP 6.23.: Mobilfunk; Suchkreismeldung: Aufbau einer Mobilfunkanlage mit GSM-Technik im Suchkreis-Nr. 510303123
+- TOP 6.24.: Meldeliste Bauvorhaben
+- TOP 6.25.: Meldeliste Baumfällungsanträge
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
