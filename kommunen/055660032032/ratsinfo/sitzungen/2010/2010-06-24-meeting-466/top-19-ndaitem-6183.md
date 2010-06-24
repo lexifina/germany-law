@@ -1,0 +1,6 @@
+# TOP 19.: Mitteilungen und Anfragen
+
+- Sitzung: Rat (2010-06-24)
+- Körperschaft: Gemeinde Ladbergen
+- Öffentlich: ja
+- OParl: https://ladbergen.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6183
