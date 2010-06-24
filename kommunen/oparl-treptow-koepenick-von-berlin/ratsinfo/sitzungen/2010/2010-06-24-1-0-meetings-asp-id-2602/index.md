@@ -1,0 +1,82 @@
+# 42. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-06-24T16:30:00+02:00
+- Ende: 2010-06-24T22:05:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2602
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2602
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-42 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Nächtliche Geschwindigkeitsbegrenzung in der Schnellerstraße - mit Änderungen in der BVV beschlossen
+- TOP 9.2: Schlechterstellung des Bezugs von Wohngeld stoppen - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Errichtung eines Grillplatzes im Volks- und Waldpark Wuhlheide - mit Änderungen in der BVV beschlossen
+- TOP 9.4: Transparenz bei Befangenheitssituationen von Bezirksverordneten und Bürgerdeputierten - in der BVV zurückgezogen
+- TOP 9.5: Transparenz der Bezirksverordneten - mit Änderungen in der BVV beschlossen
+- TOP 9.6: Kein „Integrationsgesetz“ – Berlin diskriminierungsfrei - erledigt
+- TOP 9.7: Mitzeichnungen veröffentlichen - in der BVV abgelehnt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für AUDIO e. V. (SM 1024) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für Förderverein Lokale Agenda 21 Treptow-Köpenick e. V. (SM 1026) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für B.A.U.M. e. V. (SM 1032) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Selbsthilfegruppen Multiple Sklerose Berlin-Köpenick und Berlin-Treptow (SM 1033) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Treptower Teufel TC e. V. (SM 1035) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Förderverein KIEZKLUB RAHNSDORF e. V. (SM 1036) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Behindertenverein Köpenick e. V. (SM 1037) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: - Entwurf des Bebauungsplans XV-12-1 nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans XV-12-1 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Alt-Treptow - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für Humanistischen Verband (SM 1034) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.10: Sondermittel für FiPP e. V. - Abenteuerspielplatz Waslala (SM 1038) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Jugendinitiativgruppe Les Calcatoggios (SM 1040) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Tempo 30 auf der Bölschestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Querung von Kopfsteinpflasterstraßen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Müngersdorfer Straße - vertagt
+- TOP 12.4: E-Mobility - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Überarbeitete Begründung im Ergebnis des Anzeigeverfahrens gem. § 6 Abs. 4 AGBauGB zum Bebauungsplan XV-70a ("Bohnsdorf West") im Bezirk Treptow-Köpenick von Berlin, Ortsteile Bohnsdorf und Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Bürgerfreundliche Verwaltung im Internet verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Verkehrsstau in der Wilhelminenhofstraße, Ecke Siemensstraße entflechten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Kommunale Positionierung zum SGB II voranbringen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Schülermonatskarten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Kostendeckende Gebühren für Trauungen außerhalb der Rathäuser - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-53 ("Friedrichshagener Straße 10-12") hier: Einleitungsbeschluss - überwiesen
+- TOP 13.2: Bebauungsplan XV-12-1 („Wildenbruchstraße“) hier: Planreife für das Vorhaben gemäß Antrag vom 03.03.2010 für das Grundstück Bouchéstraße 71-74 im Bezirk Treptow-Köpenick, Ortsteil Alt-Treptow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan 9-50 ("Funkwerk Köpenick") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Erarbeitung eines bezirklichen integrierten Klimaschutzkonzeptes - überwiesen
+- TOP 14.2: Arbeitsgruppe zur Entwicklung des Treptower Nordens - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Mauer am Krankenhaus Köpenick - Aufhebung des Denkmalschutzes - überwiesen
+- TOP 14.4: Volksbegehren Berliner Wassertisch - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Einsetzung einer Ombudsperson zur Korruptionsprävention und -bekämpfung - überwiesen
+- TOP 14.6: Kinderbetreuung im Umfeld der HTW - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Renovierung und Instandsetzung beim Köpenicker Musikschulgebäude - überwiesen
+- TOP 14.8: Verbesserung der Querungsmöglichkeiten in der Siemensstraße - überwiesen
+- TOP 14.9: Mittel zur Umsetzung des Radwegekonzepts - überwiesen
+- TOP 14.10: Bereich der Hartriegelstraße 132 – keine weiteren Baugenehmigungen - in der BVV abgelehnt
+- TOP 14.11: zurückgezogen - im Ältestenrat zurückgezogen
+- TOP 14.12: Straßenbenennung nach Bezirksbürgermeister Erwin Bennewitz - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Fahrradabstellmöglichkeiten am Schlossplatz - überwiesen
+- TOP 14.14: Beidseitiger Angebotsstreifen für den Radverkehr am Adlergestell - überwiesen
+- TOP 14.15: Verkehrsregelungen Radickestraße - überwiesen
+- TOP 14.16: zurückgezogen - im Ältestenrat zurückgezogen
+- TOP 14.17: Querungshilfe zur Schulwegsicherung in der Wegedornstraße - überwiesen
+- TOP 14.18: Externer Ansprechpartner für Korruptionsfälle - überwiesen
+- TOP 14.19: Einrichtung eines Abstellplatzes für Mietfahrräder am S-Bahnhof Treptower Park - überwiesen
+- TOP 14.20: Fortsetzung des Projekts "Traditionelles Handwerk" - mit Änderungen in der BVV beschlossen
+- TOP 14.21: Sicherung und Erhalt des Bürgerhauses Grünau - vertagt
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bürgerhaus Grünau – Rettung möglich? - vertagt
