@@ -1,0 +1,7 @@
+# TOP 11: Prüfung von Gutachten
+
+- Sitzung: Rechnungsprüfungsausschuss (2010-06-28)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/7833
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/14513
