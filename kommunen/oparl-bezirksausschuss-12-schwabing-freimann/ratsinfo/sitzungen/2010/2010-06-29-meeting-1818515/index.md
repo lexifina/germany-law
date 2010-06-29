@@ -1,0 +1,115 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-06-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818515
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818515
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Kurzbericht des Vorsitzenden
+- TOP .3.: Ausstattung der U-Bahnwaggons bis 2014 mit Doppelbildschirmen zur Information der Kunden mit einem Mix aus Nachrichten, Unterhaltung und Werbung - Report des Vorsitzenden, Diskussion und Votum des BA12
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Änderung der BA-Satzung; Bildung eines Ferienausschusses Beschluss des Verwaltungs- und Personalausschusses vom 12.05.2010 Sitzungsvorlage Nr. 08-14 / V 04174
+- TOP .2.: "Werbewahn an der Münchner Freiheit" (Schreiben des BA 12 an die SWM; 27.05.2010)
+- TOP .3.: Eilentscheidungen: a) Antrag auf Baumfällung; Carl-Orff-Bogen 134 (Zustimmung mit Ersatzpflanzung) b) Erlaubnis für ein Feuerwerk; werneckstraße 6 (Zustimmung) c) Blade Day (Start/Ziel: Arcisstr.) am 04.07.2010 (Zustimmung)
+- TOP .1.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten Antrag Nr. 08-14 / B 01141 des Bezirksausschusses 5 Au-Haidhausen vom 13.05.2009
+- TOP .2.: Tranzparenz auch auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen BA-Antrags-Nr. 08-14 / B01378 des Bezirksausschusses 15 - Trudering-Riem und BA-Antrags-Nr. 08-14 / B01400 des Bezirksausschusses 22 - Lochhausen-Langwied
+- TOP .10.: Sonstiges
+- TOP .3.: Besetzung des Feriensenats
+- TOP .4.: 18. jetzt - Fest junger Erwachsener im Rathaus am 09.10.2010
+- TOP .1.: Genehmigung einer Freischankfläche, Rheinstraße
+- TOP .2.: Genehmigung zur Aufstellung einer neuen Verkaufseinrichtung auf öffentlichem Grund (Regal mit Schuhen), Clemensstraße
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Novellierung der Baumschutzverordnung (Synopse des PlanR; 25.05.2010)
+- TOP .2.: Gemeinde Oberschleißheim, Bebauungsplan Nr. 71 "Sondergebiet Wissenschaft" in Badersfeld Flächennutzungsplanänderung
+- TOP .3.: Fritz-Hommel-Weg 2, Flurstück 889/18Nutzungsänderung eines Hotels in eine Wohnanlage - Vorbescheid
+- TOP .4.: Leopoldstraße 18, Flurstück 3290/13, Erweiterung (Anbau) und Sanierung - Tektur
+- TOP .5.: Giselastraße 3a, Flurstück 3257/0, Umbau des EG + 1.OG; Nutzungsänderung eines Teilbereichs im EG von Wohnen in Gewerbe; Abbruch eines ausgebauten DGs (Wohnnutzung); DG-Neuaufbau; Errichtung eines Aufzugs (KG-DG); Neubau einer Eingangstreppe
+- TOP .6.: Schererhofstraße 6, Flurstück 115/10, Neubau zweier Wohngebäude mit Doppelgarage und Carport
+- TOP .7.: Osterwaldstraße 10, Flurstück 1055/0, Nutzungsänderung Lodenfrey-Park / Häuser A-H+X - zu 2000/66578 Haus D, Eingang 10, 10a-c, 13 / 2.+3.OG
+- TOP .8.: Haimhauserstraße 13, Flurstück 271/0, Nutzungsänderung einer Wohneinheit im 2. OG in Büros + Instandsetzungsarbeiten
+- TOP .9.: Lyonel-Feiniger-Str. 3, Flur-Nr.: 865/0, Abgrabung zur Grundstücksaufbereitung / freiwilligen Altlastensanierung
+- TOP .10.: Bernsteinweg 11, Flurnr.: 309/266, Neubau eines Einfamilienhauses, Haus G
+- TOP .11.: Pferggasse, Flurnr.: 309 / 557, Neubau eines Zweifamilienhauses
+- TOP .12.: Leopoldstraße 78, Flurnr.: 21/0, Nutzungsänderung von einem Restaurant zu einem Einzelhandel für Backwaren
+- TOP .13.: Mies-van-der-Rohe-Str. 8, Flurnummer 844/13, 1 Lichtwerbeanlage
+- TOP .14.: Franz-Joseph-Straße 16, Flurnummer 4465/9, Errichtung eines Anbaus (an ein MFH) mit 3 Wohnungen, 2 Büros, Tiefgarage
+- TOP .15.: Leopoldstraße 250, Flurnummer 837/13, Neubau einer Wohnanlage (57 WE) mit Tiefgarage - 2.BA
+- TOP .16.: Antrag auf Genehmigung einer Freischankfläche, Coffee Table am Viktoriaplatz, Viktoriastraße
+- TOP .1.: Ensemble-Schutz für die Schumann'schen Pavillonhäuser
+- TOP .1.: Darstellung und Ausführung zu den augenblicklich bearbeiteten und demnächst vorzustellenden städtebaulichen Entwürfen im Planungsgebiet zwischen Leinthalerstraße und ehemaliger Papierfabrik
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Baumaßnahmen der SWM, a) Stromprojekt Wilhelmstraße b) Fernwärmeprojekt U-Bahnhof Münchner Freiheit c) Fernwärmeprojekt Burmesterstraße
+- TOP .2.: Werbung im öffentlichem Raum; Stellungnahmen zu den eingebrachten Anträgen des BA 12 (1) Bezirksausschuss 4, Schwabing-West (2) Bezirksausschuss 11, Milbertshofen-Am Hart (3) Bezirksausschuss 13, Bogenhausen (4) Bezirksausschuss 19, Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (5) Bezirksausschuss 21, Pasing-Obermenzing (6) Bezirksausschuss 1, Altstadt-Lehel (7) Bezirksausschuss 2, Ludwigsvorstadt-Isarvorstadt (8) Bezirksausschuss 3, Maxvorstadt (9) Bezirksausschuss 21, Pasing-Obermenzing
+- TOP .3.: Ausgleichsflächen in der Bauleitplanung; Gesamtstädtisches Konzept a) Grundsatzbeschluss b) Neue Wälder braucht die Stadt (Antrag Nr. 509 der Stadtratsfraktion BÜNDNIS 90 / DIE GRÜNEN/RL vom 24.06.1997 c) Flächenpool für ökologische Ausgleichsflächen; Pilotprojekt "Eschenrieder Moos mit 1. Münchner Ökokonto" (Antrag Nr. 3465 von Herrn Stadtrat Helmut Pfundstein vom 28.12.2001 Sitzungsvorlagen Nr. 08-14 / V 03620 Beschluss der Vollversammlung des Stadtrates vom 28.04.2010
+- TOP .4.: Borkenkäferbefall - Freisinger Landstraße 72 (Schreiben der Unteren Naturschutzbehörde; 07.05.2010)
+- TOP .5.: Straßenbenennung im 12. Stadtbezirk Schwabing-Freimann; Hans-Döllgast-Straße und Otl-Aicher-Straße
+- TOP .6.: Mehrjahresinvestitionsprogramm 2010 - 2014 (Fortschreibung) - Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010 - 2014 Sitzungsvorlagen Nr. 08-14 / V 04345 - Gliederungsziffern Sitzungsvorlagen Nr. 08-14 / V 04346 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.2010
+- TOP .7.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung Bessere Information der Anlieger über die Erschließungskosten Empfehlung Nr. 08-14 / E 00205 der Bürgerversammlung des Stadtbezirks 24 Felmoching-Hasenbergl Beschluss des Bauausschusses vom 15.06.2010 Sitzungsvorlage Br. 08-14 / V 04017
+- TOP .1.: Abbiegeverbot für LKW's von der Leopoldstraße in die Ungererstraße
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Instandsetzung der Unterführung am Eisbach, in Höhe der Leinthalerstraße
+- TOP .1.: Errichtung eines Verkehrshelferüberganges; Bauernfeindstraße
+- TOP .2.: Umwandlung des eingeschränkten Haltverbots in der Eisenacher Straße Nordseite in ein absolutes
+- TOP .1.: Lichtzeichenanlage - Bauprogramm für 2010
+- TOP .2.: Radverkehr; Einrichtung von Fahrradstraßen
+- TOP .3.: Christbaumsammlung im Winter 2010/2011
+- TOP .4.: Genehmigung für die Errichtung und den Betrieb einer Anlage zum Brechen und Sieben von Abfällen im Rahmen der Rekultivierungsmaßnahmen auf der Schüttgutdeponie München Nord, Freisinger landstraße 245
+- TOP .5.: Novellierung der Bade- und BootVO, Verordnungsentwurf vom 14.05.2010
+- TOP .1.: Wegbeschilderung von der U6-Haltestelle Freimann zur Mohr-Villa
+- TOP .2.: Erlaubnis zum Aufstellen eines Fahrradständers; Herzogstraße
+- TOP .1.: Änderung der Zufahrt auf die A9
+- TOP .2.: "Freihalten" der neuen Straßenbahnhaltestelle an der Münchner Freiheit
+- TOP .3.: Aufstellung von Abfallbehältern für die benutzten Tüten mit Hundehinterlassenschaft
+- TOP .1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Echinger Straße 12 e
+- TOP .1.: Elektrosmog durch Trafostation am Parzivalplatz (Schreiben des RGU; 17.05.2010)
+- TOP .2.: Stellungnahme zum Leistungsprogramm 2011der MVG des Arbeitskreises Attraktiver Nahverkehr (AAN) und des Bund Naturschutz in Bayern e.V. (BN)
+- TOP .3.: Ameisenplage auf Spielplätzen (Schreiben des Baureferates - Gartenbau)
+- TOP .4.: Bushaltestelle Germaniastraße; MetroBuslinie 54 (Schreiben der MVG vom 17.05.2010)
+- TOP .5.: Bushaltestelle Münchner Freiheit (Schreiben der MVG; 18.05.2010)
+- TOP .6.: Filmaufnahmen auf öffentlichem Verkehrsgrund (4)
+- TOP .7.: Ausnahmegenehmigung zur Nutzung - im Rahmen der Durchführung von Mäharbeiten - von Geräten und Maschinen abweichend von den Zeitfenstern der 32. BImSchV
+- TOP .8.: Kein Google Street View in Trudering-Riem; Schreiben des Herrn OB Ude vom 27.05.2010
+- TOP .9.: Information über Gleisbauarbeiten am Kieferngarten; Schreiben der MVG vom 02.06.2010
+- TOP .10.: Rümannstraße: Radweg Richtung Westen auf der Straße abmarkieren; Stellplätze auf dem jetzigen Radweg einrichten Empfehlung Nr. 08-14 / E 00377 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West Beschluss des Bezirksausschusses 4 Schwabing-West vom 30.06.2010 Sitzungsvorlage Nr. 08-14 / V 04293
+- TOP .1.: Gewährung eines Zuschusses aus dem Budget des BA 12 a) digitalanalog e.V. für die Maßnahme: Kinder Foto-Workshop am 13.08.2010 b) Hasting Studio für die Maßnahme: Tanzaufführung am 17./18.07.2010 c) MTSV Schwabing e.V. für die Maßnahme: Jubiläumsveranstaltung vom 16.-18.07.2010 d) Initiative "84 Ghz" für die Maßnahme: Kunst im Karrée 2010 vom 09.-11.07.2010 e) Freizeittreff Freimann für die Maßnahme: Spielfest des Freizeittreffs Freimann am 26.06.2010 f) Seidlvilla e.V. für die Maßnahme: Sommerfest am 17.07.2010 g) Seidlvilla e.V. für die Maßnahme: Ausstellung "Anderswo" vom 01.-30.07.2010 h) CLEEC e.V. für die Maßnahme: Kinder- und Jugendinsel des Corso Leopold Straßenfestes am 11./12.09.2010 i) Evangelisches Hilfswerk, Teestube "komm"-Streetwork für die Maßnahme: Sommerfest am 06.08.2010 j) Mohr-Villa Freimann e.V. für die Maßnahme: Wiedereröffnungsfeier in der Mohr-Villa am 07.07.2010
+- TOP .1.: Straßenfest KJR "School's over Jam" am 30.07.2010 im Fußgängerbereich Münchner Freiheit
+- TOP .2.: Kunstprojekt "Landart of the Butterfly"
+- TOP .3.: Alt-Schwabinger Wirtefest am 17.07.2010
+- TOP .4.: Jubiläumsfeier "125 Jahre MTSV Schwabing" vom 16. - 18.07.2010 an der Münchner Freiheit
+- TOP .5.: Sommerfest der Aristoteles Schule am 17.07.2010, Edmund-Rumpler-Str. 9 und auf der Grünanlage Heidemannstr. östl MOC
+- TOP .6.: Feuerwerk Kl. II zur Verabschiedung des Amerikanischen Generalkonsuls M. Eric Nelson am 04.07.2010, Ifflanstraße 40
+- TOP .1.: Erregung öffentlichen Ärgernisses und Lärmbelästigung bei Veranstaltungen im Zenith und Kesselhaus in Freimann
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Iphitos Restaurant" Schank- und Speisewirtschaft, Aumeisterweg
+- TOP .2.: Gasthaus Weinbauer, Schank- und Speisewirtschaft, Fendstraße
+- TOP .3.: "Pasta e Basta", Schank- und Speisewirtschaft, Feilitzschstraße
+- TOP .1.: Erlaubnisbescheid - Veranstaltung auf öffentlichem Verkehrsgrund - Münchner Blade Night 2010 vom 17.05. bis einschließlich 13.09.2010
+- TOP .2.: Information zur Auswahl der Gebiete mit besonderem Handlungsbedarf für REGSAM
+- TOP .3.: Zuwendungsbewilligung aus dem Budget des BA 12 a) Kulturverein Alte Heide e.V. für die Theateraufführung "Hamlet"
+- TOP .4.: Verwendungsnachweis über den gewährten Zuschuss aus dem Budget des BA 12 a) Theater Heppel & Ettlich für die Maßnahme: Instandsetzung des Theaters b) CLEEC e.V. für die Maßnahme: zweites deutsch-chinesisches Frühlingsfest
+- TOP .5.: Stärkung der Stadtteilkultur (Beschluss) mit Erfahrungsbericht (Bekanntage) des Kulturausschusses vom 08.07.2010 Sitzungsvorlage Nr. 08-14 / V 04495
+- TOP .6.: Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen
+- TOP .7.: Information zur Auswahl der REGSM-Gebiete mit einem besonderen Handlungsbedarf
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
