@@ -1,0 +1,144 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-06-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829142
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829142
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH 20-Jahr-Feier der Beratungsstelle Mimiky am 30.06.2010
+- TOP .2.: Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Schwanthalerstraße Aktion "Schulhofspiele" am 05.07.2010
+- TOP .3.: (E) Budget der Bezirksausschüsse Green City e.V. Wanderbaumalleestandort und -umzug vom 24.06. - 28.07.10
+- TOP .4.: (E) Budget der Bezirksausschüsse Initiative "Gedenken an Thaddy Robl" Grabrenovierung und Öffentlichkeitsarbeit für die Veranstaltung am 18.06.2010
+- TOP .5.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München, Teestube "komm"-Streetwork Sommerfest am 06.08.2010
+- TOP .6.: BA-eigene Veranstaltung: Kinder- und Jugendeinwohnerversammlung zum Weltkindertag PLENUMSBESCHLUSS
+- TOP .1.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik, Diskussionsphase
+- TOP .2.: Schulweghelfer im Umgriff der Grundschule an der Schwanthalerstraße
+- TOP .1.: Erneuerung des Belags vom Bolzplatz beim KuBu
+- TOP .2.: Sozial verträglicher Umgang mit stadteigenen Mietwohnungen; Beschluss des Kommunalausschusses vom 22.04.2010
+- TOP .3.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen: - KiTa Baumstr. 18 - KiTa Landwehrstr. 64a
+- TOP .4.: Mehrjahresinvestitionsprogramm für die Jahre 2010-2014
+- TOP .5.: Kreisjugendring: Jahresbericht 2009 - Hilfe für Kids
+- TOP .6.: Stärkung der Stadtteilkultur; Beschluss Kulturausschuss vom 08.07.2010
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Antrag des BA 1: Wahrung der Sichtachse - Kamine auf dem Heizkraftwerk Müllerstr. 7 PLENUMSBESCHLUSS
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Schmellerstr. 21: Tektur
+- TOP .2.: Schwanthalerstr. 61: Tektur
+- TOP .3.: Schillerstr. 17: Nutzungsänderung
+- TOP .4.: Klenzestr. 51: Ausbau, Umbau und Modernisierung des DG
+- TOP .5.: Paul-Heyse-STr. 8: Aufstockung Hostel und Errichtung Außenaufzug
+- TOP .6.: Arnulfstr. 17: Neubau Wirtsgarten
+- TOP .7.: Baaderstr. 1a: Sanierung und Umbau VGB
+- TOP .8.: Goethestr. 3: Nutzungsänderung
+- TOP .9.: Reichenbachstr. 12: Nutzungsänderung
+- TOP .10.: Isartalstr. 32: Tektur
+- TOP .11.: Schwanthalerstr. 2: Nutzungsänderung
+- TOP .12.: Adlzreiterstr. 15: Sanierung, Aufstockung und Nutzungsänderung
+- TOP .13.: Querungshilfe Grasserstraße
+- TOP .14.: Landwehrstr. 19: Sanierung eines bestandsgebäudes
+- TOP .15.: Dreimühlenstr. 29: Nutzungsänderung
+- TOP .16.: Schwanthalerstr. 58: Neuerrichtung Geschäftshaus
+- TOP .17.: Baaderstr. 1a: Sanierung und Umbau
+- TOP .18.: Kapuzinerstr. 17: Anbau Balkone
+- TOP .19.: Ehrengutstr. 7: Nutzungsänderung
+- TOP .20.: Thalkirchner Str. 55: Renovierung und Modernisierung
+- TOP .21.: Thalkirchner Str. 78: Anbau von Balkonen
+- TOP .22.: Aventinstr. 1: Nutzungsänderung
+- TOP .23.: Waltherstr. 27: DG-Ausbau und Neubau Balkone
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Fraunhoferstr. 43 PLENUMSBESCHLUSS
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Baumaßnahmen SWM: Stromprojekt Reichenbachstraße
+- TOP .2.: Hermann-Lingg-Straße zwischen Bayerstraße und Schwanthalerstraße: Erneuerungsmaßnahme mit Verbesserungen; Beschluss der Bauausschusses vom 11.05.2010
+- TOP .3.: Vorkaufsrecht nach dem BauGB: Landwehrstraße
+- TOP .4.: Baumaßnahmen der SWM: - Fernwärmeprojekt Schwanthalerstraße - Stromprojekt Buttermelcherstraße
+- TOP .5.: Änderung Flächennutzungsplan für den Bereich I/33 Müllerstraße sowie vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1999; Beschluss Vollversammlung Stadtrat vom 19.05.2010
+- TOP .6.: Vorkaufsrecht nach dem BauGB: Fraunhoferstraße
+- TOP .7.: Fraunhoferstr. 43: Vorbescheid
+- TOP .8.: Gärtnerplatz 2: Genehmigungsbescheid
+- TOP .9.: Pestalozzistr. 19: Rückmeldung LBK bzgl. entfallender Stellplätze
+- TOP .10.: Häberlstr. 1: Rückmeldung LBK bzgl. Stellplatznachweis
+- TOP .11.: Mehrjahresinvestitionsprogramm 2010-2014; Beschluss Ausschuss Stadtplanung und Bauordnung vom 09.06.2010
+- TOP .12.: Unterrichtung über das Fällen von Gefahrbäumen
+- TOP .13.: Hermann-Lingg-Straße, Erneuerungsmaßnahme mit Verbesserungen; Beschluss Bauausschuss vom 11.05.2010
+- TOP .14.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung; Beschluss Bauausschuss vom 15.06.2010
+- TOP .1.: Bürgeranliegen: Neugestaltung der Grünfläche Ecke Rumfordstr / Klenzestr
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: entfällt siehe neuer Antrag TOP C 2.1.4
+- TOP .2.: Antrag für eine Freischankfläche: Kapuzinerstr. 39a
+- TOP .3.: Antrag auf Freischankflächenerweiterung: Schützenstr. 10
+- TOP .4.: Antrag auf Sperrzeitaufhebung: Landwehrstr. 16 - NEU - PLENUMSBESCHLUSS
+- TOP .5.: Antrag für eine Freischankfläche: Schillerstr. 30 PLENUMSBESCHLUSS
+- TOP .6.: Antrag auf Freischankflächenerweiterung: Arndtstr. 2 PLENUMSBESCHLUSS
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für einen Fahrradständer: Müllerstr. 53
+- TOP .2.: Antrag für eine Warenstellage: Schwanthalerstr. 26 PLENUMSBESCHLUSS
+- TOP .3.: Antrag für eine Warenstellage: Häberlstr. 19 PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Straßenfest Reifenstuelstraße am 24,07.2010 (Frist bis 01.07.2010)
+- TOP .2.: Straßenfest auf dem St. Pauls-Platz am 04.07.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Austausch der Lichtzeichenanlage Roecklplatz (Frist bis 15.06.2010) siehe TOP C 1.3
+- TOP .2.: Lichtzeichenanlagen-Bauprogramm für 2010 (Frist bis 19.06.2010)
+- TOP .1.: Christbaumentsorgung im Winter 2010/11
+- TOP .1.: Filmaufnahmen auf öffentlichem Verkehrsgrund (10)
+- TOP .2.: Versammlungen unter freiem Himmel (9)
+- TOP .3.: Antrag für eine Warenauslage in der Schillerstr. 17: weiteres Verfahren (Entscheidung OB)
+- TOP .4.: Erlaubnisbescheid Ökumenischer Kirchentag vom 12. - 16.05.2010
+- TOP .5.: Unveränderte Gaststättenfortführung: - 8seasons Café & Bar, Sonnenstr. 24 - Weißbierstadl, Kapuzinerstr. 39a - K 50, Baaderstr. 68 - Nerds, Reichenbachstr. 37 - Aurum, Hans-Sachs-Str. 20 - Le Cioque, Schützenstr. 9
+- TOP .6.: 2. Ökumenischer Kirchentag: Schreiben des RAW
+- TOP .7.: Kulturstrand für München; Beschluss des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 11.05.2010
+- TOP .8.: Vollzug des BImSchG: Ausnahmezulassung Goetheplatz
+- TOP .9.: Radverkehr, Errichtung von Fahrradstraßen: Infoblatt
+- TOP .10.: Verkehrsrechtliche Anordnung nach § 45 StVO: Haltverbot vor der Holzstr. 21
+- TOP .11.: Schriftliche Mahnung der Freischankflächenbesitzer
+- TOP .12.: Müllbeseitigung bei Veranstaltungen auf der Theresienwiese: Rückmeldung des Referats für Arbeit und Wirtschaft
+- TOP .13.: Bürgerschreiben: Aggressiver Schäferhund mit aggressivem Halter
+- TOP .14.: Bürgerschreiben: Freischankfläche Reichenbachstraße (Rückmeldung der Polizeiinspekiton 14)
+- TOP .15.: Bürgerschreiben: Anwohnerparken während des Oktoberfestes (Rückmeldung des KVR)
+- TOP .16.: Keine Videoüberwachung am Sendlinger Tor
+- TOP .17.: Erlaubnisbescheid ANwohnerfest Klenzestraße am 03.06.2010 (Ersatztermin 06.06.2010)
+- TOP .18.: Antrag für eine Warenstellage: Schillerstr. 17 (Entscheidung des Oberbürgermeisters)
+- TOP .19.: Initiative Gärtnerplatz - Maßnahmen für ein toleranteres und rücksichtsvolles Zusammenleben am Gärtnerplatz Durchsetzung der Grünanlagensatzung im Rondell des Gärtnerplatzes vor allem in der Zeit von 23.00 Uhr bis 6.00 Uhr; BA-Antrag Nr. 08-14 / B 02003 Reinigung des Gärtnerplatzes in der Zeit von 23.00 Uhr bis 24.00 Uhr; BA-AntragNr. 08-14 / B 02004
+- TOP .20.: 1. Der letzte Wiesnsonntag wird total reservierungsfrei und ein Kindernachmittag mit ermäßigten Preisen. 2. Die Wiesn wird nicht um den zusätzlichen Montag verlängert.
+- TOP .21.: Kein Google Street View - Antrag des BA 15 (Rückmeldung des Oberbürgermeisters)
+- TOP .22.: Erlaubnisbescheid Anwohnerfest Baaderstraße am 12.06.2010
+- TOP .23.: Erlaubnisbescheid: Anwohnerfest Geyerstraße am 12.06.2010
+- TOP .1.: Bürgeranliegen: Antrag auf Sperrung der Hackerbrücke während des Oktoberfestes
+- TOP .2.: Bürgeranliegen: Ausgleichendes Bewohnerparken während des Oktoberfestes
+- TOP .3.: entfällt
+- TOP .4.: Bürgeranliegen: Verbesserung des Verkehrsflusses in der Nähe Gärtnerplatz
+- TOP .5.: Bürgeranliegen: Zaun zwischen Freischankfläche und Radweg, Lindwurmstr. 7
+- TOP .6.: Bürgerschreiben: Veranstaltungen im Rahmen des ÖKT (2)
+- TOP .7.: Bürgeranliegen: Maßnahmen gegen Zustellen des Baaderplatzes
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Änderung der BA-Satzung: Bildung eines Ferienausschusses; Beschluss Verwaltungs- und Personalausschuss vom 12.05.2010 (z.K.)
+- TOP .2.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten, BA-Antrag Nr. 08-14/B 01141 des BA 5 (Stellungnahme)
+- TOP .3.: Außerordentliche Bürgerversammlung für alle Münchner Bürger zur 2. S-Bahn-Stammstrecke (Stellungnahme)
+- TOP .4.: Terminfestlegung für die Sitzungen 2011 + Feriensenat am 30.08.2011
+- TOP .5.: Oktoberfest 2010, Reservierung in der Ratsboxe: Terminfestlegung
+- TOP .6.: Veröffentlichung von BA-Sitzungsprotokollen BA-Antrag Nr. 08-14 / B 1378 des BA 15 sowie BA-Antrag Nr. 08-14 / B 1400 des BA 22
+- TOP .7.: Besetzung des Feriensenats am 31.08.2010
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
