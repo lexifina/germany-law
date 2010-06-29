@@ -1,0 +1,97 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-06-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868806
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868806
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Einrichtung eines Giftmobil-Standortes am Piusplatz in Berg am Laim (Ziffer 1 des Antrages) Empfehlung Nr. 08-14 / E 00554 der Bürgerversammlung des Stadtbezirkes 14 Berg am Laim am 16.03.2010 - <div></div>
+- TOP 1.2.: Rosenheimer Straße 155 ? Genehmigung einer Freischankfläche
+- TOP 1.3.: Aschheimer Straße 1 ? Genehmigung einer Freischankfläche
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Belange und Zielsetzungen des Quartiers Echardinger Str. / Bad-Schachener-Str. / Fehwiesenstr. / Innsbrucker Ring
+- TOP 3.1.1.2.: Berg-am-Laim-Str. 99 ? 1 hinterleuchtete Wechselwerbeanlage als Wandanlage
+- TOP 3.1.1.3.: Baumkirchner Str. 17 ? Nutzungsänderung: Hotel zu Wohnheim für Jugendliche mit Migrationshintergrund
+- TOP 3.1.1.4.: Überseeplatz ? Antrag auf Neueinrichtung einer Wertstoffsammelstelle
+- TOP 3.1.2.3.: Fußgängerbereich in der Leuchtenbergunterführung - Bürgerschreiben - <div></div>
+- TOP 3.1.2.4.: Entscheidungsrecht für die Bezirksausschüsse bei der Genehmigung von Umlaufsperren
+- TOP 3.1.2.5.: Antrag auf Errichtung einer Kurzparkzone in der Kreillerstr. stadteinwärts im Bereich zwischen Eigenhausstraße und Virgilstraße
+- TOP 3.1.2.6.: Lichtzeichenanlagen-Bauprogramm für 2010
+- TOP 3.1.3.1.: Christbaumentsorgung im Winter 2010 / 11
+- TOP 3.2.1.: Musikveranstaltungen des Bürgerkreises Berg am Laim am 25.06. & 06.08.10 im Behrpark
+- TOP 3.2.2.: Theateraufführungen des Bürgerkreises Berg am Laim im Behrpark 17. & 18.07.10, 24. & 25.07, 31.7. & 01.08.10
+- TOP 3.2.3.: Gastspiele Marionettentheater Maatz - Kirchseeoner Str. und St.-Veit-Str., 28.09.-04.10.10 und 05.10.-11.10.10
+- TOP 3.2.4.: Kasperltheater Stoßberger - St.Veit-Str., am 24.06.-27.06.2010
+- TOP 3.2.5.: Schulfeier mit Feuerwerk Kl. II, Josephsburgstr. 22, Schulgelände, am 22.07.2010
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Keine Anmietung des Anwesens Baumkirchner Straße 17, "Hotel Eisenreich", in Berg am Laim zur Unterbringung von heranwachsenden unbegleiteten männlichen Flüchtlingen aus dem Irak: keine Verschwendung von Fördermitteln, keine Gefährdung der Sanierungsziele des Projekts "Soziale Stadt", nochmalige Prüfung und Abstimmung der Situation mit den Bürgerinnen und Bürgern in Berg am Laim
+- TOP 3.5.1.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Eltern-Kind-Init. Ali Baba e.V. Errichtung eines Podests im Hortraum - <div></div>
+- TOP 3.6: Sonstiges
+- TOP 3.7.1.: Halfinger Str. 28 ? Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 3.7.2.: Dornbergstr. 38 ? Antrag auf Baumfällung
+- TOP 3.7.3.: Trainsjochstr. 11 ? Antrag auf Baumfällung
+- TOP 3.7.4.: Berg-am-Laim-Str. 84 ? Antrag auf Baumfällung
+- TOP 3.7.5.: Truderinger Str. 191 ? Antrag auf Baumfällung
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: ?Mango's? - Grafinger Str. 6 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.3.: ?Volksgarten Gaststätte? - Rosenheimer Str. 145 h ? Unveränderte Fortführung
+- TOP 4.1.1.4.: ?Volksgarten Diskothek? - Rosenheimer Str. 145 h ? Unveränderte Fortführung
+- TOP 4.1.1.5.: ?Sirinyer? - Gotteszeller Str. 2 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.6.: Truderinger Str. 112 ? Errichtung zweier Großflächenfremdwerbeanlagen; Zurückziehung
+- TOP 4.1.1.7.: Hachinger Bach ? Renaturierung zwischen Kampenwandstraße und Hüllgraben
+- TOP 4.1.1.8.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung - Frühzeitige Abrechnung von Erschließungsbeiträgen
+- TOP 4.1.1.9.: Planungen ROst ? Kultfabrik / Optimol nach 2010
+- TOP 4.1.2.1.: Radverkehr ? Einrichtung von Fahrradstraßen
+- TOP 4.1.2.2.: Ampelschaltung an der Kreuzung Ampfingstr. / Berg-am-Laim-Str. - Bürgerschreiben
+- TOP 4.1.2.3.: Stellungnahmen von AAN und BN zum MVG Leistungsprogramm 2011
+- TOP 4.1.3.1.: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 4.2.1.: Stärkung der Stadtteilkultur ? Erfahrungsbericht, Bekanntgabe
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Ludwig-Thoma-Realschule ? Schriftverkehr zu Budgetanträgen
+- TOP 4.5.2.: Kein Google Street View in Trudering-Riem
+- TOP 4.5.3.: Absage Piusplatzfest am 12. Juni
+- TOP 4.6: Sonstige
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 4.7.1.: Josephsburgstraße 54 - Fällungsbescheid
+- TOP 3.1.2.2.: Haltestelle der Tram 19 an der Kreiller- / St.-Veit-Straße - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.7: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.7: Baumschutz (2)
