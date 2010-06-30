@@ -1,0 +1,91 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-06-30T17:05:00+02:00
+- Ende: 2010-06-30T22:45:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1250
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1250
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl von ehrenamtlichen Sozialpfleger(n)innen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Zustimmung zur Entscheidung über die Erneuerung der Regenwasserkanäle der Fulhamer Allee zwischen Parchimer Alle und Alt-Britz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan XIV-179 vom 21.4.2009 - Campus Rütli - - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Veränderungssperre 8-40/24 für das Grundstück Karl-Marx-Straße 244 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-40 - ohne Änderungen in der BVV beschlossen
+- TOP 6.4: Bebauungsplan XIV-109b vom 31.3.2009 mit dem Deckblatt vom 8.3.2010 - Wutzkycenter - - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Neukölln sieht Orange - beantwortet
+- TOP 8.2: Vereinheitlichung Ordnungsamt - beantwortet
+- TOP 8.3: Beleuchtung des Rathausturms - beantwortet
+- TOP 8.4: Haltverbot am Koppelweg - beantwortet
+- TOP 8.5: Auslagerung des Datenschutzes - beantwortet
+- TOP 8.6: Grundwasserproduktion im Wasserwerk Treptow/Köpenick (Johannisthal) - beantwortet
+- TOP 8.7: Islamisten werben Neuköllner Jugendliche an - beantwortet
+- TOP 8.8: Sicherer Schulweg - beantwortet
+- TOP 8.9: Rasen mähen - auf die andere Art - beantwortet
+- TOP 8.10: Frauenklinik am Mariendorfer Weg - beantwortet
+- TOP 8.11: Mit Sicherheit auf dem Fahrrad unterwegs - schriftlich beantwortet
+- TOP 8.12: In Rixdorf is Musike? - schriftlich beantwortet
+- TOP 8.13: Tische in der Schillerpromenade - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Leitlinien für Patientenfürsprecher - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Gartendenkmal Hufeisensiedlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: "Infobox" am Tempelhofer Feld - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Teil-Umbenennung der Falkstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Droht der Jugendarbeit das "Aus"? - beantwortet
+- TOP 10.2: Jugendarbeit in Neukölln - beantwortet
+- TOP 10.3: Genehmigungspraxis für Spielhallen im Bezirk Neukölln - beantwortet
+- TOP 10.4: Ex-Sanierungsgebiet Wederstraße - schriftlich beantwortet
+- TOP 10.5: Haushaltsrisiko Kinderbetreuung - beantwortet
+- TOP 10.6: Personalproblematik beim NGA - beantwortet
+- TOP 10.7: Verabschiedung vom Kita-Rechtsanspruch? - schriftlich beantwortet
+- TOP 11: Große Anfragen - schriftlich - (offen)
+- TOP 11.1: Inklusion an Grundschulen in Neukölln - schriftlich beantwortet
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Freigabe der Mittel für die Jugendarbeit im Bezirk - in der BVV abgelehnt
+- TOP 12.2: Haushalt der Abteilung Jugend - überwiesen
+- TOP 12.3: Schillerkiez beruhigen - überwiesen
+- TOP 12.4: Kita Riesestraße durch freien Träger betreiben lassen - überwiesen
+- TOP 12.5: Notdurft entgegnen - überwiesen
+- TOP 12.6: Namensgebung "Emser Platz" - überwiesen
+- TOP 12.7: Kita-Betreuung für Neuköllner Kinder - überwiesen
+- TOP 12.8: Erhöhung der Vergnügungssteuer auf die Bruttoeinspielergebnisse bei Gewinnspielgeräten an allen Aufstellorten - überwiesen
+- TOP 12.9: Haltverbot am Wochenmarkt Fritz-Reuter-Allee - überwiesen
+- TOP 12.10: Keine Umgehung der Spielverordnung - überwiesen
+- TOP 12.11: Sicherer Schulweg für Karlsgarten-Grundschüler/innen - überwiesen
+- TOP 12.12: Sicherstellung des Jugendschutzes beim Betrieb von Spielautomaten - überwiesen
+- TOP 12.13: Personalproblematik beim NGA - überwiesen
+- TOP 12.14: Rechtsanspruch auf frühkindliche Förderung uneingeschränkt umsetzen - überwiesen
+- TOP 12.15: Bewohnerinnen und Bewohner der Hufeisensiedlung einbeziehen - überwiesen
+- TOP 12.16: Mehr Kontrollen in legalen sowie gegen illegale Einrichtungen! - überwiesen
+- TOP 12.17: Vergnügungsstättengesetz/-verordnung - überwiesen
+- TOP 12.18: Kein "Integrationsgesetz" - Berlin diskriminierungsfrei - in der BVV abgelehnt
+- TOP 12.19: Rundflüge über Berlin - überwiesen
+- TOP 12.20: Änderung der Geschäftsordnung - überwiesen
+- TOP 12.21: Transparenz bei Befangenheitssituationen von Bezirksverordneten und Bürgerdeputierten - überwiesen
+- TOP 12.22: Ausstattung mit Hausmeister(inne)n und Schulsekretär(inn)en - überwiesen
+- TOP 12.23: Nachteile durch Wohngeldbezug reduzieren - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Kinderbetreuung statt Wanderzirkus - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Hilfe für Menschen mit Sehbehinderung beim Einkauf - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Voreinander abbiegen in der Stubenrauchstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Schulwegsicherung Schliemann-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Bebauungsplan XIV-287c vom 06.07.2007 ("Krugpfuhlsiedlung - Parchimer Allee") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Entwurf des Bebauungsplanes XIV-287a vom 06.07.2007 ("Krugpfuhlsiedlung - Hanne Nüte") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Energetische Betrachtungen der bezirklichen Liegenschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 14.4: Freiflächen öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Energieausweis für die bezirklichen Liegenschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Schulstrukturreform - Kein Schnellschuss zu Lasten der Schüler! - mit Abschlussbericht zur Kenntnis genommen
