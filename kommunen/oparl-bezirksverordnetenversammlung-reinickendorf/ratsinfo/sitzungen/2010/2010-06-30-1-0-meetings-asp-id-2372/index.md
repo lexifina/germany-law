@@ -1,0 +1,89 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-06-30T17:10:00+02:00
+- Ende: 2010-06-30T21:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2372
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2372
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=48565
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - in der BVV abgelehnt
+- TOP 3: Konsensliste - in der BVV abgelehnt
+- TOP 4: Mündliche Anfragen - in der BVV abgelehnt
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - in der BVV abgelehnt
+- TOP 5.1: Situation im Maßregelvollzug in Reinickendorf (Große Anfrage 12.05.2010 und 09.06.2010) - beantwortet
+- TOP 5.1.1: Krankenhausbetrieb des Landes für den Maßregelvollzug - überwiesen
+- TOP 5.2: Erneuerung und Verbesserung der Alemannenstraße zwischen Maximiliankorso und Neubrücker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Straßenentwässerung Frohnau: umweltgerecht und mit den Bürgerinnen und Bürgern - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Ablehnung des Straßenausbaubeitragsgesetzes - ohne Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Kontakte zwischen Grundschulen und Kitas - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Visitenkartenpartys - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Gesundheitsangebote in Senioreneinrichtungen - überwiesen
+- TOP 7.4: Reinickendorfer Wirtschaftskonzept vorlegen - überwiesen
+- TOP 7.5: Zukunft der Wiesengrundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Kulturveranstaltungen im Sommer 2010 - vertagt
+- TOP 7.7: Bedarfsstatistik für Erzieherinnen/Erzieher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Einladung zu Beiratssitzungen des JobCenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Auswertung der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Entwurf des Bebauungsplans 12-24 vom 06.04.2010 - überwiesen
+- TOP 8: Große Anfragen - überwiesen
+- TOP 8.1: Nachnutzung Flughafen Tegel - vertagt
+- TOP 8.2: Jugendfreizeiteinrichtungen - Fit für die Zukunft - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - vertagt
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Abgabe der bezirklichen Einrichtung "Hansa-Haus" in Kühlungsborn zum Zwecke des Verkaufs - überwiesen
+- TOP 9.3: Wahl der Patientenfürsprecher für die Krankenhäuser im Bezirk Reinickendorf gemäß § 26 Landeskrankenhausgesetz (LKG) - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Liste der "Schmuddel-Restaurants" auch in Reinickendorf - erledigt
+- TOP 10.2: Grünflächen Märkisches Viertel - vertagt
+- TOP 10.3: Mehr Standorte für Glascontainer - erledigt
+- TOP 10.4: Bouleplatz Greenwichpromenade - vertagt
+- TOP 10.5: Ausbau Alemannenstraße in Frohnau - in der BVV abgelehnt
+- TOP 10.6: Ausbau Alemannenstraße - in der BVV abgelehnt
+- TOP 10.7: Großveranstaltungen 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Kontaktpersonen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Visitenkartenpartys für Migranten - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Elektronisches Baumkataster - in der BVV abgelehnt
+- TOP 10.11: Frost- und Winterschäden nachhaltig beseitigen - Bürgerdialog zum Straßenausbau sorgfältig weiterführen - in der BVV abgelehnt
+- TOP 10.12: Fahrradbarriere Titusweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Arbeit des Runden Tisches gegen Gewalt - in der BVV abgelehnt
+- TOP 10.14: Zebrastreifen Frohnauer Straße - in der BVV abgelehnt
+- TOP 10.15: Grüner Rechtsabbieger-Pfeil Cyclopstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Einschulungsuntersuchungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Rue Racine als Einbahnstraße - vertagt
+- TOP 10.18: Mit dem Velo-Taxi zum Schiffsanleger - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Ausreichende Ausstattung der Schulen mit Schulmusikern - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Aufhebung der Austauschbarkeit der Fächer Kunst und Musik in den Klassenstufen 7 bis 9 der integrierten Sekundarschulen - vertagt
+- TOP 10.21: Fahrradbarriere Titusweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Arbeit der Sozialkommission im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Beschäftigungsmaßnahmen für chronisch psychisch kranke Menschen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Abberufung von Bürgerdeputierten nach § 24 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 11.1.1: Wahl von Bürgerdeputierten - gewählt
+- TOP 11.2: Für die Zukunft planen: Personal - überwiesen
+- TOP 11.3: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 12: Ersuchen - in der BVV abgelehnt
+- TOP 12.1: Migrationsbeauftragte/Migrationsbeauftragter auch für Reinickendorf - vertagt
+- TOP 12.2: Barrierefreiheit - überwiesen
+- TOP 12.3: Güterbahnhof Schönholz - überwiesen
+- TOP 12.4: Brix und Genzmer-Platz in Frohnau - vertagt
+- TOP 12.5: Freier Weg für Fußgänger im Knappenpfad in Frohnau - vertagt
+- TOP 13: Empfehlungen - vertagt
+- TOP 13.1: Graffiti-Schmierereien - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Präventionsprojekt "Nein zu Gewalt" auch an Reinickendorfer Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Fahrräder kostenlos von der Polizei codieren lassen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: "Kindergesundheit - Eltern sind dabei" - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Fußgängerampelschaltung Kreuzung Oranienburger Straße/Eichborndamm/Wilhelmsruher Damm - überwiesen
+- TOP 13.6: Ehrengrab für Paul Poser - überwiesen
+- TOP 13.7: Geschwindigkeitskontrollen in der Schildower Straße verstärken - überwiesen
+- TOP 13.8: Barrierefreier Zugang zu den Waldwegen - vertagt
+- TOP 13.9: Sicherung des Schulweges zur Erpelgrundschule - vertagt
