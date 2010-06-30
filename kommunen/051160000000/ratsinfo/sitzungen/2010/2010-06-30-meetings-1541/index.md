@@ -1,0 +1,53 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-06-30T17:00:00+02:00
+- Ende: 2010-06-30T19:40:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1541
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1541
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Beitritt zum Aktionsbündnis "Raus aus den Schulden - - Einstimmiger Beschluss
+- TOP 3: Genehmigung Wiederbestellung SSK - Einstimmiger Beschluss
+- TOP 4: Beirat JVA - Einstimmiger Beschluss
+- TOP 5: Rechnungsprüfungsordnung und DA - Einstimmiger Beschluss
+- TOP 6: Schlussbericht zur Jahresrechnung 2008 - Zur Kenntnis genommen
+- TOP 7: Entwurf des Doppelhaushaltes 2010/2011
+- TOP 8: Bereitstellung von Haushaltsmitteln und Zustimmung zur Inangriffnahme für Investitionsmaßnahmen - Einstimmiger Beschluss
+- TOP 9: Beteiligung der NVV AG / NEW Re GmbH - Zur Kenntnis genommen
+- TOP 10: Mittelbare Beteiligung der Stadt MG an der Trinkwasserverbund Niederrhein GmbH - Zur Kenntnis genommen
+- TOP 11: Bekanntgabe des Abschlussergebnisses SSK MG 2009 - Zur Kenntnis genommen
+- TOP 12: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 13: Bericht zum Projekt Finanzsoftware - Kenntnisnahme
+- TOP 14: Einrichtung einer kommunalen Beratungskommission - In den nächsten Ratszug geschoben
+- TOP 15: Ordnungsbehördliche Verordnungen Offenhalten 31.10.10, 5.12.10, 2.01.11 und 2. Änderungsverordnung - Zur Kenntnis genommen
+- TOP 16: Ordnungsbehördliche Verordnungen über Offenhalten am 7.11.2010, 12.12.2010 - Zur Kenntnis genommen
+- TOP 17: Einrichtung einer integrativen Lerngruppe an der GHS Dohr - Einstimmiger Beschluss
+- TOP 18: Verteilung der Sportpauschale 2010 - Zur Kenntnis genommen
+- TOP 19: Sanierung des Tennenspielfeldes der Sportanlage Schlachthofstraße - Zur Kenntnis genommen
+- TOP 20: Neuorganisation Vereinigte Städtische Bühnen Krefeld-Mönchengladbach - Kenntnisnahme
+- TOP 21: Dienstreise von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 22: Reduzierung der Schiedsamtsbezirke - Zur Kenntnis genommen
+- TOP 23: Erweiterung Kindertageseinrichtung Höfgenweg - Zur Kenntnis genommen
+- TOP 24: Erweiterung Kita Alexianerstraße / Übertragung der Trägerschaft - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung mit dem Verein Reha - Einstimmiger Beschluss
+- TOP 26: Leistungsvereinbarungen über die Erbringung komplementärer Leistungen - Einstimmiger Beschluss
+- TOP 27: Sockelbetragsfinanzierung - Einstimmiger Beschluss
+- TOP 28: Leistungsvereinbarung zum Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 29: Vertrag mit der Verbraucherzentrale NRW - Einstimmiger Beschluss
+- TOP 30: Übergabe des Änne-Kremer- und Jakob Kremer-Hauses - Einstimmiger Beschluss
+- TOP 31: Innenstadtkonzept Rheydt - Zur Kenntnis genommen
+- TOP 32: Konjunkturpaket II Lärmminderungsprogramm LOA -- Meldung zusätzlicher Straßenabschnitte - Einstimmiger Beschluss
+- TOP 33: Satzung über eine Veränderungssperre (Gebiet westlich Alter Mark und nördlich Waldhausener Straße) - Einstimmiger Beschluss
+- TOP 34: 188. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 35: Bebauungsplan Nr. 664/S (ehemals 664/VI) - Zur Kenntnis genommen
+- TOP 36: Wettbewerbsverfahren Pahlkebad - Hugo-Junkers-Park - Einstimmiger Beschluss
+- TOP 37: Jahresabschluss 2009 der GSM - Einstimmiger Beschluss
+- TOP 38: Struktur der NVV AG/Steuerlicher Querverbund - Einstimmiger Beschluss
+- TOP 39: Anfragen - Zur Kenntnis genommen
