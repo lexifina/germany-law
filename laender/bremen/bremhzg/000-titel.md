@@ -1,1 +1,1 @@
-# Bremisches Hochschulzulassungsgesetz (BremHZG) vom 16. Mai 2000
+# Bremisches Hochschulzulassungsgesetz (BremHZG) in der Fassung der Bekanntmachung vom 9. November 2010
