@@ -31,11 +31,12 @@ a) | Mittlerer feuerwehrtechnischer Dienst
  | dd) | Hauptbrandmeister(HBM) | dunkelblaue festkantige Tuch- oder Filzunterlage 95 mm breit, 52 mm hoch, Einfassung wie BM, zwei bordeauxviolette Balken in 4 mm Abstand übereinander angeordnet
  | ee) | Hauptbrandmeister mit Zulage (HBM) | dunkelblaue festkantige Tuch- oder Filzunterlage 95 mm breit, 65 mm hoch, Einfassung wie BM, zwei Balken wie HBM, einem darüber liegenden mittig angeordneten bordeauxvioletten sechseckigen Stern, Diagonallänge 18 mm
 b) | Gehobener feuerwehrtechnischer Dienst
- | aa) | Brandoberinspektor – Anwärter (BOIA) | wie BM, jedoch mit silberfarbener Einfassung, ein in der Einfassung mittig angeordneter silberfarbener Stern, Diagonallänge 18 mm
- | bb) | Brandoberinspektor (BOI) | wie BOIA, jedoch zwei Sterne, in der Einfassung mittig und gleichmäßig nebeneinander liegend angeordnet
- | cc) | Brandamtmann/Brandamtfrau (BA) | wie HBM, mit silberfarbener Einfassung wie BOIA, einem Balken wie BMA, jedoch silberfarben, einem Stern wie BOIA in 3 mm Abstand darüber liegend, mittig angeordnet
- | dd) | Brandamtsrat (BAR) | wie BA, jedoch mit zwei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
- | ee) | Brandoberamtsrat (BOAR) | wie BA, jedoch mit drei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
+ | aa) | Brandoberinspektor-Anwärter (BOIA) | wie BMA, jedoch mit mittig angeordnetem silberfarbenem Stern, Diagonallänge 18 mm, statt des bordeauxvioletten Balkens
+ | bb) | Brandinspektor (BI) | wie BOIA, jedoch mit silberfarbener Einfassung
+ | cc) | Brandoberinspektor (BOI) | wie BI, jedoch zwei Sterne, in der Einfassung mittig und gleichmäßig nebeneinander liegend angeordnet
+ | dd) | Brandamtmann (BA) | wie HBM, mit silberfarbener Einfassung, einem Balken wie BMA, jedoch silberfarben, einem Stern wie BOIA in 3mmAbstand darüber liegend, mittig angeordnet
+ | ee) | Brandamtsrat (BAR) | wie BA, jedoch mit zwei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
+ | ff) | Brandoberamtsrat (BOAR) | wie BA, jedoch mit drei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
 c) | Höherer feuerwehrtechnischer Dienst
  | aa) | Brandreferendar (BRef) | wie BM, jedoch mit goldfarbener Einfassung, zwei stilisierte Eichenlaubblätter goldfarben 12 mm breit, 35 mm lang, waagerecht gegenüber liegend, an den Stielen sich nicht berührend, mittig in der Einfassung angeordnet
  | bb) | Brandrat (BR) | wie HBM mit Zulage, jedoch mit goldfarbener Einfassung, Eichenlaub wie BRef, Balken wie BMA, jedoch goldfarben, darüber liegend ein sechseckiger Stern, goldfarben, Diagonallänge 18 mm, über dem Balken mittig angeordnet, Abstände untereinander je 3 mm
@@ -43,5 +44,4 @@ c) | Höherer feuerwehrtechnischer Dienst
  | dd) | Branddirektor (BD) | wie BR, jedoch mit drei Sternen über dem Balken, gleichmäßig nebeneinander liegend angeordnet
  | ee) | Leitender Branddirektor in Besoldungsgruppe A16 (LtdBD) | dunkelblaue festkantige Tuch- oder Filzunterlage, 105 mm breit, 80 mm hoch, mit goldfarbener Einfassung, innen liegend in einem Abstand von 3 mm eine weitere Litze, zwei Eichenlaubblätter wie BRef, halbrund geschwungen in 3 mm Abstand zueinander, in der Mitte darüber ein sechseckiger goldfarbener Stern, Diagonallänge 30 mm
  | ff) | Leitender Direktor in Besoldungsgruppe B2 (LtdD) oder Direktor der Feuerwehr (DdF) in Besoldungsgruppe B 1 bis B 3 oder vergleichbare Angestellte | wie LtdBD in Besoldungsgruppe A16, jedoch mit zwei Sternen, gleichmäßig nebeneinander liegend angeordnet
-Abbildungen Anlage 1 Nr. 2 Buchstabe a und b
-Abbildungen Anlage 1 Nr. 2 Buchstabe c
+Abbildungen
