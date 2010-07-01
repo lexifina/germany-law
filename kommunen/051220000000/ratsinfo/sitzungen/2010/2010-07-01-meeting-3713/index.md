@@ -1,0 +1,60 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-07-01T17:00:00+02:00
+- Ende: 2010-07-01T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZY2mytvhXaZ7Wcx1UpInm2s
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3713
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTgWbHqNqazFaMDCdMvXprY2-Q6iOH7XZ9U5qPsLJaZb/Oeffentliche_Niederschrift_Beteiligungsausschuss_01.07.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 03. Sitzung des Beteiligungsausschusses am 11.05.2010
+- TOP 3: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule (Berg. VHS) für das Geschäftsjahr 2010
+- TOP 4: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule (Berg. VHS) für das Geschäftsjahr 2010
+- TOP 5: Wirtschaftsplan 2010 der Bergischen Volkshochschule
+- TOP 6: 1. Quartalsbericht 2010 der Bergischen Volkshochschule - Zweckverband der Städte Solingen - Wuppertal
+- TOP 7: Wirtschaftsplan 2010 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 8: 1. Quartalsbericht 2010 des Dienstleistungsbetriebes "Gebäude" der Stadt Solingen
+- TOP 9: Wirtschaftplan 2010 des Technischen Betriebes Straßen und Grün der Stadt Solingen (TBSG)
+- TOP 10: 1. Quartalsbericht 2010 des Technischen Betriebes "Straßen und Grün" der Stadt Solingen
+- TOP 11: 1. Quartalsbericht 2010 der EntsorgungsBetriebe Solingen (EBS)
+- TOP 12: Haushaltsbegleitbeschluss zum Haushaltsjahr 2010
+- TOP 13: Verschiedenes
+- TOP 14: Kosten des Workshops "Aufsichtsratschulung für Ratsmitglieder" am 26.04.2010
+- TOP 15: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 03. Sitzung des Beteiligungsausschusses am 11.05.2010
+- TOP 3: 1. Halbjahresbericht 2009/2010 der Städtische Musikschule Solingen GmbH
+- TOP 4: 1. Halbjahresbericht 2009/2010 der Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 5: Jahresabschluss 2008/2009 der Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 6: Wirtschaftsplan 2010/2011 der Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 7: Wirtschaftsplan 2010 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 8: 1. Quartalsbericht 2010 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 9: Jahresabschluss 2009 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 10: 1. Quartalsbericht 2010 der Altenzentren der Stadt Solingen
+- TOP 11: Jahresabschluss 2009 der Altenzentren der Stadt Solingen
+- TOP 12: 1. Quartalsbericht 2010 der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 13: Jahresabschluss 2009 der Städt. Klinikum Solingen gemeinnützige GmbH
+- TOP 14: Vorberatung der Gesellschafterversammlung der Städtisches Klinikum Solingen gemeinnützige GmbH am 05.07.2010
+- TOP 15: 2. Halbjahresbericht 2009 der Bergische Entwicklungsagentur GmbH
+- TOP 16: Bestellung eines Jahresabschlussprüfers für das Geschäftsjahr 2009 der Bergische Entwicklungsagentur GmbH (BEA)
+- TOP 17: Jahresabschlüsse 2009 der Sanierungsgesellschaft Südliche Innenstadt Solingen mbH & Co. KG sowie der
+- TOP 18: Jahresabschluss 2009 der Institut für Galvano- und Oberflächentechnik Solingen GmbH (IGOS GmbH)
+- TOP 19: Vorberatung der Gesellschafterversammlung der Institut für Galvano- und Oberflächentechnik Solingen GmbH am 07.07.2010
+- TOP 20: Jahresabschluss 2009 Gründer- und Technologiezentrum Solingen GmbH
+- TOP 21: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH (GuT) am 09.07.2010
+- TOP 22: 1. Quartalsbericht 2010 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 23: Jahresabschlüsse 2009 der Wirtschaftsförderung Solingen GmbH & Co. KG und der Wirtschaftsförderung Solingen Verwaltungs GmbH
+- TOP 24: Jahresabschluss 2009 der ELBA Omnibusreisen GmbH
+- TOP 25: 2. Quartalsbericht 2009/2010 der Stadtwerke Solingen GmbH
+- TOP 26: 1. Quartalsbericht 2010 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 27: Vorberatung von Umlaufbeschlüssen der Gesellschafterversammlung der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 28: Verschiedenes
