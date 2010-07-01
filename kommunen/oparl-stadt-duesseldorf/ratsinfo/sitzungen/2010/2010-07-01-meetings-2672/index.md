@@ -1,0 +1,55 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-07-01T17:00:00+02:00
+- Ende: 2010-07-01T19:26:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2672
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2672
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00143500.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00143500.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00143500.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 27.05.2010 - einstimmig beschlossen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Kinderspielplatz Gertrudisplatz - mehrheitlich beschlossen
+- TOP 6: Zuschüsse der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 7: Parkscheibenregelung Vennhauser Allee 241 - mehrheitlich beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 9: Grünflächen zw. Chemnitzer Straße / Zwickauer Straße - beantwortet
+- TOP 10: Anzeige von Vandalismusschäden im Stadtbezirk 8 - beantwortet
+- TOP 11: Stadtwohnheim Kuthsweg 16 - 20 - beantwortet
+- TOP 12: Schloss Eller - beantwortet
+- TOP 13: Wohnungsbau im Stadtbezirk 8 - beantwortet
+- TOP 14: Taubenabwehr Eller - Mitte - beantwortet
+- TOP 15: Geschäftsordnung des Rates - zurückgezogen
+- TOP 16: Geschäftsordnung des Rates - zurückgezogen
+- TOP 17: Stadtbezirkskonferenz / Fragestunden - einstimmig beschlossen
+- TOP 18: Parkscheibenregelung Vennhauser Allee - zurückgezogen
+- TOP 19: Haltverbotschild Friedrich-Engels-Straße - einstimmig beschlossen
+- TOP 20: Sitzungsinformationen im Internet - zurückgezogen
+- TOP 21: Sitzungsunterlagen für Zuhörer/innen - einstimmig beschlossen
+- TOP 22: Lärmmessung Reisholzer Straße - einstimmig beschlossen
+- TOP 23: Gestaltung Gertrudisplatz - mehrheitlich beschlossen
+- TOP 24: Toilettenanlage Wasserspielplatz Schloss Eller - einstimmig beschlossen
+- TOP 25: Radweg Deutzer Straße - einstimmig beschlossen
+- TOP 26: Mietangebote für Vereine und Initiativen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 27: Weihnachtsbeleuchtung auf dem Gertrudisplatz - zur Kenntnis genommen
+- TOP 28: Kleingarten S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 29: Gedenktafel Höherweg - zur Kenntnis genommen
+- TOP 30: Zufahrt Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 31: Parksituation am Schlosspark Eller - zur Kenntnis genommen
+- TOP 32: Kreuzung Amselstraße / Am Ellerforst - Gehwegabsenkungen - zur Kenntnis genommen
+- TOP 33: Bissasha-Lake-Company - zur Kenntnis genommen
+- TOP 34: Skateranlage im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 35: Bemalung von Schaltkästen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 36: Grünfläche Schlesische Straße - zur Kenntnis genommen
+- TOP 37: Sirene in Unterbach - zur Kenntnis genommen
+- TOP 38: Unterbacher See - Öffnungszeiten der Gaststätten - zur Kenntnis genommen
