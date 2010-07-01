@@ -21,7 +21,7 @@ Abschnitt 2 Ausführung von die ordentliche Gerichtsbarkeit betreffenden verfahr
 § 17 Zuständigkeiten der Gerichtsvollzieher
 § 18 Legalisation
 § 19 Insolvenzverfahren über das Vermögen juristischer Personen des öffentlichen Rechts
-§ 20 Bekanntmachungsvorschriften
+§ 20 (aufgehoben)
 § 21 Amtsanwälte
 Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 22 Vertrauensleute
