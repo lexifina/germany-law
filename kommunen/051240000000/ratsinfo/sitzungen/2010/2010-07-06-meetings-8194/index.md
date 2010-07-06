@@ -1,0 +1,90 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-07-06T16:10:00+02:00
+- Ende: 2010-07-06T18:50:00+02:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8194
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8194
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 24.06.2010 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00118732.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00120101.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2009 und Konzernabschluss 2009 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2009 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2009 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschlüsse 2009 - Wahrnehmung von Gesellschafterrechten bei WSW-Tochtergesellschaften - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2009 - geändert beschlossen
+- TOP 1.6: Jahresabschluss 2009 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2009 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2009 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan 2010 des Zweckverbandes Bergische Volkhochschule (VHS) - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Anteilserwerb an der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 5.2: Veräußerung des Anteils an der Technologiezentrum Wuppertal W-tec GmbH an die Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 5.3: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2009 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 5.4: Vergütung von Aufsichtsratsmitgliedern der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 5.5: Vergütung von Aufsichtsratsmitgliedern der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 5.6: Vergütung von Aufsichtsratsmitgliedern der WSW mobil GmbH - ungeändert beschlossen
+- TOP 5.7: Vergleich zwischen dem Verkehrsverbund Rhein-Ruhr (VRR) und der Deutschen Bahn (DB Regio NRW) -Sachstandsbericht- - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Stand der Schulden und Kassenkredite zum 31.05.2010 - Entgegennahme ohne Beschluss
+- TOP 12.2: Förderprogramm Soziale Stadt Oberbarmen/Wichlinghausen - Entgegennahme ohne Beschluss
+- TOP 12.3: Gesetz zur Abrechnung der Finanzierungsbeteiligung der Gemeinden an den finanziellen Belastungen des Landes NRW infolge der Deutschen Einheit (Einheitslastenabrechnungsgesetz) - Entgegennahme ohne Beschluss
+- TOP 12.4: Externe Einstellungen im Zeitraum Januar bis Mai 2010 - Entgegennahme ohne Beschluss
+- TOP 12.5: Weiterentwicklung des Regionalbüros - geändert beschlossen
+- TOP 13: Haushaltsangelegenheiten
+- TOP 13.1: Beratung des Haushaltsplan-Entwurfs 2010/2011 - geändert beschlossen
+- TOP 13.2: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2010/2011 - zur Entscheidung verwiesen
+- TOP 13.3: Umsetzung des Haushaltssicherungskonzeptes 2010-2014 - Teil II - zur Entscheidung verwiesen
+- TOP 13.4: Antrag zum Haushaltsplanentwurf für die Haushaltsjahre 2010 und 2011-Gemeinsamer Antrag der CDU und SPD Fraktion vom 08.06.10 - zur Entscheidung verwiesen
+- TOP 13.5: Kulturförderabgabe für Wuppertal - zur Entscheidung verwiesen
+- TOP 13.6: Weitere Rationalisierung in der Verwaltung-Antrag der WfW-Fraktion vom 02.06.10 - zur Entscheidung verwiesen
+- TOP 13.7: Große Anfrage der FDP-Fraktion vom 18.06.10 zu Zielen und Kennzahlen des Haushalts - Entgegennahme ohne Beschluss
+- TOP 13.7.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 18.06.10 zu Zielen und Kennzahlen des Haushalts - Entgegennahme ohne Beschluss
+- TOP 13.8: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2008 - ungeändert beschlossen
+- TOP 13.9: Festlegung der Landschaftsumlage 2010 - ungeändert beschlossen
+- TOP 13.10: Empfehlungen der Fachausschüsse
+- TOP 13.10.1: Empfehlung des Jugendhilfeausschusses zum Haushaltsplan-Entwurf 2010/2011 - zur Entscheidung verwiesen
+- TOP 13.11: Empfehlungen der Bezirksvertretungen
+- TOP 14: Verkäufe und Baumaßnahmen
+- TOP 15: Dienstanweisungen und Satzungen
+- TOP 15.1: Erste Satzung zur Änderung der Vergnügungssteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 15.2: Erste Satzung zur Änderung der Hundesteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 16: Anträge und Anfragen
+- TOP 16.1: Resolution Eigenmittelbei Förderung durch den Bund - zur Entscheidung verwiesen
+- TOP 16.2: Große Anfrage der Wählergemeinschaft für Wuppertal vom 04.06.2010- Kalkulation der Regenwassergebühren - Entgegennahme ohne Beschluss
+- TOP 16.2.1: Antwort auf Große Anfrage der WfW vom 04.06.2010 Kalkulation der Regenwassergebühren - Entgegennahme ohne Beschluss
+- TOP 16.3: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 15.06.10 - Parkplatz Ohligsmühle - Entgegennahme ohne Beschluss
+- TOP 16.3.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 15.06.10 - Parkplatz Ohligsmühle - Entgegennahme ohne Beschluss
+- TOP 16.4: Große Anfrage der FDP- Fraktion vom 10.06.2010 zum Einsatz von Parkkrallen - Entgegennahme ohne Beschluss
+- TOP 16.4.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 10.06.2010 zum Einsatz von Parkkrallen - Entgegennahme ohne Beschluss
+- TOP 17: Allgemeine Vorlagen
+- TOP 17.1: Stadtentwässerung - Maßnahmenkatalog 2011/Katalogentwurf 2012 - ungeändert beschlossen
+- TOP 17.2: Senkung der Abwassergebührensätze - ungeändert beschlossen
+- TOP 17.3: Neufestlegung der Geschäftsbereiche der Beigeordneten - ungeändert beschlossen
+- TOP 18: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 24: Alten- und Altenpflegeheime
+- TOP 24.1: Jahresabschluss 2009 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 24.2: Quartalsbericht I/2010 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 24.3: Quartalsbericht I/2010 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 24.4: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2010 bis 29.02.2012 - ungeändert beschlossen
+- TOP 25: Berichte und Mitteilungen
+- TOP 26: Kinder- und Jugendwohngruppen
+- TOP 26.1: Jahresabschluss 2009 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 26.2: Entlastung der Betriebsleitung KIJU für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 26.3: Pädagogischer Bericht KIJU 2009 - Entgegennahme ohne Beschluss
+- TOP 26.4: Bericht über das 1. Quartal 2010 KIJU - Entgegennahme ohne Beschluss
+- TOP 27: Berichte und Mitteilungen
