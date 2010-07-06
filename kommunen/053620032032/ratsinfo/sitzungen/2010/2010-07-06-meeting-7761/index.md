@@ -1,0 +1,53 @@
+# Stadtrat (8. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-07-06T17:02:00+02:00
+- Ende: 2010-07-06T21:07:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZT5BBXwO9DRlYSzxzRcF4hE
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7761
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdHXu_e2bdFtlXFfqzTLT0S0UTytMyiyLGblfdEzsP9m/Bekanntmachung_Stadtrat_06.07.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcBBrnLMogcpjWs92GhicJZ4HLtxNzsvw_p-ejK4HnqW/Oeffentliche_Niederschrift_Stadtrat_06.07.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht der RWE Power AG zur Entwicklung des Tagebaus Hambach
+- TOP 2.: Umbesetzung von Ausschüssen
+- TOP 3.: Stadtentwicklung und Bauleitplanung
+- TOP 3.1: 59. Änderung des Flächennutzungsplanes "Westliche Regengasse", Stadtteil Kerpen hier: Beschluss zur Aufstellung gem. § 2 (1) BauGB
+- TOP 3.2: 62. Änderung des Flächennutzungsplanes "Bolzplatz Brüggen", Stadtteil Brüggen hier: Beschluss zur Offenlage
+- TOP 3.3: Bebauungsplan SI Nr. 28 "Hermann-Löns-Straße" und seine rechtskräftigen Änderungen, Stadtteil Sindorf hier: Beschluss zur Offenlage
+- TOP 3.4: Bebauungsplan SI 331 "Kerpener Straße/Goethestraße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 3.5: Erneuter Antrag auf Zulassung eines Rahmenbetriebsplanes gem. § 52 Abs. 2a BBergG für die Gewinnung von Quarzsand u. Quarzkies „Tagebau Forster Feld“ im Stadtteil Manheim hier: Verfügung der Bezirksregierung Arnsberg, Abt. 6 Bergbau und Energie in NRW, vom 20.04.2010
+- TOP 3.6: Feuerwehrgerätehaus Manheim-Neu
+- TOP 3.7: Äußere Erschließung des Umsiedlungsstandortes Manheim - (kein Text vorhanden)
+- TOP 3.8: Stellungnahme der Stadt Kerpen zur zweiten Offenlage des Braunkohlenplans Umsiedlung Manheim
+- TOP 4.: Kindertagesbetreuung in der Stadt Kerpen
+- TOP 4.1: Erfahrungsbericht "Kerpener Kita-Standard" - (kein Text vorhanden)
+- TOP 4.2: Übernahme der Trägerschaft durch Träger der freien Jugendhilfe: - Neubau 4-gruppige Kindertageseinrichtung im Stadteil Sindorf/Vogelrutherfeld - Neubau 4-gruppige Kindertageseinrichtung im Stadtteil Horrem/Neubottenbroich
+- TOP 4.3: Ausbauplanung u3
+- TOP 5.: Information über das Quartiersmanagement Buchenhöhe
+- TOP 6.: Erhöhung der Kosten für die Schülerbeförderung
+- TOP 7.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 7 a.: Einsatz von LED-Leuchten beim Neubau der Kindertagesstätte Horrem, Am Wingertsberg; hier: Abschluss eines Sponsoring-Vertrages mit der RWE Rheinland Westfalen Netz AG - (kein Text vorhanden)
+- TOP 8.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 9.: Mitteilungen
+- TOP 9.1: Turnhalle Blatzheim
+- TOP 9.2: Klageverfahren Niederschlagswassergebühren Vogelrutherfeld, Sindorf
+- TOP 10.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 11.1: REWE-Markt in Türnich
+- TOP 11.2: Kolping-Monument im Erft Karree Kerpen
+- TOP 12.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 13.: Handlungsoptionen beim Auslaufen von Strom- und Gaskonzessionsverträgen
+- TOP 13 a.: Rückforderung von Fördermitteln für das Vogelrutherfeld, Sindorf
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
