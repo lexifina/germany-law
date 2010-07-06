@@ -1,0 +1,91 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-07-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843956
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843956
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Schulanlage an der Schrobenhausener Straße
+- TOP 1.2.2.: Wiedereinrichtung einer Bezirksinspektion und Meldestelle im Stadtbezirk
+- TOP 1.2.3.: Antrag zur Verbesserung der Verkehrssicherheit; Ettenhueberstraße / Agnes-Bernauer-Straße (Vertagung aus der BA-Sitzung vom 08.06.10)
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Berufung einer Ombudsfrau / eines Ombudsmanns für städtische Einrichtungen, die für Kinder und Jugendliche zuständig sind
+- TOP 2.2.: CSU: Auslastung der U 4 und U 5 westlich des Hauptbahnhofes
+- TOP 2.3.: CSU: Runder Tisch zur problematischen Nachmittagsbetreuungssituation von Schulkindern im Viertel
+- TOP 2.4.: Bündnis 90 / Die Grünen: Wahl einer/s Jugendbeauftragten oder Kinder- und Jugendbeauftragten
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.230 Euro für Gewaltpräventionsprojekt von Oktober 2010 - Februar 2011; Antragsteller: Elternbeirat der Grundschule Droste-Hülshoff-Straße - <div>nach Antrag</div>
+- TOP 2.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 620 Euro für Sommerfest am 11.07.10; Antragsteller: Kath. Pfarrei zu den hl. 12 Aposteln - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Abfallwirtschaftsbetrieb vom 26.05.10: Wertstoffcontainerstandort Nördlinger Straße / Westendstraße
+- TOP 4.2.: Schreiben KVR vom 01.06.10: Straßenfest Weißenfelderplatz am 17.07.10
+- TOP 4.3.: Schreiben KVR vom 01.06.10: Straßenfest Landsberger Str. 331 / Pronnerplatz / Stöberlstraße am 17.07.10
+- TOP 4.4.: Schreiben KVR vom 07.05.10: Haltverbot am Kärntner Platz (Vertagung aus der BA-Sitzung vom 08.06.10)
+- TOP 4.5.: Schreiben KVR vom 06.05.10: Lichtzeichenanlagen-Bauprogramm für 2010 (Vertagung aus der BA-Sitzung vom 08.06.10)
+- TOP 4.6.: Schreiben Direktorium vom 16.06.10: Transparenz auch auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen (Antrag Nr. 08-14 / B 01378 des BA 15 Trudering-Riem vom 30.07.09); Protokolle der BA-Sitzungen des BA 22 im RIS veröffentlichen (Antrag Nr. 08-14 / B 01400 des BA 22 Aubing-Lochhausen-Langwied vom 19.08.09)
+- TOP 4.7.: Schreiben Referat für Arbeit und Wirtschaft vom 17.06.10: Leistungsprogramm der MVG für die Fahrplanperiode 2011, u.a. Beibehaltung der S-Bahn-Kurzstrecke zwischen den S-Bahnstationen Laim und Hackerbrücke auch nach Inbetriebnahme des neuen S-Bahnhaltepunktes Hirschgarten (Empfehlung Nr. 08-14 / E 00443 der Bürgerversammlung vom 17.11.09)
+- TOP 4.8.: Schreiben KVR vom 21.06.10: Kindergartenfest auf dem Laimer Platz am 17.07.10
+- TOP 4.9.: Schreiben KVR vom 18.06.10: Aufhebung der Radwegbenutzungspflicht Von-der-Pfordten-Straße
+- TOP 4.10.: Schreiben KVR vom 10.06.10: Haltverbote an der Kreuzung Guido-Schneble- / Senftenauerstraße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Rapotostr. 3: Neubau einer Wohnanlage (80 WE) mit 2 Tiefgaragen / Vorbescheid; hier: Baupläne
+- TOP 5.2.: Fürstenrieder Str. 8b: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.3.: Landsberger Straße; Fernwärmeerschließung München-West / Druckerhöhungsstation Laim (Landsberger Straße / Pronnerplatz)
+- TOP 5.4.: Hartelstr. 6: Neubau eines Wohngebäudes; hier: Baupläne und Baumfällungen
+- TOP 5.5.: Ilmmünsterstr. 48: Wintergartenanbau, Renovierung und DG-Ausbau mit 2 Gauben; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben 2. Bürgermeisterin Christine Strobl vom 31.05.10: Oktoberfest 2010; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung des UA Schule, Soziales, Sport vom 20.04.10 (Vertagung aus der BA-Sitzung vom 08.06.10)
+- TOP 7.2.: Sitzung des UA Schule, Soziales, Sport vom 10.05.10
+- TOP 7.3.: Ortstermin UA Schule, Soziales, Sport vom 20.05.10
+- TOP 7.4.: Sitzung des UA Kultur vom 08.06.10
+- TOP 7.5.: Sitzung UA Soziales, Schule, Sport vom 22.06.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 27.05.10: Kein Google Street View in Trudering-Riem (Antrag des BA 15 Trudering-Riem Nr. 08-14 / B 01901 vom 25.02.10 sowie darauf bezogene weitere Anträge der anderen Bezirksausschüsse)
+- TOP 8.2.: Schreiben Direktorium vom 15.06.10: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 8.3.: Schreiben Direktorium vom 15.06.10: Ablehnung einer Bewilligung aus dem Budget des BA 25; Antragsteller: Spektrum e.V.
+- TOP 8.4.: Schreiben Direktorium vom 21.06.10: Verwendungsnachweis über einen Zuschuss aus dem Budget des BA 25; Antragsteller: Faschingsclub Laim
+- TOP 8.5.: Schreiben Direktorium vom 07.05.10: 18.jetzt - Fest junger Erwachsener im Rathaus am 09.10.10
+- TOP 8.6.: Schreiben Planungsreferat vom 27.05.10: Erhalt der Fußgängerunterführung unter der Fürstenrieder Straße in Höhe der Hausnr. 54 (westliche Seite) und Nr. 51 (östliche Seite) (Antrag Nr. 08-14 / B 02018 vom 13.04.10)
+- TOP 8.7.: Schreiben Planungsreferat vom 14.06.10: Landsberger Str. 160-162; Neubau eines Hotels mit TG auf Bahngrund
+- TOP 8.8.: Schreiben KVR vom 27.05.10: Arbeiten im Straßenraum; Laimer Platz zwischen Vosslerstraße und Buswendeschleife, Verlegen einer Fernwärmeleitung; Verlängerung der Genehmigung
+- TOP 8.9.: Schreiben KVR vom 29.03.10: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Hufnagelstr. 9
+- TOP 8.10.: Schreiben KVR vom 21.06.10: Installation einer akustischen Blindenampel für sehbehinderte und blinde Bürger an der Kreuzung Fürstenrieder- / Gotthardstraße (Antrag Nr. 08-14 / B 02124 vom 04.05.10)
+- TOP 8.11.: Schreiben Stadtwerke München GmbH vom 02.06.10: Druckerhöhungsstation Flur-Nr. 230/26 Gemarkung Laim, Schallemmissionen / Leitungsführung
+- TOP 8.12.: Schreiben Kulturreferat vom 15.06.10: Stadtteilwoche Laim 2010
+- TOP 8.13.: Schreiben Kommunalreferat vom 23.06.10: Tausch Nördlinger Straße
+- TOP 8.14.: Schreiben Referat für Arbeit und Wirtschaft vom 28.05.10: Wirtschafts-Info 05/2010
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 01.06.10: Europe Direct Information 03/2010
+- TOP 8.16.: Bautenliste vom 31.05.-06.06.10: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Rapotostr. 3
+- TOP 8.17.: Bautenliste vom 07.06.-13.06.10: 1. Änderungsverfahren a) Hohenwarter Str. 9 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 214 b) Fürstenrieder Str. 8 b
+- TOP 8.18.: Bautenliste vom 14.06.-20.06.10 1. Erstantragsverfahren a) Ilmmünsterstr. 48 b) Hartelstr. 6 c) Von-der-Pfordten-Str. 59 d) Fürstenrieder Str. 51
+- TOP 8.19.: Schreiben Planungsreferat vom 31.05.10: Liste der beantragten Baumfällungen vom 24.05.-30.05.10
+- TOP 8.20.: Schreiben Planungsreferat vom 14.06.10: Liste der beantragten Baumfällungen vom 07.06.-13.06.10
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 26.05.10: Baumaßnahmen der Stadtwerke; Stichtag: 26.05.10
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 31.05.10: Baumaßnahmen der Stadtwerke; Stichtag: 31.05.10
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 08.06.10: Baumaßnahmen der Stadtwerke; Stichtag: 07.06.10
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 14.06.10: Baumaßnahmen der Stadtwerke; Stichtag: 14.06.10
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 21.06.10: Baumaßnahmen der Stadtwerke; Stichtag: 21.06.10
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.10: Mehrjahresinvestitionsprogramm 2010-2014, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010-2014 (Sitzungsvorlagen Nr. 08-14 / V 04345)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.10: Mehrjahresinvestitionsprogramm für die Jahre 2010-2014, diverse Gliederungsziffern (Sitzungsvorlagen Nr. 08-14 / V 04346)
+- TOP 8.28.: Beschluss des Bauausschusses vom 15.06.10: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung; Frühzeitige Abrechnung von Erschließungsbeiträgen (Sitzungsvorlagen Nr. 08-14 / V 04017)
+- TOP 8.29.: Beschluss des Bauausschusses vom 15.06.10: Pasing Zentrum; Gestaltung von Straßen und Plätzen im 21. Stadtbezirk Pasing-Obermenzing (Sitzungsvorlagen Nr. 08-14 / V 04413)
+- TOP 8.30.: Beschluss des Sozialausschusses vom 01.07.10: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Johannes-Scharrer-Straße 2, Erdgeschoss rechts für die Erweiterung der bestehenden Kindertageseinrichtung (Kinderkrippe) (Sitzungsvorlagen Nr. 08-14 / V 04318)
+- TOP 8.31.: Beschluss des Kulturausschusses vom 08.07.10: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste (Sitzungsvorlagen Nr. 08-14 / V 04495)
+- TOP 8.32.: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.07.10: Stärkung der Stadtteilkultur, Erfahrungsbericht (Sitzungsvorlagen Nr. 08-14 / V 04481)
+- TOP 8.33.: Schreiben Gleichstellungsstelle für Frauen vom 09.06.10: Absage der Sitzung der Gleichstellungsbeauftragten am 30.06.10; Einladung zur nächsten Sitzung am 17.09.10
+- TOP 8.34.: Schreiben Die Bärchen e.V. vom 05.05.10: Sachbericht über die Zuwendung aus dem Budget des BA 25 für "Die Bärchen e.V."; neuer Fußbodenbelag
+- TOP 8.35.: Münchner Statistik, 4. Quartalsheft, Jahrgang 2009
+- TOP 8.36.: Schreiben Behindertenbeirat München vom 01.06.10: Jahresbericht 2009 des Behindertenbeirates
+- TOP 8.37.: Schreiben Referat für Gesundheit und Umwelt vom 21.06.10: Leitlinie Gesundheit; Broschüre "Rundum gesund"
+- TOP 1.2: Bürgerpost an den BA
+- TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
