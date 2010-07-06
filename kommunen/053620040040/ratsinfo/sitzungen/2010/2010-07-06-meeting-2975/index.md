@@ -1,0 +1,56 @@
+# Rat (8. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2010-07-06T18:05:00+02:00
+- Ende: 2010-07-06T20:05:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZkOV23Ah3YwRuTvvvEhHAw
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/2975
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd_p-a_eVn5Cqd67o3RuHacEZ48cZnMXwPDUKlqRMnfK/Einladung_Rat_06.07.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZfrt-0u2M0oywZUB01cSLP8Ld1m6S0SdXrpuPiV7zot/Oeffentliche_Niederschrift_Rat_06.07.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Vermarktungskonzept "Wohngebiet Eichholz" - Einstimmig, 4 Enthaltung(en)
+- TOP 6.: Satzung zur Änderung der Satzung über die Errichtung und Unterhaltung von Obdachlosenunterkünften in der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Satzung zur Änderung der Gebührensatzung für die Benutzung der Obdachlosenunterkünfte in der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 8.: Aufnahme des Integrationsrates in die Zuständigkeitsordnung der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 9.: Genehmigung der Geschäftsordnung des Seniorenbeirates der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Vorstellung des Sponsoringkatalogs
+- TOP 11.: Ordnung für das Sponsoring der Stadt Wesseling und ihrer Einrichtungen (Sponsoringordnung)
+- TOP 11.1.: Ordnung für das Sponsoring der Stadt Wesseling und ihrer Einrichtungen (Sponsoringordnung) - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Beschlusskontrolle im Rat und in den Ausschüssen des Rates der Stadt Wesseling - Einstimmig, 1 Enthaltung(en)
+- TOP 12.1.: Antrag der FDP-Fraktion: Beschlusskontrolle im Rat und den Ausschüssen des Rates der Stadt Wesseling
+- TOP 13.: Einbringung des Entwurfs des Jahresabschlusses und des Lageberichts zum 31.12.2008 - Einstimmig, 4 Enthaltung(en)
+- TOP 14.: Kindertageseinrichtungen der Stadt Wesseling; Feststellung des Jahresabschlusses 2008, Behandlung des Jahresverlustes - Einstimmig, 3 Enthaltung(en)
+- TOP 15.: Kulturbetriebe der Stadt Wesseling; Feststellung des Jahresabschlusses 2008; Behandlung des Jahresverlustes - Einstimmig, 3 Enthaltung(en)
+- TOP 16.: Sportstätten der Stadt Wesseling; Feststellung des Jahresabschlusses 2008, Behandlung des Jahresverlustes - Einstimmig, 3 Enthaltung(en)
+- TOP 17.: Wald- und Parkanlagen der Stadt Wesseling; Feststellung des Jahresabschlusses 2008; Behandlung des Jahresverlustes - Einstimmig, 3 Enthaltung(en)
+- TOP 18.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2009 - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Satzung für das Jugendamt - Einstimmig, 0 Enthaltung(en)
+- TOP 20.: Mittel für den Integrationsrat zur Erledigung seiner Aufgaben - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Ausbau des Pflegekinderdienstes - Einstimmig, 0 Enthaltung(en)
+- TOP 22.: Genehmigung einer Dienstreise hier: Dienstreise von Mitgliedern des Jugendhilfeausschusses zur Jahrestagung des Landschaftsverbandes Rheinland für Mitglieder von Jugendhilfeausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 23.: Antrag des Seniorenbeirats: Entsendung von Seniorenbeiratsmitgliedern als sachkundige Einwohner in die Ausschüsse des Rates der Stadt Wesseling - Einstimmig, 0 Enthaltung(en)
+- TOP 24.: Ausschussumbesetzungen
+- TOP 24.1.: Antrag der CDU-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 24.2.: Antrag der FDP-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 24.3.: Antrag der GRÜNE-Fraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 24.4.: Antrag der Linksfraktion: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 24.5.: Antrag der Fraktion WIR/FWW: Umbesetzung in Ausschüssen - Einstimmig, 0 Enthaltung(en)
+- TOP 25.: Mitteilungen und Anfragen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Sonderprüfung von Baumaßnahmen - Einstimmig, 0 Enthaltung(en)
+- TOP 2.: Finanzierungshilfen für das Dreifaltigkeits-Krankenhaus - Einstimmig, 4 Enthaltung(en)
+- TOP 3.: Eingruppierung einer Tarifbeschäftigten - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Anerkennung von Dienstzeiten - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Mitteilungen und Anfragen
+- TOP 6.: Presseveröffentlichungen
