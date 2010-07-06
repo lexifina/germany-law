@@ -1,0 +1,6 @@
+# TOP 6.: Ausbildung 2010/2011 - Sachstandsbericht
+
+- Sitzung: Personalausschuss (3. Sitzung) (2010-07-06)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/47598
