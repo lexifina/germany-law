@@ -1,0 +1,111 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2010-07-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1867653
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1867653
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 1.1.: Präsentation des Wettbewerbsergebnisses zur Bebauung des Hanns-Seidel-Platzes (TOP 6.4.1) - <div>siehe Protokoll</div>
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: Entscheidungen über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; Genehmigung einer Freischankfläche für ein Lokal am Karl-Preis-Platz; Beschluss des Bezirksausschusses am 09.06.2010 Beschlussvorlage des Kreisverwaltungsreferats - <div>Zustimmung</div>
+- TOP 1: (E) Maßnahmen gegen die Lärmbelästigungen durch die Kühlaggregate des Penny-Marktes in der Quiddestraße 58; Empfehlung Nr. 02-08 / E 01029 der Bürgerversammlung des Stadtbezirkes 16 Ramersdorf-Perlach am 29.11.2007; Beschluss des BA 16 am 06.07.2010; Beschlussvorlage des Referats für Gesundheit und Umwelt - <div>Zustimmung</div>
+- TOP 2.6.1: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 1
+- TOP 2.6.1.1.: AntragsstellerIn: Green City e.V.; für die Maßnahme: Gestaltung einer Mosaikschlange für den Pausenhof der Grundschule an der Rennertstraße; Antragssumme: 2.305.-?; Beschlussvorlage des Direktoriums vom 26.05.2010 hierzu Schreiben des Direktoriums vom 10.06.2010 - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 2.6.1.2.: AntragsstellerIn: Förderverein der Grundschule am Pfanzeltplatz e.V.; für die Maßnahme: 100-Jahr-Feier am 02./03.07.2010; Antragssumme: 1.175 .- ?; Beschlussvorlage des Direktoriums vom 26.05.2010 - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 2.6.1.3.: AntragsstellerIn: Evang. Hilfswerk, Teestube "komm"-Streetwork; für die Maßnahme: Sommerfest am 06.08.2010; Antragssumme: 290.- ?; Beschlussvorlage des Direktoriums vom 09.06.2010 hierzu: Schreiben des Direktoriums vom 25.05.2010 - <div>Zuschuss in voller beantragter Höhe</div>
+- TOP 3: Anträge
+- TOP 3.1.: Verkehrssituation Im Gefilde; Bürgerschreiben vom 26.04.2010 (vertagt aus der Sitzung am 09.06.2010) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 3.2.: Verbesserungen an der Endhaltestelle der Buslinie 198 Klara-Ziegler-Bogen; Antrag der FDP-Fraktion im BA 16 vom 29.04.2010 (vertagt aus der Sitzung am 09.06.2010) - <div>nach Antrag</div>
+- TOP 3.3.: Unerträgliche Verkehrsbelastung Weidener Straße; Bürgerschreiben vom 10.04.2010 (vertagt aus der Sitzung am 09.06.2010) - <div>gem. der Empfehlung des UA Verkehr und öffentliche Ordnung</div>
+- TOP 3.4.: Planerische Berücksichtigung der Untertunnelung des Autobahnkopfs A8/ Mittlerer Ring/Ramersdorfer Straße bei der ?Dorfkernsanierung Ramersdorf; Antrag der CSU-Fraktion im BA 16 vom 02.05.2010 (vertagt aus der Sitzung am 09.06.2010) - <div>abgelehnt</div>
+- TOP 3.5.: Raserei und Lärmbelästigung auf der Fasangartenstraße; Bürgerschreiben vom 18.05.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.6.: Verkehrsprobleme in der Pfälzer-Wald-Straße; Bürgerschreiben vom 27.05.2010 - <div>WL an das KVR</div>
+- TOP 3.7.: Maßnahmen gegen die Missachtung von Verkehrsregeln in der Hofangerstraße; Bürgerschreiben vom 31.05.2010 - <div>WL an die PI 21</div>
+- TOP 3.8.: Ottobrunner Straße; Parkverbot für LKW von der Ständlerstraße bis zur Kreuzung Ottobrunner-/Unterhachinger-/Schmidbauerstraße; Bürgerschreiben vom 24.02.2010 - <div>abgelehnt</div>
+- TOP 3.9.: Unpünktlichkeit der Buslinie 155 Ostbahnhof-Emdenstraße; Bürgerschreiben vom 09.06.2010 - <div>WL an die MVG</div>
+- TOP 3.10.: Aufheben der Radwegbenutzungspflicht in der Ottobrunner Straße vom Innsbrucker Ring bis zur Schmidbauerstraße beidseitig; Beeinträchtigung des Busverkehrs; Antrag der SPD-Fraktion vom 20.06.2010 - <div>nach Antrag</div>
+- TOP 3.11.: Entfernen des, als ungültig markierten, Linksabbiegepfeil auf der linken Fahrbahn in der Kirchseeoner Straße (Kreuzung Innsbrucker Ring); Antrag der SPD-Fraktion vom 20.06.2010 - <div>Der Pfeil wurde bereits entfernt</div>
+- TOP 3.12.: Instandsetzen des Gehsteigs vor dem Adam-Berg-Straße 24/Uppenbornstraße; Antrag der SPD-Fraktion im BA 16 vom 20.06.2010 - <div>nach Antrag</div>
+- TOP 3.13.: 1.) Einseitiges Haltverbot in der Eulenspiegelstraße 2.) Verlegung der Wertstoffcontainer in der Rotkäppchenstraße Bürgerschreiben vom 08.06.2010 - <div>1. in den UA Verkehr, 2. in den UA Umwelt verwiesen</div>
+- TOP 3.1.: Erhalt des Baumbestands auf einem Grundstück im Gustav-Lindner-Weg; Bürgerschreiben vom 08.06.2010 - <div>abgesetzt</div>
+- TOP 3.1.: Umsetzung des Projekts ?Bank und Baum? bzw. dort, wo der Stadtteil schon ausreichend grün ist, ein Projekt mit dem geänderten Konzept, mit den Sitzbänken als Schwerpunkt, im Stadtbezirk 16 Ramersdorf-Perlach; Antrag der SPD-Fraktion im BA 16 vom 07.06.2010 - <div>in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 3.2.: Maßnahmen gegen die Vermüllung eines Grundstücks in der Hofangerstraße; Bürgerschreiben vom 31.05.2010
+- TOP 3.3.: Hundewiesen in Waldperlach - Im Gefilde; Bürgerschreiben vom 15.06.2010 - <div>in den UA Umwelt, Klima, Grünplanung, Gesundheit verwiesen</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.6.5: Gleichstellungsbeauftragte
+- TOP 4.6.5.4.6.6: Unterkunftsanlagen und Wohnen
+- TOP 4.6.5.4.6.7: Integration
+- TOP 4.6.8: Behinderten-/Inklusionsbeauftragte
+- TOP 4.6.9: Internet
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Anzeigen für öffentliche Vergnügungsveranstaltungen; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 5.1.1.1 Kirchseeoner Straße,Marionettentheater "Maatz" vom 28.09. bis 04.10.10 sowie 05.10. bis 11.10.10; Zuleitung vom 28.05.2010 5.1.1.2 Kleingartenanlage Hochäckerstr. 30, Jubiläums-Sommerfest "50 Jahre Kleingartenverein Südost 59 e. V." am 17.07.2010; Zuleitung vom 14.06.2010 5.1.1.3 Theodor-Heuss-Platz, Sommerfest ZAK e.V. am 23.07.2010; Zuleitung des Kreisverwaltungsreferats vom 22.06.2010 - <div>Zustimmung zu allen drei Veranstaltungen</div>
+- TOP 5.2.: Straßenbenennung: Perlacher-Tor-Platz; Benennung des Vorplatzes zwischen dem PEP-Eingang ?Perlacher Tor? und der Thomas-Dehler-Straße als ?Perlacher Tor Platz? (gem. Entscheidungsrecht des BA (§ 9 Abs. 1 und Anlage 1 Nr. 8.1 der BA-Satzung); Aufhebung des Beschlusses des Kommunalauschusses vom 12. 02. 2009 ?Ablehnung der Benennung des Vorplatzes zwischen dem Eingang zum PEP-Einkaufszentrum und der Thomas-Dehler-Straße in Perlacher-Tor-Platz? (Sitzungsvorlage Nr. 08-14 / V 01612); Antrag Nr. 08-14 / B 01348 des BA 16 vom 28.07.2009; Beschlussentwurf für die Sitzung des Kommunalausschusses; Zuleitung des Kommunalreferats vom 16.06.2010 mit der Bitte um Stellungnahme - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 5.3.: Pfanzeltplatz 11 gegenüber; Einrichtung eines allgemeinen Behindertenparkplatzes; Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 21.06.2010 mit der Bitte um Stellungnahme (hierzu: Bürgerschreiben vom 12.06.2010) - <div>Zustimmung</div>
+- TOP 5.1.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme 5.4.1.1 Ulrich-von-Hutten-Str.auf Höhe Nr. 9; 4 beleuchtete Großflächenplakattafeln (3,9 x 2,9 m); Zuleitung vom 10.05.2010 (vertagt aus der Sitzung am 09.06.2010) 5.4.1.2 Fasangartenstr. auf Höhe Nr. 15; 2 Plakatwerbetafeln auf Monofuß (2,6 x 3,66 m) Werbewechselanlagen sowie eine beleuchtete Plakatwerbetafel (2,8 x 3,8 m) Werbewechselanlage; Zuleitung vom 11.06.2010 - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.2.: Nachqualifizierung der Denkmalliste, Münchner Dorfkernensembles; Ortstermin am 10.05.2010; Zuleitung des Referats für Stadtplanung und Bauordnung vom 18.05.2010 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 09.06.2010) - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.3.: Gemeinde Neubiberg; Bebauungsplan Nr. 60 a - Teil 1; Verfahren nach § 13 a BauGB; Zuleitung des Referats für Stadtplanung und Bauordnung vom 017.06.2010 mit der Bitte um Stellungnahme - <div>in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 5.1.: Optimierung der Christbaumsammlung im Winter 2010/2011; Zuleitung des Abfallwirtschaftsbetrieb München vom 19.05.2010 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 09.06.2010) - <div>Nichtbefassung beschlossen</div>
+- TOP 5.2.: Wertstoffcontainerstandort Balanstraße (alte Zufahrt V-Markt ggü. St.-Cajetan-Straße); Zuleitung des Abfallwirtschaftsbetriebs vom 31.05.2010 mit der Bitte um Stellungnahme (vertagt aus der Sitzung am 09.06.2010) - <div>Zustimmung</div>
+- TOP 5.1.: Transparenz auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen; Antrag Nr. 08-14 / B 01378 des BA 15 Trudering-Riem vom 30.07.2009; Protokolle der BA-Sitzungen des BA 22 im RIS veröffentlichen; Antrag Nr. 08-14 / B 01400 des BA 22 Aubing-Lochhausen-Langwied vom 19.08.2009; Zuleitung des Direktoriums vom 16.06.2010 mit der Bitte um Stellungnahme - <div>siehe Protokoll</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Rabattregelung für Inhaber von personalisierten IsarCards bei P+R-Gebühren Ausweitung der Regelung ?10 Monate zahlen, 12 Monate fahren? auf die Nutzung von P+R-Anlagen; Antrag Nr. 08-14 / B 02119 des BA 16 vom 04.05.2010; Antwortschreiben des Kreisverwaltungsreferats vom 02.06.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.2.: Zurückstellung der geplanten Erweiterung des Wertstoffhofes in derBayerwaldstraße bis zu einer optimierten Verkehrsanbindung des Gewerbegebietes; Antrag Nr. 08-14 / B 02110 des BA 16 vom 04.05.2010; Antwortschreiben des Abfallwirtschaftsbetriebs München vom 08.06.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.3.: Mehr Parkbuchten in der Unterhachinger Straße; Antrag Nr. 08-14 / B 01694 des BA 16 vom 01.12.2009; Stellungnahme des BA 16 in der vom 14.04.2010; Antwortschreiben des Baureferats vom 16.06.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.4.: Lichtzeichenanlagenbauprogramm für 2010; Vormerkliste für das Bauprogramm 2010; Anlagen Putzbrunner Straße/Am Hain und Aschauer-/Chiemgaustraße; Stellungnahme des BA 16 in der Sitzung vom 09.06.2010; Antwortschreiben des Kreisverwaltungsreferats vom 21.06.2010 - <div>siehe Protokoll TOP 4.1.3.9</div>
+- TOP 6.1.: Sanierung des Bolzplatzes am Oskar-Maria-Graf-Ring; Bestellen einer städtischen Dienstleistung; Beschluss des BA 16 in der Sitzung am 04.05.2010; Antwortschreiben des Baureferats vom 10.06.2010 - <div>in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 6.2.: Ameisenplage an der Staudinger Straße; Bürgeranliegen in der Sitzung des BA 16 am 09.06.2010; Antwortschreiben des Baureferats vom 14.06.2010 - <div>in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 6.3.: Unterstützung bei der Aneignung von Plätzen im Rahmen einer ?Friedlichen Koexistenz im öffentlichen Raum? in den Sanierungsgebieten ?Tegernseer Landstraße / Chiemgaustraße?, 17. Stbz. Giesing und ?Innsbrucker Ring / Baumkirchner Straße?, 16.Stbz. Ramersdorf-Perlach und 14.Stbz. Berg am Laim im Bund-Länder-Programm ?Soziale Stadt?; Stellungnahme des BA 16 in der Sitzung am 02.03.2010; Sitzungsvorlage Nr. 08-14 / V 03883; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 29.06.2010 (SB) - <div>in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 6.4.: Verbesserung der Situation für behinderte Menschen im Michaelibad; Antrag Nr. 08-14 / B 02112 des BA 16 vom 04.05.2010; Antwortschreiben der Stadtwerke München GmbH vom 17.06.2010 - <div>in den UA Bildung, Soziales, Integration und Sport verwiesen.</div>
+- TOP 6.1.: Bebauungsplan mit Grünordnung Nr. 1609, Hanns-Seidel-Platz (südlich), Fritz-Erler-Straße (westlich), Von-Knoeringer-Straße (nördlich), Thomas-Dehler-Straße (östlich); a) Bekanntgabe des Wettbewerbsergebnisses des städtebaulichen und landschaftsplanerischen Ideenwettbewerbes Hanns-Seidel-Platz; b) weiteres Vorgehen; Sitzungsvorlage Nr. 08-14 / V 04526; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.06.2010 (SB) - <div>- zur Kenntnis genommen; keine Verweisung in den UA -</div>
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Aufhebung der Benutzungspflicht und Änderung der Beschilderung des Zweirichtungsradweges an der Unterhachinger Straße; Zuleitung des Kreisverwaltungsreferats vom 31.05.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 7.1.2.1 SSW "Führichstüberl",Führichstraße; Mitteilung vom 22.06.2010 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.1.: Sitzung des Kulturausschusses am 08.07.2010; Zuleitung des Kulturreferats vom 04.06.2010 7.2.1.1 Stärkung der Stadtteilkultur; Erfahrungsbericht - Bekanntgabe 7.2.1.2Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste; Keine Errichtung einer weiteren Auer Herberge für kulturelle Zwecke im Stadtbezirk 5 (früher Stadtbezirk 16), Au-Haidhausen; Errichtung einer Herberge auf dem Grundstück Fl.Nr. 14709 zur stadtteilbezogenen, kulturellen Nutzung; Empfehlung Nr. 16/9 der Bürgerversammlung des 16. Stadtbezirks Au am 08.10.1985; Bereitstellung einer Auer Herberge für kulturelle Zwecke; Empfehlung Nr. 16/10 der Bürgerversammlung des 16. Stadtbezirks Au am 14.11.1984; Sitzungsvorlage Nr. 08-14 / V 04495; Beschluss des Kulturausschusses vom 08.07.2010 (SB) - <div>in den UA Kultur, Vereine und Veranstaltungen verwiesen.</div>
+- TOP 7.1.: Baufälle im 16. Stadtbezirk - <div>n den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.2.: Mitteilung über ein Grundstücksgeschäft; Kauf einer Immobilie in der Rosenheimer Straße; Zuleitung des Kommunalreferats vom 26.05.2010 - <div>n den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen im 16. Stadtbezirk; Zuleitung des Baureferats/Gartenbau vom 21.05.2010 - <div>n den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.4.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsrechnung, Frühzeitige Abrechnung von Erschließungsbeiträgen; Empfehlung Nr. 08-14 / E 00252 der Bürgerversammlung des Stadtbezirks 24 Feldmoching-Hasenbergl am 26.03.2009; Bessere Information der Anlieger über Erschließungskosten; Sitzungsvorlage Nr. 08-14 / V 04017; Beschluss des Bauausschusses vom 15.06.2010 (SB) - <div>n den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.5.: Mehrjahresinvestitionsprogramm für die Jahre 2010 bis 2014; Beschlüsse des Ausschusses für Stadtplanung und Bauordnung vom 09.06.2010 (VB) 7.4.5.1 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010 bis 2014; Sitzungsvorlage Nr. 08-14 / V 04345 7.4.5.2 Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge; Stellungnahmen zu den Anträgen der BA 4, 9 und 21; Sitzungsvorlage Nr. 08-14 / V 04346 - <div>n den UA Stadtteilentwicklung und Bauvorhaben verwiesen.</div>
+- TOP 7.6.: Vergabe eines Gewerbegrundstücks an der Unterhachinger Straße 26; Information des Referats für Arbeit und Wirtschaft vom 04.06.2010 - <div>n den UA Stadtteilentwicklung und Bauvorhaben verwiesen, weiter Informationen wurden angefordert</div>
+- TOP 7.1.: nformation des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 7.2.: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
+- TOP 7.3.: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten; Antrag Nr. 08-14 / B 1141 des BA 5 Au-Haidhausen vom 13.05.2009; Antwortschreiben des Direktoriums vom 20.05.2010 - <div>zur Kenntnis genommen</div>
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zust. UA
