@@ -1,0 +1,85 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-07-07T17:40:00+02:00
+- Ende: 2010-07-07T19:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7273
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7273
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00295861.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen und Anregungen/Sparvorschläge zum Haushalt bzw. Konsolidierungskonzept der Stadt Münster - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 6.1: Anfrage an die Verwaltung zu den finanziellen Auswirkungen des "Sparpaketes" der Bundesregierung auf die Stadt Münster
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP -: Berichtsvorlagen
+- TOP 9: Aspekte einer Zweitwohnsitzsteuer in Münster - zur Kenntnis genommen
+- TOP 10: Abendgymnasium/ Abendrealschule - zur Kenntnis genommen
+- TOP -: Vorlagen zur Entscheidung
+- TOP 11: Eckwerte für den Haushaltsplan 2011 und Konzept zur Haushaltskonsolidierung - mehrheitlich geändert beschlossen
+- TOP 12: Organisatorische Alternativen zur künftigen Aufgabenwahrnehmung nach dem SGB II in der Stadt Münster - einstimmig beschlossen
+- TOP 13: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2004 - 2006 und Frauenförderplan 2010 - 2012 - einstimmig geändert beschlossen
+- TOP 14: Anregung gemäß § 24 GO vom 21.10.2008 von Greenpeace Münster Team 50 plus
+- TOP 14.1: Anregung gemäß § 24 GO vom 21.10.2008 von Greenpeace Münster Team 50 plus - mehrheitlich beschlossen
+- TOP 15: Erweiterung von Kindertageseinrichtungen
+- TOP 15.1: Erweiterung der Kindertageseinrichtung Loddengrund, Delstrup 21 Münster - Gremmendorf - einstimmig beschlossen
+- TOP 15.2: Erweiterung der Kindertageseinrichtung Im Moorhock, Im Moorhock 71 - mehrheitlich beschlossen
+- TOP 15.3: Erweiterung der Kindertageseinrichtung Rumphorst, Elisabeth- Selbert- Weg 2 - einstimmig beschlossen
+- TOP 15.4: Erweiterung der Kindertageseinrichtung Brüningheide, Josef-Beckmann-Str. 34a, 48159 Münster - Kinderhaus - mehrheitlich beschlossen
+- TOP 15.5: Erweiterung der Kindertageseinrichtung Burgwall, Böttcherstr. 2 Münster - Hiltrup - einstimmig beschlossen
+- TOP 16: Trägerausschreibung für die Kinder- und Jugendhilfe-Einrichtung in Wolbeck-Nord - einstimmig beschlossen
+- TOP 17: Ermäßigung der Kursgebühren der VHS für Schwerbehinderte mit Erwerbsunfähigkeitsrente und entsprechende Anpassung der Entgeltordnung - einstimmig beschlossen
+- TOP 18: Umsetzung des Etatbeschluss des Rates vom 17.03.2010 zur Verbesserung der personellen Ausstattung von Gruppen in Kindertageseinrichtungen (G2c-Gruppen) - mehrheitlich beschlossen
+- TOP 19: Wiedereinführung des Münster-Passes, Angebotskonzept ab 01.09.2010 - mehrheitlich geändert beschlossen
+- TOP 20: Städtische Förderung der Verbraucherberatung Münster 2011-2015 (allgemeine Verbraucherberatung) - mehrheitlich geändert beschlossen
+- TOP 21: Wohngebiet Brüningheide: Jahresbericht Soziale Stadt Kinderhaus-Brüningheide und Handlungsempfehlungen 2011-2013 - mehrheitlich beschlossen
+- TOP 21.1: Wohngebiet Brüningheide: Jahresbericht Soziale Stadt Kinderhaus-Brüningheide und Handlungsempfehlungen 2011-2013
+- TOP 22: Großwohnsiedlung Kinderhaus - Brüningheide - einstimmig beschlossen
+- TOP 23: Feststellung von Jahresabschlüssen
+- TOP 23.1: Feststellung des Jahresabschlusses 2008 der Stadt Münster - einstimmig beschlossen
+- TOP 23.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2009 - einstimmig beschlossen
+- TOP 23.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2009 - einstimmig beschlossen
+- TOP 23.4: Feststellung des Jahresabschlusses und des Lageberichts der Städtischen Bühnen Münster für das Wirtschaftsjahr 2008/2009 - einstimmig beschlossen
+- TOP 23.5: Feststellung der Jahresabschlüsse 2009 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 23.6: Feststellung des Jahresabschlusses 2009 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 23.7: Feststellung des Jahresabschlusses 2009 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 23.8: Feststellung des Jahresabschlusses 2009 der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 23.9: Feststellung des Jahresabschlusses 2009 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-Mitte
+- TOP 24.1.1: 39. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 535 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 24.2: Stadtbezirk Münster-West
+- TOP 24.2.1: 29. Änderung des Flächennutzungsplanes - mehrheitlich geändert beschlossen
+- TOP 24.2.2: Bebauungsplan Nr. 273 Teilabschnitt I, 1. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.2.3: Bebauungsplan Nr. 273 Teilabschnitt II, 3. Änderung - Satzungsbeschluss - einstimmig beschlossen
+- TOP 24.3: Stadtbezirk Münster-Nord
+- TOP 24.3.1: Bebauungsplan Nr. 210, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 25: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster - einstimmig beschlossen
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 28: Einbringung von Managementkontrakten
+- TOP 28.1: Managementkontrakt mit der Westfälische Bauindustrie GmbH Münster (WBI) - Vorlage eingebracht
+- TOP 28.2: Managementkontrakt mit der Westfälischer Zoologischer Garten Münster GmbH - Vorlage eingebracht
+- TOP 28.3: Wirtschaftsförderung Münster GmbH: Abschluss eine Managementvertrages für die Jahre 2011 bis 2014 - Vorlage eingebracht
+- TOP 28.4: Messe und Congress Centrum Halle Münsterland GmbH: Abschluss eines Managementkontraktes (MMK) für die Jahre 2011 bis 2015 - Vorlage eingebracht
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 29.1: Ausgaben-Moratorium für Münster - bei Stimmengleichheit abgelehnt
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 30.1: Volle Kostenkontrolle - Zins- und Tilgungsbelastungen - verwiesen
+- TOP 30.2: Auszeichnung "Münsteraner zeigen Zivilcourage" - verwiesen
+- TOP 30.3: Resolution - Gemeinsam für das Münsterland - Verlässlichkeit für Arbeitsplätze am FMO - verwiesen
+- TOP 30.4: Gleiche Finanzierung von Girls- und Boys-Day - verwiesen
+- TOP 30.5: Hiltrup weiter entwickeln - Konzept für "Aktives Stadtteil- und Ortszentrum Marktallee/ Bahnhofsumfeld/ Osttor" aufstellen - verwiesen
+- TOP 31: Änderung der Bädertarife und der Tarifstruktur für die städt. Hallen- und Freibäder einschließlich Sportbad Coburg nach Umsetzung des Bäderkonzeptes - einstimmig geändert beschlossen
+- TOP 32: Verschiedenes
