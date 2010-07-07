@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-07-07T15:00:00+02:00
+- Ende: 2010-07-07T19:40:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1542
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1542
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Kenntnisnahme
+- TOP 2: Nebentätigkeiten OB - Kenntnisnahme
+- TOP 3: Beitritt zum Aktionsbündnis "Raus aus den Schulden - - Einstimmiger Beschluss
+- TOP 4: Genehmigung Wiederbestellung SSK - Einstimmiger Beschluss
+- TOP 5: Beirat JVA - Einstimmiger Beschluss
+- TOP 6: Rechnungsprüfungsordnung und DA - Einstimmiger Beschluss
+- TOP 7: Schlussbericht zur Jahresrechnung 2008 - Absolute Mehrheit
+- TOP 8: Entwurf des Doppelhaushaltes 2010/2011 - In den nächsten Ratszug geschoben
+- TOP 9: Auswirkungen der Verschiebung des Haushalts - Mit Stimmenmehrheit abgelehnt
+- TOP 10: Bereitstellung von Haushaltsmitteln und Zustimmung zur Inangriffnahme für Investitionsmaßnahmen - Mit Stimmenmehrheit beschlossen
+- TOP 11: Außerplanm. Bereitst. f. Beschaff. im Produkt Schulbetrieb, hier: Genehm. einer Dringl.keitsentsch. - Einstimmiger Beschluss
+- TOP 12: Bereitstellung apl. HHmittel, Maßn. U-3-Betreuung, Gen. Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 13: Beteiligung der NVV AG / NEW Re GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 14: Mittelbare Beteiligung der Stadt MG an der Trinkwasserverbund Niederrhein GmbH - Zur Kenntnis genommen
+- TOP 15: Bekanntgabe des Abschlussergebnisses SSK MG 2009 - Zur Kenntnis genommen
+- TOP 16: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 17: Nachwahl in den Beirat bei der Unteren Landschaftsbehörde der Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 18: Einrichtung einer kommunalen Beratungskommission - Zur Kenntnis genommen
+- TOP 19: Ordnungsbehördliche Verordnungen Offenhalten 31.10.10, 5.12.10, 2.01.11 und 2. Änderungsverordnung - Zur Kenntnis genommen
+- TOP 20: Ordnungsbehördliche Verordnungen über Offenhalten am 7.11.2010, 12.12.2010 - Zur Kenntnis genommen
+- TOP 21: Einrichtung einer integrativen Lerngruppe an der GHS Dohr - Zur Kenntnis genommen
+- TOP 22: Verteilung der Sportpauschale 2010 - Zur Kenntnis genommen
+- TOP 23: Sanierung des Tennenspielfeldes der Sportanlage Schlachthofstraße - Zur Kenntnis genommen
+- TOP 24: Neuorganisation Vereinigte Städtische Bühnen Krefeld-Mönchengladbach - Kenntnisnahme
+- TOP 25: Reduzierung der Schiedsamtsbezirke - Zur Kenntnis genommen
+- TOP 26: Erweiterung Kindertageseinrichtung Höfgenweg - Zur Kenntnis genommen
+- TOP 27: Erweiterung Kita Alexianerstraße / Übertragung der Trägerschaft - Einstimmiger Beschluss
+- TOP 28: Leistungsvereinbarung mit dem Verein Reha - Einstimmiger Beschluss
+- TOP 29: Leistungsvereinbarungen über die Erbringung komplementärer Leistungen - Einstimmiger Beschluss
+- TOP 30: Sockelbetragsfinanzierung - Mit Stimmenmehrheit beschlossen
+- TOP 31: Leistungsvereinbarung zum Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 32: Vertrag mit der Verbraucherzentrale NRW - Zur Kenntnis genommen
+- TOP 33: Übergabe des Änne-Kremer- und Jakob Kremer-Hauses - Einstimmiger Beschluss
+- TOP 34: Innenstadtkonzept Rheydt - Zur Kenntnis genommen
+- TOP 35: Konjunkturpaket II Lärmminderungsprogramm LOA -- Meldung zusätzlicher Straßenabschnitte - Zur Kenntnis genommen
+- TOP 36: Satzung über eine Veränderungssperre (Gebiet westlich Alter Mark und nördlich Waldhausener Straße) - Einstimmiger Beschluss
+- TOP 37: 188. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 38: Bebauungsplan Nr. 664/S (ehemals 664/VI) - Zur Kenntnis genommen
+- TOP 39: Wettbewerbsverfahren Pahlkebad - Hugo-Junkers-Park - Einstimmiger Beschluss
+- TOP 40: Jahresabschluss 2009 der GSM - Einstimmiger Beschluss
+- TOP 41: Konzept für die Preis-Auslobung „umweltgerechtes Bauen“ - In den nächsten Ratszug geschoben
+- TOP 42: Struktur der NVV AG/Steuerlicher Querverbund - Einstimmiger Beschluss
+- TOP 43: Kuratorium Kunststiftung - Einstimmiger Beschluss
+- TOP 44: Ausschussumbesetzung - Einstimmiger Beschluss
+- TOP 45: Anfragen
