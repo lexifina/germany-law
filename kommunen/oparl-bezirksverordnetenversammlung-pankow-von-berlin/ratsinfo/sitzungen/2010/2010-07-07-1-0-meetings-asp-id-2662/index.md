@@ -1,0 +1,109 @@
+# 35. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-07-07T17:30:00+02:00
+- Ende: 2010-07-07T20:10:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2662
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2662
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=41023
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Standort der Metro Cash&Carry in Pankow erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Spielleitplan umsetzen - mit Änderungen in der BVV beschlossen
+- TOP 1.9: Parkraumbewirtschaftung - Parkzone 43 - überwiesen
+- TOP 1.10: Stammstrecke der Heidekrautbahn über Wilhelmsruh und Pankow-Park endlich wieder in Betrieb nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Gartenarbeitsschule Galenusstraße - erledigt
+- TOP 1.12: Hinweisschilder Schloss Schönhausen - überwiesen
+- TOP 1.13: Brücke Sudauer Straße im Ortsteil Buch - überwiesen
+- TOP 1.14: Übertragung der Jugendfreizeiteinrichtung ASP Karow an den freien Träger "Albatros gGmbH" (Albatros) zum 01.08.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Übertragung der Jugendfreizeiteinrichtung "Esmarchstraße 27" an den freien Träger "Humanistischer Verband Deutschland - Landesverband Berlin e.V." (HVD) zum 01.09.2010 - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.16: Übertragung des Spielmobils an den freien Träger "Netzwerk Spiel/Kultur Prenzlauer Berg e.V." (Netzwerk) zum 01.08.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Übertragung der Jugendfreizeiteinrichtung Hosemannstraße 14 an die freien Träger "Werkstatt neue Technologien und Kultur gGmbH" (We-TeK) und "Pfefferwerk Stadtkultur gGmbH" (Pfefferwerk) zum 01.08.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Übertragung der Jugendfreizeiteinrichtung Freiraum an den freien Träger "Fortbildungsinstitut für die Pädagogische Praxis e. V." (FiPP) zum 01.08.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Übertragung der Jugendfreizeiteinrichtung "Der Würfel" an den freien Träger "Netzwerk Spiel/Kultur Prenzlauer Berg e.V." (Netzwerk) zum 01.08.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Vorlage zur Beschlussfassung Bezirksamt Grundstücksangelegenheit Sportstätte am Weißen See, Berliner Allee 127 in 13088 Berlin (OT Weißensee) - 2. Ausfertigung - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2010/2011 - hier Haushaltsjahr 2011 - überwiesen
+- TOP 1.22: Erschließung der Baustelle an der BAB 10 - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Filmstadt Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Jugendoffiziere: Schulen sollen Pluralität gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Internetangebot Bürgerbeteiligung aufbauen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Grundstücksangelegenheit Sportstätte Berliner Allee 127 in 13088 Berlin (OT Weißensee) - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Bürgersteige in Französisch-Buchholz (alt) - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Straßenlaternen - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Schneebeseitigung Haltestellenbereich BVG - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Unterstellmöglichkeiten BVG-Bus-Haltestelle - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Kennzeichnung der im Raum Berlin im Straßenland genutzten Fahrräder - in der BVV abgelehnt
+- TOP 1.32: Verhinderung der Verschmutzung und Beschädigung in den Parkanlagen im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Beseitigung der erheblichen Gehwegschäden in der Busonistraße in Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.34: Die nachhaltige Entwicklung der Botanischen Anlage Blankenfelde wirksam unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Abstandsflächen - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Kein Turmbahnhof am "Karower Kreuz" - in der BVV abgelehnt
+- TOP 1.37: Nachteile durch Wohngeldbezug reduzieren - überwiesen
+- TOP 1.38: Nichtverträgliche Verdichtung im Prenzlauer Berg vermeiden und Freiflächen sichern - in der BVV abgelehnt
+- TOP 1.39: Erkenntnisse aus den Einschulungsuntersuchungen umsetzen - erledigt
+- TOP 1.40: Die Verkehrssituation vor den Schulen gefahrenfrei und sicher gestalten - in der BVV abgelehnt
+- TOP 1.41: Schutz der Bestandsmieter am Wasserturmplatz! - überwiesen
+- TOP 1.42: Kultur im Ernst-Thälmann-Park - ohne Änderungen in der BVV beschlossen
+- TOP 1.43: Bereit für den Schulstart 2010 / 2011? - erledigt
+- TOP 1.44: Aggressive Kinder und Jugendliche im Freibad Pankow - erledigt
+- TOP 1.45: Junge Bäume im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Generationsübergreifende Freizeiteinrichtung - überwiesen
+- TOP 1.47: Kulturelle Angebote im Zentrum von Alt-Pankow verbessern und attraktiver machen - überwiesen
+- TOP 1.48: Ordnung und Sicherheit im Bürgerpark Pankow - überwiesen
+- TOP 1.49: Verkehrsberuhigung und Straßenbäume für die Bewohner im Eschengraben - überwiesen
+- TOP 1.50: WLAN für die BVV-Arbeit einrichten - überwiesen
+- TOP 1.51: Verkehrssicherheit in der Dietzgenstraße insbesondere für Fahrradfahrer - überwiesen
+- TOP 1.52: Wohnungslosigkeit - Prävention stärken - überwiesen
+- TOP 1.53: Bürgerzentrum in Buch ermöglichen - in der BVV abgelehnt
+- TOP 1.54: Sozialverträgliche Sanierungen und Modernisierungen sicherstellen - überwiesen
+- TOP 1.55: Schutz der Bestandsmieter in Pankow Süd/ Kissingenviertel - überwiesen
+- TOP 1.56: Schutz der Bestandsmieter im Paracelsusviertel - überwiesen
+- TOP 1.57: KfW-Kredite für unsere Schulen nutzen! - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Begrenzung des Flächenverbrauchs und Bodenschutz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Initiative im Eliashof - vertagt
+- TOP 2.3: Modernisierung Breite Straße 28 - 30 sowie 31 a - h durch die GESOBAU - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Keine Reduzierung von Musikunterricht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Umsetzung der Leitlinien für einen barrierefreien Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5.1: Beschluss der BVV über die "Umsetzung der Leitlinien für einen barrierefreien Bezirk Pankow" - Drs. V-0564/03 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5.2: Fortschreibung der Behindertenkonzeption - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Erschließung Rangierbahnhof Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6.1: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Neue Impulse für den Agendaprozess in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Datenschutz in Bibliotheken erhalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - vertagt
+- TOP 2.10: Bebauungsplan 3-15 "Grünzug Schönholz" besser mit dem Bezirk Pankow abstimmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Erweiterungsflächen für den Campus Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Endlich Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Grenzen überwinden: Mehr Beteiligung bei den Planungen des regionalen Grünzugs zwischen Mauerpark und Barnim - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Pankow für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Rückrufservice - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Gemeinsamen Musikschulstandort im Prenzlauer Berg prüfen - vertagt
+- TOP 2.17: Handreichung Bürgerbeteiligung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Wirtschaftsplan für die einzuführende Parkraumbewirtschaftung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Maßnahmeplan "Bürgerfreundliche Verwaltungssprache" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Jetzt die neue Gemeinschaftsschule Tesla Oberschule auch baulich weiter voranbringen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Sicherheit während der Tiefbaumaßnahmen - vertagt
+- TOP 2.23: Mauerpark fertig stellen - jetzt. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Wirksamkeit der Pflegestützpunkte und ihre weitere Entwicklung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Auskunft über Melderegisterdaten einschränken - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.26: Gedenktafel am Wasserturm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Aufstellung des Bebauungsplans 3-30B für die Grundstücke Danziger Straße 132 / 136, Dietrich-Bonhoeffer-Straße 22 - 27 sowie für das Flurstück 466 nordöstlich Dietrich-Bonhoeffer-Straße 24 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bebauungsplan 3-32 für das Grundstück Belforter Straße 5 - 8 / Straßburger Straße 33 - 36 / Metzer Straße 35 - 37 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Bebauungsplanentwurf 3-28 für das Grundstück Senefelderstraße 21 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Bebauungsplanentwurf 3-25 für die Grundstücke Oderberger Straße 19 sowie Kastanienallee 10 - 12 (teilweise) im Bezirk Pankow, OT Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
