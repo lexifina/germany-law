@@ -1,0 +1,77 @@
+# 6. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-07-07T17:02:00+02:00
+- Ende: 2010-07-07T19:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7343
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7343
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00295724.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Anträge
+- TOP 2.1: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der FDP-Fraktion, der Fraktion DIE LINKE. und der Ratsgruppe UWG/ödp an den Rat Nr. A-R/0051/2010 - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion CDU-Fraktion an den Rat der Stadt Münster, Nr. A-R/0012/2010 vom 23.01.2010 (Anlage 1) "Handyparken in Münster einführen" - mehrheitlich beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion Nr. A-R/0053/2010 "Städtische Besteuerungspraxis gegenüber Unternehmen in der Krise" - einstimmig beschlossen
+- TOP 2.4: Antrag A-R/0057/2010 der Fraktion DIE LINKE an den Rat vom 04.06.2010 - mehrheitlich geändert beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion Nr. A-R/0048/2010 vom 26.04.2010 - einstimmig beschlossen
+- TOP 2.6: Antrag Nr. A-R/0029/2010 der Fraktion Bündnis 90/Die Grünen/GAL und der Fraktion DIE LINKE im Rat der Stadt Münster vom 09.03.2010 - "Aufwertung des Stadtteils Kinderhaus sachgerecht gestalten - Bebauungsplan zur Zentrumserweiterung aufheben" - mehrheitlich beschlossen
+- TOP 2.7: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. A-R/0056/2010 "Coermühle an Wochenenden sperren" - einstimmig beschlossen
+- TOP 2.8: Antrag der CDU-Fraktion Nr. A-R/0047/2010 "Bildung ernst nehmen - Hauptschülern eine Perspektive geben" - einstimmig beschlossen
+- TOP 2.9: Antrag des Integrationsrates an den Rat Nr. AIR/0001/2010 vom 21.04.2010- Stadt Münster unterstützt Entwicklung und Wirken des Integrationsrats - einstimmig beschlossen
+- TOP 3: Förderung von Stadterneuerungsprojekten - Sachstand und Anträge für das Programmjahr 2011 - einstimmig beschlossen
+- TOP 4: Skulptur "Münsters Geschichte von unten" (Paul Wulf) - einstimmig beschlossen
+- TOP 5: Beitritt zur Deklaration "Biologische Vielfalt in Kommunen" - von der Tagesordnung abgesetzt
+- TOP -: Berichtsvorlagen
+- TOP 6: Geschäftsbericht 2009 des Sozialamtes - zur Kenntnis genommen
+- TOP 7: Aspekte einer Zweitwohnsitzsteuer in Münster - zur Kenntnis genommen
+- TOP 8: Abendgymnasium/ Abendrealschule - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 9: Eckwerte für den Haushaltsplan 2011 und Konzept zur Haushaltskonsolidierung - ohne Beschlussfassung geschoben
+- TOP 10: Organisatorische Alternativen zur künftigen Aufgabenwahrnehmung nach dem SGB II in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 11: Programm für Chancengleichheit - Bericht zum Frauenförderplan 2004 - 2006 und Frauenförderplan 2010 - 2012 - ohne Beschlussfassung geschoben
+- TOP 12: Anregung gemäß § 24 GO vom 21.10.2008 von Greenpeace Münster Team 50 plus - ohne Beschlussfassung geschoben
+- TOP 12.1: Anregung gemäß § 24 GO vom 21.10.2008 von Greenpeace Münster Team 50 plus
+- TOP 13: Erweiterung von Kindertageseinrichtungen
+- TOP 13.1: Erweiterung der Kindertageseinrichtung Loddengrund, Delstrup 21 Münster - Gremmendorf - ohne Beschlussfassung geschoben
+- TOP 13.2: Erweiterung der Kindertageseinrichtung Im Moorhock, Im Moorhock 71 - ohne Beschlussfassung geschoben
+- TOP 13.3: Erweiterung der Kindertageseinrichtung Rumphorst, Elisabeth- Selbert- Weg 2 - ohne Beschlussfassung geschoben
+- TOP 13.4: Erweiterung der Kindertageseinrichtung Brüningheide, Josef-Beckmann-Str. 34a, 48159 Münster - Kinderhaus - ohne Beschlussfassung geschoben
+- TOP 13.5: Erweiterung der Kindertageseinrichtung Burgwall, Böttcherstr. 2 Münster - Hiltrup - ohne Beschlussfassung geschoben
+- TOP 14: Ermäßigung der Kursgebühren der VHS für Schwerbehinderte mit Erwerbsunfähigkeitsrente und entsprechende Anpassung der Entgeltordnung - ohne Beschlussfassung geschoben
+- TOP 15: Trägerausschreibung für die Kinder- und Jugendhilfe-Einrichtung in Wolbeck-Nord - ohne Beschlussfassung geschoben
+- TOP 16: Umsetzung des Etatbeschluss des Rates vom 17.03.2010 zur Verbesserung der personellen Ausstattung von Gruppen in Kindertageseinrichtungen (G2c-Gruppen) - ohne Beschlussfassung geschoben
+- TOP 17: Wiedereinführung des Münster-Passes, Angebotskonzept ab 01.09.2010 - ohne Beschlussfassung geschoben
+- TOP 18: Städtische Förderung der Verbraucherberatung Münster 2011-2015 (allgemeine Verbraucherberatung) - ohne Beschlussfassung geschoben
+- TOP 19: Wohngebiet Brüningheide: Jahresbericht Soziale Stadt Kinderhaus-Brüningheide und Handlungsempfehlungen 2011-2013 - ohne Beschlussfassung geschoben
+- TOP 19.1: Wohngebiet Brüningheide: Jahresbericht Soziale Stadt Kinderhaus-Brüningheide und Handlungsempfehlungen 2011-2013
+- TOP 20: Großwohnsiedlung Kinderhaus - Brüningheide - ohne Beschlussfassung geschoben
+- TOP 21: Feststellung von Jahresabschlüssen
+- TOP 21.1: Feststellung des Jahresabschlusses 2008 der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 21.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2009 - ohne Beschlussfassung geschoben
+- TOP 21.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2009 - ohne Beschlussfassung geschoben
+- TOP 21.4: Feststellung des Jahresabschlusses und des Lageberichts der Städtischen Bühnen Münster für das Wirtschaftsjahr 2008/2009 - ohne Beschlussfassung geschoben
+- TOP 21.5: Feststellung der Jahresabschlüsse 2009 der Kommunalen Stiftungen - ohne Beschlussfassung geschoben
+- TOP 21.6: Feststellung des Jahresabschlusses 2009 der Altenzentrum Klarastift gGmbH - ohne Beschlussfassung geschoben
+- TOP 21.7: Feststellung des Jahresabschlusses 2009 der Sozialholding Klarastift GmbH - ohne Beschlussfassung geschoben
+- TOP 21.8: Feststellung des Jahresabschlusses 2009 der Ambulante Dienste Klarastift GmbH - ohne Beschlussfassung geschoben
+- TOP 21.9: Feststellung des Jahresabschlusses 2009 der Klarastift Service GmbH - ohne Beschlussfassung geschoben
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Mitte
+- TOP 22.1.1: 39. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 535 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 22.2: Stadtbezirk West
+- TOP 22.2.1: 29. Änderung des Flächennutzungsplanes - ohne Beschlussfassung geschoben
+- TOP 22.2.2: Bebauungsplan Nr. 273 Teilabschnitt I, 1. Änderung - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 22.2.3: Bebauungsplan Nr. 273 Teilabschnitt II, 3. Änderung - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 22.3: Stadtbezirk Nord
+- TOP 22.3.1: Bebauungsplan Nr. 210, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 23: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - ohne Beschlussfassung geschoben
+- TOP 24: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 25: Änderung der Bädertarife und der Tarifstruktur für die städt. Hallen- und Freibäder einschließlich Sportbad Coburg nach Umsetzung des Bäderkonzeptes - ohne Beschlussfassung geschoben
+- TOP 26: Verschiedenes
