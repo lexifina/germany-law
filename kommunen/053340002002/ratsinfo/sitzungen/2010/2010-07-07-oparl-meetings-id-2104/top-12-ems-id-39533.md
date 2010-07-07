@@ -1,0 +1,8 @@
+# TOP 12: Rechtmittel gegen die Entscheidungen des Verwaltungsgerichts Aachen zur Wahl des Rates
+
+- Sitzung: öffentliche Sitzung des Rates der Stadt Aachen (2010-07-07)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=39533
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=10480&bi=5295
