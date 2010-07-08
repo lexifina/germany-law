@@ -1,0 +1,88 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-07-08T14:00:00+02:00
+- Ende: 2010-07-08T15:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZbCwJQl-4IflrjWneZMo0d0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3717
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbRZEZJuM4xo-1clfmcMb_qCOr9KmqPlJrvtnVSFXkse/Oeffentliche_Niederschrift_Rat_08.07.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Beanstandung eines Beschlusses des Rates vom 27.05.2010 gemäß § 54 Gemeindeordnung NRW
+- TOP 2: Umbesetzung von Ausschüssen und Gremien
+- TOP 3: Benennung von Mitgliedern für den Finanzausschuss und den Investitions- und Bauausschuss des Wupperverbandes
+- TOP 4: Bestellung eines Prüfers beim Revisionsdienst der Stadt Solingen
+- TOP 5: Public Corporate Governance Kodex für die Stadt Solingen
+- TOP 6: Jahresabschluss zum 31.12.2009 mit Gewinn- und Verlustrechnung für das Jahr 2009 und Lagebericht für das Jahr 2009 der Stadt-Sparkasse Solingen
+- TOP 7: Jahresabschluss zum 31.12.2009 mit Gewinn- und Verlustrechnung für das Jahr 2009 und Lagebericht für das Jahr 2009 der Stadt-Sparkasse Solingen
+- TOP 8: Jahresabschluss 2008 der Stadt Solingen
+- TOP 9: I. Ordnung zur Änderung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung städtischer Sportstätten vom 18.12.2008
+- TOP 10: Zustimmung zu Mehraufwendungen gemäß § 83 GO NRW im Rahmen einer Altlasten-Gefahrenabwehrmaßnahme
+- TOP 11: Haushaltsbegleitbeschluss zum Haushaltsjahr 2010
+- TOP 12: Walter-Bremer-Institut
+- TOP 13: Reduzierung Standard Grünflächenunterhaltung
+- TOP 14: Wirtschaftsplan 2010 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 15: Straßenausbaubeitragssatzung
+- TOP 16: Wirtschaftsplan 2010 des Technischen Betriebes Straßen und Grün der Stadt Solingen
+- TOP 17: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule (Berg. VHS) für das Geschäftsjahr 2010
+- TOP 18: Wirtschaftsplan 2010 der Bergischen Volkshochschule
+- TOP 19: Jahresabschluss 2009 der Altenzentren der Stadt Solingen
+- TOP 20: Zukunft der städtischen Altenzentren
+- TOP 21: Zukunft der städtischen Altenzentren
+- TOP 22: Zukunft der städtischen Altenzentren
+- TOP 23: Zukunft der städtischen Altenzentren
+- TOP 24: Umgestaltung Heidebad
+- TOP 25: Kosten der politischen Steuerung
+- TOP 26: Kosten der politischen Steuerung
+- TOP 27: Kosten der politischen Steuerung
+- TOP 28: I. Nachtrag zum Stellenplan 2010
+- TOP 29: Aufrechterhaltung öffentlicher Angebote durch Haushaltsentlastung auf Grund Nutzung steuerrechtlicher Möglichkeiten
+- TOP 30: Neustrukturierung der Wirtschaftsförderung in Solingen
+- TOP 31: Neustrukturierung der Wirtschaftsförderung in Solingen
+- TOP 32: Neustrukturierung der Wirtschaftsförderung in Solingen
+- TOP 33: Neuordnung des Regiebetriebes Bäder
+- TOP 34: Neuordnung des Regiebetriebes Bäder
+- TOP 35: Neuordnung des Regiebetriebes Bäder
+- TOP 36: Übertragung von Geschäftsanteilen der Städtischen Musikschule Solingen GmbH (Musikschule), den Bergischen Symphonikern - Orchester der Städte Remscheid und Solingen GmbH (Symphoniker) und der Kunstmuseum Solingen Betriebsgesellschaft mbH (KMS)
+- TOP 37: Organisatorische Weiterentwicklung der Stadtbibliothek Solingen und des Deutschen Klingenmuseums (DKM) auf zwei zu gründende Gesellschaften mit beschränkter Haftung als Tochtergesellschaften der Beteiligungsgesellschaft Stadt Solingen mbH (BSG)
+- TOP 38: Bauleitplanung Henkenheide/Spreestraße
+- TOP 39: Bauleitplanung Pöttweg
+- TOP 40: Bauleitplanung Bausmühlenstraße/Am Siefen
+- TOP 41: Bauleitplanung Mohrenkamp
+- TOP 42: Sammelwidersprüche
+- TOP 43: Google Street View
+- TOP 44: Aufsichtsrechtliche Maßnahmen der Bezirksregierung bei Kommunen mit drohender Überschuldung
+- TOP 45: Kommunale Finanzen
+- TOP 46: Baumschutzsatzung
+- TOP 47: Errichtung einer Leistungsporthalle an der NRW-Sportschule
+- TOP 48: Turnhalle Gillicher Straße/Verhandlungen mit dem TSV Aufderhöhe
+- TOP 49: Nutzung von Räumlichkeiten der VHS
+- TOP 50: Korkenziehertrasse im Bereich des Museums Baden
+- TOP 51: Offenlegung von Bezügen
+- TOP 52: ÖPNV Sicherheitskonzept der SWS
+- TOP 53: Satzungsänderung der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 54: Ausbildungsstellenmarkt in Solingen
+- TOP 55: HSK-Maßnahme 231 (Baumschutzsatzung)
+- TOP 56: Prüfung Müngstener Brücke
+- TOP 57: Sog. Löschwasservertrag – Beschluss des Rates vom 24. September 2009
+- TOP 58: Sanierungsbedarf im Stadtsaal Wald
+- TOP 59: Beschlüsse des JHA in der öffentlichen Sitzung am 21.06.2010 zum Haushaltsbegleitbeschluss zum Haushaltsjahr 2010
+- TOP 60: Bau einer Leistungssporthalle
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Bestellung eines Jahresabschlussprüfers für das Geschäftsjahr 2009 der Bergische Entwicklungsagentur GmbH (BEA)
+- TOP 2: Neuordnung des Regiebetriebes Bäder
+- TOP 3: Neuordnung des Regiebetriebes Bäder
+- TOP 4: Zukunft der städtischen Altenzentren
+- TOP 5: Zukunft der städtischen Altenzentren
+- TOP 6: Zukunft der städtischen Altenzentren
+- TOP 7: Neuordnung des Regiebetriebes Bäder
+- TOP 8: Sog. Löschwasservertrag – Beschluss des Rates vom 24. September 2009
+- TOP 9: Bauleitplanung Henkenheide/Spreestraße
+- TOP 10: Bauleitplanung Pöttweg
+- TOP 11: Bauleitplanung Mohrenkamp
