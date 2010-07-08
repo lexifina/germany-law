@@ -1,0 +1,7 @@
+# TOP 39: Bauleitplanung Pöttweg
+
+- Sitzung: Rat (2010-07-08)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11270
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/18872
