@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-07-08T14:00:00+02:00
+- Ende: 2010-07-08T00:00:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2700
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2700
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00143754.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00143754.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00143754.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 4: Anfrage aktuell d. SPD: Wassereinbruch im neuen Stadtarchiv - beantwortet
+- TOP 5: Anfrage aktuell d. SPD: Einwendungen gegen das geplante Kohlekraftwerk in Krefeld - beantwortet
+- TOP 6: Anfrage aktuell "DIE LINKE": Fristversäumnis zur Einwendung gegen das Kohlekraftwerk - beantwortet
+- TOP 7: Anfrage aktuell DIE LINKE: Wassereinbruch im Stadtarchiv - beantwortet
+- TOP 8: Anfrage aktuell d. Ratsfrau Deilmann: Haushalt 2011 - schriftlich beantwortet
+- TOP 9: Anfragen - zur Kenntnis genommen
+- TOP 9.1: Anfrage CDU: "Personalqualifizierung in den städtischen Einrichtungen" - beantwortet
+- TOP 9.2: Anfrage Bü90/Grü: Auswirkungen der Belastungen durch das Land NRW und die Bundesregierung für die St - beantwortet
+- TOP 9.3: Anfrage - beantwortet
+- TOP 9.4: Anfrage Rf. Frey: Jobcenter - beantwortet
+- TOP 9.5: Anfrage DIE LINKE: Glaubwürdigkeit des christlichen Kinder- und Jugendhilfswerks "Die Arche" - schriftlich beantwortet
+- TOP 9.6: Anfrage DIE LINKE: "Sparpakets" der Bundesregierung - schriftlich beantwortet
+- TOP 9.7: Anfrage CDU und FDP: Verlagerung der Zentralbibliothek der Düsseldorfer Stadtbüchereien an einen and - schriftlich beantwortet
+- TOP 9.8: Anfrage Rh Laubenburg: : Aufhebung nationalsozialistischer Unrechtsurteile - schriftlich beantwortet
+- TOP 10: Bericht aus der Kleinen Kommission Wehrhahn-Linie - zurückgezogen
+- TOP 11: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 12: Anträge
+- TOP 12.1: Antrag FDP und CDU: Konzept zur Umsetzung einer diamorphingestützten Substitutionsbehandlung in Düss - einstimmig beschlossen
+- TOP 12.2: ÄA Linke: Konzept zur Umsetzung einer diamorphingestützten - mehrheitlich abgelehnt
+- TOP 12.3: Antrag SPD und Bü90-Grü: Novellierung des Stadtentwicklungskonzeptes 2010+ - mehrheitlich abgelehnt
+- TOP 12.4: SPD / Bü90/Grü: Erhöhung des Angebotes an preiswerten Wohnungen in Düsseldorf - mehrheitlich abgelehnt
+- TOP 12.5: Antrag SPD: Neugestaltung der Altstadt - mehrheitlich abgelehnt
+- TOP 12.6: Antrag SPD: Smart City - mehrheitlich abgelehnt
+- TOP 12.7: Antrag SPD: Aufhebung des Grundsatzbeschlusses (Vorlage Ö-60/327/2009) - zurückgezogen
+- TOP 12.8: Antrag Bü90/Grü: Rechtssicherheit für Gehbehinderte......... - verwiesen
+- TOP 12.9: Antrag SPD u. Bü90/Grü: Aufnahme des deutschen Kontingents iranischer Flüchtlinge - einstimmig beschlossen
+- TOP 12.10: Antrag SPD u. Bü90/Grü: Kommunale Handlungsfähigkeit sichern: Gewerbesteuer verbreitern - mehrheitlich abgelehnt
+- TOP 12.11: Antrag der Ratsfraktion DIE LINKE: Gemeinsame Sondersitzung der RPaus Krefeld und Düsseldorf - mehrheitlich abgelehnt
+- TOP 13: Kämmererliste - zur Kenntnis genommen
+- TOP 14: Nachträgliche Gebührenkalkulationen für Abfall und Straßenreinigung - Rückzahlungen an Kunden aufgru - einstimmig beschlossen
+- TOP 14.1: Änderungsantrag der Ratsfraktion DIE LINKE: Nachträgliche Gebührenkalkulationen für Abfall und Straß - mehrheitlich abgelehnt
+- TOP 15: 20. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düss - mehrheitlich beschlossen
+- TOP 16: 21. bis 24. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Land - mehrheitlich beschlossen
+- TOP 17: Neufassung Betriebsträgerwechsel - mehrheitlich beschlossen
+- TOP 18: Änderungsantrag SPD: Betriebsträgerwechsel von zwei eingruppigen städt. Kindertageseinrichtungen... - mehrheitlich abgelehnt
+- TOP 19: Konzept zur Realisierung von Mehrgenerationenflächen - einstimmig beschlossen
+- TOP 20: Konvent der Bürgermeisterinnen und Bürgermeister - einstimmig beschlossen
+- TOP 21: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur - mehrheitlich beschlossen
+- TOP 22: Aufhebung des Grundsatzbeschlusses des Rates vom 25.06.2009 "Neubau für die Abendrealschule - Herman - zur Kenntnis genommen
+- TOP 23: Bestellung von Vertretern der Stadt für die Mitgliederversammlung der „Vitako“ - einstimmig beschlossen
+- TOP 24: Bestellung von Vertretern der Stadt für die Mitgliederversammlung des Vereins Digitale Stadt Düsseld - einstimmig beschlossen
+- TOP 25: Aufsichtsrat der Grundstücksentwicklungs-Gesellschaft Düsseldorf mbH - Ersatzwahl - - mehrheitlich beschlossen
+- TOP 26: Planungsmaßnahmen
+- TOP 27: B-Plan Nr. 5178/54 - Gatzweiler - mehrheitlich beschlossen
+- TOP 28: BPl5682/013-Theodor/A44-§13, Stellungn;Satzung - einstimmig beschlossen
+- TOP 29: B-Plan Nr. 5677/048 - Birkensstraße - einstimmig beschlossen
+- TOP 30: Jahresabschluss 2009 der SSK - einstimmig beschlossen
+- TOP 31: Aktualisierte Investitionsliste Konjunkturpaket II - mehrheitlich beschlossen
+- TOP 32: Bestellung von beratenden Mitgliedern in Ausschüsse - mehrheitlich beschlossen
