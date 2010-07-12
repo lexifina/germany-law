@@ -1,0 +1,105 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-07-12T16:02:00+02:00
+- Ende: 2010-07-12T20:00:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8072
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8072
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00120246.pdf
+- Wortprotokoll: Tagesordnung zur Sitzung - Stand: 09.07.2010 - 11.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00119966.pdf
+
+## Tagesordnung
+
+- TOP 0: Übergeordnete Angelegenheiten
+- TOP -: Einführung eines Stadtverordneten
+- TOP 0.1: Verleihung einer Ehrenbezeichnung - ungeändert beschlossen
+- TOP 1: Haushalt / Haushaltssicherungskonzept
+- TOP 1.1: Haushaltsreden
+- TOP 1.2: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2010/2011 - ungeändert beschlossen
+- TOP 1.3: Festlegung der Landschaftsumlage 2010 - ungeändert beschlossen
+- TOP 1.4: Empfehlung des Jugendhilfeausschusses zum Haushaltsplan-Entwurf 2010/2011 - abgelehnt
+- TOP 1.5: Kulturförderabgabe für Wuppertal - abgelehnt
+- TOP 1.6: Weitere Rationalisierung in der Verwaltung - abgelehnt
+- TOP 1.7: Antrag zum Haushaltsplanentwurf für die Haushaltsjahre 2010 und 2011 - ungeändert beschlossen
+- TOP 1.8: Änderungsantrag zu VO/0463/10 - Umsetzung des Haushaltssicherungskonzeptes 2010 - 2014 Teil II - Ergänzung - abgelehnt
+- TOP 1.9: Umsetzung des Haushaltssicherungskonzeptes 2010-2014 - Teil II - ungeändert beschlossen
+- TOP 1.10: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2010/2011 - ungeändert beschlossen
+- TOP 1.11: Haushaltssatzung 2010/2011 - ungeändert beschlossen
+- TOP 1.12: Mittelfristige Finanzplanung - Kenntnis genommen
+- TOP 1.13: Stellenplan - ungeändert beschlossen
+- TOP 2: Fragestunde
+- TOP 2.1: Große Anfrage der WfW an das Gebäudemanagement und den Rat der Stadt - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort auf die Große Anfrage der WfW an das Gebäudemanagement und den Rat der Stadt - abschließend zur Kenntnis genommen
+- TOP 2.2: Große Anfrage zur Rollhockey-Europameisterschaft - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort der Verwaltung - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag zur Senkung der Abwassergebührensätze
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Runder Tisch für Handwerk und Stadt
+- TOP 4.2: Rittershauser Platz - ungeändert beschlossen
+- TOP 4.3: Weitere Rationalisierung in der Verwaltung
+- TOP 4.4: Evaluation der Tätigkeit der Bergischen Entwicklungsagentur - ungeändert beschlossen
+- TOP 4.4.1: Änderungsantrag zu VO/0499/10 - Evaluation der Tätigkeit der Bergischen Entwicklungsagentur - abgelehnt
+- TOP 4.5: Einführung einer Familienkarte als erweitertes Angebot des Familienclub Wuppertal
+- TOP 4.6: Resolution Offener Ganztag - erledigt durch Beschluss zu einem anderen TOP
+- TOP 4.6.1: Antrag zur Tagesordnung - Tagesordnungspunkt 4.6 - ungeändert beschlossen
+- TOP 4.7: Wuppertal und die Bergischen Städte fordern den Erhalt der Müngstener Brücke - ungeändert beschlossen
+- TOP 4.8: Alternative Finanzierungsquellen mit bürgerschaftlichem Engagement prüfen - zur Vorberatung verwiesen
+- TOP 4.9: Auslobung Wuppertals als Fairtrade-Stadt - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Sammelwidersprüche gegen die Veröffentlichung von Häusern und anderen Objekten bei Google Street View - ungeändert beschlossen
+- TOP 5.2: Kulturförderabgabe für Wuppertal
+- TOP 5.3: Aufhebung der festgesetzten Zügigkeit an den Gemeinschaftsgrundschulen
+- TOP 5.4: Resolution Eigenmittelbei Förderung durch den Bund - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.4.1: Änderungsantrag zu VO/0414/10 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 5.4.2: Antrag zur Tagesordnung - Tagesordnungspunkt 5.4 - ungeändert beschlossen
+- TOP 6: Ortsrecht
+- TOP 6.1: Abweichungssatzung Märkische Straße - ungeändert beschlossen
+- TOP 6.2: Denkmalbereichsatzung für den historischen Ortskern Beyenburg - ungeändert beschlossen
+- TOP 6.3: Dritte Änderungssatzung zur Satzung über die Erhebung von Elternbeiträgen für den Bereich von Angeboten der Offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung) - ungeändert beschlossen
+- TOP 6.4: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2010 bis 30.06.2012 - ungeändert beschlossen
+- TOP 6.5: Erste Änderungssatzung zur Vergnügungssteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 6.6: Erste Satzung zur Änderung der Hundesteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des ersten Jahresabschlusses der Stadt Wuppertal zum 31.12.2008 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2009 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen (KIJU) für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2009 der Wirtschaftsförderung Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2009 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Entlastung des Betriebsausschusses der APH Alten- und Altenpflegeheime (APH) für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss 2009 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Vorhabenbezogener Bebauungsplan Nr. 1044 V - Neuenbaumer Weg - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplanverfahren Nr. 1057 - Ludgerweg / Filchnerweg / Domänenweg - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1069 - Bredde / Berliner Straße - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 1131 - nördlich Widukindstraße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 1127 - Kaiserstraße / Lienhardstraße - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1068 - Bayreuther Straße / Briller Straße - - Dringlichkeitsentscheidung genehmigt
+- TOP 9.7: Bebauungsplan Nr. 811 - Mollenkotten - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2011/Katalogentwurf 2012 - ungeändert beschlossen
+- TOP 11.2: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 11.3: Anerkennung des Mietspiegels 2010 als qualifizierter Mietspiegel - ungeändert beschlossen
+- TOP 11.4: Neufestlegung der Geschäftsbereiche der Beigeordneten - ungeändert beschlossen
+- TOP 11.5: Veräußerung des Anteils an der Technologiezentrum Wuppertal W-tec GmbH an die Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 11.6: Anteilserwerb an der Technologiezentrum Wuppertal W-tec GmbH - ungeändert beschlossen
+- TOP 11.7: Weiterentwicklung des Regionalbüros - geändert beschlossen
+- TOP 11.8: Aufbau und Entwicklung eines Bildungsnetzwerkes in der Bildungsregion Wuppertal
+- TOP 11.9: Weiterführung der integrativen Lerngruppe - zieldifferent - in der Sekundarstufe I - ungeändert beschlossen
+- TOP 11.10: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Gemeinsame Beschulung verschiedener Bildungsgänge - ungeändert beschlossen
+- TOP 11.11: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Bildungsgang "Berufsschule Textillaborant nach APO BK Anlage A - ungeändert beschlossen
+- TOP 11.12: Erweiterung der städt. Tageseinrichtung für Kinder Rathenaustr. 20 durch Errichtung eines Anbaus für den Betrieb von weiteren 3 Gruppen sowie die Errichtung eines Ersatzbaus für die städt. Tageseinrichtung für Kinder Dahler Str. 59 - ungeändert beschlossen
+- TOP 11.13: Auslaufende Auflösung der Gemeinschaftshauptschule Elberfeld-Mitte, Gertrudenstraße - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines sachkundigen Einwohners im Ausschuss Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH/KIJU
+- TOP 12.2: Vertreterbenennung - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung - ungeändert beschlossen
+- TOP 12.4: Agentur für Arbeit Wuppertal - Ausschuss für anzeigenpflichtige Entlassungen - ungeändert beschlossen
+- TOP 12.5: Umbesetzung in Gremien - ungeändert beschlossen
+- TOP 12.6: Benennung der Mitglieder für den Beirat der Justizvollzugsanstalt Wuppertal - geändert beschlossen
