@@ -1,0 +1,88 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842137
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842137
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Erhalt von Bäumen in Großhadern
+- TOP 1.2.: Türklingel Kindergarten Stiftsbogen 56
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Stüps, schule-beruf e.V., Streitschlichterausbildung vom 19. - 22.07.10 (Direktorium, 16.06.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Transparenz auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen, BA 15 Antr.-Nr. 08-14 / B 01378; Protokolle der BA-Sitzungen des BA 22 im RIS veröffentlichen, BA 22 Antr.-Nr. 08-14 / B 1440 (Direktorium, 16.06.10)
+- TOP 6.2.: Stadtjugendamt / Förderung freier Träger, Haushaltsjahr 2011, Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 09.06.10)
+- TOP 6.3.: Erinnerungsverfahren Waldsaumstraße 31 Ecke Kriegerheimstraße 4 (Baureferat, 23.06.10)
+- TOP 6.4.: Stiftsbogen, Aufstockung (Referat für Stadtplanung und Bauordnung, 29.06.10)
+- TOP 6.5.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten (Direktorium, 29.06.10)
+- TOP 6.6.: Verkehrszeichen Waldwiesenstraße / Ecke Tannenwaldstraße (Kreisverwaltungsreferat, 30.06.10)
+- TOP 6.7.: Münchner Wochenmärkte - Großhadern - Heiglhofstraße, Antrag der Händler auf Verlängerung der Marktzeit (Kommunalreferat, 30.06.10)
+- TOP 6.8.: Erinnerungsverfahren: Narzissenstraße 2 (Baureferat, 23.06.10)
+- TOP 6.9.: Verkehrsrechtliche Anordnung, hier: Kurzparkzone vor dem Kinderhaus Großhaderner Straße 34 (Kreisverwaltungsreferat, 01.07.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Tratzbergstraße 4, 1 Serbische Fichte
+- TOP 7.2.: Primelstraße 29, 1 Kiefer
+- TOP 7.3.: Pelargonienweg 5 a, 2 Kiefern, 1 Fichte und 1 Tanne
+- TOP 7.4.: Stiftsbogen 63 - 81 a, 1 Laubbaum
+- TOP 7.5.: Am Wiesenhang 31, 1 Kirsche
+- TOP 7.6.: Neufriedenheimer Straße 65, 1 Birke
+- TOP 7.7.: Neufriedenheimer Straße 49, 2 Douglasien
+- TOP 7.8.: Fürstenrieder Straße 198, 3 Birken
+- TOP 7.9.: Ludlstraße 1 - 15, 2 Pappeln und 1 Scheinakazie
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Guardinistraße 11, 1 Linde (Referat für Stadtplanung und Bauordnung, 17.06.10)
+- TOP 7.2.: Guardinistraße 60, 1 Baum (Baureferat, 16.06.10)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Kein Google Street View in Trudering-Riem, Antrag des BA 15 Nr. 08-14 / B 01901 vom 25.02.2010 (Oberbürgermeister Ude, 27.05.10)
+- TOP 8.2.: Unveränderte Fortführung einer Gaststätte - "Subway", Sauerbruchstraße 2 (Kreisverwaltungsreferat, 08.06.10)
+- TOP 8.3.: Jahresbericht 2009 des Behindertenbeirates (Behindertenbeirat, 01.06.10)
+- TOP 8.4.: Zweckentfremdung von Wohnraum: - Lichtensteinstraße (Sozialreferat, 14.06.10) - Sauerbruchstraße (Sozialreferat, 22.06.10)
+- TOP 8.5.: Vollzug der Grünanlagensatzung vom 12.08.1991, Baustelleneinrichtung auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 14.06.10)
+- TOP 8.6.: Nahverkehrskonzept (MVG, 18.06.10)
+- TOP 8.7.: Verkehrsrechtliche Anordnung, hier: Willibaldstraße zwischen Krokus- und Senftenauerstraße; Einführung der Rechts-vor-Links-Regelung (Kreisverwaltungsreferat, 22.06.10)
+- TOP 8.8.: Leitlinie Gesundheit, Broschüre "Rundum gesund" (Referat für Gesundheit und Umwelt, 21.06.10)
+- TOP 8.9.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG), Marchioninistraße 15, Klinikum Großhadern, hier: Sanierung der Wärme- und Dampfversorgung im Klinikum der Universität München Standort Großhadern; Bescheid (Referat für Gesundheit und Umwelt, 23.06.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Verkehrsrechtliche Anordnung, hier: Tannenwaldstraße Haltverbote (Kreisverwaltungsreferat, 16.06.10)
+- TOP 9.2.: Zweirichtungsradweg Sauerbruchstraße (Kreisverwaltungsreferat, 21.06.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Werbung in den U-Bahnen (BA 12 Schwabing-Freimann, 09.06.10)
+- TOP 11.2.: 18.jetzt - Fest junger Erwachsener im Rathaus am 09.10.2010 (Direktorium, 21.06.10)
+- TOP 11.3.: Wechsel des BA 5 Au-Haidhausen zur BA-Geschäftsstelle Ost (Direktorium, 24.06.10)
+- TOP 11.4.: Tram Westtangente, Anmerkungen zum Flyer der MVG
+- TOP 11.5.: Jahresbericht 2009 der GWG München, Bericht über die nachhaltige Entwicklung bei der GWG München (GWG München, 25.06.10)
+- TOP 11.6.: Informationen zur Finanzierung für die Dichtheitsprüfung und Sanierung von Abwasserkanälen (kfw Bankengruppe, 16.06.10)
+- TOP 11.7.: Stadtteilwoche Hadern 2010, Pressespiegel (Kulturreferat, 15.06.10)
+- TOP 11.8.: Bundesweite Mitmachaktion "Stadtradeln - Unsere Stadt fährt Rad" - Einladung zur Teilnahme an den Münchner "Stadtradeln-Aktionswochen" (Bürgermeister Monatzeder, 07.07.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 15.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04017: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung Frühzeitige Abrechnung von Erschließungsbeiträgen
+- TOP 12.2.: Beschluss des Kulturausschusses vom 08.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04495: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04346: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04345: Mehrjahresinvestitionsprogramm 2010 - 2014 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010 - 2014, insbesondere - "Stiftsbogen" vom 30.09.2005, Ende 2010, mit 432 WE, MIP alt 5/29 = MIP neu 211.01, Anlage 1 und - "Studentenwohnheim am Stiftsbogen", das nach Realisierung aus dem MIP entfällt
+- TOP 12.1.: Beschluss des Sozialausschusses vom 10.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04187: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2010 - 2014, Einzelplan 4 / Sozialbereich, insbesondere Stellungnahme des Sozialreferates - zur "Errichtung eines ASZ am Stiftsbogen" (bis 2014 abgelehnt) und - zur "Verlagerung des Sozialbürgerhauses an den Ratzingerplatz" (fällt in die Zuständigkeit des Sozialreferates) (S. 19, Abschnitt 3.5, Stellungnahme des BA Hadern vom 12./14.10.2009 = Anlage 8 mit Anträgen der SPD- und CSU-Fraktion vom 12.10.2009)
+- TOP 12.2.: Beschluss des Schul- und Sportausschusses vom 09.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04264: Mehrjahresinvestitionsprogramm (MIP) 2010 - 2014 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Dissens 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse, insbesondere des BA Hadern vom 14.10.2009 (S. 20) mit Stellungnahme des Schulreferates (S. 21 - 23) - zu "Lärm- und Abgasschutzmaßnahmen für die BSA Wolkerweg" (abgelehnt), - zur "Errichtung einer Rampe für die Turnhalle und das Schwimmbad in der Schule an der Guardinistraße" (abgelehnt), - zum "sofortigen Planungsbeginn für die Kita an der Heiglhofstraße 68" (abgelehnt), - zur "Modellsporthalle Hadern" (abgelehnt), - zu den "Kunstrasenplätzen in den BSA'en am Wolkerweg und an der Ludwig-Hunger-Straße" (abgelehnt), - zur "Erweiterung der Schulturnhalle für die GS an der Senftenauerstraße" (noch kein konkreter Termin) und - zur "Sanierung der Sanitäranlagen und Fenster in den GS'en an der Senftenauerstraße (abgelehnt) und Guardinistraße (nur der Fenster, nicht der Sanitäranlagen)" (S. 23)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04481: Stärkung der Stadtteilkultur, insbesondere in Hadern, Erfahrungsbericht zur Stadtteilwoche, zur Kultur in Hadern e.V., zum Jugendkulturtag, zur MVHS-Außenstelle und zur Stadtbibliothek
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
