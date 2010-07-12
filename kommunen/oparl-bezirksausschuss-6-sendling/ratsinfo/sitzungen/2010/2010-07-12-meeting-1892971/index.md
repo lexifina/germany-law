@@ -1,0 +1,75 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-07-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1892971
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1892971
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: "Jugendtreff" im Bereich der Metallbügel am REWE-Markt in der Aberlestr. / Alramstr.
+- TOP 2.2.: Belästigung von Kindern / Jugendlichen im Bereich der Gotzinger Str.
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Bürgerfest am Bahndeckel Theresienhöhe am 23.07.2010 von 15.00 bis 20.00 Uhr
+- TOP 3.2.: Einrichtung Implerstr. 51a; Erhöhung der Personalausstattung
+- TOP 3.3.: Bedarfsplanung Kindertagesbetreuung (Unterlagen in der BA-Geschäftsstelle)
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Parkscheinautomat Plinganserstr. 18
+- TOP 6.2.: Warenstellage Implerstr. 12a
+- TOP 6.3.: Warenstellage Am Harras 8
+- TOP 6.4.: Straßenfest auf dem Margaretenplatz am 18.07.2010
+- TOP 6.5.: Leistungsprogramm der MVG 2011
+- TOP 6.6.: Veränderung der Parkplatzsituation im Bereich der Königsdorfer Str. 11 - 13
+- TOP 6.7.: Radverkehr; Einrichtung von Fahrradstraßen in Sendling - Vorschläge der Fraktionen -
+- TOP 6.8.: Fahrradampel am Radweg im Bereich der Implerschule
+- TOP 6.9.: Errichtung eines absoluten Haltverbotes auf der Südseite der Kraelerstr. zwischen der Ganghoferstr. und dem Maria-Reisinger-Weg - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 6.10.: Fernwärmeprojekt Danklstr.
+- TOP 7.1.: Budgetrichtlinien des BA 6
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München, Teestube "komm"-Streetwork Sommerfest am 06.08.2010 - <div>nach Antrag</div>
+- TOP 7.4.: Budgetantrag Init. Kunst in Sendling, Offene Ateliers Sendling; ? 2874,70
+- TOP 7.5.: Transparenz auch auf BA-Ebene verwirklichen - BA-Sitzungsprotokolle veröffentlichen
+- TOP 7.6.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 7.7.: Oktoberfest 2010 - Reservierung in der Ratsboxe für die BAs
+- TOP 7.8.: Fest junger Erwachsener am 09.10.2010
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Lipowskystr. 18
+- TOP 8.3.: Bauvorhaben Implerstr. 9a
+- TOP 8.4.: Bauvorhaben Isarauen 8
+- TOP 8.5.: Bauvorhaben Plinganserstr. Clearinghaus - Vorbescheid; Zurückziehung
+- TOP 8.6.: Bauvorhaben Thalkirchnerstr. 190; Hausaufgabenbetreuung Nachbarschaftstreff
+- TOP 8.7.: Umgestaltung des S-Bahnbahnhofes Harras
+- TOP 8.8.: Anwohnergaragen in München
+- TOP 8.9.: 40. städtischer Fassadenwettbewerb
+- TOP 8.10.: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen
+- TOP 8.11.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 8.12.: Landesentwicklungsprogramm
+- TOP 9: Baureferat
+- TOP 9.1.: Umgestaltung des Margaretenplatzes
+- TOP 9.2.: Straßensanierung Winkstr. 6
+- TOP 9.3.: Evangelisches Johanniter-Gymnasium München; Lipowskystr. 15
+- TOP 9.4.: Rückbau der Abbiegespur von der Plinganserstraße in die Lindenschmitstraße - <div>Kenntnisnahme</div>
+- TOP 9.5.: Umgestaltung des Platzes Am Harras
+- TOP 9.6.: Vorinformationsverfahren bei der Erschließungsbeitragsabrechnung
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Leipartstr. bei Haus Nr. 30; ein Spitzahorn
+- TOP 10.2.: Baumfällung Reutberger Str. 9; eine Eiche
+- TOP 10.3.: Baumfällung Alramstr. 29; eine Kastanie
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Verzicht auf Laubsauger und Laubbläser
+- TOP 13: Verschiedenes
+- TOP 13.1.: Implerstr. 69; erneute Ablehnung der Hofnutzung durch den Verein Buntstifte e. V.
+- TOP 13.2.: Stärkung der Stadtteilkultur
+- TOP 13.3.: Generalsanierung der Stadtbibliothek und Münchner Volkshochschule in der Albert-Roßhaupter-Str. 8
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
