@@ -1,0 +1,51 @@
+# Rat der Stadt Rheda-Wiedenbrück (6. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2010-07-12T17:00:00+02:00
+- Ende: 2010-07-12T23:37:00+02:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZd3mOom2k0t7aoYMEqmAI8
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/849
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZU6iKTPdOlNece2lcHaKsk2qw8CkDlmuYspTM999YTd8/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_12.07.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQAHgxGTxv7AOceF2hdSNSxpVJLo_NCKTFkpvfp_STMB/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_12.07.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Informationen über Handlungsspielräume durch den Ablauf des Stromkonzessionsvertrages am 31.08.2011
+- TOP 5: Sachstandsbericht zum geplanten Neubau einer Stadthalle - Einstimmig
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Andreasmarkt Rheda - Terminänderung und Eröffnung Antrag der FDP-Fraktion vom 23.11.2009 - 31 Ja-Stimme(n), 4 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 8: Ordnungsbehördliche Verordnung über das Offenhalten von Verkaufsstätten aus besonderem Anlass in der Stadt Rheda-Wiedenbrück - mehrheitlich zugestimmt
+- TOP 9: Endgültige Auflösung der Michael-Ende-Schule zum 31.07.2011 - 33 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 10: Änderung bzw. Neufassung der Satzung des Sparkassenzweckverbandes des Kreises Gütersloh und der Stadt Rheda-Wiedenbrück - mehrheitlich zugestimmt
+- TOP 11: Auslandsdienstreisen - Einstimmig
+- TOP 12: Jahresabschluss zum 31.12.2009 und Lagebericht für das Jahr Wirtschaftsjahr 2009 des Betriebes Bauhof – Prüfung der Mittelrheinische Treuhand GmbH, Entlastung der Betriebsleitung sowie des Betriebsausschusses - Einstimmig
+- TOP 13: European Energy Award® - Klimaschutzkonzept - mehrheitlich zugestimmt
+- TOP 14: Energetische Sanierung des Hallenbades - Ausbauplanung - 35 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 15: Bebauungsplan Nr. 356 "Stiftsweg / Am Jägerheim" – 2. Änderung a)Beratung und Abwägung der eingegangenen Anregungen b)Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 16: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 17: Bericht zur Beschlusskontrolle
+- TOP 17.1: Vorstellung der Planungen des Vereins SC Wiedenbrück 2000 e. V. zum Ausbau des Stadions
+- TOP 18: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 19: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 20: Erklärung von Ausschließungsgründen
+- TOP 21: Vertragsangelegenheit zwischen dem SC Wiedenbrück 2000 e. V. und der Stadt Rheda-Wiedenbrück - 29 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 22: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 23: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 24: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26: Altersteilzeit - 28 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 27: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 28.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29: Fördermaßnahme im Rahmen der Denkmalpflege - mehrheitlich zugestimmt
+- TOP 30: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
