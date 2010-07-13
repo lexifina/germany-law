@@ -1,0 +1,129 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-07-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828443
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828443
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Polizeiinspektion 12: Mitteilung zu Fragen aus der Sitzung vom 08.06.2010
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag aus der Einwohnerversammlung des 3. Stadtbezirkes vom 14.06.2010: 1. Maximierung der Spielplatzfläche 2. Reduzierung der nicht zugänglichen Heckenflächen 3. Möglichst Erhalt des Baumbestandes
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Antrag von Bündnis 90/Die Grünen vom 05.04.2010 (vertagt aus der Sitzung vom 08.06.2010, TOP B 1.3) Aktualisierung des ?Grünkonzeptes Maxvorstadt?
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Planungsreferat, Listen der Bauvorhaben: 21., 22., 23., 24. KW, 25.KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen: 20., 21. KW;
+- TOP 2.1.3.: Referat für Stadtplanung und Bauordnung Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung
+- TOP 2.1.4.: Bauvorhaben Brienner Straße 53, Neuerrichtung des Rückgebäudes, Dachneubau und Sanierung Vordergebäude
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Sophienstr. 24
+- TOP 2.2.2.: Arcisstr. 48
+- TOP 2.2.3.: Heßstr. 82
+- TOP 2.2.4.: Königinstraße 57
+- TOP 2.2.5.: Adalbertstraße 76
+- TOP 2.2.6.: Nymphenburger Straße, Flur-Nr. 6349
+- TOP 2.2.7.: Zieblandstraße 29 - 33
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Sicherheitsnachrüstung Altstadtringtunnel, Stadtreparatur um den Oskar-von-Miller-Ring
+- TOP 2.3.2.: Baumfällung Lenbachhaus
+- TOP 2.3.3.: Kunstakademie
+- TOP 2.3.4.: Gespräch mit dem Baureferat
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der CSU-Fraktion im BA 3, Fahrradabstellplätze in Innenhöfen
+- TOP 1.2.: Antrag der CSU-Fraktion im BA 3, Radwegverlängerung in der Gabelsbergerstraße
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement: Abbau der LZA-Masten; Verkehrsregelungen Karl-/Meiserstraße (Katharina-von-Bora-Straße) (vertagt aus der Sitzung vom 08.06.2010, TOP C 2.1.6, Unterlagen liegen bereits vor)
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Anhörung: Lichtzeichenanlage Königin-/Von-der-Tann-Straße
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement; Öffnung der Georgenstraße zwischen Arcis- und Nordendstraße für den gegenläufigen Radverkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Entscheidungen über Sondernutzungserlaubnisse: - Amalienstraße 71, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Aufstellung eines mobilen Fahrradständers: Kreittmayrstr. 11
+- TOP 2.2.3.: Aufstellung eines Obstverkaufsstandes: Stiglmaierplatz 2, vor U-Bahn-Aufgang
+- TOP 2.2.4.: Aufstellung von Verkaufseinrichtungen: Theresienstr. 100
+- TOP 2.2.5.: Aufstellung einer neuen Verkaufseinrichtung auf öffentlichem Grund: Nordendstr. 17
+- TOP 2.2.6.: Baureferat, Vollzug des Bayerischen Straßen- und Wegegesetzes, Widmungserwei- terung derGesamtfläche des Georg-Elser-Platzes ?+Radfahrer und Zufahrt zuden Anwesen frei?; Beschlussvorlage
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Erweiterung einer bestehenden Freischankfläche: Jägerstr. 2
+- TOP 2.3.2.: Antrag auf Betriebsartänderung in Schank- und Speisewirtschaft mit regelmäßigen Musikdarbietungen freitags und samstags: "Kaptol", Brienner Str. 41
+- TOP 2.3.3.: Genehmigung einer Freischankfläche: Enhuberstr. 1
+- TOP 2.3.4.: Erweiterung einer Freischankfläche: Türkenstr. 74
+- TOP 2.3.5.: Erweiterung einer Freischankfläche: Isabellastr. 8
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Interfraktioneller Antrag des UA Soziales im BA 3: Der BA 3 fordert die Stadt München auf, für das Neubaugebiet Arnulfpark beim Neubau der Grundschule im Arnulfpark ausreichend Hort- und Betreuungsplätze zu schaffen.
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse KJR München-Stadt, Jugendtreff M10City Projekt "Dunkelbrunch" im November 2010
+- TOP 2.2.: entfällt
+- TOP 2.3.: Budgetantrag, Verein für Sozialarbeit e.V., Bewohnertreff im Arnulfpark Sommerfest am 31.07.2010
+- TOP 2.4.: Direktorium; Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 2.5.: Task-Force für die Ermittlung freier Potenziale bei der Kinderbetreuung einsetzen
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget des Bezirksausschusses MIR e.V. Jubiläumsveranstaltung für Marianne von Werefkin anlässlich des 150. Geburtstages am 19.10.2010
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kath. Pfarrgemeinde St. Benno Konzert zum 1000. Geburtstag des Hl. Benno am 18.07.2010
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014, Sitzungsvorlage Nr. 08-14/V 04345 und Sitzungsvorlage Nr. 08-14/V 04346
+- TOP 1.2.: Baureferat, Beschlussvorlage_ Bessere Information der Anlieger über die Erschließungskosten, Sitzungsvorlage Nr. 08-14/V 04017
+- TOP 1.3.: Sicherheitsnachrüstung Altstadtringtunnel, Stadtreparatur um den Oskar-von-Miller-Ring, Ergebnisse der Machbarkeitsuntersuchung zum Entwurfsseminar Umfeld Pinakothek der Moderne; Beschluss des Bauausschusses gemeinsam mit dem Ausschuss für Stadtplanung und Bauordnung vom 30.06.2010
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, Fällgenehmigung: Fällung eines sog. Gefahrbaumes in der Sophienstraße 24
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Empfehlung Nr. 08-14 / E 00429 der Bürgerver sammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt vom 12.11.2009: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhal- tungssatzungsgebieten
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Referat für Gesundheit und Umwelt: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImschV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV
+- TOP 2.2.: Stadtwerke München, Baumaßnahmen: - Luisenstraße 1, Fernwärme - Marlene-Dietrich-Straße 24, Fernwärme
+- TOP 2.3.: Entscheidung des Oberbürgermeisters: Freischankfläche Steinheilstraße 10 Seite Enhuberstraße, Schank- und Speisewirtschaft "Frida"
+- TOP 2.4.: Entscheidung des Oberbürgermeisters: Freischankfläche Gabelsbergerstraße 99 Seite Schleißheimer Straße
+- TOP 2.5.: Brief des Oberbürgermeisters an die Vorsitzenden der Bezirksausschüsse 1 bis 25: Kein Google Streee View in Trudering-Riem, Antrag des BA 15 Trudering-Riem Nr. 08-14 / B01901 vom 25.02.2010 sowie darauf bezogene weitere Anträge der anderen Bezirksausschüsse
+- TOP 2.6.: Kreisverwaltungsreferat, Genehmigungsbescheid: Anwohnerstraßenfest am 12.06.2010, Steinheilstraße zwischen Augusten- und Luisenstraße
+- TOP 2.7.: Erlaubnisbescheid: Pfarrfest an der Bennopfarrkirche am 19.06.2010
+- TOP 2.8.: Erlaubnisbescheid: Public Viewing anlässlich Fußball WM 2010 auf dem Wittelsbacherplatz vom 16.06. bis 11.07.2010
+- TOP 2.9.: Beschluss des Bezirksausschusses des 4. Stadtbezirkes Schwabing-West: In der Winzerer-, Herzog-, Hohenzollenstraße und Schleißheimer Straße auf ganzer Länge Radwege ausbauen oder abmarkieren; Sitzungsvorlage Nr. 08-14 / V 04181
+- TOP 2.10.: Kreisverwaltungsreferat: Schreiben zur Genehmigung des Hamburger Fischmarktes auf dem Wittelsbacherplatz vom 09.06.2010
+- TOP 2.11.: Verkehrsrechtliche Anordnungen: - Verlegung eines Behindertenparkplatzes im Bereich Richard-Wagner-Str. 27 - Öffnung der Loristraße für den gegenläufigen Radverkehr - Öffnung der Linprunstraße zwischen Loth- und Erzgießereistraße für den gegenläufigen Radverkehr - Beschilderung Haltverbotszone der Grundschuke an der Blutenburgstr. 3
+- TOP 2.12.: Kreisverwaltungsreferat: Kreuzungsumbau Georgen-/Tengstraße
+- TOP 2.13.: Erlaubnisbescheid: Musikalische Umzüge "Narrenschiffe" im Rahmen der Opernfestspiele am 29.06., 06.07., 13.07. und 20.07.2010
+- TOP 2.14.: Erlaubnisbescheid: 32. Münchner Stadtlauf am 27.06.2010
+- TOP 2.15.: Erlaubnisbescheid: Konzertveranstaltung auf dem Königsplatz am 25.06.2010
+- TOP 2.16.: Kreisverwaltungsreferat, Musikalische Umzüge ?Narrenschiffe? im Rahmen der Opernfest- spiele am, Anhörung: Eilentscheidung des Vorsitzenden durch Terminablauf
+- TOP 2.17.: Kreisverwaltungsreferat, Verkehrsmanagement, Antwortschreiben zum BA-Antrag Nr. 08-14 / B 01842 vom 12.01.2010: Errichtung eines Radweges am Oskar-von-Miller-Ring zwischen Brienner Straße und Jäger straße (Ostseite)
+- TOP 2.18.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen: Aufhebung der Hotelanfahrtszone Karlstraße 49, Ausdehnung der Mischparkzone
+- TOP 2.19.: Kreisverwaltungsreferat, Konzert Mark Knopfler auf dem Königsplatz am 25.06.2010, Anhö rung, Eilentscheidung des Vorsitzenden: Zustimmung durch Terminablauf
+- TOP 2.20.: Kreisverwaltungsreferat, Wittelsbacherplatz, Public Viewing zur Fußball WM vom 16.06. bis 11.07.2010, Anhörung, Eilentscheidung des Vorsitzenden: Zustimmung durch Terminablauf
+- TOP 2.21.: Kreisverwaltungsreferat, TUNIX 2010 ? Fußballübertragung am 18.06.2010, Grünanlage hin ter der Glyptothek, Arcisstraße, Anhörung, Eilentscheidung des Vorsitzenden: Zustimmung durch Terminablauf
+- TOP 2.22.: Kreisverwaltungsreferat, Grünanlage Geschwister-Scholl-Platz, Benefizveranstaltung des Rainbow over Ghana e.V. am 23.06.2010, Anhörung, Eilentscheidung des Vorsitzenden: Zustimmung durch Terminablauf
+- TOP 2.23.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung: Sicherheitsmaßnahmen zur Feier des Amerikanischen Unabhängigkeitstages am 02.07.2010
+- TOP 2.24.: Baureferat, Tiefbau, Beschlussvorlage für den Bauausschuss am 06.07.2010: Fahrradstellplatzkonzept (1. Realisierungsabschnitt) Sitzungsvorlage Nr. 08-14 /V 04606
+- TOP 2.25.: Fahrradabstellplätze in der Türkenstraße zwischen Adalbert- und Theresienstraße
+- TOP 3.1.: Budgetangelegenheiten: - Antrag der Grundschule and er Blutenburgstraße vom 24.02.2010 (Sozialkompetenztraining, Ablehnung)
+- TOP 3.2.: Auswahl der Gebiete mit erhöhtem sozialpolitischem Handlungsbedarf
+- TOP 3.3.: Schul- und Kultusreferat Errichtung eines Hauses für Kinder mit drei Kindergarten- und 3 Krippengruppen an der Dachauer Straße 61 im 3. Stadtbezirk Maxvorstadt
+- TOP 4: Kultur
+- TOP 4.1.: Kulturreferat, Beschlussvorlage für die Sitzung des Kulturausschusses am 08.07.2010: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste Sitzungsvorlage Nr. 08-14 / V 04495
+- TOP 4.2.: Kulturreferat, Beschlussvorlage für den Kulturausschuss am 08.07.2010: Stärkung der Stadtteilkultur, Erfahrungsbericht; Sitzungsvorlage Nr. 08-14 / V 04481
+- TOP 4.1.: Wies'nbesuch 2010, Termin, Anzahl der Plätze
+- TOP 4.2.: Transparenz auch auf BA-Ebene verwiklichen - Sitzungsprotokolle veröffentlichen; BA-Antrag Nr. 08-14 / B 1378 des BA 15 vom 30.07.2009 Protokolle der BA-Sitzungen des BA 22 im RIS veröffentlichen; BA-Antrag Nr. 08-14 / B 01400 des BA 22 vom 19.08.2009
+- TOP 4.3.: Bildung eines Ferienausschusses (vertagt aus der Sitzung vom 08.06.2010, TOP G 6)
+- TOP 4.4.: Informationsveranstaltung für die Bezirksausschüsse; Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: UA Planung und Umwelt am 07.07.2010, 19.30 Uhr, Bürgerbüro, Schellingstr. 28 a UA Verkehr und öffentl. Raum, 08.07.2010, 19.00 Uhr, Bürgerbüro, Schellingstr. 28 a UA Soziales und Bildung, 05.07.2010, 19.00 Uhr, Bürgerbüro, Schellingstr. 28 a UA Kultur, 05.07.2010, 19.30 Uhr, Cafe ?Telos?, Kurfürstenstr. 2 Sitzung des Ferienausschusses am Dienstag, den 10. 08. 2010, 19.30 Uhr, im Bürgerbüro Maxvorstadt, Schellingstr. 28 a. Die nächste Sitzung des Bezirksausschusses 3 findet am Dienstag, 15.09.2010 um 19.30 Uhr im Sitzungssaal des Palais Dürckheim, Türkenstraße 4 statt.
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
