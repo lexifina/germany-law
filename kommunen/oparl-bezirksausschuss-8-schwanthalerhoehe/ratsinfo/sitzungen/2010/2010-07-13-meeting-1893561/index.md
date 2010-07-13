@@ -1,0 +1,66 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-07-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893561
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893561
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: DG-Ausbau Anglerstr. 19a-23
+- TOP 5.2.: Anhörung: Modernisierung Westendstr. 23
+- TOP 5.3.: Meldeliste
+- TOP 5.4.: Antwortschreiben: Moll-Wohnanlagen Westend
+- TOP 5.5.: Straßenbaumaßnahme Bergmannstraße
+- TOP 5.6.: Instandsetzungsarbeiten an der Donnersbergerbrücke
+- TOP 5.7.: Arbeiten im Straßenraum: Landsberger Straße / Trappentreustraße
+- TOP 5.8.: Antwort zum BA Antrag Nr. 02-08/B02644: Sanierungs- und Verkaufsabsichten im förmlich festgelegten Sanierungsgebiet der Schwanthalerhöhe
+- TOP 5.9.: Antwort der SWM zur Baumaßnahme in der Westendstraße 23
+- TOP 5.10.: Beschluss des Ausschusses für Stadtplanung und Bauordnung: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen
+- TOP 5.11.: Beschluss des Ausschusses für Stadtplanung und Bauordnung: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Einladung zum Fest junger Erwachsener 18.jetzt
+- TOP 6.2.: Antwortschreiben an das Sozialreferat zur Auswahl der REGSAM Gebiete
+- TOP 6.3.: Beschlussvorlage des Kinder- und Jugendhilfeausschusses u.a. zur Aufnahme des Projekts Lilalu in die Regelförderung des Sozialreferats
+- TOP 6.4.: Beschluss des Kinder- und Jugendhilfeausschusses: Bedarfsplanung Kindertagesbetreuung
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Straßenfest in der Gollierstraße am 31.07.2010
+- TOP 8.2.: Anhörung: Straßenfest der SPD Ortsverein München Schwanthalerhöhe in der Astallerstr. am 08.08.2010
+- TOP 8.3.: Anhörung: Vorschläge zur Einrichtung von Fahrradstraßen
+- TOP 8.4.: Anhörung: Wertstoffcontainer Standplatz in der Ganghoferstraße
+- TOP 8.5.: Anhörung: Baumfällungsantrag im Zuge des Neubaus einer Wohnanlage mit Tiefgarage in der Philipp-Loewenfeld-Str.
+- TOP 8.6.: Anhörung: Oldtimertreffen i.R. des Tag des offenen Denkmals am Bavariapark am 12.09.2010
+- TOP 8.7.: Anhörung: Gottesdienst am Bavariapark am 18.07.2010
+- TOP 8.8.: Anhörung: Anwohnergaragen in München
+- TOP 8.9.: Anhörung: Bürgerfest Quartiersplatz Theresienhöhe
+- TOP 8.10.: Straßenarbeiten Landsberger Straße / Trappentreustraße
+- TOP 8.11.: Antwortschreiben: Ameisenplage auf Spielplätzen und Bürgersteigen
+- TOP 8.12.: Bericht zum Ortstermin "Bauminsel in der Anglerstraße"
+- TOP 8.13.: Einladung zur Auftaktveranstaltung zur Lärmminderungsplanung am 15.07.2010 um 17 Uhr
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Griechisches Haus, Evang. Migrationszentrum Straßenfest am 19./20.06.2010
+- TOP 9.3.: (E) Budget der Bezirksausschüsse Projekt Langzeitbelichtungen c/o H. Dill Anschubfinanzierung von Sept. - Dez. 2010
+- TOP 9.5.: (E) Budget der Bezirksausschüsse Green City e.V. Wanderbaumallee vom 28.07. - 16.09.2010
+- TOP 9.6.: Filmproduktion: Unsere Stadt - Unsere Straßen III München Schwanthalerhöhe
+- TOP 10: Anträge
+- TOP 10.1.: Mittagstisch an der Carl-von-Linde-Realschule und an der Ridler-Hauptschule
+- TOP 10.2.: Weiterleitung von BA-Beschlüssen mit BA-Briefkopf
+- TOP 11: Verschiedenes
+- TOP 11.1.: Festlegung der Termins für die BA-Sitzung im August
+- TOP 11.2.: Anhörung: Transparenz auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen - Stellungnahme bis 20.07.2010
+- TOP 11.3.: Anhörung: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten
+- TOP 11.4.: Information zum Oktoberfest 2010; Reservierung in der Ratsboxe
+- TOP 11.5.: Einladung: Das Schulreferat trifft die Bezirksausschüsse am 14.07.2010 um 16 Uhr
+- TOP 11.6.: Problem Freischankfläche / Parkraummanagement-Verkehrszeichen in der Bergmannstraße 28
+- TOP 12: Protokoll und Umlauf
