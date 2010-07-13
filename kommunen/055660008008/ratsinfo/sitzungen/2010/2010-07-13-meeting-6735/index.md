@@ -1,0 +1,51 @@
+# Rat (50. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2010-07-13T18:02:00+02:00
+- Ende: 2010-07-13T21:02:00+02:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZX3s8XUioFDWKmlPoCYL5N8
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6735
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUSOsidkhl_d89w8G8VdkElQSSDTcFLTba7c4yHQ-Btw/Bekanntmachung_Rat_13.07.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTz_nMt1Kt8QbEw7NjiLJipF5z8Ct-017oD6AehIIktG/Oeffentliche_Niederschrift_Rat_13.07.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 14.06.2010
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Anfrage Fraktion Die Grünen über Information von Vergleichsberechnungen Gewerbe- und Grundsteuern - Zur Kenntnis genommen
+- TOP 5.: Finanzangelegenheiten
+- TOP 5.1: Haushaltskonsolidierung und politische Anträge - Zur Kenntnis genommen
+- TOP 5.2: Aufnahme eines Investitionskredites - Zur Kenntnis genommen
+- TOP 6.: Marktwesen
+- TOP 6.1: Standort Wochenmarkt - 33 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 7.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 7.1: Änderung der Satzung über die Erhebung von Elternbeiträgen und Essenzuschlägen für Kinder in Kindertageseinrichtungen, für die Inanspruchnahme von Kindertagespflege und für Kinder in Offenen Ganztagsschulen (Elternbeitragssatzung) vom 20.06.2006 - Einstimmig
+- TOP 7.2: Familienhebammenprojekt - Abgesetzt
+- TOP 7.3: Verfahren zum Sonderfonds "Teilhabe am gesellschaftlichen Leben" - Abgesetzt
+- TOP 7.4: Schulsozialarbeit Emsdettener Grundschulen - 28 Ja-Stimme(n), 0 Gegenstimme(n), 7 Enthaltung(en)
+- TOP 7.5: Kinder- und Jugendförderplan der Stadt Emsdetten - Teil I zum Thema "Besondere Berücksichtigung von Interkulturalität und Geschlecht" - Einstimmig
+- TOP 8.: Sportangelegenheiten
+- TOP 8.1: Programm "Faire Chancen für Kinder" hier: Gutschein für kostenlose Teilnahme an Schwimmkursen - Abgesetzt
+- TOP 9.: Allgemeine Sozialangelegenheiten
+- TOP 9.1: Vertragliche Neuregelungen zwischen der Stadt Emsdetten und der Sucht- und Drogenberatungsstelle des Caritasverbandes über Leistungen im Bereich der Suchtprävention - Einstimmig
+- TOP 10.: Erweiterung der Gaststätte "Moderne Zeiten" - 31 Ja-Stimme(n), 3 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 11.: Planung von Tiefbauvorhaben
+- TOP 11.1: Durchführung von Kanal- und Straßenbaumaßnahmen - Einstimmig
+- TOP 11.2: Wegebau Rathausplatz - 31 Ja-Stimme(n), 2 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 12.: Widmung von Straßen (einschl. Einziehungsverfahren)
+- TOP 12.1: Widmung einer Straße - Einstimmig
+- TOP 12.2: Widmung einer Straße - Einstimmig
+- TOP 13.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 13.1: Erhebung von Erschließungsbeiträgen - Einstimmig
+- TOP 13.2: Erhebung von Erschließungsbeiträgen - Einstimmig
+- TOP 14.: Allgemeine Umweltangelegenheiten
+- TOP 14.1: "Weiterentwicklung des EmsRadweges zu einem deutschen Premium-Fernradweg" - Zustimmung zur Ausführungsplanung - Einstimmig
+- TOP 15.: Sachstandsbericht Westumgehung
+- TOP 15.1: K 53n, Westumgehung Emsdetten - Sachstandsbericht - - Zur Kenntnis genommen
+- TOP 16.: Verschiedenes
