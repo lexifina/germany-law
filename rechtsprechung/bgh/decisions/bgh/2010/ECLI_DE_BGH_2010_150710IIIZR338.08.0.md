@@ -1,0 +1,987 @@
+---
+ecli: "ECLI:DE:BGH:2010:150710IIIZR338.08.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-03"
+aktenzeichen: "III ZR 338/08"
+decided: "2010-07-15"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2010&Sort=1&Seite=67&nr=52983&anz=3646&pos=2011&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-03_NA_2010-07-15_III_ZR_338_08_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0311.md", "germany/bund/acts/bgb/0670.md", "germany/bund/acts/bgb/0675.md", "germany/bund/acts/estg/0015.md", "germany/bund/acts/estg/0016.md", "germany/bund/acts/estg/0023.md", "germany/bund/acts/estg/0034.md", "germany/bund/acts/hgb/0128.md", "germany/bund/acts/hgb/0130.md", "germany/bund/acts/hgb/0171.md", "germany/bund/acts/hgb/0172.md", "germany/bund/acts/wipro/0002.md", "germany/bund/acts/zpo/0287.md", "germany/bund/acts/zpo/0522.md"]
+---
+
+# Bundesgerichtshof, III ZR 338/08 vom 2010-07-15
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                 IM NAMEN DES VOLKES
+
+                        URTEIL
+III ZR 338/08                              Verkündet am:
+                                           15. Juli 2010
+                                           Kiefer
+                                           Justizangestellter
+                                           als Urkundsbeamter
+                                           der Geschäftsstelle
+                     in dem Rechtsstreit
+
+                                         - 2 -
+
+
+
+    Der III. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 15. Juli 2010 durch den Vizepräsidenten Schlick und die Richter Dörr,
+    Dr. Herrmann, Hucke und Tombrink
+
+
+    für Recht erkannt:
+
+
+          Auf die Revisionen des Klägers und der Beklagten zu 2 wird das
+          Urteil des 19. Zivilsenats des Oberlandesgerichts München vom
+          7. Februar 2008 im Kostenpunkt - mit Ausnahme der Entscheidung über die außergerichtlichen Kosten des Beklagten zu 1 - und
+          insoweit aufgehoben, als zu ihrem Nachteil erkannt worden ist.
+
+
+          Die Berufung des Klägers wird zurückgewiesen, soweit sie den
+          Antrag auf Feststellung einer Freistellungsverpflichtung betrifft. Im
+          Übrigen wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsrechtszugs, an das Berufungsgericht zurückverwiesen.
+
+
+                                  Von Rechts wegen
+
+
+
+
+                                      Tatbestand
+
+
+1         Der Kläger erwarb unter Vermittlung des vormaligen Beklagten zu 1
+    durch auf Abschluss einer "Beitrittsvereinbarung" gerichtete Erklärung vom
+    27. April 1999 eine Beteiligung an der C.             Gesellschaft für internationale Filmproduktion mbH & Co. Zweite Medienbeteiligungs KG (im Folgenden:
+
+                                         - 3 -
+
+
+
+    Fonds II) in Höhe von 100.000 DM zuzüglich 5 % Agio, die er in Höhe von
+    90.000 DM durch Aufnahme zweier Darlehen finanzierte. Der Beitritt sollte
+    - dem von der Komplementärin der Beteiligungsgesellschaft herausgegebenen
+    Prospekt entsprechend - über die Beklagte zu 2, eine Wirtschaftsprüfungsgesellschaft, als auch mit den Aufgaben der Mittelverwendungskontrolle betrauten
+    Treuhandkommanditistin nach einem im Prospekt Teil B abgedruckten Vertragsmuster eines Treuhandvertrags vorgenommen werden. Die Beklagte zu 2
+    ist im Prospekt in der Rubrik "Partner" als Gründungsgesellschafter bezeichnet.
+    Zur Begrenzung des wirtschaftlichen Risikos aus der Filmvermarktung war im
+    Emissionsprospekt vorgesehen, dass für einen Anteil von 80 % der Produktionskosten Sicherheiten bestehen sollten, etwa in Form von Ausfallversicherungen. Nachdem Produktionen nicht den erwünschten wirtschaftlichen Erfolg hatten, erwies sich der Versicherer, die N.                                    Inc.,
+    nach Eintreten der Versicherungsfälle als zahlungsunfähig. Insgesamt erhielt
+    der Kläger aus der Beteiligung Ausschüttungen in Höhe von 32 %, das sind
+    16.361,34 €.
+
+
+2         Erstinstanzlich hat der Kläger die Beklagten Zug um Zug gegen
+    Abtretung aller Ansprüche aus der Beteiligung auf Rückzahlung des eingezahlten Betrags von – unter Berücksichtigung der genannten Ausschüttung –
+    37.324,31 € und auf Erstattung eines mit der Darlehensaufnahme verbundenen
+    Schadens von 4.944,86 €, jeweils nebst Zinsen, in Anspruch genommen. Darüber hinaus hat er die Feststellung begehrt, dass die Beklagten ihm den Steuerschaden zu ersetzen hätten, der ihm durch eine etwaige nachträgliche Aberkennung von Verlustzuweisungen entstehe, und dass sie ihn von Ansprüchen
+    freistellen müssten, die die Beteiligungsgesellschaft, deren Gläubiger oder Dritte gegen ihn wegen seiner Stellung als Kommanditisten richten könnten. Er hat
+    - soweit jetzt noch von Interesse - einen Prospektmangel und eine Aufklärungs-
+
+                                         - 4 -
+
+
+
+    pflichtverletzung insbesondere darin gesehen, dass er nicht über Provisionszahlungen in Höhe von 20 % für die Eigenkapitalvermittlung an die I.         -
+    und T.                               mbH (im Folgenden: IT GmbH) unterrichtet worden sei.
+
+
+3            Das Landgericht hat die Klage abgewiesen. Im Berufungsrechtszug hat
+    der Kläger seine Anträge - bis auf den Antrag, ihm die Finanzierungskosten zu
+    ersetzen - weiterverfolgt. Das Oberlandesgericht hat die gegen den Beklagten
+    zu 1 gerichtete Berufung vorab durch Beschluss gemäß § 522 Abs. 2 ZPO
+    zurückgewiesen. Auf die Berufung des Klägers hat es dem Zahlungsantrag in
+    Höhe von 5.112,92 € nebst Zinsen gegen die Beklagte zu 2 (im Folgenden: Beklagte) entsprochen und festgestellt, dass sie dem Kläger den Steuerschaden
+    zu ersetzen habe, der ihm dadurch entstehe, dass er die Schadensersatzleistung im Jahr des tatsächlichen Zuflusses zu versteuern habe. Ferner hat es die
+    weiter begehrten Feststellungen getroffen und die Berufung im Übrigen zurückgewiesen. Mit ihren vom Oberlandesgericht zugelassenen Revisionen begehrt
+    die Beklagte die Abweisung der Klage, während der Kläger den zum Teil abgewiesenen Zahlungsantrag weiterverfolgt.
+
+
+
+
+                                 Entscheidungsgründe
+
+
+4            Die Revisionen führen zur Aufhebung des angefochtenen Urteils, zur
+    endgültigen Abweisung des auf Feststellung einer Freistellungsverpflichtung
+    gerichteten Antrags des Klägers und im Übrigen zur Zurückverweisung der Sache an das Berufungsgericht.
+
+                                         - 5 -
+
+
+
+                                           A.
+
+
+5         Nach Auffassung des Berufungsgerichts (19 U 3041/07 - juris und
+    BeckRS 2008, 04917) haftet die Beklagte wegen Verschuldens bei den Vertragsverhandlungen, weil der Umfang und die Verteilung der den Gründern eingeräumten Sondervorteile im Prospekt nicht hinreichend offengelegt seien und
+    der Prospekt für den durchschnittlichen Anleger den Eindruck erwecke, die Kosten für die Erlösausfallversicherung würden aus den "Weichkosten" bezahlt. Ein
+    wesentlicher Prospektmangel liege auch bei Medienfonds vor, wenn weiche
+    Kosten in nicht unerheblicher Höhe anfielen und ein Anleger dem Prospekt nicht
+    ohne weiteres entnehmen könne, in welchem Umfang die von ihm eingezahlten
+    Einlagemittel nicht in das Anlageobjekt flössen, sondern für Aufwendungen außerhalb der Produktionskosten verwendet würden. In dieser Hinsicht seien die
+    Prospektangaben nicht genügend transparent. Bereits die Überschrift "Investitionsplan" in § 6 des Gesellschaftsvertrags erscheine irreführend, wenn - in Wirklichkeit - insgesamt 25,9 % der Nettozeichnungssumme (einschließlich Agio)
+    ohne konkreten Aufwandsnachweis und ohne konkrete Abrechnung allein aufgrund der Zeichnung als Pauschalvergütung an die Komplementärin fließen
+    sollten, weil man unter "Investition" im Allgemeinen eine Kapitalanlage zur Gewinnerzielung verstehe, nicht aber den Gewinn oder die Vergütung des Initiators oder Vermittlers. Aus dem Investitionsplan folge dies nicht, sondern sei nur
+    unter Rückgriff auf außerhalb des Gesellschaftsvertrags stehende Erläuterungen der einzelnen Verträge zu erschließen. Eine solche Durchdringung des Gesamtprospekts könne von einem durchschnittlichen Anleger aber nicht erwartet
+    werden. Daneben sei der Investitionsplan hinsichtlich einzelner Positionen äußerst unklar. Zwar möge noch hinreichend deutlich sein, dass die Positionen
+    "Eigenkapitalbeschaffung" mit 7 % und das Agio von 5 % für Vertriebskosten
+    zur Verfügung stünden. Dagegen dränge sich nicht auf, dass die Position "Kon-
+
+                                        - 6 -
+
+
+
+    zeption, Werbung, Prospekt, Gründung" mit nicht unerheblichen weiteren 7 %
+    zumindest im Ergebnis ebenfalls aufwandsunabhängig für denselben Zweck zur
+    Verfügung stehen sollte. Deshalb hätte deutlich gemacht werden müssen, dass
+    es sich bei dieser "Werbung" um neben der Position "Eigenkapitalbeschaffung"
+    gesondert zu vergütende Werbemaßnahmen im Rahmen der Anlegerwerbung
+    handeln sollte. Ohne dass es entscheidend darauf ankomme, liege hier eine
+    künstlich erscheinende Aufspaltung zum Zwecke der Verschleierung der wahren Vertriebskosten vor, was durch das Schreiben des Geschäftsführers
+    K.      der Komplementärin an den Mitgesellschafter und Geschäftsführer der
+    IT GmbH O.          vom 19. Januar 1998 nahe gelegt werde, während bei der
+    Abrechnung durch die Beklagte eine entsprechende Aufspaltung nicht vorgenommen worden sei. Irreführend sei der Investitionsplan auch in Bezug auf die
+    Position "Produktabsicherung", weil sie das Verständnis nahe lege, dass die
+    Erlösausfallversicherungen aus diesem Titel bestritten werden sollten. Ohne
+    einen besonderen Hinweis hätten diese "weichen" Kosten nicht Bestandteil der
+    Produktionskosten sein dürfen. Das Berufungsgericht sieht sich aufgrund der
+    Parteivernehmung des Klägers überzeugt, dass dieser die Anlage bei Kenntnis
+    der wahren Höhe "echter" Innenprovisionen und der Finanzierung der Versicherungsprämien aus den Produktionskosten nicht gezeichnet hätte. Der Beklagten
+    sei hinsichtlich der unterlassenen Aufklärung ein Verschulden zuzurechnen, das
+    nicht dadurch ausgeräumt werde, dass die Prospektprüferin die Prospekte nicht
+    beanstandet habe.
+
+
+6         Den zu ersetzenden Schaden bemisst das Berufungsgericht auf
+    5.112,92 €. Dabei rechnet es auf den angelegten Betrag (einschließlich Agio)
+    von 53.685,65 € nicht nur die vom Kläger bei seiner Ersatzforderung berücksichtigte Ausschüttung von 16.361,34 €, sondern auch Steuervorteile in Höhe
+    von 32.211,39 € an und sieht von einer Schadensschätzung nach § 287 ZPO
+
+                                     - 7 -
+
+
+
+ab. Zur Begründung führt es insoweit aus, Steuersparmodelle der hier vorliegenden Art zeichneten sich dadurch aus, dass in Zeiten hoher sonstiger Einkommen des Anlegers durch Zuweisung hoher Anfangsverluste aus der Beteiligung aufgrund der individuellen hohen Steuerprogression des Anlegers hohe
+Steuerersparnisse erzielt würden. Der ebenfalls zu versteuernde „Aufgabegewinn“ solle dagegen möglichst in Zeiten niedrigerer sonstiger Einkommen des
+Anlegers, etwa in der Rentenphase, anfallen und damit einer deutlich geringeren Steuerprogression unterliegen. Es sei daher Ziel der Anlage, auch unter
+Berücksichtigung einer Versteuerung des Aufgabegewinns endgültige Steuervorteile zu behalten. Wegen dieser Grundkonzeption des Steuersparmodells
+bestehe, wenn - wie hier - seit der Leistung der Einlage und dem Erhalt der
+Steuervorteile viele Jahre vergangen seien, für eine Vermutung oder Schätzung
+dahingehend, dass sich frühere Steuervorteile und spätere Steuernachteile
+auch nur annähernd entsprächen, kein Raum. Eine derartige Verrechnung unterstelle zudem eine Steuerehrlichkeit, die so jedenfalls nicht der Lebenserfahrung entspreche. Hier bestünden zudem Anhaltspunkte dafür, dass der Kläger
+"außergewöhnliche Steuervorteile" im Sinne der Rechtsprechung des Bundesgerichtshofs erzielt habe; der Kläger habe selbst nicht behauptet, dass ihm ein
+seinem Steuervorteil auch nur annähernd vergleichbarer Nachteil aus der Besteuerung seiner Ersatzleistung erwachse. Sein Steuervorteil mindere daher
+den durch die Beklagte zu ersetzenden Betrag. Daneben sei zugunsten des
+Klägers die Feststellung zu treffen, dass ihm die Beklagte den aus der Versteuerung der Ersatzleistung entstehenden Nachteil zu ersetzen habe.
+
+                                           - 8 -
+
+
+
+                                             B.
+
+
+7            Diese Beurteilung hält der rechtlichen Überprüfung nicht in allen Punkten
+    stand.
+
+
+                                 I. Revision der Beklagten
+
+
+8   1.       Nach der Rechtsprechung des Bundesgerichtshofs trifft einen Treuhandkommanditisten, der in ein Kapitalanlageprojekt der hier in Rede stehenden Art
+    eingebunden ist, die Pflicht, die künftigen Treugeber über alle wesentlichen
+    Punkte aufzuklären, die für die zu übernehmende mittelbare Beteiligung von
+    Bedeutung sind (vgl. BGH, Urteil vom 24. Mai 1982 - II ZR 124/81 - BGHZ 84,
+    141, 144 f; Senatsurteile vom 13. Juli 2006 - III ZR 361/04 - NJW-RR 2007,
+    406, 407 Rn. 9; vom 22. März 2007 - III ZR 98/06 - NJW-RR 2007, 1041, 1043
+    Rn. 15; vom 29. Mai 2008 - III ZR 59/07 - NJW-RR 2008, 1129, 1130 Rn. 8;
+    vom 12. Februar 2009 - III ZR 90/08 - NJW-RR 2009, 613, 614 Rn. 8); insbesondere hat er diese über regelwidrige Auffälligkeiten zu informieren. Dies gilt
+    auch hier. Einer entsprechenden Pflicht war die Beklagte nicht bereits deshalb
+    enthoben, weil sie mit den Anlegern nicht in einen persönlichen Kontakt trat und
+    ihre Aufgabe als die einer bloßen Abwicklungs- und Beteiligungstreuhänderin
+    verstand. Denn der Beitritt vollzog sich durch Abschluss eines Treuhandvertrags zwischen der Beklagten und dem Treugeber und der Annahme des Beteiligungsangebots durch die Komplementärin (§ 3 Abs. 4, § 4 Abs. 1 Satz 4 des
+    Gesellschaftsvertrags, Präambel des Treuhandvertrags), war also ohne Mitwirkung der Beklagten nicht möglich. Das Berufungsgericht zieht daher zu Recht
+    eine Haftung der Beklagten nach den Grundsätzen des Verschuldens bei Vertragsverhandlungen (vgl. jetzt § 311 Abs. 2 BGB) in Betracht.
+
+                                          - 9 -
+
+
+
+9    2.    Der Senat teilt jedoch nicht die Auffassung des Berufungsgerichts, dass
+     wegen der von ihm angesprochenen Gesichtspunkte eine Aufklärungspflicht der
+     Beklagten gegenüber dem Kläger bestand.
+
+
+10         a) Zutreffend geht das Berufungsgericht allerdings davon aus, dass der
+     Prospekt über ein Beteiligungsangebot, der für einen Beitrittsinteressenten im
+     Allgemeinen die einzige Unterrichtungsmöglichkeit darstellt, den Anleger über
+     alle Umstände, die für seine Entschließung von wesentlicher Bedeutung sind
+     oder sein können, sachlich richtig und vollständig zu unterrichten hat (vgl. BGH,
+     Urteile vom 6. Oktober 1980 - II ZR 60/80 - BGHZ 79, 337, 344; vom 21. Oktober 1991 - II ZR 204/90 - BGHZ 116, 7, 12; vom 5. Juli 1993 - II ZR 194/92 -
+     BGHZ 123, 106, 109 f; vom 29. Mai 2000 - II ZR 280/98 - NJW 2000, 3346; vom
+     6. Februar 2006 - II ZR 329/04 - NJW 2006, 2042, 2043 Rn. 7; Senatsurteil vom
+     14. Juni 2007 - III ZR 125/06 - WM 2007, 1503 f Rn. 9). Dazu gehört auch eine
+     Darstellung der wesentlichen kapitalmäßigen und personellen Verflechtungen
+     zwischen einerseits der Komplementär-GmbH, ihren Geschäftsführern und beherrschenden Gesellschaftern und andererseits den Unternehmen sowie deren
+     Geschäftsführern und beherrschenden Gesellschaftern, in deren Hand die Beteiligungsgesellschaft die nach dem Emissionsprospekt durchzuführenden Vorhaben ganz oder wesentlich gelegt hat (vgl. BGH, Urteile vom 6. Oktober 1980
+     - II ZR 60/80 - aaO S. 345; vom 10. Oktober 1994 - II ZR 95/93 - NJW 1995,
+     130; vom 7. April 2003 - II ZR 160/02 - NJW-RR 2003, 1054, 1055; Senatsurteil
+     vom 29. Mai 2008 - III ZR 59/07 - aaO S. 1132 f Rn. 25; vgl. auch allgemein
+     Urteil vom 4. März 1987 - IVa ZR 122/85 - NJW 1987, 1815, 1817, insoweit ohne Abdruck in BGHZ 100, 117), und der diesem Personenkreis gewährten Sonderzuwendungen oder Sondervorteile (vgl. BGH, Urteil vom 14. Januar 1985
+     - II ZR 41/84 - WM 1985, 533, 534; vom 10. Oktober 1994 - II ZR 95/93 - aaO;
+     vom 7. April 2003 - II ZR 160/02 - aaO).
+
+                                          - 10 -
+
+
+
+
+11         Der Senat folgt jedoch nicht der Bewertung des Berufungsgerichts, dass
+     in dem Emissionsprospekt über die der Komplementär-GmbH gewährten Sondervorteile nicht hinreichend transparente Angaben gemacht worden seien.
+
+
+12         aa) In dem Abschnitt "Verträge zur Durchführung der Investition" wird der
+     Inhalt des Konzeptionsvertrags, des Eigenkapitalvermittlungsvertrags und des
+     Vertrags über die Produktauswahl, Produktionsüberwachung und -absicherung
+     schlagwortartig dargestellt und die Höhe der Vergütung angegeben, die jeweils
+     15 Tage nach dem Beitritt des Anlegers fällig sein soll. Bei den beiden zuerst
+     genannten Verträgen ist ausdrücklich darauf hingewiesen, dass die Komplementärin Vertragspartnerin ist. Dass dies auch für den dritten Vertrag gilt, der
+     - wie das Berufungsgericht in anderem Zusammenhang mit Recht ausführt -
+     ohnehin Berührungspunkte mit der Geschäftsführertätigkeit der Komplementärin aufweist, ist nicht ausdrücklich dort, aber im Abschnitt "Partner" zu lesen.
+     Die Vergütung der Komplementärin für ihre Geschäftsführertätigkeit (und die
+     Haftung) wird, was unter systematischen Gesichtspunkten nicht zu beanstanden ist, im Abschnitt "Rechtliche Angaben" zum Gesellschaftsvertrag und in
+     § 22 des ebenfalls im Emissionsprospekt abgedruckten Gesellschaftsvertrags
+     dargestellt. Auch hier findet sich an beiden Stellen der Hinweis, dass die - die
+     Zeit vor dem Jahr 2000 betreffende - Vergütung 15 Tage nach Vorlage der unterschriebenen und nicht widerrufenen Beitrittsvereinbarung zahlbar ist.
+
+
+13         bb) Dieselben Vergütungssätze, die sich für die Komplementärin ohne
+     das Agio auf insgesamt 20,9 % des Beteiligungskapitals belaufen, ergeben sich
+     aus dem in § 6 des Gesellschaftsvertrags enthaltenen "Investitionsplan". Soweit
+     das Berufungsgericht diese Bezeichnung als irreführend beanstandet, weil unter "Investition" im Allgemeinen eine Kapitalanlage zur Gewinnerzielung ver-
+
+                                         - 11 -
+
+
+
+     standen werde und nicht auch der Gewinn oder die Vergütung des Initiators
+     oder Vermittlers, hält der Senat diese Sichtweise für zu eng. § 6 des Gesellschaftsvertrags befasst sich mit der Mittelverwendung für die beabsichtigte
+     Verwirklichung des Gesellschaftszwecks. Dass hierzu nicht nur die Investitionen
+     gehören, die in die Filmproduktion oder den Erwerb von Filmrechten gesteckt
+     werden, sondern auch Vergütungen, die mit der Wahrnehmung bestimmter
+     Aufgaben betraute Dritte - wie hier die Komplementärin als in eigenem Interesse tätiges werbendes Unternehmen - beanspruchen können, ist nicht ungewöhnlich.
+
+
+14         cc) Schließlich findet sich in § 2 Abs. 3 des Mittelverwendungskontrollvertrags die Bestimmung, dass die dort erneut aufgezählten, nämlichen Vergütungssätze von der Beklagten, ohne dass weitere Prüfpflichten aufgeführt wären, nach Ablauf der Widerrufsfrist und Einzahlung von 30 % der Einlage sowie
+     des Agios durch den Treugeber auf das Anderkonto freizugeben sind. Zugleich
+     ergibt sich aus den zitierten Prospektpassagen, dass es in Bezug auf die angesprochenen Vergütungssätze nicht darauf ankommt, welcher Aufwand für die
+     entsprechenden Aufgaben tatsächlich erforderlich ist. Die nach dem Investitionsplan an die Komplementärin auszuzahlenden Mittel, die freilich von ihr für
+     die im Gesellschaftsvertrag aufgeführten Zwecke zu verwenden sind, stehen
+     der Fondsgesellschaft für andere Zwecke, etwa zur Aufstockung von Produktionskosten, nicht (mehr) zur Verfügung. Diese Zusammenhänge sind von einem
+     Anleger, der - wie hier - der Beteiligungsgesellschaft einen sechsstelligen DM-Betrag anvertraut, bei der von ihm zu erwartenden sorgfältigen und eingehenden Lektüre des Prospekts (vgl. zu diesem Maßstab BGH, Urteil vom 31. März
+     1992 - XI ZR 70/91 - NJW-RR 1992, 879, 881; Senatsurteil vom 14. Juni 2007
+     - III ZR 125/06 - aaO S. 1504 Rn. 9) ohne größere Schwierigkeiten zu entnehmen. Sieht er hiervon ab, findet sein Vertrauen aber, soweit sich aus der kon-
+
+                                          - 12 -
+
+
+
+     kreten Vermittlung der Beteiligung nichts anderes ergibt, seine Grenze an den
+     Verlautbarungen des Prospekts, die nach Auffassung des Senats in der beschriebenen Weise hinreichend deutlich hervortreten.
+
+
+15         b) Der Senat folgt dem Berufungsgericht auch nicht in seiner Auffassung,
+     der Investitionsplan sei in Bezug auf die Position "Produktabsicherung" irreführend, weil sich erst aus den Erläuterungen im Abschnitt "Verträge zur Durchführung der Investition" ergebe, dass damit nicht die Kosten für die Erlösausfallversicherung, sondern eine weitere Pauschalgebühr für deren Vermittlung gemeint
+     seien. Der Senat hat in seinen Urteilen vom 12. Februar 2009 zum Fonds II
+     (III ZR 119/08 - juris und BeckRS 2009, 7718 Rn. 28-30) und zum Fonds III
+     (III ZR 90/08 - NJW-RR 2009, 613, 617 f Rn. 29-31) im Einzelnen näher begründet, dass es einem Anleger zuzumuten ist, das entsprechende Kapitel des
+     Prospekts durchzusehen, und dass hinreichend deutlich dargestellt wird, dass
+     die Kosten für die Erlösausfallversicherungen nicht von dieser Budgetposition
+     umfasst werden. Hierauf nimmt der Senat Bezug.
+
+
+16   3.    Eine Aufklärungspflicht der Beklagten kommt aber aus zwei anderen
+     Gründen in Betracht, die einem Anleger auch bei einer sorgfältigen Durchsicht
+     des Prospekts nicht in den Blick geraten.
+
+
+17         a) Wie der Senat - nach Erlass des hier angefochtenen Urteils - für den
+     Fonds II (Teilurteil vom 12. Februar 2009 - III ZR 119/08 - aaO Rn. 8-25; vom
+     23. Juli 2009 - III ZR 306/07 - juris und BeckRS 2009, 22376 Rn. 12 f; vom
+     8. Oktober 2009 - III ZR 241/08 - juris und BeckRS 2009, 86437 Rn. 8-10; vom
+     17. Dezember 2009 - III ZR 5/08 - juris und BeckRS 2010, 472 Rn. 7-9) und den
+     Fonds III (Urteile vom 29. Mai 2008 - III ZR 59/07 - aaO S. 1131 ff Rn. 17-26;
+     vom 6. November 2008 - III ZR 231/07 - NJW-RR 2009, 329 ff Rn. 5-14; vom
+
+                                     - 13 -
+
+
+
+12. Februar 2009 - III ZR 90/08 - aaO S. 614 ff Rn. 9-26) entschieden hat, war
+die Beklagte nach den in den damaligen Verfahren revisionsrechtlich zugrunde
+zu legenden Sachverhalten verpflichtet, den Anleger darüber zu informieren,
+dass die mit dem Vertrieb der Beteiligung befasste IT GmbH hierfür eine Provision von 20 % beanspruchte und erhalten sollte. Er hat dies wie folgt begründet:
+Der Gesellschaftsvertrag enthalte für die vorgesehene Mittelverwendung einen
+Investitionsplan, nach dem in die Beschaffung des Eigenkapitals 7 % des Beteiligungskapitals fließen solle. Darüber hinaus ergebe sich aus den Verträgen zur
+Durchführung der Investition, dass die Komplementärin, die sich zur Vermittlung
+des Zeichnungskapitals verpflichtet hatte, zusätzlich das Agio von 5 % erhalten
+sollte (Urteil vom 29. Mai 2008 - III ZR 59/07 - aaO S. 1131 Rn. 18; Urteil vom
+12. Februar 2009 - III ZR 90/08 - aaO S. 614 Rn. 11; Teilurteil vom 12. Februar
+2009 - III ZR 119/08 - aaO Rn. 10). Demgegenüber habe der Anleger vorgetragen und in verschiedener Weise belegt, dass an die IT GmbH für die Vermittlung des Eigenkapitals 20 % geflossen seien (Urteil vom 29. Mai 2008 - III ZR
+59/07 - aaO Rn. 19; Urteil vom 12. Februar 2009 - III ZR 90/08 - aaO S. 615 f
+Rn. 16-18; Teilurteil vom 12. Februar 2009 - III ZR 119/08 - aaO Rn. 15-17). Die
+Komplementärin sei an die Beachtung des Investitionsplans gebunden und
+nicht berechtigt gewesen, über die ihr zufließenden Mittel nach ihrem Belieben
+zu verfügen (Urteil vom 29. Mai 2008 - III ZR 59/07 - aaO S. 1132 Rn. 24; Urteil
+vom 12. Februar 2009 - III ZR 90/08 - aaO S. 614 f Rn. 12; Teilurteil vom
+12. Februar 2009 - III ZR 119/08 - aaO Rn. 11). Vor diesem Hintergrund könne
+nicht unbeantwortet bleiben, wie die Tätigkeitsbereiche der Eigenkapitalvermittlung und der Werbung im Hinblick auf die hierfür zu beanspruchende Vergütung
+voneinander                          abzugrenzen                           seien
+(Urteil vom 12. Februar 2009 - III ZR 90/08 - aaO S. 615 Rn. 13 f; Teilurteil vom
+12. Februar 2009 - III ZR 119/08 - aaO Rn. 12 f).
+
+                                         - 14 -
+
+
+
+18         aa) Das Berufungsgericht hält eine solche Abgrenzung offenbar für nicht
+     erforderlich, weil es auf dem Standpunkt steht, die Position "Konzeption, Werbung, Prospekt, Gründung" stehe wie die Position "Eigenkapitalbeschaffung"
+     und das Agio für Vertriebskosten zur Verfügung. Weil sich das aber nach der
+     Darstellung im Prospekt nicht aufdränge, habe deutlich gemacht werden müssen, dass es sich bei dieser "Werbung" um neben der Position "Eigenkapitalbeschaffung" gesondert zu vergütende Werbemaßnahmen im Rahmen der Anlegerwerbung handeln sollte. Denn das ergebe sich nicht aus den Erläuterungen
+     im Abschnitt "Verträge zur Durchführung der Investition" und führe auch rechnerisch nicht zu einer Gesamtprovision von 20 %, sondern nur zu 19 %. Es handele sich um eine künstlich erscheinende Aufspaltung zum Zwecke der Verschleierung der wahren Vertriebskosten. Diese Vermutung werde durch das
+     Schreiben des Geschäftsführers K.         der Komplementärin vom 19. Januar
+     1998 an den Gesellschafter der Komplementärin und der IT GmbH O.
+     nahegelegt, wonach eine Provision im Bereich von 20 % in der Branche nicht
+     unüblich war und jedenfalls intern keine derartige Aufspaltung der "Vergütung"
+     in einzelne Positionen vorgenommen wurde, auch nicht durch die Beklagte.
+
+
+19         bb) Diesen Ausführungen hält die Revision der Beklagten mit Recht entgegen, dass das Berufungsgericht, ohne insoweit Feststellungen zu treffen,
+     seiner Würdigung den streitigen Vortrag des Klägers zugrunde gelegt habe. Sie
+     verweist insoweit auf den nicht widerlegten Vortrag der Beklagten, dass die IT
+     GmbH aus dem Budget "Konzeption, Werbung, Prospekt, Gründung" eine Vergütung nicht für den normalen Vertrieb, sondern für eine Vielzahl unterschiedlicher Werbemaßnahmen erhalten habe.
+
+                                          - 15 -
+
+
+
+20         Betrachtet man den Prospekt für sich allein, kann man nicht davon ausgehen, dass "Werbung" als Bestandteil des Konzeptionsvertrags auch "Anlegerwerbung" sein soll (vgl. Senatsurteile vom 12. Februar 2009 - III ZR 90/08 -
+     aaO S. 615 Rn. 13 f und III ZR 119/08 - aaO Rn. 12 f mit dem Versuch einer
+     Abgrenzung dieser Position von der Eigenkapitalvermittlung). Wäre das beabsichtigt gewesen oder in der Sache so gehandhabt worden, wie es der Behauptung des Klägers entspricht, hätten die Anleger hierüber allerdings unterrichtet
+     werden müssen. Dem Berufungsgericht ist auch darin zuzustimmen, dass das
+     Schreiben vom 19. Januar 1998 des Geschäftsführers K.           der Komplementärin an den Gesellschafter der Komplementärin und der IT GmbH O.            die
+     Vermutung nahelegt, die festgestellten Provisionszahlungen von 20 %, die die
+     Beklagte trotz einer unterschiedlichen umsatzsteuerrechtlichen Relevanz undifferenziert berechnet hat, seien eine Vergütung für deren erfolgreiche Vermittlungsbemühungen gewesen. Ob bereits diese und weitere Indizien, die der Senat in seinen Urteilen vom 29. Mai 2008 (III ZR 59/07 - aaO S. 1131 Rn. 19)
+     und 12. Februar 2009 (III ZR 90/08 - aaO S. 615 f Rn. 16-20) angeführt hat, die
+     Annahme einer regelwidrigen Auffälligkeit begründen, über die die Beklagte den
+     Kläger zu unterrichten hatte (vgl. zu den insoweit maßgebenden Erwägungen
+     Senatsurteil vom 8. Oktober 2009 - III ZR 207/07 - WM 2009, 2358, 2360
+     Rn. 17), hat das Berufungsgericht jedoch noch nicht festgestellt.
+
+
+21         Soweit das Berufungsgericht auf den Gesichtspunkt aufmerksam macht,
+     die Provisionen für Eigenkapitalvermittlung (7 % + Agio 5 %) und Konzeption,
+     Werbung, Prospekt, Gründung (7 %) beliefen sich insgesamt nur auf 19 % und
+     rechtfertigten deshalb Provisionszahlungen von 20 % an die IT GmbH nicht, ist
+     zu beachten, dass die IT GmbH nach dem Vortrag der Beklagten zusätzliche
+     8 % Provision für Werbemaßnahmen nur für die von ihr geworbenen Anleger
+     erhalten hat. Legt man, was unstreitig ist, zugrunde, dass die IT GmbH für den
+
+                                          - 16 -
+
+
+
+     Fonds II 57,86 % des Eigenkapitals eingeworben hat, macht die zusätzliche
+     Vergütung von 8 % bezogen auf das Gesamtkapital des Fonds nur 4,6 % aus,
+     hält sich darum innerhalb des Budgets von 7 %. Deswegen ergibt sich hieraus
+     allein keine Auffälligkeit, über die der Anleger vorab informiert werden müsste.
+
+
+22          Der Prospekt fasst die Mittelverwendung für die Positionen "Konzeption,
+     Werbung, Prospekt, Gründung" zusammen, ohne eine nähere Aufgliederung
+     vorzunehmen. Die entsprechenden Aufgaben sind der Komplementärin zur Erledigung zugewiesen, wobei sie sich nach allgemeinen Grundsätzen Dritter bedienen kann. Sie muss der Fondsgesellschaft gegenüber sicherstellen, dass die
+     übernommenen Aufgaben erfüllt werden. Dafür erhält sie das im Investitionsplan und im Konzeptionsvertrag ausbedungene Honorar. Es bleibt ihr daher
+     überlassen, im Rahmen dieses Kostenansatzes dritte Unternehmen für die von
+     ihnen erbrachten Leistungen zu honorieren. Deswegen bestehen im Ansatz
+     auch keine Bedenken dagegen, dass sie ein für die Werbung eingeschaltetes
+     Unternehmen, das zusätzlich mit der Vermittlung des Eigenkapitals betraut ist,
+     erfolgsabhängig für die von ihm übernommenen Leistungen honoriert. Dass die
+     Beklagte nach § 2 Abs. 3 des Mittelverwendungskontrollvertrags dort näher
+     aufgeführte Prozentsätze freizugeben hat, die notwendigerweise auf die eingezahlten Einlagen von Anlegern bezogen sind (vgl. hierzu Senatsurteil vom
+     29. Mai 2008 (III ZR 59/07 - aaO S. 1132 Rn. 23), bedeutet nicht, dass der
+     Komplementärin die angeführte Honorierung verschlossen wäre, solange sie
+     nur ihre Aufgaben alle erfüllt.
+
+
+23          b) Das Berufungsgericht hat nur geprüft, inwieweit der Emissionsprospekt Sondervorteile offenlegt, die der Komplementärin gewährt werden. Wie der
+     Senat bereits in seinen Urteilen vom 29. Mai 2008 (III ZR 59/07 - aaO S. 1132 f
+     Rn. 25), 12. Februar 2009 (III ZR 90/08 - aaO S. 617 Rn. 25; III ZR 119/08 -
+
+                                    - 17 -
+
+
+
+aaO Rn. 24) und 22. April 2010 (III ZR 318/08 - WM 2010, 1017, 1021 Rn. 25)
+entschieden hat, musste in dem Emissionsprospekt aber auch herausgestellt
+werden, welche Rolle der IT GmbH bei der Verwirklichung des Vorhabens zukam. Das beruht auf zwei Gesichtspunkten. Zum einen ging es um die Person
+ihres Mehrheitsgesellschafters und seinerzeitigen Geschäftsführers O.      . Er
+war nach den Angaben im Prospekt zusammen mit K.            Gesellschafter der
+Komplementärin mit Anteilen von mehr als 25 %; nach einer vom Kläger vorgelegten Mitteilung des Direkten Anlegerschutzes vom 28. September 2004 hielt
+er eine Mehrheitsbeteiligung von 60 % (vgl. auch Senatsurteile vom 12. Februar
+2009 aaO). Wenn dies richtig ist, war er in der Lage, bestimmenden Einfluss auf
+die C.        GmbH in ihrer Eigenschaft sowohl als Geschäftsführerin der
+Fondsgesellschaft als auch als mit bestimmten Aufgaben der Fondsgesellschaft
+betrautes Drittunternehmen auszuüben. Zum anderen beherrschte er die IT
+GmbH, die als Folge der Gewinnung von Anlegern Provisionen von 20 % erhielt
+und so stark in die Verwirklichung des Vorhabens eingebunden war, dass sie
+mit 57,86 % deutlich mehr als die Hälfte der Anleger für diesen Fonds einwarb.
+Soweit die Beklagte hiergegen anführt, die Einbindung der IT GmbH in den Vertrieb könne nicht als "Vorhaben des Fonds" angesehen werden, das
+- entsprechend der Regelung im Gesellschaftsvertrag - in der Entwicklung, der
+Herstellung und dem Erwerb von Filmprojekten sowie der Beteiligung an Filmund Fernsehproduktionen im In- und Ausland bestanden habe, übersieht sie,
+dass die IT GmbH - nach dem Vortrag der Beklagten - hierauf nicht beschränkt
+war, sondern gerade mit Werbemaßnahmen beauftragt worden sein soll, weil
+sie über die in der Filmbranche erforderlichen Kontakte verfügt habe und daher
+die Fondsbeteiligungen wesentlich öffentlichkeits- und medienwirksamer habe
+bewerben können als die Komplementärin selbst. Die Komplementärin habe
+nämlich weder über das erforderliche eigene Personal noch über das für die
+werbliche Einführung des Fondsprodukts erforderliche Kapital noch über ein der
+
+                                         - 18 -
+
+
+
+     IT GmbH vergleichbares Know-how verfügt. Für die Entwicklung des Vorhabens
+     kam es daher - auf der Grundlage des Vortrags der Beklagten - von Beginn an
+     entscheidend darauf an, dass die mit der Konzeptionierung des Fonds verbundene Werbung wie die anderen in dieser Budgetposition enthaltenen Aufgaben
+     den Boden für eine erfolgreiche Vermittlung und Installierung der Beteiligungsgesellschaft bereiteten, um die angestrebten Investitionsmaßnahmen ordnungsgemäß durchführen zu können.
+
+
+24         Für die Pflicht, über diese personelle und kapitalmäßige Verflechtung
+     und die mit ihr verknüpften Sondervorteile zu informieren, spielt es angesichts
+     des Umstandes, dass im Prospekt hierzu jegliche Angaben fehlen, keine Rolle,
+     ob die IT GmbH nur mit Aufgaben der Eigenkapitalvermittlung oder zusätzlich
+     mit Werbemaßnahmen beauftragt war und ob die mit der Komplementärin ausbedungene Vergütung üblich oder angemessen war. Handelte es sich, wie der
+     Kläger in erster Linie geltend macht und wofür die bereits angeführten Indizien
+     sprechen, um eine Vergütung für die Eigenkapitalvermittlung, liegt nicht nur
+     ein Verstoß gegen den Gesellschaftsvertrag, sondern im Verhältnis zu anderen
+     mit der Eigenkapitalbeschaffung betrauten Unternehmen auch eine Sonder-
+     (Besser-)Behandlung vor. Diese Sonderbehandlung würde den Anleger nur
+     dann nicht berühren, wenn die prospektgemäßen Mittel für die Eigenkapitalvermittlung (7 % plus 5 % Agio) insgesamt nicht überschritten worden wären.
+     Davon kann jedoch, wie der Senat in seinen Urteilen vom 12. Februar 2009 im
+     Einzelnen begründet hat (III ZR 90/08 - aaO S. 616 Rn. 21; III ZR 119/08 - aaO
+     Rn. 20), keine Rede sein; dass die Zusatzvergütung aus einem anderen Budget
+     entnommen worden ist, ist unstreitig. Aber auch dann, wenn es einen nach Inhalt und Umfang klaren, schriftlich fixierten Auftrag der IT GmbH gegeben haben sollte, bestimmte der Komplementärin zugewiesene Aufgaben außerhalb
+     der eigentlichen Kapitalvermittlung vorzunehmen - im vorliegenden Verfahren
+
+                                     - 19 -
+
+
+
+fehlt es insoweit an näheren Substanziierungen (vgl. hierzu Senatsurteil vom
+22. April 2010 - III ZR 318/08 - aaO) - , wäre es für die Anleger von erheblichem
+Interesse gewesen, hierüber unterrichtet zu werden. Das liegt gerade bei Werbemaßnahmen eines großen Vertriebsunternehmens nahe, weil sich hierbei
+immer die Frage aufdrängen wird, ob diese Werbemaßnahmen im eigenen Interesse dieses Unternehmens, insbesondere im Hinblick auf seine sonstigen Vertriebsaktivitäten, durchgeführt werden oder ob sie in besonderer Weise der
+Fondsgesellschaft zugute kommen. Gerade weil es schwierig und problematisch sein kann, eine klare Abgrenzung zwischen Werbemaßnahmen für die
+Fondsgesellschaft und der "Einwerbung" von Gesellschaftskapital vorzunehmen
+oder - wie es hier in Streit steht - im Nachhinein eine nähere Klärung hierüber
+herbeizuführen (vgl. hierzu Senatsbeschluss vom 17. Dezember 2009 - III ZR
+319/08 - WM 2010, 301 Rn. 2; Senatsurteil vom 22. April 2010 - III ZR 318/08 -
+aaO S. 1019 Rn. 11-14), muss dem Anleger bei seinem Beitritt die Gelegenheit
+zu einer eigenverantwortlichen Entscheidung gegeben werden. Hätte der Prospekt - wie aus der Sicht des Senats geboten - Angaben dazu enthalten, dass
+die IT GmbH für einen erheblichen Teil des Fonds mit der Einwerbung von Anlegern betraut ist und hierfür 7 % Provision und das Agio zu beanspruchen hat
+und weitere 8 % bezogen auf die von ihr eingeworbenen Anleger dafür erhält,
+dass sie im Rahmen der Konzeptionierung des Fonds bestimmte Werbemaßnahmen durchgeführt hat, hätte sich der Anleger überlegen können, ob ihn diese Abgrenzung überzeugt und was von Werbemaßnahmen (und dem Ansatz
+der Weichkosten insgesamt) zu halten ist, deren Vergütung an einen Vermittlungsvorgang geknüpft wird, der sich nur auf einen Teil der Anleger bezieht.
+Soweit die Beklagte daher auf die Vermittlungserfolge der IT GmbH verweist, ist
+dies angesichts der unterlassenen Aufklärung ein ambivalentes Argument.
+
+                                          - 20 -
+
+
+
+25         Die Pflicht der Prospektverantwortlichen, die Anleger über die Einbindung
+     der IT GmbH zu unterrichten, ist nicht deshalb zu verneinen, weil der Prospekt
+     hinreichend über die der Komplementärin gewährten Sondervorteile Auskunft
+     gibt. Die Beklagte hat zwar dem Sinne nach in dem Parallelverfahren III ZR
+     318/08 eingewendet, aus der Information über diese - im Gerichtsverfahren von
+     ihr als "extrem hoch", "überhöht" und "exorbitant" bezeichneten - Sondervorteile
+     folge, dass die Gesellschafter der Komplementärin deren Nutznießer seien. Das
+     ist aber zu kurz gegriffen. Denn viele Anleger werden die der Komplementärin
+     übertragenen Aufgaben - ungeachtet des Systems von Leistungsverträgen, die
+     die Fondsgesellschaft mit ihr geschlossen hat - als solche ansehen, für deren
+     Bewältigung diese bereits aufgrund ihrer Geschäftsführerstellung der Fondsgesellschaft verantwortlich ist. Diese im Prospekt enthaltene Information ist daher
+     aus der Sicht des Senats nicht mit der fehlenden Aufklärung über die gesellschaftsrechtliche    Verflechtung     der     IT    GmbH       und     die    ihr
+     übertragenen Aufgaben zu vergleichen.
+
+
+26         Da die Beklagte nach dem derzeitigen Sachstand weder zu den Prospektverantwortlichen noch zu den hinter diesen stehenden Personen zählt, erwächst für sie aus diesem Informationsdefizit nur dann eine Aufklärungspflicht
+     gegenüber den Anlegern, wenn sie von diesen Verflechtungen Kenntnis hatte.
+     Dazu hat das Berufungsgericht noch keine Feststellungen getroffen. Als Wirtschaftsprüfungsgesellschaft, zu deren Berufsbild nach § 2 Abs. 3 Nr. 3 WPO
+     auch die Wahrnehmung von Treuhandaufgaben gehört, musste sie jedenfalls
+     prinzipiell wissen, dass ein Prospekt über wesentliche kapitalmäßige und personelle Verflechtungen zwischen der Komplementär-GmbH, ihren Geschäftsführern und beherrschenden Gesellschaftern einerseits und den Unternehmen
+     sowie deren Geschäftsführern und beherrschenden Gesellschaftern anderer-
+
+                                          - 21 -
+
+
+
+     seits, in deren Hand die Beteiligungsgesellschaft die durchzuführenden Vorhaben ganz oder wesentlich gelegt hat, informieren muss.
+
+
+27   4.    Da es für eine Haftung der Beklagten noch an hinreichenden Feststellungen fehlt, ist das angefochtene Urteil aufzuheben, soweit zu ihrem Nachteil
+     erkannt worden ist. Für das weitere Verfahren weist der Senat noch auf folgendes hin.
+
+
+28         a) Ob die Beklagte als Treuhandkommanditistin ihre Pflicht verletzt hat,
+     den Kläger als künftigen Treugeber bei Annahme des Vertragsangebots über
+     ihr bekannte regelwidrige Auffälligkeiten zu informieren, die sich so nicht aus
+     der Lektüre des Emissionsprospekts ergeben, steht nach allgemeinen Grundsätzen zur Darlegungs- und Beweislast des Klägers. Dabei setzt eine Pflicht der
+     Beklagten allerdings nicht erst dann ein, wenn aus ihrer Sicht feststeht, dass an
+     die IT GmbH für die Vermittlung des Eigenkapitals Provisionen von 20 % fließen
+     sollen. Ihre Haftung setzt auch nicht voraus, dass sie an der vom Kläger behaupteten Verschleierung von Weichkosten in kollusiver Weise mit den Initiatoren zusammengewirkt hat. Eine Pflicht der Beklagten, im Interesse der Treugeber tätig zu werden, konnte vielmehr bereits dann einsetzen, als sie - spätestens im Rahmen ihrer nach dem Treuhandvertrag wahrzunehmenden Aufgaben - auf den Umstand stieß, dass an ein drittes Unternehmen Provisionen von
+     20 % gezahlt werden sollten. Wie der Senat bereits ausgeführt hat, enthielt der
+     Treuhandvertrag keine Regelung, die eine Berechnung von Vergütungsanteilen
+     dritter Unternehmen im Rahmen der geschuldeten Freigabekontrolle vorsah
+     (vgl. Senatsurteil vom 29. Mai 2008 - III ZR 59/07 - aaO S. 1132 Rn. 23). Weder
+     der Gesellschaftsvertrag noch der Treuhandvertrag gaben einen Hinweis darauf, dass Provisionen in einer Größenordnung von 20 % zu zahlen waren (vgl.
+     Senatsurteil vom 12. Februar 2009 - III ZR 90/08 - aaO S. 616 f Rn. 20, 26; Teil-
+
+                                     - 22 -
+
+
+
+urteil vom 12. Februar 2009 - III ZR 119/08 - aaO Rn. 19, 25). Die vom Kläger
+vorgelegten Unterlagen über die Mittelfreigabeabrechnungen für den Fonds II
+vom 9. März 1999 und 17. Januar 2000, von denen die erste dem Beitritt des
+Klägers vorausging, sprechen dafür, dass der Beklagten von ihr selbst berechnete Provisionszahlungen von 20 % an die IT GmbH bekannt waren (vgl. auch
+Senatsurteil vom 8. Oktober 2009 - III ZR 207/07 - aaO S. 2360 Rn. 17). Unter
+diesen Umständen konnte die Beklagte zumindest zu einer Klärung der Hintergründe verpflichtet sein, was es mit diesen Provisionszahlungen auf sich hatte,
+um ihr weiteres Verhalten gegenüber den Anlegern hierauf einzurichten. Dabei
+ist es im Rahmen der sekundären Darlegungslast Sache der Beklagten, sich
+dazu zu erklären, in welcher Weise sie sich um eine Klärung bemüht hat. Sollte
+sie auf eine Klärung zum maßgeblichen Zeitpunkt verzichtet haben, könnte sie
+mindestens der Vorwurf treffen, dass sie den Kläger nicht darüber unterrichtet
+hat, dass Provisionen in einer Größenordnung gezahlt werden, die sich so weder aus dem Gesellschaftsvertrag noch aus dem Treuhandvertrag ergaben.
+Das Berufungsgericht wird daher im weiteren Verfahren zu prüfen haben, ob
+auf der Grundlage der vom Kläger vorgelegten Urkunden oder zu erhebenden
+Beweise eine objektive Pflichtverletzung der Beklagten festzustellen ist, sei es,
+dass sie es an einer Klärung und Information hierüber hat fehlen lassen, sei es
+- wenn die vom Kläger angebotenen Beweise ein weitergehendes Beweisergebnis rechtfertigen -, dass sie diesem nicht offengelegt hat, dass Vertriebsprovisionen von 20 % an eine Vertriebsgesellschaft gezahlt werden, sei es schließlich, dass sie in Kenntnis der personellen und kapitalmäßigen Verflechtungen
+der Komplementärin mit der IT GmbH darauf verzichtet hat, den Kläger hierüber
+zu unterrichten. Die hierdurch bewirkte Gefährdung von Anlegerinteressen liegt
+in der Eingehung einer Beteiligung, deren Rentierlichkeit auf der Grundlage des
+Prospekts, der die Weichkosten nur in kleinen unverdächtigen Dosen aufführte,
+nicht hinreichend beurteilt werden konnte.
+
+                                          - 23 -
+
+
+
+
+29         Kommt das Berufungsgericht zu einer Pflichtverletzung der Beklagten, ist
+     zu prüfen, wie sich der Kläger bei pflichtgemäßem Vorgehen der Beklagten
+     verhalten hätte. In diesem Rahmen kommt dem Kläger, was das Berufungsgericht richtig gesehen hat, eine gewisse Kausalitätsvermutung zugute (vgl. Senatsurteile vom 12. Februar 2009 - III ZR 90/08 - aaO S. 617 Rn. 27; III ZR
+     119/08 - aaO Rn. 26; vom 23. Juli 2009 - III ZR 306/07 - aaO Rn. 17).
+
+
+30         Soll einer Schadensersatzpflicht, die aus einer mangelnden Klärung der
+     Umstände und Hintergründe der Provisionszahlungen von 20 % herzuleiten wäre, entgegengehalten werden, bei einer entsprechenden Klärung hätte sich ergeben, dass 8 % für gesonderte Werbemaßnahmen der IT GmbH zu vergüten
+     gewesen seien, steht dies - gewissermaßen unter dem Gesichtspunkt des
+     rechtmäßigen Alternativverhaltens (vgl. hierzu Senatsurteil vom 5. März 2009
+     - III ZR 17/08 - WM 2009, 739, 740 Rn. 14) - zur Darlegungs- und Beweislast
+     der Beklagten. Dabei dürfen an eine entsprechende Substanziierung des Vortrags keine übertriebenen Anforderungen gestellt werden, soweit es sich um
+     Umstände handelt, die außerhalb der eigentlichen Geschäftstätigkeit der Beklagten liegen, und soweit sie sich nicht auf ihr vorliegende oder ihr zugängliche
+     Unterlagen beziehen kann. Soweit dem Senatsurteil vom 12. Februar 2009
+     (III ZR 90/08 - aaO S. 617 Rn. 28; vgl. auch Teilurteil vom 12. Februar 2009
+     - III ZR 119/08 - aaO Rn. 27) zu entnehmen sein könnte, die Beklagte müsse
+     sich die hierfür notwendigen Informationen im Wege eines Auskunftsanspruchs
+     von der Komplementärin oder der IT GmbH verschaffen, hält der Senat daran
+     nicht fest. Sollte eine Schadensersatzpflicht der Beklagten auf eine unterlassene Aufklärung über die der IT GmbH gewährten Sondervorteile gestützt werden,
+     kommt es nicht darauf an, für welchen Zweck die weiteren 8 % Provision gezahlt worden sind.
+
+                                          - 24 -
+
+
+
+
+31         b) Bei einer Haftung der Beklagten wegen einer Verletzung ihrer Aufklärungspflicht bestehen gegen die Feststellung ihrer Ersatzpflicht für den Fall der
+     nachträglichen Aberkennung von Verlustzuweisungen keine Bedenken. Der
+     Kläger hat insoweit unter Bezugnahme auf einen Bericht des Treuhänders aus
+     dem Jahr 2006 dargelegt, dass aufgrund von Betriebsprüfungen für die Jahre
+     1998 bis 2001 von der Finanzverwaltung die Frage aufgeworfen werde, ob die
+     Fondsgesellschaft mit Gewinnerzielungsabsicht tätig geworden sei. Das trägt
+     die bislang nicht ausgeräumte Gefahr einer nachträglichen Aberkennung von
+     Verlustzuweisungen in sich. Da demnach aus der Sicht des Klägers bei verständiger Beurteilung mit der Möglichkeit eines solchen Schadenseintritts zu
+     rechnen ist (vgl. BGH, Urteile vom 12. November 1991 - VI ZR 7/91 - BGHZ
+     116, 60, 75; vom 16. Januar 2001 - VI ZR 381/99 - NJW 2001, 1431, 1432),
+     kann sein Feststellungsinteresse nicht verneint werden. Das Vorliegen eines
+     diesbezüglichen Bescheids des Finanzamts ist nicht erforderlich.
+
+
+32         Die denkbare nachträgliche Aberkennung von Verlustzuweisungen aus
+     den angeführten Gründen führt allerdings nicht zu einem Schadensersatzanspruch auf Ersatz der Steuervorteile, die bisher auf der Anerkennung der Verlustzuweisungen beruhten. Denn im Rahmen des hier verfolgten Schadensersatzanspruchs, der dahin geht, so gestellt zu werden, als hätte sich der Kläger
+     nicht beteiligt, besteht kein (Erfüllungs-)Anspruch auf den Eintritt von Folgen,
+     die sich aus der Beteiligung selbst ergeben. Bei einer Aberkennung von Verlustzuweisungen und einer damit einhergehenden steuerlichen Nachforderung
+     kommt aber wegen der hierauf zu entrichtenden Zinsen ein Schadensersatzanspruch in Betracht, auf den die Vorteile aus der über Jahre währenden Anerkennung von Verlustzuweisungen anzurechnen wären (vgl. Senatsurteil vom
+     22. April 2010 - III ZR 318/08 - aaO S. 1022 Rn. 32).
+
+                                          - 25 -
+
+
+
+
+33         c) Demgegenüber ist der Antrag des Klägers auf Feststellung, dass die
+     Beklagte ihn von Ansprüchen der Beteiligungsgesellschaft, deren Gläubigern
+     oder von Dritten freizustellen habe, die sich aus seiner Rechtsstellung als
+     Kommanditist ergäben, im Ergebnis unbegründet. Auch wenn man mit dem
+     Kläger als richtig unterstellt, die Ausschüttungen an die Anleger beruhten nicht
+     auf erwirtschafteten Renditen, sondern seien als (teilweise) Einlagenrückgewähr zu werten, kommt seine Inanspruchnahme nach §§ 171, 172 HGB nicht in
+     Betracht. Da der Kläger selbst nicht Kommanditist ist, sondern nur wirtschaftlich
+     über die Treuhandkommanditistin an der Fondsgesellschaft beteiligt ist, ist nicht
+     er, sondern die Beklagte Anspruchsgegnerin eines auf §§ 171, 172 HGB gestützten Anspruchs (vgl. BGH, Urteil vom 28. Januar 1980 - II ZR 250/78 -
+     BGHZ 76, 127, 130 f; Senatsurteil vom 23. Juli 2009 - III ZR 323/07 - BeckRS
+     2009, 22724 Rn. 20; Henze, in: Ebenroth/Boujong/Joost/Strohn, HGB, 2. Aufl.
+     2008, § 177a Anh. B Rn. 100; Strohn aaO § 171 Rn. 120). Auch Gläubiger der
+     Gesellschaft können ihn insoweit nicht in Anspruch nehmen (vgl. BGH, Urteil
+     vom 11. November 2008 - XI ZR 468/07 - BGHZ 178, 271, 276 ff Rn. 19-24 zur
+     Inanspruchnahme nach §§ 128, 130 HGB), so dass es an einer Grundlage für
+     eine mögliche Freistellungsverpflichtung fehlt. Der Antrag kann auch nicht in
+     dem Sinne verstanden werden, dass als "Dritter" die Beklagte in Betracht komme; denn insoweit ginge es nicht um eine Freistellung. Im Verhältnis zur Beklagten könnte allenfalls die Frage geprüft werden, ob dieser nach einer Inanspruchnahme nach den §§ 171, 172 HGB gegen den Kläger Ansprüche nach
+     §§ 675, 670 BGB zustehen. Einen auf dieses Rechtsverhältnis bezogenen
+     Feststellungsantrag hat der Kläger indes nicht gestellt.
+
+                                         - 26 -
+
+
+
+                                II. Revision des Klägers
+
+
+34         Die Entscheidung des Berufungsgerichts trägt die teilweise Abweisung
+     der Klage in Höhe der durch die Beteiligung entstandenen Steuervorteile nicht.
+
+
+35   1.    Ob eine spätere Minderung oder Beseitigung des eingetretenen Vermögensschadens den Schadensersatzanspruch beeinflusst, ist nach den Grundsätzen der Vorteilsausgleichung zu beurteilen. Danach sind Wegfall oder Minderung des Schadens nur insoweit zu berücksichtigen, als sie in einem
+     adäquat-ursächlichen Zusammenhang zu dem schädigenden Ereignis stehen.
+     Außerdem muss die Anrechnung dem Zweck des Schadensersatzes entsprechen und darf weder den Geschädigten unzumutbar belasten noch den Schädiger unbillig entlasten (vgl. BGH, Urteil vom 22. März 1979 - VII ZR 259/77 -
+     BGHZ 74, 103, 113 f; Senatsurteil vom 21. Dezember 1989 - III ZR 118/88 -
+     BGHZ 109, 380, 392). Zu solchen auf den Schadensersatzanspruch eines Geschädigten anzurechnenden Vorteilen gehören grundsätzlich auch Steuern, die
+     der Geschädigte infolge der Schädigung erspart hat (vgl. BGH, Urteile vom
+     18. Dezember 1969 - VII ZR 121/67 - BGHZ 53, 132, 134; vom 22. März 1979
+     - VII ZR 259/77 - aaO S. 114; Senatsurteil vom 17. November 2005 - III ZR
+     350/04 - NJW 2006, 499 Rn. 7).
+
+
+36         Bei der Betrachtung möglicher Steuervorteile muss allerdings auch berücksichtigt werden, ob dem Geschädigten aus der Zuerkennung des Schadensersatzanspruchs und dessen Gestaltung steuerliche Nachteile erwachsen,
+     sei es durch eine Nachforderung des Finanzamts (vgl. BGH, Urteil vom 18. Dezember 1969 - VII ZR 121/67 - aaO S. 134 ff), sei es durch eine Besteuerung
+     der Schadensersatzleistung (vgl. BGH, Urteil vom 22. März 1979 - VII ZR
+     259/77 - aaO S. 114 ff) oder der Zug um Zug gegen die Schadensersatzleistung
+
+                                   - 27 -
+
+
+
+vorgesehenen Übertragung der Kapitalanlage (vgl. BGH, Urteil vom 6. November 1989 - II ZR 235/88 - VersR 1990, 95, 96; Loritz/Wagner ZfIR 2003,
+753, 761). So hat der Bundesgerichtshof mehrfach zum Kommanditisten, der
+steuerrechtlich Mitunternehmer des Betriebs der KG ist, entschieden, für ihn
+seien alle Zahlungen, die er im wirtschaftlichen Zusammenhang mit seiner Beteiligung an der KG erhalte, Betriebseinnahmen gemäß § 15 Abs. 1 Satz 1 Nr. 2
+EStG. Stehe auch die Schadensersatzleistung in einem solchen wirtschaftlichen
+Zusammenhang mit der Kommanditbeteiligung, müsse sie dem gewerblichen
+Bereich zugeordnet und als Betriebseinnahme nach § 15 Abs. 1 Satz 1 Nr. 2
+EStG versteuert werden (vgl. BGH, Urteile vom 22. März 1979 - VII ZR 259/77 -
+aaO S. 114 f unter Bezugnahme auf BFH BStBl. 1977 II S. 220; vom 27. Juni
+1984 - IVa ZR 231/82 - NJW 1984, 2524; vom 14. Januar 2002 - II ZR 40/00 -
+NJW 2002, 1711, 1712; vom 3. Dezember 2007 - II ZR 21/06 - WM 2008, 391,
+394 Rn. 27). Vereinzelt ist im Hinblick auf die vorgesehene Übertragung der
+Beteiligung Zug um Zug gegen die Schadensersatzleistung auch eine Versteuerung des sich ergebenden Veräußerungsgewinns nach § 16 Abs. 1 Satz 1 Nr. 2
+EStG in Betracht gezogen worden (vgl. BGH, Urteil vom 6. November 1989
+- II ZR 235/88 - aaO; so möglicherweise auch das Berufungsgericht, das von
+einem "Aufgabegewinn" spricht). Diese Rechtsprechung ist im Zusammenhang
+mit der Vorschrift des § 287 ZPO zum Teil durch den Gedanken ergänzt worden, eine exakte Errechnung von Steuervorteilen unter Gegenüberstellung der
+tatsächlichen mit einer hypothetischen Vermögenslage würde angesichts der
+vielfältigen Besonderheiten und Möglichkeiten der konkreten Besteuerung und
+ihrer unterschiedlichen Entwicklung in verschiedenen Besteuerungszeiträumen
+häufig unverhältnismäßigen Aufwand erfordern. Daher sei eine nähere Berechnung nur dann erforderlich, wenn Anhaltspunkte dafür bestünden, dass der Geschädigte außergewöhnliche Steuervorteile erzielt habe (vgl. BGH, Urteile vom
+27. Juni           1984              - IVa           ZR              231/82 -
+
+                                          - 28 -
+
+
+
+     aaO; vom 12. Februar 1986 - IVa ZR 76/84 - NJW-RR 1986, 1102, 1103; vom
+     9. Oktober 1989 - II ZR 257/88 - NJW-RR 1990, 229, 230; Senatsurteil vom
+     17. November 2005 - III ZR 350/04 - aaO Rn. 8; Senatsbeschluss vom 9. April
+     2009 - III ZR 89/08 - juris und BeckRS 2009, 11192 Rn. 10).
+
+
+37   2.    An dieser - gerade auch im Zusammenhang mit so genannten Steuersparmodellen entwickelten - Rechtsprechung ist festzuhalten, da sie die Zivilgerichte in die Lage versetzt, über Schadensersatzansprüche abschließend zu
+     erkennen, ohne sich mit steuerlich außerordentlich komplexen Gestaltungen im
+     Detail auseinandersetzen und die nur schwer abzusehende künftige Besteuerung der Ersatzleistung vorwegnehmen zu müssen.
+
+
+38         a) Soweit das Berufungsgericht von dieser Rechtsprechung abweichen
+     möchte, weil die Berücksichtigung erst zukünftiger Nachteile nicht dem Grundsatz des Schadensrechts entspreche, dass für die Schadensberechnung auf
+     den Zeitpunkt der letzten mündlichen Verhandlung abzustellen sei, blendet es
+     den hier erheblichen Umstand aus, dass die Berücksichtigung dieser Nachteile
+     eng mit der Frage verbunden ist, ob und inwieweit Steuervorteile des Geschädigten dauerhaft und auf seinen Schaden überhaupt anzurechnen sind. Wegen
+     dieser sachlichen Verknüpfung ist es nicht gerechtfertigt, Vorteile und Nachteile
+     aus einer Kapitalanlage in der Weise isoliert zu betrachten. Zwar hat die Lösung
+     des Berufungsgerichts den Vorteil, dass sich der Tatrichter im anhängigen
+     Schadensersatzprozess darauf beschränken kann, die in der Regel bekannten,
+     weil bereits realisierten Steuervorteile schadensmindernd zu berücksichtigen,
+     während die Klärung der zu erwartenden Steuernachteile, deren Ermittlung im
+     anhängigen Prozess auch unter Berücksichtigung der für den Geschädigten
+     bestehenden Beweiserleichterungen des § 287 ZPO nur mit großen Schwierigkeiten möglich und zudem mit erheblichen Unsicherheitsfaktoren verbunden ist,
+
+                                        - 29 -
+
+
+
+     gegebenenfalls einem zweiten Prozess vorbehalten bleiben kann. Eine derartige Handhabung führt jedoch zu einer nicht hinnehmbaren Erschwerung der
+     Durchsetzung eines Schadensersatzanspruchs (so schon BGH, Urteil vom
+     18. Dezember 1969 - VII ZR 121/67 - aaO S. 138; vgl. auch Urteil vom 31. Mai
+     2010 - II ZR 30/09 - DB 2010, 1524, 1527 Rn. 31). Denn dem Geschädigten
+     wird angesonnen, bereits im anhängigen Verfahren die Abtretung seiner Ansprüche aus der Beteiligung Zug um Zug gegen eine nicht vollständige Schadensersatzleistung anzubieten, obwohl er nicht den vollen ihm gebührenden
+     Ersatz erhält. Er müsste über einen weiteren Zeitraum das Risiko tragen, dass
+     der Schädiger die noch ausstehende Ersatzleistung erbringen wird.
+
+
+39         Deswegen ist es im Grundsatz geboten, beide Gesichtspunkte in den
+     Blick zu nehmen und nach Möglichkeit den Schaden des Berechtigten abschließend zu berechnen.
+
+
+40         b) Entgegen der Auffassung des Berufungsgerichts lässt sich gegen die
+     Rechtsprechung des Bundesgerichtshofs auch nicht anführen, typischerweise
+     würden die hohen Steuervorteile in Zeiten hohen sonstigen Einkommens erzielt,
+     während ein zu versteuernder Aufgabegewinn möglichst in Zeiten niedriger
+     sonstiger Einkommen anfallen solle. Dabei denkt das Berufungsgericht, so wie
+     der Senat es versteht, offenbar an Beteiligungen, die nicht notleidend werden
+     oder von denen sich der Anleger nicht deshalb trennen möchte, weil ihm gegenüber eine Pflichtverletzung begangen wurde. Dann besteht aber kein Anlass, sich über die Bemessung eines Schadensersatzanspruchs im Hinblick auf
+     eintretende steuerliche Auswirkungen Gedanken zu machen. Aus der vom Berufungsgericht angenommenen Typik folgt daher nicht ohne weiteres, dass der
+     Verzicht auf eine konkrete Darlegung und rechnerische Gegenüberstellung der
+     steuerlichen Vor- und Nachteile im Allgemeinen zu unangemessenen Ergebnis-
+
+                                            - 30 -
+
+
+
+     sen führt. Allerdings kann auch dann, wenn ein Anleger wegen einer Pflichtverletzung so gestellt werden will, als hätte er sich nicht beteiligt, zwischen dem
+     Zeitpunkt der Beteiligung und der Geltendmachung von Schadensersatzansprüchen ein erheblicher Zeitraum liegen. Dabei handelt es sich indes um einen
+     eher zufälligen Umstand, der damit zusammenhängt, wann ein Anleger Kenntnis von einer Pflichtverletzung erhält und wie schnell er seine Ansprüche durchsetzen kann. Dies wird häufig dazu führen, dass sich der durch die Versteuerung der Ersatzleistung ergebende Nachteil, der sich nach den persönlichen
+     Verhältnissen des Anlegers und seinen steuerrechtlichen Rahmenbedingungen
+     im Zeitpunkt der Erfüllung des Ersatzanspruchs richtet, nicht mit den eingetretenen Vorteilen übereinstimmen wird. Dem Geschädigten unter solchen Umständen die von der Rechtsprechung zugebilligten Erleichterungen zu nehmen,
+     hält der Senat für nicht gerechtfertigt.
+
+
+41          Dass nach Auffassung des Berufungsgerichts die Lebenserfahrung gegen eine allgemeine Steuerehrlichkeit spreche, ist ebenfalls kein Grund, von
+     dieser Rechtsprechung abzugehen. Sollte der Geschädigte von der gebotenen
+     Versteuerung der Ersatzleistung absehen, hat er dies persönlich zu verantworten; ein Anlass, den Schädiger von Rechts wegen an einem solchen rechtlich
+     missbilligten Vorteil zu beteiligen, ergibt sich hieraus nicht.
+
+
+42   3.     Von Rechtsfehlern beeinflusst ist auch die Auffassung des Berufungsgerichts, es bestünden außergewöhnliche Steuervorteile des Klägers im Sinne der
+     Rechtsprechung des Bundesgerichtshofs, die nicht unberücksichtigt bleiben
+     könnten.
+
+                                         - 31 -
+
+
+
+43         a) Zutreffend geht das Berufungsgericht allerdings davon aus, dass die
+     Erzielung günstiger steuerlicher Wirkungen mit der hier vermittelten Beteiligung
+     beabsichtigt wird. Insoweit kann man mit dem Berufungsgericht durchaus von
+     einem Steuersparmodell sprechen. Im Emissionsprospekt Teil B wird im Abschnitt "Steuerliche Angaben" an mehreren Stellen auf sofort abzugsfähige Betriebsausgaben hingewiesen, die für die Anlageentscheidung von besonderer
+     Bedeutung sein dürften. Im Ansatz bestehen daher keine Bedenken dagegen,
+     einen adäquaten Ursachenzusammenhang zwischen der durch eine mögliche
+     Pflichtverletzung der Beklagten beeinflussten Anlageentscheidung des Klägers
+     und den durch die Verlustzuweisungen ausgelösten Steuervorteilen anzunehmen. Dass die Endgültigkeit dieser Steuervorteile vom Kläger mit der Erwägung
+     in Frage gestellt wird, es drohe im Hinblick auf die von der Finanzverwaltung in
+     Zweifel gezogene Gewinnerzielungsabsicht der Beteiligungsgesellschaft eine
+     Überprüfung der Verlustzuweisungen, wäre zwar ein Gesichtspunkt, der die
+     Annahme außergewöhnlicher Steuervorteile von vornherein ausschlösse. Diesen rechtlichen Gesichtspunkt hat der Kläger jedoch zum Gegenstand eines
+     eigenen Feststellungsantrags gemacht, so dass es in dem hier zu erörternden
+     Zusammenhang nur um die Frage geht, inwieweit die Versteuerung der Ersatzleistung zu Nachteilen führt, die die Steuervorteile mindern oder dazu berechtigen, die Vorteile nach Maßgabe des § 287 ZPO ganz außer Betracht zu lassen.
+
+
+44         b) Ausgehend von der nicht ausdrücklich bestrittenen Behauptung der
+     Beklagten, der Kläger habe aufgrund einer Verlustzuweisung Steuervorteile von
+     60 % seiner Einlageleistungen erzielt, nimmt das Berufungsgericht an, es bestünden Anhaltspunkte für "außergewöhnliche Steuervorteile", die den Ersatzanspruch des Klägers beeinflussten; der Kläger habe selbst nicht behauptet,
+     dass dem ein auch nur annähernd vergleichbarer Nachteil bei der zukünftigen
+     Besteuerung der Ersatzleistung gegenüberstünde. Die Revision des Klägers
+
+                                         - 32 -
+
+
+
+     wendet hiergegen ein, dass die ursprünglichen Steuervorteile außergewöhnlich
+     hoch gewesen seien, könne nicht entscheidend dafür sein, dass der Geschädigte die Steuervorteile und Steuernachteile näher darlegen müsse; vielmehr
+     komme es darauf an, ob dem Geschädigten auf der Grundlage der - vom Schädiger darzulegenden - Umstände auch nach einer Anrechnung der aus der Ersatzleistung resultierenden Steuerlast außergewöhnliche Steuervorteile verblieben.
+
+
+45         Im Ansatz hat die Revision recht darin, dass der Schädiger die Darlegungs- und Beweislast für die Umstände trägt, aus denen sich eine Ausgleichung von Vorteilen ergibt, und dass nur außergewöhnliche Steuervorteile, die
+     nach Berücksichtigung der Steuerbarkeit der Ersatzleistung verbleiben, zu einer
+     Anrechnung führen (vgl. BGH, Urteile vom 9. Oktober 1989 - II ZR 257/88 - aaO; vom 30. November 2007 - V ZR 284/06 - NJW 2008, 649, 650 Rn. 13; vom
+     19. Juni 2008 - VII ZR 215/06 - NJW 2008, 2773, 2775 Rn. 13). Allerdings trifft
+     den Geschädigten eine sekundäre Darlegungslast, die auf dem Umstand beruht, dass allein er Zugang zu der Frage hat, welche Steuervorteile sich aus der
+     Beteiligung für ihn ergeben (vgl. BGH, Urteile vom 3. Dezember 2007 - II ZR
+     21/06 - aaO; vom 31. Mai 2010 - II ZR 30/09 - aaO S. 1526 f Rn. 26).
+
+
+46         Dieser sekundären Darlegungslast ist der Kläger in Bezug auf die steuerlichen Auswirkungen der Verlustzuweisungen nicht nachgekommen, so dass es
+     revisionsrechtlich nicht zu beanstanden ist, dass das Berufungsgericht die ursprünglich entstandenen Steuervorteile entsprechend der Behauptung der Beklagten mit 60 % seiner Einlageleistungen angenommen hat. Soweit es um die
+     steuerlichen Nachteile geht, die zu den genannten Vorteilen in Beziehung gesetzt werden müssten, hätte sich das Berufungsgericht aber nicht mit der Feststellung begnügen dürfen, insoweit habe der Kläger selbst nicht behauptet,
+
+                                          - 33 -
+
+
+
+     dass den erlangten Vorteilen auch nur annähernd vergleichbare Nachteile bei
+     der zukünftigen Besteuerung der Ersatzleistung gegenüberstünden. Denn auch
+     insoweit ist es zunächst Sache des Schädigers, entsprechende Behauptungen
+     aufzustellen, während seitens des Geschädigten lediglich eine sekundäre Darlegungslast im Raum steht (vgl. BGH, Urteil vom 31. Mai 2010 - II ZR 30/09 -
+     aaO).
+
+
+47   4.      Die Revision des Klägers führt daher zur Aufhebung des Berufungsurteils
+     auch insoweit, als es zum Nachteil des Klägers entschieden hat. Für die neue
+     Verhandlung und Entscheidung weist der Senat auf folgendes hin:
+
+
+48           a) Fraglos kann der Beklagten nicht abverlangt werden, nähere Einzelheiten zu den dem Kläger drohenden steuerlichen Nachteilen vorzutragen.
+     Aber auch hinsichtlich der sekundären Darlegungslast des Klägers dürfen keine
+     übertriebenen Anforderungen gestellt werden (ähnlich BGH, Urteil vom 31. Mai
+     2010 - II ZR 30/09 - aaO S. 1527 Rn. 31, das davon ausgeht, dem Anleger sei
+     ein konkreter Vortrag im Schadensersatzprozess nicht möglich). Insbesondere
+     ist er nicht verpflichtet, eine auf den Zeitpunkt der möglichen, noch nicht bekannten Ersatzleistung bezogene umfassende (fiktive) Steuerveranlagung zu
+     erstellen, die im Allgemeinen zu Anlass und Zweck eines wie hier betriebenen
+     Schadensersatzprozesses in keinem vertretbaren Verhältnis stünde. Es erscheint zudem rechtlich geboten, bei der Frage, in welchem Umfang der Geschädigte seine steuerlichen Verhältnisse darlegen muss, den Aspekt des
+     Steuergeheimnisses mit zu berücksichtigen. So dürfte es kaum zu vertreten
+     sein, dem Geschädigten Angaben über das steuerrechtlich erhebliche Einkommen seines Ehegatten abzuverlangen, wenn er mit diesem zusammen veranlagt wird. Es wäre auch - wegen des mangelnden Zusammenhangs mit dem
+     Schädigungstatbestand - kaum nachzuvollziehen, weshalb ein Geschädigter
+
+                                          - 34 -
+
+
+
+     sich dazu erklären sollte, ob ihm aufgrund seiner Vermögensdispositionen im
+     Zeitraum der Veranlagung einer möglichen Ersatzleistung steuerliche Tatbestände zugute kommen, mit denen ein drohender Nachteil der Ersatzleistung
+     vermieden werden könnte. Denn solche Dispositionen werden legitimerweise
+     zum eigenen Vorteil und nicht zur Entlastung des Schädigers vorgenommen
+     und stehen mit dem schädigenden Ereignis in keinem Zusammenhang.
+
+
+49         b) Nach dem revisionsrechtlich zu berücksichtigenden Vorbringen hält es
+     der Senat für möglich, dass der Anspruch des Klägers in ungeschmälerter Höhe
+     besteht. Das ergibt sich aus folgenden einzelnen Elementen.
+
+
+50         aa) Nach dem Vorbringen der Beklagten sind dem Kläger aus der Anlage
+     Verluste zugewiesen worden, die in ihrer Höhe zwar nicht näher festgestellt
+     worden sind, aber offenbar nicht über den Betrag seiner Einlageleistungen
+     (53. 685,65 €) hinausgehen. Seine steuerlich erlangten Vorteile beruhen daher
+     auf der Verrechnung dieser Verluste mit seinen sonstigen Einkünften. Die Ersatzleistung ist ebenfalls zu versteuern, sei es nach § 15 Abs. 1 Satz 1 Nr. 2
+     EStG, sei es nach § 16 Abs. 1 Satz 1 Nr. 2 EStG. Lässt man einstweilen die
+     Steuervorteile außer Betracht, handelt es sich um einen Betrag von
+     37.324,31 €. Die Differenz zur Einlageleistung in Höhe von 16.361,34 € entspricht dem Betrag der Ausschüttungen, die der Kläger ebenfalls nach § 15
+     Abs. 1 Satz 1 Nr. 2 EStG zu versteuern hat. Daraus ergibt sich als Zwischenergebnis, dass der Betrag der Einlageleistungen Grundlage sowohl der steuerlichen Vorteile als auch der aus der Beteiligung resultierenden Nachteile ist.
+
+                                         - 35 -
+
+
+
+51         bb) Betrachtet man die möglichen Ursachen für eine unterschiedliche
+     Höhe von Vorteilen und Nachteilen im Einzelnen, ergibt sich folgendes:
+
+
+52         (1) Ist in der vom Kläger mit dem Erhalt der Ersatzleistung wegen des
+     Grundsatzes der Vorteilsausgleichung verknüpften Zug um Zug-Übertragung
+     (vgl. hierzu Senatsurteil vom 15. Januar 2009 - III ZR 28/08 - NJW-RR 2009,
+     603, 604 Rn. 14) der Beteiligung eine Veräußerung im Sinne des § 16 Abs. 1
+     Satz 1 Nr. 2 EStG zu sehen, könnten sich für den Kläger im Hinblick auf die
+     nach § 34 Abs. 1, Abs. 2 Nr. 1 EStG vorgesehene Tarifermäßigung steuerliche
+     Nachteile ergeben, die hinter den von ihm erlangten Vorteilen zurückbleiben.
+     Zwar hat der Senat für einen Immobilienfonds, der Einkünfte aus Vermietung
+     und Verpachtung erzielt, entschieden, die mit der Schadensersatzklage im Erfolgsfall verbundene Übertragung der Gesellschaftsanteile sei kein Veräußerungsgeschäft im Sinne des § 23 Abs. 1 Satz 1 Nr. 1 EStG, was der Bundesfinanzhof nachfolgend ebenso gesehen hat (vgl. Senatsurteil vom 17. November
+     2005 - III ZR 350/04 - aaO S. 501 Rn. 16; BFHE 214, 267, 269). Dennoch wäre
+     eine Anwendung des § 16 Abs. 1 Satz 1 Nr. 2 EStG in Betracht zu ziehen, da
+     das Einkommensteuergesetz den Begriff der Veräußerung an mehreren Stellen
+     verwendet, ohne dass er einheitlich ausgelegt würde (vgl. BFHE aaO S. 269 f).
+     Die Frage bedarf indes in diesem Zusammenhang keiner abschließenden Beantwortung durch die Zivilgerichte, weil der Bundesgerichtshof schon zur früheren Fassung des durch § 34 Abs. 2 EStG in Bezug genommenen § 34 Abs. 1
+     EStG, die eine vergleichbare Tarifermäßigung kannte, entschieden hat, sie dürfe den Schädiger nicht entlasten, weil sie sonst nicht dem Geschädigten zugute
+     käme, dem die Steuervergünstigung aus einem besonderen Anlass gewährt
+     worden sei (vgl. BGH, Urteile vom 22. März 1979 - VII ZR 259/77 - aaO S. 114,
+     116; vom 26. Februar 1980 - VI ZR 2/79 - NJW 1980, 1788, 1789; vom 27. Juni
+     1984 - IVa ZR 231/82 - aaO; vom 12. Februar 1986 - IVa ZR 76/84 - aaO; vom
+
+                                         - 36 -
+
+
+
+     11. Mai 1989 - VII ZR 12/88 - NJW-RR 1989, 1102, 1103 f; Senatsurteil vom
+     14. Januar 1993 - III ZR 33/92 - NJW 1993, 1643; vom 22. März 1994 - VI ZR
+     163/93 - WM 1994, 1218, 1219). Für die Tarifermäßigung nach § 34 Abs. 3
+     EStG, die ein Steuerpflichtiger nach seiner Wahl einmal in seinem Leben unter
+     den dort bestimmten Voraussetzungen in Anspruch nehmen kann, gilt nichts
+     anderes.
+
+
+53         (2) Soweit sich - worauf die Revisionserwiderung der Beklagten aufmerksam macht - bleibende Vorteile des Geschädigten daraus ergeben könnten,
+     dass die (Spitzen-)Steuersätze zwischen dem Zeitpunkt der Realisierung der
+     Steuervorteile und dem der Versteuerung der Ersatzleistung allgemein abgesenkt worden sind, hält der Senat eine Berücksichtigung dieses Umstands unter
+     dem Gesichtspunkt "außergewöhnlicher Steuervorteile" ebenfalls nicht für schadensersatzrechtlich geboten (ebenso BGH, Urteil vom 31. Mai 2010 - II ZR
+     30/09 - aaO Rn. 29-31). Zwar scheint dem der Grundsatz entgegenzustehen,
+     der Geschädigte dürfe durch die Ersatzleistung nicht besser gestellt werden als
+     ohne die Schädigung. Andererseits ist zu bedenken, dass eine Berücksichtigung dieses Umstands zu einer erheblichen Erschwerung der Durchsetzung
+     des Schadensersatzanspruchs führen würde. Der Geschädigte wäre gehalten,
+     aus Anlass der Durchsetzung seines Anspruchs aufwändige Berechnungen
+     vorzunehmen oder vornehmen zu lassen und Einblicke in seine persönlichen
+     Verhältnisse zu ermöglichen, die den Schädiger nichts angehen (vgl. oben 4 a).
+     Vor allem aber ist nicht einzusehen, warum die Vorteile einer allgemeinen Absenkung des Steuersatzes, die nach dem Willen des Gesetzgebers allen Steuerpflichtigen - jenseits des zu beurteilenden Schadensfalls - gleichermaßen zugute kommen sollen, einem geschädigten Anleger zu Gunsten des Schädigers
+     (teilweise) wieder genommen werden sollen.
+
+                                        - 37 -
+
+
+
+54         (3) Beruht schließlich ein mögliches Zurückbleiben der Steuernachteile
+     auf einer Verschlechterung der Einkommenssituation des Geschädigten, sind
+     auch dies Umstände, die keinen inneren Bezug zu der in Rede stehenden
+     Schädigungshandlung aufweisen und nicht zu außergewöhnlichen Steuervorteilen führen.
+
+
+55         cc) Sind daher außergewöhnliche Steuervorteile in Fällen, in denen der
+     Geschädigte im Ausgangspunkt dieselben Beträge zu versteuern hat, auf deren
+     Grundlage er Steuervorteile erlangt hat, zu verneinen, ist eine nähere Prüfung
+     und Berechnung unter diesem Gesichtspunkt nur dann veranlasst, wenn der
+     Geschädigte Verlustzuweisungen erhalten hat, die über seine Einlageleistungen
+     hinausgehen (vgl. zu einer solchen Fallgestaltung BGH, Urteile vom 27. Juni
+     1984 - IVa ZR 231/82 - NJW 1984, 2524 f und vom 12. Februar 1986 - IVa ZR
+     76/84 - NJW-RR 1986, 1102, 1104). Mit Rücksicht darauf, dass der Steuergesetzgeber die Möglichkeiten der Verrechnung von Verlusten begrenzt hat und
+     damit mittelbar einer Entstehung außergewöhnlicher Steuervorteile entgegenwirkt, sieht der Senat für den vom Berufungsgericht angestrebten Para-
+
+                                   - 38 -
+
+
+
+digmenwechsel einer seit Jahren bestehenden höchstrichterlichen Rechtsprechung auch kein praktisches Bedürfnis.
+
+
+Schlick                             Dörr                        Herrmann
+
+
+                 Hucke                          Tombrink
+
+
+
+
+Vorinstanzen:
+LG München I, Entscheidung vom 26.03.2007 - 15 O 11280/06 -
+OLG München, Entscheidung vom 07.02.2008 - 19 U 3041/07 -
