@@ -1,8 +1,8 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2010-03-22 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung_22032010.pdf
+- Datum: 2010-07-19 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung-19072010.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
 
-in der Fassung der 4. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 22. März 2010
+in der Fassung der 5. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 19. Juli 2010
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
@@ -105,9 +105,9 @@ j) die Funktionen in Vereinen oder vergleichbaren Gremien.
 (2) Die Geschäftsordnung regelt auch das Verfahren der Unterrichtung des Rates nach § 113 Abs. 5 GO.
 (3) Die Geschäftsordnung kann durch einfachen Mehrheitsbeschluss des Rates geändert werden.
 §8 Öffentliche Bekanntmachungen (§ 7 Abs. 4, § 48 Abs. 1, § 52 Abs. 3 GO; BekanntmachungsVO)
-(1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden im "Amtsblatt der Stadt Köln" vollzogen. Sonderregelungen des Bundes-, des Landes- oder darauf beruhenden Kölner Ortsrechts bleiben
+(1) Öffentliche Bekanntmachungen der Stadt Köln, die durch Rechtsvorschrift vorgeschrieben sind, werden im "Amtsblatt der Stadt Köln" vollzogen. Sonderregelungen des Bundes-, Landes- oder darauf beruhenden Kölner Ortsrechts
 
-unberührt. Die Oberbürgermeisterin/der Oberbürgermeister macht zusätzlich Zeit und Sitzungsort der Ratssitzung spätestens drei Werktage vorher in folgenden auf Stadtebene erscheinenden Tageszeitungen öffentlich bekannt: "Kölnische Rundschau" und "Kölner Stadt-Anzeiger". Dabei ist darauf hinzuweisen, dass die Tagesordnung der Ratssitzung im „Amtsblatt der Stadt Köln“ öffentlich bekannt gemacht wird und bei welcher städtischen Dienststelle das „Amtsblatt der Stadt Köln“ einsehbar ist.
+bleiben unberührt. Die Oberbürgermeisterin/der Oberbürgermeister macht zusätzlich Zeit und Sitzungsort der Ratssitzung spätestens drei Werktage vorher in der, auf Stadtebene erscheinenden, Wochenzeitung „Kölner Wochenspiegel“ öffentlich bekannt. Dabei ist darauf hinzuweisen, dass die Tagesordnung der Ratssitzung im „Amtsblatt der Stadt Köln“ öffentlich bekannt gemacht wird und bei welcher städtischen Dienststelle das „Amtsblatt der Stadt Köln“ einsehbar ist.
 (2) Sind öffentliche Bekanntmachungen in der durch Absatz 1 Satz 1 festgelegten Form infolge höherer Gewalt oder sonstiger unabwendbarer Ereignisse nicht möglich, so genügt die Bekanntmachung durch einen Aushang im Erdgeschoss des städtischen Dienstgebäudes Laurenzplatz 1-3 bis zur späteren nachrichtlichen Bekanntmachung im Amtsblatt.
 §9 Zuständigkeitsordnung (§ 41 Absätze 2 und 3 GO)
 Die auf Fachausschüsse oder die Oberbürgermeisterin/den Oberbürgermeister übertragenen Entscheidungsbefugnisse sowie deren Abgrenzung zu den Zuständigkeiten der Bezirksvertretungen legt der Rat in einer Zuständigkeitsordnung fest.
@@ -311,6 +311,6 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514 -
 
 Anlage zu § 1 der Hauptsatzung der Stadt Köln
