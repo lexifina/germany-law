@@ -1,0 +1,113 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-07-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1805206
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1805206
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Vorstellung der Sanierung des St.-Anna-Platzes
+- TOP .2.: Vorstellung des Bauvorhabens Lerchenfeldstraße 4 - 6
+- TOP .1.: Planungen und Nutzungskonzept des Diskothek ?P1? - Einladung der Architekten in den UA Planen, Bauen, Wohnen vom 12. Juli 2010
+- TOP .2.: Schreiben des Vorsitzenden an das Kommunalreferat zum stadteigenen Gebäude Stollbergstraße 1 / Herrnstraße 36
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Steinsdorfstraße 15: Neubau eines Dachgeschosses mit zwei Wohneinheiten und einer Überdachung des Tiefhofs (Tektur)
+- TOP .2.: Theatinerstraße 38: Ladenausbau mit Nutzungsänderung, Umgestaltung der Fassade im EG und 1. OG
+- TOP .3.: Liebigstraße 26: Sanierung eines Wohngebäudes
+- TOP .4.: Rumfordstraße 31: Umbau und Nutzungsänderung
+- TOP .5.: Adelgundenstraße 5a: Anhebung eines Dachstuhls
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Feinkost im Lehel?, Thierschstraße 31: Genehmigung einer Freischankfläche
+- TOP .2.: Kiosk Polianthos, Pfarrstraße 16: Genehmigung einer Freischankfläche
+- TOP .3.: ?Pietra Piccina?, Maximilianplatz 12: Erweiterung einer bestehenden Freischank-fläche
+- TOP .4.: Maffeistraße 7: Umbau, Renovierung und Nutzungsänderung
+- TOP .5.: ?Due Passi?, Ledererstraße 11: Genehmigung einer Freischankfläche
+- TOP .6.: ?Phong Phu Asien Imbiss?, An der Feuerwache 12: Erweiterung einer bestehenden Freischankfläche
+- TOP .7.: ?Galleria?, Ledererstraße 2: Erweiterung einer bestehenden Freischankfläche
+- TOP .8.: ?Cafe Fräulein?, Frauenstraße 11: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Seitzstraße 15: Aufstellung neuer Verkaufseinrichtungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Französischer Gourmetmarkt vom 06. - 09.10.2010 auf dem Rindermarkt
+- TOP .2.: Info-Veranstaltung der DLRG am 04.12.2010 am Richard-Strauss-Brunnen
+- TOP .3.: Kirchenzug zum Münchner Gärtnerjahrtag in der Innenstadt
+- TOP .4.: Isarinselfest 2010 vom 03.09. - 05.09.2010
+- TOP .1.: Christbaumsammlung im Winter 2010/2011 ? Unterstützung bei der Suche nach Christbaum- Sammelplätzen
+- TOP .1.: Stellungnahme des BA zum Stadtratsbeschluss die Entwicklung des 'Tals' zu verschieben
+- TOP .1.: Bürger: Gewerbliches Abstellen von Fahrrädern auf öffentlichem Grund
+- TOP .2.: Bürger: Hubschrauberflüge über dem Lehel
+- TOP .3.: Bürger: Geschwindigkeitsüberwachung des Radverkehrs Residenzstraße und Marienstraße
+- TOP .4.: UA: Vorschläge ?Mit Herz & Rampen?
+- TOP .5.: Bürger: Tempo 30 auf dem Straßenbelag der Liebigstraße aufzeichnen
+- TOP .1.: Standortgenehmigung eines Parkscheinautomaten Unsöldstraße 12
+- TOP .1.: Baumfällung: Widenmayerstraße 43, zwei Ahorne
+- TOP .2.: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung
+- TOP .3.: Lichtzeichenanlage Oettingen-/Tivolistraße
+- TOP .4.: Lichtzeichenanlage Königin-/Von-der-Tann-Straße
+- TOP .1.: Elternbeirat Grundschule an der Herrnstraße zur Entwicklung der Schule
+- TOP .4.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP .1.: Termine für die BA-Sitzungen 2011
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschlussvorlage gemeinsamer Ausschuss BR, PR und KVR vom 30.06.2010 (verschiedenen Themen)
+- TOP 0.2.: Beschluss des Planungsausschusses vom 07.07.2010: Landesentwicklungsplanung
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Freistellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antwortschreiben zur Augustinerstr. 1, TOP 2009.12 B 3.1.3
+- TOP 0.5.: VG-Urteil Brunnstr. 1: Dachgeschossumbau
+- TOP 0.6.: Antwortschreiben des Planungsreferats zur Damenstiftstraße 11, TOP 2010.05 B 2.1
+- TOP 0.7.: Antwortschreiben zum BA-Antrag Nr. 2059: Vater-Rhein-Brunnen unter Denkmalschutz, TOP 2010.04 B 1.1
+- TOP 0.8.: Antwortschreiben zur Augustinerstraße 1, TOP 2009.12 B 3.1.2
+- TOP 0.9.: Beschluss des Planungsausschusses vom 07.07.2010: 40. städtischer Fassaden-wettbewerb: Fassadenpreise und Lobende Erwähnungen 2009
+- TOP 0.10.: Beschluss des Planungsausschusses vom 07.07.2010: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 0.11.: Beschluss des Bauausschusses am 06.07.2010: Neues Konzept für den Platz der Opfer des Nationalsozialismus?, TOP 2010.06 B 0.1
+- TOP 0.12.: Schreiben der LBK: Vorbescheid an Cafe Nymphenburg erteilt, Fristverlängerung konnte nicht gewährt werden, TOP 2010.06 B 3.1.8
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Fortführung der Gaststätte ?Reitmor 3?, Reitmorstr. 3
+- TOP 0.5.: Eilentscheidung vom 18.06.2010: UniCredit Festspiel-Nacht 2010
+- TOP 0.6.: Eilentscheidung vom 18.06.2010: ?Narrenschiffe? im Rahmen der Opernfestspiele
+- TOP 0.7.: Eilentscheidung vom 21.06.2010: Candidate City am 22.06.2010 auf dem Marienplatz
+- TOP 0.8.: Eilentscheidung vom 22.06.2010: Klassik auf dem Odeonsplatz, Probe
+- TOP 0.9.: Eilentscheidung vom 22.06.2010: Sommerfest des P1 am 20.07.2010
+- TOP 0.10.: Eilentscheidung vom 22.06.2010: Gautschfeier der Buchbinder Innung am 23.07.2010 auf dem Marienplatz: Zustimmung mit der Forderung um Verlegung auf einen anderen Platz
+- TOP 0.11.: Antwortschreiben zur Abfallentsorgung am Isartorplatz, TOP 2010.04 C 1.1
+- TOP 0.12.: Eilentscheidung vom 30.06.2010: miniSANITÄTER e.V. am 27.07.2010 auf dem Marienplatz: Zustimmung mit der Forderung um Verlegung auf einen anderen Platz
+- TOP 0.13.: Eilentscheidung vom 30.06.2010: Straßenfest 'Am Einlaß' am 25.09.2010
+- TOP 0.14.: Entscheidung über die Erteilung einer Sondernutzungenserlaubnis für einen Fahrradständer im Tal 22 wird an den Oberbürgermeister zurückgegeben zu TOP 2010.06 C 2.2.3
+- TOP 0.15.: Schreiben der BI zu den vorläufigen Beschlüssen aus der Sitzung vom 15.06.2010
+- TOP 0.16.: Unveränderte Fortführung der Gaststätte ?Marktklause?, Frauenstraße 20
+- TOP 0.17.: Eilentscheidung vom 08.07.2010: Culture Cup 2010 vom 23.07. - 25.07. auf dem Odeonsplatz
+- TOP 0.18.: Antwortschreiben des KVR zur Überprüfung des Datenschutz bei Veranstaltungen auf öffentlichem Verkehrsgrund (National Kidney Foundation), TOP 2010.05 A 6.2
+- TOP 0.1.: Bauvorhaben Westenriederstraße zwischen Tal und Zwingerstraße
+- TOP 0.2.: Antwortschreiben zur Baumfällung Adelgundenstr. 18, TOP 2009.12 D 4.2
+- TOP 0.3.: Verkehrsrechtliche Anordnung Maximilianstr./Tierschstr.
+- TOP 0.4.: Antwortschreiben zum BA-Antrag Nr. 899: Prüfung zweier Vorschläge für neue Zweirichtungs-Radverkehrsverbindungen
+- TOP 0.5.: Beschluss des Planungsausschusses vom 07.07.2010: Änderung der Bayerischen Bauordnung: Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen
+- TOP 0.6.: Sicherheitsnachrüstung Altstadtringtunnel
+- TOP 0.7.: Augustinerstraße: Arbeiten im Straßenraum
+- TOP 0.8.: Fahrradstellplatzkonzept
+- TOP 0.9.: Beschluss des Planungsausschusses vom 07.07.2010: Sendlinger Straße als Fußgängerzone, zu TOP 2010.05 D 2.1; siehe auch Ergänzung
+- TOP 0.10.: Beschluss des Bauausschuss vom 06.07.2010: Barrierefreier Ausbau von Fußgänger-unterführungen und -brücken
+- TOP 0.11.: MVG-Information zur Sanierung der Grundwasserhaltung im U-Bahnhof Hauptbahnhof
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.2010: Tageseinrichtungen, Tagespflege
+- TOP 0.3.: Verwendungsnachweis Verein zur Förderung des Wilhelmgymnasiums: Testschrift zum Schuljubiläum, TOP 2009.11 E 2.1
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
