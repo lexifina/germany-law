@@ -1,0 +1,108 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-07-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1865044
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1865044
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Wettersteinplatz - Lärmbelästigungen durch die Grünwalder Straße und Geschwindigkeitsüberschreitungen in der Tempo-30-Zone; Bürgerschreiben vom 11.06.2010
+- TOP 2.2.: Verkehrsprobleme Bereich Konradinstraße / Agilolfingerstraße; Bürgerschreiben vom 11.06.2010 - <div>in den UA Verkehr verwiesen</div>
+- TOP 2.3.: Luxussanierungen; Bürgerschreiben vom 28.06.2010 - <div>Weiterleitung an den Mieterbeirat durch Herrn Babor</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Spielprogramm beim Zirkusfest vom 24.08. -04.09.2010; Antragssumme: 4.000,00 ?; Beschlussvorlage des Direktoriums vom 09.06.10 - <div>nach Antrag</div>
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Ortstermin Humboldtstraße- Vorschläge zur Lösung der Rückstauproblematik Humboldtstraße Ecke Claude- Lorrain-Straße; Antrag der SPD- Fraktion vom 30.05.2010 (verwiesen aus der Sitzung vom 15.06.10; Ortstermin vom 12.07.10) - <div>abgelehnt</div>
+- TOP 3.2.: Ampelanlage Naupliastraße / Akeleistraße; Verlängerung der Ampelphasen für Fußgänger - <div>nach Antrag</div>
+- TOP 3.3.: Beschleunigung der Baustelle unterhalb der S-Bahnunterführung in der Geiselgasteigstraße, insbesondere Anordnung von Arbeiten abends und an Samstagen, Sonn- und Feiertagen; Antrag der CSU Fraktion im BA 18 vom 20.07.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Zebrastreifen über die Säbener Straße; Bürgeranliegen aus der Sitzung vom 20.04.2010; bauliche Veränderungen in Form von vorgezogenen Aufstellflächen; Antwortschreiben des Baureferats-Tiefbau vom 17.06.10 (positive Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Geiselgasteigstraße 132 - versperrte Zufahrt durch Dauerparker; Bürgeranliegen aus der Sitzung vom 23.03.2010; Antwortschreiben des KVR vom 11.06.2010 (negative Erledigung)
+- TOP 3.3.: Zufahrt- und Parksituation Grünwalderstraße 177/177a; Bürgeranliegen aus der Sitzung vom 20.04.10; Antwortschreiben des KVR vom 09.06.10 (negative Erledigung) - <div>Weiterleitung an das Baureferat</div>
+- TOP 3.4.: Kurzparkzonen in der Naupliastraße 1) vor der Apotheke (Säbener Straße 170 Seite Naupliastraße) 2) vor der Bäckerei (Naupliastraße 6) verkehrsrechtliche Anordnung nach § 45 StVO; MItteilung des KVR vom 27.05.10 (positive Erledigung)
+- TOP 3.5.: Anpassung der Lichtsignalanlage "Pilgersheimer Straße / Winterstraße" an die Belange der Fahrgäste der Buslinie 52; Antrag Nr. 08-14 / B 02038 des BA 18 vom 20.04.2010: Antwortschreiben des KVR vom 28.06.10 (positive Erledigung) - <div>zur Kenntnis genommen</div>
+- TOP 3.6.: Wiederherstellung Gehweg zwischen Tegernseer Landstraße und Gozbertstraße (vor dem Gebäude REWE/Tegernseer Landstraße und Gozbertstraße 3); BA-Antrags-Nr. 08-14 / B 02037 des BA 18 vom 20.04.10; Antwortschreiben des Baureferats-Tiefbau vom 24.06.10 (positive Erledigung) - <div>zur Kenntnis genommen </div>
+- TOP 3.1.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken; Sitzungsvorlage Nr. 08-14 / V 01925; Beschluss des Bauausschusses vom 06.07.2010 (SB)
+- TOP 3.2.: Sanierung Grundwasserhaltung im U-Bahnhof Hauptbahnhof; geänderte Betriebsdurchführung der U1; Mitteilung der MVG mbH vom 01.07.2010
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Einzäunung am Spazierweg der Hochleite; Verschönerung des Spazierwegs an der Harlachinger Straße; Bürgeranliegen aus der Sitzung vom 18.05.2010; Zwischennachricht des Baureferats-Gartenbau vom 18.06.2010
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Harthauser Str.; Mitteilung vom 31.05.10 3.3.6.1.2 Anwesen Reichenhaller Str.; Bescheid vom 09.06.10 3.3.6.1.3 Anwesen Meraner Str.; Bescheid vom 21.06.2010 3.3.6.1.4 Anwesen Widdersteinstraße; Bescheid vom 23.06.2010 - <div>zur Kenntnis genommen</div>
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Investitionskostenförderung gem. der Richtlinien zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Kinderkrippe Kühbachstraße 7 (Zwergerlhaus e.V.) mit 48 Kinderkrippenplätzen; Umbau; Sitzungsvorlage Nr. 08-14 / V 04245; Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.2010 (SB) - <div>zur Kenntnis genommen</div>
+- TOP 3.2.: Investitionskostenförderung gem. der Richtlinien zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Kinderkrippe Agilolfingerstraße 23 (Mori Mu Kinderkrippe GmbH) mit 24 Kinderkrippenplätzen; Ankauf und Umbau; Sitzungsvorlage Nr. 08-14 / V 04248; Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.2010 (SB)
+- TOP 3.3.: Umsetzung des Teilplan 4; Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive - Sitzungsvorlage Nr. 08-14 / V 03539; Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.2010
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Situierung der GBW-Wohnungen im 18. Stadtbezirk; Antrag der Fraktion Bündnis 90/Die Grünen vom 05.07.2010 - <div>nach Antrag</div>
+- TOP 3.2.: Vereinbarungen im Rahmen der Erhaltungssatzung; Antrag der Fraktion Bündnis90/Die Grünen vom 05.07.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Anhörung gem. § 9 der Satzung für die Bezirksausschüsse; Projektname: Hans-Mielich-Platz - Neugestaltung; Projekt-Nr. 100416; Zuleitung des Baureferats-Tiefbau vom 22.06.2010 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.2.: Wunderhornstraße; Fl.Nr. 12842/58, Gemarkung Sektion VII; Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadtplanung u. Bauordnung Katalog-Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG); hier: Neuaufnahme eines Einzelbaudenkmals; Az.: 8.16-2010-13100-6D; Zuleitung des Planungsreferats mit der Bitte um Stellungnahme bis 01.08.2010
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Harthauser Str.; Neubau einer Wohnanlage (12 WE) mit Tiefgarage
+- TOP 3.2.: Anwesen Mondstraße; Dachsanierung und DG-Ausbau
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Kiosk an der Schönstraße / Tierparkstraße; Anfrage des BA 18 aus der Sitzung vom 20.04.2010; Antwortschreiben des KVR vom 23.06.10 (neutrale Erledigung)
+- TOP 3.2.: a) Denkmalschutz im Schwimmbadviertel (Untergiesing); BA-Antrags-Nr. 08-14 / B 01987 des BA 18 vom 23.03.10 b) Denkmalschutz im Schwimmbadviertel (Untergiesing) II; BA-Antrags-Nr. 08-14 / B 02039 des BA 18 vom 20.04.10; Antwortschreiben der Unteren Denkmalschutzbehörde vom 30.06.10 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten; Sitzungsvorlagen Nr. 08-14 / V 04578; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 (VB)
+- TOP 3.3.: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten; Schulen); Sitzungsvorlage Nr. 08-14 / V 04539; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Krämer'sche Kunstmühle; Vorstellung des Geländes; Schreiben der Visionworks GbR vom 01.07.2010
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Nutzung des Stadions an der Grünwalder Straße; Antrag der Fraktion Bündnis 90/Die Grünen vom 05.07.2010 - <div>nach Antrag</div>
+- TOP 3.1.: Grünanlage Oberbiberger Straße neben Münchner Kindl Heim, Kinderaktionen vom 24.08.10 bis 04.09.10 und Familienfest am 28.08.10; Zuleitung des KVR vom 21.06.10 mit der Bitte um Stellungnahme bis 23.07.10 - <div>Zustimmung</div>
+- TOP 3.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Anhörung Straßenfest auf dem Mangfallplatz am 31.07.2010 (Ersatztermin 01.08.2010); Zuleitung des KVR vom 24.05.2010 mit der Bitte um Stellungnahme bis 14.07.10 (Fristverlängerung bis 21.07.10) - <div>Zustimmung</div>
+- TOP 3.3.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten; Ziffern 1 und 2 des Änderungsantrags der SPD-Stadtratsfraktion u. der Fraktion Bündnis 90 / DIe Grünen / Rosa Liste vom 28.11.07; Sitzungsvorlage Nr. 08-14 / V 04023; Beschluss des Verwaltungs- u. Personalausschusses vom 12.05.10 (VB); Zuleitung des Direktoriums vom 29.06.10 mit der Bitte um Stellungnahme zur Beschlussvorlage bis 12.08.10 - <div>nach Antrag</div>
+- TOP 3.4.: Münchner Wochenmärkte - Untergiesing - Hans-Mielich-Platz; Antrag der Händler auf Verlängerung der Marktzeit; Schreiben der Markthallen München vom 30.06.10 mit der Bitte um Stellungnahme
+- TOP 3.1.: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste; Keine Errichtung einer weiteren Auer Herberge für kulturelle Zwecke im Stadtbezirk 5 (früherer Stadtbezirk 16), Au-Haidhausen; Errichtung einer Herberge auf dem Grundstück Fl.Nr. 14709 zur stadtteilbezogenen, kulturellen Nutzung; Empfehlung Nr. 16/9 der Bürgerversammlung des 16. Stadtbezirkes Au am 08.10.1985; Bereitstellung einer Auer Herberge für kulturelle Zwecke; Empfehlung Nr. 16/10 der Bürgerversammlung des 16. Stadtbezirkes Au am 14.11.1984; Sitzungsvorlage Nr. 08-14 / V 04495; Beschluss des Kulturausschusses vom 08.07.2010 (SB)
+- TOP 3.2.: Stärkung der Stadtteilkultur; Erfahrungsbericht - Bekanntgabe; Sitzungsvorlage Nr. 08-14 / V 04481; Bekanntgabe in der Sitzung des Kulturausschusses vom 08.07.2010
+- TOP 3.3.: Reinigung des sog. "Perathoner-Steins" im Kuntersweg voraussichtlich im August 2010; Schreiben des Baureferats- Gartenbau vom 06.07.2010
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Transparenz auch auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen; BA-Antrags-Nr. 08-14 / B 01378 des BA 15 vom 30.07.09; Protokolle der BA-Sitzungen des BA 22 im RIS veröffentlichen; BA-Antrags-Nr. 08-14 / B 01400 des BA 22 vom 19.08.09; Schreiben des Direktoriums vom 16.06.10 mit der Bitte um Stellungnahme bis 20.07.2010
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Wechsel bei der Zuständigkeit der BA-Geschäftsstellen für die Betreuung des Bezirksausschusses 5 - Au-Haidhausen; Schreiben des Direktoriums vom 23.06.2010
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
