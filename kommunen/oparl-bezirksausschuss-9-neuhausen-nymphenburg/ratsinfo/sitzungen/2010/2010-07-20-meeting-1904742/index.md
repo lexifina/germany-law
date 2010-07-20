@@ -1,0 +1,155 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-07-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904742
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904742
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 1.1.: Vorstellung des kommunalen Bauprojekts Orffstr. 56 durch das Wohnungsamt
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.3.1.: (E) Budget der Bezirksausschüsse Verein für Sozialrarbeit e.V., Bewohnertreff Arnulfpark Sommerfest am 31.07.2010 - <div></div>
+- TOP 2.3.2.: Antrag Initiative "Kultüren 8" (Az.: 07/10 - 3.5.1): Zuschuss in Höhe von 3.054 ? für Kultüren 8 am 23./24.04.2010
+- TOP 2.3.3.: (E) Budget der Bezirksausschüsse Faschingsclub München-Neuhausen e.V. Fasching 2010/2011 - <div></div>
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.1: Unterausschuss für Verkehr
+- TOP 3.1.1.: Bürgeranliegen: Straßenzustand Winfriedstr. 9
+- TOP 3.1.2.: FC Teutonia: Zufahrt Sportgelände
+- TOP 3.1.3.: Geschichtswerkstatt Neuhausen e.V.: Erklärungsschilder für Straßennamen
+- TOP 3.1.4.: Antrag DaCG: Überprüfung der Lautsprecheranlagen an den Haltestellen der Tram 16/17 in der Arnulfstraße und Menzinger Straße
+- TOP 3.1.5.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Donnersbergerstr. 45
+- TOP 3.1.6.: KVR: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Nibelungenstr. 14
+- TOP 3.1.7.: KVR: Verkehrsrechtliche Anordnung für Arbeiten im Straßenraum Nibelungenstraße zwischen Gudrun- und Winthirstraße vom 08.06.-07.07.10
+- TOP 3.1.8.: Baureferat: Instandsetzungsarbeiten Donnersbergerbrücke von Mitte Juli bis Ende September 2010
+- TOP 3.1.9.: Baumaßnahmen der Stadtwerke: a) Fernwärmeprojekt Gabrielenstraße b) Fernwärmeprojekt Klugstraße
+- TOP 3.1.10.: Baureferat: Bürgeranliegen Gehweg zwischen Ferdinand-Maria-Straße und Arnulfstraße (Schreiben BA 9 vom 20.04.10)
+- TOP 3.1.11.: Oberbürgermeister Ude: Kein Google Street View
+- TOP 3.1.12.: Bürgeranliegen: Park- und Haltezone Ecke Hirschgartenallee / Romanstraße (Wiedervorlage aus der Sitzung 15.06.2010) / Ergebnis Ortstermin 08.07.10
+- TOP 3.1.14.: Baureferat: Umlaufsperren in Grünanlagen (Schreiben BA 9 vom 19.02.10)
+- TOP 3.1.15.: Tram Westtangente:
+- TOP 3.1.16.: Bürgeranliegen: Schließung der Haltestelle Kemnatenstraße
+- TOP 3.1.17.: MVG: Fahrgastzählungen Öffentlicher Nahverkehr 2009
+- TOP 3.1.18.: MVG: Werkstatt I "Erkunden und Ideen entwickeln" am 14.06.10
+- TOP 3.1.19.: MVG-Information für die Medien
+- TOP 3.1.20.: Bayer. Schlösserverwaltung: Ausbesserung des Übergangs über den Biedersteiner Kanal am Nördlichen Schlossrondell vor Hausnr. 6 (Antrag BA 9 vom 17.11.09)
+- TOP 3.1.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Autobahnring A 99 München-Süd, Sachstandsbericht über Abschluss der Machbarkeitsstudie der Autobahndirektion Südbayern (u.a. Empfehlung Nr. 973 der Bürgerversammlung vom 22.11.2007) - Fristablauf -
+- TOP 3.1.23.: KVR: Ampelschaltung Dom-Pedro-Straße / Raglovichstraße
+- TOP 3.1.24.: Bürgeranliegen (2 x): Lärmbelästigung durch die Buslinie 168 in Nymphenburg Süd
+- TOP 3.1.25.: Baureferat: Kreuzungsumbau Allacher Straße / Wintrichring
+- TOP 3.1.26.: Bürgeranliegen: Begrünung der Klarastraße
+- TOP 3.1.27.: KVR: Verlängerung des Haltverbots In den Kirschen Nordseite
+- TOP 3.1.28.: Planungsreferat: Verkehrsüberwachung Parklizenzgebiete Neuhausen (Schreiben BA vom 20.04.2010, Wiedervorlage aus der Sitzung vom 15.06.10)
+- TOP 3.1.29.: KVR: Parkraummanagement Albrechtstraße; Änderung der Parkregelung an der Landshuter Allee, kostenloses Parken statt Mischparken (Schreiben BA 9 vom 26.11.09)
+- TOP 3.1.30.: KVR: Kurzparkzone Arnulfstr. 83-85
+- TOP 3.1.31.: Radweg Rotkreuzplatz
+- TOP 3.1.32.: Planungsreferat: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung
+- TOP 3.1.33.: KVR: Einrichtung einer Ladezone in der Erika-Mann-Straße, Errichtung absoluter Haltverbote im Bereich des Wendehammers in der Erika-Mann-Straße (Schreiben BA 9 vom 18.05.10)
+- TOP 3.1.34.: Beschluss des Bauausschusses vom 15.06.10: Zentrale Bahnflächen München, Hauptbahnhof-Laim-Pasing; Herstellung der öffentlichen Verkehrsflächen im Umgriff des Bebauungsplanes mit Grünordnung Nr. 1926 a Birketweg
+- TOP 3.2: Unterausschuss für Bau und Planung
+- TOP 3.2.1.: Bautennachweise vom 24.05.-30.05., 31.05.-06.06., 07.06.-13.06., 14.06.-20.06., 21.06.-27.06. und 28.06.-04.07.10
+- TOP 3.2.2.: Kommunalreferat: Verkauf einer städtischen Immobilie, hier: Gaßnerstraße
+- TOP 3.2.3.: Bauvorhaben Mallersdorfer Str. 3-9: Sanierung einer Tiefgarage mit Ergänzung einer Fluchttreppe, hier: Baumfällungen
+- TOP 3.2.4.: Kommunalreferat: Vermietung stadteigenes Anwesen Blutenburgstr. 55 / Eckladen
+- TOP 3.2.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: 40. städtischer Fassadenwettbewerb, Fassadenpreise und lobende Erwähnungen 2009
+- TOP 3.2.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Landesentwicklungsprogramm
+- TOP 3.2.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten, Schulen)
+- TOP 3.2.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 3.2.9.: Beschluss des Bauausschusses vom 15.06.10: Einführung eines Vorabinformationsverfahrens bei der Erschließungsbeitragsabrechnung
+- TOP 3.2.10.: Bauvorhaben Gaßnerstr. 9: Neubau eines Rückgebäudes mit Tiefgarage, Vorbescheid; hier: Baumfällungen
+- TOP 3.2.11.: Antrag Seniorenvertretung des 9. Stadtbezirkes: Belassung der Briefkastenanlagen in den jeweiligen Stockwerken bei Altbausanierung durch die GEWOFAG
+- TOP 3.2.12.: Planungsreferat: Errichtung einer Moschee in der Dachauer Straße / Leonrodplatz (Schreiben BA 9 vom 20.04.10)
+- TOP 3.2.13.: Bürgeranliegen: Neuhauser Trafo, 2. Bauabschnitt
+- TOP 3.2.14.: Bürgeranliegen: Münchner Bürgerheim Dall`Armistr. 46 - Verwahrlosung oder Zweckentfremdung ?
+- TOP 3.2.15.: Nichtöffentlich:
+- TOP 3.2.16.: WEB-Listen vom 16.05.-31.05., 01.06.-15.06. und 16.06.-30.06.10
+- TOP 3.2.17.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Rüthlingstraße
+- TOP 3.2.18.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Hirschbergstraße
+- TOP 3.3: Unterausschuss für Umweltfragen
+- TOP 3.3.1.: Baureferat: Entfernung der neu in der Taschnerstraße gesetzten Stahl-Baumschutzbügel sowie vorherige Anzeigepflicht des Münchner Baureferats von geplanten Baumaßnahmen bei den Anwohnerinnen und Anwohnern (Empfehlung Nr. 461 der Bürgerversammlung am 24.11.2009)
+- TOP 3.3.2.: Bothmerstr. 14: Fällung von 1 Weide
+- TOP 3.3.3.: Nibelungenstr. 29: Fällung von 1 Blumenesche
+- TOP 3.3.4.: Ofterdingenstr. 38: Fällung von 1 Kanadische Pappel
+- TOP 3.3.5.: Schachenmeierstr. 30-34: Fällung von 1 Kanadische Pappel
+- TOP 3.3.6.: Sustrisstr. 13: Fällung von 1 Fichte
+- TOP 3.3.7.: Wälsungenstr. 5: Fällung von 1 Goldregen
+- TOP 3.3.8.: Sprunerstr. 7a: Fällung von 1 Vogelbeere
+- TOP 3.3.9.: Ludwig-Ferdinand-Platz 7: Fällung von 1 Alleepappel
+- TOP 3.3.10.: Zamboninistr. 43: Fällung von 1 Birke
+- TOP 3.3.11.: Hilblestr. 40: Fällung von 2 Ahorn
+- TOP 3.3.12.: Frundsbergstr. 40: Fällung von 1 Robinie
+- TOP 3.3.13.: Lothstr. 13d: Fällung von 2 Birken, 5 Japanische Blütenkirschen, 1 Bergahorn
+- TOP 3.3.14.: Nördliche Auffahrtsallee 34: Fällung von 2 Kiefer
+- TOP 3.3.15.: Dachauer Str. 100-102: Fällung von 1 Ahorn, 1 Pappel, 1 Weide, 2 Birken
+- TOP 3.3.16.: Bruckmannstr. 15: Fällung von 1 Eiche
+- TOP 3.3.17.: Tintorettostr. 1: Fällung von 1 Kiefer
+- TOP 3.3.18.: Menzinger Str. 9: Fällung von 2 Akazien
+- TOP 3.3.19.: Antrag FDP: Ausweisung einer Liegewiese im Schlosspark Nymphenburg
+- TOP 3.3.20.: Bayer. Schlösserverwaltung: Sanierungsarbeiten am Eisernen Haus im Schlosspark Nymphenburg
+- TOP 3.3.21.: Referat für Gesundheit und Umwelt: Ausnahmegenehmigung für die Durchführung von Mäharbeiten des Straßenbegleitgrüns; Landshuter Allee, Ackermannstraße, Dachauer Straße
+- TOP 3.3.22.: Referat für Gesundheit und Umwelt: Einladung zur Auftaktveranstaltung "Lärmaktionsplanung München" am 15.07.10, 17 Uhr
+- TOP 3.3.23.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 3.3.24.: Planungsreferat: Fällgenehmigung Prinzenstr. 27
+- TOP 3.3.25.: Planungsreferat: Fällgenehmigung Tizianstr. 119
+- TOP 3.3.26.: Beteiligung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Verfahrensumstellung auf ?PRO-LBK? (Wiedervorlage aus der Sitzung vom 15.06.10)
+- TOP 3.3.27.: Planungsreferat: Abgestorbene Kastanien am Rondell Neuwittelsbach / Romanstraße und Baumfällung Prinzenstr. 11 (Schreiben BA 9 vom 10.06.10)
+- TOP 3.3.28.: Planungsreferat: Fällgenehmigung Gaßnerstr. 12
+- TOP 3.3.29.: Bekanntgabe in der Sitzung des Bauausschusses vom 20.04.10: Bekämpfung von Ameisen in Kinderspielbereichen (Wiedervorlage aus der Sitzung vom 18.05.10)
+- TOP 3.3.30.: Antrag CSU: Tütenspender und Mülleimer für beliebte "Gassi-Meilen"
+- TOP 3.3.31.: Bürgeranliegen: Baumbestand Ysenburgstr. 5 / 7 (Wiedervorlage aus der Sitzung vom 15.06.10)
+- TOP 3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.4.1.: Antrag Verein für Sozialarbeit e.V., Bewohnertreff im Arnulfpark: Zuschuss in Höhe von 250 ? für das Sommerfest am 31.07.2010 in der Marlene-Dietrich-Str. 10
+- TOP 3.4.2.: Direktorium: 18.jetzt - Fest junger Erwachsener im Rathaus am 09.10.10
+- TOP 3.4.3.: BA-Kinderfest 2011 auf dem Schäringerplatz
+- TOP 3.4.4.: Münchner Lehrer- und Lehrerinnenverband e.V.: Münchner Konzept "Mittelschulen"
+- TOP 3.4.5.: Einladung zur nächsten ÖAG / FAK Alte Menschen am 14.07.10
+- TOP 3.4.6.: Beiratstreffen der Freizeitstätten am 23.06.10 / Bericht
+- TOP 3.4.7.: Bürgeranliegen: Unterstützung für Pilotprojekt Schülerbetreuung (Wiedervorlage aus der Sitzung vom 15.06.10)
+- TOP 3.4.8.: GEWOFAG: Pressemitteilung ?Wir brauchen alternative Wohnformen für Ältere? (Schreiben BA 9 vom 17.06.10)
+- TOP 3.4.9.: GS Südl. Auffahrtsallee: Einrichtung einer Ganztagsklasse an der Zweigschule der Grundschule Südl. Auffahrtsallee / Trojanostraße (Schreiben BA 9 vom 18.05.10)
+- TOP 3.4.10.: Kultusministerium: Einrichtung von Ganztagsklassen an Grundschulen (Schreiben BA 9 vom 18.05.10)
+- TOP 3.4.11.: Neuhauser Schulkonferenz (Rückmeldungen von Schulen zum Schreiben BA 9 vom 18.05.10)
+- TOP 3.4.12.: BA-Nachbarschaftsfest am 13.06.10 / Bericht
+- TOP 3.4.13.: Bürgeranliegen: Spielplatz im Schulhof der Hirschbergschule (Schreiben BA vom 18.05.2010)
+- TOP 3.4.14.: Bürgeranliegen: Betreuungssituation Grundschulkinder an der Hirschbergschule
+- TOP 3.4.15.: Beschlussvorlage Direktorium: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 3.4.16.: Schulreferat: Hortplätze Arnulfpark
+- TOP 3.4.17.: Sozialreferat: Streetwork in Neuhausen (Schreiben BA 9 vom 14.12.09 und 01.03.10)
+- TOP 3.4.18.: Beschluss des Schul- und Sportausschusses vom 09.06.10: Mehrjahresinvestitionsprogramm 2010-2014, Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen
+- TOP 3.4.19.: Oberbürgermeister: Bezuschussung aus dem Budget des BA 9; Anträge des Vereins Lilalu e.V. vom 18.02.2010 auf Bezuschussung des Sommerferienprogramms ?Umsonst und Draußen? vom 13. - 29.08.2010 (Wiedervorlage aus der Sitzung vom 15.06.10) / Ergebnis der Arbeitsgruppe
+- TOP 3.4.20.: WOGENO München e.G.: Begegnungszentrum Reinmarplatz / Gespräch mit der WOGENO im UA
+- TOP 3.4.21.: Beschlussvorlage Schulreferat: Errichtung eines Förderzentrums Schwerpunkt geistige Entwicklung mit angegliederter Heilpädagogischer Tagesstätte in Nymphenburg Süd - Vorabzustimmung durch die Vorsitzende -
+- TOP 3.5: Unterausschuss für Kultur
+- TOP 3.5.1.: Antrag Initiative "Kultüren 8": Zuschuss in Höhe von 3.054 ? für Kultüren 8 am 23./24.04.2010
+- TOP 3.5.2.: Beschluss des Kulturausschusses vom 08.07.10: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste
+- TOP 3.5.3.: Kulturreferat: Audiokunstwerk "Memory Loops", Einladung zu Informationsabend am 12.07.10, 18.30 Uhr
+- TOP 3.5.4.: Castonier-Grabmal ist verschwunden (Bericht SZ vom 18.06.10)
+- TOP 3.5.5.: Bürgeranliegen: Änderung der Öffnungszeiten in der Mittelpunktsbibliothek Neuhausen
+- TOP 3.5.6.: Beschluss des Kulturausschusses vom 08.07.2010: ?Kultur unterwegs? (Antrag Nr. 1925 des BA 9 vom 23.02.2010)
+- TOP 3.5.7.: Beschluss des Kulturausschusses vom 17.06.10: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2010 - 2014
+- TOP 3.5.8.: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.07.10: Stärkung der Stadtteilkultur, Erfahrungsbericht
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Antrag Faschingsclub Neuhausen e.V.: Zuschuss in Höhe von 3.000 ? für den Fasching 2010/2011
+- TOP 4.2.: Direktorium: Transparenz auch auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen
+- TOP 4.3.: Direktorium: Wechsel des BA 5 in die BA-Geschäftsstelle Ost
+- TOP 4.4.: Schaustellerbetrieb Merkl: Europafest auf dem Rotkreuzplatz vom 30.07.-08.08. oder 06.08.-15.08.10
+- TOP 4.5.: KVR: Drehgenehmigungen a) "Ein passender Tod" aus der Reihe "Der Alte" am 16.06. und 17.06.10 in der Wendl-Dietrich-Str. 22 b) "Kommissarin Lucas" am 22.06.10 in der Richelstraße c) "Die Rosenheim Cops" am 12.07.10 in der Prinzenstraße
+- TOP 4.6.: KVR: Pächterwechsel Gaststätte "Malzraum", Artilleriestr. 5
+- TOP 4.7.: Referat für Gesundheit und Umwelt: Broschüre "Rundum gesund"
+- TOP 4.8.: Direktorium: Gleichbehandlung aller BA-Mitglieder bei der Erfüllung staatsbürgerlicher Pflichten (Wiedervorlage aus der Sitzung vom 15.06.10)
+- TOP 4.9.: KVR: Europäische Jonglierconvention 2011
+- TOP 4.10.: Container von "Tombola für München" am Rotkreuzplatz / Standortvorschläge
+- TOP 5: Verschiedenes
+- TOP 2.4.1.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Baureferat (Az. 07/10 ? 3.3.1): Entfernung der neu in der Taschnerstraße gesetzten Stahl-Baumschutzbügel sowie vorherige Anzeigepflicht des Münchner Baureferats von geplanten Baumaßnahmen bei den Anwohnerinnen und Anwohnern (Empfehlung Nr. 461 der Bürgerversammlung am 24.11.2009)
+- TOP 2: (E) Entfernung der neu in der Taschnerstraße gesetzten Stahl-Baumschutzbügel sowie vorherige Anzeigepflicht des Münchner Baureferates von geplanten Baumaßnahmen bei den Anwohnerinnen und Anwohnern Empfehlung Nr. 08-14 / E 00461 der Bürgerversammlung des Stadtbezirkes 9 Neuhausen-Nymphenburg am 24.11.2009 - <div></div>
+- TOP 3.1.13.: => dazu: KVR: Romanstraße / Hirschgartenallee ? Haltverbot / Lieferzone / Kurzparkplätze für Bäckerei-Conditorei-Cafe Hölzl (Schreiben BA 9 vom 25.04.2010, Wiedervorlage aus der Sitzung vom 15.06.10)
+- TOP 3.1.22.: => dazu: Hinweis/Ergänzung vom 18.06.10 => dazu: Hinweis/Ergänzung vom 29.06.10
