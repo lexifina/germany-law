@@ -1,0 +1,163 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-07-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813366
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813366
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anträge
+- TOP 6.1: Bildung eines Ferienausschusses gemäß § 22 a BA-Satzung
+- TOP 6.1.1.: Beschlussfassung über Ferienzeit bzw. Bildung eines Ferienausschussses
+- TOP 6.1.2.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 6.1.3.: Wahl einer/eines Vorsitzenden des Ferienausschusses
+- TOP 6.1.4.: Benennung der Mitglieder des Ferienausschusses, einschließlich der Ersatzmitglieder
+- TOP 6.1.5.: Bekanntgabe von Sitzungstermin und -ort
+- TOP 6.2: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.3: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP 6.3.1.: Dauerhafte Aufhebung der Sperrzeit für Veranstaltungen freitags und samstags in der Muffathalle (Ampere und Cafe)
+- TOP 6.3.2.: Sondernutzungserlaubnis Braystr. 22: Änderung einer bisher genehmigten Freischankfläche (vertagt aus 06/10)
+- TOP 6.3.3.: Sondernutzungserlaubnis Eduard-Schmid-Str. 8: Erweiterung einer bestehenden Freischankfläche (vertagt aus 06/10)
+- TOP 6.3.4.: Sondernutzungserlaubnis Balanstr. 8: Aufstellen einer Warenstellage für Haushaltsartikel (neue Entscheidung nach Schreiben der BI Ost?)
+- TOP 6.3.5.: Sondernutzungserlaubnis Regerplatz 2: Erweiterung und Verlegung der Freischankfläche
+- TOP 6.3.6.: Sondernutzungserlaubnis Innere Wiener Str. 54: Genehmigung einer Freischankfläche
+- TOP 6.3.7.: Sondernutzungserlaubnis Innere Wiener Str. 52: Genehmigung einer Freischankfläche
+- TOP 6.3.8.: Sondernutzungserlaubnis Falkenstr. 2: Genehmigung einer Freischankfläche
+- TOP 6.4: BA-Beschlüsse zur Erledigung von Bürgerversammlungs-Empfehlungen
+- TOP 6.4.1.: (E) Sperrung der Schleibingerstraße für Busse Empfehlung Nr. 08-14 / E 00542 der Bürgerver- sammlung des 5. Stadtbezirkes Au-Haidhausen am 04.02.2010 - <div></div>
+- TOP 7.1.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten: Beschluss des Verwaltungs- und Personalausschusses vom 12.05.2010
+- TOP 7.2.: Werbeanlage Einsteinstraße 91: 1 City-Star-Anlage auf Monofuß
+- TOP 7.3.: Straßenbahncorso anlässlich ?115 Jahre Elektromobilität? ab Einsteinstraße zum Sendlinger-Tor-Platz während Aktionstag ?Da Sein Für München? am 11.09.2010
+- TOP 8.1: Erledigte BA-Anträge und Anfragen
+- TOP 8.1.1.: Straßenbelag in der südlichen Pariser Straße ausbessern
+- TOP 8.1.2.: Nachpflanzung eines Baumes in der Holzhof-/Ecke Kellerstraße
+- TOP 8.1.3.: Erhalt der Kastanien im Hof der Grundschule Bazeillesstraße
+- TOP 8.1.4.: Kein "Sandstrand" auf der Wiese vor den Kaskaden unterhalb des Landtags
+- TOP 8.1.5.: Gesamtkonzept zur Stabilisierung der Lage am Orleansplatz
+- TOP 8.1.6.: Kein Missbrauch des Mietrechts als Wachstumsbeschleunigungsprogramm (BA-Antrag Nr. 08-14/ B01623): Beschluss der Vollversammlung des Stadtrates vom 19.05.2010
+- TOP 8.1.8.: Kindgerechte Straßenquerungen im Franzosenviertel
+- TOP 8.1.9.: Ausstellung und Verlängerung von Parkausweisen in den Bürgerbüros
+- TOP 8.1.10.: Lärmmessung Public Viewing am Bordeauxplatz
+- TOP 8.2: Mitteilungen der Verwaltung - Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Einsatz von Gelenkbussen auf der Linie 152 während der Auer Dulten
+- TOP 8.2.2.: Berufliche Schulen am Simon-Knoll-Platz 3: Dauerbeleuchtung im Schulgebäude
+- TOP 8.2.3.: Verkehrsrechtliche Anordnung: Öffnung der in Richtung Osten einbahngeregelten Ruhestraße zwischen Hochstraße und Hiendlmayrstraße für den gegenläufigen Radverkehr
+- TOP 8.2.4.: Verkehrsrechtliche Anordnung: Öffnung der in Richtung Westen einbahngeregelten Hiendlmayrstraße zwischen Am Nockherberg und Ruhestraße für den gegenläufigen Radverkehr
+- TOP 8.2.5.: Verkehrsrechtliche Anordnung: Öffnung der Belfortstraße für den gegenläufigen Radverkehr
+- TOP 8.2.6.: Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Schwarzstraße 1
+- TOP 8.2.7.: Überprüfung der Lichtzeichenanlagen im Stadtbezirk 5
+- TOP 8.2.8.: Korrektur der maßgeblichen Miethöhe bei der Ausübung des Vorkaufsrechts (BA-Antrag Nr. 08-14/ B 01974): Beschluss des Kommunalausschusses vom 17.06.2010: Vertagung
+- TOP 8.2.9.: Baugenehmigung Werbeanlage Regerstr. 29
+- TOP 8.2.10.: Zweite S-Bahn-Stammstrecke: Schulsportfreianlage Innere Wiener Straße (BA-Antrag Nr. 08-14/ B 02073): Zwischennachricht
+- TOP 8.2.11.: Grundschule und Kindertagesstätte Bazeillesstraße (BV-Empfehlung Nr. 08-14/ E 00544, BV-Empfehlung Nr. 08-14/ 00545): Beschluss des Schul- und Sportausschusses vom 09.06.2010
+- TOP 8.2.12.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen
+- TOP 8.2.13.: Zeitgleiche Großbaustellen in Haidhausen: Fernwärmenetz Orleanstraße und Schienensanierung in der Einstein-/Grillparzerstraße
+- TOP 8.2.14.: Verkehrsrechtliche Anordnung: Aufhebung des personenbezogenen Behindertenparkplatzes im Bereich der Balanstraße 11, Seite Metzstraße
+- TOP 8.2.15.: Absenkung des Bürgersteiges gegenüber der Ausfahrt MAHAG
+- TOP 8.3: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 8.4: Sonstiges
+- TOP 8.4.1.: Eilentscheidung: Gleiserneuerung mit Bettungserneuerung und Entwässerung im Bf München-Ost, Gleis 9
+- TOP 8.4.2.: Baumfällung Franziskanerstr. 38: Genehmigungsbescheid
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 3.1.: Stärkung der Stadtteilkultur; Erfahrungsbericht: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.Juli 2010
+- TOP 3.2.: Geoff Goodman und Eva Sperner: Kurzvorstellung des Haika-Projekts (Mai 2011)
+- TOP 2.1.: Bessere Zusammenarbeit der stationären und ambulanten Einrichtungen der Versorgung psychisch kranker Menschen: Konkrete Vorschläge zu Punkt 1 des am 19.05.2010 beschlossenen Antrags der FDP-Fraktion? (vertagt aus 05/10)
+- TOP 2.2.: Förderung freier Träger: Nachbarschaftshilfe in der Au: Schreiben des Stadtjugendamtes vom 09.06.2010
+- TOP 3.1.: Information zur Auswahl der Gebiete mit besonderem Handlungsbedarf für REGSAM
+- TOP 3.2.: Bedarfsplanung zur pflegerischen Versorgung in München: Beschluss des Sozialausschusses vom 04.05.2010
+- TOP 3.3.: Tageseinrichtungen, Tagespflege: Teil B, Bedarfsplanung Kindertagesbetreuung ? Stand der Ausbauoffensive: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.2010
+- TOP 1.1.: siehe TOP A. 6.2
+- TOP 1.2.: siehe TOP A. 6.3
+- TOP 2.1.: Änderung der Reinigungsklassen in einigen Straßen Schreiben des Baureferats vom 11.06.2010
+- TOP 2.2.: Veranstaltung: Isarinselfest 2010 vom 03.09.-05.09.2010
+- TOP 2.3.: Nutzungsänderung Rablstr. 37: Nutzungsänderung ohne Baumaßnahmen: Fischladen mit Stehimbiss zu Restaurant
+- TOP 3.1.: Nutzungsänderung Ohlmüllerstr. 30: befristete Nutzungsänderung von Bäckereilager- und Produktionsflächen für die Errichtung eines Ladenprovisoriums Schreiben der Lbk vom 16.06.2010
+- TOP 3.2.: Budget der Bezirksausschüsse ? Definition der unzulässigen Regelförderung
+- TOP 3.3.: Filmaufnahmen Johannisplatz
+- TOP 2.1.: Verkauf einer städtischen Immobilie: Am Neudeck
+- TOP 2.2.: Bauvorhaben Preysingplatz 12: Errichtung eines Freisitzes unter einer Balkonanlage und Änderung eines Fensters in eine Fenstertüre
+- TOP 2.3.: Bauvorhaben Sckellstr. 4: Neubau eines Hofgebäudes ? VORBESCHEID
+- TOP 2.4.: Bauvorhaben Lilienstr. 41-49: Aufstockung mit Fassaden-/Balkonerneuerung mit baulichen Änderungen, Aufzügen, Lückenbebauung und Tiefgarage ? TEKTUR
+- TOP 2.5.: Bauvorhaben Wolfgangstr. 4: Instandsetzung, Sanierung und Umbau eines Herbergshauses ? TEKTUR
+- TOP 2.6.: Bauvorhaben Pariser Str. 25: Umbau einer Wohnung, Errichtung eines Balkons und Einbau eines Glasdachs über dem DG-Balkon
+- TOP 2.7.: Bauvorhaben Lilienstr. 20: Abbruch und Wiedererrichtung bestehender Dachgeschosse und Schaffung von acht Maisonette-Wohnungen mit Gauben und Dachflächenfenstern; Erweiterung der Balkonanlagen nach oben bis in die Dachgeschosse
+- TOP 2.8.: Bauvorhaben Falkenstr. 33: Anbau einer Notleiteranlage
+- TOP 2.9.: Bauvorhaben Weißenburger Platz 3: Neuerrichtung des Dachgeschosses/ wegen Dachzersörung, Antrag auf Teilbaugenehmigung
+- TOP 2.10.: Bauvorhaben Rosenheimer Str. 63: DG-Ausbau, Einbau von Bädern sowie Anbau einer Balkonanlage (Hofseite)
+- TOP 2.11.: Bauvorhaben Lothringer Str. 20: Umbau/Nutzungsänderung (Lager und Werkstätte zur Wohnung mit Dachterasse)
+- TOP 2.12.: Bauvorhaben Einsteinstraße 106: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage sowie Abbruch der Tankstelle und Teilabbruch der vorhandenen Tiefgarage
+- TOP 2.13.: Bauvorhaben Mariahilfstraße 1: Errichtung einer Dachterasse
+- TOP 3.1.: Bauvorhaben Einsteinstraße 111: Abweichung der LbK vom Votum des BA
+- TOP 3.2.: Grundstücksgeschäft Kreuzplätzchen
+- TOP 3.4.: 40. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2009: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP 3.5.: Landesentwicklungsprogramm: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP 1.1.: siehe TOP A. 6.4.1
+- TOP 2.1.: siehe TOP A. 8.4.1
+- TOP 2.2.: Bürgeranliegen: Ampelsituation Welfenstraße/Auerfeldstraße (vertagt aus 06/10)
+- TOP 2.3.: Aufhebung der Radwegbenutzungspflicht in der Welfenstraße
+- TOP 2.4.: Einrichtung von Fahrradstraßen Schreiben des KVR vom 03.05.2010 (vertagt aus 06/10)
+- TOP 2.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Zeppelinstr. 29
+- TOP 2.6.: Aufhebung des Zeitzusatzes des allgemeinen Behindertenparkplatzes in der Wörthstr. 12
+- TOP 2.7.: Einrichtung einer Halteverbotszone in der Ohlmüllerstr. 40
+- TOP 2.8.: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung: Sitzungsvorlage zum Beschluss der Vollversammlung des Stadtrates
+- TOP 2.9.: Fahrbahnsanierung Rosenheimer Str. 2-12 / 1-11 zwischen Ludwigsbrücke und Am Gasteig
+- TOP 2.10.: Offenlegung der Grundstücksspekulationen im Bereich Express-S-Bahn Daglfing-Englschalking-Johanneskirchen (BV-Empfehlung Nr. 08-14 / E 00549)
+- TOP 2.11.: Anfrage an die MVG: Verbesserungen an der Buslinie 152
+- TOP 2.12.: Anfrage an das Planungsreferat: Anwohnergarage Welfenstraße
+- TOP 3.1.: Radfahrstreifen Rosenheimer Straße (BA-Antrag Nr. 08-14/ B 0971): Sachstandsmitteilung
+- TOP 3.2.: Neufassung der Bade- und Bootsverordnung: Badeverbot an der Kleinen Isar aufheben
+- TOP 3.3.: Schaffung von Fahrradstellplätzen in der Weißenburger Straße und der Rosenheimer Straße
+- TOP 3.4.: Zweite S-Bahn-Stammstrecke: Gutachten zu den Bodenverhältnissen entlang des Streckenverlaufs
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Wohnen, Arbeit und Soziales: Mo, 30.08.2010, 19:30 Uhr, Stadtteilbüro MGS
+- TOP 2.2.: UA Kultur: Mi, 01.09.2010, 18:30 Uhr, Haidhausen Museum
+- TOP 2.3.: UA Gesundheit, Umwelt, Verkehr: Mo, 06.09.2010, 19:00 Uhr, Stadtteilbüro MGS
+- TOP 2.4.: UA Wirtschaft: Di, 07.09.2010, 19:30 Uhr, Stadtteilbüro MGS
+- TOP 2.5.: UA Planung: Do, 09.09.2010, 19:30 Uhr, Stadtteilbüro MGS
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.1.: Ferienausschusssitzung: Termin und Ort steht noch nicht fest
+- TOP 3.2.: Mi, 15.09.2010, 19:00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4: Sonstige Termine
+- TOP 4.1.: Sommerfest 2010 des Adelgundenheims, 20.07.2010, 15:00 Uhr, Hochstr. 47, Adelgundenheim
+- TOP 4.2.: Sommerfest 2010 der Polizeiinspektion 21, 21.07.2010, 14:00 - 22:00 Uhr
+- TOP 4.3.: Einladung zur Teilnahme an den Münchner ?Stadtradeln-Aktionswochen? vom 11.07.2010- 31.07.2010
+- TOP 4.4.: Bewerbung um die Olympischen und die Paralympischen Winterspiele 2018: Informationsveranstaltung für die Bezirksausschüsse am 28.09.2010, 18.00-21.00 Uhr, Großer Sitzungssaal im Rathaus
+- TOP 3.3.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP 6: Sachverhalte zur Entscheidung (1)
+- TOP 6.2.1.: (E) Budget der Bezirksausschüsse Init. Projektraum RSTR4 c/o P. Messner Ausstellungen von Juli bis Dezember 2010 - <div></div>
+- TOP 6.2.2.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk, Teestube "komm"-Streetwork Sommerfest am 06.08.2010 - <div></div>
+- TOP 7: Sachverhalte zur Anhörung (1)
+- TOP 8: Sachverhalte zur Unterrichtung (1)
+- TOP 1: Sachverhalte zur Entscheidung (2)
+- TOP 2: Sachverhalte zur Anhörung (2)
+- TOP 3: Sachverhalte zur Unterrichtung (2)
+- TOP 1: Sachverhalte zur Entscheidung (3)
+- TOP 2: Sachverhalte zur Anhörung (3)
+- TOP 3: Sachverhalte zur Unterrichtung (3)
+- TOP 1: Sachverhalte zur Entscheidung (4)
+- TOP 2: Sachverhalte zur Anhörung (4)
+- TOP 3: Sachverhalte zur Unterrichtung (4)
+- TOP 1: Sachverhalte zur Entscheidung (5)
+- TOP 2: Sachverhalte zur Anhörung (5)
+- TOP 3: Sachverhalte zur Unterrichtung (5)
+- TOP 1: Sachverhalte zur Entscheidung (6)
+- TOP 2: Sachverhalte zur Anhörung (6)
+- TOP 3: Sachverhalte zur Unterrichtung (6)
+- TOP 8.1.7.: Aufstellung von zusätzlichen Hundekottütenspendern und Abfalleimern mit Deckel an der Isar und in den Frühlingsanlagen
