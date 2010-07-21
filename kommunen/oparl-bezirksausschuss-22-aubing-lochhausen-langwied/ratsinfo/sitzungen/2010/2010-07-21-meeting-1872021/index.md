@@ -1,0 +1,123 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-07-21T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1872021
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1872021
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Schandflecke am Friedhof Aubing durch Müllentsorgung und Abstellen von Fahrzeugen (UA Planung)
+- TOP 2.2.: Probleme mit Radfahrern in der Goteboldstraße (UA Planung)
+- TOP 2.3.: Böhmerweiher - wildes Parken an der Einfahrt, fehlende Straßenbenennung und Ergebnisse der Voruntersuchungen zur Gewässergüte, Badesicherheit, Fauna und Flora
+- TOP 2.4.: Planungen für den Freihamer Weg
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Kainacher Str. 5 - Gilchinger Str. 15 - Hohenrechbergstr. 7 - Mettnauer Str. 30 - Mainaustr. 67 - Ehrenbürgstr. 8 - Bergsonstr. 155
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Papinstraße, gem. Baumbestandsplan Nr. 2010-14803 - Zwernitzer Str. 37 (Haus 1 + 2), Baumbestandsplan Nr. 2010-15836
+- TOP 3.3.: Genehmigungsbescheid - Ehrenbürgstr. 8, Schr. Planungsreferat vom 18.06.10 - Streitbergstr. 85, Schr. Planungsreferat vom 24.06.10
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Aufstellung eines Verkehrsschildes "Verbot der Durchfahrt für alle Kraftfahrzeuge" neben der Kinderkrippe Thuisbrunner Str. 24
+- TOP 4.2.: Videoüberwachung an Container-Standorten
+- TOP 4.3.: Optimierung der Buslinien 57, 157 und 161
+- TOP 4.4.: Mähen des Verbindungsweges zwischen Bodenseestr. 200 und dem westlichen Ende des Überlinger Weges
+- TOP 4.5.: Wohnbebauung nördlich der Kastelburgstraße
+- TOP 4.6.: Ausgleichsflächen Langwieder Haide
+- TOP 4.7.: Planungsstand der Lärmsanierung München Lochhausen und München Langwied
+- TOP 4.8.: Stadtteil-Beteiligungsprojekt mit den sog. "Kinder-Aktionskoffer"
+- TOP 4.9.: Die Fernwärme kommt - Limesstraße mindestens 12 Wochen einseitig gesperrt!
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung gemäß der Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung; Öffentliche Grünanlage an der Colmdorfstraße
+- TOP 5.4.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied, Widmung der Gesamtstrecke der Straße "Am Gleisdreieck"
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf städtischer Grünanlage: 1000 Jahre Aubing - Lußsee Open Air am 16.-18.07.10, Anhörung KVR vom 24.06.10 - Eilentscheidung durch BA-Vorsitzenden -
+- TOP 6.2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten, Anhörung Direktorium vom 29.06.10
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund; Straßenfest der Dornier-Eigenheimer Neuaubing e.V. am 04.09.10, Anhörung KVR vom 29.06.10
+- TOP 6.1.: Streetwork - Besetzung einer Stelle, Schr. Sozialreferat vom 10.06.10
+- TOP 6.2.: Münchner Kasperletheater - Unzuverlässigkeit des Betreibers und keine weiteren Nutzungsgenehmigungen, Schr. Kommunalreferat vom 21.06.10
+- TOP 6.3.: Leitlinie Gesundheit - Broschüre "Rundum gesund", Schr. RGU vom 21.06.10
+- TOP 6.4.: Umwandlung des Hortes Ravensburger Ring in das Tagesheim Ravensburger Ring und Erweiterung von zwei auf drei Gruppen, Schr. Schulreferat vom 28.06.10
+- TOP 6.5.: Infobrief Juli 2010 des Ausländerbeirates, Schr. Ausländerbeirat vom 06.07.10
+- TOP 6.6.: Veranstaltungen / Kooperationen Juli 2010, Schr. Kulturreferat vom 05.07.10
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Mitteilung über ein Grundstücksgeschäft: Grundbesitzregelung A 99 West, Flst. 806, 3530 u.a., Schr. Kommunalreferat vom 08.06.10
+- TOP 6.2.: Wertstoffinsel für Freiham Süd, Schr. Abfallwirtschaftsbetrieb München vom 15.06.10
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Kompostieranlage der Fa. Schernthaner GmbH - Optimierung des Anlagenbetriebes durch Errichtung und Betrieb einer Biogasanlage, Änderung der Konfektonierung von Kompost und Errichtung einer Absackanlage, Reduzierung der Emissionsfracht, Anhörung RGU vom 20.04.10
+- TOP 6.2.: Papinstraße - Neubau eines Mehrfamilienhauses mit Tiefgarage (BT C), Anhörung Planungsreferat vom 07.06.10 und 02.07.10 (Tektur) (vertagt aus 06/10)
+- TOP 6.3.: Bodenseestr. 222 - Nutzungsänderung eines Fitness-Centers in drei kleine Spielhallen, Büroraum und Lager, Anhörung Planungsreferat vom 07.06.10 (vertagt aus 06/10)
+- TOP 6.4.: Karl-Harz-Weg 23 - Anbau und Umbau von Lagerhallen und Neubau einer Winterschießanlage, Anhörung Planungsreferat vom 07.06.10 (vertagt aus 06/10)
+- TOP 6.5.: Toni-Berger-Str. - Neubau dreier Mehrfamilienhäuser mit Tiefgarage, Anhörung Planungsreferat vom 24.06.10
+- TOP 6.6.: Federseestr. - Neubau zweier Mehrfamilienhäuser mit Tiefgarage sowie zweier Doppelhäuser mit vier Garagen, Anhörung Planungsreferat vom 24.06.10
+- TOP 6.7.: Federseestr. - Neubau von vier Mehrfamilienhäusern mit Tiefgarage, Anhörung Planungsreferat vom 24.06.10
+- TOP 6.8.: Colmdorfstr. 3 - Nutzungsänderung einer Lagerhalle in eine Indoor Sport- und Spielstätte, Anhörung Planungsreferat vom 30.06.10
+- TOP 6.9.: Errichtung einer Ruheoase in Neuaubing (Riesenburg-/Neideck-/Streitbergstraße), Schr. Baureferat vom 01.07.10
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 31.05.-06.06.10, v. 07.06.-13.06.10, v. 14.06.-20.06.10, 21.06.-27.06.10, 28.06.-04.07.10), Schr. Planungsreferat vom 09.06.10, 14.06.10, 21.06.10, 28.06.10, 05.07.10
+- TOP 6.2.: Spielplatz Leienfelsstraße / Bad-Stebener-Weg - Nutzung der Spielwiese, Schr. Baureferat vom 10.06.10
+- TOP 6.3.: Forderungen an die Untere Naturschutzbehörde bezüglich der vom Bezirksausschuss behandelten Baumschutzfälle, Schr. Planungsreferat vom 01.06.10
+- TOP 6.4.: Baumaßnahmen der Stadtwerke, Stichtag 07.06.10, 14.06.10, 21.06.10, 28.06.10, 05.07.10
+- TOP 6.5.: Verkehrsrechtliche Anordnung: Beschilderung des Bahnüberganges Germeringer Weg / Aubing nach Umbau, Schr. KVR vom 07.06.10
+- TOP 6.6.: Mitteilung über ein Grundstücksgeschäft: - Im Stocket, Flst 22 Langwied, Schr. Kommunalreferat vom 02.06.10 - Verlagerung Tennisplätze ESV Neuaubing, Flst. 3541, 3541/17 Aubing, Schr. Kommunalreferat vom 08.06.10
+- TOP 6.7.: Müllbeseitigungs- oder Reiningungsmaßnahmen der Firmen; Gewerbegebiet Robert-Bodner-Straße, Schr. RGU vom 14.06.10
+- TOP 6.8.: Wertstoffinsel am S-Bahnhof Lochhausen, Schr. Abfallwirtschaftsbetrieb München vom 11.06.10
+- TOP 6.9.: Nahverkehrskonzept, Schr. MVG vom 18.06.10
+- TOP 6.10.: Arbeiten im Straßenraum: Mainaustraße Ecke Radolfzeller Straße vom 24.06.-01.08.10, Schr. KVR vom 21.06.10
+- TOP 6.11.: Mainaustraße - Sanierung der Fahrbahn zwischen Bodenseestraße und Radolfzeller Straße, Schr. Baureferat vom 18.06.10 und Schr. KVR vom 25.06.10
+- TOP 6.12.: Baumaßnahmen der SWM - Stromprojekt Zwernitzer Straße, Schr. SWM vom 24.06.10
+- TOP 6.13.: Vollzug des Allg. Eisenbahngesetzes; Plangenehmigung für Umbaumaßnahme zur Umsetzung des Brandschutzkonzeptes mit erforderlicher Sanierung der DB Regio Werkstatt München-Pasing - Strecke 5524, Schr. Planungsreferat vom 24.06.10
+- TOP 6.14.: Baumaßnahmen der SWM - Fernwärmeprojekt Erschließungsgebiet Westkreuz; Radolfzeller Straße, Aubinger Straße, Reichenaustraße, Schr. SWM vom 23.06.10
+- TOP 6.15.: Unratablagerung in der Aubinger Lohe, Schr. Baureferat vom 21.06.10
+- TOP 6.16.: Namens- und Begriffserläuterungen an der Straßenbeschilderung im 22. Stadtbezirk, Schr. Kommunalreferat vom 29.06.10
+- TOP 6.17.: Einrichtung eines absoluten Haltverbots auch auf dem Seitenstreifen im Gehrensäckerweg und Eschenrieder Straße, Schr. KVR vom 25.04.10
+- TOP 6.18.: Beseitigung der Straßenverunreinigungen im Zufahrtsbereich der Großbaustelle Colmdorfstraße (Antrag Nr. 2051/22.), Schr. Baureferat vom 30.06.10
+- TOP 6.19.: Lärmminderungsplanung in München - Mitwirkung der Öffentlichkeit, Schr. RGU vom 05.07.10
+- TOP 6.20.: Verkehrssituation in der Eschenrieder Straße, Schr. Planungsreferat vom 05.07.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Transparenz auf auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen (Antrag Nr. 1378 des BA 15), Protokolle der BA-Sitzungen im RIS veröffentlichen (Antrag Nr. 1400 des BA 22), Anhörung Direktorium vom 16.06.10
+- TOP 7.2.: Monitore in allen U-Bahnwaggons, Schr. BA 12 vom 09.07.10
+- TOP 7.3.: Gemeinde Karlsfeld, Bebauungsplan Nr. 97 a, Flächennutzungsplan-Änderung, Anhörung Planungsreferat vom 14.07.10
+- TOP 7.4.: Gemeinde Karlsfeld, Bebauungsplan Nr. 97 b, Flächennutzungsplan-Änderung, Anhörung Planungsreferat vom 12.07.10
+- TOP 7.5.: Veranstaltung auf öffentlicher Grünanlage: Weltkindertag veranstaltet durch Spiellandschaft Stadt e.V. auf der Grünanlage Wiesentfelser Str. 57 am 20.09.10, Anhörung KVR vom 20.07.10
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: Limesstraße, Schr. Sozialreferat vom 15.06.10
+- TOP 8.2.: Wirtschafts-Info 06/2010, Schr. Referat für Arbeit und Wirtschaft vom 30.06.10
+- TOP 8.3.: Baumaßnahmen der SWM - Stromprojekt Streitbergstraße, Schr. SWM vom 06.07.10
+- TOP 8.4.: Missstände am Brachvogelplatz durch Autohändler, Schr. KVR vom 09.07.10
+- TOP 8.5.: Baumaßnahmen der SWM - Fernwärmeprojekt Erschließungsgebiet Westkreuz, Schr. SWM vom 09.07.10
+- TOP 8.6.: Schaltkästen an der Einmündung Riesenburgstraße / Wiesentfelser Straße, Schr. SWM vom 08.07.10
+- TOP 8.7.: Errichtung einer temporären Lichtsignalanlage am Aufseßer Platz zur Erleichterung der Ausfahrt auf die Bodenseestraße, Schr. KVR vom 06.07.10
+- TOP 8.8.: Reinigung der Unterführung im S-Bahnhof Aubing, Schr. Baureferat vom 05.07.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kulturausschusses vom 08.07.10: - Stärkung der Stadtteilkultur (UA Soziales) - Sicherung des Standortes Ehrenbürgstr. 9 für Ateliers und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unter Denkmalschutz/Ensembleschutz stehenden Anlagen (UA Soziales)
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.06.10: - Vorhabenbezogener Bebauungsplan mit Grlünordnung Nr. 2014a - Autobahnkreuz München West (südlich), BAB A 8 (südwestlich), Mosswiesenstr. (westlich), Hanfgartenstr. (beiderseits), Berglwiesenstr. (östlich), BAB A 99 (südöstlich) - Brauerei Langwied (UA Planung)
+- TOP 10.3.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.10: - Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege, Teil B , Bedarfsplanung Kinderbetreuung (UA Soziales)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: - Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten (UA Planung) - Änderung der Bayer. Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten/Schulen) (UA Planung) - Bund-Länder-Städtebauförderungsprogramm "Stadtteile mit besonderem Entwicklungsbedarf - Soziale Stadt", Beschluss zur Einleitung vorbereitender Untersuchungen gem. § 141 Abs. 3 BauGB für die Stadtbezirksteile Neuaubing und Westkreuz (UA Planung und UA Soziales) - Landesentwicklungsprogramm (UA Planung)
+- TOP 10.5.: Beschluss des Bauausschusses vom 06.07.10: - Freiham - Öffentliche Flächen südlich der S-Bahn (UA Freiham) - Fahrradabstellplatzkonzept (1. Realisierungsabschnitt) (UA Planung) - Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken (UA Planung)
+- TOP 10.6.: Beschluss der Vollversammlung vom 23.06.10: - Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen (UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: REWE Group - Nachhaltige Sicherung der Nahversorgung, Schr. 08.06.10
+- TOP 11.2.: BA 12 - Zeitungsnotiz zur Ausstattung der U-Bahnhöfe mit Doppelbildschirmen, Schr. vom 09.06.10
+- TOP 11.3.: Wechsel des BA 5 zur BA-Geschäftsstelle Ost, Schr. Direktorium vom 24.06.10
+- TOP 11.4.: Informationsveranstaltung für die Bezirksauschüsse; Bewerbung um die Olympischen und Paralympischen Winterspiele 2018, Schr. von Herrn Oberbürgermeister Ude vom 23.06.10
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
