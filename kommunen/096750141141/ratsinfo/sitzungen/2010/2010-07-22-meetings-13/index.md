@@ -1,0 +1,53 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2010-07-22T17:00:00+02:00
+- Ende: 2010-07-22T00:00:00+02:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/13
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/13
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00000781.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00005317.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausbau der Friedrich-Ebert-Straße - beschlossen
+- TOP 2: Städtebauförderungsprogramm Soziale Stadt - Kleistplatz, hier: Entwurfsfeststellung Umgestaltung "Kleistplatz - Mehrgenerationenplatz" (Tischvorlage) - beschlossen
+- TOP 3: Einrichtung und Förderung eines Investitionsfonds im Rahmen des Bund-Länder-Städtebauförderungsprogramms Soziale Stadt im Stadtteil Kitzingen-Siedlung - beschlossen
+- TOP 4: Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Kitzingen, hier: 16. Änderungssatzung (Wegfall der "Gartenwasserpauschale", Änderung der "Deckelungsregelung") - beschlossen
+- TOP 5: Konversion: Beauftragung einer Rechtsanwaltskanzlei zur Beratung / Begleitung im Zusammenhang mit städtebaulichen Verträgen - beschlossen
+- TOP 6: Antrag auf Vergabe eines Straßennamens/Adresse Schreiben des Golfclubs Kitzingen vom 30.04.2010 - beschlossen
+- TOP 7: Eisenbahnüberführungen - Innere Sulzfelder Straße und Kaltensondheimer Straße, hier: Erneuerung der Brückenbauwerke durch die Bahn AG - beschlossen
+- TOP 8: Gebührenkalkulation für die Friedhöfe der Stadt Kitzingen und der Ortsteile, Nachkalkulation 2009 und Vorauskalkulation 2010-2013 - beschlossen
+- TOP 9: Einführung des "Bürgerhaushalts" - beschlossen
+- TOP 10: Budgetfestlegung
+- TOP 10.1: Budgetfestlegung für das Haushaltsjahr 2011, Budget Standesamt - UA 0501 - beschlossen
+- TOP 10.2: Budgetfestlegung 2011 SG 12 EDV - abgelehnt
+- TOP 10.3: Budgetfestlegung für das Haushaltsjahr 2011, Budget der Verkehrsüberwachung - UA 1122 - abgelehnt
+- TOP 10.4: Budgetfestlegung für das Haushaltsjahr 2011, Budget Parkplätze / Parkscheinautomaten (UA 6815) - beschlossen
+- TOP 10.5: Budgetfestlegung für das Haushaltsjahr 2011, Budget der Freiwilligen Feuerwehr Kitzingen - UA 1300 - beschlossen
+- TOP 10.6: Budgetfestlegung bzw. Einsparungsmöglichkeiten für Budgets, Betriebskosten der Schulen - beschlossen
+- TOP 10.7: Budgetfestlegung bzw. Einsparungsmöglichkeiten für Budgets,Teilbudgets der Schulen für den Unterrichtsbetrieb - beschlossen
+- TOP 10.8: Budgetfestlegung bzw. Einsparungsmöglichkeiten für Budgets, Gesamtbudget Sportanlagen - beschlossen
+- TOP 10.9: Budgetfestlegung für das Haushaltsjahr 2011 Budget Stadtarchiv - UA 3111 - - abgelehnt
+- TOP 10.10: Budgetfestlung für das Haushaltsjahr 2011, Stadtisches Museum - abgelehnt
+- TOP 10.11: Budget 3400 - Heimat- und Kulturpflege Budgetfestlegung - beschlossen
+- TOP 10.12: Budgetfestlegung für das Haushaltsjahr 2011, Budget : Stadtbücherei - UA 3521 - abgelehnt
+- TOP 10.13: Budgetfestlegung für das Haushaltsjahr 2011 - Stadtjugendpflege - abgelehnt
+- TOP 10.14: Budget Stadtgärtnerei (UA 5821) für das HH-Jahr 2011, Ansatz der Ausgaben 2010: 1.063.640 € - beschlossen
+- TOP 10.15: Gesamtbudget Straßen, Wege und Plätze für das HH-Jahr 2011 (UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900, 7850), Ansatz der Ausgaben 2010: 2.914.440 € - beschlossen
+- TOP 10.16: Gesamtbudget Abwasser (UA 7000, 7002, 7006, 7146, 7189) für das HH-Jahr 2011, Ansatz der Ausgaben 2010: 3.176.810,-- € - beschlossen
+- TOP 10.17: Budgetfestlegung für das Haushaltsjahr 2011, Budget Friedhöfe - UAe 7511, 7512, 7513, 7514, 7515, 7516 - beschlossen
+- TOP 10.18: Budget - Sonstige Öffentliche Einrichtungen - beschlossen
+- TOP 10.19: Budget Stadtbauhof (UA 7711) für das HH-Jahr 2011, Ansatz der Ausgaben 2010: 2.252.740 € - beschlossen
+- TOP 10.20: Budgetfestlegung für 2011, Tourist-Info UA 7901 - beschlossen
+- TOP 10.21: Haushaltsjahr 2011, Budget Amt 2, SG 232, Forstbetrieb, UA 8551 - abgelehnt
+- TOP 10.22: Haushaltsjahr 2011, Budget Amt 2, SG 23, Wohn- und Geschäftsgrundstücke, UA 8801 - beschlossen
+- TOP 10.23: Haushaltsjahr 2011, Budget Amt 2, SG 23, Sonstiges Allgemeines Grundvermögen, UA 8891 - beschlossen
+- TOP 11: Auftragsvergaben
+- TOP 11.1: Bahnhof Kitzingen - Abbruch/Altlastensanierung mit Parkplatzprovisorium auf den ehem. Betriebsflächen, hier: Vergabe der Ingenieurleistungen nach HOAI - beschlossen
+- TOP 11.2: Mainpromenade BA II - Neuordnungsmaßnahme, hier: VOB/A - Auftragsvergaben "Energieterminal und Poller" für die Hotelschiffsanlegestelle - beschlossen
+- TOP 12: Sonstiges
