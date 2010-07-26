@@ -1,0 +1,93 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-07-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898636
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898636
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Anbringen eines Schildes ?Vorsicht spielende Kinder? in der Abensbergstraße
+- TOP 2.2.: Monitore in allen U-Bahn-Waggons (Schreiben des BA 12 Schwabing-Freimann)
+- TOP 2.3.: Versetzung des Haltestreifens der LZA auf Höhe Dachauer Str. 366 um ca. 12 Meter
+- TOP 2.4.: Aufnahme des Spielplatzes am Seydlitzplatz in das Programm zur Ameisenbekämpfung
+- TOP 2.5.: Änderung der Parklizenzzeiten im Bereich der Borstei
+- TOP 2.6.: Fahrgastverband: Buslinie 50
+- TOP 2.7.: Gehsteigparken Bunzlauer Straße
+- TOP 2.8.: LKW-Parken Pelkovenstraße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Kreuzungsumbau Allacher Straße / Wintrichring
+- TOP 3.2.: Radverkehr, Einrichtung von Fahrradstraßen
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Aufstellung von Geschwindigkeits- / Dialog-Displays vor Schulen und Kindergärten
+- TOP 4.2.: Instandsetzung / Erneuerung des Schildes am Naturdenkmal ?Röthlinde?
+- TOP 4.3.: Umwandlung der Holledauer Straße in einen Fuß- und Radweg - <div>zurückgezogen</div>
+- TOP 4.4.: Ausweisung der Gerastraße und der Gubestraße als Fuß- und Radweg
+- TOP 4.5.: Errichtung eines behindertengerechten Parkplatzes in der Ehrenbreitsteiner Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Sitzbänke Dachauer Straße
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Fuß- und Radweg Abensbergstraße / Bahndamm
+- TOP 4.2.: Abfallbehälter vor Cafe Tirreno
+- TOP 4.4: Anträge der F.D.P.
+- TOP 4.4.1.: Säuberung der Wände im U-Bahnhof ?Georg-Brauchle-Ring?
+- TOP 5.1.: (E) Budget der Bezirksausschüsse AWO Moosach-Hartmannshofen e.V. Musik zur 50-Jahr-Feier am 30.07.2010 - <div>nach Antrag</div>
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Elternbeirat des Gymnasiums München-Moosach MFM-II-Projekt vom 04. - 26.10.2010 - <div>nach Antrag</div>
+- TOP 5.3.: Sondernutzungserlaubnis Dachauer Straße 264 a, ?Lauris Boutique?
+- TOP 5.4.: Sondernutzungserlaubnis Dachauer Straße 423, ?Kaiser's Tengelmann?
+- TOP 5.5.: (E) Straßenbenennung im 10. Stadtbezirk Moosach Am Hartmannshofer Bächl - <div>nach Antrag</div>
+- TOP 5.6.: Bildung eines Ferienausschusses
+- TOP 5.7.: (E) Budget der Bezirksausschüsse AG-Buhlstraße e.V., Freizeitstätte boomerang Fußballtrikots für Kinder und Jugendliche
+- TOP 6: Anhörungen
+- TOP 6.1.: Radverkehr; Einrichtung von Fahrradstraßen
+- TOP 6.2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 6.3.: Transparenz auch auf BA-Ebene verwirklichen ? Sitzungsprotokolle veröffentlichen
+- TOP 6.4.: Vollzug der Baumschutzverordnung: 1. Gleißmüller Str. 9 2. Prochintalstr. 4 3. Prochintalstr. 4 4. Saarlouiser Str. 15 -21 5. Saarlouiser Str. 76 6. Wichertstr. 12 c
+- TOP 6.5.: Einrichtung neuer Haltestellen im Rahmen des Leistungsprogramms 2011
+- TOP 6.6.: Lichtzeichenanlage Feldmochinger - / Torgauer Str.
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Namensgebung für den Platz zwischen Bauberger- / Bunzlauer- / Dachauer Straße (die Benennung ?Moosacher Stachus? wurde abgelehnt)
+- TOP 7.2.: Pflegemaßnahme Grünanlage Rangierbahnhof (Pflege- und Entwicklungsplan wird demnächst den Bezirksausschüssen vorgestellt)
+- TOP 7.3.: Absolutes Halteverbot in der Meggendorfer Straße wegen Anlieferung (wird angeordnet)
+- TOP 7.4.: Wertstoffcontainerstandort Trinklsiedlung: Weiherweg, Mondscheinweg ggü. Hausnummer 66 bzw. Wendehammer (alle Standorte wurden abgelehnt)
+- TOP 7.5.: Aufstellung eines Abfallbehälters und Schneidearbeiten im Grünzug am Hartmannshofer Bach (wird durchgeführt)
+- TOP 7.6.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW-AG-Wohnungen (Schreiben des OB)
+- TOP 7.7.: Aufstellung von Fahrradständern vor der Tengelmann-Filiale in der Dachauer Str. 423 (ist erfolgt)
+- TOP 7.8.: Winterdienst Fuß- und Radweg Landshuter Allee (wird ab kommenden Winter in das Programm des Baureferates aufgenommen)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Baumaßnahmen der SWM
+- TOP 8.3.: Abgeschlossenheitsbescheinigungen (nicht-öffentlich)
+- TOP 8.4.: Bürgerbeschwerde über Fußgängerunterführung am Moosacher Bahnhof
+- TOP 8.5.: Straßenbaumaßnahme Memminger Platz / Untermenzinger Str. - 1. Bauabschnitt
+- TOP 8.6.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1821b Hanauer Straße (östlich), Pelkovenstraße (nördlich), westlich und südlich des OEZ - Billigungsbeschluss -
+- TOP 8.7.: Stellungnahme des Bundes Naturschutz zum Leistungsprogramm 2011
+- TOP 8.8.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung
+- TOP 8.9.: Sozialreferat: Umsetzung des Teilplanes 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung
+- TOP 8.10.: Zweckentfremdung von Wohnraum: Lechelstraße
+- TOP 8.11.: Fällung eines Gefahrbaumes in der Kleingartenanlage NW 12, Nederlinger Str. 80
+- TOP 8.12.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/42: Dachauer Straße, Baubergerstraße, Allacher Straße, Bahnlinie - Verschiebung des Auslegungszeitraumes
+- TOP 8.13.: Genehmigung einer Autogastankstelle Triebstr. 35
+- TOP 8.14.: Barrierefreier Aubau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken
+- TOP 8.15.: Jahresbericht 2009 des Behindertenbeirats
+- TOP 8.16.: Fällungsgenehmigung Pfeilschifterstr. 52 (Gefahrbaum)
+- TOP 8.17.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 8.18.: Landesentwicklungsprogramm
+- TOP 8.19.: Änderung der Bayer. Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten, Schulen) (Empfehlung der Bürgerversammlung des 15. Stadtbezirkes Trudering-Riem)
+- TOP 8.20.: Straßenunterhalt Wintrichring
+- TOP 8.21.: Halteverbot in der Pelkovenstraße zwischen Feldmochinger- und Hanauer Straße
+- TOP 8.22.: Halteverbote in der Dürrstraße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
