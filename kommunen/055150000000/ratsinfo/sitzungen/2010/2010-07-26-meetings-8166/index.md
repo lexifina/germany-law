@@ -1,0 +1,51 @@
+# 8. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-07-26T09:00:00+02:00
+- Ende: 2010-07-26T12:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/448
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8166
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8166
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00295596.pdf
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00295963.pdf
+
+## Tagesordnung
+
+- TOP 1: Regularien
+- TOP 2: KSVM intern -Wir über uns
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Winterdienst Kirchherrngasse
+- TOP 5: Homepage
+- TOP 6: Teilnahme am LSV-Regionalseminar
+- TOP 7: Teilnahme an Veranstaltungen
+- TOP 7.1: Welt-Alzheimertag - 21.09.2010
+- TOP 7.2: Interkulturelles Fest -25.09.2010
+- TOP 7.3: KSVM -Informationsstand - 13.10.2010
+- TOP 7.4: KSVM -"Sicher ohne Sorgen" -29.10.2010
+- TOP 7.5: KSVM -Zukunftswerkstatt -03.11.2010
+- TOP 7.6: KSVM -Gemeinsam für den Klimaschutz - 09.11.2010
+- TOP 8: Berichte aus Gremien
+- TOP 8.1: Kommission zur Förderung der Inklusion von Menschen mit Behinderungen
+- TOP 8.2: Ausschuss für Soziales, Gesundheit und Arbeitsförderung
+- TOP 8.3: Ausschuss für Stadtplanung, Stadtentwicklung, Verkehr und Wirtschaft
+- TOP 8.4: Arbeitskreis "Älter werden im Stadtteil -Innenstadt Ost"
+- TOP 8.5: weitere Berichte
+- TOP 9: Berichte des Vorstandes und der Mitglieder
+- TOP 9.1: HALLO Sonderbeilage
+- TOP 9.2: Stadtgespräch "Münster am See"
+- TOP 9.3: Auswahl eines Banners
+- TOP 9.4: LSV-Seminar zum Thema Wohnen
+- TOP 9.5: Gespräch mit Anti Rost e.V.
+- TOP 9.6: weitere Berichte
+- TOP 10: Berichte aus den Arbeitskreisen
+- TOP 10.1: AK Frauen im Alter
+- TOP 10.2: AK Generationenbegegnung
+- TOP 10.3: AK Interkulturelle Kontakte
+- TOP 10.4: AK Männer im Alter
+- TOP 10.5: AK Soziales
+- TOP 10.6: AK Stadtplanung
+- TOP 10.7: Projektgruppe Einzelhandel
+- TOP 11: Verschiedenes
