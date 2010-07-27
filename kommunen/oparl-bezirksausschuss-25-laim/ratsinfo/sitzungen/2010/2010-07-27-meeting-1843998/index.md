@@ -1,0 +1,70 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1843998
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1843998
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Schulanlage an der Schrobenhausener Straße (Vertagung aus der BA-Sitzung vom 06.07.10)
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Berufung einer Ombudsfrau / Ombudsmann für städtischen Einrichtung, die für Kinder und Jugendliche zuständig sind (Vertagung aus der BA-Sitzung vom 06.07.10)
+- TOP 2.2.: FDP: Berücksichtigung zukünftiger Entwicklungen bei Erstellung der Vormerk- und Neuantragslisten für das Lichtzeichenanlagen-Bauprogramm
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 21.06.10: Sanierung Bushaltestellen vor Fürstenrieder Str. 102 und 105
+- TOP 4.2.: Schreiben Direktorium vom 29.06.10: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 4.3.: Schreiben Referat für Gesundheit und Umwelt vom 30.06.10: Mobilfunk; Suchkreismeldung
+- TOP 4.4.: Weichselbaumstr. 3: Fällung von 1 Fichte
+- TOP 4.5.: Valpichlerstr. 15. Fällung von 1 Birke
+- TOP 4.6.: Schreiben KVR vom 18.06.10: Aufhebung der Radwegbenutzungspflicht Von-der-Pfordten-Straße (Vertagung aus der BA-Sitzung vom 06.07.10)
+- TOP 4.7.: Schreiben KVR vom 10.06.10: Haltverbote an der Kreuzung Guido-Schneble- / Senftenauerstraße (Vertagung aus der BA-Sitzung vom 06.07.10)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 214: Errichtung eines Entertainmentcenters mit 6 Spielhallen mit je 12 Geldspielgeräten / Vorbescheid, hier: Baupläne
+- TOP 5.2.: Fürstenrieder Str. 51: Neubau eines Büro- und Geschäftshauses mit PKw-Garage (46 Stpl.); hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 08.06.10
+- TOP 7.2.: Sitzung UA Soziales, Schule und Sport vom 22.06.10
+- TOP 7.3.: Ortstermin des UA Soziales, Schule und Sport am 30.06.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB vom 23.06.10: Informationsveranstaltung für die Bezirksausschüsse am Dienstag, den 28.09.2010; Bewerbung um die Olympischen und Paralympischen Winterspiele 2018
+- TOP 8.2.: Schreiben KVR vom 21.06.10: Fischtage auf dem Laimer Anger vom 04.06.-13.06.10 (Schreiben BA vom 26.05.10)
+- TOP 8.3.: Schreiben Planungsreferat vom 30.06.10: Münchner Bürgerinnen- und Bürgerbefragung 2010, Sitzungsvorlage Nr. 08-14 / V 02459 (Schreiben BA vom 21.04.10)
+- TOP 8.4.: Schreiben Baureferat vom 02.07.10: Friedenheimer Brücke; Fahrradständer (Schreiben BA vom 21.04.10)
+- TOP 8.5.: Schreiben Baureferat vom 17.06.10: Straßenbauarbeiten Landsberger Str. 288 bis 260 (Nordseite) von Juni bis Ende Oktober 2010
+- TOP 8.6.: Schreiben Baureferat vom 05.07.10: Landsberger Straße zwischen Fürstenrieder Straße und Elsenheimerstraße
+- TOP 8.7.: Schreiben Direktorium vom 23.06.10: Wechsel der Zuständigkeit der BA-Geschäftsstelle für die Betreuung des BA 5 Au-Haidhausen
+- TOP 8.8.: Schreiben Direktorium vom 14.07.10: Budget des Bezirksausschusses, Bewilligung einer Zuwendung; Antragsteller: Elternbeirat der Grundschuel Droste-Hülshoff-Straße
+- TOP 8.9.: Schreiben Direktorium vom 14.07.10: Budget des Bezirksausschusses, Ablehnung einer Zuwendung; Antragsteller: Kath. Pfarrei zu den Hl. Zwölf Aposteln
+- TOP 8.10.: Schreiben Sozialreferat vom 02.07.10: Zweckentfremdung von Wohnraum durch Abbruch; Hartelstraße
+- TOP 8.11.: Schreiben Sozialreferat vom 08.07.10: Zweckentfremdung von Wohnraum durch Abbruch; Flantinstraße
+- TOP 8.12.: Schreiben KVR vom 08.07.10: Gaststätte "Suppenkasper", Fürstenrieder Str. 8; Antrag auf Neuerrichtung
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 30.06.10: Baumaßnahmen der SWM; Stromprojekt Landsberger Straße, Änderung im Terminablauf
+- TOP 8.14.: Schreiben Referat für Gesundheit und Umwelt vom 05.07.10: Faltblatt "Lärmminderungsplan in München - Mitwirkung der Öffentlichkeit"
+- TOP 8.15.: Bautenliste vom 21.06.-27.06.10: 1. Erstantragsverfahren a) Perhamerstr. 43 2. Änderungsverfahren a) Agnes-Bernauer-Str. 43 b) Agnes-Bernauer-Str. 45 c) Agnes-Bernauer-Str. 80 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 214
+- TOP 8.16.: Bautenliste vom 28.06.-04.07.10 1. Erstantragsverfahren a) Aindorferstr. 10 b) Aindorferstr. 177 c) Agnes-Bernauer-Str. 149d 2.) Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Aindorferstr. 10
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 25.06.10: Baumaßnahmen der Stadtwerke; Stichtag: 28.06.10
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 05.07.10: Baumaßnahmen der Stadtwerke; Stichtag: 05.07.10
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 12.07.10: Baumaßnahmen der Stadtwerke; Stichtag: 12.07.10
+- TOP 8.20.: Schreiben Referat für Arbeit und Wirtschaft vom 30.06.10: Wirtschafts-Info 06/2010
+- TOP 8.21.: Schreiben Referat für Arbeit und Wirtschaft vom 12.07.10: Europe Direct Information 04/2010
+- TOP 8.22.: Schreiben Ausländerbeirat München: Infobrief 27 / Juli 2010
+- TOP 8.23.: Beschluss der Vollversammlung des Stadtrates vom 23.06.10: Pasing Zentrum; Gestaltung von Straßen und Plätzen (Sitzungsvorlagen Nr. 08-14 / V 04413)
+- TOP 8.24.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.10: Umsetzung Teilplan 4; Tageseinrichtungen, Tagespflege; Teil B, Bedarfplanung Kindertagesbetreuung (Sitzungsvorlagen Nr. 08-14 / V 03539)
+- TOP 8.25.: Beschluss des Bauausschusses vom 06.07.10: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken (Sitzungsvorlagen Nr. 08-14 / V 01925)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Landesentwicklungsprogramm (Sitzungsvorlagen Nr. 08-14 / V 04629)
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereich (Kindergärten; Schulen) (Sitzungsvorlagen Nr. 08-14 / V 04539)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten (Sitzungsvorlagen Nr. 08-14 / V 04578)
+- TOP 8.29.: Schreiben Caritas vom 07.07.10: Einladung zu "Engagement in einer Tour" am 21.09.10
+- TOP 8.30.: Schreiben GWG vom 25.06.10: Jahresbericht 2009 der GWG München; Bericht über die nachhaltige Entwicklung bei der GWG München
+- TOP 8.31.: Broschüre Schul- und Kultusreferat: Bildung und Sport / Die städtischen Gymnasien in München
+- TOP 8.32.: Schriftverkehr aus der BA-Sitzung vom 08.06.10
+- TOP 1.2: Bürgerpost an den BA
