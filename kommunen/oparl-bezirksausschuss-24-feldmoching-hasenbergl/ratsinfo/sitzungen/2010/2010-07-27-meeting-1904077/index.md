@@ -1,0 +1,89 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904077
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904077
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Beschluss über eine Ferienzeit im BA
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München, Teestube "komm"-Streetwork Sommerfest für Bedürftige am 06.08.2010
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Junges Orchester München e.V. Symphonisches Orchesterprojekt vom 28.08. - 05.09.2010
+- TOP 2.3.: Widmung einer Teilstrecke der Lassallestraße
+- TOP 2.4.: Widmung von Eigentümerwegen im "Kerbelweg"
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Verkehrssituation Schlottwiesenweg
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.10.: Errichtung eines Postabholkastens am Ende der Sackgasse Am Schnepfenweg (Fa. Hellwig-Immobilien-GmbH)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Transparenz auch auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen
+- TOP 5.2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 5.3.: Pfarrfest und Marienprozession am Stanigplatz am 12.09.10
+- TOP 5.4.: Radfahrt mit Besichtigungen "Tour de Franz" am 08.08.10
+- TOP 5.5.: Erinnerungsverfahren: a) Lassallestr. 51-51e b) Lassallestr. 61-61i
+- TOP 5.6.: Wertstoffcontainerumstellung Schleißheimer Straße / Harpprechtstraße
+- TOP 5.7.: Bebauungsplan mit Grünordnung Nr. 1763 j Grohmannstraße (südlich), Aschenbrennerstraße (westlich), Paulckestraße (nördlich)
+- TOP 5.8.: Bauvorhaben Lassallestr. 100
+- TOP 5.9.: Bauvorhaben Waldmeisterstr. 75
+- TOP 5.10.: Bauvorhaben Feldmochinger Str. 214
+- TOP 5.11.: Bauvorhaben Lerchenauer Str. 162 (vertagt in der Sitzung am 22.06.10)
+- TOP 5.12.: Einrichtung der zusätzlichen Haltestelle "Kuckucksblumenstraße" für die MVG-StadtBus-Linie 175
+- TOP 5.13.: Stadtjugendamt / Förderung freier Träger; Projekt Interessengemeinschaft Ludwigsfeld
+- TOP 5.14.: Umgang der Patrizia AG mit der besonderen historischen Situation der Siedlung Ludwigsfeld (Empfehlung Nr. 08-14 / E 00558 der Bürgerversammlung vom 25.03.10)
+- TOP 5.15.: Bebauungsplan Nr. 97a in Nachbargemeinde Karlsfeld
+- TOP 5.16.: Bebauungsplan Nr. 97b in Nachbargemeinde Karlsfeld
+- TOP 5.17.: Vollzug der Baumschutzverodnung Bauvorhaben Schneeglöckchenstr. 104
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen (Antrag Nr. 08-14 / B 01936 des BA 24)
+- TOP 6.2.: Schmutz und Glasscherben am Walter-Sedlmayr-Platz (Antrag Nr. 6/1 aus der 6. Kinder- und Jugendsprechstunde)
+- TOP 6.3.: Aufstellen einer Tischtennisplatte im Bereich Heimperth-, Caracciola- und Glockenbecherstraße (Antrag Nr. 6/20 aus der 6. Kinder- und Jugendsprechstunde)
+- TOP 6.4.: Geschwindigkeitsbeschränkung auf Tempo 30 in der Ferchenbachstraße zwischen Feldmochinger See und Karlsfelder Straße (Antrag Nr. 08-14 / B 02079 des BA 24) =&gt; dazu: verkehrsrechtliche Anordnung
+- TOP 6.5.: Namensvorschläge für das neue Laden- und Kulturzentrum an der Blodigstraße
+- TOP 6.6.: Quartierszentrum Hasenbergl; Vorstellung des Projekts "Dülferzentrum" in der Kommission für Stadtgestaltung
+- TOP 6.7.: Änderung der BA-Satzung: Ferienausschuss
+- TOP 6.8.: Wechsel des BA 5 Au-Haidhausen zur BA-Geschäftsstelle Ost
+- TOP 6.9.: Gaststätte "Alex HomeCafe", Lerchenauer Str. 189; Neuerrichtung
+- TOP 6.10.: Sommerfest auf dem Skabiosenplatz; Vorabzustimmung durch den Vorsitzenden aus Fristgründen
+- TOP 6.11.: Grillfest der West Africa Community am 17.07.10 auf dem Goldschmiedplatz; Vorabzustimmung durch den Vorsitzenden aus Fristgründen =&gt; dazu: Absage der Veranstaltung
+- TOP 6.12.: Gestattung für Public Viewing während der WM in der Dülferstr. 34
+- TOP 6.13.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken
+- TOP 6.14.: Kreuzungsumbau Josef-Frankl-/Lerchenstraße
+- TOP 6.15.: Fällungsgenehmigungen a) Linkstr. 41 b) Feldmochinger Str. 386
+- TOP 6.16.: Landesentwicklungsprogramm
+- TOP 6.17.: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten, Schulen)
+- TOP 6.18.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 6.19.: Vollzug des allgemeinen Eisenbahngesetzes; Plangenehmigung Weichenerneuerung mit Bettungserneuerung, Planumschutzschicht und Entwässerung im Bf. München-Feldmoching =&gt; dazu: Arten- und Biotopschutz, Abfallrecht
+- TOP 6.20.: Meldeliste Baumfällungsanträge
+- TOP 6.21.: Meldeliste Bauvorhaben
+- TOP 6.22.: Anforderung von Bauvorhaben, hier: Bocksdornstraße
+- TOP 6.23.: Umsetzung des Teilplan 4; Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung
+- TOP 6.24.: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste
+- TOP 6.25.: Stärkung der Stadtteilkultur, Erfahrungsbericht
+- TOP 6.26.: Baumaßnahmen der Stadtwerke a) Stromprojekt Weitlstraße b) Stromprojekt Schleißheimer Straße
+- TOP 6.27.: Einladung und Zukunft "Film ab! Wanderkino vor Ort"
+- TOP 6.28.: Für bürgerschaftliches Engagement junger Menschen - Freiwilligendienst statt Pflichtdienst
+- TOP 6.29.: Informationen zur Wahl des Ausländerbeirates 2010
+- TOP 6.30.: Jahresbericht 2009 des Behindertenbeirates
+- TOP 6.31.: Münchner Konzept "Mittelschulen"
+- TOP 6.32.: Broschüre "Rundum gesund."
+- TOP 6.33.: Jahresbericht 2009 der GWG München; Bericht über die nachhaltige Entwicklung bei der GWG München
+- TOP 6.34.: Münchner Statistik; 4. Quartalsheft, Jahrgang 2009
+- TOP 6.35.: Bahnübergänge im Münchner Norden entlang der S1-Trasse; (Fragen Stadtratsmitglieder an Stadtbaurätin - Auszug aus Rathaus-Umschau)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
