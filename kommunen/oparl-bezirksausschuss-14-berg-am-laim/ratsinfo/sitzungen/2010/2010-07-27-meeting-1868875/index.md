@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-07-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868875
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868875
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Einrichtung eines Fußgängerüberweges über die Neumarkter Straße, in Höhe des LIDL-Marktes Ecke Weihenstephaner Straße - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.2.1.: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung
+- TOP 3.1.2.2.: Verkehrsituation Annabrunner Straße und andere Wohnstraßen der Umgebung - <div></div>
+- TOP 3.1.2.3.: Haltverbot in der Annabrunner Straße / Isareckstraße - <div></div>
+- TOP 3.1.2.4.: Haltverbot in der Kinkstraße - <div></div>
+- TOP 3.1.2.5.: Aufhebung der Radwegbenutzungspflicht in der Neumarkter Straße
+- TOP 3.1.3.1.: Hundepoller im Park am Rahel-Straus-Weg - <div></div>
+- TOP 3.1.3.2.: Mobilfunk-Suchkreismeldung
+- TOP 3.2.1.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Transparenz auch auf BA-Ebene verwirklichen
+- TOP 3.5.2.: Budget der Bezirksausschüsse - Elternbeirat der Kindertagesstätte St. Michael
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Städt. Ludwig-Thoma-Realschule Märchenerzählerin für die 5. und 6. Klassen im Juli 2010 - <div></div>
+- TOP 3.6: Baumschutz (1)
+- TOP 3.6.1.: Echardinger Straße 31
+- TOP 3.6.2.: Berg-am-Laim-Str. 68
+- TOP 3.6.3.: Hansjakobstraße 115 ggü.
+- TOP 3.6.4.: Josephsburgstr. 124a
+- TOP 3.6.5.: Großvenedigerstr. 49 - 53
+- TOP 3.6.6.: Risserkogelstraße 8
+- TOP 3.6.7.: Streitfeldstraße 1
+- TOP 3.6.8.: Altöttinger Straße 20
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grafinger Str. 6 ? Unveränderte Fortführung ?Mondscheinbar?
+- TOP 4.1.1.3.: Mehrjahresinvestitionsprogramm für die Jahre 2010 ? 2014 - Planungsreferat
+- TOP 4.1.1.4.: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2010 - 2014
+- TOP 4.1.1.5.: Landesentwicklungsprogramm
+- TOP 4.1.1.6.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 4.1.1.7.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG
+- TOP 4.1.1.8.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung
+- TOP 4.1.1.9.: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten; Schulen); Empfehlung Nr. 08-14 / E 00384 der BV 15
+- TOP 4.1.2.1.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken
+- TOP 4.1.2.2.: Lenkung des Schwerlastverkehrs vor der Bahnunterführung Thomas-Hauser-Straße
+- TOP 4.1.2.3.: Filmaufnahmen in der Josephsburg- und Sonnwendjochstr. vom 24. - 25.07.2010
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Unterstützung bei der Aneignung von Plätzen im Rahmen einer ?Friedlichen Koexistenz im öffentlichen Raum? in den Sanierungsgebieten ?Innsbrucker Ring/Baumkirchner Straße?, im Bund-Länder Programm ?Soziale Stadt?
+- TOP 4.4.2.: Entwurf des Mehrjahresinvestitionsprogramms 2010-2014 Einzelplan 4 / Jugendamt
+- TOP 4.4.3.: Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive -
+- TOP 4.6: Baumschutz (2)
+- TOP 4.6.1.: Berg-am-Laim-Straße 84 ? 86 - Fällungsbescheid
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
