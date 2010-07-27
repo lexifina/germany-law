@@ -1,0 +1,7 @@
+# TOP .3.: Antrag für eine Warenauslage: Sendlinger-Tor-Platz 5
+
+- Sitzung: BA 02 - Vollgremium (2010-07-27)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/290293
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/290293
