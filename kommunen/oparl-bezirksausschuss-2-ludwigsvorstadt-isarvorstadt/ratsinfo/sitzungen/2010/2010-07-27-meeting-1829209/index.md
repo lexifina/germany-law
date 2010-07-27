@@ -1,0 +1,104 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-07-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829209
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829209
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: siehe TOP B 1.1
+- TOP .1.: (E) Budget der Bezirksausschüsse Nachbarschaft Westermühlbach e.V. Fußballturnier am 29.07.2010
+- TOP .2.: BA-eigene Veranstaltung: Tag des offenen Denkmals
+- TOP .1.: Stadtjugendamt / Förderung freier Träger: Nachbarschaft Westermühlbach (Frist 29.07.)
+- TOP .1.: Auswahl der Gebiete mit erhöhtem sozialpolitischem Handlungsbedarf
+- TOP .2.: Schreiben des Schul- und Kultusreferats: Beantwortung von allgemeinen Fragen bzgl. Schulhoföffnung Tumblingerschule
+- TOP .3.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssazungsgebieten; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP .4.: Umsetzung des Teilplan 4: Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung, Kindertagesbetreuung; Beschluss Kinder- und Jugendhilfeausschuss vom 23.06.2010
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Interfraktioneller Antrag: Wiederinbetriebnahme des Brunnens am Sendlinger-Tor-Platz
+- TOP .2.: Bündnis 90/Die Grünen ? RoLi: Fahrradstraßen für den Stadtbezirk 2
+- TOP .3.: Bündnis 90/Die Grünen ? RoLi: Direktes Geradeausradeln von der Corneliusbrücke in die Corneliusstraße ermöglichen
+- TOP .4.: Interfraktioneller Antrag: LBK informiert BA über die Informationsrechte von Mietern bei Baugenehmigungen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Pestalozzistr. 38c: Balkonanbau im 1. OG
+- TOP .2.: Schwanthalerstr. 95-97: Neubau Wohngebäude mit Tiefgarage
+- TOP .3.: Senefelderstr. 14: Neuaufteilung und Erweiterung Spielhalle
+- TOP .4.: Schillerstr. 17: Nutzungsänderung
+- TOP .5.: Corneliusstr. 6: Neubau RGB
+- TOP .6.: Pestalozzistr. 7: Modernisierung / Erweiterung DG und Anbau Aufzug
+- TOP .7.: Kapuzinerstr. 35: Umbau MFH
+- TOP .8.: Bavariaring 18: Nutzungsänderung
+- TOP .9.: Waltherstr. 27: Umbau RGB
+- TOP .10.: Landwehrstr. 56: Abbruch / Neubau Dachgaube, Anbau Balkone und Nutzungsänderung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Herzog-Heinrich-Str. 18
+- TOP .2.: Kapuzinerstr. 26
+- TOP .3.: Thalkirchner Str. 76
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung
+- TOP .2.: Reichenbachstr. 27: Eintragung in die Denkmalliste gem. Art. 2 Abs. 1 DSchG
+- TOP .1.: Vollzug des BImSchG: Ausnahmezulassung für die Zweibrückenstr. 6
+- TOP .2.: Vorkaufsrecht nach dem BauGB: Fraunhoferstr
+- TOP .3.: Ersatzpflanzung Müllerstr. 14: Für den gefällten Weißdorn wird eine Robinie gepflanzt.
+- TOP .4.: Baumaßnahmen SWM: - Fernwärmeprojekt Mittererstraße - Wasserprojekt Erhardtstraße - Stromprojekt Schützenstraße - Fernwärmeprojekt Hermann-Lingg-Straße
+- TOP .5.: Konzept Busparken in München überarbeiten. Busverkehr in der Innenstadt vermeiden. AW: Kein Verzicht auf bestehende An- und Abfahrtszonen aufrgund notwendiger Erreichbarkeit der Altstadt.
+- TOP .6.: Änderung des Flächennutzungsplanes für den Bereich I/33 Müllerstraße, zwischen Corneliusstraße (östlich) und Fraunhoferstraße (westlich): Auslegung des Planentwurfs
+- TOP .7.: Genehmigungsbescheide für Bauvorhaben: - Schwanthalerstr. 58 (Vorbescheid) - Schwanthalerstr. 28 - Isartalstr. 28
+- TOP .8.: Übergang St.-Paul-Str. (bei der U-Bahn) KVR: Es liegt kein begründeter Ausnahmefall vor, ein Fußgängerüberweg kann nicht eingerichtet werden (es soll aber eine bauliche Maßnahme erfolgen).
+- TOP .9.: Änderung der Bayerischen Bauordnung, Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP .10.: 40. städtischer Fassadenwettbewerb, Fassadenpreise und lobende Erwähnungen 2009; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP .11.: Landesentwicklungsprogramm; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP .12.: Fahrradstellplatzkonzept (1. Realisierungsabschnitt); Beschluss des Bauausschusses vom 06.07.2010
+- TOP .13.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken; Beschluss Bauausschuss vom 06.07.2010
+- TOP .1.: Bürgeranliegen: Verkehrsberuhigung Reichenbachstraße
+- TOP .2.: Bürgeranliegen: Schutz der Bäume in der Hans-Sachs-Str
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Interfraktioneller Antrag: Verlängerung der Öffnungszeiten der Freibäder von 7.00 bis 20.00h und an heißen Tagen bis 22.00h
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Antrag für eine Kleinst-Freischankfläche: Landwehrstr. 25
+- TOP .2.: Antrag auf Aufhebung der Sperrzeit: Landwehrstr. 16
+- TOP .3.: Antrag für eine Freischankfläche: Corneliusstr. 14 PLENUMSBESCHLUSS
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für eine Warenauslage: Fraunhoferstr. 8
+- TOP .2.: Antrag für einen mobilen Fahrradständer: Kapuzinerstr. 15
+- TOP .3.: Antrag für eine Warenauslage: Sendlinger-Tor-Platz 5
+- TOP .4.: Antrag für eine Warenauslage: Klenzestr. 69 PLENUMSBESCHLUSS
+- TOP .5.: Antrag für einen Fahrradständer: Kapuzinerstr. 19 PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Hans-Sachs-Straßenfest am 21.08.2010
+- TOP .2.: Isarinselfest 2010 vom 03.09. bis 05.09.2010
+- TOP .3.: Jubiläumstour 2010 der Deutsche Bahn AG am 08.08.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Einrichtung eines personenbezogenen Behindertenparkplatzes: Frauenlobstr. 5
+- TOP .2.: Verkehrsrechtliche Anhörung: EInrichtung zweier Behindertenparkplätze in der Baldestr. 21
+- TOP .3.: Einrichtung eines personenbezogenen Behindertenparkplatzes: Häberlstr. 17
+- TOP .1.: Erstellen eines Beobachtungsprotokolls rund um den Gärtnerplatz (Monitoring) AW: Beobachtungsprotokoll wird begrüßt und künftig die Arbeitsgrundlage in den S.A.M.I.-Besprechungen bilden sowie beim Runden Tisch kommuniziert.
+- TOP .2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (4)
+- TOP .3.: Unveränderte Gaststättenfortführung: - Corneliusstr. 14 (ehem. Café Cherie) - Rumfordstr. 14: Chi (ehem. Paros) - Tumblingerstr. 17 (Mastika) - Ruppertstr. 19 (Espresso-Bar Kara`s) - Tumblingerstr. 36 (Barysphär)
+- TOP .4.: Antrag für eine Warenstellage: Goethestr. 38 KVR: Es wird um Entscheidung des Oberbürgermeisters gebeten.
+- TOP .5.: Versammlungen unter freiem Himmel (1)
+- TOP .6.: Bürgeranliegen: Lärmbelästigung durch die an der Einmündung Thalkirchner-/Zenettistraße aufgestellte Wertstoffinsel AWM: Man will die Entsorgungsfirmen nochmals auf die gesetzlichen Einwurf- und Leerungszeiten hinweisen. Standort ist gut frequentiert und bisher unauffällig.
+- TOP .7.: Kein Public Viewing auf der Theresienwiese während der WM 2010
+- TOP .8.: Erlaubnisbescheid: - Straßenfest auf dem St.-Pauls-Platz am 04.07.2010 - Stadtradeln "München radelt für`s Klima" am 11.07.2010 - 6. Glockenbach Sommermarkt auf dem Stephansplatz am 31.07.2010
+- TOP .9.: Sendlinger Straße als Fußgängerzone; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP .10.: Veranstaltung auf öffentlichem Verkehrsgrund: "Oben Ohne" am 24.07.2010
+- TOP .1.: Bürgeranliegen: Verunreinigung des U-Bahnhofs Poccistraße nach Partys
+- TOP .2.: Bürgeranliegen: Poller am Baaderplatz
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten; Beschlussvorlage des Direktoriums
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
