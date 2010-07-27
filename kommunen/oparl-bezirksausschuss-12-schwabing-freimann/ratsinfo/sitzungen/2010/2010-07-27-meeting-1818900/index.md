@@ -1,0 +1,103 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-07-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818900
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818900
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Keine Antragstellung von Mandatsträgern auf Bürgerversammlungen
+- TOP .10.: Sonstiges
+- TOP .1.: Festlegung der Sitzungstermine 2011
+- TOP .2.: Besetzung des Feriensenats, Termin- und Sitzungsortfestlegung
+- TOP .1.: Gewährung eines Zuschusses aus dem Budget des BA 12 für a) Theater des Hölzernen Gelächters für die Maßnahme: Theaterproduktion von Juni bis September 2010 in Höhe von 4.800,00 ? b) Enang.-Luth. Pfarramt Nikodemuskirche für die Maßnahme: Straßenfest am 11.07.2010 in Höhe von 1.400,00 ? c) Kinderschutz e.V. AEH Schwabing-Freimann für die Maßnahme: Zikus-Mitmachtag am 11.08.2010 in Höhe von 930,00 ?
+- TOP .1.: Schwabinger Seefest, in der städtischen Grünanlage am Schwabinger See, Traubestraße (am Ungererbad), 28.08.2010
+- TOP .2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP .1.: Mehr Sicherheit bei Veranstaltungen im Zenith
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Piatsa", Schank- und Speisewirtschaft, Leopoldstr.
+- TOP .2.: "Indoor Minigolf", Frankfurter Ring
+- TOP .1.: Änderungen im Post-Filialnetz; Alfred-Arndt-Str. 1 und Leopoldstr. 55
+- TOP .2.: Erlaubnisbescheid für Straßenfest Kath. Kirchenstiftung St. Ursula am 24.07.2010 auf dem Kaiserplatz
+- TOP .3.: Zuwendungsbewilligungen (Bescheide) für Zuwendungen aus dem Budget des BA 12 a) digitalanalog e.V. für die Maßnahme: Kinder Foto-Workshop am 13.08.2010 b) MTSV Schwabing e.V. für die Maßnahme: Jubiläumsveranstaltung vom 16.-18.07.2010 c) Initiative "84 Ghz" für die Maßnahme: Kunst im Karrée 2010 vom 09.-11.07.2010 d) Freizeittreff Freimann für die Maßnahme: Spielfest des Freizeittreffs Freimann am 26.06.10 e) Seidlvilla e.V. für die Maßnahme: Sommerfest am 17.07.2010 f) Seidlvilla e.V. für die Maßnahme: Ausstellung "Anderswo" vom 01.-30.07.2010 g) CLEEC e.V. für die Maßnahme: Kinder- und Jugendinsel des Corso Leopold Straßenfestes am 11./12.09.2010 h) Evangelisches Hilfswerk, Teestube "komm"-Streetwork für die Maßnahme: Sommerfest am 06.08.2010 Mohr-Villa Freimann e.V. für die Maßnahme: Wiedereröffnungsfeier in der Mohr-Villa am 07.07.2010
+- TOP .4.: Umsetzung des Teilplan 4, Teil B, Bedarfsplanung Kindertagesbetreuung, Beschluss des Kinder- und Jugendhilfeausschuss vom 29.06.2010 Sitzungsvorlage Nr. 08-14 / V 03539
+- TOP .5.: Baumaßnahmen im Zusamenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen Beschluss derVollversammlung des Stadtrates vom 23.06.2010 Sitzungsvorlage Nr. 08-14 / V 04338
+- TOP .6.: Erlaubnisbescheid für das Alt-Schwabinger Wirtefest am 17.07.2010
+- TOP .7.: Erlaubnisbescheid und Gestattung für Jubiläumsfeier "125 Jahre MTSV Schwabing" vom 16.-18.07.2010 an der Münchner Freiheit
+- TOP .1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund hier: Weinregal, Karl-Theodor-Straße
+- TOP .2.: Genehmigung einer Freischankfläche, Georgenstraße
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Maria-Josepha-Straße 4, 1 Ahorn
+- TOP .2.: Bauernfeindstraße 15, 1 Weide, mehrstämmig
+- TOP .3.: Schwedenstraße 60a, 1 Dreispänner
+- TOP .4.: Hesseloherstr. 2, 1 Ahorn
+- TOP .1.: Walter-Gropius-Str. 17, Flurnr.: 844/8, Werbeanlage (1 Einzelbuchstaben-Leuchtschrift)
+- TOP .2.: Aumeisterweg; Furnr.: 106/46, Errichtung einer Containeranlage in Modulbauweise für Gymnastik / Fitness
+- TOP .3.: Ungererstraße 158. Flurnr.: 969/4, Änderung der Denkmalliste - Hochbunker
+- TOP .4.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung (Beschlussentwurf, Stand 17.06.2010)
+- TOP .5.: Föhringer Ring 6, Flurnr.: 106/4, Änderung der Denkmalliste - Neuaufnahme des Werner-Heisenberg-Instituts für Physik
+- TOP .6.: Rohmedestr.12, Flurnr.: 1004/47, Änderung der Denkmalliste - Neuaufnahme des ehemaligen Wohnhauses von Ludwig Biermann
+- TOP .7.: Lillweg 28, Flurstück 522/44, Abbruch und Neubau eines Wohngebäudes als Passivhaus mit Garage
+- TOP .8.: Freisinger Landstraße 6, Fl.-Nr.: 88/65, Nutzungsänderung von Gemeinbedarf Verwaltung zu WA sowie Neubau eines Wohnhauses (Läden im EG, Prxen im 1.OG, Wohnungen im GG, 2.OG und DG) mit Tiefgarage - Vorbescheid
+- TOP .1.: Erhalt des Baudenkmals Gartenhaus von Prof. Birkenholz aus dem Jahre 1923
+- TOP .3.: Leuchtreklame "The M.PIRE"
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Montsalvatstr. 1, 1 Serb. Fichte (Borkenkäferbefall)
+- TOP .1.: Bauleitplanung Leopoldstraße 152 - 194 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.06.2010 Sitzungsvorlagen Nr. 08-14 / V 04431
+- TOP .2.: Werbung im öffentlichen Raum a) Bezirksausschuss 1, Altstadt -Lehel
+- TOP .3.: Mehrjahresinvestitionsprogramm 2010 - 2014 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen und Gliederungsziffern Sizungsvoorlagen Nrn.: 08-14 / V 04345 und 04346
+- TOP .4.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/34 Leopoldstraße (östlich), Nymphenburg-Biederstein-Kanal (südlich), Berliner Straße (westlich), Johann-Fichte-Straße (nördlich) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.06.2010 Sitzungsvorlagen Nr. 08-14 / V 04528
+- TOP .5.: Bearrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken Beschluss des Bauausschusses vom 06.07.2010 Sitzungsvorlage Nr. 08-14 / V 01925
+- TOP .6.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/31, Frankfurter Ring (südlich), Joseph-Dollinger-Bogen (westlich), BAB A9 Berlin-München (westlich) und Domagkstraße (nördlich) - ehemalige Funkkaserne (Billigungsbeschluss und vorbehaltlich endgültiger Beschluss) Sitzungsvorlagen Nr.: 08-14 / V 04516
+- TOP .7.: Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten; Schulen) Empfehlung Nr. 08-14 / E 00384 der Bürgerversammlung des Stadtbezirkes 15 - Trudering-Riem Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 Sitzungsvorlagen Nr.: 08-14 / 04539
+- TOP .8.: Baumaßnahmen der Stadtwerke München - Lindberghstraße 7, Fernwärme, Beginn Anfang August; Dauer ca. 6 Wochen - Floriansmühlstraße, Gas, Beginn 37. KW, Dauer ca. 6 Wochen - Franz-Joseph-Straße 5, Fernwärme, Beginn 26. KW, Dauer ca. 5 Wochen
+- TOP .9.: 40. Städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 Sitzungsvorlagen Nr. 08-14 / V 04571
+- TOP .10.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten Empfehlung Nr. 08-14 / E 00429 der Bürgerversammlung des Stadtbezirkes 2 - Ludwigvorstadt-Isarvorstadt am 12.11.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 Sitzungsvorlagen Nr. 08-14 / V 04578
+- TOP .11.: Landesentwicklungsprogramm, Antrag Nr. 08-14 / A 01459 von Herrn Stadtrat Alexander Reissl, Frau Stadträtin Claudia Tausend Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 Sitzungsvorlagen Nr. 08-14 / V 04629
+- TOP .12.: Schutz der Mieterinnen und Mieter im Zusammenghang mit dem Verkauf der GBW AG-Wohnungen Anträge der Bezirksausschüsse der Stadtbezirke 4, 9, 10, 17, 18, 21, 24 und 25 (Schreiben des Herrn OB Ch. Ude vom 27.05.2010)
+- TOP .13.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung Empfehlung Nr. 08-14 / E 00252 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching-Hasenbergl vom 26.03.2009 Beschluss des Bauausschusses vom 15.06.2010 Sitzungsvorlage Nr. 08-14 / V 04017
+- TOP .14.: Gieselastraße 26, Flurnr.: 3273/8; Rückumwandlung von Büroräumen zu Wohnungen in der Giselastraße
+- TOP .15.: Osterswaldstr. 66, Ensembleschutz für die Schumann'schen Pavillonhäuser (Zwischennachricht des Planungsreferates)
+- TOP .1.: Erweiterung des absoluten Haltverbots zwischen der Gohrenstraße und dem Anwesen Biedersteiner Straße 12
+- TOP .2.: Behindertengerechte Gestaltung des Öffentlichen Raums - Verbesserung für Sehbehinderte I
+- TOP .3.: Behindertengerechte Gestaltung des Öffentlichen Raums - Verbesserung für Sehbehinderte II
+- TOP .4.: Behindertengerechte Gestaltung des Öffentlichen Raums - Rampe für Rollstuhlfahrer
+- TOP .5.: Umwidmung des Weges zwischen Burmester- und Heidemannstraße in einen Rad- und Fußweg
+- TOP .1.: Lichtzeichenanlage Oettingen- / Tivolistraße
+- TOP .1.: Schließung des Lärmschutzwalls an der Heidemannstraße 207
+- TOP .2.: Erstellung eines Aktionsplanes für den Lärmschutz in der Heidemannstraße
+- TOP .1.: Wiederherstellung der Wohnqualität im Bereich Grusonsiedlung / Ecke Schmidbartlanger
+- TOP .2.: Vermüllung des Vorplatzes vor der Kath. Pfarrkirche am Kaiserplatz 1
+- TOP .3.: Nutzung des Fahrradweges zwischen der Einmündung des Fuß-/Fahrradweges von der Rühmannstraße zur Leopoldstraße
+- TOP .4.: Verkehrsverbesserung im Bereich Osterwaldstraße
+- TOP .5.: Verbesserung der Einsicht in die Kreuzung Lyonel-Feininger- / Anni-Albers-Straße durch Haltverbot im gesamten Kreuzungsbereich und Verbesserung des Radweges am Münchner Tor
+- TOP .1.: Kostenpflichtige Entfernung von Einkaufswägen im öffentlichen Raum
+- TOP .1.: Parklizenzgebiet "Tristanstraße"
+- TOP .1.: Verlängerung der Ausnahmebewilligung für die Baustelleneinrichtung in der Grünanlage an der Biedersteiner Straße 32
+- TOP .2.: Parkraummanagement, Einführung der Parklizenzierung im Gebiet "Tristanstraße"
+- TOP .3.: Kein Anbringen von Monitoren in U-Bahnen und Abschaltung der Musik in den U-Bahnhöfen (Schreiben des Referates für Arbeit und Wirtschaft zum Bürgeranliegen TOP: D.4.3./04/10)
+- TOP .4.: Bordsteinabsenkung in der Burmesterstr. (Schreiben des Baureferates zum Bürgeranliegen TOP: D.4.4./04/10)
+- TOP .5.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .2.: Rechtmässigkeit von Inhalten von Wechselwerbeanlagen im öffentlichen Raum
+- TOP .2.: Verbesserung der Abbiegerregelung und Ampelphasen an der Parzival-/Leopoldstraße
