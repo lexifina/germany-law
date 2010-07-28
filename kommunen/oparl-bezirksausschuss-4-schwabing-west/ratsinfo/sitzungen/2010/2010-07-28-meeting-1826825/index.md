@@ -1,0 +1,61 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2010-07-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1826825
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1826825
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Schleißheimer Str. 83, Metzgerei ?Liedl?: Genehmigung einer Freischankfläche
+- TOP .2.: Elisabethstr. 55, ?Die Blume?: 2 Warenstellagen
+- TOP .3.: Isabellastr. 48, ?Schöngeist?: 1 Kleiderständer
+- TOP .4.: Schleißheimer Str. 200, ?Schuh-Seidl?: 4 Warenstellagen
+- TOP .5.: Belgradstr. 3, ?Gallery Rizzo?: 1 Warenstellage
+- TOP .6.: Nordendstr. 60, ?Taverna Kreta Grill?: Erweiterung der Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: Buchprojekt über Künstler, die Schüler des Maximiliansgymnasiums waren
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: SPD: Neuausschreibung der Flächen für Außenwerbung: Arbeitnehmerrechte achten
+- TOP .2.1.: Planen
+- TOP .1.: Barlachstr. 24, Neuerrichtung der Ernst-Barlach-Schule (?Haus D?), Umbau ?Haus C?
+- TOP .2.: Schleißheimer Str. 159: Nutzungsänderung ehemaliger Gaststätten-Nebenräume in Spielräume zur Erweiterung einer Kinderbetreuungseinrichtung
+- TOP .3.: Fürstenbergstr. 15, Neubau einer Wohnanlage (53 WE) mit einer Ladeneinheit im EG und einer Tiefgarage (66 Stellplätze) (Fürstenbergstr. 15 / Lerchenauer Str. 24-26)
+- TOP .4.: Tengstr. 45, DG-Umbau mit Errichtung des historischen Giebels und Nutzungsänderung zweier Wohnungen in Büros im EG + 1. OG
+- TOP .5.: Tengstr. 45, Umbau der ehemaligen Hausmeisterwohnung im Tiefparterre
+- TOP .6.: Römerstr. 29, Ausbau und Sanierung eines Dachgeschosses
+- TOP .7.: Fallmerayerstr. 16, Zusammenlegung der Gaststätten 171 + 172 und Errichtung eines gemeinsamen Wirtsgartens
+- TOP .8.: Landschafts- und stadtplanerische Rahmenplanung und Umweltstudie Olympiapark
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürgerin: Fahrradabstellplätze und Pflanzkübel in der Rankestraße
+- TOP .2.: Bürger: Kreuzung Birnauer/Lerchenauer Straße: Unsignalisierte Einmündung neben Fußgängersignal
+- TOP .2.1.: Umwelt
+- TOP .3.: Belgradstr. 59: Fällung eines Ahorn
+- TOP .4.: Winzererstr. 142-146: Fällung einer Hainbuche, einer Birke und eines Ahorn
+- TOP .5.: Winzererstr. 134b-140: Fällung einer Birke, zweier Ahornbäume und einer Kiefer
+- TOP .6.: Infanteriestr. 5 (Parkplatz): Fällung eines Ahorn
+- TOP .7.: Bonner Str. 17-17d: Fällung einer Schwarzpappel und einer Buche (?)
+- TOP .8.: Kölner Platz 1: Fällung verschiedener Bäume in Zusammenhang mit Baumaßnahmen (1. Bauabschnitt)
+- TOP .9.: Kölner Platz 1: Fällung verschiedener Bäume in Zusammenhang mit Baumaßnahmen (2. Bauabschnitt)
+- TOP .2.2.: Verkehr
+- TOP .1.: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung
+- TOP .2.: James-Loeb-Straße: Einrichtung eines Haltverbots
+- TOP .1.: Ferienausschusses am 25.08.2010 1.1 Besetzung 1.2 Wahl der/des Ausschussvorsitzenden
+- TOP .2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten Anhörung zum vertagten Beschlussentwurf für den Verwaltungs- und Personalausschuss
+- TOP .1.: Unterausschuss Soziales am 22.07.2010 um 18.00 Uhr in der hpkj (heilpädagogisch-psychotherapeutische Kinder- und Jugendhilfe e.V.), Hohenzollernstr. 93, 1. Stock
+- TOP .2.: Unterausschuss Wirtschaft und Kultur am 21.07.2010 um 19.00 Uhr im SPD-Bürgerbüro, Belgradstr.15 a
+- TOP .3.: Unterausschuss Planen und Wohnen am 21.07.2010 um 19.30 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .4.: Unterausschuss Umwelt und Verkehr am 21.07.2010 um 18.00 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
