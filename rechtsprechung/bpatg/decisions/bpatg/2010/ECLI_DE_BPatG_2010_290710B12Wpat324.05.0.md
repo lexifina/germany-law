@@ -1,0 +1,143 @@
+---
+ecli: "ECLI:DE:BPatG:2010:290710B12Wpat324.05.0"
+court: "Bundespatentgericht"
+spruchkoerper: "12"
+aktenzeichen: "12 W (pat) 324/05"
+decided: "2010-07-29"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bpatg&Art=en&Datum=2010&Sort=1&Seite=56&nr=17463&anz=1397&pos=850&Blank=1.pdf"
+corpus_doc_id: "BPatG_TechnBeschw_NA_2010-07-29_12_W-pat_324_05_NA_0.txt"
+cites_law: ["germany/bund/acts/patg/0020.md", "germany/bund/acts/patg/0147.md"]
+---
+
+# Bundespatentgericht, 12 W (pat) 324/05 vom 2010-07-29
+
+## Entscheidung
+
+BUNDESPATENTGERICHT
+
+
+
+ 12 W (pat) 324/05
+_______________________
+
+    (Aktenzeichen)
+
+
+
+
+                               BESCHLUSS
+
+                              In der Einspruchssache
+
+
+                          betreffend das Patent 199 52 214
+
+
+…
+
+
+
+
+BPatG 152
+08.05
+
+                                      -2-
+
+
+
+…
+
+
+
+
+hat der 12. Senat (Technischer Beschwerdesenat) des Bundespatentgerichts am
+29. Juli 2010 unter Mitwirkung des Vorsitzenden Richters Dr.-Ing. Ipfelkofer, der
+Richterin Bayer sowie der Richter Dipl.-Ing. Sandkämper und Dr.-Ing. Baumgart
+
+
+beschlossen:
+
+
+                  Der Einspruch wird als unzulässig verworfen.
+
+
+
+
+                                   Gründe
+
+
+                                       I.
+
+
+Die Erteilung des Patents 199 52 214 mit der Bezeichnung
+
+
+                      „Becherförmiger Schraubverschluss“
+
+
+ist am 10. Februar 2005 veröffentlicht worden. Gegen dieses Patent hat die
+Einsprechende am 14. April 2005 Einspruch erhoben.
+
+
+Das Deutsche Patent- und Markenamt hat mitgeteilt, dass das Patent 199 52 214
+am 1. Mai 2010 wegen Nichtzahlung der Jahresgebühr erloschen ist.
+
+
+Die Einsprechende hat mitgeteilt, dass sie ein Rechtsschutzinteresse an einem
+rückwirkenden Widerruf des Patents nicht geltend macht.
+
+                                        -3-
+
+
+
+Wegen weiterer Einzelheiten wird auf den Inhalt der Akten Bezug benommen.
+
+
+
+
+                                            II.
+
+
+1.    Das Bundespatentgericht ist für die Entscheidung über den Einspruch
+gemäß § 147 Abs. 3 Satz 1 Nr. 1 PatG in der bis zum 30. Juni 2006 gültigen
+Fassung weiterhin zuständig, weil die Einspruchsfrist im vorliegenden Fall nach
+dem 1. Januar 2002 zu laufen begonnen hat und der Einspruch vor dem
+1. Juli 2006   eingelegt    worden      ist       (vgl.   BGH   GRUR 2007,    863
+- Informationsübermittlungsverfahren II).
+
+
+2.    Der Einspruch ist zu verwerfen.
+
+
+Das Patent 199 52 214 ist durch Nichtzahlung der Jahresgebühr erloschen (§ 20
+Abs. 1 Nr. 3 PatG). Ein Patent kann für die Zeit nach seinem Erlöschen weder
+widerrufen noch aufrechterhalten werden, so dass sich das Einspruchsverfahren
+hinsichtlich des Patents für die Zeit nach seinem Erlöschen erledigt hat.
+
+
+Ein Einsprechender kann nach Erlöschen des Patents eine Fortsetzung des
+Einspruchsverfahrens, das dann nur noch die Wirkungen des Patents für die Zeit
+vor dessen Erlöschen betrifft, nur verlangen, wenn bei ihm ein besonderes
+Rechtsschutzinteresse gegeben ist (BGH GRUR 1997, 615 - Vornapf; BGH PMZ
+2008, 154 - Kornfeinung). Ein Angriff auf ein Schutzrecht, das nicht mehr in Kraft
+ist, kann nämlich nicht mit Allgemeininteressen gerechtfertigt werden (BGH GRUR
+1995, 342 - Tafelförmige Elemente). Da die Einsprechende ein besonderes
+Rechtsschutzinteresse hinsichtlich der Wirkungen des Patents für die Vergangenheit nicht geltend gemacht hat und ein solches auch nicht ersichtlich ist,
+
+                                   -4-
+
+
+
+ist der Einspruch zum maßgebenden Zeitpunkt der Entscheidung unzulässig und
+daher zu verwerfen.
+
+
+
+
+Dr. Ipfelkofer        Bayer              Sandkämper           Dr. Baumgart
+
+
+
+
+                                                                        Me
