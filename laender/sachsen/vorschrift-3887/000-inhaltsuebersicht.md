@@ -12,11 +12,12 @@ Abschnitt 1 Allgemeines
 § 10 Aufgabe der Klinik- und Krankenhausschule
 § 11 Beratungsstellen
 § 12 Förderzentrum und Förderschulzentrum
-Abschnitt 2 Feststellung sonderpädagogischen Förderbedarfs, Wechsel der Schule und der Schulart
+Abschnitt 2 Feststellung sonderpädagogischen Förderbedarfs, Schuleingangsphase, Wechsel der Schule und der Schulart
 § 13 Verfahren zur Feststellung des sonderpädagogischen Förderbedarfs
 § 14 Anmeldung und Aufnahme
+§ 14a Schuleingangsphase
 § 15 Wechsel des Förderschultyps
-§ 16 Wechsel in eine andere allgemein bildende Schule
+§ 16 Wechsel in eine andere allgemein bildende Schule, Bildungsempfehlung
 § 17 Förderplanung
 Abschnitt 3 Unterrichtsorganisation
 § 18 Klassen- und Gruppenbildung
