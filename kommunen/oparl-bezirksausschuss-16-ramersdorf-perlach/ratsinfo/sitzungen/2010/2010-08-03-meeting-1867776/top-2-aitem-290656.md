@@ -1,0 +1,7 @@
+# TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+
+- Sitzung: BA 16 - Vollgremium (2010-08-03)
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/290656
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/290656
