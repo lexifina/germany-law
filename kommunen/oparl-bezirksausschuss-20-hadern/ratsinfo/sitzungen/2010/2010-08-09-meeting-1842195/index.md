@@ -1,0 +1,94 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842195
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842195
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Ergebnisse Stadtteilcheck des Kreisjugendring im Stadtbezirk 20 (KJR, 05.07.10)
+- TOP 1.2.: Gelände für die geplante Polizeiinspektion am Stiftsbogen
+- TOP 1.3.: Grundstückspflege Brunellenweg / Rolf-Pinegger-Straße
+- TOP 1.4.: Bürgeranliegen: 1. Verunreinigungen vor dem REWE Senftenauerstraße / Alpenveilchenstraße 2. Geschwindigkeitskontrollen in der Senftenauerstraße / Menaristraße
+- TOP 1.5.: Fußweg zwischen Wohnstift Augustinum und Bezirkssportanlage am Wolkerweg
+- TOP 1.6.: Verkehrsberuhigung Pfingstrosenstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, FV Kindergarten Fronleichnam e.V., Neue Spielgeräte für den Kindergarten (Direktorium, 29.07.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren: Waldgartenstraße 1 Ecke Heiglhofstraße 21 (Baureferat, 07.07.10)
+- TOP 6.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Guardinistraße 91 (Kreisverwaltungsreferat, 16.07.10)
+- TOP 6.3.: Veranstaltung in einer städtischen Grünanlage, hier: Waldfriedhof Neuer Teil, Aussegnungshalle, Lorettoplatz 3 "Märchen, Mythen, Seelenbretter" am 28.08.10 von 10.00 - 18.00 Uhr (Kreisverwaltungsreferat, 23.07.10)
+- TOP 6.4.: Erfahrungsbericht zum Sommerfest des Klinikum Großhadern Marchioninistraße 15 am 21.07.2010 (Kreisverwaltungsreferat, 02.08.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Ebernburgstraße 12 / Rudelsburgstraße, 1 Birke und 1 Silberahorn
+- TOP 7.2.: Fürstenrieder Straße 178, 1 Fichte und 1 Pflaumenbaum
+- TOP 7.3.: Geroldseckstraße 4 - 6, 3 Birken
+- TOP 7.4.: Goldregenstraße 1 a, 1 Birke
+- TOP 7.5.: Heiglhofstraße 34, 3 Fichten
+- TOP 7.6.: Kleinhaderner Straße 37, 2 Fichten
+- TOP 7.7.: Am Heidebruch 4 f, 1 Tanne
+- TOP 7.8.: Waldeslust 25, 1 Linde
+- TOP 7.9.: Eichenstraße 27 a, 1 Birke und 2 Lerchen
+- TOP 7.10.: Steinbrechweg 8, 1 Birke
+- TOP 7.11.: Großhaderner Straße 50, 1 Birke
+- TOP 7.12.: Zypressenweg 4, 1 Fichte
+- TOP 7.13.: Gräfelfinger Straße 53, Hohenklingenstraße 27 und 29, 2 Fichten und 1 Robinie
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Buschrosenweg (Sozialreferat, 30.06.10) - Klematisstraße (Sozialreferat, 15.07.10) - Küchelstraße (Sozialreferat, 19.07.10) - Kleinhaderner Straße (Sozialreferat, 20.07.10)
+- TOP 8.2.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen (Oberbürgermeister Ude, 12.07.10)
+- TOP 8.3.: Beschluss des Bezirksausschusses des Stadtbezirkes 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 06.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04662: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19, Umstufung der Gesamtstrecke der Forst-Kasten-Allee (MS 4)
+- TOP 8.4.: Gleisrückbau in der Würmtal- und Kriegerheimstraße sowie Umbau der Buswendeanlage Lorettoplatz mit Gleisrückbau (MVG, 15.07.10)
+- TOP 8.5.: Anzeige einer Zirkusveranstaltung; Aufstellen eines Zirkuszeltes am Max-Lebsche-Platz vom 23.07. - 01.08.10 (Kreisverwaltungsreferat, 19.07.10)
+- TOP 8.6.: Zuwendung aus dem Budget der Bezirksausschüsse, Antrag vom 09.06.2010 beim BA 20, Antragsteller: Stüps Blumenau, Streitschlichterausbildung vom 19. - 22.07.2010 (Direktorium, 22.07.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Stadtteilwoche 2016 Hadern (Kulturreferat, 30.06.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Beleuchtung der Türme des Augustinums (Augustinum München Neufriedenheim, 29.07.10)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Broschüre "Aus Alt mach Neu" (Referat für Gesundheit und Umwelt, 12.07.10)
+- TOP 11.2.: Infobrief Nr. 27 des Ausländerbeirates (Ausländerbeirat München, 06.07.10)
+- TOP 11.3.: Faltblatt "Lärmminderungsplanung in München - Mitwirkung der Öffentlichkeit" (Referat für Gesundheit und Umwelt, 05.07.10)
+- TOP 11.4.: Einladung zu Veranstaltungen "Engagement in einer Tour" (Caritas, 07.07.10)
+- TOP 11.5.: Informationsveranstaltung für die Bezirksausschüsse am Dienstag, 28.09.2010; Bewerbung um die Olympischen und Paralympischen Winterspiele 2018 (Oberbürgermeister Ude, 23.06.10)
+- TOP 11.6.: Fachtagung am 28./29.10.2010 "Heimatliebe, Nationalstolz und Rassismus - Einzelmeinungen oder Trend? Extrem rechte polititsche Weltanschauungen von MitgrantInnen." (Feierwerk, 12.07.10)
+- TOP 11.7.: Münchner Jahreswirtschaftsbericht 2010 (Referat für Arbeit und Wirtschaft, 16.07.10)
+- TOP 11.8.: Bürgerversammlung des 20. Stadtbezirkes Hadern am Dienstag, den 28.09.2010 (OB Ude, 13.07.10)
+- TOP 11.9.: Anträge des Vereins Lilalu e.V. vom 18.02.2010 auf Bezuschussung des Sommerferienprogramms "Umsonst & Draußen" vom 13.08. - 29.08.2010 (Schr. BA 9 Neuhausen-Nymphenburg an OB Ude, 22.07.10)
+- TOP 11.10.: Veranstaltungsankündigung: "Grauzone - alles klar, oder!? Musikkultur und Bands zwischen rechtsoffen und extrem rechts" am Donnerstag, 30.09.2010 (Feierwerk, 21.07.10)
+- TOP 11.11.: Einladung zum Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Freitag, den 17.09.2010 (Gleichstellungsstelle für Frauen, 26.07.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 15.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04017 (nach Antrag): Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung ab 2011 Frühzeitige Abrechnung von Erschließungsbeiträgen ab Herbst 2011
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 zur Sitzungsvorlage-Nr. 08/14 / V 04539 (nach Antrag): Änderung der Bayerischen Bauordnung; Baugenehmigungspflicht für Mobilfunkantennen in sensiblen Bereichen (Kindergärten; Schulen) (abgelehnt)
+- TOP 12.3.: Beschluss des Kulturausschusses vom 08.07.2010 zur Sitzungsvorlage-Nr. 08/14 / V 04495: Stärkung der Stadtteilkultur, Bericht über Verbesserungen im Bereich Veranstaltungstechnik und Hausmeisterdienste (abgelehnt, betrifft den Stadtteil Au)
+- TOP 12.1.: Beschluss des Bauausschusses vom 06.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 01925: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken (betrifft die Stadtbezirke 9, 16 und 18)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 08.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04264: Mehrjahresinvestitionsprogramm (MIP) 2010 - 2014 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Dissens 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse, insbesondere des BA Hadern vom 14.10.2009 (S. 20) mit Stellungnahme des Schulreferates (S. 21 - 23) - zu "Lärm- und Abgasschutzmaßnahmen für die BSA Wolkerweg" (abgelehnt), - zur "Errichtung einer Rampe für die Turnhalle und das Schwimmbad in der Schule an der Guardinistraße" (abgelehnt), - zum "sofortigen Planungsbeginn für die Kita an der Heiglhofstraße 68" (abgelehnt), - zur "Modellsporthalle Hadern" (abgelehnt), - zu den "Kunstrasenplätzen in den BSA'en am Wolkerweg und an der Ludwig-Hunger-Straße" (abgelehnt), - zur "Erweiterung der Schulturnhalle für die GS an der Senftenauerstraße" (noch kein konkreter Termin) und - zur "Sanierung der Sanitäranlagen und Fenster in den GS'en an der Senftenauerstraße (abgelehnt) und Guardinistraße (nur der Fenster, nicht der Sanitäranlagen)" (S. 23)
+- TOP 12.2.: Beschluss des Sozialausschusses vom 10.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04187: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2010 - 2014, Einzelplan 4 / Sozialbereich, insbesondere Stellungnahme des Sozialreferates zu den BA-Forderungen vom 14.10.2009, betreffend - das ASZ am Stiftsbogen und - die Verlagerung des Sozialbürgerhauses an den Ratzingerplatz (S. 19, Abschnitt 3.5, und Anlage 8)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04629 (nach Antrag): Landesentwicklungsprogramm
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung zur Sitzungsvorlage-Nr. 08-14 / V 04578: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohungen in Erhaltungssatzungsgebieten (abgelehnt)
+- TOP 12.1.: Beschluss des Kommunalausschusses vom 17.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04371 (nach Antrag): Mehrjahresinvestitionsprogramm 2010 bis 2014; Maßnahmen im Bereich des Kommunalreferates; Programmentwurf, insbesondere Stellungnahme des Kommunalreferates zu den BA-Forderungen vom 14.10.2009, betreffend - die Verlagerung des Sozialbürgerhauses an den Ratzingerplatz (abgelehnt) und - die Wiedereröffnung der Toilettenanlagen am Lorettoplatz (Privatisierung angestrebt) (S. 5)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03539: Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive -, insbesondere zum Versorgungsgrad der Kinderkrippen in Hadern (in 2009 = 23%, angestrebt bis 2013 = 27%)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Kulturausschusses vom 08.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04481: Stärkung der Stadtteilkultur, Erfahrungsbericht, insbesondere - zur Stadtteilwoche Hadern, - zum Jahresprogramm der Kultur in Hadern e.V., - zum Haderner Jugendkulturtag, - zur VHS Hadern und - zur Stadtbibliothek Hadern (Anlage 2)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
