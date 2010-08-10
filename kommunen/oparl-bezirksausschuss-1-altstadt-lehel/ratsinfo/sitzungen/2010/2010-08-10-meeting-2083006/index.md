@@ -1,0 +1,55 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-08-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2083006
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2083006
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Unregelmäßigkeiten bei der Postzustellung ; Entstehung von Ladungsmängeln
+- TOP .1.: N: Emil-Riedel-Str. 11: DG-Ausbau und Errichtung von 3 Hotelzimmern sowie Nutzungsänderung
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Müllerstraße 56: Umbau und Erweiterung einer Spielothek
+- TOP .2.: Marienplatz 16: Zusammenlegung zweier Ladenflächen zu einer Ladenfläche
+- TOP .3.: Gewürzmühlstraße 7-13: Umbau und Sanierung des Verwaltungsgebäudes
+- TOP .4.: Hildegardstraße 2: Temporäre Nutzungsänderung eines Ladenlokals
+- TOP .1.: Bürger: Wiederherstellung der Rettungsleiter vor dem Alpenverein
+- TOP .2.1: Gaststätten
+- TOP .1.: Firma Schokoagenten, Viktualienmarkt 6: Genehmigungen einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Begleitprogramm des Literaturhauses zum Oktoberfest, 19.09.2010, Salvatorplatz
+- TOP .2.: Straßenfest 'Am Einlaß', 25.09.2010
+- TOP .3.: Bauernmarktmeile, 26.09.2010, Odeonsplatz und Ludwigstraße
+- TOP .4.: Streetlife-Festival / CorsoLeopold sowie Biomarkt am Odeonsplatz (11./12.09.2010)
+- TOP .5.: ?Pipeline der Gesundheit? auf dem Karlsplatz (28.09. - 01.10.2010)
+- TOP .6.: ?Woche des Hörens? auf dem Sendlinger-Tor-Platz am 17.09.2010
+- TOP .7.: ?Mogelpackungen? in der Neuhauser Straße am 17.09.2010
+- TOP .8.: 4. Kultur- und Shoppingnacht am 10.09.2010
+- TOP .1.: PSA Damenstiftstraße 6
+- TOP .1.: Blaue Zone Graggenauviertel; Verkehrsregelung Falckenbergstraße
+- TOP .1.: Bericht zur Grundschule an der Herrnstraße
+- TOP .1.: Glockenbachwerkstatt: Überbauung Bolzplatz / Anwesen Müllerstraße 2/4/6
+- TOP .2.: Unterstützung des Antrag des BA 2 auf Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Lyrikoase" Sommerfest am 03.08.2010
+- TOP .2.: (E) Budget der Bezirksausschüsse Teamtheater Tankstelle e.V. 25-Jahr-Feier am 25.09.2010
+- TOP .1.: Denkmal für die im Nationalsozialismus verfolgten Lesben und Schwule
+- TOP 0: Unterrichtungen
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP .2.: Zweckentfremdung von Wohnraum
