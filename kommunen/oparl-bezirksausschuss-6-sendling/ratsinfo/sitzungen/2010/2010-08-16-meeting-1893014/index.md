@@ -1,0 +1,67 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-08-16T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893014
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893014
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Evang. Johanniter-Gymnasium München; Lipowskystr. 15
+- TOP 3: Soziales und Sozialreferat
+- TOP 4: Schulreferat
+- TOP 4.1.: Das Schulreferat trifft die Bezirksausschüsse; Termin 20.10.2010
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Warenstellage Lindwurmstr. 209
+- TOP 6.2.: Mobiler Fahrradständer Lindwurmstr. 209
+- TOP 6.3.: Warenstellage Lindwurmstr. 201
+- TOP 6.4.: Mobiler Fahrradständer Implerstr. 49
+- TOP 6.5.: 1/2-Gehweg-Längsparker in der Maronstr. Ostseite
+- TOP 6.6.: Monitore in allen U-Bahnwaggons
+- TOP 6.7.: Umstellung der Rolltreppen vom Bahnsteig in das Zwischengeschoss im U-Bahnhof Implerstraße auf Fahrtrichtungswechsel BV-Empfehlung Nr. 423 vom 29.10.2009
+- TOP 6.8.: Erdgasprojekt Plinganserstraße
+- TOP 6.9.: ?Parkplätze? in der Wiese rund um das Südbad
+- TOP 7.1.: Budgetrichtlinien des BA 6
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Himmelfahrtskirche München-Sendling 3. Sendlinger Orgelnacht am 29.10.10 - <div>Gekürzt auf ? 2230,-</div>
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Fabi - Paritätische Familienbildungsstätte München e.V. Renovierung der Zweigstelle Thalkirchen-Sendling - <div>vertagt</div>
+- TOP 7.4.: Projekt Isarlust - Temporäre Fußgängerbrücke; Termin Oktober 2010
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Thalkirchner Str. 190
+- TOP 8.3.: Bauvorhaben Valleystr. 15
+- TOP 8.4.: Bauvorhaben Oberländerstr. 24 - 24a
+- TOP 8.5.: Bauvorhaben Implerstr. 11
+- TOP 8.6.: Bauvorhaben Lindenschmitstr. 35
+- TOP 8.7.: Bauvorhaben Kidlerstr. 34
+- TOP 8.8.: Bauvorhaben Gaißacher Str. 18 - 20
+- TOP 8.9.: Umgestaltung des S-Bahnbahnhofes Harras
+- TOP 8.10.: Grundstücksverkauf Fritz-Endres-Straße (MK 5)
+- TOP 8.11.: Bauvorhaben Plinganserstr. Clearinghaus mit TG
+- TOP 9: Baureferat
+- TOP 9.1.: Am Isarkanal; Gehbahnsanierung durch Sonderpartie
+- TOP 9.2.: Dokumentation Quartiersplatz Theresienhöhe
+- TOP 9.3.: Öffnung des Mittelteilers zur Buswende an der Plinganserstr. Ecke Sylvensteinstr.
+- TOP 9.4.: Straßenbauarbeiten in der Bruderhofstr. zwischen Dietramszeller- und Urbanstr.
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Ganghoferstr. 86 - 88; ein Ahorn
+- TOP 10.2.: Baumfällung Reutberger Str. 6
+- TOP 10.3.: Bauvorhaben Zechstraße 3
+- TOP 10.4.: Baumfällung Kidlerstr. 34
+- TOP 10.5.: Genehmigung der Baumfällung Alramstr. 29
+- TOP 10.6.: Baumfällung Plinganserstr., Clearinghaus
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP 13.2.: Informationsveranstaltung für die BAs zu den Olympischen und Paralympischen Winterspielen 2018
+- TOP 13.3.: Haushaltsplan 2010 (in der BA-Geschäftsstelle)
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
