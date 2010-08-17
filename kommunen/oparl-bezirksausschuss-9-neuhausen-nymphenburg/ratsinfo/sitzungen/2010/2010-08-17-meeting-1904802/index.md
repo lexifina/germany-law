@@ -1,0 +1,165 @@
+# BA 09 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 9: Neuhausen-Nymphenburg
+- Beginn: 2010-08-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/294
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904802
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904802
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung gem. § 13 der Satzung, Genehmigung des Protokolls der letzten Sitzu
+- TOP 1.1.: Abberufung des Jugendbeauftragten / Neuwahl eines Jugendbeauftragten
+- TOP 2.1: Bürgeranliegen
+- TOP 2.2: Anträge
+- TOP 2.3: Anträge auf Zuschüsse aus dem Budget
+- TOP 2.4: Beschlussvorlagen
+- TOP 3: Berichte
+- TOP 3.3.1: Unterausschuss für Verkehr
+- TOP 3.1.: Bürgeranliegen: Ampelschaltung Romanplatz
+- TOP 3.2.: Bürgeranliegen: Anlieferung vor Tengelmannfiliale Heideckstr. 27
+- TOP 3.3.: Bürgeranliegen: Kurzparkzone auf beiden Seiten am Westfriedhof
+- TOP 3.4.: Bürgeranliegen: Verschiedene Anträge zum Stadtviertel (Nr. 1,2, 3,5 und 6 des Schreibens)
+- TOP 3.5.: Bürgeranliegen: Absperrgitter an der Trambahnhaltestelle Arnulf-/Hirschbergstraße
+- TOP 3.6.: Bürgeranliegen: Litfaßsäule und Bordsteinabsenkung an der Ecke Richel-/Schäringerstraße
+- TOP 3.7.: Baugenossenschaft der Bundespostbeamten: Wohnanlage Canalettostraße 25-28; Zweckentfremdung der für Anwohner und Besucher errichteten Parkplätze
+- TOP 3.8.: Auf Herz und Rampen prüfen: Auflistung getesteter Stellen in Neuhausen, die nicht barrierefrei sind
+- TOP 3.9.: BA 12 Schwabing-Freimann: Monitore in allen U-Bahnwaggons
+- TOP 3.10.: Antrag FDP: Öffnung der Einbahnstraße Laimer Straße zwischen Richilden- und Wotanstraße für den beidseitigen Fahrradverkehr
+- TOP 3.11.: Baureferat: Sanierung der Fahrbahn in der Landshuter Allee zwischen Hanebergstraße und Kusocinskidamm von 06.08.-03.09.10
+- TOP 3.12.: KVR: Verkehrsrechtliche Anordnung wegen Fernwärmearbeiten in der Winthir- und Volkartstraße vom 28.07.-07.10.10
+- TOP 3.13.: KVR: Ausnahmegenehmigung für Baustelleneinrichtung am Eisnergutbogen von 16.07.-31.10.10
+- TOP 3.14.: MVG: Verlegung der Haltestelle "Amalienburgstraße" der StadtBus-Linie 143 Richtung Olympia-Einkaufszentrum
+- TOP 3.15.: Baumaßnahmen der Stadtwerke: Stromprojekt Nibelungen./Rheingoldstraße
+- TOP 3.16.: Namensgebung der Weiterführung der Margarethe-Danzi-Straße
+- TOP 3.17.: FC Teutonia: Zufahrt Sportgelände (Schreiben BA 9 vom 20.07.10)
+- TOP 3.18.: KVR: Radfahrerfreundliche Lösung am Romanplatz (Antrag BA 9 Nr. 2205 vom 15.06.10)
+- TOP 3.19.: Baureferat: Bürgeranliegen: Straßenbeleuchtung Böcklinstraße (Schreiben BA 9 vom 18.05.10)
+- TOP 3.20.: Bürgeranliegen: Haltverbot / Lieferzone Hirschgartenallee / Romanstraße
+- TOP 3.21.: Antrag CSU: Tram Westtangente: Basisdaten zur Fahrgastzählung 2009 der Buslinien 51/151 und aktuelles Fahrzeugaufkommen der Wotanstraße
+- TOP 3.22.: MVG: Tram Westtangente, Haltestelle Kemnatenstraße
+- TOP 3.23.: Bürgeranliegen: Raser in der Birkerstraße (Schreiben BA 9 vom 15.03.10)
+- TOP 3.24.: Planungsreferat: Statt Wendeschleife an der Lothstraße Frequenzverstärkung der Tram 20/21 bis Westfriedhof (Antrag BA 9 Nr. 2142 vom 18.05.10)
+- TOP 3.25.: Bürgeranliegen: Absenkung der Bürgersteige an der Dachauer Straße / Landshuter Allee
+- TOP 3.26.: Bürgeranliegen: Fahrradweg Grünanlage an der Schlossmauer
+- TOP 3.27.: KVR: Öffnung der Romanstraße zwischen der Gaßnerstraße und Romanstr. 93 für den gegenläufigen Radverkehr
+- TOP 3.28.: KVR: Südliche Auffahrtsallee; Errichtung absolute Haltverbote zwischen Nymphenburger Straße und Waisenhausstraße
+- TOP 3.29.: Beschluss des Bauausschusses vom 06.07.10: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken (Antrag BA 9 Nr. 1625 vom 21.11.06, Barrierefreie Ausgestaltung der Fußgängerunterführungen Landshuter Allee)
+- TOP 3.30.: Beschluss des Bauausschusses vom 06.07.10: Fahrradstellplatzkonzept (1. Realisierungsabschnitt)
+- TOP 3.31.: =&gt; dazu: Ortstermin am Rotkreuzplatz wegen neuer Fahrradstellplätze am 14.09.10 um 17 Uhr
+- TOP 3.32.: Ergebnis der Umfrage: Der BA 9 will's wissen: Sind Sie zufrieden mit der Parklizenzierung in Ihrem Wohngebiet ?
+- TOP 3.33.: Stadtratsfraktion Die Grünen / Bund Naturschutz / Arbeitskreis Attraktiver Nahverkehr: Situation am Bahnhof Laim / Umweltverbundröhre, Einladung zu einer Diskussion am 29.09.10 um 18.30 Uhr
+- TOP 3.34.: Hauptbahnhof - Laim - Pasing
+- TOP 3.35.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.36.: Bewohnertreff Arnulfpark: Verschiedene Anfragen
+- TOP 3.37.: Baureferat: Einrichtung einer Ladezone in der Erika-Mann-Straße; Errichtung absoluter Haltverbote im Bereich des Wendehammers in der Erika-Mann-Straße (Schreiben BA 9 vom 18.05.10)
+- TOP 3.38.: Baureferat: Bürgeranliegen Baumaßnahmen Birketweg (Schreiben BA 9 vom 19.02.10)
+- TOP 3.3.2: Unterausschuss für Bau und Planung
+- TOP 3.1.: Bautennachweise vom 05.07.-11.07., 12.07.-18.07., 19.07.-25.07. und 26.07.-01.08.10
+- TOP 3.2.: Referat für Gesundheit und Umwelt: Broschüre "Aus Alt mach Neu"
+- TOP 3.3.: Bauvorhaben Tizianplatz 4: Neubau eines Einfamilienhauses, hier: Baumfällungen
+- TOP 3.4.: Bauvorhaben Malsenstr. 9: Neubau eines Reihenendhauses, hier: Baumfällungen
+- TOP 3.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.10: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten
+- TOP 3.6.: Bauvorhaben Amperstr. 11: Neubau einer Wohnanlage (5 WE) mit Tiefgarage
+- TOP 3.7.: Beschlussvorlage Planungsreferat: Landschafts- und stadtplanerische Rahmenplanung und Umweltstudie Olympiapark
+- TOP 3.8.: Bauvorhaben Albrechtstr.4: Erweiterung des Rupprecht-Gymnasiums, Vorbescheid
+- TOP 3.9.: Bürgeranliegen: Bauvorhaben Neuhauser Trafo, 2. Bauabschnitt; Schreiben zur Unterschriftenaktion von Anwohnern der Aldringenstraße
+- TOP 3.10.: Kindergarten Herz Jesu: Bauvorhaben Neuhauser Trafo, 2. Bauabschnitt; Spielplatz Aldringenstraße
+- TOP 3.11.: Bürgeranliegen: Baumaßnahmen Richildenstr. 22
+- TOP 3.12.: Bauvorhaben Nymphenburger Str. 150: Nutzungsänderung einer Gastronomie in drei Spielcasinos, Tektur
+- TOP 3.13.: Planungsreferat: Menzinger Str. 9, Sachstand zum Porzellanmalerhäuschen; Zustand der Häuser der Porzellanmanufaktur Nymphenburg (Antrag BA 9 Nr. 2043 vom 20.04.10)
+- TOP 3.14.: Kommunalreferat: Mitteilung über ein Grundstücksgeschäft, hier: Kindertagesstätte im WA 11, Bebauungsplan Birketweg
+- TOP 3.15.: Beratergremium Birketweg, Protokoll der Sitzung vom 14.07.10
+- TOP 3.16.: Bauvorhaben Horemansstr. 29: DG-Ausbau (2 WE) und Errichtung eines Außenaufzugs; hier: Baumfällungen
+- TOP 3.17.: Bauvorhaben Hirschgarten 1: Neustrukturierung Betriebshof und Küchentrakt sowie Nutzungsänderung im DG: Personalbereich zu Büros
+- TOP 3.18.: Bauvorhaben Dachauer Str. 100-102: Neubau eines Hochschulgebäudes für angewandte Wissenschaften mit Tiefgarage
+- TOP 3.19.: =&gt; dazu: Realisierungswettbewerb Erweiterungsgebäude für die Hochschule München an der Dachauer Straße
+- TOP 3.20.: Bauvorhaben Nymphenburger Str. 188: Nutzungsänderung eines Ladens in einen Laden mit Gastronomie und Wirtsgarten
+- TOP 3.21.: Nichtöffentlich:
+- TOP 3.22.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Fuetererstraße
+- TOP 3.23.: WEB-Liste vom 16.07.-31.07.10
+- TOP 3.24.: Kommunalreferat: Vorkaufsrecht nach dem BauGB, hier: Rüthlingstraße
+- TOP 3.25.: Sozialreferat: Zweckentfremdung von Wohnraum, hier: Lannerstraße
+- TOP 3.3.3: Unterausschuss für Umweltfragen
+- TOP 3.1.: Volkartstr. 40: Fällung von 1 Birke
+- TOP 3.2.: De-la-Paz-Str. 37: Fällung von 1 Birke
+- TOP 3.3.: Hubertusstr. 5: Fällung von 1 Buche
+- TOP 3.4.: Kratzerstr. 9: Fällung von 1 Akazie
+- TOP 3.5.: Thorwaldsenstr. 21: Fällung von 1 Serbischen Fichte
+- TOP 3.6.: Böcklinstr. 68: Fällung von 1 Scheinzypresse und 1 Atlaszeder
+- TOP 3.7.: Hubertusstr. 12: Fällung von 1 Ulme
+- TOP 3.8.: Lachnerstr. 20: Fällung von 2 Spitz-Ahorn, Baumveränderung an 1 Hainbuche und 1 Buche
+- TOP 3.9.: Prinzenstr. 73: Fällung von 1 Birke
+- TOP 3.10.: Planungsreferat: Fällungsgenehmigung Dall'Armistr. 43
+- TOP 3.11.: Bürgeranliegen: Aufstellen von Sitzbänken am Südlichen Schlossrondell
+- TOP 3.12.: Bürgeranliegen: Aufstellen von Sitzbänken entlang der Donnersbergerstraße
+- TOP 3.13.: Bürgeranliegen: Anbringen eines Abfallkorbes bei der Parkbank Landshuter Allee / Jutastraße
+- TOP 3.14.: Bürgeranliegen: Verwahrloster Hirschgarteneingangsbereich am Steubenplatz / Bügel zum Schutz der Grünfläche Waisenhaus-/Klugstraße
+- TOP 3.15.: Bürgeranliegen: Hundekottütenspender und Abfallbehälter im Bereich Aiblinger-/Lachnerstraße
+- TOP 3.16.: Beschluss des Kreisverwaltungsausschusses vom 13.07.10: Leinenzwang für alle Hunde (Empfehlung Nr. 458 der Bürgerversammlung vom 24.11.09)
+- TOP 3.17.: Referat für Gesundheit und Umwelt: Errichtung eines Lärmschutzes auf der Donnersbergerbrücke (Empfehlung Nr. 449 der Bürgerversammlung vom 24.11.09)
+- TOP 3.18.: Referat für Gesundheit und Umwelt: Mobilfunk; Suchkreismeldung Winthirplatz
+- TOP 3.19.: Planungsreferat: Fällungsgenehmigung Ofterdingenstr. 38
+- TOP 3.20.: Planungsreferat: Fällungsgenehmigung Schachenmeierstr. 30-34
+- TOP 3.21.: Planungsreferat: Fällgenehmigung Zamboninistr. 43
+- TOP 3.22.: Bayer. Schlösserverwaltung: Ausweisung einer Liegewiese im Schlosspark Nymphenburg (Schreiben BA 9 vom 20.07.10)
+- TOP 3.23.: Baureferat: Abgestorbene Kastanien am Rondell Neuwittelsbach (Schreiben BA 9 vom 10.06.10)
+- TOP 3.24.: Abfallwirtschaftsbetrieb München: Wertstoffinsel an der Zuccalistraße / Brunhildenstraße (Schreiben BA 9 vom 18.05.10)
+- TOP 3.25.: Bekämpfung von Ameisen in Kinderspielbereichen (Wiedervorlage aus der Sitzung vom 20.07.10)
+- TOP 3.26.: Baureferat: Zustand der Sitzbänke am Rosa-Luxemburg-Platz sowie in der Kriemhildenstraße Ecke Arnulfstraße und Holzauflage des Sitzrondells an der Tramhaltestelle "Neuhausen" Ecke Ruffinistraße (Schreiben BA 9 vom 16.06.10)
+- TOP 3.27.: Planungsreferat: Bürgeranliegen: Baumbestand Ysenburgstr. 5 / 7 (Schreiben BA 9 vom 14.07.10)
+- TOP 3.28.: Bürgeranliegen: Verlegung der Wertstoffinsel Irnfriedstraße
+- TOP 3.3.4: Unterausschuss für Schule, Integration und Soziales
+- TOP 3.1.: Bürgeranliegen: Verwahrlosung der Siedlung Nederling
+- TOP 3.2.: Bürgeranliegen: Verschiedene Anträge zum Stadtviertel (Nr. 4 des Schreibens)
+- TOP 3.3.: BA 2 Ludwigsvorstadt-Isarvorstadt: Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP 3.4.: "Engagement in einer Tour", Einladung der Caritas Freiwilligen-Zentren am 21.09., 22.09. und 08.10.10
+- TOP 3.5.: Nächste Sitzung der PSAG West am 21.10.10
+- TOP 3.6.: Direktorium: Einladung zur Fachtagung "Alltagsrassismus und rassistische Diskriminierung" am 12.10.10
+- TOP 3.7.: Schulreferat: Veranstaltung "Das Schulreferat trifft die Bezirksausschüsse" am 14.07.10 / Bericht
+- TOP 3.8.: Tanztheater "Helden" mit Schülern der HS am Winthirplatz
+- TOP 3.9.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.10: Weiterentwicklung der Ferienangebote für Kinder und Jugendliche in München; Gemeinsame Darstellung der Ferienangebote aller Referate; Aufnahme des Projekts Lilalu in die Regelförderung des Sozialreferates
+- TOP 3.10.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.06.10: Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege; Bedarfsplanung Kindertagesbetreuung
+- TOP 3.11.: Schulreferat: Bildung und Sport - Die städtischen Gymnasien in München (Broschüre)
+- TOP 3.12.: Bürgeranliegen: Unterstützung für Pilotprojekt Schülerbetreuung (Wiedervorlage aus der Sitzung vom 20.07.10)
+- TOP 3.13.: Bayer. Staatsministerium für Unterricht und Kultus: Einrichtung von Ganztagsklassen an Grundschulen (Schreiben BA 9 vom 18.05.10)
+- TOP 3.14.: Sozialreferat: Projekt "Mobile Tagespflege / Ersatzbetreuung (MobiTa)" (Schreiben BA 9 vom 18.05.10)
+- TOP 3.15.: Sozialreferat: Wilhelmine-Lübke-Haus, Reinmarplatz, Planungsstand (Schreiben BA 9 vom 18.05.10)
+- TOP 3.16.: =&gt; dazu: Beschlussentwurf Sozialreferat: "Nachfolgeprojekt für das Altenwohnheim Wilhelmine-Lübke-Haus"
+- TOP 3.17.: Bürgeranliegen: Betreuungssituation Grundschulkinder an der Hirschbergschule (Wiedervorlage aus der Sitzung vom 20.07.10)
+- TOP 3.18.: Beschlussvorlage Direktorium: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten (Wiedervorlage aus der Sitzung vom 20.07.10) =&gt; dazu: Stellungnahme BA 4 Schwabing-West
+- TOP 3.19.: Oberbürgermeister: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBWAG-Wohnungen (Antrag BA 9 Nr. 2042 vom 20.04.10)
+- TOP 3.20.: Bayer. Staatsministerium für Arbeit und Sozialordnung: Förderung offene Behindertenarbeit im Löhe-Haus (Zwischenmitteilung zum Schreiben BA 9 vom 17.03.10)
+- TOP 3.21.: Schulreferat: Schüler- und Klassenzahlen im Schuljahr 2009/10 (Schreiben BA 9 vom 14.06.10)
+- TOP 3.22.: Beschluss des Schul- und Sportausschusses vom 09.06.10: Mehrjahresinvestitionsprogramm 2010-2014, Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen (Wiedervorlage aus der Sitzung vom 20.07.10)
+- TOP 3.23.: Kommunalreferat: Nachnutzung des stadteigenen Anwesens Schulstr. 5 (Schreiben BA 9 vom 14.06.10)
+- TOP 3.24.: =&gt; dazu: Schulreferat: Nachnutzung des stadteigenen Anwesens Schulstr. 5 / Hortbedarf der Grundschulkinder der Hirschbergstraße (Schreiben BA 9 vom 14.06.10)
+- TOP 3.25.: Elternbeirat Kindergarten Frundsbergstraße: Lernwerkstattanbau, aktueller Stand
+- TOP 3.26.: Baureferat: Neubau einer 5-zügigen Grundschule mit 8-gruppigem Tagesheim und 4-gruppiger Mittagsbetreuung in Nymphenburg Süd; Ausführungsgenehmigung
+- TOP 3.3.5: Unterausschuss für Kultur
+- TOP 3.1.: Vorstellung des Projekts "Forum Labora Nymphenburg" der Initiative Hartz IV Orchester
+- TOP 3.2.: Kulturreferat: Audiokunstwerk "Memory Loops" - BA-Informationsabend am 23.09.10
+- TOP 3.3.: Künstlerische Wandgestaltung Donnersbergerbrücke
+- TOP 3.4.: Beschluss des Kulturausschusses vom 08.07.10: Der Kunst Platz schaffen - Ein Kreativquartier für München; Grundsatzbeschluss
+- TOP 4: Anhörungen, Unterrichtungen, Schriftwechsel und Informationen
+- TOP 4.1.: Bürgeranliegen: Freischankfläche Augustiner am Dantebad
+- TOP 4.2.: Deutsche Post: Neue Partnerfiliale bei Edeka, Renatastr. 20
+- TOP 4.3.: Veranstaltung im Rahmen der Reihe "30 Jahre Oktoberfestattentat" am 30.09.10 im Feierwerk
+- TOP 4.4.: Büchersammlung für deutsche Schule in Sofia
+- TOP 4.5.: KVR: Wein- und Bierfest vom 04.-05.09.10 auf dem Rotkreuzplatz
+- TOP 4.6.: KVR: Fahrradbeleuchtungs- und Befragungsaktion am 09.10.10 auf dem Rotkreuzplatz
+- TOP 4.7.: KVR: Drehgenehmigungen a) "K11" am 20.07.10 in der Volpinistr. 42 b) "Elena" am 26.07.10 in der Dachauer Straße c) "2 übern Berg" am 06.08.10 in der Magdalenenstr. 14, Klugstr. 8-10 und 84
+- TOP 4.8.: KVR: Neuerrichtung eines Gaststättenbetriebs: "InClub", Wilhelm-Hale-Str. 44
+- TOP 4.9.: KVR: Pächterwechsel a) "Prima Fila", Margarethe-Danzi-Str. 23 b) "Ois Isi", Dachauer Str. 189 c) "Gerners", Dantestr. 33 d) "Hofbräu am Gerner", Hanebergstr. 1 e) "Richel's", Richelstr. 10
+- TOP 4.10.: KVR: Feuerwerk in der Schwere-Reiter-Str. 15 am 31.07.10
+- TOP 4.11.: Direktorium: Verfahren der Amtsenthebung im BA 9
+- TOP 4.12.: Direktorium: Unzulässige politische Werbung an Schulen durch Herrn Stadtrat Richter (Schreiben BA 9 vom 20.05.10)
+- TOP 4.13.: Beschlussvorlage Direktorium: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 4.14.: Beschluss des Kommunalausschusses vom 17.06.10: Mehrjahresinvestitionsprogramm 2010-2014; Maßnahmen im Bereich des Kommunalreferates
+- TOP 4.15.: KVR: Gaststättenerlaubnis für die Shell-Tankstelle Wilhelm-Hale-Str. 55; Beschränkung des Alkoholverkaufs nach 20 Uhr
+- TOP 4.16.: =&gt; dazu: Bürgeranliegen: Scherben im Umkreis des Backstage
+- TOP 5: Verschiedenes
