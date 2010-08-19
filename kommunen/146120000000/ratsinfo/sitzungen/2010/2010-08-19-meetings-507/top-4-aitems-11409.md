@@ -1,0 +1,6 @@
+# TOP 4: Bekanntgabe des Wahlvorschlages für den Stadtrat zur Besetzung der Schiedsstelle Mobschatz mit einer Protokollführerin
+
+- Sitzung: 14. Sitzung des Ortschaftsrates Mobschatz (2010-08-19)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/11409
