@@ -1,0 +1,68 @@
+# 43. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-08-26T16:30:00+02:00
+- Ende: 2010-08-26T21:55:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2603
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2603
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100989
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Vorzeitige Beendigung des Amtes einer stellvertretenden Bürgerdeputierten im JHA - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Wahl einer/eines stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Müngersdorfer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Sicherung und Erhalt des Bürgerhauses Grünau - mit Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Bürgerhaus Grünau – Rettung möglich? - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-18 nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans XVI-18 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bahnanbindung Ost des Flughafens BBI - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Einhaltung des Flächennutzungsplans (FNP) für Bohnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Auf dem Bahnaußenring zum BBI - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Anpassung des Schonvermögens im SGB XII - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Internationale Kinderkunstwettbewerbe nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Verkehrssicherheit an der Kreuzung Köpenicker Landstraße / Am Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Veränderung des ÖPNV im Bereich des Ortsteils Bohnsdorf - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verkehrsberuhigung im Karolinenhofweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Endlich mehr Barrierefreiheit im ÖPNV - Einsatz von Niederflurbahnen in Treptow-Köpenick - vertagt
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-18 („Elcknerplatz“) hier: Planreife für das Vorhaben gemäß Antrag vom 21.04.2010 für das Grundstück Elcknerplatz 2/8, Bahnhofstraße 23, 25 und Borgmannstraße 12 im Bezirk Treptow-Köpenick, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Umbenennung des im Ortsteil Baumschulenweg gelegenen Straßenabschnittes der Britzer Allee in "Chris-Gueffroy-Allee" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Umbenennung des im Ortsteil Köpenick zwischen S-Bahnhof Wuhlheide und der öffentlichen Straße "An der Wuhlheide" gelegenen Straßenabschnitts der Köpenicker Allee in "Rudolf-Rühl-Allee" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Gesundheitsbericht des Bezirksamtes Treptow-Köpenick 2009 - überwiesen
+- TOP 13.5: Mittelalterlich Phantasie Spectaculum in Köpenick in der Zeit vom 09.09. - 12.09.2010 - in der BVV zurückgezogen
+- TOP 13.6: Konkretisierung und Fortschreibung des städtebaulichen und sozialen Sanierungsziels im Block 56 des Sanierungsgebiets Oberschöneweide für das Grundstück hinter Wilhelminenhofstraße 68/69 an der Slabystraße (Flurstück 161) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Gebietscharakter Altstadt Köpenick - überwiesen
+- TOP 14.2: Verkehrsregelung am S-Bahnhof Grünau - überwiesen
+- TOP 14.3: Gehwegplatten in Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Umgang mit dem Bürgerbegehren Birkenwäldchen - in der BVV abgelehnt
+- TOP 14.5: Verkehrssicherheit für Radfahrweg an der Kreuzung Fürstenwalder Damm/Bellevuestraße - überwiesen
+- TOP 14.6: Mietklauseln gegen rechtsextremes Gewerbe - überwiesen
+- TOP 14.7: Sinnvolle städtebauliche Gestaltung durch B-Plan - überwiesen
+- TOP 14.8: Tempo 30 auf dem WISTA-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Radverkehrsanlagen in der Kiefholzstraße - überwiesen
+- TOP 14.10: Lokal "Zum Henker" schließen - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Vorfahrt Straßenbahn Haltestelle Bahnhof Köpenick vor dem Forum - überwiesen
+- TOP 14.12: Wassertourismus für die Altstadt Köpenick - überwiesen
+- TOP 14.13: Erinnerung an die Maueropfer Manfred Mäder und René Groß - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Wirtschaftsnachrichten aus dem Bezirk in der Öffentlichkeitsarbeit des Bezirksamtes stärker verankern - überwiesen
+- TOP 14.15: Baumscheibenbepflanzung fördern - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Zukunft unserer kommunalen Jugendfreizeiteinrichtungen - beantwortet
