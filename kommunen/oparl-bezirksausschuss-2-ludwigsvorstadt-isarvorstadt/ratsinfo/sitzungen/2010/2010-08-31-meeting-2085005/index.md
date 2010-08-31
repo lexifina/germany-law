@@ -1,0 +1,98 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-08-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2085005
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2085005
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Zweckentfremdung Adlzreiterstraße
+- TOP .2.: Prüfung, ob es im Klinikbereich und/oder bei Wohnungen der Landesbank umsetzbare Möglichkeiten für neue Wohnmodelle gibt, insbesondere bezahlbaren Wohnraum für ältere Menschen (Ziffer 1 des Antrags)
+- TOP .1.: Bezahlbare Wohnungen im Klinikbereich und Landesbank ? Anfrage Nr. 08-14 / Q 00184 aus der Bürgerversammlung vom 20.05.2010
+- TOP .2.: BA-Budget: Bewilligungsbescheide - Elternbeirat der Grundschule Schwanthalerstr. - Teestube ?komm?-Streetwork - Initiative ?Gedenken an Thaddy Robl? - Ev. Hilfswerk München GmbH - Green City e.V. - Nachbarschaft Westermühlbach
+- TOP .3.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen; Information des Oberbürgermeisters
+- TOP .4.: Wohnungsleerstand Am Glockenbach: Anfrage aus der UA-Sitzung PB vom 14.06.2010 AW: Leerstand ist bekannt, Verfahren wurde bereits eingeleitet
+- TOP .5.: Zweckentfremdung von Wohnraum: Grimmstraße
+- TOP .6.: Stärkung der Stadtteilkultur und Errichtung einer Auer Herberge; Beschluss Kulturausschuss vom 08.07.2010
+- TOP .7.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten; BV-Empfehlung Nr. 08-14 / E 00429 vom 12.11.2009; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 07.07.2010
+- TOP .8.: BA-Budget ? Stadtteilbezug: Schreiben des BA 9 bzgl. Bezuschussung des Sommerferienprogramms ?Umsonst & Draußen? vom 13. - 29.09.2010
+- TOP .9.: Schulweghelfer im Umgriff der Schwanthalerschule, BA-Antrag Nr. 08-14 / B 00562: Schreiben des KVR an die Grundschule
+- TOP .10.: Umwandlung in Integrationseinrichtung: Städt. Kindergarten Ruppertsr. 9
+- TOP .11.: BA-Budget: ?Isarlust ? Temporäre Fußgängerbrücke? Änderungsbescheid
+- TOP .12.: Platzzahlerweiterung: Städt. Kindertageseinrichtung Hort Klenzestr. 64a
+- TOP .13.: Mietspiegel: Einstufung der Wohnlage ändern AW: Arbeiten für Mietspiegel 2011 bereits abgeschlossen, Antrag wird als Anregung für den Mietspiegel 2015 überprüft
+- TOP .14.: Kultur braucht Raum
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Baaderstr. 34: Umbau einer Wohnung
+- TOP .2.: Gärtnerplatz 2: Errichtung eines RGB
+- TOP .3.: Jahnstr. 52: Nutzungsänderung
+- TOP .4.: Lindwurmstr. 89: Aufstockung VGB
+- TOP .5.: Sendlinger-Tor-Platz 7: Nutzungsänderung
+- TOP .6.: Aventinstr. 11: Nutzungsänderung, Umbau, Modernisierung RGB
+- TOP .7.: Goethestr. 40: Erweiterung der Gaststätte und Freischankfläche sowie Neubau Toiletten
+- TOP .8.: Jahnstr. 34: Neubau Wohn- und Geschäftshaus
+- TOP .9.: Schwanthalerstr. 26: Nutzungsänderung
+- TOP .10.: Kobellstr. 8: DG-Ausbau , Neubau Aufzug, Garage und Balkone sowie Nutzungsänderung
+- TOP .11.: Maistr. 30: Aufstockung VGB
+- TOP .12.: Jahnstr. 31: DG-Erneuerung, Anbau Aufzug
+- TOP .13.: Klenzestr. 32: Abbruch Dachgauben, Einbau Dachflächenfenster sowie Wohnungsumbau
+- TOP .14.: Ickstattstr. 22: DG-Ausbau im RGB
+- TOP .15.: Zenettistr.: Isar-Plan, Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar; Plangenehmigungsbescheid vom 11.08.2010
+- TOP .16.: Adlzreiterstr. 34: DG-Ausbau und EG-Umbau
+- TOP .17.: Klenzestr. 51: Ausbau, Umbau, Modernisierung und Nutzungsänderung im DG
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Roecklplatz ? Radverkehrsführung an der Isartalstraße
+- TOP .1.: Lindwurmstr. 32: Errichtung Dachterrasse sowie Treppenaufbau; Immisionsschutz
+- TOP .2.: Einführung eines Vorinformationsverfahrens bei der Erschließungsbeitragsabrechnung; Beschluss Bauausschuss vom 15.06.2010
+- TOP .3.: Baumaßnahmen der Stadtwerke: - Stromprojekt Maistraße 41 - Stromprojekt Schützenstraße
+- TOP .4.: Fahrradstellplatzkonzept (1. Realisierungsabschnitt); Beschluss Bauausschuss vom 06.07.2010
+- TOP .5.: Querungshilfe in der Grasserstraße AW: Zebrastreifen wird nicht eingerichtet
+- TOP .6.: Bürgeranliegen: LKW- und Verkehrssicherheit im Bereich Thalkirchner Str. / Zenettistr. Rückmeldung KVR
+- TOP .7.: Übergang St. Paul-Straße bei der U-Bahn (Zebrastreifen) AW: Baureferat führt Maßnahme frühestens 2011 aus (Errichtung Gehwegnase)
+- TOP .8.: Baumschutz: Genehmigung der Baumfällung Kapuzinerstr. 26
+- TOP .9.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken; Beschluss Bauausschuss vom 06.07.2010
+- TOP .10.: Austausch der Lichtzeichenanlage am Roecklplatz / Isartalstraße
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Genehmigung einer Freischankfläche: Kapuzinerstr. 48
+- TOP .2.: Änderung einer Freischankfläche: Augsburgerstr. 1
+- TOP .3.: Erweiterung einer Freischankfläche: Lindwurmstr. 13
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für eine Warenstellage: Häberlstr. 15a
+- TOP .2.: Antrag für eine Warenauslage: Ickstattstr. 2
+- TOP .3.: Antrag für eine Warenauslage: Häberlstr. 21
+- TOP .4.: Antrag für eine Warenauslage: Häberlstr. 24
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Filmvorführung bei der langen Nacht der Museen, Alter Südfriedhof, am 16.10.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Taubenplage ? Anfrage Nr. 02-08 / Q 00053 vom 24.01.2006 AW: LH München geht bewusst im Rahmen der Möglichkeiten mit der Problematik um
+- TOP .2.: Antrag für eine Warenauslage in der Goethestr. 38, Entscheidung des Oberbürgermeisters AW: Genehmigung der Warenauslage
+- TOP .3.: Unveränderte Gaststättenfortführung: - Pettenkoferstr. 1: Il Dottore - Klenzestr. 47: Frank`s Amici - Lindwurmstr. 69: Pi(a)zza Goethe - Lindwurmstr. 157: Trattoria Italiana - Waltherstr. 21: Erol - Fraunhoferstr. 42: Hungriges Herz - Bayerstr. 93: Cafe Hermann Lingg - Lindwurmstr. 31: City-Cafe - Sendlinger-Tor-Platz 5: M1 - Adlzreiterstr. 16: Panorama - Goetheplatz 2: Movie`s
+- TOP .4.: Versammlungen unter freiem Himmel (7)
+- TOP .5.: Erlaubnisbescheid: - Pfarrfest mit Fahrzeugsegnung in der Deutinger Straße am 25.07.2010 - Straßenfest am 24.07.2010 und Konzert zur 200-Jahrfeier Oktoberfest München am 25.07.2010 am Gärtnerplatz - Straßenfest in der Reifenstuelstraße am 24.07.2010 - Straßenfest in der Hans-Sachs-Straße am 21.08.2010
+- TOP .6.: Anbringen eines Fahrradständers in der Holzstraße AW: Dem Antrag wird nicht entsprochen
+- TOP .7.: Anbringen eines Fahrradständers am Anwesen Bayerstr. 1 AW: Dem Antrag wird entsprochen.
+- TOP .8.: Novellierung der Bade- und BootVO; Beschluss Stadtrat am 28.07.2010
+- TOP .9.: Filmaufnahmern auf öffentlichem Verkehrsgrund (7)
+- TOP .10.: Verkehrsrechtliche Anordnung nach § 45 StVO: - Verlegung der Endhaltestelle der Buslinie 131 - Öffnung der Klenzestraße für den gegenläufigen Radverkehr (zw. Rumford- /u. Buttermelcherstr.)
+- TOP .11.: Taktil-akustisches Signal an der Lichtzeichenanlage Landwehrstraße/Schillerstraße AW: Zunächst taktile Blindensignalgeber in Kombination mit Orientierungssignalgebern, Wunsch auf Vollausstattung wird vermerkt
+- TOP .12.: Ergänzende Formulierung im Antrag auf Sondernutzungserlaubnis für Freischankflächen; BA-Antrag Nr. 08-14 / B 01291 AW: Vordrucke für Anträge wurden ergänzt
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
