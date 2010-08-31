@@ -1,0 +1,88 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-08-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1868942
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1868942
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Kreillerstr. 77 ? Antrag auf Errichtung einer Mega-Light-Werbeanlage
+- TOP 3.1.1.2.: Bürgeranliegen zum Bebauungsplan Nr. 1889a - <div></div>
+- TOP 3.1.1.3.: Tausch einer städtischen Immobilie zur Nutzung gemäß den Festsetzungen des Bebauungsplans Nr. 26
+- TOP 3.1.1.4.: Begrenzung der Verlängerung des Betriebs von Kultfabrik und Optimolgelände auf 3 Jahre - <div></div>
+- TOP 3.1.2.1.: Parklizenz innerhalb des Mittleren Rings ? hier: Grafinger / Gotteszeller Straße - <div></div>
+- TOP 3.1.2.2.: Verlängerung der Straßenbahnlinie 25 über den Vogelweideplatz hinaus bis zur S-Bahn-Station Berg am Laim - <div></div>
+- TOP 3.2.1.: Baumkirchner Straße - Straßenfest am 12.09.2010
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Städt. Ludwig-Thoma-Realschule Präventionsseminar "Fiese Falle" - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Städt.-Ludwig-Thoma-Realschule Nichtraucherseminar für Jugendliche - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Projektteam "Sport" der städt. Ludwig-Thoma-Realschule Hip Hop Breakdance im Schuljahr 2010/2011 - <div></div>
+- TOP 3.5.4.: (E) Budget der Bezirksausschüsse Projektteam "Kunst" der städt. Ludwig-Thoma-Realschule Bildhauerprojekt im Mai/Juni 2011 - <div></div>
+- TOP 3.5.5.: (E) Budget der Bezirksausschüsse Projektteam der städt. Ludwig-Thoma-Realschule Afrikaprojekt im Februar 2011 - <div></div>
+- TOP 3.5.6.: (E) Budget der Bezirksausschüsse Projektteam "Sport" der städt. Ludwig-Thoma-Realschule Parcourturnen im April 2011 - <div></div>
+- TOP 3.5.7.: (E) Budget der Bezirksausschüsse Freunde und Förderer der GS Berg am Laim-Straße Schule der Phantasie im Schuljahr 2010/2011 - <div></div>
+- TOP 3.5.8.: (E) Budget der Bezirksausschüsse Bürgerkreis Berg am Laim e.V. Musik zum Straßenfest am 12.09.2010 - <div></div>
+- TOP 3.5.9.: Gedenkveranstaltung aus Anlass der Reichspogromnacht am 11.11.2010 - <div></div>
+- TOP 3.6: Bereich Baumschutz (1)
+- TOP 3.6.1.: Überseeplatz 10
+- TOP 3.6.2.: Gotteszeller Straße 2 ? 6
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Wildenwarter Straße 12 ? Abbruchanzeige
+- TOP 4.1.1.3.: Sonnwendjochstr. 4 ? Abbruchanzeige
+- TOP 4.1.1.4.: Grafinger Str. 6 ? Unveränderte Fortführung des Gaststättenbetriebs ?Apartment 11?
+- TOP 4.1.2.1.: Fortbestand der Ampelanlage Baumkirchner- / Josephsburgstraße
+- TOP 4.1.2.2.: Haltestelle der Tram 19 an der Kreiller- / St.-Veit-Straße
+- TOP 4.1.2.3.: Fußgängerbereich in der Leuchtenbergunterführung - Bürgerschreiben
+- TOP 4.1.2.4.: Drehgenehmigung Sonnwendjochstr. / Josephsburgstr.
+- TOP 4.1.2.5.: Drehgenehmigung Fehwiesenstraße
+- TOP 4.2.1.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Förderverein der Grundschule Berg-am-Laim-Straße
+- TOP 4.3.2.: Seebrucker Str. 25 ? Platzreduzierung Kindergarten
+- TOP 4.3.3.: Grafinger Str. 69a ? Platzreduzierung Kinderhort
+- TOP 4.3.4.: Grafinger Str. 69 ? Inbetriebnahme Kindergartenneubau
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Entwurf des Mehrjahresinvestitionsprogramms 2010-2014 - Sozialbereich
+- TOP 4.5.1.: Stadtteilbezug bei Zuschüssen durch den BA
+- TOP 4.5.2.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014
+- TOP 4.5.3.: Ludwig-Thoma-Realschule - Zuwendungsbescheid
+- TOP 4.5.4.: Maibaumverein - Verwendungsnachweis
+- TOP 4.6: Bereich Baumschutz (2)
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
