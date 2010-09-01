@@ -1,0 +1,51 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr und gemeinsame Sitzung zu den Top 2 und 3 mit der Bezirksvertretung Barmen
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-09-01T16:00:00+02:00
+- Ende: 2010-09-01T18:00:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/15, http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/44
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8449
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8449
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand 25.08.2010 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00120967.pdf
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Erneuerung der Brücke Konsumstraße
+- TOP 2: Erneuerung der Brücke Konsumstraße - ungeändert beschlossen
+- TOP 2: Erneuerung der Brücke Konsumstraße - ungeändert beschlossen
+- TOP 3: Instandsetzung der Werther Brücke
+- TOP 3: Instandsetzung der Werther Brücke - ungeändert beschlossen
+- TOP 3: Instandsetzung der Werther Brücke - ungeändert beschlossen
+- TOP 4: Reisebushaltestelle im Bereich des Barmer Bahnhofes
+- TOP 4: Reisebushaltestelle im Bereich des Barmer Bahnhofes - Entgegennahme ohne Beschluss
+- TOP 5: Sonderauswertung Dahler Straße und Ronsdorfer Straße
+- TOP 5: Sonderauswertung Dahler Straße und Ronsdorfer Straße
+- TOP 6: Sanierung von Brücken, Straßenwegen, Plätzen, Treppen und Mauern
+- TOP 6: Sanierung von Brücken, Straßenwegen, Plätzen, Treppen und Mauern - Entgegennahme ohne Beschluss
+- TOP 7: Zustand der Adlerbrücke - mögliche Sicherung des Bauwerkes
+- TOP 7: Zustand der Adlerbrücke - mögliche Sicherung des Bauwerkes - ungeändert beschlossen
+- TOP 8: Adlerbrücke
+- TOP 8: Adlerbrücke - in der Sache erledigt
+- TOP 9: Sperrung der Adlerbrücke - Große Anfrage der Fraktion die LINKE vom 24.08.2010
+- TOP 9: Sperrung der Adlerbrücke - Große Anfrage der Fraktion die LINKE vom 24.08.2010 - in der Sache erledigt
+- TOP 10: Sachstandsinformation zur Sperrung der Adlerbrücke
+- TOP 10: Sachstandsinformation zur Sperrung der Adlerbrücke - Entgegennahme ohne Beschluss
+- TOP 11: Durchführung von Straßenerneuerungen / Fortschreibung der Maßnahmenliste zur Umsetzung des Konjunkturprogramms
+- TOP 11: Durchführung von Straßenerneuerungen / Fortschreibung der Maßnahmenliste zur Umsetzung des Konjunkturprogramms - von der Tagesordnung gesetzt
+- TOP 12: Aufstellung eines Lärmaktionsplanes der Stadt Wuppertal
+- TOP 12: Aufstellung eines Lärmaktionsplanes der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 13: Verschiedenes
+- TOP 13: Verschiedenes
+- TOP 13.1: Tunnelnachrüstung s. Anlage 3 zur Niederschrift
+- TOP 13.1: Tunnelnachrüstung s. Anlage 3 zur Niederschrift
+- TOP 13.2: Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr
+- TOP 13.2: Öffnung von Einbahnstraßen für den gegenläufigen Radverkehr
+- TOP 13.3: Lärmschutz Domänenweg
+- TOP 13.3: Lärmschutz Domänenweg
+- TOP 13.4: Verabschiedung des Ressortleiters Straßen und Verkehr
+- TOP 13.4: Verabschiedung des Ressortleiters Straßen und Verkehr
