@@ -1,0 +1,91 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-09-01T17:10:00+02:00
+- Ende: 2010-09-01T22:29:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1259
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1259
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl zur Bezirksstadträtin auf Vorschlag der Fraktion der SPD - gewählt
+- TOP 5.2: Überreichung der Ernennungsurkunde und Vereidigung der Bezirksstadträtin - erledigt
+- TOP 6: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 6.1: Übertragung eines Geschäftsbereiches an ein neues Bezirksamtsmitglied - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Umwandlung zu Gemeinschaftsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Berufung von Mitgliedern in den Jugendhilfeausschuss - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Beratung durch die Pflegestützpunkte seit dem 01.01.2010 - beantwortet
+- TOP 8.2: Aktuelle PEB-Projekte - beantwortet
+- TOP 8.3: Zugang zur Beratungsstelle für Menschen mit Behinderung, Krebs und Aids - beantwortet
+- TOP 8.4: Kitaplätze für Kinder von Hartz IV-Empfängern - beantwortet
+- TOP 8.5: Mitarbeiterfreie Zone - beantwortet
+- TOP 8.6: Kreuzung Karl-Marx-Straße/Lahnstraße/Silbersteinstraße - beantwortet
+- TOP 8.7: Hortbetrieb Hugo-Heimann-Schule - beantwortet
+- TOP 8.8: Munitionsräumung auf dem Innsportsplatz - beantwortet
+- TOP 8.9: Sicheres einkaufen auf dem Hermannplatz nicht mehr möglich? - beantwortet
+- TOP 8.10: Gefällte Bäume auf dem Kindl-Areal - beantwortet
+- TOP 8.11: Kita-Plätze weit entfernt - schriftlich beantwortet
+- TOP 8.12: Hortbetreuung noch möglich? - schriftlich beantwortet
+- TOP 8.13: Sanierungsgebiet Karl-Marx-Straße - schriftlich beantwortet
+- TOP 8.14: Rentenabsicherung von Hartz IV-Empfängern - schriftlich beantwortet
+- TOP 8.15: Tempo 30 in der östlichen Johannisthaler Chaussee - schriftlich beantwortet
+- TOP 8.16: Umgestaltung Platz der Stadt Hof? - schriftlich beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Radstreifen Werbellinstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Halbierte Wohnungen - beantwortet
+- TOP 10.2: Sinti und Roma in Rudow - beantwortet
+- TOP 10.3: Defizit des Kita-Eigenbetriebes SüdOst - beantwortet
+- TOP 10.4: Defizit im Kita-Eigenbetrieb - beantwortet
+- TOP 10.5: Spezialisierte ambulante Palliativversorgung (SAPV) in Neukölln - beantwortet
+- TOP 10.6: Workshop Campus Rütli - beantwortet
+- TOP 10.7: Kinderrettungsstelle - und wie geht es weiter? - beantwortet
+- TOP 10.8: Zweckentfremdung von Mitteln beim Kita-Eigenbetrieb SüdOst - beantwortet
+- TOP 10.9: Zusatzbeitrag zur gesetzlichen Krankenkasse - beantwortet
+- TOP 10.10: Wie weiter mit reduzierter Städtebauförderung? - beantwortet
+- TOP 10.11: Neubau Clayschule - in der BVV zurückgezogen
+- TOP 11: Große Anfragen - schriftlich - (offen)
+- TOP 11.1: Betreuung unbegleiteter minderjähriger Jugendlicher - schriftlich beantwortet
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Städtischer Friedhof in der Köpenicker Straße in Rudow - überwiesen
+- TOP 12.2: Stoppt die Schüler-Lotterie an Oberschulen! - in der BVV abgelehnt
+- TOP 12.3: Bildungslotsen für Neukölln - überwiesen
+- TOP 12.4: Beratungsstelle zugänglich machen - in der BVV zurückgezogen
+- TOP 12.5: Parlez-vous francais? - überwiesen
+- TOP 12.6: Schwimmbadgewalt - überwiesen
+- TOP 12.7: Zusatzbeitrag zur gesetzlichen Krankenkasse - in der BVV abgelehnt
+- TOP 12.8: BVV ins Internet übertragen - in der BVV abgelehnt
+- TOP 12.9: Park & Ride - Nutzung Parkplatz Britz-Süd - überwiesen
+- TOP 12.10: Städtebauförderung erhalten - überwiesen
+- TOP 12.11: Aufstellen von Toiletten und Mülltrennung bei bezirkseigenen sowie Festen auf öffentlichen Plätzen des Bezirks - überwiesen
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Östlicher Ausgang des S-Bahnhofs Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Abkehr von der zahnmedizinischen Kariesprophylaxe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Gewichtsprobleme bei Kindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Gesundheitstage in den Schulen des Bezirks - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Personalabbau im medizinischen Bereich Vivantes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.5: Vivantes Klinikum Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.6: Erstbesuch bei Neugeborenen sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.7: Ambulante Versorgung sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.8: Neuverhandlung mit der Kassenärztlichen Vereinigung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.9: Festgelände auf dem Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.10: Hilfe für klein- und mittelständische Unternehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.11: BerlinPass mit Neuköllner Angeboten erweitern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.12: Bebauungsplan XIV-256-1 vom 08.01.2009 - Am Bergpfuhl - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.13: Arbeitsgelegenheiten für psychisch- und suchtkranke Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.14: Bebauungsplan XIV-179 vom 21.04.2009 - Campus Rütli - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.15: Alternative Wohnformen für ältere Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.16: Anonyme und frühzeitige Beratung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.17: Schülermonatskarten - mit Abschlussbericht zur Kenntnis genommen
