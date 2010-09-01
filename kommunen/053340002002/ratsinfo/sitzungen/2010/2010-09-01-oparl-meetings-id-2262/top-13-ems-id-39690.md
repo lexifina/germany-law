@@ -1,0 +1,6 @@
+# TOP 13: Anfragen gemäß § 12 GeschO
+
+- Sitzung: öffentliche Sitzung der Bezirksvertretung Aachen-Richterich (2010-09-01)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=39690
