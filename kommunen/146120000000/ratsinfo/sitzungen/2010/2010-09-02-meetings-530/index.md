@@ -1,0 +1,53 @@
+# 17. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-09-02T16:00:00+02:00
+- Ende: 2010-09-02T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/530
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/530
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_20-09_02 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00038823.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Kommunalwahlkreis III - Mandat Christlich Demokratische Union Deutschlands (CDU) - Zustimmung
+- TOP 2: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Kommunalwahlkreis I - Mandat DIE LINKE - Zustimmung
+- TOP 3: Verpflichtung von Stadträten gemäß § 35 Abs. 1 SächsGemO
+- TOP 4: Bericht der Oberbürgermeisterin
+- TOP 5: Fragestunde der Stadträtinnen und Stadträte
+- TOP 6: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - erneute Beratung
+- TOP 7: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - erneute Beratung
+- TOP 8: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - erneute Beratung
+- TOP 9: Umbesetzung im Ausschuss für Soziales, Gesundheit und Wohnen - gewählt
+- TOP 10: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - gewählt
+- TOP 11: Umbesetzung im Ausschuss für Wirtschaftsförderung - gewählt
+- TOP 12: Umbesetzung im Betriebsausschuss für Städtische Krankenhäuser und Kindertagesstätten - gewählt
+- TOP 13: Umbesetzung Jugendhilfeausschuss - gewählt
+- TOP 14: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 15: Umbesetzung im Behindertenbeirat - gewählt
+- TOP 16: Umbesetzung im Seniorenbeirat - gewählt
+- TOP 17: Umbesetzung im Beirat Wohnen - erneute Beratung
+- TOP 18: Umbesetzung im Beirat Wohnen - erneute Beratung
+- TOP 19: Umbesetzung im ARGE-Beirat - gewählt
+- TOP 20: Umbesetzung im Zeitweiligen Ausschuss "Untersuchung des Verwaltungshandelns bei der Festsetzung von Straßenausbaubeiträgen" - gewählt
+- TOP 21: Umbesetzung im Zeitweiligen Ausschuss "Technisches Rathaus Hamburger Straße" - gewählt
+- TOP 22: Umbesetzung im Ortsbeirat Pieschen - Vertagung
+- TOP 23: Tagesordnungspunkte ohne Debatte
+- TOP 24: Übernahme einer modifizierten Ausfallbürgschaft für die STESAD GmbH
+- TOP 25: Eintrittspreise Dresdner Philharmonie ab der Spielzeit 2010/11 - Zustimmung mit Änderung
+- TOP 26: Eintrittspreise und Entgelte für Kurse in der JugendKunstSchule - Zustimmung
+- TOP 27: Betreibung der Kindertageseinrichtung Moritzburger Weg 67 c, 01109 Dresden sowie deren Aufnahme in den Bedarfsplan Kindertageseinrichtungen - Zustimmung mit Änderung
+- TOP 28: Wilsdruffer Vorstadt: Kenntnisnahme VU-Bericht und Auftrag zur Akquirierung von Fördermitteln - Vertagung
+- TOP 29: Bebauungsplan Nr. 253, Dresden-Weißig Nr. 10, "Bauer Schöne" - Zustimmung
+- TOP 30: Vorhabenbezogener Bebauungsplan Nr. 655, Dresden-Neustadt, Einkaufszentrum und Bürgerhaus am Albertplatz - Zustimmung mit Änderung
+- TOP 31: Modellprojekt "Kostenfreier Eintritt für Kinder und Jugendliche in die Museen der Stadt Dresden" - Verweisung
+- TOP 32: Bildung eines Ausschusses für Kindertagesstätten und Schulen - Vertagung
+- TOP 33: Solarstadt Dresden - Innovations- und Investitionsförderung für Wirtschaft und Klimaschutz - Vertagung
+- TOP 34: "Dresdner Kulturtaxe" - Einführung einer Übernachtungsabgabe in Dresden - Verweisung
+- TOP 35: Maßnahmen zum Schutz der Anwohnerinnen und Anwohner vor Verkehrsbelastungen auf der B 6 - Umsetzung des Stadtratsbeschlusses V1701-SB51-07 vom 28.03.2007 vor Freigabe der Niederwarthaer Brücke - Zustimmung mit Änderung
+- TOP 36: Schulen sanieren - in Bildung investieren! - Vertagung
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 40: Protest gegen die Kürzungen des Freistaates Sachsen im Nahverkehr - Ersetzung
