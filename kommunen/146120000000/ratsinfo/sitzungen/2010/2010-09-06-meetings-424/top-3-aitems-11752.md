@@ -1,0 +1,6 @@
+# TOP 3: Informationen zum Bauvorhaben Errichtung eines Funkmastes auf dem Grundstück Königsbrücker Landstraße 1
+
+- Sitzung: 11. Sitzung des Ortsbeirates Klotzsche (2010-09-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/11752
