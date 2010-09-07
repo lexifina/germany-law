@@ -1,0 +1,53 @@
+# 3. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2010-09-07T10:00:00+02:00
+- Ende: 2010-09-07T11:50:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-WA-3
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-WA-3
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-WA-3
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-WA-3
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 01.06.2010
+- TOP 3: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 3.1: Angelegenheiten der Ruhr Tourismus GmbH - Aktuelle Berichterstattung über die Tätigkeiten der Gesellschaft
+- TOP 3.2: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2009
+- TOP 3.3: Angelegenheiten der Ruhr Tourismus GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2010
+- TOP 3.4: Angelegenheiten der Ruhr Tourismus GmbH - Dringlichkeitsentscheid Vertragsänderung
+- TOP 4: Angelegenheiten der RUHR.2010 GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2010 sowie Bericht der Geschäftsführung aus der operativen Tätigkeit
+- TOP 5: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr)
+- TOP 5.1: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - Jahresabschluss zum 31.12.2009
+- TOP 5.2: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - Bericht über die Ergebnisentwicklung zum 30.06.2010 sowie Bericht der Geschäftsführung aus der operativen Tätigkeit
+- TOP 5.3: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - Green Economy als weiterer Schwerpunkt der Metropole Ruhr
+- TOP 5.4: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - MedEcon Ruhr
+- TOP 5.5: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - Ausschreibung Geschäftsführung wmr
+- TOP 6: Angelegenheiten der Kultur Ruhr GmbH
+- TOP 6.1: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2009
+- TOP 6.2: Angelegenheiten der Kultur Ruhr GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2010
+- TOP 6.3: Angelegenheiten der Kultur Ruhr GmbH - Umzug Jahrhunderthalle
+- TOP 7: Angelegenheiten der Freizeitgesellschaften
+- TOP 7.1: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse zum 31.12.2009
+- TOP 7.2: Angelegenheiten der Freizeitgesellschaften - Bericht über die Ergebnisentwicklung zum 30.06.2010
+- TOP 7.3: Angelegenheiten der Freizeitgesellschaften - Haushaltsansätze 2011
+- TOP 8: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 8.1: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2009
+- TOP 8.2: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2009
+- TOP 8.3: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Bericht über die Ergebnisentwicklung zum 30.06.2010
+- TOP 8.4: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2009 der RZR II Herten GmbH
+- TOP 8.5: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Bericht über die aktuelle Situation
+- TOP 9: Übrige Beteiligungsgesellschaften - Bericht über die Ergebnisentwicklung zum 30.06.2010
+- TOP 10: Mitteilungen - Beantwortung der Anfrage der CDU-Fraktion im Wirtschaftsausschuss am 01.06.2010 zu den Zeitstellen außerhalb des Stellenplans
+- TOP 11: Anträge
+- TOP 12: Anfragen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
