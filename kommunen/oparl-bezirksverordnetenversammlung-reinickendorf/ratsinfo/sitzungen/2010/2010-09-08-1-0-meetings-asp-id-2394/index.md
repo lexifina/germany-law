@@ -1,0 +1,118 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-09-08T17:05:00+02:00
+- Ende: 2010-09-08T21:50:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2394
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2394
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=49030
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - in der BVV abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 3.1: Abgabe der bezirklichen Einrichtung "Hansa-Haus" in Kühlungsborn - erledigt
+- TOP 3.2: Abgabe der bezirklichen Einrichtung "Hansa-Haus" in Kühlungsborn zum Zwecke des Verkaufs - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Drucksache Nr. 1224/XVIII - Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommmission - Tagesordnungspunkt 9.1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - erledigt
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - erledigt
+- TOP 5.1: Kulturveranstaltungen im Sommer 2010 (Vorlage zur Kenntnisnahme 30.06.2010) - überwiesen
+- TOP 5.2: Nachnutzung Flughafen Tegel (Große Anfrage 30.06.2010) - beantwortet
+- TOP 5.3: Jugendfreizeiteinrichtungen - Fit für die Zukunft (Große Anfrage 30.06.2010) - überwiesen
+- TOP 5.4: Grünflächen Märkisches Viertel (Beschlussempfehlung 30.06.2010) - überwiesen
+- TOP 5.5: Bouleplatz Greenwichpromenade (Beschlussempfehlung 30.06.2010) - in der BVV abgelehnt
+- TOP 5.6: Rue Racine als Einbahnstraße (Beschlussempfehlung 30.06.2010) - vertagt
+- TOP 5.7: Aufhebung der Austauschbarkeit der Fächer Kunst und Musik in den Klassenstufen 7 bis 9 der integrierten Sekundarschulen (Beschlussempfehlung 30.06.2010) - vertagt
+- TOP 5.8: Migrationsbeauftragte/Migrationsbeauftragter auch für Reinickendorf (Ersuchen 30.06.2010) - vertagt
+- TOP 5.9: Brix und Genzmer-Platz in Frohnau (Ersuchen 30.06.2010) - überwiesen
+- TOP 5.10: Freier Weg für Fußgänger im Knappenpfad in Frohnau (Ersuchen 30.06.2010) - überwiesen
+- TOP 5.11: Barrierefreier Zugang zu den Waldwegen (Empfehlung 30.06.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Sicherung des Schulweges zur Erpelgrundschule (Empfehlung 30.06.2010) - überwiesen
+- TOP 6: Feststellungen - überwiesen
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Modell des Bauprojekts Tegeler Insel ausstellen - vertagt
+- TOP 7.2: Verkehrszählung in Alt-Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Merchandising von Reinickendorfer Ortsteil-Artikeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Perspektiven für Reinickendorf ohne den Flughafen Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Spielplatz für Ältere in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Radweg Ruppiner Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Straßenfeste in Reinickendorf - überwiesen
+- TOP 7.8: Positiv-Kampagne - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Leseförderung durch Antolin - vertagt
+- TOP 7.10: Bericht über Sanierung im MV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Essensversorgung an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Wirtschaftspotenziale erkennen und fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Geplante Ortsumgehungsstraße durch Frohnauer Biotop verhindern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2010 und 2011 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2010 und 2011 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2010 und 2011 (Doppelhaushalt) - überwiesen
+- TOP 7.17: Außenbezirke nicht vernachlässigen - keine Schließung der Polizei-Dienststelle in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Sichere Straßenüberquerung des Hermsdorfer Damms in der Höhe Olafstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Verkehrsfluss durch Ausweichmöglichkeiten verbessern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Hinweisschilder Tegeler Einkaufszentrum - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Pünktlicher 120er Bus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Straßenfeste 2010 - überwiesen
+- TOP 7.23: Straßenausbaubeitragsgesetz - überwiesen
+- TOP 7.24: Straßenausbaubeitragsgesetz - überwiesen
+- TOP 7.25: Großveranstaltungen 2010 - überwiesen
+- TOP 7.26: Ampelschaltung Wilhelmsruher Damm / Eichhorster Weg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Kinderfreundliches Reinickendorf III - "Aufsuchende Elternhilfe" - vertagt
+- TOP 7.28: Informationsvorträge von Jugendoffizieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Visitenkartenpartys für Migranten - vertagt
+- TOP 7.30: Grüner Rechtsabbieger-Pfeil Cyclopstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Inventar Bollerwagen wieder zentral verwalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Kinderfreundliches Reinickendorf V - Kinderfußgängerschein - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.33: Auswirkungen von Unterzügigkeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.34: Veranstaltung zur deutsch-französichen Partnerschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.35: Elektronische Akte - Zukunftsmusik oder bereits Wirklichkeit in Reinickendorf? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.36: Die Umweltzone darf ehrenamtliches Engagement nicht unterbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.37: Arbeit der Sozialkommission im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.38: Fahrradtransport in Bussen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.39: Ampelschaltung Jean-Jaures-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.40: Fahrräder kostenlos von der Polizei codieren lassen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.41: "Kindergesundheit - Eltern sind dabei" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.42: Auswertung der öffentlichen Auslegung gemäß § 3 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes 12-25B vom 06.01.2010 - überwiesen
+- TOP 7.43: Erlass der Verordnung über die Festsetzung des Bebauungsplans XX-253 für die Grundstücke Alt-Wittenau 87-95, Roedernallee 118-118 A, Oranienburger Straße 52-60, eine Teilfläche der Grünfläche Alt-Wittenau Ecke Roedernallee, eine Teilfläche der Grünanlage Am Nordgraben sowie einen Abschnitt der Straßen Alt-Wittenau, Roedernallee und Oranienburger Straße im Bezirk Reinickendorf, Ortsteil Wittenau - überwiesen
+- TOP 7.44: Ergebnisse der ressortübergreifenden Arbeistgruppe zum Thema "Alkoholmissbrauch" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Situation am Halligweg - vertagt
+- TOP 8.2: Zustand des Märkischen Viertels - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 9.1: Nachwahl von ehrenamtlichen Mitgliedern in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Reinickendorfer Nachnutzungskonzept für den Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Radfahrstreifen Heiligenseestraße - vertagt
+- TOP 10.3: Flusskreuzschifffahrtsanleger - in der BVV abgelehnt
+- TOP 10.4: Werbung für Volksfeste im öffentlichen Straßenland - in der BVV abgelehnt
+- TOP 10.5: Barrierefreiheit an der Chamisso-Grundschule - vertagt
+- TOP 10.6: Barrierefreiheit am Neubau an der Chamisso-Grundschule - vertagt
+- TOP 10.7: Erhalt Wiesengrundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Schulanfangsphase im Wiesengrund - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Barrierefreiheit an Schulneu- und Ergänzungsbauten - vertagt
+- TOP 11: Anträge - vertagt
+- TOP 12: Ersuchen - vertagt
+- TOP 12.1: Aufwertung Spielplatz Göschenstraße - überwiesen
+- TOP 12.2: Mauerstreifen - überwiesen
+- TOP 12.3: Über städtebauliche Entwicklung der Cité Foch informieren - überwiesen
+- TOP 12.4: 50. Jahrestag des Mauerbaus - überwiesen
+- TOP 12.5: Kein Hunde-Verbot in Reinickendorfer Parkanlagen - überwiesen
+- TOP 12.6: Beleuchtung in der Cité Foch - überwiesen
+- TOP 12.7: Grünpflege ohne Grün? - überwiesen
+- TOP 13: Empfehlungen - überwiesen
+- TOP 13.1: Erhalt der Postfilialen in Reinickendorf - überwiesen
+- TOP 13.2: Ampelanlage Schulzendorfer Straße / Am Dachsbau - überwiesen
+- TOP 13.3: Direktanbindung von Reinickendorf zum Flughafen Schönefeld - überwiesen
+- TOP 13.4: Mieterfreundliche Sanierung in Reinickendorf-West - überwiesen
+- TOP 13.5: Hilfestellung und Unterstützung bei ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitäts-Störung) - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Wort halten bei PKB (Personalkostenbudgetierung) - überwiesen
+- TOP 13.7: Jugendschutz bei Gewinnspielautomaten wirksam durchsetzen - überwiesen
+- TOP 13.8: Heidekrautbahn: "Haltestelle Wilhelmsruh - Märkisches Viertel" - überwiesen
+- TOP 13.9: Keine Fernbahnstrecke durch Reinickendorf - vertagt
+- TOP 13.10: Alkoholverzehr in der Öffentlichkeit - überwiesen
