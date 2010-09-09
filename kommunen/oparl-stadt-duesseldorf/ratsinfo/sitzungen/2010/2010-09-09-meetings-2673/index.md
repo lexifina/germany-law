@@ -1,0 +1,67 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-09-09T17:00:00+02:00
+- Ende: 2010-09-09T18:45:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2673
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2673
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00145515.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00145515.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00145515.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8
+- TOP 2: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift vom 01.07.2010 - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Zuschüsse zu kulturellen Veranstaltungen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 8: Unterhaltung von städtischen Grundstücken - einstimmig beschlossen
+- TOP 9: Einrichtung von Parkscheibenregelungen im Stadtbezirk 8 - beantwortet
+- TOP 10: Containerstationen auf Parkplätzen - beantwortet
+- TOP 11: Verkehrszählungen im Stadtbezirk 8 - beantwortet
+- TOP 12: Wartehallen im Stadtbezirk 8 - beantwortet
+- TOP 13: Wellness Center Elbsee - beantwortet
+- TOP 14: Bustakte im Stadtbezirk 8 - beantwortet
+- TOP 15: Parkpflegewerk Schlosspark Eller - beantwortet
+- TOP 16: Mehrgenerationenspielplätze im Stadtbezirk 8 - beantwortet
+- TOP 17: Grundstück ggü. Am Straußenkreuz 111 - beantwortet
+- TOP 18: Räumlichkeiten des AK Kultur im Kulturbahnhof Eller - beantwortet
+- TOP 19: Sicherung Geh- Radweg Am Kleinforst - beantwortet
+- TOP 20: Kindertagesstättenplätze im Stadtbezirk 8 - beantwortet
+- TOP 21: Grundstück Rathelbeckstraße / Zum Hexenkotten - beantwortet
+- TOP 22: Einrichtung eines Fahrradstreifens - einstimmig beschlossen
+- TOP 23: Kreuzung Erkrather Straße / Ronsdorfer Straße - einstimmig beschlossen
+- TOP 24: Polizei - Bezirksdienst im Stadtbezirk 8 - zurückgezogen
+- TOP 25: Parkscheibenregelung Robertstraße - mehrheitlich beschlossen
+- TOP 26: Friedhof Eller, Eingang Am Straußenkreuz - einstimmig beschlossen
+- TOP 27: Toiletten- und Technikgebäude Wasserspielplatz Schloss Eller - einstimmig beschlossen
+- TOP 28: Grünfläche Fuß- / Radweg Karlsruher Straße - S-Bahnhof Eller-Süd - einstimmig beschlossen
+- TOP 29: Kinderspielplatz Zeppelinstraße - mehrheitlich abgelehnt
+- TOP 30: Parken Reisholzer Straße - zurückgezogen
+- TOP 31: Mehrgenerationengeräte am Wasserspielplatz Schloss Eller - einstimmig beschlossen
+- TOP 32: Platz Am Pfaffenbusch / Gerresheimer Landstraße - einstimmig beschlossen
+- TOP 33: Geänderte Führung Strab 701,706,715 im Rahmen von Kö-Bogen u. Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 34: Förderprogramm Soziale Stadt - zur Kenntnis genommen
+- TOP 35: Handläufe auf dem Breidenplatz - zur Kenntnis genommen
+- TOP 36: Baumfällungen Südliche Düssel - zur Kenntnis genommen
+- TOP 37: Parktaschen Gumbertstraße - zur Kenntnis genommen
+- TOP 38: Attraktivierung von Bahnüberführungen - zur Kenntnis genommen
+- TOP 39: Toilettenanlage Wasserspielplatz Schloss Eller - zur Kenntnis genommen
+- TOP 40: Quartierspaten im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 41: Containerstation S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 42: Haltverbotschild Friedrich-Engels-Straße - zur Kenntnis genommen
+- TOP 43: Grünflächen zw. Chemnitzer Straße / Zwickauer Straße und Vennhauser Allee - zur Kenntnis genommen
+- TOP 44: Parksituation am Schlosspark Eller - zur Kenntnis genommen
+- TOP 45: Gestaltung Gertrudisplatz - zur Kenntnis genommen
+- TOP 46: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 47: Radweg Deutzer Straße - zur Kenntnis genommen
+- TOP 48: Lärmmessung Reisholzer Straße - zur Kenntnis genommen
+- TOP 49: Anzeige von Vandalismusschäden im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 50: Gerresheimer Landstraße 89, Neubau einer Dreifach-Turnhalle - zur Kenntnis genommen
