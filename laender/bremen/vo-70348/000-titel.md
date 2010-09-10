@@ -1,1 +1,1 @@
-# Verordnung über die Öffnung von Verkaufsstellen am 16. März 2008 in der Stadtgemeinde Bremen vom 26. Februar 2008
+# Zweite Verordnung über die Sonntagsöffnung von Verkaufsstellen in der Stadt Bremerhaven im Jahre 2010 vom 11. August 2010
