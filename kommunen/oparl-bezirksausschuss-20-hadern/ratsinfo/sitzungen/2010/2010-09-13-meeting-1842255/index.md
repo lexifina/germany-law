@@ -1,0 +1,96 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842255
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842255
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrssituation Kornwegerstraße
+- TOP 1.2.: Anfrage zur Nutzung der Grundstücke Terofalstraße 19 und 25
+- TOP 1.3.: Verkehrsberuhigung Pfingstrosenstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Kinderhaus Wolkerweg, KJR München-Stadt, Kauf einer Trennwand als Raumteiler (Direktorium, 24.08.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erinnerungsverfahren: Waldwiesenstraße 37 (Baureferat, 06.08.10)
+- TOP 6.2.: Verzicht auf den Neubau der Staatsstraße 2063 (Referat für Stadtplanung und Bauordnung, 17.08.10)
+- TOP 6.3.: Planfeststellung nach Personenbeförderungsgesetz; U-Bahn-Linie 6-West in München und Planegg, Neubaustrecke von München-Klinikum Großhadern nach Planegg-Martinsried (Referat für Stadtplanung und Bauordnung, 17.08.10)
+- TOP 6.4.: Verkehrskonzept im Münchner Westen (Referat für Stadtplanung und Bauordnung, 23.08.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Kleinhaderner Straße 54, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 15507
+- TOP 7.2.: Würmtalstraße 16, 1 Birke
+- TOP 7.3.: Kruckenburgstraße 32, 1 Lärche
+- TOP 7.4.: Am Stoppelfeld 3, 1 Lärche
+- TOP 7.5.: Veilchenstraße 27 a, 1 Tanne
+- TOP 7.6.: Am Waldrand 41 a, 5 Birken
+- TOP 7.7.: Zypressenweg 6, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 19729
+- TOP 7.8.: Brunellenweg 30, 1 Birke
+- TOP 7.9.: Aurikelstraße 18, 1 Blutahorn
+- TOP 7.10.: Platanenstraße 20, 1 Fichte
+- TOP 7.11.: Aurikelstraße 3, 1 Birke
+- TOP 7.12.: Würmtalstraße 84, 3 Birken
+- TOP 7.13.: Sonnenblumenstraße 21, 1 Blaufichte
+- TOP 7.14.: Hochwaldstraße 18, 1 Birke
+- TOP 7.15.: Stiftsbogen 87/ 89, 1 Blutpflaume und 1 Eberesche
+- TOP 7.16.: Veilchenstraße 21, 1 Silberahorn
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der SWM: - Stromprojekt Marchioninistraße (Pfingstrosenstraße, Geranienstraße, Aurikelstraße), 2. Teilabschnitt (SWM, 30.07.10) - Stromprojekt Marchioninistraße (Sonnenblumenstraße, Steinpilzstraße, Kriegerheimstraße), 3. Teilabschnitt (SWM, 12.08.10)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: Marchioninistraße 15 (SWM, 02.08.10)
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Pfingstrosenstraße (Sozialreferat, 12.08.10)
+- TOP 8.4.: Unveränderte Fortführung einer Gaststätte: - "Knossos", Großhaderner Straße 47 (Kreisverwaltungsreferat, 05.08.10)
+- TOP 8.5.: Statistikblatt Kinderbetreuungsplätze in der Landeshauptstadt München, Stand: 01.07.2010 (Sozialreferat, 06.08.10)
+- TOP 8.6.: Reduzierung um 25 Plätze im Kindergarten Guardinistraße 58 (Schul- und Kultusreferat, 29.07.10)
+- TOP 8.7.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Kinderkrippen- und Kindergartenplätze, Stiftsbogen 58 (Schul- und Kultusreferat, 23.08.10)
+- TOP 8.8.: Bezuschussung aus dem Budget des BA 9; Anträge des Vereins Lilalu e.V. vom 18.02.2010 (Oberbürgermeister Ude, 06.08.10)
+- TOP 8.9.: Außenvertretung der Bezirksausschüsse (Direktorium, 20.08.10)
+- TOP 8.10.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte (Kommunalreferat, 24.08.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Brandgefährdung in Haderner Kindertagesstätten und Schulen (Schul- und Kultusreferat, 30.07.10)
+- TOP 9.2.: Verkehrsberuhigung Pfingstrosenstraße (Kreisverwaltungsreferat, 25.08.10)
+- TOP 9.3.: Hundekottütenspender Gräfelfinger Straße / Ecke Ludwig-Hunger-Straße (Baureferat, 27.08.10)
+- TOP 9.4.: Einmündung Wastl-Witt-Straße / Flemischweg (Baureferat, 31.08.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: U-Bahnhaltestelle Martinsried (Gemeinde Planegg, 16.08.10)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Antrag des BA 2 Ludwigsvorstadt-Isarvorstadt: Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP 11.2.: Veranstaltung Münchner Solartag 2011 dezentral (Referat für Gesundheit und Umwelt, 29.07.10)
+- TOP 11.3.: Beschlussvorlage Unterstützung von Stadtteilfesten und Stadtteilaktivitäten, hier: Stellungnahme des BA 4 Schwabing-West und des BA 9 Neuhausen-Nymphenburg
+- TOP 11.4.: Mobile Musiktheater-Produktion von Kultur auf Rädern 2010 "Vogelfrei" (Kultur auf Rädern, 05.08.10)
+- TOP 11.5.: Oktoberfest 2010; vorläufige Reservierungsübersicht (Direktorium, 11.08.10)
+- TOP 11.6.: Geschäftsbericht der Unfallkasse München, Geschäftsjahr 2009 (Unfallkasse München, 02.08.10)
+- TOP 11.7.: Infobrief Nr. 28 des Ausländerbeirates (Ausländerbeirat München, 02.08.10)
+- TOP 11.8.: Sachbericht von Stüps zum Antrag vom 09.06.2010, Streitschlichterausbildung vom 19. - 22.07.2010 (Stüps, 29.07.10)
+- TOP 11.9.: Mitteilung über neuen Standort des Schulreferates Mitteilung der Termine 2011 " Das Schulreferat trifft die Bezirksausschüsse", BA 20 Hadern: Mittwoch, 23.11.2011 (Schul- und Kultusreferat, 30.07.10)
+- TOP 11.10.: Dank für Zuschuss aus dem BA-Budget für Nachbarschaftsfest Blumenau (Regsam, 19.08.10)
+- TOP 11.11.: Sitzungstermine 2011 des BA 20 Hadern
+- TOP 11.12.: Flyer Infoabende September bis Dezember 2010 (Referat für Gesundheit und Umwelt, 01.09.10)
+- TOP 11.13.: Broschüre Münchner EnergieSparTage 2010 (Referat für Gesundheit und Umwelt, 01.09.10)
+- TOP 11.14.: SHZ-Rundbrief einBlick 03/2010 ist online (Selbsthilfezentrum München, 06.09.10)
+- TOP 11.15.: Einladung "Engagement in einer Tour" am Dienstag, 21.09.2010 von 17.30 - 21.00 Uhr (Caritas, 06.09.10)
+- TOP 11.16.: Informationsveranstaltung des Sozialreferates am Montag, 29.11.2010 ab 17.30 Uhr (Sozialreferat, 03.09.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 28.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04629: Landesentwicklungsprogramm (nach Antrag)
+- TOP 12.2.: Beschluss vom 28.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04578: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten (nach Antrag in der Fassung des Ausschussbeschlusses vom 07.07.2010)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Bauausschusses vom 06.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 01925: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken, insbesondere in den Stadtbezirken 9, 16 und 18
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
