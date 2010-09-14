@@ -1,0 +1,114 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2010-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1866447
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1866447
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Reparaturpflasterungen Am Bergsteig, Gietlstraße, Untere Grasstraße, Hefnerstraße; Bürgerschreiben vom 16.08.10
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Projekt "Soziale Stadt/Kooperationen-Antrag - Lotsen für Giesing"; Präsentation durch das Sozialreferat
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 2.1.: Info-Blatt über den BA 17, überarbeiteter Entwurf
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Verlängerung der Öffnungszeiten der städtischen Freibäder; Antrag des BA 2 Ludwigsvorstadt-Isarvorstadt vom 27.07.10 mit der Bitte um Unterstützung
+- TOP 4: Budget
+- TOP 4.1.: Antrag des Vereins Lilalu e.V. vom 18.02.2010 auf Bezuschussung des Sommerferien- programms "Umsonst & Draußen" vom 13. - 29.08.2010; Abdruck des Schreibens des BA 9 vom 16.07.2010 an den Oberbürgermeister mit der Bitte um Kenntnisnahme
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Tela Aktiv e.V., für die Maßnahme 1. Adventsmarkt in Giesing vom 03.-05.12.10; Erstellung der Infrastruktur; Antragssumme: 1963,30 ?; Antrag vom 15.06.2010; Beschlussvorlage des Direktoriums vom 26.08.2010
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: 5.1.1.1 Katalog-Angelegenheiten Nr. 7.2; Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung (vertagt aus den Sitzungen vom 13.07. bzw. 10.08.10) 5.1.1.1.1 Anwesen Tegernseer Landstraße 157; Neubau Büro- und Gewerbepark / Hotel mit Tiefgarage (AGFA-Gelände) - Tektur; Anhörung vom 05.08.10 5.1.1.1.2 Anwesen Tegernseer Landstraße 157; Neubau Büro- und Gewerbepark / Hotel mit Tiefgarage (AGFA-Gelände) - Tektur (Schallschutzbauwerk für die TG-Rampe in BT IV); Anhörung vom 05.08.10 5.1.1.1.3 Anwesen Wirtstraße 19; Nutzungsänderung; Anhörung vom 07.07.10;
+- TOP 0.2.: 5.1.1.2 Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Geiger Umweltsanierung GmbH; Genehmigung für die zeitlich befristste Errichtung und Betrieb einer Anlage zum Brechen und Sieben von Abfällen im Rahmen der Sanierungsmaßnahme auf dem ehemaligen AGFA-Gelände an der Tegernseer Landstraße 161; Anhörung durch das Referat für Gesundheit und Umwelt vom 27.07.10 (vertagt, TOP 5.5 vom 10.08.10)
+- TOP 0.3.: 5.1.1.3 Änderung des Flächennutzungsplans für die Hohenwaldeckstraße vom Mischgebiet in ein reines Wohngebiet.
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.03.2010; hier: St.-Bonifatius-Straße 5; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; Beschluss des BA 17 vom 13.07.2010 (vertagt, TOP 5.1.2.3 vom 13.07.2010)
+- TOP 0.1.: Bauträgerauswahl für ein Baugrundstück des Kommunalen Wohnungsbauprogramms- Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B), Beschlussentwurf für den Sozialausschuss vom 14.10.2010; mit der Bitte um Stellungnahme durch den BA 17 bis zum 01.10.2010
+- TOP 0.2.: Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung 5.1.3.2.1 Anwesen St.-Martin-Str. 60; Revitalisierung Bürogebäude mit Fassadenerneuerung und Baukörpererweiterung; mit der Bitte um Stellungnahme innerhalb eines Monats.
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.2.1 Kleingaststätte "Bacchus Stüberl", Tegernseer Landstraße 155; Mitteilung vom 20.07.2010 5.1.4.2.2 SSW "Akgüney"; Chiemgaustr. 80a; Mitteilung vom 01.07.2010 5.1.4.2.3 SSW "Hohenwart", Gietlstr. 15, Mitteilung vom 01.07.2010 5.1.4.2.4 SSW "Erciyes", Brecherspitzstr. 6, Mitteilung vom 30.08.2010
+- TOP 0.3.: Giesinger Bahnhof - Wallbergstraße; Herstellung der öffentlichen Verkehrsflächen und Dienstbarkeitsflächen; Mitteilung des Baureferats vom 26.07.2010
+- TOP 0.4.: Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung Anwesen Bantingstr. 11; Umbau und Erweiterung eines Gebäudes - Vorbescheid, unwirksamer Antrag; Schreiben des Referats für Stadtplanung und Bauordnung vom 21.06.2010
+- TOP 0.5.: Schwanseestraße 64 b; Entscheidung über Sondernutzungserlaubnis; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund; ablehnender Beschluss des BA 17 in der Sitzung am 11.05.10; Antwortschreiben des Oberbürgermeisters vom 18.08.2010
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Umnummerierung des Gebäudes Städtischer Kindergarten Severinstr. 2 in Severinstr. 4; Zuleitung des Schul- und Kultusreferats vom 29.07.2010
+- TOP 0.2.: Münchner GBW-Wohnungen; Sicherung als bezahlbarer Wohnraum auch nach einem Verkauf; Antrag Nr. 08-14 / B 01862 des BA 17 vom 09.02.2010; Antwortschreiben des Oberbürgermeisters vom 27.05.2010
+- TOP 0.3.: Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 4 Kinderkrippen- und 2 Kindergartengruppen an der Münchberger Straße; 1. Vorläufige Genehmigung des Nutzerbedarfsprogramms, 2. Vorplanungsauftrag; Zuleitung des Schul- und Kultusreferats vom 29.03.2010
+- TOP 0.4.: Baumaßnahmen im Zusammenhang mit dem Ausbau gebundener Ganztageszüge und offener Ganztagesangebote an Grund-, Haupt- und Förderschulen; 1. Aktuell entscheidungsreife Projekte: Erweiterung des Versorgungsbereichs für die Ganztagesklassen der Grundschule an der St.-Martin-Straße 30 im 17. Stadtbezirk Obergiesing-Fasangarten 2. Bereitstellung überplanmäßiger Auszahlungsmittel 3. Änderung des Entwurfs des Mehrjahresinvestitionsprogrammes 2010 - 2014 im UA 2110 bzw. 2130; Sitzungsvorlage Nr. 08-14 / V 04338; Beschluss der Vollversammlung des Stadtrats vom 23.06.2010
+- TOP 0.5.: A) Errichtung von Mobilen Schulraumeinheiten an den nachstehenden Schulstandorten in München a) Schulzentrum Engadiner Straße 1 im 19. Stadtbezirk b) Asam-Gymnasium, Schlierseestraße 20 im 17. Stadtbezirk c) Wilhelm-Hausenstein-Gymnasium, Elektrastraße 61 im 13. Stadtbezirk d) GS/HS Bernaysstraße 35 im 11. Stadtbezirk e) GS Feldmochinger Straße 251 im 24. Stadtbezirk f) GS/HS Haldenbergerstraße 27 im 10. Stadtbezirk Moosach 1. Projektauftrag, 2. Projektgenehmigung, 3. Genehmigung zur verwaltungsinternen Ausführungsgenehmigung, 4. Genehmigung zur verwaltungsinternen Ermächtigung der Vergabe für das jeweilige Projekt, 5. Änderung des Mehrjahresinvestitionsprogramms 2009-2013 in den betroffenen Unterabschnitten 2110, 2130, 2220 und 2320 6. Außerplanmäßige Mittelbereitstellungen im Finanzhaushalt - Investitionstätigkeit bei Finanzpositionen in den Bereichen UA 2110, 2130, 2220 und 2320, 7. Ausnahme von Finanzierungsvorbehalt B) Raumsituation am Gymnasium Fürstenried C) Ausreichend Unterrichtsräume an den Gymnasien für die Eingangsklassen schaffen D) Dringende Verbesserung der gymnasialen Eingangsklassensituation im Münchner Osten durch Einrichtung von Vorläuferklassen für das Truderinger Gymnasium E) Schaffung von Räumen für Eingangsklassen; Sitzungsvorlage Nr. 08-14 / V 04040; Beschluss der Vollversammlung des Stadtrats vom 28.04.2010
+- TOP 0.6.: Abschaffung der Nutzungsgebühr für Schulturnhallen für Sportvereine; Infromation bezüglich Gebühren und Hallenbelegung; Schreiben des Schul- und Kultusreferats om 11.08.2010 inklusive Broschüre mit den genauen Benutzerentgelten für Sportanlagen
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: 5.3.1.1 Behinderten- und seniorengerechte Gestaltung von Obergiesing-Fasangarten - Behebung von Mängel (vertagt, TOP 3.3 vom 13.07.10)
+- TOP 0.2.: 5.3.1.2 Verkehrs-/Gefahrensituation an der Kreuzung Lincoln-/Cincinnatistraße (Bürgeranliegen aus der Sitzung vom 13.07.2010)
+- TOP 0.3.: 5.3.1.3 Befestigung des Grünstreifens (Insel) an der Einmündung Heimgarten- / Deisenhofener Straße; Bürgeranliegen (vertagt, TOP 2.1.2.2 vom 13.07.10)
+- TOP 0.4.: 5.3.1.4 Gegenläufiger gemeinsamer Geh-/Radweg an der Ostseite der Ortsfahrbahn der Tegernseer Landstraße zwischen Lincoln- und Fasangartenstraße; Anhörung durch das Kreisverwaltungsreferat vom 01.07.2010 zur beabsichtigte verkehrsrechtlichen Anordnung (vertagt, TOP 5.3.3.5 vom 13.07.10)
+- TOP 0.1.: Standorte der Parkscheinautomaten in den Parklizenzgebieten; Zuleitungen des Baureferats mit der Bitte um Stellungnahme 5.3.3.1.1 Lizenzgebiet "St.-Martins-Platz"; Zuleitung vom 15.07.2010 5.3.3.1.2 Lizenzgebiet "Walchenseeplatz"; Zuleitung vom 28.07.2010
+- TOP 0.2.: Öffnung der in Richtung Süden einbahngeregelten Raintaler Straße, zwischen Perlacher Straße und Deisenhofener Straße für den gegenläufigen Radverkehr; Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 05.08.2010 mit der Bitte um Stellungnahme
+- TOP 0.3.: Planfeststellung nach §18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 3neu München-Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief); Zuleitung des Referats für Stadtplanung und Bauordnung vom 24.08.2010 mit der Bitte um Stellungnahme bis zum 16.09.2010 zu 5.3.3.3 Anhörung des BA 1 zur Planfeststellung 2. S-Bahn-Stammstrecke München; Schreiben des BA 1 an das Referat für Stadtplanung und Bauordnung vom 27.08.2010
+- TOP 0.4.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke a) Grundsatzentscheidungen des Bayerischen Landtages vom 14.04.2010; Stand der Umsetzung b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen c) Lärmsanierung am DB-Südring d) Weiteres Vorgehen e) Anträge und Empfehlungen Anhörung der Bezirksausschüsse zu einer Beschlussvorlage des Planungsreferats für die Vollversammlung des Stadtrats am 06.10.2010; Zuleitung des Planungsreferats vom 20.08.10 mit der Bitte um Zustimmung bzw. Kenntnisnahme oder Stellungnahme bis 20.09.2010
+- TOP 0.1.: Rotwandstraße zwischen Landlstraße und Deisenhofener Straße; Aufhebung der Einbahnregelung; Stellungnahme des BA 17 aus der Sitzung vom 08.06.2010; Antwortschreiben des Kreisverwaltungsreferats vom 05.08.2010
+- TOP 0.2.: Bushaltestelle "Fasangarten" für einen Schienenersatzverkehr bei Ausfall der S-Bahn; Zuleitung des Kreisverwaltungsreferats vom 27.07.2010
+- TOP 0.3.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken, sowie gestalterische Aufwertung von Unterführungsbauwerken; Sitzungsvorlage Nr. 08-14 / V 01925; Beschluss des Bauausschusses vom 06.07.2010 (SB)
+- TOP 0.4.: Autobahnring A 99 München-Süd, Sachstandsbericht über Abschluss der Machbarkeitsstudie der Autobahndirektion Südbayern, Anträge und Empfehlungen, u. a. Stellungnahme des Stadtrats gegen die Planungen eines Autobahn-Südrings durch die Wälder im Süden Münchens, Empfehlung Nr. 08-14 / E 00346 der Bürgerversammlung des 17. Stadtbezirks am23.06.2009; Sitzungsvorlage Nr. 08-14 / V 04498; 2. Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.07.2010 (VB)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Vollzug der Baumschutzverordnung und des Bayer. Naturschutzgesetzes, 5.4.4.1 Anwesen Eslarner Str. 32 5.4.4.2 Anwesen Kronacher Str.12 5.4.4.3 Anwesen Bantingstraße 11 5.4.4.4 Anwesen Lincolnstraße 58 5.4.4.5 Anwesen Bantingstraße 5
+- TOP 0.2.: 5.4.4.6 Pennstr. 75; Rücknahme des Fällungsantrags vom 24.05.2010; Mitteilung des Referats für Stadtplanung und Bauordnung vom 14.07.2010
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Weißenseepark; Puppentheater Maatz vom 02.11. bis 09.11.2010; Veranstaltung in städtischer Grünanlage; Zuleitung des Kreisverwaltungsreferats vom 09.08.2010 mit der Bitte um Stellungnahme
+- TOP 0.2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten, Stellungnahme des BA 4 Schwabing-West, mit der Bitte um Berücksichtigung der angesprochenen Kritikpunkte bei der eigenen Behandlung der Beschlussvorlage; vgl. TOP 5.5.3.3 der BA-Sitzung vom 13.07.2010; Schreiben des BA 9 Neuhausen-Nymphenburg vom 18.08.2010 mit der Beantragung von Änderungen
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: Deisenhofener Straße 74-76; 1 Robinie; Antrag vom 27.07.2010
+- TOP 6.7.1.2.: Warthofstr. 7, 3 Fichten, Antrag vom 05.08.2010
+- TOP 6.7.1.3.: Untere Grasstraße 3; 1 Kastanie, 1 Ahorn, Antrag vom 03.08.2010
+- TOP 6.7.1.4.: Oberviechtacher Str. 40 a/b, 4 Lärchen, Antrag vom 04.08.2010
+- TOP 6.7.1.5.: St. Martins-Str. 34; 1 Saalweide; Antrag vom 26.08.2010
+- TOP 6.7.1.6.: Bantingstr. 11; 1 Rubinie; Antrag vom 30.08.2010
+- TOP 6.7.2: Baumbestandspläne
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Außenvertretung der Bezirksausschüsse, Az.: D-II-BA F 05/011, Schreiben des Direktoriums mit der Bitte um Kenntnisnahme
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
