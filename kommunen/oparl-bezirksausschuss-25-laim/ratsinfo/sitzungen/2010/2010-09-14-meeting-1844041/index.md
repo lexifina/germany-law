@@ -1,0 +1,148 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1844041
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1844041
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Laimer Bauernmarkt
+- TOP 1.2.2.: Geruchsbelästigungen durch Gaststätte; Friedenheimer Str. 33
+- TOP 1.2.3.: Agnes-Bernauer-Straße zwischen Lautensack- und Fürstenrieder Straße; Begrünung / Gestaltung
+- TOP 1.2.4.: Müllcontainer-Leerung Helmpertstr. 22
+- TOP 1.3: Kirchenneubau; Vorstellung der Pläne
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Neue Abfalleimer für die Pausenhöfe der Schulen an der Schrobenhausener Str. 10
+- TOP 2.2.: CSU: Aufnahme der Fürstenrieder Straße im Lärmaktionsplan München als Untersuchungsgebiet
+- TOP 2.3.: SPD: Deutliche Erhöhung der Fahrradabstellplätze an den U-Bahn-Haltestellen im 25. Stadtbezirk, insbesondere an den Stationen Laimer Platz und Friedenheimer Straße
+- TOP 2.4.: SPD: Betreuungsplätze für Kinder und Schulkinder im Stadtbezirk
+- TOP 2.5.: CSU: Fehlende Straßenmarkierung an der Kreuzung Camerloherstraße / Fürstenrieder Straße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Inderstorferstr. 13
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.500 Euro für neue Spielgeräte für den Kindergarten; Antragsteller: Förderverein Kindergarten Fronleichnam e.V - <div>vertagt</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 750 Euro für offene Spielaktion für Kinder vom 15.09.-24.09.10; Antragsteller: Familienzentrum Laim e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Gesundheit und Umwelt vom 29.07.10: Münchner Solartage 2011 dezentral
+- TOP 4.2.: Schreiben Baureferat vom 27.07.10: Riegerhofstraße, Sanierung Gehbahn und Einfahrten
+- TOP 4.3.: Schreiben Planungsreferat vom 28.07.10: Verkehrskonzept im Münchner Westen (Empfehlung Nr. 08-14 / E 00441 der Bürgerversammlung vom 17.11.09); Beschlussentwurf für den Planungsausschuss
+- TOP 4.4.: Schreiben KVR vom 29.07.10: Ausweichstelle für den Linienbusverkehr in der Senftenauerstraße
+- TOP 4.5.: Schreiben KVR vom 06.08.10: Flohmarkt am Hogenbergplatz am 09.04.11 und 24.09.11
+- TOP 4.6.: Schreiben KVR vom 18.06.10: Aufhebung der Radwegbenutzungspflicht Von-der-Pfordten-Straße (vertagt aus der BA-Sitzung vom 27.07.10)
+- TOP 4.7.: Schreiben KVR vom 10.06.10: Haltverbot an der Kreuzung Guido-Schneble-Straße / Senftenauerstraße (vertagt aus der BA-Sitzung vom 27.07.10)
+- TOP 4.8.: Schreiben KVR vom 11.08.10: Flohmarkt am Spielplatz Von-der-Pfordten-Straße am 09.10.10
+- TOP 4.9.: Schreiben Planungsreferat vom 20.08.10: Ertüchtigung des Bahnknotens München; 2. Stammstrecke, a) Grundsatzentscheidung des Bayerischen Landtages vom 14.04.10; Stand der Umsetzung, b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen, c) Lärmsanierung am DB-Südring, d) weiteres Vorgehen, e) Anträge und Empfehlungen; Beschlussentwurf für die Vollversammlung am 06.10.10
+- TOP 4.10.: Schreiben Sozialreferat vom 25.08.10: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013 und Art. 27 BayKiBiG, Kinderkrippe Landsberger Str. 155 ( Die Münchner Kindl Kinderkrippen GmbH) mit 48 Kinderkrippenplätzen / Umbau; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 09.11.10
+- TOP 4.11.: Schreiben Sozialreferat vom 25.08.10: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013 und Art. 27 BayKiBiG, Kinderkrippe Elsenheimerstr. 45 (Wichtel Akademie München GmbH) mit 48 Kinderkrippenplätzen / Umbau; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 09.11.10
+- TOP 4.12.: Schreiben Baureferat vom 24.08.10: St.-Ulrich-Straße / Kreuzungsbereich Camerloherstraße; Fahrbahnsanierung
+- TOP 4.13.: Flantinstr. 18: Fällung einer Kiefer
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Aindorferstr. 10: Neubau eines Einfamilienhauses; hier: Baumfällungen
+- TOP 5.2.: Aindorferstr. 72: Neubau eines Mehrfamilienhauses und einer Stadtvilla sowie einer Tiefgarage; hier: Baupläne und Baumfällungen
+- TOP 5.3.: Hartelstr. 4: Neubau eines Dreifamilienhauses mit Doppelgarage; hier: Baupläne
+- TOP 5.4.: Elsenheimerstr. 24: Balkonanbau, DG-Ausbau, Aufstockung; hier: Baumfällungen
+- TOP 5.5.: Agnes-Bernauer-Str. 105: Neubau eines Mehrfamilienhauses; hier: Baumfällungen
+- TOP 5.6.: Elsenheimerstr. 12: Nutzungsänderung im EG eines Wohn-/ Geschäftsgebäudes: Ladenwohnung zu Wohnung mit separater Gewerbeeinheit; hier: Baupläne
+- TOP 5.7.: Von-der-Pfordten-Str. 38: Neubau eines Einfamilienhauses mit Stellplätzen / Vorbescheid; hier: Baupläne und Baumfällungen
+- TOP 5.8.: Lautensackstr. 21: Abbruch maroder Balkonanlagen EG - 4. OG, Neuerrichtung von Balkonanlagen EG - 4. OG, Anbringung einer WDVS-Fassade Straßen- und Hofseite; hier: Baupläne
+- TOP 5.9.: Agnes-Bernauer-Str. 1: DG-Ausbau, Aufzugsanbau (Agnes-Bernauer-Str. 1-9 / Lautensackstr. 6-16 / Ludwig-Richter-Str. 20-24 / Schedelstr. 1-11 + 2 - 14 ) / Vorbescheid; hier: Baupläne
+- TOP 5.10.: St.-Ulrich-Str. 4: Neubau eines Wohnhauses (3 - 4 WE) mit Garagen / Vorbescheid; hier: Baumfällungen
+- TOP 5.11.: Hogenbergstr. 33-35: Neuerrichtung einer Kooperationseinrichtung mit 3 Krippen- und 3 Kindergartengruppen sowie einem Veranstaltungsgebäude / Vorbescheid; hier: Baupläne und Baumfällungen
+- TOP 5.12.: Fürstenrieder Str. 51: Neubau eines Büro- und Geschäftshauses mit Pkw-Garagen (46 Stellplätze) (vertagt aus der BA-Sitzung vom 27.07.10) - dazu auch Schreiben des Planungsreferates vom 13.08.10
+- TOP 5.13.: Fürstenrieder Str. 8b: Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid; hier: Baumfällungen
+- TOP 5.14.: Landsberger Str. 185: Genehmigung der bestehenden Diskothek- und Eventhalle "Nachtgalerie"; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 11.08.10: Oktoberfest 2010 - Reservierungsübersicht (Termin für den BA 25 am 21.09.10 um 17.00 Uhr)
+- TOP 6.2.: Versetzung des BA-Schaukastens Reindlstraße / Saherrstraße an die Ecke Guido-Schneble-Straße / Aindorferstraße südwestlich der Bushaltestelle "Guido-Schneble-Straße" stadtauswärts
+- TOP 6.3.: Einwohnerversammlung zur Tram-Westtangente; Sachstand
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung des UA Kultur vom 06.07.10
+- TOP 7.2.: BA-Sitzung vom 06.07.10
+- TOP 7.3.: Sitzung des UA Soziales, Schule und Sport vom 20.07.10
+- TOP 7.4.: BA-Sitzung vom 27.07.10
+- TOP 7.5.: Ortstermin UA Umwelt und Verkehr vom 20.08.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 07.07.10: Toiletten an S-Bahnhöfen
+- TOP 8.2.: Schreiben OB Ude vom 06.08.10: Bezuschussung aus dem Budget des BA 9; Anträge des Vereins Lilalu e.V. vom 18.02.10 auf Bezuschussung des Sommerferienprogramms "Umsonst & Draußen" vom 13.-29.08.10
+- TOP 8.3.: Schreiben OB Ude vom 24.08.10: Nutzungsänderung Bäckerei Reutterstr. 42
+- TOP 8.4.: Schreiben Direktorium vom 11.08.10: Zuwendung aus dem Budget des BA 25 für die Aufstellung eines weiteren Containers; Antragsteller: Camerloher Kids e.V.
+- TOP 8.5.: Schreiben Direktorium vom 20.08.10: Außenvertretung der Bezirksausschüsse
+- TOP 8.6.: Schreiben KVR vom 13.07.10: Errichtung der seit langem geforderten Lichtzeichenanlage Gotthardstraße / Laimer Platz / Riegerhofstraße (Antrag Nr. 08-14 / B 02184 vom 08.06.10)
+- TOP 8.7.: Schreiben KVR vom 13.07.10: Gaststätte "Pizzeria Meraviglia", Riegerhofstr. 20; Antrag auf Neuerrichtung
+- TOP 8.8.: Schreiben KVR vom 16.07.10: Arbeiten im Straßenraum: Joergstraße zwischen Lechfeldstraße und Camerloherstraße; Verlegung einer Fernwärmeleitung
+- TOP 8.9.: Schreiben KVR vom 27.07.10: Arbeiten im Straßenraum; Gotthardstraße Ecke Laimer Platz; Verlegung einer Fernwärmeleitung
+- TOP 8.10.: Schreiben KVR vom 19.07.10: Arbeiten im Straßenraum; Landsberger Straße zwischen Am Knie und Lohensteinstraße sowie zwischen Laimer Kreisel und Elsenheimerstraße; Fahrbahnsanierung
+- TOP 8.11.: Schreiben KVR vom 19.07.10: Arbeiten im Straßenraum; Landsberger Straße zwischen Am Knie und Lohensteinstraße und zwischen Laimer Kreisel und Elsenheimerstraße; Fahrbahnsanierung Phase II
+- TOP 8.12.: Schreiben KVR vom 12.08.10: Gaststätte "Cafèteria Westpark", Westendstr. 174; unveränderte Fortführung
+- TOP 8.13.: Schreiben KVR vom 07.05.10: Haltverbot Kärtner Platz ggü. Hausnr. 3
+- TOP 8.14.: Schreiben KVR vom 19.08.10: Berücksichtigung zukünftiger Entwicklungen bei Erstellung der Vormerk- und Neuantragslisten für das Lichtzeichenanlagen-Bauprogramm (Antrag Nr. 08-14 / B 02318 vom 27.07.10)
+- TOP 8.15.: Schreiben KVR vom 30.08.10: Öffnung der Reutterstraße für den gegenläufigen Radverkehr
+- TOP 8.16.: Schreiben Kulturreferat vom 02.07.10: Kulturtage Laim (Schreiben BA vom 08.07.10)
+- TOP 8.17.: Schreiben Sozialreferat vom 20.07.10: Städtische Kindertageseinrichtungen Siglstr. 19 und 21; KomPro-Bebauung entlang der Siglstraße (Schreiben BA vom 30.04.10)
+- TOP 8.18.: Schreiben Sozialreferat vom 21.07.10: Zweckentfremdung von Wohnraum; Agnes-Bernauer-Straße
+- TOP 8.19.: Schreiben Sozialreferat vom 28.07.10: Zweckentfremdung von Wohnraum; Perhamerstraße
+- TOP 8.20.: Schreiben Sozialreferat vom 30.07.10: Zweckentfremdung von Wohnraum; Johannes-Scharrer-Straße
+- TOP 8.21.: Schreiben Sozialreferat vom 04.08.10: Zweckentfremdung von Wohnraum; Aindorferstraße
+- TOP 8.22.: Schreiben Sozialreferat vom 06.08.10: Statistikblatt Kinderbetreuungsplätze in der LHM - Sozialreferat 01.07.10
+- TOP 8.23.: Schreiben Schul- und Kultusreferat vom 30.07.10: Mitteilung der Termine 2011, Mitteilung über neuen Standort des Schulreferates, "Das Schulreferat trifft die Bezirksausschüsse" am 13.07.11
+- TOP 8.24.: Schreiben Schul- und Kultusreferat vom 19.08.10: Bezirksausschusssitzung des BA 25 Laim vom 27.07.10; Fragen zu der Grund- und Hauptschule Schrobenhausener Str. 15 (email BA vom 08.07.10)
+- TOP 8.25.: Schreiben Schul- und Kultusreferat vom 25.08.10: Hortsituation in Laim (Schreiben BA vom 05.07.10)
+- TOP 8.26.: Schreiben Kommunalreferat vom 19.08.10: Ersatzstandort für Bauernmarkt in Laim (Schreiben BA vom 08.07.10)
+- TOP 8.27.: Schreiben Markthallen München vom 24.08.10: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte
+- TOP 8.28.: Schreiben Referat für Arbeit und Wirtschaft vom 29.07.10: Wirtschafts-Info 07/2010
+- TOP 8.29.: Schreiben Referat für Arbeit und Wirtschaft vom 11.08.10: Europe Direct Informationen 05/2010
+- TOP 8.30.: Schreiben Referat für Arbeit und Wirtschaft vom 12.08.10: Trambahnprojekt Westtangente; Fahrgastzahlen für die Buslinien, die in der Fürstenrieder Straße verkehren (Antrag Nr. 08-14 / B 02022 vom 13.04.10)
+- TOP 8.31.: Schreiben Referat für Gesundheit und Umwelt vom 02.08.10: Lärmmessungen an der Lutzstraße; Bürgeranliegen vom 14.12.09 (Schreiben BA vom 17.03.10)
+- TOP 8.32.: Schreiben Referat für Gesundheit und Umwelt vom 23.08.10: Vertragliche Standortsicherung und Baubeginnsanzeige einer Mobilfunksendeanlage am Standort Westendstraße (UMTS-Erweiterung)
+- TOP 8.33.: Schreiben MVG vom 24.08.10: Auslastung U 4 und U 5 westlich des Hauptbahnhofs (Anfrage BA vom 08.07.10)
+- TOP 8.34.: Schreiben Planungsreferat 14.07.10: Camerloherstr. 158; Fällungsgenehmigung
+- TOP 8.35.: Schreiben Planungsreferat vom 06.07.10: Haunerstr. 10; Neubau eines Wohnhauses mit Tiefgarage
+- TOP 8.36.: Schreiben Planungsreferat vom 23.07.10: Flantinstr. 13: Neubau eines Einfamilienhauses mit Garage
+- TOP 8.37.: Schreiben Planunsreferat vom 20.07.10: Lanzstr. 18 b: Neubau eines Wohn- und Geschäftshauses / Vorbescheid
+- TOP 8.38.: Schreiben Planungsreferat vom 30.07.10: Erlass einer Erhaltungssatzung oder Gestaltungssatzung für das Gebiet Senftenauerstraße, Byecherstraße, Aindorferstraße und Rushaimerstraße (Schreiben BA vom 25.06.09)
+- TOP 8.39.: Schreiben Planungsreferat vom 11.08.10: Hartelstr. 6; Neubau eines Wohngebäudes
+- TOP 8.40.: Schreiben Planungsreferat vom 17.08.10: Antrag auf Baumfällung Egetterstr. 17 / Fällgenehmigung
+- TOP 8.41.: Schreiben Planungsreferat vom 17.08.10: Landsberger Straße, Fl.Nr. 230/26 Gemarkung Laim; Fernwärmeerschließung München-West / Druckerhöhungsstation Laim (Landsberger Straße / Pronnerplatz)
+- TOP 8.42.: Schreiben Planungsreferat vom 24.08.10: Agricolastr. 81; Neubau eines bzw. zweier Einfamilienhäuser mit Garagen / Vorbescheid
+- TOP 8.43.: Schreiben Planungsreferat vom 30.08.10: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP 8.44.: Bautenliste vom 19.07.-25.07.10 1. Erstantragsverfahren a) Aindorferstr. 72 b) Perhamerstr. 34 c) Geßlerstr. 29 d) Hartelstr. 4 2. Änderungsverfahren a) Schäufeleinstraße
+- TOP 8.45.: Bautenliste vom 26.07.-01.08.10 1. Erstantragsverfahren a) Elsenheimerstr. 24
+- TOP 8.46.: Bautenliste vom 02.08.-08.08.10 1. Erstantragsverfahren a) Kiem-Pauli-Weg 22 b) Elsenheimerstr. 28 c) Camerloherstr. 158 2. Änderungsverfahren a) Agricolastr. 71 b) Mathunistr. 13
+- TOP 8.47.: Bautenliste vom 09.08.-15.08.10 1. Erstantragsverfahren a) Elsenheimerstr. 12 b) Lautensackstr. 21 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Hogenbergstr. 33 b) Von-der-Pfordten-Str. 38 c) Agnes-Bernauer-Str. 1
+- TOP 8.48.: Bautenliste vom 16.08.-22.08.10 1. Erstantragsverfahren a) Landsberger Str. 317
+- TOP 8.49.: Bautenliste vom 23.08.-29.08.10 1. Erstantragsverfahren a) Landsberger Str. 185 b) Aindorferstr. 175 c) Aindorferstr. 177 d) Stroblstr. 40 a
+- TOP 8.50.: Schreiben Stadtwerke München GmbH vom 19.07.10: Baumaßnahmen der Stadtwerke; Stichtag: 19.07.10
+- TOP 8.51.: Schreiben Stadtwerke München GmbH vom 26.07.10: Baumaßnahmen der Stadtwerke; Stichtag: 26.07.10
+- TOP 8.52.: Schreiben Stadtwerke München GmbH vom 02.08.10: Baumaßnahmen der Stadtwerke; Stichtag: 02.08.10
+- TOP 8.53.: Schreiben Stadtwerke München GmbH vom 13.08.10: Baumaßnahmen der Stadtwerke; Stichtag: 09.08.10
+- TOP 8.54.: Schreiben Stadtwerke München GmbH vom 16.08.10: Baumaßnahmen der Stadtwerke; Stichtag: 16.08.10
+- TOP 8.55.: Schreiben Stadtwerke München GmbH vom 23.08.10: Baumaßnahmen der Stadtwerke; Stichtag: 23.08.10
+- TOP 8.56.: Schreiben Stadtwerke München GmbH vom 30.08.10: Baumaßnahmen der Stadtwerke; Stichtag: 30.08.10
+- TOP 8.57.: Schreiben Stadtwerke München GmbH vom 28.07.10: Baumaßnahmen der SWM; Fernwärmeprojekt Fürstenrieder Str. 51
+- TOP 8.58.: Schreiben Stadtwerke München GmbH vom 19.08.10: Baumaßnahmen der SWM; Stromprojekt Ilmmünsterstraße
+- TOP 8.59.: Beschluss der Vollversammlung des Stadtrates vom 28.07.10: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten (Sitzungsvorlagen-Nr. 08-14 / V 04578)
+- TOP 8.60.: Besschluss der Vollversammlung des Stadtrates vom 28.07.10: Landsentwicklungsprogramm (Sitzungsvorlagen Nr. 08-14 / V 04629)
+- TOP 8.61.: Schreiben BA 9 Neuhausen-Nymphenburg vom 16.07.10: BA-Budget; Stadtteilbezug
+- TOP 8.62.: Schreiben BA 2 Ludwigsvorstadt-Isarvorstadt vom 29.07.10: Antrag auf Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP 8.63.: Schreiben BA 4 Schwabing-West vom 03.08.10: Beschlussvorlage "Unterstützung von Stadtteilfesten und Stadtteilaktivitäten"
+- TOP 8.64.: Schreiben BA 9 Neuhausen-Nymphenburg vom 18.08.10: Anhörung: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten
+- TOP 8.65.: Schreiben Ausländerbeirat München: Infobrief 28 / Juli 2010
+- TOP 8.66.: Schreiben Gleichstellungsstelle für Frauen vom 26.07.10: Einladung zum Treffen aller Gleichstellungsbeauftragten der BAs am 17.09.10
+- TOP 8.67.: Schreiben Fachinformationsstelle gegen Rechtsextremismus vom 21.07.10: Veranstaltung "Jugendkultur und Musik - ein Feld für den Rechtsextremismus!? Grauzone - alles klar, oder!? Musikkultur und Bands zwischen rechtsoffen und extrem rechts" am 30.09.10
+- TOP 8.68.: Schreiben FachInformationsstelle gegen Rechtsextremismus vom 12.07.10: Einladung zur Fachtagung "Heimatliebe, Nationalstolz und Rassismus - Einzelmeinungen oder Trend? Extrem rechte politische Weltanschauungen von MigrantInnen" am 28. / 29.10.10
+- TOP 8.69.: Schreiben Mittagsbetreuung Camerloher Kids e.V. vom 03.08.10: Bericht über Kauf und Errichtung eines weiteren Containers zur Betreuung von Grundschulkindern nach dem Unterricht auf dem Schulgelände Camerloherstr. 110
+- TOP 8.70.: Schreiben Laimer Maibaumfreunde e.V. vom 16.07.10: Verwendungsnachweis über Zuschuss aus dem BA-Budget für Maitanz am 01.05.10
+- TOP 8.71.: Schreiben Referat für Arbeit und Wirtschaft vom 16.07.10: Münchner Jahreswirtschaftsbericht 2010
+- TOP 8.72.: Schreiben Referat für Gesundheit und Umwelt vom 12.07.10: Broschüre "Aus Alt mach Neu"
+- TOP 8.73.: Schreiben MVV vom 22.07.10: Verbundbericht 2009 - MVV weiter auf Erfolgskurs
+- TOP 8.74.: Schreiben Unfallkasse München vom 12.07.10: Geschäftsbericht der Unfallkasse München; Geschäftsjahr 2009
+- TOP 8.75.: Direktorium: Münchner Statistik, 1. Quartalsheft, Jahrgang 2010
+- TOP 8.76.: Schriftverkehr aus der BA-Sitzung vom 06.07.10
+- TOP 8.77.: Schriftverkehr aus der BA-Sitzung vom 27.07.10
+- TOP 1.2: Bürgerpost an den BA
