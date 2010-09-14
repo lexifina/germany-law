@@ -1,0 +1,100 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904125
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904125
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Schützengesellschaft Altbayern e.V. München-Feldmoching 100-jähriges Vereinsjubiläum am 11.09.2010
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Paulckestraße Tanzprojekt "Tanz und Schule" im Schuljahr 2010/2011
+- TOP 2.3.: (E) Budget der Bezirksausschüsse TSV München 54 e.V. Juniorenturnier am 04.09.2010
+- TOP 2.4.: Projektplanung: Moosglöckchenweg - gemeinsamer Geh- und Radweg
+- TOP 2.5.: Entscheidung über die Aufhebung Taxistandplatz Lassallestr. 101; Einrichtung einer Bücherbushaltestelle
+- TOP 2.6.: Widmung einer Teilstrecke der Straße "Am Schnepfenweg"
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.9.: Fußgängerüberweg über den Blütenanger/Höhe Reigersbachstrasse und weitere geschwindigkeitsreduzierende Maßnahmen (Interessengemeinschaft Fasanerie aktiv e.V.)
+- TOP 3.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Städtebauliche Entwicklungsmaßnahme Kronprinz-Ruprecht-Kaserne Strukturkonzept 2010
+- TOP 5.2.: Einrichtung eines allg. Behindertenparkplatzes in der Schneeglöckchenstr. 89/89a
+- TOP 5.3.: geplante verkehrsrechtliche Anordnung: Ausweichstelle für Linienbusverkehr in der Ittlingerstraße
+- TOP 5.4.: Mobilfunk; Suchkreismeldung UMTS-Erweiterung (hier: Hasenbergl, Trasse U-Bahn)
+- TOP 5.5.: geplante Veranstaltung auf städtischer Grünanlage: Circus Frankello auf dem Dülferanger
+- TOP 5.6.: geplante Veranstaltung auf städtischer Grünanlage: Sommerfest auf dem Dülferanger vom 17.09.-19.09.2010
+- TOP 5.7.: Vollzug der Baumschutzverordnung (Bauvorhaben): 5.7.1 Adlerfarnstr. 23 5.7.2 Auwasserweg 16 5.7.3 Blodigstr.4 5.7.4 Frankaustr.20
+- TOP 5.8.: Änderung des Flächennutzungsplanes für Bereich Rothwiesenstraße (östl.)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Schulhofgestaltung an der Grundschule an der Lerchenauer Str. 322 (Anträge Nr. 5/3, 5/4, 5/22, 5/24 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.2.: Störender Abfall an der Skateanlage am Fasaneriesee (Antrag Nr. 6/5 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.3.: Beschwerde über das Bezirksausschuss-Mitglied Robert H.
+- TOP 6.4.: Verwendung farblich unterschiedlicher Wertstoffcontainer an den Stadtorten Toni-Pfülf-Straße und Hans-Böckler-Straße (BA-Antrag Nr. 08-14/B 02224 vom 22.06.2010)
+- TOP 6.5.: Radwege im Winter räumen (BA-Antrag Nr. 08-14/B 01948 vom 02.03.2010)
+- TOP 6.6.: Widmung der Windröschenstraße (BA-Antrag Nr. 08-14/B 02214 vom 01.06.2010)
+- TOP 6.7.: Änderung der Vorfahrtsregelung in der Hans-Böckler-Straße (BA-Antrag Nr. 08-14/B 01870 vom 02.02.2010)
+- TOP 6.8.: Einrichtung von zwei Kurzzeitparkplätzen für Behinderte auf dem Walter-Sedlmayr-Platz (BA-Antrag Nr. 08-14/B 01543 vom 13.10.2009)
+- TOP 6.9.: Blinkampel für Fußgängerüberweg an der Lerchenauer Straße auf Höhe der Schittgaberstraße (BA-Antrag Nr. 08-14/B 02227 vom 22.06.2010)
+- TOP 6.10.: Bebauungsplan mit Gartenstadtcharakter für die Eggartensiedlung (BA-Antrag Nr. 08-14/B 02139)
+- TOP 6.11.: Schutz der Mieter(innen) im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen (BA-Antrag Nr. 08-14/B 01936 vom 02.03.2010 u.a.)
+- TOP 6.12.: Verlängerung der Öffnungszeiten der städtischen Freibäder (BA-Antrag Nr. 08-14/B 02299 des Bezirksausschuss 2)
+- TOP 6.13.: Projekt "Auf Herz und Rampe prüfen" (Stellungnahme zu Ziff. 3.2a, 3.2b, 3.2e und 3.2f zum Schreiben des BA 24 vom 29.06.2010)
+- TOP 6.14.: Geschwindigkeitsüberwachung in der Niederalteicher Straße
+- TOP 6.15.: Taxistand Blodigstraße 7
+- TOP 6.16.: Errichtung von Toilettenanlagen am Fasaneriesee
+- TOP 6.17.: Anbringung von Zusatzschildern an Straßennamen in der Lerchenau
+- TOP 6.18.: Fehlender Sickerschacht in der Heppstr. 22
+- TOP 6.19.: Beschlussvorlage Unterstützung von Stadtteilfesten und Stadtteilaktivitäten (Stellungnahme des Bezirksausschusses 4)
+- TOP 6.20.: Meldelisten Baumfällungsanträge
+- TOP 6.21.: Baumartenwahl Schleißheimer Straße (Westseite)
+- TOP 6.22.: Vollzug der Baumschutzverordnung: Beseitigen von Gefahrenbäumen: Herbergstr.11
+- TOP 6.23.: Meldelisten Bauvorhaben
+- TOP 6.24.: Bauvorhaben: Anhörung im Einzelfall auf Anforderung: 6.24.1 Bocksdornstraße (VB) 6.24.2 Caracciolastr. 53 6.24.3 Dachauer Str. 570 6.24.4 Karlsfelder Str. 16 (Baumfällung/Neubau) 6.24.5 Lasallestr.95 (Tektur) 6.24.6 Lerchenauer Str. 197 6.24.7 Blodigstr.4 (Quartierszentrum Hasenbergl) 6.24.8 Reigersbachstr. 14-16 (Tektur) 6.24.9 Schneeglöckchenstr. 104
+- TOP 6.25.: Anliegerinformation Fahrbahnsanierung Ittlinger Straße
+- TOP 6.26.: Unregelmäßigkeiten bei der Postzustellung durch die Südpost
+- TOP 6.27.: Lärmbelästigung durch Lautsprecherdurchsagen oder Musikdarbietungen auf dem Gelände "Eschengarten"
+- TOP 6.28.: Gründung einer türkischen Tafel
+- TOP 6.29.: Verkehrsrechtliche Anordnungen: 6.29.1 Paulckestr. 2 (Einrichtung eines personenbezogenen Behindertenparkplatzes) 6.29.2 Himmelschlüsselstraße (Aufhebung der Vorfahrtsregelung) 6.29.3 Lerchenstraße (absolutes Halteverbot) 6.29.4 Linkstr.7 (Aufhebung eines personenbezogenen Behindertenparkplatzes) 6.29.5 Olschewskibogen (Halteverbot) 6.29.6 Pappelallee (absolutes Halteverbot) 6.29.7 Himmelschlüsselstraße (absolutes Halteverbot im Kurvenbereich)
+- TOP 6.30.: Veranstaltung auf öffentlichem Verkehrsgrund: Festzug mit Fahnenweihe anlässlich des 100jährigen Bestehens der Schützengesellschaft Altbayern e.V. am 11.09.2010 (Bescheid)
+- TOP 6.31.: Filmaufnahmen auf öffentlichem Verkehrsgrund: Drehgenehmigung Kohlröschenstr. 43, Kuckucksblumenstr. 21 u. 23, Am Blütenanger 56a
+- TOP 6.32.: Vollzug der abfall- und immissionsschutzrechtl. Bestimmungen: Detmoldstr. 14 - Fa. WEBA (Bescheid)
+- TOP 6.33.: Baumaßnahmen der Stadtwerke München: 6.33.1 Erdgasprojekt Feldmochinger Straße 6.33.2 Stromprojekt Weitlstr.50 6.33.3 Stromprojekt Wintersteinstraße 6.33.4 Stromprojekt Rainfarnstraße bei 9
+- TOP 6.34.: Beschluss Bauausschuss: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken...
+- TOP 6.35.: Projektgenehmigung: Städt. Freisportanlage an der Lerchenauer Str. 270; Modernisierung Freisportflächen...
+- TOP 6.36.: Beschlussvorlage: Änderung der Bayer. Bauordnung; Baugenehmigungspflicht für Mobilantennen...
+- TOP 6.37.: Beschluss Kulturausschuss: Stärkung der Stadtteilkultur; Bericht über Verbesserungen im Bereich Veranstaltungst...
+- TOP 6.38.: Genehmigung des Nutzerbedarsprogrammes (Schul- und Kultusreferat): Errichtung eines Hauses für Kinder (Kooperationseinrichtung) an der Robinienstraße
+- TOP 6.39.: Vollzug des BayKiBiG: Bescheid über die Anerkennung von Plätzen in de Kita Wintersteinstr. 16
+- TOP 6.40.: Anträge des Vereins Lilalu e.V. (Sommerferienprogramm "Umsonst und Draussen") hier: Stellungnahme des Bezirksausschusses 9 an OB
+- TOP 6.41.: Statistikblatt Kinderbetreuungsplätze in der LHM-Sozialreferat (Stand 01.07.2010)
+- TOP 6.42.: Vorankündigung Auftaktveranstaltung "Lokales Bildungsmanagement im Stadtteil"
+- TOP 6.43.: Dokumentation des 5. Mitmach-Zirkusfestivals 2010 in Ludwigsfeld (Caritas, Jump In)
+- TOP 6.44.: Dankschreiben der Grundschule Eduard-Spranger-Straße (Budgetierung Pausenhofprojekt)
+- TOP 6.45.: Münchner Statistik (1.Quartalsheft, Jahrgang 2010)
+- TOP 6.46.: Jahreswirtschaftsbericht 2010
+- TOP 6.47.: Broschüre "Aus Alt mach Neu" (Bauzentrum München)
+- TOP 6.48.: Magazin "nah dran 2010" (Kinderschutz e.V.)
+- TOP 7: Berichte
+- TOP 7.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 7.2.: Unterausschuss Schule, Sport und Soziales
+- TOP 7.3.: Unterausschuss Kultur und Budget
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Entwurf: Sitzungstermine des BA 24 im Jahr 2011
+- TOP 8.2.: Informationsaustausch Bebauungsplan 24. Stadtbezirk: Vereinbarung von Terminen und Themen
+- TOP 8.3.: Einsatz von Laubsaugern in Wohngebieten
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
