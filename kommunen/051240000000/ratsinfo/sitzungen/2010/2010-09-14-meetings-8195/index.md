@@ -1,0 +1,60 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-09-14T16:07:00+02:00
+- Ende: 2010-09-14T17:39:00+02:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8195
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8195
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand 03.09.2010 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00121201.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00121904.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Besetzung des Finanzausschusses des Wupperverbandes - geändert beschlossen
+- TOP 4.2: Besetzung des Investitions- und Bauausschusses des Wupperverbandes - ungeändert beschlossen
+- TOP 4.3: Umbesetzung im Verbandsrat des Wupperverbandes - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Übertragung von Finanzierungsaufgaben ab 2011 auf den Zweckverband Verkehrsverbund Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 5.2: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- bzw. Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 5.3: Benennung des Prüfers für den Jahresabschluss 2010 der Wuppertal Marketing GmbH - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Sachstandsbericht zur Erarbeitung des Personalentwicklungskonzeptes - Entgegennahme ohne Beschluss
+- TOP 12.2: Sachstandsbericht - Ausbildung 2010/2011 - - Entgegennahme ohne Beschluss
+- TOP 12.3: Externe Einstellungen im Zeitraum Januar bis Juli 2010 - Entgegennahme ohne Beschluss
+- TOP 12.4: Stand der Schulden und Kassenkredite zum 31.07.2010 - Entgegennahme ohne Beschluss
+- TOP 12.5: Bericht über die elektronischen Kommunikationsstrukturen zu Bürgeranliegen - Entgegennahme ohne Beschluss
+- TOP 13: Haushaltsangelegenheiten
+- TOP 14: Verkäufe und Baumaßnahmen
+- TOP 14.1: Anbau Haus der Jugend Barmen - ungeändert beschlossen
+- TOP 15: Dienstanweisungen und Satzungen
+- TOP 16: Anträge und Anfragen
+- TOP 16.1: Alternative Finanzierungsquellen mit bürgerschaftlichem Engagement prüfen - abgelehnt
+- TOP 16.2: Große Anfrage des Stv. Michaelis zur Aufstellung eines Personalentwicklungskonzeptes für die Stadtverwaltung vom 03.09.2010 - Entgegennahme ohne Beschluss
+- TOP 16.2.1: Antwort auf die Große Anfrage des Stv. Michaelis zur Aufstellung eines Personalentwicklungskonzeptes für die Stadtverwaltung vom 03.09.2010 - Entgegennahme ohne Beschluss
+- TOP 17: Allgemeine Vorlagen
+- TOP 17.1: Verfassungsbeschwerde gegen die Finanzierungsbeteiligung der Gemeinden an den finanziellen Belastungen des Landes NRW an der Deutschen Einheit (Einheitslastenabrechnungsgesetz) - ungeändert beschlossen
+- TOP 17.2: Aufnahme von Kassenkrediten und damit verbundene Zinsvereinbarungen über Laufzeiten bis zu 5 Jahre - ungeändert beschlossen
+- TOP 17.3: Antrag der Stadt Wuppertal auf Zulassung als kommunaler Träger gemäß § 6 a SGB II zur Übernahme der Grundsicherung für Arbeitssuchende nach dem SGB II - ungeändert beschlossen
+- TOP 18: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 24: Alten- und Altenpflegeheime
+- TOP 24.1: Quartalsbericht II/2010 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 24.2: Quartalsbericht II/2010 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 24.3: Entlastung der Betriebsleitung APH für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 24.4: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2010 - ungeändert beschlossen
+- TOP 25: Berichte und Mitteilungen
+- TOP 26: Kinder- und Jugendwohngruppen
+- TOP 26.1: Bericht über das 2. Quartal 2010 - Entgegennahme ohne Beschluss
+- TOP 26.2: Empfehlung eines Wirtschaftsprüfers für den Jahresabschluss 2010 - ungeändert beschlossen
+- TOP 27: Berichte und Mitteilungen
