@@ -1,0 +1,75 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Ziele und Arbeitsweise der GIMA München eG
+- TOP 4.2.: Abschlussbericht des August-Kühn-Vereins
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Entscheidung über die Aufstellung von neuen Verkaufseinrichtungen an der Theresienhöhe 3
+- TOP 5.2.: Entscheidung über die Genehmigung einer Freischankfläche in der Bergmannstr. 23
+- TOP 5.3.: Entscheidung über die Erweiterung einer bestehenden Freischankfläche in der Kazmairstr. 29
+- TOP 5.4.: Entscheidung über eine Freischankfläche in der Landsberger Str. 131
+- TOP 5.5.: Baumaßnahmen der Stadtwerke München
+- TOP 5.6.: Meldeliste
+- TOP 5.7.: Dachgeschossausbau in der Anglerstraße 19a-23
+- TOP 5.8.: Antwort auf die BV-Anfrage Nr. 186 zu den Baugruben am Anfang und am Ende der Hans-Fischer-Str.
+- TOP 5.9.: Antwort zur BV-Anfrage Nr. 187; Zustand der Gebäudefassade in der Kazmairstr. 32 und in der Schwanthalerstr. 119
+- TOP 5.10.: Antwort zum BA-Antrag Nr. 2174; Antrag auf Änderung der BA-Satzung, Einführung eines Anhörungsrechtes bei bestimmten Baustelleneinrichtungen
+- TOP 5.11.: Entscheidung über eine Freischankfläche in der Schwanthalerstr. 156
+- TOP 5.12.: Entscheidung über eine Freischankfläche ion der Sandtnerstr. 5
+- TOP 5.13.: Entscheidung über eine Freischankfläche in der Heimeranstr. 51
+- TOP 5.14.: Anhörung: Fanfahrenzug am 23.10.2010
+- TOP 5.15.: Antwort: Frage zum Winterdienst
+- TOP 5.16.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Kurzbericht Oben Ohne Open Air 2010
+- TOP 6.2.: Mitteilung der Termine 2011: Das Schulreferat trifft die Bezirksaussschüsse
+- TOP 6.3.: Antwort zur BV-Empfehlung Nr. 584; Ausbau von Kinderkrippen, Öffnungszeiten auf Vollzeitbeschäftigte abstimmen, Stichtag 30.Oktober abschaffen
+- TOP 6.4.: Statistikblatt Kinderbetreuungsplätze in der LHM
+- TOP 6.5.: Anhörung: Investitionskostenförderung gem. Art. 27 BayKiBiG; Kinderhort Tulbeckstr. 23
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Audiokunstwerk "Memory Loops"
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Verkehrsrechtliche Änderungs-Anordnung für den Gollierplatz
+- TOP 8.2.: Veranstaltung Münchner Solartage 2011
+- TOP 8.3.: Mobilfunk Standortsuche im Bereich Theresienhöhe eingestellt
+- TOP 8.4.: Antwort des KVR zum Lichtzeichenanlagen-Bauprogramm
+- TOP 8.5.: Ergebnisse des Parkraummanagement-Wiesn-Abstimmungsgespräches
+- TOP 8.6.: Unterrichtung über die Fällung von Gefahrenbäumen
+- TOP 8.7.: Entscheidung über Parkscheinautomaten, Landsberger Str. 124-146
+- TOP 8.8.: Anhörung: Baumfällungsantrag Kazmairstr. 66
+- TOP 8.9.: Geroltstraße, Einrichtung eines beidseitigen Haltverbots
+- TOP 8.10.: Anhörung: Baumfällungsanträge Tulbeckstr. 52
+- TOP 8.11.: Ertüchtigung 2. Stammstrecke
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Budgetanträge des Lilalu e.V. auf Bezuschussung des Sommerferienprogramms "Umsonst & Draußen"
+- TOP 9.2.: Haushaltsplan 2010
+- TOP 9.3.: Projekt Langzeitbelichtung
+- TOP 9.4.: (E) Budget der Bezirksausschüsse westendstudios W. Gebhard Tag der offenen Tür vom 15. - 17.10.2010
+- TOP 9.5.: (E) Budget der Bezirksausschüsse Kath. Kindergarten Maria Heimsuchung Erneuerung des Zauns
+- TOP 9.6.: (E) Budget der Bezirksausschüsse KiTa Lilly läuft e.V. Anbringung einer Markise
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: BA-Antrag des BA 2 zur Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP 11.2.: Einladung zum Treffen der Gleichstellungsbeauftragten am 17.09.2010
+- TOP 11.3.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 11.4.: Vorläufige Übersicht über die Terminvergabe zum Oktoberfestbesuch 2010
+- TOP 11.5.: Antwort zum BA-Antrag Nr. 1863; außerordentliche Bürgerversammlung zur 2. S-Bahn Stammstrecke
+- TOP 11.6.: Google Street View; Schreiben des BA 16 Ramersdorf-Perlach und Antrag des BA 21 Pasing-Obermenzing
+- TOP 11.7.: Außenvertretung der Bezirksausschüsse
+- TOP 11.8.: Sitzungstermine des Bezirksausschusses 8 für das Jahr 2011
+- TOP 12: Protokoll und Umlauf
