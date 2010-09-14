@@ -1,0 +1,72 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-09-14T16:30:00+02:00
+- Ende: 2010-09-14T17:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVQQwYLcCLSk3dt4I9gW7IQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3727
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYJ79IBxF9R8SFRqVVhNaa24k4nZlhmwaIwejxLFQDPo/Oeffentliche_Niederschrift_Beteiligungsausschuss_14.09.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die gemeinsame Sitzung des Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung und des Beteiligungsausschusses am 22.06.2010
+- TOP 3: Protokoll über die gemeinsame Sitzung der Betriebsausschüsse EntsorgungsBetriebe und Dienstleistungsbetriebe und des Beteiligungsausschusses am 22.06.2010
+- TOP 4: Protokoll über die gemeinsame Sitzung des Haupt- und Personalausschusses und des Beteiligungsausschusses am 01.07.2010
+- TOP 5: Protokoll über die 05. Sitzung des Beteiligungsausschusses am 01.07.2010
+- TOP 6: 2. Quartalsbericht 2010 der Bergischen Volkshochschule - Zweckverband der Städte Solingen - Wuppertal
+- TOP 7: 2. Quartalsbericht 2010 des Dienstleistungsbetriebes "Gebäude" der Stadt Solingen
+- TOP 8: 2. Quartalsbericht 2010 der EntsorgungsBetriebe Solingen (EBS)
+- TOP 9: Jahresabschluss 2009 EntsorgungsBetriebe Solingen (EBS)
+- TOP 10: 2. Quartalsbericht 2010 des Technischen Betriebes "Straßen und Grün" der Stadt Solingen
+- TOP 11: Jahresabschluss 2009 des Technischen Betriebes "Straßen und Grün" der Stadt Solingen
+- TOP 12: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 13: Zusammenführung von EBS und TBSG
+- TOP 14: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 15: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 16: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 17: Neugestaltung des Berichtswesens für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 18: Public Corporate Governance Kodex für die Stadt Solingen
+- TOP 19: 2. Quartalsbericht 2010 (Ergebnisplan) inklusive HSK-Controlling
+- TOP 20: Verschiedenes
+- TOP 21: Duplikat von Mitteilung zum Stand der Verhandlung für das Zentrum für verfolgte Künste in Solingen mit dem Landschaftsverband Rheinland (LVR)
+- TOP 22: Mitteilung zum Stand der Verhandlung für das Zentrum für verfolgte Künste in Solingen mit dem Landschaftsverband Rheinland (LVR)
+- TOP 23: Altenzentren der Stadt Solingen
+- TOP 24: Aufrechterhaltung öffentlicher Angebote durch Haushaltsentlastung auf Grund Nutzung steuerrechtlicher Möglichkeiten (Teil-)Umsetzung der HSK-Maßnahmen 6, 245, 246 und 247
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Sachstandsbericht zum Jahresabschluss 2009 Kunst Museum Solingen Betriebsgesellschaft mbH
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die gemeinsame Sitzung des Ausschuss für Soziales, Gesundheit, Wohnungswesen, Senioren und Beschäftigungsförderung und des Beteiligungsausschusses am 22.06.2010
+- TOP 4: Protokoll über die 04. Sitzung des Beteiligungsausschusses am 22.06.2010
+- TOP 5: Protokoll über die gemeinsame Sitzung des Haupt- und Personalausschusses und des Beteiligungsausschusses am 01.07.2010
+- TOP 6: Protokoll über die 05. Sitzung des Beteiligungsausschusses am 01.07.2010
+- TOP 7: 1. Halbjahresbericht 2010 der Entsorgung Solingen GmbH
+- TOP 8: Jahresabschluss 2010 Entsorgung Solingen GmbH
+- TOP 9: Jahresabschluss 2009 Entsorgung Solingen GmbH
+- TOP 10: Wirtschaftsplan 2010 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 11: 2. Quartalsbericht 2010 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 12: Jahresabschluss 2009 der Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH
+- TOP 13: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Eigenkapitalausstattung
+- TOP 14: Wirtschaftsplan 2010/2011 der Städtische Musikschule Solingen GmbH
+- TOP 15: 2. Quartalsbericht 2010 der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 16: Vorberatung der Gesellschafterversammlung der Städtisches Klinikum Solingen gemeinnützige GmbH am 27.09.2010
+- TOP 17: 1. Halbjahresbericht 2010 der Bergische Entwicklungsagentur GmbH
+- TOP 18: Wirtschaftsplan 2010 der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 19: 1. Halbjahresbericht 2010 der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 20: 1. Halbjahresberichte 2010 der Sanierungsgesellschaft Südliche Innenstadt Solingen Verwaltungs-GmbH / mbH & Co. KG
+- TOP 21: Wirtschaftsplan 2011 der Sanierungsgesellschaft Südliche Innenstadt Solingen mbH & Co. KG
+- TOP 22: 1. Halbjahresbericht 2010 der Institut für Galvano- und Oberflächentechnik Solingen GmbH (IGOS GmbH)
+- TOP 23: 1. Halbjahresbericht 2010 der Gründer- und Technologiezentrum Solingen GmbH
+- TOP 24: 2. Quartalsbericht 2010 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 25: 3. Quartalsbericht 2009/2010 der Stadtwerke Solingen GmbH
+- TOP 26: Wirtschaftsplan 2010/2011 der Stadtwerke Solingen GmbH
+- TOP 27: Vorberatung von Gesellschafterbeschlüssen der Stadtwerke Solingen GmbH im schriftlichen Umlaufverfahren
+- TOP 28: 2. Quartalsbericht 2010 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 29: Vorberatung von Gesellschafterbeschlüssen der Beteiligungsgesellschaft Stadt Solingen mbH im schriftlichen Umlaufverfahren
+- TOP 30: Verschiedenes
+- TOP 31: Neugestaltung des Berichtswesens für die Betriebe und Gesellschaften der Stadt Solingen
