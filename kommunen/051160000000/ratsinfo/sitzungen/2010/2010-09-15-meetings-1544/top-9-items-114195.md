@@ -1,0 +1,8 @@
+# TOP 9: Struktur der NVV AG / Erhalt des steuerlichen Querverbundes
+
+- Sitzung: Hauptausschuss (2010-09-15)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/114195
+- Ergebnis: An den Rat verwiesen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/11435
