@@ -1,0 +1,51 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-09-15T18:00:00+02:00
+- Ende: 2010-09-15T23:20:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWBw6KbTNqdPfmK7lc0Cv3A
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1855
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQBjJa31w2iOItKYcsRTJGQXqD59SZxUap8_IZb25iWB/Bekanntmachung_Rat_15.09.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV9QWG2lEvbbUk6bWRN5SiKiRkUvsXpDHXEb_Q7pjann/Oeffentliche_Niederschrift_Rat_15.09.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 3.: Niederschrift vom 14.07.2010
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Antrag der CDU-Fraktion zur Realisierung der Riegelbebauung auf dem Kurt-Schumacher-Platz - Einstimmig, 0 Enthaltungen
+- TOP 4.2: Übernahme der Kosten für die Hochwasser-Einsätze der Feuerwehr durch die Bezirksregierung Münster; Antrag der CDU-Fraktion vom 31.08.2010 - Einstimmig, 0 Enthaltungen
+- TOP 4.3: Abschaffung des Ausschusses für Anregungen und Beschwerden; Antrag der CDU-Fraktion vom 02.09.2010 - 31 Jastimmen, 4 Neinstimmen, 3 Enthaltungen
+- TOP 4.4: Geplante Atomkraftwerke Temelin 3 und 4; Antrag der GAL-Fraktion vom 03.09.2010 - 5 Jastimmen, 19 Neinstimmen, 14 Enthaltungen
+- TOP 4.5: Hochwasser in Gronau; Antrag der GAL-Fraktion vom 03.09.2010 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Jahresabschluss 2009 der Stadtwerke Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2009 der Stadtwerke Gronau GmbH 3. Entlastung des Geschäftsführers und der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 7.: Jahresabschluss 2009 der Kulturbüro Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss 2009 der Kulturbüro Gronau GmbH 3. Entlastung des Geschäftsführers und der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 9.: Jahresabschluss 2009 der rock´n popmuseum GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss 2009 der rock´n popmuseum GmbH 3. Entlastung des Geschäftsführers und der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 11.: Jahresabschluss 2009 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 12.: Jahresabschluss 2009 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 3. Entlastung der Geschäftsführerin und der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 13.: Jahresabschluss 2009 der GFA Gesellschaft für Arbeitsförderung mbH 1. Jahresabschlussergebnis 2009 2. Ergebnisverwendung 3. Entlastungen - Ohne Abstimmung
+- TOP 14.: Budgetbericht zum II-Quartal 2010 - Ohne Abstimmung
+- TOP 15.: Stellenausschreibung Erste/r Beigeordnete/r - 26 Jastimmen, 12 Neinstimmen, 0 Enthaltungen
+- TOP 16.: Übertragung weiterer Aufgaben an die örtliche Rechnungsprüfung Bestellung eines Korruptionsbeauftragten - Einstimmig, 1 Enthaltungen
+- TOP 17.: Investitionsmaßnahmen zum Ausbau der U 3-Betreuung Genehmigung eines Dringlichkeitsbeschlusses - Einstimmig, 0 Enthaltungen
+- TOP 18.: Terminplanung für das 4. Quartal 2010 sowie Ergänzungen im Übrigen - 3 Jastimmen, 21 Neinstimmen, 14 Enthaltungen
+- TOP 19.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 20.: Verwaltungsgerichtliches Verfahren Stadt Gronau ./. Landrat des Kreises Steinfurt hier: Beschluss des VG Münster vom 06.09.2010 im vorläufigen Rechtsschutzverfahren - Einstimmig, 0 Enthaltungen
+- TOP 20.1: Mitteilungen der Verwaltung
+- TOP 20.1.1: Fraktionsvertreter/innen in der Kämmerei anlässlich des anstehenden Jahresabschlusses 2008
+- TOP 21.: Anfragen
+- TOP 21.1: Sachstand zu den Patenschaften der Tiere im Stadtpark (RM Breuer)
+- TOP 21.2: Resonanz zur Einführung der Ehrenamtskarte (RM Breuer)
+- TOP 21.3: Folgen des Stromausfalls am 10.09.2010 (RM Breuer)
+- TOP 21.4: Demolierte Telefonzelle im Buterland (RM Breuer)
+- TOP 21.5: Schreiben des Schulministeriums an die Haupt- und Realschulen bekannt? (RM Post)
+- TOP 21.6: Beantwortung des Schreibens der Lokalen Agenda zum Bahnhofsumfeld (RM Buchholz)
