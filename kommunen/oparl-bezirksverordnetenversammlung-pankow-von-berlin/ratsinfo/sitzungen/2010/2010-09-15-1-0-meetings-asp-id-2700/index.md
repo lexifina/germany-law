@@ -1,0 +1,96 @@
+# 36. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-09-15T17:30:00+02:00
+- Ende: 2010-09-15T21:40:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2700
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2700
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=41549
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - erledigt
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Metro-Standort in Pankow - beantwortet
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Bürgerdeputierten - gewählt
+- TOP 1.9: Nachweis der im Haushaltsjahr 2009 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.10: 1. Nachschiebeliste zur BVV-DRS VI 1112/ 2010 Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2010/2011 hier: Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 1.10.1: Ergänzungsplan des Bezirks Pankow zum Doppelhaushaltsplan 2010/2011 - hier Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Bereitstellung von Investitionsmitteln für die Begegnungsstätte Stillestr. 10 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Leitsystem / Hinweisschilder auf dem Gelände Fröbelstraße 17 - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Wohnungslosigkeit - Prävention stärken - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Drohendes Aus für ICON-Club - beantwortet
+- TOP 1.15: ICON-Club im Pankower Ortsteil Prenzlauer Berg erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 1.15.1: ICON-Club erhalten - zurückgezogen
+- TOP 1.16: Klimaschutz durch bessere Information - zurückgezogen
+- TOP 1.17: Verfahrensvorgaben zum Bebauungsplan 3-32 für das Grundstück Belforter Straße 5 - 8 / Straßburger Straße 33 - 36 / Metzer Straße 35 - 37 im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Gartendenkmal Hirschhof - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Entwicklung der Fläche des ehemaligen Rangier- und Güterbahnhofes Pankow - beantwortet
+- TOP 1.20: Erreichbarkeit der "Metro" verbessern - zurückgezogen
+- TOP 1.21: Gebietskulisse Stadtumbau Ost für den Prenzlauer Berg aktivieren und Grundlage für Sozialplanung und Mieterschutz schaffen - überwiesen
+- TOP 1.22: Zebrastreifen und Tempo 30 am Karower Damm - überwiesen
+- TOP 1.23: Ablaufplan zur Entwicklung der Fläche des ehemaligen Rangier- und Güterbahnhofes Pankow erarbeiten - überwiesen
+- TOP 1.24: Monatliche Übersicht für Straßenbaumaßnahmen - vertagt
+- TOP 1.25: Die moderne Straßenbahn in Europa - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: gethsemanePLATZ/ Platz der friedlichen Revolution - überwiesen
+- TOP 1.27: Wann kommt der/die Beteiligungsbeauftragte im Amt für Umwelt und Natur? - vertagt
+- TOP 1.28: Laubabholung in Siedlungsgebieten - vertagt
+- TOP 1.29: Attraktive Gestaltung der Schlossparkmauer - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Gemeinsamen Musikschulstandort im Prenzlauer Berg prüfen - vertagt
+- TOP 2.2: Sicherheit während der Tiefbaumaßnahmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Initiative im Eliashof - vertagt
+- TOP 2.4: VI-0599 Vorlage zur Kenntnisnahme § 13 BezVG/ ZB Bezirksamt Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - vertagt
+- TOP 2.4.1: Umwidmung des Kinder- und Jugendkulturzentrum Eliashof - vertagt
+- TOP 2.5: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Den ganzen Mauerpark - ganz! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Fortführung der Stadterneuerung im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Energieeinsparprojekte auf alle öffentlichen Gebäude ausdehnen - vertagt
+- TOP 2.10: Umsetzung von Neuregelungen der Wohngeldnovelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Barrierefreies Arbeiten der BVV-Arbeit sichern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bebauungsplan 3-15 "Grünzug Schönholz" besser mit dem Bezirk Pankow abstimmen - vertagt
+- TOP 2.13: Kulturhaus Weißensee - vertagt
+- TOP 2.14: Demokratische Traditionen sichtbar machen - vertagt
+- TOP 2.15: Liegenschaft Sportstätte am Weißen See - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Behindertengerechter Zugang für die Deutsche Post und die AOK - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Kulturensemble am Thälmannpark - Konzeption - vertagt
+- TOP 2.19: Verkehrssicherheit in der Pankgrafenstraße erhöhen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Handreichung Bürgerbeteiligung - vertagt
+- TOP 2.21: Spiel- und Nachbarschaftshaus auf dem Hirschhof ermöglichen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Querung der Elsa-Brändström-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Zuschüsse an freie Träger für Insolvenzberatung 2010/2011 bedarfsorientiert anpassen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Schilderwald in der Langhansstraße im OT Weissensee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Hinweise auf Kultur- und Bildungseinrichtungen an ÖPNV-Haltestellen und Bahnhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Jetzt die neue Gemeinschaftsschule Tesla Oberschule auch baulich weiter voranbringen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.27: Öffnungszeiten von Wochenmärkten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bundeshauptstadt der Biodiversität - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Mehr Verkehrssicherheit für den Radverkehr in Pankow Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Optimierung der Busverbindungen nach Blankenfelde und Glienicke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Kürzung von Eingliederungsleistungen 2010 verhindern - Pankower Schwerpunktsetzung bei Verteilung der Eingliederungsmittel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Auskunft über Melderegisterdaten einschränken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Sonder-Bauprogramm für Schulstrukturreform - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.35: Komödienhaus Pfefferberg - vertagt
+- TOP 2.36: Fortschreibung StEP Verkehr - vertagt
+- TOP 2.37: Wanderausstellung "Opfer rechter Gewalt in Deutschland seit 1990" präsentieren! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.38: Stadtbad Oderberger Straße - Verkauf nur mit der Auflage "Schwimmbad" - vertagt
+- TOP 2.39: Abstandsflächen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.40: Ausstellung "Gegen die Regeln" zeigen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.41: Kultur im Ernst-Thälmann-Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.42: Standort der Metro Cash&Carry in Pankow erhalten! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.43: Anmeldung von Vorhaben für das Programmjahr 2011 im Förderprogramm -Städtebaulicher Denkmalschutz- - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.44: Förderprogramm Stadtumbau Ost - Vorschlagsliste für die Programmplanung 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.45: Umzug des Bürgeramtes Karow nach Buch, Franz-Schmidt-Straß 8 - 10 - vertagt
+- TOP 2.46: Vergabes des bezirklichen Prädikates "Bewegungsfreundliche Kita" - mit Abschlussbericht zur Kenntnis genommen
