@@ -1,0 +1,53 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-09-15T14:00:00+02:00
+- Ende: 2010-09-15T16:55:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1544
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1544
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Härtefallkommission - Geschäftsordnung - Einstimmiger Beschluss
+- TOP 3: Bestellung des RH Manfred Langen als beratendes Mitglied - Einstimmiger Beschluss
+- TOP 4: Stellenplan 2010 und 2011 - An den Rat verwiesen
+- TOP 5: Entwurf des Doppelhaushaltes 2010/2011 - Mit Stimmenmehrheit beschlossen
+- TOP 5.1: Fraktionsantrag zu Nr. 341 Seite 146 (HSK) - Zur Kenntnis genommen
+- TOP 5.2: Fraktionsantrag zu Nr. 86 Seite 144 (HSK) - Zur Kenntnis genommen
+- TOP 5.3: Fraktionsantrag zu Nr. 300 Seite 135 (HSK) - Zur Kenntnis genommen
+- TOP 5.4: Anhebung des Gewerbesteuersatzes - Zur Kenntnis genommen
+- TOP 5.5: Halbierung des Repräsentationsfonds - Zur Kenntnis genommen
+- TOP 6: Verzinsung von städtischen Darlehen - Von Verwaltung zurückgezogen
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 8: Wasserturm Wickrath - Von Verwaltung zurückgezogen
+- TOP 9: Struktur der NVV AG / Erhalt des steuerlichen Querverbundes - An den Rat verwiesen
+- TOP 10: Beteiligung der Niederrheinische Versorgung und Verkehr AG - Mit Stimmenmehrheit beschlossen
+- TOP 11: Dritter Nachtrag zur Satzung über die Erhebung von Gebühren für den Rettungsdienst - Einstimmiger Beschluss
+- TOP 12: Dritte ordnungsbehördliche Verordnung und ordnungsbehördliche Verordnungen - Mit Stimmenmehrheit beschlossen
+- TOP 13: Grundschulverbund Damm u. Bettrath-Hoven - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 14: Zukunft des Hallenbades Odenkirchen - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 15: Schiedspersonenwahl Nord/1 - Einstimmiger Beschluss
+- TOP 16: Leistungsvereinbarung Frauenberatungsstelle Mg - Von Verwaltung zurückgezogen
+- TOP 17: Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss
+- TOP 18: Leistungsvereinbarung Drogenberatung - Einstimmiger Beschluss
+- TOP 19: Aufgabenwahrnehmung SGB II - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 691/O - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 21: Festlegung der Innenstadt RY zum Stadtumbaugebiet - Erweiterte Gebietsabgrenzung - Einstimmiger Beschluss
+- TOP 22: Bebauungsplan Nr. 679/V - Stadtbezirk Ost - In den nächsten Ratszug geschoben
+- TOP 23: 183. Änderung des Flächennutzungsplanes - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 24: Veränderungssperre Hauptstraße - Einstimmiger Beschluss
+- TOP 25: Veränderungssperre Hindenburgstraße - Einstimmiger Beschluss
+- TOP 26: 187. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 27: Bebauungsplan Nr. 686/S - Stadtbezirk Süd - Mit Stimmenmehrheit beschlossen
+- TOP 28: Dritter Nachtrag zur Verwaltungsgebührensatzung - Einstimmiger Beschluss
+- TOP 29: Schuldenmoratorium - Mit Stimmenmehrheit abgelehnt
+- TOP 30: Beauftragung Durchsetzung bedarfsorientierter Finanzausgleich - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Sachstandsbericht "Breitbandversorgung in Mönchengladbach" - Einstimmiger Beschluss
+- TOP 32: Stiftung "Täglich warme Mahlzeit für jedes Kind" - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Vorbereitung der Gründung einer sechsten Gesamtschule - Mit Stimmenmehrheit beschlossen
+- TOP 34: Anfragen - Zur Kenntnis genommen
