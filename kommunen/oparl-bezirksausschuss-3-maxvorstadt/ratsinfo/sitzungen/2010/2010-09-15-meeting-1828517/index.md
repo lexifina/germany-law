@@ -1,0 +1,139 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828517
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828517
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: E-Mail einer Bürgerin vom 03.08.2010 zu Ausdehnung von Ampelabschaltungen und Ausdehnung des Rechts-vor-Links-Verkehrs an Kreuzungen
+- TOP 5.2.2.: E-Mail einer Bürgerin vom 09.08.2010 zur Parkplatzsituation in der Dachauer-, Sand-, Gabelsbergerstraße
+- TOP 5.2.3.: E-Mail eines Bürgers vom 14.08.2010 zur Verkehrssituation in der Theresien- und Gabelsbergerstraße
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben 30., 32., 34. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 31., 32. KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Erika-Mann-Straße, Gemarkung Sektion IV, FlurNr. 6856/72 Neubau eines Gewerbegebäudes mit Tiefgarage / MK 3 ?Kontorhaus?
+- TOP 2.1.4.: Dachauer Straße 35, Umbau einer Spielothek im EG samt Nutzungsänderung des 1. OG zu einer Spielothek; vertagt aus 08/10 (TOP B 2.1.7, Nachbarunterschriften wurden von der LBK angefordert, das KVR wurde durch Abdruck informiert)
+- TOP 2.1.5.: Brienner Straße 53, Vollzug der Baumschutzverordnung, vertagt aus 08/2010 (TOP B 2.1.8); es wurden nochmals die vollständigen Unterlagen und ein Freiflächenge- staltungsplan angefordert.
+- TOP 2.1.6.: Königinstraße 31, Aufstockung eines Wohnhauses und Erweiterung Garagen ? Vorbescheid
+- TOP 2.1.7.: Dachauer Straße 14, Nutzungs- und Fassadenänderung Gaststätte
+- TOP 2.1.8.: Türkenstraße 35, Neubau eines Boardinghauses mit Gewerbeeinheit und Parksystem
+- TOP 2.1.10.: Brienner Str. 53: Neuerrichtung des Rückgebäudes, Dachneubau und Sanierung Vordergebäude
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Nymphenburger Straße FlurNr. 6349, 1 Linde ? entfällt ? (Baum bereits gefällt)
+- TOP 2.2.2.: Schellingstraße 3, 1 Robinie
+- TOP 2.2.3.: Arcisstraße
+- TOP 2.2.4.: Theresienstraße 90, 1 Robinie
+- TOP 2.2.5.: Maximiliansplatz 5, 1 Ahorn
+- TOP 2.2.6.: Veterinärstraße 13, Pyramidenpappel
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission: Bauvorhaben Dachauer Straße 15/15 a, Nutzungsänderung eines Lagers mit Büro in ein En tertainmentcenter mit zwei oder drei Spielhallen, Vorbescheid Schreiben der LBK zur Genehmigungsfähigkeit von Spielhallen (s. dazu TOP B 2.1.5/0310)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der FDP-Fraktion im BA3: Keine kommerziellen Veranstaltungen mehr auf dem Wittelsbacherplatz
+- TOP 1.2.: Antrag der FDP-Fraktion im BA 3: Einbahnstraßenregelungen in der Georgen- und Nordendstraße
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement: Entscheidung über die Einrichtung/Änderung/Aufhebung eines Taxistandplatzes: Taxistandplatz Arnulfstraße 52 (Augustiner-Biergarten), Änderung er zeitlichen Geltungsdauer
+- TOP 2.1.2.: Referat für Stadtplanung und Bauordnung, Anhörung Ertüchtigung des Bahnknotens München, 2. Stammstrecke
+- TOP 2.1.3.: Referat für Arbeit und Wirtschaft, Beteiligungsmanagement Stadtwerke und MVV, Anhörung: Beschleunigung der Buslinie 100, Beschlussvorlage (Entwurf) für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss am 19.10.2010
+- TOP 2.1.5.: Fahrbahnmarkierung in der Brienner Straße
+- TOP 2.1.6.: siehe C 1.2
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Entscheidungen über Sondernutzungen a) Türkenstraße 16, mobiler Fahrradständer b) Türkenstraße 52, Verkaufseinrichtung auf öffentlichem Grund c) Theresienstraße 61/Augustenstraße, Obstverkaufsstand (Neuantrag)
+- TOP 2.2.2.: Kommunalreferat, Gebäude- und Immobilienmanagement Bauernmarkt Türken-/Ecke Gabelsbergerstraße, Umsatzrückgang vertagt aus 08/2010 (TOP C 2.2.2
+- TOP 2.2.3.: Referat für Gesundheit und Umwelt, Bauzentrum Veranstaltung Münchner Solartag 2011, dezentral vertagt aus 08/10 (TOP C 2.2.4), Zwischennachricht ist ergangen
+- TOP 2.2.4.: Kreisverwaltungsreferat,Grünanlage Arnulfpark: Veranstaltung eines Flohmarktes
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Maximiliansplatz 9 ?La Baracca?, Freischankfläche vertagt aus 08/10 (TOP 2.3.1 a)
+- TOP 2.3.2.: Verwahrlosung der Dachauer Straße und der Umgebung des Hauptbahnhofes
+- TOP 2.3.3.: Pappenheimstr. 12 ?Bardales?, Freischankfläche
+- TOP 2.3.4.: Dachauer Str. 149 ?Backshop?, Freischankfläche
+- TOP 2.3.5.: Nordendstr. 7a ?Augustin's?, Freischankfläche
+- TOP 2.3.6.: Augustenstr. 31 ?Goldoni?, Freischankfläche
+- TOP 2.3.7.: Neureutherstr. 29 "Studio Isabella"; Freischankfäche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Anhörung: Aktion auf dem Geschwister-Scholl-Platz im Rahmen der Münchner Wissenschaftstage am 23. und 24.10.2010
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Antrag des BA 2 zur Ausdehnung der Öffnungszeiten der Münchner Sommerbäden (Stadt werke) mit der Bitte um Unterstützung vertagt aus 08/2010 (TOP D 2.1); Öffnungszeiten laut Internetseite liegen bei
+- TOP 3.1.: Eilantrag: Beteiligung des BA 3 als Mitveranstalter an der feierlichen Eröffnung des Türkentors am 23.10.2010
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "hör' ich blüten sterben" Kunstprojekt "hör' ich blüten sterben" am 19.09.2010
+- TOP 2.2.: Zuwendungen aus dem Budget der Bezirksausschüsse Renovierungskosten der U-Bahn-Galerie, Rückforderung
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Schockgefroren III" Projekt "Schockgefroren III"
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Sozialreferat, Amt für Wohnen und Migration, Wohnraumerhalt: Zweckentfremdung von Wohnraum in der Nymphenburger Straße
+- TOP 1.2.: Baureferat Für ein würdiges und gerechtes Gedenken ? Ein neues Konzept für den ?Platz der Opfer des Nationalsozialismus? Antrag Nr. 08-14 / A 00601 der BIA vom 19.02.2009 Sitzungsvorlage Nr. 08-14 / V 04226
+- TOP 1.3.: Baureferat: Umgestaltung und bedarfsgerechte Wiederherstellung des Josephsplatzes nach dem Bau der Anwohnertiefgarage im 3. Stadtbezirk Maxvorstadt Sitzungsvorlage Nr. 08-14 / V 04610 Bekanntgabe im Bauausschuss am 06.07.2010
+- TOP 1.4.: Referat für Umwelt und Gesundheit, Immissionsschutz, Ökoprofit, Innenraumschadstoffe: Umbau und Anpassung des Heizkraftwerkes Arcisstraße 21, Änderungsgenehmigung
+- TOP 1.5.: Referat für Umwelt und Gesundheit, Immissionsschutz, Ökoprofit: Schreiben der Fa. O 2 wegen Standortsuche
+- TOP 1.6.: Kreisverwaltungsreferat, Sicherheit, Ordnung, Gewerbe, Antwortschreiben zu TOP B 2.1.7/0810: Bauvorhaben Dachauer Straße 35, Umbau einer Spielothek im EG samt Nutzungsänderung des 1. OG zu einer Spielothek
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro: Erlaubnisbescheid Münchner Sportfestival am 04.07.2010 auf dem Königsplatz
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement; Baustelleneinrichtung im Alten Botanischen Garten
+- TOP 2.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro; Sommerempfang der IHK am 27.07.2010, Max-Joseph-Straße 2 Eilentscheidung des Vorsitzenden durch Terminablauf
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsrechtliche Anordnung: Öffnung der Heßstraße zwischen Winzerer- und Lothstraße für den gegenläufigen Radver kehr
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung: Verlegung einer Fernwärmeleitung in der Sandstraße zwischen Josef-Ruederer- und Nym- phenburger Straße
+- TOP 2.6.: Kreisverwaltungsreferat, Erlaubnisbescheid: ?Kino Open Air? auf dem Königsplatz vom 20.07.2010 bis 27.07.2010
+- TOP 2.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnung: Der Fußgängerüberweg in der Königinstraße, unmittelbar nördlich Einmündung Schön- feldstsraße wird aufgehoben.
+- TOP 2.8.: Baureferat, Tiefbau, Beschlussvorlage für den Bauausschuss am 06.07.2010, Sitzungsvorlage nr. 08-14 / V 04606: Fahrradstellplatzkonzept (1. Realisierungsabschnitt), Ergebnisse der Detailuntersuchungen und weiteres Vorgehen, Kostendarstellung, Anträge
+- TOP 2.9.: Rückbau der Fußgängernase Ecke Schellingstraße/Barer Straße Kosten, Auftraggeber, zu künftige Vermeidung von Fehlplanungen BA-Antrag nr. 08-14 / B 01776 des BA 3 vom 12.01.2010 Antwortschreiben der Stadtwerke München
+- TOP 2.10.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Erweiterung einer bestehenden Freischank- fläche ?Cafe Zeitgeist?, Türkenstraße 74; Antwort des KVR auf die Anfrage des BA 3 zur Wechselnutzung
+- TOP 2.11.: Stadtwerke München, Baumaßnahmen: Seidlstraße, Fernwärme Maillingerstraße bei Haus 13, Fernwärme Gabelsbergerstraße 17, Strom Gabelsbergerstraße 56, Fernwärme Erika-Mann-Straße 47, Strom
+- TOP 2.12.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung: Josef-Ruederer-Sraße, Dachauer Straße, Gabelsbergerstraße
+- TOP 2.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.14.: Baureferat, Beschluss des BA 4 Schwabing-West vom 30.06.2010: In der Winzerer-, Herzog-, Hohenzollernstraße und Schleißheimer Straße auf ganzer Länge Radwege ausbauen oder abmarkieren
+- TOP 2.15.: Baureferat, Anwohnertiefgarage Josephsplatz, Installation von Ladestationen für Elektrofahr zeuge: Antwortschreiben des Baureferates zum BA-Antrag Nr. 08-14 / B 02137 des BA 3 vom 11.05.2010
+- TOP 2.16.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsrechtliche Anordnung: Arbeiten im Straßenraum, Josef- Ruederer-Straße, Dachauer Straße, Gabelsbergerstraße
+- TOP 2.17.: Baureferat, Referat für Stadtplanung und Bauordnung und Kreisverwaltungsreferat: Sichheitsnachrüstung Altstadtringtunnel, Stadtreparatur um den Oskar-von-Miller-Ring, Ergebnisse der machbarkeitsuntersuchung zum Entwurfsseminar Umfeld Pinakothek der Moderne im 3. Stadtbezirk Maxvorstadt und im 1. Stadtbezirk Altstadt-Lehel Sitzungsvorlage Nr. 08-14 / V 04586
+- TOP 2.18.: Kreisverwaltungsreferat, Verkehrsmanagement: verkehrsrechtliche Anordnung, Königinstraße US-Generalkonsulat
+- TOP 2.19.: Referat für Gesundheit und Umwelt, Vollzug der Geräte- und Maschinenlärmschutzverord nung: Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchG, Schellingstraße/Türkenstraße
+- TOP 2.20.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung: eingeschränktes Haltverbot (Z 286 StVO) in der Arcisstraße 35/37
+- TOP 2.21.: Kreisverwaltungsreferat, Bezirksinspektion Mitte: Schreiben vom 19.08.2010 zum Bauvorhaben der Gaststätte ?Truffaldino?, Türkenstraße 63, Sperrzeitverkürzung, Betriebszeiterweiterung, Betriebsartänderung
+- TOP 2.22.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung: Streetlife Festival/Corso Leopold sowie Biomarkt am 11.09. und 12.09.2010 ? Nachtrag - Eilentscheidung des stellvertretenden Vorsitzenden
+- TOP 3.1.: Änderung im Filialnetz der Deutschen Post: Einrichtung einer neuen Filiale in der Dachauer Straße 87
+- TOP 3.2.: Direktorium, Schreiben des Oberbürgermeisters an die Vorsitzenden der Bezirksausschüsse Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Woh- nungen
+- TOP 3.3.: Sozialreferat, Amt für Wohnen und Migration, Wohnraumerhalt: Genehmigung einer Zweckentfremdung von Wohnraum durch Nutzungsänderung in der Görresstraße
+- TOP 3.4.: Schul- und Kultusreferat, Errichtung eines Hauses für Kinder mit drei Kindergarten- und drei Krippengruppen an der Dachauer Straße 61 im 3. Stadtbezirk Maxvorstadt Sitzungsvorlage Nr.: 08-14 / V04537
+- TOP 3.5.: Schul- und Kultusreferat: Adressenänderung des Städtischen Kindergartens Nymphenburger Straße 14 a in Sandstraße 22
+- TOP 3.6.: Schul- und Kultusreferat: Errichtung eines Hauses für Kinder mit 3 Kindergarten- und 3 Krip- pengruppen an der Dachauer Straße 61 im 3. Stadtbezirk Maxvorstadt; Genehmigung des Nutzerbedarfsprogramms
+- TOP 3.7.: Schul- und Kultusreferat, Städtische Kindertageseinrichtung Heßstraße 85: Reduzierung der Kindergartenplätze zum September 2010
+- TOP 3.8.: Schul- und Kultusreferat: Nothortgruppe Erika-Mann-Straße 2, Arnulfpark, Erdgeschoss ?Velum?
+- TOP 3.9.: Verwendung von Budgetmittel Katholischer Deutscher Frauenbund,100jähriges Bestehen
+- TOP 3.10.: Direktorium, Schreiben des Oberbürgermeisters an den BA 9: Bezuschussung des Sommerferienprogramms ?Umsonst & Draußen? vom 13. bis 29.8.2010 aus dem Budget des BA 9
+- TOP 3.11.: Referat für Arbeit und Wirtschaft, Schreiben der Deutschen Post vom 12.08.2010: Änderung im Filialnetz
+- TOP 3.12.: Schreiben des Bayerischen Staatsministeriums des Innern vom 25.08.2010: Einführung einer kommunalen Steuer auf gewerbliche Spielgeräte
+- TOP 3.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Kultur
+- TOP 4.1.: Baureferat, Gestaltung des öffentlichen Raums: Zwischennachricht zum BA-Antrag Nr. 08-14 / B 02191 des BA 3 vom 08.06.2010, Gedenktafel für die Medizinerin Hope Adams-Lehmann
+- TOP 4.2.: Baureferat, Beschluss der Vollversammlung des Stadtrates vom 28.07.2010: Für ein würdiges und gerechtes Gedenken ? Ein neues Konzept für den ?Platz der Opfer des Nationalsozialismus? Sitzungsvorlage Nr. 08-14 / V 04226
+- TOP 4.3.: Direktorium, Budgetantrag der Pfarrei St. Benno vom 09.06.2010 auf Bezuschussung eines Konzertes am 18.07.2010; Entscheidung des Oberbürgermeisters
+- TOP 4.4.: Budget, Kreisjugendring München: Projektbericht über den Dokumentarfilm ?Kick ist like Kurt?
+- TOP 4.1.: Sitzungstermine 2011
+- TOP 4.2.: Direktorium, Schreiben vom 16.06.2010, Anhörung: Transparenz auch auf BA-Ebene verwirklichen - Sitzungsprotokolle veröffentlichen vertagt aus der Sitzung 07/10, TOP G 2), Unterlagen liegen bereits vor
+- TOP 4.3.: Schreiben des Direktoriums, D-II-BA vom 20.08.2010: Außenvertretung der Bezirksausschüsse
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.1.4.: entfällt
+- TOP 3: Aktuelle Sachstandsberichte
