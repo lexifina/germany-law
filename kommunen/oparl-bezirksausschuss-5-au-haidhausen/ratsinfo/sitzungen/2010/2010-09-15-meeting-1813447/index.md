@@ -1,0 +1,139 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-09-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813447
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813447
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Hamburger Fischmarkt
+- TOP .2.: Rablstr. 37, Umwidmung von zwei Kfz-Stellplätzen zu Fahrradabstellplätzen, Gestaltung der Grünfläche
+- TOP .3.: Parkausweise Regerplatz für das Erziehungshilfezentrum Adelgundenheim
+- TOP .4.: Sachbericht Projekt-Laden International Haidhausen zum Internationalen Sommerfest ?30 Jahre Projekt-Laden? am 17.07.2010
+- TOP .5.: Ampelschaltung Kreuzung Flurstr./Kirchenstr
+- TOP .6.: Antrag auf einen Beschluss des Bezirksausschusses zur Verbesserung der Bürgerinformation durch das Baureferat bei Baumaßnahmen
+- TOP .7.: Verkehrsführung Einsteinstr. stadtauswärts in Höhe Lucille-Grahn-Str.
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 20.07.2010
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Sondernutzungserlaubnis Innere Wiener Str. 52: Genehmigung einer Freischankfläche (vertagt aus 07/10)
+- TOP .2.: Sondernutzungserlaubnis Falkenstr. 2: Genehmigung einer Freischankfläche
+- TOP .3.: Sondernutzungserlaubnis Wörthstr. 7: Genehmigung einer Freischankfläche
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Planfeststellung nach § 18 Abs. 1 AEG: 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 3neu München Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief)
+- TOP .2.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke a) Grundsatzentscheidungen des Bayerischen Landtags vom 14.04.2010, Stand der Umsetzung b) Planfeststellungsverfahren für den Stammstreckentunnel mit Stationen c) Lärmsanierung am DB-Südring d) Weiteres Vorgehen e) Anträge und Empfehlungen Anhörung der Bezirksausschüsse zu einer Beschlussvorlage für die Vollversammlung des Stadtrates am 06.10.2010
+- TOP .3.: Beschleunigung der Buslinie 100, Beschlussentwurf für den gemeinsamen Ausschuss des RAW, Baureferats und KVR voraussichtlich am 19.10.2010
+- TOP .4.: Hypopark, Skateboardanlage, Schülernachmittagsbetreuung 05., 12., 19, 26.10.2010
+- TOP .5.: Weißenburger Platz, Radl-Sicherheitscheck der Stadt München am 20.09.2010 und 21.09.2010
+- TOP .6.: Orleansplatz, Internationales Festival 09.10.-17.10.2010
+- TOP .7.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013 und Art. 27 BayKiBiG; Haus für Kinder in der Wörthstr. 32 (Schwaab und Lechner GbR und Kindern wachsen Flügel e.V.) mit 45 Kinderkrippenplätzen und 24 Kindergartenplätzen, Neu- und Umbau und Ausstattung
+- TOP .8.1: Erledigte BA-Anträge und Anfragen
+- TOP .1.: Wiederaufstellung des Delfinbrunnens
+- TOP .2.: Mittagseinsatz von SchulweghelferInnen an der Flurstraße
+- TOP .3.: Gleisbauauarbeiten am Haidenauplatz zeitlich vorziehen
+- TOP .4.: Fugen entlang der Trambahngleise in der Franziskanerstraße instandsetzen
+- TOP .5.: Bordeauxplatz: Erneuerung der Poller
+- TOP .6.: Neugestaltung der Freiflächen am Wolfgangsplatz
+- TOP .7.: Kindgerechte Straßenquerungen im Franzosenviertel
+- TOP .8.: Ausstellung und Verlängerung von Parkausweisen in den Bürgerbüros
+- TOP .9.: Einrichtung eines Radwegs in der Orleansstraße
+- TOP .10.: Südliche Metzstraße: Radfahrstreifen abmarkieren, dazu auch: Radverkehr, Umgestaltung Rosenheimer Platz: Schreiben des KVR vom 27.07.2010
+- TOP .11.: Schaffung eines Zentrums für Suchthilfe und Psychiatrie im Jugendbereich
+- TOP .12.: Poller an der Breisacher-/Ecke Belfortstr.
+- TOP .13.: Computergestützte Untersuchungen zum Verkehrsfluss in der Rosenheimer Straße
+- TOP .14.: Schaffung von Fahrrad- und Motorradstellplätzen in der Einsteinstraße
+- TOP .8.2: Mitteilungen der Verwaltung - Reaktionen auf BA-Schreiben
+- TOP .1.: Automatische Verkehrsüberwachungsanlage in der Kirchenstraße und Genoveva-Schauer-Platz, hier: Definition "Hauptunfallursache"
+- TOP .2.: Bezuschussung aus dem Budget des BA 5; Antrag der Initiative "undercoverfiction ensemble" vom 06.05.2010 auf Bezuschussung des Musiktheaterprojekts vom 18.-21.06.2010; hier: Schreiben des Oberbürgermeisters vom 05.07.2010 und Genehmigungsbescheid vom 03.08.2010
+- TOP .3.: Bürgersteig bei der Baustelle in der Franziskanerstraße
+- TOP .4.: Querungsmöglichkeit vom Michael-Huber-Weg auf Höhe der Kirchenstr. 81
+- TOP .5.: Mehr Sicherheit für Fußgänger an der Kreuzung Innere Wiener Str. / Einsteinstr.
+- TOP .8.3: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .8.4: Sonstiges
+- TOP .1.: Möglichkeiten des Besuchs städtischer Schulen und Bildungseinrichtungen für Menschen mit Behinderungen, hier: Zwischennachricht
+- TOP .2.: Postwiese, Flohmarkt des AKA e.V. am 18.09.2010, hier: Eilentscheidung der Vorsitzenden
+- TOP .3.: Neuvermietung einer Gewerbeeinheit in der Rosenheimer Str. 116, hier: Eilentscheidung der Vorsitzenden
+- TOP .4.: Anzeige einer Versammlung unter freiem Himmel, Anti-AKW-Menschenkette KettenreAktion Bayern, 09.10.2010
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Monitore in allen U-Bahnwaggons, hier: Anfrage des BA 12
+- TOP .2.: Bericht über den Graffiti-Wettbewerb anlässlich der artinau
+- TOP .3.: Audiokunstwerk "Memory Loops" - BA-Informationsabend am 12. Juli 2010, hier: Schreiben des Kulturreferates vom 14.07.2010
+- TOP .1.: Vorstellung der AGKJ
+- TOP .1.: Vier weitere Planstellen für die SPDi Giesing (vertagt aus 07/10)
+- TOP .2.: Erhöhung der Planungsrichtwerte für Krippenplätze, hier: E-mail des Stadtjugendamtes vom 05.08.2010
+- TOP .3.: Einführung einheitlicher Ansprechpartner für Menschen mit Behinderung bei den Behörden der Landeshauptstadt München
+- TOP .1.: siehe TOP 6.1
+- TOP .2.: siehe TOP 6.2
+- TOP .1.: Stellungnahme zum Public Viewing am Bordeauxplatz anlässlich der Fußball WM
+- TOP .2.: Verlängerung der Öffnungszeiten der Städtischen Freibäder, hier: Antrag des BA 2 vom 27.07.2010
+- TOP .3.: Postwiese, Spielaktion Familienservicezentrum Caritas Au/Haidhausen am 07.10.2010
+- TOP .1.: Werbeanlage Balanstr.: Baugenehmigung für 1 hinterleuchtete Mega-Light-Wechselwerbeanlage auf Sonderkonstruktion
+- TOP .2.: Isarinselfest 2010 vom 02.09. bis 05.09.2010: nachgereichte Unterlagen und Genehmigungsbescheid vom 30.08.2010
+- TOP .3.: Budget der Bezirksausschüsse: Anträge des Vereins Lilalu e.V. auf Bezuschussung des Sommerferienprogramms "Umsonst und Draußen", hier: Schreiben des BA 9 vom 16.07.2010 und Schreiben des Oberbürgermeisters vom 06.08.2010
+- TOP .4.: Einführung eines Vorabinformationsverfahrens bei der Erschließungsbeitragsabrechnung; Frühzeitige Abrechnung von Erschließungsbeiträgen: Beschluss des Bauausschusses vom 15.06.2010
+- TOP .5.: Dauerhafte Aufhebung der Sperrzeit für Veranstaltungen freitags und samstags in der Muffathalle (Ampere und Cafe), hier: Schreiben des KVR vom 28.07.2010, Schreiben der Muffathalle Betriebs GmbH vom 12.08.2010 und Schreiben des Oberbürgermeisters vom 18.08.2010
+- TOP .6.: Beschwerden beim Sandstrand auf der Corneliusbrücke; hier: Schreiben des KVR vom 02.08.2010 und Bürgerbeschwerde vom 09.08.2010
+- TOP .7.: Antrag auf Erweiterung der genehmigten Freischankfläche vor der Kleingaststätte ?Wein-Cantina?, Elsässer Str. 23, hier: Schreiben des Oberbürgermeisters vom 18.08.2010
+- TOP .8.: Antrag auf Erteilung einer Sondernutzungserlaubnis zum Aufstellen einer Warenstellage für Haushaltsartikel vor dem Ladengeschäft ?Le Bazar de Cuisine? in der Balanstr. 8, hier: Schreiben des Kreisverwaltungsreferates vom 19.08.2010
+- TOP .9.: Antrag auf Erweiterung und Verlegung der Freischankfläche vor der Schank- und Speisewirtschaft ?La Grappa?(ehemals ?Anadolu?) am Regerplatz 2, hier: Schreiben des Oberbürgermeisters vom 18.08.2010
+- TOP .10.: Zukunftskonzepte der Lebensmittelmärkte Münchens
+- TOP .11.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte
+- TOP .1.: Monitore in allen U-Bahnwaggons: Anfrage des BA 12
+- TOP .2.: Bauvorhaben Ismaninger Str. 22: Erweiterung Bau 520, Endoskopiestation de II. Med. Klinik (Klinikum rechts der Isar)
+- TOP .3.: Bauvorhaben Sckellstr. 4: Neubau eines Hofgebäudes (4 WE) - VORBESCHEID
+- TOP .4.: Bauvorhaben Weißenburger Pl. 4: Nutzungsänderung einer Büroeinheit in eine Kindertagesstätte für 13 (max. 15) Kinder im Alter von 18-36 Monaten
+- TOP .5.: Bauvorhaben Asamstr. 11: Neubau eines Windfangs und Zweckentfremdung einer Wohnung als Erweiterung für einen Kindergarten sowie Ausbau des 2. Dachgeschosses (2 WE)
+- TOP .6.: Bauvorhaben Rosenheimer Str. 5: Umbau und Modernisierung Dach und Giebel der Glashalle (?Gasteig? München)
+- TOP .7.: Bauvorhaben Einsteinstr. 34: Nutzungsänderung / Umbau einer Arbeiterunterkunft in ein Hotelgebäude
+- TOP .8.: Bauvorhaben Einsteinstraße 106: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage sowie Teilabbruch der Tankstelle und Teilabbruch der vorhandenen Tiefgarage
+- TOP .9.: Bauvorhaben Einsteinstraße 104: Anbau an ein Wohn- und Geschäftshaus mit TG; Abbruch der Tankstelle sowie Teilabbruch der vorhandenen Tiefgarage
+- TOP .3.: Unterrichtung
+- TOP .1.: Bauvorhaben Weißenburger Platz 3: Wiedererrichtung des Dachgeschosses nach Brandschaden, Wiedereinbau von 2 Wohnungen/ Antrag auf Teilbaugenehmigung, hier: Schreiben der Lbk vom 16.07.2010
+- TOP .2.: Bauvorhaben Bazeillesstr. 8: Große Instandsetzung der Grundschule sowie Neubau eines 3-Gruppen-Kindergartens mit integrierter Hausmeisterwohnung
+- TOP .3.: Bauvorhaben Langerstr. 4: Dachgeschoss-Neubau, Anbau von Balkonen sowie Umbau eines Nebengebäudes zu Wohnzwecken
+- TOP .4.: Bauvorhaben Hiendlmayrstr. 1: Neubau eines Wohngebäudes - VORBESCHEID
+- TOP .5.: Erfahrungen mit novellierter Bayerischer Bauordnung
+- TOP .1.: siehe TOP A 7.1
+- TOP .2.: Siehe TOP A 7.2
+- TOP .3.: Nahverkehrsinfrastruktur im Münchner Osten; hier: Empfehlungen der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 22.10.2009
+- TOP .4.: Einrichtung von Busparkplätzen in der Maria-Theresia-Straße für Besucherbusse des Bayerischen Landtags
+- TOP .5.: Fahrbahnbelagserneuerung Eduard-Schmid-Str. 2-29, Bauabschnitt zw. Schweigerstr. und Schlotthauerstr.
+- TOP .6.: Einrichtung einer Halteverbotszone in der Ohlmüllerstr. 40, hier: Schreiben der Wohnhilfe e.V. München vom 02.08.2010 und vom 15.08.2010
+- TOP .7.: Verkehrsrechtliche Anordnung Rablstraße 24; Anfahrt zum dortigen Kindergarten
+- TOP .8.: Fahrbahnbelagssanierung Elsässer Str. 9-33, Bauabschnitt zwischen Spicherenstr. und Orleansstr.
+- TOP .1.: Arbeiten im Straßenraum, Neuverlegung von Glasfaserkabeln (FttB Haidhausen): Einsteinstraße 1-3, Johannisplatz (Westseite) zwischen Kirchenstraße und Metzgerstraße 2, Kirchenstraße zwischen Max-Weber-Platz und Wolfgangstraße, Max-Weber-Platz 8 bis Kirchenstraße, Metzgerstraße (Westseite) zwischen Johannisplatz und Preysingstraße, Preysingstraße 40-42, Schlossstraße (Ostseite), Wolfgangstraße (Westseite) von Kirchenstraße bis Wolfgangstraße 19
+- TOP .2.: Baustelleneinrichtung Fernwärmeprojekt Grillparzerstraße / Erneuerung der Straßenbahngleise Einsteinstraße-/Grillparzerstraße, hier: Bürgerschreiben vom 03.08.2010
+- TOP .3.: Öffnung der Belfortstraße für den gegenläufigen Radverkehr, hier: fehlende Markierung?
+- TOP .4.: Isar-Plan, Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung, Planungsabschnitt III, Bauabschnitt Nord zwischen ?Weideninsel? und Deutschen Museum, hier: Plangenehmigungsbescheid vom 11.08.2010
+- TOP .5.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Zeppelinstr. 29
+- TOP .6.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Preysingplatz 6
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA WAS: 04.10.2010, UA Kultur: 06.10.2010, UA Planung: 07.10.2010, UA GUV: 11.10.2010, UA Wirtschaft: 12.10.2010
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: 20.10.2010, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: "Das Schulreferat trifft die Bezirksausschüsse": Mitteilung der Termine 2011: 08.06.2011, 16.00- 18.00 Uhr, Raum 5074, Bayerstraße 28
+- TOP .2.: Oktoberfest 2010: 18.09.2010, 15.00 Uhr, Ratsboxe im Schottenhamelzelt
+- TOP .3.: Lärmminderungsplanung in München, Mitwirkung der Öffentlichkeit, Bürgerforum II, Di, 28.09.2010, 17.00 Uhr, Kreisverwaltungsreferat, Ruppertstr. 11, Multifunktionsraum
+- TOP .4.: Jubiläumsfeier Condrobs e.V.: 10 Jahre ?limit? und 20 Jahre ?off?, Do, 07.10.2010, im Kontaktladen ?off?, Rosenheimer Str. 124, Einlass ab 14.30 Uhr
+- TOP .4.: Anträge
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
