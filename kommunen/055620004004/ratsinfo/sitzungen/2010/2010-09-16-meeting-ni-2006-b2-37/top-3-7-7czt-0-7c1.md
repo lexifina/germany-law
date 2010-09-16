@@ -1,0 +1,7 @@
+# TOP 3: Mündlicher Bericht zur Finanzsituation des Bereiches 'Frau in Beruf und Technik'
+
+- Sitzung: 54. Sitzung des Betriebsausschusses 2 (Ausschuss für Jugend, Schule und Soziales) (2010-09-16)
+- Körperschaft: Stadt Castrop-Rauxel
+- Öffentlich: ja
+- OParl: https://castroprauxel.gremien.info/oparl/agendaItem/ni_2006-B2-37%7Czt_0%7C1
+- Beschluss (Datei): Beschluss - Top 3 https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2006-B2-37%7Czt_0%7C1
