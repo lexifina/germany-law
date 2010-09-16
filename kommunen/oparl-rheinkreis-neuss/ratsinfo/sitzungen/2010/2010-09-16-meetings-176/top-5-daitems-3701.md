@@ -1,0 +1,7 @@
+# TOP 5: Befreiung gem. § 67 Abs. 1 BNatSchG für den Bau eines Fuß- und Radweges südlich der Regiobahnlinie zwischen Kaarst und Neuss
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Landschaftsbeirates (2010-09-16)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/3701
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/1699
