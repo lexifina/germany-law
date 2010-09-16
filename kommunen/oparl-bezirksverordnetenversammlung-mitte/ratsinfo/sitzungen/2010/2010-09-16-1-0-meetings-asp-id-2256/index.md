@@ -1,0 +1,148 @@
+# 38. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-09-16T17:30:00+02:00
+- Ende: 2010-09-16T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2256
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2256
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=76851
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Hohe Fehlerquote im Jobcenter - beantwortet
+- TOP 4.2: JobCenter Mitte - beantwortet
+- TOP 4.3: Maßnahmestopp im JobCenter Mitte - beantwortet
+- TOP 4.4: Konsequenzen ziehen aus den skandalösen Missständen im Jobcenter Berlin-Mitte - in der BVV abgelehnt
+- TOP 4.5: Neuordnung der JobCenter für mehr Integrationen, Qualität, Effizienz und Kundennähe nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Beschäftigung von Nichtfachleuten für Sanierungsarbeiten bezirklicher Gebäude - beantwortet
+- TOP 5.2: Kinder und Jugendliche mit Behinderung im Bezirk Mitte - beantwortet
+- TOP 5.3: "... den faulen Pfuhl auch abzuziehn, ..." - beantwortet
+- TOP 5.4: Plansche im Schillerpark - beantwortet
+- TOP 5.5: "Gefahr für Leib und Leben" auf dem Leopoldplatz? - beantwortet
+- TOP 5.6: AG Anti-Korruption in Mitte - Wann tut sich etwas? - beantwortet
+- TOP 5.7: Fenster im Schulgebäude Lützowstraße 83/85 - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Entfristung von Kolleginnen und Kollegen in der Parkraumüberwachung - beantwortet
+- TOP 7.2: City LightRun 2010 im Dunkel - beantwortet
+- TOP 7.3: Mauerpark: Worüber reden wir eigentlich und wer redet mit wem über was? - beantwortet
+- TOP 7.4: Notpläne an Schulen des Bezirks schon in den ersten vier Wochen des neuen Schuljahres? - schriftlich beantwortet
+- TOP 7.5: 10% für die Jugendhilfe? - schriftlich beantwortet
+- TOP 7.6: Vergleichstest "Vera 3" für Drittklässler - schlechte Ergebnisse auch in Mitte? - schriftlich beantwortet
+- TOP 7.7: Bürodienstgebäudemanagement - Schrecken ohne Ende? - schriftlich beantwortet
+- TOP 7.8: Defizit im Kita-Eigenbetrieb - schriftlich beantwortet
+- TOP 7.9: Gesundheitsziele für den Bezirk Mitte - schriftlich beantwortet
+- TOP 7.10: Gefährdungen von Kindern in Einrichtungen im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.11: Wie weiter mit dem Baumschutz in Berlin-Mitte? - schriftlich beantwortet
+- TOP 7.12: Berücksichtigung der Stellungnahmen der Stadtteilvertretung Müllerstraße - schriftlich beantwortet
+- TOP 7.13: Unerledigte Beschlüsse der BVV zu Spielhallen - schriftlich beantwortet
+- TOP 7.14: Kassenprüfungen in den Fachämtern - schriftlich beantwortet
+- TOP 7.15: Bebelplatz und Fashion Week - schriftlich beantwortet
+- TOP 7.16: Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Untersuchungs- und Sanierungsgebiete im Bezirk Mitte sicherstellen II - BVV-Beschluss Drs. 0870/III endlich umsetzen! hier: Information, Akteneinsicht und Mitwirkung - schriftlich beantwortet
+- TOP 7.17: Der Schulraum ist die dritte Lehrkraft - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplanentwurf I-B5e (südliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5e - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bebauungsplanentwurf I-B5t (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5t - überwiesen
+- TOP 9.3: Beitragspflichtige Erneuerung des wesentlichen Umfangs der Fahrbahn in der Burgstraße / Anna-Louisa-Karsch- Straße - überwiesen
+- TOP 9.4: Zusammenlegung der Schiedsamtsbezirke Mitte 1 und Mitte 2 zum Schiedsamtsbezirk Mitte 1 - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Entwurf des 2. Ergänzungsplans für das Haushaltsjahr 2011 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Straßenbenennungen nördlich des Alexanderplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Projekt Stadtmission: Sozialverträgliche Umwetzung der MieterInnen des Seniorenwohnhauses Lehrter-/Seydlitzstraße sicherstellen - vertagt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Erhalt der C/O-Galerie im Postfuhramt - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: SpielerInnensperren zum Schutz der Spieler und Spielerinnen und zur Bekämpfung der Spielsucht - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: City LightRun 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Sprachförderung in Mitte bedeutet Zukunft für Kinder und Jugendliche - überwiesen
+- TOP 12.5: Bewegungspark für die Generation 55 + - zurückgezogen
+- TOP 12.6: Mittelerhöhung für Präventions- und Aufklärungsmaßnahmen zum Schutz der Spieler und Spielerinnen vor Suchterkrankungen und zur Bekämpfung von Spielsucht - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Keine weiteren vorzeitigen Mittel für den Stadtgarten auf dem ehemaligen Güterbahnhof Moabit! - mit Änderungen in der BVV beschlossen
+- TOP 12.8: Mauerpark - Die BVV über Grundstücksgeschäft informieren! - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Mauerpark - Frühzeitige Bürgerbeteiligung anhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Spielhallen: Wasch uns den Pelz und mach uns auch nass - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Der Bebelplatz ist ein Denkmal - für ein kommerzfreies Denkmal - in der BVV abgelehnt
+- TOP 12.12: Bauarbeiten an der Rathausbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Mehr Möglichkeiten zur Begleitung von Bebauungsplänen schaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Der Schulraum ist die dritte Lehrkraft - Abbau von Aggressionen und Gewalt an Schulen durch räumliche Gestaltungsmaßnahmen - überwiesen
+- TOP 12.15: Postfiliale in der oberen Müllerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Offene Kassenzeichen 2 - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Den demografischen Wandel ernst nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Aktivitäten fördern - Bewegungsflächen realisieren - vertagt
+- TOP 12.19: Berlin wurde größer und schöner - Eingemeindung von Moabit und Wedding vor 150 Jahren - vertagt
+- TOP 12.20: Bürgerbeteiligung bei Bebauungsplänen auch im Internet - zurückgezogen
+- TOP 12.21: Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Untersuchungs- und Sanierungsgebiete im Bezirk Mitte sicherstellen II - BVV-Beschluss Drs. 0870/III endlich umsetzen! hier: Räume für Stadtteilvertretungen Turm- und Müllerstraße - vertagt
+- TOP 12.22: Moabiter Stadtgarten hängt an Hamberger - in der BVV zurückgezogen
+- TOP 12.23: Besetzung der Ausschüsse für Wirtschaft und Arbeit und Gesundheit hier: Wahl eines stellvertretenden Bürgerdeputierten - vertagt
+- TOP 12.24: Stand der Sprachkompetenz weitergeben - vertagt
+- TOP 12.25: Volksbegehren Berliner Wassertisch - zurückgezogen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Kürzungen in der Städtebauförderung verhindern - vertagt
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Bebauungspläne Molkenmarkt und Petriplatz - vertagt
+- TOP 15.2: Lass die Kinder spielen! - vertagt
+- TOP 15.3: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Schluss mit gesundheitspolitischer Benachteiligung von Berlin-Mitte! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Bezirksämter für Kinderschutz besser ausstatten - vertagt
+- TOP 16.3: Klimaschutz und Kostensenkung: Endlich den Ballast Iranische Str. 3 abwerfen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Gemeinsames Vorgehen der Bezirke Mitte und Tempelhof-Schöneberg im Bereich Potsdamer Straße / Kurfürstenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Verbraucherschutz in Mitte hat hohe Priorität (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Treffpunkt im Kiez e.V. retten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Umzugsmanagement Dienstgebäude - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.9: Kinder ohne Kopftücher - vertagt
+- TOP 16.10: Neue Wege für die Leipziger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Bürgerbeteiligung beim "Aktiven Stadtteilzentrum" erleichtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Nutzungspflicht Zentrale Vergabestelle - vertagt
+- TOP 16.13: Städtepartnerschaften sinnvoll umsetzen: Zweisprachige Lehrkräfte einsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Die Würde des Menschen ist unantastbar - vertagt
+- TOP 16.15: Programmplanung "Aktive Stadtzentren" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Verwaltungsvorschrift "Aktive Stadtzentren" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.17: Letzte "SeniorInnen-BVV" 2005 - Gibt es in dieser Wahlperiode noch eine? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Bus der Linie M 27 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Der Spittelmarkt - Für einen wirklich attraktiven Stadtplatz! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Zukünftiges Sanierungsgebiet Müllerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Fahrradstreifen in der Karl-Marx-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Prioritätensetzung im Ordnungsamt - Entgegenwirken von Glücksspiel im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Sozialverträgliches Wohnen auch nach der Sanierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Fahrradständer für den neuen Spielplatz Ottopark - vertagt
+- TOP 16.25: Informationsveranstaltung: Prävention gegen Spielsucht - vertagt
+- TOP 16.26: Keine aktiven Zentren in Mitte ohne ethnische Ökonomie - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Havariemaßnahmen für Schüler/innen und Personal im Schulgebäude Lützowstraße 83-85 - vertagt
+- TOP 16.28: Schulstandort Lützowstraße - vertagt
+- TOP 16.29: Bündnis für Biologische Vielfalt beitreten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.30: Weihnacht am Opernpalais! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.31: Rechtsanspruch auf frühkindliche Förderung uneingeschränkt umsetzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.32: Zeitlich befristetes Parkverbot in der Tiergartenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.33: Mitwirkung der Stadtteilvertretungen Müller- und Turmstraße sicherstellen hier: Mitwirkung in Gutachten- und Wettbewerbsverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.34: Keine alleinige Entscheidung zur Ausgabensteuerung aus finanzpolitischer Sicht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.35: Barriere freier Zugang - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.36: Bessere Arbeitsbedingungen für LehrerInnen und ErzieherInnen an den Grundschulen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.37: Beschluss über die Berichtigung des Titels des vorhabenbezogenen Bebauungsplans I-11-1 VE "Tieckstraße 22" im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.38: Gesundheitsziele für Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.39: Erfahrungsbericht des Bezirks Berlin-Mitte gemäß Punkt 9 des 9-Punkte-Programms zur Mitgliedschaft im Gesunde-Städte-Netzwerk der Bundesrepublik Deutschland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.40: Liegenschaftsfonds - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.41: Sachmittel für Einzelmaßnahmen zur Unterstützung der ehrenamtlichen Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur im Bezirk Mitte 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.42: Eckpunkte eines nachhaltigen Personalbedarfskonzeptes für leistungsfähige und bürgerorientierte Bezirksämter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.43: Sachmittel für die Unterstützung der ehrenamtlichen Arbeit der Bürgerinnen und Bürger zur Verbesserung der öffentlichen Infrastruktur in Mitte - Nachrückerliste 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.44: Programmmittel "Soziale Stadt" 2010 - 2012 der Quartiersmanagementgebiete Reinickendorfer-/Pankstraße, Moabit West, Moabit Ost, Magdeburger Platz, Soldiner Straße, Sparrplatz, Brunnenviertel-Ackerstraße und Brunnenviertel-Brunnenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.45: Bestellung der Bezirkswahlleiterin und ihrer Stellvertretung für die Wahlen zum Abgeordnetenhaus von Berlin und zu der Bezirksverordnetenversammlung Mitte, die voraussichtlich im September 2011 stattfindet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.46: Bestätigung der Wahlkreiseinteilung im Wahlkreisverband Mitte für die Wahl zum Abgeordnetenhaus von Berlin im Herbst 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.47: Zwangsheirat - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.48: Neuordnung des Öffentlichen Gesundheitsdienstes - mit Abschlussbericht zur Kenntnis genommen
