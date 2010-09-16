@@ -1,0 +1,7 @@
+# TOP 8: Bericht des Sprechers und seiner Stellvertreter/in
+
+- Sitzung: Jugendrat (2010-09-16)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/164502
+- Ergebnis: zur Kenntnis genommen
