@@ -1,0 +1,77 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-09-20T16:03:00+02:00
+- Ende: 2010-09-20T19:06:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8073
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8073
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 17.09.2010 - 09.25 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00121850.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00122000.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung einer Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Auswirkung des Ratings der Kommunen - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 17.08.2010 Auswirkung des Ratings der Kommunen - abschließend zur Kenntnis genommen
+- TOP 2.2: Investitionsvolumen für Ingenieurbauwerke - Große Anfrage der Fraktion DIE LINKE vom 24.08.2010 - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort der Verwaltung auf die Große Anfrage der Ratsfraktion Die Linke vom 24.08.2010, Investitionsvolumen für Ingenieurbauwerke - abschließend zur Kenntnis genommen
+- TOP 2.3: Investitionsvolumen für den öffentlichen Verkehrsraum - Große Anfrage der Fraktion DIE LINKE vom 24.08.2010 - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort der Verwaltung auf die Große Anfrage der Ratsfraktion Die Linke vom 24.08.2010, Investitionsvolumen für den öffentlichen Verkehrsraum - abschließend zur Kenntnis genommen
+- TOP 2.4: Aufstellung eines Personalentwicklungskonzepts für die Stadtverwaltung - abschließend zur Kenntnis genommen
+- TOP 2.4: Aufstellung eines Personalentwicklungskonzepts für die Stadtverwaltung - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Antwort auf die große Anfrage der Fraktion Bündnis 90/ Die Grünen zur Aufstellung eines Personalentwicklungskonzeptes für die Stadtverwaltung vom 02.09.2010 - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Antwort auf die Große Anfrage der Fraktion DIE LINKE vom 03.09.2010 zur Aufstellung eines Personalentwicklungskonzeptes für die Stadtverwaltung - abschließend zur Kenntnis genommen
+- TOP 2.5: Unterhaltung der Nordbahntrasse - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Unterhaltung der Nordbahntrasse - Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE vom 7. September 2010 - abschließend zur Kenntnis genommen
+- TOP 2.6: Richtlinien zur Vergabe öffentlicher Aufträge - abschließend zur Kenntnis genommen
+- TOP 2.6.1: Richtlinie zur Vergabe öffentlicher Aufträge - abschließend zur Kenntnis genommen
+- TOP 2.7: Fuhlrott-Museum - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Antwort auf die große Anfrage der FDP-Fraktion zum Fuhlrott-Museum vom 08.09.2010 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Prüfauftrag zur Audit Familiengerechte Stadt - vertagt auf Rat
+- TOP 4.2: Förderung Elektromobilität in Wuppertal - abgesetzt
+- TOP 4.3: Verwendung von Solarlaternen in Wuppertal in Neubaugebieten - abgesetzt
+- TOP 4.4: Verwaltungsrationalisierung nach Konzept - abgelehnt
+- TOP 4.5: Ausweisung echter Eintrittsgelder - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Konzepte zur Zukunft der Wuppertaler Bühnen - abgelehnt
+- TOP 5.2: Alternative Finanzierungsquellen mit bürgerschaftlichem Engagement prüfen - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Satzung des Seniorenbeirates - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Fortschreibung der Maßnahmenliste zur Umsetzung des Konjunkturprogramms - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Übertragung von Finanzierungsaufgaben ab 2011 auf den Zweckverband Verkehrsverbund Rhein-Ruhr (VRR) - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Erhaltungs- u. Gestaltungssatzung, Sedansberg I , Bereich Wachtelstraße - Siedlung Pastorat - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1144 - Friedrich-Ebert-Straße / Multiservicecenter - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 468 - Briller Viertel- - ungeändert beschlossen
+- TOP 9.4: 58. Änderung des Flächennutzungsplanes - Viktoriaplatz- - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Anbau Haus der Jugend Barmen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.2: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.3: Verfassungsbeschwerde gegen die Finanzierungsbeteiligung der Gemeinden an den finanziellen Belastungen des Landes NRW an der Deutschen Einheit (Einheitslastenabrechnungsgesetz) - ungeändert beschlossen
+- TOP 11.4: Antrag der Stadt Wuppertal auf Zulassung als kommunaler Träger gemäß § 6 a SGB II zur Übernahme der Grundsicherung für Arbeitssuchende nach dem SGB II - ungeändert beschlossen
+- TOP 11.5: Neufestlegung der Geschäftsbereiche der Beigeordneten gemäß § 71 Abs. 1 GO NW - ungeändert beschlossen
+- TOP 11.5.1: Ergänzungsantrag zu VO/0712/10 "Neufestlegung der Geschäftsbereiche der Beigeordneten" - zurückgestellt
+- TOP 11.6: Beendigung der Kooperation mit der Art:card - abgesetzt
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bestellung eines sachkundigen Einwohners im Ausschuss für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH/KIJU - ungeändert beschlossen
+- TOP 12.2: Besetzung des Finanzausschusses des Wupperverbandes - geändert beschlossen
+- TOP 12.3: Besetzung des Investitions- und Bauausschusses des Wupperverbandes - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Verbandsrat des Wupperverbandes - ungeändert beschlossen
+- TOP 12.5: Vertretung der Gesellschafterin Stadt Wuppertal in Haupt- bzw. Gesellschafterversammlungen - ungeändert beschlossen
+- TOP 12.6: Ernennung der Behindertenbeauftragten - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzung Integrationsausschuss/Rechnungsprüfungsausschuss - ungeändert beschlossen
+- TOP 12.8: Gremienbesetzung/ Benennung - ungeändert beschlossen
+- TOP 12.9: Gremienbesetzung Hauptausschuss - ungeändert beschlossen
+- TOP 12.10: Gremienbesetzung / Benennung - ungeändert beschlossen
