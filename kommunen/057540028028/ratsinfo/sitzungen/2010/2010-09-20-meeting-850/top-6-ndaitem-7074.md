@@ -1,0 +1,9 @@
+# TOP 6: Sanierung und Neubau der Feuer- und Rettungswache Wiedenbrück
+
+- Sitzung: Rat der Stadt Rheda-Wiedenbrück (7. Sitzung) (2010-09-20)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/7074
+- Ergebnis: Einstimmig
+- Beratung: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/consultation/3579
+- Beschluss (Datei): Beschlusstext (Sanierung und Neubau der Feuer- und Rettungswache Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVbdaxcpAXJN1kjUpXgf9KLII63cUpee2oL0ShEU3Eym/Beschlusstext_V-291-2010_-oeffentlich-_Rat_der_Stadt_Rheda-Wiedenbrueck_20.09.2010.pdf
