@@ -1,0 +1,100 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-09-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1865166
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1865166
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Parkplatz des öffentlichen Bades Giesing-Harlaching und der städtischen Sporthalle an der Säbener Straße: Altglas- u. Wertstoff-Container; Bürgerschreiben vom 19.08.2010
+- TOP 2.2.: dringender Antrag auf Plattenlegung auf dem ständig zerstörten städtischen Grünsteifen vor dem Anwesen Geiselgasteigstraße 78; Bürgerantrag vom 07.09.2010
+- TOP 2.3.: Abriß bzw. Neubebauung Bozzarisstraße 2 / Ecke Naupliastraße; Erhalt des Kiosks in der Naupliastraße 115a; Antrag des Pächters vom 01.09.10
+- TOP 2.4.: Neubebauung in der Athosstraße, Ecke Hochederstraße; Widerspruch gegen die Fällung der Tanne auf diesem Gelände; Bürgerschreiben vom 03.09.2010
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Verwendungsnachweis "Einweihungsfest Aktionsfläche" des Kreisjugendrings München vom 06.08.2010
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Verwenungsnachweis "Maibaumfest am 01.05.2010" des Maibaumvereins Untergiesing e. V. vom 22.07.2010
+- TOP 3.1.: Bezuschussung aus dem Budget des BA 9; Anträge des Vereins Lilalu e.V. vom 18.02.2010 auf Bezuschussung des Sommerferienprogramms "Umsonst & Draußen" vom 13. - 29.08.2010; Schreiben des BA 9 - Neuhausen-Nymphenburg - vom 16.07.2010; Schreiben des Oberbürgermeisters vom 06.08.2010
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Teerbelag statt Kopsteinpflaster für Behindertenparkplätze am Wettersteinplatz; Antrag der SPD-Fraktion vom 01.09.2010
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Harthauser Str.; Gefahrenbaumbescheinigung vom 04.08.2010
+- TOP 3.2.: Vollzug der Wassergesetze; Isar-Plan, Verbesserung des Hochwasserschutzes und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung, Planungsabschnitt III, Bauabschnitt Nord zwischen "Weideninsel" und Deutschem Museum; Fkm 148 + 840 und 148 + 350; Planungsgenehmigungsbescheid des Referates für Gesundheit und Umwelt vom 11.08.2010
+- TOP 3.3.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen; Informationsschreiben der Unteren Naturschutzbehörde vom 30.08.2010
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive - Sitzungsvorlage Nr. 08-14 / V 03539; Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010 (VB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Genehmigung einer Freischankfläche am Candidplatz 1; Beschluss des BA 18 vom 21.09.2010
+- TOP 3.1.: Errichtung eines barrierefreien Zugangs zur Gaststätte Gartenstadt; Antrag der SPD-Fraktion vom 01.09.10
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Harthauser Str. 67; Neubau eines Zweifamilienhauses mit TG; Anhörung vom 18.08.10
+- TOP 3.2.: Harthauser Str. 67; Neubau einer Doppelhaushälfte A; Anhörung vom 18.08.10
+- TOP 3.3.: Harthauser Str. 67; Neubau einer Doppelhaushälfte B mit TG; Anhörung vom 18.08.10
+- TOP 3.4.: Lindenstraße; Neubau eines Wohnhauses (6 WE) und Erweiterung der Bestandsgarage Hochleite 1 um 7 Stellplätze; Anhörung vom 19.08.10
+- TOP 3.5.: Langobardenstraße 9a; Nutzungsänderung von Wohnhaus in Kinderhaus; Anhörung vom 20.08.10
+- TOP 3.6.: Lindenstraße 24; Neubau eines Einfamilienhauses mit Doppelgarage und Schwimmbecken; Anhörung vom 26.08.10
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Hertlingstraße 7; Anhörung vom 04.08.2010 (vertagt aus der Sitzung vom 17.08.2010)
+- TOP 3.1.: Beschleunigung der Baustelle unterhalb der S-Bahnunterführung in der Geiselgasteigstraße, insbesondere Anordnung von Arbeiten abends und an Samstagen, Sonn- und Feiertagen; BA-Antrag Nr. 08-14 / B 02262 des BA 18 vom 20.07.10; Antwortschreiben des Baureferats vom 12.08.10 (neutrale Erledigung)
+- TOP 3.2.: Situierung der GBW-Wohnungen im 18. Stadtbezirk; BA-Antrag-Nr. 08-14 / B 02265 des BA 18 vom 20.07.10; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 12.08.10 (neutrale Erledigung)
+- TOP 3.3.: Vorkaufsrecht in Erhaltungssatzungsgebieten; BA-Antrag Nr. 08-14 / B 02141 des BA 18 vom 18.05.10; Schreiben des Kommunalreferats vom 02.09.10 mit der Bitte um Fristverlängerung
+- TOP 3.4.: Antrag zum Verkauf der Wohnungen der GBW in Untergiesing; BA-Antrag-Nr. 08-14 / B 01883 vom 23.02.10; Nachfrage des BA 18 aus der Sitzung vom 17.08.10; Zwischennachricht des Direktoriums vom 06.09.10
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW Pizzeria Sessanta, Zasingerstraße 2; Mitteilung vom 16.08.2010 3.5.6.2.2 Kleingaststätte TTT, Ludmillastraße 20a; Mitteilung vom 19.08.2010
+- TOP 3.3.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte; Schreiben der Markthallen München vom 24.08.2010
+- TOP 3.4.: Satzung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 3.5.6.4.1 Anwesen Säckingenstraße; Mitteilung vom 02.09.10
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung des BA 18 in Kooperation mit dem MEB (Münchner Existenzgründer-Büro) und dem RAW für Existenzgründer und Gewerbetreibende im Stadtbezirk; Antrag der FDP-Fraktion vom 06.09.2010
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO, des LStVG sowie der Grünanlagensatzung; Isarlust - temporäre Fußgängerbrücke vom 22.10. bis 31.10.2010 von 14.00 - 23.00 Uhr auf der Alten Braunauer Eisenbahnbrücke und rund um den Kiosk auf der Ostseite; Zuleitung des KVR vom 02.09.10 mit der Bitte um Stellungnahme bis 13.10.2010
+- TOP 3.2.: A: öffentlich-rechtliche Sondernutzungserlaubnis nach Art. 18 BayStrWG und B:Festsetzung eines Marktes gem. § 64 ff GewO; hier: Anhörung: SoNu + Markt: Mangfallplatz Weihnachtsmarkt vom 26.11. bis 28.11.2010 (Aufbau ab 25.11.10; Abbau bis 29.11.10); Zuleitung des KVR mit der Bitte um Stellungnahme bis 18.10.2010
+- TOP 3.1.: Nutzung des Stadions an der Grünwalder Straße; BA-Antrag Nr. 08-14 / B 02264 des BA 18 vom 20.07.10; Antwortschreiben des Schul- und Kultusreferats vom 03.08.10 (negative Erledigung)
+- TOP 3.1.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten; Stellungnahme des BA 4 - Schwabing-West - mit der Bitte um Berücksichtigung der angesprochenen Kritikpunkte bei der eigenen Behandlung der Beschlussvorlage (vgl. TOP 3.6.4.3 der BA-Sitzung vom 20.07.2010; vertagt aus der Sitzung vom 17.08.2010)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Außenvertretung der Bezirksausschüsse; Az.: D-II-BA F 05/011; Schreiben des Direktoriums vom 20.08.2010
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
