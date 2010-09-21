@@ -1,0 +1,120 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-09-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1921767
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1921767
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Stollbergstraße 1 ? Einladung des Kommunalreferats
+- TOP .2.: Residenzpost: Planungs- und Projektstand ? Einladung der Architekten
+- TOP .3.: Residenzpost: Realisierung und Baumanagement ? Einladung des Ingenieurbüros
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Marienstraße 16
+- TOP .2.: Promenadeplatz 1
+- TOP .3.: Blumenstraße 19
+- TOP .4.: Westenriederstraße 10
+- TOP .5.: Neuhauser Straße 13
+- TOP .6.: Brienner Straße 11
+- TOP .7.: Hackenstraße 7
+- TOP .3.1: Bauvorhaben
+- TOP .2.1: Gaststätten
+- TOP .1.: Bäckerei Aumüller, Tal 46: Genehmigung einer Freischankfläche
+- TOP .2.: Coffee Fellows, Tal 33: Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Café Sienna, Viktualienmarkt 8: Erweiterung einer bestehenden Freischankfläche
+- TOP .4.: Café Rischart, Marienplatz 18: Erweiterung einer bestehenden Freischankfläche
+- TOP .5.: Gaststätte Einstein, St.-Jakobs-Platz 18: Genehmigung einer Freischankfläche
+- TOP .6.: Nachtrag: Giuseppe Campo, Bruderstraße 8: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: NACHTRAG: Obstverkaufsstand, Maximilianstraße 24/26
+- TOP .1.: (E) Mehr Abfalleimer im Stadtbezirk 1 (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 00478 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 01.12.2009
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Infoveranstaltung ?Brustkrebs(vorsorge)? am 05.10.2010 auf dem Karlsplatz
+- TOP .2.: ?Münchner Eiszauber? vom 19.11.2010 ? 16.01.2011 auf dem Karlsplatz
+- TOP .3.: ?Christkindlmarkt? vom 25.11. - 23.12.2010 auf dem Sendlinger-Tor-Platz
+- TOP .4.: ?Klimatag? am 10.10.2010 auf dem Karlsplatz
+- TOP .5.: ?Lange Nacht der Museen? am 16.10.2010 auf dem Odeonsplatz
+- TOP .6.: Infoveranstaltung und Straßensammlung Malteser Hilfsdienste e.V. am 20.11.2010 am Richard-Strauß-Brunnen
+- TOP .1.: Erfahrungsbericht Isarinselfest
+- TOP .1.: UA: Anfrage zur Baustelleneinrichtung in der Sendlinger Straße
+- TOP .2.: Bürger: Ausdehnung der Parklizenz Lehel Süd auf Lehel Nord für den Zeitraum der Umbaumaßnahmen der Straßenbahnlinie 17
+- TOP .3.: Bürger: Verkehrssituation ?Am Gries?
+- TOP .1.: PSA Unsöldstraße 12
+- TOP .2.: Radweg Thomas-Wimmer-Ring
+- TOP 3: (E) Beseitigung der Fahrräder vor den Kammerspielen und der Oper; Errichtung von Fahrradabstellplätzen auf der Maximilianstraße 8 (Ziffer 3 des Antrages) Empfehlung Nr. 08-14 / E 00496 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 01.12.2009
+- TOP 3.1.: Aktionstag Münchner Solartag 2011 im Stadtbezirk 1
+- TOP 3.2.: Planfeststellung 2- S-Bahn-Stammstrecke München
+- TOP 3.3.: Beschlussvorlage Ertüchtigung des Bahnknotens München 2. Stammstrecke
+- TOP 3.4.: Beschleunigung der Buslinie 100
+- TOP 3.1.: Antwortschreiben an den Oberbürgermeister bezüglich der Grundschule an der Herrnstraße
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kinderkrippe Herzogspitalstraße Projekt "Baumhaus"
+- TOP 3.1.: NACHTRAG: Verlängerung der Bezuschussung von digitalanalog e.V.
+- TOP 3.1.: Termine für die BA-Sitzungen 2011
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Schreiben des Direktoriums zur Außenvertretung der BAs
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Freistellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Unterlagen zur Lerchenfeldstraße 4-6
+- TOP 0.5.: Stellungnahme des Ferienausschuss zum Bauvorhaben Neuhauser Straße 39, TOP 2010.08 B 3.1.5
+- TOP 0.6.: Einladung in die Stadtgestaltungskommission am 14.09.2010, Themen u.a. Hofstatt und ehemal. AZ-Verlagshaus (per Mail an alle Mitglieder des BA 1 am 08.09.2010)
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Fortführung der Gaststätte ?Milagros?, Frauenstr. 9
+- TOP 0.5.: Sondernutzungserlaubnis Fahrradständer Tal 22, TOP 2010.06 C 2.2.3
+- TOP 0.6.: Eilentscheidung München Marathon am 10.10.2010
+- TOP 0.7.: Antwortschreiben des KVR zur Bürgerbeschwerde über die Gaststätte ?El Gordo Loco?, TOP 2010.07 A 3.1
+- TOP 0.8.: Hotelanfahrtszone Hotel Louis
+- TOP 0.9.: Informationsschreiben der Markthallen München zum Projekt ?Zukunftskonzepte der Lebensmittelmärkte Münchens?
+- TOP 0.10.: Eilentscheidung Ander Art Festival am 25.09.2010
+- TOP 0.11.: Eilentscheidung Nachtrag Corso Leopold 11. und 12.09.2010
+- TOP 0.12.: Eilentscheidung Nachtrag Modellregion E-Mobilität
+- TOP 0.13.: Elektroplanung Münchner Märkte
+- TOP 0.1.: Straßenbaumaßnahmen Maximilianplatz zwischen Lenbachplatz und Brienner Straße
+- TOP 0.2.: Verkehrsspiegel an den Einmündungen der Paradies-, Rosenbusch- und Reitmorstraße in die Widenmayerstraße zur Verbesserung der Sichtbedingungen, BV-Empfehlung des Stadtbezirks 13 Bogenhausen Nr. 525
+- TOP 0.3.: Beschluss des Bauausschusses vom 06.07.2010: Barrierefreier Ausbau von von Fußgängerunterführungen und -brücken
+- TOP 0.4.: Erweiterungsvorhaben an Telekom-UMTS-Mobilfunkstandorten mit LTE
+- TOP 0.5.: Zwischennachricht des KVR zur BV-Empfehlung Nr. 479: Vereinheitlichung der Parklizenzgebühren
+- TOP 0.6.: Vollzug der Wassergesetze: Isar-Plan, Verbesserung des Hochwasserschutzes (...)
+- TOP 0.7.: Kanalsanierung München, Lehel und Innenstadt
+- TOP 0.8.: Antwortschreiben der SPD-Fraktion zur Verschiebung der Umgestaltung des Tals, TOP 2010.07 D 0.1
+- TOP 0.9.: Antwortschreiben des KVR zu ?Tempo-30-Markierung der Liebigstraße?, TOP 2010.07 D 1.5
+- TOP 0.10.: Schreiben des Vorsitzenden an das Baureferat mit der Bitte um Reparatur des Gewegbelags in der Kardinal-Faulhaber-Straße
+- TOP 0.11.: Bauprojekt Zwingerstraße
+- TOP 0.12.: Antwortschreiben der PI 11 zum gewerblichen Abstellen von Fahrrädern an der Litfaßsäule Ecke Neuturmstraße/Hochbrückenstraße, TOP 2010.07 D 1.1
+- TOP 0.13.: Antwortschreiben Stellplatzverlust U-Bahnreferat Hackenstraße, TOP 2010.08 A 3.1
+- TOP 0.14.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP 0.15.: Gefahrenbaum Theatinerstraße 1, Ersatzpflanzung
+- TOP 0.1.: Antwortschreiben des Schulreferats zur BA-Anfrage bzgl. der Mülltonnenanlage der St.-Anna-Schule, TOP 2009.11 E 1.1
+- TOP 0.2.: Stellungnahme des BA 4 zur Beschlussvorlage ?Unterstützung von Stadtteilfesten und Stadtteilaktivitäten?
+- TOP 0.3.: Verwendungsnachweis zum Projekt ?Kunst und Schule?
+- TOP 0.4.: Zuwendungsbescheid für die Initiative ?Totò und Karl Valentin?, TOP 2010.07 E 2.1
+- TOP 0.5.: Verwendungsnachweis zu den Hinterhofflohmärkten im Lehel
+- TOP 0.6.: Kindertagesbetreuungsplätze der LHM-Sozialreferat mit Stand: 01.07.2010
+- TOP 0.7.: Beschluss der Vollversammlung vom 28.07.2010: Antrag der BIA zu einem neuen Konzept für den ?Platz der Opfer des Nationalsozialismus?
+- TOP 0.8.: Schreiben des Oberbürgermeisters an den BA 9 bzgl. der Bezuschussung des Sommerferienprogramms ?Umsonst & Draußen?
+- TOP 0.9.: Zuwendungsbescheid ?Lyrikoase?, TOP 2010.09 E 2.1
+- TOP 0.10.: Zuwendungsbescheid Teamtheater Tankstelle e.V., TOP 2010.09 E 2.2
+- TOP 0.11.: Bescheid über Anerkennung von Plätzen Steinsdorfstraße 10
+- TOP 0.12.: Antwortschreiben zum Antrag des BA 2 auf Verlängerung der Öffnungszeiten in Freibädern, TOP 2010.08 E 1.2
+- TOP 0.13.: Bescheid über Anerkennung von Plätzen Thierschstraße 28, Steinsdorfstr. 10
+- TOP 0.14.: Beschluss des Kinder- und Jugenhilfeausschusses vom 21.09.2010: Umsetzung des Teilplans 4: Tageseinrichtungen, Tagespflege; Teil B: Bedarfsplaung, Kindertagesbetreuung
+- TOP 3.4: Unterrichtungen (siehe Anlage)
+- TOP 3.0: Bericht
+- TOP 3.1: Anträge
+- TOP 3.2: Entscheidungen
+- TOP 3.3: Anhörungen
+- TOP .3.2: Sonstige
