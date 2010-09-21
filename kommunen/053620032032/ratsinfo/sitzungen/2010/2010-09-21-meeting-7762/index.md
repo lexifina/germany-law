@@ -1,0 +1,69 @@
+# Stadtrat (9. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-09-21T17:02:00+02:00
+- Ende: 2010-09-21T18:41:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdmWmeqRGOVKw3YGGueuHbU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7762
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZaMCvEa2e9NgfDqbR084yi7dmPJkQ--7jXhglZaCHLBO/Bekanntmachung_Stadtrat_21.09.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung des neuen Stadtverordneten Jürgen Hartmann
+- TOP 2.: Umbesetzung von Ausschüssen
+- TOP 2.1: Umbesetzung des Jugendhilfeausschusses / Beratende Mitgliedschaften - (kein Text vorhanden)
+- TOP 2.2: Umbesetzung von Ausschüssen; hier: Antrag der CDU-Fraktion
+- TOP 2.3: Umbesetzung von Ausschüssen; hier: Antrag der Linksfraktion
+- TOP 2.4: Umbesetzung von Ausschüssen; hier: Antrag der BBK/UWG-Fraktion
+- TOP 3.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 1. Satzung zur Änderung der Satzung über die Erhebung von Erschließungsbeiträgen in der Stadt Kerpen
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Umsiedlung Manheim
+- TOP 5.1.1: Äußere Erschließung des Umsiedlungsstandortes Manheim-neu hier: Vereinbarung zwischen dem Rhein-Erft-Kreis, RWE Power und der Stadt Kerpen
+- TOP 5.1.2: 63. Änderung des Flächennutzungsplanes "Umsiedlungsort Manheim - neu" – hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 5.1.3: Bebauungsplan MA 337 "Umsiedlungsort Manheim - neu" hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 5.1.4: Abschluss eines Erschließungsvertrag mit der Firma RWE Power AG für den Bereich des öffentlich-rechtlichen Bebauungsplanes MA Nr. 337 „Umsiedlungsort Manheim – neu“
+- TOP 5.1.5: Manheim-Vertrag zur Umsiedlung des Ortes Manheim im Stadtgebiet Kerpen - (kein Text vorhanden)
+- TOP 5.2: Bebauungsplan KE Nr. 332 "Hahnenstraße" im Stadtteil Kerpen hier: Beschluss als Satzung gemäß § 10 (1) BauGB
+- TOP 5.3: Bebauungsplan TÜ 336 "Bolzplatz Brüggen", Stadtteil Brüggen hier: Beschluss zur Offenlage
+- TOP 5.4: Aufhebungsverfahren des Bebauungsplanes TÜ Nr. 6 "Alfred-Nobel-Straße", Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.: Mehrzweckhalle Blatzheim
+- TOP 6.1: Sofortiger Abriss der Mehrzweckhalle in Blatzheim
+- TOP 6.2: Neubau einer Turnhalle / Mehrzweckhalle Blatzheim
+- TOP 7.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 8.: Haushaltsangelegenheiten
+- TOP 8.1: Bericht über die Haushaltsausführung der wesentlichen Haushaltspositionen II. Quartal 2010
+- TOP 8.2: Bekanntgabe der unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW in der Zeit vom 01.01. bis 30.06.2010
+- TOP 8.3: Bereitstellung einer außerplanmäßigen Verpflichtungsermächtigung zum Ausbau u3 in der städtischen Kindertagesstätte Panama
+- TOP 9.: Verwendung der finanziellen Mittel aus dem Waldverkauf
+- TOP 10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.1: Personalsituation in der Abt. 23.3 hier: Jugendgerichtshilfe
+- TOP 10.2: Bereitstellung von Ausbildungsplätzen für das Jahr 2011
+- TOP 11.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 12.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 13.: Mitteilungen
+- TOP 14.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 14.1: Kommunale Finanzspritze der NRW-Landesregierung
+- TOP 14.2: Abschlussbericht des Gemeindeprüfungsamtes hier: aktueller Sachstand
+- TOP 14.3: Gedenktafel für die Opfer des Nationalsozialismus
+- TOP 14.4: Umgestaltung des Eingangsbereichs der Horremer Halle
+- TOP 14.5: Bautätigkeit im Erft Karree Kerpen
+- TOP 15.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 16.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 16.1: Ernennung einer Stadtrechtsrätin zur Stadtoberrechtsrätin
+- TOP 16.2: Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor
+- TOP 17.: Neubau der Kindertagesstätte Horrem, Am Wingertsberg 8 - (kein Text vorhanden)
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Situation Standort der Minigolfanlage Brüggen; hier: Anfrage des Stadtverordneten Wolfgang Zimball
+- TOP 21.2: Einladungen zu offiziellen Anlässen
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
