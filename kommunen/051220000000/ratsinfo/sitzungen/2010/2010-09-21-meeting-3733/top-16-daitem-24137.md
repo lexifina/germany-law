@@ -1,0 +1,7 @@
+# TOP 16: Schulneulinge zum Schuljahr 2010/11
+
+- Sitzung: Ausschuss für Schule und Weiterbildung (2010-09-21)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/24137
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/13723
