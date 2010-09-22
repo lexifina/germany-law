@@ -1,0 +1,7 @@
+# TOP 7.1: Bayer-Schering und geplanter Wohnhausabriss Fennstraße 35-37/Am Nordhafen1 BE: Bayer-Schering
+
+- Sitzung: 52. öffentliche/nichtöffentliche Sitzung des Ausschusses für Stadtentwicklung, Sanieren, Bauen und Bebauungspläne (2010-09-22)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=48026
+- Ergebnis: erledigt
