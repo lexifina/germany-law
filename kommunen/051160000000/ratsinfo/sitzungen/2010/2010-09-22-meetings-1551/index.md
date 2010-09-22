@@ -1,0 +1,57 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-09-22T15:00:00+02:00
+- Ende: 2010-09-22T20:00:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1551
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1551
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00063246.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00063246.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00063246.pdf
+
+## Tagesordnung
+
+- TOP 1: Schriftführer
+- TOP 2: Niederschrift - Zur Kenntnis genommen
+- TOP 3: Härtefallkommission - Geschäftsordnung - Einstimmiger Beschluss
+- TOP 4: Bestellung des RH Manfred Langen als beratendes Mitglied - Einstimmiger Beschluss
+- TOP 5: Stellenplan 2010 und 2011 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Entwurf des Doppelhaushaltes 2010/2011 - Zur Kenntnis genommen
+- TOP 7: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 8: Struktur der NVV AG / Erhalt des steuerlichen Querverbundes - Zur Kenntnis genommen
+- TOP 9: Beteiligung der Niederrheinische Versorgung und Verkehr AG - Mit Stimmenmehrheit beschlossen
+- TOP 10: Erneuerung des Kommunikationsnetzes und der TK-Anlage im Theater. - Einstimmiger Beschluss
+- TOP 11: Bereitstellung überplanmäßiger Haushaltsmittel für den Zuschuss für das Gemeinschaftstheater - Einstimmiger Beschluss
+- TOP 12: Genehmigung einer Dringlichkeitsentscheidung Sportanlage Schlachthofstraße - Mit Stimmenmehrheit beschlossen
+- TOP 13: Dritter Nachtrag zur Satzung über die Erhebung von Gebühren für den Rettungsdienst - Einstimmiger Beschluss
+- TOP 14: Dritte ordnungsbehördliche Verordnung und ordnungsbehördliche Verordnungen - Mit Stimmenmehrheit beschlossen
+- TOP 15: Grundschulverbund Damm u. Bettrath-Hoven - Einstimmiger Beschluss
+- TOP 16: Zukunft des Hallenbades Odenkirchen - Mit Stimmenmehrheit beschlossen
+- TOP 17: Schiedspersonenwahl Nord/1 - Einstimmiger Beschluss
+- TOP 18: Leistungsvereinbarung Suchtberatung - Einstimmiger Beschluss
+- TOP 19: Leistungsvereinbarung Drogenberatung - Einstimmiger Beschluss
+- TOP 20: Aufgabenwahrnehmung SGB II - Mit Stimmenmehrheit beschlossen
+- TOP 21: Bebauungsplan Nr. 691/O - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 22: Festlegung der Innenstadt RY zum Stadtumbaugebiet - Erweiterte Gebietsabgrenzung - Einstimmiger Beschluss
+- TOP 23: 183. Änderung des Flächennutzungsplanes - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 24: Veränderungssperre Hauptstraße - Einstimmiger Beschluss
+- TOP 25: Veränderungssperre Hindenburgstraße - Einstimmiger Beschluss
+- TOP 26: 187. Änderung des Flächennutzungsplanes - Einstimmiger Beschluss
+- TOP 27: Bebauungsplan Nr. 686/S - Stadtbezirk Süd - Einstimmiger Beschluss
+- TOP 28: Dritter Nachtrag zur Verwaltungsgebührensatzung - Einstimmiger Beschluss
+- TOP 29: Konzept für die Preis-Auslobung „umweltgerechtes Bauen“ - Mit Stimmenmehrheit beschlossen
+- TOP 30: Schuldenmoratorium - Mit Stimmenmehrheit abgelehnt
+- TOP 31: Beauftragung Durchsetzung bedarfsorientierter Finanzausgleich - Mit Stimmenmehrheit abgelehnt
+- TOP 32: Stiftung "Täglich warme Mahlzeit für jedes Kind" - Mit Stimmenmehrheit abgelehnt
+- TOP 33: Vorbereitung der Gründung einer sechsten Gesamtschule - Mit Stimmenmehrheit beschlossen
+- TOP 34: Umbesetzung des Kulturausschusses - Einstimmiger Beschluss
+- TOP 35: Änderung der Geschäftsordnung für den Rat, die Bezirksvertretungen und die Ausschüsse in MG - Zur Kenntnis genommen
+- TOP 36: Friedhofsgebührensatzung - Mit Stimmenmehrheit abgelehnt
+- TOP 37: Neuorganisation der Vereinigten Städtischen Bühnen Krefeld-Mönchengladbach - Ohne Abstimmung
+- TOP 38: Resolution "Mönchengladbach gegen Extremismus" - Einstimmiger Beschluss
+- TOP 39: Resolution "Mönchengladbach für den Rechtsstaat und das Grundgesetz" - Zur Kenntnis genommen
+- TOP 40: Anfragen - Zur Kenntnis genommen
