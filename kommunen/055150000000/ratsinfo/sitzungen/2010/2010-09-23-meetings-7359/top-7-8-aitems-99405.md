@@ -1,0 +1,8 @@
+# TOP 7.8: Fahrplanmaßnahmen der Stadtwerke Münster zum 10.01.2011
+
+- Sitzung: 7. Sitzung (2010-09-23)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/99405
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/44979
