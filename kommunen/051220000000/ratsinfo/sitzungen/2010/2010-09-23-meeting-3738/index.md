@@ -1,0 +1,52 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-09-23T17:00:00+02:00
+- Ende: 2010-09-23T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRtlrFmMrAku5q3rzojLu6U
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3738
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd5Jk0jddc2DFgZdOQwz61vPPmQTGjkgIaohVqKrlZpX/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_23.09.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Protokoll über die 09. Sitzung des Haupt- und Personalausschusses vom 01.07.2010
+- TOP 2: Protokoll über die gemeinsame Sitzung des Haupt- und Personalausschusses und des Beteiligungsausschusses am 01.07.2010
+- TOP 3: Eingabe gemäß § 24 Gemeindeordnung NRW
+- TOP 4: Benennung eines Mitglieds der Stadt Solingen für die Veranstaltergemeinschaft Radio RSG
+- TOP 5: Neufassung der Regelung über die Zuständigkeiten der Ausschüsse
+- TOP 6: Public Corporate Governance Kodex für die Stadt Solingen
+- TOP 7: 2. Quartalsbericht 2010 (Ergebnisplan) inklusive HSK-Controlling
+- TOP 8: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2010
+- TOP 9: Trägerschaft für Neubauten von Tagesstätten für Kinder an der Augustastraße und an der Schwertstraße
+- TOP 10: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 11: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 12: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 13: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 14: Zusammenführung von EBS und TBSG
+- TOP 15: II. Änderung zur Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Stadt Solingen (Sondernutzungssatzung)
+- TOP 16: Sachstand zum Projekt Bergischer ThinkTank
+- TOP 17: Energiebericht 2008 - 2009
+- TOP 18: Sachstand und Entwicklungsperspektive Kunstmuseum Baden
+- TOP 19: Verkehrsuntersuchung zur Anbindung an die A 3
+- TOP 20: Sachstand "PEM" (Personaleinsatzmanagement)/Umsetzung HSK
+- TOP 21: Personalentwicklung bei der Stadt Solingen
+- TOP 22: Sachstand Praktika - Ausbildung bei der Stadt Solingen
+- TOP 23: Stadion Hermann-Löns-Weg
+- TOP 24: Haushaltssicherungskonzept 2010 - 2013
+- TOP 25: Mitteilung zum Stand der Verhandlung für das Zentrum für verfolgte Künste in Solingen mit dem Landschaftsverband Rheinland (LVR)
+- TOP 26: Aufrechterhaltung öffentlicher Angebote durch Haushaltsentlastung auf Grund Nutzung steuerrechtlicher Möglichkeiten (Teil-)Umsetzung der HSK-Maßnahmen 6, 245, 246 und 247
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Protokoll über die 09. Sitzung des Haupt- und Personalausschusses vom 01.07.2010
+- TOP 2: Protokoll über die 10. Sitzung des Haupt- und Personalausschusses vom 01.07.2010
+- TOP 3: Protokoll über die gemeinsame Sitzung des Haupt- und Personalausschusses und des Beteiligungsausschusses am 01.07.2010
+- TOP 4: Genehmigung einer Dienstreise nach Aue vom 01. bis 04.10.2010
+- TOP 5: Vorberatung der Gesellschafterversammlung der Sanierungsgesellschaft Südliche Innenstadt Solingen Verwaltungs-GmbH und mbH & Co. KG am 25.10.2010
+- TOP 6: Gestellung von Notarztleistungen
+- TOP 7: Stand der gerichtlichen Verfahren gegen Beitragsbescheide für die Jahre 2009 und 2010
+- TOP 8: Produktkritik - Förderung des Wirtschaftsstandortes Solingen
+- TOP 9: Vergabe der Stiftungsmittel der Geschwister-Niehoff-Stiftung für das Jahr 2010
