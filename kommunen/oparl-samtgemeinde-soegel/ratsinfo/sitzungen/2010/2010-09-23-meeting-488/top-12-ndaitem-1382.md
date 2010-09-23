@@ -1,0 +1,6 @@
+# TOP 12: Beratung und Beschlussfassung über den Antrag der Ems-Vechte-Welle auf finanzielle Unterstützung
+
+- Sitzung: Samtgemeinderat der Samtgemeinde Sögel (2010-09-23)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/1382
