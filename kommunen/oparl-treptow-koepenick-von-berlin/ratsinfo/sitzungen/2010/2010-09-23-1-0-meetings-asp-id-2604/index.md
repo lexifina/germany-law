@@ -1,0 +1,65 @@
+# 44. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-09-23T16:30:00+02:00
+- Ende: 2010-09-23T21:55:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2604
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2604
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100928
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-44 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Endlich mehr Barrierefreiheit im ÖPNV - Einsatz von Niederflurbahnen in Treptow-Köpenick - mit Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Evangelische Kirchengemeinde Baumschulenweg (SM 1039) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Fußgängertunnel Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Park-Such-Verkehr in der Bahnhofstraße vermeiden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Ausweichgewässer für Amphibien anlegen - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Bebauungsplan 9-53 ("Friedrichshagener Straße 10-12") hier: Einleitungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Querungshilfe zur Schulwegsicherung in der Wegedornstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Mittel zur Umsetzung des Radwegekonzepts - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Fahrradabstellmöglichkeiten am Schlossplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Bebauungsplan 9-50 ("Funkwerk Köpenick") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Gesundheitsbericht des Bezirksamtes Treptow-Köpenick 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Gebietscharakter Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Sinnvolle städtebauliche Gestaltung durch B-Plan - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Wirtschaftsnachrichten aus dem Bezirk in der Öffentlichkeitsarbeit des Bezirksamtes stärker verankern - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XV-29 c („Verkehrsflächen östl. Schönefelder Chaussee“) hier: Reduzierung und Teilung des Geltungsbereiches - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Alternative Flugrouten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Beratungshilfegewährung am Amtsgericht Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Einbeziehung der BVV in die Arbeit der Fluglärmkommission - in der BVV zurückgezogen
+- TOP 14.4: Verhinderung einer weiteren Tanzgaststätte/Vergnügungsstätte in der Gewerbeeinheit Puderstraße 8 - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Sicherung des Bahngeländes am Stellingdamm - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Entwicklungskonzept ÖPNV - WISTA - überwiesen
+- TOP 14.7: Musikschule am Standort Friedrichshagener Straße dauerhaft sichern - überwiesen
+- TOP 14.8: Fahrradabstellanlagen im Dorfkern Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Einkommensschwache von Gebühren für den elektronischen Personalausweis befreien - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Verbesserung der Verkehrssituation im Berlewitzweg - überwiesen
+- TOP 14.11: Brandgefahr am Stellingdamm verringern - erledigt
+- TOP 14.12: Ampelschaltung Edisonstraße/Straße An der Wuhlheide - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Mehr Licht ins Kosmosviertel - ohne Änderungen in der BVV beschlossen
+- TOP 14.14: Bolz- und Streetballplätze für den Kranbahnpark - überwiesen
+- TOP 14.15: Angebotsstreifen auf der Wilhelminenhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Plastiken, Denkmäler und Brunnen mit Bildern ins Internet - überwiesen
+- TOP 14.17: Erleichterung Spreetunnelquerung für Radverkehr - überwiesen
+- TOP 14.18: Weitere Abstellplätze am S-Bhf. Spindlersfeld - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Altstadtkonferenz 2010 im Bezirk Treptow-Köpenick (II) - beantwortet
