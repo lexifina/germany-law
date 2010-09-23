@@ -1,0 +1,53 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-09-23T17:06:00+02:00
+- Ende: 2010-09-23T20:33:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7359
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7359
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00297720.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge und Eingaben
+- TOP 4.1: Bekanntgabe
+- TOP 4.2: Stellungnahmen
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 5.1: Anregung § 24 GO NRW Aufgabe des Spielplatzes "Pater-Kolbe-Straße" in Amelsbüren - mehrheitlich beschlossen
+- TOP 5.2: Bürgerumfrage 2010: Ergebnisse der Fragenkomplexe "Einsparmöglichkeiten und Mehreinnahmen", "Ziele der Stadtentwicklung" - zur Kenntnis genommen
+- TOP 5.3: Bericht zur Baulandentwicklung - zur Kenntnis genommen
+- TOP 5.4: Soziale Wohnraumförderung - einstimmig geändert beschlossen
+- TOP 5.5: Geschäftsbericht des Amtes für Wohnungswesen - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Gebäudegutachten Grevener Str. 31/33
+- TOP 6.2: Baulicher Zustand Bahnhofsgebäude Hiltrup
+- TOP 6.3: Bebauungsplan Nr. 210, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.4: Bebauungsplan Nr. 134 II (Neufassung), 1. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 6.5: Ortszentrum Sprakel: Mitte vollenden - geplante Nutzung überdenken - einstimmig geändert beschlossen
+- TOP 6.6: 22. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 536 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 6.7: 1. Änderung des Bebauungsplanes Nr. 415: Wolbeck-Nord - einstimmig beschlossen
+- TOP 6.8: Teilaufhebung des Bebauungsplanes Nr. 483:Amelsbüren - Hansa-Businesspark - mehrheitlich beschlossen
+- TOP 7: Verkehr
+- TOP 7.1: Umstrukturierung Regionalverkehr Münsterland GmbH (RVM) - einstimmig beschlossen
+- TOP 7.2: Umbau des Knotenpunktes Weseler Straße / B 51, hier: Ergänzung um eine Bussonderspur - einstimmig beschlossen
+- TOP 7.3: Warendorfer Straße - überarbeitete Planung zur Wiederherstellung nach Kanalbau zwischen Ring und Danziger Freiheit - einstimmig geändert beschlossen
+- TOP 7.4: Antrag der Fraktion Bündnis 90 / Die Grünen / GAL an den Rat Nr. A-R/0056/2010 "Coermühle an Wochenenden sperren" - von der Tagesordnung abgesetzt
+- TOP 7.5: Hobbeltstraße - Radverkehr und Lärmschutz Anregung der CDU-Fraktion vom 03.06.2009 (A-O/0021/2009) - von der Tagesordnung abgesetzt
+- TOP 7.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.7: Buslinienführung in der Altstadt 2011 - zur Kenntnis genommen
+- TOP 7.8: Fahrplanmaßnahmen der Stadtwerke Münster zum 10.01.2011 - zur Kenntnis genommen
+- TOP 7.9: Neue Standards für "barrierefreies Bauen" im öffentlichen Verkehrsraum - zur Kenntnis genommen
+- TOP 8: Bauvorhaben
+- TOP 8.1: Grevener Straße 53 - Neubau eines Mehrfamilienwohnhauses
+- TOP 8.2: Hohenzollernring 16 - Neubau eines Mehrfamilienwohnhauses
+- TOP 8.3: Pluggendorf 10, 11, 12 - Neubau von Mehrfamilienhäusern
+- TOP 8.4: Dreifaltigkeitskirche
+- TOP 9: Verschiedenes
