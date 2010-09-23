@@ -1,0 +1,7 @@
+# TOP 2: Vorstellung der Arbeit des Gewerbevereins Kesselsdorfer Straße e. V.
+
+- Sitzung: 10. Sitzung des Ortsbeirates Cotta (2010-09-23)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/12429
+- Ergebnis: Zustimmung
