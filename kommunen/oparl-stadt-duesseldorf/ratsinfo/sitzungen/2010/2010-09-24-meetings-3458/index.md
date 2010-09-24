@@ -1,0 +1,59 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-09-24T14:00:00+02:00
+- Ende: 2010-09-24T19:15:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3458
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3458
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146432.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146432.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146432.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: Oberflächenerneuerung Altstadt Düsseldorf - Information - - mehrheitlich beschlossen
+- TOP 5: Umgestaltung Münsterplatz - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Abbruchantrag Bankstraße 1 - einstimmig beschlossen
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Glasverbot in der Altstadt - zurückgezogen
+- TOP 13: Sachstand "Gedenkkonzepte Derendorf" - mündlicher Bericht - - zur Kenntnis genommen
+- TOP 14: Masterplan Energieeffiziente Straßenbeleuchtung - einstimmig beschlossen
+- TOP 15: Antikmärkte in den Schadowarkaden im Jahre 2011 - einstimmig beschlossen
+- TOP 16: Geänderte Führung Strab 701,706,715 im Rahmen von Kö-Bogen u. Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 17: Stellplatzmarkierung Prinz-Georg-Straße - einstimmig beschlossen
+- TOP 18: Neugestaltung des Platzes "Am Dominikanerkloster" - einstimmig beschlossen
+- TOP 19: Baumpflanzung Leopoldstraße - einstimmig beschlossen
+- TOP 20: Yorckstraße, Schrägparkplätze - mehrheitlich beschlossen
+- TOP 21: Yorckstraße, Fahrradständer - einstimmig beschlossen
+- TOP 22: Radweg Roßstraße - einstimmig beschlossen
+- TOP 23: Verbesserung des Fußgängerverkehrs auf der Rheinstraße - einstimmig beschlossen
+- TOP 24: Bankaufstellung Franklinstraße /Bagelstraße - einstimmig beschlossen
+- TOP 25: Markierungen / Schrägparken - einstimmig beschlossen
+- TOP 26: Bahnschienen Spichernplatz, Begrünung - einstimmig beschlossen
+- TOP 27: Fahrtzeiten der U 79 - einstimmig abgelehnt
+- TOP 28: Schulwegsicherung Thomas-Schule - einstimmig beschlossen
+- TOP 29: Einmündung Gartenstraße/Duisburger Straße - mehrheitlich abgelehnt
+- TOP 30: Parken am Spichernplatz - einstimmig beschlossen
+- TOP 31: Schadstoffsammlung im Stadtbezirk 1 - einstimmig beschlossen
+- TOP 32: Meineckestraße - einstimmig beschlossen
+- TOP 33: Taxihalteplatz Ratinger Straße - einstimmig beschlossen
+- TOP 34: Geschwindigkeitsbegrenzung Liefergasse - einstimmig beschlossen
+- TOP 35: Straßenbenennungen - zurückgezogen
+- TOP 36: Ottweilerstraße/Golzheimer Straße, Fahrradständer - einstimmig beschlossen
+- TOP 37: Verschönerung Königsallee
+- TOP 38: Altstadt - Baumpflege - zur Kenntnis genommen
+- TOP 39: Golzheimer Friedhof
+- TOP 40: Spielplatzpatenschaften im Stadtbezirk 1 - zur Kenntnis genommen
+- TOP 41: Verwaltungsgebäude Heinrich-Ehrhardt-Straße - zur Kenntnis genommen
+- TOP 42: Mitteilungen der Verwaltung - zur Kenntnis genommen
