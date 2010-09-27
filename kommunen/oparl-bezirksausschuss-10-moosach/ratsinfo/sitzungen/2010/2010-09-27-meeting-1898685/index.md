@@ -1,0 +1,94 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-09-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898685
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898685
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Kirschbäume in der Wittenberger Straße
+- TOP 2.2.: Einrichtung einer Meldestelle in das geplante Gebäude für Sozialwohnungen und Kinderkrippe in der Bunzlauerstraße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Kinder- und Jugendversammlung am 08.10.2010
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Gehsteigparken am Moosacher Bahnhof
+- TOP 3.2.: Ortstermin Fahrradständer vor Tengelmann Dachauer Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Zebrastreifen Feldmochinger Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Eindämmung von Spielhallen
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Wohnforum München gGmbH, Nachbarschaftstreff Karlingerstraße Hallenmiete der Fußballgruppe vom 20.11.2010 - 26.03.2011 - <div>nach Antrag</div>
+- TOP 5.2.: Spielplatz Holledauer Straße, Neubau eines Spielplatzes für Klein- und Schulkinder
+- TOP 6: Anhörungen
+- TOP 6.1.: Ertüchtigung des Bahnknotens München; 2. Stammstrecke (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 6.2.: Verkauf einer städt. Immobilie: 1. Darmstädter Straße / Georg-Brauchle-Ring 2. Dachauer Straße, Ecke Wildermuthstraße
+- TOP 6.3.: Öffnung der Einbahnstraße Breslauer Straße für Radfahrer
+- TOP 6.4.: Errichtung eines allgemeinen Behindertenparkplatzes in der Hanauer Str. 65; Seite: Ehrenbreitsteiner Straße
+- TOP 6.5.: Halteverbot in der Templestr. zur Gewähleistung der Anfahrt eines Bücherbusses
+- TOP 6.6.: Vollzug der Baumschutzverordnung: 1. Baubergerstr. 14 2. Gögglstr. 24
+- TOP 6.7.: Widmungsänderung Moosacher St. Martins-Platz
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Kurzzeitparkplätze vor Bunzlauer Str. 22 (wurden angeordnet)
+- TOP 7.2.: Absolutes Halteverbot in der Voit- und Lampadiusstraße (wird angeordnet)
+- TOP 7.3.: LKW-Standort Hanauer Straße / Georg-Brauchle-Ring (Verweisung an den AWM, Sichtschutz wurde in Aussicht gestellt)
+- TOP 7.4.: Aufstellung von Geschwindigkeits-/Dialog-Displays vor Kindergärten und Schulen (aufgrund von positiven Pilotversuchen wird der Einsatz im Stadtgebiet geplant)
+- TOP 7.5.: Aufstellung einer Packstation der DHL in unmittelbarer Nähe des OEZ (Zwischennachricht)
+- TOP 7.6.: Ausweisung von Kurzparkplätzen in der Bunzlauer Straße (wurden eingerichtet)
+- TOP 7.7.: Schulsport HS und GS Haldenbergerstraße (positive Lösung zeichnet sich ab)
+- TOP 7.8.: Ausstellung über die Münchner U-Bahnhöfe aus Anlass der Eröffnung des 100. U-Bahnhofs (aus zeitlichen und organisatorischen Gründen nicht möglich)
+- TOP 7.9.: Parken auf Privatgrund in der Bunzlauer Straße (LBK prüft)
+- TOP 7.10.: Aufstellung von Abfallbehältern in der Bunzlauer Str. vor dem Cafe Tirreno
+- TOP 7.11.: Säuberung der Wände am U-Bahnhof Georg-Brauchle-Ring
+- TOP 7.12.: Linie 169 und Haltestelle Lauinger Straße in der Untermenzinger Straße
+- TOP 7.13.: Einrichtung neuer Haltestellen im Rahmen des Leistungsprogramms 2011 (die MVG sieht keine Gefährung durch eine Haltestelle vor der Stadtbibliothek)
+- TOP 7.14.: Leistungsprogramm der MVG für die Fahrplanperiode 2010 (Behandlung der BV-Empfehlungen)
+- TOP 7.15.: Anordnung einer Kurzparkzone in der Gärtnerstr. 50 (kann bei hohem Kundenaufkommen eingerichtet werden)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte
+- TOP 8.4.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP 8.5.: Fällungsgenehmigung Prochintalstr. 4
+- TOP 8.6.: Fällungsgenehmigung Gleißmüllerstr. 9
+- TOP 8.7.: Genehmigung der Zweckentfremdung von Wohnraum: a) Wilhelmshavener Straße b) Netzer Straße
+- TOP 8.8.: Versammlungen unter freiem Himmel: a) Pelkovenstr. 1, auf Parkplatz vor Nr. 27 b) Bingener Str. vor Anwesen Nr. 38
+- TOP 8.9.: Auslegung von Listen gegen Google-Street-View (Schreiben des OB)
+- TOP 8.10.: Außenvertretung der Bezirksausschüsse (Schreiben Direktorium)
+- TOP 8.11.: Anträge des Vereins Lilalu (Schreiben des BA 9 (Neuhausen-Nymphenburg))
+- TOP 8.12.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten (Schreiben des BA 4 Schwabing-West und des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.13.: Parkplatzsanierung vor den Anwesen Dachauer Str. 286 a, b
+- TOP 8.14.: Änderungen im Postfilialnetz: Hanauer Str. 68
+- TOP 8.15.: Pächterwechsel a) "Plan B", Baubergerstr. 19 b) "Seydlitzstüberl", Seydlitzstr. 58
+- TOP 8.16.: Ausbau der Ludwigsfelder Str. in Allach zwischen Hausnummer 32 und 250 Meter westlich Am Neubruch (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.17.: Anforderungen Bauvorhaben a) Hugo-Troendle-Str. b) Hanauer Str. 54
+- TOP 8.18.: Statistikblatt Kinderbetreuungsplätze in der LHM
+- TOP 8.19.: Abschied von Friederike Goschenhofer (REGSAM)
+- TOP 8.20.: Straßenfest der Mietergemeinschaft Borstei (Vorab-Zustimmung der Vorsitzenden)
+- TOP 8.21.: Mitteilung über ein Grundstückstgeschäft: Pelkovenstr. 143
+- TOP 8.22.: Zweckentfremdung von Wohnraum: Schöpferplatz
+- TOP 8.23.: Außenvertretung der Bezirksausschüsse (Schreiben des Direktoriums)
+- TOP 8.24.: Mobilfunk: Erweiterung an bestehenden O2-Maststandorten mit LTE (nicht-öffentlich)
+- TOP 8.25.: Verlängerung der Öffnungszeiten der städt. Freibäder (Schreiben des BA 2 Ludwigsvorstadt - Isarvorstadt)
+- TOP 8.26.: Wohnen in München IV
+- TOP 8.27.: Beschlussvollzugskontrolle Planungsreferat
+- TOP 8.28.: Parklizenzen auch für Inhaber von Zweitwohnungen (Stadtratsantrag)
+- TOP 8.29.: Perspektive München Münchner Stadtteilstudie 2009
+- TOP 8.30.: Ehrenpreis für Wohnen im Alter
+- TOP 8.31.: Absolutes Haltverbot Ehrenbreitsteiner Straße / Pelkovenstraße
+- TOP 8.32.: Perspektive München - Zentrenkonzept (Broschüre)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
