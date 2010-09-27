@@ -1,0 +1,6 @@
+# TOP 12.: Erhebung von Anlieger- und Erschließungsbeiträgen
+
+- Sitzung: Haupt-, Finanz- und Steuerungsausschuss (36. Sitzung) (2010-09-27)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/32950
