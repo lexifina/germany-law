@@ -1,0 +1,95 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-09-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869009
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869009
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Hachinger Bach ? Renaturierung zwischen Kampenwandstraße und Hüllgraben ? Vorgezogene Erstellung eines Rodelhügels
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.2.1.: Planfeststellung Zweite S-Bahnstammstrecke München, Abschnitt 3neu München-Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief)
+- TOP 3.1.2.2.: Ertüchtigung des Bahnknotens München: - 2. S-Bahn-Stammstrecke a) Grundsatzentscheidungen des Bayr. Landtages vom 14.04.2010; Stand der Umsetzung b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen c) Lärmsanierung am DB-Südring d) Weiteres Vorgehen e) Anträge und Empfehlungen
+- TOP 3.1.2.3.: Beschleunigung der Buslinie 100
+- TOP 3.1.3.1.: Mobilfunk-Suchkreismeldung Berg-am-Laim-Nord
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6.1.: Bad-Schachener-Str. 93 - 115 ? GWG ? Freiflächengestaltungsplan / Baumbestandsplan zum Neubau einer Wohnanlage (55 WE) mit Tiefgarage
+- TOP 3.6.2.: Krumbadstraße 1 - 27 ? GWG ? Neubau Wohnanlage (38 WE) mit TG / Baumbestandsplan
+- TOP 3.6.3.: Krumbadstraße 2 ? GWG ? Neubau eines Wohngebäudes (34 WE) / Bauteil 9 a, WR 3
+- TOP 3.6.4.: St.-Veit-Str. 26 - 28
+- TOP 3.6.5.: Neumarkter Str. 86
+- TOP 3.6.6.: Josephsburgstr. 35 - 37
+- TOP 3.6.7.: Josephsburgstr. 120, 120 a
+- TOP 3.6.8.: Hansjakobstr. 117 -117 c
+- TOP 3.6.9.: Truderinger Str. 140 b, c
+- TOP 3.6.10.: Eibenstockstr. 13
+- TOP 3.6.11.: Kinkstraße 4
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich) - Bahnlinie München - Rosenheim (südlich) - Ergebnis des städtebaulichen und landschaftsplanerischen - Ideenwettbewerbs - Weiteres Verfahren
+- TOP 4.1.1.2.: PERSPEKTIVE MÜNCHEN ? Münchner Stadtteilstudie 2009 - Bekanntgabe -
+- TOP 4.1.1.3.: PERSPEKTIVE MÜNCHEN ? Zentrenkonzept ? Broschüre -
+- TOP 4.1.1.4.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1.Kaufpreisobergrenzen im München Modell-Eigentum 2.EU will deutsches Einheimischenmodell kippen ? ist München auch betroffen Antrag Nr. 08-14 / A 01652 der Stadtratsfratkion der CSU vom 29.06.2010 3.Aufhebung einschränkender Bedingungen für Bewerbungen von Baugemeinschaften
+- TOP 4.1.1.5.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung Verleihung der Ehrenpreise 2010
+- TOP 4.1.1.6.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2010 ? 30.06.2010 - Bekanntgabe -
+- TOP 4.1.1.7.: SWM Jahresbericht 2009
+- TOP 4.1.1.8.: MVV Verbundbericht 2009
+- TOP 4.1.1.9.: GEWOFAG : Energetische Modernisierung und Anbau von Balkonen in der Wohnanlage in der Berg-am-Laim-Straße, Dornbergstraße, Isareckstr. und Freisinger Straße (380 WE)
+- TOP 4.1.1.10.: GWG ? Jahresbericht 2009
+- TOP 4.1.1.11.: GWG ? Bauvorhaben Krumbadstr. 1 & 3-37 - Verweigerung der Nachbarzustimmung
+- TOP 4.1.1.12.: GWG ? Bauvorhaben Krumbadstr. / Bad-Schachener-Str. - Öffentl. Belange i.d. Bauzeit
+- TOP 4.1.1.13.: GWG ? Grundstücksgeschäft Krumbadstr. / Großgmainer Straße
+- TOP 4.1.1.14.: Berg-am-Laim-Straße ? Sachstand Ehemalige Landwirtschaftsschule
+- TOP 4.1.1.15.: Weißpfennigweg ? Abbruchanzeige
+- TOP 4.1.1.16.: Kreillerstr. 71 ? Unveränderte Fortführung ?Lounge 35?
+- TOP 4.1.1.17.: Berg-am-Laim-Str. 99 ? Einrichtung einer Partnerfiliale der Deutschen Post AG
+- TOP 4.1.1.18.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.19.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte
+- TOP 4.1.2.1.: Parkraummanagement in München ? Sektor IV (Teilbereiche der Stadtbezirke 7, 14 & 17) a) Beschluss von sechs und Einführung von zunächst vier weiteren Parkraummanagementgebieten im Sektor IV (Teilbereiche des 7., 14. und 17. Stadtbezirks) b) Bereitstellung von Personal- und Sachmitteln
+- TOP 4.1.2.2.: Parklizenzen auch für Inhaber von Zweitwohnungen
+- TOP 4.1.2.3.: Rohrkanalsanierung 2010 ? Berlingerweg und Bertschstraße - Gesamtkosten
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Erweiterung und Umbau der Hauptschule und des Sonderpädagogischen Förderzentrums mit Interimsmaßnahme Containerschule am Innsbrucker Ring 75 / Echardinger Grünstreifen ? Projektkosten / Projektgenehmigung
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Umsetzung des Teilplan 4 ? Tageseinrichtungen, Tagespflege ? Teil B - Bedarfsplanung
+- TOP 4.4.2.: Beschlussvorlage zu den Bürgerversammlungsempfehlungen im 14. Stadtbezirk ?Keine Unterbringung von heranwachsenden unbegleiteten männlichen Flüchtlingen aus dem Irak im Anwesen Baumkirchner Straße 17, ?Hotel Eisenreich?? ( Empfehlung Nr. 08-14 / E 00552 ) ?Keine Anmietung des Anwesens Baumkirchner Straße 17, ?Hotel Eisenreich?, in Berg am Laim zur Unterbringung von heranwachsenden unbegleiteten männlichen Flüchtlingen aus dem Irak: keine Verschwendung von Fördermitteln, keine Gefährdung der Sanierungsziele des Projekts ?Soziale Stadt?, nochmalige Prüfung und Abstimmung der Situation mit den Bürgerinnen und Bürgern in Berg am Laim? ( Empfehlung Nr. 08-14 / E 00553 )
+- TOP 4.5.1.: Außenvertretung der Bezirksausschüsse
+- TOP 4.5.2.: Rückmeldung der Projektleitung Raucherprävention Ludwig-Thoma-Realschule
+- TOP 4.6.1.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
