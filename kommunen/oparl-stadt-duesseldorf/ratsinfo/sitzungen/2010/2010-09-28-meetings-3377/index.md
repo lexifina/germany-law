@@ -1,0 +1,65 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-09-28T17:00:00+02:00
+- Ende: 2010-09-28T21:20:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3377
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3377
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146596.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146596.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146596.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Vorstellung der Bürgerstiftung Gerricus - zur Kenntnis genommen
+- TOP 4: Kanalprojekt Hardtstraße - zur Kenntnis genommen
+- TOP 5: Masterplan Energieeffiziente Straßenbeleuchtung - zur Kenntnis genommen
+- TOP 6: Abbruchantrag Metzkauser Str.6 - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Abbruchantrag Dornaper Straße - einstimmig beschlossen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Gutachterverfahren "Gerresheim Süd verbinden" - einstimmig beschlossen
+- TOP 11: Widmung Ursula-Trabalski-Straße - einstimmig beschlossen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 12.1: Ergebnisse aus der Vorbesprechung - einstimmig beschlossen
+- TOP 13: Trödelmärkte Sportplatz Dreherstraße - einstimmig beschlossen
+- TOP 14: Straßenbeleuchtung B7/Stratenweg - einstimmig beschlossen
+- TOP 15: Schandfleck Bertastraße - einstimmig beschlossen
+- TOP 16: Unfallgefahr Anliegerweg Pillebach - einstimmig beschlossen
+- TOP 17: Rampe Wendekreis Taubenbergstraße - einstimmig beschlossen
+- TOP 18: Planstraßen im Bezirk 7 - einstimmig beschlossen
+- TOP 19: Zamenhofweg/Kurve Bertastraße - einstimmig beschlossen
+- TOP 20: Wege im Ortskern von Gerresheim - einstimmig beschlossen
+- TOP 21: Hagener-/Quadenhofstraße - einstimmig beschlossen
+- TOP 22: Jugend- und Schulentwicklung - einstimmig beschlossen
+- TOP 23: Informationen aus dem Amt für Verkehrsmanagement - einstimmig beschlossen
+- TOP 24: Bebauungspläne Ostparksiedlung - mehrheitlich beschlossen
+- TOP 25: Fahrradabstellplatz Alter Markt - einstimmig beschlossen
+- TOP 26: Spielplatz Diepenpark - einstimmig beschlossen
+- TOP 27: Regenrückhaltebecken Knittkuhl - einstimmig beschlossen
+- TOP 28: Schleichverkehr Diepen - Hallesche Straße - zur Kenntnis genommen
+- TOP 29: Baumaßnahmen Gutenbergschule - zur Kenntnis genommen
+- TOP 30: Spielplatz Hülsmeyerstraße - zur Kenntnis genommen
+- TOP 31: Baumfällungen an der Gerricusstraße - zur Kenntnis genommen
+- TOP 32: Kleinpflaster Neusser Tor/Kölner Tor - zur Kenntnis genommen
+- TOP 33: Nachverdichtung Ostpark-Siedlung - zur Kenntnis genommen
+- TOP 34: Gerresheim Süd verbinden - zur Kenntnis genommen
+- TOP 35: Hexenstein-Platz - zur Kenntnis genommen
+- TOP 36: Bänke in der Heyestraße - zur Kenntnis genommen
+- TOP 37: Gerresheimer Bahnhof - zur Kenntnis genommen
+- TOP 38: Verrohrung Pillebach - zur Kenntnis genommen
+- TOP 39: Rheinbahn-Haltestelle "Sulzbachstraße" - zur Kenntnis genommen
+- TOP 40: Spielplatz Gerricusstraße I + II - zur Kenntnis genommen
+- TOP 41: Notzufahrt Wohnsiedlung Blanckertzstraße - zur Kenntnis genommen
+- TOP 42: Gehwege im Bereich des Pillebachs - zur Kenntnis genommen
+- TOP 43: Spielplatz an der Hundewiese - zur Kenntnis genommen
+- TOP 44: Aufstellung von Bebauungsplänen - zur Kenntnis genommen
+- TOP 45: Parken auf Bürgersteigen - zur Kenntnis genommen
+- TOP 46: Wegweisung zum Parkplatz Gerricusstraße - zur Kenntnis genommen
