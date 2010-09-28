@@ -1,0 +1,7 @@
+# TOP .3.: Fahrradstellplatzkonzept - Maßnahmestandort Lindwurmstraße: Ergebnis des Ortstermins (Baureferat u. BA)
+
+- Sitzung: BA 02 - Vollgremium (2010-09-28)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/294062
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/294062
