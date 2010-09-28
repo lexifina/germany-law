@@ -1,0 +1,94 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-09-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829276
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829276
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Gestaltung von Unterführungen mit Graffiti durch die "Writers Corner München": Fraunhoferstraße (gen. Unterfahrt) und Zweibrückenstraße
+- TOP .1.: (E) Budget der Bezirksausschüsse Pfarrei St. Paul Jugendfahrt nach Assisi mit MinistrantInnen vom 06. - 12.09.2010
+- TOP .2.: (E) Budget der Bezirksausschüsse Bund der Selbständigen - Gewerbeverband Bayern e.V., Initiative Südliches Bahnhofsviertel Projekt "Respect us" am 31.07. und 25.09.2010
+- TOP .3.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung St. Andreas Konzert am 26.11.2010
+- TOP .4.: (E) Budget der Bezirksausschüsse Kunstzentrat e.V. Veranstaltungsreihe vom 10. - 25.09.2010 im Import Export
+- TOP .5.: (E) Budget der Bezirksausschüsse Freizeitliga Isarvorstadt e.V. Jugendtreff Tröpferlbad, Fest zum Weltkindertag am 24.09.2010
+- TOP .6.: BA-Budget: Digitalanalog, Fotoworkshop für Kinder - Fristverlängerung
+- TOP .7.: (E) Budget der Bezirksausschüsse Pfarrei St. Paul Historische Ausstellung vom 17.10. - 25.01.11
+- TOP .1.: Antrag auf Verlängerung der Öffnungszeiten der städtischen Freibäder (BA-Antrag Nr. 08-14 / B 02299); Rückmeldungen der BAs
+- TOP .2.: Bezuschussung aus dem Budget des BA 9; Anträge des Vereins LiLaLu e.V.; Schreiben des Oberbürgermeisters
+- TOP .3.: BA-Budget: Green City - Wanderbaumallee (Budgetbericht)
+- TOP .4.: Verlängerung der Öffnungszeiten der Städtischen Freibäder
+- TOP .5.: Stammesheim Pfadfinder Pegasus: 1. Welche Pläne bestehen über die Nutzung des Anwesens Pestalozzistraße 62? 2. Der Bezirksausschuss 2 bittet die Verwaltung über das Gutachten informiert und bei der weiteren Planung miteinbezogen zu werden.
+- TOP .6.: Öffnung des Sportplatzes der Grundschule an der Tumblingerstraße in den Ferien und am Wochenende
+- TOP .7.: Vorkaufsrecht nach dem BauGB, Unterrichtung der Bezirksausschüsse: - Fleischerstr. - Lindwurmstr. - Kapuzinerplatz
+- TOP .8.: Umsetzung Teilplan 4: Tageseinrichtungen, Tagespflege - Teil B, Bedarfsplanung Kindertagesbetreuung; Beschluss Kinder- und Jugendhilfeausschuss vom 21.09.2010
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Anpflanzung von Bäumen zwischen Wittelbacher- und Eisenbahnbrücke
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Adlzreiterstr. 34: DG-Ausbau und EG-Umbau (UA)
+- TOP .2.: Klenzestr. 51: Ausbau, Umbau, Modernisierung sowie Nutzungsänderung im DG (UA)
+- TOP .3.: Schwanthalerstr. 88: Nutzungsänderung im 2. + 3. OG (UA)
+- TOP .4.: Fraunhoferstr. 43: Neubau Wohn- und Geschäftshaus (UA)
+- TOP .5.: Bavariaring 25: Nutzungsänderung (UA)
+- TOP .6.: Thalkirchner Str. 39: Nutzungsänderungen und Einbau Wendeltreppe (UA)
+- TOP .7.: Erhardtstr. 27: Befristete Auslagerung der Kantinenküche, Nutzungsänderung
+- TOP .8.: Augsburgerstr. 14: Nutzungsänderung, Anbau verglaster Verbindungsgang, Aufbau extensive Begrünung (Flachdach u. Verbindungsgang), Anbau Fluchttreppe
+- TOP .9.: Schwanthalerstr. 24: Nutzungsänderung
+- TOP .10.: Zenettistr.: Nutzungsänderung Gesamtstellplatznachweis für das Gelände Viehhof
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Isartalstr.
+- TOP .2.: Schwanthaler Str. 95-97
+- TOP .3.: Tumblingerstr. 13
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Anpassung Parkraummanagement "Dreimühlenviertel" - Verbesserung der Erreichbarkeit für Gewerbe und Praxen in der östlichen Ehrengutstraße/nördliche Isartalstraße; BA-Antrag Nr. 08-14 / B 02094
+- TOP .2.: Beschleunigung der Buslinie 100
+- TOP .3.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke (EilE)
+- TOP .2.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP .3.: Fahrradstellplatzkonzept - Maßnahmestandort Lindwurmstraße: Ergebnis des Ortstermins (Baureferat u. BA)
+- TOP .1.: Anliegen des UA PB: Spartenverteilung im Stadtbezirk
+- TOP .2.: Bürgeranliegen: Umgestaltung der Grünfläche Ecke Rumford- / Klenzestraße
+- TOP .3.: Bürgeranliegen: Schutz der Kastanie in der Haydnstr. 9 (durch Steine)
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Café Maxi: Fahrradständer
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Erweiterung Freischankfläche: Wittesacherstr. 15
+- TOP .2.: Änderung Freischankfläche: Buttermelcherstr. 5
+- TOP .3.: Genehmigung Freischankfläche: Schillerstr. 27
+- TOP .4.: Aufhebung der Sperrzeit: Bayerstr. 49
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Fanfarenumzug am 23.10.2010 von der St.-Pauls-Kirche über die Theresienhöhe zur alten Kongesshalle
+- TOP .2.: Isarlust auf der alten Braunauer Eisenbahnbrücke vom 22.-31.20.2010
+- TOP .3.: Stephansplatz Christkindlmarkt Pink Christmas vom 03.12.-23.12.2010
+- TOP .3.2: Verkehr
+- TOP .1.: Einrichtung allgemeiner Behindertenparkplatz: Goethestr. 74
+- TOP .2.: Ladezone Goethestr. 25
+- TOP .1.: Unveränderte Gaststättenfortführung: - Kapuzinerstr. 31: Sushibar Bambusstäbchen - Klenzestr. 62: Rubico - Schwanthalerstr. 8: Ratchada
+- TOP .2.: Verbesserung der Ausschilderung im Umfeld des neuen ZOB AW: Beschilderung wurde bereits optimiert.
+- TOP .3.: Verkehrsrechtliche Anordnung: - Mischparkregelung Rumforstraße / östlich Klenzestraße - Einrichtung personenbezogener Behindertenparkplatz: Frauenlobstr. 5 - Öffnung der Klenzestraße zwischen Rumford- und Buttermelcherstraße für den gegenläufigen Radverkehr
+- TOP .4.: Filmaufnahmen auf öffentlichem verkehrsgrund (1)
+- TOP .5.: Verbesserung der Verkehrssituation an der Einmündung der Rumford- in die Baaderstraße AW: Rumfordstraße wird nicht als Sackstraße ausgewiesen, lückenlose Verkehrsüberwachung ist weder möglich noch wünschenswert (nur allgemeiner Streifendienst)
+- TOP .6.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte
+- TOP .7.: Bürgeranliegen aus der Sitzung 07/10: Stachus UG Rückmeldung der SWM
+- TOP .1.: Bürgeranliegen: Querungsmöglichkeit am Holzplatz
+- TOP .2.: Obst- und Gemüsestand auf dem Gehweg Zweibrückenstr. / Ecke Morassistr. (AW des Bay. Landesverbands der Marktkaufleute) und Allgemeines zur Zusammenarbeit Landesverband / BA
+- TOP .3.: Bürgeranliegen: Forderung zu mehr Nichtraucherschutz von Gaststättenanwohnern
+- TOP .4.: Bürgeranliegen: verbesserung der Situation an der Kreuzung Baader- / Corneliusstraße
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Außenvertretung der Bezirksausschüsse; Information des Direktoriums (z.K.)
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
