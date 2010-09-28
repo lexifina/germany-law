@@ -1,0 +1,113 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-09-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818977
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818977
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Unterstützung von Stadtteilfesten und Stadtteilaktivitäten (Schreiben des BA 9 an das Direktorium)
+- TOP .1.: Fahrradständer in der Hohenzollernstrße
+- TOP .11.: sonstiges
+- TOP .1.: Zwischennachrichten zu BA-Anträgen und BV-Empfehlungen (Unterrichtung) a) Workshop zur Neugestaltung der Münchner Freiheit b) Erschließung des Euoparks c) Teil- / Untertunnelung des Isarrings durch den Englischen Garten d) Absenkung des Isarrings zwischen Iffland-/ Dietlindenstraße und Führung im Tunnel auf einer Länge von ca. 300m mit provisorischer Verkehrsführung von insgesamt 5 Fahrspuren e) Ein Englischer Garten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Einleitung geeigneter baulicher Maßnahmen zur Verkehrsberuhigung in der Karl-Theodor-Straße
+- TOP 3: (E) Lärmschutz an der Heidemannstraße Erstellung eines Aktionsplanes für den Lärmschutz in der Heidemannstraße Empfehlung Nr. 08-14 / E 00090 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 08.07.2008 Schließung des Lärmschutzwalls an der Heidemannstraße 207 Empfehlung Nr. 08-14 / E 00334 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 07.07.2009
+- TOP 3.1.: Überprüfung der Durchfahrtsituation für Schulbusse im Bereich östlicher Josef-Wirth-Weg und nördliche Kulturheimstraße
+- TOP 3.2.: Lichtzeichenanlage Domagk- / Walter-Gropius-Straße (LZA 1186)
+- TOP 3.3.: Einrichtung einer Ladezone in der Marschallstraße 3
+- TOP 3.1.: Zugangssteuerung zu den Parkplätzen am Ungererbad
+- TOP 3.2.: Instandsetzung der Unterführung am Eisbach, in Höhe der Leinthalerstraße
+- TOP 3.4.: Entwicklung eines Konzepts zur Entsorgung der ständig zunehmenden To-Go und Fast Food Abfälle in Schwabing
+- TOP 3.1.: Verlegung der Haltestelle "Dietlindenstraße" der Linie 144 (Fahrtrichtung Scheidplatz)
+- TOP 3.2.: Errichtung eines Verkehrshelferüberganges in der Bauernfeindstraße
+- TOP 3.1.: Verkehrsrechtliche Erlaubnis zur Durchführung des Straßenfestes "School's over Jam auf dem Forum Platz der Münchner Freiheit am 30.07.2010
+- TOP 3.2.: Fahrradabstellkonzept (1. Realisierungsabschnitt) a) Ergebnisse der Detailuntersuchungen und weiteres Vorgehen b) Kostendarstellung c) diverse Anträge Beschluss des Bauausschusses vom 06.07.2010 Sitzungsvorlage Nr. 08-14 / V 04606
+- TOP 3.3.: Umlaufsperren am Radweg entlang der Tram 23 - Parkstadt Schwabing Schreiben der SWM zu einem Bürgeranliegen
+- TOP 3.4.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP 3.5.: Wegbeschilderung von der U-6 Haltestelle Freimann zur Mohr-Villa (Schreiben des KVR, 11.08.2010)
+- TOP 3.6.: Vermüllung des Vorplatzes vor der Kath. Pfarrkirche am Kaiserplatz 1 (Schreiben des Baureferates zu TOP D.4.2./07/10
+- TOP 3.7.: Lärmbelästigung auf dem Öffentlichem Grund zwischen Gunta-Stölzl-Str. 7 bis 15 und Lilly-Reich-Str. (Schreiben der Hausverwaltung; Antwortschreiben des KVR)
+- TOP 3.8.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen (Schreiben des Referats für Stadtplanung und Bauordnung vom 30.08.2010)
+- TOP 3.9.: Google Street View (Schreiben des OB vom 05.08.2010 zum Schreiben des BA 16 Ramersdorf-Perlach und Antrag des BA 21 Pasing-Obermenzing vom 06.07.2010 Nr. 08-14 / B 02244 - Auslegung von Listen gegen Google Street View -
+- TOP 3.10.: Verkehrsverbesserung im Bereich Osterwaldstraße (Antwort des Baureferats-Gartenbau auf ein Bürgeranliegen)
+- TOP 3.11.: Wiederherstellung der Wohnqualität im Bereich Grusonstraße / Ecke Schmidbartlanger (Schreiben des KVR vom 19.08.2010)
+- TOP 3.12.: Lichtzeichenanlage Friedrich- / Georgenstraße
+- TOP 3.13.: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte- und Maschinenlärmschutzverordnung, Ausnahmezulassung, Hohenzollernstraße 12, vom 09.09. bis 10.09.2010 von 20.00 bis 06.00 Uhr
+- TOP 3.14.: Elektroplanung auf allen Standorten der Münchner Wochen- und Bauernmärkte (Schreiben der Markthallen vom 24.08.2010)
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Freizeittreff Freimann Theaterstück "Der Kaufmann von Venedig" von Oktober 2010 bis Februar 2011
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Axè München e.V. Projekt "Capoeira" im Schuljahr 2010/2011
+- TOP 3.1.: Massive Ruhestörungen an den Wochenenden durch die Gaststätte ?Papatakis?
+- TOP 3.1.: Künstlerisches Graffiti in Freimann
+- TOP 3.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 3.1.: Lychee Garden, Schank- und Speisewirtschaft, Ingolstädter Straße
+- TOP 3.2.: Cap & Cino; Schank- und Speisewirtschaft, Wilhelm-Hertz-Straße
+- TOP 3.3.: HendlHouse, Schank- und Speisewirtschaft, Situlistraße
+- TOP 3.4.: Body & Soul Wellnessanlage und Fitnessstudio Englischer Garten, Ausschank in einer Sportstätte, Ungererstraße
+- TOP 3.5.: Vormals: Ju Lounge Bar Club, neuer Name noch nicht bekannt, Schank- und Speisewirtschaft, Feilitzschstr. 7
+- TOP 3.1.: Zuwendungsbewilligungen (Bescheide) für Zuwendungen aus dem Budget des BA 12 a) Kinderschutz e.V. für die Maßnahme: Zirkus-Mitmachtag am 11.08.2010 b) KuVe Kulturverein Alte Heide e.V. für die Maßnahme: Nachbarschaftsfest am 28.08.2010 (Zurückgezogen am 01.09.2010) c) Theater des Hölzernen Gelächters für die Maßnahme: Theaterproduktion von Juni bis September 2010 d)Theater Heppel & Ettlich für die Maßnahme: Projekt ?Theater für Migranten? e)Generationszentrum e.V. Kindergarten Mini-Timmi für die Maßnahme: Kauf eines Kletterturms und zwei Fallschutzmatten Ablehnungen / Zurückforderungen: 1) Ablehnung: Hasting Studio für zeitgenössichen Tanz für die Maßnahme: Tanzaufführung (Beischeid) 2) Ablehnung: Mohr-Villa Freimann e.V. für die Maßnahme: Wiedereröffnungsfeier (Schreiben des Herrn OB Ude vom 08.07.2010) 3) Ablehnung: Nikodemuskirche für die Maßnahme: Straßenfest am 11.07.2010 4) Rückforderung: Kreisjugendring München Stadt, Freizeittreff Freimann für die Maßnahme: Projekt ?Gut drauf?
+- TOP 3.2.: Anträge des Vereins Lilalu e.V. auf Bezuschussung des Sommerferienprogramms "Umsonst & Draußen" (Schreiben des Herrn OB Ude vom 16.07.2010)
+- TOP 3.3.: Sachberichte über die Verwendung von Zuschüssen aus dem Budget des BA 12 a) Seidlvilla für die Maßnahme: Sommerfest 2010 b) Evang.-Luth.-Erlöserkirche für die Maßnahme: Konzert "das Lied von der Erde", G. Mahler c) Initiative ?84 Ghz? für die Maßnahme: Projekt ?Kunst im Karrée? vom 09.-11-07.2010
+- TOP 3.4.: Erweiterung um 15 Plätze in der städtischen Kindertageseinrichtung Fröttmaninger Str. 23 / Alte Heide 3
+- TOP 3.5.: Erregung öffentlichen Ärgernisses und Lärmbelästigung bei Veranstaltungen im Zenith und Kesselhaus (Bürgeranliegen aus 06/10 - Antwort des Zenith vom 05.08.2010; Schreiben des KVR vom 05.08.2010)
+- TOP 3.6.: Kinderbetreuungsplätze in der Landeshauptstadt München, Statistikblatt, stand 01.07.2010
+- TOP 3.7.: Versammlungen / Veranstaltungen: a) Aktion (PARK)ing DAY im Rahmen der Münchner Nacht der Umwelt, Leopoldstraße 17 am 17.09.2010 b) Gegen Scientology am 18.09.2010, Leopoldstraße 49 c) Für einen gerechten Frieden im Nahen Osten ? Ende der Besatzung am 08.10.2010, Münchener Freiheit nördl. des Forums
+- TOP 3.8.: Anerkennung von Plätzen in der Kindertageseinrichtung Leopoldstraße 149
+- TOP 3.9.: Anträge des Vereins Lilalu e.V. vom 18.02.2010 auf Bezuschussung des Sommerferienprogramms ?Umsonst & Draußen? vom 13. bis 29.08.2010 (BA 9); Schreiben des OB vom 06.08.2010 siehe auch TOP C.5 3 2.
+- TOP 3.10.: Umsetzung dese Teilplanes 4, Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010 Sitzungsvorlage Nr. 08-14 / V 03539
+- TOP 3.11.: Genehmigung : Streetlife Festival / Corso Leopold mit Bio-Markt am 11.09. und 12.09.2010
+- TOP 3.1.: Widerruf einer genehmigten Verkaufseinrichtung ? Warenstellage ? Heidemannstr. 8
+- TOP 3.2.: Antrag über die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund 2 Kleiderständer in der Hohenzollernstraße 25
+- TOP 3.3.1.: Baumfällungen
+- TOP 3.1.: Josef-Raps-Straße 3-5, 2 Birken, 1 Robinie
+- TOP 3.2.: Burmesterstr. 4 / 6 / 6a; 3 Vogelkirschen, 1 Birke (2-stämmig)
+- TOP 3.3.: Königinstr. 95, 1 Robinie
+- TOP 3.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/43 und Bebauungsplan mit Grünordnung Nr. 2012, Otto-Sendtner-Straße (beiderseits), Isar (westlich) ? Gärtnersiedlung Freimann -
+- TOP 3.2.: Königinstraße 28, Flurstück: 3179/0, Neubau eines unterirdischen Konferenzzentrums - Vorbescheid
+- TOP 3.3.: Ingolstädter Straße, Flurstück 228/8, Neubau eines Geschäftshauses mit zwei Läden und Bürotrakt
+- TOP 3.4.: Pferggasse, Fl.Nr.: 309/557, Neubau eines Zweifamilienhauses
+- TOP 3.5.: Verkauf einer städtischen Immobilie, Frankfurter Ring (MK3)
+- TOP 3.1.: Sozial verträglicher Verkauf der Wohnungen der GBW AG
+- TOP 3.2.: Werbetafeln in U-Bahnhöfen
+- TOP 3.3.: Verbesserung der sozialen Infrastruktur und Gestaltungsvielfalt im zukünftigen Baugebiet Domagkstraße
+- TOP 3.5.2.: Genehmigte Baumfällungen
+- TOP 3.1.: Bauernfeindstraße 5, 1 Weide (mehrstämmig)
+- TOP 3.2.: Maria-Josepha-Str. 4, 1 Bergahorn
+- TOP 3.3.: Mannheimer Str. 5, 1 Fichte (Ablehnung)
+- TOP 3.4.: Schwedenstraße 60a, 1 Eberesche, dreistämmig
+- TOP 3.5.: Ladenburger Straße 3, Fl.Nr. 529/12, 2 Fichten
+- TOP 3.1.: Monitore in allen U-Bahnwaggons a) Bezirksausschuss 22 Aubing-Lochhausen-Langwied b) Bezirksausschuss 10 Moosach c) Bezirksausschuss 15 Tridering-Riem d) Bezirksausschuss 13 Bogenhausen
+- TOP 3.2.: Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken Beschluss des Bauausschusses vom 06.07.2010 Sitzungsvorlage Nr. 08-14 / V 01925
+- TOP 3.3.: Instandhaltungsmaßnahmen an der St.-Emmeram-Brücke Vorbehandlung- und Beschichtungsarbeiten an Konstruktionshölzern vom 16.08.2010 (Dauer ca. 4 Wochen)
+- TOP 3.4.: Baumaßnahmen der Stadtwerke München a) Erdgasprojekt Leopoldstraße 98 b) Stromprojekt Wilhelmstraße c) Fernwärme Rümannstraße 84 d) Fernwärme Ifflandstraße bei Haus 40 e) Fernwärme Erschließung Domagkstraße Süd f) Stromprojekte in der Lindberghstraße 21 und Leopoldstraße 250
+- TOP 3.5.: Haimhauserstr. 13, Nutzungsänderung einer Wohneinheit (Antwort des Planungsreferates zum TOP B.3.2.8/06/10; 22.07.2010)
+- TOP 3.6.: Bebauungsplan mit Grünordnung Nr. 1943 b Frankfurter Ring (südlich), A 9 Berlin-München (westlich) und Domagkstr. (nördlich) - ehemalige Funkkaserne -
+- TOP 3.7.: Mies-van-der-Rohe-Straße 8, Genehmigung einer Lichtwerbeanlage am HighLight Tower 2
+- TOP 3.8.: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen in Erhaltungssatzungsgebieten Empfehlung Nr. 08-14 / E00429 der Bürgerversammlung des Stadtbezirkes 2 ? Ludwigvorstadt-Isarvorstadt Beschluss der Vollversammlung des Stadtrates vom 28.07.2010 Sitzungsvorlagen Nr. 08-14 / V 04578
+- TOP 3.9.: Landesentwicklungsprogramm Beschluss der Vollversammlung des Stadtrates vom 28.07.2010 Sitzungsvorlagen Nr. 08-14 / V 04629
+- TOP 3.10.: Widmung von zwei Teilstrecken der Marianne-Brandt-Straße, Beschluss des BA 12 vom 31.08.2010 Sitzungsvorlage Nr. 08-14 / V 04846
+- TOP 3.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 3.2.: sonstige Termine
+- TOP 3.1.: ?Das Schulreferat trifft die Bezirksausschüsse? Mitteilung der Termine 2011
+- TOP 3.1.: Anträge
+- TOP 3.5.: Unterrichtungen
+- TOP .4.: Sitzungstermine 2011
+- TOP 3.2.: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4.: Bürgeranliegen
+- TOP 3.5.2.: Verkehrsrechtliche Anordnungen
+- TOP 3.3.2.: Sonstige Anhörungen
+- TOP 3.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 3.5.3.: Sonstige Unterrichtungen
