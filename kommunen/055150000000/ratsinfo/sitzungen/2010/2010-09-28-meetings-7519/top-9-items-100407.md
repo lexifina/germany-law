@@ -1,0 +1,8 @@
+# TOP 9: Anpassung des städtischen Belegungsmanagements zur Unterstützung Wohnungssuchender
+
+- Sitzung: Sitzung (2010-09-28)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/100407
+- Ergebnis: zur Kenntnis genommen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/44405
