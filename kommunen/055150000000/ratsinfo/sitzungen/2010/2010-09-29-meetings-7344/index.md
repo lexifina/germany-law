@@ -1,0 +1,67 @@
+# 7. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-09-29T17:08:00+02:00
+- Ende: 2010-09-29T21:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7344
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7344
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00298121.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der FDP-Fraktion an den Rat Nr. A-R/0059/2010 "Auszeichnung - Münsteraner zeigen Zivilcourage" - mehrheitlich beschlossen
+- TOP 2.2: Antrag der Fraktion Die Linke an den Rat Nr. A-R/0049/2010 "Münster als Stadt des Friedens - Volkstrauertag anders begehen" - mehrheitlich beschlossen
+- TOP 2.3: Antrag der FDP-Fraktion Nr. A-R/0058/2010 - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Die Linke. an den Rat Nr. A-R/0013/2010 - einstimmig beschlossen
+- TOP 2.5: Antrag Nr. A-R/0055/2010 der SPD-Fraktion im Rat der Stadt Münster vom 31.05.2010 "Schulterschluss mit der Region. Für eine Strategie der interkommunalen Partnerschaft" - einstimmig beschlossen
+- TOP 2.6: Antrag Nr. A-R/0063/2010 der SPD-Fraktion im Rat der Stadt Münster vom 29.06.2010 - einstimmig beschlossen
+- TOP 2.7: Antrag der Fraktion Bündnis 90/Die Grünen/GAL NR. A-R/0050/2010: "Aktionsplan 'Inklusives Gemeinwesen Stadt Münster' " - einstimmig beschlossen
+- TOP 3: Beitritt zur Deklaration "Biologische Vielfalt in Kommunen" - einstimmig geändert beschlossen
+- TOP -: Beratung von Berichtsvorlagen an den Hauptausschuss
+- TOP 4: Öffentlichkeit und Transparenz beim Promenadenflohmarkt herstellen - Antrag der Ratsfraktion DIE LINKE im Rat der Stadt Münster Nr. AH/0001/2010 vom 09.06.2010 - einstimmig geändert beschlossen
+- TOP 5: Bericht zur Unterbringung von Flüchtlingen in den städtischen Wohnheimen - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Neufassung der Rechnungsprüfungsordnung der Stadt Münster - einstimmig beschlossen
+- TOP 7: Entwurf des Jahresabschlusses zum 31.12.2009 der Stadt Münster - einstimmig beschlossen
+- TOP 8: Umstrukturierung Regionalverkehr Münsterland GmbH (RVM) - ohne Beschlussfassung geschoben
+- TOP 9: Ausschreibung der Stelle des Generalintendanten/der Generalintendantin der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 9.1: Ausschreibung der Stelle des Generalintendanten/der Generalintendantin der Stadt Münster
+- TOP 10: Jugendrat der Stadt Münster- Weiterentwicklung und Profilschärfung - ohne Beschlussfassung geschoben
+- TOP 10.1: Jugendrat der Stadt Münster- Weiterentwicklung und Profilschärfung
+- TOP 11: Kindertagesbetreuungsbericht 2010/2011 - einstimmig beschlossen
+- TOP 12: Grundsicherung für Arbeitssuchende (SGB II), Vorbereitung der gemeinsamen Aufgabenwahrnehmung durch die Stadt Münster und die Agentur für Arbeit Münster in einer gemeinsamen Einrichtung - Jobcenter Münster für bzw. ab 2011 - ohne Beschlussfassung geschoben
+- TOP 13: Neuorganisation des SGB II, Hier: Empfehlung der Verwaltung für die Organisation der SGB II Aufgabenwahrnehmung ab 2012 in der Form des Optionsmodells - ohne Beschlussfassung geschoben
+- TOP 14: Finanzielle Beteiligung der Kommunalen Stiftung Siverdes an der Fotovoltaikanlage auf der Zentraldeponie Münster II - einstimmig beschlossen
+- TOP 15: Anregung §24 GO NRW Aufgabe des Spielplatzes "Pater-Kolbe-Straße" in Amelsbüren - von der Tagesordnung abgesetzt
+- TOP 16: Anregung gem. § 24 GO NRW, Nr. 74/2010 - Erlass einer Baumschutzsatzung für die Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 17: Beirat für Klimaschutz Münster - Vorschläge für die Besetzung, Aufgaben und Organisation - von der Tagesordnung abgesetzt
+- TOP 18: Bewerbung der Stadt Münster als "Fairtrade-Stadt" im Rahmen der internationalen Kampagne "Fairtrade-Towns" des Vereins "TransFair e.V." - einstimmig beschlossen
+- TOP 19: Bauleitplanung
+- TOP 19.1: Stadtbezirk West
+- TOP 19.1.1: 22. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 536 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 19.2: Stadtbezirk Hiltrup
+- TOP 19.2.1: Bebauungsplan Nr. 483, 1. Änderung - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 19.2.2: Teilaufhebung des Bebauungsplanes Nr. 483:Amelsbüren - Hansa-Businesspark - ohne Beschlussfassung geschoben
+- TOP 19.3: Stadtbezirk Nord
+- TOP 19.3.1: Bebauungsplan Nr. 134 II (Neufassung), 1. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 19.3.2: Bebauungsplan Nr. 210, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 19.4: Stadtbezirk Südost
+- TOP 19.4.1: 1. Änderung des Bebauungsplanes Nr. 415: Wolbeck-Nord - einstimmig beschlossen
+- TOP 20: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 20.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP -: Beratung von Berichtsvorlagen an den Rat
+- TOP 22: Bürgerumfrage 2010: Ergebnisse der Fragenkomplexe "Einsparmöglichkeiten und Mehreinnahmen", "Ziele der Stadtentwicklung" - zur Kenntnis genommen
+- TOP 23: Bürgerversammlungen und Bürgerkonferenzen zum Haushalt und zum Konsolidierungskonzept - zur Kenntnis genommen
+- TOP 24: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2010 - zur Kenntnis genommen
+- TOP 25: Jahresbericht 2008 / 2009 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 26: Aktueller Stand zur Umsetzung des Migrationsleitbildes - ohne Beschlussfassung geschoben
+- TOP 27: 5. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2010 - einstimmig beschlossen
+- TOP 28: Verschiedenes
