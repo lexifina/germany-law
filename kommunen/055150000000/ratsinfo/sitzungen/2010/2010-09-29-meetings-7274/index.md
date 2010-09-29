@@ -1,0 +1,82 @@
+# 9. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-09-29T18:05:00+02:00
+- Ende: 2010-09-29T21:47:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7274
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7274
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00298308.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Sozialhilfekosten für eine spezielle Personengruppe
+- TOP 2.2: Verschuldungssituation der Stadt Münster
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Haushalt 2011
+- TOP 9.1: Bürgerumfrage 2010: Ergebnisse der Fragenkomplexe "Einsparmöglichkeiten und Mehreinnahmen", "Ziele der Stadtentwicklung" - zur Kenntnis genommen
+- TOP 9.2: Bürgerversammlungen und Bürgerkonferenzen zum Haushalt und zum Konsolidierungskonzept - zur Kenntnis genommen
+- TOP 9.3: Einbringung des Entwurfes der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2011Etatreden: Oberbürgermeister Markus Lewe
+- TOP 9.4: Neue Maßnahmen zum Haushaltsplan 2011 - einstimmig beschlossen
+- TOP 9.5: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2011 - einstimmig beschlossen
+- TOP -: Vorlagen zur Beschlussfassung
+- TOP 10: Neufassung der Rechnungsprüfungsordnung der Stadt Münster - einstimmig beschlossen
+- TOP 11: Entwurf des Jahresabschlusses zum 31.12.2009 der Stadt Münster - einstimmig beschlossen
+- TOP 12: Umstrukturierung Regionalverkehr Münsterland GmbH (RVM) - einstimmig beschlossen
+- TOP 13: Ausschreibung der Stelle des Generalintendanten/der Generalintendantin der Stadt Münster - einstimmig beschlossen
+- TOP 13.1: Ausschreibung der Stelle des Generalintendanten/der Generalintendantin der Stadt Münster
+- TOP 14: Jugendrat der Stadt Münster- Weiterentwicklung und Profilschärfung - einstimmig beschlossen
+- TOP 14.1: Jugendrat der Stadt Münster- Weiterentwicklung und Profilschärfung
+- TOP 15: Kindertagesbetreuungsbericht 2010/2011 - einstimmig beschlossen
+- TOP 16: Grundsicherung für Arbeitssuchende (SGB II), Vorbereitung der gemeinsamen Aufgabenwahrnehmung durch die Stadt Münster und die Agentur für Arbeit Münster in einer gemeinsamen Einrichtung - Jobcenter Münster für bzw. ab 2011 - mehrheitlich beschlossen
+- TOP 17: Neuorganisation des SGB II, Hier: Empfehlung der Verwaltung für die Organisation der SGB II Aufgabenwahrnehmung ab 2012 in der Form des Optionsmodells - mehrheitlich beschlossen
+- TOP 18: Finanzielle Beteiligung der Kommunalen Stiftung Siverdes an der Fotovoltaikanlage auf der Zentraldeponie Münster II - einstimmig beschlossen
+- TOP 19: Anregung §24 GO NRW Aufgabe des Spielplatzes "Pater-Kolbe-Straße" in Amelsbüren - von der Tagesordnung abgesetzt
+- TOP 20: Anregung gem. § 24 GO NRW, Nr. 74/2010 - Erlass einer Baumschutzsatzung für die Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 21: Beirat für Klimaschutz Münster - Vorschläge für die Besetzung, Aufgaben und Organisation - von der Tagesordnung abgesetzt
+- TOP 22: Bewerbung der Stadt Münster als "Fairtrade-Stadt" im Rahmen der internationalen Kampagne "Fairtrade-Towns" des Vereins "TransFair e.V." - einstimmig beschlossen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Münster-West
+- TOP 23.1.1: 22. Änderung FNP - Beschluss zur Änderung - Bebauungsplan Nr. 536 - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 23.2: Stadtbezirk Münster-Hiltrup
+- TOP 23.2.1: Bebauungsplan Nr. 483, 1. Änderung - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 23.2.2: Teilaufhebung des Bebauungsplanes Nr. 483:Amelsbüren - Hansa-Businesspark - mehrheitlich beschlossen
+- TOP 23.3: Stadtbezirk Münster-Nord
+- TOP 23.3.1: Bebauungsplan Nr. 134 II (Neufassung), 1. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 23.3.2: Bebauungsplan Nr. 210, 1. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 23.4: Stadtbezirk Münster-Südost
+- TOP 23.4.1: 1. Änderung des Bebauungsplanes Nr. 415: Wolbeck-Nord - einstimmig beschlossen
+- TOP 24: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster - einstimmig beschlossen
+- TOP 24.1: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster
+- TOP 25: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 25.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP -: Berichtsvorlagen an den Rat
+- TOP 27: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2010 - zur Kenntnis genommen
+- TOP 28: Jahresbericht 2008 / 2009 der Feuerwehr Münster - zur Kenntnis genommen
+- TOP 29: Aktueller Stand zur Umsetzung des Migrationsleitbildes - zur Kenntnis genommen
+- TOP 30: 5. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2010 - zur Kenntnis genommen
+- TOP -: Einbringung von Vorlagen
+- TOP 31: Rahmenkonzept zur Schulentwicklungsplanung - Vorlage eingebracht
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 32.1: Landesinstitut für Gesundheit und Arbeit" sowie "Krebsregister NRW" in Münster halten - einstimmig beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 33.1: Änderung der Geschäftsordnung für den Rat, seine Ausschüsse und die Bezirksvertretungen der Stadt Münster hier: Rechtsstatus der Gruppe UWG/ÖDP - verwiesen
+- TOP 33.2: Öffentliches Hearing zur Einzelhandelsentwicklung in Hiltrup: Transparenz und Beteiligung für BürgerInnen und Unternehmen sichern - Betroffene müssen Beteiligte werden! - verwiesen
+- TOP 33.3: Modellschulen in die Schulentwicklungsplanung aufnehmen und Auswirkungen darstellen - verwiesen
+- TOP 33.4: Starke Stadtwerke für Münster - verwiesen
+- TOP 33.5: Ausgaben kritisch analysieren - Städtische Stromversorgung preislich optimieren - verwiesen
+- TOP 33.6: Weitere Optimierung der Grundstücks- und Gebäudewirtschaft der Stadt Münster - verwiesen
+- TOP 33.7: Münster kauft fair - verwiesen
+- TOP 34: Verschiedenes
