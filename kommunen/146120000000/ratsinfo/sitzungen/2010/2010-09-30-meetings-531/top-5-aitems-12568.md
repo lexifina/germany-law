@@ -1,0 +1,8 @@
+# TOP 5: Umbesetzung im Betriebsausschuss für Sportstätten und Bäder
+
+- Sitzung: 19. Sitzung des Stadtrates (2010-09-30)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/12568
+- Ergebnis: gewählt
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/4243
