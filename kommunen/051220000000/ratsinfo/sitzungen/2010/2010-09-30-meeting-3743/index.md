@@ -1,0 +1,81 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-09-30T16:00:00+02:00
+- Ende: 2010-09-30T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRK-cbopEpLFCEc37vYUJV4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3743
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWgIaZLmlmmnN13gzvuTYtAjOQJNoKsdI0W8A09m_mfX/Oeffentliche_Niederschrift_Rat_30.09.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 07. Sitzung des Rates am 27.05.2010
+- TOP 3: Protokoll über die 08. Sitzung des Rates am 08.07.2010
+- TOP 4: Umbesetzung von Ausschüssen
+- TOP 5: Umbesetzung von Ausschüssen
+- TOP 6: Benennung eines Mitglieds der Stadt Solingen für die Veranstaltergemeinschaft Radio RSG
+- TOP 7: Abberufung eines Prüfers beim Revisionsdienst der Stadt Solingen
+- TOP 8: Kosten der politischen Steuerung
+- TOP 9: Kosten der politischen Steuerung
+- TOP 10: Kosten der politischen Steuerung
+- TOP 11: Kosten der politischen Steuerung
+- TOP 12: Public Corporate Governance Kodex
+- TOP 13: Public Corporate Governance Kodex für die Stadt Solingen
+- TOP 14: Neufassung der Regelung über die Zuständigkeiten der Ausschüsse
+- TOP 15: Jahresabschluss 2009 der EntsorgungsBetriebe Solingen
+- TOP 16: Jahresabschluss 2009 des Dienstleistungsbetriebes Gebäude der Stadt Solingen (DBSG)
+- TOP 17: Jahresabschluss 2009 des Technischen Betriebes Straßen und Grün
+- TOP 18: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 19: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 20: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 21: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 22: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 23: Zusammenführung der EntsorgungsBetriebe Solingen und des Technischen Betriebes Straßen und Grün
+- TOP 24: Prüfung der Eröffnungsbilanz der Stadt Solingen - Eröffnungsbilanzstichtag 01.01.2008
+- TOP 25: Überörtliche Prüfung der Eröffnungsbilanz der Stadt Solingen durch die Gemeindeprüfungsanstalt NRW
+- TOP 26: I. Ordnung zur Änderung der Ordnung über die Erhebung von privatrechtlichen Entgelten für die Benutzung städtischer Sportstätten vom 18.12.2008
+- TOP 27: II. Änderung zur Satzung über die Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen, Wegen und Plätzen in der Stadt Solingen (Sondernutzungssatzung)
+- TOP 28: Straßenausbaubeitragssatzung
+- TOP 29: Zusammenführung von EBS und TBSG
+- TOP 30: Erhöhung der Grundsteuer A und B und Erhöhung der Gewerbesteuer
+- TOP 31: Erhöhung der Hundesteuer
+- TOP 32: Erhöhung der Zweitwohnungssteuer
+- TOP 33: Änderung der Vergnügungssteuersatzung
+- TOP 34: Duplikat von Änderung der Vergnügungssteuersatzung
+- TOP 35: Wirtschaftsplan 2010 der Altenzentren der Stadt Solingen
+- TOP 36: Kompetenzzentrum für Sonderpädagogische Förderung (KsF)
+- TOP 37: Neuorganisation der Aufgabenwahrnehmung im SGB II
+- TOP 38: Trägerschaft für Neubauten von Tagesstätten für Kinder an der Augustastraße und an der Schwertstraße
+- TOP 39: Bauleitplanung Mummstraße
+- TOP 40: Bauleitplanung Beethovenstraße/östlich Dingshauser Straße
+- TOP 41: Sachstand und Entwicklungsperspektive Kunstmuseum Baden
+- TOP 42: Benennung eines Ortes nach der Deutschen Einheit
+- TOP 43: Gründung der gGmbH Altenzentren der Stadt Solingen
+- TOP 44: Altenzentren der Stadt Solingen
+- TOP 45: Aufrechterhaltung öffentlicher Angebote durch Haushaltsentlastung aufgrund steuerrechtlicher Möglichkeiten
+- TOP 46: Aufrechterhaltung öffentlicher Angebote durch Haushaltsentlastung auf Grund Nutzung steuerrechtlicher Möglichkeiten (Teil-)Umsetzung der HSK-Maßnahmen 6, 245, 246 und 247
+- TOP 47: Vergaberichtlinien
+- TOP 48: Vergaberichtlinien
+- TOP 49: Verschiedenes
+- TOP 50: Projekt "Familiengerechte Kommune"
+- TOP 51: Informationen für Busfahrgäste
+- TOP 52: Mitteilung zum Stand der Verhandlung für das Zentrum für verfolgte Künste in Solingen mit dem Landschaftsverband Rheinland (LVR)
+- TOP 53: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Quartal 2010
+- TOP 54: Aktueller Sachstand zur Umsetzung des Konjunkturpakets II
+- TOP 55: Anbindung an die A 3
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 07. Sitzung des Rates am 27.05.2010
+- TOP 3: Protokoll über die 08. Sitzung des Rates am 08.07.2010
+- TOP 4: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Eigenkapitalausstattung
+- TOP 5: Rückkauf Elisabeth-Roock-Haus
+- TOP 6: Verschiedenes
+- TOP 7: Vertretung des Einzelhandels- und Dienstleistungsverbandes e. V. im Aufsichtsrat der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 8: Sachstand Elisabeth-Roock-Haus
+- TOP 9: Zentrum für verfolgte Künste in Solingen
