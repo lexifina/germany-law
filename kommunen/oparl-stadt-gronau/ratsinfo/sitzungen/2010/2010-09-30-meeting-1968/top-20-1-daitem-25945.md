@@ -1,0 +1,9 @@
+# TOP 20.1: Außenbereichssatzung "Füchter Straße" der Stadt Gronau Bericht des Ministeriums für Wirtschaft, Energie, Bauen, Wohnen und Verkehr des Landes Nordrhein-Westfalen zur mündlichen Anfrage Nr. 360 in der 142. Sitzung des Landtags am 03.02.2010
+
+- Sitzung: Ausschuss für Planen, Bauen und Denkmalschutz (8. Sitzung) (2010-09-30)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/25945
+- Beratung: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/11214
+- Beschluss (Datei): Beschlusstext (Außenbereichssatzung "Füchter Straße" der Stadt Gronau
+Bericht des Ministeriums für Wirtschaft, Energie, Bauen, Wohnen und Verkehr des Landes Nordrhein-Westfalen zur mündlichen Anfrage Nr. 360 in der 142. Sitzung des Landtags am 03.02.2010) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRGi4adNU_S3Vd5ZJ1B0bgYFEoFKU6_CACRXCl7manNp/Beschlusstext_325-2010_-oeffentlich-_Ausschuss_fuer_Planen-_Bauen_und_Denkmalschutz_30.09.2010.pdf
