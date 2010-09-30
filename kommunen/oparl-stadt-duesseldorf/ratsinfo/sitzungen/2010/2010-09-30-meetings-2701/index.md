@@ -1,0 +1,82 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-09-30T14:00:00+02:00
+- Ende: 2010-09-30T20:45:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2701
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2701
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146409.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146409.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00146409.pdf
+
+## Tagesordnung
+
+- TOP 1: Verpfl. RM - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Wahl eines Beigeordneten - mehrheitlich beschlossen
+- TOP 5: Aktuelle Anfragen
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage FW: Anhörung von Kirchen zu bestimmten Themen im Rat - beantwortet
+- TOP 6.2: Anfrage FW: Wohnen von ALG II - Beziehern nach Gesetzesreform - beantwortet
+- TOP 6.3: Anfrage Rh Dr. Kirchner: Ermittlung der Lärmbelastung des nördlichen Abschnitts der Kaiserswerther S - beantwortet
+- TOP 6.4: Anfrage DIE LINKE: Volkszählung 2011 - beantwortet
+- TOP 6.5: Anfrage der Ratsfraktion von Bü90/Grü: Alarm- und Gefahrenabwehrplan CO-Pipeline - beantwortet
+- TOP 6.6: Anfrage der Ratsfraktion von Bü90/Grü: Sachstand Altbausanierung kommunale Gebäude - schriftlich beantwortet
+- TOP 6.7: Anfrage des Ratsherrn Cardeneo (Bü90/Grü): Engagement im Städtenetzwerk EUROCITIES - schriftlich beantwortet
+- TOP 6.8: Anfrage des Ratsherrn Dr. en jur. (BOL) Kirchner - schriftlich beantwortet
+- TOP 6.9: Anfrage DIE LINKE: Drohende Castor-Transporte durch Düsseldorf
+- TOP 6.10: Anfrage der Ratsfraktionen von CDU und FDP: Drittes Kita-Jahr beitragsfrei - schriftlich beantwortet
+- TOP 6.11: Anfrage Rfr. Leibauer: Bahnhofsgebäude in Gerresheim - schriftlich beantwortet
+- TOP 6.12: Anfrage Rh. Laubenburg: Aktivitäten des "Bundes der Vertriebenen" - schriftlich beantwortet
+- TOP 6.13: Anfrage Rfr. Wiesendorf: Umzug der Rheinbahnhauptverwaltung - schriftlich beantwortet
+- TOP 6.14: Anfrage Rh. Czerwinski: Atommülltransporte durch Düsseldorf - schriftlich beantwortet
+- TOP 7: Einbringung des Haushaltsplanentwurfes 2011 - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 9: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 10: Anträge
+- TOP 10.1: Antrag Freie Wähler: Zeitnahe Veröffentlichung von Niederschriften der Sitzungen des Rates und ander
+- TOP 10.2: Antrag DIE LINKE: Doppelter Abi-Jahrgang 2013
+- TOP 10.3: Antrag SPD: Bildung im Vorübergehen
+- TOP 10.4: Antrag DIE LINKE: Rehabilitation der Opfer des kalten Krieges
+- TOP 10.5: Antrag SPD und Bü 90/Grü: U 79 im 10-Minuten-Takt zur Universität
+- TOP 10.6: Antrag Bü90/Grü: Position der Unteren Denkmalbehörde zum Tausendfüßler
+- TOP 10.7: Antrag Bü90/Grü: Resolution zu Castor-Transporten über Düsseldorfer Stadtgebiet
+- TOP 10.8: Antrag SPD u. Bü90/Grü: Die Wolfsaap soll bleiben wie sie ist
+- TOP 10.9: Antrag DIE LINKE: Flughafen Düsseldorf: Soziale Verantwortung wahrnehmen - Lohndumping und Entlassun
+- TOP 10.10: Antrag DIE LINKE: Industrieproduktion im Düsseldorfer Süden erhalten
+- TOP 11: Soforthilfe für Pakistan - einstimmig beschlossen
+- TOP 12: üpl und apl Ausgaben - mehrheitlich beschlossen
+- TOP 13: Bericht der Gemeindeprüfungsanstalt NRW ÜberörtlichePrüfung der Staatszuweisungen der Landeshautpst - einstimmig beschlossen
+- TOP 14: Siegburger Str. 137, Elly-Heuss-Knapp-Berufskolleg - Gesamtsanierung/PCB-Sanierung - Ausführungs- un - einstimmig beschlossen
+- TOP 15: Heinrich-Heine-Allee 16, Oper - Erweiterung des Orchestergrabens und weitere zusätzliche Maßnahmen
+- TOP 16: Änderungssatzung für einzelne ErschlAnlagen - einstimmig beschlossen
+- TOP 17: Satzung Jugendamt (Neufassung)
+- TOP 18: Fachbericht JGH 2008 - zur Kenntnis genommen
+- TOP 19: Öffnungszeiten Stadtbüchereien - zur Kenntnis genommen
+- TOP 20: Beschlusskontrolle
+- TOP 21: Bestellung einer Prüferin und eines Prüfers für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 22: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 23: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 24: Gutachterausschuss - einstimmig beschlossen
+- TOP 25: Nachwahl zum Beirat bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 26: Lokale Agenda - Lenkungsgruppe - einstimmig beschlossen
+- TOP 27: Regiobahn Fahrbetriebsgesellschaft mbH
+- TOP 28: Aufsichtsrat der Jugendberufshilfe Düsseldorf - mehrheitlich beschlossen
+- TOP 29: Beirat der Bädergesellschaft Düsseldorf mbH - einstimmig beschlossen
+- TOP 30: Vorschlag zur Besetzung des Ausschusses für anzeigepflichtige Entlassungen bei der Agentur für Arbei - einstimmig beschlossen
+- TOP 31: Genehmigung 60er
+- TOP 32: Genehmigung 60er-Beschluss: Neubau einer Dreifach-Sporthalle - einstimmig beschlossen
+- TOP 33: Genehmigung 60er: Aufsichtsrat der Flughafen Düsseldorf Ground Handling GmbH - mehrheitlich beschlossen
+- TOP 34: Genehmigung eines 60er-Beschlusses: Aufsichtsrat der Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 35: Genehmigung 60er: Bachstraße 8, Fenster und Fassadensanierung - einstimmig beschlossen
+- TOP 36: Planungsmaßnahmen
+- TOP 37: B-Plan Nr. 5380/037 - Engländer-Siedlung - einstimmig beschlossen
+- TOP 38: FNP-Ä Nr. 112 - Theodorstraße - einstimmig beschlossen
+- TOP 39: B-Plan 5580/024 - Vogelsanger Weg/Nördlicher Zubringer - einstimmig beschlossen
+- TOP 40: FNP-Änderung Nr. 144 - einstimmig beschlossen
+- TOP 41: BPl 5579/062 FH Campus, Schlachthof/Schlösser Satzung - einstimmig beschlossen
