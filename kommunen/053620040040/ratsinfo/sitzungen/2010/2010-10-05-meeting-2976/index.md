@@ -1,0 +1,54 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2010-10-05T18:03:00+02:00
+- Ende: 2010-10-05T20:00:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZT47jcM0xeYsfbu8HqP_NQ
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/2976
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUx34j_XXkk3RU7QVfc2ToYXoZXGEuikLgJGgxHYawo9/Einladung_Rat_05.10.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfvKP5C4VIHr-nyWLKeFdnSVA_Shi4qCqhFbOJWaxiqf/Oeffentliche_Niederschrift_Rat_05.10.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Beschlussfassung über die Tagesordnung
+- TOP 3.: Einwohnerfragestunde
+- TOP 4.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 5.: Beschlusskontrolle
+- TOP 6.: 7. Änderungssatzung zur Hundesteuersatzung der Stadt Wesseling vom 01.12.1997 - 34 Ja-Stimmen, 6 Nein-Stimmen, 2 Enthaltungen 
+- TOP 7.: Neufassung der Satzung über die Erhebung der Vergnügungsteuer in der Stadt Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 8.: 5. Änderungssatzung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsentgelten in der Stadt Wesseling (Straßenreinigungs- und Entgeltsatzung)
+- TOP -: 5. Änderungssatzung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsentgelten in der Stadt Wesseling (Straßenreinigungs- und Entgeltsatzung) - Einstimmig, 0 Enthaltungen 
+- TOP 9.: Satzung zur Änderung der Satzung der Stadt Wesseling über die Erhebung von Verwaltungsgebühren - Verwaltungsgebührensatzung - - Einstimmig, 0 Enthaltungen 
+- TOP 10.: Änderung der Satzung über die Benutzung der Stadtbücherei / Schulzentralbibliothek
+- TOP 10.1.: Änderung der Satzung über die Benutzung der Stadtbücherei / Schulzentralbibliothek
+- TOP 10.2.: Änderung der Satzung über die Benutzung der Stadtbücherei / Schulzentralbibliothek - 22 Ja-Stimmen, 19 Nein-Stimmen, 1 Enthaltung 
+- TOP 11.: Änderung der Zuständigkeitsordnung der Stadt Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 12.: Entsorgungsbetriebe Wesseling hier: Feststellung des Jahresabschlusses 2009 und Entscheidung über die Gewinnverwendung - Einstimmig, 0 Enthaltungen 
+- TOP 13.: Haushaltswirtschaft im Haushaltjahr 2010; Kreditgenehmigung
+- TOP 14.: Prüfung des Jahresabschlusses der Stadt Wesseling zum 31.12.2008 hier:a) Prüfungsbericht der Wirtschaftsprüfungsgesellschaft Rödl & Partner b) Ergänzender Bericht - Managementletter - der örtlichen Rechnungsprüfung - Einstimmig, 4 Enthaltungen 
+- TOP 15.: Benennung einer Wirtschaftsprüfungsgesellschaft für die Jahresabschlussprüfung 2010 der Kulturbetriebe der Stadt Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 16.: Benennung einer Wirtschaftsprüfungsgesellschaft für die Jahresabschlussprüfung 2010 der Sportstätten der Stadt Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 17.: Benennung einer Wirtschaftsprüfungsgesellschaft für die Jahresabschlussprüfung 2010 der Wald- und Parkanlagen der Stadt Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 18.: 53. Änderung des Flächennutzungsplanes für das Plangebiet "Helmeshof" hier: Feststellungsbeschluss - Einstimmig, 0 Enthaltungen 
+- TOP 19.: Vorhabenbezogener Bebauungsplan Nr. 3/ 115 "Helmeshof" hier: Satzungsbeschluss gemäß § 10 Abs. 1 BauGB - Einstimmig, 0 Enthaltungen 
+- TOP 20.: Einziehung städtischer Straßen- und Wegeflächen hier: Teilstück des Hessenweges in Wesseling, Gemarkung Keldenich Flur 11 Teilfläche aus Flurstück 691 - Einstimmig, 0 Enthaltungen 
+- TOP 21.: Einziehung städtischer Straßen- und Wegeflächen hier: Teilstück des Pfauenweges in Wesseling, Gemarkung Keldenich Flur 8 Teilfläche aus Flurstück 1832 - Einstimmig, 0 Enthaltungen 
+- TOP 22.: Benennung einer Grünanlage in Wesseling - Einstimmig, 0 Enthaltungen 
+- TOP 23.: Einführung der Ehrenamtskarte des Landes Nordrhein-Westfalen in Wesseling
+- TOP 23.1.: Einführung der Ehrenamtskarte des Landes Nordrhein-Westfalen in Wesseling - Einstimmig, 1 Enthaltung 
+- TOP 24.: Genehmigung einer Dringlichkeitsentscheidung: hier: Dienstreise von Ratsmitgliedern in die Partnerstadt Leuna - Einstimmig, 0 Enthaltungen 
+- TOP 25.: Berufung von Schulleitungen als beratende Mitglieder des Schulausschusses - Einstimmig, 0 Enthaltungen 
+- TOP 26.: Antrag der SPD-Fraktion: Umbesetzung in den Ausschüssen - Einstimmig, 0 Enthaltungen 
+- TOP 27.: Mitteilungen und Anfragen
+- TOP 27.1.: Haushaltswirtschaft der Stadt; Übertragung von Ermächtigungen in das Haushaltsjahr 2010
+- TOP 27.2.: Anfrage der FDP-Fraktion: Nutzungsgebühren städtischer Immobilien und Befangenheit
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Anerkennung von Dienstzeiten - Einstimmig, 0 Enthaltungen 
+- TOP 2.: Mitteilungen und Anfragen
+- TOP 3.: Presseveröffentlichungen
