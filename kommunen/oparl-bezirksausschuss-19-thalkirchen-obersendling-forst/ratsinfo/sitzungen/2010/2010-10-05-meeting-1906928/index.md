@@ -1,0 +1,52 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-10-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1906928
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1906928
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 14.09.2010
+- TOP 2: Anträge
+- TOP 2.1.: Arbeitskreis Eingemeindung Forstenried
+- TOP 2.2.: A 99 Süd
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: Web 2.0
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Freisportfläche TMG Würmseestraße
+- TOP 4.3.: Mobilfunk; Suchkreismeldungen
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Anhörung zur verkehrsrechtlichen Anordnung: Tempo 30 Zone in der Forst-Kasten-Allee
+- TOP 5.2.: Antrag auf Errichtung von Parkraum, Schuchstraße 46
+- TOP 5.3.: Einrichtung einer zusätzlichen Haltestelle "Spielmannsauer Straße" für die Buslinie 132 zum Fahrplanwechsel am 12.12.2010
+- TOP 5.4.: Arbeiten im Straßenraum: Schäftlarnstraße zwischen Urbanstr. und Thalkirchner Platz (Fernwärme)
+- TOP 5.5.: Straßenbauarbeiten in der Rohrauerstr. zwischen Kistlerhofstr. und Arnrieder Str.
+- TOP 5.6.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Traubinger Str. 14
+- TOP 5.7.: Betriebskonzept während der Schienenschleifarbeiten auf U-Bahn-Außenstrecken im Abendverkehr
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Beschlussentwurf Bebauungsplan Nr. 1930b
+- TOP 6.3.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich III / 17 Baierbrunner Str. (östlich), Rupert-Mayer-Str. (südlich), Comarer Str. (westlich), St.-Wendel-Str. (westlich), Siemensallee (nördlich)
+- TOP 6.4.: Bootshaus der NaturFreunde - Zentralländstr. 16
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Das Schulreferat trifft die Bezirksausschüsse
+- TOP 7.2.: Investitionskostenförderung: Kinderkrippe Possenhofener Str. 18
+- TOP 7.3.: Investitionskostenförderung: Haus für Kinder Steinerstr. 15
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Unveränderte Gaststättenfortführung Hofmannstr. 34
+- TOP 9.2.: Dirtbike-Parcour Herterichstraße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
