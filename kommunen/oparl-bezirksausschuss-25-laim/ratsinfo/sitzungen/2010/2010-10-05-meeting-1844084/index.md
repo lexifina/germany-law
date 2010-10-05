@@ -1,0 +1,64 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-10-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1844084
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1844084
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Radweg Agnes-Bernauer-Straße stadteinwärts zwischen Ossietzkystraße und Interim
+- TOP 1.2.2.: Diverse Missstände entlang der Fürstenrieder Straße
+- TOP 1.2.3.: Verkehrsentlastung bzw. Verkehrsberuhigung in der Elsenheimerstraße / Lautensackstraße im Bereich zwischen Agnes-Bernauer-Straße und Landsberger Straße
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Erneuerung des Straßenbelages der Reutterstraße zwischen Rappstraße und Agnes-Bernauer-Straße (Willibaldplatz)
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Antrag UA Kultur: Übernahme der Kosten in Höhe von 600 Euro für Adventskonzerte am 27.11. und 28.11. sowie 16.12.10 aus dem BA-Budget / Anteil für Eigenveranstaltungen
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.784,25 Euro für die Durchführung der 30-Jahr-Feier am 15.10.2010 und Herstellung einer Jubiläumsbroschüre; Antragsteller: Schtzengesellschaft Zwölf Apostel e.V. - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.500 Euro für neue Spielgeräte für den Kindergarten; Antragsteller: Förderverein Kindergarten Fronleichnam e.V. (vertagt aus der BA-Sitzung vom 14.09.10) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Gesundheit und Umwelt vom 10.09.10: Mobilfunk; Suchkreismeldung im Suchkreis Kleinhadern Nord, Nr. 510302043
+- TOP 4.2.: Schreiben Referat für Gesundheit und Umwelt vom 10.09.10: Mobilfunk; Suchkreismeldung im Suchkreis M-Friedenheimer Brücke, Nr. 510302042
+- TOP 4.3.: Schreiben Planungsreferat vom 21.09.10: Friedenheimer Str. 2-6: Fällung von 1 Ahorn und 1 Kirsche
+- TOP 4.4.: Schreiben Planungsreferat vom 21.09.10: Friedenheimer Str. 8-10: Fällung von 2 Ahorn
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Hogenbergstr. 33-35: Neuerrichtung einer Kooperationseinrichtung mit 3 Krippen- und 3 Kindergartengruppen sowie einem Veranstaltungsgebäude / Vorbescheid; hier: Baupläne und Baumfällungen (vertagt aus der BA-Sitzung vom 14.09.10)
+- TOP 5.2.: Fürstenrieder Str. 51: Neubau eines Büro- und Geschäftshauses mit Pkw-Garagen (46 Stellplätze); hier: Baupläne - dazu Schreiben Planungsreferat vom 13.08.10 (vertagt aus der BA-Sitzung vom 14.09.10)
+- TOP 5.3.: Fürstenrieder Str. 82a-82c: Aufstockung der Wohnrückgebäude mit einem Staffelgeschoss - Vorbescheid; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 03.09.10: Informationsveranstaltung des Sozialreferates am 29.11.10
+- TOP 6.2.: Sitzungstermine 2011
+- TOP 7: Protokolle
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Sozialreferat vom 01.09.10: Genehmigung der Zweckentfremdung von Wohnraum durch Nutzungsänderung; Stöberlstraße
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 06.09.10: Arbeiten im Straßenraum; Laimer Platz zwischen Vosslerstraße und Buswendeschleife, Verlegen einer Fernwärmeleitung
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 17.09.10: Gaststätte "Club 1001 Nacht", Landsberger Str. 200; unveränderte Fortführung
+- TOP 8.4.: Schreiben Referat für Arbeit und Wirtschaft vom 09.09.10: Europe Direct Information 06/2010
+- TOP 8.5.: Schreiben Schul- und Kultusreferat vom September 2010. Informationsbrief an alle Eltern und Lehrkräfte der Grund- und Hauptschule Schrobenhausener Str. 15
+- TOP 8.6.: Schreiben Stadtwerke München GmbH vom 20.09.10: Baumaßnahmen der SWM, Fernwärmeerschließung Pasing-Laim, Landsberger Straße; Änderungen im Terminablauf
+- TOP 8.7.: Schreiben Münchner Verkehrsgesellschaft mbH vom 20.09.10: Information über Betriebskonzept während der Schienenschleifarbeiten auf U-Bahn-Außenstrecken im Abendverkehr
+- TOP 8.8.: Schreiben Planungsreferat vom 02.09.10: St.-Ulrich-Str. 4; Neubau eines Wohnhauses (3-4 WE) mit Garagen / Vorbescheid
+- TOP 8.9.: Schreiben Planungsreferat vom 07.09.10: Geyerspergerstr. 37; Neubau eines Einfamilienhauses
+- TOP 8.10.: Schreiben Planungsreferat vom 17.09.10: Valpichlerstr. 40; Fällungsgenehmigung
+- TOP 8.11.: Bautenliste vom 30.08.-05.09.10: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 82 a
+- TOP 8.12.: Bautenliste vom 06.09.-12.09.10: 1. Erstantragsverfahren a) Westendstr. 260 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Helmpertstr. 7
+- TOP 8.13.: Bautenliste vom 13.09.-19.09.10: 1. Erstantragsverfahren a) Eringerstr. 4 b) Zschokkestr. 73
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 06.09.10: Baumaßnahmen der Stadtwerke; Stichtag: 06.09.10
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 13.09.10: Baumaßnahmen der Stadtwerke; Stichtag: 13.09.10
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 20.09.10: Baumaßnahmen der Stadtwerke; Stichtag: 20.09.10
+- TOP 8.17.: Beschluss der Vollversammlung vom 28.07.10: Leistungsprogramm der MVG für die Fahrplanperiode 2011 (Sitzungsvorlagen Nr. 08-14 / V 04613)
+- TOP 8.18.: Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.10: Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege, Teil B Bedarfsplanung Kindertagesbetreuung (Sitzungsvorlagen Nr. 08-14 / V 03539)
+- TOP 8.19.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10: Perspektive München, Münchner Stadtteilstudie 2009 (Sitzungsvorlagen Nr. 08-14 / V 04749)
+- TOP 8.20.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.-30.06.10 (Sitzungsvorlagen Nr. 08-14 7 V 04978)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Verleihung der Ehrenpreise 2010 (Sitzungsvorlagen Nr. 08-14 / V 05023)
+- TOP 8.22.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10: Wohnen in München IV, a) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe), b) Beschlussteil (Sitzungsvorlagen Nr. 08-14 / V 05036)
+- TOP 8.23.: Beschluss des Bauausschusses vom 28.09.10: Änderung der Straßenreinigungssatzung (Sitzungsvorlagen Nr. 08-14 / V 05084)
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom August 2010. SWM Jahresbericht 2009
+- TOP 8.25.: Schreiben Planungsreferat vom 06.09.10: Perspektive München - Zentrenkonzept; Broschüre
+- TOP 1.2: Bürgerpost an den BA
