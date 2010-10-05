@@ -1,0 +1,53 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-10-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904176
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904176
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung gem. Vollmacht d. Oberbürgermeisters vom 26.02.2010 über die Projektplanung "Lemgostraße - Rückbau Bahnübergang"
+- TOP 3.1.: Befestigung Zugang zum Grundstück Bruno-Frank-Weg...
+- TOP 3.2.: Aufstellen von zusätzlichen Wertstoffcontainern in der Lerchenau
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Städtebauliche Entwicklungsmassnahme Kronprinz-Rupprecht-Kaserne Strukturkonzept 2010 (vertagt aus der Sitzung am 14.09.2010)
+- TOP 5.2.: Änderung des Flächennutzungsplanes für Bereich Rothwiesenstraße (östl.) (vertagt aus der Sitzung am 14.09.2010)
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Bauvorhaben): 5.3.1 Karlsfelder Str. 16 (vertagt aus der Sitzung am 14.09.20109 5.3.2 Ferchenbachstr. 101 5.3.3 Franz-Kötterl-Str. 5
+- TOP 5.4.: Vollzug der Baumschutzverordnung (Antrag zur Baumfällung): Weitlstr. 12-14
+- TOP 5.5.: Ausbau der Hummelblumenstraße (Änderung der Ausführung) (Nachtrag zur Anhörung TO 06.02.2007)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Neugestaltung Spielplatz Toni-Pfülf-Straße (Antrag Nr. 4/2 aus de Kinder- und Jugendsprechstunde)
+- TOP 6.2.: Verschmutzung des Walter-Sedlmayr-Platzes mit Müll und Glasscherben (Antrag Nr. 6/1 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.3.: Voraussetzung für Gründung einer türkischen Tafel (Information des Sozialreferates) (-&gt; U-Fall TOP 6.28 am 14.09.2010)
+- TOP 6.4.: Grillzone Lerchenauer See - Stellungnahme PI 43 (-&gt; Antrag TOP 3.8 am 14.09.2010)
+- TOP 6.5.: LKW-Parkverbot an der Schleissheimer Straße (BA-Antrag Nr. 08-14/B 00731 vom 09.12.2008)
+- TOP 6.6.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.7.: Meldelisten Baumfällungsanträge
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: Verkehrsrechtliche Anordnungen: 6.9.1 Pappelallee ggü. Mehlprimelweg (Sicherheitsmaßnahme)
+- TOP 6.10.: Baumaßnahmen der Stadtwerke München: 6.10.1 Stromprojekt Weitlstr.131
+- TOP 6.11.: Beschlussvorlage Sozialreferat: Umgang der Patrizia AG m.d. besonderen histor. Situation d. Siedlung Ludwigsfeld
+- TOP 6.12.: Beschlussvorlage Sozialreferat: Umsetzung des Teilplan 4; Tageseinrichtungen, Tagespflege
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Änderung der Gesetzeslage zur Umwandlung von Miet- in Eigentumswohnungen....
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bebauungsplan mit Grünordnung Nr. 2032: Blodigstraße (östl.), Dülferstraße (nördl.)
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Landesentwicklungsprogramm
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnen in München IV
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter u. vorbildliche Sanierung...
+- TOP 6.18.: Beschlussvollzugskontrolle (BVK) Referat für Stadtplanung und Bauordnung: Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses und Vollversammlung Stadtrt (01.01. bis 30.06.10)
+- TOP 6.19.: Informationsschreiben Referat für Stadtplanung und Bauordnung: Auswirkungen des neuen Naturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP 6.20.: Informationsschreiben der Markthallen München: Gefährdungssituation durch Stromversorgungsnetze an Wochenmarktstandorten
+- TOP 6.21.: Broschüre Referat für Stadtplanung und Bauordnung: "Zentrenkonzept München"
+- TOP 6.22.: SWM Jahresbericht 2009
+- TOP 6.23.: Sachbericht: Projekt "Macht Barmherzigkeit" zum 2. Ökumenischen Kirchentag
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
