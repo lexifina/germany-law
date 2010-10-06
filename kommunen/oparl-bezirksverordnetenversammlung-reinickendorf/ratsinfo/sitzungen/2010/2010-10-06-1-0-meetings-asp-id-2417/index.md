@@ -1,0 +1,103 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-10-06T17:05:00+02:00
+- Ende: 2010-10-06T21:55:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2417
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2417
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=49468
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Rue Racine als Einbahnstraße (Beschlussempfehlung 30.06.2010 und 08.09.2010) - in der BVV abgelehnt
+- TOP 5.2: Aufhebung der Austauschbarkeit der Fächer Kunst und Musik in den Klassenstufen 7 bis 9 der integrierten Sekundarschulen (Beschlussempfehlung 30.06.2010 und 08.09.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Migrationsbeauftragte/Migrationsbeauftragter auch für Reinickendorf (Ersuchen 30.06.2010 und 08.09.2010) - in der BVV abgelehnt
+- TOP 5.4: Modell des Bauprojekts Tegeler Insel ausstellen (Vorlage zur Kenntnisnahme 08.09.2010) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.5: Leseförderung durch Antolin (Vorlage zur Kenntnisnahme 08.09.2010) - überwiesen
+- TOP 5.6: Kinderfreundliches Reinickendorf III - "Aufsuchende Elternhilfe" (Vorlage zur Kenntnisnahme 08.09.2010) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Visitenkartenpartys für Migranten (Vorlage zur Kenntnisnahme 08.09.2010) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.8: Situation am Halligweg (Große Anfrage 08.09.2010) - beantwortet
+- TOP 5.9: Zustand des Märkischen Viertels (Große Anfrage 08.09.2010) - beantwortet
+- TOP 5.10: Radfahrstreifen Heiligenseestraße (Beschlussempfehlung 08.09.2010) - in der BVV abgelehnt
+- TOP 5.11: Barrierefreiheit an der Chamisso-Grundschule (Beschlussempfehlung 08.09.2010) - in der BVV abgelehnt
+- TOP 5.12: Barrierefreiheit am Neubau an der Chamisso-Grundschule (Beschlussempfehlung 08.09.2010) - in der BVV abgelehnt
+- TOP 5.13: Barrierefreiheit an Schulneu- und Ergänzungsbauten (Beschlussempfehlung 08.09.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Keine Fernbahnstrecke durch Reinickendorf (Empfehlung 08.09.2010) - überwiesen
+- TOP 6: Feststellungen - überwiesen
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gem. § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.1: Märkisches Viertel an das U-Bahnnetz anschließen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Treffpunkt für Randgruppen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Schuleinzugsbereiche - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Taubenproblematik Bahnbrücke Wilhelmsruher Damm endlich lösen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Entgeltfreie Erste-Hilfe-Kurse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Bericht über Zusammenarbeit Jugendhilfe und Schule erstellen - überwiesen
+- TOP 7.7: Wildschweine im Stadtgebiet - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Rundweg am Poloplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Beseitigung von Gefahrenstellen im Wald - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Verstärkung der Stadtjäger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Hinweisschilder gegen das Füttern von Wildtieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Einführungsphasen an Gymnasien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Ganztagsgymnasien nicht schlechter stellen als Sekundarschulen: Ausstattung mit Lehrerstunden vergleichbar gestalten! Lehrerstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Kindern von Klasse 1 bis 6 Hortbesuche ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Sommerbadebetrieb in Tegel aufrecht erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Beschäftigungsmaßnahmen für chronisch psychisch kranke Menschen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Graffiti-Schmierereien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Jahresbericht des Patientenfürsprechers im Krankenhaus für den Maßregelvollzug in Reinickendorf für den Zeitraum 2009 und 2010 - überwiesen
+- TOP 7.19: Einstellung des Bebauungsplanverfahrens 12-6 für das Grundstück Quickborner Straße 111/119 und einen Abschnitt der Quickborner Straße im Bezirk Reinickendorf, Ortsteil Lübars sowie Neuaufstellung eines Bebauungsplans mit der Bezeichnung 12-33 für dasgleiche Areal - überwiesen
+- TOP 7.20: Änderung des Geltungsbereiches sowie der Ausweisungen des Bebauungsplanentwurfs 12-25B vom 06.01.2010 mit Deckblatt vom 17. Juni 2010 - überwiesen
+- TOP 7.21: Änderung des Geltungsbereiches des Bebauungsplanentwurfs 12-26B vom 17. Juni 2010 - überwiesen
+- TOP 8: Große Anfragen - vertagt
+- TOP 8.1: Schlitterpartie im Winter 2011? Auswirkungen der geplanten Änderungen des Straßenreinigungsgesetzes - vertagt
+- TOP 8.2: Soziale Situation in Reinickendorf-Ost - vertagt
+- TOP 8.3: Gesundheitsrisiken in Reinickendorf - vertagt
+- TOP 8.4: Derzeitige Situation im Ortsteil Alt-Tegel - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - vertagt
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.1: Beschilderung Tempo 30 der Frohnauer Plätze - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Kinderfreundliches Reinickendorf I - Leitbild - überwiesen
+- TOP 10.3: Zeitliche Geschwindigkeitsbeschränkung vor Schulen und Kindergärten einheitlich regeln - vertagt
+- TOP 10.4: Geschwindigkeitsüberwachung in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Kleingärtner / Kleingärtnerinnen helfen bei gesunder Ernährung an Schulen - vertagt
+- TOP 10.6: Werben für Blumenpatenschaft - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Unterstützung Gehörgeschädigter im BVV-Saal - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Sonder-Bauprogramm für Schulstrukturreform - vertagt
+- TOP 10.9: Spielplatzflächen in Reinickendorf - vertagt
+- TOP 10.10: Fällungen im Fließtal - in der BVV abgelehnt
+- TOP 10.11: Radfahrstreifen Holzhauserstraße - vertagt
+- TOP 10.12: Bürotürschilder im "neuen Kleid" - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Verkehrsregelung Rue Racine - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Fußgängerampelschaltung Kreuzung Oranienburger Straße/Eichborndamm/Wilhelmsruher Damm - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Geschwindigkeitskontrollen in der Schildower Straße verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Jugendschutz bei Gewinnspielautomaten wirksam durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Freiberufliche Hebammen erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Unterstützung GSW-Mieter (Beschlussempfehlung 06.10.2010) - vertagt
+- TOP 11: Anträge - vertagt
+- TOP 12: Ersuchen - vertagt
+- TOP 12.1: Keine Einheitsschulen in Reinickendorf - vertagt
+- TOP 12.2: Mindestlohn - überwiesen
+- TOP 12.3: Gemeinschaftsschule im MV - vertagt
+- TOP 12.4: Girls und Boys Day zusammen durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Darstellung aller Bezirksbürgermeister/innen - überwiesen
+- TOP 12.6: Einhaltung von Auflagen zu Baumpflanzungen - überwiesen
+- TOP 12.7: Zebrastreifen am Zeltinger Platz - vertagt
+- TOP 12.8: Behinderung des Schul- und Vereinssports in Reinickendorf durch das Bezirksamt - vertagt
+- TOP 12.9: Toilettencontainer für die Bettina-von-Arnim-Schule - vertagt
+- TOP 13: Empfehlungen - vertagt
+- TOP 13.1: Aufarbeitung der Diktaturgeschichte - überwiesen
+- TOP 13.2: Erneuerung Begrenzungen am Elchdamm - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Haftung der Grundeigentümer bei Schnee- und Eisbeseitigung nicht verschärfen - vertagt
+- TOP 13.4: Keine Dumpinglöhne durch Übertragung an freie Träger - überwiesen
+- TOP 13.5: Altkleidercontainer auf Privatgelände - ohne Änderungen in der BVV beschlossen
