@@ -1,0 +1,113 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-10-06T17:00:00+02:00
+- Ende: 2010-10-06T22:35:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1291
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1291
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - (offen)
+- TOP 5.1: A 100 darf nicht auf's Abstellgleis - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Städtebauförderung nicht kürzen! - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Einschränkungen bei Integrationskursen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Naturschutz und Grünflächen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Berufung eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Bebauungsplan 8-9a ("Mohriner Allee/Rosengrund") - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2009 - überwiesen
+- TOP 7.4: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2009 - überwiesen
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Mitteilung von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2010 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Baulicher Zustand der Kita Riesestraße - beantwortet
+- TOP 9.2: Freie Wahl der Grundschule - beantwortet
+- TOP 9.3: Gestaltung Richardplatz - beantwortet
+- TOP 9.4: Aktiv in Kiezgremien - beantwortet
+- TOP 9.5: Auflösung einer Dienstgruppe? - beantwortet
+- TOP 9.6: Erstaufnahmewohnheim in der "Teupe" - beantwortet
+- TOP 9.7: Erweiterte polizeiliche Führungszeugnisse für Trainer und Übungsleiter in Sportvereinen - beantwortet
+- TOP 9.8: Sozialarbeiter an Neuköllner Schulen - beantwortet
+- TOP 9.9: Stressbewältigung im Ordnungsamt Neukölln - beantwortet
+- TOP 9.10: Sondermittel für das Ordnungsamt Neukölln - beantwortet
+- TOP 9.11: Wohnhaus Sonnenallee 93 - beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Erhalt des Heimathafens am Standort Saalbau Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bedarfe beim Neubau der Leonardo-da-Vinci-Schule unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Geschwindigkeitsreduzierung in der Hertastraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Eigene Auswertungen bei Open Prosoz - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Programm zur Vorbereitung von Migrantinnen und Migranten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.6: Aktionstage des Ordnungsamtes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.7: Mieterberatung verstärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.8: Rundflüge über Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.9: Haltverbot am Wochenmarkt Fritz-Reuter-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Sicherer Schulweg für Karlsgarten-Grundschüler/innen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Welche wirtschaftliche Zukunft hat das ehemalige Eternitgelände - beantwortet
+- TOP 11.2: Flugrouten des BBI - beantwortet
+- TOP 11.3: Sitzenbleiber - beantwortet
+- TOP 11.4: Beschleunigte Verfahren im Jugendbereich - beantwortet
+- TOP 11.5: Sparmaßnahmen des Bundesamtes für Migration und Flüchtlinge - beantwortet
+- TOP 11.6: Zukunft der "Teupe" - beantwortet
+- TOP 11.7: Neubau Clayoberschule - beantwortet
+- TOP 11.8: Zu Fuß zur Schule - schriftlich beantwortet
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Baumpflanzaktion im Herbst 2010 und Frühjahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Denkmalschutz für Eternit-Hallen aufheben - überwiesen
+- TOP 13.3: Sicherer Überweg für die High-Deck-Siedlung - überwiesen
+- TOP 13.4: Alternative Flugrouten - überwiesen
+- TOP 13.5: Berlinpass und weiterhin Zuschuss für Geringverdiener mit Kindern - überwiesen
+- TOP 13.6: Grundständigkeit an der Albrecht-Dürer-Schule erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Haus der 100 Worte und Sprachen - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Bürgerinformationen über Grünanlagenumgestaltung optimieren - überwiesen
+- TOP 13.9: Spielstraße Weichselstraße - überwiesen
+- TOP 13.10: Tempo-30-Zone verdeutlichen - überwiesen
+- TOP 13.11: Querungshilfe vor dem Campus Rütli - überwiesen
+- TOP 13.12: Gebührenbefreiung - überwiesen
+- TOP 13.13: Flugrouten über Neukölln - überwiesen
+- TOP 13.14: Querparken in der Reuterstraße - überwiesen
+- TOP 13.15: Schulprojekt Modellbahn - überwiesen
+- TOP 13.16: Überquerungshilfe für Reiter - überwiesen
+- TOP 13.17: Kolonien am Mergenthaler Ring - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Mehr Grün für Neuköllns Straßen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Keine Kündigung der Pachtverträge - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Bezirke sollen vom steigenden Tourismus profitieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Mittelfristige Gesundheitsplanung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: Notdurft entgegnen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Rechtsanspruch auf frühkindliche Förderung uneingeschränkt umsetzen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Namensgebung "Emser Platz" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.8: Park & Ride - Nutzung Parkplatz Britz-Süd - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.9: Städtebauförderung erhalten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Kleingartenkolonien planungsrechtlich sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Gewalt an der Schule? Gewaltprävention an der Uni! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Offensive Klimaschutz für Neukölln 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Offensive Klimaschutz für Neukölln 2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Offensive Klimaschutz für Neukölln 3 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Mehrwertsteuersatz für Schulessen - vertagt
+- TOP 15.7: Zustimmung zur Entscheidung über die Erneuerung der Regenwasserkanäle der Parchimer Allee zwischen Buschkrugallee und Fulhamer Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Verkehrssicherheit auf Fahrradwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Öffnung der Anzengruberstraße für Radfahrerinnen und Radfahrer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Glascontainer Parchimer Allee 101 entfernen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Bebauungsplan XIV-109b vom 31.03.2009 - Wutzkycenter - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Trägerwechsel bei Kindertagesstätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.13: Unterstützung für die Weltkulturerbestätten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.14: Entscheidung über die Umgestaltung der Karl-Marx-Straße im Abschnitt zwischen Jonasstraße und Silbersteinstraße/Lahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.15: Veränderungssperre XIV-B 5/20 für das Grundstück Karl-Marx-Straße 259 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes XIV-B 5 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.16: Veränderungssperre XIV-B 4b/21 für das Grundstück Britzer Damm 76 im Bezirk Neukölln, Ortsteil Britz im Geltungsbereich des Bebauungsplanentwurfes XIV-B 4b - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.17: Veränderungssperre 8-46/22 für das Grundstück Rudower Straße 132 im Bezirk Neukölln, Ortsteil Buckow im Geltungsbereich des Bebauungsplanentwurfes 8-46 ("Rudower Straße/Johannisthaler Chaussee") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.18: Zukunft des "Kids Garden" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.19: Veränderungssperre XIV-166/23 für das Grundstück Tempelhofer Weg 115/121, Britzer Damm 148/154 im Bezirk Neukölln, Ortsteil Britz im Geltungsbereich des Bebauungsplanentwurfes XIV-166 ("Moosrosenstraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.20: Veränderungssperre 8-40/24 für das Grundstück Karl-Marx-Straße 244 im Bezirk Neukölln im Geltungsbereich des Bebauungsplanentwurfes 8-40 - mit Abschlussbericht zur Kenntnis genommen
