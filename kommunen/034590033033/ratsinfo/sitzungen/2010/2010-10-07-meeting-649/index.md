@@ -1,0 +1,53 @@
+# Rat (36. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2010-10-07T17:30:00+02:00
+- Ende: 2010-10-07T22:10:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZf8Xi-JUwpNdQskaYrWLJEg
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/649
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbaf99y8ZwFIzvm5ZRyBmxSIfPF17BeBaouNxEK_kW4Y/Bekanntmachung_Rat_07.10.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVyFZKLVIKARx_dHYzJCf8ucmglU7iwrty1o7UmMN93e/Oeffentliche_Niederschrift_Rat_07.10.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschriften über die Sitzungen vom 26.08.2010 und 07.09.2010
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Gehwegsäuberung Rudolf-Harbig-Straße
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Neubesetzung des Schulausschusses - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Satzungsrecht
+- TOP 5.1: Änderung der Friedhofssatzung der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Änderung der Friedhofsgebührensatzung und des Gebührentarifs der Gemeinde Wallenhorst - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Jugend, Kultur und Sport
+- TOP 6.1: Zuschussantrag des Reit- und Fahrvereins Hollage; Erneuerung der Hallenböden in den Reithallen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag des Ruller Hauses e. V. auf Bezuschussung des Kinder- und Literaturprojektes - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 7.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 7.1: Vereinbarungen zur Regelung des Friedhofswesens mit der Kath. Kirchengemeinde St. Alexander Wallenhorst und der Kath. Kirchengemeinde St. Johannes Rulle
+- TOP 8.: Bauleitpläne
+- TOP 8.1: Vorhabenbezogener Bebauungsplan Nr. 251 "Südlich der St. Bernhardschule" hier: Zustimmung zum vorgestellten Konzept zur Errichtung eines Ärztehauses in Vorbereitung des Beschlusses über die öffentliche Auslegung gem. § 3 (2) und § 4 (2) BauGB - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 8.2: Vorhabenbezogener Bebauungsplan Nr. 240 "Nördlich der Moorbachstraße" hier: erneuter Beschluss zur öffentlichen Auslegung gem. § 3 (2) und § 4 (2) BauGB nach Planänderungen innerhalb der Vorhabensplanung - mehrheitlich mit 22 Ja-Stimme(n), 7 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 8.3: 51. Änderung des Flächennutzungsplanes hier: Darstellung einer Gewerbefläche südlich der ´Hansastraße´ - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 8.4: Bebauungsplan Nr. 254 „Östlich Pollerweg/Südlich Hansastraße“; hier: Aufstellungsbeschluss gem. § 2 (1) BauGB; Beschluss der Planungsziele - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 9.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 9.1: Erlass einer Außenbereichssatzung für die Grundstücke nördlich der Straße ´Auf der Heide´
+- TOP 9.2: Straßen- und Kanalbauarbeiten im Bereich „Ermländer Straße“ und „Kolpingstraße“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Beschluss über Einsparungen an der Bauausführung zur Umgestaltung des Kirchvorplatzes - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.4: Aufhebung des Einleitungsbeschlusses für ein Umlegungsverfahren im Gebiet des Bebauungsplanes 227 "Östlich der Niedersachsenstraße" - einstimmig, mit 4 Enthaltung(en) gefasst:
+- TOP 10.: Kämmereiangelegenheiten
+- TOP 10.1: Antrag des Bistums Osnabrück zur Mitfinanzierung der Instandsetzung der Einfriedungsmauer am Jugendbildungszentrum "Haus Maria Frieden" - mehrheitlich mit 12 Ja-Stimme(n), 15 Gegenstimme(n), 2 Stimmenthaltung(en) abgelehnt:
+- TOP 10.2: Änderung des Konzessionsvertrages mit der Wasserversorgung Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Über- und außerplanmäßige Aufwendungen und Auszahlungen im Haushaltsjahr 2009 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.: Anfragen und Anregungen
+- TOP 11.1: Anfrage und Antragstellung zum Antrag des DRK über den Erwerb oder Anmietung des ehemaligen Feuerwehrhauses
+- TOP 11.2: Artikel in BE zum Erwerb eines Grundstückes für die Auslagerung der Antennen auf dem Gebäude Töwerland
+- TOP 11.3: Straßengraben an der Osnabrücker Straße
+- TOP 11.4: Anfrage zum Tätigwerden des Bürgermeisters nach Entscheidung der Mitgliederversammlung des DRKs für den Erwerb oder die Vermietung des alten Feuerwehrhauses
+- TOP 11.5: Defekte Straßenbeleuchtung
+- TOP 11.6: Räumung des Bauhof-Lagerplatzes an der Osnabrücker Straße
+- TOP 11.7: Wasserschaden an der Gymnastikhalle - Information an die Familien
