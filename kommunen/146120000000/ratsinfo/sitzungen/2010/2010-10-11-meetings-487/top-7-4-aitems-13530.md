@@ -1,0 +1,6 @@
+# TOP 7.4: Information des Bezirksschornsteinfegermeisters über die Ankündigung seines Ruhestandes
+
+- Sitzung: 17. Sitzung des Ortschaftsrates Gompitz (2010-10-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/13530
