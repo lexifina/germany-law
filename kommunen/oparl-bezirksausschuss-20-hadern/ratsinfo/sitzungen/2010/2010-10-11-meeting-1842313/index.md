@@ -1,0 +1,74 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842313
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842313
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Kulturprojekt sucht Scheune, Keller oder Schankstube
+- TOP 1.2.: Altkleidercontainer Max-Lebsche-Platz und Heiglhofstraße
+- TOP 1.3.: Verkehrssituation in der Kurparkstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mobilfunk; Suchkreismeldung im Suchkreis Kleinhadern Nord (Referat für Gesundheit und Umwelt, 10.09.10)
+- TOP 6.2.: Veranstaltung in einer städtischen Grünanlage, hier: Bauwagen Spielkistl von Mobil-Spiel e.V. auf der Grünfläche Terofalstraße und Wastl-Witt-Straße vom 11. - 15.10.10 (Kreisverwaltungsreferat, 16.09.10) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015 (Stadtkämmerei, 20.09.10)
+- TOP 6.4.: Gemeinde Gräfelfing, Vorhabenbezogener Bebauungsplan Nr. 18 für ein Biomasseheizkraftwerk an der Würmtalstraße (Referat für Stadtplanung und Bauordnung, 29.09.10)
+- TOP 6.5.: Schmückung von Gefallenendenkmälern am Volkstrauertag 2010 (Baureferat, 05.10.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Kruckenburgstraße 23, 1 Birke
+- TOP 7.2.: Schachblumenweg 11 a, 1 Birke
+- TOP 7.3.: Langbehnstraße 21, 2 Fichten
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen (Referat für Stadtplanung und Bauordnung, 30.08.10)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: Marchioninistraße 3 (SWM, 06.09.10)
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Menaristraße, Haltverbot (Kreisverwaltungsreferat, 06.09.10)
+- TOP 8.4.: Zweckentfremdung von Wohnraum: - Zypressenweg (Sozialreferat, 20.09.10)
+- TOP 8.5.: Neubau Bushaltestelle "Platanenstraße" (Baureferat, 04.10.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Anliegerfahrbahn Würmtalstraße; Verkehrsführung Radfahrer (Kreisverwaltungsreferat, 09.09.10)
+- TOP 9.2.: Geh- und Radweg von der Blumenauer Straße über den Lobelienweg Richtung Baumschule (Baureferat, 07.09.10)
+- TOP 9.3.: Lärmminderungsplanung: Aufnahme der Fürstenrieder Straße und der Waldwiesenstraße im Lärmaktionsplan München als Untersuchungsgebiete (Referat für Gesundheit und Umwelt, 03.09.10)
+- TOP 9.4.: Kinder- und Jugendbeteiligung Spielplatz Stiftsbogen (Baureferat, 16.09.10)
+- TOP 9.5.: Regelung von Gastschulanträgen (Schul- und Kultusreferat, 07.09.10)
+- TOP 9.6.: Münchner Solartag 2011 dezentral (Referat für Gesundheit und Umwelt, 21.09.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Perspektive München - Zentrenkonzept, Broschüre (Referat für Stadtplanung und Bauordnung, 06.09.10)
+- TOP 11.2.: wobl.de - Bürger schreiben Zeitung (Münchner Wochenblatt, 17.09.10)
+- TOP 11.3.: U-Bahnhof Klinikum Großhadern, Sanierung der Glaspyramiden an den Abgängen (Schr. an SWM) dazu: Antwort der SWM vom 27.09.10
+- TOP 11.4.: Tiefgarage in Martinsried (Leserbrief für SZ)
+- TOP 11.5.: Protokoll des 8. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 17.09.2010 nächstes Treffen am Dienstag, den 22.02.2011 (Gleichstellungsstelle für Frauen, 23.09.10)
+- TOP 11.6.: Zukunftsreihe des Oberbürgermeisters: Podiumsdiskussion "Erholungsoasen oder Hitzestress - Stadtgrün im Klimawandel" am 21.10.2010 um 19.00 Uhr(Baureferat, 05.10.10)
+- TOP 11.7.: Vortrag: "Trambahn in München: Renaissance eines modernen Verkehrsmittels" am 06.11.2010 um 11.00 Uhr (Pro Bahn Oberbayern, 06.10.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 28.07.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04613: Leistungsprogramm der MVG für die Fahrplanperiode 2011 (Der BA Hadern hat dem Leistungsprogramm mit Beschluss vom 14.04.2010 einstimmig zugestimmt.)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05023: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung Verleihung des Ehrenpreises 2010, insbesondere an das Studentenwerk München für das Studentenwohnheim am Stiftsbogen, Schröfelhofstraße 4 - 26 a (Bewerbung Nr. 109), am 15.11.2010 im Saal des Alten Rathauses (Beschreibung in der Anlage, S. 4)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05043: Realisierung einer viergruppigen Kinderkrippe in der Marchioninistraße 3 + 5, Neubau und Umbau, Ausführungsgenehmigung (Kosten: 2.763.000,- ? für 48 Kinder)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 03539: Umsetzung des Teilplan 4 Tageseinrichtungen, Tagespflege Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive, insbesondere - zur Kinderkrippe an der Marchioninistraße 3 - 5 (Anlage 7, laufende Nr. 15) und - den Kooperationseinrichtungen an der Großhaderner Straße 34 und am Stiftsbogen I, Nr. 53 (Anlage 8) sowie - den Versorgungsgraden mit Kinderkrippen, in Hadern 23% in 2009 (Anlage 9) bzw. 27% in 2013 (Anlage 10) -
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05036: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe) B) Beschlussteil
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04749: PERSPEKTIVE MÜNCHEN Münchner Stadtteilstudie 2009, insbesondere zur Studie "Haderns Zukunft" in 2003 (S. 5)
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04978: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2010 - 30.06.2010, insbesondere zum Sonderflughafen Oberpfaffenhofen (die Klage gegen die Änderungsgenehmigung wurde abgewiesen, Anlage 7, S. 16)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
