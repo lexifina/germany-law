@@ -1,0 +1,109 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-10-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828587
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828587
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Bericht der Polizeiinspektion 12
+- TOP 4.2.: Stellungnahme der Polizeiinspektion 12 zu den Fragen aus der Sitzung vom 15.09.2010
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1.: Verwahrlosung der Dachauer Straße im erweiterten Bereich Hauptbahnhof; Bürgerbeschwerde vom 15.07.2010, vertagt aus 09/10 (TOP C 2.3.2), Unterlagen liegen bereits vor.
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Referat für Stadtplanung und Bauordnung: Listen der Bauvorhaben: 37., 38. KW
+- TOP 2.1.2.: Brienner Straße 53, Vollzug der Baumschutzverordnung, vertagt aus 08/2010 (TOP B 2.1.8), aus 09/2010 (TOP B 2.1.5) wegen fehlender Unterlagen
+- TOP 2.1.3.: Königinstraße 31, Aufstockung eines Wohnhauses und Erweiterung Garagen ? Vorbescheid; vertagt aus 09/10 (TOP B 2.16 zur Klärung der Abstandsflächen), Unterlagen liegen bereits vor
+- TOP 2.1.4.: 2.4. Planfeststellung nach § 18 Allgemeines Einsenbahngesetz (AEG) für den Neubau einer 2. S- Bahn-Stammstrecke in München; Planfeststellungsabschnitt 1 ?München West?, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, Bau-km 11,600 bis 105,996
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Königinstr. 33, Vollzug der Baumschutzverordnung
+- TOP 2.2.2.: Augustenstr. 87-89, jeweils ein Silberahorn, Kirsche und Robinie
+- TOP 2.2.3.: Ludwigstraße 18, zwei Gefahrbaumfällungen (Spitz-Ahorn und Silber-Ahorn) sowie Einkür zungen von Kronenteilen
+- TOP 2.2.4.: Ludwigstraße 22 (s.o.)
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Bericht vom Ortstermin Begrünung Neureutherstraße
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3: Vorfahrtsregelung Kreuzungen Luisenstraße/Zieblandstraße/Tengstraße
+- TOP 1.3.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3: Die Landeshauptstadt München wird aufgefordert, das mit BA-Antrag vom 23.02.2009 gefor derte Konzept für die Augustenstraße zu erarbeiten und umzusetzen.
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Verkehrsrechtliche Anordnung: Haltverbot Königinstraße
+- TOP 2.1.2.: Bürgeranfrage vom 17.09.2010: Verkehrsführung Schöfeldstraße
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Schreiben vom 01.10.2010, Anhörung: Parklizenzgebiet Schleißheimer Straße,Gebietsvergrößerung
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Verkaufseinrichtung auf öffentlichem Verkehrsgrund: Augustenstraße 119, ?Schwabinger Pfeifeneck?
+- TOP 2.2.2.: Baureferat, Anhörung: Versetzen einer Litfaßsäule in der Augustenstraße
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Genehmigung einer Freischankfläche: Gaststätte "Heart", Lenbachplatz 2a
+- TOP 2.3.2.: Erweiterung der Sitzplätze im Außenbereich der Gaststätte ?Zeitgeist?
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 2.5.1.: Bericht vom Ortstermin Rottmann-/Schleißheimer Straße: Neue Einbahnregelung
+- TOP 2.5.2.: Bauernmarkt Türkenstraße
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Gesellschaft Kinderhoch3 GbR Einrichtung von zwei Spielgalerien
+- TOP 3.1.: Anfrage eines Bürgers zur Renovierung des Nass- und Sanitärbereiches in der Sportanlage der Schule an der Dachauer Straße
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Augustenstr. 13, Errichtung von Balkonen an der Straßenfassade: Urteil des VG München vom 03.05.2010
+- TOP 1.2.: Auswirkungen des neuen Bundesnaturschutzgesetzes auf das Verfahren zum Erlass von Schutzgebietsverordnungen
+- TOP 1.3.: Baumaßnahmen der SWM: - Fernwärmeprojekt Bernhard-Wicki-Straße - Stromprojekt Gabelsbergerstraße
+- TOP 1.4.: Baumaßnahmen der SWM: - Erdgasprojekt Blutenburgstraße - Fernwärmeprojekt Gabelsbergerstr. 56
+- TOP 1.5.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.6.: Wohnen in München IV; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.7.: Beschlussvollzugskontrolle (BVK); Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.8.: Perspektive München, Münchner Stadtteilstudie 2009; Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.9.: 40. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2009; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung, LBK, Übermittlung der Baugenehmigung zum Bauvorhaben Dachauer Stsraße 7, Nutzungsänderung eines Ladens in eine Spielothek.
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Fahrradabstellplätze in Innenhöfen
+- TOP 2.2.: Fahrbahnmarkierung in der Brienner Straße
+- TOP 2.3.: Verkehrsrechtliche Anordnung: Arbeiten im Straßenraum, Bernhard-Wicki-Str. 8 (Fernwärmeanschluss)
+- TOP 2.4.: Lichtzeichenanlage Friedrich-/Georgenstraße: probeweise Abschaltung für 3 Monate
+- TOP 2.5.: Elektroplanung auf allen Standorten der Münchner Wochen- und Biomärkte
+- TOP 2.6.: Erlaubnisbescheid: - Streetlife / Corso Leopold sowie Biomarkt auf dem Odeonsplatz am 11. und 12.10.2010
+- TOP 2.7.: Lichtzeichenanlage Karl-/Meiser Str. (Katharina-von-Bora-Str.) wird wieder in Betrieb genommen
+- TOP 2.8.: Verteilerkasten auf dem Fußweg in der Arnulfstraße 35; Baureferat
+- TOP 2.9.: Antrag auf Erweiterung einer Freischankfläche in der Türkenstr. 51 "Soda"; Entscheidung des Oberbürgermeisters wird eingeholt
+- TOP 2.10.: Parklizenzen auch für Inhaber von Zweitwohnungen; Beschluss AUsschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 2.11.: Verkehrsrechtliche Anordnung: Gemeinsamer Geh- und Radweg in der Königinstraße
+- TOP 2.12.: Änderung der Straßenreinigungssatzung: Erhöhung der Anzahl der Mülleimer im Innenstadtbereich; Beschluss Bauausschuss vom 28.09.2010
+- TOP 2.13.: Kreisverwaltungsreferat: Verkehrsrechtliche Anordnung zur Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Schraudolphstr. 32
+- TOP 2.14.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung zu Arbeiten im Straßenraum im Be reich Schleißheimer Straße zwischen Dachauer Straße und Rottmannstraße und Gehweg und Fahrbahn Seite Dachauer Straße (Umbau des Parkplatzes) vom 26.08. bis 23.12.2010
+- TOP 2.15.: Kreisverwaltungsreferat, Erlaubnisbescheid für ?Bauernmeile auf dem sog. Odeonsplatz und der Ludwigstraße am 26.09.2010
+- TOP 2.16.: Kreisverwaltungsreferat, Anhörungsverfahren Bürgerfest zur Eröffnung des ?Türkentores?; Eilentscheidung des Vorsitzenden vom 22.09.2010
+- TOP 2.17.: Kreisverwaltungsreferat: Abdruck eines Schreibens vom 24.09.2010 an das Polizeipräsidium wegen probeweiser Abschaltung der LZA Gabelsberger-/Schleißheimer Straße
+- TOP 2.18.: Kreisverwaltungsreferat: E-Mail vom 23.09.2010 an Bürger, die sich wegen Problemen im Parklizenzbereich Nymphenburger Straße/Dachauer Straße an den BA 3 gewandt hatten.
+- TOP 2.19.: Kreisverwaltungsreferat, Verkehrsmanagement: probeweises Abschalten der LZA Brienner-/ Türkenstraße für drei Monate
+- TOP 2.20.: Schreiben des Baureferates, Tiefbau: neue Ansprechpartnerin des BA 3 in der Abteilung Straßenplanung und -bau
+- TOP 2.21.: Kreisverwaltungsreferat, Verkehrsmanagement: Schließung der Ausfahrtsmöglichkeit Schleißheimer Straße zur Dachauer Straßen
+- TOP 2.22.: Baureferat, Straßenbau: Straßenbauarbeiten in der Dachauer Straße und Rottmannstraße ab September 2010 bis Ende Mai 2011.
+- TOP 3.1.: Umsetzung Teilplan 4: Tageseinrichtungen, Tagespflege / Teil B, Bedarfsplanung, Kindertagesbetreuung; Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010
+- TOP 3.2.: Sachbericht des Elternbeirats Grundschule Dachauer Str. 98 zum MFM Projekt am 18.06.2010
+- TOP 3.3.: Stadtwerke München, Schreiben vom 25.08.2010 an den BA 2 (gleiches Schreiben erging auch an den BA 1, 4 und 12) zur Verlängerung der Öffnungszeiten der Städtischen Freibäder (damit erübrigt sich ein weiteres Schreiben an die Stadtwerke durch den BA 3.)
+- TOP 4: Kultur
+- TOP 4.1.: Platz der Opfer des Nationalsozialismus ? Neugestaltung zur würdigen Gedenkstätte; Beschluss Bauausschuss vom 28.09.2010
+- TOP 4.1.: Stadtkämmerei: Mehrjahresinvestitionsprogramm 2010 ? 2014 Der Beschluss der Vollversammlung des Stadtrates wurde im Original an den Vorsitzenden gegeben und kann auch in der Geschäftsstelle eingesehen werden; Auszüge gehen auch an die Unterausschussvorsitzenden, Fraktionsvorsitzenden und den Vorstand.
+- TOP 4.2.: Agenden des Baumschutzes (Anlage 1 der BA-Satzung: Katalog Baureferat Zif. 7.1 und 7.2): Informationsfluss und Kooperation innerhalb des Bezirksausschusses
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
