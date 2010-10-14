@@ -1,0 +1,429 @@
+---
+ecli: "ECLI:DE:BGH:2010:141010XaZR15.10.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-10a"
+aktenzeichen: "Xa ZR 15/10"
+decided: "2010-10-14"
+typ: "U"
+bemerkung: "siehe auch: Pressemitteilung Nr. 181/10  vom 23.9.2010,\n     Pressemitteilung Nr. 195/10  vom 14.10.2010"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2010&Sort=1&Seite=94&nr=54090&anz=3646&pos=2838&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-10a_NA_2010-10-14_Xa_ZR_15_10_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0097.md", "germany/bund/acts/zpo/0290.md", "germany/bund/acts/zpo/0529.md"]
+---
+
+# Bundesgerichtshof, Xa ZR 15/10 vom 2010-10-14
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+               IM NAMEN DES VOLKES
+
+                      URTEIL
+Xa ZR 15/10                              Verkündet am:
+                                         14. Oktober 2010
+                                         Wermes
+                                         Justizamtsinspektor
+                                         als Urkundsbeamter
+                                         der Geschäftsstelle
+                   in dem Rechtsstreit
+
+                                    -2-
+
+
+
+     Der Xa-Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung vom 14. Oktober 2010 durch den Richter Keukenschrijver, die Richterin
+Mühlens, die Richter Dr. Bacher und Hoffmann und die Richterin Schuster
+
+
+für Recht erkannt:
+
+
+     Die Revision gegen das am 23. November 2009 verkündete Urteil
+     des 20. Zivilsenats des Kammergerichts wird auf Kosten der Klägerin
+     zurückgewiesen.
+
+
+                             Von Rechts wegen
+
+                                          -3-
+
+
+
+
+                                      Tatbestand:
+
+
+1        Das klagende Luftverkehrsunternehmen macht einen nach Grund und
+    Höhe unstreitigen Anspruch auf Vergütung für einen Flug geltend. Der Beklagte
+    hat gegen die Klageforderung mit einem Anspruch auf Ausgleich im Zusammenhang mit einem anderen, zuvor absolvierten Flug aufgerechnet, bei dem er
+    wegen Stornierung der ersten Teilstrecke einen Tag später als geplant am Endziel angekommen war.
+
+
+2        Der Aufrechnungsforderung liegt folgender Sachverhalt zugrunde: Der
+    Beklagte buchte bei der Klägerin für seine Ehefrau und sich einen Flug von Berlin über Amsterdam nach Aruba und zurück. Der Hinflug von Berlin nach Amsterdam war für den 3. Mai 2005 um 11:40 Uhr vorgesehen, der Anschlussflug in
+    Amsterdam sollte um 14:25 Uhr starten. Ungefähr zwei Stunden vor dem Abflug
+    zog die Klägerin die Flugscheine ein und gab stattdessen Flugscheine für einen
+    Flug am darauffolgenden Tag mit Abflug in Berlin um 9:05 Uhr und Abflug in
+    Amsterdam um 14:25 Uhr aus. Der Beklagte kam deshalb einen Tag später als
+    geplant in Aruba an. Der Flug von Amsterdam nach Aruba wurde sowohl am 3.
+    als auch am 4. Mai planmäßig durchgeführt.
+
+
+3        Am 3. Oktober 2005 trat der Beklagte in einem Flugzeug der Klägerin einen Flug von Berlin über Amsterdam nach Curaçao und zurück nach Amsterdam an. Die für diesen Flug geschuldete Vergütung von 1.157,62 Euro beglich
+    er nicht. Gegenüber der Klage, die auf Zahlung des genannten Betrages sowie
+    Erstattung vorgerichtlicher Anwaltskosten gerichtet ist, hat er mit einem Ausgleichsanspruch wegen Annullierung des Flugs im Mai 2005 aufgerechnet, den
+    er mit mindestens 1.200 Euro beziffert.
+
+                                         -4-
+
+
+
+4        Das Amtsgericht hat die Klage abgewiesen. Die Berufung der Klägerin ist
+    erfolglos geblieben. Mit ihrer vom Berufungsgericht zugelassenen Revision verfolgt die Klägerin ihr Begehren in vollem Umfang weiter. Der Beklagte tritt dem
+    Rechtsmittel entgegen.
+
+
+
+
+                                Entscheidungsgründe:
+
+
+5        Die zulässige Revision bleibt ohne Erfolg. Der Beklagte hat gegen den
+    Vergütungsanspruch der Klägerin wirksam aufgerechnet.
+
+
+6        I.   Das Berufungsgericht hat seine die erstinstanzliche Klageabweisung
+    im Ergebnis bestätigende Entscheidung wie folgt begründet:
+
+
+7        Dem Beklagten stehe wegen Annullierung des Flugs von Berlin nach Amsterdam ein Ausgleichsanspruch gemäß Art. 5 Abs. 1 Buchst. c und Art. 7 der
+    Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments und des Rates
+    vom 11. Februar 2004 über eine gemeinsame Regelung für Ausgleichs- und
+    Unterstützungsleistungen für Fluggäste im Fall der Nichtbeförderung und bei
+    Annullierung oder großer Verspätung von Flügen und zur Aufhebung der Verordnung (EWG) Nr. 295/91 (nachfolgend: FluggastrechteVO) zu. Entgegen der
+    Auffassung der Klägerin handle es sich insoweit um eine Annullierung und nicht
+    lediglich um eine Verspätung. Unabhängig davon stehe dem Fluggast nach der
+    Rechtsprechung des Gerichtshofs der Europäischen Union auch bei erheblicher
+    Verspätung ein Ausgleichsanspruch zu. Die Klägerin sei nicht nach Art. 5
+    Abs. 3 von der Zahlung befreit. Sie habe nicht substantiiert vorgetragen, dass
+    die Annullierung auf nicht vermeidbaren außergewöhnlichen Umständen beruht
+    habe. Ihre Behauptung, das für den Flug vorgesehene Flugzeug habe wegen
+    Nebels nicht rechtzeitig von Amsterdam nach Berlin fliegen können, sei uner-
+
+                                          -5-
+
+
+
+     heblich. Dieser Umstand könnte allenfalls dann zu einer Entlastung führen,
+     wenn eine Entscheidung der Flugsicherung dazu geführt hätte, dass die Maschine nicht rechtzeitig verfügbar gewesen sei. Hierzu habe die Klägerin nichts
+     Konkretes vorgetragen. Die Annullierung des Flugs erfasse jedoch nicht den
+     Weiterflug des Beklagten von Amsterdam nach Aruba. Bei der Bemessung der
+     Ausgleichszahlung sei jede Teilstrecke gesondert zu betrachten. Deshalb könne nur die Entfernung zwischen Berlin und Amsterdam berücksichtigt werden.
+     Hieraus ergebe sich ein Ausgleichsanspruch von 250 Euro je Flug.
+
+
+8         Dem Beklagten stehe ferner ein Anspruch auf Ausgleichszahlung wegen
+     der Umbuchung des Flugs von Amsterdam nach Aruba zu. Die gegen den Willen des Beklagten erfolgte Umbuchung dieses Flugs komme einer Weigerung
+     gleich, den Beklagten zu befördern. Für diese Strecke ergebe sich ein Ausgleichsanspruch von 600 Euro je Flug.
+
+
+9         Soweit die Klägerin in der Berufungsinstanz erstmals vorgetragen habe,
+     ausführendes Luftfahrtunternehmen sei nicht sie, sondern das Luftfahrtunternehmen KLM Cityhopper gewesen, sei ihr Vortrag unsubstantiiert und widerspreche ihrem vorherigen Vorbringen. Unabhängig davon sei ein Luftfahrtunternehmen gemäß Art. 2 Buchst. b FluggastrechteVO auch dann ausführendes
+     Luftfahrtunternehmen im Sinne der Verordnung, wenn es einen bei ihm gebuchten Flug durch ein anderes Unternehmen durchführen lasse.
+
+
+10        II.   Diese Beurteilung hält der Überprüfung im Revisionsverfahren im Ergebnis stand.
+
+
+11        1.    An ihrer Rüge, das Berufungsgericht habe die Aktivlegitimation des
+     Beklagten zu Unrecht bejaht, soweit dieser einen Ausgleichsanspruch für seine
+     Ehefrau geltend mache, hat die Revision in der mündlichen Verhandlung vor
+     dem Senat nicht mehr festgehalten.
+
+                                             -6-
+
+
+
+12        2.       Zu Recht hat das Berufungsgericht die Passivlegitimation der Klägerin bejaht.
+
+
+13        Das Berufungsgericht hat den ursprünglichen Vortrag der Klägerin zutreffend als Geständnis dahin ausgelegt, dass sie bei allen in Rede stehenden Flügen ausführendes Luftfahrtunternehmen war. Die Klägerin hat demgegenüber
+     nicht vorgetragen, dass dieses Vorbringen auf einem Irrtum beruhte. Unabhängig davon trägt die Klägerin gemäß § 290 ZPO die Darlegungs- und Beweislast
+     dafür, dass sie nicht das ausführende Luftfahrtunternehmen war. Die vom Berufungsgericht vorgenommene Würdigung, der in von der Klägerin vorgelegten
+     Unterlagen enthaltene Vermerk "ausgeführt von KLM Cityhopper" reiche hierfür
+     nicht aus, ist revisionsrechtlich nicht zu beanstanden. Für den von der Revision
+     angeführten Vermerk "operated by KLM Cityhopper" in den vom Beklagten vorgelegten Unterlagen, der sich ohnehin nur auf den Flug am 4. Mai 2005 bezieht,
+     gilt nichts anderes.
+
+
+14        3.       Dem Beklagten steht wegen Annullierung des Flugs von Berlin nach
+     Amsterdam aus Art. 5 Abs. 1 Buchst. c und Art. 7 Abs. 1 FluggastrechteVO ein
+     Ausgleichsanspruch in Höhe von 600 Euro pro Person zu.
+
+
+15        a)       Zutreffend ist das Berufungsgericht zu dem Ergebnis gelangt, dass
+     der für den 3. Mai 2005 um 11:40 Uhr vorgesehene Flug annulliert wurde.
+
+
+16        Als Annullierung ist gemäß Art. 2 Buchst. l FluggastrechteVO die Nichtdurchführung eines geplanten Flugs anzusehen, für den zumindest ein Platz
+     reserviert war. Nach der Rechtsprechung des Gerichtshofs der Europäischen
+     Union ist grundsätzlich von einer Annullierung auszugehen, wenn der ursprünglich geplante und verspätete Flug auf einen anderen Flug verlegt wird, d.h.
+     wenn die Planung des ursprünglichen Flugs aufgegeben wird und die Fluggäste
+     dieses Flugs zu den Fluggästen eines anderen, ebenfalls geplanten Flugs sto-
+
+                                              -7-
+
+
+
+     ßen, und zwar unabhängig von dem Flug, für den die so umgebuchten Fluggäste gebucht hatten (EuGH, Urteil vom 19. November 2009 - C-402/07 und
+     C-432/07, NJW 2010, 43 = RRa 2009, 282 Rn. 36 - Sturgeon).
+
+
+17         Im Streitfall hat der für den 3. Mai 2005 um 11:40 Uhr geplante Flug nach
+     den von der Revision nicht angegriffenen Feststellungen des Berufungsgerichts
+     nicht stattgefunden. Der Beklagte und seine Ehefrau sind auf einen anderen,
+     ebenfalls geplanten Flug umgebucht worden. Hieraus hat das Berufungsgericht
+     zutreffend gefolgert, dass der erste Flug annulliert worden ist. Besondere Umstände, die zu einer abweichenden Beurteilung führen könnten, zeigt die Revision nicht auf.
+
+
+18         Das Revisionsvorbringen, aus Hinweisen auf der Anzeigetafel des Flughafens oder Angaben des Personals dürfe nicht auf das Vorliegen einer Annullierung geschlossen werden, geht ins Leere. Das Berufungsgericht hat seine
+     rechtliche Bewertung nicht auf solche Umstände gestützt.
+
+
+19         b)       Rechtsfehlerfrei hat das Berufungsgericht entschieden, dass die Klägerin nicht nach Art. 5 Abs. 3 FluggastrechteVO von der Ausgleichszahlung
+     befreit ist.
+
+
+20         (1)      Nach den Feststellungen des Berufungsgerichts standen die vorhergesagten und die tatsächlichen Witterungsbedingungen am 3. Mai 2005 weder
+     einem Start in Berlin noch einer Landung in Amsterdam zu den dafür geplanten
+     Zeitpunkten entgegen.
+
+
+21         Die Revision rügt, das Berufungsgericht habe hierbei Vortrag der Klägerin
+     übergangen, wonach die Wetterlage eine sichere Landung in Amsterdam nicht
+     zugelassen habe. Diese Rüge ist unbegründet.
+
+                                            -8-
+
+
+
+22        Das Berufungsgericht hat diesen Vortrag nicht übergangen. Es hat sich
+     der Würdigung des Amtsgerichts angeschlossen, wonach die Klägerin den insoweit erforderlichen Beweis nicht erbracht hat, und festgestellt, dass die erstinstanzliche Entscheidung insoweit von der Berufung nicht angegriffen worden
+     ist. Diese Beurteilung ist revisionsrechtlich nicht zu beanstanden.
+
+
+23        Das Berufungsgericht hatte seiner Entscheidung gemäß § 529 Abs. 1
+     Nr. 1 ZPO die vom Amtsgericht getroffenen Feststellungen zu Grunde zu legen.
+     Die Revision zeigt nicht auf, dass die Klägerin in zweiter Instanz konkrete Anhaltspunkte vorgetragen hat, die Zweifel an der Vollständigkeit oder Richtigkeit
+     dieser Feststellung begründeten.
+
+
+24        Die von der Revision angeführte Bezugnahme auf den erstinstanzlichen
+     Vortrag in der Berufungsbegründung reicht insoweit nicht aus. Dem weiteren
+     Inhalt der Berufungsbegründung lassen sich keine Anhaltspunkte entnehmen,
+     die die Feststellungen des Amtsgerichts in Frage stellten. Die Klägerin hat geltend gemacht, das vorgesehene Flugzeug habe bereits den vorangehenden
+     Flug von Amsterdam nach Berlin nicht absolvieren können. Darüber hinaus hat
+     sie beanstandet, das Amtsgericht habe zu Unrecht auf die Wetterlage in Berlin
+     zum vorgesehenen Startzeitpunkt (11:40 Uhr MESZ) und auf die Möglichkeit
+     einer Landung in Amsterdam zum vorgesehenen Zeitpunkt (13:05 Uhr MESZ)
+     abgestellt. Hierzu hat sie ausgeführt, diese Umstände seien für die Beurteilung
+     unerheblich. Ergänzend hat sie vorgetragen, in Amsterdam habe noch bis 9:55
+     Uhr dichter Nebel geherrscht; erst gegen 11:55 Uhr habe sich das Wetter gebessert. Anhaltspunkte dafür, dass die Feststellungen des Amtsgerichts zur
+     Wetterlage um 13:05 Uhr unrichtig oder unvollständig sind, ergaben sich aus
+     diesem Vorbringen nicht.
+
+
+25        (2)   Den Umstand, dass das vorgesehene Flugzeug wegen schlechten
+     Wetters bereits den vorherigen Flug von Amsterdam nach Berlin nicht antreten
+
+                                             -9-
+
+
+
+     konnte und deshalb in Berlin nicht zur Verfügung stand, hat das Berufungsgericht rechtsfehlerfrei als für eine Entlastung nach Art. 5 Abs. 3 Fluggastrechte-VO nicht ausreichend angesehen.
+
+
+26           Zwar ergibt sich, wie das Berufungsgericht zutreffend dargelegt hat, aus
+     Erwägungsgrund 15 der Fluggastrechteverordnung, dass Wetterverhältnisse,
+     die der Durchführung eines einzelnen Flugs entgegenstehen, auch hinsichtlich
+     weiterer Flüge außergewöhnliche Umstände im Sinne der Verordnung darstellen können, wenn sie zu einer Entscheidung des Flugverkehrsmanagements
+     führen, die zur Folge hat, dass es bei einem oder mehreren Flügen des betreffenden Flugzeugs zu einer großen Verspätung, einer Verspätung bis zum
+     nächsten Tag oder zu einer Annullierung kommt, obgleich vom betreffenden
+     Luftfahrtunternehmen alle zumutbaren Maßnahmen ergriffen wurden, um die
+     Verspätungen oder Annullierungen zu verhindern. Es bedarf jedoch konkreten
+     Vortrags dazu, aufgrund welcher Umstände es zu der Annullierung gekommen
+     ist, welche Auswirkungen dies auf die nachfolgend geplanten Flüge gehabt hat
+     und welche Möglichkeiten zur Verfügung standen, um diese Folgen zu verhindern.
+
+
+27           Im Streitfall kann dahingestellt bleiben, ob der Vortrag der Klägerin, das
+     für die Beförderung vorgesehene Flugzeug habe in Amsterdam nicht starten
+     können und sei deshalb in Berlin nicht verfügbar gewesen, zur Darlegung eines
+     außergewöhnlichen Umstands ausreicht. Dieses Vorbringen und der ergänzende Vortrag, ein Ersatzflug sei in der Kürze der Verspätungszeit nicht zu organisieren gewesen, lassen jedenfalls nicht erkennen, dass die Klägerin alle zumutbaren Maßnahmen ergriffen hat, um die Annullierung des vom Beklagten gebuchten Flugs zu verhindern.
+
+
+28           Nach der Rechtsprechung des Gerichtshofs der Europäischen Union ist
+     Art. 5 Abs. 3 FluggastrechteVO als Ausnahmebestimmung eng auszulegen
+
+                                          - 10 -
+
+
+
+     (EuGH, Urteil vom 22. Dezember 2008 - C-549/07, Slg. 2008 I 11061 = NJW
+     2009, 347 = RRa 2009, 35 Rn. 20 - Wallentin-Hermann). Zwar können Wetterverhältnisse, die zu Annullierungen oder Verspätungen führen, außergewöhnliche Umstände im Sinne der genannten Vorschrift darstellen. Dem Luftverkehrsunternehmen obliegt es aber, darzulegen und erforderlichenfalls zu beweisen, dass es ihm auch unter Einsatz aller ihm zur Verfügung stehenden personellen, materiellen und finanziellen Mittel offensichtlich nicht möglich gewesen wäre, ohne angesichts der Kapazitäten des Unternehmens zum maßgeblichen Zeitpunkt nicht tragbare Opfer die außergewöhnlichen Umstände zu vermeiden, mit denen es konfrontiert war und die zur Annullierung des Flugs geführt haben (EuGH, aaO Rn. 40 f.).
+
+
+29        Vor diesem Hintergrund führte der Vortrag der Klägerin zu den Gründen,
+     aus denen das für die Beförderung vorgesehene Flugzeug nicht verfügbar war,
+     nicht zu einer Entlastung gemäß Art. 5 Abs. 3 FluggastrechteVO. Die Klägerin
+     hätte darlegen müssen, welche anderen personellen, materiellen und finanziellen Mittel ihr zur Verfügung standen, um den Flug zum geplanten Zeitpunkt
+     durchzuführen und aus welchen Gründen es ihr gegebenenfalls nicht zumutbar
+     war, auf diese Ressourcen zurückzugreifen. Ihr Vortrag, an dem in Rede stehenden Tag hätten allein 23 ihrer Maschinen in Amsterdam wegen des schlechten Wetters weder starten noch landen können, führt zu keiner anderen Beurteilung. Zwar bedarf es entgegen der Auffassung der Revisionserwiderung grundsätzlich keiner näheren Darlegungen dazu, warum angesichts bestehender Einschränkungen im Luftraum über Amsterdam gerade die hier in Rede stehenden
+     Flüge und nicht stattdessen andere Flüge annulliert worden sind. Der Vortrag
+     der Klägerin lässt aber nicht erkennen, ob und welche Möglichkeiten bestanden, von Amsterdam aus schon zu einem früheren Zeitpunkt ein Flugzeug auf
+     den Weg nach Berlin zu bringen. Darüber hinaus geht, wie das Berufungsgericht zutreffend ausgeführt hat, aus den Darlegungen der Klägerin nicht hervor,
+     welche Möglichkeiten in Betracht kamen, ein Flugzeug von einem anderen
+
+                                           - 11 -
+
+
+
+     Flughafen nach Berlin umzuleiten. Aus diesem Grund ist auch das Vorbringen
+     der Klägerin, sie könne aus wirtschaftlichen Gründen in Berlin keine Ersatzflugzeuge vorhalten, unzureichend. Sollte die Klägerin im Vorfeld keine Vorkehrungen dagegen getroffen haben, dass aufgrund von Startverzögerungen eines
+     Flugzeugs auf einem einzelnen Flughafen alle für diesen Tag mit dieser Maschine geplanten Flüge annulliert werden müssen, wäre dies im Hinblick auf
+     den Ausnahmecharakter, der der Regelung in Art. 5 Abs. 3 FluggastrechteVO
+     zukommt, nicht ausreichend, um den Ausgleichsanspruch des Beklagten entfallen zu lassen.
+
+
+30          Dem von der Revision ergänzend angeführten Umstand, dass es sich bei
+     Aruba um ein "exotisches" Reiseziel handle, kommt im Streitfall keine Bedeutung bei. Der annullierte Flug sollte von Berlin nach Amsterdam führen. Seine
+     Durchführung war unabhängig von der Durchführung des Anschlussflugs von
+     Amsterdam nach Aruba, der nach den von der Revision nicht angegriffenen
+     Feststellungen des Berufungsgerichts am 3. Mai 2005 planmäßig stattgefunden
+     hat.
+
+
+31          c)    Entgegen der Auffassung des Berufungsgerichts ist bei der Bemessung der Anspruchshöhe nicht nur die Entfernung zwischen Berlin und Amsterdam, sondern auch die Entfernung zwischen Amsterdam und Aruba zu berücksichtigen.
+
+
+32          (1)   Nach Art. 7 Abs. 1 Satz 2 FluggastrechteVO wird bei der Ermittlung
+     der Entfernung der letzte Zielort zu Grunde gelegt, an dem der Fluggast infolge
+     der Annullierung später als zur planmäßigen Ankunftszeit ankommt. Damit ist
+     nicht allein auf den Zielort des einzelnen Beförderungsvorgangs abzustellen,
+     der annulliert worden ist. Vielmehr sind auch die Zielorte von direkten Anschlussflügen im Sinne von Art. 2 Buchst. h FluggastrechteVO zu berücksichti-
+
+                                              - 12 -
+
+
+
+     gen, sofern die Annullierung dazu führt, dass der Fluggast auch an diesen verspätet ankommt.
+
+
+33        Dem steht nicht entgegen, dass Art. 7 Abs. 1 Satz 2 FluggastrechteVO
+     nicht an den Begriff des Endziels im Sinne von Art. 2 Buchst. h Fluggastrechte-VO, sondern abweichend davon an einen "Zielort" anknüpft. Eine ähnliche Differenzierung ("final destination" - "last destination"; "destino final" - "último destino"; "slutlig bestämmelseort" - "sista bestämmelseort") findet sich auch in der
+     englischsprachigen, der spanischsprachigen und der schwedischsprachigen
+     Fassung der Verordnung, während die französischsprachige, die italienischsprachige und die niederländischsprachige Fassung für beide Fälle jeweils denselben Begriff ("destination finale", "destinazione finale" und "eindbestemming")
+     verwenden. Auch nach den Fassungen, die insoweit unterschiedliche Begriffe
+     verwenden, ergibt sich aus der Anknüpfung an den "letzten" Zielort, dass für die
+     Bemessung der Ausgleichszahlung mehrere Zielorte in Betracht kommen können (ebenso Rennig, RRa 2008, 58, 59). Entgegen der Auffassung der Klägerin
+     ist deshalb nicht nur der Zielort des annullierten Beförderungsvorgangs maßgeblich. Im Falle von direkten Anschlussflügen sind vielmehr auch die weiteren
+     Zielorte zu berücksichtigen, an denen der Fluggast infolge der Annullierung verspätet ankommt. Diese Orte sind nicht zwingend mit dem Endziel im Sinne von
+     Art. 2 Buchst. h FluggastrechteVO identisch.
+
+
+34        Die Rechtsprechung des Gerichtshofs der Europäischen Union, wonach
+     ein aus Hin- und Rückflug bestehender Beförderungsvorgang nicht als einheitlicher Flug im Sinne von Art. 3 Abs. 1 Buchst. a FluggastrechteVO anzusehen
+     ist (EuGH, Urteil vom 10. Juli 2008 - C-173/07, Slg 2008 I 5237 = NJW 2008,
+     2697 = RRa 2008, 237 Rn. 53 - Schenkel), spricht nicht gegen, sondern für diese Auslegung. Der Gerichtshof hat seine Auffassung unter anderem darauf gestützt, dass der Begriff "Endziel" in Art. 2 Buchst. h FluggastrechteVO als der
+     Zielort auf dem am Abfertigungsschalter vorgelegten Flugschein bzw. bei direk-
+
+                                           - 13 -
+
+
+
+     ten Anschlussflügen als der Zielort des letzten Flugs definiert wird. Hieraus hat
+     der Gerichtshof die Schlussfolgerung gezogen, dass das Endziel mit dem ersten Abflugort nicht identisch sein kann (aaO Rn. 33 f.). Daraus ergibt sich nicht
+     nur, dass Hin- und Rückflug als gesonderte Flüge im Sinne von Art. 3 FluggastrechteVO anzusehen sind, sondern auch, dass bei direkten Anschlussflügen nicht ausschließlich der Zielort einer einzelnen Teilstrecke maßgeblich ist.
+
+
+35        Zusätzlich bestätigt wird dieses Ergebnis durch die Rechtsprechung des
+     Gerichtshofs zum Ausgleichsanspruch im Falle einer Verspätung. Ein solcher
+     Anspruch setzt unter anderem voraus, dass der Fluggast das Endziel nicht früher als drei Stunden nach der von dem Luftfahrtunternehmen ursprünglich geplanten Ankunftszeit erreicht (EuGH, Urteil vom 19. November 2009, aaO
+     Rn. 69 - Sturgeon). Bei direkten Anschlussflügen im Sinne von Art. 2 Buchst. h
+     FluggastrechteVO ist mithin nicht eine Verspätung am Zielort einer einzelnen
+     Teilstrecke maßgeblich, sondern eine Verspätung am Endziel, d.h. am letzten
+     Zielort. Im Zusammenhang mit Art. 7 Abs. 1 Satz 2 FluggastrechteVO, wonach
+     der letzte Zielort maßgeblich ist, an dem der Fluggast infolge der Annullierung
+     verspätet ankommt, kann nichts anderes gelten.
+
+
+36        Die Rechtsprechung des erkennenden Senats zu anderen Fällen, in denen Fluggäste wegen eines verspäteten Zubringerflugs einen planmäßigen Anschlussflug verpasst hatten, führt zu keiner anderen Beurteilung. In diesen Entscheidungen - die vor dem Urteil des Gerichtshofs der Europäischen Union vom
+     19. November 2009 zu Ausgleichsansprüchen bei Verspätung ergangen sind -
+     ging es darum, ob hinsichtlich des Anschlussflugs ein Fall der Nichtbeförderung
+     im Sinne von Art. 4 Abs. 3 FluggastrechteVO vorlag (Senatsurteil vom 30. April
+     2009 - Xa ZR 78/08, NJW 2009, 2740 = RRa 2009, 239 Rn. 10) und ob der Anschlussflug in den Anwendungsbereich der Verordnung fällt (Senatsurteil vom
+     28. Mai 2009 - Xa ZR 113/08, NJW 2009, 2743 = RRa 2009, 242 Rn. 8). Anders als im Streitfall war dort nicht zu beurteilen, ob schon wegen des Zubrin-
+
+                                          - 14 -
+
+
+
+     gerfluges ein Ausgleichsanspruch bestand. In den zu Grunde liegenden Sachverhalten war der Zubringerflug nicht annulliert, sondern verspätet durchgeführt
+     worden, so dass Art. 7 FluggastrechteVO nicht unmittelbar anwendbar war.
+
+
+37        (2)   Das Berufungsgericht hat die Berücksichtigung der zweiten Teilstrecke mit der Begründung abgelehnt, die verspätete Ankunft in Aruba habe
+     ihre Ursache nicht in der Annullierung, sondern in der Umbuchung. Hierbei hat
+     das Berufungsgericht außer Acht gelassen, dass es für die Umbuchung der
+     zweiten Teilstrecke keinen Anlass gegeben hätte, wenn der Beklagte und seine
+     Ehefrau zum vorgesehenen Zeitpunkt in Amsterdam angekommen wären. Der
+     Flug von Amsterdam nach Aruba hat nach den Feststellungen des Berufungsgerichts planmäßig stattgefunden. Dass der Beklagte und seine Ehefrau an diesem Flug nicht teilnehmen konnten, ist mithin eine Folge der von der Klägerin
+     vorgenommenen Annullierung des Flugs von Berlin nach Amsterdam.
+
+
+38        d)    Eine Vorlage an den Gerichtshof der Europäischen Union gemäß
+     Art. 267 AEUV ist nicht veranlasst. Die für die Entscheidung des Streitfalls erheblichen Fragen zur Auslegung der Fluggastrechteverordnung sind in der
+     Rechtsprechung des Gerichtshofs hinreichend geklärt.
+
+
+39        (1)   Der Gerichtshof hat die entscheidenden Gesichtspunkte für die Auslegung von Art. 5 Abs. 3 FluggastrechteVO bereits in dem oben erwähnten Urteil vom 22. Dezember 2008 (aaO - Wallentin-Hermann) aufgezeigt. Die Frage,
+     ob außergewöhnliche Umstände vorgelegen haben und ob das betroffene Luftfahrtunternehmen die der Situation angemessenen Maßnahmen ergriffen hat,
+     ist von den Gerichten der Mitgliedstaaten unter Anwendung dieser Grundsätze
+     im Einzelfall zu prüfen (EuGH, aaO Rn. 42).
+
+
+40        (2)   Die Auslegung von Art. 7 Abs. 1 Satz 2 FluggastrechteVO und des
+     danach maßgeblichen Begriffs des letzten Zielorts sind durch das Urteil des
+
+                                          - 15 -
+
+
+
+     Gerichtshofs vom 10. Juli 2008 (aaO - Schenkel) hinreichend geklärt. Zwar betrifft diese Entscheidung die Auslegung von Art. 3 Abs. 1 FluggastrechteVO. Die
+     in den Gründen dieser Entscheidung enthaltenen Ausführungen zum Begriff
+     des Zielorts haben aber auch für Art. 7 Abs. 1 Satz 2 eine hinreichende Klärung
+     der Rechtslage bewirkt, die durch das Urteil des Gerichtshofs vom 19. November 2009 (aaO - Sturgeon) bestätigt worden ist.
+
+
+41        4.   Ob dem Beklagten ein weitergehender Anspruch wegen Nichtbeförderung auf der Teilstrecke von Amsterdam nach Aruba zusteht, bedarf keiner
+     Entscheidung. Der Vergütungsanspruch der Klägerin in Höhe von 1.157,62 Euro ist bereits durch die Aufrechnung mit dem aus der Annullierung der ersten
+     Teilstrecke entstandenen Anspruch auf Zahlung von 1.200 Euro erloschen.
+
+                                          - 16 -
+
+
+
+42        III.   Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.
+
+
+     Keukenschrijver                      Mühlens                       Bacher
+
+
+                             Hoffmann                        Schuster
+
+
+
+
+     Vorinstanzen:
+     AG Berlin-Spandau, Entscheidung vom 29.02.2008 - 3 C 9/07 -
+     KG Berlin, Entscheidung vom 23.11.2009 - 20 U 62/08 -
