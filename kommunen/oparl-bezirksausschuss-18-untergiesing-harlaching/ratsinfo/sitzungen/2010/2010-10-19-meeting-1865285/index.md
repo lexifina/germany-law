@@ -1,0 +1,106 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1865285
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1865285
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Neubau einer Kinderkrippe in der Bozzarisstraße 2; Kiosk in der Naupliastraße 115 a; Vorstellung der Baupläne durch die Eigentümer; Schreiben der Grundstückseigentümer vom 02.09.10
+- TOP 2.2.: Verkehrsprobleme Pilgersheimer Straße; Bürgerschreiben vom 27.09.2010
+- TOP 2.3.: Säbener Straße - Verengung der Einmündung Aggensteinstraße; Bürgerschreiben vom 24.09.10
+- TOP 2.4.: Prüfung der Erweiterung der Kurzparkzone in der St.-Magnus-Straße; Bürgerschreiben vom 04.10.2010
+- TOP 2.5.: Parkraumbewirtschaftung Sachsenstraße / Parksituation Schyrenbadviertel; Bürgerschreiben vom 06.10.2010 (ED)
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Elternbeirat der Grundschule Fromundstraße, für die Maßnahme: Projekt "Tanz und Schule" im Schuljahr 2010/2011; Antragssumme: 2.720,00; Beschlussvorlage des Direktoriums vom 21.09.10
+- TOP 3.2.: AntragstellerIn: Sozialer Hilfsdienst Weiße Feder gGmbH, für die Maßnahme: Anschaffung eines Kühlschranks, 2 Transportboxen sowie Materialkosten; Antragssumme: 1.113,99 ?; Beschlussvorlage des Direktoriums vom 28.09.10
+- TOP 3.1.: Jahresempfang 2011; 5.000 Euro für die Durchführung; Antrag des BA-Vorsitzenden vom 30.09.10
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Zuwendung aus dem Budget der Bezirksausschüsse; Antrag der "urbanauten" für das Projekt "Isarlust - Temporäre Fußgängerbrücke"; E-Mail der "urbanauten" vom 17.09.2010 (Absage des Projekts); Schreiben des Direktoriums vom 20.09.10
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Konradinstraße - problematische Verkehrssituation durch parkende Lkws der Firma Lober; Antwortschreiben des BA 18 vom August 2010; weiteres Bürgerschreiben vom 07.09.10 (siehe TOP 2.1.2.1 der Sitzung vom 17.08.10)
+- TOP 3.1.: Am Hollerbusch; Einrichtung einer Anfahrtszone für einen Kindergarten; verkehrsrechtliche Anordnung nach § 45 StVO; Zuleitung des KVR vom 22.09.10 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 3.2.: Verlegung der Haltstelle Theodolindenstraße der Buslinie 139; Schreiben der MVG vom 24.09.10 mit der Bitte um Stellungnahme
+- TOP 3.1.: Parklizenzen auch für Inhaber von Zweitwohnungen; Antrag Nr. 02-08 / A 04317 von Herrn Stadtrat J. Schmid vom 17.03.08; Sitzungsvorlagen Nr. 08-14 / V 03348; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10 (SB)
+- TOP 3.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2011; Sitzungsvorlage Nr. 08-14 / V 04613; Beschluss der Vollversammlung des Stadtrates vom 28.07.10
+- TOP 3.3.: Bahntrassen in München langfristig sichern; Antrag Nr. 08-14 / A 01295 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 18.01.2010; Sitzungsvorlage Nr. 08-4 / V 05086; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 (SB)
+- TOP 3.4.: Planfeststellung nach § 18 Abs. 1 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben: 2. S-Bahn-Stammstrecke München; Planfeststellungsabschnitt 3 neu München Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief) - Anhörungsverfahren; a) Neuplanung des Ostabschnittes - PFA 3 neu, b) Ergebnisse der Überprüfung der Planunterlagen und der Bezirksausschussanhörung, Stellungnahme der Landeshauptstadt München; c) weiteres Vorgehen, d) Anträge und Empfehlungen; Sitzungsvorlage Nr. 02-08 / V 05172; Beschluss des Vollversammlung des Stadtrats vom 06.10.2010
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vorschläge des BA 18 zum Aktionsplan zur Lärmminderung des Referates für Gesundheit und Umwelt (vertagt aus der Sitzung vom 21.09.10)
+- TOP 3.1.: Parkplatz des öffentlichen Bades Giesing-Harlaching und der städtischen Sporthalle an der Säbener Straße: Altglas- u. Wertstoff-Container; Bürgerschreiben vom 23.08.10; Antwortschreiben des AWM vom 27.09.10 (neutrale Erledigung)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 30.07.2010; Sitzungsvorlage Nr. 08-14 / V 05070; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 (VB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Neubebauung in der Athosstraße, Ecke Hochederstraße; Widerspruch gegen die Fällung der Tanne auf diesem Gelände (vertagt aus der Sitzung vom 21.09.10)
+- TOP 3.1.: Vereinbarungen im Rahmen der Erhaltungssatzung; Ortstermin im "Schwimmbadviertel"
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Schutz der Mieterinnen und Mieter im Zusammenhang mit dem Verkauf der GBW AG-Wohnungen; Antrag Nr. 08-14 / B 01883 des BA 18 vom 23.03.2010; Schreiben des Oberbürgermeisters vom 27.05.10; Anfrage des BA 18 aus der Sitzung vom 17.08.10; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 23.09.10 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Hans-Mielich-Platz; Neugestaltung des Platzbereiches und der Anschlussbereiche zu den umliegenden Straßen Gerhard-, Hans-Mielich-, Kühbach- und Teutoburger Straße im 18. Stadtbezirk Untergiesing-Harlaching; Verbesserung; Projektkosten (Kostenobergrenze); 1. Projektgenehmigung; 2. Genehmigung zur vorgezogenen Baumfällung; Sitzungsvorlage Nr. 08-14 / V 05085; Beschluss des Bauausschusses vom 28.09.10
+- TOP 3.3.: PERSPEKTIVE MÜNCHEN; Münchner Stadtteilstudie 2009; Sitzungsvorlagen Nr. 08-14 / V 04749; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10
+- TOP 3.4.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung; Verleihung der Ehrenpreise 2010; Sitzungsvorlagen Nr. 08-14 / V 05023; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10 (SB)
+- TOP 3.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2010 - 30.06.2010; Sitzungsvorlagen Nr. 08-14 / V 04978; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10
+- TOP 3.6.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Kaufpreisobergrenzen im München Modell-Eigentum 2. "EU will deutsches Einheimischenmodell kippen - ist München auch betroffen?" Antrag Nr. 08-14 / A 01652 der Stadtratsfraktion der CSU vom 29.06.10 3. Aufhebung einschränkender Bedingungen für Bewerbungen von Baugemeinschaften; Sitzungsvorlagen Nr. 08-14 / V 05036; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10 (VB)
+- TOP 3.7.: Satzung über das Verbot der Zweckentfremdung von Wohnraum; Katalog der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; 3.5.6.7.1 Anwesen Harthauser Str.; Unterrichtung vom 21.09.10
+- TOP 3.8.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.8.1 SSW mit beschränkter Küche "El Greco"; Säbener Str.; Mitteilung vom 28.09.2010
+- TOP 3.9.: Luxussanierungen in der Maxvorstadt a) Gibt es Untersuchungen oder sind solche geplant, die Auskunft darüber geben, welche Auswirkungen die Luxussanierungen von Gebäuden auf Veränderungen der Strukturen in Stadtbezirken haben? b) Schutz der von Luxussanierung betroffenen Mieter vor Kündigung, Vertreibung und überhöhten Mieten c) Einhaltung der Bauvorschriften in Gebieten mit Erhaltungssatzung Empfehlungen Nr. 08-14 / E 00473, E 00474 (Ziffer 1) und E 00475 (Ziffer 2) der Bürgerversammlung des Stadtbezirkes 3 ? Maxvorstadt am 19.11.2009; Sitzungsvorlage Nr. 08-14 / V 05167; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 (SB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Antrag der Bürgerinitiative "Mehr Platz zum Leben" für eine öffentlich-rechtliche Sondernutzungserlaubnis zum Aufstellen eines Weihnachtsbaumes am Hans-Mielich-Platz (Zeitraum: 29.11.10 bis 13.01.11); Zuleitung der BI Süd vom 30.09.10 mit der Bitte um Stellungnahme
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015; Anhörungsverfahren; Zuleitung der Stadtkämmerei vom 20.09.10 mit der Bitte um Stellungnahme bis 08.11.2010
+- TOP 4.3.2: Baumschutzfälle
+- TOP 4.3.2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.2.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.3.2.1.: Die Deutsche Post AG wird aufgefordert, dem Bezirksausschuss mitzuteilen, inwiefern sie noch Interesse daran hat, das Stadtviertel Harlaching mit Postdienstleistungen zu versorgen; BA-Antrag-Nr. 08-14 / B 02370 vom 17.08.10; Antwortschreiben des RAW vom 15.09.10 (positive Erledigung)
+- TOP 4.3.2.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.1.: UA Budget: Freitag, 15.10.10, 19.00 Uhr, Restaurant ?Asia Grill? UA Verkehr: Montag, 11.10.10, 19.00 Uhr, Gaststätte ?Gartenstadt? UA Umwelt: Donnerstag, 14.10.10, 18.30 Uhr, Gaststätte ?Gartenstadt? UA Soziales: Dienstag, 12.10.10, 19.00 Uhr, Gaststätte ?Gartenstadt? UA Bau und Planung: Donnerstag, 14.10.10, 19.00 Uhr, Gaststätte ?Gartenstadt? UA Kultur: Montag, 18.10.10, 18.00 Uhr, Gaststätte ?Hans-Mielich?
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
