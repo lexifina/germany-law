@@ -1,0 +1,107 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-10-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1805372
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1805372
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Entwicklung Hackenstraße 7
+- TOP .2.: Verkehrsführung Falckenbergstraße
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: BA: Fahrbahnverengung Corneliusstraße
+- TOP .2.: NACHTRAG: Neubau Residenzpost, energetische Effizienz
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Rumfordstraße 31
+- TOP .2.: Westenriederstraße 10
+- TOP .3.: Residenzstraße 2
+- TOP .5.: Damenstiftstraße 18
+- TOP .7.: Hackenstraße 7 (siehe TOP A 5.1)
+- TOP .1.: Mehrjahresinvestitionsprogramm: Fortschreibung für die Jahre 2011 bis 2015
+- TOP .1.: Bürger: Salotto, St.-Anna-Straße 11
+- TOP .2.: BA: Baustelle SZ-Gelände
+- TOP .1.: ?Café am Salvatorplatz?, Salvatorplatz 2: Verlegung und Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: ?Bar Comercial?, Theatinerstraße 16: Erweiterung einer bestehenden Freischank-fläche
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Infoveranstaltung DGB am 28.10.2010 am Richard-Strauß-Brunnen
+- TOP .2.: Infoveranstaltung BRK am 20.11.2010 am Richard-Strauß-Brunnen
+- TOP .3.: Infoveranstaltung ASB am 18.12.2010 am Richard-Strauß-Brunnen
+- TOP .4.: NACHTRAG: Kunstprojekt ?shadow play? an der Residenzpost
+- TOP .1.: UA: Schaltkasten für das Praterkraftwerk München
+- TOP .2.: Bürger: Verkehrssituation ?Am Gries?
+- TOP .3.: BA: Temporäre Umwandlung von KFZ-Stellplätzen in Fahrradabstellplätze
+- TOP .4.: BA: Öffnung des Radweges am östlichen Thomas-Wimmer-Ring für den Zwei-richtungsverkehr
+- TOP .5.: Bürger: Geschwindigkeitsüberwachung Radverkehr Residenzstraße - Marienstraße
+- TOP .1.: Solartag 2011 - Standortsuche
+- TOP .2.: Blaue Zone Graggenauviertel; Verkehrsregelung Falckenbergstraße (TOP A 5.2)
+- TOP .3.: Planfeststellung 2. S-Bahn-Stammstecke, Planfeststellungsabschnitt 1 ?München West? (Bereich Laim bis Karlsplatz mit Haltepunkt Bahnhof) ? 1. Planänderung
+- TOP .1.: Antwortschreiben Grundschule an der Herrnstraße
+- TOP .1.: Antrag des BA 2: Gestaltung der Unterführung Ludwigsbrücke mit Grafitti durch die ?Writers Corner München?
+- TOP .2.: NACHTRAG: FDP-Antrag: Aufwertung des Stadtmuseums
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Langzeitbelichtungen" Anschubfinanzierung für das Projekt "Langzeitbelichtungen"
+- TOP .2.: Budget: Verlängerung des Bewilligungszeitraums für ZAB e.
+- TOP .1.: Kulturstrand für München: Standortvorschläge des Kreisverwaltungsreferates
+- TOP .1.: BA-Termine 2011: Der UA Gastronomie & Öffentlicher Raum kann nicht am 02.06.2011 stattfinden (Christi Himmelfahrt), Festlegung eines Ausweichtermins
+- TOP .2.: Zustand der Schaukästen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Einladung zum Pressegespräch des Vorsitzenden am 24.09.2010
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Freistellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Bekanntgabe im Planungsausschuss vom 22.09.2010: Beschlussvollzugskontrolle
+- TOP 0.5.: Beschluss des Planungsausschusses vom 22.09.2010: Ehrenpreis für guten Wohnungsbau
+- TOP 0.6.: Beschluss des Planungsausschusses vom 22.09.2010: Wohnen in München IV
+- TOP 0.7.: Beschluss des Planungsausschusses vom 22.09.2010: PERSPEKTIVE MÜNCHEN Münchner Stadtteilstudie
+- TOP 0.8.: Beschluss des Planungsausschusses vom 22.09.2010: 40. städtischer Fassadenwettbewerb
+- TOP 0.9.: Bekanntgabe im Planungsausschuss vom 22.09.2010: Bebauungsplan Altheimer Eck
+- TOP 0.10.: Beschluss des Kommunalausschusses vom 17.06.2010: Altbausanierung Blumenstraße 29
+- TOP 0.11.: Antwortschreiben zum Bauvorhaben Neuhauser Straße 39
+- TOP 0.12.: Aufnahme des Anwesens Hotterstraße 10 in die Denkmalliste
+- TOP 0.13.: Beschluss des Planungsausschuss vom 13.10.2010: Ehrenpreis für guten Wohnungs-bau
+- TOP 0.14.: Bekanntgabe im Planungsausschuss vom 22.09.2010 zur Beschlussvollzugskontrolle
+- TOP 0.15.: Beschluss des Planungsausschuss vom 13.10.2010: Luxussanierung Maxvorstadt
+- TOP 0.16.: Beschluss des Planungsausschuss vom 13.10.2010: Vorhabenbezogener Bebauungsplan mit Grünordnung
+- TOP 0.17.: Änderung des Bebauungsplans: Erhaltung der Grünfläche Am Gries
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Fortführung der Gaststätte ?Tavernetta?, Hildegardstr. 9
+- TOP 0.5.: Beschluss des Bauausschusses vom 28.09.2010: Erhöhung der Anzahl der Mülleimer im Innenstadtbereich
+- TOP 0.6.: Antwortschreiben zum gewerblichen Abstellen von Fahrrädern auf öffentlichem Verkehrsgrund
+- TOP 0.7.: Unveränderte Fortführung der Gaststätte ?BO 12?, Seitzstr. 12
+- TOP 0.8.: Unveränderte Fortführung der Gaststätte ?Sushi Sano?, Josephspitalstr. 4
+- TOP 0.1.: Beschluss des Planungsausschusses vom 22.09.2010: Parklizenzen auch für Inhaber von Zweitwohnungen
+- TOP 0.2.: Beschluss des Bauausschusses vom 28.09.2010: Fußgängerzone, Barrierefreiheit ect.
+- TOP 0.3.: Beschluss des Bauausschusses vom 28.09.2010: Brücke Maximilianstraße über den Fabrikbach
+- TOP 0.4.: Beschluss des Bauausschusses vom 28.09.2010: Sendlinger Straße zwischen Färbergraben und Hackenstraße
+- TOP 0.5.: Fahrbahnsanierung Corneliusstraße zwischen Blumenstraße und Müllerstraße
+- TOP 0.6.: Ausnahmezulassung nächtlicher Bauarbeiten im Straßenraum Altheimer Eck ...
+- TOP 0.7.: Beschluss des Planungsausschuss vom 13.10.2010: Bahntrassen in München langfristig sichern
+- TOP 0.8.: Beschluss des Planungsausschuss vom 13.10.2010: Parklizenzen auch für Inhaber von Zweitwohnungen
+- TOP 0.9.: Beschluss des Planungsausschuss vom 13.10.2010: Planfeststellung 2. S-Bahnstammstrecke
+- TOP 0.10.: Ergänzung zum Beschluss der Vollversammlung vom 06.10.2010: Planfeststellungs- verfahren 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt 3
+- TOP 0.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010: Tageseinrichtungen, Tagespflege
+- TOP 0.2.: Beschluss des Bauausschusses vom 28.09.2010:
+- TOP 0.3.: Zwischeninformation zum Projekt LISAR
+- TOP 0.4.: Beschluss des Planungsausschuss vom 13.10.2010: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .6.: Sonnenstraße 29
+- TOP .3.2: Sonstige
