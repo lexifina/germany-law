@@ -1,0 +1,125 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-10-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813530
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813530
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Zuschuss für das Sommerfest 2010 der Teestube/ Sachbericht
+- TOP .2.: Beschwerde Mariahilfplatz: Lärmbelästigung durch Veranstaltung auf dem Wochenmarkt
+- TOP .3.: Verschmutzung der Umwelt und der Straßen in Haidhausen ausgehend von Häuserbaustellen durch kleinste Styroporkunststoffreste, durch Häuserwärmeisolierung und Leichtbetonbauweise
+- TOP .4.: Gefahrenstelle Rosenheimer Straße
+- TOP .5.: Zuschuss für das Sommerfest 2010 des Adelgundenheims, hier: Schreiben vom 01.10.2010
+- TOP .6.: Aschenbecher in der Pilgersheimer Str. 2
+- TOP .7.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .8.: Radeln auf der Rosenheimer Straße
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Falkenstr. 2 "Au Fein Cafe und Spezialitäten": Genehmigung einer Freischankfläche
+- TOP .2.: Innere Wiener Str. 54 "Metzgerei Wittmann": Genehmigung einer Freischankfläche
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Standortgenehmigung für Parkscheinautomaten im Lizenzgebiet Kirchenstraße - Grillparzerstraße zwischen Gaisbergstraße und Kirchenstraße
+- TOP .1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015
+- TOP .2.: Erbbaurechtsbestellung an einer städtischen Immobilie: Einsteinstr. 110, dazu auch: Sachstand des Neubaus des Alten- und Pflegeheimes an der Einsteinstr. 110
+- TOP .3.: Kulturstrand für München; Vorschlag für die Jahre 2011-2013
+- TOP .8.1: Erledigte BA-Anträge und Anfragen
+- TOP .1.: Stand der Arbeiten zur Radwegerweiterung in der Rosenheimer Straße
+- TOP .2.: Bauvorhaben Metzgerstr. 3: Stand der Realisierung und Ausbau als Kleinkinderbetreuung
+- TOP .3.: Wohnungsmix der GWG Wohnanlagen in der Au (Lilienstr., Mariahilfplatz, Kreuzplätzchen)
+- TOP .5.: Bäume trotz Sparten
+- TOP .6.: Zusätzliche Transportkapazitäten des MVV während des ökumenischen Kirchentages (BA-Antrag Nr. 08-14/ B 02163) Beschluss der Vollversammlung des Stadtrates am 28.07.2010
+- TOP .7.: Parksituation am City Hilton Hotel
+- TOP .8.2: Mitteilungen der Verwaltung - Reaktionen auf BA-Schreiben
+- TOP .1.: Zaun des kirchlichen Zentrums am Hypopark entschärfen
+- TOP .2.: Lichtzeichenanlagen-Bauprogramm 2010, hier: Geschwindigkeitsüberschreitungen am Motorama
+- TOP .3.: Verschiedene "Stolperfallen" im Stadtbezirk 5 Au-Haidhausen
+- TOP .4.: Weißenburger Platz, Radl-Sicherheitscheck der Stadt München am 20.09.2010 und 21.09.2010
+- TOP .5.: Freischankflächen der Gaststätten "Weincantina" Elsässer Str. 23 sowie "El Perro y El Griego" Belfortstr. 16
+- TOP .6.: Verlängerung der Öffnungszeiten der städtischen Freibäder
+- TOP .7.: Straßenbahn am Johannisplatz
+- TOP .8.: Abgestellte Fahhräder vor dem Anwesen Rablstr. 37
+- TOP .8.3: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .8.4: Sonstige Unterrichtungen
+- TOP .1.: Parklizenzen auch für Inhaber von Zweitwohnungen: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP .2.: Erweiterung des Parkraummanagementgebiets "Grillparzerstraße"
+- TOP .3.: Bauvorhaben: Eduard-Schmid-Str. zwischen Schweiger- und Schlotthauserstr.
+- TOP .4.: Absiedelung von Paulaner
+- TOP .5.: Lärmaktionsplanung
+- TOP .6.: 2. S-Bahn-Stammstrecke: Einwendungen in der Vollversammlung des Stadtrates am 06.10.2010, Abdruck der gesamtstädtischen Stellungnahme vom 12.10.2010
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Baumfällung Ismaninger Str. 50: 1 Spitzahorn
+- TOP .1.: BA-Budget: Kidz.digitalanalog Fotoworkshop - Verlängerung des Bewilligungszeitraumes
+- TOP .2.: Kulturzentrum Einstein
+- TOP .1.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms " Kinderbetreuungsfinanzierung" 2008-2013 und Art. 27 BayKiBiG; Haus für Kinder Wörthstr. 32, Neu- und Umbau und Ausstattung: Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 09.11.2010
+- TOP .2.: Möglichkeiten des Besuchs städtischer Schulen und Bildungseinrichtungen für Menschen mit Behinderungen, hier: Zwischennachricht
+- TOP .3.: Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Leistung eines Baukostenzuschusses nach dem BayKiBiG, Haus für Kinder an der Ohlmüllerstr. 40, Beschluss des Schul- und Sportausschusses des Stadtrates vom 22.09.2010
+- TOP .4.: Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Leistungen eines Baukostenzuschusses nach dem BayKiBiG; Haus für Kinder an der Kirchenstr. 19; Beschluss des Schul- und Sportausschusses des Stadtrates vom 22.09.2010
+- TOP .5.: Leistung eines Baukostenzuschusses nach dem BayKiBiG; Hort an der Spicherenstr. 8, Beschluss des Schul- und Sportausschusses des Stadtrates vom 22.09.2010
+- TOP .6.: Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege, Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive; Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010
+- TOP .7.: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe) B) Beschlussteil 1. Kaufpreisgrenzen im München-Modell- Eigentum 2. "EU will deutsches Einheimischenmodell kippen - ist München auch betroffen?" 3. Aufhebung einschränkender Bedingungen für Bewerbungen von Baugemeinschaften; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP .8.: Verbesserung der Versorgung psychisch kranker Menschen in der Sozialregion 3 Au-Haidhausen - Bogenhausen
+- TOP .9.: Anforderungsprofil für die öffentliche Ausschreibung des Grundstücks Grillparzer/ Einsteinstraße, Beschlussentwurf für den Sozialausschuss am 11.11.2010
+- TOP .1.: Stellungnahme zum Public Viewing am Bordeauxplatz nach Ortstermin? (vertagt aus 09/10)
+- TOP .2.: Versetzung der Litfaßsäulen am Rosenheimer Platz
+- TOP .1.: Perspektive München - Zentrenkonzept Broschüre
+- TOP .2.: Änderung der Straßenreinigungssatzung, Erhöhung der Zahl der Mülleimer im Innenstadtbereich, Beschluss des Bauausschusses vom 28.09.2010
+- TOP .3.: Erteilung einer Sondernutzungserlaubnis zum Aufstellen einer Warenstellage für Haushaltsartikel vor dem Ladengeschäft ?Le Bazar De Cuisine? in der Balanstr. 8, hier: Schreiben des Oberbürgermeisters vom 16.09.2010
+- TOP .1.: Bauvorhaben Milchstr. 25: Erweiterung eines Einfamilienhauses - VORBESCHEID
+- TOP .2.: Bauvorhaben Lilienstr. 29-49: Aufstockung mit Fassaden-/Balkonneugestaltung mit baulichen Änderungen, Aufzügen, Lückenbebauung und Tiefgarage
+- TOP .3.: Bauvorhaben Gravelottestr. 2: Änderung der Raumzuordnungen in einzelnen Wohnungen, Errichtung zweier Balkonanlagen, Einbau einer zusätzlichen Dachterasse
+- TOP .4.: Bauvorhaben Boosstr. 2: Nutzungsänderung einer Gewerbeeinheit mit Büro- und Lagerflächen (RGB) in eine Kinderkrippe
+- TOP .5.: Bauvorhaben Ruhestr: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .1.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Verleihung der Ehrenpreise 2010, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP .2.: Perspektive München, Münchner Stadtteilstudie 2009, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 22.09.2010
+- TOP .1.: Parkplatzprobleme Anwesen Steinstraße 9
+- TOP .2.: Neu gepflanzte Bäume in den Maximiliansanlagen (vertagt aus 07/10)
+- TOP .3.: Laubhaufen in den Maximiliansanlagen liegen lassen (vertagt aus 07/10)
+- TOP .4.: München setzt auf den Einsatz mobiler Geschwindigkeitsanzeiger (vertagt aus 07/10)
+- TOP .5.: Auf Herz und Rampen prüfen: Auflistung getesteter Stellen in Haidhausen, die nicht barrierefrei sind (vertagt aus 07/10)
+- TOP .6.: Verkehrsführung Einsteinstraße stadtauswärts in Höhe Lucille-Grahn-Straße (vertagt aus 09/10)
+- TOP .7.: Beobachtungen und Bemerkungen zum System der Anwohner-Parklizenzen
+- TOP .8.: Südliche Metzstraße: Radfahrstreifen abmarkieren, hierzu auch: Radverkehr; Umgestaltung Rosenheimer Platz, Schreiben des KVR vom 27.07.2010 (vertagt aus 09/10)
+- TOP .9.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Schneckenburgerstr. 39
+- TOP .10.: Nachbesprechung des Ortstermins am Rosenheimer Platz
+- TOP .1.: Busanbindung der Welfenstraße - Vorstellung der alternativen Haltestellenlagen durch die MVG
+- TOP .2.: Radverkehr; Abmarkierung eines Schutzstreifens auf der Fahrbahn der Orleansstraße zwischen Rosenheimer Straße und Balanstraße und Änderung der Radverkehrsführung in der Auerfeldstraße westlich der Balanstraße
+- TOP .3.: Gleiserneuerung mit Bettungserneuerung und Entwässerung im Bf München Ost, Gleis 9, hier: Stellungnahme der Landeshauptstadt München vom 14.07.2010 und Plangenehmigungsbescheid vom 03.08.2010
+- TOP .4.: Baustelleneinrichtung auf dem Orleansplatz, hier: Ausnahmebewilligung vom 20.09.2010
+- TOP .5.: Änderung des Zeitzusatzes des allgemeinen Behindertenparkplatzes in der Wörthstr. 12
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mi, 03.11.2010, 18.30 Uhr, Haidhausen Museum UA WAS: Di, 02.11.2010, 19.30 Uhr, Büro Diakonie UA Wirtschaft: Di, 09.11.2010, 19.30 Uhr, Büro Diakonie UA Planung: Do, 11.11.2010, 19.30 Uhr, Büro Diakonie UA GUV: Mo, 08.11.2010, 19.00 Uhr, Büro Diakonie
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mi, 17.11.2010, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangsplatz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: 75 Jahre Diakonie im Münchner Süden e.V., Fr, 12.11.2010, Lutherkirche, 10.30 Uhr
+- TOP .2.: PRO BAHN Oberbayern Gemeinnütziger Fahrgastverband: Vortrag "Trambahn in München: Renaissance eines modernen Verkehrsmittels", 06.11.2010, 11.00 Uhr, "Münchner Zimmer", Hofbräuhaus
+- TOP .3.: Fachtagung Kinderarmut im öffentlichen Diskurs, 19.11.2010
+- TOP .4.: Auftaktveranstaltung Behindertenbeirat: Vernetzung mit den Bezirksausschüssen, 28.02.2011
+- TOP .5.: AMYNA, mehrere Veranstaltungen, Woche 16.11.2010-23.11.2010
+- TOP .6.: Fachforum Messgeräte zur Schadensermittlung und Qualitätssicherung, 27.10.2010
+- TOP .7.: Reform der Hauptschulen in München - auf dem Weg zur Mittelschule, Dialogforen, ab 16.11.2010
+- TOP .8.: Volkstrauertag 2010, Israelitische Kultusgemeinde, 14.11.2010
+- TOP .9.: 30 Jahre MünchenVerlag, 04.11.2010
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
+- TOP .4.: Nockherstraße: Mischparken zwischen Tauben- und Dollmannstraße, hierzu auch: Schreiben des Hotels Am Nockherberg vom 09.09.2010
