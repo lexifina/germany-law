@@ -1,0 +1,113 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-10-20T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1872204
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1872204
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Barrierefreier Ausbau des S-Bahnhofs Lochhausen
+- TOP 2.2.: Zustände in der Bodenseestraße
+- TOP 2.3.: Verkehrsgestaltung Aubing
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Eichelhäherstr. 68 - Sigererstr. 10 - Landschaftsschutzgebiet Aubinger Lohe, am Böhmerweiher - Wüstensteiner Str. 17 - Kronwinkler Str. 51 - Aubinger Str. 99a - Kräheneckstr. 17 - Pretzfelder Str. 38 - Hagenbacher Str. 22a - Am Loferfeld 58 - Brunhamstr. 52 - Altostr. 70
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Zwernitzer Str. 26 a gem. Baumbestandsplan Nr. 2010-20777 - Papinstr., Fl.Nr. 3541/0 gem. Baumbestandplan Nr. 2010-19515
+- TOP 3.3.: Beseitigung von Gefahrenbäumen: - Streitbergstr. 13, Schr. Planungsreferat vom 14.09.10 - Aubing-Ost-Straße/Ecke Hornbergerstr., Schr. Baureferat vom 26.08.10 - Limesstr. 8, Schr. Planungsreferat vom 08.09.10 - Schubinweg 3, Schr. Baureferat vom 14.09.10
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Verlegung der Wertstoffinsel an der Wiesentfelser Straße
+- TOP 4.2.: Zebrastreifen zur sicheren Querung der Wiesentfelser Straße
+- TOP 4.3.: Verkehrssicherheit Bergsonstraße, Fahrbahnverschwenkung
+- TOP 4.4.: Baumpflanzung und Herrichten der Grünstreifen in der Kastelburgstraße zwischen Maria-Brunner-Straße und Kronwinkler Straße
+- TOP 4.5.: Verbesserungen an der Kreuzung Bodensee-/Limesstraße: Änderung der Ampelschaltung, Einrichtung eines Fußgängerüberwegs und Überprüfung der Fahrbahn- und Rinnsteinsituation an der Unterführung
+- TOP 4.6.: Erhalt des denkmalgeschützten Heizkraftwerks in der Rupert-Bodner-Straße
+- TOP 4.7.: Kein weiterer Bodenabtrag bei Ausgleichsflächen
+- TOP 4.8.: Hinweisschilder "Rauchverbot im Bereich des Bahnhofes Neuaubing"
+- TOP 4.9.: Straßenbeleuchtung in der Papinstraße, Am Bahnsportplatz und Sportlerweg
+- TOP 4.10.: Gegen Laufzeitverlängerung der Kernkraftwerke
+- TOP 4.11.: Unterbindung des Parkens auf der ökologischen Ausgleichsfläche an der Langwieder Haide
+- TOP 5: Entscheidungen
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22; Antragsteller: Trachten Gau München und Umgebung, Festzugsbeschilderung zur Straßenabsicherung am 11./12.09.2010
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget der BA 22; Antragsteller: Siedlergemeinschaft Aubing Ost e.V., Dokumentation der Ausstellung "Aubing Ost im Wandel der Zeit"
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf öffentlichen Verkehrsgrund: SPD-Christkindlmarkt am 04.12.10 am Gößweinsteinplatz, Anhörung KVR vom 04.10.10
+- TOP 7.3.: Schaffung von innovativen Wohnformen / barrierefreies Wohnen mit Beratungs- und Kooperationszentrum / Pflegestützpunkt im Stadtbezirk 22 (BVE Nr. 607 vom 29.06.10), Anhörung Planungsreferat vom 06.10.10
+- TOP 6.1.: Bürgeranfragen zu Notquartier Kastelburgstraße, Schr. Sozialreferat vom 03.09.10 und PI 45 vom 20.09.10
+- TOP 6.2.: Schulsozialarbeit an der Grundschule am Ravensburger Ring
+- TOP 6.3.: Private Kindertagesstätte in Aubing
+- TOP 6.4.: Fachtagung Migration und Integration
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendung aus dem Budget des BA 22: Jugend-Band-Wettbewerb im Juni 2010, KJT Aubinger Tenne, Schr. Direktorium vom 08.09.10
+- TOP 6.2.: Zuwendungsbescheid aus Budgetmitteln des BA 22 für die Initiative "Verschönerung S-Bahnhof Aubing" für die künstlerische Gestaltung der Unterführung, Schr. Direktorium vom 28.09.10
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Straßenbaumaßnahmen: Federseestraße zwischen Henschel- und Ziegeleistraße, Anhörung Baureferat vom 10.09.10
+- TOP 6.2.: Altostr. 43 - Nutzungsänderung: Umbau einer Ladenfläche in eine Kindertageseinrichtung (Erweiterung Kindergarten, Hort, Krippe), Anhörung Planungsreferat vom 20.09.10
+- TOP 6.3.: Altenburgstr. 17 - Neubau eines Mehrfamilienhauses mit Garagen (Tektur), Anhörung Planungsreferat vom 20.09.10
+- TOP 6.4.: Bodenseestr. 131 - Nutzungsänderung einer Tankstelle in ein Kfz-Verkaufsbüro mit Lager und Ausstellungsflächen im Freien, Anhörung Planungsreferat vom 20.09.10
+- TOP 6.5.: Bodenseestr. 149 - Errichtung eines Kfz-Verkaufsplatzes mit Verkaufsbüro - befristet auf 7 Jahre, Anhörung Planungsreferat vom 20.09.10
+- TOP 6.6.: Hellensteinstr. 50 - Neubau einer Doppelhaushälfte mit Garage, Anhörung Planungsreferat vom 24.09.10
+- TOP 6.7.: Vollzug der Wassergesetze; Errichtung einer Kneippanlage am Lohwiesengraben, Anhörung Referat für Gesundheit und Umwelt vom 07.09.10
+- TOP 6.8.: Gemeinde Gräfelfing - Vorhabenbezogener Bebauungsplan Nr. 18 für ein Biomasseheizkraftwerk an der Würmtalstraße, Anhörung Planungsreferat vom 29.09.10
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 06.09. - 12.09.10, v. 13.09. - 19.09.10, v. 20.09.-26.09.10, v. 27.09.-03.10.10) vom 13.09.10, 20.09.10, 27.09.10, 05.10.10
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag 13.09.10, 20.09.10, 27.09.10, 04.10.10
+- TOP 6.3.: Aufstellung eines Verkehrsschildes "Verbot der Durchfahrt für alle Kraftfahrzeuge" neben der Kinderkrippe Thuisbrunner Str. 24, Schr. KVR vom 16.09.10
+- TOP 6.4.: Baumaßnahmen der SWM: Fernwärmeprojekt Erschließung Westkreuz - Friedrichshafener Straße, Schr. SWM vom 13.09.10
+- TOP 6.5.: Aufstellung von Ruhebänken in der öffentlichen Grünanlage zwischen der Riesenburgstraße und der Streitbergstraße, Schr. Baureferat vom 13.09.10
+- TOP 6.6.: Arbeiten im Straßenraum: Mainaustraße / Ecke Radolfzeller Straße - Verlegen einer Fernwärmeleitung und Oberflächenwiederherstellung, Schr. KVR vom 13.09.10
+- TOP 6.7.: Perspektive München - Zentrenkonzept (Broschüre), Schr. Planungsreferat vom 06.09.10
+- TOP 6.8.: Lkw-Parkverbot in der Kastelburgstraße auf dem Parkplatz der Bezirkssportanlage Aubing, Schr. Schulreferat vom 27.08.10
+- TOP 6.9.: Ertüchtigung des Bahnknotens München - 2. Stammstrecke, Stellungnahme BA 18 vom 08.09.10
+- TOP 6.10.: Zufahrtssituation Goteboldstraße, Schr. KVR vom 17.09.10
+- TOP 6.11.: Versetzung des Zaunes entlang der Papinstraße, Schr. DB Netz AG vom 30.08.10
+- TOP 6.12.: Kanalisierung der Siedlung Krähenweg II, Schr. Münchner Stadtentwässerung vom 12.08.10
+- TOP 6.13.: Baumaßnahmen der Stadtwerke: Stromprojekt Streitbergstraße, Schr. SWM vom 21.09.10
+- TOP 6.14.: Beseitigungsverfügung für den illegalen Wohncontainer und des Autohandels an der Georg-Böhmer-Str. 1, Schr. Planungsreferat vom 23.09.10
+- TOP 6.15.: Arbeiten im Straßenraum: Aubinger Str./Ecke Radolfzeller Straße - Verlegen einer Fernwärmeleitung (Verlängerungsgenehmigung), Schr. KVR vom 07.09.10
+- TOP 6.16.: Verbesserung der Fahrradabstellmöglichkeiten am Bahnhof Neuaubing, Schr. Baureferat vom 30.09.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015, Anhörung Stadtkämmerei vom 20.09.10
+- TOP 7.2.: Feuerwerk des Fördervereins 1000 Jahre Aubing e.V. am 01.01.2011 in Aubing, Anhörung KVR vom 07.10.10
+- TOP 7.4.: Mobilfunk - Suchkreismeldung im Suchkreis Neuaubing (Suchkreis-Nr. 510310771), Anhörung Referat für Gesundheit und Umwelt vom 08.10.10
+- TOP 7.5.: Errichtung eines Stand-Werbeschildes in der Papinstraße, Anhörung Planungsreferat vom 11.10.10
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Neuerrichtung einer Gaststätte: Red Lounge, Lochhausener Straße 106 a, Schr. KVR vom 17.09.10
+- TOP 8.2.: Europe Direct Information 06/2010, Schr. Referat für Arbeit und Wirtschaft vom 09.09.10
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Sponeckstraße - Mariabrunner Straße
+- TOP 8.4.: Wirtschafts-Info 09/2010, Schr. Referat für Arbeit und Wirtschaft vom 30.09.10
+- TOP 8.5.: Unveränderte Fortführung des Gaststättenbetriebes:"Red Lounge", Lochhausener Str. 106 a, Schr. KVR vom 28.09.10
+- TOP 8.6.: Neuerrichtung eines Gaststättenbetriebes: "Eurohaus", Bodenseestr. 131
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10: - Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.-30.06.2010 - Perspektive München - Münchner Stadtteilstudie 2009
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.10: - Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Verleihung der Ehrenpreise 2010 - Wohnen in München IV (UA Planung)
+- TOP 10.3.: Beschluss der Vollversammlung des Stadtrates am 28.07.10: Leistungsprogramm der MVG für die Fahrplanperiode 2011
+- TOP 10.4.: Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.10: Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege - Teil B - Bedarfsplanung Kindertagesbetreuung (UA Soziales)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.10: - Arbeitsgruppe Ausbauoffensive, Kindertageseinrichtungen - Sachstandsbericht - Luxussanierung in der Maxvorstadt (UA Planung) - Bahntrassen in München langfristig sichern (UA Planung)
+- TOP 10.6.: Beschluss der Vollversammlung des Stadtrates vom 06.10.10: - Planfeststellung nach § 18 AEG für das Vorhaben 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 3neu München-Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief) (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Sitzungstermine 2011 - geplant sind: 19.01., 23.02., 16.03., 20.04., 18.05., 15.06., 20.07., 17.08., 14.09., 19.10., 23.11., 14.12. Termin Bürgerversammlung - geplant ist: 28.06., Ort ?
+- TOP 11.2.: Einladung zur Abschlussveranstaltung: Armut und soziale Ausgrenzung - Herausforderungen für eine Großstadt am 29.10.10 von 10 - 15.30 Uhr im Hause SZ, Hultschiner Str. 8
+- TOP 11.3.: 8. Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am 17.09.10 - Protokoll und Einladung zum nächsten Termin: 22.02.11, Schr. Gleichstellungsstelel für Frauen am 23.09.10
+- TOP 11.4.: Zukunftsreihe des Oberbürgermeisters Christian Ude, Podiumsdiskussion am 21.10.10, 19.00 Uhr in der Halle des Technischen Rathauses, Friedenstr. 40
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
