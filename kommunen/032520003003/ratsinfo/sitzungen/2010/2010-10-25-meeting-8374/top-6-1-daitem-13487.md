@@ -1,0 +1,7 @@
+# TOP 6.1: Anfrage des Beig. Zühlke vom 13.10.2010
+
+- Sitzung: Finanz- und Wirtschaftsförderungsausschuss (24. Sitzung) (2010-10-25)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13487
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/3744
