@@ -1,0 +1,75 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898734
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898734
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Wartehäuschen Buslinie 50
+- TOP 2.2.: Volkstrauertag
+- TOP 2.3.: Straßenbelag Dachauer Straße im Bereich der Borstei
+- TOP 2.4.: LKW-Parken im Bereich Claudiusplatz / Scharnhorststraße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Einwohnerversammlung für Kinder- und Jugendliche
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Fahrradständer vor Tengelmann Dachauer Straße
+- TOP 3.2.: Ampel Torgauer- / Feldmochinger Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Workshop Baubergerstraße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Straßenzustand Karlingerstraße
+- TOP 4.2.: Wertstoffinsel Karlingerstraße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Geschwindigkeitsüberschreitungen in Spielstraßen
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Moosacher Faschingsclub e.V. Kostüme für Fasching 2010/2011 und Musikanlage für Jugendarbeit
+- TOP 5.2.: (E) SC Amicitia e.V. Errichtung eines Betriebsgebäudes Änderung des MIP 2010 - 2014
+- TOP 5.3.: Aufstellung eines mobilen Fahrradständers: Dachauer Str. 270
+- TOP 6: Anhörungen
+- TOP 6.1.: 2. S-Bahn-Stammstrecke München
+- TOP 6.2.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2011 bis 2015
+- TOP 6.3.: Bauvorhaben Georg-Brauchle-Ring
+- TOP 6.4.: Vollzug der Baumschutzverordnung: Magdalena-Bräu-Weg 83
+- TOP 6.5.: Ausbau der Dachauer Straße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Lärmbeschwerde durch quietschende Trambahnen in der Bunzlauer Str. (wird abgeholfen)
+- TOP 7.2.: Ausweisung von Fuß- und Radwegen (verkehrsrechtliche Anordnungen)
+- TOP 7.3.: Radverkehr Breslauer Straße (Antrag auf Tempo 30 im gesamten Bereich wird bearbeitet)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Zuschussabrechnung Förderverein Hauptschule München-Moosach
+- TOP 8.4.: Pächterwechsel ?Cipolla d'Oro?, Netzerstr. 29
+- TOP 8.5.: Anforderung von Bauvorhaben
+- TOP 8.6.: Aktuelle Leistungsbilanz von REGSAM
+- TOP 8.7.: Straßenbaumaßnahme Pelkovenstraße
+- TOP 8.8.: Datenübersicht Sozialreferat ? Sozialplanung
+- TOP 8.9.: Verlängerung der Öffnungszeiten der städt. Freibäder
+- TOP 8.10.: Öffentliche Nutzung und Wochenmarkt an der Post in Moosach nutzen (Stadtratsantrag)
+- TOP 8.11.: 2. S-Bahn-Stammstrecke ? aktuelle Anträge und Empfehlungen
+- TOP 8.12.: Landschafts- und stadtplanerische Rahmenplanung und Umweltstudie Olympiapark
+- TOP 8.13.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen ? Sachstandsbericht
+- TOP 8.14.: Luxussanierungen in der Maxvorstadt
+- TOP 8.15.: Bebauungsplan mit Grünordnung Nr. 1940 a (Bunzlauer Straße, Baubergerstraße, Bahnlinie München-Regensburg) - Satzungsbeschluss
+- TOP 8.16.: Bahntrassen in München langfristig sichern (Stadtratsantrag)
+- TOP 8.17.: Zweckentfremdung von Wohnraum: Ehrenbreitsteiner Str.
+- TOP 8.18.: Grundstückserwerb verlängerte Triebstraße / B 304 neu
+- TOP 8.19.: Suchkreismeldung Mobilfunk (nicht-öffentlich)
+- TOP 8.20.: Spartenumfrage Dachauer Straße 164
+- TOP 8.21.: Informationsflyer ?Baumaßnahmen der SWM?
+- TOP 8.22.: Veranstaltungen Kulturreferat
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
