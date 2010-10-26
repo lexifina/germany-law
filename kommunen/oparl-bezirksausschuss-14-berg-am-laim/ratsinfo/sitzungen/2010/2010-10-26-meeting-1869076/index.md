@@ -1,0 +1,78 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-10-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869076
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869076
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Aufstellung eines mobilen Fahrradständers in der Kreillerstraße 5
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.2.1.: Platz an der Medienbrücke München - <div></div>
+- TOP 3.1.2.2.: Parkmöglichkeiten in der Waldstraße
+- TOP 3.1.3.1.: Mobilfunk-Suchkreismeldung Bereich Levelingstraße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2011 - 2015
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse SV Schwarz-Weiss München Besuch ungarischer Damenmannschaft vom 23. - 26.09.2010 - <div></div>
+- TOP 3.5.3.: Fachtagung Migration und Integration - <div></div>
+- TOP 3.6.1.: Streitfeldstraße 33
+- TOP 3.6.2.: Trainsjochstr. 13
+- TOP 3.6.3.: Weißpfennigweg 19
+- TOP 3.6.4.: St.-Veit-Straße 81
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich) - Bahnlinie München - Rosenheim (südlich) - Ergebnis des städtebaulichen und landschaftsplanerischen Ideenwettbewerbs - Weiteres Verfahren
+- TOP 4.1.1.3.: Luxussanierungen in München a) Gibt es Untersuchungen oder sind solche geplant, die Auskunft darüber geben, welche Auswirkungen die Luxussanierungen von Gebäuden auf Veränderungen der Strukturen in Stadtbezirken haben? b) Schutz der von Luxussanierung betroffenen Mieter vor Kündigung, Vertreibung und überhöhten Mieten c) Einhaltung der Bauvorschriften in Gebieten mit Erhaltungssatzung Empfehlungen Nr. 08-14 / E 00473, E 00474 (Ziffer 1) und E 00475 (Ziffer 2) der Bürgerversammlung des Stadtbezirkes 3 ? Maxvorstadt am 19.11.2009
+- TOP 4.1.1.4.: Halfinger Straße 28 - Abbruchanzeige
+- TOP 4.1.1.5.: Ampfingstraße 48 ? Unveränderte Fortführung Gaststätte ?Padova?
+- TOP 4.1.2.1.: Bahntrassen in München langfristig sichern - Antrag Nr. 08-14 / A 01295 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 18.01.2010
+- TOP 4.1.2.2.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt 3neu München-Ost, Bereich westl. Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief) -Anhörungsverfahren- a) Neuplanung des Ostabschnittes ? PFA 3neu b) Ergebnisse der Überprüfung der Planunterlagen und der Bezirksausschussanhörung, Stellungnahme der Landeshauptstadt München c) Weiteres Vorgehen beim Anhörungsverfahren d) Anträge und Empfehlungen
+- TOP 4.1.2.3.: Information über Betriebskonzept während der Schienenschleifarbeiten auf U-Bahn-Außenstrecken im Abendverkehr
+- TOP 4.1.2.4.: Sperrung der Fuß- und Radwegunterführung Ostbahnhof ? Fehlende Umleitung
+- TOP 4.1.2.5.: Hultschiner Str. / Unterführung S-Bahnhof / Truderinger Str. - Verkehrsrechtl. Anordnung
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Verlängerung der Öffnungszeiten der Städtischen Freibäder
+- TOP 4.3.2.: Michaeligymnasium - Erweiterungsbau Klassentrakt ? Anbau Einfachsporthalle ? Neugestaltung Eingangsbereich und Schulhof - Projektgenehmigung
+- TOP 4.3.3.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht z. 30.07.10
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Projektteam Nikotinprävention Ludwig-Thoma-Realschule ? Verwendungsnachweis
+- TOP 4.6.1.: Kinkstraße 4
+- TOP 4.6.2.: Hansjakobstr. 117 b+c
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Bereich Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Bereich Baumschutz (2)
