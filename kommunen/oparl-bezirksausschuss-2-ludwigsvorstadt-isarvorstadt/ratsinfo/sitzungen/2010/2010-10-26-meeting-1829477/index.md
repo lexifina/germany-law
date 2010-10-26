@@ -1,0 +1,131 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-10-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829477
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829477
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.1: Anträge aus der Kinder- und Jugend-Einwohnerversammlung:
+- TOP .1.: Eine Skaterbahn für immer
+- TOP .2.: Ein großes Trampolin auf der Theresienwiese
+- TOP .3.: Wir wollen, dass der Bus 132 ? alle 10 Minuten kommt
+- TOP .4.: Fußgängerampel zur Überquerung Wittelsbacherstraße bei der Hauptschule
+- TOP .5.: Ein Baumhaus am Sendlinger Tor Platz
+- TOP .6.: Kunstrasen am Bolzplatz neben KuBu
+- TOP .7.: Wir wollen weiter in der Pestalozzistraße 62 bleiben ?
+- TOP .8.: Mehr Kinderbetreuungsmöglichkeiten ? am Nachmittag
+- TOP .9.: Reduzierung des Lärms am Abend (Westermühlstraße)
+- TOP .10.: Weniger Hundedreck auf Grünflächen
+- TOP .11.: Ich wünsche mir um die Grünfläche meines Krokodilspielplatzes einen Zaun ?
+- TOP .12.: Wir wollen dass der Bolzplatz da bleibt (Glockenbach-Werkstatt)
+- TOP 1.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.1.: (E) Budget der Bezirksausschüsse Kirchenchor St. Maximilian Konzert am 31.12.2010
+- TOP 1.2.2.: (E) Budget der Bezirksausschüsse Initiative "Edition Karbit" Ausstellung vom 19. - 21.11.2010
+- TOP 1.2.3.: (E) Budget der Bezirksausschüsse Initiative "Ludwigsvorstadt - Isarvorstadt ist bunt" Kulturfest am 13.11.2010
+- TOP 1.2.4.: (E) Budget der Bezirksausschüsse Kulturkontor zur Förderung künstlerischer Angelegenheiten e.V. Lesung mit Musik für Kinder am 17.12.2010
+- TOP 1.2.5.: Budget: Bürger gestalten ihre Stadt: Gärtnerplatz PLENUMSBESCHLUSS
+- TOP 1.2.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011-2015
+- TOP 1.2.1.: Umsetzung des Teilplan 4: Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung; Beschluss Kinder- und Jugendhilfeausschuss vom 21.09.2010
+- TOP 1.2.2.: Wohnen in München IV; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.2.3.: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung - Verleihung Ehrenpreise 2009; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.2.4.: BA-Budget: Isarlust - Temporäre Fußgängerbrücke (Rückforderung der Zahlung, da das Projekt nicht stattfindet)
+- TOP 1.2.5.: Verlängerung der Öffnungszeiten städtischer Freibäder, BA-Antrag Nr. 08-14 / B 02299: Rückmeldungen der BAs
+- TOP 1.2.6.: Schulweghelfer im Umgriff der Grundschule an der Schwanthalerstraße
+- TOP 1.2.7.: BA-Budget: Sommerfest der Teestube "komm" - Sachbericht
+- TOP 1.2.8.: Antrag des BA 1 bzgl. Müllerstr. 2-6 - Bolzplatz Glockenbachwerkstatt
+- TOP 1.2.9.: Jugendtreff Tröpferlbad und Zenetti-Treff 3 (Schreiben des Sozialreferats bzgl. aktuellem Sachstand)
+- TOP 1.2.10.: Prüfung, ob es im Klinikbereich und/oder bei Wohnungen der Landesbank umsetzbare Möglichkeiten für neue Wohnmodelle gibt, insbesondere bezahlbaren Wohnraum für ältere Menschen (Ziffer 1 des Antrags)
+- TOP 1.2.11.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandbericht zum 30.07.2010; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP 1.2.12.: Luxussanierungen in der Maxvorstadt; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP 1.2.13.: BA-Budget: Verwendungsnachweise ( 13)
+- TOP 1.2.14.: BA-Budget: Änderungsbescheid digitalanaolg e.V.
+- TOP 1.2.5.1: Berichte der Beauftragten
+- TOP 1.2.1.: Baumpflanzung am Roeckelplatz
+- TOP 1.2.2.: Kunst an den Pollern an der Ecke Dreimühlenstraße- Ehrengutstraße
+- TOP 1.2.1.: Zugänglichkeit zur Tramhaltstelle Karlsplatz/Stachus und generelle Zugänglichkeit von Haltestellen während Bauphasen (Ziffer 2 des Antrags)
+- TOP 1.2.3.1: Bauvorhaben
+- TOP 1.2.1.: Lindwurmstr. 137-139: Neubau Wohn- & Geschäftshaus
+- TOP 1.2.2.: Adlzreiterstr. 3: DG-Ausbau , Nutzungsänderung
+- TOP 1.2.3.: Mathildenstr. 5: Neuerrichtung Nebengebäude und Hofkellerdecke
+- TOP 1.2.4.: Schubertstr. 8: Werbeanlagen
+- TOP 1.2.5.: Häberlstr. 9: Dachaufstockung und Errichtung einer Außentreppe
+- TOP 1.2.6.: Waltherstr. 27: DG-Ausbau und Errichtung von Balkonen
+- TOP 1.2.7.: Landwehrstr. 16: Nutzungsänderung von Laden in Gaststätte, PLENUMSBESCHLUSS
+- TOP 1.2.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.2.1.: - Baldestr. 13 und 15 - Auenstr. 76
+- TOP 1.2.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.2.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011-2015 siehe TOP A 3.1
+- TOP 1.2.2.: Skateranlage Theresienwiese
+- TOP 1.2.3.: Planfeststellung für deb Neubau einer 2. S-Bahn-Stammstrecke; Planfeststellungsabschnitt 1 "München West", Bereich Laim bis Karlsplatz mit Haltepunkt Hbf
+- TOP 1.2.1.: Fliegenstraße zwischen Thalkirchner- und Lindwurmstr.: Fahrbahnsanierung vom 04.-15.10.2010
+- TOP 1.2.2.: Leistungsprogramm der MVG für die Fahrplanperiode 2011; Beschluss Vollversammlung Stadtrat am 28.07.2010
+- TOP 1.2.3.: Nußbaum- und Ziemssenstraße zwischen Goethe- und Mathildenstraße: Fahrbahnsanierung vom 11.-29.10.2010
+- TOP 1.2.4.: 40. städtischer Fassadenwettbewerb - Fassadenpreise und lobende Erwähnungen 2009; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.2.5.: PERSPEKTIVE München - Münchner Stadtteilstudie 2009; Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.2.6.: Beschlussvollzugskontrolle (BVK) im Zeitraum 01.01.2010 - 30.06.2010; Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.2.7.: Parklizenzen für Inhaber von Zweitwohnungen; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 22.09.2010
+- TOP 1.2.8.: Baumaßnahmen der SWM: - Stromprojekt Maistraße - Stromprojekt Buttermelcherstraße - Fernwärmeprojekt Baaderstraße
+- TOP 1.2.9.: Brücke Maximilianstraße über den Fabrikbach; Beschluss Bauausschuss vom 28.09.2010
+- TOP 1.2.10.: Schwanthalerstr. 47: Baugenehmigung
+- TOP 1.2.11.: Vollzug der Erhaltungssatzung: Adlzreiterstr.
+- TOP 1.2.12.: Bahntrassen in München langfristig sichern; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP 1.2.13.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 1999 Müllerstraße zwischen Cornelius- und Fraunhoferstraße (ehem. Heizkraftwerk); Beschluss Ausschuss für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP 1.2.14.: Wiederinbetriebnahme des Brunnens am Sendlinger-Tor-Platz
+- TOP 1.2.15.: Augsburgerstraße zwischen Thalkirchner und Lindwurmstraße: Fahrbahnsanierung vom 25.10. - 05.11.2010
+- TOP 1.2.16.: Fällgenehmigung: Schwanthalerstr. 97 (1 Kastanie)
+- TOP 1.2.17.: Verkauf einer städtischen Immobilie
+- TOP 1.2.18.: Vorkaufsrechte
+- TOP 1.2.19.: Mobilfunk Suchkreismeldung
+- TOP 1.2.1.: Platzneugestaltung Rumfordstr. / Baaderstraße
+- TOP 1.2.5.1: Bericht des Beauftragten
+- TOP 1.2.1.: Antrag des UA KVR: Neuer Ampel-Übergang Mai-/Ecke Tumblingerstraße
+- TOP 1.2.2.1: Gaststättenangelegenheiten
+- TOP 1.2.1.: Erweiterung Freischankfläche: Müllerstr. 49
+- TOP 1.2.2.: Erweiterung Freischankfläche: Holzstr. 16
+- TOP 1.2.3.: Erweiterung Freischankfläche: Reichenbachstr. 24
+- TOP 1.2.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.2.1.: Antrag für mobilen Fahrradständer: Bayerstr. 8
+- TOP 1.2.2.: Antrag für eine Warenauslage: Fraunhoferstr. 20
+- TOP 1.2.3.: Antrag für eine Warenauslage: Baaderstr. 74
+- TOP 1.2.4.: Antrag für eine Warenauslage: Fraunhoferstr. 5
+- TOP 1.2.5.: Antrag für eine Warenauslage: Thalkirchner Str. 88, PLENUMSBESCHLUSS
+- TOP 1.2.6.: Antrag für mobilen Fahrradständer: Schwanthalerstr. 10, PLENUMSBESCHLUSS
+- TOP 1.2.2.3: Sonstige Entscheidungen
+- TOP 1.2.3.2: Verkehr
+- TOP 1.2.1.: Skateranlage Theresienwiese (siehe TOP B 3.3.1)
+- TOP 1.2.2.: Kulturstrand in München: Vorschlag Standorte für die Jahre 2011-2013
+- TOP 1.2.1.: Versammlungen unter freiem Himmel (11)
+- TOP 1.2.2.: Unveränderte Gaststättenfortführung: - Dreimühlenstr. 30: Coco del Mer - Paul-Heyse-Str. 29: Firedragon - Schillerstr. 17: Sultan - Goethestr. 30: Import-Export Café Bar - Hackerbrücke 4: bratar - Goethestr. 20: Stilis - Bahnhofsplatz 7: Warenhausgaststätte im Hertie - Maistr. 31: Nam Giao - Ehrengutstr. 4: Südtiroler Törggelstub'n - Westermühlstr. 13: Genussraum - dreimühlenstr. 17: Tagträumer
+- TOP 1.2.3.: Verkehrsrechtliche Anordnung: - Parklizenzgebiete Lindwurmstraße und Dreimühlenviertel, Veränderung der Gebietsgrenzen Tumblingerstraße und Zenettistraße
+- TOP 1.2.4.: Änderung der Straßenreinigungssatzung - Erhöhung der Anzahl der Mülleimer im Innenstadtbereich; Beschluss Bauausschuss vom 28.09.2010
+- TOP 1.2.5.: Außenvertretung der Bezirksausschüsse: Info-Schreiben des Direktoriums
+- TOP 1.2.6.: Einhaltung der Sicherheitsauflagen beim Strassenfest "Hans-Sachs-Strasse" am 21.08.2010
+- TOP 1.2.7.: Vollzug des BImSchG: Einsatz von Müllsammelfahrzeugen ab 6.30 Uhr im Bereich der Thereienwiese während des Oktoberfestes
+- TOP 1.2.1.: Termine
+- TOP 1.2.&nbsp;: Sitzungstermine im November
+- TOP 1.2.1.: Sitzung des UA Planen und Bauen: Montag, 08.11.2010, 19.00 Uhr, Gaststätte ?Rumpler?, Baumstr. 21, 80469 München
+- TOP 1.2.2.: Sitzung des UA KVR-Angelegenheiten: Dienstag, 09.11.2010, 19.00 Uhr, Gaststätte ?Zunfthaus?, Thalkirchner Straße 76, 80337 München
+- TOP 1.2.3.: Sitzung UA Kultur, Jugend, Soziales: Mittwoch, 10.11.2010, 19.00 Uhr, Ort wird noch bekannt gegeben
+- TOP 1.2.4.: Sitzung des Bezirksausschuss 2: Dienstag, 23.11.2010, 19.00 Uhr, Gaststätte ?Zunfthaus?, Thalkirchner Straße 76, 80337 München
+- TOP 1.2.5.: Bürgerversammlung Ludwigsvorstadt: Donnerstag, 11.11.2010, 19.00 Uhr (ab 18.00 Uhr Behördensprechstunde), Gaststätte ?Zunfthaus?, Thalkirchner Straße 76, 80337 München
+- TOP 1.2.1.: Infoveranstaltung Sozialreferat
+- TOP 1.2.2.: Kulturfest ?München ist bunt? am 13.11.2010 um 12.00 Uhr auf dem Sendlinger-Tor-Platz
+- TOP 1.2.3.: Sonstiges / Verschiedenes
+- TOP 1.2.5.: Sonstiges
+- TOP 1.2.1.: Vorstellung der GIMA
+- TOP 1.2.1.: Anträge
+- TOP 1.2.2.: Entscheidungen
+- TOP 1.2.3.: Anhörungen
+- TOP 1.2.4.: Unterrichtungen (siehe Beiblatt)
+- TOP 1.2.2.: Veranstaltungen
+- TOP 1.2.2.: Themen für die Bürgerversammlung
