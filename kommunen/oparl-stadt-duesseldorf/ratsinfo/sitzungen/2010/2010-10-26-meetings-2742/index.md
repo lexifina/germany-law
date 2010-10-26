@@ -1,0 +1,53 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-10-26T16:00:00+02:00
+- Ende: 2010-10-26T16:55:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2742
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2742
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148247.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148247.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148247.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnern - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5: Sitzungstermine der Bezirksvertretung 10 im Jahr 2011 - einstimmig beschlossen
+- TOP 6: Trödelmärkte 1. Halbjahr 2011 - einstimmig beschlossen
+- TOP 7: Trödelmärkte 1. Halbjahr 2011 - einstimmig beschlossen
+- TOP 8: Trödelmärkte 1. Halbjahr 2011 - einstimmig beschlossen
+- TOP 9: Anfragen - zur Kenntnis genommen
+- TOP 10: Konjunkturprogramm II - zur Kenntnis genommen
+- TOP 11: Bezirksbezogener Bauunterhalt - zur Kenntnis genommen
+- TOP 12: Bereitstellung von Mitteln aus Bauunterhalt - zur Kenntnis genommen
+- TOP 13: Weihnachtsbeleuchtung Hauptzentrum - zur Kenntnis genommen
+- TOP 14: Belastung für Kleingärtner - zur Kenntnis genommen
+- TOP 15: Anträge - zur Kenntnis genommen
+- TOP 16: Warnwesten - einstimmig beschlossen
+- TOP 17: Parkplatzbeleuchtung BSA-Koblenzer Str. - einstimmig beschlossen
+- TOP 18: Masthülse - einstimmig beschlossen
+- TOP 19: Rückschnitt Grünbepflanzung - einstimmig beschlossen
+- TOP 20: Zuschuss Martinszug Wittenberger Weg - mehrheitlich abgelehnt
+- TOP 21: Verfügungsmittel - mehrheitlich abgelehnt
+- TOP 22: Busverbindung im Stadtbezirk 10 - einstimmig beschlossen
+- TOP 23: Zuschuss aus Verfügungsmitteln - mehrheitlich abgelehnt
+- TOP 24: Haushaltsplan-Entwurf 2011 mit Anlagen - zur Kenntnis genommen
+- TOP 25: Anfragen zum Haushaltsplan 2011 -Entwurf - zur Kenntnis genommen
+- TOP 26: HH2011, Ausbau der Parkstände an der Peter-Behrens-Str. - zur Kenntnis genommen
+- TOP 27: Haushalt 2011, Nebenzentrum Garath NW - zur Kenntnis genommen
+- TOP 28: Anträge zum Haushaltsplan 2011 - Entwurf - zur Kenntnis genommen
+- TOP 29: Bezirksradwegenetz - zurückgezogen
+- TOP 30: HH2011, Bezirksbezogener Bauunterhalt - zur Kenntnis genommen
+- TOP 31: Haushalt 2011, Verfügungsmittel - zur Kenntnis genommen
+- TOP 32: Bürgerhaushalt - mehrheitlich abgelehnt
+- TOP 33: HH2011- Garath NW - mehrheitlich abgelehnt
+- TOP 34: Informationsvorlagen - zur Kenntnis genommen
+- TOP 35: Verschiedene Stellungnahmen - zur Kenntnis genommen
+- TOP 36: Gehölzrodung - zur Kenntnis genommen
