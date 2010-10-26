@@ -1,0 +1,89 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2010-10-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1818592
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1818592
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Eilentscheidung: Zustimmung zur Durchführung eines Feuerwerks am 25.09.2010 an der Freisinger Landstraße 153; Jubiläumsfeier, Gut Großlappen
+- TOP .10.: Sonstiges
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Am Blütenring 56 Nr. 580 145, 1 Thujenart
+- TOP .2.: Herzogstraße 16, 1 Robinie
+- TOP .3.: Ludwig-Merk-Str. 6, 2 Eiben
+- TOP .1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015 (auch TOP C.3.2.4. und D.3.1.)
+- TOP .2.: Werbeanlagen: 1 Großflächentafel, Leinthalersteaße 1, Fl.Nr.: 88/9
+- TOP .3.: Werbeanlagen: 2 TopLux-Anlagen, doppelseitig beleuchtet auf Monofuß, Leopoldstraße 208, Fl.Nr.: 894/4
+- TOP .4.: Leopoldstr. 57, Fl.Nr.: 359/17: Umbau und Sanierung des Gebäudes, Anbau eines Treppenhauses sowie Aufstockung - Tektur
+- TOP .5.: Joseph-Wirth-Weg 21, Fl.Nr. 526/6: Neubau eines Studentenwohnheims - Vorbescheid
+- TOP .6.: Bauvorhaben Leopoldstraße 57, Umbau und Sanierung des Gebäudes, Anbau eines Treppenhauses sowie Aufstockung ? Tektur zu 1.1-2009-28003-41
+- TOP .7.: Bauvorhaben Frankfurter Ring, FlurNr. 880/110 Gemarkung Schwabing, acht Großflächentafeln als Bauzaun
+- TOP .8.: Bauvorhaben Heidemannstraße 1, Nutzungsänderung 3. OG Büro zu Versammlungsstätte
+- TOP .9.: Bauvorhaben Sulzbacher Straße 4, Nutzungsänderung Keller zu Souterrain-Wohnung
+- TOP .10.: Bauvorhaben Occamstraße 3, Erweiterung zweier Wohnungen im 4. OG durch zwei neue interne Treppen zu Maisonettewohnung, DG-Ausbau, Anbau zweier aufgeständerter Balkonstränge und Errichtung eines Außenliftes an einem denkmalgeschützten Gebäude
+- TOP .11.: Bauvorhaben Hermann-Vogelstraße 3 a, Gebäudeaufstockung (Erwei- terung einer Wohnung)
+- TOP .12.: Bauvorhaben Clemensstraße 29, Nutzungsänderung im EG, Laden zu Kin- derkrippe
+- TOP .1.: Einspruch gegen Bauvorhaben Wilhelmstr. 2
+- TOP .1.: Straßenbeläge in Schwabing bezüglich ihrer Beläge kartieren und im Anschluss - unter Einbindung des Bezirksausschusses 12 unter Federführung des Baureferates - ein Konzept erstellen, auf dessen Grundlage zukünftige Sanierungs- und Erneuerungsarbeiten durchzuführen sind.
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Josef-Raps-Straße 3, Fl.Nr.: 115/0, 2 Birken, 1 Robinie
+- TOP .2.: Burmesterstraße 4-6a, Fl.Nr. 300/16; 3 Vogelkirschen, 1 Birke 2-stämmig
+- TOP .3.: Hermann-Vogel-Str. 19, Fällung einer Robinie als Gefahrenbaum
+- TOP .1.: Baumaßnahmen der Stadtwerke München a) Fernwärmeprojekt Rümannstraße b) Gasprojekt Bauernfeindstraße c) Stromprojekt Lindberghstraße d) Baumaßnahmen im 2. Halbjahr 2010
+- TOP .2.: Monitore in allen U-Bahn-Waggons a) Bezirksausschuss 5, Au-Haidhausen
+- TOP .3.: Franzstr. 5, Gaststätte Alfonsos live Music-Club (auch TOP B.5.3.3.)
+- TOP .4.: Luxussanierungen in der Maxvorstadt Empfehlung Nr. 08-14 / E 00473, E 00474 (Ziffer 1) und E 00475 (Ziffer 2) der Bürgerversammlung des Stadtbezirkes 3 - Maxvorstadt am 19.11.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 Sitzungsvorlagen Nr. 08-14 / V 05167
+- TOP .5.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 17 (Obergiesing) Bundeseigene Wohnungen; Antrag Nr. 2499 (Punkt 2) von Frau Stadträtin Lindner-Schädlich vom 30.01.2001 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 Sitzungsvorlagen Nr. 08-14 / V 05170
+- TOP .6.: Frankplatz 14; Neubau eines Gerätehauses für Hausmeister - Abdruck der Baugenehmigung
+- TOP .7.: Kundigundenstr., Fl.Nr. 921/50, Neubau eines Mehrfamilienhauses mit Tiefgarage - Pläne und Abdruck der Baugenehmigung
+- TOP .8.: Leopoldstraße: Fahrbahnsanierung zwischen Siegestor und Franz-Joseph-Straße
+- TOP .9.: "Grüne Achse Schwabing" - Runder Tisch im November: Schreiben des BA 4 an das Baureferat
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Mannlichstraße: Ermöglichung von Besucherparken durch Parkscheibenregelung vor der Senioren-Wohnanlage St. Nikolaus (Initiative: Lederer-Piloty)
+- TOP 1: (E) Errichtung eines Lärmschutzes an der Autobahn (A9) auf der Höhe der Grünecker Str. 2-12 Empfehlung Nr. 08-14 / E 00623 der Bürgerversammlung des Stadtbezirkes 12 Schwabing-Freimann am 20.07.2010
+- TOP 1.4.: Widmung einer Teilstrecke der Freimanner Bahnhofstraße
+- TOP 1.1.: Zulassen des Gehsteigparkens in an der Nordseite der Heckscherstraße
+- TOP 1.3.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015 (auch TOP B.3.2.1. und D.3.1.)
+- TOP 1.4.: Genehmigung für die wesentliche Änderung der Abfallentsorgungsanlage der Münchner Daten + Akten Vernichtung GmbH auf dem Anwesen Freimanner Bahnhofstr. 24
+- TOP 1.5.: Zu hohe Geschwindigkeiten in der Clemensstraße? Schreiben des BA 4 Schwabing-West aufgrund einer Bürgerbeschwerde
+- TOP 1.1.: Behindertengerechte Gestaltung des Öffentlichen Raums - Verbesserung für Sehbehinderte II
+- TOP 1.1.: Errichtung eines Verkehrshelferüberganges, Lyonel-Feininger-Straße
+- TOP 1.2.: Öffnung der einbahngeregelten Straßen Keferstraße - Jungwirthstraße - Liebergesellstraße für den gegenläufigen Radverkehr
+- TOP 1.3.: Gemeinsamer Geh- und Radweg Marianne-Brandt-Straße
+- TOP 1.1.: Genehmigung für Errichtung und Betrieb einer Brech- und Siebanlage der Münchner Stadtentwässerung auf dem Gelände der Schüttgutdeponie München Nord in der Freisinger Landstraße 245
+- TOP 1.2.: Neubau einer Lichtsignalanlage; Anni-Albers- / Lyonel-Feiniger-Straße
+- TOP 1.3.: Bahntrassen in München Antrag Nr. 08-14 / A 01295 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 18.01.2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 Sitzungsvorlagen Nr. 08-14 / V 05086
+- TOP 1.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015 (auch TOP B.3.2.1. und C.3.2.4.)
+- TOP 1.2.: Sozialreferat, Anhörung Kinderkrippe Ungererstraße 75, 2 Gruppen, 24 Langzeitplätze, ÖPP - Öffentlich-Private-Partnerschaften, Entwurf einer Beschlussvorlage für den Kinder- und Jugendhilfeausschuss am 30.11.2010
+- TOP 1.1.: Langfristige Existenzsicherung des Eisenbahner Sportverein München-Freimann e.V.: Ankauf des Sportgeländes durch die Landeshauptstadt München sowie Finanzierung der Gebäudeinfrastruktur
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: "Mocca-Lounge", Schank- und Speisewirtschaft, Herzogstraße 2
+- TOP 1.2.: "Waldfee", Schank- und Speisewirtschaft, Occamstraße 2
+- TOP 1.1.: Verwendungsnachweise / Sachberichte a) Teestube "komm" - Streetwork für die Maßnahme: Sommerfest 2010; b) Seidlvilla für die Ausstellung "Anderswo" c) Jugendtreff am Biederstein für den Austausch einer Mädchengruppe mit Kyritz und Berlin
+- TOP 1.2.: Bescheide / Ablehnungen von beantragten Zuwendungen aus dem Budget des BA 12 a) Init. KIMA für die Maßnahme: Ausstellung von Kinder-Kunst (Ablehnung) b) Freizeittreff Freimann für die Maßnahme: Theaterstück "er Kaufmann von Venedig" (Zustimmung) c) Axé München für die Maßnahme: Projekt "Capoeira" (Ablehnung)
+- TOP 1.3.: Franzstr. 5, Gaststätte Alfonsos live Music-Club (auch TOP B.5.3.3.)
+- TOP 1.4.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 30.07.2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 Sitzungsvorlagen Nr. 08-14 / V 05070
+- TOP 1.5.: Neubau eines Hauses für Kinder mit 2 Krippen- und 3 Kindergartengruppen am Kiefernwald - Ausführungsgenehmigung - Beschlussvorlage für den Schul- und Sportausschuss vom 13.10.2010
+- TOP 1.6.: Kindertagesstätten freigemeinnütziger Träger; Kindergarten an der Ungererstr. 17 - Leistung eines Baukostenzuschusses nach dem BayKiBiG - Beschlussvorlage für den Schul- und Sportausschuss vom 13.10.2010
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.5.3.: Sonstige Unterrichtungen
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
