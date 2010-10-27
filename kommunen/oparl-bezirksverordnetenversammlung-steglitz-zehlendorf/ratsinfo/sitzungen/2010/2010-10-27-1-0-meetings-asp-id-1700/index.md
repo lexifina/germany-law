@@ -1,0 +1,104 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-10-27T17:00:00+02:00
+- Ende: 2010-10-27T20:35:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1700
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1700
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Baumaßnahmen Fichtenberg-Gymnasium - beantwortet
+- TOP 3.2: Wahrung des historischen Ortskerns in Dahlem - beantwortet
+- TOP 3.3: Hygiene der Ess- und Trinkmeile im Strandbad Wannsee - beantwortet
+- TOP 3.4: Bauruine Hindenburgdamm 72 / Gardeschützenweg 3-5 - beantwortet
+- TOP 3.5: Grün macht Schule - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Feststellungen - erledigt
+- TOP 4.1.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Abberufungen - erledigt
+- TOP 4.2.1: Abberufung einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.3.1: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Gleichstellung und Integration - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Wahl eines stellvertretenden Bürgerdeputierten im Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Gleichstellung und Integration - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Wahl einer stellvertretenden Bürgerdeputierten in den Ausschuss für Bildung, Kultur und Bürgerdienste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Gedenken an Wandervogel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Postkasten Potsdamer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Parkverbot aufheben? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Spielplätze auch für kleine / kleinste Kinder noch attraktiver gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Kinderbetreuung während der Sitzung der Bezirksverordnetenversammlung - in der BVV abgelehnt
+- TOP 4.5.3: Fahrradroute von Wannsee nach Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Graffiti Krottnaurer Brücke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Freie Sicht in die Argentinische Allee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Kurzparkzone in der Ladiusstraße ausweiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Rücksichtnahme auf ältere Bürger und Eltern mit Kindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Radfahrer schützen - Unfälle vermeiden! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Verkehrssicherheit für Fußgänger und Radfahrer erhöhen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Ehemalige Kontrollstelle Dreilinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: S-Bahn-Verkehr in Zehlendorf wieder ungehindert - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Nutzung des "Baseballplatzes" Am Waldfriedhof - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Übertragung der Verwaltung der Schulgebäude an die SE Immobilien - in der BVV abgelehnt
+- TOP 4.5.14: Überdachung der Bahnsteige am Bahnhof Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Nachnutzung für Postgebäude in Zehlendorf suchen! - in der BVV abgelehnt
+- TOP 4.5.16: Erholungswege in Zehlendorf-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.17: Fahrzielanzeiger am S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.18: Weiterentwicklung der schulbezogenen Jugendsozialarbeit (Vorlage zur Kenntnisnahme zum BVV-Beschluss Nr. 853) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Fusion der Alfred-Wegener-Realschule mit der Beuke-Realschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Kinder schützen - Schulweg sichern! - überwiesen
+- TOP 5.1.2: Fußgänger- und Radfahrerüberquerung Teltower Damm - überwiesen
+- TOP 5.1.3: Kreuzung Wolfensteindamm/Birkbuschstraße sicherer gestalten - überwiesen
+- TOP 5.1.4: Widerspruchsbeirat - überwiesen
+- TOP 5.1.5: Behindertengerechter Zugang zum Strandbad Wannsee - überwiesen
+- TOP 5.1.6: Realisierung der Pocket-Plätze an der Schloßstraße gemäß BVV-Beschluss Nr. 550 und der Vorlage zur Kenntnisnahme vom 17.08.2010 - überwiesen
+- TOP 5.1.7: Alternative Einsatzmöglichkeiten für langfristig erkrankte Lehrer und Lehrerinnen - überwiesen
+- TOP 5.1.8: Verkehrsbehinderung Hohentwielsteig - überwiesen
+- TOP 5.1.9: Spielplatz am Immenweg muss bleiben - überwiesen
+- TOP 5.1.10: Tempo 30 in der Clauertstraße - überwiesen
+- TOP 5.1.11: Fußgängerzone am Bahnhof Lichterfelde-Ost - überwiesen
+- TOP 5.1.12: Tempo 30 vor der Kita der Stephanusgemeinde - überwiesen
+- TOP 5.1.13: Sonderprogramm für bezirkliche Verkehrsplanung - überwiesen
+- TOP 5.1.14: Radwegeführung Kranoldplatz - überwiesen
+- TOP 5.1.15: Neuen Ort für die Gedenkstätte zum 17. Juni finden - überwiesen
+- TOP 5.1.16: Verschandelung des Bezirks durch wild aufgestellte Schuh- und Altkleidercontainer - überwiesen
+- TOP 5.1.17: Inklusive Schwerpunktschulen im Bezirk Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.18: Mittelstand stärken - Bürgern das Einkaufen erleichtern! - überwiesen
+- TOP 5.1.19: Verkehrskonzept mit Umlandgemeinden - überwiesen
+- TOP 5.1.20: Grüne Hausnummern auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.21: Keine "Laubpuster" - überwiesen
+- TOP 5.1.22: Photovoltaik - überwiesen
+- TOP 5.1.23: Migranten in Steglitz-Zehlendorf nicht zurückweisen! - überwiesen
+- TOP 5.1.24: Straßenbenennungsliste - überwiesen
+- TOP 5.1.25: Das Schadow-Gymnasium barrierefrei - überwiesen
+- TOP 5.1.26: Dialogdisplay im Oberhofer Weg ab der Kirche Richtung Mariendorf - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: BVV-Beschluss Nr. 873 vom 17.02.2010 (Investitionsvorhaben Radwegsanierung. Drucksache Nr. 1152/III) BVV-Beschluss Nr. 762 vom 23.09.2009 (Bezirkshaushaltsplan 2010 und 2011. Drucksache Nr. 1145/III) - in der BVV abgelehnt
+- TOP 7.2: Anträge - erledigt
+- TOP 7.2.1: Aufhebung der Sperre zum Investitionsvorhaben Radwegsanierung Wolfensteindamm (Drs. Nr. 1152/III) - überwiesen
+- TOP 8: Große Anfragen - erledigt
+- TOP 8.1: 2,5 Jahre Verkehrsinfarkt im Bezirk? - beantwortet
+- TOP 8.2: Tödlicher Unfall eines Radfahrers an der Kreuzung Machnower Straße/Teltower Damm - beantwortet
+- TOP 9: Ausschussanträge - erledigt
+- TOP 9.1: Linksabbiegen an der Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Radwegeführung Machnower Straße / Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Korruptionsschutz in Steglitz-Zehlendorf verstärken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Einrichtung Buscap und Kurzzeitparken Hindenburgdamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Boys Day, ja bitte - aber nicht am Girls Day - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Verlängerung auslaufender Verträge - in der BVV abgelehnt
+- TOP 10.6: Gestaltungsqualität Truman Plaza auf Dauer sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Schlusswort des Bezirksverordnetenvorstehers - erledigt
