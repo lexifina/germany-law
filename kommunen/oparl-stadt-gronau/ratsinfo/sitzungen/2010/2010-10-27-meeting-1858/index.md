@@ -1,0 +1,57 @@
+# Rat (12. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-10-27T18:00:00+02:00
+- Ende: 2010-10-27T20:38:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQvAh5v-mJjvQYKcMqfhMbk
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1858
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZepqKThT2hDwvYZVBXqtWKoNysGMicXZHfDRMW2EFV0N/Bekanntmachung_Rat_27.10.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZCBsqdogEGhzwlS70jhhKsZkQJXQPehAi8Dc5kqyjQP/Oeffentliche_Niederschrift_Rat_27.10.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 15.09.2010
+- TOP 2.1: Anträge der Fraktionen
+- TOP 2.1.1: Überflutungsschäden in Gronau und Epe; Antrag der FDP-Fraktion vom 15.10.2010 - 42 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 3.: Aktualisierung des Einzelhandelskonzepts für die Stadt Gronau - 41 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 4.: Förderung kommunaler Projekte der Entwicklungszusammenarbeit in 2010 - 42 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 5.: Gebundene Ganztagsschule an der Fridtjof-Nansen-Realschule Gronau - 42 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Projekt „ Frühe Hilfen für junge Familien mit besonderen Belastungen“ - 40 Jastimmen, 0 Neinstimmen, 2 Enthaltungen
+- TOP 7.: Neufassung der Hauptsatzung der Stadt Gronau (Westf.) - 22 Jastimmen, 18 Neinstimmen, 2 Enthaltungen
+- TOP 8.: Neufassung der Geschäftsordnung des Rates der Stadt Gronau (Westf.) - 22 Jastimmen, 20 Neinstimmen, 0 Enthaltungen
+- TOP 9.: Neufassung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Gronau (Westf.) - 41 Jastimmen, 0 Neinstimmen, 1 Enthaltungen
+- TOP 10.: Änderung der Entgeltordnung der Euregio-Volkshochschule - 40 Jastimmen, 0 Neinstimmen, 2 Enthaltungen
+- TOP 11.: Künftiges Verfahren zum Beteiligungsmanagement - 20 Jastimmen, 18 Neinstimmen, 4 Enthaltungen
+- TOP 12.: Region in der Balance/Immissionsprobleme durch Intensivtierhaltung und Auswirkungen auf die Bauleitplanung Absichtserklärung für eine Branchenvereinbarung zwischen dem Kreis Borken, den kreisangehörigen Städten und Gemeinden und der Landwirtschaft - 31 Jastimmen, 9 Neinstimmen, 2 Enthaltungen
+- TOP 13.: Baulandbericht 2010 - 42 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 14.: Bebauungsplan Nr. 153 „Schöttelkotter Damm / Von-Steuben-Straße“, Stadtteil Gronau Bebauungsplan zur Steuerung der Hinterlandbebauung im Blockinnenbereich „Schöttelkotter Damm / Von-Steuben-Straße / August-Hahn-Straße / Tannenbergstraße 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der erneuten öffentlichen Auslegung gem. § 4a Abs. 3 i.V.m. § 3 Abs. 2 BauGB sowie aus der erneuten Beteiligung der Behörden und sonstigen Träger öffentlicher Belange Auslegung gem. § 4a Abs. 3 i.V.m. § 4 Abs. 2 BauGB 3. Satzungsbeschluss gemäß § 10 BauGB - 42 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 15.: Bebauungsplan Nr. 142 "Nördlich der Bentheimer Straße" 70. Änderung des Flächennutzungsplans der Stadt Gronau, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB im Jahr 2003 2. Behandlung der Stellungnahmen aus der wiederholten Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 BauGB im Jahr 2008 3. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB sowie aus der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB 4. Behandlung der Stellungnahmen aus der erneuten Beteiligung zum Bebauungsplanentwurf der betroffenen Öffentlichkeit sowie der Behörden und sonstigen Träger öffentlicher Belange gem. § 4a Abs. 3 Satz 4 BauGB 5. Beschluss über die Flächennutzungsplanänderung 6. Satzungsbeschluss über den Bebauungsplan - 37 Jastimmen, 4 Neinstimmen, 0 Enthaltungen
+- TOP 16.: Bebauungsplan Nr. 154 "Neustraße / Döhrmannplatz", Stadtteil Gronau (Bebauungsplan gemäß § 9 Abs. 2a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - 41 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 17.: Bebauungsplan Nr. 145 "Kurfürstenstraße - Glanemanns Weg", 1. vereinfachte Änderung, Stadtteil Gronau 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss gem. § 10 BauGB - 38 Jastimmen, 2 Neinstimmen, 1 Enthaltungen
+- TOP 18.: Bebauungsplan Nr. 144 "Spinnerei Deutschland", 3. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gemäß § 13 a BauGB) 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss - 41 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 19.: Bebauungsplan Nr. 40 "Möllenweg", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gemäß § 13 a BauGB) 1. Behandlung der Stellungnahmen aus der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB 2. Behandlung der Stellungnahmen aus der Beteiligung der Behörden gem. § 4 Abs. 2 BauGB 3. Satzungsbeschluss gem. § 10 BauGB - 41 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 20.: Bebauungsplan Nr. 155 "Sondergebiet Agglomerationsbereich Ochtruper Straße", Stadtteil Gronau 1. Billigung der Plankonzeption 2. Aufstellungsbeschluss 3. Frühzeitige Beteiligung der Öffentlichkeit 4. Frühzeitige Beteiligung der Behörden - 41 Jastimmen, 0 Neinstimmen, 0 Enthaltungen
+- TOP 21.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 22.: Mitteilungen der Verwaltung
+- TOP 22.1: Einladung zur Tagung der Arbeitsgemeinschaft für den Regierungsbezirk Münster des Städte- und Gemeindebundes NRW
+- TOP 22.2: Info-Veranstaltung zur Beschlusskontrolle am 04.11.2010
+- TOP 22.3: Stellenausschreibung Beigeordneter
+- TOP 22.4: Flughaften Twente
+- TOP 23.: Anfragen
+- TOP 23.1: 2. Verkehrsworkshop Epe (Anfrage von RM Bartels)
+- TOP 23.2: Terminierung der nächsten Ratssitzung (Anfrage von RM Bartels)
+- TOP 23.3: 2. Verkehrsworkshop Epe (Anfrage von RM von Borczyskowski)
+- TOP 23.4: Zusammenfassung der Fachausschussbeschlüsse für die Ratssitzungen (Anfrage von RM von Borczyskowski)
+- TOP 23.5: Spinnerei Deutschland - Umbau der Fabrikhalle (Anfrage von RM Doetkotte)
+- TOP 23.6: Spinnerei Deutschland - Verlegung des geplanten Spielplatzes (Anfrage von RM Doetkotte)
+- TOP 23.7: Beginn der Rats- u. Ausschusssitzungen (Anfrage von RM Gabbe)
+- TOP 23.8: Unterstützung verschuldeter Kommunen/ Gemeindefinanzierungsgesetz (Anfrage von RM Pieper)
+- TOP 23.9: Ausfall von Gremiensitzungen (Anfrage von RM Pieper)
+- TOP 23.10: Grundstück des ehem. Bürgerhauses Leefken an der Gronauer Straße (Anfrage von RM Möllers)
+- TOP 23.11: Sanierung Nienborger Damm (Anfrage von RM Arends)
