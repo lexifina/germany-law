@@ -1,0 +1,52 @@
+# 20. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-10-28T16:00:00+02:00
+- Ende: 2010-10-28T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/532
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/532
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2010_10_28 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00045022.pdf
+- Wortprotokoll: Beschlussausfertigung_V0724/10 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00046234.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3: Umbesetzung im Ausschuss für Kultur - gewählt
+- TOP 4: Umbesetzung im Ausschuss für Kultur - gewählt
+- TOP 5: Umbesetzung im Ausschuss für Kultur - gewählt
+- TOP 6: Umbesetzung im Petitionsausschuss - gewählt
+- TOP 7: Umbesetzung Kleingartenbeirat - gewählt
+- TOP 8: Umbesetzung im Kleingartenbeirat - gewählt
+- TOP 9: Umbesetzung im Beirat Wohnen - gewählt
+- TOP 10: Umbesetzung im Beirat Wohnen - gewählt
+- TOP 11: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 12: Umbesetzung im Ausschuss für Soziales, Gesundheit und Wohnen - Zustimmung
+- TOP 13: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - Zustimmung
+- TOP 14: Umbesetzung im Ausschuss für Wirtschaftsförderung - Zustimmung
+- TOP 15: Umbesetzung im Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen - Zustimmung
+- TOP 16: Umbesetzung im Beirat Gesunde Städte - Zustimmung
+- TOP 17: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 18: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 19: Tagesordnungspunkte ohne Debatte
+- TOP 20: Änderung der Satzung der Landeshauptstadt Dresden zur Rechtsstellung und Finanzierung der Fraktionen des Dresdner Stadtrates (Fraktionsrechtsstellungssatzung) - Zustimmung
+- TOP 21: Neubau einer Schulsporthalle für das Gymnasium Dreikönigschule, Louisenstraße 42, 01099 Dresden - punktweise Abstimmung
+- TOP 22: Gymnasium Dreikönigschule: Neubau 2-Feld-Sporthalle an der Alaunstraße - Ablehnung
+- TOP 23: Namensgebung der 25. Grundschule und 25. Mittelschule, Pohlandstraße 40 in 01309 Dresden - Zustimmung
+- TOP 24: Bestellung eines Wirtschaftsprüfers für die Jahresabschlüsse 2010 und 2011 des Eigenbetriebes Sportstätten- und Bäderbetrieb Dresden - Zustimmung
+- TOP 25: Bestellung eines Wirtschaftsprüfers für die Prüfung der Jahresabschlüsse 2010 bis 2012 des Eigenbetriebes Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 26: Sanierung der Qualifizierungs- und Arbeitsförderungsgesellschaft Dresden mbH (QAD) - Vertagung
+- TOP 27: Öffentlich geförderte Beschäftigung und die Aufgaben der Qualifizierungs- und Arbeitsförderungsgesellschaft (QAD gGmbH) in Dresden - Vertagung
+- TOP 28: Beschaffung der Spielstätten für die Staatsoperette Dresden und das Theater Junge Generation - Ersetzung
+- TOP 29: Einlage der Beteiligung an der Stadtentwässerung Dresden GmbH in den Eigenbetrieb Kindertageseinrichtungen Dresden
+- TOP 30: Aufhebung der Punkte 2 und 3 des Beschlusses V1354-SR45-07 Standort Jugendhaus "A 19" - Vertagung
+- TOP 31: Fortschreibung des Integrierten Handlungskonzeptes "Stadtteile mit besonderem Entwicklungsbedarf - Die Soziale Stadt Dresden Gorbitz" für den Zeitraum 2010 bis 2020 - Vertagung
+- TOP 32: Flächennutzungsplan-Änderung Nr. 46, Ortsamt Plauen, Strehlener Straße/Nordseite - Vertagung
+- TOP 33: Vorhabenbezogener Bebauungsplan Nr. 696, Dresden-Mickten, Lommatzscher Straße - Sconto Möbelmarkt - Vertagung
+- TOP 34: Bebauungsplan Nr. 341, Dresden-Bühlau Nr. 8, Crostauer Weg - Zustimmung
+- TOP 37: Folgende Informationsvorlage wurde am 27.10.2010 ausgereicht:
+- TOP 37.1: Haushaltsvollzug 2010 - Finanzzwischenbericht gemäß § 75, Abs. 5 SächsGemO sowie Zwischenberichte der Eigenbetriebe 2010 gemäß § 8, Abs. 2 SächsEigBVO - zur Kenntnis genommen
