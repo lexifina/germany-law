@@ -1,0 +1,51 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-10-29T16:00:00+02:00
+- Ende: 2010-10-29T19:00:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3479
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3479
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148307.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148307.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148307.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung Niederschrift - zur Kenntnis genommen
+- TOP 4: Kunden- und Geschäftsbefragung Holthausen - zur Kenntnis genommen
+- TOP 5: Masterplan Energieeffiziente Straßenbeleuchtung - zur Kenntnis genommen
+- TOP 6: Radweg Bonner Straße - zur Kenntnis genommen
+- TOP 7: Festlegung Sitzungstermine 2011 - zur Kenntnis genommen
+- TOP 8: Anfrage: Jugendrat - zur Kenntnis genommen
+- TOP 9: Anfrage: Zehn-Minuten-Takt 701
+- TOP 10: Anfrage: Ausstehende Straßenbaumaßnahmen im Bezirk 9 - zur Kenntnis genommen
+- TOP 11: Antrag: Dirschauerweg / Am Rethert Parkverbot - zur Kenntnis genommen
+- TOP 12: Antrag: Radweg-Sperrung Kölner Landstraße - zur Kenntnis genommen
+- TOP 13: Antrag: Querungshilfe Urdenbacher Dorfstr. - zur Kenntnis genommen
+- TOP 14: Antrag: Radfahrerfreundliche Umgestaltung der Schlosskurve - zur Kenntnis genommen
+- TOP 15: Antrag: Benrather Markt - zur Kenntnis genommen
+- TOP 16: Antrag: Verschönerung Durchgang zum Bahnhof Benrath/Paulsmühle - zur Kenntnis genommen
+- TOP 17: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz e.V. - zur Kenntnis genommen
+- TOP 18: Antrag: Verfügungsmittel Karnevalsgesellschaft "Reisholzer Quatschköpp e.V." 1982 - zur Kenntnis genommen
+- TOP 19: Antrag: Verfügungsmittel St. Sebastianus-Schützenbruderschaft Düsseldorf Himmelgeist e.V. - zur Kenntnis genommen
+- TOP 20: Antrag: Verfügungsmittel Martinsfreunde Hassels - zur Kenntnis genommen
+- TOP 21: Antrag: Verfügungsmittel Förderkreis der Henri-Dunant-Gemeinschaftsgrundschule e.V. - zur Kenntnis genommen
+- TOP 22: Antrag: Verfügungsmittel Diakonie, Zentrum Plus für Benrather Tüte - zur Kenntnis genommen
+- TOP 23: Antrag: Verfügungsmittel Adolf-Klarenbach-Schule - zur Kenntnis genommen
+- TOP 24: Antrag: Verfügungsmittel Paulsmühler Jecke e.V. - zur Kenntnis genommen
+- TOP 25: Antrag: Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeist - zur Kenntnis genommen
+- TOP 26: Antrag: Verfügungsmittel Heimatverein Holthausen-Itter-Himmelgeist - zur Kenntnis genommen
+- TOP 27: Antrag: Verfügungsmittel Heimatgemeinschaft Groß-Benrath e.V.; Nikolausfeier - zur Kenntnis genommen
+- TOP 28: Antrag: Verfügungsmittel AWO - zur Kenntnis genommen
+- TOP 29: Antrag: Verfügungsmittel Gemeinschaftsaktion Hassels - zur Kenntnis genommen
+- TOP 30: Antrag: Verfügungsmittel Familie im Zentrum - zur Kenntnis genommen
+- TOP 31: Antrag: Verfügungsmittel Martinsfreunde Wersten - zur Kenntnis genommen
+- TOP 32: Haushaltsplanberatungen 2011 - zur Kenntnis genommen
+- TOP 33: Antrag: Bürgerhaus Benrath - zur Kenntnis genommen
+- TOP 34: Antrag: Mitteilung der Verwaltung als TOP? - zur Kenntnis genommen
