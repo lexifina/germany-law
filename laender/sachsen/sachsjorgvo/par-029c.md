@@ -1,0 +1,2 @@
+# § 29c Disziplinargericht für Notare
+Die der Landesjustizverwaltung zustehenden Befugnisse und Aufgaben zur Ernennung der Beisitzer am Disziplinargericht für Notare nach § 103 Abs. 1 der Bundesnotarordnung (BNotO) in der im Bundesgesetzblatt Teil III, Gliederungsnummer 303-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 3 des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2449, 2462), in der jeweils geltenden Fassung, werden auf den Präsidenten des Oberlandesgerichts Dresden übertragen.
