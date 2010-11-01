@@ -13,7 +13,7 @@ Unterabschnitt 2 Bürgerlich-rechtliche Angelegenheiten
 § 7 Unterlassungsklageverfahren
 § 8 Führung des Güterrechtsregisters
 Unterabschnitt 3 Handels-, Gesellschafts-, Wettbewerbs- und Wertpapierrecht
-§ 9 Führung des Handels-, Partnerschafts- und Genossenschaftsregisters
+§ 9 Führung des Vereins-, Handels-, Partnerschafts- und Genossenschaftsregisters sowie unternehmensrechtlicher Verfahren
 § 10 Gesellschaftsrechtliche Angelegenheiten
 § 11 Angelegenheiten nach dem Wertpapiererwerbs- und Übernahmegesetz
 § 12 Kartellrecht
@@ -42,6 +42,7 @@ Teil 3 Verwaltungsaufgaben
 § 29 Übertragbarkeit des Nießbrauchs bei juristischer Person oder rechtsfähiger Personengesellschaft
 § 29a Zuständigkeiten nach dem Rechtsdienstleistungsgesetz
 § 29b Zuständigkeiten nach der Justizbeitreibungsordnung
+§ 29c Disziplinargericht für Notare
 Teil 4 Übergangs- und Schlussvorschriften
 § 30 Übergangsvorschriften
 § 31 Inkrafttreten und Außerkrafttreten
