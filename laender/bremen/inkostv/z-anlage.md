@@ -146,10 +146,6 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 121.06 | Meldebescheinigung, deren Ausstellung besondere Feststellungen oder einen sonstigen erhöhten Arbeitsaufwand erforderlich machen | je Bescheinigung 15
 121.07 | Erteilung oder Verlängerung einer Unbedenklichkeitsbescheinigung für Markt- und Meinungsforschungsinstitute | 129
 121.08 | Meldebescheinigung aus der mikroverfilmten Kartei | je Einwohner 20
-121.1 | Personalausweise | 
-121.10 | Neuausstellung eines Personalausweises vor Ablauf der Gültigkeitsdauer des bisherigen Personalausweises auf Grund einer Veränderung des Namens | 8
-121.11 | Neuausstellung eines Personalausweises vor Ablauf der Gültigkeitsdauer des bisherigen Personalausweises aus anderem Grund | 10
-121.12 | Ausstellung eines vorläufigen Personalausweises | 8
 122 | Sondernutzungen und allgemeine Ordnungsangelegenheiten | 
 122.06 | Verfügung nach den Vorschriften über Lärmbekämpfung | 43 bis 800
 122.07 | Verfügung nach dem Gesetz über das Halten von Hunden | 40 bis 800
@@ -169,7 +165,7 @@ Nr. | Kostentatbestand | Kostensatz in EUR
  | Anmerkungen zu 123.00 bis 123.02: | 
  | a) Gebührenschuldner sind die Empfangsberechtigten im Sinne des § 965 BGB (und die Finder, sofern sie gemäß § 973 BGB das Eigentum an der Sache erwerben). | 
  | b) Bei Tieren werden Gebühren nach 123.00 bis 123.02 nur solange berechnet, als diese nicht an eine Verwahrstelle (Tierheim) abgeliefert sind. | 
- | b) Neben der Gebühr zu 123.00 bis 123.02 sind die tatsächlich entstandenen Aufwendungen für das Abschleppen, Transportieren und Unterstellen von Fahrzeugen und anderen sperrigen Fundsachen zu erstatten. | 
+ | c) Neben der Gebühr zu 123.00 bis 123.02 sind die tatsächlich entstandenen Aufwendungen für das Abschleppen, Transportieren und Unterstellen von Fahrzeugen und anderen sperrigen Fundsachen zu erstatten. | 
 123.03 | Bescheinigung in Fundangelegenheiten | 5
 123.1 | Wohnwagen und Wohnwagenplätze | 
 123.10 | Genehmigung zur Aufstellung von Wohnwagen gem. § 2 Wohnwagengesetz bis zu einer Woche je Wagen | 9
