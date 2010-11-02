@@ -1,0 +1,6 @@
+# TOP 1.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Verbandsgemeinderat Westerburg (2010-11-02)
+- Körperschaft: Verbandsgemeinde Westerburg
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-4851%7Czt_1%7C2
