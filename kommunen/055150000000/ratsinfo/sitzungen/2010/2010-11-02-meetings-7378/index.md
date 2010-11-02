@@ -1,0 +1,51 @@
+# 11. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-11-02T17:06:00+01:00
+- Ende: 2010-11-02T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7378
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7378
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00300507.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Zuschüsse an Vereine im Stadtbezirk Mitte 2010 - einstimmig beschlossen
+- TOP 4.2: Wiederwahl der Schiedsperson für den Bezirk Münster I - Altstadt - einstimmig beschlossen
+- TOP 4.3: Wahl einer Schiedsperson für den Bezirk II Münster Uppenberg/Mauritz - einstimmig beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: Herausnahme aus dem Vorbehaltsnetz und Einrichtung einer Tempo-30-Zone für die Nordstraße und für die Wienburgstraße im Abschnitt zwischen Nordplatz und Cheruskerring - von der Tagesordnung abgesetzt
+- TOP 5.2: Verbesserungen an Haltestellen - Förderprogramme 2011 - einstimmig beschlossen
+- TOP 5.3: Umbenennung des Stadtteils "26 Schlachthof" in "26 Hörsterplatz" - einstimmig geändert beschlossen
+- TOP 5.4: Bebauungsplan Nr. 537 - Aufstellungsbeschluss - Veränderungssperre Nr. 101 - einstimmig beschlossen
+- TOP 5.5: Rahmenkonzept zur Schulentwicklungsplanung
+- TOP 5.6: Rahmenkonzept zur Schulentwicklungsplanung - vertagt
+- TOP 5.7: Sportstättenbau der SSB-Mitgliedsvereine, hier: Baubeginn und städtische Förderung - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Unterhaltung der Grundstücke und baulichen Anlagen 2011 im Stadtbezirk Mitte, - zur Kenntnis genommen
+- TOP 6.2: Kleinräumige Bevölkerungsprognose 2009 bis 2020 der Stadt Münster - zur Kenntnis genommen
+- TOP 6.3: Ergebnisbericht zum Einplanungsgespräch vom 22.09.2010 über die Zuschussmaßnahmen - zur Kenntnis genommen
+- TOP 6.4: Park Sentmaring - zur Kenntnis genommen
+- TOP 7: Etatberatung
+- TOP 7.1: Etatrelevante Vorlagen
+- TOP 7.1.1: Aufteilung der frei verfügbaren Haushaltsmittel der Bezirksvertretung Münster-Mitte im Jahr 2011 - mehrheitlich geändert beschlossen
+- TOP 7.2: Anhörung gemäß § 37 Abs. 4 GO NRW - Beratung des Entwurfes des Haushaltsplanes 2011 sowie des Finanz- und Investitionsprogramms 2009-2013
+- TOP 8: Anträge
+- TOP 8.1: Planung und Kostenermittlung für die Verlagerung des Spielplatzes Servatiiplatz - eingebracht
+- TOP 8.2: Verkehrssituation in der Linnebornstiege nach dem Ausbau - eingebracht
+- TOP 8.3: Blick auf Picassoplatz ermöglichen - eingebracht
+- TOP 8.4: Schandfleck am Torhaus (Warendorfer Straße/Ecke Mauritzstraße) beseitigen - zur Kenntnis genommen
+- TOP 8.5: Parksituation an Markttagen - eingebracht
+- TOP 9: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 9.1: Beseitigung von Unfallhäufungsstellen (u. a. Niedersachsenring/Gartenstraße) schnell umsetzen - zur Kenntnis genommen
+- TOP 9.2: Buswartehalle Hammer Straße/Bernhardstraße - zur Kenntnis genommen
+- TOP 10: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 11: Verschiedenes
