@@ -1,0 +1,77 @@
+# 37. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-11-03T17:30:00+01:00
+- Ende: 2010-11-03T21:40:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2719
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2719
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=42257
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Parkraumbewirtschaftung" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2009 - überwiesen
+- TOP 1.10: Verordnung über die Veränderungssperre 3-5/8 für das Grundstück Prenzlauer Promenade 45-46 im Bezirk Pankow, Ortsteil Heinersdorf - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.10: Grundstücksangelegenheit Sporthalle Eberswalder Straße 10 in 10437 Berlin (OT Prenzlauer Berg) - (offen)
+- TOP 1.11: Verkehrssicherheit in Karow und Buch - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.12: Renovierung des Treppenhauses im Seniorenwohnhaus Binzstr. 30 - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.13: Brücke Sudauer Straße im Ortsteil Buch - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.14: Nachteile durch Wohngeldbezug reduzieren - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.15: Nachweis der im Haushaltsjahr 2009 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.16: Ablaufplan zur Entwicklung der Fläche des ehemaligen Rangier- und Güterbahnhofes Pankow erarbeiten - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.17: Erfolgreiche Bildung braucht solide Finanzbasis - überwiesen
+- TOP 1.18: Kindertagesbetreuung im Bezirk Pankow - beantwortet
+- TOP 1.19: Nutzungsvertrag für ein Projekt in der Botanischen Anlage Blankenfelde - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.20: Botanische Anlage Blankenfelde - zurückgezogen
+- TOP 1.21: Wort halten bei Personalkostenbudgetierung - überwiesen
+- TOP 1.22: Integrationsgesetz für Berlin unterstützen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Botanische Vielfalt Pankow - überwiesen
+- TOP 1.24: Buslinie 155 direkt an den S-Bahnhof Schönholz anbinden - überwiesen
+- TOP 1.25: Keine City-Tax in Berlin - im Ausschuss abgelehnt
+- TOP 1.26: Fassadengrün auch im Bezirksamt erhalten und pflegen - überwiesen
+- TOP 1.27: Abstellmöglichkeiten für Fahrräder am JobCenter Pankow - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.28: Fahrradabstellanlagen am S-Bahnhof Blankenburg - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.29: Ermäßigte Gebühren für den elektronischen Personalausweis - überwiesen
+- TOP 1.30: Hundeauslaufgebiet im Blankensteinpark einrichten - überwiesen
+- TOP 1.31: Blindengerechtes Bezirksamt - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Generationsübergreifende Nutzung kommunaler Einrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Erfahrungsaustausch zu Begegnungsstätten - Orte für alle Generationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Charta der Vielfalt beitreten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Erweiterungsflächen für den Campus Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Rückrufservice - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Erschließung der Baustelle an der BAB 10 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Maßnahmeplan "Bürgerfreundliche Verwaltungssprache" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Jugendoffiziere: Schulen sollen Pluralität gewährleisten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Mauerpark fertig stellen - jetzt. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Verfahren für Neu- bzw. Umbenennungen für Pankower Straßen, Plätze und Orte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Sonder-Bauprogramm für Schulstrukturreform - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Bürgersteige in Französisch-Buchholz (alt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Straßenlaternen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.16: Unterstellmöglichkeiten BVG-Bus-Haltestelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Verhinderung der Verschmutzung und Beschädigung in den Parkanlagen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Beseitigung der erheblichen Gehwegschäden in der Busonistraße in Karow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Die nachhaltige Entwicklung der Botanischen Anlage Blankenfelde wirksam unterstützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Stammstrecke der Heidekrautbahn über Wilhelmsruh und Pankow-Park endlich wieder in Betrieb nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Städtebauliches Entwicklungskonzept für die Flächen rund um den Weißen See - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: KfW-Kredite für unsere Schulen nutzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Junge Bäume im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Vorbereitung der Aufhebungsverordnung für das Sanierungsgebiet Bötzowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Vorbereitung der Aufhebungsverordnung für das Sanierungsgebiet Wollankstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Nachweis der im 1. Halbjahr 2010 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Bebauungsplanentwurf 3-13 für das Gelände zwischen Lerchengraben, Piesporter Straße, Feldtmannstraße und Berliner Allee im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
