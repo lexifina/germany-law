@@ -1,0 +1,6 @@
+# TOP 4.: Verschiedenes
+
+- Sitzung: Betriebsausschuss für Zentrales Gebäudemanagement (6. Sitzung) (2010-11-04)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5446
