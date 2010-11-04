@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-11-04T14:00:00+01:00
+- Ende: 2010-11-04T22:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2702
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2702
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148455.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148455.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00148455.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung eines Beigeordneten - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - zur Kenntnis genommen
+- TOP 4: Aktuelle Anfragen
+- TOP 5: Anfrage aktuell von FDP und CDU: Mahn- und Gedenkstätte - beantwortet
+- TOP 6: Anfrage aktuell Die Linke: Schulessen - beantwortet
+- TOP 7: Anfrage aktuell Die Linke: Überhöhte Wassergebühren aufgrund überdimensionierter Wasseruhre - schriftlich beantwortet
+- TOP 8: Anfragen
+- TOP 9: Anfrage Freie Wähler: Zeitnahe Veröffentlichungen von Niederschriften - beantwortet
+- TOP 10: Anfrage Freie Wähler: Bessere Trainingsmöglichkeiten der DEG-METRO STARS im ISS-Dome - beantwortet
+- TOP 11: Anfrage CDU und FDP: ESC 2011 - beantwortet
+- TOP 12: Anfrage Ratsherr Krüger: Einnahmerückstände bei Amt 23 - zurückgezogen
+- TOP 13: Anfrage der Ratsfraktion von Bü 90/Grü - beantwortet
+- TOP 14: Anfrage SPD: Grundstücksverkäufe im Neubaugebiet "Am Quellenbusch" - schriftlich beantwortet
+- TOP 15: Anfrage Bü90/Grü: Kreatives Düsseldorf und der Eurovision Song Contest - schriftlich beantwortet
+- TOP 16: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 17: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 18: Anträge
+- TOP 19: Antrag DIE LINKE: Industrieproduktion im Düsseldorfer Süden erhalten - zur Kenntnis genommen
+- TOP 20: ÄA Bü90-Grü: Industrieproduktion im Düsseldorfer Süden erhalten - zur Kenntnis genommen
+- TOP 21: ÄA SPD: Industrieproduktion im Düsseldorfer Süden erhalten - zur Kenntnis genommen
+- TOP 22: Antrag Freie Wähler: Kostenlose Bereitstellung des Amtsblattes - zur Kenntnis genommen
+- TOP 23: Antrag Freie Wähler: ESC - Einlasskarten für das Kinderhospiz Regenbogenland - einstimmig abgelehnt
+- TOP 24: Antrag Die Linke: Keine Castor-Transporte durch Düsseldorf - zur Kenntnis genommen
+- TOP 25: Antrag CDU und FDP: Antrag zur frühkindlichen Bildung - mehrheitlich beschlossen
+- TOP 26: Antrag SPD u. Bü90/Grü: Stadt und Land - gemeinsam für beste Rahmenbedingungen bei der frühkindliche - mehrheitlich abgelehnt
+- TOP 27: Antrag SPD: Ankauf des Bahnhofsgebäudes Gerresheim - verwiesen
+- TOP 28: Antrag der Ratsfraktion von Bü 90/Grü - mehrheitlich abgelehnt
+- TOP 29: Antrag Bü90/Grü: Zusammenarbeit Bezirkssozialdienst (BSD) und Schulen - mehrheitlich abgelehnt
+- TOP 30: Erg.Antrag Die Linke: Zusammenarbeit Bezirkssozialdienst (BSD) und Schulen - zur Kenntnis genommen
+- TOP 31: Antrag DIE LINKE: Sozialticket zu sozialen Konditionen - mehrheitlich abgelehnt
+- TOP 32: Antrag Die Linke: Ehemalige Opernwerkstätten nicht verkaufen - mehrheitlich abgelehnt
+- TOP 33: Kämmererliste 2010 - mehrheitlich beschlossen
+- TOP 34: KP II -Sachstandsbericht und aktualisierte Investitionsliste - einstimmig beschlossen
+- TOP 35: Änderung der Gebührentarife zur Gebührensatzung für das Stadtarchiv der Landeshauptstadt Düsseldorf - zur Kenntnis genommen
+- TOP 36: Erschließung der Baugrundstücke im Gebiet des Bebauungsplan- Entwurfes Nr. 5976/ 025- Düsselpark/ Ge - einstimmig beschlossen
+- TOP 37: Oberflächenerneuerung Düsseldorfer Altstadt - zur Kenntnis genommen
+- TOP 38: Kooperation ARGE - zur Kenntnis genommen
+- TOP 39: Prüfungsordnung AusbildereignungsVO - einstimmig beschlossen
+- TOP 40: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 41: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 42: Stiftung Gerhart-Hauptmann-Haus, Neubildung des Kuratoriums
+- TOP 43: Düsseldorf ist ARTig/Bericht - einstimmig beschlossen
+- TOP 44: Fairtrade-Stadt Düsseldorf - zur Kenntnis genommen
+- TOP 45: Erg.Antrag Die Linke: "Fairtrade-Stadt" Düsseldorf - zur Kenntnis genommen
+- TOP 46: Aufsichtsrat der Jugendberufshilfe Düsseldorf gGmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 47: Kuratorium der Stiftung museum kunst palast - mehrheitlich beschlossen
+- TOP 48: Beirat der Bädergesellschaft Düsseldorf mbH - einstimmig beschlossen
+- TOP 49: Beirat der Stadtwerke Düsseldorf AG - einstimmig beschlossen
+- TOP 50: Genehmigung 60er
+- TOP 51: Genehmigung 60er: Heinrich-Heine-Allee 16, Oper- Erweiterung des Orchestergrabens etc. - einstimmig beschlossen
+- TOP 52: Genehmigung 60er: Regiobahn Fahrbetriebsgesellschaft mbH - mehrheitlich beschlossen
+- TOP 53: Planungsmaßnahmen
+- TOP 54: Änd.BPl 5088/01-Wasserwerksweg-Stellungn.;Satzung - einstimmig beschlossen
+- TOP 55: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 56: Satzung Jugendamt (Neufassung) - zur Kenntnis genommen
+- TOP 57: Ausschussumbesetzungen - einstimmig beschlossen
