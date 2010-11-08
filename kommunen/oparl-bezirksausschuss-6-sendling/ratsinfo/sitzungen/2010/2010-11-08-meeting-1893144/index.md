@@ -1,0 +1,54 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-11-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893144
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893144
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Kinder- und Jugend-Bezirksausschusssitzung am 24.11.2010, 17.00 - 19.00 Uhr im SBZ
+- TOP 3.2.: Gestaltung von Unterführungen mit Grafitti; hier: Thalkirchner Brücke (Bahnunterführung)
+- TOP 4: Schulreferat
+- TOP 5.1.: Freischankfläche am Schnellimbiss "Feinkost Spitzweg"; Spitzwegstr. 10
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Kulturstrand für München; vorgeschlagene Standorte: Hans-Preisinger-Str. und Gotzinger Platz
+- TOP 6.2.: Parkplatzsituation im Bereich Königsdorfer Str. 11 - 13
+- TOP 6.3.: Fußgängerüberweg über die Oberländerstraße westlich Gotzinger Straße
+- TOP 6.4.: Schaffung von vier Kfz-Stellplätzen für CarSharing am Kidlerplatz - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 6.5.: Öffnung der Oberländerstraße für den gegenläufigen Radverkehr
+- TOP 6.6.: Feuerwehrzufahrt Fritz-Endres-Straße 10 und 12
+- TOP 6.7.: Netzbaumaßnahmen der SWM
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstraße 2
+- TOP 8.3.: Bauvorhaben Valleystraße 48
+- TOP 8.4.: Bauvorhaben Plinganserstraße 65
+- TOP 8.5.: Bauvorhaben Implerstraße 7
+- TOP 8.6.: Luxussanierungen in der Maxvorstadt
+- TOP 8.7.: Bahntrassen in München langfristig sichern
+- TOP 8.8.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen
+- TOP 9: Baureferat
+- TOP 9.1.: Straßensanierung Greinerberg
+- TOP 9.2.: "Südblick" am Kriegsopfertempel in den Neuhofener Anlagen
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Matthias-Mayer-Straße 3
+- TOP 10.2.: Baumfällung Implerstraße 14 - 16
+- TOP 10.3.: Fällgenehmigung Implerstraße 64
+- TOP 10.4.: Verzicht auf Laubsauger und Laubbläser - <div>zur Kenntnis genommen</div>
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Kulturfest "München ist bunt" - Nazi-Aufmarsch in München am 13.11.2010
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm 2011 - 2015
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
