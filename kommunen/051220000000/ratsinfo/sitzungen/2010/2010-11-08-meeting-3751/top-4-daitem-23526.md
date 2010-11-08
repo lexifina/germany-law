@@ -1,0 +1,7 @@
+# TOP 4: Prävention in Solingen
+
+- Sitzung: Jugendhilfeausschuss (2010-11-08)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/23526
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/15302
