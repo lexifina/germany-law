@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2010-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1842371
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1842371
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bürgeranliegen: 1. Parken in zweiter Reihe in der Großhaderner Straße 2. Gehweginstandsetzungen nach Bauarbeiten
+- TOP 1.2.: Stadtteilcheck Ludwigsgymnasium - Ergebnisse Hadern
+- TOP 1.3.: Nutzung "Weißes Bräuhaus" / Raum für Geschichtsverein
+- TOP 1.4.: Wartehäuschen an der Ecke Senftenauerstraße / Silberdistelstraße der Buslinie 168
+- TOP 1.5.: Ringbuslinie um den Waldfriedhof
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule Am Hedernfeld, Gewaltpräventionsprojekt v. Jan. - April 2011 (Direktorium, 21.10.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Gemeinde Gräfelfing, Vorhabenbezogener Bebauungsplan Nr. 18 für ein Biomasseheizkraftwerk an der Würmtalstraße (Referat für Stadtplanung und Bauordnung, 29.09.10) (vertagt aus 10/10)
+- TOP 6.3.: Handlungsprogramm Mittlerer Ring Weiterer Planungsbedarf - Fortschreibung des Handlungsprogramms (Anfrage des BA vom 12.11.2009) (Referat für Stadtplanung und Bauordnung, 28.10.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Kriegerheimstraße 32, 1 Blutpflaume, 1 Zierkirsche und 1 Tanne
+- TOP 7.2.: Ringstraße 26, 1 Tanne
+- TOP 7.3.: Senftenauerstraße 21, 1 Linde
+- TOP 7.4.: Waldgartenstraße 62 a, 1 Kastanie
+- TOP 7.5.: Sauerbruchstraße 43, 2 Fichten
+- TOP 7.6.: Hosigaustraße 10, 1 Sand-Birke
+- TOP 7.7.: Am Sommerfeld 2, gem. Baumbestandsplan a) Nr. 24544 b) Nr. 24545
+- TOP 7.8.: Toemlingerstraße 10, 1 serbische Fichte
+- TOP 7.9.: Neufriedenheimer Straße 8, 1 Blaue Atlas-Zeder
+- TOP 7.10.: Immastraße 2, 1 Birke
+- TOP 7.11.: Veilchenstraße 40, 1 Fichte
+- TOP 7.12.: Platanenstraße 54, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Listen des Baureferates vom 28.09.10 und 04.10.10
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Guardinistraße 91 (Kreisverwaltungsreferat, 04.10.10)
+- TOP 8.2.: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2010 (SWM, 01.10.10)
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Würmtalstraße (Sozialreferat, 07.10.10)
+- TOP 8.4.: Unveränderte Fortführung einer Gaststätte: - "Zur Kajüte", Platanenstraße 56 (Kreisverwaltungsreferat, 14.10.10)
+- TOP 8.5.: Vollzug der Grünanlagensatzung vom 12.08.1991: Baustelleneinrichtung auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 21.10.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Städtischer Kindergarten Guardinistraße 58 (Schul- und Kultusreferat, 04.10.10 und 14.10.10)
+- TOP 9.2.: Lichtzeichenanlage Würmtal- / Eichenstraße (Kreisverwaltungsreferat, 07.10.10)
+- TOP 9.3.: 10-Minuten-Takt bei der Linie U6 (MVG, 08.10.10)
+- TOP 9.4.: Verkehrssituation Kornwegerstraße (Kreisverwaltungsreferat, 30.09.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Brücke A 96 über die Schröfelhofstraße (Autobahndirektion Südbayern, 30.09.10)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Optimierter Regiebetrieb Kindertagesstätten München - fehlende Stadtbezirksorientierung (Schr. Stadtrat Dr. Kronawitter, 14.10.10)
+- TOP 11.2.: Fachtagung Migration und Integration (Pro Migrakunst, 03.10.10)
+- TOP 11.3.: Verlängerung der Öffnungszeiten der städtischen Freibäder, Antr. BA 2 (Referat für Arbeit und Wirtschaft, 05.10.10)
+- TOP 11.4.: Studientag "Rechtsextreme Erlebniswelten" am 27.11.2010 (Feierwerk, 11.10.10)
+- TOP 11.5.: Zusammenarbeit mit dem Behindertenbeirat, Treffen am Montag, den 28.02.2011 um 18.00 Uhr (Behindertenbeirat, 14.10.10)
+- TOP 11.7.: Einladung "Das Schulreferat trifft die Bezirksausschüsse" am Mittwoch, den 24.11.2010 um 16.00 Uhr (Schul- und Kultusreferat, 12.10.10)
+- TOP 11.8.: Einladung zum Fachgespräch "Heizung / Warmwasser / Lüftung: Können wir uns nicht abgeglichene Gebäudetechnik leisten?" am Donnerstag, den 11.11.2010 (Referat für Gesundheit und Umwelt, 18.10.10)
+- TOP 11.9.: Geisterradler in der Würmtalstraße (Bürgerschreiben, 17.10.10)
+- TOP 11.12.: Einladung Abendforum "Pflanzenöl" am Mittwoch, 10.11.2010 (Referat für Gesundheit und Umwelt, 25.10.10)
+- TOP 11.13.: Einladung Fachforum "Strom sparen = Kosten sparen" am Donnerstag, 18.11.2010 (Referat für Gesundheit und Umwelt, 25.10.10)
+- TOP 11.14.: Einladung Fachforum "Bauen mit Lehm" am Mittwoch, 24.11.2010 (Referat für Gesundheit und Umwelt, 25.10.10)
+- TOP 11.15.: Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel und Klimaschutz der PERSKEPTIVE München, Einladung zur Abschlussveranstaltung am 23.11.2010 (Referat für Stadtplanung und Bauordnung, Referat für Gesundheit und Umwelt, 29.10.10)
+- TOP 11.16.: Einladung zum Fachforum "Innovative Dämm- und Baustoffe" auf der Messe Heim+Handwerk am Freitag, 26.11.2010 (Referat für Gesundheit und Umwelt, 25.10.10)
+- TOP 11.17.: "Bruder Baum" - Ausstellung im Planungsreferat, Treffen für interessierte BA-Mitglieder am Mittwoch, 24.11.2010 von 16.00 - 18.30 Uhr (Referat für Stadtplanung und Bauordnung, 03.11.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 06.10.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05036: Wohnen in München IV A) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe): Das KomPro-B-Vorhaben an der Großhaderner- / Ammerseestraße ist auf 2010 verschoben (Anlage 1). B) Beschlussteil (nach Antrag)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 21.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05043 (nach Antrag): Realisierung einer viergruppigen Kinderkrippe in der Marchioninistraße 3 + 5, Neubau und Umbau, Ausführungsgenehmigung (Kosten: 2.763.000,- ? für 48 Kinder)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05086: Bahntrassen in München langfristig sichern
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05167: Luxussanierungen in der Maxvorstadt
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05023: Ehrenpreis für guten Wohnungsbau, Wohnen im Alter und vorbildliche Sanierung, Verleihung der Ehrenpreise 2010, insbesondere an das Studentenwerk München für das Studentenwohnheim am Stiftsbogen, Schröfelhofstraße 4 - 26 a (Bewerbung Nr. 109), am 15.11.2010 im Saal des Alten Rathauses (Beschreibung in der Anlage, S. 4)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05070: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 30.07.2010
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung der Vollversammlung vom 06.10.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04749: PERSPEKTIVE MÜNCHEN Münchner Stadtteilstudie 2009, insbesondere zur Studie "Haderns Zukunft" in 2003 (S. 5)
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 22.09.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04978: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2010 - 30.06.2010, insbesondere zum Sonderflughafen Oberpfaffenhofen (die Klage gegen die Änderungsgenehmigung wurde abgewiesen, Anlage 7, S. 16)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
