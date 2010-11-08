@@ -1,0 +1,148 @@
+---
+ecli: "ECLI:DE:BPatG:2010:081110B12Wpat353.05.0"
+court: "Bundespatentgericht"
+spruchkoerper: "12"
+aktenzeichen: "12 W (pat) 353/05"
+decided: "2010-11-08"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bpatg&Art=en&Datum=2010&Sort=1&Seite=79&nr=18816&anz=1397&pos=1197&Blank=1.pdf"
+corpus_doc_id: "BPatG_TechnBeschw_NA_2010-11-08_12_W-pat_353_05_NA_0.txt"
+cites_law: ["germany/bund/acts/patg/0020.md", "germany/bund/acts/patg/0147.md"]
+---
+
+# Bundespatentgericht, 12 W (pat) 353/05 vom 2010-11-08
+
+## Entscheidung
+
+BUNDESPATENTGERICHT
+
+
+
+ 12 W (pat) 353/05
+_______________________
+
+    (Aktenzeichen)
+
+
+
+
+                                  BESCHLUSS
+
+                                In der Einspruchssache
+
+
+                          betreffend das Patent 10 2004 008 552
+
+
+
+…
+
+
+
+
+BPatG 152
+08.05
+
+                                      -2-
+
+
+
+…
+
+
+
+
+hat der 12. Senat (Technischer Beschwerdesenat) des Bundespatentgerichts am
+8. November 2010 unter Mitwirkung des Vorsitzenden Richters Dr.-Ing. Ipfelkofer,
+der Richterin Bayer sowie der Richter Dr.-Ing. Baumgart und Dr.-Ing. Krüger
+
+
+beschlossen:
+
+
+       Der Einspruch wird als unzulässig verworfen.
+
+
+
+
+                                   Gründe
+
+
+                                       I.
+
+
+Die Erteilung des Patents 10 2004 008 552 mit der Bezeichnung
+
+
+                                 „Laufradblock“
+
+
+ist am 14. Juli 2005 veröffentlicht worden. Gegen dieses Patent hat die Einsprechende am 26. September 2005 Einspruch erhoben.
+
+
+Mit Eingabe vom 19. Mai 2010 an das Deutsche Patent- und Markenamt hat die
+Patentinhaberin auf das Patent 10 2004 008 552 verzichtet. Sie hat in einer
+Eingabe vom 25. Mai 2010 erklärt, dass sie auch für aus der Vergangenheit
+resultierende Ansprüche auf das Patent verzichte.
+
+
+Die Einsprechende hat mit ihrer Eingabe vom 3. September 2010 erklärt, dass sie
+kein rechtliches Interesse an der Weiterverfolgung des Einspruchsverfahrens hat.
+
+                                      -3-
+
+
+
+Wegen weiterer Einzelheiten wird auf den Inhalt der Akten Bezug benommen.
+
+
+                                        II.
+
+
+1 . Das Bundespatentgericht ist für die Entscheidung über den Einspruch gemäß
+§ 147 Abs. 3 Satz 1 Nr. 1 PatG in der bis zum 30. Juni 2006 gültigen Fassung
+weiterhin zuständig, weil die Einspruchsfrist im vorliegenden Fall nach dem
+1. Januar 2002 zu laufen begonnen hat und der Einspruch vor dem 1. Juli 2006
+eingelegt worden ist (vgl. BGH GRUR 2007, 863 – Informationsübermittlungsverfahren II).
+
+
+2. Der Einspruch ist zu verwerfen.
+
+
+Das Patent 10 2004 008 552 ist wegen Verzichts erloschen (§ 20 Abs. 1 Nr. 1
+PatG).
+
+
+Ein Patent kann für die Zeit nach seinem Erlöschen weder widerrufen noch
+aufrechterhalten werden, so dass sich das Einspruchsverfahren hinsichtlich der
+Zeit nach dem Erlöschen des Patents erledigt hat.
+
+
+Ein Einsprechender kann nach Erlöschen des Patents eine Fortsetzung des
+Einspruchsverfahrens, das dann nur noch die Wirkungen des Patents für die Zeit
+vor dessen Erlöschen betrifft, nur verlangen, wenn bei ihm ein besonderes
+Rechtsschutzinteresse gegeben ist (BGH GRUR 1997, 615 - Vornapf; BGH PMZ
+2008, 154 - Kornfeinung). Ein Angriff auf ein Schutzrecht, das nicht mehr in Kraft
+ist, kann nämlich nicht mit Allgemeininteressen gerechtfertigt werden (BGH GRUR
+1995, 342 - Tafelförmige Elemente).
+
+
+Da der Einsprechende ein besonderes Rechtsschutzinteresse hinsichtlich der
+Wirkungen des Patents für die Vergangenheit nicht geltend gemacht hat und ein
+
+                                     -4-
+
+
+
+solches auch nicht ersichtlich ist, ist der Einspruch zum maßgebenden Zeitpunkt
+der Entscheidung unzulässig und daher zu verwerfen.
+
+
+
+
+Dr. Ipfelkofer         Bayer               Dr. Baumgart              Dr. Krüger
+
+
+
+
+                                                                           Me
