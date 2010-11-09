@@ -1,0 +1,59 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-11-09T16:04:00+01:00
+- Ende: 2010-11-09T17:08:00+01:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8196
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8196
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00122955.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines stellvertretenden Geschäftsführers für den Ausschuss für Finanzen und Beteiligungssteuerung und den gemeinsamen Betriebsausschuss APH/KIJU - ungeändert beschlossen
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss 2009 der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 3: Entlastungen
+- TOP 4: Wirtschaftspläne
+- TOP 5: Personelle Angelegenheiten
+- TOP 6: Allgemeine Vorlagen
+- TOP 6.1: Änderung von Gesellschaftsverträgen und Satzungen aufgrund des Transparenzgesetzes NRW - ungeändert beschlossen
+- TOP 6.2: Änderung des Gesellschaftsvertrages der Historische Stadthalle Wuppertal GmbH - ungeändert beschlossen
+- TOP 6.3: Änderung der Beteiligungsstruktur der Regiobahn Fahrbetriebsgesellschaft mbH - ungeändert beschlossen
+- TOP 6.4: Verbandsversammlung 2010 des Wupperverbandes - ungeändert beschlossen
+- TOP 6.5: Umbesetzungen in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 6.6: Sofortmaßnahmen zur Abwendung der Insolvenz der Historischen Stadthalle Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 6.7: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2009/2010 der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 6.8: Resolution zur Neuordnung des Kreislaufwirtschafts- und Abfallrechts - ungeändert beschlossen
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 13: Berichtsvorlagen
+- TOP 13.1: FinCo 10/2010 - Entgegennahme ohne Beschluss
+- TOP 13.2: Perspektive 2020 - Entwicklung des städtischen Haushaltes - Entgegennahme ohne Beschluss
+- TOP 13.3: Externe Einstellungen im Zeitraum Januar bis September 2010 - Entgegennahme ohne Beschluss
+- TOP 13.4: Stand der Schulden und Kassenkredite zum 30.09.2010 - Entgegennahme ohne Beschluss
+- TOP 14: Haushaltsangelegenheiten
+- TOP 15: Verkäufe und Baumaßnahmen
+- TOP 16: Dienstanweisungen und Satzungen
+- TOP 17: Anträge und Anfragen
+- TOP 17.1: Große Anfrage der WfW-Fraktion vom 11.10.2010 -Investitionsbedarf für die Nordbahntrasse- - Entgegennahme ohne Beschluss
+- TOP 17.1.1: Antwort auf die Große Anfrage der WfW-Fraktion vom 11.10.2010 - Investitionsbedarf für die Nordbahntrasse - - Entgegennahme ohne Beschluss
+- TOP 17.2: Große Anfrage der FDP-Fraktion vom 12.10.2010 -Warum Einsparliste statt Haushaltssicherungskonzept- - Entgegennahme ohne Beschluss
+- TOP 17.2.1: Beantwortung der Anfrage der FDP-Fraktion vom 12.10.2010 "Warum Einsparliste statt Haushaltssicherungskonzept" - Entgegennahme ohne Beschluss
+- TOP 17.3: Große Anfrage der FDP-Fraktion vom 25.10.10 -Mittel für freie Träger aus dem Konjunkturpaket II- - Entgegennahme ohne Beschluss
+- TOP 17.3.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 25.10.10 - Mittel für freie Träger aus dem Konjunkturpaket II - - Entgegennahme ohne Beschluss
+- TOP 17.4: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 28.10.10 -Neue Berechnungsgrundlage für die Kosten der Unterkunft- - geändert beschlossen
+- TOP 18: Allgemeine Vorlagen
+- TOP 18.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2010 - ungeändert beschlossen
+- TOP 18.2: Zinserhöhung kommunaler Wohnungsbaudarlehen - zur Entscheidung verwiesen
+- TOP 18.3: Öffentliche-rechtliche Vereinbarung über die Erschließung des Bebauungsplangebietes Nr. 1018 - ungeändert beschlossen
+- TOP 19: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 25: Alten- und Altenpflegeheime
+- TOP 26: Berichte und Mitteilungen
+- TOP 27: Kinder- und Jugendwohngruppen
+- TOP 28: Berichte und Mitteilungen
