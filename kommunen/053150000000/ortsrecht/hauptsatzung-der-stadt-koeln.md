@@ -1,8 +1,8 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2010-07-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung-19072010.pdf
+- Datum: 2010-11-09 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung2009-02-10fassung2010-11-09.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
 
-in der Fassung der 5. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 19. Juli 2010
+in der Fassung der 6. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 09. November 2010
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
@@ -242,8 +242,9 @@ Die Beschlüsse des Integrationsrates über die Verwendung von Haushaltsmitteln 
 § 23 Seniorenvertretung und Arbeitsgemeinschaften Seniorenpolitik
 (1) Bei der Stadt Köln wird eine Seniorenvertretung gebildet. Die Seniorenvertretung der Stadt Köln wird entsprechend den Regelungen der jeweils gültigen Wahlordnung gewählt.
 (2) Auf Stadtebene und auf Stadtbezirksebene werden Arbeitsgemeinschaften gebildet, in die die Seniorenvertretung, die Wohlfahrtsverbände und die Fraktionen des Rates bzw. Bezirksvertretungen Mitglieder entsenden. Die Stadtarbeitsgemeinschaft besitzt das Recht, Anregungen oder Stellungnahmen dem Rat, einer Bezirksvertretung oder einem Ausschuss vorzulegen.
-(3) Die Seniorenvertretung kann Mitglieder in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung und Jugend sowie Bauen und Wohnen zuständigen Fachausschüsse entsenden. Hierfür schlägt die Seniorenvertretung aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall der Stadtarbeitsgemeinschaft Seniorenpolitik vor. Auf Vorschlag der Stadtarbeitsgemeinschaft Seniorenpolitik wählt der Rat diese als sachkundigen Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
-(4) Die Einzelheiten regelt die vom Ausschuss für Soziales und Senioren beschlossene Geschäftsordnung für die Bezirksarbeitsgemeinschaften Seniorenpolitik und die Stadtarbeitsgemeinschaft Seniorenpolitik der Stadt Köln.
+(3) Die in die Stadtarbeitsgemeinschaft gewählten Seniorenvertreterinnen und Seniorenvertreter und ihre Stellvertretungen bilden die SVK-Stadtkonferenz.
+(4) Die SVK-Stadtkonferenz kann Mitglieder in die für Soziales, Gesundheit, Verkehr, Kultur, Sport, Umwelt, Stadtentwicklung und Jugend sowie Bauen und Wohnen zuständigen Fachausschüsse entsenden. Hierfür schlägt die SVK-Stadtkonferenz aus ihrer Mitte je ein Mitglied und eine Stellvertreterin/einen Stellvertreter für den Verhinderungsfall vor. Auf Vorschlag der SVK-Stadtkonferenz wählt der Rat diese als sachkundige Einwohner gem. § 58 Abs. 4 GO in die Ausschüsse.
+(5) Die Einzelheiten regelt die vom Ausschuss für Soziales und Senioren beschlossene Geschäftsordnung für die Bezirksarbeitsgemeinschaften Seniorenpolitik und die Stadtarbeitsgemeinschaft Seniorenpolitik der Stadt Köln.
 § 23 a Stadtarbeitsgemeinschaft Behindertenpolitik
 (1) Bei der Stadt Köln wird eine Stadtarbeitsgemeinschaft Behindertenpolitik gebildet, in die die Behindertenorganisationen und -selbsthilfegruppen, die Wohlfahrtsverbände und die Fraktionen des Rates Mitglieder entsenden. Für die Verwaltung nimmt die Oberbürgermeisterin/ der Oberbürgermeister oder eine von ihr/ihm beauftragte leitende Verwaltungsmitarbeiterin/ ein von ihr/ihm beauftragter leitender Verwaltungsmitarbeiter an den Sitzungen der Stadtarbeitsgemeinschaft Behindertenpolitik teil.
 (2) Die Stadtarbeitsgemeinschaft Behindertenpolitik berät behindertenrelevante Themen auf kommunaler Ebene und fertigt Stellungnahmen für Ratsausschüsse.
@@ -311,6 +312,6 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060 -
 
 Anlage zu § 1 der Hauptsatzung der Stadt Köln
