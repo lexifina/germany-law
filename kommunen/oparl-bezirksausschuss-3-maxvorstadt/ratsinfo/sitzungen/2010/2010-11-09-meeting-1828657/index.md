@@ -1,0 +1,94 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828657
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828657
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: s. TOP F 3.6
+- TOP 5.2.2.: s. TOP F 2.11
+- TOP 5.2.3.: s. TOP F 2.12
+- TOP 5.2.4.: Beschwerde eines Bürgers über Lärmbelästigung in der Sandstraße durch eine Baumaßnahme
+- TOP 1: Anträge (1)
+- TOP 1.1.: Interfraktioneller Antrag des BA 3 Bebauungsplan für das Gebiet nördlich des Hauptbahnhofes
+- TOP 1.2.: Interfratktioneller Antrag des BA 3 Erhalt der Durchgangsmöglichkeiten durch das Gelände des Bayerischen Rundfunks
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 39., 40., 41., 42. KW
+- TOP 2.1.2.: Schellingstraße 135, Umbau und Erweiterung des Rückgebäudes
+- TOP 2.1.3.: Fürstenstraße 15, Sanierung und Umbau eines Gebäudes mit Büroeinheiten in ein Wohnhaus
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Barer Straße 48 ? 50 a, 1 Robinie
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Spielhaus im Alten Botanischen Garten, Ankündigung Ortstermin mit dem Baureferat, Gartenbau am 15.11.2010
+- TOP 2.3.2.: Bericht der Vorsitzenden von der außerordentlichen UA-Sitzung am 27.10.2010 zum Umbau der Siemens Konzernzentrale
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, verkehrsrechtiche Anordnung, Anhörung: a) Abbau Lichtzeichenanlage Gabelsberger-/Schleißheimer Straße b) Abbau Lichtzeichenanlage Brienner-/Türkenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Baureferat, Anhörung: Versetzen einer Litfaßsäule in der Augustenstraße vertagt aus der Sitzung 10/2010, TOP C 2.2.2 Unterlagen liegen bereits vor
+- TOP 2.2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Kulturstrand für München: Vorschlag Standorte für die Jahre 2011 bis 2013 für Stadtratsvorlage am 23.11.2010 vertagt aus 10/10 (TOP C 2.2.3), Unterlagen liegen bereits vor
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Gesellschaft Kinderhoch3 GbR Einrichtung von zwei Spielgalerien
+- TOP 2.2.: (E) Budget der Bezirksausschüsse KJR München-Stadt, Jugendtreff M10City Sexualpädagogisches Projekt "Waagemut" am 03./04.12.2010
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse TheaterRaum München, Berufsfachschule für Schauspiel & Regie Projekt "Radio Noir" vom 16.11. - 20.11.2010
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Stadt- planung und Bauordnung am 13.10.2010: Luxussanierungen in der Maxvorstadt Sitzugnsvorlage Nr. 08-14/V 05167
+- TOP 1.2.: Sozialreferat, Abgeschlossenheitsbescheinigungen: 37., 38., 39. KW
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Baureferat, Gartenbau, Beschlussvorlage für die Sitzung des Bauausschusses am 19.10.2010, Sitzungsvorlage Nr. 08-14 / V 05286: Maßmannpark, Aufwertung und Umstrukturierung im 3. Stadtbezirk Maxvorstadt
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010, Sitzungsvorlage Nr. 08-14/V 05167: Luxussanierungen in der Maxvorstadt, Empfehlungen Nr. 08-14 / E 00473, E 00474 (Ziffer 1) und E 00475 (Ziffer 2) der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt vom 19.11.2009
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Schreiben vom 20.10.2010, Spielhallen in der Dachauer Straße, Urteil des Bayerischen Verwaltungsgerichts München vom 21.05.2007
+- TOP 1.7.: Sozialreferat, Amt für Wohnen und Migration, Wohnraumerhalt: Verbot der Zweckentfremdung a) Görresstraße (s. TOP F 3.3/0910) b) Königinstraße
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für die Sitzung des Aus- schusses für Stadtplanung und Bauordnung am 13.10.2010: Bahntrassen in München langfristig sichern Sitzungsvorlage Nr. 08-14/V 05086
+- TOP 2.2.: Kreisverwaltungsreferat, Verkerhsmanagement, verkehrsrechtliche Anordnung: Seidlstraße/Karlstraße, Arbeiten im Straßenraum vom 11.10.2010 bis 13.12.2010
+- TOP 2.3.: Baureferat, Tiefbau, Raktivierung des Spiel und Aufenthaltsbereiches am Georg-Elser-Platz: Ergänzung zur Antwort des Baureferates auf den BA-Antrag-Nr. 02-08 / B 01448 des BA 3 vom 12.09.2006. Der BA-Antrag ist bereits als erledigt vermerkt.
+- TOP 2.4.: Baureferat, Tiefbau, Anwohnertiefgarage Josephsplatz, BA-Antrag Nr. 08 ? 14 / B 02261 vom 13.07.2010:
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, BA-Antrag Nr. 08-14 / B 02255 vom 13.07.2010: Radwegverlängerung in der Gabelsbergerstraße: Antwortschreiben des Kreisverwaltungsreferates vom 11.10.2010
+- TOP 2.6.: Veranstaltung auf dem Geschwister-Scholl-Platz am 20./21.10.2010, Infoveranstaltung MTP; Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.7.: Baumaßnahmen der Stadtwerke Gabelsbergerstraße 65 Schellingstraße 143 und 23 Karolinenplatz nahe Haus 5 Heßstraße 30 Theresienstraße 36
+- TOP 2.8.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Antrag auf Genehmigung einer Freischank- fläche; Antrag des KVR auf Entscheidung des Oberbürgermeisters
+- TOP 2.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Christkindlmarkt auf dem Wittelsbacherplatz vom 25.11. bis 23.12.2010: Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.10.: Direktorium, Entscheidung des Oberbürgermeisters: Erweiterung einer Freischankfläche Türkenstraße 51, Gaststätte ?Soda?
+- TOP 2.11.: Schreiben des Vorsitzenden des Elternbeirates der Volksschule in der Türkenstraße an das Kreisverwaltungsreferat vom 04.10.2010: probeweise Abschaltung der LZA Georgen-/Friedrichstraße
+- TOP 2.12.: Schreiben der Schulleitung der Grundschule an der Türkenstraße an den BA 3 vom 04.10.2010: Abschaltung der LZA an der Georgen-/ Ecke Friedrichstraße
+- TOP 3.1.: entfällt
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für die Sitzung des Ausschus- ses für Stadtplanung und Bauordnung vom 13.10.2010: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen ? Sachstandsbericht zum 30.07.2010 Sitzungsvorlage Nr. 08-14/V 05070
+- TOP 3.3.: Schul- und Kultusreferat, Kindertagesstätten sonstiger Träger; Haus für Kinder an der Schleißheimer Straße 41 Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013 Sitzungsvorlage Nr. 08 ? 14 / V 05228
+- TOP 3.4.: Referat für Arbeit und Wirtschaft, Verlängerung der Öffnungszeiten der städtischen Feibäder: Schreiben des Referenten für Arbeit und Wirtschaft vom 05.10.2010
+- TOP 3.5.: Sozialreferat, Haushaltskonsolidierung, 4. Haushaltssicherungskonzept Sachstand Konsolidierung 2009/2010, Feinkonzept 2011, Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung Sitzungsvorlage Nr. 08-14 / V 05165 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses am 11.11.2010
+- TOP 3.6.: Schreiben der Eltern- und Kindinitiative Maxvorstadt vom 15.09.2010: Bitte um Mithilfe bei der Suche nach neuen Räumlichkeiten
+- TOP 4: Kultur
+- TOP 4.1.: Budgetantrag der Kath. Pfarrgemeinde St. Benno München, Ablehnung der beantragten Zuwendung: Schreiben des Direktoriums vom 28.09.2010
+- TOP 4.1.: Wahl des/der UA-Vorsitzenden ?Verkehr und öffentlicher Raum?
+- TOP 4.2.: E-Mail-Verteiler für die elektronisch übermittelten Baumfällungsanträge der Unteren Na- turschutzbehörde
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: UA Planung und Umwelt am 03.11.2010, 19.30, Bürgerbüro, Schellingstraße 28 a UA Verkehr und öffentl. Raum, 04.11.2010, 19.00, Bürgerbüro Schellingstraße 28 a UA Soziales und Bildung, 08.11.2010, 19.00 Uhr Bürgerbüro, Schellingstraße 28 a UA Kultur, 02.11.2010, 19.30 Uhr, Cafe "Telos", Kurfürstenstraße 2
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
