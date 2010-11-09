@@ -1,0 +1,90 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1844126
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1844126
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Verkehrsberuhigung Lutzstraße
+- TOP 1.2.2.: Haus der Familie
+- TOP 1.2.3.: Antrag Seniorenvertretung "Laimer wollen ihre Meldestelle zurück"
+- TOP 1.2.4.: Radweg über den Hönigschmidplatz
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Erweiterung der vergünstigten MVV-Tickets in Kombination mit dem München-Pass auf Außenraum-Tagestickets
+- TOP 2.2.: CSU: Aufbringung eines Lärmschutzbelages bei den Zu- bzw. Abfahrten zur Autobahn München-Lindau
+- TOP 2.3.: UA Soziales, Schule und Sport: Fliesensanierung in den Toiletten der Droste-Hülshoff Schule zeitgleich mit der geplanten Heizungssanierung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus Budgetmitteln des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.480 Euro für LAimer Adventdult am 27. / 28.11.10; Antragsteller: Laimer Maibaumfreunde e.v. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 24.09.10: Flohmärkte auf dem Hogenbergplatz am 30.04.11 und 17.09.11
+- TOP 4.2.: Schreiben Stadtkämmerei vom 20.09.10: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015
+- TOP 4.3.: Schreiben Planungsreferat vom 28.09.10: Stadtlohner Str. 10: Antrag auf Baumveränderung
+- TOP 4.4.: Schreiben Planungsreferat vom 04.10.10: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke in München; Planfeststellungsabschnitt 1 "München West", Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, Bau-km 100,600 bis 105,996 / 1. Planänderung
+- TOP 4.5.: Schreiben KVR vom 14.10.10: Maiandacht am St-Ulrichsplatz am 11.05.11, Open-Air-Gottesdienst und Gospelkonzert am 08.06.11 auf dem Laimer Anger, Fronleichnamsprozession am 26.06.11 auf dem Laimer Anger
+- TOP 4.6.: Schreiben KVR vom 14.10.10: Osterfeuer am 24.04.11 auf dem Laimer Anger
+- TOP 4.7.: Schreiben KVR vom 25.10.10: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Valpichlerstraße am 07.05.11
+- TOP 4.8.: Schreiben KVR vom 21.10.10: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hans-Thonauer-Straße
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Straße: Fernwärmeerschließung München-West, Druckerhöhungsstation Laim (Landsberger Straße / Pronnerplatz) / Tektur; hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Behindertenbeirat der LH München vom 14.10.10: Vernetzung mit den Bezirksausschüssen; Einladung zur Auftaktveranstaltung am 28.02.11
+- TOP 6.2.: Schreiben Regierung von Oberbayern, Staatliches Schulamt in der LH München und LH München vom 14.10.10: Reform der Hauptschulen in München - Auf dem Weg zur Mittelschule; Einladung zu den Dialogforen in der LH München, Forum "Süd-West" am 23.11.10
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 27.07.10
+- TOP 7.2.: BA-Sitzung vom 14.09.10
+- TOP 7.3.: Ortstermin UA Soziales, Schule und Sport vom 22.09.10
+- TOP 7.4.: Sitzung UA Kultur vom 28.09.10
+- TOP 7.5.: Sitzung des UA Soziales, Schule und Sport am 04.10.10
+- TOP 7.6.: BA-Sitzung vom 05.10.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 24.09.10: Budget des BA 25; Bescheid über Zuwendungsbewilligung; Antragsteller: Familienzentrum Laim e.V.
+- TOP 8.2.: Schreiben Direktorium vom 14.10.10: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Förderverein Kindergarten Fronleichnam e.V.
+- TOP 8.3.: Schreiben Direktorium vom 14.10.10: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Schützengesellschaft Zwölf Apostel e.V.
+- TOP 8.4.: Schreiben Gleichstellungsstelle für Frauen vom 23.09.10: 8. Treffen der Gleichstellungsbeauftragten der BAs am 17.09.10; nächster Termin: 22.02.11
+- TOP 8.5.: Schreiben Sozialreferat vom 30.09.10: Genehmigung der Zweckentfremdung von Wohnraum; Hartelstraße
+- TOP 8.6.: Schreiben Sozialreferat vom 25.10.10: Städtisches Flurstück 47, Gemarkung Laim an der Agnes-Bernauer-Straße sowie Siglstr. 19 und 21
+- TOP 8.7.: Schreiben Referat für Gesundheit und Umwelt vom 05.10.10: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezustand gemäß § 7 Abs. 2 der 32. BImSchG; Gotthardstraße / Zschokkestraße / Friedenheimer Straße
+- TOP 8.8.: Schreiben Referat für Arbeit und Wirtschaft vom 30.09.10: Wirtschafts-Info 09/2010
+- TOP 8.9.: Schreiben Referat für Arbeit und Wirtschaft vom 13.10.10: Europe Direct Information 07/2010
+- TOP 8.10.: Schreiben Referat für Arbeit und Wirtschaft vom 05.10.10: Verlängerung der Öffnungszeiten der städtischen Freibäder (Antrag Nr. 08-14 / B 02299 des BA 2 vom 27.07.10)
+- TOP 8.11.: Schreiben KVR vom 11.10.10: Gaststätte "Teufelsküche", Helmpertstr. 2; unveränderte Fortführung
+- TOP 8.12.: Schreiben KVR vom 14.10.10: Installation einer akustischen Blindenampel für sehbehinderte und blinde Bürger an der Kreuzung Fürstenrieder - / Gotthardstraße (BA-Antrag Nr. 08-14 / B 02124 vom 04.05.10)
+- TOP 8.13.: Schreiben KVR vom 20.10.10: Bauvorhaben Fürstenrieder Str. 51
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 01.10.10: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2010
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 11.10.10: Baumaßnahmen der SWM; Fernwärmeprojekt Erschließung Pasing-Laim, Druckerhöhungsstation Laim-Pronner Platz
+- TOP 8.16.: Schreiben MVG vom 14.10.10: Tram 18 Westendstraße; Abbiegung zur Haltestelle Westendstraße (U)
+- TOP 8.17.: Schreiben Baureferat vom 15.10.10: Straßenumbauarbeiten in der Kreuzung Landsberger Straße / Willibaldstraße
+- TOP 8.18.: Schreiben Baureferat vom 25.10.10: Fehlende Straßenmarkierung an der Kreuzung Camerloherstraße / Fürstenrieder Straße (Antrag Nr. 08-14 / B 02386 vom 14.09.10)
+- TOP 8.19.: Schreiben Planungsreferat vom 11.10.10: Reutterstr. 42; Nutzungsänderung zur Erweiterung eines Bäckerei-Ladengeschäftes mit Sitzcafé auf der ehemaligen Bank-Nutzfläche
+- TOP 8.20.: Schreiben Planungsreferat vom 12.10.10: Agricolastr. 81; Neubau eines bzw. zweier Einfamilienhäuser mit Garagen / Vorbescheid
+- TOP 8.21.: Bautenliste vom 20.09.-26.09.10: 1. Erstantragsverfahren a) Gotthardstr. 1 b) Elsenheimerstr. 61 c) Camerloherstr. 108 d) Camerloherstr. 108 e) Hartelstr. 4 f) Guido-Schneble-Str. 40 2. Änderungsverfahren a) Landsberger Str. 286 b) Aindorferstr. 199 c) Agricolastr. 99 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Flantinstr. 13 b) Camerloherstr. 108
+- TOP 8.22.: Bautenliste vom 27.09.-03.10.10 1. Erstantragsverfahren a) Fürstenrieder Str. 39 2. Änderungsverfahren a) Landsberger Straße 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Helmpertstr. 3
+- TOP 8.23.: Bautenliste vom 04.10.-10.10.10 1. Erstantragsverfahren a) Landsberger Str. 216 2. Änderungsverfahren a) Ilmmünsterstr. 48 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Straße
+- TOP 8.24.: Bautenliste vom 11.10.-17.10.10 1. Erstantragsverfahren a) Geyerspergerstr. 73 b) Inderstorferstr. 36
+- TOP 8.25.: Bautenliste vom 18.10.-24.10.10: 1. Erstantragsverfahren a) Flotowstr. 20 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Flotowstr. 20
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 27.09.10: Baumaßnahmen der Stadtwerke; Stichtag: 27.09.10
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 04.10.10: Baumaßnahmen der Stadtwerke; Stichtag: 04.10.10
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 08.10.10: Baumaßnahmen der Stadtwerke; Stichtag: 08.10.10
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 18.10.10: Baumaßnahmen der Stadtwerke; Stichtag: 18.10.10
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 25.10.10: Baumaßnahmen der Stadtwerke; Stichtag: 25.10.10
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.10: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen; Sachstandsbericht zum 30.07.10 (Sitzungsvorlagen Nr. 08-14 / V 05070)
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.10: Luxussanierungen in der Maxvorstadt (Sitzungsvorlagen Nr. 08-14 / V 05167)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.10: Bahntrassen in München langfristig sichern (Sitzungsvorlagen Nr. 08-14 / V 05086)
+- TOP 8.34.: Beschluss des Kinder- und Jugenhilfeausschusses vom 09.11.10: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Elsenheimerstr. 45 (Wichtel Akademie München GmbH) mit 48 Kinderkrippenplätzen; Umbau (Sitzungsvorlagen Nr. 08-14 / V 05073)
+- TOP 8.35.: Beschluss des Kinder- und Jugendhilfeausschusses vom 09.11.10: Investitionskostenförderung gem. Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Landsberger Str. 155 (Die Münchner Kindl Kinderkrippen GmbH) mit 48 Kinderkrippenplätzen; Umbau
+- TOP 8.36.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK), Sachstand Konsolidierung 2009/2010, Feinkonzept 2011, Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung (Sitzungsvorlage Nr. 08-14 / V 05165)
+- TOP 8.37.: Schreiben Stadtrat Dr. Kronawitter vom 14.10.10: Optimierter Regiebetrieb Kindertagesstätten München - fehlende Stadtbezirkorientierung
+- TOP 8.38.: Schreiben Pro Migrakunst vom 03.10.10: Fachtagung Migration und Integration im Februar 2011
+- TOP 8.39.: Schreiben Fachinformationsstelle Rechtsextremismus München vom 11.10.10: Studientag "Rechtsextreme Erlebniswelten" am 27.11.10
+- TOP 8.40.: Statistisches Jahrbuch 2010
+- TOP 8.41.: Schriftverkehr aus der BA-Sitzung vom 14.09.10
+- TOP 8.42.: Schriftverkehr aus der BA-Sitzung vom 05.10.10
+- TOP 1.2: Bürgerpost an den BA
