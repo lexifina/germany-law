@@ -1,0 +1,67 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-11-09T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904228
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904228
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Nachbesetzung in den Unterausschüssen - Planung, Verkehr und Umwelt (Vertreter) - Schule, Sport und Soziales (Vertreter)
+- TOP 2: Entscheidungsfälle
+- TOP 3.1.: Anträge aus der Einwohnerversammlung am 13.10.2010 ("Wasser in den Kellern") gemäß beiliegendem Protokoll
+- TOP 3.2.: Neuerrichtung von weiteren Dükern in Feldmoching (Grundwasserstand)
+- TOP 3.3.: Anträge aus der Kinder- und Jugendsprechstunde am 22.10.10
+- TOP 3.4.: Aufstellen von zusätzlichen Wertstoffcontainern in der Lerchenau
+- TOP 3.5.: Fehlende Müllbehälter an der S-Bahnhaltestelle Fasanerie
+- TOP 3.6.: Absenkung des Gehweges am Stanigplatz 12
+- TOP 3.7.: Versetzung Stoppschild Schleissheimer Straße/Ecke Fortnerstraße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015
+- TOP 5.2.: Bauvorhaben Aschenbrennerstr. 14
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Bauvorhaben): Aschenbrennerstr. 14
+- TOP 5.4.: Mobilfunk; Suchkreismeldung UMTS im Suchkreis M-Schittgablerstraße
+- TOP 5.5.: Mobilfunk; Suchkreismeldung im Suchkreis 000 (Aufbau einer Mobilfunksendeanlage)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Klettergerät für Spielplatz an der Bocksdornstraße (-&gt; Antrag Nr. 6/12 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.2.: Basketballkorb am Bolzplatz an der Herbergstraße (-&gt; Antrag Nr. 6/19 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.3.: Baumaßnahme Herstellung der Schleißheimer Straße (Westseite) (-&gt; Rückmeldung zu BA-Anhörung; Stellungnahme des BA 24 vom 05.11.2009)
+- TOP 6.4.: Baumaßnahme Lassallestr. 95 (-&gt;Rückmeldung zu BA-Anhörung; TOP 6.24.5 am 05.09.10)
+- TOP 6.5.: Radwege im Rangierbahnhof (-&gt; Antrag TOP 3.6 am 14.09.10)
+- TOP 6.6.: Straßensanierung der Schrederbächlstraße (-&gt; Antrag TOP 3.5 am 02.03.10)
+- TOP 6.7.: Verlegung Fußgängerüberweg Dülferstraße (-&gt; BA-Antrag Nr. 02-08/B 02752 vom 06.12.07)
+- TOP 6.8.: Verkehrsgeschwindigkeit in der Dülferstraße (-&gt; Antrag TOP 3.1 am 02.03.10)
+- TOP 6.9.: Stellungnahme Streetwork Hasenbergl: Goldschmiedeplatz und Kriegerdenkmal (-&gt;Anträge TOP 3.5 und 3.7 am 08.12.09)
+- TOP 6.10.: S-Bahnhof Fasanerie: Schaffung weiterer Fahrradstellplätze (Zwischennachricht zu -&gt; BA-Antrag Nr. 02-08/B 02373 vom 11.09.07)
+- TOP 6.11.: Genehmigungsverfahren Baumschutzverordnung: Reschreiterstraße (-&gt; Anhörung TOP 5.4 am 05.04.10)
+- TOP 6.12.: Gewährung eines Zuschusses aus dem BA-Budget: Euro-Trainings-Centre ETC (hier: Abrechnung/Verwendungsnachweis)
+- TOP 6.13.: Gewährung eines Zuschusses aus dem BA-Budget: Junges Orchester (hier: Abrechnung/Verwendungsnachweis)
+- TOP 6.14.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.15.: Meldelisten Baumfällungsanträge
+- TOP 6.16.: Meldelisten Bauvorhaben
+- TOP 6.17.: Herstellung Löwenzahnweg nördlich Schittgablerstraße
+- TOP 6.18.: Verkehrsrechtliche Anordnungen: 6.18.1 Sprerrung Bahnübergang Fasanerie - Feldmochinger Straße 6.18.2 Schneeglöckchenstr. 89a (Behindertenparkplatz) 6.18.3 Paulckestraße 2 (Behindertenparkplatz)
+- TOP 6.19.: Projektgenehmigung MSE: Ludwigsfelder Straße: Kanalisierung und Verlängerung des bestehenden Kanals
+- TOP 6.20.: Baumaßnahmen der Stadtwerke München: 6.20.1 SWM Netzbaumaßnahmen (II/2010) 6.20.2 Stromprojekt Weitlstr. 66 6.20.3 Stromprojekt Wintersteinstraße
+- TOP 6.21.: Verlängerung der Öffnungszeiten der städt. Freibäder (Stellungnahme RAW/SWM zu BA-Antrag des BA 2)
+- TOP 6.22.: Beschlussvorlage Baureferat: Erstmalige Herstellung Schwarzhölzlstraße und Nebenstraßen
+- TOP 6.23.: Beschlussvorlage Schul- und Kultusreferat: Integration macht Schule im Quartier Hasenbergl (-&gt; BA-Antrag Nr. 08-14/B 01644 vom 10.11.09)
+- TOP 6.24.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Perspektive München; Münchner Stadtteilstudie 2009
+- TOP 6.25.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen; Sachstandsbericht
+- TOP 6.26.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bahntrassen in München langfristig sichern
+- TOP 6.27.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Luxussanierungen in der Maxvorstadt
+- TOP 6.28.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Erlass von Erhaltungssatzungen n.d. BauGB; Bundeseigene Wohnungen
+- TOP 6.29.: Beschlussvorlage Sozialreferat: Lotsenprojekt PONTIS
+- TOP 6.30.: Beschlussvorlage Sozialreferat: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4.HSK)
+- TOP 6.31.: Abgabenachricht Baureferat zu Vorgang: Lemgostraße -Rückbau Bahnübergang (-&gt; Anhörung TOP 2.1 am 05.10.10)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
