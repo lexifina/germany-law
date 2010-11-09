@@ -1,0 +1,8 @@
+# TOP 17.3: Große Anfrage der FDP-Fraktion vom 25.10.10 -Mittel für freie Träger aus dem Konjunkturpaket II-
+
+- Sitzung: öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU (2010-11-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/48025
+- Ergebnis: Entgegennahme ohne Beschluss
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/22729
