@@ -1,0 +1,7 @@
+# TOP 2: Vorstellung von trias gGmbH mit anschließender Aussprache Reflektion 15 Jahre soziale Arbeit im Bezirk
+
+- Sitzung: 45. öffentliche Sitzung des Sozialausschusses (2010-11-09)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=10148
+- Ergebnis: erledigt
