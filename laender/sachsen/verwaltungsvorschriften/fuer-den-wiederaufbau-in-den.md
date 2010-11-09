@@ -1,8 +1,8 @@
-# Für den Wiederaufbau in den vom Augusthochwasser 2010 betroffenen Regionen stehen neben den ereignisspezifischen Förderrichtlinien des Sächsischen Staatsministeriums des Innern (SMI): – Richtlinie des Sächsischen Staatsministeriums des Innern zur Bes
+# Für den Wiederaufbau in den vom Hochwasser 2010 betroffenen Regionen stehen neben den ereignisspezifischen Förderrichtlinien des Sächsischen Staatsministeriums des Innern (SMI) aus dem Ressortbereich des Sächsischen Staatsministeriums für Umwelt und 
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-08-20 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11474.1
+- Datum: 2010-11-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11474.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -13,26 +13,7 @@ I.
 
 Geltungsbereich
 
-Für den Wiederaufbau in den vom Augusthochwasser 2010 betroffenen Regionen stehen neben den ereignisspezifischen Förderrichtlinien des Sächsischen Staatsministeriums des Innern (SMI):
-
-
-–
-
-
-Richtlinie des Sächsischen Staatsministeriums des Innern zur Beseitigung von Schäden an Wohngebäuden vom Hochwasser im August 2010 (
-
-RL Hochwasserschäden Wohngebäude 2010) vom 18. August 2010 (SächsABl. SDr. S. S 108) und 
-
-
-–
-
-
-Richtlinie des Sächsischen Staatsministeriums des Innern zur Beseitigung von Schäden durch Hochwasser im August 2010, die nicht von Förderprogrammen abgedeckt werden (
-
-Auffangrichtlinie Hochwasserschäden) vom 24. August 2010 (SächsABl. SDr. S. S 106), 
-
-
-aus dem Ressortbereich des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft (SMUL) insbesondere folgende Fachförderrichtlinien bereit:
+Für den Wiederaufbau in den vom Hochwasser 2010 betroffenen Regionen stehen neben den ereignisspezifischen Förderrichtlinien des Sächsischen Staatsministeriums des Innern (SMI) aus dem Ressortbereich des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft (SMUL) insbesondere folgende Fachförderrichtlinien bereit:
 
 
 1.
@@ -91,9 +72,15 @@ Richtlinie des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft un
 RL EuK/2007) vom 24. Juli 2007 (SächsABl. S. 1658), zuletzt geändert durch Richtlinie vom 15. Mai 2009 (Sächs ABl. S. 1020) mit Wirkung vom 28. April 2009. 
 
 
-Die 
+8.
 
-RL Hochwasserschäden Wohngebäude 2010 hat als Spezialrichtlinie Vorrang vor anderen Fachförderrichtlinien. Die 
+
+Richtlinie des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft für die Förderung von Maßnahmen zur Sicherung der natürlichen biologischen Vielfalt und des natürlichen ländlichen Erbes im Freistaat Sachsen (Förderrichtlinie Natürliches Erbe – 
+
+RL NE/2007) vom 2. Januar 2008 (SächsABl. S. 218), zuletzt geändert durch Richtlinie vom 28. Juli 2010 (SächsABl. S. 1156) mit Wirkung vom 20. August 2010. 
+
+
+Die 
 
 Auffangrichtlinie Hochwasserschäden gilt nachrangig zu den Fachförderrichtlinien.
 
@@ -106,7 +93,7 @@ Allgemeiner Teil
 1.
 
 
-Zweck dieser Verwaltungsvorschrift ist, die vorhandenen Fachförderrichtlinien des SMUL für den Wiederaufbau in den vom Augusthochwasser 2010 betroffenen Regionen vorübergehend geändert anzuwenden. Die Förderung dient nicht als Schadensersatz, sondern der Unterstützung für den Aufbau und Herstellung im Sinne der Fachförderrichtlinien.
+Zweck dieser Verwaltungsvorschrift ist, die vorhandenen Fachförderrichtlinien des SMUL für den Wiederaufbau in den vom Hochwasser und von witterungsbedingten Wasserschadereignissen 2010 (Hochwasser) betroffenen Regionen vorübergehend geändert anzuwenden. Die Förderung dient nicht als Schadensersatz, sondern der Unterstützung für den Aufbau und Herstellung im Sinne der Fachförderrichtlinien.
 
 
 2.
@@ -118,7 +105,7 @@ Die nachfolgenden Regelungen finden auf Anträge der durch das Hochwasser 2010 G
 3.
 
 
-Die Regelungen der VwV Wiederaufbau Hochwasser gelten für Förderungen, die bis zum 31. Dezember 2010 bei den zuständigen Bewilligungsbehörden beantragt werden.
+Die Regelungen der VwV Wiederaufbau Hochwasser 2010 gelten für Förderungen nach Teil I Nummer 1 bis 4 sowie 6 und 8, die bis zum 31. März 2011 bei den zuständigen Bewilligungsbehörden beantragt werden. Die Förderung nach Teil I Nummer 5 ist bis zum 30. Juni 2011, die Förderung nach Teil I Nummer 7 ist bis zum 31. Dezember 2010 bei den zuständigen Bewilligungsbehörden zu beantragen.
 
 
 4.
@@ -174,16 +161,16 @@ Besonderer Teil
 1.
 
 
-RL KuN/2009 : 
+RL KuN/2009: 
 
 
-Das Hochwasserereignis vom August 2010 wird gemäß Artikel 2 Nr. 8 der Verordnung (EG) 1857/2006 der Kommission vom 15. Dezember 2006 (ABl. L 358, S. 6) einer Naturkatastrophe gleichgesetzt. 
+Die Hochwasserereignisse vom August und September 2010 werden gemäß Artikel 2 Nr. 8 der Verordnung (EG) 1857/2006 der Kommission vom 15. Dezember 2006 (ABl. L 358 S. 6) einer Naturkatastrophe gleichgesetzt. 
 
 
 2.
 
 
-RL LuE/2007 : 
+RL LuE/2007: 
 
 
 Die Nummer 4.5 wird aufgehoben. 
@@ -234,7 +221,7 @@ RL GH/2007 :
 4.1
 
 
-Das Hochwasserereignis vom August 2010 ist als außergewöhnliches Hochwasserereignis gemäß Nummer 4.16 zu bewerten. Eines Erlasses im Sinne der Nummer 4.16 bedarf es insoweit nicht.
+Die Hochwasserereignisse vom August und September 2010 sind als außergewöhnliches Hochwasserereignis gemäß Nummer 4.16 zu bewerten. Eines Erlasses im Sinne der Nummer 4.16 bedarf es insoweit nicht.
 
 
 4.2
@@ -246,7 +233,7 @@ Die Zuwendung beträgt 90 Prozent der zuwendungsfähigen Ausgaben. Die Zuwendung
 4.3
 
 
-Maßnahmen der Hochwasserschadensbeseitigung sind Sofortmaßnahmen zur Gefahrenabwehr, Maßnahmen der Schadenserhebung und Vorhabensplanung sowie Instandsetzungs- und Ersatzmaßnahmen.
+Maßnahmen der Hochwasserschadensbeseitigung sind Sofortmaßnahmen zur Gefahrenabwehr, Maßnahmen der Schadenserhebung, Konzepte nach Nummer 2.2.1, soweit für einen nachhaltigen Wiederaufbau der Gewässerinfrastruktur erforderlich, sowie lnstandsetzungs- und Ersatzmaßnahmen einschließlich erforderlicher Planungsleistungen.
 
 
 4.4
@@ -264,7 +251,7 @@ RL SWW/2009 :
 5.1
 
 
-Das Hochwasserereignis vom August 2010 ist als außergewöhnliches Hochwasserereignis gemäß Nummer 2.5 zu bewerten, Vorhaben der Hochwasserschadensbeseitigung in der Gebietskulisse sind zuwendungsfähig. Eines Erlasses im Sinne der Nummer 4.11 bedarf es insoweit nicht.
+Die Hochwasserereignisse vom August und September 2010 sind als außergewöhnliches Hochwasserereignis gemäß Nummer 2.5 zu bewerten. Eines Erlasses im Sinne der Nummer 4.11 bedarf es insoweit nicht.
 
 
 5.2
@@ -302,7 +289,7 @@ Für eine Maßnahme nach Nummer 6.1 wird ein Festbetragszuschuss in Höhe von 1 
 6.3
 
 
-Das Weitere regelt das Merkblatt „Heizkesseltausch – Augusthochwasser 2010“.
+Das Weitere regelt das Merkblatt „Heizkesseltausch – Hochwasser 2010“.
 
 
 IV. 
@@ -310,7 +297,7 @@ IV.
 
 Inkrafttreten und Außerkrafttreten
 
-Die Verwaltungsvorschrift tritt am Tag der Unterzeichnung in Kraft und am 30. Juni 2011 außer Kraft.
+Die Verwaltungsvorschrift tritt am Tag der Unterzeichnung in Kraft und am 30. September 2011 außer Kraft.
 
 
 Dresden, den 20. August 2010
