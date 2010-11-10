@@ -1,0 +1,54 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-11-10T17:38:00+01:00
+- Ende: 2010-11-10T18:51:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7275
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7275
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00300220.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2.1: Verteilung des Konsolidierungsvolumens
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.2: Anregung gem. § 24 GO NRW, Nr. 74/2010 - Erlass einer Baumschutzsatzung für die Stadt Münster - einstimmig geändert beschlossen
+- TOP 4.3: Anregung §24 GO NRW Aufgabe des Spielplatzes "Pater-Kolbe-Straße" in Amelsbüren - von der Tagesordnung abgesetzt
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 5.1: Anfrage zum aktuellen Stand des Münster-Passes:
+- TOP 5.2: Heilpädagogische Horte
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 7.1: Monitoring des Migrationsleitbildes - verwiesen
+- TOP 8: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Fünfter Zwischenbericht) - einstimmig beschlossen
+- TOP 9: Bericht über die Beteiligungen der Stadt Münster im Jahr 2009 (Beteiligungsbericht 2009) - zur Kenntnis genommen
+- TOP 10: Managementkontrakte und Managementverträge
+- TOP 10.1: Managementkontrakt mit der Westfälische Bauindustrie GmbH Münster (WBI) - von der Tagesordnung abgesetzt
+- TOP 10.2: Messe und Congress Centrum Halle Münsterland GmbH: Abschluss eines Managementkontraktes (MMK) für die Jahre 2011 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 10.3: Managementkontrakt mit der Westfälischer Zoologischer Garten Münster GmbH - von der Tagesordnung abgesetzt
+- TOP 11: Einführung eines Schülertickets in Münster - Antrag der SPD-Fraktion an den Rat Nr. A-R/0033/2010 "Münsters Schülerinnen und Schüler mobiler machen - Ein Schul- und Freizeitticket für Münster" - einstimmig geändert beschlossen
+- TOP 12: Gewährung einer zinslosen rückzahlbaren Überbrückungsfinanzierung an die GGUA zur Zwischenfinanzierung des Projekts MAMBA - einstimmig beschlossen
+- TOP 13: Überplanmäßige Mittelbereitstellung
+- TOP 13.1: Überplanmäßige Mittelbereitstellung in den Teilergebnisplänen des Sozialamtes im Haushaltsjahr 2010 - einstimmig beschlossen
+- TOP 13.2: Überplanmäßige Mittelbereitstellung im Produktbereich 06 "Kinder-, Jugend- und Familienhilfe" - einstimmig beschlossen
+- TOP 14: Bauleitplanung
+- TOP 14.1: Stadtbezirk Münster-Mitte
+- TOP 14.1.1: Bebauungsplan Nr. 537 - Aufstellungsbeschluss - Veränderungssperre Nr. 101 - einstimmig beschlossen
+- TOP 14.2: Stadtbezirk Münster-West
+- TOP 14.2.1: 1. Änderung des Bebauungsplanes Nr. 318: Mecklenbeck - Fritz-Stricker-Straße / GAD-Straße - einstimmig beschlossen
+- TOP 14.2.2: Bebauungsplan Nr. 323, 2. Änderung - Änderungsbeschluss - einstimmig beschlossen
+- TOP 15: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 16: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 16.1: Münster als erste Wahl - Erstwohnsitz bringt Heimvorteil - verwiesen
+- TOP 16.2: Resolution zur Neuordnung des Kreislaufwirtschafts- und Abfallrechts - einstimmig beschlossen
+- TOP 17: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 17.1: Steueroptimierung und Bilanzpolitik zur Haushalts-Konsolidierung nutzen! - verwiesen
+- TOP 18: Verschiedenes
