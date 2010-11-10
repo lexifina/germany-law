@@ -1,0 +1,99 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-11-10T17:09:00+01:00
+- Ende: 2010-11-10T22:45:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1337
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1337
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan XIV-256-2 vom 1.6.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Bebauungsplan 8-28 vom 26.07.2010 - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Zweiter Ausgang an den U-Bahnhöfen Lipschitzallee, Wutzkyallee und Zwickauer Damm - beantwortet
+- TOP 8.2: Verbesserung der notärztlichen Versorgung von Kindern in Neukölln - beantwortet
+- TOP 8.3: Keine Parkmöglichkeiten für Friedhofsbesucher - beantwortet
+- TOP 8.4: Mogelpackung bei der Bundesregierung - beantwortet
+- TOP 8.5: Wohngeldanträge - beantwortet
+- TOP 8.6: Sparmaßnahmen - Aus für "Fair-Play-Neukölln" - beantwortet
+- TOP 8.7: Hochbegabte Schüler in Neukölln halten - beantwortet
+- TOP 8.8: Unterrichtsausfall an Neuköllner Schulen in dem Bereich Sport - schriftlich beantwortet
+- TOP 8.9: Situation an der Rose-Oehmichen-Grundschule - schriftlich beantwortet
+- TOP 8.10: Wahlen nach dem Schulgesetz für Berlin in der Fassung vom 28. Juni 2010 - schriftlich beantwortet
+- TOP 8.11: Neuköllner Schulen im Vergleich - schriftlich beantwortet
+- TOP 8.12: Ist Schulsport nach 16 Uhr der Tod der Sportvereine? - schriftlich beantwortet
+- TOP 8.13: Flohmarkt - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Mehrwertsteuersatz für Schulessen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: QM-Wahlordnungen transparent machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Ausstattung mit Hausmeister(inne)n und Schulsekretär(inn)en - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bildungslotsen für Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Aufstellen von Toiletten und Mülltrennung bei bezirkseigenen sowie Festen auf öffentlichen Plätzen des Bezirks - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.5: Schulprojekt Modellbahn - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Obdachlosigkeit in Neukölln - beantwortet
+- TOP 11.2: Konsequenzen aus Einschulungsuntersuchungen - beantwortet
+- TOP 11.3: Rechtspopulisten im Neuköllner Rathaus - beantwortet
+- TOP 11.4: Wie weiter mit der High-Deck-Siedlung? - beantwortet
+- TOP 11.5: Geld für die Jugend statt für Parkplätze! - vertagt
+- TOP 11.6: Deutschenfeindlichkeit: Rassismus an Neuköllner Schulen - schriftlich beantwortet
+- TOP 11.7: Haushaltsplan 2011 - vertagt
+- TOP 11.8: Zukunft der QM's in Neukölln - vertagt
+- TOP 11.9: Hortplätze - beantwortet
+- TOP 11.10: Anstieg der Wohnungslosenzahlen - beantwortet
+- TOP 11.11: Chaos an der Röntgen-Schule - vertagt
+- TOP 12: Große Anfragen - schriftlich - erledigt
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Busverkehr der Linie 171 - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Ergebnispräsentation bei Bauplanungen mit Bürgerbeteiligung vorsehen - überwiesen
+- TOP 13.3: Fahrradstreifen auf der Sonnenallee - überwiesen
+- TOP 13.4: Verbesserung der notärztlichen Versorgung von Kindern in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: U-Bahnausgang Wutzkyallee - überwiesen
+- TOP 13.6: Einsatz von Laubbläsern reduzieren - überwiesen
+- TOP 13.7: Keine Kürzungen im Jugendhaushalt - vertagt
+- TOP 13.8: Haltverbot Alt-Buckow - überwiesen
+- TOP 13.9: Lärmschutzzone für Alt-Buckow - überwiesen
+- TOP 13.10: Ergänzungsplan zum Bezirkshaushalt 2011 - vertagt
+- TOP 13.11: Standort für Neubau der Clayschule - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Hortplätze - überwiesen
+- TOP 13.13: Entwicklung von Arbeitsgelegenheiten in 2011 - vertagt
+- TOP 13.14: Integrationssteuer - vertagt
+- TOP 13.15: Mehr Bürgerbeteiligung und Transparenz (1) Bürger sollen ihre Anliegen in die Ausschüsse tragen können - überwiesen
+- TOP 13.16: Beratungshilfegewährung - überwiesen
+- TOP 13.17: Mehr Bürgerbeteiligung und Transparenz (2) Begründung bei Einwohnerfragestunde zulassen - überwiesen
+- TOP 13.18: Mehr Bürgerbeteiligung und Transparenz (3) Hauptausschuss soll öffentlich tagen - vertagt
+- TOP 13.19: Zusammenlegung von Schülern deutscher Herkunft auf wenige gemeinsame Schulen - vertagt
+- TOP 13.20: Die vergessene Geschichte des Flughafens Tempelhof - überwiesen
+- TOP 13.21: Mehr Bürgerbeteiligung und Transparenz (4) Tischvorlagen des Bezirksamtes nur in begründeten Fällen - vertagt
+- TOP 13.22: Mehr Bürgerbeteiligung und Transparenz (5) Bürgerinnen und Bürger an Haushaltsfortschreibung beteiligen - vertagt
+- TOP 13.23: Schulwegsicherung Karl-Weise-Schule - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Gütesiegel für Neuköllner Kitas - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: QMs demokratisieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Parlez-vous francais? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Postalische Versorgung sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Umbau des Richardplatzes, 12055 Berlin-Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Bebauungsplan XIV-36-2 vom 02.03.1999 mit Deckblatt vom 12.04.2001 - Quarzweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Jahn-Denkmal in der Hasenheide - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: "Mit dem Rad zum Bezirksamt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Bebauungsplan Schulneubau Clay-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Karl-Marx-Straße 92-98 taufen und vermarkten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Seniorenspielplatz auf dem Gelände Flugplatz Tempelhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Milieuschutz Schillerkiez? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.10: Seniorenbegegnungen mit der Partnerstadt Wetzlar - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.11: Teil-Umbenennung der Falkstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.12: Müllbehälter an den Gropiuspassagen - mit Abschlussbericht zur Kenntnis genommen
