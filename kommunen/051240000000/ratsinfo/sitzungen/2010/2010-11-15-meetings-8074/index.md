@@ -1,0 +1,65 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-11-15T16:04:00+01:00
+- Ende: 2010-11-15T18:22:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8074
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8074
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 12.11.2010 - 09.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00123458.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00123751.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Obdachlosensituation im Wuppertaler Stadtgebiet - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Beantwortung der Anfrage des Stadtverordneten Schnorr - abschließend zur Kenntnis genommen
+- TOP 2.2: Schulmilchsituation in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort zur Anfrage des Stv. Michael Schnorr vom 24.09.2010 "Schulmilchsituation in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3: Islamkunde an städtischen Schulen? - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort zur Anfrage des Stv. Michael Schnorr vom 23.09.2010 "Islamkunde an städtischen Schulen?" - abschließend zur Kenntnis genommen
+- TOP 2.4: Metropolregion Rheinland - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Metropolregion Rheinland - abschließend zur Kenntnis genommen
+- TOP 2.5: Ausbau der L 419 - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Ausbau der L 419 - abschließend zur Kenntnis genommen
+- TOP 2.6: Massentieranlage am Fettenberger Weg - abschließend zur Kenntnis genommen
+- TOP 2.7: Minderjährige unbegleitete Flüchtlinge - abschließend zur Kenntnis genommen
+- TOP 2.7.1: Beantwortung der Anfrage der Fraktion BÜNDNIS 90/ DIE GRÜNEN zu minderjährigen unbegleiteten Flüchtlingen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: 6. Gesamtschule einrichten! - abgelehnt
+- TOP 4.2: Jobcenter Wuppertal
+- TOP 4.3: Dringlichkeits-Antrag zum Personalentwicklungskonzept - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Einrichtung einer Planungs- und Baubegleitkommission Döppersberg und Änderung der Zuständigkeitsordnung - geändert beschlossen
+- TOP 6.1.1: Änderung der Zuständigkeitsordnung - ungeändert beschlossen
+- TOP 6.2: 7. Änderung der Geschäftsordnung des Rates - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2010 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Änderung der Beteiligungsstruktur der Regiobahn Fahrbetriebsgesellschaft mbH - ungeändert beschlossen
+- TOP 8.2: Resolution zur Neuordnung des Kreislaufwirtschafts- und Abfallrechts - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 9.2: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 9.3: Abgesetzt. Vorberatung nicht abgeschlossen.
+- TOP 9.4: Bebauungsplan Nr. 1148 - Uellendahler Str. / südöstl. Kohlstraße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 782 - Gustav-Heinemann-Str./ Westfalenweg - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 967 - westlich Uni-Halle - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan Nr. 609 - Am Krüppershaus - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Zinserhöhung kommunaler Wohnungsbaudarlehen - ungeändert beschlossen
+- TOP 11.2: Öffentliche-rechtliche Vereinbarung über die Erschließung des Bebauungsplangebietes Nr. 1018 - ungeändert beschlossen
+- TOP 11.3: Verkaufsoffene Sonntage 2011 - geändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Berufung des Gestaltungsbeirates - ungeändert beschlossen
+- TOP 12.2: Umbesetzungen in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.3: Antrag Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.4: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.5: Gremienbesetzung - ungeändert beschlossen
