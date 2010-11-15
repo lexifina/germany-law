@@ -1,0 +1,6 @@
+# TOP 5.: Anfragen und Mitteilungen
+
+- Sitzung: Behindertenbeirat (3. Sitzung) (2010-11-15)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/24305
