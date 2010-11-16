@@ -1,0 +1,7 @@
+# TOP 5.2: Umgestaltung Leopoldplatz BE: Bezirksamt, Büro Jahn, Mack und Partner Architektur und Stadtplanung
+
+- Sitzung: 40. öffentliche Sitzung des Ausschusses für Umwelt, Natur, Verkehr und Lokale Agenda (2010-11-16)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=49102
+- Ergebnis: erledigt
