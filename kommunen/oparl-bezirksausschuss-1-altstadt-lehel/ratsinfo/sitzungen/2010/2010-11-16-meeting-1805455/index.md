@@ -1,0 +1,110 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-11-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1805455
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1805455
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Entwicklung der Schrannenhalle
+- TOP .2.: Zusammenarbeit mit dem Veranstaltungs- und Versammlungsbüro
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Sattlerstraße 1
+- TOP .2.: Herzog-Wilhelm-Straße 29
+- TOP .3.: Brienner Straße 53 (abgesetzt, da BA 3)
+- TOP .4.: Hackenstraße 7
+- TOP .5.: Sonnenstraße 19, abgesetzt
+- TOP .6.: Färbergraben 14
+- TOP .7.: Frauenstraße 4
+- TOP .8.: Liebigstraße 26
+- TOP .9.: Müllerstraße 56
+- TOP .10.: Neuhauser Straße 3
+- TOP .1.: Gaststätte ?Salotto? Diskussion im UA am 11.11.2010
+- TOP .1.: Bürger: Baustrommasten Herrnstraße 44
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Verkaufseinrichtung Rindermarkt 10
+- TOP .2.: Verkaufseinrichtung Brienner Straße 13
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Weihnachtsdorf im Innenhof der Residenz
+- TOP .2.: Klassik am Odeonsplatz 2011
+- TOP .3.: DGB-Kultur-Familienfest und Open-Air-Konzert am 01.05.2011
+- TOP .4.: Weihnachtsmarkt im Englischen Garten am Chinesischen Turm
+- TOP .5.: NACHTRAG: Nutzung der Grünanlage Bunkerplatz neben der Schrannenhalle an der Blumenstraße für den Aufbau einer Studentenmesse
+- TOP .6.: NACHTRAG: Chanukka-Feier am 05.12.2010 und Aufstellen des Chanukka-Leuchters vom 29.11. - 13.12.2010 auf dem St.-Jakobs-Platz
+- TOP .7.: NACHTRAG: Nutzung der Grünanlage Marienhof durch das Tourismusamt am 28.11. und 12.12.2010
+- TOP .1.: NACHTRAG: Kulturstrand für München; Vorschläge der CSU-Stadtratsfraktion für Standorte 2011 ? 2013
+- TOP .1.: Bürger: Straßenschwelle auf dem Weg vom St.-Anna-Platz zur Pfarrei
+- TOP .2.: BA: Erneute Abstimmung über den Antrag: Temporäre Umwandlung von KFZ-Stellplätzen in Fahrradabstellplätze
+- TOP .3.: FDP-Vorschlag: Bürgerbegehren/-entscheid zur Stammstrecke
+- TOP .1.: Parkscheinautomat in der Maximilianstraße zwischen Stern- und Widenmayerstraße
+- TOP .2.: Verkehrsregelung Falckenbergstraße ? Diskussion im UA am 09.11.2010
+- TOP .1.: Verkehrsrechtliche Anordnung Hackenstraße 12
+- TOP .2.: Baumfällung: An der Hauptfeuerwache 15, 1 Platane
+- TOP .3.: Verkehrsrechtliche Anordnung Hochbrückenstraße 4
+- TOP .4.: Verkehrsrechtliche Anordnung Oettingenstraße 42
+- TOP .1.: Jahrestreffen des BA 1 mit dem Planungsreferat am 25.11.2010, 17.00 Uhr im Planungsreferat, Blumenstraße 28b, Raum 709
+- TOP .2.: Abschlussveranstaltung Leitlinie Ökologie ? Klimawandel und Klimaschutz der PERSPEKTIVE München am 23.11.2010, 19.00 ? 21.00 Uhr, im Großen Ratssaal
+- TOP .3.: Besichtigung des Luftschutzbunkers in der Müllerstraße
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Freistellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Beschluss des Sozialausschusses vom 14.10.2010: Bauträgerauswahl für Baugrundstücke des Kommunalen Wohnungsbaus, Neubau Kinderkrippe
+- TOP 0.5.: Beschluss des Planungsausschuss vom 19.10.2010: Isar-Plan (...)
+- TOP 0.6.: Informationen zum Genehmigungsstand Damenstiftstraße 11 (im UA Fach)
+- TOP 0.7.: Zwischennachricht des Kommunalreferats zum städtischen Grundstück an der Corneliusstraße
+- TOP 0.8.: Nachtbauarbeiten Herzogspitalstraße / Herzog-Wilhelm-Straße / Damenstiftstraße
+- TOP 0.9.: Beschluss des Bauausschusses vom 28.10.2010: Platz der Opfer des Nationalsozialismus, Neugestaltung zur würdigen Gedenkstätte
+- TOP 0.10.: Beschluss des Planungsausschuss vom 10.11.2010: Stadtsanierung in München ? Sicherung der Städtebauförderung
+- TOP 0.11.: Beschluss des Planungsausschuss vom 10.11.2010: Bevölkerungsprognose 2009 ? 2030 der Landeshauptstadt München
+- TOP 0.12.: Beschluss des Planungsausschuss vom 10.11.2010: Bericht zur Wohnsituation in München 2008 - 2009
+- TOP 0.13.: Beschluss des Planungsausschuss vom 10.11.2010: Stadtsanierung in München
+- TOP 0.14.: Nachtbauarbeiten Frauenstraße zwischen Zwingerstraße und Westeriederstraße
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Fortführung der Gaststätte ?Golden Bar?, Prinzregentenstr. 1
+- TOP 0.5.: Unveränderte Fortführung der Gaststätte ?Osteria il Tenore?, Falkenturmstr. 10
+- TOP 0.6.: Stellungnahme Isarinselfest
+- TOP 0.7.: Beschluss der Vollversammlung vom 06.10.2010: Erhöhung der Anzahl der Mülleimer im Innenstadtbereich
+- TOP 0.8.: Baustelle Steinsdorfstraße ? Antwort der PI auf eine Bürgerbeschwerde
+- TOP 0.9.: Eilentscheidung Infoveranstaltung des Ausländerbeirats am 19.11.2010, Neuhauser Str
+- TOP 0.10.: Eilentscheidung Kunstprojekt Karlstor
+- TOP 0.11.: Unveränderte Fortführung der Gaststätte ?Squisito?, Stollbergstr. 6
+- TOP 0.1.: Stellungnahme Isarinselfest nach Rücksprache mit den Fraktionssprechern
+- TOP 0.2.: Planfeststellungsverfahren 2.-S-Bahn-Stammstrecke ? Anhörung westliches Isarufer bis östlich S-Bahnhof Leuchtenbergring
+- TOP 0.3.: Bauarbeiten Frauenstraße
+- TOP 0.4.: Bauarbeiten Westenriederstraße
+- TOP 0.5.: Baumaßnahmen Maximilianstraße - Querungshilfe
+- TOP 0.6.: Beschluss des Bauausschusses vom 28.09.2010: Brücke Maximilianstraße über den Fabrikbach
+- TOP 0.7.: Beschluss des Bauausschusses vom 18.09.2010: Sendlinger Straße zwischen Färber-graben und Hackenstraße ? Umgestaltung in eine Fußgängerzone
+- TOP 0.8.: Beschluss des Bauausschusses vom 28.09.2010: Fußgängerzone: Optimierung der Barrierefreiheit, Erweiterung in der Salvatorstraße
+- TOP 0.9.: Beschluss des Bauausschusses vom 28.10.2010: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen
+- TOP 0.1.: Übersicht Budgetmittel
+- TOP 0.2.: Öffnungszeiten Freibäder
+- TOP 0.3.: Fussballstunde am Hirschanger, Bewilligung 200 Euro
+- TOP 0.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010: Haushaltskonsolidierung
+- TOP 0.5.: Beschluss des Gesundheitsausschusses: Aktualisierung der Münchner Sucht- und Drogenpolitik
+- TOP 0.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010: Haushaltsplan 2011: München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP 0.7.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010: Haushaltsplan 2011: Förderung freier Träger des Stadtjugendamts
+- TOP 0.8.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010: Haushaltsplan 2011: Förderung freier Träger des Amts für Soziale Sicherung
+- TOP 0.9.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010: Haushaltsplan 2011: Förderung freier Träger des Amtes für Wohnen und Migration
+- TOP 0.10.: Kurzbericht digitalanalog
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
