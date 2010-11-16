@@ -1,0 +1,7 @@
+# TOP 14.1: Festlegung des Verkaufspreises für das Baugebiet "Varl - Erweiterung Buschhügel"
+
+- Sitzung: Rat (10. Sitzung) (2010-11-16)
+- Körperschaft: Stadt Rahden
+- Öffentlich: ja
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/13908
+- Ergebnis: Einstimmig, 0 Enthaltungen
