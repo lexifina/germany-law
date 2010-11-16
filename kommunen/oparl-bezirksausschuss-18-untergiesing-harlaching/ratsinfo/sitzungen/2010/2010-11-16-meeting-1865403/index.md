@@ -1,0 +1,105 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-11-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1865403
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1865403
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Protokoll der September-Sitzung
+- TOP 1.2.: Protokoll der Oktober-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Geiselgasteigstraße - Geschwindigkeitsübertretungen und Parken auf dem Grünstreifen; Bürgerschreiben vom 24.10.2010 und 01.11.10
+- TOP 2.2.: Zebrastreifen für die Hebenstreitstraße / Ecke Giesinger Berg; Tempo 30 für die gesamte Länge der Pilgersheimer Straße; Bürgerantrag
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Kurzparkzone in der Theodolindenstraße; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 15.10.10 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Oefelestraße 16; Zuleitung des KVR vom 14.10.10 mit der Bitte um Stellungnahme bis 30.11.10
+- TOP 3.3.: Freigabe der Aretinstraße für den gegenläufigen Radverkehr; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 21.10.10 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.4.: Handlungsprogramm Mittlerer Ring; Weiterer Planungsbedarf - Fortschreibung des Handlungsprogramms; Sitzungsvorlagen Nr. 08-14 / V 02675; Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung; Zuleitung des Referates für Stadtplanung und Bauordnung vom 28.10.10 mit der Bitte um Stellungnahme bis 14.12.10
+- TOP 3.1.: Stadtratsbeschluss "Barrierefreier Ausbau von Fußgängerunterführungen und -brücken sowie gestalterische Aufwertung von Unterführungsbauwerken"; Schreiben des BA 18 vom 27.07.10; Antwortschreiben des Baureferates vom 13.10.10 (neutrale Erledigung)
+- TOP 3.1.: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für das Vorhaben 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 3neu München-Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief) - Anhörungsverfahren - a) Neuplanung des Ostabschnittes - PFA 3neu b) Ergebnisse der Überprüfung der Planunterlagen und der Bezirksausschussanhörung, Stellungnahme der LHM c) weiteres Vorgehen beim Anhörungsverfahren d) Anträge und Empfehlungen; Hinweis/Ergänzung zum Beschluss der Vollversammlung des Stadtrates vom 06.10.10
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Aufhebung der Radwegbenutzungspflicht in der Säbener Straße zwischen Aggenstein- und Naupliastraße sowie zwischen Ehlers- und Naupliastraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR vom 20.10.10
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Einzäunung am Spazierweg der Hochleite; Bürgeranliegen vom 18.05.10; Anfrage des BA 18 vom 31.05.10; Zwischennachricht des Baureferats vom 26.10.10
+- TOP 3.1.: Isar-Plan; Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; Bauabschnitt 7: "Realisierung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke"; Bauabschnitt 7 Nord, "Übergang zum Deutschen Museum" von ca. 300 m südlich der Reichenbachbrücke bis in die Kleine Isar; Sitzungsvorlage Nr. 08-14 / V 05284; Beschluss des Bauausschusses vom 19.10.10
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Projekt: Umgestaltung Jakob-Gelb-Platz; Protokoll vom Ortstermin am 13.10.2010; Zuleitung des Baureferats vom 18.10.10
+- TOP 3.2.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2009/2010 - Feinkonzept 2011 - Optimierung von Prozessen und Strukturen - Gender Mainstreaming bei der Haushaltskonsolidierung Sitzungsvorlage Nr. 08-14 / V 05165 Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.2010 (VB)
+- TOP 3.3.: Aktualisierung der Münchner Sucht- und Drogenpolitik; Sitzungsvorlage Nr. 08-14 / V 05347; Beschluss des Gesundheitsausschusses vom 18.11.10 (VB)
+- TOP 3.4.: Bevölkerungsprognose 2009-2030 der Landeshauptstadt München; Sitzungsvorlagen Nr. 08-14 / V 05291; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Bauvorhaben Birkenleiten 12 und 14; Bericht über den Ortstermin
+- TOP 3.2.: Ensembleschutz im Schwimmbadviertel / der Birkenau; Bericht über den Ortstermin (siehe TOP 3.5.3.1 vom 19.10.10)
+- TOP 3.1.: Anfrage an die LHM bezüglich der Planungen für das Gelände der ehemaligen McGraw-Kaserne bzw. den Gebäuden der ehemaligen University of Maryland; Antrag der FDP-Fraktion vom 01.11.10
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Rabenkopfstraße; Neubau zweier Mehrfamilienhäuser - VORBESCHEID; Anhörung vom 27.10.10
+- TOP 3.2.: Anwesen Agilolfingerplatz; Nutzungsänderung von Wohnungen in Büros; Anhörung vom 27.10.10
+- TOP 3.3.: Anwesen Athosstraße; Neubau eines Mehrfamilienhauses; Anhörung vom 27.10.10 (vgl. auch TOP 2.1.2.4 der September-Sitzung)
+- TOP 3.4.: Anwesen Lindenstraße; Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 28.10.10
+- TOP 3.5.: Anwesen St.-Magnus-Straße; Neubau von zwei Wohn- und Geschäftshäusern mit TG - VORBESCHEID; Anhörung vom 28.10.10
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Widmung des Weges entlang des Perlacher Forstes in Perlacher-Forst-Weg oder Waldrandweg; Anfrage des BA 18 vom 23.06.09; Antwortschreiben des Baureferats vom 12.10.10 (negative Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Stadtsanierung in München; Sicherung der Städtebauförderung; Antrag Nr. 08-14 / A 01751 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 02.08.10; Sitzungsvorlagen Nr. 08-14 / V 05361; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010 (SB)
+- TOP 3.3.: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen; Antrag Nr. 08-14 / A 01264 der ÖDP vom 17.12.09; Sitzungsvorlagen Nr. 08-14 / V 05325; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010 (SB)
+- TOP 3.4.: Bericht zur Wohnungssituation in München 2008 - 2009; Sitzungsvorlagen Nr. 08-14 / V 05281; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10
+- TOP 3.5.: Hans-Mielich-Platz; Neugestaltung des Platzbereiches und der Anschlussbereiche zu den umliegenden Straßen Gerhard-, Hans-Mielich-, Kühbach- und Teutoburger Straße im 18. Stadtbezirk Untergiesing-Harlaching; Verbesserung; Projektkosten (Kostenobergrenze); 1. Projektgenehmigung; 2. Genehmigung zur vorgezogenen Baumfällung; Sitzungsvorlage Nr. 08-14 / V 05085; Beschluss des Bauausschusses vom 28.09.10 (SB)
+- TOP 3.1.: Neubau einer Kinderkrippe in der Bozzarisstraße 2; offener Brief der künftigen Betreiber zur Sitzung vom 19.10.10
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Licht ins Dunkel - Nutzungsmöglichkeiten des U-Bahn-Zwischengeschosses am Wettersteinplatz für Projekte von Zehra Spindler; Antrag der SPD-Fraktion vom 14.10.10 (vertagt aus der Sitzung vom 19.10.10) - <div>Verweisung an Fachausschuss</div>
+- TOP 3.2.: Bewerbung des BA 18 um die Stadtteilkulturtage; Antrag der SPD-Fraktion vom 19.10.10 (vertagt aus der Sitzung vom 19.10.10)
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Verlängerung der Öffnungszeiten der städtischen Freibäder; Antrag-Nr. 08-14 / B 02299 des BA 2 vom 27.07.10; Antwortschreiben des Referates für Arbeit und Wirtschaft vom 05.10.10 (negative Erledigung)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.1.: Öffentlichkeitsphase: Leitlinie Ökologie - Klimawandel und Klimaschutz der PERSPEKTIVE München; Einladung zur Abschlussveranstaltung am 23. November 2010; Schreiben des Referates für Stadtplanung u. Bauordnung sowie des Referates für Gesundheit und Umwelt mit der Bitte um Anmeldung bis 16.11.10
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
