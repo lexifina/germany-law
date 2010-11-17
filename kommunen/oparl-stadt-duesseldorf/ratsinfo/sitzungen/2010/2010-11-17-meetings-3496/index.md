@@ -1,0 +1,62 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-11-17T15:00:00+01:00
+- Ende: 2010-11-17T18:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3496
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3496
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149290.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149290.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149290.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzungen am 01.09.2010 und 29.09.2010 - einstimmig beschlossen
+- TOP 4: Anfragen
+- TOP 4.1: Auswirkungen der Verlagerung von Rheinbahnfahrzeugen vom Depot Am Steinberg zum Standort Lierenfeld - zur Kenntnis genommen
+- TOP 4.2: Sicherer Radverkehr auf der Erkrather Straße - zur Kenntnis genommen
+- TOP 5: Anträge
+- TOP 5.1: Antrag SPD: Bildung im Vorübergehen - einstimmig beschlossen
+- TOP 5.1.1: ÄA Linke: Bildung im Vorübergehen - zur Kenntnis genommen
+- TOP 5.2: Carsharing-Angebot für die Bürger Düsseldorfs - einstimmig beschlossen
+- TOP 5.3: Freigabe der ehemaligen Radwege auf der Oberkasseler Brücke - mehrheitlich abgelehnt
+- TOP 5.4: Barrierefreier Stadtteil Flingern - mehrheitlich abgelehnt
+- TOP 6: Masterplan Energieeffiziente Straßenbeleuchtung - einstimmig beschlossen
+- TOP 7: Bessere ÖPNV-Anbindung der Fachhochschule - zur Kenntnis genommen
+- TOP 8: Entlastungsstraße Derendorf - Norderweiterung - - mehrheitlich beschlossen
+- TOP 9: Fahrbahninstandsetzungen und Radwegebau für das Jahr 2011 - zur Kenntnis genommen
+- TOP 10: Schulwegsicherung Vennhauser Allee - zur Kenntnis genommen
+- TOP 11: Bergische Landstraße - zur Kenntnis genommen
+- TOP 12: Erfahrungsbericht über die neue Düsseldorfer Taxentarifordnung - zur Kenntnis genommen
+- TOP 13: Glasverbot anlässlich des Straßenkarnevals 2011 - mehrheitlich beschlossen
+- TOP 14: Gebührentarif für Terrassen gerechter gestalten - vertagt
+- TOP 15: Beschlusskontrolle OVA - 3. Quartal 2010 - zur Kenntnis genommen
+- TOP 16: Sitzungstermine OVA 2011 - zur Kenntnis genommen
+- TOP 17: Haushaltsplanentwurf Amt 66 und Amt 32 - mehrheitlich beschlossen
+- TOP 17.1: Teilergebnispläne des Amtes für Verkehrsmanagement - mehrheitlich beschlossen
+- TOP 17.2: Investive Finanzpläne des Amtes für Verkehrsmanagement - mehrheitlich beschlossen
+- TOP 17.3: Teilergebnispläne des Ordnungsamtes - mehrheitlich beschlossen
+- TOP 17.4: Investive Finanzpläne des Ordnungsamtes - mehrheitlich beschlossen
+- TOP 17.5: Veränderungsverzeichnisse zum Haushaltsplanentwurf 2011 - mehrheitlich beschlossen
+- TOP 17.6: Vorschläge und Anregungen der Bezirksvertretungen - mehrheitlich beschlossen
+- TOP 17.6.1: Fahrradfreundliches Düsseldorf – Verzicht auf Kürzungen - mehrheitlich abgelehnt
+- TOP 17.7: Haushaltsanträge
+- TOP 17.7.1: Haushaltsplanentwurf 2010 - Verkehrsüberwachung - mehrheitlich abgelehnt
+- TOP 17.7.2: Haushaltsplanentwurf 2011 - Gewerbeangelegenheiten - mehrheitlich abgelehnt
+- TOP 17.7.3: Haushaltsplanentwurf 2011 - Prävention und Serviceorientierung - mehrheitlich abgelehnt
+- TOP 17.7.4: Haushaltsplanentwurf 2011 - Hafenerschließung/Straßenbahn - verwiesen
+- TOP 17.7.5: Behindertengerechter Umbau von Bushaltestellen - mehrheitlich abgelehnt
+- TOP 17.7.6: Bezirksradwegenetze - mehrheitlich abgelehnt
+- TOP 17.7.7: Kein Neubau und Ausbau von vierspurigen Hauptverkehrsstraßen - mehrheitlich abgelehnt
+- TOP 17.7.8: Aktiver Lärmschutz am Heerdter Dreieck - mehrheitlich abgelehnt
+- TOP 17.7.9: Auflösung des Ordnungs- und Servicedienstes - mehrheitlich abgelehnt
+- TOP 17.7.10: Fahrradfreundliches Düsseldorf – Planung Stadtradwegenetz - mehrheitlich abgelehnt
+- TOP 17.7.11: Kleinere Straßenbaumaßnahmen – Mittelerhöhung für die Beschaffung von Smileys - mehrheitlich abgelehnt
+- TOP 17.7.12: Barrierefreie Stadt – Installation akustischer Signalgeber für Menschen mit Seh¬behinderungen an Lic - mehrheitlich abgelehnt
+- TOP 17.7.13: Förderung des öffentlichen Personennahverkehrs (ÖPNV) – Schaffung einer neuen Haushaltstelle - mehrheitlich abgelehnt
