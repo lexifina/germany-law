@@ -1,0 +1,92 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2010-11-17T17:00:00+01:00
+- Ende: 2010-11-17T20:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1701
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=1701
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: "Letzte Ruhe," von wegen! - beantwortet
+- TOP 3.2: "Kids in die Sportclubs" - beantwortet
+- TOP 3.3: Kleistgrab-Wanderweg - beantwortet
+- TOP 3.4: Barrieren Schloßstraße - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.1.1: Sondermittel der BVV für den Frauen-Ruder-Club Wannsee e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan X - B 16 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan X - B 1c - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.2: Bebauungsplan X-B 2e (östlich der Breisgauer Straße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.3: Bebauungsplan X - B 17 (östlich der Schorlemmer Allee) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.4: Bebauungsplan 6 - 13 [Karstadt / Wertheim, Schloßstraße] - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Barrierefreier Zugang zu den Regionalzügen am Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Fahrradabstellplätze für die neue Postfiliale - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Schulschwimmen durch Berliner Bäderbetriebe und Schwimmvereine ergänzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Lange Nacht der Bilder in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.5.3: Beleuchtung in Schulen - in der BVV abgelehnt
+- TOP 4.5.4: Denkmalschutz Chausseestraße (Westseite) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Absolutes Halteverbot an der Einmündung Loebellstraße / Berlepschstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Autoverladestelle Bahnhof Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Kreuzung Wolfensteindamm/Birkbuschstraße sicherer gestalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Tempo 30 in der Clauertstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Radwegeführung Kranoldplatz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Kinder schützen - Schulweg sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Verkehrsbehinderung Hohentwielsteig - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Tempo 30 vor der Kita der Stephanusgemeinde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Mittelstand stärken - Bürgern das Einkaufen erleichtern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Dialogdisplay im Oberhofer Weg ab der Kirche Richtung Mariendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Fußgänger- und Radfahrerüberquerung Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.6.1: Änderung der Bezirksgrenze a) für das Grundstück Hildburghauser Straße 70 b) im Bereich der Friedenauer Brücke und Körnerstraße c) Trachenbergring / Friedrichsrodaer Straße, Anpassung der Bezirksgrenze an den tatsächlichen Straßenverlauf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Anmeldungen für die Investitionsplanung 2011 bis 2015 - überwiesen
+- TOP 5.2: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 5.2.1: Fortschreibung der Bezirkshaushaltsplanung 2011 - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Vergabe von Hortplätzen - überwiesen
+- TOP 5.3.2: Vorstellung Bauvorhaben Sanierung des Rathauses Zehlendorf auf Nullheizenergie (SARAZENU) in der Öffentlichkeit - überwiesen
+- TOP 5.3.3: Einbahnstraßen Mozartstraße / Gärtnerstraße - überwiesen
+- TOP 5.3.4: Parkraum in der Ritterstraße legalisieren - überwiesen
+- TOP 5.3.5: Straßenbenennung nach Caecilie Seler-Sachs - überwiesen
+- TOP 5.3.6: Aufhebung des Parkverbots auf der Fahrbahn der Sondershauser Straße - überwiesen
+- TOP 5.3.7: Lärmschutzmaßnahmen AVUS - überwiesen
+- TOP 5.3.8: Beleuchtung Hermann-Ehlers-Platz - überwiesen
+- TOP 5.3.9: Informationsstele zum Wandervogel - überwiesen
+- TOP 5.3.10: Mit Regional- und S-Bahn am AVUS-Stau vorbeifahren - überwiesen
+- TOP 5.3.11: Lichtzeichenanlage Kreuzung Klingsorstraße / Albrechtstraße, Richtung Tiburtius-Brücke - überwiesen
+- TOP 5.3.12: Neue Wohnformen für ältere Menschen: Information und Vernetzung - überwiesen
+- TOP 5.3.13: Aufnahme von Peter Giese in die bezirkliche Straßenbenennungsliste - überwiesen
+- TOP 5.3.14: Schloßstraßenmanagement sichern! - überwiesen
+- TOP 5.3.15: Verkehrskonzept für Zehlendorf-Mitte - überwiesen
+- TOP 5.3.16: Förderung des genossenschaftlichen Wohnens - überwiesen
+- TOP 5.3.17: Mehr Medienkompetenz in den "Regionalen Fortbildungen" für Steglitz-Zehlendorf durch den Medienkongress 2011 in Berlin - überwiesen
+- TOP 5.3.18: Sicherheit für Fahrradfahrer an der Kreuzung Machnower Straße / Teltower Damm - überwiesen
+- TOP 5.3.19: Runder Tisch "Ruhender Radverkehr am S-Bahnhof Zehlendorf" - überwiesen
+- TOP 5.3.20: Sicherer zweiter S-Bahnausgang in Zehlendorf - überwiesen
+- TOP 5.3.21: Fahrradfahrer schützen - überwiesen
+- TOP 5.3.22: Fußgängerampel Berliner Straße / Teltower Damm - überwiesen
+- TOP 5.3.23: Straßenschild "Treitschkestraße" entfernen - überwiesen
+- TOP 5.3.24: Natürliche Aussaat von Gehölzen nutzen - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Ausgrenzung des Campus Benjamin-Franklin bei Exzellenzanträgen der Charité - beantwortet
+- TOP 7.2: Schildbürgerstreich am Wolfensteindamm - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Weiterführung des BBJ-Projektes "Mein Berlin" - in der BVV abgelehnt
+- TOP 8.2: Jürgen-Fuchs-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Verkehr am Breitenbachplatz in den Nachtstunden - in der BVV abgelehnt
+- TOP 8.4: Sonderprogramm für bezirkliche Verkehrsplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Bezirksverordnetenvorstehers - erledigt
