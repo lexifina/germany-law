@@ -1,0 +1,104 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-11-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schrifliche eingegangene Bürgeranliegen
+- TOP .1.: Verkehrsschild am Edlinger Platz
+- TOP .2.: Geruchsbelästigungen und Brand in der Grillparzerstr. 5
+- TOP .3.: Sanierung der Fahrbahn in der Nockherstraße (in Höhe der Anwesen 35/37)
+- TOP .4.: Ampelschaltung Grillparzerstraße - Einsteinstraße
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: München setzt auf's Rad 3, Fahrrad-Service-Stationen für München a) Fahrradstationen am Hauptbahnhof sofort realisieren ? Übergangslösung im Gebäude des Starnberger Bahnhofes, Antrag Nr. 02-08/ A 03921 der Stadtratsfraktion DIE GRÜNEN/RL vom 30.08.2007 b) München setzt auf's Rad 3, Fahrrad-Service-Stationen für München, Antrag Nr. 08-14/ A 01082 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.2009 c) (Mehr) Fahrradabstellmöglichkeiten an U-Bahnhöfen, Empfehlung Nr. 08-14/ E 00434 der Bürgerversammlung des 2. Stadtbezirks am 12.11.2009, Ziffer 3 Anhörung der betroffenen bzw. tangierten Bezirksausschüsse zum Entwurf einer Beschlussvorlage des Planungsreferates
+- TOP .2.: Antrag auf Betriebszeitverlängerung des Wirtschaftsgartens der SSW ?gast? Gasteig Kult & Speise GmbH, Rosenheimer Str. 5
+- TOP .8.1: Erledigte BA-Anträge und Anfragen
+- TOP .1.: Geförderter Wohnungsbau für Au-Haidhausen
+- TOP .2.: Fortsetzung der Übernahme der Kosten des Privatschulbesuches von Kindern mit Behinderung durch die Landeshauptstadt München
+- TOP .3.: Mehr Sicherheit für Fußgänger an der Unterquerung Maximiliansbrücke
+- TOP .4.: Neugestaltung der Freiflächen am Wolfgangsplatz
+- TOP .5.: Neugestaltung des Orleansplatzes und Urheberrecht
+- TOP .6.: Mittagseinsatz von SchulweghelferInnen an der Flurstraße (BA-Antrag Nr. 08-14/ B 02096), hier: Ergänzendes Schreiben des KVR vom 14.10.2010
+- TOP .7.: Errichtung eines Radwegs in der Orleansstraße (BA-Antrag Nr. 08-14/ B 01740), hier: Ergänzendes Schreiben des Referats für Stadtplanung und Bauordnung vom 11.10.2010
+- TOP .8.: Verbesserung der Versorgung psychisch kranker Menschen in der Sozialregion 3 Au-Haidhausen ? Bogenhausen (BA-Antrag Nr. 08-14/ B 02165), Mehr Personalstellen für die SPDI Giesing (BA-Antrag Nr. 08-14/ B 02411)
+- TOP .9.: Erhöhung der Planungsrichtwerte für Krippenplätze
+- TOP .10.: Zweite S-Bahn-Stammstrecke: Schulsportfreianlage Innere Wiener Straße
+- TOP .11.: Zusätzliche Transportkapazitäten des MVV während des Ökumenischen Kirchentages (BA-Antrag Nr. 08-14/ B 02163), hier: Stellungnahme des RAW vom 02.11.2010 zum Einsatz der S-Bahnen
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .1.: Laternenfest in der Eduard-Schmid-Str. / Frühlingsanlagen am 12.11.2010; hier: Eilentscheidung der Vorsitzenden vom 26.10.2010
+- TOP .2.: Bevölkerungsprognose 2009-2030 der Landeshauptstadt München, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom10.11.2010
+- TOP .3.: Haidhauser Weihnachtsmarkt auf dem Weißenburger Platz vom 25.11.2010 bis 24.12.2010, hier: Eilentscheidung der Vorsitzenden vom 08.10.2010
+- TOP .4.: 2. S-Bahn-Stammstrecke: nochmalige Bekanntmachung und Planauslegung mit neu einsetzender Frist für den Planfeststellungsabschnitt 3 neu München-Ost - Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief)
+- TOP .5.: 2. S-Bahn-Stammstrecke: Bausicherheit von Gebäuden; Herausgabe der Pläne der alten Bierkeller im Bereich Keller-, Holzhof-, Pütrich-, Innere Wiener-, Stern- und Milchstraße; Prüfung und Stopp der Baumaßnahme bei negativem Ergebnis
+- TOP .6.: 2. S-Bahn-Stammstrecke: Maßgaben zur Durchführung der Beweissicherungsverfahren an Gebäuden und Anlagen
+- TOP .7.: 2. S-Bahn-Stammstrecke: Klärung von Widersprüchen bei der Bauzeit; Gutachten zur Feinstaubbelastung durch die Bauarbeiten und zur Erschütterung der betroffenen unterfahrenen Gebäude; Einstellung der Planungen
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Kegelhof 3
+- TOP .1.: Kulturzentrum Einstein
+- TOP .1.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen ? Sachstandsbericht zum 30.07.2010, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010 (Unterrichtung)
+- TOP .2.: Einrichtung eines optimierten Regiebetriebs für die Kindertagesbetreuung beim Schul- und Kultusreferat, Detailorganisation (Unterrichtung)
+- TOP .3.: Antrag der CSU-Fraktion: Organisationsstruktur der neuen Leitungsebene der städtischen Kindertageseinrichtungen (vertagt aus 10/10, Antrag)
+- TOP .1.: Erfahrungsbericht zum Public Viewing anlässlich der Fußball-WM im Sommer 2010
+- TOP .1.: Rosenheimer Str. 105, Nutzungsänderung eines Ladens in eine Gaststätte, hier: Mitteilung der Lbk vom 20.09.2010
+- TOP .1.: Bauvorhaben Kirchenstr. 87-89: Umbau UG + EG; Balkonanbau EG-DG (Innenhof); Umbau, Ausbau und Sanierung DG, Wärmedämmfassade
+- TOP .2.: Bauvorhaben Kegelhof 3: Teilabbruch, Ausbau und Aufstockung sowie Umnutzung des Gebäudes - VORBESCHEID
+- TOP .3.: Bauvorhaben Elsässer Str. 32: DG-Sanierung mit Zusammenlegung von Wohnungen und Errichtung einer Dachterrasse - TEKTUR
+- TOP .4.: Bauvorhaben Johannisplatz 11: Erweiterung der Wohnungen im 3. OG mit DG zu Maisonette-Wohnungen, Nutzungsänderung Laden EG in ein Appartement
+- TOP .5.: Bauvorhaben Bereiteranger 4: Nutzungsänderung (Bäckerei und Dentallabor zu Wohnungen / VGB + RGB)
+- TOP .6.: Bauvorhaben Wörthstr. 36: Nutzungsänderung eines Ladens in eine Büroeinheit (EG) und einer Wohneinheit in eine Büroeinheit (DG), Zuschlag von Speicherräumen zu Wohneinheiten (DG)
+- TOP .1.: Bauvorhaben Sckellstr. 4: Neubau eines Hofgebäudes (4 WE) - VORBESCHEID, hier: nachgereichter Stellplatznachweis vom 29.09.2010, Vorbescheid vom 27.10.2010
+- TOP .2.: gestrichen
+- TOP .3.: Luxussanierungen in der Maxvorstadt, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP .4.: Stadtsanierung in München, Sicherung der Städtebauförderung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .1.: Ampelschaltung an der Kreuzung Flurstraße/ Kirchenstraße, Einrichten einer Bedarfsampel am Wochenende; hier: Schreiben des KVR vom 19.10.2010
+- TOP .2.: Radweg im Isarhochwasserbett
+- TOP .3.: Ortstermin Rosenheimer Platz
+- TOP .4.: Tankstelle Auerfeldstr. 2
+- TOP .5.: Masterplan Radstellplätze
+- TOP .1.: Isar-Plan, Bauabschnitt 7 Nord
+- TOP .2.: Verkehrsrechtliche Anordnung: Verlegung eines personenbezogenen Behindertenparkplatzes von der Einsteinstr. 119 Seite Lucile-Grahn-Str. in die Einsteinstr.125
+- TOP .3.: Verkehrsführung Einsteinstraße stadtauswärts in Höhe Lucile-Grahn-Str.; hier: E-Mail des Baureferates vom 18.10.2010
+- TOP .4.: Offenlegung der Grundstücksspekulationen im Bereich Express-S-Bahn Daglfing - Englschalking - Johanneskirchen, Ziffer 3 des Antrags
+- TOP .5.: Bahntrassen in München langfristig sichern, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mi, 01.12.2010, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Mo, 29.11.2010, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Di, 07.12.2010, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Do, 02.12.2010 ,19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Mo, 06.12.2010 ,19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mi, 15.12.2010, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Einladung zum Jahrestreffen, BA 5 und Stadtplanung HA II/2, Mi, 01.12.2010, 17.00 Uhr, Planungsreferat, Blumenstr. 28b, Raum 709
+- TOP .2.: Informationsveranstaltung des Sozialreferats für die Münchner Bezirksausschüsse, Mo, 29.11.2010, 18.00 bis 20.30 Uhr, Sozialreferat, Orleansplatz 11, Raum 1082, 1.Stock
+- TOP .3.: ?Bruder Baum? - Ausstellung im Planungsreferat ? Lokalbaukommission, 24.11.2010, 16.00 ? 18.30 Uhr, Lokalbaukommission, Blumenstr. 19, Erdgeschoss
+- TOP .4.: Leitlinie Ökologie ? Klimawandel und Klimaschutz der PERSPEKTIVE München, Abschlussveranstaltung, 23.11.2010, 19:00 ? 21.00 Uhr, Großer Sitzungssaal des Rathauses, Marienplatz
+- TOP .5.: Einladungen des Bauzentrums München, Willy-Brandt-Allee 10 Fachforum ?Strom sparen? am 18.11.2010, 09.00-13.30 Uhr Fachforum ?Bauen mit Lehm? am 24.11.2010, 09.00-13.00 Uhr Fachforum ? Innovative Dämm- und Baustoffe? auf der Messe Heim+Handwerk am 26.11.2010, 11.00 - 14.55 Uhr, Messegelände, Halle A1, Raum A12
+- TOP .6.: Einladung zum kommunalen Energieforum in der Metropolregion München, 07.12.2010, 14.00 Uhr, Säulensaal der Veranstaltungsforums Fürstenfeld in Fürstenfeldbruck
+- TOP .7.: Einladung Klinikum rechts der Isar ?Eine neue Methode zur Bildgebung?, Fr, 19.11.2010, 11.00 Uhr- 12.30 Uhr, Hörsaal D, Klinikum rechts der Isar
+- TOP .8.: Tag der offenen Tür der Hauptschule Wörthstr. 2, 18.11.2010, 10.00-15.00 Uhr
+- TOP .9.: Einladung zur Eröffnung der Ausstellung ?Kreativität kennt kein Alter?, Fr, 03.12.2010, 14.00 Uhr, Rathaus-Galerie
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
