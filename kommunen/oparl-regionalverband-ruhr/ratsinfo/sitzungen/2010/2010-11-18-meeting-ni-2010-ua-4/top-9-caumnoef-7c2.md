@@ -1,0 +1,6 @@
+# TOP 9: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 4. Sitzung des Umweltausschusses (2010-11-18)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2010-UA-4%7CAuMnoef%7C2
