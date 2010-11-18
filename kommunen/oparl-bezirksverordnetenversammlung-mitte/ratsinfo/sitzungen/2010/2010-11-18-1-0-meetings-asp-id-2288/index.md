@@ -1,0 +1,170 @@
+# 39. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-11-18T17:30:00+01:00
+- Ende: 2010-11-18T23:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2288
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2288
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=77867
+
+## Tagesordnung
+
+- TOP 1: Abstimmung über einen Antrag nach § 42 Satz 2 Bezirksverwaltungsgesetz - in der BVV abgelehnt
+- TOP 2: Bürgerfragestunde - beantwortet
+- TOP 3: Mitteilungen - (offen)
+- TOP 3.1: des Vorstandes - erledigt
+- TOP 3.2: der Fraktionen - erledigt
+- TOP 3.3: der Ausschüsse - erledigt
+- TOP 3.4: des Bezirksamtes - erledigt
+- TOP 4: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 5: Thematische Stunde - erledigt
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 6.1: Aktueller Stand der Stiftungen - beantwortet
+- TOP 6.2: Spielplätze für alle Kinder - beantwortet
+- TOP 6.3: Eingeschränkte Verkehrsberuhigung in der Siemensstraße? - beantwortet
+- TOP 6.4: MOA-Bogen - die staatliche Regulierung eine neue Wirtschaftspolitik des Bezirksamtes? - beantwortet
+- TOP 6.5: Stadtgarten Moabit noch 2010? - beantwortet
+- TOP 6.6: Plansche / Spielplätze an der Eichendorffstraße - schriftlich beantwortet
+- TOP 6.7: Im Kleinen Tiergarten stinkt's zum Himmel! - schriftlich beantwortet
+- TOP 6.8: B-Plan 1-45 VE-Hamberger - Wer gab das "Pappelgutachten" in Auftrag? - schriftlich beantwortet
+- TOP 6.9: Keine Weihnachtsfeier in der Weddinger Rathauskantine?? - schriftlich beantwortet
+- TOP 6.10: Neuer Personalausweis - schriftlich beantwortet
+- TOP 6.11: Markthalle Berlin Carrè - schriftlich beantwortet
+- TOP 6.12: Bezirksamt Mitte: engagiert für neue Arbeitsplätze in Moabit - schriftlich beantwortet
+- TOP 7: Dringlichkeitsanfragen - (offen)
+- TOP 7.1: Verbleib der Förderklassen der Wartburgschule - beantwortet
+- TOP 7.2: Keine Mittel für aktive Bürgerbeteiligung? - beantwortet
+- TOP 7.3: Presepio e Rifugio - Bella Italia an der Spree oder doch nur der schnöde Mammon im (schein)heiligen Kleid? - beantwortet
+- TOP 7.4: Mangelpädagogik und Mangelbetreuung an den Grundschulen in Mitte? - schriftlich beantwortet
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Antideutscher Rassismus an Schulen in Mitte? - schriftlich beantwortet
+- TOP 8.2: (Stadt)-Mission Impossible: Außer Spesen nichts gewesen - schriftlich beantwortet
+- TOP 8.3: MÄDEA - schriftlich beantwortet
+- TOP 8.4: Ergebnis der Tiefenprüfung im JobCenter Mitte - schriftlich beantwortet
+- TOP 8.5: Ganz Berlin ist Heizpilzfrei! Ganz Berlin? Nein, ein Bezirk trotzt allen Klimaschutzbemühungen! Warum nur? - schriftlich beantwortet
+- TOP 8.6: City LightRun 2010? - schriftlich beantwortet
+- TOP 8.7: Evaluation von Sprachförderprojekten und -programmen durch das Sprachförderzentrum - schriftlich beantwortet
+- TOP 8.8: S21 überall? - schriftlich beantwortet
+- TOP 8.9: Zielvereinbarungen des Bezirksamtes und Teilhabe der BVV - schriftlich beantwortet
+- TOP 8.10: Nachfrage zur Drucksache-Nr. 0736/III "Finanzierung von Schulen den lokalen Bedürfnissen anpassen" - schriftlich beantwortet
+- TOP 8.11: Bestandsreduzierung von Bäumen im Bezirk? - schriftlich beantwortet
+- TOP 8.12: Hallenbad Seydlitzstraße, hier: Geplantes Außenschwimmbecken vor dem AUS - schriftlich beantwortet
+- TOP 8.13: Korruptionsbekämpfung und Prävention - schriftlich beantwortet
+- TOP 9: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Sitzungskalender 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Nachschiebeliste zum Entwurf des 2. Ergänzungsplans Mitte für das Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Bebauungsplanentwurf I-B5m (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebau-ungsplanes I-B5m - überwiesen
+- TOP 10.2: Bebauungsplanentwurf I-B5u (südliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5u - überwiesen
+- TOP 10.3: Bebauungsplanentwurf I-B5b (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5b - überwiesen
+- TOP 10.4: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2009 - überwiesen
+- TOP 10.5: Bebauungsplanentwurf I-B5a (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5a - überwiesen
+- TOP 10.6: Aufgabe der Schulturnhallen der Wartburg- und der Grips-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 11: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Bebauungsplanentwurf I-B5d (südliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5d - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Einzelhandels- und Zentrenkonzept des Bezirkes Mitte als Fachplan der BEP 2004 (Bereichsentwicklungsplanung) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Genehmigung der im Haushaltsjahr 2009 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Bebauungsplanentwurf I-B5t (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5t - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Entwurf des 2. Ergänzungsplans für das Haushaltsjahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Dringlichkeitsanträge - (offen)
+- TOP 12.1: Buslinie M27 - in der BVV zurückgezogen
+- TOP 12.2: Sind Innenstadtkinder weniger intelligent? - Zwei Züge statt einem Zug für Schnelllernerklassen am Lessing-Gymnasium einrichten! - überwiesen
+- TOP 12.3: Alle Menschen lieben Krippen - auch die Bezirksverordneten von Berlin Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Aktivitäten fördern - Bewegungsflächen realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Berlin wurde größer und schöner - Eingemeindung von Moabit und Wedding vor 150 Jahren - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Untersuchungs- und Sanierungsgebiete im Bezirk Mitte sicherstellen II - BVV-Beschluss Drs. 0870/III endlich umsetzen! hier: Räume für Stadtteilvertretungen Turm- und Müllerstraße - mit Änderungen in der BVV beschlossen
+- TOP 13.4: Besetzung der Ausschüsse für Wirtschaft und Arbeit und Gesundheit hier: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Stand der Sprachkompetenz weitergeben - überwiesen
+- TOP 13.6: Projekt Stadtmission: Sozialverträgliche Umsetzung der MieterInnen des Seniorenwohnhauses Lehrter-/Seydlitzstraße sicherstellen - in der BVV zurückgezogen
+- TOP 13.7: Sozialplanverfahren für die MieterInnen der Fennstraße 35/37 - Am Nordhafen 1 - mit Änderungen in der BVV beschlossen
+- TOP 13.8: Benennung einer öffentlichen Grün- und Erholungsanlage im OT Mitte nach Marion Gräfin Dönhoff - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Kein Handel mit Scheinadressen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.10: Angemessene Räume für die Seniorenvertretung in Mitte - in der BVV zurückgezogen
+- TOP 13.11: MÄDEA - ohne Änderungen in der BVV beschlossen
+- TOP 13.12: Sanktionsmöglichkeiten bei Nachweisdefiziten prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13.13: Besetzung des Ausschusses für Gesundheit hier: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 13.14: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 13.15: Wohnhaus Lehrter Straße 67 / Seydlitzstraße 21/22: Entmietung stoppen! - ohne Änderungen in der BVV beschlossen
+- TOP 13.16: Information und Service für Menschen mit Behinderung - ohne Änderungen in der BVV beschlossen
+- TOP 13.17: Offene Forderungen vollstrecken / Verjährung prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13.18: Veräußerung der Schulturnhallen der Grips- und Wartburg Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 13.19: City LightRun in Mitte unterstüzten! - überwiesen
+- TOP 13.20: Unterstützung für online-Petition gegen Spielhallen durch das Bezirksamt Mitte - mit Änderungen in der BVV beschlossen
+- TOP 13.21: Bäume für die Birkenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 13.22: Hundesteuer sachgerecht verwenden - überwiesen
+- TOP 13.23: Sind "Laubpuster" notwendig? - überwiesen
+- TOP 13.24: Wettbüros - überwiesen
+- TOP 13.25: Den bezirklichen Spielplatzplan aktualisieren! - in der BVV zurückgezogen
+- TOP 13.26: Effizienz der Sprachförderungsprogramme prüfen! - ohne Änderungen in der BVV beschlossen
+- TOP 14: Dringliche Entschließungen - (offen)
+- TOP 15: Entschließungen - (offen)
+- TOP 15.1: Kürzungen in der Städtebauförderung verhindern - mit Änderungen in der BVV beschlossen
+- TOP 16: Anträge/Beschlussempfehlung - (offen)
+- TOP 16.1: Bebauungspläne Molkenmarkt und Petriplatz - in der BVV abgelehnt
+- TOP 16.2: Mitte für ein tolerantes Miteinander - auch und gerade mit Lesben, Schwulen und Transgender - ohne Änderungen in der BVV beschlossen
+- TOP 16.3: Lass die Kinder spielen! - in der BVV abgelehnt
+- TOP 16.4: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - ohne Änderungen in der BVV beschlossen
+- TOP 16.5: Sondernutzungsgebühren in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 16.6: Der Schulraum ist die dritte Lehrkraft - Abbau von Aggressionen und Gewalt an Schulen durch räumliche Gestaltungsmaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 17: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 17.1: Portrait des Bundespräsidenten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.2: Fallmanagement Eingliederungshilfe II - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.3: Bezirksämter für Kinderschutz besser ausstatten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.4: Kinder ohne Kopftücher - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.5: Mieterbeiräte der WBM - stark für das Unternehmen und den Stadtteil - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.6: Nutzungspflicht Zentrale Vergabestelle - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.7: Informationsveranstaltung zum Wohnteilhabegesetz (WtG) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.8: Bürgerschaftliches Engagement in und für Mitte fördern (II): Das bürgerschaftliche Engagement von Jugendlichen in die pädagogische Arbeit von Jugend-Einrichtungen integrieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.9: Die Würde des Menschen ist unantastbar - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.10: Bericht über Partnerschaften des Bezirks - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.11: Hilfe für den Leopoldplatz zeitnah umsetzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.12: Dritten Pflegestützpunkt im Bezirk Mitte in Moabit einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.13: Neubau des Gastronomie-Großmarktes an der Siemensstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.14: Notplan Kältehilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.15: Erhalt der Graffiti-Wand am ehemaligen Klub International - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.16: Chancen nicht verspielen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.17: Fahrradständer für den neuen Spielplatz Ottopark - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.18: Informationsveranstaltung: Prävention gegen Spielsucht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.19: Projekt "Ferienschwimmen" durch Schwimmpaten fortführen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.20: Havariemaßnahmen für Schüler/innen und Personal im Schulgebäude Lützowstraße 83-85 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.21: Schulstandort Lützowstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.22: Lex-Straßenland 2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.23: Musterjugendamt nach den unterschiedlichen bezirklichen Gegebenheiten gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.24: Entfristung der Arbeitsverhältnisse der Beschäftigten des Ordnungsamtes (II) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.25: JAM - Gute Arbeit unserer bezirklichen freien Träger der Jugendberufshilfe - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.26: Keine Dumpinglöhne in Mitte! Keine Vernichtung der Arbeitsplätze auf dem 1. Arbeitsmarkt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.27: Erhöhung einer Vergnügungssteuer auf die Bruttoeinspielergebnisse bei Gewinnspielgeräten an allen Aufstellorten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.28: Keine Umgehung der Spielverordnung! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.29: Spielstätten: Kein Mehrwert für die Region aber Verstärkung von Suchtgefahr und Armut! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.30: Sicherstellung des Jugendschutzes beim Betrieb von Spielautomaten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.31: Mehr Kontrollen in legalen sowie gegen illegale Einrichtungen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.32: Aktive Stadtzentren Müllerstr. und Turmstr. - Verfügungstellung von Protokollen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.33: Zebrastreifen in der Kaiserin-Augusta-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.34: Jugendschutz in Spielsalons und gleich gearteten Unternehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.35: Mitwirkung der Stadtteilvertretungen Müllerstraße und Turmstraße sicherstellen hier: Stadtteilvertretung in Steuerungsrunde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.36: Vergnügungsstättengesetz/-verordnung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.37: Fashion Week in Mitte sichern - Denkmal Bücherverbrennung Bebelplatz schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.38: Bebauungspläne zur planungsrechtlichen Einflussnahme auf die Ansiedlung/Versagung von Spielhallen/Spielotheken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.39: QR-Wahlen im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.40: Erhalt der C/O-Galerie im Postfuhramt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.41: Mittelerhöhung für Präventions- und Aufklärungsmaßnahmen zum Schutz der Spieler und Spielerinnen vor Suchterkrankungen und zur Bekämpfung von Spielsucht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.42: Keine weiteren vorzeitigen Mittel für den Stadtgarten auf dem ehemaligen Güterbahnhof Moabit! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 17.43: Mehr Möglichkeiten zur Begleitung von Bebauungsplänen schaffen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.44: Mauerpark - Die BVV über Grundstücksgeschäft informieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.45: Mauerpark - Frühzeitige Bürgerbeteiligung anhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.46: Kulturfabrik Lehrter Straße 35 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.47: Teilung des Bebauungsplanes 1-8 (südliche Spandauer Vorstadt) in die Bebauungspläne 1-8Ba und 1-8Bb, die Weiterführung der Bebauungsplanentwürfe 1-8Ba und 1-8Bb mit geänderten Planinhalten, die Durchführung der frühzeitigen Behördenbeteiligung gem.§ 4 Abs. 1 BauGB, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB sowie die Durchführung der öf-fentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.48: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-51 (östlich Brunnenstraße, nördlich Rheinsberger Straße) und der Durchführung der öffentlichenAuslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.49: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öf-fentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-52 (west-lich Strelitzer Straße, nördlich Anklamer Straße) und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.50: Änderung der Einschulungsbereiche für die Grundschulen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.51: 1. Berliner Europa Forum - Bürgererklärung Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.52: Die im ersten Halbjahr des Haushaltsjahres 2010 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.53: Beschluss über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB und der Behördenbeteiligung gem. § 4 Abs. 2 BauGB und die Durchführung der öffentlichen Auslegung gemäß § 3 Abs. 2 BauGB des Bebauungsplanes I-52a-1 "Beach-Volleyball-Halle" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.54: Europabericht 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 17.55: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
