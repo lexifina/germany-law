@@ -1,0 +1,116 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2010-11-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869775
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869775
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Parksituation Tangastr. 80 und 82
+- TOP 2.2.: Hinweisschilder Fauststraße/ Nauestraße
+- TOP 2.3.: Verkehrsaufkommen Heltauer Straße
+- TOP 2.4.: Verschmutzung der Heltauer Straße
+- TOP 2.5.: Waldkindergarten Trudering
+- TOP 2.6.: Anfrage Zebrastreifen an der Privaten Pestalozzi Realschule
+- TOP 2.7.: Stellplatzsituation Kooperationseinrichtung Karpfenstraße
+- TOP 2.8.: Haltverbot in der St.-Augustinus-Straße
+- TOP 2.9.: Straßenbeleuchtung in der Messestadt
+- TOP 2.10.: Dringender Bedarf an Lagerflächen für Hilfsgüter
+- TOP 2.11.: Fachtagung Migration und Integration
+- TOP 2.12.: Feuerwerk Buga-Lounge
+- TOP 2.13.: Kinderarzt für die Messestadt
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Schulweg zur Markgrafenschule - Pflegemaßnahmen am Gehölz
+- TOP 3.2.: Akustische Sanierungsmaßnahmen an der Grundschule an der Turnerstraße
+- TOP 3.3.: Freerunning-Parcour in Trudering-Riem
+- TOP 3.4.: Anregungen Buga-See
+- TOP 3.5.: Weiße Flächen in der Messestadt mit Hinweisschildern versehen
+- TOP 3.6.: Bei BAUMA-Parkplatz-Umbau Lärmschutzproblem lösen
+- TOP 3.7.: Erläuterungstafel für den Kopfbau des ehem. Münchner Flughafens Riem
+- TOP 3.8.: Umstiegssituation am Leuchtenbergring
+- TOP 3.9.: Nachfragen zur Parksituation vor Waldtruderinger Drogeriemarkt
+- TOP 3.10.: Verbotswidrige Müllentsorgung Am Hochacker / Ecke Markgrafenstraße (Wasserschutzgebiet)
+- TOP 3.11.: Umsetzung des EEWärmeG
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Planungsstand Sozialbürgerhaus
+- TOP 4.2.: Neubau eines Lebensmittelmarktes mit Ärztehaus an der Truderinger Straße
+- TOP 4.3.: Antrag zur Teilbefreiung vom Bebauungsplan für das Planungsgebiet MK1 im Bajuwarenpark/ Erweiterungsantrag zu "Neubau eines Lebensmittelmarktes mit Ärztehaus an der Truderinger Straße"
+- TOP 4.4.: Lebensmittelgeschäft für die Messestadt
+- TOP 4.5.: Besserer Verkehrsfluss im Bereich der Messestadt
+- TOP 4.6.: Zeitkartenautomat Messestadt Ost
+- TOP 4.7.: Räume in der Messestadt für öffentliche und private Veranstaltungen, Feste und Feiern
+- TOP 4.8.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps
+- TOP 4.9.: Öffentliche Anbindung des Truderinger Gymnasiums
+- TOP 4.10.: Sicherheitswacht für Trudering- Riem
+- TOP 4.11.: Aufstellung von Hundekotbeutelspendern im Bereich des Grünzuges Friedenspromenade
+- TOP 4.12.: Ökologischen Ausgleich für die Verdichtung Truderings und Riems schaffen
+- TOP 4.13.: Feuerwerke restriktiver genehmigen
+- TOP 4.14.: Sozialpolitisch stabile Mischung im Wohnungsbau für Riem
+- TOP 5: Anhörungen
+- TOP 5.1.: Anton-Geisenhofer-Straße; Einbeziehung in die Tempo 30- Zone
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Bericht zur Wohnungssituation in München 2008- 2009; Sitzungsvorlage Nr. 08-14/ V 05281, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.11.10
+- TOP 7.2.: Bevölkerungsprognose 2009- 2030 der Landeshauptstadt München; Sitzungsvorlagen- Nr. 08-14/V 05291, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.11.10
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Perspektive München, Münchner Stadtteilstudie 2009, Sitzungsvorlage 08-14/V 04749
+- TOP 7.2.: Perspektive München, Broschüre Zentrenkonzept
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Haltverbot im Busbahnhof Trudering Bahnhof
+- TOP 7.2.: Haltverbot im Busbahnhof Messestadt Ost
+- TOP 7.3.: Haltverbot an der Bushaltestelle Florastraße
+- TOP 7.4.: Ortstermin vom 09.11.10 zum BA-Antrag 08-14/B 01478 Orientierungsschilder an der S-Bahn Gronsdorf verbessern
+- TOP 7.5.: Ortstermin vom 17.11.10 zum BA-Antrag 08-14/B 02086 Anfrage zur Planung von Fußgängerüberwegen
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Bescheid zum Budgetantrag Initiative "Langzeitbelichtung"
+- TOP 7.2.: Bescheid zum Budgetantrag Krieger- und Soldatenverein Trudering-Riem e.V.
+- TOP 7.3.: Bescheid zum Budgetantrag Gewerbeinitiative Aktives Trudering, Stadtteilladen Trudering (MGS)
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: Entscheidungen entgegen dem Votum des Bezirksausschusses: Ankoglstr. 31, Zehntfeldstr. 156b; Baumfällungen auf öffentlichen Grün- und Freiflächen: Dauerkleingartenanlage SO 66, Salzmesserstr. 110; 8.2 Schneebergstr.9; 8.3 Am Eulenhorst 72; 8.4 Frauenalplweg 5; 8.5 Niobestr. 30; 8.6 Schwarzspechtstr. 4; 8.7 Zeisigweg 24; 8.8 Agathenstr. 25; 8.9 Ottilienstr. 12; 8.10 Dukatenweg 11; 8.11 Florastr. 18a; 8.12 Samlandstr. 26
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Öffentlichkeitsphase, Leitlinie Ökologie- Klimawandel und Klimaschutz der Perspektive München, Einladung zur Abschlussveranstaltung am 23.11.10; "Bruder Baum"- Ausstellung im Planungsreferat- Lokalbaukommission, Treffen für interessierte Mitglieder der Münchner Bezirksausschüsse am 24.11.10; Einladungen des Bauzentrums München zu: Abendforum "Pflanzenöl 10.11.10, Fachgespräch "Heizung, Warmwasser, Lüftung" 11.11.10, Fachforum "Strom sparen-Kosten sparen" 18.11.10, Fachforum "Bauen mit Lehm" 24.11.10, Fachforum "Innovative Dämm-und Baustoffe" 26.11.10, Fachforum "Messgeräte" 27.11.10; Reform der Hauptschulen in München- Auf dem Weg zur Mittelschule, Einladung zu den Dialogforen in der Landeshauptstadt München 30.11.10; Auftaktveranstaltung des Behindertenbeirats am 28.02.11
+- TOP 9.2.: Sitzungstermine und Informationen des Mieterbeirats
+- TOP 9.3.: Bebauungsplan mit Grünordnung Nr. 1683 b, Markgrafenstraße- Gymnasium Trudering; Sitzungsvorlage 08-14/V 05204, Beschluss des Bauausschusses vom 16.11.10
+- TOP 9.4.: Verlängerung der Öffnungszeiten der städtischen Freibäder, Antrag 08-14/B 02299 des Bezirksausschusses des 2. Stadtbezirks vom 27.07.10, Antwortschreiben des Referats für Arbeit und Wirtschaft
+- TOP 9.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Zuständigkeitsänderung im Direktorium der Stadt München
+- TOP 9.7.: Zuständigkeitsänderung im Baureferat, Abteilung Tiefbau
+- TOP 9.8.: Baumaßnahmen der SWM: Stromprojekt Am Mitterfeld
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauvorhaben im Stadtbezirk im Zeitraum 04.10.10 - 31.10.10
+- TOP 10.2.: Abbruchanzeige: Am Hochacker 21
+- TOP 10.3.: Mitteilung über ein Grundstücksgeschäft Flst. 206/16 Tlfl. und 205/5 Tudering Mauerseglerstraße/ Drosselweg
+- TOP 10.4.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München- Rosenheim (südlich), Projektgenehmigung, Sitzungsvorlage Nr. 08-11/V 04608, Beschluss des Bauausschusses vom 16.11.10
+- TOP 10.5.: Bebauungsplan mit Grünordnung Nr. 1728 m Messestadt Riem, 4. Bauabschnitt Wohnen, Edinburghplatz südlich (Teiländerung des Bebauungsplans mit Grünordnung Nr. 1728 d, Teil 1), Satzungsbeschluss, Sitzungsvorlagen- Nr. 08-14/V 05339, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10
+- TOP 10.6.: Messestadt Riem, 4. Bauabschnitt Wohnen, Herstellung der Erschließungsstraßen und -plätze, Teilprojektkosten Baustraßen im 4. BA Wohnen: 770 000 EUR, 1. Genehmigung des Nutzerbedarfsprogramms, 2. Beauftragung der MRG mit der Vorplanung, 3. Beauftragung der MRG mit der vorgezogenen Herstellung der Baustraßen, Sitzungsvorlage Nr. 08-14/V 05283, Beschluss des Bauausschusses vom 19.10.10
+- TOP 10.7.: Stadtsanierung in München, Sicherung der Städtebauförderung, Antrag Nr. 08-14/A 01751 der Stadtratsfraktion BÜNDNIS 90/ DIE GRÜNEN/ RL vom 02.08.10, Sitzungsvorlagen- Nr. 08-14/V 05361, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10 und Hinweis/ Ergänzung vom 26.10.10
+- TOP 10.8.: Wohnen in München IV, A) Erfahrungsbericht für das Jahr 2009 mit Ergänzungen (Bekanntgabe), B) Beschlussteil, 1. Kaufpreisobergrenzen im München-Modell Eigentum, 2. "EU will deutsches Einheimischenmodell kippen- ist München auch betroffen?" Antrag Nr. 08-14/A 01652 der Stadtratsfraktion der CSU vom 29.06.10, 3. Aufhebung einschränkender Bedingungen für Bewerbungen von Baugemeinschaften; Sitzungsvorlagen Nr. 08-14/V 05036, Beschluss der Vollversammlung des Stadtrats vom 06.10.10
+- TOP 10.9.: Luxussanierungen in der Maxvorstadt, a) Gibt es Untersuchungen oder sind solche geplant, die Auskunft darüber geben, welche Auswirkungen die Luxussanierungen von Gebäuden auf Veränderungen der Strukturen in Stadtbezirken haben?, b) Schutz der von Luxussanierungen betroffenen Mieter vor Kündigung, Vertreibung und überhöhten Mieten, c) Einhaltung der Bauvorschriften in Gebieten mit Erhaltungssatzung, Empfehlungen Nr. 08-14/E 00473, E 00474 (Ziffer 1) und E 00475 (Ziffer 2) der Bürgerversammlung des Stadtbezirks 3 Maxvorstadt am 19.11.09, Sitzungsvorlagen Nr. 08-14/V 05167; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.10
+- TOP 10.10.: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen, Antrag Nr. 08-14/A 01264 der ÖDP vom 17.12.09, Sitzungsvorlagen- Nr. 08-14/V 05325, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10
+- TOP 10.11.: Dienststellenverständigung: Neubau städtischer Kindergarten Thomas- Hauser- Str. 20, 81829 München, Betriebsaufnahme 15.11.10
+- TOP 10.12.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen- Sachstandsbericht zum 30.07.10, Sitzungsvorlagen- Nr. 08-14/V 05070, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.10
+- TOP 10.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.14.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK), Sachstand Konsolidierung 2009/10, Feinkonzept 2011, Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung; Sitzungsvorlage Nr. 08-14/V 05165; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 10.11.10
+- TOP 10.15.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit; Antrag Nr. 08-14/A 01013 der Stadtratsfraktion DIE GRÜNEN/ RL vom 19.08.09; Sitzungsvorlage Nr. 08-14/V 05022; Beschluss des Kinder- und Jugenhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10
+- TOP 10.16.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14/V 05166; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10
+- TOP 10.17.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14/V 05173; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.10
+- TOP 10.18.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14/V 05288; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10
+- TOP 10.19.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.21.: Offenlegung der Grundstücksspekulationen im Bereich Express-S-Bahn Daglfing- Englschalkling- Johanneskirchen, Ziffer 3 des Antrags, Empfehlung Nr. 08-14/E 00549 der Bürgerversammlung des Stadtbezirks 05 Au-Haidhausen am 04.02.2010, Sitzungsvorlage Nr. 08-14/V 04977, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010
+- TOP 10.22.: Bahntrassen in München langfristig sichern, Antrag Nr. 08-14/A 01295 der Stadtratsfraktion Bündnis 90/ Die Grünen/ RL vom 18.01.10, Sitzungsvorlagen Nr. 08-14/V 05086, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.10.2010
