@@ -1,0 +1,23 @@
+# Prüfantrag für den Erhalt des Standortes für das Studio Bildende Kunst und den Grafikverein Inventor e.V. im Großwohngebiet Frankfurter Allee Süd, John-Sieg-Str. 13
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/0668/V
+- Art: Vorlage zur Kenntnisnahme
+- Datum: 2010-11-19
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=1131
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=1131
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=237 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=330 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=339 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=341 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=374 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=375 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=376 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=377 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1975 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung  https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Vorberatung  https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Entscheidung  https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=382 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=34
