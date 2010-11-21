@@ -1,3 +1,4 @@
+## Sächsisches Personalvertretungsgesetz (SächsPersVG) Rechtsbereinigt mit Stand vom 21. November 2010
 # Inhaltsverzeichnis
 Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
@@ -32,7 +33,7 @@ Teil 2 Personalvertretungen
 § 29 Erlöschen der Mitgliedschaft
 § 30 Ruhen der Mitgliedschaft
 § 31 Ersatzmitglieder
-§ 32 Neuwahl bei Umorganisation von Dienststellen undKörperschaften
+§ 32 Neuwahl bei Neubildung und Eingliederung von Dienststellen und Körperschaften
 Teil 3 Geschäftsführung
 § 33 Vorstand des Personalrats
 § 34 Aufgaben des Vorstands
@@ -71,9 +72,9 @@ Teil 7 Besondere Vertretungen
 § 63 Entsprechende Anwendung von Vorschriften
 § 64 Stufenvertretungen und Gesamt-Jugend- und Auszubildendenvertretung
 § 65 Jugend- und Auszubildendenversammlung
-§ 66 Ausbildungsbeirat
+§ 66 (aufgehoben)
 § 67 Schulen und Lehrkräfte
-§ 68 Polizei
+§ 68 Polizeivollzugsdienst
 § 69 aufgehoben
 § 70 Staatsbetrieb Sachsenforst
 Teil 8 Beteiligung der Personalvertretungen
@@ -86,8 +87,8 @@ Teil 8 Beteiligung der Personalvertretungen
 § 77 Mitwirkungsrechte
 § 78 Ordentliche Kündigung
 § 79 Verfahren der Mitbestimmung
-§ 80 Mitbestimmung in Angelegenheiten der Angestellten und Arbeiter und in sonstigen allgemeinen Angelegenheiten
-§ 81 Mitbestimmung in Angelegenheiten der Beamten und in sonstigen allgemeinen Angelegenheiten
+§ 80 Angelegenheiten der eingeschränkten Mitbestimmung
+§ 81 Angelegenheiten der vollen Mitbestimmung
 § 82 Einschränkung der Mitbestimmung, Versagungsgründe
 § 83 Initiativrecht
 § 84 Dienstvereinbarungen – Tarifverträge
