@@ -1,0 +1,78 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898783
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898783
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 3: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Spielplatz Holledauer Straße
+- TOP 3.2: UA Verkehr
+- TOP 3.2.2.: Ortstermin Ampelanlage Torgauer- / Feldmochinger Straße
+- TOP 3.2.3.: Ortstermin Claudiusplatz
+- TOP 3.2.4.: Anwohnerversammlung Haylerstraße
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Termine
+- TOP 3.4.2.: Einbürgerungsfeier
+- TOP 4.1: Anträge der SPD
+- TOP 4.1.1.: Gehwegparken Dachauer Straße
+- TOP 4.1.2.: Ensembleschutz Dorfkern Moosach
+- TOP 4.1.3.: Sanierung Dächer Moosacher Bahnhof
+- TOP 4.2: Anträge der CSU
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Widmungserweiterung einer Teilstrecke der Gerastraße
+- TOP 5.2.: (E) Budget der Bezirksausschüsse digitalanalog e.V. Workshop am 04./05.01.2011 im Pelkovenschlössl - <div></div>
+- TOP 5.3.: Sondernutzung Hanauer Str. 77 (Maronenstand)
+- TOP 6: Anhörungen
+- TOP 6.1.: Nikolausfeier der Mietergemeinschaft Borstei
+- TOP 6.3.: Handlungsprogramm Mittlerer Ring ? Weiterer Planungsbedarf
+- TOP 6.4.: Satzungsänderung Versammlungen
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Aufstellung einer Packstation in unmittelbarer Nähe des OEZ (wird geprüft)
+- TOP 7.2.: Ausbessern des Fuß- und Radweges in der Verlängerung der Abensbergstraße bis hin Fuß- und Radweg auf dem Bahndamm (wird erledigt)
+- TOP 7.3.: Naturdenkmal Röthlinde (Schild wird erneuert)
+- TOP 7.4.: Prüfung einer Änderung der Parklizenzen in der Borstei (wird geprüft)
+- TOP 7.5.: Errichtung einer Sitzbank an der Haltestelle Eininger Straße stadteinwärts (wird im Zuge des Ausbaus der Dachauer Straße erledigt)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: ?The Tent?, Kapuzinerhölzl (Schreiben des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.4.: Ausnahmegenehmigung:Betrieb von Müllsammelfahrzeugen
+- TOP 8.5.: Einrichtung von beidseitigen Schutzstreifen auf der Fahrbahn in der Pelkovenstraße zwischen Oskar-Barnack-Str. und Riesstr.
+- TOP 8.6.: Flutlichtanlage an der Homer-/Dietrichstraße (Bürgerschreiben)
+- TOP 8.7.: Ameisen im Garten (Bürgerschreiben)
+- TOP 8.8.: Änderungen im Postfilialnetz Moosach
+- TOP 8.9.: Pendlerverkehre verlagern (Stadtratsantrag)
+- TOP 8.10.: Bevölkerungsprognose 2009 ? 2030 der Landeshauptstadt München
+- TOP 8.11.: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen (Stadtratsantrag)
+- TOP 8.12.: Stadtsanierung in München
+- TOP 8.13.: Haltverbot in der Templestraße
+- TOP 8.14.: Leitlinie Ökologie ? Klimawandel und Klimaschutz der Perspektive München
+- TOP 8.15.: ? gestrichen -
+- TOP 8.16.: 2. S-Bahn-Stammstrecke
+- TOP 8.17.: Budget der Bezirksausschüsse
+- TOP 8.18.: Neue Leitung der HA II des Direktoriums
+- TOP 8.19.: Haushaltskonsolidierung des Sozialreferates: Sachstand
+- TOP 8.20.: Sozialreferat: Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger?
+- TOP 8.21.: Kurzbericht Foto-Workshop digitalanalog
+- TOP 8.22.: Aktualisierung der Münchner Sucht- und Drogenpolitik (Stadtratsantrag)
+- TOP 8.23.: Ensemble ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes
+- TOP 8.24.: Bericht zur Wohnungssituation in München 2008 ? 2009
+- TOP 8.27.: Beschlussvollzugskontrolle bei BA-Beschlüssen
+- TOP 8.28.: Bauträgerauswahl Brieger Straße
+- TOP 6.2.: Ausbau der Dachauer Straße
+- TOP 8.26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
