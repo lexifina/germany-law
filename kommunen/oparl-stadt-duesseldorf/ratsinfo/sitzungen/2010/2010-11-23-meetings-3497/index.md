@@ -1,0 +1,53 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-11-23T17:00:00+01:00
+- Ende: 2010-11-23T19:30:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3497
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3497
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149709.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149709.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149709.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Vorstellung Sport-Action-Bus - zur Kenntnis genommen
+- TOP 4: Jan-Wellem-Brunnen - zur Kenntnis genommen
+- TOP 5: Aktionen der Bürgerhilfe Gerresheim - zur Kenntnis genommen
+- TOP 6: Neuwahl einer Schiedsperson - zur Kenntnis genommen
+- TOP 6.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 8: Nikolausmarkt - einstimmig beschlossen
+- TOP 9: Zuschüsse zu kulturellen Veranstaltungen - einstimmig beschlossen
+- TOP 9.1: Ergebnisse aus der Vorbesprechung - einstimmig beschlossen
+- TOP 10: Ausbau Nymphenburgstraße - zur Kenntnis genommen
+- TOP 11: Fußverbindung Blanckertzstraße-Hülsmeyerstraße - einstimmig beschlossen
+- TOP 12: Aufstellen einer Bank in der Heyestraße - einstimmig beschlossen
+- TOP 13: Radweg Bergische Landstraße - einstimmig beschlossen
+- TOP 14: Pferdekoppel im Nachbarschaftspark Diepenstraße - zur Kenntnis genommen
+- TOP 15: Wettbewerb "Heimatkunde" - einstimmig beschlossen
+- TOP 16: Truppenübungsplatz Bergische Kaserne - mehrheitlich abgelehnt
+- TOP 17: Steigende Belastung für Kleingärtner - zur Kenntnis genommen
+- TOP 18: Nutzung von Sportstätten durch Schulen - zur Kenntnis genommen
+- TOP 19: Sportinfrakstruktur in Knittkuhl - zur Kenntnis genommen
+- TOP 20: Dreherpark - zur Kenntnis genommen
+- TOP 21: Nutzung und Erhalt der Denkmäler - zur Kenntnis genommen
+- TOP 22: Erschließung der Baugrundstücke Düsselpark - zur Kenntnis genommen
+- TOP 23: Gefahrgut-Transporte Staufenplatztunnel - zur Kenntnis genommen
+- TOP 24: Einrichtung von Fahrradstellplätzen im Bezirk - zur Kenntnis genommen
+- TOP 25: Zamenhofweg - Kurve Bertastraße - zur Kenntnis genommen
+- TOP 26: Fahrradabstellplatz "Alter Markt"
+- TOP 27: Treppengeländer Waldweg Dreherstraße - zur Kenntnis genommen
+- TOP 28: Spielplatz an der Hundewiese - zur Kenntnis genommen
+- TOP 29: Beleuchtung Bergische Landstr./Stratenweg - zur Kenntnis genommen
+- TOP 30: Pillebachufer - zur Kenntnis genommen
+- TOP 31: Rampe Taubenbergstraße - zur Kenntnis genommen
+- TOP 32: Planstraßen im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 33: Mobile Geschwindigkeitsanzeigetafeln - zur Kenntnis genommen
+- TOP 34: Ausbau Nymphenburgstraße - zur Kenntnis genommen
