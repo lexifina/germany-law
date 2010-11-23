@@ -1,0 +1,6 @@
+# TOP 5: Umbau der Rennbahn / Haus am RennbahnPark (AWL231110-09637.doc)
+
+- Sitzung: Ausschuss für Wirtschafts- und Liegenschaftsangelegenheiten (2010-11-23)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/103023
