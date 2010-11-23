@@ -1,0 +1,91 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-11-23T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829343
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829343
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Antrag auf Verlängerung der Öffnungszeiten städtischer Freibäder (BA-Antrag Nr. 08-14 / B 02299): Rückmeldung der BAs und Infoschreiben des RAW
+- TOP .2.: BA-Budget - Genehmigungsbescheide: - Historische Ausstellung der St. Pauls-Kirche vom 17.10.2010 - 25.01.2011 - Initiative Südliches Bahnhofsviertel "Respect us" am 31.07.2010 und 25.09.2010 - Kunstzentrat e.V. Veranstaltungsreihe vom 10. - 25.09.2010 - Kath. Kirchenstiftung St. Andreas Konzert am 26.11.2010 - Tröpferlbad Fest zum Weltkindertag am 24.09.2010
+- TOP .3.: Auskunftsrechte von Mietern gegenüber der LBK
+- TOP .4.: Haushaltskonsolidierung - 4. HSK; Beschluss Kinder- und Jugendausschuss und Sozialausschuss vom 11.11.2010
+- TOP .5.: Bürgeranliegen: Verschmutzung Spritzenautomat; Rückmeldung RGU/Aidshilfe
+- TOP .6.: Aktualisierung der Münchner Sucht- und Drogenpolitik; Beschluss Gesundheitsausschuss 18.11.2010
+- TOP .7.: Maßnahmen gegen Vandalismus/Schmierereien auf Hauswänden etc.
+- TOP .8.: BA-Budget: Pfarrei St. Paul - Jugendfahrt der MinistrantInnen nach Assisi; Entscheidung Oberbürgermeister: Ablehnung der Bezuschussung
+- TOP .9.: Bericht zur Wohnungssituation in München 2008.-2009; Bekanntgabe Ausschuss für Stadtplaung und Bauordnung vom 10.11.2010
+- TOP .10.: Bevölkerungsprognose 2009-2030; Bekanntgabe Ausschuss für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Landwehrstr.16: Nutzungsänderung
+- TOP .2.: Wittelsbacherstr. 15: Erweiterung der Freischankfläche
+- TOP .3.: Lessingstr. 12: Nutzungsänderung
+- TOP .4.: Landwehrstr. 63: Umbau, Nutzungsänderung
+- TOP .5.: Isartalstr. 26: DG-Ausbau
+- TOP .6.: Jahnstr. 34: Neubau
+- TOP .7.: Thalkirchner Str. 25: Nutzungsänderung
+- TOP .8.: Paul-Heyse-Str. 8: Aufstockung eines Hostels
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Parkraummanagement Wiesn 2011
+- TOP .2.: 2.-S-Bahn-Stammstrecke (EilE)
+- TOP .3.: Neubau einer Treppenanlage und Aufwertung der Fuß- und Radwegunterführung Theresienhöhe/Hans-Fischer-Straße
+- TOP .4.: München setzt auf's Rad 3; Fahrrad-Service-Stationen für München
+- TOP .1.: Baumaßnahmen der SWM: - Stromprojekt Zenettistraße - Informationsflyer 2. Halbjahr 2010
+- TOP .2.: Direkte Führung der Radfahrer von der Corneliusbrücke in die Corneliusstraße (Prüfauftrag)
+- TOP .3.: Augsburgerstr. 14: Baugenehmigung
+- TOP .4.: Schwanthalerstr. 2: Nutzungsänderung zweier Kinos in Diskothek; Beschluss des VG München vom 30.09.2010
+- TOP .5.: Bürgeranliegen: eingeschränktes Haltverbot in der Kohlstraße 2; Rückmeldung KVR
+- TOP .6.: Schließung der Baulücke auf dem Grundstück Corneliusstraße zwischen Blumen- und Müllerstraße, Antrag des BA 1
+- TOP .7.: Isar-Plan: Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung; Beschluss Bauausschuss vom 19.10.2010
+- TOP .8.: Vorkaufsrecht: Häberlstraße
+- TOP .9.: Brücke Maximilianstraße über den Fabrikbach; Beschluss Bauausschuss vom 28.09.2010
+- TOP .10.: Fällungsgenehmigung: Isartalstraße
+- TOP .11.: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .12.: Pendlerverkehre verlagern: ÖV-Angebote verbessern statt Autos aussperren; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .13.: Stadtsanierung - Sicherung der Städtebauförderung; Beschluss Ausschuss Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .14.: Umstrukturierung des Grundstücks Kapuzinerstr. 26, 28, 30 / Kapuzinerplatz 6, 7; Beschluss Ausschuss Stadtplanung und Bauordnung vom 11.10.2010
+- TOP .15.: Entwicklung der Spielhallen in München (Anfrage des BA 2 an das Planungsreferat), Rückmeldung der LBK
+- TOP .1.: Sitzungsort für die UA-Sitzung 12/10
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Netzerstr. 23: Antrag für Obstverkaufsstand
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.2: Verkehr
+- TOP .1.: Einrichtung personenbezogener Behindertenparkplatz, Ruppertstr. 10
+- TOP .2.: Gehweg "Radfahrer frei" in der Gehwegverbindung Thalkirchner/Pestalozzistr
+- TOP .1.: Erlaubnisbescheide: - Fanfarenumzug von der St.-Pauls-Kirche bis zur Alten Kongresshalle am 23.10.2010
+- TOP .2.: Versammlungen unter freiem Himmel (6)
+- TOP .3.: Bürgerschreiben bzgl. LKW-Falle im Bereich Thalkirchner Straße (WL ans KVR)
+- TOP .4.: Rollstuhlgerechte Absenkung des Randsteins an der Bushalteinsel Baldeplatz
+- TOP .5.: Verkehrssituation Kreuzung Baader-/Corneliusstraße; AW: Haltverbote werden eingerichtet
+- TOP .6.: Verkehrsrechtliche Anordnung: - Aufhebung personenbezogener Behindertenparkplatz, Kapuzinerstr. 52 - Einrichtung allgemeiner Behindertenparkplatz, Baldestr. 21 - Einrichtung allgemeiner Behindertenparkplatz, Goethestr. 74
+- TOP .7.: Unveränderte Gaststättenfortführung: - Waltherstr. 21: Walther`s - Bayerstr. 41: Le Meridien - Lindwurmstr. 157: Trattoria Italiana - Bayerstr. 55: Asia Today - Sendlinger-Tor-Platz 7: Neuland - Schwanthalerstr. 58: Café Bistro Centrale
+- TOP .8.: Filmaufnahmen auf öffentlichem Grund (3)
+- TOP .9.: Bürgeranliegen: Beschwerde über gaststätten- und sondernutzungsrechtliche Verstöße; Rückmeldung KVR
+- TOP .10.: Bürgeranliegen: Verschmutzung Paul-Heyse-Unterführung und Grünflächen rund um die Wiesn; Rückmeldung Baureferat
+- TOP .11.: Bürgeranliegen: Überprüfung der Wartezeiten an Lichtzeichenanlagen; Rückmeldung KVR
+- TOP .12.: Partyszene am Gärtnerplatz: Anschreiben des KVR an RGU und Baureferat
+- TOP .13.: Änderung der Straßenreinigungssatzung - Erhöhung der Anzahl der Mülleimer im Innenstadtbereich; Beschluss Vollversammlung Stadtrat vom 06.10.2010
+- TOP .1.: Bürgeranliegen: Beschwerde über zunehmende Verschmutzung während der Wiesn und Erstattung zusätzlichen Reinigungsaufwands für das Anwesen St.-Pauls-Platz 1
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Aufhebung der Sperrzeit: Hackerbrücke 4
+- TOP .2.: Veranstaltungen
