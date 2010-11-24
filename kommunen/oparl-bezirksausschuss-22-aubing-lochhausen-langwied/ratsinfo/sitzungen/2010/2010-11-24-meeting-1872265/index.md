@@ -1,0 +1,100 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-11-24T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1872265
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1872265
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.2: Genehmigung der Tagesordnung
+- TOP 1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.1.1.: Baumfällung auf Anforderung: - Kurt-Floericke-Str. 35 - Kurt-Floericke-Str. 49 - Sponeckplatz 5 b - Neideckstr. 69 - Kurt-Floericke-Str. 41 - Am Loferfeld 14 - Bodenseestr. 244 - Am Lochhauser Hügel 13 - Aubing-Ost-Str. 87 - Kravogelstr. 44 - Hoheneckstr. 43 - Krainacher Str. 9 - Streitbergstr. 82 - Johannes-Tanner-Str. 1
+- TOP 3.1.2.: Baumfällungen zu einem Bauvorhaben: - Am Langwieder Bach 13, gem. Baumbestandsplan Nr. 2010-24335 u. 2010-22962
+- TOP 3.1.3.: Unterrichtung über das Fällen von Gefahrenbäumen, Liste Baureferat vom 24.09.10, 04.10.10, 06.10.10 und 26.10.10
+- TOP 3.1.4.: Ablehnungsbescheid Am Lochhauser Hügel 13, Schr. Planungsreferat vom 03.11.10
+- TOP 3.1.5.: Lichteneckstr. 12 c
+- TOP 3.2: Regsam-Beauftragte
+- TOP 3.4: Jugendbeauftragte
+- TOP 3.6: Migrationsbeauftragte
+- TOP 3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Soziale Stadt Aubing-Neuaubing: Keine Kürzung!
+- TOP 4.2.: Änderung der verkehrlichen Situation an der Eichenauerstr. 204
+- TOP 4.3.: Situierung der geplanten Elektro- und Sportfachmärkte in den südlichen Teil des Gewerbegebietes Freiham
+- TOP 4.4.: Einhaltung der Vorgartensatzung entlang der Bodenseestraße
+- TOP 4.5.: Kauf von Verkehrsschildern aus dem BA-Budget
+- TOP 5: Entscheidungen
+- TOP 5.1.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Förderverein 1000 Jahre Urkunde Aubing e.V. Dokumentation der Ausstellung
+- TOP 5.2.: Gewährung eines Zuschusses aus dem Budget des BA 22, Antragsteller: Wurzelzwerge e.V., Renovierung der Sandkasteneinfassung
+- TOP 5.3.: Vollz. d. Bay. Straßen- und Wegegesetzes im Stadtbezirk 22, hier: Widmung einer Teilstrecke der Harburger Straße (UA Planung)
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.1: Anhörungen / Stellungnahmen (1)
+- TOP 6.1.1.1.: Veranstaltung auf Privatgrund, hier: Christkindlmarkt bei Möbel Höffner ab 26.11.10 an allen 4 Adventswochenenden jeweils Freitag bis Sonntag, Anhörung KVR vom 05.11.10 - Eilentscheidung durch BA-Vorsitzenden -
+- TOP 6.1.2: Unterrichtungen / Bekanntgaben (1)
+- TOP 6.1.2.1.: Verlängerung der Öffnungszeiten der städtischen Freibäder, Antrag BA 2, Schr. Ref. f. Arbeit u. Wirtschaft vom 05.10.10
+- TOP 6.1.2.2.: Veranstaltungen / Kooperationen November 2010, Schr. Kulturreferat vom 03.11.10
+- TOP 6.2: UA Budget
+- TOP 6.2.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Siedlergemeinschaft Aubing Ost e.V.
+- TOP 6.3: UA Freiham
+- TOP 6.3.1: Anhörungen / Stellungnahmen (2)
+- TOP 6.3.2: Unterrichtungen / Bekanntgaben (2)
+- TOP 6.3.2.1.: Genehmigungsverfahren für die Errichtung und den Betrieb eines Heizkraftwerkes auf Grundstück Fl.Nr. 3506/8 und 3508/7 der Gemarkung Aubing, Bodenseestr. 351 (Heizkraftwerk Freiham), Schr. Reg. v. Oberbayern vom 21.09.10
+- TOP 6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.4.1: Anhörungen / Stellungnahmen (3)
+- TOP 6.4.1.1.: Weißensteinstr. 2, Gemarkung: Aubing, Fl.Nr. 1385/12, Neubau 3er Reihenhäuser und eines Doppelhauses mit Garagen, Anhörung Planungsreferat vom 15.10.10
+- TOP 6.4.1.2.: Erinnerungsverfahren, Sanierung Wichnantstraße und Erlbachwiesenweg, Anhörung Baureferat vom 13.10.10
+- TOP 6.4.1.4.: Bergsonstr. 148, Gemarkung: Aubing, Fl.Nr. 2313/21, Neubau eines Vierfamilienhauses mit Garagen und Stellplätzen, Anhörung Planungsreferat vom 19.10.10
+- TOP 6.4.2: Unterrichtungen / Bekanntgaben (3)
+- TOP 6.4.2.1.: Fahrrad- und Fußgängersituation im Kreuzungsbereich Limes- /Bodenseestraße, Schr. KVR vom 19.10.10 Verbesserungen an der Kreuzung Bodensee- / Limesstraße: Änderung der Ampelschaltung, Einrichtung eines Fußgängerüberwegs und Überprüfung der Fahrbahn- und Rinnsteinsituation an der Unterführung, Schr. KVR vom 02.11.10
+- TOP 6.4.2.2.: Baufälle im 22. Stadtbezirk (v. 04.10.-10.10.10, v. 11.10.-17.10.10, v. 18.10.-24.10.10, v. 25.10.-31.10., v. 01.11.-07.11.10) Schr. Planungsreferat vom 12.10.10, 18.10.10, 26.10.10, 02.11.10, 08.11.10
+- TOP 6.4.2.3.: Baumaßnahmen der Stadtwerke, Fernwärmeprojekt Erschließungsgebiet Westkreuz, Bahnpressung Am Krautgarten, Schr. SWM vom 11.10.10
+- TOP 6.4.2.4.: Baumaßnahmen der Stadtwerke, Stichtag: 11.10.10, 18.10.10, 25.10.10, 03.11.10, 08.11.10
+- TOP 6.4.2.5.: Planfeststellung nach § 18 AEG; 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 3 neu München-Ost, Bereich westliches Isarufer bis östlich S-Bahnhof Leuchtenbergring mit Haltepunkt Ostbahnhof (tief), Schr. Planungsreferat vom 12.10.10
+- TOP 6.4.2.6.: Wohnbebauung nördlich der Kastelburgstraße, Schr. Planungsreferat vom 12.10.10
+- TOP 6.4.2.7.: Verbindungsspange Kronwinkler- und Bergsonstraße, Beginn Bauarbeiten am 18.10. - 30.11.10, Schr. Baureferat vom 14.10.10
+- TOP 6.4.2.8.: Bescheid zur Ausnahmezulassung bei Betrieb von Müllsammelfahrzeugen, Schr. Ref. f. Gesundheit u. Umwelt vom 26.10.10
+- TOP 6.4.2.9.: Baumaßnahmen der SWM, Stromprojekt Stockacher Straße, Schr. SWM vom 25.10.10
+- TOP 6.4.2.10.: Baumaßnahmen der SWM, Fernwärmeprojekt Erschließungsgebiet Westkreuz, Radolfzeller Straße, Aubinger Straße, Reichenaustraße, 3. Teilabschnitt, Schr. SWM vom 29.10.10
+- TOP 6.4.2.11.: Planungsstand der Lärmsanierung München Lochhausen und München Langwied, Schr. Planungsreferat vom 02.11.10
+- TOP 6.4.2.12.: Vollz. d. Wassergesetze; beschränkte wasserrechtliche Erlaubnis für das Vorhaben: Kneippbecken am Lohwiesengraben östlich der Altostraße, Bescheid des Ref. f. Gesundheit u. Umwelt am 02.11.10
+- TOP 6.4.2.13.: Baumaßnahmen der Stadtwerke, Fernwärmeprojekt Erschließungsgebiet Westkreuz, Friedrichshafener Straße, Schr. SWM vom 04.11.10
+- TOP 7.1.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011-2015, Anhörung Stadtkämmerei vom 20.09.10 (vertagt aus 09/10)
+- TOP 7.2.: Keine weiteren Neonazi-Aufmärsche, Ziff. 1 Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse, Anhörung Direktorium vom 10.11.10
+- TOP 7.3.: Antrag auf Durchführung eines Feuerwerkes Am Gleisdreieck 15 (Metro) am 29.11.10, Anhörung KVR vom 15.11.10 (Eilentscheidung BA-Vorsitzender)
+- TOP 7.4.: Walter-Brecht-Str. 2, Gemarkung: Pasing, Fl.Nr. 349/5, Nutzungsänderung mit geringfügigem Umbau eines Wohn-/ Geschäftshauses in eine sozialpädagogische Tagesstätte (für Kinder ab Schuleintritt bis 14 Jahre), Anhörung Planungsreferat vom 11.11.10
+- TOP 8.1.: Europe Direct Informationen 07/10, Sonderausgabe 08/10 Schr. Ref. f. Arbeit u. Wirtschaft vom 13.10.10, 04.11.10
+- TOP 8.2.: Wirtschafts-Info 10/2010, Schr. Ref. f. Arbeit u. Wirtschaft vom 29.10.10
+- TOP 8.3.: Neuerrichtung Gaststättenbetrieb, hier: Bienenkorb, Ausschank von alkoholischen und alkoholfreien Getränken in einem Bordell, Lochhausener Str. 106, Schr. KVR vom 04.11.10
+- TOP 8.4.: Ersthelfer an den städtischen Friedhöfen, Schr. Friedhofsverwaltung vom 02.11.10
+- TOP 8.5.: Ablehnende Haltung des BA 22 gegenüber Feuerwerken, hier: Feuerwerk am 13.11.10, Kreuzkapellenstr. 89, Schr. KVR vom 16.11.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Bekanntgabe in der Sitzung der Vollversammlung vom 06.10.10: Perspektive München, Münchner Stadtteilstudie 2009
+- TOP 10.2.: Hinweis/ Ergänzung zum Beschluss der Vollversammlung vom 06.10.10: Planfeststellung nach § 18 AEG für das Vorhaben 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 3 neu München-Ost, Bereich westliches Isarufer bis östlich Leuchtenbergring mit Haltepunkt Ostbahnhof (tief) (UA Planung)
+- TOP 10.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: - Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, des Amtes für Wohnen und Migration, der Zentrale, des Amtes für Soziale Sicherung
+- TOP 10.4.: Beschluss des Gesundheitsausschusses vom 18.11.10: Aktualisierung der Münchner Sucht- und Drogenpolitik
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10: - Verzicht auf den Neubau der Staatsstraße 2063 (UA Planung) - Stadtsanierung in München, Sicherung der Städtebauförderung (UA Planung) - Bekanntgabe: Bevölkerungsprognose 2009-2030 der LH München - Pendlerverkehr verlagern: ÖV-Angebote verbessern statt Autos aussperren - Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen - Bekanntgabe: Bericht zur Wohnungssituation in München 2008-2009 (UA Soziales) - Ensembles ehemalige Dorfkerne in Sinne des Bayer. Denkmalschutzgesetzes (UA Planung, UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Optimierter Regiebetrieb Kindertagesstätten München - fehlende Stadtbezirksorientierung, Schr. BA 15 vom 14.10.10 (UA Soziales)
+- TOP 11.2.: Einladung "Das Schulreferat trifft die BA's" am 24.11.10 um 16.00 Uhr im Schulreferat, Bayerstr. 28, Zi. 5.074
+- TOP 11.3.: Einladung zur Infoveranstaltung für die BA's am 29.11.10 von 18.00 - 20.30 Uhr (kleiner Imbiss ab 17.30 Uhr) Sozialreferat, Orleansplatz 11, Raum 1082, 1. Stock
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 15.12.2010 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 7: Anhörungen / Stellungnahmen (4)
+- TOP 8: Unterrichtungen / Bekanntgaben (4)
+- TOP 3.1: Baumschutzbeauftragte
+- TOP 3.3: Kinderbeauftragte
+- TOP 3.5: Beauftragte für das Jubiläumsjahr 2010
