@@ -1,0 +1,6 @@
+# TOP 3: Genehmigung der Niederschrift über die gemeinsame Sitzung des Kulturausschusses und Ausschusses für Wirtschaftsförderung, Tourismus und Liegenschaften am 24.06.2010
+
+- Sitzung: Ausschuss für Wirtschaftsförderung, Tourismus und Liegenschaften (2010-11-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/166101
