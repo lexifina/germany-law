@@ -1,0 +1,97 @@
+# 45. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-11-25T16:30:00+01:00
+- Ende: 2010-11-25T22:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2605
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2605
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100844
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-46 und VI-47 - beantwortet
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl eines Bürgerdeputierten für den Ausschuss für Sport - gewählt
+- TOP 8.2: Wahl einer stellvertretenden Bürgerdeputierten für den Ausschuss für Sport - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans 9-35a nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans 9-35a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Friedrichshagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sitzungsterminplan 2011 / VI. Wahlperiode der BVV Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Bezirkshaushaltsrechnung 2009 - überwiesen
+- TOP 11.4: Änderung der Zusammensetzung und Stärke der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Treptow-Köln e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Baubeiräte - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Überlassung von Räumlichkeiten an Parteien - vertagt
+- TOP 12.4: Bezirkshaushaltsrechnung 2008 - vertagt
+- TOP 12.5: Plastiken, Denkmäler und Brunnen mit Bildern ins Internet - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Leitlinien für die Förderung des Bürgerschaftlichen Engagements des Bezirksamtes Treptow-Köpenick von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Transparenz, Beschäftigtenvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Beschlussfassung hinsichtlich der rechtlichen Zulassung eines Bürgerbegehrens zur Erhaltung der Sportanlage Birkenwäldchen - vertagt
+- TOP 12.9: Schulschwimmen am Evangelischen Gymnasium ermöglichen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.10: Einrichtung eines Abstellplatzes für Mietfahrräder am S-Bahnhof Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Mietklauseln gegen rechtsextremes Gewerbe - vertagt
+- TOP 12.12: Wassertourismus für die Altstadt Köpenick - vertagt
+- TOP 12.13: Vorfahrt Straßenbahn Haltestelle Bahnhof Köpenick vor dem Forum - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Radverkehrsanlagen in der Kiefholzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Bebauungsplan XV-29 c („Verkehrsflächen östl. Schönefelder Chaussee“) hier: Reduzierung und Teilung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.16: Verbesserung der Verkehrssituation im Berlewitzweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Musikschule am Standort Friedrichshagener Straße dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-52 ("Adlergestell, nordwestliche Ecke der Dörpfeldstraße") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Adlershof hier: - Aufstellungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Einstellung des Bebauungsplanverfahrens XVI-50 ("Pestalozzistraße") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick hier: Einstellungsbeschluss - überwiesen
+- TOP 13.3: Bebauungsplan XV-64ba ("Bärenquell") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Niederschöneweide hier: Änderungsbeschluss/Einleitungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: Bebauungsplan XV-64bb ("Fachmärkte Schnellerstraße, Brückenstraße") Ortsteil Niederschöneweide hier: - Änderungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.5: Bebauungsplan 9-11 ("Joachimstraße") hier: - Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - überwiesen
+- TOP 13.6: Aufhebung der Verfügungsbeschränkung im Kapitel 4040, Titel 42501 - im Ältestenrat zurückgezogen
+- TOP 13.7: Bericht über die Tätigkeit des Ausschusses für Eingaben und Beschwerden im Zeitraum 20.11.2008 – 16.09.2010 - vertagt
+- TOP 13.8: Umbenennung der im Ortsteil Plänterwald gelegenen Pappelallee in "Erwin-Bennewitz-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.9: Änderung der Geschäftsordnung des Bezirksamtes hier: Bildung des Stadtentwicklungsamtes zum 01.01.2011 - überwiesen
+- TOP 13.10: Benennung der im Ortsteil Rahnsdorf gelegenen Nummernstraßen Straße 13a in "Paul-Rahn-Weg" Straße 567a in "Richard-Hilliges-Weg" Fußweg 552, öffentlicher Teil in "Richard-Hörnke-Weg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.11: Fortschreibung der Arbeitsanweisung des Bezirksamtes Treptow-Köpenick von Berlin zum Umgang der Bezirksverwaltung mit Zuwendungen Privater - AZP - überwiesen
+- TOP 13.12: Im I. Halbjahr 2010 zugelassene über- und außerplanmäßigen Ausgaben - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Sanierung der Straßenbahnstrecke 68 - vertagt
+- TOP 14.2: Sicherung der Arbeitsfähigkeit von "PRAXIS-NAH e.V." - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: BBI – Nachtflugverbot und Lärmschutz - vertagt
+- TOP 14.4: Ambulante Facharztversorgung sicherstellen - überwiesen
+- TOP 14.5: Pachtvertrag Wagenburg Lohmühle - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Bestellung eines/r Ombudsmannes/-frau beim JobCenter Treptow-Köpenick - vertagt
+- TOP 14.7: Regionalbahnhof Köpenick - vertagt
+- TOP 14.8: LKW-Verkehr in Grünau - überwiesen
+- TOP 14.9: BBI – Erstellung eines Gutachtens zu Anflugverfahren aus Betriebsrichtung 07 - überwiesen
+- TOP 14.10: Fahrradabstellanlagen in Alt-Treptow - überwiesen
+- TOP 14.11: Gegen den geplanten Personalabbau im JobCenter Treptow-Köpenick - vertagt
+- TOP 14.12: Grenzsteg als authentisches Geschichtszeugnis erhalten - überwiesen
+- TOP 14.13: Umbau S-Bahnhof Schöneweide - vertagt
+- TOP 14.14: Wiederbegrünung der Bahnstrecke Adlershof-Baumschulenweg - überwiesen
+- TOP 14.15: Kontaktbereichsbeamter Zittlau muss in Müggelheim bleiben - vertagt
+- TOP 14.16: Fahrradstraße in der Kiefholzstraße - überwiesen
+- TOP 14.17: Zusammensetzung des Fluglärmbeirates beim Bezirksamt - vertagt
+- TOP 14.18: Tempo 30 auf der Wendenschloßstraße zwischen Müggelheimer Straße und Salvador-Allende-Straße - vertagt
+- TOP 14.19: Betreuungsvertrag Strandbad mit Bürger für Rahnsdorf e.V. fortführen - überwiesen
+- TOP 14.20: Parkverbot Ortolfstraße - überwiesen
+- TOP 14.21: Abfahrt von Fernbuslinien im Bezirk Treptow-Köpenick - überwiesen
+- TOP 14.22: Treptow-Köpenicker Interessen im laufenden B-Plan-Verfahren 11-47 wahren - überwiesen
+- TOP 14.23: Künstlerische Freiheit gewährleisten – Zensur vermeiden - vertagt
+- TOP 14.24: Wiederaufstellung der Stahlplastik „Fliegender Amboß“ (Windspiel) - überwiesen
+- TOP 14.25: Einhausung der Sandsteinurne der Marianne - vertagt
+- TOP 14.26: Amokdrohungen und zielgerichtete Gewalt an Schulen – Erkennen und Verhindern - überwiesen
+- TOP 14.27: Lärmstudie zu den gesundheitlichen Auswirkungen des künftigen Berliner Flughafens BBI - überwiesen
+- TOP 14.28: Ausbau Wendenschloßstraße und Lärmminderungsplanung - vertagt
+- TOP 14.29: Kulturangebote für finanziell Schwache erweitern - überwiesen
+- TOP 14.30: Einbeziehung von Bürgerinitiativen gegen Fluglärm in Treptow-Köpenick in die Arbeit der Fluglärmkommission für den Verkehrsflughafen Berlin-Schönefeld - vertagt
+- TOP 14.31: Kurzzeitparken vor Ärztehaus Albert-Einstein-Straße 2-4 - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Städtepartnerschaften des Bezirks - vertagt
