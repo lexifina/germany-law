@@ -1,0 +1,7 @@
+# TOP 2: 6. Änderung der Entschädigungssatzung
+
+- Sitzung: Gemeindevertretung (51. Sitzung) (2010-11-25)
+- Körperschaft: Gemeinde Lohfelden
+- Öffentlich: ja
+- OParl: https://lohfelden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/9201
+- Ergebnis: Einstimmig.
