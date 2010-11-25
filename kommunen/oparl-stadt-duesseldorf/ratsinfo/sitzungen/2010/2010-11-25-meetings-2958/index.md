@@ -1,0 +1,58 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-11-25T15:00:00+01:00
+- Ende: 2010-11-25T17:45:00+01:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2958
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2958
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149924.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149924.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00149924.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Anfrage der Ratsfraktionen von CDU und FDP zum Thema “Zusammenarbeit mit dem Kompetenzzentrum Kultu - beantwortet
+- TOP 5: Anfrage der SPD-Fraktion: Sicherung des Stadtarchivs vor weiteren Schäden - beantwortet
+- TOP 6: Antrag der Linksfraktion: Kultur für alle; Einrichtung einer Artothek in Düsseldorf - mehrheitlich abgelehnt
+- TOP 7: Antrag der SPD-Fraktion: Prüfung der Fördermöglichkeiten für die freie Theaterszene in Düsseldorf - mehrheitlich abgelehnt
+- TOP 8: Antrag der Fraktionen von CDU und FDP: Erscheinungsbild der Gastronomie auf der Tonhallenterrasse - mehrheitlich beschlossen
+- TOP 8.1: Antrag des Jugendrates: Ausstellung "Die Mauer - Eine Grenze durch Deutschland" - einstimmig beschlossen
+- TOP 8.2: Masterplan Energieeffiziente Straßenbeleuchtung 2010 – 2015 - Stellungsnahme der Unteren Denkmalbeh - passieren lassen
+- TOP 9: Machbarkeitsstudie tanzhaus nrw (Bericht) - zur Kenntnis genommen
+- TOP 10: Ausstellungsprogramm 1. Halbjahr 2011, Heinrich-Heine-Institut - einstimmig beschlossen
+- TOP 11: Ausstellungsprogramm 1. Halbjahr 2011, Theatermuseum - einstimmig beschlossen
+- TOP 12: Ausstellungsprogramm 1. Halbjahr 2011, Stadtmuseum - einstimmig beschlossen
+- TOP 13: Ausstellungsprogramm 1. Halbjahr 2011, Goethe-Museum - einstimmig beschlossen
+- TOP 14: Ausstellungsprogramm 1. Halbjahr 2011, Filmmuseum - einstimmig beschlossen
+- TOP 15: Ausstellungsprogramm 1. Halbjahr 2011, Hetjens-Museum - einstimmig beschlossen
+- TOP 16: Veranstaltungsprogramm 1. Halbjahr 2011Ausstellungsprogramm 1. Halbjahr 2011, Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 17: Ausstellungsprogramm 1. Halbjahr 2011, Kunstraum - einstimmig beschlossen
+- TOP 18: Sonderzuschuss für die Ausstellung Hanns und Lya Kralik - mehrheitlich abgelehnt
+- TOP 19: Jahresbericht 2009 für die Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 20: Jahresbericht 2009 des Heinrich-Heine-Instituts - einstimmig beschlossen
+- TOP 21: Befragung von Bands zur Proberaumsituation in Düsseldorf - einstimmig beschlossen
+- TOP 22: Beirat Literatur (Sitzungen am 16.06. und 30.08.2010) - zur Kenntnis genommen
+- TOP 23: Beirat Literatur (Umfrage November 2010) - einstimmig beschlossen
+- TOP 24: Beirat Musik (Sitzung am 23.11.2010) - einstimmig beschlossen
+- TOP 25: BeiratTanz und Theater (Sitzung am 08.11.2010) - einstimmig beschlossen
+- TOP 26: Jüdische Kulturtage in NRW - einstimmig beschlossen
+- TOP 27: Zuschuss AFORK-Ausstellung in Moskau - einstimmig beschlossen
+- TOP 28: Aufstellung von Info-Stelen vor dem Heine-Haus und der Robert-Schumann-Gedenkstätte - einstimmig beschlossen
+- TOP 29: 15. Ordnung zur Änderung der Benutzungsordnung der Stadtbüchereien Düsseldorf - mehrheitlich beschlossen
+- TOP 30: Sonderzuschuss Robert-Schumann-Gesellschaft e.V. - einstimmig beschlossen
+- TOP 31: Sonderzuschuss Filmwerkstatt - einstimmig beschlossen
+- TOP 32: Haushaltsberatung 2011 -Entwurf des Doppischen Produkthaushalts 2011, bezirksbezogene Ansätze 2011 - mehrheitlich beschlossen
+- TOP 32.1: Antrag der Linksfraktion zum Haushalt: Erhöhung der Mittel zum Ankauf von Werken zeitgenössischer Kü - mehrheitlich abgelehnt
+- TOP 32.2: Antrag der Linksfraktion zum Haushalt: Sonderfond zur Förderung der freien Düsseldorfer Kunst- und K - mehrheitlich abgelehnt
+- TOP 32.3: Antrag der Linksfraktion zum Haushalt: Kostenfreie Nutzung der Stadtbüchereien für EinwohnerInnen - mehrheitlich abgelehnt
+- TOP 32.4: Antrag der SPD-Fraktion zum Etatentwurf 2011: Open Source Festival - mehrheitlich abgelehnt
+- TOP 32.5: Antrag der SPD-Fraktion zum Etatentwurf 2011: Onomato Künstlerverein - mehrheitlich abgelehnt
+- TOP 32.6: Antrag der Fraktion Bündnis 90/Die Grünen zum Etatentwurf 2011: Beiräte und Förderpreise - mehrheitlich abgelehnt
+- TOP 32.7: Antrag der Fraktion Bündnis 90/Die Grünen zum Etatentwurf 2011: Zwischennutzungsagentur - mehrheitlich abgelehnt
