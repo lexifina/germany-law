@@ -1,0 +1,6 @@
+# TOP 5: Berichte des Vorstands und der Mitglieder
+
+- Sitzung: 12. Sitzung (2010-11-29)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/101918
