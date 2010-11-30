@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-11-30T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869143
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869143
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Bebauungsplan Nr. 1971 ? ehemaliges Bahnbetriebswerk 4 ? Lebendige Bahntradition und städtebauliche Moderne in Berg am Laim verbinden - <div></div>
+- TOP 3.1.2.1.: Querungsmöglichkeiten im Bereich Ampfingstraße / Innsbrucker Ring ?Deckel?
+- TOP 3.1.2.2.: Wegebeleuchtung an der Grünanlage zwischen Michaeliburgstraße und St.-Veit-Straße - <div></div>
+- TOP 3.1.3.1.: Lärmminderungsplan für München
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Grundschule mit Hort und Kindergarten in der Neumarkter Straße 43
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Keine weiteren Neonazi-Aufmärsche Ziff. 1: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschusssatzung
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Projektteam Zirkus der Ludwig-Thoma-Realschule Zirkusprojekt im Februar 2011 - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Projektgruppe "Leseförderung" der städt. Ludwig-Thoma-Realschule Lesung am 07.12.2010 - <div></div>
+- TOP 3.5.4.: Zuschussantrag FFW Michaeliburg
+- TOP 3.6.1.: Inzeller Weg 4, Fehwiesenstr. 118
+- TOP 3.6.2.: Großvenedigerstr. 23
+- TOP 3.6.3.: Mutschellestr. 18
+- TOP 3.6.4.: Hansjakobstr. 27
+- TOP 3.6.5.: Baumkirchner Str. 33
+- TOP 3.6.6.: Hochriesstr. 3
+- TOP 3.6.7.: Neumarkter Str. 74
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Bevölkerungsprognose 2009 - 2030 der Landeshauptstadt München
+- TOP 4.1.1.3.: Bericht zur Wohnungssituation in München 2008-2009 - Bekanntgabe -
+- TOP 4.1.1.4.: Stadtsanierung in München - Sicherung der Städtebauförderung
+- TOP 4.1.2.1.: Verlängerung der Straßenbahnlinie 25 über den Vogelweideplatz hinaus bis zur S-Bahn-Station Berg am Laim
+- TOP 4.1.2.2.: 2. S-Bahn-Stammstrecke München ? Stellungnahme der Landeshauptstadt München
+- TOP 4.1.2.3.: Pendlerverkehre verlagern: ÖV-Angebote verbessern statt Autos aussperren
+- TOP 4.1.2.4.: Sperrung der Bahn-Unterführung Berg am Laim für Radfahrer
+- TOP 4.1.3.1.: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen
+- TOP 4.2.1.: Christkindlmarkt des Bürgerkreises am 05.12.2010 in der Baumkirchner Straße
+- TOP 4.2.2.: Stellungnahme des BA 1 zum Kulturstrand für München
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Anerkennung von Plätzen in der Kindertageseinrichtung Friedenstr. 22 b
+- TOP 4.4.2.: Präventive Hausbesuche für ältere Münchnerinnen und Münchner
+- TOP 4.4.3.: Aktualisierung der Münchner Sucht- und Drogenpolitik
+- TOP 4.5.1.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 4.5.2.: Termine des Bezirksausschuss 14 im Jahre 2011
+- TOP 4.6.1.: Anzinger Str. 41, Friedenstr./Haager Str., Hachinger-Bach-Str. 25
+- TOP 4.6.2.: Trainsjochstr. 13
+- TOP 4.6.3.: St.-Veit-Str. 81
+- TOP 4.6.4.: Weißpfennigweg 19
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Bereich Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Bereich Baumschutz (2)
