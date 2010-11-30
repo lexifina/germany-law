@@ -1,0 +1,55 @@
+# Ausschuss für Schule und Weiterbildung
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-11-30T16:00:00+01:00
+- Ende: 2010-11-30T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-32
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWUa819p9m_ONJHffXu2GoM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3763
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Schule und Weiterbildung) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZccSL0LpmLEL59MuLLfj-DhRq-h0AniVo_z6JjnOpVRY/Oeffentliche_Niederschrift_Ausschuss_fuer_Schule_und_Weiterbildung_30.11.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 7. Sitzung des Ausschusses für Schule und Weiterbildung am 21.09.2010
+- TOP 3: Protokoll über die 8. Sitzung des Ausschusses für Schule und Weiterbildung am 30.11.2010
+- TOP 4: Vorstellung des Projekts "5 plus"
+- TOP 5: Schullandheim Westersburg e. V.
+- TOP 6: Vorstellung des Projekts "Werteerziehung für ein respektvolles Miteinander"
+- TOP 7: Sozial-Curriculum an der August-Dicke-Schule
+- TOP 8: Schulentwicklungsplanung
+- TOP 9: Schulentwicklungsplanung
+- TOP 10: Schulentwicklungsplanung
+- TOP 11: Mildred-Scheel-Berufskolleg
+- TOP 12: Einrichtung Integrativer Lerngruppen an Schulen der Sekundarstufe I
+- TOP 13: Prävention in Solingen
+- TOP 14: Prävention in Solingen
+- TOP 15: Zusammenarbeit Jugendhilfe/Schule
+- TOP 16: Projekt: "Optimierung der Instandhaltung an Solinger Schulen"
+- TOP 17: Auswirkungen des "doppelten" Abiturjahrgangs 2012/13
+- TOP 18: Verfahren an Solinger Realschulen bei Wiederholung der 10. Klasse zur Erlangung des Mittleren Bildungsabschlusses
+- TOP 19: III. Quartalsbericht 2010 (Ergebnisplan) inklusive HSK-Controlling
+- TOP 20: Jahresabschluss 2009 der Bergischen Volkshochschule - Zweckverband der Städte Solingen - Wuppertal
+- TOP 21: Schulneulinge zum Schuljahr 2010/2011
+- TOP 22: Schulbudget
+- TOP 23: Integrationskurse für Migranten
+- TOP 24: Hallennutzungsgebühren für Schulsport-AGs in Kooperation mit Vereinen
+- TOP 25: Querungshilfe auf der Solinger Straße (L 407) im Bereich des ehemaligen Rathauses
+- TOP 26: Einrichtung neuer Bildungsgänge am Friedrich-List-Berufskolleg
+- TOP 27: Projekt „Konzept Turn- und Sporthallen“
+- TOP 28: Sitzungstermine 2011 des Ausschusses für Schule und Weiterbildung
+- TOP 29: Anmeldeverfahren zu den weiterführenden Schulen für das Schuljahr 2011/12
+- TOP 30: Ausbau von Kindertagesstätten für U 3- Betreuung
+- TOP 31: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 3. Quartal 2010
+- TOP 32: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 7. Sitzung des Ausschusses für Schule und Weiterbildung am 21.09.2010
+- TOP 3: Besetzung der Stelle der Schulleitung am Technischen Berufskolleg
+- TOP 4: Anfrage der Stadtschulpflegschaft vom 10.11.2010
+- TOP 5: Technisches Berufskolleg Solingen
+- TOP 6: Verschiedenes
