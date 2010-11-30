@@ -1,0 +1,51 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-11-30T16:00:00+01:00
+- Ende: 2010-11-30T19:28:00+01:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3529
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3529
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00150692.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00150692.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00150692.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift 8/2010 - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen - zur Kenntnis genommen
+- TOP 4: Wasserförderung Wittlaer - zur Kenntnis genommen
+- TOP 5: Taktiler Stadtplan Kaiserswerth - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Angermunder Straße / Im Großen Winkel (Kreisverkehr) - zur Kenntnis genommen
+- TOP 13: Max-Clarenbach-Weg - zur Kenntnis genommen
+- TOP 14: Lantz'scher Park, Maßnahmen im Umfeld der Kapelle - zur Kenntnis genommen
+- TOP 15: Kanalbaumaßnahmen Kalkum - zur Kenntnis genommen
+- TOP 16: Deikerstraße - Geh- und Radweg - zur Kenntnis genommen
+- TOP 17: Aquazoo - Erweiterungsbau und Sanierungsmaßnahmen - zur Kenntnis genommen
+- TOP 18: Golfpark Angermund/Kalkum - zur Kenntnis genommen
+- TOP 19: Radweg Klemensplatz - Roteinschlämmung - zur Kenntnis genommen
+- TOP 20: Zementwerk Krefeld - zur Kenntnis genommen
+- TOP 21: Weltkulturerbe "Historischer Stadtkern Kaiserswerth" - zur Kenntnis genommen
+- TOP 22: Kohlekraftwerk und Zementwerk in Krefeld - zur Kenntnis genommen
+- TOP 23: Grundwasser Angermund - zur Kenntnis genommen
+- TOP 24: Ausbau Angermunder Straße zwischen den Kreisverkehren - zur Kenntnis genommen
+- TOP 25: Wasserwerk Am Staad - zur Kenntnis genommen
+- TOP 26: Hannes-Esser-Platz - Einrichtung eines Wochenmarkts - zur Kenntnis genommen
+- TOP 27: Bauklotz - Spielplatz im Nordpark - zur Kenntnis genommen
+- TOP 28: Fahrradboxen - zur Kenntnis genommen
+- TOP 29: P&R-Platz Wittlaer - zur Kenntnis genommen
+- TOP 30: Fußweg vom Bilkrather Weg zur Angermunder Straße - zur Kenntnis genommen
+- TOP 31: Umrüstung Straßenbeleuchtung in Lohausen - zur Kenntnis genommen
+- TOP 32: Mitteilungen 30.11.2010 - zur Kenntnis genommen
+- TOP 33: Verschiedenes - zur Kenntnis genommen
+- TOP 34: Tagesordnungspunkt (betrifft Privatpersonen)
