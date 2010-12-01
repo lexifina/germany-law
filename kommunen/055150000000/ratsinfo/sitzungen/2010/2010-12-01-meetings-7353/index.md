@@ -1,0 +1,66 @@
+# 9. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-12-01T17:07:00+01:00
+- Ende: 2010-12-01T22:03:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7353
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7353
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00303197.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Beteiligungsmanagement/-controlling
+- TOP 3.1: Vorabgewinnausschüttung 2010 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 3.2: Messe und Congress Centrum Halle Münsterland GmbH: Abschluss eines Managementkontraktes (MMK) für die Jahre 2011 bis 2015 - einstimmig beschlossen
+- TOP 3.3: Managementkontrakt mit der Westfälische Bauindustrie GmbH Münster (WBI) - einstimmig beschlossen
+- TOP 3.4: Managementkontrakt mit der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 3.5: Finanzierung Elefantenpark - mehrheitlich geändert beschlossen
+- TOP 3.6: Abfallwirtschaftsbetriebe Münster - einstimmig beschlossen
+- TOP 3.7: Wirtschaftsplan 2011 für Münster Marketing - einstimmig geändert beschlossen
+- TOP 3.8: Wirtschaftsplan 2011 der citeq - einstimmig beschlossen
+- TOP 3.9: Änderung der Gesellschaftsverträge der Wirtschaftsförderung Münster GmbH und ihrer Beteiligungsunternehmen (Technologieförderung Münster GmbH, Center of Nanotechnologie GmbH, - einstimmig beschlossen
+- TOP 3.10: Änderung des Gesellschaftsvertrages der Institut für vergleichende Städtegeschichte - IStG - gGmbH (IStG) - einstimmig beschlossen
+- TOP 3.11: Änderung des Gesellschaftsvertrages der smartOPTIMO GmbH + Co. KG - einstimmig beschlossen
+- TOP 3.12: Umstrukturierung der Westfälischen Landeseisenbahn (WLE) - mehrheitlich beschlossen
+- TOP 4: Steuern, Gebühren und Entgelte
+- TOP 4.1: Erlass einer Hebesatzsatzung - Erhöhung der Gewerbe- und Grundsteuerhebesätze - - mehrheitlich geändert beschlossen
+- TOP 4.2: Dritte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 4.3: Änderung der Hundesteuersatzung der Stadt Münster - einstimmig geändert beschlossen
+- TOP 4.4: Einführung einer Erstwohnsitzinitiative und Zweitwohnungssteuer für die Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 4.5: Änderung der Gebührenordnung für Parkuhren und Parkscheinautomaten im Gebiet der Stdt Münter - einstimmig beschlossen
+- TOP 4.6: Abfallgebühren 2011 - einstimmig beschlossen
+- TOP 4.7: Straßenreinigungsgebühren 2011 - einstimmig beschlossen
+- TOP 4.8: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2011 - einstimmig beschlossen
+- TOP 4.9: Neufassung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten (Send und Kirmessen) in der Stadt Münster - einstimmig beschlossen
+- TOP 4.10: Änderung der Gebührensatzung der Stadt Münster für die Westfälische Schule für Musik - mehrheitlich geändert beschlossen
+- TOP 4.11: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 4.12: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 4.13: Änderung der Satzung für die Benutzung der Friedhöfe der Stadt Münster - einstimmig geändert beschlossen
+- TOP 5: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 5.1: Entwicklung Grevener Straße / Steinfurter Straße - mehrheitlich beschlossen
+- TOP 5.2: Rahmenkonzept zur Schulentwicklungsplanung - ohne Beschlussfassung geschoben
+- TOP 5.3: Schließung der Lehranstalt für pharmazeutisch-technische Assistenten/innen zum 31.08.2012 - mehrheitlich geändert beschlossen
+- TOP 5.4: Rahmenkonzept für die Entwicklung und Erweiterung der Bezirkssportanlage Münster-Wolbeck, Brandhoveweg - zur Kenntnis genommen
+- TOP 5.5: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 5.6: Münster-Pass - Einbeziehung der Bädertarife - mehrheitlich geändert beschlossen
+- TOP 5.7: Netzwerk Innenstadt NRW - Verlängerung der Mitgliedschaft der Stadt Münster - einstimmig beschlossen
+- TOP 5.8: Handlungskonzept zur Umsetzung des Klimaschutzkonzeptes 2020 für Münster - mehrheitlich geändert beschlossen
+- TOP 5.9: Anregung §24 GO NRW Aufgabe des Spielplatzes "Pater-Kolbe-Straße" in Amelsbüren - mehrheitlich beschlossen
+- TOP 5.10: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster - mehrheitlich geändert beschlossen
+- TOP 5.11: Satzungen zur Änderung der Festsetzungen des Rezesses der Interessenten der Berdelheide - einstimmig beschlossen
+- TOP 6: Haushaltsplan 2011 sowie Ergebnis- und Finanzplanung bis 2014
+- TOP 6.1: Anträge und Anregungen
+- TOP 6.1.1: Anregungen nach § 24 Gemeindeordnung NRW
+- TOP 6.1.2: Bürgervorschläge mit Zuständigkeit des AFBL
+- TOP 6.1.3: Gesamtliste der Bürgervorschläge
+- TOP 6.1.4: Sonstige Anträge und Einwendungen
+- TOP 6.1.5: Anträge aus der Politik
+- TOP 6.2: Veränderungsblätter/-listen
+- TOP 6.3: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2011 - Ergebnis- und Finanzplanung bis 2014 - Stellenplan der Stadt Münster für das Haushaltsjahr 2011 - mehrheitlich geändert beschlossen
+- TOP 7: Verschiedenes
