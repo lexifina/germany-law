@@ -20,11 +20,11 @@ Inhaltsübersicht
 § 18 | Nachrangige Auswahlkriterien
 § 19 | Auswahl nach einem Dienst aufgrund früheren Zulassungsanspruchs
 § 20 | Verteilung der in der Abiturbestenquote Ausgewählten auf die Studienorte
-§ 21 | Verteilung der nach § 7 Abs. 3 Ausgewählten auf die Studienorte
+§ 21 | Verteilung der nach § 7 Absatz 3 Ausgewählten auf die Studienorte
 § 22 | Teilstudienplätze
 § 23 | Inkrafttreten
-Anlage 1 | In das Verfahren der Zentralstelle einbezogene Studiengänge (zu § 1 Satz 2)
-Anlage 2 | Ermittlung der Durchschnittsnote (zu § 11 Abs. 3 Satz 1)
-Anlage 3 | Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium (zu § 17 Abs. 2 Satz 2)
-Anlage 4 | Zuordnung der Kreise und kreisfreien Städte zu den Studienorten (zu § 21 Abs. 1 Satz 3)
+Anlage 1 | In das zentrale Vergabeverfahren einbezogene Studiengänge (zu § 1 Satz 2)
+Anlage 2 | Ermittlung der Durchschnittsnote (zu § 11 Absatz 3 Satz 1)
+Anlage 3 | Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium (zu § 17 Absatz 2 Satz 2)
+Anlage 4 | Zuordnung der Kreise und kreisfreien Städte zu den Studienorten (zu § 21 Absatz 1 Satz 3)
 Anlage 5 | Ermittlung der Punktzahl der Gesamtqualifikation (zu § 20 Satz 3)

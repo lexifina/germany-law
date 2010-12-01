@@ -1,1 +1,1 @@
-# Verordnung über die zentrale Vergabe von Studienplätzen (Vergabeverordnung ZVS) vom 19. Juni 2008
+# Verordnung über die zentrale Vergabe von Studienplätzen durch die Stiftung für Hochschulzulassung (VergabeVO Stiftung) vom 5. Oktober 2010
