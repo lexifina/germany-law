@@ -1,0 +1,84 @@
+# 38. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2010-12-01T17:30:00+01:00
+- Ende: 2010-12-01T21:45:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2738
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2738
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=42715
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl stellvertretender Bürgerdeputierter - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Grundstücksangelegenheit Sporthalle Eberswalder Straße 10 in 10437 Berlin (OT Prenzlauer Berg) - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Hinweisschilder Schloss Schönhausen - in der BVV abgelehnt
+- TOP 1.11: Verkehrssicherheit in der Dietzgenstraße insbesondere für Fahrradfahrer - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Verkehrsberuhigung und Straßenbäume für die Bewohner im Eschengraben - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Kulturelle Angebote im Zentrum von Alt-Pankow verbessern und attraktiver machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Ordnung und Sicherheit im Bürgerpark Pankow - in der BVV abgelehnt
+- TOP 1.15: Laubabholung in Siedlungsgebieten - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Zebrastreifen und Tempo 30 am Karower Damm - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Buslinie 155 direkt an den S-Bahnhof Schönholz anbinden - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Missbilligung des Bezirksstadtrates Dr. Nelken - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Alternativen für die Initiativen im Eliashof - jetzt! - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Mehrgenerationenpark für Bewegung und Spiel - überwiesen
+- TOP 1.21: Urteil des Oberverwaltungsgerichtes Berlin zum Neubau eines Quer- und Seitengebäudes im Hof Kollwitzstraße 42 - erledigt
+- TOP 1.22: Kulturhaus Weißensee - überwiesen
+- TOP 1.23: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - überwiesen
+- TOP 1.24: Denkzeichen "Euthanasie" in Buch - überwiesen
+- TOP 1.25: Kündigung der Arbeitsräume des MACHmit! Museums rückgängig machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Attraktive Fassadengestaltung im Pankower Ortsteil Buch - überwiesen
+- TOP 1.27: Umstrukturierungssatzung für einen Block im Paracelsusviertel - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Auswirkungen der Kürzung der Städtebauförderung - vertagt
+- TOP 1.29: Das Aufgabengebiet der EU-Beauftragten und die Europakompetenz von Pankow - vertagt
+- TOP 1.30: Checkliste zum Erkennen von Sekten und die Broschüre "Islam und Schule" - vertagt
+- TOP 1.31: Maßnahmen gegen den Schleichverkehr in der Winsstraße - überwiesen
+- TOP 1.32: Parkraumbewirtschaftung im Bötzowviertel einführen - überwiesen
+- TOP 1.33: Geordnete städtebauliche Entwicklung in Blankenburg - überwiesen
+- TOP 1.34: Gepflegtes und erneuertes Straßenbegleitgrün - vertagt
+- TOP 1.35: Liefer- und Ladezonen in der Prenzlauer Allee - überwiesen
+- TOP 1.36: Bedarfe von ehrenamtlichen ÜbungsleiterInnen im Sport prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 1.37: Parkgebühren für ehrenamtliche ÜbungsleiterInnen im Sport prüfen - überwiesen
+- TOP 1.38: Rückbau der Poller in der Pankgrafenstraße - überwiesen
+- TOP 1.39: Seniorengerechte Bibliotheken - Ehrenamtliche Medienboten - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Hartz IV - Verteilung der Eingliederungsmittel - vertagt
+- TOP 2.2: Fortschreibung Sportentwicklungsplan - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Behutsame Entwicklung im Sanierungsgebiet Kollwitzplatz Süd - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Kein Verkehrsinfarkt im Prenzlauer Berg - vertagt
+- TOP 2.5: Unterstützende Maßnahmen gegen illegale Müllentsorgung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Keine Mietverträge in Pankow mit rechtsextremen, antisemitischen und fremdenfeindlichen Organisationen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Das Schiff zur Rettung der Unschuld der Kunst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Bericht über Konjunkturpakete - vertagt
+- TOP 2.10: Spiel- und Nachbarschaftshaus auf dem Hirschhof ermöglichen - vertagt
+- TOP 2.11: Wirtschaftsplan für die einzuführende Parkraumbewirtschaftung - vertagt
+- TOP 2.12: Maßnahmeplan "Bürgerfreundliche Verwaltungssprache" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Bundeshauptstadt der Biodiversität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Optimierung der Busverbindungen nach Blankenfelde und Glienicke - vertagt
+- TOP 2.16: Für einen neuen Flächennutzungsplan - Stärkung des Klimaschutzes und Reduzierung der Bodenneuversiegelung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Internetangebot Bürgerbeteiligung aufbauen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Grundstücksangelegenheit Sportstätte Berliner Allee 127 in 13088 Berlin (OT Weißensee) - vertagt
+- TOP 2.19: Schneebeseitigung Haltestellenbereich BVG - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Leitsystem / Hinweisschilder auf dem Gelände Fröbelstraße 17 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Fortschreibung StEP Verkehr - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Gartendenkmal Hirschhof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Attraktive Gestaltung der Schlossparkmauer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: ICON-Club im Pankower Ortsteil Prenzlauer Berg erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Verfahrensvorgaben zum Bebauungsplan 3-32 für das Grundstück Belforter Straße 5 - 8 / Straßburger Straße 33 - 36 / Metzer Straße 35 - 37 im Bezirk Pankow, Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.26: Konkretisierung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Grundstück: Schönhauser Allee 176, Christinenstraße 18 - 19 (Pfefferberg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Aufstellung einer Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 Baugesetzbuch (BauGB) für die Wohnanlage Belforter Straße 5-8 / Straßburger Straße 33-36 / Metzer Straße 35-37 im Bezirk Pankow, Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.28: Veränderungssperre 3-5/8 im Bezirk Pankow, Ortsteil Heinersdorf, für das Grundstück Prenzlauer Promenade 45, 46 - vertagt
