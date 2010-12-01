@@ -1,0 +1,9 @@
+# Verordnung über den Hochwassernachrichtendienst
+(HNDV)
+Vom 10. Januar 2005
+(GVBl. S. 11)
+BayRS 753-1-8-U
+Verordnung über den Hochwassernachrichtendienst (HNDV) vom 10. Januar 2005 (GVBl. S. 11, BayRS 753-1-8-U), die zuletzt durch Verordnung vom 20. Oktober 2010 (GVBl. S. 730) geändert worden ist
+Änderungen
+1. § 6 V zur Änd. von Verordnungen auf Grund des Projekts „Verwaltung 21“ im Geschäftsbereich des Bayerischen Staatsministeriums für Umwelt, Gesundheit und Verbraucherschutz vom 2.8.2005 (GVBl. S. 330)
+2. § 1 ÄndV vom 20.10.2010 (GVBl. S. 730)

@@ -1,0 +1,1 @@
+Auf Grund des Art. 67 des Bayerischen Wassergesetzes – BayWG – in der Fassung der Bekanntmachung vom 19. Juli 1994 (GVBl S. 822, BayRS 753-1-UG), zuletzt geändert durch § 1 des Gesetzes vom 24. Juli 2003 (GVBl S. 482), erlässt das Bayerische Staatsministerium für Umwelt, Gesundheit und Verbraucherschutz folgende Verordnung:
