@@ -1,0 +1,1 @@
+Auf Grund des Art. 39 Absatz 3 des Bayerischen Wassergesetzes (BayWG) erläßt das Bayerische Staatsministerium des Innern im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen und dem Bayerischen Staatsministerium für Wirtschaft und Verkehr folgende Verordnung:
