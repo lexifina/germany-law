@@ -1,0 +1,54 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-12-02T17:00:00+01:00
+- Ende: 2010-12-02T19:50:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2675
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2675
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00150845.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00150845.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00150845.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Parkpflegewerk Schlosspark Eller - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Am Strasserfeld 4, Ladezone - mehrheitlich beschlossen
+- TOP 8: Zuschüsse der Bezirksvertretung 8 im Jahre 2010 - einstimmig beschlossen
+- TOP 9: Weihnachtsmarkt in Eller - einstimmig beschlossen
+- TOP 10: Rheinbahn - Hauptverwaltung - beantwortet
+- TOP 11: JFE Kuthsweg - beantwortet
+- TOP 12: Parksituation Gerresheimer Landstraße / Am Strasserfeld - beantwortet
+- TOP 13: Gabionenwand Veenpark - beantwortet
+- TOP 14: Thermostate an Wasserspielplätze im Stadtbezirk 8 - beantwortet
+- TOP 15: Lärmschutzmaßnahmen im Stadtbezirk 8 - beantwortet
+- TOP 16: Beleuchtung Grünanlage Chemnitzer Straße / Zwickauer Straße / Vennhauser Allee - beantwortet
+- TOP 17: Ortsumgehungen Flingern, Gerresheim und Oberbilk - beantwortet
+- TOP 18: Taubenabwehr Eller - Mitte - beantwortet
+- TOP 19: Skateranlage Heidelberger Straße - beantwortet
+- TOP 20: Kleingärtnervereine im Stadtbezirk 8 - beantwortet
+- TOP 21: Verkehrsentlastung Sturmstraße - mehrheitlich beschlossen
+- TOP 22: Containerstation Vennhauser Allee 230 - 232 - einstimmig beschlossen
+- TOP 23: Bushaltestelle Hürthstraße - zurückgezogen
+- TOP 24: Einwohnerfragestunden der Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 25: Spielplatzumgestaltungen im Stadtbezirk 8 - zurückgezogen
+- TOP 26: Dezentrale Aktivitäten zum Eurovision Song Contest - mehrheitlich beschlossen
+- TOP 27: Zufahrt Parkplatz Eller - Mitte - einstimmig beschlossen
+- TOP 28: Eurovision Song Contest 2011 im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 29: Dachsanierung Dieter-Forte-Gesamtschule - einstimmig beschlossen
+- TOP 30: Radweg Annweiler Straße - einstimmig beschlossen
+- TOP 31: Haltestelle Schlesische Straße - zurückgezogen
+- TOP 32: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 33: Containerstationen auf Parkplätzen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 34: Straßenbeleuchtung Konradstraße - zur Kenntnis genommen
+- TOP 35: Städtische Unterkunft Posener Straße 128 - 132 - zur Kenntnis genommen
+- TOP 36: Bemalung von Schaltkästen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Bezirkshaushaltsplan - zur Kenntnis genommen
