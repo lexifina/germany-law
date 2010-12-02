@@ -4,7 +4,7 @@ Erster Teil Wahl der Bürgerschaft
 Erster Abschnitt Wahlrecht und Wählbarkeit
 § | 
 1 | Wahlrecht
-2 | Ausschluß vom Wahlrecht
+2 | Ausschluss vom Wahlrecht
 3 | Ausübung des Wahlrechts
 4 | Wählbarkeit
 Zweiter Abschnitt Wahlsystem
@@ -38,6 +38,7 @@ Fünfter Abschnitt Wahlhandlung
 29 | Briefwahl
 Sechster Abschnitt Feststellung des Wahlergebnisses
 30 | Feststellung des Wahlergebnisses
+30a | Einsatz elektronischer Datenverarbeitung
 31 | Ungültige Stimmabgabe, Zurückweisung von Wahlbriefen, Auslegungsregeln
 32 | Entscheidung des Wahlvorstandes
 Siebter Abschnitt Erwerb und Verlust der Mitgliedschaft in der Bürgerschaft
