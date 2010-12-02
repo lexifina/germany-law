@@ -1,0 +1,2 @@
+# § 30a Einsatz elektronischer Datenverarbeitung
+Die Ermittlung des Wahlergebnisses inklusive der Stimmauszählung im Auszählwahlvorstand kann unter Einsatz elektronischer Datenverarbeitung erfolgen. Dabei muss technisch gewährleistet sein, dass die Stimmen unverfälscht erfasst werden und das Wahlergebnis in öffentlich nachvollziehbarer Weise korrekt ermittelt wird. Die eingesetzte Software muss für die Verwendung bei Wahlen in der Freien Hansestadt Bremen zugelassen sein. Über die Zulassung entscheidet der Landeswahlleiter.
