@@ -1,0 +1,61 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-12-02T16:00:00+01:00
+- Ende: 2010-12-02T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZedwbG_RKSDWh3KZRVmv4nA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3766
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTczOjqDgRYidtDNLetzL4p5Cuu3i_5op6bdHkg5gWXu/Oeffentliche_Niederschrift_Beteiligungsausschuss_02.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 06. Sitzung des Beteiligungsausschusses am 14.09.2010
+- TOP 3: Gründung der Technischen Betriebe Solingen (TBS)
+- TOP 4: Wirtschaftsplan 2011 der Technischen Betriebe Solingen
+- TOP 5: Räumliche Konzentration der Technischen Betriebe Solingen am Standort Dültgenstaler Straße
+- TOP 6: Räumliche Konzentration der Technischen Betriebe Solingen
+- TOP 7: 3. Quartalsbericht 2010 der EntsorgungsBetriebe Solingen (EBS)
+- TOP 8: 3. Quartalsbericht 2010 des Technischen Betriebes "Straßen und Grün" der Stadt Solingen
+- TOP 9: Jahresabschluss 2009 des Dienstleistungsbetriebes "Gebäude" der Stadt Solingen
+- TOP 10: 3. Quartalsbericht 2010 des Dienstleistungsbetriebes "Gebäude" der Stadt Solingen
+- TOP 11: 3. Quartalsbericht 2010 der Bergischen Volkshochschule - Zweckverband der Städte Solingen - Wuppertal
+- TOP 12: Strategieprojekt Stadtwerke
+- TOP 13: Übertragung von Finanzierungsaufgaben ab 2011 auf den Zweckverband Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 14: Neugestaltung des Berichtswesens für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 15: Beteiligungsbericht 2009 der Stadt Solingen
+- TOP 16: III. Quartalsbericht 2010 (Ergebnisplan) inklusive HSK-Controlling
+- TOP 17: Verschiedenes
+- TOP 18: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 2: Kunst-Museum Solingen Grundstücksverwaltungsgesellschaft mbH - Existenzberechtigung
+- TOP 3: Städtische Musikschule Solingen GmbH - Sachstand Solingen Pass
+- TOP 4: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 5: Protokoll über die 06. Sitzung des Beteiligungsausschusses am 14.09.2010
+- TOP 6: Protokoll über die 07. Sitzung des Beteiligungsausschusses am 30.09.2010
+- TOP 7: Strategieprojekt Stadtwerke
+- TOP 8: Wirtschaftsplan 2011 der Entsorgung Solingen GmbH
+- TOP 9: 3. Quartalsbericht 2010 der Kunstmuseum Solingen Betriebsgesellschaft mbH
+- TOP 10: 2. Halbjahresbericht 2009/2010 der Städtische Musikschule Solingen GmbH
+- TOP 11: 2. Halbjahresbericht 2009/2010 der Bergische Symphoniker - Orchester der Städte Remscheid und Solingen GmbH
+- TOP 12: 3. Quartalsbericht 2010 der Altenzentren der Stadt Solingen
+- TOP 13: 3. Quartalsbericht 2010 der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 14: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 15: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH
+- TOP 16: Jahresabschluss 2009 der Bergisches Institut für Produktentwicklung und Innovationsmanagement gGmbH
+- TOP 17: Gesellschafterversammlung der Bergische Entwicklungsagentur GmbH
+- TOP 18: 3. Quartalsbericht 2010 der Wirtschaftsförderung Solingen GmbH & Co. KG
+- TOP 19: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH (GuT) am 22.12.2010
+- TOP 20: Vorberatung von Gesellschafterbeschlüssen der Institut für Galvano- und Oberflächentechnik Solingen GmbH im schriftlichen Umlaufverfahren
+- TOP 21: Vorberatung der Gesellschafterversammlung der Stadtwerke Solingen GmbH am 06.12.2010
+- TOP 22: Vorberatung der Gesellschafterversammlung der Stadtwerke Solingen GmbH am 06.12.2010
+- TOP 23: 3. Quartalsbericht 2010 der Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 24: Vorberatung eines Gesellschafterbeschlusses der Beteiligungsgesellschaft Stadt Solingen mbH im schriftlichen Umlaufverfahren
+- TOP 25: Neugestaltung des Berichtswesens für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 26: Verschiedenes
