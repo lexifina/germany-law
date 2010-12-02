@@ -1,0 +1,51 @@
+# 5. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2010-12-02T10:05:00+01:00
+- Ende: 2010-12-02T11:40:00+01:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VA-4
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VA-4
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VA-4
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VA-4
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Bauprogramm 2011 für Maßnahmen des Landesstraßenausbauplans; Information
+- TOP 1.2: Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten und Radwegebau an bestehenden Landesstraßen; Beschluss über die Priorisierung von Maßnahmen für das Jahr 2011
+- TOP 1.3: Städtebauförderung; Aufstellung des Stadterneuerungsprogramms 2011
+- TOP 1.4: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2011
+- TOP 1.5: Kunst- und Kulturförderung; Projektförderung im Rahmen der Regionalen Kulturpolitik 2011
+- TOP 1.6: Einstellung des Verfahrens zur 1.Änderung des LEP NRW - Energieversorgung
+- TOP 1.7: 7.Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln - Erarbeitungsbeschluss
+- TOP 1.7.1: Resolution Datteln 4 - ökologisch, industriepolitisch, volkswirtschaftlich - Sinnvoll und wichtig für die Metropole Ruhr
+- TOP 1.8: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wahl des Regionaldirektors aufgrund erfolgter Ausschreibung / Beschluss über Ausschreibung und Verlängerung der Amtszeit des Regionaldirektors
+- TOP 2.2: Ausschreibung der Stelle der Bereichsleitung II Wirtschaftsführung / Wiederwahl
+- TOP 2.3: Ausschreibung der Stelle der Bereichsleitung III Planung / Wiederwahl
+- TOP 2.4: Ausschreibung der Stelle der Bereichsleitung IV Umwelt / Wiederwahl
+- TOP 2.5: Wechsel im Verwaltungsrat der Freizeitzentrum Kemnade GmbH
+- TOP 2.6: Erhöhung des Höchstbetrages der Aufnahme von Krediten zur Liquiditätssicherung (Kassenkredite)
+- TOP 2.7: Bericht über die überörtliche Prüfung des Regionalverbandes Ruhr (RVR) von Mai bis August 2009 durch die Gemeindeprüfungsanstalt NRW
+- TOP 2.8: Bericht über die vom 24.08. bis 25.09.2009 von der Gemeindeprüfungsanstalt durchgeführten überörtlichen Prüfung der Eröffnungsbilanz des Regionalverbandes Ruhr
+- TOP 2.9: Änderung des Beschlusses über die Verwendung des Jahresüberschusses 2006
+- TOP 2.10: Bericht über die Prüfung des Jahresabschlusses 2007, Feststellung des Jahresabschlusses 2007, Verwendung des Jahresüberschusses 2007 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2007
+- TOP 2.11: Ergebnisrechnung 2009, Prüfbericht
+- TOP 2.12: Angelegenheiten der RUHR.2010 GmbH - Jahresabschluss zum 31.12.2009
+- TOP 2.13: Angelegenheiten der übrigen Beteiligungsgesellschaften - Jahresabschluss der TouristikEisenbahnRuhrgebiet GmbH zum 31.12.2009
+- TOP 2.14: Beteiligungsbericht 2009 nach der Gemeindeordnung Nordrhein-Westfalen (GO NRW)
+- TOP 2.15: Eckpunkte für die Umsetzung des Masterplans Kulturmetropole Ruhr und zur Nachfolge von Ruhr 2010 sowie weitere Vorgehensweise
+- TOP 2.16: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 8: nicht öffentlicher Tagesordnungspunkt
