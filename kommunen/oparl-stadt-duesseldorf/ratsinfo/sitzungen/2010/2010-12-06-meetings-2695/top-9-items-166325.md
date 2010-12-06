@@ -1,0 +1,8 @@
+# TOP 9: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2011
+
+- Sitzung: Haupt- und Finanzausschuss (2010-12-06)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/166325
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/53862
