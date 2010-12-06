@@ -1,0 +1,51 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2010-12-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893187
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893187
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Lade- / Lieferzone im Bereich des Anwesens Aberlestraße 3
+- TOP 6.2.: Umlaufsperre Schäftlarnstraße 81 - 105
+- TOP 6.3.: Verkehrsberuhigter Bereich in den Stichstraßen Schäftlarnstr. 87 - 91 und 101 - 105
+- TOP 6.4.: Warenstellage Lindwurmstraße 195
+- TOP 6.5.: München setzt auf's Rad
+- TOP 6.6.: Mobilität in Deutschland; Befragung zum Alltagsverkehr
+- TOP 7.1.: Budgetantrag Buntstifte e. V.
+- TOP 7.2.: Keine weiteren Neonazi-Aufmärsche; Änderung der BA-Satzung
+- TOP 7.3.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der BAs
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Ensemble ehemaliger Dorfkern Sendling
+- TOP 8.3.: Zweite S-Bahnstammstrecke
+- TOP 9: Baureferat
+- TOP 9.1.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Kidlerstraße 34 - neuer Baumbestandsplan
+- TOP 10.2.: Freiflächengestaltungsplan Valleystr. 48
+- TOP 10.3.: Margaretenplatz; Ersatz von beschädigten Bestandsbäumen
+- TOP 10.4.: Fällung von Gefahrenbäumen
+- TOP 10.5.: Baumfällung Flößergasse 7
+- TOP 10.6.: Baumfällung Albert-Roßhaupter-Str. 14
+- TOP 10.7.: Baumfällung Lindwurmstr. 211
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 11.2.: Aufnahme der Mietwohnanlage im Umgriff Karwendelstraße (beidseitig), Dudenstraße (nördlich) und Plinganserstraße (westlich) in die Erhaltungssatzung
+- TOP 12: Anträge
+- TOP 12.1.: Anträge aus der Kinder- und Jugendbezirksausschusssitzung vom 24.11.2010
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm - Änderung im Terminplan
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
