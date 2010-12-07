@@ -1,0 +1,91 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2010-12-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1828728
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1828728
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Bürgerbeschwerde wegen Baustellenlärm, Baustellenbelieferung in der Sandstraße und Antrag die Sandstraße in eine Einbahnstraße umzuwandeln s. TOP C 2.1.1
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Bauvorhaben: 43., 45., 46. KW
+- TOP .2.2: Baumfällungen
+- TOP .1.: Loristraße 15, 1 Fichte
+- TOP .2.: Barer Straße 29, 2 Bäume
+- TOP .2.1: Verkehr
+- TOP .1.: Bürgerbeschwerde wegen Baustellenlärm, Baustellenbelieferung in der Sandstraße und Antrag die Sandstraße in eine Einbahnstraße umzuwandeln
+- TOP .2.: Kreisverwaltungsreferat, Anhörung zu einer verkehrsrechtlichen Anordnung: probeweise Abschaltung der Lichtzeichenanlage Amiraplatz
+- TOP .3.: BA 9 Neuhausen-Nymphenburg, Bürgeranliegen: Anpassungen in den Lizenzvierteln St. Vinzenz und Marsviertel
+- TOP .4.: Kreisverwaltungsreferat, Anhörung zu einer verkehrsrechtlichen Anordnung: Eingeschränktes Haltverbot (Z 289 StVO) in der Augustenstr. 31: Einrichtung einer Ladezone
+- TOP .2.2: Öffentlicher Raum
+- TOP .2.3: Gaststätten
+- TOP .1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) Augustenstraße 107, ?Jagerhansl?
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro: Nutzung der Grünanlage Geschwister-Scholl-Platz durch Rainbow over Ghana e.V. am 16.12.2010 ? Tischvorlage -
+- TOP .1.: Budgetantrag, Elternbeirat der Grundschule an der Türkenstraße Projekt ?Tanz und Schule ? vom 10.01. bis 15.04.2011, beantragter Zuschuss: 2.347,00 ?
+- TOP .1.: Budgetantrag, Soziale Skulptur München e.V.: Ausstellung ?Beuys in Bewegung? vom 20.01. bis 31.03.2011
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Planungsreferat, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 10.11.2010, Sitzungsvorlage Nr. 08-14 / V 05338: Katharina-von-Bora-Straße 8a sowie Katharina-von-Bora-Straße 6 ? 8 mit Karlstraße 24 -Grundsatzbeschluss und weiteres Vorgehen -
+- TOP 3.2.: Planungsreferat, Beschlussvorlage für den Ausschuss für Statplanung und Bauordnung am 10.11.2010, Sitzungsvorlage Nr. 08-14 / V 05291: Bevölkerungsprognose 2009-2030 der Landeshaptstadt München
+- TOP 3.3.: Planungsreferat, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 10.11.2010, Sitzungsvorlage Nr. 08-14 / V 05325: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen
+- TOP 3.4.: Planungsreferat, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 10.11.2010, Sitzungsvorlage Nr. 08-14 / V 05361: Stadtsanierung in München, Sicherung der Städtebauförderung einschließlich Hinweis/Ergänzung vom 26.10.2010
+- TOP 3.5.: Baureferat, Beschluss des Bauausschusses vom 19.10.2010: Maßmannpark, Aufwertung und Umstrukturierung im 3. Stadtbezirk Maxvorstadt Sitzungsvorlage Nr. 08-14 / V 05286
+- TOP 3.6.: Schreiben des BA 9 Neuhausen-Nymphenburg vom 11.11.2010 zur Anfrage des BA 3 vom 15.10.2010 (Umbauabsichten beim Herzzentrum, TOP B 2.3.3/1010)
+- TOP 3.7.: Kommunalreferat, Liegenschaftsverwaltung; Neuvermietung in stadteigenem Anwesen: Amalienstraße 14
+- TOP 3.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für die Vollversammlung des Stadtrates vom 24.11.2010, Sitzungsvorlage Nr. 08-14 / V 05521: Ertüchtigung des Bahnknotens München: 2. Stammstrecke
+- TOP 3.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für die Vollversammlung des Stadtrates vom 24.11.2010, Sitzungsvorlage Nr. 02-08 / V 05522: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammsstrecke in München, Planfeststellungsabschnitt 1 München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof ? 1. Planänderung ? Anhörungsverfahren -
+- TOP 3.10.: Baureferat, Gartenbau, Schreiben vom 18.10.2010: Unterrichtung über das Fällen von Gefahrenbäumen in der Maxvorstadt
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Baureferat, Tiefbau, Antwortschreiben vom 26.10.2010 auf ein Bürgeranliegen aus der Bürgersprechstunde des BA 3 vom 11.10.2010: Lenbachhaus, Pflasterung auf dem Areal westlich der Prophyläen
+- TOP 3.2.: Referat für Gesundheit und Umwelt, Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 3.3.: Kreisverwaltungsreferat, Bezirksinspektion Mitte, Antwortschreiben vom 26.10.2010 zur Anfrage über die Gaststätte ?Zeitgeist?
+- TOP 3.4.: Planungsreferat, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 10.11.2010, Sitzungsvorlage Nr. 08-14 / V 05265: Pendlerverkehre verlagern: ÖV-Angebote verbessern statt Autos aussperren
+- TOP 3.5.: Kreisverwaltungsreferat, Reparatur einer Fernwärmeleitung, Baustelleneinrichtung an der Ottostraße, Ausnahmbewilligung
+- TOP 3.6.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung: Die LZA Ecke Karl-/Katharina-von-Bora-Straße wird wieder in Betrieb genommen.
+- TOP 3.7.: Baumaßnahmen der Stadtwerke: Schellingstraße 31, Strom Karolinenplatz 1, Strom Marlene-Dietrich-Straße 52, Strom Ottostraße 19, Fernwärme Ottostraße 4, Fernwärme Blutenburgstraße 13, Gas Erika-Mann-Straße 19, Strom
+- TOP 3.8.: Baureferat, Gedenktafel für die Medizinerin Hope Adams-Lehmann am Gebäude Ga- belsbergerstraße 51, Antrag des BA 3 Nr. 08-14 / B 02191 vom 08.06.2010; Zwischennachricht
+- TOP 3.9.: Referat für Gesundheit und Umwelt,Volllzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung, Ausnahmezulassung; Augustenstraße 29, Kranmontage
+- TOP 3.10.: Kreisverwaltungsreferat, Verkehrsmanagement, Antwortschreiben an einen Bürger (s. TOP A 5.2.2/0910)
+- TOP 3.11.: Kreisverwaltungsreferat, Parkraummanagement, Parklizenzgebiete ?St.-Benno-Viertel? und ?Schleißheimer Straße?, verkehrsrechtliche Anordnung; Verschiebung der Gebietsgrenze in der grenzziehenden Dachauer Straße
+- TOP 3.12.: Schreiben des Kreisverwaltungsreferates, Branddirektion, vom 10.11.2010: Anzahl der Sitzplätze in der Gaststätte ?Zeitgeist? (s. TOP C 2.3.2/1010).
+- TOP 3.13.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission, Schreiben vom 09.11.2010 an drei Bürger der Maxvorstadt wegen Baulärms durch die Baumaßnahme ?Nymphenbur- ger Höfe?
+- TOP 3.14.: Schreiben des Kreisverwaltungsreferates, Verkehrsmanagement zur Umdrehung der Ein- bahnregelung in der Schleißheimer Straße zwischen Rottmannstraße und Gabelsberger- straße (s. dazu TOP C 2.1.1/1110)
+- TOP 3.15.: Referat für Stadtplanung und Bauordnung, Schreiben vom 15.11.2010 zur Genehmigung der Gastraumfläche der Gaststätte ?Zeitgeist? (s. TOP C 2.3.2/1010)
+- TOP 3.16.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsrechtliche Anordnung § 45 StVO: Haltverbot Königinstraße gegenüber Anwesen Nr. 57
+- TOP 3.17.: Kreisverwaltungsreferat, Einrichtung von Fahrradstraßen, Antrag des BA 3 Nr. 08-14 / B 02527 v. 09.11.2010; Zwischennachricht
+- TOP 3.18.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung: Aufhebung der Tonnagebeschränkung der Nymphenburger Straße zwischen Stiglmaier- platz und Sandstraße für Fahrzeuge über 40 t
+- TOP 3.1.: Referat für Gesundheit und Umwelt, Beschlussvorlage für die Sitzung des Gesundheits- ausschusses am 18.11.2010 Sitzungsvorlage Nr. 08 ? 14 / V 05347; Aktualisierung der Münchner Sucht- und Drogenpolitik
+- TOP 3.2.: Planungsreferat, Bericht zur Wohnungssituation in München 2008 ? 2009, Sitzungsvorlage Nr. 08-14 / V 05281, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung am 10.11.2010
+- TOP 3.3.: Sozialreferat, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den So- zialausschuss in der gemeinsamen Sitzung am 11.11.2010, Sitzungsvorlage Nr. 08-14 / V 05165: Haushaltskonsolidierung, 4. Haushaltssicherungskonzept (4. HSK), Sachstand, Feinkonzept 2011, Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushalts konsolidierung
+- TOP 3.4.: Sozialreferat, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den Sozial ausschuss in der gemeinsamen Sitzung am 11.11.2010, Sitzungsvorlage Nr. 08-14 / V 05288 Haushaltsplan 2011, Produkt- und zieorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 3.5.: Sozialreferat, Beschlussvorlage für die gemeinsame Sitzung des Kinder- und Jugendhilfe ausschusses und des Sozialausschusses am 11.11.2010, Sitzungsvorlage Nr. 08-14 / V 05173 Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 3.6.: Sozialreferat, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den Sozi- alausschuss in der gemeinsamen Sitzung vom 11.11.2010, Sitzungsvorlage Nr. 08-14 / V 05166 Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 3.7.: Sozialreferat, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung vom 11.11.2010, Sitzungsvorlage Nr. 08-14 / V 05022 Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger der Zentrale
+- TOP 3.8.: Referat für Bildung und Sport, Vollzug des BayKiBiG, Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Schleißheimer Straße 41
+- TOP 3.4.: Kultur
+- TOP 3.1.: Bürgerversammlung des BA 3 im Jahr 2011 am 20.10.2011 im Fremdspracheninstitut der Stadt München, Amalienstraße 36
+- TOP 3.2.: Bericht über das Kinder- und Bürgerfest des BA 3 im Jahr 2010
+- TOP 3.3.: Direktorium, zentrale Beschlussvollzugskontrolle, Personalsituation in der BAG Mitte
+- TOP 3.4.: Direktorium, Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unter- richtung der Bezirksausschüsse, Antrag Nr. 08-14 / B 02234 des BA 19, Thalkirchen-Obersendling-Forstenried-Fürsten- ried-Solln vom 06.07.2010
+- TOP 3.5.: Stadtkämmerei, Schreiben vom 15.11.2010, Mehrjahresinvestitionsprogramm, Fortschrei- bung für die Jahre 2011 bis 2015; Anhörungsverfahren
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
+- TOP .2.: NS-Dokuzentrum
