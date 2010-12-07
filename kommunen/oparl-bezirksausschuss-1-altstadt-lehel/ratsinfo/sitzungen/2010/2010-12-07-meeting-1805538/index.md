@@ -1,0 +1,95 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2010-12-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1805538
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1805538
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Entwicklung der Schrannenhalle
+- TOP .1.: Frauenstraße 4 (siehe TOP B 3.1.2 und H 2), Diskussion im UA
+- TOP .2.: Genehmigungsstand Damenstiftstraße 11, Diskussion im UA (abgesetzt, Januar)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Hackenstraße 7
+- TOP .2.: Frauenstraße 4, Antragsteller und Vertreter der LBK werden in den UA eingeladen
+- TOP .3.: Herzog-Wilhelm-Straße 29
+- TOP .4.: Hackenstraße 4
+- TOP .5.: Sonnenstraße 29
+- TOP .6.: Hotterstraße 5 - 11
+- TOP .7.: Sendlinger Straße 8
+- TOP .8.: Thierschplatz 5
+- TOP .9.: Marienplatz 18
+- TOP .10.: Residenzstraße 21
+- TOP .11.: Neuhauser Straße 19 - 21
+- TOP .1.: Bürger: Weihnachtsmärkte im Öffentlichen Raum
+- TOP .2.: Bürger: Baustrommasten Herrnstraße 44
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Großwerbefläche am Baucontainer Sendlinger Straße 6
+- TOP .2.: Änderung der BA-Satzung: Unterrichtungsrecht bei Veranstaltungen nach dem Versammlungsgesetz
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: NACHTRAG: Kunstaktion Zeitungsbox
+- TOP .1.: Bürger: Taxistände in der Altstadt
+- TOP .2.: Bürger: Lift für den S- und U-Bahnhof Isartorplatz
+- TOP .3.: Bürger: Neuplanung Vorplatz vor dem BASIC in der Westenriederstraße
+- TOP .4.: UA: Parkplatz an der St.-Lukaskirche
+- TOP .1.: Benennung eines Terminvorschlags zur Besichtigung des Luftschutzbunker in der Müllerstraße
+- TOP .1.: Bürger: Errichtung eines Jugendzentrum im Lehel
+- TOP .1.: (E) Budget der Bezirksausschüsse Gesellschaft zur Förderung des Puppenspiels e.V. Figurentheaterfestival vom 17. - 21.03.2011
+- TOP .1.: Termin Bürgerversammlung 2011: Die Bürgerversammlung kann am Dienstag, den 29.11.2011 im Stadtmuseum stattfinden.
+- TOP .2.: NACHTRAG: Beschluss des Seniorenbeirats, ihre Mitteilungen in den Schaukästen des BAs zu veröffentlichen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Zukünftige Terminplanung für das Mehrjahresinvestitionsprogramm
+- TOP 0.2.: Verlängerung einer befristeten Stelle in der BA-Geschäftstelle Mitte, Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 0.3.: Zwischennachricht zur Stellungnahme zum Mehrjahresinvestitionsprogramm, TOP 2010.10 B 3.2.1
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Baugenehmigung Residenzstraße 2, TOP 2010.10 B 3.1.3
+- TOP 0.5.: Bekanntgabe im Planungsausschuss: Bevölkerungsprognose 2009 ? 2030 der LHM
+- TOP 0.6.: Bekanntgabe im Planungsausschuss: Bericht zur Wohnungssituation in München 2008 - 2009
+- TOP 0.7.: Beschluss des Planungsausschusses vom 10.11.2010: Stadtsanierung in München
+- TOP 0.8.: Beschluss des Planungsausschusses vom 08.12.2010: Siemens Konzernzentrale
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund (Genehmigungen)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund
+- TOP 0.4.: Unveränderte Gaststättenfortführung ?Goldrausch?, Angertorstr. 4
+- TOP 0.1.: Aufhebung eines Behindertenparkplatzes Damenstiftstraße, Antrag zurückgezogen
+- TOP 0.2.: Beschluss der Vollversammlung vom 24.11.2010: Ertüchtigung des Bahnknotens München 2. Stammstrecke
+- TOP 0.3.: Beschluss der Vollversammlung vom 24.11.2010: Planfeststellungsverfahren 2. - S-Bahn-Stammstrecke, PFA 1 München-West
+- TOP 0.4.: Beschluss des Bauausschusses vom 19.10.2010: Isar-Plan
+- TOP 0.5.: Baubeginnanzeige Mobilfunkanlage
+- TOP 0.6.: Verkehrsrechtliche Anordnung: Feuerwehranfahrtszone Himmelreichstr. 2,3 und 4
+- TOP 0.7.: Verkehrsrechtliche Anordnung: Halteverbot Tivolistr.
+- TOP 0.8.: Probeweise Abschaltung der Lichtzeichenanlage Oettingenstr. / Tivolistr.
+- TOP 0.9.: Verkehrsrechtliche Anordnung: Ausnahme der Taxis vom Geradeaus- / Rechts-fahrverbot
+- TOP 0.10.: Beschluss des Planungsausschusses vom 20.11.2010: Pendlerverkehr verlagern: ÖV-Angebote verbessern statt Autos aussperren
+- TOP 0.11.: Gefahrenbaumfällungen
+- TOP 0.12.: Antwortschreiben Schaltkasten für das Praterkraftwerk, TOP 2010.10 D 1.1
+- TOP 0.13.: Beschluss des Bauausschusses vom 07.12.2010: Umgestaltung des Tals
+- TOP 0.14.: Beschluss des Bauausschusses vom 07.12.2010: Neuerlass der Straßenreinigungs- und sicherungsverordnung
+- TOP 0.15.: Verkehrsrechtliche Anordnung: Verkürzung des absoluten Halteverbots im Bereich Hochbrückenstraße 4
+- TOP 0.16.: Beschluss des Planungsausschuss vom 08.12.2010: Mobilität in Deutschland ? Befragung zum Alltagsverkehr in München
+- TOP 0.17.: Beschluss des Planungsausschusses vom 08.12.2010: München setzt aufs Rad
+- TOP 0.1.: Zwischennachricht zum Ausbau des Dachgeschosses Grundschule an der Herrn-straße, TOP 2010.07 E 0.1
+- TOP 0.2.: Beschluss der Vollversammlung vom 27.10.2010: AG Ausbauoffensive Kindertages- einrichtungen
+- TOP 0.3.: Verwendungsnachweis ?Lyrikoase?, Aufforderung zur erneuten Darlegung
+- TOP 0.4.: Kitaplätze Albrechtstr. 31/33
+- TOP 0.5.: Schreiben des BA 2 zum Kulturfest ?München ist bunt? am 13.11.2010
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
