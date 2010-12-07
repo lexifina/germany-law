@@ -1,0 +1,53 @@
+# Ausschuss für Stadtplanung und Verkehr (7. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-12-07T17:00:00+01:00
+- Ende: 2010-12-07T19:25:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZQHUXZaNWz2xQjJfxbvZpeM
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7985
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZSWXnhHKup-RBXaxFQdIzrcHxiPcLrg4lKa31AmRu5w2/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_07.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung des Arbeitskreises "Tagebau Buir" hier: Antrag der Linksfraktion - (kein Text vorhanden)
+- TOP 2.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 6. Sitzung vom 07. September 2010
+- TOP 3.: Umsiedlung Manheim
+- TOP 3.1: Sachstandsbericht zur Verlegung der Hochspannungsleitung nördlich von Buir/Manheim
+- TOP 3.2: 63. Änderung des Flächennutzungsplans "Umsiedlungsort Manheim - neu" - hier: Wirksamkeitsbeschluss - (kein Text vorhanden)
+- TOP 3.3: Abschließende Stellungnahme der Stadt Kerpen zum Braunkohlenplan Umsiedlung Manheim
+- TOP 3.4: Resolution der Stadt Kerpen zur Genehmigung des Braunkohlenplanes Umsiedlung Manheim
+- TOP 3.5: Niederschriften der 43. und 44. Sitzung des Bürgerbeirates Manheim
+- TOP 3.6: Bericht der Verwaltung
+- TOP 4.: Stadtentwicklung
+- TOP 4.1: Ergebnisse der Bürgerwerkstatt Innenstadtentwicklung Horrem
+- TOP 4.2: Sachstand Kiesgrube Drieschweg
+- TOP 4.3: Niederschrift der 6.Sitzung des Arbeitskreises "Tagebau Buir" vom 08.09.2010
+- TOP 5.: Bauleitplanung
+- TOP 5.1: 62. Änderung des Flächennutzungsplanes "Bolzplatz Brüggen", Stadtteil Brüggen hier: Wirksamkeitsbeschluss
+- TOP 5.2: Bebauungsplan BL 270/2. Änderung "Am Lechenicher Weg", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB und Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 5.3: 65. Änderung des Flächennutzungsplanes "Arrondierung des Gewerbe- und Industriegebietes Türnich", Stadtteil Türnich hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 5.4: Aufhebungsverfahren des Bebauungsplanes SI Nr. 28 "Hermann-Löns-Straße" und seine rechtskräftigen Änderungen, Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.: Verkehrsplanung
+- TOP 6.1: Vertretung der Stadt Kerpen im Aufsichtsrat der REVG
+- TOP 6.2: Umbenennung einer Straße im Stadtteil Horrem
+- TOP 6.3: Sachstandsbericht zum Neubau der B477n hier: Hohe Anzahl der Wildwechselunfälle
+- TOP 6.4: Niederschrift über die 2. Sitzung des Arbeitskreises ÖPNV vom 23.09.2010
+- TOP 6.5: Niederschrift der 3. Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit vom 11.11.2010
+- TOP 7.: Mitteilungen
+- TOP 7.1: Sachstandsbericht zum Lärmschutz an der A4 im Bereich Horrem und der B264 im Bereich Türnich
+- TOP 7.2: Inbetriebnahme der Anschlussstelle Elsdorf nach Verlegung der A4
+- TOP 7.3: Sachstandsbericht Werbemaßnahmen Erft Karree
+- TOP 8.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 8.1: "Linienfindungsverfahren" für die geplante Verbindung zwischen K55 und B477n
+- TOP 8.2: Sachstand Bürgerhaus Vogelrutherfeld
+- TOP 8.3: Einschaltzeiten der Straßenbeleuchtung
+- TOP 8.4: Entlastung der Verkehrssituation am Autobahnkreuz Kerpen hier: Sachstandsmitteilung
+- TOP 9.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 10.: Mitteilungen
+- TOP 11.: Anfragen gem. § 18 Geschäftsordnung
