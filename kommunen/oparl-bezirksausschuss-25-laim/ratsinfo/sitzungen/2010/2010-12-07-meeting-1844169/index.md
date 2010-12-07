@@ -1,0 +1,79 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2010-12-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1844169
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1844169
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Fehlender Radweg in der Agnes-Bernauer-Straße westlich Fürstenrieder Straße
+- TOP 1.2.2.: Verkehrsentlastung bzw. Verkehrsberuhigung in der Elsenheimerstraße / Lautensackstraße im Bereich zwischen Agnes-Bernauer-Straße und Landsberger Straße
+- TOP 1.2.3.: Ehem. Kaufhaus "Hertie"; Zwischen- / Langzeitnutzung als Kulturzentrum
+- TOP 1.2.4.: Verkehrsberuhigung Willibaldstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Verlängerung der Ampelschaltung an der Fürstenrieder Straße, Übergang zur Schule in den Morgenstunden und Mittags
+- TOP 2.2.: SPD: Erhalt der Funktionen des Sozialbürgerhauses in der bisherigen Form
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.000 Euro für Faschingstreiben am 05.03.11; Antragsteller: Faschingsclub Laim e.V. - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 800 Euro für Gewaltpräventionsprojekt am 21.03.1; Antragsteller: Förderverein der Camerloher Grundschule e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 28.10.10: Flohmarkt auf dem Laimer Platz am 09.04.11
+- TOP 4.2.: Schreiben Markthallen München vom 22.10.10: Bauernmarkt Agnes-Bernauer-Straße
+- TOP 4.3.: Schreiben Direktorium vom 10.11.10: Keine weiteren Neonazi-Aufmärsche; Änderung des Katalogs der Fälle der Entscheidungen, Anhörungen und Unterrichtungen der Bezirksausschüsse
+- TOP 4.4.: Schreiben KVR vom 12.11.10: Flohmarkt auf dem Hogenbergplatz am 19.03.11
+- TOP 4.5.: Schreiben Abfallwirtschaftsbetrieb München vom 19.10.10: Beteiligungsverfahren zur Erteilung einer Sondernutzungserlaubnis zum Betrieb einer Wertstoffsammelstelle auf städtischem Grund; Kärtner Platz ggü. Hausnr. 5
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Inderstorferstr. 36: Nutzungsänderung / Umbau Laden zu 5 Wohnungen mit Kfz-Stellplätzen; hier: Baumfällungen
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Stadtrat Dr. Kronawitter vom 14.10.10: Optimierter Regiebetrieb Kindertagesstätten München - fehlende Stadtbezirksorientierung (Vertagung aus der BA-Sitzung vom 09.11.10)
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur am 25.10.10
+- TOP 7.2.: BA-Sitzung vom 09.11.10
+- TOP 8: Umlauf
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Schreiben Direktorium vom 25.10.10: Planungen für das städtische Grundstück an der Agnes-Bernauer-Straße, Flurnummer 47 (Schreiben BA vom 15.10.10)
+- TOP 8.3.: Schreiben Direktorium vom 12.11.10: Zuwendung aus dem Budget des BA 25; Antrag zur Bezuschussung der offenen Spielaktion vom 15.09.-24.09.10; Antragsteller: Familienzentrum Laim
+- TOP 8.4.: Schreiben Direktorium vom 17.11.10: Budget der Bezirksausschüsse; Zuwendung des BA 20 Hadern zur 25-Jahrfeier 2008 der SG Hadern St. Peter
+- TOP 8.5.: Schreiben Baureferat vom 21.10.10: Unterrichtung über das Fällen von Gefahrenbäumen; Schule Schrobenhausener Str. 15 und Kindertagesstätte Riegerhofweg 5
+- TOP 8.6.: Schreiben Baureferat vom 21.10.10: Unterrichtung über das Fällen von Gefahrenbäumen; Wohnanlage Kiem-Pauli-Weg
+- TOP 8.7.: Schreiben Baureferat vom 21.10.10: Unterrichtung über das Fällen von Gefahrenbäumen; u.a. Grünanlage Schrobenhausener Straße, Friedenheimer Straße, Grünanlage Fröbelplatz, Ludwig-Richter-Straße, Fürstenrieder Straße, Grünanlage Agricolaplatz, Von-der-Pfordten-Straße, Senftenauerstraße, Grünanlage Hans-Thonauer-Straße, Grünanlage Käthe-Bauer-Weg
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 26.10.10: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Betrieb von Müllfahrzeugen
+- TOP 8.9.: Schreiben Stadtwerke München GmbH vom 27.10.10: Baumaßnahmen der SWM; Fernwärmeprojekt Erschließung Pasing - Laim, Landsberger Straße; Änderung im Terminablauf
+- TOP 8.10.: Schreiben Referat für Arbeit und Wirtschaft vom 29.10.10: Wirtschafts-Info 10/2010
+- TOP 8.11.: Schreiben Referat für Arbeit und Wirtschaft vom 04.11.10: Europe Direct Informationen Sonderausgabe 08/2010
+- TOP 8.12.: Schreiben Stadtkämmerei vom 15.11.10: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015; Anhörungsverfahren
+- TOP 8.13.: Schreiben KVR vom 08.06.10: Haltverbot an der Kreuzung Guido-Schneble-Straße / Senftenauerstraße
+- TOP 8.14.: Schreiben KVR vom 17.11.10: Vollzug der Straßenverkehrsordnung; Filmaufnahmen auf öffentlichem Grund am 22.11.-24.11.10, Agnes-Bernauer-Straße
+- TOP 8.15.: Bautenliste vom 25.10.-31.10.10: 1. Erstantragsverfahren a) Lechfeldstr. 8 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Dichtlstr. 6
+- TOP 8.16.: Bautenliste vom 01.11.-07.11.10: 1. Erstantragsverfahren a) Landsberger Str. 180 b) Stroblstr. 40a
+- TOP 8.17.: Bautenliste vom 08.11.-14.11.10 1. Erstantragsverfahren a) Gutzkowstr. 3 b) Fürstenrieder Str. 93 c) Sturmstr. 6 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Sturmstr. 6
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 03.11.10: Baumaßnahmen der Stadtwerke; Stichtag: 03.11.10
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 08.11.10: Baumaßnahmen der Stadtwerke; Stichtag: 08.11.10
+- TOP 8.20.: Schreiben Stadtwerke München GmbH vom 15.11.10: Baumaßnahmen der Stadtwerke; Stichtag: 15.11.10
+- TOP 8.21.: Schreiben Stadtwerke München GmbH vom 22.11.10: Baumaßnahmen der Stadtwerke; Stichtag: 22.11.10
+- TOP 8.22.: Beschluss der Vollversammlung des Stadtrates vom 06.10.10: Änderung der Straßenreinigungssatzung; Erhöhung der Anzahl der Mülleimer im Stadtgebiet (Sitzungsvorlagen Nr. 08-14 / V 05084)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10: Stadtsanierung in München; Sicherung der Städtebauförderung (Sitzungsvorlagen Nr. 08-14 / V 05361) sowie Hinweis / Ergänzung zum Beschluss
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10: Pendlerverkehr verlagern: ÖV-Angebote verbessern statt Autos aussperren (Sitzungsvorlagen Nr. 08-14 / V 05265)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen (Sitzungsvorlagen Nr. 08-14 / V 05325)
+- TOP 8.26.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10: Bevölkerungsprognose 2009-2030 der LH München (Sitzungsvorlagen Nr. 08-14 / V 05291)
+- TOP 8.27.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.11.10: Bericht zur Wohnungssituation in München 2008-2009 (Sitzungsvorlagen Nr. 08-14 / V 05281)
+- TOP 8.28.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4.HSK), Sachstand Konsolidierung 2009/2010, Feinkonzept 2011, Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung (Sitzungsvorlagen Nr. 08-14 / V 05165)
+- TOP 8.29.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse ohne ausbeuterische Kinderarbeit (Sitzungsvorlagen Nr. 08-14 / V 05022)
+- TOP 8.30.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 05173)
+- TOP 8.31.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 05288)
+- TOP 8.32.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 05166)
+- TOP 8.33.: Beschluss des Verwaltungs- und Personalausschusses vom 17.11.10: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (Sitzungsvorlage Nr. 08-14 / V 04462)
+- TOP 8.34.: Beschluss des Gesundheitsausschusses vom 18.11.10: Aktualisierung der Münchner Sucht- und Drogenpolitik (Sitzungsvorlagen Nr. 08-14 / V 05347)
+- TOP 8.35.: Beschluss der Vollversammlung des Stadtrates vom 24.11.10: Ertüchtigung des Bahnknotens München: 2. S-Bahnstammstrecke; a) Grundsatzentscheidung des Bayerischen Landtages vom 14.04.10; Stand der Umsetzung, b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen, c) Lärmsanierung am DB-Südring, d) weiteres Vorgehen, e) Anträge und Empfehlungen (Sitzungsvorlagen Nr. 08-14 / V 05521)
+- TOP 8.36.: Beschluss der Vollversammlung des Stadtrates vom 24.11.10: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof - 1. Planänderung; Anhörungsverfahren (Sitzungsvorlagen Nr. 08-14 / V 05522)
+- TOP 8.37.: Schreiben Elternbeirat der Grundschule an der Droste-Hülshoff-Str. 9 vom 29.10.10: Vielen Dank für die Unterstützung für das Projekt "Prima Klima"
+- TOP 8.38.: Schreiben Familienzentrum Laim vom 29.10.10: Zuwendung aus dem Budget des Bezirksausschusses; Offene Spielaktion vom 15.-24.09.10, Kurzbericht
+- TOP 8.39.: Schreiben BA 1 Altstadt-Lehel vom 02.11.10: Stellungnahme des BA 1 zum Kulturstrand in München
+- TOP 1.2: Bürgerpost an den BA
