@@ -1,0 +1,53 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2010-12-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1907038
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1907038
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 09.11.10
+- TOP 2: Anträge
+- TOP 2.1.: Ruhebänke an der Filchnerstraße
+- TOP 2.2.: Baumschutz - Verletzung der Satzungsrechte
+- TOP 2.3.: Ehemaliges Heizkraftwerk an der Drygalski-Allee als Industriedenkmal ausweisen und als Event-Lokalität zur Verfügung stellen
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse ASZ Solln-Forstenried, Caritas Projekt "Radeln in der Stadt" am 05.04.2011
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Pfarrkirchenstiftung St. Maria Thalkirchen Konzert am 28.12.2010
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Fahrradampel Boschetsrieder Straße
+- TOP 5.2.: Verkehrssituation Sperlstraße
+- TOP 5.3.: Verkehrssituation Greineckerstraße
+- TOP 5.4.: Rad- und Fussweg südl. Wolfratshauser Straße
+- TOP 5.5.: Verkehrsgefährdung Heilmannstraße
+- TOP 5.6.: Ringbuslinie um den Waldfriedhof
+- TOP 5.7.: BV-Empf.; Verkehrsberuhigung Forstenried: kein Stäblistraßen-Durchstich
+- TOP 5.8.: Vorfahrtsregelung Meglingerstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Erstaufnahmeeinrichtung Baierbrunner Straße
+- TOP 6.3.: Änderung Flächennutzungsplan und Bebauungsplan - Bauernbräuweg
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Jugendcafe Intermezzo
+- TOP 8: Entscheidungsfälle
+- TOP 1: (E) Haltverbot an der U-Bahn Station Machtlfinger Straße Empfehlung Nr. 08-14 / E 00561 der Bürgerversammlung des 19. Stadtbezirkes Thalkirchen-Obersendling-Forstenried- Fürstenried-Solln am 22.04.2010
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Verfahrensänderung MIP
+- TOP 9.2.: Unveränderte Gaststättenfortführung Kistlerhofstr. 251
+- TOP 9.3.: Grundstücksverkauf Argelsrieder Straße
+- TOP 9.4.: Verkaufsabsicht einer städt. Immobilie - Bleibtreustraße
+- TOP 9.5.: Unterrichtung Grundstücksverkauf Argelsrieder Straße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
