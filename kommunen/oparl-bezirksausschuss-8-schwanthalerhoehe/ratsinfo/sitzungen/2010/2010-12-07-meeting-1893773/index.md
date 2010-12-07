@@ -1,0 +1,52 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2010-12-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1893773
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1893773
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.: Vorstellung des Konzepts für Lokales Bildungsmanagement im Stadtviertel
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Radverkehr Engstelle Kreuzung Bavariastraße / Hans-Fischer-Straße
+- TOP 4.2.: Straßenarbeiten in der Bergmannstraße
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Antwort: Münchner Wochenmärkte
+- TOP 5.2.: Anhörung: Neubau Schwanthalerstraße 119
+- TOP 5.3.: Meldeliste
+- TOP 5.4.: Warenstellagenummantelung, Heimeranstr. 51
+- TOP 5.5.: Anhörung: Sanierung und Aufstockung Tulbeckstr. 12
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Westendstr. 93
+- TOP 8.2.: Bauvorhaben: Trappentreustraße - Stauraum
+- TOP 8.3.: Neubau einer Treppenanlage und Aufwertung der Fuß- und Radwegunterführung Theresienhöhe / Hans-Fischer-Straße
+- TOP 8.4.: Bauvorhaben der SWM
+- TOP 8.5.: Beschlussvorlage: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof - 1. Planänderung -Anhörungsverfahren- Sitzungsvorlagen Nr. 08-14 / V 5522
+- TOP 8.6.: Beschlussvorlage: Ertüchtigung des Bahnknotens München: 2. Stammstrecke Sitzungsvorlagen Nr. 08-14 / V 05521
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Kulturkontor e.V. Lesung mit Musik für Kinder am 18.12.2010 in der Kirche St. Paul
+- TOP 9.2.: Lilalu - Budgetantrag Workshopkarten
+- TOP 9.3.: Änderung des Anhörungsverfahrens zum Mehrjahresinvestitionsprogramm
+- TOP 10: Anträge
+- TOP 10.1.: Errichtung einer Reformschule
+- TOP 11: Verschiedenes
+- TOP 11.1.: Beschlussfassung über Ferienzeit bzw. Bildung eines Ferienausschuses
+- TOP 11.2.: Beschlussfassung über die Größe des Ferienausschusses
+- TOP 11.3.: Benennung der Mitglieder des Ferienausschusses, einschließlich der Ersatzmitglieder
+- TOP 11.4.: Wahl einer/eines Vorsitzenden des Ferienausschusses
+- TOP 11.5.: Bekanntgabe von Sitzungstermin und -ort
+- TOP 11.6.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (Neufassung vom 04.11.2010)
+- TOP 11.7.: Anhörung: Keine weiteren Neonazi-Aufmärsche - Änderung der BA-Satzung
+- TOP 11.8.: Konzept Slackline-Park
+- TOP 12: Protokoll und Umlauf
