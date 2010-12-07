@@ -1,0 +1,75 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2010-12-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1904274
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1904274
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Liedertafel Fasanerie - München e.V. Gottesdienst am 21.11.2010
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Voilá! Opera! e.V. Projekt "Oper in Schulen" im Frühjahr 2011 an der Grundschule Ittlingerstraße
+- TOP 3.1.: Schulweghelfer und Zebrastreifen am Blütenanger/ Kohlröschenstraße
+- TOP 3.2.: Pflegeschnittmaßnahmen an den Großbäumen im Friedhof Feldmoching (n T)
+- TOP 3.3.: Aufnahme der Stadtbezirksviertel des 24.Stadtbezirkes in den zukünftigen Lärmaktionsplan der Bezirksregierung
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Vollzug der Baumschutzverordnung (Bauvorhaben): 5.1.1 Feldmochinger Str. 391 5.1.2 Göttnerstr.8 5.1.3 Karlsfelder Straße 5.1.4 Schittgablerstraße 5.1.5 Balsaminenstr. 12 5.1.6 Schleißheimer Str. 423
+- TOP 5.2.: Bebauungsplan Nr. 70 in Nachbargemeinde Oberschleißheim
+- TOP 5.3.: Änderung des Kataloges der Fälle der Entscheidung; Anhörung und Unterrichtung der Bezirksausschüsse hier: Ziffer 20 BA-Katalog (Veranstaltungen nach dem Versammlungsgesetz)
+- TOP 5.4.: verkehrsrechtliche Anordnung nach § 45 StVO hier: Kurzparkzone Schleißheimer Straße 371
+- TOP 5.5.: Abbau Lichtzeichenanlage BMW Zufahrt Nord/ Schleißheimer Straße
+- TOP 5.6.: Frühlingsfest auf dem Dülferanger vom 07.04. - 17.04.2011 - wie Vorjahre
+- TOP 5.7.: Verkauf einer städt. Immobilie zur Arrondierung an den Eigentümr des Nachbargrundstückes in der Toni-Pfülf-Straße
+- TOP 5.8.: Mobilfunk; Suchkreismeldung im Suchkreis M-Lerchenau-Südost
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Sanierung der Lerchenstraße zwischen Herberg- und Josef-Frankl-Straße (-&gt; BA-Antrag Nr. 08-14/B 00308 vom 29.07.2008)
+- TOP 6.2.: Fahrkartenautomaten am S-Bahnhof Fasanerie (-&gt; BA-Antrag Nr. 08-14/B 02393 vom 14.09.2010)
+- TOP 6.3.: Grillzone am Lerchenauer See (-&gt; BA-Antrag Nr. 08-14/B 02401 vom 14.09.2010)
+- TOP 6.4.: Fußgängerüberweg über den Blütenanger/ Höhe Reigersbachstraße (-&gt; Zwischennachricht zu BA-Antrag 08-14/B 02402, TOP 3.9 am 14.09.2010)
+- TOP 6.5.: Lemgostraße - Rückbau Bahnübergang (-&gt; Rückmeldung zu TOP 2.1 der TO am 05.10.2010)
+- TOP 6.6.: Berberitzenstraße, nordwestlich des Bahnüberganges (-&gt; Antrag TOP N 3.5 am 01.06.2010) 6.6.1 Beseitigung des ungenehmigten Bauzaunes (Planungsreferat) 6.6.2 Erwerb von Wegeflächen im sog. Aussenbereich (Kommunalreferat)
+- TOP 6.7.: Asphalthochboard an der Einmündung Himmelschlüssel-/Feldmochinger Straße (-&gt; TOP 6.3 am 02.03.2010)
+- TOP 6.8.: Weiterführung der Pflanzaktion am Goldlackplatz (-&gt; Antrag TOP 3.3 am 02.03.2010)
+- TOP 6.9.: Anpassung der Auslaufvereinbarung für FlNr.4207/1 (Kleingartenanlage Karlsfelder Straße (-&gt; Schreiben BA 24 von 2008)
+- TOP 6.10.: Errichtung einer Einzelschaukel in den Josef-Frankl-Höfen (-&gt; Antrag Nr. 5/27 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.11.: Mehrjahresinvestitionsprogramm; Fortschreibung für die Jahre 2011 bis 2015 hier: neuer Zeitplan für Anhörungsverfahren
+- TOP 6.12.: Gewährung eines Zuschusses aus dem BA-Budget: Kreisjugendring München-Stadt (hier: Abrechnung/Verwendungsnachweis)
+- TOP 6.13.: Gewährung eines Zuschusses aus dem BA-Budget: Diakonie Hasenbergl e.V. (hier: Abrechnung/ Verwendungsnachweis)
+- TOP 6.14.: Gewährung eines Zuschusses aus dem BA-Budget: Evangeliumskirche Mchn-Hasenbergl (hier: Verwendungsnachweis)
+- TOP 6.15.: Gewährung eines Zuschusses aus dem BA-Budget: Junges Orchester München e.V. (hier: Abrechnung/ Verwendungsnachweis)
+- TOP 6.16.: Gewährung eines Zuschusses aus dem BA-Budget: TSV München 1954 e.V. (hier: Abrechnung/ Verwendungsnachweis)
+- TOP 6.17.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Rossler e.V. (hier: Abrechnung/ Verwendungsnachweis/ Korrektur)
+- TOP 6.18.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.19.: 1. Meldelisten Baumfällungsanträge 2. Meldelisten Bauvorhaben
+- TOP 6.20.: Unterrichtungen über das Fällen von Gefahrenbäumen
+- TOP 6.21.: Vollzug des Bundes-Immissionsschutzgesetzes...: Betrieb von Müllsammelfahrzeugen
+- TOP 6.22.: Verkehrsrechtliche Anordnungen: 6.22.1 Aschenbrennerstr.26 (Behindertenparkplatz) 6.22.2 Lerchenstraße (LZA) 6.22.3 Sonnentaustraße (Einrichtung Verkehrshelferübergang)
+- TOP 6.23.: Grundschule an der lerchenauer Str. 322: Bauablauf Brandschutzsanierung
+- TOP 6.24.: Baumaßnahmen der Stadtwerke München: 6.24.1 Stromprojekt Mitteisstraße 6.24.2 Stromprojekt Weitlstraße (Terminänderung)
+- TOP 6.25.: Beschlussvorlage Sozialreferat: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept
+- TOP 6.26.: Beschlussvorlage Sozialreferat: Haushaltsplan 2011: Ansätze für den Bereich "Förderung freier Träger" der Zentrale
+- TOP 6.27.: Beschlussvorlage Sozialreferat: Haushaltsplan 2011: Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.28.: Beschlussvorlage Sozialreferat: Haushaltsplan 2011: Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.29.: Beschlussvorlage Sozialreferat: Haushaltsplan 2011: Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.30.: Beschlussvorlage Direktorium: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 6.31.: Beschlussvorlage Referat für Gesundheit und Umwelt: Aktualisierung der Münchner Sucht- und Drogenproblematik
+- TOP 6.32.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Ertüchtigung des Bahnknotens München 2. Stammstrecke
+- TOP 6.33.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Essembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes
+- TOP 6.34.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bericht zur Wohnungssituation in München 2008 - 2009
+- TOP 6.35.: -entfällt-
+- TOP 6.36.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bevölkerungsprognose 2009-2030 der Landeshauptstadt München
+- TOP 6.37.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen
+- TOP 6.38.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Pendlerverkehre verlagern: ÖV-Angebote
+- TOP 6.39.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Stadtsanierung in München; Sicherung der Städtebauförderung
+- TOP 6.40.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vollzug des Bayerischen Naturschutzgesetzes; Naturschutzgebiet "Panzerwiese und Hartelholz"
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
