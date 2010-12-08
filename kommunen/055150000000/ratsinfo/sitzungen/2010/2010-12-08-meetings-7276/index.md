@@ -1,0 +1,110 @@
+# 11. Sitzung (Verabschiedung Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2010-12-08T17:47:00+01:00
+- Ende: 2010-12-08T22:46:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7276
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7276
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00301826.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5.2: Anregung §24 GO NRW Aufgabe des Spielplatzes "Pater-Kolbe-Straße" in Amelsbüren - mehrheitlich beschlossen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 6.1: Suche nach Gasvorkommen
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 8.1: Beschäftigung von Menschen mit Migrationsvorgeschichte bei der Stadt Münster - verwiesen
+- TOP 8.2: Unterstützung der Aktion 302 - verwiesen
+- TOP -: Beratungen zum Haushalt 2011
+- TOP 9: Haushalt 2011
+- TOP 10: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2011 - mehrheitlich beschlossen
+- TOP 11: Einführung einer Erstwohnsitzinitiative und Zweitwohnungssteuer für die Stadt Münster - mehrheitlich beschlossen
+- TOP 11.1: Einführung einer Erstwohnsitzinitiative und Zweitwohnungssteuer für die Stadt Münster
+- TOP 12: Schließung der Lehranstalt für pharmazeutisch-technische Assistenten/innen zum 31.08.2012 - mehrheitlich geändert beschlossen
+- TOP 13: Vertragsverlängerung zur Teilübertragung von Sportfördermitteln mit dem Stadtsportbund Münster e. V. - einstimmig beschlossen
+- TOP 14: Geschwister-Scholl-Gymnasium - Teilnahme am Schulversuch " Abitur an Gymnasien nach 12 oder 13 Jahren" - Antrag auf Umwandlung in eine gebundene Ganztagsschule ab dem Schuljahr 2011/2012 - einstimmig beschlossen
+- TOP 15: Auslaufende Auflösung der Wartburgschule - Gemeinschaftshauptschule -, Von-Esmarch-Straße 15, 48149 Münster, ab dem Schuljahr 2011/2012 - einstimmig beschlossen
+- TOP 16: Abendgymnasium und Abendrealschule, weiteres Verfahren zur Lösung der Raumprobleme - einstimmig geändert beschlossen
+- TOP 17: Förderung Musikschularbeit (Produktgruppe 04,03 "Westfälische Schule für Musik und Förderung der e.V.-Musikschulen") hier: Rahmenbedingungen der Förderung ab 2011 / Neue Finanzformel - von der Tagesordnung abgesetzt
+- TOP 18: Handlungskonzept zur Umsetzung des Klimaschutzkonzeptes 2020 für Münster - mehrheitlich beschlossen
+- TOP 18.1: Handlungskonzept zur Umsetzung des Klimaschutzkonzeptes 2020 für Münster
+- TOP 19: Beirat für Klimaschutz Münster - Vorschläge für die Besetzung, Aufgaben und Organisation - einstimmig geändert beschlossen
+- TOP 20: Änderung von Steuern, Gebühren, Tarifen und Entgelten
+- TOP 20.1: Änderung der Gebührenordnung für Parkuhren und Parkscheinautomaten im Gebiet der Stdt Münter - einstimmig beschlossen
+- TOP 20.2: Neufassung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten (Send und Kirmessen) in der Stadt Münster - einstimmig beschlossen
+- TOP 20.3: Dritte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Münster - einstimmig beschlossen
+- TOP 20.3.1: Dritte Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Münster
+- TOP 20.4: Erlass einer Hebesatzsatzung - Erhöhung der Gewerbe- und Grundsteuerhebesätze - - einstimmig beschlossen
+- TOP 20.4.1: Erlass einer Hebesatzsatzung - Erhöhung der Gewerbe- und Grundsteuerhebesätze -
+- TOP 20.5: Änderung der Hundesteuersatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 20.5.1: Änderung der Hundesteuersatzung der Stadt Münster
+- TOP 20.6: Abfallgebühren 2011 - einstimmig beschlossen
+- TOP 20.7: Straßenreinigungsgebühren 2011 - einstimmig beschlossen
+- TOP 20.8: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2011 - einstimmig geändert beschlossen
+- TOP 20.9: Änderung der Gewässergebührensatzung (GGS), - einstimmig beschlossen
+- TOP 20.10: Änderung der Abwassergebührensatzung (AGS) - einstimmig beschlossen
+- TOP 20.11: Neufassung der Entgeltordnung für die Lernwerkstatt der Schulpsychologischen Beratungsstelle - mehrheitlich beschlossen
+- TOP 20.12: Änderung der Gebührensatzung der Stadt Münster für die Westfälische Schule für Musik - einstimmig beschlossen
+- TOP 20.12.1: Änderung der Gebührensatzung der Stadt Münster für die Westfälische Schule für Musik
+- TOP 20.13: Münster-Pass - Einbeziehung der Bädertarife - mehrheitlich beschlossen
+- TOP 20.13.1: Münster-Pass - Einbeziehung der Bädertarife
+- TOP 20.14: Änderung der Satzung für die Benutzung der Friedhöfe der Stadt Münster - einstimmig beschlossen
+- TOP 20.14.1: Änderung der Satzung für die Benutzung der Friedhöfe der Stadt Münster
+- TOP 21: Managementkontrakte
+- TOP 21.1: Managementkontrakt mit der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 21.2: Messe und Congress Centrum Halle Münsterland GmbH: Abschluss eines Managementkontraktes (MMK) für die Jahre 2011 bis 2015 - einstimmig beschlossen
+- TOP 21.3: Managementkontrakt mit der Westfälische Bauindustrie GmbH Münster (WBI) - vertagt
+- TOP 22: Verwendung der Mittel aus der Gewinnausschüttung der Sparkasse Münsterland-Ost
+- TOP 22.1: Finanzierung Elefantenpark - mehrheitlich beschlossen
+- TOP 22.1.1: Finanzierung Elefantenpark
+- TOP 22.2: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost an die Stadt Münster - mehrheitlich geändert beschlossen
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 23: Wirtschaftpläne 2011
+- TOP 23.1: Wirtschaftsplan 2011 der citeq - einstimmig beschlossen
+- TOP 23.2: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 23.3: Wirtschaftsplan 2011 für Münster Marketing - mehrheitlich beschlossen
+- TOP 23.3.1: Wirtschaftsplan 2011 für Münster Marketing
+- TOP 23.4: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2011 - einstimmig beschlossen
+- TOP 24: Änderung von Gesellschaftsverträgen
+- TOP 24.1: Änderung des Gesellschaftsvertrages der Institut für vergleichende Städtegeschichte - IStG - gGmbH (IStG) - einstimmig beschlossen
+- TOP 24.2: Änderung der Gesellschaftsverträge der Wirtschaftsförderung Münster GmbH und ihrer Beteiligungsunternehmen (Technologieförderung Münster GmbH, Center of Nanotechnologie GmbH, - einstimmig beschlossen
+- TOP 24.3: Änderung des Gesellschaftsvertrages der smartOPTIMO GmbH + Co. KG - einstimmig beschlossen
+- TOP 25: Umstrukturierung der Westfälischen Landeseisenbahn (WLE) - mehrheitlich beschlossen
+- TOP 25.1: Umstrukturierung der Westfälischen Landeseisenbahn (WLE)
+- TOP 26: Entwicklung Grevener Straße / Steinfurter Straße - mehrheitlich beschlossen
+- TOP 27: Satzungen zur Änderung der Festsetzungen des Rezesses der Interessenten der Berdelheide - einstimmig beschlossen
+- TOP 28: Änderung der Straßenreinigungssatzung - mehrheitlich beschlossen
+- TOP 29: Kleinräumige Bevölkerungsprognose 2009 bis 2020 der Stadt Münster - zur Kenntnis genommen
+- TOP 30: Herausnahme aus dem Vorbehaltsnetz und Einrichtung einer Tempo-30-Zone für die Nordstraße und für die Wienburgstraße im Abschnitt zwischen Nordplatz und Cheruskerring - vertagt
+- TOP 30.1: Herausnahme aus dem Vorbehaltsnetz und Einrichtung einer Tempo-30-Zone für die Nordstraße und für die Wienburgstraße im Abschnitt zwischen Nordplatz und Cheruskerring
+- TOP 31: Rahmenkonzept zur Schulentwicklungsplanung - von der Tagesordnung abgesetzt
+- TOP 31.1: Rahmenkonzept zur Schulentwicklungsplanung
+- TOP 32: Weiterentwicklung der Berufskollegs: Neuerrichtung, Entfristung und Auflösung von Bildungsgängen an Berufskollegs in städtischer Trägerschaft - einstimmig beschlossen
+- TOP 33: "Offensive für einen guten offenen Ganztag" Antrag der Fraktion Bündnis 90/Die Grünen/GAL und der Ratsgruppe UWG/ÖDP an den Rat Nr. A-R/0030/2010 vom 09.03.2010 - mehrheitlich abgelehnt
+- TOP 34: Sport als Marketingfaktor - Profilierung Münsters als "Stadt in Bewegung" - einstimmig beschlossen
+- TOP 34.1: Sport als Marketingfaktor - Profilierung Münsters als "Stadt in Bewegung"
+- TOP 35: Bauleitplanung
+- TOP 35.1: Stadtbezirk Münster-West
+- TOP 35.1.1: 4. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - - Weseler Straße / Autobahnzubringer (B 51 a) / Bundesbahnstrecke Wanne-Eickel-Bremen / Heroldstraße - einstimmig beschlossen
+- TOP 35.1.2: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung - von der Tagesordnung abgesetzt
+- TOP 35.1.3: 7. Änderung des Bebauungsplanes Nr. 136: Mecklenbeck - Weseler Str. / Schwarzer Kamp - einstimmig beschlossen
+- TOP 36: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 37: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 37.1: Das Bildungspaket für junge Menschen ohne Verzögerung in kommunaler Regie umsetzen - einstimmig geändert beschlossen
+- TOP 38: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 38.1: Kraftstoffverbrauch der Stadt Münster senken - verwiesen
+- TOP 38.2: Damit nichts anbrennt: Engagement in der Freiwilligen Feuerwehr aktiv fördern - verwiesen
+- TOP 38.3: Den Weg zu einer nachhaltigen Gebäudewirtschaft einschlagen - verwiesen
+- TOP 39: Verschiedenes
