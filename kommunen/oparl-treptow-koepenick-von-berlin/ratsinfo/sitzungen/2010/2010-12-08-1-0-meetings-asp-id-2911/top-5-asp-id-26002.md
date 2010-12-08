@@ -1,0 +1,7 @@
+# TOP 5: Sporthallennutzung - Ergebnis aus dem Treffen der Fußball-AG am 18.11.2010
+
+- Sitzung: 42. (öfftl.) Sitzung des Ausschusses für Sport (2010-12-08)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=26002
+- Ergebnis: erledigt
