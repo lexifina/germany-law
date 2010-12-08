@@ -1,0 +1,57 @@
+# öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-12-08T16:05:00+01:00
+- Ende: 2010-12-08T18:00:00+01:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/111
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8360
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8360
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00124189.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00124965.pdf
+
+## Tagesordnung
+
+- TOP 0: Vorab:
+- TOP 0.1: Soziale Stadt und Stadtumbau West Oberbarmen/Wichlinghausen - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 0.2: Stadtumbau West (Soziale Stadt) Elberfelder Nordstadt/ Arrenberg, Unterbarmen, Oberbarmen/ Wichlinghausen: Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 1: Evaluation der Tätigkeit der Bergischen Entwicklungsagentur - Entgegennahme ohne Beschluss
+- TOP 2.1: Investitionsbedarf für die Nordbahntrasse - Entgegennahme ohne Beschluss
+- TOP 2.2: Investitionsbedarf für die Nordbahntrasse - Antwort auf die Große Anfrage der WfW-Fraktion vom 11.10.2010 - Entgegennahme ohne Beschluss
+- TOP 2.3: Zukunft der Nordbahntrasse - Entgegennahme ohne Beschluss
+- TOP 2.4: Zukunft der Nordbahntrasse - Antwort auf die Große Anfrage der FDP-Fraktion vom 20.10.2010 - Entgegennahme ohne Beschluss
+- TOP 2.5: Investitionsbedarf der Nordbahntrasse - Entgegennahme ohne Beschluss
+- TOP 2.6: Große Anfrage der Ratsfraktion Wählergemeinschaft für Wuppertal (WfW) vom 23. November 2010 - Entgegennahme ohne Beschluss
+- TOP 3: Bewerbung um Aufnahme in das Landesprogramm "100 Klimaschutzsiedlungen NRW" mit den Neubauvorhaben Sonnborner Straße/Kirchhofstraße und Stollenstraße - ungeändert beschlossen
+- TOP 4.1: Bebauungsplan Nr. 1123 - Stollenstr.- - geändert beschlossen
+- TOP 4.2: Bebauungsplan Nr. 830 - Sicherung von Kleingartenanlagen- 2. Änderung - ungeändert beschlossen
+- TOP 4.3: Aufhebung der Fluchtlinienpläne 109 und 319 - ungeändert beschlossen
+- TOP 5: Antrag auf Änderung des Regionalplanes im Bereich Lichtscheid - vorbehaltlich beschlossen
+- TOP 6: Bebauungsplan Nr. 1094/1 - Buschstraße - - vorbehaltlich beschlossen
+- TOP 7: Bebauungsplan Nr. 1094 - Christbusch (Haus Waldfrieden) - - vorbehaltlich beschlossen
+- TOP 8: Bebauungsplan Nr. 1158 - Gewerbegebiet Unterkirchen - - ungeändert beschlossen
+- TOP 9.1: Flächennutzungsplanänderung Nr. 63 - Sportplatz Sondern - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplanverfahren Nr. 1151 - Sportplatz Sondern - - geändert beschlossen
+- TOP 10: Bebauungsplan Nr. 778 - Ascheweg/ Zandershöfe -/ 2. Änderung - ungeändert beschlossen
+- TOP 11: Bebauungsplan Nr. 276 - Klippe - - ungeändert beschlossen
+- TOP 12: Bebauungsplan Nr. 1160 - Herzogstraße / Neumarktstraße - - ungeändert beschlossen
+- TOP 13: Bebauungsplan Nr. 1144 - Friedrich-Ebert-Str. / Multiservicecenter - - ungeändert beschlossen
+- TOP 14: Bebauungsplan Nr. 1132 - Vogelsangstraße / Wilhelm-Raabe-Weg - - ungeändert beschlossen
+- TOP 15: Bebauungsplan Nr. 460 - Einern - - ungeändert beschlossen
+- TOP 16: Bebauungsplan Nr. 1135 - Am Schaffstal - - ungeändert beschlossen
+- TOP 17: Erklärung über die Funktionslosigkeit von Festsetzungen im Bebauungsplan Nr. 756 - Gärtnerstraße - - ungeändert beschlossen
+- TOP 18: Erklärung über die Funktionslosigkeit von Festsetzungen im BP Nr. 605 - Zedernweg - ungeändert beschlossen
+- TOP 19.1: Neugestaltung Döppersberg - Bericht - Entgegennahme ohne Beschluss
+- TOP 19.2: Döppersberg - Entgegennahme ohne Beschluss
+- TOP 20: Möblierung in der Innenstadt Elberfeld - zur Entscheidung verwiesen
+- TOP 21.1: Standort Energiewirtschaft und Ressourceneffizienz weiter zu entwickeln - Entgegennahme ohne Beschluss
+- TOP 21.2: Energie- und Umweltkompetenzzentrum Wuppertal/NRW - Entgegennahme ohne Beschluss
+- TOP 22.1: Städtische Grundstücke - Entgegennahme ohne Beschluss
+- TOP 22.2: Antwort auf die Große Anfrage der FDP Fraktion im Rat der Stadt Wuppertal vom 17.11.10 - Städtische Grundstücke - Entgegennahme ohne Beschluss
+- TOP 23.1: Anfrage zum Grundstück Loh/ Am Brögel - Entgegennahme ohne Beschluss
+- TOP 23.2: Anfrage zum Loh/Am Brögel - Entgegennahme ohne Beschluss
+- TOP 24.1: Antrag zum Fortgang der Metro aus Wuppertal - Entgegennahme ohne Beschluss
+- TOP 24.2: Fortgang der Metro aus Wuppertal - Entgegennahme ohne Beschluss
+- TOP 25.1: Sachstandsbericht zum Stand der Planung der ehemaligen DB-Direktion - Entgegennahme ohne Beschluss
