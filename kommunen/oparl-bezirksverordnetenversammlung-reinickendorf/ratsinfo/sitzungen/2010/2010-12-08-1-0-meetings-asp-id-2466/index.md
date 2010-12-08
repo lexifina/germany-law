@@ -1,0 +1,102 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2010-12-08T17:10:00+01:00
+- Ende: 2010-12-08T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2466
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2466
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=50320
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - in der BVV abgelehnt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Zeitliche Geschwindigkeitsbeschränkung vor Schulen und Kindergärten einheitlich regeln (Beschlussempfehlung 06.10.2010 und 10.11.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Kleingärtner / Kleingärtnerinnen helfen bei gesunder Ernährung an Schulen (Beschlussempfehlung 06.10.2010 und 10.11.2010) - in der BVV abgelehnt
+- TOP 5.3: Sonder-Bauprogramm für Schulstrukturreform (Beschlussempfehlung 06.10.2010 und 10.11.2010) - in der BVV abgelehnt
+- TOP 5.4: Spielplatzflächen in Reinickendorf (Beschlussempfehlung 06.10.2010 und 10.11.2010) - in der BVV abgelehnt
+- TOP 5.5: Radfahrstreifen Holzhauserstraße (Beschlussempfehlung 06.10.2010 und 10.11.2010) - erledigt
+- TOP 5.6: Unterstützung GSW-Mieter (Beschlussempfehlung 06.10.2010 und 10.11.2010) - mit Änderungen in der BVV beschlossen
+- TOP 5.7: Keine Einheitsschulen in Reinickendorf (Ersuchen 06.10.2010 und 10.11.2010) - überwiesen
+- TOP 5.8: Gemeinschaftsschule im MV (Ersuchen 06.10.2010 und 10.11.2010) - überwiesen
+- TOP 5.9: Goldener Herbst? - Fehlerhafte Daten in Pressemitteilung des Bezirksamtes (Große Anfrage 10.11.2010) - beantwortet
+- TOP 5.10: Woche der Demokratie 2010 (Große Anfrage 10.11.2010) - beantwortet
+- TOP 5.10.1: Woche der Demokratie - überwiesen
+- TOP 5.11: NEB-Insel - Wunschkonzert für Investoren? (Große Anfrage 10.11.2010) - beantwortet
+- TOP 5.12: Umsetzung der Baumaßnahme Alemannenstraße (Antrag 10.11.2010) - erledigt
+- TOP 5.12.1: Umsetzung der Baumaßnahme Alemannenstraße - überwiesen
+- TOP 5.12.2: Umsetzung der Baumaßnahme Alemannenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.12.3: Umsetzung der Baumaßnahme Alemannenstraße - überwiesen
+- TOP 5.13: Oberschulbroschüren (Ersuchen 10.11.2010) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Weihnachtsmarkt in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Nostalgischer Weihnachtsmarkt in Reinickendorf 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Serenade im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Beschilderung Tempo 30 der Frohnauer Plätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Gute-Nacht-Café in Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Geschwindigkeitsüberwachung in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Familien- und kinderfreundlicher Bezirk - Kita-Messe Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Behindertengerechter Zugang zu den Schwimmbecken des Hallenbades im MV - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Aufklärungsschilder: Umsichtiges Füttern von Wasservögeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Kostenlose Abgabe von Laub bei der BSR-Kompostierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Transparenz bei Gutachten herstellen - vertagt
+- TOP 7.12: Verkehrsregelung Rue Racine - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Fußgängerampelschaltung Kreuzung Oranienburger Straße/Eichborndamm/Wilhelmsruher Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Barrierefreier Zugang zu den Waldwegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Hilfestellung und Unterstützung bei ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitäts-Störung) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Verkehrspolitik mit Augenmaß - gegen ideologiegetriebene Drangsalierung einzelner Gruppen von Verkehrsteilnehmern - vertagt
+- TOP 8.2: Stadtplanung in Reinickendorf? - vertagt
+- TOP 8.3: Tegelort: Reinickendorfs "Admiralsbrücke"? - zurückgezogen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Übertragung der Jugendfreizeiteinrichtung "Freizeitzentrum Amendestraße" in freie Trägerschaft an den "Evangelischen Kirchenkreis Reinickendorf" - überwiesen
+- TOP 9.3: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Aufgabe der Freizeiteinrichtung "Terra" in Frohnau - überwiesen
+- TOP 9.5: Bebauungsplanentwurf 12-15 vom 30. April 2008; Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-15 vom 30. April 2008 - überwiesen
+- TOP 9.6: Wahl von stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - vertagt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Grünflächen Märkisches Viertel - in der BVV abgelehnt
+- TOP 10.2: Kinderfreundliches Reinickendorf I - Leitbild - in der BVV abgelehnt
+- TOP 10.3: ÖPNV-Anbindung Gelände TXL - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bekämpfung der Miniermotte - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Kreisverkehre Ruppiner Chaussee - in der BVV abgelehnt
+- TOP 10.6: Freier Weg für Fußgänger im Knappenpfad in Frohnau - erledigt
+- TOP 10.7: Kein Hunde-Verbot in Reinickendorfer Parkanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Aufwertung Spielplatz Göschenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Mauerstreifen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Beleuchtung in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Erhalt der Postfilialen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Einhaltung von Auflagen zu Baumpflanzungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Aufarbeitung des DDR-Unrechts in Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Beteiligung Reinickendorfs an Entscheidung des JobCenters - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Änderung des Sozialgesetzbuches II - überwiesen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Haushaltsberatung in den Fachausschüssen durchführen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: UNESCO-Weltkulturerbe "Weiße Stadt" in Reinickendorf - überwiesen
+- TOP 12.2: Bürgerbüro am Flughafen Tegel - überwiesen
+- TOP 12.3: Zusammenarbeit Gartenschule - überwiesen
+- TOP 12.4: Zusammenarbeit Jugendhilfe und Schule verbessern - überwiesen
+- TOP 12.5: Ideenwettbewerb für die Benennung des Flußkreuzschifffahrtsanlegers in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Aussetzung des Zivildienstes - überwiesen
+- TOP 12.7: Wohin gehen unsere Schüler? - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Zustand des U-Bahnhof Paracelsus-Bad - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Bessere Busanbindung Seniorenanlage Büdnerring - überwiesen
+- TOP 13.3: Nachnutzung TXL - Vorrang für Arbeitzsplätze (1) Elektromobilität - überwiesen
+- TOP 13.4: Aufzüge für Reinickendorfer U-Bahnhöfe der Linie U8 - überwiesen
+- TOP 13.5: Wirtschaftsfreundlichster Bezirk Reinickendorf (1) - Arbeitgeberservice - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Kurzzeitiges Parken im Eichborndamm Ecke Alt-Wittenau - überwiesen
+- TOP 13.7: Wirtschaftsfreundlichster Bezirk Reinickendorf (2) - Speed-Vermittlungsbörse - überwiesen
+- TOP 13.8: Unterstützung Obdachloser - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Berichte des JobCenter-Geschäftsführers im Sozialausschuss - vertagt
