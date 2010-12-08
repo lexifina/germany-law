@@ -1,0 +1,97 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2010-12-08T17:15:00+01:00
+- Ende: 2010-12-08T22:35:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1363
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1363
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Vorlage zur Kenntnisnahme - (offen)
+- TOP 1.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines Beisitzers in den Vorstand der BVV Neukölln von Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Nachwahl eines Mitgliedes in den Beirat für das Vivantes Klinikum Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Ferienzeit der BVV Neukölln von Berlin zum Jahreswechsel 2010/2011 und im Jahr 2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Benennung einer Bezirksverordneten als stellvertretendes Mitglied in den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.2: Benennung eines Mitgliedes in den Beirat für Menschen mit Behinderung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Bildung und Kultur in Neukölln - beantwortet
+- TOP 9.2: Endlich JÜL auf freiwilliger Basis! - beantwortet
+- TOP 9.3: Kosten für die Musikschule - beantwortet
+- TOP 9.4: Pädophilie - beantwortet
+- TOP 9.5: Grundwasseranstieg in Buckow und Rudow - beantwortet
+- TOP 9.6: Sonderschulen vor dem Aus? - schriftlich beantwortet
+- TOP 9.7: Mentorenprogramme an Neuköllner Schulen - schriftlich beantwortet
+- TOP 9.8: Sport an der Fritz-Karsen-Schule - schriftlich beantwortet
+- TOP 9.9: Als "offene Wohnungen" getarnte Anlaufstellen für sexuelle Übergriffe - beantwortet
+- TOP 9.10: Übertragung von Abteilungsdefiziten - schriftlich beantwortet
+- TOP 9.11: Personalsituation an der Fritz-Karsen-Schule - schriftlich beantwortet
+- TOP 9.12: Einsparungen beim Programm Soziale Stadt - beantwortet
+- TOP 9.13: Krippe und Stall sind keine Lösung? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Geld für die Jugend statt für Parkplätze! - beantwortet
+- TOP 10.2: Haushaltsplan 2011 - beantwortet
+- TOP 10.3: Zukunft der QM's in Neukölln - beantwortet
+- TOP 10.4: Chaos an der Röntgen-Schule - schriftlich beantwortet
+- TOP 10.5: Keine Kürzungen im Jugendhaushalt - überwiesen
+- TOP 10.6: Ergänzungsplan zum Bezirkshaushalt 2011 - überwiesen
+- TOP 10.7: Entwicklung von Arbeitsgelegenheiten in 2011 - überwiesen
+- TOP 10.8: Integrationssteuer - in der BVV abgelehnt
+- TOP 10.9: Mehr Bürgerbeteiligung und Transparenz (3) Hauptausschuss soll öffentlich tagen - überwiesen
+- TOP 10.10: Zusammenlegung von Schülern deutscher Herkunft auf wenige gemeinsame Schulen - in der BVV abgelehnt
+- TOP 10.11: Mehr Bürgerbeteiligung und Transparenz (4) Tischvorlagen des Bezirksamtes nur in begründeten Fällen - überwiesen
+- TOP 10.12: Mehr Bürgerbeteiligung und Transparenz (5) Bürgerinnen und Bürger an Haushaltsfortschreibung beteiligen - überwiesen
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Tempelhofer Feld - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schillerkiez beruhigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Bürgerinformationen über Grünanlagenumgestaltung optimieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: Flugrouten über Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: Sicherer Überweg für die High-Deck-Siedlung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Alternative Flugrouten - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Haushaltsunregelmäßigkeiten in der Abteilung Jugend - beantwortet
+- TOP 12.2: Mehr Vorbereitungsklassen notwendig? - vertagt
+- TOP 12.3: Neuköllner Sekundarschulen - vertagt
+- TOP 12.4: Otto-Hahn-Schule - vertagt
+- TOP 12.5: Unterricht für Schülerinnen und Schüler mit mangelnden Deutschkenntnissen - vertagt
+- TOP 12.6: Wie kommt Bildung zu armen Kindern? - vertagt
+- TOP 12.7: Lernqualität an der Konrad-Agahd-Grundschule sichern - vertagt
+- TOP 12.8: JobCenterbeirat - Neue Rahmenvereinbarung - vertagt
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Bürgerarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Chancengleichheit für alle Neuköllner Kinder - überwiesen
+- TOP 14.3: Bildungsangebot an der Albrecht-Dürer-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Die Ausstellung "Die Mauer. Eine Grenze durch Deutschland" nach Neukölln holen - überwiesen
+- TOP 14.5: Maximale Fördermenge der Brunnengalerie im Glockenblumenweg - überwiesen
+- TOP 14.6: Deutsch-Förderunterricht verstärken - überwiesen
+- TOP 14.7: Zweiter U-Bahnausgang an den Bahnhöfen Lipschitzallee und Zwickauer Damm - überwiesen
+- TOP 14.8: Beteiligung der BVV am JobCenterbeirat - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Lernqualität an der Konrad-Agahd-Grundschule - überwiesen
+- TOP 14.10: Bürgerarbeit aufwerten - überwiesen
+- TOP 14.11: Beleuchtung Schwarzer Weg - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Sicherheit an der Kreuzung Gutschmidtstraße/Ecke Fritz-Reuter-Allee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Gebührenbefreiung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Kita-Ausbildungsverbund - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.2: Zuschüsse zu Kita-Fahrten für Kinder aus Hartz-IV-Familien - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Bebauungsplan XIV-287b vom 06.07.2007 ("Krugpfuhlsiedlung - Rambowstraße") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Ausbau der bilingualen Plätze in der Kita Riesestraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Bebauungsplan XIV-287c vom 06.07.2007 mit dem Deckblatt vom 05.10.2009 ("Krugpfuhlsiedlung - Parchimer Allee") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Einzelhandels- und Zentrenkonzept - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Bebauungsplan XIV-287a vom 06.07.2007 mit dem Deckblatt vom 05.10.2009 ("Krugpfuhlsiedlung - Hanne Nüte") - mit Abschlussbericht zur Kenntnis genommen
