@@ -1,0 +1,60 @@
+# 5. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2010-12-13T10:00:00+01:00
+- Ende: 2010-12-13T13:25:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-5
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-5
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-5
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-5
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-5
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Bauprogramm 2011 für Maßnahmen des Landesstraßenausbauplans; Information
+- TOP 1.2: Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten und Radwegebau an bestehenden Landesstraßen; Beschluss über die Priorisierung von Maßnahmen für das Jahr 2011
+- TOP 1.3: Städtebauförderung; Aufstellung des Stadterneuerungsprogramms 2011
+- TOP 1.4: Gefährdungsabschätzung und Sanierung von Altlasten; Förderprogramm 2011
+- TOP 1.5: Kunst- und Kulturförderung; Projektförderung im Rahmen der Regionalen Kulturpolitik 2011
+- TOP 1.6: Einstellung des Verfahrens zur 1.Änderung des LEP NRW - Energieversorgung
+- TOP 1.7: 7.Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln - Erarbeitungsbeschluss
+- TOP 1.7.1: Resolution Datteln 4 - ökologisch, industriepolitisch, volkswirtschaftlich - Sinnvoll und wichtig für die Metropole Ruhr
+- TOP 1.7.2: Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln - Erarbeitungsbeschluss - Änderungsantrag von SPD-Fraktion und Bündnis 90/Die Grünen
+- TOP 1.7.3: Resolution der Fraktion Die Linke. vom 12.12.2010 zum TOP 1.7 Datteln IV - klimapolitisch, industriepolitisch und volkswirtschaftlich ein falsches Signal zum Schaden der Region Ruhr
+- TOP 1.8: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wiederwahl des Regionaldirektors
+- TOP 2.1.1: Einsparen einer Dezernentenstelle
+- TOP 2.1.2: Überprüfung der Bereichsleitungen Änderungsantrag der Fraktion Die Linke. vom 12.12.2010 zum TOP 2.1.2
+- TOP 2.1.3: Änderungsantrag zum Tagesordnungspunkt 2.1 'Wiederwahl des Regionaldirektors'
+- TOP 2.1.4: Besoldung der Stellen der Bereichsleiter
+- TOP 2.2: Ausschreibung der Stelle der Bereichsleitung II Wirtschaftsführung / Wiederwahl
+- TOP 2.2.1: Änderungsantrag zum Tagesordnungspunkt 2.2 'Ausschreibung der Stelle der Bereichsleitung II Wirtschaftsförderung / Wiederwahl'
+- TOP 2.3: Ausschreibung der Stelle der Bereichsleitung III Planung / Wiederwahl
+- TOP 2.3.1: Antrag zum Tagesordnungspunkt 2.3 'Ausschreibung der Stelle der Bereichsleitung III Planung / Wiederwahl'
+- TOP 2.4: Ausschreibung der Stelle der Bereichsleitung IV Umwelt / Wiederwahl
+- TOP 2.4.1: Änderungsantrag zum Tagesordnungspunkt 2.4 'Ausschreibung der Stelle der Bereichsleitung IV Umwelt / Wiederwahl
+- TOP 2.5: Eckpunkte für die Umsetzung des Masterplans Kulturmetropole Ruhr und zur Nachfolge von Ruhr 2010 sowie weitere Vorgehensweise
+- TOP 2.5.1: Änderungsantrag zum Tagesordnungspunkt 2.16 'Eckpunkte für die Umsetzung des Masterplans Kulturmetropole Ruhr und zur Nachfolge von Ruhr.2010' sowie weitere Vorgehensweise.
+- TOP 2.5.2: Ergänzungsantrag zum Tagesordnungspunkt 2.16 'Eckpunkte für die Umsetzung des Masterplans Kulturmetropole Ruhr und zur Nachfolge von Ruhr.2010' sowie weitere Vorgehensweise.
+- TOP 2.5.3: Änderungsantrag der Fraktion Die Linke. vom 12.12.2010 zum Änderungsantrag von SPD-Fraktion und Bündnis 90/Die Grünen vom 10.12.2010 zum TOP 2.16
+- TOP 2.5.4: Kulturmetropole und RUHR.2010
+- TOP 2.6: Wechsel im Verwaltungsrat der Freizeitzentrum Kemnade GmbH
+- TOP 2.7: Erhöhung des Höchstbetrages der Aufnahme von Krediten zur Liquiditätssicherung (Kassenkredite)
+- TOP 2.8: Einbringung des Haushalts 2011
+- TOP 2.8.1: Strategische Haushaltskonsolidierung 2011 - 2015
+- TOP 2.9: Bericht über die überörtliche Prüfung des Regionalverbandes Ruhr (RVR) von Mai bis August 2009 durch die Gemeindeprüfungsanstalt NRW
+- TOP 2.10: Bericht über die vom 24.08. bis 25.09.2009 von der Gemeindeprüfungsanstalt durchgeführten überörtlichen Prüfung der Eröffnungsbilanz des Regionalverbandes Ruhr
+- TOP 2.11: Änderung des Beschlusses über die Verwendung des Jahresüberschusses 2006
+- TOP 2.12: Bericht über die Prüfung des Jahresabschlusses 2007, Feststellung des Jahresabschlusses 2007, Verwendung des Jahresüberschusses 2007 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2007
+- TOP 2.13: Ergebnisrechnung 2009, Prüfbericht
+- TOP 2.14: Angelegenheiten der RUHR.2010 GmbH - Jahresabschluss zum 31.12.2009
+- TOP 2.15: Angelegenheiten der übrigen Beteiligungsgesellschaften - Jahresabschluss der TouristikEisenbahnRuhrgebiet GmbH zum 31.12.2009
+- TOP 2.16: Beteiligungsbericht 2009 nach der Gemeindeordnung Nordrhein-Westfalen (GO NRW)
+- TOP 2.17: Resolution von SPD-Fraktion und Bündnis 90/Die Grünen vom 06.12.2010 zur Betuwe-Linie
+- TOP 2.18: Anfragen und Mitteilungen
