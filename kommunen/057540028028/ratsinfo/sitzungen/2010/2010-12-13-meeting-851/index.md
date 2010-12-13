@@ -1,0 +1,56 @@
+# Rat der Stadt Rheda-Wiedenbrück (8. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2010-12-13T17:00:00+01:00
+- Ende: 2010-12-13T19:43:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Großer Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZT7gQqUC5FNN5FAgBnY6MY0
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/851
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZStNThOQzOwD633nJB75Hvwa38qmVwys_7vrvt-4cIZ5/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_13.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc_zhixwtea_TjzNvngMeDy5HLcbSvmihKxXe0EZ6gqD/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_13.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Einführung und Verpflichtung des nachrückenden Ratsmitgliedes für die FDP-Fraktion
+- TOP 5: Umbesetzung in den Ausschüssen des Rates sowie in Organen - Einstimmig
+- TOP 6: Jahresabschluss zum 31.12.2007; Feststellung und Entlastung des Bürgermeisters - 38 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 7: Jahresabschluss 2008 - Einbringung des Entwurfes gem. § 95 GO NRW - 38 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 8: Prüfung des Jahresabschlusses und des Lageberichtes des Eigenbetriebes Abwasser zum 31.12.2009 hier: Bericht der BRV AG - 38 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 9: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2011 - Einstimmig
+- TOP 10: Einbringung des Abschlussberichtes der Arbeitsgruppe Haushaltskonsolidierung und Aufgabenkritik - Kenntnisnahme
+- TOP 11: Einrichtung eines eigenen Jugendamtes in Rheda-Wiedenbrück - Einstimmig
+- TOP 12: Einbringung des Masterplans 2020+ für die Stadt Rheda-Wiedenbrück durch das Büro Tischmann Schrooten - Kenntnisnahme
+- TOP 13: Wirtschaftsplan 2011 des Eigenbetriebes Abwasser; Vorlage des Entwurfs des Wirtschaftsplanes und der Gebührenkalkulation 2011 - 39 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 14: Wirtschaftsplan für den Betrieb Bauhof für das Wirtschaftsjahr 2011 - Einstimmig
+- TOP 15: Wiederwahl Technischer Beigeordneter Gerhard Serges - 21 Ja-Stimme(n), 17 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 16: Friedhof der Katholischen Kirchengemeinde St. Clemens – Antrag auf Zuschuss zur Neugestaltung des Parkplatzes an der Straße "Auf der Schulenburg" - Dem Beschluss wird mehrheitlich zugestimmt.
+- TOP 17: Instandhaltungsmaßnahmen im Flora-Westfalica-Park Gewährung eines städtischen Zuschusses - 37 Ja-Stimme(n), 1 Nein-Stimme(n)
+- TOP 18: Ehrenamtliche DRK-Rettungswache Rheda-Wiedenbrück - Antrag auf Gewährung eines Zuschusses - 38 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 19: Gewährung eines Zuschusses an den Domhof-Förderverein e. V. - Einstimmig
+- TOP 20: Antrag der UWG-Fraktion auf Aufnahme des Tagesordnungspunktes "Erwerb eines Hausgrundstücks" - 37 Ja-Stimme(n), 2 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 21: Außerplanmäßige Mittelbereitstellung - 38 Ja-Stimme(n), 2 Enthaltung(en)
+- TOP 22: Genehmigung einer Dringlichkeitsentscheidung zur überplanmäßigen Mittelbereitstellung - Einstimmig
+- TOP 23: Neukalkulation der Abfallentsorgungsgebühren und Änderung der Satzung über die Abfallentsorgung und Abfallentsorgungsgebühren - Einstimmig
+- TOP 24: Vorhabenbezogener Bebauungsplan VEP 5 „Herzebrocker Straße“ 1. Änderung a) Ergebnisse der Offenlage und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange b) Satzungsbeschluss - Einstimmig
+- TOP 25: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 26: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 27: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 28: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 29: Erklärung von Ausschließungsgründen
+- TOP 30: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 31: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 32: Bestellung eines Geschäftsführers für die AUREA DAS A2-WIRTSCHAFTSZENTRUM GmbH - 30 Ja-Stimme(n), 9 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 33: Altpapierentsorgung - Vereinbarung mit dem Kreis Gütersloh für die Jahre 2011 bis 2015 - 39 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 34: Auslaufen des Konzessionsvertrages für Strom - Vorschlag für das weitere Vorgehen - Einstimmig
+- TOP 35: Stundungen und Niederschlagungen von Forderungen - Einstimmig
+- TOP 36: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 37: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 38: Dringende Anfragen und Anregungen
