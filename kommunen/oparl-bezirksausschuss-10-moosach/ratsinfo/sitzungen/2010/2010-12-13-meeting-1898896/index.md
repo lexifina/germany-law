@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2010-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1898896
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1898896
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Abbiegespur Pelkovenstraße / Riesstraße
+- TOP 2.2.: Ampelanlage Dachauer Straße / Leipziger Straße
+- TOP 2.3.: Absperrpfosten Jakob-Hagenbucher-Straße
+- TOP 2.4.: Buslinie 50
+- TOP 2.5.: Verkehrsführung Brieger Straße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Ein Brunnen für Moosach: Kunstwettbewerb
+- TOP 3.2.: Ein Brunnen für Moosach
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Claudiusplatz
+- TOP 3.2.: Ortstermin Ampelanlage Torgauer- / Feldmochinger Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Verschiedene Bauanträge
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Kurzparken in der Umgebung des Memminger Platzes
+- TOP 4.2.: Beibehaltung der Haltestellen in der Großbeerenstraße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Radwegbenutzungspflicht
+- TOP 4.2.: Probleme beim 5-Minuten-Takt der U 1
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: Widmung eines Weges an der Riesstraße
+- TOP 6: Anhörungen
+- TOP 6.1.: Werbeanlage Georg-Brauchle-Ring
+- TOP 6.2.: Baumfällungen Bunzlauer Platz
+- TOP 6.3.: Absolutes Halteverbot in der Darmstädter Straße
+- TOP 6.4.: Memminger Platz, Grünflächenherstellung
+- TOP 6.5.: Werbeanlage Donauwörther Straße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Instandsetzung BMX-Hügel Triebstraße (Löcher werden aufgefüllt)
+- TOP 7.2.: Straßenzustand Karlingerstraße (wird geprüft)
+- TOP 7.3.: Maßnahmen gegen den Gespinstmottenbefall im Grünzug Merseburger Straße (Traubenkirschenn werden herausgenommen)
+- TOP 7.4.: Erhalt der Buslinie 50 bis Moosach (nicht möglich)
+- TOP 7.5.: Rauchen vor dem Schulgebäude Gerastraße
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: LKW-Parken am Claudiusplatz
+- TOP 8.4.: Wochenmarkt am Moosacher Bahnhof
+- TOP 8.5.: Anhörungsverfahren 2. S-Bahn-Stammstrecke (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.6.: Ertüchtigung des Bahnknotens München (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.7.: Bebauungsplan Hanauer Straße / Pelkovenstraße ( Satzungsbeschluss)
+- TOP 8.8.: Mobilität in Deutschland
+- TOP 8.9.: München setzt auf's Rad
+- TOP 8.10.: Mediendorf und Olympiadorf 2018 mittels Cargo-Tram emmissionsarm erbauen
+- TOP 8.11.: Fällung von Gefahrenbäumen
+- TOP 8.12.: Mehrjahresinvestitionsprogramm ? Änderung im Anhörungsverfahren
+- TOP 8.13.: Sozialreferat: Haushaltsplan 2011 (Änderung)
+- TOP 8.14.: Nachqualifizierung und Revision der Denkmalliste durch das Bayer. Landesamt für Denkmalpflege
+- TOP 8.15.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
