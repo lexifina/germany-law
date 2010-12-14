@@ -1,0 +1,51 @@
+# Rat (53. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2010-12-14T18:02:00+01:00
+- Ende: 2010-12-14T21:49:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Ratssaal
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-14
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZbnFwyhk5IHld-cz77XJXgE
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/6757
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeCeA3Ipy3_5fjxKszw0nH3mc-GxnvYvFWQt70IU6_hV/Bekanntmachung_Rat_14.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcXivF3OrA4NtTOxY5rHn25XunTjAxVJjpaI2uCukJm3/Oeffentliche_Niederschrift_Rat_14.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Einwohnerfragestunde
+- TOP 2.: Niederschrift über die letzte Sitzung vom 09.11.2010
+- TOP 3.: Anträge und Anfragen; Eingänge
+- TOP 4.: Finanzangelegenheiten
+- TOP 4.1: Ausschüttung aus Allgemeiner Rücklage Abwasserwerk in Höhe des Jahresüberschusses 2007 und vorzeitige Ausschüttung Jahresüberschuss 2010 - 36 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 5.: Ermächtigungsübertragungen 2009 gem. § 22 GemHVO für das Abwasserwerk der Stadt Emsdetten - Zur Kenntnis genommen
+- TOP 6.: Stadtwerke Emsdetten GmbH
+- TOP 6.1: Jahresabschluss 2009 Stadtwerke Emsdetten GmbH und Kapitalausschüttung - Einstimmig
+- TOP 6.2: Stadtwerke Emsdetten GmbH - Erweiterung des Gesellschaftszwecks - Einstimmig
+- TOP 7.: Gebührenhaushalte / Betriebsabrechnungen
+- TOP 7.1: Abwasserbeseitigung; Gebührenkalkulation für das Jahr 2011 - 36 Ja-Stimme(n), 2 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 7.2: Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Emsdetten in der Fassung des XVI Nachtrags - Einstimmig
+- TOP 8.: Allgemeine Vertretung des Bürgermeisters - 17 Ja-Stimme(n), 21 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.: Satzungsrecht
+- TOP 9.1: Änderung der Hauptsatzung für die Stadt Emsdetten - (kein Text vorhanden)
+- TOP 9.1.1: Änderung der Hauptsatzung für die Stadt Emsdetten - 21 Ja-Stimme(n), 17 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.2: Bestellung eines stellvertretenden Betriebsleiters für das Abwasserwerk der Stadt Emsdetten inklusive der hierfür notwendigen Änderung der Betriebssatzung - Einstimmig
+- TOP 9.3: I. Nachtrag zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 18. Dezember 2009 - Einstimmig
+- TOP 9.4: V. Nachtrag zur Gebührensatzung vom 31. Mai 2006 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 18.12.2009 - Einstimmig
+- TOP 9.5: IV. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkalkulation und der Festsetzung der Gebühren für die Sommerreinigung und der Winterwartung ab 2011 - 35 Ja-Stimme(n), 3 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 9.6: IV. Nachtrag zur Satzung der Stadt Emsdetten über die Entsorgung von Grundstücksentwässerungsanlagen - Einstimmig
+- TOP 9.7: VIII. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungs-aufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 10.: EU-weite Ausschreibung der Abfallentsorgung - Einstimmig
+- TOP 11.: Erhebung von Anlieger- und Erschließungsbeiträgen
+- TOP 11.1: Bestätigung des planabweichenden Ausbaus eines Teilstücks der Straße Hosperseck - Einstimmig
+- TOP 12.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 12.1: Kinder- und Jugendförderplan der Stadt Emsdetten - Teil II "Handlungsfelder der Kinder- und Jugendförderung" - (kein Text vorhanden)
+- TOP 12.1.1: Kinder- und Jugendförderplan der Stadt Emsdetten - Teil II "Handlungsfelder der Kinder- und Jugendförderung" - Einstimmig
+- TOP 13.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2011 - Einstimmig
+- TOP 14.: Stellenplan
+- TOP 14.1: Stellenplan 2011 - 37 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 15.: Etat / Budget
+- TOP 15.1: Haushaltssatzung und Produkte 2011 - 33 Ja-Stimme(n), 5 Gegenstimme(n), 0 Enthaltung(en)
+- TOP 16.: Verschiedenes
