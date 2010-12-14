@@ -1,0 +1,8 @@
+# TOP 4.: Optimierung der Darstellung der Haushaltsauswirkungen bzw. Kosten in den Vorlagen
+
+- Sitzung: Haupt- und Finanzausschuss (9. Sitzung) (2010-12-14)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/25282
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/34348
+- Beschluss (Datei): Beschlusstext (Optimierung der Darstellung der Haushaltsauswirkungen bzw. Kosten in den Vorlagen) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZcQ5gm4Rxnjva9DSn8JgZ_lT1gM1YLv9D6ryf-iEpecz/Beschlusstext_531.10_-oeffentlich-_Haupt-_und_Finanzausschuss_14.12.2010.pdf
