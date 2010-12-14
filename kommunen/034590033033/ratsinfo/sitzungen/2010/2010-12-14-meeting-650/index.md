@@ -1,0 +1,51 @@
+# Rat (40. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2010-12-14T17:30:00+01:00
+- Ende: 2010-12-14T20:40:00+01:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZee6eU3dzsgUQ2mzjzftzmw
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/650
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR8723Y-lgLJjmVGbonB9BJ4OKP8UgOxe5gE2UQx5N2-/Bekanntmachung_Rat_14.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZyi87CJ1WGMu_iV8QzusdYtiHc-EECglSbXKyPy-k1o/Oeffentliche_Niederschrift_Rat_14.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 18.11.2010
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Sachstand Arkadencenter
+- TOP 3.2: Dienstzeitregelung am 23.12.2010
+- TOP 3.3: Stangen und Ketten im Einmündungsbereich Wittekindplatz/Wittekindstraße
+- TOP 3.4: Sackgassenschild Maschweg
+- TOP 3.5: Sackgassenschild Iserfeld
+- TOP 3.6: Geschwindigkeitsbegrenzung Moorlandstraße
+- TOP 3.7: Graben an der Osnabrücker Straße
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Neubesetzung des Schulausschusses - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 4.2: Mietpreisspiegel 2011
+- TOP 4.3: Gewährung von Leistungsentgelten für Beamte 2011 - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 5.: Jugend, Kultur und Sport
+- TOP 5.1: Neuer Name für das Jugendzentrum am Boerskamp - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: Hollager Mühle - Neufassung der Entgeltordnung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.3: Antrag des Heimathauses „Hollager Hof“ von 1656 e. V. auf Bezuschussung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.4: Antrag der Kath. Kirchengemeinde St. Alexander auf Bezuschussung - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 5.5: Antrag des Schützenvereins Rulle von 1899 e. V. auf Bezuschussung - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 5.6: Antrag des Turn- und Sportvereins Eintracht Rulle 1924 e. V. auf Bezuschussung - einstimmig, mit 1 Enthaltung(en) gefasst:
+- TOP 6.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 6.1: Verlegung der Wallenhorster Klib 2011 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Bauleitpläne
+- TOP 7.1: Bebauungsplan Nr. 256 "Alte Straßenmeisterei" hier: Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB; Beschluss über die Planungsziele - mehrheitlich mit 28 Ja-Stimme(n), 2 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 8.: Straßenbau
+- TOP 8.1: Sanierung der Ortsdurchfahrt L 109 „Hollager Straße“ Erneuerung der Fahrbahnoberfläche der ´Hollager Straße´ Erneuerung der RW- Kanalisation zwischen Einmündung `Bergstraße` und ´Egbersstraße´ Erneuerung der Gehwege beidseitig der Fahrbahn der ´Hollager Straße´ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Kämmereiangelegenheiten
+- TOP 9.1: Haushaltswirtschaft für das Jahr 2011 hier: Einbringung der Haushaltssatzung und des Haushaltsplanes 2011
+- TOP 9.2: Annahme von Spenden gem. § 83 IV NGO (Ratsentscheidung) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Bewilligung einer außerplanmäßigen Auszahlung für den Kindergarten St. Johannes, Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Anfragen und Anregungen
+- TOP 10.1: Auflistung von Unternehmen in "Wirtschaft Wallenhorst"
+- TOP 10.2: Brunnen unter dem Kirchplatz
