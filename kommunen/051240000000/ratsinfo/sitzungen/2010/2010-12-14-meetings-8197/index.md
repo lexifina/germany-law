@@ -1,0 +1,78 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-12-14T16:00:00+01:00
+- Ende: 2010-12-14T17:45:00+01:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8197
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8197
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 08.12.10 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00124463.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00125538.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2009 des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss des Zweckverbandes Bergische Volkshochschule für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2009 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2008/2009 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2009/2010 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss 2009 der CVUA-RRW AöR - Entgegennahme ohne Beschluss
+- TOP 1.7: Jahresabschluss 2009 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2009 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 2.1: Entlastung des Betriebsausschusses des GMW für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2011 - Entgegennahme ohne Beschluss
+- TOP 3.2: Wirtschaftsplan 2011 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan 2011 der Wirtschaftsförderung Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 3.4: Wirtschaftsplan 2011 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 3.5: Wirtschaftsplan 2011 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 3.6: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2010/2011 - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Änderung der Satzung der Wirtschaftsförderung Wuppertal AöR (WiFö) - geändert beschlossen
+- TOP 5.2: Evaluierung der Tätigkeit der Bergischen Entwicklungsagentur - Entgegennahme ohne Beschluss
+- TOP 5.3: Verlängerung der Übertragung von Entsorgungspflichten nach § 16 (2) KrW-/AbfG an die AWG mbH - ungeändert beschlossen
+- TOP 5.4: Beteiligungsbericht 2009 - Entgegennahme ohne Beschluss
+- TOP 5.5: Drohende Insolvenz der Historischen Stadthalle - Entgegennahme ohne Beschluss
+- TOP 5.5.1: Drohende Insolvenz der Historischen Stadthalle; Beantwortung der Anfrage der FDP-Fraktion - Entgegennahme ohne Beschluss
+- TOP 5.6: Vergleich zwischen dem Verkehrsverbund Rhein-Ruhr (VRR) und der Deutschen Bahn (DB Regio NRW GmbH) - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Umsetzung des Haushaltssicherungskonzeptes - aktueller Sachstand - Entgegennahme ohne Beschluss
+- TOP 12.2: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 12.3: Stand der Schulden und Kassenkredite zum 31.10.2010 - Entgegennahme ohne Beschluss
+- TOP 12.4: FinCo 11/2010 - Entgegennahme ohne Beschluss
+- TOP 12.5: Externe Einstellungen im Zeitraum Januar bis Oktober 2010 - Entgegennahme ohne Beschluss
+- TOP 13: Haushaltsangelegenheiten
+- TOP 14: Verkäufe und Baumaßnahmen
+- TOP 14.1: Stadtumbau West (Soziale Stadt) Elberfelder Nordstadt/ Arrenberg, Unterbarmen: Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 14.2: Soziale Stadt und Stadtumbau West Oberbarmen/Wichlinghausen - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 15: Dienstanweisungen und Satzungen
+- TOP 15.1: Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer - ungeändert beschlossen
+- TOP 15.2: Satzung über die Straßenreinigung und des Winterdienstes sowie die dazu erhebende Gebührensatzung ab dem 01.01.2011 - ungeändert beschlossen
+- TOP 15.3: 2. Änderungssatzung der Abwassergebühren- und Kanalanschlussbeitragssatzung und rückwirkende Kanalanschlussbeitragssatzung - ungeändert beschlossen
+- TOP 15.4: Gebührensatzung zur Abfallwirtschaftssatzung 2011 - ungeändert beschlossen
+- TOP 15.5: Verwaltungsgebühren - ungeändert beschlossen
+- TOP 16: Anträge und Anfragen
+- TOP 17: Allgemeine Vorlagen
+- TOP 17.1: Feststellung der Eröffnungsbilanz der Stadt Wuppertal zum 01.01.2008 - ungeändert beschlossen
+- TOP 17.2: Beschleunigung von Investitionen durch Vereinfachungen im Vergaberecht - ungeändert beschlossen
+- TOP 18: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 24: Alten- und Altenpflegeheime
+- TOP 24.1: Quartalsbericht III/2010 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 24.2: Quartalsbericht III/2010 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 24.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2011 - stationärer Bereich - - ungeändert beschlossen
+- TOP 24.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2011 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 25: Berichte und Mitteilungen
+- TOP 26: Kinder- und Jugendwohngruppen
+- TOP 26.1: KIJU 3. Quartalsbericht 2010 - Entgegennahme ohne Beschluss
+- TOP 26.2: Wirtschaftsplanung KIJU 2011 - ungeändert beschlossen
+- TOP 27: Berichte und Mitteilungen
