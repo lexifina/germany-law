@@ -1,0 +1,53 @@
+# Haupt- und Finanzausschuss (9. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-12-14T17:00:00+01:00
+- Ende: 2010-12-14T20:09:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZZVz0LYiAZVqzD2kF_xlJI
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7770
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZTdPwu-OtFFbCMmeQeipZHYHX7d2U-bogpJ_2WxMNMhX/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_14.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 8. Sitzung vom 26. Oktober 2010
+- TOP 2.: Einwendungen gegen die Richtigkeit der Niederschrift über die Sitzung des Haupt- und Finanzausschusses vom 26.10.2010; hier: TOP 13 - Bahnengolf-Sportvereinigung Kerpen e.V.
+- TOP 3.: Sachstandsbericht Bahnengolf-Sportvereinigung Kerpen e.V.
+- TOP 4.: Optimierung der Darstellung der Haushaltsauswirkungen bzw. Kosten in den Vorlagen
+- TOP 5.: Umbesetzung von Ausschüssen und Gremien
+- TOP 5.1: Umbesetzung des Arbeitskreises Personal hier: Antrag der SPD-Fraktion
+- TOP 6.: Erlass von Ortsrecht
+- TOP 6.1: 1. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung der Sportstätten der Stadt Kerpen
+- TOP 6.2: 20. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 6.3: 5. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 6.4: 11. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 6.5: 14. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen und 7. Satzung zur Änderung der Satzung der Stadt Kerpen über die Entsorgung von Grundstücksentwässerungsanlagen
+- TOP 7.: Anregung und Beschwerden gem. § 24 GO NRW
+- TOP 7.1: Verkehrsberuhigter Ausbau der Straße An der Alten Kreisbahn in Götzenkirchen (Bürgerantrag mit Unterschriftenliste vom 08.10.2010)
+- TOP 8.: Personal-/Stellenplanangelegenheiten
+- TOP 8.1: Personelle Auswirkungen im Amt 13 aufgrund der Umsetzung des Rettungsdienstbedarfsplanes des Rhein-Erft-Kreises
+- TOP 9.: Notwendige Baumaßnahmen im Bereich der Feuer- und Rettungswache/Löschzug Kerpen
+- TOP 10.: Einrichtung des Geoinformationssystems hier: Freigabe der Haushaltsmittel
+- TOP 11.: Vergabebericht 2009
+- TOP 12.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 13.: Erfahrungsbericht zum Nachtdienst des Außendienstes im Ordnungsamt
+- TOP 14.: Ziel- und Kooperationsvereinbarung mit dem Sozialdienst katholischer Frauen im Rhein-Erft-Kreis bezüglich der Sozialraumarbeit Sindorf
+- TOP 15.: Forstwirtschaftsplan 2011
+- TOP 16.: Verkehrssicherungspflicht bei Waldbeständen
+- TOP 17.: Sachstandsbericht Hochhaus Maastrichter Straße
+- TOP 18.: Mitteilungen
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 20.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 21.: Weiteres Vorgehen Waldweg
+- TOP 22.: Kostenbericht neues Hallenbad Kerpen, Stand 29.11.2010
+- TOP 23.: Abschluss einer Treuebonusvereinbarung für die Lieferung von Erdgas
+- TOP 24.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 24.1: Auftragsvergabe: Dachdecker- und Klempnerarbeiten Neubau Hallenbad Kerpen
+- TOP 25.: Verpachtung eines landwirtschaftlich genutzten Erbbaurechtsgrundstückes in der Gemarkung Blatzheim
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
