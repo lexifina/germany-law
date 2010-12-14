@@ -1,0 +1,104 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2010-12-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1829410
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1829410
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Budget der Bezirksaussschüsse Nachbarschaft Westermühlbach e.V. Einrichtung einer Mittagsbetreuungsgruppe an der Grundschule Klenzestraße
+- TOP .1.: REGSAM - München spart Steuergelder - REGSAM wird künftig auf ehrenamtlicher Basis geführt
+- TOP .1.: BA-Budget: Kurzbericht zu "Tanzen in der Schule", Elternbeirat Sonderpädagogisches Förderzentrum
+- TOP .2.: BA-Antrag Nr. 08-14/B02438 - Gestaltung von Unterführungen mit Grafitti; positive Rückmeldung BA 1 + BA 6
+- TOP .3.: Haushaltsplan 2011: Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger"; Beschluss Sozialausschuss vom 11.11.2010
+- TOP .4.: BA-Budget: Kulturkontor - Lesung am 17.12. wurde verlegt auf den 18.12.
+- TOP .5.: Kulturfest "München ist bunt!" - Rückmeldung der BAs
+- TOP .6.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 30.07.2010; Beschluss Vollversammlung Stadtrat vom 27.10.2010
+- TOP .7.: BA-Budget: Gebehmigungsbescheide: - München ist bunt - Kulturkontor e.V. - Edition Karbit - Kirchenchor St. Maximilian
+- TOP .8.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011-2015; Anhörungsverfahren
+- TOP .9.: Umsetzung Teilplan 4: Tageseinrichtungen, Tagespflege - Teil B, Bedarfsplanung Kindertagesbetreuung; Beschluss Stadtrat vom 27.10.2010
+- TOP .10.: Vorkaufsrecht - Häberlstraße
+- TOP .1.: Bürgeranliegen: Konzept zur Bespielung des WCs am Holzplatz
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Umwidmung der Grünanlage an der Corneliusbrücke in eine öffentliche Grünfläche
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Corneliusstraße 6: DG-Ausbau, Nutzungsänderung einer Garage
+- TOP .2.: Landwehrstraße 16: Nutzungsänderung, Änderung Freiflächengestaltung
+- TOP .3.: Corneliusstraße 6: Nutzungsänderungen, Errichtung offener Stellplätze
+- TOP .4.: Corneliusstraße 1: Grundrissänderung zweier Wohneinheiten, Vergrößerung Dacheinschnitte
+- TOP .5.: Hans-Sachs-Straße 22: Anbringen eines Balkons
+- TOP .6.: Landwehrstr. 1: Umbau, Nutzungsänderung sowie Errichtung Außentreppe und Dachgauben
+- TOP .7.: Müllerstr. 3-7: Umbau und Umnutzung des HKW-Turms
+- TOP .8.: Müllerstr. 3-7: Umbau und Umnutzung des HKW-Turms II
+- TOP .9.: Holzstr. 28-30: Nutzungsänderung
+- TOP .10.: Schwanthalerstr. 44: Werbeanlagen
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Poccistraße 9
+- TOP .2.: Bavariaring 25
+- TOP .3.: Holzstraße 9
+- TOP .4.: Ehrengutstr. 28
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Parkraummanagement Gärtnerplatz
+- TOP .2.: München setzt auf's Rad; Fahrrad-Service-Stationen für München (EilE)
+- TOP .3.: Radweg im Isarhochwasserbett - Schreiben des BA 5
+- TOP .1.: Stadtsanierung - Sicherung der Städtebauförderung; Hinweis/Ergänzung zum Beschluss Ausschuss Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .2.: Baumaßnahmen SWM: - Stromprojekt Zenettiplatz - Wasserprojekt Hermann-Lingg-Straße - Fernwärmeprojekt Baaderstraße - Fernwärmeprojekt Maistraße
+- TOP .3.: Isar-Plan: Bauabschnitt 7; Beschluss Bauausschuss vom 19.10.2010
+- TOP .4.: Planfeststellung nach § 18 AEG für den Neubau einer 2. S-Bahn-Stammstrecke, Abschnitt 1 München-West; Beschluss Stadtrat vom 24.11.2010
+- TOP .5.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke; Beschluss Stadtrat vom 24.11.2010
+- TOP .6.: Unterrichtung über das Fällen von Gefahrbäumen
+- TOP .7.: Neuerlass der Straßenreinigungs- und sicherungsverordnung; Beschluss Bauausschuss vom 07.12.2010
+- TOP .8.: Bebauungsplan mit Grünordnung Nr. 2049 - Marsstraße (südlich), Rundfunkplatz (westlich), Hopfenstraße (westlich), Herbststraße (östlich); Beschluss Ausschuss Stadtplanung und Bauordnung vom 08.12.2010
+- TOP .9.: München setzt auf's Rad 2 - Von Nachbarn in den Niederlanden und in Dänemark lernen; Beschluss Ausschuss Stadtplanung und Bauordnung vom 08.12.2010
+- TOP .10.: Vorkaufsrecht - Häberlstraße (siehe A 4.10)
+- TOP .1.: BAyWoBAu: Rodenstockgelände
+- TOP .2.: Baureferat: Spartenverteilung
+- TOP .3.: Baureferat: Skateranlage Theresienwiese
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Aufstellung einer Verkaufseinrichtung: Lindwurmstr. 75
+- TOP .2.: Roecklplatz 3: Antrag für Obstverkaufsstand
+- TOP .3.: Aufstellung einer Verkaufseinrichtung: Sschwanthalerstr. 26
+- TOP .2.3: Sonstige Entscheidungen
+- TOP 1: (E) Sperrzone rund um das Oktoberfest (Ziffer 4 des Antrages) Empfehlung Nr. 08-14 / E 00447 der Bürgerversammlung des Stadtbezirkes 02 Ludwigsvorstadt-Isarvorstadt am 12.11.2009
+- TOP 2: (E) Gewerbebetriebe, die über ausreichend Stellplätze für ihre PKW verfügen, sollen keine Ausnahmegenhmigungen zum Parken bekommen Empfehlung Nr. 08-14 / E 00580 der Bürgerversammlung des Stadtbezirkes 2 - Ludwigsvorstadt-Isarvorstadt am 20.05.2010
+- TOP 2.3.2: Verkehr
+- TOP 2.1.: Parkraummanagement Wiesn 2011 (Feedback zu 2010)
+- TOP 2.1.: Kunst im öffentlichen Raum, Projekt "Zeitungsbox" (EilE)
+- TOP 2.1.: Unveränderte Gaststättenfortführung: - Ehrengutstr. 21: Cihans Lokal - Schillerstr. 21: Sanji Sushi - Holzstr. 28: Bachbett - Thalkirchner Str. 2: Erste Liga - Schillerstr. 11a: Broadway Club
+- TOP 2.2.: Versammlungen unter freiem Himmel (3)
+- TOP 2.3.: Bürgeranliegen aus der Sitzung 09/10: Wartezeiten an Lichtzeichenanlagen, Wiederherstellung von Gehwegen nach Baustellen
+- TOP 2.4.: Stellungnahme BA 1 zum Kulturstrand München
+- TOP 2.5.: Erlaubnisbescheide: - Christkindlmarkt "Pink Christmas" vom 03.12. - 23.12.2010 - Kulturfest "München ist bunt" am 13.11.2010
+- TOP 2.6.: entfällt
+- TOP 2.7.: Verkehrsrechtliche Anordnung: - Optimierung der Radverkehrsführung auf der Fahrbahn und Freigabe der Busspur auf dem Baldeplatz - Einrichtung eines Haltverbots Ecke Cornelius-/Baaderstraße - Taxistand Bavariaring und Rechtsabbiegegebot an der Ausfahrt von der Theresienwiese - Ausnahme der Taxen vom Geradeaus-/Rechtsfahrgebot an der Kreuzung Müller-/Pestalozzistraße
+- TOP 2.8.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der BAs; Beschluss Verwaltungs- und Personalausschuss vom 17.11.2010
+- TOP 2.9.: Vollzug des BImSchG; Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV/Straßenbau
+- TOP 2.10.: Filmaufnahmen auf öffentlichem Grund (2)
+- TOP 2.11.: Bepflasterung der Fläche vor dem Café an der Ecke Goethe-/ Bayerstr. sowie Aufstellung eines Fahrradständers; AW: Vorschlag wird umgesetzt
+- TOP 2.12.: Bürgeranliegen: Querungsmöglichkeit am Holzplatz, Rückmeldung KVR
+- TOP 2.13.: Verbesserung der Verkehrssituation an der Einmündung der Rumford- in die Baaderstraße, BA-Antrag Nr. 08-14 / B 02101; AW: KVR sieht keine Möglichkeit der Verbesserung
+- TOP 2.14.: Temporäre Gastronomiebetriebe auf Privatgrund während des Oktoberfestes
+- TOP 2.15.: Mobilität in Deutschland - -befragung zum Alltagsverkehr in München; Bekanntgabe Ausschuss Stadtplanung und Bauordnung vom 08.12.2010
+- TOP 2.1.: Termine
+- TOP 2.3.: Sonstiges / Verschiedenes
+- TOP 2.1.: Anhörung: Keine weiteren Neonazi-Aufmärsche - Ziff. 1: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BAs; Ba-Antrag Nr. 08-14 / B 02234 des BA 19
+- TOP 2.2.: Seniorenbeirat: Veröffentlichung in den BA-Schaukästen
+- TOP 2.3.: Barrierefreiheit bei BA-Sitzungen und Bürgerverammlungen
+- TOP 2.4.: Anfrage BA 1 ans KVR zur Veranstaltung am 13.11.2010 "Heldengedenkmarsch 2010: Ruhm und Ehre den Deutschen Soldaten"
+- TOP 2.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4.: Unterrichtungen (siehe Beiblatt)
+- TOP 2.2.: Veranstaltungen
