@@ -1,0 +1,99 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2010-12-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1872326
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1872326
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Aufstellung einer Ruhebank in der Langwieder Hauptstraße, Höhe Feldweg zur S-Bahn
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällung auf Anforderung: - Brunhamstr. 52 - Kohlsteiner Str. 4 - Harburger Str. 7
+- TOP 3.2.: Ablehnungsbescheid Wiesenthauer Str. 9, Schr. Planungsreferat vom 15.11.10
+- TOP 3.3.: Baumfällungen zu einem Bauvorhaben: - Johannes-Tanner-Str. 5, gem. Baumbestandsplan Nr. 2010-29016 - Federseestr., Fl.Nr. 629/11, gem. Baumbestandsplan Nr. 2010-28843
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Beauftragte für das Jubiläumsjahr 2010
+- TOP 3.3.6: Migrationsbeauftragte
+- TOP 3.3.7: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Situierung der geplanten Elektro- und Sportfachmärkte in den südlichen Teil des Gewerbergebietes Freiham (vertagt aus 10/10)
+- TOP 5: Entscheidungen
+- TOP 1: Fußgängerüberweg Bodenseestraße (Empfehlung Nr. 08-14 / E 00600 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 29.06.2010)
+- TOP 1.2.: Budget der Bezirksausschüsse Förderverein 1000 Jahre Urkunde Aubing e.V. Dokumentation der Ausstellung (vertagt aus 10/10)
+- TOP 1.3.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22: Widmung von Teilstrecken der Industriestraße
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Init. "Verschönerung S-Bhf. Aubing" c/o Füll Versiegelung der gestalteten Flächen
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Siedlungsschwerpunkt Freiham - Freiham Nord, - Zustimmung zu Eckdaten, Umgriff und Auslobungsunterlagen des städtebaulichen und landschaftsplanerischen Wettbewerbes für den 1. Realisierungsabschnitt - Teiländerung des Bebauungsplanes Nr. 1916a für den Bereich Bodenseestr. (südlich), Anton-Böck-Str. (westlich), S-Bahnlinie 8 (München-Herrsching) (nördlich) und Hans-Steinkohl-Straße (östlich), - Anträge und Empfehlungen, Anhörung Planungsreferat vom 16.11.10
+- TOP 6.1.: Erlaubnis für Drehgenehmigung - in der Hans-Steinkohl-Straße am 10.12.10, Schr. KVR vom 18.11.10 - in der Kohlmeisenstr. 39 am 20.11.10, Schr. KVR vom 17.11.10 - Germeringer Weg, Schr. KVR vom 30.11.10
+- TOP 6.2.: Erlaubnis für die Veranstaltung auf öffentlichen Verkehrsgrund: Christkindlmarkt auf dem Gößweinsteinplatz am 04.12.10, Schr. KVR vom 22.11.10
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Trachten Gau München, Schr. Direktorium vom 12.11.10
+- TOP 6.2.: Dankschreiben des Vereins Trachtengau München für Zuschuss vom 09.11.10
+- TOP 6.3.: Zuwendung aus dem BA-Budget; Aubinger Archiv e.V. - Druckkosten für "Aubinger Häuserbuch", Schr. Direktorium vom 29.11.10
+- TOP 6.4.: Ablehnungsbescheid für Budgetmittel des BA 22: Wurzelzwerge e.V. , Schr. Direktorium vom 01.12.10
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Siedlungsschwerpunkt Freiham - Freiham Nord; - Zustimmung zu Eckdaten, Umgriff und Auslobungsunterlagen des städtebaulichen und landschaftsplanerischen Wettbewerb für den 1. Realisierungsabschnitt - Teiländerung des Bebauungsplanes Nr. 1916 a für den Bereich Bodenseestr. (südlich), Anton-Böck-Str. (westlich), S-Bahnlinie 8 (München-Herrsching) (nördlich) und Hans-Steinkohl-Str. (östlich), - Anträge und Empfehlungen Anhörung Planungsreferat vom 16.11.10
+- TOP 6.2.: Verkauf einer städtischen Immobilie, hier: Flst. 3509/23, Gemarkung Aubing, Freiham GE 23, Jakob-Baumann-Straße, Anhörung Kommunalreferat vom 15.12.10
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Mobilfunk-Suchkreismeldung im Suchkreis Lochhausen West (Suchkreis-Nr. 510301738), Anhörung RGU vom 16.11.10
+- TOP 6.2.: Siedlungsschwerpunkt Freiham - Freiham Nord; - Zustimmung zu Eckdaten, Umgriff und Auslobungsunterlagen des städtebaulichen und landschaftsplanerischen Wettbewerbes für den 1. Realisierungsabschnitt, - Teiländerung des Bebauungsplanes Nr. 1916 a für den Bereich Bodenseestr. (südlich), Anton-Böck-Str. (westlich), S-Bahnlinie 8 (München-Herrsching) (nördlich) und Hans-Steinkohl-Str. (östlich), - Anträge und Empfehlungen Anhörung Planungsreferat vom 16.11.10
+- TOP 6.3.: Fahrbahnsanierung in der Lochhausener Straße 106 - 126, Anhörung Baureferat vom 17.11.10
+- TOP 6.4.: Mariabrunner Str. 65 - Neubau eines Doppelhauses mit 3 Garagen, Anhörung Planungsreferat vom 18.11.10
+- TOP 6.5.: Schussenrieder Str. / Toni-Berger-Straße - Neubau einer Wohnanlage mit Tiefgarage, Anhörung Planungsreferat vom 18.11.10
+- TOP 6.6.: Bergsonstr. 151 - Neubau eines Wohnhauses mit Tiefgarage (Vorbescheid), Anhörung Planungsreferat vom 29.11.10
+- TOP 6.7.: Federseestraße - Neubau von 4 Mehrfamilienhäusern mit Tiefgarage, Anhörung Planungsreferat vom 29.11.10
+- TOP 6.8.: Bodenseestr. 190-192 - Errichtung von 25 Kfz- und 5 Kundenstellplätzen, Anhörung Planungsreferat vom 29.11.10
+- TOP 6.9.: Papinstr. 6 - Neubau eines Backshops / Cafés mit integriertem Fahrscheinverkauf, einer Wartehalle sowie eines Freizeit- und Eventcenters mit 8 Geldspielgeräten (Vorbescheid), Anhörung Planungsreferat vom 29.11.10
+- TOP 6.10.: Elisabeth-Jost-Straße - Neubau einer "Betreuten Wohnanlage" (Vorbescheid), Anhörung Planungsreferat vom 29.11.10
+- TOP 6.11.: Planungssrechtliche Sicherung des Spielplatzes nördlich der Kastelburgstraße zwischen Industriestraße und Mariabrunner Straße (BVE Nr. 606/22. vom 29.06.10), Anhörung Planungsreferat vom 01.12.10 - Stellungnahme BA 22 hierzu bereits in der November-Sitzung! -
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 08.11 - 14.11.10, v. 15.11. - 21.11.10, 22.11. - 28.11.10), Schr. Planungsreferat vom 15.11.10, 22.11.10, 29.11.10
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 15.11.10, 22.11.10, 29.11.10
+- TOP 6.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.4.: Optimierung der Buslinien 57, 157 und 161, Schr. Referat für Arbeit und Wirtschaft vom 11.11.10, Schr. Baureferat vom 17.11.10
+- TOP 6.5.: Mitteilung über ein Grundstücksgeschäft: - Ludwig-Schmid-Str., Schr. Kommunalreferat vom 16.11.10 - Gleisdreieck Pasing, Schr. 12.11.10
+- TOP 6.6.: Baumpflanzung und Herrichten der Grünstreifen in der Kastelburgstraße zwischen Mariabrunner Straße und Kronwinkler Straße
+- TOP 6.7.: Überprüfung und Verbesserung der Situation an der südlichen Einmündung der Ubostraße in die Altostraße, Schr. KVR vom 19.11.10
+- TOP 6.8.: Die Fernwärme kommt - Limesstraße mindestens 12 Wochen einseitig gesperrt!, Schr. KVR vom 17.11.10
+- TOP 6.9.: Bahnlärm an der Lichtenfelserstraße (Anfrage Bürgerversammlung vom 29.06.10), Schr. RGU vom 08.11.10
+- TOP 6.10.: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes; Nachqualifizierung und Revision der Denkmalliste durch das Bayer. Landesamt für Denkmalpflege; "Vergleichende Untersuchung im Sinne des Denkmalschutzgesetzes", Schr. Planungsreferat vom 17.11.10
+- TOP 6.11.: Zebrastreifen zur sicheren Querung der Wiesentfelser Straße, Schr. KVR vom 25.11.10
+- TOP 6.12.: Protokolle der Bürgerforen zur Lärmaktionsplanung im Internet, Schr. RGU vom 30.11.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Keine weiteren Neonazi-Aufmärsche, Ziff. 1 Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse, Anhörung Direktorium vom 10.11.10 und 29.11.10
+- TOP 7.2.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen, Anhörung Direktorium vom 01.12.10
+- TOP 7.3.: REGSAM - München spart Steuergelde - REGSAM wird künftig auf ehrenamtlicher Basis geführt, Anhörung Sozialreferat vom 07.12.10
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Altostraße, Schr. Sozialreferat vom 15.11.10 - Leienfelsstraße, Schr. Sozialreferat vom 16.11.10
+- TOP 8.2.: Wirtschaftsinfo 11/2010, Schr. Referat für Arbeit und Wirtschaft am 30.11.10
+- TOP 8.3.: Unveränderte Fortführung der Gaststätte: "Schnäi und guad", Bodenseestr. 235
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Verwaltungs- und Personalausschusses vom 17.11.10: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10: - Ensemble ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzes (vertagt) - Stadtsanierung in München, Sicherung der Städtebauförderung (Hinweis/Ergänzung)
+- TOP 10.3.: Beschluss des Bauausschusses vom 07.12.10: Neuerlass der Straßenreinigungs- und -sicherungsverordnung
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10: - Schaffung von innovativen Wohnformen / barrierefreies Wohnen mit Beratungs- und Kooperationszentrum / Pflegestützpunkt im Stadtbezirk 22 (BVE Nr. 607/22. vom 29.06.10) (UA Planung und UA Soziales) - München setzt auf's Rad 2, Von Nachbarn in den Niederlanden und in Dänemark lernen (UA Planung) - Mobilität in Deutschland (MiD), Befragung zum Alltagsverkehr in München (UA Planung)
+- TOP 10.5.: Beschluss der Vollversammlung des Stadtrates vom 24.11.10: - Planfeststellung nach §18 Allg. Eisenbahngesetz für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 München West, Bereich Laim bis Karlsfeld mit Haltepunkt Hauptbahnhof - 1. Planänderung - Anhörungsverfahren (UA Planung) - Ertüchtigung des Bahnknotens Münchens: 2. Stammstrecke (UA Planung)
+- TOP 10.6.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, des Amtes für Wohnen und Migration und der Zentrale (ergänzter Beschluss) (UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Kulturfest "München ist bunt" am 13.11 10, Schr. Hr. Miklosy (BA 2) vom 25.11.10
+- TOP 11.2.: Anfragen zu der Veranstaltung "Heldengedenkmarsch 2010" am 13.11.10, Schr. BA 1 vom 29.11.10
+- TOP 11.3.: Münchner Tag der offenen Verwaltung, Schr. Direktorium vom 01.12.10
+- TOP 11.4.: Selbsthilfezentrum München Rundbrief 4/2010
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
