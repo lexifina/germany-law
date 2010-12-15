@@ -1,0 +1,58 @@
+# Rat (14. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2010-12-15T18:00:00+01:00
+- Ende: 2010-12-15T22:25:00+01:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZY3khDCPlhlp4QJ8_SWzzeM
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1861
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUxAwa0ktsMEADJKWVdWs_5DovgeFsbRkfxsyL00U8lh/Bekanntmachung_Rat_15.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWs2IzVBBxrZBy9asRqgtGEQGQKyRPQWGbGKwBA40tXI/Oeffentliche_Niederschrift_Rat_15.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Niederschrift vom 10.11.2010
+- TOP 3.: Anträge der Fraktionen
+- TOP 3.1: Besetzung von Ausschüssen; Antrag der SPD-Fraktion vom 05.12.2010 - Einstimmig, 0 Enthaltungen
+- TOP 4.: Aktualisierung des Einzelhandelskonzepts für die Stadt Gronau - Einstimmig, 2 Enthaltungen
+- TOP 5.: Erweiterung der Sportanlage an der Laubstiege 91. Änderung des Flächennutzungsplans für den Bereich Harberskamp, Stadtteil Gronau 2. Änderung des Bebauungsplans Nr. 88 "Harberskamp", Stadtteil Gronau - Zustimmung zur Erweiterung der Sportanlage - Aufstellungsbeschluss zur 91. Änderung des Flächennutzungsplans - Aufstellungsbeschluss zur 2. Änderung des Bebauungsplans Nr. 88 - Frühzeitige Beteiligung der Öffentlichkeit - Frühzeitige Beteiligung der Behörden - 38 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 6.: Ostumgehung Epe Erteilung des Planungsauftrages an den Kreis Borken - 38 Jastimmen, 2 Neinstimmen, 0 Enthaltungen
+- TOP 7.: Abfallgebührenbedarfsberechnung 2011 - Einstimmig, 0 Enthaltungen
+- TOP 8.: Budgetbericht zum III-Quartal 2010 - Ohne Abstimmung
+- TOP 9.: Wirtschaftsplan 2011 der Stadtwerke Gronau GmbH - Einstimmig, 1 Enthaltungen
+- TOP 10.: Wirtschaftsplan 2011 der rock´n popmuseum GmbH - Einstimmig, 12 Enthaltungen
+- TOP 11.: Wirtschaftsplan 2011 der Kulturbüro Gronau GmbH - Einstimmig, 0 Enthaltungen
+- TOP 12.: Jahresabschluss 2009 für das Abwasserwerk der Stadt Gronau (Westf.) Kenntnisnahme und Feststellung des Jahresabschlussergebnisses Beschluss über die Verwendung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 13.: Jahresabschluss 2009 für das Abwasserwerk der Stadt Gronau (Westf.) Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 14.: Zentrale Bau- und Umweltdienste der Stadt Gronau Jahresabschluss des Wirtschaftsjahres 2009 Entlastung des Betriebsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 15.: Wirtschaftsplan für das Jahr 2011 der Zentralen Bau- und Umweltdienste - Einstimmig, 1 Enthaltungen
+- TOP 16.: Jahresabschluss 2009 der Landesgartenschau Gronau/Losser 2003 GmbH i.L.1. Kenntnisnahme des Jahresabschlussergebnisses 2. Beschluss über die Behandlung des Jahresfehlbetrages - Einstimmig, 1 Enthaltungen
+- TOP 17.: Jahresabschluss 2009 der Landesgartenschau Gronau/Losser 2003 GmbH i.L. 3. Entlastung des Aufsichtsrates und des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 18.: Jahresabschluss 2009 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) Feststellung des Jahresabschlussergebnisses Beschluss über die Verwendung des Jahresüberschusses - Einstimmig, 1 Enthaltungen
+- TOP 19.: Jahresabschluss 2009 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) Entlastung des Geschäftsführers und der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 20.: Wirtschaftsplan 2011 der Wirtschaftsförderungsgesellschaft der Stadt Gronau (WTG mbH) - Einstimmig, 1 Enthaltungen
+- TOP 21.: Jahresabschluss 2009 der Forstverwaltung Gronau GbR - Einstimmig, 0 Enthaltungen
+- TOP 22.: Aufhebung der Betriebssatzung der Grundstücksentwicklungsgesellschaft der Stadt Gronau vom 12.10.2006 - 38 Jastimmen, 1 Neinstimmen, 0 Enthaltungen
+- TOP 23.: 2. Änderungssatzung zur Vergnügungssteuersatzung der Stadt Gronau (Westf.) vom 19.12.2002 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Änderung der Vergnügungssteuersatzung der Stadt Gronau (Westf.) vom 26.02.2009 - Ohne Abstimmung
+- TOP 24.1: Änderung der Vergnügungssteuersatzung der Stadt Gronau (Westf.) vom 26.02.2009 - Einstimmig, 0 Enthaltungen
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 26.: Änderung der Entgeltordnung für die Musikschule der Stadt Gronau - 30 Jastimmen, 4 Neinstimmen, 5 Enthaltungen
+- TOP 27.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 27.1: Workshop zum Rock´n´Popmuseum am 18.02.2011 (RM Bartels)
+- TOP 28.: Mitteilungen der Verwaltung
+- TOP 28.1: 20 Jahre Städtepartnerschaften der Stadt Mezöbereny in 2011
+- TOP 29.: Anfragen
+- TOP 29.1: Winterdienst der Zentralen Bau- und Umweltdienste (RM Gabbe, RM Buchholz, RM Wagner, RM von Borczyskowski und RM Raad)
+- TOP 29.2: Meldungen der Fa. Urenco Deutschland GmbH über Störfälle an die Stadtverwaltung im Jahre 2010 (RM Buchholz)
+- TOP 29.3: Raumtemperatur in der Katzenauffangstation (RM Buchholz)
+- TOP 29.4: Veräußerung von Liegenschaften in den Rentengütern? (RM Wagner)
+- TOP 29.5: Aufstiegshilfe für Fahrräder am Bahnhof (RM Doetkotte)
+- TOP 29.6: Bereitstellung des Schulentwicklungsplans in digitaler Form? (RM von Borczyskowski)
+- TOP 29.7: Vorbereitungshilfe für die Ratssitzungen (RM von Borczyskowski)
+- TOP 29.8: Behindertenparkplätze am Bahnhof im Rampenbereich (RM Doetkotte)
