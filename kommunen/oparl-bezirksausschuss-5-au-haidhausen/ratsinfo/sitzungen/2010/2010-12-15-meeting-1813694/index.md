@@ -1,0 +1,109 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2010-12-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1813694
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1813694
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schrifliche eingegangene Bürgeranliegen
+- TOP .1.: Parkplatzminderung in der Lothringer Straße
+- TOP .2.: PKW-Parkplätze in der Weißenburger Straße
+- TOP .3.: Verkauf der Anwesen Hochstr. 2 und 4
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Haus an der Franziskanerstraße, Katholischer Männerfürsorgeverein e.V. Weihnachtsfeier und -geschenke für die Bewohner am 24.12.2010 - <div>siehe Beschluss</div>
+- TOP .2.: Zuschuss für die Weihnachtsfeier des Clearinghauses an der Orleansstraße 17
+- TOP .3.: (E) Budget der Bezirksausschüsse Schulsozialarbeit an der Wörthschule, Kinderschutz e.V. Kauf von zwei Tischtennisplatten - <div>siehe Beschluss</div>
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Wörthstr. 17, ?Bäckerei Neulinger?: Erweiterung einer bestehenden Freischankfläche
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse: Schreiben des Direktoriums vom 10.11.2010 und 29.11.2010 dazu auch: Auszug aus der Rathaus Umschau
+- TOP .2.: Neuvermietung einer Gewerbeeinheit durch die GWG: Rosenheimer Str. 119, Laden im EG
+- TOP .8.1: Erledigte BA-Anträge und Anfragen
+- TOP .1.: Stadtverträgliche Rosenheimer Straße
+- TOP .2.: Rollstuhlfahrerfreundliche Fahrkartenautomaten
+- TOP .3.: Schulhoföffnung in Au-Haidhausen
+- TOP .4.: Neugestaltung der Freiflächen am Wolfgangsplatz
+- TOP .5.: Provisorische Erweiterung des Hortes an der Einsteinstraße
+- TOP .6.: Umgestaltung Breisacherstr. /Ecke Elsässer Str.
+- TOP .7.: Wettbewerb zur Umgestaltung des Orleansplatzes
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Parkraummanagement, Vergabemodalitäten Parkausweise; hier: Mitteilung des Kreisverwaltungsreferats vom 15.11.2010 zum Schreiben eines Anwohners
+- TOP .2.: Entwurf der aktuellen Leitlinien der Münchner Suchtpolitik, hier: Schreiben des Referats für Gesundheit und Umwelt vom 12.11.2010
+- TOP .3.: Radverkehr, Sperrung der Unterführung am Ostbahnhof, Ausschilderung der Umleitung
+- TOP .4.: Schaffung eines Zentrums für Suchthilfe und Psychiatrie im Jugendbereich (BA-Antrag Nr 08-14/ B 02166), hier: Schreiben des Stadtjugendamtes vom 25.10.2010 zur Nachfrage vom 22.09.2010
+- TOP .5.: Ampelschaltung an der Kreuzung Franziskaner-/Rablstraße
+- TOP .6.: Mittagseinsatz von Schulweghelfern an der Flurstraße (BA-Antrag Nr. 08-14/ B 02096), hier: ergänzendes Schreiben des KVR vom 14.10.2010 (vertagt aus 11/10)
+- TOP .7.: Parkplatzprobleme Anwesen Steinstraße 9, Schreiben des Baureferats vom 22.11.2010
+- TOP .8.: Bürgeranliegen Verschmutzung der Umwelt und der Straßen in Haidhausen ausgehend von Häuserbaustellen durch kleinste Styroporkunststoffreste durch Häuserwärmeisolierung, Schreiben des RGU vom 16.11.2010
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .6.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015, Anhörungsverfahren; Schreiben der Stadtkämmerei vom 15.11.2010
+- TOP .7.: Instandsetzung der Zaunfelder am Bahndamm "Am Giesinger Feld" (BA-Antrag Nr.08-14/ B 01805 des BA 17 vom 21.01.2010)
+- TOP .8.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke, Beschluss der Vollversammlung des Stadtrates vom 24.11.2010 (Auszug) Erledigte BV-Empfehlungen: BV-Empfehlung Nrn. 08-14/ E00481, E00482, E 00483, E00485, E00486, E00487, E00488, E00489, E00490, E00546, E00548, E00550, E 00551, E 00652 (neu), E00653 (neu), E 00654 (neu), E 00656 (neu), E 00657 (neu), E00661 (neu)
+- TOP .9.: Öffentlich-rechtliche Sondernutzungserlaubnis für die Anbringung von Weihnachtsbeleuchtung auf 24 Bäumen im Straßenbereich Weißenburger Str. vom 23.11.2010 bis 07.01.2011
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Baumfällung St.-Wolfgangs-Platz 10: 1 Akazie
+- TOP .2.: Unterrichtung des Baureferats, HA Gartenbau, über das Fällen von Gefahrenbäumen vom 18.10.2010
+- TOP .1.: Kulturzentrum Einstein: Bewerbung der Kleinen Bühne München e.V. und der Theatergruppe Süd München e.V. Vorstellung des stadtteilbezogenen Nutzungskonzeptes der beiden Bühnen
+- TOP .2.: Nutzungsänderung ohne Baumaßnahmen Rosenheimer Str. 108: Ausbau zum Theaterraum mit angeschlossener Gastronomie
+- TOP .1.: Bericht zur Wohnungssituation in München 2008-2009, Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .2.: Anforderungsprofil für die öffentliche Ausschreibung des Grundstücks Grillparzer-/Einsteinstraße, Teilflächen der Flurst 17726,-/3 und -/4 Sektion IX, 5. Stadtbezirk Au-Haidhausen, Beschluss des Sozialausschusses vom 11.11.2010
+- TOP .3.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013 und Art. 27 BayKiBiG, Haus für Kinder Wörthstr. 7 mit 45 Kinderkrippenplätzen und 24 Kindergartenplätzen, Neu- und Umbau und Ausstattung, Beschluss des Kinder- und Jugendhilfeausschusses vom 09.11.2010
+- TOP .4.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 5 (Au-Haidhausen): Entwurf einer Beschlussvorlage zur Fortschreibung der Erhaltungssatzung ?Haidhausen Mitte?
+- TOP .5.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2009/2010 - Feinkonzept 2011 - Optimierung von Prozessen und Strukturen - Gender Mainstreaming bei der Haushaltskonsolidierung Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in einer gemeinsamen Sitzung vom 11.11.2010
+- TOP .6.: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in einer gemeinsamen Sitzung vom 11.11.2010
+- TOP .7.: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in einer gemeinsamen Sitzung vom 11.11.2010
+- TOP .8.: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in einer gemeinsamen Sitzung vom 11.11.2010
+- TOP .9.: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in einer gemeinsamen Sitzung vom 11.11.2010
+- TOP .1.: siehe TOP A 6.1 und TOP 6.2
+- TOP .1.: Rosenheimer Str. 46: Nutzungänderung und Umbau einer Diskothek zu einer nicht kerngebietstypischen Spielhalle - VORBESCHEID
+- TOP .2.: Rosenheimer Str. 108: Nutzungsänderung ohne Baumaßnahmen (Ausbau zum Theaterraum mit angeschlossener Gastronomie)
+- TOP .1.: siehe TOP A 6.3
+- TOP .1.: Bauvorhaben Tassiloplatz 5: Neubau von Wohngebäuden mit Tiefgarage - VORBESCHEID
+- TOP .2.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB im Stadtbezirk 5 (Au-Haidhausen), Entwurf einer Beschlussvorlage zur Fortschreibung der Erhaltungssatzung ?Haidhausen Mitte?
+- TOP .3.: Bauvorhaben Kegelhof 3 (vertagt aus 11/10)
+- TOP .1.: Stadtsanierung in München, Sanierung im Stadtteil Haidhausen, Dokumentation der Ergebnisse, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .1.: Verkehrsrechtliche Anordnung: Öffnung der in Richtung Südosten einbahngeregelten Boosstraße zwischen Asamstraße und Entenbachstraße für den gegenläufigen Radverkehr
+- TOP .2.: Ortstermin am Rosenheimer Platz, UA-Initiative (vertagt aus 11/10)
+- TOP .3.: Ortstermin an der Tankstelle Auerfeldstraße
+- TOP .4.: Ampelsituation an der Kreuzung Innere Wiener Straße / Stubenvollstraße
+- TOP .5.: Stand der Radwegeerweiterung in der Rosenheimer Straße
+- TOP .6.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG), Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 VwVfG für den barrierefreien Ausbau des Bahnsteiges D, Bahnhof München-Ost Pbf
+- TOP .1.: Pendlerverkehre verlagern: ÖV-Angebote verbessern statt Autos aussperren, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .2.: Vorrangflächen für Windkraftanlagen ausweisen und Planung beginnen, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .3.: Verkehrsrechtliche Anordnung: Aufhebung der Schulbushaltestelle in der Bazeillesstraße
+- TOP .4.: Verkehrsrechtliche Anordnung: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Ohlmüllerstr. 1, Seite Eduard-Schmid-Str.
+- TOP .5.: Planfeststellung nach § 18 AEG, 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 3neu München Ost, Bereich westliches Isarufer bis östlich S-Bahnhof Leuchtenbergring mit Haltepunkt Ostbahnhof (tief), hier Schreiben des Referats für Stadtplanung und Bauordnung vom 23.11.2010
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mi, 12.01.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24; UA WAS: Mi, 12.01.2011, 19.30 Uhr, Büro Diakonie Oberbayern, Elsässer Str. 30 Rgb.; UA Wirtschaft: Di, 11.01.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30 Rgb.; UA Planung: Do, 13.01.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30 Rgb.; UA GUV: 10.01.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30 Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: 19.01.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Jugendtreff Au ? Einladung zum weihnachtlichen Birnenbrot backen, 19.12.2010, 14.00 bis 18.00 Uhr
+- TOP .2.: Ökumenischer Gottesdienst und Kranzniederlegung aus Anlass des 50. Jahrestages des Flugzeugabsturzes an der St.-Pauls-Kirche, Freitag, 17.12.2010, 19.00 Uhr, Katholische Pfarrkirche St.-Paul, St.-Pauls-Platz 10
+- TOP .3.: Einladung zum Tag der offenen Tür der Wohnhilfe e.V., Wohngemeinschaften für unbegleitete Flüchtlinge, Freitag 17.12.2010, 15.00 Uhr, Rablstr. 40
+- TOP .4.: Evangelische Akademie Tutzing in Kooperation mit: die urbanauten, München - ?Die Vermessung des Urbanen 3.0 ? Zwischen realen und virtuellen öffentlichen Räumen?, 14.-16.01.2011, Tutzing
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
