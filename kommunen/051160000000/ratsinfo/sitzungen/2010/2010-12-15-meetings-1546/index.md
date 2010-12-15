@@ -1,0 +1,55 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-12-15T17:00:00+01:00
+- Ende: 2010-12-15T21:25:00+01:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1546
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1546
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Dringlichkeitsentscheid - Mit Stimmenmehrheit beschlossen
+- TOP 3: Optimierung der Wirtschaftlichkeit der Flughafen GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 4: Haushaltssatzung 2010/2011 - Mit Stimmenmehrheit beschlossen
+- TOP 5: Über- und außerplanmäßige Aufwendungen und Auszahlungen 2010 - Kenntnisnahme
+- TOP 6: Fünfter Nachtrag zur Hundesteuersatzung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 7: Sechzehnter Nachtrag zur Satzung über die Erhebung von Gebühren für die Benutzung der Abwasseranlage - Mit Stimmenmehrheit beschlossen
+- TOP 8: Einunddreißigster Nachtrag zur Satzung über die Straßenreinigung - Mit Stimmenmehrheit beschlossen
+- TOP 9: Dreizehnter Nachtrag Gebühren für die Abfallentsorgung in der Stadt - Mit Stimmenmehrheit beschlossen
+- TOP 10: 15. Nachtrag zur Ordnung über die Benutzung der Abfallentsorgungsanlagen der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 11: Jahresbericht 2009 der Niederrheinische Versorgung und Verkehr (NVV AG) zur Abwasserbeseitigung - Kenntnisnahme
+- TOP 12: Vierte ordnungsbehördliche Verordnung zur Änderung der ordnungsbehördlichen Verordnung - Mit Stimmenmehrheit beschlossen
+- TOP 13: Fortschreibung des Rettungsdienstbedarfsplans - Mit Stimmenmehrheit beschlossen
+- TOP 14: Demografiebericht 2010 - Kenntnisnahme
+- TOP 15: Sechster Nachtrag Benutzungsordnung Stadtarchiv - Mit Stimmenmehrheit beschlossen
+- TOP 16: Zehnter Nachtrag Musikschulordnung - Mit Stimmenmehrheit beschlossen
+- TOP 17: Siebter Nachtrag Tarif VHS - Mit Stimmenmehrheit beschlossen
+- TOP 18: Erster Nachtrag Tarif Museum Abteiberg/Vierter Nachtrag Tarif Museum Schloss Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 19: Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 20: Schenkung und Aufstellung einer Skulptur - Zur Kenntnis genommen
+- TOP 21: Neuorganisation der Vereinigten Städtischen Bühnen Krefeld-Mönchengladbach - An den Rat verwiesen
+- TOP 22: Rechtsformänderung der VSB - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 23: Rechtsformänderung VSB; hier: Bestellung der Aufsichtsratsmitglieder - An den Rat verwiesen
+- TOP 24: Rechtsformänderung VSB; hier: Bestellung der Geschäftsführer - An den Rat verwiesen
+- TOP 25: Bericht zur Gründung einer 6. Gesamtschule - Kenntnisnahme
+- TOP 26: Schulorganisatorische Maßnahmen im Bereich der Sekundarstufe - Mit Stimmenmehrheit beschlossen
+- TOP 27: Leistungsvereinbarung Schuldnerberatung - Einstimmiger Beschluss
+- TOP 28: Leistungsvereinbarung Frauenberatungsstelle Mg - Einstimmiger Beschluss
+- TOP 29: Leistungsvereinbarung mit dem Deutschen Roten Kreuz - Einstimmiger Beschluss
+- TOP 30: Leistungsvereinbarung AWO - Einstimmiger Beschluss
+- TOP 31: Schiedsamtswahl Nord/2 - Einstimmiger Beschluss
+- TOP 32: psycho-soziale Begleitung - Einstimmiger Beschluss
+- TOP 33: 1. Änderung des Bebauungsplanes Nr. 668/X - Stadtbezirk West - Mit Stimmenmehrheit beschlossen
+- TOP 34: Bebauungsplan Nr. 698/W - Stadtbezirk West - Mit Stimmenmehrheit beschlossen
+- TOP 35: Neuorganisation Feuerwachen der Berufsfeuerwehr MG - Mit Stimmenmehrheit beschlossen
+- TOP 36: Durchführung Zensus 2011 in MG - Kenntnisnahme
+- TOP 37: Organisationsuntersuchung zu den Einrichtungen zur Betreuung von Kindern - Mit Stimmenmehrheit beschlossen
+- TOP 38: Bildung eines Gestaltungsbeirates in MG - Mit Stimmenmehrheit beschlossen
+- TOP 39: Bewertung der Konditionen bei Veräußerungen städtischer Grundstücke - Mit Stimmenmehrheit beschlossen
+- TOP 40: Erarbeitung einer Geschäftsordnung für die Anhörungskommission - Mit Stimmenmehrheit beschlossen
+- TOP 41: Anfragen - Zur Kenntnis genommen
