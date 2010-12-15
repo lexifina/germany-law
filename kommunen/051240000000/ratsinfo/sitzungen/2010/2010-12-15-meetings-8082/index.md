@@ -1,0 +1,91 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-12-15T16:04:00+01:00
+- Ende: 2010-12-15T16:25:00+01:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8082
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8082
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 02.12.2010 - 13.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00124630.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00125256.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00124990.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Städtische Mitgliedschaften in Vereinen und den damit verbundenen Kosten
+- TOP 2.2: Kritik des Bundesrechnungshofes an der Ein-Euro-Arbeitsplatzvergabe
+- TOP 2.2.1: Anfrage des Stadtverordneten Schnorr
+- TOP 2.3: Situation des Wuppertaler Sport-Vereins
+- TOP 2.3.1: Antwort auf die Anfrage des Stadtverordneten Schnorr vom 26.11.2010
+- TOP 2.4: Die Behandlung der Anfrage erfolgt im Nichtöffentlichen Teil unter TOP 14
+- TOP 2.5: Kosten von Gutachten
+- TOP 2.5.1: Anfrage der Fraktion Bündnis 90/DIE GRÜNEN vom 30.11.2010
+- TOP 2.6: Moscheevereine in Wuppertal / Internetdarstellung
+- TOP 2.6.1: Beantwortung der Anfrage des Stv. Schnorr vom 02.12.2010
+- TOP 2.7: Zukunft des (Bezirks-)Jugendrates
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Wuppertaler Schauspielhaus erhalten - zur Vorberatung verwiesen
+- TOP 4.1.1: Änderungsantrag zu Drs. VO/1001/10 "Wuppertaler Schauspielhaus erhalten" - zur Vorberatung verwiesen
+- TOP 4.2: Dringlichkeitsantrag - Resolution Ausbau der L419 jetzt - ungeändert beschlossen
+- TOP 4.3: Resolution Gemeindewirtschaftssteuer - abgelehnt
+- TOP 4.4: Ansprechpartnerin für Alleinerziehende - zur Vorberatung verwiesen
+- TOP 4.5: Einführung Arbeitsgruppe "Bergische Kooperation" - vertagt auf Rat
+- TOP 4.6: Offenlegung von Vorstandsgehältern - vertagt auf Rat
+- TOP 4.7: "Pro Wettbewerb im Strommarkt" - Sachstand bei WSW - vertagt auf Rat
+- TOP 4.8: Winterdienst - zur Vorberatung verwiesen
+- TOP 4.9: Regelmäßige Unterrichtung über Döppersberg-Umbau - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Änderungsantrag zu VO/0131/10 - Einsparungen - Politik hat Vorbildfunktion
+- TOP 6: Ortsrecht
+- TOP 6.1: Abweichungssatzung Hütter Buschstraße - ungeändert beschlossen
+- TOP 6.2: Abweichungssatzung Rheinstraße - ungeändert beschlossen
+- TOP 6.3: Abweichungssatzung Clausenstraße - ungeändert beschlossen
+- TOP 6.4: Satzung über die Straßenreinigung und des Winterdienstes sowie die dazu erhebende Gebührensatzung ab dem 01.01.2011 - ungeändert beschlossen
+- TOP 6.5: 1. Satzung zur Änderung der Satzung über die Abwasserbeseitigung in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.6: Festsetzung der Hebesätze der Grundsteuer A und Grundsteuer B sowie der Gewerbesteuer - ungeändert beschlossen
+- TOP 6.7: 2. Satzung zur Änderung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal vom 16.12.2008 - ungeändert beschlossen
+- TOP 6.8: Satzung über die Erhebung von Gebühren für die Benutzung und Satzung über die Errichtung und Unterhaltung von Übergangseinrichtungen für ausländische Flüchtlinge und Aussiedler sowie von Oberdachlosen der Stadt Wuppertal (1. Änderungssatzung) - ungeändert beschlossen
+- TOP 6.9: Verwaltungsgebührensatzung - ungeändert beschlossen
+- TOP 6.10: Gebührensatzung zur Abfallwirtschaftssatzung 2011 - ungeändert beschlossen
+- TOP 6.11: Änderung der Satzung der Wirtschaftsförderung Wuppertal AöR (WiFö) - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Feststellung der Eröffnungsbilanz der Stadt Wuppertal zum 01.01.2008
+- TOP 7.2: Prüfung der Eröffnungbilanz der Stadt Wuppertal zum 01.01.2008
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplanung Kinder- und Jugendwohngruppen 2011 - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan 2011 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2011 - stationärer Bereich - - Kenntnis genommen
+- TOP 8.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2011 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2011 der Wirtschaftsförderung Wuppertal AöR (WiFö) - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss 2009 des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.7: Entlastung des Betriebsausschusses des GMW für das Geschäftsjahr 2009 - ungeändert beschlossen
+- TOP 8.8: Verlängerung der Übertragung von Entsorgungspflichten nach § 16 (2) KrW-/AbfG an die AWG mbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 460 - Einern - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1144 - Friedrich-Ebert-Str. / Multiservicecenter - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1135 - Am Schaffstal - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 1132 - Vogelsangstraße / Wilhelm-Raabe-Weg - - ungeändert beschlossen
+- TOP 9.5: Antrag auf Änderung des Regionalplanes im Bereich Lichtscheid - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Gemeinsame Beschulung verschiedener IT-Bildungsgänge - ungeändert beschlossen
+- TOP 11.2: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Bildungsgang "Betriebsassistent/in im Handwerk" gemäß APO BK Anlage A - ungeändert beschlossen
+- TOP 11.3: Stadtentwässerung - öffentlich-rechtliche Vereinbarung über den Anschluss eines auf dem Gebiet der Stadt Schwelm liegenden Grundstücks an die Kanalisation der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.4: Möblierung in der Innenstadt Elberfeld - zurückgestellt
+- TOP 11.4.1: Änderungsantrag zu VO/0929/10 Möblierung in der Innenstadt Elberfeld - zurückgestellt
+- TOP 11.5: Bericht der Gemeindeprüfungsanstalt Nordrhein-Westfalen über die "Überörtliche Prüfung von Staatszuweisungen in der Stadt Wuppertal von September 2009 bis Januar 2010"
+- TOP 11.6: Handlungsprogramm Demografischer Wandel - ungeändert beschlossen
+- TOP 11.7: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 11.8: Öffnungszeiten von Schulhöfen der Schulen mit Ganztagsangebot - ungeändert beschlossen
+- TOP 11.9: Beschleunigung von Investitionen durch Vereinfachungen im Vergaberecht - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Berufung eines Mitgliedes mit beratender Stimme für den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Trägerversammlung der ARGE Wuppertal - ungeändert beschlossen
+- TOP 12.3: 36. ordentliche Hauptversammlung des Deutschen Städtetages vom 03. bis 05. Mai 2011 in Stuttgart - vertagt auf Rat
+- TOP 12.4: TOP 12: Gremienbesetzung / Benennung - ungeändert beschlossen
