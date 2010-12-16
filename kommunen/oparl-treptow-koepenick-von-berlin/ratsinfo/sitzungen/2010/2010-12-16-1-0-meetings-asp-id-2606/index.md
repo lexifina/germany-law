@@ -1,0 +1,78 @@
+# 46. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2010-12-16T16:30:00+01:00
+- Ende: 2010-12-16T21:35:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2606
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2606
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100822
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - gegenstandslos
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-48 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 8.3: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Berufung eines stellvertretenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 8.5: Wahl von zwei Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Überlassung von Räumlichkeiten an Parteien - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bezirkshaushaltsrechnung 2008 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Beschlussfassung hinsichtlich der rechtlichen Zulassung eines Bürgerbegehrens zur Erhaltung der Sportanlage Birkenwäldchen - vertagt
+- TOP 9.4: Mietklauseln gegen rechtsextremes Gewerbe - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Wassertourismus für die Altstadt Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 9.6: Bericht über die Tätigkeit des Ausschusses für Eingaben und Beschwerden im Zeitraum 20.11.2008 – 16.09.2010 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9.7: Zusammensetzung des Fluglärmbeirates beim Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 9.8: Einbeziehung von Bürgerinitiativen gegen Fluglärm in Treptow-Köpenick in die Arbeit der Fluglärmkommission für den Verkehrsflughafen Berlin-Schönefeld - ohne Änderungen in der BVV beschlossen
+- TOP 9.9: Sanierung der Straßenbahnstrecke 68 - mit Änderungen in der BVV beschlossen
+- TOP 9.10: BBI – Nachtflugverbot und Lärmschutz - vertagt
+- TOP 9.11: Bestellung eines/r Ombudsmannes/-frau beim JobCenter Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 9.12: Regionalbahnhof Köpenick - mit Änderungen in der BVV beschlossen
+- TOP 9.13: Gegen den geplanten Personalabbau im JobCenter Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 9.14: Umbau S-Bahnhof Schöneweide - mit Änderungen in der BVV beschlossen
+- TOP 9.15: Kontaktbereichsbeamter Zittlau muss in Müggelheim bleiben - mit Änderungen in der BVV beschlossen
+- TOP 9.16: Tempo 30 auf der Wendenschloßstraße zwischen Müggelheimer Straße und Salvador-Allende-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 9.17: Ausbau Wendenschloßstraße und Lärmminderungsplanung - ohne Änderungen in der BVV beschlossen
+- TOP 9.18: Künstlerische Freiheit gewährleisten – Zensur vermeiden - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2: Verkehrssicherheit für Radfahrweg an der Kreuzung Fürstenwalder Damm/Bellevuestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Entwicklungskonzept ÖPNV - WISTA - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Erleichterung Spreetunnelquerung für Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Weitere Abstellplätze am S-Bhf. Spindlersfeld - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Einstellung des Bebauungsplanverfahrens XVI-50 ("Pestalozzistraße") im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick hier: Einstellungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Bebauungsplan 9-11 ("Joachimstraße") hier: - Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Grenzsteg als authentisches Geschichtszeugnis erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Wiederbegrünung der Bahnstrecke Adlershof-Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Wiederaufstellung der Stahlplastik „Fliegender Amboß“ (Windspiel) - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Betreuungsvertrag Strandbad mit Bürger für Rahnsdorf e. V. fortführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Gleichstellungsbericht 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.13: Fortschreibung der Arbeitsanweisung des Bezirksamtes Treptow-Köpenick von Berlin zum Umgang der Bezirksverwaltung mit Zuwendungen Privater - AZP - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.14: Im I. Halbjahr 2010 zugelassene über- und außerplanmäßigen Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.15: BBI – Erstellung eines Gutachtens zu Anflugverfahren aus Betriebsrichtung 07 - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Umgang mit schuldistanzierten Jugendlichen nach § 32 KJHG beim Jobcenter - überwiesen
+- TOP 14.2: Reinigungsleistungen an Schulen - überwiesen
+- TOP 14.3: Buslinie 167 – Verringerung der Taktzeiten - überwiesen
+- TOP 14.4: Regionalbahnhalt in Karlshorst bis zur Inbetriebnahme des Regionalbahnhofs Köpenick erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Rahmenstrategie Soziale Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Instandsetzung des Tröpfelbrunnen auf dem Adlershofer Marktplatz - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Besetzung der Stelle der Gleichstellungsbeauftragten - überwiesen
+- TOP 14.8: Tempo 30 in Grünau - überwiesen
+- TOP 14.9: Umsetzung der UN-Konvention über die Rechte der Menschen mit Behinderungen – Aktionsplan für Treptow-Köpenick - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Novellierung des Straßenreinigungsgesetzes vom 11.11.2010 (Winterdienst) - beantwortet
