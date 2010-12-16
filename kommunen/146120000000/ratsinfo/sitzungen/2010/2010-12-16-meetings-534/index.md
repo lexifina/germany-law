@@ -1,0 +1,55 @@
+# 22. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2010-12-16T16:00:00+01:00
+- Ende: 2010-12-17T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/534
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/534
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2010_12_16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00050279.pdf
+- Wortprotokoll: Nachtrag_SR_2010_12_16 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00050625.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse - zur Kenntnis genommen
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte (1 Fragerunde)
+- TOP 3: Einwendungen gegen den Entwurf der Haushaltssatzung 2011/2012 gemäß § 76 SächsGemO
+- TOP 4: Haushaltssatzung 2011/2012
+- TOP 5: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 6: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 7: Umbesetzung im Jugendhilfeausschuss - Zustimmung
+- TOP 8: Umbesetzung Jugendhilfeausschuss - Zustimmung
+- TOP 9: Nachbesetzung eines Stellvertreters im Ortsbeirat Cotta - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Fortsetzung des Sanierungsprozesses "Neues Rathaus Dresden, Dr.-Külz-Ring 19", Komplexsanierung in 6 Bauabschnitten - Zustimmung mit Änderung
+- TOP 12: Notwendigkeit der Neuorganisation im Bereich Sozialgesetzbuch Zweites Buch (SGB II) ab 1. Januar 2011.
+- TOP 13: Neuorganisation im Bereich SGB II - Zustimmung mit Änderung
+- TOP 14: Neuorganisation der Trägerschaft für Grundsicherung für Arbeitssuchende - punktweise Abstimmung
+- TOP 15: Fahrradfreundliche Innenstadt Dresden - Radverkehrskonzept 26er Ring - Zustimmung mit Änderung
+- TOP 16: Flächennutzungsplan-Änderung Nr. 46, Ortsamt Plauen, Strehlener Straße/Nordseite - Zustimmung
+- TOP 17: Zentralhaltestelle Kesselsdorfer Straße jetzt bauen - Vertagung
+- TOP 18: Postplatz weiter denken - von der Idee zur Identität - Vertagung
+- TOP 19: Wiedereröffnung der 126. Grundschule - Vertagung
+- TOP 20: Vergabe der Dienstleistungskonzession für das Dresdner Stadtfest 2011 bis 2013 - Zustimmung mit Änderung
+- TOP 21: Entwicklung des Dresdner Stadtfestes - Ablehnung
+- TOP 22: Jahresabschlüsse 2009 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung
+- TOP 23: Veräußerung des Labors Ebersbach der DGI Gesellschaft für Immobilienwirtschaft mbH Dresden - Zustimmung
+- TOP 24: Neufassung der Rettungsdienstentgeltsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 25: Satzung der Landeshauptstadt Dresden über die Erhebung von Kostenersatz für Leistungen der Feuerwehren (Feuerwehrkostensatzung) - Zustimmung
+- TOP 26: Richtlinie der Landeshauptstadt Dresden zur Förderung von Großveranstaltungen - Vertagung
+- TOP 27: Stiftung Bürger und Kunst Dresden - Zustimmung mit Änderung
+- TOP 28: Verbesserung der Parksituation im Kerngebiet der Äußeren Neustadt Dresden - Zuschuss für das Investitionsvorhaben Park- und Geschäftshaus Bautzner Straße 33 - 35 - Vertagung
+- TOP 29: Neufassung der "Satzung über Erlaubnisse und Gebühren für Sondernutzung der öffentlichen Grünanlagen der Landeshauptstadt Dresden (Sondernutzung Grünanlagen)" - Vertagung
+- TOP 30: Lokales Handlungsprogramm für Ordnung und Sauberkeit in Dresden - Vertagung
+- TOP 31: Modellversuch Dreck-Weg-Bürgertelefon - Vertagung
+- TOP 32: Drohender Grundschulnotstand in Dresden - Vertagung
+- TOP 33: Grundschulen im Grundschulbezirk Neustadt - Expertengruppe - Vertagung
+- TOP 34: Kosteneinsparungspotentiale bei städtischen Baumaßnahmen erschließen - Verschwendung öffentlicher Gelder stoppen - Vertagung
+- TOP 35: Umzug des Kindergartens "Waldhaus" in das Gebäude Junghansstraße 54 wegen Nichtverlängerung der Betriebserlaubnis im Gebäude Prellerstraße 8, Vorlage eines Wirtschaftlichkeitsvergleichs zwischen den Standorten Junghansstraße 54 und Prellerstraße 8 - Ablehnung
+- TOP 40: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Elternbeiträgen für die Betreuung und Förderung von Kindern in Kindertageseinrichtungen und in Kindertagespflege - Zustimmung
+- TOP 41: Folgende Informationsvorlagen wurden am 25.11. und 13.12.2010 ausgereicht:
+- TOP 41.1: Europabericht der Landeshauptstadt Dresden 2009 - zur Kenntnis genommen
+- TOP 41.2: Abschlussbericht Projekt "Evaluierung Sonderticket 4er-Karte mit Dresden-Pass" - zur Kenntnis genommen
