@@ -1,0 +1,83 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2010-12-16T16:00:00+01:00
+- Ende: 2010-12-16T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQk5Am7SBlwhun3VkoYKxKo
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3783
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeGKiYhSmRqv0z1bRdy6DyWglJEcGRpZzQzKCCiyevIn/Oeffentliche_Niederschrift_Rat_16.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 10. Sitzung des Rates am 18.11.2010
+- TOP 3: Umbesetzung von Ausschüssen
+- TOP 4: Benennung von zwei Vertretern für die Veranstaltergemeinschaft Radio RSG
+- TOP 5: Finanzierung der Fraktionen, Gruppen und Einzelmandatsgträger im Rat der Stadt Solingen
+- TOP 6: Public Corporate Governance Kodex für die Stadt Solingen
+- TOP 7: Public Corporate Governance Kodex
+- TOP 8: Antrag auf Zulassung eines kommunalen Jobcenters zur alleinigen Wahrnehmung der Aufgaben nach SGB II
+- TOP 9: Gemeinsames Jobcenter Solingen 2011
+- TOP 10: Entwicklungsperspektiven für das Kunstmuseum
+- TOP 11: Entwicklungsperspektiven für das Kunstmuseum - Übersendung der Anlagen - Info -
+- TOP 12: Entwicklungsperspektiven für das Kunstmuseum - Entsendung Aufsichtsrat - g -
+- TOP 13: Entwicklungsperspektiven für das Kunstmuseum - Meistermannplatz - Buchstabe q -
+- TOP 14: Entwicklungsperspektiven für das Kunstmuseum - Stiftungserklärung und Satzung - Buchstabe n -
+- TOP 15: Entwicklungsperspektiven für das Kunstmuseum - Buchstaben e und o -
+- TOP 16: Entwicklungsperspektiven für das Kunstmuseum - abschließender Beschlussentwurf -
+- TOP 17: Übertragung von Geschäftsanteilen der Städtischen Musikschule Solingen GmbH (Musikschule), den Bergischen Symphonikern - Orchester der Städte Remscheid und Solingen GmbH (Symphoniker) und der Kunstmuseum Solingen Betriebsgesellschaft mbH (KMS)
+- TOP 18: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP 19: Bergische Entwicklungsagentur (BEA)
+- TOP 20: Vergabe des Lokalen Agenda-Preises der Stadt Solingen 2010
+- TOP 21: Beteiligungsbericht 2009 der Stadt Solingen
+- TOP 22: Neugestaltung des Berichtswesens für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 23: Strategieprojekt Stadtwerke
+- TOP 24: Strategieprojekt Stadtwerke
+- TOP 25: Handlungskonzept Wohnen 2025
+- TOP 26: Schulentwicklungsplanung
+- TOP 27: Schulentwicklungsplanung
+- TOP 28: Schulentwicklungsplanung
+- TOP 29: II. Nachtrag zum Stellenplan 2010/Stellenplan 2011
+- TOP 30: Überplanmäßige Ausgaben im Bereich der städtischen IT
+- TOP 31: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstigen Amtshandlungen im Zusammenhang mit Lebensmitteln tierischen Ursprungs (Fleischhygienegebührensatzung)
+- TOP 32: I. Änderungssatzung zur Friedhofsgebührensatzung für die Friedhöfe der Stadt Solingen
+- TOP 33: Gebührenbedarfsberechnungen 2011
+- TOP 34: Gebührenbedarfsberechnung 2011 über die Abfallentsorgung in der Stadt Solingen
+- TOP 35: Neufassung der Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 36: Neufassung der Satzung über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage
+- TOP 37: I. Änderungssatzung über die Entsorgung von Grundstücksentwässerungsanlagen in der Stadt Solingen
+- TOP 38: Ordnung der Stadt Solingen über die Erhebung privatrechtlicher Entgelte für die Benutzung des Müllheizkraftwerkes der Technische Betriebe Solingen
+- TOP 39: Ordnung der Stadt Solingen über die Erhebung privatrechtlicher Entgelte für die Benutzung des Müllheizkraftwerkes der Technische Betriebe Solingen
+- TOP 40: Berechnung Straßenreinigungs- bzw. Winterdienstgebühr
+- TOP 41: Gründung der Technischen Betriebe Solingen (TBS)
+- TOP 42: Räumliche Konzentration der Technischen Betriebe Solingen am Standort Dültgenstaler Straße
+- TOP 43: Räumliche Konzentration der Technischen Betriebe Solingen am Standort Dültgenstaler Straße
+- TOP 44: Räumliche Konzentration der Technischen Betriebe Solingen
+- TOP 45: Wirtschaftsplan 2011 der Technischen Betriebe Solingen
+- TOP 46: Übertragung von Finanzierungsaufgaben ab 2011 auf den Zweckverband Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP 47: Bauleitplanung Heiligenstock/Aachener Straße
+- TOP 48: Baudenkmal Wuppertaler Straße 179 (Bahnhof Gräfrath)
+- TOP 49: Stadtwerke Solingen GmbH
+- TOP 50: Verschiedenes
+- TOP 51: Winterdienst in der Liebigstraße
+- TOP 52: Brief von Pina Bausch an Oberbürgermeister Franz Haug
+- TOP 53: Rückkauf/Teilrückkauf der SWS-Anteile von MVV
+- TOP 54: Anfrage der CDU-Ratsfraktion vom 16.12.2010 zum Winterdienst
+- TOP 55: Personalentwicklung im Museum Baden
+- TOP 56: Modifizierung der Vergabeordnung der Stadt Solingen
+- TOP 57: Bergische Entwicklungsagentur
+- TOP 58: Aufrechterhaltung öffentlicher Angebote durch Haushaltsentlastung aufgrund steuerrechtlicher Möglichkeiten
+- TOP 59: Antrag auf Zulassung eines kommunalen Jobcenters zur alleinigen Wahrnehmung der Aufgaben nach SGB II
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 10. Sitzung des Rates am 18.11.2010
+- TOP 3: Gesellschafterversammlung der Bergische Entwicklungsagentur GmbH
+- TOP 4: Gesellschafterversammlung der Bergische Entwicklungsagentur GmbH
+- TOP 5: Verschiedenes
+- TOP 6: Antrag auf Zulassung eines kommunalen Jobcenters zur alleinigen Wahrnehmung der Aufgaben nach SGB II
+- TOP 7: Neugestaltung des Berichtswesens für die Betriebe und Gesellschaften der Stadt Solingen
