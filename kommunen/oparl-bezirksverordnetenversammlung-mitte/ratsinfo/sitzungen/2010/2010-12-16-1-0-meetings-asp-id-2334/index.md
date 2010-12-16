@@ -1,0 +1,98 @@
+# 40. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2010-12-16T17:30:00+01:00
+- Ende: 2010-12-16T21:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2334
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2334
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=78565
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Spielhallengesetz Berlin - beantwortet
+- TOP 5.2: Verkehrsprognose Invalidenstraße - beantwortet
+- TOP 5.3: Gewerbetreibende im Nikolaiviertel unterstützen - beantwortet
+- TOP 5.4: Einnahmen aus den Weihnachtsmärkten - beantwortet
+- TOP 5.5: Alle Jahre wieder - beantwortet
+- TOP 5.6: Unbeantwortete Anfragen der BVV hier: Große Anfrage Drs.-Nr. 1847/III "Evaluation von Sprachförderprojekten und -programmen durch das Sprachförderzentrum" aus der Sitzung der BVV vom 18.11.2010 - beantwortet
+- TOP 5.7: "Wochenmarkt" Hackescher Markt - schriftlich beantwortet
+- TOP 5.8: Finanzierung des Projektes "Bude ohne Betreuung" - schriftlich beantwortet
+- TOP 5.9: Grundlagenkonzept für das Berlin Carre - schriftlich beantwortet
+- TOP 5.10: Umsetzung der geplanten Bildungsgutscheine im Bezirk Mitte - schriftlich beantwortet
+- TOP 5.11: Ersatz für die Rathausbrücke - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Legitimation von "Moabiter Problem-Fensterguckern"? - beantwortet
+- TOP 6.2: "Tendenzbeschluss" für das Bauvorhaben Hamberger - beantwortet
+- TOP 6.3: Kann der Medienhof gerettet werden? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Nachfragen zum Zwischenbericht zur Drucksache-Nr. 1724/III "Jugendschutz in Spielsalons und gleich gearteten Unternehmen" - beantwortet
+- TOP 7.2: Kürzungen bei der Arbeitsmarktpolitik - beantwortet
+- TOP 7.3: Das mobile Bürgeramt - ein schnelles und leises Ende? - beantwortet
+- TOP 7.4: Baugenehmigung für Wettbüros im Bezirk Mitte? - schriftlich beantwortet
+- TOP 7.5: Winterdienste und Baumschutz 2010 / 2011 - schriftlich beantwortet
+- TOP 7.6: Numerus Clausus für Grundschüler in Mitte? - schriftlich beantwortet
+- TOP 7.7: Quartiersratswahl Tiergarten Süd/Magdeburger Platz - schriftlich beantwortet
+- TOP 7.8: Verstöße gegen Genehmigungen zur Sondernutzung öffentlichen Straßenlandes im Bezirk Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Schließung des Kulturhauses Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Gründung einer Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Beitragspflichtige Erneuerung des wesentlichen Umfangs der Fahrbahn in der Burgstraße / Anna-Louisa-Karsch- Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplanentwurf I-B5m (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebau-ungsplanes I-B5m - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Bebauungsplanentwurf I-B5u (südliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5u - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.4: Bebauungsplanentwurf I-B5b (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5b - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf I-B5a (nördliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5a - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Sind Innenstadtkinder weniger intelligent? - Zwei Züge statt einem Zug für Schnellernerklassen am Lessing-Gymnsium einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Keine Nazis in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Bürgerwerkstatt Mauerpark umfassend einbeziehen hier: Mitarbeit und Einflussnahme auf Städtebaulichen Vertrag gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Neuwahl Stadtteilvertretung Turmstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Baumschutzgutachten für Kastanienallee 63 - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Baumschutz Kastanienallee 63 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Ausgrenzungsprozessen bei Jugendlichen und jungen Erwachsenen entgegentreten - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Unzureichender Schlussbericht zur Drucksache-Nr. 1715/III "Spielstätten: Kein Mehrwert für die Region aber Verstärkung von Suchtgefahr und Armut!" - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bürgerarbeit zu ÖBS-Bedingungen - überwiesen
+- TOP 12.5: Nikolaiviertel die Wiege Berlins stärken - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Baurecht gegen Wettbüros! - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Gefährdungsatlas und Korruptionsprävention im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Wertstoffforum in Mitte - mit Änderungen in der BVV beschlossen
+- TOP 12.9: Nikolaiviertel die Wiege Berlins stärken (2) - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: 150 Jahre Eingemeindungen von Ortsteilen von Mitte: Schirmherrschaft für die Feierlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Mauerpark - Schritt für Schritt oder Alles zu seiner Zeit - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Tramlinie 50: Verkehrssicherheit erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Teilnahme von Jugendamtsmitarbeitern an Weiterbildungen zur gesunden Ernährung - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Karl-Marx-Allee II. Bauabschnitt - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Stand der Sprachkompetenz weitergeben - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Sind "Laubpuster" notwendig? - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Barrierefreier Zugang - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Wirtschaftsförderung, hier: „Ethnische Ökonomie“ 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Interessenbekundungsverfahren für Energiepartnerschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Die heilende Kraft des Lachens - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Neuordnung der JobCenter für mehr Integrationen, Qualität, Effizienz und Kundennähe nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Postfiliale in der oberen Müllerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Unterstützung für online-Petition gegen Spielhallen durch das Bezirksamt Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Beschluss über das Ergebnis der öffentlichen Auslegung zu dem Bebauungsplan I-B5ca (südwestliche Spandauer Vorstadt) gem. § 3 Abs. 2 BauGB, die Änderung des Geltungsbereiches der Bebauungspläne I-B5ca und I-B5cb, die Durchführung der erneuten öffentlichen Auslegung zu dem Bebauungsplan I-B5ca gem. § 4a Abs. 3 i.V. mit § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2009 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Beschluss über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB und der Behördenbeteiligung gem. § 4 Abs. 2 BauGB und die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB des Bebauunsplans I-52a-1 "Beach-Volleyball-Halle" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Benennung der Vertreter/innen sowie deren Stellvertretungen des Bezirksamtes Mitte in der Trägerversammlung des Jobcenter Berlin Mitte ab 01.01.2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Integrierte Handlungs-und Entwicklungskonzepte der Quartiersmanagement-Gebiete Moabit West, Moabit Ost, Magdeburger Platz, Reinickendorfer-/Pankstraße, Soldiner Straße, Sparrplatz, Brunnenviertel-Ackerstraße, und Brunnenviertel-Brunnenstraße - Fortschreibung 2011 - mit Abschlussbericht zur Kenntnis genommen
