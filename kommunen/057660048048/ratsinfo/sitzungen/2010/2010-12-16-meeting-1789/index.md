@@ -1,0 +1,52 @@
+# Rat (9. Sitzung)
+
+- Körperschaft: Gemeinde Leopoldshöhe
+- Beginn: 2010-12-16T18:35:00+01:00
+- Ende: 2010-12-16T20:07:00+01:00
+- Ort: Rathaus, Kirchweg 1, 33818 Leopoldshöhe, Sitzungssaal
+- Status: 
+- Gremium: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://leopoldshoehe.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYU81CczD8OZu-iq1qfMUuY
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1789
+- Quelle: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa-RuS4Fu-q9QoBcsuAVW4G73JTYl0zd1qzTPkYckE6z/Bekanntmachung_Rat_16.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRjx-Iugq_HL728tvCN-BuA-Us7z29eP_KoxDpsgprvs/Oeffentliche_Niederschrift_Rat_16.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Verabschiedung eines Ratsmitgliedes
+- TOP 2.: Einführung eines neuen Ratsmitgliedes
+- TOP 3.: Anfragen der Einwohnerinnen und Einwohner
+- TOP 4.: Anfragen der Ratsmitglieder
+- TOP 5.: Informationen des Bürgermeisters
+- TOP 6.: Berichte der gemeindlichen Vertreter aus den Verbänden und sonstigen Gremien
+- TOP 7.: Anträge der Fraktionen
+- TOP 7.1: Antrag der Fraktionen der CDU, des Bündnis 90/Die Grünen und der FDP hier: Umstiegsmöglichkeiten auf ein differenziertes Volumensystem in der Abfallentsorgung
+- TOP 7.2: Antrag der SPD-Fraktion hier: Errichtung einer "Stromtankstelle" auf einer öffentlichen Fläche innerhalb des Gemeindegebietes
+- TOP 7.3: Antrag der Fraktion Bündnis 90/Die Grünen hier: Umbesetzung von Ausschüssen
+- TOP 8.: Bestimmung des Ausschussvorsitzenden für den Rechnungsprüfungs- und Bilanzausschuss gem. § 58 Abs. 5 S. 5 GO NRW
+- TOP 9.: Einbringung einer Hebesatz-Satzung für das Jahr 2011
+- TOP -: Haushaltskonsolidierung 2011 - - 32 Ja-Stimme(n), 1 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 10.: Abfallentsorgung 2011 hier: Kalkulation der Abfallentsorgungsgebühren für das Jahr 2011 - - einstimmig -
+- TOP 11.: Änderung der Friedhofsgebührenordnung des Friedhofes Helpup - - einstimmig -
+- TOP 12.: Ortsrecht
+- TOP 12.1: Neufassung der Ausschreibungs- und Vergabeordnung der Gemeinde Leopoldshöhe - - 32 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 12.2: Neufassung der Verwaltungsgebührensatzung der Gemeinde Leopoldshöhe - - 33 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 12.3: Änderung der Hundesteuersatzung - - 33 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 12.4: Änderung der Friedhofsgebührensatzung - - 33 Ja-Stimme(n), 0 Nein-Stimme(n), 1 Enthaltung(en) -
+- TOP 12.5: Büchereiverwaltung hier: Neufassung der Benutzungsordnung mit Gebührentarif für die Gemeindebücherei Leopoldshöhe - - 32 Ja-Stimme(n), 0 Nein-Stimme(n), 2 Enthaltung(en) -
+- TOP 12.6: Änderung der Beitrags- und Gebührensatzung zur Wasserversorgungssatzung - - 33 Ja-Stimme(n), 1 Nein-Stimme(n), 0 Enthaltung(en) -
+- TOP 13.: Zukunft/Auflösung der Fröbelschule - - 28 Ja-Stimme(n), 0 Nein-Stimme(n), 6 Enthaltung(en) -
+- TOP 14.: Lippe Tourismus- und Marketing AG hier: Konsortialvertrag - - 29 Ja-Stimme(n), 0 Nein-Stimme(n), 4 Enthaltung(en) -
+- TOP 15.: Einzelfallsatzung über die Erhebung von Beiträgen nach § 8 KAG NRW für straßenbauliche Maßnahmen für die Schötmarsche Straße (Teilbereich vom Kreisel an der Einmündung "Große-Horst-Straße" bis zur Umgehungsstraße L 751) - - einstimmig -
+- TOP 16.: 14. vereinfachte Änderung des Bebauungsplanes Nr. 04/05 „Auf dem Rohe“ im Bereich nordwestlich der Fettpottstraße hier:- Beschluss über Anregungen zum Entwurf - Satzungsbeschluss gemäß § 10 (1) BauGB i.V.m. § 13 BauGB - - einstimmig -
+- TOP 17.: Konzept für die 10. Änderung des Bebauungsplanes Nr. 01/02 "Barkhauser Bruch" Bereich: östlich der Hauptstraße -L 751-, südlich der Gartenstraße / Schlangenstraße, nördlich der Birkenstraße (Auf Drucksache 136/2010 sowie auf TOP 3 der gemeinsamen öffentlichen Sitzung des Ausschusses für Straßen, Plätze und Verkehr und des Hochbau- und Planungsausschusses am 28.10.2010 wird verwiesen.)
+- TOP -: Konzept für die 10. Änderung des Bebauungsplanes Nr. 01/02 „Barkhauser Bruch“ Bereich:östlich der Hauptstraße -L751-, südlich der Gartenstraße / Schlangenstraße, nördlich der Birkenstraße - Zurückverwiesen
+- TOP 18.: Aufstellung eines Bebauungsplanes Nr. 06/08 "Gelände Westphal - südlich der Herforder Straße"
+- TOP -: Genehmigung einer Dringlichkeitsentscheidung gem. § 60 GO NRW
+- TOP -: Aufstellung des Bebauungsplanes Nr. 06/08 "Gelände Westphal - südlich der Herforder Straße“ mit Veränderungssperre
+- TOP 18.1: Aufstellung des Bebauungsplanes Nr. 06/08 "Gelände Westphal - südlich der Herforder Straße" mit Veränderungssperre - - einstimmig -
+- TOP 19.: Beratung und Beschlussfassung über den Jahresabschluss 2009 der LIL
+- TOP -: Beschlussfassung über den Jahresabschluss 2009 der LIL - - einstimmig -
+- TOP 20.: Erlass einer Satzung über die Festlegung von Fristen für die Kanal-Dichtheitsprüfung im Bereich Gewerbegebiet Greste etc. - - einstimmig -
