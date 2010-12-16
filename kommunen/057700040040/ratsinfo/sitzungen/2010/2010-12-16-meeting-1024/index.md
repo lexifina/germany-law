@@ -1,0 +1,57 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2010-12-16T17:00:00+01:00
+- Ende: 2010-12-16T19:30:00+01:00
+- Ort: Dorfgasthaus Schwettmann-Rüter, Zur Bockwindmühle 15, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUzPtGDt7ruKcvEhygcjmp0
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1024
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa-54M9jjo8MlLuYEmA8aCAuhhzccushOEkO-MU3_7ip/Bekanntmachung_Rat_16.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR29MPnctgYBc9M6fTmjzelkbzPGoSN1rZ_1vk56yHOY/Oeffentliche_Niederschrift_Rat_16.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: 1. vereinfachte Änderung des Bebauungsplanes Nr. 41 "Gewerbegebiet Pr. Ströhen" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 5.: Aufstellung des Bebauungsplanes Nr. 81 "Östliche Lübbecker Straße" sowie 68. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 6.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2009; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 7.: Pflichtprüfung des Wasserwerkes der Stadt Rahden für das Wirtschaftsjahr 2009; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 8.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung" für das Wirtschaftsjahr 2011 - Einstimmig, 0 Enthaltungen
+- TOP 9.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2011 - Einstimmig, 0 Enthaltungen
+- TOP 10.: 7. Satzung zur Änderung der Straßenreinigungs- und Gebührensatzung - Einstimmig, 0 Enthaltungen
+- TOP 11.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2009; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 12.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2011 - Einstimmig, 0 Enthaltungen
+- TOP 13.: Förderprogramm "Jung kauft Alt - Junge Leute kaufen alte Häuser" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 14.: Neufestsetzung des Bädertarifes für das Hallen- und Freibad der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Erhebung von Eintrittsgeldern an Aktionstagen des Museumshofes Rahden - 32 Stimmen dafür, 2 dagegen, 2 Enthaltungen
+- TOP 16.: Initiative zur Gründung eines Seniorenbeirates - Ohne Abstimmung
+- TOP 17.: Bildung des Arbeitskreises Schulentwicklungsplanung - Ohne Abstimmung
+- TOP 18.: Kanalsanierungen im Bereich des Gewerbegebietes Ost, 1. Satzung zur Änderung der Satzung gem. § 61 a Landeswassergesetz über die vorgezogene Dichtheitsprüfung von Grundstücksentwässerungsanlage im Bereich Gewerbegebiet Ost einschl. Maschweg und Teilbereichen der Weher Straße - Einstimmig, 0 Enthaltungen
+- TOP 19.: Dichtheitsprüfung der privaten Abwasseranlagen nach § 61 a Landeswassergesetz (LWG) NRW, Aufstellung eines Zeitplanes - Zurückverwiesen
+- TOP 20.: Bekanntgaben
+- TOP 20.1: Breitbandausbau in Rahden
+- TOP 20.2: Geplante Änderung des SGB
+- TOP 20.3: Resolution zur Neuordnung des Abfallrechts
+- TOP 20.4: Kläranlage Rahden
+- TOP 20.5: Tag der Deutschen Einheit und Nordrhein-Westfalen-Tag 2011 in Bonn
+- TOP 21.: Verschiedenes
+- TOP 21.1: Tierheim Lübbecke
+- TOP 21.2: Residenzpflicht nach dem Asylverfahrensgesetz
+- TOP 21.3: Essenszuschüsse für sozial benachteiligte Schülerinnen und Schüler an den weiterführenden Schulen
+- TOP 21.4: Städtebauliche Rahmenplanung
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 22.: Wertberichtigung von Forderungen - Einstimmig, 0 Enthaltungen
+- TOP 23.: Grundstücksangelegenheiten
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.1: Antrag eines Beamten auf Bewilligung von Altersteilzeit; hier: Anpassung der bisher bewilligten Altersteilzeit an die neue Regelaltersgrenze - Einstimmig, 0 Enthaltungen
+- TOP 25.: Bekanntgaben
+- TOP 25.1: Versand von Sitzungsunterlagen und Niederschriften
+- TOP 26.: Verschiedenes
+- TOP 26.1: Kreisumlage
+- TOP 26.2: Übergangswohnheim Weher Straße
