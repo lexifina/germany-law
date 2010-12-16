@@ -1,0 +1,118 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2010-12-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869830
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869830
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Chorgemeinschaft St. Peter und Paul Trudering Großes Truderinger Neujahrskonzert am 23.01.2011
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Voilá! Opera! e.V. Projekt "Oper an Schulen" im April/Mai 2011 GS Lehrer-Wirth-Straße
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Voilá! Opera! e.V. Projekt "Oper an Schulen" im April/Mai 2011 GS Forellenstraße
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Bürgerzentrum Trudering e.V. Ersatz des Bühnenvorhangs und Montage von Schienen
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Sprengelschule Astrid-Lindgren
+- TOP 2.2.: Suche nach neuen Räumen für den Kindergarten Spatzennest
+- TOP 2.3.: Feldbergstraße in Trudering
+- TOP 2.4.: Haltverbot am Edinburghplatz
+- TOP 2.5.: Parksituation Tangastr. 80 und 82
+- TOP 2.6.: Spazier- und Radweg Riem
+- TOP 2.7.: Zeitpuffer der S4 am Ostbahnhof auf die Bahnhöfe Gronsdorf, Trudering und Berg-am-Laim verteilen
+- TOP 2.8.: Briefmarkenautomat in Waldtrudering
+- TOP 2.9.: Packstation gehört in zentrale Lage von Waldtrudering
+- TOP 2.10.: Gedenkstätte
+- TOP 2.11.: Messestadt A1 Plakat
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 1: (E) Lärmbelästigung durch Basketballspielplatz; Ruhestörung ab Einbruch der Dunkelheit (Ziffern 1 + 3 des Antrages) Empfehlung Nr. 08-14 / E 00149 der Bürgerversammlung des Stadtbezirkes 15 Trudering-Riem am 30.10.2008; neue Behandlung des Vorgangs wegen Anfrage des Baureferats vom 23.11.10
+- TOP 1.2.: Einzäunung Spielplatz an der Adlerstraße
+- TOP 1.3.: Mobile Toiletten am Spielband im Riemer Park
+- TOP 1.4.: Fußgängerweg im Bajuwarenpark zwischen Kreiller- u. Truderinger Str.
+- TOP 1.5.: Behindertenparkplatz für das Kulturzentrum Trudering
+- TOP 1.6.: Neuer Fahrbahnbelag und Ampelschaltung
+- TOP 1.7.: Radfahrer Führung am Schatzbogen
+- TOP 1.8.: Verbindungsweg Rennbahnstraße; Schreiben des Baureferats zur Neuordnung vom 22.11.10
+- TOP 1.9.: Lärmschutz für die Wohngebiete entlang der A 94 durch Geschwindigkeitsbeschränkung
+- TOP 1.10.: Erstellung einfacher Bebauungspläne nach §§ 34 und 35 BauGB
+- TOP 1.11.: Katastrophe in Waldtrudering - merkliche Nachverdichtung von Bauraum
+- TOP 1.12.: Verkaufsoffener Sonntag in der Wasserburger Landstraße
+- TOP 1.13.: Erläuterungstafel für den Kopfbau des ehem. Münchner Flughafens Riem
+- TOP 1.14.: Vorklassen für das Truderinger Gymnasium
+- TOP 1.15.: Mehrjahresinvestitionsprogramm- Fortschreibung für die Jahre 2011-2015; Anhörungsverfahren
+- TOP 1.16.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Absoltutes Haltverbot Huchenstraße
+- TOP 4.2.: Parkplatz Bezirkssportanlage Feldbergstraße
+- TOP 4.3.: Vorher-Nachher-Vergleich der Verkehrsmengen im Umfeld des Neubaugebiets Bajuwarenstraße
+- TOP 4.4.: Planung Riemer Grundschule
+- TOP 4.5.: Bau der Schulsportanlage der Riemer Grundschule in Verbindung mit dem Bau einer zweiten Bezirkssportanlage
+- TOP 4.6.: Planung Gymnasium Trudering
+- TOP 4.7.: Erfahrungen bei internationalen Messen umsetzen- Fahrgastleitsystem im Zwischengeschoss des U-S-Bahnhofs Trudering benutzerfreundlicher machen
+- TOP 5: Anhörungen
+- TOP 5.1.: Straßenteilumbenennung der Huchenstraße und des Flußaalwegs
+- TOP 5.2.: Keine weiteren Neonazi-Aufmärsche; Ziff. 1 Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksauschüsse, BA-Antrag 08-14/B02234 des Bezirksauschusses des Stadtbezirks 19-Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 06.07.10
+- TOP 5.3.: Veröffentlichungen in den Schaukästen der Bezirksauschüsse, Anfrage des Seniorenbeirats vom 22.11.10
+- TOP 5.4.: Städt. Flst. 1408/104 Gem. Trudering an Olof-Palme/ Graf-zu-Castell-Straße, Anhörung zur Nutzung des Grundstücks in der Zeit vom 03.01.-13.03.2011
+- TOP 5.5.: Anhörungsverfahren für eine Laufveranstaltung der CSU Trudering mit Sportvereinen am 22.05.2011 im Riemer Park
+- TOP 5.6.: Feuerwerk am 10.01.11, Werner-Eckert-Str. 1, 81829 München
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Antrag zur Teilbefreiung vom Bebauungsplan für das Planungsgebiet MK1 im Bajuwarenpark/ Erweiterungsantrag zu "Neubau eines Lebensmittelmarktes mit Ärztehaus an der Truderinger Straße"
+- TOP 7.2.: Bebauungsplan für das Gewerbegebiet Aschheim Südost, südlich der St. 2082, westlich der Anschlussstelle Kirchheim/ Aschheim-Süd und nördlich der Eichendorffstraße (nördliche Restfläche)
+- TOP 7.3.: Bauvorhaben Friedenspromenade 12
+- TOP 7.4.: Bauvorhaben Teuchertstr. 19
+- TOP 7.5.: Bauvorhaben Markgrafenstr. 22b
+- TOP 7.6.: Bauvorhaben St.-Augustinus-Str. 68
+- TOP 7.7.: Tankstelle Heinrich-Wieland-Straße OMV
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.2.: Kein unnötiger Stellplatzverlust an der Wasserburger Landstraße im Ortszentrum Waldtrudering
+- TOP 7.3.: BA-Initiative 08-14 / I ? 01304 Halteverbot in der St.- Augustinus- Str. Ortstermin vom 06.12.10
+- TOP 7.4.: BA-Antrag 08-14 / B ? 01817 Verkehrssituation Querung Feldbergstr. Ortstermin vom 06.12.10
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Überblick BA- Budget 2010
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Schwarzspechtstr. 4; Agathenstr. 25; Frauenalplweg 5; Ottilienstr. 12; Waldschulstr. 33; Dukatenweg 11; Eigerstr. 37; Entscheidungen der Unt. Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: Straßenbegleitgrün Landshamer Str., Kirchtruderinger Str., KITA Erdinger Str. 9, Wasserburger Landstr./Bajuwarenstr., Wasserburger Landstr. bei Hsnr.10, Wasserburger Landstr. bei Hsnr. 86, Wasserburger Landstr. bei Hsnr. 220, Wasserburger Landstr. bei Hsnr. 39 (2 Bäume), Wasserburger Landstr. bei Hsnr. 241, Kreillerstr., Friedenspromenade bei Hsnr. 61a, Himalajastr. 54, Hanns-Pfann-Str./ Himalajastr., In der Heuluss/ Iltisstr., In der Heuluss Hsnr. 19a, Bleßhuhnweg (2 Bäume), Friedenspromenade/ Solalindenstr., Graf-Spee-Platz (2 Bäume), Turnerstr. 46 Hort, Waldschulstr. KG (2 Bäume), Feldbergstr. 83 KG, Feldbergstr. 85 SL 8.2 Kästlenstr. 6; 8.3 Kirtaweg 2; 8.4 Am Hochacker 21; 8.5 Am Lüßl 4; 8.6 Dompfaffweg 2; 8.7 Feldbergstr.4; 8.8 Iltisstr.54a; 8.9 Damaschkestr. 65; 8.10 Königseestr.7; 8.11 Markgrafenstr.22 b; 8.12 St.Augustinus-Str. 68; 8.13 Friedenspromenade 12; 8.14 In der Heuluss 17; 8.15 Ottilienstr. 2; 8.16 Edeltraudstr. 21; 8.17 Teuchertstr.19; 8.18 Ickelsamerstr.25; 8.19 Von-Gravenreuth-Str.27; 8.20 Heinrich-Wieland-Str.97
+- TOP 9: Verschiedenes
+- TOP 9.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.2.: Veranstaltung am 13.11.10: "Heldengedenken 2010: Ruhm und Ehre den deutschen Soldaten", Schreiben des Bezirksausschusses 1 Altstadt-Lehel an das KVR vom 25.11.10
+- TOP 9.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.: Anhörung zum Feuerwerk in der Martin-Kollar-Str. 5, Parkplatz auf Firmenhof, am 16.12.10, Antwort vom 03.12.10
+- TOP 9.5.: Feuerwerk am 21.12.10, Werner-Eckert-Str. 1, 81829 München; Anhörung vom 09.12.10 und Antwort vom 13.12.10
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauvorhaben im Stadtbezirk im Zeitraum 01.11. - 28.11.10
+- TOP 10.2.: Abbruchanzeige: Solalindenstr. 42
+- TOP 10.3.: Abbruchanzeige: Teuchertstr. 19
+- TOP 10.4.: Bebauungsplan mit Grünordnung Nr. 1683 b, Markgrafenstraße- Gymnasium Trudering; Umbau, Bedarfs- und Konzeptgenehmigung, Sitzungsvorlage 08-14/V 05204, Beschluss des Bauausschusses vom 16.11.10
+- TOP 10.5.: Mobilität in Deutschland (MiD), Befragung zum Alltagsverkehr in München, Sitzungsvorlage Nr. 08-14/V 05581, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.12.2010
+- TOP 10.6.: Einrichtung eines Radweges auf gesamter Länge der St.- Augustinus- Straße, Empfehlung Nr. 08-14/E 00389 der Bürgerversammlung des Stadtbezirks 15 Trudering- Riem vom 01.10.09, Sitzungsvorlage 08-14/V 03530, Beschluss des Bezirksausschusses Trudering-Riem vom 21.10.10
+- TOP 10.7.: München setzt aufs Rad 2, von Nachbarn in den Niederlanden und in Dänemark lernen, Antrag 08-14/A 01081 der Stadtratsfraktion Die Grünen/ RL vom 25.09.09, Sitzungsvorlage Nr. 08-14/V 04041, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10
+- TOP 10.8.: Neuerlass der Straßenreinigungs und -sicherungsverordnung, Sitzungsvorlage Nr. 08-14/ V 05208, Beschluss des Bauauschusses vom 07.12.10
+- TOP 10.9.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksauschüsse, Antrag Nr. 08-14/B 00249 des Bezirksausschusses dse Stadtbezirks 05 Au-Haidhausen vom 16.07.08, Sitzungsvorlage Nr. 08-14/V 04462, Beschluss des Verwaltungs- und Personalausschusses vom 17.11.10
+- TOP 10.10.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit; Antrag Nr. 08-14/A 01013 der Stadtratsfraktion DIE GRÜNEN/ RL vom 19.08.09; Sitzungsvorlage Nr. 08-14/V 05022; Beschluss des Kinder- und Jugenhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10, Ergänzung vom 03.11.10
+- TOP 10.11.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14/V 05173; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.10
+- TOP 10.12.: Umsetzung des Teilplan 4, Tageseinrichtungen, Tagespflege, Teil B, Bedarfsplanung Kindertagesbetreuung, Stand der Ausbauoffensive, Sitzungsvorlage Nr. 08-14/V 03539, Beschluss der Vollversammlung des Stadtrats vom 27.10.10
+- TOP 10.13.: Weiterentwicklung der Ferienangebote für Kinder und Jugendliche in München, Antrag 08-14/A 00383 von Herrn Stadtrat Christian Müller und Frau Stadträtin Verena Dietl vom 11.11.08; Gemeinsame Darstellung der Ferienangebote aller Referate, Antrag Nr. 08-11/A 01181 von Herrn Stadtrat Christian Müller und Frau Stadträtin Verena Dietl vom 10.11.09; Aufnahme des Projekts Lilalu in die Regelförderung des Sozialreferats, Antrag 08-14/B 02136 des Bezirksauschusses des Stadtbezirks 8- Schwanthalerhöhe vom 11.05.10; Sitzungsvorlage Nr. 08-14/V 03430, Beschluss der Vollversammlung des Stadtrates vom 27.10.10
+- TOP 10.14.: Kinderkrippe für Trudering in der Helgastraße 8 errichten, Antrag Nr. 08-11/A 00380 von Herrn Stadtrat Hans Podiuk vom 07.11.08, Sitzungsvorlage Nr. 08-14/V 05413, Beschluss des Kinder-und Jugendhilfeausschusses vom 30.11.10
+- TOP 10.15.: Errichtung eines 4-zügigen Gymnasiums in Trudering an der Friedenspromenade mit einer 3-fach Sporthalle mit Zuschauertribüne und Freiflächen im 15. Stadtbezirk Trudering- Riem, Projektkosten (Kostenobergrenze) 76.000.000 Euro davon Ersteinrichtungskosten 6.850.000 Euro davon nutzerspezifische Änderungen 1.800.00 Euro, 1. Projektauftrag und Projektgenehmigung, 2. Genehmigung für die Vorabmaßnahme "Baugrube", 3. Änderung des Mehrjahresinvestionsprogramms 2010-14, Unterabschnitt 2320, 4. Anmeldung der Aufweitung Markgrafenstraße im Bereich des Gymnasialneubaus zum Mehrjahresinvestitionsprogramm 2011-15; Sitzungsvorlage Nr. 08-14/V 05019, Beschluss der Vollversammlung des Stadtrats vom 06.10.10
+- TOP 10.16.: Bebauungsplan mit Grünordnung Nr. 1976 Schwablhofstraße (westlich), Wasserburger Landstraße (nördlich), Bahnlinie München- Rosenheim (südlich), Projektgenehmigung, Sitzungsvorlage Nr. 08-11/V 04608, Beschluss des Bauausschusses vom 16.11.10
+- TOP 10.17.: Messestadt Riem, 3. Bauabschnitt (KITA 3), Errichtung eines KinderTagesZentrums, 1. Genehmigung des Nutzerbedarfsprogramms, 2. Erteilung des Planungsauftrages, Sitzungsvorlage Nr. 08-14/ V 04939, Beschluss der Vollversammlung des Stadtrates vom 27.10.2010
+- TOP 10.18.: Messestadt Riem, 4. Bauabschnitt Wohnen, Herstellung der Erschließungsstraßen und -plätze; Teilprojektkosten Baustraßen im 4. BA Wohnen: 770.000 Euro, 1. Genehmigung des Nutzerbedarfsprogramms, 2. Beauftragung der MRG mit der Vorplanung, 3. Beauftragung der MRG mit der vorgezogenen Herstellung der Baustraßen; Sitzungsvorlage Nr. 08-14/V 05283, Beschluss des Bauausschusses vom 07.12.10
+- TOP 10.19.: Bebauungsplan mit Grünordnung Nr. 1728 m Messestadt Riem, 4. Bauabschnitt Wohnen, Edinburghplatz südlich (Teiländerung des Bebauungsplans mit Grünordnung Nr. 1728 d, Teil 1), Satzungsbeschluss, Sitzungsvorlagen- Nr. 08-14/V 05339, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10
+- TOP 10.20.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. 2048, Riemer Straße (südlich), Autobahn A94 (nördlich) und Bahnlinie München-Mühldorf (östlich), Aufstellungsbeschluss, Sitzungsvorlage Nr. 08-14/V 05472, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10
+- TOP 10.21.: a) Bebauungsplan mit Grünordnung Nr. 1539 Töginger Straße/ BAB A94 (südlich), Bahnlinie München-Mühldorf (nördlich), S-Bahnlinie München-Ismaning (östlich), Hüllgraben, Billigungsbeschluss; b) Aufhebung der nicht überplanten Restbereiche des Aufstellungsbeschlusses vom 07.11.01 für den Bebauungsplan mit Grünordnung Nr. 1539, Sitzungsvorlage Nr. 08-14/V 05002, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10
+- TOP 10.22.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke, a) Grundsatzentscheidungen des Bayerischen Landtags vom 14.04.10, Stand der Umsetzung, b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen, c) Lärmsanierung am DB-Südring, d) weiteres Vorgehen, e) Anträge und Empfehlungen; Sitzungsvorlage Nr. 08-14/V 05521, Beschluss der Vollversammlung des Stadtrates vom 24.11.10
