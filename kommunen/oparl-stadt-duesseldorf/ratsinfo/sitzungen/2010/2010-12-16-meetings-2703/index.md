@@ -1,0 +1,82 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2010-12-16T09:00:00+01:00
+- Ende: 2010-12-16T20:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2703
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/2703
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151698.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151698.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00151698.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Bericht zum Eurovision Song Contest 2011 - zur Kenntnis genommen
+- TOP 4: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Vertreter/innen des Oberbürgermeisters - einstimmig beschlossen
+- TOP 7: Kämmererliste 2009 - mehrheitlich beschlossen
+- TOP 8: Kämmererliste - Haushaltsjahr 2010 - mehrheitlich beschlossen
+- TOP 9: Bericht über die Prüfung der Eröffnungsbilanz - einstimmig beschlossen
+- TOP 10: Amt 16 Jahresabschluss - zur Kenntnis genommen
+- TOP 11: Amt 16 - Wirtschaftsplan 2011 - mehrheitlich beschlossen
+- TOP 12: Jahresabschluss 2009 und Lagebericht 2009 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 13: Wirtschaftsplan des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für das Jahr 2011 - mehrheitlich beschlossen
+- TOP 14: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - mehrheitlich beschlossen
+- TOP 15: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - einstimmig beschlossen
+- TOP 16: Satzung über die Abwasserbeseitigung der Grundstücke im Stadtgebiet Düsseldorf (Abwassersatzung) vom - mehrheitlich beschlossen
+- TOP 17: Gebührenkalkulation Straßenreinigung für 2011 - einstimmig beschlossen
+- TOP 18: 25. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - einstimmig beschlossen
+- TOP 19: Gebührenkalkulation Abfall für 2011 - mehrheitlich beschlossen
+- TOP 20: 21. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 21: Entleerung, Reinigung und Kontrolle von Benzin-, Öl- und Fettabscheideranlagen zum Schutz der öffent - einstimmig beschlossen
+- TOP 22: Neufestsetzung der Gebührentarife zur Gebührensatzung für die Friedhöfe und für die Feuerbestattung - mehrheitlich beschlossen
+- TOP 23: VRR- Finanzierungsübertrag ab dem Jahr 2011 - einstimmig beschlossen
+- TOP 24: Etatberatung 2011
+- TOP 24.1: Haushaltssatzung 2011
+- TOP 24.2: Vorschläge und Anregungen der Bezirksvertretungen zur Haushaltssatzung 2011
+- TOP 24.3: 1. VVZ 2011
+- TOP 24.4: Stellenplan und Stellenübersichten 2011
+- TOP 25: Änderung der Gebührentarife zur Gebührensatzung für das Stadtarchiv der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 26: Oberflächenerneuerung Düsseldorfer Altstadt - mehrheitlich beschlossen
+- TOP 27: Stiftung Gerhart-Hauptmann-Haus, Neubildung des Kuratoriums - einstimmig beschlossen
+- TOP 28: Fairtrade-Stadt Düsseldorf - einstimmig beschlossen
+- TOP 28.1: Erg.Antrag Die Linke: "Fairtrade-Stadt" Düsseldorf - einstimmig beschlossen
+- TOP 29: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 30: Satzung Jugendamt (Neufassung) - mehrheitlich beschlossen
+- TOP 31: Public Corporate Governance Kodex für die Beteiligungen der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 32: Entlastungsstraße Derendorf - Norderweiterung - - mehrheitlich beschlossen
+- TOP 33: Neubau Rheindüker, Lohauser Deich - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 34: Brinckmannstr. 5, Umbau Kantine TVG II - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 35: Masterplan Energieeffiziente Straßenbeleuchtung - mehrheitlich beschlossen
+- TOP 36: ÄA Bü90/Grü: Masterplan Energieeffiziente Straßenbeleuchtung 2010 - 2015 - mehrheitlich abgelehnt
+- TOP 37: EA SPD: Energieeffizienten Straßenbeleuchtung - mehrheitlich abgelehnt
+- TOP 38: ÄA CDU + FDP: Masterplan Energieeffiziente Straßenbeleuchtung 2010 - 2015 - mehrheitlich beschlossen
+- TOP 39: Förderprogramm "Klimafreundliches Wohnen in Düsseldorf" - einstimmig beschlossen
+- TOP 40: Glasverbot anlässlich des Straßenkarnevals 2011 - mehrheitlich beschlossen
+- TOP 41: Schulentwicklungsplan - mehrheitlich beschlossen
+- TOP 42: Schulentwicklungsplan – Maßnahmeplanung Hauptschulen und Unterbringung der Abendrealschule – - zur Kenntnis genommen
+- TOP 43: ILD; öffentl.-rechtl. Vereinbarung mit Neuss - einstimmig beschlossen
+- TOP 44: Einrichtung des Bildungsganges "Fachschule für Ernährung und Hauswirtschaft -Fachrichtung Hotel und - einstimmig beschlossen
+- TOP 45: 15. Ordnung zur Änderung der Benutzungsordnung der Stadtbüchereien Düsseldorf - einstimmig beschlossen
+- TOP 46: Richtlinien zur Förderung von Integrationsmaßnahmen der Migrantenselbstorganisationen - einstimmig beschlossen
+- TOP 47: Neuwahl eines Schulausschussmitgliedes in das Kuratorium der Volkshochschule - einstimmig beschlossen
+- TOP 48: Mitglieder Riehl-Kolleg - einstimmig beschlossen
+- TOP 49: Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 50: Ausschussumbesetzungen - einstimmig beschlossen
+- TOP 51: Ausschussumbesetzungen (beratend) - einstimmig beschlossen
+- TOP 52: Genehmigung 60er
+- TOP 53: Gen. 60er: Neuorganisation der Durchführung des Sozialgesetzbuches Zweites Buch (SGB II) - einstimmig beschlossen
+- TOP 54: Genehmigung 60er: Erweiterung der KiTa Angeraue in Düsseldorf - einstimmig beschlossen
+- TOP 55: Städtebauliche Planungsmaßnahmen
+- TOP 56: Plan Nr. 5777/058-Gaußstr.-Veränderungssperre - einstimmig beschlossen
+- TOP 57: FNP-Ä Nr. 141 - Elbsee - mehrheitlich beschlossen
+- TOP 58: BPl 5579/061-Hochhaus Mercedesstr-Stell.;Satzung - mehrheitlich beschlossen
+- TOP 59: BPl 5487/008-Wacholderstr.-Stellungnahmen; Satzung - einstimmig beschlossen
+- TOP 60: ITKR-Bestellung von Mitgliedern - einstimmig beschlossen
