@@ -1,0 +1,65 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2010-12-17T16:00:00+01:00
+- Ende: 2010-12-17T16:02:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1182
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1182
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Benennung der Teilnehmer zur 36. ordentlichen Hauptversammlung des Deutschen Städtetages am 03. bis 05. Mai 2011 in Stuttgart (Rat171210-09713.doc)
+- TOP 2: Feststellung der ordnungsgemäß erfolgten Einladung und der Beschlussfähigkeit
+- TOP 3: Genehmigung der Tagesordnung
+- TOP 4: Beteiligung an EU-LIFE+ Projekten für die Renaturierung der Erftaue in Gnadental und der Flutmulde-Ölgangsinsel (AUG181110-09546.doc)
+- TOP 5: 5. Satzung zur Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen der Stadt Neuss (Sondernutzungssatzung) vom 4. November 1985 (HA251110-09401.doc)
+- TOP 6: 8. Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Neuss vom 15. Dezember 1983 (HA251110-09419.doc)
+- TOP 7: Einwohnerfragestunde
+- TOP 8: Wirtschaftsplan 2011 des Gebäudemanagements der Stadt Neuss (GMN)
+- TOP 9: Jahresabschluss zum 31.12.2009 sowie Lagebericht für das Wirtschaftsjahr 2009 des Gebäudemanagements der Stadt Neuss (GMN)
+- TOP 10: Beratung des Haushaltsplanes 2011
+- TOP 11: Haushaltssatzung 2011
+- TOP 12: Änderung der Vergnügungssteuersatzung
+- TOP 13: Beratung des Investitionsprogrammes (investive Finanzplanung) 2010 - 2014
+- TOP 14: Umbau und Ergänzung der Ausstattung der städtischen Kindertageseinrichtung Am Kivitzbusch (JHA111110-09493.doc)
+- TOP 15: Förderpaket barrierefreier Umbau von Haltestellen (APS041110-09408.doc)
+- TOP 16: Verfahren bei geheimen Abstimmungen (HA251110-09608.doc)
+- TOP 17: Vorhabenbezogener Bebauungsplan Nr. V 43/11 – Furth-Mitte, Engelbertstraße (Demenzkompetenzzentrum Rheinland) – Entwurfsvorlage Einleitungsbeschluss Frühzeitige Beteiligungen Vorgaben Durchführungsvertrag (APS041110-09425.doc)
+- TOP 18: Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanverfahrens für einen Vorhaben- und Erschließungsplan im Bereich Reuschenberg, Bergheimer Straße / Finkenstraße (Lebensmittelmarkt Kirmesplatz) Grundsatzbeschluss frühzeitige Beteiligungen
+- TOP 19: Bebauungsplan Nr. 473 - Hoisten, Schluchenhausstraße - Aufstellungsbeschluss Frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange (APS041110- 09402.doc)
+- TOP 20: Erschließung B-Plan 169/12 – Hüsenstraße (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA181110-09494.doc)
+- TOP 21: Feststellung des Jahresabschlusses der Städtischen Friedhöfe Neuss zum 31.12.2009 und Beschluss über die Verwendung des Jahresgewinns (handelsrechtliches Ergebnis) (AUG181110-09470.doc)
+- TOP 22: Festsetzung von Gebühren 2011 für den Bereich „Bestattungswesen“ (AUG181110-09471.doc)
+- TOP 23: Wirtschaftsplan 2011 der Städtischen Friedhöfe Neuss (AUG181110-09472.doc)
+- TOP 24: Gestaltung der Grünfläche Venloer Straße / Ecke Neusser Weyhe und Benennung nach Hermann-Josef Dusend
+- TOP 25: Neubau Freianlagen Dreifachsporthalle inkl. Pädagogischem Zentrum Weberstraße (SCH230910-09332.doc)
+- TOP 26: Wirtschaftsplan der Liegenschaften und Vermessung Neuss (LVN) für das Jahr 2011 (AWL231110-09543.doc)
+- TOP 27: Verlegung der Olympiasiegerstraße (Straßenbau, Beleuchtung) –Planvorlage, Ausbauprogramm- (BA290910-09329)
+- TOP 28: Ausbau der Straße „Am Linckhof“ zwischen der K 30 und der Straße „Am Lichtweg“ in Allerheiligen, Baugebiet B (BPL 443) (Straßenbau, Beleuchtung) -Planvorlage, Ausbauprogramm- (BA290910-09297.doc)
+- TOP 29: Ersatzneubau Brückenbauwerk Raiffeisenstraße über den Norfbach in Neuss Rosellen -Ingenieurbau- (BA290910-09336.doc)
+- TOP 30: Kündigung der Mitgliedschaft der Stadt Neuss im Sekretariat für gemeinsame Kulturarbeit Nordrhein-Westfalen (Wuppertal) (KUL020910-09244.doc)
+- TOP 31: Annahme von Kunstwerken aus dem Erbe von Dr. Irmgard Feldhaus
+- TOP 32: Integrative Lerngruppen in der Sekundarstufe I (SCH021210-09668.doc)
+- TOP 33: Satzungen der InfraStruktur Neuss AöR (RAT171210-09588.doc)
+- TOP 34: Vertretung der Stadt Neuss in Drittgremien hier: Wasser- und Bodenverband Nordkanal (RAT171210-09656.doc)
+- TOP 35: Genehmigung der Dringlichkeitsentscheidung Nr. 33: Öffnen von Verkaufsstellen (RAT171210-09682)
+- TOP 36: Interfraktioneller Antrag zum Masterplan „Neuss an den Rhein“ (RAT171210-09687.doc)
+- TOP 37: Runder Tisch verkaufsoffene Sonntage (RAT171210-09689.doc)
+- TOP 38: Integrationsförderpreis der Stadt Neuss (IR280910-09381.doc)
+- TOP 39: Kenntnisnahmen von über- und außerplanmäßigen Aufwendungen und Auszahlungen, die der Kämmerer im IV. Quartal 2009 bzw. im Rahmen des Jahresabschlusses genehmigt hat (FA081210-09670.doc)
+- TOP 40: Einwohnerfragestunde
+- TOP 41: Anbindung des Besucherparkplatzes des Lukaskrankenhauses an den Konrad-Adenauer-Ring und Umbau der Bushaltestelle „Lukaskrankenhaus“ (Straßenbau, Beleuchtung) - Planvorlage, Ausbauprogramm - (BA181110-09583)
+- TOP 42: Veränderungssperre Nr. 34 für den Geltungsbereich des Bebauungsplans Nr. 467 – Selikum, Landhaussiedlung - (APS041110-09424.doc)
+- TOP 43: Beratung der mittelfristige Ergebnisplanung 2010 - 2014
+- TOP 44: Bebauungsplan Nr. 57/23 - Weissenberg, Am Kotthauserweg - - Entwurfsvorlage - Aufstellungsbeschluss - frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange
+- TOP 45: Bebauungsplan Nr. 325 – Norf, Stiegergasse Bericht über die frühzeitige Beteiligung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstiger Träger öffentlicher Belange Auslegungsbeschluss (APS041110-09432.doc))
+- TOP 46: Bebauungsplan Nr. 470 - Stadionviertel, Rheydter Straße - Entwurfsvorlage Aufstellungsbeschluss Frühzeitige Unterrichtung der Öffentlichkeit und frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange (APS041110-09420.doc)
+- TOP 47: Festsetzung von Gebühren 2011 für den Bereich „Abfallentsorgung“
+- TOP 48: Umbesetzung von Ausschüssen und sonstigen Gremien
+- TOP 49: Bebauungsplan Nr. 467 – Selikum, Landhaussiedlung - - Bericht: Stellungnahmen aus der frühzeitigen Unterrichtung der Öffentlichkeit / frühzeitigen Beteiligung der Behörden u. sonstigen Träger öffentl. Belange - Auslegungsbeschluss (APS041110-09423.do
+- TOP 50: Grundsatzbeschluss: Errichtung eines Autohauses an der Hammer Landstraße – Nachnutzung BSA (AWL231110-09573.doc)
+- TOP 51: Gewerbeflächengutachten: Standortvorschläge für künftige gewerbliche Entwicklung (Fort.) (AWL 041110-09390.doc)
