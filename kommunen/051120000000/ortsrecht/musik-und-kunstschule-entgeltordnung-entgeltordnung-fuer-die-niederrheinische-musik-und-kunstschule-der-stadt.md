@@ -2,13 +2,13 @@
 
 - Gemeinde: Stadt Duisburg (ARS 051120000000)
 - Datum: 2010-12-20 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S41.07-Musik-u.Kunstschule-Entgeltordnung-gueltig-ab-01.08.2022-31.07.2023.pdf
+- Quelle: https://www.duisburg.de/rathaus/rathausundpolitik/ortsrecht/S41.07.2-Musik-u.Kunstschule-Entgeltordnung-gueltig-ab-01.08.2018.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-41.07
+41.07.2
 
 Musik- und Kunstschule-Entgeltordnung
 
@@ -18,8 +18,7 @@ Diese Entgeltordnung beruht auf § 41 Abs. 1 Satz 2 i) der Gemeindeordnung für 
 § 12,3,4 Entgeltpflicht
 (1) Für die Inanspruchnahme der Musik- und Kunstschule sind privatrechtliche Entgelte nach dem anliegenden Tarif zu zahlen.
 (2) Die Entgeltpflicht wird durch Ferienzeiten oder sonstige Unterrichtsausfälle grundsätzlich nicht berührt.
-(3) Wird eine Unterrichtsstunde aus Gründen, die bei den Schüler*innen liegen, nicht wahrgenommen, besteht kein Anspruch auf eine Nachholstunde oder auf Erstattung des Unterrichtsentgelts.
-(4) Fällt der Unterricht aus Gründen aus, die von der Musikschule zu vertreten sind, gilt folgende Regelung: Bei der Bemessung des Entgelts ist ein gelegentlicher Unterrichtsausfall wegen Erkrankung oder sonstiger Verhinderungen der Lehrkraft berücksichtigt worden. Werden aber innerhalb eines Kalenderjahres weniger als 35 Unterrichtsstunden erteilt, erfolgt zum Jahresende die Erstattung des anteiligen Entgelts. Für jede ausgefallene Unterrichtsstunde wird 1/35 des entsprechenden Jahresentgelts erstattet. Die Rückerstattung gilt auch für das Programm “Jedem Kind Instrumente, Tanzen, Singen“.
+(3) Wird eine Unterrichtsstunde aus Gründen, die bei den Schüler*innen liegen, nicht wahrgenommen, besteht kein Anspruch auf eine Nachholstunde oder auf Erstattung des Unterrichtsentgelts. Fällt der Unterricht aus Gründen aus, die von der Musikschule zu vertreten sind, gilt folgende Regelung: Bei der Bemessung des Entgelts ist ein gelegentlicher Unterrichtsausfall wegen Erkrankung oder sonstiger Verhinderungen der Lehrkraft berücksichtigt worden. Werden aber innerhalb eines Kalenderjahres weniger als 35 Unterrichtsstunden erteilt, erfolgt zum Jahresende die Erstattung des anteiligen Entgelts. Für jede ausgefallene Unterrichtsstunde wird 1/35 des entsprechenden Jahresentgelts erstattet. Die Rückerstattung gilt auch für das Programm “Jedem Kind Instrumente, Tanzen, Singen“.
 § 23,4 Entgeltschuldner/in
 Entgeltpflichtig ist die- bzw. derjenige, in deren/dessen Namen der Vertrag geschlossen wird.
 § 33,4 Fälligkeit
@@ -27,15 +26,15 @@ Entgeltpflichtig ist die- bzw. derjenige, in deren/dessen Namen der Vertrag gesc
 (2) Bei Unterrichtsaufnahme mit Beginn des 1. Schulhalbjahres werden das Entgelt und die Instrumentenmiete ab 01. August und bei Unterrichtsaufnahme mit Beginn des 2. Schulhalbjahres ab 01. Februar erhoben.
 (3) Wird der Unterricht im Laufe des Schulhalbjahres aufgenommen, werden Entgelt und Instrumentenmiete vom 1. des Monats an erhoben, für den die Einteilung erfolgt ist.
 (4) Das Aufnahmeentgelt ist gleichzeitig mit dem ersten Entgelt für den Unterricht bzw. die Instrumentenvermietung fällig.
-
+§ 43,4 Ermäßigung, Erlass
+(1) Bei Pflegekindern und Beziehern von laufender Hilfe nach dem Sozialgesetzbuch II, XII (ALG und Sozialhilfe) oder bei vergleichbaren sozialen Härtefällen sowie bei einer vorliegenden Schwerbehinderung von min-
 1
 
-41.07
+41.07.2
 
 Musik- und Kunstschule-Entgeltordnung
 
-§ 43,4 Ermäßigung, Erlass
-(1) Bei Pflegekindern und Beziehern von laufender Hilfe nach dem Sozialgesetzbuch II, XII (ALG und Sozialhilfe) oder bei vergleichbaren sozialen Härtefällen sowie bei einer vorliegenden Schwerbehinderung von mindestens 50 GdB kann auf Antrag das Entgelt über die Regelung des Absatzes 1 hinaus um bis zu 50 % ermäßigt oder erlassen werden. Die Ermäßigung gilt ab dem Folgemonat. Ermäßigung und Erlass gelten nicht für das Aufnahmeentgelt. Für Schüler*innen innerhalb des Programms "Jedem Kind Instrumente, Tanzen, Singen" gelten gesonderte Regelungen.
+destens 50 GdB kann auf Antrag das Entgelt über die Regelung des Absatzes 1 hinaus um bis zu 50 % ermäßigt oder erlassen werden. Die Ermäßigung gilt ab dem Folgemonat. Ermäßigung und Erlass gelten nicht für das Aufnahmeentgelt. Für Schüler*innen innerhalb des Programms "Jedem Kind Instrumente, Tanzen, Singen" gelten gesonderte Regelungen.
 (2) Eine Ermäßigung von 10 % des Entgeltes für den Einzelunterricht wird gewährt bei Unterrichtsteilnahme von minderjährigen Geschwistern, sofern mindestens 2 von ihnen Einzelunterricht erhalten (gilt nur für 1 Fach je Kind). Belegt ein Geschwisterkind mehrere Fächer im Einzelunterricht, so wird die Ermäßigung auf die höchste Tarifstufe angewendet.
 Die Geschwisterermäßigung gilt nicht für: - das Aufnahmeentgelt - das Fach Studienvorbereitung - die Angebote innerhalb der Kooperationen mit weiterführenden Schulen - das Programm "Jedem Kind Instrumente, Tanzen, Singen".
 (3) Das Entgelt kann auch aus Gründen einer speziellen Begabtenförderung oder sonstigen sozialen Aspekten ermäßigt oder erlassen werden. Eine Entscheidung hierüber trifft die Leitung der Musik und Kunstschule. Dies gilt nicht für das Aufnahmeentgelt.
@@ -45,18 +44,15 @@ Die Geschwisterermäßigung gilt nicht für: - das Aufnahmeentgelt - das Fach St
 (3) Bezüglich der Instrumentenmiete gelten die vorstehenden Regelungen entsprechend.
 
 1Amtsblatt für die Stadt Duisburg Nr. 48 vom 31.12.2010, S. 515-519 2Amtsblatt für die Stadt Duisburg Nr. 48/2012 vom 31.12.2012, in Kraft getreten am 01.02.2013
-Neufassung Tarifverzeichnis 3Amtsblatt für die Stadt Duisburg Nr. 42/2015 vom 31.12.2015, S. 435-437, in Kraft getreten am 01.02.2016
-Neufassung §§ 1-5, Tarifverzeichnis 4Amtsblatt für die Stadt Duisburg Nr. 23/2018 vom 16.07.2018, S 240-243, in Kraft getreten am 01.08.2018
-Neufassung §§ 1-5, Tarifverzeichnis 5Amtsblatt für die Stadt Duisburg Nr. 20 vom 31.07.2023, S. 313, in Kraft getreten am 01.08.2022
-Änderung des Tarifverzeichnis
+Neufassung Tarifverzeichnis 3Amtsblatt für die Stadt Duisburg Nr. 42/2015 vom 31.12.2015, S. 435-437, in Kraft getreten am 01.02.2016 Neufassung §§ 1-5, Tarifverzeichnis 4Amtsblatt für die Stadt Duisburg Nr. 23/2018 vom 16.07.2018, S 240-243, in Kraft getreten am 01.08.2018 Neufassung §§ 1-5, Tarifverzeichnis
 
 2
 
-41.07
+41.07.2
 
 Musik- und Kunstschule-Entgeltordnung
 
-Tarifverzeichnis ab August 20185 zur Entgeltordnung der Musik- und Kunstschule der Stadt Duisburg
+Tarifverzeichnis ab August 2018 zur Entgeltordnung der Musik- und Kunstschule der Stadt Duisburg
 
 Tarifstelle
 
@@ -210,7 +206,7 @@ Minuten
 
 3
 
-41.07
+41.07.2
 7. 7.1 7.2 7.3
 8. 8.1 8.1.1 8.1.2 8.1.3 8.1.4
 9. 9.1
@@ -239,21 +235,21 @@ hinstrumentes mit ein.
 
 2. Jahr JeKits Instrumente
 
-312,00
+276,00
 
-26,00
+23,00
 
 2. Jahr JeKits Tanzen
 
-228,00
+204,00
 
-19,00
+17,00
 
 2. Jahr JeKits Singen
 
-162,00
+144,00
 
-13,50
+12,00
 
 Anschlussunterricht JeKits (3. und 4. Schuljahr)
 
