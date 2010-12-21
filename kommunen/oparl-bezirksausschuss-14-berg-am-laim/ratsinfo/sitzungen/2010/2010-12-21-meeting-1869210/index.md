@@ -1,0 +1,102 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2010-12-21T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1869210
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1869210
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Ampfingstraße 57 ? Errichtung eines Wohn- und Geschäftshauses mit TG
+- TOP 3.1.1.2.: Berg-am-Laim-Str. 117 ? Neubau eines Verbrauchermarktes
+- TOP 3.1.1.3.: Baumkirchner Str. 33 ? Neubau eines Mehrfamilienhauses mit TG
+- TOP 3.1.1.4.: Levelingstr. 9 ? Errichtung eines Einzelhandelbetriebes
+- TOP 3.1.1.5.: Innsbrucker Ring 75 ? Modernisierung und Erweiterung eines Förderzentrums
+- TOP 3.1.1.6.: Hachinger-Bach-Str. 25 - Neubau Klassentrakt, Einfachsporthalle, Eingangs/Pausenbereich
+- TOP 3.1.1.7.: Neumarkter Str. 43 ? Umbau eines Gebäudes zur Grundschule mit Hort
+- TOP 3.1.1.8.: Kürzungen im Bund-Länder-Förderprogramm (Grundprogramm sowie Programm "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf ? die soziale Stadt") - <div></div>
+- TOP 3.1.2.1.: Verkehrsregelungen im Bereich Baumkirchner Straße / Josephsburgstraße - <div></div>
+- TOP 3.1.2.2.: Verkehrsregelungen im Bereich Waldstraße - <div></div>
+- TOP 3.1.2.3.: Verbesserungen an der Linie 19 im Bereich Berg am Laim - <div></div>
+- TOP 3.1.2.4.: 10-Minuten-Takt für den Bus 144 an der Ampfingstraße auch am Samstag - <div></div>
+- TOP 3.1.2.5.: Verkehrssicherheit Grafinger Straße und Aschheimer Straße - <div></div>
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: Aufwertung der Nutzung des Ostparks für verschiedenste Sport- und Freizeitmöglichkeiten - <div></div>
+- TOP 3.3.2.: Spielaktionen des AKA e.V. am Piusplatz
+- TOP 3.3.3.: Planung der Einsätze der Münchner Sommer SpielAktion 2011
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: REGSAM ? München spart Steuergelder ? REGSAM wird künftig auf ehrenamtlicher Basis geführt
+- TOP 3.5.1.: Veröffentlichungen in den Schaukästen der Bezirksausschüsse
+- TOP 3.5.2.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen
+- TOP 3.6.1.: Berg-am-Laim-Str. 117 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.2.: Innsbrucker Ring 75 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.3.: Levelingstraße 9 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.4.: Kreillerstraße 22
+- TOP 3.6.5.: Berg-am-Laim-Str. 69
+- TOP 3.6.6.: Hansjakobstraße 33
+- TOP 3.6.7.: Hansjakobstraße 86
+- TOP 3.6.8.: Josephsburgstr. 177 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.9.: Hachinger-Bach-Str. 25 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtungen über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grundstücksarrondierung in der Kreillerstraße
+- TOP 4.1.1.3.: Abbruchgenehmigung Josephsburgstraße
+- TOP 4.1.1.4.: Baumkirchner Str. 21 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.5.: Friedenstr. 10 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.6.: Berg-am-Laim-Str. 65 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.7.: Bebauungsplan mit Grünordnung Nr. 1539 ? Hüllgraben ? Gewerbegebiet ?Am Hüllgraben?
+- TOP 4.1.2.1.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke a) Grundsatzentscheidungen des Bayr. Landtages v. 14.04.10; Stand d. Umsetzung b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen c) Lärmsanierung am DB-Südring d) Weiteres Vorgehen e) Anträge und Empfehlungen
+- TOP 4.1.2.2.: Mobilität in München (MiD) - Befragung zum Alltagsverkehr in München
+- TOP 4.1.2.3.: München setzt auf's Rad 2 - Von Nachbarn in den Niederlanden und in Dänemark lernen - Antrag Nr. 08-14 / A 01081 der Stadtratsfraktion Grüne/RL vom 25.09.2009
+- TOP 4.1.2.4.: Neuerlass der Straßenreinigungs- und sicherungsverordnung
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Mehrjahresinvestitionsprogramm ? Fortschreibung 2011 ? 2015 ? Zeitplan
+- TOP 4.4.2.: Mittelfristige Finanzplanung für die Jahre 2010 - 2014
+- TOP 4.4.3.: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2009/2010 - Feinkonzept 2011 - Optimierung von Prozessen und Strukturen - Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 4.4.4.: Haushaltsplan 2011 ? Ansätze der zentralen Bereiche ? Schlussabgleich
+- TOP 4.4.5.: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale des Sozialreferates ? München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit ?
+- TOP 4.4.6.: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 4.4.7.: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 4.4.8.: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP 4.5.1.: Ali Baba e.V. - Verwendungsnachweis
+- TOP 4.5.2.: Bürgerkreis Berg am Laim - Verwendungsnachweis
+- TOP 4.6.1.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 4.6.2.: Änderung der Baumschutzverordnung ? Antrag der FDP-Stadtratsfraktion
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Bereich Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Bereich Baumschutz (2)
