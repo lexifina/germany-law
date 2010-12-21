@@ -1,0 +1,163 @@
+---
+ecli: "ECLI:DE:BGH:2010:211210XIZB28.10.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-11"
+aktenzeichen: "XI ZB 28/10"
+decided: "2010-12-21"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2010&Sort=1&Seite=120&nr=54933&anz=3646&pos=3625&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-11_NA_2010-12-21_XI_ZB_28_10_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0311.md", "germany/bund/acts/kapmug_2024/0001.md", "germany/bund/acts/kapmug_2024/0007.md", "germany/bund/acts/zpo/0252.md", "germany/bund/acts/zpo/0567.md", "germany/bund/acts/zpo/0574.md"]
+---
+
+# Bundesgerichtshof, XI ZB 28/10 vom 2010-12-21
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                   BESCHLUSS
+XI ZB 28/10
+
+                          vom
+
+                   21. Dezember 2010
+
+                   in dem Rechtsstreit
+
+                                         -2-
+
+
+
+    Der XI. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter
+    Wiechers und die Richter Dr. Ellenberger, Maihold, Dr. Matthias und Pamp
+
+
+    am 21. Dezember 2010
+
+
+    beschlossen:
+
+          Die Beschwerde der Beklagten gegen den Beschluss des
+          5. Zivilsenats des Oberlandesgerichts München vom 5. August
+          2010 wird zurückgewiesen.
+
+
+
+
+                                       Gründe:
+
+                                          I.
+
+1         1. Der Kläger macht gegen die Beklagte Ansprüche im Zusammenhang
+    mit der von ihm am 13. Juli 2004 gezeichneten Beteiligung an der F.
+                      Medienfonds     GmbH & Co. KG (im Folgenden: Fonds) sowie eines zur teilweisen Finanzierung dieser Beteiligung aufgenommenen Darlehens geltend.
+
+2         Er stützt sein Klagebegehren zum einen auf eine angebliche Prospektverantwortung der Beklagten unter dem rechtlichen Gesichtspunkt einer Prospekthaftung im engeren Sinne mit der Begründung, der für die Anlage herausgegebene Prospekt sei inhaltlich aus verschiedenen Gründen falsch. Zum anderen nimmt er die Beklagte als die seine Beteiligung finanzierende Bank in
+    Anspruch mit der Begründung, die Beklagte habe Aufklärungspflichten bei Eingehung des Darlehensvertrages verletzt. Schließlich stützt er sein Klagebegeh-
+
+                                          -3-
+
+
+
+    ren auch auf einen Widerruf des Darlehensvertrages nach den Verbraucherdarlehensvorschriften.
+
+3            Beim Oberlandesgericht München ist unter dem Aktenzeichen KAP 1/07
+    ein Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz (nachfolgend:
+    KapMuG) anhängig. Die Beklagte ist dort Musterbeklagte zu 2). Zu klären sind
+    in diesem Verfahren, soweit es die hiesige Beklagte betrifft, deren Prospektverantwortlichkeit und die Fehlerhaftigkeit des Prospekts.
+
+4            2. Das Landgericht hat das Verfahren nach § 7 KapMuG ausgesetzt. Das
+    Beschwerdegericht hat den Aussetzungsbeschluss auf die sofortige Beschwerde des Klägers aufgehoben. Zur Begründung hat es im Wesentlichen ausgeführt:
+
+5            Das Rechtsmittel der sofortigen Beschwerde sei auch gegen den auf § 7
+    Abs. 1 KapMuG gestützten Aussetzungsbeschluss gemäß §§ 252, 567 Abs. 1
+    Nr. 1 ZPO statthaft, weil vorliegend der Anwendungsbereich des § 7 Abs. 1
+    KapMuG nicht eröffnet sei und damit auch § 7 Abs. 1 Satz 4 KapMuG nicht zur
+    Anwendung komme.
+
+6            Die Entscheidung des Landgerichts habe auch in der Sache keinen Bestand. Die Aussetzung eines Verfahrens, dessen Ergebnis nicht vom Ergebnis
+    eines Verfahrens nach dem KapMuG abhängig sei, habe in § 7 Abs. 1
+    KapMuG keine Grundlage. Das Landgericht habe vorliegend ausweislich der
+    Gründe der Nichtabhilfeentscheidung nicht hinreichend geprüft, ob eine Haftung
+    aus vorvertraglichem Verschulden nach § 311 Abs. 2 BGB in Betracht komme.
+    Nach der Rechtsprechung des Bundesgerichtshofs komme eine Aussetzung
+    nach § 7 KapMuG aber nur in Betracht, soweit eine Prospekthaftung im engeren Sinne und damit Ansprüche aufgrund einer fehlerhaften öffentlichen Kapitalmarktinformation geltend gemacht würden. Auf die daneben auch geltend
+
+                                          -4-
+
+
+
+     gemachte Haftung auf (vor-)vertraglicher Grundlage sei § 7 KapMuG nicht anwendbar. Die Frage, ob der Prospekt richtig oder falsch sei, sei bei dem gegenwärtigen Prüfungsstand jedenfalls noch nicht von entscheidungserheblicher
+     Bedeutung.
+
+7          Mit der - vom Beschwerdegericht zugelassenen - Rechtsbeschwerde begehrt die Beklagte die Aufhebung des Beschlusses des Beschwerdegerichts
+     und die Wiederherstellung der Aussetzungsentscheidung des Landgerichts.
+
+
+
+
+                                           II.
+
+8          Die statthafte Rechtsbeschwerde (§ 574 Abs. 1 Satz 1 Nr. 2 ZPO) ist
+     nicht begründet.
+
+9          1. Zu Recht hat das Beschwerdegericht die Aussetzung des Rechtsstreits als unzulässig angesehen und den Aussetzungsbeschluss des Landgerichts trotz der Regelung des § 7 Abs. 1 Satz 4 KapMuG aufgehoben, da § 7
+     KapMuG auf das Streitverhältnis der Parteien insoweit keine Anwendung findet,
+     als Ansprüche aus vorvertraglicher Aufklärungspflichtverletzung der Beklagten
+     aus dem Darlehensverhältnis im Streit sind.
+
+10         a) Nach ständiger Rechtsprechung des Bundesgerichtshofs können
+     Rechtsstreitigkeiten, in denen Schadensersatzansprüche auf vertraglicher
+     Grundlage oder aus § 241 Abs. 2, § 311 Abs. 2 und 3 BGB bzw. aus der sogenannten Prospekthaftung im weiteren Sinne geltend gemacht werden, von
+     vornherein nicht Gegenstand eines Musterverfahrens nach § 1 Abs. 1 KapMuG
+     sein. Das gilt auch dann, wenn sich die Haftung aus der Verwendung eines fehlerhaften Prospektes im Zusammenhang mit einer Beratung oder einer Vermitt-
+
+                                          -5-
+
+
+
+     lung ergibt (vgl. zuletzt Senatsbeschluss vom 30. November 2010 - XI ZB
+     23/10, Rn. 11 mwN).
+
+11          b) Das Beschwerdegericht hat zu Recht angenommen, dass das auch für
+     Ansprüche des Anlegers gegen die die Anlage finanzierende Bank wegen vorvertraglicher Aufklärungspflichtverletzungen aus dem Darlehensverhältnis gilt,
+     wie sie hier in Rede stehen. Solche Ansprüche, die der Kläger hier neben einem Anspruch aus Prospekthaftung im engeren Sinne geltend macht, können
+     nicht Gegenstand eines Musterverfahrens sein. Das gilt auch dann, wenn die
+     Haftung - etwa aus einem Wissensvorsprung - die Kenntnis von einer durch
+     fehlerhafte Prospektangaben begangenen arglistigen Täuschung voraussetzt
+     (vgl. Senatsbeschluss vom 30. November 2010 - XI ZB 23/10, Rn. 13 f. mwN).
+     Erst Recht gilt dies für Ansprüche, die auf ein Widerrufsrecht nach den Verbraucherdarlehensvorschriften gestützt werden.
+
+12          c) Entgegen der Ansicht der Rechtsbeschwerde ändert die Tatsache,
+     dass die Beklagte auch als Prospektverantwortliche nach den Grundsätzen der
+     Prospekthaftung im engeren Sinne in Anspruch genommen wird, nichts daran,
+     dass über die daneben geltend gemachten Ansprüche aus vertraglichen oder
+     vorvertraglichen Pflichtverletzungen zu entscheiden ist, bevor eine Aussetzung
+     nach   dem    KapMuG     in   Betracht   kommt   (vgl.   Senatsbeschluss   vom
+     30. November 2010 - XI ZB 23/10, Rn. 15 f. mwN).
+
+13          Das Beschwerdegericht hat auch rechtsfehlerfrei angenommen, dass
+     aufgrund des Sach- und Streitstandes eine Haftung der Beklagten als Darlehensgeberin unter dem Gesichtspunkt einer vorvertraglichen Aufklärungspflichtverletzung nicht ohne weiteres verneint werden kann. Das Landgericht
+     muss diesem Sachvortrag daher nachgehen und prüfen, ob der Anspruch des
+
+                                          -6-
+
+
+
+     Klägers gegen die Beklagte wegen vorvertraglicher Aufklärungspflichtverletzung
+     gegeben ist.
+
+14         2. Eine Kostenentscheidung ergeht nicht. Die Kosten des Beschwerdeverfahrens bilden einen Teil der Kosten des Rechtsstreits, die unabhängig vom
+     Ausgang des Beschwerdeverfahrens die nach §§ 91 ff. ZPO in der Sache unterliegende Partei zu tragen hat (Senatsbeschluss vom 30. November 2010
+     - XI ZB 23/10, Rn. 18 mwN).
+
+     Wiechers                         Ellenberger                          Maihold
+
+                     Matthias                               Pamp
+
+
+
+
+     Vorinstanzen:
+     LG München I, Entscheidung vom 08.04.2010 - 22 O 25847/09 -
+     OLG München, Entscheidung vom 05.08.2010 - 5 W 1648/10 -
