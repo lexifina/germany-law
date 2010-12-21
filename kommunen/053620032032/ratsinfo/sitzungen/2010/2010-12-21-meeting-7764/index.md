@@ -1,0 +1,60 @@
+# Stadtrat (11. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2010-12-21T17:00:00+01:00
+- Ende: 2010-12-21T20:54:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfUw1650RdcsHJYtHKYb2ks
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/7764
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZaalWDmMcAQqq4780TFPYidngiyJBTzG9ko3jGFE_YQy/Bekanntmachung_Stadtrat_21.12.2010.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVP3CLEuft5EFigACdr6gZIi2FhutMZyaFW53k9UOjes/Oeffentliche_Niederschrift_Stadtrat_21.12.2010.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung des Jugendhilfeausschusses hier: Antrag der Linksfraktion
+- TOP 1a.: Weitergabe vertraulicher Unterlagen zu einem Klageverfahren gegen die Grundstücksentwicklungs- und -verwertungsgesellschaft Kerpen mbH (GEV) durch das beratende Mitglied in der Gesellschafterversammlung der GEV, Stadtverordneter Wolfgang Scharping
+- TOP 2.: Erlass von Ortsrecht
+- TOP 2.1: 1. Satzung zur Änderung der Satzung über die Erhebung von Gebühren für die Benutzung der Sportstätten der Stadt Kerpen
+- TOP 2.2: 1. Satzung zur Änderung der Satzung über die Straßenreinigung (Straßenreinigungssatzung) in der Stadt Kerpen vom 08.11.2006
+- TOP 2.3: 4. Satzung zur Änderung der Bestattungs- und Friedhofssatzung der Stadt Kerpen
+- TOP 2.4: 20. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 2.5: 5. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 2.6: 11. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 2.7: 14. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen und 7. Satzung zur Änderung der Satzung der Stadt Kerpen über die Entsorgung von Grundstücksentwässerungsanlagen
+- TOP 3.: Stadtentwicklung und Bauleitplanung
+- TOP 3.1: Umsiedlung Manheim
+- TOP 3.1.1: 63. Änderung des Flächennutzungsplans "Umsiedlungsort Manheim - neu" - hier: Wirksamkeitsbeschluss
+- TOP 3.1.2: Abschließende Stellungnahme der Stadt Kerpen zum Braunkohlenplan Umsiedlung Manheim
+- TOP 3.1.3: Resolution der Stadt Kerpen zur Genehmigung des Braunkohlenplanes Umsiedlung Manheim
+- TOP 3.2: 62. Änderung des Flächennutzungsplanes "Bolzplatz Brüggen", Stadtteil Brüggen hier: Wirksamkeitsbeschluss
+- TOP 3.3: Bebauungsplan BL 270/2. Änderung "Am Lechenicher Weg", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB und Offenlegungsbeschluss gem. § 3 (2) BauGB
+- TOP 3.4: 65. Änderung des Flächennutzungsplanes "Arrondierung des Gewerbe- und Industriegebietes Türnich", Stadtteil Türnich hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 3.5: Aufhebungsverfahren des Bebauungsplanes SI Nr. 28 "Hermann-Löns-Straße" und seine rechtskräftigen Änderungen, Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 4.: Aufstellung eines Doppelhaushaltes für die Jahre 2011 und 2012
+- TOP 5.: Sponsoringbericht 2009
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.1: Personelle Auswirkungen im Amt 13 aufgrund der Umsetzung des Rettungsdienstbedarfsplanes des Rhein-Erft-Kreises
+- TOP 7.: Notwendige Baumaßnahmen im Bereich der Feuer- und Rettungswache/Löschzug Kerpen
+- TOP 8.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 8a.: Einrichtung des Geoinformationssystems hier: Freigabe der Haushaltsmittel
+- TOP 9.: Verkehrssicherungspflicht bei Waldbeständen
+- TOP 10.: Sachstandsbericht Hochhaus Maastrichter Straße
+- TOP 11.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 11.1: Außerplanmäßige Verpflichtungsermächtigung für den Kauf eines Dienstfahrzeugs
+- TOP 12.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 13.: Mitteilungen
+- TOP 14.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 17.: Weiteres Vorgehen Waldweg
+- TOP 17.1: Weiteres Vorgehen Waldweg
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
