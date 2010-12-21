@@ -1,4 +1,4 @@
-## Anlage 2 (zu § 6 Abs. 1 Satz 2)
+## Anlage 2
 # Anlage 3 (zu § 7 Abs. 1)
 Beschreibung der Dienstkleidung, persönlichen Schutzkleidung und Funktionsabzeichen
 1 Dienstkleidung Die im Folgenden genannte und beschriebene Dienstkleidung wird für die Feuerwehren im Freistaat Sachsen eingeführt. Die Farbe Bordeauxviolett der Dienstkleidungsgegenstände und der Funktionsabzeichen ähnelt RAL 4004. Die Farbe Dunkelblau ähnelt RAL 5004.
