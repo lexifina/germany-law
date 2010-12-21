@@ -1,0 +1,115 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2010-12-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/1865519
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/1865519
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Rahmenbedingungen für den Breitensport Fußball in Harlaching - neues Sportkonzept; Bürgerschreiben vom 10.11.10
+- TOP 2.2.: Kostenfreie Kurzparkzonen vor größeren Geschäften in Untergiesing; Bürgerschreiben vom 17.11.10
+- TOP 2.3.: Parkverbot Fritz-Lange-Straße; zwei Bürgerschreiben vom 15.11.2010
+- TOP 2.4.: Ampelschaltung Wettersteinplatz; Ampelschaltung an der Kreuzung Naupliastraße / St.-Magnus-Straße; Winterräumdienst in den Seitenstraßen von Harlaching; Bürgerschreiben vom 04.12.2010
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: Spielplatz am Miesbacher Platz; Spielgeräte für Kleinkinder ("Wipptierchen"); Bürgeranliegen auf Bestellung einer städtischen Leistung (verwiesen aus der Sitzung vom 16.11.10)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Pro Migrakunst, für die Maßnahme: Fachtagung Migration und Integration am 19. / 20.02.11; Antragssumme: 26.933,51 ?; Antrag vom 21.11.10
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Fußgängerüberweg in der Rotbuchenstraße (Schule / Sportplatz); Anliegen der Schulleitung (verwiesen aus der Sitzung vom 16.11.10)
+- TOP 3.2.: Zebrastreifen für die Hebenstreitstraße / Ecke Giesinger Berg; Tempo 30 für die gesamte Länge der Pilgersheimer Straße (verwiesen aus der Sitzung vom 16.11.10)
+- TOP 3.1.: Begrenzungsstreifen der Bushaltespuren im Bereich Naupliastraße; Antrag der CSU-Fraktion vom 02.12.2010
+- TOP 3.1.: Bauvorhaben Bozzarisstraße 2; Neubau einer Kinderkrippe; Anfrage an das KVR zur Verkehrsanbindung; Zwischennachricht des KVR vom 12.11.10
+- TOP 3.2.: Untertunnelung Tegernseer Landstraße; BA-Antrags-Nr. 08-14 / B 02368 des BA 18 vom 17.08.2010; Antwortschreiben des Planungsreferates vom 19.11.2010 (neutrale Erledigung)
+- TOP 3.1.: Mobilität in Deutschland (MiD); Befragung zum Alltagsverkehr in München; Sitzungsvorlagen Nr. 08-14 / V 05581; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10
+- TOP 3.2.: Ertüchtigung des Bahnknotens München: 2. Stammstrecke a) Grundsatzentscheidungen des Bayerischen Landtags vom 14.04.10; Stand der Umsetzung b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen c) Lärmsanierung am DB-Südring d) weiteres Vorgehen e) Anträge und Empfehlungen Sitzungsvorlagen Nr. 08-14 / V 05521; Beschluss der Vollversammlung des Stadtrates vom 24.11.10
+- TOP 3.3.: München setzt auf's Rad 2; Von Nachbarn in den Niederlanden und in Dänemark lernen; Antrag Nr. 08-14 / A 01081 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.09; Sitzungsvorlagen Nr. 08-14 / V 04041; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10
+- TOP 3.4.: Am Hollerbusch 9; Einrichtung einer Anfahrtszone für einen Kindergarten; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.5.: Rotbuchenstraße Höhe Hausnummer 81; Einrichtung eines Verkehrshelferübergangs; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.6.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung; Sitzungsvorlage Nr. 08-14 / V 05208; Beschluss des Bauausschusses vom 07.12.2010 (VB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Parkplatz des öffentlichen Bades Giesing-Harlaching und der städtischen Sporthalle an der Säbener Straße: Altglas- u. Wertstoff-Container; Stellungnahme des Referats für Bildung und Sport vom 02.11.10 (neutrale Erledigung)
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung und der Landschaftsschutzverordnung / - bestandteil; Unterrichtung des Baureferats-Gartenbau über das Fällen von Gefahrenbäumen
+- TOP 3.2.: Isar-Plan; Verbesserung der Hochwassersicherheit und naturnahe Umgestaltung der Isar unter Berücksichtigung der Erholungsnutzung zwischen südlicher Stadtgrenze und Corneliusbrücke in München; Bauabschnitt 7: "Realisierung des Isar-Planes zwischen der Braunauer Eisenbahnbrücke und der Corneliusbrücke"; Bauabschnitt 7 Nord, "Übergang zum Deutschen Museum" von ca. 300m südlich der Reichenbachbrücke bis in die Kleine Isar; Ausführungskosten; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 05284; Beschluss des Bauausschusses vom 19.10.2010 (SB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Entwurf der aktualisierten Leitlinien der Münchner Suchtpolitik; Antwortschreiben des RGU vom 12.11.2010 zur Stellungnahme des BA 18 (neutrale Erledigung)
+- TOP 3.2.: 2 MAW Stellen für das Projekt ?Gesund und Bunt zum Mittag? des Sozialen Hilfsdienstes Weiße Feder gGmbh; BA-Antrag Nr. 08-14 / B 02367 des BA 18 vom 17.08.2010; Antwortschreiben des Sozialreferates vom 03.11.2010 (negative Erledigung)
+- TOP 3.1.: Haushaltsplan 2011; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 05173; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010 (SB)
+- TOP 3.2.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit; Antrag Nr. 08-14 / A 01013 der Stadtratsfraktion DIE GRÜNEN/RL vom 19.08.09; Sitzungsvorlage Nr. 08-14 / V 05022; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10 (SB) zu TOP 3.4.6.2 Ergänzung zum Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10 (SB)
+- TOP 3.3.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sitzungsvorlage Nr. 08-14 / V 05288; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.2010 (VB)
+- TOP 3.4.: Haushaltsplan 2011; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 05166; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.2010 (SB)
+- TOP 3.5.: Umsetzung des Teilplan 4; Tageseinrichtungen, Tagespflege; Teil B, Bedarfsplanung Kindertagesbetreuung - Stand der Ausbauoffensive - Sitzungsvorlage Nr. 08-14 / V 03539; Beschluss der Vollversammlung des Stadtrates vom 27.10.10
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Projektname: Säbener Straße; Projekt-Nr. 100494; Beschluss des BA 18 vom 21.12.2010
+- TOP 3.1.: Bauobjekt Birkenau; Nachfrage bei der Lokalbaukommission; Antrag der SPD-Fraktion vom 25.11.10
+- TOP 3.2.: Bäcker gesucht; Neuvermietung des Ladengeschäfts der ehemaligen Bäckerei Krieg in der Gewofag-Siedlung Neuharlaching (Soyerhofstraße / Ecke Brunnstraße / nahe U-Bahnhof Mangfallplatz); Antrag der SPD-Fraktion vom 06.12.10
+- TOP 3.1.: Anhörung zur Straßenbenennung im 18. Stadtbezirk Untergiesing-Harlaching "Kunstmühlenstraße"; Zuleitung des Kommunalreferats vom 10.11.10 mit der Bitte um Stellungnahme
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Anwesen Geiselgasteigstraße; Neubau eines Wohn- u. Geschäftshauses mit TG - VORBESCHEID; Anhörung vom 15.11.10
+- TOP 3.2.: Anwesen Sommerstraße; Anbau von Balkonen und eines Aufzuges, Spitzbodenausbau; Anhörung vom 16.11.10
+- TOP 3.3.: Anwesen Lorenzonistraße; Neubau eines Wohnhauses als Reihenmittel- u. Reihenendhaus mit Garage und Parkliftanlage; Anhörung vom 19.11.10
+- TOP 3.4.: Anwesen Bozzarisstraße; Neubau einer Kinderkrippe mit 6 Gruppen sowie 2 Wohnungen; Anhörung vom 09.11.2010 (vertagt aus der Sitzung vom 16.11.10)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Baudenkmäler im 18. Stadtbezirk: Aufnahme des Anwesens Birkenau 10 in die Denkmalliste BA-Antrag Nr. 08-14 / B 02501 BA 18 vom 21.09.2010 Zwischennachricht des Planungsreferates vom 12.11.2010
+- TOP 3.2.: Berücksichtigung der Stellungnahme des Bezirksausschusses zum Bauvorhaben in der Harthauserstraße 87 in die Abwägungen bei Erteilung der Baugenehmigung? Beachtung des Grundsatzbeschlusses des Bezirksausschusses bei der Erteilung von Baugenehmigungen (ein ?Sich-Einfügen? i.S.v. § 34 BauGB bei Bauvorhaben mit mehr als zwei, in Ausnahmefällen drei Geschossen nicht vorliegt.) BA-Antrags-Nr. 08-14 des BA 18 vom 17.08.2010; Zwischennachricht des Planungsreferates vom 11.11.2010
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 Kleingaststätte "Cafe Bar 23", Grünwalder Str. 9; Mitteilung vom 15.11.10 3.5.6.2.2 SSW "Ristorante Heimservice Da Tonino e Luigi", Tegernseer Landstr. 316; Mitteilung vom 03.11.10 3.5.6.2.3 SSW "Cafe Sportbar", Waltramstraße 1; Mitteilung vom 07.12.2010
+- TOP 3.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Stresemannstraße; Mitteilung vom 22.11.10 3.5.6.3.2 Anwesen Hertlingstraße; Mitteilung vom 02.12.10
+- TOP 3.4.: Mitteilung des Kommunalreferats über ein Grundstücksgeschäft; hier: Freibadstraße 6; Flst. 12557, Sektion VII; Veräußerung stadteigener Flächen
+- TOP 3.5.: Stadtsanierung in München; Sicherung der Städtebauförderung; Antrag Nr. 08-14 / A 01751 der Stadtratsfraktion Bündnis 90 / DIE GRÜNEN / RL vom 02.08.10; Sitzungsvorlagen Nr. 08-14 / V 05361; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 10.11.10 (SB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Licht ins Dunkel - Nutzungsmöglichkeiten des U-Bahn-Zwischengeschosses am Wettersteinplatz für Projekte von Zehra Spindler (verwiesen aus der Sitzung vom 16.11.10 zur Durchführung eines Ortstermins)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Veröffentlichungen in den Schaukästen der Bezirksausschüsse; Antrag des Seniorenbeirats vom 17.11.2010; Schreiben des Direktoriums vom 29.11.2010
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Keine weiteren Neonazi-Aufmärsche; Ziff. 1 Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der Bezirksausschüsse; BA-Antrags-Nr. 08-14 / B 02234 des BA 19 vom 06.07.10; Schreiben des Direktoriums vom 10.11.10 mit der Bitte um Stellungnahme zur Satzungsänderung zu TOP 4.3.1 Schreiben des Direktoriums vom 29.11.2010
+- TOP 4.2.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und Bürgerversammlungen; Stadtratsantrag Nr. 08-14 / A 01880 vom 12.10.10; Schreiben des Direktoriums vom 01.12.10 mit der Bitte um Rückäußerung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse; Antrag Nr. 08-14 / B 00249 des BA 5 vom 16.07.08; Sitzungsvorlage Nr. 08-14 / V 04462; Beschluss des Verwaltungs- u. Personalausschusses vom 17.11.10 (VB)
+- TOP 4.2.: Kulturfest "München ist bunt" am 13.11.2010; Dankschreiben des BA 2 vom 25.11.10
+- TOP 4.3.: Veranstaltung am 13.11.2010: "Heldengedenkmarsch 2010: Ruhm und Ehre den Deutschen Soldaten"; Abdruck der Anfrage des BA 1 an das KVR vom 25.11.10
+- TOP 4.4.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015; Änderung des Anhörungsverfahrens; Schreiben der Stadtkämmerei vom 15.11.10
+- TOP 4.5.: Haushaltsplan 2011 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14 / V 05574; Beschluss des Finanzausschusses vom 14.12.10 (VB)
+- TOP 4.6.: Mittelfristige Finanzplanung 2010 - 2014; Sitzungsvorlage Nr. 08-14 / V 05582; Beschluss der Vollversammlung vom 15. Dezember 2010
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
