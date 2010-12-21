@@ -1,5 +1,6 @@
-# Verordnung der Sächsischen Staatsregierung und des Sächsischen Staatsministeriums für Wirtschaft und Arbeit über die Zuständigkeiten auf dem Gebiet des Arbeitsschutzes (Sächsische Arbeitsschutzzuständigkeitsverordnung – SächsArbSchZuVO)
+# Verordnung der Sächsischen Staatsregierung und des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Zuständigkeiten auf dem Gebiet des Arbeitsschutzes, technischen Verbraucherschutzes, Strahlenschutzrechts im Anwendungsbereich der Röntgenverordnung und des Sprengstoffrechts und über die Zulassung der Beschäftigung von Arbeitnehmern an Sonntagen (Sächsische Arbeitsschutzzuständigkeitsverordnung – SächsArbSchZuVO)
 Vom 6. Juli 2008
+Rechtsbereinigt mit Stand vom 21. Dezember 2010
 Es wird verordnet
 1. durch die Staatsregierung aufgrund von § 155 Abs. 2 und 3 in Verbindung mit § 139b der Gewerbeordnung in der Fassung der Bekanntmachung vom 22. Februar 1999 (BGBl. I S. 202), die zuletzt durch Artikel 9 des Gesetzes vom 21. Dezember 2007 (BGBl. I S. 3089, 3136) geändert worden ist,
 2. durch das Staatsministerium für Wirtschaft und Arbeit aufgrund von
