@@ -1,0 +1,73 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2010-12-22T15:00:00+01:00
+- Ende: 2010-12-22T21:20:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1545
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1545
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00065507.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00065507.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00065507.pdf
+
+## Tagesordnung
+
+- TOP 2: Niederschrift - Zur Kenntnis genommen
+- TOP 3: Hauptversammlung Städtetag - Einstimmiger Beschluss
+- TOP 4: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 5: Vertretung der Stadt Mönchengladbach - Einstimmiger Beschluss mit Enthaltung/en
+- TOP 6: Jahresbericht 2009 der Niederrheinische Versorgung und Verkehr (NVV AG) zur Abwasserbeseitigung - Kenntnisnahme
+- TOP 7: Haushaltssatzung 2010/2011 - Mit Stimmenmehrheit beschlossen
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen 2010 - Kenntnisnahme
+- TOP 9: Fünfter Nachtrag zur Hundesteuersatzung der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 10: Sechzehnter Nachtrag zur Satzung über die Erhebung von Gebühren für die Benutzung der Abwasseranlage - Mit Stimmenmehrheit beschlossen
+- TOP 11: Einunddreißigster Nachtrag zur Satzung über die Straßenreinigung - Mit Stimmenmehrheit beschlossen
+- TOP 12: Dreizehnter Nachtrag Gebühren für die Abfallentsorgung in der Stadt - Mit Stimmenmehrheit beschlossen
+- TOP 13: 15. Nachtrag zur Ordnung über die Benutzung der Abfallentsorgungsanlagen der Stadt Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 14: Optimierung der Wirtschaftlichkeit der Flughafen GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 15: Vierte ordnungsbehördliche Verordnung zur Änderung der ordnungsbehördlichen Verordnung - Mit Stimmenmehrheit beschlossen
+- TOP 16: Fortschreibung des Rettungsdienstbedarfsplans - Mit Stimmenmehrheit beschlossen
+- TOP 17: Sechster Nachtrag Benutzungsordnung Stadtarchiv - Mit Stimmenmehrheit beschlossen
+- TOP 18: Zehnter Nachtrag Musikschulordnung - Mit Stimmenmehrheit beschlossen
+- TOP 19: Siebter Nachtrag Tarif VHS - Mit Stimmenmehrheit beschlossen
+- TOP 20: Erster Nachtrag Tarif Museum Abteiberg/Vierter Nachtrag Tarif Museum Schloss Rheydt - Mit Stimmenmehrheit beschlossen
+- TOP 21: Benutzungsordnung Stadtbibliothek - Mit Stimmenmehrheit beschlossen
+- TOP 22: Neuorganisation der Vereinigten Städtischen Bühnen Krefeld-Mönchengladbach - Kenntnisnahme
+- TOP 23: Rechtsformänderung der VSB - Mit Stimmenmehrheit beschlossen
+- TOP 24: Rechtsformänderung VSB; hier: Bestellung der Aufsichtsratsmitglieder - Einstimmiger Beschluss
+- TOP 25: Rechtsformänderung VSB; hier: Bestellung der Geschäftsführer - Mit Stimmenmehrheit beschlossen
+- TOP 26: Bericht zur Gründung einer 6. Gesamtschule - Kenntnisnahme
+- TOP 27: Schulorganisatorische Maßnahmen im Bereich der Sekundarstufe - Mit Stimmenmehrheit beschlossen
+- TOP 28: Zweckverband Düsseldorf Rhein-Ruhr 2012 - Einstimmiger Beschluss
+- TOP 29: Wahl Mitglieder Trägerversammlung - Einstimmiger Beschluss
+- TOP 30: Bildungs- und Teilhabeleistungen SGB II - Von Verwaltung zurückgezogen
+- TOP 31: Leistungsvereinbarung Schuldnerberatung - Einstimmiger Beschluss
+- TOP 32: Leistungsvereinbarung Frauenberatungsstelle Mg - Einstimmiger Beschluss
+- TOP 33: Leistungsvereinbarung mit dem Deutschen Roten Kreuz - Einstimmiger Beschluss
+- TOP 34: Leistungsvereinbarung AWO - Einstimmiger Beschluss
+- TOP 35: psycho-soziale Begleitung - Einstimmiger Beschluss
+- TOP 36: Schiedsamtswahl Nord/2 - Einstimmiger Beschluss
+- TOP 37: 1. Änderung des Bebauungsplanes Nr. 668/X - Stadtbezirk West - Mit Stimmenmehrheit beschlossen
+- TOP 38: Bebauungsplan Nr. 698/W - Stadtbezirk West - Mit Stimmenmehrheit beschlossen
+- TOP 39: Neuorganisation Feuerwachen der Berufsfeuerwehr MG - Mit Stimmenmehrheit beschlossen
+- TOP 40: Organisationsuntersuchung zu den Einrichtungen zur Betreuung von Kindern - Mit Stimmengleichheit abgelehnt
+- TOP 41: Bildung eines Gestaltungsbeirates in MG - Mit Stimmenmehrheit beschlossen
+- TOP 42: Bewertung der Konditionen bei Veräußerungen städtischer Grundstücke - Mit Stimmenmehrheit beschlossen
+- TOP 43: Geschäftsordnung Anhörungskommission - Mit Stimmenmehrheit beschlossen
+- TOP 44: Umbesetzung Aussschüsse - Einstimmiger Beschluss
+- TOP 45: Umbesetztung Rechnungsprüfungsausschuss - Einstimmiger Beschluss
+- TOP 45.1: Umbesetzung Jugendholfeausschuss - Einstimmiger Beschluss
+- TOP 45.2: Umbesetzung Abfallverband Rhein-Wupper (Abfallwirtschaft) - Einstimmiger Beschluss
+- TOP 45.3: Umsetzung des Polizeibeitrates - Einstimmiger Beschluss
+- TOP 45.4: Umbesetzung Theaterkuratorium - Einstimmiger Beschluss
+- TOP 45.5: Umbesetzung Niersverband - Einstimmiger Beschluss
+- TOP 45.6: Umbestzung Verwaltungsrat SSK - Einstimmiger Beschluss
+- TOP 45.7: Umbesetzung Integrationsrat - Einstimmiger Beschluss
+- TOP 45.8: Umbesetzung ARGE Trägerversammlung - Einstimmiger Beschluss
+- TOP 46: Flughafen Mönchengladbach - Mit Stimmenmehrheit beschlossen
+- TOP 47: Antrag Änderung des Sparkassengesetzhes - Mit Stimmenmehrheit abgelehnt
+- TOP 48: Resolution Moratorium für Atomtransporte - Mit Stimmenmehrheit abgelehnt
+- TOP 49: Anfragen - Zur Kenntnis genommen
