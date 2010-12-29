@@ -5,7 +5,8 @@ Inhaltsübersicht
 § 3 | Ausbildung
 § 4 | Studium
 § 5 | Praxisbezug des Studiums
-§ 6 | Vorbereitungsdienst und Ausbildung in berufsbegleitender Form
+§ 6 | Vorbereitungsdienst
+§ 6a | Ausbildung in berufsbegleitender Form
 § 7 | Prüfungsgrundsätze
 § 8 | Weiterbildung der Lehrerinnen und Lehrer
 § 9 | Gleichstellung von Prüfungen
