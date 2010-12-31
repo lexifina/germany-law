@@ -43,6 +43,8 @@ Teil 3 Verwaltungsaufgaben
 § 29a Zuständigkeiten nach dem Rechtsdienstleistungsgesetz
 § 29b Zuständigkeiten nach der Justizbeitreibungsordnung
 § 29c Disziplinargericht für Notare
-Teil 4 Übergangs- und Schlussvorschriften
-§ 30 Übergangsvorschriften
-§ 31 Inkrafttreten und Außerkrafttreten
+Teil 4 Verzeichnis über Gebühren in Justizverwaltungsangelegenheiten
+§ 30 Gebührenverzeichnis
+Teil 5 Übergangs- und Schlussvorschriften
+§ 31 Übergangsvorschriften
+§ 32 Inkrafttreten und Außerkrafttreten
