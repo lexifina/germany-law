@@ -1,8 +1,8 @@
 # Die Förderung nach dieser Richtlinie dient der Verbesserung der Bedingungen im schienen- und straßengebundenen öffentlichen Personennahverkehr (ÖPNV) im Freistaat Sachsen. 1.2 Der Freistaat Sachsen gewährt für diese Zwecke nach den §§ 23, 44 der Haus
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-08-24 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11471.1
+- Datum: 2010-12-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11471.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -605,7 +605,7 @@ Die zuwendungsfähigen Ausgaben ergeben sich im Weiteren aus Nummer 5.4.1.
 
 Eine früher gewährte Förderung desselben Objektes aus öffentlichen Mitteln schließt eine nochmalige Finanzierung von Maßnahmen im Rahmen von Teil II dieser Verwaltungsvorschrift nicht aus.
 
-Ein bereits erfolgter Vorhabensbeginn vor Bewilligung ist nicht förderschädlich, wenn ein Antrag auf Förderung bis zum 31. Januar 2011 gestellt wird und die Fördervoraussetzungen bezogen auf den Zeitpunkt des Vorhabensbeginns nachgewiesen sind. Bei Nachweis von verdeckten Schäden beziehungsweise geohydrologischen Schäden ist ein bereits erfolgter Vorhabensbeginn nicht förderschädlich, wenn ein Antrag auf Förderung bis zum 30. Juni 2011 gestellt wird und die Fördervoraussetzungen bezogen auf den Zeitpunkt des Vorhabensbeginns nachgewiesen sind.
+Ein bereits erfolgter Vorhabensbeginn vor Bewilligung ist nicht förderschädlich, wenn ein Antrag auf Förderung bis zum 30. Juni 2011 gestellt wird und die Fördervoraussetzungen bezogen auf den Zeitpunkt des Vorhabensbeginns nachgewiesen sind. Bei Nachweis von verdeckten Schäden beziehungsweise geohydrologischen Schäden ist ein bereits erfolgter Vorhabensbeginn nicht förderschädlich, wenn ein Antrag auf Förderung bis zum 30. Juni 2011 gestellt wird und die Fördervoraussetzungen bezogen auf den Zeitpunkt des Vorhabensbeginns nachgewiesen sind.
 
 12.2
 
