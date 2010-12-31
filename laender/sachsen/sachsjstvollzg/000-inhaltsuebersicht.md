@@ -76,6 +76,7 @@ Teil 9 Sicherheit und Ordnung
 § 66 Sichere Unterbringung
 § 67 Erkennungsdienstliche Maßnahmen
 § 68 Lichtbildausweise
+§ 68a Videoüberwachung
 § 69 Maßnahmen zur Feststellung von Suchtmittelkonsum
 § 70 Festnahmerecht
 § 71 Besondere Sicherungsmaßnahmen
