@@ -1,0 +1,3 @@
+# Verordnung des Sächsischen Staatsministeriums der Finanzen über die Wirtschaftsführung der Hochschulen des Freistaates Sachsen (Sächsische Hochschulfinanzverordnung – SächsHSFinVO)
+Vom 21. Dezember 2010
+Aufgrund von § 11 Abs. 2 Satz 4 und Abs. 4 Satz 3 in Verbindung mit § 6 Abs. 3 Satz 2 des Gesetzes über die Hochschulen im Freistaat Sachsen (Sächsisches Hochschulgesetz – SächsHSG) vom 10. Dezember 2008 (SächsGVBl. S. 900), das zuletzt durch Artikel 21 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387, 400) geändert worden ist, wird im Einvernehmen mit dem Staatsministerium für Wissenschaft und Kunst verordnet:
