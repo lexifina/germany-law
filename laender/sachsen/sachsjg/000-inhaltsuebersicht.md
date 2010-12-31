@@ -14,6 +14,7 @@ Teil 2 Organisations- und Verfahrensrecht Abschnitt 1 Allgemeine Vorschriften
 § 11 Urkundsbeamte der Geschäftsstelle und Gerichtsvollzieher
 § 12 Zuständigkeit zur Betrauung von Bereichsrechtspflegern
 § 13 Gerichtsverwaltung
+§ 13a Aufbewahrung von Schriftgut
 Abschnitt 2 Ausführung von die ordentliche Gerichtsbarkeit betreffenden verfahrensrechtlichen Vorschriften
 § 14 Ernennung der Handelsrichter
 § 15 Dienstaufsicht
