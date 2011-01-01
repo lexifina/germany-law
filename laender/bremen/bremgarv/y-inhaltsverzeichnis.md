@@ -1,35 +1,31 @@
 # Inhaltsverzeichnis
-Abschnitt 1: Begriffe
-§ 1 | Begriffe
-Abschnitt 2: Bauvorschriften
+Inhaltsverzeichnis
+Teil 1 Allgemeine Vorschriften
+§ 1 | Begriffe und allgemeine Anforderungen
+Teil 2Bauvorschriften
 § 2 | Zu- und Abfahrten
 § 3 | Rampen
-§ 4 | Stellplatz- und Verkehrsflächen
+§ 4 | Einstellplätze, Fahrgassen und Einstellplätze für besondere Personengruppen
 § 5 | Lichte Höhe
-§ 6 | Wände und Stützen
-§ 7 | Decken, Dächer und Böden
-§ 8 | Brandabschnitte
-§ 9 | Verbindung zwischen Garagengeschossen
-§ 10 | Verbindung der Garagen mit anderen Räumen
-§ 11 | Rettungswege
-§ 12 | Aufenthaltsräume und Abortanlagen
-§ 13 | Beleuchtung und andere elektrische Anlagen
-§ 14 | Lüftung
-§ 15 | Unzulässigkeit von Zündquellen
-§ 16 | Feuerlöscheinrichtungen
-§ 17 | Feuermeldeeinrichtungen
-§ 18 | Tankstellen in Verbindung mit Garagen
-§ 19 | Arbeitsgruben
-Abschnitt 3: Betriebsvorschriften
-§ 20 | Verkehrssicherung
-§ 21 | Schutz gegen Vergiftung
-§ 22 | Feuergefährliche Stoffe und Rauchverbot
-§ 23 | Abstellen von Druckgasfahrzeugen
-§ 24 | Abstellen von Kraftfahrzeugen in anderen Räumen als Garagen
-Abschnitt 4: Zusätzliche Bauvorlagen, Prüfungen und Schlußvorschriften
-§ 25 | Zusätzliche Bauvorlagen
-§ 26 | Prüfungen
-§ 27 | Anwendung der Betriebsvorschriften auf bestehende Garagen
-§ 28 | Weitere Anforderungen und Erleichterungen
-§ 29 | Ordnungswidrigkeiten
-§ 30 | Inkrafttreten
+§ 6 | Tragende Wände, Decken, Dächer
+§ 7 | Außenwände
+§ 8 | Trennwände, sonstige Innenwände und Tore
+§ 9 | Gebäudeabschlusswände
+§ 10 | Wände und Decken von Kleingaragen
+§ 11 | Rauchabschnitte, Brandabschnitte
+§ 12 | Verbindungen zu Garagen und zwischen Garagengeschossen
+§ 13 | Rettungswege
+§ 14 | Beleuchtung
+§ 15 | Lüftung
+§ 16 | Feuerlöschanlagen
+§ 17 | Brandmeldeanlagen
+Teil 3 Betriebsvorschriften
+§ 18 | Betriebsvorschriften für Garagen
+§ 19 | Abstellen von Kraftfahrzeugen in anderen Räumen als Garagen
+Teil 4 Bauvorlagen
+§ 20 | Bauvorlagen
+Teil 5 Schlussvorschriften
+§ 21 | Weitergehende Anforderungen
+§ 22 | Ordnungswidrigkeiten
+§ 23 | Übergangsvorschriften
+§ 24 | Inkrafttreten, Außerkrafttreten

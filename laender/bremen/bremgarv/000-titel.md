@@ -1,1 +1,1 @@
-# Bremische Verordnung über Garagen und Stellplätze (BremGaVO) vom 10. November 1980
+# Bremische Verordnung über den Bau und Betrieb von Garagen (Bremische Garagenverordnung - BremGarV) vom 16. Dezember 2010
