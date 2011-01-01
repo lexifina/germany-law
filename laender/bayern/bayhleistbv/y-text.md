@@ -1,0 +1,1 @@
+Auf Grund von Art. 74, 99 Abs. 1 Satz 1 und Art. 107 Abs. 5 Satz 3 des Bayerischen Besoldungsgesetzes (BayBesG) vom 5. August 2010 (GVBl S. 410, ber. S. 764, BayRS 2032-1-1-F) erlässt das Bayerische Staatsministerium für Wissenschaft, Forschung und Kunst im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
