@@ -1,0 +1,1 @@
+Auf Grund von Art. 19 Abs. 2, Art. 28 Abs. 2 und Art. 115 Abs. 2 Satz 2 Halbsatz 2 des Bayerischen Beamtengesetzes erlassen die Bayerischen Staatsministerien des Innern und für Gesundheit, Ernährung und Verbraucherschutz im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen und dem Landespersonalausschuss folgende Verordnung:
