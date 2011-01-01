@@ -1,4 +1,3 @@
-## Gesetz über den Finanzausgleich mit den Gemeinden und Landkreisen im Freistaat Sachsen (Sächsisches Finanzausgleichsgesetz – SächsFAG)
 # Inhaltsübersicht
 Erster Abschnitt Grundsätze des Finanzausgleichs
 § 1 Finanzausgleichsleistungen und Grundsatz der Lastenverteilung
@@ -46,11 +45,11 @@ Zehnter Abschnitt Interkommunaler Finanzausgleich
 § 28 Sozialumlage
 Elfter Abschnitt Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
 § 29 Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
-§ 29a Digitalfunk
+§ 29a Digitalfunk und e-Government-Basiskomponenten
 § 29b Sanktionszahlungen
 Zwölfter Abschnitt Gemeinsame Vorschriften, Verfahren und Inkrafttreten
 § 30 Einwohnerzahl
-§ 31 Berechnung, Festsetzung und Auszahlung
+§ 31 Berechnung, Festsetzung und Zahlung
 § 32 Durchführungsvorschriften
 § 33 Mitwirkungspflichten
 § 34 Beirat

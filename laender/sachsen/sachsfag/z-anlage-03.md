@@ -1,7 +1,7 @@
 # Anlage 3 (zu § 22 Abs. 2 Nr. 8)
 Bedarfszuweisungen zur Unterstützung von vorübergehenden Anpassungsmaßnahmen im Zusammenhang mit der Übernahme der kreislichen Aufgaben
 Unterstützung
-Laufende Nummer | Kreis/Zeitraum | Betrag
+Laufende Nummer | Gebiet/Zeitraum | Betrag
 1. | Vogtlandkreis
  | im Jahr 2009 | 1 431 000 EUR,
  | im Jahr 2010 | 954 000 EUR,
