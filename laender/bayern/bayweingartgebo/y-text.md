@@ -1,0 +1,1 @@
+Auf Grund des Art. 21 Abs. 1 Satz 1 des Kostengesetzes (KG) vom 20. Februar 1998 (GVBl S. 43, BayRS 2013-1-1-F), zuletzt geändert durch § 3 des Gesetzes vom 12. April 2010 (GVBl S. 169), erlässt das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Bayerischen Staatsministerium der Finanzen folgende Verordnung:
