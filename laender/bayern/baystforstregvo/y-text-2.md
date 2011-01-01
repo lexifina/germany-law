@@ -1,0 +1,2 @@
+1. Art. 16 Satz 2 des Gesetzes zur Ausführung der Verwaltungsgerichtsordnung (AGVwGO) in der Fassung der Bekanntmachung vom 20. Juni 1992 (GVBl S. 162, BayRS 34-1-I), zuletzt geändert durch § 2 des Gesetzes vom 20. Dezember 2007 (GVBl S. 958),
+2. Art. 23 des Gesetzes zur Ausführung des Gerichtsverfassungsgesetzes und von Verfahrensgesetzen des Bundes – AGGVG – (BayRS 300-1-1-J), zuletzt geändert durch Art. 209 Abs. 1 des Gesetzes vom 10. Dezember 2007 (GVBl S. 866),
