@@ -16,7 +16,7 @@ a)
 Landkreis Nordsachsen
 b)
 Landkreis Leipzig
-4. Kulturraum Elbtal-Sächsische Schweiz-Osterzgebirge
+4. Kulturraum Meißen-Sächsische Schweiz-Osterzgebirge
 a)
 Landkreis Meißen
 b)
