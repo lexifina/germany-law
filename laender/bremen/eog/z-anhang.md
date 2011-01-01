@@ -33,7 +33,7 @@ u) Sulfat | (SO42-): | 6001)
 v) Sulfid | (S2-): | 2
 3. Organische Stoffe | mg/l | 
 a) Kohlenwasserstoffe gesamt: (Mineralöl-Verbindungen) |  | 20
-b) Schwerflüchtige lipophile Stoffe (insbesondere emulgierte oder suspendierte, biologisch abbaufähige Öle, Fette und dergl.): |  | 1501)
+b) Schwerflüchtige lipophile Stoffe (insbesondere emulgierte oder suspendierte, biologisch abbaufähige Öle, Fette und dergl.): |  | 3001)
 c) Adsorbierbare organisch gebundene Halogene (AOX), (berechnet als Chlorid): |  | 1
 Einzelstoffe hiervon, z.B. Tetrachlorethen (berechnet als Cl): |  | 0,5
 d) Phenol-Verbindungen (berechnet als C6H5OH) |  | 100
