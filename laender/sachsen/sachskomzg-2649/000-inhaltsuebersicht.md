@@ -1,4 +1,4 @@
-Inhaltsübersicht
+# Inhaltsübersicht
 Erster Teil Allgemeine Vorschriften
 § 1 Anwendungsbereich
 § 2 Formen der kommunalen Zusammenarbeit
