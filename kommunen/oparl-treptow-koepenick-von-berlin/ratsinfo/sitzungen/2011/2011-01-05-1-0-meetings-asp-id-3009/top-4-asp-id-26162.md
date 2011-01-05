@@ -1,0 +1,8 @@
+# TOP 4: Änderung der Geschäftsordnung des Bezirksamtes hier: Bildung des Stadtentwicklungsamtes zum 01.01.2011
+
+- Sitzung: 84. (öfftl.) Sitzung des Ausschusses für Stadtplanung und Verkehr (2011-01-05)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=26162
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=26162
