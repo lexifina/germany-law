@@ -1,0 +1,54 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-01-10T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187154
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187154
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: REGSAM wird künftig auf ehrenamtlicher Basis geführt - Antrag der FDP-Stadtratsfraktion
+- TOP 3.4.: Referat für Bildung und Sport
+- TOP 3.1.: Künftige Nutzung des Schul- und Kindertagesstättengeländes an der Meindlstraße 8
+- TOP 3.2.: Sportinfrastrukturmaßnahmen in München
+- TOP 6.1.: Einrichtung einer 1-Stunden-Parkscheibenzone vor dem Anwesen Radlkoferstraße 2
+- TOP 6.2.: Öffnung der in Richtung Westen einbahngeregelten Kraelerstraße zwischen Maronstraße und Pfeuferstraße für den gegenläufigen Radverkehr
+- TOP 6.3.: Parkplatzsituation im Bereich Königsdorfer Str. 11 - 13
+- TOP 6.4.: Park- und Verkehrssituation in der Hans-Preißinger-Straße
+- TOP 6.5.: Taxistand Thalkirchner/Brudermühlstraße
+- TOP 6.6.: Einrichtung eines absoluten Haltverbots in der Greineckerstraße
+- TOP 6.7.: Kulturstrand für München
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Mittagsbetreuung an der Montessorischule der Aktion Sonnenschein Reutberger Straße e.V. Kauf eines Herds und einer Kühl-/Gefrierkombination; ? 900,- - <div>vertagt</div>
+- TOP 7.2.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und der Bürgerversammlungen
+- TOP 7.3.: Anfrage des Seniorenbeirates zu Veröffentlichungen in den Schaukästen der Bezirksausschüsse
+- TOP 7.4.: (E) Budget der Bezirksausschüsse Init. Pro Migrakunst Fachtagung am 19./20.02.2011 im Gasteig - <div>Zustimmung zum Referentenantrag</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Urbanstraße 20
+- TOP 8.3.: Plakattafel Implerstraße / Thalkirchner Straße
+- TOP 9: Baureferat
+- TOP 9.1.: Straßensanierungsmaßnahmen in der Fallstraße 8 - 42 zwischen Leipart- und Fallstraße 42
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Karwendelstraße 49, Innenhof
+- TOP 10.2.: Rückmeldung zur Baumfällung Kidlerstraße 34
+- TOP 10.3.: Rückmeldung zur Baumfällung Albert-Roßhaupter-Straße 14
+- TOP 10.4.: Verzicht auf Laubsauger und Laubbläser
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) ?Ausruhbank? für Behinderte und Senioren in den großen Supermärkten Empfehlung Nr. 08-14 / E 00684 der Bürgerversammlung des Stadtbezirkes 06 - Sendling vom 13.10.2010 - <div>Zustimmung zum Referentenantrag</div>
+- TOP 1.2.: Umbenennung der "Alten- und Service-Zentren München" in "Senioren-Zentrum-München"
+- TOP 1.3.: Erhalt des Postamtes in der Kochelseestraße - Zwischennachricht - BV-Empf. Nr. 674
+- TOP 12: Anträge
+- TOP 12.1.: Anträge aus der Kinder- und Jugendbezirksausschusssitzung vom 24.11.2010
+- TOP 12.2.: Erhaltungssatzung Sendling ? Antrag der SPD-Fraktion
+- TOP 13: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
