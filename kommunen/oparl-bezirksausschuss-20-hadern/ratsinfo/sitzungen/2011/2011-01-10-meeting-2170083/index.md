@@ -1,0 +1,61 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170083
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170083
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: "Kunst am Bau" an der Grundschule am Canisiusplatz
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Budget der Bezirksausschüsse, Init. Pro Migrakunst, Fachtagung am 19./20.02.2011 im Gasteig (Direktorium, 23.12.10)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: REGSAM - München spart Steuergelder - REGSAM wird künftig auf ehrenamtlicher Basis geführt, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss vom 01.02.2011 (Sozialreferat, 07.12.10)
+- TOP 6.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2011 (Spielen in der Stadt e.V., 07.12.10)
+- TOP 6.3.: Ausschreibung Weltkindertag 2011 (Sozialreferat, Büro der Kinderbeauftragten, 29.12.10)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Guardinistraße 8, 1 Rotbuche und 1 Schwarzkiefer
+- TOP 7.2.: Guardinistraße 94 - 98 a, 2 Zuckerahornbäume
+- TOP 7.3.: Sonnenblumenstraße 44 - 44 b, 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.3.: Verkehrsrechtliche Anordnung, hier: Haltverbot in der Waldwiesenstraße im Bereich der Bushaltestelle Haderunstraße (Kreisverwaltungsreferat, 13.12.10)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Menari- und Schröfelhofstraße, Zusammenlegung der beiden Tempo-30-Zonen (Kreisverwaltungsreferat, 20.12.10)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Altkleidercontainer am Max-Lebsche-Platz sowie in der Heiglhofstraße (Kreisverwaltungsreferat, 09.12.10)
+- TOP 9.2.: Fußballplatz auf dem Schulhof der Grundschule an der Großhaderner Straße (Referat für Bildung und Sport, 16.12.10)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Ringbuslinie um den Waldfriedhof (MVG, 03.12.10) dazu: Schreiben des BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 14.12.10
+- TOP 11: Verschiedenes
+- TOP 11.2.: SHZ-Rundbrief einBlick 4/2010 ist online (SHZ, 01.12.10)
+- TOP 11.3.: Benutzung des DFB-Minispielfeldes an der Schule an der Gilmstraße (Schr. BA 7 Sendling-Westpark, 07.12.10)
+- TOP 11.4.: Dank für Zuschuss aus dem BA-Budget zur Finanzierung eines Spielgeräts für die Kinder (Schr. Förderverein des Kindergarten Fronleichnam e.V., 14.12.10)
+- TOP 11.6.: Einladung Abendforum "Holz - der ideale Baustoff, auch in der Großstadt" am Freitag, 21.01.2011 (Referat für Gesundheit und Umwelt, 15.12.10)
+- TOP 11.7.: Flyer Infoabende Januar bis April 2011 (Referat für Gesundheit und Umwelt, 15.12.10)
+- TOP 11.8.: Einladung zur Fachtagung Migration und Integration am 19./20.02.2011 im Gasteig (Pro Migrakunst, 18.12.10)
+- TOP 11.9.: Umfirmierung GWG München (GWG, 29.12.10)
+- TOP 11.10.: Werbenutzungsvertrag der Landeshauptstadt München, Informationsveranstaltung des Referates für Arbeit und Wirtschaft am Montag, den 24.01.2011 um 17.30 Uhr (Referat für Arbeit und Wirtschaft, 28.12.10)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 24.11.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05165: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK) - Sachstand Konsolidierung 2009/2010 - Feinkonzept 2011 - Optimierung von Prozessen und Strukturen - Gender Mainstreaming bei der Haushaltskonsolidierung
+- TOP 12.1.: Beschluss vom 15.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05574: Haushaltsplan 2011 - Ansätze der zentralen Bereiche - Schlussabgleich, insbesondere Kürzung des Haushaltsansatzes 2011 a) für die Stadtbibliothek an der Guardinistraße 90 um 53.000,- ? (Anlage 2, S. 17), b) für die Kita an der Großhaderner Straße 52 a um 17.000,- ? (Anlage 2, S. 18)
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05022: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05166: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere (Anlage 1, S. 11, 13, 15, 16) - zum Bewohnertreff Blumenau (Ansatz 63.000,- ?), - zur "Nachbarschaft Kleinhadern, Na klar!" (Ansatz 11.000,- ?) - zur "Planung und Steuerung KomPro" in der Krokusstraße 73
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05173: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere (Anlage 1, S. 6; Anlage 2, S. 3 und 8) - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 (Ansatz 50.267,- ?) und - zum ASZ Kleinhadern-Blumenau (Ansatz 207.101,- ?)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05581: Mobilität in Deutschland (MiD) Befragung zum Alltagsverkehr in München, insbesondere grafische Darstellung der Verkehrsarten in Hadern (zu Fuß 24%, mit dem Fahrrad 12%, mit dem Öffentlichen Verkehr 20%, Mitfahrer 11%, Individualverkehr 34% gemäß Beilage, S. 22)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.2: Referentenanträge
