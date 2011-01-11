@@ -1,0 +1,94 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2194421
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2194421
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.1.: Änderung des Standort des Parkautomaten vor dem Haus St.-Martin-Str. 15; Bürgerschreiben vom 22.12.2010
+- TOP 2.2.: Lärmbelästigung durch Lautsprecher an den Trambahnen, die Linie und Richtung angeben; Pressebericht zur Änderung der Linienführung der Linie 27 zum Dezember 2011L; Bürgerschreiben vom 17.12.2010
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Antrag des Seniorenbeirats der Landeshauptstadt München, Veröffentlichungen in den Schaukästen der Bezirksausschüsse aushängen zu können; Schreiben des Direktoriums vom 29.11.2010
+- TOP 3.2.: Aufforderung an die MVG, von Ihrem Vertragspartner schmälerer Buswartehäuschen entwickeln zu lassen, die für schmale Gehwege geeignet sind; Antrag aus dem Verkehrsausschuss des BA 20 mit der Bitte um Unterstützung des Antrags
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Init. Pro Migrakunst Fachtagung am 19./20.02.2011 im Gasteig
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: * 1. * * Anbindung Pennstraße/Leifstraße an den ÖPNV; Lärmentwicklung entlang der Tegernseer Landstraße; Wegenetz im Bereich der Wohnbaugrundstücke; Situation am S-Bahn-Haltepunkt Fasangarten und Vorplatz (Verwiesen aus der Sitzung vom 14.12.10) - siehe auch TOP 5.3.1.1 - - <div>vertagt</div>
+- TOP 0.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörungen im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.2.1 Anwesen Tegernseer Landstr. 36; Umbau u. Modernisierung eines Gebäudes, Teilausbau des 2. DGs, Einbau von Dachgauben u. eines Aufzugs, Erneuerung der Balkone; Anhörung vom 02.12.10 (vertagt aus der Sitzung vom 14.12.10) 5.1.3.2.2 Anwesen Amerstorfferstr. 8, Ausbau des Dachgeschosses (Amerstorfferstr. 8-12) 5.1.3.2.3 Anwesen Chiemgaustr. 34a - 34b, Neubau eines Mehrfamilienhauses
+- TOP 0.2.: Gemeinde Unterhaching; 20. Änderung des Flächennutzungsplanes für das Gebiet der Stumpfwiese im Bereich der Grundstücke mit den FlurNrn 615/5 und 615; Schreiben des Planungsreferates vom 13.12.2010 mit der Bitte um Stellungnahme bis 25.01.2011
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.1.: Schulweghelfer für die Schule an der Ichostraße; Verfahren zur Auswahl von Schulweghelfern (verwiesen aus der Sitzung vom 14.12.2010)
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Beschlussentwurf zum Nachbarschaftstreff Walchenseeplatz; Quartiersbezogene Bewohnerarbeit und Wohnprojekt der GEWOFAG "Wohnen im Viertel"; Schreiben des Sozialreferats mit der Bitte um Stellungnahme bis 28.01.2011
+- TOP 0.2.: REGSAM wird künftig auf ehrenamtlicher Basis geführt; Beschlussentwurf Kinder- und Jugendhilfeausschuss und Sozialausschuss; Antrag Nr. 08-14/A01598; Schreiben des Sozialreferats mit der Bitte um Stellungnahme bis 21.01.2011
+- TOP 0.3.: Planung der Einsätze der Münchner Sommer SpielAktion 2011; Schreiben des Vereins "Spielen in der Stadt" mit der Bitte um Platzvorschläge - <div>vertagt</div>
+- TOP 0.1.: Anton-Fingerle-Bildungszentrum Schlierseestr. 47; Errichtung Mobile Schulraumeinheiten - Ausführungsgenehmigung; Sitzungsvorlage Nr. 02-08/V05377; Beschluss des Schul- und Sportausschusses vom 01.11.10 (SB)
+- TOP 0.2.: Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2010; Sitzungsvorlage-Nr.: V08-14/V05452; Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 01.12.2010 (Bek.)
+- TOP 0.1.: Anbindung Pennstraße/Leifstraße an den ÖPNV; Lärmentwicklung entlang der Tegernseer Landstraße; Wegenetz im Bereich der Wohnbaugrundstücke; Situation am S-Bahn-Haltepunkt Fasangarten und Vorplatz (Verwiesen aus der Sitzung vom 14.12.10) FF - <div>vertagt</div>
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Fußgängerüberweg über die Schlierseestraße in Höhe Maxlrainstraße; Empfehlung Nr. 08-14 / E 00648 der Bürgerversammlung des 17. Stadtbezirkes Obergiesing-Fasangarten am 01.07.2010; Sitzungsvorlage Nr. 08-14 / V 05547; Beschluss des BA 17 vom 11.01.2010 (vertagt aus der Sitzung vom 14.12.2010)
+- TOP 0.1.: Überprüfung PSA Standpunkt Untersbergstr. 60 auf Anweisung des BA; Schreiben des Baureferats vom 13.12.2010 mit der Bitte um Rückäußerung
+- TOP 0.1.: Öffnung der in Westen einbahngeregelten Straße Am Bergsteig zwischen Edelweißstraße und Aignerstraße für den gegenläufigen Radverkehr; Unterrichtung des KVR
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung und Landschaftsschutzverordnung (teilweise); Unterrichtung des Baureferats-Gartenbau vom 24.11.10 über das Fällen von Gefahrenbäumen
+- TOP 0.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.2.1 Anwesen Tirschenreuther Str. 2 - 4; Bescheid vom 16.12.2010 5.4.4.2.2 Anwesen Werinherstraße / Warngauer Str. / Rotwandstr.; Bescheid vom 21.12.10
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Kinderfest 25 Jahre Giesinger Mädchen-Treff auf dem Walchenseeplatz (28./29.04.2011); Zuleitung des KVR vom 27.12.2010 mit der Bitte um Stellungnahme bis 17.02.11
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen; Stadtratsantrag Nr. 08-14 / A 01880 vom 12.10.10; Schreiben des Direktoriums vom 01.12.10 mit der Bitte um Rückäußerung bis 20.01.11
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Mittelfristige Finanzplanung 2010 - 2014; Beschluss der Vollversammlung vom 15.12.10; Sitzungsvorlage- Nr. 08-14/V05582
+- TOP 7.2.: Mehrjahresinvestitionsprogramm - Fortschreibung für die Jahre 2011 bis 2015; Keine Möglichkeit zur Berücksichtigung der Anregungen; Schreiben des BA 17 vom 22.11.10; Antwortschreiben der Stadtkämmerei vom 01.12.10
+- TOP 7.3.: Haushaltsplan 2011; Ansätze der zentralen Bereiche, Schlussabgleich; Sitzungsvorlage Nr. 08-14/V05574; Beschluss des Finanzausschusses vom 14.12.2010 (VB)
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
