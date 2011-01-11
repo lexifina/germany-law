@@ -1,0 +1,96 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126431
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126431
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 24.11.2010: Papierkorbleerung an der Haltestellen Barer-/Schellingstraße Instandsetzung des Bürgerssteiges Ludwigstraße/Ecke Schellingstraße s. TOP C 2.2.1
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 47., 48., 49., 50., 51. KW
+- TOP 2.1.2.: Amalienstraße 15, Um- und Neubau von Rück- und Seitengebäuden
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung: Arcisstr. 12, Neubau NS-Dokumentationszentrum
+- TOP 2.1.4.: Vollzug der Baumschutzverordnung: Max-Joseph-Str. 9, Einrichtung einer Tiefgarage und Neugestaltung des Innenhofs mit Empfangsgebäude (Barer Str. 14 / Karolinenpl. 2 / Max-Joseph-Str. 9)
+- TOP 2.2: Baumfällungen
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Anpassungen in den Parklizenzgebieten St. Vinzenz und Marsviertel
+- TOP 2.1.2.: Kreisverwaltungsreferat, Linprunstraße beidseitig zwischen Erzgießereistraße und Sandstraße: Zeichen 314 StVO mit dem Zusatz ?nur Pkw?
+- TOP 2.1.3.: Kreisverwaltungsreferat, Antrag der Firma ?shogazi? auf Einrichtung einer Ladezone im Bereich Barer Str. 82-84
+- TOP 2.1.4.: Kreisverwaltungsreferat, Busparkverbot im Umfeld des Zentralen Omnibusbahnhofes (ZOB)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: entfällt
+- TOP 2.2.2.: Kreisverwaltungsreferat, Sondernutzungserlaubnis a) Barer Straße 86 a, ?Creative Store?(Verkaufseinrichtung auf öffentlichem Grund) b) Türkenstraße 36, ?Tim Jolie? (Verkaufeinrichtung auf öffentlichem Grund) c) Ludwigstraße 10, ?Tobias Grau GmbH? (mobiler Fahrradständer)
+- TOP 3: (E) Renovierung der Kriegerehrentafel am Landeskriminalamt, Baudrexelstraße Empfehlung Nr. 08-14 / E 00470 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 19.11.2009
+- TOP 3.4.: Kreisverwaltungsreferat, Anhörung, Public Viewing anlässlich der Ski WM vom o04.02. bis 20.02.2011 auf dem Wittelsbacherplatz
+- TOP 3.5.: Der BA 20 Hadern bittet um Unterstützung seines Antrages vom 29.11.2010: ?Die MVG wird aufgefordert, den Vertragspartner für Wartehäuschen zu beauftragen, einen Wartehäuschentyp zu entwickeln, der für schmale Gehwege geeignet ist.?
+- TOP 3.6.: Baureferat, Beschlussvorlage: Aufstellen eines Parkscheinautomaten in der Finkenstraße
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis Theresienstr. 72, ?Tresznjewski? (Erweiterung der Freischankfläche)
+- TOP 2.3.2.: Kreisverwaltungsreferat, Sondernutzungserlaubnis Augustenstraße 107, ?Jagerhansl?
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: REGSAM ? München spart Steuergelder ? REGSAM wird künftig auf ehrenamtlicher Basis geführt: Antrag Nr. 08-14/A 01598 der Stadtratsfraktion der FDP vom 08.06.2010; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung am 01.02.2011
+- TOP 2.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2011: Bitte der Pädagogischen Aktion/Spielen in der Stadt e.V. um Vorschläge für Einsatzorte der Spielbusse
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Init. "Pro Migrakunst" Fachtagung am 19./20.02.2011 im Gasteig
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage: Siemens Konzerzentrale ? Wittelsbacherplatz - Sitzungsvorllage NR. 08-14 / V 05422
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 08.12.2010 Bebauungsplan mit Gründordnung Nr. 2049, Marsstraße (südlich), Rundfunkplatz (west- lich), Hopfenstraße (westlich), Herbstsstraße (östlich) (Teiländerungdes Bebauungsplanes Nr. 937) Sitzungsvorlage Nr. 08-14 / V 05506
+- TOP 1.3.: Baureferat, Unterrichtung über das Fällen von Gefahrbäumen in der Schwindstraße
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Antwortschreiben zur Stellungnahme des BA zum Fällungsantrag Loristr. 15
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baureferat, Beschlussvorlage für den Bauausschuss vom 07.12.2010 Sitzungsvorlage Nr. 08-14 / V 05208: Neuerlass der Straßenreinigungs- und -sicherungsverordnung
+- TOP 2.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage; Mobilität in Deutschland (MiD) ? Befragung zum Alltagsverkehr in München; Sitzungsvorlage Nr. 08-14 / V 05581
+- TOP 2.3.: Schreibendes Vorsitzenden des BA 1 an den Kreisverwaltungsreferenten zur Veranstal- tung am 13.11.2010 (?Heldengedenkmarsch2010: Ruhm und Ehre den Deutschen Sol- daten?)
+- TOP 2.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Statplanung und Bauordnung am 08.12.2010; München setzt auf's Rad 2 ? Von Nachbarn in den Niederlanden und in Dänemark lernen Sitzungsvorlage Nr. 08-14 / A 01081
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verlängerung der Ausnahmebewilligung für eine Baustelleneinrichtung an der Ottostraße (Eschenanlage)
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsrechtliche Anordnung nach § 45 StVO, Umwidmung des Georg-Elser-Platzes zum ?beschränkt öffentlichen Weg, nur für Fußgänger, Radfahrer und Zufahrt zu den Anwesen frei?
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Kreisverwaltungsausschuss vom 14.12.2010; Parkraummangagement in München Sitzungsvorlage Nr. 08-14 / V 05646
+- TOP 2.8.: Direktorium, Entscheidung des Oberbürgermeisters: Ablehnung einer Freischankfläche Augustenstraße 31, Gaststätte ?Goldoni?
+- TOP 2.9.: Kreisverwaltungsreferat, Verlängerung der verkehrsrechtlichen Anordnung für Arbeiten im Straßenraum: - Schleißheimer Straße zwischen Dachauer Straße und Rottmannstraße; - Gehweg und Fahrbahn Seite Dachauer Straße (Seite des Parkplatzes)
+- TOP 2.10.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung nach § 45 StVO: Taxistandplatz Arnulfstraße 52, Änderung der zeitlichen Geltungsdauer
+- TOP 2.11.: Kreisverwaltungsreferat, Beschlussvorlage für die Sitzung des Kreisverwaltungsausschusses vom 14.12.2010, Sitzungsvorlage Nr. 08-14 / V 05641: Kulturstrand für München Standortauwahl für die Jahre 2011 ? 2013, Auftrag aus dem Beschluss des gemeinsamen Bau- und Kreisverwaltungsausschusses vom 11.05.2010
+- TOP 2.12.: Referat für Stadtplanung und Bauordnung, Antwortschreiben vom 06.12.2010 zum BA-Antrag Nr. 08-14 7 B 02455 des BA 3 vom 12.10.2010
+- TOP 2.13.: Kreisverwaltungsreferat, Verkehrsrechtliche Anordnung nach § 45 StVO, Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze: Augustenstr. 121 sowie Türkenstr. 77 und 51
+- TOP 2.14.: Kreisverwaltungsreferat, Antwortschreiben vom 13.12.2010 zum BA-Antrag Nr. 08-14 / B 02526 des BA 3 vom 09.11.2010 (Carsharing)
+- TOP 2.15.: Stadtwerke MVG, Antwortschreiben zum BA-Schreiben vom 09.12.2010, Beschwerden der Seniorenvertretung über schlecht geräumte Haltestellen und Gefährdung von Fahrgästen durch nachlässig angefahrene Bushaltestellen
+- TOP 2.16.: Verkehrsrechtliche Anordnung nach § 45 StVO, Radverkehr: Abmarkierung eines Radfahrstreifens auf der Fahrbahn in der Seidlstraße zwischen der Einfahrt Anwesen Seidlstraße 27 (südl. Anwesengrenze/Taxistand) und Arnulfstraße/ Paul-Heyse-Unterführung
+- TOP 2.17.: Referat für Stadtplanung und Bauordnung, Planfeststellung nach § 18 Allgemeines Eisen- bahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke in München; Planfestsstellungsabschnitt 1 München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof ? 1. Planänderung ? Anhörungsverfahren -
+- TOP 3.1.: Schul- und Kultusreferat, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss des Stadtrates am 12.10.2010; Kindertagesstätten sonstiger Träger, Haus für Kinder an der Schleißheimer Straße 41 Sitzungsvorlage Nr. 08 ? 14 / V 05228 im 3. Stadtbezirk Maxvorstadt, Leistung eines Baukostenzuschusses
+- TOP 3.2.: Antwortschreiben des Referates für Bildung und Sport vom 02.12.2010; Bauarbeiten an der Sporthalle der Schule an der Dachauer Straße 98 (s. TOP D 3.1/1010)
+- TOP 3.3.: Referat für Bildung und Sport, Bekanntgabe im Ausschuss für Bildung und Sport am 01.12.2010, Sportinfrastrukturmaßnahmen in München ? Sachstandsbericht 2010 Sitzungsvorlage Nr. 08 ? 14 / V 05452
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Wahl eines neuen Vorstandsmitgliedes im BA 3
+- TOP 4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.5.: Direktorium, Wunsch des Seniorenbeirats nach Aushang von Informationen in den BA-Schaukästen
+- TOP 4.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
