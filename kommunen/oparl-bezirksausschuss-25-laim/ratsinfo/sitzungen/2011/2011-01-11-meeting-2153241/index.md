@@ -1,0 +1,105 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-01-11T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153241
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153241
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Umgang mit Behinderten bei der MVG
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Umgestaltung der Infothek im Sozialbürgerhaus Dillwächterstraße unter Beachtung datenschutzrechtlicher Vorgaben
+- TOP 2.2.: SPD: Keine Weiterverfolgung der aktuellen Pläne für die Bebauung des städtischen Grundstücks Agnes-Bernauer-Straße Flurstück 47; stattdessen neue Planungen, in Übereinstimmig mit dem gültigen Bebauungsplan 1237
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.213,25 Euro für den Kauf eines Materialschrankes und von 50 Stühlen; Antragsteller: Kath. Kirchenstiftung Namen Jesu - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 26.933,51 Euro für eine Fachtagung am 19./20.02.2011 im Gasteig; Antragsteller: Initiative "Pro Migrakunst" - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 29.11.10: Beschränkung des Parkens auf Pkw in der Barmer Straße
+- TOP 4.2.: Schreiben Spielen in der Stadt e.V. vom 07.12.10: Planung der Einsätze der Münchner Sommer SpielAktion 2011
+- TOP 4.3.: Schreiben Sozialreferat vom 07.12.10: REGSAM - München spart Steuergelder - REGSAM wird künftig ehrenamtlich geführt
+- TOP 4.4.: Schreiben Abfallwirtschaftsbetrieb München vom 19.10. und 09.12.10: Beteiligungsverfahren zur Erteilung einer Sondernutzungserlaubnis zum Betrieb einer Wertstoffsammelstelle auf städtischem Grund; Kärtner Platz ggü. Hausnr. 5 (Vertagung aus der BA-Sitzung vom 07.12.10)
+- TOP 4.5.: Schreiben KVR vom 20.12.10: Flohmarkt am Spielplatz Von-der-Pfordten-Straße / Ecke Valpichlerstraße am 08.04.11
+- TOP 4.6.: Schreiben KVR vom 23.12.10: Flohmarkt auf dem Spielplatz Von-der-Pfordten-Straße / Ecke Valpichlerstraße am 14.05.10
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Sturmstr. 6: Neubau eines Zweifamilienhauses mit Duplex-Parker; hier: Baumfällungen
+- TOP 5.2.: Agricolastr. 101: Neubau eines Mehrfamilienhauses mit Garagen (Agricolastr. 101 / Aindorferstr. 146); hier: Baumfällungen
+- TOP 5.3.: Agnes-Bernauer-Str. 23: Errichtung einer Werbeanlage (1 Superposter)
+- TOP 5.4.: Landsberger Straße / Nähe Friedenheimer Brücke: Errichtung einer Werbeanlage (1 Werbeanlage Mega Light)
+- TOP 5.5.: Elsenheimerstr. 33: Nutzungsänderung: EG - Büro in Labore, Werkstatt und Sonderflächen; 1. + 2. OG - Büroräume zu Werkstätten; hier: Baupläne
+- TOP 5.6.: Hohenwarter Str. 13: Neubau eines Mehrfamilienhauses mit Tiefgarage; hier: Baupläne
+- TOP 5.7.: Reutterstr. 49a: Neubau eines Einfamilienhauses mit Garage; hier: Baupläne und Baumbestandsplan
+- TOP 5.8.: Haslangstr. 44: Errichtung eines Lagergebäudes (nachträgliche Genehmigung); hier: Baupläne
+- TOP 5.9.: Agnes-Bernauer-Straße, Flurstück 47: Neubau eines Wohngebäudes mit Tiefgarage / Vorbescheid
+- TOP 5.10.: Hogenbergstr. 33-35; Neuerrichtung einer Kooperationseinrichtung mit 3 Krippen- und 3 Kindergartengruppen sowie einem Veranstaltungsgebäude / Vorbescheid
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 29.11.10: Veröffentlichungen in den Schaukästen der Bezirksausschüsse
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 23.11.10
+- TOP 7.2.: BA-Sitzung vom 07.12.10
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 01.12.10: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen
+- TOP 8.2.: Schreiben Direktorium vom 01.12.10: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.3.: Schreiben Direktorium vom 08.12.10: Zuwendung aus dem Budget des BA 25; Antrag vom 28.08.10 der SG Zwölf Apostel e.V. für Jubiläumsfeier am 15.10.10
+- TOP 8.4.: Schreiben Direktorium vom 16.12.10: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.5.: Schreiben Direktorium vom 16.12.10: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Förderverein der Camerloher Grundschule in München-Laim e. V.
+- TOP 8.6.: Schreiben KVR vom 18.11.10: Wiedererrichtung einer Bezirksinspektion und Meldestelle im Stadtbezirk Laim (Schreiben BA vom 08.07.10)
+- TOP 8.7.: Schreiben KVR vom 29.11.10: Verkehrsentlastung bzw. Verkehrsberuhigung in der Elsenheimer - / Lautensackstraße im Bereich zwischen Agnes-Bernauer-Straße und Landsberger Straße (Schreiben BA vom 27.10.10)
+- TOP 8.8.: Schreiben KVR vom 03.12.10: Installation einer akustischen Blindenampel für sehbehinderte und blinde Bürger an der Kreuzung Fürstenrieder- / Gotthardstraße (Antrag Nr. 08-14 / B 02124 vom 04.05.10 bzw. Schreiben BA vom 24.11.10)
+- TOP 8.9.: Schreiben KVR vom 21.12.10: Bürgeranliegen; Zeitlich begrenztes Haltverbot in der Helmperstraße ab Lutzstraße bis Straßenende, linke Fahrspur und in der Pöhlmannstraße ab Kindertagesstätte bis Helmpertstraße, rechte Fahrspur (Schreiben BA vom 24.11.10)
+- TOP 8.10.: Schreiben KVR vom 22.12.10: Veränderung der Ampelschaltung an der Kreuzung Fürstenrieder - / Gotthardstraße (Anfrage Nr. 08-14 / Q 00236 aus der Bürgerversammlung vom 16.11.10)
+- TOP 8.11.: Schreiben KVR vom 01.12.10: Kleingaststätte "Dampflock", Fürstenrieder Str. 121; unveränderte Fortführung
+- TOP 8.12.: Schreiben KVR vom 02.12.10: Schank- und Speisewirtschaft "Rhodos", Friedenheimer Str. 27; unveränderte Fortführung
+- TOP 8.13.: Schreiben KVR vom 06.12.10: Diskothek "M-Park" / "Rockstudio", Landsberger Str. 175; unveränderte Fortführung
+- TOP 8.14.: Schreiben Baureferat vom 22.11.10: Deutliche Erhöhung der Fahrradabstellplätze an den U-Bahn-Haltestellen im 25. Stadtbezirk, insbesondere an den Stationen Laimer Platz und Friedenheimer Straße (Antrag Nr. 08-14 / B 02384 vom 14.09.10)
+- TOP 8.15.: Schreiben Baureferat vom 25.11.10: S-Bahnhof Laim, Trennwand zwischen Fußgänger- und Fahrzeugtunnel
+- TOP 8.16.: Schreiben Baureferat vom 09.12.10: Sanierung des Straßenbelags der Reutterstraße zwischen Rappstraße und Agnes-Bernauer-Straße (Willibaldstraße) (BA-Antrag Nr. 08-14 / B 02495 vom 05.10.10)
+- TOP 8.17.: Schreiben Baureferat vom 09.12.10: Radweg über den Hönigschmidplatz (Schreiben BA vom 24.11.10)
+- TOP 8.18.: Schreiben Baureferat vom 27.12.10: Tiefgaragenausfahrt Laimer Arkaden (Anfrage Nr. 08-14 / Q 00237 aus der Bürgerversammlung vom 16.11.10)
+- TOP 8.19.: Schreiben Sozialreferat vom 24.11.10: Fertigstellung des Jugendzentrums "Das Laimer" in der von-der-Pfordten-Straße (Anfrage Nr. 08-14 / Q 00239 der Bürgerversammlung vom 16.11.12)
+- TOP 8.20.: Schreiben Referat für Gesundheit und Umwelt vom 30.11.10: Lärmmessungen in der Lutzstraße (Schreiben BA vom 21.09.10)
+- TOP 8.21.: Schreiben Referat für Gesundheit und Umwelt vom 30.11.10: Protokolle der Bürgerforen zur Lärmaktionsplanung im Internet
+- TOP 8.22.: Schreiben Referat für Stadtplanung und Bauordnung vom 15.12.10: Fällungsantrag Justinus-Kerner-Str. 8-10
+- TOP 8.23.: Schreiben Planungsreferat vom 20.12.10: Verkehrsbelastung durch Kfz-Verkehr (Anfrage Nr. 08-14 / Q 00234 aus der Bürgerversammlung vom 16.11.10)
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft am 30.11.10: Wirtschaftsinfo 11/2010
+- TOP 8.25.: Schreiben Referat für Arbeit und Wirtschaft vom 06.12.10: Europe Direct Inforamtionen 09/2010
+- TOP 8.26.: Schreiben Referat für Arbeit und Wirtschaft vom 20.12.10: Wirtschafts-Info 12/2010
+- TOP 8.27.: Schreiben Referat für Arbeit und Wirtschaft vom 21.12.10: Europe Direct Informationen, Sonderausgabe 10/2010
+- TOP 8.28.: Schreiben Referat für Arbeit und Wirtschaft vom 23.12.10: Europe Direct Information 11/2010
+- TOP 8.29.: Schreiben Stadtkämmerei vom 03.12.10: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2011
+- TOP 8.30.: Bautenliste vom 15.11.-21.11.10 1. Erstantragsverfahren a) Landsberger Str. 338 2. Änderungsverfahren a) Elsenheimerstr. 7 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Lautensackstr. 1
+- TOP 8.31.: Bautenliste vom 22.11.-28.11.10: 1. Erstantragsverfahren a) Rechpacherstr. 2 b) Kiem-Pauli-Weg 63 c) Zschokkestr. 49
+- TOP 8.32.: Bautenliste vom 29.11.-05.12.10 1. Erstantragsverfahren a) Johannes-Scharrer-Str. 8 b) Hohenwarter Str. 13 c) Von-der-Pfordten-Str. 19 2. Änderungsverfahren a) Schäufeleinstraße
+- TOP 8.33.: Bautenliste vom 06.12.-12.12.10 1. Erstantragsverfahren a) Elsenheimerstr. 33 b) Haslangstr. 44 c) Gotthardstr. 53 d) Reutterstr. 49a 2. Änderungsverfahren a) Aindorferstr. 72 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agricolastr. 101
+- TOP 8.34.: Bautenliste vom 13.12.-19.12.10 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 78 a b) Geyerspergerstr. 73
+- TOP 8.35.: Bautenliste vom 20.12.-26.12.10 1. Erstantragsverfahren a) Guido-Schneble-Str. 40
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 29.11.10: Baumaßnahmen der Stadtwerke; Stichtag: 29.11.10
+- TOP 8.37.: Schreiben Stadtwerke München GmbH vom 06.12.10. Baumaßnahmen der Stadtwerke; Stichtag: 06.12.10
+- TOP 8.38.: Schreiben Stadtwerke München GmbH vom 13.12.10: Baumaßnahmen der Stadtwerke; Stichtag: 13.12.10
+- TOP 8.39.: Schreiben Stadtwerke München GmbH vom 20.12.10: Baumaßnahmen der Stadtwerke; Stichtag: 20.12.10
+- TOP 8.40.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; München Nachhaltig II: Zuschüsse nur ohne ausbeuterische Kinderarbeit (Sitzungsvorlagen Nr. 08-14 / V 05022)
+- TOP 8.41.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 05166)
+- TOP 8.42.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 11.11.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 05173)
+- TOP 8.43.: Beschluss der Vollversammlung vom 24.11.10: Haushaltskonsolidierung; 4. Haushaltssicherungskonzept (4. HSK), Sachstand Konsolidierung 2009/2010, Feinkonzept 2011, Optimierung von Prozessen und Strukturen, Gender Mainstreaming bei der Haushaltskonsolidierung (Sitzungsvorlagen Nr. 08-14 / V 05165)
+- TOP 8.44.: Beschluss der Vollversammlung vom 24.11.10: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof - 1. Planänderung, Anhörungsverfahren (Sitzungsvorlagen Nr. 08-14 / V 05522)
+- TOP 8.45.: Beschluss der Vollversammlung vom 24.11.10: Ertüchtigung des Bahnknotens München; 2. Stammstrecke, a) Grundsatzentscheidung des Bayer. Landtages vom 14.04.10; Stand der Umsetzung, b) Planfeststellungsverfahren für den 2. Stammstreckentunnel mit Stationen, c) Lärmsanierung am DB-Südring, d) weiteres Vorgehen, e) Anträge und Empfehlungen (Sitzungsvorlagen Nr. 08-14 / V 05521)
+- TOP 8.46.: Bekanntgabe im Ausschuss für Bildung und Sport vom 01.12.10: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2010 (Sitzungsvorlagen Nr. 08-14 / V 05452)
+- TOP 8.47.: Beschluss des Bauausschusses vom 07.12.10: Neuerlass der Straßenreinigungs- und -sicherungsverordnung (Sitzungsvorlagen Nr. 08-14 / V 05208)
+- TOP 8.48.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10: München setzt auf`s Rad 2 / Von Nachbarn in den Niederlanden und in Dänemark lernen (Sitzungsvorlagen Nr. 08-14 / V 04041)
+- TOP 8.49.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10: Mobilität in Deutschland (MiD), Befragung zum Alltagsverkehr in München (Sitzungsvorlagen Nr. 08-14 / V 05581)
+- TOP 8.50.: Schreiben BA 1 Altstadt-Lehel vom 25.11.10: Veranstaltung am 13.11.10: "Heldengedenkmarsch 2010: Ruhm und Ehre den Deutschen Soldaten"
+- TOP 8.51.: Schreiben BA 20 Hadern vom 15.12.10: Antrag bzgl. Entwicklung schmalerer Buswartehäuschen
+- TOP 8.52.: Schreiben BA 21 Pasing-Obermenzing vom 14.12.10: Verkehrssituation Willibaldstraße
+- TOP 8.53.: Bürgerschreiben vom 07.12.10: Situation bei den Wertstoffcontainern Ecke Friedenheimer Straße / Agnes-Bernauer-Straße
+- TOP 8.54.: Schreiben Förderverein des Kindergartens Fronleihnam e.V. vom 14.12.10: Zuschuss zur Finanzierung eines Spielgerätes für Kinder
+- TOP 8.55.: Schreiben Pro Migrakunst vom 18.12.10: Einladung "Fachtagung Migration und Integration 2011 in München" am 19. / 20.02.11
+- TOP 8.56.: Schreiben MVV vom Dezember 2010: Studie "Mobilität in Deutschland (MiD)"
+- TOP 8.57.: Schreiben Schützengesellschaft Zwölf Apostel e.V. vom 17.11.10: Kurzbericht über Veranstaltung am 15.10.10
+- TOP 8.58.: Schriftverkehr aus der BA-Sitzung vom 07.12.10
+- TOP 1.2: Bürgerpost an den BA
