@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-01-11T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2206475
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2206475
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 07.12.10
+- TOP 2: Anträge
+- TOP 2.1.: Demonstranten vom 08.05.10 nicht kriminalisieren
+- TOP 2.2.: Ausweisung eines Biotops an der Garatshausener Straße
+- TOP 2.3.: Zukunft des ehemaligen Heizkraftwerkes
+- TOP 2.4.: Ausschilderung zur SDI
+- TOP 2.5.: Umgestaltung der Schießanlage Hubertus
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Lichtreklame Boschetsrieder Straße
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept Obersendling/Thalkirchen
+- TOP 5.2.: Kreuzungsbereich Sollner / Wolfratshauser Straße
+- TOP 5.3.: Schmälere Buswartehäuschen
+- TOP 5.4.: Haltverbot Konrad-Witz-Str.
+- TOP 5.5.: Parkverbot Bleibtreustraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Erstaufnahmeeinrichtung Baierbrunner Straße
+- TOP 6.3.: Bebauungsplan Aufstellungsbeschluss - Lückenschluss ehem. Isartalbahn-Weg
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Ausbau der Freiwilligen-Börse im Caritaszentrum Neuforstenried
+- TOP 7.2.: REGSAM wird auch künftig auf ehrenamtlicher Basis geführt
+- TOP 7.3.: Skateanlage Surheimer Weg
+- TOP 7.4.: Sommerspielaktion 2011
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Werbeanlage Boschetsrieder Str. 81
+- TOP 9.2.: Werbeanlage Herterichstr. 119
+- TOP 9.3.: Barrierefreie Sitzungslokale
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
