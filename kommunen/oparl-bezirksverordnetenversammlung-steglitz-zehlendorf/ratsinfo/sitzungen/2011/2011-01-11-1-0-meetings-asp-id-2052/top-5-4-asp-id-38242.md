@@ -1,0 +1,8 @@
+# TOP 5.4: Natürliche Aussaat von Gehölzen nutzen
+
+- Sitzung: 49. öffentliche Sitzung des Ausschusses für Stadtplanung und Naturschutz (2011-01-11)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=38242
+- Ergebnis: im Ausschuss abgelehnt
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=38242
