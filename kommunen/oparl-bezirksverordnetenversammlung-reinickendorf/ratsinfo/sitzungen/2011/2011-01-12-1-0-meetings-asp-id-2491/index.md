@@ -1,0 +1,77 @@
+# 48. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-01-12T17:05:00+01:00
+- Ende: 2011-01-12T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2491
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2491
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=50645
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - überwiesen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - überwiesen
+- TOP 3.1: Unterstützung der kulturellen Arbeit des Vereins Famagusta - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Transparenz bei Gutachten herstellen (Vorlage zur Kenntnisnahme 08.12.2010) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.2: Verkehrspolitik mit Augenmaß - gegen ideologiegetriebene Drangsalierung einzelner Gruppen von Verkehrsteilnehmern (Große Anfrage 08.12.2010) - beantwortet
+- TOP 5.2.1: Verhandlungen im Zuge der Fortschreibung des Stadtentwicklungsplanes Verkehr - überwiesen
+- TOP 5.3: Stadtplanung in Reinickendorf? (Große Anfrage 08.12.2010) - beantwortet
+- TOP 5.3.1: Stadtplanung in Reinickendorf? - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Wahl von stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss (Vorlage zur Beschlussfassung 08.12.2010) - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Berichte des JobCenter-Geschäftsführers im Sozialausschuss (Empfehlung 08.12.2010) - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung der vorzeitigen Beendigung des Amtes als stellvertretender Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Integrationspreis der BVV-Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Beitritt der Initiative "Charta der Vielfalt" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Charta der Vielfalt beitreten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Charta der Vielfalt unterzeichnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Mitternachtssport gegen Jugendgewalt und Jugendkriminalität - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2010 und 2011 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: "Lange Nacht des Rathauses" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Werben für Blumenpatenschaft - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.9: "Zug der Erinnerung" nach Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Ausreichende Ausstattung der Schulen mit Schulmusikern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Geschwindigkeitskontrollen in der Schildower Straße verstärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Erneuerung Begrenzungen am Elchdamm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Bürgerbüros in Reinickendorf - beantwortet
+- TOP 8.1.1: Für dauerhafte moderne Servicedienstleistungen in den Bezirken einsetzen - überwiesen
+- TOP 8.2: Regelsatz Hartz IV - vertagt
+- TOP 8.3: Dioxin-Skandal - Gefahr für die Reinickendorfer Bevölkerung? - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Dezentrale Kulturarbeit - in der BVV abgelehnt
+- TOP 10.2: Für die Zukunft planen: Personal - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Barrierefreiheit - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: 50. Jahrestag des Mauerbaus - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Grünpflege ohne Grün? - erledigt
+- TOP 10.6: Darstellung aller Bezirksbürgermeister/innen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Toilettencontainer für die Bettina-von-Arnim-Schule - erledigt
+- TOP 10.8: Wirtschaftsförderung XXL auf Flughafengelände TXL- Gründung einer Ansiedlungsagentur für das Flughafengelände - überwiesen
+- TOP 10.8.1: Wirtschaftsförderung XXL auf Flughafengelände TXL- Gründung einer Ansiedleragentur für das Flughafengelände - überwiesen
+- TOP 10.9: Waldbestattung in Reinickendorfer Ruheforst - vertagt
+- TOP 10.10: Laubbläser raus aus Reinickendorf! - in der BVV abgelehnt
+- TOP 10.11: Insel im Tegeler Hafen - Wegerecht der Öffentlichkeit - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Verkauf Insel Tegeler Hafen - überwiesen
+- TOP 12.2: Integrationspreis 2011 - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Erstkontakte zu Familien mit Neugeborenen gewährleisten - überwiesen
+- TOP 12.4: Wegerecht Insel Tegeler Hafen - in der BVV zurückgezogen
+- TOP 12.5: Benennung eines Dr. Ilse Kassel-Platz - überwiesen
+- TOP 12.6: Tourismusführer Reinickendorf neu auflegen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Schluss mit Zeitverträgen beim Ordnungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Nachnutzung TXL - Vorrang für Arbeitsplätze (2) Vermarktungsoffensive - überwiesen
+- TOP 13.3: Wirtschaftsfreundlichster Bezirk Reinickendorf (3) Last-Minute-Ausbildungsplatz-Vermittlungsbörse - überwiesen
+- TOP 13.4: Wirtschaftsfreundlichster Bezirk Reinickendorf (4) Berufslotsen etablieren - überwiesen
+- TOP 13.5: Sicherheit in Reinickendorf (1) Mehr Polizeipräsenz im Bezirk - überwiesen
+- TOP 13.6: Verhinderung von Visitenkartenwerbung an Kraftfahrzeugen - überwiesen
