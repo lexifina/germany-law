@@ -1,0 +1,89 @@
+# Geschäftsordnung für die Bezirksarbeitsgemeinschaften Seniorenpolitik und die Stadtarbeitsgemeinschaft Seniorenpolitik der Stadt Köln beschlossen durch den Ausschuss für Soziales und Senioren der Stadt Köln am 13.01.2011
+
+- Gemeinde: Stadt Köln (ARS 053150000000)
+- Datum: 2011-01-13 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/geschäftsordnung_fuer_die_bezirksarbeitsgemeinschaften_seniorenpolitik_und_die_stadtarbeitsgemeinschaft_seniorenpolitik_der_stadt_köln.pdf
+- Text: PDF der Stadt, Textschicht (pdftotext)
+- Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
+
+---
+
+Geschäftsordnung für die Bezirksarbeitsgemeinschaften Seniorenpolitik und die Stadtarbeitsgemeinschaft Seniorenpolitik der Stadt Köln beschlossen
+durch den Ausschuss für Soziales und Senioren der Stadt Köln am 13.01.2011
+Inhaltsverzeichnis
+I. Allgemeines § 1 Aufgaben und Selbstverständnis II. Bezirksarbeitsgemeinschaften Seniorenpolitik § 2 Zusammensetzung § 3 Konstituierung § 4 Ablauf der Sitzungen § 5 Beratungen der Bezirksarbeitsgemeinschaften Seniorenpolitik III. Stadtarbeitsgemeinschaft Seniorenpolitik § 6 Zusammensetzung § 7 Konstituierung § 8 Ablauf der Sitzungen der Stadtarbeitsgemeinschaft Seniorenpolitik § 9 Beratungen der Stadtarbeitsgemeinschaft Seniorenpolitik § 10 Entsendung von sachkundigen Einwohnerinnen/Einwohnern in
+Fachausschüsse des Rates der Stadt Köln IV. Schlussbestimmungen § 11 Rechte und Pflichten der Mitglieder § 12 Ergänzende Bestimmungen § 13 Inkrafttreten
+I. Allgemeines
+§ 1 Aufgaben und Selbstverständnis
+(1) Die Arbeitsgemeinschaften Seniorenpolitik sind auf Bezirks- und Stadtebene im Vorfeld von Entscheidungen des Rates und seiner Ausschüsse bzw. Bezirksvertretungen sowie der Verwaltung als Beratungs- und Konsultationsgremien für seniorenspezifische Fragen tätig. Sie verfolgen insbesondere folgende Ziele: 1. Erarbeitung von Lösungsvorschlägen zu Fragen und aktuellen Problemen, die
+Seniorinnen und Senioren betreffen, 2. Kontaktpflege mit der Verwaltung, den Trägern der freien Wohlfahrtspflege, den
+Fraktionen des Rates der Stadt Köln und der Bezirksvertretungen,
+Seite 1 von 7
+
+3. Förderung der Zusammenarbeit zwischen allen Selbsthilfeinitiativen, Einrichtungen und Diensten der Seniorenarbeit,
+4. Mitwirkung bei der Planung der sozialen Infrastruktur und Weiterentwicklung der Angebote für Seniorinnen und Senioren und
+5. Zusammenarbeit mit dem Amt für Soziales und Senioren und den übrigen Dienststellen der Stadtverwaltung in seniorenrelevanten Fragen.
+(2) Zur Erfüllung dieser Aufgaben sind die Arbeitsgemeinschaften Seniorenpolitik auf Bezirks- und Stadtebene tätig und können Anregungen und Stellungnahmen an die in § 23 Abs. 4 der Hauptsatzung der Stadt Köln genannten Gremien vorlegen. Die Gremien können die Arbeitsgemeinschaften um Stellungnahmen bitten.
+II. Bezirksarbeitsgemeinschaften Seniorenpolitik
+§ 2 Zusammensetzung
+(1) Den Bezirksarbeitsgemeinschaften Seniorenpolitik gehören in jedem Stadtbezirk an: 1. die im Stadtbezirk nach der Wahlordnung für die Wahl der Seniorenvertretung der
+Stadt Köln (im folgenden „WahlO“) gewählten Mitglieder der Seniorenvertretung der Stadt Köln, 2. mindestens zwei Vertreterinnen/Vertreter der im jeweiligen Stadtbezirk tätigen Spitzenverbände der freien Wohlfahrtspflege, im Bereich der Seniorenarbeit sachkundig und für die Dauer der Wahlperiode benannt, 3. je ein Mitglied der Fraktionen in den jeweiligen Bezirksvertretungen. Die Mitgliedschaft besteht für die jeweilige Ratsperiode, längstens jedoch für die Dauer ihrer Zugehörigkeit zur Fraktion in der Bezirksvertretung und 4. die Bürgeramtsleitung. (2) Für die Mitglieder nach § 2 Abs. 1 Nr. 2 und 3 Geschäftsordnung (im folgenden „GeschO“) wird jeweils eine Stellvertretung im Verhinderungsfall bestellt. (3) Das Mandat endet bei Rücktritt oder Tod und bei Mitgliedern nach § 2 Abs. 1 Nr. 1 GeschO auch bei Wegzug aus dem Stadtbezirk. Bei Rücktritt, Tot oder Wegzug übernimmt die erste Nachrückerin/der erste Nachrücker das Mandat.
+§ 3 Konstituierung
+(1) Die konstituierende Sitzung der Bezirksarbeitsgemeinschaften Seniorenpolitik findet auf Einladung der Bürgeramtsleitung im jeweiligen Stadtbezirk innerhalb von 8 Wochen nach Bekanntgabe des Ergebnisses der Wahl zur Seniorenvertretung der Stadt Köln statt. (2) Nach Bekanntgabe des Wahlergebnisses veranlasst die Bürgeramtsleitung die Benennung der Mitglieder der Bezirksarbeitsgemeinschaften Seniorenpolitik nach § 2 Abs. 1 Nr. 2 und 3 GeschO durch Anschreiben an die Wohlfahrtsverbände und die Fraktionen der Bezirksvertretungen. Die Benennungen nimmt die Leitung des Bürgeramtes im jeweiligen Stadtbezirk entgegen.
+Seite 2 von 7
+
+(3) In der konstituierenden Sitzung der Bezirksarbeitsgemeinschaften Seniorenpolitik in den jeweiligen Bezirken stellen sich die nach § 20 Abs. 2 WahlO gewählten Seniorenvertreterinnen/Seniorenvertreter für ihre einzelnen Ämter vor.
+§ 4 Ablauf der Sitzungen
+(1) Die Bürgeramtsleitung leitet die Sitzungen der Bezirksarbeitsgemeinschaft Seniorenpolitik. An den Sitzungen nimmt in Abstimmung mit der jeweiligen Bürgeramtsleitung eine Vertreterin/ein Vertreter des entsprechenden Fachamtes teil.
+(2) Zu Beginn der Sitzung werden die Mitglieder entsprechend § 5 der Hauptsatzung verpflichtet.
+(3) Die Bezirksarbeitsgemeinschaft wählt aus ihrer Mitte ein für die Schriftführung verantwortliches Mitglied. Die schreibtechnische Ausfertigung und den Versand der Niederschriften übernimmt das Bürgeramt.
+(4) Die Sprecherinnen/Sprecher der Seniorenvertretung auf Bezirksebene nach § 20 Abs. 2 der Wahlordnung für die Seniorenvertretung der Stadt Köln stimmen Tagesordnungsvorschläge in der Seniorenvertretung ab und unterbreiten diese der Sitzungsleitung. Zu Beginn der Sitzung wird mehrheitlich über die Tagesordnung und die Niederschrift der vergangenen Sitzung beschlossen.
+(5) Die Sitzungsleitung
+- stellt die Tagesordnung aus Vorschlägen der Mitglieder und der Fachverwaltung zusammen,
+- lädt die Mitglieder der Bezirksarbeitsgemeinschaften Seniorenpolitik schriftlich mit einer Frist von 2 Wochen unter Bekanntgabe der Tagesordnung zu den nächsten Sitzungen ein,
+- stellt die technischen Voraussetzungen für den Sitzungsablauf bereit und
+- gewährleistet die Einhaltung dieser Geschäftsordnung.
+(6) Die Bezirksarbeitsgemeinschaft Seniorenpolitik tagt mindestens zweimal im Jahr und kann auf Antrag mittels Mehrheitsbeschluss einer Gruppierung nach § 2 Abs. 1 Nr. 1 bis 4 GeschO zu einer außerordentlichen Sitzung einberufen werden.
+§ 5 Beratungen der Bezirksarbeitsgemeinschaften Seniorenpolitik
+(1) Die Bezirksarbeitsgemeinschaft Seniorenpolitik berät Fragen und aktuelle Probleme in der Seniorenarbeit und Seniorenpolitik im Stadtbezirk im Sinne des § 1 GeschO.
+(2) Jedes Mitglied der Bezirksarbeitsgemeinschaft Seniorenpolitik verpflichtet sich, seine Planungen und Maßnahmen einmal pro Jahr vorzustellen. Die Vorstellung kann auch für die gesamte Gruppierung nach § 2 Abs. 1 Nr. 1 bis 4 GeschO erfolgen.
+(3) Die Bezirksarbeitsgemeinschaft Seniorenpolitik beschließt Anregungen nach § 1 Abs. 2 GeschO mit Mehrheit der abgegebenen Stimmen. Die Bezirksarbeitsgemeinschaft Seniorenpolitik ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist.
+(4) Die Bezirksarbeitsgemeinschaft Seniorenpolitik kann zu ihren Beratungen Dritte durch die Sitzungsleitung hinzuziehen.
+Seite 3 von 7
+
+(5) Verstößt ein Beschluss der Bezirksarbeitsgemeinschaft gegen Gesetzesrecht oder gegen Bestimmungen dieser Geschäftsordnung, so kann jedes Mitglied den Verstoß innerhalb von 14 Tagen nach Ende der Sitzung bei der Sitzungsleitung rügen. Die Sitzungsleitung nimmt die Beanstandung des Beschlusses auf die Tagesordnung der kommenden Sitzung auf oder beruft eine Sondersitzung ein. Die Bezirksarbeitsgemeinschaft Seniorenpolitik berät in der Sitzung über den gerügten Verstoß. Falls die Rüge begründet ist, wird der Beschluss aufgehoben. Ist die Rüge unbegründet, so wird diese durch Beschluss abgelehnt. Gegen den ablehnenden Beschluss ist eine Beanstandung gegenüber der/dem für Seniorenpolitik zuständigen Fachbeigeordneten möglich, die/der eine rechtliche Überprüfung vornimmt.
+(6) Abs. 5 gilt entsprechend bei Wahlen in der Bezirksarbeitsgemeinschaft.
+III. Stadtarbeitsgemeinschaft Seniorenpolitik
+§ 6 Zusammensetzung
+(1) Der Stadtarbeitsgemeinschaft Seniorenpolitik gehören als Mitglieder an:
+1. die in der konstituierenden Sitzung der Seniorenvertretung auf Bezirksebene gewählten Seniorenvertreterinnen/Seniorenvertreter,
+2. zwei von den Seniorenvertreterinnen/Seniorenvertretern mit ausländischer Staatsangehörigkeit aus ihrer Mitte nach § 20 Abs. 4 WahlO gewählte Mitglieder,
+3. je eine/ein von den Kölner Spitzenverbänden der freien Wohlfahrtspflege für die Dauer der Wahlperiode benannte/benannter, im Bereich der Seniorenarbeit sachkundige Vertreterin/sachkundiger Vertreter,
+4. je ein Mitglied der Fraktionen des Rates der Stadt Köln für die jeweilige Ratsperiode, längstens jedoch für die Dauer der Zugehörigkeit zur Fraktion,
+5. die/der für Seniorenangelegenheiten zuständige Fachbeigeordnete der Stadt Köln.
+(2) Für die Mitglieder nach § 6 Abs. 1 Nr. 1 - 4 GeschO wird jeweils eine Stellvertretung im Verhinderungsfall bestellt.
+§ 7 Konstituierung
+(1) Die in der konstituierenden Sitzung der Seniorenvertretung auf Bezirksebene für die Stadtarbeitsgemeinschaft Seniorenpolitik gewählten Seniorenvertreterinnen und Seniorenvertreter sind der Wahlleitung durch die Bürgeramtsleitung mitzuteilen. Die Wahlleitung veranlasst die Benennung der Mitglieder nach § 6 Abs. 1 Nr. 3 und 4 GeschO durch Anschreiben an die Wohlfahrtsverbände und die Fraktionen des Rates. Nach deren Benennung lädt die Wahlleitung zur konstituierenden Sitzung ein.
+(2) Die konstituierende Sitzung der Stadtarbeitsgemeinschaft Seniorenpolitik findet spätestens innerhalb von 3 Monaten nach Beginn der Amtszeit der Seniorenvertretung der Stadt Köln gemäß § 2 Abs. 2 WahlO statt. Im Übrigen tritt die Stadtarbeitsgemeinschaft Seniorenpolitik nach Bedarf zusammen, mindestens jedoch zweimal jährlich. Die Stadtarbeitsgemeinschaft Seniorenpolitik kann auf Antrag mittels Mehrheitsbeschluss einer Gruppierung nach § 6 Abs. 1 GeschO zu einer außerordentlichen Sitzung einberufen werden.
+Seite 4 von 7
+
+(3) Zu Beginn der konstituierenden Sitzung werden die Mitglieder entsprechend § 5 der Hauptsatzung der Stadt Köln verpflichtet. (4) Die in die Stadtarbeitsgemeinschaft Seniorenpolitik gewählten Seniorenvertreterinnen und Seniorenvertreter und ihre Stellvertretungen bilden die SVK-Stadtkonferenz.
+§ 8 Ablauf der Sitzungen der Stadtarbeitsgemeinschaft
+(1) Die/der für die Seniorenangelegenheiten zuständige Fachbeigeordnete der Stadt Köln leitet die Sitzungen der Stadtarbeitsgemeinschaft Seniorenpolitik. Diese Aufgaben können auf die Leitung des Amtes für Soziales und Senioren oder auf die für Seniorenangelegenheiten zuständige Abteilungsleitung delegiert werden. (2) Die Sitzungsleitung - stellt die Tagesordnung aus Vorschlägen der Mitglieder zusammen, - lädt die Mitglieder der Stadtarbeitsgemeinschaft Seniorenpolitik schriftlich mit
+einer Frist von zwei Wochen unter Bekanntgabe der Tagesordnung zur Sitzung - stellt die technischen Voraussetzungen für den Sitzungsablauf bereit - gewährleistet die Einhaltung dieser Geschäftsordnung und - erstellt/verschickt die Niederschriften. (3) Die Geschäftsführung der Stadtarbeitsgemeinschaft Seniorenpolitik wird von dem für die Seniorenarbeit zuständigen Sachgebiet im Amt für Soziales und Senioren wahrgenommen.
+§ 9 Beratungen der Stadtarbeitsgemeinschaft Seniorenpolitik
+(1) Die Stadtarbeitsgemeinschaft Seniorenpolitik berät Fragen und aktuelle Probleme der Seniorenarbeit und Seniorenpolitik im Sinne des § 1 GeschO. (2) Zu Beginn der Sitzung wird mehrheitlich über die Tagesordnung und über die Niederschrift der vergangenen Sitzung beschlossen. (3) Die Stadtarbeitsgemeinschaft Seniorenpolitik beschließt Anregungen nach § 1 Abs. 2 GeschO mit Mehrheit der abgegebenen Stimmen. Die Stadtarbeitsgemeinschaft Seniorenpolitik ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist und jede Gruppierung nach § 6 GeschO vertreten ist. (4) Die Stadtarbeitsgemeinschaft Seniorenpolitik kann zu ihren Beratungen Dritte durch die Sitzungsleitung hinzuziehen. (5) Verstößt ein Beschluss der Stadtarbeitsgemeinschaft gegen Gesetzesrecht oder gegen Bestimmungen dieser Geschäftsordnung, so kann jedes Mitglied den Verstoß innerhalb von 14 Tagen nach Ende der Sitzung bei der Sitzungsleitung rügen. Die Sitzungsleitung nimmt die Beanstandung des Beschlusses auf die Tagesordnung der kommenden Sitzung auf oder beruft eine Sondersitzung ein. Die Stadtarbeitsgemeinschaft berät in der Sitzung über den gerügten Verstoß. Falls die Rüge begründet ist, wird der Beschluss aufgehoben. Ist die Rüge unbegründet, so wird diese durch Beschluss abgelehnt. Gegen den ablehnenden Beschluss ist eine
+Seite 5 von 7
+
+Beanstandung gegenüber der Oberbürgermeisterin/dem Oberbürgermeister möglich, die/der eine rechtliche Überprüfung vornimmt. (6) Abs. 5 gilt entsprechend bei Wahlen in der Stadtarbeitsgemeinschaft.
+§ 10 Entsendung von sachkundigen Einwohnerinnen/Einwohnern in Fachausschüsse des Rates der Stadt Köln
+Die SVK-Stadtkonferenz wählt aus ihrer Mitte die Seniorenvertreterinnen/ Seniorenvertreter und deren Stellvertretungen für den Verhinderungsfall, die von der SVK-Stadtkonferenz dem Rat der Stadt Köln für die in § 23 Abs. 4 der Hauptsatzung genannten Fachausschüsse als sachkundige Einwohnerinnen/Einwohner gemäß § 58 Abs. 3 und 4 Gemeindeordnung vorgeschlagen werden.
+IV. Schlussbestimmungen
+§ 11 Rechte und Pflichten der Mitglieder
+(1) Die Mitgliedschaft in den Bezirksarbeitsgemeinschaften und der Stadtarbeitsgemeinschaft Seniorenpolitik ist ein Ehrenamt. Die Vorschriften der Gemeindeordnung Nordrhein-Westfalen, insbesondere zur Verschwiegenheit und Treuepflicht sind zu beachten. Die/der in ein Ehrenamt Berufene hat insbesondere auch nach Beendigung ihrer/seiner Tätigkeit über die ihr/ihm dabei bekanntgewordenen Angelegenheiten, deren Natur nach erforderlich, besonders vorgeschrieben, vom Rat beschlossen oder von der Oberbürgermeisterin/vom Oberbürgermeister angeordnet ist, Verschwiegenheit zu wahren. Innerhalb des gesetzlichen Rahmens steht der Verschwiegenheitspflicht nicht entgegen, Dritte über die Ergebnisse der Beratungen in den Bezirks- und Stadtarbeitsgemeinschaften Seniorenpolitik zu informieren, wenn dies der Erfüllung der Aufgaben nach § 1 GeschO dient. (2) Die Mitglieder der Seniorenvertretung in den Bezirksarbeitsgemeinschaften Seniorenpolitik erhalten eine Aufwandsentschädigung in Höhe von monatlich 70,00 €. Ist das Mitglied der Seniorenvertretung zur Schriftführung gewählt worden, steht ihm auf Antrag zusätzlich je wahrgenommener Sitzung der Bezirksarbeitsgemeinschaft ein pauschaler Auslagenersatz von 12,78 € zu. (3) Die von den Fraktionen entsandten Mitglieder, die nicht dem Rat der Stadt Köln angehören und die in die Stadtarbeitsgemeinschaft Seniorenpolitik gewählten Seniorenvertreterinnen und Seniorenvertreter erhalten eine pauschale Entschädigung pro Sitzung, die dem Sitzungsgeld gemäß § 25 der Hauptsatzung der Stadt Köln entspricht. Dies gilt entsprechend für die Sachverständigen nach § 20 Abs. 2 Nr. 2 WahlO. (4) Die Entschädigungen werden jeweils am Ende des Halbjahres ausgezahlt.
+§ 12 Ergänzende Bestimmungen
+Ergänzend gilt die Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln in der jeweils aktuellen Fassung.
+Seite 6 von 7
+
+§ 13 Inkrafttreten Diese Geschäftsordnung tritt am Tag nach der Bekanntmachung im Amtsblatt der Stadt Köln in Kraft. Die bisherige „Geschäftsordnung für die Bezirksarbeitsgemeinschaften Seniorenpolitik und die Stadtarbeitsgemeinschaft Seniorenpolitik der Stadt Köln“ gilt vom gleichen Zeitpunkt an als aufgehoben. - ABl StK 2011, S. 74 -
+Seite 7 von 7
