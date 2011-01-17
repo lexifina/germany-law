@@ -1,0 +1,95 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2216846
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2216846
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Nachbetrachtungen zur Bürgerversammlung am 02.12.2010
+- TOP 2.2.: Entwicklung eines Wartehäuschen, die für schmale Gehwege geeignet sind (Schreiben des BA 20 Hadern)
+- TOP 2.3.: Ampelanlage Dachauer Straße / Leipziger Straße (vertagt aus der Sitzung am 13.12.2010)
+- TOP 2.4.: Abbiegeverbot in der Dachauer Straße zu Fa. Dehner und Fa. HIT
+- TOP 2.5.: Buslinie 50
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Budgetbericht
+- TOP 3.2.: Spielplatz Holledauer Str.
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Feldmochinger - / Torgauer Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 3.2.: Eröffnung Moosacher Bahnhof
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Bahnübergang Fasanerie
+- TOP 4.2.: Betrieb der Post und der Postbank in Moosach auch während der Bauzeit
+- TOP 4.3.: S-Bahnhof Moosach
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Sanierung Baldurstraße
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung einer Teilstrecke der Emmy-Noether-Straße und von Teilstrecken des Agnes-Pockels-Bogens
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Olympischer Sportclub München Badminton für 3. und 4. Klassen der Grundschule am Amphionpark
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Olympischer Sportclub München Badminton für 3. und 4. Klassen der Grundschule an der Gerastraße
+- TOP 5.3.: Gewährung eines Zuschusses aus dem Budget des BA 10: Olympischer Sportclub München: Badminton für 3. und 4. Klassen der Grundschule am Amphionpark
+- TOP 6: Anhörungen
+- TOP 6.2.: REGSAM - München spart Steuergelder - REGSAM wird künftig auf ehrenamtlicher Basis geführt
+- TOP 6.3.: Vollzug der Baumschutzverordnung: Bauvorhaben Hugo-Troendle-Straße
+- TOP 6.4.: Ausschreibung: ?Spielorte neu entdecken - Kinderorte im Stadtteil sichtbar machen!? (Arbeitstitel) erweitertes Konzept für den Weltkindertag im Stadtbezirk
+- TOP 6.5.: Planung der Einsätze der Münchner Sommer SpielAktion 2011
+- TOP 6.6.: Werbeanlage Hanauer Straße 68
+- TOP 6.7.: Straßenfasching ?St. Martins Platz? am 26.02.2011
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Erneuerung des Straßenbelages der Dachauer Straße im Bereich der Borstei (Die Sanierung einzelner Schadstellen wird vorgemerkt. Die Umsetzung hängt von der Bereitstellung der finanziellen Mittel ab.)
+- TOP 7.2.: Einrichtung eines Bürgerbüros in dem geplanten Kompro/B-Haus mit Kinderkrippe in der Bunzlauer Straße (Eine Verlagerung des Bürgerbüros in das genannte Gebäude kommt nicht in Frage.)
+- TOP 7.3.: Aufstellung eines Hinweisschildes ?Fernverkehr geradeaus? an der Kreuzung Feldmochinger Straße / Max-Born-Straße (An der besagten Kreuzung befindet sich bereits ein LKW-Durchfahrtsverbot; Eines zusätzlichen Hinweisschildes ?Fernverkehr geradeaus? bedarf es daher nicht mehr.)
+- TOP 7.4.: Bürgersteigparken in der Franz-Fihl-Straße (Einrichtung eines absoluten Haltverbotes im betreffenden Bereich)
+- TOP 7.5.: Gehwegparken Dachauer Straße (Rundschreiben der SWM an ihre Mitarbeiter)
+- TOP 7.6.: Rauchen vor dem Schulgebäude (Rauchverbot besteht bereits.)
+- TOP 7.7.: Parkbuchten in der Feldmochinger Straße und Pelkovenstraße (Parkbuchten entsprechend den allgemein gültigen Regeln der Technik.)
+- TOP 7.8.: Erhalt der Wartehäuschen der Buslinie 50 an den Haltestellen Andernacher Straße und Ehrenbreitsteiner Straße (Zunächst bleiben die Wartehalle bestehen; Über das weitere Vorgehen wird im Frühjahr entschieden.)
+- TOP 7.9.: Fahrradständer vor Tengelmann, Dachauer Str. 423 (Standort wird mit ins Fahrradstellplatzkonzept einbezogen)
+- TOP 7.10.: Beleuchtung des Bolzplatzes in der Oskar-Barnack-Straße beim Freizeitheim ?Boomerang? (Zwischennachricht)
+- TOP 7.11.: Satzungsänderung Versammlungen (verwaltungsrechtliche Erlaubnis ist nicht erforderlich, daher nur Unterrichtungsrecht möglich)
+- TOP 7.12.: Geschwindigkeitsüberschreitungen in Spielstraßen
+- TOP 7.13.: Umsteigesituation am Moosacher Bahnhof
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Anhörungsverfahren 2. S-Bahn-Stammstrecke (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.4.: Mehrjahresinvestitionsprogramm für die Jahre 2010 - 2014 mit verbindlicher Planung für 2015; Entwurf für das Baureferat (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.5.: Haushaltsplan 2011 - Ansätze der zentralen Bereiche - Schlussabgleich (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.6.: Mehr Einflussmöglichkeiten für junge Menschen 1 (Antwort zum Stadtratsantrag)
+- TOP 8.7.: Dank für Verlängerung der U 3 bis Moosach (Bürgerschreiben)
+- TOP 8.8.: 15. Moosacher StadtteilKulturTage 2011 ? Einladung zum Infoabend
+- TOP 8.9.: Postzustellung durch Postdienstleister Süd-Post (Antwort auf BA-Antrag)
+- TOP 8.10.: Unveränderte Fortführung eines Gaststättenbetriebs; hier: a) Caffe Ole, Pelkovenstr. 42 b) Vereinswirtschaft des Kleingartenvereins NW 12, Nederlinger Str. 80
+- TOP 8.11.: Umsteigesituation im Bahnhof Moosach (Antwortschreiben Baureferat)
+- TOP 8.12.: Jahresbericht 2009 des Stadtjugendamtes (Bericht in der Geschäftsstelle)
+- TOP 8.13.: Baumaßnahmen der SWM Stromprojekt Breslauer Straße
+- TOP 8.14.: Protokolle der Bürgerforen zum Lärmschutz im Internet
+- TOP 8.15.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen
+- TOP 8.16.: Kulturfest ?München ist bunt? am 13.11.2010 (Schreiben BA 2)
+- TOP 8.17.: Veranstaltung am 13.11.2010 (Schreiben BA 1)
+- TOP 8.18.: Dank für Fahrradrechen Hugo-Troendle-Straße (Bürgerschreiben)
+- TOP 8.19.: Umfirmierung GWG München
+- TOP 8.20.: Information über das Betriebskonzept während der Kabelarbeiten für die Erneuerung des Stellwerks Scheidplatz
+- TOP 8.21.: Genehmigung der Zweckentfremdung von Wohnraum: Weidmannstraße
+- TOP 8.22.: Münchner Konzept ?Mittelschulen?
+- TOP 8.23.: Verkehrsrechtliche Anordnungen a) Memminger Platz b) Gehweg ?Radfahrer frei? in der Breslauer Straße c) Haltestelle ?Georg-Brauchle-Ring? der Linie 175: Verlegung in die Gärtnerstraße
+- TOP 8.24.: Fällungsantrag Baubergerstraße - Bescheid
+- TOP 8.25.: Entwicklung des Verkehrs in München (Satzungsbeschluss)
+- TOP 8.26.: Nahverkehrsplan (NVP) der Landeshauptstadt München
+- TOP 8.27.: Wasserstandszahlen
+- TOP 6.1.: Bauvorhaben Vilniusstraße (ehem. Südkraft-Gelände)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
