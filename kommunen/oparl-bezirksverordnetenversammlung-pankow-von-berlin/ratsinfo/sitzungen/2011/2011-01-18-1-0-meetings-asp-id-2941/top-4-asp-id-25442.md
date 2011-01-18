@@ -1,0 +1,7 @@
+# TOP 4: Ergebnisse der Parkraumbewirtschaftung - 1. Vierteljahr
+
+- Sitzung: öffentliche Sitzung des Ausschusses für öffentliche Ordnung, Verkehr und Verbraucherschutz (2011-01-18)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=25442
+- Ergebnis: erledigt
