@@ -1,0 +1,107 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-01-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205107
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205107
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Damenstiftstraße 11: Einladung der Mieter, der Eigentümerin und LBK in den Unterausschuss (in den UA am 07.02.2011 vertagt, da die Untersuchungen zur Bausubstanz noch nicht vorliegen)
+- TOP .2.: Zweibrückenstraße 11: Gemeinsamer Unterausschuss PBW und V & U am 10.01.2011
+- TOP .1.: Bürger: Sachstandsbericht zum Fina-Parkhaus in der Neuturmstraße
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: BA: Bolzplatz der Glockenbachwerkstatt
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Hackenstraße 7 (abgesetzt, weil noch keine denkmalschutzrechtl. Stellungnahmen vorliegen)
+- TOP .2.: Frauenstraße 4
+- TOP .3.: Emil-Riedel-Straße 2
+- TOP .4.: Altheimer Eck 14
+- TOP .5.: Zweibrückenstraße 11
+- TOP .6.: Promenadeplatz 3
+- TOP .7.: Maximilianstraße 30 - 30a
+- TOP .8.: Sendlinger Straße 10
+- TOP .9.: Sendlinger Straße 8
+- TOP .10.: Residenzstraße 2
+- TOP .1.: Bürger: Informationen zur Änderung der Reinigungsklassen im Stadtbezirk 1
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Infoveranstaltung ?Train of Ideas?
+- TOP .2.: Rosenkranzgebete 2011
+- TOP .3.: Standkonzert in der Neuhauser Straße
+- TOP .1.: Bürger: Busparkplätze Thomas-Wimmer-Ring
+- TOP .2.: Bürger: Kontrolle des widerrechtlichen Parkens am Prälat-Miller-Weg 1/3
+- TOP .3.: Bürger: Fußgängerampel Steinsdorfstraße / Mariannenbrücke
+- TOP .4.: Bürger: Gehsteigmarkierung ?Arzt? vor der Einfahrt Thierschstraße / Mannhardstraße
+- TOP .1.: Bürger: Kulturelle Nutzung der ehemaligen Riemerschmied-Gebäude
+- TOP .1.: Budgetantrag: Initiative ?Pro Migrakunst? - Fachtagung am 19./20.02.2011 im Gasteig
+- TOP .2.: NACHTRAG: UA KSB: Minderjährige in Spielhallen
+- TOP .2.: Budgetantrag: Kinderschutz e.V. - Projekt ?Schule und Kunst?
+- TOP .3.: NACHTRAG: Bürger: Beleuchtung der Gebäude auf der Praterinsel
+- TOP .1.: (E) Budget der Bezirksausschüsse Kinderschutz e.V. Projekt "Kunst und Schule" vom 24.01.11 - Mai 2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Init. "Pro Migrakunst" Fachtagung am 19./20.02.2011 im Gasteig
+- TOP .1.: Antrag der FDP-Stadtratsfraktion: REGSAM wird zukünftig auf ehrenamtlicher Basis geführt
+- TOP .2.: Standortsuche Sommer SpielAktion 2011
+- TOP .3.: Weltkindertag 2011
+- TOP .1.: Einrichtung eines Ferienausschusses am 10. August 2011
+- TOP .2.: Neujahrstreffen am 25.01.2011
+- TOP .3.: Bürgeranfrage aus der Bürgerversammlung 2010: Bürgerversammlung wegen Witterungsverhältnissen 1 ? 2 Monate vorverlegen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Unterlagen zum Haushaltsentwurf 2011
+- TOP 0.2.: Antwortschreiben des KVR zum ?Heldengedenktag 2010?, TOP 2010.11 A 6.1
+- TOP 0.3.: Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 0.4.: Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011: Teilnahme der Bezirksausschüsse an Wettbewerben; Benennung und Entsendung von Stellvertretern
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antwortschreiben von Accumulata zu: Neubau Residenzpost, energetische Effizienz, 2010.10 B 3.1.3
+- TOP 0.5.: Baugenehmigung Theatinerstraße 46
+- TOP 0.6.: Antwortschreiben zur Beschwerde über den Terrazzoboden im Stachus-UG, TOP 2010.11 A 3.3
+- TOP 0.7.: Beschluss des Kommunalausschusses vom 09.12.2010: Altbaumodernisierung Blumenstr. 29
+- TOP 0.8.: Antwortschreiben des Kommunalreferats zum BA-Antrag Nr. 2429: Bolzplatz Glockenbachwerkstatt
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.6.: Benachrichtigung eines Bürgers zum Abbau der Baustrommasten in der Herrnstraße, TOP 2010.12 C 1.1
+- TOP 0.7.: Gemüsestand Thierschplatz
+- TOP 0.8.: Eilentscheidung: Zustimmung zum Silvesterfeuerwerk des P1
+- TOP 0.1.: Verkehrsrechtliche Anordnung (Extraordner)
+- TOP 0.2.: Beschluss des Kreisverwaltungsausschusses vom 14.12.2010: Ausdehnung Blaue Zone auf weitere Altstadtgebiete, Tempo 30 in der Altstadt
+- TOP 0.3.: Baubeginnanzeige Mobilfunksendeanlage
+- TOP 0.4.: Schreiben des BA 1 bzgl. der Befahrung des St.-Anna-Platzes durch Kraftfahrzeuge
+- TOP 0.5.: Beschluss des Kreisverwaltungsausschusses vom 14.12.2010: Vereinheitlichung der Parklizenzgebühren, BV-Empfehlung Nr. 479 aus der BV vom 01.12.2009
+- TOP 0.6.: Antwortschreiben zur Ausbesserung des Straßenbelags am Fußgängerüberweg Steinsdorftstraße auf der Höhe der St. Lukaskirche, TOP 2010.09 A 3.1
+- TOP 0.7.: Schreiben des BA 1 zum Rastbegehren zur 2. S-Bahn-Stammstrecke, TOP 2010.11 D 1.3 N
+- TOP 0.8.: Zwischennachricht: Temporäre Umwandlung von KFZ-Stellplätzen in Fahrrad-abstellplätze, BA-Anträge 2161 und 2545
+- TOP 0.9.: Beschluss des Bauausschusses vom 07.12.2010: Kann die Umgestaltung des Tals vorgezogen werden?
+- TOP 0.10.: Vereinheitlichung der Parklizenzgebühren
+- TOP 0.11.: Beschluss des Planungsausschusses vom 12.01.2011: Nahverkehrsplan der LHM
+- TOP 0.12.: Beschluss des Planungsausschusses vom 12.01.2011: Entwicklung des Verkehrs
+- TOP 0.13.: Fahrbahnbelagserneuerung Steinsdorfstraße 2 und 8 - 10
+- TOP 0.1.: Schreiben des Direktorium zu Verwendungsnachweis Budgetantrag ?Kinderprogramm für das Stadtgründungsfest, TOP 2010.05 E 2.2
+- TOP 0.2.: Sachbericht Theater des hölzernen Gelächters
+- TOP 0.3.: Verwendungsnachweis digitalanalog e.V., TOP 2010.04 E 2.3
+- TOP 0.5.: Antwortschreiben des Kulturreferats zur Anfrage des BA bzgl. der Erarbeitung der Kriterien für den Kulturstrand für München, TOP 2011.01
+- TOP 0.6.: Bekanntgaben im Ausschuss für Bildung und Sport zu Klassenständen
+- TOP 0.7.: Verwendungsnachweis Theater des hölzernden Gelächters
+- TOP 0.8.: Verwendungsnachweis Teamtheater Tankstelle e.V.
+- TOP 0.9.: Rückzahlungsanordnung der Bezuschussung von ZAB e.V. zur Anschaffung eines Kleinbusses
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 0.4.: Beschluss des Kreisverwaltungsausschusses vom 14.12.2010: Kulturstrand für München
