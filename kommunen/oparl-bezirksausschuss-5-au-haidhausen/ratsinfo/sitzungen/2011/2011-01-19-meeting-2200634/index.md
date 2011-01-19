@@ -1,0 +1,116 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-01-19T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2200634
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2200634
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schrifliche eingegangene Bürgeranliegen
+- TOP 4.2.1.: Situation beim Anwesen Paulanerplatz 1
+- TOP 4.2.2.: Kurzbericht Kidz Foto-Workshop
+- TOP 4.2.3.: Lärmschutzmaßnahmen in der Baulücke zwischen Hotel und Biedermeierhaus
+- TOP 4.2.4.: Abbiegerstau vom Innsbrucker-Ring-Tunnel zum Leuchtenbergtunnel bis zur Ausfahrt Einsteinstraße
+- TOP 4.2.5.: Barrierefreier Zugang zur Mariahilfkirche
+- TOP 5: Anträge
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Init. Pro Migrakunst Fachtagung am 19./20.02.2011 im Gasteig - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Init. "Jazz und Haiku" c/o Goodman Projekt "Jazz und Haiku" am 29.05.11 im Gasteig - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP 6.3: Sonstige Entscheidungen
+- TOP 8.1: Erledigte BA-Anträge und Anfragen
+- TOP 8.1.1.: Keine Parklizenzen für Inhaber von Zweitwohnungen
+- TOP 8.1.2.: B+R am Ostbahnhof
+- TOP 8.1.3.: Baumpflanzungen Breisacher-/ Pariser Str.
+- TOP 8.1.4.: Verkehrsaufkommen in der Rosenheimer Straße reduzieren
+- TOP 8.1.5.: Lärmschutzmaßnahmen in der Baulücke zwischen Hotel und Biedermeierhaus in der Rosenheimer Straße
+- TOP 8.1.6.: Wettbewerb zur Umgestaltung des Orleansplatzes
+- TOP 8.1.7.: Fahrkartenzahlung an den Automaten der MVG und der DB auch mit Kreditkarte und EC-Karte
+- TOP 8.1.8.: Verkehrsberuhigung der Rosenheimer Straße
+- TOP 8.1.9.: Tödlicher Unfall am 30.09.2010 an der Kreuzung Rosenheimer Straße/Pariser Straße - Erforderliche Maßnahmen zur Verbesserung der Verkehrssicherheit
+- TOP 8.1.10.: Verkehrssicherheit in der Rosenheimer Straße nach dem Verkehrsunfall vom 30.09.2010
+- TOP 8.1.11.: LZA Rosenheimer Str./ Pariser Str. - Verbesserungen nach dem Unfall am 30.09.2010
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Geruchsbelästigung und Brand in der Grillparzerstr. 5, hier: Schreiben des KVR vom 07.12.2010
+- TOP 8.2.2.: Schulwegsicherheit, Ampelschaltung Grillparzer-/ Einsteinstr., hier: Schreiben des KVR vom 07.12.2010
+- TOP 8.2.3.: Verlegung von Platten auf dem Fußgängerweg vor der Gravelottestr. 14 nach Beendigung der Baumaßnahmen; hier: Schreiben des Baureferats vom 13.12.2010
+- TOP 8.2.4.: Zustand des Radweges in der Kirchenstraße, hier: Schreiben des Baureferats vom 08.12.2010
+- TOP 8.2.5.: Radfahren auf der Rosenheimer Straße, Aufstellung eines Verkehrsschildes ?Radweg Ende?; hier: Schreiben des Kreisverwaltungsreferats vom 16.12.2010
+- TOP 8.2.6.: Fortsetzung der Übernahme der Kosten des Privatschulbesuchs von Kindern mit Behinderung durch die Landeshauptstadt München, hier: Schreiben des Sozialreferats vom 29.12.2010
+- TOP 8.2.7.: Querungsmöglichkeit vom Michael-Huber-Weg auf Höhe der Kirchenstraße 81, hier: Schreiben des Baureferats vom 27.12.2010
+- TOP 8.3: Sonstige Unterrichtungen
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 1.1.: REGSAM ? München spart Steuergelder ? REGSAM wird künftig auf ehrenamtlicher Basis geführt (Antrag der FDP-Stadtratsfraktion) Anhörung zum Beschlussentwurf des Sozialreferats
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 1.1.: Siehe TOP A 6.1
+- TOP 2.1.: Lucile-Grahn-Str. 38: Nutzungsänderung von Büroflächen im 2. und 3 OG in 4 Wohnungen sowie einer Ladenfläche im EG in eine Gaststätte
+- TOP 2.2.: Welfenstr. 42-44: Aufstellung von 10 Plakattafeln als Bauzaun
+- TOP 2.3.: Rosenheimer Str.: 1 Werbeanlage Mega Light
+- TOP 2.4.: Marktveranstaltungen auf dem Orleansplatz 2011, Platzvergabe nach Grünanlagensatzung
+- TOP 2.5.: Spieleaktionen des AKA e.V. im Hypopark, am Johannisplatz, auf der Postwiese und am Tassiloplatz
+- TOP 2.6.: Planung der Einsätze der Münchner Sommer SpielAktion 2011, Schreiben Pädagogische Aktion/ Spielen in der Stadt e.V. vom 07.12.2010
+- TOP 2.7.: Bauvorhaben Einsteinstr. 130; Einbau eines Einzelhandelsgeschäftes im 1. OG - VORBESCHEID
+- TOP 3.1.: Budgetantrag Internationales Stadtteilfest am 04.07.2010, hier: Schreiben des Direktoriums vom 30.11.2010
+- TOP 3.2.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung Beschluss des Bauausschusses vom 07.12.2010
+- TOP 2.1.: Bauvorhaben Pariser Str. 25: Umbau einer Wohnung, Errichtung eines Balkons und Einbau eines Glasdachs über dem DG-Balkon
+- TOP 2.2.: Bauvorhaben Entenbachstr. 28: Energetische Sanierung SB-Laden, neuer Dachaufbau und Dämmung der Fassaden
+- TOP 2.3.: Bauvorhaben Pariser Str. 36: DG-Ausbau im Vordergebäude
+- TOP 2.4.: Bauvorhaben Haidhauser Str. 5: Neubau zweier Wohneinheiten durch Aufstockung zweier Pavillions (Haidhauser Str. 5 + 11)
+- TOP 2.5.: Bauvorhaben Haidhauser Str. 7-9: Dachaufstockung
+- TOP 2.6.: Bauvorhaben Breisacher Str. 3: DG-Ausbau
+- TOP 2.7.: Bauvorhaben Einsteinstr. 106: Neubau eines Wohn- und Geschäftshauses mit Tiefgarage sowie Abbruch der Tankstelle und Teilabbruch der vorhandenen Tiefgarage - TEKTUR
+- TOP 2.8.: Bauvorhaben Einsteinstraße 104: Anbau an ein Wohn- und Geschäftshaus mit TG; Abbruch der Tankstelle sowie Teilabbruch der vorhandenen Tiefgarage - TEKTUR
+- TOP 2.9.: Projekt Holzhaus Lilienstraße der GWG
+- TOP 3.1.: Genehmigungsbescheid Ismaninger Str. 22, Mitteilung des Referats für Stadtplanung und Bauordnung vom 26.11.2010
+- TOP 3.2.: Genehmigungsbescheid Ruhestr., Mitteilung des Referats für Stadtplanung und Bauordnung vom 14.12.2010
+- TOP 2.1.: Verkehrsrechtliche Anordnung: Grillparzerstraße Geradeausgebot
+- TOP 2.2.: Generalplan für Fahrradabstellplätze, hier: Zwischennachricht, Bitte um Fristverlängerung
+- TOP 2.3.: Parkplätze für die Dienstfahrzeuge der Weißen Feder
+- TOP 2.4.: Kreuzung Asam- / Schlotthauerstraße
+- TOP 3.1.: Verkehrsrechtliche Anordnung: Parkraummanagement, Parklizenzgebiet ?Grillparzerstraße?, Anpassung weiterer Straßenabschnitte der Grillparzerstraße an die Parklizenzierung
+- TOP 3.2.: München setzt auf's Rad 2, Von Nachbarn in den Niederlanden und in Dänemark lernen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.2010
+- TOP 3.3.: Mobilität in Deutschland (MiD), Befragung zum Alltagsverkehr in München Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 08.12.2010
+- TOP 3.4.: Baumfällung Balanstr. 17, Bescheid vom 17.11.2010
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mi, 02.02.2011, 18.30 Uhr, KIM-Kino im Einstein, Einsteinstr. 42; UA WAS: Mo, 31.01.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA Wirtschaft: Di, 08.02.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA Planung: Do, 10.02.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA GUV: Mo, 07.02.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.1.: Mi, 16.02.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4: Sonstige Termine
+- TOP 4.1.: Fachtagung Migration und Integration am 19./20.02.2011 im Gasteig/Blackbox
+- TOP 4.2.: Abendforum ?Holz ? der ideale Baustoff, auch in der Großstadt? am 21.01.2011, 17:00 bis 19:00 Uhr, Bauzentrum München
+- TOP 4.3.: Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse in der Gleichstellungsstelle für Frauen, 22.02.2011, 17:00 -19:00 Uhr, Rathaus, Raum 109
+- TOP 6: Entscheidungen (1)
+- TOP 1: (E) Pariser Platz als Grünanlage widmen Antrag Nr. 2569 des Bezirksausschusses des 5. Stadtbezirkes Au-Haidhausen vom 17.11.2004 Umwidmung zur öffentlichen Grünanlage Antrag Nr. 02-08 / A 02102 von Herrn Stadtrat Mario Schmidbauer vom 18.11.2004 Umwidmung des Pariser Platzes zur Grünanlage Empfehlung Nr. 02-08 / E 00009 der Bürgerversammlung des 5. Stadtbezirkes Au-Haidhausen, Bezirksteil Haidhausen am 24.02.2005 - <div></div>
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
