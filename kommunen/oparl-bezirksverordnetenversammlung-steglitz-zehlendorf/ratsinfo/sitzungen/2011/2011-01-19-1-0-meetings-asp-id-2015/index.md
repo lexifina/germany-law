@@ -1,0 +1,103 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2011-01-19T17:00:00+01:00
+- Ende: 2011-01-19T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2015
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2015
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Sporthalle der Kästner-Schule - beantwortet
+- TOP 3.2: Schul- und Schulsportanlagensanierungsprogramm - beantwortet
+- TOP 3.3: Zukunft des Steglitzer Kreisels - beantwortet
+- TOP 3.4: Hals- und Beinbruch am S-Bahnhof Zehlendorf - beantwortet
+- TOP 3.5: Stand Kriterienkatalog Solaranlagen - beantwortet
+- TOP 3.6: Zerstörter Bürgersteig an der Schloßstraße - beantwortet
+- TOP 3.7: Erheblicher Sachschaden am Fichtenberg-Gymnasium - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Genehmigung von über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen im Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Übersicht über die im ersten Halbjahr 2010 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6 - 17 Ba [Kranoldplatz] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Verkehrschaos rund um die AVUS - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Jungimker fördern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Franz-Amrehn-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Keine Kostenbelastung für Anwohner - ohne Änderungen in der BVV beschlossen
+- TOP 4.5.3: Bauvorhaben der Wasserbetriebe im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Aufhebung der Sperre zum Investitionsvorhaben Radwegsanierung Wolfensteindamm (Drs. Nr. 1152/III) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Photovoltaik - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Keine "Laubpuster" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Parkraum in der Ritterstraße legalisieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Beleuchtung Hermann-Ehlers-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Einbahnstraßen Mozartstraße / Gärtnerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Straßenbenennung nach Caecilie Seler-Sachs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Informationsstele zum Wandervogel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Sicherer zweiter S-Bahnausgang in Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Natürliche Aussaat von Gehölzen nutzen - in der BVV abgelehnt
+- TOP 4.5.14: Mit Regional- und S-Bahn am AVUS-Stau vorbeifahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Aufnahme von Peter Giese in die bezirkliche Straßenbenennungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.16: Neue Postfiliale Potsdamer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.17: Parksituation auf dem Gustav-Hartmann-Platz (S-Bahnhof Wannsee) verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.18: Beleuchtung an der Waltershauser Straße / Ecke Sportplatzweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.19: "Geheimer S-Bahnhof" Lichterfelde-West - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.20: Brücke über den Teltower Damm: Durchfahrt verbreitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.21: Fahrradstraße in der Markelstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringliche Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Neuwahl von ehrenamtlichen Mitarbeitern - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Grüne Welle auf der Clayallee - überwiesen
+- TOP 5.2.2: Bebauungsplan Curtiusstraße westlich und östlich des Kadettenwegs - überwiesen
+- TOP 5.2.3: Seniorenfreizeitstätte Maria Rimkus - überwiesen
+- TOP 5.2.4: Tempo 30 in der Lindenthaler Allee zwischen Clauertstraße und Potsdamer Chaussee - überwiesen
+- TOP 5.2.5: Lärmbelästigung durch AVUS - überwiesen
+- TOP 5.2.6: Informationen über Erweiterungs- oder Ergänzungsbauten von Schulgebäuden - überwiesen
+- TOP 5.2.7: Busbeschleunigung M 48 - überwiesen
+- TOP 5.2.8: Das Losverfahren zur Aufnahme in die Gymnasien in Steglitz-Zehlendorf aussetzen - überwiesen
+- TOP 5.2.9: Umfahrung der Staufalle AVUS-Baustelle - überwiesen
+- TOP 5.2.10: Mittagessen für alle Grundschüler zum gleichen Preis - überwiesen
+- TOP 5.2.11: Kunst am "Bierpinsel" - überwiesen
+- TOP 5.2.12: Unterstützung für das Volksbegehren Grundschule - überwiesen
+- TOP 5.2.13: Integration von Menschen in die Arbeitswelt fördern - überwiesen
+- TOP 5.2.14: Toiletten am Spielplatz Elfiewiese - überwiesen
+- TOP 5.2.15: Mauer-Gedenken auch in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.16: Lydia Rabinowitsch-Kempner ehren - überwiesen
+- TOP 5.2.17: SMS-Service jetzt im Bürgeramt Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.18: "Zebrastreifen" an der Kita der FU Berlin - überwiesen
+- TOP 5.2.19: In die Bibliothek in Steglitz-Zehlendorf - auch am Sonntag! - überwiesen
+- TOP 5.2.20: Gestaltung des "Gartens der Stille" im Gemeindepark Lankwitz - überwiesen
+- TOP 5.2.21: Bezirksweites Monitoring Verwaltungsreform - überwiesen
+- TOP 5.2.22: Straßenreinigung - überwiesen
+- TOP 5.2.23: Evaluierung der Kundenzufriedenheit im Bezirksamt - überwiesen
+- TOP 5.2.24: Veränderung als Chance und Herausforderung: Aktives Changemanagement in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.25: Trägerentwicklungsplan Jugendamt: Klarheit was mit wem! - überwiesen
+- TOP 5.3: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.3.1: Zustimmung zur Erneuerung der südwestlichen Richtungsfahrbahn der Thorwaldsenstraße zwischen Göttinger Straße und Bergstraße auf der Grundlage des Straßenausbaubeitragsgesetzes - überwiesen
+- TOP 5.3.2: Umwandlung von Real-, Haupt- und Gesamtschulen in integrierte Sekundarschulen - überwiesen
+- TOP 6: Haushaltsangelegenheiten - erledigt
+- TOP 6.1: Ausschussanträge - erledigt
+- TOP 6.1.1: Sondermittel der BVV für den Botanischen Verein von Berlin und Brandenburg e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.1.2: Sondermittel der BVV für die John-F.-Kennedy-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.2.1: Anmeldungen für die Investitionsplanung 2011 bis 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Alles im Griff bei Schulbauten? - schriftlich beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Einweihung Jürgen-Fuchs-Platz - überwiesen
+- TOP 8.2: Platz vor ehemaligem Postgebäude in der Martin-Buber-Straße - überwiesen
+- TOP 9: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 9.1: Realisierung der Pocket-Plätze an der Schloßstraße gemäß BVV-Beschluss Nr. 550 und der Vorlage zur Kenntnisnahme vom 17.08.2010 - in der BVV abgelehnt
+- TOP 9.2: Vorstellung Bauvorhaben Sanierung des Rathauses Zehlendorf auf Nullheizenergie (SARAZENU) in der Öffentlichkeit - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Schlusswort des Vorstehers - erledigt
