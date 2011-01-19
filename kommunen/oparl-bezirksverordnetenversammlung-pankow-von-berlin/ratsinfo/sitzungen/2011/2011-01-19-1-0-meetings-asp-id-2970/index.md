@@ -1,0 +1,76 @@
+# 39. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-01-19T17:30:00+01:00
+- Ende: 2011-01-19T20:34:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2970
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2970
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=43260
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.9: Spielstraße an der Gethsemanekirche - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Unterstützung für Ganztagsgymnasien - zurückgezogen
+- TOP 1.11: Fußgängerfreundliche Gestaltung in der Stargarder Straße vor der Gethsemanekirche - in der BVV abgelehnt
+- TOP 1.12: Anmeldung des Bezirks Pankow zum berlinweiten Modellprojekt "Begegnungszonen" - in der BVV abgelehnt
+- TOP 1.13: Autobahnanschlussstelle für Karow und Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Sozialverträgliche Sanierungen und Modernisierungen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: gethsemanePLATZ/ Platz der friedlichen Revolution - in der BVV abgelehnt
+- TOP 1.16: Wort halten bei Personalkostenbudgetierung - zurückgezogen
+- TOP 1.17: Rückbau der Poller in der Pankgrafenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Erhaltungsverordnung Gebiet "Glaßbrennerstraße" - beantwortet
+- TOP 1.20: Städtische Wohnungsbaugesellschaften in Bezirken in die soziale Pflicht nehmen - überwiesen
+- TOP 1.21: Die Zukunft der Murkelbühne, des Prenzlkaspers und der Klangschmiede - beantwortet
+- TOP 1.22: Die Ausstellung "Die Mauer. Eine Grenze durch Deutschland" in Pankow zeigen - mit Änderungen in der BVV beschlossen
+- TOP 1.23: Kinder- und Jugendparlament im Bezirk Pankow - überwiesen
+- TOP 1.24: Berichterstattung der gemeinsamen Einrichtung - überwiesen
+- TOP 1.25: Direktübertragung der BVV-Tagungen im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Verbesserung der Verkehrssicherheit in der Buchholzer Straße - überwiesen
+- TOP 1.27: Jugendfarm Moritzhof und Kletterfelsen endlich planungsrechtlich dauerhaft sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Besseren Zugang zum S-Bahnhof Wollankstraße schaffen - überwiesen
+- TOP 1.29: Eindeutige Bezeichnung der Pankower Ortsteile - in der BVV abgelehnt
+- TOP 1.30: Entwicklung Brachfläche Neumannstraße - überwiesen
+- TOP 1.31: Speed-Vermittlungsbörse auch in Pankow - überwiesen
+- TOP 1.32: BVV-Sitzungen im Internet - zurückgezogen
+- TOP 1.33: Bestandsaufnahme Quartiersprägende Plätze - überwiesen
+- TOP 1.34: Umfahrung Hiddenseestraße verhindern! - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Ausbau der Infrastruktur in Sanierungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Kommunaler Klimaschutz (1): Bezirkliches Klimaschutzziel definieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Erweiterungsflächen für den Campus Berlin-Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Keine Mietverträge in Pankow mit rechtsextremen, antisemitischen und fremdenfeindlichen Organisationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Initiative im Eliashof - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Filmstadt Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Mauerpark fertig stellen - jetzt. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Verkehrssicherheit in Karow und Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Verkehrschaos in Pankow abmildern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Renovierung des Treppenhauses im Seniorenwohnhaus Binzstr. 30 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Die nachhaltige Entwicklung der Botanischen Anlage Blankenfelde wirksam unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12.1: Nutzungsvertrag für ein Projekt in der Botanischen Anlage Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Brücke Sudauer Straße im Ortsteil Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: KfW-Kredite für unsere Schulen nutzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Gartendenkmal Hirschhof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Attraktive Gestaltung der Schlossparkmauer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Blindengerechtes Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Fahrradabstellanlagen am S-Bahnhof Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Bebauungsplan IV-77 für die Grundstücke Am Friedrichshain 28, 29-32 ("Schweizer Garten") und Greifswalder Straße 22, 23; - Einschränkung des Geltungsbereichs - Aufstellung des Bebauungsplans 3-33 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Befristete Vermietung von Räumen im Gebäude Pappelallee 41 B an Nutzer aus dem Eliashof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Bebauungsplan XIX-26 für die Grundstücke Mühlenstraße 4-7, 10, 11 einschließlich des Flurstücks 19 in der Neuen Schönholzer Straße, Mühlenstraße 12, das Grundstück hinter Mühlenstraße 13/14, das Grundstück Florastraße 75 und das Grundstück Neue Schönholzer Straße 18 und Teilflächen des Grundstücks hinter Mühlenstraße 4 im Bezirk Pankow - Einschränkung des Geltungsbereichs - Aufstellung des Bebauungsplans 3-34 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Bestellung bezirklicher Mitglieder der Trägerversammlung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Bebauungsplan XIX-25 für das Gelände zwischen Breite Straße einschließlich Anger-, Berliner Straße, Schulstraße, Dusekestraße, Vogelsdorffstraße (ehemals Straße 22) im Bezirk Pankow - Einstellung des Verfahrens - Aufstellung des Bebauungsplans 3-35 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Benennungsabsicht für einen privaten Erschließungsweg im Ortsteil Französisch Buchholz in "Karlshöhe" - mit Abschlussbericht zur Kenntnis genommen
