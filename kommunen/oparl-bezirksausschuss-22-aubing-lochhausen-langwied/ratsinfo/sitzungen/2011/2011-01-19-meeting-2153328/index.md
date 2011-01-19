@@ -1,0 +1,92 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2011-01-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153328
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153328
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Hirmerweg 2 - Am Langwieder Bach, Fl.Nr. 2792/1, gem. Baumbestandsplan Nr. 2010-30928
+- TOP 3.2.: Baumfällungen zu einem Bauvorhaben: - Johannes-Tanner-Str. 5, gem. Baumbestandsplan Nr. 2010-29016 - Federseestr., Fl.Nr. 629/11, gem. Baumbestandsplan Nr. 2010-28843
+- TOP 3.3.: Genehmigung der Fällung eines Gefahrenbaumes, hier: Kohlsteiner Str. 4, Schr. Planungsreferat vom 08.12.10
+- TOP 3.4.: Ablehnung des Fällungsantrags - Kurt-Floericke-Str. 41, Schr. Planungsreferat vom 15.12.10
+- TOP 3.5.: Ablehnung des Fällungsantrags - Brunhamstr. 52, Schr. Planungsreferat vom 22.12.10
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.5: Migrationsbeauftragte
+- TOP 3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: BA-eigene Veranstaltung "Kinderball 2011"
+- TOP 5: Entscheidungen
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Aubinger Archiv e.V. Dokumentation der Ausstellung im Sept./Okt. 2010
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Förderverein 1000 Jahre Urkunde Aubing e.V. Dokumentation der Ausstellung (vertagt aus 11/10)
+- TOP 5.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied Widmung einer Teilstrecke eines unbenannten Feld- und Waldweges Nr. 106
+- TOP 5.4.: Entscheidung über Sperrzeitänderung, Antrag auf Sperrzeitaufhebung, Euroclub, Bodenseestr. 131
+- TOP 5.5.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Grundschule am Ravensburger Ring Einrichtung der Ganztagsklassen im Schuljahr 2010/11
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: REGSAM - München spart Steuergelder - REGSAM wird künftig auf ehrenamtlicher Basis geführt, Anhörung Sozialreferat vom 07.12.10 (vertagt aus 11/10)
+- TOP 6.2.: Ausschreibung Weltkindertag 2011, Anhörung Sozialreferat vom 29.12.10
+- TOP 6.3.: Winterspielaktion Wiesentfelser Straße vom 22.02.-24.02.11, Anhörung KVR vom 05.01.11
+- TOP 6.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2011, Schr. Spielen in der Stadt vom 07.12.10
+- TOP 6.2.: Veranstaltungen / Kooperationen Dezember 2010, Schr. Kulturreferat vom 03.12.10
+- TOP 6.3.: Bergsonstraße - Einrichtung einer Skateranlage, hier: Durchführung eines Ortstermins, Schr. Baureferat vom 15.12.10
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Init. "Verschönerung S-Bahnhof Aubing", Bescheid Direktorium vom 21.12.10
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Kompostieranlage der Fa. Schernthaner GmbH; Bekanntgabe aktuelle Betriebserlaubnis; Beteiligung der Öffentlichkeit am aktuellen Antrag für Optimierung und Änderung der Anlage, Anhörung Ref. f. Gesundheit u. Umwelt vom 09.12.10
+- TOP 6.2.: Verkehrsrechtliche Anordnung, Verkehrssicherheit Eschenrieder Straße / Kreuzkapellenweg, Vorfahrtsregelung, Anhörung KVR vom 28.12.10
+- TOP 6.3.: Mobilfunk in Lochhausen, Schr. Ref. f. Gesundheit u. Umwelt vom 23.12.10
+- TOP 6.4.: Voranfrage zur Straßenbenennung im Bereich Bergsonstr./ Kronwinklerstr., Anhörung Kommunalreferat vom 05.01.11
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 29.11.-05.12.10, v. 06.12.-12.12.10, 13.12.-19.12.10, 20.12.-26.12.10, 27.12.10-02.01.11), Schr. Planungsreferat vom 06.12.10, 13.12.10, 21.12.10, 27.12.10, 03.01.11
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 06.12.10, 13.12.10, 20.12.10
+- TOP 6.3.: Verlegung der Wertstoffinsel an der Wiesentfelser Straße, Schr. AWM vom 14.12.10
+- TOP 6.4.: Straßenbeleuchtung in der Papinstraße, Am Bahnsportplatz und Sportlerweg, Schr. Baureferat vom 08.12.10
+- TOP 6.5.: Änderungsgenehmigung für die Abfallentsorgungsanlage der Fa. Thyssen Dück, Antrag auf Durchführung eines immissionsschutzrechtlichen Genehmigungsverfahrens, Bescheid des Ref. f. Gesundheit u. Umwelt vom 09.12.10
+- TOP 6.6.: Schulbushaltestelle an der Gotzmannstr. 19; Änderung des Zeitzusatzes, Schr. KVR vom 08.11.10
+- TOP 6.7.: Ausgleichsflächen Langwieder Haide, Schr. Planungsreferat vom 20.12.10
+- TOP 6.8.: Barrierefreier Ausbau des S-Bahnhofes Lochhausen, Schr. Ref. f. Arbeit u. Wirtschaft vom 17.12.10
+- TOP 6.9.: Baumaßnahmen der SWM, Fernwärmeprojekt Erschließungsgebiet Westkreuz, Radolfzeller Str., Aubinger Str., Reichenaustr. / Ecke Friedrichshafener Str., Änderungen im Terminablauf, Schr. SWM vom 17.12.10
+- TOP 6.10.: Planfeststellung für das Bauvorhaben "Lärmsanierung in München-Lochhausen und München-Langwied", Bahn km 9,540-9,748 r.d.B. der Strecke 5503 München-Augsburg sowie Bahn km 11,540-11,827 und 13,250-13,364 l.d.B. der Strecke 5543 München-Pasing - Nannhofen, BA-Antrag Nr. 2277 vom 21.07.10, Schr. Planungsreferat vom 29.12.10
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: Weißensteinstraße, Schr. Sozialreferat vom 03.12.10
+- TOP 8.2.: Europe Direct Information 09/2010, Sonderausgabe 10/2010, 11/2010 Schr. Referat für Arbeit und Wirtschaft vom 06.12.10, 21.12.10 und 23.12.10
+- TOP 8.3.: Wirtschafts-Info 12/2010, Schr. Referat für Arbeit und Wirtschaft vom 20.12.10
+- TOP 8.4.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Riva", Wiesentfelser Str. 68, Schr. KVR vom 28.12.10
+- TOP 8.5.: Unveränderte Fortführung der Schank- und Speisewirtschaft "Sportgaststätte ESV Neuaubing", Papinstr. 22, Schr. KVR vom 23.12.10
+- TOP 8.6.: Zweckentfremdung von Wohnraum, Bergsonstr., Schr. Sozialreferat vom 30.12.10
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 15.12.10: Haushaltsplan 2011
+- TOP 10.2.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 16.11.10: Laufzeitverlängerung für Atomkraftwerke: Auswirkungen auf München
+- TOP 10.3.: Beschluss der Vollversammlung vom 24.11.10: - Haushaltskonsolidierung; 4. Haushaltssicherungskonzept - Ertüchtigung des Bahnknotens München: 2. Stammstrecke (geänderter Beschluss) - Planfeststellung nach § 18 AEG für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt 1 München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof - 1. Planänderung (UA Planung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.10: Ensemble ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes
+- TOP 10.5.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.11: - Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2010/2011 - Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule, Schuljahr 2010/2011 - Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2010/2011 - Schüler/innen und Klassenstand Berufliche Schulen der LH München im Schuljahr 2010/2011
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11: - Planungsrechtliche Sicherung des Spielplatzes nördlich der Kastelburgstraße zwischen Industriestraße und Mariabrunner Straße, Empfehlung Nr. 606 der Bürgerversammlung vom 29.06.10 - Entwicklung des Verkehrs in München - Verkehrskonzept im Münchner Westen - Nahverkehrsplan der LH München
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Wartehäuschen der MVG, Antrag des BA 20 vom 29.11.10 (UA Planung)
+- TOP 11.2.: Infoabende des Bauzentrums München, Januar - April 2011, Schreiben RGU vom 15.12.10
+- TOP 11.3.: Einladung zum Abendforum "Holz - der ideale Baustoff, auch in der Großstadt" des Bauzentrums München am 21.01.10, Schr. RGU vom 15.12.10
+- TOP 11.4.: Einladung zur Fachtagung Migration und Integration 2011 am 19./20.02.11 im Gasteig
+- TOP 11.5.: Werbenutzungsvertrag der LH München, Infoveranstaltung am 24.01.11 um 17.30 Uhr im Ref. f. Arbeit u. Wirtschaft, Herzog-Wilhelm-Str. 15, Raum 015
+- TOP 11.6.: Einladung zum Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am 22.02.11 von 17-19 Uhr im Rathaus, Schr. Gleichstellungsstelle vom 11.01.10
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 23.02.2011 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63.
+- TOP 13: Nichtöffentliche Sitzung
