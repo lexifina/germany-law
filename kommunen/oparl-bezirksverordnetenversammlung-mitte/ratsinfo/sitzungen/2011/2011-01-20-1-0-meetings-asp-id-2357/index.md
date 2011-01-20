@@ -1,0 +1,85 @@
+# 41. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-01-20T17:30:00+01:00
+- Ende: 2011-01-20T21:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2357
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2357
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=79088
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Schulverpflegung an den bezirklichen Oberschulen - warmes Mittagessen gefragt? - beantwortet
+- TOP 5.2: Schulstandort Berolinastraße - beantwortet
+- TOP 5.3: Jugendclub Ikarus - Austausch des pädagogischen Personals? - beantwortet
+- TOP 5.4: Armut macht krank - auch Roma-Familien - beantwortet
+- TOP 5.5: Endlich: Unbefristete Arbeitsverhältnisse im Ordnungsamt - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Wie viel Zukunft des Gendarmenmarktes liegt tatsächlich in den Händen des "Berliner Salons" am 25.01.2011? - beantwortet
+- TOP 6.2: Wohin Jette(t) die Ackerstraße 28? - beantwortet
+- TOP 6.3: Wie weiter mit dem August-Bebel-Platz und der Fashion-Week 2011? - beantwortet
+- TOP 6.4: Maßnahmeplanung und -umsetzung im JobCenter Mitte - beantwortet
+- TOP 6.5: Nikolaiviertel die Wiege Berlins stärken (3) - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Aus dem langen Weg wurde doch eine unendliche (traurige) Geschichte - schriftlich beantwortet
+- TOP 7.2: INSEK Luisenstadt - schriftlich beantwortet
+- TOP 7.3: Antisemitische Vorfälle an Schulen in Mitte - schriftlich beantwortet
+- TOP 7.4: Teilnahme des Bezirksamtes an Außenterminen: Gilt die fachliche Zuständigkeit? - schriftlich beantwortet
+- TOP 7.5: Just-in-Time - kam der Winter rein - schriftlich beantwortet
+- TOP 7.6: Umgang mit Drucksache 0554/III - schriftlich beantwortet
+- TOP 7.7: Neuer Anlauf für das Hansa-Theater? - schriftlich beantwortet
+- TOP 7.8: Leere Baumscheiben im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.9: Nachfragen zur Beantwortung der Kleinen Anfrage KA 0359/III "Brandsicherheit in den Schulen in Mitte" - schriftlich beantwortet
+- TOP 7.10: Mitte gegen illegale Wettbüros - Warum im Schneckentempo? - schriftlich beantwortet
+- TOP 7.11: Mitte gegen Spielhallen - Warum im Schneckentempo? - schriftlich beantwortet
+- TOP 7.12: Unvollständige Umsetzung des BVV-Beschlusses zur Drs.-Nr. 1795/III "Spielhallen: Wasch uns den Pelz und mach uns auch nass" - schriftlich beantwortet
+- TOP 7.13: Medizinische Versorgung von Flüchtlingen - schriftlich beantwortet
+- TOP 7.14: Querfinanzierung des Schuletats hier: Haushaltsplanentwurf 2012/2013 - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Vorhabenbezogener Bebauungsplanentwurf 1-45 VE (Hamberger) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-45 VE - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss gemäß § 35 Abs. 7 Nr. 5 AG KJHG i.V. mit § 35 Abs. 8 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Hansaplatz ohne Graffiti! - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Werbeflächen für Suchtprävention - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Hertha-Domizil an der Behmstraße erhalten! - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Ergänzendes Forderungsmanagement zur Schuldeneintreibung - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Keine zusätzliche Verkehrsbelastung der Siemensstraße! - überwiesen
+- TOP 12.6: Parkplatzsituation für Markthändler des Wochenmarktes "Hackescher Markt" - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Grillverbot im Großen Tiergarten aufrechterhalten - überwiesen
+- TOP 12.8: Mauerpark - Schritt für Schritt und nicht vom Weg abkommen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Bürgersicherheit bei Eis und Schnee - in der BVV abgelehnt
+- TOP 12.10: 50 Jahre Mauerbau im Bezirk sichtbar machen - in der BVV abgelehnt
+- TOP 12.11: Spielstätten - in der BVV abgelehnt
+- TOP 12.12: Keine Mehrheit für Institutionen in Quartiersräten durch die Hintertür! - überwiesen
+- TOP 12.13: Bürger über Straßenbaumaßnahmen laufend informieren. - überwiesen
+- TOP 12.14: Ahndung von Visitenkartenwerbung an Kraftfahrzeugen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Teilnahme am Projekt "Bildungsketten" - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Bürgerarbeit zu ÖBS-Bedingungen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Anzahl der Feuerwehrfahrzeuge nicht verringern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Löwenbrücke im Grossen Tiergarten endlich sanieren und wieder öffnen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Straßenbenennung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: City LightRun 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Bauarbeiten an der Rathausbrücke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Beschluss über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB, über das Ergebnis der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB und über die Durchführungder Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB zum Entwurf des Bebauungsplane 1-67 "Lehrter Straße Mittelbereich" für die Grundstücke Lehrter Straße 20-31 und 35, die angrenzenden Flurstücke 161, 163 .. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Bestätigung der Entscheidung des Begleitausschusses STÄRKEN vor Ort für die Förderperiode 2011 zur Förderung von Mikroprojekten in der Zeit vom 01.02.2011 bis 31.12.2011 im Rahmen des ESF-Bundesprogramms STÄRKEN vor Ort - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB und die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB des vorhabenbezogenen Bebauungsplans 1-43VE "ehemals Schultheiß" - mit Abschlussbericht zur Kenntnis genommen
