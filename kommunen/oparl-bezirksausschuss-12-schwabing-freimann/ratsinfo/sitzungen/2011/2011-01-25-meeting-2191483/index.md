@@ -1,0 +1,111 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2011-01-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2191483
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2191483
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Vorstellung der Kinderbetreuungseinrichtung ?Denk-mit!?, Ungererstraße 175
+- TOP .2.: Kißkaltplatz: Vorstellung der Projektstudie ?neuester Stand? durch LA Andreas Hautum ? Diskussion ? Beschlussfassung
+- TOP .3.: NACHTRAG: Vorstellung des STADTRAUM-Projekts der Kammerspiele auf dem Gelände der Bayern-Kaserne; Inszenierung: ?PERSER? von Aischylos
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse Antrag Nr. 08-14 / B 00249 des Bezirksausschusses 5 - Au-Haidhausen am 16.07.2008 Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011 Sitzungsvorlage Nr. 08-14 / V 04462
+- TOP .2.: Teilnahme der Bezirksausschüsse an Wettbewerben - Benennung und Entsendung von Stellvertretern; BA-Antrag Nr. 08-14 / B 01302 des Bezirksausschusses 10 ? Moosach vom 29.06.2009; Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011 Sitzungsvorlage Nr. 08-14 / V 05752
+- TOP .1.: Mehr Einflussmöglichkeiten für junge Menschen 1 Antrag Nr. 08-14 / A 01025 der Stadtratsfraktion DIE GRÜNEN / RL vom 01.09.2009
+- TOP .2.: NACHTRAG: Änderung BA-Katalog Kreisverwaltungsreferat Ziff. 13.2. Genehmigung von Schießstätten und Feuerwerken
+- TOP .10.: Sonstiges
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, hier: senkrecht stehender Schlitten zur Präsentation von FlowerBox-Produkten
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Lillweg 24, 1 Ahorn und 1 Fichte
+- TOP .2.: Baumfällungen zu Bauvorhaben: Lindberghstr., Fl.Nr.: 170/7, Neubau eines Großmengen-Wertstoffhofes mit angegliedertem Containerlager
+- TOP .3.: Baumfällungen zu Bauvorhaben: Domagkstr., Fl.Nr. 266/0, Neubau zweier Büro- und Dienstleistungsgebäude mit einem Parkhaus ? Vorbescheid (siehe auch TOP B.3.2.2.)
+- TOP .4.: Baumfällungen zu Bauvorhaben: Josef-Wirth-Weg 21, Neubau eines Studentenwohnheimes, 5 Bäume gemäß beiliegendem Plan
+- TOP .1.: Bauvorhaben: Leopoldstraße 23, Fl.Nr.: 4441/3, Errichtung einer Freischankfläche mit 94 m²; befristet auf 5 Jahre
+- TOP .2.: Bauvorhaben: Domagkstr., Fl.Nr. 266/0, Neubau zweier Büro- und Dienstleistungsgebäude mit einem Parkhaus ? Vorbescheid (siehe auch TOP B.3.1.3.)
+- TOP .3.: Bauleitplanung der Gemeinde Unterföhring Aufstellung eines vorhabenbezogenen Bebauungsplanes Nr. 72 a/10 für ein Bürogebäude und einen Kunstspeicher an der Neubruchstraße zur Änderung des Bebauungsplanes Nr. 72/03 im Baubereich C
+- TOP .1.: Neugestaltung Maria-Josepha-Straße: Verschmälerung, Umorganisation des Parkens, Baumpflanzungen und schwabing-übliche Leuchten (siehe auch TOP C.4.1.)
+- TOP .1.: Umwandlung des FFH-Gebiets der Fröttmaninger Heide in ein Naturschutzgebiet (siehe auch TOP C.5.1.3.)
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Hohenzollernstraße 14, Fl.Nr. 363/5, 1 Vogelkirsche
+- TOP .2.: Crailsheimstraße 3, Fl.Nr. 969/7, 1 Robinie
+- TOP .3.: Rohmederstraße 17a, Fl.Nr.: 106/13, 1 Spitzahorn
+- TOP .1.: Genossenschaftliche Mietwohnungen für Schwabing (Schreiben der Wogeno München e.G. vom 10.12.2010)
+- TOP .2.: Änderung / Bestellung von Dienstbarkeiten, Flurstück 58 (Tlfl.), Leopoldstraße 58
+- TOP .3.: Abbriss eines Gründerzeithauses an der Münchner Freiheit / Leopoldstr. 57, Antwort des Referates für Stadtplanung und Bauordnung auf ein Bürgerschreiben
+- TOP .4.: Verbot der Zweckentfremdung von Wohnraum durch Abbruch, Schlößlanger 23
+- TOP .5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/31 - Endgültiger Beschluss ; Sitzungsvorlagen-Nr. 08-14 / V 05503 Frankfurter Ring (südlich), Joseph-Dollinger-Bogen (westlich), A 9 Berlin-München (westlich) und Domagkstraße (nördlich) - ehemalige Funkkaserne - endgültiger Beschluss der Vollversammlung des Stadtrates vom 15.12.2010
+- TOP .6.: Kunigundenstraße 22, Schreiben des Referats für Stadtplanung und Bauordnung vom 07.01.2011
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Einbahnregelung Ortsfahrbahn Ungererstraße am Parkplatz Nordfriedhof
+- TOP .1.: Entwicklung eines Wartehäuschentyps für schmale Gehwege - Antrag des BA 20 Hadern an die MVG mit der Bitte um Unterstützung
+- TOP .2.: Wiederherstellung der Längsparkplätze und des Radweges in der Hörwarthstraße nach Abschluss der Straßenarbeiten für die Tram 23
+- TOP .3.: Lärmsanierungsmaßnahme Leopoldstr./Ingolstädter Straße zwischen Schenkendorfstraße und Schmalkaldener Straße
+- TOP .1.: Neugestaltung Maria-Josepha-Straße: Verschmälerung, Umorganisation des Parkens, Baumpflanzungen und schwabing-übliche Leuchten (siehe auch TOP B.4.1.)
+- TOP .2.: Aufnahme der Dreschstr. / Reventlowstr. / Germaniastr. Nord / Virchowstr. in die Straßenreinigungssatzung der Landeshauptstadt München zur Gehsteig-Reinigung
+- TOP .1.: Errichtung eines Lärmschutzes an der Autobahn (A9) auf der Höhe Grünecker Str. 2-12
+- TOP .2.: Umwidmung des Weges zwischen Burmester- und Heidemannstraße in einen Rad- und Fußweg
+- TOP .3.: Umwandlung des FFH-Gebiets der Fröttmaninger Heide in ein Naturschutzgebiet (siehe auch TOP B.5.1.1.)
+- TOP .4.: Dynamische Fahrgastinformation im U-Bahnhof Münchner Freiheit
+- TOP .5.: Tempo-30 Schild in der Ohmstraße sichtbar machen (tiefer hängen) Empfehlung Nr. 08-14 / E 00624 der Bürgerversammlung des 12. Stadtbezirkes ? Schwabing-Freimann- am 20.07.2010 Sitzungsvorlage Nr. 08-14 / V 05544
+- TOP .6.: Kein Parken westlich des U-Bahnhofes Fröttmaning Empfehlung Nr. 08-14 / E 00089 der Bürgerversammlung des 12. Stadtbezirkes ? Schwabing-Freimann- am 08.07.2008, Sitzungsvorlage Nr. 08-14 / V 03553
+- TOP .7.: Lösung zur Verkehrsproblematik Heidemannstraße, insbesondere Abstimmung des Parkverkehrs an der westlichen Heidemannstraße mit den Betreibern der Parkplätze von ?Netto?, ?Aldi? und dem Ärztehaus (Ziffer 1) Empfehlung Nr. 08-14 / E 00616 der Bürgerversammlung des 12. Stadtbezirkes ? Schwabing-Freimann- am 06.07.2010; Sitzungsvorlage Nr. 08-14 / V 05552
+- TOP .8.: Errichtung eines ?Grünen Pfeils? an der Kreuzung Heidemannstraße / Kieferngartenstraße / Lilienthalalle Empfehlung Nr. 08-14 / E 00615 der Bürgerversammlung des BA 12 , BT Freimann vom 06.07.2010; Sitzungsvorlage Nr. 08-14 / V 05527
+- TOP .9.: Rückbau der Dietlindenstraße zwischen Ungerer- und Klementinenstraße von vier auf zwei Fahrspuren
+- TOP .10.: Errichtung eines beidseitigen Haltverbotes in der Kiefergartenstraße zwischen Zirbelweg und Zedernweg Empfehlung Nr. 08-14 / E 00608 der Bürgerversammlung des Stadtbezirkes 12, BT Freimann vom 06.07.2010; Sitzungsvorlage Nr. 08-14 / V 05251
+- TOP .1.: Einrichtung und Verlegung einer Schulbushaltestellein der Kulturheimstraße, Einrichtung von Haltverbotszonen in der Kulturheimstraße und im Josef-Wirth-Weg
+- TOP .2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Amsterdamer Str. 1
+- TOP .3.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Arnold-Schönberg-Weg 25
+- TOP .1.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP .2.: Information der MVG über das Betriebskonzept während der Kabelarbeiten für die Erneuerung des Stellwerks Scheidplatz (Schreiben vom 06.12.2010)
+- TOP .3.: Busspur durch den Englischen Garten verschmälern; Zwischennachricht der Bay. Verwaltung der staatlichen Schlösser, Gärten und Seen vom 13.12.2010
+- TOP .4.: Entwicklung des Verkehrs in München Beschluss des Ausschusses für Stadtplanung und Buordnung vom 12.01.2011 Sitzungsvorlage Nr. 08-14 / V 05724
+- TOP .5.: Nahverkehrsplanung der Landeshauptstadt München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 Sitzungsvorlage Nr. 08-14 / V 05592
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Init. "Pro Migrakunst" Fachtagung am 19./20.02.2011 im Gasteig
+- TOP .2.: (E) Budget der Bezirksausschüsse Haus am Schuttberg e.V. Projekt "Sportfest" im Mai 2011
+- TOP .3.: (E) Budget der Bezirksausschüsse KJR München-Stadt Freizeittreff Freimann Anschaffung neuer Tische und Stühle
+- TOP .4.: (E) Budget der Bezirksausschüsse Initiative "Wasserkraftwerk" Infotafel an der Kleinwasserkraftanlage am Biederstein
+- TOP .1.: Spielen in der Stadt - Planung der Einsätze der Münchner Sommer SpielAktion 2011
+- TOP .2.: Stadtteilfest an der Wilhelm-Wagenfeld-Straße am 07.05.2010
+- TOP .3.: Ausschreibung Weltkindertag 2011 - "Spielorte neu entdecken - Kinderorte" im Stadtteil sichtbar machen"
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Monaco, Kleingaststätte, Münchner Freiheit 18
+- TOP .2.: Dodici, Schank- und Speisewirtschaft, Hohenzollernstr. 12
+- TOP .3.: Shogenoff, Schank- und Speisewirtschaft, Ungerstr. 56
+- TOP .1.: Verwendungsnachweise: a) Theater des Hölzernen Gelächters für die Maßnahme "Das Käthchen von Heilbronn" b) Corso Leopold für die Maßnahme: Vier Programmplätze auf dem Corso Leopold im Mai und September 2010 c) Alten- und Servicezentrum Schwabing-Ost dür die Maßnahme: Treffen für pflegende Angehörige d) Corso Leopold für die Maßnahme: Streetlife Festival am 11./12.09.2010 e) digitalanalog e.V. für die Maßnahme: Kinder Foto-Workshop
+- TOP .2.: Neuerrichtung der Gaststätte / Betriebsstätte "POCO-Bistro" in der Maria-Probst-Straße 19
+- TOP .3.: Räumung / Schließung des städtischen, eingruppigen Kindergartens Alte Heide 3 incl. Berichtigung
+- TOP .4.: Zuwendungsbewilligungen / Bescheide für die Gewährung von Zuwendungen aus dem Budgetmitteln des BA 12 a) CLEEC e.V. für die Maßnahme: 3. Deutsch-Chinesisches Frühlingsfest b) Initiative "Windsbraut" für die Maßnahme: Theaterprojekt "Windsbraut"
+- TOP .5.: Musik auf Münchner Friedhöfen - Schreiben des Herrn Oberbürgermeister Ude auf eine Bürgeranfrage vom 07.12.2010
+- TOP .6.: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2010 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 01.12.2010 Sitzungsvorlage Nr.: V 08-14 / V 05452
+- TOP .7.: Langfristige Existenzsicherung des Eisenbahner Sportverein München-Freimann e.V (Schreiben des Referats für Bildung und Sport vom 17.12.2010)
+- TOP .8.: Schüler- und Klassenzahlen Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.2011 Sitzungsvorlagen-Nrn.: 08-14 / V 05621 / 05718 / 05714 / 05636
+- TOP .9.: Anzeige von sich fortbewegenden Versammlungen unter freiem Himmel a) Montags Demo ?Rauchverbot-Sperrzeit-Unsinnige Verbote-Verbotsstaat Bayern? am 24.01.2011, Leopoldstr. (zwischen Münchner Freiheit und Siegestor)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
