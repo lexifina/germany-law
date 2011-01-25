@@ -1,0 +1,57 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-01-25T17:00:00+01:00
+- Ende: 2011-01-25T21:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3742
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3742
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00152940.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00152940.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00152940.pdf
+
+## Tagesordnung
+
+- TOP 1: Bestellung eines Schriftführers - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Aufstellungsbeschluss Plan Nr. 5981/001 - einstimmig beschlossen
+- TOP 5: Plan 5976/026-Nördl.NachdenMauresk-Änderung Aufstellung
+- TOP 6: Plan5976/027-Nördl.Nach den Mauresk.-VÄ
+- TOP 6.1: Nördlich"Nach den Mauresköthen" - einstimmig beschlossen
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Integrierte Jugendhilfe- und Schulentwicklungsplanung
+- TOP 11: Zulassung von sachkundigen Bürgern - einstimmig beschlossen
+- TOP 12: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 13: Beibehaltung des Schulbusbetriebs nach Knittkuhl - einstimmig beschlossen
+- TOP 14: Konzept für die Sichelstraße - einstimmig beschlossen
+- TOP 15: Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 16: Grünanlage am Alter Markt - einstimmig beschlossen
+- TOP 17: Grundstück Gerricuststraße 14 - 16
+- TOP 18: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 19: Sowjetischer Ehrenfriedhof Ludenberg - einstimmig beschlossen
+- TOP 20: Schülerspezialverkehr zur GGS Knittkuhl - einstimmig beschlossen
+- TOP 21: Erwerb des Jan-Wellem-Brunnens - einstimmig beschlossen
+- TOP 22: Schienenstrecke Benderstr./Heyestraße - zur Kenntnis genommen
+- TOP 23: Bauvorhaben Dreherstraße 206 - 210 - einstimmig beschlossen
+- TOP 24: Ausbau Torfbruchstraße - einstimmig beschlossen
+- TOP 25: Schülerspezialverkehr Hubbelrath / Ludenberg - einstimmig beschlossen
+- TOP 26: Gymnastikhalle der GGS Knittkuhl
+- TOP 27: Laternenaufsätze Benderstraße/Auf der Hardt
+- TOP 28: Ortsumgehung Gerresheim
+- TOP 29: Bebauung Gerricusstr. 14 - 16
+- TOP 30: Gehwegverbindung Heinrich-Könn-Straße- Benderstraße
+- TOP 31: Alarm- und Gefahrenabwehrplanung CO-Pipeline
+- TOP 32: Spielplatz im Diepenpark
+- TOP 33: Regenrückhaltebecken in Knittkuhl
+- TOP 34: Staufenhalle
+- TOP 35: Erhaltungssatzungen im Stadtbezirk 7
+- TOP 36: Baumaßnahme Bismarckweg 7
+- TOP 37: Verkehrssichere und bequeme Wege im Ortskern Gerresheim
+- TOP 38: Beleuchtung Toni-Kryn-Weg
+- TOP 39: Sachstand Bahnhofsgebäude Gerresheim
