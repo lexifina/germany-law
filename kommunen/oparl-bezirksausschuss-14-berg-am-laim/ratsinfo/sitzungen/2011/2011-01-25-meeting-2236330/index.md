@@ -1,0 +1,82 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-01-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236330
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236330
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Barrierefreier Ausbau der Haltestelle "Josephsburg" an der Buslinie 185
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Werbenutzungsvertrag der Landeshauptstadt München ? Bericht zur städt. Außenwerbung
+- TOP 3.1.1.2.: Oedkarspitzstraße ? Neubau eines Wohngebäudes im Passivhausstandard (28616-32)
+- TOP 3.1.1.3.: Oedkarspitzstraße ? Neubau eines Wohngebäudes im Passivhausstandard (28617-32)
+- TOP 3.1.1.4.: Innsbrucker Ring 75 ? Modernisierung und Erweiterung eines Förderzentrums
+- TOP 3.1.1.5.: Hachinger-Bach-Str. 25 ? Neubau Klassentrakt und Einfachsporthalle und Neugestaltung Eingangsbereich und Pausenhof
+- TOP 3.1.1.6.: Erhalt der Lokdrehscheibe im früheren Bahnbetriebswerk BW4, Baumkirchner Straße - <div></div>
+- TOP 3.1.1.7.: Sicherung und Erhalt von Eisenbahn-Zeugnissen in Berg am Laim - <div></div>
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Ausschreibung: "Spielorte neu entdecken ? Kinderorte im Stadtteil sichtbar machen!" - Erweitertes Konzept für den Weltkindertag im Stadtbezirk
+- TOP 3.6.1.: Berg-am-Laim-Str. 117 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.2.: Innsbrucker Ring 75 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.3.: Hachinger-Bach-Str. 25 ? Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.4.: Oedkarspitzstraße ? Baumbestandsplan & Freiflächengestaltungsplan (28616-32)
+- TOP 3.6.5.: Oedkarspitzstraße ? Baumbestandsplan & Freiflächengestaltungsplan (28617-32)
+- TOP 3.6.6.: Kraiburger Str. 39
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Grundwasserstand in Berg am Laim
+- TOP 4.1.1.3.: Grafinger Straße 35 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.4.: Haager Straße 7 ? Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.2.1.: Entwicklung des Verkehrs in München
+- TOP 4.1.2.2.: Nahverkehrsplan (NVP) der Landeshauptstadt München - Aufgabenstellung - Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung - Finanzierung der ÖPNV-Infrastruktur - Anträge
+- TOP 4.1.2.3.: Schmalere Buswartehäuschen
+- TOP 4.1.2.4.: Fuß- und Radwegunterführung Truderinger Straße
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Sportinfrastrukturmaßnahmen in München ? Sachstandsbericht 2010
+- TOP 4.3.2.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen d. Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2010/11
+- TOP 4.3.3.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2010/2011
+- TOP 4.3.4.: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, Realschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2010/11
+- TOP 4.3.5.: Erweiterung, Umbau und Sanierung der Grundschule Grafinger Straße 71
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Krumbadstraße - Realisierung einer dreigruppigen Kinderkrippe
+- TOP 4.5.1.: Teilnahme der Bezirksausschüsse an Wettbewerben; hier: Benennung und Entsendung von Stellvertretern
+- TOP 4.6.1.: Hansjakobstraße 33
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
