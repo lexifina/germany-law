@@ -1,0 +1,113 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-01-25T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2093718
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2093718
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksaussschüsse Nachbarschaft Westermühlbach e.V. Einrichtung einer Mittagsbetreuungsgruppe an der Grundschule Klenzestraße
+- TOP .2.: (E) Budget der Bezirksausschüsse Kunstzentrat e.V. Konzert am 28.12.2010
+- TOP .3.: (E) Budget der Bezirksausschüsse Initiative "Atelierhaus Klenze-/Baumstraße Ausstellungsprojekt "Homethoughts" vom 12.03. - 03.04.2011
+- TOP .4.: (E) Budget der Bezirksausschüsse Init. "Pro Migrakunst" Fachtagung am 19./20.02.2011 im Gasteig
+- TOP .5.: BA-eigene Veranstaltung: Alt und Jung
+- TOP .1.: Spielen in der Stadt - Planung der Einsätze der Münchner Sommer SpielAktion 2011
+- TOP .2.: Keine weiteren Neonazi-Aufmärsche - Ziff. 1: Änderung des Katalogs der Fälle der Entscheidung, Anhörung und Unterrichtung der BAs; BA-Antrag Nr. 08-14 / B 02234 des BA 19
+- TOP .3.: Veranstaltung am 13.11.2010 "Heldengedenkmarsch 2010 - Ruhm und Ehre den Deutschen Soldaten"; Anfrage des BA 1 ans KVR
+- TOP .4.: Weltkindertag 2011
+- TOP .1.: Gestaltung von Unterführungen mit Grafitti
+- TOP .2.: KiJu: Fußgängerampel Wittelsbacherstraße an der Hauptschule; Rückmeldung KVR
+- TOP .3.: BA-Budget: Nachbarschaft Westermühlbach e.V. - Fußballturnier am 29.07.2010; Widerrufsbescheid (fehlender Verwendungsnachweis)
+- TOP .5.: KiJu: Verstärkung der Buslinie 132; Rückmeldung RAW
+- TOP .6.: BA-Budget: Kurzbericht zum Foto-Workshop
+- TOP .7.: KiJu: Trampolin auf der Theresienwiese; Rückmeldung Baureferat
+- TOP .8.: KiJu: Umzäunung der Grünfläche des Krokodilspielplatzes; Rückmeldung Baureferat
+- TOP .9.: KiJu: Baumhaus am Sendlinger-Tor-Platz; Rückmeldung Baureferat
+- TOP .10.: Vorkaufsrecht, siehe TOP B 4.4
+- TOP .11.: BA-Budget: Verwendungsnachweise (5)
+- TOP .12.: Sportinfrastrukturmaßnahmen - Sachstandsbericht 2010; Bekanntgabe Ausschuss Bildung und Sport vom 01.12.2010
+- TOP .13.: BA-Budget: Ablehnung des Antrages Pfarrei St. Paul vom 12.07.2010 - Schriftwechsel Prof. Dr. Ruckert / OB Ude
+- TOP .14.: Jugendtreff Tröpferlbad, Freizeitliga-Isarvorstadt e.V.; BA-Antrag Nr. 08-14 / B 00030: Zwischennachricht
+- TOP .15.: Schüler- und Klassenzahlen für das Schuljahr 2010/2011; Bekanntgabe Ausschuss für Bildung und Sport vom 12. Januar 2011
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Gemeinsamer Antrag BA 2 und BA 8: Gestaltung der Fuß- und Radwegeunterführung Hans-Fischer-Straße/Theresienhöhe
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Fraunhoferstr. 39: Umbau DG, Zusammenlegung der Läden (EilE)
+- TOP .2.: Kapuzinerstr. 21: Nutzungsänderung (EilE)
+- TOP .3.: Jahnstr. 32: Zusammenlegung 2er Dachgauben (EilE)
+- TOP .4.: Schmellerstr. 30: Anbau Balkone (EilE)
+- TOP .5.: Auenstr. 7: Umbau Wohnungen, Neubau Dacherrasse (EilE)
+- TOP .6.: Müllerstr. 3-7: Umbau und Umnutzung des HKW-Turms (EilE)
+- TOP .7.: Holzstr. 28-30: Nutzungsänderung (EilE)
+- TOP .8.: Schwanthalerstr. 44: Werbeanlagen (EilE)
+- TOP .9.: Adlzreiterstr. 23-25: Neubau MFH (EilE)
+- TOP .10.: Goethestr. 19: Nutzungsänderung (EilE)
+- TOP .11.: Arndtstr. 8-10: DG-Ausbau und Einbau Aufzüge (EilE)
+- TOP .12.: Beethovenstr. 1: Umbau (EilE)
+- TOP .13.: Pestalozzistr. 32: Umbau (EilE)
+- TOP .14.: Dreimühlenstr. 35: Nutzungsänderung
+- TOP .15.: Reifenstuelatr. 10: Nutzungsänderung
+- TOP .16.: Goethestr. 20: Nutzungsänderung
+- TOP .17.: Poccistr. 1-5: Nutzungsänderung
+- TOP .18.: Poccistr. 5: Nutzungsänderung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Goethestr. 69
+- TOP .2.: Erhardtstr. 27
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Umstrukturierung des Grundstücks Kapuzinerstraße 26, 28, 30, Kapuzinerplatz 6,7 (Agentur für Arbeit); Beschluss Ausschuss Stadtplanung und Bauordnung vom 10.11.2010
+- TOP .2.: Adlzreiterstr. 3 - Rückmeldung LBK
+- TOP .3.: Parkraummanagement München - Angleichung des Bewirtschaftungszeitraumes der Parkplätze in der Altstadt und Vereinheitlichung der Parklizenzgebühren; Beschluss Kreisverwaltungsausschuss vom 14.12.2010
+- TOP .4.: Vorkaufsrecht nach dem BauGB: Landwehrstr
+- TOP .5.: Bavariaring 8: Vorbescheid
+- TOP .6.: Baldestr. 13: Baumfällung Genehmigungsbescheid
+- TOP .7.: Anbringung einer Gehwegnase und Absenkung des Gehwegs Dreimühlenstraße / Isartalstraße, BA-Antrag Nr. 08-14/B 00441; AW: Umsetzung derzeit nicht möglich.
+- TOP .8.: Adlzreiterstr. 21: Vorbescheid
+- TOP .9.: Holzstr. 9: Fällgenehmigung
+- TOP .10.: Planfeststellung für den Neubau einer 2. S-Bahn-Stammstrecke, Planfeststellungsabschnitt 1 München-West - Anhörungsverfahren; Beschluss Stadtrat vom 24.11.2010
+- TOP .11.: Nahverkehrsplan der LHM; Beschluss Ausschuss Stadtplanung und Bauordnung vom 12.01.2011
+- TOP .12.: Entwicklung des Verkehrs in München; Beschluss Ausschuss Stadtplanung und Bauordnung vom 12.01.1011
+- TOP .1.: Spartenskizze Reichenbachstraße
+- TOP .2.: Umwidmung der Grünfläche an der Corneliusbrücke (ggfs. Antrag stellen)
+- TOP .3.: Bürgeranliegen: Gestaltung Gärtnerplatz
+- TOP .4.: Spielhallen im Stadtbezirk, Antwortschreiben der LBK aus der Sitzung 11/10
+- TOP .5.: Fuß- und Radwegunterführung und Hangweg Hans-Fischer-Str./Theresienhöhe
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Genehmigung Freischankfläche: Kapuzinerplatz 4
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Roecklplatz 3: Antrag für Obstverkaufsstand
+- TOP .2.: Aufstellung Verkaufseinrichtung: Landwehrstr. 44
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Fasching in der Reichenbachstraße am 08.03.2011
+- TOP .2.: Nutzungsanfrage Theresienwiese: Afrika Tage München 2011 vom 26. - 29.05.2011
+- TOP .3.: Faschingsfest in der Pestalozzistr. 18-24 am 08.03.2011
+- TOP .3.2: Verkehr
+- TOP .1.: Antrag des BA 20: Schmälere Buswartehäuschen entwickeln
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Unveränderte Gaststättenfortführung: - Thalkirchner Str. 2: Alpenimbiss - Erhardtstr. 15: Green Leaf - Adlzreiterstr. 16: Panorama - Fraunhoferstr. 6: Vina Haus - Lindwurmstr. 21: Bei Antonio - Paul-Heyse-Str. 23: Sarajevo - Bahnhofsplatz 7: Di Gennaro - Ruppertstr. 22: Mittendrin - Zenettistr. 20: Zenetti Pils - Sonnenstr. 12: Dunya
+- TOP .2.: Versammlungen unter freiem Himmel (4)
+- TOP .3.: Filmaufnahmen auf öffentlichem Grund (5)
+- TOP .4.: Antrag auf Genehmigung einer Freischankfläche, Müllerstr. 49: Entscheidung OB
+- TOP .5.: Illegal parkende Autos an der neuen Ampel an der Ecke Mai-/Tumblingerstraße verhindern
+- TOP .6.: Kulturstrand für München, Standortauswahl für die Jahre 2011-2013; Beschluss Kreisverwaltungsausschuss am 14.12.2010
+- TOP .8.: Verkehrsrechtliche Anordnung: - Eingeschränktes Haltverbot Thalkirchner Str. 31-33 wird entfernt
+- TOP .1.: Bürgeranliegen: Nachtbar in der Corneliusstraße
+- TOP .2.: Bürgeranliegen: Gestaltung Gärtnerplatz, siehe TOP B 5.3
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
