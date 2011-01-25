@@ -1,0 +1,8 @@
+# TOP 4: Zulassung von Vertretern betroffener Bevölkerungsgruppen
+
+- Sitzung: Bezirksvertretung 5 (2011-01-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/166886
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/56585
