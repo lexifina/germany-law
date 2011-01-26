@@ -1,0 +1,54 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2011-01-26T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2142942
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2142942
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: REGSAM ? München spart Steuergelder: REGSAM wird künftig auf ehrenamtlicher Basis geführt (Beschlussvorlage für den Kinder- u. Jugendhilfe- sowie Sozialausschuss am 01.02.2011)
+- TOP .2.: Münchner Sommer SpielAktion: Einsatzorte für die Spielbusse?
+- TOP .3.: Ausrichtung des Weltkindertages 2011 im 4. Stadtbezirk?
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Viktoriastr. 5, ?Dressbach'sche Verlagsbuchhandlung?: Warenauslage
+- TOP .2.: Georgenstr. 74-78, REWE-Markt: Warenauslagen
+- TOP .3.: Fallmerayerstr. 22, ?H'Otello?: Mobiler Fahrradständer
+- TOP .4.: Bauerstr. 2, ?Diablo Mode?: Mobiler Fahrradständer
+- TOP .5.: Franz-Joseph-Str. 48, ?Studio Italiano?: Mobiler Fahrradständer
+- TOP .6.: Tengstr. 20, ?Teheran?: Erweiterung der Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Zwei Banner "Kulturpassage"
+- TOP .2.: (E) Budget der Bezirksausschüsse Init. "Pro Migrakunst" Fachtagung am 19./20.02.2011 im Gasteig
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: Theatervorstellungen des FestSpielHauses vom 21. bis 23.07.2011
+- TOP .1.: Ackermannbogen 4. Bauabschnitt: Baumfällungen in Zusammenhang mit der verkehrlichen Erschließung (vgl. TOP D 2.1, D.2.2 und E.2.2)
+- TOP .2.1.: Planen
+- TOP .1.: Ackermannstraße, Neubau Parzival-Schule und heilpädagogische Tagesstätte Michael-Haus : Baumbestandsplan
+- TOP .2.: Tengstr. 45, DG-Umbau mit Errichtung des historischen Giebels und Nutzungsänderung zweier Wohnungen in Büros im EG + 1. OG, Zusammenlegung zweier Wohnungen im 3. OG und Verschiebung der Wohnungstrennwand im 2. OG (Tektur)
+- TOP .2.2.: Wohnen
+- TOP .1.: a) Bürgerin: Zufahrt für Müllabfuhr und Feuerwehr in die Ansbacher Straße sicherstellen b) Bürgerin: Behinderung der Müllfahrzeuge in der Ansbacher Straße durch Falschparker
+- TOP .2.1.: Umwelt
+- TOP .1.: Düsseldorfer Str. 4 und 6: Fällung zweier Weiden
+- TOP .2.: Ackermannstraße (Bebauungsplan 1905 e): Zahlreiche Baumfällungen (vgl. TOP D.1.1)
+- TOP .2.2.: Verkehr
+- TOP .1.: (E) Ackermannbogen: Beleuchtung im Bereich der Großen Wiese Empfehlung Nr. 08-14 / E 00673 der Bürgerversammlung des Stadtbezirkes 4 Schwabing-West am 12.10.2010
+- TOP .2.: Wiederherstellung der Längsparkplätze und des Radweges in der Hörwarthstraße nach Abschluss der Straßenarbeiten für die Tram 23 (Beschlussentwurf für den Bauausschuss zur Empfehlung Nr. 08-14/E 00093 der Bürgerversammlung Schwabing-Freimann am 22.07.2008)
+- TOP .1.: Änderung des Katalogs der Beteiligungsrechte: Genehmigung von Schießstätten und Feuerwerken
+- TOP .1.: Unterausschuss Soziales am 20.01.2011 um 18.00 Uhr in der Kindervilla ?Drei Eichen?, Elisabeth-Kohn-Str. 20
+- TOP .2.: Unterausschuss Wirtschaft und Kultur am 20.01.2011 um 20.00 Uhr im SPD-Bürgerbüro, Belgradstr. 15 a
+- TOP .3.: Unterausschuss Planen und Wohnen am 20.01.2011 um 19.30 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .4.: Unterausschuss Umwelt und Verkehr am 20.01.2011 um 18.00 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .5.: Gemeinsame Sitzung der Unterausschüsse Planen und Wohnen sowie Umwelt und Verkehr zu den Baumfällungen im 4. Bauabschnitt des Ackermannbogens am 20.01.2011 um 19.15 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29 (dazu eingeladen: Baureferat, Kommunalreferat, Referat für Gesundheit und Umwelt)
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
