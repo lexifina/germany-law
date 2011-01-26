@@ -1,0 +1,98 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2011-01-26T17:10:00+01:00
+- Ende: 2011-01-26T21:50:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1377
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1377
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl eines stellvertretenden Bürgerdeputierten in den Wirtschaftsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten in den Sportausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Nachwahl eines Mitgliedes in den Beirat für Migrationsangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Bebauungsplan 8-27 ("Leonberger Ring") - ohne Änderungen in der BVV beschlossen
+- TOP 6.2: Zustimmung zur Entscheidung über den Ausbau der Radwege Buckower Damm zwischen Mohriner Allee und Bauhüttenweg - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Vorzeitige Beendigung der Mandate als Bürgerdeputierter im Sportausschuss und als stellvertretender Bürgerdeputierter im Wirtschaftsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Wasserschäden in der Orangerie im Körnerpark - beantwortet
+- TOP 8.2: Jahresabschluss des Eigenbetriebes SüdOst - beantwortet
+- TOP 8.3: Samstagsmarkt am Maybachufer - beantwortet
+- TOP 8.4: Bauzaun Maybachufer - beantwortet
+- TOP 8.5: Wahlen zur Seniorenvertretung - beantwortet
+- TOP 8.6: Steigerung von Straftaten im Bereich Britzer Damm? - beantwortet
+- TOP 8.7: Campus Efeuweg - beantwortet
+- TOP 8.8: Straßenschäden in Neukölln - schriftlich beantwortet
+- TOP 8.9: Gesundheitsforschung im Wissenschaftsjahr 2011 - schriftlich beantwortet
+- TOP 8.10: Bauzaun am Hermannplatz - schriftlich beantwortet
+- TOP 8.11: Jungen-Zukunftstag in Neukölln - schriftlich beantwortet
+- TOP 8.12: U-Bahnausgang Lahnstraße - schriftlich beantwortet
+- TOP 8.13: Entwicklung von Kindertagesstätten zu Familienzentren - schriftlich beantwortet
+- TOP 8.14: Kooperationsvereinbarung - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 9.1: Mehr Vorbereitungsklassen notwendig? - beantwortet
+- TOP 9.2: Neuköllner Sekundarschulen - beantwortet
+- TOP 9.3: Otto-Hahn-Schule - beantwortet
+- TOP 9.4: Unterricht für Schülerinnen und Schüler mit mangelnden Deutschkenntnissen - beantwortet
+- TOP 9.5: Wie kommt Bildung zu armen Kindern? - beantwortet
+- TOP 9.6: Lernqualität an der Konrad-Agahd-Grundschule sichern - beantwortet
+- TOP 9.7: JobCenterbeirat - Neue Rahmenvereinbarung - in der BVV zurückgezogen
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Eltern haften für ihre Kinder - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Kolonien am Mergenthaler Ring - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.3: Spielstraße Weichselstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Tempo-30-Zone verdeutlichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Querungshilfe vor dem Campus Rütli - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Querparken in der Reuterstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Haltverbot Alt-Buckow - überwiesen
+- TOP 10.8: Keine Kürzungen im Jugendhaushalt - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Die vergessene Geschichte des Flughafens Tempelhof - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Fachkräftemangel in Neuköllner Firmen - Ingenieure in Putzkolonnen? - beantwortet
+- TOP 11.2: Kindersingen mit Lizenz? - beantwortet
+- TOP 11.3: Umwandlung von Miet- in Eigentumswohnungen - beantwortet
+- TOP 11.4: Zivildienst - beantwortet
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 12.1: Fortschreibung des Schulentwicklungsplanes in Neukölln - schriftlich beantwortet
+- TOP 12.2: Schulhorte in Neukölln - schriftlich beantwortet
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Grundwasserstand im Rudower Blumenviertel - mit Änderungen in der BVV beschlossen
+- TOP 13.2: Unrat rund um den S-Bahnhof Neukölln - überwiesen
+- TOP 13.3: Angebote für Rollstuhlfahrer - überwiesen
+- TOP 13.4: Kleiner Kreisverkehr an der Köpenicker Straße/Kanalstraße/August-Froehlich-Straße - überwiesen
+- TOP 13.5: Kostenloses Singen? - überwiesen
+- TOP 13.6: Durchsetzung des Rauchverbots in Gaststätten - überwiesen
+- TOP 13.7: Auslegung Planfeststellungsbeschluss A 100 - 16. Bauabschnitt - in der BVV abgelehnt
+- TOP 13.8: Recht auf Schulbesuch für alle Kinder - überwiesen
+- TOP 13.9: Städtische Wohnungsbaugesellschaften in den Bezirken in die soziale Pflicht nehmen - überwiesen
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Kreuzung vor der Hobrechtbrücke - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.2: Videoüberwachung im U- und S-Bahnhof Hermannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.3: Bildungs- und Kulturzentrum "Europa" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.4: Lärmschutzzone für Alt-Buckow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.5: U-Bahnausgang Wutzkyallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.6: Entwicklung von Arbeitsgelegenheiten in 2011 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.7: Ergänzungsplan zum Bezirkshaushalt 2011 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14.8: Zweiter U-Bahnausgang an den Bahnhöfen Lipschitzallee und Zwickauer Damm - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: "Seniorenspielplatz" für Neuköllner Senioren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.2: Spielstraße am Schierker Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Estrel-Parc mit Sonnenenergie in die Sonnenallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.4: Hinweisschilder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.5: Bebauungsplan 8-33 vom 27.01.2010 - Buckower Damm - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.6: Sicherer Schulweg für Karlsgarten-Grundschüler/innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.7: Geschwindigkeitsreduzierung in der Hertastraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.8: Alternative Flugrouten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.9: Beteiligung der BVV am JobCenterbeirat - mit Abschlussbericht zur Kenntnis genommen
