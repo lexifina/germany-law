@@ -1,0 +1,6 @@
+# TOP 7.: Prüfung von Sozialhilfeaufgaben 2008, die der Stadt vom Rhein-Erftkreis übertragen sind.
+
+- Sitzung: Rechnungsprüfungssausschuss (2. Sitzung) (2011-01-27)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/25983
