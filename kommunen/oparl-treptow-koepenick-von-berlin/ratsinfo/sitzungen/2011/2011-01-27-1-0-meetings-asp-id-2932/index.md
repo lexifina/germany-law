@@ -1,0 +1,69 @@
+# 47. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-01-27T16:30:00+01:00
+- Ende: 2011-01-27T20:40:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2932
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2932
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100809
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Abwahl der Bezirksbürgermeisterin Treptow-Köpenick von Berlin - vertagt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Beschlussfassung hinsichtlich der rechtlichen Zulassung eines Bürgerbegehrens zur Erhaltung der Sportanlage Birkenwäldchen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: BBI – Nachtflugverbot und Lärmschutz - mit Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Städtepartnerschaften des Bezirks - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Albatros gGmbH (SM 1101) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Anmeldung zur Investitionsplanung 2011 bis 2015 - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Elcknerplatz vom Durchgangsverkehr befreien - überwiesen
+- TOP 12.2: Ambulante Facharztversorgung sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kulturangebote für finanziell Schwache erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-2 („Nalepastraße“) hier: Änderung des Planaufstellungsverfahrens (Reduzierung des Geltungsbereiches) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan XVI-2 ("Baufeld IV") hier: - Reduzierung des Geltungsbereichs, inhaltliche Änderung des Bebauungsplanentwurfs, Weiterführung nach § 13 a BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Vorhabenbezogener Bebauungsplan 9-54 VE ("Nahversorgungsstandort Glienicker Straße") hier: - Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.4: Benennung von 2 Vertreterinnen bzw. Vertretern und deren Stellvertreterinnen und Stellvertreter für die Trägerversammlung der gemeinsamen Einrichtung "Jobcenter Berlin Treptow-Köpenick" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Änderung des BA-Beschlusses 71/02 vom 09.07.2002 zur Benennung von Privatstraßen im Entwicklungsgebiet des Wirtschafts- und Wissenschaftsstandortes Adlershof - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Bebauungsplan XVI-71 ("Julius-Hart-Straße") hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.7: Umbenennung des in den Ortsteilen Köpenick und Oberschöneweide gelegenen Straßenabschnitts der Köpenicker Allee, zwischen der Bezirksgrenze zu Lichtenberg, Ortsteil Karlshorst, und der Straße "An der Wuhlheide" verlaufend, in "Rudolf-Rühl-Allee" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.8: Benennung der 2. Gemeinschaftsschule Am Plänterwald 17 und 23, 12347 Berlin mit den Namen Sophie-Brahe-Schule (Gemeinschaftsschule) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: 100 Jahre Internationaler Frauentag müssen gefeiert werden - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Übertragung von Sitzungen der Bezirksverordnetenversammlung per Internet - überwiesen
+- TOP 14.3: Konzeption für den bezirklichen Winterdienst - überwiesen
+- TOP 14.4: Direktübertragung der Bezirksverordnetenversammlung im Internet - überwiesen
+- TOP 14.5: Aufnahme des Schlossplatzes und der Grünstraße in die Anlage zum § 4 Absatz 4a des Straßenreinigungsgesetzes (StrReinG) - in der BVV abgelehnt
+- TOP 14.6: Lösungen für Wasserstau am S-Bahnhof Rahnsdorf entwickeln - überwiesen
+- TOP 14.7: Schutzgemeinschaft der Umlandgemeinden - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: LKW-Durchgangsverkehr reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: "Offenen Wohnungen" von Pädosexuellen wirksam entgegentreten - überwiesen
+- TOP 14.10: Anmeldung zur Investitionsplanung - überwiesen
+- TOP 14.11: Schulwegsicherung für Grundschule in der Kiefholzstraße in Alt-Treptow - überwiesen
+- TOP 14.12: Jahresgeschäftsberichte in allen Ämtern einführen - überwiesen
+- TOP 14.13: Gesicherter Fußgängerübergang am S-Bahnhof Hirschgarten - mit Änderungen in der BVV beschlossen
+- TOP 14.14: Bezirksamtsbriefkasten am Rathaus Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Änderung der Zusammensetzung und Stärke der Ausschüsse - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Denkmalschutz Villa ehemalige Bärenquell-Brauerei - überwiesen
+- TOP 14.17: Illegale Baumaßnahmen auf dem Grundstück Bölschestraße 54 - überwiesen
+- TOP 14.18: Würdigung der Träger der Bürgermedaille - überwiesen
+- TOP 14.19: Mehr Patenschaften im öffentlichen Grün - überwiesen
+- TOP 14.20: Erinnerung 50 Jahre Mauerbau - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Kriterien und Ausschreibungsunterlagen zu den bezirklichen Festen - beantwortet
