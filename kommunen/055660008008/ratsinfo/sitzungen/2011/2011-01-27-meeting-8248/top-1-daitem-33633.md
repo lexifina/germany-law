@@ -1,0 +1,6 @@
+# TOP 1.: Niederschrift über die letzte Sitzung vom 02.12.2010
+
+- Sitzung: Betriebsausschuss des Abwasserwerks der Stadt Emsdetten (25. Sitzung) (2011-01-27)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/33633
