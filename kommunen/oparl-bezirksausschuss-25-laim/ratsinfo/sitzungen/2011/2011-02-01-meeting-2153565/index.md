@@ -1,0 +1,75 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-02-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153565
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153565
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Ampelschaltung am Laimer Kreisel
+- TOP 1.2.2.: Gefahrensituation durch Ampelschaltung Siglstraße / Agnes-Bernauer-Straße; Verschmutzung im Bereich Siglstraße / Schrobenhausenerstraße / Agnes-Bernauer-Straße
+- TOP 2: Anträge
+- TOP 2.1.: UA Kultur: Beleuchtung der Eibe auf dem Laimer Anger in der Advents- und Weihnachtszeit
+- TOP 2.2.: UA Kultur: Sanierung des Laimer Angers
+- TOP 2.3.: CSU: Abhaltung der BA-Sitzungen in der Lukasschule, Riegerhofstraße
+- TOP 2.4.: CSU: Sanierung Wohnanlage "Thomas-Wimmer-Haus"
+- TOP 3: Entscheidungsfälle
+- TOP 2: Beschlussvorlage Baureferat: Verbesserung der Straßenreinigung, insbesondere an der Kreuzung Fürstenrieder Straße / Gotthardstraße (Empfehlung Nr. 08-14 / E 00734 der Bürgerversammlung des Stadtbezirkes 25 Laim am 16.11.2010) - <div>nach Antrag</div>
+- TOP 3: Beschlussvorlage Kreisverwaltungsreferat: Änderung der Beschilderung in der Flantinstraße entsprechend der Regelung in der Joerg-/Vosslerstraße - <div>nach Antrag</div>
+- TOP 4: Beschlussvorlage Kreisverwaltungsreferat: Verlängerung der grünen Ampelphase für Fußgänger an der Kreuzung Fürstenrieder-/ Landsberger Straße - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Planungsreferat vom 28.12.10: Planfeststellungsverfahren nach dem Personenbeförderungsgesetz; Neubau eines Wendedreiecks der Stadtwerke München GmbH in München im Bereich des Knotens Westendstraße / Zschokkestraße / Tübinger Straße; Planfeststellungsbeschluss
+- TOP 4.2.: Schreiben Kinderbeauftragte der LH München vom 29.12.10: Ausschreibung Weltkindertag 2011
+- TOP 4.3.: Schreiben Sozialreferat vom 04.01.2011: Bauträgerauswahl für Baugrundstücke des kommunalen Wohnungsbauprogramms - Teilprojekt für Benachteiligte am Wohnungsmarkt (KomPro/B); Übernahme der Bauträgerschaft durch die LH München / Sozialreferat; Brantstraße, Teilfläche aus Flst. 400/4, Gemarkung Laim; Neubau einer integrierten Kooperationseinrichtung an der Brantstraße; Beschlussentwurf für den Sozialausschuss am 24.02.11
+- TOP 4.4.: Schreiben Direktorium vom 12.01.11: Änderung BA-Katalog Kreisverwaltungsreferat, Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Wotanstraße, Fl.Nr. 284/115 (beim S-Bahnhof Laim): Umbau der beiden bestehenden Großflächentafeln zu 2 Premium-Großflächentafeln; hier: Baupläne
+- TOP 5.2.: Elsenheimerstr. 24: Balkonanbau, DG-Ausbau, Aufstockung; hier: Freiflächengestaltungsplan
+- TOP 5.3.: Agricolastr. 101: Neubau eines Mehrfamilienhauses mit Garagen (Agricolastr. 101 / Aindorferstr. 146) / Vorbescheid; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 11.01.11
+- TOP 7.2.: Sitzung des UA Kultur vom 21.12.10
+- TOP 7.3.: Sitzung des UA Soziales, Schule und Sport vom 17.01.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 21.12.10: Planungen für das städtische Grundstück an der Agnes-Bernauer-Straße, Flurnummer 47, Gemarkung Laim (Schreiben BA vom 15.10.10)
+- TOP 8.2.: Schreiben Direktorium vom 05.01.11: Verwendungsnachweis über Budget-Zuschuss; Antragsteller: Förderverein Kindergarten Fronleichnam e.V.
+- TOP 8.3.: Schreiben Direktorium vom 14.01.11: Anzahl der zu entschädigenden Termine gemäß § 18 Abs. 4a und b BA-Satzung
+- TOP 8.4.: Schreiben KVR vom 08.10.10: Ausweichstelle für den Linienbusverkehr in der Senftenauerstraße
+- TOP 8.5.: Schreiben KVR vom 19.11.10: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Hans-Thonauer-Str. 29
+- TOP 8.6.: Schreiben KVR vom 24.11.10: Schulbushaltestelle an der Schrobenhausener Straße: Änderung des Zeitzusatzes
+- TOP 8.7.: Schreiben KVR vom 03.01.11: Gaststätte: "Bäckerei-Konditorei-Cafè Hoffmann", Reutterstr. 42; Antrag auf Neuerrichtung des Gaststättenbetriebes
+- TOP 8.8.: Schreiben KVR vom 13.01.11: Radverkehr; Einrichtung von Fahrradstraßen
+- TOP 8.9.: Schreiben Baureferat vom 30.12.10: Winterdienst / Verkehrssicherungspflicht, Haftung von Grundstückseigentümern (Schreiben BA vom 24.11.10)
+- TOP 8.10.: Schreiben Baureferat vom 05.01.11: Aufwertung der Agnes-Bernauer-Straße im Bereich Fürstenrieder Straße - Lautensackstraße (Schreiben BA vom 30.09.10)
+- TOP 8.11.: Schreiben Münchner Stadtentwässerung vom 05.12.10: "RS Laim Kanalsanierung 2011", Inspektionsgebiet 1036-6
+- TOP 8.12.: Schreiben Referat für Arbeit und Wirtschaft vom 03.01.11: Europe Direct Informationen 12/2010
+- TOP 8.13.: Schreiben Planungsreferat vom 21.12.10: Fürstenrieder Str. 8b, Neubau eines Mehrfamilienhauses mit Tiefgarage / Vorbescheid
+- TOP 8.14.: Bautenliste vom 27.12.10-02.01.11 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Elsenheimerstr. 59
+- TOP 8.15.: Bautenliste vom 03.01.-09.01.11 1. Erstantragsverfahren a) Fürstenrieder Str. 62
+- TOP 8.16.: Bautenliste vom 10.01.-16.01.11 1. Änderungsverfahren a) Ossietzkystr. 3 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheid etc. a) Haslangstr. 33
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 17.01.11: Baumaßnahmen der Stadtwerke; Stichtag: 17.01.11
+- TOP 8.18.: Beschluss der Vollversammlung vom 24.11.10: Planfeststellung nach § 18 Allgemeines Eisenbahngesetz (AEG) für den Neubau einer 2. S-Bahn-Stammstrecke in München, Planfeststellungsabschnitt München-West, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, 1. Planänderung, Anhörungsverfahren (Sitzungsvorlagen Nr. 08-14 / V 05522)
+- TOP 8.19.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.11: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2010 / 2011 (Sitzungsvorlagen Nr. 08-14 / V 05636)
+- TOP 8.20.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.11: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städtischen Franz-Auweck-Abendschule; Schuljahr 2010 / 2011 (Sitzungsvorlagen Nr. 08-14 / V 05714)
+- TOP 8.21.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.11: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt - und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2010 / 2011 (Sitzungsvorlagen Nr. 08-14 / V 05718)
+- TOP 8.22.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.11: Schüler/innen und Klassenstand, Berufliche Schulen der LH München im Schuljahr 2010 / 2011; Stand: 20.10.10 (Sitzungsvorlagen Nr. 08-14 / V 05621)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11: Entwicklung des Verkehrs in München, a) aktueller Sachstand, b) Anträge (Sitzungsvorlagen Nr. 08-14 / V 05724)
+- TOP 8.24.: Hinweis zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11: Entwicklung des Verkehrs in München, a) aktueller Sachstand, b) Anträge (Sitzungsvorlagen Nr. 08-14 / V 05724)
+- TOP 8.25.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11: Verkehrskonzept im Münchner Westen (Empfehlung Nr. 08-14 / E 00441 der Bürgerversammlung des 25. Stadtbezirkes Laim am 17.11.09)
+- TOP 8.26.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11: Nahverkehrsplan (NVP) der LH München, a) Aufgabenstellung, b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung, c) Finanzierung der ÖPNV- Infrastruktur, d) Anträge (Sitzungsvorlagen Nr. 08-14 / V 05592)
+- TOP 8.27.: Beschluss des Verwaltungs- und Personalausschusses vom 19.01.11: Teilnahme der Bezirksausschüsse an Wettbewerben, Benennung und Entsendung von Stellvertretern (Sitzungsvorlagen Nr. 08-14 / V 05752)
+- TOP 8.28.: Beschluss des Verwaltungs- und Personalausschusses vom 19.01.11: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (Sitzungsvorlage Nr. 08-14 / V 04462)
+- TOP 8.29.: Schreiben Frauengleichstellungsstelle vom 11.01.11: Einladung zum Treffen der Gleichstellungsbeauftragten am 22.02.11
+- TOP 8.30.: Antrag BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 11.01.11: Organisation von Gedenkveranstaltungen zum Jahrestag der Befreiung vom Nationalsozialismus
+- TOP 8.31.: Münchner Statistik, 2. Quartalsheft, Jahrgang 2010
+- TOP 8.32.: Schriftverkehr aus der BA-Sitzung vom 11.01.11
+- TOP 1.2: Bürgerpost an den BA
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
