@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-02-01T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2206534
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2206534
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 11.01.11
+- TOP 1.6.: Kurzparkzone Scheidegger Straße
+- TOP 1.7.: Ruhebänke Filchnerstraße
+- TOP 1.8.: Maßnahmen zur Verkehrsberuhigung in Forstenried, Obersendling und Solln Ziff. 1: Planung Stäblistraße
+- TOP 1.9.: "Grüner Pfeil" Herterichstraße / Drygalski-Allee
+- TOP 1.10.: Keine weiteren Neonazi-Aufmärsche Ziff. 2: Begründung, weshalb kein Verbot der Veranstaltung vom 08.05.10 ausgesprochen werden konnte
+- TOP 1.11.: Umstrukturierung der Süddeutschen Zeitung
+- TOP 2: Anträge
+- TOP 2.1.: Umgestaltung der Schießanlage "Hubertus"
+- TOP 2.2.: Busanbindung für Neubaugebiet ehem. Siemensareal
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrskonzept Obersendling/Thalkirchen
+- TOP 5.2.: Schulwegsicherheit Lochhamer Str. / Spindlerplatz
+- TOP 5.3.: Parksituation Aidenbach- / Hofbrunnstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Erstaufnahmeeinrichtung Baierbrunner Straße
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Ausbau der Freiwilligenbörse Süd zu einem Freiwilligen Zentrum München Süd
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Grundstücksverkauf Thalkirchen Flst. 13/4
+- TOP 9.2.: Bezirkssportanlage TSV Solln
+- TOP 9.3.: Satzungsänderung von Schießstätten und Feuerwerken
+- TOP 9.4.: Antrag auf Zweckentfremdung Allescherstr.
+- TOP 9.5.: Gaststättenfortführung Kistlerhofstr. 88
+- TOP 9.6.: Gaststättenfortführung Boschetsrieder Str. 5
+- TOP 9.7.: Gaststättenfortführung Boschetsrieder Str. 140
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
