@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-02-03T14:00:00+01:00
+- Ende: 2011-02-03T21:15:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3500
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3500
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00153545.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00153545.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00153545.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Aktuelle Anfragen
+- TOP 2.1: Anfrage aktuell SPD: Nutzung des Rheinparks für Feierlichkeiten der Provinzialversicherung - beantwortet
+- TOP 2.2: Anfrage aktuell: Wasserschäden in der Radstation - beantwortet
+- TOP 2.3: Anfrage aus aktuellem Anlass Freie Wähler: Nutzung des Rheinparks - beantwortet
+- TOP 2.4: Anfrage aktuell Bü90/Grü: Blauer Dunst in Düsseldorf - schriftlich beantwortet
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage Freie Wähler: Schließung Lehrschwimmbecken Uni Klinik - beantwortet
+- TOP 3.2: Anfrage Bü90/Grü: Arbeitsmarktstatistik und Situation älterer und langzeitarbeitsloser Menschen - beantwortet
+- TOP 3.3: Anfrage CDU und FDP: Schadowstraße - beantwortet
+- TOP 3.4: Anfrage SPD: Bundes- und Jugendfreiwilligendienste bei der Stadt Düsseldorf - beantwortet
+- TOP 3.5: Anfrage LINKE: Aufhebung der Radwegebenutzungspflicht - schriftlich beantwortet
+- TOP 3.6: Anfrage LÍNKE: Einsatz von Pfefferspray durch den OSD - schriftlich beantwortet
+- TOP 3.7: Anfrage Rh Laubenburg: Kosten des ESC? - schriftlich beantwortet
+- TOP 3.8: Anfrage SPD: Sachstand zum Gesamtprojekt Kö-Bogen I + II - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 6: Bericht zum Eurovision Song Contest 2011 - zur Kenntnis genommen
+- TOP 7: Anträge
+- TOP 7.1: Antrag Freie Wähler: Anbiete- und Verkaufsverbot von Spielzeugwaffen.... - mehrheitlich abgelehnt
+- TOP 7.2: Antrag CDU und FDP: ICE-Verbindung Düsseldorf-London - einstimmig beschlossen
+- TOP 7.3: Antrag SPD: Bewertung des offenen Briefes des Bundes Deutscher Architekten (BDA) - mehrheitlich abgelehnt
+- TOP 7.4: Antrag SPD: Europäische Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene; hier - mehrheitlich abgelehnt
+- TOP 7.5: Antrag DIE LINKE: Keine Einschränkung der Bürgerbeteiligung in der Gesetzgebung zur "Vereinheitlichu - mehrheitlich abgelehnt
+- TOP 7.6: Antrag Bü90/Grü: Drei Sonntagsöffnungen im Jahr sind ausreichend - zurückgezogen
+- TOP 7.6.1: Erg.Antrag SPD: Drei Sonntagsöffnungen im Jahr sind ausreichend - zurückgezogen
+- TOP 7.6.1.1: ÄA Linke: Sonntagsöffnungszeiten - zurückgezogen
+- TOP 7.6.2: ÄA CDU u. FDP: Public Viewing zur Frauen-WM in Düsseldorf - zur Kenntnis genommen
+- TOP 7.7: Antrag Bü90/Grü: Public Viewing zur Frauen-WM in Düsseldorf - mehrheitlich abgelehnt
+- TOP 7.8: Antrag Bü90/Grü: Wir haben es satt - Kantinenpolitische Intervention in Düsseldorf - mehrheitlich abgelehnt
+- TOP 7.8.1: ÄA LINKE: Wir haben es satt - Kantinenpolitische Intervention in Düsseldorf - mehrheitlich abgelehnt
+- TOP 7.9: Antrag Bü90/Grü: Ganztag zügig ausbauen - mehrheitlich abgelehnt
+- TOP 8: NKF-Jahresabschluss zum 31.12.2009 - Entwurf - einstimmig beschlossen
+- TOP 9: Kämmererliste 2010 - mehrheitlich beschlossen
+- TOP 10: Heinrich-Heine-Allee 16, Oper - Erweiterung des Orchestergrabens - Ausführungs- und Finanzierungsbe - mehrheitlich beschlossen
+- TOP 10.1: ÄA Linke: Erweiterung des Orchestergrabens - mehrheitlich abgelehnt
+- TOP 11: Marc-Chagall-Straße - Neubau Kindertagesstätte und Jugendfreizeiteinrichtung - Ausführungs- und Fina - zur Kenntnis genommen
+- TOP 12: Kaiserswerther Straße 380 - Sanierung Aquazoo und Löbbecke-Museum - Bedarfsbeschluss -
+- TOP 13: Umgestaltung der Birkenstraße (Ackerstraße bis Dorotheenstraße)
+- TOP 14: Nutzung einer Teilfläche des Nordparks im Rahmen der Messe Druck und Papier 2012
+- TOP 15: Bestellung stimmberechtigter Abgeordneter zur Teilnahme an der 36. ordentlichen Hauptversammlun - mehrheitlich beschlossen
+- TOP 16: Vorstand des Vereins Digitale Stadt Düsseldorf e.V. - einstimmig beschlossen
+- TOP 17: Planungsmaßnahmen
+- TOP 18: Plan5976/027-Nördl.Nach den Mauresk.-VÄ - einstimmig beschlossen
+- TOP 19: Aufsichtsrat der Düsseldorf Marketing & Tourismus GmbH - einstimmig beschlossen
+- TOP 20: Ausschussumbesetzungen (beratend) - einstimmig beschlossen
