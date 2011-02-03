@@ -1,0 +1,7 @@
+# TOP 6: Bericht zum Eurovision Song Contest 2011
+
+- Sitzung: Rat (2011-02-03)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/167233
+- Ergebnis: zur Kenntnis genommen
