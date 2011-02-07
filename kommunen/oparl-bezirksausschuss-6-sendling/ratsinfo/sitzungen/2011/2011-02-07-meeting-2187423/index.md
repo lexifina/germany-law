@@ -1,0 +1,58 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-02-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187423
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187423
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Haushaltsplan 2011 des Stadtjugendamtes
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Taxistandplatz Thalkirchner Straße 143 - 145
+- TOP 6.2.: Radverkehr; Einrichtung von Fahrradstraßen
+- TOP 6.3.: CarSharing in München; Durchführung von Pilotprojekten
+- TOP 6.4.: Setzen eines zusätzlichen Sperrpollers am südlichen Ende der Hans-Preisinger-Str.
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Mittagsbetreuung an der Montessorischule der Aktion Sonnenschein Reutberger Straße e.V. Kauf eines Herds und einer Kühl-/Gefrierkombination - <div>Zustimmung, mehrheitlich</div>
+- TOP 7.2.: Buget-Voranmeldung 2011 der Himmelfahrtskirche
+- TOP 7.3.: Mehr Einflussnahmemöglichkeiten für junge Menschen
+- TOP 7.4.: Änderung der BA-Satzung; Genehmigung von Schießstätten und Feuerwerken
+- TOP 7.5.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 7.6.: Teilnahme der BAs an Wettbewerben; Benennung und Entsendung von Stellvertretern
+- TOP 7.7.: Stadtteil-Broschüre der Bezirksausschüsse
+- TOP 7.8.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Anwohnergaragen in München
+- TOP 9: Baureferat
+- TOP 9.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 6 Sendling Widmung einer Teilstrecke der Fritz-Endres-Straße - <div>Zustimmung, einstimmig</div>
+- TOP 9.2.: Pfützenbildung auf der Platzfläche des Herzog-Ernst-Platzes
+- TOP 9.3.: Umgestaltung des Harras - Ausführungsgenehmigung
+- TOP 9.4.: Erneuerung der Beleuchtung im Brudermühltunnel
+- TOP 9.5.: Beseitigung höhengleicher Bahnübergänge
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Brudermühlstraße 45 - 47
+- TOP 10.2.: Baumfällung Thalkirchner Straße 286
+- TOP 10.3.: Baumfällung Albert-Roßhaupter-Straße 14
+- TOP 10.4.: Fällgenehmigung Karwendelstraße 49
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Verbesserung der Parksituation für die Anwohner des Wohngebietes westlich der Bezirkssportanlage Dietramszeller Platz; Aufhebung der Parkregelung entlang des Israelitischen Friedhofs Empfehlung Nr. 08-14 / E 00687 der Bürger- versammlung des Stadtbezirkes 6 -Sendling am 13.10.2010 - <div>Zustimmung, einstimmig</div>
+- TOP 12: Anträge
+- TOP 12.1.: Umgestaltung der Querung für Fußgänger und Radfahrer an der Kreuzung Albert-Roßhaupter-Straße / Meindlstraße - Karwendelstraße
+- TOP 12.2.: Öffnung der Reutbergerstraße für den gegenläufigen Radverkehr
+- TOP 13: Verschiedenes
+- TOP 13.1.: Schutz des historischen Mühlsteins am U-Bahnaufgang an der Brudermühlstraße
+- TOP 13.2.: Königsdorfer Str. 15 / 17; Grundstücksverkauf
+- TOP 13.3.: Wohnnutzung auf dem Answesen Meindlstr. 14 - 16
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
