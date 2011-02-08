@@ -1,0 +1,90 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126504
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126504
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 52., 2., 3. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 50., 51., 52. KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Amalienstraße 15, Um- und Neubau von Rück- und Seitengebäuden vertagt aus der Sitzung vom 11.01.2011, TOP B 2.1.2
+- TOP 2.1.4.: Vollzug der Baumschutzverordnung Arcisstraße 12, Neubau NS-Dokumentationszentrum vertagt aus der Sitzung vom 11.02.2011, TOP B 2.1.3
+- TOP 2.1.5.: Vollzug der Baumschutzverordnung Max-Joseph-Straße 9, Einrichtung einer Tiefgarage und Neugestaltung des Innenhofes mit Empfangsgebäude (Barer Straße 14/Karolinenplatz 2/Max-Joseph-Straße 9) vertagt aus der Sitzung vom 11.01.2011, TOP B 2.1.4
+- TOP 2.1.6.: Fürstenstraße 9, DG-Restausbau (Mittelgebäude) sowie Anbau von Balkonen (VGB + Mittelgebäude)
+- TOP 2.1.7.: Dachauer Str. 2, Aufstockung und Umbau eines Wohn- und Geschäftshauses, Anbau einer Aufzugsanlage
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Erzgießereistraße 25 ? 27, Schwarzpappel
+- TOP 2.2.2.: Lothstr. 64, Robinie
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Antrag der Grünen-Fraktion im BA 3: Bessere Beteiligung des BA an den Beratungen zum Themenkomplex ?Kunstareal München?
+- TOP 1.3.: Antrag des Vorsitzenden: Verfahrensvorschlag für die Beteiligung des Bezirksausschusses und der Öffentlichkeit des Stadtbezirkes an den weiteren Schritten zum Projekt Museumsviertel/?Kunstareal?
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Linprunstraße beidseitig zwischen Erzgießereistraße und Sandstraße: Zeichen 314 StVO mit dem Zusatz ?nur Pkw? vertagt aus der Sitzung vom 11.01.2011, TOP C 2.1.2 Unterlagen liegen bereits vor
+- TOP 2.1.2.: (E) Verkehrsberuhigung der Theresienstraße durch geänderte Ampelschaltung (Ziffer 2 des Antrages)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Faschingszug der ?Damischen Ritter? am 27.02.2011
+- TOP 2.2.2.: Kreisverwaltungsreferat, Sondernutzungserlaubnis: Oskar-von-Miller-Ring 29, HNO-Gemeinschaftspraxis, mobiler Fahrradständer
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Direktorium, Änderung BA-Katalog Kreisverwaltungsreferat: Ziff: 13.2 Genehmigung von Schießstätten und Feuerwerken
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Sozialreferat, Ausschreibung Weltkindertag 2011
+- TOP 2.2.: Direktorium, Antrag Nr. 08-14 / A 01025 der Stadtratsfraktion Die Grünen/Rosa Liste vom 01.09.2009: Mehr Einflussmöglichkeiten für junge Menschen 1
+- TOP 2.3.: Aufstellen eines Maibaumes im Bereich der Pfarrkirche St. Benno durch Barbara Hierl: Einladung an Vertreter des BA 3
+- TOP 3.1.: Überlegungen zum Kinder- und Bürgerfest 2011 (s. auch TOP G 4)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Direktorium, Beschlussvorlage für die Sitzung des Verwaltungs- und Personalausschusses am 19.01.2011, BA-Antrags-Nr. 08-14 / B 01302 des Bezirksausschusses 10 Moosach vom 29.06.2009, Sitzungsvorlage-Nr. 08-14 / V 05752: Teilnahme der Bezirksausschüsse an Wettbewerben, Benennung und Entsendung von Stell- vertretern
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung: Bebauungsplan mit Grünordnung Nr. 2049 Marsstraße(südlich), Rundfunkplatz (westlich), Hopfenstraße (westlich), Herbststraße (öst- lich) (Teiländerung des Bebauungsplanes Nr. 937) Beschluss der Vollversammlung des Staddtrates vom 15.12.2010 Sitzungsvorlagen Nr. 08-14 / V 05506
+- TOP 1.3.: Bezirksausschuss 1 Altstadt-Lehel, Abdruck eines Antrags vom 21.01.2011: Genehmigung weiterer Spielhallen aussetzen
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für die Sitzung des Ausschus- ses für Stadtplanung und Bauordnung am 12.01.2011, Sitzungsvorlage Nr. 08-14 / V 05592: Nahverkehrsplan (NVP) der Landeshauptstadt München Aufgabenstellung, Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung, Finanzierung der ÖPNV-Infrastruktur, Anträge
+- TOP 2.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für die Sitzung des Aus schusses für Stadtplanung und Bauordnung am 12.01.2011, Sitzungsvorlage Nr. 08-14/ V 05724: Entwicklung des Verkehrs in München; aktueller Sachstand, Anträge
+- TOP 2.3.: Kreisverwaltungsreferat, Information zum ?Hamburger Fischmarkt? auf dem Wittelsbacherplatz 2011
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsmanagement: Schreiben vom 04.01.2011 an Herrn Stadtrat Josef Schmid zur Anlieferzone Penny-Markt Sandstraße 37/39
+- TOP 2.5.: Referat für Stadtplanung und Bauordnung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011, Sitzungsvorlage Nr. 08-14 / 05724 Entwickung des Verkehrs in München, Ergänzungen, Druckfehlerbereinigung
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsmanagement: Einrichtung von Fahrradstraßen
+- TOP 2.7.: Baumaßnahmen der Stadtwerke München: Pappenheimstraße, Fernwärme
+- TOP 2.8.: Kreisverwaltungsreferat, Verkehrsmanagement: CarSharing in München, Durchführung von Pilotprojekten Beschlussvorlage für den Kreisverwaltungsausschuss am25.01.2011, Sitzungsvorlage Nr. 08-14 / V 05883
+- TOP 2.9.: Baureferat Ingenieurbau: Erneuerung der Beleuchtung im Altstadtringtunnel und im Brudermühltunnel;Beschlussvorlage für den Bauausschuss am 03.02.2011, Sitzungsvorlage Nr. 08-14 / V 05447
+- TOP 2.10.: Referat für Stadtplanung und Bauordnung: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung; Beschlussvorlage für den Planungsausschuss am 02.02.2011, Sitzungsvorlage Nr. 08-14 / V 04477
+- TOP 2.11.: BA 1 Altstadt-Lehel, Abdruck eines Schreibens an den Oberbürgermeister: ?Kulturstrand in München? - Interessenbekundungsverfahren
+- TOP 2.12.: Kreisverwaltungsreferat, Verkehrsmanagement: Probeweise Abschaltung der Lichtzeichenanlage Kardinal-Döpfner-Straße / Oskar-von-Miller-Ring
+- TOP 2.13.: Anbringen einer Gedenktafel für die Medizinerin Hope Adams-Lehmann am Gebäude Gabelsbergerstr.51 (ehemals Nr. 20a)
+- TOP 3: Soziales und Bildung
+- TOP 3.1.: Referat für Bildung und Sport, Beschlussvorlage für den Ausschuss für Bildung und Sport am 12.01.2011, Sitzungsvorlage Nr. 08-14 / V 05636: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2010/2011
+- TOP 3.2.: Referat für Bildung und Sport, Beschlussvorlage für den Ausschuss für Bildung und Sport am 12.01.2011, Sitzungsvorlage Nr. 08-14 / V 05714: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule im Schuljahr 2010/2011
+- TOP 3.3.: Referat für Bildung und Sport, Beschlussvorlage für den Ausschuss für Bildung und Sport am 12.01.2011, Sitzungsvorlage Nr. 08-14 / V 05718: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städti schen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2010/2011
+- TOP 3.4.: Referat für Bildung und Sport, Beschlussvorlage für den Ausschuss für Bildung und Sport am 12.01.2011, Sitzungsvorlage Nr. 08-14 / V 05621: Schüler/innen und Klassenstand der Beruflichen Schulen der Landeshauptstadt München im Schuljahr 2010/2011, Stand 20.10.2010
+- TOP 3.5.: Referat für Bildung und Sport: Vollzug des ByKiBiG, Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Erzgießereistraße 33
+- TOP 4: Kultur
+- TOP 4.1.: Direktorium, Anhörung: Änderung BA-Katalog Kreisverwaltungsreferat, Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken
+- TOP 4.2.: Jährliche schriftliche Information der Bezirksausschüsse über die wichtigsten städtischen Entwicklungen bezüglich des Datenschutzes durch den Datenschutzbeauftragten; insbesondere soll über Bürgerbeschwerden in anonymer Form informiert werden.
+- TOP 4.3.: Antrag des BA 19 Thalkirchen ? Obersendling ? Forstenried ? Fürstenried ? Solln: Aufforderung an alle Bezirksausschüsse eine angemessene Gedenkveranstaltung am 08.05.2011 zu organisieren.
+- TOP 4.4.: Kinder- und Bürgerfest des Bezirksausschusses 2011 als Museumsviertelfest
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
