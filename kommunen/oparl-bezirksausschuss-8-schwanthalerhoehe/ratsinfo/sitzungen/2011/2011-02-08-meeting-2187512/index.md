@@ -1,0 +1,54 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-02-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187512
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187512
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Erhalt des Lindengartens
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: Neubau in der Schießstättstraße
+- TOP 5.2.: Anhörung: Neubau Ganghoferstraße 3
+- TOP 5.3.: Anhörung: Umbau in der Schwanthalerstr. 131
+- TOP 5.4.: Vorbescheid: DG-Ausbau Anglerstr. 19a-25
+- TOP 5.5.: Meldeliste
+- TOP 5.6.: Aufhebung Sanierungsblöcke Westend
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Kindertageseinrichtung in der Kazmairstr. 66
+- TOP 6.2.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Ampel für Radlkoferstraße / Hans-Fischer-Straße
+- TOP 8.2.: Fußgängerübergang Trappentreustr. Süd / Heimeranplatz
+- TOP 8.3.: Skateverbot am Georg-Freundorfer-Platz
+- TOP 8.4.: Radverkehr; Einrichtung von Fahrradstraßen
+- TOP 8.5.: Sanierung Bergmannstraße
+- TOP 8.6.: Schreiben der MVG an den BA 15 - Zeitkartenautomaten
+- TOP 8.7.: Einbeziehung der Philipp-Loewenfeld-Str. in das Parkraummanagement
+- TOP 8.8.: Antwort zu BV-Empfehlung Nr. 08-14 / E 00582 U-Bahn-Linie 4 bis Westendstraße
+- TOP 8.9.: Neurerlass der Straßenreinigungs- und sicherungsverordnung
+- TOP 8.10.: Antwortschreiben - Baustellen am Hauptzollamt sowie in der Trappentreustraße
+- TOP 8.11.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Multikulturelles Jugendzentrum, KJR mobile Spiele von April bis Oktober 2011
+- TOP 10: Anträge
+- TOP 10.1.: Gestaltung der Fuß- und Radwegunterführung Hans-Fischer-Str. / Theresienhöhe
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung: Mehr Einflussmöglichkeiten für junge Menschen
+- TOP 11.2.: Anhörung: Änderung BA-Katalog Kreisverwaltungsreferat; Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken
+- TOP 11.3.: Antrag des BA 19 - Gedenkfeier zum Jahrestag der Befreiung vom Naziregime
+- TOP 11.4.: Einladung der Gleichstellungsstelle für Frauen
+- TOP 11.5.: Beschlussvorlage: Teilnahme der Bezirksausschüsse an Wettbewerben; Benennung und Entsendung von Stellvertretern
+- TOP 11.6.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 12: Protokoll und Umlauf
