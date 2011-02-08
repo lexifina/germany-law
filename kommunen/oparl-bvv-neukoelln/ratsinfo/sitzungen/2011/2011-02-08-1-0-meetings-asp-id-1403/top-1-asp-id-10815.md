@@ -1,0 +1,7 @@
+# TOP 1: Neu- und Erweiterungsbauten Januar 2011
+
+- Sitzung: 42. öffentliche Sitzung des Ausschusses für Stadtentwicklung (2011-02-08)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=10815
+- Ergebnis: erledigt
