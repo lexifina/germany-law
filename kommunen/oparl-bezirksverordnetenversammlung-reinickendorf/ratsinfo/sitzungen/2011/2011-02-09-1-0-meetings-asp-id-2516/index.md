@@ -1,0 +1,97 @@
+# 49. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-02-09T17:05:00+01:00
+- Ende: 2011-02-09T22:00:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2516
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2516
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=51095
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Regelsatz Hartz IV (Große Anfrage 12.01.2011) - beantwortet
+- TOP 5.2: Waldbestattung in Reinickendorfer Ruheforst (Beschlussempfehlung 12.01.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Insel im Tegeler Hafen - Wegerecht der Öffentlichkeit (Beschlussempfehlung 12.01.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Reaktivierung der Heidekrautbahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Ganztageskonzept Friedrich-Engels-Gymnasium - überwiesen
+- TOP 7.3: Zeitliche Geschwindigkeitsbeschränkung vor Schulen und Kindergärten einheitlich regeln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Unterstützung Gehörgeschädigter im BVV-Saal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: ÖPNV-Anbindung Gelände TXL - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Präventionsprojekt "Nein zu Gewalt" auch an Reinickendorfer Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Barrierefreiheit an Schulneu- und Ergänzungsbauten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Aufwertung Spielplatz Göschenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Mauerstreifen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Heidekrautbahn: "Haltestelle Wilhelmsruh - Märkisches Viertel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Keine Fernbahnstrecke durch Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Ausgabe "Gelbe Säcke" durch die BSR - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Integrationspreis 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Gleichstellungspolitische Ziele im Bereich Gender Mainstreaming/Budgeting des Bezirksamtes Reinickendorf - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Gemeinschaftsschule in Reinickendorf - beantwortet
+- TOP 8.1.1: Gemeinschaftsschulen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Reinickendorfer Ergebnisse des Monitoring "Soziale Stadtentwicklung 2010" - vertagt
+- TOP 8.3: Nachhaltige Schulgebäudesanierungen? - vertagt
+- TOP 8.4: Schneeräumung in Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl eines Mitgliedes und eines stellvertretenden Mitgliedes für den Beirat des JobCenters Berlin-Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Investitionsplanung 2011 bis 2015 - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Ordnungsplan 2009/2010 mit Schwerpunkten vorlegen - erledigt
+- TOP 10.2: Denkmalgerechte Sanierung des S-Bahnhofs Frohnau - erledigt
+- TOP 10.3: Brix und Genzmer-Platz in Frohnau - überwiesen
+- TOP 10.4: Über städtebauliche Entwicklung der Cité Foch informieren - erledigt
+- TOP 10.5: Mieterfreundliche Sanierung in Reinickendorf-West - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Mindestlohn - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Gemeinschaftsschule im MV - zurückgezogen
+- TOP 10.8: Keine Einheitsschulen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Keine Dumpinglöhne durch Übertragung an freie Träger - in der BVV abgelehnt
+- TOP 10.10: Behinderung des Schul- und Vereinssports in Reinickendorf durch das Bezirksamt - erledigt
+- TOP 10.11: Qualität vorschulischer Sprachförderung gesichert? - vertagt
+- TOP 10.12: Beratungsabläufe in den Bürgerämtern - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Finanzierung Straßensozialarbeit in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Übertragung der Jugendfreizeiteinrichtung "Freizeitzentrum Amendestraße" in freie Trägerschaft an den "Evangelischen Kirchenkreis Reinickendorf" - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Bürgerbüro am Flughafen Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Aufgabe der Freizeiteinrichtung "Terra" in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Bebauungsplanentwurf 12-15 vom 30. April 2008; Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-15 vom 30. April 2008 - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Für dauerhafte moderne Servicedienstleistungen in den Bezirken einsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Änderung der Geschäftsordnung - Versand der Einladungen und Sitzungsunterlagen - überwiesen
+- TOP 10.20: Änderung der Geschäftsordnung - § 24 a (1) und § 39 (2) - überwiesen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Einsatz eines Ausschusses für Migration - vertagt
+- TOP 11.2: Wahl einer stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Nachnutzung TXL - Vorrang für Arbeitsplätze (3): Werbung für Investoren mit Hinweisschild am Flughafen - überwiesen
+- TOP 12.2: Externe Auftragsvergabe Glücksspielhallenkonzept - überwiesen
+- TOP 12.3: Schulstandorte in Heiligensee - überwiesen
+- TOP 12.4: Bezeichnung Schulen in freier Trägerschaft verwenden - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Defekte Straßenbeleuchtung schnell reparieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Winterschädenbeseitigung - überwiesen
+- TOP 12.7: Open-Air-Kulturveranstaltungen I - überwiesen
+- TOP 12.8: Patenschaften zwischen Kindertagesstätten und Senioreneinrichtungen - überwiesen
+- TOP 12.9: Transparenz in der Alemannenstraße - überwiesen
+- TOP 12.10: Open-Air-Kulturveranstaltungen II - überwiesen
+- TOP 12.11: Vernetzte Suchtprävention in Reinickendorf - überwiesen
+- TOP 12.12: Öffnungszeiten der Jugendverkehrsschulen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Haushalts-Sonderprogramm Winter 2010/2011 - überwiesen
+- TOP 13.2: Schnee- und Eisbeseitigungsvertrag - vertagt
+- TOP 13.3: Nachhaltiges Mobilitätskonzept für künftigen Industriepark Tegel - überwiesen
+- TOP 13.4: Personenfährverkehr zu Inseln in Tegel aufrechterhalten - vertagt
+- TOP 13.5: TRIXI-Spiegel in Reinickendorf - überwiesen
+- TOP 13.6: Verkehrssicherheit durch mehr Übersicht am Falkenplatz in Konradshöhe - überwiesen
+- TOP 13.7: Sicherheit in Reinickendorf (2): Berliner Feuerwehr in den Außenbezirken jetzt mit Brandschutzkleidung und benötigter Technik ausstatten - überwiesen
+- TOP 13.8: Nachnutzung TXL - Vorrang für Arbeitsplätze (4): Verkehrserschließungskonzept - überwiesen
+- TOP 13.9: Aufwand für die Beseitigung von Vandalismus und Graffitischmierereien im öffentlichen Nahverkehr in Reinickendorf - überwiesen
+- TOP 13.10: Sprachförderklassen einrichten - vertagt
