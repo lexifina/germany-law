@@ -1,0 +1,6 @@
+# TOP 3.: Presseveröffentlichungen
+
+- Sitzung: Ausschuss für Sport und Freizeit (7. Sitzung) (2011-02-09)
+- Körperschaft: Stadt Wesseling
+- Öffentlich: ja
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/agendaitem/50920
