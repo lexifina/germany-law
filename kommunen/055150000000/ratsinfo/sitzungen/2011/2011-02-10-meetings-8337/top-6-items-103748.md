@@ -1,0 +1,8 @@
+# TOP 6: Förderung Musikschularbeit (Produktgruppe 04,03 "Westfälische Schule für Musik und Förderung der e.V.-Musikschulen"), hier: Rahmenbedingungen der Förderung am 2011 / Neue Finanzformel
+
+- Sitzung: Sitzung (2011-02-10)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/103748
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/46082
