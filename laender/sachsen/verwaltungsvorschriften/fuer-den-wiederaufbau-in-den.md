@@ -1,8 +1,8 @@
 # Für den Wiederaufbau in den vom Hochwasser 2010 betroffenen Regionen stehen neben den ereignisspezifischen Förderrichtlinien des Sächsischen Staatsministeriums des Innern (SMI) aus dem Ressortbereich des Sächsischen Staatsministeriums für Umwelt und 
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-11-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11474.2
+- Datum: 2011-02-11 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11474.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -105,7 +105,7 @@ Die nachfolgenden Regelungen finden auf Anträge der durch das Hochwasser 2010 G
 3.
 
 
-Die Regelungen der VwV Wiederaufbau Hochwasser 2010 gelten für Förderungen nach Teil I Nummer 1 bis 4 sowie 6 und 8, die bis zum 31. März 2011 bei den zuständigen Bewilligungsbehörden beantragt werden. Die Förderung nach Teil I Nummer 5 ist bis zum 30. Juni 2011, die Förderung nach Teil I Nummer 7 ist bis zum 31. Dezember 2010 bei den zuständigen Bewilligungsbehörden zu beantragen.
+Die Regelungen der VwV SMUL Aufbauhilfe Sommerhochwasser 2010 gelten für Förderungen nach Teil I Nummer 1 bis 6 und 8, die bis zum 30. Juni 2011 bei den zuständigen Bewilligungsbehörden beantragt werden. Die Förderung nach Teil I Nummer 7 ist bis zum 31. Dezember 2010 bei den zuständigen Bewilligungsbehörden zu beantragen.
 
 
 4.
@@ -215,7 +215,7 @@ In Teil II Kapitel G Nummer 4 werden die Förderobergrenzen aufgehoben und die F
 4.
 
 
-RL GH/2007 : 
+RL GH/2007: 
 
 
 4.1
@@ -242,10 +242,20 @@ Maßnahmen der Hochwasserschadensbeseitigung sind Sofortmaßnahmen zur Gefahrena
 Für die Ausführung der Schadensbeseitigung gelten die Vorgaben des Erlasses des SMUL vom 18. August 2010 zur Förderung der Hochwasserschadensbeseitigung an Gewässern in kommunaler Unterhaltungslast nach dem Augusthochwasser 2010.
 
 
+4.5
+
+
+Der einfache Verwendungsnachweis ist vom Zuwendungsempfänger zusammen mit dem letzten Auszahlungsantrag einzureichen. Die Verwendungsnachweisprüfung beschränkt sich, soweit keine Anhaltspunkte für die Geltendmachung von Erstattungsansprüchen oder Zinsforderungen bestehen, auf die Schlüssigkeitsprüfung nach Nummer 11.1 der 
+
+VwV zu § 44 SäHO. Die Regelungen in Nummer 7.5 Satz 1 und 2 der 
+
+RL GH/2007 zum Verwendungsnachweisverfahren finden, außer für Wasser- und Bodenverbände, keine Anwendung.
+
+
 5.
 
 
-RL SWW/2009 : 
+RL SWW/2009: 
 
 
 5.1
@@ -264,6 +274,16 @@ Die Zuwendung beträgt 90 Prozent der zuwendungsfähigen Ausgaben. Die Zuwendung
 
 
 Für die Ausführung der Schadensbeseitigung gelten die Vorgaben des Erlasses des SMUL vom 18. August 2010 zur Förderung der Hochwasserschadensbeseitigung an Anlagen der Wasserversorgung und Abwasserbeseitigung nach dem Augusthochwasser 2010.
+
+
+5.4
+
+
+Die Bewilligungsstelle prüft die sachliche und rechnerische Richtigkeit des einfachen Verwendungsnachweises und bestätigt gemäß Nummer 11.1 der 
+
+VwV zu § 44 SäHO (Schlüssigkeitsprüfung) die ordnungsgemäße Durchführung des geförderten Projektes. Die Regelungen in Nummer 7.4.1 Satz 4 der 
+
+RL SWW/2009 zum Verwendungsnachweisverfahren finden keine Anwendung.
 
 
 6.
