@@ -1,0 +1,90 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2216895
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2216895
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: MVV-Zeitkartenringeinteilung in Moosach
+- TOP 2.2.: Verkürzung des Tempo 60-Bereichs in Höhe der Wohnbebauung in der Dachauer Str.
+- TOP 2.3.: Metro Bus 50: Erhalt der Buslinie
+- TOP 2.4.: Pünktlichkeit der Buslinie 50
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Bericht: ?Das Schulreferat trifft die Bezirksausschüsse? Termine 2011
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Bauvorhaben Vilniusstraße - Neubau einer Wohnanlage - WR 1 - Neubau eines Wohnhauses mit Kindertagesstätte und Tiefgarage - Neubau eines Wohnhauses mit TG
+- TOP 3.2.: Bericht: Informationsveranstaltung des Referates für Arbeit und Wirtschaft am 24.01.2011
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Vorbereitung 2013 Eingemeindung
+- TOP 4.2.: Aufstellung von Abfallbehältern
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Abfahrtsmonitore im U-Bahnhof Moosach
+- TOP 4.2.: Schaukasten Untermenzinger Straße
+- TOP 4.3.: gestrichen
+- TOP 4.4.: Verlängerung des 10-Minuten-Taktes der Buslinie 169 bis 21 Uhr
+- TOP 4.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 10 Moosach Widmung einer Teilstrecke der Straße "Am Hartmannshofer Bächl"
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Ausbessern des Radweges Hugo-Tröndle-Straße zwischen Gleißmüllerstraße und Zügelstraße
+- TOP 4.4: Anträge der F.D.P.
+- TOP 2: (E) Umwidmung des Moosacher St.-Martins-Platzes BA-Antrags-Nr. 08-14 / B 02436 des Bezirksausschusses des Stadtbezirkes 10 Moosach vom 27.09.2010 - <div>nach Antrag</div>
+- TOP 2.3.: (E) Budget der Bezirksausschüsse digitalanalog e.V. Kinderworkshop am 09./10.03.2011
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Caritas Moosach Zwei Jahresabonnements und Streifenkarten für bedürftige Moosacher Bewohner
+- TOP 2.5.: (E) Budget der Bezirksausschüsse "Die Linie 1" Kulturverein München-Moosach e.V. Musical "Der kleine Horrorladen" ab Februar 2011
+- TOP 2.6.: Antrag auf Warenauslage; Franz-Marc-Str. 10
+- TOP 6: Anhörungen
+- TOP 6.1.: City Bike Marathon München und nördl. Umgebung am 10.04.2011
+- TOP 6.2.: Pflanzentauschbörse am 07.05.2011 auf dem Simmerleinplatz
+- TOP 6.4.: CarSharing in München; Durchführung von Pilotprojekten
+- TOP 6.5.: Strassenreparatur: Triebstraße / Hanauer Straße - Kreuzungsbereich
+- TOP 6.6.: Straßenreparatur: Max-Born-Straße - zwischen Feldmochinger Straße und Dachauer Straße
+- TOP 6.7.: Vollzug der Baumschutzverordnung: a) Pelkovenstraße 60 b) Andernacher Straße 48
+- TOP 6.8.: Änderung BA-Katalog Kreisverwaltungsreferat Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken
+- TOP 6.9.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen
+- TOP 6.10.: Beteiligungsverfahren zur Erteilung einer Sondernutzungserlaubnis zum Betrieb einer Wertstoffsammelstelle auf städtischem Grund, Baubergerstraße
+- TOP 6.11.: Straßenbrücke Mittlerer Ring über die Landshuter Allee und Georg-Brauchle-Ring; Erneuerung der Übergangskonstruktion
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Teilnahme der Bezirksausschüsse an Wettbewerben Benennung und Entsendung von Stellvertretern (Dem Antrag des BA 10 wird nicht entsprochen.)
+- TOP 7.2.: Feuerdornhecke in der Jakob-Hagenbucher-Straße / Siegmund-Schacky-Straße (Frist zur Beseitung bis Ende März.)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Gedenkfeier; Antrag BA 19
+- TOP 8.4.: Anzeige einer Versammlung: Proteste gegen die sog. Nato-Sicherheitskonferenz
+- TOP 8.5.: Einrichtung von Umweltzonen (Antwort auf BA-Antrag)
+- TOP 8.6.: Spielhallen in München (Antrag BA 1)
+- TOP 8.7.: ?Kulturstrand für München? - Interessenbekundungsverfahren (Schreiben des BA 1)
+- TOP 8.8.: ?Kulturstrand für München? - Erarbeitung der Kriterien durch das Kulturreferat (Schreiben des Kulturreferates)
+- TOP 8.9.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 8.10.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung
+- TOP 8.11.: Bebauungsplan mit Grünordnung Nr. 1941 Baubergerstraße (östlich), Netzerstraße (westlich) im 10. Stadtbezirk Moosach
+- TOP 8.12.: Genehmigung der Zweckentfremdung von Wohnraum: a) Gärtnerstraße b) Golgauer Straße c) Darmstädter Straße
+- TOP 8.13.: Mehr Einflussmöglichkeiten für junge Menschen 1 (Antwort auf den Stadtratsantrag)
+- TOP 8.14.: Entwicklung des Verkehrs; Hinweis / Ergänzung vom 10.01.2011
+- TOP 8.15.: Zeitkartenautomaten Messestadt Ost (Schreiben der MVG)
+- TOP 8.16.: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung
+- TOP 8.17.: Dachauer Straße (nordöstlich) zwischen Willi-Gebhardt-Ufer, Olympiapark, Schwere-Reiter-Straße, Entwicklung des Olympischen Dorfes und des Mediendorfes für die Olympischen und Paralympischen Winterspiele 2018 (Broschüre im Sitzungordner)
+- TOP 8.18.: CarSharing in München; Durchführung von Pilotprojekten (Satzungsbeschluss)
+- TOP 8.19.: Münchner Statistik, 2. Quartalsheft, 2010 (Einsichtnahme in der BA-Geschäftsstelle möglich)
+- TOP 8.20.: Mehrjahresinvestitionsprogramm (MIP) 2010 - 2014
+- TOP 8.21.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 8.22.: Widmung einer Teilstrecke der Emmy-Noether-Straße und von Teilstrecken des Agnes-Pockels-Bogens (beglaubigter Abdruck)
+- TOP 8.23.: Verkehrsrechtliche Anordnung a) Bunzlauer Platz
+- TOP 8.24.: Beseitigung höhengleicher Bahnübergänge
+- TOP 8.25.: Haushaltsplan 2011 Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP 8.26.: Zuwendungen aus Budgetmitteln: a) Olympischer Sportclub, GS Gerastraße b) Olympischer Sportclub, GS Amphionpark
+- TOP 8.27.: Unveränderte Fortführung von Gaststättenbetrieben; hier: a) Club Monaco, Gärtnerstr. 60 b) Restaurant Neue Fasanerie, Hartmannshofer Str. 20 c) Postsportpark, Franz-Mader-Str. 11
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
