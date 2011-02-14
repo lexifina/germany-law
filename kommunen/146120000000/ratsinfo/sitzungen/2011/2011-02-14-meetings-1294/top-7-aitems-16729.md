@@ -1,0 +1,8 @@
+# TOP 7: Wiedereinrichtung der Fährverbindung zwischen Gohlis und Kaditz
+
+- Sitzung: 16. Sitzung des Ortschaftsrates Cossebaude (2011-02-14)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/16729
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/5307
