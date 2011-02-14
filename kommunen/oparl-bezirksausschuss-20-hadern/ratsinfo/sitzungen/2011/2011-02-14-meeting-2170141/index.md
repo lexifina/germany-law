@@ -1,0 +1,129 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170141
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170141
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verkehrsschilder Schröfelhofstraße / Menaristraße
+- TOP 1.2.: Geschwindigkeitsüberwachung in der Terofalstraße zwischen Blumenauer- / Wastl-Witt-Straße und Silberdistelstraße
+- TOP 1.3.: Hotelgrundstück Großhadern - Umwidmung in Wohnungsbau Vohabenbezogener Bebauungsplan mit Grünordnung der Landeshauptstadt München, Sauerbruchstraße westlich
+- TOP 1.4.: Grünpfeil an der Kreuzung Marchioninistraße / Sauerbruchstraße
+- TOP 1.5.: Stiftsbogen: - Übergang am Stiftsbogen - Buslinie 167
+- TOP 1.6.: Verbesserung der Sicht für ausfahrende Kfz auf den Stiftsbogen
+- TOP 1.7.: Verkehrssicherheit auf dem Schulweg Fürstenrieder Straße / Ammerseestraße
+- TOP 1.8.: "Zacherlhof", Würmtalstraße 117 / Heiglhofstraße 4, hier: Abstandsflächen an der Süd- und Westseite des Bauvorhabens
+- TOP 1.9.: Vermietung Ladengeschäfte im Einkaufszentrum Blumenau
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: Gemeinsamer UA Wohnen, Bau und Umwelt und UA Kinder / Jugend / Schule / Sport
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 3.3.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Pfingstrosenstraße 77 - 83, Umbau von Läden zu 10 Wohnungen (Referat für Stadtplanung und Bauordnung, 19.01.11)
+- TOP 6.2.: Canisiusplatz 3, Neubau zweier Einfamilienhäuser (Variante 1) ODER eines Mehrfamilienhauses (Variante 2) - Vorbescheid (Referat für Stadtplanung und Bauordnung, 17.01.11)
+- TOP 6.3.: Heiglhofstraße 5, Nutzungsänderung: Büro zu Kindertagesstätte (Referat für Stadtplanung und Bauordnung, 17.01.11)
+- TOP 6.4.: Sauerbruchstraße 8, Nutzungsänderung für den Umbau von Geschäftsräumen in eine 3-gruppige Kinderkrippe (Referat für Stadtplanung und Bauordnung, 17.01.11)
+- TOP 6.5.: Terofalstraße 25, Neubau einer Kindertagesstätte mit Wohnungen (Variante 4) - Vorbescheid (Referat für Stadtplanung und Bauordnung, 17.01.11)
+- TOP 6.6.: Veilchenstraße 55 - 57, Neubau 2er Mehrfamilienhäuser mit Tiefgarage - Haus A und Haus B (Referat für Stadtplanung und Bauordnung, 17.01.11)
+- TOP 6.7.: Beschlussentwurf für den Sozialausschuss: Bauvorhaben Großhaderner Straße / Ammerseestraße Anpassung der Projektrahmenbedingungen für o.g. Baugrundstück im Rahmen des kommunalen Wohnungsbauprogramms - Teilprogramm für Clearinghäuser (KomPro/C) (Sozialreferat, 11.01.10)
+- TOP 6.8.: Mobilfunk; Suchkreismeldung im Suchkreis Sauerbruchstraße (Referat für Gesundheit und Umwelt, 13.01.11)
+- TOP 6.9.: Änderung BA-Katalog Kreisverwaltungsreferat Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken (Direktorium, 12.01.11)
+- TOP 6.10.: Veranstaltung auf städtischer Grünanlage, hier: Puppentheater Stoßberger, Kasperltheater im Zelt, Max-Lebsche-Platz vom 05.10. - 16.10.2011 (Kreisverwaltungsreferat, 20.01.11)
+- TOP 6.11.: Veranstaltung auf städtischer Grünanlage, hier: Flohmarkt des städtischen Kindergartens Ludwig-Wörl-Weg 44 auf dem Max-Lebsche-Platz am 15.04.2011 von 14.00 - 17.00 Uhr (Kreisverwaltungsreferat, 17.01.11)
+- TOP 6.12.: Veranstaltung auf städtischer Grünanlage, hier: Zirkusgastpsiel des Circus Galliano, Max-Lebsche-Platz vom 17.07. - 02.08.2011 (Kreisverwaltungsreferat, 26.01.11)
+- TOP 6.13.: Erinnerungsverfahren: Bortenhofstraße Absenkungen (Baureferat, 14.01.11)
+- TOP 6.14.: Erinnerungsverfahren: Würmtalstraße Ecke Butenandtstraße (Baureferat, 21.01.11)
+- TOP 6.15.: Änderung der BA-Satzung, hier: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen, Antr. BA 13 (Direktorium, 27.01.11)
+- TOP 6.16.: Beschlussentwurf für den Kreisverwaltungsausschuss: CarSharing in München; Durchführung von Pilotprojekten (Kreisverwaltungsreferat, 26.01.11)
+- TOP 6.17.: Einrichtung eines personenbezogenen Behindertenparkplatzes am Schietweg 1 a (Kreisverwaltungsreferat, 31.01.11)
+- TOP 6.18.: Guardinistraße 33, Neubau einer Kindertagesstätte mit 6 Krippengruppen (Referat für Stadtplanung und Bauordnung, 04.02.11)
+- TOP 6.19.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Ludwig-Hunger-Straße 16 (Kreisverwaltungsreferat, 02.02.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Pfingstrosenstraße 12, 1 Fichte
+- TOP 7.2.: Pfingstrosenstraße 63 b, 1 Falschnelkenkirsche
+- TOP 7.3.: Kleinhaderner Straße 39, 1 Fichte
+- TOP 7.4.: Kleinhaderner Straße 47, 1 Fichte
+- TOP 7.5.: Terofalstraße 25, gem. Baumbestandsplan Nr. 31682
+- TOP 7.6.: Saalburgstraße 28, 1 Birke
+- TOP 7.7.: Veilchenstraße 55 - 57, gem. Baumbestandsplan Nr. 31725
+- TOP 7.8.: Rebholzstraße 3 a, 2 Birken
+- TOP 7.9.: Guardinistraße 33, gem. Baumbestandsplan Nr. 1679
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Bortenhofstraße 4, 1 Birke (Referat für Stadtplanung und Bauordnung, 08.02.11)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zeitkartenautomat Messestadt Ost (MVG, 14.12.10)
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Waldgartenstraße (Sozialreferat, 11.01.11)
+- TOP 8.3.: Mehr Einflussmöglichkeiten für junge Menschen 1 (Direktorium, 03.01.11)
+- TOP 8.4.: Radverkehr; Einrichtung von Fahrradstraßen (Kreisverwaltungsreferat, 13.01.11)
+- TOP 8.5.: Generalinstandsetzung und Erweiterung Grundschule Canisiusplatz 2 (Baureferat, 17.01.11)
+- TOP 8.6.: Information über Betriebskonzept während der Schienenschleifarbeiten von Mitte Februar bis Anfang März 2011 (MVG, 24.01.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Gehwegabsenkung Guardinistraße (Baureferat, 13.01.11)
+- TOP 9.2.: Schröfelhofstraße, Anfrage zur Errichtung weiterer Parkplätze (Referat für Stadtplanung und Bauordnung, 20.01.11)
+- TOP 9.3.: VDSL-Ausbau in München (Referat für Arbeit und Wirtschaft, 30.12.10)
+- TOP 9.4.: Landeplatz Helikopter Klinikum Großhadern (Referat für Gesundheit und Umwelt, 17.01.11)
+- TOP 9.5.: Parkplatzsituation Tannenwaldstraße, hier: Beschilderung des P+R-Parkplatzes Klinikum Großhadern (Kreisverwaltungsreferat, 28.12.10)
+- TOP 9.6.: Querungshilfe Zöllerstraße (Baureferat, 27.01.11)
+- TOP 9.7.: Parkprobleme Neufriedenheimer Straße / Ecke Guardinistraße (Kreisverwaltungsreferat, 13.01.11)
+- TOP 9.8.: Höhe der Bordsteine (Baureferat, 25.01.11)
+- TOP 9.9.: - Verschmutzung von Gehwegen - Herabhängende Sträucher auf Gehwege - Räumung der Gehwege im Winter (Baureferat, 24.01.11)
+- TOP 9.10.: Sanierung der Turnhalle der Senftenauer Schule, Sachstandsinformation (Referat für Bildung und Sport, 04.01.11)
+- TOP 9.11.: Fußballplatz auf dem Schulhof der Grundschule an der Großhaderner Straße (Referat für Bildung und Sport, 04.01.11 und 27.01.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Stadtteilcheck "Auf Herz und Rampen prüfen" in Hadern (Bayerische Versorgungskammer, 16.12.10)
+- TOP 10.2.: Parken in zweiter Reihe in der Großhaderner Straße (PI 41, 07.01.11)
+- TOP 10.3.: Waldwiesenstraße - Parken von Lkw und Anhängern - Geschwindigkeitsüberschreitungen (PI 41, 24.01.11)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Schmalere Buswartehäuschen (Schr. BAs 2, 3, 8, 9, 12, 13, 14, 15, 18, 19, 21 und 23)
+- TOP 11.2.: Einladung zum Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Dienstag, den 22.02.2011 von 17.00 - 19.00 Uhr im Rathaus, Raum 109 (Gleichstellungsstelle für Frauen, 11.01.10)
+- TOP 11.3.: Antrag des BA 19: Gedenkfeier am 08.05.2011
+- TOP 11.4.: Umweltzone im Stadtgebiet München (Schr. BA 15, 26.01.11)
+- TOP 11.5.: Antrag des BA 1: Spielhallen
+- TOP 11.6.: Kulturstrand in München - Erarbeitung von Kriterien durch das Kulturreferat (Kulturreferat, 21.12.10) dazu: Schreiben des BA 1 vom 21.01.2011
+- TOP 11.7.: Studie "Grundrisse für bezahlbaren Wohnraum" (DGB Region München, 05.01.11)
+- TOP 11.8.: Informationsbesuch am Klinikum der Universität München, Großhadern (LMU, 26.01.11)
+- TOP 11.9.: Ausstellung "München: Ansichtssache?" in der Rathausgalerie (Referat für Stadtplanung und Bauordnung, 31.01.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 24.11.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05521: Ertüchtigung des Bahnknotens München: 2. Stammstrecke (Keine Anhörung des BA Hadern, S. 36)
+- TOP 12.2.: Beschluss vom 15.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05208: Neuerlass der Straßenreinigungs- und -sicherungsverordnung (nach Antrag)
+- TOP 12.3.: Beschluss (nach Antrag) vom 15.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05288: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere gemäß Anlage 1, Abschnitt 3.1.1, S. 3, - zum Kinderhaus am Wolkerweg (Ansatz 198.148,- ?, laufende Nr. 56), - zum "Treffpunkt für Jugendliche PfiffTEEN" (Ansatz 307.167,- ?, laufende Nr. 57), - zum "Treff 21, Schule-Beruf e.V." (Ansatz 341.335,- ?, laufende Nr. 66), - zum "Studio im Netz (SiN) e.V." (Ansatz 81.667,- ?, S. 5, laufende Nr. 105), - zur Schulsozialarbeit an 7 Grundschulen insbesondere in Hadern (Ansatz stadtweit 342.159,- ? gemäß Abschnitt 3.1.2, S. 1, laufende Nr. 1), - zum "Familienzentrum Hadern-Blumenau" (Ansatz 63.346,- ? gemäß Abschnitt 3.2.1, S. 1, laufende Nr. 13) und - zum "Bewohnertreff Nachbarschaft Neuhadern" (Ansatz 98.518,- ? gemäß Abschnitt 3.2.2, S. 1, laufende Nr. 2)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05371: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes, insbesondere zu "Großhadern" (S. 5, 7 und 23): Erhalt mit Kürzungen entsprechend den Empfehlungen der Unteren Denkmalschutzbehörde (S. 12 - 13, Anlage 1, S. 10)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 08.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 04041: München setzt auf's Rad 2 Von Nachbarn in den Niederlanden und in Dänemark lernen (vertagt)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 04752 (vertagt): Verkehrskonzept im Münchner Westen, insbesondere zur Tram-Westtangente: Der BA 20 hat keine Einwendungen erhoben (S. 2 - 3, 5).
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 und Hinweis / Ergänzung vom 10.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05724: Entwicklung des Verkehrs in München (vertagt)
+- TOP 12.1.: Beschluss des Bauausschusses vom 03.02.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05745: Schröfelhofstraße, Neubau bzw. Ausbau als Erschließungsstraße (Kosten 1,2 Mio. ?). Ein Beteiligungsrecht des BA wird verneint.
+- TOP 12.2.: Beschluss des Bauausschusses vom 03.02.2011 zur Sitzungsvorlage-Nr. 08-14 / V 03800: Beseitigung höhengleicher Bahnübergänge
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05692: REGSAM München spart Steuergelder REGSAM wird künftig auf ehrenamtlicher Basis geführt (Ablehnung beantragt gemäß BA-Beschluss vom 10.01.2011, Anlage 18)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05592 (vertagt): Nahverkehrsplan (NVP) der Landeshauptstadt München, insbesondere zur Tram-Westtangente (S. 10 - 11): Entfall des Abzweigs zum Lorettoplatz (S. 15, 24): a) Aufgabenstellung b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung c) Finanzierung der ÖPNV-Infrastruktur d) Anträge
+- TOP 12.1.: Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 04462: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (Ablehnung beantragt wegen des zusätzlichen Personalbedarfs in den Geschäftsstellen der Bezirksausschüsse.)
+- TOP 12.2.: Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05752: Teilnahme der Bezirksausschüsse an Wettbewerben Benennung und Entsendung von Stellvertretern (Ablehnung beantragt)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.2011 zur Sitzungsvorlage-Nr. 08-14 / V 04477: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung (Ablehnung beantragt. Hadern ist nicht betroffen.)
+- TOP 12.4.: Beschluss des Ausschusses für Bildung und Sport vom 02.02.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05732: Bauprogramm zu Realisierung von Kinderbetreuungsplätzen, insbesondere zur Waldwiesenstraße 27 (Anlage 1): - Grundsatzentscheidung über das Vorgehen bei Standardneubauvorhaben - Bauprogramm 2011 für 2.160 Kinderbetreuungsplätze an 32 Standorten mit einem Gesamtfinanzbedarf von ca. 100 Mio. ? - Änderung des Mehrjahresinvestitionsprogrammes 2010 - 2014
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Bildung und Sport vom 01.12.2010 zur Sitzungsvorlage-Nr. 08-14 / V 05452: Sportinfrastrukturmaßnahmen in München Sachstandsbericht 2010, insbesondere - zum Neubau eines Kunstrasenplatzes am Wolkerweg 17 (Kosten 800.000,- ?, Anlage 1, laufende Nr. 12), - zur Modernisierung der Freisportflächen an der ludwig-Hunger-Straße 11 (Kosten 1,6 Mio. ?, Priorität B, Anlage 1, laufende Nr. 15), - zur Lärmschutzwand am Wolkerweg 17 (Kosten 340.000,- ?, Priorität C, laufende Nr. 25) und - zur Generalsanierung der Tennisplätze der FTM Blumenau e.V. in 2011 (Kosten 105.000,- ?, Anlage 2, laufende Nr. 19)
+- TOP 12.2.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05636: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2010/2011, insbesondere am Erasmus-Grasser- und Ludwigsgymnasium
+- TOP 12.3.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05714: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2010/2011
+- TOP 12.4.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05718: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2010/11, insbesondere - zu den Grundschulen: Am Hedernfeld 42 - 44, an der Blumenauer Straße 11, am Canisiusplatz 2, an der Großhaderner Straße50, an der Guardinistraße 60 und an der Senftenauerstraße 21; - zu den Hauptschulen: an der Blumenauer Straße 11 und Guardinistraße 60 sowie - zu den Tagesheimen: Am Hedernfeld 42 und an der Großhaderner Straße 50
+- TOP 12.5.: Bekanntgabe im Ausschuss für Bildung und Sport vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05621: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2010/2011 Stand: 20.10.2010
+- TOP 12.6.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05581 (vertagt): Mobilität in Deutschland (MiD) Befragung zum Alltagsverkehr in München, insbesondere grafische Darstellung der Verkehrsarten in Hadern (zu Fuß 24%, mit dem Fahrrad 12%, mit dem Öffentlichen Verkehr 20%, Mitfahrer 11%, Individualverkehr 34% gemäß Beilage, S. 22)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
