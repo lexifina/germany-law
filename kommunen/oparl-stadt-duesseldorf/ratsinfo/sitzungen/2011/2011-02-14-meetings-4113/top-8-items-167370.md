@@ -1,0 +1,6 @@
+# TOP 8: Wohnen für Hilfe - Film
+
+- Sitzung: Ausschuss für Wohnungswesen und Modernisierung (2011-02-14)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/167370
