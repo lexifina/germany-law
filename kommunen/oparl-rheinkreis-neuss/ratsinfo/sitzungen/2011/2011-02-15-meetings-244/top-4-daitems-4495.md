@@ -1,0 +1,6 @@
+# TOP 4: Befreiungsverfahren gem. § 67 BNatSchG
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Landschaftsbeirates (2011-02-15)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/4495
