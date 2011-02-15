@@ -1,0 +1,110 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2011-02-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2196014
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2196014
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Hundepoller und Anbringung eines Zauns an der Spielfläche Birkenleite / Ecke Paula-Herzog-Weg; Bürgerantrag vom 07.01.2011
+- TOP 2.2.: Weihnachtsmarkt am Hans-Mielich-Platz im Jahr 2011; Bürgerantrag vom 09.01.2011
+- TOP 2.3.: Kindergrupppe Giesing - Raumsuche, Schreiben der Kindergruppe Giesing vom 08.12.2009; erneutes Schreiben der Kindergruppe Giesing vom 28.01.2011
+- TOP 2.4.: Durchführung der am 18.01.2011 beschlossenen Informationsveranstaltung zur Thematik "Teilersatzneubau des Klinikums Harlaching"; Bürgerantrag vom 30.01.2011
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Elternbeirat der Grundschule Fromundstraße, für die Maßnahme: Selbstbehauptungskurse am 09./10.04.2011; Antragssumme:2.350,00 ?; Beschlussvorlage des Direktoriums vom 27.01.11
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Maibaumverein Menterschwaige e.V., für die Maßnahme: "Tanz in den Mai" / Maifeier; Antragssumme: 4.400,-- ?; Antrag vom 20.01.2011
+- TOP 3.2.: AntragstellerIn: Bürgerinitiative Mehr Platz zum Leben, für die Maßnahme: Jahresplanung 2011 (Mal- u. Pflanzaktion der BI in der Hans-Mielich-Straße am 27.05.11, Eröffnung des Skulpturenparks in Siebenbrunn am 02.07.11, Parking Day am Candidplatz am 16.09.11, Hörspaziergang am Candidplatz am 17.09.11; Antragssumme: 3.500,00 ?; Antrag vom 01.02.2011
+- TOP 3.3.: AntragstellerIn: Münchner Aktionswerkstatt Gesundheit (MAG'S), für die Maßnahme: 2. Giesinger Gesundheitsbörse; Antragssumme: 2.030,-.- ?; Antrag vom 31.01.2011
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Parkraummanagement; Parklizenzgebiet "Untergiesing"; Entscheidung über die Ausdehnung einer Lade-/Lieferzone gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 im Bereich Pilgersheimer Str. 74 / Seite Krumbadstraße; Beschluss des BA 18 vom 15.02.2011; Beschlussvorlage des KVR vom 25.01.2011
+- TOP 3.1.: Ausschließlich Großraumwagen auf den Trambahnlinien 15 und 25; Antrag der CSU-Fraktion vom 20.01.2011 - <div>nach Antrag</div>
+- TOP 3.2.: Hinweisschilder mit dem Namen des Stadtbezirks Untergiesing bzw. Harlaching an div. Standorten im Stadtbezirk - <div>nach Antrag</div>
+- TOP 3.1.: CarSharing in München; Durchführung von Pilotprojekten; Entwurf der Beschlussvorlage für den Stadtrat; Zuleitung des KVR vom 27.01.2011 mit der Bitte um Stellungnahme bis 25.02.2011
+- TOP 3.1.: Radverkehr; Einrichtung von Fahrradstraßen; Zwischennachricht des KVR vom 13.01.2011 zur Stellungnahme des BA 18 vom 23.07.2010
+- TOP 3.2.: Parkraummanagement, Parklizenzgebiet "Schyrenbad"; Einbeziehung der Sachsenstraße in den beschilderten Gebietsumfang; Beschluss des BA 18 vom 19.10.10; verkehrsrechtliche Anordnung nach § 45 StVO; Unterrichtung des KVR (positive Erledigung)
+- TOP 3.3.: Teerbelag statt Kopfsteinpflaster für Behindertenparkplätze am Wettersteinplatz; BA-Antrag-Nr. 08-14 / B 02502 des BA 18 vom 21.09.10; Antwortschreiben des Baureferats vom 19.01.11 (positive Erledigung)
+- TOP 3.1.: Entwickung des Verkehrs in München, a) Aktueller Sachstand, b) Anträge; Sitzungsvorlagen Nr. 08-14/V 05724; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 (SB) - siehe TOP 3.2.6.3 der Sitzung vom 18.01.2011
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Beseitigung höhengleicher Bahnübergänge 1. Gegenwärtiger Stand 2. Feldmochinger Straße; Beseitigung des höhengleichen Bahnüberganges "Sachstandsbericht und Vorstellung der Ergebnisse der Machbarkeitsstudie" 3. Bürgerversammlungsempfehlungen und Bezirksausschussanträge 4. Stadtratsantrag Nr. 08-14 / A 02094; Sitzungsvorlage Nr. 08-14 / V 03800; Beschluss des Bauausschusses vom 03.02.2011 (SB)
+- TOP 3.4.: München setzt auf's Rad 2; Von Nachbarn in den Niederlanden und Dänemark lernen; Antrag Nr. 08-14 / A 01081 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.09; Sitzungsvorlagen Nr. 08-14 / V 04041; Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 02.02.11 (SB)
+- TOP 3.1.: Zeitkartenautomaten für U-Bahnhöfe; Schreiben der MVG vom 14.12.2010 an den Bezirksausschuss 15; Zuleitung des BA 15 vom 24.01.2011 mit der Bitte um Kenntnisnahme
+- TOP 3.2.: keine Einführung der Umweltzone für das gesamte Stadtgebiet München; Auskunft des Referats für Gesundheit und Umwelt an den Bezirksausschuss 15 - Trudering-Riem - mit der Bitte um Kenntnisnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Situation im Ärztehaus Candidplatz 9; Gestaltung des Behindertenaufgangs; Mangelnde Kennzeichnung der Praxen in den Aufzügen - <div>nach Antrag</div>
+- TOP 3.2.: Insolvenz der Weisse Feder gGmbH
+- TOP 3.3.: Osramspielplatz; Aufhebung des Verbots von Spielaktionen in Landschaftsschutzgebieten - <div>nach Antrag</div>
+- TOP 3.1.: REGSAM; München spart Steuergelder; REGSAM wird künftig auf ehrenamtlicher Basis geführt; Sitzungsvorlage Nr. 08-14 / V 05692; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.2011 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Spielhallen - Aussetzung weiterer Genehmigungen bis zu einer endgültigen gesetzlichen Regelung; Antrag des BA 1 vom 21.01.11 mit der Bitte um Kenntnisnahme u. ggf. Unterstützung
+- TOP 3.2.: Wettbewerbsverfahren zur Fassadengestaltung des geplanten Neubaus des Klinikums Harlaching; Antrag der CSU-Fraktion vom 28.01.2011 - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Holzkirchner Str. 9; Anbau eines Pavillongebäudes mit Schwimmbad und einer Terrasse; Anhörung vom 10.01.11 (vertagt aus der Sitzung am 18.01.2011)
+- TOP 3.2.: Siebenbrunner Str. 6; Errichtung eines Lagerplatzes mit Lagerhalle; Anhörung vom 26.01.11
+- TOP 3.3.: Birkenleiten 41; Teilabriss, Teilwiederaufbau und Nutzungsänderung der "Kramer-Mühle" zu Büro, Gewerbe und Ateliers mit Wohnnutzung - TEKTUR (Nutzungsänderung im EG: Gewerbe zu Kinderkrippe; 1. OG: Büro zu Kinderkrippe u. Kindergarten; 2. OG: Büro zu Kinderkrippen-Verwaltung / separate Büroeinheit); Anhörung vom 27.01.11
+- TOP 3.4.: Gabriel-Max-Straße 14; Umbau eines Einfamilienhauses mit Garage; Anhörung vom 27.01.11
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung 3.5.6.2.1 Anwesen Meichelbeckstraße; Unterrichtung vom 24.01.11
+- TOP 3.3.: Vorkaufsrechtsausübung; Fortschreibung des Grundsatzbeschlusses von 2009; Vorkaufsrechtsausübung in Erhaltungssatzungsgebieten; Überprüfung der Ausübungsschwelle Miethöhe; Korrektur der maßgeblichen Miethöhe bei der Ausübung des Vorkaufsrechts; Vorkaufsrecht in Erhaltungssatzungsgebieten; Erhaltungssatzungsgebiete - Erhöhung des Schwellenwertes für die Ausübung des Vorkaufsrechts; Sitzungsvorlage Nr. 08-14 / V 04301; Sitzungsvorlage Nr. 08-14 / V 05557; Beschluss des Kommunalausschusses vom 20.01.2011 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Gedenkfeier aller Bezirksausschüsse zum Jahrestag der Befreiung vom Naziregime am 08.05.2011; Antrag des BA 19 vom 11.01.11
+- TOP 3.1.: Puppentheater Stoßberger in der städtischen Grünanlage an der Oberbiberger Straße vom 13.07.2011 bis 24.07.2011; Zuleitung des KVR vom 20.01.2011 mit der Bitte um Stellungnahme bis 01.03.2011
+- TOP 3.2.: Veranstaltung auf städtischer Grünanlage, hier: Harlachinger Maifest 2011 des Harlachinger Maibaumvereins, Menterschwaigstraße, Ecke Harthauser Straße vom 30.04.2011 bis 01.05.2011 (Aufbau: 29.04.11, Abbau: 02.05.11); Zuleitung des KVR vom 26.01.11 mit der Bitte um Stellungnahme bis 11.03.11
+- TOP 3.1.: "Kulturstrand für München" - Interessenbekundungsverfahren; Schreiben des BA 1 vom 21.01.11 an den Oberbürgermeister, die Stadtratsfraktionen sowie die Mitglieder des Kulturausschusses mit der Bitte um Kenntnisnahme
+- TOP 3.7.1.: Stadionwirtschaft im städtischen Stadion an der Grünwalder Straße
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Erhalt von Kegelbahnen in Gaststätten - <div>abgelehnt</div>
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Änderung BA-Katalog Kreisverwaltungsreferat, Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken; Schreiben des Direktoriums vom 12.01.2011 (Az.: HA-II/BA 0262.4-1-0012) mit der Bitte um Stellungnahme
+- TOP 4.2.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen; BA-Antrags-Nr. 08-14 / B 01964 des BA 13 vom 09.03.10; Schreiben des Direktoriums vom 27.01.11 mit der Bitte um Stellungnahme zur angestrebten Änderung der BA-Satzung
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Teilnahme der Bezirksausschüsse an Wettbewerben; Benennung und Entsendung von Stellvertretern; BA-Antrags-Nr. 08-14 / B 01302 des BA 10 vom 29.06.09; Sitzungsvorlage Nr. 08-14 / V 05752; Beschluss des Verwaltungs- u. Personalausschusses in der Sitzung vom 19.01.11 (VB)
+- TOP 4.2.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse; Antrag Nr. 08-14 / B 00249 des BA 5 vom 16.07.08; Sitzungsvorlagen Nr. 08-14 / V 04462; Beschluss des Verwaltungs- u. Personalausschusses vom 19.01.11 (VB) - siehe auch TOP 4.5.1 der Sitzung vom 21.12.10
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.1.: UA Budget: Freitag,11.Februar 2011, 19:00 h,Jambo Africa, Wettersteinplatz UA Verkehr: Montag, Montag, 07.02.2011, 19:00 Uhr, Gaststätte ?Gartenstadt? UA Umwelt: Donnerstag, 10.02.11, 18.30 Uhr, Gaststätte ?Gartenstadt? UA Soziales: Samstag, .08.02,2011, 19.00 Uhr, Gaststätte ?Gartenstadt? UA Bau u. Planung: Donnerstag, 10.02.11, 19.00 Uhr, Gaststätte ?Gartenstadt? UA Kultur u. Veranstaltungen: Freitag, 11.02.11, 18.00 Uhr, Gaststätte ?Hans-Mielich?
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
