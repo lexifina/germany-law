@@ -1,0 +1,112 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-02-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205344
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205344
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Grundschule an der Herrnstraße - Vorschlag des Vorsitzenden zum weiteren Vorgehen
+- TOP .1.: Damenstiftstraße 11: Einladung der Mieter, der Eigentümerin und LBK in den Unter-ausschuss
+- TOP .1.: BV-Empfehlung Nr. 794: Infokampagne zum sozialverträglichen Immobilienverkauf
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Thierschplatz 3
+- TOP .2.: Maximilianstraße 6
+- TOP .3.: Hackenstraße 7
+- TOP .4.: Lerchenfeldstraße 4 - 6
+- TOP .5.: Blumenstraße 4 - 6
+- TOP .6.: NACHTRAG: Oettingenstraße 6 - 8
+- TOP .7.: NACHTRAG: Odeonsplatz 8 - 10
+- TOP .2.1: Gaststätten
+- TOP .1.: Eisdiele ?Amici?, Tal 14: Erweiterung einer bestehenden einer Freischankfläche
+- TOP .2.: ?Wirtshaus am Sendlinger Tor?, Sendlinger-Tor-Platz 10: Aufhebung der Sperrzeit
+- TOP .3.: ?Patisserie Dukatz?, St.-Anna-Straße 11: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Tal 14: Mobiler Fahrradständer
+- TOP .2.: Marienplatz 8: Warenstellage für ?Carl Raiser ? Blusen seit 1889?
+- TOP .3.: Marienplatz 8: Warenstellage für ?Helmut Drs Schreiner Schreinerwerkstätte GmbH?
+- TOP .4.: Marienplatz 8: Warenstellage für ?Mode by Hartl?
+- TOP .5.: Marienplatz 8: Warenstellage für ?Kindermoden im Rathaus?
+- TOP .6.: Marienplatz 8: Warenstellage für ? Bernsteinladen im Rathaus?
+- TOP .7.: Marienplatz 8: Warenstellage für ?Boutique Linda im Rathaus?
+- TOP .8.: NACHTRAG: Tal 48: Mobiler Fahrradständer
+- TOP .1.: Änderung des BA-Katalog Kreisverwaltungsreferat
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: ?Lesung zum Gedenken der Bücherverbrennung? am 10.05.2011, Odeonsplatz
+- TOP .2.: ?Europatage der Musik? am 25.06.2011, Odeonsplatz
+- TOP .3.: ?Equal Pay Day? am 25.03.2011, Marienplatz
+- TOP .4.: ?Gourmetmarkt? vom 29.06.-02.07.2011, Sendlinger-Tor-Platz
+- TOP .5.: ?CSD-Regenbogenfamilien-Area? am 09.07.2011, Marienhof
+- TOP .6.: ?München narrisch? vom 05.03 ? 08.03.2011, Fußgängerzone
+- TOP .7.: ?Infoveranstaltung Aktion Haiti? am 11.03.2011, Marienplatz
+- TOP .8.: ?Bayerische Impfwoche? am 09.04.2011, Odeonsplatz
+- TOP .9.: ?Milchfrühling? am 18.03.2011, Richard-Strauss-Brunnen
+- TOP .10.: NACHTRAG: ?Tanz der Marktfrauen? am 08.03.2011, Viktualienmarkt
+- TOP .11.: NACHTRAG: ?Kinderfasching der kleinen Wiesnwirte? am 27.02.2011, Marienplatz
+- TOP .1.: Diskussion zum CarSharing in München
+- TOP 1: (E) Fußgängerzone Sendlinger Straße; Sofortige Sperrung des Straßenabschnitts im Bereich Färbergraben zur Hackenstraße
+- TOP 1.2.: (E) Verhinderung der Beparkung der Gehwegecken in der Maximilianstraße (Ziffer 4) Empfehlung Nr. 08-14 / E 00790 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 30.11.2010
+- TOP 1.1.: Parklizenzbeschilderung für die städtische Privatstraße 'Am Gries'
+- TOP 1.2.: Antrag des BA 13 auf Änderung der BA-Satzung: Unterrichtungsrecht bei Straßen-hinweisschildern bezüglich Kolonialstraßennamen
+- TOP 1.3.: CarSharing in München, Entwurf der Beschlussvorlage für den Stadtrat
+- TOP 1.4.: Baustellenbedingte Aufstellung von 7 Bürocontainern entlang der Blumenstraße 28
+- TOP 1.5.: Baumfällung im Rahmen des Bauvorhabens Lerchenfeldstraße 4-6
+- TOP 1.6.: NACHTRAG: Verkehrsrechtliche Anordnung: Parkplätze Marienstraße
+- TOP 1.7.: NACHTRAG: Verbot der Taubenfütterung, Anhörung zur Beschlussvorlage für den Umweltausschuss am 12.04.2011
+- TOP 1.1.: Zusammenarbeit des BA 1 mit dem Kunstausschuss der Lukaskirche, Diskussion in der Unterausschusssitzung am 09.02.2011
+- TOP 1.2.: ?art.homes? im Sommer 2011, Diskussion in der Unterausschusssitzung am 09.02.2011
+- TOP 1.1.: Budget: Fußballstunde 2011
+- TOP 1.2.: (E) Budget des Bezirksausschusses Init. "art.homes" Künstlerprojekt "art.homes" im August 2011
+- TOP 1.1.: Rückforderung eines bewilligten Zuschusses aus dem BA-Budget für ZAB e.V.
+- TOP 1.2.: Antrag des BA 19: Veranstaltung einer Gedenkfeier zum Jahrestag der Befreiung des Naziregimes am 08.05.2011
+- TOP 1.1.: Denkmal für verfolgte Schwule und Lesben - Benennung einer Vertreterin/eines Vertreters, Vorberatung im Unterausschuss KSB zur Wahl in der März-Sitzung
+- TOP 0: Unterrichtungen
+- TOP 0.1.: BA 2 zum Schreiben des BA 1 an das KVR bzgl. des ?Heldengedenkmarsch 2010?
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antwortschreiben zu einer Anfrage aus der Bürgerversammlung vom 30.11.2010: Informationen zu den Anwesen Hackenstr. 12 und Brunnstr. 4
+- TOP 0.5.: Antwortschreiben zu einer Anfrage aus der Bürgerversammlung vom 30.11.2010: Genehmigungsstand Hackenstr. 7
+- TOP 0.6.: Antwortschreiben zu einer Anfrage aus der Bürgerversammlung vom 30.11.2010: Pfarrstr. 10
+- TOP 0.7.: Antwortschreiben zu einer Anfrage aus der Bürgerversammlung vom 30.11.2010: Gesamtplanung Hackenviertel
+- TOP 0.8.: Antwortschreiben der LBK zur Anregung des BAs einer Verbesserung des Energiekonzept der Residenzpost, TOP 2010.10 B 3.1.3
+- TOP 0.9.: Antwortschreiben zu einer Anfrage aus der Bürgerversammlung vom 30.11.2010: Damenstiftstraße 11
+- TOP 0.10.: Pressemitteilung zu archäologischen Grabungen in der Westenriederstraße 10/12
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Informationen zur Snow City auf dem Wittelbacherplatz
+- TOP 0.1.: Zwischennachricht zur Einrichtung von Fahrradstraßen
+- TOP 0.2.: Baustelleneinrichtung am Isartorplatz
+- TOP 0.3.: Vollversammlung 15.12.2010: Neuerlass der Straßenreinigungs- und sicherungs-verordnung
+- TOP 0.4.: Bauausschuss 24.01.2011: Erneuerung der Beleuchtung im Altstadtringtunnel
+- TOP 0.5.: Kreisverwaltungsausschuss 25.01.2011: CarSharing in München
+- TOP 0.6.: Planungsausschuss 12.01.2011: Nahverkehrsplan der LHM
+- TOP 0.7.: Planungsausschuss 12.01.2011: Anwohnergaragen in Müncheneingeladen
+- TOP 0.8.: Bauausschuss 03.02.2011: Beseitigung höhengleicher Bahnübergänge
+- TOP 0.9.: Planungsausschuss 12.01.2011: Entwicklung des Verkehrs in München
+- TOP 0.10.: Planungsausschuss 12.01.2011: Mobilität in Deutschland
+- TOP 0.11.: Ergänzung für den Planungsausschuss 02.02.2011: München setzt aufs Rad
+- TOP 0.1.: Antwortschreiben der St.-Anna-Kichengemeinde zur Errichtung eines Jugendzentrums im Lehel, TOP 2010.12 E 1.1
+- TOP 0.2.: Schreiben des BA 1 zum ?Kulturstrand für München?, TOP 2011.01 E 4.5
+- TOP 0.3.: Kinder- und Jugenhilfeausschuss 01.02.2011: REGSAM auf ehrenamtlicher Basis, TOP 2011.01 E 3.1
+- TOP 0.4.: Eingangsbestätigung zum Schreiben des BA bezüglich des Kulturstrands für München, TOP 2011.01 E 4.5
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP .3.2: Sonstige
