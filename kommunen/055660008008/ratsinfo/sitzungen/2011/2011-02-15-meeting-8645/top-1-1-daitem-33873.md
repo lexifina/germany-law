@@ -1,0 +1,9 @@
+# TOP 1.1: Beschluss des Konzeptes zur Umsetzung der Dichtheitsprüfung privater Grundstückesentwässerungsanlagen gemäß § 61 a Landeswassergesetz des Landes Nordrhein Westfalen
+
+- Sitzung: Betriebsausschuss des Abwasserwerks der Stadt Emsdetten (26. Sitzung) (2011-02-15)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/33873
+- Ergebnis: 13 Ja-Stimme(n), 4 Gegenstimme(n), 0 Enthaltung(en)
+- Beratung: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/14874
+- Beschluss (Datei): Beschlusstext (Beschluss des Konzeptes zur Umsetzung der Dichtheitsprüfung privater Grundstückesentwässerungsanlagen gemäß § 61 a Landeswassergesetz des Landes Nordrhein Westfalen) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVPQNEIPUcjT-UAxOOPw4-jnPULSeAC1uThIb-h780ma/Beschlusstext_6-2011_1._Ergaenzung_-oeffentlich-_Betriebsausschuss_des_Abwasserwerks_der_Stadt_Emsdetten_15.02.2011.pdf
