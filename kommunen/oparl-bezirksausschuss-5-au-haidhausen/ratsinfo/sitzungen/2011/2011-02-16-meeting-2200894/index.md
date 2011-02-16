@@ -1,0 +1,99 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-02-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2200894
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2200894
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .1.: GIMA München: "Vom Spekulationsobjekt zum Genossenschaftshaus"
+- TOP .4.2: Schrifliche eingegangene Bürgeranliegen
+- TOP .1.: Lärmschutzmaßnahmen beim Biedermeierhaus
+- TOP .2.: Anbringung von Brückennamen
+- TOP .3.: Falschparker in der Entenbachstraße
+- TOP .5.: Anträge
+- TOP .1.: "Gebühren für Wochenmarkt", Antrag der Fraktion Bündnis 90/ Die Grünen vom 19.01.2011
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse OBACHT! kultur-im-quartier e.V. Offene Ateliers vom 27. - 29.05.2011 - <div>nach Antrag</div>
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Humboldtstr. 25, Bäckerei - Cafe "Müller Brot": Genehmigung einer Freischankfläche
+- TOP .2.: Elsässer Str. 22, Gaststätte "Wiesengrund": Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: Balanstr. 47, SSW "Mangia e Bevi": Änderung einer bestehenden Freischankfläche
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Standortgenehmigung für Parkscheinautomaten: Nockherstraße, Lizenzgebiet südliche Au
+- TOP .1.: Mehr Einflussnahme für junge Menschen Antrag der Stadtratsfraktion DIE GRÜNEN / RL vom 01.09.2009
+- TOP .2.: Änderung BA-Katalog Kreisverwaltungsreferat, Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken
+- TOP .3.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (Antrag Nr. 08-14/ B 00249)
+- TOP .2.: Ablehnung der Durchführung eines "Kulturstrandes" am Vater-Rhein-Brunnen
+- TOP .3.: Radweg Orleansstr. westlich
+- TOP .4.: Überprüfung des Hangs im Bereich der Quellenstraße/Wilhelm-Herbert-Weg
+- TOP .5.: Feuerwehranfahrtszone beim Fußgängerübergang Elsässer Str.
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Pendlerverkehre verlagern: ÖV-Angebote verbessern statt Autos aussperren, Schreiben des Referats für Stadtplanung und Bauordnung vom 12.01.2011
+- TOP .2.: Unterrichtung über das Fällen von Gefahrbäumen, Mitteilung des Baureferats Gartenbau vom 12.01.2011
+- TOP .3.: Auflistung getesteter Stellen in Haidhausen, die nicht barrierefrei sind; Schreiben des Baureferats vom 17.01.2011
+- TOP .4.: Einrichtung von Fahrradstraßen, Schreiben des KVR vom 13.01.2011
+- TOP .5.: Neu gepflanzte Bäume in den Maximiliansanlagen, Schreiben des Baureferats vom 19.01.2011
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .1.: Teilnahme der Bezirksausschüsse an Wettbewerben, Benennung und Entsendung von Stellvertretern Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011
+- TOP .2.: Zeitkartenautomat Messestadt Ost, Schreiben der MVG an den Bezirksausschuss 15 Trudering-Riem
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Preysingstr. 18: Nutzungsänderung im EG: Cafe zu Trainingsräumen
+- TOP .1.: Bauvorhaben Preysingplatz 14: Neubau Kinderhaus St. Josefsheim (Krippe und Hort, Eggernstr. 4) Generalsanierung bestehender Kindergarten St. Josefsheim (Preysingpl. 14)
+- TOP .2.: Bauvorhaben Walserstr. 8: Abbruch und Neubau eines Wohngebäudes - VORBESCHEID
+- TOP .3.: Bauvorhaben Schlotthauerstr. 6: Änderung und Neuerrichtung von Dachgauben sowie Einbau einer Dachterrasse
+- TOP .4.: Nutzungsänderung Prinzregentenstr. 66-68: Nutzungsänderung von Wohnen in Büro im 2. OG, Zusammenlegung von zwei Büroeinheiten im 2. und 3. OG
+- TOP .5.: Bauvorhaben Pariser Str. 36: DG- Ausbau im Vorder- und Rückgebäude
+- TOP .6.: Bauvorhaben Lucile-Grahn-Str. 25: Änderung von zwei Dachgauben in einen hofseitigen Dacheinschnitt in denkmalgeschütztem Gebäude
+- TOP .7.: Nutzungsänderung Rosenheimer Straße 38: Bürogebäude zu Verkauf (EG) und Praxen (1.-4. OG), teilweise mit Kinderbetreuung
+- TOP .8.: Bauvorhaben Gravelottestr. 2: Änderung der Raumzuordnungen in einzelnen Wohnungen, Errichtung von zwei Balkonanlagen, Einbau einer zusätzlichen Dachterrasse
+- TOP .1.: Baugenehmigung Max-Weber-Platz 8: Außenaufzug; Schreiben der LBK vom 13.01.2011, Urteil vom 18.10.2010
+- TOP .2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für die Bereiche: - I/32, Zellstraße (nördlich), Am Gasteig (westlich) ? Muffathalle - V/45, Burmesterstraße (östlich), Reuschstraße (südlich) - VI/20, Grünstadter Platz - IV/29, Industriestraße (westlich), Altostraße (östlich) - V/44, Rothwiesenstraße (östlich), Autobahnring ? Nord A 99 (nördlich)
+- TOP .3.: Mitteilung über ein Grundstücksgeschäft: Am Neudeck
+- TOP .4.: Tassiloplatz 5: Neubau von Wohngebäuden mit Tiefgarage ? VORBESCHEID; Schreiben der LBK vom 26.01.2011, Vorbescheid vom 26.01.2011
+- TOP .5.: Pariser Str. 25: Umbau einer Wohnung, Errichtung eines Balkons und Einbau eines Glasdachs über dem DG-Balkon; hier: Kurzmitteilung der LBK vom 29.01.2011 zur Anforderung des Stellplatznachweises
+- TOP .1.: Ampelschaltung an der Kreuzung Rablstr. / Franziskanerstr.
+- TOP .2.: CarSharing in München - Durchführung von Pilotprojekten Entwurf einer Beschlussvorlage für den Stadtrat
+- TOP .3.: Fahrbahnbelagserneuerung Hochstraße 1-13, Bauabschnitt zw. Rosenheimer Str. und Riggauerweg
+- TOP .4.: Fußgängerampel am Rosenheimer Platz
+- TOP .5.: Verkehrsrechtliche Anordnung: Radverkehr; Radwegführung in der südlichen Metzstraße
+- TOP .6.: Stadtwerke München GmbH; Bushaltestelle Welfenstraße; Haltestelle für die Buslinie 152 an der Ecke Auerfeld- /Sieboldstr. (östl.) bzw. gegenüber auf Höhe des Schwester Eubulina-Platzes (BA-Antrag Nr. 08-14/ B 02474) Beschluss des Ausschusses für Arbeit und Wirtschaft am 08.02.2011
+- TOP .7.: Radweg im Isarhochwasserbett
+- TOP .1.: Vorstellung der Baumaßnahme "Glasfasererschließung für München" im 5. Stadtbezirk
+- TOP .2.: Nahverkehrsplan (NVP) der Landeshauptstadt München a) Aufgabenstellung b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung c) Finanzierung der ÖPNV - Infrastruktur d) Anträge Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011
+- TOP .3.: Entwicklung des Verkehrs in München a) aktueller Sachstand b) Anträge Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011
+- TOP .4.: Verkehrsrechtliche Anordnung: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Schneckenburgerstr. 39
+- TOP .5.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.2011
+- TOP .6.: Verkehrsrechtliche Anordnung: Radverkehr, Abmarkierung eines Radfahrstreifens auf der Fahrbahn in der Einsteinstraße zwischen Seerieder- / Trogerstraße und Grillparzerstraße
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mi, 02.03.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Mo, 28.02.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Di, 01.03.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Do, 03.03.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Mo, 07.02.2011,19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mi, 16.03.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Vorstandssitzung am 23.02.2011, 19:30 Uhr, Baureferat, Friedenstr. 40, Zi. 2.213
+- TOP .2.: Terminabstimmung für den Workshop zur Vorbereitung eines Wettbewerbs zur zukünftigen Gestaltung des Orleansplatzes
+- TOP .3.: ?München: Ansichtssache?? Einladung der Mitglieder der Münchner Bezirksausschüsse zu einer Führung durch die Jahresausstellung des Referats für Stadtplanung und Bauordnung, Mittwoch, 23.02.2011, ab 15:30 bis 19:30 Uhr
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
