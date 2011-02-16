@@ -1,0 +1,71 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-02-16T18:26:00+01:00
+- Ende: 2011-02-16T21:38:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7790
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7790
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00303703.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 6.1: Entwicklung der Zahlen zum Erstwohnsitz
+- TOP 6.2: Zufriedenheit der Nutzer mit der IT-Infrastruktur der Schulen
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Feststellung des Jahresabschlusses 2009 der Stadt Münster - einstimmig beschlossen
+- TOP 10: Befristete Beibehaltung der zur Umsetzung des Zukunftsinvestionsgesetzes und des Konjunkturprogrammes geänderten Wertgrenzen, Änderung der Zuständigkeitsordnung und Satzung zur Änderung der Hauptsatzung - mehrheitlich abgelehnt
+- TOP 11: Einrichtung eines Bürger/innen-Haushaltes in der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 12: Gremienbesetzung Westfälische Landeseisenbahn GmbH (WLE) - einstimmig beschlossen
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2010 - zur Kenntnis genommen
+- TOP 14: Genehmigung der Dringlichkeitsentscheidung vom 15.12.2010 gemäß § 60 Abs. 1 GO NRW - einstimmig beschlossen
+- TOP 15: Managementkontrakt mit der Westfälische Bauindustrie GmbH Münster (WBI) - einstimmig beschlossen
+- TOP 16: PTA-Lehranstalt Münster, hier: Weiteres Verfahren - mehrheitlich beschlossen
+- TOP 17: Förderung Musikschularbeit (Produktgruppe 04,03 "Westfälische Schule für Musik und Förderung der e.V.-Musikschulen"), hier Rahmenbedingungen der Förderung am 2011 / Neue Finanzformel - einstimmig beschlossen
+- TOP 18: Rahmenkonzept zur Schulentwicklungsplanung - einstimmig geändert beschlossen
+- TOP 19: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen G - mehrheitlich beschlossen
+- TOP 19.1: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen G
+- TOP 20: Stiftung Magdalenenhospital: Änderung der Stiftungsprogramme "Förderung altenfreundlicher Wohnungen" und "Hilfen zum Umzug" - zur Kenntnis genommen
+- TOP 21: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - einstimmig beschlossen
+- TOP 21.1: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster
+- TOP 22: Umweltdaten Münster 2009 - einstimmig geändert beschlossen
+- TOP 22.1: Umweltdaten Münster 2009
+- TOP 23: Herausnahme aus dem Vorbehaltsnetz und Einrichtung einer Tempo-30-Zone für die Nordstraße und für die Wienburgstraße im Abschnitt zwischen Nordplatz und Cheruskerring - mehrheitlich beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-Hiltrup
+- TOP 24.1.1: Teilaufhebung des Bebauungsplanes Nr. 483: Amelsbüren - Hansa-BusinessPark Münster - mehrheitlich beschlossen
+- TOP 24.1.2: 2. Änderung des Bebauungsplanes Nr. 483: Amelsbüren - Hansa-Businesspark Münster - mehrheitlich beschlossen
+- TOP 25: Gemeinsamer Antrag der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen/GAL, der Fraktion DIE LINKE und der Ratsgruppe UWG/ÖDP - einstimmig beschlossen
+- TOP 26: Änderung der Richtlinien der Stadt Münster zur finanziellen Förderung kommunaler Entwicklungszusammenarbeit - einstimmig beschlossen
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28.1: Resolution "Zügiger Ausbau der B 51 - Ortsumgehung Münster - Zwischen Lütkenbecker Weg und dem Schiffahrter Damm - mehrheitlich beschlossen
+- TOP 28.2: Resolution "Kommunaler Finanzausgleich: Transparenz schaffen und Kommunen angemessen beteiligen - mehrheitlich geändert beschlossen
+- TOP 28.3: Einführung von Schuleinzugsbezirken prüfen - einstimmig beschlossen
+- TOP 28.4: Das Konnexitätsprinzip beachten, Selbstverwaltung gewährleisten - zurückgezogen
+- TOP 28.5: Stärkung kommunaler Kompetenz bei den Kriterien zur Aufnahme an weiterführenden Schulen - mehrheitlich beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 29.1: Ein Zeichen setzen - Teilhabechancen von Kindern verbessern - verwiesen
+- TOP 29.2: Winterdienst: Auch bei extremen Wetterbedingungen Sicherheit und Verkehrsfluss gewährleisten - verwiesen
+- TOP 29.3: KiTa-Hearing - Elternbedarf bestimmt Öffnungszeiten - verwiesen
+- TOP 29.4: Dem Winter gelassen die Stirn bieten: Den Winterdienst in Münster verbessern - verwiesen
+- TOP 29.5: Gasbohrungen vor Münsters Toren - erst prüfen, dann informieren und Bürger beteiligen - verwiesen
+- TOP 29.6: Bessere Teilhabe im öffentlichen Leben für ältere Menschen und Menschen mit Behinderungen - verwiesen
+- TOP 29.7: Bürgerinnen- und Bürgerbeteiligung stärken - Bürgerinnen- und Bürgeranregungen transparenter gestalten! - verwiesen
+- TOP 29.8: Weiteres Vorgehen zur Beteiligung am RWE-Projekt "Black GEKKO" der Stadtwerke Münster GmbH - verwiesen
+- TOP 29.9: Energiepark Münster - verwiesen
+- TOP 29.10: Schülerticket für Kinder und Jugendliche, die Leistungen nach dem Asylbewerberleistungsgesetz beziehen, finanziell ermöglichen - verwiesen
+- TOP 29.11: Wirtschaftliche und finanzielle Bedeutung der Streitkräfte darstellen - Einfluss auf den Erhalt des Bundeswehr-Standortes Münster nehmen - verwiesen
+- TOP 29.12: Stadtteilrahmenplan Kinderhaus - verwiesen
+- TOP 30: Verschiedenes
