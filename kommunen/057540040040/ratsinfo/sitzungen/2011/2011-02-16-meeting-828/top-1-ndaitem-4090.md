@@ -1,0 +1,6 @@
+# TOP 1.: Bericht des Bürgermeisters gem. § 55 Abs. 1 Gemeindeordnung NRW
+
+- Sitzung: Ordnungs- und Umweltausschuss (6. Sitzung) (2011-02-16)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/4090
