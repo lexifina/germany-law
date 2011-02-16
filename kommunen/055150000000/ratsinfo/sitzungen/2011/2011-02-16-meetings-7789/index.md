@@ -1,0 +1,56 @@
+# 10. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-02-16T17:05:00+01:00
+- Ende: 2011-02-16T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7789
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7789
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00303702.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen des Integrationsrates
+- TOP 2.1: Anregung des Integrationsrates Nr.: AIR/0005/2010 "Unterstützung der Aktion 302" - einstimmig geändert beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion im Rat der Stadt Münster Nr. A-R/0074/2010 "Kraftstoffverbrauch der Stadt Münster senken" - einstimmig beschlossen
+- TOP 2.3: Antrag der CDU-Fraktion an den Rat Nr. A-R/0075/2010 Damit nichts anbrennt: Engagement in der Freiwilligen Feuerwehr aktiv fördern - einstimmig beschlossen
+- TOP 2.4: Anregung des Integrationsrates an den Rat Nr. AIR/0004/2010 "Beschäftigung von Menschen mit Migrationsvorgeschichte bei der Stadt Münster" - einstimmig beschlossen
+- TOP 2.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.6: Antrag der CDU-Fraktion Nr. A-R/0044/2010 vom 20.04.10 "Gesundheitsinitiative an Schulen: Vorbeugung durch Hygiene" - einstimmig beschlossen
+- TOP 3: Beitritt der Stadt Münster zum Public Konsortium d-NRW - einstimmig beschlossen
+- TOP 4: Breitbandversorgung - Mehr Tempo: Hochgeschwindigkeitsinternet für Münster - - einstimmig beschlossen
+- TOP 5: Weiterführung der Bundesgeschäftsstelle des Gesunde-Städte Netzwerks (GSN) - mehrheitlich beschlossen
+- TOP 5.1: Weiterführung der Bundesgeschäftsstelle des Gesunde-Städte Netzwerks (GSN)
+- TOP 6: Masterplan Aasee - einstimmig geändert beschlossen
+- TOP 7: Kommunale Entwicklungszusammenarbeit -Gewährung von Zuschüssen (Institutionelle Förderung und Projektförderung 2011) - einstimmig beschlossen
+- TOP 8: Änderung der Richtlinien zur Förderung der Auslandsbeziehungen der Stadt Münster - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 9: Feststellung des Jahresabschlusses 2009 der Stadt Münster - einstimmig beschlossen
+- TOP 10: Befristete Beibehaltung der zur Umsetzung des Zukunftsinvestionsgesetzes und des Konjunkturprogrammes geänderten Wertgrenzen, Änderung der Zuständigkeitsordnung und Satzung zur Änderung der Hauptsatzung - ohne Beschlussfassung geschoben
+- TOP 11: Einrichtung eines Bürger/innen-Haushaltes in der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 12: Gremienbesetzung Westfälische Landeseisenbahn GmbH (WLE) - einstimmig beschlossen
+- TOP 13: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2010 - zur Kenntnis genommen
+- TOP 14: Genehmigung der Dringlichkeitsentscheidung vom 15.12.2010 gemäß § 60 Abs. 1 GO NRW - einstimmig beschlossen
+- TOP 15: PTA-Lehranstalt Münster, hier: Weiteres Verfahren - ohne Beschlussfassung geschoben
+- TOP 16: Förderung Musikschularbeit (Produktgruppe 04,03 "Westfälische Schule für Musik und Förderung der e.V.-Musikschulen"), hier Rahmenbedingungen der Förderung am 2011 / Neue Finanzformel - ohne Beschlussfassung geschoben
+- TOP 17: Rahmenkonzept zur Schulentwicklungsplanung - ohne Beschlussfassung geschoben
+- TOP 18: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen G - einstimmig beschlossen
+- TOP 18.1: Satzung zur Änderung der Satzung zur Erhebung und zur Höhe von Elternbeiträgen für die Förderung von Kindern in Kindertageseinrichtungen, Kindertagespflege und die Teilnahme an Förder- und Betreuungsangeboten an Grund- und Förderschulen und offenen G
+- TOP 19: Stiftung Magdalenenhospital: Änderung der Stiftungsprogramme "Förderung altenfreundlicher Wohnungen" und "Hilfen zum Umzug" - zur Kenntnis genommen
+- TOP 20: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 20.1: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster
+- TOP 21: Umweltdaten Münster 2009 - ohne Beschlussfassung geschoben
+- TOP 21.1: Umweltdaten Münster 2009
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Hiltrup
+- TOP 22.1.1: Teilaufhebung des Bebauungsplanes Nr. 483: Amelsbüren - Hansa-BusinessPark Münster - ohne Beschlussfassung geschoben
+- TOP 22.1.2: 2. Änderung des Bebauungsplanes Nr. 483: Amelsbüren - Hansa-Businesspark Münster - ohne Beschlussfassung geschoben
+- TOP 23: Gemeinsamer Antrag der SPD-Fraktion, der Fraktion Bündnis 90/Die Grünen/GAL, der Fraktion DIE LINKE. und der Ratsgruppe UWG/ÖDP - einstimmig beschlossen
+- TOP 24: Änderung der Richtlinien der Stadt Münster zur finanziellen Förderung kommunaler Entwicklungszusammenarbeit - einstimmig beschlossen
+- TOP 25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - ohne Beschlussfassung geschoben
+- TOP 26: Verschiedenes
