@@ -1,0 +1,103 @@
+# 42. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-02-17T17:30:00+01:00
+- Ende: 2011-02-17T22:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2378
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2378
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=79595
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Ambulante Pflege in Mitte - ein Tummelfeld für Betrüger? - beantwortet
+- TOP 5.2: Café Oase - beantwortet
+- TOP 5.3: Gendarmenmarkt: War die "Beteiligungsbeschleunigungsmasch(in)e" tatsächlich erforderlich? - beantwortet
+- TOP 5.4: Entwicklung des Olof-Palme-Campus - beantwortet
+- TOP 5.5: Wertstoffforum Mitte noch im Februar? - schriftlich beantwortet
+- TOP 5.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.7: Umfangreiche Baum-Fällungen in Moabit? - schriftlich beantwortet
+- TOP 5.8: Modalitäten der Neuwahl der Stadtteilvertretung Turmstraße - schriftlich beantwortet
+- TOP 5.9: Lehrter Straße 69a: Warum blockiert das Bezirksamt die SeniorInnen-Freizeit? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Stellenabbau bei Bayer HealthCare verhindern - beantwortet
+- TOP 7.2: Sondernutzungsentgelt für Weihnachtsmärkte - beantwortet
+- TOP 7.3: Feste feiern in Moabit: Turmstraßenfest 2011 - beantwortet
+- TOP 7.4: Mauerpark - Bürgerbeteiligung ausgewertet und ad acta gelegt? - beantwortet
+- TOP 7.5: Integrationskonzept im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.6: Unvorhergesehene Mehrausgaben für den Winterdienst des Schulamtes - schriftlich beantwortet
+- TOP 7.7: Kino Cubix mit XXL-Winterbiergarten - schriftlich beantwortet
+- TOP 7.8: Kitaplätze im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.9: Förderung sozialer Kompetenz für SchülerInnen: buddY-Programm (http://www.buddy-ev.de/) - schriftlich beantwortet
+- TOP 7.10: Hertie-Gelände Turmstraße - Endlich neue Nutzung in Sicht? - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Übertragung des Französischen Gymnasiums in die Schulträgerschaft der Senatsverwaltung für Bildung, Wissenschaft und Forschung - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung inder Wiesenstraße zwischen Uferstraße und Pankstraße - überwiesen
+- TOP 9.2: Entwurf der Anmeldungen für die Investitionsplanung 2011 - 2015 - überwiesen
+- TOP 9.3: Bebauungsplanentwurf I-B5v (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5v - überwiesen
+- TOP 9.4: Bebauungsplanentwurf I-B5s (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5s - überwiesen
+- TOP 9.5: Bebauungsplanentwurf I-B5k (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5k - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Vorhabenbezogener Bebauungsplanentwurf 1-45 VE (Hamberger) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes 1-45 VE - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Öffentlichkeit bei Öffentlicher Auslegung zum Bebauungsplan Schultheiss (B-Plan 1-43VE) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Mehr Licht!...im Hansaviertel - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Integration von behinderten Menschen in die Arbeitswelt fördern - mit Änderungen in der BVV beschlossen
+- TOP 12.3: Kinder aus dem Bezirk Mitte beim "Schülerlotto" bevorzugen - überwiesen
+- TOP 12.4: "Der schwere Schritt für Frauen weg vom Leben auf der Straße" (taz, 01.02.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Eine Informationsveranstaltung für die Anwohnerinnen und Anwohner und Gewerbetreibenden im B-Plangebiet 1-60 - überwiesen
+- TOP 12.6: Kältehilfe für Obdachlose - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: BVV-Beschluss 0554/III umsetzen - in der BVV abgelehnt
+- TOP 12.8: Mütterprojekte in Mitte verstetigen! - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Jetzt Planungssicherheit schaffen - Fusion der Menzel- und der Heinrich-von-Kleist-Schule vorziehen - überwiesen
+- TOP 12.11: Maßnahmen zur Korruptionsprävention einleiten - überwiesen
+- TOP 12.12: Methodenkompetenz verbessern - in der BVV abgelehnt
+- TOP 12.13: Sensibilisierung der Schulen - in der BVV abgelehnt
+- TOP 12.14: Einkauf von Schulmaterialien - in der BVV abgelehnt
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Projekt zur Stärkung Bürger- und Ordnungspartnerschaften - Pro BüPart - - in der BVV abgelehnt
+- TOP 15.2: Wettbüros - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Demokratie stärken, öffentlich Haushalten! (2) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Klassenfrequenzen senken! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Für eine zeitgemäße SeniorInnen-Politik - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Sicherung von belegungsgebundenem Wohnraum insbesondere von Behindertenwohnraum - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Entwicklung eines integrierten Klimaschutzkonzeptes für den Bezirk Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Spielhallen: Wasch uns den Pelz und mach uns auch nass - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Offene Kassenzeichen 2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Straßenbenennungen nördlich des Alexanderplatzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Sozialplanverfahren für die MieterInnen der Fennstraße 35/37 - Am Nordhafen 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Benennung einer öffentlichen Grün- und Erholungsanlage im OT Mitte nach Marion Gräfin Dönhoff - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Wohnhaus Lehrter Straße 67 / Seydlitzstraße 21/22: Entmietung stoppen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Bäume für die Birkenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Unzureichender Schlussbericht zur Drucksache-Nr. 1715/III "Spielstätten: Kein Mehrwert für die Region aber Verstärkung von Suchtgefahr und Armut!" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Nikolaiviertel die Wiege Berlins stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Mauerpark - Schritt für Schritt oder Alles zu seiner Zeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Bürgerwerkstatt Mauerpark umfassend einbeziehen hier: Mitarbeit und Einflussnahme auf Städtebaulichen Vertrag gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Baumschutzgutachten für Kastanienallee 63 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.18: Hertha-Domizil an der Behmstraße erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Mauerpark - Schritt für Schritt und nicht vom Weg abkommen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Beschluss über das Auswertungsergebnis der frühzeitigen Öffentlichkeitsbeteiligung gem. § 3 Abs. 1 BauGB zum Bebauungsplanentwurf 1-64 (Mauerpark) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Beschluss über die Erweiterung des Geltungsbereiches des Bebauungsplanes 1-47 (Bayer Schering Pharma-Süd) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Weiterführung des Bebauungsplanverfahrens I-14 (Luisenstädtische Kirche) gem. § 13a Baugesetzbuch (BauGB) als beschleunigtes Verfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-53 (westliche Brunnenstraße, südlich Rheinsbergerstraße) und der Durchführung der öffentlichenAuslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB und die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB des vorhabenbezogenen Bebauungsplans I-11-1VE "Tieckstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Ergebnisse der Beteiligung der Öffentlichkeit gem. § 3 Abs. 1 BauGB sowie der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gem. § 4 Abs. 2 BauGB, die Änderung des Titels des vorhabenbezogenen Bebauungsplans und die Durchführungder öffentlichen Auslegung zum Entwurf des vorhabenbezogenen Bebauungsplans 1-50 VE "Amala Wellness & Spa" gemäß § 3 Abs. 2 BauGB entsprechend der sich hieraus ergebenden Vorgaben - mit Abschlussbericht zur Kenntnis genommen
