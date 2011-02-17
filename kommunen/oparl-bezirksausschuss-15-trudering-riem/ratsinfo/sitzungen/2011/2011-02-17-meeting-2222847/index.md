@@ -1,0 +1,118 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2011-02-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2222847
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2222847
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Voilá! Opera! e.V. Projekt "Oper an Schulen" im April/Mai 2011 GS Lehrer-Wirth-Straße
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Voilá! Opera! e.V. Projekt "Oper an Schulen" im April/Mai 2011 GS Forellenstraße
+- TOP 1.3.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.10; Abhalten eines Flohmarktes am 07.05.11 auf dem Platz der Menschenrechte
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Bürgerbüro Ostbahnhof - Verbesserungsvorschläge
+- TOP 2.2.: Bauabschnitt Messestadt
+- TOP 2.3.: Parkmöglichkeiten in der Waldstraße
+- TOP 2.4.: Begrenzte Parkdauer Kirchtruderinger Str. 6
+- TOP 2.5.: Antrag zur Besichtigung der Verkehrssituation bzgl. des Bauvorhabens in der Helgastr. 8
+- TOP 2.6.: Ausbau der Graf-Lehndorff-Straße zwischen Mittbacher Straße und dem Bahnübergang
+- TOP 2.7.: Antrag des Kindergartens Spatzennest e.V. vom 03.12.10 an den Bezirksausschuss (Schreiben des Vermieters)
+- TOP 2.8.: Hallo Trudering-Riem vom 05.01.11, Leserbrief mit Foto
+- TOP 2.9.: Problematik bezüglich freilaufender Hunde und deren Hinterlassenschaften im Park- und Spielplatzbereich und Schutz der Kinder
+- TOP 2.10.: Hunde auf dem Spielplatz Halligenplatz
+- TOP 2.11.: Hundekot am Postweg/ Ecke Heldackerweg
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Parksituation Tangastr. 80 und 82
+- TOP 3.2.: Stellplatzsituation Kooperationseinrichtung Karpfenstraße
+- TOP 3.3.: Absoltutes Haltverbot Huchenstraße
+- TOP 3.4.: Schulwegsicherheit; Grundschule am Lehrer-Götz-Weg, 81829 München
+- TOP 3.5.: Verlegung der Bushaltestelle Halligenplatz
+- TOP 3.6.: Neue Bushaltestelle für die Buslinie 146
+- TOP 3.7.: Verkehrsfluss an der Kreuzung Bajuwaren-/Kreillerstraße optimieren
+- TOP 3.8.: Lenkung des Schwerlastverkehrs vor der Bahnunterführung Thomas-Hauser-Straße
+- TOP 3.9.: Auswirkungen des LKW-Führungskonzeptes in Trudering-Riem
+- TOP 3.10.: Erfahrungen bei internationalen Messen umsetzen- Fahrgastleitsystem im Zwischengeschoss des U-S-Bahnhofs Trudering benutzerfreundlicher machen
+- TOP 3.11.: Wann kommt der barrierefreie Ausbau der S-Bahnstation Riem?
+- TOP 3.12.: Badestühle für die Rollstuhlrampe am Riemer See
+- TOP 3.13.: Straßenbeleuchtung in der Messestadt
+- TOP 3.14.: Verlängerung der Öffnungszeiten des Friedhofs Riem
+- TOP 3.15.: Aufstellung von Hundekotbeutelspendern im Bereich des Grünzuges Friedenspromenade
+- TOP 3.16.: Spazier- und Radweg Riem
+- TOP 3.17.: Briefmarkenautomat in Waldtrudering
+- TOP 3.18.: Packstation gehört in zentrale Lage von Waldtrudering
+- TOP 3.19.: Lebensmittelgeschäft für die Messestadt
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Anhörung der Bezirksausschüsse bei Veräußerung städtischer Grundstücke
+- TOP 4.2.: Gewerbegrundstück Messestadt Ost
+- TOP 4.3.: Verkehrskontrollen bei größeren Messen
+- TOP 4.4.: Neuen Radweg St.- Augustinus- Straße vernünftig ausschildern
+- TOP 4.5.: Kinderbetreuung in der Unterkunftsanlage Karl-Schmid-Straße 8
+- TOP 4.6.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauersegler Straße
+- TOP 5: Anhörungen
+- TOP 5.1.: CarSharing in München; Durchführung von Pilotprojekten, Entwurf der Beschlussvorlage für den Stadtrat
+- TOP 5.2.: Information der Fa. ZebraMobil GmbH zur Vorlage CarSharing
+- TOP 5.3.: Anhörung zur Sicherung und Teilsanierung der Tribünenanlage in der Messestadt Riem, Werner-Eckert-Str. 1
+- TOP 5.4.: Open Air Festival der Volksmusik am 12.08.11 auf dem Willy-Brandt-Platz, Anhörungsfrist 04.03.11
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Pläne des Wettbewerbsergebnisses zum Neubau des Gymnasiums Trudering
+- TOP 7.2.: Verfahren nach § 3 Abs. 2 i.V.m. § 4 Abs. 2 BauGB; Gemeinde Feldkirchen, Bebauungsplan Nr. 11, Wohngebiet am Eschenweg
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Verkehrsaufkommen Heltauer Straße
+- TOP 7.2.: Verkehrssicherheit in Kirchtrudering
+- TOP 7.3.: Haltestelle "Jagdhornstraße" der Linie 193 Richtung Haar, Ludwig-Moser-Straße in der Wasserburger Landstraße: Verlegung, Bestätigung über die Ausführung vom 05.11.10
+- TOP 7.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Karpfenstr. 20, Erweiterung der Kurzparkzone, Bestätigung über die Ausführung vom 02.02.11
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: BA-Budget: Zuwendungsbescheid Kindergarten Spatzennest e.V. vom 26.01.11
+- TOP 7.2.: BA-Budget: Zuwendungsbescheid Theaterverein "Die Lustigen Truderinger" e.V. vom 26.01.11
+- TOP 7.3.: BA-Budget: Sachbericht Nachbarschaftswerk wagnis e.V. vom 04.01.11
+- TOP 7.4.: BA-Budget: Bescheid über Überzahlung Nachbarschaftswerk wagnis e.V. vom 11.01.11
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Entscheidungen der Unt. Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 Zeisigweg 9, 8.3 Zeisigweg 26, 8.4 Leschkirchnerstr. 29, 8.5 Halleinerstr. 8, 8.6 Lomeweg 6, 8.7 Grundelstr. 19, 8.8 Gerstäckerstr. 27, 8.9 Schneebergstr. 10, 8.10 Kirtaweg 2, 8.11 Gerstäckerstr. 118
+- TOP 9: Verschiedenes
+- TOP 9.1.: 9.1 Termine: Das Referat für Bildung und Sport trifft die Bezirksauschüsse, Veranstaltung am 16.03.11, Aufräumaktion "Ramadama" am 05.03.11
+- TOP 9.2.: Antwort des Referats für Gesundheit und Umwelt auf die Nachfrage des BA 15 zu Umweltzonen in deutschen Städten
+- TOP 9.3.: Radverkehr, Einrichtung von Fahrradstraßen, Zwischennachricht des Kreisverwaltungsreferats vom 13.01.11
+- TOP 9.4.: "Kulturstrand für München"- Interessenbekundungsverfahren, Schreiben des BA 1 Altstadt-Lehel an den Oberbürgermeister vom 21.01.11
+- TOP 9.5.: Antrag des BA 1 Altstadt-Lehel zum Thema Spielhallen, Schreiben an den Oberbürgermeister vom 21.01.11
+- TOP 9.6.: Antrag des BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln vom 11.01.11 zum Thema 65. Jahrestag der Befreiung vom Nationalsozialismus
+- TOP 9.7.: Änderung BA-Katalog Kreisverwaltungsreferat Ziff. 13.2 Genehmigung von Schießstätten und Feuerwerken, Schreiben des Direktoriums vom 12.01.11
+- TOP 9.8.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen; BA-Antrags-Nr. 08-14/ B 01964 des Bezirksausschusses des Stadtbezirks 13 Bogenhausen vom 09.03.10; Schreiben des Direktoriums vom 27.01.11
+- TOP 9.9.: Teilnahme der Bezirksausschüsse an Wettbewerben, Benennung und Entsendung von Stellvertretern; Antrag Nr. 08-14/ B 01302 des Beziksausschusses des Stadtbezirks 10 Moosach vom 29.06.09; Sitzungsvorlage Nr. 08-14/ V 05752, Beschluss des Verwaltungs- und Personalausschusses vom 19.01.11 und Beschluss der Vollversammlung des Stadtrats vom 26.01.11
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauvorhaben im Stadtbezirk im Zeitraum 10.01.11 - 30.01.11
+- TOP 10.2.: Abbruchanzeige: Weißpfennigweg 8
+- TOP 10.3.: Abbruchanzeige: Ickelsamerstr. 25
+- TOP 10.4.: Bahnstraße 11
+- TOP 10.5.: Abbruchanzeige: Hoferichterweg 13
+- TOP 10.6.: Abbruchanzeige: Stieglitzweg 11
+- TOP 10.7.: Anzeige einer Versammlung unter freiem Himmel am 07.02.11, Willy-Brandt-Allee 1
+- TOP 10.8.: Vollzug des BayKiBiG; Bescheid vom 17.01.11 über die Anerkennung von Plätzen der Kindertageseinrichtung Evereststr. 37
+- TOP 10.9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.10.: REGSAM, München spart Steuergelder, REGSAM wird künftig auf ehrenamtlicher Basis geführt; Antrag Nr. 08-14/ B 01598 der Stadtratsfraktion der FDP vom 08.06.10; Sitzungsvorlage Nr. 08-14/ V 05692; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.11
+- TOP 10.11.: Studie "Grundrisse für bezahlbaren Wohnraum" des DGB Region München und des Mietervereins München e.V.
+- TOP 10.12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.13.: Neuerlass der Straßenreinigungs und -sicherungsverordnung; Sitzungsvorlage Nr. 08-14/ V 05208, Beschluss der Vollversammlung des Stadtrats vom 15.12.10
+- TOP 10.14.: Einführung der "Umweltzone" im 15. Stadtbezirk bzw. in ganz München; Empfehlung Nr. 08-14/ E 00386 der Bürgerversammlung des Stadtbezirks 15 Trudering-Riem vom 01.10.09, Sitzungsvorlage Nr. 08-14/ V 05421, Beschluss des Umweltausschusses vom 22.02.11
+- TOP 10.15.: Beseitigung höhengleicher Bahnübergänge, 1. Gegenwärtiger Stand, 2. Feldmochinger Straße, Beseitigung des höhengleichen Bahnübergangs, Sachstandsbericht und Vorstellung der Ergebnisse der Machbarkeitsstudie; 3. Bürgerversammlungsempfehlungen und Bezirksausschussanträge; 4. Rasche Realisierung der Bahnunterführung Fasanerie, Antrag 08-14/A 02094 der Stadtratsfraktion der FDP vom 22.12.10; Sitzungsvorlage Nr. 08-14/V 02094, Beschluss des Bauausschusses vom 03.02.11
+- TOP 10.16.: München setzt aufs Rad 2, Von Nachbarn in den Niederlanden und Dänemark lernen; Antrag Nr. 08-14/ A 01081 der Stadtratsfraktion Die Grünen/ RL vom 25.09.09; Sitzungsvorlage Nr. 08-14/V 04041, Hinweis/ Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.11
+- TOP 10.17.: Nahverkehrsplan (NVP) der Landeshauptstadt München, a) Aufgabenstellung, b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung, c) Finanzierung der ÖPNV-Infrastruktur, d) Anträge; Sitzungsvorlage Nr. 08-14/ V 05592, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11
+- TOP 10.18.: Entwicklung des Verkehrs in München; a) aktueller Sachstand b) Anträge 1. Bericht zur Entwicklung des Verkehrs in München Antrag Nr. 08-14/A 00225 der Stadtratsfraktion BÜNDNIS 90/ DIE GRÜNEN/ RL vom 14.08.08; 2. Aktuelle Daten zum Autoverkehr in München, Antrag Nr. 08-14/A 01356 von Herrn Stadtrat Josef Schmid vom 17.02.10; Sitzungsvorlage Nr. 08-14/V 05724, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11
+- TOP 10.19.: Mobilität in Deutschland (MiD), Befragung zum Alltagsverkehr in München; Sitzungsvorlage Nr. 08-14/ V 05581, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 12.01.11
+- TOP 10.20.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse, Antrag Nr. 08-14/A 00249 des Bezirksausschusses des Stadtbezirks 5 Au-Haidhausen vom 16.07.08; Sitzungsvorlage Nr. 08-14/ V 04462, Beschluss des Verwaltungs- und Personalausschusses vom 19.01.11 und Beschluss der Vollversammlung vom 26.01.11
+- TOP 10.21.: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamts; Sitzungsvorlage Nr. 08-14/ V 05288, Beschluss der Vollversammlung des Stadtrats vom 15.12.10
