@@ -1,0 +1,65 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-02-17T16:00:00+01:00
+- Ende: 2011-02-17T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRcyT3ug-wOtXzM-0x5pVNA
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3808
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZXdKQ3WPSONLIZktvqbbRAdzNHYFAOvyHqbEWDbANPF/Oeffentliche_Niederschrift_Rat_17.02.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 10. Sitzung des Rates am 18.11.2010
+- TOP 4: Protokoll über die 11. Sitzung des Rates am 16.12.2010
+- TOP 5: Umbesetzung von Ausschüssen
+- TOP 6: Bestandsaufnahme Anteilsverkauf/Alternativenbetrachtung Stadtwerke Solingen GmbH
+- TOP 7: Betriebssatzung der Technischen Betriebe Solingen
+- TOP 8: Betriebsausschuss Technische Betriebe Solingen
+- TOP 9: Ausgliederung der Altenzentren der Stadt Solingen auf eine gemeinnützige GmbH
+- TOP 10: Neufassung des § 12 des Gesellschaftsvertrags der Altenzentren der Stadt Solingen gGmbH aufgrund der geänderten Vorschriften der Gemeindeordnung NRW
+- TOP 11: Neufassung des § 6 Abs. 3 des Gesellschaftsvertrags der Altenzentren der Stadt Solingen gGmbH
+- TOP 12: Neuordnung des Regiebetriebes Bäder
+- TOP 13: Neuordnung des Regiebetriebes Bäder
+- TOP 14: Organisatorische Zusammenführung der Fachschule Solingen und des Technischen Berufskollegs Solingen
+- TOP 15: Modifizierung der Vergabeordnung der Stadt Solingen
+- TOP 16: Gründungsmitgliedschaft bei der Einkaufsgemeinschaft kommunaler Verwaltungen
+- TOP 17: Verkaufsoffene Sonntage im Jahre 2011
+- TOP 18: Duplikat von Satzung über die Erhebung von Kostenersatz und Gebühren bei Einsätzen der Feuerwehr Solingen (Hilfeleistungssatzung)
+- TOP 19: Änderungssatzung zur Satzung über die Erhebung von Gebühren für die Durchführung der Brandschau in der Stadt Solingen vom 26. März 1999
+- TOP 20: Hofgarten-Projekt
+- TOP 21: Bauleitplanung S 550 - Einkaufszentrum "Hofgarten"
+- TOP 22: Bauleitplanung An der Gemarke
+- TOP 23: Baudenkmal Wuppertaler Straße 179 (Bahnhof Gräfrath)
+- TOP 24: Einführung der „Ehrenamtskarte NRW“ des Ministeriums für Familie, Kinder, Jugend, Kultur und Sport
+- TOP 25: Verschiedenes
+- TOP 26: Winterdienst
+- TOP 27: Ablauf des Winterdienstes
+- TOP 28: Zusammenlegung des Veterinär- und Lebensmittelüberwachungsamtes
+- TOP 29: Einführung eines Sozialtickets
+- TOP 30: Aufstocker
+- TOP 31: Ausstattung der Diesel-Bus-Flotte
+- TOP 32: Probenräume
+- TOP 33: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 4. Quartal 2010
+- TOP 34: Altenzentren gGmbH
+- TOP 35: Kürzung der Städtebauförderungsmittel
+- TOP 36: Erfahrungen und Erkenntnisse aus den Extremsituationen dieses Winters
+- TOP 37: HSK-Maßnahme 103 "Einrichtung zentraler Bürgerbüros in Mitte und Ohligs"
+- TOP 38: HSK-Maßnahme 201 "Ausweitung Parkraumbewirtschaftung"
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 10. Sitzung des Rates am 18.11.2010
+- TOP 3: Protokoll über die 11. Sitzung des Rates am 16.12.2010
+- TOP 4: Bestandsaufnahme Anteilsverkauf/Alternativenbetrachtung Stadtwerke Solingen GmbH
+- TOP 5: Neufassung des Personalüberleitungsvertrags für die Altenzentren der Stadt Solingen
+- TOP 6: Neufassung des § 14 Abs. 1 des Personalüberleitungsvertrages für die Altenzentren der Stadt Solingen gGmbH
+- TOP 7: Personalüberleitungsvertrag für die Altenzentren der Stadt Solingen gGmbH
+- TOP 8: Neuordnung des Regiebetriebes Bäder
+- TOP 9: Verschiedenes
+- TOP 10: Ausgliederung der Altenzentren der Stadt Solingen auf eine gemeinnützige GmbH
