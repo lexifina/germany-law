@@ -1,0 +1,10 @@
+# Amtsblatt für den Regierungsbezirk Arnsberg 2011 Nr. 7 vom 19.02.2011
+
+- Herausgeber: Bezirksregierung Arnsberg
+- Ausgabe: 2011-02-19 (Ausgabetag im Kopf der Ausgabe (Ort, Datum))
+- Nummer: 7
+- Quelle: https://www.bra.nrw.de/system/files/media/document/file/abl_07_11.pdf
+- Text: OCR (Tesseract, deu) des Scans der herausgebenden Behörde; nicht Korrektur gelesen
+- Bekanntmachungen: 3 (je eine Datei)
+
+- Text: nicht übernommen - das Inhaltsverzeichnis nennt Privatpersonen (nur die Angaben oben; der Text steht unter der Quelle)
