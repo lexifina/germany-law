@@ -1,0 +1,84 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2225943
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2225943
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V. Dorffasching am 06.03.2011
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Caritas Kinder- und Jugendtreff "Jump In" Projekt "Ludwigsfelder TreFF für jung und alt"
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung Mariä Sieben Schmerzen "Heimkehrerlicht auf der Fassade des Hauses Lichtblick"
+- TOP 2.4.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über Projektplanung "Karlsfelder Straße zwischen Schwarzhölzlstraße und Am Gottesackerweg"
+- TOP 2.5.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.11.2007: Aufhebung Taxistandplatz Blodigstraße; Einrichtung einer Bücherbushaltestelle
+- TOP 2.6.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching-Hasenbergl Widmung einer Teilstrecke der Hummelblumenstraße
+- TOP 2.7.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching-Hasenbergl Widmung einer Teilstrecke des Löwenzahnweges
+- TOP 3.1.: Errichtung eines Fußgängerüberweges Gundermannstraße/ Ecke Maßliebchenstraße
+- TOP 3.2.: Ensembleschutz in der Feldmochinger Straße: Antrag des Kulturhistorischen Vereins vom 23.02.2010 auf Erweiterung des Ensembleschutzes in der Feldmochinger Straße soll abgelehnt werden.
+- TOP 3.3.: Trägerschaft für das Kulturbürgerhaus an der Blodigstraße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Vollzug der Baumschutzverordnung (Bauvorhaben): 5.1.1 Detmoldstr. 40 5.1.2 Feldmochinger Str. 204 5.1.3 Waldmeisterstr.98
+- TOP 5.2.: Vollzug der Baumschutzverordnung (Baumfällung): 5.2.1 Detmoldstr.40 5.2.2 Drudhardstr.17 5.2.3 Feldmochinger Str. 219 5.2.4 Lerchenauer Str.240 5.2.5 Feldmochinger Str. 362
+- TOP 5.3.: Bauleitverfahren in Nachbargemeinde Karlsfeld: Krenmoosstr. 9
+- TOP 5.4.: CarSharing in München; Durchführung von Pilotprojekten
+- TOP 5.5.: Schulweghelfer und Zebrastreifen Am Blütenanger/Kohlröschenstraße; Gundschule an der Feldmochinger Str. 252
+- TOP 5.6.: Änderung der BA-Satzung: Aufnahme eines Unterrichtungsrechtes in den BA Katalog Kommunalreferat bei Straßenhinweisschildern bzgl. Kolonialstraßennamen
+- TOP 5.7.: Veranstaltung in städt. Grünanlage: Dülferanger; Gastspiel Zirkus Baldoni 05.05. bis 15.05.2011
+- TOP 5.8.: Veranstaltung in städt. Grünanlage: Dülferanger; Deutsch-Türkischer Kulturverein e.V. Ende Mai - Anfang Juni 2011
+- TOP 5.9.: Veranstaltung in städt. Grünanlage: Dülferanger; Sommerfest des Vereins für Integration..24.06. bis 27.06.2011
+- TOP 5.10.: Veranstaltung in städt. Grünanlage: Dülferanger; Kasperltheater 08.09. bis 11.09.2011
+- TOP 5.11.: Veranstaltung in städt. Grünanlage: Dülferanger; Gastspiel Zirkus Roberto 03.10. bis 16.10.2011
+- TOP 5.12.: Veranstaltung auf öffentl. Verkehrsgrund gem. § 29 der STVO: City Bike Marathon München und nördl. Umgebung am 10.04.2011
+- TOP 5.13.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag auf Genehmigung auf Errichtung und Betrieb eines Abfall-/Schrott Lager- und Umschlageplatzes am Standort Lerchenstr. 19, 80995 München
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Ensembleschutz in der Feldmochinger Strasse
+- TOP 6.2.: Verkehrssituation in der Dülferstraße (Abschnitt zw. Georg-Winkler-Straße und Paul-Preuss-Straße)
+- TOP 6.3.: Entsorgungsmöglichkeit für Altreifen auf Wertstoffhöfen
+- TOP 6.4.: Lichtzeichenanlagen-Bauprogramm 2010; hier: Aschenbrennerstraße/ Schleißheimer Straße
+- TOP 6.5.: Absperrpfosten auf Geh- und Radweg zw. Moosglöckchenweg und Borsigstraße
+- TOP 6.6.: Spuren von Loipen im Stadtbezirk 24 Feldmoching-Hasenbergl
+- TOP 6.7.: Rolltreppen S-Bahnhof Feldmoching
+- TOP 6.8.: Grillen ausserhalb der ausgewiesenen Grillzone am Goldschmiedplatz
+- TOP 6.9.: Forderung eines Zebrastreifens über die Adlerfarnstraße
+- TOP 6.10.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.11.: Meldelisten Baumfällungsanträge
+- TOP 6.12.: Meldelisten Bauvorhaben
+- TOP 6.13.: Verkehrsrechtliche Anordnungen: 6.13.1 Lassallestraße 101 (Aufhebung Taxistandplatz/ Einrichtung einer Bücherbushaltestelle) 6.13.2 Moosglöckchenweg (gemeinsamer Geh- und Radweg) 6.13.3 Rainfarnstr. 44 (Schulbushaltestelle; Änderung des Zeitzusatzes)) 6.13.4 Hummelblumenstraße (verkehrsberuhigter Bereich)
+- TOP 6.14.: Antrag auf unveränderte Fortführung Gaststättenbetrieb: Ebereschenstr. 17
+- TOP 6.15.: Bürgerversammlung des 24. Stadtbezirkes Feldmoching-Hasenbergl (Einladung des OB)
+- TOP 6.16.: Ergebnisse zu Raumluftmessungen im Kindergarten Lerchenauer Str. 322
+- TOP 6.17.: Teilnahme der Bezirksausschüsse an Wettbewerben; Benennung und Entsendung von Stellvertretern
+- TOP 6.18.: Änderung BA-Katalog Kreisverwaltungsreferat (Zif. 13.2 Genehmigung von Schießstätten und Feuerwerken)
+- TOP 6.19.: Mehr Einflussmöglichkeiten für junge Menschen (Antwortschreiben OB zu Stadtratanträgen Fraktion Die Grünen/RL)
+- TOP 6.20.: Jährliche schriftliche Information der Bezirksausschüsse über Entwicklungen bzgl. Datenschutz durch Datenschutzbeauftragten; Information über Bürgerbeschwerden in anonymer Form (BA-Antrag des BA 3)
+- TOP 6.21.: Umfirmung GWG München
+- TOP 6.22.: Vollzug der Wassergesetze: Bachräumungstermine 2011 (Stadt- bzw. Stadtrandsbäche)
+- TOP 6.23.: Münchner Statistik (2. Quartalsheft, Jahrgang 2010)
+- TOP 6.24.: Städt. Willy-Brandt-Gesamtschule: Jahresbericht 2009/2011
+- TOP 6.25.: Beschlussvorlage Direktorium: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse
+- TOP 6.26.: Beschlussvorlage Sozialreferat: München spart Steuergelder: Regsam wird künftig auf ehrenamtlicher Basis geführt
+- TOP 6.27.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: 24. Stadtbezirk: Bebauungsplan mit Grünordnung Nr. 1763j (Grohmannstraße (südl), Aschenbrennerstraße (westl), Paulckestraße (nördl))
+- TOP 6.28.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung (u.a. Rothwiesenstraße (östl), Autobahnring - Nord A 99 (nördl))
+- TOP 6.29.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Entwicklung des Verkehrs in München
+- TOP 6.30.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Nahverkehrsplan (NVP) der Landeshauptstadt München
+- TOP 6.31.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung
+- TOP 6.32.: Beschlussvorlage Baureferat: Beseitigung höhengleicher Bahnübergänge
+- TOP 6.33.: Beschlussvorlage Referat für Bildung und Sport: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 6.34.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen der öffentl. Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten (Schuljahr 2010/11)
+- TOP 6.35.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen an den städt. Realschulen, den staatl. Realschulen und der städt. Franz-Auweck-Abendschule (Schuljahr 2010/2011)
+- TOP 6.36.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen an den städt. und staatl. Gymnasien, Schulen des 2. Bildungsweges und Schulen besonderer Art (Schuljahr 2010/2011)
+- TOP 6.37.: Beschlussvorlage Referat für Bildung und Sport: Schüler/innen und Klassenstand: Berufliche Schulen der LHST Mchn (Schuljahr 2010/2011)
+- TOP 6.38.: Beschlussvorlage Referat für Bildung und Sport: Neubau von 3 Kindertageseinrichtungen in Systembauweise Serie 1.2 hier: Dülferstr. 24 und Paul-Huml-Bogen (Paul-Preuß-Straße)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
