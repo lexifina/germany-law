@@ -1,0 +1,82 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-02-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236396
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236396
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung von Teilstrecken der Heilbrunner Straße
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Wertstoffsammelstelle auf städtischem Grund - Josephsburgstraße
+- TOP 3.1.1.2.: Rechtliche Grundlagen für private Spielhallen - Antrag BA 1
+- TOP 3.1.2.1.: CarSharing in München - Durchführung von Pilotprojekten
+- TOP 3.1.2.2.: Wartehäuschen an der Straßenbahnhaltestelle Kreillerstraße
+- TOP 3.1.2.3.: Berg-am-Laim-Straße - Einrichtung eines absoluten Haltverbots
+- TOP 3.1.3.1.: Projekt ?Gesundheit in der Sozialen Stadt? - Strukturelle Angebote zur Prävention und gesundheitlichen Versorgung
+- TOP 3.2.1.: Tag des Offenen Denkmals 2011
+- TOP 3.2.2.: Festplatz St.-Veit-Straße - Circus Roberto 16.05. - 23.05.2011 & Puppenbühne Stoßberger 03.08. - 07.08.2011
+- TOP 3.2.3.: Baumkirchner Straße - Maifeier am 01.05.2011
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen
+- TOP 3.6.1.: Berg-am-Laim-Str. 117 - Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.2.: Michaeliburgstraße 27 - Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.3.: Halserspitzstraße - Baumbestandsplan & Freiflächengestaltungsplan
+- TOP 3.6.4.: Berg-am-Laim-Str. 131 - 141
+- TOP 3.6.5.: Hohenbrunner Str. 17
+- TOP 3.6.6.: Gustav-Schwab-Str. 4 -10
+- TOP 3.6.7.: Trainsjochstr. 7a
+- TOP 3.6.8.: Buchsteinstr. 3
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.2.1.: Entwicklung des Verkehrs in München - Ergänzung zur Beschlussvorlage
+- TOP 4.1.2.2.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung
+- TOP 4.1.2.3.: München setzt aufs Rad 2 - Von den Nachbarn in den Niederlanden und in Dänemark lernen
+- TOP 4.1.2.4.: Radverkehr, Einrichtung von Fahrradstraßen
+- TOP 4.1.2.5.: Verkehrssicherheit Grafinger Straße und Aschheimer Straße
+- TOP 4.1.2.6.: Beseitigung höhengleicher Bahnübergänge
+- TOP 4.1.2.7.: Zeitkartenautomat Messestadt Ost
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Grundsatzentscheidung über das Vorgehen bei Standardneubauvorhaben - Bauprogramm 2011 für 2.160 Kinderbetreuungsplätzen an 32 Standorten mit einem Gesamtfinanzbedarf von ca. 100 Mio. ? - Änderung des MIP 2010 - 2014 Ausbau der Kindertagesbetreuung
+- TOP 4.3.2.: Erweiterung, Umbau und Sanierung der Grundschule an der Grafinger Str. 71 Projektkosten (prognostizierte Ausführungskosten) und Ersteinrichtungskosten
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Studie über Migranten-Milieus
+- TOP 4.5.1.: Freunde der FFW Michaeliburg - Verwendungsnachweis & Schriftverkehr
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
