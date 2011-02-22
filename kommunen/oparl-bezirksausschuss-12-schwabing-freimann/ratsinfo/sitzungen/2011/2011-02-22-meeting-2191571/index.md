@@ -1,0 +1,108 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2011-02-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2191571
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2191571
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse Antrag Nr. 08-14 / B 00249 des Bezirksausschusses des Stadtbezirkes 05 Au7-Haidhausen vom 16.07.2008 Beschluss der Vollversammlung vom 26.01.2011 Sitzungsvorlagen Nr. 08-14 / V 04462
+- TOP .2.: Teilnahme der Bezirksausschüsse an Wettbewerben; Benennung und Entsendung von Stellvertretern Antrag Nr. 08-14 / B 01302 des Bezirksausschusses des Stadtbezirkes 10 Moosach vom 29.06.2009 Sitzungsvorlage Nr. 08-14 / V 05752
+- TOP .1.: Organisation einer Gedenkveranstaltung anlässlich der Befreiung vom Nationalsozialismus am 08. Mai, Antrag bzw. Bitte des BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP .2.: Änderung der BA-Satzung: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen, BA-Antrag Nr. 08-14 / B 01964 des Bezirksausschusses 13 - Bogenhausen vom 09.03.2010
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Frauenedition" Streichquartett-Konzert am 19.03.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Wilhelmstraße Projekt "Tanz und Schule" ab Mitte März 2011
+- TOP .3.: (E) Budget der Bezirksausschüsse KJR München-Stadt Freizeittreff Freimann Anschaffung neuer Tische und Stühle
+- TOP .1.: City Bike Marathon am 10.04.2011
+- TOP .2.: "School's Over Jam": Straßenfest des Kreisjugendrings am 29.07.2011 an der Münchner Freiheit
+- TOP .3.: ?Auf zu neuen Schafen?, Spielkultur e.V. am Fröttmaninger Berg vom 13.07. bis 06.08.2011
+- TOP .4.: Quartiersflohmarkt am 21.05.2011, Nikolaiplatz
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Tapasita, Schank- und Speisewirtschaft, Feilitzschstr. 10
+- TOP .2.: Caffe Bistro La Tazza D'oro, Hohenzollernstr. 13
+- TOP .3.: "Bratwerk Imbiss", Muthmannstr. 4 (Parkplatz Hornbach Baumarkt)
+- TOP .1.: Anzeige von sich fortbewegenden Versammlungen unter freiem Himmel a) Demonstration für Menschenrechte in Afrika (Elfenbeinküste) am 12.02.2011 von der Münchner Freiheit über die Leopold- und Ludwigstraße zur Staatskanzlei b) "Großdemo zum echten Gesundheitsschutz" gegen Rauchverbot und Sperrzeit am 14.03., 28.03. und 11.04.2011 zw. 18 und 21 Uhr von der Münchner Freiheit zum Siegestor und zurück
+- TOP .2.: Kinderkrippe Ungererstr. 75: 2 Gruppen, 24 Langzeitplätze, ÖPD Öffentlich-Private-Partnerschaft, Freiwilliger Betriebskostenzuschuss an den Träger Arbeiterwohlfahrt; Beschluss der Vollversammlung vom 15.12.2010; Sitzungsvorlage Nr. 08-14 / V 05414
+- TOP .3.: "Kulturstrand für München" - Interessenbekundungsverfahren, Kopie eines Schreibens des BA 1 Altstadt-Lehel an den Oberbürgermeister
+- TOP .4.: Haushaltsplan 2011 - Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes, Beschluss der Vollversammlung vom 15.2.2010, Sitzungsvorlage Nr. 08-14 / V 05288
+- TOP .5.: REGSAM: München spart Steuergelder - REGSAM wird künftig auf ehrenamtlicher Basis geführt, Beschlussvorlage für die gemeinsame Sitzung des Kinder- u. Jugendhilfe- sowie des Sozialausschusses am 01.02.2011, Sitzungsvorlage Nr. 08-14 / V 05692
+- TOP .6.: Zuwendungsbewilligung / Ablehnung (Bescheid) aus dem Budget des BA 12 a) Haus am Schuttberg e.V. für die Maßnahme: Sportfest im Mai 2011 b) Pro Migrakunst für die Maßnahme: Fachtagung zum Thema Migration und Integration am 19./20.02.2011 c) Initiative "Wasserkraftwerk" für die Maßnahme: Infotafel an der Kleinwasserkraftanlage am Biederstein
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Unter der Linde 24, 1 Serbische Fichte
+- TOP .2.: Leopoldstr. 250, 33 Bäume
+- TOP .3.: Leopoldstr. 250, 1 Holländische Linde
+- TOP .4.: Münchner Freiheit (Leopoldstr./Ungererstr.), 2 Ahorn-Bäume
+- TOP .5.: NACHTRAG: Maria-Probst-Str., mehrere Bäume
+- TOP .1.: Bauvorhaben: Otl-Aicher-Straße, Fl. Nr.: 843/0, Neubau einer Wohnanlage mit Kita und Tiefgarage - Tektur
+- TOP .2.: Bauvorhaben: Leopoldstraße 57, Fl.Nr. 359/17, Umbau und Sanierung des Gebäudes, Anbau eines Treppenhauses sowie Aufstockung - Tektur
+- TOP .3.: Bauvorhaben: Burmesterstraße 23, Fl.Nr. 302/0, Umbau der Küche mit neuem Vordach und Errichtung eines Speiseraums
+- TOP .4.: Bauvorhaben: Franz-Joseph-Straße 10, Fl.Nr.: 4465/5, Dachausbau, -umbau und -modernisierung
+- TOP .5.: Bauvorhaben: Ingolstädter Straße 26, Fl.Nr.: 266/4, Neubau einer SIXT-Niederlassung
+- TOP .6.: Bauvorhaben: Ungererstraße 175, Fl.Nr.: 966/0, Nutzungsänderung von Büroflächen zu einer Kinderkrippe mit Kindergarten
+- TOP .7.: Bauvorhaben: Königinstraße 28, Fl.Nr.: 3179/0; Nutzungsänderung einer Hausmeister- und Pförtnerwohnung in Büros
+- TOP .8.: Bauvorhaben: Weisgerberstraße 4, Fl.Nr.: 1215/27; Sanierung eines Einfamilienhauses mit Schwimmbad und Einliegerwohnung
+- TOP .9.: Verkauf einer städtischen Immobilie, Frankfurter Ring, Fl.St.880/132
+- TOP .10.: Bauvorhaben: Josef-Wirth-Weg 21, Fl.Nr.: 525/6, Neubau eines Studentenwohnheimes
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Mitteilungen des Baureferats Gartenbau über die Fällung von Gefahrenbäumen: a) 1 Spitzahorn auf dem Nordfriedhof; b) 2 Bergahorne (Straßenbegleitgrün) in der Leinthalerstr. 6, c) 1 Silber-Weide Am Blütenring 16
+- TOP .2.: Biedersteiner Str. 29, 2 Eschen und 1 Baumveränderung an einem Spitzahorn
+- TOP .1.: Bebauungsplan mit Grünordnung Nr. 1943 b Frankfurter Ring (südlich), A 9 Berlin-München (westlich) und Domagkstraße (nördlich) - ehemalige Funkkaserne - Neubau der Erschließungsstraßen und Fußgängerbereiche Anschluss des Neubaugebietes an den Frankfurter Ring und die Domagkstraße; Beschlussvorlage für den Bauausschuss am 03.02.2011; Sitzungsvorlage Nr. 08-14 / V 05735
+- TOP .2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für die Bereiche u.a. - V/45, Burmesterstraße (östlich), Reuschstraße (südlich); Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 02.02.2011, Sitzungsvorlage Nr. 08-14 / V 05916
+- TOP .3.: Veränderungssperre Nr. 651 Freisinger Landstraße 74 Flurstücke Nr. 544/4 und 544/8 Gemarkung Freimann - Erste Verlängerung nach § 17 Abs. 1 BauGB (Bebauungsplan Nr. 2031), Beschlussvorlage für den Planungssausschuss vom 02.02.2011; Sitzungsvorlage Nr. 08-14 / V 05738
+- TOP .4.: Keine Genehmigung weiterer Spielhallen in München bis zu einer endgültigen gesetzlichen Regelung, Antrag des BA 1 Altstadt-Lehel vom 21.01.2011
+- TOP .5.: Erweiterung einer bestehenden Warenauslage, Feilitzschstraße 27: Genehmigung durch Entscheidung des Oberbürgermeisters vom 28.12.2010
+- TOP .6.: Kaiserplatz 13 - Seite Kaiserstraße: Verlängerung der Ausnahmebewilligung zur Benutzung der städtischen Grünanlage für eine Baustelleneinrichtung
+- TOP .7.: Zweckentfremdung von Wohnraum; Wohlfartstraße 11
+- TOP .8.: Antrag für eine Warenauslage, Feilitzschstraße 27, Einzelhandel mit Antiquitäten, Geschenkartikeln, Kosmetika
+- TOP .9.: Baugenehmigung; Franz-Joseph-Str. 4, Fl.Nr. 4442/0 Änderung der TG-Zufahrt zur Neuerrichtung der Feuerwehrzufahrt
+- TOP .1.: Abwicklung des Baustellenverkehrs beim Neubau des Studentenwohnheimes, Josef-Wirth-Weg 21
+- TOP .1.: Errichtung eines absoluten Haltverbotes im Bereich des Anwesens Heinrich-Groh-Str. 17 / Heinrich-Geißler-Straße
+- TOP .2.: Errichtung eines absoluten Haltverbotes in der Gunta-Stölzl-Straße
+- TOP .3.: Anfahrtszone Kindergarten Lilly-Reich-Straße
+- TOP .1.: CarSharing in München; Durchführung von Pilotprojekten, Anhörung zum Entwurf der Beschlussvorlage für den Kreisverwaltungsausschuss (siehe auch TOP D.5.3.3.)
+- TOP .2.: Entlang der Mannlichstraße, in der Nähe der Seniorenanlage "Osterwaldpalais", werden mindestens 3 Parkplätze mit auf zwei Stunden beschränkter Parkdauer probeweise für ein Jahr eingerichtet.
+- TOP .3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Hollandstraße 15
+- TOP .4.: Wasserkraftanlage am Eisbach im Bereich der Straße "Am Tucherpark" (WKA "Tucherpark") - erneute Änderung der Planung
+- TOP .5.: Lichtzeichenanlage Oettingen- / Tivolistraße ? Ende der Probephase
+- TOP .1.: Sanierung der Viktoriastraße zwischen Bonner Platz und Destouchesstraße
+- TOP .1.: Behindertengerechte Gestaltung des öffentlichen Raums - Verbesserung für Sehbehinderte I
+- TOP .3.: Fachgerechte Beseitigung der Bauschäden im Bereich des Forums an der Münchner Freiheit
+- TOP .4.: Behindertengerechte Gestaltung des Öffentlichen Raums - Rampe für Rollstuhlfahrer
+- TOP .1.: Einrichtung einer Bücherbushaltestelle in der Schlüterstraße
+- TOP .2.: Verlängerung der Haltverbotszone an der Schulbushaltestelle in der Keilberthstraße
+- TOP .3.: Einrichtung einer Bücherbushaltestelle und Anpassung der Zeiten der Schulbushaltestelle in der Fröttmaninger Straße
+- TOP .4.: Einrichtung eines allgemeinen Behindertenparkplatzes im Bereich Echinger Str. 20
+- TOP .1.: Radverkehr; Einrichtung von Fahrradstraßen: Zwischennachricht des KVR
+- TOP .2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP .3.: CarSharing in München; Durchführung von Pilotprojekten; Beschlussvorlage des Kreisverwaltungsausschusses vom 25.01.2011, Sitzungsvorlage Nr. 08-14 / V 05883 (siehe auch TOP D.3.2.1.)
+- TOP .4.: Petueltunnel ? Nachrüstung von Sicherheitseinrichtungen aufgrund geänderter Richtlinien: 1. Bedarfs- und Konzeptgenehmigung; 2. Projektauftrag; 3. Genehmigung zum vorzeitigen Austausch des Verkehrsrechners im Petueltunnel; Beschlussvorlage für den Bauausschuss vom 03.02.2011; Sitzungsvorlagen-Nr. 08-14 / V 05455
+- TOP .5.: Machbarkeitsstudie Isarring / Ifflandstraße - Ergebnisse und weiteres Vorgehen, Beschlussvorlage für den Planungssausschuss vom 02.02.2011, Sitzungsvorlage Nr. 08-14 / V 05912
+- TOP .6.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung, Beschlussvorlage für den Planungsausschuss vom 02.02.2011, Sitzungsvorlage Nr. 08-14 / V 04477
+- TOP .7.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung, Beschluss der Vollversammlung vom 15.12.2010, Sitzungsvorlage Nr. 08-14 / V 05208
+- TOP .8.: Beseitigung höhengleicher Bahnübergänge, Beschlussvorlage für den Bauausschuss vom 03.02.2011, Beschlussvorlage Nr. 08-14 / V 03800
+- TOP .9.: München setzt auf's Rad ? Von Nachbarn in den Niederlanden und Dänemark lernen Antrag Nr. 08-14 / A 01081 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.2010 Sitzungsvorlagen Nr. 08-14 / V 04041 (Hinweis / Ergänzung vom 25.01.2011)
+- TOP .10.: Künftige Vermeidung von Tram-Wendeschleifen in München durch den Einsatz von Zweirichtungstrams
+- TOP .11.: Fischpass am Föhringer Wehr; Restwassermenge in der nördlichen Isar - Zwischennachricht des Baureferats zum BA-Antrag Nr. 08-14 / B 02496 vom 26.10.2010
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
