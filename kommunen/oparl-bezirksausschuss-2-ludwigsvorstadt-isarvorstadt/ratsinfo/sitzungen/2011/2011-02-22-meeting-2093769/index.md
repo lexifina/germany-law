@@ -1,0 +1,107 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-02-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2093769
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2093769
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Gedenkfeier zum Jahrestag der Befreiung vom Nationalsozialismus am 08.05.2011 - Antrag des BA 19
+- TOP .1.: KiJu: Verstärkung der Buslinie 132
+- TOP .2.: Nutzungsanfragen für das ehem. Toilletenhäuschen am Holzplatz, Rückmeldung PlanungsRef
+- TOP .3.: BA-Budget: - Kurzbericht Kirchenkonzert St. Maximilian - Kurzbericht Edition Karbit - Kurzbericht München ist bunt
+- TOP .4.: München spart Steuergelder - REGSAM künftig auf ehrenamtlicher Basis; Beschluss Kinder- und Jugendhilfe / Sozialausschuss vom 01.02.2011
+- TOP .5.: Bolzplatz an der Glockenbachwerkstatt; Schreiben des BA 1 an das Kommunalreferat: konstruktiver Vorschlag zur Lösung der Situation erwünscht
+- TOP .6.: Kunst an den Pollern an der Ecke Dreimühlen-/Ehrengut-Straßen
+- TOP .7.: Heldengedenkmarsch 2010; Rückmeldung KVR an BA 1
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Lessingstr. 3: Neubau (EilE)
+- TOP .2.: Pettenkoferstr. 21: Nutzungsänderung (EilE)
+- TOP .3.: Kapuzinerstr. 12: Umstrukturierung, Aufstockung (EilE)
+- TOP .4.: Zenettistr. 12: Nutzungsänderung (EilE)
+- TOP .5.: Zenettistr.: Errichtung von Stellplätzen
+- TOP .6.: Corneliusstr. 16-34: Fahrbahnbelagserneuerung
+- TOP .7.: Kapuzinerstr. 20: Nutzungsänderung
+- TOP .8.: Zenettistr. 11: Umbau + Nutzungsänderung
+- TOP .9.: Westermühlstr. 30: DG-Ausbau, Balkonerweiterung, Anbau Aufzug
+- TOP .10.: Reifenstuelstr. 11: Ausbau DG-Wohnungen, Anbau Balkone, Nutzungsänderung
+- TOP .11.: Westermühlstr. 19: DG-Aufstockung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: CarSharing in München, Durchführung von Pilotprojekten; Beschlussvorlage Kreisverwaltungsausschuss
+- TOP .2.: Erlass von Erhaltungssatzungen, hier: Gärtnerplatzviertel PLENUMSBESCHLUSS
+- TOP .1.: Vorkaufsrecht nach dem BauGB: - Reichenbachstraße - Häberlstraße - Reichenbachstraße
+- TOP .2.: Radverkehr, Einrichtung von Fahrradstraßen; Zwischennachricht KVR
+- TOP .3.: Zweckentfremdung: - Landwehrstr. - Klenzestr.
+- TOP .4.: Aussetzen der Genehmigung von Spielhallen, Antrag des BA 1
+- TOP .5.: Landwehrstr. 16: Baugenehmigung
+- TOP .6.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung; Beschluss Ausschuss und Stadtplanung und Bauordnung vom 02.02.2011
+- TOP .7.: Beseitigung höhengleicher Bahnübergänge; Beschluss Bauausschuss vom 03.02.2011
+- TOP .8.: München setzt aufs Rad 2; Hinweis/Ergänzung zum Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.02.2011
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Isarplan (insbesondere Radweg)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Genehmigung Freischankfläche: Tumblingerstr. 16
+- TOP .2.: Genehmigung Freischankfläche: Schwanthalerstr. 85
+- TOP .3.: Genehmigung Freischankfläche: Fraunhoferstr. 7
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für Warenauslage und mobilen Fahrradständer: Schwanthalerstr. 27-29
+- TOP .2.: Antrag für Warenauslage: Auenstr. 29
+- TOP .3.: Antrag für Warenauslage: Landwehrstr. 40
+- TOP .4.: Antrag für mobilen Fahrradständer: Schwanthalerstr. 39
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.: Barrierefreie Bushaltestellengestaltung (Ziffer 1)
+- TOP .4.: Taxistandplatz Thalkirchner Str. 2
+- TOP .5.: (E) Geschwindigkeitsüberwachung in Tempo-30-Zonen (Ziffer 2)
+- TOP 6: (E) Abschaltung LZA im Bereich Klenze-/Ickstattstraße und Klenze-/Buttermelcherstraße
+- TOP 7: (E) Änderung der Ampelschaltung Paul-Heyse-/ Schwanthalerstraße
+- TOP 7.1.: Straßenfest des Sub e.V. am 01.05.2011
+- TOP 7.2.: Info-Veranstaltung der Verkehrspolizeiinspektion vom 15.06.-11.08.2011
+- TOP 7.3.: Ballonstart auf der Theresienwiese
+- TOP 7.4.: Zirkus Krone auf der Theresienwiese vom 07.-19.04.
+- TOP 7.3.2: Verkehr
+- TOP 7.1.: Einrichtung eines allg. Behindertenparkplatzes: Corneliuststr. 26
+- TOP 7.2.: Einrichtung allg. Behindertenparkplatz: Holzstr. 9
+- TOP 7.1.: Unveränderte Gaststättenfortführung: - Schillerstr. 11a: Mini-Bar und Dolly-Bar - Thalkirchner Str. 10: Blumenbar - Sonnenstr. 8: Xzess - Schillerstr. 16: Cabaret Imperial - Schillerstr. 32: Öko-Bäckerei-Konditorei - Poccistr. 1-3: Lazos Food and Drink Pavillon - Lindwurmstr. 157: Trattoria Italiana - Waltherstr. 30: GeKü
+- TOP 7.2.: Teilnahme der BAs an Wettbewerben; Beschluss Verwaltungs- und Personalausschuss vom 19.01.2011
+- TOP 7.3.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der BAs; Beschluss Verwaltungs- und Personalausschuss vom 19.01.2011
+- TOP 7.4.: Versammlungen unter freiem Himmel (5)
+- TOP 7.5.: Wartezeiten an der LZA Thalkirchner/Zenettistr.; Rückmeldung KVR
+- TOP 7.6.: Bürgeranliegen: Lärmbeschwerde Corneliusstraße; Rückmeldung KVR
+- TOP 7.7.: Verkehrsrechtliche Anordnung: - Rupperstr. 10: Einrichtung personenbezogener Behindertenparkplatz - Goethestr. 24: Eingeschränktes Haltverbot, Ladezone
+- TOP 7.8.: Filmaufnahmen auf öffentlichem Grund (2)
+- TOP 7.9.: CarSharing in München; Durchführung von Pilotprojekten: Beschluss Kreisverwaltungsausschuss vom 25.01.2011
+- TOP 7.10.: Kulturstrand für München - Interessenbekundungsverfahren, Schreiben des BA 1 an den OB
+- TOP 7.11.: Neuerlass der Straßenreinigungs- und -sicherungsverordnung; Beschluss Stadtrat vom 15.12.2010
+- TOP 7.12.: Schreiben der MVG and en BA 15 bzgl. Zeitkartenautomaten
+- TOP 7.13.: Freischankfläche Müllerstr. 49, Entscheidung OB: FSF wird genehmigt
+- TOP 7.14.: Parkmöglichkeit für den Schwimmbus der Klenzeschule
+- TOP 7.15.: Umgestaltung der Bahnhofsvorplätze im Umfeld des Hauptbahnhofs (Ziffer 3 des Antrags)
+- TOP 7.1.: Bürgeranliegen: Haltverbote durch Baufirmen
+- TOP 7.2.: Bürgeranliegen: widerrechtliches Parken Kapuzinerplatz/Häberlstraße
+- TOP 7.3.: Bürgeranliegen: Ruhestörungen durch Gaststätte in der Thalkirchner Straße
+- TOP 7.1.: Termine
+- TOP 7.3.: Sonstiges / Verschiedenes
+- TOP 7.1.: Themen für die BV am 19.05.2011
+- TOP 7.2.: Änderung BA-Katalog KVR: Genehmigung von Schießstätten und Feuerwerken
+- TOP 7.3.: Unterrichtungsrecht bei Straßenhinweisschildern bzgl. Kolonialstraßennamen, Antrag Nr. 08-14 / B 01964 des BA 13
+- TOP 7.4.: Außerordentliche Bürgerversammlung zur 2. S-Bahn-Stammstrecke (Anhörung)
+- TOP 7.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 7.3.: Anhörungen
+- TOP 7.4.: Unterrichtungen (siehe Beiblatt)
+- TOP 7.2.: Veranstaltungen
