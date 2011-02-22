@@ -1,0 +1,8 @@
+# TOP 2.2: Sachstandsbericht zur Verlegung der Hochspannungsleitung nördlich von Buir/Manheim
+
+- Sitzung: Ausschuss für Stadtplanung und Verkehr (9. Sitzung) (2011-02-22)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/26128
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/34728
+- Beschluss (Datei): Beschlusstext (Sachstandsbericht zur Verlegung der Hochspannungsleitung nördlich von Buir/Manheim) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZQwfKvjrywguCIJ2sohFL_nheLdMfLWBtVBlnWiNcgAQ/Beschlusstext_458.10_-oeffentlich-_Ausschuss_fuer_Stadtplanung_und_Verkehr_22.02.2011.pdf
