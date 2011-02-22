@@ -1,0 +1,62 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-02-22T17:02:00+01:00
+- Ende: 2011-02-22T19:32:00+01:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8198
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8198
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00126867.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00127989.pdf
+
+## Tagesordnung
+
+- TOP 1: Vorstellung des Vermögensmanagements
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 2: Jahresabschlüsse
+- TOP 2.1: Jahresabschluss der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2009/2010 - ungeändert beschlossen
+- TOP 3: Entlastungen
+- TOP 4: Wirtschaftspläne
+- TOP 4.1: Wirtschaftsplan der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2011/2012 - ungeändert beschlossen
+- TOP 4.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 4.2.1: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2011 - Ergänzung - Entgegennahme ohne Beschluss
+- TOP 4.3: Wirtschaftsplan GMW 2011 - ungeändert beschlossen
+- TOP 5: Personelle Angelegenheiten
+- TOP 5.1: Neubesetzung des Aufsichtsrates der VSG Verkehrs-Service GmbH - geändert beschlossen
+- TOP 6: Allgemeine Vorlagen
+- TOP 6.1: Bergische Entwicklungsagentur GmbH: Weiterentwicklung der Arbeits- und Kooperationsschwerpunkte der politischen Verantwortung - ungeändert beschlossen
+- TOP 6.2: Große Anfrage der Fraktion BÜNDNIS 90/ DIE GRÜNEN vom 18.01.11 -VRR und das Bundesgerichtsurteil über die Abellio-Vergabebeschwerde- - Entgegennahme ohne Beschluss
+- TOP 6.2.1: Antwort auf die Große Anfrage der Fraktion Bündnis 90/DIE GRÜNEN vom 18.01.2011- VRR und das Bundesgerichtsurteil über die Abellio-Vergabebeschwerde - - Entgegennahme ohne Beschluss
+- TOP 6.3: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 07.02.11 -Hochtemperatur-Kernkraftwerk Hamm-Uentrop- - Entgegennahme ohne Beschluss
+- TOP 6.3.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 07.02.11 -Hochtemperatur-Kernkraftwerk Hamm-Uentrop- - Entgegennahme ohne Beschluss
+- TOP 7: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 13: Berichtsvorlagen
+- TOP 13.1: Stand der Schulden und Kassenkredite zum 31.12.2010 - Entgegennahme ohne Beschluss
+- TOP 13.2: Externe Einstellungen im Zeitraum Januar bis Dezember 2010 - Entgegennahme ohne Beschluss
+- TOP 13.3: Anhängige kommunale Verfassungsbeschwerden - Entgegennahme ohne Beschluss
+- TOP 13.4: Bergische Zusammenarbeit: Sachstandsbericht und Ausblick zur IT-Kooperation - Entgegennahme ohne Beschluss
+- TOP 13.5: Personalsituation Stadtbetrieb 304 - Berufsfeuerwehr - Entgegennahme ohne Beschluss
+- TOP 13.6: FinCo 12/2010 - Entgegennahme ohne Beschluss
+- TOP 13.7: Gemeindefinanzierungsgesetz (GFG) 2011 - Entgegennahme ohne Beschluss
+- TOP 14: Haushaltsangelegenheiten
+- TOP 14.1: Umsetzung des Haushaltssicherungskonzeptes - aktueller Sachstand - Entgegennahme ohne Beschluss
+- TOP 14.2: Ziele und Kennzahlen zum Haushaltsplan 2012/2013 der Stadt Wuppertal - GB 4 - vertagen
+- TOP 14.3: Ziele und Kennzahlen zum Haushaltsplan 2012/2013 der Stadt Wuppertal - GB 0 - vertagen
+- TOP 15: Verkäufe und Baumaßnahmen
+- TOP 16: Dienstanweisungen und Satzungen
+- TOP 16.1: Dienstanweisung des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 17: Anträge und Anfragen
+- TOP 18: Allgemeine Vorlagen
+- TOP 18.1: Intensivierung der Fluktuation durch die Gewährung von Altersteilzeit im Beamtenbereich - ungeändert beschlossen
+- TOP 18.2: Weiterführung der Freibäder Eckbusch, Mirke, Vohwinkel und Hallenbäder Ronsdorf und Vohwinkel in privater Trägerschaft; - ungeändert beschlossen
+- TOP 19: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 25: Alten- und Altenpflegeheime
+- TOP 25.1: Zustimmung der vom Landschaftsverband beschieden gesondert berechnungsfähigen betriebsnotwendigen Investitionsaufwendungen für die Zeit vom 01.01.2011 bis 31.12.2012 - ungeändert beschlossen
+- TOP 26: Berichte und Mitteilungen
+- TOP 27: Kinder- und Jugendwohngruppen
+- TOP 28: Berichte und Mitteilungen
