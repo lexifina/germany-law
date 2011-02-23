@@ -1,0 +1,80 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2011-02-23T17:00:00+01:00
+- Ende: 2011-02-23T22:30:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1405
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1405
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Wahl - erledigt
+- TOP 6: Vorlagen zur Beschlussfassung - (offen)
+- TOP 6.1: Anmeldung des Bezirks Neukölln zur Investitionsplanung für die Jahre 2011 - 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Saubere Luft in Neukölln - beantwortet
+- TOP 8.2: Wo bleiben die Europaschüler? - beantwortet
+- TOP 8.3: Neuer Standort Clay-Oberschule - beantwortet
+- TOP 8.4: Obdachlosenunterkünfte - beantwortet
+- TOP 8.5: Natur- und Erlebnislandschaften - beantwortet
+- TOP 8.6: Erklärungsverpflichtung zur freiheitlich demokratischen Grundordnung - beantwortet
+- TOP 8.7: Gesperrter Spazierweg am Teltowkanal - beantwortet
+- TOP 8.8: Kältebus in Neukölln - beantwortet
+- TOP 8.9: Baumpaten für Neukölln - beantwortet
+- TOP 8.10: Rudow unter Wasser! - beantwortet
+- TOP 8.11: Gesperrte Wege an der Walter-Gropius-Schule - beantwortet
+- TOP 8.12: Wasser für Neukölln - beantwortet
+- TOP 8.13: Walter Gropius mit Brett vor dem Kopf? - beantwortet
+- TOP 8.14: Grundschule als öffentliche Toilette? - beantwortet
+- TOP 8.15: Teilhabe- und Bildungspaket - beantwortet
+- TOP 8.16: Neue Informationspolitik oder Misstrauen? - beantwortet
+- TOP 9: Beschlussempfehlungen - (offen)
+- TOP 9.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Einsatz eines Präventionsmobils - überwiesen
+- TOP 9.3: Gedenkstätte für die Opfer des Nationalsozialismus - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Sicherstellung des Jugendschutzes beim Betrieb von Spielautomaten - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Transparenz bei Befangenheitssituationen von Bezirksverordneten und Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.6: Mehr Bürgerbeteiligung und Transparenz (2) Begründung bei Einwohnerfragestunde zulassen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.7: Mehr Bürgerbeteiligung und Transparenz (3) Hauptausschuss soll öffentlich tagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.8: Mehr Bürgerbeteiligung und Transparenz (4) Tischvorlagen des Bezirksamtes nur in begründeten Fällen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.9: Die Ausstellung "Die Mauer. Eine Grenze durch Deutschland" nach Neukölln holen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Große Anfragen - (offen)
+- TOP 10.1: Lässt der Senat Hausbesitzer absaufen? - beantwortet
+- TOP 10.2: Neues Aufnahmeverfahren für Neuköllner Oberschulen handhabbar? - beantwortet
+- TOP 10.3: Kita Riesestraße - beantwortet
+- TOP 10.4: Interkulturelle Jugend- und Familienarbeit im Schillerkiez - beantwortet
+- TOP 10.5: Außenstände des Bezirks - beantwortet
+- TOP 10.6: Tempelhofer Feld - vertagt
+- TOP 11: Große Anfragen - schriftlich - erledigt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Zwei Wege im Landschaftspark-Süd mit Namen benennen - überwiesen
+- TOP 12.2: Volksfest auf dem Tempelhofer Feld - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Keine politiktheoretischen Spielwiesen in Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Städtebauliche Verträge veröffentlichen - überwiesen
+- TOP 12.5: Unterrichtsausfall effektiv bekämpfen - mehr Lehrer für Neuköllner Schulen - überwiesen
+- TOP 12.6: Treppe an der Hauptdurchwegung im Buschkrugpark barrierefrei gestalten - überwiesen
+- TOP 12.7: Forderungsmanagement in Neukölln einrichten - überwiesen
+- TOP 12.8: Tempelhofer Feld - überwiesen
+- TOP 12.9: Radstreifen Blaschkoallee - überwiesen
+- TOP 12.10: Durchfahrung Buschkrugpark für Fahrräder legalisieren - überwiesen
+- TOP 12.11: Gelder für A 100 im Jahr 2011 sinnvoller einsetzen - in der BVV abgelehnt
+- TOP 13: Mitteilungen - (offen)
+- TOP 13.1: Nachhaltige Jugendarbeit gegen Rechtsradikalismus - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Hasenheide soll endlich zur Ruhe kommen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Erhöhung der Vergnügungssteuer auf die Bruttoeinspielergebnisse bei Gewinnspielgeräten an allen Aufstellorten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Einsatz von Laubbläsern reduzieren - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Angebote für Rollstuhlfahrer - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14.1: Veränderungssperre 8-16a/17 für eine Teilfläche des Grundstücks Neudecker Weg 14 (Flurstücke 156, 157, 158 und 214) sowie das Grundstück Neudecker Weg 16/22 im Bezirk Neukölln, Ortsteil Rudow, im Geltungsbereich des Bebauungsplanentwurfes 8-16a ("Neudecker Weg") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.2: Sicherung der Kleingartenanlage Steingrube Weimarsruh - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.3: Hinweisschilder auf Kulturdenkmale auf U-Bahnhöfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 14.4: Busverkehr der Linie 171 - mit Abschlussbericht zur Kenntnis genommen
