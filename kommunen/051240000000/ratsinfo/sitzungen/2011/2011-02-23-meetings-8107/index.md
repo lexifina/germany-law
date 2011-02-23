@@ -1,0 +1,79 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-02-23T16:05:00+01:00
+- Ende: 2011-02-23T16:20:00+01:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8107
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8107
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen - Stand: 10.02.2011 - 13.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00126712.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00127641.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00127417.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Anfrage des Stadtverordneten Schnorr zu den städtischen Mitgliedschaften in Vereinen und den damit verbundenen Kosten
+- TOP 2.1.1: Städtische Mitgliedschaften in Vereinen und damit verbundene Kosten; Anfrage des Stv. Schnorr vom 17.11.10, VO/0970/10
+- TOP 2.2: Streusalz-Einsatz in Wuppertal
+- TOP 2.2.1: Antwort auf die Große Anfrage des Stadtverordneten Schnorr vom 03.01.2011 - Streusalz-Einsatz in Wuppertal
+- TOP 2.3: Übergeordnete Ziele und Kennzahlen zum Haushaltsplanentwurf 2012/2013
+- TOP 2.3.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 10.02.2011 - Übergeordnete Ziele und Kennzahlen zum Haushaltsplanentwurf 2012/2013
+- TOP 2.4: Schließung Gemeinschaftsgrundschule Elfenhang
+- TOP 2.4.1: Antwort zur Anfrage der Ratsfraktion DIE LINKE vom 11. Februar 011 "Schließung Gemeinschaftsgrundschule Elfenhang"
+- TOP 2.5: Zensus 2011: Erhebung der Daten zum Stichtag 9. Mai 2011
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Sachstandbericht Inklusion
+- TOP 4.1.1: Antrag zur Tagesordnung, Tagesordnungspunkt 4.1 Sachstandsbericht Inklusion - ungeändert beschlossen
+- TOP 4.2: Veggie Day - klimafreundlich essen - abgelehnt
+- TOP 4.3: Wiedereinführung der Schulbezirksgrenzen - abgelehnt
+- TOP 4.4: Kostenerstattung für Verhütungsmittel - geändert beschlossen
+- TOP 4.5: Erhaltung der Sozialstruktur in den Stadtteilen - ungeändert beschlossen
+- TOP 4.6: Bündnis für eine Soziale Stadt unterstützen - ungeändert beschlossen
+- TOP 4.7: Resolution zum Polizeieinsatz am 29. Januar 2011 - vertagen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Wuppertaler Schauspielhaus erhalten - abgelehnt
+- TOP 5.1.1: Änderungsantrag zu Drs. VO/1001/10 "Wuppertaler Schauspielhaus erhalten"
+- TOP 5.2: Winterdienst
+- TOP 6: Ortsrecht
+- TOP 6.2: Zustimmung der vom Landschaftsverband beschiedenen gesondert berechnungsfähigen betriebsnotwendigen Investitionsaufwendungen für die Zeit vom 01.01.2011 bis 31.12.2012 - ungeändert beschlossen
+- TOP 6.3: Neufassung der Satzung der Stadt Wuppertal über die Benutzung der städtischen Sportanlagen - geändert beschlossen
+- TOP 6.4: Änderung der Straßenordnung - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Dienstanweisung des Ressorts Finanzen - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan GMW 2011 - ungeändert beschlossen
+- TOP 8.2: Bergische Entwicklungsagentur GmbH: Weiterentwicklung der Arbeits- und Kooperationsschwerpunkte der politischen Verantwortung - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1143 - Laaker Teich - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1118 -Kohlstraße - - geändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1139 - Geranienstraße - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbez. Bebauungsplan Nr. 1154V - Physio- und Rehabilitationszentrum / Kornstraße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplanverfahren Nr. 1110 -Samoastraße- - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 226 - Wilhelmring - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erweiterung der städt. Tageseinrichtung für Kinder Rathenaustr. 20 durch Errichtung eines Anbaus für den Betrieb von weiteren drei Gruppen - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gremientätigkeiten von Herrn Oberbürgermeister Jung
+- TOP 11.2: Auflösung der Gemeinschaftsgrundschule Ferdinand-Lassalle-Str. zum 31.07.2011 - geändert beschlossen
+- TOP 11.3: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) Bildungsgang "Fachfrau/Fachmann für Systemgastronomie" gemäß APO BK Anlage A - ungeändert beschlossen
+- TOP 11.4: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.5: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.6: Schulentwicklungsplanung für die Förderschulen der Stadt Wuppertal 2010 - 2020, Teil 1 - Entwicklung der Schülerzahlen.
+- TOP 11.7: Weiterführung der integrativen Lerngruppen - zieldifferent - in der Sekundarstufe I - ungeändert beschlossen
+- TOP 11.8: Weiterführung der Freibäder Eckbusch, Mirke, Vohwinkel und Hallenbäder Ronsdorf und Vohwinkel in privater Trägerschaft; - geändert beschlossen
+- TOP 11.9: Intensivierung der Fluktuation durch die Gewährung von Altersteilzeit im Beamtenbereich - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Neubesetzung des Aufsichtsrates der VSG Verkehrs-Service GmbH - geändert beschlossen
+- TOP 12.2: Berufung von Mitgliedern mit beratender Stimme für den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.3: Gremienbesetzung Schulausschuss - ungeändert beschlossen
+- TOP 12.4: TOP 12 Gremienbesetzungen / Benennung - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.6: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.7: Benennung eines sachkundigen Einwohners für den Ausschuss für Kultur - ungeändert beschlossen
+- TOP 12.8: TOP 12 Gremienbesetzungen / Benennung - ungeändert beschlossen
