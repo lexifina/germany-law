@@ -1,0 +1,57 @@
+# 48. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-02-24T16:30:00+01:00
+- Ende: 2011-02-24T21:20:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2933
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2933
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100782
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-50 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abwahl der Bezirksbürgermeisterin Treptow-Köpenick von Berlin (2. Lesung) - in der BVV abgelehnt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Zustimmung zu den Ausbauvarianten für den Ausbau der Spreepromenade von Ahornweg bis Sternallee und der Teilstrecke des Plutowegs vom Ende der Wohnbebauung bis zum Grenzweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1.1: Prüfung Straßenausbaubeiträge Spreepromenade - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Ergebnis des Anzeigeverfahrens gem. § 6 Abs. 4 AGBauGB vom Dezember 2010 für den Bebauungsplan XVI-18 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für Industriesalon Schöneweide Forum für Industrie-Technik-Kultur e. V. (SM 1103) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Förderverein Evangelisches Gymnasium Köpenick e. V. (SM 1105) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bolz- und Streetballplätze für den Kranbahnpark - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Lärmstudie zu den gesundheitlichen Auswirkungen des künftigen Berliner Flughafens BBI - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Würdigung der Trägerinnen und Träger der Bürgermedaille - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Erinnerung 50 Jahre Mauerbau - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Änderung der Geschäftsbereiche des Bezirksamtes hier: Bildung des Stadtentwicklungsamtes zum 01.01.2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Anmeldung zur Investitionsplanung 2011 bis 2015 - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Parkplätze Krankenhaus Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Relief „Das Leben“ im DRK-Krankenhaus nicht verstecken - überwiesen
+- TOP 14.3: Parkplätze für den 1. FC Union - überwiesen
+- TOP 14.4: Errichtung einer Lichtsignalanlage am S-Bhf. Friedrichshagen - in der BVV abgelehnt
+- TOP 14.5: Behebung von Parkplatzproblemen für PKW in Treptow-Köpenick - in der BVV abgelehnt
+- TOP 14.6: Park- und Halteverbot am Rathaus Friedrichshagen aufheben - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Aufhebung des Bezirksamtsbeschlusses 339/2009 über die Neuregelung von Raumüberlassung an Dritte im Bezirk Treptow-Köpenick - vertagt
+- TOP 14.8: Benennung der Straßen 901 und 902 in Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Spielplatz Porzer Straße - überwiesen
+- TOP 14.10: Hundekotbeseitigung im Bezirk - überwiesen
+- TOP 14.11: Eidechsenweg - überwiesen
+- TOP 14.12: Touristisches Hinweisschild für den Industriesalon Schöneweide - überwiesen
+- TOP 14.13: Museum Fritz Kühn - überwiesen
+- TOP 14.14: Denkmalgerechte Restaurierung des Rathauses Treptow fortsetzen - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Übertragung von Jugendfreizeiteinrichtungen an Freie Träger - beantwortet
