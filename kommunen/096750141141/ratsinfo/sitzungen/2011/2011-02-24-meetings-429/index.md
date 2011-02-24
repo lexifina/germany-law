@@ -1,0 +1,54 @@
+# Sitzung des Finanzausschusses
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2011-02-24T18:00:00+01:00
+- Ende: 2011-02-24T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/5
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/429
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/429
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00003472.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00005275.pdf
+
+## Tagesordnung
+
+- TOP 1: Auftragsvergaben
+- TOP 1.1: Nordtangente - Anschluss BA IIIb an die St 2271 - beschlossen
+- TOP 1.2: Nordtangente BA I - Lärmschutzwände Nr. 3-5 + 3a, - beschlossen
+- TOP 1.3: Klär- und Abwasseranlagen Kitzingen - Erneuerung der Prozessleit- und Automatisierungstechnik, - beschlossen
+- TOP 2: Stadtplanung - Grundsatzbeschluss zur Planung eines Wohngebietes südwestlich der Gollermühle - beschlossen
+- TOP 3: Personenschifffahrts-Anlegestelle am Mainkai in Kitzingen, hier: Benutzungssatzung für die Personenschifffahrts-Anlegestelle der Großen Kreisstadt Kitzingen - Ohne Abstimmung
+- TOP 4: Bauleitplanung - Bebauungsplan Nr. 104 "Sondergebiet Freizeit und Reitsport mit angegliedertem Wohnen und Tagungshotel", hier: Abwägung Vorentwurf, Billigung Entwurf und Auslegungsbeschluss - Ohne Abstimmung
+- TOP 5: Bauleitplanung - Bebauungsplan Nr. 103 "Gewerbegebiet Innopark Kitzingen", hier: Abwägung Vorentwurf, Billigung Entwurf und Auslegungsbeschluss - Ohne Abstimmung
+- TOP 6: Budgetfestlegung
+- TOP 6.1: Budget Standesamt - UA 0501 - Ohne Abstimmung
+- TOP 6.2: Budgetfestlegung 2011 für SG 12 - EDV - - Ohne Abstimmung
+- TOP 6.3: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - - Ohne Abstimmung
+- TOP 6.4: Budgetfestlegung für das Haushaltsjahr 2011, Budget Feuerwehren - UA 1300 - Ohne Abstimmung
+- TOP 6.5: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Betriebskosten UA 2111, 2112, 2121, 2122, 2431 - Ohne Abstimmung
+- TOP 6.6: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Sportanlagen UA 2140, 2141, 5601, 5602, 5603, 5651, 5652 - Ohne Abstimmung
+- TOP 6.7: Budgetierung von städischen Einrichtungen, Teilbudgets der Schulen für den Unterrichtsaufwand ab 2011 - Ohne Abstimmung
+- TOP 6.8: Budgetfestlegung HHJ. 2011 Alte Synagoge/SG 131 Unterabschnitt 3009 - Ohne Abstimmung
+- TOP 6.9: Budgetfestlegung für das Haushaltsjahr 2011, Budget/ Gesamtbudget Stadtarchiv - UA 3111 - Ohne Abstimmung
+- TOP 6.10: Budgetfestlegung für das Haushaltsjahr 2011, Budget Museum UA 3200 - Ohne Abstimmung
+- TOP 6.11: Budgetfestlegung für das Haushaltsjahr 2011, Budget/Gesamtbudget Musikschule - UA 3331 - Ohne Abstimmung
+- TOP 6.12: Budgetfestlegung für das Haushaltsjahr 2011, Budget: Heimat- und Kulturpflege - UA 3400 - Ohne Abstimmung
+- TOP 6.13: Budgetfestlegung HHJ. 2011 vhs/SG 131 Unterabschnitt 3501 - Ohne Abstimmung
+- TOP 6.14: Budgetfestlegung HHJ. 2011 Stadtbücherei/SG 132 Unterabschnitt 3521 - Ohne Abstimmung
+- TOP 6.15: Budgetfestlegung für das Haushaltsjahr 2011, Budget Stadtjugendpflege - UA 4604, 4605, 4606, 4609 - Ohne Abstimmung
+- TOP 6.16: Budgetfestlegung für das Haushaltsjahr 2011, Budget UA 5821 - Stadtgärtnerei - Ohne Abstimmung
+- TOP 6.17: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Straßen, Wege, Plätze (UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900, 7850 - Ohne Abstimmung
+- TOP 6.18: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Abwasser (UA 7000, 7002, 7006, 7146, 7189) - Ohne Abstimmung
+- TOP 6.19: Gesamtbudget Friedhöfe - UA 7511 - 7516 - Ohne Abstimmung
+- TOP 6.20: Budgetfestlegung für das Haushaltsjahr 2011, Budget: Sonstige Öffentliche Einrichtungen - UA 7600, 7690, 7691, 7692, 7693 - Ohne Abstimmung
+- TOP 6.21: Budgetfestlegung für das Haushaltsjahr 2011, hier: Tourist-Information - UA 7901 - Ohne Abstimmung
+- TOP 6.22: Budgetfestlegung für das Haushaltsjahr 2011, Budget UA 7711 - Bauhof - Ohne Abstimmung
+- TOP 6.23: Budgetfestlegung für das Haushaltsjahr 2011 Budget Amt 2, SG 232, Forstbetrieb, UA 8551 - Ohne Abstimmung
+- TOP 6.24: Budgetfestlegung für das Haushaltsjahr 2011 Budget Amt 2, SG 23, Wohn-und Geschäftsgrundstücke, UA 8801 - Ohne Abstimmung
+- TOP 6.25: Budgetfestsetzung für das Haushaltsjahr 2011 Budget Amt 2, SG 23, Sonstiges Allgemeines Grundvermögen, UA 8891 - Ohne Abstimmung
+- TOP 7: Anträge von Fraktionen und Gruppen
+- TOP 7.1: Antrag Nr. 100/2011 der KIK-Fraktion, hier: Ehem. Gasthof Tauber, Lindenstraße/Würzburger Straße, Kitzingen - beschlossen
+- TOP 7.2: Antrag Nr. 102/2011 der KIK-Fraktion, hier: Verwertung einer Fläche an der Marktstraße 27-31 - beschlossen
+- TOP 8: Sonstiges
