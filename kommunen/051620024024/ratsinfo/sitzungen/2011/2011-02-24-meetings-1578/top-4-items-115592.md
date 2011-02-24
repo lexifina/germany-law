@@ -1,0 +1,8 @@
+# TOP 4: Werbematerialien Integrationsrat
+
+- Sitzung: Integrationsrat (2011-02-24)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/115592
+- Ergebnis: einstimmig zugestimmt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/11106
