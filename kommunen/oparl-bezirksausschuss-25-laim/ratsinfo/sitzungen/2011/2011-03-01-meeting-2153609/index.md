@@ -1,0 +1,109 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-03-01T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153609
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153609
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Erreichbarkeit der S-Bahnstation Hirschgarten
+- TOP 1.2.2.: Verkehrssicherheit auf dem Schulweg; Kreuzung Fürstenrieder - / Ammerseestraße
+- TOP 1.2.3.: Bebauung Brantstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Sanierung Wohnanlage "Thomas-Wimmer-Haus" (vertagt aus der BA-Sitzung vom 01.02.11)
+- TOP 2.2.: CSU: Erhalt der Wohngeldstelle im Sozialbürgerhaus Dillwächterstraße
+- TOP 2.3.: CSU: Aufnahme des Spielplatzes am Laimer Platz bei der Bekämpfung der Ameisenplage
+- TOP 2.4.: UA Soziales, Schule und Sport: Homepage des BA 25; regelmäßige Aktualisierung oder Löschung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Antrag auf Zuschuss aus dem Budget des BA 25 in Höhe von 3.370 Euro für Maitanz am 01.05.11; Antragsteller: Laimer Maibaumfreunde e.V. - <div>nach Antrag</div>
+- TOP 2: Beschlussvorlage Baureferat: Beleuchtung der Agnes-Bernauer-Straße im Abschnitt Von-der-Pfordten-Straße bis Willibaldplatz (Empfehlung Nr. 08-14 / E 00439 der Bürgerversammlung vom 17.11.09) - <div>nach Antrag</div>
+- TOP 2.3.: Beschlussvorlage Baureferat: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.10 über die Genehmigung und Aufstellung von Maibäumen und Feldkreuzen; Vollzug der Grünanlagensatzung im Stadtbezirk 25 Laim; Aufstellung und Belassung eines Maibaumes; Ort: Laimer Anger
+- TOP 2.4.: Übernahme der Kosten für zwei Musikabende im Interim am 13.05. und 14.05.11 in Höhe von 4.500 Euro aus dem Budget des BA 25 / Anteil für Eigenveranstaltungen; Antragsteller: UA Kultur
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 24.01.11: Puppentheater auf dem Laimer Anger vom 14.09.-18.09.11
+- TOP 4.2.: Schreiben KVR vom 24.01.11: Flohmarkt am Spielplatz Laimer Platz am 19.03.11
+- TOP 4.3.: Schreiben Direktorium vom 27.01.11: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen (Antrag Nr. 08-14 / B 01964 des BA 13 Bogenhausen)
+- TOP 4.4.: Schreiben KVR vom 26.01.11: CarSharing in München; Durchführung von Pilotprojekten
+- TOP 4.5.: Friedenheimer Str. 114-126: Fällung von 2 Fichten
+- TOP 4.6.: Schreiben Direktorium vom 03.02.11: 2. S-Bahn-Stammstrecke; Außerordentliche Bürgerversammlung für die Stadtbezirke 1, 2, 5,8, 9 und 25 zum Thema "Sicherheit" und "Gute Vernetzung mit anderen Verkehrsmitteln" (Empfehlung Nr. 08-14 / E 00831 der Bürgerversammlung des Stadtbezirkes 05 Au-Haidhausen, Bezirksteil Haidhausen, am 27.01.11)
+- TOP 4.7.: Schreiben Baureferat vom 08.02.11: Fürstenrieder Straße zwischen Landsberger Straße und A 96; teilweise Fahrbahnsanierung
+- TOP 4.8.: Schreiben Referat für Arbeit und Wirtschaft vom 10.02.11: Werbenutzungsvertrag der LH München
+- TOP 4.9.: Schreiben KVR vom 17.02.11: Maifeier / - tanz am 01.05.11 auf dem Laimer Anger
+- TOP 4.10.: Schreiben KVR vom 18.02.11: Flohmarkt am 07.05.11 auf dem Laimer Platz
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 214: Errichtung eines gewerblich genutzten Gebäudes mit 8 kleinen Spielhallen und Gaststätte / Vorbescheid; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Kulturreferat vom 07.02.11: Einladung zum Jour Fixe Bezirksausschüsse am 24.03.11
+- TOP 6.2.: Planungsverfahren Landsberger Str. 191; Benennung eines stimmberechtigten und eines stellvertretenden Jurymitgliedes
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 17.01.11
+- TOP 7.2.: Bericht Kinder- und Jugend BA 2010
+- TOP 7.3.: Ortstermin UA Umwelt und Verkehr vom 28.01.11
+- TOP 7.4.: BA-Sitzung vom 01.02.11
+- TOP 7.5.: Sitzung UA Kultur vom 08.02.11
+- TOP 7.6.: Sitzung UA Soziales, Schule und Sport vom 14.02.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Bildung und Sport vom 12.01.11: Baulicher Zustand der Sporthalle an der Schrobenhausener Straße; Informationsbrief vom September 2010 (Schreiben BA vom 27.10.10)
+- TOP 8.2.: Schreiben KVR vom 12.01.11: Beschränkung des Parkens auf Pkw in der Barmer Straße; verkehrsrechtliche Anordnung
+- TOP 8.3.: Schreiben KVR vom 18.01.11: Verlängerung der Ampelschaltung an der Fürstenrieder Straße / Übergang zur Schule in den Morgenstunden und Mittags (Antrag Nr. 08-14 / B 02601 vom 07.12.10)
+- TOP 8.4.: Schreiben KVR vom 17.01.11: Gaststätte "Subway", Fürstenrieder Str. 46; unveränderte Fortführung
+- TOP 8.5.: Schreiben KVR vom 14.02.11: Verkehrssituation Willibaldstraße
+- TOP 8.6.: Schreiben Sozialreferat vom 10.12.10: Genehmigung der Zweckentfremdung von Wohnraum; Sturmstraße
+- TOP 8.7.: Schreiben Sozialreferat vom 20.01.11: Runder Tisch "Agnes-Bernauer-Straße"am 30.11.10; Protokoll
+- TOP 8.8.: Schreiben Sozialreferat vom 25.01.11: Genehmigung der Zweckentfremdung von Wohnraum; Agricolastraße
+- TOP 8.9.: Schreiben Sozialreferat vom 10.02.11: Erhalt der Funktionen des Sozialbürgerhauses in der bisherigen Form (Antrag Nr. 08-14 / B 02602 vom 07.12.10)
+- TOP 8.10.: Schreiben Sozialreferat vom 14.02.11: Umgestaltung der Infothek im Sozialbürgerhaus Dillwächterstraße unter Beachtung datenschutzrechtlicher Bestimmungen (Antrag Nr. 08-14 / B 02666 vom 11.01.11)
+- TOP 8.11.: Schreiben Kinderbeauftragte der LH München vom 18.02.11: Ausrichtung Weltkindertag 2011 in Laim
+- TOP 8.12.: Schreiben Münchner Stadtentwässerung vom 24.01.11: Rohrkanalsanierung Laim; Grabenlose Sanierung der Steinzeugrohrkanäle
+- TOP 8.13.: Schreiben Direktorium vom 04.12.10: Budgetmittel des BA 25, Ablehnung einer Zuwendung; Antragsteller: Pro Migrakunst
+- TOP 8.14.: Schreiben Direktorium vom 25.01.11: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Kath. Kirchenstiftung Namen Jesu
+- TOP 8.15.: Schreiben Direktorium vom 17.02.11: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.16.: Schreiben Abfallwirtschaftsbetrieb München vom 26.01.11: Vermüllung der Wertstoffsammelplätze Rußhaimerstraße / Camerloherstraße sowie Inderstorferstraße / Reindlstraße (Schreiben BA vom 19.01.11)
+- TOP 8.17.: Schreiben Abfallwirtschaftsbetrieb München vom 15.02.11: Information zum Wertstoffsammelsystem in der LH München
+- TOP 8.18.: Schreiben Baureferat vom 31.01.11: Fehlende Straßenmarkierung an der Kreuzung Camerloherstraße / Fürstenrieder Straße (Antrag Nr. 08-14 / B 02386 vom 14.09.10 bzw. Schreiben BA vom 19.01.11)
+- TOP 8.19.: Schreiben Baureferat vom 26.01.11: Aufbringung eines Lärmschutzbelages bei den Zu- und Abfahrten zur Autobahn München-Lindau (Antrag Nr. 08-14 / B 02529 vom 09.11.10)
+- TOP 8.20.: Schreiben Referat für Arbeit und Wirtschaft vom 31.01.11: Wirtschafts-Info 01/2011
+- TOP 8.21.: Schreiben Referat für Arbeit und Wirtschaft vom 08.02.11: Europe Direct Informationen 01/2011
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 14.02.11: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Haslangstr. 9
+- TOP 8.23.: Schreiben Stadtkämmerei vom 15.02.11: Mittelfristige Finanzplanung 2010-2014
+- TOP 8.24.: Schreiben Planungsreferat vom 13.01.11: Erhalt aller Kleingartenanlagen im Stadtbezirk 25 Laim (Antrag Nr. 08-14 / B 02183 vom 08.06.10)
+- TOP 8.25.: Schreiben Planungsreferat vom 19.01.11: Reutterstr. 49a, Neubau eines Einfamilienhauses mit Garage
+- TOP 8.26.: Schreiben Planungsreferat vom 24.01.11: Fürstenrieder Str. 51, Neubau eines Büro- und Geschäftshauses mit Pkw-Garage (46 Stpl.)
+- TOP 8.27.: Schreiben Planungsreferat vom 08.02.11: Zschokkestr. 59; Beschwerde, bauaufsichtliches Einschreiten
+- TOP 8.28.: Bautenliste vom 17.01.-23.01.11 1. Erstantragsverfahren a) Elsenheimerstr. 61
+- TOP 8.29.: Bautenliste vom 24.01.-30.01.11 1. Erstantragsverfahren a) Agricolastr. 64 b) Flotowstr. 20 c) Geßlerstr. 7 d) Rattenhuberstr. 1 2. Änderungsverfahren zu genehmigte Bauvorhaben a) Gotthardstr. 1 b) Schäufeleinstraße 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Flotowstr. 20 b) Aindorferstr. 77 b
+- TOP 8.30.: Bautenliste vom 31.01.-06.02.11 1. Erstantragsverfahren a) Gutzkowstr. 11 b) Gutzkowstr. 13 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 214
+- TOP 8.31.: Bautenliste vom 07.02.-13.02.11: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Aindorferstr. 72
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 24.01.11: Baumaßnahmen der Stadtwerke; Stichtag: 24.01.11
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 31.01.11: Baumaßnahmen der Stadtwerke; Stichtag: 31.01.11
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 07.02.11: Baumaßnahmen der Stadtwerke; Stichtag: 07.02.11
+- TOP 8.35.: Bautenliste vom 14.02.-20.02.11 1. Erstantragsverfahren a) Rushaimerstr. 5b b) Agricolastr. 81 2. Änderungsverfahren a) Ruetterstr. 42 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Rushaimerstr. 6
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 14.02.11: Baumaßnahmen der Stadtwerke; Stichtag: 14.02.11
+- TOP 8.37.: Beschluss der Vollversammlung des Stadtrates vom 15.12.10: Neuerlass der Straßenreinigungs- und -sicherungsverordnung (Sitzungsvorlagen Nr. 08-14 / V 05208)
+- TOP 8.38.: Beschluss der Vollversammlung des Stadtrates vom 15.12.10: Haushaltsplan 2011, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 05288)
+- TOP 8.39.: Beschluss der Vollversammlung vom 26.01.11: Teilnahme der Bezirksausschüsse an Wettbewerben, Benennung und Entsendung von Stellvertretern (Sitzungsvorlagen Nr. 08-14 / V 05752)
+- TOP 8.40.: Beschluss der Vollversammlung vom 26.01.11: Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse (Sitzungsvorlagen Nr. 08-14 / V 04462)
+- TOP 8.41.: Beschluss des Kinder- und Jugendausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.11: REGSAM; München spart Steuergelder, REGSAM wird künftig auf ehrenamtlicher Basis geführt (Sitzungsvorlagen Nr. 08-14 / V 05692)
+- TOP 8.42.: Hinweis / Ergänzung zum Beschluss für Stadtplanung und Bauordnung vom 02.02.11: München setzt auf`s RAd 2, Von Nachbarn in den Niederlanden und Dänemark lernen (Sitzungsvorlagen Nr. 08-14 / V 04041)
+- TOP 8.43.: Beschluss des Bauausschusses vom 03.02.11: Beseitigung höhengleicher Bahnübergänge (Sitzungsvorlagen Nr. 08-14 / V 03800)
+- TOP 8.44.: Beschluss der Vollversammlung vom 16.02.11: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung (Sitzungsvorlagen Nr. 08-14 / V 04477)
+- TOP 8.45.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11: Wohnungsnahe Versorgung mit öffentlichen Spielflächen - Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes - (Sitzungsvorlagen Nr. 08-14 / V 05936)
+- TOP 8.46.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11: Projekt des Deutschen Institut für Urbanistik; Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze (Sitzungsvorlagen Nr. 08-14 / V 06053)
+- TOP 8.47.: Schreiben BA 1 Altstadt-Lehel vom 21.01.11: "Kulturstrand für München" - Interessenbekundungsverfahren
+- TOP 8.48.: Schreiben BA 1 Altstadt-Lehel vom 21.01.11: Spielhallen
+- TOP 8.49.: Schreiben BA 15 Trudering-Riem vom 24.01.11: Zeitkartenautomaten Messestadt Ost
+- TOP 8.50.: Schreiben BA 15 Trudering-Riem vom 26.01.11: Umweltzone
+- TOP 8.51.: Schreiben Förderverein Kindergarten Fronleichnam e.V. vom 17.01.11: Kurzbericht wegen Zuschuss zur Anschaffung neuer Spielgeräte; Bewilligungsbescheid vom 13.10.10
+- TOP 8.52.: Schreiben Förderverein der Camerloher Grundschule in München-Laim e.V. vom 20.01.11: Zuschuss für ein Theaterprojekt zur Gewaltprävention; Einladung zur Vorstellung am 21.03.11
+- TOP 8.53.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 16.02.11: Fachtag "Schule ohne Rassismus. Schule mit Courage" am 21.03.11
+- TOP 8.54.: Schreiben Hauptschule an der Fürstenrieder Str. 30 vom 14.12.10: Nutzung des städtischen Grundstücks in der Agnes-Bernauer-Straße
+- TOP 8.55.: Schreiben Grundschule an der Fürstenrieder Str. 30 vom 08.12.10: Raumbedarf der Grundschule
+- TOP 8.56.: Schriftverkehr aus der BA-Sitzung vom 01.02.11
+- TOP 1.2: Bürgerpost an den BA
