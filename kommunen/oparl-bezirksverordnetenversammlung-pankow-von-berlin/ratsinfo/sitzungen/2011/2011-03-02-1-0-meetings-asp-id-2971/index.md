@@ -1,0 +1,97 @@
+# 40. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-03-02T17:30:00+01:00
+- Ende: 2011-03-02T21:50:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2971
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2971
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=43625
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Mitgliedes des Vorstandes der BVV Pankow - vertagt
+- TOP 1.9: Berufung eines beratenden Mitgliedes des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VI. Amtsperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Anmeldung für die Investitionsplanung 2011 bis 2015 Bezirk Pankow - vertagt
+- TOP 1.11: Verordnung zur Aufhebung der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 3 des Baugesetzbuchs für das Gebiet "Grüne Stadt" im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg vom 13. November 2007 - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Beschluss über den Bebauungsplanentwurf 3-13 vom 21.09.2010 für das Gelände zwischen Lerchengraben, Piesporter Straße, Feldtmannstraße und Berliner Allee im Bezirk Pankow, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Beschluss über den Bebauungsplan 3-23 für die Grundstücke Berliner Allee 24/28, Bizetstraße 17/21 und einen Abschnitt der Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Gründung einer Grundschule im Ortsteil Pankow am Standort Mendelstraße 54 in 13156 Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Aufhebung der 2. Schule mit dem Förderschwerpunkt "Lernen" - 03S02 in 13125 Berlin, Bedeweg 1 - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Schutz der Grünanlagen im Innenbereich des durch eine Mauer geschützten Teiles des Schlossparks - in der BVV abgelehnt
+- TOP 1.17: Gebietskulisse Stadtumbau Ost für den Prenzlauer Berg aktivieren und Grundlage für Sozialplanung und Mieterschutz schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Botanische Vielfalt Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Fassadengrün auch im Bezirksamt erhalten und pflegen - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Denkzeichen "Euthanasie" in Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Attraktive Fassadengestaltung im Pankower Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Maßnahmen gegen den Schleichverkehr in der Winsstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Liefer- und Ladezonen in der Prenzlauer Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Kastanienallee - Durchführung einer Bürgerbefragung - in der BVV abgelehnt
+- TOP 1.25: Durchführung einer Bürgerbefragung für die Kastanienallee - in der BVV abgelehnt
+- TOP 1.26: Bessere Ausstattung des Veterinär- und Lebensmittelaufsichtsamtes - überwiesen
+- TOP 1.27: Sozialverträgliche Modernisierung - überwiesen
+- TOP 1.28: Bestehende kulturelle Infrastruktur erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Bauliche Sanierung und Instandhaltung von Grundschulen - beantwortet
+- TOP 1.30: Bedeutung der "Filmstadt Weißensee" endlich angemessen würdigen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Schönheit vor Recht - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Sanierung der Grundschule am Weißen See - in der BVV abgelehnt
+- TOP 1.33: Bolzplatz Pasewalker Straße erhalten - mit Änderungen in der BVV beschlossen
+- TOP 1.34: Antrag zur Einrichtung von Besuchsdiensten - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Schrägdächer braucht der Bezirk - in der BVV abgelehnt
+- TOP 1.36: Übersicht über die Verkehrssicherheit auf Gehwegen und Fahrbahnen - überwiesen
+- TOP 1.37: Ordnung und Sicherheit auf dem Helmholtzplatz - vertagt
+- TOP 1.38: Bauvorhaben Mittelstraße 2 -3 - vertagt
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Erschließung Rangierbahnhof Pankow - vertagt
+- TOP 2.1.1: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - vertagt
+- TOP 2.2: Klimaschutz-Projekte an Pankower Schulen weiterentwickeln! - vertagt
+- TOP 2.3: Kein Verkehrsinfarkt im Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Erhebung der Ausgleichsbeträge in den Sanierungsgebieten und deren Verwendung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Ökologische Straßenbeleuchtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: 100 Jahre Straßenbahn Heinersdorf - Alexanderplatz feiern - vertagt
+- TOP 2.6.1: Die moderne Straßenbahn in Europa - vertagt
+- TOP 2.7: Wirtschaftsplan für die einzuführende Parkraumbewirtschaftung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Jetzt die neue Gemeinschaftsschule Tesla Oberschule auch baulich weiter voranbringen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Schutz der Bestandsmieter bei zwei Modernisierungsvorhaben im Milieuschutzgebiet Humannplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Erinnerung an den 50. Jahrestag der Errichtung der Berliner Mauer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Schneebeseitigung Haltestellenbereich BVG - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Fortschreibung StEP Verkehr - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Abstandsflächen - vertagt
+- TOP 2.14: Verkehrssicherheit in der Dietzgenstraße insbesondere für Fahrradfahrer - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Nachteile durch Wohngeldbezug reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Verkehrsberuhigung und Straßenbäume für die Bewohner im Eschengraben - vertagt
+- TOP 2.17: Wohnungslosigkeit - Prävention stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Laubabholung in Siedlungsgebieten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Zebrastreifen und Tempo 30 am Karower Damm - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Buslinie 155 direkt an den S-Bahnhof Schönholz anbinden - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Abstellmöglichkeiten für Fahrräder am JobCenter Pankow - vertagt
+- TOP 2.22: Umstrukturierungssatzung für einen Block im Paracelsusviertel - vertagt
+- TOP 2.23: Kündigung der Arbeitsräume des MACHmit! Museums rückgängig machen - vertagt
+- TOP 2.24: Bedarfe von ehrenamtlichen ÜbungsleiterInnen im Sport prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Alternativen für die Initiativen im Eliashof - jetzt! - vertagt
+- TOP 2.26: Direktübertragung der BVV-Tagungen im Internet - vertagt
+- TOP 2.27: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2011 - vertagt
+- TOP 2.28: Benennungsabsicht für eine Privatstraße im Ortsteil Prenzlauer Berg in "An den Eldenaer Höfen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Benennungsabsicht für einen privaten Erschließungsweg im Ortsteil Niederschönhausen in "Am Orangeriepark" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Benennungsabsicht für zwei private Erschließungswege im Ortsteil Rosenthal in "Am Igelgrund" und "Am Meisenwinkel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Benennungsabsicht für 11 Privatwege in der Anlage Frohsinn im Ortsteil Blankenfelde nach französischen Regionen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Benennungsabsicht von 42 Privatwegen in der Anlage Blankenburg in den Ortsteilen Blankenburg und Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Benennungsabsicht von 7 Privatwegen in der Anlage Schildow-Waldeck im Ortsteil Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Benennung eines privaten Erschließungsweges im Ortsteil Französisch Buchholz in "Karlshöhe" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Aufhebung des Bezirksamtsbeschlusses VI-1037/2009 vom 15.12.2009 über die Aufstellung einer Umstrukturierungsverordnung nach § 172 Abs. 1 Satz 1 Nr. 3 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Bebauungsplanentwurf 3-13 für das Gelände zwischen Lerchengraben, Piesporter Straße, Feldtmannstraße und Berliner Allee im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Bebauungsplanentwurf 3-23 für die Grundstücke Berliner Allee 24/28, Bizet-straße 17/21 und einen Abschnitt der Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.39: Mehrkosten Investitionsmaßnahme Neubau einer Sporthalle mit Sportaußenanlagen Straße 18, Nr. 37 (03G28 Grundschule am Hasengrund, Charlottenstraße 19), 13156 Berlin (Kapitel 3736, Titel 71503) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.40: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
