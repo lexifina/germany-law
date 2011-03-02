@@ -1,0 +1,55 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-03-02T17:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung der Pläne zur Gründung einer Jenaplanschule mit Kindertagesstätte, Kinderkrippe und Grundschule im Anwesen Lipowskystr. 15
+- TOP 2.2.: Vorstellung des Projektes "Kunst in Sendling 2011"
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Weltkindertag 2011
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Warenstellage Kyreinstraße 10
+- TOP 6.2.: Verkehrsregelung "Südbadparkplatz"
+- TOP 6.3.: Meldeliste Bauvorhaben SWM
+- TOP 7.1.: Budget-Voranmeldung 2011 der Himmelfahrtskirche
+- TOP 7.2.: Budgetantrag Himmelfahrtskirche München-Sendling, Konzert am 17.04.2011; 3160,- - <div>Zuschuss ? 1000,- Zustimmung, einstimmig</div>
+- TOP 7.3.: Budgetantrag der Himmelfahrtskirche München-Sendling, Konzert am 09.07.2011; ? 3080,- - <div>Zuschuss ? 2000,- Zustimmung, einstimmig</div>
+- TOP 7.4.: Budgetantrag der Freien Turnerschaft München Süd e.V., Ausstattung der neuen Kulturbühne Sendling "Spuk's"; ? 2193,- - <div>Zustimmung, einstimmig</div>
+- TOP 7.5.: Budgetbedarf Maifest 2011
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Thalkirchner Str. 186
+- TOP 8.3.: Bauvorhaben Steinerstr. 20
+- TOP 8.4.: Werbenutzungsvertrag der Landeshauptstadt München
+- TOP 8.5.: Fortschreibung des Spielflächenversorgungsplans
+- TOP 8.6.: Herausforderungen des demografischen Wandels bewältigen
+- TOP 9: Baureferat
+- TOP 9.1.: Überplanung der Albert-Roßhaupter-Straße zwischen Meindlstraße und Partnachplatz
+- TOP 9.2.: Flößergasse 2; Bauschadenbehebung auf Fahrbahn und Gehweg
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Urbanstr. 20
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Erhalt des Postamtes in der Kochelseestraße Empfehlung Nr. 08-14 / E 00674 der Bürgerversammlung des Stadtbezirkes 06 - Sendling vom 13.10.2010 - <div>Zustimmung, einstimmig</div>
+- TOP 2: (E) Behindertengerechter Einstieg in das große Becken des Südbades Antrag Nr. 08-14 / B 02658 des Bezirksausschusses des Stadtbezirkes 6 - Sendling vom 10.01.2011 Einstiegstreppe im Schwimmerbecken des Südbads Sendling Empfehlung Nr. 08-14 / E 00683 der Bürgerversammlung des Stadtbezirkes 6 - Sendling vom 13.10.2010 - <div>Erl. mit Beschl-V 10085 vom 25.09.12</div>
+- TOP 2.3.: Prüfung der Möglichkeiten einer sozialverträglichen Lösung beim Verkauf der Anwesen Kyreinstraße 12 und 14; BV-Empfehlung 671 vom 13.10.2010 - <div>Abweichung von Referentenvorl.</div>
+- TOP 2.4.: Verbesserung der Parksituation für die Anwohner des Wohngebietes westlich der Bezirkssportanlage Dietramszeller Platz; - Ausweitung des Parkraummangementgebietes Brudermühlviertel - Kurzparkzone mit Anwohnerparkrecht im Bereich der Bezirkssportanlage - Einrichtung von Schrägparkplätzen im Bereich der Anwesen Thalkirchner Straße 272 - 288 BV-Empfehlung Nr. 686 vom 13.10.2010 - <div>Zustimmung, einstimmig</div>
+- TOP 6: (E) Verbesserung der Parksituation für die Anwohner des Wohngebietes westlich der Bezirkssportanlage Dietramszeller Platz; - Ausweitung des Parkraummanagementgebietes Brudermühlviertel - Kurzparkzone mit Anwohnerparkrecht im Bereich der Bezirkssportanlage - Einrichtung von Schrägparkplätzen im Bereich der Anwesen Thalkirchnerstraße 272 ? 2 - <div>Zustimmung zum Referentenantrag</div>
+- TOP 12: Anträge
+- TOP 12.1.: Errichtung einer Kinderrutsche am Lernschwimmbecken des Südbades - <div>vertagt</div>
+- TOP 13: Verschiedenes
+- TOP 5: (E) Prüfung der Möglichkeiten einer sozialverträg- lichen Lösung beim Verkauf der Anwesen Kyreinstr. 12 und 14 Empfehlung Nr. 08-14 / E 00671 der Bürger- versammlung des Stadtbezirkes 06 - Sendling am 13.10.2010 - <div>Abweichung von Referentenvorl.</div>
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
