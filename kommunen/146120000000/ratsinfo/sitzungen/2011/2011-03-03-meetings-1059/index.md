@@ -1,0 +1,59 @@
+# 24. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-03-03T16:00:00+01:00
+- Ende: 2011-03-03T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1059
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1059
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2011_03_03 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00055583.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3: Tagesordnungspunkte ohne Debatte
+- TOP 4: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - gewählt
+- TOP 5: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - gewählt
+- TOP 6: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - gewählt
+- TOP 7: Umbesetzung im Ausschuss für Umwelt und Kommunalwirtschaft - gewählt
+- TOP 8: Umbesetzung im Ausschuss für Wirtschaftsförderung - erneute Beratung
+- TOP 9: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 10: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 11: Umbesetzung im Betriebsausschuss für Sportstätten und Bäder - erneute Beratung
+- TOP 12: Umbesetzung im Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen - gewählt
+- TOP 13: Umbesetzung im Kleingartenbeirat - gewählt
+- TOP 14: Umbesetzung im Zeitweiligen Ausschuss "Technisches Rathaus Hamburger Straße" - gewählt
+- TOP 15: Umbesetzung in der Kommunalgemeinschaft Euroregion Oberes Elbtal/Osterzgebirge e. V. - Zustimmung
+- TOP 16: Wahl des von der Landeshauptstadt Dresden zu bestellenden Vorstandsmitgliedes im Heinrich-Schütz-Konservatorium Dresden e. V. - gewählt
+- TOP 17: Strategisches Personalentwicklungskonzept der Stadtverwaltung Dresden - Zustimmung
+- TOP 18: Feststellung der Jahresrechnung 2009 - Zustimmung mit Änderung
+- TOP 19: Optimierung und Neustrukturierung des Veranstaltungsmanagements in der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 20: Dresdner Netzwerk Kinderschutz (Frühe Hilfen) - Aktionsplan 2010 bis 2012 - Zustimmung mit Änderung
+- TOP 21: Verkauf des Grundstückes Jordanstraße 7, Flurstück 682 a der Gemarkung Dresden-Neustadt - Zustimmung
+- TOP 22: Geschäftsführer der DGH - Dresdner Gewerbehofgesellschaft mbH - Zustimmung
+- TOP 23: Nutzungskonzept zu Märkten auf innerstädtischen Straßen und Plätzen der Landeshauptstadt Dresden während der Adventszeit - Zustimmung mit Änderung
+- TOP 24: Grundhafte Erneuerung der Tiergartenstraße zwischen der Franz-Liszt-Straße und der Karcherallee sowie Neubau der Durchlässe des Kaitzbaches und des Kaitzbachabschlages am Knoten Oskarstraße - Zustimmung
+- TOP 25: Instandsetzung der Brücke Budapester Straße, Brückenzug C - Zustimmung
+- TOP 26: Bebauungsplan Nr. 158, Dresden-Reick Nr. 2, Wohnsiedlung Gasanstaltstraße - Zustimmung
+- TOP 27: Richtlinie der Landeshauptstadt Dresden zur Förderung von Großveranstaltungen - Zustimmung mit Änderung
+- TOP 28: Kosteneinsparungspotentiale bei städtischen Baumaßnahmen erschließen - Verschwendung öffentlicher Gelder stoppen - punktweise Zustimmung
+- TOP 29: Änderung der Hauptsatzung - Hier: Vorfinanzierung nachgewiesener Einsparungen (Intracting) - Ablehnung
+- TOP 30: Erhalt und Entwicklung eines strukturreichen Altbaumbestandes auf dem Gebiet der Landeshauptstadt Dresden - Vertagung
+- TOP 31: Einführung einer Gruppenkarte für Schulen und Kindergärten zur kostenlosen Nutzung des öffentlichen Personennahverkehrs im Rahmen des Unterrichts (Unterrichtsfahrkarte) - Vertagung
+- TOP 32: Hafencity - Modellprojekt CO2-neutraler Stadtteil - Vertagung
+- TOP 33: Änderung der Satzung der Landeshauptstadt Dresden über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Straßen in Dresden (Sondernutzungssatzung) - Vertagung
+- TOP 34: Musikalische Bildung - Vertagung
+- TOP 35: Erweiterung des Skaterparkes an der Lingnerallee - Vertagung
+- TOP 36: Unterstützung der Landeshauptstadt Dresden für ein Sanktionsmoratorium - Vertagung
+- TOP 37: Erwerb der Erweiterungsfläche am Alaunplatz, Gemarkung Dresden-Neustadt, Flurstück 2865/1, (ehemaliger sogenannter "Russensportplatz") - Vertagung
+- TOP 38: Sicherung der Möglichkeit zur Westerweiterung des Alaunparks - Vertagung
+- TOP 39: Verkehrsberuhigte Zone Altlaubegast - Vertagung
+- TOP 40: Sicherung des Betriebes der Schwimmhalle Klotzsche - Vertagung
+- TOP 41: Umwandlung des Mietverhältnisses mit der Jugendherberge "Rudi Arndt" gGmbH in ein Erbbauverhältnis - Zustimmung
+- TOP 42: Dresden - Stadt der bewegungsfreudigen und gesunden Kinder: Modellkonzept für fortschrittliche Bewegungs- und damit Gesundheitsförderung im Kindesalter - Vertagung
+- TOP 44: Folgende Informationsvorlage wurde am 16.02.2011 ausgereicht:
+- TOP 44.1: Einwohnerversammlung zum Thema "Aktueller Stand der Planungen Umbau Kulturpalast" - zur Kenntnis genommen
