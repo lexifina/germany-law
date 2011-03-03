@@ -1,0 +1,55 @@
+# Sitzung des Stadtrates
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2011-03-03T00:00:00+01:00
+- Ende: 2011-03-03T00:00:00+01:00
+- Ort: Sitzungssaal des Rathauses
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/1
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/430
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/430
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00003539.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00005269.pdf
+
+## Tagesordnung
+
+- TOP 1: Auftragsvergaben
+- TOP 1.1: Nordtangente BA I - Ampelanlage Nordtangente/Alte Poststraße hier: Auftragsvergabe Ampelanlage gemäß VOB/A - beschlossen
+- TOP 1.2: Nordtangente BA I, Lärmschutzwände Nr. 1 und 6 - beschlossen
+- TOP 2: Personenschifffahrtsanlegestelle am Mainkai in Kitzingen, hier: Benutzungssatzung für die Personenschifffahrtsanlegestelle der Stadt Kitzingen und Gebührensatzung - beschlossen
+- TOP 3: Bauleitplanung - Bebauungsplan Nr. 103 "Gewerbegebiet Innopark Kitzingen", hier: Abwägung Vorentwurf, Billigung Entwurf und Auslegungsbeschluss - beschlossen
+- TOP 4: Bauleitplanung - Bebauungsplan Nr. 104 "Sondergebiet Freizeit und Reitsport mit angegliedertem Wohnen und Tagungshotel", hier: Abwägung Vorentwurf, Billigung Entwurf und Auslegungsbeschluss - beschlossen
+- TOP 5: Stadtplanung - Grundsatzbeschluss zur Planung eines Wohngebietes südwestlich der Gollermühle - zurückgestellt
+- TOP 6: Anträge von Fraktionen und Gruppen
+- TOP 6.1: Antrag Nr. 100/2011 der KIK-Fraktion, hier: Ehem. Gasthof Tauber, Lindenstraße/Würzburger Straße, Kitzingen - beschlossen
+- TOP 6.2: Antrag Nr. 102/2011 der KIK-Fraktion, hier: Verwertung einer Fläche an der Marktstraße 27-31 - beschlossen
+- TOP 7: Fortschreibung des Kitzinger Einzelhandelskonzeptes, hier: Billigung des Zwischenberichtes und Beauftragung Stufe 2 - beschlossen
+- TOP 8: Kommunales Förderprogramm der Stadt Kitzingen - zurückgestellt
+- TOP 9: Budgetfestlegung
+- TOP 9.1: Budget Standesamt - UA 0501 - beschlossen
+- TOP 9.2: Budgetfestlegung 2011 für SG 12 - EDV - - beschlossen
+- TOP 9.3: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Verkehrsüberwachung und Parkplätze/Parkscheinautomaten - UA 1122 und UA 6815 - - beschlossen
+- TOP 9.4: Budgetfestlegung für das Haushaltsjahr 2011, Budget Feuerwehren - UA 1300 - beschlossen
+- TOP 9.5: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Betriebskosten UA 2111, 2112, 2121, 2122, 2431 - beschlossen
+- TOP 9.6: Budgetierung von städischen Einrichtungen, Teilbudgets der Schulen für den Unterrichtsaufwand ab 2011 - beschlossen
+- TOP 9.7: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Sportanlagen UA 2140, 2141, 5601, 5602, 5603, 5651, 5652 - beschlossen
+- TOP 9.8: Budgetfestlegung HHJ. 2011 Alte Synagoge/SG 131 Unterabschnitt 3009 - beschlossen
+- TOP 9.9: Budgetfestlegung für das Haushaltsjahr 2011, Budget/ Gesamtbudget Stadtarchiv - UA 3111 - beschlossen
+- TOP 9.10: Budgetfestlegung für das Haushaltsjahr 2011, Budget Museum UA 3200 - beschlossen
+- TOP 9.11: Budgetfestlegung für das Haushaltsjahr 2011, Budget/Gesamtbudget Musikschule - UA 3331 - beschlossen
+- TOP 9.12: Budgetfestlegung für das Haushaltsjahr 2011, Budget: Heimat- und Kulturpflege - UA 3400 - beschlossen
+- TOP 9.13: Budgetfestlegung HHJ. 2011 vhs/SG 131 Unterabschnitt 3501 - beschlossen
+- TOP 9.14: Budgetfestlegung HHJ. 2011 Stadtbücherei/SG 132 Unterabschnitt 3521 - beschlossen
+- TOP 9.15: Budgetfestlegung für das Haushaltsjahr 2011, Budget Stadtjugendpflege - UA 4604, 4605, 4606, 4609 - beschlossen
+- TOP 9.16: Budgetfestlegung für das Haushaltsjahr 2011, Budget UA 5821 - Stadtgärtnerei - beschlossen
+- TOP 9.17: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Straßen, Wege, Plätze (UA 5800, 5921, 5931, 6300, 6500, 6600, 6709, 6751, 6752, 6900, 7850 - beschlossen
+- TOP 9.18: Budgetfestlegung für das Haushaltsjahr 2011, Gesamtbudget Abwasser (UA 7000, 7002, 7006, 7146, 7189) - beschlossen
+- TOP 9.19: Gesamtbudget Friedhöfe - UA 7511 - 7516 - beschlossen
+- TOP 9.20: Budgetfestlegung für das Haushaltsjahr 2011, Budget: Sonstige Öffentliche Einrichtungen - UA 7600, 7690, 7691, 7692, 7693 - beschlossen
+- TOP 9.21: Budgetfestlegung für das Haushaltsjahr 2011, Budget UA 7711 - Bauhof - beschlossen
+- TOP 9.22: Budgetfestlegung für das Haushaltsjahr 2011, hier: Tourist-Information - UA 7901 - beschlossen
+- TOP 9.23: Budgetfestlegung für das Haushaltsjahr 2011 Budget Amt 2, SG 232, Forstbetrieb, UA 8551 - beschlossen
+- TOP 9.24: Budgetfestlegung für das Haushaltsjahr 2011 Budget Amt 2, SG 23, Wohn-und Geschäftsgrundstücke, UA 8801 - beschlossen
+- TOP 9.25: Budgetfestsetzung für das Haushaltsjahr 2011 Budget Amt 2, SG 23, Sonstiges Allgemeines Grundvermögen, UA 8891 - beschlossen
+- TOP 10: Sonstiges
