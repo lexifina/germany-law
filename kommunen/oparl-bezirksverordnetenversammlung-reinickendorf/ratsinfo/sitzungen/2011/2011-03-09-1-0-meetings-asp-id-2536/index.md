@@ -1,0 +1,100 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-03-09T17:00:00+01:00
+- Ende: 2011-03-09T21:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2536
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2536
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=51492
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - überwiesen
+- TOP 2: Einwohnerfragestunde - erledigt
+- TOP 3: Konsensliste - erledigt
+- TOP 3.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Reinickendorfer Ergebnisse des Monitoring "Soziale Stadtentwicklung 2010" - vertagt
+- TOP 5.2: Nachhaltige Schulgebäudesanierungen? - beantwortet
+- TOP 5.2.1: Nachhaltige Schulgebäudesanierungen - überwiesen
+- TOP 5.3: Schneeräumung in Reinickendorf - beantwortet
+- TOP 5.4: Qualität vorschulischer Sprachförderung gesichert? - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Einsatz eines Ausschusses für Migration - erledigt
+- TOP 5.5.1: Einsatz eines Ausschusses für Migration - mit Änderungen in der BVV beschlossen
+- TOP 5.6: Schnee- und Eisbeseitigungsvertrag - erledigt
+- TOP 5.6.1: Schnee- und Eisbeseitigungsvertrag - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Personenfährverkehr zu Inseln in Tegel aufrechterhalten - überwiesen
+- TOP 5.8: Sprachförderklassen einrichten - überwiesen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Melderecht wieder verschärfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Bericht über Sanierung im MV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Fotomaterial für das Heimatmuseum Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Angebot deutsch-französische Europaschule auch für Reinickendorfer Oberschüler - überwiesen
+- TOP 7.5: Kinderfreundliches Reinickendorf IV - Fahrradwegekarte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Fahrradbarriere Titusweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Grundschulreform des Senats ein Erfolgsprojekt? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Unterstützung GSW-Mieter - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Mit dem Velo-Taxi zum Schiffsanleger - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Schulanfangsphase im Wiesengrund - überwiesen
+- TOP 7.11: Fahrradbarriere Titusweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Kein Hunde-Verbot in Reinickendorfer Parkanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Erhalt der Postfilialen in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Direktanbindung von Reinickendorf zum Flughafen Schönefeld - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Haftung der Grundeigentümer bei Schnee- und Eisbeseitigung nicht verschärfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Einhaltung von Auflagen zu Baumpflanzungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Keine Einheitsschulen in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Aufarbeitung des DDR-Unrechts in Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Beteiligung Reinickendorfs an Entscheidung des JobCenters - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Schulname für die 34. Grundschule Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Nachnutzung TXL - Vorrang für Arbeitsplätze (4): Nachnutzungspläne Tegel - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Ehrengrab für Paul Poser - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Tempo 30 in der Sandhauser Straße - vertagt
+- TOP 10.3: Anwohner Gewerbegebiet Lübarser Straße vor Geruchsbelästigung schützen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Hinweisschilder im U-Bahnhof Paracelsus-Bad anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Checkliste zur Erkennung von Sekten - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Abitur auch nach 13 Jahren am Gymnasium ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Oberschulbroschüren - erledigt
+- TOP 10.8: Änderung des Sozialgesetzbuches II - erledigt
+- TOP 10.9: Aussetzung des Zivildienstes - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Bessere Busanbindung Seniorenanlage Büdnerring - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Kurzzeitiges Parken im Eichborndamm Ecke Alt-Wittenau - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Wohin gehen unsere Schüler? - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Wirtschaftsfreundlichster Bezirk Reinickendorf (2) - Speed-Vermittlungsbörse - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Zusammenarbeit Gartenschule - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Woche der Demokratie - vertagt
+- TOP 10.16: Erstkontakte zu Familien mit Neugeborenen gewährleisten - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Zebrastreifen am Zeltinger Platz - vertagt
+- TOP 10.18: Zebrastreifen am Zeltinger Platz - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Einwohnerversammlung Tegeler Insel - vertagt
+- TOP 11.2: Einwohnerversammlung in Frohnau - vertagt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Einschulungsuntersuchungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Parken am Friedhof Hainbuchenstraße - überwiesen
+- TOP 12.3: Grüne Gestaltung der Weißen Stadt - überwiesen
+- TOP 12.4: Undichte Dächer an Reinickendorfer Schulen reparieren - überwiesen
+- TOP 12.5: Werbung an Reinickendorfs Oberschulen für ein freiwilliges soziales Jahr - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Runder Tisch Tegeler Insel - vertagt
+- TOP 12.7: Nachfrageorientierte Schulplanung - überwiesen
+- TOP 12.8: Einhaltung der Kampfhundeverordnung kontrollieren - überwiesen
+- TOP 12.9: Fuß- und Radweg entlang der B96 - überwiesen
+- TOP 12.10: Teilnahme Audit familiengerechte Kommune - überwiesen
+- TOP 12.11: Sicherung von Stolpersteinen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Mehr Grundschulplätze im Märkischen Viertel - überwiesen
+- TOP 12.13: Umsetzung des Bildungspaketes zur Hartz IV-Reform - überwiesen
+- TOP 12.14: Zugänglichkeit Humboldt-Insel - vertagt
+- TOP 12.15: Anflugrouten BBI - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Stellplatzobergrenzenverordnung - vertagt
+- TOP 13.2: Nachfrageorientierte Bestattungsformen auf Friedhöfen - überwiesen
+- TOP 13.3: Seniorenfreundlicher Bezirk Reinickendorf - Beratungsstelle Patientenverfügung auch im Bezirksamt - überwiesen
+- TOP 13.4: Musiktexte - überwiesen
