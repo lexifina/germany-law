@@ -1,0 +1,65 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-03-10T17:00:00+01:00
+- Ende: 2011-03-10T19:59:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3579
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3579
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155687.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155687.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155687.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Heidelberger Straße, Gehwegparken
+- TOP 6: Aufhebung von Vorfahrtregelungen in Tempo 30 - Zonen
+- TOP 7: Etat Ausstellungen und Veranstaltungen im Kulturbahnhof Eller
+- TOP 8: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 e.V.
+- TOP 9: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2011
+- TOP 10: Jahrmärkte in Eller auf dem Gertrudisplatz im Jahre 2011
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8
+- TOP 12: Parkplatzerweiterung Eller - Mitte
+- TOP 13: Renaturierung von Fließgewässern im Stadtbezirk 8
+- TOP 14: Hauptzollamt Am Stufstock 1-7
+- TOP 15: Kreisverkehr Eller Kamp / Kamper Weg
+- TOP 16: Feuerwache Posener Straße 171 - 183
+- TOP 17: Unterführung Vennhauser Allee
+- TOP 18: Parkmöglichkeiten Schloss Eller
+- TOP 19: Monckartzhofweg
+- TOP 20: Kaffeeküche Bezirkssozialdienst Gertrudisplatz 16-18
+- TOP 21: Verkehrsunfallstatistik 2010
+- TOP 22: Sachstand B-Plan-Verfahren Am Kleinforst
+- TOP 23: Auflockerung Gabionenwand Veenpark
+- TOP 24: Reparaturarbeiten Lore-Lorentz-Schule
+- TOP 25: Pflanzringe Lierenfelder Plätzchen
+- TOP 26: Erscheinungsbild von Gleisflächen im Stadtbezirk 8
+- TOP 27: Bahngleissicherung Festenbergstraße - S-Bahnhof Eller-Mitte
+- TOP 28: Sanierung der S-Bahnhöfe Eller und Eller-Süd
+- TOP 29: Unterirdische Containerstationen
+- TOP 30: Parkplatz Festenbergstraße, Verkehrsführung
+- TOP 31: Jägerstraße 13, Polleraufstellung
+- TOP 32: Lierenfelder Tafel
+- TOP 33: Parkplatz Festenbergstraße
+- TOP 34: Lkw-Parken in Wohngebieten
+- TOP 35: Beleuchtung Brorsstraße
+- TOP 36: Kinderspielplatz Bunzlauer Weg / Sandträgerweg
+- TOP 37: Bürger/innenhaushalt
+- TOP 38: Bolzplatz Eller Kamp
+- TOP 39: Tauben Unterführung Gumbertstraße
+- TOP 40: Radweg Darmstädter Straße
+- TOP 41: Radweg Annweiler Straße
+- TOP 42: Zufahrt Parkplatz Eller-Mitte
+- TOP 43: Dachsanierung Dieter-Forte-Gesamtschule
+- TOP 44: Räumpflicht im Stadtbezirk 8
+- TOP 45: Winterdienst im Stadtbezirk 8
+- TOP 46: Baumfällungen an der Südlichen Düssel
+- TOP 47: Radfahren im Bereich Reisholzer Straße
+- TOP 48: Verkehrsunfallstatistik 2010
