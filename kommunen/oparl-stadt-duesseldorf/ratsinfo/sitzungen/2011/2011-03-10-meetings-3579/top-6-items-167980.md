@@ -1,0 +1,7 @@
+# TOP 6: Aufhebung von Vorfahrtregelungen in Tempo 30 - Zonen
+
+- Sitzung: Bezirksvertretung 8 (2011-03-10)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/167980
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/56746
