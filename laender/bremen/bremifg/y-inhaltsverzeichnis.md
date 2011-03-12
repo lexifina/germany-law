@@ -6,11 +6,12 @@ Inhaltsübersicht
 § 4 | Schutz des behördlichen Entscheidungsprozesses
 § 5 | Schutz personenbezogener Daten
 § 6 | Schutz des geistigen Eigentums und von Betriebs- oder Geschäftsgeheimnissen
+§ 6a | Verträge der Daseinsvorsorge
 § 7 | Antrag und Verfahren
 § 8 | Verfahren bei Beteiligung Dritter
 § 9 | Ablehnung des Antrags
 § 10 | Kosten
 § 11 | Veröffentlichungspflichten
-§ 12 | Landesbeauftragter für die Informationsfreiheit
-§ 13 | Bericht und Evaluierung
-§ 14 | In-Kraft-Treten
+§ 12 | Landesbeauftragte oder Landesbeauftragter für Informationsfreiheit
+§ 13 | (weggefallen)
+§ 14 | Inkrafttreten Außerkrafttreten
