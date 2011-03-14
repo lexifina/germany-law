@@ -1,0 +1,6 @@
+# TOP 10: Entwicklung der Kinderzahlen an den Walder Kitas unter besonderer
+
+- Sitzung: Bezirksvertretung Wald (2011-03-14)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/9136
