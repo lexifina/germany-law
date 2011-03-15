@@ -1,0 +1,61 @@
+# Bezirksvertretung 2
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-03-15T16:00:00+01:00
+- Ende: 2011-03-15T19:20:00+01:00
+- Ort: Grafenberger Allee 68, 40237 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/33
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3650
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3650
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155964.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155964.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155964.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung der Niederschrift - einstimmig beschlossen
+- TOP 3: Rahmenplangebiet nördliches Derendorf - zur Kenntnis genommen
+- TOP 4: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2011 - mehrheitlich beschlossen
+- TOP 5: Wohnungsangelegenheiten - mehrheitlich beschlossen
+- TOP 6: Wohnungsangelegenheiten - zurückgezogen
+- TOP 7: Wohnungsangelegenheiten - einstimmig beschlossen
+- TOP 8: Spielplätze im Stadtbezirk - einstimmig beschlossen
+- TOP 9: S-Bahnhöfe - zurückgezogen
+- TOP 10: Erkrather Straße - einstimmig beschlossen
+- TOP 11: Flinger Broich 91 - Freischwimmer - - einstimmig beschlossen
+- TOP 12: Flinger Broich 91 - einstimmig beschlossen
+- TOP 13: Rheinbahn - einstimmig beschlossen
+- TOP 14: Rheinbahn - einstimmig beschlossen
+- TOP 15: Abfallbeseitigung Duales System III - einstimmig beschlossen
+- TOP 16: Bruchstraße Verkehrssituation - einstimmig beschlossen
+- TOP 17: Rethelstraße III Verkehrssituation - zurückgezogen
+- TOP 18: Verkehrszeichen - einstimmig beschlossen
+- TOP 19: Mettmanner Straße - zurückgezogen
+- TOP 20: B-Plan 5778/36 - einstimmig beschlossen
+- TOP 21: 5778/36 - einstimmig beschlossen
+- TOP 22: Umweltschutz VI - einstimmig beschlossen
+- TOP 23: Brehmplatz - einstimmig beschlossen
+- TOP 24: Haushalt 2011 - einstimmig beschlossen
+- TOP 25: Haushalt 2011 - mehrheitlich beschlossen
+- TOP 26: Haushalt 2011 - einstimmig beschlossen
+- TOP 27: Verwendung Haushalt 2011 - einstimmig beschlossen
+- TOP 28: Verwendung Haushalt 2011 - einstimmig beschlossen
+- TOP 29: Brehmstraße - Verkehrsge- u. verbote - einstimmig beschlossen
+- TOP 30: Birkenstr. II - einstimmig beschlossen
+- TOP 31: Ortsumgehung Oberbilk II - zur Kenntnis genommen
+- TOP 32: GBA II versch. HNR. - zur Kenntnis genommen
+- TOP 33: Flinger Broich 91 - zur Kenntnis genommen
+- TOP 34: Gruner- Mathildenstraße - zur Kenntnis genommen
+- TOP 35: Herderstraße - zur Kenntnis genommen
+- TOP 36: Verkehrslenkung - zur Kenntnis genommen
+- TOP 37: Zoopark V - zur Kenntnis genommen
+- TOP 38: Rheinbahn - zur Kenntnis genommen
+- TOP 39: Gruner-/ Mathildenstraße - zur Kenntnis genommen
+- TOP 40: Straßenreinigung - zur Kenntnis genommen
+- TOP 41: Lindemannstr. 57 - zur Kenntnis genommen
+- TOP 42: Brehmstr. Eisstadion IV - zur Kenntnis genommen
+- TOP 43: Ahnfeldstraße - zur Kenntnis genommen
+- TOP 44: Beleuchtung Generalien - zur Kenntnis genommen
