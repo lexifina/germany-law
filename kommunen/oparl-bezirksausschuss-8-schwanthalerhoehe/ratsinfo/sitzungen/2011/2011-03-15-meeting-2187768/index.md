@@ -1,0 +1,55 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187768
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187768
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Straßenreinigung im Stadtbezirk
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Neubau in der Schießstättstr. 18-22
+- TOP 5.3.: Entscheidung: Erweiterung einer bestehenden Freischankfläche in der Gollierstr. 83
+- TOP 5.4.: Antwort zu BA-Antrag Nr. 02-08/B02645; Denkmal am Sinti-Roma-Platz
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Aktionstag für Familien 2011
+- TOP 6.2.: Informationsschreiben zur Umorganisation der Bezirkssozialarbeit
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Entscheidung: Parkscheinautomat in der Philipp-Loewenfeld-Straße
+- TOP 8.2.: Anhörung: Werbenutzungsvertrag der Landeshauptstadt München
+- TOP 8.3.: Anhörung: Festumzug zum Frühlingsfest
+- TOP 8.4.: Anhörung: Blade Night
+- TOP 8.5.: Anhörung: Kurdisches Neujahrsfest auf dem Gollierplatz
+- TOP 8.6.: Antwort zu BA-Antrag Nr. 08-14/B02663; Individuelles Gedenken auch in München - Stolpersteine auf öffentlichem Grund zulassen
+- TOP 8.7.: Antwortschreiben: Ganzjährige Querung für die Anwohner der Theresienwiese
+- TOP 8.8.: Antwortschreiben: Außerordentliche Bürgerversammlung zur 2. S-Bahn Stammstrecke; Terminverschiebung
+- TOP 8.9.: Verkehrsführung während der Wiesn
+- TOP 8.10.: Gestaltung des Hans-Dürrmeier-Weges
+- TOP 8.11.: Fußgängerübergang Trappentreustraße Süd / Heimeranplatz
+- TOP 8.12.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung (Neufassung)
+- TOP 8.13.: Information zum Werstoffsammelsystem in der Landeshauptstadt München
+- TOP 8.14.: Bauvorhaben der Stadtwerke München
+- TOP 8.15.: Baumaßnahmen der Stadtwerke München; Stromprojekt in der Schrenkstr. 6
+- TOP 8.16.: Unterrichtung über das Fällen von Gefahrenbäumen: Georg-Freundorfer-Platz, Zirkuswiese/Theresienhöhe
+- TOP 8.17.: Unterrichtung über das Fällen von Gefahrenbäumen: Ecke Barthstraße / Westendstraße
+- TOP 8.18.: Anhörung: Baumfällungsantrag Ridlerstraße 31-31d
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Initiative "Open Westend" 10. Veranstaltung "Open Westend" vom 01. - 03.04.2011
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Multikulturelles Jugendzentrum, KJR mobile Spiele von April bis Oktober 2011
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen
+- TOP 11.2.: Informationsveranstaltung der Stadtwerke München
+- TOP 12: Protokoll und Umlauf
