@@ -1,0 +1,114 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126584
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126584
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.1.4.: Empfehlung Nr. 08-14 / E 00811 der Bürgerversammlung des 3. Stadtbezirkes Maxvor- stadt am 09.12.2010 Sitzungsvorlage Nr. 08-14 / V 06078 Fußgänger- und Radfahrerampel an der Kreuzung Nymphenburger-/Sandstraße: auch abends Dauerbetrieb statt Bedarfsfunktion (Ziffer 2 des Antrages)
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: E-Mail eines Bürgers vom 16.02.2011 Er beschwert sich über Pkw die rund um die Kreuzung Dachauer-/Karlstraße auf den Geh- wegen parken und die dadurch entstehenden Schäden an der Gehwegpflasterung (s. TOP C 2.2.3)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 4., 5., 6. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 4. KW
+- TOP 2.1.3.: Amalienstraße 93, Umbau und Neubau
+- TOP 2.1.4.: Ottostraße 11 ? 13, Nutzungsänderungen: Kleingaststätte zu einer Massagepraxis im EG, Wohneinheit zu einem Büro im 3. OG, Wohneinheit zu einem Büro im 4. OG
+- TOP 2.1.5.: Schraudolphstraße 3, Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 2.1.6.: Dachauer Straße 7, Nutzungsänderung eines Spielsalons und eines Ladens in drei Spiel salons
+- TOP 2.1.7.: Platz der Opfer des Nationalsozialismus, Teilprojekt Ottostraße
+- TOP 2.1.8.: Seidlstraße 4, Nutzungsänderung im 6. OG links: Wohnung zu Büro
+- TOP 2.1.9.: Arcisstraße 12, Neubau NS-Dokumentationszentrum
+- TOP 2.1.10.: Dachauer Straße 90, Ertüchtigung BSD München, Bauliche Erweiterung der Kältmaschi- nenbühne auf dem Dach, Aufstellung eines Notaggregates im Innenhof (befristet bis 31.12.2014)
+- TOP 2.1.11.: Arnulfstraße 52, Errichtung eines Biergartens, Neubau von Biergartenausgabaen, Errich- tung eines Parkplatzes
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Katharina-v.-Bora-Str. 8 a, 4 Bäume
+- TOP 2.2.2.: Finkenstraße, 1 Baum (Art unbekannt)
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Schreiben der Deutschen Stiftung Denkmalschutz vom Januar 2011, eingegangen am 10.02.2011: Teilnahme am Tag des offenen Denkmals am 11.09.2011
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Eurostars Grand Central Hotel Arnulfstraße, Errichtung einer Ladezone sowie einer Hotelanfahrtszone
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrmanagement, verkehrsrechtilche Anordnung: Linprunstraße beidseitig zwischen Erzgießereistraße und Sandstraße Zeichen 314 StVO mit dem Zusatz 1048-10 StVO (nur Pkw) vertagt aus der Sitzung vom 08.02.2011, TOP C 2.1.1, Unterlagen liegen bereits vor
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, CarSharing in München, Durchführung von Pilotprojekten, Entwurf einer Beschlussvorlage zur Stellungnahme vertagt aus der Sitzung 02/2011, TOP C 2.1.3 Unterlagen liegen bereits vor.
+- TOP 2.1.5.: Empfehlung Nr. 08-14 / E 00812 der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt am 09.12.2010 Sitzungsvorlage Nr. 08-14 / V 06078 Neuordnung der Kreuzung Karlstraße/Pappenheimstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis: a) Nordendstr. 17, Boutique ?Anja Angelone? (Verkaufseinrichtung auf öffentl. Grund) b) Nordendstraße 22, "Siegl Metzgerei" (mobiler Fahrradständer) c) Georgenstsraße 85, ?Adnans Feinkost? (Verkaufseinrichtung auf öffentl. Grund)
+- TOP 2.2.2.: Referat für Arbeit und Wirtschaft: Werbenutzungsvertrag der LH München: Stellungnahme zu Standortvorschlägen; Benennung störender Werbestellen auf öffentlichem Grund
+- TOP 2.2.3.: E-Mail eines Bürgers vom 16.02.2011 Er beschwert sich über Pkw die rund um die Kreuzung Dachauer-/Karlstraße auf den Geh- wegen parken und die dadurch entstehenden Schäden an der Gehwegpflasterung
+- TOP 2.2.4.: Direktorium Antrag des Bezirksausschusses 3 Maxvorstadt Nr. 08-14 / B 02191 vom 08.06.2010 Anbringung einer Gedenktafel für die Medizinerin Hope Adams-Lehmann am Gebäude Gabelsbergerstraße 51 (vormals Nr. 20 a)
+- TOP 2.2.5.: Anhörung zur Änderung der Gestaltung der Verkehrsfläche Rottmannplatz, Baumscheibenproblem
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Freischankflächen a) Veterinärstraße 4, Siculo GmbH
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung ?Brandfleck? auf dem Königsplatz, Lesung am 10.05.2011
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung ?Blade Night? jeweils montags vom 09.05.2011 bis 05.09.2011,Start und Ziel: Am Bava- riapark (Stadtbez. 8)
+- TOP 2.4.3.: Baureferat, Anhörung: Projekt ?Platz da? Hier bin ich? in Kooperation mit dem städt. Luisengymnasium
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 2.5.1.: Bericht Projekt Museumsviertel/Kunstareal
+- TOP 2.5.2.: Baureferat Gartenbau, Zwischennachricht zum BA-Antrag Nr. 08-14 / B 02590 vom 07.12.2010 ?Brunnen auf dem neu zu gestaltenden Platz an der Rottmannstraße?
+- TOP 2.5.3.: Schreiben des Kreisverwaltungsreferates, Verkehrsmanagement, an die Hausgemeinschaft Sandstraße 35 vom 14.02.2011 wegen Beseitigung einer Anlieferzone in der Sandstraße (Penny-Markt Sandstraße 37/39)
+- TOP 2.5.4.: Schreiben der Pfarrei St. Ludwig München vom 14.02.2011; Durchführung einer Veranstaltung am 17.04.2011
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Antrag des UA: Die optimal beschatteten und bestens angenommenen Sandspielplätze im Süden des Maß mannparks sind weitgehend zu erhalten.
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße Tanzprojekt für die 2. Klassen vom 28.03. - Juli 2011
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Verein für Sozialarbeit e.V., Bewohnertreff im Arnulfpark Fußballtrikots, Fahrtkosten und Anmeldegebühren für Ligaspiele
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Sozialreferat, Stadtjugendamt Aktionstag für Familien 2011
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Budget der Bezirksausschüsse Theatergrupe ?post it ? productions? für die Maßnahme Theaterprojekt ?Optische Triologie? von Juni bis Oktober 2011
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission: Reaktion auf die Stellungnahme des BA vom 13.01.2011 zum Bauvorhaben Dachauer Str. 92 (Nutzungsänderung ehem. Autohaus in ein Fitness-Center, eine Bäckerei mit Café sowie Läden)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung: Wohnungsnahe Versorgung mit öffentlichen Spielflächen ? Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes, Bekanntgabe im Planungsausschuss vom 23.02.2011, Sitzungsvorlage Nr. 08-14 / V 05936
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze; Bekanntgabe im Planungsausschuss vom 23.02.2011, Sitzungsvorlage Nr. 08-14 / V 06053
+- TOP 1.5.: Schreiben des Abfallwirtschaftsbetriebes München vom 15.02.2011: Information zum Wertstoffsammelsystem in der Landeshauptstadt München
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Schreiben vom 18.02.2011: abweichende Entscheidung der LBK zum Bauvorhaben Dachauer Straße 2, vgl. TOP B 2.1.7/0211
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsanordnungen: Ladezone im Bereich Barer Str. 82-84, Abdruck eines Schreibens an den Antragsteller
+- TOP 2.2.: Baureferat Tiefbau: Beseitigung höhengleicher Bahnübergänge;Beschlussvorlage für den Bauausschuss am 03.02.2011, Sitzungsvorlage Nr. 08-14 / V 03800
+- TOP 2.3.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung: München setzt auf's Rad 2 ? Von Nachbarn in den Niederlanden und Dänemark lernen; Hinweis/Ergänzung vom 25.01.2011 zur Beschlussvorlage für den Planungsausschuss am 02.02.2011
+- TOP 2.4.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung nach § 45 StVO: Parkregelung Elisenstraße
+- TOP 2.5.: Baumaßnahmen der Stadtwerke München Heßstraße 15, Fernwärme Finkenstraße, Fernwärme Ottostraße, Wasser Odeonsplatz 3, Fernwärme Nymphenburger Höfe, 2. BA, Fernwärme Ludwigstraße, Gas Luisensstraße 75, Fernwärme Ottostraße 10, Fernwärme
+- TOP 2.6.: Kreisverwaltungsreferat, a )Entscheidung des Oberbürgermeisters wird beantragt Lenbachplatz 2, Schank- und Speisewirtschaft ?Heart?, Freischankfläche b) Entscheidung des Oberbürgermeisters vom 23.02.2011
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung; Neufassung der Beschlussvorlage für die Vollversammlung am 16.02.2011, Sitzungsvorlage Nr. 08-14 / V 04477
+- TOP 2.8.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung: Umwidmung des Georg-Elser-Platzes zum ?beschränkt öffentlichen Weg, nur für Fußgänger, Radfahrer und Zufahrt zu den Anwesen frei?
+- TOP 2.9.: Kommunalreferat, Zwischennachricht vom 15.02.2011 zum Thema ?Busparkverbot im Um- feld des ZOB?, vgl. TOP C 2.1.4/0111
+- TOP 2.10.: Schriftverkehr des BA 1 Altstadt-Lehel zum Thema ?Kulturstrand in München?
+- TOP 2.11.: Schreiben des Kreisverwaltungsreferates, Verkehrsmanagement an die Haussgemein- schaft Sandstraße 35 vom 14.02.2011 wegen Beseitigung einer Anlieferungszone in der Sandstraße (Penny-Markt Sandstraße 37/39)
+- TOP 2.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro: Änderungsbescheid für den Faschingszug der ?Damischen Ritter? am 27.02.2011
+- TOP 3: Soziales und Bildung
+- TOP 3.1.: Sozialreferat: REGSAM: München spart Steuergelder ? REGSAM wird künftig auf ehrenamtlicher Basis geführt, Beschluss des Kinder- und Jugendhilfe- sowie des Sozialausschusses vom 01.02.2011, Sitzungsvorlage Nr. 08-014 / V 05692
+- TOP 4: Kultur
+- TOP 4.1.: Kulturreferat, NS-Dokumentationszentrum, Beschlussvorlage für die Sitzung des Kultur- ausschusses vom 10.02.2011: Künftiger Name und Logo des NS-Dokumentationszentrums München
+- TOP 4.1.: Direktorium, Anhörung zu einer beantragten Änderung der BA-Satzung: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen
+- TOP 4.2.: Direktorium Antrag Nr. 08-14 / B 00249 des BA 5 vom 16.07.2008 Zentrale Beschlussvollzugskontrolle zur Unterstützung der Bezirksausschüsse Beschluss des Verwaltungs- und Personalausschusses vom 19.01.2011
+- TOP 4.3.: Schreiben des Oberbürgermeisters vom 21.02.2011: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen Antrag Nr. 08-14 / A 01880 vom 12.10.2010 der Stadträte Christian Müller, Dr. Constanze Söllner-Schaar, Dr. Reinhard Bauer und Constantinos Gianacacos
+- TOP 4.4.: Kreisverwaltungsreferat, Schreiben vom 23.02.2011: Verlagerung der Bezirksinspektion Mitte in das Gebäude Im Tal 31
+- TOP 4.5.: Broschüre Maxvorstadt, Mitarbeit, Termine
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
