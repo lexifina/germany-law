@@ -1,0 +1,112 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-03-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2194675
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2194675
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Fußgängerampel in der Fasangartenstraße auf der Höhe des S-Bahnhofs Fasangarten; Bürgerschreiben vom 02.03.2011
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Spielhallen - Aussetzung weiterer Genehmigungen bis zu einer endgültigen gesetzlichen Regelung; Antrag des BA 1 vom 21.01.2011 mit der Bitte um Kenntnisnahme und ggf. Unterstützung
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Münchner Aktionswerkstatt G'sundheit (MAG's) 2. Giesinger Gesundheitsbörse 2011
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Münchner Kindersportförderung e. V.; für die Maßnahme: Fußballtraining für Grundschüler von 05/2011 bis 12/2011; Antragssumme: 1.125,00 ?; Antrag vom 22.02.2011
+- TOP 4.2.: AntragstellerIn: Münchner Kindersportförderung e. V.; für die Maßnahme: Eltern-Kind-Turnen von 05/2011 bis 12/2011; Antragssumme: 1.629,00 ?; Antrag vom 23.02.2011
+- TOP 4.3.: AntragstellerIn: Münchner Kindersportförderung e. V.; für die Maßnahme: Fußballtraining für Jungen und Mädchen von 05/2011 bis 12/2011; Antragssumme: 2.250,00 ?; Antrag vom 26.02.2011
+- TOP 4.4.: AntragstellerIn: Münchner Kindersportförderung e. V.; für die Maßnahme: Tanzkurs für 11- bis 13-jährige von 05/2011 bis 12/2011; Antragssumme: 2.090,00 ? ; Antrag vom 21.02.2011
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Kiosk in der Schwanseestraße, Aufstellung neuer Verkaufseinrichtungen auf öffentlichem Grund; Beschluss des Bezirksausschusses des Stadtbezirkes 17
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Erweiterung bestehender Freischankfläche am Alpenplatz; Beschluss des Bezirksausschusses des Stadtbezirkes 17
+- TOP 0.1.: Werbenutzungsvertrag der Landeshauptstadt München; Schreiben des Referats für Arbeit und Wirtschaft vom 10.02.2011 mit der Bitte um Stellungnahme bis 11.04.2011
+- TOP 0.2.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörungen im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.2.1 Anwesen Holtzendorffstr. 29; Neubau eines Doppelhauses mit Garagen; Anhörung vom 28.02.2011 5.1.3.2.2 Anwesen Weißenseestr. 35; Ersatzbau Kindergarten (2-gr. Kindergarten, 2-gr. Krippe, 1 Hortgruppe); Neubau Wohnen für Mitarbeiter; Anhörung vom 28.02.2011
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Beseitigung höhengleicher Bahnübergänge; 1. Gegenwärtiger Stand 2. Feldmochinger Straße, Beseitigung des höhengleichen Bahnüberganges, "Sachstandsbericht und Vorstellung der Ergebnisse der Machbarkeitsstudie" 3. Bürgerversammlungsempfehlungen und Bezirksausschussanträge 4. Stadtratsantrag Nr. 08-14/A 02094; Sitzungsvorlage Nr. 08-14/V 03800; Beschluss des Bauausschusses vom 03.02.2011 (SB) zu 5.1.4.2 Beseitigung höhengleicher Bahnübergänge; Ergänzung vom 11.02.2011; Ergänzende Vorlage zum Beschluss des Bauausschusses vom 01.03.2011 (SB)
+- TOP 0.3.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 5.1.4.3.1 Anwesen Fasangartenstraße 137, 139; Mitteilung vom 25.01.2011
+- TOP 0.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.5.: Mitteilung über ein Grundstücksgeschäft; Werinherstraße 71; Kauf Teileigentum (Räume für ein Alten- und Servicezentrum zuzüglich notwendiger Stellplätze); Mitteilung des Kommunalreferats vom 31.01.2011
+- TOP 0.6.: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze; Sitzungsvorlage Nr. 08-14/V 06053; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011
+- TOP 0.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/30 Tegernseer Landstraße (nordöstlich), Spixstraße (südöstlich), Perlacher Straße (südlich), Untersbergstraße (westlich), Weißenseestraße (nordöstlich) - ehem. Agfa-Gelände; Endgültiger Beschluss; Sitzungsvorlage Nr. 08-14/V 06060; Beschluss des Ausschusses für Stadtpalnung und Bauordnung vom 23.02.2011 (VB)
+- TOP 0.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.9.: Bauvorhaben Deisenhofener-/Herzogstandstraße, Flurstücke 15915, 15915/3, 1516/1 und 15921, Gemarkung Sektion VIII; Anpassung der Projektrahmenbedingungen für o. g. Baugrundstück im Rahmen des kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B); Sitzungsvorlage Nr. 08-14/V 05900; Beschluss des Sozialausschusses vom 24.02.2011 (VB)
+- TOP 0.10.: Kürzung im Bund-Länder-Förderprogramm (Grundprogramm sowie Programm "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt); Auswirkungen für den 17. Stadtbezirk; Antrag der SPD-Fraktion vom 14.12.2010; BA-Antrag Nr. 08-14/B 02612 des BA 17 vom 14.12.2010 (ED); Schreiben des Referats für Stadtplanung und Bauordnung vom 16.02.2011; siehe TOP 3.1 vom 14.12.2010
+- TOP 0.11.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.11.1 Bacchus-Stüberl; Tegernseer Landstr. 155; Mitteilung vom 24.02.2011
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: REGSAM wird künftig auf ehrenamtlicher Basis geführt; Antrag Nr. 08-14/A 01598 der Stadtratsfraktion der FDP vom 08.06.2010; Sitzungsvorlage Nr. 08-14/V 05692; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.2011 (SB); siehe TOP 5.2.3.2 vom 11.01.2011
+- TOP 0.2.: Dienststellenverständigung: Zusammenlegung der städtischen Kindertageseinrichtungen Traunsteiner Str. 4 mit Traunsteiner Str. 4a und Traunsteiner Str. 6 mit Traunsteiner Str. 8; Schreiben des Referats für Bildung und Sport vom 21.01.2011
+- TOP 0.3.: Schlittenfahrverbot am Schrafnagelberg für die Schüler der Ichoschule; Schreiben des Baureferats vom 08.02.2011
+- TOP 0.4.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen - Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes; Sitzungsvorlage Nr. 08-14/V 05936; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011
+- TOP 0.5.: Nachbarschaftstreff Walchenseeplatz; Quartiersbezogene Bewohnerarbeit und Wohnprojekt der GEWOFAG "Wohnen im Viertel" in Obergiesing, Stadtbezirk 17; Sitzungsvorlage Nr. 08-14/V 05840; Beschluss des Sozialausschusses von 24.02.2011 (SB)
+- TOP 0.6.: Austragung des diesjährigen Weltkindertags im Stadtbezirk Laim; Schreiben des Büros der Kinderbeauftragten vom 18.02.2011
+- TOP 0.7.: München lebt Vielfalt; Interkultureller Integrationsbericht 2010; Sitzungsvorlage Nr. 08-14/V 05728; Beschluss der Vollversammlung des Stadtrates vom 16.02.2011
+- TOP 0.8.: Umorganisation der Bezirkssozialarbeit; Schreiben des Sozialreferats vom 10.01.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Taxistandplatz Weißenseestraße 138/140 (Hotel Motel One München City Süd); Neueinrichtung; Entscheidung über die Einrichtung/Änderung/Aufhebung eines Taxistandes gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; Beschluss des BA 17 vom 15.03.2011
+- TOP 0.1.: Ostbahnhof; Tramlinie 27; Haltestelle St.-Martins-Platz; Verbesserung des Kundenservice; Änderung der Haltestellenbezeichnung; Schreiben der MVG vom 14.02.2011
+- TOP 0.1.: München setzt auf's Rad 2; Von Nachbarn in den Niederlanden und in Dänemark lernen; Antrag Nr. 08-14/A 01081 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.2009; Sitzungsvorlagen Nr. 08-14/V 04041; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.2011; Hinweis/Ergänzung vom 25.01.2011; siehe TOP 5.3.4.10 vom 14.12.2010
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung; Unterrichtung des Baureferats vom 26.01.2011 über das Fällen von Gefahrenbäumen
+- TOP 0.2.: Information zum Wertstoffsammelsystem in der LH München, Schreiben des Abfallwirtschaftsbetriebs München vom 15.02.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Walchenseeplatz , Spielmobil - Sommercafe (Mai-September), Flohmarkt (01.05.2011), Flohmarkt und Sommerfest (17.07.2011); Mütterladen Giesing, Mütter für Mütter e. V.; Schreiben des KVR vom 15.02.2011 mit der Bitte um Kenntnis- bzw. Stellungnahme bis 29.03.2011
+- TOP 0.2.: Untersbergstraße/Weißenseestraße; Anmietung des Festplatzes für "Festival der Marionetten" vom 14.09.2011 bis 20.09.2011; Schreiben des KVR vom 22.02.2011 mit der Bitte um Kenntnis- und ggf. Stellungnahme bis 05.04.2011
+- TOP 0.3.: Bolzplatz Weißenseepark; Fußballturnier mit Jugendlichen des Stadtjugendamtes Streetwork am 25.09.2011; Schreiben des KVR vom 01.03.2011 mit der Bitte um Kenntnis- und ggf. Stellungnahme bis 18.04.2011
+- TOP 0.4.: Kesselbergstr./Raintaler Str.; Sommerfest der Kita Little Giants am 22.06.2011; Schreiben des KVR vom 01.03.2011 mit der Bitte um Kenntnis- und ggf. Stellungnahme bis 12.04.2011
+- TOP 0.1.: "Kulturstrand für München" - Interessenbekundungsverfahren; Schreiben des BA 1 vom 21.01.2011
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.7.2.1.: Anwesen Weißenseestraße 35; Anhörung vom 09.02.2011
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Unterrichtungsrecht bei Straßenhinweisschildern bezüglich Kolonialstraßennamen; BA-Antrag Nr. 08-14/B 01964 des Bezirksausschusses des Stadtbezirkes 13 vom 09.03.2010; Schreiben des Direktoriums vom 27.01.2011
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Mittelfristige Finanzplanung 2010-2014, Beschluss der Vollversammlung des Stadtrates vom 15.12.2010; Schreiben der Stadtkämmerei vom 15.02.2011
+- TOP 7.2.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen; Stadtratsantrag Nr. 08-14/A 01880 vom 12.10.2010; Schreiben des OB; Übersicht Barrierefreiheit bei BA-Sitzungs- und Bürgerversammlungslokalen in 2011
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
