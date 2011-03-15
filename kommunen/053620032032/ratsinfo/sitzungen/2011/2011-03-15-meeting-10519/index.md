@@ -1,0 +1,58 @@
+# Stadtrat (13. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-03-15T17:05:00+01:00
+- Ende: 2011-03-15T22:06:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfLuHGWsfs1IkCmHmm7U4RY
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10519
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVuDoHH_pQovPyoU6fXs8Kfc9LkUZCT7HS3xEDtC-fRB/Bekanntmachung_Stadtrat_15.03.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUGl_hEGtpd_Jfxz1HuVr1y_LrGyyk6545CLyr-suTOv/Oeffentliche_Niederschrift_Stadtrat_15.03.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzungen von Ausschüssen und Gremien
+- TOP 1.1: Beanstandung des Ratsbeschlusses vom 08.02.2011, TOP 1.3 - Umbesetzung von Ausschüssen, hier: Ausscheiden des Mitglieds Jutta Decruppe-Fiebig aus dem Schulausschuss
+- TOP 1.2: Auflösung, Neubildung und Neubesetzung des Schulausschusses; hier: einheitlicher Wahlvorschlag der Ratsmitglieder
+- TOP 2.: Erfahrungsbericht zu den Stadtteilforen der Ortsvorsteherinnen und Ortsvorsteher
+- TOP zu TOP 2: Bürgerversammlung in Kerpen und Mödrath hier: Ausbau der Hahnenstraße
+- TOP 3.: Einbringung der Haushaltssatzung für das Jahr 2011
+- TOP 4.: Einrichtung einer internetgestützen Bürgerbefragungsplattform
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: 4. Satzung zur Änderung der Satzung über die Erhebung von Kostenersatz und Gebühren für die Dienstleistungen der Freiwilligen Feuerwehr der Stadt Kerpen (Feuerwehrsatzung)
+- TOP 6.: Änderung der Richtlinien für die Gewährung von Zuschüssen des Breiten- und/oder Leistungssports in der Stadt Kerpen und der Richtlinien für die Gewährung von Zuschüssen zur Förderung der Heimat- , Kultur- und Brauchtumspflege der Stadt Kerpen
+- TOP 7.: Bahnengolf-Sportvereinigung Kerpen e.V.
+- TOP zu TOP 7: Bahnengolf-Sportvereinigung Kerpen e.V. hier: Ergänzungsvorlage zu Drs.Nr. 81.11
+- TOP 8.: Stadtentwicklung und Bauleitplanung
+- TOP 8.1: Bebauungsplan MA 337 "Umsiedlungsort Manheim-neu" – hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 8.2: Bebauungsplan SI 253 "Südlich Heppendorfer Straße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 8.3: Bebauungsplan BL 330 "Kunibertusstraße/Giffelsberger Weg", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 8.4: Bebauungsplan TÜ 249/2. Änderung "Rosentalstraße", Stadtteil Türnich hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 8.5: Bebauungsplan KE 340 "Bachstraße/Burgstraße" Stadtteil Kerpen, hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 8.6: Abschluss eines städtebaulichen Vertrages zur Ausarbeitung städtebaulicher Planungen für den Bereich des BP KE 340 "Bachstraße"
+- TOP 9.: Schulangelegenheiten
+- TOP 9.1: Fortführung / Erhalt der Grundschule Manheim ab dem Schuljahr 2011 / 2012
+- TOP 9.2: Verabschiedung einer Resolution hinsichtlich der Einführung des SchülerTickets durch den Verkehrsverbund Rhein-Sieg
+- TOP 9.3: Antrag der Realschule zur Begrenzung auf Vierzügigkeit
+- TOP 10.: Neubau Kindertagesstätte Sindorf, Vogelrutherfeld
+- TOP 11.: Fachhochschule für Gesundheit im Gleisdreieck Horrem
+- TOP 12.: Bekanntgabe der in der Zeit vom 01.10. bis 31.12.2010 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW
+- TOP 13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13.1: Personalsituation in der Abteilung 23.3, hier: Spielmobil
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Weitere Vorgehensweise Waldweg
+- TOP 20.: Verkauf eines Grundstückes im Rahmen des Projektes „Horrem 2010“ , Im Gleisdreieck, am Bahnhof Horrem Präha Europäische Hochschule für Naturheilkunde und Gesundheit
+- TOP 21.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
