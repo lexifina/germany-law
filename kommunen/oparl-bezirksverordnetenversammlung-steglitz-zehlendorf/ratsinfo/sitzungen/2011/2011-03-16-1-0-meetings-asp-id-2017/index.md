@@ -1,0 +1,91 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2011-03-16T17:00:00+01:00
+- Ende: 2011-03-16T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2017
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2017
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Sanierung Auffangbecken ehemalige Spinnstofffabrik Teltower Damm - beantwortet
+- TOP 3.2: Ungerechtfertigte Mietbefreiungen bei der Anmietung von Räumen in der Abteilung Soziales? - beantwortet
+- TOP 3.3: Blüten ohne Nektar? - beantwortet
+- TOP 3.4: Haushaltswahrheit und Haushaltsklarheit in der Abteilung Jugend, Schule, Umwelt? - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl einer stellvertretenden Bürgerdeputierten im Ausschuss für Gleichstellung und Integration - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Einstellung der Bebauungspläne X - 3 - 1 und X - 5b - 1 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.2: Bebauungsplan X-B 18 (nördlich Bachstelzenweg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Das Schadow-Gymnasium barrierefrei - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Aufhebung des Parkverbots auf der Fahrbahn der Sondershauser Straße - in der BVV abgelehnt
+- TOP 4.4.3: Kleistgrab - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Ausweitung des Bestsellerangebots in der Stadtbibliothek - in der BVV abgelehnt
+- TOP 4.4.5: Mehr Attraktivität und Einnahmen durch Eheschließungen an besonderen Orten im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.6: Kundenmonitoring im Bürgeramt - in der BVV abgelehnt
+- TOP 4.4.7: Entwicklung einer Internetstrategie VÖBB24 - in der BVV abgelehnt
+- TOP 4.4.8: Längere Samstagsöffnungszeiten in der Ingeborg-Drewitz-Bibliothek Steglitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.9: Einweihung Jürgen-Fuchs-Platz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.10: Unterstützung für das Volksbegehren Grundschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.11: Informationen über Erweiterungs- oder Ergänzungsbauten von Schulgebäuden - in der BVV abgelehnt
+- TOP 4.4.12: Lydia Rabinowitsch-Kempner ehren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.13: Toiletten am Spielplatz Elfiewiese - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.14: Mauer-Gedenken auch in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.15: Trägerentwicklungsplan Jugendamt: Klarheit was mit wem! - in der BVV abgelehnt
+- TOP 4.4.16: Schrägdächer braucht der Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.5.1: Übertragung der Kinder- und Jugenderholungs- und Freizeiteinrichtung - KJFE - Nentershausen an den Verein zur Förderung des Fremdenverkehrs Nentershausen e. V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vorlagen zur Kenntnisnahme: Schriftliche Beantwortung Großer Anfragen - erledigt
+- TOP 4.6.1: Alles im Griff bei Schulbauten? - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Stellenbesetzung Integrationsbeauftragte/r - überwiesen
+- TOP 5.1.2: Sicherheit der Fußgänger am Reichelt-Markt in der Siemensstraße - überwiesen
+- TOP 5.1.3: Parken in der Breisgauer Straße - überwiesen
+- TOP 5.1.4: Drucken von Materialien im Bereich Bauen, Stadtplanung und Naturschutz - überwiesen
+- TOP 5.1.5: Stellenausstattung Integrationsbeauftragte/r - überwiesen
+- TOP 5.1.6: Standorte für Solaranlagen - überwiesen
+- TOP 5.1.7: Glascontainer in der Breisgauer Straße - überwiesen
+- TOP 5.1.8: Information zu Härtefallfonds Schulmittagessen - überwiesen
+- TOP 5.1.9: Verlängerung der Buslinie 114 - überwiesen
+- TOP 5.1.10: Fehlende Straßenbäume in Lichterfelde-Ost nachpflanzen - überwiesen
+- TOP 5.1.11: Oskar-Helene-Heim in Zehlendorf öffnen - überwiesen
+- TOP 5.1.12: BVG-Wartehäuschen Carstennstraße/Ecke Züricher Straße - überwiesen
+- TOP 5.1.13: Eine "Lehrerfeuerwehr" einrichten und den Schulen eine 100%ige Lehrerausstattung zuweisen - überwiesen
+- TOP 5.1.14: Rücknahme der zwangsweisen Versetzung festangestellter Musikschullehrer des ZeP nach Steglitz-Zehlendorf - überwiesen
+- TOP 5.1.15: Biologisches Gutachten für ein Teilgebiet zwischen Borussenstraße und Kronprinzessinnenweg - überwiesen
+- TOP 5.1.16: Sitzbänke in der Bahnhofstraße, Lichterfelde-Ost, reparieren bzw. erneuern und neu aufstellen - überwiesen
+- TOP 5.1.17: Über Schutzgebiete im Bezirk informieren - überwiesen
+- TOP 5.1.18: Aus Gründen der Sicherheit den Bahnsteig 4 des Regionalbahnhofs Lichterfelde-Ost verbreitern - überwiesen
+- TOP 5.1.19: Clara Viebig in die Straßenbenennungsliste aufnehmen - überwiesen
+- TOP 5.2: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Übergang der John-F.-Kennedy-Schule aus der bezirklichen Verwaltung in die Zentralverwaltung der Senatsverwaltung für Bildung, Wissenschaft und Forschung - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Unseriöse Haushaltsführung des Senats - beantwortet
+- TOP 7.2: Veruntreuungen im Bürgeramt? - beantwortet
+- TOP 7.3: Container an der John-F.-Kennedy-Schule - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Seniorenfreizeitstätte Maria Rimkus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Straßenbenennungsliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Maßnahmen gegen Fluglärm in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Keine Flugrouten über Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 8.5: Truman Plaza - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.6: Abgabe von kommunalen Kindertagesstätten an Freie Träger - vertagt
+- TOP 8.7: Radstreifen im Kreuzungsbereich Machnower Straße / Teltower Damm - vertagt
+- TOP 8.8: Moderne Verwaltung: Festlegung von zentralen Verwaltungsreformzielen - vertagt
+- TOP 8.9: Bebauungsplan Curtiusstraße westlich und östlich des Kadettenwegs - vertagt
+- TOP 8.10: Mittagessen für alle Grundschüler zum gleichen Preis - vertagt
+- TOP 8.11: Busbeschleunigung M 48 - vertagt
+- TOP 9: Schlusswort des Vorstehers - erledigt
