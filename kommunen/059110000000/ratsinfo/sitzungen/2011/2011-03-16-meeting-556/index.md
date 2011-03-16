@@ -1,0 +1,53 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2011-03-16T15:00:00+01:00
+- Ende: 2011-03-16T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZYiV2fwsTZC6g9fdpORJD6I
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/556
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQPXBv6__po2PyOnkeVaYBpGTeKKiicXdu_Tr4Xaf9X0/Einladung_Seniorenbeirat_16.03.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSy7tGqql6oZ_t8ARpHN9GEOztZ3tmcZ9rAVY5UDGJp9/Oeffentliche_Niederschrift_Seniorenbeirat_16.03.2011.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Einsatz von Friedhofsmobilen - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Räumpflicht bei Schnee oder Glatteis - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.3: Verkehrliche Verbesserungen zum Schutz der Fußgänger im Bereich Rathaus-Kreuzung, Bongardstraße/Kortumstraße (Boulevard) und Hans-Böckler-Straße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.4: Seitenschutz an Fahrgastunterständen - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.5: Verkehrssituation Bochumer Osten - Alte Bahnhofstraße - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.6: Bahnhof Wattenscheid - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.7: Jahreskarten für Familien beim Tierpark Bochum - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Stadtteilhelfer -mdl. Bericht- - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.2: Grabenstraße, Verkehrsgefährdung durch Gegenstände in der Fußgängerzone - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Unfallgefahr für Fußgänger auf Gehwegen der Herner Straße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Ruhebänke auf den städtischen Friedhöfen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Sachstand Mehrgenerationen-Bewegungsparks für Jung und Alt - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Huestraße - Aufstellen von Sitzbänken - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Bericht des Vorsitzenden hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Berichte aus den Gremien hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7: Anfragen
+- TOP 7.1: Sicherheitsprobleme Otto-Wels-Platz - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Kurzzeit-Parkplätze am Facharztzentrum Europa Haus - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.3: Gahlensche Straße - Gefahrenquellen aus Sicht älterer Bürgerinnen und Bürger - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: keine Tagesordnungspunkte
+- TOP 4: Anregungen und Empfehlungen
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
