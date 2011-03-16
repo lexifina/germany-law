@@ -1,0 +1,120 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-03-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2200804
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2200804
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Tagesordnung und Protokoll
+- TOP .1.: Beschluss über die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .3.: Änderungen im Bezirksausschuss
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Wahl eines/einer Vorsitzenden des UA Wirtschaft
+- TOP .4.: Umbesetzung im Unterausschuss Wirtschaft, Unterausschuss Kultur und Freizeit, Unterausschuss Wohnen Arbeit Soziales
+- TOP .5.: Umbesetzung im Ferienausschuss
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schrifliche eingegangene Bürgeranliegen
+- TOP .1.: Mieteranfrage aus der Jugendstr. 11-15 / Wolfgangstr. 15, Verschlossenes Tor zum Innenhof
+- TOP .2.: Straßenreinigungsgebühren in der Belfortstraße
+- TOP .3.: Verschmutzung der Straßen um den Pariser Platz
+- TOP .5.: Anträge
+- TOP .6.1: Zuschüsse aus dem BA-Budget
+- TOP .1.: Handhabung der Budgetmittel 2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Förderverein Wörthschule e.V. Exkursion von Kindern auf einen Bauernhof vom 06. - 08.04.2011 - <div>nach Antrag</div>
+- TOP .6.2: Genehmigung von Freischankflächen
+- TOP .1.: Pariser Str. 50, Gaststätte "orinoco", Genehmigung einer Freischankfläche Beschlussvorlage des Kreisverwaltungsreferats
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 5 Au-Haidhausen Umstufung und Widmungserweiterung von Teilstrecken der Kirchenstraße - <div>nach Antrag</div>
+- TOP .2.: Parkraummanagement; Parklizenzgebiet "Grillparzerstraße"; Entscheidung über die zukünftige Lizenzbeschilderung (mitsamt Ladezone) im Bereich Grillparzerstraße Ostseite zwischen Prinzregenten- und Schneckenburgerstraße Beschlussvorlage des Kreisverwaltungsreferats
+- TOP .3.: Parkraummanagement; Parklizenzgebiet "Grillparzerstraße"; Standort des Parkscheinautomaten Beschlussvorlage des Baureferats
+- TOP 4: (E) Aufhebung des absoluten Haltverbots und Wiedereinrichtung der Parkplätze in der Grillparzerstraße 44 - 46 - <div>nach Antrag</div>
+- TOP 4.5.: Standortgenehmigung für Parkscheinautomaten, Lizenzgebiet Regerplatz, Ruhestraße, Beschlussvorlage des Baureferats
+- TOP 4.1.: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung für die Bereiche I / 32, Zellstraße (nördlich), Am Gasteig (westlich) ? Muffathalle (?) Beteiligung der Öffentlichkeit und der Behörden, Anhörung
+- TOP 4.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 4.1.: Trambahn am Orleansplatz
+- TOP 4.2.: Korrektur der maßgeblichen Miethöhe bei der Ausübung des Vorkaufsrechts (BA-Antrag Nr. 08-14/ B01974); Beschluss des Kommunalausschusses vom 20.01.2011
+- TOP 4.3.: Kinderbetreuungsplätze in GWG Wohnprojekten
+- TOP 4.4.: Sanierung der Brücke der Regerstraße über Eisenbahn-Südring
+- TOP 4.5.: Lärmminderungsplan für München; dazu auch: Lärmminderung in München, Stellungnahme zum Ablauf der Bürgerbeteiligung, Schreiben des RGU vom 18.01.2011
+- TOP 4.6.: Anrechnung der Zuschüsse aus der Stellplatzablöse
+- TOP 4.7.: Entscheidungsvorbereitungen zur Verlagerung von Paulaner aus der Au nach Langwied
+- TOP 4.8.: Aktueller Kenntnisstand bezüglich der möglichen Verlagerung der Paulaner-Brauerei
+- TOP 4.9.: Schnee- und eisfreie Treppen an den Abgängen zu U- und S-Bahnhöfen
+- TOP 4.10.: Betreuung der Stammsteher und Mitglieder von Problemgruppen auf dem Orleansplatz
+- TOP 4.11.: Verbesserungen an der Tankstellenausfahrt in der Auerfeldstraße
+- TOP 4.12.: Bebauungsplan Orleansstraße
+- TOP 4.8.2: Reaktionen auf BA-Schreiben
+- TOP 4.1.: Route der Straßenreinigung im Stadtbezirk 5 Au-Haidhausen; Schreiben des Baureferats vom 15.02.2011
+- TOP 4.2.: Zusätzliche Transportkapazitäten des MVV während des ökumenischen Kirchentages, Schreiben des RAW vom 28.01.2011
+- TOP 4.3.: Abbiegestau vom Innsbrucker-Ring-Tunnel zum Leuchtenbergtunnel bis zur Ausfahrt Einsteinstraße?; Schreiben des Kreisverwaltungsreferats vom 02.02.2011
+- TOP 4.4.: Haltlinien an der Kreuzung Asamstraße / Schlotthauerstraße, Schreiben des KVR vom 28.01.2011
+- TOP 4.5.: Blitzampel an der Kreuzung Einstein / Grillparzerstraße, Schreiben des Polizeipräsidiums München vom 08.02.2011
+- TOP 4.6.: Radweg im Isarhochwasserbett, Schreiben des BA 2 vom 25.02.2011
+- TOP 4.7.: Stadtverträgliche Rosenheimer Straße; Schreiben des KVR vom 10.02.2011
+- TOP 4.8.3: Sonstige Unterrichtungen
+- TOP 4.1.: Katholisches Pfarramt Mariahilf in der Au ? Bau eines Carillons; Schreiben des Oberbürgermeisters vom 02.02.2011
+- TOP 4.2.: Fahrrad Beleuchtungs- und Befragungsaktion am 14.05.2011 (Ersatztermin 28.05.2011) auf dem Weißenburger Platz
+- TOP 4.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 4.1.: Regsam
+- TOP 4.2.: Kinder und Jugend
+- TOP 4.1.: Mehr Einflussmöglichkeiten für junge Menschen; Antrag der Stadtratsfraktion DIE GRÜNEN / RL vom 01.09.2009
+- TOP 4.3.: Behinderte und Barrierefreiheit
+- TOP 4.4.: Ausländer und Flüchtlinge
+- TOP 4.5.: Frauen und Mädchen
+- TOP 4.6.: Internet
+- TOP 4.7.: Baumschutz
+- TOP 4.1.: Baumfällung Zeppelinstr. 5, 1 Eberesche
+- TOP 4.2.: Baumfällung Albanistr. 7, 1 Spitzahorn
+- TOP 4.1.: Anträge auf Zuschüsse aus dem BA- Budget im Rahmen von OBACHT! - Verfahren bei der Antragstellung
+- TOP 4.2.: Kulturwoche im Stadtbezirk 5 Au-Haidhausen
+- TOP 4.1.: REGSAM: München spart Steuergelder, REGSAM wird künftig auf ehrenamtlicher Basis geführt Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 01.02.2011
+- TOP 4.3.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB; Fortschreibung der Erhaltungssatzung ?Untere Au / Untergiesing
+- TOP 4.1.: Pfarrfest auf dem Mariahilfplatz, Schreiben des katholischen Pfarramts Mariahilf an das Tourismusamt vom 09.02.2011, Schreiben des katholischen Pfarramts Mariahilf an den Bezirksausschuss vom 15.02.2011
+- TOP 4.2.: Werbenutzungsvertrag der Landeshauptstadt München Stellungnahme der Bezirksausschüsse zu den Standortvorschlägen / ggf. Benennung von Alternativen; Benennung von störenden Werbestellen auf öffentlichem Grund; Stellungnahme zu Informationsstellen im CLP-Format
+- TOP 4.1.: Isarplan ? Fertigstellung der Arbeiten zur Renaturierung der Isar; Vorstellung der Planungen zum offiziellen Festakt am 06.08.2011 und zu den Aktionen ?rund um die Isar? durch das Baureferat
+- TOP 4.2.: Blade Night jeweils montags von 09.05.2011 bis 05.09.2011
+- TOP 4.3.: Aktionen der Streetworker der Außenstelle Johannisplatz 12
+- TOP 4.1.: Gravelottestr. 2: Änderung der Raumzuordnungen in einzelnen Wohnungen, Errichtung von zwei Balkonanlagen, Einbau einer zusätzlichen Dachterrasse
+- TOP 4.2.: Zeppelinstr. 69: Nutzungsänderung: Büro zu Kindergarten (Erweiterung) sowie geringfügige Änderungen im Inneren und Umbau eines Fensters zur Fenstertür
+- TOP 4.3.: Erlass von Erhaltungssatzungen nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB; Fortschreibung der Erhaltungssatzung ?Untere Au/ Untergiesing?
+- TOP 4.4.: Gebsattelstr. 32: Wohnungsmodernisierung ? Einbau einer Lichtkuppel, Trockenlegung des Mauerwerks, Dachabdichtungsarbeiten, Heizungseinbau
+- TOP 4.5.: Elsässer Str. 25: Umbau zweier Dachgeschoss-Wohnungen
+- TOP 4.2.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen ? Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011
+- TOP 4.3.: Pariser Str. 25: Umbau einer Wohnung, Errichtung eines Balkons und Einbau eines Glasdachs über dem DG-Balkon, Schreiben des Referats für Stadtplanung und Bauordnung vom 08.02.2011
+- TOP 4.4.: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011
+- TOP 4.1.: Erinnerungsverfahren Fahrbahnbelagserneuerung Ohlmüllerstr. und Am Nockherberg; Bauabschnitt zwischen Falkenstraße und Hiendlmayerstr.
+- TOP 4.2.: Städtische Sportanlage an der Sieboldstr. 4, Großinstandsetzung der Freisportflächen im 5. Stadtbezirk Au-Haidhausen
+- TOP 4.3.: Rückgängigmachung der Straßenverlegungen in Einstein- und Prinzregentenstraße ab Leuchtenbergring / Richard-Strauss-Straße stadteinwärts bis zur Lucile-Grahn-Straße (Ziffer 2 des Antrags) (BV-Empfehlung Nr. 08-14/ E 00533)
+- TOP 4.1.: Vollzug des AEG: Plangenehmigung nach § 18, 18bb AEG i.V.m. § 74 Abs. 6 VwVfG für den barrierefreien Ausbau des Bahnsteiges D Bahnhof München - Ost Pbf
+- TOP 4.2.: Anordnung nach § 45 StVO: Salvatorausschank 2011
+- TOP 4.3.: Entwicklung des Verkehrs in München; a) aktueller Sachstand, b) Anträge; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011
+- TOP 4.4.: Feuerwehranfahrtszone beim Fußgängerübergang Elsässer Straße (BA-Antrag Nr. 08-14/ B 02546, hier: Entwurf eines neuen Antrags?
+- TOP 4.5.: Radweg Orleansstr. westlich
+- TOP 4.6.: Radweg im Isarhochwasserbett
+- TOP 4.7.: Hilton in der Rosenheimer Straße
+- TOP 4.1.: Berichte von wahrgenommenen Terminen
+- TOP 4.2.: Nächste UA-Sitzungen
+- TOP 4.1.: UA Kultur: Mi, 06.04.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Mo, 28.03.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Di, 05.04.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Do, 07.04.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Mo, 04.04.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 4.3.: Nächste BA-Sitzung
+- TOP 4.1.: Mi, 13.04.2011, 19:00 Uhr, Pfarrsaal St.-Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4.4.: Sonstige Termine
+- TOP 4.1.: Jahresdienstversammlung 2011 der Freiwilligen Feuerwehr München; Donnerstag, 24.03.2011, ab 19:30 Uhr, Casino der Krauss-Maffei AG, Reinhard-von-Frank-Str. 13, München-Allach
+- TOP 4.2.: Informationsveranstaltung der SWM am 29.03.2011, 18:00 Uhr, SWM-Zentrale, Emmy-Noether-Str. 2, Raum D 0.00
+- TOP 4.3.: Einladung in das Kommunalreferat zum Praxisbericht "Neue Praxis der Vorkaufsrechte und aktuelle Entwicklungen auf dem Münchner Immobilienmarkt" am 24.03.2011, 18:00 -20:00 Uhr, Roßmarkt 3, Konferenzraum im 2. Stock (Raum 232)
+- TOP 4.4.: Gottesdienst mit Verabschiedung von Diakon Hans Rippel, Pfarramt St.-Johannes, 27.03.2011 um 10:00 Uhr, anschließend Empfang im Gemeinderaum
+- TOP 4.5.: Gottesdienst mit Einführung von Diakon Oliver Skerlec, Pfarramt St.-Johannes, 10.04.2011 um 10:00 Uhr, anschließend Empfang im Gemeinderaum
+- TOP 4.1.: Entscheidungen
+- TOP 4.2.: Anhörungen
+- TOP 4.3.: Unterrichtungen
+- TOP 4.1.: Erhalt der kommunalen Mieterberatung
