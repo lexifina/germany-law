@@ -1,0 +1,105 @@
+# 43. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-03-17T17:30:00+01:00
+- Ende: 2011-03-17T22:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2403
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2403
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=80090
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - mit Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Gastronomie-Großmarkt in Moabit - beantwortet
+- TOP 5.2: Postfuhramt: C/O-Galerie versus maximale Verwertungsinteressen - beantwortet
+- TOP 5.3: Wie viel kostet uns die Bürgerwerkstatt für den Mauerpark? - beantwortet
+- TOP 5.4: Diabetes im Klassenzimmer - schriftlich beantwortet
+- TOP 5.5: Aufwand und Kosten für die Sozialraumorientierte Planungskoordination - schriftlich beantwortet
+- TOP 5.6: Den demographischen Wandel ernst nehmen - Schon erledigt? - schriftlich beantwortet
+- TOP 5.7: Marx-Engels-Forum - schriftlich beantwortet
+- TOP 5.8: Viel Zirkus am Zirkus? - schriftlich beantwortet
+- TOP 5.9: Produktwerbung im Klassenzimmer - Det is nich Wurscht? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Zukunft des Erweiterungsbaus für das Hallenbad "Poststadion" - beantwortet
+- TOP 6.2: Offene Kassenzeichen - beantwortet
+- TOP 6.3: Baumfällungen - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Fenstermalerei im Wedding - schriftlich beantwortet
+- TOP 7.2: Kontrolle der Spielhallen - schriftlich beantwortet
+- TOP 7.3: Bürgereingaben im Ordnungsamt - schriftlich beantwortet
+- TOP 7.4: Bessere und schnellere Vermittlung von SGB-II-Empfänger - schriftlich beantwortet
+- TOP 7.5: Unerlaubte Werbung an der Humboldt-Box - schriftlich beantwortet
+- TOP 7.6: Projektvergabe an der Berliner Gesellschaft für Integration in Mitte - schriftlich beantwortet
+- TOP 7.7: Ferienwohnungen in Wohnanlagen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Verbleib des Bürodienstgebäudes Parochialstr. 3 im Fachvermögen des Bezirks - in der BVV abgelehnt
+- TOP 8.2: Aufgabe der Bürodienstgebäude Parochialstr. 3 und Müllerstr. 147 und einen Umzug der BVV in das BDG Karl-Marx-Allee 31 - ohne Änderungen in der BVV beschlossen
+- TOP 8.3: Aufgabe der Bürodienstgebäude Parochialstr. 3 und Müllerstr. 147 und einen Umzug der BVV in das BDG Mathilde-Jacob-Platz 1 - in der BVV zurückgezogen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplan III-244 (Kleingartenkolonie Quartier Napoléon) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-244 - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Beitragspflichtige Erneuerung der Teileinrichtung Straßenentwässerung inder Wiesenstraße zwischen Uferstraße und Pankstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Entwurf der Anmeldungen für die Investitionsplanung 2011 - 2015 - mit Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauungsplanentwurf I-B5v (östliche Spandauer Vorstadt) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5v - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplanentwurf I-B5s (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5s - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bebauungsplanentwurf I-B5k (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5k - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: In der Mobilität eingeschränkte Menschen unterstützen – „Netzwerk Winter“ einrichten! - überwiesen
+- TOP 12.2: Sachgemäße und adäquate Finanzierung der Wahl der Seniorenvertre-tung nach dem Seniorenmitwirkungsgesetz durch die Senatsverwaltung für Integration, Arbeit und Soziales - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Verlängerung U-Bahnlinie 3 bis Magdeburger Platz - überwiesen
+- TOP 12.4: "Erneuerung" des Turmstraßenfestes - in der BVV abgelehnt
+- TOP 12.5: Geschichte und Zukunft: Marion-Gräfin-Dönhoff-Platz - überwiesen
+- TOP 12.6: Barrierefreier Spielplatz Emdener Str. / Oldenburger Str. Das schaffen wir spielend - überwiesen
+- TOP 12.7: Entwicklung mit und für die Bewohner – Quartier Lehrter Straße vor Verdrängung schützen - überwiesen
+- TOP 12.8: Barrierefreie Wahllokale - überwiesen
+- TOP 12.9: Folgen des zeitweisen Grillverbotes ernst nehmen: Über Kosten und Schäden aufklären und Grillen auf Widerruf prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Grillverbot im Großen Tiergarten aufrechterhalten - in der BVV abgelehnt
+- TOP 15.2: Bürger über Straßenbaumaßnahmen laufend informieren. - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Teilnahme am Projekt "Bildungsketten" - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Kinder aus dem Bezirk Mitte beim "Schülerlotto" bevorzugen - in der BVV abgelehnt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Portrait des Bundespräsidenten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.2: Einführung des kommunalen Wahlrechts für legal in der Bundesrepublik lebende Menschen aus Nicht-EU-Ländern / Unterstützung der Kampagne der Landesarbeitsgemeinschaft der kommunalen MigrantInnen-Vertretungen (LAGA) in Nordrhein-Westfalen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Verbraucherinformationsgesetz bürgerfreundlich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Öffentlicher Raum wird „Shared Space – Begegnungszone“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Antifaschistische Mietklausel bei der Vergabe von Räumlichkeiten des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Umsetzung des § 20 SGB V durch die Krankenkassen in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Transparenz, Personalvertretung und Mindestlohn bei Zuwendungs- und Entgeltempfängern gesetzlich fixieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Löwenbrücke im Grossen Tiergarten endlich sanieren und wieder öffnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Entfristung der Arbeitsverhältnisse der Beschäftigten des Ordnungsamtes (II) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Erhöhung einer Vergnügungssteuer auf die Bruttoeinspielergebnisse bei Gewinnspielgeräten an allen Aufstellorten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Sicherstellung des Jugendschutzes beim Betrieb von Spielautomaten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Jugendschutz in Spielsalons und gleich gearteten Unternehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Vergnügungsstättengesetz/-verordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: SpielerInnensperren zum Schutz der Spieler und Spielerinnen und zur Bekämpfung der Spielsucht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.16: Veräußerung der Schulturnhallen der Grips- und Wartburg Grundschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Sind "Laubpuster" notwendig? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Ausgrenzungsprozessen bei Jugendlichen und jungen Erwachsenen entgegentreten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Baurecht gegen Wettbüros! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Sind Innenstadtkinder weniger intelligent? - Zwei Züge statt einem Zug für Schnellernerklassen am Lessing-Gymnsium einrichten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Öffentlichkeit bei Öffentlicher Auslegung zum Bebauungsplan Schultheiss (B-Plan 1-43VE) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Beschluss über die Durchführung der erneuten (eingeschränkten) Behördenbeteiligung gemäß § 4a Abs. 3 i.V.m. § 4 Abs. 2 BauGB sowie der erneuten öffentlichen Auslegung gemäß § 4a Abs. 3 i.V.m. § 3 Abs. 2 BauGB zum Entwurf des Bebauungsplans 1-39 "Hemingway-Areal" im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-54 (östliche Brunnenstraße, südlich Rheinsberger Straße) und die Durchführung der öffentlichenAuslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Aufstellung des Bebauungsplanes 1-70 (ehemaliges Haus der Statistik) im Bezirk Mitte, Ortsteil Mitte, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 BauGB und die Beteiligung der Behörden gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Benennung eines privaten Stadtplatzes in Berlin-Mitte, Ortsteil Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Gefährdungsatlas zur Korruptionsprävention - mit Abschlussbericht zur Kenntnis genommen
