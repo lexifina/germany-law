@@ -1,0 +1,82 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-03-17T14:00:00+01:00
+- Ende: 2011-03-17T20:30:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3502
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3502
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155528.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155528.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00155528.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen - zur Kenntnis genommen
+- TOP 3.1: Anfrage aktuell-Bü90/Grü: LKW-Maut auf Bundesstraßen - beantwortet
+- TOP 4: Anfragen - zur Kenntnis genommen
+- TOP 4.1: Anfrage SPD: Raumnutzungskonzept - Machbarkeitsstudie - Architektonischer Wettbewerb für die Stiftun - beantwortet
+- TOP 4.2: Anfrage SPD: Der neue Personalausweis..... - beantwortet
+- TOP 4.3: Anfrage Bü90/Grü: Fluglärm im Düsseldorfer Süden - beantwortet
+- TOP 4.4: Anfrage Freie Wähler: Kontakte mit der Glücksspielindustrie/Spielsucht - beantwortet
+- TOP 4.5: Anfrage Bü90/Grü: Wo bleiben die Wohnungen? - beantwortet
+- TOP 4.6: Anfrage CDU und FDP: Durchführung von Großveranstaltungen - schriftlich beantwortet
+- TOP 4.7: Anfrage Freie Wähler: Schließung des Lehrschwimmbeckens/Therapiebecken in der Uni Klinik - schriftlich beantwortet
+- TOP 4.8: Anfrage Linke: Verdrängung der Bevölkerung in Flingern und Oberbilk - schriftlich beantwortet
+- TOP 4.9: Anfrage Rh. Durmus: Gentrifizierung in Düsseldorf - schriftlich beantwortet
+- TOP 4.10: Anfrage Rh. Yimbou: Mehrkosten für den ESC - schriftlich beantwortet
+- TOP 4.11: Anfrage LINKE: Bauen ohne Baugenehmigung - schriftlich beantwortet
+- TOP 4.12: Anfrage Rfr. Kraft-Dlangamandla: Altstadtpflaster aus Kinderarbeit? - schriftlich beantwortet
+- TOP 4.13: Anfrage der Ratsfraktionen von FDP und CDU: Grundsicherung - schriftlich beantwortet
+- TOP 4.14: Anfrage der Ratsfrau Warden: Lärmschutz im Bereich des Heerdter Dreieck - schriftlich beantwortet
+- TOP 4.15: Anfrage des Ratsherrn Markus Raub: Besetzung der Leitung des Amtes für Kommunikation - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Bericht zum Eurovision Song Contest 2011 - zur Kenntnis genommen
+- TOP 8: Kaiserswerther Straße 380 - Sanierung Aquazoo und Löbbecke-Museum - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 9: Umgestaltung der Birkenstraße (Ackerstraße bis Dorotheenstraße) - einstimmig beschlossen
+- TOP 10: Nutzung einer Teilfläche des Nordparks im Rahmen der Messe Druck und Papier 2012 - mehrheitlich beschlossen
+- TOP 11: Sanierung des Mauerfußes der westlichen Uferwand im Zollhafen - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 12: Tarifsätze zur Übernahme, Behandlung und Entsorgung von Fäkalschlämmen im Klärwerk Düsseldorf-Süd fü - einstimmig beschlossen
+- TOP 13: Schließung der Kita Kuthsweg - einstimmig beschlossen
+- TOP 14: Finanzierung der Gerda Henkel Kita Bonner Str. 22a - mehrheitlich beschlossen
+- TOP 15: Wohnungsbauförderung – Neuausrichtung der städtischen Eigentumsförderung - einstimmig beschlossen
+- TOP 16: GeschO GeKo neu auch Rat Erweiterung ARGE Agentur - mehrheitlich beschlossen
+- TOP 17: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 18: Annahme einer Schenkung - einstimmig beschlossen
+- TOP 19: Verbandsversammlung des Zweckverbandes VRR - einstimmig beschlossen
+- TOP 20: Kreispolizeibeirat - Ersatzwahl - - einstimmig beschlossen
+- TOP 21: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 22: Bestellung von zwei Prüferinnen und einem Prüfer für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 23: Bestellung beratender Mitglieder in Ausschüsse - einstimmig beschlossen
+- TOP 24: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 24.1: Ausschussumbesetzungen - einstimmig beschlossen
+- TOP 25: Anträge
+- TOP 25.1: Antrag Bü90/Grü: Verlagerung des Flughafen-Messpunktes für Benzol und Toluol - mehrheitlich abgelehnt
+- TOP 25.2: Antrag Bü90/Grü: 3 Sonntagsöffnungen sind ausreichend - mehrheitlich abgelehnt
+- TOP 25.2.1: ÄA DIE LINKE: Keine Sonntagsöffnungen im Einzelhandel - zur Kenntnis genommen
+- TOP 25.3: Antrag Bü90/Grü: Girls’ Day in Düsseldorf - - mehrheitlich abgelehnt
+- TOP 25.4: Antrag Bü90/Grü: Günstigen Wohnraum sichern - Instrumente des BauGB nutzen - mehrheitlich abgelehnt
+- TOP 25.5: Antrag der Ratsfraktion DIE LINKE: Keine dubiosen Schenkungen - mehrheitlich abgelehnt
+- TOP 25.6: Antrag DIE LINKE: Gutachten zum Denkmalschutz veröffentlichen - mehrheitlich abgelehnt
+- TOP 25.7: Antrag DIE LINKE: Keine Schadstoffe in Kitas - mehrheitlich abgelehnt
+- TOP 25.8: Antrag DIE LINKE: Situation Alleinerziehender in Düsseldorf - mehrheitlich abgelehnt
+- TOP 25.9: Antrag Bü90/Grü: Equal Pay Day - mehrheitlich abgelehnt
+- TOP 25.10: Antrag Bü90/Grü: Kommunales Aktionsprogramm "Kein Kind ohne Schulabschluss in Duesseldorf" - mehrheitlich abgelehnt
+- TOP 25.11: Antrag SPD: Masterplan Wohnen in Düsseldorf - vertagt
+- TOP 25.12: Antrag SPD: Inklusion weiter ausbauen - Eltern besser unterstützen - vertagt
+- TOP 25.13: Antrag SPD: Lärmschutz an der Fleher Brücke - vertagt
+- TOP 25.14: Antrag SPD: Zahl der Sonntagsöffnungen reduzieren - zur Kenntnis genommen
+- TOP 26: Aufsichtsrat IDR Public Management GmbH - einstimmig beschlossen
+- TOP 27: AR der RBG Kaarst-Neuss-Düsseldorf-Erkrath-Mettmann-Wuppertal mbH - einstimmig beschlossen
+- TOP 28: Aufsichtsrat der Regiobahn Fahrbetriebsgesellschaft mbH - Ersatzwahl - einstimmig beschlossen
+- TOP 29: Benennung eines Vertreters für den Beirat der Flughafen Düsseldorf GmbH - einstimmig beschlossen
+- TOP 30: Kommission nach § 32 b Luftverkehrsgesetz - Ersatzwahl - einstimmig beschlossen
+- TOP 31: Soforthilfe für Japan - einstimmig beschlossen
+- TOP 32: Benutzungsordnung mobile Arena - mehrheitlich beschlossen
+- TOP 33: Benennung von zwei in der Jugendhilfe erfahrenen oder tätigen ausländische Einwohner im JHA - einstimmig beschlossen
