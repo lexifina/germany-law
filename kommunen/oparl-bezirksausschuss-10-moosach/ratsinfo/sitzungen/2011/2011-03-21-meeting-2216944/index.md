@@ -1,0 +1,100 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-03-21T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2216944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2216944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Kündigung von Kleingärten
+- TOP 2.2.: Verkehrssituation Ecke Pelkoven-/Meggendorfer Straße
+- TOP 2.3.: Winterdienst Ecke Dachauer Straße / Hugo-Troendle-Straße
+- TOP 2.4.: Bedienung der Haltestelle Gröbenzeller Straße durch die Buslinie 169
+- TOP 2.5.: Aufnahme des Parkplatzes an der Homerstraße in die Parkscheibenzone
+- TOP 2.6.: Maßnahmen zur Verkehrssicherheit im Bereich Bunzlauer Straße / Breslauer Straße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Beleuchtung Bolzplatz Oskar-Barnack-Straße
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Anwohnerversammlung Haylerstraße
+- TOP 3.2.: Abbiegeverbot in der Dachauer Straße zu Fa. Dehner und Fa. HIT
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Ampelanlage Feldmochinger Straße / Torgauer Straße
+- TOP 3.2.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Spielmöglichkeit für das Wohngebiet an der Darmstädter ? und Feichtmayrstr.
+- TOP 4.2.: Bahnunterführung Dachauer Straße
+- TOP 4.3.: Sanierung Unterführung Memminger Platz
+- TOP 4.4.: Bedarfsampel Bauberger- / Gubestraße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Öffnung des Fuß- und Radweges in der Baldurstraße im Abschnitt Nederlinger Straße / Sadelerstraße für den Fahrradgegenverkehr
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Amphionpark Trommelkurs der 1. und 2. Klassen von Mai - Juli 2011
+- TOP 5.2.: Erhalt des Ensembleschutzes für den Moosacher Dorfkern (Empfehlung Nr. 08-14 / E00821 der Bürgerversammlung am 02.12.2010)
+- TOP 5.3.: Errichtung einer Blinkampel an der Überfahrt der Tramgleise auf Höhe der Breslauer Straße (Empfehlung Nr. 08-14 / E00822 der Bürgerversammlung am 02.12.2010)
+- TOP 5.4.: Spielplatz Holledauer Straße
+- TOP 5.5.: (E) Budget der Bezirksausschüsse Seniorenbeirat AK 10 Moosach Musik für den Seniorennachmittag am 29.04.2011
+- TOP 6: Anhörungen
+- TOP 6.1.: Werbenutzungsvertrag der Landeshauptstadt München
+- TOP 6.2.: Errichtung eines Hauses für Kinder mit 2 Kinderkrippen-, 2 Kindergarten- und 1 Hortgruppe an der Baubergerstraße
+- TOP 6.3.: Brieger Straße: Errichtung Kindertagesstätte, Kinder- / Jugendzentrum und Nachbarschaftstreff
+- TOP 6.4.: Blade Night
+- TOP 6.5.: Wegweisung zur Stuttgarter Autobahn vom Wintrichring über die Allacher Straße / Von-Kahr-Straße
+- TOP 6.6.: Öffnung der in Richtung Osten einbahngeregelten Puchheimer Straße zwischen Zur Grünen Eiche und Tengelmann-Parkplatz für den gegenläufigen Radverkehr
+- TOP 6.7.: Sommerfest Arche am 28.07.2011 in der Brieger Straße
+- TOP 6.8.: Kurzparkzone rund um den Memminger Platz sowie in der Bunzlauer Straße und der Baubergerstraße
+- TOP 6.9.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Emmy-Nöther-Straße
+- TOP 6.10.: Kunstrasenplatz für den TSV Moosach-Hartmannshofen
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Sanierung der Baldurstraße (Sanierung im Frühjahr 2011)
+- TOP 7.2.: Signalanlage Pelkovenstraße / Riesstraße (Abbiegepfeil wurde abgedeckt)
+- TOP 7.3.: Kurzparkzone rund um den Memminger Platz sowie in der Bunzlauer Straße und der Baubergerstraße (sind bereits beschildert bzw. angeordnet)
+- TOP 7.4.: Sanierung bzw. Neubau der Bahnsteigdächer am Moosacher Bahnhof und weitere Maßnahmen (Sanierung von März bis Mai 2011 vorgesehen)
+- TOP 7.5.: Probleme beim 5-Minuten-Takt der U1 (Verzögerungen durch witterungsbedingt erhöhtes Fahrgastaufkommen)
+- TOP 7.6.: Aufstellung der Fahrradständer vor der Unterführung Pelkovenstraße / Jakob-Hagenbucher Straße (wurde durchgeführt)
+- TOP 7.7.: Fahrkartenautomat am Moosacher St.-Martins-Platz (Nachrüstung für den Verkauf von Wochen- und Monatskarten nicht möglich)
+- TOP 7.8.: Ausbesserung des Radweges Hugo-Troendle-Straße zwischen Gleißmüllerstraße und Zügelstraße (Sanierung in 2011 vorgesehen)
+- TOP 7.9.: Sanierung Max-Born-Straße (Verkehrsführung während der Bauzeit 16.08.11 bis 02.09.11)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: München setzt auf's Rad 2, Von Nachbarn in den Niederlanden und Dänemark lernen (Stadtratsantrag)
+- TOP 8.4.: Einrichtung eines Halteverbots in der Franz-Fihl-Straße
+- TOP 8.5.: Saarlouiser Straße / Manzostraße (Anfrage aus der Bürgerversammlung des 23. Stadtbezirks Allach-Untermenzing)
+- TOP 8.6.: Bachräumungstermine 2011 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.7.: Jährlicher Bericht des Datenschutzbeauftragten (Antrag des BA 3 Maxvorstadt)
+- TOP 8.8.: Austragung des Weltkindertages durch den Stadtbezirk Laim
+- TOP 8.9.: Anfrage bezüglich der Flyer des Baureferates zum Winterdienst
+- TOP 8.10.: Genehmigung von Filmaufnahmen
+- TOP 8.11.: Genehmigung zum Einsatz eines Mobilkrans
+- TOP 8.12.: Nachtrag City Bike Marathon
+- TOP 8.13.: Halteverbote für die Splittabkehraktion
+- TOP 8.14.: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewätigen: Kommunale Erfahrungen und Ansätze
+- TOP 8.15.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen ? Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes -
+- TOP 8.16.: Anwohnergaragen in München ? Umsetzungsstand und Fortschreibung
+- TOP 8.17.: Bürgerschreiben zur Metrobuslinie 50
+- TOP 8.18.: Information zum Wertstoffsammelsystem in der LH München
+- TOP 8.19.: Christbaumsammlung ? Weitere haushaltsnahe Sammelplätze
+- TOP 8.20.: Vollzug der Baumschutzverordnung: Pelkovenstraße 60
+- TOP 8.21.: Entwicklung des Olympischen Dorfes und des Mediendorfes für die Olympischen und Paralympischen Winterspiele 2018 ? Ergebnis des Planungswettbewerbes
+- TOP 8.22.: Technisches Betriebszentrum Schragenhofstraße 6 ? Ausführungsgenehmigungen
+- TOP 8.23.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen, Ausbau der Kinderbetreuung
+- TOP 8.24.: ÖPNV- Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 8.25.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen
+- TOP 8.26.: Beseitigung höhengleicher Bahnübergänge (Vertagung)
+- TOP 8.27.: München lebt Vielfalt ? Interkultureller Integrationsbericht 2010 (Umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 8.28.: Mobilfunk ? Suchkreismeldung (nicht-öffentlich)
+- TOP 8.29.: Zweckentfremdung Eggmühler Straße (nicht-öffentlich)
+- TOP 8.30.: Verkehrsanordnung Messerschmittstraße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
