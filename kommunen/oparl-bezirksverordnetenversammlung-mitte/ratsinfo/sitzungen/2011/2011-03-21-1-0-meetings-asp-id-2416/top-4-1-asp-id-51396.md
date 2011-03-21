@@ -1,0 +1,7 @@
+# TOP 4.1: Drucksachen, die durch die BVV am 17.03.2011 in den Ausschuss überwiesen wurden
+
+- Sitzung: 45. öffentliche/nichtöffentliche Sitzung des Ausschusses für Wirtschaft und Arbeit (2011-03-21)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=51396
+- Ergebnis: erledigt
