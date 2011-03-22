@@ -1,0 +1,117 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2011-03-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2196132
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2196132
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: 1.3.1 Protokoll der November-Sitzung 1.3.2 Protokoll der Januar-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Anträge zu Straßenumbauten im 18. Stadtbezirk 1. Fußgängerquerung Schulweg Höhe Jamnitzerstraße 2. Fußgängerquerung Konradinstraße (unübersichtliche Einfahrt) 3. Fußgängerampel Schulweg Hans-Mielich-Straße / Winterstraße - Breitenreduzierung - Abbau der LZA 4. Ludmillastraße / Schönstraße 5. Karolingerallee / Lautererstraße; Bürgerantrag vom 12.02.2011
+- TOP 2.2.: Vermietung der ehem. Bäckerei Krieg in der Soyerhofstraße 28; Bürgerschreiben vom 28.02.2011
+- TOP 2.3.: Neubau des Klinikums Harlaching 1. federführende verantwortliche Stelle zur Prüfung eines Alternativstandorts für den Hubschrauberlandeplatz 2. Verhandlungen mit den Bayerische Staatsforsten wegen einer Arrondierung des südöstlichen Klinikareals Bürgerantrag vom 05.03.2011 - <div>nach Antrag (Ergänzungen siehe Beschluss)</div>
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: My Sportlady e.V., für die Maßnahme: Kinderernährungskurse im 18. Stadtbezirk; Antragssumme: 8.640,00 ?; Antrag vom 03.03.11
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Geschwindigkeitsmessungen in der Harthauser Straße; Bürgeranliegen (verwiesen aus der Sitzung vom 15.02.2011)
+- TOP 3.1.: Vollzug des Bayerischen Straßen- u. Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching; Widmungserweiterung einer Teilstrecke der Stresemannstraße; Sitzungsvorlage Nr. 08-14 / V 06124; Beschluss des Bezirksausschusses des Stadtbezirkes 18 Untergiesing-Harlaching vom 22.03.2011
+- TOP 3.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching Widmungserweiterung einer Teilstrecke der Stresemannstraße
+- TOP 3.1.: Anbringung einer Fahrtgeschwindigkeitskontrollanzeige nach der Einmündung am Theodolindenplatz in der Harthauser Straße
+- TOP 3.2.: Entfernung zweier Parkplätze in der Oberbiberger Straße wegen beengter Straßenverhältnisse
+- TOP 3.1.: Schyrenstraße zwischen Schyrenplatz und Claude-Lorrain-Straße - Radweglückenschluss; Schreiben des Baureferats-Tiefbau vom 14.02.2011 mit der Bitte um Stellungnahme
+- TOP 3.2.: Pilgersheimer Str. 20 Seite: Untere Weidenstraße; Anhörung gemäß § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 02.03.2011 mit der Bitte um Stellungnahme
+- TOP 3.3.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern; Untersuchungsergebnisse und weiteres Vorgehen; Stadtrats-Antrag Nr. 08-14 / A 00475; Sitzungsvorlage Nr. 08-14 / V 04822; Entwurf der Beschlussvorlage für den Bauausschuss am 10.05.11 mit der Bitte um Zustimmung
+- TOP 3.4.: Säbener Straße - Fahrbahnsanierung zwischen Naupliastraße u. Berchtesgadener Straße; Erinnerungsverfahren; Zuleitung des Baureferats vom 01.03.11 mit der Bitte um Stellungnahme
+- TOP 3.5.: Klobensteiner Str. 14 b - Bauschadensbehebung, Erstellung einer neuen Zufahrt u. Fahr- u. Gehbahnsanierung; Erinnerungsverfahren; Zuleitung des Baureferats vom 28.02.11 mit der Bitte um Stellungnahme
+- TOP 3.1.: Handlungsprogramm Mittlerer Ring; Antwortschreiben des Referates für Stadtplanung u. Bauordnung vom 04.02.2011 auf das Schreiben des BA 18 vom 23.12.2010 (neutrale Erledigung)
+- TOP 3.2.: Entfernung der Lichtzeichenanlage an der Geiselgasteigstraße, Höhe der Hausnummer 90; BA-Antrags-Nr. 08-14 / B 02685 des BA 18 vom 18.01.11; Antwortschreiben des KVR vom 16.02.11 (negative Erledigung)
+- TOP 3.3.: Erneuerung / Sanierung des Poißlweges (Ziffer 2 des Antrags); Empfehlung Nr. 08-14 / E 00510 der BÜV des 18. Stadtbezirkes vom 03.12.09; Beschluss des BA 18 vom 18.05.10; Sitzungsvorlage Nr. 08-14 / V 04048; Mitteilung des Baureferats vom 16.02.11 (positive Erledigung)
+- TOP 3.1.: Straßenbauarbeiten in der Grünwalder Straße zwischen Tiroler Platz und Theodolindenplatz; geänderte Verkehrsführung; Schreiben u. Planunterlagen des Baureferats - Tiefbau vom 01.02.2011
+- TOP 3.2.: Beseitigung höhengleicher Bahnübergänge; Sitzungsvorlage Nr. 08-14 / V 03800; Ergänzende Vorlage zum Beschluss des Bauausschusses vom 01.03.2011 (SB) - siehe auch TOP 3.2.6.3 der Sitzung vom 15.02.11
+- TOP 3.3.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung; Nach Beschluss über die Ertüchtigung des Stadions an der Grünwalder Straße: die vorhandene Tiefgarage am Wettersteinplatz JETZT öffnen und den Parkdruck abbauen; Sitzungsvorlagen Nr. 08-14 / V 04477; Beschluss der Vollversammlung des Stadtrates vom 16.02.11; Neufassung vom 09.02.2011 zu TOP 3.2.6.3 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.2011 (VB) - siehe auch TOP 3.2.6.2 der Sitzung vom 15.02.11
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Einzäunung am Spazierweg der Hochleite; Verschönerung des Spazierwegs an der Harlachinger Straße; Bürgeranliegen aus dem März 2010; Zwischennachrichten des Referates für Stadtpl. u. Bauordnung vom 03.08.10 und 26.10.10; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 09.02.11 (positive Erledigung)
+- TOP 3.2.: Baumfällungen in der Harthauser Str. 87 im Zuge des Bauvorhabens - Vorliegen einer Fällgenehmigung? Anfrage des BA 18 aus der Sitzung vom 15.02.11; Antwortschreiben der Unteren Naturschutzbehörde vom 02.03.2011 (neutrale Erledigung)
+- TOP 3.1.: Information zum Wertstoffsammelsystem der Landeshauptstadt München; Schreiben des AWM vom 15.02.2011
+- TOP 3.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.2.1 Anwesen Geiselgasteigstraße 84; Genehmigungsbescheid vom 21.02.2011
+- TOP 3.1.: Isarplan - Fertigstellung der Arbeiten zur Renaturierung der Isar; Festakt am Samstag, den 06. August 2011; Schreiben des Baureferats vom 03.02.2011
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Sportvereine in Untergiesing-Harlaching; Angebote für Kinder aus sozial schwachen Familien; Anfrage des Bezirksausschusses bei den im Stadtbezirk ansässigen Vereinen; Antrag der SPD-Fraktion vom 13.02.2011 (vertagt aus der Sitzung vom 15.02.2011)
+- TOP 3.2.: Nutzung der Container in der Rotbuchenstraße / Am Hollerbusch als Kindergarten / Kinderkrippe
+- TOP 3.1.: Pädagogische Aktion, Spielen in der Stadt e.V., Sommer-Spieleaktion 2010 - Osram-Spielplatz; Schreiben des BA 18 vom 20.01.2011; Antwortschreiben des KVR vom 11.02.2011 (neutrale Erledigung)
+- TOP 3.2.: Erhalt des eingezäunten Geländes am Hollerbusch mit den Spielgeräten ? nach Abbau der Containerbebauung für den Hort ? als Spiel- und Pausenhof für die Grundschule an der Rotbuchenstraße. Am Nachmittag sollte die Fläche als öffentlicher Spielplatz nutzbar sein; BA-Antrag Nr. 08-14 / B 02684 vom 18.01.11; Antwortschreiben des Referates für Stadtpl. u. Bauordnung vom 22.02.11 (neutrale Erledigung)
+- TOP 3.1.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen - Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes; Sitzungsvorlagen Nr. 08-14 / V 05936; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011
+- TOP 3.2.: Austragung des diesjährigen (erweiterten) Weltkindertags im Stadtbezirk Laim; Information des Büros der Kinderbeauftragten der LHM vom 18.02.2011
+- TOP 3.3.: München lebt Vielfalt; Interkultureller Integrationsbericht 2010; Sitzungsvorlage Nr. 08-14 / V 05728; Beschluss der Vollversammlung des Stadtrates vom 16.02.11
+- TOP 3.4.: Information der Fachöffentlichkeit zur Umorganisation in der Bezirkssozialarbeit; Zuleitung des Sozialreferats vom 22.02.2011
+- TOP 3.1.: Schlitten fahren am Schrafnagelberg für die Schüler der Ichoschule; Bürgerschreiben vom 30.01.2011; Antwortschreiben des Baureferats vom 08.02.2011
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Denkmalschutzplakette für das Lola-Montez-Haus; Antrag des Lola-Montez-Haus vom 23.02.2011
+- TOP 3.2.: Antrag auf Vertagung der Entscheidung über die Baugenehmigung Birkenau 10 und 12; Antrag der Bürgerinitiative "Rettet die Birkenau" vom 07.03.2011
+- TOP 3.3.: Verlängerung der Erhaltungssatzung für Untergiesing; Erhaltungssatzung für das Gebiet rund um den Wettersteinplatz
+- TOP 3.1.: Werbenutzungsvertrag der LHM 1. Übersicht Werbeanlagen im öffentlichen Raum 2. Standortverzeichnis (Index) nach Art und Bezirk gegliedert 3. Bilder Vorschlag Umwandlung Säulenstandort BA 18: Theodolindenplatz, Wettersteinplatz, Candidstr. 3, Tiroler-Platz / Grünwalderstraße, Candidstraße / Schönstraße, Candidstraße - 100 m nach Gerhardstraße, Grünwalder Str. / St.-Magnus-Straße 4. Bilder Vorschlag Aufstellung CLB (Megalights) BA 18: Schleißheimer Str. Höhe 400, Mittelstreifen zw. BA Grenzen, Tegernseer Landstraße Ecke Grünwalderstraße; Schreiben des Referats für Arbeit und Wirtschaft vom 10.02.11 mit der Bitte um Stellungnahme bis 11.04.11
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Benediktenwandstraße 15; Neubau eines Mehrfamilienhauses mit TG - VORBESCHEID; Anhörung vom 22.02.11
+- TOP 3.2.: Lautererstraße 6a; Neubau eines Doppelwohnhauses mit Garagen - VORBESCHEID; Anhörung vom 22.02.2011
+- TOP 3.3.: Untere Weidenstraße 30; Neubau einer Kindertagesstätte (1. BA) u. eines Wohnhauses mit Kindertagesstätte (2. BA) - VORBESCHEID; Anhörung vom 03.03.11
+- TOP 3.4.: Schyrenstraße 8; Nutzungsänderung einer Kegelbahn zu einem Gastraum (KG) mit leichten baul. Änderungen, eines Gaststätten-Nebenraums zu einem Tagesbistro/Foyer (EG), Einbau eines Behinderten-WCs u. Anpassung Brandschutz in der gesamten Gaststätte; Anhörung vom 03.03.11
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Ersuchen an die GEWOFAG zur Errichtung eines barrierefreien Zugangs zur Gaststätte "Gartenstadt", Naupliastraße 2; BA-Antrags-Nr. 08-14 / B 02503 des BA 18 vom 21.09.10; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 02.02.11 (positive Erledigung)
+- TOP 3.2.: Bäcker gesucht; Neuvermietung des Ladengeschäfts der ehemaligen Bäckerei Krieg in der Gewofag-Siedlung Neuharlaching (Soyerhofstraße / Ecke Brunnstraße / nahe U-Bahnhof Mangfallplatz); Antrag des BA 18 vom 06.12.2010; Schreiben des BA 18 an das Referat für Arbeit u. Wirtschaft sowie das Referat für Stadtplanung u. Bauordnung vom 12.01.2011; Antwortschreiben des Referates für Arbeit und Wirtschaft vom 02.11.2011 (neutrale Erledigung)
+- TOP 3.3.: Spielhallen im 18. Stadtbezirk; Anfrage des BA 18 vom 17.02.11; Antwortschreiben des KVR vom 03.03.11 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze; Sitzungsvorlagen Nr. 08-14 / V 06053; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.3.1 Anwesen Birkenau; Unterrichtung vom 22.02.2011 3.5.6.3.2 Anwesen Füllstraße; Unterrichtung vom 02.03.11
+- TOP 3.4.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.4.1 Kleingaststätte "Final Bar", Ludmillastraße 20a; Mitteilung vom 24.02.2011
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Anhörung "Münchner Blade Night 2011", jeweils montags von Mai bis September 2011 mit Start / Ziel am Bavariapark (Stadtbezirk 8); Zuleitung des KVR vom 23.02.2011 mit der Bitte um Stellungnahme bis 06.04.2011
+- TOP 3.2.: Veranstaltung auf städtischer Grünanlage; hier: Waldfest des Vereins zur Erhaltung u. Pflege des Perlacher-/Grünwalder Forstes e.V. in der Grünanlage an der Oberbiberger Straße neben dem Münchner Kindl Heim am 16.07.2011; Anhörung des KVR vom 28.02.2011 mit der Bitte um Stellungnahme bis 11.04.2011
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Broschüre über die Mittelfristige Finanzplanung 2010 - 2014; Schreiben der Stadtkämmerei vom 15.02.2011 (Die vollständigen Unterlagen können in der BA-Geschäftsstelle Ost eingesehen werden.)
+- TOP 4.2.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen; Stadtratsantrag Nr. 08-14 / A 01880 vom 12.10.10; Schreiben des Direktoriums vom 21.02.2011 an die Antragsteller mit der Bitte um Kenntnisnahme
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
