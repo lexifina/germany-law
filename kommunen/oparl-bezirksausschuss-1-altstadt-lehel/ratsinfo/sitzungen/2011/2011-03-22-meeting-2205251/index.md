@@ -1,0 +1,143 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-03-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205251
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205251
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Vorstellung des Bauvorhabens Oettingenstraße 6 ? 8: Neubau einer Wohnanlage
+- TOP .2.: BA-eigene Veranstaltung: Fußballstunde am Hirschanger 2011
+- TOP .1.: Änderung des Katalogs zur BA-Satzung, Abschnitt Sozialreferat Ziffer 11: Vollzug der Zweckentfemdungsverordnung
+- TOP .2.: UA: Anfrage zur Schaffung von Ersatzwohraum
+- TOP .1.: BV-Empfehlung Nr. 794: Infokampagne zum sozialverträglichen Immobilienverkauf
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Neuturmstraße 3a: Nutzungsänderung zweier Wohnungen in Büros
+- TOP .2.: Perusalemstraße 1: Erneuerung der Straßenfassade
+- TOP .3.: Viktualienmarkt: Nutzungsänderung eines Ladens in einen Laden mit Gaststätte und Freischankfläche mit Alkoholausschank
+- TOP .4.: Thierschplatz 3: Umbau der Dachgeschosswohnungen, vertagt aus 2011.02 B 3.1.1
+- TOP .5.: Maximilianstraße 6: Umbau und Erweiterung, vertagt aus 2011.02 B 3.1.4
+- TOP .6.: Blumenstraße 4 -6: Schrannenhalle, vertagt aus 2011.02 B 3.1.5
+- TOP .7.: Oettingenstraße 6 ? 8: Neubau einer Wohnanlage, vertagt aus 2011.02 B 3.1.6 N
+- TOP .8.: Sonnenstraße 29: Nutzungsänderung und Umbau in den Obergegschossen 1 - 6
+- TOP .9.: Frauenstraße 44: Umbau mit Nutzungsänderung
+- TOP .10.: Sendlinger-Tor-Platz 11: Nutzungsänderungen
+- TOP .11.: Herzog-Wilhelm-Straße 29: Nachträgliche Genehmigung eines Wirtsgartens
+- TOP .12.: entfällt
+- TOP .13.: Platz der Opfer des Nationalsozialismus - Teilprojekt Ottostraße
+- TOP .14.: Schrammerstr. 3: Umbau Ladengeschäft, Änderung Fassade, Arkade im EG
+- TOP .15.: NACHTRAG: Rumfordstr. 35: Errichtung einer Freischankfläche
+- TOP .1.: Erlass einer Erhaltungssatzungen ?Gärtnerplatzviertel?
+- TOP .1.: Vorstellung des Veranstaltungskonzeptes für den Nektar Beach auf der Praterinsel
+- TOP .1.: Bürger: Reduzierung der Straßenmusik
+- TOP .2.1: Gaststätten
+- TOP .1.: Gaststätte "Trattoria Seitz", Seitzstr. 12: Erweiterung / Änderung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Oettingenstr. 44/Lerchenfeldstr.:Obstverkaufsstand
+- TOP .2.: Pfisterstr. 6: Warenauslage für "Handtke Art Collection"
+- TOP .3.: (E) Entfernung eines Obst- und Gemüsestandes auf dem Thierschplatz (Ziffer 1)
+- TOP .4.: (E) Abstellen von Fahrrädern gewerblicher Unternehmen in der Neuturm-/Hochbrückenstraße und am Thomas-Wimmer-Ring (Ziffer 3 des Antrags)
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: ?16. Japanfest? am 17.07.2011, Japanisches Teehaus Englischer Garten
+- TOP .2.: ?Fränkisches Weinfest? vom 08.07. - 24.07.2011, Alter Hof
+- TOP .3.: ?Info-Veranstaltung des ASB? am 02.07.2011, Neuhauser Straße
+- TOP .4.: ?Rosenkranzgebete an der Mariensäule? am 13.10.2011, Marienplatz
+- TOP .5.: ?Info-Veranstaltung des Malteser Hilfsdienst e.V.? am 28.05.2011, Neuhauser Straße
+- TOP .6.: ?Straßenfest Bayerischer Brauereien e.V. am 02.05.2011, Oskar-von-Miller-Ring/Brienner Straße?
+- TOP .7.: ?Protestkapelle? vom 30.06. - 29.07.2011, Neuhauser Straße
+- TOP .8.: "60 Jahre Riesengebirgstrachtengruppe" am 21.05.2011
+- TOP .9.: Wallfahrt des Pferdezuchtverbands Oberbayern am 05.06.2011
+- TOP .10.: "Info-Veranstaltung Erzb. Ordinariat" am 20.05.2011 auf dem Karlsplatz
+- TOP .11.: "Spielabende" in der Zeit vom 01.05. - 30.10.2011 in der Neuhauser Straße
+- TOP .12.: "Protest im öffentlichen Raum", diverse Termine auf dem Rindermarkt, Marienplatz und am Sendlinger Tor
+- TOP .13.: NACHTRAG: "50 Jahre FreizeitSport 1961 - 2011" am 30.04.2011 auf dem Marienplatz
+- TOP .1.: Werbenutzungsvertrag der Landeshauptstadt München
+- TOP .2.: Schreiben des KVR: Verlagerung der BI Mitte in das Tal 31
+- TOP .3.: Schreiben des KVR zur Sondernutzungserlaubnis für eine Warenauslage der "Boutique Linda im Rathaus", Marienplatz 8, TOP 2011.02 C 2.2.7
+- TOP .1.: Entfällt (siehe Top 2011.03 H 7)
+- TOP .2.: Bürger: Warteampel an der Tramhaltestelle Nationaltheater
+- TOP .3.: Fraktion Bündnis90/Die Grünen und SPD: Umwandlung eines KFZ-Stellplatzes in Fahrradabstellplätze in der Westenriederstraße
+- TOP .4.: UA: Sicherung der Zugänglichkeit der öffentlichen Freifläche nördlich der Lukaskirche
+- TOP .5.: UA: Versuchsweise Errichtung von Farhrradabstellplätzen in der öffentlichen Freifläche nördlich der Lukaskirche
+- TOP .6.: Fraktion Bündnis 90/Die Grünen: Rechtliche Abklärung des Status der öffentlichen Freifläche nördlich der Lukaskirche
+- TOP .1.: Verlängerung der Ampelgrünphase Prinzregenten- / Wagmüllerstraße (Ziffer 3)
+- TOP .2.: Erweiterung der Fußgängerzone in der Salvatorstraße - Optimierung der Barrierefreiheit
+- TOP .1.: Abschaltung Lichtzeichenanlage Oettingen-/ Tivolistraße: Evaluation der Probephase
+- TOP .2.: Außerordentliche Bürgerversammlung zur 2. S-Bahn-Stammstrecke für de Stadtbezirke 1, 2, 5, 8, 9 und 25
+- TOP .3.: Pfarrstraße 10: Baumfällungen
+- TOP .4.: Lerchenfeldstraße 4 - 6: Baumfällungen, vertagt aus 2011.02 D 3.5
+- TOP .5.: Parklizenzbeschilderung für die städtische Privatstraße 'Am Gries', vertagt aus 2011.02 D 3.1
+- TOP .6.: Baumfällung: Praterinsel 1, 1 Zuckerahorn
+- TOP .7.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP .1.: Denkmal für verfolgte Schwule und Lesben ? Benennung einer Vertreterin/ eines Vertreters zur Wahl eines Vertreters in der BA-Sitzung am 22.03.2011
+- TOP .2.: Besuch des Kunstausschusses der Lukaskirche
+- TOP .1.: UA: Antrag für ein ?Bunkermuseum? in der Müllerstraße
+- TOP .1.: (E) Budget der Bezirksausschüsse Figurentheater Veranstaltung "20 Jahre Figurentheater" am 26.11.2011
+- TOP .1.: ?Tag des offenen Denkmals?
+- TOP .2.: Rückforderung eines bewilligten Zuschusses aus dem BA-Budget für ZAB e.V., TOP 2011.2 E 3.1
+- TOP .3.: Aktionstag für Familien am 06.05.2011
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Mittelfristige Finanzplanung 2010 ? 1014 (steht im Schrank oben rechts)
+- TOP 0.2.: Schreiben des Oberbürgermeisters bzgl. Barrierefreiheit bei BA-Sitzungen und Bürgerversammlungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Erwerb der Mannhardtstraße 5 durch die Stadt München (Ziffer 2)
+- TOP 0.5.: Schreiben des BA 3, BA 7, BA 9, BA 14 und des BA 18 bzgl. des Antrags des BA 1 zum Thema Spielhallen, TOP 2011.01 B 1.2
+- TOP 0.6.: Antwortschreiben des Amts für Wohnen und Migration zur Zweckentfremdung Frauenstr. 4, TOP 2011.01 B 3.1.2
+- TOP 0.7.: Bekanntgabe Planungsausschuss vom 23.02.2011: Projekt des Deutschen Instituts für Urbanistik ? Herausforderungen des demografischen Wandels bewältigen
+- TOP 0.8.: Bekanntgabe Planungsausschuss vom 23.02.2011: Wohnnahe Versorgung mit öffentlichen Spielflächen
+- TOP 0.9.: Informationen zur Mietergemeinschaft Tattenbachstraße 10
+- TOP 0.10.: Informationen zur Neugestaltung des Sperrengeschosses Marienplatz, Protokoll der Jurysitzung
+- TOP 0.11.: Beschluss Bauausschuss vom 01.03.2011: Technisches Betriebszentrum Schragenhofstraße 6 im 10. Stadtbezirk - Zusammenlegung und Modernisierung sowie örtliche Verlegung
+- TOP 0.12.: Antwortschreiben der LBK zur BA-Anfrage bzgl der Baugenehmigungen zur Sonnenstr. 29, TOP 2010.12 B 3.1.5
+- TOP 0.13.: Vorbescheid zur Oettingstraße 6-8
+- TOP 0.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.15.: Beschluss Vollversammlung Stadtrat vom 16.02.2011: Erneuerung der Beleuchtung im Altstadtringtunnel und im Brudermühltunnel
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung vom 17.02.2011 zur Veranstaltung ?Geldbeutelwaschen?
+- TOP 0.6.: Ergänzungen zum ?Kinderfasching der kleinen Wiesnwirte? und ?München narrisch?, TOP 2011.02 C 3.1.11 N (siehe dazu auch TOP C 4.1 im Extraordner)
+- TOP 0.7.: Eilentscheidung: Veranstaltung "Medal Plaza" auf dem Marienhof am 03.03.2011
+- TOP 0.8.: Eilentscheidung: Umzug des Narhalla Prinzenwagens am 08.03.2011
+- TOP 0.9.: Antwortschreiben des KVR bzgl. Stellungnahme der UNB zum Isarinselfest 2010, TOP 2010.09 C 3.2.1
+- TOP 0.10.: Eilentscheidung: Laufaktion pro Olympia 2018 - PROLYMPIC RUN - am 03.03.2011
+- TOP 0.1.: Baumfällung Blumenstraße / Altkatholische Kirche
+- TOP 0.2.: Parkraummanagement. Einbeziehung des Nebenfahrbereichs Maximilianstr. Nordseite zwischen Stern- und Widenmayerstr. ins Parklizenzgebiet ?Mittleres Lehel?
+- TOP 0.3.: Antwortschreiben des KVR zur BA-Anfrage nach den Alterskontrollen in Spielhallen, TOP 2011.01 E 1.2
+- TOP 0.4.: Antwortschreiben des KVR zur Bürgeranfrage wegen der Ampel Steinsdorfstraße / Mariannenbrücke, TOP 2011.01 D 1.3
+- TOP 0.5.: Schreiben des KVR an einen Bürger bzgl. des Absoluten Halteverbots vor dem Anwesen Oettingenstr. 42
+- TOP 0.6.: Antwortschreiben des KVR zur Aufforderung des BA den Prälat-Miller-Weg verstärkt auf widerrechtliches Parken zu kontrollieren, TOP 2011.01 D 1.2
+- TOP 0.7.: Beschluss der Vollversammlung vom 16.02.2011: Anwohnergaragen in München, Neufassung vom 09.02.2011
+- TOP 0.8.: Informationen zur Neugestaltung des Sperrengeschosses Marienplatz, Protokoll der Jurysitzung, siehe TOP B 4.10
+- TOP 0.9.: Wertstoffsammelsystem der Stadt München
+- TOP 0.10.: Antwortschreiben zum BA-Antrag Nr. 2578: Straßenschwellen und Schrittgeschwindigkeit auf dem Weg vom St.-Anna-Platz zur Pfarrei
+- TOP 0.11.: Antwortschreiben des KVR bzgl. Parkplätze in der Marienstraße, TOP 2011.02 D 3.6 N
+- TOP 0.12.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.03.2011: Anwohnergaragen in München
+- TOP 0.13.: Schreiben des AWM bzgl. Christbaumentsorgung - Weitere haushaltsnahe Sammelplätze
+- TOP 0.1.: Eingangsbestätigung des Direktoriums zum Schreiben des BA 1 bzgl. des Bolzplatz der Glockenbachwerkstatt
+- TOP 0.2.: Verwendungsnachweis Caritas Kinderkrippe, TOP 2010.09 E 2.1
+- TOP 0.3.: Schreiben an die Antragsteller der Ausstellung ?Totò im Valentin Karlstadt Musäum?
+- TOP 0.4.: Zuwendungsbescheid für die Initiative "art.homes" TOP 2011.02 E 2.2
+- TOP 0.5.: Beschluss der Vollversammlung vom 16.02.2011: München lebt Vielfalt - Interkultureller Integrationsbericht 2010
+- TOP 0.6.: Schreiben des Oberbürgermeisters bzgl. Anerkennung eines engagierten Bürgers im BA 1
+- TOP 0.7.: Antwortschreiben der PI 11 bzgl. Alterskontrollen in Spielhallen, TOP 2011.01 E 1.2 N
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
