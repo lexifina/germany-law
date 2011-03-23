@@ -1,0 +1,104 @@
+# 45. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2011-03-23T17:00:00+01:00
+- Ende: 2011-03-23T22:15:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1430
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1430
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Nachwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Veränderungssperre XIV-56d/25 für die Grundstücke Johannisthaler Chaussee 441, 443 und Buckower Damm 229, 231 im Bezirk Neukölln, Ortsteil Buckow im Geltungsbereich des Bebauungsplanentwurfes XIV-56d ("Johannisthaler Chaussee/Buckower Damm/Heideläufer Weg") - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Sanierungsgebiet Karl-Marx-Straße/Sonnenallee - beantwortet
+- TOP 9.2: Auswirkungen der Tunnelarbeiten der BVG? - beantwortet
+- TOP 9.3: Brandstiftungen in Neukölln - beantwortet
+- TOP 9.4: Kiezstreifen in Neukölln - beantwortet
+- TOP 9.5: Inklusiv-Schulen - beantwortet
+- TOP 9.6: Geklärtes Abwasser aus dem Klärwerk Waßmannsdorf ins Rudower Fließ - beantwortet
+- TOP 9.7: Standortwechsel für die Feuerwache Buckow? - beantwortet
+- TOP 9.8: Nutzungskonzept am Tempelhofer Weg - beantwortet
+- TOP 9.9: Ehrenamtskarten - beantwortet
+- TOP 9.10: Bebauung des Tempelhofer Feldes - beantwortet
+- TOP 9.11: "Sturz in die Tiefe" - beantwortet
+- TOP 9.12: Bundesfinanzierung einer halben zusätzlichen Stelle für Kitas im Rahmen der Sprachförderung - schriftlich beantwortet
+- TOP 9.13: Tulpenzwiebeln für Neukölln - schriftlich beantwortet
+- TOP 9.14: Schuleingangsuntersuchungen - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 10.1: Tempelhofer Feld - beantwortet
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Mehr Bürgerbeteiligung und Transparenz (1) Bürger sollen ihre Anliegen in die Ausschüsse tragen können - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Schulwegsicherung Karl-Weise-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Chancengleichheit für alle Neuköllner Kinder - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Kleiner Kreisverkehr an der Köpenicker Straße/Kanalstraße/August-Froehlich-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Haltverbot Alt-Buckow - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Ausgabe des Bildungspaketes - beantwortet
+- TOP 12.2: Scheinanmeldungen und keine Ende - Wann gibt es endlich eine Verbesserung? - beantwortet
+- TOP 12.3: Ideen für den Hafen Britz? - schriftlich beantwortet
+- TOP 12.4: Kleingartenkoloniegelände am Mergenthalerring - beantwortet
+- TOP 12.5: Aktionsraum plus? - beantwortet
+- TOP 12.6: Wertstoffcontainer der BSR auf öffentlichem Straßenland im Bezirk Neukölln - beantwortet
+- TOP 12.7: Stromausfall am 10.03.2011 in Britz - beantwortet
+- TOP 12.8: Bürgerarbeit - beantwortet
+- TOP 12.9: Mietentwicklung in Neukölln - beantwortet
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Kinderarbeitsfreier Platz der Stadt Hof - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Identifikation stiften - Jeder Schule ihren Namen - überwiesen
+- TOP 14.3: Ausweisung eines Hundeauslaufgebietes an der Groß-Ziethener Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Rauchwarnmelderpflicht endlich auch in Berlin durchsetzen! - mit Änderungen in der BVV beschlossen
+- TOP 14.5: Naschgärten und -spielplätze - überwiesen
+- TOP 14.6: Sanierungsgebiet Karl-Marx-Straße - in der BVV zurückgezogen
+- TOP 14.7: Scheinanmeldungen verhindern! - überwiesen
+- TOP 14.8: Entwicklungskonzept Hafen Britz - überwiesen
+- TOP 14.9: Fahrrad-Abbiegespur vom Kottbusser Damm in die Weserstraße - überwiesen
+- TOP 14.10: Begrenzung der Zuwanderung in das Sozialsystem - überwiesen
+- TOP 14.11: Ausweisung einer Erhaltungssatzung - überwiesen
+- TOP 14.12: Tempo 100 auf der Stadtautobahn - überwiesen
+- TOP 15: Mitteilungen - (offen)
+- TOP 15.1: Zuschüsse für Insolvenzberatung 2010/2011 bedarfsorientiert anpassen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Änderung der Geschäftsordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.3: Beratungshilfegewährung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.4: Beleuchtung Schwarzer Weg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.5: Deutsch-Förderunterricht verstärken - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.6: Lernqualität an der Konrad-Agahd-Grundschule - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.7: Recht auf Schulbesuch für alle Kinder - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.8: Durchsetzung des Rauchverbots in Gaststätten - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Zustimmung zur Entscheidung über die Erneuerung der Mischwasserkanäle der Mierstraße zwischen Lahnstraße und Mittelbuschweg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.2: Tempelhofer Feld - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Radstreifen Werbellinstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Zwangsarbeiterlager - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Bebauungsplan XIV-78 (Hermannstraße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Seniorenvertretung in Neukölln stärken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: NGA - Datenbank komplettieren - GRIS umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Schrittweise Umsetzung des Friedhofsentwicklungsplanes (FEP) für die landeseigenen Friedhöfe in Berlin-Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Fußgängerüberweg Fulhamer Allee/Parchimer Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Weiterführung der A 100 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Kita-Ausbildungsverbund - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Zusammenarbeit mit der islamischen Gemeinde Milli Görüs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Homophobie in Neuköllner Jugendeinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Erweiterung der Freiwilligenbörse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Zivilgesellschaftliches Engagement absichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Bebauungsplan XIV-179 vom 21.4.2009 - Campus Rütli - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Schillerkiez beruhigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Haltverbot am Wochenmarkt Fritz-Reuter-Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Tempo-30-Zone verdeutlichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Querungshilfe vor dem Campus Rütli - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Querparken in der Reuterstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Baumpflanzaktion im Herbst 2010 und Frühjahr 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Grundwasserstand im Rudower Blumenviertel - mit Abschlussbericht zur Kenntnis genommen
