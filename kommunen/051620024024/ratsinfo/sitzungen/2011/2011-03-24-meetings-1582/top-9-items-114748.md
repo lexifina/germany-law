@@ -1,0 +1,8 @@
+# TOP 9: Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 14.03.2011 betr.: Betreuungslücken
+
+- Sitzung: Hauptausschuss (2011-03-24)
+- Körperschaft: Stadt Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/agendaitems/114748
+- Ergebnis: verwiesen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/consultations/11282
