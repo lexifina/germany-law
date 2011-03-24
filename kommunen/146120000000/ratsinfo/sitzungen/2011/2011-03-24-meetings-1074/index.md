@@ -1,0 +1,56 @@
+# 25. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-03-24T16:00:00+01:00
+- Ende: 2011-03-24T22:15:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1074
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1074
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2011_03_24 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00057847.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden; Kommunalwahlkreis IV - Mandat BÜNDNIS 90/DIE GRÜNEN (GRÜNE) - Zustimmung
+- TOP 2: Verpflichtung eines Stadtrates gemäß § 35 Abs. 1 SächsGemO
+- TOP 3: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 4: Bericht der Oberbürgermeisterin
+- TOP 5: Aktuelle Stunde zum Thema "Null-Toleranz gegenüber gewalttätigen Demonstranten - Dresden darf keine Bühne für rechte und linke Chaoten werden" - zur Kenntnis genommen
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Umbesetzung im Ausschuss für Wirtschaftsförderung - gewählt
+- TOP 8: Umbesetzung im Betriebsausschuss für Sportstätten und Bäder - erneute Beratung
+- TOP 9: Umbesetzung Ortsbeirat Neustadt - Zustimmung
+- TOP 10: Umbesetzung im Ortsbeirat Klotzsche - Zustimmung
+- TOP 11: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 12: Umbesetzung in der Verbandsversammlung des Zweckverbandes VVO - erneute Beratung
+- TOP 13: Schule zur Lernförderung, Förderzentrum "A. S. Makarenko", Leisniger Straße 76, 01127 Dresden, hier: Verlagerung der Außenstelle "Pestalozzi", Luboldtstraße 15, 01324 Dresden - Verweisung
+- TOP 14: Instandsetzung, Modernisierung und Umbau des Kulturpalastes im Sinne der Erhaltung als Gemeinbedarfs- und Folgeeinrichtung mit dem Hauptzweck: Konzertsaal der Dresdner Philharmonie, Städtische Zentralbibliothek und Kabarett "Die Herkuleskeule" - punktweise Zustimmung
+- TOP 15: Wilsdruffer Vorstadt: Kenntnisnahme VU-Bericht und Auftrag zur Akquirierung von Fördermitteln - Vertagung
+- TOP 16: Finanzielle Neuordnung der Stadionverträge zugunsten des Spielbetriebes durch den SG Dynamo Dresden e. V. - punktweise Abstimmung
+- TOP 17: Bericht zur Erfüllung des Stadtratsbeschlusses vom 18. März 2010 - Zuschusserhöhung zu Gunsten der Stadion Dresden Projektgesellschaft mbH - Vertagung
+- TOP 18: Geschäftsführervakanz der NanoelektronikZentrumDresden GmbH - Zustimmung
+- TOP 19: Satzung zur Änderung der Jahr- und Spezialmarktsatzung der Landeshauptstadt Dresden vom 10. Dezember 1992, zuletzt geändert am 19. November 2009 - Zustimmung
+- TOP 20: Auswahlverfahren Spezialmärkte - Zustimmung
+- TOP 21: Verkauf des Grundstückes Bautzner Straße 112 bis 116 - Vertagung
+- TOP 22: Erhalt und Entwicklung eines strukturreichen Altbaumbestandes auf dem Gebiet der Landeshauptstadt Dresden - Vertagung
+- TOP 23: Einführung einer Gruppenkarte für Schulen und Kindergärten zur kostenlosen Nutzung des öffentlichen Personennahverkehrs im Rahmen des Unterrichts (Unterrichtsfahrkarte) - Vertagung
+- TOP 24: Änderung der Satzung der Landeshauptstadt Dresden über Erlaubnisse und Gebühren für Sondernutzungen der öffentlichen Straßen in Dresden (Sondernutzungssatzung) - Zustimmung mit Änderung
+- TOP 25: Musikalische Bildung - Vertagung
+- TOP 26: Erweiterung des Skaterparkes an der Lingnerallee - Vertagung
+- TOP 27: Unterstützung der Landeshauptstadt Dresden für ein Sanktionsmoratorium - Vertagung
+- TOP 28: Erwerb der Erweiterungsfläche am Alaunplatz, Gemarkung Dresden-Neustadt, Flurstück 2865/1, (ehemaliger sogenannter "Russensportplatz") - Vertagung
+- TOP 29: Sicherung der Möglichkeit zur Westerweiterung des Alaunparks - Vertagung
+- TOP 30: Verkehrsberuhigte Zone Altlaubegast - Vertagung
+- TOP 31: Sicherung des Betriebes der Schwimmhalle Klotzsche - Vertagung
+- TOP 32: Vergabe eines Erbbaurechtes für die Flurstücke 711/11 und 711/13 der Gemarkung Altstadt I - Zustimmung
+- TOP 33: Dresden - Stadt der bewegungsfreudigen und gesunden Kinder: Modellkonzept für fortschrittliche Bewegungs- und damit Gesundheitsförderung im Kindesalter - Vertagung
+- TOP 34: Optimierung der Struktur und der Dienstleistungsqualität des Bürgerservice in der Landeshauptstadt Dresden - Vertagung
+- TOP 35: Innovationspreis "Familienfreundlichstes Unternehmen Dresdens" - Zustimmung
+- TOP 36: Veränderung des Sondervermögens des Eigenbetriebes Kindertageseinrichtungen für das Wirtschaftsjahr 2010 - Zustimmung
+- TOP 37: Neue Autobahnanschlussstelle an die BAB A 4 in Dresden-Weixdorf zwischen Autobahndreieck Dresden-Nord und Autobahnanschlussstelle Hermsdorf (Arbeitstitel: AS Promigberg) - Zustimmung
+- TOP 38: Fortschreibung des verkehrlichen Rahmenplanes für das Kerngebiet der Äußeren Neustadt Dresden - Vertagung
+- TOP 39: Ziele für die künftige Verkehrsentwicklung der Landeshauptstadt Dresden für den Zeithorizont 2025 und darüber hinaus - Zustimmung mit Änderung
+- TOP 40: Verkehrsmanagementsystem Region Dresden - 2. Ausbaustufe, Erweiterung und Weiterentwicklung des Verkehrsmanagementsystems der Landeshauptstadt Dresden - Zustimmung
+- TOP 41: Baustein für ökologischen Stadtumbau - Passivhausstandard für stadteigene und städtisch genutzte Gebäude - Vertagung
