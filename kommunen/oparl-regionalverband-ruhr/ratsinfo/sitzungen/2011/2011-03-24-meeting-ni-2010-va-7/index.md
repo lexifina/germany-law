@@ -1,0 +1,51 @@
+# 6. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2011-03-24T10:00:00+01:00
+- Ende: 2011-03-24T11:20:00+01:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VA-7
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VA-7
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VA-7
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VA-7
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Kunst- und Kulturförderung
+- TOP 1.2: Förderprogramm für den kommunalen Straßen- und Radwegebau 2011 und Rückblick auf 2010
+- TOP 1.3: Förderprogramm für den kommunalen Sonder-Radwegebau 2011 (Radverkehrsförderung) und Rückblick auf 2010
+- TOP 1.4: Naturschutz und Landschaftspflege; Rückblick auf 2010
+- TOP 1.5: Gefährdungsabschätzung und Sanierung von Altlasten; Rückblick auf 2010
+- TOP 1.6: Jahresbericht 2010 zur ländlichen Entwicklung und Bodenordnung
+- TOP 1.7: Städtebauförderung hier: Aufstellung des Stadterneuerungsprogramms 2011
+- TOP 1.7.1: Anfragen und Mitteilungen nach Landesplanungsgesetz zu § 9 Abs. 2 bis 4
+- TOP 1.8: Der Weg zum neuen Regionalplan Ruhr
+- TOP 1.9: 7.Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln - Sachstandsbericht -
+- TOP 1.10: 64.Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Dinslaken und der Gemeinde Hünxe (Umnutzung der Zeche und der Bergehalde Lohberg zu Siedlungs- und Freiraumbereichen)
+- TOP 1.11: Raumordnungsverfahren für 110-/380-kV-Höchstspannungsfreileitung der Firma Amprion von Dortmund-Kruckel nach Dauersberg (Rhld.-Pfalz)
+- TOP 1.12: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wahl des Regionaldirektors bzw. der Regionaldirektorin des Regionalverbandes Ruhr
+- TOP 2.2: Wahl des Bereichsleiters III Planung des Regionalverbandes Ruhr
+- TOP 2.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4: Bericht über die Prüfung des Jahresabschlusses 2008, Feststellung des Jahresabschlusses 2008 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2008
+- TOP 2.4.1: Dienstanweisung für die Finanzbuchhaltung beim Regionalverband Ruhr (RVR)
+- TOP 2.5: Beschluss über die Verwendung des Jahresüberschusses 2008
+- TOP 2.6: Bericht über die Prüfung des Jahresabschlusses 2009, Feststellung des Jahresabschlusses 2009 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2009
+- TOP 2.7: Beschluss über die Behandlung des Jahresfehlbetrages 2009
+- TOP 2.8: Bestellung einer Prüferin im Referat Rechnungsprüfung
+- TOP 2.9: Verabschiedung der Haushaltssatzung 2011 - Änderungsliste für den Haushalt 2011 des RVR
+- TOP 2.9.1: Strategische Haushaltskonsolidierung 2012 - 2015 Antrag der FDP-Fraktion
+- TOP 2.10: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2010
+- TOP 2.11: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün für das Jahr 2011
+- TOP 2.12: Angelegenheiten der Ruhr Tourismus GmbH (RTG) - Abgabe einer Verpflichtungserklärung im Rahmen des Landeswettbewerbs auf Grund des Ziel 2-Programms Erlebnis.NRW
+- TOP 2.13: Geonetzwerk Metropole Ruhr - Geodatenkooperation -
+- TOP 2.13.1: Geonetzwerk Metropole Ruhr - Geodatenkooperation
+- TOP 2.14: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
