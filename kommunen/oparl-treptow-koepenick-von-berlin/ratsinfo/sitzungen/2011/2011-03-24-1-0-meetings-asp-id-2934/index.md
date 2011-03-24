@@ -1,0 +1,90 @@
+# 49. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-03-24T16:30:00+01:00
+- Ende: 2011-03-24T19:30:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2934
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2934
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=100699
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: 100 Jahre Bohnsdorfer Feuerwehr - ohne Änderungen in der BVV beschlossen
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-51 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Aufhebung des Bezirksamtsbeschlusses 339/2009 über die Neuregelung von Raumüberlassung an Dritte im Bezirk Treptow-Köpenick - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Zustimmung zur Ausbauvariante für den Ausbau der Josef-Nawrocki-Straße von Müggelseedamm bis Müggelseedamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Zustimmung zur Ausbauvariante für den Ausbau des Akazienhofs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Zustimmung zur Ausbauvariante der Berliner Wasserbetriebe für den Ausbau der Straßenentwässerung in der Godbersenstraße vom Adlergestell bis zur Lindenstraße - überwiesen
+- TOP 11.4: Zustimmung zur Ausbauvariante der Berliner Wasserbetriebe für den Ausbau der Straßenentwässerung im Adlergestell von Zum Seeblick bis Wernsdorfer Straße - überwiesen
+- TOP 11.5: Sondermittel für Tennisclub Grün-Weiß Rahnsdorf e. V. (SM 1102) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Förderverein Freiwillige Feuerwehr und Jugendfeuerwehr Berlin-Grünau e. V. (SM 1104) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für PSV Olympia Berlin e. V. (SM 1107) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Allgemeinen Blinden- und Sehbehindertenverein Berlin gegr. 1874 e. V. (SM 1108) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Junge Oper Berlin/Alte Möbelfabrik e. V. (SM 1109) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für NaturFreunde Berlin e. V. (SM 1110) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für SG Fernsehen Berlin e. V. (SM 1112) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittel für Kulturring in Berlin e. V. (SM 1113) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Straßenbenennung nach Minna Todenhagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Gedenktafel für Steffie Spira - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Fahrradabstellanlagen in Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Abfahrt von Fernbuslinien im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Fahrradstraße in der Kiefholzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Treptow-Köpenicker Interessen im laufenden B-Plan-Verfahren 11-47 wahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Umgang mit schuldistanzierten Jugendlichen nach § 32 KJHG beim Jobcenter - mit Änderungen in der BVV beschlossen
+- TOP 12.8: Buslinie 167 – Verringerung der Taktzeiten - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Lösungen für Wasserstau am S-Bahnhof Rahnsdorf entwickeln - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: "Offenen Wohnungen" von Pädosexuellen wirksam entgegentreten - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Schulwegsicherung für Grundschule in der Kiefholzstraße in Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Denkmalschutz Villa ehemalige Bärenquell-Brauerei - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Mehr Patenschaften im öffentlichen Grün - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Relief "Das Leben" im DRK-Krankenhaus nicht verstecken - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Spielplatz Porzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Eidechsenweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Touristisches Hinweisschild für den Industriesalon Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Denkmalgerechte Restaurierung des Rathauses Treptow fortsetzen - mit Änderungen in der BVV beschlossen
+- TOP 12.19: Mobile Bürgerdienste in Treptow-Köpenick ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Umsetzung der UN-Konvention über die Rechte der Menschen mit Behinderungen – Aktionsplan für Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Anmeldung zur Investitionsplanung 2011 bis 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-55 („Am Wiesenweg“) hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Neufassung der Stiftungssatzung der Sozialstiftung Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Beteiligung an der Earth Hour des WWF - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Älteste Wassersportstätte Berlins kenntlich machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Altkleidercontainer im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Zeitverträge im Ordnungsamt entfristen - im Ältestenrat zurückgezogen
+- TOP 14.5: Fußgängerüberweg in Johannisthal sichern - überwiesen
+- TOP 14.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14.7: Restaurierung und Renovierung beim Standesamt im Rathaus Köpenick - überwiesen
+- TOP 14.8: Hausboote im Treptower Hafen - überwiesen
+- TOP 14.9: Touristische Hinweise am Bahnhof Grünau - überwiesen
+- TOP 14.10: Kampf der Verwahrlosung hier: Grundstück Werderstraße/Ecke Grünauer Straße (Altglienicke) - überwiesen
+- TOP 14.11: Energieeffiziente Gebäudesanierung (I) - überwiesen
+- TOP 14.12: Arbeit statt Arbeitslosigkeit finanzieren - mit Änderungen in der BVV beschlossen
+- TOP 14.13: Hinweisschild Ortsteil Adlershof - überwiesen
+- TOP 14.14: Energieeffiziente Gebäudesanierung (II) - überwiesen
+- TOP 14.15: Passiver Schallschutz für Anwohnerinnen und Anwohner des Flughafens - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Moratorium für Demontage der Sportanlage Birkenwäldchen - überwiesen
+- TOP 14.17: Radverkehrsführung in der Puschkinallee während der Sperrung - überwiesen
+- TOP 14.18: Förderprogramm LIFE+ "Umweltpolitik und Verwaltungspraxis" nutzen - überwiesen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bearbeitungsstand von BVV-Beschlüssen - vertagt
