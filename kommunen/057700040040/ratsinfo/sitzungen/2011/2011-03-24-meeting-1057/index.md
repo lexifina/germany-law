@@ -1,0 +1,55 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2011-03-24T17:00:00+01:00
+- Ende: 2011-03-24T20:30:00+01:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZdoJOW8eyr4WJ5XGD-Hn8kI
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1057
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZX20SvZofiIRShFpu2NNZbf3JIx433IdrPM5k7U-iWaY/Bekanntmachung_Rat_24.03.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeJitsbhzEApYikCmMEqSHIZRWWNdSUW79thzRHtRqNE/Oeffentliche_Niederschrift_Rat_24.03.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Antrag der Werbegemeinschaft Rahden auf Gewährung einer finanziellen Unterstützung für die Durchführung des Stadtfestes/Rahdener Marktes - 21 Stimmen dafür (CDU/FDP), 15 dagegen (SPD/FWG/Die Grünen), 1 Enthaltung (Schepsmeier)
+- TOP 5.: Freiwilliges Soziales Jahr im Sport - 28 Stimmen dafür, 2 dagegen, 7 Enthaltungen
+- TOP 6.: Einwendungen der „Frühschwimmer“ gegen den ab 01.01.2011 geltenden Badtarif - Einstimmig, 0 Enthaltungen
+- TOP 7.: Umsetzung des integrierten städtischen Entwicklungskonzeptes für die Innenstadt; hier: Sachstandsbericht und Beschlussfassung der Vergaberichtlinie über die Gewährung von Modernisierungszuwendungen im Sanierungsgebiet „Rahden Innenstadt“ - Einstimmig, 0 Enthaltungen
+- TOP 8.: Umgestaltung des Bahnhofsumfeldes in Rahden; hier:Durchführung und Ausschreibung der Baumaßnahme - 23 Stimmen dafür (CDU/FDP/Die Grünen), 14 dagegen (SPD/FWG), 0 Enthaltungen
+- TOP 9.: Beratung und Beschlussfassung über den Stellenplan 2011 - Einstimmig, 0 Enthaltungen
+- TOP 10.: Entwurf der Haushaltssatzung 2011 mit Haushaltsplan - 28 Stimmen dafür, 8 dagegen (FWG/Die Grünen/Bruhn), 1 Enthaltungen (Spreen)
+- TOP 11.: Dichtheitsprüfung der privaten Abwasseranlagen nach § 61 a Landeswassergesetz (LWG) NRW, Aufstellung eines Zeitplanes - 35 Stimmen dafür, 2 dagegen (Die Grünen), 0 Enthaltungen
+- TOP 12.: Erlass einer neuen Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung im Gebiet der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 13.: 9. vereinfachte Änderung des Bebauungsplanes Nr. 34 "Mühlendamm" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 14.: Aufstellung eines vorhabenbezogenen Bebauungsplanes gemäß § 12 Baugesetzbuch (BauGB) für den Bereich "Varler Straße/Kleines Feld" in der Ortschaft Varl sowie 69. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 15.: Umwandlung der Grundschule Varl in eine Offene Ganztagsgrundschule zum Schuljahr 2011/12 - Einstimmig, 0 Enthaltungen
+- TOP 16.: "EFRE - Mobilität mit Spaß" - 35 Stimmen dafür, 1 dagegen (Straßburg), 0 Enthaltungen
+- TOP 17.: Ersatzwahlen zu Ausschüssen - Einstimmig, 0 Enthaltungen
+- TOP 18.: Neu- bzw. Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk Wehe - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bekanntgaben
+- TOP 19.1: Flurgestaltung des Rathaus
+- TOP 19.2: 14. Rahdener Unternehmerstammtisch
+- TOP 19.3: DSL-Ausbau
+- TOP 19.4: Klimaolympiade des Kreise Minden-Lübbecke
+- TOP 19.5: OGGS Varl
+- TOP 19.6: Schulwegsicherung an der Grundschule Tonnenheide
+- TOP 20.: Verschiedenes
+- TOP 20.1: Einschulungsuntersuchung
+- TOP 20.2: Fonds für sozial schwache Familien
+- TOP 20.3: Schulwegsicherung in Rahden
+- TOP 20.4: Energieverträge der Stadt Rahden
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 21.: Planungsangelegenheiten - 25 Stimmen dafür, 7 dagegen, 3 Enthaltungen
+- TOP 22.: Bekanntgaben
+- TOP 22.1: Nebeneinkünfte
+- TOP 22.2: Einrichtung integrativer Lerngruppen
+- TOP 22.3: Besetzung der Stelle der/des Tourismusbeauftragten
+- TOP 22.4: Arbeitszeit der Archivarin Stefanie Hillebrand
+- TOP 23.: Verschiedenes
