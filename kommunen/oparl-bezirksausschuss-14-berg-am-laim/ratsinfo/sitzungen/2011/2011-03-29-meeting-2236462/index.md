@@ -1,0 +1,114 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-03-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236462
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236462
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Ausbau des Hachinger Baches zwischen Michaelibad und Bahnlinie sowie Renaturierung nördlich der Heinrich-Wieland-Straße (Sachstandsmitteilung und schnelle Fertigstellung - bis spätestens 2011 - der Grünanlage Michaelianger mit Freilegung des Hachinger Baches) - <div></div>
+- TOP 2.2.: Barrierefreier Ausbau der Bushaltestelle ?Josephsburg?
+- TOP 2.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 14 Berg am Laim Widmung von Teilstrecken der Heilbrunner Straße - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Werbenutzungsvertrag der Landeshauptstadt München
+- TOP 3.1.1.2.: Kürzungen im Bund-Länder-Förderprogramm (Grundprogramm sowie Programm "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf ? die soziale Stadt")
+- TOP 3.1.1.3.: Billigungsbeschluss Bebauungsplan mit Grünordnung Nr. 1980 - Hansjakobstraße (nördlich), Roßsteinstraße (östlich), Hohenburgstraße (südlich) (Teiländerung des Beb.Pl. Nr. 26) - Einwohnerversammlung zur Bebauungsplanerörterung
+- TOP 3.1.2.1.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern - Untersuchungsergebnisse und weiteres Vorgehen
+- TOP 3.1.2.2.: Verbesserungen an der Linie 19 im Bereich Berg am Laim
+- TOP 3.1.2.3.: 10-Minuten-Takt für den Bus 144 an der Ampfingstraße auch am Samstag
+- TOP 3.1.2.4.: Parkmöglichkeiten in der Waldstraße
+- TOP 3.1.2.5.: Baumkirchner Straße - Wochenmarktplatz - Antrag auf absolutes Haltverbot - <div></div>
+- TOP 3.1.2.6.: Aufweitung des Radwegs in der Berg-am-Laim-Straße vor Haus-Nr. 79a
+- TOP 3.1.2.7.: Radfahrstreifen / Schutzstreifen in der Truderinger Straße zwischen Riedenburger Straße und Roßsteinstraße, Anpassung der Beschilderung in der S-Bahn-Unterführung
+- TOP 3.1.2.8.: Signalschaltung für Fahrradfahrer an der Kreuzung Ampfingstraße / Berg-am-Laim-Straße
+- TOP 3.1.2.9.: Ausbau des Radweges an der Südseite der Neumarkter Straße
+- TOP 3.1.3.1.: Wertstoffsammelstelle Josephsburgstraße / Berg-am-Laim-Straße
+- TOP 3.2.1.: Schaffung eines zentralen Versammlungs- und Veranstaltungsortes im Zuge der Neuplanung der Sportstätten des ESV München Ost - <div></div>
+- TOP 3.2.2.: Einweihung des Wohnprojektes WAL am 26.07.2011 an der Achentalstr. / Pertisaustraße
+- TOP 3.2.3.: Festival der Marionetten vom 05.-13.09.2011 an der Festwiese St.-Veit-Straße
+- TOP 3.2.4.: Gastspiel Zirkus Baldoni vom 06.-16.10.2011 an der Festwiese St.-Veit-Straße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Aktionstag für Familien am 06.05.2011
+- TOP 3.5.1.: Änderung BA-Katalog Kreisverwaltungsreferat - Genehmigung von Schießstätten und Feuerwerken
+- TOP 3.5.2.: Mittelfristige Finanzplanung 2010 - 2014
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Maibaumverein Berg am Laim e.V. Maifeier am 01.05.2011 - <div></div>
+- TOP 3.5.4.: (E) Budget der Bezirksausschüsse GTEV Bayrischzeller München 100 Jahre Fahne, Feier am 17.07.2011 - <div></div>
+- TOP 3.5.5.: (E) Budget der Bezirksausschüsse TheaterSpielkunst e.V. Theaterpädagogisches Projekt ab April bis Dezember 2011 - <div></div>
+- TOP 3.6.1.: Maria-Eck-Platz 2
+- TOP 3.6.2.: Bad-Kissingen-Str. 66
+- TOP 3.6.3.: Bad-Kissingen-Str. 68
+- TOP 3.6.4.: Neumarkter Straße 93
+- TOP 3.6.5.: Plankensteinstraße 5
+- TOP 3.6.6.: Plankensteinstraße 12
+- TOP 3.6.7.: Halserspitzstraße - Fl.Nr. 254/0
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Berg-am-Laim-Straße 93 - Unveränderte Fortführung eines Gaststättenbetriebs
+- TOP 4.1.1.3.: Hohenbrunner Straße 1 + 1a - Abbruch eines Wohngebäudes
+- TOP 4.1.1.4.: Beteiligung der Öffentlichkeit - Frühzeitige Unterrichtung gem. § 3 Abs. 1 BauGB - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich VI/22 und Bebauungsplan mit Grünordnung Nr. 1971 - Baumkirchner Straße (westlich), Bahnlinie München - Rosenheim (südlich) - Planungsdarlegung vom 16.03. mit 18.04.2011
+- TOP 4.1.1.5.: Verkauf der Kleingartenanlage an der Truderinger Straße - <div></div>
+- TOP 4.1.1.6.: Gebäude der ehemaligen Landwirtschaftsschule an der Berg-am-Laim-Straße 38
+- TOP 4.1.1.7.: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München 2011 - 2015
+- TOP 4.1.1.8.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen - Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes -
+- TOP 4.1.1.9.: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze
+- TOP 4.1.1.10.: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen - Antrag Nr. A 02098
+- TOP 4.1.1.11.: Aufwertung der Nutzung des Ostparks für verschiedenste Sport- und Freizeitmöglichkeiten
+- TOP 4.1.2.1.: Leistungsbilanz des Baureferates
+- TOP 4.1.2.2.: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung - Antrag A 01281
+- TOP 4.1.2.3.: Entwicklung des Verkehrs in München - Anträge Nrn. A 00225 und A 01356
+- TOP 4.1.2.4.: Doppelstöckige Fahrradabstellanlagen als Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten - Antrag Nr. A 01879
+- TOP 4.1.2.5.: Linksabbiegeregelung an der Kreuzung Kreillerstr. / Berg-am-Laim-Str. / Baumkirchner Straße
+- TOP 4.1.2.6.: Berg-am-Laim-Str. westl. Einmündung Josephsburgstr. - Beschränkung des Parkens auf Pkw
+- TOP 4.1.2.7.: Streitfeldstraße 24 - Aufhebung eines Haltverbotes
+- TOP 4.1.3.1.: Information zum Wertstoffsammelsystem in der Landeshauptstadt München
+- TOP 4.2.1.: Maifeier in der Baumkirchner Straße am 01.05.2011
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Ergänzung Antrag A 01382
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Jugendgefährdende Musikdarbietung in der Tonhalle (Kultfabrik)
+- TOP 4.4.2.: Sicherung der pädagogischen Betreuung von heranwachsenden bzw. minderjährigen unbegleiteten Flüchtlingen in Wohnprojekten, Unterkunftsanlagen u. angemieteten Wohnungen
+- TOP 4.4.3.: Planungsstand Sozialbürgerhaus
+- TOP 4.4.4.: Umorganisation der Bezirkssozialarbeit
+- TOP 4.4.5.: Protokoll zum Runden Tisch Berg am Laim
+- TOP 4.5.1.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen
+- TOP 4.6.1.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 4.6.2.: Berg-am-Laim-Str. 131-141 - Bescheid
+- TOP 4.6.3.: Buchsteinstraße 3 - Bescheid
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
