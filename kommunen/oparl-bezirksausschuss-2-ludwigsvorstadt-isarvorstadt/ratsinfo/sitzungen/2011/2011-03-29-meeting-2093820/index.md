@@ -1,0 +1,113 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-03-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2093820
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2093820
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse My Sportlady e.V. Kinderernährungskurse von Februar bis Juli 2011 in Schulen im 2. Stadtbezirk
+- TOP .1.: Gedenkfeier zum Jahrestag der Befreiung vom Nationalsozialismus am 08.05.2011 Antrag des BA 19 - Entwurf eines Atwortschreibens an den BA 19
+- TOP .1.: BA-Budget - Bewilligungsbescheide: - Atelierhaus Klenze-/Baumstraße - Pro Migrakunst - Kunstzentrat e.V. - Nachbarschaft Westermühlbach
+- TOP .2.: REGSAM - München spart Steuergelder; Beschluss Kinder- / Jugendhilfeausschuss und Sozialausschuss vom 01.02.2011
+- TOP .3.: Verwendungsnachweise/Kurzberichte (4)
+- TOP .4.: Herausforderungen des demografischen Wandels bewältigen: kommunale Erfahrungen und Ansätze; Bekanntgabe Ausschuss Stadtplanung und Bauordnung vom 23.02.2011
+- TOP .5.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen - Anwendung des ABZ-Modells; Bekanntgabe Ausschuss Stadtplanung und Bauordnung vom 23.02.2011
+- TOP .6.: München lebt Vielfalt - Interkultureller Integrationsbericht 2010; Beschluss Stadtrat vom 16.02.2011
+- TOP .7.: LesBiSchwules Jugendzentrum, Jahresbericht 2010
+- TOP .1.: Bürgeranliegen: mehr Babyschaukeln auf Münchner Spielplätzen
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Erweiterung des Parklizenzgebietes Südfriedhof (Ziffer 2) Ziffer 1 wird separat vom Planungsreferat beantwortet
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Schwanthalerstr. 60: Umbau, Sanierung, Nutzungsänderung (EilE)
+- TOP .2.: Hans-Sachs-Str. 3: Anbau Balkon (EilE)
+- TOP .3.: Pestalozzistr. 7: Nutzungsänderung (EilE)
+- TOP .4.: Bahnhofsplatz 7: Neuorganisation von 8 Shops (EilE)
+- TOP .5.: Lindwurmstr. 75: Sanierung, Umbau, Nutzungsänderung (EilE)
+- TOP .6.: Corneliusstr. 11: Anbau Balkone (EilE)
+- TOP .7.: Ickstattstr. 1a: Umbau (EilE)
+- TOP .8.: Schillerstr. 41: Nutzungsänderung, Umbau (EilE)
+- TOP .9.: Schwanthalerstr. 8: Umgestaltung Vordach (EilE)
+- TOP .10.: Jahnstr. 34: Neubau (EilE)
+- TOP .11.: Bayerstr. 7a: Nutzungsänderung (EilE)
+- TOP .12.: Schwanthalerstr. 24: DG-Ausbau, Einbau Aufzug
+- TOP .13.: Klenzestr. 71: Anbau Aufzug
+- TOP .14.: Goethestr. 3: Nutzungsänderung
+- TOP .15.: Goethestr. 34: Umbau, Aufstockung
+- TOP .16.: Mathildenstr. 5: Erneuerung, Umbau
+- TOP .17.: Zenettistr. 7: Umbau, Nutzungsänderung
+- TOP .18.: Paul-Heyse-Str. 6: Nutzungsänderung
+- TOP .19.: Thalkirchner Str. 51: Errichtung Dachterrasse
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Poccistr. 11
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Umwandlung der Lizenzparkregelung in der Uhlandstraße in reines Mischparken
+- TOP .2.: Werbenutzungsvertrag der LHM
+- TOP .3.: Umwandlung der Lizenzparkregelung in der nördlichen Isartalstraße in kombiniertes Misch-/Bewohnerparken
+- TOP .1.: Baugenehmigungen: - Schillerstr. 17 - Müllerstr. 3-7 (Teilgenehmigung)
+- TOP .2.: Vorkaufsrecht nach dem Bau GB: - Häberlstraße - Schwanthalerstraße
+- TOP .3.: Vollzug der Erhaltungssatzung - Fraunhoferstraße - Maistraße - Tumblingerstraße
+- TOP .4.: Überprüfung Zweckentfremdung von Wohnraum in der Zenettistraße, BA-Antrag Nr. 08-14 / B 00322 vom 29.07.2008; Rückmeldung Sozialreferat: Die Wohnung ist seit April 2010 bezogen.
+- TOP .5.: Radweg im Isarhochwasserbett; erneutes Schreiben des BA 5
+- TOP .6.: Baumaßnahmen SWM: - Wasserprojekt Hermmann-Lingg-Straße
+- TOP .7.: Anwohnergaragen in München; Beschluss Ausschuss für Stadtplanung und Bauordnung vom 02.03.2011
+- TOP .1.: MVG: Sanierung der Straßenbahngleise im 2. Stadtbezirk - Sommer 2011
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Antrag für Freischankfläche: Paul-Heyse-Str. 23
+- TOP .2.: Antrag für Freischankfläche: Ehrengutstr. 14
+- TOP .3.: Antrag für Freischankfläche: Mathildenstr. 7
+- TOP .4.: Antrag für Freischankfläche: Bahnhofsplatz 1
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Antrag für mobilen Fahrradständer: Isartalstr. 18
+- TOP .2.: Antrag für Warenauslage: Fraunhoferstr. 41
+- TOP .3.: Antrag für Warenauslage: Kapuzinerstr. 17
+- TOP .4.: Antrag für Warenauslage: Kapuzinerstr. 5
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Frühlingsfest auf der Theresienwiese vom 29.04. - 15.05.2011
+- TOP .2.: Festumzug zum Frühlingsfest am 29.04.2011
+- TOP .3.: Blade Night jeweils montags vom 09.05.-05.09.2011
+- TOP .4.: Straßenfest "Maikönigin" am 30.04.2011 in der Hans-Sachs-Straße
+- TOP .3.2: Verkehr
+- TOP .1.: LZA für die Radlkofer- / Hans-Fischer-Straße (Vorschlag des BA 8)
+- TOP .2.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP .1.: Unveränderte Gaststättenfortführungen: - Am Glockenbach 12: Little Wonder - Hermann-Lingg-Str. 12: Marmaris - Pestalozzistr. 32: Tropika - Adlzreiterstr. 13: Meteora - Lindwurmstr. 159a: Ruppert's - Bahnhofsplatz 2: Medi Döner
+- TOP .2.: Zentrale Beschlussvollzugskontrolle zur Unterstützung der BAs, Beschluss Vollversammlung vom 26.01.2011
+- TOP .3.: Teilnahme der BAs an Wettbewerben Benennung und Entsendung von Stellvertretern; Beschluss Vollversammlung vom 26.01.2011
+- TOP .4.: Überfüllte Gehwege mit Stühlen und Tischen rund um den Gärtnerplatz, BV-Empfehlung Nr. 08-14 / E 00285; Rückmeldung KVR: verstärkte Kontrollen im vergangenen Jahr durchgeführt (ist auch für 2011 geplant)
+- TOP .5.: Bürgeranliegen: Gestaltung Gärtnerplatz (wurde bereits ans Bau- sowie ans Planungsreferat weitergeleitet)
+- TOP .6.: Versammlungen unter freiem Himmel (4)
+- TOP .7.: Bürgeranliegen: Verstärkte Verkehrsüberwachung in der Lessingstraße (wurde bereits ans KVR und die PI weitergeleitet)
+- TOP .8.: Straßenbeleuchtung vor dem Hbf, Rückmeldung: defekte Lampen werden ausgetauscht
+- TOP .9.: Vermüllung der Lindwurmstraße, Rückmeldung Baureferat: Aufstellen von zwei zusätzlichen Abfallbehältern, verstärkte Kontrolle
+- TOP .10.: Filmaufnahmen auf öffentlichem Verkehrsgrund (3)
+- TOP .11.: Information zum Wertstoffsammelsystem in der Landeshauptstadt - Schreiben des AWM
+- TOP .12.: Kulturstrand München - Interessensbekundungeverfahren; erneutes Schreiben des BA 1
+- TOP .13.: Barrierefreiheit bei BA-Sitzungen und Bürgerversammlungen
+- TOP .14.: Ganzjährige Querung der Theresienwiese, BV-Empfehlung Nr. 08-14 / E 00435; erneute Rückmeldung RAW: einzige Möglichkeit wäre eine Brücke, diese wird aber abgelehnt (zu kostenintensiv, eingeschränkte Nutzbarkeit)
+- TOP .15.: Verlagerung der BI Mitte ins TAl 31, Schreiben des KVR
+- TOP .16.: Eilentscheidung: Umzug des Narhalla Prinzenwagens am 08.03.2011
+- TOP .17.: Erlaubnisbescheide: - Fasching in der Reichenbachstraße am 08.03.2011 - Umzug des Narhalla Prinzenwagens am 08.03.2011
+- TOP .18.: Christbaumsammlung - weitere haushaltsnahe Sammelplätze; Schreiben des AWM
+- TOP .1.: Bürgeranliegen: Entfernung der Poller in der Reichenbachstraße (entlang ehem. jüdischer Synagoge)
+- TOP .2.: Bürgeranliegen: Videoüberwachung in der Goethestr. 19
+- TOP .3.: Bürgeranliegen: Poller für St. Maximilian
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
