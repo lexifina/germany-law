@@ -1,0 +1,83 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-03-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226110
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226110
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Gesamtverein Feldmoching e.V. "Dorffasching in Feldmoching am 06.03.2011"
+- TOP 2.2.: (E) Budget des Bezirksausschusses Euro-Trainings-Centre ETC e.V. Motivations- und Lerntraining ab Mitte März 2011
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Initiative "Weissblauer-Bumerang" Aufstellung eines Kinder-Jugend-Maibaumes am 30.04.2011
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Voila! Opera! e.V. "Oper in Schulen"
+- TOP 2.5.: (E) Budget der Bezirksausschüsse My Sportlady e.V. Kinderernährungskurse ab Mai 2011
+- TOP 2.6.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.2010 über Projektplanung "Karlsfelder Straße zwischen Schwarzhölzlstraße und Am Gottesackerweg"
+- TOP 3.1.: Verkehrssituation in der Niederalteicher Straße (Prüfung Einbahn und Halteverbot)
+- TOP 3.2.: Überdachte Fahrradständer am U-Bahnhof Feldmoching
+- TOP 3.3.: Aufhebung der Geschwindigkeitsbegrenzung (50 km/h) auf der Dachauer Straße Richtung Karlsfeld (hinter Autobahnbrücke)
+- TOP 3.4.: Anbringung Absperrpfosten am Durchgang Thoma-Theodor-Heine-Weg/ Steindlstraße
+- TOP 3.5.: Totales Grillverbot am Fasanerie-See und am Lerchenauer See
+- TOP 3.6.: Fahrradweg von Feldmoching zum Olympia-Einkaufszentrum und Anschluß zum Freizeitgelände Rangierbahnhof (entlang S1-Trasse)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Lerchenstr. 7 (Neubau eines Drogeriemarktes)
+- TOP 5.2.: Bauvorhaben Lerchenstr. 7 (Neubau eines Vollsortimenters)
+- TOP 5.3.: Bauvorhaben Schittgablerstraße (Gerüstlagerplatz mit Lagerhalle und Bürogebäude)
+- TOP 5.4.: 5.4.1 Bauvorhaben Schittgablerstraße (Hallenkomplex mit Mezzaninebene) 5.4.2 Bauvorhaben Leberblümchenstr. 20 (Erweiterung und Umbau eines Wohn- und Geschäftshauses zu einer Kindertagesstätte)
+- TOP 5.5.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag auf Genehmigung auf Errichtung und Betrieb eines Abfall-/Schrott Lager- und Umschlageplatzes am Standort Lerchenstr. 19, 80995 München
+- TOP 5.6.: Vollzug der Baumschutzverordnung (Baumfällung): 5.6.1 Hederichstr. 17 5.6.2 Thaddäus-Robl-Str. 17
+- TOP 5.7.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich...V/44 Rothwiesenstraße (östl); Autobahnring - Nord A 99 (nördl) (Beteiligungsverfahren im Rahmen des vorbehaltlich endgültigen Beschlusses)
+- TOP 5.8.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern: Entwurf Beschlussvorlage für BauA
+- TOP 5.9.: Veranstaltung in Städt. Grünanlage: Dülferanger; Frühlingsfest d. Vereins für Integration... 29.04. bis 01.05.2011
+- TOP 5.10.: Anhörungsverfahren für An- und Abfischen am Regattabadesee OSH am 16.04.11 und 08.10.11
+- TOP 5.11.: Veranstaltung in Städt. Grünanlage: Dülferanger; Deutsch-türkischer Kulturverein e.V.: Veranstaltung 01.06. bis 05.06.11 (hier: Änderung zu TOP 5.8 vom 22.02.11)
+- TOP 5.12.: Veranstaltung in Städt. Grünanlage: Dülferanger; Kirmesfest des Vereins für Bildung, Kultur und Integration... 06.05. bis 08.05.2011
+- TOP 5.13.: Veranstaltung auf Städt. Grünanlage: VDK Behinderten- und Jugendarbeit: 3-Seen-Radlfahrt am 21.05.2011
+- TOP 5.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Anordnung eines Halteverbots in der Waldrebenstraße (-&gt; BA-Antrag Nr. 08-14/ B 02226 vom 22.06.2010)
+- TOP 6.2.: Antrag auf Fußgängerüberweg über den Blütenanger/ Höhe Reigersbachstraße; generelle Zulässigkeit von Zebrastreifen in Tempo-30-Zonen (-&gt; BA-Antrag Nr. 08-14/ B 02402 vom 30.08.2010)
+- TOP 6.3.: Aufnahme des Stadtbezirksviertel des 24. Stadtbezirks in den zukünftigen Lärmaktionsplan der Bezirksregierung (-&gt; BA-Antrag Nr. 08-14/ B 02606 vom 07.12.2010)
+- TOP 6.4.: Pflegeschnittmaßnahmen an den Großbäumen im Friedhof Feldmoching (neuer Teil) (-&gt; BA-Antrag Nr. 08-14/ B 02607 vom 07.12.2010)
+- TOP 6.5.: Versorgung des 24. Stadtbezirkes mit Kinderbetreuungseinrichtungen (-&gt; diverse BA-Anträge)
+- TOP 6.6.: Einrichtung einer Tempo-30-Zone in der Weitlstraße (ab Reschreiter- bis Schleißheimerstr.) (-&gt; Antrag TOP 3.2 in Sitzung am 02.03.2010)
+- TOP 6.7.: Anordnung einer Parkscheibenzone vor Waldmeisterstr. 72 (-&gt; TOP 6.14.4) (-&gt; Antrag TOP 3.4 in Sitzung am 27.07.2010)
+- TOP 6.8.: Aufstellen von zusätzlichen Wertstoffcontainern in der Lerchenau hier: Ablehnung von 3 ansässigen Discountern (-&gt; Antrag TOP 3.4 in Sitzung am 09.11.2010)
+- TOP 6.9.: Umgestaltung der Kletterfelsen/-wände Ecke Grohmann-/Aschenbrennerstraße (-&gt; Antrag Nr. 7/4 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.10.: Defekte Mülleimer am Erlebnisspielplatz Dülferstraße (-&gt; Antrag Nr. 7/9 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.11.: Unrat im Wald zwischen Eberwurz-/Pulverturm- und Maßliebchenstraße (-&gt; Antrag Nr. 7/16 aus der Kinder- und Jugendsprechstunde)
+- TOP 6.12.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.13.: Meldelisten Baumfällungsanträge
+- TOP 6.14.: Meldelisten Bauvorhaben
+- TOP 6.15.: Verkehrsrechtliche Anordnungen: 6.15.1 Adlerfarnstraße (Aufhebung des eingeschränkten Halteverbots) 6.15.2 Max-Wönner-Str. 27 (Aufhebung des personenbezogenen Behindertenparkpl) 6.15.3 Schleißheimer Str. 371 (Kurzparkzone) 6.15.4 Waldmeisterstr. 72 (Einrichtung von Kurzparkplätzen -&gt; TOP 6.7)
+- TOP 6.16.: Filmaufnahmen auf öffentlichem Verkehrsgrund: Drehgenehmigung Aschenbrennerstraße u.a. (Produktion "Clubben")
+- TOP 6.17.: Neubau Kooperationseinrichtung Tollkirschenweg
+- TOP 6.18.: Austragungsort Weltkindertag im Stadtbezirk Laim
+- TOP 6.19.: Sanierung Max-Born-Straße (Infoschreiben des Baureferates)
+- TOP 6.20.: Wertstoffsammelsystem in der LH München (Infoschreiben des AWM)
+- TOP 6.21.: Weichenerneuerung zwischen Goetheplatz und Sendlinger Tor (Infoschreiben der MVG)
+- TOP 6.22.: Baumaßnahmen der Stadtwerke München: Stromprojekt Rainfarnstraße 16 (2. Bauabschnitt)
+- TOP 6.23.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen (Infoschreiben des Direktoriums)
+- TOP 6.24.: Beschlussvorlage Sozialreferat: München lebt Vielfalt; Interkultureller Integrationsbericht 2010)
+- TOP 6.25.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnungsnahe Versorgung mit öffentlichen Spielflächen; Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes
+- TOP 6.26.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtbezirk vorstellen
+- TOP 6.27.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Ja mia san mim Radl do - doppelstöckige Fahrradabstellanlagen an MVV-Knotenpunkten?
+- TOP 6.28.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011 bis 2015
+- TOP 6.29.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Nahverkehrsplan (NVP) der Landeshauptstadt München (Neufassung TOP 8ö)
+- TOP 6.30.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung (Neufassung vom 09.02.2011)
+- TOP 6.31.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Entwicklung des Verkehrs in München (Neufassung TOP 9ö)
+- TOP 6.32.: Beschlussvorlage Baureferat: Verbesserung am Walter-Sedlmayr-Platz in Feldmoching
+- TOP 6.33.: Beschlussvorlage Referat für Bildung und Sport: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen (Neufassung TOP 2 oe)
+- TOP 6.34.: Beschlussvorlage Kreisverwaltungsreferat: CarSharing in München; Durchführung von Pilotprojekten (Neufassung nach Anhörung BA's)
+- TOP 6.35.: Dankschreiben von Team MABL e.V. (-&gt; BA-Antrag TOP 6.7 der Sitzung am 09.11.2010)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
