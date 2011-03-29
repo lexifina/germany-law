@@ -1,0 +1,7 @@
+# TOP 4: Anträge
+
+- Sitzung: 52. öffentliche Sitzung des Ausschusses für Wirtschaft und Verkehr (2011-03-29)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=40125
+- Ergebnis: (offen)
