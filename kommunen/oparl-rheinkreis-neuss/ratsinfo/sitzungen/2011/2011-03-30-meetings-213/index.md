@@ -1,0 +1,58 @@
+# öffentliche/nicht öffentliche Sitzung des Kreistages
+
+- Körperschaft: Rheinkreis Neuss
+- Beginn: 2011-03-30T15:05:00+02:00
+- Ende: 2011-03-30T18:10:00+02:00
+- Ort: GV, Zentrum
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/organizations/gr/1
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/213
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/meetings/213
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäßen Einladung und der Beschlussfähigkeit
+- TOP 2: Verpflichtung und Einführung neuer Kreistagsabgeordneter
+- TOP 3: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Anträge zur Umbesetzung - einstimmig beschlossen
+- TOP 3.1.1: Tischvorlage: Antrag CDU
+- TOP 3.2: Tischvorlage: Nachwahl eines stellvertretenden Mitglieds im Beirat bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 4: Bestätigung von Beschluss Nr. FI/20110310/Ö2 des Finanzausschusses (III. Verzeichnis der über-/außerplanmäßigen Aufwendungen und Auszahlungen im Haushaltsjahr 2010) - einstimmig beschlossen
+- TOP 5: Feststellung des Jahresabschlusses 2009, Verwendung des Jahresüberschusses und Entlastung des Landrates - einstimmig beschlossen
+- TOP 6: Kreishaushalt 2011
+- TOP 6.1: Beteiligung der kreisangehörigen Städte/Gemeinden bei der Aufstellung der Haushaltssatzung des Rhein-Kreises Neuss gem. § 55 KrO. NRW
+- TOP 6.1.1: Tischvorlage: Stellungnahme der Stadt Grevenbroich
+- TOP 6.1.2: Antrag der SPD-Kreistagsfraktion auf Änderung des letzte Satzes - mehrheitlich abgelehnt
+- TOP 6.1.3: Beteiligung der kreisangehörigen Städte/Gemeinden bei der Aufstellung der Haushaltssatzung des Rhein-Kreises Neuss gem. § 55 KrO. NRW - mehrheitlich beschlossen
+- TOP 6.2: Haushaltssatzung nebst Anlagen des Rhein-Kreises Neuss für das Haushaltsjahr 2011
+- TOP 6.2.1: Antrag der SPD-Kreistagsfraktion die Kreisulage abzusenken - mehrheitlich abgelehnt
+- TOP 6.2.2: Antrag der SPD-Kreistagsfraktion die pauschale Kürzung bei den Sozialverbänden zurückzunehmen - mehrheitlich abgelehnt
+- TOP 6.2.3: Haushaltssatzung nebst Anlagen des Rhein-Kreises Neuss für das Haushaltsjahr 2011 - mehrheitlich beschlossen
+- TOP 7: Wirtschaftspläne 2011 der Rhein-Kreis Neuss Kliniken Dormagen und Grevenbroich / Allgemeine Erläuterung zu den Wirtschaftsplänen
+- TOP 7.1: Wirtschaftspläne 2011 der Rhein-Kreis Neuss Kliniken Dormagen und Grevenbroich / Beschlussfassung Wirtschaftsplan Dormagen - einstimmig beschlossen
+- TOP 7.2: Wirtschaftspläne 2011 der Rhein-Kreis Neuss Kliniken Dormagen und Grevenbroich / Beschlussfassung Wirtschaftsplan Grevenbroich - einstimmig beschlossen
+- TOP 8: Änderung der Hauptsatzung des Rhein-Kreises Neuss, hier § 20 (Bekanntmachung) - einstimmig beschlossen
+- TOP 9: Satzung über die Erhebung von Gebühren für die Mittagsverpflegung an den Förderschulen - einstimmig beschlossen
+- TOP 10: Entschädigung für den Kreisbrandmeister und seine Stellvertreter - einstimmig beschlossen
+- TOP 11: Rettungsdienstlicher Bedarfsplan - einstimmig beschlossen
+- TOP 11.1: Ergänzung
+- TOP 12: Errichtung eines neuen Bildungsgangs am Berufsbildungszentrum Grevenbroich - einstimmig beschlossen
+- TOP 13: Inklusion - mehrheitlich beschlossen
+- TOP 14: Kulturzentrum Zons
+- TOP 14.1: Bürgeranregung vom 12.01.2011 - einstimmig beschlossen
+- TOP 14.2: Änderung des Nutzungs- und Entgeltordnung - einstimmig beschlossen
+- TOP 15: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 15.1: Satzung des Rhein-Kreises Neuss über die Förderung der Kindertageseinrichtungen, hier: Genehmigung des Dringlichkeitsbeschlusses des Kreisausschusses vom 12.01.2011 - einstimmig beschlossen
+- TOP 15.2: Beirat Jobcenter Rhein-Kreis Neuss, hier: Genehmigung des Dringlichkeitsbeschlusses des Kreisausschusses vom 16.02.2011 - einstimmig beschlossen
+- TOP 16: Gesamtstellenplan 2011 - einstimmig beschlossen
+- TOP 17: Fortschreibung des Frauenförderplanes
+- TOP 18: Änderung der Verordnung des Rhein-Kreises Neuss über die Regelungen des Verkehrs mit Taxen (Taxenordnung) vom 08.12.2010 - einstimmig beschlossen
+- TOP 19: Anträge
+- TOP 20: Mitteilungen
+- TOP 21: Anfragen
+- TOP 21.1: Anfrage von 1. stv. Landrat Dr. Hans-Ulrich Klose im Kreissauschuss
+- TOP 21.2: Salafisten in Dormagen-Hackenbroich
+- TOP 21.3: Resolution des Rates der Stadt Korschenbroich
+- TOP 21.4: Geklonte tierische Produkte
+- TOP 22: Einwohnerfragestunde
