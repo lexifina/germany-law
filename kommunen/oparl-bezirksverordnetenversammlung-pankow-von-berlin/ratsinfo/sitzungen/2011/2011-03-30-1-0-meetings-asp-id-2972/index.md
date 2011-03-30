@@ -1,0 +1,85 @@
+# 41. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-03-30T17:30:00+02:00
+- Ende: 2011-03-30T21:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2972
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2972
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - ohne Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Mitgliedes des Vorstandes der BVV Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Anmeldung für die Investitionsplanung 2011 bis 2015 Bezirk Pankow - mit Änderungen in der BVV beschlossen
+- TOP 1.10: Ordnung und Sicherheit auf dem Helmholtzplatz - in der BVV abgelehnt
+- TOP 1.11: Bauvorhaben Mittelstraße 2 -3 - beantwortet
+- TOP 1.12: Verbesserung der Verkehrssicherheit für Fußgänger im Ortsteil Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Parkraumbewirtschaftung im Bötzowviertel einführen - in der BVV abgelehnt
+- TOP 1.14: Gepflegtes und erneuertes Straßenbegleitgrün - in der BVV abgelehnt
+- TOP 1.15: Städtische Wohnungsbaugesellschaften in Bezirken in die soziale Pflicht nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Sozialverträgliche Modernisierung - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Solidarität mit den Menschen in Japan - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Der Mauerpark - Ein Park für alle Generationen - überwiesen
+- TOP 1.19: Vom Ausstieg aus der Wohnungsbauförderung in Pankow betroffene Wohnungen und Einwohner - erledigt
+- TOP 1.20: Naugarder Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Ausschöpfung der Lehrmittel-Budgets Pankower Schulen - beantwortet
+- TOP 1.22: Parkverbot in der Herbert-Baum-Straße - überwiesen
+- TOP 1.23: Clubszene im Bezirk Pankow - beantwortet
+- TOP 1.24: Stand der Umsetzung - Leistungen für Bildung und Teilhabe in Pankow (§ 28 SGB II / § 34 SGB XII) - beantwortet
+- TOP 1.25: Kastanienallee 97 - 99 / Schönhauser Allee 148: Beteiligung der Öffentlichkeit - überwiesen
+- TOP 1.26: Beschränkung des Parkverbots vor der Kita in der Busonistraße 145 - überwiesen
+- TOP 1.27: Zukunft der Parkraumbewirtschaftung im Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Internationale Wochen gegen Rassismus - überwiesen
+- TOP 1.29: Verschiebung des Eintritts in den Ruhestand des Bezirksstadtrates Martin Federlein - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Sicherstellung der auskömmlichen Finanzierung der Kita-Eigenbetriebe durch das Land Berlin Anhebung der Kostensätze nach Kostenblatt für Eigenbetriebe und Freie Träger in der Kindertagesbetreuung - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Demokratieerklärung in den Bundesprogrammen "TOLERANZ FÖRDERN - KOMPETENZ STÄRKEN" und "INITIATIVE DEMOKRATIE STÄRKEN" - vertagt
+- TOP 1.32: Berliner Bär auch an der Pankower Einfahrt nach Berlin - vertagt
+- TOP 1.33: Beleuchtung der Gehwege in Buch - vertagt
+- TOP 1.34: Verbesserung der Querungssituation in der Schönhauser Allee - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Erschließung Rangierbahnhof Pankow - vertagt
+- TOP 2.1.1: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - vertagt
+- TOP 2.2: Klimaschutz-Projekte an Pankower Schulen weiterentwickeln! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Erweiterungsflächen für den Campus Berlin-Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Wärmeisolierung bezirkseigener Gebäude - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: 100 Jahre Straßenbahn Heinersdorf - Alexanderplatz feiern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5.1: Die moderne Straßenbahn in Europa - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Bericht über Konjunkturpakete - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Maßnahmeplan "Bürgerfreundliche Verwaltungssprache" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Jugendoffiziere: Schulen sollen Pluralität gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Straßenlaternen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Komödienhaus Pfefferberg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Abstandsflächen - vertagt
+- TOP 2.12: Ausstellung "Gegen die Regeln" zeigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Autobahnanschlussstelle für Karow und Buch - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Verkehrsberuhigung und Straßenbäume für die Bewohner im Eschengraben - vertagt
+- TOP 2.15: Abstellmöglichkeiten für Fahrräder am JobCenter Pankow - vertagt
+- TOP 2.16: Fahrradabstellanlagen am S-Bahnhof Blankenburg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Umstrukturierungssatzung für einen Block im Paracelsusviertel - vertagt
+- TOP 2.18: Kündigung der Arbeitsräume des MACHmit! Museums rückgängig machen - vertagt
+- TOP 2.19: Rückbau der Poller in der Pankgrafenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Alternativen für die Initiativen im Eliashof - jetzt! - vertagt
+- TOP 2.22: Direktübertragung der BVV-Tagungen im Internet - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Jugendfarm Moritzhof und Kletterfelsen endlich planungsrechtlich dauerhaft sichern - vertagt
+- TOP 2.24: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Bebauungsplan IV-36 für die Grundstücke Pasteurstraße 22/26 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Benennung von 7 Privatwegen in der Anlage Schildow-Waldeck im Ortsteil Blankenfelde - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Benennung von zwei privaten Erschließungswegen im Ortsteil Rosenthal in "Am Igelgrund" und "Am Meisenwinkel" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Benennung von 11 Privatwegen in der Anlage Frohsinn im Ortsteil Blankenfelde nach französischen Regionen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Benennung einer Privatstraße im Ortsteil Prenzlauer Berg in "An den Eldenaer Höfen" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2006 - vertagt
+- TOP 3.1.1: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2007 - vertagt
