@@ -31,6 +31,7 @@ Abschnitt 3 Ausführung der Verwaltungsgerichtsordnung
 § 25 Zuständigkeit des Sächsischen Oberverwaltungsgerichts im ersten Rechtszug
 § 26 Widerspruchsbehörde bei Verwaltungsakten einer Polizeidienststelle
 § 27 Widerspruchsbehörde bei Verwaltungsakten in Selbstverwaltungsangelegenheiten sowie im Vermessungs- , Aufstiegsfortbildungsförderungs-, sozialen Entschädigungs- und Umweltrecht
+§ 27a Vorverfahren bei der Notarkammer Sachsen und der Rechtsanwaltskammer Sachsen
 Abschnitt 4 Ausführung des Arbeitsgerichtsgesetzes
 § 28 Oberste Landesbehörde
 § 29 Dienstaufsicht
