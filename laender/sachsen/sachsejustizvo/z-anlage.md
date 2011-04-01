@@ -8,3 +8,5 @@ Vereinsregister | 1. August 2010
 Vereinsregister | 1. August 2010
 3. | Amtsgericht Leipzig | Handels-, Genossenschafts- und Partnerschaftsregister | Staatsministerium der Justiz und für Europa | 1. Januar 2007
 Vereinsregister | 1. August 2010
+4. | Sozialgericht Dresden | alle Verfahren | Staatsministerium der Justiz und für Europa | 1. April 2011
+5. | Sächsisches Landessozialgericht in Chemnitz | alle Verfahren | Staatsministerium der Justiz und für Europa | 1. April 2011
