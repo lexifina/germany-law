@@ -1,0 +1,54 @@
+# 6. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2011-04-04T10:00:00+02:00
+- Ende: 2011-04-04T13:15:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-6
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-6
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-6
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-6
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-6
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach RVR-Gesetz
+- TOP 1.1: Wahl des Regionaldirektors bzw. der Regionaldirektorin des Regionalverbandes Ruhr
+- TOP 1.2: Wahl des Bereichsleiters III Planung des Regionalverbandes Ruhr
+- TOP 1.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4: Ersatzwahl eines beratenden Mitgliedes der Verbandsversammlung
+- TOP 1.5: Wechsel in den Ausschüssen
+- TOP 1.6: Bericht über die Prüfung des Jahresabschlusses 2008, Feststellung des Jahresabschlusses 2008 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2008
+- TOP 1.6.1: Dienstanweisung für die Finanzbuchhaltung beim Regionalverband Ruhr (RVR)
+- TOP 1.7: Beschluss über die Verwendung des Jahresüberschusses 2008
+- TOP 1.8: Bericht über die Prüfung des Jahresabschlusses 2009, Feststellung des Jahresabschlusses 2009 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2009
+- TOP 1.9: Beschluss über die Behandlung des Jahresfehlbetrages 2009
+- TOP 1.10: Bestellung einer Prüferin im Referat Rechnungsprüfung
+- TOP 1.11: Verabschiedung der Haushaltssatzung 2011 - Änderungsliste für den Haushalt 2011 des RVR
+- TOP 1.11.1: Strategische Haushaltskonsolidierung 2012 - 2015 Antrag der FDP-Fraktion
+- TOP 1.11.2: Prozess der Haushaltskonsolidierung Antrag von SPD-Fraktion und Bündnis 90/Die Grünen
+- TOP 1.11.3: Logoentwicklung für die Metropole Ruhr Antrag von SPD-Fraktion und Bündnis 90/Die Grünen
+- TOP 1.12: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2010
+- TOP 1.13: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün für das Jahr 2011
+- TOP 1.14: Angelegenheiten der Ruhr Tourismus GmbH (RTG) - Abgabe einer Verpflichtungserklärung im Rahmen des Landeswettbewerbs auf Grund des Ziel 2-Programms Erlebnis.NRW
+- TOP 1.15: Geonetzwerk Metropole Ruhr - Geodatenkooperation -
+- TOP 1.15.1: Geonetzwerk Metropole Ruhr - Geodatenkooperation
+- TOP 1.16: Änderung des RVR-Gesetzes Änderungsantrag der Fraktion DIE LINKE vom 14.03.2011
+- TOP 1.17: Resolution: A52 unverzichtbar Antrag der CDU-Fraktion
+- TOP 1.18: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Kunst- und Kulturförderung
+- TOP 2.2: Förderprogramm für den kommunalen Straßen- und Radwegebau 2011 und Rückblick auf 2010
+- TOP 2.3: Förderprogramm für den kommunalen Sonder-Radwegebau 2011 (Radverkehrsförderung) und Rückblick auf 2010
+- TOP 2.4: Naturschutz und Landschaftspflege; Rückblick auf 2010
+- TOP 2.5: Gefährdungsabschätzung und Sanierung von Altlasten; Rückblick auf 2010
+- TOP 2.6: Jahresbericht 2010 zur ländlichen Entwicklung und Bodenordnung
+- TOP 2.7: Städtebauförderung hier: Aufstellung des Stadterneuerungsprogramms 2011
+- TOP 2.8: Der Weg zum neuen Regionalplan Ruhr
+- TOP 2.9: 7.Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln - Sachstandsbericht -
+- TOP 2.10: 64.Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99) im Gebiet der Stadt Dinslaken und der Gemeinde Hünxe (Umnutzung der Zeche und der Bergehalde Lohberg zu Siedlungs- und Freiraumbereichen)
+- TOP 2.11: Raumordnungsverfahren für 110-/380-kV-Höchstspannungsfreileitung der Firma Amprion von Dortmund-Kruckel nach Dauersberg (Rhld.-Pfalz)
+- TOP 2.12: Anfragen und Mitteilungen
