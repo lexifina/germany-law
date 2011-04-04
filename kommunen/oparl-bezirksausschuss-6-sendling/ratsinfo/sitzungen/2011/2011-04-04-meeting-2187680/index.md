@@ -1,0 +1,71 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-04-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187680
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187680
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Isarplan - Fertigstellung der Arbeiten zur Renaturierung der Isar
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Vorhaben Thalkirchnerstraße 190; Schaffung einer halben Sozialpädagogenstelle für die Hausaufgabenbetreuung
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Warenstellage Albert-Roßhaupter-Straße 14
+- TOP 6.2.: Parkregelung in der Senserstraße
+- TOP 6.3.: Durchfahrt- und Parkverbotbeschilderung in der Hans-Preisinger-Straße
+- TOP 6.4.: Schaffung von vier Kfz-Stellplätzen für CarSharing auf dem Lehrerparkplatz an der Demleitnerstraße 2
+- TOP 6.5.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 6.6.: Meldelisten Bauvorhaben SWM
+- TOP 6.7.: Doppelstöckige Fahrradabstellanlagen zur Lösung der Platzprobleme an städtischen MVV-Knotenpunkten
+- TOP 6.8.: Schmalere Buswartehäuschen
+- TOP 6.9.: CarSharing in München; Durchführung von Pilotprojekten
+- TOP 6.10.: Spielaktionen in städtischen Grünanlagen im Jahr 2011
+- TOP 6.11.: Öffnung der Reutbergerstraße für den gegenläufigen Radverkehr - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Freie Turnerschaft München Süd e.V. Tag der offenen Tür am 22.05.2011 - <div>Zustimmung, mehrheitlich</div>
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Init. "Malkurs" c/o Dendl Material für Malkurs 2011 im ASZ Sendling - <div>nach Antrag</div>
+- TOP 7.4.: (E) Budget der Bezirksausschüsse MünchenVerlag GmbH Druckkostenzuschuss für das Stadtteilbuch "Sendling - Entdeckungen im Stadtteil" - <div>vertagt</div>
+- TOP 7.5.: (E) Budget der Bezirksausschüsse FC Wacker München e.V. Anschaffung eines tragbaren Trainingstors - <div>vertagt</div>
+- TOP 7.7.: Schaffung einer/s Beauftragten für Stadtteilheimatpflege
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Steinerstraße 20
+- TOP 8.3.: Bauvorhaben Thalkirchner Str. 186
+- TOP 8.4.: Bauvorhaben Plinganserstraße 63
+- TOP 8.5.: Bauvorhaben Kidlerstraße 36
+- TOP 8.6.: Vorbescheid Kidlerstraße 34
+- TOP 8.7.: Bebauungsplan Stemmerhof
+- TOP 8.8.: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen
+- TOP 8.9.: Siedlungsentwicklung und Infrastrukturkonzept für München im Zeitraum 2011 - 2015
+- TOP 8.10.: Erhaltungssatzung Sendling
+- TOP 8.11.: Vorbescheid Clearinghaus Plinganserstraße
+- TOP 8.12.: Bauvorhaben Flößergasse 2
+- TOP 8.13.: Bauvorhaben Dietramszeller Straße 9
+- TOP 8.14.: Schaffung einer Fußgängerunterführung unter dem Bahndamm Höhe Sylvensteinstraße / Johann-Clanze-Straße - <div>zur Kenntnis genommen</div>
+- TOP 9: Baureferat
+- TOP 9.1.: Dudenstraße Ecke Plinganserstraße; Fußgängerquerungshilfe
+- TOP 9.2.: Modernisierung des Skaterplatzes am Wackerspielplatz
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Bauvorhaben Valleystraße 48
+- TOP 10.2.: Baumfällungen Bauvorhaben Steinerstraße 20
+- TOP 10.3.: Baumfällung Esswurmstraße 16 - 24
+- TOP 10.4.: Baumfällung Esswurmstraße 12 / 14
+- TOP 10.5.: Baumfällung Paul-Meisel-Weg 4 und 6
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Christbaumsammlung - weitere haushaltsnahe Sammelplätze
+- TOP 13.2.: Erinnerungsorte München
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
