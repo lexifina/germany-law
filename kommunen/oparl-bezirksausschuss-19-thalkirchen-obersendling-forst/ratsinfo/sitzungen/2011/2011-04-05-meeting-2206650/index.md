@@ -1,0 +1,58 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-04-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2206650
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2206650
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Festlegung der endgültigen Tagesordnung
+- TOP 1.7.: Genehmigung des Protokolls vom 01.03.2011
+- TOP 2: Anträge
+- TOP 2.1.: Rolltreppe am U-Bahnhof Obersendling
+- TOP 2.2.: Zwischennutzung für UMF `s in der Gmunder Straße
+- TOP 2.3.: Kundenparkplätze Forstenried
+- TOP 2.4.: Textvorschlag für Veranstaltung am 08.05.2011
+- TOP 2.5.: Vorbereitung eines Strafantrages wegen Verletzung des Naturschutzrechtes in der Garatshausener Straße
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Mobilfunk Suchkreismeldung
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Beschlüsse der Einwohnerversammlung zum Verkehrskonzept Obersendling/Thalkirchen
+- TOP 5.2.: Lauweg
+- TOP 5.3.: Ladezone Hofmannstr. 50
+- TOP 5.4.: Schulwegsicherheit Lochhamer Str. / Spindlerplatz
+- TOP 5.5.: Erweiterung der Tempo 30 Zone Tölzer Straße / nördlich Boschetsrieder Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Ausbau der Freiwilligenbörse Süd zu einem Freiwilligen-Zentrum Mchn. Süd
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Beschlussvorlage - Umbau der Schießanlage des Vereins Hubertus
+- TOP 9.2.: Werbenutzungsvertrag der Stadt München
+- TOP 9.3.: Werbetafel Koppstraße
+- TOP 9.4.: Antrag auf Zweckentfremdung Königswieser Straße
+- TOP 9.5.: Antrag auf Zweckentfremdung Sulenstraße
+- TOP 9.6.: Antrag auf Zweckentfremdung Lauterseestraße
+- TOP 9.7.: Münchner Kanu-Triathlon
+- TOP 9.8.: Stadtteilwoche Forstenried-Fürstenried-Solln
+- TOP 9.9.: See-Gebets-Zeremonie Hinterbrühl
+- TOP 9.10.: Forstenrieder Volkslauf
+- TOP 9.11.: Gaststättenfortführung Hinterbrühl 2
+- TOP 9.12.: Gaststättenfortführung Graubündener Str. 100
+- TOP 9.13.: Gaststättenfortführung Pullacher Platz 6
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
