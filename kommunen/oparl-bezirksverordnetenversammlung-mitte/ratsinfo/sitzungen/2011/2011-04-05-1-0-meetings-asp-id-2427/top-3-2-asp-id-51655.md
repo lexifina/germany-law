@@ -1,0 +1,7 @@
+# TOP 3.2: Jahresabschluss 2010
+
+- Sitzung: 49. öffentliche Sitzung des Hauptausschusses (2011-04-05)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=51655
+- Ergebnis: erledigt
