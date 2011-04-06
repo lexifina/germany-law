@@ -1,0 +1,51 @@
+# 11. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-04-06T17:03:00+02:00
+- Ende: 2011-04-06T17:41:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7791
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7791
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00305679.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion DIE LINKE. an den Rat Nr. A-R/0006/2011 "Bürgerinnen- und Bürgerbeteiligung stärken - Bürgerinnen- und Bürgeranregungen transparenter gestalten!" - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr. 00010/2011 "Energiepark Münster" - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der SPD-Fraktion Nr. A-R/0016/2011 "Stadtteilrahmenplan Kinderhaus" - einstimmig beschlossen
+- TOP 2.4: Antrag der SPD-Fraktion im Rat der Stadt Münster Nr. A-R/0015/2011 'wirtschaftliche und finanzielle Bedeutung der Streitkräfte darstellen - Einfluß auf den Erhalt des Bundeswehrstandortes Münster nehmen - mehrheitlich beschlossen
+- TOP 2.5: Antrag der Fraktion DIE LINKE an den Rat Nr. A-R/0005/2011 "Bessere Teilhabe im öffentlichen Leben für ältere Menschen und Menschen mit Behinderungen - Ampelphasen angemessen gestalten" - einstimmig beschlossen
+- TOP 2.6: Antrag der SPD-Fraktion Nr.: A-R/0004/2011 vom 02.02.2011 - einstimmig geändert beschlossen
+- TOP 3: Ergebnis des am 29.09.2010 beschlossenen Prüfauftrages zur Durchführung des Promenadenflohmarktes ab der Saison 2011 - zur Kenntnis genommen
+- TOP 4: Schenkung einer Skulptur für den Kreisverkehr Erbdrostenweg/Delstrup/Vörnste Esch in Münster-Gremmendorf - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 5: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im - ohne Beschlussfassung geschoben
+- TOP 6: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup - ohne Beschlussfassung geschoben
+- TOP 7: Einrichtung eines Bürger/innen-Haushaltes in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 7.1: Einrichtung eines Bürger/innen-Haushaltes in der Stadt Münster
+- TOP 8: "Public Corporate Governance Codex" für die Stadt Münster und ihre Beteiligungen - von der Tagesordnung abgesetzt
+- TOP 9: Überprüfung der weitgespannten Tragwerke in Städtischen Gebäuden - einstimmig beschlossen
+- TOP 10: Stellungnahme der Stadt Münster zum Deckblatt IX der Planfeststellung für den Ausbau der B51/B481n - ohne Beschlussfassung geschoben
+- TOP 10.1: Entwurf der Stellungnahme der Stadt Münster zum Deckblatt IX der Planfeststellung für den Ausbau der B51/B481n
+- TOP 11: Umbau und Modernisierung der Empfangsgebäude des Hauptbahnhofes Münster, Bereitstellung der städtischen Finanzierungsbeteiligung - ohne Beschlussfassung geschoben
+- TOP 11.1: Umbau und Modernisierung der Empfangsgebäude des Hauptbahnhofes Münster, Bereitstellung der städtischen Finanzierungsbeteiligung
+- TOP 12: Wirtschaftsplan 2011/2012 der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 13: Feststellung des Jahresabschlusses und des Lageberichts der Städtischen Bühnen Münster für das Wirtschaftsjahr 2009/2010 - einstimmig beschlossen
+- TOP 14: Qualitativer Umbau und Weiterentwicklung des Leistungsfeldes Kindertagespflege - zur Kenntnis genommen
+- TOP 15: Handlungsprogramm Wohnen - einstimmig beschlossen
+- TOP 15.1: Handlungsprogramm Wohnen
+- TOP 16: Förderung des Neubaus und des Erwerbs von selbst genutztem Wohneigentum - einstimmig beschlossen
+- TOP 17: Bauleitplanung
+- TOP 17.1: Stadtbezirk West
+- TOP 17.1.1: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung - mehrheitlich beschlossen
+- TOP 17.1.1.1: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung
+- TOP 17.1.1.1.1: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung
+- TOP 17.1.2: 1. Verlängerung der Veränderungssperre Nr. 99 für den Bereich Weseler Straße 651 - 653 - mehrheitlich beschlossen
+- TOP 18: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 19: Verschiedenes
