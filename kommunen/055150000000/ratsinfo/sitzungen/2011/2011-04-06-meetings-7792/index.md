@@ -1,0 +1,75 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-04-06T17:11:00+02:00
+- Ende: 2011-04-06T22:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7792
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7792
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00305680.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung
+- TOP 8.1: "Mobilität von Senioren im Winter -auch bei extremer Witterung sicherstellen" - verwiesen
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 9.1: Fragen zum Promenadenflohmarkt
+- TOP 9.1.1: Promenadenflohmarkt
+- TOP 9.1.2: Promenadenflohmarkt
+- TOP 9.1.3: Promenadenflohmarkt
+- TOP 9.1.4: Promenadenflohmarkt
+- TOP 9.1.5: Promenadenflohmarkt
+- TOP 9.1.6: Promenadenflohmarkt
+- TOP 9.1.7: Promenadenflohmarkt
+- TOP 10: Ergebnis des am 29.09.2010 beschlossenen Prüfauftrages zur Durchführung des Promenadenflohmarktes ab der Saison 2011 - mehrheitlich geändert beschlossen
+- TOP 11: Ordnungsbehördliche Verordnungen über das Offenhalten der Verkaufsstellen im - mehrheitlich geändert beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Hiltrup, Ortsteil Hiltrup - mehrheitlich beschlossen
+- TOP 13: Einrichtung eines Bürger/innen-Haushaltes in der Stadt Münster - einstimmig beschlossen
+- TOP 13.1: Einrichtung eines Bürger/innen-Haushaltes in der Stadt Münster
+- TOP 14: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - Vorlage eingebracht
+- TOP 15: "Public Corporate Governance Codex" für die Stadt Münster und ihre Beteiligungen - von der Tagesordnung abgesetzt
+- TOP 16: Überprüfung der weitgespannten Tragwerke in Städtischen Gebäuden - einstimmig beschlossen
+- TOP 17: Stellungnahme der Stadt Münster zum Deckblatt IX der Planfeststellung für den Ausbau der B51/B481n - mehrheitlich geändert beschlossen
+- TOP 17.1: Entwurf der Stellungnahme der Stadt Münster zum Deckblatt IX der Planfeststellung für den Ausbau der B51/B481n
+- TOP 18: Umbau und Modernisierung der Empfangsgebäude des Hauptbahnhofes Münster, Bereitstellung der städtischen Finanzierungsbeteiligung - einstimmig geändert beschlossen
+- TOP 18.1: Umbau und Modernisierung der Empfangsgebäude des Hauptbahnhofes Münster, Bereitstellung der städtischen Finanzierungsbeteiligung
+- TOP 19: Wirtschaftsplan 2011/2012 der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 20: Feststellung des Jahresabschlusses und des Lageberichts der Städtischen Bühnen Münster für das Wirtschaftsjahr 2009/2010 - einstimmig beschlossen
+- TOP 21: Qualitativer Umbau und Weiterentwicklung des Leistungsfeldes Kindertagespflege - zur Kenntnis genommen
+- TOP 22: Handlungsprogramm Wohnen - einstimmig beschlossen
+- TOP 22.1: Handlungsprogramm Wohnen
+- TOP 23: Förderung des Neubaus und des Erwerbs von selbst genutztem Wohneigentum - einstimmig beschlossen
+- TOP 24: Bauleitplanung
+- TOP 24.1: Stadtbezirk Münster-West
+- TOP 24.1.1: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung - mehrheitlich beschlossen
+- TOP 24.1.1.1: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung
+- TOP 24.1.1.1.1: 29. Änd. FNP - 2. Änd. Beb.plan Nr. 342 - Beschluss über die Stellungnahmen - zur erneuten Offenlegung
+- TOP 24.2: 1. Verlängerung der Veränderungssperre Nr. 99 für den Bereich Weseler Straße 651 - 653 - mehrheitlich beschlossen
+- TOP 25: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 25.1: Gleichstellung in den Gremien der Stadt Münster - mehrheitlich beschlossen
+- TOP 25.2: Kein Atomstrom in Münster! - mehrheitlich geändert beschlossen
+- TOP 25.3: Kanalausbau gestalten - Alternativen prüfen - Grünflächen erhalten
+- TOP 25.4: Kanalausbau erträglich halten
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 26.1: Bürgerservice verbessern - Beerdigungstermine auch am Samstag - verwiesen
+- TOP 26.2: - Autofreier Sonntag - zur "Europäische Woche der Mobilität" - verwiesen
+- TOP 26.3: Schadstoffreduzierung im Bereich Hindenburgplatz/Promenade in der Adventszeit - verwiesen
+- TOP 26.4: Schwimmen im Südviertel - verwiesen
+- TOP 26.5: Münster bleibt Mobil - auch bei Schnee - verwiesen
+- TOP 26.6: Wahlkreise reduzieren - verwiesen
+- TOP 26.7: Martiniviertel stärken, Anbindung an Altstadt verbessern - verwiesen
+- TOP 26.8: Eine Halle für Hiltrups Bürgerschaft und ein zukunftsfähiges Schulzentrum für den Stadtbezirk Hiltrup - verwiesen
+- TOP 26.9: Weitere Anstrengungen zur Optimierung von Strukturen und Pro-zessen in der Stadtverwaltung sowie im Umgang mit städtischen Immobilien - verwiesen
+- TOP 27: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Verschiedenes
