@@ -1,0 +1,99 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-04-06T17:05:00+02:00
+- Ende: 2011-04-06T22:05:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2565
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2565
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=51951
+
+## Tagesordnung
+
+- TOP 1: Nachwahl eines stellvertretenden Bezirksbürgermeisters / einer stellvertretenden Bezirksbürgermeisterin - gewählt
+- TOP 2: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 3: Einwohnerfragestunde - (offen)
+- TOP 4: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 6: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6.1: Reinickendorfer Ergebnisse des Monitoring "Soziale Stadtentwicklung 2010" (Große Anfrage 09.03.2011) - beantwortet
+- TOP 6.1.1: Quartiersmanagement Auguste-Viktoria-Allee / Klixstraße - überwiesen
+- TOP 6.2: Tempo 30 in der Sandhauser Straße (Beschlussempfehlung 09.03.2011) - in der BVV abgelehnt
+- TOP 6.3: Woche der Demokratie (Beschlussempfehlung 09.03.2011) - in der BVV abgelehnt
+- TOP 6.4: Zebrastreifen am Zeltinger Platz (Beschlussempfehlung 09.03.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 6.5: Zebrastreifen am Zeltinger Platz (Beschlussempfehlung 09.03.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 6.6: Einwohnerversammlung Tegeler Insel (Antrag 09.03.2011) - in der BVV abgelehnt
+- TOP 6.7: Einwohnerversammlung in Frohnau (Antrag 09.03.2011) - erledigt
+- TOP 6.7.1: Einwohnerversammlung in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 6.8: Runder Tisch Tegeler Insel (Ersuchen 09.03.2011) - in der BVV abgelehnt
+- TOP 6.9: Zugänglichkeit Humboldt-Insel (Ersuchen 09.03.2011) - vertagt
+- TOP 6.10: Stellplatzobergrenzenverordnung (Empfehlung 09.03.2011) - vertagt
+- TOP 7: Feststellungen - (offen)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Keine Schulentwicklung ohne Plan! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Bericht über Zusammenarbeit Jugendhilfe und Schule erstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.3: Barrierefreiheit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.4: Wort halten bei PKB (Personalkostenbudgetierung) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.5: Finanzierung Straßensozialarbeit in Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.6: Unterstützung Obdachloser - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.7: Jahresbericht des Patientenfürsprechers des Vivantes Humboldt-Klinikums für das Jahr 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.8: Schulname für die 7. Integrierte Sekundarschule (12K07) Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.9: Verteilung der Geschäftsbereiche im Bezirksamt und Vertretung der Bezirksamtsmitglieder in ihren Geschäftsbereichen - vertagt
+- TOP 9: Große Anfragen - (offen)
+- TOP 9.1: Situation im Humboldt-Klinikum - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10.1: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Beschluss des Bebauungsplans 12-25B vom 6. Januar 2010 mit Deckblatt vom 25. August 2010 - überwiesen
+- TOP 11: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11.1: Stand der Sicherung des buddhistischen Hauses - erledigt
+- TOP 11.2: Güterbahnhof Schönholz - erledigt
+- TOP 11.3: Brix und Genzmer-Platz in Frohnau - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Wirtschaftsförderung XXL auf Flughafengelände TXL- Gründung einer Ansiedlungsagentur für das Flughafengelände - vertagt
+- TOP 11.5: Aufzüge für Reinickendorfer U-Bahnhöfe der Linie U8 - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Nachnutzung TXL - Vorrang für Arbeitsplätze (1) Elektromobilität - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Tourismusführer Reinickendorf neu auflegen - erledigt
+- TOP 11.8: Nachnutzung TXL - Vorrang für Arbeitsplätze (2) Vermarktungsoffensive - vertagt
+- TOP 11.9: Wirtschaftsfreundlichster Bezirk Reinickendorf (3) Last-Minute-Ausbildungsplatz-Vermittlungsbörse - erledigt
+- TOP 11.10: Sicherheit in Reinickendorf (1) Mehr Polizeipräsenz im Bezirk - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Verhinderung von Visitenkartenwerbung an Kraftfahrzeugen - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Wirtschaftsförderung XXL auf Flughafengelände TXL- Gründung einer Ansiedleragentur für das Flughafengelände - erledigt
+- TOP 11.13: TRIXI-Spiegel in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Schulstandorte in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Open-Air-Kulturveranstaltungen II - erledigt
+- TOP 11.16: Nachnutzung TXL - Vorrang für Arbeitsplätze (3): Werbung für Investoren mit Hinweisschild am Flughafen - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Verkehrssicherheit durch mehr Übersicht am Falkenplatz in Konradshöhe - ohne Änderungen in der BVV beschlossen
+- TOP 11.18: Investitionsplanung 2011 bis 2015 - vertagt
+- TOP 11.19: Öffnungszeiten der Jugendverkehrsschulen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Wahl eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Wahl von Bürgerdeputierten (Fraktion Bündnis 90/Die Grünen) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Ersuchen - (offen)
+- TOP 13.1: Sicherheit in Tegel - zurückgezogen
+- TOP 13.2: Einkaufsstraßen in Reinickendorf - überwiesen
+- TOP 13.3: Straßenbaumfällungen und Rückschnitte im März - überwiesen
+- TOP 13.4: Bezirkliches Zentren- und Einzelhandelskonzept prüfen - überwiesen
+- TOP 13.5: Glascontainer am Falkenplatz - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Fahrbahnmarkierung Roedernallee - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Anmeldungen an Grundschulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.8: Aktionstage "Zu Fuß zur Schule" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 13.9: Wirtschaftsfreundlichster Bezirk (5) - Made in Reinickendorf - überwiesen
+- TOP 13.10: Wild- und Amphibienschutz auf dem Hermsdorfer Damm - überwiesen
+- TOP 13.11: Kleintierleitsystem - überwiesen
+- TOP 13.12: Sicherheit in Reinickendorf (3) - Situation seit der Schließung von Polizeidienststellen durch den Senat - überwiesen
+- TOP 13.13: Ballfangschutznetz Hermann-Schulz-Grundschule - überwiesen
+- TOP 13.14: Karl May Spielplatz - überwiesen
+- TOP 13.15: Rettungseinsatzzeiten der Feuerwehr im Bezirk Reinickendorf - vertagt
+- TOP 14: Empfehlungen - (offen)
+- TOP 14.1: Personalplanung Tegeler Forst - vertagt
+- TOP 14.2: Bessere Verkehrsanbindung der Anwohner Alter Bernauer Heerweg - überwiesen
+- TOP 14.3: Ampelschaltung Scharnweberstraße / Kapweg / Gotthardstraße - überwiesen
+- TOP 14.4: Für die Mieter im MV - Müllabwurfanlagen unter § 68 der Bauordnung doch möglich? - vertagt
+- TOP 14.5: Schutz für engagierte Bürgerinnen und Bürger - überwiesen
+- TOP 14.6: Sauberkeit im öffentlichen Straßenland / Umgang mit Hundekot - überwiesen
+- TOP 14.7: Taschengeld für AWO-Heimbewohner - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: MSA an Gymnasien freiwillig - überwiesen
+- TOP 14.9: Nachnutzung TXL - Anwohner und Ökologie (1) Naherholungsgebiet Flughafensee - überwiesen
+- TOP 14.10: Hansa-Haus für soziale Zwecke erhalten - vertagt
