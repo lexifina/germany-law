@@ -1,0 +1,7 @@
+# TOP 3: Baustellensituation
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Verkehr (2011-04-06)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/49724
+- Ergebnis: Entgegennahme ohne Beschluss
