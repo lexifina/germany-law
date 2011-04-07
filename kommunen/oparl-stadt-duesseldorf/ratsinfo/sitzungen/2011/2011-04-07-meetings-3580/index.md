@@ -1,0 +1,51 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-04-07T17:00:00+02:00
+- Ende: 2011-04-07T19:53:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3580
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3580
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00157377.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00157377.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00157377.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Vertretern betroffener Bevölkerungsgruppen gemäß § 58 Abs. 3 Gemeindeordnung des Lande - einstimmig beschlossen
+- TOP 4: Gesamtnutzungskonzept für den Unterbacher See, Elbsee, Menzelsee und Dreiecksweiher in Düsseldorf - zur Kenntnis genommen
+- TOP 5: Polizeistatistik und Kriminalitätsentwicklung 2010 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 6: Beleuchtung Stockgartenfeld - vertagt
+- TOP 7: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8
+- TOP 8: Schlosspark-Konzert am 07.05.2011 - mehrheitlich beschlossen
+- TOP 9: Verkehrslärm Reisholzer Straße - beantwortet
+- TOP 10: Moderne Mobilitätsangebote im Stadtbezirk 8 - beantwortet
+- TOP 11: Stationsbericht des VRR - beantwortet
+- TOP 12: Parkplatzerweiterung Eller-Mitte - beantwortet
+- TOP 13: Graffitibekämpfung im Stadtbezirk 8 - beantwortet
+- TOP 14: Kinderspielplatz Bunzlauer Weg / Sandträgerweg - beantwortet
+- TOP 15: Übertragung der Straßenreinigungspflicht auf Kleingartenvereine - beantwortet
+- TOP 16: Linienkonzept 715 und U75 - einstimmig beschlossen
+- TOP 17: Kleingärtner im Stadtbezirk 8 - mehrheitlich abgelehnt
+- TOP 18: Vermarktung Gewerbeflächen Lierenfeld - einstimmig beschlossen
+- TOP 19: Tauben Gumbertstraße - zur Kenntnis genommen
+- TOP 20: Ausbau A46 Anschlussstelle Düsseldorf - Süd - einstimmig beschlossen
+- TOP 21: Barrierefreier Übergang Gumbertstraße - einstimmig beschlossen
+- TOP 22: Graffiti-Beseitigung Toilettenanlage Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 23: Bordsteinabsenkung Neusalzer Weg - einstimmig beschlossen
+- TOP 24: Fenstererneuerung Gerresheimer Landstraße 101 - einstimmig beschlossen
+- TOP 25: Fahrbahnmarkierung Gumbertstraße - einstimmig beschlossen
+- TOP 26: Kanalbaumaßnahme Werstener Feld - zur Kenntnis genommen
+- TOP 27: Parkplatzneubau Festenbergstraße - zur Kenntnis genommen
+- TOP 28: Beleuchtung Brorsstraße - zur Kenntnis genommen
+- TOP 29: Verbesserung der Fahrgastinformation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 30: Sozialer Mietwohnungsbestand im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 31: Tauben Unterführung Gumbertstraße - zur Kenntnis genommen
+- TOP 32: Bürger/innen - Haushalt - zur Kenntnis genommen
+- TOP 33: LKW - Parken in Wohngebieten - zur Kenntnis genommen
+- TOP 34: Reparaturarbeiten Lore-Lorentz-Schule - zur Kenntnis genommen
