@@ -1,0 +1,64 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-04-07T16:00:00+02:00
+- Ende: 2011-04-07T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWZgeh2_9Owy9Bl7wgnnsy0
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3830
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbgwRBsKbR0mhWXMv-0fOeyLr5zIBpSBciorTRlSBaJ1/Oeffentliche_Niederschrift_Rat_07.04.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Vorschlag für die En-bloc-Abstimmung
+- TOP 3: Protokoll
+- TOP 4: Protokoll über die 13. Sitzung des Rates am 07.04.2011
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: 36. ordentliche Hauptversammlung des Deutschen Städtetages
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: I. Änderung der Zuständigkeiten der Ausschüsse
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Festsetzung des Höchstbetrags der Kredite zur Liquiditätssicherung
+- TOP 11: Änderung des Gesellschaftsvertrages der Städtische Musikschule Solingen GmbH
+- TOP 12: Duplikat von Änderung des Gesellschaftsvertrages der zukünftigen Institut für Galvano- und Oberflächentechnik Solingen KG (IGOS)
+- TOP 13: Änderung des Gesellschaftsvertrages der zukünftigen Institut für Galvano- und Oberflächentechnik Solingen KG (IGOS)
+- TOP 14: Finanzierungsübertragung auf den VRR
+- TOP 15: Änderungssatzung zur Gebührensatzung für den Rettungsdienst der Stadt Solingen
+- TOP 16: Übertragung des Birker Bades
+- TOP 17: Übertragung des Birker Bades
+- TOP 18: Frauenförderplan 2010
+- TOP 19: Beitritt der Stadt Solingen zur EU-Charta für die Gleichstellung von Männern und Frauen
+- TOP 20: Bewerbung der Stadt Solingen als Fairtrade-Stadt
+- TOP 21: Neufassung der Baumschutzsatzung
+- TOP 22: Bauleitplanung Freizeitanlage Aufderhöhe
+- TOP 23: Bündnis für eine Soziale Stadt
+- TOP 24: Verkehrsplanung Dickenbusch
+- TOP 25: Bürger- und Tourismusbüro Ohligs
+- TOP 26: Schulentwicklungsplan für Solingen
+- TOP 27: Haushalt 2011
+- TOP 28: Konsequenzen aus der Atomkatastrophe in Japan vom 11.3.2011
+- TOP 29: Konsequenzen aus der Atomkatastrophe in Japan vom 11.3.2011
+- TOP 30: Konsequenzen aus der Atomkatastrophe in Japan vom 11.3.2011
+- TOP 31: Verschiedenes
+- TOP 32: Übergangsheim Kronprinzenstraße
+- TOP 33: Finanzielle Auswirkungen der Änderung des Einschulungsstichtags
+- TOP 34: Inklusion an weiterführenden Schulen
+- TOP 35: Personalsituation der Stadt Solingen
+- TOP 36: Auswirkungen des § 108 a der Gemeindeordnung NRW
+- TOP 37: Jahresbericht des Bergischen Veterinär- und Lebensmittelüberwachungsamtes
+- TOP 38: Kommunalkonferenz Integration durch Bildung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll über die 13. Sitzung des Rates am 07.04.2011
+- TOP 4: Verleihung des Ehrenpreises der Stadt Solingen Die Schärfste Klinge 2011
+- TOP 5: Prüfung der Jahresrechnung 2008 der "Eheleute-Carl-Ruß-Stiftung" (Bericht Nr. 4/2010)
+- TOP 6: Anteilskauf von Geschäftsanteilen an der Gründer- und Technologiezentrum Solingen GmbH durch die Beteiligungsgesellschaft Stadt Solingen mbH
+- TOP 7: Bauleitplanung Freizeitanlage Aufderhöhe
+- TOP 8: Verschiedenes
+- TOP 9: Geschäftsführung der Städtisches Klinikum Solingen gGmbH
