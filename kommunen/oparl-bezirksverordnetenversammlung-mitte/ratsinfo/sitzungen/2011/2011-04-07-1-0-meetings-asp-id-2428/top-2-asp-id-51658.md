@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls der 49. Sitzung am 03.03.2011
+
+- Sitzung: 50. öffentliche Sitzung des Jugendhilfeausschusses (2011-04-07)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=51658
+- Ergebnis: ohne Änderungen im Ausschuss beschlossen
