@@ -1,0 +1,51 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2011-04-08T16:00:00+02:00
+- Ende: 2011-04-08T20:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1574
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1574
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Leben retten durch den Einsatz von Defibrillatoren - einstimmig zugestimmt
+- TOP 6: Umbau und Erweiterung der Rettungswache Nord - einstimmig zugestimmt
+- TOP 7: Bebauungsplan Nr. 462 - Stresemannallee, Rennbahnbüropark - - zur Kenntnis genommen
+- TOP 8: Bebauungsplan Nr. 453 - Pomona, Jülicher Landstraße- - einstimmig zugestimmt
+- TOP 9: Vorhabenbezogener Bebauungsplan Nr. V 456 - Rheintorstraße / Düsseldorfer Straße - - einstimmig zugestimmt
+- TOP 10: Flächennutzungsplanänderung Nr. 123 - Hammfeld, Rheinpark-Center - - einstimmig zugestimmt
+- TOP 11: Bebauungsplan Nr. 469 - Hammfeld, Rheinpark-Center - - einstimmig zugestimmt
+- TOP 12: Bebauungsplan Nr. 165/3 - Furth-Süd, Steinhausstraße / Ubierstraße - - zur Kenntnis genommen
+- TOP 13: Antrag auf Aufstellung eines Bebauungsplans für den Bereich Vogelsang, Bataverstraße / Josef-Selders - einstimmig zugestimmt
+- TOP 14: Flächennutzungsplanänderung Nr. 119 - Düsseldorfer Straße/ Rheintorstraße/ Hafenmole1 - - einstimmig zugestimmt
+- TOP 15: Prüfung des Jahresabschlusses 2009 der Stadt Neuss und der Sonderhaushalte - zur Kenntnis genommen
+- TOP 16: Überörtliche Prüfung der Eröffnungsbilanz - zur Kenntnis genommen
+- TOP 17: Ergänzungsprüfung Beihilfe - zur Kenntnis genommen
+- TOP 18: Überörtliche Prüfungen - zur Kenntnis genommen
+- TOP 19: Romaneum, Freiflächengestaltung der Grünfläche ‚Am Kehlturm’ - einstimmig zugestimmt
+- TOP 20: 2. Satzung zur Änderung der Betriebssatzung vom 24. Juni 2005 der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 21: Grünverbindung am Lärmschutzwall Neubaugebiet Allerheiligen BBebauungsplan Nr. 443 - einstimmig zugestimmt
+- TOP 22: Straßenbegleitgrün Neubaugebiet Allerheiligen B, Bebauungsplan Nr. 443 - einstimmig zugestimmt
+- TOP 23: Erschließung B-Plan 450 - Hoisten, Kreuzstraße - einstimmig zugestimmt
+- TOP 24: Umbau Bushaltestelle "Engelbertstraße" auf der Plankstraße - einstimmig zugestimmt
+- TOP 25: Umbau Bushaltestelle "Jahnstraße" auf der Preußenstraße - einstimmig zugestimmt
+- TOP 26: Umbau Bushaltestelle "Gnadentaler Allee" - einstimmig zugestimmt
+- TOP 27: 1. Anpassung der Entgelte der Musikschule,2. Änderungen der Bestimmungen,etc - einstimmig zugestimmt
+- TOP 28: Fehlbetragsverwendungsbeschluss für den Jahresabschluss des Haushaltsjahres 2009 - einstimmig zugestimmt
+- TOP 29: Wahl einer/eines Beigeordneten - zur Kenntnis genommen
+- TOP 30: Dienstreisegenehmigung von Stadtverordneten Karl-Rüdiger Himmes - zur Kenntnis genommen
+- TOP 31: Antrag der ZIN-Zukunftsinitiative Innenstadt Neuss e.V - zur Kenntnis genommen
+- TOP 32: Antrag der SPD-Fraktion vom 25.03.2011 betr:Mitverantwortung der Vereine auf den Sportanlagen - zur Kenntnis genommen
+- TOP 33: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Konzept zum Erhalt der Buslinie 850 - einstimmig zugestimmt
+- TOP 34: Antrag der Fraktion Bündnis90/Die Grünen betr.: Beiratssitze von Herrn Bürgermeister Napp bei RWE - zur Kenntnis genommen
+- TOP 35: Antrag der Fraktion Bündnis 90/Die Grünen betr.: Verkauf der RWE-Aktien im städtischen Besitz - verwiesen
+- TOP 35.1: Verwaltungsgerichtliches Verfahren Bürgermeister Herbert Napp ./. Stadt Neuss - zur Kenntnis genommen
+- TOP 36: Einwohnerfragestunde - zur Kenntnis genommen
