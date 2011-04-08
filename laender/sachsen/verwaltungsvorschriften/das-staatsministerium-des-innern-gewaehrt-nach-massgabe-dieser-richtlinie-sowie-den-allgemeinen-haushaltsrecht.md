@@ -1,8 +1,8 @@
 # Das Staatsministerium des Innern gewährt nach Maßgabe dieser Richtlinie sowie den allgemeinen haushaltsrechtlichen Bestimmungen, insbesondere §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2009-11-13 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11173.1
+- Datum: 2011-04-08 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11173.2
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -108,7 +108,7 @@ Zuwendungen nach Ziffer II werden als nicht rückzahlbarer Zuschuss im Rahmen de
 
 2.
 
-Zuwendungen für Projekte nach Ziffer II werden als Anteilsfinanzierung bewilligt. Der Förderanteil des Freistaates Sachsen beträgt regulär bis zu 75 Prozent der anerkannten zuwendungsfähigen Ausgaben. In Ausnahmefällen kann für die ersten sechs Monate des Projektes auf begründeten Antrag eine Zuwendung von 90 Prozent der zuwendungsfähigen Ausgaben gewährt werden.
+Zuwendungen für Projekte nach Ziffer II werden als Anteilsfinanzierung bewilligt. Der Förderanteil des Freistaates Sachsen beträgt regulär bis zu 90 Prozent der anerkannten zuwendungsfähigen Ausgaben.
 
 3.
 
