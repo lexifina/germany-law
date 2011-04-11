@@ -1,0 +1,83 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-04-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2216993
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2216993
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Befragung Bewohnertreff Karlingerstraße
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Meggendorfer Straße
+- TOP 3.2.: Ortstermin Fa. Dehner
+- TOP 3.3.: Ortstermin Baldurstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Umbau und Sanierung der ehem. Gaszählerprüfwerkstatt, Emmy-Noether-Str. 2
+- TOP 3.2.: Neubau eines kirchlichen Gemeindezentrums Hanauer Str. 54
+- TOP 3.4.: Neubau eines Gemeinschaftshauses für einen Kindergarten, ein Kindertageszentrum, einen Hort, einen Bürgertreff und die Arche, in der Brieger Straße
+- TOP 3.5.: Baupläne Fa. Lidl, Hanauer Str. 2
+- TOP 3.6.: IT-Rathaus, Agnes-Pockels-Bogen
+- TOP 3.9.: Kiosk Memminger Platz
+- TOP 3.10.: Plakatwände
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Reinigung der Unterführung am Memminger Platz
+- TOP 3.2.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Straßenunterhalt-Maßnahmen
+- TOP 4.2.: Wochenmarkt-Übergangslösung
+- TOP 4.3.: Pflasterung einer Fläche an der Tramhaltestelle Hugo-Troendle-Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Parkbänke in der Grünanlage Liegnitzer - / Merseburger Str.
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 6: Anhörungen
+- TOP 6.3.: Brieger Straße: Errichtung Kindertagesstätte, Kinder- / Jugendzentrum und Nachbarschaftstreff
+- TOP 6.5.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege
+- TOP 6.6.: Haldenbergerstraße 28; Ändern der Kurzparkzone von ?1 Stunde? auf ?2 Stunden?
+- TOP 6.7.: Vollzug der Baumschutzverordnung: Weidmannstr. 21
+- TOP 6.8.: Jubiläumsfeier der Siedlervereinigung Moosach e.V. am 02.07.2011 auf dem Simmerleinplatz
+- TOP 6.9.: Spielaktionen Spiellandschaft Stadt
+- TOP 6.10.: Dezentrales Güterverkehrszentrenkonzept (Stadtrats-Vorlage Nr. 08-14 / V 04152)
+- TOP 6.11.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern (Stadtrats-Vorlage Nr. 08-14 / V 04822)
+- TOP 6.12.: Kunstprojekt ?Skulptur Protest?
+- TOP 6.13.: Kurzparkzone Baubergerstraße
+- TOP 6.14.: Verkauf einer städt. Immobilie: Bunzlauer Str. 11
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Schmalere Buswartehäuschen (technisch möglich, Finanzierung fraglich)
+- TOP 7.2.: Verlängerung des 10-Minuten-Taktes der Buslinie 169 bis 21 Uhr (abgelehnt wegen zu geringer Fahrgastnachfrage)
+- TOP 7.3.: Winterdienst Ecke Dachauer- /Hugo-Troendle-Straße (an Vertragsfirma weitergegeben)
+- TOP 7.4.: Beibehaltung der Haltestellen in der Großbeerenstraße (wird umgesetzt)
+- TOP 7.5.: Betrieb der Post und der Postbank auch während der Bauzeit (Alternativen werden gesucht)
+- TOP 7.6.: Zuordnung der Bushaltestellen Haylerstraße und Eininger Straße in die MVV-Zeitkartenringeinteilung (Einteilung in den 3. Ring abgelehnt)
+- TOP 7.7.: Pünktlichkeit der Metrobus-Linie 50 (MVG sieht derzeit noch keinen konkreten Handlungsbedarf)
+- TOP 7.8.: Reinigung der Unterführung am Memminger Platz (ist an Vertragsfirma vergeben)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Fahrbahnsanierung Baldurstraße zwischen Dantestraße und Nederlinger Straße
+- TOP 8.4.: Pächterwechsel Schank- und Speisewirtschaft Bingener Str. 43
+- TOP 8.5.: Verkehrsregelung in der Trinkl-Siedlung (Antwort des KVR auf eine Bürgeranfrage)
+- TOP 8.6.: Errichtung eines allgemeinen Behindertenparkplatzes in der Hanauer Str. 65 Seite Ehrenbreitsteiner Straße
+- TOP 8.7.: Bescheid Fällungsantrag Glogauer Platz 3
+- TOP 8.8.: Zweckentfremdung Simrockstraße
+- TOP 8.9.: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011 ? 2015 (Stadtrats-Vorlage Nr. 08-14 / V 06248)
+- TOP 8.10.: Sind doppelstöckige Fahrradabstellanlagen die Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten? (Stadtrats-Vorlage Nr. 08-14 / V 06307)
+- TOP 8.11.: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen (Stadtrats-Vorlage Nr. 08-14 / V 06323)
+- TOP 8.12.: Beseitigung höhengleicher Bahnübergänge; Ergänzung vom 11.02.2011 (Stadtrats-Vorlage Nr. 08-14 / V 03800)
+- TOP 8.13.: Sozialreferat: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger?: des Sozialreferates / Zentrale (Stadtrats-Vorlage Nr. 08-14 / V 06231), des Amtes für Soziale Sicherung (Stadtrats-Vorlage Nr. 08-14 / V 06214), des Stadtjugendamtes (Stadtrats-Vorlage Nr. 08-14 / V 06304), des Amtes für Wohnen und Migration (Stadtrats-Vorlage Nr. 08-14 / V 06263) (Umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.14.: Münchner Statistik (3. Quartalsheft, Jahrgang 2010)
+- TOP 6.1.: Werbenutzungsvertrag der Landeshauptstadt München
+- TOP 6.4.: Durchführung eines immissionsschutzrechtlichen Genehmigungsverfahrens: Erweiterung von Lagerkapazität, Durchsatzleistung und Betriebszeiten sowie bauliche Maßnahmen einer Schrott- und Metallrecyclingfirma
+- TOP 6.2.: Errichtung eines Hauses für Kinder mit 2 Kinderkrippen-, 2 Kindergarten- und 1 Hortgruppe an der Baubergerstraße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
