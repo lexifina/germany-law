@@ -1,0 +1,8 @@
+# TOP 18: Fortschreibung des Integrierten Stadtentwicklungskonzeptes (INSEK 2002)
+
+- Sitzung: 23. Sitzung des Ortschaftsrates Gompitz (2011-04-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/26019
+- Ergebnis: erledigt
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/5382
