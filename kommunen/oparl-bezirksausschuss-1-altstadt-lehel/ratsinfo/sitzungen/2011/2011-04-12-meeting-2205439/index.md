@@ -1,0 +1,99 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-04-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205439
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205439
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: NACHTRAG: 2. Stammstrecke ? Vorwegmaßnahmen am Marienhof für eine Inbetriebnahme im Jahr 2017
+- TOP .2.: NACHTRAG: Isarinselfest 2011
+- TOP .3.: NACHTRAG: Nektarbeach 2011 auf der Praterinsel
+- TOP .5: Allgemeine Themen
+- TOP .1.: Änderung des Katalogs zur BA-Satzung, Abschnitt Sozialreferat Ziffer 11: Vollzug der Zweckentfemdungsverordnung
+- TOP .2.: UA: Anfrage zur Schaffung von Ersatzwohnraum
+- TOP 1: (E) Bebauung des Radspielergarten verhindern Empfehlung Nr. 08-14 / E 00797 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 30.11.2010
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Sendlinger Str. 8 RGB: Teilbaugenehmigung: Deckenplatte, Treppenhauskern, Nutzungsänderung und Umbau des ehemaligen Druckereigebäudes
+- TOP 1.2.: Knöbelstr. 28: Umbau und Sanierung des Rückgebäudes, Nutzungsänderung, Teilabbruch des Gebäudes und Ersatz durch Neubau, Balkonanbau
+- TOP 1.3.: Maximilianstr. 35: Umbau, Nutzungsänderung
+- TOP 1.4.: Maximilianstraße 6: Umbau und Erweiterung, VORBESCHEID, vertagt aus 2011.02 B 3.1.2, 2011.03 B 3.1.5
+- TOP 1.5.: Maximilianplatz 10: Errichtung einer Freischankfläche für das ?Café Luitpold?
+- TOP 1.6.: Maximilianplatz 10: Erweiterung des ?Café Luitpold?
+- TOP 1.7.: Tattenbachstraße 18: DG-Ausbau, Anbau Aufzug, Balkone
+- TOP 1.8.: Tal 15: Nutzungsänderungen
+- TOP 1.1.: Änderung der BA-Satzung: Schaffung einer/s Beauftragten für Stadtteilheimatpflege
+- TOP 1.2.1: Gaststätten
+- TOP 1.2.2: Sondernutzungen
+- TOP 1.1.: Widerrufe von Sondernutzungserlaubnissen für mobile Fahrradständer in einem Teilbereich der Sendlinger Straße
+- TOP 1.2.: Marienplatz 8: Verkaufseinrichtung Rathausapotheke am Marienplatz
+- TOP 1.3.: Frauenstraße 30: Verkaufseinrichtung ?X-Large?
+- TOP 1.4.: NACHTRAG: Flohmarkt LISAR am 28.05.2011 (Ersatztermin 04.06.2011) auf der Isarpromenade entlang der Widenmayerstraße (von Höhe Maximilianbrücke bis Höhe Liebigstraße)
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Info-Veranstaltung DLRG am 07.05.2011, Richard-Strauss-Brunnen
+- TOP 1.2.: Französischer Gourmetmarkt vom 27. - 30.04.2011, Rindermarkt
+- TOP 1.3.: Info-Veranstaltung ?Walk of Liberty? am 18.04.2011, Richard-Strauss-Brunnen
+- TOP 1.4.: NACHTRAG: Kunstprojekt ?Skulptur Protest?
+- TOP 1.5.: NACHTRAG: Pfarrfest der Französischsprachigen Katholischen Misson St. Anna am 26.06.2011
+- TOP 1.6.: NACHTRAG: DGB-Kultur-Familienfest und Open-Air-Konzert am 01.05.2011, Marienplatz, Tal, Viktualienmarkt
+- TOP 1.1.: Leerungsfrequenz der Abfalleimer am Busparkplatz Thomas-Wimmer-Ring
+- TOP 1.2.: Werbenutzungsvertrag LHM
+- TOP 1.1.: UA: Ortstermin Tal mit Vertretern der Stadtratsfraktionen
+- TOP 1.2.: UA: Neuregelung der Zufahrt auf den St.-Anna-Platz
+- TOP 1.1.: Barrierefreier Ausbau des S-Bahn-Hp Karlsplatz
+- TOP 1.2.: Parklizenzbeschilderung für die städtische Privatstraße 'Am Gries', vertagt aus 2011.02 D 3.1
+- TOP 1.1.: Denkmal für verfolgte Schwule und Lesben ? Wahl einer Vertreterin/ eines Vertreters
+- TOP 1.1.: UA: Antrag für ein ?Bunkermuseum? in der Blumenstraße
+- TOP 1.1.: ?Tag des offenen Denkmals?
+- TOP 1.2.: Spieleaktion Spiellandschaft Stadt e.V. auf der Grünanlage am Vater-Rhein-Brunnen
+- TOP 1.3.: Beschlussvorlage des Kulturausschusses vom 03.03.3011: Erinnerungsorte München
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren ohne Beachtung der Baukosten
+- TOP 0.4.: Antwortschreiben zum BA-Antrag Nr. 08-14 / B 02429: Boltzplatz Glockenbach-werkstatt, TOP 2011.01 B 1.3
+- TOP 0.5.: Schreiben des BA 21, BA 25 bzgl. des Antrags des BA 1 zum Thema Spielhallen, TOP 2011.01 B 1.2
+- TOP 0.6.: Antwortschreiben und Vorbescheid zum Bauvorhaben Oettingenstr. 6, TOP 2011.03 B 3.1.7
+- TOP 0.7.: Abgeschlossenheitsbescheinigungen 2010 im Stadtbezirk 1
+- TOP 0.8.: Beschluss des Planungsausschusses am 13.04.2011: Langsfristige Siedlungspolitik
+- TOP 0.9.: Bekanntgabe des Planungsausschusses am 13.04.2011: Beschlussvollzugskontrolle
+- TOP 0.10.: Beschluss des Planungsauschusses am 13.04.2011: Regionsbericht 2010
+- TOP 0.11.: Beschluss des Planungsausschusses am 13.04.2011: Perspektive München ? Fortschreibung 2011
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldungen von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung vom 10.03.2011: Kunst im öffentlichen Raum - "Wasser-Werke" am Max-Joseph-Platz vom 01.07. - 31.08.2011
+- TOP 0.6.: Eilentscheidung Festzug anlässlich des 100jährigen Jubiläums des Polizeichors am 02.04.2011 von der Heilig Geist Kirche zum Hofbräuhaus
+- TOP 0.7.: Eilentscheidung Japan Spenden Aktion am 01.04.2011 auf dem sog. Odeonsplatz
+- TOP 0.8.: Eilentscheidung Vorstand zum Fest am Fortunabrunnen
+- TOP 0.9.: Antwortschreiben des KVR zur Sondernutzungserlaubnis ?Boutique Linda im Rathaus?, TOP 2011.03 C 3.2.3
+- TOP 0.10.: Antwortschreiben des KVR zur Stellungnahme des BA zum ?Fränkischen Weinfest?, TOP 2011.03 C 3.1.2
+- TOP 0.1.: Verkehrsrechtliche Anordnung gem. § 45 Abs. 1 S. 1 StVO: Erweiterung der Blauen Zone und der Tempo-30-Zonen in der Altstadt; Änderung der Parkgebühren
+- TOP 0.2.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 23.03.2011: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen
+- TOP 0.3.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 23.03.2011: Doppelstöckige Fahrradabstellanlagen als Lösung für drängende Platzprobleme
+- TOP 0.4.: Beschluss kreisverwaltungsausschuss vom 15.03.2011: CarSharing in München
+- TOP 0.5.: Schreiben der MVG vom 03.03.2011: Weichenerneuerung zwischen Goetheplatz und Sendlinger Tor
+- TOP 0.6.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 23.02.2011: Entwicklung des Verkehrs in München
+- TOP 0.7.: Schreiben des RAW bzgl. BA-Antrag Nr. 08-14 / B 02610, BA 20: Schmalere Buswartehäuschen
+- TOP 0.8.: Ergänzung zum Beschluss des Bauausschusses vom 01.03.2011: Beseitigung höhengleicher Bahnübergänge
+- TOP 0.9.: Schreiben zur Rundparkbank um den Baum Rosenstraße
+- TOP 0.1.: Beschluss Ausschuss für Stadtplanung und Bauordnung vom 23.03.2011: Siedlungsentwicklung und Infrastrukturversorgungskonzept
+- TOP 0.2.: Zwischennachricht zum BA-Antrag 08-14 / B 01983: Konzept MaximilianForum
+- TOP 0.3.: Beschlüsse des Kinder- und Jugendhilfeausschusses und des Sozialaus-schusses vom 14.04.2011. Zuschussnehmerdatei 2011, Vollzug des Haushaltsplans 2011 für den Bereich ?Förderung freier Träger? des Amts für Soziale Sicherung, Sozialreferates/Zentrale, des Jugendamtes und des Amtes für Wohnen und Migration
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
