@@ -1,0 +1,113 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126657
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126657
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers vom 15.03.2011 Abschalten der Ampel am Siegestor (s. TOP C 2.1.3)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 9., 10., 11., 12. KW,
+- TOP 2.1.2.: Arnulfstraße 52, Errichtung eines Biergartens, Neubau von Biergartenausgaben vertagt aus 03/2011 (TOP B 2.1.11): Die Baupläne lagen zur Sitzung des BA 3 im März 2011 noch nicht vor; die übrigen Unterlagen liegen bereits vor.
+- TOP 2.1.3.: Referat für Stadtplanung und Bauordnung, Anhörung Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz, Strecke 5550 Pasing - Ostbahnhof
+- TOP 2.1.4.: Direktorium, Anhörung Schaffung eines/r Beauftragten für Stadtteilheimatpflege BA-Antrag Nr. 08-14 / B 02521 des BA 13 Bogenhausen
+- TOP 2.1.5.: Schellingstraße 72, Umbau und Erweiterung eines Wohnheimes
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Katharina-von-Bora-Straße 8 a: Holunder, zweistämmig
+- TOP 2.2.2.: Vollzug der Baumschutzverordnung Schellingstraße 72, Umbau und Erweiterung eines Wohnheimes
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Baureferat, Stellungnahme zu der geplanten Beschlussvorlage ?ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern?
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement Empfehlung Nr. 08-14 / E 00811 der Bürgerversammlung des 3. Stadtbezirkes Maxvor- stadt am 09.12.2010 sitzungsvorlage Nr. 08-14 / V 06078 Fußgänger- und Radfahrerampel an der Kreuzung Nymphenburger-/Sandstraße: auch abends Dauerbetrieb statt Bedarfsfunktion (Ziffer 2 des Antrages). Vertagt aus der Sitzung 03/2011, TOP C 2.1.4 Unterlagen liegen bereits vor
+- TOP 2.1.3.: Antrag eines Bürgers vom15.03.2011 Abschalten der Ampel am Siegestor (s. TOP 5.2.1)
+- TOP 2.1.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Entscheidung Ladezone Augustenstraße 31/33 (Münchener Volkstheater)
+- TOP 2.1.5.: Kreisverwaltungsreferat, verkehrsrechtliche Anordnung: Umzug der Polizeiinspektion 42 von der Erzgießereistraße 2 in die Landshuter Allee 38, geplant zum 31.08.2011; Anpassung der Beschilderungen im ruhenden Verkehr
+- TOP 2.1.6.: Baureferat, Tiefbau, Beschlussvorlage Maßmannstraße, Projekt-Nr. 100495 Umbau des bestehenden Gehweges in einen Zweirichtungsradweg
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Entscheidungen über Sondernutzungserlaubnisse: a) Georgenstraße 81, Verkaufseinrichtung auf öffentlichem Grund b) Türkenstraße 48, Verkaufeinrichtung auf öffentlichem Grund c) Barer Straße 62, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung: Flohmarkt des Nachbarschaftstreffs Arnulfpark, Verein für Sozialarbeit e.V., an der Erika-Mann-Straße am 07.05.2011
+- TOP 2.2.3.: (E) Wiederaufstellung von sechs Pollern in der Blutenburgstraße Empfehlung Nr. 08-14 / E 00809 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 09.12.2010
+- TOP 2.2.4.: 2.2.4 Baureferat Begrünung der Neureutherstraße Empfehlung Nr. 08-14 / E 00176 der Bürgerversammlung des BA 3 am 13.11.2010 Sitzungsvorlage Nr. 08-14 / V 03326
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung: TUNIX Open.Air vom 15. bis 19.06.2011 auf der Wiese hinter der Glyptothek, Arcisstraße 17
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Aufführungdes Volkstheaters am 09. und 10.05.2011 auf dem Königsplatz
+- TOP 2.4.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Rainbow Over Ghana Infostand am 04.05.2011 auf dem Geschwister-Scholl-Platz
+- TOP 2.4.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung 2. Münchner Sportfestival auf dem Königsplatz am 03.07.2011
+- TOP 2.4.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Straßenfest am 02.05.2011 Oskar-von-Miller-Ring/Brienner Straße
+- TOP 2.4.6.: Kreisverwaltungsreferat, VVB, Anhörung Konzerte Am Königsplatz am 25. und 26.06.2011
+- TOP 2.4.7.: Kreisverwaltungsreferat, VVB, Anhörung Spielaktionen Spiellandschaft Stadt e.V. etc. auf diversen Grünanlagen ab April 2011; BA 3: Arnulfpark, Arnulfstraße zwischen Hackerbrücke und Donnersberger Brücke
+- TOP 2.4.8.: Kreisverwaltungsreferat, VVB, Anhörung Marktveranstaltung Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 12.05. bis 23.05.2011 (Aufbau ab 09.05., Abbau bis 23.05.2011)
+- TOP 2.4.9.: Kreisverwaltungsreferat, VVB, Anhörung Straßenfest in der Steinheilstraße am 28.05.2011
+- TOP 2.4.10.: Kreisverwaltungsreferat, VVB, Anhörung Benefizveranstaltung am Geschwister-Scholl-Platz am 10.05.2011
+- TOP 2.4.11.: Kreisverwaltungsreferat VVB, Anhörung (Tischvorlage) Osterfeuer am 23.04.2011 in der Grünanalge am Josephsplatz
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Theatergruppe "post it - productions" Theaterprojekt "Optische Trilogie" von Juni - Oktober 2011
+- TOP 2.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3.: Schreiben des Kulturreferates vom 25.03.2011: Erinnerungsorte München Die vergessenen Orte der Topographie des Terrors sichtbar machen ? Ort und Erinne- rung zusammenbringen Antrag Nr. 08-14 / A 00457 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.12.2008
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Von-der-Tann-Straße 2, Umbau und denkmalgerechte Sanierung eines Bürogebäudes, Umgestaltung der Fassade und des Eingangsbereiches im EG, Nutzungsänderung des un- terirdischen Tresors in eine Technikzentrale sowie Neubau einer unterirdischen Anbindung an die Tiefgarage der Anwesen Ludwigstraße 6 - 10
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011 ? 2015 Sitzungsvorlagen Nr. 08-14 / V 06248
+- TOP 1.3.: Referat für Bildung und Sport, Antwortschreiben vom 08.02.2011 zum Antrag Nr. 02-08 / B 02395 des BA 20 Hadern: Gebäude-Energiepass für alle Münchner Schulen
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Laufaktion pro Olympia ?PROLYMPIC?, Eilentscheidung des Vorsitzenden durch Frist- ablauf und Genehmigungsbescheid
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro: Umzug des Narhalla Prinzenwagens in der Innenstadt am 08.03.2011, Bescheid
+- TOP 2.3.: Schreiben des Abfallwirtschaftsbetriebes München zur Christbaumsammlung 2011 an weite ren haushaltsnahen Sammelplätzes
+- TOP 2.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Umzug des Narhalla Prinzenwagens am 08.03.2011, Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Parade zum St. Patrick's Day am 13.03.2011, Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für Parade zum St. Patrick's Day am 13.03.2011
+- TOP 2.7.: Baumaßnahmen der Stadtwerke a) Karlstraße 77, Strom b) Theresienstraße 79, Fernwärme c) Blütenstraße 12, Fernwärme d) Heßstraße 41, Fernwärme e) Theresienstraße 144, Fernwärme f) Karolinenplatz 1, Fernwärme g) Blutenburgstraße 13, Gas, Fortführung nach Frostperiode
+- TOP 2.8.: Baureferat, Erneuerung der Beleuchtung im Altstadtringtunnel und im Brudermühltunnel Beschluss der Vollversammlung des Stadtrates vom 16.02.2011
+- TOP 2.9.: Münchner Verkehrsgesellschaft mbH (MVG), Schreiben vom 03.03.2011: Weichenerneuerung zwischen Goetheplatz und Sendlinger Tor
+- TOP 2.10.: Kreisverwaltungsreferat, Verkehrsmanagement, Beschlussvorlage für den Kreisverwaltungs- ausschuss am 15.03.2011: CarSharing in München; Durchführung von Pilotprojekten BA-Antrag Nr. 08-14 / B 02739 des BA 06, Sitzungsvorlagen Nr. 08-14 / V 05883
+- TOP 2.11.: Kreisverwaltungsreferat, Arbeiten im Straßenraum Sandstraße zwischen Dachauer- und Josef-Ruederer-Straße, Verlegung einer Fern- wärmeleitung
+- TOP 2.12.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen Sitzungsvorlagen Nr. 08-14 / V 06323
+- TOP 2.13.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Ja mia san mim Radl do ? sind doppelstöckige Fahrradabstellanlagen die Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten Sitzungsvorlagen Nr. 08-14 / V 06307
+- TOP 2.14.: Münchner Volkstheater, Antrag an das Kreisverwaltungsreferat vom 09.03.2011: Antrag auf Beschilderung und Ausweisung als Bereich mit eingeschränktem Halteverbot werktags von 07.00 bis 10.00 Uhr Augustenstraße 31 ? 33, Parkbucht
+- TOP 2.15.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, verkehrsrechtliche Erlaubnis: Pfarrfest der Pfarrei St. Benno am 07.05.2011 auf dem Ferdinand-Miller-Platz
+- TOP 2.16.: Kreisverwaltungsreferat, Verkehrsmanagement: CarSharing in München, Durchführung von Pilotprojekten, Entwurf einer Beschlussvorlage, Eilentscheidung des Vorsitzenden
+- TOP 2.17.: Referat für Arbeit und Wirtschaft, Werbenutzungsvertrag der LH München, Anhörung Stellungnahme zu Standortvorschlägen Eilentscheidung des Vorsitzenden
+- TOP 2.18.: Referat für Arbeit und Wirtschaft Stellungnahme zum BA-Antrag Nr. 08-14 / B 02610 des BA 20 vom 13.12.2010 schmalere Buswartehäuschen
+- TOP 2.19.: Baureferat, ergänzende Vorlage zum Beschluss des Bauausschusses vom 01.03.2011 Beseitigung höhengleicher Bahnübergänge, Ergänzung vom 11.02.2011
+- TOP 2.20.: Kreisverwaltungsreferat, Verkehrsmanagement: Parkraummanagement, Parklizenzgebiete ?Marsfeld? und ?St. Vinzenz-Viertel?; Verschiebung der Gebietsgrenzen und Absenkung der Bewirtschaftungszeit
+- TOP 2.21.: Kreisverwaltungsreferat, VVB, Anhörung zum Verkehrsparcours der Verkehrspolizeiin- spektion München, Anhörung, Eilentscheidung des Vorsitzenden vom 24.03.2011
+- TOP 2.22.: Schreiben der Vorsitzenden des BA 9 Neuhausen-Nymphenburg vom 21.03.2011: Aufhebung der Radwegbenutzungspflicht in der Nymphenburger Straße (s. TOP C1.1/0211)
+- TOP 2.23.: Kreisverwaltungsreferat, Verkehrsmanagement Verkehrsrechtliche Anordnung nach § 45 StVO, Haltverbot Oskar-von-Miller-Ring
+- TOP 2.24.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Vollzug des Bayerischen Straßen- und Wegegesetzes (BayStrWG), beantragte Freischank- fläche der Gaststätte ?Goldoni?, Augustenstraße 31
+- TOP 2.25.: Kreisverwaltungsreferat, Verkehrsmanagement Verkehrsrechtliche Anordnung gem. § 45 StVO Errichtung eines absoluten Haltverbotes im Bereich Schleißheimer Straße 19
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung Wohnungsnahe Versorgung mit öffentlichen Spielflächen ? Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes Sitzungsvorlagen Nr. 08-14 / V 05936
+- TOP 3.2.: Referat für Stadtplanung und Bauordnung Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen, Kommunale Erfahrungen und Ansätze
+- TOP 3.3.: Sozialreferat, Beschlussvorlage, Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011, für den Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale, des Amtes für Soziale Sicherung, des Stadtjugendamtes und des Amtes für Wohnen und Migration Sitzungsvorlagen Nr. 08-14 / V 06231, 06214, 06304 und 06263
+- TOP 3.4.: Kreisjugendring München-Stadt, Schreiben vom 25.03.2011 Auswertung der Stadtteilchecks ?auf Herz und Rampen prüfen?
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
