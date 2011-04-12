@@ -1,0 +1,53 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187804
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187804
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Bauliche und sonstige Maßnahmen für die diesjährige Wiesn
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Neubau in der Schießstättstr. 18-22
+- TOP 5.3.: DG-Ausbau in der Grasserstraße 1
+- TOP 5.4.: Antwortschreiben zu BA-Antrag Nr. 08-14 / B 02746, Gestaltung der Fuß- und Radwegunterführung Hans-Fischer-Straße / Theresienhöhe
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 1: (E) Erhalt des Lindengartens Kazmairstraße Empfehlung Nr. 02-08 / E 00434 ............ Ziff. 1: Erhalt des Grüngürtels Kazmairstr. 23 ? 25 bei Errichtung eines Kindergartens Ziff. 2: Bei Nichterrichtung eines Kindergartens ist das Grundstück als Grünfläche bzw. Biotop zu erhalten Ziff. 3: Im Falle einer Bebauung höchstens E+1. Die Abstandsflächen sind zu maximieren Empfehlung Nr. 02-08 / E 00154 ......................
+- TOP 1.2.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 1.3.: Zuschussnehmerdatei 2011; Förderung freier Träger
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Erinnerungsorte München
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Antwortschreiben zu BA-Antrag Nr. 08-14 / B 02552; Umgestaltung Landsberger Straße - Höhe Holzapfelstraße für mehr Sicherheit von Fußgänger/innen und Radfahrer/innen
+- TOP 8.2.: Antwortschreiben: Baustellen am Hauptzollamt sowie in der Trappentreustraße
+- TOP 8.3.: Antwortschreiben zu BA-Antrag Nr. 08-14 / B 02610; Schmalere Buswartehäuschen
+- TOP 8.4.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern; Untersuchungsergebnisse und weiteres Vorgehen
+- TOP 8.5.: Marktveranstaltung Frühjahrsradlmarkt am 10.04.2011 am Bavariapark
+- TOP 8.6.: Informationsveranstaltung am 10.04.2011 am Bavariapark
+- TOP 8.7.: Spielen in der Stadt e.V.
+- TOP 8.8.: Antwortschreiben: Ersatzpflanzungskontrollen im Allgemeinen
+- TOP 8.9.: Antwortschreiben: Baumfällung am Georg-Freundorfer-Platz
+- TOP 8.10.: Sofortige Rücknahme des Skateverbots am Georg-Freundorfer-Platz
+- TOP 8.11.: Dezentrales Güterverkehrszentrenkonzept
+- TOP 8.12.: Nahverkehrsplanung der Landeshauptstadt München
+- TOP 8.13.: Öffnung der in Richtung Osten einbahngeregelten Schwanthalerstr. zwischen Ganghoferstr. und Ligsalzstr. für den gegenläufigen Radverkehr
+- TOP 8.14.: Fällungsgenehmigung Theresienhöhe 5
+- TOP 8.15.: Außerordentliche Bürgerversammlung zur 2. S-Bahn Stammstrecke
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Artists for Kids - Projekt für kreative Jugendhilfe e.V. Projekt in der Grundschule Bergmannstraße von April bis Juli 2011
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Kultur & Spielraum e.V. Kinder-Kultur-Sommer-Festival vom 01. - 10.07.2011
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Schaffung einer/s Beauftragten für Stadtteilheimatpflege
+- TOP 12: Protokoll und Umlauf
