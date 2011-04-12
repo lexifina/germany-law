@@ -1,0 +1,8 @@
+# TOP 15.2: Gewährung eines freiwilligen Zuschusses zu den Kosten der Umbau- und Sanierungsmaßnahmen an der Kindertageseinrichtung Heilig Geist der Pfarrgemeinde St. Marien
+
+- Sitzung: Rat (55. Sitzung) (2011-04-12)
+- Körperschaft: Stadt Emsdetten
+- Öffentlich: ja
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/34218
+- Ergebnis: (kein Text vorhanden)
+- Beratung: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/14889
