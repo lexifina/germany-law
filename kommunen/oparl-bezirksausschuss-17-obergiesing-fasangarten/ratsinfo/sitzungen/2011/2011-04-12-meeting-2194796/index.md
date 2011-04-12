@@ -1,0 +1,130 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-04-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2194796
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2194796
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Bergstraße; Entfernung von Büschen neben einer Tiefgaragenausfahrt wegen Sichtbehinderungen; Bürgerschreiben vom 09.03.2011
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.1.: (E) Budget der Bezirksausschüsse Giesinger Mädchen-Treff der Pfadfinderinnenschaft St. Georg e. V. Broschüre zum 20-jährigen Jubiläum zu 4.1.1 Budget der Bezirksausschüsse Giesinger Mädchen-Treff der Pfadfinderinnenschaft St. Georg e. V. Broschüre zum 20-jährigen Jubiläum; Präzisierung der Kostenaufstellung
+- TOP 4.1.2.: (E) Budget der Bezirksausschüsse Münchner Kindersportförderung e. V. Eltern-Kind-Turnen von Mai bis Dezember 2011
+- TOP 4.1.3.: (E) Budget der Bezirksausschüsse Münchner Kindersportförderung e. V. Hiphop-Kurs von Mai bis Dezember 2011
+- TOP 4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 5.1.2.1.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Programm Soziale Stadt - Bank & Baum 5.1.2.1.1 Standort Gietlstraße/Aignerstraße; Projekt-Nr.: 100397; Beschluss des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten vom 12.04.2011 5.1.2.1.2 Standort Kesselbergstraße/Raintaler Straße; Projekt-Nr. 100397; Beschluss des Bezirksausschusses des Stadtbezirkes 17 Obergiesing-Fasangarten vom 12.4.2011
+- TOP 5.1.2.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellen von Tischen und Stühlen auf öffentlichem Grund / Genehmigung einer Freischankfläche in der Untersbergstraße 8; Beschluss des Bezirksausschusses des Stadtbezirkes 17; vertagt aus der Sitzung vom 08.02.2011
+- TOP 5.1.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.3.2.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen) 5.1.3.2.1 Mega-Light-Werbeanlage in der Chiemgaustraße; Schreiben des Referats für Stadtplanung und Bauordnung vom 16.03.2011 mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.2.2 City-Light-Poster in der Fasangartenstraße; Schreiben des Referats für Stadtplanung und Bauordnung vom 24.03.2011 mit der Bitte um Stellungnahme binnen eines Monats
+- TOP 5.1.3.3.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörungen im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats 5.1.3.3.1 Anwesen Bantingstraße 1a; Neubau eines Einfamilienhauses; Anhörung vom 28.03.2011 5.1.3.3.2 Anwesen Bantingstraße 6b; Neubau eines Einfamilienhauses; Anhörung vom 28.03.2011 5.1.3.3.3 Anwesen Bantingstraße 7a; Neubau eines Einfamilienhauses; Anhörung vom 28.03.2011
+- TOP 5.1.4.1.: Baufälle im 17. Stadtbezirk
+- TOP 5.1.4.2.: Babauungsplan mit Grünordnung Nr. 1979; Tegernseer Landstr. (nordöstlich), Spixstr. (südöstlich), Perlacher Str. (südlich), Untersbergstr. (westlich), Weißenseestr. (nordöstlich); ehemaliges Agfa-Gelände im Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße"; Satzungsbeschluss; Sitzungsvorlage Nr. 08-14/V 06275; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011 (SB); zu 5.1.4.2 Babauungsplan mit Grünordnung Nr. 1979; Tegernseer Landstr. (nordöstlich), Spixstr. (südöstlich), Perlacher Str. (südlich), Untersbergstr. (westlich), Weißenseestr. (nordöstlich); ehemaliges Agfa-Gelände im Sanierungsgebiet "Tegernseer Landstraße / Chiemgaustraße"; Hinweis/Ergänzung vom 16.03.2011
+- TOP 5.1.4.3.: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011-2015; Sitzungsvorlage Nr. 08-14/V 06248; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011 (VB)
+- TOP 5.1.4.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.1.4.5.: Beseitigung höhengleicher Bahnübergänge; 1. Gegenwärtiger Stand 2. Feldmochinger Straße, Beseitigung des höhengleichen Bahnüberganges, "Sachstandsbericht und Vorstellung der Ergebnisse der Machbarkeitsstudie" 3. Bürgerversammlungsempfehlungen und Bezirksausschussanträge 4. Stadtratsantrag Nr. 08-14/A 02094; 5. Fasanerie - Planungen optimieren - Bürger beteiligen; Antrag Nr. 08-14/A 02179 der ÖDP vom 01.02.2011; Sitzungsvorlage Nr. 08-14/V 03800; Beschluss des Bauausschusses vom 01.03.2011 (SB), siehe TOP 5.1.4.2 vom 15.03.2011
+- TOP 5.1.4.6.: Vollzug der Satzung der Landeshauptstadt München über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 5.1.4.6.1 Anwesen St.-Bonifatius-Str.; Mitteilung vom 22.03.2011 mit der Bitte um Kenntnisnahme 5.1.4.6.2 Anwesen Stettnerstraße; Mitteilung vom 17.03.2011 mit der Bitte um Kenntnisnahme 5.1.4.6.3 Anwesen Holtzendorffstraße; Mitteilung vom 21.03.2011
+- TOP 5.1.4.7.: Asam-Gymnasium München; Sammelzone bei Feueralarm - bauliche Maßnahmen; Schreiben des Gymnasiums an das Schulreferat vom 18.03.2011
+- TOP 5.1.4.8.: Holtzendorffstr. 29, Neubau eines Doppelhauses mit Garagen; Baugenehmigung gem. Art. 59 und Art 68 BayBO im vereinfachten Genehmigungsverfahren, Bescheid des Referats für Stadtplanung und Bauordnung vom 18.03.2011
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 5.2.4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.2.4.2.: Zuschussnehmerdatei 2011; Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" 5.2.4.2.1 Amt für Soziale Sicherung; Sitzungsvorlage Nr. 08-14/V 06214; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.04.2011 (SB) 5.2.4.2.2 Sozialreferat/Zentrale; Sitzungsvorlage Nr. 08-14/V 06231; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 (SB) 5.2.4.2.3 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 08-14/V 06263; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 (SB) 5.2.4.2.4 Stadtjugendamt; Sitzungsvorlage Nr. 08-14/V 06304; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 1: (E) Buslinie 54; Haltestelle am Giesinger Bahnhof auf dem Giesinger Bahnhofsplatz (Busbahnhof) Empfehlung Nr. 08-14 / E 00645 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten vom 01.07.2010
+- TOP 5.3.3.1.: Linienweg der Buslinie 145; Prüfung der derzeitigen Wendefahrt über Kiesmüller- und Waldsassener Straße durch die Regierung von Oberbayern am Maßstab des § 13 Personenbeförderungsgesetz (PBefG); Antrag Nr. 08-14/B 02352 des BA 17 Obergiesing-Fasangarten vom 13.07.2010; Änderung des Linienwegs, Wendefahrt am Kreisverkehr Fasangarten-/Minnewitstraße, Probebetrieb; Antrag Nr. 08-14/B 01856 des BA 17 Obergiesing-Fasangarten vom 11.05.2010; Verlegung der Wendeschleife Kiesmüller-/Waldsassener Straße in den bestehenenden Kreisverkehr Fasangarten-/Minnewitstraße; Reparatur der beschädigten Keismüller- und Waldsassener Straße durch die Münchner Verkehrsgesellschaft (MVG); Empfehlung Nr. 08-14/E 00644 der Bürgerversammlung des 17. Stadtbezirks Obergiesing-Fasangarten vom 01.07.2010; Sitzungsvorlage Nr. 08-14/V 05880; Beschluss des Ausschusses für Arbeit und Wirtschaft am 10.05.2010 (SB); Zuleitung des Referats für Arbeit und Wirtschaft vom 09.03.2011 mit der Bitte um Stellungnahme bis 26.04.2011
+- TOP 5.3.4.1.: CarSharing in München; Durchführung von Pilotprojekten; BA-Antrag Nr. 08-14/B 02739 des Bezirksausschusses des Stadtbezirkes 06 - Sendling vom 07.02.2011; Sitzungsvorlage Nr. 08-14/V05883; Beschluss des Kreisverwaltungsausschusses vom 15.03.2011; siehe TOP 5.3.3.1 vom 08.02.2011
+- TOP 5.3.4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.3.: Schmalere Buswartehäuschen; Antrag Nr. 08-14/B 02610 des bezirksausschusses des 20. Stadtbezirkes vom 13.12.2010; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 07.03.2011; siehe TOP 3.2 vom 11.01.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 5.4.4.1.: Christbaumsammlung - Weitere haushaltsnahe Sammelplätze; Schreiben der AWM zu von Bezirksausschüssen vorgeschlagenen Sammelplätzen vom 03.03.2011; siehe TOP 5.4.3.1 vom 08.06.2010
+- TOP 5.4.4.2.: Gebäude-Energiepass für alle Münchner Schulen und städtischen Gebäude; BA-Antrag Nr. 02-08/B 02573 des Bezirksausschusses 17 vom 13.11.2007; Schreiben des Referats für Bildung und Sport vom 07.03.2011; siehe TOP 5.4.1.1 vom 13.11.2007
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 5.5.3.1.: Veranstaltungen in städtischen Grünanlagen; Spielaktionen von "Spielen in der Stadt e. V." und weiteren Veranstaltern im Jahr 2011; Schreiben des KVR vom 22.03.2011 mit der Bitte um Kenntnis- und ggf. Stellungnahme bis 15.04.2011
+- TOP 5.5.3.2.: Erinnerungsorte München; Die vergessenen Orte der Topographie des Terrors sichtbarer machen - Ort und Erinnerung zusammenbringen; Antrag Nr. 08-14/A 00457 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.12.2008; Sitzungsvorlage Nr. 08-14/V 05426; Beschluss des Kulturausschusses vom 03.03.2011 (SB); erläuternde Zusatzschilder für Straßennamen; Schreiben des Kulturreferats vom 25.03.2011 mit der Bitte um Stellungnahme bis 13.05.2011 - <div>vertagt</div>
+- TOP 6: Berichte der Beauftragten
+- TOP 6.1: Ausländer/Innen
+- TOP 6.2: Behinderte
+- TOP 6.3: Genderfragen
+- TOP 6.4: Kinder
+- TOP 6.5: Jugend
+- TOP 6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Sachranger Straße 10, 1 Kirschbaum, Antrag vom 01.03.2011 6.7.1.2 Warngauer Straße 58, 1 Baum, Antrag vom 03.03.2011 6.7.1.3 Bodelschwingstraße 2, 1 Birke, Antrag vom 24.03.2011 6.7.1.4 Oberviechtacherstraße 38, 1 Birke, Antrag vom 28.03.2011 6.7.1.5 Warngauer Straße 53, 1 Robinie, Antrag vom 21.03.2011
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.1.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege; BA-Antrag Nr. 08-14/B 02521 des Bezirksausschusses des Stadtbezirkes 13 - Bogenhausen vom 09.11.2010; Schreiben des Direktoriums vom 24.03.2011 mit der Bitte um Stellungnahme
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 4.1.4.: (E) Budget der Bezirksausschüsse Münchner Kindersportförderung e. V. Fußball-Kurs von Mai bis Dezember 2011
+- TOP 4.1.5.: (E) Budget der Bezirksausschüsse Münchner Kindersportförderung e. V. Fußball-Kurs von Mai bis Dezember 2011
+- TOP 2.5: Sonstiges (1)
+- TOP 5.1: UA Bau und Planung (1)
+- TOP 5.1.1: Bericht (1)
+- TOP 5.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.1.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.1.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.1.5: Anträge (1)
+- TOP 5.1.6: Sonstiges (2)
+- TOP 5.2: UA Familie, Soziales, Ausbildung, Sport (1)
+- TOP 5.2.1: Bericht (2)
+- TOP 5.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.2.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.2.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.2.5: Anträge (2)
+- TOP 5.2.6: Sonstiges (3)
+- TOP 5.3: UA Verkehr (1)
+- TOP 5.3.1: Bericht (3)
+- TOP 5.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.3.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.3.3.2.: Buslinie 145: Verlegung der Wendeschleife Kiesmüller- / Waldsassener Straße (in den bestehenden Kreisverkehr Fasangarten- / Minnewitstraße); Reparatur der beschädigten Kiesmüller- und Waldsassener Straße durch die MVG - <div></div>
+- TOP 5.3.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.3.5: Anträge (3)
+- TOP 5.3.6: Sonstiges (4)
+- TOP 5.4: UA Umwelt (1)
+- TOP 5.4.1: Bericht (4)
+- TOP 5.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.4.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.4.4: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 5.4.5: Anträge (4)
+- TOP 5.4.6: Sonstiges (5)
+- TOP 5.5.1: Bericht (5)
+- TOP 5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 5.5.3: Anhörungsfälle / Stellungnahmen (3)
+- TOP 5.5.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.5.5: Anträge (5)
+- TOP 5.5.6: Sonstiges (6)
+- TOP 8.1.1: UA Bau und Planung (2)
+- TOP 8.1.2: UA Familie, Soziales, Ausbildung, Sport (2)
+- TOP 8.1.3: UA Verkehr (2)
+- TOP 8.1.4: UA Umwelt (2)
