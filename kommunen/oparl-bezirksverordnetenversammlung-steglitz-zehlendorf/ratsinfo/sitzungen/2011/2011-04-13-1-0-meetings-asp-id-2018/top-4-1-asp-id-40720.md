@@ -1,0 +1,7 @@
+# TOP 4.1: Aus der letzten BVV vertagte Drucksachen Beschlussempfehlungen von Ausschüssen
+
+- Sitzung: 48. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin (2011-04-13)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=40720
+- Ergebnis: erledigt
