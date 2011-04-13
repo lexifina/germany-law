@@ -1,0 +1,59 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2011-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2143208
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2143208
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Planung des Kooperationstreffens der Schulen und Jugendeinrichtungen
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Schleißheimer Str. 125, Cafe Bar ?Essenziell?: Erweiterung der Freischankfläche
+- TOP .2.: Hohenzollernstr. 39, ?New Hair?: Mobiler Fahrradständer
+- TOP .3.: Clemensstr. 84, Getränkemarkt: Warenauslage für Obst und Gemüse
+- TOP .4.: Kurfürstenstr. 57, ?Krinos Blumen?: Warenstellagen
+- TOP .5.: Kurfürstenplatz 6, E-Plus Shop: Mobiler Fahrradständer
+- TOP .6.: Franz-Joseph-Str. 47, ?Cafe Schauburg?: Erweiterung der Freischankfläche
+- TOP .7.: Kurfürstenplatz 6 a, ?Blumen Zacher?: Warenstellagen
+- TOP .8.: Hohenzollernstr. 41, ?Moja Schuhe?: Warenstellage
+- TOP .9.: Römerstr. 21 (Seite Hohenzollernstraße), ?Laufwerk?: Warenstellagen
+- TOP .2.2.: Kultur
+- TOP .1.: Erinnerung an Widerstandskämpfer und Verfolgte des NS-Regimes stärker ins Bewusstsein der Öffentlichkeit rücken: Möglichkeiten zur Umsetzung des Stadtratsauftrags im Stadtbezirk?
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: LILALU Sommerfestival: Rücknahme der Nutzungsgebühren für 2009 sowie Verzicht auf künftige Erhebung bei gleichbleibendem Status (Empfehlung Nr. 08-14/E 00452 der Bürgerversammlung Neuhausen-Nymphenburg vom 24.11.2009 ? Anhörung zur Beschlussvorlage für den Stadtrat)
+- TOP .2.: Straßenfest am Nordbad am 03.07.2011
+- TOP .3.: Spielfeste und Aktionen im Luitpoldpark und am Ackermannbogen
+- TOP .1.: Interfraktioneller Antrag: Herrmann-Frieb-Realschule: Ausbau des Dachbodens über dem Seitentrakt
+- TOP .2.1.: Planen
+- TOP .1.: Vorbescheid Belgradstr. 109: Neubau einer Wohnanlage (30 WE) mit Tiefgarage (ca. 30 Stellplätze)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Probleme der Buslinie 144 in der Rümannstraße
+- TOP .2.: Bürgerin: Anfahrtszone vor dem Kindergarten Knuddelmonster Belgradstr. 169
+- TOP .2.1.: Umwelt
+- TOP .1.: Rümannstr. 17-47: Fällung einer Robinie; Kronenreduzierung bei einigen Hainbuchen
+- TOP .2.: Kaiserstr. 55: Fällung einer Esche
+- TOP .3.: Kraepelinstr. 2: Baumfällungen in Zusammenhang mit dem Anbau an ein Forschungs- und Klinikgebäude des Max-Planck-Instituts für Psychiatrie - Tektur
+- TOP .2.2.: Verkehr
+- TOP .1.: Einbeziehung des bisher nicht lizenzierten Bereichs Kraepelin-/Rümannstraße in das Parkraummanagement? (aus 03/11 vertagt)
+- TOP .2.: Borschtallee: Sanierung des Straßenbelages
+- TOP .3.: Leistungsprogramm MVG
+- TOP .1.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege (Anhörung zu einem Antrag des BA 13 Bogenhausen auf Änderung der BA-Satzung)
+- TOP .2.: Workshop ?Urbane Mitte Ackermannbogen? am 08. und 09.06.2011: Teilnehmer?
+- TOP .3.: Wahl einer/eines Behindertenbeauftragten
+- TOP .1.: Unterausschuss Soziales am 07.04.2011 um 18.00 Uhr in der KreativGarage, Rosa-Aschenbrenner-Bogen 9/UG (Zugang über Café ?Rigoletto?)
+- TOP .2.: Unterausschuss Wirtschaft und Kultur am 07.04.2011 um 20.00 Uhr im SPD-Bürgerbüro, Belgradstr. 15 a
+- TOP .3.: Unterausschuss Planen und Wohnen am 07.04.2011 um 19.30 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .4.: Unterausschuss Umwelt und Verkehr am 07.04.2011 um 18.00 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
