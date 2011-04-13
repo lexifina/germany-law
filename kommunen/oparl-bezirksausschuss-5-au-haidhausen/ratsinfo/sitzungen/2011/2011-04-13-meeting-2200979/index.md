@@ -1,0 +1,125 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-04-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2200979
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2200979
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.1.1.: Straßenreinigung: Erhöhung der Reinigungsklassen in mehreren Straßen in Haidhausen; Stellungnahme und Bericht des Baureferats, Straßenreinigung
+- TOP 4.2: Schrifliche eingegangene Bürgeranliegen
+- TOP 4.2.1.: Parkplatznot durch zeitgleiche Baustellen im Franzosenviertel
+- TOP 4.2.2.: Neuvergabe der Kitas in der Welfenstraße
+- TOP 4.2.3.: Bau einer Querungshilfe in der Kirchenstraße
+- TOP 5: Anträge
+- TOP 6: Entscheidungen (1)
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Initiative Hausgemeinschaft P 11 c/o N. Manz Kunstprojekt im Rahmen von OBACHT! vom 27. - 29.05.2011 - <div>Abweichung von Referentenvorl.</div>
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse My Sportlady e.V. Kinderernährungskurse ab Mai 2011 - <div>Abweichung von Referentenvorl.</div>
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Planungsgruppe 504 / G. Heller Moderation der Einwohnerversammlung am 24.03.2011 - <div>nach Antrag</div>
+- TOP 6.1.4.: (E) Budget der Bezirksausschüsse Flexible Jugendhilfe München, Diakonie e.V. Informationsveranstaltung am 12.05.2011 - <div>nach Antrag</div>
+- TOP 6.1.5.: Zuschuss für das Seifenkistenrennen 2011
+- TOP 6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP 6.3: Sonstige Entscheidungen
+- TOP 6.3.1.: Weiterhin getrennte Bürgerversammlungen für Haidhausen und die Au; Empfehlung Nr. 08-14 / E 00224 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen - Bezirksteil Au am 29.01.2009 Beschluss des Bezirksausschusses des 5. Stadtbezirkes - Au-Haidhausen
+- TOP 6.3.2.: Projektplanung Rosenheimer Straße zwischen Am Gasteig und Rosenheimer Platz ? Radfahrstreifen ? verkehrsrechtliche Anordnung KVR Beschluss des Bezirksausschusses des Stadtbezirkes 05 Au-Haidhausen
+- TOP 7: Anhörungen (1)
+- TOP 7.1.: Johannisplatz, Anhörungsverfahren für Internationales Stadtteilfest des AKA e.V. am 03.07.2011
+- TOP 8: Unterrichtungen (1)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Umgestaltung des Rosenheimer Platzes: S-Bahn-Ausgang Weißenburger Straße und Südwestseite des Rosenheimer Platzes
+- TOP 8.1.2.: Förderung im München Modell - Eigentum nur für Münchner Bürgerinnen und Bürger
+- TOP 8.1.3.: Schlaglochbeseitigung
+- TOP 8.1.4.: Entlastung für die Betreiber kleinerer Stände auf Wochenmärkten
+- TOP 8.1.5.: Erhalt der kommunalen Mieterberatung, Beschluss des Sozialausschusses (BA-Antrag Nr. 08-14/ B 02624); Schreiben des Sozialreferats vom 28.03.2011
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Verbesserung der Versorgung psychisch kranker Menschen in der Sozialregion 3, hier: Schreiben des Bezirks Oberbayern
+- TOP 8.3: Sonstige Unterrichtungen
+- TOP 8.3.1.: Radweg Rosenheimer Straße zw. Orleansstraße und Rosenheimer Platz, Bürgerschreiben vom 14.02.2011, Antwortschreiben des Kreisverwaltungsreferats vom 02.03.2011
+- TOP 8.3.3.: Schmalere Buswartehäuschen, Schreiben des Referats für Arbeit und Wirtschaft vom 07.03.2011 anlässlich eines Antrags des BA 20
+- TOP 8.3.4.: Vollzug des AEG; Barrierefreier Ausbau des Bahnsteiges D Bahnhof München Ost Pbf, Plangenehmigungsbescheid vom 04.03.2011
+- TOP 8.3.5.: Nutzung der IHK-Akademie in der Orleansstraße; Schreiben der IHK vom 28.03.2011
+- TOP 8.3.6.: Baumpflanzungen in der Trogerstraße; Schreiben des Baureferats vom 29.03.2011 und 31.03.2011
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 7.1.: Baumfällung Nockherstr. 36, 1 Robinie
+- TOP 7.1.: Gespräch mit den Theatermachern des Theater Kellers 2 / Off-Broadway (aktuelle Theaterarbeit, Probleme, Wünsche)
+- TOP 7.2.: Bericht über das Treffen Kulturreferat/Stadtteilarbeit und Vertretern der BAs am 24. 3. 2011
+- TOP 7.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.4.: Erinnerungsorte in München; Die vergessenen Orte der Topographie des Terrors sichtbar machen ? Ort und Erinnerung zusammen bringen; Antrag Nr. 08-14 / A 00457 der Stadtratsfraktion Die Grünen/RL vom 09.12.2008; Sitzungsvorlage Nr. 08-14 / V 05426; Beschluss des Kulturausschusses des Stadtrats vom 03.03.2011; erläuternde Straßenschilder im 5. Stadtbezirk; Zuleitung des Kulturreferats vom 25.03.2011 mit der Bitte um Stellungnahme
+- TOP 7.5.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege Antrag des BA 13 vom 09.11.2010, Anhörungsschreiben des Direktoriums vom 24.03.2011
+- TOP 7.1.: Insolvenzverfahren des Sozialen Hilfsdienstes Weiße Feder gGmbH; Schreiben der Weißen Feder vom 16.02.2011
+- TOP 7.2.: Informationen zur geplanten Organisationsstruktur des Regiebetriebes Kindertagesbetreuung
+- TOP 7.3.: Aktionstag für Familien am 06. Mai 2011, Schreiben des Sozialreferats vom 16.02.2011
+- TOP 7.4.: Barrierefreiheit bei Sitzungen der Bezirksausschüsse und bei Bürgerversammlungen, Schreiben des Oberbürgermeisters vom 21.02.2011
+- TOP 7.5.: München lebt Vielfalt, Interkultureller Integrationsbericht 2010, Beschluss der Vollversammlung des Stadtrates vom 16.02.2011
+- TOP 7.6.: Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am 22.02.2011, Schreiben und Protokoll der Gleichstellungsstelle für Frauen vom 02.03.2011
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 2.1.: Gebsattelstr. 15, Paulaner: Vergrößern eines Wanddurchbruchs zwischen Gast- und Nebenraum
+- TOP 2.2.: Rosenheimer Str. 38: Nutzungsänderung: Einbau von vier Spielotheken und einer Cafebar in ein Büro- und Geschäftshaus
+- TOP 2.3.: Flohmarkt des AKA e.V. am 21.05.2011 auf der Postwiese
+- TOP 2.4.: Postwiese, Johannisplatz, Anhörungsverfahren für Fußballturniere Streetwork am 02.07. und 16.10.2011
+- TOP 2.5.: Werbeanlage Berg-am-Laim-Str.: 2x Umrüstung der 2 Großflächentafeln auf 2 Premium-Großflächentafeln
+- TOP 2.6.: Spielaktionen Spiellandschaft Stadt e.V. etc. auf diversen Grünanlagen ab April 2011
+- TOP 2.7.: Isarinselfest 2010 und Ausblick 2011
+- TOP 3: Unterrichtungen (2)
+- TOP 3.1.: Information zum Wertstoffsammelsystem in der LH-München
+- TOP 3.2.: Einsteinstr. 130: Einbau eines Einzelhandelsgeschäftes im 1. OG ? VORBESCHEID; Schreiben der LBK vom 24.02.2011
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 2.1.: Bazeillesstr. 17: Dachgeschoss-Umbau
+- TOP 2.2.: Johannisplatz 11: Erweiterung der Wohnungen im 3. OG mit DG zu Maisonette-Wohnungen, Nutzungsänderung Laden EG in ein Appartement - TEKTUR
+- TOP 2.3.: Balanstr. 49: Nutzungsänderung einer Gewerbeeinheit
+- TOP 2.4.: Langerstr. 4: DG-Neubau, Anbau von Balkonen sowie Umbau eines Nebengebäudes zu Wohnzwecken - TEKTUR
+- TOP 2.5.: Einsteinstr. 177: Nutzungsänderung mit Umbaumaßnahmen: Fitnessstudio und Gaststätte zu Kinderkrippe (Einsteinstraße 177/ Steinhauser Straße 2)
+- TOP 2.6.: Wörthstr. 7: Abbruch eines Nebengebäudes mit Neubau einer zweigeschossigen Kita an gleicher Stelle; Anbau eines Außenaufzuges, einer KG-Außentreppe und von 5 Balkonen am Bestand mit Neuanlage der Innenhöfe; Nutzungsänderungen (VGB + RGB) - TEKTUR
+- TOP 2.7.: Spicherenstraße 12: Errichtung einer Dachterrasse und Einbau einer Geschossdecke
+- TOP 2.8.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege; Antrag Nr. 08-14 / B02521 des BA 13 Bogenhausen vom 09.11.2010; Änderung der BA-Satzung; Zuleitung des Direktoriums vom 24.03.2011 mit der Bitte um Stellungnahme
+- TOP 2.9.: Innere Wiener Str. 18: Sanierung und eingeschossiger Aufbau des Rückgebäudes im Innenhof
+- TOP 2.10.: nnere Wiener Str. 18; Erneuerung der Balkone
+- TOP 2.11.: Balanstr. 15: Dachgeschoss-Umbau mit Erneuerung des Dachstuhls sowie Einbau einer Dachterrasse (Rückgebäude)
+- TOP 3: Unterrichtungen (3)
+- TOP 3.1.: Pariser Str. 36: Dachgeschoss-Ausbau im Vordergebäude; Genehmigungsbescheid vom 10.03.2011
+- TOP 3.2.: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011-1015 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011
+- TOP 3.3.: Bebauungsplan Orleansstraße (Antrag Nr. 08-14/ B 02695), Antwortschreiben vom 28.02.2011
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 2.1.: Parkraummanagement im Bereich Hochstr. /Rablstr., Umwandlung in Bewohner-/ Mischparken, Schreiben des Referats für Stadtplanung und Bauordnung vom 01.03.2011
+- TOP 2.2.: Busanfahrt beim Hotel ?Motel one? an der Hochstr. 17 südlich Rablstraße; Anhörung des Bezirksausschusses zu einer verkehrsrechtlichen Anordnung
+- TOP 2.3.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern, Untersuchungsergebnisse und weiteres Vorgehen Entwurf einer Beschlussvorlage für den Bauausschuss
+- TOP 2.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Milchstr. 16
+- TOP 2.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Edlingerstr. 26
+- TOP 2.6.: Busparken Eduard-Schmid-Str.; Verkürzung der Busparkplätze; Einführung Mischparken und Änderung der Beschilderung an den bleibenden zwei Buchten in 20 min Ein- und Ausstieg
+- TOP 2.7.: Entwicklung des Verkehrs in München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011 Vergleich Humboldtstraße ? Rosenheimer Straße
+- TOP 3: Unterrichtungen (4)
+- TOP 3.1.: Verbesserung der Bürgerinformation durch das Baureferat bei Baumaßnahmen
+- TOP 3.2.: Fußgängerübergang Elsässer Straße
+- TOP 3.3.: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011
+- TOP 3.4.: Ja mia san mim Radl do ? sind doppelstöckige Fahrradabstellanlagen die Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011
+- TOP 3.5.: München setzt aufs Rad 2; Von den Nachbarn in den Niederlanden und in Dänemark lernen; Antrag Nr. 08-14 / A 01081 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.2009; Sitzungsvorlage Nr. 08-14 / V 04041; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.02.2011
+- TOP 3.6.: Rückgängigmachung der Straßenverlegung in Einstein- und Prinzregentenstraße ab Leuchtenbergring/Richard-Strauss-Straße stadteinwärts bis zur Lucile-Grahn-Str.
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mi, 04.05.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24; UA WAS: Mo, 02.05.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA Wirtschaft: Di, 10.05.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA Planung: Do, 12.05.2011,19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA GUV: Mo, 09.05.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.1.: Mi, 18.05.2011, 18.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4: Sonstige Termine
+- TOP 3: (E) Weiterhin getrennte Bürgerversammlungen für Haidhausen und die Au Empfehlung Nr. 08-14 / E 00224 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen - Bezirksteil Au am 29.01.2009 - <div>nach Antrag</div>
