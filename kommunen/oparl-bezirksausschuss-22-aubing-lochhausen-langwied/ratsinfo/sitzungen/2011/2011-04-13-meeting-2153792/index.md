@@ -1,0 +1,126 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2011-04-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153792
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153792
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Städtebauliche Planung im 22. Stadtbezirk - Einkaufssituation bes. für ältere Menschen - Planung Freiham - Allgemeines
+- TOP 2.2.: S-Bahnhof Westkreuz - Gefahr durch Umbau
+- TOP 2.3.: Bahnübergang Brunhamstraße
+- TOP 2.4.: Weitere Lärmbelästigung an der Lichtenfelser Straße durch umgeleiteten Zugverkehr wegen Ausfall der Strecke Ingolstadt-München
+- TOP 2.5.: Durchgehender Radweg nach Altaubing
+- TOP 2.6.: Supermarkt in Lochhausen
+- TOP 2.7.: Müllabladestelle Lochhausen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Genehmigungsbescheide für Baumfällung - Freienfelsstr. 11-25 - Lisbergstr. 4 - Radolfzeller Str. 5 a - Radolfzeller Str. 11
+- TOP 3.2.: Baumfällungen auf Anforderung: - Riesenburgstr. 44 + 44 a - Riesenburgstr. 58 + 58 a - Taubertalstr. 8
+- TOP 3.3.: Baumfällung mit Bauvorhaben: - Altostr. 18
+- TOP 3.4.: Ablehnungsbescheid für Baumfällung: Flunkgasse 1
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Ampelanlage an der Kreuzung Radolfzeller Str. / Aubinger Str. / Ravensburger Ring
+- TOP 4.2.: Errichtung von einseitigen Halteverboten in der Ubostraße
+- TOP 4.3.: Frühzeitige Information der Bevölkerung und Fachverbände bei größeren Bauprojekten und Planungsverfahren
+- TOP 4.4.: Grünfläche an der Georg-Böhmer-Str.1
+- TOP 4.5.: CarSharing in München - Durchführung von Pilotprojekten
+- TOP 4.6.: Umfangreiche Pflegemaßnahme der Bäume der Freihamer Allee
+- TOP 4.7.: Bahnhof Neuaubing
+- TOP 4.8.: Budget des BA 22, Bestellung städtischer Leistungen, hier: Aubinger Rocknacht 2011 am 14.05.11
+- TOP 4.9.: Budget des BA 22, BA-eigene Veranstaltung, hier: Tag der Familie am 06.05.11
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse My Sportlady e.V. Kinderernährungskurse ab Mai 2011
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Antrag auf Erlaubnis der Nutzung des Flurstückes 3508/13 Tlfl. an der Anton-Böck-Str./ Bodenseestr. für Puppentheater "Festival der Marionetten" vom 12.07.-24.07.11, Anhörung Kommunalreferat vom 16.03.11
+- TOP 6.2.: Spielaktionen der Spiellandschaft Stadt e.V. auf diversen Grünanlagen ab April, hier: - 11. - 12.05.2011 14.30 - 18.30 Uhr Spielaktion mit Spielbus Bewegungs- und Ernährungsmobil auf dem öffentlichen Spielplatz Kunreuthstr. - 24. - 26.05.2011 14.30 - 18.30 Uhr Spielaktion mit Spielbus Bewegungs- und Ernährungsmobil auf dem öffentlichen Spielplatz Am Aubinger Wasserturm - 19. - 21.07.2011 14.30 - 18.30 Uhr Spielaktion Ungewöhnliche Spielorte auf dem öffentlichem Spielplatz Kunreuthstr., Anhörung KVR vom 22.03.11
+- TOP 6.3.: Veranstaltung auf Privatgrund: Schwarze Wochen - Kulturwochen für den Münchner Westen veranstaltet von der CSU in Bayern e.V. am 21.05.-28.05.11 auf der Belandwiese am Belandwiesenweg, Anhörung KVR vom 31.03.11
+- TOP 6.1.: Veranstaltungen / Kooperationen März 2011, Schr. Kulturreferat vom 02.03.11
+- TOP 6.2.: Protokoll des 9. Treffen der Gleichstellungsbeauftragten der BA's am 22.02.11
+- TOP 6.3.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen in der Kindertageseinrichtung Colmdorfstr. 46, Schr. Ref. f. Bildung u. Sport vom 17.03.11
+- TOP 6.4.: Auswertung der Stadtteilchecks "Auf Herz und Rampen prüfen", Schr. Kreisjugendring vom 25.03.11
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Förderverein der Grundschule an der Gotzmannstraße 19, Bescheid Direktorium vom 23.03.11
+- TOP 6.2.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA 22, Antragsteller: Regsam e.V., Bescheid Direktorium vom 23.03.11
+- TOP 6.3.: Budget der Bezirksausschüsse, Einsatz von eigenem Vermögen zur Deckung der Kosten, Schr. Direktorium vom 21.03.11
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Gewerbegebiet Freiham, Vergabe von Gewerbegrundstücken, Schr. Ref. f. Arbeit u. Wirtschaft vom 07.03.11
+- TOP 6.2.: Baumaßnahmen der SWM: Fernwärmeprojekt Erschließung Freiham 2011 Centa-Hafenbrädl-Straße/Papinstraße, Schr. SWM vom 22.03.11
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Germeringer Weg, Gemarkung: Aubing, Fl.Nr. 756/0, Neubau eines Toilettenhäuschens mit Lagerräumen, Vorbescheid, Anhörung Planungsreferat vom 11.03.11
+- TOP 6.3.: Mobilfunk; Suchkreismeldung im Suchkreis M-Neuaubing_Nord II (Suchkreis Nr. 19-53-8458), Anhörung Ref. f. Gesundheit u. Umwelt vom 14.02.11 (vertagt aus Sitzung 03/11)
+- TOP 6.4.: Errichtung von Werbeanlagen, Limesstr. Fl.Nr. 586/0, 1 City-Light-Poster, Anhörung Planungsreferat vom 16.03.11
+- TOP 6.5.: Erinnerungsverfahren; Hoheneckstr. 11-13 mit der Seite Veitshöchheimer Weg, Bauschaden- und Unterhaltsarbeiten, Anhörung Baureferat vom 15.03.11
+- TOP 6.6.: Errichtung von Werbeanlagen, Bodenseestr. Fl.Nr. 2098/0, 1 City-Light-Poster, Anhörung Planungsreferat vom 16.03.11
+- TOP 6.7.: Errichtung von Werbeanlagen, Lochhausener Str. Fl.Nr. 623/7, 1 Werbeanlage (Typ City-Light-Poster), 2-seitig, Anhörung Planungsreferat vom 16.03.11
+- TOP 6.8.: Erinnerungsverfahren: Lochhausener Str. 250 Einmündung Sumpfmeisenweg, Fahrbahnsanierung, Anhörung Baureferat vom 23.03.11
+- TOP 6.9.: Dezentrales Güterverkehrszentrenkonzept (GVZ-Konzept) - Überprüfung und weitere Planung, Anhörung Planungsreferat vom 30.03.11
+- TOP 6.10.: Eschenrieder Straße, Projekt Nr. 100316, Trennung des Radverkehrs vom motorisierten Individualverkehr, Anhörung Baureferat vom 31.03.11
+- TOP 6.1.: Alto-/ Henschelstraße, Sanierung zw. Grabenfleckstraße und Federseestraße, Schr. Baureferat vom 10.03.11
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 07.03.11, 14.03.11, 21.03.11, 28.03.11
+- TOP 6.3.: Baufälle im 22. Stadtbezirk (v. 21.02.-27.02.11, 28.02.-06.03.11, 07.03.-13.03.11, 14.03.-20.03.11, 21.03.-27.03.11), Schr. Planungsreferat vom 10.03.11, 07.03.11, 14.03.11, 22.03.11, 28.03.11
+- TOP 6.4.: Baumaßnahmen der SWM, Fernwärmeprojekt Westkreuz, Radolfzeller Straße, Aubinger Straße, Reichenauer Straße mit Ecke Friedrichshafener Straße, Schr. SWM vom 09.03.11
+- TOP 6.5.: Baumaßnahmen der SWM, Stromprojekt Leienfelsstraße, Schr. SWM vom 09.03.11
+- TOP 6.6.: Baumaßnahmen der SWM, Stromprojekt Papinstraße, Schr. SWM vom 09.03.11
+- TOP 6.7.: Baumaßnahmen der SWM, Stromprojekt Stockacher Straße, Schr. SWM vom 09.03.11
+- TOP 6.8.: Weichenerneuerung zwischen Goetheplatz und Sendlinger Tor, Schr. MVG vom 03.03.11
+- TOP 6.9.: Zebrastreifen östlich der Kurve Wiesentfelser Straße, Schr. KVR vom 04.03.11
+- TOP 6.10.: Christbaumsammlung - Weitere haushaltsnahe Sammelplätze, Schr. AWM vom 03.03.11
+- TOP 6.11.: Baumaßnahmen der SWM, Stromprojekt Hellensteinstraße, Schr. SWM vom 01.03.11
+- TOP 6.12.: Baumaßnahmen der SWM, Stromprojekt Lochhausener Straße, Schr. SWM vom 01.03.11
+- TOP 6.13.: Verkehrsrechtliche Anordnung, Arbeiten am Straßenraum, Altostraße zwischen Hs.-Nr. 144 und Asmarstraße (Sanierung der östlichen Gehbahn), Schr. KVR vom 15.03.11
+- TOP 6.14.: Weiterführung der Buslinie 267 nach Germering, Schr. Ref. f. Arbeit u. Wirtschaft vom 14.03.11
+- TOP 6.15.: Baumaßnahmen der SWM, Wasserprojekt Papinstraße, Schr. SWM vom 18.03.11
+- TOP 6.16.: Wertstoffcontainerstandort Lochhausener Str. / S-Bahnhof Lochhausen, Schr. AWM vom 18.03.11 und 12.04.11
+- TOP 6.17.: Zwischenbericht zu diversen Straßenbenennungen und -umbenennungen im 22. Stadtbezirk, Schr. Kommunalreferat vom 24.03.11
+- TOP 6.18.: Verkehrsrechtliche Anordnung, Arbeiten im Straßenraum, Henschelstr. 1 - 3 (Reparatur einer Gashauptleitung), Schr. KVR vom 23.03.11
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege, Antr. BA 13 Bogenhausen vom 09.11.2010, Anhörung Direktorium vom 24.03.11
+- TOP 7.2.: Schwojerstr. 16 - Neubau eines freistehenden Einfamilienhauses mit Garage, Anhörung Planungsreferat vom 31.03.11
+- TOP 7.3.: Sanierung der Gehbahnflächen am Gößweinsteinplatz, Anhörung Baureferat vom 30.03.11
+- TOP 7.4.: Aufstellung von Sammelgewerbehinweisanlagen, Schr. DSM Deutsche Städte Medien GmbH vom 31.03.11
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Europe Direct Informationen 02/2011, Schr. Ref. f. Arbeit u. Wirtschaft vom 09.03.11
+- TOP 8.2.: Unveränderte Fortführung "Euroclub", Bodenseestr. 131, Ausschank von alkoholischen und alkoholfreien Getränken in einem Bordell, Schr. KVR vom 17.03.11
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Rabensteinstraße
+- TOP 8.4.: Wirtschafts-Info 03/2011, Schr. RAW vom 30.03.11
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: Schmalere Buswartehäuschen, Antwort zum Antrag des BA 20, Sch. Ref. f. Arbeit u. Wirtschaft vom 07.03.11
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Sozialausschusses vom 24.03.11: Verbot der Zweckentfremdung von Wohnraum, Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Walter-Brecht-Straße für die Errichtung einer Sozialpädagogischen Tagesstätte
+- TOP 10.2.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11: Wohnungsnahe Versorgung mit öffentlichen Spielflächen - Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielflächenversorgungsplanes -
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11: - Verkehrskonzept im Münchner Westen (UA Planung) - Entwicklung des Verkehrs in München (UA Planung) - München setzt auf's Rad 2, Von Nachbarn in den Niederlanden und Dänemark lernen (Hinweis / Ergänzung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.11: - Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011-2015 - Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen - Ja mia san mia Radl do - sind doppelstöckige Fahrradabstellanlagen die Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten (UA Planung)
+- TOP 10.5.: Beschluss des Kreisverwaltungsausschusses vom 15.03.11: CarSharing in München; Durchführung von Pilotprojekten (UA Planung)
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.03.11: Anwohnergaragen in München - Umsetzungsstand und Fortschreibung
+- TOP 10.7.: Ergänzende Vorlage zum Beschluss des Bauausschusses vom 01.03.11: Beseitigung höhengleicher Bahnübergänge (UA Planung)
+- TOP 10.8.: Beschluss des Bauausschusses vom 29.03.11: Bürgerschaftliches Engagement stärken, nicht verhindern - Sonnwendfeuer an der Sipplinger Straße nicht unmöglich machen! (UA Soziales)
+- TOP 10.9.: Beschluss des Umweltschutzausschusses vom 22.03.11: Kompostieranlage der Firma Schernthaner (vertagt aus 03/11) (UA Planung)
+- TOP 10.10.: Beschluss der Vollversammlung vom 16.03.11: Nahverkehrsplan (NVP) der Landeshauptstadt München (UA Planung und UA Freiham)
+- TOP 10.11.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" - des Amtes für Wohnen und Migration (UA Soziales) - des Stadtjugendamtes (UA Soziales) - des Amtes für Soziale Sicherung (UA Soziales) - des Sozialreferates / Zentrale (UA Soziales)
+- TOP 10.12.: Beschluss des Kommunalausschusses als Werkausschuss für den Abfallwirtschaftsbertrieb vom 31.03.11: Abfallwirtschaftsbetrieb München; Bauvorhaben Neubau Wertstoffhof Mühlangerstraße (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Neubau einer Minigolfsportanlage in München, Schr. 1. Münchener Minigolfclub 1962 e.V. vom 25.03.11
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 18.05.2011 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.2.: Planfeststellungsverfahren nach § 18 AEG; Bahnübergangsbeseitigung Freihamer Allee mit Erstellung eines Ersatzweges (Verlängerung Centa-Hafenbrädl-Straße) und Erstellung einer Fuß- und Radwegunterführung, Anhörung Planungsreferat vom 02.03.11 (vertagt aus Sitzung 03/11)
+- TOP 5.2.: Budget der Bezirksausschüsse SG Lochhausen 1901 e.V. Kauf einer Bogenanlage und -ausrüstung
