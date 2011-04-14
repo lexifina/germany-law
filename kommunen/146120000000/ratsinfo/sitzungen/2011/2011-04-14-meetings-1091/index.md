@@ -1,0 +1,56 @@
+# 26. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-04-14T16:00:00+02:00
+- Ende: 2011-04-14T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1091
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1091
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00059751.pdf
+- Wortprotokoll: Nachtrag_SR_2011_04_14 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00060192.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Aktuelle Stunde: Zukunft des Stadions - Vertagung
+- TOP 4: Umbesetzung im Betriebsausschuss für Sportstätten und Bäder - gewählt
+- TOP 5: Umbesetzung in der Verbandsversammlung des Zweckverbandes VVO - gewählt
+- TOP 6: Umbesetzung im Ausschuss für Finanzen und Liegenschaften - gewählt
+- TOP 7: Umbesetzung im Kulturausschuss - gewählt
+- TOP 8: Umbesetzung im Ausschuss für Stadtentwicklung und Bau - gewählt
+- TOP 9: Umbesetzung im Ausschuss für Umwelt und Kommunalwirtschaft - gewählt
+- TOP 10: Umbesetzung im Ausschuss für Wirtschaftsförderung - gewählt
+- TOP 11: Umbesetzung im Beirat Wohnen - gewählt
+- TOP 12: Umbesetzung im Ausländerbeirat - gewählt
+- TOP 13: Umbesetzung im Umlegungsausschuss - gewählt
+- TOP 14: Umbesetzung des Kleingartenbeirates - Zustimmung
+- TOP 15: Umbesetzung im Zweckverband Sparkasse - Vertagung
+- TOP 16: Umbesetzung im Aufsichtsrat der Technischen Werke Dresden GmbH - gewählt
+- TOP 17: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 18: Tagesordnungspunkte ohne Debatte
+- TOP 19: Eintrittspreise Sonderkonzerte Dresdner Musikfestspiele - Zustimmung
+- TOP 20: Widerrufsvorbehalt für die Förderung des Vereins Roter Baum e. V. - Zustimmung
+- TOP 21: Wilsdruffer Vorstadt: Kenntnisnahme VU-Bericht und Auftrag zur Akquirierung von Fördermitteln - Zustimmung
+- TOP 22: Verkauf des Grundstückes Bautzner Straße 112 bis 116 - Zustimmung
+- TOP 23: Optimierung der Struktur und der Dienstleistungsqualität des Bürgerservice in der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 24: Fortschreibung des verkehrlichen Rahmenplanes für das Kerngebiet der Äußeren Neustadt Dresden - Zustimmung mit Änderung
+- TOP 25: Erhalt und Entwicklung eines strukturreichen Altbaumbestandes auf dem Gebiet der Landeshauptstadt Dresden - Ablehnung
+- TOP 26: Einführung einer Gruppenkarte für Schulen und Kindergärten zur kostenlosen Nutzung des öffentlichen Personennahverkehrs im Rahmen des Unterrichts (Unterrichtsfahrkarte) - Zustimmung
+- TOP 27: Musikalische Bildung - Vertagung
+- TOP 28: Erweiterung des Skaterparkes an der Lingnerallee - Zustimmung mit Änderung
+- TOP 29: Unterstützung der Landeshauptstadt Dresden für ein Sanktionsmoratorium - Vertagung
+- TOP 30: Erwerb der Erweiterungsfläche am Alaunplatz, Gemarkung Dresden-Neustadt, Flurstück 2865/1, (ehemaliger sogenannter "Russensportplatz") - Vertagung
+- TOP 31: Sicherung der Möglichkeit zur Westerweiterung des Alaunparks - Vertagung
+- TOP 32: Verkehrsberuhigte Zone Altlaubegast - Vertagung
+- TOP 33: Sicherung des Betriebes der Schwimmhalle Klotzsche - Vertagung
+- TOP 34: Dresden - Stadt der bewegungsfreudigen und gesunden Kinder: Modellkonzept für fortschrittliche Bewegungs- und damit Gesundheitsförderung im Kindesalter - Zustimmung mit Änderung
+- TOP 35: Baustein für ökologischen Stadtumbau - Passivhausstandard für stadteigene und städtisch genutzte Gebäude - Zustimmung mit Änderung
+- TOP 36: Bibliotheksentwicklungsplan 2011 - 2013 - Vertagung
+- TOP 37: Aufnahme der Kindertageseinrichtung Otto-Harzer-Straße in 01156 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden - Vertagung
+- TOP 38: Bestellung der Wirtschaftsprüfgesellschaft für die Jahresabschlüsse der beiden städtischen Krankenhäuser für die Jahre 2011 und 2012 - Zustimmung
+- TOP 39: Fortschreibung des Integrierten Stadtentwicklungskonzeptes (INSEK 2002) - Vertagung
+- TOP 40: Fragestunde der Stadträtinnen und Stadträte (1 Fragerunde)
