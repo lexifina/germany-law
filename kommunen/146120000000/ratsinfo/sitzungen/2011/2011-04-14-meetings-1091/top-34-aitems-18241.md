@@ -1,0 +1,8 @@
+# TOP 34: Dresden - Stadt der bewegungsfreudigen und gesunden Kinder: Modellkonzept für fortschrittliche Bewegungs- und damit Gesundheitsförderung im Kindesalter
+
+- Sitzung: 26. Sitzung des Stadtrates (2011-04-14)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/18241
+- Ergebnis: Zustimmung mit Änderung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/5236
