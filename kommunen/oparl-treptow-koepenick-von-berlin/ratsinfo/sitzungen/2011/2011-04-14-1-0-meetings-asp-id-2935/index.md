@@ -1,0 +1,73 @@
+# 50. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-04-14T16:30:00+02:00
+- Ende: 2011-04-14T22:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2935
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2935
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=99723
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - gegenstandslos
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-52 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Wahl einer stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.3: Wahl von 2 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Bearbeitungsstand von BVV-Beschlüssen - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Zustimmung zur Ausbauvariante der Berliner Wasserbetriebe für den Ausbau der Straßenentwässerung im Dammweg zwischen Köpenicker Landstraße und Neue Krugallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Sondermittel für Verband Christlicher Pfadfinderinnen und Pfadfinder/Stamm Oberschöneweide (SM 1111) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für Schlossplatztheater/Alte Möbelfabrik e. V. (SM 1115) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Förderverein Freiwillige Feuerwehr Köpenick e. V. (SM 1117) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Förderverein KIEZKLUB RAHNSDORF e. V. (SM 1118) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Bündnis für Demokratie und Toleranz / offensiv'91 e. V. (SM 1124) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bebauungsplan XVI-71 ("Julius-Hart-Straße") hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Parkplätze für den 1. FC Union - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Bebauungsplan 9-55 ("Am Wiesenweg") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Zustimmung zur Ausbauvariante der Berliner Wasserbetriebe für den Ausbau der Straßenentwässerung in der Godbersenstraße vom Adlergestell bis zur Lindenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Zustimmung zur Ausbauvariante der Berliner Wasserbetriebe für den Ausbau der Straßenentwässerung im Adlergestell von Zum Seeblick bis Wernsdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Hausboote im Treptower Hafen - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Touristische Hinweise am Bahnhof Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Konzeption für den bezirklichen Winterdienst - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Restaurierung und Renovierung beim Standesamt im Rathaus Köpenick - vertagt
+- TOP 12.10: Energieeffiziente Gebäudesanierung (II) - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Moratorium für Demontage der Sportanlage Birkenwäldchen - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Förderprogramm LIFE+ nutzen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-47 („Bölschestraße“) hier: Einstellung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan XV-21b ("Am Berg") hier: Inhaltliche Änderungen zum Planungsentwurf - überwiesen
+- TOP 13.3: Sportstättenentwicklungsplan 2009 - überwiesen
+- TOP 13.4: Auswahl eines privaten Betreibers zur weiteren Entwicklung des Strandbades Müggelsee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Verleihung des Ehrenzeichens ''Bürgermedaille des Bezirkes Treptow-Köpenick von Berlin'' - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Zukunft des Kreiswehrersatzamtes Berlin sichern - überwiesen
+- TOP 14.2: Müllschlucker - überwiesen
+- TOP 14.3: Tempo 30 auf dem Königsheideweg - überwiesen
+- TOP 14.4: Gesundheitsförderung durch Bewegung - überwiesen
+- TOP 14.5: Aktionstage "Zu Fuß zur Schule“ unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Willenserklärung der BVV Treptow-Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.7: Treptow-Köpenick summt - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Alt-Treptow - überwiesen
+- TOP 14.9: Aussetzung der Zahlungsverpflichtung für Grundsteuer - überwiesen
+- TOP 14.10: Auftragsvergabe bei Schulreinigung - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Ehemalige Sportfläche Birkenwäldchen als Hundesport- und -auslaufgebiet - vertagt
+- TOP 14.12: Ausweisung von Kleingartenflächen in B-Plangebieten - überwiesen
+- TOP 14.13: BVV Treptow-Köpenick fordert China zur Freilassung von Ai Weiwei auf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wir wollen Können müssen - vertagt
+- TOP 15.2: Barrierefreiheit – auch in der Altstadt Köpenick - vertagt
+- TOP 15.3: Entscheidungsfindung und Vergabeprozess zur Zukunft des Strandbads Rahnsdorf - beantwortet
