@@ -1,0 +1,121 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2011-04-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2222961
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2222961
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Umbenennung des westlichen Teilstücks der Huchenstraße im 15. Stadtbezirk Trudering-Riem Brachsenstraße
+- TOP 1.2.: (E) Umbenennung des östlichen Teilstücks des Flußaalweges im 15. Stadtbezirk Trudering-Riem Renkenweg
+- TOP 1.3.: Neubau einer Lichtzeichenanlage an der Kreuzung Am Mitterfeld/ Truchthari-Anger
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Hip-Hop-Initiative Messestadt Riem c/o Tiedtke-Gold Weiterführung des Hip-Hop-Kurses ab 16.03. - 31.12.2011
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Gefährdung durch Feuer auf dem Basketballplatz an der Emil-Nolde-Straße
+- TOP 2.2.: Müllsituation am Platz der Menschenrechte
+- TOP 2.3.: Parkplatz am Riemer Park
+- TOP 2.4.: Parkbereich Wasserburger Landstraße Höhe Haus-Nr. 281
+- TOP 2.5.: Antrag des Kindergartens Spatzennest e.V. vom 03.12.10 an den Bezirksausschuss (Schreiben des Vermieters)
+- TOP 2.6.: Zuschussantrag für eine Ganztagesklasse in der Grundschule an der Turnerstraße
+- TOP 2.7.: Gemeinschaftsunterkunft für Flüchtlinge in der Karl-Schmid-Straße
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Stellplatzsituation Kooperationseinrichtung Karpfenstraße
+- TOP 3.2.: Großräumige Busumleitungen- wie lassen sich die Belange Behinderter berücksichtigen?
+- TOP 3.3.: Radfahrproblematik im Lomeweg
+- TOP 3.4.: Verschmutzung der Heltauer Straße
+- TOP 3.5.: Wiedereinführung der Sperrmüllsammlung
+- TOP 3.6.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauersegler Straße
+- TOP 3.7.: Feuerwerke restriktiver genehmigen
+- TOP 3.8.: Ökologischen Ausgleich für die Verdichtung Truderings und Riems schaffen
+- TOP 3.9.: Problematik bezüglich freilaufender Hunde und deren Hinterlassenschaften im Park- und Spielplatzbereich und Schutz der Kinder
+- TOP 3.10.: Sprengelschule Astrid-Lindgren
+- TOP 3.11.: Kapazitäten offenlegen
+- TOP 3.12.: Wasser und Energieverbrauch der städtischen Einrichtungen in Trudering-Riem
+- TOP 3.13.: Planung Riemer Grundschule
+- TOP 3.14.: Erläuterungstafel für den Kopfbau des ehem. Münchner Flughafens Riem
+- TOP 3.15.: Bürgerbüro Ostbahnhof - Verbesserungsvorschläge
+- TOP 3.16.: Information zum Wertstoffsammelsystem in der Landeshauptstadt München im Internet, Antwort des AWM vom 25.03.11
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Information über Straßennamensgeber auf muenchen.de einstellen
+- TOP 4.2.: Elektronisch verstärkte Musik im Biergarten Franziskanergarten an der Friedenspromenade
+- TOP 4.3.: Zaun und Tore am Riemer Park entfernen
+- TOP 4.4.: Sitzbänke der Messestadt-Promenade erneuern
+- TOP 4.5.: Schutz der Riemer Fledermäuse
+- TOP 4.6.: Frauenparkplätze am P&R- Parkplatz Trudering
+- TOP 4.7.: Erfahrungen der Stadt Rosenheim mit dem verkehrsberuhigten Geschäftsbereich
+- TOP 4.8.: Energetische Nutzung der Windkraft im 15. Stadtbezirk
+- TOP 5: Anhörungen
+- TOP 5.1.: Dezentrales Güterverkehrskonzept (GVZ-Konzept) Überprüfung und weitere Planung, Überprüfung des Güterverkehrskonzepts und der Citylogistik, Antrag Nr. 08-14/ A 00084 der Stadtratsfraktion der SPD und Bündnis 90/ Die Grünen/RL vom 24.06.08, Überprüfung des Güterverteilungskonzepts unter Berücksichtigung aktueller Verkehrsprognosen, Antrag Nr. 08-14/ A 00215 der Stadträte Josef Schmid und Hans Podiuk vom 07.08.08; München und die Metropolregion beteiligen sich konstruktiv an der Umsetzung des MASTERPLAN GÜTERVERKEHR, Antrag Nr. 08-14/ A 00244 der Stadträte Robert Brannekämper und Dr. Georg Kronawitter vom 21.08.08; Sitzungsvorlage Nr. 08-14/ V 04152, Beschluss der Vollversammlung des Stadtrats vom...; ENTWURF Stand 23.03.11
+- TOP 5.2.: Schaffung eines Beauftragten für Stadtteilheimatpflege, BA-Antrag Nr. 08-14/ B 02521 des Bezirksausschusses des Stadtbezirks 13 Bogenhausen vom 09.11.10, Anhörung zur Satzungsänderung vom 24.03.11
+- TOP 5.3.: Veranstaltung von Scuderia e.V. auf der Sonderfreifläche Riem am 09.10.11 (alternativ 16.10.11)
+- TOP 5.4.: Skateboard-Workshop des Sportamtes am 16./17.08.11 und 01./02.09.11
+- TOP 5.5.: Verkauf einer städtischen Immobilie, Flst. 1408/221, Gemarkung Trudering, Adresse Willy-Brandt-Allee, Art des Objekts: Grundstück ohne Bebauung
+- TOP 5.6.: Verkauf einer städtischen Immobilie, Flst. 1408/32 und 1408/129, Gemarkung Trudering, Adresse Willy-Brandt-Allee, Art des Objekts: Grundstück ohne Bebauung
+- TOP 5.7.: Verkauf einer städtischen Immobilie, Flst. 190, Gemarkung Trudering, Adresse Ickelsamerstraße, Art des Objekts: Grundstück ohne Bebauung
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Aktive Zentren Trudering ? Vorschläge zur künftigen Nutzung des alten Truderinger Rathauses und der ehemaligen Polizeidienststelle
+- TOP 7.2.: Aktueller Sachstand Kita Bognerhof
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Parkmöglichkeiten in der Waldstraße
+- TOP 7.2.: Verkehrssicherheit in Kirchtrudering
+- TOP 7.3.: Ja mia san mim Radl do- sind doppelstöckige Fahrradabstellanlagen die Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten, Antrag Nr. 08/14 A 01879 von Herrn Stadtrat Dr. Kronawitter vom 12.10.10, Sitzungsvorlage Nr. 08-14/ V 06307, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.11
+- TOP 7.4.: Verkehrsrechtliche Anordnung nach § 45 StVO: Kirchtruderinger Str. 6, Kurzparkzone, Bestätigung über die Ausführung vom 16.03.11
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Zusatzschilder für Straßen verdienter Münchnerinnen und Münchner im Stadtbezirk
+- TOP 7.2.: BA-Budget: Änderungsbescheid für das Projekt "Voilá! Opera!" an der Grundschule Forellenstraße, neuer Bewilligungszeitraum 08.11.10 bis 31.10.11
+- TOP 7.3.: BA-Budget: Änderungsbescheid für das Projekt "Voilá! Opera!" an der Grundschule Lehrer-Wirth-Straße, neuer Bewilligungszeitraum 08.11.10 bis 31.10.11
+- TOP 7.4.: BA-Budget: Verwendungsnachweis für Kulissen und Kleinanhänger, Theaterverein Die Lustigen Truderinger
+- TOP 7.5.: BA-Budget: Verwendungsnachweis zum Truderinger Neujahrskonzert 2011, Chorgemeinschaft St. Peter und Paul
+- TOP 7.6.: BA-Budget: Antwort des Direktoriums zur Nachfrage des BA vom 18.03.11
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Hochkönigstr.6, Vogesenstr.5a, Samoastr.5, Otto-Lederer-Weg 33, Fauststr.44 b Entscheidungen der Unt. Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 Friedenspromenade 12, 8.3 Turnerstr., 8.4 Otto-Lederer-Weg 45, 8.5 Leonhardiweg 23, 8.6 Mattseestr.1, 8.7 Hererostr., 8.8 Zehntfeldstr.100, 8.9 Zehntfeldstr.102, 8.10 Sulzer-Belchenweg 6, 8.11 Riemer Str. 348a, 8.12 Hippelstr.17a
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Aktionstag Zusammenleben im Park am 22.05.11; Vorankündigung des Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 25.05.11 sowie Protokoll der Sitzung vom 22.02.11; Veranstaltungen in städtischen Grünanlagen, Spielaktionen von "Spielen in der Stadt e.V." und weiteren Veranstaltern im Jahr 2011
+- TOP 9.2.: Immobiliengesuch für Übergangswohngemeinschaft Regenbogen Wohnen
+- TOP 9.3.: Protokoll RAGS 14/15 vom 18.11.10
+- TOP 9.4.: Erinnerungsorte München, Die vergessenen Orte der Topographie des Terrors sichtbar machen- Ort und Erinnerung zusammenbringen, Antrag Nr. 08-14/ A 00457 der Stadtratsfraktion Die Grünen/ RL vom 09.12.08, Sitzungsvorlage Nr. 08-14/ V 05426, Beschluss des Kulturausschusses vom 03.03.11
+- TOP 9.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Schmalere Buswartehäuschen, Antrag 08-14/ B 02610 des Bezirksausschusses des 20. Stadtbezirks vom 13.12.10, Antwortschreiben vom 07.03.11
+- TOP 9.7.: Weichenerneuerung zwischen Goetheplatz und Sendlinger Tor im Zeitraum 18.-26.04.11, Schreiben der MVG vom 03.03.11
+- TOP 9.8.: Kirchtruderinger Straße, Fl.Nr. 49/0, Gemarkung Trudering, 1 unbeleuchtete Werbetafel, Antwort des Planungsreferats vom 03.12.10
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung der Bezirksausschüsse über Bauvorhaben im Stadtbezirk im Zeitraum 21.02.11 - 27.03.11
+- TOP 10.2.: Abbruchanzeige: St.-Augustinus-Str. 68
+- TOP 10.3.: Abbruchanzeige: Kirtaweg 2
+- TOP 10.4.: Abbruchanzeige: Heilwigstr. 87
+- TOP 10.5.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Surya, Max-Rothschild-Str. 10
+- TOP 10.6.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Rokkos, St.-Augustinus-Str. 6
+- TOP 10.7.: Anzeige einer Versammlung unter freiem Himmel am 09.04.11, Riem Arcaden Durchgang
+- TOP 10.8.: Erlaubnisbescheid Open Air Hit Festival der Volksmusik am 12.08.11 auf dem Willy-Brandt-Platz
+- TOP 10.9.: Auswertung des Stadtteilchecks "Auf Herz und Rampen prüfen" des Kreisjugendrings München Stadt
+- TOP 10.10.: Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013, Kinderkrippe Truderinger Straße 198 (Wolkennest Kinderkrippen GmbH& Co. KG) mit 48 Kinderkrippenplätzen, Ankauf und Umbau, Investitionskostenzuschuss in Höhe von 1.303.025 EUR Stadtbezirk 15 Trudering-Riem, Sitzungsvorlage Nr. 08-14/ V 06125
+- TOP 10.11.: Wohnungsnahe Versorgung mit öffentlichen Spielflächen- Anwendung des ABZ-Modells zur jährlichen Fortschreibung des Spielfächenversorgungsplanes; Sitzungsvorlage Nr. 08-14/ V 05936, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11
+- TOP 10.12.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplans 2011 für den Bereich "Förderung freier Träger" des Sozialreferats/Zentrale, Sitzungsvorlage Nr. 08-14/ V 06231, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11
+- TOP 10.13.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplans 2011 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 08-14/ V 06214, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11
+- TOP 10.14.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplans 2011 für den Bereich "Förderung freier Träger" des Stadtjugendamts, Sitzungsvorlage Nr. 08-14/ V 06304, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11
+- TOP 10.15.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplans 2011 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 08-14/ V 06263, Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11
+- TOP 10.16.: Projekt des Deutschen Instituts für Urbanistik: Herausforderungen des demografischen Wandels bewältigen: Kommunale Erfahrungen und Ansätze; Sitzungsvorlage Nr. 08-14/ V 06053, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11
+- TOP 10.17.: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011-2015, Sitzungsvorlage Nr. 08-14/ V 06248, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.11
+- TOP 10.18.: Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen, Antrag Nr. 08-14/ A 02098 von Herrn Stadtrat Dr. Kronawitter vom 29.12.10, Sitzungsvorlage Nr. 08-14/ V 06323, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.11
+- TOP 10.19.: München setzt aufs Rad 2, Von Nachbarn in den Niederlanden und Dänemark lernen; Antrag Nr. 08-14/ A 01081 der Stadtratsfraktion Die Grünen/ RL vom 25.09.09; Sitzungsvorlage Nr. 08-14/V 04041, Hinweis/ Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11
+- TOP 10.20.: Entwicklung des Verkehrs in München; a) aktueller Sachstand b) Anträge 1. Bericht zur Entwicklung des Verkehrs in München Antrag Nr. 08-14/A 00225 der Stadtratsfraktion BÜNDNIS 90/ DIE GRÜNEN/ RL vom 14.08.08; 2. Aktuelle Daten zum Autoverkehr in München, Antrag Nr. 08-14/A 01356 von Herrn Stadtrat Josef Schmid vom 17.02.10; Sitzungsvorlage Nr. 08-14/V 05724, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11
+- TOP 10.21.: Nahverkehrsplan (NVP) der Landeshauptstadt München, a) Aufgabenstellung, b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung, c) Finanzierung der ÖPNV-Infrastruktur, d) Anträge; Sitzungsvorlage Nr. 08-14/ V 05592, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.02.11 und Beschluss der Vollversammlung des Stadtrats vom 16.03.11
+- TOP 10.22.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.23.: CarSharing in München; Durchführung von Pilotprojekten, BA-Antrag 08-14/ B 02739 des Bezirksausschusses des Stadtbezirks 06 Sendling vom 07.02.11, Sitzungsvorlage Nr. 08-14/ V 05883, Beschluss des Kreisverwaltungsausschusses vom 15.03.11
+- TOP 10.24.: Beseitigung höhengleicher Bahnübergänge, 1. Gegenwärtiger Stand, 2. Feldmochinger Straße, Beseitigung des höhengleichen Bahnübergangs, Sachstandsbericht und Vorstellung der Ergebnisse der Machbarkeitsstudie; 3. Bürgerversammlungsempfehlungen und Bezirksausschussanträge; 4. Rasche Realisierung der Bahnunterführung Fasanerie, Antrag 08-14/A 02094 der Stadtratsfraktion der FDP vom 22.12.10; 5. Fasanerie - Planungen optimieren - Bürger beteiligen, Antrag Nr. 08-14/ A 02179 der ÖDP vom 01.02.11 ; Sitzungsvorlage Nr. 08-14/V 03800, Anlage Stadtratsantrag 08-14/ A 02179, Ergänzende Vorlage zum Beschluss des Bauausschusses vom 01.03.11
