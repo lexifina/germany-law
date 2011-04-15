@@ -1,8 +1,8 @@
 # Hauptsatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2010-11-09 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung2009-02-10fassung2010-11-09.pdf
+- Datum: 2011-04-15 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/hauptsatzung-15042011.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Hauptsatzung der Stadt Köln vom 10. Februar 2009
 
-in der Fassung der 6. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 09. November 2010
+in der Fassung der 7. Satzung zur Änderung der Hauptsatzung der Stadt Köln vom 15. April 2011
 
 I. Allgemeines § 1 Stadtgebiet und Stadtbezirke § 2 Siegel, Wappen und Flagge § 3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger § 4 Amtszeichen § 5 Verpflichtung der Ratsmitglieder, der Mitglieder der Ausschüsse und der Bezirksvertretungen § 6 Auskunftspflicht der Mandatsträgerinnen und Mandatsträger § 7 Geschäftsordnung des Rates und der Bezirksvertretungen der Stadt Köln § 8 Öffentliche Bekanntmachungen § 9 Zuständigkeitsordnung § 10 Dringlichkeitsentscheidungen § 11 Genehmigungspflicht für Verträge § 12 Ablehnung einer ehrenamtlichen Tätigkeit oder eines Ehrenamtes § 12a Städtepartnerschaften
 
@@ -64,7 +64,7 @@ Stadtbezirk 9 (Mülheim) Buchforst, Buchheim, Dellbrück, Dünnwald, Flittard, H
 §2 Siegel, Wappen und Flagge
 (§ 14 GO)
 (1) Die Stadt Köln führt das in der Anlage abgebildete Wappen.
-(2) Als Siegel führt sie das historische Petrussiegel, das Dienstsiegel und das "Kleine Dienstsiegel", deren Abdruck als Anlagen der Satzung beigefügt sind. Das historische Petrussiegel kann nur bei besonderen Anlässen verwendet werden.
+(2) Als Siegel führt sie das historische Petrussiegel, das Dienstsiegel und das "Kleine Dienstsiegel". Das „Kleine Dienstsiegel“ wird in den Ausführungen mit einem Durchmesser von 22 mm und von 15 mm geführt. Der Abdruck der Siegel ist der Satzung als Anlage beigefügt.
 (3) In den beiden Dienstsiegeln ist das Wappen mit der Umschrift "Siegel der Stadt Köln" versehen. Sind für einzelne Dienststellen aufgrund landesrechtlicher Vorschriften bestimmte, auf die Dienststelle hinweisende Zusätze zu verwenden, werden diese im "Kleinen Dienstsiegel" zusätzlich zu der vorgenannten Umschrift geführt.
 (4) Die Flagge der Stadt Köln ist rot-weiß längs gestreift.
 §3 Bezeichnungen der Mandatsträgerinnen und Mandatsträger
@@ -312,6 +312,9 @@ Köln, den 10.02.2009
 
 Der Oberbürgermeister gez. Schramma
 
-- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060 -
+- ABl StK 2009, S. 129, S. 1157, S. 1195, 2010, S. 230, S. 514, S. 1060, 2011, S. 354 -
 
 Anlage zu § 1 der Hauptsatzung der Stadt Köln
+
+Anlagen zu §2 der Hauptsatzung der Stadt Köln
+Wappen der Stadt Köln Dienstsiegel kleines Dienstsiegel in den Ausführungen 22mm und 15mm Petrussiegel
