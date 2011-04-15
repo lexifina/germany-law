@@ -1,0 +1,54 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-04-15T14:00:00+02:00
+- Ende: 2011-04-15T19:05:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4431
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4431
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00157920.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00157920.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00157920.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: Jugendrat - einstimmig beschlossen
+- TOP 5: Sicherheitslage 2010 - vertagt
+- TOP 6: BplNr.5477/125-Kö Bogen 2. BA- Änd.Auf.;öff.Ausl. - mehrheitlich beschlossen
+- TOP 7: B-Plan Nr. 5477/126 - Schadowplatz - mehrheitlich beschlossen
+- TOP 8: Gutachterverfahren Quartier M - Auslobungstext - zur Kenntnis genommen
+- TOP 9: Vorstellung Gestaltungskonzept Kö-Terrassen - zur Kenntnis genommen
+- TOP 10: Abbruchantrag Cecilienallee 36 - einstimmig beschlossen
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 13: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 14: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 15: Glasverbot - zur Kenntnis genommen
+- TOP 16: Rheinuferpromenade - Büchermeile - einstimmig beschlossen
+- TOP 17: Zuschuss an den Düsseldorfer Yachtclub e.V. - einstimmig beschlossen
+- TOP 18: Malwettbewerb - einstimmig beschlossen
+- TOP 19: Fußgängerübergang über die Tannenstraße - einstimmig beschlossen
+- TOP 20: Ehemaliger Golzheimer Friedhof - einstimmig beschlossen
+- TOP 21: Nördliche Altstadt - einstimmig beschlossen
+- TOP 22: Adolf-von-Vagedesplatz - einstimmig beschlossen
+- TOP 23: Informationen über beschlossene finanzielle Zuschüsse - einstimmig beschlossen
+- TOP 24: Märchenbrunnen, Neuplazierung - zurückgezogen
+- TOP 25: Terrassen auf der Königsallee - mehrheitlich abgelehnt
+- TOP 26: Entlastungsstraße - mehrheitlich abgelehnt
+- TOP 27: Anfragen - mehrheitlich abgelehnt
+- TOP 28: Verkehrssicherheit Ulmenstraße - zurückgezogen
+- TOP 29: Frankenplatz - mehrheitlich abgelehnt
+- TOP 30: Franklinstraße - zurückgezogen
+- TOP 31: Wohnungslose - zur Kenntnis genommen
+- TOP 32: Ratinger Straße - zur Kenntnis genommen
+- TOP 33: ESC - zur Kenntnis genommen
+- TOP 34: Neugestaltung Rheinuferpromenade - zur Kenntnis genommen
+- TOP 35: Umsetzung des Glasverbotes - zur Kenntnis genommen
+- TOP 36: Mitteilungen - zur Kenntnis genommen
+- TOP 37: Gestaltungsbeschluss "Freiraumkonzept Kö-Bogen" - mehrheitlich beschlossen
