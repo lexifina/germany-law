@@ -1,0 +1,87 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-04-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236528
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236528
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Truderinger Unterführung - Umrüstung von 3 Großflächentafeln (Werbeanlagen)
+- TOP 3.1.1.2.: Truderinger Straße - Umrüstung von 2 Großflächentafeln (Werbeanlagen)
+- TOP 3.1.2.1.: Verkehrssituation Echardinger Straße / St.-Michael-Straße
+- TOP 3.1.2.2.: Fahrradabstellanlage am U-Bahnhof Kreillerstraße - <div></div>
+- TOP 3.1.2.3.: Schmalere Buswartehäuschen
+- TOP 3.2.1.: Erinnerungsorte München
+- TOP 3.2.2.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege
+- TOP 3.2.3.: Stadtteilwoche vom 27.05. - 14.06.2011 auf der Festwiese St.-Veit-Straße
+- TOP 3.2.4.: Sommerfest am 02.07.2011 in der St.-Michael-Straße
+- TOP 3.2.5.: Spielaktionen Spiellandschaft Stadt e.V. auf diversen Grünanlagen im Stadtbezirk
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Bürgerkreis Berg am Laim e.V. Begleitausstellung zur Stadtteilwoche vom 03. - 10.06.2011 - <div></div>
+- TOP 3.6.1.: Hansjakobstr. 4 - 22 / Bertschstraße 25 - 33
+- TOP 3.6.2.: Ariboweg 25
+- TOP 3.6.3.: Waldstraße 3
+- TOP 3.6.4.: Dornbergstr. 39
+- TOP 3.6.5.: Großvenedigerstr. 43
+- TOP 3.6.6.: Guffertstraße 10
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Abbruchanzeige Baumkirchner Str. 33, 35, 39 / Neumarkter Straße 94
+- TOP 4.1.1.3.: Nutzungsänderung Josephsburgstraße 46
+- TOP 4.1.1.4.: Einrichtung einer Partnerfiliale der Deutschen Post AG in der Josephsburgstr. 71
+- TOP 4.1.1.5.: Aufwertung und Umgestaltung Piusplatz und angrenzende Grünanlagen
+- TOP 4.1.1.6.: Neumarkter Straße 93 - Errichtung einer neuen Salzlagerhalle für den Straßenunterhalt
+- TOP 4.1.1.7.: Perspektive München - Fortschreibung 2011 - Leitmotiv, strategische Leitlinien
+- TOP 4.1.1.8.: Langfristige Siedlungsentwicklung - a) Nachverdichtung b) Baurechte durch Arrondierung
+- TOP 4.1.1.9.: Regionsbericht 2010
+- TOP 4.1.1.10.: Beschlussvollzugskontrolle über die Beschlüsse des Planungsausschusses und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2010 - 31.12.2010
+- TOP 4.1.1.11.: Weitere Optionen für ein Berg am Laimer Bahnmuseum berücksichtigen
+- TOP 4.1.1.12.: Zukunft des Standorts der Bundesmonopolverwaltung für Branntwein (BfB) in Berg a. Laim
+- TOP 4.1.3.1.: Mobilfunk-Suchkreismeldung St.-Veit-Straße
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.3.1.: Planungsdaten des Referates für Bildung und Sport
+- TOP 4.3.2.: Michaeligymnasium - Erweiterungsbau Klassentrakt - Anbau Einfachsporthalle - Neugestaltung Eingangsbereich und Schulhof (Projektkosten und Ausführungsgenehmigung)
+- TOP 4.3.3.: Rahmenkonzeption für Kindertageszentren der Landeshauptstadt München
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Leistungsbilanz des Sozialreferats mit Einrichtungen z. sozialen Versorgung im Stadtbezirk
+- TOP 4.4.2.: Protokoll der RAGS - Rückschau 2010 - Jahresplanung 2011 - Vorschau 2012
+- TOP 4.6.1.: Gustav-Schwab-Straße 4 -10
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
