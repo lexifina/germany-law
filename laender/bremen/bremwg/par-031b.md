@@ -1,5 +1,0 @@
-# § 31b Inhalt der Erlaubnis
-(1) Die Erlaubnis für eine Benutzung nach § 31a muss in Verbindung mit der Genehmigung nach dem Bundes-Immissionsschutzgesetz durch Bedingungen und Auflagen unter Berücksichtigung der Gefahr der Verlagerung der Verschmutzung von einem Schutzgut (Wasser, Luft, Boden) in ein anderes und unter weitestgehender Verminderung der weiträumigen oder grenzüberschreitenden Umweltverschmutzung durch den Schutz von Wasser, Luft und Boden zur Wahrung eines hohen Schutzniveaus für die Umwelt insgesamt beitragen.
-(2) Die Erlaubnis regelt auch
-1. die Überwachung der Benutzung unter Festlegung der Methode und der Häufigkeit der Messungen sowie der Bewertungsverfahren,
-2. die Vorlage von Daten für die Überprüfung der Einhaltung der Bedingungen und Auflagen der Erlaubnis sowie die Maßnahmen zur Abwehr von Gefahren, die insbesondere bei der Inbetriebnahme eines für die Benutzung bedeutsamen Anlagenteils, beim unbeabsichtigten Austreten von Stoffen, bei Störungen, beim kurzzeitigen Abfahren sowie bei der endgültigen Stilllegung des Anlagenteils entstehen können.

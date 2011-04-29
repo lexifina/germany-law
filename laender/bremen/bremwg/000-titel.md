@@ -1,1 +1,1 @@
-# Bremisches Wassergesetz (BremWG) in der Fassung der Bekanntmachung vom 24. Februar 2004
+# Bremisches Wassergesetz (BremWG) vom 12. April 2011

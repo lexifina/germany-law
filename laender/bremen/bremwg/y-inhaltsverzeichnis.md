@@ -1,258 +1,130 @@
 # Inhaltsverzeichnis
-Inhalt
-§ 1 | Einleitende Bestimmung, Begriffsbestimmungen
-§ 2 | Grundsatz
-§ 2a | Zuordnung der Gewässer zur Flussgebietseinheit, Bewirtschaftung und Koordinierung
-§ 2b | Verordnungsermächtigung zur Umsetzung von inter- und supranationalen Vorschriften
-Erster Teil Gemeinsame Bestimmungen
-Kapitel 1 Benutzung der Gewässer
-Abschnitt 1 - Erlaubnis, Bewilligung
-§ 3 | Erlaubnis- und Bewilligungserfordernis
-§ 4 | Benutzungen
-§ 4a | Emissionserklärungspflicht
-§ 5 | Benutzungsbedingungen und Auflagen
-§ 6 | Unentgeltliche Benutzung
-§ 7 | Vorbehalt
-§ 8 | Versagung
-§ 9 | Zusammentreffen mehrerer Erlaubnis- oder Bewilligungsanträge
-§ 10 | Erlaubnis
-§ 11 | Gehobene Erlaubnis
-§ 12 | Anforderungen an das Einleiten von Abwasser
-§ 13 | Bewilligung
-§ 14 | Schutz der Bewilligung
-§ 15 | Nachträgliche Entscheidungen
-§ 16 | Ausschluss von Ansprüchen
-§ 17 | Widerruf der Bewilligung
-§ 18 | Benutzung durch Verbände
-§ 19 | Maßnahmen beim Erlöschen einer Erlaubnis oder einer Bewilligung; Genehmigung
-§ 20 | Erlaubnisfreie Benutzungen bei Übungen und Erprobungen
-Abschnitt 2 - Verfahrensvorschriften
-§ 21 | Zuständige Behörde
-§ 22 | Erfordernisse für den Antrag
-§ 22a | Umweltverträglichkeitsprüfung
-§ 23 | Bewilligungsverfahren
-§ 24 | Aussetzung des Verfahrens
-§ 25 | Bewilligungsbescheid
-§ 26 | Erlaubnisanträge
-§ 27 | Beweissicherung
-§ 28 | Sicherheitsleistung
-§ 29 | Zulassung vorzeitigen Beginns
-§ 30 | Kosten
-§ 31 | Planfeststellungen und bergrechtliche Betriebspläne
-Abschnitt 2a - Verfahren der Erteilung einer Erlaubnis im Zusammenhang mit Verfahren der Erteilung einer Genehmigung nach § 10 des Bundes-Immissionsschutzgesetzes
-§ 31a | Erlaubnisverfahren
-§ 31b | Inhalt der Erlaubnis
-§ 31c | Überprüfung der Erlaubnis
-§ 31d | Störungen und Unfälle
-§ 31e | Vorhandene Benutzungen
-Abschnitt 3 - Alte Rechte und alte Befugnisse
-§ 32 | Ausnahmen von der Erlaubnispflicht
-§ 33 | Widerruf alter Rechte und Befugnisse
-§ 34 | Maßnahmen beim Erlöschen alter Rechte und alter Befugnisse
-§ 35 | Eintragung und Anmeldung alter Rechte und alter Befugnisse
-§ 36 | Inhalt und Umfang alter Rechte und alter Befugnisse
-§ 37 | Andere alte Benutzungen
-Abschnitt 4 - Ausgleich von Rechten und Befugnissen
-§ 38 | Ausgleich
-§ 39 | Ausgleichsverfahren
-Abschnitt 5 - Gewässerschutzbeauftragter
-§ 40 | Bestellung von Betriebsbeauftragten für den Gewässerschutz
-§ 41 | Aufgaben
-§ 42 | Pflichten des Benutzers
-§ 43 | Stellungnahme zu Investitionsentscheidungen
-§ 44 | Vortragsrecht
-§ 45 | Benachteiligungsverbot
-§ 46 | Gewässerschutzbeauftragter bei Gebietskörperschaften, Zusammenschlüssen und Wasser- und Bodenverbänden
-§ 46a | Erleichterungen für auditierte Standorte
-Kapitel II Wasserschutzgebiete, Heilquellen
-§ 47 | Festsetzung von Wasserschutzgebieten
-§ 48 | Schutzbestimmungen
-§ 49 | Vorläufige Anordnungen
-§ 49a | Wasserschutzgebietsbeauftragter
-§ 50 | Staatlich anerkannte Heilquellen
-§ 51 | Quellenschutzgebiete
-§ 52 | Besondere Pflichten
-§ 53 | Entschädigungspflichtige Anordnungen
-§ 53a | Ausgleichspflichtige Anordnung
-Kapitel III Gewässerkundlicher Dienst
-§ 54 | Aufgaben des gewässerkundlichen Dienstes
-§ 55 | Duldungspflichten
-§ 56 | Schutz gewässerkundlicher Messanlagen
-Kapitel IV Entschädigung
-§ 57 | Art und Maß der Entschädigung
-§ 58 | Entschädigungspflichtiger
-§ 59 | Verfahren
-§ 60 | Vollstreckbarkeit
-§ 61 | Rechtsweg
-Kapitel V Gewässeraufsicht
-§ 62 | Aufgabe der Gewässeraufsicht
-§ 63 | Überwachung
-§ 64 | Kosten
-Kapitel VI Haftung
-§ 65 | Haftung für Änderungen der Beschaffenheit des Wassers
-Zweiter Teil Bestimmungen für oberirdische Gewässer
-Kapitel I Einteilung, Eigentum
-§ 66 | Einteilung der oberirdischen Gewässer
-§ 67 | Einteilung in natürliche und künstliche Gewässer
-§ 68 | Eigentum
-§ 69 | Uferlinien
-§ 70 | Anlandungen
-Kapitel II Erlaubnisfreie Benutzung
-Abschnitt 1 - Gemeingebrauch
-§ 71 | Arten und Zulässigkeit des Gemeingebrauchs
-§ 72 | Duldungspflicht der Anlieger
-§ 73 | Benutzung von Grundstücken zum Zwecke der Erholung
-§ 74 | Herrichtung von Gewässern für den Gemeingebrauch
-§ 75 | Schutzstreifen
-§ 76 | Regelung des Gemeingebrauchs und der Benutzung von Grundstücken
-Abschnitt 2 - Eigentümergebrauch, Benutzung zu Zwecken der Fischerei
-§ 77 | Eigentümergebrauch
-§ 78 | Benutzung zu Zwecken der Fischerei
-Kapitel III Stauanlagen
-§ 79 | Stauanlagen (Begriff)
-§ 80 | Staumarken
-§ 81 | Erhaltung der Staumarken
-§ 82 | Kosten
-§ 83 | Außerbetriebsetzen und Beseitigen von Stauanlagen
-§ 84 | Ablassen aufgestauten Wassers
-§ 85 | Höchst- und Mindeststau
-§ 86 | Größere Stauanlagen
-§ 87 | Plan
-§ 88 | Aufsicht
-§ 89 | Andere Stauanlagen, Wasserspeicher
-Kapitel IV Anlagen in oder an Gewässern
-§ 90 | Erfordernis der Genehmigung
-Kapitel IVa Schutz vor Hochwasser und Sturmflut
-Abschnitt 1 - Hochwasserschutz
-§ 91 | Grundsätze des Hochwasserschutzes
-§ 91a | Überschwemmungsgebiete
-§ 91b | Erhaltung von Überschwemmungsgebieten
-§ 92 | Überschwemmungsgefährdete Gebiete
-§ 93 | Hochwasserschutzpläne
-Abschnitt 2 - Hochwassermeldedienst
-§ 94 | Einrichtung und Zuständigkeit
-§ 95 | Inhalt der Hochwassermeldeordnung
-Kapitel V Bewirtschaftungsziele und -anforderungen
-§ 95a | Bewirtschaftungsziele für oberirdische Gewässer
-§ 95b | Künstliche und erheblich veränderte oberirdische Gewässer
-§ 95c | Fristen zur Erreichung der Bewirtschaftungsziele
-§ 95d | Ausnahmen von den Bewirtschaftungszielen
-Kapitel VI Reinhaltung
-§ 96 | Einbringen, Lagern und Befördern von Stoffen
-§ 97 | (weggefallen)
-Kapitel VII Unterhaltung und Ausbau, Deiche und Dämme
-Abschnitt 1 - Unterhaltung
-§ 98 | Unterhaltungspflicht
-§ 99 | Umfang der Unterhaltung
-§ 100 | Unterhaltung der Gewässer erster Ordnung
-§ 101 | Unterhaltung der natürlichen Gewässer zweiter Ordnung
-§ 102 | Unterhaltung der künstlichen Gewässer zweiter Ordnung
-§ 102a | Unterhaltung der Gewässer dritter Ordnung
-§ 103 | Unterhaltung der Anlagen in und an Gewässern
-§ 103a | Übertragung der Unterhaltungspflicht
-§ 104 | Unterhaltung der Häfen, Lande- und Umschlagstellen
-§ 105 | Unterhaltungspflicht auf Grund besonderen Titels
-§ 106 | Ersatzvornahme
-§ 107 | Beiträge zu den Kosten der Unterhaltung
-§ 108 | Kostenausgleich
-§ 109 | Besondere Pflichten im Interesse der Unterhaltung
-§ 110 | Entscheidung der Wasserbehörde, Unterhaltungsordnung
-Abschnitt 2 - Ausbau
-§ 111 | Grundsätze für den Ausbau
-§ 111a | Erfordernis der Planfeststellung oder Plangenehmigung
-§ 112 | Verpflichtung zum Ausbau
-§ 113 | Auflagen, Versagung
-§ 114 | Entschädigung, Widerspruch
-§ 115 | Benutzung von Grundstücken
-§ 116 | Vorteilsausgleich
-§ 117 | Planfeststellung, Plangenehmigung
-§ 118 | Enteignung
-Abschnitt 3 - Deiche und Dämme
-§ 119 | Anwendung der Vorschriften über den Ausbau
-§ 120 | Unterhaltung und Wiederherstellung
-§ 121 | Besondere Pflichten bei der Unterhaltung und Wiederherstellung
-§ 122 | Deichrechtliche Vorschriften
-§ 123 | Deichschau
-§ 124 | Entscheidung in Streitfällen
-§ 125 | Schutzanlagen
-Dritter Teil Bestimmungen für das Grundwasser
-§ 126 | Erlaubnisfreie Benutzung
-§ 126a | Bewirtschaftungsziele für Grundwasser
-§ 127 | Reinhaltung
-§ 128 | Erdaufschlüsse
-Vierter Teil Wasserversorgung, Abwasserbeseitigung
-Kapitel I Wasserversorgung
-§ 129 | Anlagen für die öffentliche Wasserversorgung
-§ 130 | Genehmigungspflicht
-§ 131 | Verpflichtung zur Selbstüberwachung
-§ 131a | Sparsamer Umgang mit Wasser
-Kapitel II Abwasserbeseitigung
-§ 132 | Abwasserbeseitigung
-§ 132a | Dezentrale Niederschlagswasserbeseitigung
-§ 133 | Abwasserbeseitigungspflicht
-§ 133a | Beleihung
-§ 134 | Zusammenschlüsse, Mitbenutzung von Anlagen
-§ 135 | (weggefallen)
-§ 136 | (weggefallen)
-§ 137 | Bau und Betrieb von Abwasseranlagen
-§ 138 | Genehmigung von Abwasseranlagen
-§ 139 | Selbstüberwachung
-Fünfter Teil Anlagen für wassergefährdende Stoffe
-Kapitel I Rohrleitungsanlagen zum Befördern wassergefährdender Stoffe
-§ 140 | Genehmigung von Rohrleitungsanlagen zum Befördern wassergefährdender Stoffe
-§ 141 | Auflagen und Bedingungen, Versagung der Genehmigung
-§ 142 | Widerruf der Genehmigung
-§ 143 | Zusammentreffen der Genehmigung mit gewerbe- und bergrechtlichen Entscheidungen
-Kapitel II Anlagen zum Umgang mit wassergefährdenden Stoffen
-§ 144 | Anlagen zum Umgang mit wassergefährdenden Stoffen
-§ 145 | Eignungsfeststellung und Bauartzulassung
-§ 146 | Pflichten des Betreibers
-§ 147 | Besondere Pflichten beim Befüllen und Entleeren
-§ 148 | Fachbetriebe
-§ 149 | Zuständigkeit der Bergbehörde
-§ 150 | Verordnungsermächtigung
-Sechster Teil Behörden, Zuständigkeit, Abwehr von Gefahren
-Kapitel I Allgemeine Vorschriften
-§ 151 | Behörden
-§ 152 | Aufgaben der Wasserbehörden
-Kapitel II Gewässerschau
-§ 153 | Aufgabe und Durchführung
-Kapitel III Abwehr von Gefahren
-§ 154 | Gefahrenabwehr
-§ 155 | Anzeige von Unfällen mit wassergefährdenden Stoffen
-§ 156 | Wassergefahr
-§ 157 | Wasserwehr
-Siebenter Teil Zwangsrechte
-§ 158 | Änderung des Wasserablaufs
-§ 159 | Änderung oberirdischer Gewässer
-§ 160 | Durchleitung von Wasser und Abwasser
-§ 161 | Anschluss von Stauanlagen
-§ 162 | Einschränkende Bestimmungen
-§ 163 | Verfahren
-Achter Teil Wasserwirtschaftliche Planung, Wasserbuch, Informationsbeschaffung und -übermittlung
-Kapitel I Wasserwirtschaftliche Planung
-§ 164 | Maßnahmenprogramm, Bewirtschaftungsplan und Koordinierung
-§ 164a | Maßnahmenprogramm
-§ 164b | Bewirtschaftungsplan
-§ 164c | Beteiligung der Öffentlichkeit
-§ 165 | Zuständigkeit und Fristen
-§ 166 | Veränderungssperre zur Sicherung von Planungen
-§ 167 | (weggefallen)
-Kapitel II Wasserbuch
-§ 168 | Einrichtung, Zuständigkeit
-§ 169 | Eintragung
-§ 170 | Einsichtnahme
-Kapitel III Informationsbeschaffung und -übermittlung
-§ 170a | Informationsbeschaffung und -übermittlung
-Neunter Teil Bußgeldbestimmungen
-§ 171 | Ordnungswidrigkeiten
-§ 172 | Zuständige Verwaltungsbehörde
-Zehnter Teil Übergangs- und Schlussbestimmungen
-§ 173 | Einschränkung von Grundrechten
-§ 174 | (weggefallen)
-§ 175 | Weitergehende Bestimmungen und Rechtstitel
-§ 176 | Verkehrsangelegenheiten
-§ 177 | (weggefallen)
-§ 178 | Bundeswasserstraßen
-§ 179 | (weggefallen)
-§ 180 | In-Kraft-Treten
+Inhaltsübersicht
+Kapitel 1 Allgemeine Bestimmungen
+§ 1 | Geltungsbereich
+§ 2 | Anwendungsbereich (Zu § 2 des Wasserhaushaltsgesetzes)
+§ 3 | Einteilung der oberirdischen Gewässer
+§ 4 | Uferlinien
+§ 5 | Gewässereigentum (Zu § 4 Absatz 5 des Wasserhaushaltsgesetzes)
+§ 6 | Unentgeltliche Benutzung (Zu § 4 Absatz 4 des Wasserhaushaltsgesetzes)
+Kapitel 2 Bewirtschaftung von Gewässern
+Abschnitt 1 Gemeinsame Bestimmungen
+§ 7 | Zuordnung der Gewässer zur Flussgebietseinheit; Bewirtschaftung und Koordinierung (Zu § 7 des Wasserhaushaltsgesetzes)
+§ 8 | Maßnahmen beim Erlöschen einer Erlaubnis oder einer Bewilligung (Zu §§ 18 und 20 des Wasserhaushaltsgesetzes)
+§ 9 | Erlaubnisverfahren für industrielle Vorhaben
+§ 10 | Alte Rechte und Befugnisse (Zu § 20 des Wasserhaushaltsgesetzes)
+§ 11 | Maßnahmen beim Erlöschen alter Rechte und Befugnisse
+§ 12 | Inhalt und Umfang alter Rechte und Befugnisse (Zu §§ 20, 21 des Wasserhaushaltsgesetzes)
+§ 13 | Kosten des Ausgleichverfahrens (Zu § 22 des Wasserhaushaltsgesetzes)
+Abschnitt 2 Bewirtschaftung oberirdischer Gewässer
+§ 14 | Gemeingebrauch (Zu § 25 des Wasserhaushaltsgesetzes)
+§ 15 | Duldungspflicht der Anlieger (Zu § 25 des Wasserhaushaltsgesetzes)
+§ 16 | Benutzung von Grundstücken zum Zwecke der Erholung (Zu § 25 des Wasserhaushaltsgesetzes)
+§ 17 | Herrichtung von Gewässern für den Gemeingebrauch (Zu § 25 des Wasserhaushaltsgesetzes)
+§ 18 | Regelung des Gemeingebrauchs und der Benutzung von Grundstücken (Zu § 25 des Wasserhaushaltsgesetzes)
+§ 19 | Eigentümer- und Anliegergebrauch im Hafengebiet (Zu § 26 des Wasserhaushaltsgesetzes)
+§ 20 | Anlagen in, an, über und unter oberirdischen Gewässern (Zu § 36 des Wasserhaushaltsgesetzes)
+§ 21 | Gewässerrandstreifen (Abweichend von § 38 des Wasserhaushaltsgesetzes)
+§ 22 | Gewässerunterhaltung (Zu § 39 des Wasserhaushaltsgesetzes)
+§ 23 | Unterhaltung der Gewässer zweiter Ordnung (Zu § 40 des Wasserhaushaltsgesetzes)
+§ 24 | Übertragung der Unterhaltungslast (Zu § 40 des Wasserhaushaltsgesetzes)
+§ 25 | Unterhaltungslast aufgrund besonderen Titels (Zu § 40 des Wasserhaushaltsgesetzes)
+§ 26 | Beiträge zu den Kosten der Unterhaltung
+§ 27 | Kostenausgleich
+§ 28 | Gewässerschau (Zu § 41 des Wasserhaushaltsgesetzes)
+§ 29 | Unterhaltungspflicht (Zu § 42 des Wasserhaushaltsgesetzes)
+Abschnitt 3 Stauanlagen
+§ 30 | Stauanlagen
+§ 31 | Staumarken
+§ 32 | Erhaltung der Staumarken
+§ 33 | Kosten
+§ 34 | Ablassen aufgestauten Wassers
+§ 35 | Höchst- und Mindeststau
+§ 36 | Größere Stauanlagen, Wasserspeicher
+§ 37 | Aufsicht
+§ 38 | Duldung bei der Errichtung von Stauanlagen
+Abschnitt 4 Bewirtschaftung des Grundwassers
+§ 39 | Erlaubnisfreie Benutzung des Grundwassers (Zu § 46 des Wasserhaushaltsgesetzes)
+Kapitel 3 Besondere wasserwirtschaftliche Bestimmungen
+Abschnitt 1 Öffentliche Wasserversorgung, Wasserschutzgebiete, Heilquellenschutz
+§ 40 | Genehmigungspflicht für Anlagen der öffentlichen Wasserversorgung
+§ 41 | Festsetzung von Wasserschutzgebieten (Zu § 51 des Wasserhaushaltsgesetzes)
+§ 42 | Wasserschutzgebietsbeauftragter (Zu § 52 des Wasserhaushaltsgesetzes)
+§ 43 | Anerkennung von Heilquellen (Zu § 53 des Wasserhaushaltsgesetzes)
+Abschnitt 2 Abwasserbeseitigung
+§ 44 | Dezentrale Niederschlagswasserbeseitigung (Zu § 55 des Wasserhaushaltsgesetzes)
+§ 45 | Abwasserbeseitigungspflicht (Zu § 56 des Wasserhaushaltsgesetz)
+§ 46 | Beleihung
+§ 47 | Zusammenschlüsse, Mitbenutzung von Anlagen
+§ 48 | Genehmigung von Abwasseranlagen (Zu § 60 des Wasserhaushaltsgesetzes)
+Abschnitt 3 Gewässerausbau, Deich-, Damm- und Küstenschutzbauten
+§ 49 | Grundsätze für den Ausbau (Zu § 67 des Wasserhaushaltsgesetzes)
+§ 50 | Versagung (Zu § 68 Absatz 3 des Wasserhaushaltsgesetzes)
+§ 51 | Verpflichtung zum Ausbau
+§ 52 | Entschädigung, Widerspruch
+§ 53 | Benutzung von Grundstücken
+§ 54 | Vorteilsausgleich
+§ 55 | Planfeststellung, Plangenehmigung (Abweichend von § 70 des Wasserhaushaltsgesetzes)
+§ 56 | Enteignung (Zu § 71 des Wasserhaushaltsgesetzes)
+Abschnitt 4 Hochwasserschutz
+§ 57 | Hochwassergefährdetes Gebiet im tidebeeinflussten Bereich der Weser einschließlich der Nebengewässer (Zu § 76 des Wasserhaushaltsgesetzes)
+§ 58 | Festsetzung und Sicherstellung von Überschwemmungsgebieten (Zu § 76 Absatz 2 des Wasserhaushaltsgesetzes)
+Abschnitt 5 Hochwasserschutzanlagen
+§ 59 | Begriffsbestimmungen zum Hochwasserschutz
+§ 60 | Grundsatz des Hochwasserschutzes
+§ 61 | Sicherstellungsauftrag
+§ 62 | Bemessungswasserstand und Hochwasserschutzlinie
+§ 63 | Prüfung der Hochwasserschutzanlagen
+§ 64 | Widmung von Hochwasserschutzanlagen
+§ 65 | Erhaltung der Hochwasserschutzanlagen
+§ 66 | Erhaltungspflicht
+§ 67 | Besondere Pflichten bei der Erhaltung
+§ 68 | Erhaltung des Vorlandes
+§ 69 | Verteidigung der Hochwasserschutzanlagen
+§ 70 | Notdeiche
+§ 71 | Hochwasserschutzbeitrag
+§ 72 | Herstellung, wesentliche Änderung oder Beseitigung von Hochwasserschutzanlagen
+§ 73 | Entschädigung bei Ausdeichung
+§ 74 | Benutzung
+§ 75 | Besondere Anlagen
+§ 76 | Anlagen landseitig von Hochwasserschutzanlagen
+§ 77 | Kostenerstattung
+§ 78 | Dokumentation
+§ 79 | Eigentum an Hochwasserschutzanlagen
+§ 80 | Bestehende Rechte
+§ 81 | Hochwassermeldeverordnung
+Abschnitt 6 Wasserwirtschaftliche Planung und Dokumentation
+§ 82 | Veränderungssperre (Zu § 86 des Wasserhaushaltsgesetzes)
+§ 83 | Einsichtnahme in das Wasserbuch (Zu § 87 des Wasserhaushaltsgesetzes)
+§ 84 | Informationsbeschaffung und -übermittlung (Zu § 88 des Wasserhaushaltsgesetzes)
+§ 85 | Aufgaben des gewässerkundlichen Dienstes (Zu § 91 des Wasserhaushaltsgesetzes)
+Kapitel 4 Entschädigung, Ausgleich
+§ 86 | Entschädigung, Ausgleich (Zu §§ 96 und 98 des Wasserhaushaltsgesetzes)
+§ 87 | Einigung
+§ 88 | Vollstreckbarkeit
+Kapitel 5 Gewässeraufsicht
+§ 89 | Antragstellung (Zu § 100 des Wasserhaushaltsgesetzes)
+§ 90 | Überwachung
+§ 91 | Kosten
+Kapitel 6 Zuständigkeiten und allgemeine Verfahrensregelungen
+Abschnitt 1 Zuständigkeiten
+§ 92 | Zuständige Behörde
+§ 93 | Aufgaben der Wasserbehörden
+§ 94 | Gefahrenabwehr
+§ 95 | Wassergefahr
+Abschnitt 2 Verfahrensregelungen
+§ 96 | Verfahrensbestimmung (Abweichend von § 18 Absatz 2 Satz 1, § 21 Absatz 1 Satz 2, § 70 Absatz 1 des Wasserhaushaltsgesetzes)
+§ 97 | Allgemeine Verfahrensvorschriften
+§ 98 | Erlaubnisverfahren
+§ 99 | Bewilligungsverfahren
+§ 100 | Rechtsnachfolge
+§ 101 | Verfahren bei Duldungs- und Gestattungsverpflichtungen (Zu §§ 95, 98 des Wasserhaushaltsgesetzes)
+§ 102 | Anzeige von Unfällen mit wassergefährdenden Stoffen
+Kapitel 7 Bußgeld-, Überleitungs- und Schlussbestimmungen
+Abschnitt 1 Bußgeldbestimmungen
+§ 103 | Bußgeldvorschriften (Zu § 103 des Wasserhaushaltsgesetzes)
+Zweiter Abschnitt Übergangs- und Schlussbestimmungen
+§ 104 | Einschränkung von Grundrechten
+§ 105 | Weitergehende Bestimmungen und Rechtstitel
+§ 106 | Übergangsvorschrift
+Anlage (Zu § 7) | Koordinierungsräume der Flussgebietseinheit Weser
