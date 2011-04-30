@@ -1,0 +1,5 @@
+# § 6a Informationsaustausch und Zusammenarbeit
+Der Hafenkapitän übermittelt der Berufsgenossenschaft für Transport und Verkehrswirtschaft Informationen über Seeschiffe, die gemäß der Richtlinie 2000/59/EG des Europäischen Parlaments und des Rates vom 27. November 2000 über Hafenauffangeinrichtungen für Schiffsabfälle und Ladungsrückstände (ABl. L 332 vom 28. Dezember 2000, S. 81), die zuletzt durch Verordnung (EG) Nr. 1137/2008 des Europäischen Parlaments und des Rates vom 22. Oktober 2008 (ABl. L 311 vom 21. November 2008, S. 1) geändert worden ist, erforderliche Angaben nicht mitgeteilt haben, sowie Informationen über Schiffe, die ohne Einhaltung der Artikel 7 und 10 der Richtlinie 2000/59/EG ausgelaufen sind. Die Mitteilung enthält:
+1. Angaben zum Schiff, wie den Namen, die IMO-Kennnummer, die Flagge und das Rufzeichen,
+2. Informationen zur Route, wie den letzten Anlaufhafen und den Bestimmungshafen und
+3. Angaben darüber, dass das Schiff eine Abfallmeldung nicht erstattet oder Abfälle nicht abgegeben hat.
