@@ -1,0 +1,8 @@
+# TOP 3.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 9. Sitzung vom 22. Februar 2011
+
+- Sitzung: Ausschuss für Stadtplanung und Verkehr (10. Sitzung) (2011-05-03)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/28097
+- Beratung: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/consultation/37529
+- Beschluss (Datei): Beschlusstext (Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 9. Sitzung vom 22. Februar 2011) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZqj-9e_Ex0kPm6b41adNQlYYpVQjvQKFCqFXbpEW4hy/Beschlusstext_177.11_-oeffentlich-_Ausschuss_fuer_Stadtplanung_und_Verkehr_03.05.2011.pdf
