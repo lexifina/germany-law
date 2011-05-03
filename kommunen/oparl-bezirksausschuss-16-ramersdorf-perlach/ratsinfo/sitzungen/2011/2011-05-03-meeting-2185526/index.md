@@ -1,0 +1,113 @@
+# BA 16 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 16: Ramersdorf-Perlach
+- Beginn: 2011-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/331
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2185526
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2185526
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2: Protokoll/e
+- TOP 1.1.3: Sonstiges / anwesende Behördenvertreter
+- TOP 2: Entscheidungsfälle - Beschlussvorlagen der Stadtverwaltung
+- TOP 2.1.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Genehmigung von neuen Verkaufseinrichtungen vor einem Ladenlokal in der Rosenheimer Straße 145; Beschluss des BA 16 vom 03.05.2011; Beschlussvorlage des Kreisverwaltungsreferats - <div>Zustimmung</div>
+- TOP 2.1.: Entscheidungen über die Gewährung von Zuschüssen aus den Budgetmitteln des BA 16 gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007 AntragsstellerIn: Regsam c/o ZAK e.V., für die Maßnahme: "Interkultdult" am 20.05.2011; Antragssumme: 1.444,80 ?; Sitzungsvorlage Nr. 08-14 / V 06355; Beschlussvorlage des Direktoriums vom 09.03.2011 (TOP 2.6.1.4 vom 05.04.2011) - <div>Zuschuss in voller Höhe</div>
+- TOP 2.2.: (E) Budget der Bezirksausschüsse AWO-OV Neuperlach e.V. Konzert am 13.05.2011 - <div>Zuschuss in voller Höhe</div>
+- TOP 3: Anträge
+- TOP 3.1.: Behinderung der Ausfahrt aus einem Grundstück in der Traunreuter Straße; Bürgerschreiben vom 28.03.2011 - <div>nach Antrag</div>
+- TOP 3.2.: Verkehrsberuhigung der Weidener Straße; Bürgerschreiben vom 25.03. und 29.03.2011 - <div>Information der Bürgerin</div>
+- TOP 3.3.: Durchgangsverkehr in der Niederalmstraße; Bürgerschreiben vom 26.03.2011 - <div>Anfrage an das Planungsreferat zum aktuellem Planungsstand</div>
+- TOP 3.4.: Änderung der Verkehrsführung durch die Therese-Giehse-Allee; Bürgerschreiben vom 06.04.2011 - <div>WV wenn Verkehrskonzept vorliegt</div>
+- TOP 3.5.: 1.) Reduzierung der Geschwindigkeit in der Winninger Straße auf 30 km/h 2.) Reduzierung der Geschwindigkeit in der Unterbiberger Straße auf 30 km/h Bürgeranliegen in der Sitzung des BA 16 am 05.04.2011 (TOP 3.1.4); Bürgerschreiben vom 12.04.2011 hierzu - <div>zur Kenntnis genommen</div>
+- TOP 3.6.: Putzbrunner Straße; Eingeschränktes Haltverbot an der Südseite zwischen der Wilhelm-Hoegner-Straße und der Therese-Giehse-Allee; Absolutes Haltverbot (ganztägig) an der Haltestelle Perlach stadteinwärts auf 35 m Länge mittig zur Haltestelle; Bürgerschreiben vom 08.04.2011 - <div>nach Antrag</div>
+- TOP 3.7.: Straßenverkehr - Gewichtsbeschränkung auf 3,0 Tonnen (besser weniger wg. des Gewerbeverkehrs im Gebiet Ramersdorf-Perlach - Hofangerstr./Schmidbauerstraße) in Zusammenhang mit der Verkehrsminderung Schmidbauerstraße - Entwurf Bebauungsplan 1960; Bürgerschreiben vom 07.04.2011 - <div>in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 3.1.: Einrichtung einer Induktionsanlage im Kulturhaus Perlach/Ramersdorf; Antrag Nr. 08-14 / B 02340 des BA 16 vom 03.08.2010; Schreiben des Schwerhörigen Vereins München/Oberbayern e. V. vom 26.03.2011 - <div>WL an das Kulturreferat</div>
+- TOP 3.1.: Neubau eines Betriebshofs für die Straßenreinigung und den Straßenunterhalt in der Aschauer Straße; Verstoß gegen den Bebauungsplan Nr. 1748; Bürgerschreiben vom 01.03.2011 (TOP 3.4.1 vom 05.04.2011) - <div>siehe unter TOP 5.4.1.4</div>
+- TOP 3.2.: Neugestaltung des Ortskerns Ramersdorf; Bürgerschreiben vom 13.04.2011 hierzu: Bürgerschreiben vom 14.04.2011 (Nachtrag) - <div>WL an das Planungsreferat</div>
+- TOP 3.3.: Bebauungsplan Nr. 2045, Vorstellung eines Architektenwettbewerbs "Bebauung Hochäckerstraße" am 19.03.2011; Tauglichkeit der Hochäckerstraße im Bestand zur Erschließung 1000 Wohnungen, Neuanlage von 5 Straßeneinmündungen; Bürgerschreiben vom 10.04.2011 - <div>WL an das Baureferat</div>
+- TOP 3.4.: Entwicklungsperspektiven des Gewerbegebiets an der Aschauer Straße; Antrag der CSU-Fraktion im BA 16 vom 28.04.2011 - <div>nach Antrag</div>
+- TOP 3.5.: Informationen zur ?Wagenburg? an der Aschauer Straße 34; Anfrage der CSU-Fraktion im BA 16 vom 02.05.2011 - <div>nach Antrag</div>
+- TOP 3.3.6: Sonstige Anträge
+- TOP 3.1.: Bewerbung Wettbewerb ?Identität, Heimat, Marke? der Stiftung Lebendige Stadt 2011; Antrag der CSU-Fraktion im BA 16 vom 18.04.2011 - <div>nach Antrag</div>
+- TOP 4: Berichte
+- TOP 4.4.1: Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 4.4.2: Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 4.4.3: Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 4.4.4: Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 4.4.5: Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 4.4.6: Berichte der Beauftragten
+- TOP 4.4.6.1: Baumschutz
+- TOP 4.4.6.2: Kinder
+- TOP 4.4.6.3: Jugend
+- TOP 4.4.6.4: Senioren/-innen
+- TOP 4.4.6.5: Gleichstellungsbeauftragte
+- TOP 4.4.6.6: Unterkunftsanlagen und Wohnen
+- TOP 4.4.6.7: Integration
+- TOP 4.4.6.8: Behinderten-/Inklusionsbeauftragte
+- TOP 4.6.9: Internet
+- TOP 5: Anhörungsfälle / Stellungnahmen
+- TOP 5.1.: Anhörungen des Kreisverwaltungsreferats zu öffentlichen Vergnügungsveranstaltungen; Zuleitungen des Kreisverwaltungsreferats mit der Bitte um Stellungnahme 5.1.1.1 St.-Ingbert-Straße, Umkehrschleife; Straßenfest; Zuleitung vom 01.04.2011 5.1.1.2 Görzer Straße; Vereinsfest des Kleingartenverein Süd-Ost 58 e.V.am 01.05.11 und 23.07.11; Zuleitung vom 08.04.2011 5.1.1.3 Ostpark-Theatron, Sommerfest des Kultur- und Solidaritätsvereins der Bürger aus Usak e. V. am 09-/10.07.2011; Zuleitung vom 19.04.2011 - <div>Zustimmung zu allen 3 Veranstaltungen</div>
+- TOP 5.2.: Aufhebung der Radwegbenutzungspflicht in der - Arnold-Sommerfeld-Straße - Tribulaunstraße und im - Otto-Hahn-Ring Anhörung gem. § 13 der BA-Satzung zu verkehrsrechtlichen Anordnungen nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 05.04.2011 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.3.: Krumbadstraße; Haltverbot; Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des Kreisverwaltungsreferats vom 12.04.2011 - <div>Zustimmung</div>
+- TOP 5.4.: Nahverkehrsplan (NVP) der Landeshauptstadt München; a) Aufgabenstellung, b) Bewertungsverfahren, c) Finanzierung der ÖPNV-Infrastruktur, d) Anträge; Sitzungsvorlage Nr. 08-14 / V 05592; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.01.2011 (VB); Zuleitung des Referats für Stadtplanung und Bauordnung vom 12.04.2011 mit der Bitte um Stellungnahme - <div>Zustimmung zur Vorlage und dem Antrag der CSU-Fraktion</div>
+- TOP 5.5.: Leistungsprogramm 2012 der Münchner Verkehrsgesellschaft, Fahrplanwechsel Dezember 2012; Zuleitung der Münchner Verkehrsgesellschaft vom 13.04.2011 mit der Bitte um Stellungnahme - <div>gem. der Empfehlung des UA Verkehr und Ergänzungen von Herrn Kauer und Herrn Schlichtmeier</div>
+- TOP 5.1.: Erinnerungsorte in München; Die vergessenen Orte der Topographie des Terrors sichtbar machen ? Ort und Erinnerung zusammen bringen; Antrag Nr. 08-14 / A 00457 der Stadtratsfraktion Die Grünen/RL vom 09.12.2008; Sitzungsvorlage Nr. 08-14 / V 05426; Beschluss des Kulturausschusses des Stadtrats vom 03.03.2011; erläuternde Straßenschilder im 16. Stadtbezirk; Zuleitung des Kulturreferats vom 25.03.2011 mit der Bitte um Stellungnahme - <div>in den UA Kultur, Vereine, Veranstaltungen verwiesen</div>
+- TOP 5.1.: Bezirkssportanlage Rudolf-Zorn-Str. 15 Neubau eines Sportbetriebsgebäudes mit Gymnastikhalle und Gaststätte sowie Neubau von Freisporteinrichtungen im 16. Stadtbezirk Ramersdorf-Perlach, 1. Bedarfs- und Konzeptgenehmigung 2. Projektauftrag, Sitzungsvorlage-Nr. 08 ? 14 / V 06562; Beschlussentwurf für die Sitzung des Ausschusses für Bildung und Sport des Stadtrates am 25.5.2011(SB); Zuleitung des Referats für Bildung und Sport vom 14.04.2011 mit der Bitte um Stellungnahme - <div>Zustimmung zur Vorlage</div>
+- TOP 5.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörungen im Einzelfall auf Anforderung; Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme 5.4.1.1 Feichtstraße; Errichtung einer Biergarten-Station (220 m²) und Versetzen des Spielplatzes ? Vorbescheid; Zuleitung vom 31.03.2011 (TOP 5.4.1.3 vom 05.04.2011) 5.4.1.2 Oskar-Maria-Graf-Ring; Nutzungsänderung: Teilbereich einer Gaststätte zu Spielhalle ? Vorbescheid; Zuleitung vom 31.03.2011 (TOP 5.4.1.4 vom 05.04.2011) 5.4.1.3 St.-Cajetan-Str; Erhalt einer Sporthalle, Neubau eines Studentenwohnheims - Vorbescheid; Zuleitung vom 07.04.2011 5.4.1.4 Aschauer Str.; Neubau eines Betriebshofs für die Straßenreinigung und den Straßenunterhalt des Baureferats - Vorbescheid; Zuleitung vom 07.04.2011 5.4.1.5 Stemplingeranger; -Nutzungsänderung eines Ladengeschäfts in eine Spielstätte, Verbindung zweier Nutzungsbereiche durch eine Treppe (UG/EG) sowie zweier Wohnungen zu einer WE mittels Türdurchbruch (2. OG), Errichtung eines zusätzl. Stellplatzes; Zuleitung vom 19.04.2011 - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.2.: Werbenutzungsvertrag mit der Landeshauptstadt München; Zuleitung des Referats für Arbeit und Wirtschaft vom 10.02.2011 mit der Bitte um Stellungnahme hierzu: Antrag der CSU-Fraktion im BA 16 vom 04.04.2011 und Schreiben des RAW vom 04.04.2011 (TOP 5.4.2 vom 05.04.2011) - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.3.: Bebauungsplan mit Grünordnung Nr. 1960; Schmidbauerstraße zwischen Ottobrunner Straße (östlich) und Hofangerstraße (westlich); Teiländerung der Bebauungspläne Nr. 57 aw, 172 a und 172 b; Beteiligung der Öffentlichkeit gem. § 3 Abs. 2 BauGB und Beteiligung der Behörden gem. § 4 Abs. 2 BauGB; Zuleitung des Referats für Stadtplanung und Bauordnung vom 09.03.2011 mit der Bitte um Stellungnahme bis 26.04.2011 Öffentliche Erörterung gem. § 3 Abs. 1 BauGB am 06.04.2011, 19:00 h im Saal des Katholischen Pfarramtes Maria Ramersdorf, Ramersdorfer Str. 6 hierzu: Verlegung der Haltestelle Weddigenstraße?; Anfrage der Münchner Verkehrsgesellschaft vom 16.03.2010 mit der Bitte um Stellungnahme (TOP 5.4.4 vom 05.04.2011) hierzu: Bürgerschreiben vom 06.04., 07.04. und 09.04.2011 und Bürgerschreiben vom 08.04., 23.04. und 24.04.2011 (Nachtrag) - <div>gem. der Empfehlung des UA Bau und des UA Verkehr</div>
+- TOP 5.4.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege; Antrag Nr. 08-14 / B 02521 des BA 13 Bogenhausen vom 09.11.2010; Änderung der BA-Satzung; Zuleitung des Direktoriums vom 24.03.2011 mit der Bitte um Stellungnahme - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.5.: Aufstellung von Sammelgewerbehinweisanlagen; Schreiben der Deutsche Städte Medien GmbH (DSM) vom 31.03.2011 mit der Bitte um Stellungnahme - <div>gem. der Empfehlung des UA Stadtteilentwicklung und Bauvorhaben</div>
+- TOP 5.6.: Hochäckstraße; Verkauf einer städtischen Immobilie im Rahmen des Vollzugs des Stadtratsbeschlusses "Neuorganisation des städtischen Wohnungsbestandes" vom 08/16.02.2011; Anhörung des Bezirksausschusses gem. § 3 der BA-Satzung; Zuleitung des Kommunalreferats vom 07.04.2011 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.7.: Öffentliche WC-Anlagen-Strategiekonzept; Beschlussentwurf für die Sitzung des Kommunalausschusses am 07.07.2011 Zuleitung des Kommunalreferats vom 07.04.2011 mit der Bitte um Stellungnahme - <div>Zustimmung</div>
+- TOP 5.8.: Vollzug von § 13 der BA-Satzung; Katalog Angelegenheit Nr. 8.2 bzw. 8.3 (Werbeanlagen); Zuleitungen des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme 5.4.8.1 Rosenheimer Str.; 6 Plakatwerbetafeln (Wechselwerbeanlagen) Zuleitung vom 14.04.2011 - <div>Ablehnung</div>
+- TOP 6: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 6.1.: Verlängerung der Buslinie 155 bis zum Neuen Südfriedhof an der Hochäckerstraße; Antrag Nr. 08-14 / B 02787 des Bezirksausschusses des 16. Stadtbezirks vom 01.03.11; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 22.03.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.2.: Parksituation im Klara-Ziegler-Bogen (München-Waldperlach); Bürgeranliegen in der Sitzung des BA 16 am 01.02.2011; Antwortschreiben des Kreisverwaltungsreferats vom 18.03.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.3.: Einrichtung einer Querungshilfe in der Ottobrunner Straße auf Höhe der Bushaltestelle Adilostraße; Antrag Nr. 08-14 / B 02789 des BA 16 vom 01.03.2011; Antwortschreiben des Kreisverwaltungsreferats vom 07.04.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.4.: Einrichtung eines Fußgängerwegs an der Hofangerstraße im Einmündungsbereich Emdenstraße; Antrag Nr. 08-14 / B 02659 des BA 16 vom 12.01.2011; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 12.04.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.5.: Klarstellung der Ampelsituation an der Kreuzung Pfanzeltplatz/Sebastian-Bauer-Straße; Antrag Nr. 08-14 / B 02450 des BA 16 vom 13.10.2010; Nachfrage aus der Sitzung am 05.04.2011; Zwischennachricht des Kreisverwaltungsreferats vom 18.04.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 6.1.: Informationen der Landeshauptstadt München über die Ansiedlung eines großen Einzelhandels-Discounters (Kaufland) in Unterbiberg; Antrag Nr. 08-14 / B 02587 des BA 16 vom 07.12.2010; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 24.03.2011 - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7: Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des Kreisverwaltungsreferats 7.1.1.1 Ausschank und Speisenverkauf in einer Tankstelle; Agip-Tankstelle in der Quiddestraße; Mitteilung vom 31.03.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.2.: Nahverkehrsplan (NVP) der Landeshauptstadt München; a) Aufgabenstellung, b) Bewertungsverfahren, c) Finanzierung der ÖPNV-Infrastruktur, d) Anträge; Sitzungsvorlage Nr. 08-14 / V 05592; Beschluss der Vollversammlung des Stadtrats vom 16.03.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.3.: Einrichtung einer Bushaltestelle "Am Hain"; Schreiben der Münchner Verkehrsgesellschaft an das Baureferat vom 22.03.2011 - <div>zur Kenntnis genommen bzw. in den UA Verkehr und öffentliche Ordnung verwiesen</div>
+- TOP 7.1.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplans 2011 für den Bereich "Förderung freier Träger"; Beschlüsse des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 (SB); 7.3.1.1 Sozialreferat/Zentrale; Sitzungsvorlage Nr. 08-14 / V 06231 7.3.1.2 Amt für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 06214 7.3.1.3 Stadtjugendamt; Sitzungsvorlage Nr. 08-14 / V 06304 7.3.1.4 Amt für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 06263 - <div>zur Kenntnis genommen bzw. in den UA BSIS verwiesen</div>
+- TOP 7.2.: Bezirksausschuss-Informationsveranstaltung des Sozialreferats am 29.11.2010, Protokoll; Zuleitung des Sozialreferats vom 11.04.2011 - <div>zur Kenntnis genommen bzw. in den UA BSIS verwiesen</div>
+- TOP 7.3.: Treffen der Vertreterinnen und Vertreter der Bezirksausschüsse und des Behindertenbeirats; Protokoll der Auftaktveranstaltung am 28.02.2011; Zuleitung des Behindertenbeirats München vom 05.04.2011 - <div>zur Kenntnis genommen bzw. in den UA BSIS verwiesen</div>
+- TOP 7.1.: Baufälle im 16. Stadtbezirk - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7.2.: Unterrichtung der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 7.4.2.1 Anwesen Gerhart-Hauptmann-Ring, Bescheid vom 30.03.2011 7.4.2.2 Anwesen Braunmillerweg; Bescheid vom 01.04.2011 - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7.3.: Regionsbericht 2010; Sitzungsvorlage Nr. 08-14 / V 06378; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 (VB) - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7.4.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrats im Zeitraum vom 01.07.2010 - 31.12.2010; Sitzungsvorlage Nr. 08-14 / V 06440; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7.5.: Langfristige Siedlungsentwicklung; a) Nachverdichtung, Antrag Nr. 08-14 / A 02102 von Herrn Stadtrat Reissl vom 03.01.2011; b) Baurechte durch Arrondierung schaffen, Antrag Nr. 08-14 / A 02103 von Herrn Stadtrat Reissl vom 03.01.2011; Sitzungsvorlage Nr. 08-14 / V 06361; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 (SB) - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7.6.: Perspektive München - Fortschreibung 2011, Leitmotiv, strategische Leitlinien; Sitzungsvorlage Nr. 08-14 / V 06446; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 ( VB) - <div>zur Kenntnis genommen bzw. in den UA Stadtteilentwicklung und Bauvorhaben verwiesen</div>
+- TOP 7.1.: Soziale Stadt Projekt im Sanierungsgebiet Innsbrucker Ring/Baumkirchner Straße; Aufwertung und Umgestaltung des Piusplatzes und angrenzender Grünanlagen; Sitzungsvorlage Nr. 08-14 / V 06377; Beschluss des Bauausschusses vom 29.03.2011 (SB) - <div>zur Kenntnis genommen bzw. in den UA UKGG verwiesen</div>
+- TOP 7.2.: Soziale Stadt Projekt im Sanierungsgebiet Innsbrucker Ring / Baumkirchner Straße; Aufwertung und Umgestaltung Piusplatz und angrenzende Grünanlagen im 14. Stadtbezirk Berg am Laim und im 16. Stadtbezirk Ramersdorf-Perlach; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 06377; Beschluss des Bauausschusses vom 29.03.2011 (SB) - <div>zur Kenntnis genommen bzw. in den UA UKGG verwiesen</div>
+- TOP 7.1.: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse 7.6.1.1 AntragsstellerIn: Diakonie Hasenbergl e. V.; für die Maßnahme: Projekt "Solidarität" Antragssumme: 1.110.- ? Antrag vom 24.03.2011 7.6.1.2 AntragsstellerIn: Streetwork e. K.; für die Maßnahme: Theater- und Musikfestival der Schulen am 09.07.2011; Antragssumme: 2.800.- ?; Antrag vom 06.04.2011 7.6.1.3 AntragsstellerIn: AWO OV Neuperlach; für die Maßnahme: Konzert am 13.05.2011; Antragssumme: 700.- ?; Antrag vom 02.03.2011 7.6.1.4 AntragsstellerIn: Elternbeirat des Sonderpädagogischen Förderzentrums - Hauptschule Gerhart-Hauptmann-Ring; für die Maßnahme: Pausenhofgestaltung; Antrag vom 05.04.2011 7.6.1.5 AntragsstellerIn: Männerchor München Ramersdorf e. V.; für die Maßnahme: 90-jähriges Bestehen des Vereins; Antragssumme: 4.288,66 ?; Ergänzung des Antrags vom 28.02.2011
+- TOP 7.3.: Stadt klärt mit Flugblättern über von Rechtsextremen verbreitete Vorurteile auf; Zuleitung des Oberbürgermeisters vom 31.03.2011 - <div>zur Kenntnis genommen</div>
+- TOP 7.&nbsp;: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 8: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 8.8.1: Termine der UA - Sitzungen
+- TOP 8.8.1.1: Verkehr und Öffentliche Ordnung
+- TOP 8.8.1.2: Kultur, Vereine und Veranstaltungen
+- TOP 8.8.1.3: Bildung, Soziales, Integration und Sport
+- TOP 8.8.1.4: Stadtteilentwicklung und Bauvorhaben
+- TOP 8.8.1.5: Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Sonstiges / Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 7.7.1: Bereich Unterausschuss Verkehr und Öffentliche Ordnung
+- TOP 7.7.2: Bereich Unterausschuss Kultur, Vereine und Veranstaltungen
+- TOP 7.7.3: Bereich Unterausschuss Bildung, Soziales, Integration und Sport
+- TOP 7.7.4: Bereich Unterausschuss Stadtteilentwicklung und Bauvorhaben
+- TOP 7.7.5: Bereich Unterausschuss Umwelt, Klima, Grünplanung, Gesundheit
+- TOP 7.7.6: Sonstige
+- TOP 7.&nbsp;: idR keine Behandlung im Gremium sondern Verweisung en bloc in die zust. UA
+- TOP 7.&nbsp;: Information des Bezirksausschusses über eingegangene Verwendungsnachweise oder Kurzberichte zu aus Budgetmitteln bezuschussten Maßnahmen
