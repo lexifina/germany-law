@@ -1,0 +1,62 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2206713
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2206713
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 05.04.2011
+- TOP 2: Anträge
+- TOP 2.1.: Erweiterte Streckenführung der Buslinie 134 durch das Neubaugebiet "Südseite"
+- TOP 2.2.: Grundstück Garatshausener Straße - Wiederherstellung des ursprünglichen Zustandes
+- TOP 2.3.: Erstaufnahmeeinrichtung Baierbrunner Straße 14
+- TOP 2.4.: Floßlände - "Plattler"
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Maibaumverein Forstenried e.V. Maifeier am 01.05.2011
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Iberl Zwergerl Bühne - Bayer. Kindertheater Theater-Workshop für Sollner Kinder vom 09.05. - 29.07.2011
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Mobilfunk Suchkreismeldung
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: LZA Benediktbeuerer Str. / Zentralländstraße
+- TOP 5.2.: Bauliche Maßnahmen St.-Wendel-Str. / Baierbrunner Straße
+- TOP 5.3.: Planung Maria-Einsiedel-Str. nördlich und Umgestaltung Kreuzungsbereich Maria-Einsiedel-Str. / Benediktbeuerer Straße
+- TOP 5.4.: Tempo 30 Maria-Einsiedel-Straße
+- TOP 5.5.: Verkehrssituation Thalkirchner Brücke
+- TOP 5.6.: Radfahrstreifen Wolfratshauser Straße
+- TOP 5.7.: Beschilderung Schweizer Platz
+- TOP 5.8.: Kita Teschener Straße
+- TOP 5.9.: MVG -Leistungsprogramm 2012
+- TOP 5.10.: Isarfußweg
+- TOP 5.11.: Nahverkehrsplan der LHSt. München
+- TOP 5.12.: Dezentrales Güterverkehrszentrenkonzept (GVZ-Konzept)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: ]18-jetzt[ - Fest junger Erwachsener
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Freischankfläche Boschetsrieder Str. 79
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: "Erinnerungsorte München"
+- TOP 9.2.: Aufstellung von Sammelgewerbehinweisanlagen
+- TOP 9.3.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege
+- TOP 9.4.: Öffentliche WC-Anlagen-Strategiekonzept
+- TOP 9.5.: Grundstücksverkauf Herterichstraße
+- TOP 9.6.: Gaststättenfortführung Tölzer Str. 29
+- TOP 9.7.: Antrag auf Zweckentfremdung Sollner Straße
+- TOP 9.8.: Antrag auf Zweckentfremdung Echterstraße
+- TOP 9.9.: Antrag auf Zweckentfremdung Pöckinger Straße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
