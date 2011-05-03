@@ -1,0 +1,7 @@
+# TOP .2.: Lilienthalallee, 5 Pappeln
+
+- Sitzung: BA 12 - Vollgremium (2011-05-03)
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/308979
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/308979
