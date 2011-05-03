@@ -1,0 +1,130 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-05-03T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2093867
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2093867
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2.1.: Soziale IST-Analyse für den Stadtbezirk 2 Ludwigsvorstadt-Isarvorstadt
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Sub e.V. Maibaumfest am 01.05.2011
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Capoeira Gerais München Capoeira Festival vom 20. - 22.05.2011
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule Schwanthalerstr. 87 Spielaktion auf dem Schulhof am 04.07.2011
+- TOP 2.1.: Erweiterung des Parklizenzgebietes Südfriedhof (Ziffer 1)
+- TOP 1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 2: Tagesordnung
+- TOP 3: Genehmigung der Protokolle
+- TOP 4: Sonstiges (1)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen (1)
+- TOP 3: Anhörungen (1)
+- TOP 3.1.: Erinnerungsorte in München
+- TOP 4: Unterrichtungen (siehe Beiblatt) (1)
+- TOP 4.1.: Siedlungsentwicklung und Infrastrukturkonzept: Beschluss Ausschuss Stadtplanung und Bauordnung, 23.03.2011
+- TOP 4.2.: Verwendungsnachweise (1)
+- TOP 4.3.: Schreiben des Kommunalreferats an den BA 1 bzgl. des Bolzplatzes Glockenbachwerkstatt: positiver Vorbescheid bleibt, Bolzplatz muss zu Gunsten der Schaffung von Wohnraum weichen
+- TOP 4.4.: Vorkaufsrecht nach dem BauGB: - Adlzreiterstraße - Klenzestraße - Corneliusstraße
+- TOP 4.5.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011; Beschluss Kinder- und Jugendhilfeausschuss vom 12.04.2011
+- TOP 4.6.: Auswertung der Stadtteilchecks "Auf Herz und Rampen prüfen"; Schreiben des Kreisjugendrings München-Stadt
+- TOP 4.7.: Mitteilung über erteilte Abgeschlossenheitsbescheinigungen 2010
+- TOP 4.8.: ConAction 2010 - Tätigkeitsbericht
+- TOP 5: Sonstiges (2)
+- TOP 5.1.: Kunstprojekt "Cubo" am Sendlinger-Tor-Platz
+- TOP 5.2.: Fest zum Isarplan, Beteiligung BA 2
+- TOP 5.1: Berichte der Beauftragten
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen (2)
+- TOP 3: Anhörungen (2)
+- TOP 3.1: Bauvorhaben
+- TOP 3.1.1.: Corneliusstr. 4: Umbau EG (EilE)
+- TOP 3.1.2.: Poccistr. 5: Nutzungsänderung (EilE)
+- TOP 3.1.3.: Waltherstr. 27: Umbau RGB (EilE)
+- TOP 3.1.4.: Museumsinsel 1: Neubau unterirdischer Elektozentrale und Errichtung Ausstellungsexponate (EilE)
+- TOP 3.1.5.: Sonnenstr. 26: Errichtung Freischankfläche (EilE)
+- TOP 3.1.6.: Baaderstr. 50: DG-Ausbau, Fassadensanierung, Nutzungsänderungen etc. (EilE)
+- TOP 3.1.7.: Corneliusstr. 1: Grundrissänderung
+- TOP 3.1.8.: Corneliusstr. 5: Anbau von Balkonen
+- TOP 3.1.9.: Tumblingerstr. 19: Sanierung und Vergößerung von Wohnungen
+- TOP 3.1.10.: Schillerstr. 7: Neuaufteilung, Nutzungsänderung
+- TOP 3.1.11.: Lindwurmstr. 75: Umbau, Nutzungsänderungen
+- TOP 3.1.12.: Kobellstr. 8: Dachabbruch, Neubau Aufzug und Garage, Errichtung Balkone, Nutzungsänderung
+- TOP 3.1.13.: Bayerstr. 7a: Nutzungsänderung
+- TOP 3.1.14.: Landwehrstr. 79: Neubau
+- TOP 3.1.15.: Holzstr. 9: Verfüllung des Grundstücks
+- TOP 3.1.16.: Tumblingerstr. 17: Umbau, Ausbau, Nutzungsänderungen etc
+- TOP 3.1.17.: Goethestr. 34: Umbau, Umnutzung
+- TOP 3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 3.2.1.: Museumsinsel 1 (EilE), siehe TOP B 3.1.5
+- TOP 3.2.2.: Schillerstr. 41 (EilE)
+- TOP 3.2.3.: Beethovenplatz 1
+- TOP 3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 3.3.1.: Plangenehmigung für den barrierefreien Ausbau des S-Bahnhofs Karlsplatz (EilE bis 13.04. !)
+- TOP 3.3.2.: Werbenutzungsvertrag (EilE)
+- TOP 3.3.3.: Öffentliche WC-Anlagen-Strategiekonzept
+- TOP 4: Unterrichtungen (siehe Beiblatt) (2)
+- TOP 4.1.: entfällt
+- TOP 4.2.: CarSharing in München; Beschluss Kreisverwaltungsausschuss, 15.03.2011
+- TOP 4.3.: Bordsteinabsenkung Dreimühlen- / Isartalstraße
+- TOP 4.4.: Fahrbahndeckensanierung Corneliusstraße zwischen Gärtnerplatz und Baaderstraße - Baumpflanzungen; Schreiben des Baureferats: Straßenunterhalt führt nur Instandsetzung durch, Baumpflanzungen aber im Nachhinein möglich, BA soll Prioritätenliste liefern (siehe TOP B 5.1.1)
+- TOP 4.5.: Sperrung der Wittelsbacher Straße anlässlich der Fertigstellung des Isarplans Schreiben KVR: Sperrung rechtlich nicht möglich
+- TOP 4.6.: Gestaltung der Fuß- und Radwegunterführung Hans-Fischer-Straße/Theresienhöhe; AW Baureferat: Vorschläge des BA werden begrüßt, Baubeginn voraussitchtlich Frühjahr 2012, Termin für weitere Abstimmung erwünscht
+- TOP 4.7.: Beseitigung höhengleicher Bahnübergänge (Ergänzungen); Beschluss Bauausschuss vom 01.03.2011
+- TOP 4.8.: Baumaßnahmen SWM: a) Fernwärmeprojekt Frauenlobstr. 4 b) Stromprojekt Schwanthalerstr.
+- TOP 4.9.: Roecklplatz - Änderung Radverkehrsführung: Bauzeit 26.04. - 10.06.2011
+- TOP 4.10.: Beschlussvollzugskontrolle (BVK); Bekanntgabe Ausschuss für Stadtplanung und Bauordnung, 13.04.2011
+- TOP 4.11.: Regionsbericht 2010; Beschluss Ausschuss für Stadtplanung und Bauordnung, 13.04.2011
+- TOP 4.12.: Perspektive München - Fortschreibung 2011; Beschluss Ausschuss Stadtplanung und Bauordnung, 13.04.2011
+- TOP 4.13.: Langfristige Siedlungsentwicklung; Beschluss Ausschuss Stadtplanung und Bauordnung, 13.04.2011
+- TOP 4.14.: Pestalozzistr. 7: Nutzungsänderung - Rückmeldung LBK: Gaststättennutzung wurde genehmigt
+- TOP 4.15.: Mobilfunkstandorte
+- TOP 5: Sonstiges (3)
+- TOP 5.1.: Begrünung Reichenbachstraße (Spartenplan, Prioritätenliste)
+- TOP 5.1: Bericht des Beauftragten
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen (3)
+- TOP 2.1: Gaststättenangelegenheiten
+- TOP 2.1.1.: Erweiterung Freischankfläche: Holzstr. 18
+- TOP 2.1.2.: Geyerstr. 52: Errichtung einer Freischankfläche
+- TOP 2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.2.1.: Hans-Sachs-Str. 3: Aufstellung Warenstellage
+- TOP 2.2.2.: Schwanthalerstr. 102: Aufstellung Warenstellage
+- TOP 2.2.3.: Bayerstr. 37: Aufstellung Warenstellage
+- TOP 2.2.4.: Baaderstr. 22: Aufstellung Warenstellage
+- TOP 2.3: Sonstige Entscheidungen
+- TOP 3: Anhörungen (3)
+- TOP 3.1: Veranstaltungen (1)
+- TOP 3.1.1.: Kunstprojekt "Skulptur Protest" am Gärtnerplatz (EilE)
+- TOP 3.1.2.: Anwohnerstraßenfest Klenzestr. am 02.06.2011
+- TOP 3.1.3.: Feuerwerk auf der Theresienwiese am 13.05.2011 (EilE)
+- TOP 3.1.4.: 7. Glockenbach Sommermarkt am 17.07.2011
+- TOP 3.1.5.: Feuerwerk auf der Theresienwiese am 06.05.2011 (EilE)
+- TOP 3.1.6.: Radlnacht am 21.05.2011
+- TOP 3.2: Verkehr
+- TOP 3.2.1.: Einrichtung personenbezogener Behindertenparkplatz, Kohlstraße
+- TOP 3.2.2.: Änderung Verkehrsführung/Fahrbahnmarkierung in der Schwanthalerstr.
+- TOP 3.2.3.: Leistungsprogramm 2012 der MVG
+- TOP 3.3: Sonstiges (4)
+- TOP 3.3.1.: Erstellen eines Lärmgutachtens rund um den Gärtnerplatz (GP), Antrag-Nr. 08-14 / 02008, Einsatz von Mediatoren und Flyern im Bereich GP, Antrag-Nr. 08-14 / B 02006, Einführung eines Konzepts zur Verbesserung der Situation am GP, Antrag-Nr. 08-14 / B 2007 - Beschlussvorlage Kreisverwaltungsausschuss vom 07.06.2011 PLENUMSBESCHLUSS
+- TOP 4: Unterrichtungen (siehe Beiblatt) (3)
+- TOP 4.1.: Versammlungen unter freiem Himmel (4)
+- TOP 4.2.: Filmaufnahmen auf öffentlichem Grund (5)
+- TOP 4.3.: Unveränderte Gaststättenfortführung: - Schmankerlgasse: Bahnhofsplatz 7 - Neue Heimat: Pestalozzistr. 20 - Bar Gelateria Moka: Lindwurmstr. 7 - Schmeller Wirtshaus: Schmellerstr. 17 - Cafe Fräulein: Bahnhofsplatz 7 - Trattoria Pizzeria: Tumblingerstr. 30 - Trattoria l'Abbuffata: Schilelrstr. 16 - Banyan: Goethestr. 68 - SB Back & Coffee Shop: Häberlstr. 1 - Marziale Feinkost: Bahnhofplatz 7
+- TOP 4.4.: Verkehrsrechtliche Anordnungen: - Öffnung der Klenzestraße für den gegenläufigen Radverkehr (zw. Rumford- und Buttermelcherstraße)
+- TOP 4.5.: Weichenerneuerung zwischen Goetheplatz und Sendlinger Tor - Schreiben der MVG
+- TOP 4.6.: Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen; Beschluss Ausschuss Stadtplanung und Bauordnung, 23.03.2011
+- TOP 4.7.: Doppelstöckige Fahrradabstellanlagen als Lösung für Platzprobleme an städtischen MVV-Knotenpunkten; Beschluss Ausschuss Stadtplanung und Bauordnung, 23.03.2011
+- TOP 4.8.: Schwanthalerstr. 27-29: Aufstellen eines Fahrradständers - Schreiben des KVR an den Antragsteller bzgl. des kipp- und wegrollsicheren Modells
+- TOP 4.9.: Schmalere Buswartehäuschen - Antrag Nr. 08-14 / B 02610 des BA 20; Schreiben des RAW: grundsätzlich möglich, Werbefinanzierung aber schwierig (da keine Seitenwände)
+- TOP 4.10.: Quo vadis Glockenbachviertel?; Beschluss Ausschuss Stadtplanung und Bauordnung, 13.04.2011
+- TOP 5: Sonstiges (5)
+- TOP 5.1.: Bürgeranliegen: Eis-Verkauf an den Isarbrücken
+- TOP 1: Termine
+- TOP 2: Veranstaltungen (2)
+- TOP 3: Sonstiges / Verschiedenes
+- TOP 3.1.: Schaffung Beauftragte(r) für Stadtteilheimatpflege - Antrag des BA 13
