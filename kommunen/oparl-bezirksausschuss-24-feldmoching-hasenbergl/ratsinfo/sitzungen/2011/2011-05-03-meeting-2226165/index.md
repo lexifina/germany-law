@@ -1,0 +1,93 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-05-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226165
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226165
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Gewährung eines Zuschusses aus dem BA-Budget: Initiative "Weissblauer Bumerang" "Aufstellung eines Kinder-Jugend-Maibaumes am 30.04.2011" (vertagt aus Sitzung 29.03.2011)
+- TOP 2.2.: (E) Budget der Bezirksausschüsse FC Fasanerie Nord e.V. Torsicherungen für Jugendtore
+- TOP 2.3.: (E) Budget der Bezirksausschüsse TSV 1954 München e.V. Kauf von Trikots
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Caritas-Integrationskindergarten "Regenbogen"; Ferienfahrt vom 12.07. bis 15.07.2011 nach Gelbelsee, Ferienhof Pickl
+- TOP 3.1.: Sicherung des Fußgängerüberwegs Eberwurzstraße, Ecke Kletterrosenweg
+- TOP 3.2.: Kontrollen der Polizei im Rangierbahnhofsgelände
+- TOP 3.3.: Anträge aus der Einwohnerversammlung am 13.10.2010 ("Wasser in den Kellern")
+- TOP 3.4.: Einberufung einer eigenen Einwohnerversammlung mit dem Thema: "Neue Straßen durch Feldmoching"
+- TOP 3.5.: Neubau Edeka-Center an der Blodigstraße: Breitere Wege zwischen den Regalen
+- TOP 3.6.: Anträge aus der 8. Kinder- und Jugendsprechstunde am 08.04.2011
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Lerchenstraße 7 (Neubau eines Drogeriemarktes) (vertagt aus Sitzung 29.03.2011)
+- TOP 5.2.: Bauvorhaben Lerchenstraße 7 (Neubau eines Vollsortimenters) (vertagt aus Sitzung 29.03.2011)
+- TOP 5.3.: Bauvorhaben Schittgablerstraße (Gerüstlagerplatz mit Lagerhalle und Bürogebäude) (vertagt aus Sitzung 29.03.2011)
+- TOP 5.4.: Bauvorhaben Schittgablerstraße (Hallenkomplex mit Mezzaninebene) (vertagt aus Sitzung 29.03.2011)
+- TOP 5.5.: Bauvorhaben Leberblümchenstr.20/ Niederalteicher Str. 2 - Vorbescheid (vertagt aus Sitzung 29.03.2011)
+- TOP 5.6.: Bauvorhaben Schwarzhölzlstr. 80 (Krippeneinrichtung - Vorbescheid)
+- TOP 5.7.: Vollzug der Baumschutzverordnung (Baumfällung): 1. Leberblümchenstr. 20 (vertagt aus Sitzung 29.03.2011) 2. Ferchenbachstr.98 3. Josef-Frankl-Str. 47b - 47d 4. Franz-Fackler-Str. 61 5.Hornkleeweg 5
+- TOP 5.8.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag auf Genehmigung auf Errichtung und Betrieb eines Abfall-/Schrott Lager- und Umschlageplatzes am Standort Lerchenstr.19, 80995 München (vertagt aus Sitzungen am 22.02.2011 und 29.03.2011)
+- TOP 5.9.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag vom 26.01.2011 auf Durchführung eines immissionsschutzrechtlichen Änderungsgenehmigungsverfahrens nach § 16 Abs. 1 Bundesimmissionsschutzgesetz: Abfallentsorgungsanlage der Rohprog GmbH, Detmoldstr. 29, 80935 München
+- TOP 5.10.: Vollzug von § 13 der BA-Satzung (Bauvorhaben: Werbeanlagen): 2 City-Light-Poster in der Dülferstraße
+- TOP 5.11.: Bedarfs- und Konzueptgenehmigung; Herbergstraße und Lerchenstraße: Entwurf Beschlussvorlage für BauA
+- TOP 5.12.: Nahverkehrsplan der Landeshauptstadt München: Beteiligung der Bezirksausschüsse auf Basis eines Stadtratbeschlusses; Entwurf Beschlussvorlage für BauA
+- TOP 5.13.: Öffentliche WC-Anlagen-Strategiekonzept: Entwurf Beschlussvorlage für KommunalA
+- TOP 5.14.: Dezentrales Güterverkehrskonzept (GVZ-Konzept): Entwurf Beschlussvorlage für Stadtdplanung u. BauordnungsA
+- TOP 5.15.: Werbenutzungsvertrag der Landeshauptstadt München: Schleißheimer Str. 395
+- TOP 5.16.: 110-kV-Bahnstromleitung BL520 Abzw. Karlsfeld - München Ost - Ersatzneubau
+- TOP 5.17.: MVG: Leistungsprogramm 2012: geplante Maßnahmen für den Fahrplanwechsel am 11.12.2011
+- TOP 5.18.: Schaffung eines/r Beauftragten für Stadtteilheimatpflege: Antrag des BA 13 zur Änderung der BA-Satzung
+- TOP 5.19.: Veranstaltung auf öffentlichem Verkehrsgrund: Kinderfest des KJR auf dem Walter-Sedlmayr-Platz am 28.05.2011
+- TOP 5.20.: Veranstaltung auf städt. Grünanlage: Kita-Sommerfest auf dem Pfarrer-Steiner-Platz am 07.07.2011
+- TOP 5.21.: Veranstaltung auf städt. Grünanlage: alljährlicher Kindermitmachzirkus Nordini des KJR München-Stadt auf der Wiese Höhe Weitlstr. 125 vom 01.08. bis 06.08.2011
+- TOP 5.22.: Veranstaltung auf städt. Grünanlage: Skateworkshop auf der Skateanlage Feldmochinger Str./Fasaneriesee vom 01. - 02.08.2011 und 08. - 09.08.2011
+- TOP 5.23.: Veranstaltung auf städt. Grünanlage: Sonnwendfeuer und Gartenfest in der Lerchenauer Straße am 18.06.11 und 02.07.2011
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: LKW-Parken in Wohngebieten (hier: Lerchenstraße) (-&gt; TOP 4.3 in Sitzung vom 22.02.2011)
+- TOP 6.2.: Errichtung eines Fußgängerüberwegs Gundermannstraße/ Maßliebchenstraße (-&gt; Antrag TOP 3.1 in Sitzung vom 22.02.2011)
+- TOP 6.3.: Verkehrssituation in der Niederalteicher Straße (Halteverbot) (-&gt; Antrag TOP 3.1 in Sitzung vom 29.03.2011)
+- TOP 6.4.: Schmalere Buswartehäuschen (-&gt; BA-Antrag des BA 20)
+- TOP 6.5.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.6.: Meldelisten Baumfällungsanträge
+- TOP 6.7.: Meldelisten Bauvorhaben
+- TOP 6.8.: verkehrsrechtliche Anordnungen: Am Blütenanger (Errichtung eines Verkehrshelferüberganges)
+- TOP 6.9.: unveränderte Fortführung eines Gaststättenbetriebes: Feldmochinger Str. 226, Fortnerstr.18, Karlsfelder Str. 264, Feldmochinger Str. 412
+- TOP 6.10.: Veranstaltung auf städt. Grünanlage: Gastspiel Zirkus Roberto auf Wiese an der Weitlstr. vom 18.04.- 01.05.11 (nach Vorabzustimmung)
+- TOP 6.11.: Netzbaumaßnahmen der Stadtwerke München im 24. Stadtbezirk; Informationsflyer "Baumaßnahmen der SWM (1. Halbjahr 2011)
+- TOP 6.12.: Baumaßnahmen der Stadtwerke München: Stromprojekt Heidelerchenstr. 1- 53, Stromprojekt Opal-/Rubinstraße (Änderung Terminablauf)
+- TOP 6.13.: Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen: Kita Thelottstr. 30 (Bescheidabdruck)
+- TOP 6.14.: Umbau und Instandsetzung der Sporträume (GS Feldmochinger Str. 251) (Infoschreiben des RBS)
+- TOP 6.15.: Beleuchtungseinheiten für den "Lichtblick" (Infoschreiben des Erzbischöflichen Ordinariates München)
+- TOP 6.16.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2011; Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 6.17.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2011; Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 6.18.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2011; Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.19.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2011; Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Langfristige Siedlungsentwicklung
+- TOP 6.21.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Regionsbericht 2010
+- TOP 6.22.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Städtebauliche Entwicklungsmaßnahme Kronprinz-Rupprecht-Kaserne: 1. Änderung des Grundsatz- und Eckdatenbeschlusses vom 10.12.2003, 2. Änderung der Planungsziele/ Änderung d. am 10.12.2003 gebilligten Erklärung, 3. Ergänzung vom 11.04.2011
+- TOP 6.23.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Perspektive München - Fortschreibung 2011
+- TOP 6.24.: Beschlussvollzugskontrolle (BVK) des Referates für Stadtplanung und Bauordnung: Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum 01.07.2010 bis 31.12.2010
+- TOP 6.25.: Beschlussvorlage Baureferat: Beseitigung höhengleicher Bahnübergänge (Ergänzung vom 11.02.2011)
+- TOP 6.26.: Beschlussvorlage Referat für Bildung und Sport: Neubau von 3 Kindertagesstätten in Systembauweise Serie 1.2; hier: Kitas Koop Diamantstraße, Dülferstraße, Paul-Preußstraße und Trollblumenstraße
+- TOP 6.27.: Münchner Statistik (3. Quartalsheft, Jahrgang 2010)
+- TOP 6.28.: Rahmenkonzeption für KinderTagesZentren der LHST Mchn (Infoschreiben des RBS)
+- TOP 6.29.: Stadt klärt mit Flugblättern über von Rechtsextremisten verbreitete Vorurteile auf (Infoschreiben der LHST Mchn - Oberbürgermeister)
+- TOP 6.30.: Jahresbericht 2010 d. Evangelischen Hilfswerkes München (Teestube "komm" Streetwork)
+- TOP 6.31.: Interkultureller Integrationsbericht: München lebt Vielfalt
+- TOP 6.32.: Behinderung heißt Armut und Diskriminierung (Infobroschüre des Behindertenbeirates der LHST Mchn)
+- TOP 6.33.: Neue Bädereintrittspreise (Infoschreiben der SWM)
+- TOP 6.34.: Gutachten Ingenieurbüro Christmann zum Grundwasser-Hochstand in Feldmoching
+- TOP 6.35.: Jahresbericht 2010 der Erziehungs-, Jugend- und Familienberatunsstelle der Diakonie Hasenbergl
+- TOP 6.36.: Raumverzeichnis des Projektes AMIQUS - Ältere MigrantInnen im Quartier
+- TOP 6.37.: Eggarten-Siedlung: Sachstand (Infoschreiben der VIVICO)
+- TOP 6.38.: Jahresbericht 2010 des Behindertenbeirates
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
