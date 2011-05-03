@@ -1,0 +1,100 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-05-03T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153749
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153749
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Aktueller Stand ehemaliges Trambahndepot
+- TOP 1.2.2.: Ausschilderung von Schwerbehindertenparkplätzen an der S-Bahnhaltestelle Hirschgarten
+- TOP 1.2.3.: Fehlender Hinweis zur Bezirkssportanlage Laim
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Entfernung der Büsche am Willibaldplatz und Ersatz durch Rasenfläche
+- TOP 2.2.: SPD: Einrichtung eines W-Lan-Netzes in der Stadtbibliothek Laim
+- TOP 2.3.: SPD: Untersuchung der städtischen Kinderbetreuungseinrichtungen im Stadtbezirk 25 bzgl. der Belastung mit Weichmachern sowie Aufnahme auch der nicht-städtischen Kinderbetreuungseinrichtungen in dieses Untersuchungsprogramm
+- TOP 2.4.: Sicherheit für Radfahrer: Fürstenrieder Straße - Agnes-Bernauer-Platz
+- TOP 3: Entscheidungsfälle
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Direktorium vom 24.03.11: Schaffung eines / r Beauftragten für Stadtteilheimatpflege
+- TOP 4.2.: Dreyerstr. 3-7, Fällung von 1 Birke
+- TOP 4.3.: Stroblstr. 51-53, Fällung von 1 Birke
+- TOP 4.4.: Schreiben Baureferat vom 28.03.11: Sanierung des Laimer Angers (Antrag Nr. 08-14 / B 02740 vom 01.02.11); weiteres Vorgehen
+- TOP 4.5.: Schreiben Referat für Stadtplanung und Bauordnung vom 23.03.11: Dezentrales Güterverkehrskonzept (GVZ-Konzept), Überprüfung und weitere Planung; Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung bzw. die Vollversammlung
+- TOP 4.6.: Schreiben DSM Deutsche Städte Medien GmbH vom 31.03.11: Aufstellung von Sammelgewerbehinweisanlagen; Landsberger Straße / Fürstenrieder Straße
+- TOP 4.7.: Schreiben KVR vom 25.02.11: Aufhebung Radwegebenutzungspflicht in Laim; Elsenheimerstraße, Friedenheimer Straße, Landsberger Straße (Nebenfahrbahn), Senftenauerstraße und Siglstraße (Vertagung aus der BA-Sitzung am 05.04.11)
+- TOP 4.8.: Schreiben KVR vom 08.04.11: Errichtung eines absoluten Haltverbots in der Valpichlerstraße
+- TOP 4.9.: Schreiben Direktorium vom 04.04.11: 18.jetzt - Fest junger Erwachsener im Rathaus am 08.10.11
+- TOP 4.10.: Schreiben Kommunalreferat vom 07.04.11: Kommunalausschuss Beschlussvorlage "Öffentliche WC-Anlagen-Strategiekonzept"
+- TOP 4.11.: Schreiben MVG vom 13.04.11: Leistungsprogramm 2012 der MVG (Fahrplanwechsel Dezember 2012)
+- TOP 4.12.: Schreiben Baureferat vom 13.04.11: Erhöhung der Anzahl der Fahrradabstellplätze am S-Bahnhof Laim (Empfehlung Nr. 08-14 / E 00198 der Bürgerversammlung Laim vom 25.11.08), Fahrradproblematik im Laimer Tunnel; Schaffung von ausreichend und wetterfesten Abstellflächen außerhalb des Tunnels (Empfehlung Nr. 08-14 / E 00440 der Bürgerversammlung Laim vom 17.11.09), Ausarbeitung alternativer Parkmöglichkeiten für bis zu 1.500 Fahrräder an der Laimer Unterführung (Empfehlung Nr. 08-14 / E 00465 der Bürgerversammlung Neuhausen-Nymphenburg vom 24.11.09); Anhörung zu einer Beschlussvorlage für den Bauausschuss am 05.07.11
+- TOP 4.13.: Schreiben Planungsreferat vom 12.04.11: Nahverkehrsplan der LH München; Beteiligung der Bezirksausschüsse und Verbände
+- TOP 4.14.: Schreiben KVR vom 15.04.11: Straßenfest am Weißenfelder Platz am 02.07.11
+- TOP 4.15.: Schreiben KVR vom 15.04.11: Spielaktionen Spiellandschaft Stadt e.V. ; Änderung bei Termin am 28.05.11 (Spielplatz in der Burgkmairstraße statt am Laimer Anger)
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Aindorferstr. 77b-77g: Neubau von 4 Einfamilienhäusern mit Garagen (Variante 19 bzw. von 6 Reihenhäusern mit Stellplätzen (Variante 2) / Vorbescheid; hier: BAumbestandspläne
+- TOP 5.2.: Westendstr. 230: Errrichtung von 2 Großflächen-Werbetafeln
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Klein Kinder Tagesstätten e.V. vom 13.04.11: Fachtag 20 Jahre Mittagsbetreuung in München am 20.05.11
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 01.03.11
+- TOP 7.2.: Sitzung UA Soziales, Schule und Sport vom 17.03.11
+- TOP 7.3.: BA-Sitzung vom 05.04.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 31.03.11: Stadt klärt mit Flugblättern über von Rechtsextremen verbreitete Vorurteile auf
+- TOP 8.2.: Schreiben KVR vom 17.06.10: Öffnung der Mergentheimer Straße für den gegenläufigen Radverkehr
+- TOP 8.3.: Schreiben KVR vom 30.07.10: Öffnung der Helmpertstraße zwischen Lutzstraße und Fürstenrieder Straße für den gegenläufigen Radverkehr
+- TOP 8.4.: Schreiben KVR vom 01.04.11: Kreuzung Landsberger Straße / Elsenheimerstraße; Erreichbarkeit der S-Bahn Hirschgarten (Schreiben BA vom 03.05.11)
+- TOP 8.5.: Schreiben KVR vom 04.04.11: Kleingaststätte "Dampflock", Fürstenrieder Str. 121; unveränderte Fortführung
+- TOP 8.6.: Schreiben Referat für Bildung und Sport vom 01.03.11: Die Rahmenkonzeption für KinderTagesZentren der LH München
+- TOP 8.7.: Schreiben Baureferat vom 31.03.11: Verbesserung der Straßenreinigung, insbesondere an der Kreuzung Fürstenrieder Straße / Gotthardstraße (Beschluss BA vom 01.02.11 bzgl. Empfehlung Nr. 08-14 / E 00734 der Bürgerversammlung vom 16.11.10)
+- TOP 8.8.: Schreiben Baureferat vom 06.04.11: Bekämpfung der Ameisenplage auf den Spielplätzen, u.a. am Laimer Platz, Burgkmairwiese und Hogenbergplatz (Antrag Nr. 08-14 / B 02816 vom 01.03.11)
+- TOP 8.9.: Schreiben Baureferat vom 07.04.11 und 19.04.11: Fürstenrieder Straße; Sanierung der Fahrbahn in Teilbereichen zwischen der Landsberger Straße und der BAB 96
+- TOP 8.10.: Schreiben Referat für Gesundheit und Umwelt vom 01.04.11: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV; Durchführung von Mäharbeiten des Straßenbegleitgrüns
+- TOP 8.11.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.03.11: Einzelfällung Mathunistr. 23-27, Valpichlerstr. 82a; Gefahrenbaumbescheid
+- TOP 8.12.: Schreiben Referat für Stadtplanung und Bauordnung vom 31.03.11: Einzelfällungsantrag Hartelstraße; Gefahrenbaumbescheinigung
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 05.04.11: Hogenbergstr. 33-35; Neuerrichtung einer Kooperationseinrichtung mit 3 Krippen- und 3 Kindergartengruppen sowie einem Veranstaltungsgebäude / Vorbescheid
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.03.11: Agricolastr. 101; Neubau eines Mehrfamilienhauses mit Garagen (Agricolastr. 101 / Aindorferstr. 146) / Vorbescheid
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 30.03.11: Wirtschafts-Info 03/2011
+- TOP 8.16.: Schreiben Referat für Arbeit und Wirtschaft vom 15.04.11: Europe Direct Informationen 03/2011
+- TOP 8.17.: Schreiben Sozialreferat vom 06.04.11: Aktionsforum für Familien - Münchner Aktionstag für Familien am 06.05.11
+- TOP 8.18.: Schreiben Sozialreferat vom 07.04.11: Zweckentfremdung von Wohnraum durch Abbruch; Hohenwarter Straße
+- TOP 8.19.: Schreiben Sozialreferat vom 15.04.11: Protokoll zur BA-Informationsveranstaltung des Sozialreferates vom 29.11.10
+- TOP 8.20.: Schreiben Behindertenbeirat der LH München vom März 2011: Broschüre "Behinderung heißt Armut und Diskriminierung"
+- TOP 8.21.: Schreiben Behindertenbeirat der LH München vom 05.04.11: Protokoll des BA-Treffens am 28.02.11
+- TOP 8.22.: Schreiben Behindertenbeirat der LH München vom 14.04.11: Jahresbericht 2010 des Behindertenbeirates
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 07.04.11: Information der Bezirksausschüsse; Neue Bädereintrittspreise
+- TOP 8.24.: Schreiben Markthallen München vom 13.04.11: Münchner Wochenmärkte
+- TOP 8.25.: Bautenliste vom 21.03.-27.03.11 1. Erstantragsverfahren a) Kirchmairstr. 19 b) Elsenheimerstr. 12
+- TOP 8.26.: Bautenliste vom 28.03.-03.04.11 1. Erstantragsverfahren a) Leibnizstr. 23 b) Högerstr. 4a
+- TOP 8.27.: Bautenliste vom 04.04.-10.04.11 1. Erstantragsverfahren a) Landsberger Str. 372
+- TOP 8.28.: Bautenliste vom 11.04.-17.04.11 1. Erstantragsverfahren a) Kärntner Platz b) Agricolastr. 79 2. Änderungsverfahren a) Reutterstr. 49a 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 214
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 28.03.11: Baumaßnahmen der Stadtwerke; Stichtag: 28.03.11
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 04.04.11: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 04.04.11
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 11.04.11: Baumaßnahmen der Stadtwerke; Stichtag: 11.04.11
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 18.04.11: Baumaßnahmen der Stadtwerke München; Stichtag: 18.04.11
+- TOP 8.33.: Beschluss der Vollversammlung vom 16.03.11: Nahverkehrsplan (NVP) der Landeshauptstadt München, a) Aufgabenstellung, b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung, c) Finanzierung der ÖPNV-Infrastruktur, d) Anträge (Sitzungsvorlagen Nr. 08-14 / V 05592)
+- TOP 8.34.: Beschluss der Vollversammlung des Stadtrates vom 16.03.11: Bauträgerauswahl für Baugrundstücke des Kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B); Übernahme der Bauträgerschaft durch die LH München / Sozialreferat; Brantstraße, Teilfläche aus Flst. 400/4, Gemarkung Laim; Neubau einer integrierten Kindertageseinrichtung an der Brantstraße (Sitzungsvorlagen Nr. 08-14 / V 05889)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.11: Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011-2015 (Sitzungsvorlagen Nr. 08-14 / V 06248)
+- TOP 8.36.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 06263)
+- TOP 8.37.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 06304)
+- TOP 8.38.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlagen Nr. 08-14 / V 06231)
+- TOP 8.39.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 06214)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11: Regionsbericht 2010 (Sitzungsvorlagen Nr. 08-14 7 V 06378)
+- TOP 8.41.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.-31.12.10 (Sitzungsvorlagen Nr. 08-14 / V 06440)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11: Langsfristige Siedlungsentwicklung (Sitzungsvorlagen Nr. 08-14 / V 06361)
+- TOP 8.43.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11: Perspektive München - Fortschreibung 2011; Leitmotiv, strategische Leitlinien (Sitzungsvorlagen Nr. 08-14 / V 06446)
+- TOP 8.44.: Schreiben Grundschule an der Camerloherstr. 110 vom 31.03.11: Zuschuss aus dem BA-Budget für Theaterprojekt
+- TOP 8.45.: Schreiben BA 7 Sendling-Westpark vom 13.04.11: Antrag bzgl. Spielhallenproblematik
+- TOP 8.46.: Schreiben BA 12 Schwabing-Freimann vom 19.04.11: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder
+- TOP 8.47.: Schreiben BA 12 Schwabing-Freimann vom 20.04.11: Werbenutzungsvertrag der LH München
+- TOP 8.48.: Schriftverkehr aus der BA-Sitzung vom 01.03.11
+- TOP 8.49.: Schriftverkehr aus der BA-Sitzung vom 05.04.11
+- TOP 1.2: Bürgerpost an den BA
