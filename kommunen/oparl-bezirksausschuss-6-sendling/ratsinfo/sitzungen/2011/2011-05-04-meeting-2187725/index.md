@@ -1,0 +1,53 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-05-04T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187725
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187725
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Errichtung eines sozialen Infrastrukturangebotes im Bauvorhaben Thalkirchner Str. 190; Offene Einrichtung für Familien und Kinder bis 12 Jahre
+- TOP 4: Schulreferat
+- TOP 5.1.: Freischankfläche Lindwurmstraße 205
+- TOP 6.1.: Realisierung einer Fußgängerampel in der Lindwurmstraße im Bereich zwischen Plinganserstraße und Aberlestraße
+- TOP 6.2.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 6.3.: Leistungsprogramm 2012 der MVG
+- TOP 6.4.: Umgestaltung der Querung für Fußgänger und Radfahrer an der Kreuzung Albert-Roßhaupter-Straße / Meindlstraße / Karwendelstraße - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Lora Förderverein e.V. Sendereihe "Sendling On Air" v. Sept. - Nov. 2011 - <div>Kürzung auf ? 357,-</div>
+- TOP 7.2.: (E) Budget der Bezirksausschüsse MünchenVerlag GmbH Druckkostenzuschuss für das Stadtteilbuch "Sendling - Entdeckungen im Stadtteil" - <div>Kürzung auf ? 2000,-</div>
+- TOP 7.3.: (E) Budget der Bezirksausschüsse FC Wacker München e.V. Anschaffung eines tragbaren Trainingstors - <div>Antrag zurückgezogen</div>
+- TOP 7.4.: Fest junger Erwachsener 2011
+- TOP 7.5.: (E) Budget der Bezirksausschüsse Kath. Pfarrei St. Margaret Führung und Musik am 25./27.05.2011 sowie Kauf von zwei Kühltheken - <div>Kürzung auf ? 375,-</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Steinerstraße 20
+- TOP 8.3.: Bauvorhaben Thalkirchner Straße 186
+- TOP 8.4.: Bauvorhaben Grundstücke Kidlerstraße 34 und Plinganserstraße 27 - 31
+- TOP 8.5.: Bebauungsplan mit Grünordnung Karwendelstraße zwischen Sylvenstein- und Engelhardstraße
+- TOP 8.6.: Meindlstraße 8; zeitliche Planung der Baumaßnahmen des Referates für Bildung und Sport
+- TOP 8.7.: Dezentrales Güterverkehrszentrenkonzept
+- TOP 9: Baureferat
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Ganghoferstraße 122 - 124
+- TOP 10.2.: Baumfällung Flößergasse 8
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Barrierefreier und behindertengerechter Einstieg in das Südbadschwimmbecken BV-Empfehlung Nr. 683 vom 13.10.2011 BA-Antrag Nr.2658 vom 10.01.2011
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Erinnerungsorte München
+- TOP 13.2.: Öffentliche WC-Anlagen - Strategiekonzept
+- TOP 13.3.: Kieszwischenlagerung auf dem Gelände des MK6
+- TOP 13.4.: Rückverlagerung des Fischhandels und des Obst- und Gemüsehandels in die Sortieranlage
+- TOP 13.5.: Neue Bädereintrittspreise
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
