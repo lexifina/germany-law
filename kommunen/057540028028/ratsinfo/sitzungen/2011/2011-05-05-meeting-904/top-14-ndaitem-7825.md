@@ -1,0 +1,6 @@
+# TOP 14: Errichtung eines PORTA-Möbelmarktes in Gütersloh
+
+- Sitzung: Bau-, Planungs-, Umwelt- und Verkehrsausschuss (16. Sitzung) (2011-05-05)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/7825
