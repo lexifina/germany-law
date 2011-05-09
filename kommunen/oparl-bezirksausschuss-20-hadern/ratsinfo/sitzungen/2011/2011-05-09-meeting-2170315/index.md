@@ -1,0 +1,105 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-05-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170315
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170315
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: "Zacherlhof", Würmtalstraße 117 / Heiglhofstraße 4, hier: Abstandsflächen an der Süd- und Westseite des Bauvorhabens
+- TOP 1.2.: Containerstandplatz Waldwiesenstraße
+- TOP 1.3.: Angriffe von Krähen im Bereich des Übergangs zwischen Heiglhofstraße 68 und Sauerbruchstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: Gemeinsamer UA Soziales und UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Mieterinit. Haderner Stern e.V., 35-Jahr-Feier am 01./02.07.2011 (Direktorium, 21.04.11)
+- TOP 5.2.: Budget der Bezirksausschüsse, VdK-OV Hadern-Neuried, Veranstaltung am 05.06.2011 (Direktorium, 21.04.11)
+- TOP 5.3.: Budget der Bezirksausschüsse, SG Hadern St. Peter e.V., 25-Jahr-Feier der Böllergruppe während des Dorffestes am 29.05.2011 (Direktorium, 21.04.11)
+- TOP 5.4.: Budget der Bezirksausschüsse, Kukita GmbH & Co.KG, Erstellung und Ausstattung einer Freispielfläche (Direktorium, 28.04.11)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Beschlussvorlage für den Kommunalausschuss: Öffentliche WC-Anlagen-Strategiekonzept (Kommunalreferat, 07.04.11)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Rolandseckstraße Anwohnerstraßenfest am 02.07.2011 (Kreisverwaltungsreferat, 11.04.11)
+- TOP 6.3.: Veranstaltung auf städtischer Grünanlage, hier: Feldmesse von Namen Jesu, Neufriedenheimer Platz am 17.07.2011 (Kreisverwaltungsreferat, 13.04.11)
+- TOP 6.4.: Nahverkehrsplan der Landeshauptstadt München, Beteiligung der Bezirksausschüsse und der Verbände (Referat für Stadtplanung und Bauordnung, 12.04.11)
+- TOP 6.5.: Leistungsprogramm 2012 der MVG (Fahrplanwechsel Dezember 2011) (MVG, 13.04.11)
+- TOP 6.6.: Kruckenburgstraße 4, Anbau (EG) und Einbau von 2 Schleppgauben (Referat für Stadtplanung und Bauordnung, 20.04.11)
+- TOP 6.7.: Vollzug des Sprengstoffgesetzes, hier: Feuerwerk beim Haderner Dorffest am 02.06.2011 (Alternativ: 04.06.2011) (Kreisverwaltungsreferat, 04.05.11)
+- TOP 6.8.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2054, Sauerbruchstraße (westlich) (Teiländerung der Bebauungspläne Nrn. 1600 und 1918) - Aufstellungsbeschluss - (Referat für Stadtplanung und Bauordnung, 04.05.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Hosigaustraße 6, 1 Zeder
+- TOP 7.2.: Würmtalstraße 100, 1 Silber-Weide
+- TOP 7.3.: Haderunstraße 1 a, 1 Eibe
+- TOP 7.4.: Rolandseckstraße 15, 1 Föhre
+- TOP 7.5.: Am Brombeerschlag 42, 1 Tanne
+- TOP 7.6.: Kurparkstraße 16, 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmverordnung (32. BImSchV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV, hier: Mäharbeiten des Straßenbegleitgrüns (Referat für Gesundheit und Umwelt, 01.04.11)
+- TOP 8.2.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 07.04.11)
+- TOP 8.3.: Die Rahmenkonzeption für KinderTagesZentren der Landeshauptstadt München (Referat für Bildung und Sport, 05.04.11)
+- TOP 8.4.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2011 für den BA (SWM, 05.04.11)
+- TOP 8.5.: Zweckentfremdung von Wohnraum: - Batzerstraße (Sozialreferat, 12.04.11)
+- TOP 8.6.: Baumaßnahmen der Stadtwerke München, hier: Heiglhofstraße 63, Fernwärme (SWM, 18.04.11)
+- TOP 8.7.: Münchner Wochen- und Bauernmärkte, Voraussetzungen zur Einrichtung eines Marktes (Kommunalreferat, 13.04.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Übergang am Stiftsbogen (Kreisverwaltungsreferat, 06.04.11)
+- TOP 9.2.: Absenkung der Randsteine in der Fürstenrieder Straße im Bereich der Bushaltestellen Ammerseestraße, BA-Antr. Nr. 1049 vom 20.04.2009 (Baureferat, 08.04.11)
+- TOP 9.3.: Bücherbushaltestelle Terofalstraße 47 (Münchner Stadtbibliothek, Fahrbibliotheken, 31.03.11)
+- TOP 9.4.: Radwegebenutzungspflicht auf der Südseite der Würmtalstraße (Kreisverwaltungsreferat, 29.03.11)
+- TOP 9.5.: Optimierter Regiebetrieb Kindertagesstätten (Referat für Bildung und Sport, 20.04.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Protokoll des Treffens des Behindertenbeirats mit den Bezirksausschüssen vom 28.02.2011 (Behindertenbeirat, 05.04.11)
+- TOP 11.2.: Broschüre "Behinderung heißt Armut und Diskriminierung" (Behindertenbeirat, 11.04.11)
+- TOP 11.3.: 18.jetzt - Fest junger Erwachsener im Rathaus am 08.10.2011 (Direktorium, 04.04.11)
+- TOP 11.4.: Fachtag 20 Jahre Mittagsbetreuung in München am 20.05.2011 im Kulturhaus Milbertshofen (Klein Kinder Tagesstätten e.V., 13.04.11)
+- TOP 11.5.: Einladung zum Netzwerk-Auftakt Netzwerk Holzbau München am 23.05.2011 (Referat für Gesundheit und Umwelt, 13.04.11)
+- TOP 11.6.: Jahresbericht 2010 des Behindertenbeirats (Behindertenbeirat, 14.04.11)
+- TOP 11.7.: Stadt klärt mit Flugblättern über von Rechtsextremen verbreitete Vorurteile auf (OB Ude, 31.03.11)
+- TOP 11.8.: Antrag BA 7 vom 12.04.2011: Spielhallen
+- TOP 11.9.: Protokoll zur BA-Informationsveranstaltung des Sozialreferates vom 29.11.2010 (Sozialreferat, 15.04.11)
+- TOP 11.10.: Antrag BA 12 vom 29.03.2011: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder
+- TOP 11.11.: Einladung zum Fachforum "Zertifizierung und Bewertung von Gebäuden" am 19.05.2011 (Referat für Gesundheit und Umwelt, 13.04.11)
+- TOP 11.12.: Veranstaltung der TU München und der MVG "Der öffentliche Nahverkehr als Katalysator für die Stadtentwicklung" (SWM, 19.04.11)
+- TOP 11.13.: Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am Mittwoch, den 25.05.2011 von 17.00 - 19.00 Uhr (Gleichstellungsstelle für Frauen, 20.04.11)
+- TOP 11.14.: Einladung zum Fachforum "Brandschutz bei Photovoltaikanlagen" am 17.05.2011 (Referat für Gesundheit und Umwelt, 27.04.11)
+- TOP 11.15.: Einladung zum Abendforum "Denkmalschutz und energetische Modernisierung" am 25.05.2011 (Referat für Gesundheit und Umwelt, 27.04.11)
+- TOP 11.16.: Kultur auf Rädern, Theaterstück "Wenn Pulte in den Süden fliegen!" am 15.05.2011 (Kultur auf Rädern, 26.04.11)
+- TOP 11.17.: Befragung zum Sozialklima (Deutscher Sozialklimaindex, 02.05.11)
+- TOP 11.18.: Frühlingsfest mit Einweihung der neuen Gartenspielgeräte am 20.05.2011 ab 16.00 Uhr (Katholischer Kindergarten Fronleichnam, 05.05.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 16.03.2011 in der Fassung des Ausschussbeschlusses vom 23.02.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05592: Nahverkehrsplan (NVP) der Landeshauptstadt München, insbesondere zur Tram-Westtangente (S. 10 - 11): Entfall des Abzweigs zum Lorettoplatz (S. 15, 24) a) Aufgabenstellung b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung c) Finanzierung der ÖPNV-Infrastruktur d) Anträge
+- TOP 12.2.: Beschluss vom 16.03.2011 zur Sitzungsvorlage-Nr. 08-14 / V 05901 (nach Antrag): Bauvorhaben Großhaderner Straße / Ammerseestraße Flurstücke 233, 234, 235, Gemarkung Großhadern Anpassung der Projektrahmenbedingungen für o.g. Baugrundstück im Rahmen des kommunalen Wohnungsbauprogramms - Teilprogramnm für Clearinghäuser (KomPro/C), Gesamtkosten jetzt 7,7 Mio. ? laut Antrag (S. 3, 5)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06307 (nach Antrag): Ja mia san mim Radl do - sind doppelstöckige Fahrradabstellanlagen die Lösung für drängende Platzprobleme an städtischen MVV-Knotenpunkten
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06323 (nach Antrag): Die Ergebnisse des EMM-Erreichbarkeitsatlas im Stadtrat vorstellen
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06304: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06231: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale, insbesondere - zu "REGSAM" (Ansatz 525.365,- ?) und - zur "Förderung der Planungsbeauftragten freier Träger" (Ansatz 620.892,- ?).
+- TOP 12.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06263: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum "Bewohnertreff Blumenau" (Ansatz 56.700,- ? gem. Abschnitt 4.1.7, S. 1, Nr. 9), - zur "Nachbarschaft Kleinhadern, Na klar!" (Ansatz 15.010,- ? gem. Abschnitt 4.1.7, S. 3, Nr. 33) und - zum Wohnungsversorgungsprojekt der Firma KOMPRO München Krokusstraße GmbH & Co. KG in der Krokusstraße 73 (Ansatz 3.120,- ? gem. Abschnitt 4.1.8, S. 2, Nr. 22)
+- TOP 12.4.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06214: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau (Ansatz 207.101,- ? gem. Abschnitt 5.4.1, S. 4, Nr. 10) und - zur "Altenwohnanlage Konrad-Dreher-Straße 19 - 23" (Ansatz 50.267,- ? gem. Abschnitt 5.4.2, S. 9, Nr. 29)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06385: Bau einer Tiefgarage an der neuen U-Bahnhaltestelle Martinsried (Nach Gespräch mit der Gemeinde Planegg wird der Bau eines P+R-Platzes mit bis zu 100 Stellplätzen angestrebt.)
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06361: Langfristige Siedlungsentwicklung
+- TOP 12.7.: Beschluss des Sozialausschusses vom 14.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06232: Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung des Abbruchs des Anwesens Guardinistraße 33 für den Neubau einer Kindertageseinrichtung (Kinderkrippe und Kindergarten) Der BA 20 hat am 13./16.12.2010 der Zweckentfremdung und Nutzungsänderung zugestimmt. Er hat jedoch auch Wert gelegt auf den "Bau einer Wohnung im Dachgeschoss" des Neubaus (Anlage 4). Diese Maßnahme wird jedoch vom Planungsreferat abgelehnt (Abschnitt 5.2, S. 3).
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.03.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06248 (vertagt): Siedlungsentwicklung und Infrastrukturversorungskonzept für München im Zeitraum 2011 - 2015 (Hadern ist nicht erwähnt.)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06378: Regionsbericht 2010 (Hadern ist nicht erwähnt.)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06446: PERSPEKTIVE MÜNCHEN - Fortschreibung 2011 Leitmotiv, strategische Leitlinien, insbesondere zum Handlungsraum Nr. 2 "Romanplatz - Laim - Ratzingerplatz" entlang der Tram-West-Tangente (Anlage, S. 48)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06440: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2010 - 31.12.2010, insbesondere zum Sonderflughafen Oberpfaffenhofen (Kein Rechtsmittel gegen das Urteil des Verwaltungsgerichts München vom 23.10.2009 gem. Anlage 7, S. 16)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
