@@ -1,0 +1,66 @@
+# 6. Sitzung des Gemeinderates
+
+- Körperschaft: Stadtverwaltung Freiburg
+- Beginn: 2011-05-10T15:03:00+02:00
+- Ende: 2011-05-10T20:25:00+02:00
+- Ort: Neuer Ratssaal des Rathauses, Rathausplatz 2 - 4, 79098 Freiburg im Breisgau
+- Status: terminiert
+- Gremium: https://ris.freiburg.de/oparl/organization/GR
+- Ratsinformationssystem: https://ris.freiburg.de/oparl/meeting/ni_2010-GR-69
+- OParl: https://ris.freiburg.de/oparl/meeting/ni_2010-GR-69
+- Quelle: https://ris.freiburg.de/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 3: Informationen zur Fremdenverkehrsabgabe (Fraktionsanträge von SPD-Fraktion und Fraktionsgemeinschaft Unabhängige Listen)
+- TOP 19: Beteiligung der Stadt Freiburg am Modellprogramm Bürgerarbeit
+- TOP 19.1: Beteiligung der Stadt Freiburg am Modellprogramm Bürgerarbeit
+- TOP 2: Änderung Vergnügungsteuersatzung h i e r : Erhöhung der Vergnügungsteuer auf Geldspielgeräte (Anträge von Junges Freiburg/DIE GRÜNEN, CDU, SPD, Unabhängige Listen und Freie Wähler)
+- TOP 6: Ganztagesgrundschulkonzeption
+- TOP 6.1: Ganztagesgrundschulkonzeption
+- TOP 6.2: Ganztagesgrundschulkonzeption
+- TOP 7: Bildungsteilhabe und mehr Bildungsgerechtigkeit in Freiburg
+- TOP 7.1: Bildungsteilhabe und mehr Bildungsgerechtigkeit in Freiburg
+- TOP 7.2: Bildungsteilhabe und mehr Bildungsgerechtigkeit in Freiburg
+- TOP 9: Investitionskostenzuschuss für den Sanierungsneubau des Katholischen Kindergartens St. Michael
+- TOP 10: Ausbau der Jugendberufshilfe h i e r : Maßnahmen für junge Menschen unter 25 Jahren
+- TOP 10.1: Ausbau der Jugendberufshilfe h i e r : Maßnahmen für junge Menschen unter 25 Jahren
+- TOP 11: Fortschreibung des Sanierungs- und Investitionsprogramms des Gebäudemanagements Freiburg (GMF)
+- TOP 11.1: Fortschreibung des Sanierungs- und Investitionsprogramms des Gebäudemanagements Freiburg (GMF)
+- TOP 12: Straßenzustand in Freiburg h i e r: Sanierungs- und Erneuerungsbedarf
+- TOP 12.1: Straßenzustand in Freiburg h i e r: Sanierungs- und Erneuerungsbedarf
+- TOP 13: Zustand der Ingenieurbauwerke in Freiburg h i e r: Sanierungs- und Erneuerungsbedarf
+- TOP 13.1: Zustand der Ingenieurbauwerke in Freiburg h i e r: Sanierungs- und Erneuerungsbedarf
+- TOP 17: Förderprogramm 'Energiebewusst Sanieren' 2009 / 2010 h i e r : Sachstandsbericht und Fortschreibung
+- TOP 21: Bürgerschaftliches Engagement in Freiburg h i e r : Ergebnis der Beratungen in den Fachausschüssen und Europäisches Freiwilligenjahr 2011
+- TOP 21.1: Bürgerschaftliches Engagement in Freiburg h i e r : Ergebnis der Beratungen in den Fachausschüssen und Europäisches Freiwilligenjahr 2011
+- TOP 22: Eigenbetrieb Theater Freiburg h i e r : Sanierung der Bühnentechnik und behindertengerechte Erschließung des Großen Hauses
+- TOP 23: Eigenbetrieb Theater h i e r : Wirtschaftsplan für die Geschäftsjahre 2011/2012 und 2012/2013
+- TOP 26: Integriertes regionales Nahverkehrskonzept Breisgau-S-Bahn 2020 h i e r: Vereinbarungen zur Finanzierung des regionalen Verkehrsangebotes
+- TOP 27: PG 'Lernen erleben in Freiburg' (LEIF) h i e r: Sachstandsbericht
+- TOP 30: Zuschussgewährung an die Schulen in freier Trägerschaft h i e r: Erhöhung Gesamtsumme ab 2011/2012
+- TOP 31: Bebauungsplan mit örtlichen Bauvorschriften Schauinslandstraße-Süd mit Ausgleichsflächen in Günterstal, Plan-Nr. 4-76 (Günterstal) h i e r : a) Entscheidung über die im Rahmen der Öffentlichkeits- und Behördenbeteiligung eingegangenen Stellungnahmen b) Satzungsbeschluss
+- TOP 32: 3. Änderung des Bebauungsplans mit örtlichen Bauvorschriften Kappler Straße, Plan-Nr. 3-25c (Littenweiler) h i e r : a) Entscheidung über die im Rahmen der Behördenbeteiligung eingegangenen Stellungnahmen b) Ergänzung des städtebaulichen Vertrags c) Satzungsbeschluss
+- TOP 33: Bebauungsplan zur Steuerung großflächiger Werbeanlagen Schwarzwaldstraße Nord, Plan-Nr. 7-2.5 (Oberwiehre) h i e r : a) Verlängerung der Veränderungssperre b) Billigung des Planentwurfs für die Öffentlichkeits- und Behördenbeteiligung im beschleunigten Verfahren
+- TOP 24: Planungen zur Einrichtung eines United World College (UWC) in Freiburg
+- TOP 1: Einführung der Zweitwohnungsteuer in Freiburg h i e r : Antrag der Fraktionsgemeinschaft Junges Freiburg/DIE GRÜNEN
+- TOP 4: Veräußerung von Streubesitz h i e r : Aufhebung der Bindungswirkung aus dem Bürgerentscheid vom 12.11.2006 (Anträge von Junges Freiburg / DIE GRÜNEN, CDU und Freie Wähler)
+- TOP 5: Ausbau der Betreuungsplätze (Ausbauplanung) für unter 3-Jährige - Stand der Umsetzung im Jahr 2010 - Ausbauplanung 2011 - 2013
+- TOP 5.1: Ausbau der Betreuungsplätze (Ausbauplanung) für unter 3-Jährige - Stand der Umsetzung im Jahr 2010 - Ausbauplanung 2011 - 2013
+- TOP 8: Frühe Hilfen in Freiburg h i e r : Gesamtkonzeption und Finanzierungsplan
+- TOP 8.1: Frühe Hilfen in Freiburg h i e r : Gesamtkonzeption und Finanzierungsplan
+- TOP 14: ÖPNV h i e r : Einführung eines Sozialtickets in Freiburg
+- TOP 15: ÖPNV h i e r: 1. Aktualisierter Rahmenzeitplan Stadtbahnprojekte des 'vordringlichen Bedarfes' 2. Fortgeschriebene erste Umsetzungsstufe für das integrierte regionale Nahverkehrskonzept Breisgau-S-Bahn 2020
+- TOP 15.1: ÖPNV h i e r: 1. Aktualisierter Rahmenzeitplan Stadtbahnprojekte des 'vordringlichen Bedarfes' 2. Beschluss zur Umsetzung des Gesamtprojekts und der 'Ausbaustufe 2018' des integrierten regionalen Nahverkehrskonzepts Breisgau-S-Bahn 2020
+- TOP 15.2: ÖPNV h i e r : 1. Aktualisierter Rahmenzeitplan Stadtbahnprojekte des 'Vordringlichen Bedarfes' 2. Beschluss zur Umsetzung des Gesamtprojekts und der 'Ausbaustufe 2018' des integrierten regionalen Nahverkehrskonzepts Breisgau-S-Bahn 2020
+- TOP 16: Klimaschutz in Freiburg: Umsetzung 'Maßnahmenplan Klimaschutz' und Mittelverwendung '10 % Konzessionsabgabe für zusätzliche Klimaschutzmaßnahmen' h i e r : 3. Zwischenbericht
+- TOP 16.1: Klimaschutz in Freiburg: Umsetzung 'Maßnahmenplan Klimaschutz' und Mit-telverwendung '10 % Konzessionsabgabe für zusätzliche Klimaschutzmaßnahmen' h i e r : Dritter Zwischenbericht
+- TOP 16.2: Klimaschutz in Freiburg: Umsetzung 'Maßnahmenplan Klimaschutz' und Mittelverwendung '10 % Konzessionsabgabe für zusätzliche Klimaschutzmaßnahmen' h i e r : 3. Zwischenbericht
+- TOP 18: Nutzung der Räume unter dem Siegesdenkmal - ehemaliges 'Z'
+- TOP 18.1: Nutzung der Räume unter dem Siegesdenkmal - ehemaliges 'Z'
+- TOP 20: Gesamtkonzeption für die sozialarbeiterischen Begleitmaßnahmen zur Begrenzung des Alkoholkonsums in der Innenstadt h i e r : Präventionsprojekt PräRIE
+- TOP 20.1: Gesamtkonzeption für die sozialarbeiterischen Begleitmaßnahmen zur Begrenzung des Alkoholkonsums in der Innenstadt h i e r : Präventionsprojekt PräRIE
+- TOP 25: Freiburger Frauenkonferenz anlässlich 100 Jahre Internationaler Frauentag a) Konzept und Finanzrahmen b) Einrichtung einer gemeinderätlichen Arbeitsgruppe h i e r : Interfraktioneller Antrag vom 05.04.2011
+- TOP 28: 2. Freiburger Bildungsbericht 'Bildung in Freiburg 2010'
+- TOP 29: Einführung neue Werkrealschule h i e r : a) Sachstand b) Auflösung des Hauptschulzweigs der Schönbergschule
+- TOP 29.1: Einführung neue Werkrealschule h i e r : a) Sachstand b) Auflösung des Hauptschulzweigs der Schönbergschule
