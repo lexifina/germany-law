@@ -1,0 +1,53 @@
+# Haupt- und Finanzausschuss (12. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-05-10T17:02:00+02:00
+- Ende: 2011-05-10T22:45:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfRk6qp6lZBYEA4VRuWs39c
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10533
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZd8-3QV_N5WL6mbwFAlN-fe3w5I5uykRbPlWtU2YvyLa/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_10.05.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 11. Sitzung vom 01. März 2011
+- TOP 2.: Bericht der DSK über die Kosten- und Finanzierungsübersicht zu Horrem 2010
+- TOP 3.: Umbesetzung von Ausschüssen und Gremien
+- TOP 3.1: Umbesetzung von Ausschüssen und Gremienhier: Besetzung des Arbeitskreises EDV
+- TOP 4.: Aufgabenwahrnehmung durch die Wirtschaftsförderungsgesellschaft des Rhein-Erft-Kreises
+- TOP 5.: Ehrenamtskarte und Ehrenamtsbörse in der Stadt Kerpen hier: Sachstandsbericht
+- TOP 6.: Ausbau barrierefreier Bushaltestellen im Stadtgebiet hier: Ortsteil Blatzheim - (kein Text vorhanden)
+- TOP 7.: Beschluss des Integrationskonzepts der Stadt Kerpen, Festlegung und Umsetzung von Handlungsschwerpunkten, Bereitstellung von Haushaltsmitteln und Personaleinsatz
+- TOP 8.: Ergebnis der Hundebestandsaufnahme 2010
+- TOP 9.: Kinder- und Jugendförderplan der Stadt Kerpen
+- TOP 10.: Verlängerung der III. Vertragsperiode nach dem Freizeitstättenplan von 2012 bis 2014 im Rahmen einer Fixierung der bestehenden Haushaltsmittel
+- TOP 11.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 12.: Nutzung altes Schulgelände Buir
+- TOP 13.: Bäder der Stadt Kerpen
+- TOP 13.1: Jahresbericht 2010 "Bäder der Stadt Kerpen" der g1 Einkaufs- und Beratungsgesellschaft für Bäder mbH
+- TOP 13.2: Notwendigkeit der Sanierung der Erftlagune
+- TOP 13.3: Bäderangebot während der Sanierungszeit der Erftlagune
+- TOP 13.4: Überlegungen zum zukünftigen Bäderbetrieb der Stadt Kerpen
+- TOP 14.: Personal-/Stellenplanangelegenheiten
+- TOP 14.1: Personalsituation in der Abteilung 20.1 „Kämmerei“
+- TOP 14.2: Personalsituation in der Abteilung 20.2, Steuern und Abgaben
+- TOP 14.3: Personalsituation Bürgerbüro
+- TOP 14.4: Personalsituation in der Abteilung 23.1 - Erzieherische Hilfen hier: Wirtschaftliche Jugendhilfe
+- TOP 14.5: Organisations- und Personalvorlage 2011
+- TOP 15.: Anregungen und Einsparvorschläge Bürgerhaushalt 2011
+- TOP 16.: Beratung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2011
+- TOP 17.: Mitteilungen
+- TOP 18.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 18.1: Prüfung der Eröffnungsbilanz und Erstellung der Jahresabschlüsse 2008 bis 2010 hier : Anfrage der FDP-Fraktion vom 03.05.2011
+- TOP 19.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 20.: Objekt Maastrichter Straße, Stadtteil Kerpen hier: Auftrag zur Erstellung eines Gutachtens
+- TOP 21.: Städtebauliche Entwicklungsmaßnahme "Kerpen-Sindorf, Vogelrutherfeld" hier: Anpassung der Verkaufspreise für den 1. und 2. Bauabschnitt
+- TOP 22.: Untersuchung Wartungsverträge
+- TOP 23.: Organisations- und Personalvorlage 2011
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
