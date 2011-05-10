@@ -1,0 +1,63 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187842
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187842
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Wahl des/der Unterausschuss - Vorsitzenden für Verkehr und Umwelt
+- TOP 1.3.: Nachfolger/in für den Unterausschuss Budget und Bestimmung eines/einer Internetbeauftragten
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Stadtsanierung in München; Sanierungsgebiete im Stadtteil Westend - Sanierungsblöcke 4, 8, 10 und 11
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Freischankfläche: Galao, Gollierstr. 14a
+- TOP 4.2.: Freifläche Kinderkrippe Gollierstr. 39
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Anhörung: Beschlussvorlage "Öffentliche WC-Anlagen-Strategiekonzept", Frist 20.05.2011
+- TOP 5.3.: Freischankfläche Da Maria, Heimeranstr. 51
+- TOP 5.4.: Anhörung: Sanierung in der Kazmairstr. 37
+- TOP 5.5.: Antwort zu BA-Antrag Nr. 08-14 / B 02748: Bei Neu- und Ausbau von Wohnimmobilien innerhalb von Erhaltungssatzungsgebieten verstärkt auf den Erhalt bzw. die Wiederherstellung von bezahlbarem und familiengerechten Wohnraum drängen
+- TOP 5.6.: Spielhallenantrag des BA 7 Sendling-Westpark
+- TOP 5.7.: Anhörung: Schank- und Speisewirtschaft Bergmannshof, Landsberger Str. 73
+- TOP 5.8.: Anhörung: Verkauf Westendstr. 70
+- TOP 5.9.: Anhörung: Verkauf Westendstr. 99-105, Tulbeckstr. 34-36
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Antwortschreiben zu BA-Antrag Nr. 08 - 14 / B 02588; Errichtung einer Reformschule
+- TOP 6.2.: Antwortschreiben: Spielbusse von Spielen in der Stadt e.V.
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Remondis: Standplatz für die Wertstoffinsel in der Barthstraße
+- TOP 8.2.: Anhörung: Leistungspgrogramm der MVG, Frist 27.05.2011
+- TOP 8.3.: Anhörung: Nahverkehrsplanung der Landeshauptstadt München, Frist 27.05.2011
+- TOP 8.4.: Anhörung: Straßenfest in der Gollierstraße, Frist 11.05.2011
+- TOP 8.5.: Privatflohmärkte in der Grünanlage des Georg-Freundorfer-Platzes
+- TOP 8.6.: Antwortschreiben zu BA-Antrag Nr. 08-14 / B 01157; Radverkehr in München - Grundsatzbeschluss zur Förderung des Radverkehrs; notwendige Maßnahmen im Stadtbezirk Schwanthalerhöhe
+- TOP 8.7.: Bauvorhaben der Stadtwerke München (SWM)
+- TOP 8.8.: Antwortschreiben des BA 2 Ludwigsvorstadt - Isarvorstadt; Ampel für die Radlkoferstr. / Hans-Fischer-Str.
+- TOP 8.9.: Anhörung: Baumfällungsantrag Theresienhöhe 14a
+- TOP 8.10.: Instandsetzungsarbeiten an der Donnersbergerbrücke
+- TOP 8.11.: Antwortschreiben des Baureferates: Freilaufende Hunde im Bavariapark
+- TOP 8.12.: Anhörung: Radlnacht mit Start am Bavariapark und Programm am Bavariapark, Frist 12.05.2011
+- TOP 8.13.: Stellungnahme des BA 12 Schwabing-Freimann: Werbenutzungsvertrag der LHM
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Evangelisches Migrationszentrum Sachkosten zum Internationalen Stadtteilfest Westend am 02.07.2011
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt Jugendfestival "Oben Ohne Open Air" am 23.07.2011
+- TOP 9.3.: (E) Budget der Bezirksausschüsse Taekwondo Zentrum Hellas e.V. Nachbarschaftsfest am 28.05.2011
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Fest junger Erwachsener im Rathaus am 08.10.2011
+- TOP 11.2.: Bürgerversammlung des 8. Stadtbezirkes am 30.06.2011
+- TOP 11.3.: Antrag des BA 12 Schwabing-Freimann: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder
+- TOP 11.4.: Münchner Wochen- und Bauernmärkte: Voraussetzungen zur Einrichtung eines Marktes
+- TOP 12: Protokoll und Umlauf
