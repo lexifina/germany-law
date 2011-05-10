@@ -1,0 +1,125 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-05-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205511
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205511
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Antrag des BA 1 zum Vollzug der Wohnraumzweckentfremdungssatzung: Schaffung von Ersatzwohnraum im gleichen Stadtviertel (Vorbereitung durch den UA)
+- TOP .2.: Schreiben an das Pfarramt der St. Lukaskirche wegen der Umzäunung um den Parkplatz an der St. Lukaskirche (Vorbereitung durch den UA)
+- TOP .3.: Sicherung der Zugänglichkeit der öffentlichen Freifläche nördlich der Lukaskirche
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Platzl 1a: Errichtung einer Freischankfläche (siehe auch C 2.1.2)
+- TOP .2.: Pfarrstraße 10: Umbau und Sanierung, Außenaufzug, Balkone
+- TOP .3.: Maximilianstraße 6: Umbau und Erweiterung (vertagt aus 2011.02 B 3.1.2, 2011.03 B 3.1.5 und 2011.04 B 3.1.4)
+- TOP .4.: Sendlinger Straße 8 RG: Teilbaugenehmigung und Nutzungsänderung (vertagt aus 2011.04 B 3.1.1)
+- TOP .5.: Thierschplatz 6: Errichtung einer Freischankfläche
+- TOP .6.: Kreuzstraße 17: Abbruch und Neubau eines Wohnhauses mit Ladengeschäften
+- TOP .7.: Prinzregentenstraße 1: Nutzungsänderung der ehemaligen Luftschutzräume im ?Haus der Kunst?
+- TOP .8.: Hackenstraße 5: Umbau eines Wohn- und Geschäftshauses mit Aufzugeinbau
+- TOP .9.: Augustinerstraße 1: Neuerrichtung des Gebäudes Frauenplatz 2 sowie des Gebäudes Augustinerstraße 1
+- TOP .1.: Bebauungsplan mit Grünordnung Nr. 2040: Franz-Josef-Strauss-Ring (östlich), Prinzregentenstr. (südlich), Seitzstr. (westlich) (Erweiterung Oberste Baubehörde)
+- TOP .2.1: Gaststätten
+- TOP .1.: Kleingaststätte ?Tini's?, Frauenstraße 13: Genehmigung einer Freischankfläche
+- TOP .2.: Gaststätte ?Ayingers am Platzl?, Platzl 1a: Erweiterung einer bestehenden Freischankfläche (siehe auch B 3.1.1)
+- TOP .3.: Gaststätte ?Le Charroi's?, Sebastianplatz 11: Genehmigung einer Freischankfläche
+- TOP .4.: ?Bäckerei Kamps?, Sendlinger Straße 47: Genehmigung einer Freischankfläche
+- TOP .5.: NACHTRAG: Diskothek ?Chaca Chaca?, Maximilianplatz 16: Sperrzeitaufhebung
+- TOP .6.: NCHTRAG: Cafeteria ?Lunch?, Thierschplatz 5: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Rosental 3 ? 4 (?Jokers Restseller?): Aufstellung einer Verkaufseinrichtung
+- TOP .2.: Thierschstraße 25: Obstverkaufsstand
+- TOP .3.: Frauenstraße 22: Mobiler Fahrradständer
+- TOP .1.: (E) Keine weiteren Christkindlmärkte in der Münchener Innenstadt
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: ?Weltkinderhilfe-Tag München? am 04.06.2011, Neuhauser Straße
+- TOP .2.: Verkehrssicherheitstag am 21.05.2011, Odeonsplatz
+- TOP .3.: Kirchliche Jugendveranstaltung ?Kinder legen die Bibel aus? am 23.07.2011, Frauenplatz
+- TOP .4.: Große Fronleichnamsprozession am 23.06.2011, Marienplatz
+- TOP .5.: Oper für alle am 08.07.2011, Max-Joseph-Platz
+- TOP .6.: Jugendmaiandacht der BDKJ am 26.05.2011, Frauenplatz
+- TOP .7.: Radlnacht im Rahmen der Fahrradmarketingkampagne am 21.05.2011
+- TOP .8.: ?Alpine Sicherheitstage? des DAV vom 19.-21.05.2011, Rindermarkt
+- TOP .9.: Protestkapelle ? Kunst im Öffentlichen Raum ggf. erneute Beschlussfassung (ablehnende Entscheidung in der Sitzung vom 22.03.2011)
+- TOP .10.: Europatag am 06.05.2011, Marienplatz
+- TOP .11.: Bennofest am 28.05.2011, Odeonsplatz
+- TOP .12.: Sozialpolitisches Sommerfest am 06.06.2011, Odeonsplatz
+- TOP .13.: Lange Nacht der Musik am 28.05.2011, Odeonsplatz
+- TOP .14.: Malaktion am 21./22.05.2011, Odeonsplatz
+- TOP .15.: Infoveranstaltung 50 Jahre Amnesty am 28.05.2011, Rindermarkt
+- TOP .16.: Aktionstag ?Klima erleben? am 26.05.2011, Odeonsplatz
+- TOP .17.: NACHTRAG: Streetlife Festival / Corso Leopold am 05.06.2011
+- TOP .18.: NACHTRAG: Radltour am 01.06.2011, Max-Joseph-Platz
+- TOP .19.: NACHTRAG: Straßenfest in der Mariannenstraße am 02.07.2011
+- TOP .20.: NACHTRAG: Stadtmaiandacht m 28.05.2011, Marienplatz
+- TOP .1.: Öffentliche WC-Anlagen-Strategiekonzept
+- TOP .2.: Antrag des BA 12 zur Aufstellung der ?Mega-Lights? im Rahmen des Werbe-nutzungsvertrags
+- TOP .1.: Bürger: Busparkplätze vor den Anwesen Thomas-Wimmer-Ring 3-7
+- TOP .2.: Bürger: Lärm und Luftverschmutzung durch erhöhtes Taxiverkehrsaufkommen
+- TOP 1: (E) Entfernen des Telekom-Kastens im Baumgraben Liebigstr. 39 Empfehlung Nr. 02-08 / E 00646 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 28.11.2006
+- TOP 2: (E) Weitere Verbesserung der Radwegsituation (Ziffer 2) Freigabe der Lerchenfeldstraße nördlich der Paradiesstraße für Fahrradfahren gegen die Einbahnrichtung (Ziffer 1) Erlaubnis für Fahrradfahren auf dem Fußweg in der Lerchenfeldstraße südlich der Paradiesstraße (Ziffer 2)
+- TOP 2.1.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 2.2.: Leistungsprogramm 2012 der MVG
+- TOP 2.3.: Freigabe von Einbahnstraßen in der Altstadt für den gegenläufigen Radverkehr
+- TOP 2.4.: Baumfällung Reitmorstraße 52
+- TOP 2.5.: Umbauhaltestellen Isartorplatz
+- TOP 2.6.: Baumfällung Müllerstraße 12
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Theater des hölzernen Gelächters Theaterproduktion von Juni bis September 2011
+- TOP 2.1.: 18.jetzt ? Fest junger Erwachsener am 08.10.2011
+- TOP 2.2.: NACHTRAG: Sozialklimastudie
+- TOP 2.1.: Verwendungsnachweis der Fußballstunde 2010
+- TOP 2.1.: Jährliches Treffen mit dem Referat für Bildung und Sport am 11.05.2011 um 16.00 Uhr, Bayerstraße 28, Raum 5.074
+- TOP 2.2.: Verteilung der städtischen Telefonbüchern an alle BA-Mitglieder
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Beschluss des Planungsausschusses vom 13.04.2011: Erhaltungssatzung Gärtner-platzviertel
+- TOP 0.5.: Baugenehmigung Gewürzmühlstraße 7-13 (XII Apostel)
+- TOP 0.6.: Antrag des BA 7 bezüglich Spielhallenproblematik
+- TOP 0.7.: Baugenehmigung Müllerstraße 3 - 7
+- TOP 0.8.: Beschluss des Planungsauschusses
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: (E) Abstellen von Fahrrädern gewerblicher Unternehmen in der Neuturm-/Hochbrückenstraße und am Thomas-Wimmer-Ring (Ziffer 3 des Antrags)
+- TOP 0.6.: (E) Entfernung eines Obst- und Gemüsestandes auf dem Thierschplatz (Ziffer 1)
+- TOP 0.7.: Eilentscheidung zur Info-Veranstaltung ?Walk of Liberty? vom 19.05 ? 21.05.2011 in der Neuhauser Straße
+- TOP 0.8.: Informationen zu den Voraussetzungen für Marktstandorte
+- TOP 0.9.: Information über die Entfernung von unerlaubter Sondernutzung in Form von 3 Pflanzgefäßen und einer Bank
+- TOP 0.10.: Eilentscheidung zur Veranstaltung ?Radlschau? am 16.05.2011, Odeonsplatz, Frist: 09.05.2011
+- TOP 0.11.: Eilentscheidung zur Veranstaltung Aktionstag des BRK am 07.05.2011, Marienplatz, Frist: 02.05.2011
+- TOP 0.12.: Eilentscheidung zur Informationsveranstaltung ?Israeltag? am 10.05.2011, Max-Joseph-Platz, Frist: 02.05.2011
+- TOP 0.13.: Baugenehmigung Gewürzmühlstraße 7-13 (XII Apostel), siehe unter B 4.5
+- TOP 0.1.: Verkehrsrechtliche Anordnung: Versetzung von 2 Behindertenparkplätzen in der Maxi-milianstraße
+- TOP 0.2.: Verkehrsrechtliche Anordnung: Ausweisung eines Zweirichtungsradweges am Thomas-Wimmer-Ring zwischen Maximilianstraße und Knöbelstraße
+- TOP 0.3.: Verkehrsrechtliche Anordnung: Umwandlung Kfz-Stellplätzen in Fahrradabstellplätze
+- TOP 0.4.: Beschluss des Bauausschusses vom 29.03.2011: Brücke Maximilianstraße über den Fabrikbach - Ausfühungsgenehmigung
+- TOP 0.5.: Antwortschreiben des KVR: Der Verlängerung der Probephase der LZA Oettingen-/Tivolistraße wird zugestimmt
+- TOP 0.6.: Barrierefreier Umbau des S-Bahn-Hp Karlsplatz
+- TOP 0.7.: Öffnung des Radweges am östlichen Thomas-Wimmer-Ring für den Zweirichtungsverkehr
+- TOP 0.8.: Prüfung zweier Vorschläge für neue Zweirichtungs-Radverkehrsverbindungen
+- TOP 0.9.: Vollzug des Bundes-Immissionsschutzgesetztes: Baustelle Maximilianstraße
+- TOP 0.10.: Vollzug des Bundes-Immissionsschutzgesetztes: Baustelle Prinzregentenstraße
+- TOP 0.1.: Neue Bäderpreise der SWM
+- TOP 0.2.: Rahmenkonzeption für KinderTagesZentren der LHM (Katalog im UA-Fach)
+- TOP 0.3.: Protokoll zur BA-Infoveranstaltung mit dem Sozialreferat am 29.11.2010
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .3.2: Sonstige
