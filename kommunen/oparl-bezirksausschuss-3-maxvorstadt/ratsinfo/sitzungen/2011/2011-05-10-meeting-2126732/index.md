@@ -1,0 +1,98 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-05-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126732
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126732
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.2.: Schreiben der Deutsch Immobilien ? Verwaltung GmbH vom 11.04.2011 Wirtsgarten, Amalienstraße 40 (s. TOP C 2.3.2)
+- TOP 5.2.4.: E-Mail eines Bürgers vom 19.04.2011 Abschaltung der Ampel an der Ecke Kardinal-Döpfner-Straße/Oskar-von-Miller-Ring
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Liste der Bauvorhaben 13., 14., 15., 16. KW
+- TOP 2.1.2.: Bauvorhaben Sophienstraße 2, Nutzungsänderungen (Vordergebäude und Rückgebäude) von Wohnun- gen zu Büro
+- TOP 2.1.3.: Staatliches Bauamt München 2 der Technischen Universität München Einbau einer Behindertenrampe am Haupteingang Arcisstraße 21 mit Vordach Anhörung
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Ludwigstraße 23, ein Ahorn
+- TOP 2.2.2.: Ludwigstraße 18, zwei Japanische Blütenkirschen
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.2.: Leistungsprogramm der MVG, Anhörung Die Unterlagen wurden an den UA-Vorsitzenden, die Fraktionen und den Vorstand elektronisch versandt. Ein Postversand erfolgt nicht.
+- TOP 2.1.3.: Baureferat Asphaltierung und Einrichtung von Parkbuchten in der Georgenstraße (Ziffer 2) Empfehlung Nr. 02-08 / E 00893 der BV des BA 3 am 24.10.2007 Sitzungsvorlage Nr. 08-14 / V 06152
+- TOP 2.1.4.: Kreisverwaltungsreferat, Verkehrsmanagement Empfehlung Nr. 08-14 / E 00811 der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt am 09.12.2010 Sitzungsvorlage Nr. 08-14 / V 06078 Fußgänger- und Radfahrerampel an der Kreuzung Nymphenburger-/Sandstraße: auch abends Dauerbetrieb statt Bedarfsfunktion (Ziffer 2 des Antrages) vertagt aus der Sitzung 03/2011, TOP C 2.1.4 und 04/2011 TOP C 2.1.2 Unterlagen liegen bereits vor
+- TOP 2.1.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Anhörung Verkehrsrechtliche Anordnung nach § 45 StVO Einrichtung eines allgemeinen Behindertenparkplatzes in der Amalienstraße 17
+- TOP 2.1.6.: Nahverkehrsplan der Landeshauptstadt München, Anhörung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.02.2011 Sitzungsvorlage Nr. 08-14 / V 05592
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kommunalreferat, Anhörung ?Öffentliche WC-Anlagen-Strategiekonzept? Entwurf einer Beschlussvorlage zur Stellungnahme
+- TOP 2.2.2.: Entscheidungen über Sondernutzungserlaubnisse Georgenstraße 35, Obstverkaufsstand (Neuantrag)
+- TOP 2.2.3.: Schreiben des BA 12 Schwabing-Freimann vom 20.04.2011 Der BA 12 bittet um Unterstützung und Mithilfe gegen die ?Werbewut? (s. Werbenutzungs- vertrag der Landeshauptstadt München, TOP F 2.17/0411)
+- TOP 4: (E) Begrünung der Karlstraße zwischen Seidl- und Pappenheimstraße (Ziffer 1 des Antrags) Empfehlung Nr. 08-14 / E 00810 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 09.12.2010
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Entscheidungen über Sondernutzungserlaubnisse (Freischankflächen) a) Amalienstraße 28, zusätzliche Freischankfläche b) Kurfürstenstraße 8, Erweiterung einer bestehenden Freischankfläche c) Nordendstraße 7 a, Erweiterung einer bestehenden Freischankfläche d) Görresstraße 38, Genehmigung einer Freischankfläche e) Brienner Straße 10, Erweiterung einer bestehenden Freischankfläche f) Theresienstraße 56, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: Schreiben der Deutsch Immobilien ? Verwaltung GmbH vom 11.04.2011 Wirtsgarten, Amalienstraße 40
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, VVB, Anhörung Skateworkshop an verschiedenen Terminen, Skateanlage Maßmannpark
+- TOP 2.4.2.: Große Fronleichnamsprozession ab Marienplatz am 23.06.2011
+- TOP 2.4.3.: Der Wittelsbacherplatz kann für Veranstaltungen inklusive Auf- und Abbauzeit maximal 90 Kalendertage pro Jahr belegt werden Dauer und Termine der Veranstaltungen werden möglichst frühzeitig bekannt gegeben.
+- TOP 2.4.4.: Kreisverwaltungsreferat, VVB, Anhörung Radlnacht mit Start am Bavariapark und Programm am Bavariapark am 21.05.2011 im Rahmen der Fahrradmarketingkampagne der Stadt München
+- TOP 2.4.5.: Kreisverwaltungsreferat, VVB, Anhörung Gemeinsamer Tag der offenen Tür des Bayerischen Staatsministeriums des Innern und der Finanzen am 02.07.2011 auf dem Wittelsbacherplatz und dem Odeonsplatz
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Direktorium 18. jetzt ? Fest junger Erwachsener im Rathaus am 08.10.2011
+- TOP 2.2.: Baureferat BA-Antrag Nr. 08-14 / B 02829 des BA 3 vom 15.03.2011 Sandspielplätze im Süden des Maßmannparkes Antwortschreiben des Baureferates
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Maxvorstadt" Druckkostenzuschuss für das Buch "Chronik der Kunstgiesserei in der Maxvorstadt"
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bazuordnung, Beschlussvollzugskontrolle; (BVK) Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Staddtrates im Zeitraum 01.07.2010 bis 31.12. 2011 Sitzungsvorlage Nr. 08-14 / V 06440
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Regionsbericht 2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 Sitzungsvorlagen Nr. 080-14 / V 06378
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung Langfristige Siedlungsentwicklung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 14.04.2011 Sitzungsvorlagen Nr. 08-14 / V 06361
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung Perspektive München ? Fortschreibung 2011, Leitmotiv, strategische Leitlinien Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 Sitzungsvorlagen Nr. 08-14 / V 06446
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Stadtplanung Schreiben vom 18.04.2011 an das Eisenbahnbundesamt Gesamtstädtische Stellungnahme zur Plangenehmigung für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz (s. TOP B 2.1.3/0411)
+- TOP 1.6.: Antrag des BA 7 Sendling-Westpark Der BA 7 fordert die Landeshauptstadt München auf, durch entsprechende Maßnahmen auf allen politischen Ebenen (Bund, Freistaat und Kommune) die Spielsucht wirksam einzu- dämmen
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement verkehrsrechtliche Anordnung, Öffnung der Georgenstraße zwischen Arcis- und Nordend- straße für den gegenläufigen Radverkehr
+- TOP 2.2.: Baumaßnahmen der Stadtwerke München Augustenstsraße 98, Fernwärme Amalienstraße, Fernwärme Ottostraße 9, Fernwärme
+- TOP 2.3.: Kreisverwaltungsreferat, VVB, Erlaubnisbescheid Verkehrsparcours der Verkehrspolizeiinspektion auf dem Wittelsbacherplatz, 11.04.2011
+- TOP 2.4.: Kommunalreferat Antwortschreiben zur Anfrage des BA 3 an das Kommunalreferat (s. TOP C 2.1.4/0111) vom 08.02.2011 zum Busparkverbot im Umfeld des Zentralen Omnibusbahnhofes (ZOB)
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement Beantwortung des Schreibens eines Bürgers an den Herrn Oberbürgermeister durch das KVR vom 18.04.2011, Ladezone in der Sandstraße, Supermarkt ?Penny?
+- TOP 2.6.: Kreisverwaltungsreferat, VVB Genehmigungsbescheid für das Straßenfest der Gesellschaft für die Öffentlichkeitsarbeit Bayerischer Brauereien e.V. am 02.05.2011
+- TOP 2.7.: Schreiben des Eigenbetriebes Markthallen München vom 13.04.2011 Information der Münchner Bezirksausschüsse über die wesentlichen Voraussetzungen, die ein Marktstandort erfüllen muss.
+- TOP 2.8.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der geräte- und Maschinen- lärmschutzverordnung (32. BimSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchG, Schellingstraße 23, Aushub- und Verfüllarbeiten für Fernwärmeanschluss
+- TOP 3.1.: Referat für Bildung und Sport, Beschlussvorlage für den Kinder- und Jugendhilfeausschuss des Stadtrates vom 12.04.2011 Investitionskostenförderung gem. der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008 ? 2013 Kinderkrippe Karlstraße 48 ? 50 (InitiativGruppe Interkulturelle Begegnung und Bildung e.V.) Sitzungsvorlage Nr. 08-14 / V 06294
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Schreiben des Herrn Oberbürgermeister an die BA-Vorsitzenden vom 31.03.2011 Stadt klärt mit Flugblättern über von Rechtsextremen verbreitete Vorurteile auf (die Flugblätter befinden sich im Umlaufordner)
+- TOP 3.4.: Stadtwerke München GmbH Information über neue Bädereintrittspreise
+- TOP 3.5.: Sozialreferat, Sozialplanung Protokoll der BA-Infoveranstaltung des Sozialreferates am 29.11.2010
+- TOP 3.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Kultur
+- TOP 4.1.: Der BA 12 Schwabing-Freimann bittet um Unterstützung seines Antrages Nr. 08-14 / B 02860 vom 29.03.2011 Verteilung der städtischen Telefonbücher an alle BA-Mitglieder
+- TOP 4.2.: Kinder- und Bürgerfest des BA 3 im Jahr 2010 Antrag auf Mittel aus der 20%-Pauschale des Jahres 2010 in Höhe von 2.233,70 ?
+- TOP 4.3.: entfällt
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.1.1.: E-Mail eines Bürgers aus der Maxvorstadt vom 07.04.2011 parkende Fahrräder in der Augustenstraße gegenüber Hausnummer 118 Wegfall von Parkplätzen
+- TOP 2.3.: Schreiben von Bürgern aus der Maxvorstadt vom 15.04.2011 Hortplätze in der Maxvorstat
+- TOP 3: Aktuelle Sachstandsberichte
