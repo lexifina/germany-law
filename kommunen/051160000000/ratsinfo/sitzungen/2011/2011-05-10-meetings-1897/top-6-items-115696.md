@@ -1,0 +1,8 @@
+# TOP 6: Brunnenpaten bzw. Stilllegung von Brunnen
+
+- Sitzung: Bezirksvertretung West (2011-05-10)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/115696
+- Ergebnis: Mit Änderung beschlossen (s. Niederschrift)
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/12568
