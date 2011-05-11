@@ -1,0 +1,6 @@
+# TOP 4: Vorlagen und Berichte zum Aufgabenfeld Arbeitsförderung
+
+- Sitzung: Sitzung (2011-05-11)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/105379
