@@ -1,0 +1,99 @@
+# 52. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-05-11T17:10:00+02:00
+- Ende: 2011-05-11T22:05:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2591
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2591
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=52271
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 3.1: Wahl eines stellvertretenden Bürgerdeputierten in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.1: Zugänglichkeit Humboldt-Insel (Ersuchen 09.03.2011 und 06.04.2011) - überwiesen
+- TOP 5.2: Stellplatzobergrenzenverordnung (Empfehlung 09.03.2011 und 06.04.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.3: Verteilung der Geschäftsbereiche im Bezirksamt und Vertretung der Bezirksamtsmitglieder in ihren Geschäftsbereichen (Vorlage zur Kenntnisnahme 06.04.2011) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.4: Situation im Humboldt-Klinikum (Große Anfrage 06.04.2011) - beantwortet
+- TOP 5.5: Wirtschaftsförderung XXL auf Flughafengelände TXL- Gründung einer Ansiedlungsagentur für das Flughafengelände (Beschlussempfehlung 06.04.2011) - erledigt
+- TOP 5.5.1: Wirtschaftsförderung XXL auf Flughafengelände TXL- Gründung einer Ansiedlungsagentur für das Flughafengelände - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Nachnutzung TXL - Vorrang für Arbeitsplätze (2) Vermarktungsoffensive (Beschlussempfehlung 06.04.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.7: Investitionsplanung 2011 bis 2015 (Beschlussempfehlung 06.04.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.8: Rettungseinsatzzeiten der Feuerwehr im Bezirk Reinickendorf (Ersuchen 06.04.2011) - mit Änderungen in der BVV beschlossen
+- TOP 5.9: Personalplanung Tegeler Forst (Empfehlung 06.04.2011) - erledigt
+- TOP 5.9.1: Personalplanug Tegeler Forst - ohne Änderungen in der BVV beschlossen
+- TOP 5.10: Für die Mieter im MV - Müllabwurfanlagen unter § 68 der Bauordnung doch möglich? (Empfehlung 06.04.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Hansa-Haus für soziale Zwecke erhalten (Empfehlung 06.04.2011) - erledigt
+- TOP 5.11.1: Hansa-Haus in Kühlungsborn - ohne Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Südtunnel des S-Bahnhofs Hermsdorf in sauberen Zustand bringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Verwendung des Gewinns des Haushaltsjahres 2007 II - überwiesen
+- TOP 7.3: Medienstückkosten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Migrantinnen/Migranten und Gesundheitsangebote - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Aufhebung der Austauschbarkeit der Fächer Kunst und Musik in den Klassenstufen 7 bis 9 der integrierten Sekundarschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Für die Zukunft planen: Personal - überwiesen
+- TOP 7.7: 50. Jahrestag des Mauerbaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Hinweisschilder im U-Bahnhof Paracelsus-Bad anbringen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Bessere Busanbindung Seniorenanlage Büdnerring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Zustand des U-Bahnhof Paracelsus-Bad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Wirtschaftsfreundlichster Bezirk Reinickendorf (2) - Speed-Vermittlungsbörse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Erstkontakte zu Familien mit Neugeborenen gewährleisten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Bezeichnung Schulen in freier Trägerschaft verwenden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-15 vom 30. April 2008 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Straßenausbaubeitragsgesetz - vertagt
+- TOP 8.2: Frühjahrsputz in Reinickendorf - vertagt
+- TOP 8.3: Alkoholverbot auf öffentlichem Straßenland - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Verbesserungsvorschläge für Radwege online - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Umsetzung der Baumaßnahme Alemannenstraße - vertagt
+- TOP 10.3: Umsetzung der Baumaßnahme Alemannenstraße - vertagt
+- TOP 10.4: Verkauf Insel Tegeler Hafen - vertagt
+- TOP 10.5: Wirtschaftsfreundlichster Bezirk Reinickendorf (4) Berufslotsen etablieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Verhandlungen im Zuge der Fortschreibung des Stadtentwicklungsplanes Verkehr - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Winterschädenbeseitigung - vertagt
+- TOP 10.8: Transparenz in der Alemannenstraße - erledigt
+- TOP 10.9: Nachhaltiges Mobilitätskonzept für künftigen Industriepark Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Open-Air-Kulturveranstaltungen I - erledigt
+- TOP 10.11: Patenschaften zwischen Kindertagesstätten und Senioreneinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Haushalts-Sonderprogramm Winter 2010/2011 - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Personenfährverkehr zu Inseln in Tegel aufrechterhalten - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Nachnutzung TXL - Vorrang für Arbeitsplätze (4): Verkehrserschließungskonzept - vertagt
+- TOP 10.15: Sprachförderklassen einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Parken am Friedhof Hainbuchenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Einhaltung der Kampfhundeverordnung kontrollieren - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Mehr Grundschulplätze im Märkischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Fuß- und Radweg entlang der B96 - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Seniorenfreundlicher Bezirk Reinickendorf - Beratungsstelle Patientenverfügung auch im Bezirksamt - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Grüne Gestaltung der Weißen Stadt - in der BVV abgelehnt
+- TOP 10.22: Nachfrageorientierte Schulplanung - vertagt
+- TOP 10.23: Musiktexte - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Änderung der Geschäftsordnung - Versand der Einladungen und Sitzungsunterlagen - überwiesen
+- TOP 10.25: Änderung der Geschäftsordnung - § 24 a (1) und § 39 (2) - vertagt
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Sicherheitsbedürfnis in Tegel - überwiesen
+- TOP 12.2: Auswirkungen Kürzungen des Eingliederungstitels - überwiesen
+- TOP 12.3: Naturschutz auf der NEB-Insel durchsetzen - überwiesen
+- TOP 12.4: Niedrigschwellige Sportangebote - überwiesen
+- TOP 12.5: Moratorium Alemannenstraße - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Sicherheit in Reinickendorf (4) - Kriminalitätsbelastungsatlas jährlich für alle Ortsteile - überwiesen
+- TOP 13.2: Zustand Gebäude Senftenberger Ring 7-11 - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Alle Kitas des Eigenbetriebes von 6 bis 18 Uhr öffnen - 12-Stunden-Angebot gewährleisten - überwiesen
+- TOP 13.4: Heidekrautbahn endlich umsetzen - vertagt
+- TOP 13.5: Fortbestand der Müllschlucker bei Einhaltung ökologischer und hygienischer Kriterien - in der BVV abgelehnt
+- TOP 13.6: Zusätzliche Klappschilder in Hermsdorf / Badeverkehr in Lübars - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Erhalt von sonderpädagogischer Förderung - überwiesen
