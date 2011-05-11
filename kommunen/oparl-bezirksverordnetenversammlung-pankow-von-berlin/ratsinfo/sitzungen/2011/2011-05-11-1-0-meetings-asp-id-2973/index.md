@@ -1,0 +1,89 @@
+# 42. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-05-11T17:30:00+02:00
+- Ende: 2011-05-11T22:05:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2973
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2973
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=44638
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Aktuelle Stunde zum Thema "Rangierbahnhof Pankow" - erledigt
+- TOP 1.5: Dringlichkeitsanträge - erledigt
+- TOP 1.6: Mündliche Anfrage - erledigt
+- TOP 1.7: Bericht des Bezirksamtes - erledigt
+- TOP 1.8: Konsensliste - erledigt
+- TOP 1.9: Wahl der Mitglieder des Ehrenamtlichen Dienstes im sozialen Bereich - Sozialkommissionen - - gewählt
+- TOP 1.10: Besetzung der Fachbereichsleiterstelle Stadtbibliothek im Amt für Kultur und Bildung - überwiesen
+- TOP 1.11: Neubau der Friedrich-Engels-Straße einschließlich Wilhelmsruher Damm vom Pastor-Niemöller-Platz bis zum Knoten Wilhelmsruher Damm/Quickborner Straße, hier: 2. Bauabschnitt von der Platanenstraße bis zur Nordendstraße, Ortsteil Niederschönhausen - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Erhaltungsverordnung gemäß § 172 Abs.1 Satz 1 Nr. 1 des Baugesetzbuchs (BauGB) für die Wohnanlage Belforter Straße 5-8, Straßburger Straße 33-36, Metzer Straße 35-37 im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: WLAN für die BVV-Arbeit einrichten - in der BVV abgelehnt
+- TOP 1.14: Erfolgreiche Bildung braucht solide Finanzbasis - in der BVV abgelehnt
+- TOP 1.15: Mehrgenerationenpark für Bewegung und Spiel - in der BVV abgelehnt
+- TOP 1.16: Geordnete städtebauliche Entwicklung in Blankenburg - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Seniorengerechte Bibliotheken - Ehrenamtliche Medienboten - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Besseren Zugang zum S-Bahnhof Wollankstraße schaffen - in der BVV abgelehnt
+- TOP 1.19: Bestandsaufnahme Quartiersprägende Plätze - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Bessere Ausstattung des Veterinär- und Lebensmittelaufsichtsamtes - vertagt
+- TOP 1.21: Übersicht über die Verkehrssicherheit auf Gehwegen und Fahrbahnen - vertagt
+- TOP 1.22: Verbesserung der Querungssituation in der Schönhauser Allee - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Beschränkung des Parkverbots vor der Kita in der Busonistraße 145 - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Der Mauerpark - Ein Park für alle Generationen - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Schallschutzmaßnahmen entlang der Stettiner Bahn - überwiesen
+- TOP 1.26: Entwicklung des Rangier- und Güterbahnhofs Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Sozialer Mieterschutz beim Modernisierungsvorhaben der EWG - überwiesen
+- TOP 1.28: Transparenter Planungs- und Beteiligungsprozess zum Rangierbahnhof Pankow - vertagt
+- TOP 1.29: Verbesserung der Querungssituation in der Berliner Straße - überwiesen
+- TOP 1.30: Klausel zur "Demokratieerklärung" streichen - vertagt
+- TOP 1.31: Verbesserung der Sicherheit von Radfahrern an Kreuzungen mit Lichtzeichenanlagen - überwiesen
+- TOP 1.32: Kita-Platz-Suche erleichtern - überwiesen
+- TOP 1.33: Hilfen zur Erziehung (HzE) - vertagt
+- TOP 1.34: Teilhabekonzept Menschen mit Beeinträchtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: "Bürgerarbeit" mit Landesmitteln auch in Pankow - vertagt
+- TOP 1.36: Transparente Bewirtschaftung der Lehr- und Lernmittel - vertagt
+- TOP 1.37: Erhebung von Beiträgen nach dem Straßenausbaubeitragsgesetz aussetzen - vertagt
+- TOP 1.38: "Stolperstein"-Projekt sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Verbraucherinformation zu Ökostrom - überwiesen
+- TOP 1.40: Hinweisschild Einbahnstraße in der Walter-Friedrich-Straße - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Historische Aufklärung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Neue Impulse für den Agendaprozess in Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Zusammenleben im Bezirk Pankow - vertagt
+- TOP 2.4: Schwimmhalle Pankow: Tür offenhalten - Moratorium beantragen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Ausstellung über schwulenfeindliche Gewalt präsentieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Armutskonferenz - vertagt
+- TOP 2.7: Wohnungslosigkeit abbauen - Hilfeangebote optimieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Mauerpark fertig stellen - jetzt. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Grundstücksangelegenheit Sportstätte Berliner Allee 127 in 13088 Berlin (OT Weißensee) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Fortschreibung StEP Verkehr - vertagt
+- TOP 2.12: Kultur im Ernst-Thälmann-Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: KfW-Kredite für unsere Schulen nutzen! - vertagt
+- TOP 2.14: Kulturelle Angebote im Zentrum von Alt-Pankow verbessern und attraktiver machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Ablaufplan zur Entwicklung der Fläche des ehemaligen Rangier- und Güterbahnhofes Pankow erarbeiten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Monatliche Übersicht für Straßenbaumaßnahmen - vertagt
+- TOP 2.17: Zebrastreifen und Tempo 30 am Karower Damm - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Botanische Vielfalt Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Fassadengrün auch im Bezirksamt erhalten und pflegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Buslinie 155 direkt an den S-Bahnhof Schönholz anbinden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Attraktive Fassadengestaltung im Pankower Ortsteil Buch - vertagt
+- TOP 2.22: Alternativen für die Initiativen im Eliashof - jetzt! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.23: Schönheit vor Recht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Bolzplatz Pasewalker Straße erhalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Benennungsabsicht für eine Privatstraße im Ortsteil Prenzlauer Berg in "Edith-Stein-Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Fortschreibung der Kosten- und Finanzierungsübersichten 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Information zum Jahresabschlussergebnis 2010 des Bezirks Pankow von Berlin - vertagt
+- TOP 2.28: Information über die Anzeige eines Bürgerbegehrens zur Kastanienallee in Berlin - Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: 2. Information über die Änderung der Anzeige eines Bürgerbegehrens zur Kastanienallee in Berlin - Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Aufhebung der Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 3 des Baugesetzbuchs für das Gebiet „Grüne Stadt“ im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg, vom 13. November 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Bebauungsplanentwurf 3-27 für das Grundstück Rykestraße 33 und Rykestraße 34 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Benennung von 42 Privatwegen in der Anlage Blankenburg in den Ortsteilen Blankenfelde und Französisch Buchholz - mit Abschlussbericht zur Kenntnis genommen
