@@ -1,0 +1,61 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-05-12T17:00:00+02:00
+- Ende: 2011-05-12T20:13:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3581
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3581
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00158938.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00158938.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00158938.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Solar- und Wärmekataster im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 4: Grundwassersituation im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Taubensituation Gumbertstraße - zur Kenntnis genommen
+- TOP 6: BPl6372/002-Elbsee(Wellness)-Stellung.;Änd.;Satz - mehrheitlich beschlossen
+- TOP 7: Eller Kamp / Kamper Weg - Umgestaltung des Knotenpunktes und Markierung von Schutzstreifen - zur Kenntnis genommen
+- TOP 8: Verkehrsentlastung Sturmstraße - vertagt
+- TOP 9: Zuschuss an die Turn- und Sportvereinigung Eller e.V. - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im 2. Halbjahr 2011 - einstimmig beschlossen
+- TOP 12: Öffentliche Beleuchtung in der Straße "Stockgartenfeld" - einstimmig beschlossen
+- TOP 13: Zuschüsse der Bezirksvetretung 8 im Jahre 2011 - mehrheitlich beschlossen
+- TOP 14: Parkplatzkonzept Dreifachturnhalle Unterbach - beantwortet
+- TOP 15: Straßenreinigung in Neubaugebieten des Stadtbezirks 8 - beantwortet
+- TOP 16: Sozialer Mietwohnungsbestand im Stadtbezirk 8 - beantwortet
+- TOP 17: Taubenturm Parkplatz Gumbertstraße - beantwortet
+- TOP 18: Lärmentwicklung Bahnanlage Dillenburger Weg
+- TOP 19: Grundstück Sodener Weg / Sturmstraße - beantwortet
+- TOP 20: Arztversorgung im Stadtbezirk 8 - beantwortet
+- TOP 21: Umgestaltungsmaßnahmen Unterbacher See - beantwortet
+- TOP 22: Geschwindigkeitsregelung Gubener Straße - beantwortet
+- TOP 23: Bahngelände Eller Kamp
+- TOP 24: LKW-Verkehr im Bereich Posener Straße
+- TOP 25: Buslinie 732
+- TOP 26: Fahrbahnbelag Karl-Geusen-Straße
+- TOP 27: Grünfläche Fuß- / Radweg Karlsruher Straße
+- TOP 28: Gehweg Sturmstraße
+- TOP 29: Grünfläche Am Dammsteg
+- TOP 30: Parkplatz Eller-Mitte
+- TOP 31: Plangebiet Am Kleinforst
+- TOP 32: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich
+- TOP 33: Öffentliche Beleuchtung in der Straße „Stockgartenfeld"
+- TOP 34: Parkplatz Festenbergstraße, Verkehrsführung
+- TOP 35: Jägerstraße 13, Polleraufstellung
+- TOP 36: Bolzplatz Eller Kamp
+- TOP 37: Kinderspielplätze Bunzlauer Weg / Sandträgerweg und Waldecker Platz
+- TOP 38: Gumbertstraße, Fahrbahnmarkierung
+- TOP 39: Parkplatz Festenbergstraße
+- TOP 40: Anmeldezahlen Grundschulen und weiterführende Schulen im Stadtbezirk 8
+- TOP 41: Straßenreinigungspflicht im Bereich von Kleingärten im Stadtbezirk 8
+- TOP 42: Vertragsärztlich tätige Haus- und Fachärzte im Stadtbezirk 8
+- TOP 43: Vermarktung Gewerbeflächen Lierenfeld
+- TOP 44: Linienkonzept 715 und U75
