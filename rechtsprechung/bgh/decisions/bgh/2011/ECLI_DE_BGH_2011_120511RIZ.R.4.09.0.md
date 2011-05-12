@@ -1,0 +1,515 @@
+---
+ecli: "ECLI:DE:BGH:2011:120511RIZ.R.4.09.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "DienstgerichtBund"
+aktenzeichen: "RiZ(R) 4/09"
+decided: "2011-05-12"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2011&Sort=1&Seite=47&nr=57039&anz=3712&pos=1420&Blank=1.pdf"
+corpus_doc_id: "BGH_DienstgerichtBund_NA_2011-05-12_NA_RiZR_4_09_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/drig/0026.md", "germany/bund/acts/drig/0065.md", "germany/bund/acts/drig/0080.md", "germany/bund/acts/drig/0083.md", "germany/bund/acts/gkg_2004/0071.md", "germany/bund/acts/vwgo/0073.md", "germany/bund/acts/vwgo/0155.md"]
+---
+
+# Bundesgerichtshof, RiZ(R) 4/09 vom 2011-05-12
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                  IM NAMEN DES VOLKES
+
+                              URTEIL
+RiZ(R) 4/09
+                                  vom
+
+                              12. Mai 2011
+
+
+                        in dem Prüfungsverfahren
+
+
+des Richters
+
+
+                                        Antragssteller und Revisionskläger,
+
+
+
+
+                                 gegen
+
+
+
+
+                                        Antragsgegner und Revisionsbeklagter,
+
+
+
+
+wegen    Anfechtung einer Maßnahme der Dienstaufsicht
+
+                                        -2-
+
+
+
+Der Bundesgerichtshof - Dienstgericht des Bundes - hat am 12. Mai 2011 ohne
+mündliche Verhandlung durch den Vorsitzenden Richter am Bundesgerichtshof
+Dr. Bergmann,    die    Richter    am     Bundesgerichtshof   Dr. Joeres   und
+Prof. Dr. Fischer, die Richterin am Bundesgerichtshof Safari Chabestari und
+den Richter am Bundesgerichtshof Pamp
+
+für Recht erkannt:
+
+
+      Auf die Revision des Antragstellers wird unter Zurückweisung seines weitergehenden Rechtsmittels das Urteil des Landgerichts
+      Würzburg - Bayerisches Dienstgericht für Richter - vom 16. Juni
+      2009 im Kostenpunkt und insoweit aufgehoben, als die Anträge zu
+      2c, 3a, 5 und 10 zurückgewiesen worden sind.
+
+      Es wird festgestellt, dass
+
+          a) die Äußerung "In unbegründeten Selbstablehnungen nimmt
+             der Richter immer wieder auf das damalige Strafverfahren
+             wegen Rechtsbeugung Bezug" im Schreiben des Präsidenten des Landgerichts Bayreuth an den Präsidenten des
+             Oberlandesgerichts Bamberg vom 16. Februar 2007;
+
+          b) die Äußerung "Die von ihm gemachte (private) Erfahrung
+             hat der Richter in einer anderen Bußgeldsache sofort herangezogen (Bußgeldsache M.             )" im Gutachtensauftrag des Präsidenten des Landgerichts Bayreuth an die
+             Regierung von Oberfranken vom 11. April 2007;
+
+          c) die Äußerung des Präsidenten des Landgerichts Bayreuth
+             "Aber natürlich hat das Gericht ein Problem mit einem Rich-
+
+                                           -3-
+
+
+
+                 ter, der seit einem Jahrzehnt in Nachbarschaftsstreitigkeiten verwickelt ist. Schließlich widerspricht dies dem richterlichen Mäßigungsgebot" in einem Interview der Süddeutschen Zeitung vom 20. September 2007;
+
+              d) die Bescheidung des Widerspruchs des Antragstellers vom
+                 15. Juni 2008 durch einen beauftragten Richter (Widerspruchsbescheid des Präsidenten des Oberlandesgerichts
+                 Bamberg vom 10. September 2008 - Az. 2050/II-IVb/12 -
+                 512/2008)
+
+          unzulässig waren.
+
+          Von den Kosten des Verfahrens tragen der Antragsteller zwei Drittel und die Staatskasse ein Drittel.
+
+
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+1         Der Antragsteller war seit 16. September 1979 im Richterverhältnis auf
+    Lebenszeit Richter am Amtsgericht            ; dort war er seit 1999 in Betreuungs-, Vormundschafts- und Pflegschaftssachen für Minderjährige sowie in
+    Verschollenheitssachen eingesetzt. Mit Ablauf des 8. März 2011 ist der Antragsteller auf seinen Antrag in den Ruhestand versetzt worden.
+
+                                          -4-
+
+
+
+2            Der Präsident des Landgerichts Bayreuth gab dem Antragsteller am
+    11. April 2007 - nach vorheriger Anhörung - einen der Regierung von Oberfranken zugeleiteten Gutachtensauftrag zur Erstellung eines amtsärztlichen Zeugnisses zu einer möglichen dauerhaften Dienstunfähigkeit des Antragstellers bekannt.
+
+3            Der Antragsteller erhob gegen die Untersuchungsanordnung Widerspruch, der mit Bescheid des Präsidenten des Oberlandesgerichts Bamberg
+    vom 16. Juli 2007 zurückgewiesen wurde. Daraufhin beantragte der Antragsteller am 31. Juli 2007 beim Landgericht Würzburg - Bayerisches Dienstgericht für
+    Richter - die Aufhebung der Anordnung. Das Dienstgericht verwies das Verfahren an das Verwaltungsgericht Bayreuth. Dieses wies die gegen die Untersuchungsanordnung des Präsidenten des Landgerichts Bayreuth gerichtete Klage
+    mit Urteil vom 1. August 2008 ab und verpflichtete den Freistaat Bayern auf einen Hilfsantrag des Antragstellers zugleich zu einer Neubescheidung seines
+    Antrags auf Aufhebung der Untersuchungsanordnung.
+
+4            Mit Verfügung vom 20. Oktober 2008 hob der Präsident des Landgerichts
+    Bayreuth die Untersuchungsanordnung mit der Begründung auf, es lägen keine
+    Krankheitstage mehr vor und auch sonst hätten sich keine Auffälligkeiten mehr
+    gezeigt.
+
+5            In einem anderen Verfahren vor dem Verwaltungsgericht, in dem der Antragsteller mit seiner Klage eine Verletzung der Fürsorgepflicht geltend gemacht
+    hatte, erklärte der Präsident des Landgerichts Bayreuth am 2. Februar 2009
+    "die Angelegenheit für erledigt"; eine Wiederholungsgefahr bestehe nicht. Das
+    Verfahren wurde eingestellt, soweit der Antragsteller Klageanträge zurückgenommen oder die Parteien die Hauptsache übereinstimmend für erledigt erklärt
+    hatten; im Übrigen wurde die Klage abgewiesen.
+
+                                         -5-
+
+
+
+6         Zuvor hatte sich der Antragsteller mit einer Eingabe vom 16. Oktober
+    2007, die er durch weitere Schreiben ergänzte, an den Bayerischen Landtag
+    gewandt. Das Bayerische Staatsministerium der Justiz nahm hierzu gegenüber
+    dem Präsidenten des Bayerischen Landtags mit Schreiben vom 29. Januar
+    2008 und 26. Juni 2008 Stellung. In dem Schreiben vom 29. Januar 2008 war
+    unter anderem ausgeführt, die Behauptung des Petenten, er habe seine Arbeit
+    beanstandungsfrei geführt, sei unzutreffend. Nach Auskunft des Präsidenten
+    des Landgerichts Bayreuth sei es seit Jahren zu einer Vielzahl von Beschwerden und Beanstandungen seiner Tätigkeit wegen verzögerter Sachbehandlung
+    gekommen. Zudem sei die Nichterreichbarkeit des Richters seit Jahren ein
+    Dauerproblem.
+
+7         In dem Schreiben vom 26. Juni 2008 hieß es unter anderem, es sei aufgrund der ungewöhnlich hohen Zahl von Abwesenheitstagen des Antragstellers
+    wiederholt zu Nachfragen und Beschwerden wegen verzögerter Sachbehandlung und Nichterreichbarkeit gekommen. Bis zur Untersuchungsanordnung hätten fünf schriftliche Dienstaufsichtsbeschwerden wegen zögerlicher Sachbehandlung vorgelegen. Der diesen Beschwerden zugrunde liegende Sachverhalt
+    und die hierzu ergangene Entscheidung des Präsidenten des Landgerichts Bayreuth waren in dem Schreiben vom 26. Juni 2008 kurz dargestellt.
+
+8         Mit Schreiben vom 15. Juni 2008 an den Präsidenten des Landgerichts
+    Bayreuth beantragte der Antragsteller die Durchführung eines Vorverfahrens/Widerspruchsverfahrens für einen Antrag an das Dienstgericht. In diesem
+    einzelne Passagen des vorliegenden Prüfungsverfahrens betreffenden Antrag
+    begehrte er zu erkennen, dass Schreiben des Präsidenten des Landgerichts
+    Bayreuth im Zusammenhang mit der Untersuchungsanordnung und dem Fürsorgepflichtverletzungsverfahren ihn in seiner richterlichen Unabhängigkeit beeinträchtigten. Mit Widerspruchsbescheid des Präsidenten des Oberlandesge-
+
+                                           -6-
+
+
+
+     richts Bamberg vom 10. September 2008 wurde der Widerspruch des Antragstellers vom 15. Juni 2008, ergänzt durch Schreiben vom 18. Juni 2008, zurückgewiesen. Das Schreiben war von Richter am Oberlandesgericht Bamberg
+     Dr. S. mit dem Zusatz "i. A." unterzeichnet. Richter am Oberlandesgericht Dr. S.
+     war nach der vom Präsidenten des Oberlandesgerichts Bamberg angeordneten
+     Geschäftsverteilung für die Verwaltungsabteilung des Oberlandesgerichts mit
+     der abschließenden Bearbeitung aller Widerspruchsverfahren betraut, die sich
+     gegen Entscheidungen der Präsidenten der Landgerichte richteten, und allgemein zur Unterzeichnung auch der abschließenden Bescheide befugt.
+
+9          Mit Schreiben vom 22. Juli 2008 und vom 14. August 2008 erhob der Antragsteller wegen der weiteren verfahrensgegenständlichen Beanstandungen
+     Widerspruch, der mit Bescheid des Präsidenten des Oberlandesgerichts Bamberg vom 21. Oktober 2008 und des Bayerischen Staatsministeriums der Justiz
+     vom gleichen Tag zurückgewiesen wurde.
+
+10         Mit Schreiben vom 12. September 2008 hat der Antragsteller beim Landgericht Würzburg – Bayerisches Dienstgericht für Richter – eine dienstgerichtliche Entscheidung wegen Verletzung seiner richterlichen Unabhängigkeit durch
+     Äußerungen und sonstige Maßnahmen des Präsidenten des Landgerichts Bayreuth im Zusammenhang mit der Untersuchungsanordnung beantragt. Er hat
+     sich dabei auch gegen Äußerungen in einem am 20. September 2007 in der
+     Süddeutschen Zeitung erschienenen Artikel gewandt, in dem die auf eine Presseanfrage in Bezug auf den Antragsteller erteilte Auskunft des Präsidenten des
+     Landgerichts Bayreuth zitiert wurde: "Aber natürlich hat das Gericht ein Problem
+     mit einem Richter, der seit einem Jahrzehnt in Nachbarschaftsstreitigkeiten
+     verwickelt ist … Schließlich widerspreche dies dem richterlichen Mäßigungsgebot." Außerdem hat er beanstandet, dass im Rahmen der Bearbeitung von
+     Dienstaufsichtsbeschwerden, die gegen ihn erhoben worden waren, der Präsi-
+
+                                          -7-
+
+
+
+     dent des Landgerichts Bayreuth in mehreren Fällen den Richter am Amtsgericht
+     R. beigezogen und ihm hierzu die jeweiligen Akten überlassen hatte.
+
+11         Im Einzelnen hat der Antragsteller folgende Ausführungen und Maßnahmen beanstandet:
+
+          1. im Schreiben vom 18. März 2008 an das Verwaltungsgericht Bayreuth
+              im Verfahren B 5 K 07.1220: "Das gilt auch für die Tatsache, dass es
+              beim Jourdienst immer wieder zu Unzuträglichkeiten gekommen ist"
+              und
+
+           2. im Schreiben vom 16. Februar 2007 an den Präsidenten des Oberlandesgerichts Bamberg PA I – 134:
+
+             a) "Herr W.     liegt im Dauerstreit mit … Ärzten, Pflege- und Betreuungspersonal";
+
+             b) "Auch beim Jourdienst kommt es immer wieder zu Unzuträglichkeiten … Vorkehrungen getroffen werden, um einen ordnungsgemäßen Ablauf zu gewährleisten und Eigenwilligkeiten von Herrn W.
+                     aufzufangen" und
+
+             c) "In unbegründeten Selbstablehnungen nimmt der Richter immer
+                wieder auf das damalige Strafverfahren wegen Rechtsbeugung
+                Bezug" (Anlagen 6 a und 6 b).
+
+           3. im Schreiben vom 11. Februar 2007 an die Regierung von Oberfranken (Gutachtensauftrag):
+
+             a) "Die von ihm gemachte (private) Erfahrung hat der Richter in einer
+                 anderen Bußgeldsache sofort herangezogen (Bußgeldsache
+                 M.    )";
+
+             b) "Beispielhaft für die Selbstablehnungen des Richters und die hierfür
+                 gegebenen Begründungen verweise ich auf Anlage XIV";
+
+             c) "In dem Verfahren XVII 0700/04 lehnte der Richter sich ab, weil er
+                 nicht bereit sei, gegenüber derart unverschämten Leuten als Richter eine Entscheidung zu treffen. Gemeint war nicht ein Verfahrensbeteiligter, sondern ein möglicher Käufer des Anwesens, der in
+
+                                -8-
+
+
+
+     Bezug auf die Person des Richters einen Leserbrief geschrieben
+     hat (Anlage XV)";
+
+     "In dem Verfahren XVII 857/05 begründete der Richter seine
+     Selbstablehnung u.a. mit Äußerungen eines Betroffenen über sein
+     (des Richters) Strafverfahren und die ausgebliebene Rehabilitation
+     (Anlage XVI)";
+
+4. im Schreiben vom 19. November 2007 an das Dienstgericht für Richter
+   in Würzburg im Verfahren DG 1/2007:
+
+  a) "Die Behauptung, der Antragsteller habe seine Arbeit beanstandungsfrei geführt, ist unzutreffend. Es kam seit Jahren zu einer
+     Vielzahl von Beschwerden und Beanstandungen seiner Tätigkeit.
+     Ich verweise beispielhaft auf das Schreiben der Örtlichen Arbeitsgemeinschaft im Landkreis und der Stadt Bayreuth vom
+     26. Februar 2007, auf die anliegenden Schreiben (Anlage IV) und
+     die Dienstaufsichtsbeschwerde des Oberbürgermeisters der Stadt
+     Bayreuth vom 28. September 2007 wegen verzögerter Sachbehandlung";
+
+  b) "Dass das Betreuungsreferat des Antragstellers halbwegs funktionierte, ist auf den übermäßigen Einsatz der Vertreter zurückzuführen und kein Verdienst des Antragstellers";
+
+  c) "Die Nichterreichbarkeit des Richters ist seit Jahren ein Dauerproblem und findet auch in den Schreiben der Betreuungsstelle bzw.
+      des Chefarztes des Bezirkskrankenhauses Bayreuth vom
+      5. Oktober 2007 (Anlage VII) ihren Niederschlag";
+
+5. im Artikel der Süddeutschen Zeitung vom 20. September 2007: "Aber
+   natürlich hat das Gericht ein Problem mit einem Richter, der seit einem
+   Jahrzehnt in Nachbarschaftsstreitigkeiten verwickelt ist. Schließlich widerspreche dies dem richterlichen Mäßigungsgebot";
+
+6. die im Schreiben des Bayerischen Staatsministeriums der Justiz vom
+   29. Januar 2008 (2022E-III-9592/07) gemachten Ausführungen: "Auch
+   ist die Behauptung des Petenten, er habe seine Arbeit 'beanstandungsfrei' geführt, unzutreffend. Nach Auskunft des Präsidenten des
+   Landgerichts Bayreuth kam es seit Jahren zu einer Vielzahl von Beschwerden und Beanstandungen seiner Tätigkeit wegen verzögerter
+   Sachbehandlung. Zudem sei die Nichterreichbarkeit des Richters seit
+   Jahren ein Dauerproblem";
+
+                                           -9-
+
+
+
+           7. die im Schreiben des Bayerischen Staatsministeriums der Justiz vom
+              26. Juni 2008, Az. 2022E-III-9592/07 gemachten Ausführungen: "zu
+              den Auswirkungen der Fehlzeiten auf sein richterliches Dienstverhältnis ist darauf hinzuweisen, dass es aufgrund der ungewöhnlich hohen
+              Zahl von Abwesenheitstagen wiederholt zu Nachfragen und Beschwerden wegen verzögerter Sachbehandlung und Nichterreichbarkeit wegen Nichterreichbarkeit des Petenten kam" unter Benennung
+              der Betreuungsverfahren XVII 155/96, XVII 107/03, XVII 689/03 und
+              XVII 419/04 sowie die Bezugnahme auf aktenmäßig nicht dokumentierte angebliche persönliche oder telefonische Ansprachen;
+
+           8. die im Widerspruchsbescheid des Präsidenten des OLG Bamberg vom
+              16. Juli 2007 (Ip W 962 - IV b/12) gemachten Ausführungen: "Diese
+              Wertung (Erkenntnisse über Anzeichen einer Erkrankung) steht im
+              Einklang mit dem aufgezeigten Verhalten des Widerspruchsführers …
+              in von ihm geführten Betreuungsverfahren";
+
+           9. die Überlassung von Akten aus der richterlichen Zuständigkeit des Antragstellers an einen anderen Richter des Amtsgerichts            zur
+              Wahrnehmung allein dem Präsidenten des Landgerichts als Dienstvorgesetzten vorbehaltener Tätigkeit im Rahmen der Dienstaufsicht.
+
+     Ferner beantragte er festzustellen (Antrag zu 10),
+
+           dass der Widerspruchsbescheid des Präsidenten des OLG Bamberg
+           vom 10. September 2008 (Aktenzeichen: 2050/II-IVb/12-512/2008) ihn in
+           seiner richterliche Unabhängigkeit verletzt.
+
+12         Das Landgericht Würzburg - Bayerisches Dienstgericht für Richter - hat
+     diesen Antrag durch das angefochtene Urteil zurückgewiesen. Hinsichtlich der
+     Beanstandungen zu 1 bis 5 und 7 bis 9 hat es den Antrag als unzulässig, im
+     Übrigen (Beanstandungen zu 6 und 10) hat es ihn als unbegründet angesehen.
+
+13         Dagegen richtet sich die Revision des Antragstellers, mit der er beantragt, das Urteil des Dienstgerichts aufzuheben und nach seinen Anträgen erster Instanz zu entscheiden. Der Antragsgegner beantragt, die Revision zurückzuweisen.
+
+                                            - 10 -
+
+
+
+14         Beide Parteien haben ihr Einverständnis mit einer Entscheidung ohne
+     mündliche Verhandlung erklärt.
+
+
+
+
+                                  Entscheidungsgründe:
+
+15         Die gemäß Art. 73 Abs. 2 BayRiG, § 79 Abs. 2, § 80 Abs. 2 DRiG zulässige Revision ist nur in dem aus dem Urteilstenor ersichtlichen Umfang begründet; im Übrigen ist sie unbegründet.
+
+16         1. Entgegen der Ansicht des Dienstgerichts fehlt es hinsichtlich der Anträge zu 1 bis 5, 7 bis 9 nicht an einem Feststellungsinteresse des Antragstellers; sein Begehren ist daher insoweit zu Unrecht als unzulässig zurückgewiesen worden.
+
+17         a) Die genannten Anträge sind nicht unzulässig, weil der Antragsteller,
+     wie das Dienstgericht angenommen hat, schon nicht ausreichend dargelegt habe, worin hinsichtlich der damit beanstandeten Maßnahmen eine Beeinträchtigung seiner Unabhängigkeit im Sinne von § 26 Abs. 3 DRiG liegen könnte.
+
+18         Ein Prüfungsantrag ist zwar nur dann zulässig, wenn nachvollziehbar
+     dargelegt ist, dass eine Maßnahme der Dienstaufsicht im Sinne des § 26 Abs. 3
+     DRiG vorliegt und diese Maßnahme die richterliche Unabhängigkeit beeinträchtigt (BGH, Urteil vom 20. Januar 2011 - RiZ(R) 1/10 Rn. 22, juris; Urteil vom
+     3. November 2004 - RiZ(R) 2/03, NJW 2005, 905 mwN). Nach ständiger Rechtsprechung des Dienstgerichts des Bundes genügt jedoch die schlichte – nachvollziehbare - Behauptung einer Beeinträchtigung der richterlichen Unabhängigkeit (vgl. nur BGH, Urteil vom 3. Dezember 2009 - RiZ(R) 1/09 Rn. 44, juris;
+     Urteil vom 24. November 1994 - RiZ(R) 4/94, NJW 1995, 731, 732 mwN). Der
+     Antragsteller hat hinreichend dargelegt, dass es sich bei den beanstandeten
+
+                                          - 11 -
+
+
+
+     Maßnahmen um solche der Dienstaufsicht handelt und er dadurch veranlasst
+     sein könnte, eine Verfahrens- oder Sachentscheidung künftig anders zu treffen.
+     Die Frage, ob die beanstandeten Maßnahmen die richterliche Unabhängigkeit
+     beeinträchtigen können, ist eine Frage der Begründetheit des Prüfungsantrags.
+
+19             Die vom Antragsteller angefochtenen Äußerungen stellen Maßnahmen
+     der Dienstaufsicht dar. Der Begriff der Maßnahme der Dienstaufsicht im Sinne
+     von § 26 Abs. 3 DRiG ist im Interesse eines wirkungsvollen Schutzes der richterlichen Unabhängigkeit weit auszulegen. Er umfasst nicht nur unmittelbare
+     Eingriffe, sondern auch alle Einflussnahmen einer für die Dienstaufsicht in Betracht kommenden Stelle, die sich auf die Tätigkeit des Richters nur mittelbar
+     auswirken oder darauf abzielen (BGH, Urteil vom 16. November 1990 - RiZ
+     2/90, BGHZ 113, 36, 38; Urteil vom 20. Januar 2011 - RiZ(R) 1/10 Rn. 14,
+     juris).
+
+20             Die beanstandeten Äußerungen haben durchweg kritische Stellungnahmen oder Beschreibungen des dienstlichen - teilweise auch des außerdienstlichen - Verhaltens des Antragstellers zum Gegenstand, überwiegend die Darstellung seiner Sachbearbeitung im Rahmen der ihm als Betreuungsrichter zugewiesenen Geschäftsaufgabe. Der dienstgerichtlichen Überprüfung unterliegen auch solche Maßnahmen der Dienstaufsicht, die das außerdienstliche Verhalten eines Richters betreffen (BGH, Urteil vom 11. Februar 1969, RiZ(R) 5/68,
+     BGHZ 51, 363, 367 f.).
+
+21             b) Das Rechtsschutzinteresse für das Prüfungsverfahren gemäß § 26
+     Abs. 3 DRiG ist hinsichtlich der Anträge zu 2 bis 4 nicht dadurch entfallen, dass
+     die Untersuchungsanordnung des Präsidenten des Landgerichts Bayreuth vom
+     11. April 2007 durch Verfügung vom 20. Oktober 2008 aufgehoben wurde.
+     Durch eine einseitige Erklärung des Antragsgegners, die Angelegenheit sei "er-
+
+                                         - 12 -
+
+
+
+     ledigt", entfällt das Rechtsschutzinteresse an der Feststellung, eine Maßnahme
+     der Dienstaufsicht habe unzulässig in den Bereich richterlicher Unabhängigkeit
+     eingegriffen, nicht.
+
+22          c) Das Rechtsschutzbedürfnis ist vorliegend unter Berücksichtigung von
+     Art und Inhalt der angegriffenen Maßnahmen der Dienstaufsicht auch nicht
+     dadurch entfallen, dass der Antragsteller mit Ablauf des 8. März 2011 auf seinen Antrag in den Ruhestand versetzt wurde (vgl. BGH, Urteil vom 27. September 1976 - RiZ(R) 3/75, juris Rn. 19; insoweit in BGHZ 67, 184 nicht abgedruckt).
+
+23          2. Entgegen der Ansicht des Dienstgerichts sind die mit den Anträgen zu
+     2c, 3a, 5 und 10 beanstandeten Maßnahmen unzulässig, weil sie die Unabhängigkeit des Antragstellers im Sinne von § 26 Abs. 3 DRiG beeinträchtigen.
+
+24          a) Nach ständiger Rechtsprechung sind dienstaufsichtliche Maßnahmen
+     gegenüber Richtern, soweit sie die äußere Ordnung des Geschäftsablaufs und
+     des Verfahrensgangs betreffen, grundsätzlich zulässig und im Kernbereich der
+     Rechtsprechung grundsätzlich unzulässig (vgl. BGH, Urteil vom 23. Oktober
+     1963 - RiZ 1/62, BGHZ 42, 163, 169 f.; Urteil vom 4. Juni 2009 - RiZ(R) 5/08,
+     BGHZ 181, 268 Rn. 16 f.; Urteil vom 20. Januar 2011 - RiZ(R) 1/10 Rn. 15,
+     juris). Zum Kernbereich richterlicher Tätigkeit zählen neben der richterlichen
+     Sachentscheidung selbst grundsätzlich auch Maßnahmen der Verfahrensleitung, der Termins- und Fristbestimmung, des Umgangs mit Parteien und Verfahrensbeteiligten sowie Erklärungen in Ablehnungsverfahren (vgl. im Einzelnen
+     Schmidt-Räntsch, DRiG, 6. Aufl., § 26 Rn. 28 ff.). Im Kernbereich der Rechtsprechung sind der Dienstaufsicht lediglich evidente Fehlgriffe und offensichtlich unvertretbare Entscheidungen zugänglich (vgl. BGH, Urteil vom 4. Juni
+     2009 - RiZ(R) 5/08, BGHZ 181, 268 Rn. 16 mwN).
+
+                                          - 13 -
+
+
+
+25         b) Bei der Anwendung dieser allgemeinen Grundsätze auf den vorliegenden Fall hat die Bestimmung der Grenze zwischen Dienstaufsicht und richterlicher Unabhängigkeit den Besonderheiten Rechnung zu tragen, die sich daraus ergeben, dass die vom Antragsteller beanstandeten Maßnahmen in dem
+     vom Dienstvorgesetzten in Gang gesetzten Verfahren zur Überprüfung der
+     Dienstfähigkeit des Antragstellers getroffen wurden. Die Überprüfung ist angeordnet worden, weil aus der Sicht des Dienstvorgesetzten über einen Zeitraum
+     von mehreren Jahren ernst zu nehmende Anhaltspunkte dafür gegeben waren,
+     dass die Dienstfähigkeit des Antragstellers aus gesundheitlichen - soweit ersichtlich: psychischen - Gründen auf Dauer erheblich eingeschränkt oder aufgehoben sein könnte. Diese Einschätzung des Dienstvorgesetzten war auf konkrete tatsächliche Anhaltspunkte gestützt. Es entsprach daher nicht zuletzt auch
+     seiner Fürsorgepflicht, eine Klärung herbeizuführen; die Anordnung der Untersuchung der Dienstfähigkeit des Antragstellers war sachgerecht und willkürfrei.
+
+26         Wenn sich - wie im vorliegenden Fall - Auffälligkeiten im Verhalten des
+     Richters nach dem Eindruck des Dienstvorgesetzten im Wesentlichen auf psychische Dispositionen, Reaktionen oder sonstige Besonderheiten stützen, ist es
+     unerlässlich und überschreitet die Grenze zur unzulässigen Einwirkung in den
+     Bereich richterlicher Unabhängigkeit nicht, wenn der Dienstvorgesetzte in dem
+     Verfahren zur Anordnung der Untersuchung sowie in Verfahren, die aufgrund
+     von Rechtsbehelfen hiergegen geführt werden, diejenigen tatsächlichen Anhaltspunkte mitteilt, aus denen sich eine mögliche Dienstunfähigkeit des Richters ergeben könnte. Die Befugnis zu solchen Angaben kann nicht auf Tatsachen aus dem Bereich der äußeren Ordnung der dienstlichen Tätigkeit des
+     Richters sowie auf offenkundig unvertretbare Fehlgriffe im Einzelfall beschränkt
+     sein, sondern muss sich grundsätzlich auch auf unterhalb dieser Grenze liegende auffällige Besonderheiten bei der Verfahrensgestaltung, im Umgang mit
+     Verfahrensbeteiligten oder im Gang der Entscheidungsfindung erstrecken. Die
+
+                                          - 14 -
+
+
+
+     insoweit notwendige Abgrenzung zwischen dem der Aufsicht und Einflussnahme entzogenen Bereich richterlicher Unabhängigkeit und der der Aufsichts- und
+     Fürsorgepflicht entspringenden Verpflichtung des Dienstvorgesetzten, nicht fern
+     liegenden Zweifeln an der psychischen Gesundheit und Dienstfähigkeit eines
+     Richters im Interesse der Rechtssuchenden und des Ansehens der Rechtspflege in der Öffentlichkeit sowie im eigenen Interesse des Richters nachzugehen,
+     muss sich maßgeblich danach richten, ob eine Äußerung - als Maßnahme der
+     Dienstaufsicht - geeignet und geboten ist, um die Aufklärung der Frage der
+     Dienstfähigkeit zu ermöglichen oder zu erleichtern. Äußerungen, die hierüber
+     hinausgehen, deren Inhalt für die Beurteilung der Dienstfähigkeit keine Bedeutung hat oder die in den Kernbereich richterlicher Tätigkeit eingreifen, ohne in
+     einem notwendigen inneren Zusammenhang mit möglichen Ursachen einer zu
+     prüfenden Dienstunfähigkeit zu stehen, beeinträchtigen die richterliche Unabhängigkeit und sind unzulässig.
+
+27         c) Nach Maßgabe der vorgenannten Kriterien erweisen sich die mit den
+     Anträgen zu 2c, 3a, 5 und 10 beanstandeten Äußerungen und Maßnahmen als
+     unzulässig.
+
+28         aa) Soweit im Schreiben des Präsidenten des Landgerichts Bayreuth
+     vom 16. Februar 2007 darauf hingewiesen wird, der Antragsteller nehme in
+     "unbegründeten" Selbstablehnungen immer wieder auf ein früher gegen ihn
+     geführtes Strafverfahren wegen Rechtsbeugung Bezug, überschreitet diese
+     Bewertung des Inhalts der richterlichen Entscheidung, zu der das Ablehnungsverfahren gehört (vgl. BGH, Urteil vom 18. April 1980 - RiZ(R) 1/80, BGHZ 77,
+     70, 72; Urteil vom 8. August 1986 – RiZ(R) 2/86, DRiZ 1986, 423, 424), die
+     Grenze des § 26 Abs. 1 DRiG. Für die vom Dienstvorgesetzten hervorgehobene Auffälligkeit, deren Erwähnung hier grundsätzlich geboten und bedenkenfrei
+
+                                           - 15 -
+
+
+
+     ist, spielt die Frage, ob Selbstanzeigen des Antragstellers wegen Befangenheit
+     in der Vergangenheit begründet waren, eine allenfalls untergeordnete Rolle.
+
+29         bb) Der Hinweis im Untersuchungsauftrag vom 11. April 2007 an die Regierung von Oberfranken, der Antragsteller habe eine private Erfahrung bei der
+     Begründung einer Entscheidung in einer Bußgeldsache herangezogen, ist in
+     der geäußerten Form nicht geeignet, den Untersuchungsauftrag zu erläutern
+     oder zu fördern. Sie greift vielmehr in den dem Dienstvorgesetzten entzogenen
+     Bereich richterlicher Entscheidungsfindung ein. Dass es sich um ein Beispiel
+     eines offenkundigen, unvertretbaren Fehlgriffs handelt, ist in dem Schreiben
+     nicht ausgeführt und auch nicht ersichtlich.
+
+30         cc) Die Äußerung gegenüber der "Süddeutschen Zeitung", das außerdienstliche Verhalten des Antragstellers widerspreche dem richterlichen Mäßigungsgebot, stellt wegen ihres missbilligenden Charakters eine Dienstaufsichtsmaßnahme dar, die der Nachprüfung im Verfahren nach § 26 Abs. 3
+     DRiG unterliegt (vgl. BGH, Urteil vom 31. Januar 1984 - RiZ(R) 4/83, BGHZ 90,
+     34, 37). Diese in der (Presse-)Öffentlichkeit geäußerte Missbilligung des
+     (außerdienstlichen) Verhaltens des Antragstellers war weder durch den Untersuchungsauftrag geboten noch aus anderen Gründen zulässig.
+
+31         dd) Begründet ist die Revision schließlich auch, soweit sie sich gegen die
+     Bearbeitung und Unterzeichnung des Widerspruchsbescheids des Präsidenten
+     des Oberlandesgerichts Bamberg vom 10. September 2008 durch einen beauftragten Richter wendet.
+
+32         Der Erlass des Widerspruchsbescheids, mit dem im Rahmen eines Vorverfahrens für einen Prüfungsantrag an das Dienstgericht über die Beanstandung einer Maßnahme der Dienstaufsicht als Beeinträchtigung der richterlichen
+     Unabhängigkeit im Sinne von § 26 Abs. 3 DRiG entschieden wird, ist selbst
+
+                                          - 16 -
+
+
+
+     wiederum eine Maßnahme der Dienstaufsicht. Sie kann daher nur von demjenigen vorgenommen werden, dem die entsprechende Befugnis zur Dienstaufsicht
+     zusteht. Andere Amtsträger als der Dienstvorgesetzte können mit der Wahrnehmung bestimmter Aufgaben der Dienstaufsicht im Einzelfall nur in der Weise
+     beauftragt werden, dass sie mit inhaltlich ganz bestimmten Weisungen für die
+     zu treffende Maßnahme zu versehen sind, die eine eigene Entscheidung über
+     das "Ob" und "Wie" ausschließen und den Beauftragten jedenfalls nur als ausführendes und nicht als entscheidendes Organ in Erscheinung treten lassen
+     (BGH, Urteil vom 9. März 1967 - RiZ(R) 2/66, BGHZ 47, 275, 284; Urteil vom
+     11. Februar 1969 - RiZ(R) 5/68, BGHZ 51, 363, 370; Urteil vom 31. Januar
+     1984 - RiZ(R) 4/83, BGHZ 90, 34, 40). Macht sich der Dienstvorgesetzte die
+     von einem von ihm beauftragten Amtsträger vorgenommene Maßnahme im
+     Prüfungsverfahren nachträglich zu Eigen, wird der Zulässigkeitsmangel dadurch
+     nicht behoben (BGH, Urteil vom 31. Januar 1984 - RiZ(R) 4/83, BGHZ 90, 34,
+     41).
+
+33          Die Befugnis zum Erlass des Widerspruchsbescheids als Maßnahme der
+     Dienstaufsicht stand hier dem Präsidenten des Oberlandesgerichts Bamberg
+     als obere Dienstaufsichtsbehörde oder seinem Vertreter im Amt zu (Art. 20
+     Abs. 1 Satz 1 Nr. 2 BayAGGVG; §§ 83, 65 Abs. 1 DRiG; § 73 Abs. 1 Satz 2
+     Nr. 1 VwGO). Die Übertragung dieser Befugnis an einen Richter am Oberlandesgericht im Rahmen der Geschäftsverteilung für die Verwaltungsabteilung
+     des Oberlandesgerichts war nicht zulässig.
+
+34          3. Im Übrigen ist die Revision unbegründet.
+
+35          a) Die in den Anträgen zu 1, 2a, 2b, 3b, 3c, 4a, 4b, 4c, 6, 7 und 8 genannten Äußerungen beziehen sich sämtlich auf die Klärung der Dienstfähigkeit
+     des Antragstellers. Sie beschränken sich darauf, augenfällige Besonderheiten
+
+                                           - 17 -
+
+
+
+     im dienstlichen Verhalten des Antragstellers, namentlich bei der Gestaltung des
+     Verfahrensablaufs, in neutraler Form darzulegen. Ein Eingriff in den Kernbereich richterlicher Unabhängigkeit liegt hierin ersichtlich nicht. Dass es in einer
+     Vielzahl von Fällen über einen langen Zeitraum zu erheblichen Auseinandersetzungen des Antragstellers mit Verfahrensbeteiligten und zu einer Vielzahl von
+     Beschwerden über verzögerte Sachbehandlung oder Nichterreichbarkeit des
+     Antragstellers als Betreuungsrichter gekommen war, ist von ersichtlich erheblicher Bedeutung für die Beurteilung einer möglichen Einschränkung der Dienstfähigkeit aus psychischen Gründen.
+
+36          b) Dass der Präsident des Landgerichts zur Vorbereitung von Entscheidungen im Rahmen der Dienstaufsicht einen anderen Richter für Zuarbeiten
+     hinzugezogen und diesem Akten aus der Zuständigkeit des Antragstellers zur
+     Auswertung überlassen hat (Antrag zu 9), stellt keinen Eingriff in die richterliche
+     Unabhängigkeit dar. Der Dienstvorgesetzte kann sich zur Vorbereitung seiner
+     eigenen, höchstpersönlichen Entscheidung über die Vornahme einer Maßnahme der Dienstaufsicht der Zuarbeit durch einen anderen Richter bedienen
+     (BGH, Urteil vom 11. Februar 1969 - RiZ(R) 5/68, BGHZ 51, 363, 370). Es ist
+     nicht ersichtlich, dass die Zuarbeit des vom Präsidenten des Landgerichts beigezogenen Richters hier über die zulässige Vorbereitung der Entscheidung hinausging.
+
+37         4. Die Kostenentscheidung ergibt sich aus § 80 Abs. 1 Satz 1 DRiG,
+     § 155 Abs. 1 Satz 1 VwGO.
+
+                                        - 18 -
+
+
+
+38           Der Wert des Streitgegenstands wird für das Revisionsverfahren auf
+     5.000 Euro festgesetzt (§ 47 Abs. 1 Satz 1, § 52 Abs. 2, § 71 Abs. 1 Satz 2
+     GKG).
+
+
+
+
+     Bergmann                          Joeres                            Fischer
+
+                 Safari Chabestari                          Pamp
+
+
+
+
+     Vorinstanzen:
+     LG Würzburg, Entscheidung vom 16.06.2009 - DG 1/08 -
