@@ -1,0 +1,99 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2217044
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2217044
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neubesetzung des Unterausschusses Verkehr
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: LKW-Durchfahrtsverbot in der Feldmochinger Straße
+- TOP 2.2.: Parken auf dem Radweg in der Pelkovenstraße
+- TOP 2.3.: ?Auf Herz und Rampen prüfen?: Maßnahmen zur Verbesserung der Barrierefreiheit
+- TOP 2.4.: Änderung der Parkzeiten im Parklizenzgebiet Borstei
+- TOP 2.5.: Außenanstrich des Gebäudes Pelkovenstr. 65
+- TOP 2.6.: Alfred-Andersch-Weg: Lärmbelästigung durch spielende Kinder
+- TOP 2.7.: Parkbuchten Pelkovenstraße: Erweiterung der Parkzeitbeschränkung
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Stadtteillauf 2011
+- TOP 3.2.: Sommerferienprogramm 2011
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Meggendorfer Straße
+- TOP 3.2.: Ortstermin Baldurstraße
+- TOP 3.3.: Anwohnerversammlung Ausbau Haylerstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 1: (E) Anordnung eines LKW-Parkverbotes in der Pelkovenstraße zwischen Hanauer Straße und Feldmochinger Straße
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Freiwillige Feuerwehr Moosach e.V. Kauf eines Defibrillators
+- TOP 1.3.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Theater-/Tanzfestival "Rampenlichter" im Juli 2011
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Frau V. Kahl Fadenspielaktion am 27./28.06.2011
+- TOP 6: Anhörungen
+- TOP 6.1.: Ein Brunnen für Moosach; Auslobung eines Wettbewerbs, finanzielle Beteiligung am Bau des Brunnens und Betriebsübernahme durch die Stadt München
+- TOP 6.2.: Öffentliche WC-Anlagen ? Strategiekonzept
+- TOP 6.4.: Leistungsprogramm der MVG 2012
+- TOP 6.5.: Aufnahme des Parkplatzes an der Homerstraße in die Parkraumbewirtschaftung (Antrag Nr. 08-14 / B 02553 des BA 10)
+- TOP 6.6.: Bauvorhaben Hanauer Str. 14 b
+- TOP 6.7.: Bauvorhaben Lauterbachstr. 4
+- TOP 6.8.: Vollzug der Baumschutzverordnung: Simrockstr. 39
+- TOP 6.9.: 18.jetzt ? Fest Junger Erwachsener am 18.10.2011
+- TOP 6.10.: Verlagerung des Bürgerbüros Leonrodstraße in die Landshuter Allee 8-10
+- TOP 6.11.: Baumfällungen Bauvorhaben Hanauer Str. 14
+- TOP 6.12.: Baumfällungen Bauvorhaben Baubergerstr. / Gubestr.
+- TOP 6.13.: Austausch von 4 Werbeanlagen in der Triebstraße (Bahnunterführung)
+- TOP 6.14.: Nutzerbedarfsprogramm KITA Caubstr. / Triebstr.
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Einrichtung eines Zebrastreifens in der Feldmochinger Straße (Zwischennachricht)
+- TOP 7.2.: Standorte für die Spielaktionen der Arbeitsgemeinschaft Spiellandschaft Stadt 2011 (Korrektur)
+- TOP 7.3.: Spielplatz Holledauer Straße (Baubeginn Frühjahr 2012)
+- TOP 7.4.: P+R Tiefgarage Moosach (Barrierefreiheit ist nunmehr hergestellt)
+- TOP 7.5.: Eingeschränktes Haltverbot bei Wertstoffinsel Diesel- / Henckystr. (wird eingerichtet)
+- TOP 7.6.: Abfalleimer an der Tram-Haltestelle Hugo-Troendle-Straße (sind vorhanden)
+- TOP 7.7.: Bedienung der Haltestelle Gröbenzeller Straße durch die Buslinie 169 (abgelehnt wegen Fahrzeitverlängerung und damit verbundenen Folgen für U-Bahn- und Busanschlüsse)
+- TOP 7.8.: Eindämmung von Spielhallen (Änderung von Bundesrecht wäre erforderlich)
+- TOP 7.9.: Bahnübergang Fasanerie (BA 24 wird Runden Tisch einberufen)
+- TOP 7.10.: Dauerhafte Öffnung des Mittelteilers Georg-Brauchle-Ring / Riesstraße (Fristverlängerung)
+- TOP 7.11.: Säuberung der Rinnsteine in der Hugo-Troendle-Straße 51-53 (Aufgabe der Anlieger)
+- TOP 7.12.: Errichtung einer Bedarfsampel in der Baubergerstr. auf Höhe Gubestraße (Vormerkung erst im nächsten Jahr möglich)
+- TOP 7.13.: Öffentliche Uhren am Bahnhof Moosach (werden angebracht)
+- TOP 7.14.: Neupflasterung der Trambahnhaltestelle Hugo-Troendle-Str. (Abstimmung mit SWM nötig; Umsetzung nicht vor Herbst 2011)
+- TOP 7.15.: Wohnungsbau ermöglichen zwischen Franz-Mader-/Allacher Straße und Irma-Wenke-Straße (nicht möglich wegen Bedarf für Schulneubau)
+- TOP 7.16.: Spielmöglichkeit für das Wohngebiet an der Darmstädter- und Feichtmayrstraße (aufgrund der Grundstückssituation nicht möglich)
+- TOP 7.17.: Parkbänke in der Grünanlage Liegnitzer- / Merseburger Straße (wurden repariert)
+- TOP 7.18.: Parkbänke Dachauer Straße zwischen Max-Born- und Ludwigsfelder Straße (wurden repariert)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Aufzüge und Rolltreppen am Moosacher Bahnhof (Antwort auf Stadtratsanfrage)
+- TOP 8.4.: Wochen- und Bauernmärkte: Voraussetzungen zur Einrichtung eines Marktes
+- TOP 8.5.: Arbeiten im Straßenraum: Dachauer-, Postillon-, Homerstraße (Fernwärmeleitung)
+- TOP 8.6.: Mäharbeiten des Straßenbegleitgrüns
+- TOP 8.7.: Protokoll zur BA-Informationsveranstaltung des Sozialreferates
+- TOP 8.8.: Pächterwechsel ?Ois Chicago?, Bingener Str. 13
+- TOP 8.9.: Zweckentfremdung von Wohnraum a) Ohlauer Straße b) Ehrenbreitsteiner Straße
+- TOP 8.10.: Mitteilung über ein Grundstücksgeschäft: a) Memminger Platz b) Brieger Straße c) Darmstädter Straße
+- TOP 8.11.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung; Entwicklung des Olympischen Dorfes und des Mediendorfes für die Olympischen und Paralympischen Winterspiele 2018
+- TOP 8.12.: Perspektive München ? Fortschreibung 2011 (Vorlage Nr. 08-14 / V 06446)
+- TOP 8.13.: Regionsbericht 2010 (Vorlage Nr. 08-14 / V06378)
+- TOP 8.14.: Langfristige Siedlungsentwicklung a) Nachverdichtung b) Baurechte durch Arrondierung schaffen (Vorlage Nr. 08-14 / V 06361)
+- TOP 8.15.: Beschlussvollzugskontrolle (Vorlage Nr. 08-14 / V 06440)
+- TOP 8.16.: Neue Bädereintrittspreise
+- TOP 8.17.: Vertragliche Standortsicherung von Mobilfunkstandorten (nicht-öffentlich)
+- TOP 8.18.: Mitteilung über erteilte Abgeschlossenheitsbescheinigungen 2010 (nicht-öffentlich)
+- TOP 8.19.: Abgeschlossenheitsbescheinigungen 01.03.11 ? 15.03.11 (nicht-öffentlich)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
