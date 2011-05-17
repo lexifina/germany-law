@@ -1,0 +1,69 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-05-17T16:02:00+02:00
+- Ende: 2011-05-17T17:59:00+02:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8199
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8199
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand 03.05.11 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00129573.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00130696.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2010 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2010 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2010 der Lokalfunk Wuppertal GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2010 der Hotel AG - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2009 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2009 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Wahrnehmung von Gesellschafterrechten bei WSW-Tochtergesellschaften - ungeändert beschlossen
+- TOP 5.2: Änderung des Gesellschaftsvertrages der VSG Verkehrs-Service GmbH - ungeändert beschlossen
+- TOP 5.3: Änderung der Satzung der Hotel AG - ungeändert beschlossen
+- TOP 5.4: Schloss Burg - Vergabe des Sanierungskonzepts - Entgegennahme ohne Beschluss
+- TOP 5.5: Ziel 2-Antrag Erlebnis.NRW "Erlebnisraum Schloss Burg" - Umsetzung des Förderprojekts - Entgegennahme ohne Beschluss
+- TOP 5.6: Erfahrungsbericht über die Umsetzung des Kooperationsprojektes "Bergisches Veterinär- und Lebensmittelüberwachungsamt Remscheid-Solingen-Wuppertal"; - Entgegennahme ohne Beschluss
+- TOP 5.7: Benennung des Prüfers für den Jahresabschluss 2010 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 5.8: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2010/2011 der Tanztheater Wuppertal Pina Bausch GmbH - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Stand der Schulden und Kassenkredite zum 31.03.2011 - Entgegennahme ohne Beschluss
+- TOP 12.2: Finco Bericht zum 31.03.2011 - Entgegennahme ohne Beschluss
+- TOP 12.3: Finco zum 30.04.2011 - Entgegennahme ohne Beschluss
+- TOP 12.4: Haushalt des Landes NRW und Gemeindefinanzierungsgesetz (GFG) 2011 - Entgegennahme ohne Beschluss
+- TOP 12.4.1: Gutachten "Haushaltsausgleich und Schuldenabbau" der Prof. Junkernheinrich und Lenk (s. VO/0388/11)
+- TOP 12.5: Steuerschätzung -mündlicher Bericht-
+- TOP 12.6: Klage gegen die Festsetzung der Landschaftsumlage 2007 - Entgegennahme ohne Beschluss
+- TOP 12.7: Externe Einstellungen im 1. Quartal 2011 - Entgegennahme ohne Beschluss
+- TOP 12.8: Umsetzung der HSK-Maßnahme 13.2 -Schaffung einer neuen Leistungseinheit "Bürgeramt"- - Entgegennahme ohne Beschluss
+- TOP 13: Haushaltsangelegenheiten
+- TOP 13.1: Ziele und Kennzahlen zum Haushaltsplan 2012/2013 der Stadt Wuppertal - GB 0 - ungeändert beschlossen
+- TOP 13.2: Ziele und Kennzahlen zum Haushaltsplan 2012/2013 der Stadt Wuppertal - GB 4 - ungeändert beschlossen
+- TOP 13.3: Über- und außerplanmäßige Bereitstellung von Mitteln für 2010 und 2011 - Entgegennahme ohne Beschluss
+- TOP 14: Verkäufe und Baumaßnahmen
+- TOP 14.1: Zusammenlegung der Standorte der Grünflächenunterhaltung - ungeändert beschlossen
+- TOP 14.2: Neubau einer NEF-Station an der Theishahner Str. 35 (Wache Korzert) - ungeändert beschlossen
+- TOP 15: Dienstanweisungen und Satzungen
+- TOP 16: Anträge und Anfragen
+- TOP 16.1: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 12.04.2011- Bürgerhaushalt- - zur Entscheidung verwiesen
+- TOP 16.2: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 15.04.2011 -Wuppertal steigt aus und schaltet um- - zur Entscheidung verwiesen
+- TOP 17: Allgemeine Vorlagen
+- TOP 17.1: Bürgerantrag gemäß § 24 Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 18: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 24: Alten- und Altenpflegeheime
+- TOP 24.1: Quartalsbericht IV/2010 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 24.2: Quartalsbericht IV/2010 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 25: Berichte und Mitteilungen
+- TOP 26: Kinder- und Jugendwohngruppen
+- TOP 27: Berichte und Mitteilungen
