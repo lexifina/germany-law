@@ -1,0 +1,8 @@
+# TOP 7: Umbau der teilstationären Hilfen: Heilpädagogischer Hort gemäß § 27 II SGB VIII und Heilpädagogische Tagesgruppe gemäß § 32 SGB VIII
+
+- Sitzung: Sitzung (2011-05-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/105120
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/46158
