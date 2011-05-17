@@ -1,0 +1,60 @@
+# Stadtrat (15. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-05-17T17:02:00+02:00
+- Ende: 2011-05-17T20:45:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdqGXxzdLTZj3dR_JZUBOlw
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10520
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZbSirDp6fuJtbd9PwWiRdtjbudm4qFDK1yKvsmtJIhOr/Bekanntmachung_Stadtrat_17.05.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZewplE28m46EKYyakTa8qd0gQSz4YTa-nRYxWEqiGj6l/Oeffentliche_Niederschrift_Stadtrat_17.05.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 12a.: Übernahme einer städt. Kindertageseinrichtung durch einen freien Träger
+- TOP 1.: Umbesetzung von Ausschüssen und Gremien
+- TOP 1.1: Umbesetzung des Ausschusses für Sport, Freizeit und Kultur hier: Antrag der SPD-Fraktion
+- TOP 1.2: Umbesetzung des Jugendhilfeausschusses hier: Antrag der Linksfraktion
+- TOP 2.: Erlass von Ortsrecht
+- TOP 2.1: Änderung der Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen
+- TOP 3.: Beschluss des Integrationskonzepts der Stadt Kerpen, Festlegung und Umsetzung von Handlungsschwerpunkten, Bereitstellung von Haushaltsmitteln und Personaleinsatz
+- TOP 4.: Bäder der Stadt Kerpen
+- TOP 4.1: Jahresbericht 2010 "Bäder der Stadt Kerpen" der g1 Einkaufs- und Beratungsgesellschaft für Bäder mbH
+- TOP 4.2: Notwendigkeit der Sanierung der Erftlagune
+- TOP 4.3: Bäderangebot während der Sanierungszeit der Erftlagune
+- TOP 4.4: Überlegungen zum zukünftigen Bäderbetrieb der Stadt Kerpen
+- TOP 5.: Anregungen und Einsparvorschläge Bürgerhaushalt 2011
+- TOP 6.: Haushaltssatzung für das Haushaltsjahr 2011 einschließlich des Stellenplanes
+- TOP 7.: Weitergabe vertraulicher Unterlagen zu einem Klageverfahren gegen die Grundstücksentwicklungs- und -verwertungsgesellschaft Kerpen mbH durch den Stadtverordneten Wolfgang Scharping hier: Festsetzung eines Ordnungsgeldes gem. §§ 43, 30, 29 Gemeindeordnung NRW wegen Verstoßes gegen die Verschwiegenheitspflicht
+- TOP 8.: Stadtentwicklung und Bauleitplanung
+- TOP 8.1: Bebauungsplan BL 270/2. Änderung "Am Lechenicher Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 8.2: 61. Änderung des Flächennutzungsplanes "Südlicher Siedlungsrand Brüggen", Stadtteil Brüggen hier: Beschluss zur Offenlage
+- TOP 8.3: Abwägung für einen Teilbereich der hergestellten Erschließungsanlage "Genter Straße" im Stadtteil Kerpen gem. § 125 (2) BauGB - hier: planungsrechtliche Voraussetzungen zur Erhebung von Erschließungsbeiträgen gem. § 127 ff BauGB
+- TOP 9.: Schließung der Grundschule Manheim ab dem Schuljahr 2011 / 2012
+- TOP 10.: Aufgabenwahrnehmung durch die Wirtschaftsförderungsgesellschaft des Rhein-Erft-Kreises
+- TOP 11.: Kinder- und Jugendförderplan der Stadt Kerpen
+- TOP 12.: Verlängerung der III. Vertragsperiode nach dem Freizeitstättenplan von 2012 bis 2014 im Rahmen einer Fixierung der bestehenden Haushaltsmittel
+- TOP 13.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.1: Prüfung der Eröffnungsbilanz und Erstellung der Jahresabschlüsse 2008 bis 2010 hier : Anfrage der FDP-Fraktion vom 03.05.2011
+- TOP 17.2: Bauvorhaben im Gleisdreieck am Bahnhof Horrem
+- TOP 17.3: ALDI-Grundstück Horrem-Nord
+- TOP 17.4: Bürgerinformation über Kanalbaumaßnahmen in Mödrath
+- TOP 17.5: Neubau Kindertagesstätte Horrem
+- TOP 18.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Grundstücksangelegenheit Waldweg
+- TOP 20.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 20.1: Rückforderung von Fördermittel für das Vogelrutherfeld, Kerpen-Sindorf hier: Rücknahme der Klage bei dem Verwaltungsgericht Köln
+- TOP 21.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
