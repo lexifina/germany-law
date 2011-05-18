@@ -1,0 +1,133 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-05-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201064
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201064
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.1.1.: Vorstellung "EMOKI - Sport für alle"
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 4.2.1.: Sicherheit in Unterführungen entlang des Isarradwegs
+- TOP 5: Anträge
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse AKA - Aktiv für interKulturellen Austausch e.V. Internationales Stadtteilfest am 03.07.2011 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Erstausstattung für Jugendliche - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP 6.2.1.: Gebsattelstr. 15, "Paulaner": Erweiterung einer bestehenden Freischankfläche
+- TOP 6.3: Sonstige Entscheidungen
+- TOP 1.4.: Aufstellung größerer Abfallbehälter und häufigere Leerung (Ziffer 1 des Antrages) (BV-Empfehlung Nr. 08-14/ E 00229), hier: Schreiben des Baureferats vom 11.04.2011
+- TOP 7.1.: Lothringer Straße.: Fahrbahnbelagserneuerung (Deckschicht) zw. Weißenburger Platz und Orleansstraße
+- TOP 7.2.: Grillparzerstraße zwischen Prinzregenten- und Einsteinstraße; Wiederherstellung nach Verkehrsführung während der Bauzeit am Mittleren Ring Ost; Ergebnis der Untersuchung, Bedarfs- und Konzeptgenehmigung Anhörung zu einer Beschlussvorlage für den Bauausschuss
+- TOP 7.3.: Neuer Steg über die Isar (Klenzesteg), Auslobung eines Wettbewerbs (BA-Anträge 02-08/ B 02924, 08-14/ B 02211) Anhörung zu einer Beschlussvorlage für den Stadtrat
+- TOP 7.4.: Straßenfest in der Lothringer Straße am 02.07.2011
+- TOP 7.5.: Abendveranstaltung auf dem Mariahilfplatz am 24.06.2011, E-Mail des Tourismusamtes vom 18.05.2011
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Falschparker in der Entenbachstraße
+- TOP 8.1.2.: Kreuzungsblockaden durch rücksichtslose Autofahrer
+- TOP 8.1.3.: Getrennte Bürgerversammlungen für Haidhausen und die Au beibehalten
+- TOP 8.1.4.: Sanierung der Brücke der Regerstraße über den Eisenbahn-Südring (BA-Antrag Nr. 08-14/ B 02281), Ergänzendes Schreiben des Baureferats vom 14.04.2011
+- TOP 8.1.5.: Veröffentlichung der Nutzen-Kosten-Untersuchung zum 2. S-Bahn-Tunnel
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Bürgeranliegen, Lärmbelästigung durch die Lokale im Umgriff des Pariser Platzes; Schreiben des KVR vom 19.04.2011
+- TOP 8.2.2.: Bürgeranliegen, Namensschilder auf beiden Seiten der Isarbrücken; Schreiben des Baureferats vom 26.04.2011
+- TOP 8.2.3.: Verbesserung der Bürgerinformation durch das Baureferat bei Baumaßnahmen; Schreiben des Baureferats vom 04.05.2011
+- TOP 8.2.4.: Baustelleneinrichtung Preysingplatz 3-7; Schreiben des Kreisverwaltungsreferats vom 02.05.2011
+- TOP 8.2.5.: Grundbucheintrag Michael-Huber-Weg
+- TOP 8.3: Sonstige Unterrichtungen
+- TOP 8.3.1.: Neue Bädereintrittspreise, Schreiben der SWM vom 07.04.2011
+- TOP 8.3.2.: Maßnahmen gegen Spielsucht und Spielhallen, Antrag des BA 7 vom 13.04.2011
+- TOP 8.3.3.: Bürgerbüro Ostbahnhof ? Verbesserungsvorschläge, Schreiben des BA 15 vom 15.04.2011
+- TOP 8.3.4.: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder, Antrag des BA 12 vom 14.03.2011
+- TOP 8.3.5.: Werbenutzungsvertrag der Landeshauptstadt München, Stellungnahme des BA 12 vom 20.04.2011
+- TOP 8.3.6.: Ausnahmezulassung gem. § 7 Abs. 2 der 32.BImSchV, Ostbahnhof entlang der Orleansstraße bis Spicherenstraße
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 7.1.: Erinnerungsorte München Die vergessenen Orte der Topographie des Terrors sichtbarer machen ? Ort und Erinnerung zusammenbringen Beschluss des Kulturausschusses vom 03.03.201
+- TOP 7.2.: Gedenktafel zur Erinnerung an ehemalige Zwangsarbeiterinnen und Zwangsarbeiter, Antrag der SPD-Fraktion
+- TOP 7.3.: Bekränzung von Straßenschildern an Allerheiligen, Antrag der SPD-Fraktion vom 13. 4. 2011
+- TOP 7.1.: Situation Hortplätze Flurschule
+- TOP 7.2.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Sozialreferates/ Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011
+- TOP 7.3.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.04.2011
+- TOP 7.4.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011
+- TOP 7.5.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011
+- TOP 7.6.: Die Rahmenkonzeption für KinderTagesZentren der Landeshauptstadt München; Ein sozialraumorientiertes Konzept zur koproduktiven und kooperativen Vernetzung von Kindertagesbetreuung, präventiven Angeboten der Jugendhilfe und Familienbildung in München
+- TOP 7.7.: Behinderung heißt Armut und Diskriminierung, Broschüre
+- TOP 7.8.: Verbesserung der Versorgung psychisch kranker Menschen in der Sozialregion 3 Au-Haidhausen- Bogenhausen; Mehr Personalstellen für den SPDi Giesing; Schreiben des Bezirks Oberbayern vom 04.04.2011
+- TOP 2.1.: Rosenheimer Str. 6; Nutzungsänderung: Zwei Ladeneinheiten zu einer Gaststätte
+- TOP 2.2.: Seifenkistenrennen am 31.07.2011 am Gebsattelberg
+- TOP 2.3.: Kellerstraße 10 (Spielplatz) und Rosenheimer Str. 5 (Celibidacheforum): Gasteig Elements im Rahmen des Jubiläums 25 Jahre Gasteig am 23./24.07.2011
+- TOP 2.4.: Straßenfest am 17.07.2011 auf dem Preysingplatz
+- TOP 2.5.: Balanstr. 49: Nutzungsänderung; Laden zu Pizzalieferservice
+- TOP 2.6.: Öffentliche WC-Anlagen-Strategiekonzept, Beschlussvorlage für den Kommunalausschuss
+- TOP 2.7.: Berg-am-Laim-Str., 2x Umrüstung der zwei Großflächentafeln auf 2 Premium-Großflächentafeln
+- TOP 2.8.: Rosenheimer Str. 108: Nutzungsänderung; Gastronomie zu Theater mit angeschlossener Gastronomie
+- TOP 2.9.: Kunst im öffentlichen Raum, Performance und Schrift am Pflaster im Rahmen von OBACHT, Ort: An der Kreppe
+- TOP 2.10.: Lebensmittelausgabe Münchner Tafel e.V. auf dem Johannisplatz
+- TOP 3.1.: Gewährung eines Investitionskostenzuschusses für die Förderung von Hotel BISS, Beschluss der Vollversammlung des Stadtrates vom 06.04.2011
+- TOP 2.1.: Lilienstr. 23-25: Aufstockung mit Fassaden - / Balkonneugestaltung mit baulichen Änderungen, Lückenbebauung und Tiefgarage (Lilienstr. 23+25, 35-39, 41) und Neubau eines Mehrfamilienhauses (Südbau)
+- TOP 2.2.: Lilienstr. 27-33: Aufstockung mit Fassaden - / Balkonneugestaltung mit baulichen Änderungen, Lückenbebauung und Tiefgarage (Lilienstr. 27-33)
+- TOP 2.3.: Lilienstr. 43-49: Aufstockung mit Fassaden - / Balkonneugestaltung mit baulichen Änderungen, Lückenbebauung und Tiefgarage
+- TOP 2.4.: Asamstr. 17: Errichtung eines Verbindungsstegs zwischen zwei Balkonen im 5. OG (Bestand)
+- TOP 2.5.: Pariser Str. 19: Nutzungsänderung; gewerbliche Nutzung und Garagen zu Wohnraum sowie Errichtung einer Dachterrasse
+- TOP 2.6.: Haidhauser Str. 4 ? 12: Dachaufstockung, Sanierung der Balkone, Anbau eines neuen Balkons, Zusammenlegung zweier Wohneinheiten im Erdgeschoss - TEKTUR
+- TOP 2.7.: Regerplatz 2: Umbau und Erneuerung, Dachgeschoss-Ausbau, Einbau eines Aufzugs, Errichtung von zwei Balkonen im Hofbereich, Nutzungsänderung im Erd- und Kellergeschoss in zwei Läden und ein Cafe, Erneuerung der Hofkellerdecke ? TEKTUR
+- TOP 2.8.: Bereiteranger 15: Sanierung und Umbau des Gesamtanwesens mit Schließen einer Baulücke, Umbau und Aufstockung von Halle und Rückgebäuden sowie Nutzungsänderung von Gewerbeflächen in Wohnungen - VORBESCHEID
+- TOP 2.9.: Innere Wiener Str. 58: Anbau eines Rückgebäudes
+- TOP 2.10.: Johannisplatz 2: Nutzungsänderung von Seminarräumen in ein Wohnheim mit Teeküche
+- TOP 2.11.: Steinstr. 19: Errichtung einer Dachterrasse (4. OG)
+- TOP 2.12.: Humboldtstr. 13: Neubau eines Rüchgebäudes (vier Wohneinheiten), Teilabbruch und Umbau des Seitengebäudes, Errichtung eines absenkbaren Parksystems
+- TOP 2.1.: Nahverkehrsplan der Landeshauptstadt München, Beteiligung der Bezirksausschüsse und der Verbände, Anhörungsschreiben des Referats für Stadtplanung und Bauordnung vom 12.04.2011
+- TOP 2.2.: Leistungsprogramm 2012 der MVG (Fahrplanwechsel Dezember 2012), Anhörungsschreiben der MVG vom 13.04.2011
+- TOP 2.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Holzhofstr. 4, Anhörungsschreiben des KVR vom 04.04.2011
+- TOP 2.4.: Lärmsanierung an Schienenwegen des Bundes, Strecke 5510 München Hbf. - Rosenheim, Ortsdurchfahrt München ? Untergiesing, Plangenehmigung
+- TOP 3.1.: Verkehrsrechtliche Anordnung: Parkraummanagement, Parklizenzgebiet ?Südliche Au?; Nockherstraße zw. Taubenstraße und Am Nockherberg ? Umwandlung des reinen Bewohnerparkens in eine Mischparkregelung
+- TOP 3.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV) ; Ausnahmegenehmiung gem. § 7 Abs. 2 der 32. BImSchV; Abdruck des Genehmigungsbescheides vom 01.04.2011
+- TOP 3.3.: Öffnung der in Richtung Süden einbahngeregelten Entenbachstraße zwischen Boosstraße und Ohlmüllerstraße für den gegenläufigen Radverkehr, Abdruck der verkehrsrechtlichen Anordnung vom 07.04.2011
+- TOP 3.4.: Öffnung der in Richtung Südosten einbahngeregelten Boosstraße zwischen Asamstraße und Entenbachstraße für den gegenläufigen Radverkehr, Abdruck der verkehrsrechtlichen Anordnung vom 23.12.2010
+- TOP 3.5.: Umwandlung von Kfz-Stellplätzen in Fahrradstellplätze, Abdruck der verkehrsrechtlichen Anordnung vom 08.09.2010
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mi, 01.06.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24; UA WAS: Mo, 30.05.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA Wirtschaft: Di, 07.06.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA Planung: Do, 09.06.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.; UA GUV: Mo, 06.06.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.1.: Mi, 15.06.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4: Sonstige Termine
+- TOP 4.1.: Fest junger Erwachsener ? 18.jetzt, Samstag, 08.10.2011, Beginn: 21.30 Uhr
+- TOP 4.2.: Isar-Plan, Bauabschnitt Nord, Öffnung des Seitenarms, 27.05.2011, ca. 07.00 Uhr
+- TOP 4.3.: Jubiläum der Münchner Wochenmärkte, Au / Mariahilfplatz, 28.05.2011, 7.00 ? 13.00 Uhr
+- TOP 6: Entscheidungen (1)
+- TOP 1: (E) Neugestaltung der Frei- und Grünflächen am St.-Wolfgangs-Platz und Änderung der An- und Abfahrtswege für die Abfallentsorgungs- fahrzeuge und der Abfallcontainer aus der Wohnanlage St.-Wolfgangs-Platz 9a bis 9h und Balanstraße 30a und 30b (Ziffern 1 - 3) Empfehlung Nr. 08-14 / E 00865 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 03.02.2011 - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
