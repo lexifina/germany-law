@@ -1,0 +1,86 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-05-18T16:04:00+02:00
+- Ende: 2011-05-18T16:29:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8109
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8109
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand: 04.05.2011 - 13.00 Uhr - http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00129569.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00130485.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Catering-Firmen in städtischen Einrichtungen
+- TOP 2.1.1: Catering-Firmen in städtischen Einrichtungen
+- TOP 2.2: Energieversorgung in Wuppertal
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion Bündnis 90/Die Grünen (VO/0380/11) vom 18.04.11:
+- TOP 2.3: Neuregelung des Schuleingangsalters
+- TOP 2.3.1: Antwort zur Anfrage der FDP-Ratsfraktion vom 04.05.2011 "Neuregelung des Schuleingangsalters"
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag gemäß § 24 Gemeindeordnung NRW auf Senkung des Hebesatzes bei der Grundsteuer B - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Unternehmensinitiative zur Förderung von Vielfalt in Unternehmen - ungeändert beschlossen
+- TOP 4.2: Resolution zur Regiobahn - ungeändert beschlossen
+- TOP 4.3: Bürgerhaushalt für Wuppertal - vertagen
+- TOP 4.4: Familienkarte - vertagen
+- TOP 4.5: Ausstieg der WSW Energie & Wasser aus der Atomenergienutzung
+- TOP 4.6: Wuppertal steigt aus und schaltet um
+- TOP 4.7: Winterdienst - vertagen
+- TOP 4.8: Straßennamen in Elberfeld - vertagt auf Rat
+- TOP 4.9: Förderung Elektromobilität in Wuppertal - geändert beschlossen
+- TOP 4.10: Wuppertal unterstützt die Kampagne "Steuer gegen Armut" - abgelehnt
+- TOP 4.10.1: Steuer gegen Armut - Finanztransaktionssteuer - ungeändert beschlossen
+- TOP 4.11: Leitlinien der Wuppertaler Stadtentwicklung fortschreiben - Wirtschaftsentwicklung Wuppertals weiter stärken - ungeändert beschlossen
+- TOP 4.12: Ausweisung der Kleinen Höhe als Konzentrationszone für Windenergieanlagen - ungeändert beschlossen
+- TOP 4.13: Ausstieg aus der Kernenergie forcieren - Energiewende voran treiben - vertagt auf Rat
+- TOP 4.13.1: Ausstieg der WSW Energie & Wasser aus der Atomenergienutzung - vertagt auf Rat
+- TOP 4.13.2: Wuppertal steigt aus und schaltet um - vertagt auf Rat
+- TOP 4.14: Vandalismus in den Hardt-Anlagen und im Nordpark - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Kindertagespflege - Neufassung der Richtlinien über die Genehmigung von Tagespflege und über die Festsetzung der Höhe der Geldleistung nach - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zusammenlegung der Standorte der Grünflächenunterhaltung - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln für 2010 und 2011 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2009 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2009 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Aufhebung des Fluchtlinienplans Nr. 512 - Rheinstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 276 - Klippe - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1068 - Bayreuther Straße / Briller Straße - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbezogener Bebauungsplan Nr. 1150V - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 1134 - Höhenstraße/ Auf dem Stein - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1069 - Bredde / Berliner Straße - und Nr. 1155 - Berliner Straße / Bredde - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan Nr. 1094/1 - Buschstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Kinder- und Jugendförderplan 2010 - 2014 der Stadt Wuppertal - geändert beschlossen
+- TOP 11.2: Veränderungen in der städtischen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 11.2.1: Änderungsantrag zu VO/0123/11 "Veränderungen in der städtischen Kinder und Jugendarbeit" - abgelehnt
+- TOP 11.2.2: Antrag zur Tagesordnung des JHA ,Tagesordnungspunkt 5, und zur Sitzung HA und Rat
+- TOP 11.3: Zukunftsfaktor Bürgerengagement - Entgegennahme ohne Beschluss
+- TOP 11.4: Regionales Standortkonzept - ungeändert beschlossen
+- TOP 11.5: Handlungsprogramm Gewerbeflächen - vertagt auf Rat
+- TOP 11.5.1: Änderungsantrag zu VO/0255/11 (Handlungsprogramm Gewerbeflächen) - vertagt auf Rat
+- TOP 11.6: Festsetzung des Überschwemmungsgebietes der Wupper im Regierungsbezirk Düsseldorf - ungeändert beschlossen
+- TOP 11.7: GPA-Prüfung Eröffnungsbilanz
+- TOP 11.8: Neubau einer NEF-Station an der Theishahner Str. 35 (Wache Korzert) - ungeändert beschlossen
+- TOP 11.9: Rettungsdienstbedarfsplan der Stadt Wuppertal
+- TOP 11.10: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.11: Auflösung der Wolf-Erlbruch-Schule, Schule für Kranke, unter gleichzeitiger Fortführung als Abteilung der Astrid-Lindgren-Schule - ungeändert beschlossen
+- TOP 11.12: Vorzeitige endgültige Auflösung der städt. Gemeinschaftshauptschule Barmen-Rott, Rödiger Straße - ungeändert beschlossen
+- TOP 11.13: Schulentwicklungsplanung für die Förderschulen der Stadt Wuppertal 2010 - 2020, Teil 1 - Entwicklung der Schülerzahlen. - ungeändert beschlossen
+- TOP 11.13.1: Änderungsantrag zu VO/1072/10 Schulentwicklungsplanung für die Förderschulen Teil 1 - abgelehnt
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Berufung eines Mitgliedes mit beratender Stimme für den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung Gestaltungsbeirat - ungeändert beschlossen
+- TOP 12.3: Neuwahl von Mitgliedern des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.5: Benennung eines Mitgliedes für die Kommission Kultur des Erinnerns - ungeändert beschlossen
