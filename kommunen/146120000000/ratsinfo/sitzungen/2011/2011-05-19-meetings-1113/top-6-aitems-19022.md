@@ -1,0 +1,8 @@
+# TOP 6: Satzung der Landeshauptstadt Dresden zur Förderung von Kindern in Kindertageseinrichtungen und in Kindertagespflege und über die Erhebung von Elternbeiträgen
+
+- Sitzung: 19. Sitzung des Jugendhilfeausschusses (2011-05-19)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/19022
+- Ergebnis: Vertagung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/5326
