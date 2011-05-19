@@ -1,0 +1,8 @@
+# TOP 19: Süsterfeldstraße von Borchersstraße bis KühlwetterstraßeAbrechnung der als Haupterschließungsanlage ausgebauten Erschließungsanlage gemäß § 8 KAG NW zum Zwecke der Erhebung von Beiträgen
+
+- Sitzung: öffentliche Sitzung des Mobilitätsausschusses unter Beiladung der Bezirksvertretung Aachen-Mitte zu den Tagesordnungspunkten 3 und 4 (2011-05-19)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=44943
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=11842&bi=11765
