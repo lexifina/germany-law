@@ -1,0 +1,161 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2011-05-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2223018
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2223018
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.0.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.5: Nachbesetzung in den Unterausschüssen
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Kreativ Musikforum Kauf eines digitalen Schlagzeugs mit Verstärker
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Elternbeirat d. Sonderpädagogischen Förderzentrums München-Ost Druckkostenzuschuss für die Schülerzeitung "Eastsider" 2011
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Jugendsozialarbeit HS Feldbergstraße, KJR München-Stadt Streitschlichterfahrt vom 28.06. - 01.07.2011
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Init. Radi TV c/o H. Stenzel Kauf eines Monitors, eines Blue-Ray-Recorders sowie einer externen Festplatte
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Truderinger Burschenverein v. 1895 e.V. Kauf eines Zeltes
+- TOP 1.6.: (E) Budget der Bezirksausschüsse Freunde der FFW Riem v. 1874 e.V. Tag der offenen Tür am 02.07.2011
+- TOP 1.7.: (E) Budget der Bezirksausschüsse Bürgerforum Messestadt e.V. Promenadefest am 04.06.2011
+- TOP 1.8.: Fest des Bezirksausschusses am 07.10.11: Antrag auf Budget-Mittel für BA-eigene Veranstaltungen nach Vorberatung durch den UA Kultur
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Hortsituation in Trudering-Riem
+- TOP 2.2.: Verkehrssituation und Erscheinungsbild der Straßen in Riem
+- TOP 2.3.: Beitrag zum BA-Antrag 08-14/B 02763 "Ausbau der Graf-Lehndorff-Straße zwischen Mittbacher Straße und dem Bahnübergang"
+- TOP 2.4.: Birthälmer Straße in Kirchtrudering
+- TOP 2.5.: Verkehrssituation Ecke Friedenspromende/ Wasserburger Landstraße
+- TOP 2.6.: Hundeproblematik Messestadt Ost
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Freerunning-Parcour in Trudering-Riem
+- TOP 3.2.: Bürgerbüro am Truderinger Bahnhof
+- TOP 3.3.: Auslegung von Bebauungsplänen im Stadtbezirk 15
+- TOP 3.4.: Sozialpolitisch stabile Mischung im Wohnungsbau für Riem
+- TOP 3.5.: Ausbau der Graf-Lehndorff-Straße zwischen Mittbacher Straße und dem Bahnübergang
+- TOP 3.6.: Anfrage zur Planung von Fußgängerüberwegen
+- TOP 3.7.: Fußgängerweg im Bajuwarenpark zwischen Kreiller- u. Truderinger Str.
+- TOP 3.8.: Sanierung des Horst-Salzmann-Weges
+- TOP 3.9.: Planungen zum Bolzplatz am Horst-Salzmann-Weg/ Feldbergstraße vorstellen
+- TOP 3.10.: Sanierung des Schulsportplatzes an der Lehrer-Wirth-Schule, Solar-Lichtanlage, Nutzung durch Schulen und Vereine
+- TOP 3.11.: Parkplatz Turnerschule
+- TOP 3.12.: Suche nach Räumen für den Kindergarten Spatzennest
+- TOP 3.13.: Entfernung von Fahrrädern am Platz der Menschenrechte
+- TOP 3.14.: Verkehrskontrollen bei größeren Messen
+- TOP 3.15.: Räume in der Messestadt für öffentliche und private Veranstaltungen, Feste und Feiern
+- TOP 3.16.: Lebensmittelgeschäft für die Messestadt
+- TOP 3.17.: Bahnhof Messestadt-West; Hinweisschilder zur Polizeiinspektion 25 im U-Bahn-Untergeschoss und an den Bushaltestellen
+- TOP 3.18.: Erläuterungstafel für den Kopfbau des ehem. Münchner Flughafens Riem
+- TOP 3.19.: Auswirkungen des LKW-Führungskonzeptes in Trudering-Riem
+- TOP 3.20.: Kirchtruderinger Umfahrung
+- TOP 3.21.: Höchste Eisenbahn für die Umfahrung Kirchtrudering
+- TOP 3.22.: Nutzung des 193er-Busses im Truderinger Binnenverkehr ermitteln
+- TOP 3.23.: Schluss mit davonfahrenden 193er-Bussen in Haar - für eine verlässliche Anschlusssicherung
+- TOP 3.24.: Sammelcontainer für Streusplitt im Wertstoffhof an der Mauersegler Straße
+- TOP 3.25.: Informationen zum Wertstoffsammelsystem in der LH München
+- TOP 3.26.: Problematik bezüglich freilaufender Hunde und deren Hinterlassenschaften im Park- und Spielplatzbereich und Schutz der Kinder
+- TOP 3.27.: Hundekot am Postweg/ Ecke Heldackerweg
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Rollstuhl für den Riemer See
+- TOP 4.2.: Riemer See kein Badegewässer?
+- TOP 4.3.: Gefahrenfreier Fußgängerüberweg am Messefreigelände
+- TOP 4.4.: Neue Bahntrasse im Münchner Osten im Zuge des Brenner-Basistunnels
+- TOP 4.5.: Errichtung von Bautafeln für das Truderinger Gymnasium
+- TOP 4.6.: Baumfällungen für das Truderinger Gymnasium
+- TOP 4.7.: Massive Eingriffe in Großbäume an der Feldbergstraße bzw. Kreillerstraße
+- TOP 4.8.: LKW-Durchfahrtverbot für die Karpfenstraße?
+- TOP 5: Anhörungen
+- TOP 5.1.: Nahverkehrsplan (NVP) der Landeshauptstadt München, a) Aufgabenstellung, b) Bewertungsverfahren und Konzeptvorschlag zur Fortschreibung, c) Finanzierung der ÖPNV-Infrastruktur, d) Anträge; Sitzungsvorlage Nr. 08-14/ V 05592, Beschluss der Vollversammlung des Stadtrats vom 16.03.11; Beteiligung der Bezirksaussschüsse und der Verbände, Anhörung des Referats für Stadtplanung und Bauordnung vom 12.04.11
+- TOP 5.2.: Leistungsprogramm 2012 der MVG
+- TOP 5.3.: Kommunalausschuss Beschlussvorlage "Öffentliche WC-Anlagen-Strategiekonzept" ENTWURF vom 07.04.11
+- TOP 5.4.: Markgrafenstraße- Gymnasium Trudering, Projekt-Nr. 100457, Straßenausbau
+- TOP 5.7.: Verkauf einer städtischen Immobilie im Rahmen des Vollzugs des Stadtratsbeschlusses "Neuorganisation des städtischen Wohnungsbestandes" vom 08./16.02.11; Anlagenbezeichnung: An der Seidlbreite 2-12, Wohnhäuser, Gemarkung Trudering, FlSt 1408/10; An der Seidlbreite 2+12, Garagen, Gemarkung Trudering, FlSt 1408/10
+- TOP 5.8.: Verkauf einer städtischen Immobilie im Rahmen des Vollzugs des Stadtratsbeschlusses "Neuorganisation des städtischen Wohnungsbestandes" vom 08./16.02.11; Anlagenbezeichnung: Martin-Empl-Ring 6, Wohnhaus, Gemarkung Trudering, FlSt 1514
+- TOP 5.9.: Aufstellung von Sammelgewerbehinweisanlagen, Schreiben der Deutsche Städte Medien GmbH vom 31.03.11
+- TOP 5.10.: Werbenutzungsvertrag LHM, Korrekturmeldung vom 07.04.11
+- TOP 5.11.: Truderinger Festwoche vom 27.05. - 05.06.11
+- TOP 5.12.: 16. Drachenfest Kultur und Spielraum e.V. im Riemer Park am 24./25.09.11
+- TOP 5.13.: Promenadenfest Helsinkistr. 55 und Promenade zwischen Schule und Grünzug am 04.06.11
+- TOP 5.14.: Fußballturnier dg9-Cup Knürr Andreas am Graf-Spee-Platz am 12.06.11
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: Stadtteilführer für Trudering-Riem
+- TOP 7.2.: Fotowettbewerb für Kinder
+- TOP 7.3.: Fest des Bezirksausschusses 15 Trudering-Riem am 07.10.11
+- TOP 7.7.3: UA Planung:
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Bürgerbusse für Trudering - eine erfolgversprechende Antwort auf die demographische Entwicklung?
+- TOP 7.2.: Parken am Zentralen Platz Mitte in der Messestadt
+- TOP 7.3.: Kein unnötiger Stellplatzverlust an der Wasserburger Landstraße im Ortszentrum Waldtrudering
+- TOP 7.4.: Haltverbot in der St.-Augustinus-Straße
+- TOP 7.5.: Verkehrssituation Feldbergstraße
+- TOP 7.6.: Parkplatzsituation Klothildenstr. 10/ Friedenskirche Kindergarten Frikiki
+- TOP 7.7.: Einrichtung einer Bücherbushaltestelle in der Selma-Lagerlöf-Straße Ecke Elisabeth-Mann-Borgese-Straße; Anhörung zur verkehrsrechtlichen Anordnung nach § 45 StVO, Bestätigung über die Ausführung vom 19.04.11
+- TOP 7.8.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Zehntfeldstr. 148 Seite Max-Beckmann-Straße gegenüber, Bestätigung über die Ausführung vom 12.04.11
+- TOP 7.9.: Auflösung des vorübergehenden Taxistandplatzes Olof-Palme-Straße (Alfons Schuhbeck Teatro), Bestätigung über die Ausführung vom 08.04.11
+- TOP 7.10.: Werbung der Fa. HFK Metalltechnik GmbH über Fahrradabstellboxen
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Antwort des Direktoriums auf die Nachfrage des BA zum Budget-Antrag Hip-Hop-Initiative Messestadt Riem
+- TOP 7.2.: BA-Budget: Bewilligungssbescheid vom 20.04.11 für die Hip-Hop-Initiative Messestadt Riem
+- TOP 7.3.: BA-Budget: Sachbericht der Redaktion der Schülerzeitung Eastsider des SFZ München Ost
+- TOP 7.4.: BA-Budget: Sachbericht des Vereins der Freunde und Förderer der Musik in der Pfarrei St. Augustinus zum Konzert vom 10.04.11
+- TOP 7.5.: BA-Budget: Verwendungsnachweis für den Kauf eines Vorhangs, Bürgerzentrum Trudering e.V.
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Hererostr. 17, Hochkönigstr. 6b, Ödenstockacher Weg 79 Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 Ernastr. 8, 8.3 Sulzer-Belchen-Weg 39, 8.4 Vorderrißstr.6 (Plan), 8.5 Wasserburger Landstr. 147, 8.6 Teuchertstr. 15, 8.7 Hochalmstr. 14a, 8.8 Heldackerweg. 6, 8.9 Sperberstr. 30, 8.10 Hoferichterweg 3, 8.11 Waldschulstr. 78, 8.12 Eisvogelweg 17a, 8.13 Sulzweg 32, 8.14 Lamprechtstr. 23
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse am 25.05.11; Ausstellung "Bayernkaserne- Urbanes Wohnen im Münchner Norden" im Zeitraum 11.05.-14.07.11; Einladung zum Kinder- und Familiennachmittag am 08.06.11 im Rahmen der Stadtteilwoche Berg am Laim; Fest des Bezirksausschusses 15 Trudering-Riem am 07.10.11
+- TOP 9.2.: Bürgeranfrage vom 01.03.11 bzgl. Funkmast Hugo-Weiss-Straße/ Friedenspromenade, Antwort des Referats für Gesundheit und Umwelt vom 07.04.11
+- TOP 9.3.: Bürgeranfrage vom 03.05.11 bzgl. des freien Feldes Am Mitterfeld/ Riemer Straße, Antworten der BA-Vorsitzenden und der Geschäftsstelle
+- TOP 9.4.: Bürgeranfrage vom 30.04.11 bzgl. Versorgung in der Messestadt mit Waren des täglichen Bedarfs, Antworten der BA-Vorsitzenden und der Geschäftsstelle
+- TOP 9.5.: Ausschnitt aus der Rathaus-Umschau zur Anfrage von Stadtrat Orhan Akram (Die Linke) vom 01.03.11 "Warten auf Godot oder wann bekommt die Messestadt einen Supermarkt?"
+- TOP 9.6.: Verteilung der städtischen Telefonbücher an alle BA-Mitglieder, Antrag Nr. 08-14/ B 02860 vom 29.03.11 des BA 12 Schwabing-Freimann
+- TOP 9.7.: Werbenutzungsvertrag der Landeshauptstadt München, Stellungnahme des BA 12 Schwabing-Freimann vom 20.04.11
+- TOP 9.8.: Antrag des BA 7 Sendling-Westpark zum Thema Spielhallen vom 13.04.11
+- TOP 9.9.: Stadt klärt mit Flugblättern über von Rechtsextremen verbreitete Vorurteile auf, Schreiben des Oberbürgermeisters vom 31.03.11 mit beiliegenden Flugblättern
+- TOP 9.10.: Feldbergstraße Busvorfahrt, Projekt-Nr. 100466, Schreiben des Baureferats vom 26.04.11 und Anliegerinformation
+- TOP 9.11.: Münchner Wochenmärkte, Schreiben der Markthallen München vom 13.04.11
+- TOP 9.12.: Die Rahmenkonzeption für KinderTagesZentren der Landeshauptstadt München, Broschüre des Referats für Bildung und Sport mit Anschreiben vom 01.03.11
+- TOP 9.13.: Jahresbericht 2010 mit Jahresvorschau 2011 der Landeshauptstadt München
+- TOP 9.14.: Jahresbericht 2010 des Behindertenbeirats
+- TOP 9.15.: Treffen der Vertreter und Vertreterinnen der Bezirksausschüsse und des Behindertenbeirats, Protokoll der Auftaktveranstaltung vom 28.02.11
+- TOP 9.16.: Neu-/ und Erweiterungsauflage der Informationsbroschüre des Behindertenbeirats "Behinderung heißt Armut und Diskriminierung"
+- TOP 9.17.: Tätigkeitsbericht 2010 des SOS Kinderdorfs
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über die Bauvorhaben im Stadtbezirk im Zeitraum 28.03.11 - 01.05.11
+- TOP 10.2.: Abbruchanzeige: Unnützstr. 33
+- TOP 10.3.: Abbruchanzeige: Heltauer Str. 18 und 18a
+- TOP 10.4.: Abbruchanzeige: Häherweg 13
+- TOP 10.5.: Abbruchanzeige: Gerstäckerstr. 43
+- TOP 10.6.: Abbruchanzeige: Gerstäckerstr. 118
+- TOP 10.7.: Abbruchanzeige: Damaschkestr. 50
+- TOP 10.8.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft (Ausschank nur an Renntagen) "Club Tribüne" und "Rennbahnallee", Graf-Lehndorff-Str. 36, 81929 München
+- TOP 10.9.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft (Ausschank nur an Renntagen) "Champagnerpavillion" und "Bratwurststand", Graf-Lehndorff-Str. 36, 81929 München
+- TOP 10.10.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Da Olimpio, Graf-Lehndorff-Str. 36, 81929 München
+- TOP 10.11.: Unterrichtung über die Fortführung der Kleingaststätte Vereinsgaststätte, Riemer Str. 395, 81929 München
+- TOP 10.12.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Calabrone Restaurante Pizzeria, Willy-Brandt-Platz 5, 81829 München
+- TOP 10.13.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Il Nuovo, Friedenspromenade 114, 81827 München
+- TOP 10.14.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Holzofenpizzeria Borghese, Hugo-Weiss-Str. 8, 81827 München
+- TOP 10.15.: Umbenennung des westlichen Teilstücks der Huchenstraße im 15. Stadtbezirk Trudering-Riem Brachsenstraße, Sitzungsvorlage Nr. 08-14 / V 06351
+- TOP 10.16.: Umbenennung des östlichen Teilstücks des Flußaalweges im 15. Stadtbezirk Trudering-Riem Renkenweg, Sitzungsvorlage Nr. 08-14 / V 06350
+- TOP 10.17.: Protokoll zur BA-Informationsveranstaltung des Sozialreferats vom 29.11.10
+- TOP 10.18.: Information der Bezirksausschüsse: Neue Bädereintrittspreise, Schreiben der SWM GmbH vom 07.04.11
+- TOP 10.19.: Anzeige einer Versammlung unter freiem Himmel am 21.04.11, Hofbräuallee 1, Gewerkschaft Nahrung-Genuss-Gaststätten
+- TOP 10.20.: Erlaubnis für Film- bzw. Fotoaufnahmen auf öffentlichem Verkehrsgrund, Willy-Brandt-Platz, am 02.05.11
+- TOP 10.21.: Vollzug der Grünanlagensatzung, Baustelleneinrichtung an der Lehrer-Wirth-Str. 31, Ausnahmebewilligung im Zeitraum 27.04. - 31.10.11
+- TOP 10.22.: Feuerwerk Werner-Eckert-Str. 1 (BUGA-Lounge) am 19.05.11, Antwort zur Anhörung an das KVR vom 09.05.11
+- TOP 10.23.: Langfristige Siedlungsentwicklung, a. Nachverdichtung, Antrag Nr. 08-14/ A 02102 von Herrn Stadtrat Alexander Reissl vom 03.01.11, b. Baurechte durch Arrondierung schaffen, Antrag Nr. 08-14/ A 02103 von Herrn Stadtrat Alexander Reissl vom 03.01.11; Sitzungsvorlage Nr. 08-14/ V 06361, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11
+- TOP 10.24.: Beschlussvollzungskontrolle (BVK), Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrats im Zeitraum 01.07.2010 - 31.12.2010, Sitzungsvorlage Nr. 08-14/ V 06440, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11
+- TOP 10.25.: Regionsbericht 2010, Sitzungsvorlage Nr. 08-14/ V 06378, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11
+- TOP 10.26.: Perspektive München- Fortschreibung 2011, Leitmotiv, strategische Leitlinien, Sitzungsvorlage Nr. 08-14/ V 06446, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.11
+- TOP 5.6.: Verkauf einer städtischen Immobilie: Flst.: 1408/2 (Tlfl.), Gemarkung Trudering, Adresse Otto-Perutz-Straße, Art des Objekts: Grundstück ohne Bebauung
