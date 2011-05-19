@@ -1,0 +1,122 @@
+# 44. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-05-19T17:30:00+02:00
+- Ende: 2011-05-19T22:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2433
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2433
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=80933
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - erledigt
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Schülerzahlenprognose - beantwortet
+- TOP 5.2: Wie gut betreut Mittes Betreuungsbehörde? - beantwortet
+- TOP 5.3: Müll im Großen Tiergarten - beantwortet
+- TOP 5.4: Grillmüll-Entsorgung - beantwortet
+- TOP 5.5: Und ewig grüßt das Murmeltier: Vergabeverfahren Ackerstraße 28/ Invalidenstraße 5 - beantwortet
+- TOP 5.6: Fußgängertunnel in der Karl-Liebknecht-Straße - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Hausabriss und MieterInnen-Vertreibung Am Nordhafen 1 - Fennstraße 35-37: Nach Stadtmission nun Bayer am Rückzug? - beantwortet
+- TOP 6.2: Verschwimmen in Mitte die Grenzen zwischen Staat und Partei? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Arbeitsbeschaffungsmalereien in Mitte - beantwortet
+- TOP 7.2: Bezirksplafonds 2012 - Der Ausverkauf beim Personal geht munter weiter? - beantwortet
+- TOP 7.3: Plötzliche Schließung der "Laufmasche" - schriftlich beantwortet
+- TOP 7.4: Neuausrichtung Job-Center 2011 - schriftlich beantwortet
+- TOP 7.5: Gebührenmüll - Müllgebühren? - schriftlich beantwortet
+- TOP 7.6: Zukunft des Gebäudes des Diesterweg-Gymnasiums - schriftlich beantwortet
+- TOP 7.7: Gut Ding hat Weil - Wahlperiode bald vorbei - schriftlich beantwortet
+- TOP 7.8: Gesundheitsversorgung - schriftlich beantwortet
+- TOP 7.9: Aufstockung der Fachbereiche - schriftlich beantwortet
+- TOP 7.10: Einnahmen des Bezirks aus Genehmigungen von Spielhallen - schriftlich beantwortet
+- TOP 7.11: QR-Mitglieder im Bereich des QM Pankstraße - schriftlich beantwortet
+- TOP 7.12: Erörterungsveranstaltung Projekt Schultheiss 2008 - schriftlich beantwortet
+- TOP 7.13: Projektnehmer im QM Pankstraße - schriftlich beantwortet
+- TOP 7.14: Was sind dem Bezirksamt die Beschlüsse der BVV wert? (I) Hier: Räume für die Stadtteilvertretungen Turm- und Müllerstraße - schriftlich beantwortet
+- TOP 7.15: B-Plan für das ehemalige Konsistorium erforderlich? - schriftlich beantwortet
+- TOP 7.16: Was sind dem Bezirksamt die Beschlüsse der BVV wert? (II) Hier: Wahl der Stadtteilvertretung Turmstraße - schriftlich beantwortet
+- TOP 7.17: Fahrradbügel vor der Rückerstraße 9 - schriftlich beantwortet
+- TOP 7.18: Was sind dem Bezirksamt die Beschlüsse der BVV wert? (III) Hier: Bürgerveranstaltung Projekt Schultheiß - schriftlich beantwortet
+- TOP 7.19: Schulweg von und zur Berlin Cosmopolitan School - schriftlich beantwortet
+- TOP 7.20: Lärmbelästigung der Anwohner des Hostels in der Lehrter Straße - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beitragspflichtige Erweiterung, Erneuerung und Verbesserung der Straßen Legien- und Leuschnerdamm, bzw. am Michaelkirchplatz und Engelbecken durch das Bezirksamt Mitte und die Berliner Wasserbetriebe - überwiesen
+- TOP 9.2: Bebauungsplan I-B5ca (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5ca - überwiesen
+- TOP 9.3: Bebauungsplan 1-51 (östliche Brunnenstraße, nördliche Rheinsberger Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-51 - überwiesen
+- TOP 9.4: Bebauungsplan 1-52B (westlich Strelitzer Straße, nördlich Anklamer Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-52B - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplan III-244 (Kleingartenkolonie Quartier Napoléon) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes III-244 - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Konzept zur Durchführung einer Jugend-BVV - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: BürgerInnen-Versammlung zur Neubebauung Bachstraße 1-2 (ehemaliges Konsistorium) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Solidarität mit den Kolleginnen und Kollegen der Charité Facility Management (CFM) - zurückgezogen
+- TOP 11.4: Integrationsprogramm „Förderung von Kommunikation, Respekt, Partizipation und Gleichbehandlung“ - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Hallenbad Plus-Plus: Nach Jahren des Kampfes - endlich Nägel mit Köpfen machen! - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Ferienwohnungen in Berlin-Mitte - überwiesen
+- TOP 12.2: Prüfung von Planungsunterlagen auf Einhaltung der rechtlichen Vorgaben für barrierefreies Bauen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Müllschächte und Mülltrennung sind kein Widerspruch - in der BVV abgelehnt
+- TOP 12.4: Fahrrad statt Auto! - überwiesen
+- TOP 12.5: Über Schutzgebiete im Bezirk informieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Unerledigte Beschlüsse der BVV: Wie weiter bis zur Wahl? - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Sicherer Schulweg in der Linienstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Lern- und Erinnerungsort Afrikanisches Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Erneute Öffentlichkeit bei erneuter öffentlicher Auslegung zum Bebauungsplan Schultheiss (B-Plan 1-43VE) (II) - mit Änderungen in der BVV beschlossen
+- TOP 12.10: Aufstellung einer Informationstafel im Afrikanischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Öffentliche Benennung einer Straße nach Bernhard Weiß - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: City LightRun in Mitte unterstüzen! - in der BVV abgelehnt
+- TOP 15.2: Keine zusätzliche Verkehrsbelastung der Siemensstraße! - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Eine Informationsveranstaltung für die Anwohnerinnen und Anwohner und Gewerbetreibenden im B-Plangebiet 1-60 - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Jetzt Planungssicherheit schaffen - Fusion der Menzel- und der Heinrich-von-Kleist-Schule vorziehen - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Maßnahmen zur Korruptionsprävention einleiten - ohne Änderungen in der BVV beschlossen
+- TOP 15.6: Verlängerung U-Bahnlinie 3 bis Magdeburger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 15.7: Geschichte und Zukunft: Marion-Gräfin-Dönhoff-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 15.8: Barrierefreier Spielplatz Emdener Str. / Oldenburger Str. Das schaffen wir spielend - ohne Änderungen in der BVV beschlossen
+- TOP 15.9: Entwicklung mit und für die Bewohner – Quartier Lehrter Straße vor Verdrängung schützen - mit Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Räume für die Geschäftsstelle Landesjugendring - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Kinder stärken - Kinderrechte in der Berliner Verfassung verankern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Einsparungen im Bereich Jugend im Doppelhaushalt 2010/2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Interessenbekundungsverfahren für Energiepartnerschaften - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Erhalt der Graffiti-Wand am ehemaligen Klub International - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Kinderfreundlicher Bezirk Mitte - Cities for Children - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: SpielerInnensperren zum Schutz der Spieler und Spielerinnen und zur Bekämpfung der Spielsucht - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Keine weiteren vorzeitigen Mittel für den Stadtgarten auf dem ehemaligen Güterbahnhof Moabit! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Wettbüros - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.10: Alle Menschen lieben Krippen - auch die Bezirksverordneten von Berlin Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Baumschutz Kastanienallee 63 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Wertstoffforum in Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.13: Nikolaiviertel die Wiege Berlins stärken (2) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.14: Tramlinie 50: Verkehrssicherheit erhöhen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Hansaplatz ohne Graffiti! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Bürger über Straßenbaumaßnahmen laufend informieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Ahndung von Visitenkartenwerbung an Kraftfahrzeugen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.18: Mehr Licht!...im Hansaviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Integration von behinderten Menschen in die Arbeitswelt fördern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.20: Kältehilfe für Obdachlose - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Umsetzung Aktionsraum plus Wedding/Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Aufstellung des Bebauungsplanes II-91-1 für eine Teilfläche des Grundstücks Rathenower Straße 15-17 im Bezirk Mitte, Ortsteil Moabit, im beschleunigten Verfahren gemäß § 13a Baugesetzbuch, die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) und die Beteiligung der Behörden gemäß § 4 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Bekanntmachung der teilweisen Unwirksamkeit des Bebauungsplans I-56 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.24: Beschluss über das Ergebnis der Behördenbeteiligung gem. § 4 Abs. 2 BauGB und die Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB des vorhabenbezogenen Bebauungsplans I-43bVE "südliche Alexanderstraße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Aufstellung des Bebauungsplanes 1-71 "Postfuhramt" im Bezirk Mitte, Ortsteil Mitte, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, die frühzeitige Beteiligung der Behörden gemäß § 4 Abs. 1 Baugesetzbuch sowie der Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Änderung des Geltungsbereichs des Bebauungsplanverfahrens I-33 "Heinrich-Heine-Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.27: Ergebnis der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB und über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB zum Ent- wurf des Bebauungsplans 1-62 "Baufelder Heidestr." für die beiderseits anliegenden Grundstücke der Heidestr. zwischen Perleberger Str. und Invalidenstr. mit Ausnahme der Grundstücke zwischen Minna-Cauer-Str. u. Invalidenstr. im Bezirk Mitte, Ortsteil Moabit sowie die Anpassung des - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Sachmittel für Einzelmaßnahmen zur Unterstützung der ehrenamtlichen Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur im Bezirk Mitte 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Aufstellung der Bebauungspläne 1-82 (nördliche Karl-Marx-Allee) und 1-83 (südliche Karl-Marx-Allee), die Durchführung der Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) und die Beteiligung der Behörden gemäß § 4 BauGB - mit Abschlussbericht zur Kenntnis genommen
