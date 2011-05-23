@@ -1,0 +1,90 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-05-23T17:15:00+02:00
+- Ende: 2011-05-23T21:49:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8108
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8108
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 20.05.2011 - 09.15 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00130487.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00130695.pdf
+- Wortprotokoll: Nachtragsliste - Stand: 23.05.2011 - 14.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00130536.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Catering-Firmen in städtischen Einrichtungen - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Catering-Firmen in städtisschen Einrichtungen - abschließend zur Kenntnis genommen
+- TOP 2.2: Energieversorgung in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Antwort auf die Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN (VO/0380/11) vom 18.04.11: - abschließend zur Kenntnis genommen
+- TOP 2.3: Neuregelung des Schuleingangsalters - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort zur Anfrage der FDP-Ratsfraktion vom 04.05.2011 "Neuregelung des Schuleingangsalters" - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Unternehmensinitiative zur Förderung von Vielfalt in Unternehmen - ungeändert beschlossen
+- TOP 4.2: Resolution zur Regiobahn - ungeändert beschlossen
+- TOP 4.3: Bürgerhaushalt für Wuppertal - abgelehnt
+- TOP 4.3.1: Bürgerbeteiligung bei den Haushaltsplanberatungen - ungeändert beschlossen
+- TOP 4.4: Famlienkarte - abgesetzt
+- TOP 4.5: Ausstieg der WSW Energie & Wasser aus der Atomenergienutzung
+- TOP 4.6: Wuppertal steigt aus und schaltet um
+- TOP 4.7: Winterdienst - abgelehnt
+- TOP 4.8: Straßennamen in Elberfeld - zur Vorberatung verwiesen
+- TOP 4.9: Förderung Elektromobilität in Wuppertal - geändert beschlossen
+- TOP 4.10: Wuppertal unterstützt die Kampagne "Steuer gegen Armut" - abgelehnt
+- TOP 4.10.1: Steuer gegen Armut - Finanztransaktionssteuer - ungeändert beschlossen
+- TOP 4.11: Leitlinien der Wuppertaler Stadtentwicklung fortschreiben - Wirtschaftsentwicklung Wuppertals weiter stärken - geändert beschlossen
+- TOP 4.12: Ausweisung der Kleinen Höhe als Konzentrationszone für Windenergieanlagen - ungeändert beschlossen
+- TOP 4.12.1: Ersetzungsantrag zu Drs. VO/0437/11 (TOP 4.12) - abgelehnt
+- TOP 4.13: Ausstieg aus der Kernenergie forcieren - Energiewende voran treiben - ungeändert beschlossen
+- TOP 4.13.1: Ausstieg der WSW Energie & Wasser aus der Atomenergienutzung - abgelehnt
+- TOP 4.13.2: Wuppertal steigt aus und schaltet um - abgelehnt
+- TOP 4.13.3: Änderungsantrag zu Drs. VO/0439/11 - Ausstieg aus der Kernenergie forcieren, Energiewende voran treiben - - abgelehnt
+- TOP 4.13.4: 2. Änderungsantrag zu VO/0439/11 - Ausstieg aus der Kernenergie forcieren - Energiewende voran treiben - ungeändert beschlossen
+- TOP 4.14: Vandalismus in den Hardt-Anlagen und im Nordpark - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Kindertagespflege - Neufassung der Richtlinien über die Genehmigung von Tagespflege und über die Festsetzung der Höhe der Geldleistung nach - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Zusammenlegung der Standorte der Grünflächenunterhaltung - ungeändert beschlossen
+- TOP 7.2: Über- und außerplanmäßige Bereitstellung von Mitteln für 2010 und 2011 - Entgegennahme ohne Beschluss
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2009 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2009 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Aufhebung des Fluchtlinienplans Nr. 512 - Rheinstraße - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 276 - Klippe - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1068 - Bayreuther Straße / Briller Straße - - ungeändert beschlossen
+- TOP 9.4: Vorhabenbezogener Bebauungsplan Nr. 1150V - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 1134 - Höhenstraße/ Auf dem Stein - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1069 - Bredde / Berliner Straße - und Nr. 1155 - Berliner Straße / Bredde - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan Nr. 1094/1 - Buschstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Kinder- und Jugendförderplan 2010 - 2014 der Stadt Wuppertal - geändert beschlossen
+- TOP 11.2: Veränderungen in der städtischen Kinder- und Jugendarbeit - ungeändert beschlossen
+- TOP 11.2.1: Änderungsantrag zu VO/0123/11 "Veränderungen in der städtischen Kinder und Jugendarbeit" - abgelehnt
+- TOP 11.2.2: Antrag zur Tagesordnung des JHA ,Tagesordnungspunkt 5, und zur Sitzung HA und Rat - in der Sache erledigt
+- TOP 11.3: Zukunftsfaktor Bürgerengagement - Entgegennahme ohne Beschluss
+- TOP 11.4: Regionales Standortkonzept - ungeändert beschlossen
+- TOP 11.5: Handlungsprogramm Gewerbeflächen - geändert beschlossen
+- TOP 11.5.1: Änderungsantrag zu VO/0255/11 (Handlungsprogramm Gewerbeflächen) - abgelehnt
+- TOP 11.6: Festsetzung des Überschwemmungsgebietes der Wupper im Regierungsbezirk Düsseldorf - ungeändert beschlossen
+- TOP 11.7: GPA-Prüfung Eröffnungsbilanz - Entgegennahme ohne Beschluss
+- TOP 11.8: Neubau einer NEF-Station an der Theishahner Str. 35 (Wache Korzert) - Dringlichkeitsentscheidung genehmigt
+- TOP 11.9: Rettungsdienstbedarfsplan der Stadt Wuppertal - abgesetzt
+- TOP 11.10: Antrag auf Genehmigung zur Errichtung bzw. Änderung von Bildungsgängen gemäß § 81 Abs. 2 Schulgesetz für das Land Nordrhein-Westfalen (SchulG NRW) - ungeändert beschlossen
+- TOP 11.11: Auflösung der Wolf-Erlbruch-Schule, Schule für Kranke, unter gleichzeitiger Fortführung als Abteilung der Astrid-Lindgren-Schule - ungeändert beschlossen
+- TOP 11.12: Vorzeitige endgültige Auflösung der städt. Gemeinschaftshauptschule Barmen-Rott, Rödiger Straße - ungeändert beschlossen
+- TOP 11.13: Schulentwicklungsplanung für die Förderschulen der Stadt Wuppertal 2010 - 2020, Teil 1 - Entwicklung der Schülerzahlen. - ungeändert beschlossen
+- TOP 11.13.1: Änderungsantrag zu VO/1072/10 Schulentwicklungsplanung für die Förderschulen Teil 1 - abgelehnt
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Berufung eines Mitgliedes mit beratender Stimme für den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.2: Gremienbesetzung Gestaltungsbeirat - ungeändert beschlossen
+- TOP 12.3: Neuwahl von Mitgliedern des Jugendhilfeausschusses - ungeändert beschlossen
+- TOP 12.4: Umbesetzung im Ausschuss für Gleichstellung - ungeändert beschlossen
+- TOP 12.5: Benennung eines Mitgliedes für die Kommission Kultur des Erinnerns - ungeändert beschlossen
