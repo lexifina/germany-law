@@ -1,0 +1,62 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-05-24T17:00:00+02:00
+- Ende: 2011-05-24T20:45:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4117
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4117
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00159439.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00159439.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00159439.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Résumé Gerresheimer Netz gegen Armut
+- TOP 4: Angebote des Deutschen Roten Kreuzes im Stadtbezirk 7
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Öffentliche Beleuchtung in der Straße Stockgartenfeld - einstimmig beschlossen
+- TOP 7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 7.1: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 8: Verkehrssituation Ludenberger Str. / Haltestelle "Vor der Hardt" - einstimmig beschlossen
+- TOP 9: Wegebeziehung Ludenberger Str. / Hirschburgweg / Pfeifferbrücke - einstimmig beschlossen
+- TOP 10: Sachstandsbericht Turnhalle am Staufenplatz - einstimmig beschlossen
+- TOP 11: Energiesparlampen - einstimmig beschlossen
+- TOP 12: Sicherheit für Radfahrer und Fußgänger im Bereich der Einmündung Nach den Mauresköthen / Zamenhofweg - einstimmig beschlossen
+- TOP 13: Parkplätze im Quellenbusch - einstimmig beschlossen
+- TOP 14: Mülleimer im Quellenbusch - einstimmig beschlossen
+- TOP 15: Treppe im Quellenbusch - einstimmig beschlossen
+- TOP 16: Keine Glasflaschen beim Gerresheimer Veedelzoch - einstimmig beschlossen
+- TOP 17: Förderung von interkultureller Kulturarbeit - mehrheitlich abgelehnt
+- TOP 18: Keine weiteren Spielhallen und Wettbüros - mehrheitlich abgelehnt
+- TOP 19: Radwege im Bereich Quellenbusch Richtung Unterbacher See - einstimmig beschlossen
+- TOP 20: Funktionsfähigkeit von Sickergruben - einstimmig beschlossen
+- TOP 21: Schülerspezialverkehr in Hubbelrath / Knittkuhl - einstimmig beschlossen
+- TOP 22: Entfernung der Sträucher ARAL-Tankstelle Bergische Landstraße - einstimmig beschlossen
+- TOP 23: Änderung der Buslinienführung in Knittkuhl - einstimmig beschlossen
+- TOP 24: Fuß-/ Radweg entlang der Erkrather Landstraße - einstimmig beschlossen
+- TOP 25: Karl-Röttger-Tagesschule - einstimmig beschlossen
+- TOP 26: Hinweise auf Tempo 10 km/h bzw. Tempo 30 km/h in den verkehrsberuhigten Zonen im Zentrum Geresheim - zurückgezogen
+- TOP 27: Nutzung der Sitzungssäle in den Bezirksrathäusern
+- TOP 28: Sicherheit an der Haltestelle Dörpfeldstraße
+- TOP 29: Öffentlicher Parkraum
+- TOP 30: Entwicklung des Glashüttengeländes
+- TOP 31: Fußläufige Verbindung Ende Blanckertzstraße - Hülsmeyerstraße (Spielplatz)
+- TOP 32: Radweg Bergische Landstraße
+- TOP 33: Pferdekoppel im Nachbarschaftspark Diepenstraße
+- TOP 34: Konzept für die Sichelstraße
+- TOP 35: Erreichbarkeit von Rettungsfahrzeugen
+- TOP 36: Sachstandsbericht zum Umgang mit Kinderlärm im Stadtbezirk 7
+- TOP 37: Baurecht Sauerweg / Erkrather Landstraße
+- TOP 38: Ampel Heyestraße / Bereich Kreuzung Hatzfeldstraße
+- TOP 39: Verbesserung der Lärmsituation auf der Benderstraße
+- TOP 40: Hinweise auf historisch bedeutsame Objekte im Stadtbezirk 7
+- TOP 41: Umzüge von drei städt. Tageseinrichtungen im Stadtbezirk 7
+- TOP 42: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich
+- TOP 43: Baumfällung am Pilgerweg / Maßnahme Torfbruchstraße (Überleitungssammler zum Regenklärbecken )
+- TOP 44: PFT-Boden- und Grundwasserverunreinigung Gerresheim
