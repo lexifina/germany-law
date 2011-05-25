@@ -1,0 +1,60 @@
+# 12. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-05-25T17:04:00+02:00
+- Ende: 2011-05-25T21:20:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7793
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7793
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00307802.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Gemeinsamer Antrag der CDU- und SPD Fraktion an den Rat Nr. A-R/0027/2011 "Weitere Anstrenungen zur Optimierung von Strukturen und Prozessen in der Stadtverwaltung sowie im Umgang mit städtischen Immobilien" - einstimmig beschlossen
+- TOP 2.2: Antrag an den Rat Nr. A-R/0026/2011 vom 28.03.2011 der SPD-Fraktion "Eine Halle für Hiltrups Bürgerschaft und ein zukunftsfähiges Schulzentrum für den Stadtbezirk Hiltrup" - einstimmig beschlossen
+- TOP 2.3: Antrag an den Rat Nr. A-R/0024/2011 der CDU-Fraktion: - mehrheitlich beschlossen
+- TOP 2.4: Antrag der Ratsgruppe UWG/ÖDP Nr. A-R/0020/2011 vom 21.03.2011 "Schadstoffreduzierung im Bereich Hindenburgplatz/Promenade in der Adventszeit" - einstimmig beschlossen
+- TOP 2.5: Antrag der CDU-Fraktion Nr. A-R/0025/2011 "Martiniviertel stärken, Anbindung an Altstadt verbessern" - einstimmig beschlossen
+- TOP 2.6: Antrag der CDU-Fraktion an den Rat Nr.: A-R/0021/2011 vom 14.03.2011 - einstimmig geändert beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgestellten bei der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 4: "Flexible Betreuungszeiten in den Kitas" - einstimmig geändert beschlossen
+- TOP 5: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2011) - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus für das Kalenderjahr 2011 - einstimmig beschlossen
+- TOP 7: Städtisches Stadion Hammer Straße - Sanierung des Flutlichts und Bereitstellung von Finanzmitteln - ohne Beschlussfassung geschoben
+- TOP 8: "Public Corporate Governance Kodex" für die Stadt Münster und ihre Beteiligungen - von der Tagesordnung abgesetzt
+- TOP 9: Sachstandsbericht zur Umsetzung von Konsolidierungsvorschlägen - Hinweise zu den Positionen/Forderungen des Positionspapiers der Ratsgruppe UWG/ÖDP zum Haushalt 2011 - ohne Beschlussfassung geschoben
+- TOP 10: Erweiterung Feuerwache 1, York Ring - Neubau Leitstelle und Rechenzentrum citeq - einstimmig beschlossen
+- TOP 10.1: Erweiterung Feuerwache 1, York Ring - Neubau Leitstelle und Rechenzentrum citeq
+- TOP 11: Atomstromfreies Münster - Bericht zum Sachstand - ohne Beschlussfassung geschoben
+- TOP 12: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2011 - ohne Beschlussfassung geschoben
+- TOP 13: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland - Vorlage eingebracht
+- TOP 14: Neuregelung der Trägervertretung in städt. Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 15: Umwidmung der bestehenden Kinderhortangebote zugunsten des U-3 Ausbaus / Weiterentwicklung der Förderangebote der Jugendhilfe für Grundschulkinder im offenen Ganztag - Einrichtung von Förderinseln - ohne Beschlussfassung geschoben
+- TOP 16: Umwidmung des Kinderhortes Lorenz Süd zu einem Förderangebot der Jugendhilfe für Grundschüler in Berg Fidel - einstimmig beschlossen
+- TOP 17: Maßnahmenprogramm einer kindbezogenen Armutsprävention in Münster - ohne Beschlussfassung geschoben
+- TOP 17.1: Maßnahmenprogramm einer kindbezogenen Armutsprävention in Münster
+- TOP 18: Einrichtung neuer Gruppen in Offenen Ganztagsschulen zum Schuljahr 2011/2012 - einstimmig beschlossen
+- TOP 19: Umbau der teilstationären Hilfen: Heilpädagogischer Hort gemäß § 27 II SGB VIII und Heilpädagogische Tagesgruppe gemäß § 32 SGB VIII - ohne Beschlussfassung geschoben
+- TOP 20: Stiftung Generalarmenfonds: Neuentwicklung des "Areals Gartenstraße 84 - 92", Vergabe eines Erbbaurechts - einstimmig beschlossen
+- TOP 21: Feststellung von Jahresabschlüsse
+- TOP 21.1: Feststellung des Jahresabschlusses 2010 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 21.2: Feststellung des Jahresabschlusses 2010 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 21.3: Feststellung des Jahresabschlusses 2010 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 21.4: Feststellung des Jahresabschlusses 2010 der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Mitte
+- TOP 22.1.1: Aufhebung des Durchführungsplanes Nr. 33 für den Bereich Windthorststraße / Ludgeristraße / Prinzipalmarkt / Salzstraße / Loergasse / Loerstraße - einstimmig beschlossen
+- TOP 22.1.2: Bebauungsplan Nr. 209, vorhabenbezogene 2. Änderung - Beschluss zur Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 22.1.3: Vorhabenbezogener Bebauungsplan Nr. 534: Kolde-Ring / Von-Stauffenberg-Straße / Von-Lüninck-Straße - ohne Beschlussfassung geschoben
+- TOP 22.1.4: Genehmigung einer Dringlichkeitentscheidung zur Aufstellung eines Bebauungsplanes für den Bereich - einstimmig beschlossen
+- TOP 23: Verleihung der Auszeichnung "Zivilcourage für Münster" - Handeln statt Wegsehen - ohne Beschlussfassung geschoben
+- TOP 24: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - ohne Beschlussfassung geschoben
+- TOP 25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - ohne Beschlussfassung geschoben
+- TOP 26: Verschiedenes
