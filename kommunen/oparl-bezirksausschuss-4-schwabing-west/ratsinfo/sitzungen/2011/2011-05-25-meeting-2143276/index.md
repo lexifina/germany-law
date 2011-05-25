@@ -1,0 +1,73 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2011-05-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2143276
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2143276
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Haus am Schuttberg e.V. Aktivferien am Ackermannbogen vom 14. - 18.06.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Mobilspiel e.V. Mobilspielfest am 15.05.2011
+- TOP .3.: Teilnahme am Fest der jungen Erwachsenen ?18.jetzt? am 08.10.2011 im Rathaus?
+- TOP .4.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Kunst- und Kreativprojekt für Jugendliche vom 14. - 17.06.2011
+- TOP .5.: Kooperationstreffen mit Schulen und sozialen Einrichtungen
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Strategiekonzept ?Öffentliche WC-Anlagen?: Anhörung zur Beschlussvorlage für den Kommunalausschuss
+- TOP .2.: Schleißheimer Str. 125, Cafe Bar ?Essenziell?: Erweiterung der Freischankfläche (wegen Ortstermin vertagt aus 04/11)
+- TOP .3.: Hohenzollernstr. 52, ?Sunpoint? Sonnenstudio: Mobiler Fahrradständer
+- TOP .4.: Hohenzollernplatz 5, Getränkemarkt: Warenauslage für Postkarten und Zeitungen
+- TOP .5.: Hohenzollernstr. 46, ?SAIMA?: Rollkleiderständer
+- TOP .6.: Winzererstraße 106, Aufstellung eines Obstverkaufsstandes
+- TOP .7.: Belgradstr. 78, ehemaliges ?Prinzenstüberl?, Genehmigung einer Freischankfläche
+- TOP .8.: Hohenzollernstr. 35, ?Virmani?: Rollkleiderständer
+- TOP .9.: Franz-Joseph-Str. 33, ?Paradies Obst Gemüse Blumen?: Mobiler Fahrradständer
+- TOP .10.: Franz-Joseph-Str. 30, ?Käpt'n Cookie?: Warenstellagen
+- TOP .11.: Hohenzollernstr. 37, ?Sinneswahn?: Warenstellagen
+- TOP .12.: Hohenzollernstr. 37, ?Sinneswahn?: Mobiler Fahrradständer
+- TOP .13.: Franz-Joseph-Str. 84, ?Papershop?: Postkartenständer
+- TOP .14.: Projekt ?Zukunftskonzepte der Lebensmittelmärkte Münchens?: Anhörung zum Entwurf der Bekanntgabe im Kommunalausschuss vom 07.07.2011
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: ?City Stories ? Münchner Geschichtenfestival für Kinder und Jugendliche? (23. bis 26.06.2011)
+- TOP .2.: Petuelpark: ICF-München e.V. Parkfest am 09.07.2011
+- TOP .3.: Große Wiese Ackermannbogen: Aktivferien (14.-16.06.2011)
+- TOP .4.: Europäische Jonglierconvention: Parade und Eröffnungsshow am 01.08.2011
+- TOP .5.: Luitpoldpark: Spendenlauf des Willi-Graf-Gymnasiums am 18.07.2011
+- TOP .6.: Isabellastraße: Straßenfest zur Eröffnung von ?Kunst im Karée? am 08.07.2011
+- TOP .2.1.: Planen
+- TOP .1.: Verkauf städtischer Immobilien im Rahmen der Neuorganisation des städtischen Wohnungsbestandes (Stadtratsbeschluss vom 08./16.02.2011) a) Isolden-, Rümann- und Bonner Straße b) Destouches-/Erich-Kästner-Straße
+- TOP .2.: Isoldenstraße/Mildred-Scheel-Bogen: Neubau einer Wohnanlage (27 WE) mit integrierter Kinderkrippe, -tagesstätte und Tiefgarage
+- TOP .3.: Verkauf bzw. Tausch städtischer Immobilien im Vollzug des Bebauungsplanes 1905 e und der Stadtratsbeschlüsse zur Vergabe von Wohnbaugrundstücken im Baugebiet Ackermannstraße a) WA 4 b) WA 6
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Parkprobleme in der St.-Blasien-Straße
+- TOP .2.: Elternbeirat Ernst-Barlach-Realschule: Unterstand für wartende Schüler am provisorischen Bushalt am Petuelpark
+- TOP .2.1.: Umwelt
+- TOP .1.: Egmontstr. 8: Fällung einer Fichte
+- TOP .2.: Franz-Joseph-Str. 41: Fällung einer Ulme
+- TOP .3.: Isoldenstr./Mildred-Scheel-Bogen: Baumfällungen in Zusammenhang mit einem Bauvorhaben (vgl. TOP D.2.2)
+- TOP .4.: Karl-Theodor-Str. 84: Fällung einer Fichte
+- TOP .2.2.: Verkehr
+- TOP .1.: Asphaltierung und Einrichtung von Parkbuchten in der Georgenstraße (Empfehlung Nr. 02-08/E 00893 der Bürgerversammlung Maxvorstadt vom 24.10.2007 ? Anhörung zur Beschlussvorlage für den Stadtrat)
+- TOP .2.: Nahverkehrsplan der Landeshauptstadt München: Beteiligung der Bezirksausschüsse
+- TOP .3.: Leistungsprogramm der MVG (Fahrplanwechsel Dezember 2012)
+- TOP .4.: Lade- bzw. Anfahrtszone vor dem Kinderhaus ich&du in der Adams-Lehmann-Str. 36
+- TOP .5.: Einrichtung eines allgemeinen Behindertenparkplatzes im Bereich Karl-Theodor-Str. 95
+- TOP .6.: Stadtwerke München GmbH: Straßenbahnwendeschleife Lothstraße ? Trassierungsbeschluss: u.a. Keine Trambahnschleife an der Lothstraße (Empfehlung Nr. 08-14/E 00680 der Bürgerversammlung Schwabing-West vom 12.10.2010 ? Anhörung zur Beschlussvorlage für den Stadtrat)
+- TOP .7.: Ansbacher Straße: Weitere Bürgerschreiben - Anwohnerbefragung zur Parkregelung?
+- TOP .1.: Unterausschuss Soziales am 25.05.2011 um 19.45 Uhr in der Cafeteria des ASZ Schwabing-West, Eingang Hiltenspergerstr. 76
+- TOP .2.: Unterausschuss Wirtschaft und Kultur sowie Soziales (Budgetanträge TOP B.2.2 und B.2.4) am 19.05.2011 um 20.00 Uhr im Haus am Schuttberg, Belgradstr. 169
+- TOP .3.: Unterausschuss Planen und Wohnen am 19.05.2011 um 19.30 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .4.: Unterausschuss Umwelt und Verkehr am 19.05.2011 um 18.00 Uhr im Haus ?Olymp?, Elisabeth-Kohn-Str. 29
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
