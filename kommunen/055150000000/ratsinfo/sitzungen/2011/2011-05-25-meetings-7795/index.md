@@ -1,0 +1,79 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-05-25T18:10:00+02:00
+- Ende: 2011-05-25T21:22:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7795
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7795
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00307803.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Rahmenbedingungen für die Errichtung und den Betrieb von Spielhallen - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 7.1: Einstellung von Menschen mit Migrationsvorgeschichte bei Einrichtungen, die durch die Stadt Münster finanziell gefördert werden. - verwiesen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Einbringung von Vorlagen
+- TOP 10.1: Weiterentwicklung des Winterdienstes in der Stadt Münster - Vorlage eingebracht
+- TOP 10.2: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - Vorlage eingebracht
+- TOP 10.3: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2012 bis 2015 - Vorlage eingebracht
+- TOP 10.4: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - Vorlage eingebracht
+- TOP 10.5: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland - Vorlage eingebracht
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus für das Kalenderjahr 2011 - mehrheitlich beschlossen
+- TOP 12: Städtisches Stadion Hammer Straße - Sanierung des Flutlichts und Bereitstellung von Finanzmitteln - mehrheitlich beschlossen
+- TOP 13: "Public Corporate Governance Kodex" für die Stadt Münster und ihre Beteiligungen - von der Tagesordnung abgesetzt
+- TOP 14: Sachstandsbericht zur Umsetzung von Konsolidierungsvorschlägen - Hinweise zu den Positionen/Forderungen des Positionspapiers der Ratsgruppe UWG/ÖDP zum Haushalt 2011 - einstimmig beschlossen
+- TOP 15: Erweiterung Feuerwache 1, York Ring - Neubau Leitstelle und Rechenzentrum citeq - einstimmig beschlossen
+- TOP 15.1: Erweiterung Feuerwache 1, York Ring - Neubau Leitstelle und Rechenzentrum citeq
+- TOP 16: Atomstromfreies Münster - Bericht zum Sachstand - einstimmig beschlossen
+- TOP 17: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2011 - mehrheitlich beschlossen
+- TOP 18: Neuregelung der Trägervertretung in städt. Kindertageseinrichtungen - einstimmig beschlossen
+- TOP 19: Umwidmung der bestehenden Kinderhortangebote zugunsten des U-3 Ausbaus / Weiterentwicklung der Förderangebote der Jugendhilfe für Grundschulkinder im offenen Ganztag - Einrichtung von Förderinseln - einstimmig beschlossen
+- TOP 20: Umwidmung des Kinderhortes Lorenz Süd zu einem Förderangebot der Jugendhilfe für Grundschüler in Berg Fidel - einstimmig beschlossen
+- TOP 21: Maßnahmenprogramm einer kindbezogenen Armutsprävention in Münster - einstimmig geändert beschlossen
+- TOP 21.1: Maßnahmenprogramm einer kindbezogenen Armutsprävention in Münster
+- TOP 22: Einrichtung neuer Gruppen in Offenen Ganztagsschulen zum Schuljahr 2011/2012 - einstimmig beschlossen
+- TOP 23: Umbau der teilstationären Hilfen: Heilpädagogischer Hort gemäß § 27 II SGB VIII und Heilpädagogische Tagesgruppe gemäß § 32 SGB VIII - mehrheitlich beschlossen
+- TOP 24: Stiftung Generalarmenfonds: Neuentwicklung des "Areals Gartenstraße 84 - 92", Vergabe eines Erbbaurechts - einstimmig beschlossen
+- TOP 25: Feststellung von Jahresabschlüssen
+- TOP 25.1: Feststellung des Jahresabschlusses 2010 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 25.2: Feststellung des Jahresabschlusses 2010 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 25.3: Feststellung des Jahresabschlusses 2010 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 25.4: Feststellung des Jahresabschlusses 2010 der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 26: Bauleitplanung
+- TOP 26.1: Stadtbezirk Münster-Mitte
+- TOP 26.1.1: Aufhebung des Durchführungsplanes Nr. 33 für den Bereich Windthorststraße / Ludgeristraße / Prinzipalmarkt / Salzstraße / Loergasse / Loerstraße - einstimmig beschlossen
+- TOP 26.1.2: Bebauungsplan Nr. 209, vorhabenbezogene 2. Änderung - Beschluss zur Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - mehrheitlich beschlossen
+- TOP 26.1.3: Vorhabenbezogener Bebauungsplan Nr. 534: Kolde-Ring / Von-Stauffenberg-Straße / Von-Lüninck-Straße - mehrheitlich beschlossen
+- TOP 26.1.4: Genehmigung einer Dringlichkeitentscheidung zur Aufstellung eines Bebauungsplanes für den Bereich - einstimmig beschlossen
+- TOP 27: Verleihung der Auszeichnung "Zivilcourage für Münster" - Handeln statt Wegsehen - mehrheitlich beschlossen
+- TOP 28: Gewinnausschüttung der Sparkasse Münsterland-Ost
+- TOP 28.1: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - mehrheitlich beschlossen
+- TOP 28.2: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 28.3: Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 29: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 30.1: Resolution "Keine verkehrliche Neubelastung von Wohngebieten durch die Erhebung von Lkw-Maut!" - mehrheitlich beschlossen
+- TOP 30.2: "Keine Urantransporte durch Münster" - mehrheitlich geändert beschlossen
+- TOP 30.3: Resolution Konversionsflächen - vertagt
+- TOP 31: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 31.1: Organspende rettet Leben - Münster unterstützt Organspende - verwiesen
+- TOP 31.2: Sozial, attraktiv, lebendig: Für ein kommunales Konzept zur zukünftigen Nutzung der bisherigen britischen Familienwohnungen - verwiesen
+- TOP 31.3: Sozial, ökologisch und wirtschaftlich vernünftig: Von britischen Militärflächen zu neuen Stadtquartieren in Gremmendorf und Gievenbeck - verwiesen
+- TOP 31.4: Wohnen in Münster fördern - Baugruppen und Baugemeinschaften mehr Möglichkeiten eröffnen - verwiesen
+- TOP 31.5: Umgehungsstraße: Alternative Lärmschutzmöglichkeiten bei Ausschreibung zulassen - verwiesen
+- TOP 31.6: Vergünstigte Bereitstellung von Immobilien durch Erbbaurechts-/Mietverträge - verwiesen
+- TOP 31.7: Den Radverkehr der Zukunft ermöglichen - "Fahrradschnellstraßen" (ADFC) für Münster - verwiesen
+- TOP 32: Verschiedenes
