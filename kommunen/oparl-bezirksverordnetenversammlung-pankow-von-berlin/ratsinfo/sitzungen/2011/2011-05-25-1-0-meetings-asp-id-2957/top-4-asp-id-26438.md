@@ -1,0 +1,7 @@
+# TOP 4: Fortschreibung Kultur- und Bildungsentwicklungsplan - zweite Lesung Gesamtentwurf 40 min
+
+- Sitzung: öffentliche Sitzung des Ausschusses für Kultur und Bildung (2011-05-25)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=26438
+- Ergebnis: erledigt
