@@ -1,0 +1,7 @@
+# TOP 9: Mobilitätsbericht
+
+- Sitzung: Bezirksvertretung 4 (2011-05-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/169688
+- Ergebnis: zur Kenntnis genommen
