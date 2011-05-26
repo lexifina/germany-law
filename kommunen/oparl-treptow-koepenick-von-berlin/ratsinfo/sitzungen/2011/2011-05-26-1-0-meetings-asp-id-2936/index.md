@@ -1,0 +1,84 @@
+# 51. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-05-26T16:30:00+02:00
+- Ende: 2011-05-26T22:05:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2936
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2936
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=99384
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Zuständigkeiten innerhalb des Bezirksamtes - vertagt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Restaurierung und Renovierung beim Standesamt im Rathaus Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Aufhebung des Bezirksamtsbeschlusses 339/2009 über die Neuregelung von Raumüberlassung an Dritte im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Ehemalige Sportfläche Birkenwäldchen als Hundesport- und -auslaufgebiet - überwiesen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Wir wollen Können müssen - schriftlich beantwortet
+- TOP 10.2: Barrierefreiheit – auch in der Altstadt Köpenick - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sondermittel für Evangelische Kirchengemeinde Berlin-Baumschulenweg (SM 1114) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sondermittel für offensiv ´91 e. V. (SM 1116) - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Sondermittel für Berliner Sportverein AdW e. V. (SM 1119) - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Sondermittel für Schülerruderverband Berlin e. V. (SM 1120) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Bürger für Rahnsdorf e. V. (SM 1121) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Behindertenverein Köpenick e. V. (SM 1125) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für "Lichtblick" Selbsthilfegruppe Krebs (SM 1126) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für Förderverein „Spielhaus Müggelspree“ e. V. (SM 1127) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.9: Sondermittel für Seniorenverein Wuhlheide e. V. (SM 1129) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für Freunde der Joseph-Schmidt-Musikschule e. V. (SM 1130) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Schreibwerkstatt Kiezclub Bohnsdorf (SM 1135) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Radwegekonzept Treptow-Köpenick 2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Museum Fritz Kühn - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Fußgängerüberweg in Johannisthal sichern - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Kampf der Verwahrlosung hier: Grundstück Werderstraße/Ecke Grünauer Straße (Altglienicke) - vertagt
+- TOP 12.4: Energieeffiziente Gebäudesanierung (I) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Hinweisschild Ortsteil Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Radverkehrsführung in der Puschkinallee während der Sperrung - vertagt
+- TOP 12.7: Bebauungsplan XVI-47 („Bölschestraße“) hier: Einstellung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Bebauungsplan XV-21b ("Am Berg") hier: Inhaltliche Änderungen zum Planungsentwurf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Zukunft des Kreiswehrersatzamtes Berlin sichern - vertagt
+- TOP 12.10: Tempo 30 auf dem Königsheideweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Aussetzung der Zahlungsverpflichtung für Grundsteuer - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-34 ("Puerto Verde") hier: Beschluss zur Änderung des Aufstellungsverfahrens für den Bebauungsplan 9-34 gem. § 10 BauGB - überwiesen
+- TOP 13.2: Entwicklung einheitlicher Leitlinien für die Förderung des Bürgerschaftlichen Engagements des Bezirksamtes Treptow-Köpenick von Berlin entsprechend Beschluss 884/41/10 der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin (Drs. VI/1415 i.g.F.vom 27.05.2010) unter Einbeziehung der Paritätischen Akademie gGmbH - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan XVI-6 B ("Müggelheimer Damm") hier: - Änderung des Geltungsbereichs, Weiterführung nach § 13 BauGB - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Nachwuchsleistungszentrum für den 1. FC Union Berlin - überwiesen
+- TOP 14.2: Standort für Nachwuchsleistungszentrum des 1. FC Union - überwiesen
+- TOP 14.3: Haltelinie auf der Rudower Straße (Altglienicke) - überwiesen
+- TOP 14.4: Wuhlewanderweg - überwiesen
+- TOP 14.5: Willenserklärung der Bezirksverordneten gegen Überflug - vertagt
+- TOP 14.6: Straßenausbaubeitragsgesetz schnellst möglich abschaffen - überwiesen
+- TOP 14.7: Fortschreibung des Sportstättenentwicklungsplans 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Schillerpromenade in Oberschöneweide - überwiesen
+- TOP 14.9: Mehr Sitzbänke im öffentlichen Raum - überwiesen
+- TOP 14.10: Einrichtung des Fritz-Kühn-Museums - überwiesen
+- TOP 14.11: Gedenktafeln in Rathäusern zeitnah aktualisieren - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Rechtsmittel gegen Überflug - vertagt
+- TOP 14.13: Kurzzeitparken am Rathaus Treptow - überwiesen
+- TOP 14.14: Ehemalige Sportanlage Birkenwäldchen an Sportvereine übergeben - überwiesen
+- TOP 14.15: Vergabe von Grillflächen im Schlesischen Busch - überwiesen
+- TOP 14.16: Musikalische Bildung ausweiten - überwiesen
+- TOP 14.17: Sonderprogramm "Neue Straßenbäume für Berlin" - überwiesen
+- TOP 14.18: Fahrradweg Ottomar-Geschke-Straße - überwiesen
+- TOP 14.19: Radverkehrssicherheit Kiefholzstraße/Dammweg - überwiesen
+- TOP 14.20: Kinderfreundlicher Bezirk Treptow-Köpenick – Cities for Children - überwiesen
+- TOP 14.21: Veranstaltung zur ersten Straßenbahndurchfahrt am Bahnhof Adlershof unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 14.22: Treptow-Köpenick im Web 2.0 - überwiesen
+- TOP 15: Große Anfragen - (offen)
