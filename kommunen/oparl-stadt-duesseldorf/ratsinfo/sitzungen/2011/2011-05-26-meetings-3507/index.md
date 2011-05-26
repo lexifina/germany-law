@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-05-26T14:00:00+02:00
+- Ende: 2011-05-26T20:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3507
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3507
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00159778.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00159778.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00159778.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell der SPD: Antwort der Landesregierung auf die Anfrage des Abgeordneten Markus Töns - beantwortet
+- TOP 3.2: Aktuelle Anfrage der Ratsfraktion von BÜ90/GRÜ: Aufgabenverteilung des Beigeordneten Kruse - beantwortet
+- TOP 3.3: Aktuelle Anfrage der Ratsfraktion von BÜ90/GRÜ: Abriss Tausendfüßler - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage CDU-FDP: Informations- und Serviceangebote - beantwortet
+- TOP 4.2: Anfrage Frei Wähler: Tschernobyl - beantwortet
+- TOP 4.3: Anfrage Bü90/Grü: Bildungspaket in Düsseldorf - beantwortet
+- TOP 4.4: Anfrage Linke: Kostensteigerung beim Informationspavillon Kö-Bogen - schriftlich beantwortet
+- TOP 4.5: Anfrage FDP und CDU: Aktiv für Organspenden - schriftlich beantwortet
+- TOP 4.6: Anfrage der SPD: Stiftungspreis 2011 - schriftlich beantwortet
+- TOP 4.7: Anfrage der SPD: Bahnhofsgebäude Gerresheim - schriftlich beantwortet
+- TOP 4.8: Anfrage RH Gutt: Partymüll - schriftlich beantwortet
+- TOP 4.9: Anfrage LINKE: Kauf Truppenübungsplatz - schriftlich beantwortet
+- TOP 4.10: Anfrage des Rh Laubenburg: Gültigkeit des Kirchenrechts - schriftlich beantwortet
+- TOP 5: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 7: Künstlerische Arbeiten Wehrhahn-Linie - mehrheitlich beschlossen
+- TOP 8: Gesamtnutzungskonzept für den Unterbacher See, Elbsee, Menzelsee und Dreiecksweiher in Düsseldorf - mehrheitlich beschlossen
+- TOP 9: Gutachtergremium für Entschädigungen beim U-Bahn-Bau - einstimmig beschlossen
+- TOP 10: Regiobahn Fahrbetriebsgesellschaft mbH Aufsichtsrat- Neuwahl - einstimmig beschlossen
+- TOP 11: Verwaltungsausschuss der Agentur für Arbeit Düsseldorf - einstimmig beschlossen
+- TOP 12: Bibliothekarischer Beirat der ekz.bibliotheksservice GmbH - Neuwahl - - einstimmig beschlossen
+- TOP 13: Umbesetzung von Ausschüssen und sonstigen Gremien - zurückgezogen
+- TOP 14: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 15: Planungsmaßnahmen
+- TOP 16: Aufhebung ErschlSicherungsbeschl. Max-Plack-Str - einstimmig beschlossen
+- TOP 17: Gestaltungsbeschluss "Freiraumkonzept Kö-Bogen" - mehrheitlich beschlossen
+- TOP 18: Anträge
+- TOP 18.1: Antrag der Ratsfraktionen von SPD und BÜ90/GRÜ: Hofgarten besser schützen - mehrheitlich abgelehnt
+- TOP 18.2: Antrag Bü90/Grü: Das Atomzeitalter beenden - die Zukunft gehört den Erneuerbaren Energien! - mehrheitlich abgelehnt
+- TOP 18.2.1: ÄA Rh Laubenburg: Atomanlagen abschalten - mehrheitlich abgelehnt
+- TOP 18.3: Antrag SPD: Masterplan preiswertes Wohnen- - mehrheitlich abgelehnt
+- TOP 18.3.1: Antrag Linke: Kommunaler Wohnungsbau für Düsseldorf - mehrheitlich abgelehnt
+- TOP 18.3.2: Antrag CDU und FDP: Handlungskonzept Wohnungsbau - mehrheitlich beschlossen
+- TOP 18.4: Antrag Linke: Unterstützung der Hebammen in Düsseldorf - einstimmig abgelehnt
+- TOP 18.5: Antrag Linke: Zukunft der Kommunalfinanzen - mehrheitlich abgelehnt
+- TOP 18.6: Antrag Linke: Keine Abschiebungen in den Kosovo - mehrheitlich abgelehnt
+- TOP 18.7: Antrag Linke: Keine Bundeswehr an Düsseldorfer Schulen - vertagt
+- TOP 18.7.1: ÄA Rh Laubenburg: Keine Bundeswehr an Düsseldorfer Schulen - vertagt
+- TOP 18.8: Antrag Linke: Einführung eines BürgerInnen-Haushaltes - vertagt
+- TOP 18.9: Antrag der Ratsfraktionen von SPD, Bü90/GRÜ und DIE LINKE: Unterstützung der Kampagne "Steuer gegen - vertagt
+- TOP 18.10: Antrag SPD: Klimaausgleichszahlungen für städtische Tochterunternehmen - vertagt
+- TOP 18.11: Antrag Bü90/Grü: Bildungs- und Teilhabepaket (BuT) für Flüchtlingskinder - vertagt
