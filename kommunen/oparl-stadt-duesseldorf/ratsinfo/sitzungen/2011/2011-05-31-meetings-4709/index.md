@@ -1,0 +1,55 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-05-31T16:00:00+02:00
+- Ende: 2011-05-31T20:25:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4709
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4709
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00160002.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00160002.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00160002.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift 3/2011 - zur Kenntnis genommen
+- TOP 3: Zulassung von Sachverständigen und Einwohnern - zur Kenntnis genommen
+- TOP 4: Angermunder Baggersee - zur Kenntnis genommen
+- TOP 5: Ausbau der Anger - zur Kenntnis genommen
+- TOP 6: Grundwasser Angermund - zur Kenntnis genommen
+- TOP 7: Photovoltaikanlage am Düsseldorfer Flughafen - zur Kenntnis genommen
+- TOP 8: Plan Nr. 5282/020 - Niederrheinstraße - Änderung des Aufstellungsbeschlusses - zur Kenntnis genommen
+- TOP 9: B-Plan Nr. 5282/020 - Niederrheinstraße - Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: PFT-Grundwasserverunreinigung Lohausen/ Kaiserswerth - zur Kenntnis genommen
+- TOP 13: Trödelmarkt Messeparkplatz 05.06.2011 - zur Kenntnis genommen
+- TOP 14: Dringlichkeitsentscheidung Schülerspezialverkehr - zur Kenntnis genommen
+- TOP 15: Dringlichkeitsentscheidung Wochenmarkt - zur Kenntnis genommen
+- TOP 16: Bauunterhalt für Dritte - zur Kenntnis genommen
+- TOP 17: Filmwerkstatt - Grundschule Fliednerstraße - zur Kenntnis genommen
+- TOP 18: Gesamtkonzept Grundschule Kaiserswerth - zur Kenntnis genommen
+- TOP 19: Kindergartenplätze im Jahr 2011/2012 im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 20: Graf-Engelbert-Straße 6 - zur Kenntnis genommen
+- TOP 21: Schließung der Wasserwerke Duisburg - zur Kenntnis genommen
+- TOP 22: Kaiserswerther Markt - zur Kenntnis genommen
+- TOP 23: Trassenführung U 81 - zur Kenntnis genommen
+- TOP 24: Weiterbau der Straßenbahn bis Messeeingang SÜD - zur Kenntnis genommen
+- TOP 25: Anbindung A 44 an die Rotterdamer Straße - zur Kenntnis genommen
+- TOP 26: Wochenmarkt in Angermund - zur Kenntnis genommen
+- TOP 27: Kreuzbergstraße/Alte Landstraße - FGÜ - zur Kenntnis genommen
+- TOP 28: Kinderspielplatz Hoppengarten - Babyschaukel - zur Kenntnis genommen
+- TOP 29: 3D-Animations-Darstellung der Festung Kaiserswerth - zur Kenntnis genommen
+- TOP 30: Gerichtsschreiberweg - Anpflanzung von Bäumen - zur Kenntnis genommen
+- TOP 31: Radwege im Stadtbezirk 5 - zur Kenntnis genommen
+- TOP 32: Beseitigung von Farbvandalismus - zur Kenntnis genommen
+- TOP 33: Stadtbahnhaltestelle Am Mühlenacker - zur Kenntnis genommen
+- TOP 34: Schülerspezialverkehr - zur Kenntnis genommen
+- TOP 35: Stellungnahmen und Mitteilungen 31.05.2011 - zur Kenntnis genommen
+- TOP 36: Widmung einer Verkehrsfläche - zur Kenntnis genommen
+- TOP 37: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich - zur Kenntnis genommen
+- TOP 38: Verschiedenes - zur Kenntnis genommen
