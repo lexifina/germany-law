@@ -1,0 +1,106 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-05-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2093914
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2093914
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Südliches Bahnhofsviertel e.V. Stadtteilfest am 17.07.2011
+- TOP .1.: Erstellen eines Lärmgutachtens rund um den Gärtnerplatz (GP), Antrag-Nr. 08-14 / 02008, Einsatz von Mediatoren und Flyern im Bereich GP, Antrag-Nr. 08-14 / B 02006, Einführung eines Konzepts zur Verbesserung der Situation am GP, Antrag-Nr. 08-14 / B 2007 - Beschlussvorlage Kreisverwaltungsausschuss vom 07.06.2011
+- TOP .1.: BA-Budget: Bewilligungsbescheide (1)
+- TOP .2.: Jahresbericht 2010: Behindertenbeirat
+- TOP .3.: Möglichkeit zur Erhöhung des BA-Budgets für eigene Veranstaltungen
+- TOP .4.: Vorkaufsrecht nach dem BauGB: - Klenzestraße - Adlzreiterstraße - Corneliusstraße
+- TOP .5.: Schreiben der SWM bzgl. neuer Bädereintrittspreise
+- TOP .6.: Eilentscheidung: Stellungnahme zur den vorgeschlagenen Spielaktionen "Spielen in der Stadt e.V."
+- TOP .7.: Jahresbericht 2010: Teestube "komm"
+- TOP .8.: Instandsetzungs- & Brandschutzmaßnahmen in der Sporthalle der Grund- und Förderschule Stielerastr. 6
+- TOP .9.: Erlass einer Erhaltungssatzung - Gärtnerplatzviertel; Beschluss Ausschuss Stadtplanung und Bauordnung 13.04.2011
+- TOP .10.: Zweckentfremdung: - Thalkirchner Straße
+- TOP .1.: Bürgeranliegen: Sozialklimaindex München (Anhörung)
+- TOP .2.: Vorschläge für Erinnerungsorte in München (TOP A 3.1 04/11)
+- TOP .3.: Bürgeranliegen: Unterrichtsgebäude Wittelsbacherschule ist unzumutbar
+- TOP .4.: Kinder-/Mittagsbetreuung im Viertel
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: St. Paul-Straße: vorgezogene Aufstellfläche Fußgängerüberquerung bei der U-Bahn, Schulweg
+- TOP .2.: Kapuzinerstraße
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Mozartstr. 21: Nutzungsänderung, Umbau (EilE)
+- TOP .2.: Poccistr. 1-3: Nutzungsänderung (EilE)
+- TOP .3.: Hermann-Lingg-Str. 16: Nutzungsänderung, Umbau (EilE)
+- TOP .4.: Maistr.10: Umbau, Nutzungsänderung (EilE)
+- TOP .5.: Poccistr. 1-5: Nutzungsänderung (EilE)
+- TOP .6.: Sonnenstr. 12: Umbau
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Landwehrstr. 81
+- TOP .2.: Pettenkoferstr. 9a
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Nahverkehrsplan der LHM (EilE)
+- TOP .2.: Beschlussvorlage zum Klenzesteg - Auslobung eines Wettbewerbs (EilE bis 19.!)
+- TOP .3.: Entwicklung eines landschaftsplanerischen Konzepts für die Theresienwiese; BV-Empfehlung Nr. 08-14 / E 00741 vom 11.11.2010
+- TOP .1.: Vollzug des Allg. Eisenbahngesetzes; Plangenehmigung für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz
+- TOP .2.: Antrag des BA 7 bzgl. Spielhallenproblematik
+- TOP .3.: Müllerstr. 3-7: Baugenehmigung
+- TOP .4.: Landwehrstr. 63: Baugenehmigung
+- TOP .5.: Baumaßnahmen SWM: - Fernwärmeprojekt Klenzestr. 46a - Informationsflyer 1. Halbjahr 2011 - Fernwärmeprojekt Landwehrstraße
+- TOP .6.: Standortsicherung Mobilfunksendeanlage(n)
+- TOP .7.: Hans-Sachs-Str. 3: Vorbescheid
+- TOP .8.: Vollzug der Grünanlagensatzung - Baustelleneinrichtung in der Isartalstraße
+- TOP .9.: Westermühlstr. 19:Antwortschreiben LBK - Baufall wurde genehmigt
+- TOP .10.: Hermann-Lingg-Straße - Erneuerungsmaßnahmen; Beschluss Bauausschuss 10.05.2011
+- TOP .1.: Schreiben des BA 12 bzgl. des Werbenutzungsvertrags der LHM
+- TOP .2.: Begrünung im Stadtbezirk (insbesondere Reichenbachstraße)
+- TOP .3.: Bürgeranliegen: Bauvorhaben Fraunhoferstr. 43 (insbesondere Baumschutz)
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Lindwurmstr. 147: Genehmigung Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Lindwurmstr. 99: Aufstellung einer Warenstellage
+- TOP .2.: Ecke Bayerstr./Goethestr.: Standortänderung Zeitungsentnahmekasten
+- TOP .3.: Fahrradabstellkonzept: Neu-Erteilung von Ausnahmegenehmigungen mobiler Fahrradständer
+- TOP .4.: Fahrradabstellkonzept: Widerruf einer Sondernutzungserlaubnis für mobilen Fahrradständer
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Einrichtung einer Querungsmöglichkeit am Sendlinger-Tor-Platz (Ziffer 2)
+- TOP .1.: Pestalozzistraßenfest am 03.09.2011
+- TOP .2.: Gemeindefest der Katholischen Pfarrei St. Maximilian am 24.07.2011
+- TOP .3.: Special Olympics: Antrag zur Nutzung der Theresienwiese am 20.-26.05.2012
+- TOP .3.2: Verkehr
+- TOP .1.: Beschlussentwurf Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße
+- TOP .1.: siehe TOP A 3.1
+- TOP .1.: Versammlungen unter freiem Himmel (7)
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund (5)
+- TOP .3.: Unveränderte Gaststättenfortführungen: - Tumblingerstr. 16: Herrnbräustüberl - Zenettistr. 11: Bistro Feinkost Monti - Pestalozzistr. 32: AN Nam - Prielmayerstr. 6: Kong - Tumblingerstr. 17: Raki Bar - Sendlinger-Tor-Platz 5: La Scala
+- TOP .4.: Verkehrsrechtliche Anordnungen: - Einrichtung allg. Behindertenparkplatz, Holzstr. 9 - Brückensanierung Lerchenauer Brücke - Parkraummanagement - Lizenzgebiet "Gärtnerplatz" - Arbeiten im Straßenraum: Bumenstraße - Corneliusstraße
+- TOP .5.: Erlaubnisbescheide (3)
+- TOP .6.: Bürgeranliegen: illegale Tiefflieger
+- TOP .7.: Brunnen am Sendlinger-Tor-Platz; Bekanntgabe Bauausschuss 10.05.0211
+- TOP .8.: Bürgeranliegen: Anzeige wegen Ruhestörung durch Gaststätte und Antrag auf Lärmpegelmessung in der Thalkirchner Str.
+- TOP .9.: Bürgeranliegen: Anzeige wegen Ruhestörung durch Gaststätte in der Rumfordstr.
+- TOP .10.: Bürgeranliegen: zu wenig / zu unhygienische WCs beim Riesenflohmarkt auf der Theresienwiese
+- TOP .11.: Kunstprojekt "Skulptur Protest" am Gärtnerplatz (TOP C 3.1.1 04/11): Rückmeldung der Mediatoren und der Veranstalterin: Projekt wird verschoben
+- TOP .1.: Platzneugestaltung Rumford-/Baaderstraße
+- TOP .2.: Bürgeranliegen: Verkaufsstand am Goetheplatz blockiert Gehsteig
+- TOP .3.: Bürgeranliegen: Anzeige wegen Ruhestörung durch Gaststätte in der Holzstraße
+- TOP .4.: Flohmarkt auf der Theresienwiese (siehe auch TOP C 4.10)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Schreiben des BA 12 bzgl. Verteilung städtischer Telefonbücher an BA-Mitglieder
+- TOP .2.: Schaffung Beauftragte(r) für Stadtteilheimatpflege - Antrag des BA 13
+- TOP .3.: Ablauf von Bürgerversammlungen - Antrag des BA 21
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
