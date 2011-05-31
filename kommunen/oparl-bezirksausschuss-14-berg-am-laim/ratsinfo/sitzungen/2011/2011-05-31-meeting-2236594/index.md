@@ -1,0 +1,109 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-05-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236594
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236594
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Ampfingstraße - Querungshilfe Mittlerer Ring - <div></div>
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Truderinger Str. 186 - Errichtung einer Tankstelle mit Backshop
+- TOP 3.1.1.2.: Ampfingstraße 57 - Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.1.3.: Gotteszeller Str. 1 - 23; Mühldorfstraße 38 - Verkauf städtischer Immobilien an 100 % städtische Tochtergesellschaften im Rahmen des Vollzugs des Stadtratsbeschlusses ?Neuorganisation des städtischen Wohnungsbestandes?
+- TOP 3.1.1.4.: 110-kV-Bahnstromleitung BL520 Abzw. Karlsfeld - München Ost - Ersatzneubau
+- TOP 3.1.1.5.: ROST, Optimolgelände und Kultfabrik ? Schluss mit Provisorien und Hinhaltetaktiken - <div></div>
+- TOP 3.1.2.1.: Barrierefreier Ausbau und Aufwertung der Fuß- und Radwegunterführung unter dem Innsbrucker Ring - Bedarfs- und Konzeptgenehmigung, Projektauftrag
+- TOP 3.1.2.2.: Nahverkehrsplan der Landeshauptstadt München
+- TOP 3.1.2.3.: Leistungsprogramm 2012 der MVG - Fahrplanwechsel Dezember 2012
+- TOP 3.1.3.1.: Müllproblem München Ost / Flohmarkt Michaelibad - <div></div>
+- TOP 3.2.1.: Behrpark: Serenade, Theater, Singen des Bürgerkreises Berg am Laim
+- TOP 3.2.2.: Bad-Kreuther-Straße: Sommerfest der Maikäfersiedlung am 16.07.2011
+- TOP 3.2.3.: St.-Veit-Festwiese: Johannifeuer im Rahmen der Stadtteilwoche
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.3.1.: 18.jetzt - Fest junger Erwachsener im Rathaus am 08. Oktober 2011
+- TOP 3.4: Bereich Soziales
+- TOP 3.4.1.: Sozialklimaindex München Ost - <div></div>
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Init. "lass 1000 Sonnen blühen" c/o R. Haller NaturKunstAktion "lass tausend Sonnen blühen" von Juni - September 2011 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Kita St. Michael Berg am Laim Selbstbehauptungskurs vom 04. - 29.07.2011 - <div></div>
+- TOP 3.6.1.: St.-Michael-Straße 104 - 116
+- TOP 3.6.2.: Freilassinger Str. 24
+- TOP 3.6.3.: Truderinger Str. 186
+- TOP 3.6.4.: Ampfingstraße 57
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.1.2.: Hochwasserableitung Hachinger Bach
+- TOP 4.1.1.3.: Standort der Bundesmonopolverwaltung für Branntwein (BfB)
+- TOP 4.1.1.4.: Ursberger Str. 5 - Abbruchanzeige
+- TOP 4.1.1.5.: St.-Michael-Str. 2 - Unveränderte Fortführung eines Gaststättenbetriebes
+- TOP 4.1.1.6.: Berg-am-Laim-Str. 73 - Unveränderte Fortführung eines Gaststättenbetriebes
+- TOP 4.1.1.7.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007? - Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 4.1.1.8.: Perspektive München - Fortschreibung 2011 - Leitmotiv, strategische Leitlinien
+- TOP 4.1.1.9.: Regionsbericht 2010
+- TOP 4.1.1.10.: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften
+- TOP 4.1.1.11.: Genossenschaftsidee fördern I - Genossenschaftlichen Wohnungsbau weiter stärken
+- TOP 4.1.1.12.: Münchner Wochen- und Bauernmärkte - Voraussetzungen zur Einrichtung eines Marktes
+- TOP 4.1.2.1.: Fernwärmebaustelle in Berg am Laim
+- TOP 4.1.2.2.: Überprüfung des Bedarfsplans für die Bundesschienenwege
+- TOP 4.1.2.3.: München setzt aufs Rad 1 - Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs
+- TOP 4.1.2.4.: Generalplan für Fahrradabstellplätze
+- TOP 4.1.3.1.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 4.2.1.: Nutzung von Sportstätten zur bürgerschaftlichen Nutzung
+- TOP 4.2.2.: Sommerfest des SOS Beratungs- und Familienzentrums am 02.07.11 i.d. St.-Michael-Str.
+- TOP 4.2.3.: Protokoll Jour Fixe des Kulturreferats mit den Bezirksausschüssen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Zuschussnehmerdatei 2011 - Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Sozialreferates/Zentrale
+- TOP 4.4.2.: Zuschussnehmerdatei 2011 - Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 4.4.3.: Zuschussnehmerdatei 2011 - Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP 4.4.4.: Zuschussnehmerdatei 2011 - Vollzug des Haushaltsplanes 2011 für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 4.4.5.: Insolvenz des sozialen Hilfsdienstes Weiße Feder gGmbH - Betreuung der ehemaligen Beschäftigten
+- TOP 4.4.6.: Protokoll zur BA-Informationsveranstaltung des Sozialreferates vom 29.11.2010
+- TOP 4.4.7.: Auftritt ?Die Atzen? am 06.05.2011 in der TonHalle München
+- TOP 4.5.1.: Projektteam ?Sport? der städtischen Ludwig-Thoma-Realschule
+- TOP 4.5.2.: Projektteam ?Zirkus? der städtischen Ludwig-Thoma-Realschule
+- TOP 4.5.3.: Projektteam ?Afrika? der städtischen Ludwig-Thoma-Realschule
+- TOP 4.6.1.: Baumfällungen an der Bushaltestelle Josephsburg
+- TOP 4.6.2.: Bad-Kissingen-Str. 66
+- TOP 4.6.3.: Bad-Kissingen-Str. 68
+- TOP 4.6.4.: Kraiburger Straße 39
+- TOP 4.6.5.: Guffertstraße 10
+- TOP 4.6.6.: Waldstraße 3
+- TOP 4.6.7.: Neumarkter Str. 66
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
