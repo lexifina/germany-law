@@ -1,0 +1,95 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2011-05-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2191856
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2191856
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Kurzvortrag der VIVICO, Nachnutzung des ehemaligen Eisenbahnaus-besserungswerkes in Freimann? (mit Vertretern von BAUHAUS und Vertreter der Activ-Group) sowie kurzer Information der UA-Vorsitzenden Stadtplanung und Architektur zum ?Aufstellungsbeschluss zum Vorhabenbezogenen Bebauungsplan? mit anschließender Diskussion und ggf. Votum
+- TOP .2.: Eilentscheidung: - StuStaCulum am 01.-04.06.2011
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Zusendung der Antworten der Verwaltung von Anträgen an den Antragsteller
+- TOP .1.: Ablauf von Bürgerversammlungen ? Antrag des BA21 Pasing-Obermenzing
+- TOP .10.: Sonstiges
+- TOP .1.: Besetzung des Feriensenats
+- TOP .1.: (E) Budget der Bezirksausschüsse Domagkateliers gGmbH Ateliereröffnung vom 14. - 17.07.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Cleec e.V. Kinder- und Jugendinsel des Corso Leopold Straßenfestes im Juni und September 2011
+- TOP .3.: (E) Budget der Bezirksausschüsse KJR Freizeittreff Freimann Riesenkicker-Turnier am 15.06.2011
+- TOP .4.: (E) Budget der Bezirksausschüsse Initiative "Dia de Muertos" Veranstaltung "Dia de Muertos" vom 01. - 13.11.2011
+- TOP .1.: Sommerfest Kleingartenverein, Domagkstraße 39
+- TOP .1.: Sozialklima in München
+- TOP .2.: Unterstützung bei Budgetanträgen beim Kulturreferat (Theater des Hölzernen Gelächters)
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Filou 2", Schank- und Speisewirtschaft, Feilitzschstr. 19
+- TOP .2.: Name noch nicht bekannt, Ausschank von Getränken und Abgabe zubereiteter Speisen in einem Warenhaus, Ingolstädter Str. 40
+- TOP .3.: Name noch nicht bekannt (vormals ?Orange?), Schank- und Speisewirtschaft, Ursulastr. 10
+- TOP .4.: ?Schwabinger 7? bisher ?Gummizelle?, Schankwirtschaft, Feilitzschstr. 15
+- TOP .1.: Zuwendungsbewilligungen / Ablehnungen (Bescheide) über beantragte Zuwendungen a) Kreisjugendring München-Stadt; Freizeittreff Freimann für die Maßnahme: Anschaffung neuer Tische und Stühle b) Performancegruppe fishing for Compliments für die Maßnahme: Projekt "publimicy" vom 21.05. - 30.07.2011 c) Kulturverein Alte Heide e.V. für die Maßnahme: Theater "Ein Sommernachtstraum" ab 20.05.2011 d) Schwabinger Frisbee Buam e.V. für die Maßnahme: Sportprojekt am 07.05.2011 e) Theater des hölzernen Gelächters für die Maßnahme: Theaterproduktion von Juni bis September 2011 f) Theater Heppel & Ettlich für die Maßnahme Theaterreihe "Das Heppel geht fremd?
+- TOP .2.: Genehmigung (Bescheid) für das Pfarrfest der Kath. Kirchenstiftung St. Ursula am 09.07.2011 am Kaiserplatz
+- TOP .3.: MTTC Iphitos e.V.; Errichtung eines Fitness- und Turnraumes auf dem Sportgelände am Aumeisterweg 10 und Änderung des Mehrjahresinvestitionsprogramms 2010-2014 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 13.04.2011 Sitzungsvorlage Nr. 08-14 / V 06342
+- TOP .4.: Erinnerungsorte München, Beschluss des Kulturausschusses vom 03.03.2011 Sitzungsvorlage Nr. 08-14 / V 05426 (vertagt aus 04/11)
+- TOP .5.: Bezahlbaren Wohnraum in München erhalten ? Förderung von Genossenschaften; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 06756
+- TOP .6.: Genossenschaftsidee fördern I; Genossenschaftlichen Wohnungsbau weiter stärken; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 06766
+- TOP .7.: Anzeige von Versammlungen unter freiem Himmel Anzeige von Versammlungen unter freiem Himmel a) Gegen die Neubebauung an der Feilitzschstr. 7-9, Für einen Bebauungsplan in Altschwabing am 17.05.2011 an der Münchner Freiheit b) Gegen die geplante Neubebauung an der Feilitzschstr. 7-9, Für den Schutz des Kulturquartiers Altschwabing, Für einen Bebauungsplan in Altschwabing am 27.05.2011 zwischen Geschwister-Scholl-Platz und Wedekindplatz
+- TOP .1.: Erweiterung einer Freischankfläche, Occamstraße 11
+- TOP .2.: Aufstellung von Warenstellagen in der Hohenzollernstr. 32
+- TOP .3.: Erweiterung einer Freischankfläche, Hörwarthstr. 4
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Osterwaldstr. 64, Flurstück 1063/8, Neubau eines Einfamilienhauses, diverse Bäume
+- TOP .2.: Trautenwolfstr. 6, Flurnummer 3236, 1 Spitzahorn
+- TOP .1.: Bauvorhaben: Freisinger Landstraße, Flurstück 548/0, Neubau eines Wasserkraftwerkgebäudes (vertagt aus 04/11)
+- TOP .2.: Bauvorhaben: Hohenzollernstr. 1, Flurstück 4452/0, Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit Tiefgarage (Hohenzollernstr. 1+3 / Leopoldstr. 37) - Vorbescheid
+- TOP .3.: Bauvorhaben: Destouchesstr. 8, Fl.Nr.: 379/35, Errichtung einer Dachgaube
+- TOP .4.: Bauvorhaben: Leopoldstr. 23, Flurstück 444/3, Neubau eines Büro- und Geschäfts- gebäudes mit Tiefgarage
+- TOP .1.: Parkstadt Schwabing, Bebauungsplan Nr. 1781 ? Realisierung der Pavillons
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Bauleitplanung der Gemeinde Unterföhrung; Aufstellung eines vorhabenbezogenen Bebauungsplanes Nr. 72a/10 (Antwort des Referats für Stadtplanung und Bauordnung vom 18.04.2011)
+- TOP .2.: Kündigung der Nutzungsverhältnisse und Abriss von Haus 49 (Domagkstraße 33) - Domagkateliers (Schreiben des Referats für Stadtplanung und Bauordnung an das Kommunalreferat vom 18.04.2011)
+- TOP .3.: Baumfällungen auf dem öffentlichen Parkplatz / Neugestaltung der Münchner Freiheit Schreiben des Oberbürgermeisters vom 26.04.2011
+- TOP .4.: Baumaßnamen der Stadtwerke München a) Fernwärmeprojekt, Am Eisbach b) Wasserprojekt, Situlistraße
+- TOP .5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/43, Sitzungsvorlagen-Nr. 08-14 / V 06273 Otto-Sendtner-Straße (beiderseits), Isar (westlich) ? Gärtnersiedlung Freimann - Beschluss der Vollversammlung des Stadtrates vom 06.04.2011;
+- TOP .6.: Baustelleneinrichtung in der Brabanter Str. 14 + 16
+- TOP .7.: Bebauungsplan Nr. 1943 b ? ehemalige Funkkaserne (Pläne der Baustraßen zur Information)
+- TOP .8.: Veränderungssperre Nr. 649; Otto-Sendtner-Straße 4 (Bebauungsplan 2012) Flurstücke Nr. 589/13; Gemarkung Freimann, nochmalige Verlängerung nach § 17 Abs. 2 BauGB, Sitzungsvorlagen-Nr. 08-14 / V 06730 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .9.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007? und Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz. 2 Nr. 1 und Nr. 2 BauGB, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 06796
+- TOP .1.: Aufstellung eines mobilen Fahrradständers, Haimhauserstraße 1
+- TOP .2.: Aufstellung eines mobilen Fahrradständers, Franz-Joseph-Straße 19
+- TOP .1.: Errichtung einer Anfahrtszone für die Kinderkrippe in der Ungererstr.75
+- TOP .1.: Aufstellung von größeren Abfallbehältern am Kaiserplatz 1
+- TOP .1.: Leinenzwang für Hunde im Leopoldpark
+- TOP .2.: Hundekottütenspender für die Parkstadt Schwabing
+- TOP .1.: Errichtung einer Kurzparkzone in der Mannlichstr. 3
+- TOP .2.: Änderung des Zeitzusatzes der vorhanden Haltverbotszone, Keilberthstraße
+- TOP .3.: Teilsignalisierung Isarring / Ifflandstraße
+- TOP .1.: Petuelltunnel-Baumaßnahmen während der Pfingstferien; Information des Baureferats vom 14.04.2011
+- TOP .2.: Errichtung eines absoluten Haltverbots im Bereich des Anwesens Heinrich-Groh-Straße 17 / Heinrich-Geißler-Straße (Antwort des KVR vom 18.04.2011 zum Schreiben des BA vom 24.02.2011)
+- TOP .3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (6)
+- TOP .4.: M-Ökostrom (Schreiben des Referats für Arbeit und Wirtschaft vom 28.04.2011)
+- TOP .5.: Vollzug des Bundes-Immissionsschutzgesetzes und der Geräte- und Maschinenlärmschutzverordnung, Ausnahmezulassung, Kreuzung Leopoldstraße / Domagkstraße / Milbertshofener Straße / entlang der Ingolstäsdterstraße bis zum Frankfurter Ring vom 10.05. bis 31.05.2011 von 20.00 bis 07.00 Uhr (flexibel an insgesamt 6 Werktagen)
+- TOP .6.: Grundwasserwanne und Stützwände Widenmayer- / Ifflandstraße unter Tivolistraße (Projektauftrag); Sitzungsvorlage Nr. 08-14 / V 06411 Beschluss des Bauausschusses vom 10.05.2011
+- TOP .7.: München setzt auf's Rad 1 ? Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 04320
+- TOP .8.: Generalplan für Fahrradabstellplätze, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 06618
+- TOP .9.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 06560
+- TOP .10.: Überprüfung des Bedarfsplans für die Bundesschienenwege Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011; Sitzungsvorlagen Nr. 08-14 / V 06605
+- TOP .11.: Verkehrskonzept Münchner Norden (Sachstandsbericht, weiteres Vorgehen, Anträge und Empfehlungen), Sitzungsvorlagen Nr. 08-14 / V 06484 Beschluss des Ausschusses für Stadtplanung und Bauordnung
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
