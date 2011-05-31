@@ -1,0 +1,83 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-05-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226215
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226215
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Präsentation der MVG zum aktuellen Planungsstand (Verlängerung Buslinien 172 und 176)
+- TOP 1.2.: Präsentation zum Projekt AMIQUS
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Einrichtung eines Wochenmarktes am Walter-Sedlmayr-Platz in Feldmoching Empfehlung Nr. 08-14 / E 00888 der Bürgerversammlung des 24. Stadtbezirks Feldmoching-Hasenbergl vom 17.03.2011
+- TOP 1.2.: Budget der Bezirksausschüsse FC Fasanerie Nord e.V. "Torsicherungen für Jugendtore (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 1.3.: Budget der Bezirksausschüsse TSV 1954 München e.V. "Kauf von Trikots" (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Caritas-Integrationskindergarten "Regenbogen" Ferienfahrt vom 12. - 15.07.2011
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Böllerschützen-Kompanie Feldmoching e.V. Veranstaltung zum 1200jährigen Bestehen der Gemeinde Feldmoching am 16.07.2011
+- TOP 1.6.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Spielaktionen im August und September 2011
+- TOP 1.7.: (E) Budget der Bezirksausschüsse Verein des Freundeskreises Grundschule Lerchenauer Straße in Feldmoching Förderverein e.V. Herstellung von 7 Tierköpfen
+- TOP 1.8.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kapernaumkirche Sommerfest am 16.07.2011
+- TOP 1.9.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 12.08.2011
+- TOP 10: (E) Jährliche Ramadama-Aktion im 24. Stadtbezirk Empfehlung Nr. 08-14 / E 00883 der Bürgerversammlung des 24. Stadtbezirks Feldmoching-Hasenbergl am 17.03.2011
+- TOP 10.11.: (E) Budget der Bezirksausschüsse Caritas Kinder- und Jugendtreff Jump In Errichtung von 2 Bolztoren
+- TOP 3.1.: Schadstoffmessungen an der Hauptschule an der Eduard-Spranger-Strasse
+- TOP 3.2.: Anträge aus der 8. Kinder- und Jugendsprechstunde am 08.04.2011 (8/4 und 8/8) (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 3.3.: Antrag auf sofortiges Grillverbot am Goldschmiedplatz
+- TOP 3.4.: Parken von Kraftfahrzeugen im Mehlprimelweg (und Stellungnahme Baureferat)
+- TOP 3.5.: Aufstellung einer Parkbank Ecke Josef-Frankl-Strasse / Schaarschmidtstrasse
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Dülferstraße (Neubau einer Kindertageseinrichtung)
+- TOP 5.2.: Bauvorhaben Karlsfelder Straße (Neubau einer Halle für Gärtnereibetrieb..-Vorbescheid)
+- TOP 5.3.: Bauvorhaben Lerchenauer Str. 185 (Neubau eines Mehrfamilienhauses..)
+- TOP 5.4.: 5.4.1 Bauvorhaben Lernenauer Str. 343 (Nutzungsänderung) 5.4.2 Bauvorhaben Schleißheimer STr. 389 (Neubau einer Baustoffhandlung - Vorbescheid)
+- TOP 5.5.: Vollzug der Baumschutzverordnung (Baumfällung): 5.5.1 Dülferstraße (siehe TOP 5.1) 5.5.1 Dülferstr. 50 5.5.3 Lerchenauer Straße 5.5.4 Lerchenauer Str. 185 (siehe TOP 5.3) 5.5.5 Paul-Huml-Bogen 5.5.6 Karlsfelder Str. 36 5.5.7 Am Blütenanger 85 5.5.8 Schleißheimer Str. 389 (siehe TOP 5.4.2)
+- TOP 5.6.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag auf Genehmigung auf Errichtung und Betrieb eines Abfall-/Schrott Lager- und Umschlageplatzes am Standort Lerchenstr. 19, 80995 München (-&gt; Vertagung aus Sitzungen am 22.02.2011. 29.03.2011 und 03.05.2011)
+- TOP 5.7.: Bedarfs- und Konzeptgenehmigung; Herbergstraße und Lerchenstraße: Entwurf Beschlußvorlage für BauA (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 5.8.: öffentliche WC-Anlagen-Strategiekonzept: Entwurf Beschlußvorlage für KommunalA (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 5.9.: 110-kV-Bahnstromleitung BL 520 Abzw. Karlsfeld- München Ost - Ersatzneubau (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 5.10.: MVG: Leistungsprogramm 2012 (-&gt; Vertagung aus Sitzung 03.05.2011)
+- TOP 5.11.: Veranstaltung auf öffentlichem Verkehrsgrund: Lasallestraße: "Spielefest am Wochenmarkt" des kjr am 02.07.2011
+- TOP 5.12.: Veranstaltung auf öffentlichem Verkehrsgrund: Schneeglöckchenstr. 85-91: "Straßenfest" Fasanerie aktiv e.V. am 30.07.2011
+- TOP 5.13.: Vollzug des Sprengstoffgesetzes: Kuckucksblumenstr. 25: Jubiläumsfeier am 30.07.2011
+- TOP 5.14.: Versetzung der Lichtzeichenanlage Lerchenauer-/Schittgablerstraße
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Absperrpfosten am Durchgang Thomas-Theodor-Heine-Weg/ Steindlstraße (-&gt; Antrag TOP 3.4 in Sitzung vom 29.03.2011)
+- TOP 6.2.: Aktueller Stand der Verkehrsplanung im Münchner Norden (ziffer 1 bis 3) (-&gt; Anfrage aus der BV am 17.03.2011)
+- TOP 6.3.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.4.: Meldelisten Baumfällungsanträge
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: Verkehrsrechtliche Anordnungen: Niederalteicher Straße (Erweiterung Halteverbot Z 283)
+- TOP 6.7.: Unveränderte Fortführung eines Gaststättenbetriebes: 1. Karlsfelder Str. 85 2. Ferchenbachstr. 209
+- TOP 6.8.: Filmaufnahmen auf öffentlichem Verkehrsgrund: Drehgenehmigung Hainbuchenstraße u.a. am 17.05.2011 (Produktion "Schmidt & Schmitt)
+- TOP 6.9.: Zwischennachricht des Referates für Stadtplanung und Bauordnung: Einstellung des Verfahrens zur Änderung des Flächennutzungsplans für Bereich Rothwiesenstraße
+- TOP 6.10.: Veranstaltungen auf dem Dülferanger (Infoschreiben des KVR)
+- TOP 6.11.: Voraussetzunge zur Einrichtung eines (Wochen-)marktes (Infoschreiben des Kommunalreferates, Markthallen München)
+- TOP 6.12.: Die MVV-Stadtralley geht am 14.05.2011 in die neunte Runde (Infoschreiben des MVV)
+- TOP 6.13.: Protokoll zur BA-Informationsveranstaltung des Sozialreferates vom 29.11.2010)
+- TOP 6.14.: Beschlussvorlage Referat für Gesundheit und Umwelt: Grundwassersituation Feldmoching (Behandlung von Stadtratsanträgen)
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: München setzt auf' s Rad 1; Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Städtebauliche Entwicklungsmaßnahme Kronprinz-Rupprecht-Kaserne (7. Änderungsantrag vom 13.04.2011)
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Generalplan für Fahrradabstellplätze
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Überprüfung des Bedarfsplans für die Bundesschienenwege; Anträge der Stadtratsfraktion der CSU vom 17.11.2010)
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Stadtsanierung in München; Sanierung im Stadtteil Hasenbergl; Dokumentation der Ergebnisse
+- TOP 6.21.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften
+- TOP 6.22.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Genossenschaftsidee fördern / Genossenschaftlichen Wohnungsbau weiter stärken
+- TOP 6.23.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"
+- TOP 6.24.: Angebote für Kinder und Jugendliche imKJR München-Stadt (Infobroschüre des KJR)
+- TOP 6.25.: Jahresbericht 2010 mit Jahresvorschau 2011 der Landeshauptstadt München
+- TOP 6.26.: Jahresbericht 2010 der Diakonie Hasenbergl (Jugendberatung JAL Mchn Hasenbergl
+- TOP 6.27.: Träger Kita Thelottstraße 30 (Info RBS)
+- TOP 6.28.: Beschlussvorlage Baureferat: Bebauungsplan mit Grünordnung Nr. 1947; Herstellung öffentlicher Verkehrsflächen (Moosacher Strasse; Bahngleisbogen München-Feldmoching; Schittgablerstraße...)
+- TOP 6.29.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Verkehrskonzept Münchner Norden (Sachstandsbericht, weiteres Vorgehen, Anträge und Empfehlungen)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
