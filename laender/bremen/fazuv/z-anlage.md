@@ -29,7 +29,8 @@ Sp. 1 | Sp. 2 | Sp. 3 | Sp. 4 | Sp. 5
  |  |  | 1.14.3 | Hundesteuer
  |  |  | 1.14.4 | Vergnügungssteuer
  |  |  | 1.15 | Festsetzung und Erhebung der Grundbesitzabgaben
- |  | Bremen-Ost, Bremen-West | 1.16 | Vollstreckung
+ |  |  | 1.16 | Kassengeschäfte
+ |  | Bremen-Ost, Bremen-West | 1.17 | Vollstreckung
 2 | Bremen-Ost | Bremen- Mitte, Bremen- West, Bremen-Nord | 2.1 | Besteuerung der natürlichen Personen mit Einkünften aus Land- und Forstwirtschaft sowie gesonderte und einheitliche Feststellung der Einkünfte aus Land- und Forstwirtschaft
 3 | Außenprüfung | Alle Finanzämter im Lande Bremen | 3.1 | Anordnung und Durchführung von Außenprüfungen (ausgenommen Umsatzsteuer-Sonderprüfungen)
  |  |  | 3.2 | Führung des Konzernverzeichnisses im Sinne des § 33 Betriebsprüfungsordnung (BpO 2000)
