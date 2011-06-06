@@ -1,0 +1,13 @@
+# Beschlussfassung über die Genehmigung der Eilentscheidung des Landrates vom 12.05.2011 zur Auftragsvergabe für den Brückenersatzbau K 6409 der Brücke über die Alte Oder bei Platkow
+
+- Körperschaft: Landkreis Märkisch-Oderland
+- Drucksache/Vorlage: 2011/KT/308
+- Art: Beschlussvorlage Kreistag
+- Datum: 2011-06-06
+- Ratsinformationssystem: https://ratsinfo-online.net/landkreis-mol-bi/vo020.asp?VOLFDNR=351
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/papers.asp?id=351
+- Quelle: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Vorberatung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=267 https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=13
+- Beratung: Vorberatung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=236 https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=16
+- Beratung: Entscheidung https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/meetings.asp?id=237 https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/organizations.asp?typ=at&id=14
