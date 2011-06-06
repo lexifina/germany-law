@@ -1,0 +1,82 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-06-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2217093
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2217093
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Bauliche Maßnahmen zur Kennzeichnung des Verkehrsberuhigten Bereiches Altomünsterstr.
+- TOP 2.2.: Herstellung von Längsparkplätzen vor dem Anwesen Dachauer Str. 338 bis 342
+- TOP 2.3.: Öffnung der Umlaufsperre Abensbergstraße / Rangierbahnhofgelände
+- TOP 2.4.: Mittagsbetreuung Geraschule
+- TOP 2.5.: Aufstellung eines Abfalleimers an der Endhaltestelle der Tram 20 am Moosacher Bahnhof
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Bauvorhaben Caub-/ Triebstraße
+- TOP 3.2.: Planungen zur Eingemeindungsfeier 2013
+- TOP 3.3.: Ameisen auf Spielplätzen
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Ampelanlage Torgauer Straße / Feldmochinger Straße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine
+- TOP 3.2.: Vorstellung des Interkulturellen Integrationsberichts
+- TOP 3.3.: Treffen der Frauen- und Gleichstellungsbeauftragten
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Erstmalige Herstellung der Franz-Fihl-Straße
+- TOP 4.2.: Bekämpfung von Ameisen auf Gehsteigen
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Nachbarschaftstreff Lauinger23 Sommerfest am 15.07.2011
+- TOP 6: Anhörungen
+- TOP 6.1.: Bauvorhaben Caub-/ Triebstraße: Errichtung von 25 Wohneinheiten für den kommunalgeförderten Mietwohnungsbau Teilprogramm für Clearinghäuser (Kompro/C) und einer im Erdgeschoss integrierten viergruppigen Kinderkrippe; Ermächtigung zur Planung der Kinderkrippe, Genehmigung des Nutzerbedarfsprogramms für die Kinderkrippe, Finanzierung und Mittelbereitstellung für den Bau der Kinderkrippe (vertagt in der Sitzung am 16.05.2011)(Vorlage Nr. 08-14 / V 06733)
+- TOP 6.2.: Karlingerstr. / Gubestr. / Baubergerstr.: Übertragung der städt. Immobilie an eine städt. Wohnungsbaugesellschaft
+- TOP 6.3.: Riesstraße: Straßenwiederherstellung nach U-Bahnbau; Bedarfs- und Konzeptgenehmigung; Dauerhafte Öffnung des Mittelteilers Georg-Brauchle-Ring / Riesstraße (Empfehlung Nr. 820 der Bürgerversammlung am 02.12.2010)
+- TOP 6.4.: Sommerfest in der Dillinger Str., Hartmannshofer Bächl am 15.07.2011
+- TOP 6.5.: Straßenfest Borstei in der Franz-Marc-Str. am 02.07.2011
+- TOP 6.6.: Werbeanlage Dachauer Str. 351
+- TOP 6.7.: Bauberger- / Vilniusstraße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Säuberung der Bahnunterführung an der Liegnitzer Straße (Zwischennachricht)
+- TOP 7.2.: Umbau und Sanierung der ehem. Gaszählerprüfwerkstätte Emmy-Noether-Str. zu einem Konferenz- und Veranstaltungszentrum (Parkraumkonzept und Möglichkeiten der Nutzung durch Dritte)
+- TOP 7.3.: Leistungsprogramm 2012: Zeitpunkt der Pressemitteilung (wird bewusst parallel zur Zuleitung an die BA's veröffentlicht)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Bescheid zum Fällungsantrag Andernacher Str. 8
+- TOP 8.4.: Kurzparkzone Baubergerstr. 5 ? 7
+- TOP 8.5.: Einrichtung eines allgemeinen Behindertenparkplatzes in der Emmy-Noether-Str. 2
+- TOP 8.6.: Kurzparkzone Haldenbergerstr. 28
+- TOP 8.7.: Kurzparkzone Bunzlauer Str. / Breslauer Straße
+- TOP 8.8.: Verkehrsrechtliche Anordnungen am Memminger Platz
+- TOP 8.9.: Straßenbaumaßnahme Nanga-Parbat-Str. 105
+- TOP 8.10.: Unveränderte Fortführung eines Gaststättenbetriebes: Osteria il Gambero, Netzerstr. 29
+- TOP 8.11.: Baubeginn für die Kreuzungssanierung Triebstr. / Hanauer Str.
+- TOP 8.12.: Verkehrskonzept Münchner Norden (Mitteilung des Sachstandes für den Stadtrat; Anhörung der BA's erfolgt im weiteren Verfahren)
+- TOP 8.13.: Protokoll der Kommission für Stadtgestaltung am 15.03.2011: Neubau eines IT-Rechenzentrums Agnes-Pockels-Bogen 1
+- TOP 8.14.: Protokoll des Jour Fixe der Bezirksausschüsse mit dem Kulturreferat
+- TOP 8.15.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) im Münchner Forum zum Leistungsprogramm der MVG
+- TOP 8.16.: Erinnerungsorte München (Vorlage Nr. 08-14 / V 05426)
+- TOP 8.17.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007) (Vorlage Nr. 08-14 / V 06796)
+- TOP 8.18.: Bezahlbaren Wohnraum in München erhalten ? Förderung von Genossenschaften (Vorlage Nr. 08-14 / V 06756)
+- TOP 8.19.: Überprüfung des Bedarfsplans für die Bundesschienenwege (Vorlage Nr. 08-14 / V 06605)
+- TOP 8.20.: Generalplan für Fahrradabstellplätze (Vorlage Nr. 08-14 / V 06618)
+- TOP 8.21.: München setzt aufs Rad 1 (Vorlage Nr. 08-14 / V 04320)
+- TOP 8.22.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen (Vorlage Nr. 08-14 / V 06560)
+- TOP 8.23.: Erweiterungsvorhaben an Telekom-Mobilfunkstandorten ? nicht öffentlich
+- TOP 8.24.: Baubeginnsanzeige von Mobilfunkanlagen ? nicht öffentlich
+- TOP 8.25.: Genossenschaftliches Bauen
+- TOP 8.26.: Drehgenehmigung Hanauer Straße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
+- TOP 2: (E) Wochenmarktstandort Bunzlauer Straße, Stadtbezirk 10 - Moosach ?Prüfung möglicher Standorte für einen Wochenmarkt im Quartierszentrum Moosach? (Ersatzstandort Flur-Nr. 1531) BA Antrag Nr. 02-08 / B 02505 des BA 10 vom 06.11.2007; ?Öffentliche Nutzung des städtischen Grundstücks Bunzlauer Straße? BA Antrag Nr. 08-14 / B 01607 des BA 10 vom 26.10.2009; ?Schaffung der baulichen Voraussetzungen für einen Wochenmarkt in der Bunzlauer Straße? BA Antrag Nr. 08-14 / B 02153 des BA 10 vom 17.05.2010 ?Provisorischer Wochenmarktstandort für Moosach? BA Antrag Nr. 08-14 / B 02954 des BA 10 vom 11.04.2011; ?Öffentl. Nutzung und Wochenmarkt an der Post in Moosach ermöglichen? Antrag Nr. 08/14 / A 01865 von Herrn Stadtrat Alexander Reissl vom 04.10.2010
