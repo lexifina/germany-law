@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-06-06T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170373
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170373
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Fahrräder auf dem Gehweg an der Sauerbruchstraße
+- TOP 1.2.: Verkehrssituation in der Neufriedenheimer Straße
+- TOP 1.3.: Bedarfsampel Guardinistraße bei St. Ignatius
+- TOP 1.4.: Radständer am Eingang zum Waldfriedhof am Beginn der Würmtalstraße
+- TOP 1.5.: Bauvorhaben Pfingstrosenstraße 19
+- TOP 1.6.: Haltverbote Guardinistraße und Großhaderner Straße
+- TOP 1.7.: Antrag auf Förderung zur Erweiterung des Naturlehrpfades im Rahmen des Förderprogramms "Bürgerinnen und Bürger gestalten ihre Stadt" - konkreter Vorschlag
+- TOP 1.8.: Zebrastreifen in der Guardinistraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Münchner Zwergerl Kinderspielgruppe, 35 Jahre Haderner-Stern-Feier am 01.07.2011 (Direktorium, 13.05.11)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Hans-Grässel-Weg 9 - 9 a, Neubau eines Mehrfamilienhauses (Referat für Stadtplanung und Bauordnung, 11.05.11)
+- TOP 6.2.: Canisiusplatz 2, Generalinstandsetzung und Erweiterung einer Grundschule: Neubau Erweiterung (Turnhalle + Klassentrakt), Generalsanierung des Schulgebäudes inkl. Nutzungsänderung der Wohnung im DG (für schulische Zwecke) (Referat für Stadtplanung und Bauordnung, 11.05.11)
+- TOP 6.3.: Erinnerungsverfahren: Maenherstraße (Baureferat, 23.05.11)
+- TOP 6.4.: Erinnerungsverfahren: Hönigschmidplatz Südseite (Baureferat, 14.04.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Asternstraße 14, 1 Tuja
+- TOP 7.2.: Buschrosenweg 15, 1 Fichte
+- TOP 7.3.: Haseneystraße 26, 1 Tanne
+- TOP 7.4.: Kornwegerstraße 15, 1 Tanne und 1 Scheinzypresse
+- TOP 7.5.: Neufriedenheimer Straße 56, 1 Lärche und 1 Buche
+- TOP 7.6.: Stiftsbogen 26, 1 Tanne
+- TOP 7.7.: Randeckstraße 10, 1 Birke
+- TOP 7.8.: Eichenstraße 41, 1 Lärche
+- TOP 7.9.: Stolzenfelsstraße 13, 2 Lärchen, 2 Kiefern und 2 Fichten
+- TOP 7.10.: Pfingstrosenstraße 1, 1 Ahorn und 2 Fichten
+- TOP 7.11.: Rheinsteinstraße 3 a, 1 Eiche, 2 Lärchen und 2 Fichten
+- TOP 7.12.: Sonnenblumenstraße 44 b, 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Pfingstrosenstraße 4 c, 1 Birke (Referat für Stadtplanung und Bauordnung, 18.05.11)
+- TOP 7.2.: Würmtalstraße 148, 1 Fichte (Referat für Stadtplanung und Bauordnung, 26.05.11)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Hosigaustraße 6, 1 Zeder (Referat für Stadtplanung und Bauordnung, 20.05.11)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Stiftsbogen 56, eingeschränktes Haltverbot (Kreisverwaltungreferat, 17.05.11)
+- TOP 8.2.: Verkehrsrechtliche Anordnung, hier: Stiftsbogen, Pkw-Parkzone (Kreisverwaltungsreferat, 17.05.11)
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Haseneystraße (Sozialreferat, 13.05.11) - Kornwegerstraße (Sozialreferat, 11.05.11) - Am Waldrand (Sozialreferat, 11.05.11)
+- TOP 8.4.: Grünanlage am Stiftsbogen - provisorische Treppe zur Schröfelhofstraße (Baureferat, 17.05.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: DFB-Minispielfeld an der Schule an der Gilmstraße (Referat für Bildung und Sport, 02.05.11)
+- TOP 9.2.: Unbenannte Wege in Hadern (Kommunalreferat, 27.04.11)
+- TOP 9.3.: Einsatz von Laubbläsern (Referat für Gesundheit und Umwelt, 03.05.11)
+- TOP 9.4.: Bezirkssportanlage am Wolkerweg (Referat für Bildung und Sport, 17.05.11)
+- TOP 9.5.: Wertstoffsammelstelle Waldwiesenstraße (AWM, 23.05.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Abschießen von Feuerwerken am Haderner Stern (Bayerische Versorgungskammer, 05.05.11)
+- TOP 10.2.: Antrag aus der Kinder- und Jugend BA-Sitzung des BA 25 Laim (Hauptschule an der Guardinistraße, 06.05.11)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Jour Fixe Bezirksausschüsse mit dem Kulturreferat, Protokoll der Sitzung vom 24.03.2011 (Kulturreferat, 10.05.11)
+- TOP 11.2.: Antrag des BA 21 Pasing-Obermenzing vom 03.05.2011: Ablauf von Bürgerversammlungen
+- TOP 11.3.: REGSAM Aktuell, Sonderheft Armut (REGSAM, 09.05.11)
+- TOP 11.4.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr zum Leistungsprogramm 2012 der MVG (AAN, 22.05.11)
+- TOP 11.5.: Einladung zum Blumenauer Sommerfest am 23.07.2011
+- TOP 11.6.: Einladung zum Sommerfest des Archivs der Münchner Arbeiterbewegung e.V. am 10.06.2011
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfe- und des Sozialausschusses vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06263 in der Fassung der Seite 12a: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum "Bewohnertreff Blumenau" des DPWV (mit hauptamtlichem Personal) (Ansatz 56.700,- ? gem. Produkt 4.1.7, S. 1, Nr. 9), - zur "Nachbarschaft Kleinhadern, Na klar!" in Selbstverwaltung, seit 01.04.2011 eigenes Raum-Management (Ansatz 15.010,- ? gem. Produkt 4.1.7, S. 3, Nr. 33) und - zum Wohnungsversorgungsprojekt der Firma KOMPRO München Krokusstraße GmbH & Co. KG in der Krokusstraße 73 , Beginn 2008, Laufzeit 5 Jahre (Ansatz 3.120,- ? gem. Produkt 4.1.8, S. 2, Nr. 22)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06304 in der Fassung der Seite 24a: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus Wolkerweg" (Ansatz 198.148,- ? gem. Abschnitt 3.1.1, S. 2, Nr. 56), - zum "PfiffTEEN Treffpunkt für Jugendliche" (Ansatz 307.167,- ? gem. Abschnitt 3.1.1, S. 2, Nr. 57), - zum "Treff 21, Schule-Beruf e.V." des DPWV (Ansatz 341.335,- ? gem. Abschnitt 3.1.1, S. 3, Nr. 66), - zum "Studio im Netz, SiN e.V." (Ansatz 81.567,- ? gem. Abschnitt 3.1.1, S. 5, Nr. 105), - zur Schul- und Sozialarbeit an 7 Grundschulen, insbesondere in Hadern (Ansatz 342.159,- ? gem. Abschnitt 3.1.2, S. 1, Nr. 1), - zum "Familienzentrum Hadern-Blumenau" des DPWV (Ansatz 62.675,- ? gem. Abschnitt 3.2.1, S. 1, Nr. 13) nach Umschichtung von 671,- ? zum Projekt "Fachpersonal der Mütter-, Väter- und Familienzentren" (Nr. 17a) und - zur "Nachbarschaft Neuhadern, Bewohnertreff" des DPWV (Ansatz 98.518,- ? gem. Abschnitt 3.2.2, S. 1, Nr. 2)
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06214 in der Fassung der Seite 9a: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum ASZ Kleinhadern-Blumenau (Ansatz 207.101,- ? gem. Abschnitt 5.4.1, S. 4, Nr. 10) und - zur "Altenwohnanlage Konrad-Dreher-Straße 19 - 23" (Ansatz 50.267,- ? gem. Abschnitt 5.4.2, S. 9, Nr. 29)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06231 in der Fassung der Seite 5a: Zuschussnehmerdatei 2011 Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale, insbesondere - zu "REGSAM" (Ansatz 525.365,- ? / pro Jahr, Laufzeit 2010 - 2012 gem. Abschnitt 7.3.2, S. 3, Nr. 1) und - zur "Förderung der Planungsbeauftragten freier Träger" (Ansatz 620.892,- ? gem. Nr. 2)
+- TOP 12.5.: Beschluss des Sozialausschusses vom 14.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06232 (nach Antrag): Verbot der Zweckentfremdung von Wohnraum Antrag auf Genehmigung des Abbruchs des Anwesens Guardinistraße 33 für den Neubau einer Kindertageseinrichtung (Kinderkrippe und Kindergarten) Der BA 20 hat am 13./16.12.2010 der Zweckentfremdung und Nutzungsänderung zugestimmt. Er hat jedoch auch Wert gelegt auf den "Bau einer Wohnung im Dachgeschoss" des Neubaus (Anlage 4). Diese Maßnahmen wird jedoch abgelehnt (Abschnitt 5.2, S. 3).
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06385 (vertagt): Bau einer Tiefgarage an der neuen U-Bahnhaltestelle Martinsried (Nach Gespräch mit der Gemeinde Planegg wird der Bau eines P+R-Platzes mit bis zu 100 Stellplätzen angestrebt.)
+- TOP 12.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06361: Langfristige Siedlungsentwicklung (nach Antrag)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06605: Überprüfung des Bedarfsplans für die Bundesschienenwege
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06560: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06618: Generalplan für Fahrradabstellplätze
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 04320: München setzt auf's Rad 1 Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06782: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2054 im beschleunigten Verfahren gem. § 13a BauGB: Sauerbruchstraße (westlich) - Aufstellungsbeschluss - Der BA Hadern hat am 09.05.2011 zugestimmt (S. 9, Anlage 5). Auf die "Hinweise für den zukünftigen Bauherrn" wird Bezug genommen (Schreiben vom 10.05.2011, Anlage 5).
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06796: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB, insbesondere zur "Lukas-Schule" (Anlage 1, S. 1)
+- TOP 12.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06766: Genossenschaftsidee fördern I Genossenschaftlichen Wohnungsbau weiter stärken
+- TOP 12.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06756: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06446: PERSPEKTIVE MÜNCHEN - Fortschreibung 2011 Leitmotiv, strategische Leitlinien, insbesondere zum Handlungsraum Nr. 2 "Romanplatz - Laim - Ratzingerplatz" entlang der Tram-West-Tangente (Anlage, S. 48). Für den Nordwesten und Nordosten Haderns wird eine "überdurchschnittliche soziodemografische Herausforderung" festgestellt (S. 21 der Anlage).
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06378: Regionsbericht 2010 (Hadern ist nicht erwähnt.)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06752: Erhaltungssatzung im 6. Stadtbezirk Sendling, insbesondere Abschnitt b) bb) Erlass einer Erhaltungssatzung für das Gebiet Guardinistraße, Gräfelfinger Straße, Karl-Witthalm-Straße, Stiftsbogen Empfehlung Nr. 02-08 / E 00847 vom 25.09.2007 (abgelehnt)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 13.04.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06440: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2010 - 31.12.2010, insbesondere zum Sonderflughafen Oberpfaffenhofen (Kein Rechtsmittel gegen das Urteil des Verwaltungsgerichts München vom 23.10.2009 gem. Anlage 7, S. 16)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
