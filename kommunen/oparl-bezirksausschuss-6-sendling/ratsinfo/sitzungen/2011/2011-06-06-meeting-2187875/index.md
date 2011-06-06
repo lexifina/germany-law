@@ -1,0 +1,60 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-06-06T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187875
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187875
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Einbruchserie von Jugendlichen in Sendling - Bericht der Pi15
+- TOP 2.2.: Anwesen Danklstraße 10; Mäusebefall durch Vogelfütterung - Bericht der Pi15
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Plinganserstraße 27 - 31; Grundstück zum Bau eines Clearinghauses - Bauträgerauswahl
+- TOP 3.2.: Thalkirchner Straße 190; offene Einrichtung für Familie und Kinder bis 12 Jahre
+- TOP 4: Schulreferat
+- TOP 4.1.: Anmietung des 4. Obergeschosses im Gebäude Lipowskystraße 15 zur Bereitstellung von Klassenräumen für die Fachoberschule / Berufsoberschule an der Lindwurmstraße 90
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Straßenfest in der Valleystraße am 16.07.2011
+- TOP 6.2.: Konzert auf dem Sendlinger Kirchplatz am 02.07.2011
+- TOP 6.3.: Straßenfest in der Daiserstraße am 23.07.2011
+- TOP 6.4.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kidlerstraße 25
+- TOP 6.5.: Schaffung von vier KFZ-Stellplätzen für CarSharing auf dem Lehrerparkplatz an der Demleitnerstraße 2
+- TOP 6.6.: Realisierung einer Fußgängerampel in der Lindwurmstraße im Bereich zwischen Plinganserstraße und Aberlestraße
+- TOP 6.7.: Situation im Bereich des Radweges Thalkirchner Straße / Pullacher Platz
+- TOP 7.1.: Nachbesetzung der Unterausschüsse Budget- und Satzungsangelegenheiten und Baum- und Umweltschutz, Nachbenennung der/des Gleichstellungsbeauftragten
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Freundeskreis Dante-Gymnasium e.V. Jubiläumsfeier am 27.05.2011 - <div>Zustimmung, einstimmig</div>
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 12.08.2011 - <div>Zuschuss ? 220,- Zustimmung, einstimmig</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Kidlerstraße 34; Neubau einer 4-gruppigen Kinderkrippe
+- TOP 8.3.: Erhaltungssatzung Sendling
+- TOP 8.4.: München setzt aufs Rad
+- TOP 8.5.: Generalplan für Fahrradabstellplätze
+- TOP 8.6.: Überprüfung des Bedarfsplans für die Bundesschienenwege
+- TOP 8.7.: Regionalbericht 2010
+- TOP 8.8.: Genossenschaftlichen Wohnungsbau weiter stärken
+- TOP 8.9.: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften
+- TOP 8.10.: Regionale Klimaprognose bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 8.11.: Gesetz zur Erleichterung von Planungsveorhaben für die Innenentwicklung der Städte "BauGB 2007"
+- TOP 8.12.: Perspektive München 2011
+- TOP 8.13.: Bauvorhaben Thalkirchner Straße 186
+- TOP 9: Baureferat
+- TOP 9.1.: Straßenbauarbeiten in der Fallstraße
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Abfälle an der Isar - Vandalismus am Flaucher
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Ausbau des Wochenmarkstandortes Margaretenplatz
+- TOP 13.2.: Verkauf / Tausch von städtischen Immobilien
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
