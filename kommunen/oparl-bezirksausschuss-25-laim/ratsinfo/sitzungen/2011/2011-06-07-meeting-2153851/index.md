@@ -1,0 +1,111 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-06-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153851
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153851
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Vorstellung des Projektes "Weltkindertag in Laim"
+- TOP 1.2.1.: Verschmutzung von Straße und Gehweg durch Bauarbeiten Veit-Stoß-Straße; Parkplatzsituation Veit-Stoß-Straße / Parkverbotszone Sturmstraße
+- TOP 1.2.2.: Kinderbetreuung für Berufstätige in München
+- TOP 1.2.3.: Parksituation Riegerhofstraße
+- TOP 1.2.4.: Standort des Maibaumes auf dem Laimer Anger
+- TOP 1.2.5.: Geschwindigkeitskontrollen in der Rushaimerstraße
+- TOP 1.2.6.: Bürgerhaus / Veranstaltungsräume
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Kinderbetreuungsplätze in Laim
+- TOP 2.2.: CSU: Auskunft über den energetischen Zustand der Gebäude des Referates für Bildung und Sport / Zentrales Immobilienmanagement im Stadtbezirk Laim
+- TOP 2.3.: CSU: Überprüfung der Ampelschaltungen in der Zschokkestraße ab 19.00 Uhr
+- TOP 2.4.: CSU: Anbringung eines Lärmminderungsbelages im Bereich des Streetballkorbes auf dem Joergplatz
+- TOP 2.5.: CSU: Schule an der Schrobenhausener Straße: Neubau einer Doppelturnhalle sowie eines Gebäudetraktes mit 4 Klassenzimmern und ausreichend Räumen für die Mittags-betreuung der Grundschule bzw. Ganztagesbetreuung der Hauptschule; Abgabe eines aktuellen Messgutachtens zur Raumluft
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Gotthardstr. 89
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungsvollmacht (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Elsenheimerstr. 28
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.640 Euro für erweiterten Weltkindertag vom 20.06.-20.09.11; Antragsteller: Regsam e.V. - <div>nach Antrag</div>
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 1.230 Euro für Spielaktionen im Juli 2011; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V. Spielaktionen im Juli 2011 - <div>nach Antrag</div>
+- TOP 3.5.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 875 Euro für Sommerfest 17.07.11; Antragsteller: Kath. Pfarrgemeinde zu den Heiligen Zwölf Aposteln - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 28.03.11: Sanierung des Laimer Angers (Antrag Nr. 08-14 / B 02740 vom 01.02.11); weiteres Vorgehen (Vertagung aus der BA-Sitzung vom 03.05.11)
+- TOP 4.2.: Schreiben KVR vom 25.02.11: Aufhebung der Radwegebenutzungspflicht in Laim; Elsenheimerstraße, Friedenheimer Straße, Landsberger Straße (Nebenfahrbahn), Senftenauerstraße und Siglstraße (Vertagung aus der BA-Sitzung vom 03.05.11)
+- TOP 4.3.: Schreiben Baureferat vom 13.04.11: Erhöhung der Anzahl der Fahrradabstellplätze am S-Bahnhof Laim (Empfehlung Nr. 08-14 / E 00198 der Bürgerversammlung Laim vom 25.11.08); Fahrradproblematik Laimer Tunnel, Schaffung von ausreichend und wetterfesten Abstellflächen außerhalb des Tunnels (Empfehlung Nr. 08-14 / E 00440 der Bürgerversammlung Laim vom 17.11.09); Ausarbeitung alternativer Parkmöglichkeiten für bis zu 1.500 Fahrräder an der Laimer Unterführung (Empfehlung Nr. 08-14 / E 00465 der Bürgerversammlung Neuhausen-Nymphenburg vom 24.11.09); Anhörung zu einer Beschlussvorlage für den Bauausschuss vom 05.07.11 (Vertagung aus der BA-Sitzung vom 03.05.11)
+- TOP 4.4.: Schreiben Baureferat vom 14.04.11: Fahrbahnsanierung Agricolastr. 55; Wiederherstellung nach Bauschaden
+- TOP 4.5.: Schreiben Baureferat vom 26.04.11: Straßenunterhaltsmaßnahme Agricolastr. 99; Wiederherstellung nach Bauschaden
+- TOP 4.6.: Schreiben Baureferat vom 04.05.11: Agricolastraße zwischen Rappstraße und Agnes-Bernauer-Straße; halbseitige Fahrbahnsanierung
+- TOP 4.7.: Schreiben KVR vom 16.05.11: Festival der Marionetten vom 13.07.11 - 18.07.11 auf dem Laimer Anger
+- TOP 4.8.: Schreiben KVR vom 16.05.11: Sommerfest am 10.07.11 auf dem Laimer Anger
+- TOP 4.9.: Schreiben KVR vom 26.05.11: Gottesdienst mit Pfingstfeuer am 06.07.11 auf dem Laimer Anger
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Reutterstr. 49 a: Neubau eines Einfamilienhauses mit Garage / Tektur; hier: Baupläne
+- TOP 5.2.: Agricolastr. 79: Neubau eines Einfamilienhauses mit Garage; hier: Baupläne und Baumbestandspläne
+- TOP 5.3.: Aindorferstr. 77b-77g: Neubau von 4 Einfamilienhäusern mit Garagen (Variante 1) bzw. von 6 Reihenhäusern mit Stellplätzen (Variante 2 ) / Vorbescheid; hier: Baupläne
+- TOP 5.4.: Landsberger Str. 214: Errichtung eines gewerblich genutzten Gebäudes / Vorbescheid; hier: Baupläne
+- TOP 5.5.: Landsberger Str. 240: Neubau eines Autohauses mit Showroom, Werkstätten und TG / Vorbescheid; hier: Baupläne
+- TOP 5.6.: Aindorferstr. 72: Neubau eines Mehrfamilienhauses und einer Stadtvilla sowie einer Tiefgarage / Tektur; hier: Baumbestands - und Freiflächengestaltungsplan &gt; dazu auch Schreiben des Bauherrn
+- TOP 5.7.: Camerloherstr. 76: Umbau und Modernisierung des Dachgeschosses (Aufstockung); hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 03.05.11
+- TOP 7.2.: Ortstermin UA Umwelt / Verkehr vom 06.05.11
+- TOP 7.3.: Sitzung UA Soziales, Schule und Sport vom 10.05.11
+- TOP 7.4.: Ortstermin des UA Umwelt / Verkehr vom 13.05.11
+- TOP 7.5.: Sitzung UA Kultur vom 17.05.11
+- TOP 7.6.: Sitzung UA Kultur im April 2011
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben KVR vom 27.04.11: Sicherung der Baustelle Abbruchgebäude ehemaliger Hertie in der Fürstenrieder Straße (Schreiben BA vom 19.04.11)
+- TOP 8.2.: Schreiben KVR vom 17.05.11: Gaststätte "La Trattoria", Straubinger Str. 9; unveränderte Fortführung
+- TOP 8.3.: Schreiben Baureferat vom 19.04.11: Unterrichtung über das Fällen von Gefahrenbäumen; Westendstraße
+- TOP 8.4.: Schreiben Baureferat vom 09.05.11: Geh- und Radwegbrücken am Pronnerplatz und in Höhe Sandrartstraße über die Gleisanlagen (Schreiben BA vom 19.04.11)
+- TOP 8.5.: Schreiben Baureferat vom 28.03.11: Weißenfelderplatz und Steinbeisplatz; Bessere Ausstattung für die Spielplätze mit Spielgeräten und Hundepoller für den Steinbeisplatz (Schreiben BA vom 19.04.11)
+- TOP 8.6.: Schreiben Planungsreferat vom 21.04.11: Agricolastr. 79; DG-Ausbau mit 3 Gauben sowie Anbau Windfang, Wärmedämmung, Terrasse (Schreiben BA vom 19.04.11)
+- TOP 8.7.: Schreiben Planungsreferat vom 06.05.11: Hohenwarter Str. 13; Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 8.8.: Schreiben Planungsreferat vom 10.05.11: Einzelfällungsantrag vom 26.04.11; Burgkmairstr. 15
+- TOP 8.9.: Schreiben Direktorium vom 06.05.11: Bürgeranliegen bzgl. Kulturhaus Laim
+- TOP 8.10.: Schreiben Münchner Stadtentwässerung vom 11.05.11: Rohrkanalsanierung Laim
+- TOP 8.11.: Schreiben Kulturreferat vom 10.05.11: Jour Fixe Bezirksausschüsse; Protokoll der Sitzung vom 24.03.11
+- TOP 8.12.: Schreiben Referat für Arbeit und Wirtschaft vom 28.04.11: Wirtschafts-Info 04/2011
+- TOP 8.13.: Schreiben Referat für Arbeit und Wirtschaft vom 17.05.11: Tram Westtangente: Anbindung der Buslinie 168 (Ziffer 1 der Anfrage) (Anfrage Nr. 08-14 / Q 00238 aus der Bürgerversammlung vom 16.11.10)
+- TOP 8.14.: Schreiben Referat für Arbeit und Wirtschaft vom 17.05.11: Tram Westtangente: Zählungen / Untersuchungen, Wirtschaftlichkeitsbetrachtung (Anfrage Nr. 08-14 / Q 00235 aus der Bürgerversammlung vom 16.11.10)
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 16.05.11: Gleiserneuerung und Einbau eines Wendehammers in der Kreuzung Westend - / Zschokkestraße; Straßenbauarbeiten
+- TOP 8.16.: Schreiben Sozialreferat vom 17.05.11: Grundstück in der Agnes-Bernauer-Straße, Flst. 47, Gemarkung Laim
+- TOP 8.17.: Schreiben Sozialreferat vom 23.05.11: Beibehaltung der Wohngeldstelle im Sozialbürgerhaus Laim / Schwanthalerhöhe (Antrag Nr. 08-14 / B 02815 vom 01.03.11)
+- TOP 8.18.: Schreiben Kommunalreferat vom 12.05.11: Sanierung der Wohnanlage "Thomas-Wimmer-Haus", Burgkmairstraße (Antrag Nr. 08-14 / B 02820 vom 01.03.11)
+- TOP 8.19.: Bautenliste vom 18.04.-24.04.11 1. Erstantragsverfahren a) Rilkestr. 7 b) Landsberger Str. 188 c) Fachnerstr. 22
+- TOP 8.20.: Bautenliste vom 26.04.-01.05.11 1. Erstantragsverfahren a) Lautensackstr. 21 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Landsberger Str. 240
+- TOP 8.21.: Bautenliste vom 02.05.-08.05.11 1. Erstantragsverfahren a) Gotthardstr. 87
+- TOP 8.22.: Bautenliste vom 09.05.-15.05.11 1. Erstantragsverfahren a) Camerloherstr. 76
+- TOP 8.23.: Bautenliste vom 16.05.-22.05.11 1. Erstantragsverfahren a) Burgkmairstr. 40
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 02.05.11: Baumaßnahmen der Stadtwerke; Stichtag: 02.05.11
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 09.05.11: Baumaßnahmen der Stadtwerke; Stichtag: 09.05.11
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 16.05.11: Baumaßnahmen der Stadtwerke; Stichtag: 16.05.11
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 23.05.11: Baumaßnahmen der Stadtwerke; Stichtag: 23.05.11
+- TOP 8.28.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 08-14 / V 06231)
+- TOP 8.29.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 06304)
+- TOP 8.30.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 06263)
+- TOP 8.31.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 12.04.11: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2011 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 06214)
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Überprüfung des Bedarfsplans für die Bundesschienenwege; Anträge der Stadtratsfraktion der CSU vom 17.11.10 (Sitzungsvorlage Nr. 08-14 / V 06605)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften (Sitzungsvorlagen Nr. 08-14 / V 06756)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Genossenschaftsidee fördern I, Genossenschaftlichen Wohnungsbau weiter stärken (Sitzungsvorlagen Nr. 08-14 / V 06766)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Regionsbericht 2010 (Sitzungsvorlagen Nr. 08-14 / V 06378)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB (Sitzungsvorlagen Nr. 08-14 / V 06796)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Generalplan für Fahrradabstellplätze (Sitzungsvorlagen Nr. 08-14 / V 06618)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Perspektive München - Fortschreibung 2011, Leitmotiv, strategische Leitlinien (Sitzungsvorlagen Nr. 08-14 / V 06446)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: München setzt auf`s Rad 1; Mehr Öffentlichkeitsarbeit bei der Förderung des Radverkehrs (Sitzungsvorlagen Nr. 08-14 / V 04320)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Regionale Klimaprognose bei langfristiger Siedlungsentwicklung berücksichtigen (Sitzungsvorlagen Nr. 08-14 / V 06560)
+- TOP 8.41.: Anträge BA 1 Altstadt-Lehel vom 10.05. und 12.04.11: Schaffung von Ersatzwohnraum in gleichen Stadtbezirk und Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung
+- TOP 8.42.: Antrag BA 21 Pasing-Obermenzing vom 03.05.11: Ablauf von Bürgerversammlungen
+- TOP 8.43.: Schreiben Hauptschule an der Guardinistraße vom 06.05.11: Antrag aus der Kinder- und Jugend BA-Sitzung des BA 25
+- TOP 8.44.: Schreiben Spiellandschaft Stadt e.V. vom 18.05.11: Kinderorte in Laim sichtbar machen - Spielorte neu entdecken; Protokoll der
+- TOP 8.45.: Schreiben Münchner Forum / Arbeitskreis Attraktiver Nahverkehr vom 22.05.11: Stellungnahme zum Leistungsprogramm 2012 der MVG
+- TOP 8.46.: Schreiben Direktorium vom April 2011: Jahresbericht 2010 mit Jahresvorschau 2011
+- TOP 8.47.: Münchner Statistik, 4. Quartalsheft Jahrgang 2010
+- TOP 8.48.: Stellungnahme eines Anwohners zur geplanten Bebauung Brantstraße (vorgetragen in der BA-Sitzung am 03.05.11)
+- TOP 8.49.: Schriftverkehr aus der BA-Sitzung vom 03.05.11
+- TOP 1.2: Bürgerpost an den BA
