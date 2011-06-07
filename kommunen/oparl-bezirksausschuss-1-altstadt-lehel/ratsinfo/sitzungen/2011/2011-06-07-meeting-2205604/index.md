@@ -1,0 +1,118 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-06-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205604
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205604
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .1.: Baustelleneinrichtung St.-Anna-Straße ehemaliges ?Klösterl?
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: BV-Empfehlungen Nr. 08-14 / 476 und 477: Damenstiftstaße 11
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Neuhauser Straße 19 ? 21: Neubau eines Wohn- und Geschäftshauses (?Joseph-Pschorr-Haus?)
+- TOP .2.: Neuhauser Straße 39: Erweiterung einer Ladenfläche
+- TOP .3.: Kapellenstraße 2 -4: Unterbauung des Innenhofs mit einer Tiefgarage, VORBESCHEID (siehe auch D 3.1)
+- TOP .4.: Hackenstraße 5: Umbau eines Wohn- und Geschäftshauses mit Aufzugeinbau (vertagt 2011.05 B 3.1.8)
+- TOP .5.: NACHTRAG: Kreuzstraße 17: Abbruch und Neubau eines Wohnhauses mit Ladengeschäft (vertagt aus 2011.05 B 3.1.6)
+- TOP .1.: Beschluss des Vorstands zum Öffentliche WC-Anlagen-Strategiekonzept
+- TOP .2.: Eilentscheidung des Vorstands zur Beschlussvorlage ?Christkindlmarkt? am 31.05.2011 im Ausschuss für Arbeit und Wirtschaft
+- TOP .1.: BA: Obstwagen Thierschplatz ? Widerruf einer Sondernutzungserlaubnis
+- TOP .2.: SPD-Antrag: Heizstrahler, siehe auch D 1.1
+- TOP .3.: Bürger: Lärmbelästigung durch Bier-Bikes
+- TOP .4.: Grünen-Antrag: Holztreppe Praterinsel
+- TOP .2.1: Gaststätten
+- TOP .1.: Wirtshaus zum Straubinger GmbH, Blumenstraße 5: Änderung einer Freischank-fläche ? bisher genehmigte Freischankfläche entfällt
+- TOP .2.: NACHTRAG: ?Armita?, Thierschstraße 44: Genehmigung einer Freischankfläche
+- TOP .3.: NACHTRAG:?XII Apostel?, Thierschplatz 6: Genehmigung einer Freischankfläche
+- TOP .4.: NACHTRAG: ?Vino Caffe?, Hochbrückenstraße 14: Erweiterung einer bestehenden Freischankfläche
+- TOP .5.: NACHTRAG: ?Salotto?, St.-Anna-Straße 11: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Müllerstraße 16 (Rikscha-Mobil): Mobiler Fahrradständer
+- TOP .2.: NACHTRAG: Isartorplatz 8 (DAV): Mobiler Fahrradständer
+- TOP 1: (E) Fahrradständer an der St. Lukaskirche (Ziffer 1) Empfehlung Nr. 08-14 / E 00799 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 30.11.2010
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Infoveranstaltung ?Gefäßgesundheit? am 25.06.2011, Neuhauser Straße
+- TOP 1.2.: Münchner Stadtlauf am 26.06.2011
+- TOP 1.3.: Weltfriedenstreffen Max-Josef-Platz am 11.09.2011, Marienplatz
+- TOP 1.4.: 14. Pfälzer Weinfest, Residenzstraße 1 Kaiserhof
+- TOP 1.5.: Gemeindefest der Kirche St. Lukas am 10.07.2011, Mariannenplatz
+- TOP 1.6.: Straßenfest des LeTra e.V. am 02.07.2011, Angertorstraße
+- TOP 1.7.: Sommerempfang des Österreichischen Generalkonsulats am, Max-Joseph-Straße 2 und auf der östlichen Grünanlage
+- TOP 1.8.: Griechisch-Bayerischer Kulturtag am 26.06.2011, Odeonsplatz
+- TOP 1.9.: Stadtgründungsfest am 18. und 19.06.2011, Innenstadt
+- TOP 1.10.: Wallfahrt am 15.07.2011 mit Start am Marienplatz
+- TOP 1.11.: Veranstaltungsreihe im Rahmen der Opernfestspiele 2011, Marstallplatz
+- TOP 1.12.: Olympia ? Die Entscheidung? am 06.07.2011, Marienplatz
+- TOP 1.13.: Brunnenhof-Konzerte, Brunnenhof der Residenz
+- TOP 1.14.: Münchner Selbsthilfetag am 23.07.2011, Marienplatz
+- TOP 1.15.: NACHTRAG: Klassik auf dem Odeonsplatz vom 15.07 ? 17.07.2011, Odeonsplatz
+- TOP 1.1.: Entwurf für eine Bekanntgabe im Kreisverwaltungsauschuss vom 07.07.2011 zu dem Zukunftskonzept der festen Münchner Lebensmittelmärkte
+- TOP 1.1.: SPD-Antrag: Heizstrahler, siehe auch C 1.2
+- TOP 1.2.: Öffnung der Gewürzmühlstraße zwischen Thierschplatz und Strernstraße für den gegenläufigen Radverkehr
+- TOP 1.3.: Bürger: Teilweise Umwidmung der St.-Anna-Straße zu einem verkehrsberuhigten Bereich
+- TOP 1.1.: Fahrradabstellkonzept - Rücknahme des Beschlusses vom 21.07.2009
+- TOP 1.2.: (E) Ersetzung des absoluten Halteverbots Triftstraße / Einmündung Liebigstraße durch Poller (Ziffer 2)
+- TOP 1.1.: Baumfällung Kapellenstraße 2 ? 4 (siehe auch B 3.1.3)
+- TOP 1.2.: Erfahrung mit der Abschaltung der Ampel Oettingen-/Tivolistraße
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Initiative "Hinterhofflohmärkte" Hinterhofflohmärkte im Lehen am 04.06.2011
+- TOP 1.1.: Schreiben des ?Theater des Hölzernen Gelächters? mit der Bitte um Unterstützung beim Kulturreferat
+- TOP 1.1.: Kassenbericht 2010
+- TOP 1.2.: Zustand der Schaukästen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Jahresbericht 2010 mit Jahresvorschau 2011 (Bericht neben den UA-Fächern)
+- TOP 0.2.: Antrag des BA 21 bezüglich dem Ablauf von Bürgerversammlungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Beschluss des Planungsausschusses vom 25.05.2011: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 0.5.: Beschluss des Planungsausschusses vom 25.05.2011: Genossenschaftsidee fördern I
+- TOP 0.6.: Beschluss des Planungsausschusses vom 25.05.2011: Gesetz zur Erleichterung von Planungsvorhaben für die Innenstadtentwicklung der Städte ?BauGB 2007?
+- TOP 0.7.: Beschluss des Planungsausschusses vom 25.05.2011: PERSPEKTIVE MÜNCHEN ? Fortschreibung 2011
+- TOP 0.8.: Mail an das Kommunalreferat bezüglich der satzungsmäßigen Erledigung des BA-Antrags Nr. 08-14 / B 02429: Müllerstr. 2-4 / Boltzplatz Glockenbachwerkstatt
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Beschluss des Kreisverwaltungsausschusses vom 17.05.2011: Veranstaltungen auf öffentlichem Verkehrsgrund sowie in Grünanlagen ? Erfahrungsbericht zum Isarinsel-fest 2010 und Ausblick 2011
+- TOP 0.6.: Antwortschreiben des Kulturreferats zum ?Kulturstrand für München? - Interessenbekundungsverfahren
+- TOP 0.7.: Eilentscheidung Veranstaltung UniCredit Festspiel-Nacht 2011 am 25.06.2011
+- TOP 0.8.: Zwischeninformation von Bürgern bzgl. der Vitrinenwerbung am Isartor
+- TOP 0.9.: Beschluss des BA vom 10.05.2011 zu TOP 2011.05 C 2.1.2 . Erweiterung einer bestehenden Freischankfläche der Gaststätte ?Ayingers am Platz?
+- TOP 0.10.: Eilentscheidung zum Kunstprojekt ?Deep Dig Dug?, Maximilianst.
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Beschluss des Bauausschusses vom 10.05.2011: Grundwasserwanne und Stützmände Widemayer- /Ifflandstraße unter der Tivolistraße
+- TOP 0.3.: Beschluss der Vollversammlung des Stadtrates vom 13.04.2011: 2. Stammstrecke ? Vorwegmaßnahmen am Marienhof für eine Inbetriebnahme im Jahr 2017
+- TOP 0.4.: Vollzug der Grünanalagensatzung, Baustelleneinrichtung Blumenstr. 6
+- TOP 0.5.: Bescheid über Arbeiten im Straßenraum: Montgelasstr./Max-Joseph-Brücke/Tivolistr.
+- TOP 0.6.: Beschluss des Planungsausschusses vom 25.05.2011: Generalplan für Fahrrad-abstellplätze
+- TOP 0.7.: Beschluss des Planungsausschusses vom 25.05.2011: Regionsbericht 2010
+- TOP 0.8.: Beschluss des Planungsausschusses vom 25.05.2011: München setzt auf's Rad
+- TOP 0.9.: Beschluss des Planungsausschusses vom 25.05.2011: Überprüfung des Bedarfsplans für die Bundesschienenwege
+- TOP 0.10.: Beschluss des Bauausschusses vom 10.05.2011: Grundwasserwanne und Stützwände Widenmayer- / Ifflandstraße unter Tivolistraße
+- TOP 0.11.: Beschluss der Vollversammlung vom 18.05.2011: Bau der zweiten S-Bahn Stammstrecke, TOP 2011.04 A 4.1 N
+- TOP 0.12.: Fahrbahnsanierung ?Am Einlass?
+- TOP 0.13.: Bescheid über Baustelleneinrichtung auf der Grünanlage Isartorplatz
+- TOP 0.14.: Beschluss des Planungsausschusses vom 01.06.2011: Fahrradabstellplatzsatzung
+- TOP 0.15.: Beschluss des Kreisverwaltungsausschusses vom 07.06.2011: Tempo 30/40 in Hauptverkehrsstraßen (Erschließungsstraßen)
+- TOP 0.16.: Beschluss des Kreisverwaltungsausschusses vom 07.06.2011: ?Dialog-Display? in München ? München setzt auf den Einsatz mobiler Gewchwindigkeitsanzeiger
+- TOP 0.1.: Katalog zu den Angeboten für Kinder- und Jugendliche im KJR München Stadt und Geschäftsbericht 2010
+- TOP 0.2.: Schreiben der Glockenbachwerkstatt e.V. an die Kommunalreferentin und Antwortschreiben dieser
+- TOP 0.3.: Stellungnahme der Kinder- und Jugendbeauftragten des BA 2 zum Vorgang Müllerstraße 2 ? 6 / Bolzplatz der Glockenbachwerkstatt
+- TOP 0.4.: Mitteilung des Referats für Bildung und Sport zur Grundschule an der Herrnstraße
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
