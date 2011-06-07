@@ -1,0 +1,91 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-06-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126805
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126805
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Buchhandlung vom 11.05.2011 Umwandlung der Grüninseln an der Ecke Türken-/Theresienstraße in Fahrradabstellplätze (s. TOP C.1.2)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Liste der Bauvorhaben 17., 18., 19., 20. KW
+- TOP 2.1.2.: Bauvorhaben Königinstraße 31 Aufstockung Wohnhaus und Erweiterung Garagen ? Vorbescheid
+- TOP 2.1.3.: Bauvorhaben Amalienstraße 46 Nutzungsänderung eines Ladens (Einzelhandelsfläche) zu einer Gastraumfläche, Erweiterung der Gaststätte
+- TOP 2.1.4.: Bauvorhaben Neureutherstraße 16, Abbrauch und Neuaufbau des Dachgeschosses mit neuer Wohnnutzung sowie Anbau eines Außenaufzugs (VGB); Nutzungsänderung einer Wohn- in eine Gewerbeeinheit (RGB)
+- TOP 2.1.5.: Zieblandstraße 45, Aufstockung Dachgeschoss, Vorbescheid
+- TOP 2.1.6.: Schellingstraße 50, Um- und Zubu, Aufstockung der Innenhofbebauung, Errichtung von Appartements für Wohnzwecke ? Tektur zu Az: 2011-1295
+- TOP 2.1.7.: Theresienstraße 1, Nutzungsänderung in einzelne Büroräume und Errichtung von drei Stellplätzen
+- TOP 2.1.8.: Arcisstraße 21, Einbau einer behindertengerechten Rampe mit Vordach am Haupteingang der TU München s. Entscheidung des BA 3 in der Sitzung am 10.05.2011 neuerliches Schreiben des Staatlichen Bauamtes vom 20.05.2011
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Vollzug der Baumschutzverordnung: Erzgießereistraße 14 Vertagt aus der Sitzung am 10.05.2011, TOP B.2.2.3
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der Fraktion von Bündnis 90/Die Grünen im BA 3 Aufenthaltsqualität auf dem Wittelsbacherplatz vebessern, Die Stadt München wird gebeten, die Aufenthaltsqualität auf dem Wittelsbacherplatz zu ver bessern und dort eine angemessene Anzahl von Sitzmöglichkeiten (Sitzbänke o.ä.) zu schaf fen.
+- TOP 1.2.: Schreiben einer Buchhandlung vom 11.05.2011 Umwandlung der Grüninseln an der Ecke Türken-/Theresienstraße in Fahrradabstellplätze (s. TOP A.5.2.1)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Stadtwerke München, Straßenbahnwendeschleife Lothstraße ? Trassierungsbeschluss Beschlussvorlage für den Ausschuss für Arbeit und Wirtschaft Sitzungsvorlage Nr. 08-14 / V 06510
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Kreisverwaltungsreferat, Entscheidungen über Sondernutzungserlaubnisse a) Türkenstraße 44, Verkaufseinrichtung auf öffentlichem Grund b) Amalienstraße 14, Verkaufseinrichtung auf öffentlichem Grund c) Türkenstraße 77, Verkaufseinrichtung auf öffentlichem Grund d) Augustenstraße 55, Widerruf der Sondernutzungserlaubnis für einen mobilen Fahrradständer e) Seidlstraße 4, Verkaufseinrichtung auf öffentlichem Grund f) Amalienstraße 65, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: (E) Außenbeleuchtung des Strafjustizzentrum an der Nymphenburger Straße Empfehlung Nr. 08-14 / E 00815 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 09.12.2010
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: a) Dachauer Straße 4, Erweiterung der bestehenden Freischankfläche b) Schleißheimer Straße 12, Erweiterung der bestehenden Freischankfläche c) Schleißheimer Straße 14 ?Pussy Cat?, Genehmigung einer Freischankfläche d) Schleißheimer Straße 14 ?Bambushain?, Erweiterung einer bestehenden Freischankfläche e) Schleißheimer Straße14 ?Pretty Bar?, Genehmigung einer Freischankfläche f) Rottmannstraße 24, Erweiterung der bestehenden Freischankfläche g) Schleißheimer Straße 104, Genehmigung einer Freischankfläche h) Schellingstraße 54, Erweiterung der bestehenden Freischankfläche i) Neureutherstraße 29, Genehmigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, VVB, Anhörung Münchner Stadtlauf 2011 am 26.06.2011
+- TOP 2.4.2.: Kreisverwaltungsreferat, VVB, Anhörung Europäische Jonglierconvention: Parade und Eröffnungsshow am Königsplatz am 07.08.2011
+- TOP 2.4.3.: Kreisverwaltungsreferat, VVB, Anhörung Infostand FKG auf dem Geschwister-Scholl-Platz vom 04.07. bis 06.07.2011
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.2.: ]18.jetzt[ - Fest junger Erwachsener im Rathaus am 08.10.2011 vertagt aus der Sitzung vom 10.05.2011, Unterlagen liegen bereits vor
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Baureferat Vollzug der Grünanlagensatzung, Kunst im öffentlichen Raum Semesterprojekt der TU München im Alten Botanischen Garten am 29.06.2011 (General- probe am 2.06.2011)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen Antrag Nr. 08-14 / A 1273, DIE LINKE vom 18.12.20009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06560
+- TOP 1.2.: Referat für Statplanung und Bauordnung, Stadtsanierung und Wohnungsbau Genossenschaftsidee fördern I, Genossenschaftlichen Wohnungsbau weiter stärken Antrag Nr. 08-14 / A 02303 div. Stadträte/innen vom 18.03.2011 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06766
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Stadtplanung Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007? Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06796
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Regionsbericht 2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06378
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung PERSPEKTIVE MÜNCHEN ? Fortschreibung 2011, Leitmotiv, strategische Leitlinien Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06446
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Stadtsanierung und Wohnungsbau Bezahlbaren Wohnraum in München erhalten ? Förderung von Genossenschaften Antrag Nr. 08-14 / A 02018 der Stadtratsfraktion der CSU vom 01.12.2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 15.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06756
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement Verkehrsrechtliche Anordnung, Umdrehung der Einbahnregelung in der Schleißheimer Straße südlich der Gabelsbergerstraße
+- TOP 2.2.: Baumaßnahmen der Stadtwerke München Linprunstraße , Fernwärme Brienner Straße 59, Fernwärmeanschluss Brienner Straße 41, Fernwärme Schelingstraße 131, Strom
+- TOP 2.3.: Referat für Gesundheit und Umwelt Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchG, Schellingstraße 23, Aushub- und Verfüllarbeiten für Fernwärmeanschluss
+- TOP 2.4.: Referat für Stadtplanung und Bauordnung, München setzt auf's Rad 1 Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 25.05.2011 Antrag Nr. 08-14 / A 01080 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.2009 Sitzungsvorlagen Nr. 08-14 / V 04320
+- TOP 2.5.: Referat für Stadtplanung und Bauordnung Generalplan für Fahrradabstellplätze BA-Antrag Nr. 08-14 / B 02394 des BA 5, Au-Haidhausen vom 15.09.2010 Beschluss des Ausschusses für Statplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06618
+- TOP 2.6.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Überprüfung des Bedarfsplans für die Bundesschienenwege; Anträge der Stadtratsfraktion der CSU vom 17.11.2010 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 Sitzungsvorlagen Nr. 08-14 / V 06605
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Hauptbahnhof München ? Konzeptalternative der DB AG Bekanntgabe in der Vollversammlung des Stadtrates vom 18.05.2011 Sitzungsvorlagen Nr. 08-24 / V 06705
+- TOP 2.8.: Kreisverwaltungsreferat, VVB Kulturstrand am Professor-Huber-Platz vom 19.05. bis 21.08.2011 Eilentscheidung des Vorsitzenden: Zustimmung durch Fristablauf
+- TOP 2.9.: Kreisverwaltungsreferat, VVB, Erlaubnisbescheid Radlnacht am 21.05.2011
+- TOP 2.10.: Kreisverwaltungsreferat, Verkehrsmanagement Probeweise Abschaltung der LZA Max-Joseph-/Ottostraße
+- TOP 2.11.: Referat für Gesundheit und Umwelt Vollzug des Bundesimmissionsschutzgesetzes (BImschG) und der Geräte- und Maschnen- lärmschutzverordnung (32. BImschV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimschG, Schellingstraße 23 Aushub- und Verfüllarbeiten für Fernwärmeanschluss
+- TOP 2.12.: Kreisverwaltungsreferat, VVB Große Fronleichnamsprozession am 23.06.2011, Nachtrag Zustimmung des Vorsitzenden im Rahmen einer Eilentscheidung
+- TOP 2.13.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Dachauer Straße 54, Verkaufseinrichtung auf öffentlichem Grund, Entscheidung des BA 3 in der Sitzung am 12.04.2011, KVR holt Entscheidung des Oberbürgermeisters ein
+- TOP 3.1.: Jungbürgerfeier: wir pflanzen für München einen Baum
+- TOP 4: Kultur
+- TOP 4.1.: Direktorium, Zuwendung aus dem BA-Budget für das Projekt ?Die Schwebe? (geplant vom 15.08. bis 21.12.2010): Antwortschreiben an den Antragsteller auf dessen Bitte nach Verlängerung des Projektendes
+- TOP 4.1.: Antrag des BA 21 Pasing-Obermenzing Nr. 08-14/B 02996 vom 03.05.2011 mit der Bitte um Stellungnahme: Ablauf von Bürgerversammlungen
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 MFM-Projekt
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Eltern-Kind-Initiative Maxi e.V. Errichtung eines Kinderspielhauses
+- TOP 3: Aktuelle Sachstandsberichte
