@@ -1,0 +1,56 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-06-07T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2206772
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2206772
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 03.05.11
+- TOP 2: Anträge
+- TOP 2.1.: Erstaufnahmeeinrichtung Baierbrunner St. 14
+- TOP 2.2.: Floßlände - "Plattler"
+- TOP 2.3.: Erneute Probleme am Schweizer Platz
+- TOP 2.4.: Siemenssportpark erhalten
+- TOP 2.5.: Kita Waterloostraße
+- TOP 2.6.: Öffentlicher Seniorensport in Obersendling
+- TOP 2.7.: Schutz für das Obere Isartal
+- TOP 2.8.: S-Bahnhaltestelle "Siemenswerke" - Verkehrssicherungspflicht
+- TOP 2.9.: Anträge aus der Kinder- und Jugend-BA-Sitzung vom 18.05.11
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Mobilfunk - Suchkreismeldung
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrssituation Thalkirchner Brücke
+- TOP 5.2.: Kita Teschener Straße
+- TOP 5.3.: Anfahrzone Pullacher Platz 6
+- TOP 5.4.: Kistlerhofstr. 90 - Behindertenparkplatz
+- TOP 5.5.: Verkehrssituation Mühlthaler-/Buchendorfer Straße
+- TOP 5.6.: Verkehrssituation Wilhelm-Leibl-Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Ratzingerplatz - Bpl. Nr. 1769a
+- TOP 7: Unterausschuss Soziales
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Projekt - Filchnerstraße; Geh- und Radweg
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Veranstaltung Cowboy-Club
+- TOP 9.2.: Sammelgewerbehinweisanlage Hofmann-/Zielstattstraße
+- TOP 9.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Verkauf einer städt. Immobilie - Plinganserstr. 140
+- TOP 9.7.: Antrag auf Zweckentfremdung Forstenrieder Allee
+- TOP 9.8.: Gaststättenfortführung Boschetsrieder Str. 118
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 9.5.: Verkauf einer städt. Immobilie - Boschetsrieder Str. 26
+- TOP 1: Allgemeiner Teil
