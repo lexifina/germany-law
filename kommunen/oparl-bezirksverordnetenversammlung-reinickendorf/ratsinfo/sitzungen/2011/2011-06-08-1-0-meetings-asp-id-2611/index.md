@@ -1,0 +1,104 @@
+# 53. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-06-08T17:05:00+02:00
+- Ende: 2011-06-08T22:05:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2611
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2611
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=52754
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - beantwortet
+- TOP 5.1: Straßenausbaubeitragsgesetz (Große Anfrage 11.05.2011) - beantwortet
+- TOP 5.1.1: Straßenausbaubeitragsgesetzt - ohne Änderungen in der BVV beschlossen
+- TOP 5.2: Frühjahrsputz in Reinickendorf (Große Anfrage 11.05.2011) - beantwortet
+- TOP 5.3: Alkoholverbot auf öffentlichem Straßenland (Große Anfrage 11.05.2011) - beantwortet
+- TOP 5.3.1: Alkoholverbot auf öffentlichem Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 5.3.2: Straßensozialarbeit und Arbeit mit Jugendlichen - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Umsetzung der Baumaßnahme Alemannenstraße (Beschlussempfehlung 11.05.2011) - in der BVV abgelehnt
+- TOP 5.5: Umsetzung der Baumaßnahme Alemannenstraße (Beschlussempfehlung 11.05.2011) - in der BVV abgelehnt
+- TOP 5.6: Verkauf Insel Tegeler Hafen (Beschlussempfehlung 11.05.2011) - vertagt
+- TOP 5.7: Winterschädenbeseitigung (Beschlussempfehlung 11.05.2011) - vertagt
+- TOP 5.8: Nachnutzung TXL - Vorrang für Arbeitsplätze (4): Verkehrserschließungskonzept (Beschlussempfehlung 11.05.2011) - vertagt
+- TOP 5.9: Nachfrageorientierte Schulplanung (Beschlussempfehlung 11.05.2011) - vertagt
+- TOP 5.10: Änderung der Geschäftsordnung - § 24 a (1) und § 39 (2) (Beschlussempfehlung 11.05.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.11: Moratorium Alemannenstraße (Ersuchen 11.05.2011) - erledigt
+- TOP 5.11.1: Moratorium Alemannenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Heidekrautbahn endlich umsetzen (Empfehlung 11.05.2011) - vertagt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Märkisches Viertel an das U-Bahnnetz anschließen - vertagt
+- TOP 7.2: Festival of Lights auch in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Berücksichtigung städtebaulicher Kriminalprävention - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Tag der Ausbildung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Werben für Blumenpatenschaft - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Einschulungsuntersuchungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Ehrengrab für Paul Poser - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Anwohner Gewerbegebiet Lübarser Straße vor Geruchsbelästigung schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Qualität vorschulischer Sprachförderung gesichert? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Beratungsabläufe in den Bürgerämtern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Bürgerbüro am Flughafen Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Aussetzung des Zivildienstes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Kurzzeitiges Parken im Eichborndamm Ecke Alt-Wittenau - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Wirtschaftsfreundlichster Bezirk Reinickendorf (1) - Arbeitgeberservice - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Umsetzung der Baumaßnahme Alemannenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Schluss mit Zeitverträgen beim Ordnungsamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Insel im Tegeler Hafen - Wegerecht der Öffentlichkeit - vertagt
+- TOP 7.18: Defekte Straßenbeleuchtung schnell reparieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Öffnungszeiten der Jugendverkehrsschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Einschulungsuntersuchungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Anmeldungen an Grundschulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Taschengeld für AWO-Heimbewohner - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Glascontainer am Falkenplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Auswertung der Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gemäß § 4 Abs. 2 Baugesetzbuch (BauGB) zum Entwurf des Bebauungsplanes 12-33 vom 24.03.2011 - überwiesen
+- TOP 7.25: Aufstellung des Bebauungsplanes 12-32B - überwiesen
+- TOP 7.26: Erstmalige endgültige Herstellung der Straße 494 in Lübars (Kol. Bürgersruh) und Erhebung von Erschließungsbeiträgen - überwiesen
+- TOP 7.27: Tätigkeitsbericht der Frauenbeauftragten für den Zeitraum vom 01.01.2010 bis 31.12.2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Reinickendorfer Spielhallenkonzept - vertagt
+- TOP 8.2: Gemeinschaftsschule für „wirtschaftsfreundlichen Bezirk“ - vertagt
+- TOP 8.3: Oberflächenentwässerung in Frohnau - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Erneuerung und Verbesserung der Buddestraße zwischen Bernstorffstraße und Brunowstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Erneuerung des Regenwasserkanals im Becherweg durch die Berliner Wasserbetriebe - überwiesen
+- TOP 9.5: Nachwahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: UNESCO-Weltkulturerbe "Weiße Stadt" in Reinickendorf - erledigt
+- TOP 10.2: Änderung der Geschäftsordnung - Versand der Einladungen und Sitzungsunterlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Aufwand für die Beseitigung von Vandalismus und Graffitischmierereien im öffentlichen Nahverkehr in Reinickendorf - vertagt
+- TOP 10.4: Teilnahme Audit familiengerechte Kommune - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Umsetzung des Bildungspaketes zur Hartz IV-Reform - erledigt
+- TOP 10.6: Anflugrouten BBI - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Beschluss des Bebauungsplans 12-25B vom 6. Januar 2010 mit Deckblatt vom 25. August 2010 - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Wild- und Amphibienschutz auf dem Hermsdorfer Damm - vertagt
+- TOP 10.9: MSA an Gymnasien freiwillig - vertagt
+- TOP 10.10: Quartiersmanagement Auguste-Viktoria-Allee / Klixstraße - vertagt
+- TOP 10.11: Auswirkungen Kürzungen des Eingliederungstitels - erledigt
+- TOP 10.12: Erneuerung und Verbesserung der Buddestraße zwischen Bernstorffstraße und Brunowstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Respektierung der Interessen der Frohnauer Bevölkerung durch Senatorin Junge-Reyer - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Mit Unterrichtungstafeln Touristen und Besucher nach Reinickendorf locken - überwiesen
+- TOP 12.2: Spielplatz Zehntwerderweg / Wolfacher Pfad in Waidmannslust - überwiesen
+- TOP 12.3: Bürgerfreundliche Verwaltung durch Befragungen sicherstellen - überwiesen
+- TOP 12.4: Inkassounternehmen einsetzen - überwiesen
+- TOP 12.5: Erneuerung Fahrbahnmarkierungen Schulzendorfer Straße - vertagt
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Verlängerung der Nachtabschaltung der Ampel Hermsdorfer Str. Ecke Cyclopstraße Ecke Jean-Jaures-Straße - überwiesen
+- TOP 13.2: Ampel für Schulwegsicherheit während des Neubaus der Ruppiner Chaussee - überwiesen
+- TOP 13.3: Gasbeleuchtung in Frohnau / Hermsdorf - vertagt
+- TOP 13.4: Generationenfreundliches Einkaufen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Dauerhafte schulwegsichernde Maßnahmen in Heiligensee - überwiesen
+- TOP 13.6: Aufklärungskampagne Eichenprozessionsspinner-Raupen - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Daten über Kinderschutz vergleichbar machen - vertagt
