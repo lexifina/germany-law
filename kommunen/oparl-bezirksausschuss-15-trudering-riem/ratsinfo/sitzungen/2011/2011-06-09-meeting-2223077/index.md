@@ -1,0 +1,114 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2011-06-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2223077
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2223077
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Straßenbenennung im 15. Stadtbezirk Trudering-Riem Stolzhofstraße
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Arbeitskreis Ökologie Messestadt Riem Heimat- und Umweltprojekt vom 27.06. - 22.07.2011
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Kreativ Musikforum Konzert am 03.07.2011
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Missstände im Stadtteil München Riem
+- TOP 2.2.: Kindergärten in der Messestadt Ost
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Kinderbetreuung in der Unterkunftsanlage Karl-Schmid-Straße 8
+- TOP 3.2.: Sozialpolitisch stabile Mischung im Wohnungsbau für Riem
+- TOP 3.3.: Ausweitung der Vorläuferklassen für das Truderinger Gymnasium
+- TOP 3.4.: Schulhoföffnung Gymnasium Trudering und Bolzplatz an der Schwablhofstraße
+- TOP 3.5.: Untersuchung der Sporthochschule Köln zur Schulhallennutzung in Trudering-Riem
+- TOP 3.6.: Radweg Riemer Straße
+- TOP 3.7.: Neuen Radweg St.- Augustinus- Straße vernünftig ausschildern
+- TOP 3.8.: Erfahrungen der Stadt Rosenheim mit dem verkehrsberuhigten Geschäftsbereich
+- TOP 3.9.: Parkbereich Wasserburger Landstraße Höhe Haus-Nr. 281
+- TOP 3.10.: Frauenparkplätze am P&R- Parkplatz Trudering
+- TOP 3.11.: Schluss mit der Fehlleitung von MVG-Fahrgästen - Busnummern-Fahrzielanzeiger bei MVG-Bussen am Truderinger Bahnhof rechtzeitig korrigieren
+- TOP 3.12.: Fragwürdige Materiallagerung auf unbebauten Grundstücken in der Messestadt
+- TOP 3.13.: Sitzbänke der Messestadt-Promenade erneuern
+- TOP 3.14.: Elektronisch verstärkte Musik im Biergarten Franziskanergarten an der Friedenspromenade
+- TOP 3.15.: Bürgerbüro Ostbahnhof - Verbesserungsvorschläge
+- TOP 3.16.: Fortschreibung des Regionalplans München; Kapitel B IV Wirtschaft und Dienstleistungen, 2.8 Sicherung und Gewinnung von Bodenschätzen; Schreiben der Gemeinde Haar an den Regionalen Planungsverband München
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Bauvorhaben Truderinger Str. 321-325
+- TOP 4.2.: Lehrer-Wirth-Schule - Baustelle ohne Ende!?
+- TOP 4.3.: Baustelle Truderinger Gymnasium an der Friedenspromenade
+- TOP 4.4.: Räume für die Musikschule sicherstellen
+- TOP 5: Anhörungen
+- TOP 5.1.: Straßenbenennung im 15. Stadtbezirk Trudering-Riem: Messestadt Riem- 4. Bauabschnitt Wohnen
+- TOP 5.2.: Gehobener Wärmedämmstandard im 4. Bauabschnitt Messestadt; Beschluss des Umweltschutzausschusses vom 28.06.11
+- TOP 5.3.: Hofbräudult am 16.07.11, Hofbräuallee 1
+- TOP 5.4.: Städt. Flurstück 1408/104 Gem. Trudering an Olof-Palme/ Graf-zu-Castell-Straße, "Männercamp" vom 29.06.11 - 29.07.11
+- TOP 5.5.: Korrektur zur Anhörung Werbenutzungsstandorte
+- TOP 5.6.: Haltverbot Friesenstraße, vorgesehene verkehrsrechtliche Anordnung nach § 45 StVO
+- TOP 5.7.: Mein Stadtstrand - Schulprojekt des AK Ökologie im Riemer Park am 18.07.11 (Ersatztermin 20.07.11)
+- TOP 5.8.: Automobilsalon auf der Sonderfreifläche Riem am 23.-24.07.11
+- TOP 5.9.: Icarus-Straßenfest in der Maria-Montessori-Straße am 24.07.11 (Ersatztermin 31.07.11)
+- TOP 5.10.: Straßenfest in der Lehrer-Wirth-Straße am 16.07.11 (Ersatztermin 23.07.11)
+- TOP 5.11.: Feuerwerk Klasse IV in der Truderinger Straße/ Ecke Häringweg am 02.07.11
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Geplante Kinderkrippe in der Birthälmer Str. 78; Präsentation der Joki München GmbH
+- TOP 7.7.2: UA Kultur:
+- TOP 7.1.: BA-Fest am 14.10.11
+- TOP 7.2.: Sauberer Stadtstrand
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Umfahrung Kirchtrudering; a) Drei Jahre nach dem Stadtratsauftrag- planerische Ergebnisse zur Umfahrung Kirchtrudering vorlegen, Antrag Nr. 08-14/ A 00522 vom 15.01.09; b) Höchste Eisenbahn für die Umfahrung Kirchtrudering, BA-Antrag Nr. 08-14/ B 01386 vom 30.07.09; c) Ortsumfahrung Kirchtrudering, BA-Antrag Nr. 08-14/ B 02843 vom 17.03.11; d) Ortsumfahrung Kirchtrudering, Antrag Nr. 08-14/ B 02344 vom 31.03.11; Entwurf der Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 7.2.: Wasserturmstr. 10
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: BA-Fest am 14.10.11: Bestätigung mit Ergänzungen des Direktoriums vom 26.05.11
+- TOP 7.2.: Personalkostenaufstellung des Vereins der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. zum Konzert am 29.05.11
+- TOP 7.3.: Zuwendungsbescheid Truderinger Burschenverein von 1895 e.V. vom 26.05.11
+- TOP 7.4.: Zuwendungsbescheid Kreativ Musikforum vom 26.05.11
+- TOP 7.5.: Zuwendungsbescheid Kreisjugendring München Stadt, Jugendsozialarbeit Hauptschule Feldbergstraße vom 26.05.11
+- TOP 7.6.: Zuwendungsbescheid Freunde der Freiwilligen Feuerwehr Riem von 1874 e.V. vom 26.05.11
+- TOP 7.7.: Zuwendungsbescheid Elternbeirat des Sonderpädagogischen Förderzentrums München-Ost vom 26.05.11
+- TOP 7.8.: Zuwendungsbescheid Bürgerforum Messestadt e.V. vom 26.05.11
+- TOP 7.9.: Ablehnungsbescheid Initiative "Radi TV" vom 26.05.11
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Sulzweg 32, Hoferichterweg 5; Entscheidungen der Unt. Naturschutzbehörde aus anderen Gründen: Birkhahnweg 21 (Gefahrenbaum); Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 In der Rosenau 4 ; 8.3 Birkhahnweg 21; 8.4 Ingeborgstr.20; 8.5 Florastr. 70; 8.6 Am Birkicht 14; 8.7 Gerstäckerstr.118; 8.8 Waldtruderinger Str. 20
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Sommerfest in der Wohnsiedlung Widmannstraße am 16.07.11
+- TOP 9.2.: Baustelle Bahnstr. 11: Bürgerschreiben vom 12.05.11 an das Planungsreferat zur Kenntnis
+- TOP 9.3.: Lärmschutz an der A94, Bürgerschreiben vom 10.05.11 mit Antwort der Geschäftsstelle zur Kenntnis
+- TOP 9.4.: Antrag des BA 21 Pasing-Obermenzing Nr. 08-14/ B 02996 vom 03.05.11 "Ablauf von Bürgerversammlungen" mit der Bitte um Unterstützung
+- TOP 9.5.: Antrag des BA 1 Altstadt-Lehel "Schaffung von Ersatzwohnraum im gleichen Stadtviertel" mit der Bitte um Unterstützung
+- TOP 9.6.: Antrag des BA 1 Altstadt-Lehel auf Änderung der BA-Satzung "Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung" mit der Bitte um Unterstützung
+- TOP 9.7.: Protokoll des JourFixe der Bezirksausschüsse vom 24.03.11
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung der Bezirksausschüsse über Bauvorhaben im Stadtbezirk im Zeitraum 02.05.11 - 22.05.11
+- TOP 10.2.: Unterrichtung über die Fortführung der Schank- und Speisewirtschaft Zehntfeldstüberl, Zehntfeldstr. 139
+- TOP 10.3.: Vollzug der Straßenverkehrsordnung; hier §§ 29 und 32 StVO - Filmaufnahmen auf öffentlichem Grund, Willy-Brandt-Allee, De-Gasperi-Bogen, Paul-Henri-Spaak-Straße, Am Mitterfeld, Ottendichler Straße, Joseph-Wild-Straße, Olof-Palme-Straße am 02.06.11, Ausweichtermine 03./06.06.06.11
+- TOP 10.4.: Vollzug der Straßenverkehrsordnung; hier §§ 29 und 32 StVO - Filmaufnahmen auf öffentlichem Grund, Stockholmstr. bzw. Verbindungsstück zwischen Stockholmstr. und Caroline-Herschel-Str. und Stockholmstr. Ecke Helsinkistr. am 24.05.11
+- TOP 10.5.: Fahrradabstellkonzept; Widerruf erteilter Ausnahmegenehmigungen zur Aufstellung mobiler Fahrradständer auf Grund des 1. Realisierungsabschnitts; Neu-Erteilung von Ausnahmegenehmigungen mobiler Fahrradständer im Zusammenhang mit dem städtischen Fahrradabstellkonzept; Beschluss des BA 15 vom 17.09.09
+- TOP 10.6.: Erweiterungsvorhaben an Telekom-UMTS-Mobilfunkstandorten mit LTE (1800 Megahertz), hier: Stahlgruberring 18
+- TOP 10.7.: Angebote für Kinder und Jugendliche im KJR München-Stadt und Geschäftsbericht 2010
+- TOP 10.8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.9.: Haus der Gegenwart in der Messestadt Riem - Beendigung des Projekes; Sitzungsvorlage Nr. 08-14/ B 06798, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11
+- TOP 10.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.11.: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften; Antrag Nr. 08-14/A 02018 der Stadtratsfraktion der CSU vom 01.12.10; Sitzungsvorlage Nr. 08-14/ V 06756, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.12.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007", Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB; Sitzungsvorlage Nr. 08-14/ V 06796, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.13.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen; Antrag Nr. 08-14/ A 01273 von DIE LINKE vom 18.12.09, Sitzungsvorlage Nr. 08-14/ V 06560, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11, Ergänzung vom 23.05.11
+- TOP 10.14.: Generalplan für Fahrradabstellplätze; Antrag Nr. 08-14/ B 02394 des Bezirksausschusses des Stadtbezirks 5 Au-Haidhausen vom 15.09.10; Sitzungsvorlage Nr. 08-14/ B 06618, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.15.: München setzt aufs Rad 1, Mehr Öffentlichkeit für die Förderung des Radverkehrs; Antrag Nr. 08-14/ A 01080 der Stadtratsfraktion DIE GRÜNEN/RL vom 25.09.09; Sitzungsvorlage Nr. 08-14/ V 04320, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.16.: Der Demographie und den Belangen Mobilitätseingeschränkter Rechnung tragen - Potenzial von Quartiersbussen für München darstellen; Antrag Nr. 08-14/ A 02142 von Herrn Stadtrat Dr. Georg Kronawitter und Herrn Stadtrat Dr. Reinhold Babor vom 19.01.11, Sitzungsvorlage Nr. 08-14/ V 06483, Beschluss des Ausschusses für Arbeit und Wirtschaft vom 10.05.11
+- TOP 10.17.: Dezentrales Güterverkehrskonzept (GVZ-Konzept), Überprüfung und weitere Planung, Anträge; Sitzungsvorlage Nr. 08-14/ V 04152, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11
+- TOP 10.18.: Überprüfung des Bedarfsplans für die Bundesschienenwege; Anträge der Stadtratsfraktion der CSU vom 17.11.10; a) Überarbeitung des Bundesverkehrswegeplans- verkehrliche Konsequenzen für den Bahnknoten München aufzeigen, Antrag Nr. 08-14/ A 01986 vom 17.11.10; b) Überarbeitung des Bundesverkehrswegeplans (2)- Konsequenzen für die Beseitigung von Altlasten bei der Barrierefreiheit aufzeigen, Antrag Nr. 08-14/ A 01987 vom 17.11.10, c) Überarbeitung des Bundesverkehrswegeplans (3)- Konsequenzen für die Beseitigung höhengleicher Bahnübergänge aufzeigen, Antrag Nr. 08-14/ A 01988 vom 17.11.10; Sitzungsvorlage Nr. 08-14/ V 06605, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.19.: Regionsbericht 2010; Sitzungsvorlage Nr. 08-14/ V 06378, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.20.: Perspektive München- Fortschreibung 2011, Leitmotiv, strategische Leitlinien; Sitzungsvorlage Nr. 08-14/ V 06446, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11
+- TOP 10.21.: Drehgenehmigung Von-Heydebreck-Str. 22 am 27.-28.06.11
+- TOP 10.22.: Erlaubnisbescheid Straßenfest auf dem Platz der Menschenrechte am 10.07.11
