@@ -1,0 +1,115 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-06-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2195040
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2195040
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Begrünungsmaßnahme Aignerstraße 6; ordnungswidriges Parken; Bürgerschreiben vom 13.05.2011
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Ablauf von Bürgerversammlungen; Antrag des BA 21 vom 03.05.2011 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 3.2.: Änderung der Wohnraumzweckentfremdungssatzung; Schaffung von Ersatzwohnraum im gleichen Viertel; Antrag des BA 1 vom 10.05.11 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 3.3.: generelles Anhörungsrecht beim Vollzug der Zweckentfremdungssatzung; Antrag des BA 1 vom 12.04.11 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: ARGE St.-Quirin-Fest, für die Maßnahme: St.-Quirin-Fest Giesing am 07.07.11; Antragssumme: wird nachgereicht; Antrag vom 25.05.11
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Watzmannstraße 2; Beschluss des BA 17 vom 14.06.2011
+- TOP 0.1.: Verkauf einer städtischen Immobilie im Rahmen des Vollzugs des Stadtratsbeschlusses "Neuorganisation des städt. Wohnungsbestandes" vom 08./16.02.11; Anhörung der Bezirksausschüsse gem. § 3 der BA-Satzung 5.1.3.1.1 Silberhornstraße 6, Zehentbauernstraße 2, Weinbauernstraße 4; Anhörung vom 05.05.11 5.1.3.1.2 Kistlerstraße 6; Anhörung vom 02.05.11 5.1.3.1.3 Weißenseestraße / Schwanseestr. / Chiemgaustr. / Pöllatr.; Anhörung vom 10.05.11
+- TOP 0.2.: Anhörungen zu Bauvorhaben 5.1.3.2.1 Bacherstraße 1; Sanierung und Umbau Bestandsgebäude, DG-Ausbau, Neuerrichtung Balkonanlage; Neubau zweier Reihenhäuser mit Duplexgarage; Anhörung vom 18.05.11 5.1.3.2.2 Münchberger Straße; Neubau einer Kooperationseinrichtung mit 2 Kindergarten- und 4 Krippengruppen; Anhörung vom 18.05.11 5.1.3.2.3 Münchberger Straße; Neubau eines Dreispänners mit Garagen; Anhörung vom 26.05.11 5.1.3.2.4 Fasangartenstraße; Neubau eines Fünfspänners mit fünf Garagen; Anhörung vom 30.05.11
+- TOP 0.3.: Werbenutzungsstandorte - Anhörung des RAW zum Säulenstandortvorschlag Nr. 190 (Stadelheimer Straße, Übergang zur Ständlerstraße) - Korrektur; Zuleitung des RAW vom 25.05.11 mit der Bitte um Stellungnahme
+- TOP 0.4.: Verkauf einer städt. Immobilie; Anhörung der Bezirksausschüsse nach § 3 der BA-Satzung; hier: Pöllatstraße 11 (Bestellung eines Erbbaurechts durch die Gewofag); Anhörung vom 24.05.11
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.2.1 SSW "Antica Bottega", Deisenhofener Straße 80; Mitteilung vom 02.05.11 5.1.4.2.2 SSW "Wirtshaus Bar Emmeranshof", Tegernseer Landstraße 11; Mitteilung vom 27.04.11 5.1.4.2.3 SSW "Erciyes", Brecherspitzstraße 6; Mitteilung vom 23.05.11
+- TOP 0.3.: Vollzug der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 5.1.4.3.1 Anwesen Obere Grasstraße; Unterrichtung vom 28.04.11
+- TOP 0.4.: Bauvorhaben Tegernseer Landstraße 36; u. a. Umbau und Modernisierung des Gebäudes im Umgriff des Erhaltungssatzungsgebietes "Tegernseer Landstraße"; "Luxussanierung"? Vereinbarkeit mit der Erhaltungssatzung? Anfrage des BA 17 aus der Sitzung vom 11.01.11; Antwortschreiben des Sozialreferats vom 26.04.11
+- TOP 0.5.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB; Sitzungsvorlagen Nr. 08-14/V 06796; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (SB) zu TOP 5.1.4.5 Hinweis / Ergänzung vom 26.05.11
+- TOP 0.6.: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften; Antrag Nr. 08-14 /A 02018 der Stadtratsfraktion der CSU vom 01.12.2010; Sitzungvorlagen Nr. 08-14/V 06756; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (SB)
+- TOP 0.7.: Genossenschaftsidee fördern I; Genossenschaftlichen Wohnungsbau weiter stärken; Stadtratsantrag Nr. 08-14 / A 02303 vom 18.03.11; Sitzungsvorlagen Nr. 08-14 / V 06766; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (SB)
+- TOP 0.8.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen; Antrag Nr. 08-14 / A 1273 von DIE LINKE vom 18.12.2009; Sitzungsvorlage Nr. 08-14 / V 06560; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (SB) zu TOP 5.1.4.8 Hinweis / Ergänzung vom 23.05.2011
+- TOP 0.9.: PERSPEKTIVE MÜNCHEN - Fortschreibung 2011; Leitmotiv, strategische Leitlinien; Sitzungsvorlagen Nr. 08-14/V 06446; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (VB)
+- TOP 0.10.: Regionsbericht 2010; Sitzungsvorlagen Nr. 08-14 / V 06378; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 (VB)
+- TOP 0.11.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.02.10; Antrag auf Genehmigung (Erweiterung) einer neuen Verkaufsreinrichtung auf öffentlichem Verkehrsgrund; Antrag auf Genehmigung von zwei (weiteren) Warenauslagen in der Schlierseestraße 29; Beschluss des BA 17 vom 12.04.11; Schreiben der Bezirksinspektion Süd an das Direktorium mit der Bitte um Entscheidung durch den Oberbürgermeister
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Hundeproblematik Walchenseeplatz (vertagt aus der Sitzung vom 12.04.11 und 10.05.11 - FF UA Umwelt)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Entscheidung über die Festlegung der Ladezonen und Standorte der Beschilderung innerhalb des zukünftigen Parklizenzgebietes gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Beschluss des BA 17 in der Sitzung vom 14.06.11 (vertagt aus der Sitzung vom 10.05.11) 5.3.2.1.1 Parklizenzgebiet Tegernseer Landstraße 5.3.2.1.2 Parklizenzgebiet Silberhornstraße 5.3.2.1.3 Parklizenzgebiet St.-Martins-Platz 5.3.2.1.4 Parklizenzgebiet Walchenseeplatz
+- TOP 0.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.11 über die Projektplanung Marklandstraße (Projekt-Nr.: 100214 - endgültige Herstellung der Marklandstraße); Beschluss des BA 17 vom 14.06.11 (vertagt aus der Sitzung vom 10.05.11) - <div>vertagt</div>
+- TOP 0.3.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung Werinherstraße / Hohenwaldeckstraße; Beschluss des BA 17 vom 14.06.2011
+- TOP 0.1.: Öffnung der Hohenschwangaustraße zwischen Chiemgaustraße und Hohenschwangauplatz für den gegenläufigen Radverkehr; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 18.05.11 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 0.1.: Schulbushaltestelle St.-Martin-Straße 30; Änderung des Zeitzusatzes; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: Werinherstraße zwischen Raintaler Straße und Rotwandstraße im 17. Stadtbezirk Obergiesing-Fasangarten; Projektkosten; Ausführungsgenehmigung; Sitzungsvorlage Nr. 08-14 / V 06599; Beschluss des Bauausschusses vom 10.05.11 (SB)
+- TOP 0.3.: Generalplan für Fahrradabstellplätze; BA-Antrags-Nr. 08-14 / B 02394 des BA 5 vom 15.09.10; Sitzungsvorlagen Nr. 08-14 / V 06618; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (SB)
+- TOP 0.4.: Überprüfung des Bedarfsplans für die Bundesschienenwege; Anträge der Stadtratsfraktion der CSU vom 17.11.2010; Sitzungsvorlage Nr. 08-14 / V 06605; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 25.05.11 (SB)
+- TOP 0.5.: München setzt auf's Rad 1; Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs; Antrag Nr. 08-14 / A 01080 der Stadtratsfraktion DIE GRÜNEN / RL vom 25.09.09; Sitzungsvorlagen Nr. 08-14 / V 04320; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11 (SB)
+- TOP 0.6.: Beschwerde über die Linienführung der Buslinie 145 in der Kiesmüller / Waldsassener Straße in München; Schreiben der IG Kiesmüller / Waldsassener Straße an den Bayerischen Landtag; Antwortschreiben des Bayerischen Landtags vom 16.05.11
+- TOP 0.7.: Buslinie 145, Wendefahrt Kiesmüller / Waldsassener Straße; kein Einsatz von Gelenkbussen durch die MVG an Samstagen; BA-Antrag Nr. 08-14 / B 02908 des BA 17 vom 08.02.11; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 12.05.2011
+- TOP 0.8.: Linienweg der Buslinie 145; Prüfung der derzeitigen Wendefahrt über Kiesmüller- und Waldsassener Straße durch die Regierung von Oberbayern am Maßstab des § 13 Personenbeförderungsgesetz (PBefG); Antrag Nr. 08-14 / B 02352 des BA 17; Buslinie 145; Änderung des Linienwegs, Wendefahrt am Kreisverkehr Fasangarten- / Minnewitstraße; Probebetrieb; Antrag Nr. 08-14 / B 01856 des BA 17; Buslinie 145: Verlegung der Wendeschleife Kiesmüller- / Waldsassener Straße (in den bestehenden Kreisverkehr Fasangarten- / Minnewitstraße); Reparatur der beschädigten Kiesmüller- u. Waldsassener Straße durch die MVG; Empfehlung Nr. 08-14 / E 00644 der Bürgerversammlung des 17. Stadtbezirks vom 01.07.10; Sitzungsvorlage Nr. 08-14 / V 05880; Beschluss des Ausschusses für Arbeit und Wirtschaft am 10.05.11 (SB); Ergänzung vom 03.05.11
+- TOP 0.9.: Leistungsprogramm 2012 der MVG; Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) vom 22.05.2011
+- TOP 0.10.: Handlungsprogramm Mittlerer Ring; Weiterer Planungsbedarf - Fortschreibung des Handlungsprogramms; Sitzungsvorlagen Nr. 08-14 / V 02675; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11
+- TOP 0.11.: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS); Sitzungsvorlagen Nr. 08-14 / V 06873; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 (SB)
+- TOP 0.12.: Tempo 30 / 40 in Hauptverkehrsstraßen / Erschließungsstraßen; Sitzungsvorlage Nr. 08-14 / V 06885; Beschluss des Kreisverwaltungsausschusses vom 07.06.11 (SB)
+- TOP 0.13.: "Dialog-Display" in München; München setzt auf den Einsatz mobiler Geschwindigkeitsanzeiger; Anbringung einer Fahrtgeschwindigkeitskontrollanzeige nach der Einmündung am Theodolindenplatz in der Harthauser Straße; Sitzungsvorlage Nr. 08-14 / V 06878; Beschluss des Kreisverwaltungsausschusses vom 07.06.2011 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Zustand am Louisoder-Spielplatz; Bürgerschreiben (vertagt aus der Sitzung vom 10.05.2011)
+- TOP 0.2.: Hundeproblematik am Walchenseeplatz - FF (vertagt aus der Sitzung vom 12.04.11 und 10.05.11)
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: 17. Bahnhofsfest und Tag des offenen Denkmals am 11.09.11 auf dem Giesinger Bahnhofplatz; Anhörung des KVR vom 25.05.11 mit der Bitte um Stellungnahme
+- TOP 0.2.: Veranstaltung im Freien in einer städt. Grünanlage; Benefizlauf des Asam-Gymnasiums am 28.07.2011 im Weißenseepark; Anhörung des KVR vom 25.05.11 mit der Bitte um Stellungnahme bis 17.06.11
+- TOP 0.3.: Veranstaltung im Freien in einer städtischen Grünanlage; Künstlerfest der Gewofag mit Bezug "Wohnen im Viertel" am Walchenseeplatz am 29.09.11; Zuleitung des KVR vom 25.05.11 mit der Bitte um Stellungnahme bis 06.07.11
+- TOP 0.4.: Veranstaltung im Freien in einer städtischen Grünanlage / LSG; Fertigstellung Isarrenaturierung; Straße: entlang der Isar zwischen Großhesseloher Brücke und Reichenbachbrücke (Schwerpunkt Stadtgärtnerei und Frühlingsanlagen zwischen Wittelsbacher Brücke und Reichenbachbrücke) am 06.08.2011; Zuleitung des KVR vom 31.05.11 mit der Bitte um Stellungnahme bis 30.06.11
+- TOP 0.1.: 1250 Jahre Schlehdorf; erstmalige urkundliche Erwähnung von Pasing und Giesing, Festveranstaltung vom 22.06. bis 30.06.2013; Schreiben des BA 17 vom 31.03.11; Antwortschreiben des Direktoriums - Stadtarchiv vom 20.04.11
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Frasdorfer Straße 6 a, 1 Fichte, Antrag vom 09.05.2011 6.7.1.2 Waldmünchener Straße, 1 Fichte, Antrag vom 10.05.2011 6.7.1.3 Föhrenweg 6, 1 Fichte, Antrag vom 16.05.2011 6.7.1.4 Traunsteiner Straße 43, 6 Fichten, Antrag vom 19.05.2011 6.7.1.5 Cincinnatistraße 64, 1 Eiche, 1 Esche, Antrag vom 26.05.2011
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
