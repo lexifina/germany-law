@@ -1,0 +1,90 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-06-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201151
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201151
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Radfahrverbot auf dem Weißenburger Platz
+- TOP .2.: Klenzesteg über die Isar
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 12.08.2011 - <div>nach Antrag</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative "Urban Body II" Projekt "Urban Body II" vom 16. - 19.06.2011 - <div>nach Antrag</div>
+- TOP .3.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Sommerfest am 06.07.2011 - <div>nach Antrag</div>
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Einsteinstr. 133, "Asia": Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Wörthstr. 7, "Annapurna": Genehmigung einer Freischankfläche
+- TOP .3.: Falkenstr. 32, "Kaufnah": Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Isarbereich zwischen Großhesseloher Brücke und Reichenbachbrücke, Anhörungsverfahren für Isarrenaturierung ? Abschlussfest des Baureferats am 06.08.2011
+- TOP .2.: Errichtung einer Kindertagesstätte: mit 2 Kindergarten- und 3 Hortgruppen an der Welfenstraße (Tassilohof)
+- TOP .3.: Orleansplatz, Hamburger Fischmarkt vom 01.07. - 10.07.11
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Barrierefreiheit an den Geldautomaten der Stadtsparkasse München
+- TOP .2.: Beteiligung des BA bei der städtebaulichen und sozialen Beurteilung im Rahmen der Ausübung des Vorkaufsrechts
+- TOP .3.: Verlängerung der Räumzeit für Fußgänger an der Kreuzung Franziskanerstraße / Rablstraße
+- TOP .4.: Umgestaltung des Rosenheimer Platzes: Radweg stadtauswärts und Radweg bergauf
+- TOP .5.: Setzen eines Querbügels bei der Grünfläche in der Taubenstraße (Nähe Schwalbenstraße)
+- TOP .6.: Erneuerung der defekten Bank und der Schachfiguren in den Frühlingsanlagen
+- TOP .7.: Mobiler Fahrradständer am Mariahilfplatz zu Marktzeiten
+- TOP .8.: Trambahn am Orleansplatz: Ablehnung der Option, eine Trambahnwendeschleife auf der Platzfläche offenzuhalten; Einrichtung der Wendeschleife über das Straßenrondell und den Busbahnhof
+- TOP .9.: Bei der Ausschreibung zur Neuvergabe des Zuverdienstprojekts ?Weiße Feder? einen Träger bevorzugen, der einen Standort in der Au anbietet
+- TOP .10.: Barrierefreiheit bei Fahrkartenautomaten
+- TOP .11.: Informationen für Blinde und Sehgeschädigte im S-Bahnbereich sowie MVG-Bereich
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .1.: Eröffnung der Graffiti-Galerie in der Unterführung am Friedensengel am 10.06.2011, Eilentscheidung der Vorsitzenden vom 07.06.2011
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Metzstr. 19, 1 Kastanie
+- TOP .1.: Projekt "Zukunftskonzepte der Lebensmittelmärkte Münchens", Textentwurf für die Bekanntgabe im KR-Ausschuss am 07.07.2011
+- TOP .2.: Max-Weber-Platz 2: Zusammenlegung zweier Läden und Neuzuordnung eines Lagers und WCs
+- TOP .1.: Braystr. 5: Nachverdichtung einer Wohnanlage mit 56 WE und einer Tiefgarage mit 210 Stellplätzen im Innenhof (Braystr. 5-13 / Versailler Str. 18) - VORBESCHEID
+- TOP .2.: Ismaninger Str. 22: Ersatzbeschaffung eines ?PET-CT? für die nuklearmedizinische Klinik
+- TOP .3.: Einsteinstr. 65: Nutzungsänderung einer Büro-/ Gewerbefläche zu Labors
+- TOP .4.: Einsteinstr. 28: Neubau eines Schulgebäudes, Nutzungsänderung mit Aufstockung des Bestands ? VORBESCHEID
+- TOP .5.: Verkauf von städtischen Immobilien im Rahmen des Vollzugs des Stadtratsbeschlusses ?Neuorganisation des städtischen Wohnungsbestandes?
+- TOP .6.: Kirchenstr. 38: Umnutzung Gaststätte in Kindergarten
+- TOP .1.: Langfristige Siedlungsentwicklung; a) Nachverdichtung b) Baurechte durch Arrondierung schaffen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011
+- TOP .2.: Regionsbericht 2010; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.04.2011
+- TOP .3.: PERSPEKTIVE MÜNCHEN ? Fortschreibung 2011 Leitmotiv, strategische Leitlinien; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .4.: Genossenschaftsidee fördern I, Genossenschaftlichen Wohnungsbau weiter stärken, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .5.: Bezahlbaren Wohnraum in München erhalten ? Förderung von Genossenschaften; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .6.: Förderung von Eigentumswohnungen im München Modell (BV-Empfehlung Nr. 08-14/ E 00836); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .7.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007?, Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2, Nr. 1 und Nr. 2 BauGB; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .1.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Seeriederstr. 9 -13
+- TOP .2.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .3.: München setzt auf's Rad 3, Fahrrad-Service-Stationen für München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 (BA-Anträge Nr. 08-14/ B 02543, B 02697)
+- TOP .4.: München setzt auf's Rad 1, Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011
+- TOP .5.: Generalplan für Fahrradabstellplätze (BA-Antrag Nr. 08-14/ B 02394)
+- TOP .6.: Überprüfung des Bedarfsplans für Bundesschienenwege; Anträge der Stadtratsfraktion der CSU vom 17.11.2010
+- TOP .7.: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV / Straßenbau
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mi, 06.07.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Mo, 11.07.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Di, 19.07.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Do, 21.07.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Mo, 18.07.2011 ,19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mi, 27.07.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
