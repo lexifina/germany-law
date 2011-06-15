@@ -1,0 +1,51 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2011-06-15T15:04:00+02:00
+- Ende: 2011-06-15T18:14:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQii2GOrSIs7te5hzrvBLnw
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/559
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQbceie73ozDQM-Tar6PWeIWrpchyGFNdb5oWglwI8h2/Einladung_Seniorenbeirat_15.06.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUBEBliumtziK0qpMgeHiA-yIC5EoMSDMTxaKMZ9E2XD/Oeffentliche_Niederschrift_Seniorenbeirat_15.06.2011.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 1.1: Richtlinien über die Pressearbeit des Seniorenbeirats - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2: Anregungen und Empfehlungen
+- TOP 2.1: Behebung von Mängeln in der Innenstadt - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 2.2: Busunterstand Ferdinandstraße/Buddenbergplatz hier: Sichtbehinderung durch Werbung - Abstimmungsergebnis: Einstimmig nach Änderung des Beschlussvorschlages                              
+- TOP 2.3: Mangelhafte Wege am Ümminger See - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 2.4: Stadtumbau West/Innere Hustadt - Der Antrag ist gegenstandslos, daher keine Abstimmung.                                              
+- TOP 3: Stellungnahmen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Mitteilungen
+- TOP 5.1: Zukunft der Seniorenarbeit in Nordrhein-Westfalen - mdl. Bericht des Mitgliedes des Landtags NRW Serdar Yüksel - - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.2: Demographie mit Migrationshintergrund - mündlicher Bericht - - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.3: ÖPNV Buselohbrücke/Mangelnde Verkehrserschließung durch den ÖPNV nach Sperrung der Buselohbrücke - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.4: Sitzgelegenheiten an den Werner Teichen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.5: Kurzzeit-Parkplätze am Facharztzentrum Europa Haus - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.6: Sitzgelegenheiten für Gehbehinderte im Schauspielhaus - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.7: Busfahrpläne an der Haltestelle Tierpark - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.8: Bericht des Vorsitzenden hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.9: Berichte aus den Gremien hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.10: Verkehrssituation Bochumer Osten - Alte Bahnhofstraße - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 5.11: Bongardstraße/Hans-Böckler-Straße/Rathaus-Kreuzung, verkehrliche Verbesserungen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6: Anfragen
+- TOP 6.1: Neue Beleuchtung - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
