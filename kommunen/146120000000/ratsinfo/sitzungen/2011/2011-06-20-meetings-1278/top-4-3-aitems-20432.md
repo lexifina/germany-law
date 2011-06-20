@@ -1,0 +1,8 @@
+# TOP 4.3: Bebauungsplan Nr. 290, Dresden-Klotzsche Nr. 9, Am Flughafen
+
+- Sitzung: 18. Sitzung des Ortsbeirates Klotzsche (2011-06-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/20432
+- Ergebnis: Zustimmung mit Änderung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/6680
