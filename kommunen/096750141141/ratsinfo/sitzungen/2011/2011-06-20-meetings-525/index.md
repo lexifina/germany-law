@@ -1,0 +1,16 @@
+# Bürgerversammlung
+
+- Körperschaft: Stadt Kitzingen
+- Beginn: 2011-06-20T19:00:00+02:00
+- Ende: 2011-06-20T00:00:00+02:00
+- Ort: Sickerhalle Sickershausen
+- Status: 
+- Gremium: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/organizations/gr/20
+- Ratsinformationssystem: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/525
+- OParl: https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/meetings/525
+- Quelle: https://oparl.digitalfabrix.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Öffentliche Bekanntmachung https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00007746.pdf
+- Ergebnisprotokoll: Niederschrift -öffentlich- https://oparl.digitalfabrix.de/bodies/Stadt-Kitzingen/downloadfiles/a/00007747.pdf
+
+## Tagesordnung
+
