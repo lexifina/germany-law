@@ -1,0 +1,99 @@
+# 50. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2011-06-22T17:00:00+02:00
+- Ende: 2011-06-22T20:40:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2020
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2020
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Große Anfragen - erledigt
+- TOP 3.1: Hallenbau zu Babel - beantwortet
+- TOP 4: Kleine Anfragen - erledigt
+- TOP 4.1: Jagdschloss Glienicke - beantwortet
+- TOP 4.2: Untertauchen trotz Zusage? - beantwortet
+- TOP 4.3: Schießlärm in Wannsee - beantwortet
+- TOP 4.4: Liebloses Kleistgrab! - beantwortet
+- TOP 4.5: Dachsanierung Kita Zentrum am Kleeblatt - beantwortet
+- TOP 4.6: Austriebe von Straßenbäumen - beantwortet
+- TOP 5: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 5.1: Dringlichkeiten: Dringliche Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Neuwahl von ehrenamtlichen Mitarbeitern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 5.2.1: Sondermittel der BVV für den Imkerverein Berlin-Brandenburg und Umgebung e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2.2: Sondermittel der BVV für den Schüler-Ruder-Verband Wannsee e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2.3: Sondermittel der BVV für den Allgemeinen Blinden- und Sehbehindertenverein Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2.4: Sondermittel für den Arbeitskreis Historisches Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.3: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.3.1: Fortschreibung der Anmeldungen für die Investitionsplanung 2011 bis 2015 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.4: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.4.1: Weitere Verlängerung der Veränderungssperre 6 - 17 Ba / 37 [Ferdinandstraße 31 - 35] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5: Anträge - erledigt
+- TOP 5.5.1: Ampelanlage Habelschwerdter Allee Ecke Altensteinstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.5.2: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.6.1: Kinderbetreuung rund um die Uhr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.2: Klares Signal Pro-Integration - Fortentwicklung der Einbürgerungsfeiern zu bezirklichem Event mit dem Bezirksbürgermeister - in der BVV abgelehnt
+- TOP 5.6.3: Stellenbesetzung Integrationsbeauftragte/r - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.4: Clara Viebig in die Straßenbenennungsliste aufnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.5: Abbiegespur Goerzallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.6: Fußgängerüberweg Curtiusstraße/Köhlerstraße/Kadettenweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.7: Sicherheit des Forschungs-Reaktors in Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.8: Defibrillatoren bereithalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.9: Behindertenparkplatz am Mexikoplatz II - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.10: Solaranlage Rathaus Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.11: Schnelle Fertigstellung des Stellplatzes am ehemaligen Kontrollpunkt Dreilinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.12: "Andreaskreuz" Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.13: BVG-Haltestelle Steglitz - Anbindung verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.14: BVG-Haltestelle Steglitz - Anbindung verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.15: Fußgängerquerung Körnerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.16: Geschwindigkeitskontrollen in der Lausanner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.17: Hallenbau zu Babel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.18: Gebäudehöhen an der Truman Plaza festsetzen? - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.19: Kein Verkauf der Grünfläche vor Planreife - in der BVV abgelehnt
+- TOP 5.6.20: Schulraumplanung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.21: Mehrgenerationenspielplatz an der Stewardstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.22: Absolutes Halteverbot an den Fußgängerübergängen in der Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.23: Fährverbindung Wannsee-Kladow verbessern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.24: Computerraum Dreilinden-Grundschule erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.6.25: Verkehrsberuhigung in der Marshallstraße? - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 6.1: Anträge - erledigt
+- TOP 6.1.1: Sicherer Verkehrsfluss auf der Steglitzer Schloßstraße - überwiesen
+- TOP 6.1.2: Erhalt der Eiche im Bereich "Truman Plaza" oder Ersatzpflanzungen - überwiesen
+- TOP 6.1.3: Eine Urlaubsvertretung für die Geschäftsstelle des Bezirksschulbeirates in der Unterrichtszeit finden - überwiesen
+- TOP 6.1.4: Fahrbahnmarkierung Dahlemer Weg - überwiesen
+- TOP 6.1.5: Legale Fahrraddurchquerung vom Parkviertel Dahlem zur Clayallee - überwiesen
+- TOP 6.1.6: Kein Grillverbot im Yehudi-Menuhin-Park - überwiesen
+- TOP 6.1.7: Saubere Badestelle Badeweg Wannsee - überwiesen
+- TOP 6.1.8: Ratswaage Lankwitz in Stand setzen - überwiesen
+- TOP 6.1.9: Sonderpädagogische Unterstützung auch für Inklusionsschüler an Gymnasien - überwiesen
+- TOP 6.1.10: Skateranlage an der Jugendwerkstatt Ostpreußendamm - überwiesen
+- TOP 6.1.11: Beim Essen - Klima schützen - überwiesen
+- TOP 6.1.12: WC-Anlagen - überwiesen
+- TOP 6.1.13: Grillplätze im Bezirk - überwiesen
+- TOP 6.1.14: Mobilitätsdienste erhalten! - überwiesen
+- TOP 6.1.15: Gartenstadt Düppel - überwiesen
+- TOP 6.1.16: Fahrradangebotsstreifen vor dem Mutter-Mochow-Haus - überwiesen
+- TOP 6.1.17: Fußgängerüberweg in der Straße Am Waldfriedhof - überwiesen
+- TOP 6.2: Vorlagen zur Beschlussfassung - erledigt
+- TOP 6.2.1: Zustimmung zur Erneuerung der Regenentwässerung im Ostpreußendamm zwischen Herwarthstraße und Bäkestraße - überwiesen
+- TOP 6.2.2: Zustimmung zur Erneuerung der Regenentwässerung in der Straße Im Mittelbusch in der Teilstrecke von Kirchweg bis Von-Luck-Straße - überwiesen
+- TOP 6.2.3: Zustimmung zum Ausbau der Hildburghauser Straße von Bezirksgrenze bis Blanckertzweg und des Blanckertzweges - überwiesen
+- TOP 7: Bebauungspläne - erledigt
+- TOP 7.1: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 7.1.1: Bebauungsplan XII-286 (Kolonie Eugen-Kleine-Brücke) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Eine "Lehrerfeuerwehr" einrichten und den Schulen eine 100%ige Unterrichtsausstattung zuweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Rettet die Dahlemer Villenlandschaft! - Veränderungssperre gemäß § 14 BauGB zum Entwurf des Bebauungsplans X-B 17 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Jugendfreizeitheim und Skaterbahn in der Marshallstraße rechtlich absichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Die Schulen auf die Bildungsangebote des BstU hinweisen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.5: Neubildung eines Bezirksbehindertenbeirats gemäß § 7 Absatz 5 des Gesetzes über die Gleichberechtigung von Menschen mit und ohne Behinderung (Landesgleichberechtigungsgesetz - LGBG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Bezirksverordnetenvorstehers - erledigt
