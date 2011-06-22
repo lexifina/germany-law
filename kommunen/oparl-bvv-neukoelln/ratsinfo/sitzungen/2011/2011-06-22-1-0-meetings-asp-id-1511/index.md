@@ -1,0 +1,77 @@
+# 47. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2011-06-22T17:10:00+02:00
+- Ende: 2011-06-22T23:00:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1511
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1511
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 5: Vorlagen zur Beschlussfassung - (offen)
+- TOP 5.1: Berufung eines Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5.2: Veränderungssperre XIV-263b/26 - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mündliche Anfragen - (offen)
+- TOP 6.1: Private Hilfssheriffs - beantwortet
+- TOP 6.2: Aktuelle Entwicklung beim gesundheitlichen Kinderschutz - beantwortet
+- TOP 6.3: Deutsche zweiter Klasse im Standesamt? - beantwortet
+- TOP 6.4: Gesundheitsgefährdung durch Baumaßnahmen - beantwortet
+- TOP 6.5: Zukunft des Wirtschaftshofes des NGA - beantwortet
+- TOP 6.6: Impfstatus zugezogener Kinder - beantwortet
+- TOP 6.7: Sportplatz Lipschitzallee ohne Warmwasserversorgung? - beantwortet
+- TOP 6.8: Bauvorhaben der evangelischen Kirchengemeinde auf dem Gelände der alten Dorfkirche - beantwortet
+- TOP 6.9: Shuttle-Bus zum Flughafen BBI/BER - beantwortet
+- TOP 6.10: Gewerbetreibende in der Lahnstraße - schriftlich beantwortet
+- TOP 6.11: Kleider-Container - schriftlich beantwortet
+- TOP 6.12: Schulsekretärinnen - schriftlich beantwortet
+- TOP 7: Beschlussempfehlungen - (offen)
+- TOP 7.1: Soziale Berichterstattung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Ergebnispräsentation bei Bauplanungen mit Bürgerbeteiligung vorsehen - ohne Änderungen in der BVV beschlossen
+- TOP 7.3: Einsatz eines Präventionsmobils - ohne Änderungen in der BVV beschlossen
+- TOP 7.4: Naschgärten und -spielplätze - ohne Änderungen in der BVV beschlossen
+- TOP 7.5: Ausweisung einer Erhaltungssatzung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.6: Personalnotstand nicht weiter verschärfen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.7: Orte des Schreckens, die wir niemals vergessen dürfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.8: Wertstoffcontainer für Neukölln - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Hilfe für die Heinrich-Mann-Schule? - beantwortet
+- TOP 8.2: Zuzug von Familien aus Rumänien und Bulgarien - beantwortet
+- TOP 8.3: Neue Herausforderungen für das Jugendamt? - beantwortet
+- TOP 8.4: Der K(r)ampf mit den schuldistanzierten Kindern - schriftlich beantwortet
+- TOP 8.5: Keine Fertigstellung von Schulneubauten? - beantwortet
+- TOP 8.6: Braunschweiger Straße - Sorgen der Anwohner ernst nehmen! - schriftlich beantwortet
+- TOP 8.7: Fluglärmkommission - schriftlich beantwortet
+- TOP 8.8: Mietspiegel - schriftlich beantwortet
+- TOP 8.9: Lernförderung für Schülerinnen und Schüler - schriftlich beantwortet
+- TOP 8.10: Gesundheitsversorgung - schriftlich beantwortet
+- TOP 9: Große Anfragen - schriftlich - beantwortet
+- TOP 10: Anträge - (offen)
+- TOP 10.1: Schnelle Hilfe für die Heinrich-Mann-Schule! - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Gesperrt für Fahrzeuge über 3,5 t - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beginn von Schulneubauten - ohne Änderungen in der BVV beschlossen
+- TOP 11: Mitteilungen - (offen)
+- TOP 11.1: Flächenhafte Verkehrsberuhigung im Reuterkiez - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.2: Künstler/-innen und Publizist/-innen im Jobcenter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.3: Berlinpass und weiterhin Zuschuss für Geringverdiener mit Kindern - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.4: Denkmalschutz für Eternit-Hallen aufheben - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.5: Überquerungshilfe für Reiter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.6: Fahrradstreifen auf der Sonnenallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.7: Barrierefreier Zugang zum U-Bahnhof Karl-Marx-Straße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.8: Maximale Fördermenge der Brunnengalerie im Glockenblumenweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.9: Umzugshilfe für Bedürftige - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.10: Geschichtstafeln an der Wissmannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.11: Neue Sicherheitssysteme der BVG auch nach Neukölln - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.12: Keine Umgehung der Spielverordnung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11.13: Mehr Kontrollen in legalen sowie gegen illegale Einrichtungen! - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 12: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 12.1: 650 Jahre Neukölln - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.2: Keine Kürzungen im Jugendhaushalt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 12.3: Volksfest auf dem Tempelhofer Feld - mit Abschlussbericht zur Kenntnis genommen
