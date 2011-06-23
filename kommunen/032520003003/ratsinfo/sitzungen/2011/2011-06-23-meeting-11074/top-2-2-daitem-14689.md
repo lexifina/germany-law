@@ -1,0 +1,6 @@
+# TOP 2.2: Abfallbehälter im Stadtgebiet / unbebautes Grundstück Postweg/Bathildisstraße
+
+- Sitzung: Rat der Stadt Bad Pyrmont (24. Sitzung) (2011-06-23)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/14689
