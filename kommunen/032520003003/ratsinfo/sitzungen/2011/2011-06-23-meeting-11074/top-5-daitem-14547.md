@@ -1,0 +1,6 @@
+# TOP 5.: Sanierung des Humboldt-Gymnasiums
+
+- Sitzung: Rat der Stadt Bad Pyrmont (24. Sitzung) (2011-06-23)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/14547
