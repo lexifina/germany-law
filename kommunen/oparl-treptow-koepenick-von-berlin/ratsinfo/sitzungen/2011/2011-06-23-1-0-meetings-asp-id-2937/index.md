@@ -1,0 +1,81 @@
+# 52. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-06-23T16:30:00+02:00
+- Ende: 2011-06-23T22:00:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2937
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2937
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=99314
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-54 - erledigt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Kampf der Verwahrlosung hier: Grundstück Werderstraße/Ecke Grünauer Straße (Altglienicke) - mit Änderungen in der BVV beschlossen
+- TOP 9.2: Radverkehrsführung in der Puschkinallee während der Sperrung - im Ältestenrat zurückgezogen
+- TOP 9.3: Zukunft des Kreiswehrersatzamtes Berlin sichern - in der BVV zurückgezogen
+- TOP 9.4: Willenserklärung der Bezirksverordneten gegen Überflug - erledigt
+- TOP 9.5: Rechtsmittel gegen Überflug - erledigt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - im Ausschuss abgelehnt
+- TOP 11.1: - Entwurf des Bebauungsplans XV-38 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplans XV-38 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: Zustimmung zur Ausbauvariante für den Ausbau der Straße "Zum Dahmeufer" zwischen Bockmühlenweg und Zugang zum Dahmeufer - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Sondermittel für Tennisclub Blau-Gold Wuhlheide e. V. (SM 1122) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: Sondermittel für Treptower Rudergemeinschaft e. V. (SM 1123) - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Sondermittel für Tennisfreunde „Circolo Tennis Albinea-Treptower Teufel TC“ e. V. (SM 1128) - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Sondermittel für Förderverein des Treptow-Kollegs e. V. (SM 1131) - ohne Änderungen in der BVV beschlossen
+- TOP 11.7: Sondermittel für Förderverein Freiwillige Feuerwehr Rauchfangswerder e. V. (SM 1132) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für FiPP e. V. (Abenteuerspielplatz Waslala) SM (1133) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Sondermittel für Wirtschaftsverband Altglienicker Unternehmer und Umgebung e. V. (SM 1134) - ohne Änderungen in der BVV beschlossen
+- TOP 11.10: Sondermittel für Partner Treptow-Köpenick e. V. (SM 1136) - ohne Änderungen in der BVV beschlossen
+- TOP 11.11: Sondermittel für Werkstatt für Bildung und Begegnung in Berlin e. V. - Projekt Remili (SM 1137) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittel für Bund der Antifaschisten Köpenick e. V. (SM 1140) - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) Villa Vif an die Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg gGmbH) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.14: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) "Fairness" an den Träger Fortbildungsinstitut für die Pädagogische Praxis e. V. (FiPP e. V.) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.15: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) "Rumbar" an die gemeinnützige Gesellschaft für Familienaktivierung (GEFA gGmbH) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.16: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) "Mansarde" an den Träger Fortbildungsinstitut für die Pädagogische Praxis e. V. (FiPP e. V.) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.17: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) "Walter Kroh" an den Träger Christliches Jugenddorf e. V. (CJD e. V.) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.18: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) JuJo an die Technische Jugendfreizeit- und Bildungsgesellschaft (tjfbg gGmbH) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.19: Übertragung der kommunalen Jugendfreizeiteinrichtung (JFE) "Gerard Philipe" an den Träger Humanistischer Verband Deutschland e. V. (HvD e. V.) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Hundekotbeseitigung im Bezirk - in der BVV zurückgezogen
+- TOP 12.2: Straßenausbaubeitragsgesetz schnellst möglich abschaffen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Alt-Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Musikalische Bildung ausweiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Radverkehrssicherheit Kiefholzstraße/Dammweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Treptow-Köpenick im Web 2.0 - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Bebauungsplan XVI-6 B ("Müggelheimer Damm") hier: - Änderung des Geltungsbereichs, Weiterführung nach § 13 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-56 ("Kiez Anne-Frank-Straße") hier: - Einleitung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplanes 2012/2013 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Umbenennung des zwischen Boviststraße und dem Verbindungsweg an der Autobahn 117 gelegenen Straßenabschnitts der Schirmpilzstraße im Ortsteil Bohnsdorf in "Boviststraße" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Zugang zum Ratskeller aus Investitionsmitteln für barrierefreie Maßnahmen realisieren - überwiesen
+- TOP 14.2: Sicherung von Kunstwerken am Bau und im öffentlichen Raum - überwiesen
+- TOP 14.3: Tempo 30 in der Karl-Kunger-Straße - überwiesen
+- TOP 14.4: Radwegekonzept veröffentlichen - überwiesen
+- TOP 14.5: Eine Zukunft für den Müggelturm ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Informationen zu Flugrouten - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Liegeplatzkonzept für Hausboote - überwiesen
+- TOP 14.8: Umzug PRAXIS-NAH e. V. in die Wendenschloßstraße 350-352 - in der BVV zurückgezogen
+- TOP 14.9: Abfallbehälter am Landschaftspark Johannisthal nachrüsten - in der BVV zurückgezogen
+- TOP 14.10: Antrag auf Entscheidung der Bezirksaufsicht hinsichtlich der Beanstandung des BVV-Beschlusses 1100/51/11 "Aufhebung des Bezirksamtsbeschlusses 339/2009 über die Neuregelung von Raumüberlassung an Dritte" - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Tempo 30 in ganz Rauchfangswerder - überwiesen
+- TOP 14.12: Lärmschutzmaßnahmen überprüfen und schnell vollziehen - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Ampelschaltung Müggelheimer Straße / Amtsstraße verbessern - überwiesen
+- TOP 14.14: Erhalt der Blockinnenbereiche in Friedrichshagen - überwiesen
+- TOP 14.15: Abrechnung Zielvereinbarungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.16: Fortsetzung des Projekts "Traditionelles Handwerk" ermöglichen - im Ältestenrat zurückgezogen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wahl der Seniorenvertretung im Herbst 2011 - vertagt
