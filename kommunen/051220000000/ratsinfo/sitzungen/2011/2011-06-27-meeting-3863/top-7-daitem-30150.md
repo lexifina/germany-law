@@ -1,0 +1,7 @@
+# TOP 7: Förderanträge
+
+- Sitzung: Zuwanderer- und Integrationsrat (2011-06-27)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/30150
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/20925
