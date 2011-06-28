@@ -1,0 +1,99 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-06-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2093961
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2093961
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 12.08.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Südliches Bahnhofsviertel e.V. Jazzorchester am 17.07.2011
+- TOP .3.: (E) Budget der Bezirksausschüsse Schüler-Frei-Raum e.V. Fußballturnier am 21.07.2011
+- TOP .1.: Anträge des BA 1 bzgl. Zweckentfremdung von Wohnraum
+- TOP .1.: Vorkaufsrecht nach dem BauGB: - Adlzeiterstraße - Corneliusstraße
+- TOP .2.: Prüfauftrag: Neubau einer Realschule am Südbahnhof
+- TOP .3.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .4.: BA-Budget: Bewilligungsbescheide (3)
+- TOP .5.: Genossenschaftsidee fördern I; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .6.: Perspektive München - Fortschreibung 2011; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .7.: Bezahlbaren Wohnraum erhalten - Förderung von Genossenschaften; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .8.: Regionsbericht 2010; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .1.: Bürgeranliegen: Luxussanierungen
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Schillerstr. 41: Nutzungsänderung
+- TOP .2.: Schwanthalerstr. 3: Nutzungsänderung
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Zweibrückenstr. 12
+- TOP .2.: Bavariaring 4, 4a
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Werbenutzungsvertrag (Ergänzung)
+- TOP .2.: Bayerstr.: Werbeanlagen
+- TOP .1.: Baumaßnahmen SWM: - Stromprojekt Mozartstraße - Fernwärmeprojekt Mozartstraße - Fernwärmeprojekt Ickstattstraße
+- TOP .2.: Erweiterungsvorhaben Mobilfunkstandorte
+- TOP .3.: Westermühlstr. 19: Baugenehmigung
+- TOP .4.: Überprüfung Bedarfsplan für Bundesschienenwege; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .5.: Gesetz zur Erleichterung von Planungsvorhaben für Innenstadtentwicklung; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .6.: Hauptbahnhof München - Konzeptalternative DB AG; Bekanntgabe Vollversammlung Stadtrat 18.05.2011
+- TOP .7.: Baubeginnsanzeige Mobilfunksendeanlage
+- TOP .8.: Müllerstr. 3-7: Antwortschreiben der LBK bzgl. Nachfragen des BA zur Baugenehmigung
+- TOP .9.: Hermann-Lingg-Straße: Baubeginnsanzeige
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Sendlinger-Tor-Platz 7: Genehmigung einer Freischankfläche
+- TOP .2.: Pestalozzistr. 28: Erweiterung einer Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Schützenstr. 1: mobiler Fahrradständer
+- TOP .2.: Schwanthalerstr. 17: mobiler Fahrradständer
+- TOP .3.: Isartalstr. 20: mobiler Fahrradständer PLENUMSBESCHLUSS
+- TOP .4.: Kapuzinerstr. 8: mobiler Fahrradständer PLENUMSBESCHLUSS
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Straßenfest in der Goethestraße am 17.07.2011
+- TOP .2.: Gemeindefest der Katholischen Pfarrei St. Paul am 03.07.2011 (EilE)
+- TOP .3.: Sommerfest Rewe Family am 02.07.2011 auf der Theresienwiese (EilE)
+- TOP .4.: Sommerfest Zoozies am 05.08.2011 (EilE)
+- TOP .5.: Abschlussfest Isarrenaturierung am 06.08.2011
+- TOP .6.: Hans-Sachs-Straßenfest am 20.08.2011
+- TOP .7.: 1. Italienische Nacht in der Stephansstraße am 06.08.11 PLENUMSBESCHLUSS
+- TOP .8.: Straßenfest Zenettistraße des Vereins "Zeit, Schlacht und Raum" am 23.07.2011 PLENUMSBESCHLUSS
+- TOP .9.: Gemeindewochenende St. Matthäus im Nußbaumpark am 23. und 24.07.11 PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1.: Zukunftskonzepte der Lebensmittelmärkte Münchens
+- TOP .1.: Versammlungen unter freiem Himmel (3)
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund (6)
+- TOP .3.: Unveränderte Gaststättenfortführungen: -Ehrengutstr. 27: Ricasso - Thalkirchner Str. 23: Pigalle - Klenzestr. 89: Couch Club - Lindwurmstr. 57: Pure Burrito - Kapuzinerstr. 25b: Lua Moi
+- TOP .4.: Verkehrsrechtliche Anordnungen: - Einrichtung allg. Behindertenparkplatz Corneliusstr. 24 - Parkraummanagement Dreimühlenviertel - Parkraummanagement Innenstadtklinik / St.-Pauls-Viertel
+- TOP .5.: Erlaubnisbescheide (2)
+- TOP .6.: Stellungnahme des AAN zum Leistungsprogramm 2012 der MVG
+- TOP .7.: Informationen über Fahrtreppenerneuerung im U-Bahnhof Fraunhoferstraße
+- TOP .8.: Bürgeranliegen: Beschwerde über Flohmarkt auf der Theresienwiese (Antwort TAM)
+- TOP .9.: Absage Glockenbach-Sommermarkt
+- TOP .10.: Bürgeranliegen: Loch im Gehstreig Bereich Pocci-/Grimmstraße (Antwort Baureferat)
+- TOP .11.: Generalplan für Fahrradabstellplätze; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .12.: München setzt auf's Rad 3 - Fahrrad-Service-Stationen für München; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .13.: München setzt auf's Rad 1 - Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs; Beschluss Ausschuss Stadtplanung und Bauordnung 25.05.2011
+- TOP .14.: Bürgeranliegen: Lärmbelästigung durch Gaststätten in der Holzstraße
+- TOP .15.: Tempo 30/40 in Hauptverkehrsstraaßen/Erschließungsstraßen; Tempo 30 km/h in der Isartalstraße - BV-Empfehlung Nr. 08-14 / E00764 vom 11.11.2010; Beschluss Kreisverwaltungsausschuss 07.06.2011
+- TOP .16.: Dialog-Display in München - mobile Geschwindigkeitsanzeiger; Beschluss Kreisverwaltungsausschuss 07.06.2011
+- TOP .17.: Satzung der LHM über Herstellung und Bereishaltung von Abstellplätzen für Fahrräder; Beschluss Ausschuss Stadtplanung unf Bauordnung 01.06.2011
+- TOP .1.: Bürgeranliegen: Verkehrsprobleme durch Radfahrer
+- TOP .2.: Kino Open Air und Nachtbiergarten im Viehhof
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Kassenbericht
+- TOP .2.: Sitzungstermine 2012
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
