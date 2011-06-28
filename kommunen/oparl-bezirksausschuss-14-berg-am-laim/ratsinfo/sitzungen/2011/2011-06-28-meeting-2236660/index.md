@@ -1,0 +1,85 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-06-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236660
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236660
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Maikäfersiedlung: erneute Befassung des Stadtrats und Berücksichtigung der Bürgeranliegen
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Zukunft des Standorts der Bundesmonopolverwaltung für Branntwein (BfB)
+- TOP 3.1.1.2.: Stadtteilplan Ramersdorf / Berg am Laim der Gewofag
+- TOP 3.1.1.3.: Ampfingstraße 57, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 3.1.2.1.: Parkraummanagement in München ? Fortschreibung Umsetzungskonzept
+- TOP 3.1.2.2.: Ausfahrt Hachinger-Bach-Straße in die St.-Michael-Straße - <div></div>
+- TOP 3.1.2.3.: Verkehrsregelungen im Bereich Baumkirchner Straße / Josephsburgstraße
+- TOP 3.1.2.4.: Baumkirchner Straße - Wochenmarktplatz - Antrag auf absolutes Haltverbot
+- TOP 3.1.2.5.: Triathlonveranstaltung am 24.07.2011
+- TOP 3.2.1.: Sommerfest der Kindertagesstätte Ali Baba e.V. am 09.07.2011 im Behrpark
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.5.1.: (E) Budget der Bezirksausschüsse Mag's & More e.V. Sommerfest am 16.07.2011 - <div></div>
+- TOP 3.5.2.: (E) Budget der Bezirksausschüsse ESV München-Ost e.V Sport- und Spielfest am 02.07.2011 - <div></div>
+- TOP 3.5.3.: (E) Budget der Bezirksausschüsse Verein zur Förderung des Michaeli-Gymnasiums München e.V. 40-Jahre-Feier am 15.07.2011 - <div></div>
+- TOP 3.6.1.: Levelingstr. 6
+- TOP 3.6.2.: Josephsburgstr. 150
+- TOP 3.6.3.: Annabrunner Str. 12
+- TOP 3.6.4.: Mutschellestr. 2
+- TOP 3.6.5.: Ruhpoldinger Str. 16
+- TOP 3.6.6.: Hachinger-Bach-Str. 20 b
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.4.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" - Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB
+- TOP 4.1.1.5.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.2.2.: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 4.1.2.3.: Fahrradabstellkonzept; Widerruf erteilter Ausnahmegenehmigungen zur Aufstellung mobiler Fahrradständer aufgrund des 1. Realisierungsabschnittes; Neu-Erteilung von Ausnahmegenehmigungen mobiler Fahrradständer im Zusammenhang mit dem städtischen Fahrradabstellkonzept; Beschluss des BA 14 vom 29.09.2009
+- TOP 4.1.2.4.: "Dialog-Display" in München
+- TOP 4.1.2.5.: Tempo 30 / 40 in Hauptverkehrs- und Erschließungsstraßen
+- TOP 4.1.2.6.: Parkmöglichkeiten in der Waldstraße
+- TOP 4.1.3.1.: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.4.1.: Dienststellenverständigung städtischer Kindergarten Seebrucker Straße 25
+- TOP 4.5.1.: Ludwig-Thoma-Realschule ? Verwendungsnachweis / Dankesschreiben
+- TOP 4.5.2.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung
+- TOP 4.5.3.: Schaffung von Ersatzwohnraum im gleichen Stadtviertel
+- TOP 4.6.1.: Maria-Eck-Platz 2
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.2.1.: Informationsveranstaltung zum Thema Bebauungsplan mit Grünordnung Nr. 1980 - Hansjakobstraße (nördlich), Roßsteinstraße (östlich), Hohenburgstraße (südlich) - (Teiländerung Beb.Pl. 26) ---------------------- Donnerstag, 30. Juni 2011, 18.00 Uhr Großer Pfarrsaal St. Michael Baumkirchner Str. 26, 81673 München ---------------------- Es werden Vertretungen des Referates für Stadtplanung und Bauordnung, des Referates für Gesundheit und Umwelt sowie des Bauträgers anwesend sein. ---------------------- Ablauf: 1. Erläuterung des Bebauungsplans mit Grünordnung durch Vertretungen der Stadtverwaltung 2. Fragen der anwesenden Bewohnerinnen und Bewohner
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 2: "Maikäfersiedlung": erneute Befassung des Stadtrats und Berücksichtigung der Bürgeranliegen Empfehlung Nr. 08-14 / E 00902 der Bürgerversammlung des Stadtbezirkes 14 - Berg am Laim - am 31.03.2011 - <div></div>
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
