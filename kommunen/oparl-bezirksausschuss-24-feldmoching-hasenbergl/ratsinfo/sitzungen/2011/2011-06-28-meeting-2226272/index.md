@@ -1,0 +1,70 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-06-28T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226272
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226272
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gem. OB-Vollmacht: Abhalten eines Flohmarktes auf dem Walter-Sedlmayr-Platz am 26.08.2011
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Böllerschützen-Kompanie Feldmoching e.V. "Veranstaltung 1200jähriges Bestehen der Gemeinde Feldmoching am 16.07.2011" (-&gt; Vertagung aus Sitzung 31.05.2011)
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: FC Fasanerie Nord e.V. "Torsicherungen für Jugendtore" (-&gt; Vertagung aus Sitzungen 03.05.2011 und 31.05.2011)
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: PA/ Spielen in der Stadt e.V. "Spielaktionen im August und September 2011" (-&gt; Vertagung aus Sitzung 31.05.2011)
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: Verein des Freundeskreises GS Lerchenauer Str. in Feldmoching Förderverein e.V. "Herstellung von 7 Tierköpfen" (-&gt; Vertagung aus Sitzung 31.05.2011)
+- TOP 2.6.: Gewährung eines Zuschusses aus dem BA-Budget: Evang.-Luth. Kapernaumkirche "Ökumenisches Sommerfest/ Stadtteilfest für Siedlung Lerchenauer See am 16.07.2011" (-&gt; Vertagung aus Sitzung 31.05.2011)
+- TOP 2.7.: Gewährung eines Zuschusses aus dem BA-Budget: Evangelisches Hilfswerk München gemeinnützige GmbH "Sommerfest der Teestube "komm"-Streetwork am 12.08.2011" (-&gt; Vertagung aus Sitzung 31.05.2011)
+- TOP 2.8.: (E) Budget der Bezirksausschüsse Kath. Jugendsozialwerk München e.V., Freizeitstätte "KistE" Graffiti-Aktion am 16.09.2011
+- TOP 2.9.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Feldmochinger Rosstag am 09.10.2011
+- TOP 2.10.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, Freizeittreff Lerchenauer Mobile Spielaktion im August 2011
+- TOP 2.11.: (E) Budget der Bezirksausschüsse Fasanerie aktiv e.V. Straßenfest am 30.07.2011
+- TOP 12: (E) Herstellung eines kombinierten Geh-und Radweges entlang der Grashofstraße, von der Karlsfelder Straße bis zur Heppstraße Empfehlung Nr. 08-14 / E 00887 der Bürgerversammlung des Stadtbezirkes 24 Feldmoching ? Hasenbergl am 17.03.2011
+- TOP 13: (E) Ausbau bzw. Sanierung der Schwarzhölzlstraße
+- TOP 3.1.: Antrag beim BA 24 als Mitveranstalter für eine Filmveranstaltung am Walter-Sedlmayr-Platz im Rahmen der 1200-Jahrfeier Feldmoching aufzutreten und damit die Veranstaltung organisatorisch zu unterstützen
+- TOP 3.2.: Antrag aus der 8. Kinder- und Jugendsprechstunde am 08.04.2011 hier: Bushäuschen für Kinder Haltestelle Rothwiesenstraße, Siedlung Ludwigsfeld
+- TOP 3.3.: Anbringung eines Spiegels an der Einmündung Würmhölzlstraße in die Heppstraße
+- TOP 3.4.: Verlegung des Güterverkehrs von der Trasse der S1 auf die Trasse des Güterverkehrs
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben (Werbeanlagen): Lerchenauer Straße: "1 "City-Light-Poster" als Wandanlage
+- TOP 5.2.: Vollzug der Baumschutzverordnung (Baumfällung): Adlerfarnstraße
+- TOP 5.3.: Vollzug der abfall- und der immissionsschutzrechtlichen Bestimmungen; Antrag auf Genehmigung auf Errichtung und Betrieb eines Abfall-/Schrott Lager- und Umschlageplatzes am Standort Lerchenauerstr. 19; Stellungnahme des RGU vom 16.06.2011
+- TOP 5.4.: KVR: Versetzung der Lichtzeichenanlage Lerchenauer-/Schittgablerstraße (an den Anschluß der neuen Straße U-1627) (-&gt; Vertagung aus Sitzung 31.05.2011)
+- TOP 5.5.: Entwurf: Änderung des Flächennutzungsplans mit integrierter Landschaftsplanung... Am Schnepfenweg (beidseitig), Pappelallee (westlich), Pfarrer-Himmler-Straße (westlich), Am Blütenanger (nördlich)
+- TOP 5.6.: Errichtung eines Alten- und Service-Zentrums (ASZ) im 24. Stadtbezirk (Empfehlung aus der BV am 17.03.2011; Sitzungsvorlage des Sozialreferates).
+- TOP 5.7.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept (Anhörung der betroffenen/ tangierten BA' s zum Entwurf einer Beschlussvorlage des Planungsreferates)
+- TOP 5.8.: BA-Budget: Keine Frist für Budgetanträge bis 1.000,- Euro (Antrag BA 5; Stellungnahme der anderen BA's für Bezirksausschusssatzungskommission)
+- TOP 5.9.: Stadtjugendamt/ Förderung freier Träger; Haushaltsjahr 2012; Antrag des Projektes "Interessengemeinschaft Ludwigsfeld"
+- TOP 5.10.: Veranstaltung auf öffentlichem Verkehrsgrund: Fahrradausflug "Tour de Franz" am 31.07.2011
+- TOP 5.11.: Veranstaltung auf städt. Grünanlage: Marienprozession rund um die östl. angrenzende Grünanlage der Vietnahmesisch-Sprach. katholischen Mission am 31.07.2011 (wie Vorjahr)
+- TOP 5.12.: Veranstaltung auf Privatgrund: Pfarrfest im Pfarramt St. Nikolaus; Stanigplatz 12 am 31.07.2011 (wie Vorjahr)
+- TOP 5.13.: unveränderte Fortführung eines Gaststättenbetriebes: Lassallestr. 100
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Instandsetzung Radverkehrsverbindung Ludwigsfeld-Karlsfeld (-&gt; Bürgerantrag ohne TOP)
+- TOP 6.2.: Radfahrweg von Feldmoching entlang der S1 zum Olympia-Einkaufszentrum und Anschluss zum Freizeitgelände Rangierbahnhof (BA-Antrag Nr. 08-14/B 02868 aus Sitzung 29.03.2011)
+- TOP 6.3.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.4.: Meldelisten Baumfällungsanträge
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: Verkehrsrechtliche Anordnungen: Radverkehr- Änderung der Radverkehrsführung in der Freud- und Gundermannstraße
+- TOP 6.7.: Erlaubnisbescheide KVR: - Kinderfest des KJR auf dem Walter-Sedlmayr-Platz am 28.05.2011; - Spielefest des KJR in der Lassallestraße am 02.07.2011
+- TOP 6.8.: Beschlussvorlage Kreisverwaltungsreferat: "Dialog-Display" in München: München setzt auf den Einsatz mobiler Geschwindigkeitsanzeiger u.a.
+- TOP 6.9.: Beschlussvorlage Kreisverwaltungsreferat: Tempo 30/ 40 in Hauptverkehrsstraßen/ Erschließungsstraßen u.a.
+- TOP 6.10.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Dezentrales Güterverkehrskonzept (GVZ-Konzept) - Überprüfung und weitere Planung
+- TOP 6.11.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Dezentrales Güterverkehrskonzept (GVZ-Konzept) - Überprüfung und weitere Planung Hinweis/Ergänzung vom 25.05.2011
+- TOP 6.12.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"; Hinweis/ Ergänzung vom 26.05.2011
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Verkehrskonzept Münchner Norden; Hinweis/ Ergänzung vom 30.05.2011
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Regionale Klimaprognossen bei langfristiger Siedlungsentwicklung berücksichtigen; Hinweis/ Ergänzung vom 23.05.2011
+- TOP 6.16.: Beschlussvorlage Referat für Bildung und Sport: Städt. Freisportanlage an der Lerchenauer Str. 270; Modernisierung der Freisportflächen
+- TOP 6.17.: Münchner Statistik (4. Quartalsheft, Jahrgang 2010)
+- TOP 6.18.: Jahresbericht 2010 der GWG München
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
