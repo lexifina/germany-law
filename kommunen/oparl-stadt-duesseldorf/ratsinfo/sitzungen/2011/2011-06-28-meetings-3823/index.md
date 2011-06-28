@@ -1,0 +1,56 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-06-28T16:00:00+02:00
+- Ende: 2011-06-28T18:10:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3823
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3823
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161590.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161590.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161590.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und EinwohnerInnen - einstimmig beschlossen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5: S-6 - zur Kenntnis genommen
+- TOP 6: Bauunterhalt 2011 - einstimmig beschlossen
+- TOP 7: Haupteinkaufszentrum Garath - zur Kenntnis genommen
+- TOP 8: Anfragen - zur Kenntnis genommen
+- TOP 9: Arbeitskreis Stadtteilmarketing - zur Kenntnis genommen
+- TOP 10: Information und Werbung für BIldungspaket - schriftlich beantwortet
+- TOP 11: Lernorte Bezirk 10 - zur Kenntnis genommen
+- TOP 12: Wegfall Zivildienst - zur Kenntnis genommen
+- TOP 13: Reiterhof Hellerhof - zur Kenntnis genommen
+- TOP 14: Broschüre Hellerhof - zur Kenntnis genommen
+- TOP 15: Jugendrat - zur Kenntnis genommen
+- TOP 16: Schulmensen - zur Kenntnis genommen
+- TOP 17: "Düsseldorf für Kinder" - schriftlich beantwortet
+- TOP 18: "Düsseldorf für Kinder" - schriftlich beantwortet
+- TOP 19: Mittagstisch für Senioren und Seniorinnen in Hellerhof - schriftlich beantwortet
+- TOP 20: Stadtteilmarketing - zur Kenntnis genommen
+- TOP 21: Spielplatz Otto-Braun-Straße - zur Kenntnis genommen
+- TOP 22: Garather SV - schriftlich beantwortet
+- TOP 23: Anträge - zur Kenntnis genommen
+- TOP 24: Hundetoiletten - mehrheitlich abgelehnt
+- TOP 25: Graffiti - mehrheitlich beschlossen
+- TOP 26: Kennzeichnung von Radwegen - einstimmig beschlossen
+- TOP 27: Öffnungszeiten in Jugendtreffs - einstimmig beschlossen
+- TOP 28: Fahrradständer - einstimmig beschlossen
+- TOP 29: Fragestunde für EinwohnerInnen - mehrheitlich abgelehnt
+- TOP 30: Piktogramme - einstimmig beschlossen
+- TOP 31: Akustische Signal-Ampeln - einstimmig beschlossen
+- TOP 32: "Düsseldorf für Kinder" - einstimmig beschlossen
+- TOP 33: Winterdienst - einstimmig beschlossen
+- TOP 34: Lärmschutzwand B8 - einstimmig beschlossen
+- TOP 35: Zuschussantrag - vertagt
+- TOP 36: Resolution gegen Ausschreitungen bei Sportveranstaltungen - mehrheitlich abgelehnt
+- TOP 37: Informationsvorlagen - zur Kenntnis genommen
+- TOP 38: Schlosskonzerte - zur Kenntnis genommen
+- TOP 39: Verschiedene Stellungnahmen - schriftlich beantwortet
