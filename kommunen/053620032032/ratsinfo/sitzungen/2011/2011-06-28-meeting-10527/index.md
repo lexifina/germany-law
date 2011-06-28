@@ -1,0 +1,57 @@
+# Ausschuss für Stadtplanung und Verkehr (11. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-06-28T17:00:00+02:00
+- Ende: 2011-06-28T20:30:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZSL3U0iFXXAaHCT8t_REaDk
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10527
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVTeFdjsDyGdE249qUMJ2HEb5LfMIsTdi-AgNb7o2cOv/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_28.06.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 10. Sitzung vom 03. Mai 2011
+- TOP 1a: Umbesetzung des Arbeitskreises ÖPNV hier: Antrag des Seniorenbeirates
+- TOP 2.: Umsiedlung Manheim
+- TOP 2.1: Niederschrift der 50. Sitzung des Bürgerbeirates Manheim
+- TOP 2.2: Änderung der Wahlordnung zur Bildung des Bürgerbeirates Manheim vom 06.09.2006 hier: Verlängerung der Wahlzeit des Bürgerbeirates
+- TOP 2.3: Rahmenbetriebsplan Tagebau Hambach - Vortrag RWE Power zum Status Verfahren + Artenschutzkonzept
+- TOP 2.4: Bericht der Verwaltung
+- TOP 3.: Stadtentwicklung
+- TOP 3.1: 21. Änderung des Regionalplanes Köln - Zweckgebundener Gewerbe - und Industrieansiedlungsbereich: terra nova, Stadt Bergheim - Stellungnahme der Stadt Kerpen
+- TOP 3.2: Änderung des Regionalplanes zur Erweiterung des Gewerbegebietes Türnich III - Tauschflächen zur Kompensation der Flächenerweiterung
+- TOP 3.3: Radverkehrskonzept Kerpen
+- TOP 3.4: Änderung des Abschlussbetriebsplanes für den Quarzkiestagebau Werk II Richard Winter im Stadtteil Kerpen Horrem
+- TOP 3.5: Umgestaltung des Hallenbadgeländes
+- TOP 3.6: Konzept für die Erstellung von Wald- bzw. Parkflächen an der Ortslage Buir
+- TOP 4.: Bauleitplanung
+- TOP 4.1: Bebauungsplan KE Nr. 340 "Bachstraße" im Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB - (kein Text vorhanden)
+- TOP 4.2: Bebauungsplan KE Nr. 340 „Bachstraße“; hier: Abschluss eines Erschließungsvertrages
+- TOP 4.3: Aufhebung des Bebauungsplanes KE Nr. 4 im Stadtteil Kerpen und seiner rechtskräftigen Änderungen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 4.4: 67. Änderung des Flächennutzungsplanes " Stiftsstraße", Stadtteil Kerpen hier: Aufstellungsbeschluss
+- TOP 4.5: Bebauungsplan KE 344 " Stiftsstraße ", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 4.6: Bebauungsplan KE Nr. 344 "Stiftsstraße" im Stadtteil Kerpen; hier: Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Übernahme von Planungskosten
+- TOP 4.7: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K55/B477", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 4.8: Bebauungsplan BL 341 "Verkehrsspange K 55/B477n", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB - (kein Text vorhanden)
+- TOP 4.9: Bebauungsplan BL 330 "Kunibertusstraße/Giffelsberger Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.: Verkehrsplanung
+- TOP 5.1: Niederschrift der gemeinsamen Sitzung des Arbeitskreises für Verkehrsplanung und Verkehrssicherheit und des Arbeitskreises Tagebau Buir vom 31.05.2011
+- TOP 5.2: Konzept zur Verkehrsführung nach Manheim-neu während der Bauzeit
+- TOP 5.3: Anregung und Beschwerde gem. § 24 GO NRW hier: Verkehrskonzept zur Sperrung der Ortsdurchfahrt Buir an der L 276
+- TOP 5.4: Gutachten zum ÖPNV und der REVG im Rhein-Erft-Kreis
+- TOP 6.: Mitteilungen
+- TOP 6.1: Hinweisbeschilderung im Erft Karree zum Stadtzentrum Kerpen
+- TOP 7.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 7.1: Notausfahrt von der A4 bei Geilrath - Baumaßnahmen Sindorfer Südkreisel
+- TOP 7.2: Sachstandsbericht zum Bau der Kindertagesstätte Vogelrutherfeld in Sindorf
+- TOP 7.3: Fällen von geschützten Bäumen an der K55 hier: Prüfungsergebnis
+- TOP 7.4: Leistungen des VBGH für die Mitgliedskommune Kerpen
+- TOP 7.5: Radweg "Tälerroute Neffelbach"
+- TOP 8.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
