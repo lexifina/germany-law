@@ -1,0 +1,8 @@
+# TOP 5: Beratung des Entwurfs des 2. Nachtrags für das Haushaltsjahr 2011
+
+- Sitzung: Ausschuss für Finanzen und Beteiligungen (2011-06-28)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/116099
+- Ergebnis: Mit Stimmenmehrheit beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/12896
