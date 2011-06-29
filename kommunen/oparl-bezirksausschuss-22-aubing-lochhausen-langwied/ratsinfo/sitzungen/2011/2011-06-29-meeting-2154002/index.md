@@ -1,0 +1,114 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2011-06-29T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154002
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154002
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Bericht über den Stand Bauvorhaben - Betreutes Wohnen
+- TOP 1.1.6: Ergebnisvorstellung der Sozialraumanalyse Neuaubing/Westkreuz
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Untertunnelung Freihamer Allee
+- TOP 2.2.: Bushaltestelle S-Bahnhof Lochhausen / Bus 830
+- TOP 2.3.: Bernhard-Koehler-Weg 13, Eingeschränktes Benutzen des Weges wegen überwachsender Sträucher und Büsche
+- TOP 2.4.: Freihamer Allee
+- TOP 2.5.: Verkehrssituation in der Huislerstraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anfrage: - Mainaustr. 37 - Solnhofener Str. 3 - Sigererstr. 15 - Rohrdommelweg 2 - Wüstensteiner Str. 3 - Nonnenhornstr. 5 - Radolfzeller Str. 17-25
+- TOP 3.2.: Ablehnungsbescheid Baumfällung: - Riesenburgstr. 58, Schr. Planungsreferat vom 16.05.11 - Solnhofener Str. 3, Schr. Planungsreferat vom 24.05.11
+- TOP 3.3.: Genehmigungsbescheid Baumfällung Hohenrechbergstr. 5, Schr. Planungsreferat vom 23.05.11, Aschaffenburger Str. 23, Schr. Planungsreferat vom 08.06.11, Staufener Str. 13, Schr. Planungsreferat vom 09.06.11
+- TOP 3.4.: Baumfällungen mit Bauvorhaben - Am Langwieder Bach 13
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Elektronische Anzeigen an S-Bahnstationen
+- TOP 4.2.: Verkehrssicherungspflicht
+- TOP 4.3.: Durchführung des Pilotprojektes "Ausgleichsflächen" im Münchner Westen
+- TOP 4.4.: Verkehrskonzept für den 22. Stadtbezirk
+- TOP 4.5.: Straßenverbindung zwischen Colmdorfstraße und Freihamer Weg
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse Lochhausener Singkreis Ausstellung zum Jubiläum "30 Jahre Lochhausener Singkreis" ab 01.07.2011
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf städt. Grünanlage: Internationales Sommerfest, Wiesentfelser Str. (bei Hsnr. 57) am 09.07.11, Anhörung KVR vom 09.05.11
+- TOP 6.1.: "Angebote für Kinder und Jugendliche im KJR München-Stadt" und Geschäftsbericht 2010, Schr. Kreisjugendring München-Stadt vom 02.05.11
+- TOP 6.2.: Veranstaltungen / Kooperationen Juni 2011, Schr. Kulturreferat vom 31.05.11
+- TOP 6.3.: Jahresbericht 2010 Hilfe für Kids, Schr. Kreisjugendring vom 24.05.11
+- TOP 6.4.: Eröffnung Kinderkrippe
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Budget des BA 22, Initiative "Verschönerung S-Bahnhof Aubing", Versiegelung der gestalteten Flächen, Schr. Direktorium vom 03.06.11
+- TOP 6.2.: BA-Budget, Keine Frist für Budgetanträge bis 1.000 Euro, Anhörung Direktorium vom 08.06.11
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Anmietung eines stadteigenen Flurstückes (Bodensee-/ Anton-Böck-Str.) zur Veranstaltung eines Kunsthandwerkmarkts bzw. Antikmarktes, Anhörung Kommunalreferat vom 05.05.11, 18.05.11 und 19.05.11
+- TOP 6.1.: Mitteilung über ein Grundstücksgeschäft (Verkauf), Georg-Maurer-Str., Flst. 3511/4 (Tlfl.) Aubing, Schr. Kommunalreferat vom 19.05.11
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Erteilung einer Sondernutzungserlaubnis zum Betrieb einer Wertstoffsammelstelle: Schubinweg / Amelbrechtweg, Anhörung Abfallwirtschaftsbetrieb München vom 06.06.11
+- TOP 6.2.: Straßenbenennung im 22. Stadtbezirk neue Straße im Bereich Kronwinkler Straße / Bergsonstraße, Anhörung Kommunalreferat vom 19.05.11
+- TOP 6.3.: Staufener Str. 7, Neubau eines Einfamilienhauses mit Doppelgarage, Anhörung Planungsreferat vom 24.05.11
+- TOP 6.4.: Flunkgasse 1, Neubau einer Wohnanlage mit TG, Anhörung Planungsreferat vom 25.05.11
+- TOP 6.5.: Bebauungsplan mit Grünordnung Nr. , Bodenseestr. (südlich), Bahnlinie München - Herrsching (nördlich) (Bodenseestr. 105 bis 151), Anhörung Planungsreferat vom 23.05.11
+- TOP 6.6.: Limesstr. 1, Nutzungsänderung eines Büro-/ Wohnhauses in einen Kindergarten, Anhörung Planungsreferat vom 25.05.11
+- TOP 6.7.: Errichtung von Werbeanlagen, Bodenseestraße, Fl.Nr. 299/8, Gemarkung Pasing, 2 Plakattafeln, Anhörung Planungsreferat vom 25.05.11
+- TOP 6.8.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept, Anhörung Planungsreferat vom 31.05.11
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 02.05.-08.05.11, v. 09.05.-15.05.11, v. 16.05.-22.05.11, v. 23.05.-29.05.11, v. 30.05.-05.06.11, v. 06.06.-12.06.11), Schr. Planungsreferat vom 09.05.11, 16.05.11, 23.05.11, 30.05.11, 09.06.11, 14.06.11
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 09.05.11, 16.05.11, 23.05.11, 30.05.11, 06.06.11
+- TOP 6.3.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) zum Leistungsprogramm-Entwurf 2012 der MVG, Schr. AAN vom 22.05.11
+- TOP 6.4.: Baumaßnahmen der SWM, Fernwärmeprojekt Erschließung Westkreuz 3. BA, Radolfzeller Str. und Radolfzeller Str. 12-38, Schr. SWM vom 19.05.11
+- TOP 6.5.: Ausgleichsflächen Langwieder Haide, Schr. Planungsreferat vom 17.05.11
+- TOP 6.6.: Verkehrsrechtliche Anordnung, Eingeschränktes Haltverbot Neideckstr. 6, Schr. KVR vom 12.04.11
+- TOP 6.7.: Abstellen von Lkw-Anhängern der Firma Höffner in der Wiesentfelser Straße, Schr. KVR vom 22.09.11
+- TOP 6.8.: Verkehrsrechtliche Anordnung, Vorfahrtsregelung Kreuzkapellenstraße / Eschenriederstraße, Schr. KVR vom 27.01.11
+- TOP 6.9.: Bahnlärm an der Lichtenfelserstraße, Schr. Ref. f. Gesundheit u. Umwelt vom 10.05.11
+- TOP 6.10.: Gehwegabsenkung Leienfelsstraße in Bad-Stebener-Weg, Schr. Baureferat vom 11.05.11
+- TOP 6.11.: Zweckentfremdung von Wohnraum: - Schussenrieder Str., Schr. Sozialreferat vom 12.05.11 - Ranertstr., Schr. Sozialreferat vom 05.05.11
+- TOP 6.12.: Verkehrsrechtliche Anordnung, Badebuslinie der Münchner Linien GmbH und Co. KG, Lochhausen Bahnhof - Langwieder See (Kreuzkapellenweg), Schr. KVR vom 12.04.11
+- TOP 6.13.: Verkehrsüberwachung in der Limesstraße vor der Apotheke, Schr. KVR vom 06.05.11
+- TOP 6.14.: Verkehrsrechtliche Erlaubnis, Am Langwieder Bach 79, Bahnunterführung, Errichtung von Lärmschutzwänden, Schr. KVR vom 05.05.11
+- TOP 6.15.: Baumaßnahmen der SWM, Erdgasprojekt Limesstraße, Schr. SWM vom 23.05.11
+- TOP 6.16.: Hinweisschild Aubing, Schr. KVR vom 24.05.11
+- TOP 6.17.: Schallschutzwand an der Bahnlinie München-Augsburg, Schr. DB ProjektBau GmbH vom 16.05.11
+- TOP 6.18.: Ehemaliges Heizkraftwerk in der Rupert-Bodner-Str. 3, Schr. Planungsreferat vom 01.06.11 zum BA-Antrag Nr. 2463 vom 20.10.2010
+- TOP 6.19.: Stadteigenes Anwesen Limesstr. 1, Neue Nutzung als zweigruppiger Montessori-Kindergarten / Schaukasten des BA 22 am Gartenzaun, Schr. Kommunalreferat vom 30.05.11
+- TOP 6.20.: Kneippanlage am Lohwiesengraben, Schr. Baureferat vom 01.06.11
+- TOP 6.21.: Verbesserung der Fahrradabstellmöglichkeiten am Bahnhof Neuaubing, Schr. Baureferat vom 06.06.11 zum BA-Antrag Nr. 2052 vom 21.04.10
+- TOP 6.22.: CarSharing in München - Mögliche Abstellflächen im 22. Stadtbezirk, Schr. KVR vom 09.06.11
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Errichtung von Fußballtoren am Bolzplatz auf der alten Wasserturmwiese, Anhörung Baureferat vom 24.05.11
+- TOP 7.2.: Planfeststellung nach § 18 AEG für das Vorhaben 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 2, Bereich Westseite Karlsplatz bis westliches Isarufer mit S-Bahnhof Marienhof - Planänderung -, Anhörung Planungsreferat vom 14.06.11
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung der Schank- und Speisewirtschaft, Trattoria Piccola Botte (vorm. Da Adriano), Henschelstr. 3, Schr. KVR vom 09.05.11
+- TOP 8.2.: Gewerbegebiet Aubing (Bergsonstraße, Kronwinklerstraße, Kastelburgstraße), Vergabe von Gewerbegrundstücken, Schr. Ref. f. Arbeit u. Wirtschaft vom 25.05.11
+- TOP 8.3.: Zweckentfremdung von Wohnraum, Limesstr., Schr. Sozialreferat vom 30.05.11
+- TOP 8.4.: Wirtschafts-Info 05/11, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.05.11
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: S-Bahnhof Westkreuz - Gefahr durch Umbau, Schr. DB Stadtion & Service AG vom 04.05.11
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: - Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften - Genossenschaftsidee fördern I Genossenschaftlichen Wohnungsbau weiter stärken - Regionsbericht 2010 - Perspektive München - Fortschreibung 2011, Leitmotiv, strategische Leitlinien - Generalplan für Fahrradabstellplätze - München setzt auf's Rad 1, Mehr Öffentlichkeitsarbeit für die Förderung des Radverkehrs - Regionale Klimaprognose bei langfristiger Siedlungsentwicklung berücksichtigen - Überprüfung des Bedarfsplans für die Bundesschienenwege - Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007"
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11: - Dezentrales Güterverkehrszentrenkonzept (GVZ-Konzept), Überprüfung und weitere Planung - Satzung der LH München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung)
+- TOP 10.3.: Beschluss der Vollversammlung vom 18.05.11: - Erhalt des Bahnübergangs Freihamer Allee - Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011-2015
+- TOP 10.4.: Beschluss des Kreisverwaltungsausschusses vom 07.06.11: - "Dialog-Display" in München - Tempo 30/40 in Hauptverkehrsstraßen/Erschließungsstraßen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Ablauf von Bürgerversammlungen, Antrag BA 21 vom 05.03.11
+- TOP 11.2.: Schaffung von Ersatzwohnraum im gleichen Stadtviertel; Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung, Anträge des BA 1
+- TOP 11.3.: Bürgerversammlung des 22. Stadtbezirkes am 28.06.11 um 19.00 Uhr in der Turnhalle der Grundschule Wiesentfelser Str. 53
+- TOP 11.4.: Eröffnung der Kneippanlage am Lohwiesengraben am 29.06.11 um 18.00 Uhr (vor der BA-Sitzung)
+- TOP 11.5.: S 4 West: Alternativkonzept "Gröbenzeller Spange"
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 20.07.2011 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
