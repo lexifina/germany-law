@@ -1,0 +1,99 @@
+# 43. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-06-29T17:30:00+02:00
+- Ende: 2011-06-29T21:55:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2974
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=2974
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=45363
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: „Trägerbezogene Budgets“ in der Eingliederungshilfe für Menschen mit seelischer Behinderung in Berlin beibehalten - vertagt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Nachwahl eines Bürgerdeputierten - gewählt
+- TOP 1.9: Nachweis der im Haushaltsjahr 2010 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.10: Verlängerung der Veränderungssperre 3-5/8 im Bezirk Pankow, Ortsteil Heinersdorf, für das Grundstück Prenzlauer Promenade 45, 46 - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Berichterstattung der gemeinsamen Einrichtung - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Entwicklung Brachfläche Neumannstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Speed-Vermittlungsbörse auch in Pankow - in der BVV abgelehnt
+- TOP 1.14: Bessere Ausstattung des Veterinär- und Lebensmittelaufsichtsamtes - in der BVV abgelehnt
+- TOP 1.15: Übersicht über die Verkehrssicherheit auf Gehwegen und Fahrbahnen - in der BVV abgelehnt
+- TOP 1.16: Verkehrssicherheit in der Dolomitenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Samländische Straße und Masurenstraße als Einbahnstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Armutskonferenz 2011 - in der BVV abgelehnt
+- TOP 1.19: Intelligente Ampelschaltung an der der Kreuzung Antonplatz und Mühlenberg - Center - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Berliner Bär auch an der Pankower Einfahrt nach Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Besetzung der Fachbereichsleiterstelle Stadtbibliothek im Amt für Kultur und Bildung - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Verbesserung der Sicherheit von Radfahrern an Kreuzungen mit Lichtzeichenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Sozialer Mieterschutz beim Modernisierungsvorhaben der EWG - zurückgezogen
+- TOP 1.24: Verbraucherinformation zu Ökostrom - in der BVV abgelehnt
+- TOP 1.25: Verbesserung der Querungssituation in der Berliner Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Hinweisschild Einbahnstraße in der Walter-Friedrich-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Stadtbad - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Kleingartenanlage Famos - mit Änderungen in der BVV beschlossen
+- TOP 1.29: Frühzeitige Unterrichtung über Baumaßnahmen der Senatsverwaltung - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Parkraumvignetten für Übungsleiter - beantwortet
+- TOP 1.31: Aufstellung eines Bebauungsplanes für die Brunnengalerie in Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Straßenbahnlinie 12: Umleiten statt verkürzen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.33: Schwimmhalle Wolfshagener Straße in Pankow - beantwortet
+- TOP 1.34: Tempo 30 in der Kastanienallee - mit Änderungen in der BVV beschlossen
+- TOP 1.35: Wirtschaftsplan 2011 KiTa – Eigenbetrieb Nord-Ost - beantwortet
+- TOP 1.36: Friedhofspark in der Pappelallee 15/16/17 sichern, Spielplatzfläche neu ordnen - vertagt
+- TOP 1.37: Bezuschussung des Pankower Mehrgenerationenhauses im Folgeprogramm 2012 - vertagt
+- TOP 1.38: Art und Weise e.V. - überwiesen
+- TOP 1.39: Verbesserung der Querungssituation an der Bucher Chaussee - überwiesen
+- TOP 1.40: Mehr Sicherheit für Radfahrerinnen und Radfahrer in der Pappelallee und in der Stahlheimer Straße - vertagt
+- TOP 1.41: Sondernutzungsgebühren für "Call-a-bike"-Standorte - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Erhalt und Nutzung der Sporthalle am Weißen See ermöglichen - überwiesen
+- TOP 1.43: Dauerhafte Sicherung von Kleingartenanlagen - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Situation für Fußgänger und Radfahrer in Alt-Karow verbessern - überwiesen
+- TOP 1.45: Kinderfreundliches Pankow - Mitgliedschaft bei Cities for Children - überwiesen
+- TOP 1.46: Ampel an der Kreuzung Rennbahnstraße und Gustav-Adolf-Straße - überwiesen
+- TOP 1.47: Änderung Bauordnung von Berlin - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.1: Expertise von Nichtregierungsorganisationen im Bericht des Bezirksamtes zu rassistisch und rechtsradikal motivierten Vorfällen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Tourismusmarketingkonzept für den Bezirk Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Behutsame Entwicklung im Sanierungsgebiet Kollwitzplatz Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Umsteuern bei den Haushaltsdefiziten im Bereich der Hilfen in besonderen Lebenslagen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: 100 Jahre Straßenbahn Heinersdorf - Alexanderplatz feiern - vertagt
+- TOP 2.6.1: Die moderne Straßenbahn in Europa - vertagt
+- TOP 2.7: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - vertagt
+- TOP 2.8: Erinnerung an den 50. Jahrestag der Errichtung der Berliner Mauer - vertagt
+- TOP 2.9: Spielleitplan umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Brücke Sudauer Straße im Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Kultur im Ernst-Thälmann-Park - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Kündigung der Arbeitsräume des MACHmit! Museums rückgängig machen - vertagt
+- TOP 2.13: Maßnahmen gegen den Schleichverkehr in der Winsstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Liefer- und Ladezonen in der Prenzlauer Allee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Anmeldung für die Investitionsplanung 2011 bis 2015 Bezirk Pankow - vertagt
+- TOP 2.16: Antrag zur Einrichtung von Besuchsdiensten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Sicherstellung der auskömmlichen Finanzierung der Kita-Eigenbetriebe durch das Land Berlin Anhebung der Kostensätze nach Kostenblatt für Eigenbetriebe und Freie Träger in der Kindertagesbetreuung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Naugarder Straße - vertagt
+- TOP 2.19: Konsolidierungskonzept 2012 - 2015 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Benennung eines privaten Erschließungsweges im Ortsteil Niederschönhausen in "Am Orangeriepark" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Eckwerteberechnung für die Aufstellung des Doppelhaushaltsplans 2012/2013 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Benennung von Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Gender-Darstellung im Entwurf des Doppelhaushaltsplans 2012/2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Erhaltungsverordnung gemäß § 172 Abs. 1 Satz 1 Nr. 1 des Baugesetzbuchs (BauGB) für die Wohnanlage Belforter Straße 5-8, Straßburger Straße 33-36, Metzer Straße 35-37 im Bezirk Pankow von Berlin, Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.27: Benennung einer Privatstraße im Ortsteil Prenzlauer Berg in „Edith-Stein-Straße“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Zulässigkeit des angezeigten Bürgerbegehrens hinsichtlich der Kastanienallee im Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Wirtschaftsplan des Eigenbetriebes "Kindergärten NordOst" für das Jahr 2011 - Fortschreibung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Bebauungsplanentwurf 3-23 vom 04.11.2009 für die Grundstücke Berliner Allee 24/28, Bizetstraße 17/21 und einen Abschnitt der Bizetstraße im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.31: Bebauungsplan 3-32 für das Grundstück Belforter Straße 5-8 / Straßburger Straße 33-36 / Metzer Straße 35-37 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Bebauungsplanentwurf 3-8 für die Grundstücke Dietrich-Bonhoeffer-Straße 6-9 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
