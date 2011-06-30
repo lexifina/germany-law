@@ -1,0 +1,54 @@
+# Kulturausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-06-30T13:00:00+02:00
+- Ende: 2011-06-30T16:15:00+02:00
+- Ort: Marktplatz 1, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/24
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4614
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4614
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161265.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161265.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161265.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Anfrage der Linksfraktion: Bereicherte sich Düsseldorf an geraubtem jüdischem Kulturbesitz? - beantwortet
+- TOP 4: Anfrage der SPD-Fraktion: "Behindertengerechte Ausstattung der Institute und Museen" - beantwortet
+- TOP 5: Anfrage der Fraktion Bündnis 90/Die Grünen: Bildungspaket - Beteiligung Düsseldorfer Kultureinrichtu - beantwortet
+- TOP 6: Anfrage der Fraktionen von CDU und FDP zum Thema "Öffnung des stadtinternen Veranstaltungskalenders - beantwortet
+- TOP 7: Antrag der Fraktion Bündnis 90/Die Grünen: Resolution zur Haftentlassung von Ai Weiwei und Cheng Li - mehrheitlich abgelehnt
+- TOP 8: Antrag der Fraktion Bündnis 90/Die Grünen: Wandbild am Güterbahnhof Derendorf - Bestandschutz - mehrheitlich abgelehnt
+- TOP 9: Antrag der Fraktionen von CDU und FDP zum Thema "Art after Work-Angebote der Düsseldorfer Kulturinst - einstimmig beschlossen
+- TOP 10: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2010 - passieren lassen
+- TOP 11: Gutachten Tausendfüßler - zur Kenntnis genommen
+- TOP 12: Vorstellung des Spielplans des Düsseldorfer Schauspielhauses 2011/2012 (Bericht) - zur Kenntnis genommen
+- TOP 13: Vorstellung des Konzertprogramms der Tonhalle 2011/2012 (Bericht) - zur Kenntnis genommen
+- TOP 14: Jahresprogramm Kunsthalle, Kunstverein für die Rheinlande und Westfalen und KIT (Bericht) - zur Kenntnis genommen
+- TOP 15: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur - einstimmig beschlossen
+- TOP 16: Verleihung des Förderpreises für Wissenschaften 2011 - einstimmig beschlossen
+- TOP 17: "Take-off: Junger Tanz 2011" - einstimmig beschlossen
+- TOP 18: Sonderzuschuss Stadtgeschichte - einstimmig beschlossen
+- TOP 19: Sonderzuschüsse Bildende Kunst/ Städtepartnerschaft Düsseldorf-Warschau - einstimmig beschlossen
+- TOP 20: Filmfest 2011 - einstimmig beschlossen
+- TOP 21: Beirat Tanz und Theater (Sitzung am 24.05.2011) - einstimmig beschlossen
+- TOP 22: Beirat bildende Kunst (Sitzung am 20.06.2011) - einstimmig beschlossen
+- TOP 23: Internationale Kooperationen - Hilfe für das Künstlerdorf Ein Hod/Israel - einstimmig beschlossen
+- TOP 24: Beirat Musik (Sitzung am 7.6.2011) - einstimmig beschlossen
+- TOP 25: Sonderzuschüsse für Projekte der Kinder- und Jugendkulturarbeit 2011 - einstimmig beschlossen
+- TOP 26: Ausstellungsprogramm 2. Halbjahr 2011, Heinrich-Heine-Institut - einstimmig beschlossen
+- TOP 27: Ausstellungsprogramm 2. Halbjahr 2011, Theatermuseum - einstimmig beschlossen
+- TOP 28: Ausstellungsprogramm 2. Halbjahr 2011, Stadtmuseum - einstimmig beschlossen
+- TOP 29: Ausstellungsprogramm 2. Halbjahr 2011, Goethe-Museum - einstimmig beschlossen
+- TOP 30: Ausstellungsprogramm 2. Halbjahr 2011, Filmmuseum - einstimmig beschlossen
+- TOP 31: Ausstellungsprogramm 2. Halbjahr 2011, Hetjens-Museum - einstimmig beschlossen
+- TOP 32: Ausstellungsprogramm 2. Halbjahr 2011, Mahn- und Gedenkstätte - einstimmig beschlossen
+- TOP 33: Ausstellungsprogramm 2. Halbjahr 2011, Kunstraum - zur Kenntnis genommen
+- TOP 34: Sachstandsbericht zum Gutachten der Sicherung von Kulturgut der im Gebäude der "Alten Paketpost" bef - einstimmig beschlossen
+- TOP 35: Beschlusskontrolle - einstimmig beschlossen
+- TOP 36: Einmaliger Sonderzuschuss für den Verein "Gemeinsam gegen Kälte e.V. - einstimmig beschlossen
+- TOP 37: Sonstiges
