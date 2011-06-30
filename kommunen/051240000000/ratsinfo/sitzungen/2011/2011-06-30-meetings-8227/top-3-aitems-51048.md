@@ -1,0 +1,8 @@
+# TOP 3: Betriebskostenzuschüsse 2011 für die Altentagesstätten freier Träger
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses Soziales, Familie und Gesundheit (2011-06-30)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/51048
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/24259
