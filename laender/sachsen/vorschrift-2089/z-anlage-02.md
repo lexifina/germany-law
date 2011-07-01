@@ -2,9 +2,11 @@
 # Anlage 2 (zu § 12 Abs. 3)
 Kriterienkatalog nach § 12 Abs. 3 DVOSächsBO
 Sind die nachfolgenden Kriterien ausnahmslos erfüllt, ist eine Prüfung des Standsicherheitsnachweises nicht erforderlich:
-1. Die Verkehrslasten sind vorwiegend ruhende, gleichmäßig verteilte Flächenlasten, einschließlich der Zuschläge aus unbelasteten leichten Trennwänden, mit q k ≤ 5,0 kN/m² oder Einzellasten Q k ≤ 10,0 kN.
-2. Die Baugrundverhältnisse entsprechen den Regelfällen der DIN 1054, Ausgabe November 1976, erschienen im Beuth-Verlag GmbH, Berlin und Köln, und archivmäßig gesichert hinterlegt beim Deutschen Patent- und Markenamt, und erlauben eine Flachgründung. Für den Baugrund dürfen die Nachweise der Standsicherheit durch Einhaltung zulässiger Bodenpressungen erbracht werden.
-3. Bei erddruckbelasteten baulichen Anlagen beträgt die Höhendifferenz zwischen Gründungssohle und Erdoberfläche maximal 4 m. Einwirkungen infolge von Wasserdruck sind nicht vorhanden und die Ausbildung einer Gleitschicht bei Hanglage ist ausgeschlossen.
-4. Angrenzende bauliche Anlagen oder öffentliche Verkehrsflächen sowie die Tragfähigkeit des Baugrundes im Nachbargrundstück werden nicht beeinträchtigt. Nachzuweisende Unterfangungen oder Baugrubensicherungen sind nicht erforderlich.
-5. Die tragenden und aussteifenden vertikalen Bauteile gehen im Wesentlichen unversetzt bis zu den Fundamenten durch. Gebäude sind horizontal und vertikal so ausgesteift, dass ein rechnerischer Nachweis der Gebäudeaussteifung offensichtlich entfallen kann.
-6. Die Bauteile der baulichen Anlage oder die bauliche Anlage selbst wurden mit einfachen Verfahren und Hilfsmitteln der Baustatik berechnet. Räumliche Tragwerke oder Flächentragwerke, die als solche berechnet werden müssen, sind nicht vorhanden.
+1. Die Baugrundverhältnisse sind eindeutig und erlauben eine übliche Flachgründung entsprechend DIN 1054. Ausgenommen sind Gründungen auf setzungsempfindlichem Baugrund.
+2. Bei erddruckbelasteten Gebäuden beträgt die Höhendifferenz zwischen Gründungssohle und Erdoberfläche maximal 4 m. Einwirkungen aus Wasserdruck müssen rechnerisch nicht berücksichtigt werden.
+3. Angrenzende bauliche Anlagen oder öffentliche Verkehrsflächen werden nicht beeinträchtigt. Nachzuweisende Unterfangungen oder Baugrubensicherungen sind nicht erforderlich.
+4. Die tragenden und aussteifenden Bauteile gehen im Wesentlichen bis zu den Fundamenten unversetzt durch. Ein rechnerischer Nachweis der Gebäudeaussteifung, auch für Teilbereiche, ist nicht erforderlich.
+5. Die Geschossdecken sind linienförmig gelagert und dürfen für gleichmäßig verteilte Lasten (kN/m² und Linienlasten aus nichttragenden Wänden (kN/m) bemessen werden. Geschossdecken ohne ausreichende Querverteilung erhalten keine Einzellasten.
+6. Die Bauteile der baulichen Anlage oder die bauliche Anlage selbst können mit einfachen Verfahren der Baustatik berechnet oder konstruktiv festgelegt werden. Räumliche Tragstrukturen müssen rechnerisch nicht nachgewiesen werden. Besondere Stabilitäts-, Verformungs- und Schwingungsuntersuchungen sind nicht erforderlich.
+7. Außergewöhnliche sowie dynamische Einwirkungen sind nicht vorhanden. Beanspruchungen aus Erdbeben müssen rechnerisch nicht verfolgt werden.
+8. Besondere Bauarten wie Spannbetonbau, Verbundbau, Leimholzbau und geschweißte Aluminiumkonstruktionen werden nicht angewendet.
