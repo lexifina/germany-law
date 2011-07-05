@@ -1,0 +1,8 @@
+# TOP 6: Errichtungsbeschluss: Erweiterung/Umbau von Kindertageseinrichtungen im Rahmen der notwendigen bedarfsgerechten Angebote zum Ausbau von Betreuungsplätzen ab dem Kindergartenjahr 2011/2012
+
+- Sitzung: Sitzung (2011-07-05)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/107356
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/46979
