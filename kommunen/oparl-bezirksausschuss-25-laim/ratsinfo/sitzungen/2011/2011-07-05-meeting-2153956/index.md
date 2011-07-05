@@ -1,0 +1,75 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-07-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2153956
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2153956
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Ergebnisse Stadtteilcheck "Auf Herz und Rampen prüfen"
+- TOP 1.3: Vorstellung der Gleisbauarbeiten am Willibaldplatz durch Vertreter der SWM
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Aufstellung eines zusätzlichen "Zone 30"-Schildes in der Lutzstraße (Nordende)
+- TOP 2.2.: SPD: Einhausung des geplanten Treppenzugangs des Containerbaus der Camerloher Kindertagesstätte, Camerloherstr. 108
+- TOP 2.3.: SPD: Ausweisung des über die Fürstenrieder Straße führenden Radweges auf der Südseite der Landsberger Straße (Laimer Kreisel) als Zweirichtungs-Radweg
+- TOP 2.4.: SPD: Etablierung eines "Stadtrates für Kinder und Jugendliche" in München sowie Durchführung einer entsprechenden Pilotphase im Stadtbezirk 25
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 885 Euro für Spielaktion für Kinder vom 28.06.-23.09.11; Antragsteller: Familienzentrum Laim - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Baureferat vom 26.05.11: Erinnerungsverfahren Landsberger Str. 263-273 / Nebenfahrbahn
+- TOP 4.2.: Schreiben Planungsreferat vom 31.05.11: Parkraummanagement in München - Fortschreibung Umsetzungskonzept; Anhörung zu einer Beschlussvorlage für den gemeinsamen Ausschuss für Stadtplanung und Bauordnung und Kreisverwaltungsausschuss
+- TOP 4.3.: Schreiben Direktorium vom 08.06.11: BA-Budget: Keine Frist für Budgetanträge bis 1.000 Euro (Antrag Nr. 08-14 / B 02822 des BA 5 Au-Haidhausen vom 16.03.11)
+- TOP 4.4.: Schreiben KVR vom 20.06.11: Hohenwarter Straße; Parkscheibenzone Hohenwarter Str. 12 sowie absolutes Haltverbot Hohenwarter Str. 17
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fachnerstr. 7: Neubau eines Doppelhauses mit 2 Carports und Schuppen; hier: Baupläne und Baumbestandsplan
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Sozialreferat vom 08.06.11: Einladung zur Vorstellung des Projektes "Wegbegleiter" am 11.10.11
+- TOP 6.2.: Schreiben Schulreferat vom 15.06.11: Einladung "Das Referat für Bildung und Sport" trifft die Bezirksausschüsse am 13.07.11
+- TOP 6.3.: Vorbereitungstreffen am 12.07.11 zu "Bezirksausschuesse beim 18.jetzt"
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 07.06.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 09.06.11: Keine parteipolitische Betätigung auf der städtischen Internetseite der BAs
+- TOP 8.2.: Schreiben Stadtwerke München GmbH vom 31.05.11: Erneuerung der Verfüllungen im Gleisbereich der Straßenbahnlinie 19 in der Agnes-Bernauer-Straße (BA-Antrag Nr. 08-14 / B 02877 vom 05.04.11)
+- TOP 8.3.: Schreiben Stadtwerke München GmbH vom 08.06.11: Planung auf dem Gelände Zschokke - / Westendstraße (ehem. Straßenbahnbetriebshof) (Schreiben BA vom 10.05.11)
+- TOP 8.4.: Schreiben Baureferat vom 07.06.11: Bekämpfung der Ameisenplage auf den Spielplätzen u.a. am Laimer Platz, Burgkmairwiese und Hogenbergplatz (BA-Antrag Nr. 08-14 / B 02816 vom 01.03.11 bzw. Schreiben BA vom 20.05.11)
+- TOP 8.5.: Schreiben Sozialreferat vom 09.06.11: Ausdehnung des Modellprojektes "Hausbesuche bei älteren Menschen" auf den Münchner Westen einschließlich Laim (BA-Antrag Nr. 08-14 / B 02878 vom 05.04.11)
+- TOP 8.6.: Schreiben Sozialreferat vom 21.06.11: Sachstand zum Bauvorhaben Brantstraße, Teilfläche aus Flst. 400/4, Gemarkung Laim sowie zur Baurechtsklärung auf den Flst. 400/4, 400/52 und 400/53, Gemarkung Laim
+- TOP 8.7.: Schreiben Referat für Arbeit und Wirtschaft vom 15.06.11: Planung auf dem Gelände Zschokkestraße / Westendstraße (ehem. Straßenbahnbetriebshof);Einbeziehung des BA 25 und umgehende Information über Änderungen; Beibehaltung der Planung in Hinblick auf die Versorgung mit Kinderbetreuungsplätzen (BA-Antrag Nr. 08-14 / B 02813 vom 01.03.11)
+- TOP 8.8.: Schreiben Planungsreferat vom 10.06.11: Landsberger Str. 214; Errichtung eines gewerblich genutzten Gebäudes mit 8 Spielhallen / Vorbescheid
+- TOP 8.9.: Schreiben Planungsreferat vom 14.06.11: Aindorferstr. 72; Neubau eines Mehrfamilienhauses und einer Stadtvilla sowie einer Tiefgarage / Tektur
+- TOP 8.10.: Schreiben Planungsreferat vom 01.06.11: Liste der eingereichten Anträge auf Abgeschlossenheitsbescheinigungen vom 16.05.-31.05.11
+- TOP 8.11.: Schreiben Planungsreferat vom 16.06.11: Liste der eingereichten Anträge auf Abgeschlossenheitsbescheinigungen vom 01.06.-15.06.11
+- TOP 8.12.: Schreiben KVR vom 03.06.11: Dreharbeiten Perkhoferstraße am 07.06.11
+- TOP 8.13.: Schreiben KVR vom 14.06.11: Gaststätte "Bongsen", Elsenheimerstr. 2; unveränderte Fortführung
+- TOP 8.14.: Schreiben Direktorium vom 16.06.11: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Kath. Pfarrgemeinde zu den Heiligen Zwölf Aposteln
+- TOP 8.15.: Schreiben Direktorium vom 16.06.11: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Pädagogische Aktion / Spielen in der Stadt e.V.
+- TOP 8.16.: Schreiben Direktorium vom 16.06.11: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Regsam e.V.
+- TOP 8.17.: Schreiben Referat für Arbeit und Wirtschaft vom 30.05.11: Wirtschafts-Info 05/2011
+- TOP 8.18.: Schreiben Referat für Arbeit und Wirtschaft vom 21.06.11: Europe Direct Informationen 04/2011
+- TOP 8.19.: Schreiben Gleichstellungsstelle für Frauen vom 09.06.11: Protokoll des 10. Treffen der Gleichstellungsbeauftragten der BAs am 25.05.11 sowie Einladung zum Treffen am 21.07.11
+- TOP 8.20.: Bautenliste vom 23.05.-29.05.11 1. Erstantragsverfahren a) Gotthardstr. 115
+- TOP 8.21.: Bautenliste vom 06.06.-12.06.11 1. Erstantragsverfahren a) Fachnerstr. 7 b) Isbertstr. 8b
+- TOP 8.22.: Bautenliste vom 13.06. - 19.06.11 1. Erstantragsverfahren a) Seehoferstr. 7 b) Weichselbaumerstr. 3
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 30.05.11: Baumaßnahmen der Stadtwerke; Stichtag: 30.05.11
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 06.06.11: Baumaßnahmen der Stadtwerke; Stichtag: 06.06.11
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 15.06.11: Baumaßnahmen der Stadtwerke; Stichtag: 15.06.11
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 20.06.11: Baumaßnahmen der Stadtwerke München; Stichtag: 20.06.11
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.11: Perspektive München - Fortschreibung 2011; Leitmotiv, strategische Leitlinien (Sitzungsvorlagen Nr. 08-14 / V 06446)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11: Satzung der LH München über die Herstellung und Bereitshaltung von Abstellplätzen für Fahrränder (Fahrradabstellplatzsatzung - FabS) (Sitzungsvorlagen Nr. 08-14 / V 06873)
+- TOP 8.29.: Beschluss des Kreisverwaltungsausschusses vom 07.06.11: "Dialog-Display" in München (Sitzungsvorlagen Nr. 08-14 / V 06878)
+- TOP 8.30.: Beschluss des Kreisverwaltungsausschusses vom 07.06.11: Tempo 30 / 40 in Hauptverkehrsstraßen / Erschließungsstraßen (Sitzungsvorlagen Nr. 08-14 / V 06885)
+- TOP 8.31.: Schreiben Elternbeirat der Grundschule an der Droste-Hülshoff-Str. 9 vom 30.05.11: Sachbericht zum Projekt "Prima Klima"
+- TOP 8.32.: Schreiben Faschingsclub Laim e.V. vom 05.06.11: Bericht über das Faschingstreiben vom 05.03.11
+- TOP 8.33.: Schreiben PI 41 vom 09.06.11: Parkverbotszone Sturmstraße
+- TOP 8.34.: Schreiben BA 7 Sendling-Westpark vom 09.06.11: Bürgeranliegen bzgl. Kulturhaus
+- TOP 8.35.: Schreiben Direktorium vom Juni 2011: Dokumentation der Münchner Zukunftsreihe
+- TOP 8.36.: Schriftverkehr aus der BA-Sitzung vom 07.06.11
+- TOP 1.2: Bürgerpost an den BA
