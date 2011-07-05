@@ -1,0 +1,56 @@
+# Rat (48. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2011-07-05T17:45:00+02:00
+- Ende: 2011-07-05T20:35:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfu9ffisDEiTzA4UTBJlKjs
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/728
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRJ1gqANtlnboVYHqQ5psKf5UsB3kueNt--QolJiMq6H/Bekanntmachung_Rat_05.07.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRAoYVMW_x_vvT7koypnWcCaBXzNx7KaHQBfw-Bx9mi8/Oeffentliche_Niederschrift_Rat_05.07.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschriften über die Sitzungen vom 31.03.2011, 14.04.2011 und 18.05.2011
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 4.: Satzungsrecht
+- TOP 4.1: Änderung der Friedhofssatzung der Gemeinde Wallenhorst - mehrheitlich mit 18 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 4.2: Änderung Friedhofsgebührensatzung - mehrheitlich mit 18 Ja-Stimme(n), 13 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 4.3: Abgabensatzung für die Abwasserbeseitigung - Änderungssatzung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Schulangelegenheiten
+- TOP 5.1: Integrative Beschulung an der Alexanderschule hier: Unterstützung durch eine heilpädagogische Fachkraft - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.: Sportangelegenheiten
+- TOP 6.1: Antrag des Schützenvereins Rulle von 1899 e. V. auf Bezuschussung der Umbaumaßnahme für das Schützenhaus Rulle; Antrag auf Änderung der Anwendung der Richtlinien - einstimmig, mit 4 Enthaltung(en) gefasst:
+- TOP 7.: Jugend und Kultur
+- TOP 7.1: Errichtung eines „Informations- und Erlebniszentrums Plaggenwirtschaft“ an der Lechtinger Mühle - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Familie und Soziales
+- TOP 8.1: Umsetzung des Förderpakets "Bildung und Teilhabe" hier: Mittagsverpflegung - zurückverwiesen, mit 32 Ja-Stimme(n), 0 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 8.2: Ausbau und Optimierung von Betreuungsangeboten für Kinder im Alter von 0 bis 2 Jahren - einstimmig, mit 2 Enthaltung(en) gefasst:
+- TOP 8.3: Überplanmäßige Aufwendungen für Brandschutzmaßnahmen im Kindergarten St. Raphael - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 9.1: Fahrzeugkonzept für die Freiwillige Feuerwehr - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.: Bauleitpläne
+- TOP 10.1: 51. Änderung des Flächennutzungsplanes hier: Bereich Südlich der Hansastraße - Gartencenter und Bebauungsplanbereich Nr. 254 „Östlich Pollerweg/Südlich Hansastraße“ hier: Auslegungsbeschluss - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.2: Bebauungsplan Nr. 257 "Wellmanns Hügel" hier: Beschluss über das Plankonzept - nicht gefasst:
+- TOP 10.3: Bebauungsplan Nr. 258 "Hollage West" hier: Beschluss über das Plankonzept - nicht gefasst:
+- TOP 10.4: Bebauungsplan Nr. 260 „Zwischen Hollager Straße, Große Straße und Berliner Straße" hier: Aufstellungsbeschluss gem. § 2 Abs. 1 BauGB - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.5: Vorhabenbezogener Bebauungsplan Nr. 253 "Östlich der Hofstelle Duling" gem. § 12 BauGB; Vorhabenplanung "Wohnprojekt HHO" hier: Bericht über die Ergebnisse der öffentlichen Auslegung gem. § 3 (2) BauGB und § 4 (2) BauGB; Beschluss über die Abwägung Zustimmung zur Vorhabenplanung der Vorhabenträger Satzungsbeschluss zum vorhabenbezogenen Bebauungsplan Nr. 253 gem. § 10 (1) BauGB - einstimmig, mit 3 Enthaltung(en) gefasst:
+- TOP 11.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 11.1: Markierung Terrassenanlage Kirchvorplatz - nicht gefasst:
+- TOP 11.2: Beschluss über die Ausführungsplanung und die zu verwendenden Materialien zur Sanierung und zum Umbau der Straße „Alter Pyer Kirchweg“ - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.3: Löschung von Flächen aus den Landschaftsschutzgebieten für zukünftige Baugebiete - mehrheitlich mit 29 Ja-Stimme(n), 1 Gegenstimme(n), 2 Stimmenthaltung(en) gefasst:
+- TOP 11.4: Erschließung der Baugebiete - Hansastraße/Fürstenauer Weg - Hollage-West - Wellmanns Hügel - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 11.5: Anwendung der Vergaberichtlinie für Wohnbauland -Bestimmung eines vorläufigen gebietsbezogenen Vergabeziels für ein Teilgebiet im Baugebiet "Hollage West"- - nicht gefasst:
+- TOP 11.6: Bau eines Regenwasserkanals im Bereich der "Hollager Straße" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Kämmereiangelegenheiten
+- TOP 12.1: Jahresabschluss 2010 der Wasserversorgung Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Annahme von Spenden gem. § 83 Abs. 4 NGO (Ratsentscheidung) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Rücknahme einer Äußerung
+- TOP 13.2: Pflaster und Wege an der Hollager Mühle
+- TOP 13.3: Anregungen zur Barrierefreiheit
