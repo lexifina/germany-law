@@ -1,0 +1,123 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2011-07-05T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2191944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2191944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Keine Frist für Budgetanträge bis 1.000 ? - Antrag des BA 5 Au-Haidhausen
+- TOP .10.: Sonstiges
+- TOP .1.: Besetzung des Feriensenats
+- TOP .2.: Oktoberfest 2011
+- TOP .1.: Änderung der zeitlichen Geltungsdauer der Ladezone Hohenzollernstr. 30
+- TOP .2.: Standortgenehmigung für Parkscheinautomaten Leopoldstr. 9 und 13
+- TOP .1.: Pkw-Parkzone an der Ungererstr. 215
+- TOP .1.: Parkraummanagement in München ? Fortschreibung Umsetzungskonzept: Anhörung zum Entwurf der Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung sowie den Kreisverwaltungsausschuss
+- TOP .2.: Fröttmaninger Heide ? südlicher Teil einstweilige Sicherstellung als Naturschutzgebiet (Entwurf der Verordnung der Regierung von Oberbayern)
+- TOP .1.: Fehlende Verbindungsstraße zwischen Otl-Aicher-Straße und der Parkstadt Schwabing / Fehlende Spielgeräte in der Parkstadt Schwabing und in der neuen Wohnanlage Otl-Aicher-Str. (siehe auch C.4.1)
+- TOP .1.: Die Hohenzollernstraße soll zwischen Leopold- und Friedrichstraße in eine Tempo-30-Zone umgewidmet werden.
+- TOP .2.: Entfernung eines Abgrenzungs-Schildes in der Osterwaldstraße
+- TOP .3.: Aktualisierung des Tarifplans Innenraum an den Haltestellen der Tram 23
+- TOP .4.: Parken in der Grünanlage an der Maria-Probst-Straße
+- TOP .5.: Aktualisierung der Übersichtspläne an der U-Bahnstation Kieferngarten
+- TOP .6.: Einparkveränderung in der Destouchesstraße zwischen Moltke- und Viktoriastraße
+- TOP .1.: Knoten Leopoldstraße/Otl-Aicher-Straße (Anschluss Neubaugebiet Hans-Döllgast-Straße/Otl-Aicher-Straße)
+- TOP .2.: Domagkstraße / Hans-Döllgast-Straße
+- TOP .3.: Absolutes Haltverbot in der Siegfriedstraße außerhalb der Parkbuchten
+- TOP .1.: Filmaufnahmen auf öffentlichem Verkehrsgrund (1)
+- TOP .2.: Workshop zur Neugestaltung der Münchner Freiheit; BA-Antrag 08-14 / B 01671 Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 18.05.2011 (siehe auch TOP D.5.3.1.)
+- TOP .3.: Stellungnahme des Arbeitskreises Attraktiver Nahverkehr (AAN) zum Leistungsprogramm 2012 der MVG
+- TOP .4.: Dezentrales Güterverkehrskonzept (GVZ) ? Überprüfung und weitere Planung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 Sitzungsvorlagen Nr. 08-14 / V 04152
+- TOP .5.: Handlungsprogramm Mittlerer Ring; Weiterer Planungsbedarf ? Fortschreibung des Handlungsprogramms; Beschluss des Ausschusses für Stadtplanung und Bauordnung Sitzungsvorlagen Nr. 08-14 / V 02675, (siehe auch D.5.3.4.)
+- TOP .6.: Antwort des Baureferats-Gartenbau zum Bürgeranliegen ?Aufstellen von Hundekotbeutelspendern in der Grünanlage Biedersteiner Tunnel? vom 19.05.2011
+- TOP .7.: Tempo 30/40 in Hauptverkehrsstraßen / Erschließungsstraßen Beschluss des Kreisverwaltungsausschusses vom 07.06.2011 Sitzungsvorlage Nr. 08-14 / V 06885
+- TOP .8.: ?Dialog Display? in München Beschluss des Kreisverwaltungsausschusses vom 07.06.2011 Sitzungsvorlage Nr. 08-14 / V 06878
+- TOP .9.: Fahrradabstellsatzung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 Sitzungsvorlage Nr. 08-14 / V 06873
+- TOP .10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Container für die temporäre Kinder- und Jugendbetreuung in der Parkstadt Schwabing (Initiative: Johannes Trischler)
+- TOP .2.: Soziale Einrichtungen in den ?Kuben? in der Parkstadt Schwabing ? Klärung eines Sachverhalts (Initiative: Johannes Trischler)
+- TOP .1.: (E) Budget der Bezirksausschüsse Freizeittreff Freimann Sommerfest am 02.07.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Evang. Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 12.08.2011
+- TOP .3.: (E) Budget der Bezirksausschüsse Elternbeirat der Kindertagesstätte Birkenfeldstraße 1 Nachbarschaftsfest am 01.07.2011
+- TOP .4.: (E) Budget der Bezirksausschüsse Seidlvillaverein e.V. Sommerfest am 16.07.2011
+- TOP .5.: Sperrzeitänderung Schank- und Speisewirtschaft ?Papatakis?, Nikolaistr.9
+- TOP .1.: Schaffung von Ersatzwohnraum im gleichen Stadtviertel; Antrag des BA 1 Altstadt-Lehel mit der Bitte um Unterstützung (s. auch D.3.2.4)
+- TOP .2.: Fahrradausflug "Tour de Franz" am 31.07.2011
+- TOP .3.: Gemeinsame Hinweisschilder zu MFZ Münchner Förderzentrum und Seniorenwohnheime Kieferngarten
+- TOP .4.: REGSAM-Veranstaltungen in Freimann am 03. und 10.08.2011
+- TOP .5.: Kita-Sommerfest in der Grünanlage Oskar-Schlemmer-Straße am 22.07.2011
+- TOP .1.: Fehlende Verbindungsstraße zwischen Otl-Aicher-Straße und der Parkstadt Schwabing / Fehlende Spielgeräte in der Parkstadt Schwabing und in der neuen Wohnanlage Otl-Aicher-Str. (siehe auch B.4.1)
+- TOP .2.: Restaurant ?Piatsa?, Leopoldstr. 33: Livemusik am Freitag und Samstag?
+- TOP .3.: Erlöserkirche: Aufstellen und Nutzen eines Bauwagens auf der Wiese am Biederstein während des Kindergartenumbaus (Sept. 2011-Nov. 2012)
+- TOP .1.: Parkstadt Schwabing - Einrichtung für Kinder, Jugendliche und Familien
+- TOP .2.: Beteiligung von Schülern bei Planung des Förderzentrums an der Situlistraße
+- TOP .3.: Finanzierung von Unterhaltsmaßnahmen bzw. Neuanschaffung von Mobiliar bei Einrichtungen anerkannter freier Träger
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: "Grissini", Schank- und Speisewirtschaft, Helmtrudenstraße 1
+- TOP .2.: "Poseidon", Schank- und Speisewirtschaft, Karl-Köglsperger-Str. 17
+- TOP .3.: ?Baron?, Schank- und Speisewirtschaft, Leopoldstr. 124
+- TOP .4.: ?Wirtschaftswunder?, Café, Karl-Theodor-Str. 31 a
+- TOP .1.: Stellungnahmen der Bezirksausschüsse zum BA-Antrag 08-14 / B 02521 des BA 12 ?Verteilung der städtischen Telefonbücher an alle BA-Mitglieder? a) Bezirksausschuss 3 Maxvorstadt b) Bezirksausschuss 8 Schwanthalerhöhe c) Bezirksausschuss 9 Neuhausen-Nymphenburg d) Bezirksausschuss 13 Bogenhausen e) Bezirksausschuss 17 Obergiesing-Fasangarten f) Bezirksausschuss 20 Hadern g) Bezirksausschuss 15 Trudering-Riem h) Bezirksausschuss 5 Au-Haidhausen i) Bezirksausschuss 25 Laim j) Bezirksausschuss 2 Ludwigsvorstadt-Isarvorstadt k) Bezirksausschuss 22 Aubing-Lochhausen-Langwied l) Bezirksausschuss 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP .2.: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung ? Änderung der BA-Satzung; Antrag des BA 1 Altstadt-Lehel (s. auch D.5.3.11)
+- TOP .3.: Verwendungsnachweise: a) Haus am Schuttberg e.V. für die Maßnahme: 1. Sport- und Stadtteilfest b) Theater Heppel&Ettlich für die Maßnahme Theater für Migranten c) Initiative ?Frauenedition? für ein Konzert in der Seidlvilla am 19.03.2011
+- TOP .4.: Ausweitung des Platzangebots in städt. Kindergärten: a) Integrationskindergarten Burmesterstr. 21/Bauernfeindstr. 25 b) Kindergarten Fröttmaninger Str. 23
+- TOP .5.: Zuwendungsbewilligungen / Ablehnungen über beantragte Zuwendungen: a) Kreisjugendring, Freizeittreff Freimann für das Riesenkicker-Turnier am 15.06.2011; b) Domagkateliers gGmbH für die Ateliereröffnung vom 14.-17.07.2011; c) CLEEC e.V. für die Kinder- und Jugendinsel des Corso Leopold im Juni und September 2011; d) Initiative ?Dia de Muertos? für die Veranstaltung vom 01.-13-11.2011
+- TOP .6.: Leistung eines Baukostenzuschusses nach dem BayKiBiG für Kindertagesstätten sonstiger Träger: Beschlüsse des Ausschusses für Bildung und Sport vom 29.06.2011: a) Kinderkrippe Clemensstr. 29 b) Haus für Kinder Ungererstr. 175 c) Haus für Kinder an der Dorfstr. 47, Gemeinde Ismaning d) Kinderkrippe Anni-Albers-Str. 11
+- TOP .1.: Kein weiterer Baumarkt in Freimann, Ablehnung des Bebauungsplans, letzte Chance für die Perspektive Freimann (Initiative: Patric Wolf)
+- TOP .2.: Bebauungsplan in Altschwabing (Initiative: Petra Piloty)
+- TOP .3.: Standort für eine zentrale Moschee in München (Initiative: Werner Lederer-Piloty)
+- TOP .1.: Erweiterung einer Freischankfläche, Friedrichstr. 30
+- TOP .2.: Genehmigung einer Freischankfläche, Marktstr. 15
+- TOP .3.: Aufstellung einer Warenstellage, Herzogstr. 12
+- TOP .4.: Genehmigung einer Freischankfläche, Haimhauser Str. 11
+- TOP .5.: Erweiterung einer Freischankfläche, Helmtrudenstr. 1
+- TOP .6.: Genehmigung einer Freischankfläche, Franzstr. 5
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Osterwaldstr. 76, Flurstück 1069/0, 1 Weide, 1 Lärche, 3 Akazien
+- TOP .2.: Wilhelmstr. 9, Flurstück 407/26, 1 Silberahorn
+- TOP .3.: Dietlindenstr. 15, Flurstück 1215/20, 1 Traubenkirsche
+- TOP .1.: Neugestaltung des Platzes am Harkortweg: Erneuerungsmaßnahmen mit Neuprofilierung der Heinrich-Groh-Straße: 1. Projektgenehmigung, 2. Genehmigung zur Durchführung der vorbereitenden Maßnahmen: Anhörung zum Beschlussentwurf für die Vollversammlung vom 27.07.2011
+- TOP .2.: Umgestaltung Heinrich-Groh-Straße und Platz
+- TOP .3.: Fortschreibung der Erhaltungssatzung ?Milbertshofen? - Anhörung zum Beschlussentwurf für die Vollversammlung
+- TOP .4.: Schaffung von Ersatzwohnraum im gleichen Stadtviertel; Antrag des BA 1 Altstadt-Lehel mit der Bitte um Unterstützung (siehe auch C.3.1)
+- TOP .5.: Bauvorhaben (Tektur): Franz-Joseph-Str. 2, Flurstück 4441/1, Anbau Treppenhaus, Abbruch und Schließung altes Treppenhaus, Nutzungsänderungen und DG-Ausbau
+- TOP .6.: Bauvorhaben: Kaulbachstraße 63.-63a, Furstück 3339/0, Neubau einer Wohnanlage mit Tiefgarage
+- TOP .1.: Kündigung des Nutzungsverhältnisses und Abriss von Haus 49 (Domagkstraße 33), Domagkateliers (2)
+- TOP .2.: Langfristige Sicherung einer Künstlerszene an der Domagkstraße sowie Kündigung des Nutzungsverhältnisses und geplanter Abbruch von Haus 49 (Domagkstraße 33), Domagkateliers
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Ungererstraße ggü. Hausnr. 90: Fällung eines Spitzahorn als Gefahrenbaum
+- TOP .1.: Workshop zur Neugestaltung der Münchner Freiheit; BA-Antrag 08-14 / B 01671 Zwischennachricht des Referates für Stadtplanung und Bauordnung vom 18.05.2011 (siehe auch TOP B.5.3.2.)
+- TOP .2.: Baumaßnahmen der Stadtwerke München a) Stromprojekt Leopoldstraße 21 b) Fernwärmeprojekt Rümannstr. 68
+- TOP .3.: Werbenutzungsvertrag der Landeshauptstadt München (Stellungnahmen der Bezirksausschüsse zum Schreiben des BA 12 vom 20.04.2011 an das Referat für Arbeit und Wirtschaft) a) Bezirksausschuss 1 Altstadt-Lehel b) Bezirksausschuss 3 Maxvorstadt c) Bezirksausschuss 17 Obergiesing-Fasangarten d) Bezirksausschuss 15 Trudering-Riem e) Bezirksausschuss 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- TOP .4.: Handlungsprogramm Mittlerer Ring; Weiterer Planungsbedarf ? Fortschreibung des Handlungsprogramms; Beschluss des Ausschusses für Stadtplanung und Bauordnung Sitzungsvorlagen Nr. 08-14 / V 02675, (siehe auch B.5.3.5.)
+- TOP .5.: Baugenehmigung; Wurzgartenweg 17, Fl.Nr. 309/402, Neubau eines Doppelhauses mit Garagen - Haus 2
+- TOP .6.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007? und Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz. 2 Nr. 1 und Nr. 2 BauGB, Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011; Sitzungsvorlagen Nr. 08-14 / V 06796
+- TOP .7.: Bebauungsplan mit Grünordnung Nr. 2031a, Freisinger Landstr. (östlich), Garchinger Mühlbach bis Ostgrenze des Flurstücks Nr. 545 (Schreiben des Planungsreferates vom 27.05.2011 zur Stellungnahme des BA 12 vom 10.05.2011)
+- TOP .8.: PERSPEKTIVE MÜNCHEN ? Fortschreibung 2011: Leitmotiv, strategische Leitlinien, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 mit Änderungsantrag der Fraktion DIE LINKE; Sitzungsvorlagen Nr. 08-14 /V 06446
+- TOP .9.: Freiflächengestaltungsplan zum Bauvorhaben Georg-Muche-Straße / Marcel-Breuer-Straße: Neubau eines Kinderhauses mit 7 Krippen-, 2 Kindergarten- und 1 Hortgruppe, Arztpraxen, Verwaltungsbüros und einer Betriebsleiterwohnung
+- TOP .10.: Baugenehmigung; Seidelbaststr. 11, Fl.Nr. 580/114, An- und Umbau eines Einfamilienhauses
+- TOP .11.: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung ? Änderung der BA-Satzung; Antrag des BA 1 Altstadt-Lehel (s. auch C.5.3.2)
+- TOP .12.: Denkmalliste Landeshauptstadt München, Feilitzschstr. 7 und 9: Ergebnis der Prüfung durch das Bayerische Landesamt für Denkmalpflege
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
