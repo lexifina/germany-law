@@ -1,0 +1,51 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-07-05T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2206831
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2206831
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 2: Anträge
+- TOP 2.1.: Floßlände - "Plattler"
+- TOP 2.2.: Kita Waterloostraße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse; Innere Mission München - Diakonie in München und Oberbayern e.V. - Sommerfest am 13.07.2011
+- TOP 3.2.: Keine Frist für Budgetanträge unter 1000.- ?
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Erweiterung Mobilfunkstation
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Verkehrssituation Wilhelm-Leibl-Straße
+- TOP 5.2.: Behindertenparkpaltz Seumestraße
+- TOP 5.3.: Verkehrssituation Schäftlarnstraße
+- TOP 5.4.: Allgemeiner Behindertenparkplatz Luganoweg 8
+- TOP 5.5.: Personenbezogener Behindertenparkplatz Luganoweg
+- TOP 5.6.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 5.7.: Radweg Graubündener Straße
+- TOP 5.8.: Umgestaltung Herterichstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: städt. Bezuschussung für "Treff und Tee"
+- TOP 7.2.: Mittagsbetreuung in der Herterichschule
+- TOP 7.3.: Kinder - und Jugend BA ( Stand der Anträge)
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Pumptrack Anlage mit Dirtline-Elementen in der Herterichstraße
+- TOP 8.2.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 19 Thalkirchen-Obersendling-Forsteried-Fürstenried-Solln Widmung von Teilstrecken der Königswieser Straße
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Leistungsprogramm der MVG für die Fahrplanperiode 2012
+- TOP 9.2.: Straßenbenennung im ehemaligen Siemens Areal
+- TOP 9.3.: Zweckentfremdungen
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
