@@ -1,0 +1,52 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2011-07-06T17:00:00+02:00
+- Ende: 2011-07-06T20:31:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1789
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1789
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Niederschrift - Zur Kenntnis genommen
+- TOP 3: Hochschule Niederrhein - Kenntnisnahme
+- TOP 4: Demografiemanagement - Ohne Abstimmung
+- TOP 4.1: Demographiemanagement - Zur Kenntnis genommen
+- TOP 5: Dienstreise von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 6: Anpassung von Gesellschaftsverträgen und Satzungen - Einstimmiger Beschluss
+- TOP 7: Anpassung von Gesellschaftsverträgen und Satzungen - Einstimmiger Beschluss
+- TOP 8: Änderung des Gesellschaftsvertrages der GWSG - Einstimmiger Beschluss mit einer Enthaltung
+- TOP 9: Vertretung der Stadt in Organen von Gesellschaften - Zur Kenntnis genommen
+- TOP 10: Vertretung der Stadt MG in Organen von Beteiligungen - Zur Kenntnis genommen
+- TOP 11: Optimierung des Ausschüttungsverhaltens - Einstimmiger Beschluss
+- TOP 12: Bekanntgabe des Abschlussergebnisses - Mit Stimmenmehrheit beschlossen
+- TOP 13: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 14: Beteiligung der NVV AG an der NEW Netz GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 15: Beteiligung der NVV AG an der Stadtwerke Tönisvorst - Mit Stimmenmehrheit beschlossen
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2011 - Kenntnisnahme
+- TOP 17: Beratung des Entwurfs des 2. Nachtrags für das Haushaltsjahr 2011 - Mit Stimmenmehrheit beschlossen
+- TOP 18: Umgestaltung der Abfallumladestelle Heidgesberg auf Gefälleverladung - Einstimmiger Beschluss
+- TOP 19: Wahl der Jurymitglieder zur Preisvergabe „Umweltgerechtes Bauen“ - Zur Kenntnis genommen
+- TOP 20: Umsetzung HSK-Nr. 2010-0062 – Übertragung der Jugendverkehrsschule an Dritte - Mit Stimmenmehrheit beschlossen
+- TOP 21: Interkommunale Zusammenarbeit im Bereich der Beihilfesachbearbeitung für Lehrer/innen - Einstimmiger Beschluss
+- TOP 22: Mittagsverpflegung an Schulen - Einstimmiger Beschluss
+- TOP 23: OGS im Primarbereich - Bericht Anpassung Pauschalbeträge - Einstimmiger Beschluss
+- TOP 24: Mahlzeitendienste - Mit Stimmenmehrheit beschlossen
+- TOP 25: Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 26: Festlegung des Standortes für den Neubau einer 4-gruppigen Tageseinrichtung - Einstimmiger Beschluss
+- TOP 27: Ausbauplanung der Betreuungsplätze für Kinder im Vorschulalter - Einstimmiger Beschluss
+- TOP 28: Masterplan für Mönchengladbach - Zur Kenntnis genommen
+- TOP 29: Bebauungsplan Nr. 714/S - Stresemannstraße - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 695/N (ehemals 695/III) - Stadtbezirk Nord - Einstimmiger Beschluss
+- TOP 31: Jahresabschluss 2010 der Gebäudereinigung der Stadt Mönchengladbach (GSM) - Einstimmiger Beschluss
+- TOP 32: Brunnenpaten - Brunnenstilllegung - Mit Stimmenmehrheit beschlossen
+- TOP 33: Straßenbenennungen im Bereich des BP Nr. 698/W (Gladbacher Straße / Dahlener Heide) - Zur Kenntnis genommen
+- TOP 34: Reduzierung von Standards in der Grünpflege - Ohne Abstimmung
+- TOP 34.1: Unterhaltungs- und Pflegemaßnahmen bei Grün - Mit Stimmenmehrheit beschlossen
+- TOP 35: Anfragen - Zur Kenntnis genommen
+- TOP 45: Bestellung eines Bezirksverwaltungsstellenleiters - Mit Stimmenmehrheit beschlossen
