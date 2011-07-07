@@ -1,0 +1,85 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-07-07T17:00:00+02:00
+- Ende: 2011-07-07T19:28:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3582
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3582
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161960.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161960.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161960.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde
+- TOP 2: Anerkennung Tagesordnung
+- TOP 3: Genehmigung Niederschrift
+- TOP 4: Radweg Reisholzer Straße
+- TOP 5: Verunreinigung von Grundwasser und Fließgewässern im Stadtbezirk 8
+- TOP 6: Umbau Kinderspielplatz Fuldaer Straße
+- TOP 7: Verkehrsentlastung Sturmstraße
+- TOP 8: Spezialmarkt "Düsseldorfer Herbstfestival" im Schloss Eller und auf dem Gelände des Schlosses Eller
+- TOP 9: Ladezone Am Strasserfeld 4
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Zuschüsse der Bezirksvertretung 8 im Jahre 2011
+- TOP 12: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8
+- TOP 13: Kanalbaumaßnahmen im Stadtbezirk 8
+- TOP 14: Musikkindergarten im Stadtbezirk 8
+- TOP 15: Grundstück Karl-Geusen-Straße 171
+- TOP 16: Verkehrsschilder Rothenbergstraße
+- TOP 17: Bushaltestelle und -linienführung Kamper Weg
+- TOP 18: Aufbauten Am Menzelsee
+- TOP 19: Diamorphin - Abgabestelle
+- TOP 20: Rheinbahn - Betriebshöfe
+- TOP 21: Jugendfreizeitstätte Kuthsweg
+- TOP 22: Behindertengerechter Umbau von Haltestellen
+- TOP 23: Verkehrsregelung Sturmstraße / Marburger Straße / Gurkenland
+- TOP 24: Gefahrenstelle Gleisanlage Fußweg Festenbergstraße / Parkplatz Eller-Mitte
+- TOP 25: Kinderspielplatz Ellerkirchstraße
+- TOP 26: Begrenzung Schlosspark Eller
+- TOP 27: Bahngelände Eller Kamp / Am Hackenbruch
+- TOP 28: LKW-Verkehr im Bereich Posener Straße
+- TOP 29: Buslinie 732
+- TOP 30: Fahrbahnbelag Karl-Geusen-Straße
+- TOP 31: Grünfläche Fuß- / Radweg Karlsruher Straße
+- TOP 32: Gehweg Sturmstraße
+- TOP 33: Grünfläche Am Dammsteg
+- TOP 34: Parkplatz Eller-Mitte
+- TOP 35: Plangebiet Am Kleinforst
+- TOP 36: Bushaltestelle In den Maisbanden
+- TOP 37: Gehweg Ellerkirchstraße 3 - 7
+- TOP 38: Querungshilfe Eller Kamp / Reichenbacher Weg
+- TOP 39: Tempo 30 - Zone Eller Kamp
+- TOP 40: Containerstandort Reichenbacher Weg / Eller Kamp
+- TOP 41: Bürgerinformation Einwohnerfragestunde und Stadtbezirkskonferenz
+- TOP 42: Öffentlicher Bücherschrank im Stadtbezirk 8
+- TOP 43: Lärmaktionsplanung
+- TOP 44: Information über Bauvorhaben im Stadtbezirk 8
+- TOP 45: Stadtteilprojekte der Fachhochschule im Stadtbezirk 8
+- TOP 46: Radroute zw. Schlesische Straße und Bahnübergang Am Hackenbruch
+- TOP 47: Verkehrsfläche Am Turnisch / Reisholzer Straße
+- TOP 48: BürgerInnennahe Politik in der Bezirksvertretung 8
+- TOP 49: Skatepark Heidelberger Straße
+- TOP 50: Nebengebäude Schloss Eller
+- TOP 51: Zugangsbeschilderung S-Bahnhof Eller-Mitte
+- TOP 52: Bereitstellung eines Spielmobils
+- TOP 53: Einmündung Deutzer Straße / A46
+- TOP 54: Fahrbahnmarkierungen im Stadtbezirk 8
+- TOP 55: Umgestaltung der Verkehrsfläche Am Turnisch / Reisholzer Straße
+- TOP 56: Barrierefreier Ausbau Endhaltestelle Vennhauser Allee
+- TOP 57: Parkplatz Festenbergstraße
+- TOP 58: Bordsteinabsenkung Neusalzer Weg
+- TOP 59: Lärmentwicklung Bahnanlage Dillenburger Weg
+- TOP 60: LKW - Parken in Wohngebieten
+- TOP 61: Fenstererneuerung Gerresheimer Landstraße 101
+- TOP 62: Unterirdische Containerstationen im Bereich Veenpark und Markusquartier
+- TOP 63: Kinderspielplatz Bunzlauer Weg / Sandträgerweg
+- TOP 64: Toilettenanlage Wasserspielplatz Tannenhofweg
+- TOP 65: Toilettenanlage Wasserspielplatz Schlosspark Eller
+- TOP 66: Erweiterte Nutzung der Neuen Medien in Grundschulen
+- TOP 67: Bildungs- und Teilhabepaket (BuT) für Kinder und Jugendliche aus einkommenschwachen Familien
+- TOP 68: Geplante Kanalbaumaßnahmen im Stadtbezirk 8, 2011 bis 2016
