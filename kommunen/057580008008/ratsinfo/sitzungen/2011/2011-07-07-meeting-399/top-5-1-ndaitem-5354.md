@@ -1,0 +1,7 @@
+# TOP 5.1: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Ausschuss für öffentliche Sicherheit, Ordnung, Umwelt und Verkehr (4. Sitzung) (2011-07-07)
+- Körperschaft: Stadt Enger
+- Öffentlich: ja
+- OParl: https://enger.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/5354
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
