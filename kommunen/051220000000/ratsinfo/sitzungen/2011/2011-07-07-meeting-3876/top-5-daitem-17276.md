@@ -1,0 +1,6 @@
+# TOP 5: Vorberatung der Gesellschafterversammlung der Institut für Galvano- und Oberflächentechnik Solingen GmbH am 21. Juli 2011
+
+- Sitzung: Beteiligungsausschuss (2011-07-07)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/17276
