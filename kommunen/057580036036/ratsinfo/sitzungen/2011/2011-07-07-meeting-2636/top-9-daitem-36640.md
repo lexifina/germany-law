@@ -1,0 +1,6 @@
+# TOP 9.: "Vereinsarbeit erfolgreich gestalten" Veranstaltungsreihe in Zusammenarbeit mit dem AKE - Bildungswerk
+
+- Sitzung: Ausschuss für Soziales, Senioren, Integration und Gleichstellung (4. Sitzung) (2011-07-07)
+- Körperschaft: Stadt Vlotho
+- Öffentlich: ja
+- OParl: https://vlotho.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/36640
