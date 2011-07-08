@@ -1,0 +1,57 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-07-08T16:00:00+02:00
+- Ende: 2011-07-08T17:55:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4845
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4845
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161992.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161992.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00161992.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Vorstellung Geschäftsführer Bädergesellschaft
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Steinkaul 27 - Sanierung des Schulgebäudes und Errichtung eines Ersatzneubaus - einstimmig beschlossen
+- TOP 8: Anfrage: Sanierung Grundschule Himmelgeist - beantwortet
+- TOP 9: Masterplan Energieeffiziente Straßenbeleuchtung - einstimmig beschlossen
+- TOP 10: Behindertengerechte Toilette am Benrather Marktplatz - vertagt
+- TOP 11: Parkscheibenregelung Prof.-Oehler-Str. - einstimmig beschlossen
+- TOP 12: Info-Vorlage Umbau des Waldspielplatzes im Hasseler Forst - zur Kenntnis genommen
+- TOP 13: Interfraktionelle Anfrage: Denkmal Angerstraße 101 in Urdenbach - vertagt
+- TOP 14: Interfraktionelle Anfrage: Ausbildungs- und Qualifizierungszentrum Benrath - beantwortet
+- TOP 15: Anfrage: Kreuzungsbereich Cäcilienstraße / Münchener Straße / Bayreuther Straße - beantwortet
+- TOP 16: Anfrage: Entwicklung der ordnungsrechtlichen Verstöße in Himmelgeist - vertagt
+- TOP 17: Anfrage: Information und Werbung für Bildungspaket - beantwortet
+- TOP 18: Antrag: Betreuung von Unter-Dreijährigen in Itter und Himmelgeist - beantwortet
+- TOP 19: Anfrage: Schulmensen in den Gymnasien Koblenzer Str, Schlossgymnasium und Anette-von-Droste-Hülshoff - vertagt
+- TOP 20: Antrag: Radweg Bonner Str. / Uferstr. - beantwortet
+- TOP 21: Anfrage: Hundeauslauffläche BV 9 - beantwortet
+- TOP 22: Anfrage: Straßenschädenbehebung - beantwortet
+- TOP 23: Anfrage: Zugang Spielplatz Corelli-/Franz-Liszt-Str. - beantwortet
+- TOP 24: Antrag: Schallpegelmessung an der Münchener Str./Mendelweg - einstimmig beschlossen
+- TOP 25: Antrag: Schulwegsicherung Am Falder/Itterstraße/Kaldenberger Str. - einstimmig beschlossen
+- TOP 26: Antrag: Hinweisschilder Münchener Straße nach Itter-Nord und Himmelgeist - einstimmig beschlossen
+- TOP 27: Antrag: Grill- und Partymarathon an den Rheinufern - zurückgezogen
+- TOP 28: Antrag: Hassels Nord - Kompensation für "Sozialpfarrer" - einstimmig beschlossen
+- TOP 29: Antrag: LKW-Durchfahrtsverbot Henkelstraße
+- TOP 30: Antrag: Verfügungsmittel Verein der Freunde und Förderer der Mosaikschule - mehrheitlich beschlossen
+- TOP 31: Antrag: Verfügungsmittel Chorverband Düsseldorf e.V. - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Seniorenbeirat für den Stadtbezirk 9 - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel Diakonie Netzwerk Benrath - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel St. Sebastianus Schützenbruderschaft - einstimmig beschlossen
+- TOP 35: Antrag: Verfügungsmittel Sankt Hubertus - mehrheitlich beschlossen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Antrag: Verfügungsmittel Förderkreis Düsseldorf-Wersten - einstimmig beschlossen
+- TOP 38: Info-Vorlage: Erweiterte Nutzung der Neuen Medien - zur Kenntnis genommen
+- TOP 39: Sicherheit im Schlosspark Benrath - zur Kenntnis genommen
+- TOP 40: Bericht zum Gutshof Niederheid - zur Kenntnis genommen
