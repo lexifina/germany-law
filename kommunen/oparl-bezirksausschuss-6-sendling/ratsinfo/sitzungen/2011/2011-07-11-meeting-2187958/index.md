@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-07-11T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2187958
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2187958
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Ortskern Sendling; Beschluss des Landesdenkmalsrates
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Plinganserstr. 27 - 31; Grundstück zum Bau eines Clearinghauses
+- TOP 3.2.: Steinerstraße 20; Wohnheim der Heilsarmee
+- TOP 4: Schulreferat
+- TOP 4.1.: Baumaßnahme des Referates für Bildung und Sport auf dem Gelände in der Meindlstraße
+- TOP 4.2.: Jeneplan-Schule und FOS / BOS im Anwesen Lipowskystraße 15
+- TOP 5.1.: Caf'e Kitchenette Plinganserstr. 38a; Erweiterung der Freischankfläche
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Lindwurmstraße 175; mobiler Fahrradständer
+- TOP 6.2.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 6.3.: Tempo 30 / 40 in Hauptverkehrsstraßen / Erschließungsstraßen
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Förderkreis der Berufsschulen für den Einzelhandel München e.V. Tanzprojekt "Anna tanzt" am 27./28.07.2011 - <div>Zustimmung, mehrheitlich</div>
+- TOP 7.2.: Budgetantrag des HC Wacker München e. V., Jubiläumsfeier; ? 5000,-
+- TOP 7.3.: Maibaum-Fundament in der Implerschule anl. Schuljubiläum
+- TOP 7.4.: BA-Budget; keine Frist für Budgetanträge bis ? 1.000,-
+- TOP 7.5.: Keine parteipolitische Betätigung auf der städtischen Internetseite
+- TOP 7.6.: Oktoberfest 2011; Reservierung der BAs
+- TOP 7.7.: (E) Budget der Bezirksausschüsse HC Wacker München e.V. Aktivitäten zum 100jährigen Jubiläum - <div>Zuschuss ? 2250,- Zustimmung, einstimmig</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Kidlerstr. 34
+- TOP 8.3.: Bauvorhaben Thalkirchner Str. 186
+- TOP 8.4.: Bauvorhaben Flößergasse 2
+- TOP 8.5.: Bauvorhaben Meindlstr. 5
+- TOP 8.6.: Bebauungsplan Stemmerhof
+- TOP 8.7.: Rahmenplanung zum Schutz und zur Entwicklung der eiszeitlichen Hangkante in Sendling von der Hans-Fischer-Straße bis zu den Neuhofener Anlagen - <div>zur Kenntnis genommen</div>
+- TOP 8.8.: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn
+- TOP 8.9.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 8.10.: Markthallen München; Frühzeitige Befassung des Bezirksausschusses bei der Definition des Umgriffs des städtebaulichen Gesamtkonzeptes - <div>zur Kenntnis genommen</div>
+- TOP 9: Baureferat
+- TOP 9.1.: Albert-Roßhaupter-Straße zwischen Meindlstraße und Partnachplatz; Erneuerungsmaßnahme mit Verbesserung
+- TOP 9.2.: Rasenflächen am Bahndeckelspielplatz
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Schanzenbachstraße 5 - 13
+- TOP 10.2.: Baumfällung Karwendelstraße 48 (am Spielplatz)
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Spielplatz an der Dreimühlen- / Lagerhausstraße
+- TOP 12.2.: Schaffung von neuem Wohnraum im MK6 des Sendlinger Dreiecks durch Umwandlung von Büro- in Wohnflächen
+- TOP 13: Verschiedenes
+- TOP 13.1.: Freizeitsport auf der Theresienwiese
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
