@@ -1,0 +1,116 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-07-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170433
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170433
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bürgeranliegen: 1. Baustelle Kinderkrippe Violenstraße 2. Fahrradfahren in der Schröfelhofstraße
+- TOP 1.2.: Bolzplatz Stiftsbogen 15 a
+- TOP 1.3.: Hallenbelegung an der Schule Am Hedernfeld für den TSV Großhadern
+- TOP 1.4.: Vermüllung Haderner Stern
+- TOP 1.5.: Einsatz von Laubbläsern - zum Schreiben des Referates für Gesundheit und Umwelt vom 03.05.2011
+- TOP 1.6.: Anträge / Anfragen des Geschichtsvereins Hadern e.V.
+- TOP 1.7.: Verstopfter Gully in der Blumenau
+- TOP 1.8.: Verbesserung der Verkehrssicherheit: 1. Filiale HypoVereinsbank in der Würmtalstraße 124 2. Radweg an der Sauerbruchstraße im Bereich südlich Prälat-Wellenhofer-Straße
+- TOP 1.9.: Reparatur Verbindungsweg zwischen Blumenauer Straße und Wastl-Witt-Straße
+- TOP 1.10.: Hinweisschild auf die Lukas-Grundschule an der Waldwiesenstraße / Haderunstraße
+- TOP 1.11.: Schließung der Netto-Filiale in der Gelbhofstraße
+- TOP 1.12.: Fußgängergefährdung auf dem Gehweg Kornwegerstraße 51 a
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Bezirkssportanlage am Wolkerweg
+- TOP 4.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Regsam e.V., Blumenauer Sommerfest am 23.07.2011 (Direktorium, 07.06.11)
+- TOP 5.2.: Budget der Bezirksausschüsse, FT München-Blumenau von 1966 e.V., Kauf eines Tischtennis-Roboters (Direktorium, 31.05.11)
+- TOP 5.3.: Budget der Bezirksausschüsse, Kirchenstiftung Erscheinung des Herrn, Festkonzert am 09.10.2011 (Direktorium, 20.06.11)
+- TOP 5.4.: Budget der Bezirksausschüsse, Kukita Großhadern GmbH & Co KG, Kauf eines Gartenspielgerätes (Direktorium, 20.06.11)
+- TOP 5.5.: Budget der Bezirksausschüsse, Verein zur Förderung der Waldorfpädagogik im Münchner Süden e.V., Errichtung einer Beschattung für eine Sandspielfläche (Direktorium, 20.06.11)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: BA-Budget: Keine Frist für Budgetanträge bis 1.000,- ?, Antrag BA 5 Au-Haidhausen (Direktorium, 08.06.11)
+- TOP 6.2.: Stadtjugendamt / Förderung freier Träger, Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 06.06.11)
+- TOP 6.3.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung und den Kreisverwaltungsausschuss: Parkraummanagement in München - Fortschreibung Umsetzungskonzept (Referat für Stadtplanung und Bauordnung, 31.05.11)
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Wilhelm-Weitling-Straße, Anwohnerstraßenfest am 23.07.2011 (Kreisverwaltungsreferat, 07.06.11) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.5.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Blumenauer Straße, Blumenauer Sommerfest am 23.07.2011 (Kreisverwaltungsreferat, 09.06.11) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.6.: Veranstaltung auf städtischer Grünanlage, hier: Sommerfest des Haderner Sterns am 02. und 03.07.2011 (Kreisverwaltungsreferat, 21.06.11) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.7.: Gemeinde Planegg, Flächennutzungsplan-Änderung Nr. 16 für das Gebiet FlNr. 373/25, 627 und 628 (Referat für Stadtplanung und Bauordnung, 20.06.11)
+- TOP 6.8.: Verfahren nach § 4 Abs. 1 BauGB Gemeinde Neuried Bebauungsplan Nr. 11 a "Südlich der Gautinger Straße"; 1. Änderung (Referat für Stadtplanung und Bauordnung, 28.06.11)
+- TOP 6.9.: Verfahren nach § 4 Abs. 1 BauGB Gemeinde Neuried Flächennutzungsplan - Änderung Nr. 14 vom 17.05.2011 (Referat für Stadtplanung und Bauordnung, 28.06.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Am Waldspitz 1 a, gem. Baumbestandsplan Nr. 106923
+- TOP 7.2.: Schloss-Prunn-Straße 8, 1 Fichte und 1 Douglasie
+- TOP 7.3.: Waldwiesenstraße 14, 1 Fichte / Tanne
+- TOP 7.4.: Violenstraße 7, 1 Tanne
+- TOP 7.5.: Schröfelhofstraße 11, 2 Schwarzkiefern
+- TOP 7.6.: Gräfelfinger Straße 53, 1 Birke
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Unveränderte Fortführung einer Gaststätte: - "Winners", Senftenauerstraße 97 (Kreisverwaltungsreferat, 06.06.11)
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Arnikaweg (Sozialreferat, 26.05.11) - Kleinhaderner Straße (Sozialreferat, 09.06.11) - Alpenveilchenstraße (Sozialreferat, 10.06.11)
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München, hier: Schröfelhofstraße - Strom (SWM, 15.06.11)
+- TOP 8.4.: Beteiligung der Öffentlichkeit, Frühzeitige Unterrichtung gem. § 3 Abs. 1 BauGB, Planungsgebiet: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2054, Sauerbruchstraße (westlich) Planungsdarlegung vom 27.06. - 27.07.2011 (Referat für Stadtplanung und Bauordnung, 15.06.11)
+- TOP 8.5.: Flächennutzungsplan mit integrierter Landschaftsplanung, Neuauflage des FNP-Faltblatts (Referat für Stadtplanung und Bauordnung, 17.06.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Münchner Wochenmärkte Öffnungszeit Wochenmarkt Heiglhofstraße (Kommunalreferat, Markthallen München, 25.05.11)
+- TOP 9.2.: Schröfelhofstraße, Anfrage wegen Wegverbreiterung (Referat für Stadtplanung und Bauordnung, 25.05.11)
+- TOP 9.3.: Optimierter Regiebetrieb Kindertagesstätten, Quartierseinteilungen (Referat für Bildung und Sport, 26.05.11)
+- TOP 9.4.: Integration einer Kindergartengruppe in Hadern und Anfrage: Verlegung des 1-gruppigen Kindergartens Würmtalstraße 126; Räume für den Geschichtsverein Hadern e.V. (Referat für Bildung und Sport, 21.05.11 und 03.06.11)
+- TOP 9.5.: Lichtzeichenanlage Großhaderner- / Würmtalstraße - Nachtabschaltung - (Kreisverwaltungsreferat, 30.05.11)
+- TOP 9.6.: Grundschule Am Hedernfeld 42 - 44; - Montage einer Informationstafel an der Schule - Geruchsbelästigung in der Sporthalle (Referat für Bildung und Sport, 16.06.11)
+- TOP 9.7.: Tempo 30 km/h nachts in der Senftenauerstraße (Kreisverwaltungsreferat, 20.06.11)
+- TOP 9.8.: Zusätzlicher Raum für die Mittagsbetreuung an der Grundschule an der Blumenauer Straße für das Schuljahr 2010/2011
+- TOP 9.9.: Mittagsbetreuung an der Schule an der Blumenauer Straße
+- TOP 9.10.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: SHZ-Rundbrief einBlick 02/2011 ist online (Selbsthilfezentrum München, 01.06.11)
+- TOP 11.2.: Anträge des BA 1 Altstadt-Lehel: - Schaffung von Ersatzwohnraum im gleichen Stadtviertel - Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung
+- TOP 11.3.: Protokoll des 10. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 25.05.2011 neuer Termin: Mittwoch, 21.07.2011 (Gleichstellungsstelle für Frauen, 09.06.11)
+- TOP 11.4.: Oktoberfest 2011, Reservierungen der BAs (Direktorium, 17.06.11)
+- TOP 11.5.: Stadtradeln 2011: Gemeinsam radeln fürs Klima! (Bürgermeister Monatzeder, 27.06.11)
+- TOP 11.6.: Einladung zum Fachforum "Mikro-KWK" am Mittwoch, 13.07.2011 (Referat für Gesundheit und Umwelt, 27.06.11)
+- TOP 11.7.: Einladung zum Fachforum "Wärme aus Erdreich und Grundwasser" am Donnerstag, 14.07.2011 (Referat für Gesundheit und Umwelt, 27.06.11)
+- TOP 11.8.: Einladung zum Fachforum "Neue jährliche Prüfpflicht für Trinkwasseranlagen" am Donnerstag, 21.07.2011 (Referat für Gesundheit und Umwelt, 29.06.11)
+- TOP 11.9.: Einladung zum Fachgespräch "Barrierefreiheit für Jung und Alt" am Dienstag, 19.07.2011 (Referat für Gesundheit und Umwelt, 06.07.11)
+- TOP 11.10.: Einladung zum Fachforum "Mechanische Belüftung von (Wohn-)Gebäuden" am Mittwoch, 27.07.2011 (Referat für Gesundheit und Umwelt, 06.07.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 18.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06248 (nach Antrag): Siedlungsentwicklung und Infrastrukturversorgungskonzept für München im Zeitraum 2011 - 2015 (Hadern ist nicht erwähnt.)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06756: Bezahlbaren Wohnraum in München erhalten - Förderung von Genossenschaften
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06385: Bau einer Tiefgarage an der neuen U-Bahnhaltestelle Martinsried (Nach Gespräch mit der Gemeinde Planegg wird der Bau eines P+R-Platzes mit bis zu 100 Stellplätzen angestrebt.)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06605: Überprüfung des Bedarfsplans für die Bundesschienenwege
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06618: Generalplan für Fahrradabstellplätze
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06782: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2054 im beschleunigten Verfahren gem. § 13a BauGB: Sauerbruchstraße (westlich) - Aufstellungsbeschluss - Der BA Hadern hat am 09.05.2011 zugestimmt (S. 9, Anlage 5). Auf die "Hinweise für den zukünftigen Bauherrn" wird Bezug genommen (Schreiben vom 10.05.2011, Anlage 5).
+- TOP 12.6.: Hinweis / Ergänzung vom 23.05.2011 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06560: Regionale Klimaprognosen bei langfristiger Siedlungsentwicklung berücksichtigen
+- TOP 12.7.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06766: Genossenschaftsidee fördern I Genossenschaftlichen Wohnungsbau weiter stärken
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07031: Kindertagesstätten sonstiger Träger; Haus für Kinder Heiglhofstraße 5 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Leistung eines Baukostenzuschusses nach dem BayKiBiG (30.000,- ? aus Mitteln des Freistaates Bayern)
+- TOP 12.2.: Beschluss des Ausschusses für Bildung und Sport vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06936: Kindertagesstätten sonstiger Träger; Kinderkrippe Sauerbruchstraße 8 Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Leistung eines Baukostenzuschusses nach dem BayKiBiG (308.871,- ?, wovon der Freistaat Bayern 240.000,- ? trägt)
+- TOP 12.3.: Beschluss des Ausschusses für Bildung und Sport vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06989: Kindertagesstätten sonstiger Träger; Kinderkrippe Guardinistraße 33 Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 (2.237.016,- ?, wovon der Freistaat Bayern 1.615.000,- ? trägt)
+- TOP 12.4.: Beschluss des Kreisverwaltungsausschusses vom 07.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06878: "Dialog-Display" in München
+- TOP 12.5.: Beschluss des Kreisverwaltungsausschusses vom 07.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06885: Tempo 30 / 40 in Hauptverkehrsstraßen / Erschließungsstraßen, insbesondere zu den Geschwindigkeitsbeschränkungen in der Blumenauer Straße (zwischen Terofal- und Wastl-Witt-Straße) und in der Senftenauer Straße (zwischen Menari- und Josef-Schick-Straße) aus Gründen der Schulwegsicherheit (S. 4, Abschnitt 2.3) sowie in der Tischler- / Sauerbruchstraße aus Gründen der Verkehrssicherheit (S. 5 - 6, Abschnitt 2.4)
+- TOP 12.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06873: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 12.7.: Hinweis / Ergänzung vom 26.05.2011 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06796: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB, insbesondere zur "Lukas-Schule" (Anlage 1, S. 1)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06446 (gemäß Änderungsantrag vom 25.05.2011): PERSPEKTIVE MÜNCHEN - Fortschreibung 2011 Leitmotiv, strategische Leitlinien, insbesondere zum Handlungsraum Nr. 2 "Romanplatz - Laim - Ratzingerplatz" entlang der Tram-West-Tangente (Anlage, S. 48). Für den Nordwesten und Nordosten Haderns wird eine "überdurchschnittliche soziodemografische Herausforderung" festgestellt (S. 21 der Anlage).
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 25.05.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06378 (nach Antrag): Regionsbericht 2010 (Hadern ist nicht erwähnt.)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
