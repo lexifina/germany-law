@@ -1,0 +1,7 @@
+# TOP 17: Quartalsbericht 1. Quartal 2011 der Technischen Betriebe Solingen
+
+- Sitzung: Haupt- und Personalausschuss (2011-07-12)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/28915
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/20934
