@@ -1,0 +1,21 @@
+# Bauleitplanung Wesseling- Keldenich, Bereich "Keldenicher Straße"
+
+- Körperschaft: Stadt Wesseling
+- Drucksache/Vorlage: 86/2011 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2011-07-12
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQFl7n67QPcAvSC2u-SjfZg
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/paper/40179
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bauleitplanung Wesseling- Keldenich, Bereich "Keldenicher Straße") https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeBynF4a1OUsMmpLT0m5SHo9H22-FQMakKixX_vJGWvA/Beschlussvorlage_86-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXURGN25lyesik3kE9JdYBCtu9-b6e1Gt_UbBZ_YX5Wu/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTWYD8wioTharhzXXY9V2sr0WkO0HxoyAxCKC9vbRexD/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXx4huLdF2u028G-OiGVuKu5E0DHjAqMu1WsKFeLzDNw/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVziPjkmHghT_1QBsTiGMSUc173G4-dDBmTL5VmISdZg/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcKwyYEzUI8vBoLjU0nMhPtney_ZXYFP0ol93BLhVbAK/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdpxkWr75ZiOQin877yitbl0yhgiegR3PYDT9e-Z8Ook/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfGlL-WHRmU2132N1e_EpIZ_9tOUCWMvRhFPL4piuJED/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZS6kpkkGZjtoWNSmtJ8mEB6IoeW4OEtrW_7mU8Z8x_je/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 86/2011) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb8cRfv2I1pyECerEBTqbKdHiaI-XzoXJnUzpt9uVr7K/Anlage_zur_Beschlussvorlage_86-2011.pdf
+- Beratung:  https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/3716 https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-147
+- underDirectionOf: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/3-51
