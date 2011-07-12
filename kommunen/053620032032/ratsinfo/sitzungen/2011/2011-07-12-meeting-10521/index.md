@@ -1,0 +1,68 @@
+# Stadtrat (16. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-07-12T17:00:00+02:00
+- Ende: 2011-07-12T22:41:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZVneA7cGCnLP-QCMg5_suoM
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10521
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdC3qjKVaeZUr8hmKUAr1V8GYIqkO7tKUFGdAFSCY9s6/Oeffentliche_Niederschrift_Stadtrat_12.07.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Kosten- und Finanzierung Städtebauliche Entwicklungsmaßnahme Vogelrutherfeld im Stadtteil Sindorf hier.Sachstandsbericht
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Neubau der Mehrzweckhalle Blatzheim hier: Zeitplanung
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Umbesetzung des Ausschusses für Stadtplanung und Verkehr hier: Antrag des Seniorenbeirates
+- TOP 4.2: Umbesetzung von Ausschüssen; hier: Antrag der CDU-Fraktion
+- TOP 5.: Änderung des öffentlich-rechtlichen Vertrages zwischen dem Rhein-Erft-Kreis und der Stadt Kerpen über den Betrieb der Kreisleitstelle
+- TOP 6.: Auswirkungen durch den Wegfall des Wehr- und Zivildienstes
+- TOP 7.: Änderung der Wahlordnung zur Bildung des Bürgerbeirates Manheim vom 06.09.2006 hier: Verlängerung der Wahlzeit des Bürgerbeirates
+- TOP 8.: Hallenbad Kerpen
+- TOP 8.1: Künftige Nutzung des Neuen Hallenbades Kerpen
+- TOP 8.2: Technische Betreuung des Neuen Hallenbades Kerpen
+- TOP 9.: Realisierung des Klimacamps in Kerpen-Manheim
+- TOP 10.: Stadtentwicklung und Bauleitplanung
+- TOP 10.1: Aufhebung des Bebauungsplanes KE Nr. 4 im Stadtteil Kerpen und seiner rechtskräftigen Änderungen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 10.2: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K55/B477", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 10.3: Bebauungsplan BL 341 "Verkehrsspange K 55/B477n", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 10.4: Bebauungsplan BL 330 "Kunibertusstraße/Giffelsberger Weg", Stadtteil Blatzheim hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 10.5: Bebauungsplan KE Nr. 340 "Bachstraße" im Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 10.6: Bebauungsplan KE Nr. 340 „Bachstraße“; hier: Abschluss eines Erschließungsvertrages
+- TOP 10.7: 67. Änderung des Flächennutzungsplanes " Stiftsstraße", Stadtteil Kerpen hier: Aufstellungsbeschluss
+- TOP zu 8.7: 67. Änderung des Flächennutzungsplanes "Stiftsstraße", Stadteil Kerpen hier: Veräußerung der städtischen Liegenschaften im Bebauungsplangebiet KE 344 "Stiftsstraße"
+- TOP 10.8: Bebauungsplan KE 344 " Stiftsstraße ", Stadtteil Kerpen hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 10.9: Bebauungsplan KE Nr. 344 "Stiftsstraße" im Stadtteil Kerpen; hier: Abschluss eines städtebaulichen Vertrages gem. § 11 BauGB zur Übernahme von Planungskosten
+- TOP 10.10: Änderung des Regionalplanes zur Erweiterung des Gewerbegebietes Türnich III - Tauschflächen zur Kompensation der Flächenerweiterung
+- TOP 10.11: Stellungnahme der Stadt Kerpen zum Landschaftsplan 6/12.Änderung "Rekultivierte Ville"
+- TOP 11.: Konzept für die Sanierung des Europagymnasiums hier: Bereitstellung außerplanmäßiger Haushaltsmittel
+- TOP 12.: Vorgehensweise der Stadt Kerpen bezüglich § 61 a Landeswassergesetz NRW (Dichtheitsprüfungen an privaten Abwasserleitungen)
+- TOP 13.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 14.: Sponsoringbericht 2010
+- TOP 15.: Bedarfsplan Kindertagesbetreuung
+- TOP 16.: Bericht über ein Informationsgespräch mit Grundstückseigentümern der Hahnenstraße, Stadtteil Kerpen
+- TOP 17.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 18.: Mitteilungen
+- TOP 19.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 20.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 20.1: Gestaltung des Kreisverkehrplatzes Europaring/Visteonstraße
+- TOP 21.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 22.: Bericht über ein Informationsgespräch mit Grundstückseigentümern der Hahnenstraße, Stadtteil Kerpen
+- TOP 23.: Technische Betreuung des Neuen Hallenbades Kerpen
+- TOP 24.: Verkauf eines Grundstückes im Rahmen des Projektes "Horrem 2010" Im Gleisdreieck, am Bahnhof Horrem
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.1: Ernennung eines Stadtoberamtsrates zum Stadtverwaltungsrat
+- TOP 25.2: Ernennung einer Stadtverwaltungsrätin zur Stadtoberverwaltungsrätin
+- TOP 25.3: Ernennung einer Stadtoberamtsrätin zur Stadtverwaltungsrätin
+- TOP 25.4: Ernennung eines Stadtverwaltungsdirektor zum Leitenden Stadtverwaltungsdirektor
+- TOP 26.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 27.: Mitteilungen
+- TOP 28.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 29.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 30.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
