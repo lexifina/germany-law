@@ -1,0 +1,118 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-07-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205677
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205677
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .1.: NACHTRAG: Beschweren zu offenen Abfallbehältern
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: NACHTRAG: Veröffentlichung von Protokollen der öffentlichen BA-Sitzung im RIS - Internet
+- TOP .5: Allgemeine Themen
+- TOP .1.: Gespräch mit dem Amt für Wohnen und Migration zum Thema ?Zweckentfremdung von Wohnraum im Unterausschuss am 04.06.2011
+- TOP 1: (E) Neuhauser Str. 19; Karstadt am Dom, Joseph-Pschorr-Haus Wettbewerb zum Neubau der Rückseite zum Altheimer Eck Empfehlung Nr. 08-14 / E 00804 der Bürger- versammlung des Stadtbezirkes 1 ? Altstadt-Lehel am 30.11.2010
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Tal 32: Nutzungsänderung eines Möbelladens und -lagers in zwei Spielsalons
+- TOP 1.2.: Maximilianplatz 13: Nutzungsänderung im DG: Wohneinheiten zu Büroräumen
+- TOP 1.3.: Kapellenstraße 2 ? 4: Unterbau des Innenhofs mit einer Tiefgarage (vertagt aus 2011.06 B 3.1.3)
+- TOP 1.4.: Thierschplatz 6: Errichtung einer Freischankfläche
+- TOP 1.1.: BA: Heizstrahler
+- TOP 1.2.1: Gaststätten
+- TOP 1.1.: ?Vino Caffe?, Hochbrückenstraße 14: Erweiterung einer bestehenden Freischankfläche
+- TOP 1.2.: ?Salotto?, St.-Anna-Straße 11: Erweiterung einer bestehenden Freischankfläche
+- TOP 1.3.: ?El Gordo Loco?, Mariannenstraße 3: Erweiterung einer bestehende Freischankfläche
+- TOP 1.4.: Konditorei-Cafe ?Luitpold?, Briennerstraße 11: Genehmigung einer Freischankfläche
+- TOP 1.5.: ?Marktstadl?, Westenriederstr. 13: Genehmigung einer Freischankfläche
+- TOP 1.6.: Brotmanufaktur Schmidt, Triftstraße 4: Erweiterung einer bestehende Freischankfläche
+- TOP 1.7.: ?Sitar?, Robert-Koch-Straße 4: Erweiterung einer bestehende Freischankfläche
+- TOP 1.8.: ?Dean & David?, Tal 42: Erweiterung einer bestehende Freischankfläche
+- TOP 1.9.: ?Thalia's Paninoteca?, Christophstraße 7a: Genehmigung einer Freischankfläche
+- TOP 1.10.: NACHTRAG: Sperrzeitaufhebung ?59to1?, Sonnenstraße 27
+- TOP 1.2.2: Sondernutzungen
+- TOP 1.1.: Frauenstraße 44: Mobiler Fahrradständer
+- TOP 1.2.: Karlsplatz 5: Aufstellen von neuen Verkaufseinrichtungen
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Fränkisches Weinfest vom 29.07. bis 31.07.2011, Odeonsplatz
+- TOP 1.2.: Jugendsendung ?Südwild? des BR vom 19. - 23.09.2011, Rindermarkt
+- TOP 1.3.: Brunnenfest auf dem Viktualienmarkt am 05.08.2011
+- TOP 1.4.: Kirchenzug zum Gärtnerjahr 2011 am 02.08.2011, Innenstadt
+- TOP 1.5.: NACHTRAG: Info-Veranstaltung ?Da Sein Für München? am 10.09.2011, Marienplatz
+- TOP 1.6.: NACHTRAG: Festtage in der Residenz vom 26.-28.08.2011, Brunnenhof
+- TOP 1.1.: Tempo 30 Schilder in der Hackenstraße
+- TOP 1.1.: Standortgenehmigung für Parkscheinautomaten Tal 18
+- TOP 1.1.: Baumfällung Kapellenstraße 2 ? 4 (siehe auch B 3.1.3)
+- TOP 1.2.: 2. S-Bahn-Stammstrecke: Planfeststellungsabschnitt 2, Bereich Westseite Karlsplatz bis westliches Isarufer mit S-Bahnhof Marienhof - Planänderung
+- TOP 1.3.: Baumfällung Praterinsel 2
+- TOP 1.4.: Verkehrsrechtliche Anordnung: Anfahrt von Krankentransportfahrzeugen, Sonnenstraße 29
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Konfetti Elterninitiative e.V. Sommerfest am 23.07.2011
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Initiative Kinderfest am St.-Anna-Platz Kinderfest am St.-Anna-Platz am 23.07.2011
+- TOP 1.3.: NACHTRAG: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde St. Lukas Ausstellung vom 28.09. - 30.10.2011
+- TOP 1.1.: Satzungsänderungsantrag des BA 5: Keine Frist für Budgetanträge bis 1.000 Euro
+- TOP 1.1.: Wahl des Ferienausschusses
+- TOP 1.2.: Kassenbericht 2010
+- TOP 1.3.: Terminvorschläge Oktoberfest 2011 (Wunschtermin und 2 Ersatztermine)
+- TOP 1.4.: NACHTRAG: Sitzungstermine 2012
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Dokumentation der Münchener Zukunftsreihe (neben den UA-Fächern)
+- TOP 0.2.: Änderung des Postfilialnetz, neue Filiale in der Rosenstraße 8
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Ergänzung zum Beschluss des Planungsausschusses am 01.06.2011: Gesetz zur Erleichterung von Planungsvorhaben
+- TOP 0.5.: Stellungnahmen anderer BAs zu den Anträgen des BA 1 auf Schaffung von Ersatzwohnraum im gleichen Stadtviertel und zum Anhörungsrecht beim Vollzug der Zweckentfremdungssatzung
+- TOP 0.6.: Antwortschreiben des Planungsreferats zum Schreiben des BA wegen der Baustellen- einrichtung ?Klösterl?, TOP 2011.06 A 3.1
+- TOP 0.7.: Beschluss des Bauausschusses vom 05.07.2011: Platz der Opfer des National-sozialismus
+- TOP 0.8.: Vorbescheid Kreuzstraße 17
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung Innovationswerkstatt vom 14. - 17.07., Isartor Innenhof
+- TOP 0.6.: Antwortschreiben des Baureferats zum Abbau des Tores Mariannenplatz und Anbringung der Fahrradständer, TOP 2011.06 C 2.3.1
+- TOP 0.7.: Eilentscheidung Kultouranpfiff am 09.07 UND 10.07., Odeonsplatz
+- TOP 0.8.: Eilentscheidung Christopher-Street.Day am 09./10.07.2011
+- TOP 0.9.: Eilentscheidung Hommage an Michael Jackson am 25.06., Promenadeplatz
+- TOP 0.10.: Eilentscheidung ?Tag der Offenen Tür der LHM? am 17.07.2011, Marienplatz
+- TOP 0.11.: Eilentscheidung ?Lesungen des Literaturhauses? vom 11. - 15.07.2011., Salvatorplatz
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Fahrbahnsanierung Maderbräustraße zwischen Tal und Ledererstraße
+- TOP 0.3.: Verlängerung der Jahresgenehmigung für Fahrbahnsanierungen u.a. im Bereich Sendlinger Tor
+- TOP 0.4.: Baumfällung Praterinsel 1
+- TOP 0.5.: Mail eines Bürgers zur extremen Belastung durch Taxiverkehr in der Hochbrücken-/Bräuhaus-/Marienstraße, TOP 2011.05 D 1.2
+- TOP 0.6.: Anwortschreiben des KVR zum Thema Bushaltestelle Thomas-Wimmer-Ring, TOP 2011.05 D 1.1
+- TOP 0.7.: Antwortschreiben des KVR zur verhüllten Lichtzeichenanlage Widenmayerstraße zur Praterwehrbrücke, TOP 2011.05 A 3.1
+- TOP 0.8.: Information über Baumaßnahmen auf dem Grundstück der Obersten Baubehörde und neue Parkregelung des oberirdischen Parkplatzes
+- TOP 0.9.: Mobilfunkstandort
+- TOP 0.10.: Nachtbauarbeiten Zweibrückenstr., Thierschstr.
+- TOP 0.11.: Beschluss des Planungsausschusses vom 29.06.2011: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn
+- TOP 0.13.: Plangenehmigung für das Vorhaben ?Barrierefreier Ausbau des S-Bahn HP Karlsplatz?
+- TOP 0.14.: Beschluss des Planungsausschusses vom 29.06.2011: Sicherung der Biotop- und Landschaftspflege
+- TOP 0.15.: Beschluss des Planungsausschusses vom 29.06.2011: Satzung der LHM über die Herstellung und Bereithaltung von Abstellplätzen für Fahrradfahrer
+- TOP 0.16.: Beschluss des Planungsausschusses vom 13.07.2011: Novellierung der Naturdenkmal-verordnung
+- TOP 0.17.: Eilentscheidung des Vorstands zur Beschlussvorlage ?Stadt und Fluss ? Innerstädtischer Isarraum - Workshopergebnisse und weiteres Vorgehen?
+- TOP 0.1.: Protokoll zum Gesprächstermin des Kulturreferats mit den Bezirksausschüssen
+- TOP 0.2.: Beschluss des Kulturausschusses vom 26.05.2011: Denkmal für die im Nationalsozialismus verfolgten Lesben und Schwulen
+- TOP 0.3.: Beantwortetes Beschwerdeschreiben eines Bürgers bezüglich einer Veranstaltung der LBBW am 09.05.2011 im Haus der Kunst
+- TOP 0.4.: Rückmeldung zu Hofflohmärken
+- TOP 0.5.: Zuwendungsbescheid Hinterhofflohmärkte Lehel, TOP 2011.06 E 2.1
+- TOP 0.6.: Beschluss des Auschusses für Bildung und Port in der gemeinsamen Sitzung mit dem Jugenhilfeausschuss: Betriebsträgerschaft für die Kinderkrippe Johann-Schmaus-Str. 7
+- TOP 0.7.: Theater des Hölzernen Gelächters
+- TOP 0.8.: Beschluss des Kulturausschusses vom 07.07.2011: Kunst im Öffentlichen Raum
+- TOP 0.9.: Beschluss des Kulturausschusses vom 07.07.2011: Münchner Stadtmuseum wird erweitert ? Luftschutzhochbunker Blumenstraße 22 wird Luftschutzmuseum
+- TOP 1.4: Unterrichtungen (siehe Anlage)
+- TOP 1.0: Bericht
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3: Anhörungen
+- TOP 1.3.2: Sonstige
+- TOP 0.12.: Nachtbauarbeiten Maximilianstr. 54
