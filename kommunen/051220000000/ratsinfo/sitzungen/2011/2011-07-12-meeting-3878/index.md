@@ -1,0 +1,52 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-07-12T16:00:00+02:00
+- Ende: 2011-07-12T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZazlL491wZwGkVHUWUZrcp8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3878
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTjGJvZ2kbNCCB6lzkxJ0ywMslP0VmaCrnRZi5tBpZCN/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_12.07.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Wahl der Vertretung der Arbeitnehmerinnen und Arbeitnehmer für den Aufsichtsrat der Altenzentren der Stadt Solingen gGmbH
+- TOP 4: IV. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Teilnahme am KGSt-Forum und an der KGSt-Mitgliederversammlung
+- TOP 8: Freiwilliges Engagement in Solingen
+- TOP 9: Bürgerbeteiligung Winterdienst und Straßenunterhaltung
+- TOP 10: Weltkulturerbe-Bewerbung Müngstener Brücke
+- TOP 11: Umsetzung Transparenzgesetz
+- TOP 12: Situation und Zukunft: Kunstmuseum Solingen und Zentrum für verfolgte Künste
+- TOP 13: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 14: Jahresabschluss zum 31.12.2010 mit Gewinn- und Verlustrechnung für das Jahr 2010 und Lagebericht 2010 der Stadt-Sparkasse Solingen
+- TOP 15: Genehmigung der Wiederbestellung des Vorstandes der Stadt-Sparkasse Solingen
+- TOP 16: Betriebskostenabrechnung der gemeinsamen Feuerwehrleitstelle Solingen-Wuppertal für das Jahr 2008
+- TOP 17: Quartalsbericht 1. Quartal 2011 der Technischen Betriebe Solingen
+- TOP 18: Verschiedenes
+- TOP 19: Duplikat von Feuerwehrleitstelle
+- TOP 20: Sachstand HSK-Maßnahme M074 "Aufgabe des Gebäudes Coppelstift"
+- TOP 21: Facebook-Partys
+- TOP 22: Entwicklung des Wirtschaftsstandortes Solingen
+- TOP 23: Verlegung von Sitzungsterminen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Bestellung eines Stadtdienstleiters für den Stadtdienst Sport und Freizeit
+- TOP 4: Bestellung eines Stadtdienstleiters für das Immobilienmanagement
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 6: Vorberatung von Gesellschafterbeschlüssen der Bergischen Entwicklungsagentur GmbH
+- TOP 7: Vorberatung der Gesellschafterversammlung der Institut für Galvano- und Oberflächentechnik Solingen GmbH am 21. Juli 2011
+- TOP 8: Abberufung und Bestellung von Geschäftsführern bei der Wirtschaftsförderung Solingen Verwaltungs GmbH und der IGOS GmbH
+- TOP 9: Vorberatung von Gesellschafterbeschlüssen der Wirtschaftsförderung Solingen GmbH & Co. KG im schriftlichen Umlaufverfahren
+- TOP 10: Verschiedenes
+- TOP 11: Vergaben von Aufträgen
+- TOP 12: Sachstandsbericht Neuvergabe der städtischen Werbenutzungsrechte
