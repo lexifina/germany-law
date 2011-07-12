@@ -1,0 +1,69 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-07-12T16:05:00+02:00
+- Ende: 2011-07-12T18:20:00+02:00
+- Ort: Ratsaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8200
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8200
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand:27.06.11) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00131807.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00132656.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2010 und Konzernabschluss 2010 der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2010 der WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2010 der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der GWG und des Konzerns GWG für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2010 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2010 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2010 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Wahrnehmung von Gesellschafterrechten bei WSW-Tochtergesellschaften - ungeändert beschlossen
+- TOP 5.2: Änderung der Satzung der WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 5.3: Gründung der Jobcenter Wuppertal Anstalt öffentlichen Rechts - zur Entscheidung verwiesen
+- TOP 5.4: Erarbeitung eines langfristig tragfähigen Geschäftsmodells für die Historische Stadthalle Wuppertal GmbH - Entgegennahme ohne Beschluss
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Umsetzung des Haushaltssicherungskonzeptes 2010/2011 - aktueller Sachstand - vertagen
+- TOP 12.2: Stand der Schulden und Kassenkredite zum 31.05.2011 - Entgegennahme ohne Beschluss
+- TOP 12.3: Finco-Bericht II. Quartal 2011 - Entgegennahme ohne Beschluss
+- TOP 12.4: Externe Einstellungen im Zeitraum Januar bis Mai 2011 - Entgegennahme ohne Beschluss
+- TOP 12.5: Bergische Kooperation im Kulturbereich - Sachstandsbericht der Projektgruppe Orchesterfusion - Entgegennahme ohne Beschluss
+- TOP 13: Haushaltsangelegenheiten
+- TOP 14: Verkäufe und Baumaßnahmen
+- TOP 15: Dienstanweisungen und Satzungen
+- TOP 16: Anträge und Anfragen
+- TOP 16.1: Anfrage zu den Folgen der Steuersenkungspläne und des Junkernheinrich-Gutachtens - Entgegennahme ohne Beschluss
+- TOP 16.1.1: Große Anfrage der Fraktion "Bündnis 90/DIE GRÜNEN", "Anfrage zu den Folgen der Steuersenkungspläne und des Junkernheinrich-Gutachtens" - Entgegennahme ohne Beschluss
+- TOP 17: Allgemeine Vorlagen
+- TOP 17.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2009 - ungeändert beschlossen
+- TOP 17.2: Stadtentwässerung - Maßnahmenkatalog 2012/Katalogentwurf 2013 - ungeändert beschlossen
+- TOP 17.3: Bürgerantrag gemäß § 24 Gemeindeordnung NRW - ungeändert beschlossen
+- TOP 17.4: Verwaltungsgebühren - ungeändert beschlossen
+- TOP 18: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 24: Alten- und Altenpflegeheime
+- TOP 24.1: Quartalsbericht I/2011 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 24.2: Quartalsbericht I/2011 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 25: Berichte und Mitteilungen
+- TOP 26: Kinder- und Jugendwohngruppen
+- TOP 26.1: Jahresabschluss 2010 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 26.2: Empfehlung eines Wirtschaftsprüfers für den Jahresabschluss 2011 - ungeändert beschlossen
+- TOP 26.3: Entlastung der Betriebsleitung - ungeändert beschlossen
+- TOP 26.4: Pädagogischer Bericht 2010 - Entgegennahme ohne Beschluss
+- TOP 26.5: 1. Quartalsbericht 2011 KIJU - Entgegennahme ohne Beschluss
+- TOP 27: Berichte und Mitteilungen
