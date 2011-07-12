@@ -1,0 +1,98 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126881
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126881
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Bericht der Polizeiinspektion 12
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 1: Anträge (1)
+- TOP 1.1.: Interfraktioneller Antrag des BA 3 vom 20.06.2011: Möglicher Standort für einen neuen Konzertsaal in München Initiative Dr. Oskar Holl
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Liste der Bauvorhaben 21., 23., 24., 25. KW
+- TOP 2.1.2.: Anträge des BA 1 zur Zweckentfremdung von Wohnraum Der BA 1 bittet um Unterstützung
+- TOP 2.1.3.: Königinstraße 31, Aufstockung Wohnhaus und Erweiterung Garagen ? Vorbescheid vertagt aus der Sitzung 06/11 (TOP B 2.1.2) Die Unterlagen liegen bereits vor.
+- TOP 2.1.4.: Arcisstraße 21, Einbau einer behindertengerechten Rampe mit Vordach am Haupteingang der TU München vertagt aus der Sitzung 06/11 (TOP B 2.1.8) Die Unterlagen liegen bereits vor.
+- TOP 2.1.5.: Barer Straße 1 a, Umbau Erdgeschoss + 1. OG mit Änderungder straßenseitigen Fassade
+- TOP 2.1.6.: Baureferat Spielplatz vor der Akademie der Bildenden Künste in der Maxvorstadt, Abschluss der Projektplanung
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Zieblandstraße 45, ein Ahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 2.3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der SPD-Fraktion im BA 3 vom 17.06.2011: Kein Rosinenpicken bei den Wertstoffen
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Entscheidungen über Sondernutzungserlaubnisse a) Luisenstraße 39, Verkaufseinrichtung auf öffentlichem Grund b) Amalienstraße 73, Verkaufseinrichtung auf öffentlichem Grund c) Maillingerstraße 6, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Freifläche für den Kinderarten Fünkchen e.V., Klaus-Mann-Platz 1
+- TOP 2.2.3.: Baureferat, VV OwiE Kunstprojekt ?DNA der Erinnerung? am Karolinenplatz vom 08. bis 11.09.2011
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Entscheidungen über Sondernutzungserlaubnisse, Freischankflächen a) Neureutherstraße 29, Genehmigung einer Freischankfläche vertagt aus 06/2011, TOP C 2.3.1 i) Die Unterlagen liegen bereits vor. b) Lenbachplatz 2 a, Erweiterung einer bestehenden Freischankfläche f) Schleißheimer Straße 77, Erweiterung einer bestehenden Freischankfläche e) Adalbertstraße 28, Erweiterung einer bestehenden Freischankfläche c) Dachauer Straße 12, Genehmigung einer Freischankfläche d) Georgenstraße 37, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: (E) GS a.d. Schwindstraße
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Schreiben vom 25.05.2011 zur Nutzungsänderung Sophienstraße 2 (TOP B 2.13/0511)
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?Bau GB 2007? Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB Sitzungsvorlagen Nr. 08-14 / V 06796
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2056 Droystraße (östlich) zwischen Tillystraße und Arnulfstraße a) Ergebnis des Planungswettbewerbe Arnulfstsraße 62 ?Westhof? b) aufstellungsbeshluss Sitzungsvorlage Nr. 08-14 / V 06942
+- TOP 1.4.: Baureferat, Tiefbau Platz der Opfer des Nationalsozialismus, Teilprojekt Ottostraße im 3. Stadtbezirk Maxvorstadt Beschlussvorlage für die Sitzung des Bauausschusses vom 05.07.2011 Sitzungsvorlage Nr. 08-14 / V 06883
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG) für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz Strecke 5550 Pasing - Ostbahnhof
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung Beschlussvorlage Fassadenpreis a) 41. städtischer Fassadenwettbewerb b) Neufassung des Fassadenpreises, Antrag Nr. 02-08 / A 04062 von StR Walter Zöller und StR Robert Brannekämper vom 20.11.2007 c) Zeitliche Streckung des Fassadenwettbewerbes; Wechsel von jährlichem auf zweijährigen Turnus Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 Sitzungsvorlage Nr. 08-14 / V 07144
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn Antrag Nr. 08-14 / A 02229 der FW vom 21.02.2011 Sitzungsvorlagen Nr. 08-14 / V 07139 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 29.06.2011 ?Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München? Sitzungsvorlagen Nr. 08 ? 14 / V 07143
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Referat für Stadtplanung und Bauordnung Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011, Sitzungsvorlagen nr. 08-14 / V 06873 ?Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)?
+- TOP 2.2.: Kreisverwaltungsreferat, VVB Münchner Blade Night 2011 vom 30.05. bis einschließlich 29.08.2011, Bescheid
+- TOP 2.3.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid und Gestattung ?Gemeinsamer Tag der offenen Tür des Innenministeriums und des Finanzministeriums auf dem Wittelsbacherplatz und dem Odeonsplatz am 02.07.2011?
+- TOP 2.4.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid Streetlife/Corso Leopold am 04. und 05.06.2011
+- TOP 2.5.: Baumaßnahmen der Stadtwerke a) Augustenstraße 2, Strom b) Sandstraße 3, Strom c) Nymphenburger Höfe, Strom d) Ottostraße 5, Fernwärme f) Heßstraße 16, Umorientierung UW-ARC e) Oskar-von-Miller-Ring, Fernwärme
+- TOP 2.6.: Kreisverwaltungsreferat, VVB Genehmigungsbescheid für das Bayern 1 Open Airauf dem Königspslatz am 25.06.2011
+- TOP 2.7.: Kreisverwaltungsreferat Einzelhandelsbetrieb Dachauer Straße 54, Antrag auf Erteilung einer Sondernutzungserlaub nis für Verkaufseinrichtungen auf öffentlichem Grund Entscheidung des Oberbürgermeisters
+- TOP 2.8.: entfällt
+- TOP 2.9.: Kreisverwaltungsreferat VVB Genehmigungsbescheid Open Air Konzert ?The Eagles? auf dem Königsplatz, 26.06.2011
+- TOP 2.10.: Kreisverwaltungsreferat, VVB Info-Stand Firmenkontaktgespräch auf dem Geschwister-Scholl-PLatz am 22.06.2011 Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.11.: Kreisverwaltungsreferat, VVB Kino Open Air am Königsplatz vom 11.07. bis 21.07.2011 Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.12.: Kreisverwaltungsreferat, VVB Wirtefest am 16.07.2011, Ersatztermin: 23.07.2011, in der Türkenstraße Eilentscheidung des Vorsitzenden
+- TOP 2.13.: Beibehaltung der Einbahnregelung in der Schönfeldstraße von Osten nach Westen in Richtung Ludwigstraße
+- TOP 2.14.: Schaffung von Ersatzparkplätzen während der Bauzeit der Tiefgarage am Josephsplatz
+- TOP 2.15.: Referat für Arbeit und Wirtschaft Stadtwerke München GmbH, Straßenbahnwendeschleife Lothstraße, Trassierungsbeschluss Beschluss der Vollversammlung des Stadtrates vom 08.06.2011 Sitzungsvorlage Nr. 08-14 / V 06510
+- TOP 2.16.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid 33. Münchner Stadtlauf am 26.06.2011
+- TOP 2.17.: Kreisverwaltungsreferat, VVB Uniwasser-Aktion am 11.07.2011 auf Geschwister-Scholl-Platz Eilentscheidung des Vorsitzenden
+- TOP 2.18.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung § 45 StVO Eingeschränktes Haltverbot (Z 286 StVO) in der Augustenstraße 31
+- TOP 2.19.: Baureferat, Tiefbau Asphaltirung und Einrichtung von Parkbuchten in der Georgenstraße (Ziffer 2) Empfehlung Nr. 02-08 / E 00893 der BV des Stadtbezirkes 3 Maxvorstadt am 24.10.2007 Sitzungsvorlage Nr. 08-14 / V 06152
+- TOP 2.20.: Referat für Stadtplanung und Bauordnung, Beshlussvorlage Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Ab- stellplätzen für Fahrräder (Fahrradabstellplatzsatzung -FabS) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 Sitzungsvorlagen Nr. 08-14 / V 06873
+- TOP 3.1.: Betreungsplätze im Neubaugebiet Arnulfpark und an der Grundschule im Arnulfpark
+- TOP 3.2.: Referat für Bildung und Sport Vollzug des BayKiBiG; Bescheid über die Anerkennung von Plätzen Kindertagesstätte Klaus-Mann-Platz 1
+- TOP 3.3.: Referat für Bildung und Sport Kindertagesstätten sonstiger Trägern, Kinderkrippe Königinstraße 19 Beschluss des Ausschusses für Bildung und Sport vom 29.06.2011 Sitzungsvorlage Nr. 08-14 / V 06985
+- TOP 4: Kultur
+- TOP 4.1.: Feriensitzung des BA 3 am 09.08.2011
+- TOP 4.2.: Sitzungstermine BA 3 im Jahr 2012
+- TOP 4.3.: Oktoberfest 2011, Reservierung für den BA 3
+- TOP 4.4.: Sachstandsbericht Kinder-, Bürger- und Museumsfest mit Aufgabenverteilung an Freiwillige aus dem BA
+- TOP 4.5.: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS ? Internet Schreiben des Direktoriums (D-II-BA) vom 04.07.2011
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
