@@ -1,0 +1,53 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188001
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188001
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Neubau eines Wohnhauses mit Hotel, Gastronomie und Tiefgarage, Schwanthalerstr. 119
+- TOP 5.2.: Werbetafel im Vorgarten, Landsberger Str. 154
+- TOP 5.3.: Oldtimertreffen des Dt. Museums am Bavariapark am 11.09.2011
+- TOP 5.4.: Säulenstandortvorschlag 194, Gelände hinter der Bavaria
+- TOP 5.5.: Eilentscheidung: Entwicklung eines landschaftsplanerischen Konzepts für die Theresienwiese
+- TOP 5.6.: Stellungnahme zum Stadtratsantrag: Freizeitsport auf der Theresienwiese
+- TOP 5.7.: Meldeliste
+- TOP 5.8.: Stadteigene Anwesen, Gollierstr. 84, 86, 86a
+- TOP 5.9.: Entscheidung: Freischankfläche, Schwanthalerstr. 152
+- TOP 5.10.: Bei Neu- und Ausbau von Wohnimmobilien innerhalb von Erhaltungssatzungsgebieten verstärkt auf den Erhalt bzw. die Wiederherstellung von bezahlbarem und familiengerechtem Wohnraum drängen.
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Bürgeranliegen: Mangel an Kinderkrippenplätzen
+- TOP 6.2.: Beschlussvorschlag für den Ausschuss für Bildung und Sport; BV-Empfehlung Nr. 08-14/E00583: Ausbau von Kindergärten Öffnungszeiten auf Vollzeitbeschäftigte abstimmen Stichtag 30.Oktober abschaffen
+- TOP 6.3.: Beschlussvorlage: Kindertagesstätte sonstiger Träger; Haus für Kinder an der Schrenkstraße 2 im 8. Stadtbezirk Schwanthalerhöhe
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Widmung des Weges zwischen der Kazmairstr. und der Heimeranstr.
+- TOP 8.2.: Lärmentwicklung der Klimaanlage Bürogebäude Theresienhöhe 30
+- TOP 8.3.: Verkehrsrechtliche Anordnung, Philipp-Loewenfeld-Straße
+- TOP 8.4.: Baumaßnahmen der SWM; Fernwärmeprojekt Ridlerstr. 90
+- TOP 8.5.: Beschlussvorlage des Ausschusses für Stadtplanung und Bauordnung: Kosten der geplanten 2. S-Bahn Stammstrecke für die Münchner S-Bahn
+- TOP 8.6.: Laufende Bauvorhaben der Stadtwerke München
+- TOP 8.7.: Leuchtreklametafel an der Donnersberger Brücke
+- TOP 8.8.: Bürgeranliegen: Baustelle im Gebiet MK2
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse westendstudios Tag der offenen Tür am 15./16.10.2011
+- TOP 9.2.: Stellungnahme zum Vorschlag: Keine Frist für Budgetanträge bis 1.000,- Euro
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Keine parteipolitische Betätigung auf der städtischen Internetseite der Bezirksausschüsse
+- TOP 11.2.: Einladung zur Vorstellung des Projekts "Wegbegleiter"
+- TOP 11.3.: Oktoberfest 2011; Reservierungen der Bezirksausschüsse
+- TOP 11.4.: Einladung der Gleichstellungsstelle für Frauen
+- TOP 12: Protokoll und Umlauf
