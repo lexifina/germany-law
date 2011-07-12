@@ -1,0 +1,97 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-07-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2195161
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2195161
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Neubau Europäische Schule in der Siedlung am Perlacher Forst / Infrastruktur; Bürgeranliegen / Mail vom 05.06.11
+- TOP 2.2.: Belastung durch Schwerlastverkehr in der Perlacher Staße; Bürgerschreiben vom 15.06.11
+- TOP 2.3.: Straßenbahnlinie 27, Linienwegänderung; Bürgerschreiben (Mail) vom 24.06.2011
+- TOP 2.4.: Straßenbeleuchtung im Bereich Wirt- / Bergstraße; Bürgeranliegen (E-Mail) vom 28.06.2011
+- TOP 2.5.: Verschmutzung in Obergiesing; Bürgerschreiben vom 26.06.2011
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Freunde des Sechz'ger Stadions e.V., für die Maßnahme: Ausstellung zum 100jährigen Bestehen vom 30.07. - 08.09.2011; Antragssumme: 2.700,00 ?; positive Beschlussvorlage (bei Feststellung des Stadtteilbezugs) des Direktoriums vom 17.06.11
+- TOP 4.2.: AntragstellerIn: Freundschaft zwischen Ausländern und Deutschen e.V., für die Maßnahme: Veranstaltungen am 30.09. und 02.12.2011; Antragssumme: 712,50; positive Beschlussvorlage (bei Feststellung des Stadtteilbezugs) des Direktoriums vom 14.06.11
+- TOP 4.3.: AntragstellerIn: Kreisjugendring München-Stadt, 103er Freizeittreff Obergiesing, für die Maßnahme: Kinder- und Sommerfest am 23.07.2011; Antragssumme: 1.380,50 ?; Beschlussvorlage des Direktoriums vom 16.06.11
+- TOP 4.4.: AntragstellerIn: EKI "Mäcki Löffel e.V.", für die Maßnahme: 20jähriges Jubiläum am 16.07.2011 Antragssumme: 1.124,64 ?; Beschlussvorlage des Direktoriums vom 16.06.11
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Vollzug von § 3 der BA-Satzung, Katalog-Angelegenheit Nr. 7.2; Anhörungen im Einzelfall auf Anforderung 5.1.3.1.1 Anwesen Bantingstraße 11; Abbruch und Wiederaufbau der Nebengebäude mit Garage - VORBESCHEID; Anhörung vom 16.06.11
+- TOP 0.2.: Anhörung durch das Referat für Stadtplanung und Bauordnung vom 27.06.2011 zur Errichtung einer Werbeanlage: Kesselbergstraße, Fl.Nr. 15916/0, 4 Plakattafeln am Bauzaun, befristet vom 01.07.2011 - 01.07.2012 (Kesselberg- / Raintaler Straße)
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.1.1 SSW "Kaptan Taverne" in der Alpenstraße 10; Mitteilung vom 14.06.11 5.1.4.1.2 SSW "Café Lili" in der Weinbauernstraße 12; Mitteilung vom 20.06.11 5.1.4.1.3 SSW "Giesinger Kult(ur) Café" in der Tegernseer Landstraße 96; Mitteilung vom 24.06.11 5.1.4.1.4 SSW "Café Melodie" in der Perlacher Straße 3; Mitteilung vom 28.06.11
+- TOP 0.2.: Bauvorhaben Tegernseer Landstraße 36; Umbau u. Modernisierung eines Gebäudes; Teilausbau des 2. DGs, Einbau von Dachgauben u. eines Aufzugs sowie Erneuerung der Balkone; Stellungnahme des BA 17 vom 17.03.11; Schreiben der Lbk vom 03.06.11
+- TOP 0.3.: Baufälle im 17. Stadtbezirk
+- TOP 0.4.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.02.10; Antrag auf Genehmigung (Erweiterung) einer neuen Verkaufsreinrichtung auf öffentlichem Verkehrsgrund; Antrag auf Genehmigung von zwei (weiteren) Warenauslagen in der Schlierseestraße 29; Beschluss des BA 17 vom 12.04.11; Schreiben des Oberbürgermeisters vom 07.06.2011
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Kindertagesstätten freigemeinnütziger Träger; Haus für Kinder an der Lincolnstraße 62 im 17. Stadtbezirk Obergiesing-Fasangarten; Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitions- programms "Kinderbetreuungsfinanzierung" 2008-2013; Leistung eines Baukostenzuschusses nach dem BayKiBiG; Beschluss des Ausschusses für Bildung und Sport vom 29.06.2011
+- TOP 0.1.: 5. Münchner Jugendgesundheitstag am 13.10.2011 in Neuaubing: Ankündigung und Einladung zur Mitwirkung durch den Kultur & Spielraum e.V. vom 28.06.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.11 über die Projektplanung Marklandstraße (Projekt-Nr.: 100214 - endgültige Herstellung der Marklandstraße); Beschluss des BA 17 vom 12.07.11 (vertagt aus den Sitzungen vom 10.05. und 14. bzw. 28.0611)
+- TOP 0.1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept; Zuleitung eines Beschlussentwurfs des Referates für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme bis 18.07.11
+- TOP 0.1.: Wallbergstraße; Haltverbot; verkehrsrechtliche Anordnung nach § 45 StVO; Zuleitung des KVR mit der Bitte um Kenntnisnahme
+- TOP 0.2.: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn; Antrag der FW vom 21.02.2011; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP 0.3.: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.2.: Unterrichtungen durch die Untere Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.2.1 Föhrenweg 6, 1 Fichte, Genehmigung vom 20.06.2011
+- TOP 0.3.: Zustand der Unterführung Tegernseer Landstraße auf Höhe des früheren Agfa-Hochhauses; Aufstellen von Mülleimern; Bürgerschreiben aus der Mai-Sitzung; Antwortschreiben des Baureferats-Tiefbau vom 06.06.11
+- TOP 0.4.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Wirtstraße 1, 7 Bäume, Antrag vom 06.06.2011 6.7.1.2 Untere Grasstraße 6, 1 Esche, Antrag vom 09.06.2011 6.7.1.3 Winlandstraße 19, 1 doppelstämmige Linde, Antrag vom 28.06.2011
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: BA-Budget: keine Frist für Budgetanträge bis 1.000 ?; BA-Antrags-Nr. 08-14 / B 02822 des BA 5 vom 16.03.11; Schreiben des Direktoriums 08.06.11 mit der Bitte um Stellungnahme
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
