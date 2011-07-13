@@ -1,0 +1,71 @@
+# 13. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-07-13T17:08:00+02:00
+- Ende: 2011-07-13T23:42:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7796
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7796
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00310135.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion Bündnis 90/Die Grünen/GAL Nr. A-R/0010/2011 "Energiepark Münster" - vertagt
+- TOP 2.2: Antrag A-R/0033/2011 der SPD-Fraktion vom 05.05.2011 "Sozial, öokologisch und wirtschaftlich vernünftig: Von britischen Militärflächen zu neuen SDtadtquartieren in Gremmendorf und Gievenbeck" - einstimmig beschlossen
+- TOP 2.3: Antrag der CDU-Fraktion Nr. A-R/0048/2010 vom 26.4.2010 - einstimmig geändert beschlossen
+- TOP 2.4: Antrag der FDP-Fraktion an den Rat Nr. A-R/0031/2011 "Organspende rettet Leben - Münster unterstützt Organspende" - einstimmig beschlossen
+- TOP 2.5: Antrag A-R/0034/2011 der SPD-Fraktion im Rat der Stadt Münster vom 11.05.2011 - einstimmig geändert beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgestellten bei der Stadt Münster - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 4: Dezernatsgliederung, Ausschreibung von Beigeordnetenstellen - ohne Beschlussfassung geschoben
+- TOP 5: Gleichstellung in den Gremien der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 6: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2010 - einstimmig beschlossen
+- TOP 7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 04.09.2011 im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel - ohne Beschlussfassung geschoben
+- TOP 8: Entwurf des Jahresabschlusses zum 31.12.2010 der Stadt Münster - einstimmig beschlossen
+- TOP 9: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2011 - ohne Beschlussfassung geschoben
+- TOP 10: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 11: Managementkontrakte
+- TOP 11.1: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2012 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 11.2: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 11.2.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 11.3: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - von der Tagesordnung abgesetzt
+- TOP 12: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2010 - einstimmig beschlossen
+- TOP 13: Weiterentwicklung des Winterdienstes in der Stadt Münster - ohne Beschlussfassung geschoben
+- TOP 13.1: Weiterentwicklung des Winterdienstes in der Stadt Münster
+- TOP 13.2: Weiterentwicklung des Winterdienstes in der Stadt Münster
+- TOP 14: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland - ohne Beschlussfassung geschoben
+- TOP 14.1: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland
+- TOP 14.2: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland
+- TOP 15: ÖPNV-Förderung Münster gemäß §11(2) ÖPNVG NRW - einstimmig beschlossen
+- TOP 16: Sachstandsbericht zur anstehenden Konversion der von den britischen Stationierungskräften genutzten Standorte und Liegenschaften in Münster - zur Kenntnis genommen
+- TOP 17: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2010 - einstimmig beschlossen
+- TOP 18: Stadtfeste ab 2012 - einstimmig beschlossen
+- TOP 19: Wartburgschule, evangelische Grundschule, - mehrheitlich beschlossen
+- TOP 20: Sofortige Auflösung der Wartburgschule - Gemeinschaftsschule -, Von-Esmarch-Straße 15, 48149 Münster, zum Ende des Schuljahres 2010/2011 - einstimmig beschlossen
+- TOP 21: Einrichtung integrativer Lerngruppen an städtischen weiterführenden Schulen ab dem Schuljahr 2011/2012 - einstimmig geändert beschlossen
+- TOP 22: 7. Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - ohne Beschlussfassung geschoben
+- TOP 23: Anschaffung eines neuen Bücherbusses - ohne Beschlussfassung geschoben
+- TOP 24: Erweiterung der kath. Kindertageseinrichtung St Petronilla in Münster-Handorf - ohne Beschlussfassung geschoben
+- TOP 25: Erweiterung der kath. Kindertageseinrichtung St. Marien Sprakel in Münster-Nord - ohne Beschlussfassung geschoben
+- TOP 26: Erweiterung der kath. Kindertageseinrichtung St. Ida in Münster-Südost - ohne Beschlussfassung geschoben
+- TOP 27: Sachstandsbericht zum u3-Ausbau in Münster - Begleitvorlage - - ohne Beschlussfassung geschoben
+- TOP 28: Errichtungsbeschluss: Erweiterung/Umbau von Kindertageseinrichtungen im Rahmen der notwendigen bedarfsgerechten Angebote zum Ausbau von Betreuungsplätzen ab dem Kindergartenjahr 2011/2012 - ohne Beschlussfassung geschoben
+- TOP 29: Zweiter Zwischenbericht zum aktuellen Stand der Machbarkeitsstudie "Ein neues Südbad ist das Ziel" - ohne Beschlussfassung geschoben
+- TOP 30: Masterplan Aasee - ohne Beschlussfassung geschoben
+- TOP 30.1: Masterplan Aasee
+- TOP 31: Handlungskonzept zur Umsetzungskonzept des Klimaschutzkonzeptes 2020 für Münster Umsetzungskonzept für die Weiterentwicklung und den Ausbau der Öffentlichkeitsarbeit - von der Tagesordnung abgesetzt
+- TOP 32: Hilfe zur Pflege - Pflegefachkraft im Sozialen Fachdienst Senioren und Pflege - einstimmig beschlossen
+- TOP 33: Feststellung der Jahresabschlüsse 2010 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 34: Stiftung Bürgerwaisenhaus: Bauvorhaben am "Areal Gartenstraße 84 - 92" - einstimmig geändert beschlossen
+- TOP 34.1: Stiftung Bürgerwaisenhaus: Bauvorhaben am "Areal Gartenstraße 84 - 92"
+- TOP 35: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 36: 1. Satzung zur Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster 2. Besetzung des Beirates für Stadtgestaltung - ohne Beschlussfassung geschoben
+- TOP 36.1: 1. Satzung zur Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster 2. Besetzung des Beirates für Stadtgestaltung
+- TOP 37: Neubestellung eines/r Stadtheimatpflegers/in - einstimmig beschlossen
+- TOP 38: Verschiedenes
