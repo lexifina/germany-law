@@ -1,0 +1,90 @@
+# 15. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-07-13T17:30:00+02:00
+- Ende: 2011-07-13T23:43:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7797
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7797
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00310134.pdf
+
+## Tagesordnung
+
+- TOP 1: Aktuelle Stunde
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4: Anfragen von Ratsmitgliedern
+- TOP 4.1: Nachtflohmarkt
+- TOP 5: Anregungen der Bezirksvertretungen
+- TOP 6: Anregungen des Integrationsrates
+- TOP 7: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 7.1: Erhalt der beiden Mehrgenerationenhäuser in Münster
+- TOP 8: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 9: Dezernatsgliederung, Ausschreibung von Beigeordnetenstellen - mehrheitlich beschlossen
+- TOP 10: Gleichstellung in den Gremien der Stadt Münster - zur Kenntnis genommen
+- TOP 11: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2010 - einstimmig beschlossen
+- TOP 12: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen am 04.09.2011 im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel - mehrheitlich geändert beschlossen
+- TOP 13: Entwurf des Jahresabschlusses zum 31.12.2010 der Stadt Münster - einstimmig beschlossen
+- TOP 14: 1. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2011 - einstimmig beschlossen
+- TOP 15: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - mehrheitlich beschlossen
+- TOP 16: Managementkontrakte
+- TOP 16.1: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2012 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 16.2: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 16.2.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - von der Tagesordnung abgesetzt
+- TOP 16.3: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - von der Tagesordnung abgesetzt
+- TOP 17: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2010 - einstimmig beschlossen
+- TOP 18: Weiterentwicklung des Winterdienstes in der Stadt Münster - mehrheitlich beschlossen
+- TOP 18.1: Weiterentwicklung des Winterdienstes in der Stadt Münster
+- TOP 18.2: Weiterentwicklung des Winterdienstes in der Stadt Münster
+- TOP 19: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland - mehrheitlich geändert beschlossen
+- TOP 19.1: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland
+- TOP 19.2: Stellungnahme der Stadt Münster im Rahmen des Beteiligungsverfahrens zur Fortschreibung des Regionalplans Münsterland
+- TOP 20: ÖPNV-Förderung Münster gemäß §11(2) ÖPNVG NRW - einstimmig beschlossen
+- TOP 21: Sachstandsbericht zur anstehenden Konversion der von den britischen Stationierungskräften genutzten Standorte und Liegenschaften in Münster - zur Kenntnis genommen
+- TOP 22: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2010 - einstimmig beschlossen
+- TOP 23: Stadtfeste ab 2012 - einstimmig beschlossen
+- TOP 24: Wartburgschule, evangelische Grundschule, - mehrheitlich beschlossen
+- TOP 25: Sofortige Auflösung der Wartburgschule - Gemeinschaftsschule -, Von-Esmarch-Straße 15, 48149 Münster, zum Ende des Schuljahres 2010/2011 - einstimmig beschlossen
+- TOP 26: Einrichtung integrativer Lerngruppen an städtischen weiterführenden Schulen ab dem Schuljahr 2011/2012 - einstimmig geändert beschlossen
+- TOP 27: 7. Satzung zur Änderung der Benutzungs- und Gebührenordnung für die Stadtbücherei Münster - mehrheitlich geändert beschlossen
+- TOP 28: Anschaffung eines neuen Bücherbusses - einstimmig beschlossen
+- TOP 29: Erweiterung der kath. Kindertageseinrichtung St Petronilla in Münster-Handorf - mehrheitlich beschlossen
+- TOP 30: Erweiterung der kath. Kindertageseinrichtung St. Marien Sprakel in Münster-Nord - mehrheitlich beschlossen
+- TOP 31: Erweiterung der kath. Kindertageseinrichtung St. Ida in Münster-Südost - mehrheitlich beschlossen
+- TOP 32: Sachstandsbericht zum u3-Ausbau in Münster - Begleitvorlage - - zur Kenntnis genommen
+- TOP 33: Errichtungsbeschluss: Erweiterung/Umbau von Kindertageseinrichtungen im Rahmen der notwendigen bedarfsgerechten Angebote zum Ausbau von Betreuungsplätzen ab dem Kindergartenjahr 2011/2012 - mehrheitlich beschlossen
+- TOP 34: Zweiter Zwischenbericht zum aktuellen Stand der Machbarkeitsstudie "Ein neues Südbad ist das Ziel" - zur Kenntnis genommen
+- TOP 35: Masterplan Aasee - einstimmig geändert beschlossen
+- TOP 35.1: Masterplan Aasee
+- TOP 36: Handlungskonzept zur Umsetzungskonzept des Klimaschutzkonzeptes 2020 für Münster Umsetzungskonzept für die Weiterentwicklung und den Ausbau der Öffentlichkeitsarbeit - von der Tagesordnung abgesetzt
+- TOP 37: Hilfe zur Pflege - Pflegefachkraft im Sozialen Fachdienst Senioren und Pflege - einstimmig beschlossen
+- TOP 38: Feststellung der Jahresabschlüsse 2010 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 39: Stiftung Bürgerwaisenhaus: Bauvorhaben am "Areal Gartenstraße 84 - 92" - mehrheitlich geändert beschlossen
+- TOP 39.1: Stiftung Bürgerwaisenhaus: Bauvorhaben am "Areal Gartenstraße 84 - 92"
+- TOP 40: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 41: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 42: 1. Satzung zur Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster 2. Besetzung des Beirates für Stadtgestaltung - vertagt
+- TOP 42.1: 1. Satzung zur Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster 2. Besetzung des Beirates für Stadtgestaltung
+- TOP 43: Neubestellung eines/r Stadtheimatpflegers/in - einstimmig beschlossen
+- TOP 44: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 44.1: Keine weiteren Kürzungen der Städtebauförderung - mehrheitlich beschlossen
+- TOP 44.2: Mehrgenerationenhäuser unterstützen - mehrheitlich beschlossen
+- TOP 44.3: Der Gesetzentwurf der Bundesregierung zur Leistungssteigerung der arbeitsmarktpolitischen Instrumente muss korrigiert werden - mehrheitlich beschlossen
+- TOP 44.4: Wohnraum für Alle - mehrheitlich geändert beschlossen
+- TOP 44.5: Vegetarischer Donnerstag in Münster - für Klima, Mensch, Umwelt und Tier - mehrheitlich beschlossen
+- TOP 44.6: Alle Kinder gleich behandeln - Flüchtlingskinder im Bildungs- und Teilhabepaket berücksichtigen! - einstimmig beschlossen
+- TOP 45: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 45.1: "Flächenverbrauch stoppen: Keine Heranziehung weiterer landwirtschaftlicher Nutzflächen für Ausgleichs- und Ersatzmaßnahmen" - verwiesen
+- TOP 45.2: Wer macht was für wen in Münster? Internet-Datenbank als flexible Informations-Plattform schaffen - verwiesen
+- TOP 45.3: inFARMING- vertikale Landwirtschaft auf den Dächern von Münster - verwiesen
+- TOP 45.4: UN Behindertenrechtskonvention umsetzen- Münster aktiv für Inklusion - verwiesen
+- TOP 45.5: Regelmäßige Säuberung der Fahrradabstellflächen am Osteingang des Hauptbahnhofes - verwiesen
+- TOP 45.6: Verkauf der Anteile des Kohlekraftwerks Hamm - verwiesen
+- TOP 45.7: Neue Unterbringung der Volkshochschule prüfen - verwiesen
+- TOP 45.8: Bemühungen zur Erhöhung der Beschäftigungsquote von schwerbehinderten Menschen intensivieren - verwiesen
+- TOP 45.9: Schulentwicklungsplanung - Ausbau der u3/ü3-Betreuung - Haushaltskonsolidierung - verwiesen
+- TOP 46: Verschiedenes
