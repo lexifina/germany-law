@@ -1,0 +1,97 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-07-14T14:00:00+02:00
+- Ende: 2011-07-14T20:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3509
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3509
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00162461.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00162461.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00162461.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wiederwahl von Herrn Beigeordneten Burkhard Hintzsche - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell Rh Laubenburg: Rüstungsexporte - beantwortet
+- TOP 4.2: Anfrage aktuell Freie Wähler: Sexualstraftäter in Düsseldorf - beantwortet
+- TOP 4.3: Anfrage aktuell Bü90-Grü: Altstadtpflaster - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsfraktionen von FDP und CDU: Förderung zum Einsatz von Energiesparbeleuchtung - beantwortet
+- TOP 5.2: Anfrage Bü90/Grü: Alle inklusive - wann ist das in Düsseldorf möglich? - beantwortet
+- TOP 5.3: Anfrage SPD: Neue Ziele für die Region! - Welche Strategie verfolgt Düsseldorf? - beantwortet
+- TOP 5.4: Anfrage der Ratsfraktion von BÜ90/GRÜ: Maßnahmen zur Luftreinhaltung - beantwortet
+- TOP 5.5: Anfrage LINKE: OB Elbers - Schirmherr für ein Fest einer islamistischen Sekte - schriftlich beantwortet
+- TOP 5.6: Anfrage Linke: Ausschreibung der Tunnel- und Rampenarbeiten am Kö-Bogen - schriftlich beantwortet
+- TOP 5.7: Anfrage Rfr. Kraft-Dlangamandla; Mittel für SchulsozialarbeiterInnen aus dem Bildungs- und Teilhabe - schriftlich beantwortet
+- TOP 5.8: Anfrage Rh Czerwinski: Streitfall "Fruchtkorb an einer Eiche" - schriftlich beantwortet
+- TOP 5.9: Anfrage Rh Laubenburg; Zunehmende Haftstrafen aufgrund von Bagatelldelikten - schriftlich beantwortet
+- TOP 5.10: Anfrage Rh Laubenburg: Weitergabe persönlicher Daten von Jugendlichen - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: ESC 2011 - zur Kenntnis genommen
+- TOP 9: Konjunkturpaket II - Sachstandsbericht und aktualisierte Investitionsliste - einstimmig beschlossen
+- TOP 10: Änderung BuF WHL - mehrheitlich beschlossen
+- TOP 11: Erschließungssystem Franziusstraße - einstimmig beschlossen
+- TOP 12: Eulerstraße 46, Kinderhilfezentrum - Bauliche Umsetzung des Brandschutzkonzepts - Ausführungs- und F - einstimmig beschlossen
+- TOP 13: Steinkaul 27, Dependance St. Apollinaris Grundschule - Sanierung des Schulgebäudes und Errichtung ei - einstimmig beschlossen
+- TOP 14: Ratsvorlage Obdach Plus Regelangebot Obdachlose Versorgung wohnungslos finanzielle Bedeutung - einstimmig beschlossen
+- TOP 15: Änderung der Elternbeitragssatzung (Neufassung) - einstimmig beschlossen
+- TOP 16: Übergabe Kita Zeppenheimer Weg an Kaiserswerther Diakonie - einstimmig beschlossen
+- TOP 17: Jahresabschluss 2010 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 18: Änderung der Taxentarifordnung - einstimmig beschlossen
+- TOP 19: Lärmaktionsplan Düsseldorf - mehrheitlich beschlossen
+- TOP 19.1: ÄA BÜ90/GRÜ: Lärmaktionsplan - mehrheitlich abgelehnt
+- TOP 19.1.1: EA SPD: Lärmaktionsplan Düsseldorf - mehrheitlich abgelehnt
+- TOP 20: Neufassung des Vertrags zwischen Landschaftsverband Rheinland und Stadt Düsseldorf für das „LVR-Zent - einstimmig beschlossen
+- TOP 21: Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Musik und Literatur - einstimmig beschlossen
+- TOP 22: Verleihung des Förderpreises für Wissenschaften 2011 - einstimmig beschlossen
+- TOP 23: 1. BGG-Bericht Rat Behindertengleichstellung Umsetzung verwaltungsweit Behinderung Gesetz - zur Kenntnis genommen
+- TOP 24: Bericht des Instituts für Denkmalschutz und Denkmalpflege über das Jahr 2010 - mehrheitlich beschlossen
+- TOP 25: Beitritt der Landeshauptstadt Düsseldorf zum Deutsch-Europäischen Forum für urbane Sicherheit e.V. - - einstimmig beschlossen
+- TOP 26: Entsendung eines Mitgliedes in den Ausschuss des Deichverbandes Neue Deichschau Heerdt - Beschluss - - einstimmig beschlossen
+- TOP 27: Verwaltungsrat der Stadtsparkasse - Ersatzwahl - - einstimmig beschlossen
+- TOP 28: Vorstand des Bergisch-Rheinischen Wasserverbandes - einstimmig beschlossen
+- TOP 29: Aufsichtsrat der Grundstücksentwicklungs - Gesellschaft mbH (GED) - Neuwahl - - zur Kenntnis genommen
+- TOP 30: Aufsichtsrat der Rheinbahn - Ersatzwahl - - einstimmig beschlossen
+- TOP 31: Verbandsversammlung des Zweckverbandes Verkehrsverbund Rhein-Ruhr - einstimmig beschlossen
+- TOP 32: Beirat der Sana Kliniken Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 33: Wiederbestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 34: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 35: Planungsmaßnahmen
+- TOP 36: BPl6372/002-Elbsee(Wellness)-Stellung.;Änd.;Satz - mehrheitlich beschlossen
+- TOP 37: Plan 5981/003-beiders.GrütersaaperWeg-Satz.bes.Vorkaufsrecht - einstimmig beschlossen
+- TOP 38: Anträge
+- TOP 38.1: Antrag Linke: Keine Bundeswehr an Düsseldorfer Schulen - mehrheitlich abgelehnt
+- TOP 38.1.1: ÄA Rh Laubenburg: Keine Bundeswehr an Düsseldorfer Schulen - mehrheitlich abgelehnt
+- TOP 38.2: Antrag Linke: Einführung eines BürgerInnen-Haushaltes - zurückgezogen
+- TOP 38.3: Antrag der Ratsfraktionen von SPD, Bü90/GRÜ und DIE LINKE: Unterstützung der Kampagne "Steuer gegen - mehrheitlich abgelehnt
+- TOP 38.4: Antrag SPD: Klimaausgleichszahlungen für städtische Tochterunternehmen - mehrheitlich abgelehnt
+- TOP 38.5: Antrag Bü90/Grü: Bildungs- und Teilhabepaket (BuT) für Flüchtlingskinder - mehrheitlich abgelehnt
+- TOP 38.5.1: Ergänzungsantrag Die Linke: Bildungs- und Teilhabepaket (BuT) f. Flüchtlingskinder - mehrheitlich abgelehnt
+- TOP 38.5.2: EA SPD: Verllässlicher Rahmen für Baugemeinschaften und Wohnungsbaugenossenschaften - mehrheitlich abgelehnt
+- TOP 38.6: Antrag Bü90/Grü: Verlässlicher Rahmen für Baugemeinschaften und Wohnungsbaugenossenschaften - mehrheitlich abgelehnt
+- TOP 38.7: Antrag Bü90/Grü: Düsseldorf auf dem Weg ins Web 2.0?.................... - mehrheitlich abgelehnt
+- TOP 38.7.1: ÄA BÜ90/GRÜ: utzungsmöglichkeiten für den ehemaligen Betriebshof der Rheinbahn "Am Steinberg" - mehrheitlich abgelehnt
+- TOP 38.8: Antrag der SPD-Ratsfraktion: Breites Bündnis für den Steinberg - mehrheitlich abgelehnt
+- TOP 38.9: Antrag Linke: Menschenwürdiges Existenzminimum für alle - Asylbewerberleistungsgesetz abschaffe - mehrheitlich abgelehnt
+- TOP 38.10: Antrag Linke: Mindestbeiträge für die Bäder-Card senken - vertagt
+- TOP 38.10.1: ÄA Rh Laubenburg: Bäder-Card sozial gestalten
+- TOP 38.11: Antrag Linke: Einführung eines Sozialtickets - vertagt
+- TOP 38.12: Antrag CDU und FDP: Unesco - vertagt
+- TOP 38.12.1: Ergänzungsantrag Rh Laubenburg: Kiefernstr. gehört zum Weltkulturerbe
+- TOP 38.12.2: EA BÜ90-GRÜ: Schutz der Anwohner und der Landschaft - Teil 1
+- TOP 38.13: Antrag CDU, FDP: Schutz der Anwohner und der Landschaft - Teil 1 - vertagt
+- TOP 38.14: Antrag CDU: Schutz der Anwohner und der Landschaft - Teil 2 - vertagt
+- TOP 38.15: Antrag SPD: Aktionsplan Düsseldorf hilft!" - Organspende rettet Leben! - vertagt
+- TOP 38.16: Antrag SPD: Geschwindigkeitsbegrenzung auf der Fleher Brücke - vertagt
+- TOP 38.17: Antrag CDU,FDP: Betriebshof Am Steinberg - mehrheitlich beschlossen
+- TOP 38.18: Antrag Bü90/Grü und SPD. Resolution zur geplanten Kürzung der Leistungen für Langzeitarbeitslose - vertagt
+- TOP 38.18.1: EA CDU: Resolution: Langzeitarbeitslose - vertagt
+- TOP 38.19: Antrag BÜ90/GRÜ und SPD: "Soziale Stadt" macht Zukunft für Düsseldorf - Keine weiteren Kürzungen de - vertagt
