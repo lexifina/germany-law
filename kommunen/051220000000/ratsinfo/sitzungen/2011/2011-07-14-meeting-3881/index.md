@@ -1,0 +1,67 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-07-14T16:00:00+02:00
+- Ende: 2011-07-14T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZeV2nEfnxznolnNU4JNTqb8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3881
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdoGXv0ZKjvbwksuJmzga_MRCa4V1wNZxoMm_t_TS6C0/Oeffentliche_Niederschrift_Rat_14.07.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Vorschlag für die En-bloc-Abstimmung
+- TOP 3: Protokoll über die 14. Sitzung des Rates am 26.05.2011
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Teilnahme am KGSt-Forum und an der KGSt-Mitgliederversammlung
+- TOP 6: Beschluss der Bezirksvertretung Burg/Höhscheid auf Änderung der Bezeichnung der Vorsitzenden der Bezirksvertretungen sowie Neufassung der Allgemeinen Richtlinien des Rates für die Bezirksvertretungen der Stadt Solingen
+- TOP 7: Kommunalbeirat der MVV Energie
+- TOP 8: IV. Satzung zur Änderung der Hauptsatzung der Stadt Solingen
+- TOP 9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Prüfung des Jahresabschlusses 2008 der Stadt Solingen
+- TOP 12: Einbringung des Haushaltsplans der Stadt Solingen für das Jahr 2011
+- TOP 13: Benachteiligung Solingens beim Rettungsschirm des Landes NRW
+- TOP 14: Freiwilliges Engagement in Solingen
+- TOP 15: Sachstand Klimaschutzkonzept der Stadt Solingen
+- TOP 16: Klima-Allianz Solingen
+- TOP 17: Teilnahme der Stadt Solingen am European Energy Award
+- TOP 18: Weltkulturerbe-Bewerbung Müngstener Brücke
+- TOP 19: Denkmalschutz Müngstener Brücke
+- TOP 20: Antrag auf Anerkennung der Müngstener Brücke als Denkmal von nationaler Bedeutung
+- TOP 21: Situation und Zukunft: Kunstmuseum Solingen und Zentrum für verfolgte Künste
+- TOP 22: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 23: Umsetzung Transparenzgesetz
+- TOP 24: Jahresabschluss zum 31.12.2010 mit Gewinn- und Verlustrechnung für das Jahr 2010 und Lagebericht 2010 der Stadt-Sparkasse Solingen
+- TOP 25: Jahresabschluss zum 31.12.2010 mit Gewinn- und Verlustrechnung für das Jahr 2010 und Lagebericht 2010 der Stadt-Sparkasse Solingen
+- TOP 26: Genehmigung der Wiederbestellung des Vorstandes der Stadt-Sparkasse Solingen
+- TOP 27: Ergänzung der Elternbeitragssatzung
+- TOP 28: Verteilung der Wohngeldersparnis des Landes NRW
+- TOP 29: Umsetzung HSK-Maßnahme Nr. 135
+- TOP 30: Jahresabschluss 2010 und Lagebericht der Altenzentren der Stadt Solingen
+- TOP 31: Wirtschaftsplan 2011 der Altenzentren der Stadt Solingen
+- TOP 32: Wahl der Vertretung der Arbeitnehmerinnen und Arbeitnehmer für den Aufsichtsrat der Altenzentren der Stadt Solingen gGmbH
+- TOP 33: Wahl der Vertretung der Arbeitnehmerinnen und Arbeitnehmer für den Aufsichtsrat der Altenzentren der Stadt Solingen gGmbH
+- TOP 34: Fortschreibung der Rahmenplanung Ohligs Ost 2011
+- TOP 35: Fortschreibung der Rahmenplanung Ohligs Ost 2011
+- TOP 36: Bauleitplanung Scheidter Feld
+- TOP 37: Veräußerung des RWE Aktienbestandes
+- TOP 38: Verschiedenes
+- TOP 39: Modellprojekt Bürgerarbeit u. a.
+- TOP 40: Baumaßnahme Kindergarten Schwertstraße sowie Kindergarten Hasseldelle
+- TOP 41: Freiwillige Leistungen der Stadt Solingen und ihrer Gesellschaften
+- TOP 42: Aufgabenverlagerungen
+- TOP 43: Verlegung von Sitzungsterminen
+- TOP 44: Betriebskostenabrechnung der gemeinsamen Feuerwehrleitstelle Solingen-Wuppertal für das Jahr 2008
+- TOP 45: Kürzung der Öffnungszeiten im Hallenbad Vogelsang
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 14. Sitzung des Rates am 26.05.2011
+- TOP 3: Leitung Altenzentren
+- TOP 4: Leitung Altenzentren
+- TOP 5: Verschiedenes
