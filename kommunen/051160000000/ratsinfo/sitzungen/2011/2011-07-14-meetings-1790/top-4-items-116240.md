@@ -1,0 +1,8 @@
+# TOP 4: Anpassung von Gesellschaftsverträgen und Satzungen
+
+- Sitzung: Rat (2011-07-14)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/116240
+- Ergebnis: Einstimmiger Beschluss
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/12756
