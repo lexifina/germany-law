@@ -1,0 +1,7 @@
+# TOP 2.2: Sondermittelantrag 18/2011 Reha-Steglitz gGmbH - Erneuerung der Küchenausstattung
+
+- Sitzung: 62. öffentliche Sitzung des Haushaltsausschusses (2011-07-14)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=42094
+- Ergebnis: im Ausschuss abgelehnt
