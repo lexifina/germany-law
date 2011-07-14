@@ -1,0 +1,59 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2011-07-14T15:27:00+02:00
+- Ende: 2011-07-14T19:28:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1790
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1790
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00070619.pdf
+- Ergebnisprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00070619.pdf
+- Wortprotokoll: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00070619.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Aufstellung Nebentätigkeiten OB - Kenntnisnahme
+- TOP 3: NRW-EU Ziel - Einstimmiger Beschluss
+- TOP 4: Anpassung von Gesellschaftsverträgen und Satzungen - Einstimmiger Beschluss
+- TOP 5: Anpassung von Gesellschaftsverträgen und Satzungen - Einstimmiger Beschluss
+- TOP 6: Änderung des Gesellschaftsvertrages der GWSG - Einstimmiger Beschluss
+- TOP 7: Vertretung der Stadt in Organen von Gesellschaften - Einstimmiger Beschluss
+- TOP 8: Vertretung der Stadt MG in Organen von Beteiligungen - Zur Kenntnis genommen
+- TOP 9: Optimierung des Ausschüttungsverhaltens - Einstimmiger Beschluss
+- TOP 10: Bekanntgabe des Abschlussergebnisses - Mit Stimmenmehrheit beschlossen
+- TOP 11: Entlastung der Sparkassenorgane - Einstimmiger Beschluss
+- TOP 12: Beteiligung der NVV AG an der NEW Netz GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 13: Beteiligung der NVV AG an der Stadtwerke Tönisvorst - Mit Stimmenmehrheit beschlossen
+- TOP 14: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2011 - Kenntnisnahme
+- TOP 15: Zustimmung zur Inangriffnahme - Einstimmiger Beschluss
+- TOP 16: Beratung des Entwurfs des 2. Nachtrags für das Haushaltsjahr 2011 - Mit Stimmenmehrheit beschlossen
+- TOP 17: Umgestaltung der Abfallumladestelle Heidgesberg auf Gefälleverladung - Einstimmiger Beschluss
+- TOP 18: Wahl der Jurymitglieder zur Preisvergabe „Umweltgerechtes Bauen“ - Mit Stimmenmehrheit beschlossen
+- TOP 19: Umsetzung HSK-Nr. 2010-0062 – Übertragung der Jugendverkehrsschule an Dritte - Mit Stimmenmehrheit beschlossen
+- TOP 20: Interkommunale Zusammenarbeit im Bereich der Beihilfesachbearbeitung für Lehrer/innen - Einstimmiger Beschluss
+- TOP 21: Mittagsverpflegung an Schulen - Einstimmiger Beschluss
+- TOP 22: OGS im Primarbereich - Bericht Anpassung Pauschalbeträge - Einstimmiger Beschluss
+- TOP 23: Mahlzeitendienste - Mit Stimmenmehrheit beschlossen
+- TOP 24: Betrieb von Begegnungsstätten - Einstimmiger Beschluss
+- TOP 25: Festlegung des Standortes für den Neubau einer 4-gruppigen Tageseinrichtung - Einstimmiger Beschluss
+- TOP 26: Ausbauplanung der Betreuungsplätze für Kinder im Vorschulalter - Einstimmiger Beschluss
+- TOP 27: Masterplan für Mönchengladbach - Zur Kenntnis genommen
+- TOP 28: Bebauungsplan Nr. 714/S - Stresemannstraße - Einstimmiger Beschluss
+- TOP 29: Bebauungsplan Nr. 695/N (ehemals 695/III) - Stadtbezirk Nord - Einstimmiger Beschluss
+- TOP 30: Jahresabschluss 2010 der Gebäudereinigung der Stadt Mönchengladbach (GSM) - Einstimmiger Beschluss
+- TOP 31: Brunnenpaten - Brunnenstilllegung - Mit Stimmenmehrheit beschlossen
+- TOP 32: Straßenbenennungen im Bereich des BP Nr. 698/W (Gladbacher Straße / Dahlener Heide) - Mit Stimmenmehrheit beschlossen
+- TOP 33: Reduzierung von Standards in der Grünpflege - Ohne Abstimmung
+- TOP 33.1: Unterhaltungs- und Pflegemaßnahmen bei Grün - Mit Stimmenmehrheit beschlossen
+- TOP 34: Resolution Atomkraftwerk - Mit Stimmenmehrheit beschlossen
+- TOP 35: Wohnumfeldbezogene Aufwertung Waldhausen - Mit Stimmenmehrheit beschlossen
+- TOP 36: Verbandsversammlung "euregio-rhein-maas-nord" - Einstimmiger Beschluss
+- TOP 37: Fortschreibung des Nahversorgungs- und Zentrenkonzeptes - Einstimmiger Beschluss
+- TOP 38: Umbesetzung eines Ratsausschusses - Einstimmiger Beschluss
+- TOP 39: Busverkehr Hindenburgstraße - Verweisung in zuständige Fachausschüsse
+- TOP 40: SPNV-Anbindung Hochschule Niederrhein - Einstimmiger Beschluss
+- TOP 41: Anfragen
