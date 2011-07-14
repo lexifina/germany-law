@@ -1,0 +1,66 @@
+# 30. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-07-14T14:00:00+02:00
+- Ende: 2011-07-15T23:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1152
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1152
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2011_07_14 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00068637.pdf
+- Wortprotokoll: Nachtrag_SR_2011_07_14 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00068716.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 4: Nachrücken einer Ersatzperson in den Ausländerbeirat der Landeshauptstadt Dresden - Zustimmung
+- TOP 5: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 6: Umbesetzung im Ortsbeirat Neustadt - Zustimmung
+- TOP 7: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 8: Umbesetzung im Ortsbeirat Cotta - Zustimmung
+- TOP 9: Umbesetzung Ortsbeirat Cotta - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Erweiterung des vorhandenen Parkplatzes "Alte Feuerwache" Loschwitz - Ablehnung
+- TOP 12: Elbeparkplatz Loschwitz dauerhaft erhalten - Zustimmung mit Änderung
+- TOP 13: Parkplatz "Blaues Wunder" - Zustimmung mit Änderung
+- TOP 14: Klarstellungssatzung Nr. 438, Dresden-Niederpoyritz Nr. 1, Staffelsteinstraße - Zustimmung
+- TOP 15: Klarstellungssatzung Nr. 439, Dresden-Niederpoyritz Nr. 2, Wachwitzer Bergstraße - Zustimmung
+- TOP 16: "Wiener Loch" beseitigen - Stadtratsbeschluss umsetzen - Zustimmung mit Änderung
+- TOP 17: Wiedereröffnung des Gymnasium Gorbitz - Zustimmung mit Änderung
+- TOP 18: Stadtentwicklungsorientiertes Schulkonzept für Dresden - Vertagung
+- TOP 19: Gerechte Kosten der Unterkunft und Heizung - schlüssiges Konzept für Dresden - Ablehnung
+- TOP 20: Aussetzung Obergrenzen Kosten der Unterkunft (KdU) - Ablehnung
+- TOP 21: Schlüssiges Konzept zur Ermittlung der Angemessenheit von Kosten der Unterkunft und Heizung gemäß § 22 SGB II und § 29 SGB XII - Ablehnung
+- TOP 22: Klimaschutz durch kommunale Bauleitplanung - Vertagung
+- TOP 23: Änderung des Beschlusses zur Vorlage V0154/09 "Vergabe eines Erbbaurechts an die Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e. V." - Zustimmung
+- TOP 24: Beschaffung der Spielstätten für Staatsoperette Dresden und Theater Junge Generation durch die STESAD GmbH - Zustimmung mit Änderung
+- TOP 25: Auflösung der Qualifizierungs- und Arbeitsförderungsgesellschaft mbH - Zustimmung
+- TOP 26: Investitionspauschale Krankenhäuser - Zustimmung
+- TOP 27: Änderung des Gesellschaftsvertrages der Verkehrsmuseum Dresden gGmbH - Vertagung
+- TOP 28: Wahl des Aufsichtsrates der Verkehrsmuseum Dresden gGmbH - Vertagung
+- TOP 29: "Stiftung Kunst für Dresden" - Zustimmung mit Änderung
+- TOP 30: Aufnahme des Hortes der Natur- und Umweltschule, Manfred-von-Ardenne-Ring 20 in 01099 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden - Zustimmung mit Änderung
+- TOP 31: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2011/2012 - punktweise Abstimmung
+- TOP 32: Rückwirkende Kostensatzveränderung zum 1. Januar 2011 im Übergangswohnheim Pillnitzer Landstraße 273 - Zustimmung
+- TOP 33: Errichtung eines Wohnheims für Asylbewerber/-innen als öffentliche Einrichtung gemäß § 7 Abs. 4 Buchstabe I der Hauptsatzung i. V. m. § 10 der SächsGemO auf der Großenhainer Straße 92 in 01127 Dresden, Gemarkung Pieschen, Flurstück Nr. 469 - Zustimmung mit Änderung
+- TOP 34: Bauliche Ertüchtigung im Erdgeschoss des Übergangswohnheimes Hubertusstraße 36 c zum Übergangswohnheim für chronisch mehrfachgeschädigte Abhängigkeitskranke - Zustimmung mit Änderung
+- TOP 35: Maßnahmeplan zur Schaffung zusätzlicher Kindertagesbetreuungsplätze in den Jahren 2011 bis 2014 - Zustimmung mit Änderung
+- TOP 36: Ausbau der Königsbrücker Straße - Veränderung der Planfeststellungsunterlagen zur Herstellung der Förderfähigkeit im Abschnitt zwischen dem Albertplatz und der Stauffenbergallee - Vertagung
+- TOP 37: Bebauungsplan Nr. 126.1, Dresden-Klotzsche Nr. 3, Königsbrücker Straße/Ost, 1. Änderung zum Bebauungsplan Nr. 126 - Zustimmung
+- TOP 38: Bebauungsplan Nr. 259.3, Dresden-Brabschütz Nr. 1, Gewerbegebiet Merbitz - Zustimmung
+- TOP 39: Vorhabenbezogener Bebauungsplan Nr. 692, Dresden-Leuben, Wohnanlage Klettestraße - Zustimmung
+- TOP 40: Vorhabenbezogener Bebauungsplan Nr. 696, Dresden-Mickten, Lommatzscher Straße - Sconto Möbelmarkt - Zustimmung
+- TOP 41: Bericht zum Busnetz 2010 und Linienänderungen 2011 - Zustimmung mit Änderung
+- TOP 42: Studie "Potenziale und Handlungsmöglichkeiten zur Beförderung der Entwicklung der Kreativ- und Kulturwirtschaft in Dresden" - Zustimmung mit Änderung
+- TOP 43: Parkplatz-Moratorium für die Kesselsdorfer Straße/Bürgerversammlung - punktweise Abstimmung
+- TOP 44: Wohnungsrückbau stoppen - Ablehnung
+- TOP 45: Schaffung eines "Dresdner Revolutionsweges" als Gedenkweg mit ausgewählten Stationen zur Erinnerung an die Ereignisse und den Verlauf der friedlichen Revolution im Herbst 1989 un den Weg zur Deutschen Einheit in Dresden - Zustimmung mit Änderung
+- TOP 46: Unserer Verantwortung gerecht werden - sofortiger Verzicht der Stadtwerke DREWAG auf Atomstrom - Vertagung
+- TOP 47: Ausbau des Elberadwegenetzes in Dresden - Zustimmung
+- TOP 48: Ausbau des linkselbischen Elberadwegs - Zustimmung
+- TOP 49: Fortführung des Programms "Soziale Stadt" - Zustimmung mit Änderung
+- TOP 51: Vergabe-Nr.: 02.2/002/11, Verwertung von Bio- und Grünabfällen aus Haushalten für die Landeshauptstadt Dresden, Los 1 Verwertung von ca. 9.000 t/a Bioabfällen aus Haushalten - Zustimmung
