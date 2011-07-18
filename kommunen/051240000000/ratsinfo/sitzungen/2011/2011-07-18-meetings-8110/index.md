@@ -1,0 +1,71 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-07-18T16:01:00+02:00
+- Ende: 2011-07-18T19:13:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8110
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8110
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 15.07.2011 - 09.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00132572.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00132705.pdf
+- Wortprotokoll: Nachtragsliste - Stand: 18.07.2011 - 09.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00132609.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Familienbüro - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Beantwortung der Anfrage der Fraktion DIE LINKE zum Familienbüro - abschließend zur Kenntnis genommen
+- TOP 2.2: Elternbeitragsfreiheit für das letzte Kindergartenjahr - Auswirkungen auf Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Elternbeitragsfreiheit für das letzte Kindergartenjahr - Auswirkungen auf Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.3: Staatsanleihen - abschließend zur Kenntnis genommen
+- TOP 2.3.1: Antwort auf die Anfrage der Ratsfraktion DIE LINKE (VO/0609/11) vom 05.07.2011: - abschließend zur Kenntnis genommen
+- TOP 2.4: Bildungspaket - abschließend zur Kenntnis genommen
+- TOP 2.4.1: Anfrage der BOW VO/0612/11 vom 01.07.2011 - abschließend zur Kenntnis genommen
+- TOP 2.5: Auswirkungen der Einführung eines Sozialtickets in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 2.5.1: Antwort auf die Anfrage der FDP-Fraktion vom 08.07.11: Auswirkungen der Einführung eines Sozialtickets in Wuppertal - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag gemäß § 24 Gemeindeordnung NRW auf Senkung des Hebesatzes bei der Grundsteuer B
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Famlienkarte
+- TOP 4.2: Aufstellung eines Inklusionsplans, Antrag der FDP- Fraktion vom 08.06.11
+- TOP 4.3: Verzicht auf Schließung eines Gymnasiums zugunsten der Einrichtung einer sechsten Gesamtschule - abgelehnt
+- TOP 4.4: Elternbeitragsfreiheit für das letzte Kindergartenjahr - Auswirkungen auf Wuppertal
+- TOP 4.5: Müngstener Brücke in die UNESCO-Welterbe-Liste aufnehmen
+- TOP 4.5.1: Änderungsantrag zu VO/0602/11 "Müngstener Brücke in die UNESCO-Welterbe-Liste aufnehmen"
+- TOP 4.5.2: Müngstener Brücke in die UNESCO-Welterbe-Liste aufnehmen - ungeändert beschlossen
+- TOP 4.6: Resolution Keine Steuersenkungen - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Änderungsantrag zu VO/0131/10 - Einsparungen - Politik hat Vorbildfunktion - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Verwaltungsgebühren - ungeändert beschlossen
+- TOP 6.2: Festsetzung privatrechtlicher Entgelte für die Mittagsverpflegung in Tageseinrichtungen für Kinder der Stadt Wuppertal (Entgeltordnung) - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2009 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Gründung der Jobcenter Wuppertal Anstalt öffentlichen Rechts - geändert beschlossen
+- TOP 8.2: Jahresabschluss 2010 der Kinder- und Jugendwohngruppen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.3: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2010 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 8.5: Jahresabschluss 2010 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Abweichungssatzung Hainstraße - ungeändert beschlossen
+- TOP 9.2: Abweichungssatzung Mählersbeck - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1131 - nördlich Widukindstraße - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Stadtentwässerung - Maßnahmenkatalog 2012/Katalogentwurf 2013 - ungeändert beschlossen
+- TOP 11.2: Umsetzungsvorschlag zur zusätzlichen Schulsozialarbeit
+- TOP 11.3: Anbringung einer Gedenktafel im Deweerthschen Garten zur Erinnerung an die Wuppertaler NS Opfer - ungeändert beschlossen
+- TOP 11.4: Rettungsdienstbedarfsplan der Stadt Wuppertal 2011 - ungeändert beschlossen
+- TOP 11.5: Ressourceneffizienzstrategie für die Stadt Wuppertal und das Bergische Städtedreieck
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Umbesetzung in der Verbandsversammlung des Wupperverbandes - ungeändert beschlossen
+- TOP 12.2: Bildung des Anstaltsbeirats der Justizvollzugsanstalt Wuppertal-Ronsdorf
+- TOP 12.3: Umbesetzung im Ausschuss für Stadtentwicklung, Wirtschaft und Bauen - ungeändert beschlossen
+- TOP 12.4: Umbesetzung von Ausschüssen - ungeändert beschlossen
+- TOP 12.5: TOP 12 Gremienbesetzungen / Benennung - ungeändert beschlossen
