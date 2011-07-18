@@ -1,0 +1,449 @@
+---
+ecli: "ECLI:DE:BGH:2011:180711ANWZ.BRFG.18.10.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Anwaltsenat"
+aktenzeichen: "AnwZ(Brfg) 18/10"
+decided: "2011-07-18"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2011&Sort=1&Seite=72&nr=57359&anz=3712&pos=2175&Blank=1.pdf"
+corpus_doc_id: "BGH_Anwaltsenat_NA_2011-07-18_NA_AnwZBrfg_18_10_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/brao/0002.md", "germany/bund/acts/brao/0112c.md", "germany/bund/acts/brao/0194.md", "germany/bund/acts/gewo/0006.md", "germany/bund/acts/gmbhg/0001.md", "germany/bund/acts/grundgesetz/artikel/003.md", "germany/bund/acts/grundgesetz/artikel/012.md", "germany/bund/acts/grundgesetz/artikel/019.md", "germany/bund/acts/hgb/0001.md", "germany/bund/acts/hgb/0002.md", "germany/bund/acts/hgb/0105.md", "germany/bund/acts/hgb/0161.md", "germany/bund/acts/inso/0056.md", "germany/bund/acts/partgg/0001.md", "germany/bund/acts/partgg/0002.md", "germany/bund/acts/stberg/0016.md", "germany/bund/acts/stberg/0049.md", "germany/bund/acts/stberg/0050.md", "germany/bund/acts/stberg/0057.md", "germany/bund/acts/stberg/0111.md", "germany/bund/acts/vwgo/0154.md", "germany/bund/acts/wipro/0001.md", "germany/bund/acts/wipro/0003.md", "germany/bund/acts/wipro/0027.md", "germany/bund/acts/wipro/0028.md", "germany/bund/acts/wipro/0055.md", "germany/bund/acts/wipro/0134.md"]
+---
+
+# Bundesgerichtshof, AnwZ(Brfg) 18/10 vom 2011-07-18
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                    IM NAMEN DES VOLKES
+
+                               URTEIL
+AnwZ (Brfg) 18/10
+                                                          Verkündet am:
+                                                          18. Juli 2011
+                                                          Boppel
+                                                          Justizamtsinspektor
+                                                          als Urkundsbeamter
+                                                          der Geschäftsstelle
+                            in dem Rechtsstreit
+
+
+
+
+wegen Zulassung zur Rechtsanwaltschaft und Feststellung
+
+                                         - 2 -
+
+
+
+    Der Bundesgerichtshof, Senat für Anwaltssachen, hat auf die mündliche Verhandlung vom 18. Juli 2011 durch den Präsidenten des Bundesgerichtshofs
+    Prof. Dr. Tolksdorf, die Richterin Roggenbuck, den Richter Seiters sowie die
+    Rechtsanwälte Prof. Dr. Stüer und Dr. Martini
+    für Recht erkannt:
+
+
+          Die Berufung der Klägerinnen gegen das Urteil des 5. Senats des
+          Bayerischen Anwaltsgerichtshofs vom 15. November 2010 wird
+          zurückgewiesen.
+
+
+          Die Klägerinnen tragen die Kosten des Berufungsverfahrens als
+          Gesamtschuldner.
+
+
+          Der Gegenstandswert für das Berufungsverfahren wird auf
+          100.000 € festgesetzt.
+
+
+                                   Von Rechts wegen
+
+
+
+
+                                      Tatbestand:
+
+
+1         Die nicht im Handelsregister eingetragene Klägerin zu 1 begehrt ihre Zulassung als Rechtsanwaltsgesellschaft in der Rechtsform der GmbH & Co. KG.
+    Die Klägerin zu 2 ist ihre persönlich haftende Gesellschafterin. Die Beklagte hat
+    den Antrag auf Zulassung zur Rechtsanwaltschaft abgelehnt. Die dagegen gerichtete Klage auf Zulassung der Klägerin zu 1, hilfsweise auf Feststellung, dass
+    eine RechtsanwaltsGmbH & Co. KG rechtlich zulässig ist, hat der Anwaltsge-
+
+                                        - 3 -
+
+
+
+    richtshof - unter Zulassung der Berufung - abgewiesen. Hiergegen richtet sich
+    die Berufung der Klägerinnen.
+
+
+
+
+                                Entscheidungsgründe:
+
+
+2         Die Berufung hat keinen Erfolg.
+
+
+3         1. Das Begehren der Klägerinnen scheitert bereits daran, dass die Klägerin zu 1 als Kommanditgesellschaft (KG) nicht wirksam gegründet wurde.
+
+
+4         a) Nach § 161 Abs. 1 HGB ist eine Gesellschaft, deren Zweck auf den
+    Betrieb eines Handelsgewerbes unter gemeinschaftlicher Firma gerichtet ist,
+    eine KG, wenn bei einem oder einigen von den Gesellschaftern die Haftung
+    gegenüber den Gesellschaftsgläubigern auf den Betrag einer bestimmten Vermögenseinlage beschränkt ist (Kommanditisten), während bei dem anderen
+    Teile der Gesellschafter eine Beschränkung der Haftung nicht stattfindet (persönlich haftende Gesellschafter). § 161 Abs. 1 HGB knüpft insoweit - wie auch
+    § 105 Abs. 1 HGB für die offene Handelsgesellschaft (OHG) - zur Bestimmung
+    des Wesens der KG an den Betrieb eines Handelsgewerbes und damit an die
+    Definition in § 1 Abs. 2 HGB an, wonach Handelsgewerbe jeder Gewerbebetrieb ist, es sei denn, dass das Unternehmen nach Art und Umfang einen in
+    kaufmännischer Weise eingerichteten Geschäftsbetrieb nicht erfordert.
+
+
+5         b) Die Klägerin zu 1 beabsichtigt jedoch nicht den Betrieb eines Handelsgewerbes, sondern will nach § 2 Abs. 1 ihres Gesellschaftsvertrags als
+    Rechtsanwaltsgesellschaft zwecks "Besorgung fremder Rechtsangelegenheiten
+    durch die Übernahme von Anwaltsaufträgen zur Beratung und Vertretung in
+
+                                         - 4 -
+
+
+
+    rechtlichen Angelegenheiten" zugelassen werden. Nach § 2 Abs. 1 BRAO übt
+    der Rechtsanwalt aber einen freien Beruf aus; seine Tätigkeit ist kein Gewerbe
+    (§ 2 Abs. 2 BRAO). Dies entspricht § 6 Abs. 1 GewO, wonach die Gewerbeordnung unter anderem keine Anwendung findet auf die Tätigkeit der Rechtsanwälte. Auch § 1 Abs. 2 PartGG bestimmt in Abgrenzung des freien Berufs zum
+    Handelsgewerbe (§ 1 Abs. 1 Satz 1, 2 PartGG), dass zur Ausübung eines freien
+    Berufs die selbständige Tätigkeit der Mitglieder der Rechtsanwaltskammern
+    gehört. Es fehlt damit an einer Rechtsgrundlage, wonach die Klägerin zu 1 als
+    RechtsanwaltsKG gegründet werden könnte.
+
+
+6         c) Die Auffassung der Klägerinnen, der Anwaltsgerichtshof habe bei seiner auf § 2 Abs. 2 BRAO gestützten Argumentation das "Gebot der funktionalen
+    Interpretation von Normen" übersehen, danach könnten gleiche Begriffe in verschiedenen Gesetzen eine unterschiedliche Bedeutung haben, wobei hier unter
+    Berücksichtigung der Nähe anwaltlicher Tätigkeit zur gewerblichen Arbeit erstere zwar nicht im Sinne der BRAO, aber zumindest im Sinne des HGB als Ausübung eines Gewerbes anzusehen sei, teilt der Senat nicht. Eine solche Annahme widerspricht dem in mehreren Gesetzen (s.o.) einheitlichen Sprachgebrauch und dem insoweit im Zusammenhang mit der Neuregelung des Kaufmanns- und Firmenrechts im HGB noch einmal ausdrücklich bekundeten Willen
+    des Gesetzgebers (BT-Drucks. 13/8444, S. 33 f.). Auch das Bundesverfassungsgericht hat jüngst - ungeachtet gewisser Bezugspunkte zwischen anwaltlicher und gewerblicher Betätigung - die Unterschiede zwischen den freien und
+    den gewerblichen Berufen noch einmal betont (BVerfGE 120, 1, 31 ff.). Dementsprechend stellt auch nach einhelliger Meinung im handelsrechtlichen
+    Schrifttum der Beruf des Rechtsanwalts kein Handelsgewerbe dar und fällt nicht
+    unter § 161 Abs. 1, § 105 Abs. 1, § 1 Abs. 2 HGB (vgl. nur Ebenroth/Boujong/
+    Joost/Strohn/Kindler, HGB, 2. Aufl., § 1 Rn. 16, 38; Hopt/Merck, HGB, 33. Aufl.,
+
+                                         - 5 -
+
+
+
+    § 1 Rn. 19; Koller/Roth/Morck, HGB, 7. Aufl., § 1 Rn. 13; MünchKommHGB/
+    Schmidt, 2. Aufl., § 1 Rn. 34; Röhricht/Graf v. Westphalen, HGB, 3. Aufl., § 1
+    Rn. 66). Soweit die Klägerinnen darauf verweisen, dass ein Rechtsanwalt im
+    "Zweitberuf" eine gewerbliche Tätigkeit ausüben kann (vgl. dazu nur BVerfG,
+    NJW 1993, 317), ändert dies nichts daran, dass der "Erstberuf" kein Handelsgewerbe ist.
+
+
+7         d) Ohne entscheidungserhebliche Bedeutung ist insoweit auch, dass
+    zwischenzeitlich der Gesellschaftsvertrag der Klägerin zu 1 geändert wurde.
+
+
+8         aa) § 2 Abs. 1 des ursprünglichen Gesellschaftsvertrags vom 24. Juni
+    2009 lautete: "Zweck der Gesellschaft ist die Besorgung fremder Rechtsangelegenheiten durch die Übernahme von Anwaltsaufträgen zur Beratung und Vertretung in rechtlichen Angelegenheiten. Handels- und Bankgeschäfte sowie
+    sonstige gewerbliche Tätigkeiten sind der Gesellschaft nicht gestattet." Nachdem im ersten Termin vor dem Anwaltsgerichtshof am 29. April 2010 die Sachund Rechtslage auch im Hinblick auf die Frage eines Handelsgewerbes erörtert
+    worden war, wurde diese Regelung mit Nachtragsvereinbarung vom 6. Mai
+    2010 wie folgt geändert: "Zweck der Gesellschaft ist die Besorgung fremder
+    Rechtsangelegenheiten durch die Übernahme von Anwaltsaufträgen zur Beratung und Vertretung in rechtlichen Angelegenheiten einschließlich solcher gewerblicher Tätigkeiten, die von Rechtsanwälten üblicherweise ausgeübt werden
+    (z.B. Treuhandtätigkeiten, Testamentsvollstreckungen, Insolvenzverwaltungen
+    u.ä.). Handels- und Bankgeschäfte sowie sonstige gewerbliche Tätigkeiten sind
+    der Gesellschaft nicht gestattet." In den Vorbemerkungen zur Nachtragsvereinbarung heißt es hierzu: "Nach dem von Anfang an bestehenden gemeinsamen
+    Verständnis aller Gesellschafter soll die Definition des Gesellschaftszwecks des
+    § 2 Ziffer 1 des Gesellschaftsvertrages vom 24.06.2009 auch solche gewerbli-
+
+                                         - 6 -
+
+
+
+    chen Tätigkeiten einschließen, die von Rechtsanwälten üblicherweise ausgeübt
+    werden. Lediglich zur Vermeidung jeglicher Differenzen, die aus unterschiedlichen Auslegungen der bisherigen Formulierung theoretisch resultieren könnten,
+    und zur Klarstellung des bereits im Zeitpunkt des Abschlusses des Gesellschaftsvertrages am 24.06.2009 Gewollten treffen die Gesellschafter die folgende Vereinbarung: ..."
+
+
+9          bb) Ob bzw. unter welchen Voraussetzungen die in der Nachtragsvereinbarung aufgeführten Arbeitsbereiche gewerblicher Natur sind, kann dahinstehen, wobei allerdings anzumerken ist, dass das Amt eines Insolvenzverwalters
+    nach § 56 Abs. 1 Satz 1 InsO nur durch eine natürliche Person - nicht dagegen
+    durch eine juristische Person oder Personenvereinigung (vgl. Jaeger/Gerhardt,
+    InsO, § 56 Rn. 34 f. m.w.N.) - ausgeübt werden kann. Die "Klarstellung" ändert
+    nichts daran, dass die Tätigkeit der Klägerin zu 1, wie der Anwaltsgerichtshof
+    bereits zutreffend festgestellt hat, nicht auf den Betrieb eines Handelsgewerbes
+    ausgerichtet ist. Denn wenn eine Person oder Gesellschaft sowohl gewerbliche
+    wie nichtgewerbliche Tätigkeiten ausübt, beurteilt sich die Einordnung des Geschäftsbetriebs als Handelsgewerbe grundsätzlich nach dem Gesamtbild des
+    Betriebs, das heißt danach, was den Schwerpunkt darstellt bzw. welche Tätigkeitsart wesentlich und prägend ist (vgl. nur BGH, Urteil vom 2. Juni 1999
+    - VIII ZR 220/98, NJW 1999, 2967, 2968; BayObLG, NZG 2002, 718; Hopt/
+    Merck, aaO § 1 Rn. 20, 28; Koller/Roth/Morck, aaO § 1 Rn. 15; MünchKomm-HGB/Schmidt, aaO § 1 Rn. 35). Bestimmend ist bei einer Rechtsanwaltsgesellschaft aber grundsätzlich die Tätigkeit im Sinne des § 2 BRAO und nicht etwaige gewerbliche Nebentätigkeiten, mögen diese auch gegebenenfalls berufsrechtlich zulässig sein.
+
+                                           - 7 -
+
+
+
+10         Soweit mit der Berufung vortragen wird, die Klägerin zu 1 "behalte sich
+     ausdrücklich vor, in ihrem Gesellschaftsvertrag ergänzend und klarstellend zu
+     bestimmen, dass Zweck der Gesellschaft auch und vor allem die schwerpunktmäßige Ausübung solcher gewerblicher Tätigkeiten ist, die von Rechtsanwälten
+     üblicherweise ausgeübt werden (z.B. Treuhandtätigkeiten, Testamentsvollstreckungen, Insolvenzverwaltungen u.ä.)", ist hierzu - abgesehen davon, dass eine
+     solche Änderung bisher nicht herbeigeführt worden ist - nur folgendes anzumerken: Es kommt nicht darauf an, ob - was letztlich auch für den während des
+     erstinstanzlichen Verfahrens vereinbarten Nachtrag gilt - aus prozesstaktischen
+     Gründen gesellschaftsvertragliche Bestimmungen auf dem Papier geändert
+     werden, sondern entscheidend für die Einstufung als Handelsgewerbe ist, welche konkreten Tätigkeiten von der Gesellschaft ausgeübt werden und ihr Erscheinungsbild prägen. Insoweit ist aber weder dargetan noch ersichtlich, dass
+     die Klägerin zu 1 ein im Schwerpunkt auf gewerbliche Tätigkeiten ausgerichtetes Unternehmen ist oder die Personen, die nach dem Willen der Klägerin zu 1
+     zukünftig unter ihrer Firma arbeiten sollen, in ihrer bisherigen beruflichen Tätigkeit einen entsprechenden Schwerpunkt gehabt haben und diese Arbeit nunmehr für die Klägerin zu 1 fortsetzen werden; dementsprechend kann auch dahinstehen, ob die Klägerin zu 1 in einem solchen Fall überhaupt als Rechtsanwaltsgesellschaft bezeichnet werden könnte.
+
+
+11         e) Zu Unrecht verweisen die Klägerinnen auf §§ 161 Abs. 2, 105 Abs. 2
+     Satz 1 HGB, wonach eine Gesellschaft auch dann eine KG ist, wenn sie nur
+     eigenes Vermögen verwaltet und im Handelsregister eingetragen wurde, und
+     darauf, dass die Klägerin zu 1 wie jede andere Gesellschaft natürlich auch eigenes Vermögen habe und dieses verwalte. Abgesehen davon, dass es bisher
+     an einer Eintragung im Handelsregister fehlt, hat der Gesetzgeber mit § 105
+     Abs. 2 Satz 1 HGB - in der Fassung des Handelsrechtsreformgesetzes vom
+
+                                      - 8 -
+
+
+
+22. Juni 1998 (BGBl. I S. 1474, 1476) - lediglich bestimmte Unternehmen erfassen wollen, zu denen die Klägerin zu 1 nicht gehört. In der Gesetzesbegründung heißt es insoweit, dass die Rechtsform der Personenhandelsgesellschaft
+auch Vermögensverwaltungsgesellschaften wie Immobilienfonds, Objektgesellschaften, Besitzgesellschaften oder Holdings offen stehen solle, soweit die
+Verwaltung einem Gewerbe vergleichbar betrieben werde (BT-Drucks. 13/8444,
+S. 39). Die bezüglich der gewerberechtlichen Einordnung dieser Vermögensverwaltungsgesellschaften bis dahin regional unterschiedliche Eintragungspraxis der Registergerichte sowie die uneinheitliche Rechtsprechung und Literatur
+hätten zu einer erheblichen Rechtsunsicherheit geführt, die eine gesetzliche
+Klarstellung gebiete (BT-Drucks., aaO S. 40 f., 63). Dementsprechend fallen
+Gesellschaften, in denen sich Rechtsanwälte als Angehörige eines freien Berufs zusammengeschlossen haben, nach ganz herrschender Meinung nicht unter diese Regelung (vgl. nur Hopt/Merck, aaO § 105 Rn. 13; Ebenroth/Boujong/
+Joost/Strohn/Wertenbruch, aaO § 105 Rn. 22 ff.; Koller/Roth/Morck, aaO § 105
+Rn. 10 i.V.m. § 1 Rn. 4, 12 f.; Röhricht/Graf v. Westphalen/v. Gerkan/Haas, aaO
+§ 105 Rn. 9 i.V.m. § 1 Rn. 66; Staub/Schäfer, HGB, 5. Aufl., § 105 Rn. 28 ff.;
+Westermann, Handbuch der Personengesellschaften, § 5, Rn. 133 ff.). Soweit
+von K. Schmidt (MünchKomm/HGB, 2. Aufl., § 105 Rn. 56 ff.; derselbe auch in
+DB 1998, 61 f.; 2009, 271, 273), der sich seit jeher rechtspolitisch für eine Einbeziehung der freien Berufe in das HGB ausgesprochen hat (aaO § 1 Rn. 32
+m.w.N.) und auf den sich die Klägerinnen beziehen, die Auffassung vertreten
+wird, § 105 Abs. 2 Satz 1 HGB stelle einen Auffangtatbestand für alle zu einem
+gesetzlich zulässigen Zweck gegründeten Gesellschaften und damit auch für
+Zusammenschlüsse von Freiberuflern dar, ist dies weder mit dem Wortlaut noch
+mit der Entstehungsgeschichte und dem Normzweck zu vereinbaren.
+
+                                           - 9 -
+
+
+
+12          2. Dass die Klägerin zu 1 als Rechtsanwaltsgesellschaft nicht in der
+     Form einer KG gegründet werden kann, verstößt entgegen der Auffassung der
+     Klägerinnen nicht gegen Art. 12 Abs. 1, Art. 3 Abs. 1 GG (siehe zu verfassungsrechtlichen Bedenken im Schrifttum allerdings auch Sproß, AnwBl. 1996, 201,
+     203 f.; Henssler/Prütting, BRAO, 3. Aufl., vor §§ 59c ff. Rn. 43 i.V.m. Rn. 15;
+     derselbe in Henssler/Streck, Handbuch Sozietätsrecht, 2. Aufl., S. 533 f., F 13
+     f., und in FS Graf von Westphalen, S. 311, 313 ff.; Römermann, AnwBl. 2008,
+     609, 610 f.).
+
+
+13          a) Eine Verletzung von Grundrechten der Klägerin zu 1 scheidet schon
+     unter dem Gesichtspunkt der Reichweite der Grundrechtsfähigkeit aus. Zwar
+     steht das Grundrecht der Berufsfreiheit (Art. 12 Abs. 1 GG) nicht nur natürlichen
+     und - nach Maßgabe des Art. 19 Abs. 3 GG - inländischen juristischen Personen (BVerfGE 21, 261, 266; 50, 290, 363; 115, 205, 229) zu. Vielmehr können
+     auch die Personengesellschaften des HGB (OHG und KG) Träger von Grundrechten sein (BVerfGE 10, 89, 99; 20, 162, 171; 42, 374, 383 f.; 114, 196, 244)
+     und sich insoweit auf Art. 12 Abs. 1 GG berufen (BVerfGE 53, 1, 13; siehe auch
+     Sachs/Mann, Grundgesetz, 5. Aufl., Art. 12, Rn. 39; Jarass/Pieroth, Grundgesetz, 11. Aufl., Art. 12, Rn. 13, Art. 19, Rn. 20, jeweils m.w.N.). Jedoch ist die
+     Grundrechtsfähigkeit der OHG/KG daran geknüpft, dass sich der staatliche Eingriff auf das gesamthänderisch gebundene Gesellschaftsvermögen oder auf
+     das von der Gesellschaft betriebene Handelsgewerbe bezieht (st. Rspr.; vgl.
+     nur BVerfGE 4, 7, 12; 13, 318, 323; 97, 67, 76). Ist die Klägerin zu 1 aber nur
+     Träger des Grundrechts aus Art. 12 Abs. 1 GG, wenn sie ein Handelsgewerbe
+     betreibt, wird sie, soweit die von ihr beanstandete gesetzliche Regelung den
+     Betrieb eines solchen Gewerbes gerade voraussetzt, nicht in ihren verfassungsmäßigen Rechten verletzt. Bestünden verfassungsrechtliche Bedenken
+     dagegen, dass eine KG nur gewerblich tätig sein kann, könnte der Grund-
+
+                                         - 10 -
+
+
+
+     rechtsschutz nicht hierauf nach Maßgabe der Rechtsprechung des Bundesverfassungsgerichts beschränkt sein.
+
+
+14         b) Was die Gesellschafter der Klägerin zu 1 anbetrifft, steht es diesen
+     frei, den Beruf des Rechtsanwalts in einer Vielzahl von Rechtsformen - etwa als
+     Einzelanwalt, Sozietät, Partnerschaftsgesellschaft, Gesellschaft mit beschränkter Haftung und Aktiengesellschaft - auszuüben. Hierbei stellt entgegen der Auffassung der Klägerinnen die Unmöglichkeit, als Rechtsanwalt bzw. als Rechtsanwaltsgesellschaft auch unter der Firma der Klägerin zu 1 als KG tätig sein zu
+     können, keinen Eingriff in die Freiheit der Berufsausübung der Gesellschafter
+     dar. Abgesehen davon, dass jedenfalls die Kommanditisten der Klägerin zu 1
+     am Verfahren unmittelbar nicht beteiligt sind und an ihrer Grundrechtsträgerschaft als Kommanditisten zudem grundsätzliche Zweifel bestehen (vgl.
+     BVerfGE 102, 197, 211), gehört es nicht zum verfassungsrechtlichen Bestandteil der natürlichen und juristischen Personen zustehenden Berufsausübungsfreiheit, einen nicht gewerblichen Beruf wie den des Rechtsanwalts in jedweder
+     Rechtsform und damit auch in Form einer nur als Handelsgewerbe zulässigen
+     OHG/KG zu betreiben. Dies folgt bereits aus der vorzitierten Rechtsprechung
+     des Bundesverfassungsgerichts. Denn wenn die OHG/KG selbst nur dann unter
+     Art. 12 Abs. 1 GG fällt, wenn und soweit sie ein Handelsgewerbe betreibt, dann
+     kann der Grundrechtsschutz der Gesellschafter, soweit es gerade darum geht,
+     dass sie unter der gemeinsamen Firma der OHG/KG auftreten wollen, nicht
+     weiter reichen. Im Übrigen begründet zwar Art. 12 Abs. 1 GG nicht nur ein Abwehrrecht gegen staatliche Eingriffe, sondern unter Umständen auch ein Teilhaberecht an staatlichen Leistungen und Einrichtungen (vgl. nur Sachs/Mann,
+     aaO Rn. 18 m.w.N.). Ein verfassungsverbürgtes Recht, einen Beruf in jedweder
+     Rechtsform betreiben zu können, auch soweit diese vom Gesetzgeber dafür
+     nicht vorgesehen ist, mit der Folge, dass die die Rechtsform beschreibenden
+
+                                           - 11 -
+
+
+
+     gesetzlichen Regelungen einen Eingriff in die Berufsausübungsfreiheit darstellen, gibt es aber nicht.
+
+
+15           Soweit die Klägerinnen in diesem Zusammenhang darauf verweisen,
+     dass in der Vergangenheit die Rechtsprechung aus Art. 12 Abs. 1 GG abgeleitet hat, dass eine GmbH (BayObLG, NJW 1995, 199; siehe jetzt auch §§ 59c ff.
+     BRAO) oder eine AG (BayObLG, NJW 2000, 1647; Senat, Beschluss vom
+     10. Januar 2005 - AnwZ (B) 27/03 und 28/03, BGHZ 161, 376; OLG Köln,
+     OLGR 2008, 415 f.) zur Rechtsanwaltschaft zugelassen werden können, und
+     zuletzt dies sogar im Hinblick auf Art. 43, 48 EGV einer britischen "Private
+     Limited Company by Shares" zugestanden worden ist (AGH Berlin, BRAK-Mitt.
+     2007, 171), übersehen sie, dass diese Gesellschaftsformen alle nicht zweckgebunden sind. Nach § 1 GmbHG kann eine GmbH "zu jedem gesetzlich zulässigen Zweck" und damit grundsätzlich auch zu nicht-gewerblichen Zielen gegründet werden (vgl. nur Baumbach/Hueck/Fastrich, GmbHG, 19. Aufl., Einleitung
+     Rn. 1, § 1 Rn. 6 ff.; Altmeppen/Roth, GmbHG, 6. Aufl., § 1 Rn. 5 ff.). Gleiches
+     gilt für die AG (vgl. nur Dauner-Lieb in Kölner Kommentar zum Aktiengesetz,
+     3. Aufl., § 3 Rn. 2, 12; Hölters, Aktiengesetz, § 3 Rn. 1; MünchKommAktG/Heider, 3. Aufl., § 1 Rn. 101, § 3 Rn. 17; Schmidt/Lutter, Aktiengesetz, 2. Aufl., § 3
+     Rn. 1). Auch die Limited ist nach englischem Recht keinerlei Beschränkung ihrer Tätigkeit unterworfen (vgl. AGH Berlin, aaO). Deshalb stellte sich in all diesen Fällen die Frage, ob es rechtliche Regelungen gibt, die diese Freiheit verbieten oder einschränken, und ob solche Bestimmungen, falls und soweit sie
+     existieren, mit Art. 12 Abs. 1, Art. 3 Abs. 1 GG bzw. Art. 43, 48 EGV vereinbar
+     sind.
+
+
+16           Hiervon unterscheidet sich die Situation der Klägerin zu 1 aber grundlegend, da diese mit dem gewünschten Gesellschaftszweck als Handelsgesell-
+
+                                          - 12 -
+
+
+
+     schaft nach deutschem Recht bereits nicht wirksam gegründet werden kann.
+     Vor diesem Hintergrund geht auch die Rüge der Klägerinnen fehl, es liege eine
+     nach Art. 3 Abs. 1 GG verfassungswidrige Ungleichbehandlung der KG im Verhältnis zur GmbH, AG oder Limited vor.
+
+
+17         c) Ohne Erfolg berufen sich die Klägerinnen darauf, dass durch das Gesetz zur Stärkung der Berufsaufsicht und zur Reform berufsrechtlicher Regelungen in der Wirtschaftsprüferordnung vom 3. September 2007 (Berufsaufsichtsreformgesetz - BARefG, BGBl. I 2178) - dort Art. 1 Nr. 14: § 28 Abs. 1
+     Satz 2 WPO n.F. - sowie durch das Achte Gesetz zur Änderung des Steuerberatungsgesetzes vom 8. April 2008 (BGBl. I 666) - dort Art. 1 Nr. 30: § 50 Abs. 1
+     Satz 3 StBerG - die Rechtsform der GmbH & Co. KG Wirtschaftsprüfern und
+     Steuerberatern für ihre Berufsausübung offen steht.
+
+
+18         aa) Zwar handelt es sich bei Rechtsanwälten, Wirtschaftsprüfern und
+     Steuerberatern um Berufe, die Ähnlichkeiten aufweisen (vgl. nur BVerfGE 80,
+     269, 280 f.; 98, 49, 62 ff.). Dessen ungeachtet sind die Berufe unterschiedlich,
+     weshalb grundsätzlich auch verschiedene Normierungen verfassungsrechtlich
+     möglich sind (BVerfG, VersR 2001, 1272 f., dort zu den Regelungen über die
+     Berufshaftpflichtversicherung für Rechtsanwaltsgesellschaften einerseits und
+     Steuerberatungs- und Wirtschaftsprüfungsgesellschaften andererseits).
+
+
+19         bb) Durch die klägerseits angesprochenen Gesetzesänderungen ist im
+     Übrigen im Recht der Wirtschaftsprüfer und Steuerberater lediglich insoweit
+     eine Neuerung eingetreten, als nunmehr persönlich haftender Gesellschafter
+     einer KG nicht mehr nur eine natürliche, sondern auch eine juristische Person
+     sein kann (vgl. zur Begründung BT-Drucks. 16/2858, S. 24; 16/7077, S. 30).
+
+                                          - 13 -
+
+
+
+     Eine Berufsausübung in Form einer Handelsgesellschaft war dagegen für diese
+     Berufsgruppen - anders als für Rechtsanwälte - seit jeher üblich.
+
+
+20         aaa) Bereits das Gesetz über die Berufsordnung der Wirtschaftsprüfer
+     vom 24. Juli 1961 (BGBl. I 1049), durch das erstmals eine bundeseinheitliche
+     Regelung des Berufsrechts der Wirtschaftsprüfer geschaffen wurde, sah in § 27
+     Abs. 1 WPO vor, dass unter anderem Handelsgesellschaften in der Rechtsform
+     der OHG und KG als Wirtschaftsprüfungsgesellschaften anerkannt werden
+     konnten. In der Begründung des Gesetzentwurfs der Bundesregierung (BT-Drucks. III 201, Anlage 1, S. 50) hieß es hierzu, dass alle im Gesetz genannten
+     Rechtsformen - ausgenommen die juristische Person der KG auf Aktien - schon
+     in der Rechtspraxis vorhanden seien; insoweit hatten die früheren reichsgesetzlichen Regelungen (vgl. etwa Art. 5 der Reichsverordnung vom 15. Dezember
+     1931, RGBl. I 760) wie auch anschließend die in den einzelnen Bundesländern
+     bis dahin gültigen Normierungen (vgl. etwa § 2 der gleichnamigen Gesetze über
+     Wirtschaftsprüfer, Bücherrevisoren und Steuerberater in Bremen, GBl. 1948,
+     S. 29; Hessen, GVBl. 1948, 8; Bayern, GVBl. 1948, 45) keine Begrenzung auf
+     Kapitalgesellschaften enthalten.
+
+
+21         Allerdings wurde - bei Fortgeltung früherer Bestellungen und Anerkennungen (§ 134 Abs. 1, 3 WPO) - nunmehr die Tätigkeit im Rahmen einer
+     OHG/KG durch den Bundesgesetzgeber in § 27 Abs. 2 WPO dahingehend eingeschränkt, dass diese zukünftig nur dann als Wirtschaftsprüfungsgesellschaft
+     anerkannt werden konnten, wenn sie wegen ihrer Treuhandtätigkeit als Handelsgesellschaft in das Handelsregister eingetragen worden sind. Zur Begründung (BT-Drucks. III 201, aaO) wurde darauf verwiesen, dass die Personengesellschaften des Handelsrechts die gewerbsmäßige Ausübung eines Handelsgewerbes voraussetzten (§§ 105, 161 HGB), allerdings der Beruf eines Wirt-
+
+                                         - 14 -
+
+
+
+     schaftsprüfers nach den Vorschriften des Gesetzentwurfs (§ 1 Abs. 2 WPO)
+     kein Gewerbe sei. Allein eine Treuhandtätigkeit, die nach § 55 Abs. 4 des Entwurfs mit dem Beruf des Wirtschaftsprüfers vereinbar sei, könne die Möglichkeit
+     der Eintragung einer Personenhandelsgesellschaft im Handelsregister begründen. Eine so eingetragene Gesellschaft dürfe dann auch als Wirtschaftsprüfungsgesellschaft anerkannt werden. In der Begründung zu § 55 Abs. 4
+     WPO (aaO S. 55 f.) - danach ist unter anderem die treuhänderische Verwaltung
+     mit dem Beruf des Wirtschaftsprüfers vereinbar - hieß es ergänzend, dass die
+     treuhänderische Verwaltung nach der historischen Entwicklung bei Wirtschaftsprüfungsgesellschaften zu den Aufgaben gehöre, mit denen der Berufsstand
+     von der Wirtschaft betraut werde.
+
+
+22         Insoweit konnte der Gesetzgeber mit § 27 Abs. 2 WPO auch an die in
+     Rechtsprechung (KG, HRR 1932 Nr. 249) und Schrifttum (Würdinger, HGB,
+     2. Aufl., § 2 Anm. 13) vertretene Auffassung anknüpfen, wonach der berufsmäßige Treuhänder ein Gewerbe ausübt und unter § 2 HGB (a.F.) fällt.
+
+
+23         bbb) Ähnlich war die Rechtslage ursprünglich bei den Steuerberatern
+     (zum Reichsrecht siehe § 107a der Reichsabgabenordnung in der Fassung des
+     Gesetzes vom 13. Dezember 1935, RGBl. I S. 1478, 1479 i.V.m. § 4 und § 2
+     der Reichsverordnungen vom 11. Januar 1936, RGBl. I 11, und 18. Februar
+     1937, RGBl. I S. 245; zum Landesrecht siehe § 2 der zu Ziffer aaa) bereits angeführten Landesgesetze). Allerdings enthielt das erste bundeseinheitliche
+     Steuerberatungsgesetz vom 16. August 1961 (BGBl. I 1301) in § 16 StBerG
+     zunächst nur die Anerkennungsmöglichkeit für Kapitalgesellschaften, wenn
+     auch mit einer Übergangsregelung (§ 111 StBerG) für bereits bestehende Gesellschaften. Bereits durch das Dritte Gesetz zur Änderung des Steuerberatungsgesetzes vom 24. Juni 1975 (BGBl. 1975, 1509, 1417) wurde dann aber
+
+                                         - 15 -
+
+
+
+     wieder - zur Angleichung an die entsprechende Regelung in der WPO (vgl. BT-Drucks. 7/2852, S. 1, 35) - der ursprüngliche Rechtszustand für die Personenhandelsgesellschaften hergestellt; dies allerdings ebenfalls mit der Maßgabe,
+     dass eine Anerkennung von OHG/KG zukünftig nur in Betracht kommt, wenn
+     diese wegen ihrer Treuhandtätigkeit - die nach § 57 Abs. 3 Nr. 3 StBerG mit
+     dem Beruf eines Steuerberaters vereinbar ist und insoweit wie bei den Wirtschaftsprüfern zum gewachsenen Berufsbild gehört (vgl. nur BT-Drucks. III 128
+     S. 32; Koslowski/Gehre, StBerG, 6. Aufl., § 57 Rn. 105) - als Handelsgesellschaft in das Handelsregister eingetragen worden ist (§ 49 Abs. 2 StBerG).
+
+
+24         Letzteres führt - wie bei § 27 Abs. 2 WPO - dazu, dass nur bereits bestehende Personengesellschaften (OHG/KG), die auf Grund des Betriebs eines
+     Handelsgewerbes (gewerbliche Treuhandtätigkeit) in das Handelsregister eingetragen sind, bei Erfüllung der berufsrechtlichen Voraussetzungen als Steuerberatungsgesellschaft anerkannt werden können (vgl. nur Koslowski/Gehre,
+     aaO § 49 Rn. 8). Da es aus handelsrechtlicher Sicht unschädlich ist, wenn neben einer schwerpunktmäßig gewerblichen Tätigkeit auch freiberufliche Dienstleistungen erbracht werden (siehe 1 d bb), kann deshalb eine KG, die überwiegend Treuhandtätigkeiten wahrnimmt, nach Maßgabe von § 49 Abs. 2 StBerG,
+     § 27 Abs. 2 WPO als Steuerberatungs- oder Wirtschaftsprüfungsgesellschaft
+     tätig werden (siehe auch Henssler, Handbuch Sozietätsrecht, aaO S. 530, F 4).
+
+
+25         cc) Die - nach Maßgabe der vorstehenden Ausführungen seit 1961 bzw.
+     1975 allerdings eingeschränkte - Möglichkeit des Betriebs einer Wirtschaftsprüfungs- oder Steuerberatungsgesellschaft auch in der Rechtsform der OHG/KG
+     entspricht insoweit - anders als bei Rechtsanwälten - der deutschen Rechtstradition und Rechtspraxis sowie dem dadurch geprägten Berufsbild. Wenn der
+     Gesetzgeber - angesichts der seit jeher bestehenden besonderen Rolle der
+
+                                          - 16 -
+
+
+
+     Rechtsanwaltschaft als Organ der Rechtspflege und wesentlicher Bestandteil
+     der rechtsstaatlichen Ordnung des Grundgesetzes (vgl. nur BVerfGE 63, 266,
+     282 ff.; 110, 226, 251 f.; 113, 29, 49) - die gewerblich geprägte Rechtsform der
+     Handelspersonengesellschaften den Rechtsanwälten bisher nicht für ihre Berufsausübung zur Verfügung gestellt hat, weil der Beruf des Rechtsanwalts offenbar nach seiner Auffassung weniger gewerblich geprägt ist als der anderer
+     Berufe, verletzt dies nicht Art. 3 Abs. 1 GG. Hierbei ist bezüglich der Klägerin
+     zu 1 auch zu berücksichtigen, dass die Zulassung einer Wirtschaftsprüfungsoder Steuerberatungspersonengesellschaft die vorherige Eintragung im Handelsregister wegen einer von dieser als OHG/KG ausgeübten Treuhandtätigkeit
+     voraussetzt. Die Klägerin zu 1 ist jedoch nicht im Handelsregister eingetragen.
+     Zudem reicht bei Mischbetrieben (siehe oben zu Ziffer 1d bb) eine untergeordnete gewerbliche Tätigkeit zur Eintragung ins Handelsregister nicht aus.
+
+
+26         3. Da die Klägerin zu 1 nicht wirksam gegründet wurde, sind auch die
+     Hilfsanträge abzuweisen.
+
+
+27         Zu Unrecht wendet sich die Klägerin zu 2 zuletzt dagegen, dass die Beklagte in ihrem Bescheid vom 12. Januar 2010 auch ihr eine Antragsgebühr von
+     1.000 € berechnet hat. Denn nicht nur die Klägerin zu 1, sondern auch die Klägerin zu 2 hat unter dem 29. September 2009 zunächst einen eigenen - von der
+     Beklagten abgelehnten - Antrag auf Zulassung als Rechtsanwaltsgesellschaft
+     gestellt, den sie nur im gerichtlichen Verfahren dann nicht weiter verfolgt hat.
+     Insoweit verweist der Senat auf die diesbezüglichen Ausführungen im angefochtenen Urteil, denen er sich anschließt.
+
+- 17 -
+
+                                       - 18 -
+
+
+
+28         4. Die Kostenentscheidung beruht auf § 112c Abs. 1 Satz 1 BRAO i.V.m.
+     § 154 Abs. 2 VwGO, die Streitwertfestsetzung auf § 194 Abs. 2 Satz 2 BRAO.
+
+
+     Tolksdorf                      Roggenbuck                            Seiters
+
+
+                     Stüer                                Martini
+
+
+
+
+     Vorinstanz:
+     AGH München, Entscheidung vom 15.11.2010 - BayAGH I - 1/10 -
