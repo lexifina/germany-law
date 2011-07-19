@@ -1,0 +1,53 @@
+# Rat (11. Sitzung)
+
+- Körperschaft: Stadt Bad Münstereifel
+- Beginn: 2011-07-19T18:00:00+02:00
+- Ende: 2011-07-19T22:30:00+02:00
+- Ort: Rathaus, Marktstr. 11 + 15, 53902 Bad Münstereifel, Rats- und Bürgersaal
+- Status: 
+- Gremium: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.bad-muenstereifel.de/tops/?__=UGhVM0hpd2NXNFdFcExjZXLxNk0JDZTFHYCQmz7uHJo
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/meeting/10269
+- Quelle: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Feststellung der ordnungsgemäßen Bekanntmachung der Sitzung sowie der ordnungsgemäßen Einladung und Beschlussfähigkeit des Rates Erläuterung: Hierzu wird auf § 9 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 2.: Feststellung über den Eingang von Einwendungen gegen die Niederschrift über die Sitzung des Rates vom 24.05.2011 Erläuterung: Hierzu wird auf § 21 Abs. 7 und 8 i. V. m. § 23 der Geschäftsordnung verwiesen.
+- TOP 3.: Fragestunde für Einwohner; Erläuterung: Hierzu wird auf § 18 der Geschäftsordnung verwiesen.
+- TOP 4.: Antrag des Vorsitzenden des Behindertenbeirates hier: Bürgerantrag gemäß § 24 Gemeindeordnung NRW (GO NRW)
+- TOP 5.: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 6.: Regelung der Nachfolge für einen ausgeschiedenen Stadtverordneten
+- TOP 7.: Neu-/Umbesetzung von Ausschüssen hier: Antrag der Fraktion Bündnis 90 / Die Grünen vom 20.06.2011
+- TOP 8.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.: Neu-/Umbesetzen von Ausschüssen hier: Antrag der SPD-Fraktion vom 04.07.2011
+- TOP 10.: Neu-/Umbesetzung von Ausschüssen hier: Antrag der UWV-Fraktion vom 04.07.2011
+- TOP 11.: Bestellung einer stellvertretenden Schriftführerin für den Stadtrat gemäß § 52 Abs. 1 Satz 2 Gemeindeordnung NRW (GO NRW)
+- TOP 12.: Straßenbeleuchtungskonzept 2011 hier: Wartungsverträge
+- TOP 13.: Satzung über die Erweiterung der Ortslagenabrundungssatzung Willerscheid, Bereich Jasminstraße-" hier: Beschluss über die eingangenen Stellungnahmen anl. der Verfahren gem. § 3 Abs. 2 und § 4 Abs. 2 BauGB, Satzungsbeschluss - 27 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 14.: Klarstellungs- und Ergänzungssatzung der Stadt Bad Münstereifel, Bereich Langscheid, Marienstraße hier: Beschluss über die eingegangenen Stellungnahmen, Satzungsbeschluss
+- TOP 15.: Ergänzungssatzung für den Bereich Bielengasse in Mahlberg hier: Beschluss zu den eingegangenen Stellungnahmen, Satzungsbeschluss - 32 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 16.: 7. vereinfachte Änderung des Bebauungsplanes Nr. 35 "Nöthen-Süd" hier: Beschluss zu den eingegangenen Stellungnahmen, Satzungsbeschluss
+- TOP 17.: Bebauungsplan Nr. 80 "Fachmarkzentrum Bad Münstereifel, Flaches Feld hier: Aufstellungsbeschluss
+- TOP 18.: Erlaß einer Veränderungssperre für das Gebiet des Bebauungsplanes Nr. 80 "Fachmarktzentrum Bad Münstereifel, Bereich Flaches Feld"
+- TOP 19.: 5. Änderung des Bebauungsplanes Nr. 6 "Industriegebiet Iversheim" hier: Abwägungsbeschlüsse, Entwurfsbeschluss - 32 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 20.: Erarbeitung eines kreisweiten Schulentwicklungsplanes; hier: Antrag der SPD-Fraktion vom 24.05.2011
+- TOP 21.: Bedarfsanalyse Kinderspielplätze
+- TOP 22.: Niederschlagswassergebühren überörtliche Straßen hier: 35. Satzung zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungs-satzung
+- TOP 23.: Finanzierung des Kur- und Tourismusbereiches der Verwaltung - 31 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 24.: Touristische Positionierung von Bad Münstereifel - 29 Ja-Stimme(n), 1 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 25.: 549-IX/Z-1 Investitionskostenzuschüsse für Kneipp-Betriebe
+- TOP 26.: Baumaßnahme am städtischen St. Michael-Gymnasium; hier: Umschichtung von Haushaltsmitteln - 28 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 27.: Dichtheitsprüfung von Abwasserleitungen gemäß § 61 a Landeswassergesetz NRW hier: 1. Satzung zur Änderung der Fristen bei der Dichtheitsprüfung von privaten Abwasserleitungen gemäß § 61 a Abs. 3 bis 7 LWG NRW
+- TOP 28.: Erlass der Haushaltssatzung für das Haushaltsjahr 2011 mit den gesetzlichen Anlagen und Haushaltssicherungskonzept der Haushaltsjahre 2012 - 2014; hier: Haushaltsverfügung des Landrates des Kreises Euskirchen als untere staatliche Verwaltungsbehörde vom 07.07.2011 - 23 Ja-Stimme(n), 5 Gegenstimme(n), 4 Stimmenthaltung(en)
+- TOP 29.: Anfragen und Mitteilungen
+- TOP 29.1: Tag der offenen Tür beim Radioteleskop Effelsberg
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 1.: Öffentlichkeitswirksames Klimaschutzkonzept der Stadt Bad Münstereifel hier: Vergabe eines Auftrags an ein Fachbüro - 23 Ja-Stimme(n), 0 Gegenstimme(n), 8 Stimmenthaltung(en)
+- TOP 2.: Investitionskostenzuschüsse für Kneipp-Betriebe - 13 Ja-Stimme(n), 15 Gegenstimme(n), 3 Stimmenthaltung(en)
+- TOP 3.: Kapitalanlage; hier: Anlage von liquiden Mitteln als städtischen Kassenkredit - 31 Ja-Stimme(n), 0 Gegenstimme(n), 1 Stimmenthaltung(en)
+- TOP 4.: Verwertung einer Liegenschaft in Bad Münstereifel-Nitterscheid - 28 Ja-Stimme(n), 3 Gegenstimme(n), 0 Stimmenthaltung(en)
+- TOP 5.: Aktives Schuldenmanagement
+- TOP 6.: Anfragen und Mitteilungen
+- TOP 6.1: Personal- und Aufgabenentwicklung im Kur- und Tourismusbereich der Verwaltung
