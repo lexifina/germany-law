@@ -1,0 +1,53 @@
+# Rat (15. Sitzung)
+
+- Körperschaft: Stadt Wesseling
+- Beginn: 2011-07-19T18:03:00+02:00
+- Ende: 2011-07-19T23:08:00+02:00
+- Ort: Neues Rathaus, , 50389 Wesseling, Ratssaal
+- Status: 
+- Gremium: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-7
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/tops/?__=UGhVM0hpd2NXNFdFcExjZammyLNabgqbIARVk6nuXDk
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/3776
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcXYvKXddIUPHzvuMAEZ2b8DhbJ6b1xQfZjgzmcVUqJ6/Einladung_Rat_19.07.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQO0rLm7oo_W1G7BaLgWJRShZBry1JM_ZD5QqM28s9kD/Oeffentliche_Niederschrift_Rat_19.07.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Bestellung eines Schriftführers
+- TOP 2.: Verabschiedung eines Stadtverordneten
+- TOP 3.: Einführung und Verpflichtung einer Stadtverordneten
+- TOP 4.: Beschlussfassung über die Tagesordnung
+- TOP 5.: Einwohnerfragestunde
+- TOP 6.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 7.: Beschlusskontrolle
+- TOP 8.: Zukunftsorientiertes Energiekonzept mit Bürgerbeteiligung (Präsentation)
+- TOP 9.: Konzept zur Umsetzung der Dichtheitsprüfung gemäß § 61a LWG NRW
+- TOP 9.1.: Antrag der CDU-Fraktion: Dichtigkeitsprüfung nach § 61 a Landeswassergesetz
+- TOP 9.2.: Antrag der Fraktionen CDU und FDP: Dichtheitsprüfung privater Abwasserleitungen
+- TOP 10.: Haushaltssicherungskonzept -Sachstandsbericht- (mündlicher Vortrag)
+- TOP 11.: siehe auch Vorlage 60/2011 - 21 Ja-Stimmen, 16 Nein-Stimmen, 0 Enthaltung(en)
+- TOP 12.: Veränderung der Öffnungszeiten in der Schulzentralbibliothek - 32 Ja-Stimmen, 7 Nein-Stimmen, 0 Enthaltungen
+- TOP 13.: Bürgerantrag gem. § 24 GO NRW betr. Querungshilfe oder Gehweg auf der L 184 (Brühler Straße) außerhalb der geschlossenen Ortschaft Berzdorf in Richtung Brühl - 32 Ja-Stimmen, 5 Nein-Stimmen, 0 Enthaltungen
+- TOP 14.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2010
+- TOP 14.1.: Gesellschafterversammlung der Stadtwerke Wesseling GmbH - Ausübung des Stimmrechts des Vertreters der Stadt Wesseling als Gesellschafterin zum Jahresabschluss 2010 - Einstimmig, 0 Enthaltungen
+- TOP 15.: Neuabschluss des Konzessionsvertrages „Wasser“ mit der Eigengesellschaft Stadtwerke Wesseling GmbH - Einstimmig, 0 Enthaltungen
+- TOP 16.: Ergänzung des derzeitig gültigen Abwasserbeseitigungskonzeptes 2006 – 2011 für 2012 - Einstimmig, 0 Enthaltungen
+- TOP 17.: Allgemeine Vorschrift der Stadt Wesseling zu § 11 a Absatz 2 des Gesetzes über den öffentlichen Personennahverkehr in Nordrhein-Westfalen (ÖPNVG NRW) - Einstimmig, 0 Enthaltungen
+- TOP 18.: Genehmigung einer Dringlichkeitsentscheidung: Abschluss einer Sponsoringvereinbarung - 31 Ja-Stimmen, 4 Nein-Stimmen, 3 Enthaltungen
+- TOP 18.1.: Verfüllung des Planschbeckens im Außenbereich des Gartenhallenbades - 31 Ja-Stimmen, 7 Nein-Stimmen, 0 Enthaltungen
+- TOP 19.: Antrag der SPD-Fraktion "Benennung von Integrationsratsmitgliedern für die Ausschüsse des Rates der Stadt Wesseling" - Einstimmig, 0 Enthaltungen
+- TOP 20.: Antrag der SPD-Fraktion: Umbesetzung in Ausschüssen/externen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 21.: Antrag der FDP-Fraktion: Umbesetzung im Integrationsrat - Einstimmig, 0 Enthaltungen
+- TOP 22.: Antrag der FDP-Fraktion: Situation der KDVZ
+- TOP 23.: Mitteilungen und Anfragen
+- TOP 23.1.: Übersicht der vermittelbaren Veranstaltungsräume der Stadt Wesseling - Die Vorlage wird zur Kenntnis genommen.
+- TOP 23.2.: Kosten des Winterdienstes - Die Vorlage wird zur Kenntnis genommen.
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Ernennung / Entlassung von Ehrenbeamten - Einstimmig, 0 Enthaltungen
+- TOP 2.: Grundstücksveräußerung im Bereich "An der Schäfersburg" - 33 Ja-Stimmen, 5 Nein-Stimmen, 0 Enthaltungen
+- TOP 3.: Veräußerung des städtischen Grundstücks -Pavillon- Petersbergstraße/ Ahrstraße - Einstimmig, 0 Enthaltungen
+- TOP 4.: Mitteilungen und Anfragen
+- TOP 4.1.: Grundstücksangelegenheit im Bereich Bonner Str. 90, "KITA Regenbogen" - Die Vorlage wird zur Kenntnis genommen.
+- TOP 5.: Presseveröffentlichungen
