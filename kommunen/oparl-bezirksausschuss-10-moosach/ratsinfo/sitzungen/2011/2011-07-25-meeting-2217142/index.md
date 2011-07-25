@@ -1,0 +1,93 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2217142
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2217142
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Ausbau der Waldhornstraße
+- TOP 2.2.: Wertstoffcontainer Naumburger Straße / Hirschstraße
+- TOP 2.3.: Fahrbahnmarkierungen vor den Anwesen Untere Krautstr. 23, 25 und 27
+- TOP 2.4.: Maßnahmen zur Geschwindigkeitsbegrenzung in der Karlingerstraße
+- TOP 2.5.: Parksituation Wildermuthstraße
+- TOP 2.6.: Grundwassersituation, Kellerüberflutungen
+- TOP 2.7.: Hundewiese Jenaer Straße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Ampelanlage Torgauer Straße / Feldmochinger Straße am 05.07.2011
+- TOP 3.2.: Ortstermin Dolphin Market, Gröbenzeller Straße 2 am 20.07.2011
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine und Bekanntgaben
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Verlagerung Busbetriebshof Westendstraße
+- TOP 4.2.: Biotop Naumburger Straße / Görlitzer Straße und Spielplatz
+- TOP 4.3.: Wiederherstellung der Vorgärten nach U-Bahn-Bau
+- TOP 4.4.: VHS nach Moosach
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Regsam e.V. 15. Moosacher Kulturtage vom 09. - 17.07.2011
+- TOP 5.2.: (E) Budget der Bezirksausschüsse AG-Buhlstraße e.V., Freizeitstätte boomerang Sommerferienprogramm Moosach vom 01.08. - 09.09.2011
+- TOP 5.3.: (E) Budget der Bezirksausschüsse LILALU e.V. Workshopplätze für 10 bedürftige Kinder vom 15. - 29.08.2011
+- TOP 5.4.: Freischankfläche QUE'BAP, Bunzlauer Str. 7
+- TOP 6: Anhörungen
+- TOP 6.1.: Ausbau Baubergerstr. / Vilniusstraße
+- TOP 6.2.: Leistungsprogramm der MVG für 2012
+- TOP 6.3.: Parkraummanagement in München ? Fortschreibung des Umsetzungskonzepts
+- TOP 6.4.: Erstmalige Herstellung der Dachauer Straße; Planung von Längsparkplätzen vor dem Anwesen Dachauer Str. 338 - 342
+- TOP 6.5.: Vollzug der Baumschutzverordnung a) Pelkovenstr. 98 - 100 b) Dachauer Str. 184 ? 188 c) Nanga-Parbat-Str. 15 ? 17 a d) Wintrichring 46 - 48 e) Baubergerstr. 12
+- TOP 6.6.: BA-Budget: Keine Frist für Budgetanträge bis 1.000 ? (Antrag des BA 5 Au-Haidhausen)
+- TOP 6.7.: Säuberung der Bahnunterführung an der Liegnitzer Straße ? Gestaltung durch Graffiti
+- TOP 6.8.: Errichtung von 2 Werbeanlagen Typ ?City-Light-Poster?, Triebstraße, Eisenbahnbrücke
+- TOP 6.9.: Fahrradabstellplatzsatzung
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Neue Bushaltestelle ?Bunzlauer Platz? in der Großbeerenstr. (wird eingerichtet)
+- TOP 7.2.: Borsteinabsenkungen Hugo-Troendle-Str. und Nanga-Parbat-Str. (wird bis Ende 2011 realisiert)
+- TOP 7.3.: Bebauung Moosacher Bahnhof (Sachstandsmitteilung der Vivico)
+- TOP 7.4.: Maßnahmen zur Verkehrssituation in der Donauwörther Str. (Vorschläge des BA 10 werden abgelehnt)
+- TOP 7.5.: Poller in der Bunzlauer Str. / Breslauer Str. (1 Poller wurde entfernt)
+- TOP 7.6.: Anweisung des Bay. Innenministeriums bezüglich spielender Kinder auf untergeordneten Straßen (soll von der Polizei geduldet werden)
+- TOP 7.7.: Parklizenzgebiet Borstei ? Parkraumüberwachung (Kontrollen werden in nächster Zeit verstärkt)
+- TOP 7.8.: Umlaufsperren am Rangierbahnhof, Bingener Straße und Donaustaufer Straße (je ein Flügel wurde wieder angebracht)
+- TOP 7.9.: Ausbau der Franz-Fihl-Straße
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS) (Sitzungsvorlage Nr. 08-14/V 06873)
+- TOP 8.4.: Handlungsprogramm Mittlerer Ring Weiterer Planungsbedarf ? Fortschreibung des Handlungsprogramms (Sitzungsvorlage Nr. 08-14/V 02675)
+- TOP 8.5.: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn (Sitzungsvorlage Nr. 08-14 / V 07139)
+- TOP 8.6.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München (Sitzungsvorlage Nr. 08-14/V 07143)
+- TOP 8.7.: Unterhaltsarbeiten Bauschaden Zufahrt Schragenhofstr. 6
+- TOP 8.8.: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007?; Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens (Sitzungsvorlage Nr. 08-14/V 06796)
+- TOP 8.9.: Kurzparkplätze Pelkovenstr. 48 ? 50
+- TOP 8.10.: Drehgenehmigung Baldurstr. 28 (Westfriedhof) für 22., 23. und 24.06.2011
+- TOP 8.11.: Arbeiten in Straßenraum: Kreuzungsbereich Triebstraße ? Hanauer Straße / Lassallestraße vom 06.06. - 01.07.2011
+- TOP 8.12.: Information zur 2. Auswahlrunde von REGSAM-Gebieten mit einem besonderen Handlungsbedarf
+- TOP 8.13.: Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste (Sitzungsvorlage Nr. 08-14/V 07250)
+- TOP 8.14.: Verkehrsrechtliche Anordnung: Vorfahrt Einmündung Bunzlauer Straße / Breslauer Straße
+- TOP 8.15.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Pfeilschifterstr. 12
+- TOP 8.16.: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung; Schaffung von Ersatzwohnraum im gleichen Stadtviertel (Anträge des BA 1 Altstadt-Lehel)
+- TOP 8.17.: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser (Antrag des BA 21 Pasing-Obermenzing)
+- TOP 8.18.: Zukunft der Lebensmittelmärkte Münchens (Antrag des BA 5 Au-Haidhausen)
+- TOP 8.19.: Tempo 30/40 in Hauptverkehrsstraßen / Erschließungsstraßen (Sitzungsvorlage Nr. 08-14/V 06885)
+- TOP 8.20.: Befristetes Aufstellen eines Zeltes für 7 Jahre (Nutzung als Lebensmittelmarkt), Hanauer Str. 2
+- TOP 8.21.: Bauvorhaben Franz-Fihl-Str. 10 und Quedlinburger Str. 20
+- TOP 8.22.: Neuaufteilung der 3 Spielhallen und Erweiterung auf 5 Einheiten sowie Nutzungsänderung / Neuaufteilung der Büros im 2.OG, Triebstr. 14
+- TOP 8.23.: Zweckentfremdung von Wohnraum a) Leidinger Platz b) Meggendorfer Str.
+- TOP 8.24.: Stadtradeln 2011: Gemeinsam radeln fürs Klima
+- TOP 8.25.: Verkehrskonzept Münchner Norden (Änderungsantrag) (Sitzungsvorlage Nr. 08-14/V 06484)
+- TOP 8.26.: ?Dialog-Display? in München (Sitzungsvorlage Nr. 08-14/V 06878)
+- TOP 8.27.: Keine parteipolitische Betätigung auf der städtischen Internetseite der BA's (Schreiben des OB)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
