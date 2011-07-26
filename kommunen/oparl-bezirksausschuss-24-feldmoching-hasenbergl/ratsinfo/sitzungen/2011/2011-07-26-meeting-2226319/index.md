@@ -1,0 +1,58 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-07-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226319
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226319
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung gem. OB-Vollmacht über die Projektplanung: Trollblumenstraße; Herstellung einer Grünanlage mit Kinderspiel
+- TOP 2.2.: Gewährung eines Zuschusses aus dem BA-Budget: Feldmochinger Rossler e.V. "Feldmochinger Rosstag am 09.10.2011"
+- TOP 2.3.: Gewährung eines Zuschusses aus dem BA-Budget: Kreisjugendring München-Stadt; Einrichtung Freizeittreff Lerchenauer "Mobile Spielaktion Großstadtindianer"
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: Fasanerie aktiv e.V. "Strassenfest am 30.07.2011 in der Schneeglöckchenstraße"
+- TOP 2.5.: Gewährung eines Zuschusses aus dem BA-Budget: LILALU e.V "Workshopplätze für 10 bedürftige Kinder vom 15.-29.08.2011"
+- TOP 3.1.: Notwendige Renovierungsarbeiten in den Umkleidekabinen der Bezirkssportanlage Grohmannstr. 63
+- TOP 3.2.: Unsichere Verkehrslage in Feldmoching (hier: Schaarschmidtstraße, Josef-Frankl-Straße)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Detmoldstr. 4
+- TOP 5.2.: Bauvorhaben Feldmochinger Str. 214
+- TOP 5.3.: Bauvorhaben Göttnerstr. 15
+- TOP 5.4.: Bauvorhaben Kristallstr. 13-35
+- TOP 5.5.: Vollzug der Baumschutzverordnung (Baumfällung): Linkstr. 2-48 und Schittgablerstraße/ Lerchenauer Straße
+- TOP 5.6.: Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) hier: Durchführung eines Beteiligungsverfahrens
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Erwerb einer Teilfläche aus Flst. 1029/8 nähe Berberitzenstraße (nordwestl. BÜ)
+- TOP 6.2.: Sicherung des Fußgängerüberweges Eberwurzstraße, Ecke Kletterrosenweg
+- TOP 6.3.: Anbindung der Buslinie 172 an die S2 in Karlsfeld; Verlängerung der Buslinie175 bis Ludwigsfeld, Rothwiesenstraße
+- TOP 6.4.: Geschwindigkeitsüberschreitung in der Eberwurzstraße
+- TOP 6.5.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.6.: Meldelisten Baumfällungsanträge
+- TOP 6.7.: Meldelisten Bauvorhaben
+- TOP 6.8.: Verkehrsrechtliche Anordnung: Verkehrsberuhigter Bereich Löwenzahnweg (Beschilderung)
+- TOP 6.9.: unveränderte Fortführung eines Gaststättenbetriebes: Eberwurzstr. 28
+- TOP 6.10.: Baumaßnahmen der SWM: Mehrspartenprojekt Steinbergerstraße
+- TOP 6.11.: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS - Internet (Stellungnahme des Direktoriums)
+- TOP 6.12.: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser (Antrag des BA 21 zur Kenntnis)
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Verkehrskonzept Münchner Norden
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayer. Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 6.17.: Beschlussvorlage Baureferat : Bedarfs- und Konzeptgenehmigung: Herberstraße, Lerchenstraße
+- TOP 6.18.: Beschlussvorlage Referat für Bildung und Sport: PCB-Belastung in der Hauptschule Eduard-Spranger-Str. 17 wirksam vermindern
+- TOP 6.19.: Beschlussvorlage Referat für Gesundheit und Umwelt: Grundwassersituation Feldmoching
+- TOP 6.20.: Flächennutzungsplan mit integrierter Landschaftsplanung (Neuauflage des FNP-Faltblattes)
+- TOP 6.21.: Dokumentation der Münchner Zukunftsreihe
+- TOP 6.22.: Referat für Bildung und Sport: Jahresdokumentation Sport in München 2010
+- TOP 6.23.: Veränderung des Streetworkbus-Einsatzes (Mitteilung des Stadtjugendamtes)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
