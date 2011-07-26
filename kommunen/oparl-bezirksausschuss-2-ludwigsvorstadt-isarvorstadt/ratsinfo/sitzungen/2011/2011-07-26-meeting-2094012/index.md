@@ -1,0 +1,116 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-07-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2094012
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2094012
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Zukunftspläne der LHM bzgl. des Turnhallen-Gebäudes in der Auenstraße
+- TOP .2.: Beteiligung der LHM an der Versteigerung von Miethäusern
+- TOP .1.: (E) Budget der Bezirksausschüsse Trägerkreis EineWeltHaus München e.V. 10-Jahres-Feier am 09.07.2011
+- TOP .1.: BA-Budget: Keine Frist für Budgetanträge bis 1.000? - BA-Antrag Nr. 08-14 / B 02822 des BA 5
+- TOP .2.: Stadtjugendamt / Förderung freier Träger Projekt: Nachbarschaft Westermühlbach
+- TOP .1.: Vorkaufsrecht nach dem BauGB: - Adlzreiterstraße - Corneliusstraße
+- TOP .2.: BA-Budget: Bewilligungsbescheide
+- TOP .3.: BA-Budget: Verwendungsnachweise (2)
+- TOP .4.: BA-Budget: Sachberichte (1)
+- TOP .5.: Betreuung zusätzlicher Integrationskinder im städt. Hort Tumblingerstr. 6 (ab Herbst 2011)
+- TOP .7.: Zweckentfremdung von Wohnraum: - Lindwurmstraße
+- TOP .1.: Bürgeranliegen: Spezielle T-Shirts für das Viertel
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maistr. 43-47: Umbau, Generalsanierung (EilE)
+- TOP .2.: Bavariaring 33: Dachausbau, Sanierung (EilE)
+- TOP .3.: Lindwurmstr. 123: Modernisierung, Sanierung, Umgestaltung (EilE)
+- TOP .4.: Tumblingerstr. 17: Umbau, Renovierung, Anbau von Balkonen, Nutzungsänderung (EilE)
+- TOP .5.: Landwehrstr. 64a: Teilabbruch, Neubau (EilE)
+- TOP .6.: Fraunhoferstr. 33-35: Errichtung RGB und Tiefgarage (EilE)
+- TOP .7.: Paul-Heyse-Str. 17: DG-Ausbau (EilE)
+- TOP .8.: Lindwurmstr. 139a: Anbau Balkone und Vollwärmeschutz (EilE)
+- TOP .9.: Augsburgerstr. 14: Nutzungsänderung, Anbau eines Verbindungsgangs (EilE)
+- TOP .10.: Landwehrstr. 21: Nutzungsänderung (EilE)
+- TOP .11.: St.-Paul-Str. 1a: Umbau und Aufstockung RGB
+- TOP .12.: Landwehrstr. 79: Neubau RGB
+- TOP .13.: entfällt
+- TOP .14.: Schillerstr. 41: Umbau Verwaltungsgebäude zu Wohnbau
+- TOP .15.: Sonnenstr. 22:Nutzungsänderung von Laden und Kellerräumen in zwei Spielhallen
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Freizeitsport auf der Theresienwiese - Antrag der SPD-Stadtratsfraktion
+- TOP .2.: Gemeinsame Einwohnerversammlung BA 2 und BA 5 zum Klenzesteg
+- TOP .3.: Grasserstr.: Werbeanlage "City-Light-Poster"
+- TOP .4.: Sanierung des Straßenbelags in der Holzstraße zwischen Holzplatz und Müllerstaße sowie Am Glockenbach
+- TOP .1.: Baumaßnahmen SWM: a) Fernwärmeprojekt Grasserstr. 10 b) Fernwärmeprojekt Dreimühlenstraße
+- TOP .2.: Erweiterungsvorhaben Mobilfunkstandorte
+- TOP .3.: Fällgenehmigungen: a) Pettenkoferstr. 9a b) Landwehrstr. 81 c) Isartalstr. 6
+- TOP .4.: Anliegerinformation: Hermann-Lingg-Straße (zw. Bayerstraße und Schwanthalertraße)
+- TOP .5.: Geyerstr. 16: Ersatzpflanzungen (Rückmeldung LBK)
+- TOP .6.: Vollzug der Grünanlagensatzung, Baustelleneinrichtung an der Martin-Greif-Straße
+- TOP .7.: Beseitigung der Verkehrsinsel Kapuzinerstr. / Thalkirchner Str. und Verlegung der Buslinie 58; Radweg Kapuzinerstraße - BV-Empfehlung Nr. 02-08 / E 00625 vom 16.11.2006; Radverkehr in der Kapuzinerstraße - BA-Antrag Nr. 02-08 / B 02946 vom 26.02.2008; Beschluss Ausschuss Stadtplanung und Bauordnung vom 29.06.2011
+- TOP .8.: Plangenehmigungsbescheid für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz
+- TOP .9.: Kosten der geplanten 2. Stammstrecke; Beschluss Ausschuss Stadtplanung und Bauordnung 29.06.2011
+- TOP .10.: Fassadenpreis; Beschluss Ausschuss Stadtplanung und Bauordnung 29.06.2011
+- TOP .11.: Sicherung der Biotop- und Landschaftspflege in der LHM; Beschluss Ausschuss Stadtplanung und Bauordnung 29.06.2011
+- TOP .12.: Baugenehmigung: Lindwurmstr. 75
+- TOP .13.: Ideenwettbewerb Klenzesteg - Neuer Steg über die Isar "Klenzesteg"; Beschluss Ausschuss Stadtplanung und Bauordnung, Bauausschuss, 13.07.2011
+- TOP .14.: Vollzug des Bundesnaturschutzgesetzes und des Bay. Naturschutzgesetzes; Novellierung der Naturdenkmalverodnung mit Naturdenkmalliste; Beschluss Ausschuss Stadtplanung und Bauordnung, 13.07.2011
+- TOP .1.: Bürgeranliegen: Landwehrstr. 63
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Bündnis 90 - Grüne/RoLi: Verbesserung der Situation für Fußgänger und Radfahrer am Isartor / Breiterhof
+- TOP .2.: SPD: Freitzeitnutzung der Theresienwiese
+- TOP .3.: UA: Errichtung einer Achtungsampel für Fußgänger am Baldeplatz
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Auenstr. 100: Erweiterung einer Freischankfläche
+- TOP .2.: Klenzestr. 36 (Backspielhaus): Erweiterung Freischankfläche
+- TOP .3.: Paul-Heyse-Str. 17 (Panino piú): Genehmigung Freischankfläche
+- TOP .4.: Rumfordstr. 32 (Cafe Rumford): Erweiterung Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Rumfordstr. 18: Aufstellung einer Warenstellage
+- TOP .2.: Baldestr. 21 (Schlecker): Antrag für Warenstellage
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Lange Nacht der Museen (Filmvorführungen) am Alten Südfriedhof am 15.10.2011
+- TOP .2.: Änderung: Straßenfest 1. Italienische Nacht auf dem Stephansplatz am 06.08.2011
+- TOP .3.: Hans-Sachs-Straßenfest am 20.08.2011, Nachtrag zur Anhörung vom 03.06.2011
+- TOP .3.2: Verkehr
+- TOP .1.: Austausch LZA Erhardtstraße/Kohlstraße
+- TOP .2.: Hotelanfahrtszone Schwanthalerstr. 20
+- TOP .3.: Anfahrtszone für Münchner Tafel, Isartalstraße
+- TOP .1.: Freizeitsport auf der Theresienwiese (siehe TOP B 3.3.1)
+- TOP .1.: Versammlungen unter freiem Himmel (3)
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund (8)
+- TOP .3.: Unveränderte Gaststättenfortführungen: - Cafe Bistro Amazzon, Lindwurmstr. 157 - Curry 73, Bahnhofsplatz 7 - Pala, Waltherstr. 21 - Sushibar Bambusstäbchen, Kapuzinerstr. 31 - Cafe Bistro Amazzon, Lindwurmstr. 157 - SB Back Shop, Häberlstr.1 - Morizz Beach, Fraunhoferstr. 43 - Kaan, Lindwurmstr. 139a
+- TOP .4.: Verkehrsrechtliche Anordnungen: - Schulbushaltestelle für die Grundschule Klenzestraße in der Fraunhoferstraße - verkehrliche Maßnahmen für die Veranstaltung Shocking Short Award 2011 im Pathologischen Institut - Einrichtung eines personenbezogenen Behindertenparkplatzes in der Kohlstr. 4
+- TOP .5.: Verlegung einer Freischankfläche: Klenzestr. 97 (EilE)
+- TOP .6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .7.: Bürgeranliegen: Anzeige wegen Ruhestörung durch Gaststätte in der Holzstraße (Rückmeldung BI Mitte)
+- TOP .8.: Erstellen eines Lärmgutachtens rund um den Gärtnerplatz (GP), Antrag-Nr. 08-14 / 02008, Einsatz von Mediatoren und Flyern im Bereich GP, Antrag-Nr. 08-14 / B 02006, Einführung eines Konzepts zur Verbesserung der Situation am GP, Antrag-Nr. 08-14 / B 2007 - Beschluss Kreisverwaltungsausschuss 07.06.2011
+- TOP .9.: Tempolimit 30km/h in der Isartalstraße (Ziffer 3) Tempo 30/40 in Hauptverkehrsstraaßen/Erschließungsstraßen; Beschluss Kreisverwaltungsausschuss 07.06.2011 (Ergebnis: BV-Empfehlung bleibt aufgegriffen)
+- TOP .11.: Anzeige einer öffentlichen Vergnügungsveranstaltung: Kino Open Air und Nachtbiergarten im Viehhof, Zenettistr. 1
+- TOP .13.: Genehmigungsbescheid: Straßenfest des BA 2 Am Glockenbach am 25.06.2011
+- TOP .14.: Bürgeranliegen: Ruhestörungen in der Goethestraße
+- TOP .15.: Satzung der LHM über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (FabS); Beschluss Ausschuss Stadtplanung und Bauordnung 29.06.2011
+- TOP .16.: Genehmigungsbescheid: Gemeindefest St. Paul am 03.07.2011
+- TOP .17.: Bürgeranliegen: Eis-Verkauf an den Isarbrücken (Rückmeldung KVR: nicht genehmigungsfähig)
+- TOP .1.: Bürgeranliegen: Sondernutzungserlaubnis am Goetheplatz (aus der Sitzung 04/11)
+- TOP .2.: Bürgeranliegen: Verengung am Gehsteig durch Falschparker und gleichzeitige Freischankfläche in der Müllerstraße
+- TOP .1.: Termine
+- TOP .1.: Oktoberfest 2011: Termin für die Ratsboxe
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Bildung Feriensenat
+- TOP .2.: Veröffentlichung der Sitzungsprotokolle
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
