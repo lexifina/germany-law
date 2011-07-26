@@ -1,0 +1,7 @@
+# TOP .9.: Kosten der geplanten 2. Stammstrecke; Beschluss Ausschuss Stadtplanung und Bauordnung 29.06.2011
+
+- Sitzung: BA 02 - Vollgremium (2011-07-26)
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/315104
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/315104
