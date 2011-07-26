@@ -1,0 +1,75 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2011-07-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2236726
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2236726
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.2: Protokolle
+- TOP 1.3: Ausläufe
+- TOP 1.4: Bürgerfragen
+- TOP 1.5: Berichte aus den Unterausschüssen
+- TOP 1.6: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 1: (E) Maßnahmen gegen zunehmende Verschmutzung des Ortskerns von Berg-am-Laim (Schaffung von Müllentsorgungsmöglichkeiten) - <div></div>
+- TOP 1.2.: Genehmigung einer Freischankfläche in der Berg-am-Laim-Straße
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.1: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.1.1.: Planungsgebiet Rund um den Ostbahnhof a) Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung - Rosenheimer Straße (nördlich), Anzinger Str. (nördlich), Aschheimer Straße (westlich), Ampfing Straße (westlich), Mühldorfstraße (südlich) und Friedenstraße (östlich), (Teiländerung der Bebauungspläne Nrn. 939, 1241; Änderung der Bebauungspläne Nrn. 822, 1259 und 1799) - Aufstellungsbeschluss - b) Aufhebung des Aufstellungbeschlusses für den Bebauungsplan Nr. 2015 vom 19.09.2007 c) Aufhebung übergeleiteter einfacher Bebauungspläne gem. § 173 Bundesbaugesetz (BBauG)
+- TOP 3.1.1.2.: Berg-am-Laim-Str. 127 ? Nutzungsänderung eines Bürogebäudes in ein Hotel
+- TOP 3.1.2.1.: Ausfahrt Hachinger-Bach-Straße in die St.-Michael-Straße
+- TOP 3.1.2.2.: Austausch der LZA Bad-Schachener-Straße / Hechtseestraße
+- TOP 3.1.2.3.: Verkehrsregelungen im Bereich Baumkirchner Straße / Josephsburgstraße
+- TOP 3.1.2.4.: Baumkirchner Straße - Wochenmarktplatz - Antrag auf absolutes Haltverbot
+- TOP 3.1.2.5.: "Radlhauptstadt München" umsetzen - Mehr Bike&Ride-Stellplätze in Berg am Laim schaffen - <div></div>
+- TOP 3.1.2.6.: Fahrradabstellanlage am U-Bahnhof Kreillerstraße
+- TOP 3.1.3.1.: Stadtradeln 2011 ? Gemeinsam radeln fürs Klima
+- TOP 3.1.3.2.: Müllproblem München Ost / Flohmarkt Michaelibad
+- TOP 3.1.3.3.: Errichtung und Betrieb einer Anlage zur Behandlung von Oberflächen unter Verwendung von organischen Lösemitteln (Beschichten, Reinigen) inkl. Einer Abluftreinigungsanlage sowie Anlagen zur Lagerung von sehr giftigen, giftigen, brandfördernden und explosionsgefährlichen Stoffen in der Anzinger Str. 13 ? Vollzug der 4. Bundesimmissionsschutzverordnung, Nr. 5.1 a sowie Nr. 9.35
+- TOP 3.2.1.: Schaffung eines zentralen Versammlungs- und Veranstaltungsortes im Zuge der Neuplanung der Sportstätten des ESV München Ost
+- TOP 3.2.2.: Straßenfest des Bürgerkreises Berg am Laim am 11.09.2011 in der Baumkirchner Straße
+- TOP 3.3: Bereich Jugend/Schule
+- TOP 3.4: Bereich Soziales
+- TOP 3.6.1.: Randorferstr. 11
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.1: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.1.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.1.2.1.: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn
+- TOP 4.1.2.2.: Radfahrstreifen / Schutzstreifen in der Truderinger Straße zwischen Riedenburger Straße und Roßsteinstraße; Anpassung der Beschilderung in der S-Bahn-Unterführung Berg am Laim ? Verkehrsrechtliche Anordnung nach § 45 Straßenverkehrsordnung
+- TOP 4.1.2.4.: Absage der Triathlonveranstaltung "Tri4fun" am 24.07.2011
+- TOP 4.1.3.1.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 4.1.3.2.: Vollzug des Bundesnaturschutzgesetzes und des Bayerischen Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste
+- TOP 4.3: Bereich Jugend, Schule, Sport
+- TOP 4.4: Bereich Unterausschuss Soziales
+- TOP 4.5.1.: Maibaumverein Berg am Laim e.V.
+- TOP 4.6.1.: Mutschellestraße 2
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.1: Termine der UA - Sitzungen
+- TOP 5.1.1: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.1.2: Unterausschuss Fest und Kultur
+- TOP 5.1.3: Unterausschuss Jugend und Schule
+- TOP 5.1.4: Unterausschuss Soziales
+- TOP 5.1.5: Unterausschuss Budget
+- TOP 5.2: Ankündigungen
+- TOP 5.3: Sonstiges/Verschiedenes
+- TOP 3.1.1: Planungsangelegenheiten (1)
+- TOP 3.1.2: Verkehrsangelegenheiten (1)
+- TOP 3.1.3: Umweltangelegenheiten (1)
+- TOP 3.2: Bereich Fest/Kultur (1)
+- TOP 3.5: Bereich Budget (1)
+- TOP 3.6: Baumschutz (1)
+- TOP 4.1.1: Planungsangelegenheiten (2)
+- TOP 4.1.2: Verkehrsangelegenheiten (2)
+- TOP 4.1.3: Umweltangelegenheiten (2)
+- TOP 4.2: Bereich Fest/Kultur (2)
+- TOP 4.5: Bereich Budget (2)
+- TOP 4.6: Baumschutz (2)
