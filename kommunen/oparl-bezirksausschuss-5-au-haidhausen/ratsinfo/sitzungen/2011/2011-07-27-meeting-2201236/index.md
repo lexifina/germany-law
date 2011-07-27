@@ -1,0 +1,127 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-07-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201236
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201236
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Kurzbericht der Diakonie über die Veranstaltung ?Guter Start?
+- TOP .2.: Lärmbelästigung durch Nachtarbeit auf dem Orleansplatz
+- TOP .3.: Kurzbericht des Fördervereins Wörthschule über den Aufenthalt auf der Klasse 5 auf einem Bauernhof im Chiemgau
+- TOP .4.: Parkraummanagement Südliche Au
+- TOP .5.: Sperrung von Parkplätzen wegen Dreharbeiten im Parklizenzbereich Regerplatz
+- TOP .6.: Ampelsituation Einmündung Comenius- /Wörthstraße, Übergang Kreuzung Sedan- / Metzstraße
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Gemeinde St. Johannes Artionale vom 30.09. - 29.10.2011 - <div>nach Antrag</div>
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Sondernutzungserlaubnisse für Fahrradständer, Fahrradstellplatzkonzept; Schreiben des Kreisverwaltungsreferats vom 09.05.2011
+- TOP .2.: Weißenburger Str. 25 und 41, "Tengelmann": Widerruf von zwei Sondernutzungserlaubnissen für Fahrradständer aufgrund des Fahrradstellplatzkonzeptes - <div>nach Antrag</div>
+- TOP .3.: Rosenheimer Str. 125, "Lisalu": Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>abweichend</div>
+- TOP .4.: Breisacher Str. 21, "Alegria": Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>nach Antrag</div>
+- TOP .5.: Lucile-Grahn-Str. 36a, "Radiologie am Prinzregentenplatz": Sondernutzungserlaubnis für einen mobilen Fahrradständer - <div>nach Antrag</div>
+- TOP .6.: Pariser Str. 24, "Terreno Bar": Erweiterung einer bestehenden Freischankfläche - <div>abweichend</div>
+- TOP .7.: Rosenheimer Str. 108, "Exil": Genehmigung einer Freischankfläche - <div>abweichend</div>
+- TOP .8.: Johannisplatz 23, ?Backshop Maresi?: Genehmigung einer Freischankfläche - <div>nach Antrag</div>
+- TOP .9.: Innere Wiener Str. 57, ?San Francisco Coffee Company?: Genehmigung einer Freischankfläche - <div>abweichend</div>
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Verkehrssicherheit an der Kreuzung Einsteinstr. / Grillparzerstr.; verschiedene Maßnahmen (BV-Empfehlung Nr. 08-14/ E 00825) - <div>nach Antrag</div>
+- TOP .2.: Projektplanung Metzstraße - <div>nach Antrag</div>
+- TOP .1.: EINSTEIN Kulturzentrum, künftiger Betrieb, Finanzierung der Betriebskosten, Beschlussvorlage für den Kulturausschuss
+- TOP .2.: Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung), Anhörungsschreiben vom 18.07.2011
+- TOP .3.: Postwiese, Anhörungsverfahren für Flohmarkt des AKA e.V. am 17.09.2011
+- TOP .4.: Isarinselfest vom 02. - 04.09.2011
+- TOP .5.: Postwiese, Anhörungsverfahren für Sommerfest Soles y Lunas e.V. am 10.09.2011
+- TOP .6.: Orleansplatz, Anhörungsverfahren für Bayernmarkt vom 20.08.-04.09.2011
+- TOP .7.: Frühlingsanlagen Wegerückbau, Schreiben des Baureferats vom 22.07.2011
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Verkehrsführung am Haidenauplatz
+- TOP .2.: Verbesserung der Situation für Fußgänger an der Fußgängerampel Innere Wiener Str. / Kellerstr. auf Höhe der Lorettokapelle
+- TOP .3.: Datenmaterial über Stand und Entwicklung der Sozialstruktur in Au-Haidhausen im Rahmen der kommenden Volkszählung
+- TOP .4.: Entmüllung, Reinigung und Instandsetzung der Baumgräben in der Weißenburger Straße, am Weißenburger und Pariser Platz und in der Lothringer Straße
+- TOP .5.: Stellplatzablöse: Zulässigkeit der Baumaßnahmen über städtebauliche Verträge an die Realisierung von preislimitierten Anwohnerstellplätzen binden
+- TOP .6.: Schnee- und eisfreie Treppen an den Abgängen zu U- und S-Bahnhöfen
+- TOP .7.: Umsetzung der UN-Behindertenrechtskonvention
+- TOP .8.: Verlängerung der Ampelphasen an der Kreuzung Wörthstraße, Milchstraße und Preysingstraße
+- TOP .9.: Hinweisschilder beim Bauvorhaben Isar-Plan
+- TOP .10.: Schulung für Schulbegleiter
+- TOP .11.: Instandsetzung des Brunnens in der Wohnanlage an der Seeriederstraße 5-29
+- TOP .12.: Fahrgastzahlen der Buslinie 152
+- TOP .13.: Informationen für Blinde und Sehgeschädigte im S-Bahnbereich sowie MVG-Bereich (Antrag Nr. 08-14/ B 02622), ergänzendes Schreiben des RAW vom 11.07.2011
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Bezuschussung von Anwohnerstellplätzen in der Welfenstraße, Schreiben des Referats für Stadtplanung und Bauordnung vom 20.05.2011
+- TOP .2.: Verschmutzung durch Verpackungsmaterial der Fa. McDonald's in der Weißenburger Straße, Schreiben des Kreisverwaltungsreferats vom 06.06.2011
+- TOP .3.: Senkungen auf Fußwegen; Schreiben des Baureferats vom 01.06.2011
+- TOP .4.: Zeitgleiche Baustellen der SWM in Haidhausen; Schreiben der SWM vom 01.06.2011
+- TOP .5.: Baustelle Preysingplatz 3-7, Schreiben des Kreisverwaltungsreferats vom 29.06.2011
+- TOP .6.: Sanierung der Brücke der Regerstraße über den Eisenbahn-Südring, Schreiben des Baureferats vom 28.06.2011
+- TOP .7.: Beleuchtung der Unterführungen entlang des Isarradwegs, Schreiben des Baureferats vom 20.07.2011
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .1.: Anträge des BA 1 zum Thema ?Zweckentfremdung von Wohnraum?
+- TOP .2.: Sanierung des Isarradwegs im Isar-Hochwasserbett zwischen Reichenbachbrücke und Thalkirchner Brücke, Schreiben des Baureferats vom 20.07.2011
+- TOP .3.: Beauftragter für Bürgerschaftliches Engagement (BE) in den Sozialbürgerhäusern
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Einsteinstr. 177
+- TOP .1.: Gedenken in Form von Stolpersteinen, Antrag der Fraktion Bündnis 90 / Die Grünen im BA 5; E-Mail des Kulturreferats vom 08.06.2011
+- TOP .2.: Graham Lack, ?Streicherprojekt?
+- TOP .3.: Antrag auf Gewährung eines Zuschusses aus Budgetmitteln des BA 5: Evang.-Luth. Gemeinde St. Johannes für ?Artionale in St. Johannes vom 30. 9. - 29. 10. 2011?
+- TOP .1.: Protokoll zur BA-Informationsveranstaltung des Sozialreferats vom 29.11.2010
+- TOP .2.: Stadtjugendamt / Förderung freier Träger im Haushaltsjahr 2012: Nachbarschaftshilfe in der Au e.V.
+- TOP .1.: Leuchtenbergring, 1 WerbeanlageTyp ?City-Light-Poster?
+- TOP .2.: Balanstr., 1 Werbeanlage Typ ?City-Light-Poster?
+- TOP .1.: Zukunftskonzepte der festen Lebensmittelmärkte, Markt am Wiener Platz, Immobilienwirtschaftliche Analyse, Bestandsanalyse
+- TOP .1.: Einsteinstr. 34: Nutzungsänderung ? Umbau einer Arbeiterunterkunft zu einem Hotel und Einrichtung einer Dachgaube; Bürgeranliegen Einsteinstr. 34, Be- und Entladen für Hotel, Betrieb des Cafés, Parkerlaubnis
+- TOP .2.: Einsteinstr. 28: Neubau der Turnhalle, Ergänzungsbau für die Kirchenschule
+- TOP .3.: Rosenheimer Str. 106: Abbruch des Dachstuhles und Errichtung eines neuen Daches mit Einbau dreier Wohnungen
+- TOP .4.: Kirchenstr. 10a: Neubau einer offenen Terrassenüberwachung im DG eines Mehrfamilienhauses
+- TOP .5.: Umgestaltung St.-Wolfgangs-Platz
+- TOP .6.: Nockherstr. 27, Sanierung Rückgebäude mit Teilabbruch und Raumerweiterung
+- TOP .7.: Preysingstr. 50, Nutzungsänderung von Büroräumen in eine Kindertagesbetreuung
+- TOP .8.: Lucile-Grahn-Str. 23, Aufstockung eines Wohngebäudes und Erneuerung des Dachstuhles mit zwei WE, energetische Sanierung des Bestandsgebäudes, Einbau einer Aufzugsanlage
+- TOP .9.: Ruhestr. 7, Neubau eines Einfamilienhauses ? VORBESCHEID
+- TOP .1.: Fassadenpreis; a) 41. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2010; b) Neufassung des Fassadenpreis; c) Zeitliche Streckung des Fassadenwettbewerbs; Wechsel von jährliche, auf zweijährigen Turnus
+- TOP .2.: Bereiteranger 15: Sanierung und Umbau des Gesamtanwesens mit Schließung einer Baulücke, Umbau und Aufstockung von Halle und Rückgebäuden sowie Nutzungsänderung von Gewerbeflächen in Wohnungen ? VORBESCHEID; Schreiben der LBK vom 29.06.2011, Vorbescheid vom 29.06.2011
+- TOP .3.: Preysingplatz 14: Neubau des Kinderhauses St. Josefsheim; Schreiben der LBK vom 04.07.2011, Baugenehmigung vom 01.07.2011
+- TOP .4.: Einsteinstraße 65: Nutzungsänderung Büro- / Gewerbeflächen zu Labors, Mitteilung der LBK vom 11.07.2011
+- TOP .5.: Edlingerstr. 25: Dachgeschoss-Ausbau und Erweiterung des Wohnhauses, Mitteilung der LBK vom 11.07.2011
+- TOP .1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP .2.: Austausch der Lichtzeichenanlage Prinzregenten- / Wagenbauerstraße
+- TOP .3.: Zebrastreifen vor der Abzweigung von der Orleansstraße zum Ostbahnhof, Bürgerschreiben vom 25.06.2011
+- TOP .4.: Parkproblematik Au/ Untergiesing, Bürgerschreiben
+- TOP .1.: Erläuterungen zur Baustelle Tram 18 - Innere Wiener Straße durch die SWM
+- TOP .2.: ?Dialog Display? in München; Beschluss des Kreisverwaltungsausschusses vom 07.06.2011
+- TOP .3.: Tempo 30 / 40 in Hauptverkehrsstraßen / Erschließungsstraßen, Beschluss des Kreisverwaltungsausschusses vom 07.06.2011
+- TOP .4.: Vollzug des BImSchG und der 32. BImSchV; Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV / Straßenbau
+- TOP .5.: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS), Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP .6.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP .7.: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP .8.: Vollzug des Bundesnaturschutzgesetzes und des Bayerischen Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mi, 14.09.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Mi, 14.09.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Di, 13.09.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Do, 15.09.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Mo, 12.09.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mi, 21.09.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
