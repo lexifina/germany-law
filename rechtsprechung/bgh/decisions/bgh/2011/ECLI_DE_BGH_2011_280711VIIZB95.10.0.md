@@ -1,0 +1,258 @@
+---
+ecli: "ECLI:DE:BGH:2011:280711VIIZB95.10.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-07"
+aktenzeichen: "VII ZB 95/10"
+decided: "2011-07-28"
+typ: "B"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2011&Sort=1&Seite=77&nr=57539&anz=3712&pos=2315&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-07_NA_2011-07-28_VII_ZB_95_10_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/zpo/0097.md", "germany/bund/acts/zpo/0575.md", "germany/bund/acts/zpo/0765a.md", "germany/bund/acts/zpo/0835.md", "germany/bund/acts/zpo/0850k.md"]
+---
+
+# Bundesgerichtshof, VII ZB 95/10 vom 2011-07-28
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                        BESCHLUSS
+VII ZB 95/10
+
+                                vom
+
+                            28. Juli 2011
+
+                 in dem Zwangsvollsteckungsverfahren
+
+                                         -2-
+
+
+
+    Der VII. Zivilsenat des Bundesgerichtshofs hat am 28. Juli 2011 durch den
+    Vorsitzenden Richter Prof. Dr. Kniffka, den Richter Dr. Kuffer, den Richter
+    Bauner, die Richterin Safari Chabestari und den Richter Dr. Eick
+
+    beschlossen:
+
+          Auf die Rechtsbeschwerde der Drittschuldnerin werden die Beschlüsse des Amtsgerichts Delmenhorst vom 25. August 2010 in
+          Ziffer 3 und der 6. Zivilkammer des Landgerichts Oldenburg vom
+          24. November 2010 aufgehoben und der Antrag der Schuldnerin
+          vom 25. August 2010 mit der Maßgabe zurückgewiesen, dass
+          festgestellt wird, dass die Drittschuldnerin ein Guthaben auf dem
+          Pfändungsschutzkonto der Schuldnerin am Monatsende nur insoweit an die Gläubigerin auszahlen darf, als dieses den der
+          Schuldnerin gemäß § 850k Abs. 1 ZPO zustehenden monatlichen
+          Freibetrag für den Folgemonat übersteigt.
+
+          Die Kosten der Drittschuldnerin und der Schuldnerin werden gegeneinander aufgehoben.
+
+
+
+
+                                        Gründe:
+
+                                           I.
+
+1         Die Gläubigerin betreibt gegen die Schuldnerin die Zwangsvollstreckung
+    aus einem Vollstreckungsbescheid.
+
+                                         -3-
+
+
+
+2         Die Schuldnerin unterhielt bei der Drittschuldnerin ein Girokonto, dessen
+    Guthaben aufgrund eines Pfändungs- und Überweisungsbeschlusses gepfändet worden ist. Mitte Juli 2010 ließ die Schuldnerin das Girokonto in ein Pfändungsschutzkonto umwandeln. Nachdem der Pfändungsfreibetrag gemäß
+    § 850k Abs. 1 ZPO a.F. im Juli 2010 bereits ausgeschöpft war, gingen am
+    30. Juli 2010 für den Monat August bestimmte Sozialleistungen auf dem Girokonto ein.
+
+3         Die Drittschuldnerin geht insoweit von pfändbarem Einkommen aus.
+
+4         Die Schuldnerin begehrt im Rahmen eines Vollstreckungsschutzantrags
+    nach § 765a ZPO die Aufhebung der Pfändung der Sozialleistungen. Das
+    Amtsgericht hat dem Begehren bezogen auf den Zahlungseingang Ende Juli
+    2010 entsprochen und darüber hinaus in Ziffer 3 des Beschlusses angeordnet,
+    dass zukünftig die zum Monatsende eingehenden Einkünfte der Schuldnerin,
+    bei denen ersichtlich sei, dass sie für den Folgemonat gezahlt würden, so zu
+    behandeln seien, als wären sie im Folgemonat auf das Konto eingegangen.
+
+5         Die gegen letztere Anordnung gerichtete Beschwerde der Drittschuldnerin hat das Beschwerdegericht mit der Maßgabe zurückgewiesen, dass Zahlungseingänge, die drei Tage oder weniger vor dem Monatsende auf dem Konto
+    eingingen, pfändungsrechtlich so zu behandeln seien, als seien sie am ersten
+    Tag des folgenden Monats eingegangen.
+
+6         Mit ihrer zugelassenen Rechtsbeschwerde begehrt die Drittschuldnerin
+    die Aufhebung des angegriffenen Beschlusses und damit der Anordnung.
+
+                                          -4-
+
+
+
+                                           II.
+
+7         Die gemäß § 574 Abs. 1 Satz 1 Nr. 2, Abs. 3 Satz 2, § 575 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde ist teilweise begründet.
+
+8         1. Das Beschwerdegericht führt aus, die gesetzlichen Regelungen zum
+    Pfändungsschutzkonto enthielten keine ausdrückliche Bestimmung zur Verfahrensweise mit auf einem Konto am Monatsende gutgeschriebenen Geldern, die
+    für den Lebensunterhalt der Schuldnerin im Folgemonat bestimmt seien. Ausgehend von der Regelung zum Pfändungsschutzkonto in § 850k Abs. 1 ZPO
+    a.F. würden am Monatsende auf dem Konto eingehende Beträge daher von der
+    Pfändung erfasst, wenn die Schuldnerin über den ihr in diesem Monat zustehenden pfandfreien Betrag bereits vollständig verfügt habe. Der Schuldnerin
+    müsse die Möglichkeit eingeräumt werden, eine klarstellende Entscheidung des
+    Vollstreckungsgerichts hinsichtlich der Gelder herbeizuführen, die sie im Folgemonat für ihren Lebensunterhalt benötige. Die gesetzliche Grundlage hierzu
+    biete § 765a ZPO. Eine unbillige Vollstreckung, die für die Schuldnerin zu einer
+    sittenwidrigen Härte führe, liege vor, wenn der Schuldnerin der Bestreitung des
+    Lebensunterhalts dienende Leistungen, die entsprechend dem Willen des Leistenden für den Folgemonat bestimmt seien, wegen einer Vollstreckungshandlung in dem Folgemonat nicht zur Verfügung stünden. Schützenswerte Belange
+    der Gläubigerin würden durch die Freigabe der für den Folgemonat überlassenen Geldmittel nicht berührt.
+
+9         Vor diesem Hintergrund rechtfertige sich die generalisierende Anordnung, Zahlungseingänge, die drei Tage oder weniger vor dem Monatsende auf
+    dem Konto eingingen, pfändungsrechtlich so zu behandeln, als seien sie am
+    ersten Tag des folgenden Monats eingegangen. Der kontoführenden Dritt-
+
+                                          -5-
+
+
+
+     schuldnerin entstehe durch die Freigabe der für den Folgemonat bestimmten
+     Leistungen auch kein erheblicher Nachteil.
+
+10         2. Die Rechtsbeschwerde führt aus, die Gewährung von Vollstreckungsschutz gemäß § 765a ZPO sei nicht gerechtfertigt. § 850k Abs. 1 ZPO a.F. stelle sicher, dass der Schuldnerin in dem Kalendermonat, in dem die Pfändung
+     erfolge, das Existenzminimum verbleibe. Dass der Schuldnerin das gepfändete
+     Geld im Folgemonat nicht zur Verfügung stehe, liege in der Natur der Sache
+     und begründe keine sittenwidrige Härte im Sinne des § 765a ZPO. Die Anordnung des Beschwerdegerichts stehe demgegenüber im Widerspruch zu der
+     gesetzlichen Zuordnung der eingehenden Einkünfte zu dem jeweiligen Kalendermonat. Durch sie werde ihr ohne rechtliche Grundlage das Risiko einer
+     Fehlbeurteilung im Falle einer Auszahlung zugewiesen.
+
+11         3. Die Rechtsbeschwerde hat teilweise Erfolg.
+
+12         a) Die Rechtsbeschwerde ist zulässig. Insbesondere ist die Drittschuldnerin beschwerdebefugt, denn sie macht geltend, durch die getroffene Anordnung in ihren eigenen Rechten verletzt worden zu sein. Mit der Anordnung, den
+     zeitlichen Rahmen der Geltung des Pfändungsfreibetrags entgegen der gesetzlichen Vorgabe zu verschieben, würden ihr ein zusätzlicher organisatorischer
+     Aufwand sowie mittelbar auch Haftungsrisiken auferlegt.
+
+13         b) Die Rechtsbeschwerde ist auch teilweise begründet.
+
+14         aa) Mit der Neuregelung des § 835 Abs. 4 Satz 1 ZPO in dem Zweiten
+     Gesetz zur erbrechtlichen Gleichstellung nichtehelicher Kinder, zur Änderung
+     der Zivilprozessordnung und der Abgabenordnung vom 12. April 2011 (BGBl. I
+     S. 615 f.) darf durch die Drittschuldnerin ein Guthaben auf einem Pfändungsschutzkonto im Sinne von § 850k Abs. 7 ZPO am Monatsende nur insoweit an
+
+                                          -6-
+
+
+
+     die Gläubigerin ausgezahlt werden, als dieses den der Schuldnerin gemäß
+     § 850k Abs. 1 ZPO zustehenden monatlichen Freibetrag für den Folgemonat
+     übersteigt.
+
+15           Damit kann die Schuldnerin über die auf dem Pfändungsschutzkonto
+     eingegangenen Sozialleistungen, die zur Bestreitung des Lebensunterhalts im
+     Folgemonat bestimmt sind, auch dann verfügen, wenn der monatliche Freibetrag des Kalendermonats gemäß § 850k Abs. 1 ZPO zu diesem Zeitpunkt bereits ausgeschöpft ist, soweit die eingegangenen Sozialleistungen den Freibetrag des Folgemonats nicht überschreiten, § 835 Abs. 4 Satz 1 in Verbindung
+     mit § 850k Abs. 1 Satz 2 ZPO.
+
+16           bb) Die mit Wirkung zum 16. April 2011 in Kraft getretene Neuregelung
+     des § 835 Abs. 4 Satz 1 ZPO findet auf den vorliegenden Sachverhalt Anwendung.
+
+17           (1) Die Anwendbarkeit neuer Prozessgesetze auf anhängige Rechtsstreitigkeiten richtet sich in erster Linie nach den vom Gesetzgeber - regelmäßig in
+     Gestalt von Überleitungsvorschriften - getroffenen positiven Regelungen. Soweit diese fehlen, erfassen Änderungen des Prozessrechts im Allgemeinen
+     auch schwebende Verfahren. Diese sind daher mit dem Inkrafttreten des Änderungsgesetzes grundsätzlich nach neuem Recht zu beurteilen, soweit es nicht
+     um unter der Geltung des alten Rechts abgeschlossene Prozesshandlungen
+     und abschließend entstandene Prozesslagen geht oder sich aus dem Sinn und
+     Zweck der betreffenden Vorschrift oder aus dem Zusammenhang mit anderen
+     Grundsätzen des Prozessrechts etwas Abweichendes ergibt (BGH, Urteil vom
+     13. Dezember 2006 - VIII ZR 64/06, NJW 2007, 519 f. m.w.N.).
+
+18           (2) Das Änderungsgesetz enthält keine Überleitungsvorschriften. Den
+     Gesetzesmaterialien lässt sich jedoch mit hinreichender Klarheit entnehmen,
+
+                                         -7-
+
+
+
+     dass der Gesetzgeber die Neuregelung auch auf noch nicht abgeschlossene
+     Sachverhalte angewendet wissen wollte. Denn nach seiner Vorstellung diente
+     die Neuregelung lediglich der Klarstellung einer mit der Einführung des Pfändungsschutzkontos nach dem Willen des Gesetzgebers bestehenden Rechtslage. Durch die Änderungen der Regelungen zum Pfändungsschutzkonto soll
+     sichergestellt werden, dass es nicht zur Auszahlung von nicht pfändbaren Beträgen kommt, die dem Konto des Schuldners zum Monatsende gutgeschrieben
+     werden und die für den Folgemonat bestimmt sind. Beträge, die der Existenzsicherung in einem bestimmten Monat dienen würden, sollten dem Empfänger
+     auch in diesem Monat zur Verfügung stehen; dies habe bereits nach der alten
+     Rechtslage gelten sollen (Begründung zum Gesetzentwurf der Bundesregierung, BT-Drucks. 17/4776, S. 8)
+
+19         (3) Sinn und Zweck der Rechtsänderung sprechen ebenfalls für eine Anwendbarkeit des neuen Gesetzes auf noch nicht abgeschlossene Pfändungssachverhalte. Bereits der Begründung des Gesetzentwurfs der Bundesregierung zur Einführung des Pfändungsschutzkontos ist zu entnehmen, dass ein
+     Guthaben im Umfang des Freibetrags dem Schuldner in einem Kalendermonat
+     zur Verfügung stehen sollte (Entwurf eines Gesetzes zur Reform des Kontopfändungsschutzes, BT-Drucks. 16/7615, S. 12 ff.). Die Pfändung eines im
+     Vormonat bereits auf dem Konto eingegangenen Guthabens würde demgegenüber dazu führen, dass dem Schuldner im Folgemonat kein Guthaben verbleiben würde. Zentrales Ziel der Rechtsänderung war daher, das sogenannte
+     "Monatsanfangsproblem" im Sinne der von vornherein beabsichtigten Regelung
+     zu   lösen   (Begründung     zum    Gesetzentwurf    der   Bundesregierung,
+     BT-Drucks. 17/4776, S. 8).
+
+20         (4) Der allgemeine rechtsstaatliche Grundsatz des Vertrauensschutzes
+     steht der Einräumung eines Vollstreckungsschutzes nach der Neuregelung
+
+                                          -8-
+
+
+
+     nicht entgegen. Gläubiger konnten kein Vertrauen darauf entwickeln, dass sie
+     aufgrund der Pfändungsvorschriften in die Lage versetzt werden sollten, dem
+     Schuldner für einen Monat die Lebensgrundlage zu entziehen. Das ergibt sich
+     ohne weiteres aus dem vom Gesetzgeber mit der Einrichtung des Pfändungsschutzkontos verfolgten Zweck. Zutreffend haben deshalb die Vollstreckungsgerichte dem Schuldner ganz überwiegend vor Inkrafttreten der Neuregelung
+     bei Vorliegen der weiteren Voraussetzungen des § 765a ZPO Vollstreckungsschutz gewährt (vgl. LG Essen, ZVI 2010, 350; LG Oldenburg, ZVI 2011, 31,
+     32; AG Esslingen, ZVI 2010, 481; AG Ludwigshafen, ZVI 2010, 354; vgl. auch
+     Krüger, ZVI 2010, 458; Strunk, ZVI 2010, 335, 338; Jäger, ZVI 2010, 325,
+     328 f.).
+
+21          Auch in Bezug auf die Drittschuldnerin steht der Grundsatz des Vertrauensschutzes einer Anwendung der Neuregelung des § 835 Abs. 4 Satz 1 ZPO
+     nicht entgegen, denn diese hat lediglich eingehende Zahlungen im Umfang des
+     der Schuldnerin zustehenden Freibetrags bis zum Ende des Folgemonats nicht
+     an die Gläubigerin auszuzahlen. Sie hat damit weder eine Überprüfung des
+     Leistungszwecks auf dem Konto eingehender Zahlungen noch eine vom Kalendermonat abweichende zeitliche Zäsur hinsichtlich der Zahlungseingänge vorzunehmen, sondern es verbleibt wie bislang bei der Gewährung des auf den
+     Kalendermonat bezogenen einmaligen Freibetrags.
+
+22          (5) Da nicht unter der Geltung des alten Rechts abgeschlossene Prozesshandlungen oder abschließend entstandene Prozesslagen zur Beurteilung
+     stehen, ist nach allem die Rechtslage nach dem Zweiten Gesetz zur erbrechtlichen Gleichstellung nichtehelicher Kinder, zur Änderung der Zivilprozessordnung und der Abgabenordnung vom 12. April 2011 (BGBl. I S. 615 f.) maßgeblich. Nach dieser Rechtslage genießt die Schuldnerin gemäß § 835 Abs. 4
+     Satz 1 in Verbindung mit § 850k Abs. 1 ZPO Vollstreckungsschutz dahin, dass
+
+                                           -9-
+
+
+
+     ihr die bereits am Monatsende eingehenden Sozialleistungen bis zur Höhe des
+     ihr für den Folgemonat zustehenden Freibetrags tatsächlich zur Verfügung stehen.
+
+23          Das entspricht im Ergebnis auch dem mit dem Antrag gemäß § 765a
+     ZPO verfolgten Begehren der Schuldnerin, einen Zugriff der Gläubigerin auf die
+     für den Folgemonat bestimmten Sozialleistungen zu verhindern.
+
+24          cc) Das Rechtsschutzbegehren der Schuldnerin hat deshalb insoweit Erfolg, als festzustellen war, dass die Drittschuldnerin ein Guthaben auf dem
+     Pfändungsschutzkonto der Schuldnerin am Monatsende nur insoweit an die
+     Gläubigerin auszahlen darf, als dieses den der Schuldnerin gemäß § 850k
+     Abs. 1 ZPO zustehenden monatlichen Freibetrag für den Folgemonat übersteigt. Da die Schuldnerin bereits durch die gesetzliche Regelung so gestellt
+     wird, hat der Senat dies im Hinblick auf den Streit zwischen den Parteien festgestellt. Dementsprechend muss auch keine Anordnung nach § 765a ZPO ergehen, so dass die dahingehenden Beschlüsse der Vorinstanzen aufzuheben
+     waren.
+
+25          Das Begehren der Drittschuldnerin hat insoweit Erfolg, als sie belastende
+     Anordnungen getroffen worden sind, die keine gesetzliche Grundlage haben
+     und auch nicht erforderlich sind. Dagegen bleibt die Rechtsbeschwerde der
+     Drittschuldnerin insoweit ohne Erfolg, als sie damit erreichen wollte, über dem
+     monatlichen Freibetrag der Schuldnerin liegende Guthaben auf dem Pfändungsschutzkonto sofort und nicht erst nach Ablauf des Folgemonats an Gläubiger auszahlen zu dürfen, denn dadurch würde der Regelungszweck des § 835
+     Abs. 4 Satz 1 in Verbindung mit § 850k Abs. 1 ZPO vereitelt.
+
+                                           - 10 -
+
+
+
+                                             III.
+
+26         Die Kostenentscheidung ergibt sich aus § 92 Abs. 1, § 97 Abs. 1 ZPO.
+
+27         Die außergerichtlichen Kosten der Drittschuldnerin und der Schuldnerin
+     trägt jede Partei selbst, die Kosten des Verfahrens werden hälftig geteilt.
+
+
+
+
+     Kniffka                                  Kuffer                               Bauner
+
+                     Safari Chabestari                           Eick
+
+
+
+
+     Vorinstanzen:
+     AG Delmenhorst, Entscheidung vom 25.08.2010 - 10 M 4419/09 -
+     LG Oldenburg, Entscheidung vom 24.11.2010 - 6 T 719/10 -
