@@ -57,7 +57,7 @@ Kostenverzeichnis der Bildungs- und Wissenschaftsverwaltung:
  | Für jede weitere Qualifikation | 50,00 | Euro
 203.12 | Erneute Ausstellung einer Bescheinigung nach Ziff. 203.11 (z.B. bei Verlust) | 50,00 | Euro
  | Hinweis zu den Ziffern 203.11 und 203.12: |  | 
- | Gebührenbefreiung wird nicht erteilt.“ |  | 
+ | Gebührenbefreiung wird nicht erteilt. |  | 
 203.13 | Vorbeglaubigung von Urkunden zur Verwendung im Ausland zum Zwecke der Legalisation. | 15,00 | Euro
 204 | Ausbildung von Ausbildenden |  | 
 204.00 | Widerrufliche Zuerkennung der fachlichen Eignung zum Ausbilden von Auszubildenden im Handwerk (§ 22 Abs. 3 der Handwerksordnung in der Fassung des § 100 des Berufsbildungsgesetzes) | 40,00 Euro bis 107,50 Euro | 
@@ -78,9 +78,10 @@ Kostenverzeichnis der Bildungs- und Wissenschaftsverwaltung:
  | Bemerkungen zu 205.05 bis 205.07: Der personelle Aufwand für die Abnahme von Prüfungen an Privatschulen ist sehr hoch, da hierfür zusätzlich ein Prüfungsausschuss eingerichtet werden muss. Der tatsächliche Aufwand ist jeweils zu ermitteln. |  | 
 205.08 | Bearbeitung eines Antrages auf Erteilung der staatlichen Anerkennung einer privaten Hochschule (§ 112 Abs. 1 BremHG) sowie der damit im Zusammenhang stehenden Folgegenehmigungen | 575,00 Euro bis 5.750,00 Euro | 
 205.09 | Bearbeitung eines Antrages einer ausländischen Hochschule auf Genehmigung einer Niederlassung (§ 112 Abs. 2 BremHG) sowie der damit in Zusammenhang stehenden Folgegenehmigungen | 575,00 Euro bis 5.750,00 Euro | 
-206 | Mittagessen an Ganztagsgrundschulen der Stadtgemeinde Bremen |  | 
- | Gebühren für Mittagessen in den Ganztagsgrundschulen werden für die teilnehmenden Schülerinnen und Schüler von den Erziehungsberechtigten monatlich wie folgt erhoben: |  | 
-206.01 | Für Bezieher existenzsichernder Leistungen gem. SGB II, SGB XII oder Asylbewerberleistungsgesetz(nach Nachweis des Leistungsbezugs) | gebührenfrei | 
+206 | Mittagsverpflegung an Grundschulen der Stadtgemeinde Bremen |  | 
+206.00 | Die Gebühren werden monatlich von den Erziehungsberechtigten erhoben. Die Erziehungsberechtigten können verpflichtet werden, die Gebühren unmittelbar an den Bereitsteller des Essens, auch durch Lastschrifteinzug, zu leisten. Bei der Berechnung der Gebühr wird ein ganzes Jahr zugrunde gelegt. Die Jahresgebühr ist monatlich anteilig in zwölf gleichen Beträgen ab August bis Juli des jeweiligen Schuljahres zu entrichten. |  | 
+206.01 | Für Bezieher von Leistungen nach § 3 Asylbewerberleistungsgesetz |  | gebührenfrei
 206.02 | Für alle übrigen | 27,00 Euro | 
 206.03 | Für Geschwister auf derselben Grundschule je Kind | 23,25 Euro | 
- | Bei der Berechnung der Gebühr wird ein ganzes Jahr zugrunde gelegt. Die Jahresgebühr ist monatlich anteilig in zwölf gleichen Beiträgen ab August bis Juli des jeweiligen Schuljahres zu entrichten. |  | 
+206.04 | Die Vorlage des Berechtigungsnachweises (Blaue Karte) ersetzt bei Beziehern von Leistungen für Bildung und Teilhabe nach § 28 Absatz 6 des Zweiten Buches Sozialgesetzbuch, § 34 Absatz 6 des Zwölften Buches Sozialgesetzbuch, § 2 des Asylbewerberleistungsgesetzes oder § 6b des Bundeskindergeldgesetzes die Gebührenentrichtung. |  | 
+206.05 | Das gebührenfrei ausgegebene Mittagessen nach Nummer 206.01 in der bis zum Ablauf des 29. Juli 2011 geltenden Fassung gilt ab dem 1. Januar 2011 als Gewährung von Leistungen für Bildung und Teilhabe nach § 28 Absatz 6 des Zweiten Buches Sozialgesetzbuch, § 34 Absatz 6 des Zwölften Buches Sozialgesetzbuch, § 2 des Asylbewerberleistungsgesetzes oder § 6b des Bundeskindergeldgesetzes, ohne dass es einer weiteren Antragstellung bedarf. |  | 
