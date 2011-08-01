@@ -1,1 +1,1 @@
-# Verordnung über die Datenverarbeitung durch Schulen und Schulbehörden vom 12. März 2007
+# Verordnung über die Datenverarbeitung durch Schulen und Schulbehörden - Art und Umfang der Verarbeitung personenbezogener Daten von Schülern und Schulbewerbern sowie von deren Erziehungsberechtigten - vom 8. November 2011
