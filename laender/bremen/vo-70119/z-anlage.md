@@ -1,8 +1,8 @@
-# Anlage 1
-Anlage 1
+# Anlage
+Anlage
 (zu § 4 Abs. 1)
 Rahmenstundentafel für die Berufsfachschule für Technik
-1. für Bildungsgänge mit Zugangsvoraussetzung Hauptschulabschluss
+1. für Bildungsgänge mit Zugangsvoraussetzung Einfache Berufsbildungsreife
 Fächer | Jahresunterrichtsstunden | 
 Pflichtbereich |  | 
 Fachrichtungsübergreifender Lernbereich |  | 
@@ -22,7 +22,7 @@ Teilung | 80 |
 Gesamtstunden Lehrmeisterinnen und Lehrmeister | 600 | 
 Teilung | 600 | 
 Rahmenstundentafel für die Berufsfachschule für Technik
-2. für Bildungsgänge mit Zugangsvoraussetzung Erweiterter Hauptschulabschluss
+2. für Bildungsgänge mit Zugangsvoraussetzung Erweiterte Berufsbildungsreife
 Fächer | Jahresunterrichtsstunden | 
 Pflichtbereich |  | 
 Fachrichtungsübergreifender Lernbereich |  | 
@@ -40,5 +40,5 @@ Gesamtstunden Schülerinnen und Schüler | 1320 |
 Gesamtstunden Lehrerinnen und Lehrer | 1320 | 
 Teilung | 300 | 
 Fußnoten
-*) darunter 120 Stunden Zusatzunterricht für Schülerinnen und Schüler mit Erweitertem Hauptschulabschluss, die den Mittleren Schulabschluss erwerben wollen (Deutsch, Englisch und Mathematik jeweils 40 Stunden);
+*) darunter 120 Stunden Zusatzunterricht für Schülerinnen und Schüler mit Erweiterter Berufsbildungsreife, die den Mittleren Schulabschluss erwerben wollen (Deutsch, Englisch und Mathematik jeweils 40 Stunden);
 *) darunter 120 Stunden Zusatzunterricht für Schülerinnen und Schüler, die den Mittleren Schulabschluss erwerben wollen (Deutsch, Englisch und Mathematik jeweils 40 Stunden);
