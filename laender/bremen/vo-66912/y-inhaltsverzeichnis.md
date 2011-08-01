@@ -22,6 +22,7 @@ Teil 2 Prüfung
 § 18 | Praktische Prüfung
 § 19 | Schriftliche Prüfung
 § 20 | Kombinierte Prüfung
+§ 20a | Prüfungsaufgaben für die Zentrale Prüfung und für die Gemeinsame Prüfung
 § 21 | Projektarbeit
 § 22 | Zweite Prüfungskonferenz
 § 23 | Mündliche Prüfung
