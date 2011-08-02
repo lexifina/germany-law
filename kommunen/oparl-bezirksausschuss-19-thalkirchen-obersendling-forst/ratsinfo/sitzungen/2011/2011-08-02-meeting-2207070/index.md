@@ -1,0 +1,64 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-08-02T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2207070
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2207070
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung der Protokolle vom 07.06.11 und 05.07.11
+- TOP 1.6.: Alternativen zur Verkehrsführung in Thalkirchen
+- TOP 1.7.: Grundstück Garatshausener Straße - Wiederherstellung des ursprünglichen Zustandes
+- TOP 2: Anträge
+- TOP 1.8.: Räume für die Mittagsbetreuung "Karfunkel" in Solln, Herterich-Schule; Anmietung der städt. Wohnung Stridbeckstr. 11
+- TOP 1.1.: Floßlände - "Plattler"
+- TOP 2.9.: Denkmalschutzliste
+- TOP 2.10.: Erweiterte Streckenführung der Buslinie 136 durch das Neubaugebiet "Südseite"
+- TOP 2.2.: Schulwegsicherheit Lochhamer Straße
+- TOP 2.11.: Zwischennutzung des städt. Grundstücks an der Gmunder Straße für UMF `s
+- TOP 2.3.: Fußgängerbrücke S-Bahnhof Solln
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Elternbeirat des Hortes an der Berner Schule Naturerlebnistag am 10.08.2011
+- TOP 3: Unterausschuss Budget
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Gymnasium Fürstenried Schuljubiläum am 27.07.2011
+- TOP 4.2.: Erweiterung Mobilfunkstandort
+- TOP 5.2.: Greinerberg / Fernwärme Pullacher Platz
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.4.: Kurzparkzone Helfenriederstraße
+- TOP 5.1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 5.6.: Verkehrssituation Hofbrunnstraße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.5.: Durchfahrtsbeschränkung Melchiorstraße
+- TOP 6.3.: Wolfratshauser Str. 199
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Aufstellungsbeschluss BPl. 1895 - Kistlerhofstr. (südl.) / Hofmannstr. (westl.)
+- TOP 6.3.: Flächennutzungsplan-Änderung Neuried
+- TOP 7: Unterausschuss Soziales
+- TOP 6.1.: Bericht Quartalstreffen Regierung v. Obb.
+- TOP 7.2.: Sondernutzungserlaubnis Alfred-Schmidt-Str. 43
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 7.3.: Sondernutzungserlaubnis Pullacher Platz 8
+- TOP 8: Entscheidungsfälle
+- TOP 1: (E) Haltverbot auf der Maria-Einsiedel-Straße
+- TOP 8.2.: Werbeanlage Wolfratshauser Str. FlNr. 336/0
+- TOP 1.1.: Entwurf Fahrradabstellplatzsatzung (FabS)
+- TOP 1.4.: Antrag auf Zweckentfremdung Kurzbauerstraße - Anhörung
+- TOP 1.5.: Antrag auf Zweckentfremdung Rungestraße - Anhörung
+- TOP 1.6.: Antrag auf Zweckentfremdung Georgensteinstraße - Unterrichtung
+- TOP 1.3.: Anträge des BA1 zu Zweckentfremdung von Wohnraum
+- TOP 1.7.: Antrag auf Zweckentfremdung Stockdorfer Straße - Unterrichtung
+- TOP 1.8.: Gaststättenfortführung Waakirchner Str. 33
+- TOP 1.9.: Gaststättenfortführung Drygalski-Allee 118
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
