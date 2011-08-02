@@ -1,0 +1,103 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2011-08-02T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2192032
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2192032
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Asphaltierung der Marschallstraße (Ziffer 2)
+- TOP .2.: Bepflanzung der Marschallstraße mit Bäumen (Ziffer 3)
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Englischer Garten - Aufnahme in die UNESCO-Weltkulturerbeliste
+- TOP .1.: Persönliche Beteiligung bei Abstimmungen in Bezirksausschusssitzungen (Schreiben des Direktoriums vom 27.06.2011)
+- TOP .2.: Eilentscheidung: Zustimmung zur Durchführung eines Feuerwerks im Rahmen einer Abiturfeier an der Lilienthalallee 37 am 01.07.2011
+- TOP .3.: Eilentscheidung: Zustimmung zur Durchführung eines Feuerwerks auf dem See vor dem Restaurant Seehaus am 10.07.2011
+- TOP .10.: Sonstiges
+- TOP .1.: BA-Termine / Sitzungsorte 2012
+- TOP .2.: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS - Internet
+- TOP .3.: Besetzung des Feriensenats (inkl. Vertreter)
+- TOP .1.: Genehmigung einer Freischankfläche, Hohenzollernstr. 36
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Grusonstraße 35, 2 Bäume
+- TOP .2.: Hollandstraße 12, Neubau eines Wohnhauses, Fl.Nr. 1233/57, 1 Flieder
+- TOP .3.: Am Nordring, Neubau von 6 Gewerbe-/Lagerhallen, Fl.Nr. 129/28, 1 Eiche
+- TOP .4.: Rainackerweg 21, Neubau 3er Stadthäuser mit 3 Garagen, Fl.Nr. 309/374; 1 Weide u. 1 Wacholder a) Haus 1, b) Haus 2, c) Haus 3
+- TOP .5.: Lore-Branz-Straße 3, Fl.Nr. 137/33, 1 Kiefer u. 1 Robinie
+- TOP .6.: Am Nordring, Neubau eines Autohauses mit Verkauf, Werkstatt, Lager, Verwaltung und Sozialbereich, Fl.Nr. 129/37, diverse Bäume
+- TOP .7.: Kaulbachstraße 63-63a, Neubau einer Wohnanlage mit Tiefgarage, Fl.Nr. 3339/0, 4 Bäume
+- TOP .1.: Montsalvatstraße 8, Dachaufstockung, Errichtung eines neuen Dachstuhls sowie Einbau zweier Wohnungen und eines Aufzugs, Fl.Nr. 806/25
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Biedersteiner Straße 29, 2 Rotbuchen
+- TOP .1.: Baumaßnahmen der Stadtwerke München a) Fernwärmeprojekt Rümannstraße
+- TOP .2.: Ausführungsgenehmigung: Dynamisches Parkinformationssystem an der BAB A9 zur P+R Anlage Fröttmaning
+- TOP .3.: Fassadenpreis ? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011; Sitzungsvorlage Nr. 08-14 / V 07144
+- TOP .4.: Städtebauliche Entwicklungsmaßnahme für den Bereich des ehemaligen Bundesbahn-Ausbesserungswerks München Freimann Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2011 mit Hinweis/Ergänzung vom 08.07.2011 Sitzungsvorlagen-Nr. 08-14/ V 07229
+- TOP .5.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/43 Otto-Sendtner-Straße (beiderseits), Isar (westlich) ? Gärtnersiedlung Freimann Beschluss der Vollversammlung des Stadtrates vom 27.07.2011 Sitzungsvorlagen Nr. 08-14 / V 07226
+- TOP .6.: Vollzug des Bundesnaturschutzgesetzes (BnatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit denkmalliste; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2011; Sitzungsvorlagen Nr. 08-14 / V 07250 (auch unter TOP C.5.3.6.)
+- TOP .7.: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser (Antrag des BA 21 Pasing-Obermenzing) ; auch TOP D.5.3.2.
+- TOP .8.: Baugenehmigung Leopoldstr. 23, Fl.Nr. 4441/3: Neubau eines Büro- und Geschäftsgebäudes mit Tiefgarage
+- TOP .9.: Kaiserstraße 28, Fl.Nr. 368/8, Neubau eines Wohn-, Büro- und Geschäftsgebäudes mit Tiefgarage ? VORBESCHEID
+- TOP .1.: Renaturierung des Nachbargrundstückes der Mannlichstraße 3
+- TOP .1.: (E) Errichtung eines beidseitigen Haltverbots zwischen Karl-Köglsperger-Straße und Paul-Hindemith-Allee (Ziffer 3)
+- TOP .2.: Widmung einer Teilstrecke des Admiralbogens und der Gesamtstrecke der Braunaugenallee zu Ortsstraßen
+- TOP .3.: Widmung einer Teilstrecke der Hans-Döllgast-Str. und einer Teilstrecke der Otl-Aicher-Str.
+- TOP .4.: Neubau öffentlicher Grünanlagen im Bebauungsplan mit Grünordnung Nr. 1991 Domagkstraße Süd / Otl-Aicher-Straße
+- TOP .1.: Begrünung der Herzogstraße zwischen Belgrad- und Leopoldstraße und Verbesserung der Parksituation
+- TOP .2.: Asphaltierung und Bepflanzung der Marschallstraße BV-Empfehlungen 337 und 338
+- TOP .3.: Fahrradabstellplatzsatzung (Beteiligungsverfahren)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Verbesserung des Radverkehrs an der Ingolstädter Straße / Maria-Probst-Straße
+- TOP .3.: Aufstellung von Hundepollern
+- TOP .4.: Verbesserung des Straßenbelages in der Feilitzschstraße
+- TOP .1.: Fischpass am Föhringer Wehr, Restwassermenge in der nördlichen Isar
+- TOP .2.: a) Akustische Signalgeber an Ampeln (Blindenampeln) ? Neuinstallation (BA-Antrag Nr. 2985) b) Akustische Signalgeber an Ampeln (Blindenampeln) lauter stellen bzw. wieder in Betrieb nehmen oder durch Signalgeber mit Vibration ausstatten (BA-Antrag Nr. 2986) c) Akustische Signalgeber an der Ampel Situlistraße/Hofreiterweg und Heidemann-/Lützelsteiner Straße in Betrieb nehmen (BA-Antrag Nr. 2987)
+- TOP .1.: Verkehrsregelung Heidemannstraße / Lützelsteiner Straße
+- TOP .2.: Öffnung der in Richtung Süden einbahngeregelten Marktstraße zwischen Feilitzschstraße und Marschallstraße für den gegenläufigen Radverkehr
+- TOP .3.: Echinger Straße: Abbau des Verkehrshelferübergangs
+- TOP .1.: Parksituation Unertlstraße zwischen Moltke- und Viktoriastraße (Antwort des Baureferates auf ein Bürgeranliegen)
+- TOP .2.: Fahrradabstellsatzung (Sitzungsvorlage Nr. 08-14 / V 06873) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011
+- TOP .3.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 Sitzungsvorlage Nr. 08-14 / V 07143
+- TOP .4.: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 Sitzungsvorlage Nr. 08-14 / V 07139
+- TOP .5.: Aufstellung von größeren Abfallbehältern am Kaiserplatz 1 (Antwort des Baureferats auf ein Bürgeranliegen)
+- TOP .6.: Vollzug des Bundesnaturschutzgesetzes (BnatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit denkmalliste; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2011; Sitzungsvorlagen Nr. 08-14 / V 07250 (auch unter TOP B.5.3.6.)
+- TOP .7.: Ausnahmebewilligung für eine Baustelleneinrichtung (Grundwassermessstelle) in der Grünanlage an der Brabanter Straße
+- TOP .8.: Baumaßnahmen im Biedersteiner Tunnel während der Sommerferien
+- TOP .9.: Straßenreinigung Echinger Straße (Antwort des Baureferats auf ein Bürgeranliegen)
+- TOP .10.: Vermeidung des Baus von Straßenbahn-Wendeschleifen (Schreiben eines Bürgers)
+- TOP .1.: (E) Budget der Bezirksausschüsse TamS-Theater Grenzgänger - Theatertage im Oktober 2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Trägerverein für regionale soziale Arbeit e.V. Ferienprogramm im August 2011
+- TOP .3.: (E) Budget der Bezirksausschüsse Innere Mission München - Diakonie in München und Oberbayern e.V. Deutschkurs für Flüchtlingskinder
+- TOP .4.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule Burmesterstraße 23 Chorstunden für die 1. und 2. Klassen
+- TOP .1.: Spezielle T-Shirts für ihr Virtel
+- TOP .2.: Theater des Hölzernen Gelächters
+- TOP .1.: Verlängerung der Nutzung der Aufnahmeeinrichtung München Dependance Bayern Kaserne
+- TOP .2.: Beteiligung von Schülern bei Planung des Förderzentrums an der Situlistraße
+- TOP .3.: Aufstellen eines Bürocontainers als Anlaufpunkt für Kinder und Jugendliche in der Parkstadt Schwabing
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Aral-Tankstelle, Bistro, Schenkendorfstr.
+- TOP .2.: Bar Giornale, Schank- und Speisewirtschaft, Leopoldstraße 7
+- TOP .3.: Lychee-Garten, Schank- und Speisewirtschaft, Ingolstädter Straße 20
+- TOP .1.: Verteilung der städtischen Telefonbücher (Antworten der anderen BA's) a) Bezirksausschuss 18 Untergiesing-Harlaching b) Bezirksausschuss 21 Pasing-Obermenzing
+- TOP .2.: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser (Antrag des BA 21 Pasing-Obermenzing) ; auch TOP B.5.3.7.
+- TOP .3.: Bewilligungsbescheide / Ablehnungen für beantragte Zuwendungen aus dem BA-Budget: a) Seidlvillaverein e.V. für das Sommerfest am 16.07.2011 b) Kreisjugendring, Freizeittreff Freimann für das Sommerfest am 02.07.2011 c) Evangelisches Hilfswerk für das Sommerfest der Teestube ?komm? am 12.08.2011 d) Elternbeirat Kindertagesstätte Birkenfeldstr. 1 für das Nachbarschaftsfest am 01.07.2011
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
