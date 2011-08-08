@@ -1,0 +1,83 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-08-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170491
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170491
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Parkverbot im Bereich der Tiefgarageneinfahrt Stiftsbogen 63 - 81 a
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: Ortstermin Kapelle St. Leonhard, Großhaderner Straße 52
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS - Internet (Direktorium, 04.07.11)
+- TOP 6.2.: Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS), hier: Durchführung eines Beteiligungsverfahrens (Referat für Stadtplanung und Bauordnung, 15.07.11)
+- TOP 6.3.: Erinnerungsverfahren: Würmtalstraße 2 b, Hans-Grässel-Weg 1 b (Baureferat, 13.07.11)
+- TOP 6.4.: Erinnerungsverfahren: Würmtalstraße 6 auch Seite Rheinsteinstraße (Baureferat, 13.07.11)
+- TOP 6.5.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung (Direktorium, 26.07.11)
+- TOP 6.6.: Erinnerungsverfahren: Silberdistelstraße zwischen Krokusstraße und BAB A96 und Brücke (Baureferat, 26.07.11)
+- TOP 6.7.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Gräfelfing, Bebauungsplan Nr. 30 für das Gebiet "Bäckerfachschule" (Referat für Stadtplanung und Bauordnung, 26.07.11)
+- TOP 6.8.: Erinnerungsverfahren: Lichtensteinstraße 9 (Baureferat, 28.07.11)
+- TOP 6.9.: Terofalstraße 19, Errichtung von Einzelhandelsflächen, Wohnungen und einer Tiefgarage - Vorbescheid (Referat für Stadtplanung und Bauordnung, 02.08.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Platanenstraße 54, 1 Birke
+- TOP 7.2.: Schachblumenweg 20, 2 Hainbuchen
+- TOP 7.3.: Pelargonienweg 15, 1 Serbische Fichte und 1 Eberesche
+- TOP 7.4.: Willibaldstraße 148 - 154, 1 Robinie
+- TOP 7.5.: Gräfelfinger Straße, gem. Baumbestandsplan Nr. 13909
+- TOP 7.6.: Hertlstraße 17, 1 Fichte
+- TOP 7.7.: Hochwaldstraße 26 und 28, 1 Schwarzkiefer und 1 Fichte
+- TOP 7.8.: Vingerstraße 46, 1 Kiefer
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Violenstraße 7, 1 Fichte (Referat für Stadtplanung und Bauordnung, 12.07.11)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Neue Post Partner-Filiale im Call-Shop Stiftsbogen 43 (Deutsche Post, 06.07.11)
+- TOP 8.2.: Baumaßnahmen der Stadtwerke München, hier: Schröfelhofstraße, Wasser (SWM, 11.07.11)
+- TOP 8.3.: Baumaßnahmen der SWM, Fernwärmeprojekt Heiglhofstraße (SWM, 12.07.11)
+- TOP 8.4.: Beauftragte für Bürgerschaftliches Engagement (BE) in den Sozialbürgerhäusern (Sozialreferat, 19.07.11)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: Änderung der Sperrbeschilderung an der Buswendeanlage Lorettoplatz (Kreisverwaltungsreferat, 21.07.11)
+- TOP 8.6.: Guardinistraße 123, Umbau und Nutzungsänderung eines Durchgangsbereichs zu einer Wohneinheit, Baugenehmigung (Referat für Stadtplanung und Bauordnung, 01.07.11)
+- TOP 8.7.: Zweckentfremdung von Wohnraum: - Ludlstraße (Sozialreferat, 21.07.11)
+- TOP 8.8.: Mitteilung über ein Grundstücksgeschäft, hier: Canisiusplatz 3, FlNr. 66/10 Gemarkung Großhadern (Kommunalreferat, 21.07.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Grünanlage von der Schröfelhofstraße zum Stiftsbogen (Baureferat, 06.07.11)
+- TOP 9.2.: Zusätzlicher Raum für die Mittagsbetreuung an der Grundschule an der Blumenauer Straße für das Schuljahr 2010/2011
+- TOP 9.3.: Mittagsbetreuung an der Schule an der Blumenauer Straße
+- TOP 9.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Geschwindigkeitsüberwachung Terofalstraße (PI 41, 11.07.11)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Antrag des BA 5 Au-Haidhausen: Zukunft der Lebensmittelmärkte Münchens - Beteiligung der betroffenen Bezirksausschüsse
+- TOP 11.2.: Antrag des BA 21 Pasing-Obermenzing: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser
+- TOP 11.3.: Weitere Termine Kolloquium "Der öffentliche Verkehr als Katalysator für die Stadtentwicklung" (TU München, 18.07.11)
+- TOP 11.4.: Geschäftsbericht der Unfallkasse München, Geschäftsjahr 2010 (Direktorium, 19.07.11)
+- TOP 11.5.: Oktoberfest 2011, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse (Direktorium, 01.08.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 08.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06378 (nach Antrag): Regionsbericht 2010 (Hadern ist nicht erwähnt.)
+- TOP 12.2.: Beschluss vom 08.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06446 (nach Antrag in der Fassung des Ausschussbeschlusses vom 25.05.2011): PERSPEKTIVE MÜNCHEN - Fortschreibung 2011 Leitmotiv, strategische Leitlinien, insbesondere zum Handlungsraum Nr. 2 "Romanplatz - Laim - Ratzingerplatz" entlang der Tram-West-Tangente (Anlage, S. 48). Für den Nordwesten und Nordosten Haderns wird eine "überdurchschnittliche soziodemografische Herausforderung" festgestellt (S. 21 der Anlage).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06873 (gemäß S. 26a): Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS). Richtwert 1 Abstellplatz pro 40 qm Gesamtwohnfläche, vorher 50 qm.
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07139 (nach Antrag): Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn (noch kein fester Betrag)
+- TOP 12.3.: Hinweis / Ergänzung vom 26.05.2011 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06796 (gemäß Antrag auf S. 4): Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte "BauGB 2007" Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB, insbesondere zur "Lukas-Schule" (Anlage 1, S. 1). Kein beschleunigtes Verfahren, wenn eine Fläche von mehr als 5.000 qm versiegelt wird. In Grenzfällen umfassende Unterrichtung des Stadtrats im Aufstellungsbeschluss.
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07143 (vertagt auf den 28.09.2011): Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München, insbesondere zum "Aubinger Moos"
+- TOP 12.2.: Beschluss und Hinweis / Ergänzung vom 28.06.2011 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07144 (nach Antrag): "Fassadenpreis 2010" für die Heiglhofstraße 4 der Firma HELA GmbH & Co. KG, vertreten durch die Architekten Höldrich (Beschreibung in Anlage 1, S. 4, Nr. 10).
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07250 (nach Antrag auf S. 10): Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste (Kein Denkmal in Hadern gemäß Anlage 1.)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
