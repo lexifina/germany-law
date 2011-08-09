@@ -1,0 +1,93 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2126959
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2126959
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Brief einer Bürgerin aus der Maxvorstadt vom 30.06.2011 Kinderspielplatz im Alten Nordfriedhof
+- TOP 5.2.2.: E-Mail eines Bürgers aus der Maxvorstadt vom 14.07.2011 Verkehrssituation in der Josephstraße
+- TOP 5.2.3.: E-Mail eines Bürgers aus der Maxvorstadt vom 14.07.2011 Kündigung der Belegungszeiten des TSC Maxvorstadt e.V.
+- TOP 5.2.4.: Brief eines Bürgers aus der Maxvorstadt vom 18.07.2011 Türkenstraßensommerfest, Lange Nacht der Musik (Lärmbelästigung), Amalienpassage
+- TOP 5.2.5.: E-Mail einer Bürgerin aus der Maxvorstadt vom 23.07.2011 Feiern auf Friedhöfen, verwilderte, aufgelassene Gräber
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben 26., 28., 29., 30. KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen 27. - 30. KW
+- TOP 2.1.3.: Luisenstr. 33: Generalinstandsetzung mit Teilabriss und -neubau, mit Errichtung einer Versammlungsstätte, einer Gaststätte und einem Wirtsgarten sowie einem Café mit einem Wirtsgarten
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Barer Straße 40, zwei Robinien
+- TOP 2.2.2.: Karolinenplatz 4, eine Robinie
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag des BA 3 vom 15.07.2011 Ergänzung der Sondernutzungserlaubnis; Ausnahmegenehmigung für Freischankflächen von Programmkinos
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Baureferat, Tiefbau, Erinnerungsverfahren Von-der-Tann-Straße (Stauraum)
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung § 45 StVO Tempo-30-Zone: Oskar-von-Miller-Ring, Kardinal-Döpfner-Straße und Finkenstraße
+- TOP 3: (E) Keine Ampelabschaltung im unmittelbaren Bereich von Schulen, Kindertagesstätten und Senioreneinrichtungen
+- TOP 4: (E) Errichtung eines Radweges in der Theresienstraße zwischen Technischer Universität und Schleißheimer Straße (Ziffer 1 des Antrags) Rückbau der Gabelsbergerstraße auf eine Fahrspur und Errichtung einer eigenen Radspur Errichtung eines Radweges im gesamten Verlauf der Theresienstraße (Ziffer 1 des Antrags)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Referat für Stadtplanung und Bauordnung, Anhörung Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereithal- tung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 2.2.2.: Kreisverwaltungsreferat, Entscheidungen über Sondernutzungserlaubnisse a) Jägerstraße 2, Verkaufseinrichtung auf öffentlichem Verkehrsgrund
+- TOP 2.2.3.: siehe TOP A 5.2.4 Türkenstraßensommerfest, Lange Nacht der Musik (Lärmbelästigung), Amalienpassage
+- TOP 2.2.4.: Aufstellung einer Litfasssäule mit integrierter Toilette am Maßmannspielplatz
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, VVB Bauernmarktmeile am 25.09.2011 auf dem sog. Odeonsplatz und in der Ludwigstraße
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse LILALU e.V. Workshopplätze für 20 bedürftige Kinder vom 29.08. - 04.09.2011 am Marsplatz 8
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Ausstellungsteam "Die Kinomacher" Ausstellungsprojekt "Die Kinomacher" vom 15.10. - 30.11.2011
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Fassadenpreis Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.2011 Ergänzung Sitzungsvorlagen Nr. 08-14 / V 07144
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 13.07.2011 Bebauungsplan mit Grünordnung Nr. 2059, Karlstraße (nördlich), Barer Straße (östlich) Sitzungsvorlagen Nr. 08-14 / V 07231
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung am 13.07.2011 Vollzug des Bundesnaturschutzgesetzes (BnatSchG) und des Bayerischen Naturschutz- gesetzes (BaNatSchG); Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste Sitzungsvorlage Nr. 08-14 /V 07250
+- TOP 1.4.: BA-Antrag Nr. 08-14/ B 03152 des BA 21 Pasing ? Obermenzing Bauvorhaben im geförderten Wohnungsbau/KomPro-Häuser
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Amalienstraße 15, Um- und Neubau von Rück- und Seitengebäuden, Einbau einer Tiefgarage, DG-Ausbau, Gartenvilla mit Nutzungsänderung EG und Aufzugseinbau
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz Strecke 5550 Pasing - Ostbahnhof
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Schreiben der Unteren Naturschutzbehörde vom 20.07.2011 Baumfällung auf dem Grundstück Zieblandstraße 45, Fällungsantrag vom 06.06.2011
+- TOP 1.8.: Schreiben der BA-Geschäftsstelle Ost vom 25.07.2011 Antrag Nr. 01900 des BA 15 Trudering-Riem und diverse Schreiben zur Kenntnis und evtl. weiteren Behandlung
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung Nachprüfung eines Beschlusses des Ausschusses für Stadtplanung und Bauordnung vom 13.07.2011 i.S. Bebauungsplan mit Gründordnung Nr. 2059 Karlstraße (nördlich), Barer Straße (östlich) - Aufstellungsbeschluss - Sitzungsvorlage Nr. 08-14 / V 07231
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, VVB Münchner Blade Night 2011 am 04.07.2011 Erweiterung der verkehrsrechtlichen Erlaubnis zur Durchführung der Blade Night vom 24.05.2011 mit diversen Änderungen
+- TOP 2.2.: Kreisverwaltungsreferat, VVB ?Kino Open Air? auf dem Königsplatz vom12.07.2011 bis 19.07.2011 Erlaubnisbescheid vom 28.06.2011
+- TOP 2.3.: Baumaßnahmen der Stadtwerke a) Schellingstraße 24, Fernwärme b) Seidlstraße 25 ? 27, Fernwärme c) Luisenstraße 33, Fernwärme
+- TOP 2.4.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid für das Wirtefest am 16.07.2011 in der Türkenstraße
+- TOP 2.5.: Baumaßnahmen im Altstadtring Tunnel während der Sommerferien
+- TOP 2.6.: Baureferat, Beschluss des Bauausschusses vom 05.07.2011 Empfehlung Nr. 02-08 / E 00893 der Bürgerversammlung des BA 3 am 24.10.2007 Asphaltierung und Einrichtung von Parkbuchten in der Georgenstraße (Ziffer 2) Sitzungsvorlage Nr. 08-14 / V 06152
+- TOP 2.7.: Referat für Gesundheit und Umwelt Vollzug der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV), Ausnahmezu- lassung gem. § 7 Abs. 2, Schellingstraße 23, Zeitraum 20.07. bis 29.07.2011, vier Nächte von 20.00 Uhr bis 06.00 Uhr
+- TOP 2.8.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid, Open Air Konzert, Königsplatz am 29.07.2011, Netrebko, Schrott, Kaufmann
+- TOP 2.9.: Kreisverwaltungsreferat, VVB Hamburger Fischmarkt auf dem Wittelsbacherplatz 2012
+- TOP 2.10.: entfällt
+- TOP 2.11.: Referat für Gesundheit und Umwelt, Immissionsschutz Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinen- lärmschutzverordnung (32. BImSchV); Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs Arbeiten im bereich Lenbachplatz/Ottostraße und Arnulfstraße/Marsstraße in der 30. KW
+- TOP 2.12.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid für einen Festzug mit anschließender Feier auf dem Königsplatz am Sonntag, 07.08.2011 anlässlich der 34. Europäischen Jonglierconvention
+- TOP 3.1.: Erhalt der Einrichtung Frauenobdach ?Karla 51? Antrag Nr. 08-14 / B 03136 des BA 16 Ramersdorf-Perlach vom 05.07.2011
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: BV-Termin 2012
+- TOP 4.2.: Keine Frist für Budgetanträge bis 1.000 ?, Antrag Nr. 08-14 / B 02822 des BA 5
+- TOP 4.3.: Oktoberfest 2011, Reservierung der Ratsboxe für Montag, 19.09.2011 ab 17:00 Uhr
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
