@@ -1,0 +1,104 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-08-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2392299
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2392299
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.1.1.: Vorstellung des Projektes "Stadtteilforscher und Kinderjury in Laim" im Rahmen des Weltkindertages
+- TOP 1.2.1.: Verbesserung Verkehrssicherheit / Verkehrsfluss Straubinger Straße Ecke Lautensackstraße
+- TOP 1.2.2.: Antrag auf Haltverbot Gotthardstraße zwischen Willibaldstraße und Agricolastraße / südliche Straßenseite
+- TOP 1.2.3.: Gefällte Buche am Riegerhofweg
+- TOP 1.2.4.: Fluglärm über Laim
+- TOP 1.2.5.: Hubschrauberlärm
+- TOP 1.2.6.: Parksituation Riegerhofstraße
+- TOP 2: Anträge
+- TOP 2.1.: UA Schule, Soziales und Sport: Schule an der Schrobenhausener Straße; Umsetzung der Variante eines Neubaus mit Doppelturnhalle und Räumen für Ganztagsbetreuung
+- TOP 2.2.: CSU: Schule an der Schrobenhausener Straße: Neubau einer Doppelturnhalle sowie eines Gebäudetraktes mit 4 Klassenzimmern und ausreichend Räumen für die Mittagsbetreuung der Grundschule bzw. Ganztagesbetreuung der Haupt- schule; Abgabe eines aktuellen Messgutachtens zur Raumluft (Vertagung aus der BA-Sitzung vom 07.06.11)
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeistes vom 26.11.07 in Höhe von 2.820 Euro für Adventdult am 03. / 04.12.11; Antragsteller: Laimer Maibaumfreunde e.V. - <div>vertagt</div>
+- TOP 3.2.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; mobiler Fahrradständer in der Reutterstr. 42
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 3.750 Euro für Workshopplätze für 20 bedürftige Kinder aus Laim vom 01.08.-04.09.11; Antragsteller: LILALU e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 29.06.11: Flohmarkt am 24.09.11 auf dem Laimer Platz
+- TOP 4.2.: Schreiben KVR vom 29.06.11: Laimer Adventdult am 03. und 04.12.11 auf dem Laimer Anger
+- TOP 4.3.: Schreiben Direktorium vom 04.07.11: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS-Internet
+- TOP 4.4.: Schreiben KVR vom 07.07.11: Gedenkfeier am Feldkreuz Camerloherstraße / Ecke Rushaimerstraße am 12.11.11
+- TOP 4.5.: Schreiben KVR vom 05.07.11: Einrichtung eines personenbezogenen Behindertenparkplatzes; Perhamerstr. 41
+- TOP 4.6.: Schreiben Baureferat vom 08.07.11: Fahrbahnsanierung Reutterstraße
+- TOP 4.7.: Schreiben KVR vom 14.07.11: Flohmarkt am Weißenfelderplatz am 10.09.11
+- TOP 4.8.: Schreiben Planungsreferat vom 15.07.11: Entwurf einer Satzung der LH München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 4.9.: Schreiben KVR vom 19.07.11: Einrichtung eines personenbezogenen Behindertenparkplatzes; Friedenheimer Straße 2 / Landsbergerstraße Nebenfahrbahn
+- TOP 4.10.: Schreiben Direktorium vom 26.07.11: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdung
+- TOP 4.11.: Schreiben KVR vom 26.07.11: Weltkindertag am 20.09.11 auf dem Laimer Anger
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Helmpertstr. 7: Neubau einer neuapostolischen Kirche; hier: Baupläne und Freiflächengestaltungsplan
+- TOP 5.2.: Isbertstr. 8b: Umbau eines Reiheneckhauses mit Kellererweiterung und Anbau eines Wintergartens und Carports; hier: Baupläne und Baumbestandsplan (Vertagung aus der BA-Sitzung vom 05.07.11)
+- TOP 5.3.: Byecherstr. 30c: Neubau eines Wohnhauses - Vorbescheid; hier: Baupläne
+- TOP 5.4.: Straubinger Str. 5: Ausbau 2. DG im Vordergebäude und 1. DG im Rückgebäude mit je 1 WE; hier: Baupläne
+- TOP 5.5.: Wotanstraße: Errichtung einer Werbeanlage (vor DB-Unterführung)
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben BA 7 Sendling-Westpark vom 09.06.11: Kulturhaus
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 28.06.11
+- TOP 7.2.: BA-Sitzung vom 05.07.11
+- TOP 7.3.: Ortstermin UA Schule, Soziales und Sport vom 06.07.11
+- TOP 7.4.: Ortstermin UA Schule, Soziales und Sport vom 19.07.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben KVR vom 22.06.11: Markierung des Radweges in der Willibaldstraße zwischen Senftenauerstraße und Gotthardstraße (Schreiben BA vom 19.04.11)
+- TOP 8.2.: Schreiben KVR vom 13.07.11: Arbeiten im Straßenraum; Agnes-Bernauer-Straße / Von-der-Pfordten-Straße; Verlegen einer Fernwärmeleitung
+- TOP 8.3.: Schreiben KVR vom 14.07.11: Lichtzeichenanlage Ammersee- / Fürstenrieder Straße - Fahrbahnmarkierung
+- TOP 8.4.: Schreiben KVR vom 18.07.11: Gaststätte "Cafè San", Elsenheimerstr. 12; unveränderte Fortführung
+- TOP 8.5.: Schreiben KVR vom 13.07.11: Vollzug der Grünanlagensatzung vom 12.08.1991; Baustelleneinrichtung Agnes-Bernauer-Platz
+- TOP 8.6.: Schreiben KVR vom 21.07.11: Arbeiten im Straßenraum; Agnes-Bernauer-Straße zwischen Willibaldstraße und Vohburger Straße; Gleisbauarbeiten
+- TOP 8.7.: Schreiben KVR vom 21.07.11: Arbeiten im Straßenraum: Am Knie: Agnes-Bernauer-Straße zwischen Am Knie und Vohburger Straße, Straßenbauarbeiten im Zuge der Gleisbauarbeiten
+- TOP 8.8.: Schreiben Kulturreferat vom 06.07.11: Einrichtung eines W-Lan-Netzes in der Stadtbibliothek Laim (Antrag Nr. 08-14 / B 02998 vom 03.05.11)
+- TOP 8.9.: Schreiben Kulturreferat vom 12.07.11: Alternativstandort Bürgerhaus Laim
+- TOP 8.10.: Schreiben Referat für Bildung und Sport vom 05.07.11: Sicherung des Grundstücks Agnes-Bernauer-Straße, Flurstück Nr. 47, Gemarkung Laim, für schulische Zwecke der Grund- und Hauptschule an der Fürstenrieder Straße (Erweiterungsbau) (Antrag Nr. 08-14 / B 02879 vom 05.04.11)
+- TOP 8.11.: Schreiben Referat für Bildung und Sport vom 06.07.11: Bürgeranfrage zum Thema "Kinderbetreuung für Berufstätige in München" (Schreiben BA vom 22.06.11)
+- TOP 8.12.: Schreiben Referat für Bildung und Sport vom 14.07.11: Dringender Bedarf an Betreuungsplätze für Kleinkinder und Schulkinder (Krippe, Kindergarten, Hort) im Stadtbezirk 25; Darlegung konkreter Planungen mit absehbarem Zeithorizont; Planungen am Standort Siglstr. 19 / 21 (BA-Antrag vom 08-14 / B 02385 vom 14.09.10)
+- TOP 8.13.: Schreiben Sozialreferat vom 07.07.11: Genehmigung der Zweckentfremdung von Wohnraum; Weichselbaumerstraße
+- TOP 8.14.: Schreiben Sozialreferat vom 19.07.11: Beauftragte für Bürgerschaftliches Engagement (BE) in den Sozialbürgerhäusern
+- TOP 8.15.: Schreiben Referat für Gesundheit und Umwelt vom 11.07.11 und 13.07.11: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV; Fürstenrieder Str. 46a, Valpichlerstr. 60, Kirchmairstr. 23
+- TOP 8.16.: Schreiben Direktorium vom 13.07.11: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Familienzentrum Laim / DKSB München e.V.
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 30.06.11: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Rushaimerstraße
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 20.07.11: Baumaßnahmen der SWM; Fernwärmeprojekt Erschließung Friedenheim, Kreuzung Agnes-Bernauer-Straße
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 25.07.11: Baumaßnahmen der SWM; Stromprojekt Pronnerplatz
+- TOP 8.20.: Schreiben Referat für Arbeit und Wirtschaft vom 30.06.11: Wirtschafts-Info 06/2011
+- TOP 8.21.: Schreiben Planungsreferat vom 04.07.11: Haslangstr. 33; Neubau 2er Mehrfamilienhäuser mit Tiefgarage / Vorbescheid
+- TOP 8.22.: Schreiben Planungsreferat vom 08.07.11: Agricolastr. 79; Neubau eines Einfamilienhauses mit Garage
+- TOP 8.23.: Bautenliste vom 27.06.-03.07.11: 1. Erstantragsverfahren a) Straubinger Str. 5 b) Helmpertstr. 7 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Byecherstr. 30 c
+- TOP 8.24.: Bautenliste vom 04.07.-10.07.11 1. Erstantragsverfahren a) Helmpertstr. 3 b) Friedenheimer Str. 2 c) Elsenheimerstr. 28 2. Änderungsverfahren a) Veil-Stoß-Str. 58
+- TOP 8.25.: Bautenliste vom 11.07.-17.07.11: 1. Erstantragsverfahren a) Thurneyssenstr. 21
+- TOP 8.26.: Bautenliste vom 18.07.-24.07.11 1. Erstantragsverfahren a) Fachnerstr. 55 b) Joergstr. 86 2. Änderungsverfahren a) Geyerspergerstr. 73 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 16
+- TOP 8.27.: Schreiben Stadtwerke München GmbH vom 27.06.11: Baumaßnahmen der Stadtwerke; Stichtag: 27.06.11
+- TOP 8.28.: Schreiben Stadtwerke München GmbH vom 04.07.11: Baumaßnahmen der Stadtwerke; Stichtag: 04.07.11
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 11.07.11: Baumaßnahmen der Stadtwerke; Stichtag: 11.07.11
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 18.07.11: Baumaßnahmen der Stadtwerke; Stichtag: 18.07.11
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 25.07.11: Baumaßnahmen der Stadtwerke; Stichtag: 25.07.11
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11: Gesetz zur Erleichterung von Planungsvorhaben für die Innenentwicklung der Städte ?BauGB 2007?, Erfahrungsbericht zur Entscheidung über die Anwendung des beschleunigten Verfahrens in den Fällen des § 13 a Abs. 1 Satz 2 Nr. 1 und Nr. 2 BauGB (Sitzungsvorlagen Nr. 08-14 / V 06796)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.06.11: Dezentrales Güterverkehrszentrenkonzept (GVZ-Konzept), Überprüfung und weitere Planung (Sitzungsvorlagen Nr. 08-14 / V 04152)
+- TOP 8.34.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.11: Fassadenpreis (Sitzungsvorlagen Nr. 08-14 / V 07144)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.11: Kosten der geplanten 2. Stammstrecke für die Münchner S-Bahn (Sitzungsvorlagen Nr. 08-14 / V 07139)
+- TOP 8.36.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.11: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München (Sitzungsvorlagen Nr. 08-14 / V 07143)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.11: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS) (Sitzungsvorlagen Nr. 08-14 / V 06873)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.11: Projekt Hauptbahnhof-Laim-Pasing; Entwicklung Teilbereich Paul-Gerhardt-Allee (Sitzungsvorlagen Nr. 08-14 / V 07208)
+- TOP 8.39.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.11: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste (Sitzungsvorlagen Nr. 08-14 / V 07250)
+- TOP 8.40.: Antrag BA 5 Au-Haidhausen vom 15.06.11: Zukunft der Lebensmittelmärkte Münchens - Beteiligung der betroffenen BAs
+- TOP 8.41.: Schreiben BA 9 Neuhausen-Nymphenburg vom 17.06.11: Bürgeranliegen: Ausschilderung von Schwerbehindertenparkplätzen an der S-Bahn Haltestelle Hirschgarten (Schreiben BA vom 10.05.11)
+- TOP 8.42.: Schreiben BA 15 Trudering-Riem vom 22.07.11: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps
+- TOP 8.43.: Antrag BA 21 Pasing-Obermenzing vom 05.07.11: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser
+- TOP 8.44.: Antrag BA 21 Pasing-Obermenzing vom 05.07.11: Beteiligung des BA 21 beim Bau des Radwegs zwischen Margarethe-Danzi-Straße und Bärmannstraße
+- TOP 8.45.: Schreiben SV München-Laim vom 06.07.11: Parksituation Riegerhofstraße (Schreiben BA vom 06.07.11)
+- TOP 8.46.: Schreiben MVV vom Juli 2011: Verbundbericht 2010 - MVV bleibt auf Wachstumskurs
+- TOP 8.47.: Schreiben Direktorium vom 19.07.11: Geschäftsbericht der Unfallkasse München; Geschäftsjahr 2010
+- TOP 8.48.: Schriftverkehr aus der BA-Sitzung vom 05.07.11
+- TOP 1.2: Bürgerpost an den BA
