@@ -1,0 +1,105 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-08-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2255807
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2255807
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Tattenbachstraße 18: DG-Ausbau, Aufzug, Balkone, Tektur
+- TOP .2.: Prinzregentenstraße 54: Nutzungsänderungen
+- TOP .3.: Kaufingerstraße 24: Nutzungsänderung und Umbau
+- TOP .4.: NACHTRAG: Frauenstraße 4: Neubau eines Hotels mit 32 Zimmern und 2 Gaststätten
+- TOP .5.: NACHTRAG: Fürstenfelder Straße 13: Umbau EG und 1. OG mit Teil-Nutzungsänderung im 1. OG
+- TOP .1.: BA-Antrag auf Änderung der BA-Satzung beim Vollzug der ZweckentfremdungsVO
+- TOP .2.: NACHTRAG: Anfrage von StR Karl Richter zum Bau einer Synagoge am 'Gries'
+- TOP .1.: Bürger: Restaurant ?Mamasita?
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Vino Caffe?, Hochbrückenstraße 14: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.: Konditorei-Cafe ?Luitpold?, Briennerstraße 11: Genehmigung einer Freischankfläche
+- TOP .3.: ?Sitar?, Robert-Koch-Straße 4: Erweiterung einer bestehende Freischankfläche
+- TOP .4.: ?Zwingereck?, Rumfordstraße 35: Erweiterung einer bestehende Freischankfläche
+- TOP .5.: ?Segafredo?, Residenzstraße 21: Genehmigung einer Freischankfläche
+- TOP .6.: NACHTRAG: Barista, Kardinal-Faulhaber-Straße 11: Änderungsantrag für eine Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Rumfordstraße 7: Verkaufseinrichtung
+- TOP .2.: Rumfordstraße 33: Verkaufseinrichtung
+- TOP .3.: Rindermarkt 6: Verkaufseinrichtung
+- TOP .4.: NACHTRAG: Marienplatz 8: Verkaufseinrichtung
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Infoveranstaltung BRK Rettungshundestaffel am 03.12.2011, Odeonsplatz
+- TOP .2.: Infoveranstaltung Johanniter-Unfall-Hilfe am 26.11.2011, Odeonssplatz
+- TOP .3.: Infoveranstaltung anlässlich des Waldaktionstag am 17.09.2011, Neuhauser Straße
+- TOP .4.: Einzug der Festwirte und Brauereien am 17.09.2011 und Otoberfest Trachten und Schützenumzug am 18.09.2011
+- TOP .5.: Major League Baseball Roadshow am 20.09.2011, Odeonsplatz
+- TOP .6.: Tag der offenen Tür Regierung von Oberbayern am 11.09.2011, Maximilianstraße
+- TOP .7.: NACHTRAG: Gedenkfeier 10. Jahrestag des Erzbischöflichen Ordinariats am 11.09.2011, Marstallplatz
+- TOP .8.: NACHTRAG: Begleitprogramm Literaturhaus zum Oktoberfestumzug am 18.09.2011
+- TOP .9.: NACHTRAG: Weltfriedenstreffen Marienplatz mit Prozession am 13.09.2011
+- TOP .10.: NACHTRAG: München Marathon 2011 am 09.10.2011
+- TOP .11.: NACHTRAG: Straßenfest am 27.08.2011, Isartorplatz
+- TOP .12.: NACHTRAG: Streetlife Festival / Corso Leopold, Biomarkt am 10.09. und 11.09.2011, Odeonsplatz
+- TOP .13.: NACHTRAG: Veranstaltung des LHM-Direktorium-Presse- und Informationsamt mit Unicef und BR anlässlich des Tag des Kindes am 20.09.2011, Marienplatz
+- TOP .14.: NACHTRAG: Infoveranstaltung DLRG am 22.10.2011, Karlsplatz
+- TOP .15.: NACHTRAG: Kunstprojekt Kiosk im Öffentlichen Raum, Sendlinger-Tor-Platz
+- TOP .16.: NACHTRAG: Kultur- und Shoppingnacht am 09.09.2011, Innenstadt
+- TOP .17.: NACHTRAG: Infoveranstaltung Rettungshundestaffel am 17.12.2011, Odeonsplatz
+- TOP .18.: NACHTRAG: ?Maxidrom? im Maximilianforum
+- TOP .1.: Beschriftung der Fahrbahn mit verkehrsrechtlichen Anordnungen
+- TOP .1.: UA: Mehr Personal für die Kommunale Verkehrsüberwachung
+- TOP .1.: Fahrradabstellsatzung
+- TOP .2.: Baumfällung Pestalozzistraße 2
+- TOP .3.: Baumfällung Müllerstraße 44
+- TOP .4.: Haltestellenbereiche der Bushaltestelle ?Karlsplatz/Stachus? für die MVG-Nachtlinien N40 und N41
+- TOP .1.: NACHTRAG: Vorstellung des Konzepts Maxidrom im Maximiliansforum, September 2011, siehe auch C 3.1.18
+- TOP .1.: Bürger: Hausaufgabenbetreuung in der St.-Anna-Schule
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Musica Sacra St. Anna" Konzert am 18.12.2011
+- TOP .1.: Kassenbericht 2010
+- TOP .2.: Wiesn-Besuch am Freitag, den 30.09.2011, 17.00 Uhr
+- TOP .3.: NACHTRAG: Septembersitzung 2012 ? Terminverschiebung oder Verlegung des Sitzungsortes
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antrag des BA 21 zu Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser
+- TOP 0.5.: Antwortschreiben des Amts für Wohnen und Migration zur Anfrage des BA 1 nach Zweckentfremdung von Wohnraum, TOP 2011.05 B 3.1.8, 2011.06 B 1.3.4
+- TOP 0.6.: Baugenehmigung Joseph-Pschorr-Haus
+- TOP 0.7.: Antwortschreiben des Amts für Wohnen und Migration zur Anfrage des BA 1 nach Zweckentfremdung von Wohnraum , TOP 2011.07 B 3.1.2
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung Trauerfeier Otto von Habsburg am 11.07.2011
+- TOP 0.6.: Eilentscheidung Isarinselfest vom 02.-04.09.2011
+- TOP 0.7.: Eilentscheidung Straßenkunstforum am 09.08.2011, Neuhauser Straße
+- TOP 0.8.: Antwortschreiben des KVR zur Baustelleneinrichtung ?Klösterl?, St.-Anna-Straße 2, TOP 2011.06 A 3.1
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Information Gleisbaustelle Müllerstraße
+- TOP 0.3.: Baumaßnahmen im Altstadtring Tunnel während der Sommerferien
+- TOP 0.4.: Nachtbaustellengenehmigung Bereich Max-II-Denkmal
+- TOP 0.5.: Bürgerschreiben bezüglich der Ampel Praterwehrbrücke, TOP 2011.05 A 3.1
+- TOP 0.6.: Information Beschlussvorlage ?Stadt und Fluss? erst im Herbst im Ausschuss
+- TOP 0.7.: Plangenehmigungsbescheid Barrierefreier Ausbau des S-Bahn-Hp Karlsplatz
+- TOP 0.8.: Nachtbaustellengenehmigung Bereich S-Bahnhof Isartor
+- TOP 0.9.: Mobilfunkstandort
+- TOP 0.1.: Beschluss des Kulturausschusses vom 07.07.2011: Kunst im öffentlichen Raum
+- TOP 0.2.: Schreiben des Theaters des Hölzernen Gelächters
+- TOP 0.3.: Schreiben des Kulturreferats an das Theater des Hölzernen Gelächters
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
