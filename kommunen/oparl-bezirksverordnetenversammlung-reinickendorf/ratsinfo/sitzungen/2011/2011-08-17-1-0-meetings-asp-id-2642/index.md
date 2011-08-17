@@ -1,0 +1,101 @@
+# 54. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-08-17T17:05:00+02:00
+- Ende: 2011-08-17T22:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2642
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2642
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=53126
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 3: Konsensliste - erledigt
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Verkauf Insel Tegeler Hafen (Beschlussempfehlung 11.05.2011 und 08.06.2011) - in der BVV abgelehnt
+- TOP 5.2: Winterschädenbeseitigung (Beschlussempfehlung 11.05.2011 und 08.06.2011) - in der BVV abgelehnt
+- TOP 5.3: Nachnutzung TXL - Vorrang für Arbeitsplätze (4): Verkehrserschließungskonzept (Beschlussempfehlung 11.05.2011 und 08.06.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.4: Nachfrageorientierte Schulplanung (Beschlussempfehlung 11.05.2011 und 08.06.2011) - erledigt
+- TOP 5.4.1: Nachfrageorientierte Schulplanung - ohne Änderungen in der BVV beschlossen
+- TOP 5.5: Heidekrautbahn endlich umsetzen (Empfehlung 11.05.2011 und 08.06.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.6: Märkisches Viertel an das U-Bahnnetz anschließen (Vorlage zur Kenntnisnahme 08.06.2011) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 5.7: Insel im Tegeler Hafen - Wegerecht der Öffentlichkeit (Vorlage zur Kenntnisnahme 08.06.2011) - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 5.8: Reinickendorfer Spielhallenkonzept (Große Anfrage 08.06.2011) - beantwortet
+- TOP 5.9: Gemeinschaftsschule für „wirtschaftsfreundlichen Bezirk“ (Große Anfrage 08.06.2011) - beantwortet
+- TOP 5.10: Oberflächenentwässerung in Frohnau (Große Anfrage 08.06.2011) - beantwortet
+- TOP 5.11: Aufwand für die Beseitigung von Vandalismus und Graffitischmierereien im öffentlichen Nahverkehr in Reinickendorf (Beschlussempfehlung 08.06.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.12: Wild- und Amphibienschutz auf dem Hermsdorfer Damm (Beschlussempfehlung 08.06.2011) - in der BVV abgelehnt
+- TOP 5.13: MSA an Gymnasien freiwillig (Beschlussempfehlung 08.06.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.14: Quartiersmanagement Auguste-Viktoria-Allee / Klixstraße (Beschlussempfehlung 08.06.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.15: Erneuerung Fahrbahnmarkierungen Schulzendorfer Straße (Ersuchen 08.06.2011) - ohne Änderungen in der BVV beschlossen
+- TOP 5.16: Gasbeleuchtung in Frohnau / Hermsdorf (Empfehlung 08.06.2011) - überwiesen
+- TOP 5.17: Daten über Kinderschutz vergleichbar machen (Empfehlung 08.06.2011) - erledigt
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Berichterstattung über mögliche Neubebauung der Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Mehr Sicherheit in der Frohnauer Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Verwendung des Gewinns des Haushaltsjahres 2007 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Auf kleine Wirtschaftstreibende auch beim Klimaschutz Rücksicht nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Kiezinformation am Letteplatz und im Märkischen Viertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Erhalt Wiesengrundschule - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Darstellung aller Bezirksbürgermeister/innen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Altkleidercontainer auf Privatgelände - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Checkliste zur Erkennung von Sekten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Aufzüge für Reinickendorfer U-Bahnhöfe der Linie U8 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Wohin gehen unsere Schüler? - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Sicherheit in Reinickendorf (1) Mehr Polizeipräsenz im Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Verhinderung von Visitenkartenwerbung an Kraftfahrzeugen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Parken am Friedhof Hainbuchenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Musiktexte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Zusätzliche Klappschilder in Hermsdorf / Badeverkehr in Lübars - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Bestellung einer Ombudsfrau / Vertragsverlängerung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Geltungsbereichsänderung und Weiterführung des Bebauungsplanes XX-182 b - überwiesen
+- TOP 7.19: Umwandlung der Gustav-Freytag-, Benjamin-Franklin-, Carl-Benz- und Max-Beckmann-Schule von einer Real- bzw. Gesamtoberschule in eine Integrierte Sekundarschule (ISS) ab dem Schuljahr 2011/2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Hilfen zur Erziehung und ihre Auswirkungen auf den Bezirkshaushalt - in der BVV zurückgezogen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl von ehrenamtlichen Mitgliedern in Sozialkommissionen - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Bezirkshaushaltsrechnung für das Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: a) Beschluss des Bebauungsplanentwurfs 12-13 vom 12. April 2007 für das Grundstück Tornower Weg 14/22 sowie einen Abschnitt des Tornower Weges im Bezirk Reinickendorf, Ortsteil Märkisches Viertel b) Beschluss über den Entwurf der Rechtsverordnung zurFestsetzung des Bebauungsplanes 12-13 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Spielhallenentwicklungskonzept vom 15. Juni 2011 für den Bezirk Reinickendorf - überwiesen
+- TOP 9.5: a) Beschluss des Bebauungsplanentwurfs 12-33 vom 24.03.2011 mit Deckblatt vom 13.07.2011 für das Grundstück Quickborner Straße 111/119 sowie einen Abschnitt der Quickborner Straße im Bezirk Reinickendorf, Ortsteil Lübars b) Beschluss über den Entwurfder Rechtsverordnung zur Festsetzung des Bebauungsplanes 12-33 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Sanierung und Umbau Cyclopstraße - erledigt
+- TOP 10.2: Endlich Tourismuskonzept für Bezirk vorlegen - in der BVV abgelehnt
+- TOP 10.3: Krankenhausbetrieb des Landes für den Maßregelvollzug - in der BVV abgelehnt
+- TOP 10.4: Ampelanlage Schulzendorfer Straße / Am Dachsbau - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Zusammenarbeit Jugendhilfe und Schule verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Benennung eines Dr. Ilse Kassel-Platz - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Externe Auftragsvergabe Glücksspielhallenkonzept - erledigt
+- TOP 10.8: Nachfrageorientierte Bestattungsformen auf Friedhöfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Zugänglichkeit Humboldt-Insel - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Einkaufsstraßen in Reinickendorf - erledigt
+- TOP 10.11: Bessere Verkehrsanbindung der Anwohner Alter Bernauer Heerweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Bezirkliches Zentren- und Einzelhandelskonzept prüfen - in der BVV abgelehnt
+- TOP 10.13: Straßenbaumfällungen und Rückschnitte im März - in der BVV abgelehnt
+- TOP 10.14: Kleintierleitsystem - in der BVV abgelehnt
+- TOP 10.15: Ampelschaltung Scharnweberstraße / Kapweg / Gotthardstraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Schutz für engagierte Bürgerinnen und Bürger - in der BVV abgelehnt
+- TOP 10.17: Wirtschaftsfreundlichster Bezirk (5) - Made in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Nachnutzung TXL - Anwohner und Ökologie (1) Naherholungsgebiet Flughafensee - in der BVV abgelehnt
+- TOP 10.19: Alle Kitas des Eigenbetriebes von 6 bis 18 Uhr öffnen - 12-Stunden-Angebot gewährleisten - in der BVV abgelehnt
+- TOP 10.20: Sicherheitsbedürfnis in Tegel - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Erhalt von sonderpädagogischer Förderung - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Ampel für Schulwegsicherheit während des Neubaus der Ruppiner Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Dauerhafte schulwegsichernde Maßnahmen in Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Verlängerung der Nachtabschaltung der Ampel Hermsdorfer Str. Ecke Cyclopstraße Ecke Jean-Jaures-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Daten über Kinderschutz vergleichbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Aufwertung des Kolpingplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Altkleidercontainer von privatem Grundstück entfernt? - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Rauchmelderpflicht endlich in Berlin durchsetzen - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Nachnutzung TXL Vorrang für Arbeitsplätze (6): Airport Region Team Tegel - überwiesen
+- TOP 13.2: Mobiltelefon als Reiseführer - überwiesen
