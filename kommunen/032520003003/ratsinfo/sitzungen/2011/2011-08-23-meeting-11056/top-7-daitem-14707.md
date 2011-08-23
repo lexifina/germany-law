@@ -1,0 +1,6 @@
+# TOP 7.: Anregungen
+
+- Sitzung: Bau- und Umweltausschuss (80. Sitzung) (2011-08-23)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/14707
