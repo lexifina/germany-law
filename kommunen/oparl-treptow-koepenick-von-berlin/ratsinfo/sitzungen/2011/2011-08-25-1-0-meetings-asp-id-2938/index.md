@@ -1,0 +1,97 @@
+# 53. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-08-25T16:30:00+02:00
+- Ende: 2011-08-25T22:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2938
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=2938
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=99282
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen der BzBmin - ohne Änderungen in der BVV beschlossen
+- TOP 6: Mündliche Anfragen - schriftlich beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-55 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Verlängerung der A 100 - ohne Änderungen in der BVV beschlossen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Wahl der Seniorenvertretung im Herbst 2011 - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-77 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplans XVI-77 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.2: - Entwurf des Landschaftsplans XVI-L-3 "Unteres Wuhletal" nebst Begründung - Entwurf der Rechtsverordnung zum XVI-L-3 "Unteres Wuhletal" im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: - Entwurf des Bebauungsplans 9-35a („Magazine und Depots“) nebst Begründung - Entwurf der Rechtsverordnung des Bebauungsplans 9-35a im Bezirk Treptow-Köpenick von Berlin, Ortsteil Friedrichshagen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.4: - Entwurf des vorhabenbezogenen Bebauungsplans 9-29 VE nebst Begründung - Entwurf der Rechtsverordnung des vorhabenbezogenen Bebauungsplans 9-29 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.5: - Entwurf des vorhabenbezogenen Bebauungsplans 9-27 VE nebst Begründung - Entwurf der Rechtsverordnung zum vorhabenbezogenen Bebauungsplan 9-27 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Köpenick - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.6: - Entwurf des vorhabenbezogenen Bebauungsplans 9-38 VE nebst Begründung - Entwurf der Rechtsverordnung des vorhabenbezogenen Bebauungsplans 9-38 VE im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.7: Sondermittel für Bürger für Rahnsdorf e. V. (SM 1138) - ohne Änderungen in der BVV beschlossen
+- TOP 11.8: Sondermittel für DLRG Mitte (SM 1139) - ohne Änderungen in der BVV beschlossen
+- TOP 11.9: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.10: Sondermittel für Ensemble Musici Berlin-Köpenick e. V. (SM 1142) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.11: Sondermittel für Förderverein KIEZKLUB RAHNSDORF e. V. (SM 1143) - ohne Änderungen in der BVV beschlossen
+- TOP 11.12: Sondermittel für Industriesalon Schöneweide e. V. Forum für Industrie-Technik-Kultur (SM 1144) - ohne Änderungen in der BVV beschlossen
+- TOP 11.13: Sondermittel für Bürgerverein Altglienicke e. V. (SM 1145) - ohne Änderungen in der BVV beschlossen
+- TOP 11.14: Sondermittel für Schreibwerkstatt im Kiezklub Rahnsdorf (SM 1146) - ohne Änderungen in der BVV beschlossen
+- TOP 11.15: Sondermittel für Rabenhaus e. V. (SM 1147) - ohne Änderungen in der BVV beschlossen
+- TOP 11.16: Sondermittel für Club im Kietz e. V. (SM 1148) - ohne Änderungen in der BVV beschlossen
+- TOP 11.17: Sondermittel für GrenzKultur gGmbH (SM 1149) - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Heimatmuseum nicht verstecken - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Manfred-Bofinger-Bibliothek - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Elcknerplatz vom Durchgangsverkehr befreien - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bezirkshaushaltsrechnung 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Gesundheitsförderung durch Bewegung - erledigt
+- TOP 12.6: Müllschlucker - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bebauungsplan 9-34 ("Puerto Verde") hier: Beschluss zur Änderung des Aufstellungsverfahrens für den Bebauungsplan 9-34 gem. § 10 BauGB - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Haltelinie auf der Rudower Straße (Altglienicke) - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Schillerpromenade in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Einrichtung des Fritz-Kühn-Museums - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Kurzzeitparken am Rathaus Treptow - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Vergabe von Grillflächen im Schlesischen Busch - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Sonderprogramm "Neue Straßenbäume für Berlin" - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Kinderfreundlicher Bezirk Treptow-Köpenick – Cities for Children - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Radwegekonzept veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Sichere Querungsmöglichkeit in der Richterstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Einsetzung einer Ombudsperson zur Korruptionsprävention und -bekämpfung - erledigt
+- TOP 12.18: Illegale Baumaßnahmen auf dem Grundstück Bölschestraße 54 - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Tempo 30 in der Karl-Kunger-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.20: Tempo 30 in ganz Rauchfangswerder - ohne Änderungen in der BVV beschlossen
+- TOP 12.21: Ampelschaltung Müggelheimer Straße / Amtsstraße verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Nachwuchsleistungszentrum für den 1. FC Union Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.23: Standort für Nachwuchsleistungszentrum des 1. FC Union - ohne Änderungen in der BVV beschlossen
+- TOP 12.24: Mehr Sitzbänke im öffentlichen Raum - mit Änderungen in der BVV beschlossen
+- TOP 12.25: Zugang zum Ratskeller aus Investitionsmitteln für barrierefreie Maßnahmen realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.26: Liegeplatzkonzept für Hausboote - ohne Änderungen in der BVV beschlossen
+- TOP 12.27: Sicherung von Kleingartenanlagen – Aufstellung von Bebauungsplänen - vertagt
+- TOP 12.28: Ausweisung von Kleingartenflächen in B-Plangebieten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.29: Wuhlewanderweg - ohne Änderungen in der BVV beschlossen
+- TOP 12.30: Sicherung von Kunstwerken am Bau und im öffentlichen Raum - ohne Änderungen in der BVV beschlossen
+- TOP 12.31: Erhalt der Blockinnenbereiche in Friedrichshagen - ohne Änderungen in der BVV beschlossen
+- TOP 12.32: Vorhabensbezogener Bebauungsplan 9-43 VE ("Bärensiegel") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XV-2 ("Sportanlagen Treptow") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Benennung der im Ortsteil Grünau gelegenen Nummernstraßen Straße 901 in "Horst-Kunze-Weg" Straße 902 in "Kanutenweg" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Fortschreibung der „Leitlinien für die Förderung des Bürgerschaftlichen Engagements des Bezirksamtes Treptow-Köpenick von Berlin“ vom 10. Juni 2011 entsprechend Beschluss Nr. 884/41/10 der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin (Drs. Nr.: VI/1415 i.g.F. vom 27.05.2010) und der Bezirksamtsvorlage Nr. 586/2011 vom 29. März 2011 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Bebauungsplan 9-24 ("Wattstraße / Deulstraße") hier: Einstellung des Planaufstellungsverfahrens - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Vorhabenbezogenen Bebauungsplans 9-27 VE ("Rübezahl") hier: Planreife für das Vorhaben gemäß Antrag vom 17. Juni 2011 (Posteingang) für das Grundstück Müggelheimer Damm 143 im Bezirk Treptow-Köpenick, Ortsteil Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.6: Änderung der organisatorischen Zuständigkeit für den Haupt- und Realschulzweig des zweiten Bildungsweges im Bezirksamt Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.7: Benennung einer Privatstraße im Ortsteil Adlershof auf dem Grundstück Genossenschaftsstraße 1, 12489 Berlin in Zur Holzoper - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Internetseite mit sozialen Angeboten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Verkehrsberuhigung Baumschulenstraße - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Mauerstreifen in Treptow sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Vandalismus und Ruhestörung im Johannisthaler Park - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Unterstützung der Proteste gegen Fluglärm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.6: Einrichtung eines jährlichen Kiezfonds im Bezirk Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Bänke in der Kiefholzstraße in Baumschulenweg - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Willenserklärung der BVV Treptow-Köpenick (Übertragung von kommunalen JFE in freie Trägerschaft) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Bearbeitungsstand von BVV-Beschlüssen – Wann geht es voran? - Ablauf der Wahlperiode
