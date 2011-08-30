@@ -1,0 +1,104 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-08-30T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2398543
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2398543
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Bürgerhaus Glockenbachwerkstatt e.V. Fest zum Weltkindertag am 20.09.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Fa. 0090entertainment Projekt "Respect Us" im September und Oktober 2011
+- TOP .3.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde St. Matthäus Artionale vom 01. - 29.10.2011
+- TOP .4.: (E) Budget der Bezirksausschüsse VIDK e.V. Aufführung einer Oper am 09./11./13.11.2011
+- TOP .1.: Erinnerungsorte in München/NS-Geschichte: Erklärende Zusatzinformationen bei Straßenschildern/Namenserläuterungen
+- TOP .1.: Vorkaufsrecht nach dem BauGB: - Adlzreiterstraße - Waltherstraße
+- TOP .2.: Zweckentfremdung von Wohnraum: - Augsburger Straße - Fraunhoferstraße
+- TOP .3.: BA-Budget: Bewilligungsbescheide - Südl. Bahnhofsviertel e.V. - Jazzkonzert am 17.07.2011 - Trägerkreis EineWeltHaus - 10-Jahres-Feier am 09.07.2011
+- TOP .4.: Schreiben BA 6 bzgl. des Antrags "Neugestaltung des Spielplatzes an der Lagerhausstraße" - BA-Antrag Nr. 08-14 / B 03048 - AW: Antrag wird unterstützt
+- TOP .5.: Antrag des BA 21 bzgl. Bauvorhaben im geförderten Wohnungsbau
+- TOP .6.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps, BA-Antrag Nr. 08-14 / B 01900
+- TOP .7.: BA-Budget: ?Capoeira Festival? - kein Anspruch auf Zuschuss
+- TOP .8.: KiJu 2010: Mehr Kinderbetreuungsmöglichkeiten am Nachmittag (AW des Referats für Bildung und Sport: Kontakt zu Grundschulen soll aufgenommen werden)
+- TOP .9.: BA-Budget: EineWeltHaus - Kurzbericht
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: entfällt
+- TOP .2.: Häberlstr. 11b: Umbau Sportanlage
+- TOP .3.: Waltherstr. 29: Nutzungsänderung
+- TOP .4.: Kohlstr. 9: Nutzungsänderung
+- TOP .5.: Klenzestr. 97: Nutzungsänderung
+- TOP .6.: Schwanthalerstr. 36: Dachterrassen-Ausbau
+- TOP .7.: Jahnstr. 21-21a: Neubau Wohneinheiten mit Tiefgarage
+- TOP .8.: Goethestr. 18: Anbau Fluchttreppe u. Aufzug, Abbruch/Errichtung Dach sowie Aufmauerung
+- TOP .9.: Dreimühlenstr. 26: Errichtung Dachgaube
+- TOP .10.: Dreimühlenstr. 31: Einbau Dachgaube mit Terrasse u. Galerie
+- TOP .11.: Geyerstr. 22: Nutzungsänderung
+- TOP .12.: Pestalozzistr. 36: Nutzungsänderung, Umbau u. Sanierung
+- TOP .13.: Kapuzinerstr. 25a ? 25c: Nutzungsänderung
+- TOP .14.: Waltherstr. 22:Wärmedämmmaßnahmen u. Anbau Balkone
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Ickstattstraße
+- TOP .2.: Bavariaring
+- TOP .3.: Haydnstr. 4-8
+- TOP .4.: Arnulfstr. 23
+- TOP .5.: Augsburgerstr. 11
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Entwurf Fahrradabstellplatzsatzung
+- TOP .2.: Paul-Heyse-Unterführung: Werbeanlage "City-Light-Poster"
+- TOP .1.: Baumaßnahmen SWM: a) Stromprojekt Netztrafostation Zenttiplatz b) Stromprojekt Pestalozzistraße c) Fernwärmeprojekt Ruppertstraße d) Fernwärmeprojekt Zenettiplatz e) Fernwärmeprojekt Ickstattstraße f) Stromprojekt Schillerstraße
+- TOP .2.: Baubeginnsanzeige Mobilfunksendeanlage
+- TOP .3.: Neuer Steg über die Isar ? Klenzesteg; Beschluss Ausschuss Stadtplanung und Bauordnung vom 13.07.2011: Entscheidung wurde vertagt
+- TOP .4.: Korrigierter Plangenehmigungsbescheid für den barrierefreien Ausbau des S-Bahn-Hp Karlsplatz
+- TOP .5.: Bayerstr. 7a. Nutzungsänderung (Ladengeschäft in Bistro sowie Sexshop in Spielcenter) wurde genehmigt
+- TOP .6.: Stadt und Fluss - Innerstädtischer Isarraum, Workshopergebnisse und weitere Vorgehen: Beschlussvorlage wurde vertagt
+- TOP .7.: Radverkehrsanlagen in der Kapuzinerstraße; Beschluss Ausschuss Stadtplanung und Bauordnung vom 29.06.2011 wurde geändert/ergänzt
+- TOP .8.: Sanierung des Isarradweges im Isar-Hochwasserbett (Info Baureferat)
+- TOP .9.: Fraunhoferstr. 33 - 35: Vorbescheid
+- TOP .10.: Maistr. 43 - 47: Rückmeldung der LBK zur Tektur (Nutzungsänderung einer Einheit im EG)
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Bayerstr. 3-5: Errichtung FSF
+- TOP .2.: Baaderstr. 65: Genehmigung FSF (Schmankerlnische)
+- TOP .3.: Arnulfstr. 5: Genehmigung FSF (Dadas Royal Kebabhaus)
+- TOP .4.: Fraunhoferstr. 20: Erweiterung FSF (Cafe Frenzy)
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Bayerstr. 37: Aufstellung Verkaufseinrichtung (U-Bahn Abgang)
+- TOP .2.: Klenzestr. 49: Aufstellung Verkaufseinrichtung (Ally's Fotostudio)
+- TOP .3.: Hans-Sachs-Str. 16: Aufstellung Verkaufseinrichtung (KMFV - Katholischer Männerförderverein)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .3.2: Verkehr
+- TOP .1.: Buslinie 52, 132, 152; gemeinsame Haltestelle am Knoten Cornelius-/Erhardstraße
+- TOP .1.: Betriebszeitverlängerung Freischankfläche Thalkirchner Str. 2 (Alpenimbiss)
+- TOP .1.: Versammlungen unter freiem Himmel (10)
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund (9)
+- TOP .3.: Unveränderte Gaststättenfortführungen: - Lindwurmstr. 39 (Lucki's Asia Bistro) - Kapuzinerstr. 29 (Restaurant Tangra) - Ehrengutstr. 4 (Cafe Bar 7) - Pestalozzistr. 32 (An Nam) - Zenettistr. 10 (Bistro Frische Paradies) - Lindwurmstr. 37 (Das Provisorium) - Klenzestr. 5 (Mr. Mumble's) - Poccistr. 1 (Lazos Food and Drink Pavillion) - Goetheplatz 2 (Royal) - Lindwurmstr. 21 (Café GalaXY) - Fraunhoferstr. 27 (Dahoam) - Ickstattstr. 13 (Kilim Restaurant) - Kapuzinerstr. 39a (Weißbierstadl) - Dreimühlenstr. 10 (Corte Camatti) - Klenzestr. 17 (Osteria Amici)
+- TOP .4.: Verkehrsrechtliche Anordnungen: - Aufhebung personenbezogener Behindertenparkplatz, Baaderstr. 21 - Schulbushaltestelle ? Änderung Zeitzusatz, Schwanthalerstr. 87
+- TOP .5.: Erlaubnisbescheide: - Straßenfest Gärtnerplatz am 23.07.2011 - Pfarrfest St. Maximilian am 24.07.2011 - Straßenfest Zenettistraße am 23.07.2011 - Straßenfest 1. Italienische Nacht am 06.08.2011 (abgesagt) - Hans-Sachs-Straßenfest am 20.08.2011
+- TOP .6.: Information der SWM zur Gleisbaustelle Müllerstraße: zweite Bauphase vom 04.10. - 04.11.2011 vorgesehen
+- TOP .8.: Rückmeldung der Behörden zu Bürgeranliegen: - Verkehrsprobleme Holzstraße und Baldeplatz (PI) - Ruhestörung durch Gaststätten am Holzplatz (PI) - Kinderfreiheit auf dem Alten Südfriedhof (Städt. Friedhofsverwaltung) - Freischankfläche und Parken in der Müllerstraße (PI/BI)
+- TOP .9.: Bürgeranliegen: Anzeige wegen Ruhestörung in der Thalkirchner Straße (2)
+- TOP .10.: Vollzug des Bundes-Immissionsschutzgesetzes: Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV - SWM München
+- TOP .11.: Bürgeranliegen: Zustand Landwehrstraße, Hauptbahnhof und Umgebung (wurde weitergeleitet an KVR und PI)
+- TOP .12.: Bürgeranliegen: Oberirdischer Hinweis auf Fahrstuhl-Ausfall in U-Bahn- höfen (AW MVG: erfolgt bereits) aus der Sitzung 07/11
+- TOP .13.: Hans-Sachs-Straßenfest am 20.08.2011: Hinweis vom KVR (räumliche Ausdehnung entspricht der vom Vorjahr und wurde im letzten Jahr vom BA akzeptiert)
+- TOP .14.: Vollzug des Bundes-Immissionsschutzgesetzes: Ausnahmezulassung für die Müll- einsammlung in der Bayerstraße zwischen Paul-Heyse- und Martin-Greif-Str.
+- TOP .15.: Konsequente Einhaltung der Antragsfristen bei Veranstaltungen
+- TOP .16.: Ladezone Reichenbachstraße; Schreiben des KVR (Ablehnung der Ladezone)
+- TOP .1.: Termine
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .1.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung ? Antrag des BA 1 (Nr. 08-14 / B 03040) Anhörung des Direktoriums
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
