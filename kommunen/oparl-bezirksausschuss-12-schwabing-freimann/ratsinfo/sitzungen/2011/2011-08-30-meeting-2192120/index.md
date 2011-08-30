@@ -1,0 +1,88 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2011-08-30T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2192120
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2192120
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .3.: Kurzbericht der Polizei
+- TOP .4.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung (Antrag Nr. 3040 des BA 1 Altstadt-Lehel)
+- TOP .2.: Errichtung eines eigenen Bezirksausschusses für Freimann (BV-Empfehlung Nr. 1041)
+- TOP .1.: Schaukasten am Admiralbogen (Schreiben des Kommunalreferats vom 01.08.2011)
+- TOP .7: sonstiges
+- TOP .1.: (E) Budget der Bezirksausschüsse Freunde der FFW Freimann e.V. Tag der offenen Tür am 10.09.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse E.F. Schumacher-Gesellschaft für politische Ökologie e.V. Veranstaltung zum 100. Geburtstag von Ernst Friedrich Schumacher am 16./17.09.2011
+- TOP .1.: 26. München Marathon incl. Trachtenlauf am 08.10.2011
+- TOP .2.: Erinnerungsorte München (erklärende Zusatzschilder bei Straßennamen)
+- TOP .3.: Streetlife Festival / Corso Leopold sowie Biomarkt am 10./11.09.2011
+- TOP .4.: Teilnahme am Europäischen Tag des Nachbarn
+- TOP .5.: Tag der offenen Tür der FFW Freimann in der Heinrich-Groh-Str. am 10.09.2011 (Anhörung zur Veranstaltung und zum Antrag auf Straßensperre)
+- TOP .1.: Unterkunft für Wohnungslose Reuschstraße
+- TOP .2.: Frühzeitige Errichtung von sozio-kulturellen Einrichtungen in Neubaugebieten
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Geisel's Werneckhof?, Schank- und Speisewirtschaft, Werneckstr. 11
+- TOP .2.: ?Kindl & Schwan?, Schank- und Speisewirtschaft, Wilhelm-Hertz-Str. 8
+- TOP .3.: Kleingartenanlage No 58, Trink- und Imbißkiosk, Domagkstr. 31
+- TOP .4.: ?Stiftl ? Theatergastronomie?, Schank- und Speisewirtschaft, Werner-Heisenberg-Allee 11
+- TOP .1.: Zuwendungsbewilligungen / Bescheide: a) Regsam e.V. für die Maßnahme: Ferienprogramm im August 2011 b) Innere Mission Diakonie für die Maßnahme: Deutschkurse für Flüchtlingskinder von Juli bis September 2011 c) Förderverein der Grundschule an der Burmesterstraße für die Maßnahme: Chorstunden für die 1. und 2. Klassen im Schuljahr 2011 / 2012 d) TramS ? Theater für die Maßnahme: Grenzgänger ? Theatertage im Oktober 2011
+- TOP .2.: Verwendungsnachweise a) Schwabinger Frisbee Buam für die Maßnahme: Sportfest Schwabing
+- TOP .1.: Blumenschmuck Ungererbad
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Klementinenstr. 18, 2 Eschen, 1 Birke
+- TOP .2.: Leopoldstr. 152 ? 194, Fl.Nr.: 900, Erstellung einer Baugrube für das Bauvorhaben ?Schwabinger Tor?
+- TOP .1.: Bebauungsplan Nr. 161 ?Wohnbebauung zwischen U-Bahnhof Garching, Ausgang Ost, und Brunnenweg? (Gemeinde Garching)
+- TOP .2.: Bauvorhaben: Lilienthalallee 29, Fl.Nr.: 170/125, Aufstellung von Flohmarktcontainern mit Vordach
+- TOP .3.: Generalinstandsetzung des Jugendtreff am Biederstein, Gohrenstraße 6
+- TOP .4.: Bauvorhaben: Werner-Heisenberg-Allee 25, Fl.Nr.: 312/7, Allianz Arena München Ausbau E 04 Achse S 40 bis N 6 zu Megastore-Ersatzfläche und Büro
+- TOP .5.: Arthur-Kutscher-Platz 3, Fl.Nr.: 313/0, Nutzungsänderung von Wohn- und Schlafraum in Büroräume (Wohnung Nr. 30 / 5. OG)
+- TOP .6.: Straßenbenennung auf dem Gelände der ehemaligen Funkkaserne
+- TOP .7.: Bauvorhaben: Grasmeierstr. 20-22, Flurstück 1002/1, Neubau zweier Doppelhäuser ? Vorbescheid (Baumfällungen erforderlich)
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Heinrich-Geißler-Straße 20, Fl.Nr. 13/4, 1 Esche
+- TOP .2.: Grünanlage Berliner See, Grenze zum Ungererbad, 5 Bäume
+- TOP .1.: Baugenehmigung: Wilhelmstraße 28, Aufstockung einer Balkonanlage im Dachgeschoss
+- TOP .2.: Baugenehmigung: Königinstraße 38
+- TOP .3.: Schafhäutlstraße 7, Abbruch und Neubau eines Wohngebäudes (Neubau: 3 WE)
+- TOP .4.: Vorbescheid: Flecklanger 1, Neubau eines Reihenhauses mit Garage
+- TOP .5.: Gentrifizierung in Altschwabing ? Milieuschutz (BA-Antrag 3047) Zwischennachricht
+- TOP .6.: Bauvorhaben der Stadtwerke München a) Stromprojekte in der Lotte-Branz-Str. 14 und Friedrichstr. / Kaiserplatz b) Stromprojekt Friedrichstraße c) Fernwärmeprojekt Münchner Freiheit 7 d) Fernwärmeprojekt Rümannstraße
+- TOP .7.: Aufstellen von Stehtischen vor dem Lokal ?Olio? (Antwort zum Bürgeranliegen)
+- TOP .8.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich V/43 Otto-Sendtner-Straße (beiderseits), Isar (westlich) ? Gärtnersiedlung Freimann, Beschluss der Vollversammlung des Stadtrates vom 27.07.2011 Sitzungsvorlagen Nr. 08-14 / V 07226 (Endgültiger Beschluss)
+- TOP .1.: Maßnahmen zur Hervorhebung des Tempolimits (30 km/h) in der Königinstraße
+- TOP .1.: Verkehrskonzept Münchner Norden (Sachstandsbericht, weiteres Vorgehen, Anträge und Empfehlungen), Sitzungsvorlagen Nr. 08-14 / V 06484 Beschluss des Ausschusses für Stadtplanung und Bauordnung incl. Hinweis/Ergänzung
+- TOP .2.: Errichten von Schutzstreifen in der Dietlinden- und Potsdamer Straße
+- TOP .1.: Kurzparkplätze am Nordfriedhof
+- TOP .1.: Ausfahrt Tristanstraße / Parzivalplatz
+- TOP .2.: Verbesserung der Parksituation vor der Garagenausfahrt Kurwenalstraße 1
+- TOP .3.: Verbesserung der Verkehrssicherheit in der Haid-Park-Siedlung
+- TOP .4.: Missstände an der Münchner Freiheit / Feilitzschstraße
+- TOP .2.: Die Hohenzollernstraße soll zwischen Leopold- und Friedrichstraße (nach Um-widmung zu einer Tempo-30-Zone) für den gegenläufigen Radverkehr geöffnet werden.
+- TOP .3.: Teilsignalisierung Isarring / Ifflandstraße (Ergänzung zum 12.05.2011)
+- TOP .1.: Anfahrtszone für Kindergarten Marianne-Brandt-Straße 33
+- TOP .2.: Anfahrtszone für Kinderkrippe in der Ungererstraße 75
+- TOP .1.: Widmung einer Teilstrecke des Admiralbogens und der Gesamtstrecke der Braunaugenallee zu Ortsstraßen
+- TOP .2.: Neubau öffentlicher Grünanlagen im Bebauungsplan mit Grünordnung Nr. 1991 Domagkstraße Süd / Otl-Aicher-Straße
+- TOP .3.: Beeinträchtigungen von Anliegern durch Besucher des Flohmarktes im ehemaligen Ausbesserungswerk (Antwort des KVR)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Regionalausschusssitzung: Dienstag, den 20.09.2011 um 19.00 Uhr im Freizeittreff Freimann, Burmesterstr. 27
+- TOP .2.: UA-Sitzungen am Mittwoch, den 21.09.2011 um 19.30 Uhr: - UA Bildung, Kultur und Soziales: Seidlvilla, Nikolaiplatz 1b - UA Stadtplanung und Architektur: Seminarraum der Münchner Rückversicherung, Maria-Josepha-Str. 2 - UA Umwelt und Verkehr: Seidlvilla, Nikolaiplatz 1b
+- TOP .3.: Vorankündigung Sitzungstermine: September Plenum 27.09.2011 19.30 Uhr Seidlvilla, Nikolaiplatz 1b UA's 21.09.2011 19.30 Uhr Seidlvilla, Nikolaiplatz 1b Oktober Plenum 25.10.2011 19.30 Uhr Freizeittreff Freimann, Burmesterstraße 27 UA's 19.10.2011 19.30 Uhr Seidlvilla, Nikolaiplatz 1b November Plenum 22.11.2011 19.30 Uhr Seidlvilla, Nikolaiplatz 1b UA's 16.11.2011 19.30 Uhr Seidlvilla, Nikolaiplatz 1b
+- TOP .3.: Anhörungen
+- TOP .5.: Unterrichtungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
