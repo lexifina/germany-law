@@ -1,0 +1,64 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2011-08-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2396305
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2396305
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Teilnahme am Europäischen Tag des Nachbarn (Empfehlung Nr. 963 der Bürgerversammlung des 2. Stadtbezirks vom 19.05.2011 und Antrag des Seniorenbeirates vom 20.07.2011)
+- TOP .2.: Skateanlage am Ackermannbogen / Schwere-Reiter-Straße
+- TOP .3.: Hortplatzmangel im Quartier am Ackermannbogen
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 31 a, Herrenmoden ?Herdt?: 1 Kleiderständer
+- TOP .2.: Hohenzollernstr. 43, ?Profil?: Warenstellagen
+- TOP .3.: Römerstr. 16a, Wiedemann Parfümerie GmbH, Warenstellagen
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kreuzkirche München-Schwabing Konzert am 13.11.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde Kreuzkirche München Artionale 2011 vom 30.09. - 28.10.2011
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: München Marathon am 09.10.2011
+- TOP .2.: Straßenfest in der Agnesstraße am 24.09.2011
+- TOP .2.1.: Planen
+- TOP .1.: Ainmillerstr. 32 (Vorbescheid): Neubau eines Mehrfamilienhauses mit Tiefgarage und Autolift
+- TOP .2.: Rankestr. 8-12 (Vorbescheid): Anbau außenliegender Aufzüge
+- TOP .3.: Agnesstr. 44: Abbruch Bestandsdach, Aufstockung um ein Vollgeschoss mit 2 WE, Aufstockung Treppenhaus
+- TOP .4.: Herzogstr. 41: VGB: Dachanhebung mit Ausbau, Anbau von Balkonen, Einbau eines Personenaufzugs, Nutzungsänderung Kindertagesstätte zu Büro; RGB: Nutzungsänderung zu Wohnen, Einbau eines Personenaufzugs, Erweiterung der Dachterrasse
+- TOP .5.: Adams-Lehmann-Str. 38: Nutzungsänderung einer Gewerbeeinheit in eine Ladeneinheit mit Sitzplätzen zur Selbstbedienung (EG/Haus 3)
+- TOP .6.: Agnesstr. 1: Aufstockung auf die bestehende Schalterhalle im Innenhof und Ausbau der 2. DG-Ebene
+- TOP .7.: Schleißheimer Str. 127-129: Nutzungsänderung mit baulichen Veränderungen: Gaststätte zu Kino (199 Plätze)
+- TOP .8.: Friedrichstr. 1: Einbau eines Personenlifts, DG-Ausbau (2 WE)
+- TOP .9.: Viktoriastr. 23: Umbau einer Gaststätte
+- TOP .10.: Brunnerstr. 35-37: DG-Aufstockung, Abbruch und Neubau zweier Wohnungen
+- TOP .11.: Emanuelstr. 2: Neubau eines Mehrfamilienhauses mit 2 Doppelparkern
+- TOP .12.: Therese-Studer-Straße: Neubau eines Bürogebäudes
+- TOP .13.: Clemensstr. 131: Sanierung, Umbau und Erweiterung eines Büro- und Geschäftsgebäudes (?Schleißheimer Karree? - Realteil 1)
+- TOP .14.: Schleißheimer Str. 141: Sanierung, Umbau und Erweiterung eines Büro- und Geschäftsgebäudes (?Schleißheimer Karree? - Realteil 2)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Radfahren in der Rankestraße: Öffnung der Einbahnstraße für den gegen läufigen Radverkehr
+- TOP .2.: Bürger: Aufstellung eines Verkehrshinweisschildes mit Hinweis auf die Kinder, die unmittelbar von der Kindertagesstätte Klopstockstr. 4
+- TOP .2.1.: Umwelt
+- TOP .1.: Lerchenauer Str. 43-47: Fällung einer Ulme und eines Feldahorn
+- TOP .2.: Bamberger Str. 11: Fällung einer Zwetschge, einer Kastanie und einer Pappel
+- TOP .3.: Bamberger Straße (städt. Grünstreifen): Fällung einer Hainbuche (Antrag der Eigentümerin der Nachbargrundstücks, vgl. dazu Bürgerschreiben und BA-Stellungnahme aus 06/11)
+- TOP .4.: Konradstr. 2: Fällung einer Esche
+- TOP .5.: Birnauer Str. 9, Fällung eines Ahorn
+- TOP .6.: Schleißheimerstraße 181 ? 183, 7 Bäume
+- TOP .7.: Schleißheimer Straße 270, Fällung einer Esche
+- TOP .8.: Schleißheimer Straße 182 ? 184, Fällung eines Spitzahorn
+- TOP .9.: Klopstockstr. 1, Fällung eines Nadelbaums
+- TOP .2.2.: Verkehr
+- TOP .1.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung Anhörung zum Antrag Nr. 08-14 / B 03040 des BA 1 Altstadt-Lehel
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
