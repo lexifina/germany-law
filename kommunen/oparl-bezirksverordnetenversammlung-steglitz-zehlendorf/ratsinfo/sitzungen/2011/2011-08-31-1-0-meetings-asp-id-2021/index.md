@@ -1,0 +1,70 @@
+# 51. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2011-08-31T17:00:00+02:00
+- Ende: 2011-08-31T21:20:00+02:00
+- Ort: Schloßstr. 37, 12163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2021
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2021
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Berechtigungskriterien bezüglich Vorsitz des Prüfungsausschusses zur Durchführung der Abiturprüfungen - beantwortet
+- TOP 3.2: Kein Interesse an der Bürgerarbeit? - beantwortet
+- TOP 3.3: Ersatz für die 40 Ende September ausscheidenden Mobilitätshelfer - beantwortet
+- TOP 3.4: Regenwasserrückhaltebecken Seehofstraße - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.1.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2009 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan X - B 16 [östlich Pacelliallee] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Verordnung über die Verlängerung der Veränderungssperre X - B 16/39 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-23 (Urselweg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.2: Bebauungsplan 6 - 25 VE (Dahlemer Weg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.3: Bebauungsplan 6 - 24 (Fischerhüttenstraße 39/43) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3.4: Bebauungsplan X- B 2e (östlich der Breisgauer Straße) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Veränderung der Lichtzeichenanlage "Kleiner Stern" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Ausschussanträge - erledigt
+- TOP 4.5.1: Riemeisterfenn Artspace Berlin unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Erstellung eines bezirklichen Ordnungsplans - in der BVV abgelehnt
+- TOP 4.6.2: Bebauungsplan für das Gelände Oskar-Helene-Heim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Kunst für Jedermann: Artothek-Angebot auch in Steglitz-Zehlendorf - in der BVV abgelehnt
+- TOP 4.6.4: Fehlende Toiletten bei Spielplätzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Erhalt der Eiche im Bereich "Truman Plaza" oder Ersatzpflanzungen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Saubere Badestelle Badeweg Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Legale Fahrraddurchquerung vom Parkviertel Dahlem zur Clayallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: WC-Anlagen - in der BVV abgelehnt
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringl. Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Abwahl einer Patientenfürsprecherin und Neuberufung eines Patientenfürsprechers für das HELIOS Klinikum Emil von Behring des Bezirks nach § 26 des Landeskrankenhausgesetzes durch die Bezirksverordnetenversammlung - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Tempo 30 im Quermatenweg kontrollieren - überwiesen
+- TOP 5.3: Ausschussanträge - erledigt
+- TOP 5.3.1: Berücksichtigung der Sanierung der Kita Zentrum am Kleeblatt im Haushalt 2012 - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Dringlichkeitsanträge - erledigt
+- TOP 6.1.1: Erinnerungsorte Holocaust vor unsäglichen Wahlplakaten schützen - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Haushaltsangelegenheiten - erledigt
+- TOP 7.1: Anträge - erledigt
+- TOP 7.1.1: Sondermittel für ein Schülervertreterseminar der Werner-von-Siemens-Oberschule - zurückgezogen
+- TOP 8: Bebauungspläne - erledigt
+- TOP 8.1.1: Zentrenkonzept Steglitz-Zehlendorf (2. Fortschreibung 2011) a) Vorlage des Bezirksamts b) Beschlussempfehlung des Ausschusses für Stadtplanung und Naturschutz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.1.2: Bebauungsplan 6-22 (Truman Plaza) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Anträge - erledigt
+- TOP 9.1: Keine frühzeitige Planreife beim B-Planverfahren 6-22 (Truman Plaza) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Städtebaulicher Vertrag zum B-Plan 6-22 (Truman Plaza) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Schloßpark Klein-Glienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 10.1: Stellenausstattung Integrationsbeauftragte/r - in der BVV abgelehnt
+- TOP 11: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 11.1: Keine Kostenbelastung für Anwohner - erledigt
+- TOP 12: Schlusswort des Vorstehers - erledigt
