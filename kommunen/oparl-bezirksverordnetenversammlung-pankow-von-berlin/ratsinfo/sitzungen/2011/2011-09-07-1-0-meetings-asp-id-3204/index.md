@@ -1,0 +1,95 @@
+# 44. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-09-07T17:30:00+02:00
+- Ende: 2011-09-07T22:00:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3204
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3204
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - (offen)
+- TOP 1.4.1: Beabsichtigte Mieterhöhungen der städtischen Wohnungsbaugesellschaften - zurückgezogen
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - ohne Änderungen in der BVV beschlossen
+- TOP 1.8: Wahl einer Schiedsperson für den Schiedsamtsbezirk 8 - die Grenze verläuft entlang der S – Bahn – Trasse, der Straßenzüge Greifswalder Straße und Landsberger Allee sowie entlang der Grenze zum Ortsteil Weißensee und der Bezirksgrenze zu Lichtenberg -im Bezirk Pankow - gewählt
+- TOP 1.9: Generationsübergreifende Freizeiteinrichtung - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Ermäßigte Gebühren für den elektronischen Personalausweis - in der BVV abgelehnt
+- TOP 1.11: Umfahrung Hiddenseestraße verhindern! - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Kinder- und Jugendparlament im Bezirk Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Verbesserung der Verkehrssicherheit in der Buchholzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Barrierefreies Wohnen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.15: Internationale Wochen gegen Rassismus - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Parkverbot in der Herbert-Baum-Straße - in der BVV abgelehnt
+- TOP 1.17: Nachweis der im Haushaltsjahr 2010 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Verbesserung der Querungssituation an der Bucher Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Situation für Fußgänger und Radfahrer in Alt-Karow verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Änderung Bauordnung von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Ampel an der Kreuzung Rennbahnstraße und Gustav-Adolf-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Erhalt und Nutzung der Sporthalle am Weißen See ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Mehr Windenergie in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Schwimmhalle Thomas-Mann-Straße sanieren! - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: ERHALT DER POLIKLINIK AM HELIOS-KLINIKUM in Berlin-Buch - ohne Änderungen in der BVV beschlossen
+- TOP 1.26: Folgen der Schließung Schwimmhalle Thomas-Mann-Straße - beantwortet
+- TOP 1.27: Call-a-bike - beantwortet
+- TOP 1.28: Klappt die fristgemäße Erhebung von Ausgleichsbeträgen? - beantwortet
+- TOP 1.29: Freiwillige Feuerwehren schützen! - mit Änderungen in der BVV beschlossen
+- TOP 1.30: Verkehrssicherheit an der Kreuzung Schönhauser Allee/ Torstraße - vertagt
+- TOP 1.31: Kultur- und Bildungsentwicklungsplan - vertagt
+- TOP 1.32: Fläche des ehemaligen Güterbahnhofs Greifswalder Straße für den Bezirk sichern - vertagt
+- TOP 1.33: Einstellung der Bebauungsplanverfahren XVIII-1 und XVIII-2 - vertagt
+- TOP 1.34: Choriner Straße - Umgestaltung im Bezirk Mitte als Vorbild nehmen - vertagt
+- TOP 1.35: „Trägerbezogene Budgets“ in der Eingliederungshilfe für Menschen mit seelischer Behinderung in Berlin beibehalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.36: Sanierte Straßen oder teure Dauerbaustellen - erledigt
+- TOP 1.37: Windenergie in Pankow weiter ausbauen! - zurückgezogen
+- TOP 1.38: Verbesserte Information bei Planfeststellungsverfahren - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Bericht zu GA-Mitteln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Kulturelle Substanz im Bezirk erhalten / Der Kultur- und Bildungsentwicklungsplan soll nicht Makulatur werden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Fortschreibung der Behindertenkonzeption - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Fortschreibung Sportentwicklungsplan - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Datenschutz in Bibliotheken erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Kulturhaus Weißensee - vertagt
+- TOP 2.7: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - vertagt
+- TOP 2.9: Maerker für Berliner - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Rückrufservice - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.11: Datenschutzfragen klären, Klarheit schaffen: Endlich Sicherheit für die Kurt-Tucholsky-Bibliothek! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Bericht über Konjunkturpakete - vertagt
+- TOP 2.13: Verbesserung der Verkehrssicherheit für Fußgänger im Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Komödienhaus Pfefferberg - vertagt
+- TOP 2.15: Autobahnanschlussstelle für Karow und Buch - vertagt
+- TOP 2.16: Verkehrssicherheit in der Dietzgenstraße insbesondere für Fahrradfahrer - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Laubabholung in Siedlungsgebieten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Botanische Vielfalt Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Umstrukturierungssatzung für einen Block im Paracelsusviertel - vertagt
+- TOP 2.20: Alternativen für die Initiativen im Eliashof - jetzt! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Städtische Wohnungsbaugesellschaften in Bezirken in die soziale Pflicht nehmen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Sozialverträgliche Modernisierung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.24: Bedeutung der "Filmstadt Weißensee" endlich angemessen würdigen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Bolzplatz Pasewalker Straße erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Wahllokale zur Wahl der Seniorenvertretung im November 2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Intelligente Ampelschaltung an der der Kreuzung Antonplatz und Mühlenberg - Center - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Beleuchtung der Gehwege in Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.29: Beschränkung des Parkverbots vor der Kita in der Busonistraße 145 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.30: Der Mauerpark - Ein Park für alle Generationen - vertagt
+- TOP 2.31: Teilhabekonzept Menschen mit Beeinträchtigungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.32: "Bürgerarbeit" mit Landesmitteln auch in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Bebauungsplan 3-13 vom 21.09.2010 für das Gelände zwischen Lerchengraben, Piesporter Straße, Feldtmannstraße und Berliner Allee im Bezirk Pankow, Ortsteil Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Abschluss einer Zielvereinbarung für das Fallmanagement in der Eingliederungshilfe für die Haushaltsjahre 2011 bis 2014 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: 1. Bericht "Bürgerfreundliche Verwaltungssprache - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Benennungsabsicht von 35 Privatwegen in der Anlage Einigkeit im Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Schulentwicklungsplanung für den Bezirk Pankow 2012 - 2016 - vertagt
+- TOP 2.38: Nachweis der im 1. Halbjahr 2011 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 3.1: nicht öffentlicher Tagesordnungspunkt
