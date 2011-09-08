@@ -1,0 +1,7 @@
+# TOP 10: Berichte des Vorsitzenden, der bezirklichen Seniorenräte, aus den Ratsausschüssen und anderen Gremien
+
+- Sitzung: öffentliche Sitzung des Seniorenrates Sitzungssaal des Bezirksamts Kornelimünster/Walheim, Schulberg 20, 52076 Aachen (2011-09-08)
+- Körperschaft: Aachen
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5b9370441d8f32e9185edcaa
+- Ergebnis: (offen)
