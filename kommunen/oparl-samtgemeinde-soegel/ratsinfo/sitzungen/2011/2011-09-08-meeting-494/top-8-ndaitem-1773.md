@@ -1,0 +1,6 @@
+# TOP 8: Beratung und Beschlussfassung über die Behandlung von Spenden, Schenkungen und ähnlichen Zuwendungen gem. § 83 Abs. 4 NGO i.V.m. § 25 a GemHKVO
+
+- Sitzung: Samtgemeinderat der Samtgemeinde Sögel (2011-09-08)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/1773
