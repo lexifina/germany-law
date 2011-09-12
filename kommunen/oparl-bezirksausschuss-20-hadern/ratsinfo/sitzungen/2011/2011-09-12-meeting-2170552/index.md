@@ -1,0 +1,102 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-09-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170552
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170552
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Blockierter Gehweg in der Ringstraße
+- TOP 1.2.: Einrichtung von Fußgängerüberwegen in der Waldwiesenstraße
+- TOP 1.3.: Ampelschaltungen an den Kreuzungen Senftenauerstraße / Silberdistelstraße und Terofalstraße / Silberdistelstraße
+- TOP 1.4.: Schlechter Zustand Schlagweg
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 3.3.: UA Verkehr
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, STÜPS Schulsozialarbeit, schule-beruf e.V., Präventionsprojekt für die 3. Klassen der Grundschule Blumenau im Oktober und November 2011 (Direktorium, 11.08.11)
+- TOP 2: Werbeplakate vor Schulen und Kindergärten; Empfehlung Nr. 08-14 / E 00667 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 28.09.2010 (Referat für Stadtplanung und Bauordnung, 22.08.11)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Teilnahme am Europäischen Tag des Nachbarn (Sozialreferat, 10.08.11)
+- TOP 6.2.: Herstellung Schröfelhofstraße (Baureferat, 23.08.11)
+- TOP 6.3.: Waldwiesenstraße 27, Neubau eines Hauses für Kinder (Kooperationseinrichtung) (Referat für Stadtplanung und Bauordnung, 24.08.11)
+- TOP 6.4.: Antrag CSU-Stadtratsfraktion: "Verbesserte Bürgerbeteiligung" (Direktorium, 29.08.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Krokusstraße 63 - 69 + Willibaldstraße 148 - 154, gem. Baumbestandsplan Nr. 13683
+- TOP 7.2.: Gräfelfinger Straße 132, 1 Fichte
+- TOP 7.3.: Heiglhofstraße 13, 1 Kastanie
+- TOP 7.4.: Hohenklingenstraße 9, 2 Fichten
+- TOP 7.5.: Waldklausenweg 18, 1 Birke
+- TOP 7.6.: Zypressenweg 16, 1 Götterbaum
+- TOP 7.7.: Neufriedenheimer Platz 10, 1 Fichte
+- TOP 7.8.: Enzianstraße 11, gem. Baumbestandsplan Nr. 114478
+- TOP 7.9.: Kornwegerstraße 45, gem. Baumbestandsplan Nr. 19634
+- TOP 7.10.: Kornwegerstraße 38, gem. Baumbestandsplan Nr. 15737
+- TOP 7.11.: Silberblattstraße 4, gem. Baumbestandsplan Nr. 19836
+- TOP 7.12.: Haderunstraße 2, gem. Baumbestandsplan Nr. 18163
+- TOP 7.13.: Waldwiesenstraße 27, gem. Baumbestandsplan Nr. 18899
+- TOP 7.14.: Wildtaubenweg 21, gem. Baumbestandsplan Nr. 19308
+- TOP 7.15.: Würmtalstraße 147, gem. Baumbestandsplan Nr. 20264
+- TOP 7.16.: Rheinsteinstraße 5, gem. Baumbestandsplan Nr. 20189
+- TOP 7.17.: Gräfelfinger Straße, gem. Baumbestandsplan Nr. 115318
+- TOP 7.18.: Kurparkstraße gegenüber Haus-Nr. 23, 1 Linde
+- TOP 7.19.: Steinbrechweg 23, 1 Zeder
+- TOP 7.20.: Hirtentäschelweg 15, 2 Birken
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: Liste des Baureferates vom 18.08.11
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Hochwaldstraße 28 (Referat für Stadtplanung und Bauordnung, 10.08.11)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Dorfkernensembles; Entscheidungen des Landesdenkmalrates (Referat für Stadtplanung und Bauordnung, 12.08.11)
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Guardinistraße (Sozialreferat, 26.07.11)
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München, hier: Rolf-Pinegger-Straße, Strom (SWM, 08.08.11)
+- TOP 8.4.: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 4 Kinderkrippen- und 2 Kindergartengruppen an der Waldwiesenstraße 27 (Baureferat, 22.08.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Geh- und Radweg von der Blumenauer Straße über den Lobelienweg Richtung Baumschule (Baureferat, 04.08.11)
+- TOP 9.2.: Staubbelästigung beim Einsatz von Laubbläsern (Referat für Gesundheit und Umwelt, 05.08.11)
+- TOP 9.3.: Nutzung Grundstück Gelbhofstraße 14 (Kommunalreferat, 08.08.11)
+- TOP 9.4.: Widmungserweiterung für den Fußweg zwischen Waldsaumstraße und Lorettoplatz in gemeinsamen Geh- und Radweg (Baureferat, 08.08.11)
+- TOP 9.5.: Schröfelhofstraße, Anfrage wegen Wegverbreiterung (Referat für Stadtplanung und Bauordnung, 08.08.11)
+- TOP 9.6.: Verschmutzung der Straßen in Großhadern (Baureferat, 11.08.11)
+- TOP 9.7.: Waldfriedhof, Einrichtung eines Elektrobusses (Referat für Gesundheit und Umwelt, Friedhofsverwaltung, 10.08.11)
+- TOP 9.8.: Reparatur Verbindungsweg zwischen Blumenauer Straße und Wastl-Witt-Straße (Baureferat, 01.08.11)
+- TOP 9.9.: Hinweisschild auf die Lukas-Grundschule (Haderunstraße 1 a) an der Kreuzung Waldwiesenstraße / Haderunstraße (Kreisverwaltungsreferat, 01.08.11)
+- TOP 9.10.: Waldfriedhof, Verkaufsstände an Allerheiligen entlang des Hauptweges (Referat für Gesundheit und Umwelt, Friedhofsverwaltung, 04.08.11)
+- TOP 9.11.: Wiederaufnahme der Planungen für den Landschaftspark Pasing-Hadern-Gräfelfing-Planegg; Durchführung einer Bundesgartenschau (Baureferat, 17.08.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Reinigung U-Bahn-Abgänge Haderner Stern (SWM, 02.08.11)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Ankündigung der Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 08.12.2011 (Sozialreferat, 17.08.11)
+- TOP 11.2.: Antrag des BA 15 Trudering-Riem vom 18.11.2010: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps
+- TOP 11.3.: Protokoll des 11. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 21.07.2011; nächster Termin: Donnerstag, 20.10.2011 von 18.00 - 20.00 Uhr (Gleichstellungsstelle für Frauen, 25.07.11)
+- TOP 11.4.: Termine der BA-Sitzungen in 2012
+- TOP 11.5.: Einladung zum Abendforum "Steuerrecht: Neue Abschreibung zur energetischen Modernisierung von (Wohn-)Gebäuden" am Donnerstag, 22.09.2011 (Referat für Gesundheit und Umwelt, 16.08.11)
+- TOP 11.6.: Einladung zum Fachforum "Energieeffizienz im Einzelhandel" am Donnerstag, 13.10.2011 (Referat für Gesundheit und Umwelt, 16.08.11)
+- TOP 11.7.: Präsentation der Ergebnisse der Evaluation zu den REGSAM-Gebieten mit besonderem Handlungsbedarf am Dienstag, 25.10.2011 von 14.00 - 17.00 Uhr im Kulturhaus Ramersdorf-Perlach (REGSAM, 23.08.11)
+- TOP 11.8.: Einladung zum Fachgespräch "Familien in der Stadt" am Montag, 10.10.2011 (Referat für Gesundheit und Umwelt, 06.09.11)
+- TOP 11.9.: Einladung zum Fachgespräch "Neue Allianz von MieterInnen und VermieterInnen?" am Dienstag, 11.10.2011 (Referat für Gesundheit und Umwelt, 06.09.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 27.07.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07250 (nach Antrag): Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste (Kein Denkmal in Hadern gemäß Anlage 1.)
+- TOP 12.2.: Beschluss vom 27.07.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07144 (nach Antrag): "Fassadenpreis 2010" für die Heiglhofstraße 4 der Firma HELA GmbH & Co. KG, vertreten durch die Architekten Höldrich (Beschreibung in Anlage 1, S. 4, Nr. 10)
+- TOP 12.3.: Beschluss vom 27.07.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07100 (nach dem ergänzten Referentenantrag gem. S. 6a): Öffentliche WC-Anlagen - Strategiekonzept, insbesondere zu den Anlagen in der - Waldfriedhofstraße (wird geschlossen), - Großhadern (wird nicht geschlossen), - Haderner Stern (wird geschlossen) und - Klinikum Großhadern (wird geschlossen gem. Änderungsantrag vom 27.07.2011, S. 6b)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 28.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06989 (nach Antrag): Kindertagesstätten sonstiger Träger; Kinderkrippe Guardinistraße 33 Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 (2.237.016,- ?, wovon der Freistaat Bayern 1.615.000,- ? trägt)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses vom 28.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07031 (nach Antrag): Kindertagesstätten sonstiger Träger; Haus für Kinder Heiglhofstraße 5 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Leistung eines Baukostenzuschusses nach dem BayKiBiG (30.000,- ?, die zu 100% der Freistaat Bayern trägt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
