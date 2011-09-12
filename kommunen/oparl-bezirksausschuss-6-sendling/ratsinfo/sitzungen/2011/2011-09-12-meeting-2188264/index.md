@@ -1,0 +1,51 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-09-12T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188264
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188264
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Dorfkernensemble Sendling
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Kostenänderung Bauvorhaben Königsdorfer Straße
+- TOP 3.2.: Informationsveranstaltung des Sozialreferates am 08.12.2011
+- TOP 3.3.: Teilnahme am Europäischen Tag des Nachbarn
+- TOP 4: Schulreferat
+- TOP 5.1.: Freischankfläche Implerstraße 40
+- TOP 5.2.: Unveränderte Fortführung von Gaststättenangelegenheiten
+- TOP 6.1.: Mobiler Fahrradständer, Alramstraße 27
+- TOP 6.2.: Bauvorhaben der SWM in der Thalkirchner Straße
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldeliste Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstr. 9a
+- TOP 8.3.: Bauvorhaben Lindwurmstr. 122 - 124
+- TOP 8.4.: Bauvorhaben Schöttlstr. 12
+- TOP 8.5.: Bauvorhaben Lipowskystr. 12a
+- TOP 8.6.: Bauvorhaben Kyreinstr. 12
+- TOP 8.7.: Bauvorhaben Kyreinstr. 14
+- TOP 8.8.: Bauvorhaben Thalkirchner Str. 278
+- TOP 8.9.: Bauvorhaben Dietramszeller Str. 15
+- TOP 8.10.: Bauvorhaben Steinerstr. 16 - 18; Antwort
+- TOP 8.11.: Erwerbstätigenprognose für die Landeshauptstadt München
+- TOP 9: Baureferat
+- TOP 9.1.: Umbaumaßnahmen Margaretenplatz
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Plinganserstr. 122; eine Esche
+- TOP 10.2.: Baumfällung Kraelerstraße 10, eine Zierkirsche
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Maßnahmen zum Schutz der eiszeitlichen Hangkante in Sendling zwischen Hans-Fischer-Straße und Greinerberg Empfehlung Nr. 08-14 / E 00681 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 13.10.2010 - <div>Abweichender BA-Beschluss mit Schreiben des Oberbürgermeisters vom 17.10.12 abgewiesen.</div>
+- TOP 12: Anträge
+- TOP 12.1.: Öffentliche WC-Anlagen - Strategiekonzept; Errichtung einer öffentlichen Toilettenanlage im Bereich der Spielfläche des Bahndeckels Theresienhöhe
+- TOP 13: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
