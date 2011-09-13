@@ -1,0 +1,78 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226367
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226367
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung gem. OB-Vollmacht über die Projektplanung: Gustav-Schiefer-Straße: Umgestaltung Brunnenplatz
+- TOP 2.2.: Entscheidung gem. OB-Vollmacht über die Projektplanung: Spielplatz Toni-Pfülf-Straße: Sanierung und Erweiterung
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Siedlervereinigung Neu-Hasenbergl Jubiläumsveranstaltung am 17.09.2011
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Druckkosten für die Broschüre "Raumverzeichnis"
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Seniorenwoche im November 2011
+- TOP 3.1.: Paul-Preuss-Straße: 1. Anbringen eines 2. Hinweisschildes für den Park-&Ride-Platz S/U-Bahn Feldmoching 2. Kennzeichnung am Gehweg (Parkstreifen)
+- TOP 3.2.: Verkehrskonzept München Nord: 1. Präzisierung und Erklärung vor Vorstellung in einer Bürgerversammlung (26.07.11) dazu: Anfrage BA und Antwortschreiben Referat für Stadtplanung und Bauordnung 2. Antrag auf planerische und gutachtliche Ausarbeitung der Verlängerung der Schleißheimer mit optimaler Tunnellösung als Anschluss an die A 99 (26.08.11)
+- TOP 3.3.: Antrag auf Unterstützung zur Anbringung von Ortsteil-Hinweisschildern "Fasanerie"
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Dachauer Str. 570 (Werksentwicklung Ost / Umbau Truck Forum)
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: Waldrebenstr. 34
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Baumfällungen): Schwarzhölzlstr. 9 und Thelottstr. 24
+- TOP 5.4.: Verkehrskonzept Münchner Norden: Anhörung der BA's gem. Auftrag Beschlussvorlage vom 01.06.2011
+- TOP 5.5.: Direktorium: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung (Antrag des BA 1 vom 12.04.2011)
+- TOP 5.6.: Direktorium: Verbesserte Bürgerbeteiligung (Antrag CSU-Stadtratsfraktion)
+- TOP 5.7.: Sozialreferat: Teilnahme am Europäischen Tag des Nachbarn
+- TOP 5.8.: Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) (-&gt; Vertagung aus Sitzung 26.07.2011)
+- TOP 5.9.: Veranstaltung auf öffentlichem Verkehrsgrund: Festzug zum Feldmochinger Rosstag am 09.10.2011
+- TOP 5.10.: Veranstaltung auf öffentlichem Verkehrsgrund: Festzug anlässlich 1200 Jahre Feldmoching am 16.10.2011
+- TOP 5.11.: Veranstaltung auf städtischer Grünanlage: Dülfer Anger: Integrationsfest vom 23.09. bis 25.09.2011
+- TOP 5.12.: Veranstaltung auf städtischer Grünanlage: Dülfer Anger: Herbstfeier vom 21.10. bis 23.10.2011
+- TOP 5.13.: KVR: Austausch der Lichtzeichenanlage 610 Detmold-/ Schleißheimer Straße
+- TOP 5.14.: Baureferat: Sölde in der Herbergstraße; zukünftige Ausbauart der Herbergstraße
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Erwerb einer Teilfläche aus Flst. 1029/8 nähe Berberitzenstraße (nordwestl. BÜ); hier: Zwischenmitteilung des Baureferates
+- TOP 6.2.: Kultur- und Bürgerzentrum an der Blodigstraße: Einbeziehung des BA 24 und des Vereins "Stadtteilkultur 2411" bei der Namensfindung; Namensgebung: Vorschlag "Kulturzentrum 2411"
+- TOP 6.3.: Zusätzliche Wasserqualitätsmessungen des DLRG am Fasaneriesee
+- TOP 6.4.: Daten der Grundwasserpegel im Bereich Feldmoching: grafische Darstellung je Messstelle
+- TOP 6.5.: Freundlichere Gestaltung des Walter-Sedlmayr-Platzes
+- TOP 6.6.: Strassenbauarbeiten in der Hainbuchen- und Waldmeisterstraße
+- TOP 6.7.: Vermietung Anwesen Lerchenstr. 19 (Antwort auf Anfrage des BA 24)
+- TOP 6.8.: Trollblumenstraße: Herstellung einer Grünanlage mit Kinderspiel
+- TOP 6.9.: Ruhestörung am Goldschmiedplatz
+- TOP 6.10.: Müllproblem Walter-Sedlmayr-Platz
+- TOP 6.11.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.12.: Meldelisten Baumfällungsanträge
+- TOP 6.13.: Meldelisten Bauvorhaben
+- TOP 6.14.: Vorabzustimmungen zu Bauvorhaben/ Baumfällungen wegen Fristablauf: Feldmochinger Str. 383, Lerchenauer Str. 240, Linkstr. 2
+- TOP 6.15.: Verkehrsrechtliche Anordnungen: Max-Born-Straße: Fahrbahnsanierungen
+- TOP 6.16.: PI 43: Parksituation Mehlprimelweg
+- TOP 6.17.: unveränderte Fortführung eines Gaststättenbetriebes: Georg-Zech-Allee 14, Josef-Frankl-Str. 30
+- TOP 6.18.: Baumaßnahmen der SWM: Stromprojekte Blodigstraße, Herbergstraße und Opal-/Rubinstraße
+- TOP 6.19.: 110-Kv-Bahnstromleitung BL 520 Abzw. Karlsfeld - München Ost - Ersatzneubau (Stellungnahme des Referates für Stadtplanung und Bauordnung)
+- TOP 6.20.: Referat für Bildung und Sport: Errichtung eines Hauses für Kinder am Tollkirschenweg (Genehmigung des Nutzerbedarfsprogrammes; Vorplanungsauftrag)
+- TOP 6.21.: Referat für Bildung und Sport: Sanierung des Betriebsgebäudes Granatstr. 10 (Ergebnisprotokoll zum Ortstermin vom 27.07.2011)
+- TOP 6.22.: Münchner Stadtentwässerung: Kanalbau im Umgriff d. Bebauungsplanes Schittgablerstraße (Projektgenehmigung)
+- TOP 6.23.: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes; Entscheidungen des Landesdenkmalrates vom 27.05. und 01.07.2011 (Information des Referates für Stadtplanung und Bauordnung)
+- TOP 6.24.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Dezentrales Güterverkehrskonzept (GVZ-Konzept); Überprüfung und weitere Planung
+- TOP 6.25.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14 (Untersuchung der empirica AG)
+- TOP 6.26.: Beschlussvorlage Kommunalreferat: Öffentliche WC-Anlagen - Strategiekonzept u.a.
+- TOP 6.27.: Zuschuss aus dem BA-Budget: 1. Verein "Stadtteilkultur 2411": Rücknahme Budget-Antrag für Freiluftfilmveranstaltung am 07.09.2011 Walter-Sedlmayr-Platz; 2. Kurzbericht des Tanzprojektes "Moderner kreativer Kindertanz"
+- TOP 6.28.: MVV: Verbundbericht 2010 - MVV bleibt auf Wachstumskurs
+- TOP 6.29.: MGS (Münchner Gesellschaft für Stadterneuerung mbH): Geschäftsbericht 2010
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Oktoberfest 2011: Platzreservierung BA 24
+- TOP 8.2.: Terminplanung Sitzungstermine 2012
+- TOP 8.3.: Ergänzungsbeschluss zur Anhörung zum BÜ Fasanerie
+- TOP 8.4.: Gartenhaus an der Bahnlinie München-Regensburg in der Toni-Pfülf-Straße im Raum BÜ Lerchenauer Straße
+- TOP 8.5.: Antrag BA 9: Maßnahmen zur Förderung des Wohnungstausches (Bitte um Unterstützung des Antrages)
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
