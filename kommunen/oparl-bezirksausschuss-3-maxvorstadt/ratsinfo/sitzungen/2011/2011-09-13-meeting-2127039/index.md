@@ -1,0 +1,105 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2127039
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2127039
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Beschwerdebrief von Bürgern aus der Maxvorstadt vom 22.07.2011 über ein Lokal in der Isabellastraße
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt wegen Einrichten einer Lieferzone vor dem Anwesen Gabelsbergerstraße 95
+- TOP 5.2.3.: Schreiben einer Hausverwaltung in der Maxvorstadt vom 12.08.2011 häufigere Straßenreinigung und Aufstellen von Abfallbehältern im Gebiet Gabelsberger- straße 4 Ecke Amalienstraße (s. TOP C 2.2.4)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben 31., 32., 33., 34. KW
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Schönfeldstraße 14, ein Schlehdorn
+- TOP 2.2.3.: Karolinenplatz 4, eine Robinie
+- TOP 2.2.4.: Georgenstraße 71, ein Baum (Art unbekannt)
+- TOP 2.2.5.: Heßstraße 98, ein Ahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement Einrichten eines Radfahrstreifens in der Von-der-Tann-Straße und Aufhebung der Radwegebenutzungspflicht am Oskar-von-Miller-Ring
+- TOP 2.1.2.: E-Mail eines Bürgers aus der Maxvorstadt vom 14.07.2011 Verkehrssituation in der Josephstraße vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011
+- TOP 2.1.3.: Baureferat, Tiefbau, Erinnerungsverfahren Von-der-Tann-Straße (Stauraum) vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011 (TOP C2.1.1)
+- TOP 2.1.4.: Schreiben eines Bürgers aus der Maxvorstadt wegen Einrichten einer Lieferzone vor dem Anwesen Gabelsbergerstraße 95 (s. TOP A 5.2.2)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Referat für Stadtplanung und Bauordnung, Anhörung Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereit- haltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS) Sitzungsvorlagen Nr. 08-14/V 06873 vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011 (TOP C 2.2.1)
+- TOP 2.2.2.: Aufstellung einer Litfasssäule mit integrierter Toilette am Maßmannspielplatz vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011
+- TOP 3: (E) Begrünung der Karlstraße zwischen Seidl- und Pappenheimstraße (Ziffer 1 des Antrags) Empfehlung Nr. 08-14 / E 00810 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 09.12.2010 Neuerliches Schreiben des Baureferates mit der Bitte um nochmalige Befassung, Meinungsbildung und Entscheidung
+- TOP 3.4.: Schreiben einer Hausverwaltung in der Maxvorstadt vom 12.08.2011 häufigere Straßenreinigung und Aufstellen von Abfallbehältern im Gebiet Gabelsberger- straße 4 Ecke Amalienstraße
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sicherheit, Ordnung, Gewerbe Sperrzeitaufhebung, Maximiliansplatz 5
+- TOP 2.3.2.: Kreisverwaltungsreferat, Sicherheit, Ordnung, Gewerbe Sperrzeitaufhebung, Gabelsbergerstraße 4
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 26. München Marathon am 09.10.2011
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Flohmarkt im Arnulfpark am 15.10.2011
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: E-Mail eines Bürgers aus der Maxvorstadt vom 14.07.2011 Kündigung der Belegungszeiten des TSC Maxvorstadt e.V. vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011 (TOP A 5.2.3)
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Vereinigung der Freunde des Wittelsbacher-Gymnasiums e.V. Kauf eines Camcorders für Schulprojekte
+- TOP 2.3.: Sozialreferat, Kontraktkoordination und Bewohnerarbeit Teilnahme am Europäischen Tag des Nachbarn
+- TOP 2.4.: Sozialreferat, Sozialplanung Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 08.12.2011 Anmeldung der Teilnehmer
+- TOP 2.5.: Bezirksausschuss 9 Neuhausen-Nymphenburg, Bitte um Unterstützung eines Antrages ?Maßnahmen zur Förderung des Wohnungstausches?
+- TOP 1: Anträge (4)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Pfarrei St. Joseph Adventsspiele vom 01. - 03.12.2011
+- TOP 2.2.: (E) Budget der Bezirksausschüsse VIDK e.V. Aufführung einer Oper am 09./11./13.11.2011
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: "Kein Rosinenpicken bei den Wertstoffen"
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Baureferat, Gartenbau Unterrichtung über das Fällen eines Gefahrbaumes: Sandstraße 26, 1 Scheinkazie
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, Schreiben vom 19.08.2011 Bauvorhaben Erzgießereistraße 14 (s. TOP B 2.2.3/0611), Vollzug der Baumschutzverordnung
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung § 45 StVO Sicherheitszone Brienner Straße, Israelisches Generalkonsulat, Errichtung einer Haltverbotszone
+- TOP 2.2.: Referat für Gesundheit und Umwelt, Immissionsschutz Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personennahverkehrs (ÖPNV) Stadtwerke München
+- TOP 2.3.: Anbringen von Hinweisschildern "Feuerwehranfahrtszone" mit dem Abschleppsymbol am Georg- Elser- Platz
+- TOP 2.4.: entfällt
+- TOP 2.5.: Baureferat, Beschlussvorlage Platz der Opfer des Nationalsozialismus, Teilprojekt Ottostraße im 3. Stadtbezirk Maxvorstadt; Änderung des Mehrjahresinvestitionsprogrammes 2010 - 2014 Sitzungsvorlage Nr. 08-14 / V 06883
+- TOP 2.6.: Maßnahmen gegen gefährliche Buswendemanöver in der Helmholzstraße / Ecke Marlene-Dietrich-Straße
+- TOP 2.7.: Baureferat, Tiefbau, Projektmanagement Ergänzung des Radweges am Oskar-von-Miller-Ring Empfehlung Nr. 02-08 / E 00906 der Bürgverversammlung des BA 3 vom 24.10.2007 Zwischennachricht
+- TOP 2.8.: Brunnen auf dem neu zu gestaltenden Platz an der Rottmannstraße
+- TOP 2.9.: Bezirksausschuss 9 Neuhausen ? Nymphenburg, Schreiben vom 18.08.2011 an das KVR Einrichten einer Kurzparkzone vor dem Kindergarten der Inneren Mission, Marlene-Dietrich- Straße 51 (gehört zum Stadtbezirk 3 Maxvorstadt)
+- TOP 2.10.: Freischankfläche vor dem Kino ?Studio Isabella?, Neureutherstraße 29 Antwortschreiben von Bürgermeister Montzeder an den Betreiber vom 22.08.2011
+- TOP 2.11.: Kommunalreferat Öffentliche WC-Anlagen, Beschluss der Vollversammlung des Stadtrates vom 27.07.2011 Sitzungsvorlage Nr. 08-14 / V 07100
+- TOP 2.12.: Kreisverwaltungsreferat, Verkehrsmanagement Einrichtung eines allgemeinen Behindertenparkplatzes in der Amalienstraße 17
+- TOP 2.13.: Baureferat BA-Antrag-Nr. 08-14 / B 02807 des BA 3 vom 15.03.2011 Zwischennachricht und Antrag auf Fristverlängerung bis 31.05.2013
+- TOP 2.14.: Baumaßnahme der Stadtwerke, Königinstraße 33, Fernwärme
+- TOP 2.15.: Referat für Gesundheit und Umwelt Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchG Schellingstraße 23, Bauarbeiten für Einrichtung eines Fernwärmeanschlusses
+- TOP 2.16.: Baureferat, Tiefbau, Projektmanagement Zwischennachricht zum BA-Antrag Nr. 08-14 / B 02807 des BA 3 vom 15.03.2011 ?Die Kreuzung Oskar-von-Miller-Ring (Oberfläche) wird an der Kreuzung zur Kardinal- Döpfner- und Fürstensstraße zu einem Kreisverkehr umgebaut.?
+- TOP 2.17.: Baureferat, Tiefbau, Consulting und Service Antrag auf Einbau von Blindenleitplatten auf dem städtischen Grundstück Professor- Huber-Platz 2
+- TOP 3.1.: Baureferat, Gartenbau Schreiben an Bürgerin bzgl. Umplanung des öffentlichen Spielplatzes Tengstraße
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Referat für Bildung und Sport Beschluss des Kinder- und Jugendhilfeausschusses des Stadtrates vom 28.06.2011 Sitzungsvorlage Nr. 08-14 / V 06985 Kinderkrippe Königinstraße 19 im 3. Stadtbezirk Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013
+- TOP 3.4.: Referat für Stadtplanung und Bauordnung, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 28.09.2011 Sitzungsvorlage Nr. 08-14 / V 07507 ?Erwerbstätigenprognose für die Landesshauptstadt München und die Landkreise der Planungsregion 14?
+- TOP 4: Kultur
+- TOP 4.1.: Kreisjugendring München-Stadt, Schreiben vom 26.07.2011 Dank für Budgetmittel zum Projekt ?Kick it like Kurt?
+- TOP 4.2.: Budgetantrag von MIR e.V. Zuwendungen zur Erstellung des MIR-Kalenders 2012
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Bürgerversammlung des BA 3 am 18.10.2012 Auswahl des Versammlungslokals
+- TOP 4.3.: Direktorium, Anhörung Antrag von Herrn Stadtrat Josef Schmid vom 22.08.2011 ?Verbesserte Bürgerbeteiligung III ? Information über stadtteilbezogene Themen optimieren?
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.2.6.: Schleißheimer Straße 34, eine Birke
+- TOP 3: Aktuelle Sachstandsberichte
