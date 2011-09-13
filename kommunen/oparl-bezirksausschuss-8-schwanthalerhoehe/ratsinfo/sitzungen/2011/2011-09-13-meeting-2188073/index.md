@@ -1,0 +1,62 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188073
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188073
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Das Kommunalreferat stellt die städtischen Planungen zu BA-Antrag Nr. 08-14 / B 02889 "Das Kommunalreferat wird beauftragt das Grundstück Kazmairstr. 23-25 eigentumsrechtlich dem Baureferat-Gartenbau zu übertragen" vor
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Verkehr in der Tulbeckstraße
+- TOP 4.2.: Höhe der Bordsteinkanten
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.3.: Maßnahmen zur Förderung des Wohnungstausches
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen
+- TOP 6.2.: Antwortschreiben: Bedarfserhebung von Kinderbetreuungsplätzen
+- TOP 6.3.: Antwortschreiben zu BA-Antrag Nr. 08-14 / B 02588; Errichtung einer Reformschule
+- TOP 6.4.: Einladung zur Vorstellung des Projekts "Wegbegleiter" im Sozialbürgerhaus Laim/Schwanthalerhöhe
+- TOP 6.5.: BA-Sondersitzung am 15.11.2011 zum Thema: "Ganztagesbildung in der Schwanthalerhöhe - die Zeit ist reif!"
+- TOP 6.6.: Baukostenzuschuss für die Kindertagesstätte an der Schrenkstraße 2
+- TOP 6.7.: Antwort zu BA-Antrag Nr. 08-14 / B 02253; Mittagstisch für alle Altersstufen an der Hauptschule und der Carl-von-Linde Realschule an der Ridlerstraße
+- TOP 6.8.: Ankündigung der Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 08.12.2011
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Beschluss des Kulturausschusses vom 03.03.2011: Erinnerungsorte München / NS Geschichte
+- TOP 7.2.: Verbleib der Skulpturen "Kraft" und "Phantasie" an ihren bisherigen Standorten
+- TOP 7.3.: Antwort zu BV-Empfehlung Nr. 08-14 / E 01000; Fahrbibliothek für Schulen im 8. Stadtbezirk
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Einrichtung einer neuen Bushaltestelle "Bergmannstraße" für die MVG Metrobusline 53, Frist 16.09.2011
+- TOP 8.4.: U-Bahn-Linie 4 bis Westendstraße
+- TOP 8.5.: Baumaßnahmen der SWM: Stromprojekt Ridlerstraße / Garmischer Straße
+- TOP 8.6.: Dezentrales Güterverkehrskonzept (GVZ-Konzept) BA-Antrag Nr. 08-14 / B 02897
+- TOP 8.7.: Schaffung einer Anfahrtszone vor der Kinderkrippe Schrenkstraße 2
+- TOP 8.8.: Öffentliche WC-Anlagen-Strategiekonzept
+- TOP 8.9.: Christbaumsammlung - weitere haushaltsnahe Sammelplätze
+- TOP 8.10.: Unterrichtung über das Fällen von Gefahrenbäumen am Bavariapark
+- TOP 8.11.: Antwortschreiben: Radfahrer auf der Ganghofer Brücke und Hundekot am Sinti-Roma-Platz
+- TOP 8.12.: Anhörung: Einrichtung eines Behindertenparkplatzes in der Ridlerstraße 55
+- TOP 8.13.: Bauvorhaben der Stadtwerke München
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Pusteblume e.V. Verlegung eines Korkbodens
+- TOP 9.2.: (E) Budget der Bezirksausschüsse Städt. Integrationskindergarten Guldeinstraße 10-Jahres-Feier am 15.07.2011
+- TOP 10: Anträge
+- TOP 10.1.: Neubau des Multikulturellen Jugendzentrums (MKJZ) in der Westendstraße 66a
+- TOP 10.2.: Zukunft einer "Sozialregion Westend-/Schrenk-/Landsberger-/Fäustle-/Holzapfelstraße"
+- TOP 11: Verschiedenes
+- TOP 11.1.: Teilnahme am Europäischen Tag des Nachbarn, Frist 01.10.2011
+- TOP 11.2.: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS-Internet
+- TOP 11.3.: Termin für die Bürgerversammlung 2011
+- TOP 11.4.: Protokoll des 11. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse
+- TOP 11.5.: Verbesserte Bürgerbeteiligung
+- TOP 12: Protokoll und Umlauf
