@@ -1,0 +1,110 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2195408
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2195408
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Spiegel an Hof- und TG-Ausfahrt Watzmannstraße 3-5 (Westseite); Bürgerantrag vom 16.08.11
+- TOP 2.2.: Situation vor dem Anwesen Schwanseestr. 2 - 4 und Giesinger Bahnhofplatz 3 und 4; Bürgerschreiben vom 17.08.11
+- TOP 2.3.: 1. Wirtstraße - Einrichtung von Schrägparkplätzen 2. Verlegung der Endstation der Buslinie 58 von der Silberhornstraße zum Wettersteinplatz 3. Beleuchtung des Parks an der Ecke Bergstraße / Wirtstraße
+- TOP 2.4.: Baumpflanzungen im Grünstreifen an der Aignerstraße; Bürgerantrag vom 29.08.11
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Brücke über den Giesinger Berg für Fußgänger und Radfahrer; Antrag der Fraktion Bündnis `90 / Die Grünen - <div>nach Antrag</div>
+- TOP 3.2.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps; Antrag des BA 15 vom 02.02.10 u. 05.11.10 sowie Antwortschreiben der Verwaltung mit der Bitte um Kenntnisnahme u. ggf. Weiterbehandlung
+- TOP 3.3.: Bauvorhaben im geförderten Wohnungsbau /KomPro-Häuser; Antrag des BA 21 vom 05.07.11 mit der Bitte um Kenntnisnahme
+- TOP 3.4.: Maßnahmen zur Förderung des Wohnungstausches; Antrag des BA 9 vom 16.08.11 mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse ARGE St.-Quirin-Fest München-Giesing St.-Quirin-Fest am 07.07.2011
+- TOP 4.2.: (E) Budget der Bezirksausschüsse Münchner Kindersportförderung e.V. Winterspielsaal von Oktober 2011 bis März 2012
+- TOP 4.3.: (E) Budget der Bezirksausschüsse Münchner Kindersportförderung e.V. Kinderfußball vom 07.09.11 - 31.07.2012 in der Grundschule Ichostraße
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Vollzug des Bayerischen Straßen- u. Wegegesetzes im Stadtbezirk 17 Obergiesing-Fasangarten; Widmung der Gesamtstrecke der Wallbergstraße; Sitzungsvorlage Nr. 08-14 / V 07353; Beschluss des BA 17 vom 13.09.2011
+- TOP 0.1.: Verfahren nach § 4 Abs. 1 BauGB, Gemeinde Unterhaching, Bebauungsplan Nr. 157/2010; Zuleitung des Referats für Stadtplanung u. Bauordnung mit der Bitte um Stellungnahme bis 26.09.11
+- TOP 0.2.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung; BA-Antrags-Nr. 08-14 / B 03040 des BA 1 vom 12.04.11; Az.: HA II / BA 0262.4-1-0019; Schreiben des Direktoriums vom 26.07.11 mit der Bitte um Stellungnahme
+- TOP 0.3.: Mc-Graw-Kaserne / ehem. Reichszeugmeisterei bzw. "University of Maryland": Fassadenrenovierung und stadtteilbezogene Nutzung; Empfehlung Nr. 08-14 / E 00928 der BÜV des 18. Stadtbezirks vom 28.10.10; Zuleitung des Referats für Stadtplanung u. Bauordnung vom 08.08.11 mit der Bitte um Stellungnahme zum Entwurf der Beschlussvorlage bis 19.09.11
+- TOP 0.4.: Verkauf einer städtischen Immobilie; hier: Schwanseestraße, Sektion VIII, Flst. 15832/13; Anhörung der Bezirksausschüsse gem. § 13 der BA-Satzung; Zuleitung des Kommunalreferats vom 11.08.11 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.5.: 5.1.3.5 Anhörungen zu Bauvorhaben 5.1.3.5.1 Raintaler Str. 43; Schaffung von Fluchtweg und Mülltonnen-Bereich (Raintaler Str. 43 / Wirtstr. 32+34); Anhörung vom 24.08.11 5.1.3.5.2 Tegernseer Landstr. 36; Umbau u. Modernisierung eines Gebäudes, Teilausbau des 2. DGs; Einbau von Dachgauben u. eines Aufzugs sowie Erneuerung der Balkone; Anhörung vom 24.08.11
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.2.1 SSW "Café Melodie", Perlacher Straße; Mitteilung vom 11.08.11 5.1.4.2.2 SSW "SEVERIN's", St.-Martins-Platz; Mitteilung vom 06.07.11 5.1.4.2.3 Kleingaststätte "Schwansee-Lounge", Schwanseestraße; Mitteilung vom 01.08.11 5.1.4.2.4 SSW "Volltreffer", Zugspitzstraße; Mitteilung vom 01.08.11 5.1.4.2.5 Kleingaststätte "Bacchus-Stüberl", Tegernseer Landstraße; Mitteilung vom 08.08.11
+- TOP 0.3.: Mitteilung des Kommunalreferats vom 06.07.11 über ein Grundstücksgeschäft; Verkauf Giesinger Bahnhofplatz (Flst. 15883 - Tlfl. - Sektion VIII)
+- TOP 0.4.: Mitteilung des Kommunalreferats vom 02.08.11 über ein Grundstücksgeschäft; Kauf von Flächen Franz-Eigl-Weg 6-20 / Untersbergstraße 91 (Flst. 16138, 16133 - Sektion VIII)
+- TOP 0.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 5.1.4.5.1 Anwesen Bayerischzeller Straße; Mitteilung des Sozialreferats vom 25.07.11 5.1.4.5.2 Anwesen Landlstraße (2 WE); Mitteilung des Sozialreferats vom 25.07.11
+- TOP 0.6.: Öffentliche WC-Anlagen - Strategiekonzept; Sitzungsvorlage Nr. 08-14 / V 07100; Beschluss der Vollversammlung des Stadtrates vom 27.07.11
+- TOP 0.7.: "Erwerbstätigenprognose für die LHM und die Landkreise der Planungsregion 14"; Sitzungsvorlagen Nr. 08-14 / V 07507; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 28.09.11
+- TOP 0.8.: Spixstraße, Fl.Nr. 16050/16, Gemarkung Sektion VIII, Neubau Bürogebäude, Nahversorger und Tiefgarage; Az.: 602-1.1-2011-10386-33; Stellungnahme des BA 17 vom 26.07.11; Baugenehmigung vom 30.09.11
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Mediation zur Klärung der unterschiedlichen Wahrnehmungen der Hundeproblematik am Walchenseeplatz; Anliegen aus der Bürgerversammlung vom 07.07.2011; vertagt aus der Sitzung vom 12.07.2011 mit der Maßgabe der grundsätzlichen Vorstellung von Mediationsverfahren
+- TOP 0.1.: Beauftragte für Bürgerschaftliches Engagement (BE) in den Sozialbürgerhäusern; Information des Sozialreferats vom 19.07.11
+- TOP 0.2.: Vollzug des BayKiBiG; Bescheid des Referats für Bildung u. Sport über die Anerkennung von Plätzen im Waldkindergarten am Perlacher Forst
+- TOP 0.3.: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen; Errichtung eines Hauses für Kinder (Kooperationseinrichtung) mit 4 Kinderkrippen- u. 2 Kindergartengruppen an der Münchberger Str. im 17. Stadtbezirk; Verwaltungsinterne Erteilung des Projektauftrags u. der Projektgenehmigung; Vorlage des Baureferats
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Untersbergstraße; Ausbauzustand und Parkraumproblematik im Umgriff; Bürgeranliegen vom 14.07.2011; vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011
+- TOP 0.2.: Konzept Europäische Schule München; Bürgeranliegen (E-Mail) vom 02.08.11; Ziffern 2 und 3, vertagt aus der Sitzung des Ferienausschusses vom 09.08.2011
+- TOP 0.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Watzmannstraße 22; Anhörung des KVR vom 16.08.11 mit der Bitte um Stellungnahme bis 30.09.11
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste; Sitzungsvorlagen Nr. 08-14 / V 07250; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 13.07.11 (VB)
+- TOP 0.2.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.2.1 Anwesen Untere Grasstraße 6; Unterrichtung vom 19.07.11 5.4.4.2.2 Anwesen Wirtstraße 1; Unterrichtung vom 19.07.11 5.4.4.2.3 Anwesen Winlandstraße 15; Unterrichtung vom 18.08.11 5.4.4.2.4 Anwesen Eintrachtstraße 2; Unterrichtung vom 18.08.11
+- TOP 0.3.: Forstarbeiten im geschützten Landschaftsbestandteil im Fasangarten; Einwirkung auf die Bayerischen Staatsforsten - Forstbetrieb München - zur sofortigen Einstellung der Arbeiten und Klärung verschiedener Fragestellungen; BA-Antrag-Nr. 08-14 / B 02900 des BA 17 vom 12.04.11; Antwortschreiben der Unteren Naturschutzbehörde vom 05.07.2011
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Teilnahme am Europäischen Tag des Nachbarn; Empfehlung Nr. 08-14 / E 00963 der BÜV im 2. Stadtbezirk vom 19.05.11; Antrag des Seniorenbeirats vom 20.07.11; Schreiben des Sozialreferats vom 10.08.11 mit der Bitte um Rückmeldung der Bezirksausschüsse bis 01.10.11
+- TOP 0.1.: Errichtung eines Mahnmals im Umgriff des (ehem.) "Agfa-Geländes" (Bebauungsplan Nr. 1979) auf dem "Baumplatz" der Straße U-1634, Antwortschreiben des Kulturreferats vom 20.06.2011 zum Antrag vom 08.02.2011 (TOP 7.3 vom 09.08.2011)
+- TOP 0.2.: Erinnerungsorte München / NS-Geschichte; Beschluss des Kulturausschusses vom 03.03.2011; Schreiben des Kulturreferats vom 03.08.11
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Rottacher Straße 2 - 8, Rißbachstraße; 1 Mehlbeere, Antrag vom 25.07.2011 6.7.1.2 Cincinnatistraße 1 - 29, 1 Birke, 1 Eiche, Antrag vom 11.08.2011 6.7.1.3 Wikingerstraße 1 - 29, 6 Eichen, 2 Robinien, 1 Kirsche, Antrag vom 11.08.2011 6.7.1.4 Cincinnatistraße 31 - 35 (Leifstraße), 1 Eiche, Antrag vom 11.08.2011 sowie Nachtrag vom 18.08.2011 6.7.1.5 Pennstraße 1 - 47 (Cincinnatistraße), 2 Eichen, Antrag vom 11.08.2011 6.7.1.6 Untersbergstraße 25, 1 Kirsche, Antrag vom 12.08.2011
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.1.: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS - Internet; BA-Antrag-Nr. 08-14 / B 01378 des BA 15 vom 30.07.09; BA-Antrag-Nr. 08-14 / B 01440 des BA 22 vin 19.08.09; Schreiben des Direktoriums vom 04.07.11 mit der Bitte um Entscheidung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Verbesserte Bürgerbeteiligung III - Information über stadtteilbezogene Themen optimieren; Antrag der CSU-Stadtratsfraktion vom 22.08.11; Zuleitung des Direktoriumsvom 29.08.11 mit der bitte um Stellungnahme bis 16.09.11
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
