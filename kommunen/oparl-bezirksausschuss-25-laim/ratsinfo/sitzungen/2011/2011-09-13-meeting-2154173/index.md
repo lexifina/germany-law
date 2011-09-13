@@ -1,0 +1,92 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-09-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154173
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154173
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Dauerbelegung der Parkplätze in der Hans-Thonauer-Straße durch ganzjähriges Abstellen von Wohnmobilen, Wohnmobilanhängern und sonstigen Anhängern
+- TOP 1.2.2.: Hechenwangerweg / Käthe-Bauer-Weg
+- TOP 1.2.3.: Willibaldplatz
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Sanierung der Klassenzimmer in der Fürstenrieder Schule
+- TOP 2.2.: SPD: Vorantreiben der Planungen für den Bau der Umweltverbundröhre, ggf. Bau und Zwischenfinanzierung durch die LH München
+- TOP 2.3.: UA Kultur: Aufstellung von Hundeverbotsschilder auf dem Laimer Anger
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Fürstenrieder Str. 14
+- TOP 3.2.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (mobiler Fahrradständer) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Reutterstr. 42 (Vertagung aus der BA-Sitzung vom 09.08.11)
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 2.820 Euro für Adventdult am 03. / 04.12.11; Antragsteller: Laimer Maibaumfreunde e.V. (Vertagung aus der BA-Sitzung vom 09.08.11) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 05.08.11: Festival der Marionetten auf dem Laimer Anger vom 25.10. - 31.10.11
+- TOP 4.2.: Schreiben Sozialreferat vom 10.08.11: Teilnahme am Europäischen Tag des Nachbarn
+- TOP 4.3.: Schreiben KVR vom 19.08.11: Bauernmarkt Agnes-Bernauer-Straße
+- TOP 4.4.: Schreiben Direktorium vom 04.07.11: Veröffentlichung von Protokollen der öffentlichen BA-Sitzungen im RIS-Internet (Vertagung aus der BA-Sitzung vom 09.08.11)
+- TOP 4.5.: Schreiben Direktorium vom 29.08.11: Antrag "Verbesserte Bürgerbeteiligung III - Information über stadtteilbezogene Themen optimieren"
+- TOP 4.6.: Antrag auf Baumfällung; Kirchmairstr. 20
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fachnerstr. 15: Errichtung eines Dreifamilienhauses mit Doppelparker-Garage; hier: Baupläne
+- TOP 5.2.: Valpichlerstr. 92-94: Ausbau von Dachgeschossen in Wohnungen sowie Errichtung von 17 Kfz-Stellplätzen; hier: Baupläne
+- TOP 5.3.: Helmpertstr. 7: Neubau einer neuapostolischen Kirche / Tektur; hier: Baupläne
+- TOP 5.4.: Landsberger Str. 214: Neubau eines gewerblich genutzten Gebäudes mit Freizeit- und Vergnügungsstätten (4 Spielotheken und 4 Spielhallen) sowie 44 Stellplätze; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 17.08.11: Oktoberfest 2011; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse; Termin für den BA 25 am Samstag, 24.09.11, ab 16.00 Uhr
+- TOP 6.2.: Schreiben Sozialreferat vom 17.08.11: Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 08.12.11
+- TOP 6.3.: Schreiben Sozialbürgerhaus Laim / Schwanthalerhöhe vom 01.08.11: Einladung zum 10jährigen Jubiläum des Sozialbürgerhauses am 27.09.11
+- TOP 6.4.: Terminplanung 2012
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 27.06.11
+- TOP 7.2.: BA-Sitzung vom 09.08.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 02.08.11: Moratorium für die Genehmigung von Spielhallen
+- TOP 8.2.: Schreiben Referat für Bildung und Sport vom 18.07.11: Städtisches Grundstück an der Agnes-Bernauer-Straße, Flst. 47, Gemarkung Laim (Schreiben BA vom 22.06.11)
+- TOP 8.3.: Schreiben Referat für Bildung und Sport vom 11.08.11: Kinderbetreuungsplätze in Laim (Antrag Nr. 08-14 / B 03075 vom 07.06.11)
+- TOP 8.4.: Schreiben Referat für Bildung und Sport vom 24.08.11: Einhausung des geplanten Treppenzugangs des Containerbaus der Camerloher Kindertagesstätte, Camerloherstr. 108 (Antrag Nr. 08-14 / B 03155 vom 05.07.11)
+- TOP 8.5.: Schreiben KVR vom 21.07.11: Überprüfung der Ampelschaltung in der Zschokkestraße ab 19.00 Uhr (Antrag Nr. 08-14 / B 03077 vom 07.06.11)
+- TOP 8.6.: Schreiben KVR vom 27.07.11: Gaststätte "Huiras", Camerloherstr. 67; unveränderte Fortführung
+- TOP 8.7.: Schreiben KVR vom 09.08.11: Geschwindigkeitskontrollen in der Rushaimerstraße (Schreiben BA vom 22.06.11)
+- TOP 8.8.: Schreiben KVR vom 22.08.11: Dreharbeiten Agricolastr. 16 mit Intervallsperre am 25.08.11
+- TOP 8.9.: Schreiben KVR vom 22.08.11: Aufstellung eines zusätzlichen "Zone 30" - Schildes in der Lutzstraße (Nordseite) (Antrag Nr. 08-14 / B 03154 vom 05.07.11)
+- TOP 8.10.: Schreiben KVR vom 29.08.11: Arbeiten im Straßenraum; Fürstenrieder Straße zwischen Camerloherstraße und BAB 96 (Fahrtrichtung Süden), Fahrbahnsanierung
+- TOP 8.11.: Schreiben Baureferat vom 26.07.11: Anbringung eines Lärmminderungsbelages im Bereich des Streetballkorbes auf dem Joergplatz (Antrag Nr. 08-14 / B 03078 vom 07.06.11)
+- TOP 8.12.: Schreiben Baureferat vom 26.07.11: Anfrage Altkleidercontainer Straubinger Straße / Zschokkestraße (Schreiben BA vom 21.07.11)
+- TOP 8.13.: Schreiben Baureferat vom 28.07.11: Geh- / Radwegbrücken am Pronnerplatz und in Höhe der Sandrartstraße über die Gleisanlagen (Schreiben BA vom 22.06.11)
+- TOP 8.14.: Schreiben Baureferat vom 12.08.11: Bürgerbeschwerde bzgl. Verschmutzung im Bereich Siglstraße / Pfarrer-Endres-Weg (Schreiben BA vom 18.07.11)
+- TOP 8.15.: Schreiben Referat für Gesundheit und Umwelt vom 28.07.11: Vertragliche Sicherung der Mobilfunksendeanlagen an verschiedenen Standorten
+- TOP 8.16.: Schreiben Referat für Gesundheit und Umwelt vom 03.08.11: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchv); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchv); Pronnerplatz / Landsberger Straße / Stöberlstraße / Von-der-Pfordten-Straße
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 16.08.11: Erweiterungsvorhaben an Telekom-Mobilfunkstandorten mit LTE
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 24.08.11: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV; Agnes-Bernauer-Straße 117-155
+- TOP 8.19.: Schreiben Direktorium vom 10.08.11: Zuwendung aus dem Budget des BA 25; Antrag Faschingsclub Laim e.V. vom 12.11.10 für Faschingstreiben 2011
+- TOP 8.20.: Schreiben Direktorium vom 11.08.11: Zuwendung aus dem Budget des BA 25; Antrag Förderverein der Camerloher Grundschule in München-Laim e.V. vom 11.12.10 für Gewaltpräventionsprojekt am 21.03.11
+- TOP 8.21.: Schreiben Direktorium vom 25.08.11: Verwendungsnachweis über Budgetzuschuss; Atnragsteller: Elternbeirat Grundschule an der Droste-Hülshoff-Straße
+- TOP 8.22.: Schreiben Referat für Arbeit und Wirtschaft vom 02.08.11: Ergebnisse "Stadtteilcheck "Auf Herz und Rampen prüfen" (Schreiben BA vom 21.07.11)
+- TOP 8.23.: Schreiben Referat für Arbeit und Wirtschaft vom 04.08.11: Gewerbehof Laim
+- TOP 8.24.: Schreiben Referat für Arbeit und Wirtschaft vom 29.07.11: Wirtschafts-Info 07/2011
+- TOP 8.25.: Schreiben Referat für Arbeit und Wirtschaft vom 12.08.11: Europe Direct Informationen 05/2011
+- TOP 8.26.: Schreiben Kommunalreferat vom 04.08.11: Sanierung der Wohnanlage "Thomas-Wimmer-Haus", Burgkmairstraße (Antrag Nr. 08-14 / B 02820 vom 01.03.11 bzw. Schreiben BA vom 22.06.11)
+- TOP 8.27.: Schreiben Planungsreferat vom 09.08.11: Fürstenrieder Str. 51; Neubau eines Büro- und Geschäftshauses mit Pkw-Garage (46 Stpl.) / Tektur
+- TOP 8.28.: Schreiben Planungsreferat vom 11.08.11: Weichselbaumerstr. 3; Neubau eines Zweifamilienhauses mit zwei Garagen
+- TOP 8.29.: Schreiben Planungsreferat vom 16.08.11: Landsberger Str. 240; Neubau eines Autohauses mit Showroom, Werkstätten und TG / Vorbescheid
+- TOP 8.30.: Schreiben Planungsreferat vom 25.08.11: Helmpertstr. 7; Neubau einer neuapostolischen Kirche / Tektur
+- TOP 8.31.: Bautenliste vom 01.08.-07.08.11: 1. Erstantragsverfahren a) Camerloherstr. 67 b) Ossietzkystr. 12 c) Reutterstr. 68 d) Landsberger Str. 214 e) Camerloherstr. 67 f) Valpichlerstr. 84 g) Valpichlerstr. 92 h) Fachnerstr. 15 i) Aindorferstr. 175 2. Änderungsverfahren a) Helmperstr. 7 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Camerloherstr. 67
+- TOP 8.32.: Bautenliste vom 08.08.-14.08.11 1. Erstantragsverfahren a) Von-der-Pfordten-Str. 1 b) Aindorferstr. 79 c) Landsberger Str. 306
+- TOP 8.33.: Bautenliste vom 22.08.-29.08.11 1. Erstantragsverfahren a) Hartelstr. 26 b) Haslangstr. 27 c) Perhamerstr. 45
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 01.08.11: Baumaßnahmen der Stadtwerke; Stichtag: 01.08.11
+- TOP 8.35.: Schreiben Stadtwerke München GmbH vom 08.08.11: Baumaßnahmen der Stadtwerke; Stichtag: 08.08.11
+- TOP 8.36.: Schreiben Stadtwerke München GmbH vom 16.08.11: Baumaßnahmen der Stadtwerke; Stichtag: 16.08.11
+- TOP 8.37.: Schreiben Stadtwerke München GmbH vom 22.08.11: Baumaßnahmen der Stadtwerke; Stichtag: 22.08.11
+- TOP 8.38.: Schreiben Stadtwerke München GmbH vom 29.08.11: Baumaßnahmen der Stadtwerke; Stichtag: 29.08.11
+- TOP 8.39.: Schreiben Gleichstellungsstelle für Frauen vom 25.07.11: Protokoll des 11. Treffen der Gleichstellungsbeauftragten der BAs am 21.07.11; Einladung zum nächsten Treffen am 20.10.11
+- TOP 8.40.: Beschluss der Vollversammlung vom 27.07.11: Projekt Hauptbahnhof - Laim - Pasing; Entwicklung Teilbereich Paul-Gerhardt-Allee (Sitzungsvorlagen Nr. 08-14 / V 07208)
+- TOP 8.41.: Beschluss der Vollversammlung vom 27.07.11: Öffentliche WC-Anlagen - Strategiekonzept (Sitzungsvorlagen Nr. 08-14 / V 07100)
+- TOP 8.42.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: "Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14", Untersuchung empirica AG (Sitzungsvorlagen Nr. 08-14 / V 07507)
+- TOP 8.43.: Antrag BA 9 Neuhausen-Nymphenburg vom 16.08.11: Förderung von Maßnahmen des Wohnungstausches
+- TOP 8.44.: Schriftverkehr aus der BA-Sitzung vom 09.08.11
+- TOP 1.2: Bürgerpost an den BA
