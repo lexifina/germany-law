@@ -1,0 +1,129 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2011-09-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154376
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154376
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Vorstellung des Planungsreferates zum Planungsstand Spatzenwinkel, Bbpl. 2034
+- TOP 1.1.6: Status der Bezirkssportanlage Aubing mit Vertretern des Sportamts
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Verlängerung der Parkdauer bei den Kurzzeitparkplätzen in der Ranertstraße
+- TOP 2.2.: Straßenbeleuchtung Lochhausen
+- TOP 2.3.: Lichtzeichenanlage an der Hans-Steinkohl-Straße / Clarita-Bernhard-Straße
+- TOP 2.4.: Parkmöglichkeit für Krafträder und Roller
+- TOP 2.5.: Lärmbelästigung durch Lkw-Verkehr Bergsonstraße im Bereich der Richtungsänderung der Straße
+- TOP 2.6.: Abstellen von Containern, Lkw-Anhängern etc. an der Lochhausener Str.
+- TOP 2.7.: Erschließung Baugebiet an der Schussenrieder Straße - Abweichung vom Bebauungsplan Nr. 1703 bei der Erstellung der Freianlagen
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Ablehnungsbescheid Wüstensteiner Str. 3, Schr. Planungsreferat vom 22.07.11
+- TOP 3.2.: Baumfällungen auf Anforderung: - Heckenhofer Str. 3 - Sulzemooser Str. 16 - Bodenseestr. 111 - Aubinger Str. 175 - Hellensteinstr. 18 - An der Langwieder Haide 51 - Rohrsängerplatz 21
+- TOP 3.3.: Baumfällungen bei Bauvorhaben: - Altostr. 18 gem. Baumbestandsplan Nr. 2011-16611 - Marzellgasse 1 gem. Baumbestandsplan Nr. 2011-12537 - Rohrsängerplatz 13 gem. Baumbestandsplan Nr. 2011-18081 - Hellensteinstr. gem. Baumbestandsplan Nrn.2011-18310 und 2011-18316 - Langwieder Hauptstr. 10, Baumbestandsplan Nr. 2011-19825 - Kravogelstr. 29, Baumbestandsplan Nr. 2011-18749
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Maßnahmen zum Erhalt des Ensemblestatus Dorfkern Aubing
+- TOP 4.2.: Prüfung der Nutzung des Grundstückes Georg-Böhmer-Str. 1
+- TOP 4.3.: Umgestaltung des Kinderspielplatzes an der Kastelburgstraße (neben Kirchenzentrum an der Kastelburgstr. 90)
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse: SV Aubing e.V. - Fußballturnier für Integrationsmannschaften am 18.09.2011
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters: Genehmigung einer Freischankfläche in der Limesstr. 112
+- TOP 5.3.: Vollz. d. Bay. Straßen- und Wegegesetzes, Widmung einer Teilstrecke des Schubinweges
+- TOP 5.4.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied Widmung einer Teilstrecke der Thuisbrunner Straße
+- TOP 5.5.: (E) Straßenbenennung im 22. Stadtbezirk Aubing-Lochhausen-Langwied Langenburgstraße
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Teilnahme am Europäischen Tag des Nachbarn, Anhörung Sozialreferat vom 10.08.11
+- TOP 6.3.: Beauftragte für Bürgerschaftliches Engagement in den Sozialbürgerhäusern, Schr. Sozialreferat vom 19.07.11
+- TOP 6.4.: Veranstaltungen/Kooperationen August 2011, Schr. Kulturreferat vom 01.08.11
+- TOP 6.5.: Fotoaufnahmen auf öffentlichen Verkehrsgrund am 17.08.11: Bergsonstraße (Südostseite), unmittelbar nördlich der S-Bahnbrücke der Haltestelle "Langwied", Schr. KVR vom 16.08.11
+- TOP 6.6.: Erlaubnisbescheid: Festzug und Standkonzert zum Aubinger Herbstfest am 08.09.11, Schr. KVR vom 30.08.11
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Bewilligungsbescheid für Zuschuss aus dem Budget des BA, Antragsteller: Lochhausener Singkreis, Schr. Direktorium vom 13.07.11
+- TOP 6.2.: Budgetmittel des BA 22 für Elternbeirat der Hauptschule Wiesentfelser Str. 53, Schr. Direktorium vom 25.08.11
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Nutzung der Fl.St. 3508/13 an der Bodenseestraße / Anton-Böck-Straße als Zirkusstandplatz vom 31.10.-27.11.11, Anhörung Kommunalreferat vom 04.08.11
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Entwurf einer Satzung der LH München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS), Anhörung Planungsreferat vom 15.07.11 (vertagt aus Sitzung 07/11)
+- TOP 6.2.: Gemeinde Gräfelfing, Bebauungsplan Nr. 30 für das Gebiet "Bäckerfachschule", Anhörung Planungsreferat vom 26.07.11
+- TOP 6.3.: Marzellgasse 1 - Änderung einer Gaststätte mit Errichtung einer Tiefgarage, Anhörung Planungsreferat vom 02.08.11
+- TOP 6.4.: Errichtung von Informationsschaukästen in der Gemarkung Aubing, Anhörung Kommunalreferat vom 18.08.11
+- TOP 6.5.: Rohrsängerplatz 13, Neubau eines Quattrohauses (4 WE) mit 2 Duplexgaragen, Anhörung Planungsreferat vom 02.08.11 - Eilentscheidung durch BA-Vorsitzenden
+- TOP 6.6.: Ubostr. 48, DG-Ausbau, Anhörung Planungsreferat vom 02.08.11 - Eilentscheidung durch BA-Vorsitzenden
+- TOP 6.7.: Altostr. 35-37, Einbau von Dachgauben (Altostr. 35) sowie DG-Ausbau (Altostr. 37), Anhörung Planungsreferat vom 02.08.11 - Eilentscheidung durch BA-Vorsitzenden
+- TOP 6.8.: Zwernitzer Str. 26 a, Neubau eines Mehrfamilienhauses, Anhörung Planungsreferat vom 02.08.11 - Eilentscheidung durch BA-Vorsitzenden
+- TOP 6.9.: Birkenrieder Str. 2, Nutzungsänderung: Einbau zweier Wohnungen in ein landwirtschaftliches Gebäude - Vorbescheid, Anhörung Planungsreferat vom 02.08.11 - Eilentscheidung durch BA-Vorsitzenden
+- TOP 6.10.: Franz-Josef-Delonge-Str. 3, Errichtung einer Photovoltaik-Anlage auf dem Dach eines Werkstattgebäudes, Anhörung Planungsreferat vom 02.08.11
+- TOP 6.11.: Lochhausener Str. 250, Neubau einer 4-gruppigen Kinderkrippe, Anhörung Planungsreferat vom 09.08.11 - Eilentscheidung durch BA-Vorsitzenden
+- TOP 6.12.: Erinnerungsverfahren: Leienfelsstr. 18 und Hs.Nr. 29-35, Zufahrt neu - Bauschaden und Fahrbahnsanierung, Anhörung Baureferat vom 24.08.11
+- TOP 6.13.: Erhalt Bahnübergang Freihamer Allee (Ziffer 2 des Antrages)
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 18.07.-24.07.11, v. 25.07.-31.07.11, v. 01.08.-07.08.11, v. 08.08.-14.08.11, v. 15.08.-21.08.11, v. 22.08.-29.08.11), Schr. Planungsreferat vom 26.07.11, 02.08.11, 08.08.11, 16.08.11, 22.08.11, 29.08.11
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag:25.07.11, 01.08.11, 08.08.11, 16.08.11, 22.08.11, 29.08.11
+- TOP 6.3.: Verunreinigung der Büsche im Bereich der Wertstoffinsel in der Hornberger Straße, Schr. Baureferat vom 21.07.11
+- TOP 6.26.: Verlagerung der Bahnstromtrasse über die Freihamer Allee an die Bahngleise und Befreiung der Grundstücke östlich und westlich des Nordteils der Freihamer Allee von den bisherigen Bahnstrommasten, Schr. Planungsreferat vom 25.08.11
+- TOP 6.5.: Weißensteinstr. 2, Neubau 3er Reihenhäuser und eines Doppelhauses mit Garagen, Schr. Planungsreferat vom 18.07.11
+- TOP 6.6.: Hoflacher Str. 2 a, Neubau zweier Doppelhäuser mit Garagen, Schr. Planungsreferat vom 19.07.11
+- TOP 6.7.: Baugenehmigung Huislerstraße, Fl.Nr. 2232/10, Neubau eines Wohnhauses (2 WE) mit Duplexgarage, Schr. Planungsreferat vom 16.06.11
+- TOP 6.8.: Baugenehmigung Bodenseestr. 222, Nutzungsänderung: Fitness-Center zu Spielhalle und Büro, Schr. Planungsreferat vom 04.02.11
+- TOP 6.9.: Baumaßnahmen der SWM: - Erdgasprojekt Limesstraße, Schr. SWM vom 25.07.11 - Stromprojekt Freihamer Weg, Schr. SWM vom 10.08.11
+- TOP 6.10.: Bebauungsplan mit Grünordnung Nr. 2017 a, Bauernbräuweg (südlich), Bahnlinie München-Lenggries (westlich), Zielstattstraße (nördlich), Ausgleichsflächen, Schr. Planungsreferat vom 29.07.11
+- TOP 6.11.: Straßensanierung, Lochhausener Straße Einmündung Sumpfmeisenweg, Schr. KVR vom 28.07.11
+- TOP 6.12.: Vollz. d. Grünanlagensatzung, Baustelleneinrichtung an der Ziegeleistraße (ggü. Federseestr. 4), Bescheid KVR vom 28.07.11
+- TOP 6.13.: Zebrastreifen in der Altostraße Höhe Sigererstraße, Schr. KVR vom 03.08.11
+- TOP 6.14.: Elektronische Anzeigen, Schr. Ref. f. Arbeit u. Wirtschaft vom 01.08.11
+- TOP 6.15.: Einzäunung von Grundstücken, Aubinger Str. 128 a, Schr. Planungsreferat vom 01.08.11
+- TOP 6.16.: Aufstellung eines Bebauungsplanes für die Nordseite der Bodenseestraße zwischen Mainau- und Limesstraße, Schr. Planungsreferat vom 08.08.11
+- TOP 6.17.: Fahrbahnsanierung: - Lochhausener Straße - Sanierung der Kreuzung Sumpfmeisenweg, Schr. Baureferat vom 08.09.11 - Radolfzeller Straße - Sanierung der Fahrbahn zwischen Aubinger Straße und Sipplinger Straße, Schr. Baureferat vom 11.08.11
+- TOP 6.19.: Verschmutzung der Wege auf dem Aubinger Autobahntunnel durch Hundekot, Schr. Baureferat vom 11.08.11
+- TOP 6.20.: Verkehrsaufkommen Freihamer Weg, Schr. Planungsreferat vom 12.08.11
+- TOP 6.21.: Begradigung der Brückenkurve zur Autobahn A 8 Eschenrieder Spange, Schr. Baureferat vom 10.08.11
+- TOP 6.22.: Planfeststellung nach § 18 AEG für das Vorhaben 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 2, Bereich Westseite Karlsplatz bis westliches Isarufer mit S-Bahnhof Marienplatz - Planänderung, Schr. Planungsreferat vom 01.08.11
+- TOP 6.23.: Zwernitzer Str. 28, Neubau von 2 Mehrfamilienhäusern mit TG, Schr. Planungsreferat vom 18.08.11
+- TOP 6.24.: Baubeginnsmeldung Kronwinklerstr. zwischen Bergson- und Kastelburgstraße, Schr. Baureferat vom 29.08.11
+- TOP 6.25.: Straßenbeleuchtung in der Eschenrieder Straße auf der Autobahnbrücke, Schr. Baureferat vom 22.08.11
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung, Anhörung Direktorium vom 26.07.11
+- TOP 7.2.: Verbesserte Bürgerbeteiligung III - Information über stadtteilbezogene Themen optimieren, Anhörung Direktorium vom 29.08.11
+- TOP 7.3.: Veranstaltung auf Privatgrund, hier: Aubinger Herbstfest vom 08.09.-11.09.11, Germeringer Weg - Festwiese - Belandwiese, Anhörung KVR vom 02.09.11 - Eilentscheidung durch den BA-Vorsitzenden
+- TOP 7.4.: Veranstaltung auf Privatgrund am 11.09.11 des Rumänischen Kirchenzentrums München, Kastelburgstr. 90, Liturgie der Grundsteinlegung einer neuen Kirche, Anhörung KVR vom 22.08.11 - Eilentscheidung durch den BA-Vorsitzenden
+- TOP 7.5.: Errichtung einer Wohngruppe für unbegleitete minderjährige Flüchtlinge in der Limesstr. 104, Anhörung Sozialreferat vom 05.09.11
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Im Stocket, Schr. Sozialreferat vom 20.07.11 - Neidensteiner Str., Schr. Sozialreferat vom 26.07.11 - Hoflacher Str., Schr. Sozialreferat vom 17.08.11 - Flunkgasse, Schr. Sozialreferat vom 29.08.11 - Görbelmoosstr., Schr. Sozialreferat vom 29.08.11
+- TOP 8.2.: Wirtschafts-Info 07/2011, Schr. Ref. f. Arbeit u. Wirtschaft vom 29.07.11
+- TOP 8.3.: Europe Direct Informationen 05/2011, Schreiben Referat für Arbeit und Wirtschaft vom 12.08.11
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: Anschluss an das Fernwärmenetz - Tarifkosten, Schr. SWM vom 22.08.11
+- TOP 9.2.: Öffnung der neugebauten Straße zwischen Kronwinkler und Bergsonstraße, Schr. Baureferat vom 02.09.11
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 29.06.11: Dezentrales Güterverkehrszentrenkonzept, Überprüfung und weitere Planung
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.11: Vollzug des Bundesnaturschutzgesetzes und des Bay. Naturschutzgesetzes; Novellierung der Naturdenkmalverordnung mit Naturdenkmalliste
+- TOP 10.3.: Beschluss der Vollversammlung vom 27.07.11: Dezentrales Güterverkehrszentrenkonzept, Überprüfung und weitere Planung
+- TOP 10.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: "Erwerbstätigenprognose für die LH München und die Landkreise der Planungsregion 14"
+- TOP 10.5.: Beschluss des Kulturausschusses vom 13.10.11: Sicherung des Standortes Ehrenbürgstraße 9 für Ateliers und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unter Denkmalschutz / Ensembleschutz stehende Anlage
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Bauvorhaben im geförderten Wohnungsbau /KomPro-Häuser, Antrag des BA 21 vom 05.07.11
+- TOP 11.2.: Stadtteilveranstaltungen im Jahr 2012 am 22.09.11, 18.00 Uhr, Kulturreferat, Burgstr. 4, Zimmer 240, Schr. Kulturreferat vom 22.07.11
+- TOP 11.3.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps, Schr. BA 15 vom 22.07.11
+- TOP 11.4.: Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 08.12.11, Schr. Sozialreferat vom 17.08.11
+- TOP 11.5.: Sitzungstermine des Bezirksausschusses für das Jahr 2012
+- TOP 11.6.: Maßnahmen zur Förderung des Wohungstausches, Antrag BA 9 vom 16.08.11
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 19.10.2011 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.18.: Dorfkernensemble - Entscheidung des Landesdenkmalrates, Schr. Planungsreferat vom 12.08.11
