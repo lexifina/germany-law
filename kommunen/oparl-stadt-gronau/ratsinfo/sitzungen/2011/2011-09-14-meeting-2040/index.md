@@ -1,0 +1,52 @@
+# Rat (22. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2011-09-14T18:00:00+02:00
+- Ende: 2011-09-14T21:08:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVxmtfLBHj1r3uTLrrlhA14
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2040
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZBFsXz9orA61L9A-evP9Q6zT1Nh35RFIKkDkGdd6tY/Bekanntmachung_Rat_14.09.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYP-shJ77XqqZk9B18--_BEcRkAuf9GernYGsAxiD7gp/Oeffentliche_Niederschrift_Rat_14.09.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Kulturpreis im Rahmen einer öffentlichen Veranstaltung verleihen; Karl-Heinz Hoffmann-Hansen, Gronau
+- TOP 2.2: Umbenennung der Agnes-Miegel-Straße von unzuständigem Ausschuss abgelehnt?; Karl-Heinz Hoffmann-Hansen, Gronau
+- TOP 3.: Niederschrift vom 20.07.2011
+- TOP 4.: Anträge der Fraktionen
+- TOP 4.1: Einrichtung eines Bürgerhaushaltes; Antrag der SPD-Fraktion vom 21.07.2011 - 17 Jastimmen, 21 Neinstimmen, 1 Enthaltungen
+- TOP 4.2: Internetauftritt der Stadt Gronau; Antrag der SPD-Fraktion vom 14.08.2011 - Einstimmig, 0 Enthaltungen
+- TOP 4.3: Prüfungsauftrag gem. § 4 Abs. 1 der Rechnungsprüfungsordnung der Stadt Gronau ; Antrag der FDP-Fraktion vom 02.09.2011 - Einstimmig, 0 Enthaltungen
+- TOP 4.4: Gutschein für Grundschulanfänger über einen Ausweis für die Stadtbücherei in Gronau und Epe ; Antrag der SPD-Fraktion vom 29.08.2011 - Einstimmig, 0 Enthaltungen
+- TOP 4.5: Besetzung von städtischen Ausschüssen und Gremien; Antrag der SPD-Fraktion vom 29.08.2011 - Einstimmig, 0 Enthaltungen
+- TOP 5.: Entwurf des Jahresabschlusses 2009 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Budgetbericht zum II. Quartal 2011 - Einstimmig, 0 Enthaltungen
+- TOP 7.: Bestellung von Vertreter(n)/innen in die Gesellschafterversammlungen der städtischen Gesellschaften - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss 2010 der Kulturbüro Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Behandlung des Jahresfehlbetrages - Einstimmig, 1 Enthaltungen
+- TOP 9.: Jahresabschluss 2010 der Kulturbüro Gronau GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss 2010 der Kulturbüro Gronau GmbH 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 11.: Jahresabschluss 2010 der rock´n popmuseum GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 1 Enthaltungen
+- TOP 12.: Jahresabschluss 2010 der rock´n popmuseum GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 13.: Jahresabschluss 2010 der rock´n popmuseum GmbH 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 14.: Jahresabschluss 2010 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) Feststellung des Jahresabschlussergebnisses Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 15.: Jahresabschluss 2010 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 16.: Jahresabschluss 2010 der Wirtschaftsförderungsgesellschaft der Stadt Gronau mbH (WTG GmbH) 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 17.: Terminplanung für das 4. Quartal 2011 sowie Ergänzungen im Übrigen - Ohne Abstimmung
+- TOP 18.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 19.: Mitteilungen der Verwaltung
+- TOP 19.1: Konsequenzen aus dem Urteil des Bundesverwaltungsgerichtes vom 31.03.2011 (2 C 12.09) für die Vergangenheit und die Zukunft - Ohne Abstimmung
+- TOP 20.: Anfragen
+- TOP 20.1: Anfragen für den Ausschuss Planen, Bauen und Denkmalschutz (RM Krause)
+- TOP 20.2: Hundebestandsaufnahme erfolgreich? (RM Pieper, RM Krause)
+- TOP 20.3: Freischneiden von Verkehrszeichen der Grünstiege (RM Gabbe)
+- TOP 20.4: Überprüfung des ruhenden Verkehrs an der Königstraße (RM Gabbe)
+- TOP 20.5: Zeitpunkt der Bürgerversammlung zur Zukunft des Inselparks (RM Buchholz)
+- TOP 20.6: Überprüfung des ruhenden Verkehrs im Umfeld des Kreisverkehrs Enscheder Straße/Buterlandstraße (RM von Borczyskowski)
+- TOP 20.7: Ausweisung von Parkbuchten auf der Losserstraße? (RM Adamsky)
