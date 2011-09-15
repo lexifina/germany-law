@@ -1,0 +1,70 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-09-15T17:00:00+02:00
+- Ende: 2011-09-15T19:10:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3583
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3583
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164272.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164272.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164272.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift vom 07.07.2011 - einstimmig beschlossen
+- TOP 3: Modernisierungsoffensive II - Maßnahmen an S-Bahnhöfen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Radweg Reisholzer Straße - zur Kenntnis genommen
+- TOP 6: Trödelmarkt im Stahlwerk, Ronsdorfer Straße 134, am Sonntag, dem 04.12.2011 - mehrheitlich beschlossen
+- TOP 7: Supermarkt - Bauvorhaben in Lierenfeld - beantwortet
+- TOP 8: Spielplätze im Stadtbezirk 8 - beantwortet
+- TOP 9: Polizeipräsenz im Stadtbezirk 8 - beantwortet
+- TOP 10: Anti - Tauben Maßnahmen Unterführung Gumbertstraße - beantwortet
+- TOP 11: Erziehungs- und Familienberatung - beantwortet
+- TOP 12: Ladezonen im Stadtbezirk 8 - beantwortet
+- TOP 13: Zuschussvergabe der Bezirksvertretung 8 - beantwortet
+- TOP 14: Bebauungsplan-Entwurf Nr. 5874/79 - Sodener Weg - beantwortet
+- TOP 15: Kinderspielplatz Bunzlauer Weg / Sandträgerweg - beantwortet
+- TOP 16: Öffnung der Strandbäder am Unterbacher See - beantwortet
+- TOP 17: Anleinpflicht für Hunde am Unterbacher See - beantwortet
+- TOP 18: Baumfällung am Denkmal Unterbach - beantwortet
+- TOP 19: Querungshilfe Eller Kamp / Reichenbacher Weg - einstimmig beschlossen
+- TOP 20: Anschlussverbindungen von Bussen aus Unterbach - einstimmig beschlossen
+- TOP 21: Sitzgruppe Gertrudisplatz - zurückgezogen
+- TOP 22: Bundeswehr im Schulunterricht - mehrheitlich abgelehnt
+- TOP 23: Gertrudisplatz - einstimmig beschlossen
+- TOP 24: Informationsveranstaltung 'Bürgerhaushalt für die Bezirksvertretung 8' - mehrheitlich abgelehnt
+- TOP 25: Nebengebäude Schloss Eller - einstimmig beschlossen
+- TOP 26: Musikpavillon Schlosspark Eller - zurückgezogen
+- TOP 27: Radverkehr Zwickauer Straße - einstimmig beschlossen
+- TOP 28: Sitzmöglichkeiten am Denkmal Unterbach - einstimmig beschlossen
+- TOP 29: Friedhof Eller - Diebstähle - einstimmig beschlossen
+- TOP 30: Grundstück Vennhauser Allee 250 - Gabionenwand Veenpark - zur Kenntnis genommen
+- TOP 31: Kinderspielplatz Gertrudisplatz - zur Kenntnis genommen
+- TOP 32: Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 33: Einmündung Deutzer Straße / A 46 - zur Kenntnis genommen
+- TOP 34: Containerstandort Reichenbacher Weg / Eller Kamp - zur Kenntnis genommen
+- TOP 35: Grundstück Eller Kamp / Bahngelände - Ecke Am Hackenbruch - zur Kenntnis genommen
+- TOP 36: Bolzplatz / Hundeauslaufplatz im Bereich Am Dammsteg - Schloss Eller - zur Kenntnis genommen
+- TOP 37: Fahrbahnmarkierungen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Information über Bauvorhaben im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Verkehrsentlastung Sturmstraße - zur Kenntnis genommen
+- TOP 40: Fahrbahnbelag Karl-Geusen-Straße - zur Kenntnis genommen
+- TOP 41: Öffentlicher Bücherschrank im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 42: Radroute zwischen Schlesische Straße und Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 43: Gehwegbeschilderung Sturmstraße - zur Kenntnis genommen
+- TOP 44: Gehweg Ellerkirchstraße 3 - 7 - zur Kenntnis genommen
+- TOP 45: LKW-Verkehr im Bereich Posener Straße - zur Kenntnis genommen
+- TOP 46: Behindertengerechter Umbau von Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Rheinbahn - Betriebshöfe - zur Kenntnis genommen
+- TOP 48: Buslinie 732 - zur Kenntnis genommen
+- TOP 49: Bushaltestelle In den Maisbanden - zur Kenntnis genommen
+- TOP 50: Grünfläche Fuß- / Radweg Karlsruher Straße - zur Kenntnis genommen
+- TOP 51: Verkehrsfläche Am Turnisch / Reisholzer Straße - Ausbau Haltestelle - zur Kenntnis genommen
+- TOP 52: Bahngleissicherung Festenbergstraße - S-Bahnhof Eller-Mitte - zur Kenntnis genommen
+- TOP 53: Gertrudisplatz - zur Kenntnis genommen
