@@ -1,0 +1,138 @@
+# 46. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-09-15T17:30:00+02:00
+- Ende: 2011-09-15T23:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2483
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2483
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=82486
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - erledigt
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - (offen)
+- TOP 4.1: Nutzungsgebühren für Weihnachtsmärkte - beantwortet
+- TOP 4.2: Bevorzugung unter Weihnachtsmarktbetreibern in Mitte beenden! - ohne Änderungen in der BVV beschlossen
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Wie geht's dem Möwensee? - beantwortet
+- TOP 5.2: Bauarbeiten Putlitzbrücke - beantwortet
+- TOP 5.3: Betrug in der amulanten Hilfe zur Pflege - ist in Neukölln nur die Spitze vom Eisberg? - beantwortet
+- TOP 5.4: Bezirkswahlausschuss - beantwortet
+- TOP 5.5: Vineta-Platz - schriftlich beantwortet
+- TOP 5.6: LuV-Leitung Schule / Sport: Never Ending Unbesetzt-Story? - schriftlich beantwortet
+- TOP 5.7: Störung in und aus dem Haus Emdener Straße 4 - schriftlich beantwortet
+- TOP 5.8: Der nächste Winter steht vor der Tür - Wolle mer ihn reinlasse? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Grundschule am Koppenplatz - beantwortet
+- TOP 6.2: Schulamt überrascht? Situation am Koppenplatz - schriftlich beantwortet
+- TOP 6.3: RFID-Einführung in den öffentlichen Bibliotheken Berlins als Büchse der Pandora? - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Mollstraße Ecke Otto-Braun-Straße - Mit dem Bebauungsplan I-4a alles in Ordnung? - beantwortet
+- TOP 7.2: Pachtverträge am Hansaplatz - beantwortet
+- TOP 7.3: Einnahmeerwartung Parkraumüberwachung - beantwortet
+- TOP 7.4: Hochschulstandort in Mitte halten und ausbauen - beantwortet
+- TOP 7.5: "Call-a-Bike" der Deutschen Bahn AG in Mitte - beantwortet
+- TOP 7.6: Bürgerarbeit - schriftlich beantwortet
+- TOP 7.7: Wie weiter mit dem beschlossenen Grillen auf Widerruf im Großen Tiergarten? - schriftlich beantwortet
+- TOP 7.8: C&A - Aufgabe des Standortes Müllerstraße - schriftlich beantwortet
+- TOP 7.9: Vandalismus in Grünanlagen - sind's nicht die GrillerInnen, sondern SPD, CDU und FDP? - schriftlich beantwortet
+- TOP 7.10: Durchgangsverkehr Luisenstadt - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Für mehr Bürgerinformation beim Umbau des Schultheißareals in Tiergarten - in der BVV abgelehnt
+- TOP 9.2: Beschluss über den vorhabenbezogenen Bebauungsplanentwurf 1-43VE "ehemals Schultheiß" und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-43VE - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Bebauungsplan 1-54 (östliche Brunnenstraße, südlich Rheinsberger Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-54 - überwiesen
+- TOP 9.4: Beschluss über den vorhabenbezogenen Bebauungsplanentwurf I-11-1VE "Tieckstraße" und den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes I-11-1VE - überwiesen
+- TOP 9.5: Beschluss über die Änderung des Spielplatzentwicklungsplans und über die Aufgabe eines Spielplatzes an der Scheringstraße und Verlagerung des Spielplatzangebotes sowie einer Lagerplatzfläche zum bezirkseigenen Grundstück Gartenstraße / Grenzstraße mit Aufwertung des dortigen Spielplatzes - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Beschluss über den Bebauungsplanentwurf I-52a-1 „Beach-Volleyball-Halle“ und den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-52a-1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Bebauungsplanentwurf 1-39 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-39 - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Integrationsprogramm - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Verkauf von 4 Kleingartenparzellen der Kolonie Sommerglück und Bereitstellung von 6 Ersatzparzellen für die Kolonie Sommerglück in der Windhuker Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Ausgrabungen in der historischen Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Postfuhramt - Erreichte Verhandlungserfolge sichern - in der BVV abgelehnt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Thusneldaallee für den gesamten motorisierten Verkehr schließen - auch für Busse - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Wettbewerbsverfahren für Neubebauung Bachstraße 1-2 (ehem. Konsistorium) - in der BVV abgelehnt
+- TOP 12.3: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für die C/O-Galerie in Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Ausweitung "besonderes Stadtteilzentrum Turmstraße" - in der BVV abgelehnt
+- TOP 12.5: C&A - Aufgabe des Standortes Müllerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Bebauungsplan Postfuhramt: Keine Einstellung der Aufstellung - in der BVV abgelehnt
+- TOP 12.7: Jugendparlament in Mitte einrichten - in der BVV zurückgezogen
+- TOP 12.8: Beim Essen - Klima schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Toilettennutzung im Bereich um den "Tränenpalast" - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Mediationsverfahren zur Beachtung von Einwänden bei der Umgestaltung von Ottopark und Kleinem Tiergarten (westlicher Teil) durchführen! - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Ampeln in Moabit - überwiesen
+- TOP 12.12: Durchführung einer Bürgerveranstaltung im Huttenkiez - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Schüler-Initiative "Politik als Schulfach" unterstützen - überwiesen
+- TOP 12.14: Wetterstation auf dem Alexanderplatz - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Hansageld für Hansaviertel - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Überführung des Französischen Gymnasiums in Zentrale Schulträgerschaft - ohne Änderungen in der BVV beschlossen
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: In der Mobilität eingeschränkte Menschen unterstützen – „Netzwerk Winter“ einrichten! - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Ferienwohnungen in Berlin-Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Fahrrad statt Auto! - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Hallenbad Plus-Plus: Nach Jahren des Kampfes - endlich Nägel mit Köpfen machen! - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Rotaprint muss Kulturstandort bleiben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Kinderschutz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.4: Jährlicher Energiebericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: U-Bahnlinie 5 in die Turmstrasse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Schulmodellversuch „Produktionsschule“: Mitte ein Modellbezirk! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Moderne Schule in Tiergarten-Süd - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Sparen geht vor Schließen! Freie Raumkapazitäten an den Schulen, Bibliotheken und Rathäusern optimal nutzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Für eine zeitgemäße SeniorInnen-Politik - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.10: Mittes Ressourcen nutzen: KleingärtnerInnen helfen bei gesunder Ernährung an Schulen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Interessenbekundungsverfahren für Energiepartnerschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: GDM-Plan zügig umsetzen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.13: Havariemaßnahmen für Schüler/innen und Personal im Schulgebäude Lützowstraße 83-85 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Schulstandort Lützowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Radweg an der Panke - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Jeder das, was ihr gehört: Grips-Spielgeräte für die Fritzlar-Homberg-Grundschule! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Karl-Marx-Allee II. Bauabschnitt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: MÄDEA - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.19: Wettbüros - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Wertstoffforum in Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Neuwahl Stadtteilvertretung Turmstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.22: Baumschutzgutachten für Kastanienallee 63 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Werbeflächen für Suchtprävention - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.24: Ahndung von Visitenkartenwerbung an Kraftfahrzeugen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Eine Informationsveranstaltung für die Anwohnerinnen und Anwohner und Gewerbetreibenden im B-Plangebiet 1-60 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.26: Jetzt Planungssicherheit schaffen - Fusion der Menzel- und der Heinrich-von-Kleist-Schule vorziehen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.27: Verlängerung U-Bahnlinie 3 bis Magdeburger Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.28: Barrierefreie Wahllokale - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.29: Folgen des zeitweisen Grillverbotes ernst nehmen: Über Kosten und Schäden aufklären und Grillen auf Widerruf prüfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.30: Prüfung von Planungsunterlagen auf Einhaltung der rechtlichen Vorgaben für barrierefreies Bauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.31: Sicherer Schulweg in der Linienstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.32: Öffentliche Benennung einer Straße nach Bernhard Weiß - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.33: BürgerInnen-Versammlung zur Neubebauung Bachstraße 1-2 (ehemaliges Konsistorium) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.34: 4. Tätigkeitsbericht der Bezirksbeauftragten für Menschen mit Behinderung beim Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.35: Gemeinsam mehr erreichen - pragmatische Lösung für die Schüler der Cosmopolitan School - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.36: Illegale Altkleidersammelcontainer bekämpfen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.37: Leipziger Straße - Metrobushaltestelle sicher und benutzerfreundlich gestalten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.38: Spittelmarkt - Metrobushaltestelle sicher und benutzerfreundlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.39: Auftaktveranstaltung Sanierungsgebiet Nördliche Luisenstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.40: Leitbild zum Kinderschutz im Bezirk Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.41: Förderung für Mini-Kraft-Wärme-Kopplungsanlagen (Mini-KWK-Anlage) aus dem Berliner Umweltentlastungsprogramm II nutzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.42: Abschluss eines Städtebaulichen Rahmenvertrages zum Masterplan Heidestraße im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.43: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplan 1-57 (Securablock) und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.44: Zwischenbericht zur Umsetzung des integrierten Stadtteilentwicklungskonzeptes (INSEK) für die Teilbereiche A - D, Stadtumbau West, Gebiet Tiergarten - Nordring / Heidestraße im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.45: Die im ersten Halbjahr des Haushaltsjahres 2011 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.46: Änderung des Geltungsbereiches des Bebauungsplanes 1-76B (Potsdamer Straße / Lützowstraße / Am Karlsbad) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.47: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplan 1-58 (südlich Invalidenstraße, westlich Ackerstraße) und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.48: Beschluss über die Weiterführung des Bebauungsplans III-46-1 (Schillerbibliothek) im Bezirk Mitte, Ortsteil Wedding auf der Grundlage des Ergebnisses des Realisierungswettbewerbs sowie der Sicherung von Nachnutzungspotentialen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.49: Einstellung des Bebauungsplanverfahrens 1-48 für die Grundstücke Lehrter Straße 62-66 und Seydlitzstraße 1-10, einschließlich Teilbereichen des Flurstücks 390 im Bezirk Mitte, Ortsteil Moabit - mit Abschlussbericht zur Kenntnis genommen
