@@ -1,0 +1,180 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2011-09-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2223198
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2223198
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung Christi Himmelfahrt Festkonzert am 14.10.2011
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Pfarrei St. Florian 3. Ökumenischer Frauentag am 12.11.2011
+- TOP 1.3.: Entscheidung über eine Veranstaltung auf öffentlichem Verkehrsgrund gemäß Vollmacht des Oberbürgermeisters vom 26.02.10; Abhalten eines Flohmarktes am 24.09.11 auf dem Platz der Menschenrechte
+- TOP 1.4.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Buslinie 193 Wasserburger Landstraße, Haltestelle Kulturzentrum Trudering, Projekt-Nr. 100522
+- TOP 1.5.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Buslinie 193 Wasserburger Landstraße, Haltestelle Nikolaus-Prugger-Weg, Projekt-Nr. 100523
+- TOP 1.6.: Entscheidung gemäß Vollmacht des Oberbürgermeisters vom 26.02.2010 über die Projektplanung; Buslinie 193 Wasserburger Landstraße, Haltestellen Wasserburger Landstraße, Projekt-Nr. 100524
+- TOP 1.7.: Straßenbenennung im 15. Stadtbezirk Trudering-Riem: Messestadt Riem- 4. Bauabschnitt Wohnen
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Wohnumfeld in der Messestadt Ost
+- TOP 2.2.: Einbahnstraßenregelung Mutter-Teresa-Straße
+- TOP 2.3.: Grundschulsituation in Riem
+- TOP 2.4.: Hort- und Kindergartenplätze in der Kita Feldbergstraße
+- TOP 2.5.: Grundstück an der Bushaltestelle Halligenplatz
+- TOP 2.6.: Grünzug östlich der Bebauung Haffstraße
+- TOP 2.7.: Bebauung des Grundstücks Florastr. 76- 76 c
+- TOP 2.8.: Radfahrproblematik im Lomeweg
+- TOP 2.9.: Verkehrsentlastung Trudering
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Öffentliche Anbindung des Truderinger Gymnasiums
+- TOP 3.2.: Baustelle Truderinger Gymnasium an der Friedenspromenade
+- TOP 3.3.: Baumfällungen für das Truderinger Gymnasium
+- TOP 3.4.: Baumfällung an der Markgrafenstraße
+- TOP 3.5.: Vorher-Nachher-Vergleich der Verkehrsmengen im Umfeld des Neubaugebiets Bajuwarenstraße
+- TOP 3.6.: Neuen Radweg St.- Augustinus- Straße vernünftig ausschildern
+- TOP 3.7.: Verkehrssituation Feldbergstraße
+- TOP 3.8.: LKW-Durchfahrtverbot für die Karpfenstraße?
+- TOP 3.9.: Wegebeleuchtung im Flußaalweg und in der Aitelstraße
+- TOP 3.10.: Fahrradabstellplage am Bahnhof Trudering
+- TOP 3.11.: Fahrrad-Abstellmöglichkeiten am U- und S-Bahnhof Trudering
+- TOP 3.12.: Wann kommt der barrierefreie Ausbau der S-Bahnstation Riem?
+- TOP 3.13.: Verkehrssituation und Erscheinungsbild der Straßen in Riem
+- TOP 3.14.: Schutz der Riemer Fledermäuse
+- TOP 3.15.: Missstände im Stadtteil München Riem
+- TOP 3.16.: Erläuterungstafel für den Kopfbau des ehem. Münchner Flughafens Riem
+- TOP 3.17.: Gefahrenfreier Fußgängerüberweg am Messefreigelände
+- TOP 3.18.: Straßen- und Gehwegreinigung in der Messestadt
+- TOP 3.19.: Müllsituation am Platz der Menschenrechte
+- TOP 3.20.: Parkhaus- und Tiefgaragennutzung in der Messestadt
+- TOP 3.21.: Parkmöglichkeiten am Riemer See
+- TOP 3.22.: Riemer See kein Badegewässer?
+- TOP 3.23.: Rollstuhl für den Riemer See
+- TOP 3.24.: Zaun und Tore am Riemer Park entfernen
+- TOP 3.25.: Freerunning-Parcour in Trudering-Riem
+- TOP 3.26.: Mehr Transparenz bei Hallenbelegungszeiten
+- TOP 3.27.: Verkauf der Kleingartenanlage an der Truderinger Straße
+- TOP 3.28.: Senioren-Wohnen an der Ickelsamerstraße (Antwort zum Antrag und nochmalige Anhörung zum Grundstücksverkauf)
+- TOP 3.29.: Waldtrudering braucht wieder einen Briefkasten im Zentrum
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Schulsituation in der Messestadt
+- TOP 4.2.: Energie- und Nachhaltigkeitskonzept für die neue Grundschule in Riem und die angrenzenden Gebäude innerhalb des Bebauungsplans Nr. 2007
+- TOP 4.3.: Qualitätssicherung am Bau des Truderinger Gymnasiums
+- TOP 4.4.: Ampelanlage Truchthari-Anger/ Am Mitterfeld
+- TOP 4.5.: Harmonisierung der Zeitkartentarife in Trudering-Riem
+- TOP 4.6.: Babyschaukel
+- TOP 5: Anhörungen
+- TOP 5.1.: Entwurf einer Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS)
+- TOP 5.2.: Bauvorhaben: Sanierung und Umbau Familienzentrum Trudering im 15. Stadtbezirk Trudering-Riem
+- TOP 5.3.: Verkauf einer städtischen Immobilie; Lage des Objekts Flst. 191, 192 jeweils Teilfläche, Gemarkung Trudering, Gewerbegebiet Schwablhofstraße westlich
+- TOP 5.4.: Mehr Jugendräume für die Messestadt, Antrag Nr. 08-14/ A 02281 von DIE LINKE, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss am 11.01.11
+- TOP 5.5.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung; BA-Antrag Nr. 08-14/ B 03040 des Bezirksausschusses des Stadtbezirks 1 Altstadt-Lehel vom 12.04.11
+- TOP 5.6.: Verbesserte Bürgerbeteiligung III - Information über stadtteilbezogene Themen optimieren; Stadtratsantrag der CSU-Fraktion vom 22.08.11 mit der Bitte um Stellungnahme der Bezirksausschüsse
+- TOP 5.7.: Teilnahme am Europäischen Tag des Nachbarn; Empfehlung Nr. 08-14/ E 00963 der Bürgerversammlung des 2. Stadtbezirks vom 19.05.11, Antrag des Seniorenbeirats vom 20.07.11
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 6.1.: Bürgerversammlung des 15. Stadtbezirks Trudering-Riem am 06.10.11
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Nachmittagsbetreuung in der Astrid-Lindgren-Schule
+- TOP 7.2.: Bürgerschreiben vom 20.07.11 zur Schul- und Hortsituation in der Messestadt
+- TOP 7.3.: Grundschule und Tagesheim an der Astrid-Lindgren-Straße
+- TOP 7.4.: Integrationskindergartenplätze im Stadtbezirk 15
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Verfahren nach § 4 Abs. 1 BauGB; Gemeinde Aschheim, Flächennutzungsplan - Änderung Nr. 28
+- TOP 7.2.: Bauvorhaben Von-Gravenreuth-Str. 27
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Verkehrsaufkommen Heltauer Straße
+- TOP 7.2.: Antrag zur Besichtigung der Verkehrssituation bzgl. des Bauvorhabens in der Helgastr. 8
+- TOP 7.3.: Überquerung der Wasserburger Landstraße in Höhe der Solalindenstraße für Radfahrer verbessern
+- TOP 7.4.: Beteiligungsverfahren zur Erteilung einer Sondernutzungserlaubnis zum Betrieb einer Wertstoffsammelstelle; Anhörung des Abfallwirtschaftsbetriebs München und Bürgerschreiben
+- TOP 7.5.: Aufhebung der Radwegebenutzungspflicht für den Zweirichtungsradweg in der Feldbergstraße zwischen St.-Augustinus-Straße und Wasserburger Landstraße
+- TOP 7.6.: Verbesserung der Einfädelsituation für den Radverkehr in der Riemer Straße; Bestätigung über die Ausführung vom 15.06.11
+- TOP 7.7.: Neubau einer Lichtzeichenanlage Joseph-Wild-Straße/ Hanns-Schwind-Straße (am 19.05.11 per Kenntnisnahme abgeschlossener BA-Antrag 08-14/ B 02086)
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Zuwendungsbescheid vom 29.07.11 an den Elternbeirat der Grundschule an der Turnerstraße
+- TOP 7.2.: Zuwendungsbescheid vom 29.07.11 an den Förderverein der Grundschule an der Turnerstraße
+- TOP 7.3.: Zuwendungsbescheid vom 29.07.11 an Echo e.V.
+- TOP 7.4.: Ablehnungsbescheid vom 18.08.11 an SOS-Kindertreff e.V. und Erläuterungsschreiben vom 04.08.11
+- TOP 7.5.: Verwendungsnachweis zum BA-Budget: Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V.
+- TOP 7.6.: Verwendungsnachweis zum BA-Budget: Truderinger Burschenverein von 1895 e.V.
+- TOP 7.7.: Rückforderung von BA-Budgetmitteln gegenüber der Gewerbeinitiative Aktives Trudering Stadtteilladen Trudering (MGS)
+- TOP 7.8.: Rückforderung von BA-Budgetmitteln gegenüber dem Kreisjugendring München-Stadt bzgl. der Streitschlichterfahrt vom 28.06.-01.07.11
+- TOP 7.9.: Rückforderung von BA-Budgetmitteln gegenüber dem Arbeitskreis Ökologie Messestadt Riem bzgl. des Projekts "Mein Stadtstrand!"
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.1.: Bauvorhaben Truderinger Str. 321-325
+- TOP 7.2.: Protokoll des Unterausschusses Umwelt vom 17.08.11 über Baumfällungen; von der BA-Vorsitzenden nach § 20 Abs. 1 BA-Satzung genehmigt
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Hochalmstr. 25; Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: Erdinger Str. 9; 8.2 Edeltraudstr. 13a; 8.3 Eigerstr. 18; 8.4 Turnerstr. 70; 8.5 Martin-Empl-Ring 10; 8.6 Togostr. 12; 8.7 Mondseestr. 20; 8.8 Waldstr. 42; 8.9 Josef-Brückl-Str. 96; 8.10 Birkhahnweg 46; 8.11 Vogesenstr. 32; 8.12 Hippelstr. 74; 8.13 Stockerweg 12; 8.14 Waldschulstr. 58; 8.15 Wasserburger Landstr. 268a; 8.16 Anechostr. 4; 8.17 Hoferichterweg 19 ? 19a; 8.18 Eigerstr. 14; 8.19 Zehntfeldstr. 229 ? 229a; 8.20 Hererostr. 19
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Oktoberfestbesuch des BA 15 am Dienstag, 20.09.11, 17 Uhr; Sitzungstermine des BA 15 Trudering-Riem im Jahr 2012; Nacht der Umwelt am 16.09.11; Öko-Hoffest Gut Riem am 18.09.11
+- TOP 9.2.: Veranstaltungskalender Riemer Park und Reitanlagen
+- TOP 9.3.: Seniorenwoche vom 07.10. bis 14.10.11
+- TOP 9.4.: Unterbringung und Versorgung der gebundenen Ganztagsklassen an GS, HS und FÖS; hier Hauptschule Feldbergstr. 85; Ortstermin vom 24.05.11
+- TOP 9.5.: Städtisches Haus für Kinder/ Kooperationseinrichtung Feldbergstr. 89, 81825 München; Mitteilung über die voraussichtliche teilweise Inbetriebnahme Mitte September 2011
+- TOP 9.6.: Protokoll des 11. Treffens der Gleichstellungsbeauftragten der Bezirksausschüsse am 21.07.11 in der Gleichstellungsstelle für Frauen und Einladung zum nächsten Termin am 20.10.11
+- TOP 9.7.: Themensuche für das Informationsgespräch 2011 des BA 15 Trudering-Riem mit dem Referat für Stadtplanung und Bauordnung
+- TOP 9.8.: Müllprojekt Messestadt: Plakat zur Aktion "Die Müllgeister"
+- TOP 9.9.: Nachtrag zum BA-Antrag 08-14/ B 02560 "Aufstellung von Hundekotbeutelspendern im Bereich des Grünzuges Friedenspromenade": Bürgeranfrage mit Antworten
+- TOP 9.10.: Hunde im Riemer Park; Bürgeranfrage vom 07.07.11 und Antwort des Baureferats Gartenbau
+- TOP 9.11.: Straßenmarkierungen an der Ecke Friedenspromenade/ Wasserburger Landstraße; Bürgeranfrage mit Antworten
+- TOP 9.12.: Zwischenmitteilung zur Stadtratsvorlage Nr. 08-14/ V 06878 "Dialog-Display in München"
+- TOP 9.13.: Mitteilung über die Schließung des Parkplatzes Riemer Str. 295
+- TOP 9.14.: Bürgeranfrage wegen Lärm in Riem am 17.07.11 und Weiterleitung an das KVR
+- TOP 9.15.: Bürgeranfrage zum Rechtsabbiegepfeil Reschstraße/ Feldbergstraße vom 25.08.11 mit Antwort des KVR vom 01.09.11
+- TOP 9.16.: Antwort des KVR an den BA 5 Au-Haidhausen bzgl. Behindertenparkplätze am Orleansplatz; die Initiative war vom BA 15 ausgegangen
+- TOP 9.17.: Stellungnahme des BA 9 Neuhausen-Nymphenburg vom 16.08.11 zum Antrag des BA 15 Trudering-Riem Nr. 08-14/ B 01900 "Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps"
+- TOP 9.18.: Antrag des BA 9 Neuhausen-Nymphenburg "Maßnahmen zur Förderung des Wohnungstausches" mit der Bitte um Unterstützung durch weitere Bezirksausschüsse
+- TOP 9.19.: Messestadt Riem, Asphaltarbeiten der MRG in der Mutter-Teresa-Str. vom 01.-12.08.11
+- TOP 9.20.: Anliegerinformation: Erneuerung des Fahrbahnbelags in der Hippelstraße und Nauestraße zwischen Friesplatz und Gerstäckerstraße
+- TOP 9.21.: Anliegerinformation: Erneuerung des Fahrbahnbelags im Kathreinweg zwischen Wasserburger Landstraße und Edeltraudstraße
+- TOP 9.22.: Anliegerinformation: Erneuerung des Fahrbahnbelags in der Tsingtauer Straße zwischen Hausnummer 104 und Am Eulenhorst
+- TOP 9.23.: SWM Stromprojekt Karpfenstraße
+- TOP 9.24.: SWM Stromprojekt Reschstraße
+- TOP 9.25.: SWM Stromprojekt Dresselstraße
+- TOP 9.26.: Broschüre der HIT-Stiftung Kinder brauchen Zukunft
+- TOP 9.27.: Geschäftsbericht 2010 der Münchner Gesellschaft für Stadterneuerung
+- TOP 9.28.: Geschäftsbericht 2010 der Unfallkasse München
+- TOP 9.29.: Verbundbericht 2010 des MVV
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Unterrichtung über Bauvorhaben im Stadtbezirk im Zeitraum 11.07. - 28.08.11
+- TOP 10.2.: Abbruchanzeige: Schwarzenkopfstr. 6
+- TOP 10.3.: Abbruchanzeige: Schneefinkenweg 11
+- TOP 10.4.: Abbruchanzeige: Hochalmstr. 23
+- TOP 10.5.: Abbruchanzeige: Münchberger Str. 35
+- TOP 10.6.: Abbruchanzeige: Fauststr. 74
+- TOP 10.7.: Abbruchanzeige: Waterbergstr. 27
+- TOP 10.8.: Abbruchanzeige: Windbauerstr. 7
+- TOP 10.9.: Abbruchanzeige: Zeisigweg 9
+- TOP 10.10.: Abbruchanzeige: Kothieringerstr. 5
+- TOP 10.11.: Beschlussvorlage für den Ausschuss für Bildung und Sport vom 21.09.2011 Neubau eines 7- gruppigen KinderTagesZentrums an der Heinrich - Böll - im 15. Stadtbezirk Trudering ? Riem; Zustimmung der BA-Vorsitzenden nach § 20 Abs. 1 BA-Satzung vom 01.09.11
+- TOP 10.12.: Straßenfest Bambinotopia am 17.09.11 in der Astrid-Lindgren-Straße; Zustimmung der BA-Vorsitzenden nach § 20 Abs. 1 BA-Satzung vom 11.08.11
+- TOP 10.13.: Haarathon-Benefizlauf am 25.09.11; Zustimmung der BA-Vorsitzenden nach § 20 Abs. 1 der BA-Satzung vom 25.08.11
+- TOP 10.14.: Schuhbecks Teatro, Olof-Palme-Straße/ Graf-zu-Castell-Straße; Zustimmung der BA-Vorsitzenden nach § 20 Abs. 1 der BA-Satzung vom 01.09.11
+- TOP 10.15.: Erlaubnisbescheid zu Aktionen im Rahmen der Sommerferienbörse am 17. udn 24.08.11
+- TOP 10.16.: Erlaubnisbescheid mit Ausnahmegenehmigung für Filmaufnahmen am 05.08.11, Werner-Eckert-Str. 16-18
+- TOP 10.17.: Erlaubnisbescheid mit Ausnahmegenehmigung für Filmaufnahmen Willy-Brandt-Allee bis De-Gasperi-Bogen am 27.07.11
+- TOP 10.18.: Unveränderte Fortführung eines Gaststättenbetriebs: Club Pascha, Stahlgruberring 37, 81829 München
+- TOP 10.19.: Unveränderte Fortführung eines Gaststättenbetriebs: Da Olimpio, Graf-Lehndorff-Str. 36, 81829 München
+- TOP 10.20.: Unveränderte Fortführung eines Gaststättenbetriebs: Anitas Night, Stahlgruberring 9, 81829 München
+- TOP 10.21.: Unveränderte Fortführung eines Gaststättenbetriebs: Yamas, Schatzbogen 43, 81829 München
+- TOP 10.22.: Mitteilung über ein Grundstücksgeschäft: Veräußerung stadteigener Flächen Flst. 1408-/,-/5 Gemarkung Trudering an der Otto-Perutz-Straße
+- TOP 10.23.: Mitteilung über ein Grundstücksgeschäft: Veräußerung stadteigener Flächen Flst. 239 (Tlfl.) Gemarkung Trudering an der Truderinger Straße
+- TOP 10.24.: Mitteilung über ein Grundstücksgeschäft; Veräußerung stadteigener Flächen Flst. 1408/2, Gemarkung Trudering
+- TOP 10.25.: Errichtung eines 4-zügigen Gymnasiums in Trudering an der Friedenspromenade mit einer 3-fach Sporthalle mit Zuschauertribüne und Freiflächen; Projektkosten (prognostizierte Ausführungskosten) 74,169 Mio. EUR, davon Ersteinrichtungskosten 6,850 Mio. EUR; Ausführungsgenehmigung
+- TOP 10.26.: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen; Neubau einer dreiguppigen Kinderkrippe, Helgastr. 8; Projektkosten (Kostenobergrenze) 2.433.000 EUR; verwaltungsinterne Erteilung des Projektauftrags und der Projektgenehmigung
+- TOP 10.27.: Kanalbau im Umgriff des Bebauungsplans Nr. 1976; Schwablhofstr. (westlich), Wasserburger Landstraße (nördlich); Gesamtkosten 250000 EUR "Kanalbau i.V.m. Wohnungs- und Gewerbebau"
+- TOP 10.28.: Kanalbaumaßnahme Entwicklungsmaßnahme Riem 4. BA Wohnen, Teil 2; Gesamtkosten 370000 EUR
+- TOP 10.29.: Energiekonzept im 4. Bauabschnitt Messestadt; Gehobener Wärmestandard im 4. Bauabschnitt Messestadt, BA-Antrag Nr. 08-14/ B 02064 des Bezirksausschusses des Stadtbezirks 15 Trudering-Riem vom 22.04.10; Energiestandard im 4. Bauabschnitt Messestadt, BA-Antrag Nr. 08-14/ B 03079 des Bezirksausschusses des Stadtbezirks 15 Trudering-Riem vom 09.06.11; Sitzungsvorlage Nr. 08-14/ V 07057, Beschluss der Vollversammlung des Stadtrats vom 27.07.11
+- TOP 10.30.: 1. Öffentliche WC-Anlagen - Strategiekonzept; 2. "Öffentliche WC-Anlagen erhalten und sanieren!", Stadtratsantrag Nr. 08-14/ A 01680; 3. "Errichtung von Sanitäranlagen für Besucher des Hohenzollernplatzes", Empfehlung Nr. 08-14/ E 00367 der Bürgerversammlung des Stadtbezirks 4 Schwabing-West; 4. "Errichtung einer öffentlichen Toilettenanlage im Bereich der Spielfläche des Bahndeckels Theresienhöhe", Antrag Nr. 08-14/B 03012 des BA 6 Sendling; 5. "Errichtung einer öffentlichen Toilettenanlage im Bereich des Georg-Freundorfer-Platzes", Antrag Nr. 08-14/ B 03013 des BA 8 Schwanthalerhöhe; 6. "Errichtung einer öffentlichen Toilettenanlage im Bereich der Spielfläche des Bahndeckels Theresienhöhe, Antrag Nr. 08-14/ B 03014 des BA 8 Schwanthalerhöhe; Sitzungsvorlage Nr. 08-14 V 07100, Beschluss der Vollversammlung des Stadtrats vom 27.07.11
+- TOP 10.31.: "Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14", Untersuchung der empirica AG; Sitzungsvorlage Nr. 08-14/ V 07507, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11
+- TOP 10.32.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG), Novellierung der Naturdenkmalliste; Sitzungsvorlage Nr. 08-14/ V 07250, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.07.11 und der Vollversammlung des Stadtrats vom 27.07.11
+- TOP 10.33.: Dezentrales Güterverkehrszentrenkonzept (GVZ-Konzept), Überprüfung und weitere Planung, Sitzungsvorlage Nr. 08-14/ V 04152, Beschluss der Vollversammlung des Stadtrats vom 27.07.11
