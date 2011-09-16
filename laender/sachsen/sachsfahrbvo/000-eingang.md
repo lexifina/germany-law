@@ -1,0 +1,3 @@
+# Verordnung der Sächsischen Staatsregierung über die Erteilung von Fahrberechtigungen zum Führen von Einsatzfahrzeugen der Freiwilligen Feuerwehren, der nach Landesrecht anerkannten Rettungsdienste,des Technischen Hilfswerkes und sonstiger Einheiten des Katastrophenschutzes (Sächsische Fahrberechtigungsverordnung – SächsFahrbVO)
+Vom 30. August 2011
+Aufgrund von § 6 Abs. 5 Satz 1 des Straßenverkehrsgesetzes (StVG) in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), das zuletzt durch Artikel 2 des Gesetzes vom 12. Juli 2011 (BGBl. I S. 1378, 1384) geändert worden ist, erlässt die Sächsische Staatsregierung folgende Verordnung:
