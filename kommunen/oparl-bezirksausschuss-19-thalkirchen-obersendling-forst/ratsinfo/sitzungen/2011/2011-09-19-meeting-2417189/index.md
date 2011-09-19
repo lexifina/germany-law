@@ -1,0 +1,56 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-09-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2417189
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2417189
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Benennung Nachfolger/in UA-Budget und Wahl des/der Vorsitzenden UA-Budget
+- TOP 1.7.: Genehmigung der Protokolle vom 12.07.11 und 02.08.11
+- TOP 2: Anträge
+- TOP 2.1.: Floßlände - "Plattler"
+- TOP 2.2.: Zusätzlicher Gehweg an der Tierparkbrücke
+- TOP 2.3.: Rücknahme der Berufung bezüglich des Verfahrens zur EAE-Baierbrunner Straße
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kirchengemeinde München-Andreaskirche Johannespassion am 01.04.2012
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Erweiterung Mobilfunkstandorte
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Öffnung des Maria-Einsiedel-Bergs für Radfahrer
+- TOP 5.2.: Verkehrssituation Josephinenstraße
+- TOP 5.3.: Bedarfs- und Konzeptgenehmigung 1. Fuß- und Radweg an der Wolfratshauser Str. weiterbauen 2. Sichere Kreuzungsmöglichkeit an der Siemensallee einrichten
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Teilnahme am Europäischen Tag des Nachbarn
+- TOP 7.2.: Beauftragte für Bürgerschaftliches Engagement in den Sozialbürgerhäusern
+- TOP 7.3.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Ambulante Obst- und Gemüsehändler am Fellererplatz
+- TOP 9.2.: Verkauf einer städtischen Immobilie - Benediktbeuerer Str. 7
+- TOP 9.3.: Maßnahmen zur Förderung des Wohnungstausches
+- TOP 9.4.: Verbesserte Bürgerbeteiligung
+- TOP 9.5.: Erinnerungsorte München / NS-Geschichte
+- TOP 9.6.: Veranstaltung - Wildwasser Abfahrtsrennen 2011
+- TOP 9.7.: Einziehung Straßenname "Gleisweilerstraße"
+- TOP 9.8.: Veranstaltung - 3. Münchner Kanu-Freestyle-Wettkampf
+- TOP 9.9.: Antrag auf Zweckentfremdung Forstenrieder Allee (Anhörung)
+- TOP 9.10.: Antrag auf Zweckentfremdung Leutstettener Straße
+- TOP 9.11.: Antrag auf Zweckentfremdung Moraltstraße
+- TOP 9.12.: Antrag auf Zweckentfremdung Leonistraße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
