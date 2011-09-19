@@ -1,0 +1,95 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-09-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2217242
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2217242
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verhinderung des Gehsteigparkens vor Bunzlauer Str. 19
+- TOP 2.2.: Seniorenstadtplan für Moosach
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.: Einwohnerversammlung für Kinder und Jugendliche am 21.10.2011
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Parkplätze vor dem Anwesen Dachauer Str. 338 - 342
+- TOP 3.2.: Ausbau der Haylerstraße
+- TOP 3.3.: Ausbau der Riesstraße
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Neubau eines Familienzentrums an der Brieger Straße
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine und Bekanntgaben
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Ensembleschutz für den Kreuzungsbereich Feldmochinger- / Pelkovenstraße
+- TOP 4.2.: Amphionpark: Spielmöglichkeiten auch für Behinderte
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Wohnforum München gGmbH, Nachbarschaftstreff Karlingerstraße Hallenmiete der Fußballgruppe
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Regsam e.V. Erstellung eines Flyers "Rund um die Geburt"
+- TOP 6: Anhörungen
+- TOP 6.1.: Aufhebung der Radwegbenutzungspflicht in der Pelkovenstraße zwischen Feldmochinger Straße und Hanauer Straße
+- TOP 6.2.: Bauvorhaben Bauberger- / Bunzlauer Straße Errichtung von 26 Wohneinheiten für den kommunalgeförderten Mietwohnungsbau und einer im Erdgeschoss integrierten viergruppigen Kinderkrippe; Ermächtigung zur Planung der Kinderkrippe, Genehmigung des Nutzerbedarfsprogramms für die Kinderkrippe, Finanzierung und Mittelbereitstellung der Kinderkrippe
+- TOP 6.3.: Bauvorhaben Darmstädter Straße Errichtung von 20 Wohneinheiten für den kommunalgeförderten Mietwohnungsbau und einer im Erdgeschoss integrierten viergruppigen Kinderkrippe; Genehmigung des Nutzerbedarfsprogramms für die Kinderkrippe, Ermächtigung zur Planung der Kinderkrippe Finanzierung und Mittelbereitstellung der Kinderkrippe
+- TOP 6.4.: Verkehrskonzept Münchner Norden; Sachstandsbericht, Weiteres Vorgehen, Anträge und Empfehlungen
+- TOP 6.5.: Teilnahme am Europäischen Tag des Nachbarn
+- TOP 6.6.: Verbesserte Bürgerbeteiligung III ? Information über stadtteilbezogene Themen optimieren (CSU-Stadtratsantrag)
+- TOP 6.7.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungsverordnung (Antrag des BA 1 Altstadt - Lehel)
+- TOP 6.8.: Bauliche Maßnahmen zur Verhinderung des Gehsteigparkens in der Dachauer Straße zwischen Baldurstraße und Orpheusstraße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Markierung der Senkrechtparkbuchten in der Dürrstraße und Messerschmittstraße (werden üblicherweise bei verkehrlich unbedeutenden Straßen nicht vorgenommen)
+- TOP 7.2.: Ersatzstandort während der Bauzeit der Postfiliale (es werden Container als Ausweichlösung in der Bunzlauer Str. 11 angestrebt)
+- TOP 7.3.: Keller- und Straßenüberflutungen in verschiedenen Bereichen Moosachs (Verpflichtung der Anlieger zur Reinigung der Rinnsteine wird regelmäßig überprüft)
+- TOP 7.4.: ?Hundewiese? neben der Grundschule an der Jenaer Strae (Anlagenaufsicht wird Kontrollen durchführen)
+- TOP 7.5.: Befestigung des Untergrundes am Werstoffcontainer-Standort Naumburger Straße (Asphaltierung aus Kostengründen derzeit nicht möglich)
+- TOP 7.6.: Regelmäßige Reinigung des Wäldchens Ecke Naumburger - / Hirschstraße (wird künftig wöchentlich kontrolliert und bei Bedarf gereinigt)
+- TOP 7.7.: Lärmdämmung von Glascontainern (alle Glascontainer sind bereits lärmgedämmt)
+- TOP 7.8.: Straßenunterhalt Maßnahmen (Erstinformation Anfang des Jahres wird künftig wieder erfolgen)
+- TOP 7.9.: Aufstellung von Pollern in der Unterführung an der Einmündung der Jakob-Hagenbucher-Straße / Pelkovenstraße (wurde bereits erledigt)
+- TOP 7.10.: Verhinderung von LKW-Durchfahrten in der Feldmochinger Straße (ein zusätzliches Schild wird aufgestellt)
+- TOP 7.11.: Errichtung einer Höhenkontrolle an der Bahnunterführung in der Dachauer Straße (Verweis auf Stadtratsanfrage)
+- TOP 7.12.: Sanierung der Franz-Fihl-Straße an der Einmündung zur Dachauer Straße (Baureferat sieht derzeit noch keinen Handlungsbedarf)
+- TOP 7.13.: Besichtigung des Technischen Betriebszentrums (Terminvorschläge)
+- TOP 7.14.: Bekämpfung von Ameisen auf Gehwegen (derzeit keine weiteren Bekämpfungsmaßnahmen außerhalb von Spielbereichen vorgesehen)
+- TOP 7.15.: Ausbau Baubergerstr. / Vilniusstraße (Radwegsituation)
+- TOP 7.16.: Kellerüberflutungen Wildermuthstr. / Abensbergstr.
+- TOP 7.17.: Straßen- und Kellerüberflutungen
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Vorab-Stellungnahmen der Vorsitzenden zu Bauvorhaben: 1. Breslauer Str. 1 2. Dürr- / Gärtner- / Gneisenaustr. 3. Baubergerstr. 4 4. Pelkovenstr., FlNr. 989/0
+- TOP 8.4.: Münchner Wochenmärkte ? Standort Moosach, Nanga-Parbat-Straße (Antwort auf Anfrage bei der Bürgerberatung des Oberbürgermeisters)
+- TOP 8.5.: Metrobus 50 / Stadtbus 175 (Bürgerschreiben an die MVG)
+- TOP 8.6.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14
+- TOP 8.7.: Fahrbahnsanierung in der Max-Born-Straße zwischen Feldmochinger Straße und westlich Dachauer Straße vom 08.08.11 bis 10.09.11
+- TOP 8.8.: Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV) / Straßenbau
+- TOP 8.9.: Drehgenehmigung Dachauer Straße, Georg-Brauchle-Ring, Petuelring, Hohenzollernstraße und Schwere-Reiter-Str. am 01.08.2011
+- TOP 8.10.: Drehgenehmigung Hengelerstr. am 14.08.2011
+- TOP 8.11.: Drehgenehmigung Petuelring, Schleißheimer Straße, Lerchenauer Str., Georg-Brauchle-Ring, Nymphenburger Straße am 25.08.2011
+- TOP 8.12.: Baumaßnahme SWM: Wasserprojekt Manzostraße
+- TOP 8.13.: Maßnahmen zur Förderung des Wohnungstausches (Antrag des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.14.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps (Schreiben des BA 15 Trudering ? Riem)
+- TOP 8.15.: Planfeststellung für das Vorhaben 2. S-Bahn-Stammstrecke München ? Planänderung
+- TOP 8.16.: Veränderte Zeiten des Streetworkbusses
+- TOP 8.17.: Riesstraße zwischen Pelkovenstraße und Dessauerstraße und zwischen Gärtnerstr. und Georg-Brauchle-Ring, Straßenwiederherstellung nach U-Bahn-Bau, Dauerhafte Öffnung des Mittelteilers Georg-Brauchle-Ring / Riesstraße; Beschluss des Bauauschusses vom 05.07.2011
+- TOP 8.18.: Beauftragte für Bürgerschaftliches Engagement (BE) in den Sozialbürgerhäusern
+- TOP 8.19.: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes; Entscheidungen des Landesdenkmalrates vom 27.05.2011 und 01.07.2011
+- TOP 8.20.: Bürgeranliegen: Radweg an der Baldurstraße (Anfrage an den BA 9 Neuhausen-Nymphenburg)
+- TOP 8.21.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: 1. ?Kaimug?, Hanauer Str. 68 2. ?Dillinger?, Gröbenzeller Str. 4 3. ?Plan B?, Baubergerstr. 12
+- TOP 8.22.: Verkehrsrechtliche Anordnung: Kurzparkzone Gärtnerstraße 50
+- TOP 8.23.: Zweckentfremdung von Wohnraum: 1. Eggmühler Straße 2. Bielefelder Straße
+- TOP 8.24.: Fällungsgenehmigungen 1. Prochintalstr. 33 2. Wintrichring 46 3. Weidmannstr. 21
+- TOP 8.25.: Ersterschließung Dachauer Straße (Antwort des Baureferates auf eine Anfrage an die Bürgerberatung des Oberbürgermeisters)
+- TOP 8.26.: Vorankündigung Fachgespräch am 25.10. Evaluationsergebnisse zu REGSAM-Gebieten mit besonderem Handlungsbedarf
+- TOP 8.27.: Vertragliche Standortsicherung der Mobilfunksendeanlagen an verschiedenen Standorten (nicht öffentlich)
+- TOP 8.28.: Öffentliche WC-Anlagen ? Strategiekonzept, Stadtratsbeschluss
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
