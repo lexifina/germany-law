@@ -1,0 +1,119 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-09-20T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205753
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205753
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: NACHTRAG: Widenmayerstraße 31: Nutzungsänderung, Hausmeisterwohnung zu Gewerbeeinheit
+- TOP .2.: NACHTRAG: Odeonsplatz 8: Nutzungsänderung, Kino zu Gastronomie
+- TOP .3.: NACHTRAG: Feuerwerk anlässlich Hochzeit am 23.09.2011, Praterinsel
+- TOP .5: Allgemeine Themen
+- TOP .1.: Entwicklung des MaximiliansForums
+- TOP .2.: Stellungnahme zum Antrag der CSU-Fraktion im Stadtrat: Verbesserte Bürgerbeteiligung ? Information über stadtteilbezogene Themen optimieren
+- TOP .1.: Gespräch mit dem Planungsreferat über Zweckentfremdung von Wohnraum im Unterausschuss am 12.09.2011
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Prinzregentenstraße 54: Nutzungsänderungen
+- TOP .2.: Thierschplatz 6: Errichtung einer Freischankfläche
+- TOP .3.: Promenadeplatz 3: Umbau eines Wirtsgartens
+- TOP .4.: Liebigstraße 28: Nutzungsänderung eines Ladenlokals zu einem Kindergarten
+- TOP .5.: Erhardstraße 12: Nutzungsänderung von Wohnen in Büro
+- TOP .6.: Adelgundenstraße 8: Dachgeschoss-Erhöhung, Fassadensanierung
+- TOP .7.: Praterinsel 5: Aufstellung einer historischen Biwak-Schachtel, Alpines Museum
+- TOP .1.: Bürger: Straßenmusik im Tal
+- TOP .2.: SPD-Fraktion: Sitzbänke am Thierschplatz
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Marktklause?, Frauenstraße 20: Genehmigung einer Freischankfläche
+- TOP .2.: Konditorei-Cafe ?Luitpold?, Briennerstraße 11: Genehmigung einer Freischankfläche
+- TOP .3.: NACHTRAG: ?Sitar?, Robert-Koch-Straße 4: Erweiterung einer bestehenden Freischankfläche
+- TOP .4.: NACHTRAG: ?XII Apostel?, Thierschplatz 6: Genehmigung einer Freischankfläche
+- TOP .5.: NACHTRAG: ?Vino Caffe?, Hochbrückenstraße 14: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Temporäre Verlegung von 2 Werbeverkaufsständen in der Fußgängerzone
+- TOP .2.: NACHTRAG: Christkindlmarkt 2012, Antrag auf zeitliche Verlängerung im Jahr 2012 durch Mitglieder des Stadtrates
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Informationsveranstaltung am 29.09.2011 anlässlich des Aktionstags zur Prävention der Glücksspielsucht, Neuhauser Straße
+- TOP .2.: Französischer Gourmetmarkt vom 05. - 08.10.2011, Rindermarkt
+- TOP .3.: Straßenbahn und Buscorso anlässl. 150 Jahre ÖPNV am 22.10.2011, mehrere Orte
+- TOP .4.: Lange Nacht der Münchner Museen am 15.10.2011, Odeonsplatz
+- TOP .5.: Informationsveranstaltung ?Streunerkatzen? am 21.10.2011, Neuhauser Straße
+- TOP .1.: Entfernung der Sitzbänke am Isartorplatz-Fortunabrunnen
+- TOP .2.: Erfahrungsbericht Isarinselfest 2011
+- TOP .1.: Beschriftung der Fahrbahn mit verkehrsrechtlichen Anordnungen
+- TOP .1.: Bürger: Rindermarkt/ Oberanger/ Rosental ? Fußgängerweg verlegen!
+- TOP .2.: Gemeinsamer Antrag des BA 1 und des BA 2: Verbesserung der Situation für Fußgänger und Radfahrer am Isartor/Breiterhof ? Verringerung der Beeinträchtigung durch abgestellte Fahrräder
+- TOP .3.: Bürger: Parkende Autos vs. Spielende Kinder am St.-Anna-Platz
+- TOP .4.: Bürger: Verkehrsampel Altstadtring / Maximilianstraße
+- TOP .5.: UA: Mehr Personal für die Verkehrsüberwachung
+- TOP .6.: Bürger: Taxistand Marienplatz
+- TOP .7.: Bündnis 90/ DIE Grünen: Sanierung der Straßenpflasterung in der Knöbelstraße zwischen Thierschstraße und Knöbelstraße 16 und der Adelgundenstraße zwischen Maximilianstraße und Knöbelstraße
+- TOP .8.: Bürger: Verkehrsführung für Krankenwaren des ?Roten Kreuz? im Lehel, Seitzstraße/Christophstraße
+- TOP .9.: SPD-Fraktion: Wiederherstellung des Marienhof nach den archäologischen Grabungen
+- TOP .1.: Fahrradabstellsatzung
+- TOP .2.: Halteverbot Bruder-/Unsöldstraße
+- TOP .3.: Baumfällung Salvatorstraße 2
+- TOP .4.: Verkehrsrechtliche Anordnung Anfahrtszone vor der Kinderkrippe Reitmorstraße 29
+- TOP .5.: Beschluss des Bauausschusses vom 18.10.2011: Sendlinger Straße zwischen Färbergraben und Hackenstraße
+- TOP .1.: Vorstellung der Winckelmann Akademie München ?Studieren ab 50 ? Kunst-geschichte vom Mittelalter bis zur Moderne? in der BA-Sitzung
+- TOP .1.: (E) Budget der Bezirksausschüsse Palais Mai Veranstaltung "Maxidrom" am 20.09.2011
+- TOP .1.: Teilnahme am Europäischen Tag des Nachbar
+- TOP .1.: Wiesn-Besuch am Freitag, den 30.09.2011, 17.00 Uhr
+- TOP .2.: Infoveranstaltung des Sozialreferats am 08.12.2011 ab 18.00 Uhr im Sitzungssaal 1082 am Orleansplatz 11
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Information zum Bauvorhaben Thierschplatz 3
+- TOP 0.5.: Information zum Bauvorhaben Prinzregentenstraße 54, TOP 2011.08 B 3.1.2
+- TOP 0.6.: Beschluss der Vollversammlung vom 27.07.2011: Platz der Opfer des Nationalssozialismus
+- TOP 0.7.: Antwortschreiben der LBK und Baugenehmigung Augustinerstraße 1, TOP 2011.05 B 3.1.9
+- TOP 0.8.: Eilentscheidung zum Bauvorhaben Sendlinger Straße 8
+- TOP 0.9.: Bekanntgabe im Planungsausschuss: ?Erwerbstätigenprognose für die LHM und die Landkreise der Planungsregion 14
+- TOP 0.10.: Vorbescheid Kapellenstraße 2, TOP 2011.07 B 3.1.3
+- TOP 0.11.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.12.: Beschluss des Sozialausschusses vom 22.09.2011: Verbot der Zweckentfremdung von Wohntaum, Schaffung von Ersatzwohnraum im gleichen Stadtviertel, BA-Antrag Nr. 08-14/ B 3039, TOP 2011.05 B 1.1
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Baustelleneinrichtung Oettingenstraße - Bürgerschreiben
+- TOP 0.6.: Markierung der Freischankfläche auf dem Platzl
+- TOP 0.7.: Antwortschreiben zum BA-Antrag Nr. 08-14 / 02620: Weihnachtsmärkte in der Innenstadt
+- TOP 0.8.: Eilentscheidung Ander Art Festival am 24.09.2011, Odeonsplatz
+- TOP 0.9.: Eilentscheidung Kunstprojekt ?Kulturtour mit Panzer?am 15.09.2011, verschiedene Orte
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Beschluss des Planungsausschusses vom 01.06.2011: Verkehrskonzept Münchner Norden
+- TOP 0.3.: Nachtbauarbeiten Jahresgenehmigung für ÖPNV Straßenbau
+- TOP 0.4.: Abdruck des Schreibens an die Regierung von Oberbayern wegen Planfeststellung 2. S-Bahnstammstrecke
+- TOP 0.5.: Antwortschreiben des Baureferats zur Neuregelung der Zufahrt auf den St.-Anna-Platz, TOP 2011.04 D 1.2
+- TOP 0.6.: Zwischennachricht zu einer BV-Empfehlung im Stadtbezirk 3 zur Ergänzung des Radweges am Oskar-von-Miller-Ring
+- TOP 0.7.: Antwortschreiben zum Antrag des BA 1 auf Geschwindigkeitskontrollen und Überwachung Hackenviertel, TOP 2011.07 D 1.1
+- TOP 0.8.: Fachgutachten zur abgelehnten Baumfällung Reitmorstraße 52
+- TOP 0.9.: Beschluss des Stadtrats vom 27.07.2011: Öffentliche WC-Anlagen Strategiekonzept, (Beschluss neben den UA-Fächern)
+- TOP 0.10.: Verlegung von Glasfaserkabeln im Lehel, evtl. Sondernutzungswiderrufe notwendig
+- TOP 0.11.: Nachtbauarbeiten Brückensanierung Maximilanstraße über Fabrikbach
+- TOP 0.12.: Nachrüstung des Altstadtringtunnels mit BOS-Funk
+- TOP 0.13.: Nachtbauarbeiten Westenriederstraße
+- TOP 0.1.: Information zum Bücherflohmarkt Lisar 2011
+- TOP 0.2.: Antrag des BA 15: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps
+- TOP 0.3.: Beschluss der Vollversammlung vom 27.07.2011: Kunst im Öffentlichen Raum
+- TOP 0.4.: Verwendungsnachweis und Dokumentation zum ?Figurenfestival?, TOP 2011.03 E 2.1
+- TOP 0.5.: Schreiben des Referats für Schule, Bildung Sport bzgl. der Mittagsbetreuung an der Grundschule St.-Anna-Straße
+- TOP 0.6.: Link zu Bericht auf Internetseite über ein vom BA gefördertes Projekt des Kinderschutz e.V. ?Kunst und Schule?
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
