@@ -1,0 +1,6 @@
+# TOP 7: Anregungen/Anträge und Anfragen
+
+- Sitzung: 19. Sitzung (2011-09-20)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/108554
