@@ -1,0 +1,60 @@
+# 14. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-09-21T17:06:00+02:00
+- Ende: 2011-09-21T19:52:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7798
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7798
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00313688.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP 1.1: Beachtung der DIN 18040-1und weiterer DIN, die Herstellung von Barrierefreiheit dienen, bei städtischen Baumaßnahmen und im Genehmigungsverfahren - verwiesen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion A-R/0054/2011 "Bemühungen zur Erhöhung der Beschäftigungsquote von schwerbehinderten Menschen intensivieren" - einstimmig beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion Nr. A-R/0045/2011 "UN-Behindertenrechtskonvention umsetzen - Münster aktiv für Inklusion" - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat der Stadt Münster, - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat Nr. 40/2011 "Den Radverkehr der Zukunft ermöglichen - "Fahrradschnellstraßen" (ADFC) für Münster" - einstimmig beschlossen
+- TOP 2.5: Antrag der Ratsgruppe UWG/ÖDP im Rat der Stadt Münster Nr. A-R/0055/2011 "Schulentwicklungsplanung, Ausbau der u3-/ü3-Betreuung, Haushaltskonsolidierung" vom 05.07.2011 - mehrheitlich beschlossen
+- TOP 2.6: Antrag der FDP-Ratsfraktion Nr. A-R/0017/2011 vom 23.02.2011 - einstimmig beschlossen
+- TOP 2.7: Antrag der CDU-Fraktion an den Rat, Nr. A-R/0041/2011 - einstimmig beschlossen
+- TOP 2.8: Antrag der CDU-Fraktion, A-R/0044/2011 vom 05.07.2011 - "inFarming - vertikale Landwirtschaft auf den Dächern von Münster" - einstimmig beschlossen
+- TOP 2.9: Antrag der SPD-Fraktion an den Rat Nr. A-R/0032/2011 "Sozial, attraktiv, lebendig: Für ein kommunales Konzept zur zukünftigen Nutzung der bisherigen britischen Famileinwohnungen" - einstimmig beschlossen
+- TOP 3: Förderung von Stadterneuerungsprojekten - Sachstand Programmjahr 2011 - zur Kenntnis genommen
+- TOP 4: Einrichtung eines interfraktionellen Arbeitskreises "Wohnungslosigkeit" - einstimmig beschlossen
+- TOP 5: Sachstandsbericht zum Thema Hundetoiletten sowie Automaten für Abfallbeutel (Vorlage V/0664/2010/1) - zur Kenntnis genommen
+- TOP 6: Auslobung des 6. Entwicklungspolitischen Nord-Süd-Preises der Stadt Münster/ bürger:sinn:stiftung 2012 - vertagt
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2011 - zur Kenntnis genommen
+- TOP 8: 2. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2011 - einstimmig beschlossen
+- TOP 9: Bürgerhaushalt 2011 - zur Kenntnis genommen
+- TOP 10: "Public Corporate Governance Kodex" für die Stadt Münster und ihre Beteiligungen - einstimmig beschlossen
+- TOP 10.1: "Public Corporate Governance Kodex" für die Stadt Münster und ihre Beteiligungen
+- TOP 11: Atomstromfreies Münster bis 2020 - Ausbaustrategie für klimaschonende Energieerzeugung durch die Stadtwerke Münster GmbH - ohne Beschlussfassung geschoben
+- TOP 12: Abschluss von Managementkontrakten
+- TOP 12.1: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2012 bis 2015 - ohne Beschlussfassung geschoben
+- TOP 12.2: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - einstimmig beschlossen
+- TOP 12.2.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015
+- TOP 13: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 14: Dritter Nahverkehrsplan Stadt Münster - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 14.1: Dritter Nahverkehrsplan Stadt Münster - Aufstellungsbeschluss
+- TOP 15: Förderrichtlinien Denkmalpflege der Stadt Münster - einstimmig beschlossen
+- TOP 16: Kindertagesbetreuungsbericht 2011/2012 - einstimmig geändert beschlossen
+- TOP 17: Genehmigung der Dringlichkeitsentscheidung: "Befristete Erweiterung der städt. Kita Eichenaue, Eichenaue 3, 48157 Münster-Handorf im Rahmen der notwendigen bedarfsgerechten Angebote zum Ausbau von Betreuungsplätzen ab dem Kindergartenjahr 2011/2012" - einstimmig beschlossen
+- TOP 18: Machbarkeitsstudie für den Bau eines neuen Hallenbades an gleicher Stelle des ehemaligen Südbades - von der Tagesordnung abgesetzt
+- TOP 19: Handlungskonzept zur Umsetzungskonzept des Klimaschutzkonzeptes 2020 für Münster Umsetzungskonzept für die Weiterentwicklung und den Ausbau der Öffentlichkeitsarbeit - ohne Beschlussfassung geschoben
+- TOP 20: Beirat für Klimaschutz Münster - einstimmig geändert beschlossen
+- TOP 21: Neufassung der Richtlinien für die Verleihung des Ehrenzeichens der Stadt Münster - einstimmig beschlossen
+- TOP 22: Bauleitplanung
+- TOP 22.1: Stadtbezirk Mitte
+- TOP 22.1.1: Veränderungssperre Nr. 102 für den Bereich des Bebauungsplans Nr. 532: Östlich der Straße "Am Schlossgarten" - einstimmig beschlossen
+- TOP 22.1.2: Aufhebung Durchführungsplan Nr. 33 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 23: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 24: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 25: Verschiedenes
