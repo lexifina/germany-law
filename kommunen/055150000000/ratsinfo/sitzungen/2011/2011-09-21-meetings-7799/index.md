@@ -1,0 +1,65 @@
+# 16. Sitzung (Einbringung Haushalt 2012)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-09-21T17:55:00+02:00
+- Ende: 2011-09-21T19:53:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7799
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7799
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00312714.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 3: Aktuelle Stunde
+- TOP 4: Eingänge und Mitteilungen
+- TOP 5: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 5.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 6: Anfragen von Ratsmitgliedern
+- TOP 7: Anregungen der Bezirksvertretungen
+- TOP 8: Anregungen des Integrationsrates
+- TOP 9: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 10: Haushalt 2012
+- TOP 10.1: Einbringung des Entwurfes der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2012
+- TOP 10.2: Bürgerhaushalt 2011 - zur Kenntnis genommen
+- TOP 10.3: Bürgerhaushalt 2011 - hier: Einbringung der 90 bestplatzierten Bürgervorschläge - einstimmig beschlossen
+- TOP 10.4: Ergänzende Investitionsmaßnahmen zum Haushaltsplan 2012 - einstimmig beschlossen
+- TOP 10.5: Optimierung bürgerorientierter Dienstleistungen: - Sanierung Stadthaus 1 - - Vorlage eingebracht
+- TOP 10.6: Entwurf der Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2012 - einstimmig beschlossen
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 1. Halbjahr 2011 - zur Kenntnis genommen
+- TOP 12: 2. Nachtragssatzung der Stadt Münster für das Haushaltsjahr 2011 - einstimmig beschlossen
+- TOP 13: "Public Corporate Governance Kodex" für die Stadt Münster und ihre Beteiligungen - einstimmig beschlossen
+- TOP 13.1: "Public Corporate Governance Kodex" für die Stadt Münster und ihre Beteiligungen
+- TOP 14: Atomstromfreies Münster bis 2020 - Ausbaustrategie für klimaschonende Energieerzeugung durch die Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 15: Abschluss von Managementkontrakten
+- TOP 15.1: Abschluss eines Managementkontraktes (MMK) mit der Wohn+Stadtbau GmbH (W+S) für die Jahre 2012 bis 2015 - mehrheitlich beschlossen
+- TOP 15.2: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015 - einstimmig beschlossen
+- TOP 15.2.1: Abschluss eines Managementkontraktes (MMK) mit der Stadtwerke Münster GmbH für die Jahre 2011 bis 2015
+- TOP 16: Genehmigung einer Dringlichkeitsentscheidung - einstimmig beschlossen
+- TOP 17: Dritter Nahverkehrsplan Stadt Münster - Aufstellungsbeschluss - einstimmig beschlossen
+- TOP 17.1: Dritter Nahverkehrsplan Stadt Münster - Aufstellungsbeschluss
+- TOP 18: Förderrichtlinien Denkmalpflege der Stadt Münster - einstimmig beschlossen
+- TOP 19: Kindertagesbetreuungsbericht 2011/2012 - einstimmig geändert beschlossen
+- TOP 20: Genehmigung der Dringlichkeitsentscheidung: "Befristete Erweiterung der städt. Kita Eichenaue, Eichenaue 3, 48157 Münster-Handorf im Rahmen der notwendigen bedarfsgerechten Angebote zum Ausbau von Betreuungsplätzen ab dem Kindergartenjahr 2011/2012" - einstimmig beschlossen
+- TOP 21: Machbarkeitsstudie für den Bau eines neuen Hallenbades an gleicher Stelle des ehemaligen Südbades - von der Tagesordnung abgesetzt
+- TOP 22: Handlungskonzept zur Umsetzungskonzept des Klimaschutzkonzeptes 2020 für Münster Umsetzungskonzept für die Weiterentwicklung und den Ausbau der Öffentlichkeitsarbeit - einstimmig geändert beschlossen
+- TOP 23: Beirat für Klimaschutz Münster - einstimmig geändert beschlossen
+- TOP 24: Neufassung der Richtlinien für die Verleihung des Ehrenzeichens der Stadt Münster - einstimmig beschlossen
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Münster-Mitte
+- TOP 25.1.1: Veränderungssperre Nr. 102 für den Bereich des Bebauungsplans Nr. 532: Östlich der Straße "Am Schlossgarten" - einstimmig beschlossen
+- TOP 25.1.2: Aufhebung Durchführungsplan Nr. 33 - Satzungsbeschluss - einstimmig beschlossen
+- TOP 26: 1. Satzung zur Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster 2. Besetzung des Beirates für Stadtgestaltung - einstimmig beschlossen
+- TOP 26.1: 1. Satzung zur Änderung der Satzung für den Beirat für Stadtgestaltung der Stadt Münster 2. Besetzung des Beirates für Stadtgestaltung
+- TOP 27: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 28: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 29.1: Transparenz und Demokratie in der Verwaltungsspitze - mehrheitlich abgelehnt
+- TOP 30: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 30.1: Photovoltaik-Anlagen auf Sportanlagen fördern - verwiesen
+- TOP 30.2: Gewerbliche Schwarzarbeit bekämpfen - Arbeitsplätze sichern - verwiesen
+- TOP 31: Verschiedenes
