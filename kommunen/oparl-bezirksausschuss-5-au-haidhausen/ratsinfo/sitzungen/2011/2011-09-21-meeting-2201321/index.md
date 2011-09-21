@@ -1,0 +1,115 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-09-21T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201321
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201321
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Zuschuss für das Sommerfest des Adelgundenheims
+- TOP .2.: Briefkästen am Ostbahnhof
+- TOP .3.: Eisenbahnlärm in der Au
+- TOP .4.: Lärmbelästigung durch die Rakete Bar
+- TOP .5.: Umbau des Wartehäusls an der Südseite der Grundschule in der Ohlmüllerstraße zur Radstellanlage
+- TOP .6.: Baustelle am Preysingplatz
+- TOP .7.: Ampel Innere Wiener Str. / Stubenvollstr. und Ampel unterhalb der Maximiliansanlagen, Verkehrssituation Maximilianeum
+- TOP .8.: Spielplatz am Preysinggarten
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Nachbarschaftshilfe in der Au e.V. Erstellung einer Homepage - <div>abweichend</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Projekt-Laden International Haidhausen IGH-Jugendfest am 08.10.2011 - <div>abweichend</div>
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Lothringer Str. 17, ?Buch.Laden?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>nach Entscheidungsvorschlag</div>
+- TOP .2.: Lilienstr. 2, ?Dreigroschenkeller?: Änderung der bisher genehmigten Freischankfläche / Verlegung von der Lilienstraße in die Zeppelinstraße - <div>nach Entscheidungsvorschlag</div>
+- TOP .3.: Breisacher Str. 10, ?Die Agenten Medienberatung?: Aufstellen eines mobilen Fahrradständers - <div>abweichend</div>
+- TOP .4.: Innere Wiener Straße 32, ?Crêperie Bernard et Bernard?: Erweiterung der bestehenden Freischankfläche - <div>nach Entscheidungsvorschlag</div>
+- TOP .5.: Max-Weber-Platz 10, ?TeePraline?: Genehmigung einer Freischankfläche - <div>vertagt</div>
+- TOP .6.: Ohlmüllerstr. 11, ?Pils-Klause?: Genehmigung einer Freischankfläche - <div>nach Entscheidungsvorschlag</div>
+- TOP .7.: Oefelestr.12, ?Miss Lilly?: Genehmigung einer Freischankfläche - <div>vertagt</div>
+- TOP .8.: Innere Wiener Str. 57, ?San Francisco Coffee Company?: Genehmigung einer Freischankfläche; hier: Schreiben der BI vom 31.08.2011 - <div>abweichend</div>
+- TOP .9.: Rosenheimer Str. 125, ?Lisalu?: Aufstellen von Verkaufseinrichtungen auf öffentlichem Verkehrsgrund; hier: Schreiben der BI vom 31.08.2011 - <div>nach Entscheidungsvorschlag</div>
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Sanierung und Aufwertung der öffentlichen Grünfläche am St.-Wolfgangs-Platz, Entscheidung über die Projektplanung - <div>abweichend</div>
+- TOP 2: (E) Errichtung von Barrieren zur Kenntlichmachung von Fußwegen in der Grünanlage zwischen Reichenbach- und Corneliusbrücke Empfehlung Nr. 08-14 / E 00864 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 03.02.2011 - <div>Abweichung von Referentenvorl.</div>
+- TOP 2.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 5 Au-Haidhausen Widmungserweiterung einer Teilstrecke des Riggauerweges - <div>nach Antrag</div>
+- TOP 2.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 2.1.: Verkehrsspiegel für den Radtunnel unter dem Ostbahnhof
+- TOP 2.2.: Keine Vorwegmaßnahmen zur 2. Stammstrecke
+- TOP 2.3.: Zulässigkeit von Baumaßnahmen über städtebauliche Verträge an die Realisierung von preislimitierten Anwohnerstellplätzen binden (BA-Antrag Nr. 08-14/ B 02818); Bezuschussung von Anwohnerstellplätzen in der Welfenstraße, ergänzendes Schreiben zum BA-Antrag 08-14/ B 02476
+- TOP 2.4.: Grund für die Liftabschaltung am S-Bahnhof Rosenheimer Platz während der letzten Baumaßnahme
+- TOP 2.5.: Bebauungspläne im Stadtbezirk 5 aktualisieren
+- TOP 2.6.: Winterdienst auf Bürgersteigen und Radwegen
+- TOP 2.7.: Einbau von Gehwegnasen und Versetzung der Lichtzeichenanlagen am südöstlichen Ende des Bordeauxplatzes
+- TOP 2.8.: Verlängerung der Querungszeit für Fußgänger unter dem Aspekt der Art. 9 und Art. 20 Behindertenrechtskonvention
+- TOP 2.9.: Reparatur der Sitzbank Preysingstraße 58
+- TOP 2.10.: Nahverkehrsplan: Tram nach Ramersdorf-Perlach
+- TOP 2.11.: Absenkung eines Randsteines vor der Kirchenstraße 96
+- TOP 2.8.2: Reaktionen auf BA-Schreiben
+- TOP 2.1.: Wiederanbringung der Markierung bei der Metzstraße 29, Schreiben des Kreisverwaltungsreferats vom 29.07.2011
+- TOP 2.2.: Brunnen am Orleansplatz, Mitteilung des Baureferats vom 29.07.2011
+- TOP 2.3.: Erinnerungsorte München / NS-Geschichte; Schreiben des Kulturreferats vom 03.08.2011
+- TOP 2.4.: Behindertenparkplätze am Bürgerbüro Orleansplatz, Schreiben des KVR vom 08.08.2011
+- TOP 2.5.: Beschlussvorlage ?Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München?, Schreiben des Referats für Stadtplanung und Bauordnung vom 04.08.2011
+- TOP 2.6.: Abzweigung von der Orleansstraße zum Ostbahnhof, Schreiben des KVR vom 07.09.2011
+- TOP 2.8.3: Sonstige Unterrichtungen
+- TOP 2.1.: Rosenheimer Straße ? Radfahrstreifen Südseite, Schreiben des Baureferats vom 05.08.2011 zur Dauer der Bauarbeiten
+- TOP 2.2.: Städt. Sportanlage an der Sieboldstraße 4, Großinstandsetzung der Freisportfläche, Projektgenehmigung
+- TOP 2.3.: 26. München Marathon; Eilentscheidung der Vorsitzenden vom 11.08.2011
+- TOP 2.4.: Barrierefreier Zugang zur Mariahilfkirche, Schreiben des Sozialreferats vom 16.08.2011
+- TOP 2.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 2.1.: Regsam
+- TOP 2.2.: Kinder und Jugend
+- TOP 2.3.: Behinderte und Barrierefreiheit
+- TOP 2.4.: Ausländer und Flüchtlinge
+- TOP 2.5.: Frauen und Mädchen
+- TOP 2.1.: Treffen der Gleichstellungsbeauftragten
+- TOP 2.6.: Internet
+- TOP 2.7.: Baumschutz
+- TOP 2.1.: Umsetzung der UN-Behindertenrechtskonvention (BA-Antrag Nr. 08-14/ B 02924)
+- TOP 2.2.: Intelligente Wohnungen für Senioren und junge Menschen mit Handicaps, Antrag des BA 15 zur Kenntnisnahme
+- TOP 2.3.: ?Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14?, Untersuchung der empirica AG, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 2.1.: Straßenbahn- und Buscorso anlässlich ?150 Jahre ÖPNV in München? am 22.10.2011
+- TOP 2.2.: Erfahrungsbericht Isarinselfest 2011
+- TOP 2.1.: Bericht vom Ortstermin mit der BI am Regerplatz 2, Lokal ?La Grappa?; Schreiben der BI vom 09.08.2011
+- TOP 2.1.: Einsteinstr. 28: Neubau der Turnhalle, Ergänzungsbau für die Kirchenschule
+- TOP 2.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich II/19 und Bebauungsplan mit Grünordnung Nr. 2038 Vogelweideplatz Prinzregentenstraße (südlich), Riedenburger Straße (westlich), Truderinger Straße (nördlich)
+- TOP 2.3.: Planungsgebiet Rund um den Ostbahnhof; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 2.4.: Johannisplatz 15: Anbau eines Außenlifts im Hinterhof (Zugang über Treppenhaus), DG-Ausbau und -Erweiterung zu Wohnzwecken mit Errichtung einer Loggia, einer Gaube und von Dachflächenfenstern
+- TOP 2.5.: Edlingerstr. 25: DG-Ausbau und Erweiterung eines Wohnhauses - VORBESCHEID
+- TOP 2.6.: Innere Wiener Str. 26: Fassadensanierung, Abbruch von Balkonen und Anbau neuer Balkone an ein denkmalgeschütztes Mehrfamilienhaus
+- TOP 2.7.: Kellerstr. 37: Umbau einer Werkstatt in drei Wohnungen
+- TOP 2.8.: Kirchenstr. 14: Umbau und Sanierung eines Herbergshauses (3 Einheiten) sowie Einbau von Gauben und einer Dachterrasse
+- TOP 2.9.: Breisacher Str. 20: DG-Ausbau im Rück- und Seitengebäude
+- TOP 2.10.: Walserstr. 8: Abbruch und Neubau eines Wohngebäudes (VGB)
+- TOP 2.11.: Sedanstr. 13: Modernisierung eines denkmalgeschützten Wohnhauses mit gewerblichen Nutzungseinheiten im EG, Balkonerweiterungen und Anbau zweier außenliegender Personenaufzüge
+- TOP 2.12.: Änderung der BA-Satzung: Generelles Anhörungsrecht beim Vollzug der Zweckentfremdungssatzung
+- TOP 2.1.: Baumaßnahme Grillparzerstraße zwischen Prinzregenten- und Einsteinstraße
+- TOP 2.2.: Bürgeranliegen: Lothringer Straße zwischen Pariser Straße und Orleansstraße als Einbahnstraße ausweisen, Halteverbot in der Lothringer Straße bis zur Ausfahrt der Tiefgarage
+- TOP 2.1.: Verkehrsrechtliche Anordnung: Parkraummanagement, Parklinzenzgebiet ?Franziskanerstraße?; Umwandlung der Mischparkregelung im Bereich Hochstraße zwischen Höhe Gebsattel- und Rablstraße in reines Bewohnerparken
+- TOP 2.2.: Sanierung der Brücke der Regerstraße über den Eisenbahn-Südring, Schreiben des Baureferats vom 28.06.2011
+- TOP 2.3.: Unterrichtung über das Fällen von Gefahrenbäumen, Schreiben des Baureferat - Gartenbau vom 10.08.2011
+- TOP 2.1.: Berichte von wahrgenommenen Terminen
+- TOP 2.2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mittwoch, 05.10.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Dienstag, 04.10.2011 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 11.10.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 13.10.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 10.10.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 2.3.: Nächste BA-Sitzung
+- TOP 2.1.: Mittwoch, 19.10.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 2.4.: Sonstige Termine
+- TOP 2.1.: Ergebnisse der Evaluation zu den REGSAM-Gebieten mit besonderem Handlungsbedarf, 25.10.2011, 14.00-17.00 Uhr, Kulturhaus Ramersdorf-Perlach, Hanns-Seidel-Platz 1
+- TOP 2.2.: Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 08.12.2011, ab 18.00 Uhr, Orleansplatz 11, Sitzungssaal 1082
+- TOP 2.3.: Ausstellung ?Münchner Schulwettbewerb zur Stadtentwicklung?, Führungen am 15. und 22.09.2011, jeweils 19.00 Uhr, im PlanTreff, Blumenstr. 31
+- TOP 2.4.: Energieeffizienz im Einzelhandel, 13.10.2011, 09.00-13.55 Uhr, Bauzentrum München, Willy-Brandt-Allee 10
+- TOP 2.1.: Entscheidungen
+- TOP 2.2.: Anhörungen
+- TOP 2.3.: Unterrichtungen
