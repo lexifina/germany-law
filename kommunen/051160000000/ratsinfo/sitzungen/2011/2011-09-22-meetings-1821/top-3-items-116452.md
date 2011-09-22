@@ -1,0 +1,8 @@
+# TOP 3: HSK 2010 - Sachstandsbericht über die im Kulturausschuss beratenen
+
+- Sitzung: Kulturausschuss (2011-09-22)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/116452
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/13071
