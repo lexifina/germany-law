@@ -1,0 +1,53 @@
+# Bezirksvertretung 9
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-09-23T16:00:00+02:00
+- Ende: 2011-09-23T18:40:00+02:00
+- Ort: Benrodestraße 46, 40597 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/40
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5059
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5059
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164661.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164661.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164661.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - einstimmig beschlossen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Plan-Nr.: 5971/028 -Nördlich Henkelstraße- - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 10: Anfrage: Schulmensen in den Gymnasien Koblenzer Str, Schlossgymnasium und Anette-von-Droste-Hülshoff - beantwortet
+- TOP 11: Anfrage: Kinder- und Jugendbetreuung in Holthausen - beantwortet
+- TOP 12: Anfrage: Hochbahnsteige - beantwortet
+- TOP 13: Anfrage: Wohnungsbau Friedhof Itterstraße - beantwortet
+- TOP 14: Anfrage: Friedhof Itter, geplante Wohnbebauung - beantwortet
+- TOP 15: Anfrage: Radweg Ickerswarder Straße - beantwortet
+- TOP 16: Anfrage: A 46 - Lärmschutz - vertagt
+- TOP 17: Anfrage: Reithalle Gut Niederheid - beantwortet
+- TOP 18: Anfrage: Brände in der Wohnanlage Hassels-Nord - beantwortet
+- TOP 19: Anfrage: Hochhaus Potsdamer Str. 45 - beantwortet
+- TOP 20: Antrag: Anwohnerkonferenz in Hassels-Nord - zur Kenntnis genommen
+- TOP 21: Antrag: Hassels Nord - Stadtteilentwicklungskonzept - einstimmig beschlossen
+- TOP 22: Antrag: Instandhaltungs- und Modernisierungsplanung für die Siedlung Hassels-Nord - einstimmig beschlossen
+- TOP 23: Antrag: Radweg in Urdenbach - zurückgezogen
+- TOP 24: Antrag: Signalgesicherte Fußgängerquerung in Urdenbach - mehrheitlich abgelehnt
+- TOP 25: Antrag: Schriftliche Antwort auf Anfragen - mehrheitlich abgelehnt
+- TOP 26: Antrag: Verfügungsmittel Martinsfreunde Hassels - einstimmig beschlossen
+- TOP 27: Antrag: Verfügungsmittel Märchenfieber - einstimmig beschlossen
+- TOP 28: Antrag: Verfügungsmittel Heimatverein Holthausen Itter Himmelgeist e.V. - einstimmig beschlossen
+- TOP 29: Antrag: Verfügungsmittel Heimatverein e.V. - einstimmig beschlossen
+- TOP 30: Antrag: Verfügungsmittel "Reisholzer Quatschköpp e.V." - einstimmig beschlossen
+- TOP 31: Antrag: Verfügungsmittel GGS Südallee - einstimmig beschlossen
+- TOP 32: Antrag: Verfügungsmittel Bürger- und Heimatverein Reisholz e.V. - einstimmig beschlossen
+- TOP 33: Antrag: Verfügungsmittel "Aktion Weihnachtsbaum für Hassels" - einstimmig beschlossen
+- TOP 34: Antrag: Verfügungsmittel St. Sebastianus Schützenbruderschaft Himmelgeist - einstimmig beschlossen
+- TOP 35: Antag: Verfügungsmittel Diakonie, Zentrum plus - einstimmig beschlossen
+- TOP 36: Unterhaltung von Grundstücken und baulichen Anlagen der Bezirksvertretung im Stadtbezirk 9; Gut Niederheid - einstimmig beschlossen
