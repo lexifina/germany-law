@@ -1,0 +1,52 @@
+# Planungs- und Bauausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2011-09-27T15:00:00+02:00
+- Ende: 2011-09-27T20:23:00+02:00
+- Ort: ist der Presseinformation zu entnehmen
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/82
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1878
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1878
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift 17.05.2011 - Zur Kenntnis genommen
+- TOP 2: Niederschrift 28.06.2011 - Zur Kenntnis genommen
+- TOP 3: Lärmaktionsplan - Mit Stimmenmehrheit beschlossen
+- TOP 4: Handlungskonzept Wohnen für die Stadt Mönchengladbach - Einstimmiger Beschluss
+- TOP 5: 200. Änderung des Flächennutzungsplanes - Mit Stimmenmehrheit beschlossen
+- TOP 6: Masterplan Mönchengladbach - Kenntnisnahme
+- TOP 7: Bericht über einen beabsichtigten Ausbau des FTTH (Fiber to the Home) Glasfaserkabelnetz - Kenntnisnahme
+- TOP 8: Hochwassermanagement - Kenntnisnahme
+- TOP 9: Anpassung der Immissionsschutzplanung am künftigen Tagebaurand bei Wanlo - Einstimmiger Beschluss
+- TOP 10: Erster Nachtrag zur Fristensatzung und dreiundvierzigster Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 11: VBP Nr. 742/N - Stadtbezirk Nord, Viersener Straße - Einstimmiger Beschluss
+- TOP 12: Bebauungsplan Nr. 744/S - Stadtbezirk Süd - Odenkirchen - Kenntnisnahme
+- TOP 13: Bebauungsplan Nr. 745/S - Stadtbezirk Süd - Güdderath - Kenntnisnahme
+- TOP 14: Verkehrstechnische Untersuchung Regiopark - Kenntnisnahme
+- TOP 15: Aufstellung eines Bebauungsplanes - Stadtbezirk Nord - - Einstimmiger Beschluss
+- TOP 16: Bebauungsplan Nr. 705/N - Einstimmiger Beschluss
+- TOP 17: Bebauungsplan Nr. 712/N - Stadtbezirk Nord - Einstimmiger Beschluss
+- TOP 18: Bebauungsplan Nr. 724/N - Stadtbezirk Nord - Am Wasserturm - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 707/S - Stadtbezirk Süd - Odenkirchen - Einstimmiger Beschluss
+- TOP 20: Bebauungsplan Nr. 717/N - Stadtbezirk Nord - Am wasserturm - Einstimmiger Beschluss
+- TOP 21: Bewohnerparken Ludwig-Weber-Straße/ Am Steinberg - Einstimmiger Beschluss
+- TOP 22: Satzung Verlängerung Veränderungssperre Hindenburgstraße - Einstimmiger Beschluss
+- TOP 23: Satzung Veränderungssperre Peter-Nonnenmühlen-Allee - Einstimmiger Beschluss
+- TOP 24: Satzung Verlängerung Veränderungssperre Hauptstraße - Einstimmiger Beschluss
+- TOP 25: Bebauungsplan Nr. 701/O - Stadtbezirk Ost - Lürriper Straße - Einstimmiger Beschluss
+- TOP 26: 1. Änderung des Bebauungsplanes Nr. 658/IV - Mit Stimmenmehrheit beschlossen
+- TOP 27: Bebauungsplan Nr. 718/O - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 28: Teilnahme an der Floriade 2012 - Kenntnisnahme
+- TOP 29: Innenstadtkonzept Rheydt - Soziale Stadt - Kenntnisnahme
+- TOP 30: Verzeichnis über Beiträge nach dem BauGB und § 8 KAG - Kenntnisnahme
+- TOP 31: Mündl. Bericht Baumfällungen Winterhalbjahr 2011/2012 - Kenntnisnahme
+- TOP 32: Erneuerung der Reiterbrücke im Schlosspark Wickrath - Kenntnisnahme
+- TOP 33: Zwischenbericht der GSM für das 2. Quartal 2011 - Kenntnisnahme
+- TOP 34: Änderung des Oberbaus der Busspur Hindenburgstraße zwischen Stepgesstraße und ZOB - Von Verwaltung zurückgezogen
+- TOP 35: Busverkehr Hindenburgstraße - Einstimmiger Beschluss
+- TOP 36: Bike & Ride-Anlage und Buswartehäuschen in Hardt - Einstimmiger Beschluss
+- TOP 37: Berichte
+- TOP 38: Anfragen und Mitteilungen
