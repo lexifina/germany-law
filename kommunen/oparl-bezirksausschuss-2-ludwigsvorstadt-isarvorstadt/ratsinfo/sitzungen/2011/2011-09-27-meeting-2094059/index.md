@@ -1,0 +1,119 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-09-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2094059
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2094059
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP 4: Amtsverlust von Claudius Wolfrum und Vereidigung von Heinz Linde
+- TOP 5: Wahl der/des 1. stellvertretenden Vorsitzenden
+- TOP 2.5.: Sonstiges
+- TOP 6.1.: Erhaltungssatzung ?Am Glockenbach?
+- TOP 6.2.: Bündnis 90/DIE GRÜNEN / Rosa Liste: Beteiligung der LHM an der Versteigerung von Mietshäusern
+- TOP 6.1.: Einführung des europäischen "Tag des Nachbarn" in München (Ziffer 3)
+- TOP 6.1.: Vorkaufsrecht nach dem BauGB: - Waltherstraße
+- TOP 6.2.: Zweckentfremdung von Wohnraum:
+- TOP 6.3.: BA-Budget: Bescheide
+- TOP 6.4.: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14; Bekanntgabe Ausschuss Stadtplanung u. Bauordnung 28.09.2011
+- TOP 6.5.: Neugestaltung des Spielplatzes an der Lagerhausstraße
+- TOP 6.6.: BA-Budget: Projektbericht Canto Migrando 17.07.2011
+- TOP 6.7.: BA-Budget: Verwendungsnachweise (3)
+- TOP 6.5.1: Berichte der Beauftragten
+- TOP 6.3.1: Bauvorhaben
+- TOP 6.1.: Baaderstr. 1: Erweiterung Hotel, Umbau/Anbau Treppenhaus (EilE)
+- TOP 6.2.: Klenzestr. 87: Nutzungsänderung (EilE)
+- TOP 6.3.: Auenstr. 106: Neubau Wohnanlage mit KITA, 7 Läden und 2 Tiefgaragen
+- TOP 6.4.: Sonnenstraße 22: Nutzungsänderung Laden, Kellerräume zu Spielhallen, Wohnungen in Büros, Verkleinerung Ladeneinheit Kellergeschoss
+- TOP 6.5.: Maistraße 10: Dachgeschossausbau inklusive Dachterrassen, Balkonvergrößerungen
+- TOP 6.6.: Reichenbachstraße 18: Dachgeschossausbau, Nutzungsänderung (Tektur)
+- TOP 6.7.: Klenzestraße 1: Nutzungsänderung 2. Dachgeschoss
+- TOP 6.8.: Landwehrstraße 21: Nutzungsänderung Laden in Hotelbar und Kleinspielothek
+- TOP 6.9.: Bayerstraße 91: Umbau eines Imbiss mit Ausschank und Ladenlokal
+- TOP 6.10.: Baaderstraße 50: Dachgeschoss-Umbau (Tektur)
+- TOP 6.11.: Augsburgerstraße 19: Nutzungsänderung
+- TOP 6.12.: Geyerstraße 13: Dachgeschoss-Ausbau, Aufzug
+- TOP 6.13.: Schwanthalerstraße 42-44: Neubau eines Hotels mit Tiefgarage (Tektur)
+- TOP 6.14.: Paul-Heyse-Straße 30-32: Nutzungsänderung Umbau Büros zu Wohnungen
+- TOP 6.15.: Schwanthalerstraße 58: Errichtung eines Hotelgebäudes mit Restaurant
+- TOP 6.16.: Haydnstraße 4-8: Umbau und Nutzungsänderung in Wohnungen (Vorbescheid)
+- TOP 6.17.: Morassistraße 4: Erneuerung der Decke über dem Untergeschoss des Hinterhauses
+- TOP 6.18.: Baaderstraße 70: Sanierung eines Mietshauses mit Ausbau des Dachgeschosses PLENUMSBESCHLUSS
+- TOP 6.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 6.1.: Auenstr. 106-110 / Ehrengutstr. 29 / Isartalstr. 43
+- TOP 6.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 6.1.: Vollzug der Wassergesetze; Freilegung des Westermühlbaches Auenstraße (Rodenstockgelände)
+- TOP 6.2.: Bebauungsplan mit Grünordnung Nr. 2049: Marsstraße (südlich), Rundfunkplatz (westlich), Hopfenstraße (westlich), Herbststraße (östlich)
+- TOP 6.1.: Baumaßnahmen SWM: a) Stromprojekt Pestalozzistraße
+- TOP 6.2.: Radverkehrsanlagen in der Kapuzinerstraße, Zwischeninformation
+- TOP 6.3.: Mitteilung über Grundstücksgeschäft
+- TOP 6.4.: Beschluss des Bauausschusses vom 27.09.2011: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 6.5.: Antrag des BA 7 Sendling-Westpark: Maßnahmen gegen Spielsucht und Spielhallen
+- TOP 6.6.: Beschluss des Planungsausschusses vom 28.09.2011: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start und Landebahn
+- TOP 6.7.: Beschluss des Planungsausschusses vom 28.09.2011: Projekt Siedlungsentwicklung und Mobilität ? Ergebnisse und Weiterführung
+- TOP 6.8.: Beschluss des Planungsausschusses vom 28.09.2011: Beschlussvollzugskontrolle
+- TOP 6.9.: Baubeginnanzeigen Mobilfunk
+- TOP 6.10.: Beschluss des Planungsausschusses vom 28.09.2011: Förderung von Genossenschaften und Baugemeinschaften in München
+- TOP 6.11.: Beschluss des Planungsausschusses vom 28.09.2011: Stand der städtischen Kriminalprävention in München
+- TOP 6.12.: Beschluss des Planungsausschusses vom 28.09.2011: Beteiligung des Stadtrates bei Bauvorhaben im Landschaftsschutzgebiet Isarauen
+- TOP 6.13.: Beschluss des Planungsausschusses vom 28.09.2011: Erlass einer Erhaltungssatzung in den Stadtbezirken 4,11 und 12
+- TOP 6.5.1: Bericht des Beauftragten
+- TOP 6.2.1: Gaststättenangelegenheiten
+- TOP 6.1.: Rumfordstr. 2: Erweiterung FSF (Casa Della Pizza)
+- TOP 6.2.: Kapuzinerstraße 12: Erweiterung FSF (Güler's Backwaren)
+- TOP 6.3.: Thalkirchner Straße 12: Erweiterung FSF (Schnelle Liebe)
+- TOP 6.4.: Pestalozzistraße 7: Genehmigung FSF (Itxaso)
+- TOP 6.5.: Bayerstraße 3: Genehmigung FSF (35 mm)
+- TOP 6.6.: Fraunhoferstraße 20: Erweiterung FSF (Cafe Frenzy) Bitte der BI um Prüfung der BA-Entscheidung vom 30.08.2011
+- TOP 6.7.: Sonnenstraße 12: Sperrzeitaufhebung (Dunja) PLENUMSBESCHLUSS
+- TOP 6.8.: Schillerstraße 16: Genehmigung einer Freischankfläche (Trattoria l'Abbuffata) PLENUMSBESCHLUSS
+- TOP 6.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 6.1.: Reisingerstr. 3: Aufstellung Warenstellage
+- TOP 6.2.: Klenzestr. 52: Aufstellung Warenstellage (MCL Shop)
+- TOP 6.3.: Klenzestr. 58: Aufstellung Warenstellage (Fundgruber)
+- TOP 6.4.: Maistr. 1: Aufstellung Warenstellage
+- TOP 6.5.: Buttermelcherstr. 6: Aufstellung Warenstellage (Insight Garage art store)
+- TOP 6.6.: Jahnstr. 20: Aufstellung Warenstellage (Perlmuttchen)
+- TOP 6.7.: Jahnstr. 20: Aufstellung Warenstellage (Mädel, Gutes von Gestern)
+- TOP 6.8.: Häberlstr. 19: Aufstellung Warenstellage (Biago LONGO)
+- TOP 6.9.: Klenzestraße 37: Aufstellung Warenstellage (Ines Hackmann)
+- TOP 6.10.: Schillerstraße 3A: Aufstellung Warenstellage (Exchange AG)
+- TOP 6.2.3: Sonstige Entscheidungen
+- TOP 1: (E) Errichtung von Pollern in der Landwehrstraße zw. Sonnen- und Mathildenstraße
+- TOP 2: (E) Absenkung der Bordsteinkante in der Isartalstraße (Ziffer 2) Empfehlung Nr. 08-14 / E 00949 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 19.05.2011
+- TOP 2.3.2: Verkehr
+- TOP 2.1.: Verkürzung Haltverbot im Bereich Bushaltestelle Gärtnerplatz (Corneliusstraße)
+- TOP 2.2.: Straßenverlaufsänderungen: Auenstraße, Ehrengutstraße, Hefner-Alteneck-Straße, Wittelsbacherstraße
+- TOP 2.1.: Versammlungen unter freiem Himmel (0)
+- TOP 2.2.: Filmaufnahmen auf öffentlichem Grund (1)
+- TOP 2.3.: Unveränderte Gaststättenfortführungen: - Tumblingerstr. 17 (Raki Bar) - Lindwurmstr. 157 (Cafe Bistro Amazzon) - Reifenstuelstr. 1 (Ennstaler Stub'n) - Baaderstr. 68 (K50) - Schwanthalerstraße 22 (Bad Angel) - Lindwurmstraße 1 (Cafe Leo) - Mozartstraße 4 (Easy Lounge) - Tumblingerstraße 30 (Ballaro) - Fraunhoferstr. 6 (Sen)
+- TOP 2.4.: Verkehrsrechtliche Anordnungen: - Hotelanfahrtszone Schwanthalerstr. 20 - Hotelanfahrtszone Schwanthalerstr. 63 - Änderung Verkehrsführung bzw. Fahrbahnmarkierung soiwe Beschilderung für ruhenden Verkehr, Schwanthalerstraße
+- TOP 2.5.: Erlaubnisbescheide: - Straßenfest Pestalozzistraße am 03.09.2011
+- TOP 2.6.: Eilentscheidung des Vorsitzenden: Ausweichfläche für Freischank, Jahnstr. 36
+- TOP 2.7.: Öffentliche WC-Anlagen - Strategiekonzept; Beschluss Stadtrat 27.07.2011
+- TOP 2.8.: Errichtung einer Achtungsampel für Fußgänger am Baldeplatz
+- TOP 2.9.: Straßensanierung Buttermelcherstraße zwischen Reichenbachplatz und Klenzestraße
+- TOP 2.10.: Antwortschreiben des RAW zum Schreiben des BA vom 24.08.2011 und der BV-Empfehlung Nr. 08-14/742: Mobile Toilettenanlagen während der Wiesn in den angrenzenden Straßen
+- TOP 2.11.: Instandhaltung der Fahrbahn im Gleisbereich der Fraunhoferstraße
+- TOP 2.12.: Nächtliche Müllentsorgung zur Wiesnzeit
+- TOP 2.13.: Mail des KVR zur Freischankfläche des ?Zappeforster?
+- TOP 2.1.: Termine
+- TOP 2.1.: Einwohnerversammlung zum Thema "Klenzesteg - Ein neuer Weg über die Isar" am Mittwoch, den 28. September 2011, 19.00 Uhr, Pausenhalle der Hauptschule an der Wittelsbacherstraße, Wittelsbacherstraße 10, 80469 München
+- TOP 2.3.: Sonstiges / Verschiedenes
+- TOP 2.1.: Verbesserte Bürgerbeteiligung III (Anhörung DIR)
+- TOP 2.2.: Amtsverlust von Claudius Wolfrum und Vereidigung von Heinz Linde als neues Mitglied des BA 2
+- TOP 2.3.: Wahl der/des 1. stellvertretenden BA-Vorsitzenden
+- TOP 6.1.: Anträge
+- TOP 6.2.: Entscheidungen
+- TOP 2.3.: Anhörungen
+- TOP 2.4.: Unterrichtungen (siehe Beiblatt)
+- TOP 2.2.: Veranstaltungen
