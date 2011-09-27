@@ -1,0 +1,55 @@
+# Bezirksvertretung 5
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-09-27T16:00:00+02:00
+- Ende: 2011-09-27T18:43:00+02:00
+- Ort: Kaiserswerther Markt 23, 40489 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/36
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5060
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5060
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164665.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164665.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164665.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - zur Kenntnis genommen
+- TOP 2: Genehmigung Niederschrift 5/2011 - zur Kenntnis genommen
+- TOP 3: Kenntnisgabe: B-Plan Nr. 5282/020 - Niederrheinsstraße - zur Kenntnis genommen
+- TOP 4: Veränderungssperre - Niederrheinsstraüße - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9: Umbau Fliednerstraße - zur Kenntnis genommen
+- TOP 10: Trödelmärkte 4. Quartal 2011 - zur Kenntnis genommen
+- TOP 11: Weihnachtsmarkt Klemensplatz 2011 - zur Kenntnis genommen
+- TOP 12: Weinblütenfest 2012 - zur Kenntnis genommen
+- TOP 13: Neufassung der Parkgebührenordnung - zur Kenntnis genommen
+- TOP 14: Bauunterhaltung Dritter - TVA-Fettscheideanlage - zur Kenntnis genommen
+- TOP 15: Dringlichkeitsentscheidung Trödelmarkt - zur Kenntnis genommen
+- TOP 16: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 17: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 18: Entwicklung Schülerzahlen im Stb. 5 - zur Kenntnis genommen
+- TOP 19: Renaturierung Kittelbach - zur Kenntnis genommen
+- TOP 20: Trimm-Dich-Pfad Angermund - zur Kenntnis genommen
+- TOP 21: Schülerspezialverkehr - zur Kenntnis genommen
+- TOP 22: Nutzung der Park & Ride Parkplätze am S-Bahnhof Angermund - zur Kenntnis genommen
+- TOP 23: Golfpark Kalkum - zur Kenntnis genommen
+- TOP 24: Grundwasser Angermund - zur Kenntnis genommen
+- TOP 25: Kellerüberschwemmungen in Angermund in Zusammenhang mit den Tiefbau-Maßnahmen - zur Kenntnis genommen
+- TOP 26: Schleifergasse/Klemensplatz - Verbesserung der Verkehrssicherheit - zur Kenntnis genommen
+- TOP 27: Angermunder Straße/Ginsterweg - Querungshilfe - zur Kenntnis genommen
+- TOP 28: Kaiserswerth - von der Verwaltung geplanter Umbau der Fliednerstraße - zur Kenntnis genommen
+- TOP 29: Verkehrssicherheit am westlichen Ortseingang Angermund - zur Kenntnis genommen
+- TOP 30: Kaiserswerth - historische Gasleuchten - zur Kenntnis genommen
+- TOP 31: Parkplatz Angermunder Straße/In den Blamüsen - Parkscheibenregelung - zur Kenntnis genommen
+- TOP 32: Mitteilungen 27.09.2011 - zur Kenntnis genommen
+- TOP 33: Grundwassersituation im Düsseldorfer Norden, insbesondere Angermund - zur Kenntnis genommen
+- TOP 34: Übergabe Kita Zeppenheimer Weg an Kaiserswerther Diakonie - zur Kenntnis genommen
+- TOP 35: Erweiterte Nutzung der Neuen Medien in Grundschulen - zur Kenntnis genommen
+- TOP 36: Verschiedenes - zur Kenntnis genommen
+- TOP 37: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 38: Zuschuss an den Verein "Flossen weg" - zur Kenntnis genommen
