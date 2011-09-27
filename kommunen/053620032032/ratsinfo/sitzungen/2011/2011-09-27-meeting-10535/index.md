@@ -1,0 +1,57 @@
+# Haupt- und Finanzausschuss (14. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-09-27T17:00:00+02:00
+- Ende: 2011-09-27T18:42:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZfC-CcdSxiTZiZhmAZmf_q8
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10535
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZUBE0XqxwGkokuEgt7gPdhHPGIXxCZG50M4rVV-Mu2cg/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_27.09.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bestellung eines Schriftführers und zweier stellvertretender Schriftführer für die Erstellung der Niederschriften über die Ausschussbeschlüsse
+- TOP 2.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 13. Sitzung vom 05. Juli 2011
+- TOP 3.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk V
+- TOP 4.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 4.1: Anregung und Beschwerde gem. § 24 GO NRW; hier: Beleuchtung Verbindungsweg Götzenkirchen, Grubenallee - Horrem, Apollinarisstraße
+- TOP 4.2: Anregung und Beschwerde gem. § 24 GO NRW hier: Verkehrsprobleme im Stadtteil Buir
+- TOP 5.: Perspektiven 2012/2013 im Bereich der Städtepartnerschaft zwischen St. Vith, Oswiecim und Kerpen
+- TOP 6.: Umlegung "Burgackerstraße" in Kerpen Brüggen hier: Herrichtung einer Fläche für die weitere Nutzung der St.-Hubertus-Schützenbruderschaft Brüggen-Erft e. V. 1849
+- TOP 7.: Sachstandsbericht Burgackerstraße
+- TOP 8.: Flächentausch im Bebauungsplanbereich KE 344 „Stiftsstraße“
+- TOP 9.: Hochhaus Maastrichter Straße hier: Gutachten und weitere Vorgehensweise
+- TOP 10.: Mitgliedschaft als Kommune bei der „Charta der Vielfalt“
+- TOP 11.: Hundekot-Tütenspender und Anleinpflicht in geschlossenen Ortslagen hier: Sachstandsbericht
+- TOP 12.: Markterkundungsverfahren Erftlagune
+- TOP 13.: Betrieb des neuen Hallenbades Kerpen
+- TOP 14.: Entgeltordnung für die Nutzung städtischer Bäder
+- TOP 15.: Zeitliche Verschiebung der Heizungserneuerungen in der Feuerwache Kerpen und in dem Feuerwehrgerätehaus Sindorf
+- TOP 16.: Feuchtigkeitsschäden im Untergeschoss der Ulrichschule
+- TOP 17.: Konzept für die Sanierung des Europagymnasiums hier: Bereitstellung außerplanmäßiger Haushaltsmittel
+- TOP 18.: Überplanmäßige Bereitstellung von Haushaltsmitteln hier: Übermittagbetreuung Realschule im Schulzentrum Horrem/Sindorf, Kerpen
+- TOP 19.: Überplanmäßige Bereitstellung von Haushaltsmitteln hier: Übermittagbetreuung Gemeinschaftshauptschule Horrem, Kerpen
+- TOP 20.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 20.1: Außerplanmäßige Bereitstellung von Haushaltsmitteln hier: Aufstellung von Klassenraumcontainern als Ersatz für die zu sanierenden OGS - Räume in der Ulrichschule einschließlich der Miete für drei Monate
+- TOP 21.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen II. Quartal 2011
+- TOP 22.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 23.: Nutzung von Tankkarten für städtische Fahrzeuge
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 26.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 27.: Jahreswirtschaftsbericht 2010 der Wirtschaftsförderung
+- TOP 28.: Grunderwerb zum Ausbau der Hahnenstraße in Kerpen hier: Antrag auf Einleitung von Enteignungsverfahren und auf vorzeitige Besitzeinweisung
+- TOP 29.: Options – bzw. Kaufvereinbarungen zum Waldweggelände in Kerpen-Horrem
+- TOP 30.: Verkauf einer städtischen Teilfläche im Stadtteil Kerpen
+- TOP 31.: Pachtvertrag mit dem Tennis Club Schwarz-Weiß Neu-Bottenbroich e.V.
+- TOP 32.: Sachstandsbericht Grundstück "Alte Schule in Buir"
+- TOP 32a: Ausübung eines Vorkaufsrechtes in der Gemarkung Buir, Flur 14
+- TOP 33.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 33.1: EU-weite Ausschreibung von Versicherungsleistungen für Gebäude inkl. Inhalt und Ausstellungs- und Elektronikversicherung sowie fristgerechte Kündigung der derzeitigen Versicherungsverträge
+- TOP 34.: Mitteilungen
+- TOP 35.: Anfragen gem. § 18 Geschäftsordnung
