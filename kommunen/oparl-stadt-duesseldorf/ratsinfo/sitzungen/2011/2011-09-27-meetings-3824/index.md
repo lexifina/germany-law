@@ -1,0 +1,57 @@
+# Bezirksvertretung 10
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-09-27T16:00:00+02:00
+- Ende: 2011-09-27T18:20:00+02:00
+- Ort: Fritz-Erler-Straße 21, 40595 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/41
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3824
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3824
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00165038.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00165038.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00165038.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Anerkennung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung von Sachverständigen und Einwohnern - zur Kenntnis genommen
+- TOP 4: Berichte und Verwaltungsvorlagen - zur Kenntnis genommen
+- TOP 5: Bericht Jugendrat - zur Kenntnis genommen
+- TOP 6: "Düsseldorf für Kinder" - zur Kenntnis genommen
+- TOP 7: Wiederwahl des Schiedsmannes Jürgen Fallasch - einstimmig beschlossen
+- TOP 8: Trödelmärkte Schützenplatz - mehrheitlich beschlossen
+- TOP 9: Trödelmärkte Garath Zentrum - mehrheitlich beschlossen
+- TOP 10: Trödelmärkte P+R Parkplatz Hellerhof - mehrheitlich beschlossen
+- TOP 11: Baumfällung Kinderspielplatz Carl-Friedrich-Gördeler-Str. - einstimmig beschlossen
+- TOP 12: Anfragen - zur Kenntnis genommen
+- TOP 13: Nichtraucherschutz - schriftlich beantwortet
+- TOP 14: Beseitigung von Frostschäden - schriftlich beantwortet
+- TOP 15: Grünschnitt - schriftlich beantwortet
+- TOP 16: Heizkostenabrechnungen - schriftlich beantwortet
+- TOP 17: BSA Koblenzer Straße - schriftlich beantwortet
+- TOP 18: Beratungsangebot für Familien - schriftlich beantwortet
+- TOP 19: Benutzungspflicht von Radwegen - schriftlich beantwortet
+- TOP 20: Gabionenwand - schriftlich beantwortet
+- TOP 21: Deutsche Bank - beantwortet
+- TOP 22: Graffitientfernung - beantwortet
+- TOP 23: Stadtverkehrsförderung - schriftlich beantwortet
+- TOP 24: Pressearbeit der Bezirksverwaltungsstelle - beantwortet
+- TOP 25: Deutsche Bank Filiale - beantwortet
+- TOP 26: Anträge - zur Kenntnis genommen
+- TOP 27: Zuschussantrag - vertagt
+- TOP 28: Zuschussantrag - mehrheitlich abgelehnt
+- TOP 29: Beratungsstelle - mehrheitlich abgelehnt
+- TOP 30: Tütenspender für Hundekot - mehrheitlich abgelehnt
+- TOP 31: Stabezirkskonferenzen - mehrheitlich abgelehnt
+- TOP 32: Stadtteilmarketing - mehrheitlich abgelehnt
+- TOP 33: Piktogramme - einstimmig beschlossen
+- TOP 34: Partner-Filiale der Deutschen Post AG - einstimmig beschlossen
+- TOP 35: Defibrillatoren - zurückgezogen
+- TOP 36: Wohnungsmarktbericht - einstimmig beschlossen
+- TOP 37: Straßenreinigung - einstimmig beschlossen
+- TOP 38: Informationsvorlagen - zur Kenntnis genommen
+- TOP 39: Verschiedene Stellungnahmen - zur Kenntnis genommen
+- TOP 40: Erweiterte Nutzung der Neuen Medien in Grundschulen - zur Kenntnis genommen
