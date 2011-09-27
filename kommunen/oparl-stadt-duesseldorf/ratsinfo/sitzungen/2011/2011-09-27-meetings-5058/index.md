@@ -1,0 +1,63 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-09-27T17:00:00+02:00
+- Ende: 2011-09-27T20:30:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5058
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5058
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164767.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164767.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164767.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 2.1: Bildungs- und Teilhabegesetz (BuT) - zur Kenntnis genommen
+- TOP 2.2: Schatzkammer St. Margareta - zur Kenntnis genommen
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Zuschuss an den Düsseldorfer Sport Club 1899 e. V. - einstimmig beschlossen
+- TOP 5: Masterplan energieeffiziente Straßenbeleuchtung - vertagt
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.1: Neufassung der Parkgebührenordnung - mehrheitlich abgelehnt
+- TOP 8: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 9: Stadtbücherei Gerresheim - Aufzug - einstimmig beschlossen
+- TOP 10: Umbenennung der Straße "Am Wildpark" in "Am Ringofen" - einstimmig beschlossen
+- TOP 11: Grünanlage "Am Wallgraben" - einstimmig beschlossen
+- TOP 12: Opfer des Hexenprozesses von 1737 / 1738 rehabilitieren - mehrheitlich abgelehnt
+- TOP 13: Informationen über Stadtbezirkskonferenzen in Düsseldorf - mehrheitlich abgelehnt
+- TOP 14: Informationen über die Möglichkeiten und Grenzen eines BürgerInnenhaushaltes - mehrheitlich abgelehnt
+- TOP 15: Unterführung S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 16: Nutzungskonzept Gebäude S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 17: Zustände City-Bereich Gerresheim u.a. - einstimmig beschlossen
+- TOP 18: Verkehrssicherheit auf dem Fuß- und Radweg Neunzigstraße - einstimmig beschlossen
+- TOP 19: Verkehrssicherheit im Bereich der Kreuzung Benderstraße / Neunzigstraße / Dreherstraße - einstimmig beschlossen
+- TOP 20: Fläche Neunzigstraße/ Pfeffergässchen - mehrheitlich beschlossen
+- TOP 21: Verkehrssicherheit an signalisierten Überwegen - einstimmig beschlossen
+- TOP 22: Beschleunigung der 703 - mehrheitlich abgelehnt
+- TOP 22.1: Baurecht Ludenberg / Hubbelrath - einstimmig beschlossen
+- TOP 22.2: Sportanlagen im Stadtbezirk - vertagt
+- TOP 22.3: Segelflugplatz Gelände Aaper Wald - einstimmig beschlossen
+- TOP 23: Nutzung der Sitzungssäle in den Bezirksrathäusern - vertagt
+- TOP 24: Beratungsangebote für türkische Familien - zur Kenntnis genommen
+- TOP 25: Verkehrssichere und bequeme Wege im Ortskern Gerresheim - vertagt
+- TOP 26: LM-Markt Dreherstraße/ Magdeburger Straße/ Quellenbusch - vertagt
+- TOP 27: Erweiterte Nutzung der Neuen Medien in Grundschulen - zur Kenntnis genommen
+- TOP 28: Entfernung der Sträucher ARAL-Tankstelle Bergische Landstraße - zur Kenntnis genommen
+- TOP 29: Sachstandsbericht Turnhalle am Staufenplatz - zur Kenntnis genommen
+- TOP 30: Verkehrssituation Ludenberger Str. / Haltestelle "Vor der Hardt" - zur Kenntnis genommen
+- TOP 31: Fuß-/Radweg entlang der Erkrather Landstraße - zur Kenntnis genommen
+- TOP 32: Keine Glasflaschen beim Gerresheimer Veedelzoch - zur Kenntnis genommen
+- TOP 33: Moderationsverfahren Benderstraße - zur Kenntnis genommen
+- TOP 34: Wegebeziehung Ludenberger Str./Hirschburgweg/Pfeifferbrücke - zur Kenntnis genommen
+- TOP 35: Hochbehälteranlage Auf der Hardt - zur Kenntnis genommen
+- TOP 36: Funktionsfähigkeit von Sickergruben - zur Kenntnis genommen
+- TOP 37: Aufstellung von offenen Bücherschränken im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 38: Sachstandsbericht Bebauungspläne Ostparksiedlung - zur Kenntnis genommen
+- TOP 39: Erwerb des Jan-Wellem-Brunnens - zur Kenntnis genommen
+- TOP 40: Baurecht Ludenberg/Hubbelrath und Knittkuhler Straße/Stratenhof-Siedlung/BAB3 - zur Kenntnis genommen
