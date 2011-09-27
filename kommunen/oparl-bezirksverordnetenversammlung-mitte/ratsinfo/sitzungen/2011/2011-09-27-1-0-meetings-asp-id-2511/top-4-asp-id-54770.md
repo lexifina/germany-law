@@ -1,0 +1,7 @@
+# TOP 4: Beratung von Drucksachen
+
+- Sitzung: 53. öffentliche Sitzung des Hauptausschusses (2011-09-27)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=54770
+- Ergebnis: (offen)
