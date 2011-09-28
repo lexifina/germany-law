@@ -1,0 +1,14 @@
+# Beschlussfassung über den Jahresabschluss für das Wirtschaftsjahr 2010 des Abwasserbetriebes der Gemeinde Steinhagen
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-282-2009/2014 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2011-09-28
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQ4-dxPqcU5bGDRHkoTjVs0
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/1354
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschlussfassung über den Jahresabschluss für das Wirtschaftsjahr 2010 des Abwasserbetriebes der Gemeinde Steinhagen) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbJUZHdBkYGEaNYV26hUX3-mBSLTyFjW2YaPUSEV9G5v/Beschlussvorlage_VL-282-2009-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-282-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSBmkOI4NikCvvmXEBzMNKhDiLab8cNgCI1cVq8OUp7e/Anlage_zur_Beschlussvorlage_VL-282-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-282-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWxyoLS7D5Qe_KC4fZZkqlBfpF5ngGBk6wvHqYnyPKLs/Anlage_zur_Beschlussvorlage_VL-282-2009-2014.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/943 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-186
