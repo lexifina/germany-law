@@ -1,0 +1,28 @@
+# Beschlussfassung über den Entwurf des integrierten Handlungskonzeptes für den Ortskern Steinhagen incl. Festlegung des Sanierungsgebietes
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-302-2009/2014 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2011-09-28
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZW1SfFcFrTZjX9-30IS4b2U
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/1355
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschlussfassung über den Entwurf des integrierten Handlungskonzeptes für den Ortskern Steinhagen incl. Festlegung des Sanierungsgebietes) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeDO61ts1rShVo6XJXA6Nvm-Od2eVhxXRocZkEitz5VE/Beschlussvorlage_VL-302-2009-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdFbifaG60zhurDpt8EIgcxQnB-IWFNeNxsxIPPkuLWu/Anlage_1.pdf
+- Anlage: Beschlussvorlage (Anlage 2 - Teil 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjqssZruGHlGEgOKyzrb4IXsiqvib7_eGR_YehedWOT/Anlage_2_-_Teil_1.pdf
+- Anlage: Beschlussvorlage (Anlage 2 - Teil 2) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMG-85TwRCu-X4T_eizyBlkoos2-a7EyKRtJIGdf7OG/Anlage_2_-_Teil_2.pdf
+- Anlage: Beschlussvorlage (Anlage 2 - Teil 3) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRlMJ0IUwhmAzPGvwtf1ir_nJ4nAhp6q1aAqBABZODPG/Anlage_2_-_Teil_3.pdf
+- Anlage: Beschlussvorlage (Anlage 3 - Teil 1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTrGMYk_dYtTwrVUMqi9Lt8eIwEqO2riHNzcLTGbZqBL/Anlage_3_-_Teil_1.pdf
+- Anlage: Beschlussvorlage (Anlage 3 - Teil 2) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfLT_lUze86q7PnNgpkTGr15iS9bqs07xMGOekEvbbG6/Anlage_3_-_Teil_2.pdf
+- Anlage: Beschlussvorlage (Integriertes Handlungskonzept - Teil1) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTmlGsShr0HzxydZpFNXHl2UnVS2AYzBhPuzZtLgCC1S/Integriertes_Handlungskonzept_-_Teil1.pdf
+- Anlage: Beschlussvorlage (Integriertes Handlungskonzept - Teil 2) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZJuYoUasMAY_820E3DuUVjG26WvTkOyvuF1JoTvQXcA/Integriertes_Handlungskonzept_-_Teil_2.pdf
+- Anlage: Beschlussvorlage (Integriertes Handlungskonzept - Teil 3) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWfCWQik9lx83szUV8-z_4ZDf2TvySxjCEnkd5Qf2xqs/Integriertes_Handlungskonzept_-_Teil_3.pdf
+- Anlage: Beschlussvorlage (Grafik 1 zum IHK - Nutzungsstruktur) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZftwr4HuiVXeHabgDthtbCIJMqhXj9mU-AlQDTMKezX5/Grafik_1_zum_IHK_-_Nutzungsstruktur.pdf
+- Anlage: Beschlussvorlage (Grafik 2 zum IHK - Städtebauliche Struktur und Stadtgestaltung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUrrHnv0b91kfhn7FPt8NBdHEOwnjd2IcwwnRkGTen0x/Grafik_2_zum_IHK_-_Staedtebauliche_Struktur_und_Stadtgestaltung.pdf
+- Anlage: Beschlussvorlage (Grafik 3 zum IHK - Verkehrserschließung) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbXRTQLqOzXrS9YzL4RUZ3Hhwf3iBO-G3t7ZKzoiEhRb/Grafik_3_zum_IHK_-_Verkehrserschliessung.pdf
+- Anlage: Beschlussvorlage (Grafik 4 zum IHK - Grünstrukturen) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTYTfSj9hv0w7nWzx3BWKVlmhAjg75QMvWY-iXdVHIj-/Grafik_4_zum_IHK_-_Gruenstrukturen.pdf
+- Anlage: Beschlussvorlage (Grafik 5 zum IHK - Maßnahmenübersicht) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUoCp13ugI06HGU6CHu7zX-HFrI0y4hTU4IQBdV6LB_B/Grafik_5_zum_IHK_-_Massnahmenuebersicht.pdf
+- Anlage: Beschlussvorlage (Anlage 4) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdAHIZbvnyPdSSJ0tVstRBBPhRklbr7j5ItYeitMQ6zm/Anlage_4.pdf
+- Anlage: Beschlussvorlage (Anlage 5) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbqCpjcXNxFWnh6q6SCEhPcMsg1qvuXH2iwK2y2iDqFU/Anlage_5.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/943 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-182
