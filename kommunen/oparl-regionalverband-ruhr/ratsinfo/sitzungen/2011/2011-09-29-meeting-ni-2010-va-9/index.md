@@ -1,0 +1,54 @@
+# 8. Sitzung des Verbandsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2011-09-29T10:00:00+02:00
+- Ende: 2011-09-29T10:50:00+02:00
+- Ort: 
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VA
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VA-9
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VA-9
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VA-9
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VA-9
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Städtebauförderung Vorstellung des Stadterneuerungsprogramms 2011
+- TOP 1.2: Zielabweichungsverfahren von der Festlegung der zweckgebundenen Nutzung 'Erweiterung Möbelverteilzentrum' eines Bereichs für gewerbliche und industrielle Nutzung im Gebiet der Stadt Werne gemäß § 16 LPlG NRW Hier: Einvernehmen der Verbandsversammlung
+- TOP 1.3: Sachstandsbericht 7. Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln
+- TOP 1.4: Entwurf des Klimaschutzgesetzes NRW
+- TOP 1.4.1: Stellungnahme zum Entwurf eines Klimaschutzgesetzes NRW
+- TOP 1.5: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Prozess der Haushaltskonsolidierung beim Regionalverband Ruhr
+- TOP 2.2: Regionaler Diskurs - ...auf dem Weg in die Zukunft der Metropole Ruhr
+- TOP 2.3: ruhrFIS - Flächeninformationssystem Ruhr. Erhebung der Siedlungsflächenreserven
+- TOP 2.4: Analyse der Raum- und Siedlungsstruktur
+- TOP 2.5: KulturmetropoleRuhr - Perspektiven nach der Kulturhauptstadt (Verabredung RVR/Ministerium für Familie, Kinder, Jugend, Kultur und Sport des Landes NRW)
+- TOP 2.5.1: Kulturmetropole Ruhr: Vereinbarung Land-RVR Antrag der CDU-Fraktion im RVR
+- TOP 2.6: Erinnerungsorte Ruhr
+- TOP 2.6.1: Erinnerungsorte Ruhr - Antrag der CDU-Fraktion im RVR
+- TOP 2.7: Erhebung der Ausgaben der Mitgliedskommunen im Kulturbereich Antrag der Fraktion DIE LINKE vom 09.09.2011
+- TOP 2.8: Feststellung Jahresabschluss zum 31.12.2010 und Lagebericht der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün Zustimmung zur Entnahme aus der Allgemeinen Rücklage zum Ausgleich des Jahresverlustes 2010 Entlastung des Betriebsausschusses RVR Ruhr Grün gem. § 4 Eigenbetriebsverordnung
+- TOP 2.9: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - Jahresabschluss zum 31.12.2010
+- TOP 2.10: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2010
+- TOP 2.11: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2010
+- TOP 2.12: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2010
+- TOP 2.13: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2010
+- TOP 2.14: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2010
+- TOP 2.15: Angelegenheiten der Kultur Ruhr GmbH - Gesellschaftsvertrag, Verlängerung der Nebenabrede (2012-2014)
+- TOP 2.16: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2010
+- TOP 2.17: Angelegenheiten der Freizeitgesellschaften - Haushaltsansätze 2012
+- TOP 2.18: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse der Freizeitgesellschaften des RVR zum 31.12.2010
+- TOP 2.19: Angelegenheiten der Ruhrwind Herten GmbH - Geschäftsführung
+- TOP 2.20: Angelegenheiten der Freizeitgesellschaften - Geschäftsführung der Freizeitzentrum Xanten GmbH
+- TOP 2.21: Wechsel in den Gremien des RVR
+- TOP 2.21.1: Wechsel in den Gremien des RVR - Umbesetzung in den Ausschüssen
+- TOP 2.21.2: Wechsel in den Gremien des RVR - Wechsel im Verwaltungsrat der Freizeitzentrum Kemnade GmbH
+- TOP 2.22: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
