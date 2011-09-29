@@ -1,0 +1,83 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-09-29T14:00:00+02:00
+- Ende: 2011-09-29T20:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3511
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3511
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164961.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164961.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00164961.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Aktuelle Anfragen
+- TOP 3.1: Anfrage aktuell Bü90/Grü; Gesamtschuldenstand Düsseldorfs - beantwortet
+- TOP 4: Anfragen
+- TOP 4.1: Anfrage Freie Wähler: Schuldenfreiheit Düsseldorfs - zur Kenntnis genommen
+- TOP 4.2: Anfrage Freie Wähler: Unterrichtsausfall an Düsseldorfer Schulen - beantwortet
+- TOP 4.3: Anfrage der Ratsfraktion von BÜ 90/GRÜ: Energiepolitik in Düsseldorf Teil 1 - Konzessionsvertrag - beantwortet
+- TOP 4.4: Anfrage der Ratsfraktion von BÜ 90/ GRÜ: "Perspektive der Kleinen Kommission Barrierefreiheit" - beantwortet
+- TOP 4.5: Anfrage Rh Laubenburg Energieversorgung in Düsseldorf - beantwortet
+- TOP 5: Einbringung des Haushaltsplanentwurfes 2012 - zur Kenntnis genommen
+- TOP 6: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Bekanntgabe der genehmigten üpl.- und apl. Mittel- Haushaltsjahr 2011 - mehrheitlich beschlossen
+- TOP 9: Zweckverband Verkehrsverbund Rhein-Ruhr - Sozialticket - einstimmig beschlossen
+- TOP 9.1: Erg.Antrag Die Linke; Sozialticket - mehrheitlich abgelehnt
+- TOP 9.2: Erg. Antrag Bü90/Grü: VRR - Einführung eines Sozialtickets - mehrheitlich abgelehnt
+- TOP 10: Erschließung Belsenpark - AuF-Beschluss - mehrheitlich beschlossen
+- TOP 11: Ausführungs- und Finanzierungsbeschluss zur Sanierung der Ofenlinie 2 des Krematoriums - mehrheitlich beschlossen
+- TOP 12: Nahverkehrsplan der Landeshauptstadt Düsseldorf 2010-2015, Teil 1 - mehrheitlich beschlossen
+- TOP 12.1: ÄA SPD: Nahverkehrsplan - mehrheitlich abgelehnt
+- TOP 13: Vereinbarung über die Bildung der Regionalen Arbeitsgemeinschaft Stadt Düsseldorf – Kreis Mettmann – - einstimmig beschlossen
+- TOP 14: Lokale Zentren als Kristallisationspunkte für Gemeinwesenarbeit - mehrheitlich beschlossen
+- TOP 15: Düsseldorf ist ARTig/Bericht - einstimmig beschlossen
+- TOP 16: Beschlusskontrolle - zur Kenntnis genommen
+- TOP 17: Lokale Agenda in Düsseldorf - einstimmig beschlossen
+- TOP 18: Verbandsversammlung des Zweckverbandes IT-Kooperation Rheinland - einstimmig beschlossen
+- TOP 19: Ersatzwahl eines Mitgliedes der im Bereich des Jugendamtes wirkenden und anerkannten Trägern der fre - einstimmig beschlossen
+- TOP 20: Nachwahl zum Beirat bei der Unteren Landschaftsbehörde - einstimmig beschlossen
+- TOP 21: Beirat der Stadtwerke AG Düsseldorf -Ersatzwahl - - einstimmig beschlossen
+- TOP 22: Genehmigung 60er
+- TOP 23: Gen. 60er: Aufsichtsrat der Hafen Krefeld GmbH & Co. KG - Ersatzwahl - - einstimmig beschlossen
+- TOP 24: Gen. 60er: Qualifizierung der Trainingsplätze 1+2 im Arena-Sportpark - einstimmig beschlossen
+- TOP 25: Genehmigung 60er: Aufsichtsrat der Neuss-Düsseldorf-Häfen - einstimmig beschlossen
+- TOP 26: Genehmigung 60er: Beteiligung der Landeshauptstadt Düsseldorf am Härtefallfonds des Landes NRW "Alle - einstimmig beschlossen
+- TOP 27: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 28: Durchführung der landesweiten Prüfungen zur Erlangung der eingeschränkten Heilpraktikererlaubnis für - einstimmig beschlossen
+- TOP 29: Planungsmaßnahmen
+- TOP 30: FNP-Änderung Nr. 155 -Bochumer Straße/ Am Gatherhof- - einstimmig beschlossen
+- TOP 31: Anträge
+- TOP 31.1.1: ÄA Rh Laubenburg: Bäder-Card sozial gestalten - mehrheitlich abgelehnt
+- TOP 31.2: Antrag Linke: Mindestbeiträge für die Bäder-Card senken - mehrheitlich abgelehnt
+- TOP 31.3: Antrag Linke: Einführung eines Sozialtickets - zurückgezogen
+- TOP 31.4: Antrag CDU und FDP: Unesco - mehrheitlich beschlossen
+- TOP 31.4.1.1: ÄA SPD: Unterstützung für die Aufnahme von Schloß Benrath und K´werth in Unesco - mehrheitlich abgelehnt
+- TOP 31.4.2: Ergänzungsantrag Rh Laubenburg: Kiefernstr. gehört zum Weltkulturerbe - mehrheitlich abgelehnt
+- TOP 31.5: Antrag CDU, FDP: Schutz der Anwohner und der Landschaft - Teil 1 - mehrheitlich beschlossen
+- TOP 31.5.1: EA BÜ90-GRÜ: Schutz der Anwohner und der Landschaft - Teil 1 - mehrheitlich abgelehnt
+- TOP 31.6: Antrag CDU: Schutz der Anwohner und der Landschaft - Teil 2 - mehrheitlich beschlossen
+- TOP 31.7: Antrag von SPD, CDU, BÜ90/GRÜ und FDP: Düsseldorf hilft! Organspende - mehrheitlich beschlossen
+- TOP 31.8: Antrag der Ratsfraktionen von Bü90/GRÜ, CDU und SPD: Langzeitarbeitslose - mehrheitlich beschlossen
+- TOP 31.9: Antrag BÜ90/GRÜ und SPD: "Soziale Stadt" macht Zukunft für Düsseldorf - Keine weiteren Kürzungen de - zurückgezogen
+- TOP 31.10: Antrag Die Linke: Aufnahme von Flüchtlingen im Rahmen eines Resettlement-Programms - zurückgezogen
+- TOP 31.11: Antrag Die Linke: Beitritt zur Weltkonferenz der Bürgermeister für Frieden - zurückgezogen
+- TOP 31.12: Umsetzung der Skateranlage in Eller - einstimmig beschlossen
+- TOP 31.13: Resolution der Ratsfraktionen von CDU, SPD, BÜ90/GRÜ und FDP: Gas- und Dampfturbinenkraftwerk - einstimmig beschlossen
+- TOP 31.13.1: Erg.Antrag Die Linke: Resolution für ein Gas- und Dampfturbinenkraftwerk (GuD) in Düsseldorf - mehrheitlich abgelehnt
+- TOP 31.14: Antrag SPD und BÜ90/GRÜ: Resolution für ein Gas- und Dampfturbinenkraftwerk (GuD) in Düsseldorf - zurückgezogen
+- TOP 31.15: Antrag SPD, CDU, BÜ90/GRÜ: Geschwindigkeitsbegrenzung als Lärmschutz auf der BAB 46 - mehrheitlich beschlossen
+- TOP 31.15.1: Erg.Antrag Die Linke: tadtteilbüro und Schulsozialarbeiter/Innen Hassels-Nord
+- TOP 31.15.2: Ergänzungsantrag der SPD-Ratsfraktion: Stadtteilbüro und Schulsozialarbeiter/innen Hassels-Nord
+- TOP 31.16: Antrag der Ratsfraktion von BÜ90/GRÜ: Stadtteilbüro und Schulsozialarbeiter/innen Hassels-Nord
+- TOP 31.17: Antrag der Ratsfraktion von BÜ90/GRÜ:Stellungnahmen zum Haushalt 2012
+- TOP 31.18: Antrag SPD: Verbindliche Planung für den Neubau der Kinder- und Jugendfreizeiteinrichtung sowie die
+- TOP 31.19: Antrag SPD und BÜ90/GRÜ: Aldi am Südring - zurückgezogen
+- TOP 32: Kreispolizeibeirat - zurückgezogen
