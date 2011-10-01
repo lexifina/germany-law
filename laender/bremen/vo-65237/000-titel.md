@@ -1,0 +1,1 @@
+# Bremische Verordnung über die Ausbildung und Prüfung für die Laufbahngruppe 2, erstes Einstiegsamt in der Fachrichtung Allgemeine Dienste zur Verwendung im Archivdienst im Land Bremen vom 11. Dezember 2012
