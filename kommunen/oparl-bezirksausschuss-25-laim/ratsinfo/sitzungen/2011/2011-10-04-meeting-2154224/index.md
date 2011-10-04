@@ -1,0 +1,63 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-10-04T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154224
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154224
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Hönigschmidtplatz; Absenkung der Randsteine auf der nördlichen Seite
+- TOP 1.2.2.: Verschmutzungsabgabe für Fastfood- und "to go" Anbieter
+- TOP 1.2.3.: Willibaldplatz (Vertagung aus der BA-Sitzung vom 13.09.11)
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Informationen zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote
+- TOP 2.2.: CSU: Kinderspielplatz Joergplatz; Errichtung eines Zaunes an der Ecke Saherrstraße / Weßlingerstraße
+- TOP 2.3.: BA-Vorsitzender: Überplanung des Geländes an der Westendstraße / Zschokkestraße unter Beibehaltung des Busbetriebshofes
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Gewährung eines Zuschusses aus dem BA-Budget in Höhe von ca. 1.000,- ? für Adventskonzerte am 03.12. und 04.12.2011 (BA-eigene Veranstaltung)
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 05.09.11: Flohmarkt am 21.04.12 und 29.09.12 auf dem Hogenbergplatz
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Fürstenrieder Str. 8 b: Neubau eines Mehrfamilienhauses mit Tiefgarage, hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben REGSAM und Sozialreferat vom 23.08.11: Ergebnisse der Evaluation zu den REGSAM-Gebieten mit besonderem Handlungsbedarf; Vorstellung am 25.10.11
+- TOP 6.2.: Sitzungslokal für die BA-Sitzungen 2012
+- TOP 6.3.: Fest "18.Jetzt" am Samstag, den 08.10.2011 von 21.00 bis 03.00 Uhr im Rathaus am Marienplatz; Aufbau ab 19.00 Uhr
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 13.09.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 02.09.11: Budget der Bezirksausschüsse; Antrag Laimer Maibaumfreunde e.V. vom 07.02.11 für Maitanz am 01.05.11
+- TOP 8.2.: Schreiben Direktorium vom 21.09.11: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Laimer Maibaumfreunde e.V.
+- TOP 8.3.: Schreiben Planungsreferat vom 05.09.11: Fällung einer Buche; Riegerhofstr. 8 (Schreiben BA vom 31.08.11)
+- TOP 8.4.: Schreiben Baureferat vom 09.09.11: Entfernung der Büsche am Willibaldplatz und attraktive Umgestaltung des Platzes (Antrag Nr. 08-14 / B 02995 vom 03.05.11 sowie Schreiben BA vom 05.04.11 und 05.10.10)
+- TOP 8.5.: Schreiben KVR vom 15.07.11: Aufhebung der Schulbushaltestelle in der Helmpertstr. 9
+- TOP 8.6.: Schreiben KVR vom 13.09.11: Verbesserung der Verkehrssicherheit / Verkehrsfluss Straubinger Straße Ecke Lautensackstraße (Schreiben BA vom 31.08.11)
+- TOP 8.7.: Schreiben KVR vom 13.09.11: Gaststätte "Ceyhan", Senftenauerstr. 50; unveränderte Fortführung
+- TOP 8.8.: Schreiben Referat für Gesundheit und Umwelt vom 01.09.11: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Betrieb von Müllsammelfahrzeugen
+- TOP 8.9.: Schreiben Referat für Gesundheit und Umwelt vom 16.09.11: Baubeginnsanzeige einer Mobilfunksendeanlage
+- TOP 8.10.: Bautenliste vom 29.08.-04.09.11 1. Erstantragsverfahren a) St.-Ulrich-Str. 5
+- TOP 8.11.: Bautenliste vom 05.09.-11.09.11 1. Erstantragsverfahren a) Fürstenrieder Str. 8b b) Eckermannstr. 22 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 11
+- TOP 8.12.: Bautenliste vom 12.09.-18.09.11 1. Erstantragsverfahren a) Agnes-Bernauer-Str. 41 2. Änderungsverfahren a) Gotthardstr. 115
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 05.09.11: Baumaßnahmen der Stadtwerke; Stichtag: 05.09.11
+- TOP 8.14.: Schreiben Stadtwerke München GmbH vom 12.09.11: Baumaßnahmen der Stadtwerke; Stichtag: 12.09.11
+- TOP 8.15.: Schreiben Stadtwerke München GmbH vom 19.09.11: Baumaßnahmen der Stadtwerke, Stichtag: 19.09.11
+- TOP 8.16.: Schreiben Referat für Arbeit und Wirtschaft vom 20.09.11: Europe Direct Informationen 06/2011
+- TOP 8.17.: Beschluss des Bauausschusses vom 27.09.11: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern, Untersuchungsergebnisse und weiteres Vorgehen (Sitzungsvorlage Nr. 08-14 / V 04822)
+- TOP 8.18.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Förderung von Genossenschaften und Baugemeinschaften in München (Sitzungsvorlage Nr. 08-14 / V 07538)
+- TOP 8.19.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Stand der städtebaulichen Kriminalprävention in München (Sitzungsvorlage Nr. 08-14 / V 07408)
+- TOP 8.20.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 4 (Schwabing-West), 11 (Milbertshofen - Am Hart) und 12 (Schwabing-Freimann) (Sitzungsvorlage Nr. 08-14 / V 07379)
+- TOP 8.21.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn (Sitzungsvorlage Nr. 08-14 / V 07608)
+- TOP 8.22.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2011 - 30.06.2011 (Sitzungsvorlage Nr. 08-14 / V 07665)
+- TOP 8.23.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Projekt Siedlungsentwicklung und Mobilität - Ergebnisse und Weiterführung (Sitzungsvorlage Nr. 08-14 / V 07513)
+- TOP 8.24.: Schreiben BA 7 Sendling-Westpark vom 14.09.11: Maßnahmen gegen Spielsucht und Spielhallen
+- TOP 8.25.: Schreiben Gleichstellungsstelle für Frauen vom 12.09.11: Einladung zum Treffen der Gleichstellungsbeauftragen der BAs am 20.10.11
+- TOP 8.26.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.27.: Schriftverkehr aus der BA-Sitzung vom 13.09.11
+- TOP 1.2: Bürgerpost an den BA
