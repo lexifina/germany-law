@@ -1,0 +1,69 @@
+# Stadtrat (18. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-10-04T17:00:00+02:00
+- Ende: 2011-10-04T19:15:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZZoVwhLiC9Ngae0RZzmMLwI
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10522
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZagYWn6d8h_rNWpnRo2g5NbmP9e_A1dgVcY7wgAp4IGy/Bekanntmachung_Stadtrat_04.10.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfv7E1smTsk2I0yCE0LLqfXAsO3ep7Eej_zgOKY6MqEo/Oeffentliche_Niederschrift_Stadtrat_04.10.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung und Verpflichtung der neuen Stadtverordneten Iris Heinisch
+- TOP 2.: Bestellung einer Schriftführerin und eines stellv. Schriftführers für die Erstellung der Niederschriften über die Ratsbeschlüsse
+- TOP 3.: Schiedsamtsangelegenheiten hier: Wiederwahl einer Schiedsperson für den Schiedsamtsbezirk V
+- TOP 4.: Umbesetzung von Ausschüssen und Gremien
+- TOP 4.1: Umbesetzung des Jugendhilfeausschusses / Beratende Mitgliedschaften
+- TOP 4.2: Umbesetzung von Ausschüssen und Gremien hier: Antrag der SPD-Fraktion
+- TOP 4.3: Umbesetzung des Bau- und Feuerschutzausschusses hier: Antrag der Fraktion Bündnis 90/Die Grünen
+- TOP 5.: Erlass von Ortsrecht
+- TOP 5.1: 2. Satzung zur Änderung der Satzung über die Straßenreinigung (Straßenreinigungssatzung) in der Stadt Kerpen
+- TOP 5.2: Entgeltordnung für die Nutzung städtischer Bäder
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Bebauungsplan TÜ 249/2. Änderung "Rosentalstraße", Stadtteil Türnich hier: Beschluss zur Offenlage
+- TOP 6.2: Bebauungsplan SI 253 "Südlich Heppendorfer Straße", Stadtteil Sindorf hier: Beschluss zur Offenlage
+- TOP 6.3: Bebauungsplan SI 232 A/1.Änderung " Gewerbegebiet Europaring", Stadtteil Sindorf - Aufstellungsbeschluss
+- TOP 6.4: Gewinnung von Quarz und Quarzkies im Gebiet Forster Feld in Manheim hier: Sachstandsbericht
+- TOP 7.: Verbessertes Fahrplanangebot für Busse der Relation Gymnich – Brüggen/Balkhausen/Türnich – Kerpen – Sindorf - (kein Text vorhanden)
+- TOP 8.: Neubau der 380-kV-Höchstspannungsfreileitung Pkt. Mönchskaul - Pkt. Blatzheim
+- TOP 9.: Neufassung der Wahlordnung zur Bildung des Bürgerbeirates Manheim
+- TOP 10.: Umlegung "Burgackerstraße" in Kerpen Brüggen hier: Herrichtung einer Fläche für die weitere Nutzung der St.-Hubertus-Schützenbruderschaft Brüggen-Erft e. V. 1849
+- TOP 11.: Vorgehensweise der Stadt Kerpen bezüglich § 61 a Landeswassergesetz NRW (Dichtheitsprüfungen an privaten Abwasserleitungen)
+- TOP 12.: Markterkundungsverfahren Erftlagune
+- TOP 13.: Betrieb des neuen Hallenbades Kerpen - (kein Text vorhanden)
+- TOP 14.: Zeitliche Verschiebung der Heizungserneuerungen in der Feuerwache Kerpen und in dem Feuerwehrgerätehaus Sindorf
+- TOP 15.: Feuchtigkeitsschäden im Untergeschoss der Ulrichschule
+- TOP 16.: Konzept für die Sanierung des Europagymnasiums hier: Bereitstellung außerplanmäßiger Haushaltsmittel
+- TOP 17.: Überplanmäßige Bereitstellung von Haushaltsmitteln hier: Übermittagbetreuung Realschule im Schulzentrum Horrem/Sindorf, Kerpen
+- TOP 18.: Überplanmäßige Bereitstellung von Haushaltsmitteln hier: Übermittagbetreuung Gemeinschaftshauptschule Horrem, Kerpen
+- TOP 19.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 19.1: Außerplanmäßige Bereitstellung von Haushaltsmitteln hier: Aufstellung von Klassenraumcontainern als Ersatz für die zu sanierenden OGS - Räume in der Ulrichschule einschließlich der Miete für drei Monate
+- TOP 19.2: Verlängerung einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE 338 "Hahnenpassage" im Stadtteil Kerpen
+- TOP 20.: Bekanntgabe der in der Zeit vom 01.01. bis 30.06.2011 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW
+- TOP 21.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen II. Quartal 2011
+- TOP 22.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 23.: U3- Ausbau Sonderprogramm 2011/2012 des Landes Nordrhein-Westfalen
+- TOP 23a.: Stellenplan 2011 hier: Einrichtung von 4 zusätzlichen Stellen für Schulsozialarbeiter/Innen
+- TOP 24.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 25.: Mitteilungen
+- TOP 25.1: Informationen des Jagdbombergeschaders 31 "Boelcke" zum Flugbetrieb am Militärflughafen Nörvenich
+- TOP 26.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.1: Sachstand Ausbau Sindorfer Südkreisel (Kerpener Kreuz)
+- TOP 27.2: Organspende und Organspendeausweis
+- TOP 27.3: Zeitungsbericht am 28.09.2011 über die fehlende öffentliche Toilette am Bahnhof Horrem
+- TOP 28.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 29.: Grunderwerb zum Ausbau der Hahnenstraße in Kerpen hier: Antrag auf Einleitung von Enteignungsverfahren und auf vorzeitige Besitzeinweisung
+- TOP 30.: Flächentausch im Bebauungsplanbereich KE 344 „Stiftsstraße“
+- TOP 31.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 32.: Mitteilungen
+- TOP 33.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 34.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 35.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
