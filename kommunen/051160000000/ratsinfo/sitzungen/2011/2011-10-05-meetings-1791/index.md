@@ -1,0 +1,52 @@
+# Hauptausschuss
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2011-10-05T17:10:00+02:00
+- Ende: 2011-10-05T18:45:00+02:00
+- Ort: Ratssaal Abtei
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/76
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1791
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1791
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Dienstreise von Mitgliedern des Integrationsrates - Einstimmiger Beschluss
+- TOP 3: Demographiemanagement - Kenntnisnahme
+- TOP 4: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 5: Vertretung der Stadt MG in Organen von Beteiligungen - An den Rat verwiesen
+- TOP 6: Mittelbare Beteiligung der Stadt Mönchengladbach an der PPG Nordpark GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 7: Verbandsausschuss des Wasser- und Bodenverband der Mittleren Niers - Einstimmiger Beschluss
+- TOP 8: Verbandsausschuss des Netterverbands - Einstimmiger Beschluss
+- TOP 9: Vorstand des Schwalmverbandes - Einstimmiger Beschluss
+- TOP 10: Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 11: Erster Nachtrag zur Fristensatzung und dreiundvierzigster Nachtrag zur Entwässerungssatzung - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 11.1: Erster Nachtrag zur Satzung Dichtheitsprüfung - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 12: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2011 - Kenntnisnahme
+- TOP 13: 32. Nachtrag Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 14: Anpassung der Immissionsschutzplanung am künftigen Tagebaurand bei Wanlo - An den Rat verwiesen
+- TOP 15: Einführung Sozialticket in Mönchengadbach - Zur Kenntnis genommen
+- TOP 15.1: Echtes Sozialticket einführen - Zur Kenntnis genommen
+- TOP 16: Beitritt zum Zweckverband KDN - Dachverband kommunaler IT-Dienstleister - - Einstimmiger Beschluss
+- TOP 17: Sperrzeitverordnung - Mit Änderung beschlossen (s. Niederschrift)
+- TOP 18: Bildungs- und Teilhabepaket - Einstimmiger Beschluss
+- TOP 19: Anpassung des Betriebsführungsvertrages für die städtischen Hallenbäder - Mit Stimmenmehrheit beschlossen
+- TOP 20: Einsparungen an den städtischen Schwimmbädern - Getrennte Abstimmung (s. Niederschrift)
+- TOP 21: HSK-Maßnahme HSK 2010-0092 - Einstimmiger Beschluss
+- TOP 22: HSK-Maßnahme HSK 2010-0080 - Einstimmiger Beschluss
+- TOP 23: Verlängerung des Vertrages mit dem Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 24: Familienpatenschaften - Einstimmiger Beschluss
+- TOP 25: Qualitativer Ausbau der Tagespflege - Mit Stimmenmehrheit beschlossen
+- TOP 26: Betrieb einer Begegnungsstätte - Einstimmiger Beschluss
+- TOP 27: Verlängerung der Sockelbetragsfinanzierung - Einstimmiger Beschluss
+- TOP 28: Bebauungsplan Nr. 717/N - Stadtbezirk Nord - Am wasserturm - Einstimmiger Beschluss
+- TOP 29: Satzung Verlängerung Veränderungssperre Hindenburgstraße - Einstimmiger Beschluss
+- TOP 30: Satzung Veränderungssperre Peter-Nonnenmühlen-Allee - Einstimmiger Beschluss
+- TOP 31: Satzung Verlängerung Veränderungssperre Hauptstraße - Einstimmiger Beschluss
+- TOP 32: Bebauungsplan Nr. 701/O - Stadtbezirk Ost - Lürriper Straße - Einstimmiger Beschluss
+- TOP 33: 1. Änderung des Bebauungsplanes Nr. 658/IV - Mit Stimmenmehrheit beschlossen
+- TOP 34: Bebauungsplan Nr. 718/O - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 35: Führerscheinentzug - Zur Kenntnis genommen
+- TOP 36: Anfragen - Zur Kenntnis genommen
