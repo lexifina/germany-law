@@ -1,0 +1,53 @@
+# Seniorenbeirat
+
+- Körperschaft: Stadt Bochum
+- Beginn: 2011-10-05T15:00:00+02:00
+- Ende: 2011-10-05T18:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://bochum.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZQAZk_IvYw2MToq_IR1tO18
+- OParl: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/554
+- Quelle: https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTe5QVwMfAgNV8qXDI9LWiMbtyA5XpS_XNLvnFAWvnHH/Einladung_Seniorenbeirat_05.10.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Seniorenbeirat) https://bochum.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRXTeAhPHMEO80GHWUuRWv_45NKmpfZXccrhWeTw94sE/Oeffentliche_Niederschrift_Seniorenbeirat_05.10.2011.pdf
+
+## Tagesordnung
+
+- TOP I: Öffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 3.1: Stadtumbau West/Innere Hustadt - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.2: Erreichbarkeit der DB-Bahnsteige in Bochum - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.3: Anmeldemarken in den Bürgerbüros - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 3.4: Kommunalfriedhof in Bochum-Wattenscheid-Leithe - Abstimmungsergebnis: Einstimmig nach Beschlussvorschlag                                             
+- TOP 4: Stellungnahmen
+- TOP 5: keine Tagesordnungspunkte
+- TOP 6: Mitteilungen
+- TOP 6.1: Aktuelle Arbeit im Bundestag hier: Mdl. Bericht des Mitgliedes des Bundestages Ingrid Fischbach - Die Vorlage wird von der Tagesordnung abgesetzt.                                                    
+- TOP 6.2: Räumpflicht bei Schnee und Glatteis - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.3: Organisatorische Veränderungen in der Bezirksverwaltungsstelle Wattenscheid sowie anderen Bezirksverwaltungsstellen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.4: Neue Beleuchtung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.5: Busunterstand Ferdinandstraße/Buddenbergplatz hier: Sichtbehinderung durch Werbung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.6: Seitenschutz an Fahrgastunterständen - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.7: Behebung von Mängeln in der Innenstadt - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.8: Bahnhof Wattenscheid - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.9: Busfahrpläne an der Haltestelle Tierpark - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.10: Jahreskarten für Familien beim Tierpark Bochum hier: Anregung des Seniorenbeirates vom 16.03.2011 (Vorlage Nr. 20110515) - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.11: Öffentliche Toiletten am Rathausplatz - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 6.12: Berichte aus den Gremien hier: Mdl. Bericht in der Sitzung - Die Mitteilung der Verwaltung wird zur Kenntnis genommen.                                           
+- TOP 7: Anfragen
+- TOP 7.1: Kurzzeit-Parkplätze am Facharztzentrum Europahaus - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP 7.2: Straßenbegeher - Die Anfrage wird schriftlich beantwortet.                                                           
+- TOP II: Nichtöffentliche Sitzung
+- TOP 1: Beschlüsse in eigener Entscheidungsbefugnis
+- TOP 2: keine Tagesordnungspunkte
+- TOP 3: Anregungen und Empfehlungen
+- TOP 4: keine Tagesordnungspunkte
+- TOP 5: Stellungnahmen
+- TOP 6: keine Tagesordnungspunkte
+- TOP 7: Mitteilungen
+- TOP 8: keine Tagesordnungspunkte
+- TOP 9: Anfragen
+- TOP 10: keine Tagesordnungspunkte
