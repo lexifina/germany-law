@@ -1,0 +1,8 @@
+# TOP 2: Jobcenter Ulm; Beschäftigungsförderung im SGB II
+
+- Sitzung: Sitzung des Fachbereichsausschusses Bildung und Soziales (2011-10-05)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/8295
+- Ergebnis: Kenntnis genommen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/2473
