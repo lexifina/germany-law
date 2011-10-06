@@ -1,0 +1,63 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-10-06T16:04:00+02:00
+- Ende: 2011-10-06T18:08:00+02:00
+- Ort: Ratssaal, Rathaus Barmen 2. Etage
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8201
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8201
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand: 20.09.11) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00134089.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00135052.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluß der Technologiezentrum Wuppertal W-tec GmbH - Entgegennahme ohne Beschluss
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Umbesetzung in den Gremien des Wupperverbandes - geändert beschlossen
+- TOP 4.2: Bestellung der Mitglieder des Verwaltungsrates der Jobcenter Wuppertal AöR - geändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Änderung der Satzung des Gebäudemanagements der Stadt Wuppertal GMW - ungeändert beschlossen
+- TOP 5.2: Satzung der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 5.3: Änderung des Gesellschaftsvertrages der Wuppertaler Bühnen GmbH - ungeändert beschlossen
+- TOP 5.4: Wahrnehmung von Gesellschafterrechten bei WSW-Tochtergesellschaften - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 12: Berichtsvorlagen
+- TOP 12.1: Stand der Schulden und Kassenkredite zum 31.08.2011 - Entgegennahme ohne Beschluss
+- TOP 12.2: Externe Einstellungen im Zeitraum Januar bis August 2011 - Entgegennahme ohne Beschluss
+- TOP 12.3: Finco-Bericht zum 30.09.2011 - Entgegennahme ohne Beschluss
+- TOP 13: Haushaltsangelegenheiten
+- TOP 13.1: Umsetzung des Haushaltssicherungskonzeptes 2010/2011 - Entgegennahme ohne Beschluss
+- TOP 14: Verkäufe und Baumaßnahmen
+- TOP 15: Dienstanweisungen und Satzungen
+- TOP 15.1: Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - ungeändert beschlossen
+- TOP 16: Anträge und Anfragen
+- TOP 16.1: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 28.07.2011 -EU-Mittel für Energieeffizienz und Erneuerbare Energien nutzen- - vertagt auf Rat
+- TOP 16.2: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 29.07.2011 -Beförderung von Beamtinnen und Beamten- - zurückgezogen
+- TOP 16.3: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 20.09.2011 -Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern- - abgelehnt
+- TOP 17: Allgemeine Vorlagen
+- TOP 17.1: Beleuchtung von Fußgängerüberwegen - ungeändert beschlossen
+- TOP 17.2: Klage gegen die Festsetzung der Landschaftsumlage 2007 - Entgegennahme ohne Beschluss
+- TOP 17.3: Aktionsplan zur Umsetzung der Europäischen Charta für die Gleichstellung von Frauen und Männern, Wuppertal 2011 - 2013 - ungeändert beschlossen
+- TOP 17.4: Überplanmäßige Mittelbereitstellung für die Fahrbahnerneuerung der Nützenberger Straße - ungeändert beschlossen
+- TOP 18: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 24: Alten- und Altenpflegeheime
+- TOP 24.1: Jahresabschluss 2010 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 24.2: Entlastung der Betriebsleitung APH für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 24.3: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2011 - ungeändert beschlossen
+- TOP 24.4: Benennung des Wirtschaftsprüfers für den Jahresabschluss 2011 der APH Service GmbH - ungeändert beschlossen
+- TOP 24.5: Quartalsbericht II/2011 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 24.6: Quartalsbericht II/2011 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 25: Berichte und Mitteilungen
+- TOP 26: Kinder- und Jugendwohngruppen
+- TOP 26.1: 2. Quartalsbericht 2011 KIJU - Entgegennahme ohne Beschluss
+- TOP 27: Berichte und Mitteilungen
