@@ -1,0 +1,51 @@
+# Bezirksvertretung Mitte
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-10-06T16:30:00+02:00
+- Ende: 2011-10-06T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-88
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZagO_7Ri3ySAzjkNx3_H-MY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3911
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRrSUE5-znEwRzVzC-rbrVqUau6TJ5QeWGIbnNF6I9Cf/Oeffentliche_Niederschrift_Bezirksvertretung_Mitte_06.10.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Protokoll der Bürgeranhörung zur Verkehrsplanung Dickenbusch am 11. Mai 2011
+- TOP 4: Bauleitplanung Beethovenstraße/Grimmstraße
+- TOP 5: Bauleitplanung Nördliche Van-Meenen-Straße
+- TOP 6: Rückbau Kölner Straße zwischen Katternberger Straße und Birkerstraße
+- TOP 7: Entwurf des Haushaltsplanes für das laufende Haushaltsjahr 2011
+- TOP 8: Haushaltssicherungskonzept 2010 - 2013
+- TOP 9: Parkraumbewirtschaftung an den Standorten Theater und Konzerthaus sowie Rathausplatz 1
+- TOP 10: Wiederwahl der Schiedsperson für den Schiedsamtsbezirk I im Stadtbezirk Mitte
+- TOP 11: Benennung von Trägervertretern für den Rat der neuen städtischen Kindertagesstätte Schwertstraße in Solingen
+- TOP 12: Bürgerbeteiligung Winterdienst und Straßenunterhaltung
+- TOP 13: Einrichtung eines Zebrastreifens auf der Wupperstraße
+- TOP 14: Ersetzen der Fußgängerampel Mangenberg durch einen Zebrastreifen
+- TOP 15: Verkehrssituation an der Goerdelerstraße
+- TOP 16: Beratung über den Lärmaktionsplan
+- TOP 17: Park am Dickenbusch
+- TOP 18: Antrag zur Fällung eines Baumes an der Kita Vorspel, Klemens-Horn-Straße 41
+- TOP 19: Verschiedenes
+- TOP 20: Lichtsignalanlagen auf dem Gebiet der Bezirksvertretung Mitte
+- TOP 21: Information für eine Beantwortung einer Anfrage wegen der Errichtung des Mercimek-Platzes im Bereich des Bebauungsplanes G 437 – Wernerstraße/Untere Wernerstraße
+- TOP 22: Stadtteilplatz Zietenstraße
+- TOP 23: Hundekot in Grünanlagen
+- TOP 24: Bauleitplanung Grimmstraße
+- TOP 25: Aktion immer schön sauber bleiben im Jahr 2011
+- TOP 26: Beschlusskontrolle
+- TOP 27: Fällung von Gefahrenbäumen in den Bereichen Hauptschule Krahenhöhe, Friedrichstraße und Grundschule Klauberg
+- TOP 28: Shopping Center-Projekt am Neumarkt/ Graf-Wilhelm-Platz
+- TOP 29: Fällung eines Gefahrenbaumes
+- TOP 30: Sachstand Neubau Kitas Schwert- und Augustastraße sowie Renovierung Kita Hasseldelle
+- TOP 31: Verlegung der Taxenstände vor dem ehemaligen Karstadtgebäude auf der Bergstraße
+- TOP 32: Hedderich-Pavillon
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Verschiedenes
