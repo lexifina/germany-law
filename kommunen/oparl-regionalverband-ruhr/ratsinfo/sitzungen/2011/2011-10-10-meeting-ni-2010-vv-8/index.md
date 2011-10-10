@@ -1,0 +1,55 @@
+# 8. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2011-10-10T10:05:00+02:00
+- Ende: 2011-10-10T12:25:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-8
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-8
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-8
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-8
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-8
+
+## Tagesordnung
+
+- TOP 1: Angelegenheiten nach RVR-Gesetz
+- TOP 1.1: Resolutionen der Verbandsversammlung
+- TOP 1.1.1: Resolution der Verbandsversammlung des Regionalverbandes Ruhr zum Bundeswehrstandort Unna-Königsborn
+- TOP 1.1.2: Resolution zur Wiederaufnahme des Rhein- Ruhr- Express in den Fünfjahresplan für den Ausbau der Schienenwege des Bundes 2011-2015 des Bundesministeriums für Verkehr, Bau und Stadtentwicklung Antrag der Fraktion DIE LINKE vom 04. 10 .2011
+- TOP 1.2: Prozess der Haushaltskonsolidierung beim Regionalverband Ruhr
+- TOP 1.3: Regionaler Diskurs - ...auf dem Weg in die Zukunft der Metropole Ruhr
+- TOP 1.4: ruhrFIS - Flächeninformationssystem Ruhr. Erhebung der Siedlungsflächenreserven
+- TOP 1.5: Analyse der Raum- und Siedlungsstruktur
+- TOP 1.5.1: Analyse der Raum- und Siedlungsstruktur
+- TOP 1.6: KulturmetropoleRuhr - Perspektiven nach der Kulturhauptstadt (Verabredung RVR/Ministerium für Familie, Kinder, Jugend, Kultur und Sport des Landes NRW)
+- TOP 1.6.1: KulturmetropoleRuhr- Perspektiven nach dem Kulturhauptstadtjahr Antrag der
+- TOP 1.6.2: Kulturmetropole Ruhr-Perspektiven nach dem Kulturhauptstadtjahr
+- TOP 1.7: Erinnerungsorte Ruhr
+- TOP 1.7.1: Erinnerungsorte Ruhr - Antrag der CDU-Fraktion im RVR
+- TOP 1.8: Erhebung der Ausgaben der Mitgliedskommunen im Kulturbereich Antrag der Fraktion DIE LINKE vom 09.09.2011
+- TOP 1.9: Feststellung Jahresabschluss zum 31.12.2010 und Lagebericht der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün Zustimmung zur Entnahme aus der Allgemeinen Rücklage zum Ausgleich des Jahresverlustes 2010 Entlastung des Betriebsausschusses RVR Ruhr Grün gem. § 4 Eigenbetriebsverordnung
+- TOP 1.10: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH (wmr) - Jahresabschluss zum 31.12.2010
+- TOP 1.11: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2010
+- TOP 1.12: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2010
+- TOP 1.13: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2010
+- TOP 1.14: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2010
+- TOP 1.15: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2010
+- TOP 1.16: Angelegenheiten der Kultur Ruhr GmbH - Gesellschaftsvertrag, Verlängerung der Nebenabrede (2012-2014)
+- TOP 1.17: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2010
+- TOP 1.18: Angelegenheiten der Freizeitgesellschaften - Haushaltsansätze 2012
+- TOP 1.19: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse der Freizeitgesellschaften des RVR zum 31.12.2010
+- TOP 1.20: Wechsel in den Gremien des RVR
+- TOP 1.20.1: Wechsel in den Gremien des RVR - Umbesetzung in den Ausschüssen
+- TOP 1.20.2: Wechsel in den Gremien des RVR - Wechsel im Verwaltungsrat der Freizeitzentrum Kemnade GmbH
+- TOP 1.21: Anfragen und Mitteilungen
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Städtebauförderung Vorstellung des Stadterneuerungsprogramms 2011
+- TOP 2.2: Zielabweichungsverfahren von der Festlegung der zweckgebundenen Nutzung 'Erweiterung Möbelverteilzentrum' eines Bereichs für gewerbliche und industrielle Nutzung im Gebiet der Stadt Werne gemäß § 16 LPlG NRW Hier: Einvernehmen der Verbandsversammlung
+- TOP 2.3: Sachstandsbericht 7. Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln
+- TOP 2.4: Entwurf des Klimaschutzgesetzes NRW
+- TOP 2.4.1: Stellungnahme zum Entwurf eines Klimaschutzgesetzes NRW
+- TOP 2.4.2: Ergänzung der Stellungnahme des Regionalverbandes Ruhr in seiner Funktion als Träger öffentlicher Belange Antrag Fraktion DIE LINKE vom 28.09.2011
+- TOP 2.5: Anfragen und Mitteilungen
