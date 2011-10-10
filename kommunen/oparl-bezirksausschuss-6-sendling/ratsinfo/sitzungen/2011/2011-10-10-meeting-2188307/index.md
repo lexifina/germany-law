@@ -1,0 +1,72 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-10-10T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188307
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188307
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Errichtung eines Jugendhauses für unbegleitete minderjährige Flüchtlinge in der Lindwurmstraße 189
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Informationsveranstaltung des Sozialreferates am 08.12.2011
+- TOP 4: Schulreferat
+- TOP 4.1.: Informationsveranstaltung des Referates für Bildung und Sport am 19.10.2011
+- TOP 6.1.: Einrichtung eines personenbezogener Behindertenparkplatzes in der Lindenschmitstr. 18
+- TOP 6.2.: Eingeschränktes Haltverbot vor dem Anwesen Pfeuferstr. 5
+- TOP 6.3.: Einrichtung einer Anfahrtszone vor dem Anwesen Lipowskystr. 15
+- TOP 6.4.: Öffnung der Richtung Norden einbahngeregelten Reutberger Straße zwischen Valleystraße und Wackersberger Straße für den gegeläufigen Radverkehr
+- TOP 6.5.: Grünphase der Fußgängerampel an der Kreuzung Thalkirchner- / Brudermühlstr.
+- TOP 6.6.: Kennzeichnung der Feuerwehrzufahrt zu den Anwesen Karwendelstr. 56 und 60 an der Plinganserstr. Schaffung einer legalen Abbiegemöglichkeit zu den Geschäften in der Plinganserstr. 52 - 58 von Süden kommend
+- TOP 6.7.: Bauvorhaben Fernwärmeleitung Urbanstraße
+- TOP 6.8.: Leistungsprogramm der MVG für die Fahrplanperiode 2012
+- TOP 6.9.: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 6.10.: Zukunftschancen für den ÖPNV München
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Himmelfahrtskirche München-Sendling Konzert am 10.12.2011 - <div>Bezuschussung mit ? 1000,-</div>
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Kindergarten Apfelbäumchen e.V. Renovierung der Küche
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Init. ArtBeat Sendling 2011 c/o C. Schneider Veranstaltung vom 18. - 20.11.2011
+- TOP 7.4.: "Laut gegen Brauntöne"; städtische Kampagne gegen Rechtsextremismus
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstr. 9a
+- TOP 8.3.: Bauvorhaben Lindwurmstr. 122 - 124
+- TOP 8.4.: Bauvorhaben Schöttlstr. 12
+- TOP 8.5.: Bauvorhaben Berlepschstr. 3
+- TOP 8.6.: Bauvorhaben Königsdorfer Str. 15 - 17
+- TOP 8.7.: Bauvorhaben Lindwurmstr. 189
+- TOP 8.8.: Bauvorhaben Thalkirchner Str. 186
+- TOP 8.9.: Aufhebung von Aufstellungsbeschlüssen für Bebauungspläne; Brudermühlstr. Haus Nr. 44-54 gerade und 49-53 ungerade sowie Impler-, Wackersberger, Thalkirchner und Gaißacher Str.
+- TOP 8.10.: Maßnahmen gegen Spielsucht und Spielhallen
+- TOP 8.11.: Beschlussvollzugskontrolle
+- TOP 8.12.: Planfeststellungsbeschluss für den Verkehrsflughafen München; dritte Start- und Landebahn
+- TOP 8.13.: Stand der städtischen Kriminalprävention in München
+- TOP 8.14.: Förderung von Genossenschaften und Baugemeinschaften in München
+- TOP 8.15.: Beteiligung des Stadtrates bei Bauvorhaben im Landschaftsschutzgebiet Isarauen
+- TOP 8.16.: Projekt Siedlungsentwicklung und Mobilität
+- TOP 8.17.: Wohnen in München IV
+- TOP 8.18.: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden
+- TOP 8.19.: Der Freistaat fördert die Mobilität in der "Europäischen Metropolregion München"
+- TOP 8.20.: Optimierung des Beratungsangebotes der Lokalbaukommission
+- TOP 8.21.: Rechtl. Beurteilung von Bauvorhaben im unbeplanten Innenbereich
+- TOP 9: Baureferat
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Bauvorhaben Meindlstr. 5
+- TOP 10.2.: Baumfällung Danklstr. 3
+- TOP 10.3.: Baumfällung Daiserstr. 22
+- TOP 10.4.: Baumfällung Alramstr. 26
+- TOP 10.5.: Baumfällung Schäftlarnstr. 126-128
+- TOP 10.6.: Baumfällgenehmigung Bavariastr. 28
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mobile Einstiegstreppe im Schwimmerbecken des Südbads; Nennung der einschlägigen Rechtsnormen / Vorschriften - <div>Kenntnisnahme / tats. erledigt mit Beschl Nr. 10085 vom 25.09.12</div>
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
