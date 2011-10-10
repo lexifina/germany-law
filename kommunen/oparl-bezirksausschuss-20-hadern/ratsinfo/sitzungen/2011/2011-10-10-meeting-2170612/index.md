@@ -1,0 +1,98 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-10-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170612
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170612
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Taktung Bus 167
+- TOP 1.2.: Probleme bei der Bio-Müll-Abfuhr
+- TOP 1.3.: Zebrastreifen oder Ampelanlage zwischen Stiftsbogen 17 - 21 und Schröfelhofstraße 42 - 44
+- TOP 1.4.: Reinigung der U-Bahn-Abgänge Haderner Stern
+- TOP 1.5.: Fußgängerüberweg in der Waldwiesenstraße, Anfrage aus der Bürgerversammlung vom 28.09.2011, Ortstermin
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Verein der Freunde und Förderer der Hauptschule an der Guardinistraße e.V., Gewaltpräventionsprojekt vom 19.09. - 30.09.2011 (Direktorium, 29.09.11)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung auf städtischer Grünanlage, hier: Einweihung Naturlehrpfad entlang der Kriegerheimstraße von Aurikelstraße bis Würmtalstraße Gartenbauverein München-Großhadern e.V. am 29.10.2011 von 10.00 - 11.30 Uhr (Kreisverwaltungsreferat, 12.09.11)
+- TOP 6.2.: Würmtalstraße 113, Umbau und Sanierung eines Gaststätten-, Büro- und Wohngebäudes sowie Errichtung eines Biergartens (Referat für Stadtplanung und Bauordnung, 12.09.11)
+- TOP 6.3.: Sauerbruchstraße, Neubau einer Wohnanlage mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 16.09.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Stiftsbogen 102 - 112, gem. Baumbestandsplan Nr. 19130
+- TOP 7.2.: Rodensteinstraße 1 a, 1 Walnussbaum
+- TOP 7.3.: Steinbrechweg 9, 1 Tanne
+- TOP 7.4.: Ossingerstraße 33, 1 Buche und 1 Tanne
+- TOP 7.5.: Würmtalstraße 18, 1 Laubbaum
+- TOP 7.6.: Waldgartenstraße 23, 1 Fichte
+- TOP 7.7.: Aurikelstraße 15, 1 Kiefer und 1 Thuja
+- TOP 7.8.: Haseneystraße 13, 1 Tanne
+- TOP 7.9.: Kriegerheimstraße 24, - Haus 1, gem. Baumbestandsplan Nr. 20914 - Haus 2, gem. Baumbestandsplan Nr. 20915 - Haus 3, gem. Baumbestandsplan Nr. 20916
+- TOP 7.10.: Batzerstraße 8, 1 Eiche
+- TOP 7.11.: Hertlstraße 12, gem. Baumbestandsplan Nr. 22431
+- TOP 7.12.: Violenstraße 9 - 11, 1 Nadelbaum
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Kornwegerstraße (Sozialreferat, 26.08.11) - Am Waldspitz (Sozialreferat, 25.08.11)
+- TOP 8.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV Betrieb von Müllsammelfahrzeugen (Referat für Gesundheit und Umwelt, 01.09.11)
+- TOP 8.3.: Baumaßnahmen der SWM, Wasserprojekt Schröfelhofstraße (SWM, 21.09.11)
+- TOP 8.4.: Information über Betriebskonzept während der Schienenschleifarbeiten im Oktober 2011 (MVG, 23.09.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Guardinistraße 123, Umbau und Nutzungsänderung eines Durchgangsbereichs zu einer Wohneinheit (Referat für Stadtplanung und Bauordnung, 06.09.11)
+- TOP 9.2.: Bezirkssportanlage am Wolkerweg (Referat für Stadtplanung und Bauordnung, 09.09.11 und 12.09.11)
+- TOP 9.3.: Fahrradständer an der Sauerbruchstraße (Baureferat, 26.08.11)
+- TOP 9.4.: Bäume auf dem Magerrasen im "Grünfinger Süd" (Baureferat, 23.08.11)
+- TOP 9.5.: Schließung der Netto-Filiale in der Gelbhofstraße 14; Bus 167 an Samstagen (MVG, 23.08.11)
+- TOP 9.6.: Chlor im Leitungswasser (SWM, 25.08.11)
+- TOP 9.7.: Lichtzeichenanlagen in der Blumenau, Nachrüstung von Rechtsabbiegerhilfssignalen (Kreisverwaltungsreferat, 20.09.11)
+- TOP 9.8.: Gebäude-Energiepass für alle Schulgebäude (Referat für Bildung und Sport, 22.09.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Staatseigenes Grundstück FlNr. 269 Gemarkung Großhadern am Stiftsbogen; Vorgehaltenes Grundstück zur Errichtung einer Polizeidienststelle (Immobilien Freistaat Bayern, 07.09.11)
+- TOP 10.2.: Projekt: Hadern der blühende Obstgarten Münchens Anfrage des BA 20 vom 15.09.2011 (ergon e.V., 26.09.11)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung "Das Referat für Bildung und Sport trifft die Bezirksausschüsse" am Mittwoch, 23.11.2011 um 16.00 Uhr (Referat für Bildung und Sport, 12.09.11)
+- TOP 11.2.: Antrag des BA 9 Neuhausen-Nymphenburg vom 16.08.2011: Maßnahmen zur Förderung des Wohnungstausches
+- TOP 11.3.: Maßnahmen gegen Spielsucht und Spielhallen, Antwort des Referates für Stadtplanung und Bauordnung auf den Antrag des BA 7 Sendling-Westpark vom 12.04.2011 (Referat für Stadtplanung und Bauordnung, 26.08.11)
+- TOP 11.4.: SHZ-Rundbrief "einBlick" ist online (Selbsthilfezentrum München, 15.09.11)
+- TOP 11.5.: Gedenkveranstaltung zum 9. November
+- TOP 11.6.: Einladung zum Kolloquium "Der öffentliche Nahverkehr als Katalysator für die Stadtentwicklung" im Herbst/Winter 2011/2012, nächste Termine: 17.10.2011, 28.11.2011 und 09.01.2012 (TU München, 26.09.11)
+- TOP 11.7.: Einladung zur Veranstaltung "Ergebnisse der Evaluation zu den Gebieten mit besonderem Handlungsbedarf" am Donnerstag, 17.11.2011 (Sozialreferat und REGSAM, 26.09.11)
+- TOP 11.8.: Wiederaufnahme der Planungen für den Landschaftspark Pasing-Hadern-Gräfelfing-Planegg; Durchführung einer Bundesgartenschau (Schr. BA 21, 23.09.11)
+- TOP 11.9.: Einladung zum gemeinsamen Austausch über die Realisation stadtweiter Stadtteilpläne am Mittwoch, 19.10.2011 (Referat für Gesundheit und Umwelt, 27.09.11)
+- TOP 11.10.: Ausstellung "Pädagogische Architektur", Eröffnung am Mittwoch, 19.10.2011 um 10.00 Uhr (Referat für Bildung und Sport, 04.10.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 29.06.2011 zur Sitzungsvorlage-Nr. 08-14 / V 06936 (nach Antrag): Kindertagesstätten sonstiger Träger; Kinderkrippe Sauerbruchstraße 8 Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013; Leistung eines Baukostenzuschusses nach dem BayKiBiG in Höhe von 308.871,- ?, wovon der Freistaat Bayern 240.000,- ? trägt
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07408: Stand der städtebaulichen Kriminalprävention in München
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07538: Förderung von Genossenschaften und Baugemeinschaften in München
+- TOP 12.3.: Beschluss des Bauausschusses vom 27.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 04822: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern Untersuchungsergebnisse und weiteres Vorgehen, insbesondere zu den Haltestellen - Ährenfeld der Linien 56 und 167, - Ammerseestraße (Tram West Tangente = TWT), - Andreas-Vöst-Straße (TWT), - Aurikelstraße der Linie 54, - Blumenau der Linien 56, 167, 168 und N-41, - Drozzaweg (Kleinbus), - Ehrenmal der Linien 56 und N-41, - Flemischweg der Linie 168, - Gelbhofstraße (Kleinbus), - Gräfelfinger Straße (Kleinbus), - Großhadern der Linien 56 und N-41, - Großhaderner Straße (Kleinbus), - Guido-Schneble-Straße der Linie 168, - Haderunstraße der Linien 56, 167 und N-41, - Hedernfeld (Kleinbus), - Holzapfelkreuth (TWT), - Hönigschmidplatz der Linien 168 und N-41,
+- TOP 12.4.: - Klinikum Großhadern (Busbahnhof), - Kornwegerstraße der Linie 54, - Krokusstraße der Linien 56, 167 und N-41, - Kurparkstraße (Kleinbus), - Lorettoplatz, - Marchioninistraße der Linien 56 und N-41, - Menaristraße der Linien 168 und N-41, - Platanenstraße der Linie 268 (barrierefrei), - Saalburgstraße der Linie 268, - Silberdistelstraße der Linien 168 und N-41, - Stiftsbogen (Kleinbus), - Terofalstraße der Linien 56, 167 und 168, - Tischlerstraße der Linien 166 und N-41, - Waldfriedhof (Busbahnhof), - Waldfriedhof-Haupteingang (TWT), - Waldhüterstraße der Linien 266 und 268, - Wastl-Witt-Straße der Linie 168, - Wildanger (Kleinbus), - Willibaldstraße der Linien 168 und N-41, - Wolkerweg (Kleinbus), - Zinkgrafstraße der Linien 266 und 268 sowie - Zöllerstraße der Linien 56 und 269
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07337: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07379: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 4 (Schwabing-West), 11 (Milbertshofen - Am Hart) und 12 (Schwabing-Freimann)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07608: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07665: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2011 - 30.06.2011
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07513: Projekt Siedlungsentwicklung und Mobilität - Ergebnisse und Weiterführung
+- TOP 12.3.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07507: Erwerbstätigenprognose für die Landeshauptstadt München und die Landkreise der Planungsregion 14
+- TOP 12.4.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07409: Wohnen in München IV Erfahrungsbericht für das Jahr 2010 mit Ergänzungen, insbesondere zur Streichung von 25 Wohneinheiten aus dem Programm "Großhaderner Straße, Ammerseestraße / MGS (Münchner Gesellschaft für Stadterneuerung)" wegen "Verzögerungen" (Anlage 1)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
