@@ -1,0 +1,76 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-10-10T15:02:00+02:00
+- Ende: 2011-10-10T15:11:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8113
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8113
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen Stand: 20.09.2011 - 07.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00133998.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00134843.pdf
+- Wortprotokoll: Nachtragsliste - Stand: 10.10.2011 - 11.oo Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00134734.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Einführung von Stadtverordneten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Situation von Freien Trägern in Wuppertal, Prävention statt Abbau
+- TOP 2.2: Große Anfrage - Gesprächsergebnisse Orchesterfusion
+- TOP 2.3: Anfrage: Sachstand Kiesbergtunnel
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Keine Bergische Orchesterfusion
+- TOP 4.1.1: Keine Fusion der Bergischen Orchester - vertagt auf Rat
+- TOP 4.2: EU-Mittel für Energieeffizienz und Erneuerbare Energien nutzen - zur Vorberatung verwiesen
+- TOP 4.3: Beförderung von Beamtinnen und Beamten
+- TOP 4.4: Offenlegung von Vorstandsbezügen - vertagt auf Rat
+- TOP 4.5: Einführung eines Sozialtickets - vertagt auf Rat
+- TOP 4.6: Einführung eines Sozialtickets in Wuppertal - vertagt auf Rat
+- TOP 4.7: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern - vertagt auf Rat
+- TOP 4.8: Kein Abschluss ohne Anschluss - für erledigt erklärt
+- TOP 4.9: Zusatz für Ortseingangsschilder - vertagt auf Rat
+- TOP 4.10: Übernahme der Betriebskosten der Bürgerbäder durch die Stadt - vertagt auf Rat
+- TOP 4.11: Aufstellung eines Inklusionsplans, Antrag der FDP- Fraktion vom 08.06.11 - ungeändert beschlossen
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Änderung der Satzung des Gebäudemanagements der Stadt Wuppertal GMW - ungeändert beschlossen
+- TOP 6.2: Satzung der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 6.3: Gebührensatzung für den Rettungsdienst der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.4: Änderung der Satzung zur Erhebung von Elternbeiträgen für Betreuungsangebote in Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 6.5: Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Beleuchtung von Fußgängerüberwegen - ungeändert beschlossen
+- TOP 7.2: Überplanmäßige Mittelbereitstellung für die Fahrbahnerneuerung der Nützenberger Straße - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2010 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1131 - Nördlich Widukindstr.- - ungeändert beschlossen
+- TOP 9.2: Fluchtlinienplan Nr. 968/ Straße Schwabhausen - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1158 - Gewerbegebiet Unterkirchen - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplans Nr. 1148 - Uellendahler Straße / südöstl. Kohlstraße - - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 1160 - Herzogstraße / Neumarktstraße - - ungeändert beschlossen
+- TOP 9.6: Abweichungssatzung Kampstraße - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan Nr. 1146 - Hohenstaufenstraße - - ungeändert beschlossen
+- TOP 9.8: 21.Flächennutzungsplanänderung - Albertstr.- - ungeändert beschlossen
+- TOP 9.9: Bebauungsplan Nr. 778 - Ascheweg/Zandershöfe - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Auflösung der Gemeinschaftsgrundschule Ferdinand-Lassalle-Str. zum 31.07.2011 - Änderung der Beschlussfassung zu Punkt 1 Satz 2 der Vorlage VO/0920/10 - ungeändert beschlossen
+- TOP 11.2: Vereinbarungen zur Erteilung einer Sondernutzungserlaubnis für Außengastronomie in der Innenstadt Barmen
+- TOP 11.3: Aktionsplan zur Umsetzung der Europäischen Charta für die Gleichstellung von Frauen und Männern, Wuppertal 2011 - 2013 - ungeändert beschlossen
+- TOP 11.3.1: Vorlage VO/0528/11, Aktionsplan zur Unterstützung der Europäischen Charta für die Gleichstellung von Frauen und Männern
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Bestellung einer Vertreterin für einen sachkundigen Einwohner im Ausschuss für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH/KIJU - ungeändert beschlossen
+- TOP 12.2: Umbesetzung in den Gremien des Wupperverbandes - geändert beschlossen
+- TOP 12.3: Bestellung der Mitglieder des Verwaltungsrates der Jobcenter Wuppertal AöR - geändert beschlossen
+- TOP 12.4: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.5: Konferenz der Ratsmitglieder beim Städtetag Nordrhein-Westfalen - geändert beschlossen
+- TOP 12.6: Bildung des Anstaltsbeirats der Justizvollzugsanstalt Wuppertal-Ronsdorf - geändert beschlossen
+- TOP 12.7: Umbesetzung von Ausschüssen - ungeändert beschlossen
+- TOP 12.8: Umbesetzung Gremien - ungeändert beschlossen
+- TOP 12.9: Gremienumbesetzung Gestaltungsbeirat - ungeändert beschlossen
