@@ -1,0 +1,95 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2127115
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2127115
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 17.09.2011 Verkehrssituation an der Kreuzung Augusten-/Theresienstraße (s. TOP C 2.1.1)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Liste der Bauvorhaben 35., 36., 37., 38. KW
+- TOP 2.1.2.: Liste der Abgeschlossenheitsbescheinigungen 34., 35., 36., 37. KW
+- TOP 2.1.3.: Referat für Stadtplanung und Bauordnung Bebauungsplan mit Grünordnung Nr. 2049 Marsstraße (südl.), Rundfunkplatz (westl.), Hopfenstraße (westl.), Herbststraße (östl.) (Teiländerung des Bebauungsplanes Nr. 937) ? Aufstellungsbeschluss Anhörung Sitzungsvorlage Nr. 08-14 / V 05506
+- TOP 2.1.4.: Bauvorhaben Arnulfstraße 60, Aufstockung eines Parkdecks
+- TOP 2.1.5.: Bauvorhaben Lenbachplatz 1, Nutzungsänderung zweier Wohnungen zu Büroräumen
+- TOP 2.1.6.: Bauvorhaben Josephsplatz, Gemarkung Sektion III, Fl.Nr. 4871/7 Neubau einer Anwohnertiefgarage
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Schellingstraße 149 bis 151, zwei Kastanien
+- TOP 2.2.2.: Kaulbachstraße 49 a, eine Robinie
+- TOP 2.2.3.: Walter-Klingenbeck-Weg FlurNr. 3524/1, ein Spitzahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 17.09.2011 Verkehrssituation an der Kreuzung Augusten-/Theresienstraße (s. TOP A 5.2.1)
+- TOP 2.1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Gabelsbergerstraße 68, Sondernutzung, Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Aufstellung einer Litfasssäule mit integrierter Toilette am Maßmannspielplatz
+- TOP 2.2.3.: Aufenthaltsqualität auf dem Wittelsbacher platz verbessern
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Türkenstraße 36, Bäckerei, Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Bauvorhaben Arnulfstraße 52, Errichtung eines Biergartens und Neubau von Biergarten- ausgaben; Berücksichtigung der Bedenken des BA 3
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung Stellungnahme des Referates zur Zulässigkeit von Spielhallen s. dazu Antrag des BA 7 Nr. 08-14 / B 02950 vom 12.04.2011 Ziffern 2 und 4
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Sitzungsvorlage Nr. 08-14/V 07608
+- TOP 1.4.: entfällt
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschlussvollzugskontrolle Bericht über die der BVK unterliegenden Beschlüsse vom 01.01.2011 bis 30.06.2011 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Sitzungsvorlage Nr. 08-14 / V 07665
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung Förderung von Genossenschaften und Baugemeinschaften in München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Sitzungsvorlage Nr. 08-14/ V 07538
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung Stand der städtebaulichen Kriminalprävention in München Antrag Nr. 08-14 / A 00613 der Stadtratsfrktion DIE GRÜNEN/RL vom 26.02.2009 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Sitzungsvorlage Nr. 08-14 / V 07408
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung Projekt Siedlungsentwicklung und Mobilität ? Ergebnisse und Weiterführung Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Sitzungsvorlage Nr. 08-14 / V 07513
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Wohnen in München IV, Erfahrungsbericht für das Jahr 2010 mit Ergänzungen Sitzungsvorlagen Nr. 08-14 / V 07409
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden Baugesetzbuch-Klimanovelle Sitzungsvorlagen Nr. 08-14 / V 07684
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baumaßnahmen der Stadtwerke a) Hirtenstraße 4, Fernwärme b) Ottostraße 19, Fernwärme c) Theresienstraße 20, Fernwärme d) Schellingstraße 12, Fernwärme e) Dachauer Straße 71, Neubau f) entfällt g) Augustenstraße 52 bis 60, Neubau
+- TOP 2.2.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid Streetlife Festival/Corso Leopold am 10./11.09.2011 in der Ludwig-/ Leopoldstraße
+- TOP 2.3.: Kreisverwaltungsreferat, VVB Erlaubnisbescheid Biomarkt ?Bio Erleben? im Rahmen des Streetlife Festivals am 10./11.09.2011
+- TOP 2.4.: Freischankflächen für Programmkinos - Ausnahmegenehmigung
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement Einrichten von Radfahrstreifen auf der Fahrbahn Brienner Straße Antrag des BA 3 Nr. 08-14 / B 02192 (bereits erledigt)
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsmanagement Freigabe eines Gehweges (Z 239 StVO) auf der Ostseite des Oskar-von-Miller-Ring zwischen Brienner Straße und Jägerstraße mit dem Zusatz ?Radfahrer frei? Antrag des BA 3 Nr. 08-14 / B 01842 (bereits erledigt)
+- TOP 2.7.: Überprüfung der Pläne zur Gestaltung des Geländes vor dem Amerikanischen Generalkonsulat in der Königinstraße
+- TOP 2.8.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Anpassung der Beschilderung im ruhenden Verkehr wegen Umzug der Polizeiinspektion 42 von der Erzgießereistraße 2 in die Landshuter Allee 38
+- TOP 2.9.: Baureferat, Beschluss des Bauausschusses vom 27.09.2011 ÖNV-Offensive IV: ein- und Ausstieg an Bushaltestellen verbessern Untersuchungsergebnisse und weiteres Vorgehen Sitzungsvorlage Nr. 08-14 / V 04822
+- TOP 2.10.: Baureferat Tiefbau ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern Beschluss des Bauausschusses vom 27.09.2011 Sitzungsvorlage Nr. 08-14 / V 04822
+- TOP 2.11.: Baureferat, Hochbau München erinnert an die Mauertoten des DDR-Regimes Beschluss des Bauausschusses vom 27.09.2011 Sitzungsvorlage Nr. 08-14 / V 07348
+- TOP 2.12.: Kreisverwaltungsreferat, Erlaubnisbescheid für Bauernmarktmeile am 25.09.2011 in der Ludwigstraße und zwischen Odeonsplatz und Von-der-Tann-Straße
+- TOP 2.13.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Umdrehung der Einbahnregelung in der Schleißheimer Straße südl. der Gabelsbergerstraße
+- TOP 2.14.: Referat für Stadtplanung und Bauordnung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 Zukunftschancen für den ÖPNV München XXL verbreitern ? nicht verbauen: Die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München Antrag Nr. 08-14 / A 02044 von Herrn Stadtrat Dr. Georg Kronawitter vom 09.12.2010 Sitzungsvorlagen Nr. 08-14 / V 07337
+- TOP 3.1.: Referat für Bildung und Sport Beschluss des Ausschusses für Bildung und Sport des Stadtrates am 29.09.2011 Sitzungsvorlage Nr. 08-14 / V 07448 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Inves- titionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsinanzierung? 2008-2013
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Kultur
+- TOP 4.1.: Schreiben des Bezirksausschusses 9 Neuhausen-Nymphenburg vom 22.09.2011 Der BA 9 unterstützt die Bemühungen des BA 3 zum Erhalt des Amerika-Hauses am der- zeitigen Standort
+- TOP 4.1.: Direktorium Verbesserte Bürgerbeteiligung III ? Information über stadtteilbezogene Themen optimieren Antrag der CSU-Fraktion im Münchner Stadtrat vom 22.08.2011 vertagt aus der Sitzung vom 13.09.2011 (TOP G 3) Unterlagen liegen bereits vor
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.3.: Abschlussbericht: abgesagtes Kinder- und Bürgerfest 2011
+- TOP 4.4.: Kinder- und Bürgerfest 2012
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 1.1.: Nächste BA- und UA-Sitzungen UA Planung und Umwelt 05.10.2011, 19.30 Uhr, Bürgerbüro, Schellingstraße 28 a UA Verkehr und öffentl. Raum 06.10.2011, 19.00 Uhr, Bürgerbüro, Schellingstraße 28 a UA Soziales und Bildung 10.10.2011, 19.00 Uhr, Bürgerbüro, Schellingstraße 28 a UA Kultur, 04.10.2011, 19.00 Uhr, Cafe ?Telos?, Kurfürstenstraße 2 Bürgerversammlung des BA 3 am 20.10.2011, 19.00 Uhr (Beratungsmöglichkeit ab 18.00 Uhr), Städt. Fremdspracheninstitut, Amalienstraße 36, Rgb. (Turnsaal), 80799 München Die nächste Sitzung des Bezirksausschusses 3 findet am Dienstag, 08.11.2011 um 19.30 Uhr im Sitzungssaal des Palais Dürckheim, Türkenstraße 4 statt.
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
