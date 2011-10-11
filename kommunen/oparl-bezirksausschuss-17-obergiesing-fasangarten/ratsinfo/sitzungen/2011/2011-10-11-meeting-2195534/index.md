@@ -1,0 +1,102 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-10-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2195534
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2195534
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Lärmbelästigung durch Hunde sowie alkoholisierte Besucher am Walchenseeplatz; Bürgerschreiben
+- TOP 2.2.: Wallbergstraße 10 bis 38; Müllsituation und soziale Situation; Schreiben Eigentümergemeinschaft
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Aufforderung an die LHM, durch entsprechende Maßnahmen auf allen politischen Ebenen die Spielsucht wirksam einzudämmen; Antrag des BA 7 - Sendling-Westpark mit der Bitte um Kenntnisnahme und Unterstützung
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Tegernseer Landstraße 135; Beschluss des BA 17 vom 11.10.2011
+- TOP 0.2.: Renovierung der Urnenhäuser am Ostfriedhof; Empfehlung Nr. 08-14 / E 01048 der BÜV des 17. Stadtbezirks vom 07.07.11; Sitzungsvorlage Nr. 08-14 / E 07598; Beschluss des BA 17 vom 11.10.11
+- TOP 0.3.: (E) Renovierung der Urnenhäuser am Ostfriedhof Empfehlung Nr. 08-14 / E 01048 der Bürgerversammlung des Stadtbezirkes 17 Obergiesing-Fasangarten am 07.07.2011 - <div>nach Antrag</div>
+- TOP 0.1.: Anhörungen zu Bauvorhaben 5.1.3.1.1 Brecherspitzstraße 7; Neubau einer Wohnanlage (ca. 72 WE) mit Tiefgarage (ca. 87 Stpl.) - VORBESCHEID; Anhörung vom 15.09.11
+- TOP 0.2.: Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadtpl. u. Bauordnung Katalog Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DSchG), Tegernseer Landstr. 210, Fl.Nr. 12890/7, Gemarkung Sektion VII; Nachtrag der ehem. Reichszeugmeisterei der NSDAP in die Denkmalliste der LHM; Tegernseer Landstr. 223a, 223b, St.-Quirin-Str. 2, 2a, Fl.Nr. 16165/0, Gemarkung Sektion VIII, Nachtrag der ehem. Wagenhalle des sog. Hilfszuges Bayern der NSDAP in die Denkmalliste der LHM; Zuleitung der Unteren Denkmalschutzbehörde vom 16.09.11 mit der Bitte um Kenntnisnahme u. ggf. Stellungnahme
+- TOP 0.3.: "Soziale Stadt" 2011 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramm "Stadt- u. Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt"; Beschlussentwurf des Referats für Stadtplanung und Bauordnung mit der Bitte um Stellungnahme
+- TOP 0.1.: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn; Sitzungsvorlagen Nr. 08-14 / V 07608; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11 (VB)
+- TOP 0.2.: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 4 (Schwabing-West), 11 (Milbertshofen-Am Hart) und 12 (Schwabing-Freimann) a) Satzungsbeschluss Erhaltungssatzung "Milbertshofen" b) Bei Verkauf der GBW Einführung von Erhaltungssatzungen prüfen; Antrag Nr. 08-14 / A 00997 von DIE LINKE vom 10.08.09; Sitzungsvorlagen Nr. 08-14 / V 07379; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11 (VB)
+- TOP 0.3.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.01.2011 - 30.06.2011; Sitzungsvorlagen Nr. 08-14 / V 07665; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11
+- TOP 0.4.: Projekt Siedlungsentwicklung und Mobilität - Ergebnisse und Weiterführung; Sitzungsvorlagen Nr. 08-14 / V 07513; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 28.09.11 (SB)
+- TOP 0.5.: Stand der städtebaulichen Kriminalprävention in München; Antrag Nr. 08-14 / A 00613 der Stadtratsfraktion DIE GRÜNEN/RL vom 26.02.2009; Sitzungsvorlagen Nr. 08-14 / V 07408; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011 (SB)
+- TOP 0.6.: Förderung von Genossenschaften und Baugemeinschaften in München A) Mehrerlöse aus städtischen Grundstücksverkäufen dem Wohnungsmarkt erhalten; Stadtratsantrag Nr. 08-14 / A 02062 vom 15.12.2010 B) Drastischer Anstieg der Baulandpreise - Hilfe für Baugemeinschaften und Wohnungsbaugenossenschaften; Stadtratsantrag Nr. 08-14 / A 02072 vom 16.12.2010; Sitzungsvorlagen Nr. 08-14 / V 07538; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11 (SB)
+- TOP 0.7.: Baufälle im 17. Stadtbezirk
+- TOP 0.8.: Wohnen in München IV - Erfahrungsbericht für das Jahr 2010 mit Ergänzungen; Sitzungsvorlagen Nr. 08-14 / V 07409; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung u. Bauordnung vom 28.09.11
+- TOP 0.9.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.9.1 SSW "St. Benno Einkehr" in der Stadelheimer Str. 17; Mitteilung vom 27.09.11
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Generalinstandsetzung ehem. Altenheim St. Martin - Nutzungskonzept, Severinstraße 2-6 / Werinherstraße 33 im 17. Stadtbezirk Obergiesing-Fasangarten; Zuleitung des Sozialreferats mit der Bitte um Stellungnahme zum Beschlussentwurf bis 18.10.11
+- TOP 0.1.: Ausstattung der Spielplätze im 17. Stadtbezirk mit selbstschließenden Toren; BA-Antrags-Nr. 08-14 / B 03274 vom 12.07.11; Antwortschreiben des Baureferats vom 31.08.11
+- TOP 0.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Entscheidung über die Einrichtung/Änderung/Aufhebung eines Taxistandplatzes gem. Vollmacht des Oberbürgermeisters vom 26.11.07; Taxistandplatz Giesinger Bahnhofplatz: Verlegung in die Schwanseestraße; Taxistandplatz Schlierseestraße: Aufhebung; Änderung der Sperrbeschilderung und Haltverbotsregelungen am Giesinger Bahnhofplatz; Zuleitung des KVR vom 13.09.11; Beschluss des BA 17 vom 11.10.2011
+- TOP 0.2.: Buslinie 145: Verlegung der Wendeschleife Kiesmüller- / Waldsassener Straße (in den bestehenden Kreisverkehr Fasangarten- / Minnewitstraße); Reparatur der beschädigten Kiesmüller- u. Waldsassener Straße durch die MVG; Empfehlung Nr. 08-14 / E 01044 der BÜV des 17. Stadtbezirks vom 07.07.11; Sitzungsvorlage Nr. 08-14 / V 07563; Beschluss des BA 17 vom 11.10.2011 zu TOP 5.3.2.2 Bürgerbeschwerde vom 16.08.11 an das Bayerische Staatsministerium über die Linienführung der Buslinie 145 in der Kiesmüller / Waldsassener Straße
+- TOP 0.3.: Wiedereinrichtung der MVG-Verkaufsstelle in der Fasangartenstraße 99; Empfehlung Nr. 08-14 / E 01045 der BÜV des 17. Stadtbezirks vom 07.07.11; Sitzungsvorlage Nr. 08-14 / V 07550; Beschluss des BA 17 vom 11.10.2011
+- TOP 0.1.: Erinnerungsverfahren Hohenwaldeckstraße 27 / Werinherstraße 71 (Zufahrt neu - Bauschaden - Unterhaltsarbeiten); Zuleitung des Baureferats-Tiefbau mit der bitte um Stellungnahme
+- TOP 0.1.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern; Untersuchungsergebnisse und weiteres Vorgehen; Stadtratsantrag Nr. 08-14 / A 00475; Sitzungsvorlage Nr. 08-14 / V 04822; Beschluss des Bauausschusses vom 27.09.11 (SB)
+- TOP 0.2.: Verkehrsbelastung im Bereich der Siedlung Perlacher Forst; Rückschnitt Grünstreifen Lincolnstraße; Schreiben des Baureferats-Gartenbau an den Siedlerverein Perlacher Forst e.V.
+- TOP 0.3.: Vorübergehende Errichtung einer Haltverbotszone; verkehrsrechtliche Anordnung gem. § 45 Abs. 1 StVO; Schaffung einer Anfahrtszone für Skibusse an der Ungsteiner Str. 50 Seite Frankenthaler Straße, Frankenthaler Str. westlich Pfälzer-Wald-Straße; Abdruck des KVR vom 15.09.11
+- TOP 0.4.: Zustand der Hohenwaldeckstraße; Bürgerschreiben aus der Sitzung vom 13.09.11; Antwortschreiben des Baureferats-Tiefbau vom 19.09.11
+- TOP 0.5.: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potential von Zweisystem U-S-Bahnfahrzeugen für die Region München; Stadtrats-Antrag Nr. 08-14 / A 02044; Sitzungsvorlagen Nr. 08-14 / V 07337; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11 (SB)
+- TOP 0.6.: Durchfahrtssperre am Kreuzbichleweg/Hermelinweg im 17. Stadtbezirk; Anfrage des BA 17 aus der September-Sitzung; Antwortschreiben des KVR vom 21.09.11
+- TOP 0.7.: Ausbauzustand der Untersbergstraße; Bürgeranliegen aus der Sitzung vom 13.09.11; Antwortschreiben des Baureferats vom 21.09.11
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden; Baugesetzbuch-Klimanovelle; Sitzungsvorlagen Nr. 08-14 / V 07684; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11
+- TOP 0.2.: Baumpflanzungen in der Aignerstraße; Mitteilung des Baureferats-Gartenbau vom 28.09.11
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
