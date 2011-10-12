@@ -1,0 +1,63 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2011-10-12T15:00:00+02:00
+- Ende: 2011-10-12T18:15:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1792
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1792
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: announce http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/downloadfiles/a/00072111.pdf
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 3: Vertretung der Stadt MG in Organen von Beteiligungen - Mit Stimmenmehrheit beschlossen
+- TOP 4: Mittelbare Beteiligung der Stadt Mönchengladbach an der PPG Nordpark GmbH - Mit Stimmenmehrheit beschlossen
+- TOP 5: Verbandsausschuss des Wasser- und Bodenverband der Mittleren Niers - Einstimmiger Beschluss
+- TOP 6: Verbandsausschuss des Netterverbands - Einstimmiger Beschluss
+- TOP 7: Vorstand des Schwalmverbandes - Mit Stimmenmehrheit beschlossen
+- TOP 8: Verbandsversammlung des Niersverbandes - Einstimmiger Beschluss
+- TOP 9: Nachwahl in den Landschaftsbeirat - Einstimmiger Beschluss
+- TOP 10: Erster Nachtrag zur Fristensatzung und dreiundvierzigster Nachtrag zur Entwässerungssatzung - Einstimmiger Beschluss
+- TOP 11: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2011 - Kenntnisnahme
+- TOP 12: 32. Nachtrag Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 13: Anpassung der Immissionsschutzplanung am künftigen Tagebaurand bei Wanlo - Mit Stimmenmehrheit beschlossen
+- TOP 14: Einführung Sozialticket in Mönchengadbach - Zur Kenntnis genommen
+- TOP 14.1: Echtes Sozialticket einführen - Zur Kenntnis genommen
+- TOP 14.2: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 15: Beitritt zum Zweckverband KDN - Dachverband kommunaler IT-Dienstleister - - Einstimmiger Beschluss
+- TOP 16: Sperrzeitverordnung - Mit Stimmenmehrheit beschlossen
+- TOP 17: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 18: Genehmigung einer Dringlichkeitsentscheidung - Mit Stimmenmehrheit beschlossen
+- TOP 19: Bildungs- und Teilhabepaket - Einstimmiger Beschluss
+- TOP 20: Anpassung des Betriebsführungsvertrages für die städtischen Hallenbäder - Mit Stimmenmehrheit beschlossen
+- TOP 21: Einsparungen an den städtischen Schwimmbädern - Zur Kenntnis genommen
+- TOP 22: HSK-Maßnahme HSK 2010-0092 - Einstimmiger Beschluss
+- TOP 23: HSK-Maßnahme HSK 2010-0080 - Einstimmiger Beschluss
+- TOP 24: Verlängerung des Vertrages mit dem Arbeitslosenzentrum Mönchengladbach e.V. - Einstimmiger Beschluss
+- TOP 25: Familienpatenschaften - Einstimmiger Beschluss
+- TOP 26: Qualitativer Ausbau der Tagespflege - Mit Stimmenmehrheit beschlossen
+- TOP 27: Betrieb einer Begegnungsstätte - Einstimmiger Beschluss
+- TOP 28: Verlängerung der Sockelbetragsfinanzierung - Einstimmiger Beschluss
+- TOP 29: Umbesetzung des Ausschusses für Soziales, Gesundheit und Senioren - Einstimmiger Beschluss
+- TOP 30: Bebauungsplan Nr. 717/N - Stadtbezirk Nord - Am wasserturm - Einstimmiger Beschluss
+- TOP 31: Satzung Verlängerung Veränderungssperre Hindenburgstraße - Einstimmiger Beschluss
+- TOP 32: Satzung Veränderungssperre Peter-Nonnenmühlen-Allee - Einstimmiger Beschluss
+- TOP 33: Satzung Verlängerung Veränderungssperre Hauptstraße - Einstimmiger Beschluss
+- TOP 34: Bebauungsplan Nr. 701/O - Stadtbezirk Ost - Lürriper Straße - Einstimmiger Beschluss
+- TOP 35: 1. Änderung des Bebauungsplanes Nr. 658/IV - Mit Stimmenmehrheit beschlossen
+- TOP 36: Bebauungsplan Nr. 718/O - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 37: Umbesetzung von Ausschüssen - Einstimmiger Beschluss
+- TOP 38: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 39: Umbesetzungen - Einstimmiger Beschluss
+- TOP 40: Kosten der Unterkunkft - Zur Kenntnis genommen
+- TOP 41: Nutzung von Solarenergie auf den Nordpark-Parkplätzen - Mit Stimmenmehrheit abgelehnt
+- TOP 42: Nutzung der Netzwerke im Konzern "Stadt Mönchengladbach" - Zur Kenntnis genommen
+- TOP 43: Interkommunale Zusammenarbeit - Einstimmiger Beschluss
+- TOP 44: Steigerung der Kontrolle der von der Stadt Mönchengladbach genehmigten - Mit Stimmenmehrheit beschlossen
+- TOP 45: Teilnahme der Stadt MG an einem Förderprojekt "Schaufenster Elektromobilität" - Zur Kenntnis genommen
+- TOP 46: Anfragen - Zur Kenntnis genommen
