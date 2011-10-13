@@ -1,0 +1,71 @@
+# konstituierende Sitzung des Kreistages Ludwigslust-Parchim
+
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Beginn: 2011-10-13T17:00:00+02:00
+- Ende: 2011-10-13T23:45:00+02:00
+- Ort: Putlitzer Straße 25, 19370 Parchim
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5a73013ef24bb7ed5127aef9
+- Ratsinformationssystem: https://www.lwl-pch.sitzung-online.de/bi/to010.asp?SILFDNR=1169
+- OParl: https://oparl.politik-bei-uns.de/meeting/5a73034bf24bb7ed5128ea91
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://cdn.mirror.oparl.org/5a72cbfbf24bb7ed5121b06e/5a72cc72f24bb7ed5121d630
+- Ergebnisprotokoll: sidons https://cdn.mirror.oparl.org/5a72cbfbf24bb7ed5121b06e/5a72cc74f24bb7ed5121d648
+
+## Tagesordnung
+
+- TOP 1: Eröffnung und Begrüßung durch das an Lebensjahren älteste Kreistagsmitglied - (offen)
+- TOP 2: Feststellung der Beschlussfähigkeit und der ordnungsgemäßen Ladung - (offen)
+- TOP 3: Bestätigung der Tagesordnung - (offen)
+- TOP 4: Mitteilung und Feststellung der erfolgten Fraktionsbildung - (offen)
+- TOP 5: Beschlussfassung über die Bildung einer Zählkommission - ungeändert beschlossen
+- TOP 6: Wahl der/des Kreistagspräsidentin/Kreistagspräsidenten - (offen)
+- TOP 7: Verpflichtung des/der Kreistagspräsidenten/Kreistagspräsidentin und Übergabe der Sitzungsleitung - (offen)
+- TOP 8: Verpflichtung der übrigen Kreistagsmitglieder durch die/den Kreistagspräsidentin/ Kreistagspräsidenten - (offen)
+- TOP 9: Wahl des 1. und 2. Stellvertreters des/der Kreistagspräsidenten/Kreistagspräsidentin - (offen)
+- TOP 9.1: Wahl des 1. und 2. Stellvertreters des/der Kreistagspräsidenten/Kreistagspräsidentin - (offen)
+- TOP 10: Wahl der zwei weiteren Mitglieder des Präsidiums - (offen)
+- TOP 11: 1. Satzung zur Änderung der vorläufigen Hauptsatzung des Landkreises Ludwigslust-Parchim - ungeändert beschlossen
+- TOP 12: Geschäftsordnung des Kreistages Ludwigslust-Parchim - ungeändert beschlossen
+- TOP 13: Einwohnerfragestunde - (offen)
+- TOP 14: Mitteilungen des Beauftragten in der Funktion des Landrates - (offen)
+- TOP 15: Anfragen und Wortmeldungen der Kreistagsmitglieder - (offen)
+- TOP 16: Ernennung des Landrates - (offen)
+- TOP 16.1: Entscheidung über Einsprüche gegen die Gültigkeit der Wahl des Landrates - ungeändert beschlossen
+- TOP 16.2: Ernennung des Landrates - (offen)
+- TOP 17: Wahl eines weiteren Beigeordneten und der Stellvertreter des Landrates - (offen)
+- TOP 17.1: Wahl eines 3. Beigeordneten - (offen)
+- TOP 17.2: Wahl des 1. Stellvertreters des Landrates - (offen)
+- TOP 17.3: Wahl des 2. Stellvertreters des Landrates - (offen)
+- TOP 18: Wahl der Mitglieder und sachkundigen Einwohner in die Ausschüsse des Kreistages - (offen)
+- TOP 18.1: Wahl von 11/12 Mitgliedern und deren Stellvertreter in den Kreisausschuss - geändert beschlossen
+- TOP 18.2: Wahl von 7 Mitgliedern und deren persönliche Stellvertreter in den Rechnungsprüfungsausschuss - ungeändert beschlossen
+- TOP 18.3: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Haushalts-und Finanzausschuss - ungeändert beschlossen
+- TOP 18.4: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Wirtschaft, Bau, Tourismus und ländlicher Raum - ungeändert beschlossen
+- TOP 18.5: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Bildung, Kultur und Sport - ungeändert beschlossen
+- TOP 18.6: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 18.7: Wahl von 11 Mitgliedern und deren persönliche Stellvertreter in den Ausschuss für Umwelt, Naturschutz, Abfallwirtschaft und Ordnung und Sicherheit - ungeändert beschlossen
+- TOP 18.8: Wahl von 9 Mitgliedern und deren persönliche Stellvertreter in den Jugendhilfeausschuss - ungeändert beschlossen
+- TOP 18.9: Wahl von 6 Mitgliedern und deren persönliche Stellvertreter in den Jugendhilfeausschuss nach Vorschlag anerkannter Träger der freien Jugendhilfe - ungeändert beschlossen
+- TOP 19: Wahl und Bestellung von Vertretern in Verbandsversammlungen, Aufsichtsräten, Gesellschafterversammlungen und Trägerversammlungen - (offen)
+- TOP 19.1: Wahl von 5 Mitgliedern und 5 Stellvertretern in die Mitgliederversammlung des Landkreistages Mecklenburg-Vorpommern - ungeändert beschlossen
+- TOP 19.2: Wahl von 15 Vertretern und 15 Stellvertretern in die Verbandsversammlung des Regionalen Planungsverbandes Westmecklenburg - ungeändert beschlossen
+- TOP 19.3: Wahl eines Vertreters und eines Stellvertreters in die Verbandsversammlung des Zweckverbandes kommunales Studieninstitut Mecklenburg-Vorpommern - ungeändert beschlossen
+- TOP 19.4: Wahl von 13 Vertretern in die Verbandsversammlung des Zweckverbandes Sparkasse Parchim-Lübz - ungeändert beschlossen
+- TOP 19.5: Wahl von 5 Vertretern für die Verbandsversammlung des Sparkassenzweckverbandes für die Sparkasse Mecklenburg-Schwerin - ungeändert beschlossen
+- TOP 19.6: Wahl von 2 Mitgliedern und 2 Stellvertretern in die Verbandsversammlung des Zweckverbandes Mecklenburgisches Landestheater Parchim - ungeändert beschlossen
+- TOP 19.7: Wahl von 4 Vertretern und 4 Stellvertretern für die Verbandsversammlung des Zweckverbandes "Schaalsee-Landschaft" - ungeändert beschlossen
+- TOP 19.8: Wahl eines Vertreters und eines Stellvertreters für die Verbandsversammlung des Planungsverbandes Transportgewerbegebiet Valluhn-Gallin - ungeändert beschlossen
+- TOP 19.9: Wahl von 3 Vertretern für die Mitgliederversammlung des Vereins Naherholung im Umland Hamburg e.V. - ungeändert beschlossen
+- TOP 19.10: Bestellung von 11 Mitgliedern für die Gesellschafterversammlung der Ludwigsluster Verkehrsgesellschaft mbH - ungeändert beschlossen
+- TOP 19.11: Bestellung von 11 Mitgliedern für die Gesellschafterversammlung der Wirtschaftsförderungsgesellschaft - ungeändert beschlossen
+- TOP 19.12: Bestellung von 4 Vertretern für die Gesellschafterversammlung der Westmecklenburg Klinikum Helene von Bülow GmbH - ungeändert beschlossen
+- TOP 19.13: Bestellung von 4 Vertretern in den Aufsichtsrat der Westmecklenburg Klinikum Helene von Bülow GmbH - ungeändert beschlossen
+- TOP 19.14: Bestellung von 5 Mitgliedern der Arbeitsgruppe Partnerschaften - ungeändert beschlossen
+- TOP 19.15: Bestellung von 3 Mitgliedern in den Beirat der Parchimer Entsorgungs GmbH (PEG) - ungeändert beschlossen
+- TOP 19.16: Bestellung von 5 Mitgliedern in den Aufsichtsrat SGS Bus und Reisen GmbH Schwerin - ungeändert beschlossen
+- TOP 19.17: Bestellung von 6 Mitgliedern in den Aufsichtsrat der Reisedienst Parchim GmbH - ungeändert beschlossen
+- TOP 19.18: Benennung eines Mitgliedes des Kreistages und eines persönlichen Stellvertreters in die Trägerversammlung des Jobcenter Parchim - ungeändert beschlossen
+- TOP 20: Beratung und Verabschiedung von Beschlussvorlagen - (offen)
+- TOP 20.1: Bewilligung von überplanmäßigen Aufwendungen und Auszahlungen mit Wirkung für den Haushalt des bisherigen Landkreises Ludwigslust für den Teilhaushalt des Fachdienstes 51 (Jugend) - ungeändert beschlossen
+- TOP 20.2: Bewilligung von überplanmäßigen Aufwendungen und Auszahlungen mit Wirkung für den Haushalt des bisherigen Landkreises Ludwigslust für den Teilhaushalt des Fachdienstes 50 (Soziales) - ungeändert beschlossen
