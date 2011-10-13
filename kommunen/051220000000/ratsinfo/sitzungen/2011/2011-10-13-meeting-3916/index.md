@@ -1,0 +1,62 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-10-13T16:00:00+02:00
+- Ende: 2011-10-13T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZVn675i7Hi-wrxf-lzo-aYM
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3916
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeGCcDJ_Ek0uGYcLHGFwj2Zi9h8gu0Nfrhxo-0NqtV7x/Oeffentliche_Niederschrift_Rat_13.10.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 15. Sitzung des Rates am 14.07.2011
+- TOP 3: Vorschlag für die En-bloc-Abstimmung
+- TOP 4: Umbesetzung von Ausschüssen und Gremien
+- TOP 5: Bestellung von Mitgliedern in die Gesellschafterversammlung der Entsorgung Solingen GmbH
+- TOP 6: Bestellung eines Prüfers beim Revisionsdienst
+- TOP 7: Zuordnung des Verwaltungsbereiches 23 - Immobilienmanagement zum Finanzausschuss
+- TOP 8: Anpassung der Ausschuss-Struktur an die geänderte Struktur der eigenbetriebsähnlichen Einrichtungen
+- TOP 9: Betriebsausschuss Technische Betriebe Solingen
+- TOP 10: Kosten der politischen Steuerung
+- TOP 11: Kosten der politischen Steuerung
+- TOP 12: Änderung der Zuständigkeitsordnung des Rates
+- TOP 13: Parkraumbewirtschaftung an den Standorten Theater und Konzerthaus sowie Rathausplatz 1
+- TOP 14: Ausweitung der Parkraumbewirtschaftung (HSK M201)
+- TOP 15: Ausweitung der Parkraumbewirtschaftung (HSK M 201)
+- TOP 16: Ausweitung der Parkraumbewirtschaftung (HSK M201)
+- TOP 17: Räumliche Konzentration der Technischen Betriebe Solingen am Standort Dültgenstaler Straße
+- TOP 18: Beratung des Haushaltsplans der Stadt Solingen für das Jahr 2011 einschließlich
+- TOP 19: Wirtschaftsplan 2011 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 20: Kommunalbeirat der MVV Energie
+- TOP 21: Einführung des SozialTickets in Solingen
+- TOP 22: II. Änderungssatzung zur Satzung der Stadt Solingen über die Erhebung von Elternbeiträgen (Elternbeitragssatzung)
+- TOP 23: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 24: Vorstellung des Interkulturellen Gesamtkonzeptes Vision 2020
+- TOP 25: Vorstellung des Interkulturellen Gesamtkonzeptes Vision 2020
+- TOP 26: Vorstellung des Interkulturellen Gesamtkonzeptes Vision 2020
+- TOP 27: Vorstellung des Interkulturellen Gesamtkonzeptes Vision 2020
+- TOP 28: Entlastung der Betriebsleitung und des Betriebsausschusses Altenzentren für die Wirtschaftsjahre bis 2010
+- TOP 29: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 30: Entwicklung des Wirtschaftsstandortes Solingen
+- TOP 31: Neufassung der Vergabeordnung
+- TOP 32: Bauleitplanung Nördliche Van-Meenen-Straße
+- TOP 33: Bauleitplanung Freizeitanlage Aufderhöhe
+- TOP 34: Denkmal der Deutschen Einheit
+- TOP 35: Verschiedenes
+- TOP 36: Veräußerung von RWE-Aktien
+- TOP 37: Anzahl von Leiharbeiterinnen und Leiharbeitern bei der Stadt Solingen
+- TOP 38: Umsetzung des Bildungs- und Teilhabepakets in Solingen
+- TOP 39: Einsparungen alte Betriebsstätten TBSG
+- TOP 40: Zusammenlegung der Veterinärämter Wuppertal/Solingen
+- TOP 41: Stärkungspakt Stadtfinanzen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 15. Sitzung des Rates am 14.07.2011
+- TOP 3: Verschiedenes
+- TOP 4: Bauleitplanung Freizeitanlage Aufderhöhe
