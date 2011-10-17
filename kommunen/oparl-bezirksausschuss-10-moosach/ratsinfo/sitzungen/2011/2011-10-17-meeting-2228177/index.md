@@ -1,0 +1,65 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-10-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2228177
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2228177
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Einrichtung von Kurzzeitparkplätzen im Bereich Pelkovenstr. 73
+- TOP 2.2.: Anbringung eines Briefkastens am Anwesen Schragenhofstr. 27
+- TOP 2.3.: Maßnahmen zur Sicherheit der Fußgänger am Moosacher Bahnhof
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Besichtigung des Technischen Betriebszentrum Schragenhofstraße
+- TOP 3.2.: Ortstermin Wochenmarkt
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine und Bekanntgaben
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Sickerschacht Abensbergstraße
+- TOP 4.2.: Wiederherstellung der Hacklhauswiese
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Vorfahrtsregelung Parkbucht Dachauer Str. / Emmy-Noether-Str.
+- TOP 4.2.: Signalisierung für Radfahrer an der Kreuzung Wintrichring / Nederlinger Str.
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 6: Anhörungen
+- TOP 6.1.: Grundwassermessstelle Abensbergstraße
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Maßnahmen zur besseren Wahrnehmbarkeit des verkehrsberuhigten Bereiches Altomünster Straße (zusätzliches Hinweisschild wurde angebracht; weitere Maßnahmen sind lt. KVR nicht erforderlich)
+- TOP 7.2.: Zuständigkeit der Feuerwehren in Moosach (kein Fehlverhalten beim Einsatz am 18.08.11 feststellbar)
+- TOP 7.3.: Auflösung der Schulbushaltestelle in der Leipziger Straße auf Höhe der Kirche (verkehrsrechtliche Anordnung ist bereits erfolgt)
+- TOP 7.4.: Lichtsignalanlage Hugo-Troendle-Str. / Gleißmüllerstraße (Stellungnahme des Bayer. Blinden- und Sehbehindertenbundes e.V.)
+- TOP 7.5.: Ausbau der Waldhornstraße (telefonische Zwischennachricht)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Projekt Siedlungsentwicklung und Mobilität ? Ergebnisse und Weiterführung (Vorlagen Nr. 08-14 / V 07513)
+- TOP 8.4.: Planfestestellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn (Vorlagen Nr. 08-14 / V 07608)
+- TOP 8.5.: Stand der städtebaulichen Kriminalprävention in München (Vorlagen Nr. 08-14 / V 07408)
+- TOP 8.6.: Förderung von Genossenschaften und Baugemeinschaften in München (Vorlagen Nr. 08-14 / V 07538)
+- TOP 8.7.: Erlass einer Erhaltungssatzung in den Stadtbezirken 4 (Schwabing - West), 11 (Milbertshofen ? Am Hart) und 12 (Schwabing - Freimann) (Vorlagen Nr. 08-14 / V 07379)
+- TOP 8.8.: Wohnen in München IV, Erfahrungsbericht für das Jahr 2010 mit Ergänzungen (Vorlagen Nr. 08-14 / V 07409)
+- TOP 8.9.: Zukunftschancen für den ÖPNV München XXL verbreitern ? nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München (Vorlagen Nr. 08-14 / V 07337)
+- TOP 8.10.: Beschlussvollzugskontrolle 01.01.2011 bis 30.06.2011 (Vorlagen Nr. 08-14 / V 07665)
+- TOP 8.11.: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden, Baugesetzbuch-Klimanovelle (Vorlagen Nr. 08-14 / V 07684)
+- TOP 8.12.: Genehmigung für Arbeiten im Straßenraum: 1. Dachauer Str. 192 / Darmstädter Str. 7 vom 04.10.11 bis 22.11.11 2. Untermenzinger Str. zw. Allacher Str. und Lauinger Str. vom 26.09.11 bis 25.10.11
+- TOP 8.13.: Drehgenehmigung Riesstraße 86 und Lassallestraße/ Daxetstr. am 20. und 21.09.11
+- TOP 8.14.: Leistungsprogramm der MVG für die Fahrplanperiode 2012, Beschluss der Vollversammlung vom 27.07.2011 (Vorlagen Nr. 08-14 / V 07152)
+- TOP 8.15.: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich (§ 34 BauGB) (Vorlagen Nr. 08-14 / V 07755)
+- TOP 8.16.: Optimierung des Beratungsangebotes im Referat für Stadtplanung und Bauordnung ? Lokalbaukommission (Vorlagen Nr. 08-14 / V 07721)
+- TOP 8.17.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern, Untersuchungsergebnisse und weiteres Vorgehen (Vorlagen Nr. 08-14 / V 04822)
+- TOP 8.18.: Baumaßnahmen der SWM 1. Erdgasprojekt Warschauer Straße 2. Erdgasprojekt Hugo-Troendle-Straße
+- TOP 8.19.: Krippe Bauberger- / Bunzlauer Straße
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
