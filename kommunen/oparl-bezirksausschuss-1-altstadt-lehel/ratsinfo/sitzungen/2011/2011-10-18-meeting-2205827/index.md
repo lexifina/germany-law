@@ -1,0 +1,105 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-10-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205827
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205827
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: ?Stellplatzablöse? im Rahmen des Baugenehmigungsverfahrens (Beschluss aus der Sitzung vom 20.09.2011)
+- TOP .1.: Vorsitzender: Kiosk an der Maximilianstraße / Ecke Steinsdorfstraße
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Westenriederstraße 10: Neubau eines Wohn- und Geschäftshauses (Tektur)
+- TOP .2.: Blumenstraße 4?6: Einbau zweier Emporen und Erschließung Schrannenhalle, Umbau EG und UG, Nutzungsänderung UG
+- TOP .3.: Prinzregentenstraße 54: Nutzungsänderungen (mehrfach vertagt)
+- TOP .4.: Widenmayerstraße 31: Nutzungsänderung, Hausmeisterwohnung zu Gewerbeeinheit
+- TOP .5.: Odeonsplatz 8: Nutzungsänderung, Kino zu Gastronomie
+- TOP .6.: Robert-Koch-Straße 7 ? 7a: Nutzungsänderung und Umbau einer Gaststätte und Ladeneinheit in Büros
+- TOP .7.: Sendlinger Straße 7: Ladeneinheit zu Imbiss-Lokal mit Freischankfläche
+- TOP .8.: Blumenstraße 17: Aufstockung eines Wohn- und Geschäftshauses
+- TOP .1.: Ausweitung des Christkindlmarktes und den Konsequenzen auch für die Werbeverkaufsstände (Beschluss aus der Sitzung vom 20.09.2011)
+- TOP .1.: Bürger: Verköstigung auf dem Viktualienmarkt bei Stadtführungen
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Hochbrückenstraße 4: Aufstellung einer neuen Verkaufseinrichtung
+- TOP .2.: Zeitungsständer für ?Welt Kompakt?, verschiedene Orte
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Christkindlmarkt am Sendlinger Tor vom 24.11.-23.12., Sendlinger-Tor-Platz
+- TOP .2.: Münchner Eiszauber vom 18.11.-15.01.2011, Karlsplatz
+- TOP .1.: Bürger: Sight-Seeing-Busse im Tal
+- TOP .2.: Bürger: Rindermarkt/ Oberanger/ Rosental ? Fußgängerweg verlegen!
+- TOP .3.: Bürger: Parkende Autos vs. Spielende Kinder am St.-Anna-Platz
+- TOP .4.: Bürger: Verkehrsampel Altstadtring / Maximilianstraße
+- TOP .5.: Bürger: Taxistand Marienplatz
+- TOP .6.: Bündnis 90/ DIE Grünen: Sanierung der Straßenpflasterung in der Knöbelstraße zwischen Thierschstraße und Knöbelstraße 16 und der Adelgundenstraße zwischen Maximilianstraße und Knöbelstraße
+- TOP .7.: Bürger: Verkehrsführung für Krankenwaren des ?Roten Kreuz? im Lehel, Seitzstraße/Christophstraße
+- TOP .8.: SPD-Fraktion: Wiederherstellung des Marienhof nach den archäologischen Grabungen
+- TOP .9.: Vorsitzender: Parkplätze Bräuhausstraße 6
+- TOP .10.: NACHTRAG des UA: Öffnung der Seitzstraße zwischen Thomas-Wimmer-Ring und dem BRK für den gegenläufigen Radverkehr
+- TOP .1.: Errichtung eines Behindertenparkplatz vor dem Anwesen Hackenstraße 12
+- TOP .2.: Baumfällung Kapellenstraße 2 - 4
+- TOP .3.: Einbeziehung der Parkbuchtstellplätze vor dem Anwesen Prinzregentenstraße 1 (Haus der Kunst) ins Parklizenzgebiet ?Mittleres Lehel?
+- TOP .4.: Hochbrückenstraße 4 ? Wiederaufhebung des vom BA geforderten Parkplatzes
+- TOP .5.: NACHTRAG: Baumfällung Praterinsel 1
+- TOP .6.: NACHTRAG: Baumfällung Thierschstraße 31
+- TOP .1.: Vorstellung der Initiative ?Musica Sacra St. Anna?
+- TOP .2.: Genehmigungspraxis bei Kulturveranstaltungen
+- TOP .1.: Ortstermin zur BV-Empfehlung ?Mehr Hundekottüttenspender auf der Schwindinsel? am 27.10.2011 um 16.30 Uhr, Treffpunkt: auf der Brücke
+- TOP .2.: Kassenbericht 2010
+- TOP .3.: Treffen des Referats für Bildung und Sport 2012 am 09.05.2012 um 16.00 Uhr, Bayerstraße 28, Raum 5.074
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Beschluss des Planungsausschusses vom 28.09.2011: Beschlussvollzugskontrolle
+- TOP 0.5.: Beschluss des Planungsausschusses vom 28.09.2011: Stand der Städtebaulichen Kriminalprävention in München
+- TOP 0.6.: Beschluss des Planungsausschusses vom 28.09.2011: Förderung von Genossen-schaften und Baugemeinschaften in München
+- TOP 0.7.: Beschluss des Planungsausschusses vom 28.09.2011: Beteiligung des Stadtrates bei Bauvorhaben im Landschaftsschutzgebiet Isarauen
+- TOP 0.8.: Beschluss des Planungsausschusses vom 28.09.2011: Erlass einer Erhaltungssatzung in den Stadtbezirken 4, 11 und 12
+- TOP 0.9.: Antwortschreiben zum Antrag des BA 5 Sendling-Westpark: Maßnahmen gegen Spielsucht und Spielhallen
+- TOP 0.10.: Information zur Zweckentfremdung von Wohnraum
+- TOP 0.11.: Baugenehmigung Kaufinger Straße 24, TOP 2011.08 B 3.1.3
+- TOP 0.12.: Bekanntgabe im Planungsausschusses vom 28.09.2011: Wohnen in München IV
+- TOP 0.13.: Änderung der Richtlinien für die Gestaltung und Genehmigung von Freischankflächen - Heizstrahler
+- TOP 0.14.: Beschluss des Kreisverwaltungsausschusses vom 04.10.2011: Feuerwehrwache 1 (Hauptfeuerwehrwache) samt Nebengebäuden
+- TOP 0.15.: Beschluss des Planungsausschusses vom 12.10.2011: Optimierung des Beratungsangebots - Lokalbaukommission
+- TOP 0.16.: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung zur Kunstaktion ?Minima Temporalia? am 24.09.2011, Odeonsplatz
+- TOP 0.6.: Eilentscheidung zum Feierwerk Oberanger, Antragsstellung zurückgezogen
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Beschluss des Planungsausschusses vom 28.09.2011: Planfeststellungsbeschluss für den Verkehrsflughafen München 3. Start und Landebahn
+- TOP 0.3.: Beschluss des Planungsausschusses vom 28.09.2011: Projekt Siedlungsentwicklung und Mobilität ? Ergebnisse und Weiterfühung
+- TOP 0.4.: Beschluss des Bauausschusses vom 27.09.2011: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 0.5.: Schnellstmögliche Wiederherstellung einer Treppe am Ostufer der Praterinsel
+- TOP 0.6.: Bauarbeiten Kardinal-Faulhaber-Straße zwischen Promenadeplatz und Salvatorstraße vom 26.09. bis voraussichtlich 04.11.2011
+- TOP 0.7.: Beschluss des Planungsausschusses vom 28.09.2011: Zukunftschancen für den ÖPNV Protential von Zweisystem U-S-Bahnfahrzeugen
+- TOP 0.8.: Öffnung der Gewürzmühlstraße für den gegenläufigen Radverkehr
+- TOP 0.9.: Bekanntgabe im Planungsausschuss vom 28.09.2011: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden Baugesetzbuch-Klimanovelle
+- TOP 0.10.: Beschluss des Planungsausschusses vom 12.10.2011: Der Freistaat fördert die Mobilität der EMM-Region
+- TOP 0.11.: Sanierung Salvatorstraße
+- TOP 0.1.: Beschluss des Bauausschusses vom 27.09.2011: München erinnert an die Mauertoten des DDR-Regimes
+- TOP 0.2.: Schreiben des Schulleiters der St.-Anna-Grundschule zum Antrag des BA bzgl. der Mittagsbetreuung an der Schule
+- TOP 0.3.: Schreiben des BA 13 Bogenhausen zu Erarbeitung eines Finanzierungskonzepts für das Theater des Hölzernen Gelächters
+- TOP 0.4.: Schreiben des Schulreferats zum Antrag des BA bzgl. der Mittagsbetreuung an der Schule
+- TOP 0.5.: Verwendungsnachweis Hofflohmarkt im Lehel
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
