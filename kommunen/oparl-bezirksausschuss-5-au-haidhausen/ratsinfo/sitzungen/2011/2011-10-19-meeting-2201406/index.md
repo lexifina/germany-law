@@ -1,0 +1,107 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-10-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201406
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201406
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Baustellen- und Parkplatzproblematik in Haidhausen; dazu auch: Schreiben des Kreisverwaltungsreferats vom 04.10.2011 und 05.10.2011, Schreiben des Baureferats vom 06.10.2011
+- TOP .2.: Nächtliche Ruhestörung durch Basketball; dazu auch: Schreiben des Baureferats HA Gartenbau vom 04.10.2011
+- TOP .3.: Radfahrstreifen Rosenheimer Berg; dazu auch: Schreiben des Kreisverwaltungsreferats vom 04.10.2011
+- TOP .4.: Tiefgaragenausfahrt Prinzregentenhof
+- TOP .5.: Keine Ferienruhe wegen Baulärm
+- TOP .6.: Radwegmarkierung Rosenheimer Straße / Orleansstraße
+- TOP .7.: Radstellplätze in der Lilienstraße
+- TOP .8.: Maria-Theresia-Straße für den Verkehr sperren oder als Einbahnstraße ausweisen
+- TOP .5.: Anträge
+- TOP .5.1: Anträge der Einwohnerversammlung am 28.09.2011
+- TOP .5.1.1: Angenommene Anträge
+- TOP .1.: Zustimmung zur Planung und Ausführung des ?Klenzesteges?
+- TOP .2.: Zugang von der Brücke direkt auf die Grünanlage unten an der Isar
+- TOP 5.1.2: Abgelehnte Anträge
+- TOP 5.1.2.1.: Verzicht auf den Planungswettbewerb und den Bau des ?Klenzesteges? (3 Anträge)
+- TOP 5.1.2.2.: Planung des ?Klenzesteges? als reinen Fußgängerweg (2 Anträge)
+- TOP 5.1.2.5.2: BA-Anträge
+- TOP 5.1.2.1.: Einrichtung Pilotprojekt auf der Rosenheimer Straße, Antrag der FDP
+- TOP 5.1.2.6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 5.1.2.6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP 5.1.2.1.: Max-Weber-Platz 10, ?Teepraline?: Genehmigung einer Freischankfläche - <div>abweichend</div>
+- TOP 5.1.2.2.: Oefelestr. 12, ?Miss Lilly?: Genehmigung einer Freischankfläche (vertagt aus 09/11) - <div>abweichend</div>
+- TOP 5.1.2.6.3: Sonstige Entscheidungen
+- TOP 5.1.2.1.: Projektplanung Wörthstraße Ecke Breisacher Straße / Pariser Straße - <div>abweichend</div>
+- TOP 5.1.2.2.: Neueinrichtung Taxistandplatz Orleansstraße 83 - <div>abweichend</div>
+- TOP 5.1.2.1.: Frühlingsanlagen, Laternenfest des Kiga Fischstäbchen e.V. am 11.11.2011
+- TOP 5.1.2.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 5.1.2.1.: Reinigen der Verkehrszeichen und Straßennamensschilder im Stadtbezirk 5
+- TOP 5.1.2.2.: Wiederanbringen der Richtungspfeile an der Kreuzung Orleansplatz / Orleansstraße vor den Häusern Orleansstraße 47 und Orleansplatz 2
+- TOP 5.1.2.3.: Fahrradstellplätze in der Wörthstraße
+- TOP 5.1.2.4.: Tempo 30 in der Elsässer Straße
+- TOP 5.1.2.8.2: Reaktionen auf BA-Schreiben
+- TOP 5.1.2.1.: Verbesserung der Situation für Fußgänger an der Fußgängerampel Innere Wiener Str. / Kellerstr. auf Höhe der Loretokapelle durch Rücknahme der ÖPNV-Beschleunigung
+- TOP 5.1.2.8.3: Sonstige Unterrichtungen
+- TOP 5.1.2.1.: Baustelleneinrichtung in der Elsässer Straße; Ausnahmebewilligung vom 22.09.2011
+- TOP 5.1.2.2.: Projektgenehmigung ?RS Haidhausen-Ramersdorf und Haidhausen-Giesing, Kanalsanierung 2011/2012?
+- TOP 5.1.2.3.: KJR Projekt Schwarz-Weiß-Buch an verschiedenen Plätzen (hier: Orleansplatz) vom 28.10.2011 bis 02.11.2011; Eilentscheidung der Vorsitzenden
+- TOP 5.1.2.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 5.1.2.1.: Regsam
+- TOP 5.1.2.2.: Kinder und Jugend
+- TOP 5.1.2.3.: Behinderte und Barrierefreiheit
+- TOP 5.1.2.4.: Ausländer und Flüchtlinge
+- TOP 5.1.2.5.: Frauen und Mädchen
+- TOP 5.1.2.6.: Internet
+- TOP 5.1.2.7.: Baumschutz
+- TOP 5.1.2.1.: Graham Lack, ?Streicherprojekt? (Vorstellung des Projekts am 6. Juli 2011 im UA-Kultur). Angebot zur Unterstützung des Projekts von der Musikalienhandlung ?Lindberg? auf Grund eines Zeitungsartikels in der SZ
+- TOP 5.1.2.2.: Schreiben vom 23. September 2011 der Filmfirma ?Softmaschine? (Einsteinstr 28 / Schloßstraße) auf Unterstützung (nicht finanziell) bei der Anmietung eines Raumes in der Einsteinstr.28 (Stadtwerke) für eine zeitlich befristete Filmproduktion (Zeitraum: Oktober 2011 bis März 2012)
+- TOP 5.1.2.3.: Vermietung der Black Box im Gasteig (siehe UA Protokoll)
+- TOP 5.1.2.4.: Stadtratsbeschluss zu EINSTEIN Kulturzentrum
+- TOP 5.1.2.1.: Gebsattelstr. 15, Errichtung einer Freischankfläche (53,7 m² / 86 Sitzplätze)
+- TOP 5.1.2.2.: Wörthstr. 36, Nutzungsänderung einer Wohn- in eine Ladeneinheit (Erdgeschoss), zweier Wohn-/Ladeneinheiten in zwei Ladeneinheiten sowie von sechs Wohnheimzimmern in zwei Wohneinheiten; Zuschlag von Speicherraum zu zwei Wohneinheiten
+- TOP 5.1.2.3.: Franziskanerstr. 19, Nutzungsänderung eines Ladens mit genehmigungsfreiem Gastronomiebereich in Gastronomie mit Laden
+- TOP 5.1.2.4.: Orleansstr. 58, Temporäre Nutzungsänderung für den Kfz-Verkauf (befristet auf drei Jahre)
+- TOP 5.1.2.5.: Metzstr. 8: Nutzungsänderung Ladengeschäft zu Bäckerei und Eisdiele
+- TOP 5.1.2.1.: Überprüfung der Freischankflächen in Au-Haidhausen
+- TOP 5.1.2.2.: Zuwendung aus dem BA-Budget für das Internationale Stadtteilfest am 03.07.2011, hier: teilweise Rückforderung
+- TOP 5.1.2.3.: Zuwendung aus dem BA-Budget für den Projektraum RSTR4 ? Ausstellungsprogramm von August bis Dezember 2010, hier: teilweise Rückforderung
+- TOP 5.1.2.1.: Überplanung der Postwiese, Vorstellung durch das Baureferat Gartenbau
+- TOP 5.1.2.2.: Gravelottestr. 2: Nutzungsänderung eines Hobbyraums in eine Werkstatt mit Arbeitsbereich, Zusammenlegung der Wohnungen 9 + 10 im 3. OG
+- TOP 5.1.2.3.: Rosenheimer Str. 4-6: Neubau eines Gebäudes (1 WE) mit Garage ? VORBESCHEID
+- TOP 5.1.2.4.: Grillparzerstr. 10: Nutzungsänderung von Büroflächen in ein biotechnisches Fachlabor im 2. Obergeschoss eines Bürogebäudes ? TEKTUR
+- TOP 5.1.2.1.: Beteiligung des Stadtrates bei Bauvorhaben gemäß § 35 BauGB im Landschaftsschutzgebiet Isarauen; Aufhebung des Beschlusses des Ausschusses für Stadtplanung und Bauordnung vom 18.09.1985; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 5.1.2.2.: Projekt Siedlungsentwicklung und Mobilität ? Ergebnisse und Weiterführung; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 5.1.2.3.: Wohnen in München IV, Erfahrungsbericht für das Jahr 2010 mit Ergänzungen, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 28.09.2011
+- TOP 5.1.2.4.: Kinderkrippe Einsteinstr. 177, Investitionskostenzuschuss
+- TOP 5.1.2.1.: Bürgeranliegen Lothringer Straße als Einbahnstraße ausweisen (vertagt aus 09/11)
+- TOP 5.1.2.1.: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden, Baugesetzbuch-Klimanovelle; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 5.1.2.2.: Zukunftschancen für den ÖPNV München XXL verbreitern ? nicht verbauen: die Inzell-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 5.1.2.3.: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP 5.1.2.4.: Maßnahmen an der Buslinie 58, Präsentation der SWM am 04.10.2011
+- TOP 5.1.2.1.: Berichte von wahrgenommenen Terminen
+- TOP 5.1.2.2.: Nächste UA-Sitzungen
+- TOP 5.1.2.1.: UA Kultur: Mittwoch, 02.11.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Mittwoch, 19.30 Uhr, PRISMA UA Wirtschaft: Dienstag, 08.11.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 10.11.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Mo, 07.11.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 5.1.2.3.: Nächste BA-Sitzung
+- TOP 5.1.2.1.: Mittwoch, 16.11.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 5.1.2.4.: Sonstige Termine
+- TOP 5.1.2.1.: Ganztagsbildung ? Chancen für alle, Erster Ganztagsbildungskongress in München,Kongresseröffnung am Mittwoch, 26.10.2011 um 14.00 Uhr im Saal des Alten Rathauses
+- TOP 5.1.2.2.: ?Laut gegen Brauntöne?: Die städtische Kampagne gegen Rechtsextremismus geht in die nächste Runde, verschiedene Angebote und Termine
+- TOP 5.1.2.3.: Bauzentrum München, Abendforum ?Wärmepumpen im Vergleich?, 26.10.2011, ab 15.45 Uhr
+- TOP 5.1.2.4.: ?Platz da!- Schwarz-Weiß-Buch on Tour?: Einladung zur mobilen Ausstellung am 02.11.2011, 16.00 ? 20.00 Uhr, Orleansplatz
+- TOP 5.1.2.5.: Begrünungsaktion Pariser Straße / Rosenheimer Straße, Samstag 29.10.2011, 13.00 Uhr
+- TOP 5.1.2.6.: Barrierefreier Zugang zur Isar, Ortstermin mit Baureferat
+- TOP 5.1.2.7.: Mietertag 2011, 24.11.2011, 17.30 -20.30 Uhr, Alter Rathaussaal
+- TOP 5.1.2.8.: Fachgespräch Kreisjugendring München-Stadt, ?Die Schule verändert Jugendarbeit- Verändert die Jugendarbeit Schule??, Freitag 02.12.2011, 09.00 ? 13.00 Uhr, DGB-Haus, Schwanthalerstr. 64, Ludwig-Koch-Saal
+- TOP 5.1.2.1.: Entscheidungen
+- TOP 5.1.2.2.: Anhörungen
+- TOP 5.1.2.3.: Unterrichtungen
