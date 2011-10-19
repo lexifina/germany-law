@@ -1,0 +1,106 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2011-10-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154482
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154482
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Parkprobleme an der S-Bahn Haltestelle Lochhausen
+- TOP 2.2.: Nutzung der Grünfläche Friedrichshafener Straße
+- TOP 2.3.: S4-West: Langzüge vollständig ab 2014 und barrierefreier Ausbau
+- TOP 2.4.: Missstände durch Autohändler im Wohngebiet in Altaubing
+- TOP 2.5.: Rechts vor Linksregelung in der Ubostraße
+- TOP 2.6.: Postfiliale Limesstraße
+- TOP 2.7.: Zustand des Gehwegs an der Kallmünzerstraße / Ecke Brunhamstraße
+- TOP 2.8.: Parkprobleme für Besucher des Friedhofs in der Schussenriederstraße
+- TOP 2.9.: Einrichtung von Fußgängerüberwege in der Limes- und Aubingerstraße
+- TOP 2.10.: Renovierung/Reparatur des Schwimmbads der Grundschule an der Limesstraße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anfrage: - Krautgartenweg 44 - Rohrsängerplatz 22 - Rohrdommelweg 26 - Eichelhäherstr. 58
+- TOP 3.2.: Baumfällungen Bauvorhaben: - Hellensteinstraße gem. Baumbestandsplan Nr. 2011-20342 - Kleiberweg (Haus 1 + 2) gem. Baumbestandsplan Nr. 2011-23706 und Nr. 2011-23708
+- TOP 3.3.: Baumfällungen in Aubing und Lochhausen, Schr. Baureferat vom 05.09.11
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Budget des BA 22; BA-eigene Veranstaltung "Wir planen für die Zukunft - Campus Freiham" (Regsam)
+- TOP 4.2.: Budge des BA 22; BA-eigene Veranstaltung "Ausstellung: Hartes Brot - Gutes Leben"
+- TOP 4.3.: S-Bahn-Nachrüstung und Zuverlässigkeit verbessern
+- TOP 4.4.: Keine Reduzierung der Verkehrsweghelfer
+- TOP 4.5.: Situation Verkehrsweghelfer im 22. Stadtbezirk
+- TOP 4.6.: Sicherung des nördlichen Zugangs S-Bahn-Halt Aubing
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse, Regsam e.V. - Veranstaltung "Campus Freiham" am 27.10.2011
+- TOP 2: Erhalt des Dorfkernensembles Aubing (Empfehlung Nr. 08-14 / E 00992 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 28.06.2011)
+- TOP 2.3.: Erschließung Grundstück Weißensteinstr. 2 - straßennahe Anordnung der Garagen (Ziffer 1 des Antrages) - keine Genehmigung von Festbrennstoffanlagen (Ziffer 2 des Antrages) (Empfehlung Nr. 08-14 / E 00993 der Bürgerversammlung des Stadtbezirkes 22 - Aubing-Lochhausen-Langwied am 28.06.2011)
+- TOP 2.4.: Budget der Bezirksausschüsse: BRK Wasserwacht, OG München-West, Renovierung der Außenanlagen
+- TOP 2.5.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung; Öffentliche Ausgleichsflächen mit Grünzug und Spielplatz im Umgriff des Bebauungsplans mit Grünordnung Nr. 1703 im 22. Stadtbezirk
+- TOP 6: Errichtung eines Fuß- und Radweges an der Kronwinkler Straße von der Kastelburgstraße bis zur Bergsonstraße
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Abschlussbericht von REGSAM West über die Veranstaltungswoche gegen Armut und Ausgrenzung, Schr. REGSAM vom 08.09.11
+- TOP 6.2.: Veranstaltungen September und Oktober 2011, Schr. Kulturreferat vom 01.09.11 und 10.10.11
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Budget für den Elternbeirat der Hauptschule Wiesentfelser Straße für Akademie "Kinder philosophieren" - Verwendungsnachweis, Schr. Direktorium vom 15.09.11
+- TOP 6.2.: Zuwendungsbescheid für SV Aubing e.V. für Fußballturnier für Integrationsmannschaften, Schr. Direktorium vom 27.09.11
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Gewerbegebiet Freiham - Vergabe von Gewerbegrundstücken, Schr. Referat für Arbeit und Wirtschaft vom 08.09.11 und 21.09.11
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Wegweisung zur Stuttgarter Autobahn (BAB A 8) vom Wintrichring über die Allacher Straße / Von-Kahr-Straße statt - wie bisher - über die Menzinger Starße / Verdistraße, Anhörung KVR vom 07.09.11
+- TOP 6.2.: Einrichtung einer Ausweichstelle für den Linienbusverkehr in der Pretzfelder Straße, Anhörung KVR vom 29.09.11
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 29.08. - 04.09.11, v. 05.09. - 11.09.11, 12.09.-.18.09.11, 19.09. - 25.09.11, 26.09.-02.10.11), Schr. Planungsreferat vom 05.09.11, 12.09.11, 19.09.11, 26.09.11, 04.10.11
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 05.09.11, 12.09.11, 19.09.11, 26.09.11, 04.10.11
+- TOP 6.3.: Bodenseestraße - Sanierung der Kreuzung Bodenseestraße / Limesstraße / Brunhamstraße, Schr. Baureferat vom 14.09.11
+- TOP 6.4.: Kiesaufschüttung, Schr. Kommunalreferat vom 12.09.11
+- TOP 6.5.: Baumaßnahmen der SWM: - Stromprojekt Zwingenberger Straße, Schr. SWM vom 07.09.11 - Stromprojekt Aufseßer Straße, Schr. SWM vom 02.09.11 - Stromprojekt Netztrafostation Paosostraße, Schr. SWM vom 13.09.11 - Stromprojekt Toni-Berger-Straße - Änderung Terminablauf, Schr. SWM vom 19.09.11
+- TOP 6.6.: Verlagerung der Bahnstromtrasse über die Freihamer Allee an die Bahngleise und Befreiung der Grundstücke östlich und westlich des Nordteils der Freihamer Allee von den bisherigen Bahnstrommasten, Schr. Referat für Arbeit und Wirtschaft vom 22.07.11 und Schr. Planungsreferat vom 25.08.11 (vertagt aus 08/11)
+- TOP 6.7.: Vollzug des Bundes-Immissionsschutzgesetz (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für Betrieb von Müllsammelfahrzeugen, Schr. Referat für Gesundheit und Umwelt vom 01.09.11
+- TOP 6.8.: Durchgehender Radweg nach Altaubing, Schr. Baureferat vom 05.09.11
+- TOP 6.9.: Verkehrssicherheit Bergsonstraße, Fahrbahnverschwenkung (BA-Antrag Nr. 2460/22.), Einrichtung einer Kurzparkzone in Höhe Ubosstr. 11 (BA-Antrag Nr. 2425/22.), Einrichtung von einseitigen Halteverboten in der Ubostraße (BA-Antrag Nr. 2904/22.), Ortstermin am 05.09.11, Schr. KVR vom 29.09.11
+- TOP 6.10.: Nachrüstung der Ampelanlage an der Wiesentfelser Str. / Riesenburgstr., Schr. KVR vom 26.09.11
+- TOP 6.11.: Umweltinformationen Böhmerweiher, Schr. Baureferat vom 28.09.11
+- TOP 6.12.: Aufstellung von Informationsschaukästen für den Bezirksausschuss des Stadtbezirks 22: - im Bereich der Grünfläche Sponeckplatz (Südwestseite) - im Bereich südlich der Bahnunterführung zum S-Bahnhof Aubing - im Bereich der Ecke Pottensteinstr./Wiesentfelser Str. - im Bereich der Ecke Kunreuthstr. 8/Riesenburgstraße, Schr. Kommunalreferat vom 29.09.11
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Verkauf einer städt. Immobilie: Erwin-Hielscher-Straße, Anhörung Kommunalreferat vom 04.10.11
+- TOP 7.2.: Veranstaltung auf öffentlichen Vekehrsgrund: SPD Christkindlmarkt am Gößweinsteinplatz am 03.12.11, Anhörung KVR vom 11.10.11
+- TOP 7.3.: Veranstaltung auf städt. Grünanlage: Jubiläum des Waldkindergartens Aubinger Lohe e.V. am 22.10.11 am Spielplatz Aubinger Lohe, Anhörung KVR vom 14.10.11 - Vorabzustimmung durch den BA-Vorsitzenden -
+- TOP 7.4.: Altostr. 36 - Anbau einer Aufzugsanlage und Erschließungsbalkone Wohn- und Geschäftshaus, Anhörung Planungsreferat vom 17.10.11
+- TOP 7.5.: Veranstaltung auf städt. Grünanlage: 37. Teufelsberg Crosslauf, Aubinger Lohe, Start/Ziel Parkplatz, Ziegeleistraße, Anhörung KVR vom 18.10.11
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Europe Direct Information 06/11, Schr. Referat für Arbeit und Wirtschaft am 20.09.11
+- TOP 8.2.: Zweckentfremdung von Wohnraum: - Limesstraße, Schr. Sozialreferat vom 21.09.11 - Rohrsängerplatz, Schr. Sozialreferat vom 31.08.11 - Germeringer Weg, Schr. Sozialreferat vom 31.08.11
+- TOP 8.3.: Wirtschafts-Info 09/2011, Schr. Referat für Arbeit und Wirtschaft vom 30.09.11
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 9.1.: Sportwettbüro in der Limesstr. 117, Schr. KVR vom 06.06.11, eingegangen am 19.09.11
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Bauausschusses vom 27.09.11: - ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern (UA Planung)
+- TOP 10.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: - Wohnen in München IV, Erfahrungsbericht für das Jahr 2010 mit Ergänzungen (UA Planung) - Projekt Siedlungsentwicklung und Mobilität - Ergebnisse und Weiterführung (UA Planung) - Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden Baugesetzbuch-Klimanovelle (UA Planung)
+- TOP 10.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: - Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München (UA Planung) - Förderung von Genossenschaften und Baugemeinschaften in München (UA Planung) - Bebauungsplan mit Grünordnung Nr. 2062, Bodenseestraße (südlich), Bahnlinie München-Herrsching (nördlich) - Aufstellungsbeschluss (UA Planung) - Stand der städtebaulichen Kriminalprävention in München - Beschlussvollzugskontrolle - Erlass einer Erhaltungssatzung nach BauGB in den Stadtbezirken 4, 11 und 12 (UA Planung) - Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn (UA Planung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.11: - Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich (§ 34 BauGB) (UA Planung)
+- TOP 10.5.: Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 12.10.11: Optimierung des Beratungsangebotes im Referat für Stadtplanung und Bauordnung - LBK (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Maßnahmen gegen Spielsucht und Spielhallen - Antrag Nr. 2950 des BA 7, Schr. Planungsreferat vom 26.08.11
+- TOP 11.2.: Einladung zum Treffen der Gleichstellungsbeauftragten der Bezirksausschüsse in der Gleichstellungsstelle für Frauen am 20.10.11 um 18 Uhr
+- TOP 11.3.: Dankschreiben des ESV Neuaubing e.V. für die Vermittlung der Spende der Firma aurelis
+- TOP 11.4.: Präsentation der Evaluationsergebnisse zu REGSAM-Gebieten mit besonderem Handlungsbedarf am 17.11.11 im KVR, Ruppertstr. 11
+- TOP 11.5.: Einladung zur Gesprächsrunde mit dem Referat für Bildung und Sport am 23.11.11 um 16 Uhr
+- TOP 11.6.: Einladung zur 6. Münchner Nachhaltigkeitskonferenz am 10.11.11 im Festsaal des Alten Rathauses
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 23.11.2011 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
