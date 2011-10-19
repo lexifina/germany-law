@@ -1,0 +1,54 @@
+# 16. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-10-19T17:04:00+02:00
+- Ende: 2011-10-19T22:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7800
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7800
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00314618.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der SPD-Fraktion an den Rat Nr. A-R/0057/2011 vom 13.09.2011 - einstimmig beschlossen
+- TOP 2.2: "Neue Unterbringung der Volkshochschule prüfen", Antrag der SPD-Fraktion im Rat der Stadt Münster A-R/0053/2011 vom 05.07.2011 - einstimmig beschlossen
+- TOP 3: Baulandentwicklung in Sprakel - von der Tagesordnung abgesetzt
+- TOP 4: Strukturkonzept "Hiltrup - Bahnhofsbereich" - einstimmig beschlossen
+- TOP 5: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2012 - einstimmig beschlossen
+- TOP 6: Umbenennung der Ausstellungshalle zeitgenössische Kunst Münster - mehrheitlich beschlossen
+- TOP 7: Auslobung des 6. Entwicklungspolitischen Nord-Süd-Preises der Stadt Münster/ bürger:sinn:stiftung 2012 - einstimmig beschlossen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 8: Europäische Charta für die Gleichstellung von Männern und Frauen - Aktionsplan 2011 - 2013 - ohne Beschlussfassung geschoben
+- TOP 8.1: Europäische Charta für die Gleichstellung von Männern und Frauen - Aktionsplan 2011 - 2013
+- TOP 9: Handy-Parken (E-Parking / Mobile-Parking) in Münster - von der Tagesordnung abgesetzt
+- TOP 10: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses für den Löschzug Kinderhaus der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 11: Geschäftsanweisung gemäß § 31 Gemeindehaushaltsverordnung (GemHVO NRW) - zur Kenntnis genommen
+- TOP 12: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - von der Tagesordnung abgesetzt
+- TOP 12.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - von der Tagesordnung abgesetzt
+- TOP 13: Fortschreibung der UNESCO-Welterbeliste - Interessenbekundung Münsters zur Aufnahme des Prinzipalmarkts als Wiederaufbauleistung - ohne Beschlussfassung geschoben
+- TOP 14: Städtische Gesamtschule in Münster, Standortoption Paul-Gerhardt-Realschule - ohne Beschlussfassung geschoben
+- TOP 15: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel
+- TOP 15.1: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel - von der Tagesordnung abgesetzt
+- TOP 16: Abendgymnasium und Abendrealschule - einstimmig beschlossen
+- TOP 17: Erhöhung der Aufnahmekapazität der Dreifaltigkeitsschule - städtische katholische Grundschule -, Friesenring 24, 48147 Münster ab dem Schuljahr 2012/2013 - einstimmig beschlossen
+- TOP 18: Änderung der Satzung "Sicherung des geordneten Schulbetriebs für die städtischen Schulen - Allgemeiner Rahmen zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)" - einstimmig beschlossen
+- TOP 18.1: Änderung der Satzung "Sicherung des geordneten Schulbetriebs für die städtischen Schulen - Allgemeiner Rahmen zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)"
+- TOP 19: Investitionsbedarf Schulentwicklungsplanung und Schulgebäudesanierung - zur Kenntnis genommen
+- TOP 20: ProjektHaus - Beschulung verhaltensauffälliger Schüler/innen im Bildungsgang Realschule oder Gymnasium - ohne Beschlussfassung geschoben
+- TOP 21: Münster auf dem Weg zur Inklusion: - ohne Beschlussfassung geschoben
+- TOP 22: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2010 - zur Kenntnis genommen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk Mitte
+- TOP 23.1.1: Veränderungssperre Nr. 103 für den Bereich des Bebauungsplans Nr. 535 - mehrheitlich beschlossen
+- TOP 23.2: Stadtbezirk West
+- TOP 23.2.1: Veränderungssperre Nr. 100 - Erste Verlängerung - einstimmig beschlossen
+- TOP 24: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 25: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 26: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 27: Verschiedenes
