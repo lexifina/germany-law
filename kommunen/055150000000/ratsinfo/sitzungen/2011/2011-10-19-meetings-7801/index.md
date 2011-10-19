@@ -1,0 +1,67 @@
+# 17. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-10-19T17:47:00+02:00
+- Ende: 2011-10-19T22:21:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7801
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7801
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00314991.pdf
+
+## Tagesordnung
+
+- TOP 1: -
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 5.1: Gentrifizierung
+- TOP 5.2: Umgesetzte Einsparungen der Organisationsentwicklung
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12: Europäische Charta für die Gleichstellung von Männern und Frauen - Aktionsplan 2011 - 2013 - einstimmig geändert beschlossen
+- TOP 12.1: Europäische Charta für die Gleichstellung von Männern und Frauen - Aktionsplan 2011 - 2013
+- TOP 13: Handy-Parken (E-Parking / Mobile-Parking) in Münster - von der Tagesordnung abgesetzt
+- TOP 14: Errichtungsbeschluss zum Neubau des Feuerwehrgerätehauses für den Löschzug Kinderhaus der Freiwilligen Feuerwehr Münster - einstimmig beschlossen
+- TOP 15: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - Vorlage eingebracht
+- TOP 16: Geschäftsanweisung gemäß § 31 Gemeindehaushaltsverordnung (GemHVO NRW) - zur Kenntnis genommen
+- TOP 17: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - von der Tagesordnung abgesetzt
+- TOP 17.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - von der Tagesordnung abgesetzt
+- TOP 18: Fortschreibung der UNESCO-Welterbeliste - Interessenbekundung Münsters zur Aufnahme des Prinzipalmarkts als Wiederaufbauleistung - mehrheitlich beschlossen
+- TOP 19: Städtische Gesamtschule in Münster, Standortoption Paul-Gerhardt-Realschule - mehrheitlich beschlossen
+- TOP 20: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel
+- TOP 20.1: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel - von der Tagesordnung abgesetzt
+- TOP 21: Abendgymnasium und Abendrealschule - einstimmig beschlossen
+- TOP 22: Erhöhung der Aufnahmekapazität der Dreifaltigkeitsschule - städtische katholische Grundschule -, Friesenring 24, 48147 Münster ab dem Schuljahr 2012/2013 - einstimmig beschlossen
+- TOP 23: Änderung der Satzung "Sicherung des geordneten Schulbetriebs für die städtischen Schulen - Allgemeiner Rahmen zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)" - einstimmig beschlossen
+- TOP 23.1: Änderung der Satzung "Sicherung des geordneten Schulbetriebs für die städtischen Schulen - Allgemeiner Rahmen zur Aufnahme von Schülerinnen/Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz)"
+- TOP 24: Investitionsbedarf Schulentwicklungsplanung und Schulgebäudesanierung - zur Kenntnis genommen
+- TOP 25: ProjektHaus - Beschulung verhaltensauffälliger Schüler/innen im Bildungsgang Realschule oder Gymnasium - einstimmig beschlossen
+- TOP 26: Münster auf dem Weg zur Inklusion: - einstimmig geändert beschlossen
+- TOP 27: Soziale Stadt Kinderhaus-Brüningheide, Jahresbericht 2010 - zur Kenntnis genommen
+- TOP 28: Bauleitplanung
+- TOP 28.1: Stadtbezirk Münster-Mitte
+- TOP 28.1.1: Veränderungssperre Nr. 103 für den Bereich des Bebauungsplans Nr. 535 - mehrheitlich beschlossen
+- TOP 28.2: Stadtbezirk Münster-West
+- TOP 28.2.1: Veränderungssperre Nr. 100 - Erste Verlängerung - einstimmig beschlossen
+- TOP 29: Anhörung zur Bestellung eines Mitgliedes des Gutachterausschusses für Grundstückswerte in der Stadt Münster - einstimmig beschlossen
+- TOP 30: Bestellung von Mitgliedern des Umlegungsausschusses - einstimmig beschlossen
+- TOP 31: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 32: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 32.1: Unkonventionelle Erdgasförderung stoppen - verwiesen
+- TOP 32.2: Münster für einheitliche Regelung und Entlastung bei Kita-Gebühren - zurückgezogen
+- TOP 32.3: u3-Betreuung bedarfsgerecht ausbauen - Bundes- und Landesförderung sicher stellen - mehrheitlich geändert beschlossen
+- TOP 33: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 33.1: Durchführung eines städtebaulichen Wettbewerbs Hafen - verwiesen
+- TOP 33.2: Mehr eMobility für Münster - verwiesen
+- TOP 33.3: Energieeffizienz bei Vergaben verstärkt beachten" - verwiesen
+- TOP 33.4: Vorlagen standardisieren - Vergabeausschuss und Verwaltung entlasten - verwiesen
+- TOP 34: Verschiedenes
