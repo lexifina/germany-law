@@ -1,0 +1,78 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-10-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226414
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226414
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: 1.2.1 Nachbesetzung in den Unterausschüssen: -Kultur, Budget (Mitglied) -Schule, Sport, Soziales (Mitglied) -Planung, Verkehr, Umwelt (Vertreter) 1.2.2 Wahl: Stellvertreter(in) des UA-Vorsitzenden UA Kultur, Budget
+- TOP 1.3.: Nachbesetzung Baumschutzbeauftragte (Harthof, Hasenbergl-Süd)
+- TOP 1.4.: Nachbesetzung Heimbeiräte (Dülferstraße)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.6.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Gesetz zur Förderung der klimagerechten Entwicklung in Städten und Gemeinden; Baugesetzbuch-Klimanovelle
+- TOP 2: Entscheidungsfälle
+- TOP 3.1.: Ampelsignalschaltung für Sehbehinderte an den Kreuzungen Weitlstraße/ Ittlingerstraße und Weitlstraße/ Rainfarnstraße
+- TOP 3.2.: Geschwindigkeitsmessung in verkehrsberuhigtem Bereich Knospenstraße
+- TOP 3.3.: zugeparkter Fußweg südlich Paul-Preuß-Straße
+- TOP 3.4.: Nutzerbeteiligung bei der Planung des Jugendspielplatzes an der Schittgablerstraße
+- TOP 3.5.: Benennung des Feldweges zwischen dem Goldlackplatz in der Lerchenau und der Gundermannstraße im Hasenbergl Süd
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben Knorrbremse-AG (Erschließungsstraße U-1627 zw. Schittgabler- und Lerchenauer Straße)
+- TOP 5.2.: Bauvorhaben: 5.2.1 Grohmannstraße 5.2.2. Hardenstr. 18 5.2.3 Müllritterstraße 5.2.4 Onyxplatz 5 5.2.5 Rothwiesenstraße 5.2.6 Rothwiesenstr. 6 5.2.7 Rothwiesenstr. 14 5.2.8 Rothwiesenstr. 22 5.2.9 Rothwiesenstr. 24 5.2.10 Schittgablerstr. 11
+- TOP 5.3.: Baumfällungen im Rahmen von Bauvorhaben: 5.3.1 Dülferstr. 108 (DHH 1) 5.3.2 Dülferstr. 108 (DHH 2) 5.3.3 Hardenstr. 18 5.3.4 Onyxplatz 5
+- TOP 5.4.: Referat für Stadtplanung und Bauordnung: Verkehrskonzept Münchner Norden (vertagt aus Sitzung 13.09.2011)
+- TOP 5.5.: Referat für Stadtplanung und Bauordnung: Erhalt und Schutz der übergeordneten Grünverbindungen, Ruhezonen und Frischluftschneisen
+- TOP 5.6.: Kreisverwaltungsreferat: Einrichtung einer Tempo-30-Zone in der Würmhölzlstraße
+- TOP 5.7.: Baureferat: Bürgerantrag "Überdachte Fahrradständer am U-Bahnhof Feldmoching (Antrag war TOP 3.2 in Sitzung 29.03.2011)
+- TOP 5.8.: Vollzug der Baumschutzverordnung (Baumfällungen): Franz-Fackler-Str. 91
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Zurückverlegung des Regionalhaltepunkts von Moosach nach Feldmoching
+- TOP 6.2.: Renovierung der Umkleidekabinen und Ersatz des Sandplatzes durch Kunstrasen in der Bezirkssportanlage Grohmannstr. 63
+- TOP 6.3.: Erneuerung der Fahrrad- und Gehwegmarkierungen im Kreuzungsbereich Feldmochinger-Himmelschlüsselstraße und besondere Markierung
+- TOP 6.4.: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser 1. Stellungnahme Sozialreferat zu Schreiben des BA 24 vom 29.07.2011 2. Abdruck eines Schreibens der Sozialreferentin an BA 21
+- TOP 6.5.: Vorabzustimmung zu Bauvorhaben/ Baumfällungen wegen Genehmigungsreife: Am Blütenanger 87
+- TOP 6.6.: Pappelallee: Widmung für in Privatbesitz befindliche Teilabschnitte (Bürgeranliegen)
+- TOP 6.7.: MVG: Buslinie 175 (Auslastung und Fahrzeugeinsatz an Schultagen)
+- TOP 6.8.: RGU: Genehmigungsbescheid für Anlage zur zeitweiligen Lagerung, Behandlung und Umschlag von Abfällen der Schrott-Anton-GmbH, Lerchenstr. 19
+- TOP 6.9.: Schreiben OB an MdL D. Stachowitz bzhgl. Entfernung Radweg in Freud-/Gundermannstraße
+- TOP 6.10.: MSE: Protokoll zum Gespräch Zentrum Geotechnik am 05.10.2011
+- TOP 6.11.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.12.: Meldelisten Baumfällungsanträge
+- TOP 6.13.: Meldelisten Bauvorhaben
+- TOP 6.14.: Verkehrsrechtliche Anordnungen: 6.14.1 Testbetrieb für einen Buszug-Einsatz auf der MVG-Linie 60 (Dülferstraße- OEZ); Vorübergehende Verlängerung von Haltverbotszonen an Haltestellen. 6.14.2 Aufhebung der Bücherbushaltestelle in der Gustav-Schiefer-Straße 6.14.3 Stösserstraße Ostseite (Zeichen 283 StVO)
+- TOP 6.15.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund: Drehgenehmigung Kerbelweg 32 (29.09. bis 30.09.2011)
+- TOP 6.16.: Baumaßnahmen der SWM: 6.16.1 Netzbaumaßnahmen Stadtbezirk 24 (2. Halbjahr 2011) 6.16.2 Stromprojekt Schittgablerstraße
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: Die Inzell-Initiative untersucht Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Erlass einer Erhaltungssatzung nach § 172 BauGB in Stadtbezirken 4, 11 und 12
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Stand der städtebaulichen Kriminalprävention in München
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnen in München IV; Erfahrungsbericht für das Jahr 2010 mit Ergänzungen
+- TOP 6.21.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Projekt Siedlungsentwicklung und Mobilität - Ergebnisse und Weiterführung
+- TOP 6.22.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Förderung von Genossenschaften und Baugemeinschaften in München; a) Mehrerlöse aus städt. Grundstücksverkäufen dem Wohnungsmarkt erhalten b) Drastischer Anstieg der Baulandpreise - Hilfe für Baugemeinschaften und Wohnungsbaugenehmigung
+- TOP 6.23.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn
+- TOP 6.24.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Beschlussvollzugskontrollen (BVK): Bericht für Zeitraum 01.01. bis 30.06.2011
+- TOP 6.25.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Optimierung des Beratungsangebotes im Referat für Stadtplanung und Bauordnung - LBK
+- TOP 6.26.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 6.27.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich (§ 34 BauGB)
+- TOP 6.28.: Beschlussvorlage Baureferat: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern; Untersuchungsergebnisse und weiteres Vorgehen.
+- TOP 6.29.: Beschlussvorlage Sozialreferat: Errichtung eines ASZ im 24. Stadtbezirk
+- TOP 6.30.: Beschlussvorlage Münchner Stadtentwässerung: Aktualisierter Nutzungsbedarf für den Neubau der zentralen Kanalbetriebsstation der Münchner Stadtentwässerung an der Schleißheimer Straße im 24. Stadtbezirk
+- TOP 6.31.: Beschlussvorlage Referat für Arbeit und Wirtschaft: Leistungsprogramm der MVG für die Fahrplanperiode 2012 (Ergänzungen)
+- TOP 6.32.: Referat für Bildung und Sport: Neubau BOS/ FOS auf der Nordhaide
+- TOP 6.33.: Baureferat: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen, Bauvorhaben Errichtung eines Hauses für Kinder (Kooperationseinrichtung) Robinienstr. 60
+- TOP 6.34.: Direktorium: Schreiben des BA 1 - Christkindlmärkte Münchens
+- TOP 6.35.: Zuschuss aus dem BA-Budget: diverse Verwendungsnachweise
+- TOP 6.36.: Münchner Statistik (1. Quartalsheft, Jahrgang 2011)
+- TOP 6.37.: SWM Jahresbericht 2010
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
