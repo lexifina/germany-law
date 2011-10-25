@@ -1,0 +1,99 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-10-25T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2094106
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2094106
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Erhalt des Bolzplatzes der Glockenbachwerkstatt
+- TOP .2.: Klettergerüst aus Holzstämmen in der Nähe des KuBus
+- TOP .3.: Taktverdichtung Bus 132 morgens und mittags
+- TOP .1.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung St. Andreas Konzert am 25.11.2011
+- TOP .1.: Verbesserte Bürgerbeteiligung III (vertagt 27.09.2011)
+- TOP .1.: Bestellung einer städtischen Leistung für eine Kastanie in der Ickstattstraße (Beschluss aus der Sitzung vom 27.09.2011, TOP A 5.1.1)
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Empfehlung aus der Einwohnerversammlung ?Klenzesteg?: Bau des ?Klenzestegs?
+- TOP .2.: Empfehlung aus der Einwohnerversammlung ?Klenzesteg?: Zugang von der Brücke direkt auf die Grünanlagen an der Isar
+- TOP 1: (E) Bebauung ehemaliges Rodenstockgelände a) Wohnbebauung auf dem ehemaligen Rodenstockgelände Empfehlungen aus den Bürgerversammlungen vom 11.11.2010 und 19.05.2011 BETREFF NICHT VOLLSTÄNDIG
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Waltherstraße 29: Nutzungsänderungen vom UG bis DG (Eilentscheidung)
+- TOP 1.2.: Herzog-Heinrich-Straße 20: Sanierung des Gebäudes, siehe auch B 3.2.1 (Eilentscheidung)
+- TOP 1.3.: Haydnstraße 4 ? 8: Neubau zweier Wohnhäuser
+- TOP 1.4.: Bayerstraße 89: Nutzungsänderung eines Bürogebäudes in ein Hotel
+- TOP 1.7.: Lessingstraße 3: Neubau einer Wohnanlage mit Tiefgarage
+- TOP 1.8.: Landwehrstraße 46: Aufstockung und Nutzungsänderung
+- TOP 1.9.: Ickstattstraße 11 ? 11a: Aufstockung eines Rückgebäudes
+- TOP 1.10.: Dreimühlenstraße 19: Nutzungsänderung des Rückgebäudes
+- TOP 1.11.: Schmellerstraße 34: Um- und Ausbau des Dachgeschosses
+- TOP 1.12.: Dreimühlenstraße 29: Anbau von Balkonen
+- TOP 1.14.: Baaderstraße 70: Sanierung eines Mietshauses mit Ausbau des Dachgeschosses (Eilentscheidung, vertagt 27.09.2011)
+- TOP 1.15.: Adlzreiterstraße 3: Dacherhöhung des Rückgebäudes, Aufstockung Vordergebäude
+- TOP 1.16.: Adolf-Kolping-Straße 1: Anbau eines Vorderdaches
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Herzog-Heinrich-Straße 20: Sanierung des Gebäudes, siehe auch B 3.1.2 (Eilentscheidung)
+- TOP 1.3.: Baumfällung Dreimühlenstraße 8
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.5.1: Bericht des Beauftragten
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Hermann-Lingg-Straße 2: Warenstellage
+- TOP 1.2.: Hermann-Lingg-Straße 7: Warenstellage
+- TOP 1.3.: Pettenkoferstraße 5: Fahrradständer
+- TOP 1.4.: Schillerstraße 30: Fahrradständer
+- TOP 1.5.: Schwanthalerstraße 41: Fahrradständer
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: Taxistandplatz Bayerstraße 88: Neuerrichtung, Taxistandplatz Paul-Heyse-Unterführung: Aufhebung
+- TOP 1.1.: Pink Christmas vom 27.11.-23.12.2011, Stephansplatz
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Verkürzung Halteverbot im Bereich Bushaltestelle Gärtnerplatz (Corneliusstraße) (Eilentscheidung, vertagt 27.09.2011)
+- TOP 1.1.: Bürgeranliegen: Versetzung eines Blumentrogs vor dem Anwesen Bayerstraße 15
+- TOP 1.2.: Bürgeranliegen: Radfahren auf Gehwegen Westermühlbach
+- TOP 1.3.: Bürgeranliegen: Beschwerde über Vermüllung der Theresienwiese
+- TOP 1.1: Termine
+- TOP 1.1.: Treffen des Referats für Bildung und Sport 2012 am 09.05.2012 um 16.00 Uhr, Bayerstraße 28, Raum 5.074
+- TOP 1.3: Sonstiges / Verschiedenes
+- TOP 1.1.: Besetzung der Unterausschüsse nach Hare/Niemeyer
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: Vorkaufsrecht nach dem BauGB:
+- TOP 1.2.: Zweckentfremdung von Wohnraum (0)
+- TOP 1.3.: BA-Budget: Bescheide
+- TOP 1.5.: Beschluss des Bauauschusses: Künstlerische Illumination der Paul-Heyse-Unterführung
+- TOP 1.6.: Baumaßnahmen SWM: a)
+- TOP 1.8.: Herzog-Heinrich-Straße 20: Sanierung des Gebäudes (Eilentscheidung)
+- TOP 1.9.: Antwortschreiben zur Einbahnstraßenregelung in der Geyerstraße
+- TOP 1.10.: Bekanntgabe im Planungsausschuss vom 28.09.2011: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden Baugesetzbuch-Klimanovelle
+- TOP 1.11.: Fällungsgenehmigungen Augsburgerstraße 11
+- TOP 1.12.: Bekanntgabe im Planungsausschusses vom 12.10.2011: Optimierung des Beratungsangebots - Lokalbaukommission
+- TOP 1.13.: Beschluss des Planungsausschusses vom 12.10.2011: Der Freistaat fördert die Mobilität der EMM-Region
+- TOP 1.14.: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich
+- TOP 1.15.: Information der Lokalbaukommission zum Bauvorhaben Sonnenstraße 22
+- TOP 1.16.: Antwortschreiben des Sozialreferats zu einem Antrag des BA 21: Bauvorhaben im geförderten Wohnungsbau/KomPro-Häuser
+- TOP 1.17.: Baubeginnanzeigen Mobilfunk
+- TOP 1.18.: Antwortschreiben der LBK zum Bauvorhaben Landwehrstraße 64a
+- TOP 1.19.: Versammlungen unter freiem Himmel
+- TOP 1.20.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.21.: Unveränderte Gaststättenfortführungen: - Landwehrstraße 4, ?Bistro Van Hoa? - Pestalozzistraße 20, ?Neue Heimat? - Thalkirchner Straße 76, ?Zunfthaus? - Kapuzinerstraße 4, ?Kapuzinerklause? - Lindwurmstraße 159a, ?Ruppert's? - Maistraße 63, ?Savanna? - Schillerstraße 27, ?Red Piano? - Lindwurmstraße 21, ?Cafe Galaxy?
+- TOP 1.22.: Verkehrsrechtliche Anordnungen: - Öffnung Isartalstraße zwischen Dreimühlen- und Ehrengutstraße für gegenläufigen Radverkehr
+- TOP 1.23.: Erlaubnisbescheide: -
+- TOP 1.24.: Illegal parkende Autos an der neuen Ampel an der Ecke Mai-/Tumblingerstraße verhindern
+- TOP 1.25.: Beschluss des Planungs- und Kreisverwaltungsausschuss vom 12.10.2011: Parkraum-management in München ? Fortschreibung Umsetzungskonzept
+- TOP 1.26.: Verbesserung der Situation für Fußgänger und Radfahrer am Isartor / Breiterhof
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.6.: Hans-Sachs-Straße 18: Umbau und Nutzungsänderung
+- TOP 1.2.: Auenstraße 106: Neubau einer Wohnanlage (Eilentscheidung, vertagt 27.09.2011)
+- TOP 1.2.: Veranstaltungen
+- TOP 1.4.: Prüfung auf Zweckentfremdung in der Bayerstraße
