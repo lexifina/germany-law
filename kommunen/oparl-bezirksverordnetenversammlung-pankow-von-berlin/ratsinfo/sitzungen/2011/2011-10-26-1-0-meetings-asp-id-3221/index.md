@@ -1,0 +1,83 @@
+# 45. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-10-26T17:30:00+02:00
+- Ende: 2011-10-26T18:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3221
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3221
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=46265
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Vertagte Drucksachen aus der 44. ordentlichen Tagung der BVV - erledigt
+- TOP 1.8.1: Verkehrssicherheit an der Kreuzung Schönhauser Allee/ Torstraße - erledigt
+- TOP 1.8.2: Kultur- und Bildungsentwicklungsplan - mit Änderungen in der BVV beschlossen
+- TOP 1.8.3: Fläche des ehemaligen Güterbahnhofs Greifswalder Straße für den Bezirk sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.8.4: Einstellung der Bebauungsplanverfahren XVIII-1 und XVIII-2 - ohne Änderungen in der BVV beschlossen
+- TOP 1.8.5: Choriner Straße - Umgestaltung im Bezirk Mitte als Vorbild nehmen - ohne Änderungen in der BVV beschlossen
+- TOP 1.9: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2008 - zurückgezogen
+- TOP 1.10: Bezirkshaushaltsrechnung des Bezirks Pankow von Berlin für das Haushaltsjahr 2009 - zurückgezogen
+- TOP 1.11: Mehr Sicherheit für Radfahrerinnen und Radfahrer in der Pappelallee und in der Stahlheimer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Stadtbad Oderberger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vertagte Drucksachen aus der 44. ordentlichen Tagung der BVV - (offen)
+- TOP 2.1.1: Kulturhaus Weißensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.2: Entwurf des Doppelhaushaltsplanes 2010 /2011 für den Bezirk Pankow (einschl. Vorberichte und Stellenplan) in der durch die 1. und 2. Nachschiebeliste geänderten Fassung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.3: Bericht über Konjunkturpakete - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.4: Komödienhaus Pfefferberg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.5: Autobahnanschlussstelle für Karow und Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.6: Umstrukturierungssatzung für einen Block im Paracelsusviertel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.7: Der Mauerpark - Ein Park für alle Generationen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.1.8: Schulentwicklungsplanung für den Bezirk Pankow 2012 - 2016 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.9: Nachweis der im 1. Halbjahr 2011 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2: Erschließung Rangierbahnhof Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.2.1: Entwicklung des ehemaligen Rangier- und Güterbahnhofes Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Grüne Stadt: Steuerungsvorbehalte zurücknehmen - vereinbarte sozialverträgliche Umstrukturierung ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Personalentwicklung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Für ein Gesamtberliner Datenbanksystem der bezirklichen Museen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Bestandsmieter und Erhaltungsverordnung im Gebiet Humannplatz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: Entwicklung der Liegenschaft "Stadtbad Oderberger Straße" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7.1: Stadtbad - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Verbesserung der KLR-Ergebnisse bei den Kultur- und Bildungsprodukten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Entlastung von stupiden Tätigkeiten - Plan zur RFID-Einführung vorlegen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Initiative im Eliashof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Mauerpark fertig stellen - jetzt. - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Kultur im Ernst-Thälmann-Park - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Kulturelle Angebote im Zentrum von Alt-Pankow verbessern und attraktiver machen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Standort der Metro Cash&Carry in Pankow erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Gebietskulisse Stadtumbau Ost für den Prenzlauer Berg aktivieren und Grundlage für Sozialplanung und Mieterschutz schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Geordnete städtebauliche Entwicklung in Blankenburg - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Seniorengerechte Bibliotheken - Ehrenamtliche Medienboten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Umfahrung Hiddenseestraße verhindern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Entwicklung Brachfläche Neumannstraße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Bestandsaufnahme Quartiersprägende Plätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.21: Verkehrssicherheit in der Dolomitenstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.22: Samländische Straße und Masurenstraße als Einbahnstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Verbesserung der Sicherheit von Radfahrern an Kreuzungen mit Lichtzeichenanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Verbesserung der Querungssituation in der Berliner Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.25: Hinweisschild Einbahnstraße in der Walter-Friedrich-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Dauerhafte Sicherung von Kleingartenanlagen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Kleingartenanlage Famos - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Sondernutzungsgebühren für "Call-a-bike"-Standorte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.29: Frühzeitige Unterrichtung über Baumaßnahmen der Senatsverwaltung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.30: Änderung Bauordnung von Berlin - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.31: Straßenbahnlinie 12: Umleiten statt verkürzen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.32: Aufstellung eines Bebauungsplanes für die Brunnengalerie in Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.33: Verlängerung der Veränderungssperre 3-5/8 im Bezirk Pankow, Ortsteil Heinersdorf, für das Grundstück Prenzlauer Promenade 45,46 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.34: Förderprogramm Stadtumbau Ost – Vorschlagsliste für die Programmplanung 2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.35: Bebauungsplan XIX-61 für die Grundstücke Brehmestraße 15-22 sowie den Bereich zwischen Brehmestraße, Bahntrasse Gesundbrunnen Richtung Bernau (Stettiner Bahn) und Bahntrasse Gesundbrunnen Richtung Oranienburg (Nordbahn) genannt ”Nasses Dreieck” sowieeinen Abschnitt der Esplanade zwischen Bahnlinie und Dolomitenstraße im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.36: Bebauungsplanentwurf 3-24 für das Grundstück Kastanienallee 97-99, Schönhauser Allee 148 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.37: Benennungsabsicht eines öffentlichen Weges im Ortsteil Französisch Buchholz in Hebammensteig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.38: Gliederung des Tiefbau- und Landschaftsplanungsamtes sowie des Umwelt- und Naturschutzamtes - mit Abschlussbericht zur Kenntnis genommen
