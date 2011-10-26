@@ -1,0 +1,57 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2011-10-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2143540
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2143540
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Abfallbehälter/Hundekottüten
+- TOP .2.: ?Schlafbaustellen?
+- TOP .1.: (E) Budget der Bezirksausschüsse Elternbeirat der Farinellischule GalliFarinelli-Theaterprojekt im Schuljahr 2011/2012
+- TOP .2.: Europäisches Jahr 2012 "Aktives Altern und Solidarität zwischen den Generationen": Vorschläge für das Programm
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Kontakt- und Begegnungsstätte ?Blaues Kreuz?, Ainmillerstr. 43: Mobiler Fahrradständer
+- TOP .2.: ?Casino 3000? Spielautomaten GmbH, Ainmillerstr. 43: Mobiler Fahrradständer
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Bürger: Ideenwettbewerb zur Umgestaltung des Hohenzollernplatzes
+- TOP .2.1.: Planen
+- TOP .1.: Erich-Kästner-Str. 4: DG-Ausbau mit Errichtung von 6 Gauben und einer Sonnengrube
+- TOP .2.: Agnesstr. 55: Erweiterung von vier Balkonen am Vordergebäude
+- TOP .3.: Speyerer Str. 14: Neubau eines Mehrfamilienhauses (41 WE) und einer Tiefgarage (91 Stellplätze)
+- TOP .4.: Aufhebung überholter Aufstellungsbeschlüsse: a) Bebauungsplan Nr. 630: Prinz-Eugen-Straße (nördlich), Düsseldorfer Straße (westlich) b) Bebauungsplan Nr. 1469: Georgenstraße (nördlich) zwischen Arcis- und Nordendstraße
+- TOP .5.: Bauvorhaben Isoldenstraße: Neubau einer Wohnanlage (36 WE) mit Tiefgarage
+- TOP .6.: Baustelleneinrichtungsplan / Wege durch den Ackermannbogen
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Maßnahmen gegen Falschparker in der Krumbacher Straße
+- TOP .2.: Bürger: Zebrastreifen über die Herzogstraße an der Winzererstraße
+- TOP .3.: Rückschnitt der Platanen am Habsburgerplatz wegen Verschattung
+- TOP .4.: Aufstellung von Hinweisschildern zur Warnung vor ?Geisterradlern?
+- TOP .5.: Bürger: Bus 154 - Baustellen
+- TOP .2.1.: Umwelt
+- TOP .1.: Heßstr. 128: Fällung einer Pappel
+- TOP .2.: Speyerer Str. 14: Fällung von 4 Bäumen in Zusammenhang mit einem Bauvorhaben (vgl. TOP D.2.3)
+- TOP .3.: Aachener Str. 15: Fällung einer Lärche
+- TOP .4.: Begrünung der Schleißheimer Straße zwischen Elisabeth- und Maßmannstraße (Anhörung zu einer Beschlussvorlage für den Bauausschuss)
+- TOP .5.: Ansbacher Str. 5: Fällung einer Zeder
+- TOP .6.: Rümannstr. 60: Fällung einer Linde, einer Traubenkirsche und einer Scheinakazie
+- TOP .2.2.: Verkehr
+- TOP .1.: Hohenzollernstraße: Aufhebung der Radwegbenutzungspflicht zwischen Schleißheimer Straße und Tengstraße/Hohenzollernplatz
+- TOP .1.: SPD-Fraktion: BA-Aktivitäten in sozialen Netzwerken im Internet
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Bürgerin: BA-Schaukasten Deidesheimer Anger
+- TOP .4.: SPD-Fraktion: Bezirksausschüsse in ?Stadtteilräte? umbenennen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
