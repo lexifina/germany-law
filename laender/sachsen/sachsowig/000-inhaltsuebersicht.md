@@ -7,9 +7,9 @@ Erster Teil Allgemeine Vorschriften
 § 5 Erstattung von Auslagen
 § 6 Ersatzpflicht für Verfolgungsmaßnahmen
 Zweiter Teil Einzelne Ordnungswidrigkeiten, Zuständigkeiten
-§ 7 Verhütung von Unfällen
-§ 8 Verwendung von Selbstschußgeräten und anderen Geräten
-§ 9 Parken auf Privatgrundstücken
+§ 7 (aufgehoben)
+§ 8 (aufgehoben)
+§ 9 (aufgehoben)
 § 10 Schutz von Wappen und Flaggen
 § 11 Zuständigkeit nach § 112 OWiG
 § 12 Sonstige sachliche Zuständigkeit der Verwaltungsbehörden
