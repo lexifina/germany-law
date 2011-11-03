@@ -1,7 +1,7 @@
 # Anlage
 Anlage
-(zu § 11 Abs. 2)
-Fische, für deren Aussetzung eine Genehmigung der Obersten Fischereibehörde nicht erforderlich ist:
+(zu § 11 Absatz 2)
+Fische, für deren Aussetzung eine Genehmigung der obersten Fischereibehörde nicht erforderlich ist:
 1. | Aal | (Anguilla anguilla)
 2. | Aland | (Leuciscus idus)
 3. | Äsche | (Thymallus thymallus)

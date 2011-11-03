@@ -1,1 +1,1 @@
-# Bremische Binnenfischereiverordnung vom 2. Mai 2006
+# Bremische Binnenfischereiverordnung vom 30. September 2011
