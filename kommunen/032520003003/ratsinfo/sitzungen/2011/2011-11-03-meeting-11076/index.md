@@ -1,0 +1,59 @@
+# Rat der Stadt Bad Pyrmont (1. Sitzung)
+
+- Körperschaft: Stadt Bad Pyrmont
+- Beginn: 2011-11-03T17:04:00+01:00
+- Ende: 2011-11-03T19:39:00+01:00
+- Ort: Rathaus, Rathausstraße 1, 31812 Bad Pyrmont, Ratssaal
+- Status: 
+- Gremium: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZcYIQi4YT101UxgKMkp6f1A
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/11076
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbyhfWCTUYFE2WWHOgw6KvGfEHZcbKBti_RWB1wTLrdi/Bekanntmachung_Rat_der_Stadt_Bad_Pyrmont_03.11.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Bad Pyrmont) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd3bCGym8p7VcqbZ1IbV7zuX5yW9kVheccex7BzaIr2p/Oeffentliche_Niederschrift_Rat_der_Stadt_Bad_Pyrmont_03.11.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Eröffnung der Sitzung, Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkiet sowie der Tagesordnung
+- TOP 2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.: Feststellung der/des Altersvorsitzenden und Übergabe des Vorsitzes für die Wahl der/des Ratsvorsitzenden gemäß § 61 NKomVG
+- TOP 4.: Wahl der/des Ratsvorsitzenden - Einstimmig, 1 Enthaltung(en)
+- TOP 5.: Vertretung der/des Ratsvorsitzenden - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.: Verabschiedung ehemaliger Ratsmitglieder
+- TOP 8.: Verabschiedung des ehemaligen Ratsvorsitzenden
+- TOP 9.: Geschäftsordnung des Rates
+- TOP 9.1: Antrag der CDU/Bürgersinn-FDP Gruppe - Änderung der Satzung des Rates - - Einstimmig, 0 Enthaltung(en)
+- TOP 9.2: Beschluss über die Geschäftsordnung - Einstimmig, 0 Enthaltung(en)
+- TOP 10.: Bekanntgabe der Fraktionen und Gruppen im Rat
+- TOP 11.: Erhöhung der Anzahl der Beigeordneten gemäß § 74 Abs. 2 Satz 2 NKomVG - Einstimmig, 0 Enthaltung(en)
+- TOP 12.: Bestimmung der Beigeordneten
+- TOP 12.1: Feststellung der auf die einzelnen Fraktionen und Gruppen entfallenden Sitze im Verwaltungsausschuss nach dem Hare-Niemeyer-Verfahren
+- TOP 12.2: Benennung der Beigeordneten
+- TOP 12.3: Bestimmung der Stellvertreterinnen und Stellvertreter für den Verwaltungsausschuss
+- TOP 12.4: Feststellungsbeschluss über die Zusammensetzung des Verwaltungsausschusses - Einstimmig, 0 Enthaltung(en)
+- TOP 13.: Wahl der ehrenamtliche Vetreterinnen oder Vertreter der Bürgermeisterin aus den Beigeordneten
+- TOP 13.1: Antrag der CDU/Bürgersinn-FDP Gruppe - Wahl eines/r Ersten und eines/r Zweiten Vertreter/in der Bürgermeisterin - - Einstimmig, 0 Enthaltung(en)
+- TOP 13.2: Wahl der ehrenamtlichen Vertreterinnen oder Vertreter der Bürgermeisterin aus den Beigeordneten - Einstimmig, 0 Enthaltung(en)
+- TOP 14.: Ausschüsse des Rates
+- TOP 14.1: Antrag der CDU/Bürgersinn-FDP Gruppe - Auflösung des Jugend- und Sozialausschusses - - Einstimmig, 0 Enthaltung(en)
+- TOP 14.2: Bildung der Ausschüsse nach § 73 NKomVG (Pflichtausschüsse) - Einstimmig, 0 Enthaltung(en)
+- TOP 14.3: Bildung der Ausschüsse nach § 71 NKomVG - Einstimmig, 0 Enthaltung(en)
+- TOP 14.4: Bestimmung der Anzahl der Ausschussitze - Einstimmig, 0 Enthaltung(en)
+- TOP 14.5: Feststellung der Sitzverteilung in den Ausschüssen
+- TOP 14.6: Benennung der Ausschussmitglieder und deren Vertreterinnen und Vertreter - Einstimmig, 0 Enthaltung(en)
+- TOP 15.: Zuteilung der Ausschussvorsitze und Benennung der Ausschussvorsitzenden
+- TOP 16.: Bestimmung der Ortsvorsteherinnen oder Ortsvorsteher für die Ortsteile Baarsen, Eichenborn, Großenberg, Kleinenberg und Neersen - Einstimmig, 0 Enthaltung(en)
+- TOP 17.: Vertretung der Stadt im Integrationsrat
+- TOP 17.1: Antrag der CDU/Bürgersinn.FDP Gruppe - Zurückstellung der Wahl der Ratsvertreter im Integrationsrat -
+- TOP 17.2: Benennung der Vertreter der Stadt - Einstimmig, 0 Enthaltung(en)
+- TOP 18.: Bestätigung der Wahl der Beschäftigtenvertreter in den Verwaltungsrat der Stadtsparkasse Bad Pyrmont gemäß § 110 Personalvertretungsgesetz - Einstimmig, 0 Enthaltung(en)
+- TOP 19.: Bildung des Verwaltungsrates der Stadtsparkasse Bad Pyrmont
+- TOP 19.1: Antrag der CDU/Bürgersinn-FDP Gruppe - Vorsitz im Verwaltungsrat der Stadtsparkasse Bad Pyrmont - - Ohne Abstimmung
+- TOP 19.2: Benennung der Vertreter der Stadt Bad Pyrmont
+- TOP 20.: Vertretung der Stadt Bad Pyrmont in Verbänden, Gesellschaften und Institutionen 1. Kreissiedlungsgesellschaft Hameln-Pyrmont 2. Zweckverband Kreisvolkshochschule Hameln-Pyrmont 3. Kuratorium Schloss 4. Bad Pyrmont Tourismus GmbH 5. Nds. Städte- und Gemeindebund 6. Landschaftsverband Hameln-Pyrmont e.V. 7. Unterhaltungsverband Emmer-Humme 8. Lenne-Verband - Einstimmig, 0 Enthaltung(en)
+- TOP 21.: Regularien
+- TOP 21.1: Mitteilungen und Berichte
+- TOP 21.2: Bekanntgabe von Eilentscheidungen
+- TOP 22.: Beantwortung von Anfragen
