@@ -1,0 +1,8 @@
+# TOP 20: Aufnahme der Landeshauptstadt Dresden als Träger der Eigenbetriebe Krankenhaus Dresden-Friedrichstadt, Städtisches Klinikum und Städtisches Krankenhaus Dresden-Neustadt als ordentliches Mitglied des IQM Initiative Qualitätsmedizin e. V. (IQM)
+
+- Sitzung: 33. Sitzung des Stadtrates (2011-11-03)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/23600
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/7457
