@@ -1,0 +1,31 @@
+# Vorschläge der Lichtenberger Bürgerinnen und Bürger zum Haushalt 2011 (Bürgerhaushalt)
+
+- Körperschaft: BVV Lichtenberg von Berlin
+- Drucksache/Vorlage: DS/1624/VI
+- Art: Dringliche Beschlussempfehlung
+- Datum: 2011-11-04
+- Ratsinformationssystem: https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/bezirksverordnetenversammlung/online/vo020.asp?VOLFDNR=4060
+- OParl: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/papers.asp?id=4060
+- Quelle: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1774 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1806 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=29
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1829 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=29
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1857 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=29
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1828 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=10
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1884 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=35
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1810 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1834 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=26
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1811 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1835 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1863 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1890 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=32
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1812 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=31
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1833 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=31
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1865 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=28
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1815 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1836 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=12
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1816 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Anhörung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1867 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=34
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1895 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=27
+- Beratung: Entscheidung https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/meetings.asp?id=1874 https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- underDirectionOf: https://www.sitzungsdienst-lichtenberg.de/oi/oparl/1.0/organizations.asp?typ=at&id=5
