@@ -1,0 +1,63 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-11-07T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188352
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188352
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neuwahl der/des Vorsitzenden des Bezirksausschusses
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Jugendhaus in der Lindwurmstraße 189
+- TOP 2.2.: "Bergfest" rund um den Themenbereich Isar-Berge von 20. - 22.07.2012
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Nächtlicher Jugendtreff im Bereich der Aberlestraße 9
+- TOP 3.2.: Beauftragte für bürgerschaftliches Engagement
+- TOP 3.3.: Beteiligung am "Europäischen Jahr für aktives Altern und der Solidarität zwischen den Generationen"
+- TOP 3.4.: Mieterbeirat - Berufung eines stimmberechtigten Mitgliedes für den BA19
+- TOP 3.5.: Weltkindertag 2012
+- TOP 4: Schulreferat
+- TOP 4.1.: Auslagerung des Hortgruppen an der Plinganserschule während der Baumaßnahmen auf dem Gelände Meindlstraße
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Aufstellung von stummen Zeitungsverkäufern; Albert-Roßhaupter-Str. 7 und 14, Thalkirchner Straße 198
+- TOP 6.2.: Netzbaumaßnahmen der SWM
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Kindergarten Apfelbäumchen e.V. Renovierung der Küche - <div>Bezuschussung mit ? 2000,-</div>
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Init. ArtBeat Sendling 2011 c/o C. Schneider Veranstaltung vom 18. - 20.11.2011 - <div>Bezuschussung mit ? 500,-</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Implerstr. 9a
+- TOP 8.3.: Bauvorhaben Lindwurmstr. 122 - 124
+- TOP 8.4.: Bauvorhaben Schöttlstr. 12
+- TOP 8.5.: Bauvorhaben Lindwurmstr. 189
+- TOP 8.6.: Bauvorhaben Meindlstr. 5
+- TOP 8.7.: Bauvorhaben Königsdorfer Str. 15 - 17
+- TOP 8.8.: Bauvorhaben Königsdorfer-/Thalkirchner Str.
+- TOP 8.9.: Bauvorhaben Lenggrieser Str. 5
+- TOP 8.10.: Bauvorhaben Valleystr. 38
+- TOP 8.11.: Bauvorhaben Lindenschmitstr. 35
+- TOP 8.12.: Bauvorhaben Plinganserstr. 37
+- TOP 8.13.: Ersatzgrundstück für die Plattler an der Floßlände
+- TOP 8.14.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept
+- TOP 9: Baureferat
+- TOP 9.1.: Erneuerung der Beleuchtung im Brudermühltunnel
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Bavariastr. 18-22c
+- TOP 10.2.: Fällung von Gefahrenbäumen im öffentlichen Raum
+- TOP 10.3.: Fällgenehmigung Brudermühlstr.
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 11.1.: Anträge auf Errichtung von Hundekottütenspendern
+- TOP 12: Anträge
+- TOP 12.1.: Wiederherstellung des Gleichgewichts der kommerziellen mit der nichtkommerziellen Nutzung der Theresienwiese
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm 2011 - 2015
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
