@@ -1,0 +1,6 @@
+# TOP 6: Positionierung des Ausschusses zur Fortführung der Denkmalförderung im Landkreis Märkisch-Oderland
+
+- Sitzung: 21. Sitzung des Ausschusses für Bau (2011-11-07)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=5603
