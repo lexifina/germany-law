@@ -1,0 +1,8 @@
+# TOP 12: Zustimmung zu einer überplanmäßigen Personalaufwendung im Profit-Center 1260-720
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt (2011-11-08)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/8554
+- Ergebnis: ohne Widerspruch
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/2629
