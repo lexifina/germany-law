@@ -1,0 +1,111 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154328
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154328
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Vorstellung Projekt "BoysToMen Mentoring München e.V."
+- TOP 1.2.2.: Vermüllung am U-Bahnhof Laimer Platz
+- TOP 1.2.3.: Anfrage wegen Fluglärm
+- TOP 1.2.4.: Ampelanlage Friedenheimer Brücke / Landsberger Str. / Elsenheimer Str.
+- TOP 1.2.5.: Antrag auf Rückschnitt der Bäume und Sträucher in der Grünanlage vor Gotthardstr. 65-67 / Laimer Platz
+- TOP 1.2.6.: Willibaldplatz
+- TOP 1.0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Anträge
+- TOP 2.1.: Grüne: Hinweis auf Rauchverbot auf Spielplätzen
+- TOP 2.2.: FDP: Anschaffung eines Laptops und Video-Beamer
+- TOP 2.3.: CSU: Informationen zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote
+- TOP 2.4.: CSU: Überprüfung der Freischankfläche vor der Gaststätte "Dillinger". Laimer Platz 2
+- TOP 2.5.: CSU: Versetzung des Postkastens an der Fürstenrieder Str. 30
+- TOP 2.6.: CSU: Ausstattung der Ampelanlage an der Kreuzung Gotthardstraße / Fürstenrieder Straße mit einem taktil-akustischen Signal
+- TOP 2.7.: CSU: Erhöhung der Bordsteinkante des Fussgängerüberweges an der westlichen Seite der Kreuzung Fürstenrieder Straße / Landsberger Straße
+- TOP 2.8.: CSU: Versetzung der Telefonzelle an der Fürstenrieder Str. 30; Ersatz der Telefonzellen am S-Bahnhof Laim (Bahnsteig stadtauswärts und Zwischengeschoss) durch Telefonsäulen
+- TOP 2.9.: CSU: Erneuerung der Sicherheitsstreifen an den Treppen zu den Bahnsteigen im S-Bahnhof Laim
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 gemäß Vollmacht des Oberbürgermeisters vom 26.11.07 in Höhe von 1.651,50 Euro für Kauf eines Winther Turtelbusses; Antragsteller: Großtagespflege rosarot & kunterblau - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage KVR vom 29.09.11: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Taxistandplatz Gotthardstr.: Neueinrichtung Taxistandplatz Agnes-Bernauer-Str.: Aufhebung
+- TOP 3.3.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen - Zeitungsentnahmekästen) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Fürstenrieder Str. 61 und Laimer Platz 2
+- TOP 3.4.: Beschlussvorlage KVR: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen - Zeitungsentnahmekästen) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Fürstenrieder Str. 62 und 105, Gotthardstr. 63, Landsberger Str. 290 a, Westendstr. 174, Zschokkestr. 33, 36, 49, 70 und 73
+- TOP 3.5.: Beschlussvorlage KVR: Entscheidung über die Festsetzung von Ladezonen (eingeschränktes Haltverbot) sowie die Errichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Friedenheimer Brücke: Errichtung von Zonen zum Ein- und Aussteigen, Neuerrichtung eines Taxistandplatzes, Haltverbote in den Haltestellenbereichen
+- TOP 6: (E) Beleuchtung der Eibe auf dem Laimer Anger Empfehlung Nr. 08-14 / E 00735 der Bürgerversammlung des Stadtbezirkes 25 Laim am 16.11.2010 - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben KVR vom 13.09.11: Verbesserung Verkehrssicherheit / Verkehrsfluss Straubinger Straße Ecke Lautensackstraße (Vertagung aus der BA-Sitzung vom 04.10.11)
+- TOP 4.2.: Berchemstr. 14: Fällung von 1 Tanne
+- TOP 4.3.: Camerloherstr. 5. Fällung von 1 Zeder
+- TOP 4.4.: Schreiben Sozialreferat vom 24.10.11: Beteiligung am "Europäischen Jahr für Aktives Altern und der Solidarität zwischen den Generationen"
+- TOP 4.5.: Schreiben KVR vom 19.08.11: Bauernmarkt Agnes-Bernauer-Straße (Vertagung aus der BA-Sitzung vom 13.09.11)
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Bildung und Sport vom 04.10.11: Mitteilung der Termine 2012 "Das Referat für Bildung und Sport trifft die Bezirksausschüsse"; Termin BA 25 am 11.07.12
+- TOP 6.2.: Schreiben OB Ude vom 05.10.11: Mietertag 2011 - Einladung zur Podiumsdiskussion am 24.11.11
+- TOP 6.3.: BA-Sondersitzung zum Thema "Überplanung des Geländes Hans-Thonauer- Straße / Westendstraße
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 04.10.11
+- TOP 7.2.: Sitzung des UA Soziales, Schule und Sport vom 27.09.11
+- TOP 7.3.: BA-Sitzung vom 04.10.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben OB Ude vom 29.09.11: "Laut gegen Brauntöne": Die städtische Kampagne gegen Rechtsextremismus geht in die nächste Runde
+- TOP 8.2.: Schreiben KVR vom 27.09.11: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Friedenheimer Str. 2 Seite: Landsberger Str. Nebenfahrbahn
+- TOP 8.3.: Schreiben KVR vom 27.09.11: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Perhamerstr. 41
+- TOP 8.4.: Schreiben KVR vom 11.10.11: Gefahrenzeichen 138 StVO Käthe-Bauer-Weg im Bereich der Einmündung Hechenangerweg
+- TOP 8.5.: Schreiben KVR vom 24.10.11: Verkehrsrechtliche Erlaubnis zur Durchführung von Film- bzw. Fotoaufnahmen am 28.10.11; Riegerhofweg
+- TOP 8.6.: Schreiben KVR vom 20.09.11: Gaststätte "Mama's Küche", Helmpertstr. 2; unveränderte Fortführung
+- TOP 8.7.: Schreiben KVR vom 17.10.11: Gaststätte "Cafè Muro 2", Högerstr. 1; unveränderte Fortführung
+- TOP 8.8.: Schreiben KVR vom 26.10.11: Anzeige einer Versammlung unter freiem Himmel am 28.10.11 in der Westendstr. 230
+- TOP 8.9.: Schreiben Baureferat vom 10.10.11: Spielplatz Pronnerplatz
+- TOP 8.10.: Schreiben Baureferat vom 11.10.11: Reutterstraße zwischen Gotthardstraße und Rappstraße
+- TOP 8.11.: Schreiben Baureferat vom 11.10.11: Unterrichtung über das Fällen von Gefahrenbäumen; Kiem-Pauli-Weg 22
+- TOP 8.12.: Schreiben Kulturreferat vom 13.10.11: Einrichtung eines W-Lan-Netzes in der Stadtbibliothek Laim (Antrag Nr. 08-14 / B 02998 vom 03.05.11)
+- TOP 8.13.: Schreiben Planungsreferat vom 22.09.11: Ablehnung einer beantragten Baumfällung auf dem Grundstück Hörkherstr. 24 - 26
+- TOP 8.14.: Schreiben Planungsreferat vom 30.09.11: Ablehnung einer beantragten Baumfällung auf dem Grundstück Ilmmünsterstr. 57
+- TOP 8.15.: Schreiben Planungsreferat vom 24.10.11: Johannes-Scharrer-Str. 4; Fällungsantrag vom 06.09.11
+- TOP 8.16.: Schreiben Sozialreferat vom 05.10.11: Bauvorhaben im geförderten Wohnungsbau / KomPro-Häuser, Antrag BA 21
+- TOP 8.17.: Schreiben Sozialreferat vom 10.10.11: Vollzug des Gesetzes über das Verbot von Zweckentfremdung von Wohnraum und der Satzung der LH München über das Verbot von Zweckentfremdung von Wohnraum; Negativatteste Stroblstraße und Camerloherstraße (Stellungnahme BA vom 04.10.11)
+- TOP 8.18.: Schreiben Referat für Gesundheit und Umwelt vom 07.10.11: Mobilfunk; Erweiterungsvorhaben am bestehenden Mobilkfunkstandort
+- TOP 8.19.: Schreiben Referat für Arbeit und Wirtschaft vom 30.09.11: Wirtschafts-Info 09/2011
+- TOP 8.20.: Schreiben Stadtkämmerei vom 17.10.11: Mehrjahresinvestitionsprogramm für die Jahre 2011-2015
+- TOP 8.21.: Schreiben SWM vom 05.10.11: Informationsflyer "Baumaßnahmen der SWM", 2. Halbjahr 2011 für BA 25
+- TOP 8.22.: Schreiben Stadtwerke München GmbH vom 18.10.11: Baumaßnahmen der SWM; Stromprojekt Netztrafostationen Landsberger Str. 183 und Landsberger Str. 350
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 21.10.11: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Rapotostraße neben 1
+- TOP 8.24.: Bautenliste vom 19.09.-25.09.11: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Valpichlerstr. 130 b) Geyerspergerstr. 51
+- TOP 8.25.: Bautenliste vom 26.09.-02.10.11: 1. Erstantragsverfahren a) Valpichlerstr. 130 b) Käthe-Bauer-Weg 17 c) Elsenheimerstr. 12 2. Änderungsverfahren a) Landsberger Str. 188 b) Camerloherstr. 76 3. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Flotowstr. 48
+- TOP 8.26.: Bautenliste vom 03.10.-09.10.11: 1. Erstantragsverfahren a) Paul-Lagarde-Str. 21 b) Paul-Lagarde-Str. 17 c) Schrobenhausener Str. 2 d) Friedenheimer Str. 49 e) Paul-Lagarde-Str. 19
+- TOP 8.27.: Bautenliste vom 10.10.-16.10.11: 1. Erstantragsverfahren a) Landsberger Straße b) Helmpertstr. 3 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren a) Camerloherstr. 67 b) Aindorferstr. 74
+- TOP 8.28.: Bautenliste vom 17.10.-23.10.11 1. Erstantragsverfahren a) Westendstr. 174
+- TOP 8.29.: Schreiben Stadtwerke München GmbH vom 26.09.11: Baumaßnahmen der Stadtwerke; Stichtag: 26.09.11
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 04.10.11: Baumaßnahmen der Stadtwerke; Stichtag: 04.10.11
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 10.10.11: Baumaßnahmen der Stadtwerke; Stichtag: 10.10.11
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 17.10.11: Baumaßnahmen der Stadtwerke; Stichtag: 17.10.11
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 24.10.11: Baumaßnahmen der Stadtwerke; Stichtag: 24.10.11
+- TOP 8.34.: Beschluss des Bauausschusses vom 27.09.11: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern Untersuchungsergebnisse und weiteres Vorgehen (Sitzungsvorlagen-Nr. 08-14 / V 04822)
+- TOP 8.35.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 28.09.11: Wohnen in München IV Erfahrungsbericht für das Jahr 2010 mit Ergänzungen (Sitzungsvorlagen-Nr. 08-14 / V 07409)
+- TOP 8.36.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 28.09.11: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden Baugesetzbuch-Klimanovelle (Sitzungsvorlagen-Nr. 08-14 / V 07684)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.11: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München (Sitzungsvorlagen-Nr. 08-14 / V 07337)
+- TOP 8.38.: Beschluss des Kommunalausschusses vom 29.09.11: Straßenbenennung im 25. Stadtbezirk Laim; Friedrich-von-Pauli-Straße, Anton-Hammel-Straße, Georg-Lotter-Weg (Sitzungsvorlagen Nr. 08-14 / V 07601)
+- TOP 8.39.: Beschluss der Vollversammlung vom 05.10.11: Planfeststellungsbeschluss für den Verkehrsflughafen München, 3. Start- und Landebahn (Sitzungsvorlagen Nr. 08-14 / V 07608)
+- TOP 8.40.: Beschluss der Vollversammlung vom 05.10.11: Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 4 (Schwabing-West), 11 (Milbertshofen-Am Hart) und 12 (Schwabing-Freimann) (Sitzungsvorlagen Nr. 08-14 / V 07379)
+- TOP 8.41.: Beschluss der Vollversammlung vom 05.10.11: Mieterbeirat; Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 19. Stadtbezirkes Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (Sitzungsvorlagen Nr. 08-14 / V 07329)
+- TOP 8.42.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.11: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich (§ 34 BauGB) (Sitzungsvorlagen-Nr. 08-14 / V 07755)
+- TOP 8.43.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 12.10.11: Optimierung des Beratungsangebotes im Referat für Stadtplanung und Bauordnung - Lokalbaukommission (Sitzungsvorlagen-Nr. 08-14 / V 07721)
+- TOP 8.44.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 12.10.11: Parkraummanagement in München - Fortschreibung Umsetzungskonzept (Sitzungsvorlagen-Nr. 08-14 / V 07773)
+- TOP 8.45.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.11: Haushaltsplan 2012, Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale (Sitzungsvorlagen Nr. 08-14 / V 07744)
+- TOP 8.46.: Schreiben TU München: Einladung zum Kolloquium "Der öffentliche Verkehr als Katalysator für die Stadtentwicklung" im Herbst/Winter 2011/2012
+- TOP 8.47.: Schreiben Referat für Gesundheit und Umwelt vom 19.10.11: Einladung zum Fachgespräch "Novellierung der DIN V 18599" am 09.11.11
+- TOP 8.48.: Schreiben Referat für Gesundheit und Umwelt vom 19.10.11: Einladung zum Fachgespräch "Qualität gestalten, planen und ausführen" am 10.11.11
+- TOP 8.49.: Schreiben Referat für Arbeit und Wirtschaft vom 11.10.11: 6. Münchner Nachhaltigkeitskonferenz am 10.11.2011
+- TOP 8.50.: Schreiben Referat für Gesundheit und Umwelt vom 19.10.11: Einladung zur Podiumsdiskussion "Effiziente und regenerative Energietechnik: Aufgabe und Chance für das Handwerk" am 16.11.11
+- TOP 8.51.: Schreiben BA 1 Altstadt-Lehel vom 06.10.11: Christkindlmärkte Münchens
+- TOP 8.52.: Schreiben Deutscher KinderschutzBund Ortsverband München e.V. vom 07.10.11: Zuwendung aus dem Budget des BA 25; Offene Spielaktion vom 29.06.-23.09.11 - Kurzbericht
+- TOP 8.53.: Schreiben Erzbischöfliches Ordinariat München vom 24.10.11: Errichtungsdekret "Pfarrverband Salvator Mundi"
+- TOP 8.54.: Statistisches Jahrbuch 2011
+- TOP 8.55.: Schriftverkehr aus der BA-Sitzung vom 04.10.11
+- TOP 1.2: Bürgerpost an den BA
