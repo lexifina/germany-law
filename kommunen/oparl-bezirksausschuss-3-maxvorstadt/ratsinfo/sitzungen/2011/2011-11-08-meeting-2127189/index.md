@@ -1,0 +1,79 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2127189
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2127189
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .4.: Fragen an die Polizei
+- TOP .5.: Bürgeranliegen
+- TOP .5.1: Der Bürger hat das Wort
+- TOP .5.2: Bürgerpost an den BA 3
+- TOP .1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 13.10.2011 Beschwerde über parkende Busse in der Pappenheimstraße und Marsstraße (s. TOP C 2.1.3)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Bauvorhaben
+- TOP .1.: Listen der Bauvorhaben: 39., 40., 41. KW
+- TOP .2.: Listen der Abgeschlossenheitsbescheinigungen: 38./39., KW
+- TOP .3.: Referat für Stadtplanung und Bauordnung, Stadtplanung Bebauungsplan mit Grünordnung Nr. 1951, Linprunstraße (südlich), Sandstraße (westlich) Teiländerung des Bebauungsplanes Nr. 496 Beteiligung der Öffentlichkeit am Bebauungsplanverfahren und Beiteiligung der Behörden und sonstigen Träger öffentlicher Belange Die Unterlagen wurden elektronisch zugeleitet.
+- TOP .4.: Referat für Stadtplanung und Bauordnung Josephsplatz, Neubau einer Anwohnertiefgarage, Vollzug der Baumschutzverordnung Vertagt aus der Sitzung vom 11.10.2011 wegen eines fehlenden Freiflächengestaltungs- planes (s. TOP B 2.1.6/1011)
+- TOP .5.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Wittelsbacherplatz ? Finkenstraße ? Jägerstraße ? Kardinal-Döpfner-Straße a) Ergebnis des Planungswettbewerbes Siemens Headquarter München b) Aufstellungsbeschluss
+- TOP .2.2: Baumfällungen
+- TOP .1.: entfällt
+- TOP .2.: Theresienstraße 90, zwei Robinien
+- TOP .3.: Adalbertstraße 96, eine Robinie
+- TOP .4.: Anwohnertiefgarage Josephsplatz, Vollzug der Baumschutzverordnung
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.1: Verkehr
+- TOP .1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnung, Beschlussvorlage Neueinrichtung eines Taxistandplatzes Dachauer Straße 12
+- TOP .2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Haltverbot für Busse in der Deroystraße, Antrag des Finanzamtes München
+- TOP .3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 13.10.2011 Beschwerde über parkende Busse in der Pappenheimstraße und Marsstraße (s. TOP A 5.2.1)
+- TOP .4.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Vorfahrtregelung Max-Joseph-/Ottostraße
+- TOP .5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.2: Öffentlicher Raum
+- TOP .1.: Baureferat, Gartenbau Aufsstellung einer Litfaßsäule mit integrierter Toilette am Maßmannspielplatz Antrag Nr. 08-14 / B 03004 des BA 3 vom 10.05.2011 vertagt aus der Sitzung vom 11.10.2011 (TOP C 2.2.2), Unterlagen liegen bereits vor
+- TOP .2.3: Gaststätten
+- TOP .2.4: Veranstaltungen
+- TOP .1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Mittelalterlicher Weihnachtsmarkt auf dem Wittelsbacherplatz (24.11. bis 23.12.2011)
+- TOP .1.: Referat für Bildung und Sport, Stabsstelle Planung Das Referat für Bildung und Sport trifft die Bezirksausschüsse ? Termine 2012 Benennung der Teilnehmer aus dem BA 3
+- TOP .2.: Sozialreferat, Amt für Soziale Sicherung Beteiligung am ?Europäischen Jahr für Aktives Altern und der Solidarität zwischen den Generationen?
+- TOP .1.: (E) Budget der Bezirksausschüsse Kunstpavillon e.V. Ausstellung "Urban Djungle" vom 03. - 27.11.2011
+- TOP .2.: (E) Budget der Bezirksausschüsse Georg-Elser-Initiative Verleihung des Georg-Elser-Preises am 08.11.2011
+- TOP .3.: (E) Budget der Bezirksausschüsse MIR e.V. Erstellung des MIR-Kalenders 2012
+- TOP .3.: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.3.: Soziales und Bildung
+- TOP 3.1.: Planung und Umwelt
+- TOP 3.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Optimierung des Beratungsangebotes, Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011, Sitzungsvorlage Nr. 08-14 / V 07721
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011, Sitzungsvorlage Nr. 08-14 7 V 07755 Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich (§ 34 BauGB)
+- TOP 3.4.: Baureferat, Gartenbau Baumpflanzungen in der Maxvorstadt, BA-Antrag Nr. 08-14 / B 03080 des BA 3 vom 07.06.2011
+- TOP 3.2.: Verkehr und öffentlicher Raum
+- TOP 3.1.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Wendehammer Bernhard-Wicki-Straße
+- TOP 3.2.: Kreisverwaltungsreferat, Verkehrsmanagement Aufhebung eines personenbezogenen Behindertenparkplatzes, Schraudolphstraße 32
+- TOP 3.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnung am Geschwister-Scholl-Platz wird das Zeichen 260 (Verbot für Krafträder und für Kraftwagen und sonstige mehrspurige Kraftfahrzeuge angebracht.
+- TOP 3.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnung Vollzug der Grünanlagensatzung, Baustelleneinrichtung am Lenbachplatz
+- TOP 3.5.: Bezirksausschuss 1 Altstadt-Lehel Ausdehnung des Weihnachtsmarktes 2012, Schreibendes BA 1 an das Referat für Arbeit und Wirtschaft vom 05.10.2011
+- TOP 3.6.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Parkraummanagement in München ? Fortschreibung Umsetzungskonzept Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 12.10.2011 Sitzungsvorlage Nr. 08-14 / V 07773
+- TOP 3.7.: Baumaßnahmen der Stadtwerke Lothstraße 64, Fernwärme
+- TOP 3.8.: Baureferat, Ingenieurbau Erneuerung der Beleuchtung im Altstadtringtunnel und im Brudermühltunnel Beschluss des Bauausschusses vom 18.10.2011 Sitzungsvorlage Nr. 08-14 / V 07861
+- TOP 3.9.: Baureferat, Tiefbau Künstlerische Illumination in der Paul-Heyse-Unterführung Antrag Nr. 08-14 / A 02733 der Stadtratsfraktion der FDP vom 24.08.2011 Sitzungsvorlage Nr. 08-14 / V 07857
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Sozialreferat, Soziale Wohnraumförderung ? Wohnungslosenhilfe Bauvorhaben im geförderten Wohnungsbau/KomPro-Häuser Antrag Nr. 08-14 / B 03152 des BA 21 Pasing-Obermenzing
+- TOP 3.3.: Budget Dankschreiben von Studiendirektor Paul Schötz, Wittelsbacher Gymnasium zur Bewilligung von Mitteln zum Kauf einer Kamera (s. TOP D 2.2/0911)
+- TOP 3.4.: Kultur
+- TOP 3.1.: Kulturreferat, Kulturelle Infrastruktur Neubau NS-Dokumentationszentrum München im 3. Stadtbezirk Maxvorstadt Ausführungsgenehmigung Beschluss des Kulturausschusses vom 29.09.2011, Sitzungsvorlage Nr. 08-14 / V 07642
+- TOP 3.2.: Kulturreferat NS-Dokumentationszentrum München, Lern- und Erinnerungsort zur Geschichte des Nationalsozialismus Beschluss des Kulturausschusses vom 29.09.2011 Sitzungsvorlage Nr. 08-14 / V 07632
+- TOP 3.1.: Einwohnerversammlung, Siemens Konzernzentrale
+- TOP 3.1.: Nächste BA- und UA-Sitzungen
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
+- TOP .3.: Aktuelle Sachstandsberichte
