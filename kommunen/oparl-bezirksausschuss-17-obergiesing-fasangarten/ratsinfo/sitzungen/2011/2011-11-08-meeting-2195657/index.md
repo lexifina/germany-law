@@ -1,0 +1,138 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2011-11-08T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2195657
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2195657
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.2: Tagesordnung
+- TOP 1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.1: Bürgeranliegen
+- TOP 2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.2.1.: Präsentation eines Entwurfs für die barrierefreie Überbrückung der Schneise am Giesinger Berg für Fußgänger, Radfahrer und Menschen mit Mobilitätseinschränkungen; Bürgerschreiben vom 17.10.11
+- TOP 2.1.2.2.: Zustand der Fahrbahnen im Bereich Hohenschwangauplatz
+- TOP 2.1.2.3.: Errichtung eines Zebrastreifens Lincolnstraße / Ecke Feuerbachstraße
+- TOP 2.2: Behördenvertreter
+- TOP 2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2: Fragen an die Polizei
+- TOP 2.3: Bericht des Vorsitzenden
+- TOP 2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Rettung der Kaskadenanlage im Ostfriedhof - <div></div>
+- TOP 3.2.: Verkauf des GBW-Wohnungsbestandes an den Freistaat Bayern - <div></div>
+- TOP 4: Budget
+- TOP 4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.1.: AntragstellerIn: KJR München-Stadt, 103er Freizeittreff Obergiesing, für die Maßnahme: Theatertage am 01./02.12.2011; Antragssumme: 600,00 ?; Beschlussvorlage des Direktoriums vom 20.10.11
+- TOP 4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 5: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Antrag auf Überprüfung der geplanten Bebauung in der Schwanseestr. 64; Bürgerantrag vom 07.10.11 (verwiesen aus der Sitzung vom 11.10.2011)
+- TOP 5.1.2.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche in der Tegernseer Landstraße 135; Beschluss des BA 17 vom 08.11.11 (vertagt aus der Sitzung vom 11.10.11)
+- TOP 5.1.2.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung eines Maronenverkaufsstands (Neuantrag) auf dem Giesinger Bahnhofplatz 7; Beschluss des BA 17 vom 08.11.11
+- TOP 5.1.3.1.: Anhörugen zu Bauvorhaben 5.1.3.1.1 Untere Grasstraße 34, Zusammenlegung eines Kigas u. einer Kinderkrippe zu einer Nutzungseinheit als Kinderkrippe; Anhörung vom 28.09.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.2 Fasangartenstr. 124, Anbau eines WC-Pavillons; Anhörung vom 28.09.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.3 Aignerstr. 26, Neubau eines Wohnhauses (14 WE) mit TG (14 Stpl.) - Aignerstr. 26 / Ichostr. 3); Anhörung vom 05.10.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.4 Hohenschwangauplatz, Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 05.10.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.5 Spixstraße, Neubau eines Wohn- u. Geschäftshauses mit Kita u. TG; Anhörung vom 05.10.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.6 Untersbergstr. 23, Umbau u. Erweiterung Bürogebäude / Nutzungsänderung Durchfahrt; Anhörung vom 06.10.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.7 Weißenseestraße, Neubau einer Wohnanlage mit TG - hier: Haus 5 / EG - 4. OG; Anhörung vom 06.10.11 (vertagt aus der Sitzung vom 11.10.11) 5.1.3.1.8 Walchenseeplatz 6, Neubau von 4 Wohnungen im Hinterhof sowie einer Wohnung im DG; Anhörung vom 19.10.11
+- TOP 5.1.4.1.: Bauvorhaben im geförderten Wohnungsbau/KomPro-Häuser; BA-Antrag-Nr. 08-14 / B 03152 des BA 21; Antwortschreiben des Sozialreferats vom 29.09.11 mit der Bitte um Kenntnisnahme
+- TOP 5.1.4.2.: Optimierung des Beratungsangebotes im Referat für Stadtplanung und Bauordnung - Lokalbaukommission; Sitzungsvorlagen Nr. 08-14 / V 07721; Bekanntgabe des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011
+- TOP 5.1.4.3.: a) Bebauungsplan mit Grünordnung Nr. 2000 Lincolnstraße (südlich), General-Kalb-Weg (westlich), Marklandstraße (beiderseits), Fasangartenstraße u. Kiefernstraße (nördlich), Tegernseer Landstraße (östlich) "Wohnsiedlung Am Perlacher Forst" b "Verdichtung der Siedlung am Perlacher Forst; Aufstellung eines Bebauungsplanes"; Antrag Nr. 932 der Stadtratsfraktion der CSUvom 16.04.92 - Satzungsbeschluss -; Sitzungsvorlagen Nr. 08-14 / V 07760; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 12.10.11
+- TOP 5.1.4.4.: Bauvorhaben in der Eintrachtstraße 6a; Nutzungsänderung zweier Läden in einen Spielsalon; Anfrage des BA 17 aus der Sitzung vom 13.09.11 an das RGU; Antwortschreiben des RGU vom 30.09.11
+- TOP 5.1.4.5.: Baufälle im 17. Stadtbezirk
+- TOP 5.1.4.6.: 5.1.4.6. Mitteilung über ein Grundstücksgeschäft; Kauf Flst. 702 Perlach Nähe Balanstraße; Mitteilung vom 22.09.11 und 23.09.11
+- TOP 5.1.4.7.: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich ( § 34 BauGB); Sitzungsvorlagen Nr. 087-14 / V 07755; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011 (SB)
+- TOP 5.1.4.8.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.8.1.1 Fasangartenstraße 106, SSW "Piccolo Mondo"; Mitteilung vom 20.10.11 5.1.4.8.1.2 Alpenstraße 10, SSW "Mekan"; Mitteilung vom 20.10.11
+- TOP 5.1.4.9.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße"; Unterrichtung nach Nr. 16 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 5.1.4.9.1 Anwesen St.-Bonifatius-Str. 4; Mitteilung vom 18.10.11 5.1.4.9.2 Anwesen St.-Bonifatius-Str. 2; Mitteilung vom 18.10.10
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 5.2.4.1.: Walchenseeplatz - Nutzerkonflikte, hervorgerufen insbesondere durch Hundehaltung; Antrag auf Abhilfemaßnahmen; BA-Antrag-Nr. 08-14 / B 03273 vom 12.07.11; Antwortschreiben des Baureferats vom 11.10.11
+- TOP 5.2.4.2.: Erledigung von "Altanträgen" aus dem Bereich Städtisches Klinikum München GmbH; - Zentrum für Suchtmedizin; Stadtratsantrag Nr. 872 (96-02 / 300872) vom 28.04.98 - Modellprojekt "Integrierte Pflegeausbildung"; Stadtratsantrag Nr. 96-02 / A 302356 vom 24.11.00 - Kriseninterventionszentrum für den Südosten Münchens; BA-Antrag Nr. 6065 des BA 17 vom 30.05.11 - Naturheilkunde-Station an einem städtischen Krankenhaus; Stadtratsantrag Nr. 96-02 / A 02965 vom 26.06.01 - Fortbildung für Pflegekräfte zur besseren Versorgung von Patienten mit Demenz; Stadtratsantrag Nr. 02-08 / 01070 vom 30.07.03 - Verwirrte Frauen u. Männer sind im Krankheitsfall unzureichend versorgt; Stadtratsantrag Nr. 02-08 / A 01136 vom 10.09.03; - Dezentrale stationäre Psychiatrie; Stadtratsantrag Nr. 02-08 / A 01853 vom 29.07.04 - Gerontopsychiatrische Versorgung im Schwabinger Krankenhaus; BA-Antrag nr. 02-08 / B 01127 des BA 4 vom 26.04.06 - Prüfung einer Kooperation des Krankenhauses Harlaching mit dem Krankenhaus für Naturheilwesen; Stadtratsantrag Nr. 08-14 / A 01377 vom 01.03.10; Sitzungsvorlage Nr. 08-14 / V 07681; Beschluss des Gesundheitsausschusses vom 13.10.11 (VB)
+- TOP 5.2.4.3.: Haushaltsplan 2012; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; Sitzungsvorlage Nr. 08-14 / V 07744; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses vom 08.11.11 (SB)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Verkehrssicherheit an der Kreuzung Tegernseer Landstraße / Ichostraße; Baustellenampel auf Höhe der Aignerstraße; Bürgeranliegen (verwiesen aus der Sitzung vom 11.10.2011)
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5.3.4.1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept a) Fortsetzung des Parkraummanagements außerhalb des Mittleren Ringes b) Dauerhafte Aufgabe zum Betrieb u. zur dauerhaften Qualitätssicherung des Parkraummanagements c) Eng mit der Einführung des Parkraummanagements einhergehende und Bei Umsetzung des Parkraummanagements aufgetretene Fragestellungen d) Einbeziehung der Gebiete nördlich u. westlich des Klinikums Schwabing in das Parkraummanagement; Sitzungsvorlage Nr. 08-14 /& V 07773; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Kreisverwaltungsausschusses vom 12.10.2011 (VB)
+- TOP 5.3.4.2.: Der Freistaat fördert die Mobilität in der EMM-Region - verkehrliche Auswirkungen der Vergabe des Elektro-Netzes Rosenheim auf die Region München; Stadtratsantrag Nr. 08-14 / A 02088 vom 20.12.10; Sitzungsvorlagen Nr. 08-14 / V 07571; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 12.10.11 (SB)
+- TOP 5.3.4.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Perlacher Str. 119; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 5.3.4.4.: Verlegung der Endstation der Buslinie 58 von der Silberhornstraße zum Wettersteinplatz; Bürgeranliegen aus der Sitzung vom 13.09.11; Antwortschreiben der MVG vom 07.10.11
+- TOP 5.3.4.5.: Öffnung der in Richtung Süden einbahngeregelten Hohenschwangaustraße zwischen Chiemgaustraße und Hohenschwangauplatz für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 5.3.4.6.: Beleuchtung des Parks am Ende der Wirtstraße, Ecke Bergstraße; BA-Antrag Nr. 08-14 / B 03297 vom 12.07.11; Antwortschreiben des Baureferats vom 13.10.11
+- TOP 5.3.6.1.: Zukünftiger Parklizenzbereich Obergiesing / Tegernseer Landstraße; Verwarung mit Zahlungsaufforderung; Abdruck eines Bürgerschreibens an das KVR vom 25.09.11
+- TOP 5.3.6.2.: Parklizenzgebiet Tegernseer Landstraße; Abdruck eines Bürgerschreibens an das KVR vom 11.10.11
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 5.4.2.1.: Ersatzpflanzung für gefällte Bäume im Straßenbegleitgrün der Werinherstraße (u. a. vor Herzogstandstraße 9); Empfehlung Nr. 08-14 / E 01047 der BÜV des 17. Stadtbezirks; Sitzungsvorlage Nr. 08-14 / V 07624; Beschluss des BA 17 - Obergiesing-Fasangarten - vom 08.11.11 - <div>nach Antrag</div>
+- TOP 5.4.4.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1 Anwesen Pennstraße 1; Bescheid vom 12.10.11 5.4.4.1.2 Anwesen Wikingerstr. 1; 2 Bescheide vom 12.10.11 5.4.4.1.3 Anwesen Marklandstraße; Bescheid vom 18.10.11 5.4.4.1.4 Anwesen Fischbachauer Str. 7; Bescheid vom 21.10.11 5.4.4.1.5 Fockensteinstraße 2-4; Bescheid vom 24.10.11
+- TOP 5.4.4.2.: Bessere Überwachung des Grillverbots an der Isar; Abdruck eines Schreibens des BA 2 an das Baureferat-Gartenbau vom 29.09.11
+- TOP 5.4.5.1.: Müllsituation am Giesinger Bahnhof - <div></div>
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 5.5.3.1.: Beschluss Generalinstandsetzung ehem. Altenheim St. Martin - Nutzungskonzept; Beispiele für subkulturelle Nutzungen; Anfrage des Sozialreferats vom 13.10.11 mit der Bitte um Stellungnahme
+- TOP 5.5.4.1.: Christkindlmarkt 2012; Stadtratsantrag Nr. 08-14 / A 02301 vom 18.03.11; Schreiben des BA 1 an das RAW vom 05.10.11 mit der Bitte um Kenntnisnahme
+- TOP 6: Berichte der Beauftragten
+- TOP 6.1: Ausländer/Innen
+- TOP 6.2: Behinderte
+- TOP 6.3: Genderfragen
+- TOP 6.4: Kinder
+- TOP 6.5: Jugend
+- TOP 6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.3.1.: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015; Unterrichtung der Stadtkämmerei vom 17.10.11
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.2: Ankündigungen
+- TOP 8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.3.: Verkehrssituation Deisenhofener Str. ab Kreuzung Tegernseer Landstraße und Situation "Tela Post"; Bürgerschreiben vom 05.10.11 (aus der Sitzung vom 11.10.11 in den UA Bau und Planung sowie Verkehr verwiesen)
+- TOP 2.5: Sonstiges (1)
+- TOP 5.1: UA Bau und Planung (1)
+- TOP 5.1.1: Bericht (1)
+- TOP 5.1.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.1.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.1.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.1.5: Anträge (1)
+- TOP 5.1.6: Sonstiges (2)
+- TOP 5.2: UA Familie, Soziales, Ausbildung, Sport (1)
+- TOP 5.2.1: Bericht (2)
+- TOP 5.2.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.2.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.2.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.2.5: Anträge (2)
+- TOP 5.2.6: Sonstiges (3)
+- TOP 5.3: UA Verkehr (1)
+- TOP 5.3.1: Bericht (3)
+- TOP 5.3.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (1)
+- TOP 5.3.3: Anhörungsfälle / Stellungnahmen (1)
+- TOP 5.3.4: Unterrichtungsfälle / Bekanntgaben (1)
+- TOP 5.3.5: Anträge (3)
+- TOP 5.3.6: Sonstiges (4)
+- TOP 5.4: UA Umwelt (1)
+- TOP 5.4.1: Bericht (4)
+- TOP 5.4.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (2)
+- TOP 5.4.2.2.: Ersatzpflanzung für gefällte Bäume im Straßenbegleitgrün der Werinherstraße (u.a. vor Herzogstandstraße 9) - <div></div>
+- TOP 5.4.3: Anhörungsfälle / Stellungnahmen (2)
+- TOP 5.4.4: Unterrichtungsfälle / Bekanntgaben (3)
+- TOP 5.4.5: Anträge (4)
+- TOP 5.4.6: Sonstiges (5)
+- TOP 5.5.1: Bericht (5)
+- TOP 5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung (3)
+- TOP 5.5.3: Anhörungsfälle / Stellungnahmen (3)
+- TOP 5.5.4: Unterrichtungsfälle / Bekanntgaben (2)
+- TOP 5.5.5: Anträge (5)
+- TOP 5.5.6: Sonstiges (6)
+- TOP 8.1.1: UA Bau und Planung (2)
+- TOP 8.1.2: UA Familie, Soziales, Ausbildung, Sport (2)
+- TOP 8.1.3: UA Verkehr (2)
+- TOP 8.1.4: UA Umwelt (2)
