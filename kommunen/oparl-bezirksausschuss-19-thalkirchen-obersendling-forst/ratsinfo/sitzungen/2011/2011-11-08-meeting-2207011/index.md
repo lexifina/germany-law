@@ -1,0 +1,57 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2011-11-08T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2207011
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2207011
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürgerinnen und Bürger haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und der Beschlussfähigkeit
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Festlegung der endgültigen Tagesordnung
+- TOP 1.6.: Genehmigung des Protokolls vom 04.10.2011
+- TOP 2: Anträge
+- TOP 2.1.: Errichtung eines Flößermuseums in der Benediktbeuerer Str. 7
+- TOP 2.2.: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien
+- TOP 2.3.: Stadtteilwoche 2013 in Obersendling
+- TOP 2.4.: Radweg Thalkirchner Brücke
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Verein Mittagsbetreuung Boschl-Kinder an der Grundschule Boschetsrieder Straße e.V. Projekt "Kinder schreinern"
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Verein Mittagsbetreuung Boschl-Kinder an der Grundschule Boschetsrieder Straße e. V. Projekt "Leichtathletik"
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Freunde des Ortskerns Forstenried e.V. Veranstaltung "Dult anno dazumal" v. 17. - 19.05.2012
+- TOP 3.4.: 100 jähriges Jubiläum zur Eingemeindung von Forstenried - Erhöhung der Budgemittel-
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Erweiterung eines bestehenden Mobilfunkstandortes
+- TOP 4.3.: Überwachung des Grillverbots an der Isar
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Haltverbot Werlingstraße
+- TOP 5.2.: Parkverbot Höglwörther Straße
+- TOP 5.3.: Verkehrssituation Thalkirchen - Maria-Einsiedel-Straße
+- TOP 5.4.: Verkehrssituation Obersendling - Ruper-Mayer-Straße
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Baugenehmigung "Geretsrieder Str. 2" (Obdachlosenunterkunft)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Schulreferat trifft BA; Themen vom 19.10.11
+- TOP 8: Entscheidungsfälle
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: MIP 2011 - 2015
+- TOP 9.2.: Gaststättenfortführung Graubündener Str. 100
+- TOP 9.3.: Feuerwerk Villa Floßlände
+- TOP 9.4.: Weihnachtsmarkt Fellererplatz
+- TOP 9.5.: Antrag auf Zweckentfremdung Forstenrieder Allee
+- TOP 9.6.: Antrag auf Zweckentfremdung Weichselgartenstraße
+- TOP 9.7.: Antrag auf Zweckentfremdung Starnberger Straße
+- TOP 9.8.: Antrag auf Zweckentfremdung Bannwaldseestraße
+- TOP 9.9.: Antrag auf Zweckentfremdung Karl-Marr-Straße
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 1: Allgemeiner Teil
