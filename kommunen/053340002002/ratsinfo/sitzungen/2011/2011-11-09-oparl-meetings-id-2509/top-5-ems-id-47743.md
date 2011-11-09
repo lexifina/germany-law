@@ -1,0 +1,6 @@
+# TOP 5: Berichte
+
+- Sitzung: öffentliche/nichtöffentliche Sondersitzung des Finanzausschusses (2011-11-09)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=47743
