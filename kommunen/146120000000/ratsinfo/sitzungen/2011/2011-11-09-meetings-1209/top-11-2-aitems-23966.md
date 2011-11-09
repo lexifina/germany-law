@@ -1,0 +1,8 @@
+# TOP 11.2: Ersatzneubau der Geh-/Radbahn-Brücke über die Weißeritz im Zuge der Straße Emerich-Ambros-Ufer in Höhe des ESV-Sportkomplexes
+
+- Sitzung: 42. Sitzung des Ausschusses für Stadtentwicklung und Bau (2011-11-09)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/23966
+- Ergebnis: zur Kenntnis genommen
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/7572
