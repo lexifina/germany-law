@@ -1,0 +1,54 @@
+# Jugendrat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-11-10T18:00:00+01:00
+- Ende: 2011-11-10T20:20:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/4
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4938
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/4938
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168201.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168201.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168201.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung der Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung der Niederschrift vom 22. September 2011 - zurückgezogen
+- TOP 3: Sachstandsberichte:
+- TOP 3.1: Umsetzung der Rollsportanlage in Eller
+- TOP 3.2: Bau des Skaterparks
+- TOP 3.3: Legale Graffiti-Flächen in Düsseldorf - zur Kenntnis genommen
+- TOP 4: Rückblicke und Ausblicke auf Veranstaltungen und Aktivitäten des Jugendrats
+- TOP 4.1: Berlin-Fahrt des Jugendrates, 29.9.2011 bis 03.10.2011 - zur Kenntnis genommen
+- TOP 4.2: Veranstaltung zur Shell-Jugendstudie, 6.10.2011 - zur Kenntnis genommen
+- TOP 4.3: Teilnahme am Jugendring-Wochenende "Jugend trifft Politik", 14./15.10.2011 - zur Kenntnis genommen
+- TOP 4.4: Jugendparlamentskonferenz "Parlament des Jeunes - Treffen in Neuchatel (Schweiz), 28.10.2011 bis 22.10.2011 - zur Kenntnis genommen
+- TOP 4.5: Veranstaltung des Jugendrates für Kinder (Sachstand) - zur Kenntnis genommen
+- TOP 4.6: Planungswochenende des Jugendrates in Hattingen, 20.01.2012 bis 22.01.2012 - zur Kenntnis genommen
+- TOP 4.7: Dankeschön-Veranstaltung für junge Düsseldorfer Ehrenamtliche, 8.12.2011 - zur Kenntnis genommen
+- TOP 4.8: Jugendaustausch mit Istanbul 2012 - Bildung einer Arbeitsgruppe - zur Kenntnis genommen
+- TOP 5: Berichte aus den Ausschüssen, Bezirksvertretungen und den Arbeitsgruppen des Jugendrates
+- TOP 5.1: Berichte aus den Gremien, Ausschüssen, den Bezirksvertretungen und den Arbeitsgruppen
+- TOP 5.2: Bericht der Sprecherinnen und des Sprechers
+- TOP 6: Wahlen
+- TOP 6.1: Wahl einer Vertreterin/eines Vertreters für den Stadtbezirk 10
+- TOP 6.2: Wahl einer Vertreterin/eines Vertreters für den KPR
+- TOP 6.3: Wahl einer Sprecherin/eines Sprechers für die Jugendrats AG "Bildung, Sport und Freizeit"
+- TOP 7: Anfragen und Anträge
+- TOP 7.1: Antwort: Reduktion von Drucken und Kopien - zur Kenntnis genommen
+- TOP 7.2: Sondersitzung des Jugendrates - zur Kenntnis genommen
+- TOP 7.3: Informationen zum Jugendrat Düsseldorf
+- TOP 7.4: Erstellung einer Arbeitsmappe
+- TOP 7.5: Medienkompentenz an Düsseldorfer Schulen
+- TOP 7.6: Sanierung Düsseldorfer Schulen
+- TOP 7.7: Schulanfangzeitenoptimierung in Hinsicht auf die Pläne des ÖPNV
+- TOP 7.8: Barrierefreiheit im öffentlichen Nah- und Regionalverkehr
+- TOP 7.9: Verlängerung der Linie 703 zur Heinrich-Heine-Universität während der Hauptverkehrszeit
+- TOP 7.10: Haushalt 2012 - Stärkungspakt Stadtfinanzen - vertagt
+- TOP 7.11: Einladung eines Jugendoffiziers - mehrheitlich beschlossen
+- TOP 7.12: Sicherheit zu später Stunde/ öffentliche Plätze und Nahverkehr - mehrheitlich beschlossen
+- TOP 7.13: UN-Kinderrechte: Der Runde Tisch für Klein und Groß - einstimmig beschlossen
+- TOP 8: Verschiedenes und Termine
