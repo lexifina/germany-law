@@ -1,0 +1,7 @@
+# TOP 6.2: des Abwasserwerkes
+
+- Sitzung: Betriebsausschuss Ver- und Entsorgung (11. Sitzung) (2011-11-14)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6881
+- Beschluss (Datei): Beschlußtext (des Abwasserwerkes) https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRS03asWwxayeMUL4JghVZp2GVwp6D0VUgQtjlEhLzCs/Beschlusstext_TOP_6.2_-oeffentlich-_Betriebsausschuss_Ver-_und_Entsorgung_14.11.2011.pdf
