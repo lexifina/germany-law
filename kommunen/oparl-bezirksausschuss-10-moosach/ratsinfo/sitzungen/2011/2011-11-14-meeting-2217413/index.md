@@ -1,0 +1,78 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-11-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2217413
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2217413
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Verbotswidriges Parken von LKW und Anhängern in der Dachauer Straße
+- TOP 2.2.: Errichtung von Kurzparkplätzen in der Dachauer Str. vor Hausnummer 344
+- TOP 2.3.: Anträge aus der Einwohnerversammlung für Kinder- und Jugendliche am 21.10.2011
+- TOP 2.4.: Parklizenzbereich Homerstraße
+- TOP 3: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.1.1.: Bestellung städtischer Leistungen: ?Ein Brunnen für Moosach?, Kunstwettbewerb
+- TOP 3.1.2.: Einwohnerversammlung für Kinder- und Jugendliche am 21.10.2011
+- TOP 3.2: UA Verkehr
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Termine und Bekanntgaben
+- TOP 4.1: Anträge der SPD
+- TOP 4.1.1.: Standortsuche Bürgerbüro
+- TOP 4.1.2.: Radfahrer frei Gubestraße ? Bunzlauer Straße
+- TOP 4.2: Anträge der CSU
+- TOP 4.2.1.: ?Kiss-and-Ride? am Moosacher Bahnhof
+- TOP 4.2.2.: Abfahrt der Buslinien am Moosacher Bahnhof
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse AG-Buhlstraße e.V., Freizeitstätte boomerang Viedeoausstattung für Stadtteilprojekte
+- TOP 6: Anhörungen
+- TOP 6.1.: Errichtung und Betrieb einer Anlage zur Gaslagerung und zur Abfüllung von Druckgasflaschen in der Ludwigsfelder Str. 168 (umfangreiche Unterlagen in der Geschäftsstelle)
+- TOP 6.2.: Ausschreibung und Bewerbung Weltkindertag 2012
+- TOP 6.3.: Vollzug der Baumschutzverordnung 1. Seydlitzstr. 59 2.Waldhornstr. 54 a
+- TOP 6.4.: Beteiligung am ?Europäischen Jahr für Aktives Altern und der Solidarität zwischen den Generationen?
+- TOP 6.5.: Nikolausfeier der Mietergemeinschaft Borstei am 05.12.11
+- TOP 6.6.: Räume für die Volkshochschule in Moosach
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Wiederherstellung der Vorgärten in der Pelkovenstraße (Denkmalschutz wird beachtet)
+- TOP 7.2.: Amphionpark: Spielmöglichkeiten auch für Behinderte (wird berücksichtigt)
+- TOP 7.3.: Ausbau der Waldornstraße nördlich Manzostraße
+- TOP 7.4.: Rattenbefall am Wertstoffcontainer-Standort Naumburger- / Hirschstraße (es sind keine Rattenbefälle bzw. Spuren von Rattendurchläufen festzustellen)
+- TOP 7.5.: Pflegemaßnahmen für das Biotop Naumburger Straße / Görlitzer Straße und Spielplatz (werden durchgeführt)
+- TOP 7.6.: Keller- und Straßenüberflutungen in verschiedenen Bereichen Moosachs (Erläuterungen zum Nordwest-Sammelkanal)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Anfragen und Anträge bei der Bürgerversammlung am 11.10.2011
+- TOP 8.4.: Bauvorhaben im geförderten Wohnungsbau / Kompro-Häuser (Antrag des BA 21 Pasing-Obermenzing)
+- TOP 8.5.: Christkindlmärkte Münchens (Schreiben des BA 1 Altstadt-Lehel)
+- TOP 8.6.: Unterführung Menzinger Str. / Maria-Ward-Straße (Schreiben des BA 9 Neuhausen-Nymphenburg)
+- TOP 8.7.: Änderung einer Verkehrsregelung in der Feichtmayrstraße
+- TOP 8.8.: Genehmigung für Arbeiten im Straßenraum: Dachauer Str. zwischen Gröbenzeller Straße und Wildermuthstr. vom 02.11.11 bis 18.11.11
+- TOP 8.9.: Verkehrsrechtliche Anordnung: Einrichtung eines allgemeinen Behindertenparkplatzes in der Pelkovenstraße Südseite westlich Leipziger Straße
+- TOP 8.10.: Verkehrsrechtliche Anordnung: Aufhebung der Schulbushaltestelle in der Leipziger Straße (Antrag Nr. 08-14 / B03213)
+- TOP 8.11.: Verkehrsrechtliche Anordnung: Schulbushaltestelle Dieselstr. 19: Änderung des Zeitzusatzes
+- TOP 8.12.: Fällungsgenehmigungen: 1. Rothschwaigestr. 44 2. Andernacher Str. 48 3. Wichertstr. 5
+- TOP 8.13.: Mobilfunk-Suchkreismeldung
+- TOP 8.14.: Zweckentfremdung von Wohnraum: Eckehartstr.
+- TOP 8.15.: Mieterbeirat: Berufung eines stimmberechtigten Mitgliedes für den Bezirksausschuss des 19. Stadtbezirkes (Vorlagen Nr. 08-14 / V 07329)
+- TOP 8.16.: Parkraummanagement in München ? Fortschreibung Umsetzungskonzept (Vorlagen Nr. 08-14 / V 07773)
+- TOP 8.17.: Haushaltsplan 2012, Sozialreferat: Produkt- und zielorientierte Ansätze für den bereich ?Förderung freier Träger? der Zentrale (Vorlagen Nr. 08-14 / V 07744)
+- TOP 8.18.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2011 ? 2015, Einzelplan 4 des Sozialreferates 1. Sozialbereich (Vorlagen Nr. 08-14 / V 07589) 2. Jugendamtsbereich (Vorlagen Nr. 08-14 / 07758)
+- TOP 8.19.: Mehrjahresinvestitonsprogramm für die Jahre 2011 ? 2015
+- TOP 8.20.: Verkehrsrechtliche Anordnung: Aufnahme weiterer Teile der Homerstraße und des (Dantebad)Parkplatzes an der Homerstraße in die Parkraumbewirtschaftung
+- TOP 8.21.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München (Vorlagen Nr. 08-14 / V 07143)
+- TOP 8.22.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015 des Referates für Stadtplanung und Bauordnung (Vorlagen Nr. 08-14 / V 07906)
+- TOP 8.23.: Perspektive München: Aktualisierung Leitlinie Ökologie (Vorlagen Nr. 08-14 / V 07148)
+- TOP 8.24.: Zweckentfremdung von Wohnraum a) Franz-Fihl-Str. 10 b) Breslauer Str. 1
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
