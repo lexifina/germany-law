@@ -1,0 +1,88 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-11-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205900
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205900
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Maximilianstraße 6: Teilabbruch eines Ladengebäudes
+- TOP .2.: Widenmayerstraße 31: Nutzungsänderung, Hausmeisterwohnung zu Gewerbe-einheit (vertagt)
+- TOP .3.: Brunnstraße 4: Neubau einer Wohnanlage mit Restaurant und Tiefgarage
+- TOP .4.: Frauenstraße 32: Nutzungsänderung eines Wettbüros in Spielothek
+- TOP .5.: Residenzstraße 2: Residenzpost München (Tektur)
+- TOP .6.: Altheimer Eck 10: Abbruch Glasdach, Aufstockung Innenhof, Umnutzung (Tektur)
+- TOP .7.: Kapellenstraße 2 ? 4: Umbau
+- TOP .1.: SPD-Fraktion: Umwidmung der ungenutzten Anlieferzobe der ehemaligen Poststelle Ecke Reitmor-/Liebigstraße in Anwohnerparkplätze
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Kennedys?, Sendlinger-Tor-Platz 11: Betriebszeit der Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Marienplatz 8 (?Kaffee im Münchner Rathaus?): Warenstellage
+- TOP .2.: Tal 20, Eingang Radlsteg (?Servus München?): Warenstellage
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Vorstellung des neuen Prinzenpaares der Faschingsgesellschaft Würmensia e.V. am 11.11.2011, Marienplatz
+- TOP .2.: Weihnachtsdorf vom 24.11.-22.12.2011, Kaiserhof der Residenz
+- TOP .3.: Feuerzangenbowle vom 09.12. - 06.01.2011, Isartor-Innenhof
+- TOP .1.: Notfallausfahrt des BRK, Gespräch im Unterausschuss am 08.11.2011
+- TOP .1.: SPD-Fraktion: Fahrradabstellplätze am St.-Anna-Platz
+- TOP .2.: SPD-Fraktion: Auflösung des Taxistandplatzes am Marienplatz
+- TOP .1.: Isar-Plan: Verbesserter Zugang der Isar auf Höhe der Reichenbachbrücke
+- TOP .2.: Einbeziehung der Parkbuchtstellplätze vor dem Anwesen Prizregentenstraße 1 in das Parkraummanagement
+- TOP .3.: Baumfällung Thierschstraße 31
+- TOP .4.: Brandschutzertüchtigung der S-Bahnstation Isartor
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative Musica Sacra Sankt Anna Konzert am 18.12.2011
+- TOP .1.: Pilot-Stadtbezirk für den Weltkindertag 2012 gesucht
+- TOP .1.: Kassenbericht 2010
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015 (steht neben UA-Fächern)
+- TOP 0.2.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015 verschiedene Gliederungsziffern
+- TOP 0.3.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015: Feststetzung der Reihenfolge großer Siedlungmaßnahmen für die Jahre 2011 - 2015
+- TOP 0.4.: Bekanntgabe in gemeinsamen Ausschüssen des Stadtrates vom 07.12.2011: Münchner Bürgerinnen- und Bürgerbefragung 2010
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antrag des BA 21: Bauvorhaben im geförderten Wohnungsbau
+- TOP 0.5.: Beschluss der Vollversammlung vom 05.10.2011: Mieterbeirat ? Berufung eines stimmberechtigten Mitglieds
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung vom 12.10.2011, Zustimmung zu einer Informationsveranstaltung mit Beleuchtungsaktion am 19.10.2011, Platzl
+- TOP 0.6.: Antwortschreiben zur Anfrage des BA 2 bezüglich der Straßenmusik im Tal
+- TOP 0.7.: Eilentscheidung zur Kunstaktion ?Chairwalk? am 7.11.2011, verschiedene Orte
+- TOP 0.8.: Eilentscheidung zum Weihnachtsmarkt am Chinesischen Turm vom 26.11.-23.12.2011
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Mehr Personal für die Kommunale Verkehrsüberwachung
+- TOP 0.3.: Beschluss des Planungs- und Kreisverwaltungsausschusses: Parkraummanagement in München
+- TOP 0.4.: Rechtliche Abklärung des Status der öffentlichen Freifläche nördlich der Lukaskirche
+- TOP 0.5.: Beschluss des Bauausschusses vom 18.10.2011: Sendlinger Straße zwischen Färbergraben und Hackenstraße ? Umgestaltung in eine Fußgängerzone
+- TOP 0.6.: Beschluss des Bauausschusses vom 18.10.2011: Erneuerung der Beleuchtung im Altstadtringtunnel
+- TOP 0.7.: Verbesserung der Situation für Fußgänger und Radfahrer am Isartor/Breiterhof ? Verringerung der Beeinträchtigung durch abgestellte Fahrräder
+- TOP 0.8.: Sanierung der Fahrbahn zwischen Hochbrückenstraße und Thomas-Wimmer-Ring
+- TOP 0.9.: Parkplatz vor dem Anwesen Hochbrückenstraße 4, TOP 2011.10 D 3.4
+- TOP 0.10.: Beschluss des Planungs- und Umweltausschusses vom 09.11.2011: PERSPEKTIVE MÜNCHEN ? Aktualisierung Leitlinie Ökologie
+- TOP 0.11.: Beschluss des Planungsausschusses vom 09.11.2011: Sicherung der Biotop und Landschaftspflege in der LHM
+- TOP 0.12.: Umwandlung eines KFZ-Stellplatzes in Fahrradabstellplätze in der Westenriederstraße
+- TOP 0.13.: Verlängerung der Baustelleneinrichtung Blumenstraße 6
+- TOP 0.14.: Ablehnung der Straßenumbenennung ?Hofstatt?
+- TOP 0.1.: Mittagsbetreuung der Grundschule an der Herrnstraße (1) Umwidmung der Speicherräume zu Betreuungsräumen (2) Zuordnung der Räume zur Grundschule (3) Mittelbereitstellung für Erstausstattung
+- TOP 0.2.: Beschluss des Sozialausschusses vom 08.11.2011: Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger?
+- TOP 0.3.: Beschluss des Kinder- und Jugendhilfeausschusses und Sozialausschusses vom 08.11.2011: Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
