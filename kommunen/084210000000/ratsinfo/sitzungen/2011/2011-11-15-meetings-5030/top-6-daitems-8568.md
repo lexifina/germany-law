@@ -1,0 +1,8 @@
+# TOP 6: Betrieb Buslinie 7 in Jungingen ab dem Fahrplanwechsel 2011/2012
+
+- Sitzung: Sitzung des Fachbereichsausschusses Stadtentwicklung, Bau und Umwelt - Umweltthemen - (2011-11-15)
+- Körperschaft: Stadt Ulm
+- Öffentlich: ja
+- OParl: http://buergerinfo.ulm.de/oparl/bodies/0001/agendaitems/8568
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://buergerinfo.ulm.de/oparl/bodies/0001/consultations/2376
