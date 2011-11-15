@@ -1,0 +1,108 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2011-11-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2197068
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2197068
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Protokoll der September-Sitzung Protokoll der Oktober-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Parkplatzsituation am Wettersteinplatz; Bürgerschreiben vom 22.10.11
+- TOP 2.2.: Parkplatz-Aufkommen in der Gufidauner Straße; Bürgerschreiben vom 18.10.11
+- TOP 2.3.: Aretinstraße in Harlaching als Anliegerstraße; Bürgerschreiben vom 26.10.2011; 28.10. und 27.10.11
+- TOP 2.4.: Verkehrslärm und Verkehrsgefährdung für Radfahrer auf der Harthauser Straße / Holzkirchner Straße
+- TOP 2.5.: Grünwalder Straße und St.-Quirins-Platz - Haltverbotsmarkierungen; Bürgerschreiben vom 01.11.11
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Städt. Theodolinden-Gymnasium, für die Maßnahme: Projekt "Mädchen machen Technik" vom 24. - 27.10.2011; Antragssumme: 1.206,00 ?; (negative) Beschlussvorlage des Direktoriums vom 02.11.11
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Fahrradbrücke über den Giesinger Berg; Bürgerantrag vom 12.10.11 (verwiesen aus der Sitzung vom 18.10.11) - <div>nach Antrag</div>
+- TOP 3.2.: Lkw-Parkverbot in der Lebscheestraße und Albrecht-Dürer-Straße; Bürgeranliegen (verwiesen aus der Sitzung vom 18.10.11)
+- TOP 3.1.: Ausbau des Hohlraums in der U-Bahnstation Wettersteinplatz als Tiefgarage; Antrag der CSU-Fraktion vom 18.10.11 (vertagt aus der Sitzung vom 18.10.11 - siehe auch TOP 3.5.3.1)
+- TOP 3.1.: Eisenbahnlärm in Untergiesing und der Au; Lärmmessungen und Schallschutzmauer; Bürgerschreiben aus der Sitzung vom 20.09.11; Antwortschreiben des Referats für Gesundheit u. Umwelt vom 13.10.11 (negative Erledigung)
+- TOP 3.2.: Verkehrsschild "Achtung Kinder" in der Wunderhornallee; Bürgeranliegen aus der Sitzung des BA 18 vom 20.09.11; Antwortschreiben des KVR vom 26.10.11 (negative Erledigung)
+- TOP 3.1.: Parkraummanagement in München - Fortschreibung Umsetzungskonzept a) Forderung des Parkraummanagements außerhalb des Mittleren Ringes b) Dauerhafte Aufgaben zum Betrieb und zur dauerhaften Qualitätssicherung des Parkaummanagements c) Eng mit der Einführung des Parkraummanagements einhergehende und bei Umsetzung des Parkraummanagements aufgetretene Fragestellungen d) Einbeziehung der Gebiete nördlich und westlich des Klinikums Schwabing in das Parkraummanagement; Sitzungsvorlage Nr. 08-14 / V 07773; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung u. des Kreisverwaltungsausschusses vom 12.10.11 (VB)
+- TOP 3.2.: Einrichtung von Haltverbotszonen in der Straße Am Hollerbusch für den Schulbusverkehr; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.3.: Authariplatz 7-9 (Grünwalder Str.); Sperrung der Anliegerfahrbahn; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.4.: Aufhebung der Schulbushaltestelle in der Wunderhornstraße; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.5.: Waltramstraße zwischen Tegernseer Landstraße und Fromundstraße; Ausnahme des Radverkehrs von der Einfahrtssperre; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 3.1.: Barrierefreiheit in Untergiesing; Schreiben des KJR vom 28.09.11
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Kioske in den Isarauen; Antrag der Fraktion Bündnis 90 / DIE GRÜNEN vom 18.10.11 - <div>nach Antrag plus Ergänzung</div>
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Klara-Heese-Str. 8; Bescheid vom 22.09.11 3.3.6.1.2 Schilcherweg 8; Bescheid vom 25.10.11
+- TOP 3.2.: Zuleitung der Baumfällanträge - Erteilung von Fällgenehmigungen durch die UNB vor Fristablauf; Stellungnahme des BA 18 aus der Sitzung vom 20.09.11; Antwortschreiben der UNB vom 19.10.11 (neutrale Erledigung)
+- TOP 3.3.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Schreiben des Baureferats-Gartenbau vom 10.10.11
+- TOP 3.4.: Sicherung der Biotop- und Landschaftspflege in der LHM; Sitzungsvorlagen Nr. 08-14 / V 07143; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 09.11.2011 (VB)
+- TOP 3.5.: PERSPEKTIVE MÜNCHEN; Aktualisierung Leitlinie Ökologie; Themenschwerpunkt: Klimawandel und Klimaschutz; Öffentlichkeitsphase und Einarbeitung; Sitzungsvorlage Nr. 08-14 / V 07948; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 09.11.11 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Haushaltsplan 2012 - Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" der Zentrale; Sitzungsvorlage Nr. 08-14 / V 07744; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses vom 08.11.11 (SB)
+- TOP 3.1.: Umgestaltung des Jakob-Gelb-Platzes - geringfügige Abweichungen von der ursprünglichen Planung; Schreiben des Baureferats-Gartenbau vom 11.10.2011
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Zeitungsverkaufseinrichtungen "Welt Kompakt" auf öffentlichem Grund) in der Claude-Lorrain-Str., Fromundstraße, Grünwalder Straße, Humboldtstraße, Naupliastraße, Pilgersheimer Straße, Säbener Straße und Sanatoriumsplatz; Beschluss des BA 18 vom 15.11.11
+- TOP 3.1.: Ausbau des Hohlraums in der U-Bahnstation Wettersteinplatz als Tiefgarage; Antrag der CSU-Fraktion vom 18.10.11 (vertagt aus der Sitzung vom 18.10.11 - siehe auch TOP 3.2.3.1)
+- TOP 3.2.: Aufstellung der Hinweisschilder mit dem Namen des Stadtbezirkes Untergiesing-Harlaching - <div>nach Antrag</div>
+- TOP 3.3.: Die LHM wird aufgefordert, das Gelände am Candidplatz schnellstmöglich für die Bebauung mit Wohnungen durch einen gemeinnützigen Wohnungsbauträger, alternativ einen der ortsansässigen Bauvereine, freizugeben und mit der Bebauung beginnen zu lassen
+- TOP 3.4.: Die LHM wird aufgefordert, dass ehemalige Gelände der Stadtgärtnerei neben der Pfarrei Heilige Familie Harlachinger Vereinen mietweise zur Verfügung zu stellen - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Hauensteinstraße 14, Umbau und Erweiterung eines Wohnhauses - VORBESCHEID; Anhörung vom 06.10.11 (vertagt aus der Sitzung vom 18.10.11)
+- TOP 3.2.: Oberbiberger Str. 18, Errichtung eines Dachgeschosses auf einer Garage; Anhörung vom 06.10.11 (vertagt aus der Sitzung vom 18.10.11)
+- TOP 3.3.: Klausener Str. 25, Neubau von Einfamilienhäusern - VORBESCHEID; Anhörung vom 13.10.11 (vertagt aus der Sitzung vom 18.10.11)
+- TOP 3.4.: Langobardenstr. 5, Neubau eines Mehrfamilienhauses mit TG - GENEHMIGUNGSVERLÄNGERUNG; Anhörung vom 13.10.11 (vertagt aus der Sitzung vom 18.10.11)
+- TOP 3.5.: Arminiusstraße 24; Energetische Sanierung eines Wohngebäudes mit DG-Erneuerung u. Aufzug; Anhörung vom 18.10.11
+- TOP 3.6.: Agilolfingerstr. 35; Naubau e. Wohnhauses mit TG, DG-Ausbau, Anbau von Fassadenaufzügen u. Balkonen, Anbau von Wintergärten, Aufstockung e. Wohngebäudes, Anbau / Neubau Kinderkrippe; Anhörung vom 20.10.11
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Ersuchen an die GEWOFAG zur Errichtung eines barrierefreien Zugangs zur Gaststätte "Gartenstadt", Naupliastraße 2; BA-Antrag Nr. 08-14 / B 02503 vom 21.09.10; Antwortschreiben der Gewofag vom 07.09.11 (negative Erledigung)
+- TOP 3.1.: Bauvorhaben im geförderten Wohnungsbau/KomPro-Häuser; BA-Antrag Nr. 08-14 / B 03152 des BA 21; Antwortschreiben des Sozialreferats vom 29.09.11 mit der Bitte um Kenntnisnahme
+- TOP 3.2.: Baufälle im 18. Stadtbezirk
+- TOP 3.3.: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 9 und 10; Sitzungsvorlagen Nr. 08-14 / V 07906; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11 (VB)
+- TOP 3.1.: Säckingenstr. 2; Neubau eines Mehrfamilienhauses mit TG; negative Stellungnahme des BA 18 vom 17.08.11; Baugenehmigung vom 05.10.11
+- TOP 3.2.: Naupliastraße - Neubau eines Wohn- u. Geschäftshauses mit TG; Anforderung der Anhörung im Einzelfall; Schreiben der Lbk vom 25.10.11; Abdruck der Änderungsgenehmigung vom 25.10.11
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Christkindlmärkte in München; Änderung der Veranstaltungsrichtlinien; Schreiben des BA 1- Altstadt-Lehel - an das Referat für Arbeit u. Wirtschaft vom 05.10.11 mit der Bitte um Kenntnisnahme
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015; Schreiben der Stadtkämmerei vom 17.10.2011
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
