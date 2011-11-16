@@ -1,0 +1,6 @@
+# TOP 3.: Jahresabschluss der Leopoldshöher Immobilien- und Liegenschaftsverwaltung für das Wirtschaftsjahr 2010
+
+- Sitzung: Betriebsausschuss Immobilien und Gebäudemanagement (7. Sitzung) (2011-11-16)
+- Körperschaft: Gemeinde Leopoldshöhe
+- Öffentlich: ja
+- OParl: https://leopoldshoehe.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6889
