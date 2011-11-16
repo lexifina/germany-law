@@ -1,0 +1,110 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-11-16T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201498
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201498
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Tagesordnung und Protokoll
+- TOP .1.: Beschluss über die endgültige Tagesordnung
+- TOP .2.: Genehmigung des Protokolls der Sitzung vom 19.10.2011
+- TOP .3.: Änderungen im Bezirksausschuss
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.: Wahl des Vorsitzenden für den UA Wirtschaft
+- TOP .4.: Umbesetzungen in den Unterausschüssen
+- TOP .5.: Umbesetzung im Ferienausschuss
+- TOP .6.: Schaukastenbetreuung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Wegeführung St.-Wolfgangs-Platz; Schreiben des Baureferats vom 05.12.2011
+- TOP .2.: Sachbericht vom Sommerfest der Teestube "komm"-Streetwork
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Breisacher Str. 10 "Lorber-Diehr Architekten": Aufstellung eines mobilen Fahrradständers - <div>abweichend</div>
+- TOP .2.: Lucile-Grahn-Str. 25, "Hofpfisterei": Aufstellung eines mobilen Fahrradständers - <div>vertagt</div>
+- TOP .3.: Wörthstr. 10, "der Flohmarktladen": Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>vertagt</div>
+- TOP .4.: Regerplatz 2, "Eis mit Stern": Genehmigung einer Freischankfläche - <div>nach Antrag</div>
+- TOP .5.: Falkenstr. 2 und 47, Entenbachstr. 57, Weißenburger Pl. 8, Balanstr. 2, Orleansplatz 4, 6, 3, 2 (Businsel), 2, Preysingstr. 42: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Antrag der Axel Springer AG / Jost GmbH & Co. KG - <div>abweichend</div>
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Verwendung der alten Kegelhofmühle (BV-Empfehlung Nr. 08-14/ E 00866)
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Verbreiterte Nutzung des Wertstoffhofes nahe Einsteinstraße
+- TOP .2.: Einrichtung einer Fahrradfurt über die Kreuzung am westlichen Ende des Bordeauxplatzes in nördlicher Richtung
+- TOP .3.: Keine Werbeflächen an Schulen
+- TOP .4.: Keine unnötige Blockade von Parkplätzen durch Baustelleneinrichtung
+- TOP .5.: Reinigung der Glaskugeln an der Straßenbeleuchtung
+- TOP .6.: Generalsanierung der Grundschule an der Bazeillesstraße
+- TOP .7.: Zukunft der Lebensmittelmärkte Münchens - Beteiligung der betroffenen Bezirksausschüsse
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Errichtung von Barrieren zur Kenntlichmachung von Fußgwegen in der Grünanlage zwischen Reichenbach- und Corneliusbrücke (BV-Empfehlung Nr 08-14/ E 00864); Neu: Schreiben Baureferat vom 18.10.2011
+- TOP .2.: Baustelle am Preysingplatz; Schreiben des KVR vom 31.10.2011 und 16.11.2011
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .1.: Christkindlmarkt 2012; Schreiben des BA 1 vom 05.10.2011
+- TOP .2.: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015
+- TOP .3.: Haidhauser Weihnachtsmarkt auf dem Weißenburger Platz vom 24.11.-24.12.2011; hier: Eilentscheidung der Vorsitzenden vom 27.10.2011
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Graham Lack, ?Streicherprojekt?, Angebot zur Unterstützung des Projekts von der Musikalienhandlung ?Lindberg? dazu auch: Schreiben des Referats für Bildung und Sport vom 13.10.2011
+- TOP .2.: EINSTEIN Kulturzentrum - Neue Situation nach der Kündigung der Latin Percussion School (Änderungen der Raumverteilung Jazzclub und KiM). - Verbesserung der Eingangssituation
+- TOP .1.: Vorstellung der AGKJ
+- TOP .2.: Ausschreibung: ?Kinderorte im Stadtteil sichtbar machen ? gemeinsam spielen!? - 2. Pilot-Stadtbezirk gesucht für den Weltkindertag 2012
+- TOP .3.: Beteiligung am ?Europäischen Tag für Aktives Altern und der Solidarität zwischen den Generationen?
+- TOP .1.: Stand der städtebaulichen Kriminalprävention in München, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP .2.: Wohnen in München IV, Erfahrungsbericht für das Jahr 2010 mit Ergänzungen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.09.2011
+- TOP .3.: ?Situation Haidhausen? - Bürgerschreiben vom 04.09.2011, Antwort des Kreisverwaltungsreferats vom 13.10.2011
+- TOP .4.: Spielplatz in der Kellerstraße, Bürgerschreiben vom 20.07.2011, Antwortschreiben der Teestube vom 12.09.2011
+- TOP .5.: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale, Beschluss des Sozialausschusses vom 08.11.2011
+- TOP .1.: siehe oben TOP A 6.2
+- TOP .1.: Gemeinnütziger Verkauf von Christbäumen an der Wolfgangstr. 18 am 05.12.2011
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Bau des Klenzesteges; Auslobungstext für den Wettbewerb
+- TOP .3.: Innere Wiener Str. 6: Errichtung eines Vordachs entlang der Straßenfassade
+- TOP .4.: Ismaninger Str. 22: Bau 557 ? 2. Untergeschoss: Brandschutzertüchtigung einer Funktionseinheit
+- TOP .5.: Ismaninger Str. 22: Bau 557 ? 1. Obergeschoss: Einrichtung eines Klinikaustauschraums / Tierhaltung
+- TOP .6.: Langerstr. 2: Penthouse-Aufstockung eines Wohngebäudes - VORBESCHEID
+- TOP .7.: Langerstr. 2: Änderung eines Wohngebäudes durch Errichtung eines Mansarddaches - VORBESCHEID
+- TOP .8.: Johannispl. 6: Einbau von Dachgauben und eines Balkons in eine Dachgeschoss-Wohnung
+- TOP .9.: Schweigerstr. 2: DG-Ausbau - VORBESCHEID
+- TOP .10.: Claude-Lorrain-Str. 5: Sanierung und Umbau eines 2-geschossigen Gebäudes, Aufbau Dachgeschoss und 1-geschossiger Anbau
+- TOP .11.: Bereiteranger 4: Vordergebäude: Ausbau des Dachgeschosses und Ausbau von Balkonen; Rückgebäude: Anbau von Fluchtbalkonen als 2. Rettungsweg, Hofgestaltung
+- TOP .12.: Eduard-Schmid-Str. 13: Errichtung einer Dachterrasse auf dem Seitenbau des RGBs
+- TOP .1.: Rechtliche Beurteilung von Bauvorhaben im unbeplanten Innenbereich ( § 34 BauGB); Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011
+- TOP .2.: Optimierung des Beratungsangebotes im Referat für Stadtplanung und Bauordnung ? Lokalbaukommission; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011
+- TOP .3.: Kommission für Stadtgestaltung, Sitzungstermine 2012
+- TOP .4.: Mehrjahresinvestitionsprogramm für die Jahre 2011-2015, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011
+- TOP .1.: Isar-Plan; Verbesserter Zugang zur Isar auf Höhe der Reichenbachbrücke; Stellungnahme zu Lösungsvarianten
+- TOP .2.: Parkraummanagement: Teilbereich der Hochstraße zwischen Gebsattelstraße und Freudenbergerweg kurzzeitig wieder für Besucherinnen und Besucher zur Verfügung stellen; Schreiben des KVR vom 11.10.2011
+- TOP .1.: Presseinformation des AWM: ?Der Münchner-Wertstoffhof ? jetzt auch vor Ort: Die Wertstoffmobile kommen ? ein Testlauf im Stadtteil Au - Haidhausen?
+- TOP .2.: Der Freistaat fördert die Mobilität in der EMM-Region ? verkehrliche Auswirkungen der Vergabe des Elektronetzes Rosenheim auf die Region München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011
+- TOP .3.: Parkraummanagement in München ? Fortschreibung Umsetzungskonzept; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.2011
+- TOP .4.: Orleansplatz: Anwendung des Modells "shared space" prüfen
+- TOP .5.: Einrichtung eines Radfahrstreifens am Rosenheimer Berg, dazu auch: Verkehrsrechtliche Anordnung vom 14.07.2011
+- TOP .6.: Fußgängerübergang Elsässer Str. 16, Hypopark: Auflassung von einem Stellplatz pro Fahrtrichtung und Schutz vor Verparken durch baulich hergestellte Fahrradabstellplätze
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 07.12.2011, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Montag,.28.11.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 06.12.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 08.12.2011, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 05.12.2011, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 14.12.2011, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Das Referat für Bildung und Sport trifft die Bezirksausschüsse; Vormerkung Termin 2012: 13.06.2012, 16.00 ? 18.00 Uhr, Bayerstr. 28; Raum 5.074
+- TOP .2.: Erinnerung: Einladung des Sozialreferats zur Informationsveranstaltung für die Bezirksausschüsse, 08.12.2011, 18.30 ? 20.30 Uhr, Sozialreferat, Orleansplatz 11, Raum 1082, 1.Stock
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
