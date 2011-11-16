@@ -1,0 +1,53 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2011-11-16T17:10:00+01:00
+- Ende: 2011-11-16T18:55:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1550
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1550
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - (offen)
+- TOP 4.1: Verurteilung der Anschläge auf das Anton-Schmaus-Haus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 5.1: Wahl zur Bezirksstadträtin auf Vorschlag der Fraktion der Grünen - vertagt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl eines Mitgliedes in den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten SüdOst" - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Mitgliedes in den Verwaltungsrat des Eigenbetriebes "Kindertagesstätten SüdOst" - gewählt
+- TOP 6.3: Wahl von Bürgerdeputierten gem. § 21 Bezirksverwaltungsgesetz - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Überprüfung nach dem Stasi-Unterlagen-Gesetz (StUG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Ferienzeiten der BVV Neukölln von Berlin zum Jahreswechsel 2011/2012 und im Jahr 2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.3: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2010 - überwiesen
+- TOP 8: Mündliche Anfragen - (offen)
+- TOP 8.1: Wachschutz an Schulen 2012 - beantwortet
+- TOP 8.2: 50. Jahrestag des Anwerbeabkommens - beantwortet
+- TOP 8.3: Spähsoftware im Klassenzimmer - beantwortet
+- TOP 8.4: Ursachen des Bildungsstreiks in Neukölln - beantwortet
+- TOP 8.5: Verlegung der Buslinie 171 aus Alt-Rudow - beantwortet
+- TOP 9: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 9.1: Scheinanmeldungen verhindern! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.2: Missbrauch im Meldewesen verhindern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 9.3: Kita-Eigenbetrieb SüdOst - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.4: Scheinvaterschaften verhindern! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.5: Gedenkstätte für die Opfer des Nationalsozialismus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.6: Erhalt der Beratungsstelle für Hörbehinderte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.7: Bebauungsplan XIV-109b vom 31.3.2009 mit dem Deckblatt vom 8.3.2010 - Wutzkycenter - - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.8: Nachteile durch Wohngeldbezug reduzieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.9: Kita-Betreuung für Neuköllner Kinder - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.10: Haushalt der Abteilung Jugend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.11: Schulwegsicherung Karl-Weise-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.12: Kinderarbeitsfreier Platz der Stadt Hof - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.13: Naschgärten und -spielplätze - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.14: Veränderungssperre XIV-56d/25 für die Grundstücke Johannisthaler Chaussee 441, 443 und Buckower Damm 229, 231 im Bezirk Neukölln, Ortsteil Buckow im Geltungsbereich des Bebauungsplanentwurfes XIV-56d ("Johannisthaler Chaussee/Buckower Damm/Heideläufer Weg") - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.15: Sperrungen des Britzer Tunnels - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.16: Therapiebad erhalten! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 9.17: Gesperrt für Fahrzeuge über 3,5 t - mit Abschlussbericht zur Kenntnis genommen
