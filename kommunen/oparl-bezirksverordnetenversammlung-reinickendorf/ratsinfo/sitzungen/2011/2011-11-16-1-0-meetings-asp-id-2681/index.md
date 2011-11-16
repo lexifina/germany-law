@@ -1,0 +1,91 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-11-16T17:00:00+01:00
+- Ende: 2011-11-16T19:25:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2681
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2681
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=53564
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.1: Bildung von Ausschüssen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 2. Sitzung der BVV am 16.11.2011 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 2. Sitzung der BVV am 16.11.2011 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 2. Sitzung der BVV am 16.11.2011 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Ausweisung von EU-Projekten - überwiesen
+- TOP 7.3: Novellierung des Straßenausbaubeitragsgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Gewässerentwicklungskonzept Tegeler Fließ - überwiesen
+- TOP 7.5: Reinickendorfer Nachnutzungskonzept für den Flughafen Tegel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Jahrgangsübergreifendes Lernen in der Schulanfangsphase nur auf freiwilliger Basis - Schulen vom JÜL-Zwang befreien! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Ablehnung des Straßenausbaubeitragsgesetzes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Alkoholverzehr in der Öffentlichkeit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Zusammenarbeit Gartenschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Für dauerhafte moderne Servicedienstleistungen in den Bezirken einsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.11: Patenschaften zwischen Kindertagesstätten und Senioreneinrichtungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Verkehrssicherheit durch mehr Übersicht am Falkenplatz in Konradshöhe - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.13: Sprachförderklassen einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Teilnahme Audit familiengerechte Kommune - überwiesen
+- TOP 7.15: Einhaltung der Kampfhundeverordnung kontrollieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Stellplatzobergrenzenverordnung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.17: Seniorenfreundlicher Bezirk Reinickendorf - Beratungsstelle Patientenverfügung auch im Bezirksamt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Sicherung von Stolpersteinen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Anflugrouten BBI - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Fahrbahnmarkierung Roedernallee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Bessere Verkehrsanbindung der Anwohner Alter Bernauer Heerweg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Aktionstage "Zu Fuß zur Schule" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.23: Rettungseinsatzzeiten der Feuerwehr im Bezirk Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.24: Quartiersmanagement Auguste-Viktoria-Allee / Klixstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.25: Ampel für Schulwegsicherheit während des Neubaus der Ruppiner Chaussee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.26: Dauerhafte schulwegsichernde Maßnahmen in Heiligensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.27: Verlängerung der Nachtabschaltung der Ampel Hermsdorfer Str. Ecke Cyclopstraße Ecke Jean-Jaures-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.28: Straßenausbaubeitragsgesetz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.29: Alkoholverbot auf öffentlichem Straßenland - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.30: Schulname für die Bertha-von-Suttner-Schule (12Y02) in Berlin-Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.31: Geschäftsverteilung unter den Mitgliedern des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.32: Auswertung der frühzeitigen Bürger- und Behördenbeteiligung zum Bebauungsplanentwurf 12-32B - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Endlich eine Gemeinschaftsschule im Märkischen Viertel? - beantwortet
+- TOP 8.1.1: Endlich eine Gemeinschaftsschule im Märkischen Viertel? - überwiesen
+- TOP 8.2: Bezirksverordnetenversammlung im Internet - beantwortet
+- TOP 8.2.1: Direktübertragung der Bezirksverordnetenversammlung im Internet - überwiesen
+- TOP 8.2.2: Bildung des temporären Ausschusses für transparente und moderne Öffentlichkeitsarbeit der Bezirksverordnetenversammlung - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Nachwahl eines ehrenamtlichen Mitgliedes in eine Sozialkommission - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: a) Beschluss des Bebauungsplanentwurfs 12-26B vom 17. Juni 2010 mit Deckblatt vom 29. April 2011 b) Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-26B - überwiesen
+- TOP 9.5: Bestimmung eines stimmberechtigten Mitglieds und eines stellvertretenden Mitglieds der BVV Reinickendorf für den Verwaltungsrat der Kindertagesstätten des Eigenbetriebes Nordwest von Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Sicherheit in Reinickendorf (2): Berliner Feuerwehr in den Außenbezirken jetzt mit Brandschutzkleidung und benötigter Technik ausstatten - erledigt
+- TOP 10.2: Undichte Dächer an Reinickendorfer Schulen reparieren - erledigt
+- TOP 10.3: Nachhaltige Schulgebäudesanierungen - erledigt
+- TOP 10.4: Sicherheit in Reinickendorf (3) - Situation seit der Schließung von Polizeidienststellen durch den Senat - in der BVV zurückgezogen
+- TOP 10.5: Sicherheit in Reinickendorf (4) - Kriminalitätsbelastungsatlas jährlich für alle Ortsteile - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Bürgerfreundliche Verwaltung durch Befragungen sicherstellen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Gemeinschaftsschule für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Borsigwalde: 11. Ortsteil Reinickendorfs - überwiesen
+- TOP 12.2: Gemeinschaftsschule im Märkischen Viertel - in der BVV abgelehnt
+- TOP 12.3: Kennzeichnungspflicht für Ordnungsamtsmitarbeiter - überwiesen
+- TOP 12.4: Fahrradstellplätze vor dem Rathaus-Altbau - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Projektmittelfonds "Schule" schaffen - überwiesen
+- TOP 12.6: Zweiter Aufgang am S-Bahnhof Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Sicherung Friedhof auf dem Karl-Bonhoeffer-Gelände - überwiesen
+- TOP 13.2: Haltestelle Gorkistr. / Am Nordgraben - überwiesen
+- TOP 13.3: Nachtbriefkästen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Verbesserung der Fahrgastinformation bei der S-Bahn - ohne Änderungen in der BVV beschlossen
