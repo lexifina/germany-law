@@ -1,0 +1,57 @@
+# 2. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-11-17T17:30:00+01:00
+- Ende: 2011-11-17T22:10:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3220
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3220
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=80594
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VI-56 und VII-1 - erledigt
+- TOP 8: Personelles/Wahlen - erledigt
+- TOP 8.1: Wahl eines weiteren Mitgliedes des Bezirksamtes (Vorschlag DIE LINKE) - vertagt
+- TOP 8.2: Neuwahl von 3 Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.3: Abberufung eines stellvertretenden beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.4: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 8.5: Wahl einer/s Bezirksverordneten als stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 8.6: Wahl einer/s Bezirksverordneten als stellvertretendes stimmberechtigtes Mitglied im Verwaltungsrat des Kita-Eigenbetriebes - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - überwiesen
+- TOP 11: Vorlagen zur Beschlussfassung - überwiesen
+- TOP 11.1: Bezirkshaushaltsrechnung 2010 - überwiesen
+- TOP 11.2: Sitzungstermine der BVV für 2012 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Genehmigung der im Haushaltsjahr 2010 in Anspruch genommenen über- und außerplanmäßigen Ausgaben - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - überwiesen
+- TOP 13: Vorlagen zur Kenntnisnahme - überwiesen
+- TOP 13.1: Bebauungsplan XV-11 („Hasselwerderstraße“) hier: - Änderung zum Bezirksamtsbeschluss Nr. 140/91 - überwiesen
+- TOP 13.2: Bebauungsplan 9-35b ("Müggelseedamm") hier: Reduzierung des Geltungsbereichs - überwiesen
+- TOP 13.3: Bebauungsplan 9-30 ("Parkplatz Amtswäldchen"), Ortsteil Köpenick hier: Änderungsbeschluss - überwiesen
+- TOP 13.4: Leitbild für die Altstadt Köpenick im Bezirk Treptow-Köpenick von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.5: Im I. Halbjahr 2011 zugelassene über- und außerplanmäßige Ausgaben - überwiesen
+- TOP 13.6: Bebauungsplan XV-38 ("Kleeblattsiedlung") hier: Planreife für das Vorhaben gemäß Antrag vom 5. Mai 2011 (Eingang: 26. Mai 2011) für das Grundstück Knospengrund 23 A bis 23 E im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - überwiesen
+- TOP 13.7: Vorhabenbezogener Bebauungsplan 9-36 VE ("Bürgerbräu Friedrichshagen") hier: - Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.8: Vorhabenbezogener Bebauungsplan 9-57 VE ("Marienhain") hier: - Einleitungsbeschluss - überwiesen
+- TOP 13.9: Bebauungsplan XV-37eb ("Gartenstadt "Falkenberg": Buntzelstraße/Kirchsteig") hier: Inhaltliche Änderung zum Bezirksamtsbeschluss Nr. 53/00 vom 23.05.2000 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Die Siemensstraße sicherer machen - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Beauftragte/n für Angelegenheiten nach dem Informationsfreiheitsgesetz einsetzen - überwiesen
+- TOP 14.3: Bildung der Ausschüsse - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.4: Nutzbarmachung von Internet und Telefon in den Fraktionsräumen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Belastungen beim Betrieb des Großflughafens reduzieren - mit Änderungen in der BVV beschlossen
+- TOP 14.6: Unfallgefahr auf den Ersatzbrücken - überwiesen
+- TOP 14.7: Mittel für die Beratung über passive Schallschutzmaßnahmen sichern - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Kreuzung Kienappelweg / Ecke Grüne Trift am Walde - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.1: Sexuelle Gewalt gegenüber Kindern und Jugendlichen - vertagt
