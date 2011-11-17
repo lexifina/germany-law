@@ -1,0 +1,74 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-11-17T13:00:00+01:00
+- Ende: 2011-11-17T19:25:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3513
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3513
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167836.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167836.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00167836.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung von Ehrenringen des Rates - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Bü90/Grü: Sekundarschulen in Düsseldorf - beantwortet
+- TOP 5.2: Anfrage Freie Wähler: Quartiersgarage Barbarossaplatz - beantwortet
+- TOP 5.3: Anfrage der SPD-Ratsfraktion: Baumfällungen: Eingriffs- und Ausgleichsbilanz im Rahmen des Kö-Bogen - beantwortet
+- TOP 5.4: Anfrage SPD: Umsetzung der neuen Trinkwasserverordnung in Düsseldorf - beantwortet
+- TOP 5.5: Anfrage Die Linke: Lärmbelästigung durch die IDR-Baustelle am Barbarossaplatz - beantwortet
+- TOP 5.6: Anfrage Rh Laubenburg: Milieuschutzsatzungen gegen die Verdrängung von Mieterinnen und Mietern - beantwortet
+- TOP 5.7: Anfrage SPD: Wann werden die Missstände beim Gartenamt behoben? - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Bekanntgabe der genehmigten über- und außerplanmäßigen Ausgaben - Haushaltsjahr 2010 - mehrheitlich beschlossen
+- TOP 9: Bericht des Rechnungsprüfungsausschusses über die Prüfung des Jahresabschlusses der Landeshauptstadt - einstimmig beschlossen
+- TOP 10: Jahresabschluss 2009 - Beschluss über das Jahresergebnis - einstimmig beschlossen
+- TOP 11: Jahresabschluss und Lagebericht 2010 des Amtes 16 - einstimmig beschlossen
+- TOP 12: Jahresabschluss 2010 und Lagebericht 2010 des Stadtentwässerungsbetriebes der Landeshauptstadt Düsse - zur Kenntnis genommen
+- TOP 13: Konzept zur nachhaltigen Substanzerhaltung des öffentlichen Kanalisationsnetzes der Stadt Düsseldorf - mehrheitlich beschlossen
+- TOP 14: Oberbilker Markt - AuF-Beschluss - mehrheitlich beschlossen
+- TOP 15: Kö - Bogen, Verkehrsanlagen 2. Bauabschnitt - mehrheitlich beschlossen
+- TOP 16: Änderung der Taxenordnung - einstimmig beschlossen
+- TOP 17: Stiftung Roland Weber für Schloss Benrath - einstimmig beschlossen
+- TOP 18: LPVG-Novellierung - zur Kenntnis genommen
+- TOP 19: Wiederwahl des Schiedsmannes Jürgen Fallasch - einstimmig beschlossen
+- TOP 20: Interkommunaler Ausschuss der Regionalen Arbeitsgemeinschaft Stadt Düsseldorf - Kreis Mettmann - Rhe - einstimmig beschlossen
+- TOP 21: Verwaltungsrat der Werkstatt für angepasste Arbeit GmbH -Ersatzwahl - einstimmig beschlossen
+- TOP 22: Kreispolizeibeirat - einstimmig beschlossen
+- TOP 23: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 24: Planungsmaßnahmen
+- TOP 25: B-Plan Nr.:5480/26 Rheinmetall Ulmenstraße/Ratherstraße -Ä. gem. § 13 BauGB, Stell., Satzung - mehrheitlich beschlossen
+- TOP 26: Veränderungssperre - Niederrheinsstraüße - einstimmig beschlossen
+- TOP 27: B-Plan 5681/16 Bochumer Straße / Am Gatherhof - einstimmig beschlossen
+- TOP 28: Veranstaltergemeinschaft "Neues Lokalradio Düsseldorf e.V." - mehrheitlich beschlossen
+- TOP 29: Anträge
+- TOP 29.1: Antrag Die Linke: Aufnahme von Flüchtlingen im Rahmen eines Resettlement-Programms - mehrheitlich abgelehnt
+- TOP 29.2: Antrag Die Linke: Beitritt zur Weltkonferenz der Bürgermeister für Frieden - mehrheitlich abgelehnt
+- TOP 29.3: Antrag der Ratsfraktion von BÜ90/GRÜ: Stadtteilbüro und Schulsozialarbeiter/innen Hassels-Nord - mehrheitlich abgelehnt
+- TOP 29.3.1: Erg.Antrag Die Linke: tadtteilbüro und Schulsozialarbeiter/Innen Hassels-Nord - mehrheitlich abgelehnt
+- TOP 29.3.1.1: Ergänzungsantrag der SPD-Ratsfraktion: Stadtteilbüro und Schulsozialarbeiter/innen Hassels-Nord - zur Kenntnis genommen
+- TOP 29.4: Antrag der Ratsfraktion von BÜ90/GRÜ:Stellungnahmen zum Haushalt 2012 - mehrheitlich abgelehnt
+- TOP 29.5: Antrag SPD: Verbindliche Planung für den Neubau der Kinder- und Jugendfreizeiteinrichtung sowie die - verwiesen
+- TOP 29.6: Antrag Freie Wähler: Führerscheinentzug - mehrheitlich abgelehnt
+- TOP 29.7: Antrag CDU: Kassenkredite zurückführen - Handlungsfähigkeit sichern - Selbstverwaltung retten - mehrheitlich beschlossen
+- TOP 29.8: Antrag Freie Wähler: Einführung von abgeordnetenwatch.de - zurückgezogen
+- TOP 29.9: Antrag Die Linke:Öffentliches Eigentum erhalten - Erwerb der Bundesanteile an der Duisburger Hafen A - mehrheitlich abgelehnt
+- TOP 29.10: Antrag Freie Wähler: Eislauffläche am Gustav-Gründgens-Platz - mehrheitlich abgelehnt
+- TOP 29.11: Antrag Freie Wähler: Sozialethische Rehabilitierung zweier ermordeter Frauen - zurückgezogen
+- TOP 29.11.1: Antrag CDU und FDP: Gedenken an zwei als Hexen verbrannte Düsseldorferinnen und Andere - zurückgezogen
+- TOP 29.11.2: Antrag der SPD und Bü90/GRü: Gedenken an sog. "Gerresheimer Hexen" - zurückgezogen
+- TOP 29.12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 29.13: Antrag SPD: Einführung des Mobilitätstickets „Düssel-Mobil“ - verwiesen
+- TOP 29.14: Antrag CDU und FDP: Geschwindigkeitsreduzierung - mehrheitlich beschlossen
+- TOP 29.15: Erg. Antrag Bü90/Grü: Geschwindigkeitsreduzierung als Lärmschutz auf der Brüsseler Straße und im Rhe - mehrheitlich abgelehnt
+- TOP 29.16: ÄA SPD: Geschwindigkeitsreduzierung als Lärmschutz auf der Brüsseler Straße und im Rheinalleetunnel) - mehrheitlich abgelehnt
+- TOP 29.17: Antrag Bü90 und SPD: Soziale Stadt macht Zukunft
