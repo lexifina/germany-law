@@ -1,0 +1,6 @@
+# TOP 2: Niederschrift über die 6. Sitzung des Beirates für kommunale Entwicklungszusammenarbeit am 07.09.2011
+
+- Sitzung: 7. Sitzung (2011-11-17)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/110949
