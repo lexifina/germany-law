@@ -1,0 +1,95 @@
+# 2. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-11-17T17:30:00+01:00
+- Ende: 2011-11-17T23:55:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2519
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2519
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=83118
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=83377
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Kältehilfe 2011/2012 - beantwortet
+- TOP 5.2: Bademöglichkeiten in Moabit - beantwortet
+- TOP 5.3: Altlasten und nun? - beantwortet
+- TOP 5.4: Planungssicherheit für Träger im Jahr 2012 - beantwortet
+- TOP 5.5: Freizeitstätte in der Spenerstrasse - beantwortet
+- TOP 5.6: Umsetzung Aktionsplan gegen Homophobie - schriftlich beantwortet
+- TOP 5.7: Fahrradbügel vor der Rückerstrasse 9 - schriftlich beantwortet
+- TOP 5.8: Wer dreht am Rad? - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Mediationsverfahren zur Beachtung von Einwänden bei der Umgestaltung von Ottopark und Kleinem Tiergarten - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Erreichen wir unsere Ziele für die Anwohnerinnen und Anwohner in der Parkraumbewirtschaftung? - beantwortet
+- TOP 7.2: Winterdienst 2011/2012 Mehrausgaben für die Liegenschaften des Bezirkes Berlin-Mitte? - beantwortet
+- TOP 7.3: Entwicklung der Parkraumbewirtschaftung in Mitte - schriftlich beantwortet
+- TOP 7.4: Geld gegen Bekenntnis in Mitte? - schriftlich beantwortet
+- TOP 7.5: Schulstandort Auguststraße 21 - schriftlich beantwortet
+- TOP 7.6: Leistungen aus dem Bildungs- und Teilhabepaket im Bezirk Mitte - schriftlich beantwortet
+- TOP 7.7: Illegale Altkleider-Container in Mitte? - schriftlich beantwortet
+- TOP 7.8: Neues zur Fusion von Menzel-Gymnasium und Heinrich-von-Kleist-Gymnasium - schriftlich beantwortet
+- TOP 7.9: Entlohnung Reinigungskräfte und PförtnerInnen - schriftlich beantwortet
+- TOP 7.10: Änderungen der Einschulungsbereiche für Grundschulen in Mitte - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl des BV-Vorstandes - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Wahl der Mitglieder des Bezirksamtes - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Bildung von Ausschüssen - mit Änderungen in der BVV beschlossen
+- TOP 9.4: Genehmigung der Bezirkshaushaltsrechnung für das Haushaltsjahr 2010 - überwiesen
+- TOP 9.5: Bebauungsplanentwurf I-B5s (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5s - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Genehmigung der im Haushaltsjahr 2010 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplan 1-54 (östliche Brunnenstraße, südlich Rheinsberger Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-54 - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Beschluss über den vorhabenbezogenen Bebauungsplanentwurf I-11-1VE "Tieckstraße" und den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenbezogenen Bebauungsplanes I-11-1VE - überwiesen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Voraussetzungen für die Abgabe des Rathausturmes schaffen! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Sanierungsziele Müllerstrasse umsetzen - Bildungsband stärken - Beuth Hochschule unterstützen - in der BVV abgelehnt
+- TOP 11.3: Sekretariat für die Gotzkowsky-Wartburg-Schule - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Alte Münze - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Living Library - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Integrationskonzept für den Bereich Schule konkretisieren - überwiesen
+- TOP 12.3: Ende der Sondernutzung für das Grillen im Großen Tiergarten - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: LIVE-Übertragung der BVV-Sitzungen - überwiesen
+- TOP 12.5: Runder Tisch Wohnungsbaugesellschaften - vertagt
+- TOP 12.6: Umsetzen des Gesetzes zur Selbstbestimmung und Teilhabe in betreuten gemeinschaftlichen Wohnformen ( Wohnteilhabegesetz - WTG) - überwiesen
+- TOP 12.7: WLAN in Mitte - überwiesen
+- TOP 12.8: Mehr Informationen über Bezirks- und Landespolitik verfügbar machen: Öffentliches WLAN-Angebot schaffen - überwiesen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Ampeln in Moabit - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Änderung der Einschulungsbereiche für die Grundschulen im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Erweiterung des räumlichen Geltungsbereichs des Bebauungsplans 1-62 "Baufelder Heidestraße" für die beiderseits anliegenden Grundstücke Heidestraße zwischen Perleberger Straße und Invalidenstraße mit Ausnahme der Grundstücke zwischen Minna-Cauer-Straße und Invalidenstraße im Bezirk Mitte, Ortsteil Moabit - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Einstellung des Bebauungsplanverfahrens I-21 für das Gebiet zwischen Tieckstraße, Gartenstraße, Torstraße und Borsigstraße im Bezirk Mitte, Ortsteil Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-56 (westlich Brunnenstraße, südlich Anklamer Straße) und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Beschluss über die Ergebnisse der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 4 Abs. 1 und 2 BauGB zum Bebauungsplanentwurf 1-59 (Ackerhallenblock) und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 BauGB - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Umsetzung eines bürgerfreundlichen Impulsmanagements im Bezirksamt Mitte, Bericht für den Berichtszeitraum 2010 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Postfuhramt - vertagt
+- TOP 16.8: Einstellung des Bebauungsplanverfahrens II-127 für das Gelände zwischen Pohlstraße, Dennewitzstraße, Kurfürstenstraße und Potsdamer Straße sowie für Abschnitte der Kurfürstenstraße und Dennewitzstraße im Bezirk Mitte, Ortsteil Tiergarten (Block 242) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Verteilung der Geschäftsbereiche der Mitglieder des Bezirksamtes - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Portrait des Bundespräsidenten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.11: Nikolaiviertel die Wiege Berlins stärken (2) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.12: Werbeflächen für Suchtprävention - vertagt
+- TOP 16.13: Keine zusätzliche Verkehrsbelastung der Siemensstraße! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.14: Geschichte und Zukunft: Marion-Gräfin-Dönhoff-Platz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Barrierefreier Spielplatz Emdener Str. / Oldenburger Str. Das schaffen wir spielend - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Entwicklung mit und für die Bewohner – Quartier Lehrter Straße vor Verdrängung schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Fußgängertunnel in der Karl-Liebknecht-Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Mediationsverfahren zur Beachtung von Einwänden bei der Umgestaltung von Ottopark und Kleinem Tiergarten (westlicher Teil) durchführen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Ausgrabungen in der historischen Mitte - mit Abschlussbericht zur Kenntnis genommen
