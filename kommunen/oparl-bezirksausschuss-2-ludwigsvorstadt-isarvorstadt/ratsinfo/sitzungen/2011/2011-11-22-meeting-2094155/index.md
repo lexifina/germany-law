@@ -1,0 +1,111 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-11-22T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2094155
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2094155
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Spielplatz Europäisches Patentamt
+- TOP .2.: Ausstellung ?Neues Leben für die Isar?
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative zur Rettung alter und kranker Bäume Sanierung der Kastanie an der Hans-Sachs-Straße
+- TOP .2.: (E) Budget der Bezirksausschüsse Init. "Edition Karbit" Ausstellung vom 09. - 11.12.2011
+- TOP .1.: Beschluss des Kinder- und Jugendhilfeausschusses vom 10.01.2012 zur BV-Empfehlung Nr. 08-14 / E 00965: Elektronisches Vergabe- und Vormerksystem für Kinderbetreuungsplätze
+- TOP .2.: Pilot-Stadtbezirk für den Weltkindertag 2012 gesucht
+- TOP .3.: Erstellung eines (Senioren-) Stadtteilplanes
+- TOP .1.: Tröpferlbad
+- TOP 6: Berichte der Beauftragten
+- TOP 1: (E) Bepflanzung des Grünstreifens...
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Klenzestraße 57b ? 57c: Aufstockung von Rückgebäuden (Eilentscheidung)
+- TOP 1.2.: Gärtnerplatz 5: Neubau eines Stadthauses und Aufstockung eines Hinterhauses mit zwei Wohnungen (Eilentscheidung)
+- TOP 1.3.: Landwehrstraße 21: Nutzungsänderung eines Ladens in Hotelbar und Spielothek, Rückbau eines Abstellraumes zu Stellplatz (Eilentscheidung)
+- TOP 1.4.: Rumfordstraße 36: Sanierung des Daches mit Änderung der Neigung, Erweiterung zweier Wohneinheiten (Eilentscheidung)
+- TOP 1.5.: Lindwurmstraße 137: Neubau eines Wohn- und Geschäftshauses (Eilentscheidung)
+- TOP 1.6.: Schwanthalerstr. 3, Nutzungsänderung von Gastronomie in zwei Spielhallen
+- TOP 1.7.: Bayerstr. 14, Nutzungsänderung Bürogebäude in Versammlungsstätte mit Gastronomie
+- TOP 1.8.: Baldestr. 16: Anbau von 4 Balkonen (PLENUMSBESCHLUSS)
+- TOP 1.9.: Fraunhoferstr. 10: Renovierung und Umbau einer Wohnung (PLENUMSBESCHLUSS)
+- TOP 1.10.: Poccistr. 5: Nutzungsänderung von Schulungsräumen in eine Spielothek (PLENUMSBESCHLUSS)
+- TOP 1.11.: Haydnstr. 10: Ausbau des Dachspeichers zu Wohnraum, Vergrößerung einer Gaube, Errichtung von zwei Dachterrassen und Anbau einer Fluchtleiter (PLENUMSBESCHLUSS)
+- TOP 1.12.: Isartalstr. 42: Erneuerung und Vergrößerung von Balkonen (PLENUMSBESCHLUSS)
+- TOP 1.13.: Müllerstr. 45: Teilung und Zusammenlegung sowie Grundrissänderungen von Wohneinheiten und Errichtung einer Tiefgarage (PLENUMSBESCHLUSS)
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Baumfällung Waltherstraße 26
+- TOP 1.2.: Baumfällung Arnulfstraße 15
+- TOP 1.3.: Baumfällung Buttermelcherstraße 19
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Isar-Plan: Verbesserter Zugang zur Isar auf Höhe der Reichenbachbrücke
+- TOP 1.2.: BA-Antrag des Bezirksausschusses 12: Änderung der Straßenreinigungssatzung bzw. -sicherungs-Verordnung der Landeshauptstadt München
+- TOP 1.5.1: Bericht des Beauftragten
+- TOP 1.1.: Grün-, Erholungs- und Freizeitnutzung des Ensembles Theresienwiese mit Bavariapark
+- TOP 1.2.: Antrag der Fraktion Bündnis 90/Die Grünen/RL: Radstreifen gegen die Einbahnrichtung in der Deutingerstr. (PLENUMSBESCHLUSS)
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Zeitungsentnahmegeräte für die ?Welt Kompakt?, verschiedene Standorte
+- TOP 1.2.: Hans-Sachs-Straße 15: Warenstellage
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: Taxistandplatz Sonnenstraße 26 (Isarklinik): Verlängerung; Taxistand Mathildenstraße: Aufhebung (PLENUMSBESCHLUSS)
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Christbaumverkauf der Pfarrei St. Maximilian, teilweise auf städtischem Grundstück
+- TOP 1.1.: Bürgeranliegen: Fußgängermobilität auf Gehwegen
+- TOP 1.2.: Bürgeranliegen aus der Oktobersitzung (TOP II 3): Bericht des BA über das Oktoberfest 2011
+- TOP 1.3.: Bürgeranliegen aus der Oktobersitzung (TOP II 4): Radwegsituation am Roecklplatz
+- TOP 1.4.: Antwortschreiben des KVR zum Bürgeranliegen: Straßenverschmutzung und Belagerung der Geschäfte in der Schiller- und Landwehrstraße, siehe Unterrichtung TOP C 4.6
+- TOP 1.5.: Antrag auf einen Weihnachtsmarkt am Karl-Heinrich-Ulrichs-Platz
+- TOP 1.6.: Tollwood
+- TOP 1.1: Termine
+- TOP 1.3: Sonstiges / Verschiedenes
+- TOP 1.1.: Nachbesetzung UA KJS
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: Vorkaufsrecht nach dem BauGB
+- TOP 1.2.: Zweckentfremdung von Wohnraum
+- TOP 1.3.: BA-Budget: Bescheide
+- TOP 1.4.: Verwendungsnachweise
+- TOP 1.5.: Sanierung der Turnhalle in der Auenstraße
+- TOP 1.6.: Beschluss des Sozialausschusses vom 08.11.2011: Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger der Zentrale?
+- TOP 1.7.: Beschluss des Sozialausschusses vom 08.11.2011: Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger der Zentrale? des Amtes für Soziale Sicherung
+- TOP 1.8.: Beschluss des Sozialausschusses vom 08.11.2011: Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 1.9.: Beschluss des Ausschusses für Bildung und Sport vom 09.11.2011: Mehrjahresinvestitionsprogramm 2011-2015, Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen
+- TOP 1.10.: Zuwendung aus dem Budget für eigene Veranstaltungen (Stadtteilfest Am Glockenbach, Tag des offenen Denkmals))
+- TOP 1.1.: Baumaßnahmen SWM
+- TOP 1.2.: Reichenbachstraße 18, nicht baugenehmigungspflichtige Modernisierungsmaßnahmen
+- TOP 1.3.: Mitteilung über ein Grundstücksgeschäft
+- TOP 1.4.: Beschluss der Vollversamlung vom 05.10.2011: Mieterbeirat ? Berufung eines stimmberechtigten Mitgliedes für den BA 19
+- TOP 1.5.: Beschluss des Planungs- und Umweltausschusses vom 09.11.2011: PERSPEKTIVE MÜNCHEN ? Aktualisierung Leitlinie Ökologie
+- TOP 1.6.: Beschluss des Planungsausschusses vom 09.11.2011: Sicherung der Biotop und Landschaftspflege in der LHM
+- TOP 1.7.: Antwortschreiben zum Bauvorhaben Erhardtstraße 12, TOP B 3.1.19 09/11
+- TOP 1.8.: Mobilfunk-Anzeigen
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen: - Schillerstraße 16, ?Asia Restaurant? - Pettenkoferstraße 3, ?Hotel Exquisit? - Bahnhofplatz 7, ?Schmankerl Winkl? - Buttermelcherstraße 17, ?Joe Pena's? - Klenzestr. 62, ?Orangha? - Kapuzinerstr. 4, ?Kapuzinerklause? - Fraunhoferstraße 11, Kabos Restaurant
+- TOP 1.4.: Verkehrsrechtliche Anordnungen: - Isartalstraße; Anfahrtszone für Münchner Tafel - Blumenstraße - Corneliusstraße ; Wintertollwood 2011
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Antwortschreiben des KVR zur Bürgerbeschwerde über Straßenverschmutzung und Belagerung der Geschäfte in der Schiller- und Landwehrstraße
+- TOP 1.7.: Antwortschreiben zum Bürgeranliegen Freischankflächen in der Reichenbachstraße
+- TOP 1.8.: (siehe Protokoll des Unterausschusses)
+- TOP 1.9.: Stellungnahme des BA 18 Untergiesing-Harlaching zur ?Bessere Überwachung des Grillverbots an der Isar?
+- TOP 1.10.: Schreiben des KVR zur Freischankfläche des Café ?Frenzy?, Fraunhoferstraße 20
+- TOP 1.11.: Ausnahmezulassung des RGU für Baumaßnahmen an der Fernwärmeleitung Ickstattstr./Klenzestr.
+- TOP 1.12.: Antwortschreiben zu BA-Antrag 02-08 / B 01387: Verkürzung der Hotelanfahrt ?Le Meridien"
+- TOP 1.13.: ÖPNV-Offensive IV; Ergänzung
+- TOP 1.14.: Antwortschreiben bzgl. Beschwerde über Verengung des Gehweges durch Falschparker bei gleichzeitig betriebener Freischankfläche des "Ksar-Clubs"
+- TOP 1.15.: Ausnahmezulassung des RGU für Lindwurmstr. 75
+- TOP 1.1.: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015
+- TOP 1.2.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015 verschiedene Gliederungsziffern
+- TOP 1.3.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.2.: Veranstaltungen
