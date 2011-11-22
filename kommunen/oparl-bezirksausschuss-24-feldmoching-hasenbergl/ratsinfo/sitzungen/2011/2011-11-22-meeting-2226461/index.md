@@ -1,0 +1,55 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-11-22T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226461
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226461
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Förmliches Wahlverfahren: Nachbesetzung im UA Kultur/ Budget: Stellvertretung UA-Vorsitzender
+- TOP 2: Entscheidungsfälle
+- TOP 3.1.: Verbesserung der Radwegverbindung zwischen dem Fasaneriesee und dem Friedhof Feldmoching bzw. Feldmochinger See
+- TOP 3.2.: Antrag auf selbständigen Klimaschutztag im 24. Stadtbezirk
+- TOP 3.3.: Anträge aus der 9. Kinder- und Jugendsprechstunde am 21.10.2011
+- TOP 3.4.: Schnellfahren in der Lerchenauer Straße / Überwachung des Einhaltens der 30-Zone
+- TOP 3.5.: Antrag auf Zone 30 in der Lerchenauer Straße zwischen den Kreuzungen Schittgabler- Lerchenauer - und Robinien-Lerchenauer Straße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1 Feldmochinger Str. 383 (Errichtung e. Mehrfamilienhauses mit TG) 5.1.2 Feldmochinger Str. 373 (Neubau e. Geschäftshauses mit Wohngebäude) 5.1.3 Hardenstr. 27 (Neubau eines Vierspänners mit Carport)
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Hardenstr. 27 (Neubau eines Vierspänners mit Carport) 5.2.2 Hochlandstr. 32 (Neubau eines Doppelhauses mit Garagen) 5.2.3 Ebereschenstr. 24 (Neubau eines Mehrfamilienhauses mit Garagen) 5.2.4 Geschwister-Löb-Str. 3 (Neubau eines Drei- und Fünffamilienhauses mit TG) 5.2.5 Reigersbachstr. 50 (Neubau eines Doppelhauses mit 3 Garagen)
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung: Luftverkehrsrechtliches Genehmigungsverfahren; Hubschrauberlandeplatz für Polizeihubschrauberstaffel Bayern in Oberschleißheim
+- TOP 5.4.: Sozialreferat: "Kinderorte im Stadtteil sichtbar machen - gemeinsam spielen!". Ausschreibung: 2. Pilot-Stadtbezirk gesucht für den Weltkindertag 2012
+- TOP 5.5.: Sozialreferat: Beteiligung am "Europäischen Jahr für Aktives Altern und der Solidarität zwischen den Generationen"
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: MVG: Verkehrsanbindung in der Lerchenau
+- TOP 6.2.: SWM: U-Bahnhof Hasenbergl; Beseitigung von Graffitis an den Wänden Ausgang Rainfarnstraße
+- TOP 6.3.: Referat für Stadtplanung und Bauordnung: Holzhaus Toni-Pfülf-Straße
+- TOP 6.4.: Baureferat: Erschließung Trollblumenstr. 2c
+- TOP 6.5.: MSE: Grundwasser Feldmoching; Protokoll zur Infoveranstaltung "Runder Tisch" am 26.10.2011
+- TOP 6.6.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.7.: Meldelisten Baumfällungsanträge
+- TOP 6.8.: Meldelisten Bauvorhaben
+- TOP 6.9.: KVR: Verkehrsrechtliche Anordnungen: 6.9.1 Gundermannstraße Höhe Maßliebchenstraße: Abbau des vorhandenen Verkehrshelferüberganges und Einrichtung eines Fußgängerüberweges 6.9.2 Schleißheimer Str. 413; Einrichtung eines allg. Behindertenparkplatzes
+- TOP 6.10.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: 6.10.1 Herbergstr. 1a 6.10.2 Schleißheimer Str. 405
+- TOP 6.11.: Baumaßnahmen der SWM: 6.11.1 Wasserprojekt Schittgablerstraße 6.11.2 Stromprojekt Netztrafostation Bruno-Frank-Weg
+- TOP 6.12.: Stadtkämmerei: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015 (Gliederungsziffern)
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011 - 2015
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Perspektive München; Aktualisierung Leitlinie Ökologie
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Sicherung der Biotop- und Landschaftspflege in der LHst München
+- TOP 6.17.: Beschlussvorlage Referat für Bildung und Sport: Mehrjahresinvestitionsprogramm 2011 - 2015
+- TOP 6.18.: Beschlussvorlage Sozialreferat: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze f. den Bereich "Förderung freier Träger" der Zentrale
+- TOP 6.19.: Beschlussvorlage Sozialreferat: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für soziale Sicherung
+- TOP 6.20.: Beschlussvorlage Sozialreferat: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.21.: Baureferat: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen; Neubau dreigruppige Kinderkrippe; Hardenstr. 18
+- TOP 6.22.: Zuschuss aus dem BA-Budget: Verwendungsnachweis/ Sachbericht des Evangelischen Hilfswerkes München
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
