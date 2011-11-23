@@ -1,0 +1,62 @@
+# Ordnungs- und Verkehrsausschuss
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-11-23T15:00:00+01:00
+- Ende: 2011-11-23T17:20:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/25
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5396
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5396
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168906.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168906.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168906.pdf
+
+## Tagesordnung
+
+- TOP 1: Feststellung der Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Anerkennung der Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der öffentlichen Sitzung am 12.10.2011 - zur Kenntnis genommen
+- TOP 4: Anfragen
+- TOP 5: Anträge
+- TOP 5.1: Verkehrsanbindung für eine mehrgeschossige Gewerbeimmobilie am Südring - mehrheitlich abgelehnt
+- TOP 5.2: Verkehrsführung am Seestern - zurückgezogen
+- TOP 5.3: Freigabe einer Fläche für Graffiti-Malerei - zurückgezogen
+- TOP 6: Verkehrspräventionsprojekt für Junge Verkehrsteilnehmer mit dem Titel „Crash Kurs“ - vertagt
+- TOP 7: FNP-Ä Nr. 142 - Südlich Hohenzollernallee - mehrheitlich beschlossen
+- TOP 7.1: Änderungsantrag B90/ Grüne zur Vorlage FNP-Änderung Nr. 142 Südlich Hohenzollernallee - mehrheitlich abgelehnt
+- TOP 8: B-Plan Nr. 5777/056 - Schlüterstraße/Hohenzollern - - mehrheitlich beschlossen
+- TOP 9: Umbau der Haltestellen Heerdter Sandberg und Lohweg - zur Kenntnis genommen
+- TOP 10: ÖPNV - Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 11: Neufassung der Parkgebührenordnung - mehrheitlich beschlossen
+- TOP 11.1: Änderungsantrag Neufassung der Parkgebührenordnung - mehrheitlich beschlossen
+- TOP 12: Instandsetzungen Verkehrsflächen und Radwegebau für das Jahr 2012 - zur Kenntnis genommen
+- TOP 13: Auswirkung der Verlegung der Bushaltestelle Heinrich-Heine-Allee auf die Fahrgastzahlen - zur Kenntnis genommen
+- TOP 14: ÖPNV - Erschließung der neuen JVA an der Oberhausener Straße - zur Kenntnis genommen
+- TOP 15: Fahrgastbeirat - Prüfauftrag des OVA aus der Sitzung - zur Kenntnis genommen
+- TOP 16: Ergebnisse des "Runden Tisches" zur Genehmigungsfähigkeit von Sonntagsnachmittagsöffnungen - zur Kenntnis genommen
+- TOP 17: Schutz der Anwohner und der Landschaft - zur Kenntnis genommen
+- TOP 18: Sitzungstermine OVA 2012 - zur Kenntnis genommen
+- TOP 19: Arbeitsaufträge aus dem Ordnungs- und Verkehrsausschuss - zur Kenntnis genommen
+- TOP 20: Haushaltsanträge
+- TOP 20.1: Haushaltsplanentwurf 2012 – Beseitigung funktionaler u.städtebaulicher Mängel durch kl.Kreisverkehre - mehrheitlich abgelehnt
+- TOP 20.2: Haushaltsplanentwurf 2012 – Förderung des Fahrradverkehrs - mehrheitlich abgelehnt
+- TOP 20.3: Haushaltsplanentwurf 2012 – Umgestaltung des Nebenzentrums Garath (Nord-West) - mehrheitlich abgelehnt
+- TOP 20.4: Haushaltsplanentwurf 2012 – Förderung des öffentlichen Personennahverkehrs (ÖPNV) - mehrheitlich abgelehnt
+- TOP 20.5: Haushaltsplanentwurf 2012 – Verbesserung der Stadtbeleuchtung – Beseitigung von Angsträumen - mehrheitlich abgelehnt
+- TOP 20.6: Haushaltsplanentwurf 2012 – Barrierefreiheit im öffentlichen Personen-nahverkehr (ÖPNV) - mehrheitlich abgelehnt
+- TOP 20.7: Haushaltsplanentwurf 2012 - Verkehrsüberwachung - mehrheitlich abgelehnt
+- TOP 20.8: Haushaltsplanentwurf 2012 - Straßen - mehrheitlich abgelehnt
+- TOP 20.9: Behindertengerechter Umbau von Bushaltestellen - mehrheitlich abgelehnt
+- TOP 20.10: Keine Entlastungsstraße Derendorf - mehrheitlich abgelehnt
+- TOP 20.11: Kein KÖ-Bogen II - mehrheitlich abgelehnt
+- TOP 20.12: Auflösung des Ordnungs- und Service Dienstes - mehrheitlich abgelehnt
+- TOP 20.13: Ausbau des Radwegenetzes - mehrheitlich abgelehnt
+- TOP 21: Haushaltsplanentwurf des Amtes für Verkehrsmanagement sowie des Ordnungsamtes für das Jahr 2012 - mehrheitlich beschlossen
+- TOP 21.1: Teilergebnispläne des Amtes für Verkehrsmanagement - zur Kenntnis genommen
+- TOP 21.2: Investive Finanzpläne des Amtes für Verkehrsmanagement - zur Kenntnis genommen
+- TOP 21.3: Teilergebnispläne des Ordnungsamtes - zur Kenntnis genommen
+- TOP 21.4: Investive Finanzpläne des Ordnungsamtes - zur Kenntnis genommen
+- TOP 21.5: Veränderungsverzeichnisse zum Haushaltsplanentwurf 2012 - zur Kenntnis genommen
+- TOP 21.6: Vorschläge und Anregungen der Bezirksvertretungen - zur Kenntnis genommen
