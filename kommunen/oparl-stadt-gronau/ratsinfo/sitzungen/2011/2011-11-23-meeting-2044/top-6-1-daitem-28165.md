@@ -1,0 +1,7 @@
+# TOP 6.1: nicht-öffentliche Vorlage
+
+- Sitzung: Rat (24. Sitzung) (2011-11-23)
+- Körperschaft: Stadt Gronau
+- Öffentlich: ja
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/28165
+- Ergebnis: Einstimmig, 1 Enthaltungen
