@@ -1,0 +1,7 @@
+# Gesetz- und Verordnungsblatt für das Land Brandenburg Teil II 2011 Nr. 73-Anlage-4-Blatt-06
+
+- Fundstelle: Gesetz- und Verordnungsblatt für das Land Brandenburg Teil II 2011 Nr. 73-Anlage-4-Blatt-06
+- Ausgabetag: 2011-11-23 (Ausgabe, zu der die Anlage gehört)
+- Herausgeber: Ministerium der Justiz des Landes Brandenburg
+- Quelle: https://bravors.brandenburg.de/fm/76/WSGFichtenberg__an__anlg__4-Blatt-06.pdf (Landesregierung Brandenburg, BRAVORS (bravors.brandenburg.de))
+- Text: nicht übernommen - die Anlage hat keine Textschicht (Karte, Plan oder Scan); die Datei steht unter der Quelle
