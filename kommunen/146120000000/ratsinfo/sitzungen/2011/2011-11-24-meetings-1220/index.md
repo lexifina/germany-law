@@ -1,0 +1,64 @@
+# 34. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-11-24T16:30:00+01:00
+- Ende: 2011-11-24T22:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1220
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1220
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR http://oparl.dresden.de/bodies/0001/downloadfiles/a/00080258.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Fragestunde der Stadträtinnen und Stadträte
+- TOP 3.1: Mehrspurige KAP-Haltestellen
+- TOP 3.2: Verpflichtungen und vertragliche Regelungen Baugrube Prager Carré (vormals Wiener Loch) insbesondere hinsichtlich der Grundwasserabsenkung
+- TOP 3.3: Neurochirurgie im Krankenhaus Dresden-Neustadt
+- TOP 3.4: Sanierung Sanitärbereiche 103. Grundschule
+- TOP 3.5: kleine Albertbrücke
+- TOP 3.6: Grundstückseigentum der LH Dresden
+- TOP 3.7: Einbrüche in Tiefgaragen im Wohngebiet Fontane-Center
+- TOP 3.8: Verkehrsführung am Barteldesplatz
+- TOP 3.9: Strategisches Konzept für die städtischen Krankenhäuser
+- TOP 3.10: Bereich berufsbildender Schulen
+- TOP 3.11: Umsetzung 2. Stufe Busliniennetzumstellung / Linie 98C
+- TOP 3.12: Würdevolles Gedenken am 9. November
+- TOP 3.13: Kurzzeitparkplätze Kesselsdorfer Straße
+- TOP 3.14: 93. Grundschule
+- TOP 4: Umbesetzung im Ortsbeirat Pieschen - gewählt
+- TOP 5: Umbesetzung Ortsbeirat Leuben - gewählt
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Innovation statt Restriktion! Maßnahmen zur Verbesserung der Luftqualität - Vertagung
+- TOP 8: Stadtteilzentrum Neustadt auf dem Postgelände - Zustimmung mit Änderung
+- TOP 9: Alten- und behindertengerechtes Wohnen fördern - punktweise Zustimmung
+- TOP 10: Wahl von Friedensrichterinnen und Friedensrichtern sowie Protokollführerinnen und Protokollführern für die Schiedsstellen der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 11: Änderung der Satzung Schülerbeförderungskosten-Erstattung vom 17.07.1997 auf Grund der Umsetzung des Bildungs- und Teilhabepaketes in der Landeshauptstadt Dresden - Zustimmung
+- TOP 12: Satzung zur Änderung der Straßenreinigungsgebührensatzung der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 13: Wirtschaftsplanung 2012 der Eigenbetriebe der Landeshauptstadt Dresden - punktweise Zustimmung
+- TOP 14: Jahresabschlüsse 2010 der Eigen- und Beteiligungsgesellschaften der Landeshauptstadt Dresden - Zustimmung mit Änderung
+- TOP 15: Haushaltsvollzug 2011 - Finanzzwischenbericht gem. § 75 Abs. 5 SächsGemO und Zwischenberichte der Eigenbetriebe 2011 gem. § 8 Abs. 3 SächsEigBVO - Zustimmung mit Änderung
+- TOP 16: Änderung der Satzung der Landeshauptstadt Dresden über die Erhebung von Abwassergebühren (Abwassergebührensatzung) vom 15. Dezember 2005 - Zustimmung
+- TOP 17: Neues Verwaltungszentrum - Vertagung
+- TOP 18: Bürgerentscheid zur Frage "Sind Sie dafür, dass die Krankenhäuser Dresden-Friedrichstadt und Dresden-Neustadt Eigenbetriebe der Stadt Dresden bleiben?" - Zustimmung mit Änderung
+- TOP 19: Umbau des Übergangswohnheimes Buchenstraße 15 b in Wohnungen zur Nutzung als Gewährleistungswohnungen für Wohnungslose - Zustimmung
+- TOP 20: Aufhebung der Satzung der Landeshauptstadt Dresden für Senioren- Altenpflegeheime und Behinderteneinrichtungen in kommunaler Verwaltung (Senioren-, Altenpflege- und Behindertenheimsatzung) - Zustimmung
+- TOP 21: Angemessene Leistungen für Unterkunft nach dem Zweiten und Zwölften Buch Sozialgesetzbuch (SGB II und SGB XII) - Zustimmung
+- TOP 22: Vorhabenbezogener Bebauungsplan Nr. 6007, Dresden-Neustadt, Globus SB-Markt am Alten Leipziger Bahnhof - Vertagung
+- TOP 23: Erweiterung des Zoos für eine artgerechte Elefantentierhaltung in Dresden - Vertagung
+- TOP 24: Nutzungskonzept für Schloß Albrechtsberg - Ablehnung
+- TOP 25: Errichtung einer Tiefgarage am Palaisplatz - Vertagung
+- TOP 26: Elbbrücke für Dresden - Vertagung
+- TOP 27: Evaluierung der Ansiedlungsprojekte großflächiger Einzelhandel in Dresden - Zustimmung mit Änderung
+- TOP 28: Grundschule Johanna energetisch sanieren - Umfeld aufwerten - Zustimmung
+- TOP 29: Maßnahmen zu höherer Verkehrssicherheit in Striesen/Blasewitz/Johannstadt - Vertagung
+- TOP 30: Erfüllung von Stadtratsbeschlüssen - Vertagung
+- TOP 31: Einwohnerinnen- und Einwohnerfragestunde - Vertagung
+- TOP 32: Finanzierungssicherheit für den Umbau des Dresdner Kulturpalastes - Vertagung
+- TOP 33: Zweckungebundene Rücklagenbildung aus Steuermehreinnahmen - Vertagung
+- TOP 36: Folgende Informationsvorlage wurde am 24. November 2011 ausgereicht:
+- TOP 36.1: Anzahl der im Schuljahr 2011/2012 zu bildenden Klassen an der 88. Mittelschule in Dresden Hosterwitz - Vorlage eines Konzeptes mit möglichen Varianten zum Fortbestand beider Schulen - zur Kenntnis genommen
