@@ -1,0 +1,55 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-11-25T14:00:00+01:00
+- Ende: 2011-11-25T17:40:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5213
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5213
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168527.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168527.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00168527.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 4: Plan-Nr.:5477/125 Kö-Bogen 2.BA Satzungsbeschluss - mehrheitlich abgelehnt
+- TOP 5: Plan Nr.:5280/029 Golzheimer Siedlung/ Nordöstlich Rotterdamer Straße - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Antikmärkte in den Schadow Arkaden - einstimmig beschlossen
+- TOP 9: Trödelmärkte auf dem Gelände des Großmarktes - einstimmig beschlossen
+- TOP 10: Jahresprogramm Burgplatz - Veranstaltungen 2012 - einstimmig beschlossen
+- TOP 11: Baumpflanzungen auf der Uerdinger Straße - einstimmig beschlossen
+- TOP 12: Kö-Graben - einstimmig beschlossen
+- TOP 13: Kreuzungsbereich Nord-/Schwerinstraße - mehrheitlich beschlossen
+- TOP 14: Johanneskirche - mehrheitlich abgelehnt
+- TOP 15: Spielplatz Kölner Straße - einstimmig beschlossen
+- TOP 16: Areal Meineckestraße - einstimmig beschlossen
+- TOP 17: Internetauftritt "Pempelfort" - zurückgezogen
+- TOP 18: Platane Schlachthofgelände - einstimmig beschlossen
+- TOP 19: Fußgänger Vinzenzplatz - einstimmig beschlossen
+- TOP 20: Baustellenlager Hofgarten - einstimmig beschlossen
+- TOP 21: Collenbachstraße / Spichernplatz - mehrheitlich abgelehnt
+- TOP 22: Pflasterung Kö-Bogen - einstimmig beschlossen
+- TOP 23: B-Plan Kasernengelände - einstimmig beschlossen
+- TOP 24: Toilettenanlagen für den Fernbusbahnhof - einstimmig beschlossen
+- TOP 25: Schwerinstraße 41 - einstimmig beschlossen
+- TOP 26: Einstellung eines Sozialarbeiters / Streetworkers - mehrheitlich beschlossen
+- TOP 27: ehemaliger "Golzheimer Friedhof" - mehrheitlich beschlossen
+- TOP 28: Nordfriedhof - beantwortet
+- TOP 29: FH-Campus Schlachthof-/Schlösser-Areal - beantwortet
+- TOP 30: Zukunft des Dietrich-Karree - beantwortet
+- TOP 31: Dietrich-Karree Duisburger Straße - beantwortet
+- TOP 32: Stellplatzablösung - schriftlich beantwortet
+- TOP 33: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 34: Weihnachtsmarkt Schadowplatz/ Toilettenanlage - beantwortet
+- TOP 35: Namensgebung Realschule In der Lohe, Schwannstraße 5 - einstimmig beschlossen
+- TOP 36: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 37: Reisemarkt Schadow Arkaden - einstimmig beschlossen
+- TOP 38: Sondersitzung für Etatberatung 2012 - einstimmig beschlossen
