@@ -1,0 +1,7 @@
+# TOP 7: Öffentlichkeitsarbeit
+
+- Sitzung: 3. öffentliche Sitzung der Fraktion der LINKEN (2011-11-28)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=12412
+- Ergebnis: (offen)
