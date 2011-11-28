@@ -1,0 +1,7 @@
+# TOP 2: Tagesordnungspunkt (betrifft Privatpersonen)
+
+- Sitzung: Beirat für Menschen mit Behinderung (2011-11-28)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/861
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
