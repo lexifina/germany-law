@@ -1,0 +1,51 @@
+# Zentraler Betriebsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-12-01T17:00:00+01:00
+- Ende: 2011-12-01T18:20:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-278
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZU1faXuEg934ybZzqLF-_y8
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3930
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Zentraler Betriebsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZc1MBsL0C_4Fk0LKPtxKgq9hL94SvOvGQjvPSmVWI4HP/Oeffentliche_Niederschrift_Zentraler_Betriebsausschuss_01.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Verschiedenes
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll
+- TOP 4: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 5: Optimierter Hausmeisterdienst mit Bezirks-Hausmeistern
+- TOP 6: Protokoll
+- TOP 7: Schäden am Isarweg
+- TOP 8: Neuorganisation des Stadtdienstes 23 - Immobilienmanagement - sowie des Dienstleistungsbetriebs Gebäude (DBSG)
+- TOP 9: Betriebssatzung des DBSG
+- TOP 10: II. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 11: Quartalsbericht 3. Quartal 2011 des Dienstleistungsbetriebes Gebäude der Stadt Solingen
+- TOP 12: Quartalsbericht 3. Quartal 2011 der Technischen Betriebe Solingen
+- TOP 13: Gebührenbedarfsberechnungen 2012
+- TOP 14: I. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 15: I. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 16: II. Änderungssatzung zur Satzung über die Entsorgung der Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 17: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 18: Wirtschaftsplan 2012 der Technischen Betriebe Solingen
+- TOP 19: Verschiedenes
+- TOP 20: Vertretungsregelung der Betriebsleitung
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Verschiedenes
+- TOP 3: Protokoll
+- TOP 4: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 5: Schäden am Isarweg
+- TOP 6: Protokoll
+- TOP 7: Beförderung von Beamten
+- TOP 8: Quartalsbericht 3. Quartal 2011 der Entsorgung Solingen GmbH
+- TOP 9: Wirtschaftsplan 2012 der Entsorgung Solingen GmbH
+- TOP 10: Bestellung eines Wirtschaftsprüfers
+- TOP 11: Bestellung eines Wirtschaftsprüfers
+- TOP 12: Bestellung eines Wirtschaftsprüfers
+- TOP 13: Verschiedenes
+- TOP 14: Vergaben und Vertragsabschlüsse über 50.000 € der TBS
