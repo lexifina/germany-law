@@ -1,0 +1,7 @@
+# TOP 3: Berichte aus den Gremien und den Arbeitsgruppen des Jugendrates
+
+- Sitzung: Jugendrat (2011-12-01)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/173184
+- Ergebnis: zur Kenntnis genommen
