@@ -1,0 +1,23 @@
+# Bebauungsplan Nr. 12 T1 "Lauge", 16. Änderung - Aufstellungsbeschluss -
+
+- Körperschaft: Stadt Emsdetten
+- Drucksache/Vorlage: 198/2011 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2011-12-01
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZTmNTHgxWqASvohXE_gK0jA
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/11869
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Bebauungsplan Nr. 12 T1 "Lauge", 16. Änderung
+- Aufstellungsbeschluss -) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWOpBTOGMf3o26UqfbPGMWLIViQqN4GTCqw4HlKpi0Y7/Beschlussvorlage_198-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 - GRZ und GFZ mit DG) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYl9y6QGUvrG20iZyTgPewfJYMXyZq-XcyOKoqKGRMCL/Anlage_1_-_GRZ_und_GFZ_mit_DG.pdf
+- Anlage: Beschlussvorlage (Anlage 2 - GRZ und GFZ) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXdzMmV65hbfO14iDI1m2kcZ11wQdavmW2tA9DCY4cx8/Anlage_2_-_GRZ_und_GFZ.pdf
+- Anlage: Beschlussvorlage (Anlage 3 - DG kein VG) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYLVb07QCMTDVB1gh8R9rlxCunmVvgi55z1Vd8P07Kue/Anlage_3_-_DG_kein_VG.pdf
+- Anlage: Beschlussvorlage (Anlage 4 - Lageplan) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZH93W2NnTemuq7nMWu5eek3-5tPb-IbNrndMPjYKwPX/Anlage_4_-_Lageplan.pdf
+- Anlage: Beschlussvorlage (Anlage 5 - KG) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQR4RBUrnZPY9SAdcNIGq0V5GVgwhsGym_lcRL_kM2lt/Anlage_5_-_KG.pdf
+- Anlage: Beschlussvorlage (Anlage 6 - EG) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMPD1dJLjUzf5rc5NYCpA0yCTHLqndqeRzoU0EvoM_V/Anlage_6_-_EG.pdf
+- Anlage: Beschlussvorlage (Anlage 7 - OG) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSHa35KvEMyNRM_xjxoB_2zMpfLG5AbQWd_EDMZwUt7Q/Anlage_7_-_OG.pdf
+- Anlage: Beschlussvorlage (Anlage 8 - DG) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRRQmH08oBHc1OcyiHz987knOyvSQiFS-9khV7160b1G/Anlage_8_-_DG.pdf
+- Anlage: Beschlussvorlage (Anlage 9 - Schnitt a-a) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQ3oyWE3UaKTyMjWPogvpSpd48KGSoQ7Pkgw4McvUyCF/Anlage_9_-_Schnitt_a-a.pdf
+- Anlage: Beschlussvorlage (Anlage 10 - SW u. NO Ansicht) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRkX-xg_lPDlASavlsFbYBzWM0J_qtX7QvGjSG74pGfS/Anlage_10_-_SW_u._NO_Ansicht.pdf
+- Anlage: Beschlussvorlage (Anlage 11 - SO u. NW Ansicht) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXbd3BzUOQfTdsFc6mxX9MzpRqXDvYZssFAcKQ6f3FiL/Anlage_11_-_SO_u._NW_Ansicht.pdf
+- Beratung:  https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8311 https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-25
