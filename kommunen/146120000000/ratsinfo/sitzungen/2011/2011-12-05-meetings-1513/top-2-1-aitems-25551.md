@@ -1,0 +1,8 @@
+# TOP 2.1: Planfeststellungsverfahren S177
+
+- Sitzung: 28. Sitzung des Ortschaftsrates Schönfeld-Weißig (2011-12-05)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/25551
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/8440
