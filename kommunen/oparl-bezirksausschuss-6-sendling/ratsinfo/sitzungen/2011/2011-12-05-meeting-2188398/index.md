@@ -1,0 +1,60 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2011-12-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188398
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188398
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Nachbenennung eines neuen Mitglieds für den Unterausschuss Bauplanung, Baumaßnahmen und Vollzug der Zweckentfremdungsverordnung durch die SPD-Fraktion
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Vorstellung des Bauvorhabens Plinganserstraße 110 / Fallstraße 42
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Einstiegstreppe am Schwimmerbecken des Südbades
+- TOP 3.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP 3.3.: Europäischer Tag des Nachbarn
+- TOP 4: Schulreferat
+- TOP 5.1.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 6.1.: Haltverbot Meindlstr.
+- TOP 6.2.: Stellplatz für Fahrzeuge der U-Bahn-Wache im Bereich der Alramstr. 7
+- TOP 6.3.: Parkraummanagement im Bereich der Lagerhausstraße
+- TOP 6.4.: Fernwärmebauvorhaben Sylvensteinstraße
+- TOP 6.5.: Lärmminderungsplan für München
+- TOP 7.2.: Bezirksausschüsse in "Stadtteilräte" umbenennen
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Zechstr. 3
+- TOP 8.3.: Bauvorhaben Schöttlstr. 12
+- TOP 8.4.: Bauvorhaben Lipowskystr. 21
+- TOP 8.5.: Bauvorhaben Albert-Roßhaupter-Str. 3
+- TOP 8.6.: Bauvorhaben Dreimühlenstraße 42
+- TOP 8.7.: Wettbewerb zur Bebauung des Grundstücks Plinganserstr. 27-31 und Kidlerstr. 34
+- TOP 8.8.: Schaffung von neuem Wohnraum im "MK 6" des Sendlinger Dreiecks durch Umwandlung von Büro- in Wohnflächen
+- TOP 8.9.: Festsetzung großer Siedlungsmaßnahmen für die Jahre 2011 bis 2015
+- TOP 9: Baureferat
+- TOP 9.1.: Wochenmarkt am Margaretenplatz
+- TOP 9.2.: Abfallkörbe im Sendlinger Unterfeld
+- TOP 9.3.: Änderung der Straßenreinigungssatzung
+- TOP 9.4.: Parkbänke Margaretenplatz
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung im Rahmen des Bauvorhabens Brudermühlstr. 45
+- TOP 10.2.: Baumfällung im Rahmen des Bauvorhabens Lindwurmstraße 122 - 124
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: Unterbindung der Verwendung von Laubbläsern in öffentlichen Anlagen - <div>nach Antrag</div>
+- TOP 1.3.: Sozialbürgerhaus Sendling; Finanzierung von städtischen Bauvorhaben mittels public-private-partnership-Projekten Anfrage Nr. 316 der Bürgerversammlung vom 13.10.2011
+- TOP 12: Anträge
+- TOP 12.1.: Naziaufmarsch vom 19.11.2011
+- TOP 13: Verschiedenes
+- TOP 13.1.: Kanalgeruch in Untersendling
+- TOP 13.2.: Taubenüberpopulation
+- TOP 13.3.: Örtlichkeit für den Schäfflertanz in Sendling 2012
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
