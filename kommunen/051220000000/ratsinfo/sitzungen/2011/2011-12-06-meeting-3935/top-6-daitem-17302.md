@@ -1,0 +1,7 @@
+# TOP 6: II. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+
+- Sitzung: Finanzausschuss (2011-12-06)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/17302
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/15492
