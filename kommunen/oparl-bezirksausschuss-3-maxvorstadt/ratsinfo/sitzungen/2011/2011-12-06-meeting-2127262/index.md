@@ -1,0 +1,103 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2011-12-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2127262
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2127262
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 08.11.2011
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 27.10.2011 Begrünung der Fläche vor der neuen Filmhochschule und sonstiger Flächen zwischen Pinakotheken und Spielplätzen (s. TOP B 2.2.1)
+- TOP 5.2.2.: Schreiben einer Bürgerin aus der Maxvorstadt vom 12.11.2011 Behindertengerechter Zugang zum Tengelmann-Markt Schellingstraße durch Rampe auf öffentlichem Grund (s. TOP D 2.3)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 42., 43., 44., 45., 46. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 2.1.3.: Bauvorhaben Türkenstraße 52-54 Abbruch und Neuerrichtung eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 2.1.4.: Bauvorhaben Königinstraße 25 Neubau eines Mehrfamilienhauses, Vorbescheid
+- TOP 2.1.5.: 2.1.5 Augustenstraße 83 Umbau eines Wohnheims in eine moderne Wohnanlage, Dachaufstockung, Anbau eines Aufzuges und Errichtung neuer Balkone sowie teilweise Gaststättenverlagerung in das UG
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt vom 27.10.2011 Begrünung der Fläche vor der neuen Filmhochschule und sonstiger Flächen zwischen Pinakotheken und Spielplätzen (s. TOP A 5.2.1)
+- TOP 2.2.2.: Schellingstraße 56, 1 Kastanie
+- TOP 2.2.3.: Veterinärstraße 13, 1 Säulenpappel
+- TOP 2.2.4.: Karolinenplatz 6, 1 Scheinakazie
+- TOP 2.2.5.: Königinstraße 27, ein Spitzahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Verbesserung der von Nutzung und Akzeptanz des Busbahnhofes ZOB an der Hackerbrücke durch Halteverbote für Busse in der Umgebung des ZOB Antrag des Vorstandes des BA 3 vertagt aus der Sitzung vom 08.11.2011, Unterlagen liegen bereits vor.
+- TOP 1.2.: Vorsstellungen des BA Maxvorstadt zur Zukunft des Museumsviertels Antrag der Fraktion Bündnis 90/Die Grünen im BA 3, Initiative: Sabine Thiele, Georg Etscheit
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Referat für Stadtplanung und Bauordnung Planfeststellung nach dem Personenbeförderungsgesetz; Errichtung einer Wendeschleife im Verlauf der Straßenbahnlinie 20/21 (Lothstraße)
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Freigabe der Fürstenstraße zwischen Rheinbergerstraße und Theresienstraße für den gegenläufigen Radverkehr vertagt aus der Sitzung vom 08.11.2011
+- TOP 2.1.3.: Marlene-Dietrich-Straße: Ortstermin wegen Anfahrtszonen vor Kinderkrippen vertagt aus der Sitzung vom 08.11.2011
+- TOP 2.1.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Haltverbot für Busse in der Deroystraße vertagt aus der Sitzung vom 08.11.2011 (TOP C 2.1.2), Unterlagen liegen bereits vor
+- TOP 2.1.5.: Bürgerschreiben vom 13.10.2011 Busse in der Pappenheimstraße vertagt aus der Sitzung vom 08.11.2011 (TOP C 2.1.3), Unterlagen liegen bereits vor
+- TOP 2.1.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Busparkverbot in der Deroy- und Pappenheimstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Theresienstr. 126, Sondernutzung, Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 2.2.2.: Referat für Stadtplanung und Bauordnung, Begegnungszuonen/?Shared Space? Entwurf einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Sozialreferat, Büro der Kinderbeauftragten Ausschreibung ?Kinderorte im Stadtteil sichtbar machen ? gemeinsam spielen!? 2. Pilot-Stadtbezirk für den Weltkindertag 2012 gesucht
+- TOP 2.2.: Referat für Gesundheit und Umwelt, Versorgung und Pflege Interessenbekundung an der Erstellung eines Seniorenstadtteilplanes in Begleitung mit dem Referat für Gesundheit und Umwelt
+- TOP 2.3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 12.11.2011 Behindertengerechter Zugang zum Tengelmann-Markt Schellingstraße durch Rampe auf öffentlichem Grund (s. TOP A 5.2.2)
+- TOP 2.4.: Münchner Sommerspielaktion, SommerspielAktion 2012 Vorschläge für Veranstaltugnsorte
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: Kunstobjekt ?Le Mystère de Munich? südlich der Alten Pinakothek vertagt aus der Sitzung vom 08.11.2011
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3: Soziales und Bildung (1)
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Kaulbachstraße 49 a, Abdruck der Genehmigung zur Fällung einer Robinie
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Bauvorhaben Augustenstr. 15-19, Abdruck des Ablehnungsbescheides zur Tektur (Errichtung von Dachterrassen)
+- TOP 1.3.: Referat für Stadtplanung u. Bauordnung + Referat für Gesundheit und Umwelt Beschlussvorlage für die gemeinsame Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 09.11.2011 PERSPEKTIVE MÜNCHEN, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung Sitzungsvorlage Nr. 08-14 / V 07948
+- TOP 1.4.: Referat für Stadtplanung u. Bauordnung Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011 Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München Sitzungsvorlage Nr. 08-14 / V 07143
+- TOP 1.5.: Referat für Stadtplanung u. Bauordnung Beschlussvorlage für die Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011 Mehrjahresinvestitionsprogramm 2011-2015: Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011-2015
+- TOP 1.6.: Referat für Gesundheit und Umwelt, Beschlussvorlage Lärmminderungsplanung für München, Entwurf des Lärmaktionsplans Beschluss des Umweltausschusses vom 29.11.2011 Sitzungsvorlage Nr. 08-14 / V 08119
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Nymphenburger Straße 22, FlNr. 6116/0, Gemarkung Sektion IV Abriss-/Umbau-/Neubau Nymphenburger-/Erzgießereistraße BV-Anfrage Nr. 08-14 / Q 00318 aus der BV des BA 3 Maxvorstadt vom 20.10.2011
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Wittelsbacherplatz, Finkenstraße,Jägerstraße, Kardinal-Döpfner-Straße Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2011 Sitzungsvorlage Nr. 08-14 / V 08089
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Eingeschränktes Haltverbot Arcisstraße 21: Behindertenparkplätze vor dem Haupteingang der TU
+- TOP 2.2.: Baureferat Kurzfristige Begrünung der Schleißheimer Straße zwischen Georgenstraße und Heßstraße (Empfehlung Nr. 08-14 / E 00467 der Bürgerversammlung des BA 3 am 19.11.2009) Beschlussvorlage für den Bauausschuss vom 15.11.2011 Sitzungsvorlage Nr. 08-14 / V 07413
+- TOP 2.3.: Bezirksausschuss 12 Schwabing-Freimann Antrag Nr. 08-14/B 03412 ?Änderung der Straßenreinigungssatzung? mit der Bitte um Unterstützung und Rückmeldung
+- TOP 2.4.: Baureferat Tiefbau ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern: Untersuchungsergebnis und weiteres Vorgehen Ergänzte Beschlussvorlage für den Bauausschuss vom 15.11.2011
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Baustelleneinrichtung am Lenbachplatz
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrmanagement, Verkehrsanordnungen Tempo-30-Zone Oskar-von-Miller-Ring, Kardinal-Döpfner-Straße und Finkenstraße
+- TOP 2.7.: Baureferat, Tiefbau, Straßenunterhalt Ersetzen der fehlenden Kleinsteinpflastersteine beim Kabelschacht Theresienstraße 134 anfrage Nr. 08-14 / Q 00319 aus der BV des BA 3 Maxvorstat am 20.10.2011
+- TOP 2.8.: Baumaßnahme der Stadtwerke, Nymphenburger Straße, Strom
+- TOP 3: Soziales und Bildung (2)
+- TOP 3.1.: Budget: Dank und Sachbericht des Rektors der Grundschule an der Schwindstraße zum geförderten Projekt ?Kinder treffen Künstler?
+- TOP 3.2.: Sozialreferat, Zentrale Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale Beschlussvorlage für die gemeinsame Sitzung des Kinder- und Jugendhilfe- sowie Sozialausschusses vom 08.11.2011 Sitzungsvorlage Nr. 08-14 / V 07744
+- TOP 3.3.: Budget: Entscheidung des Oberbürgermeisters Antrag des Vereins Lilalu e.V. vom 02.05.2011 auf Bezuschussung von 20 Workshopkarten für bedürftige Kinder aus dem Stadtbezirk 3 Maxvorstadt vom 29.08. bis 04.09.2011
+- TOP 3.4.: Sozialreferat, Amt für Soziale Sicherung Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung Beschlussvorlage für die gemeinsame Sitzung des Kinder- und Jugendhilfe- sowie Sozialausschusses vom 08.11.2011 Sitzungsvorlage Nr. 08-14 / V 07762
+- TOP 3.5.: Sozialreferat, Amt für Wohnen und Migration Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration Beschlussvorlage für die gemeinsame Sitzung des Kinder- und Jugendhilfe- sowie Sozialausschusses vom 08.11.2011 Sitzungsvorlage Nr. 08-14 / V 07782
+- TOP 3.6.: Bezirksausschuss 25 Laim Antrag Nr. 08-14/B 03442 ?Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote? mit der Bitte um Unterstützung und Rückmeldung
+- TOP 3.7.: Referat für Bildung und Sport Kindertagesstätten sonstiger Träger, Kinderkrippe Seidlstraße 20 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008 ? 2013 Beschluss des Ausschusses für Bildung und Sport vom 21.09.2011 Sitzungsvorlage Nr. 08-14 / V 07448
+- TOP 3.8.: Sozialreferat, Amt für Wohnen und Migration Einführung des europäischen ?Tag des Nachbarn? in München Empfehlung Nr. 08-14 / E 0963 der BV des BA 2 Ludwigsvorstadt-Isavorstadt am 19.05.2011 und Antrag des Seniorenbeirats vom 20.07.2011 Sitzungsvorlage Nr. 08-14 / V 07950
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Mehrjahresinvestitionsprogramm für die Jahre 2011 bis 2015
+- TOP 4.3.: Bezirksausschüsse in "Stadtteilräte" umbenennen
+- TOP 4.4.: Einwohnerversammlung Siemens Konzernzentrale (vertagt aus 11/11)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Aktuelle Sachstandsberichte
