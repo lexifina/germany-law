@@ -1,0 +1,58 @@
+# Haupt- und Finanzausschuss (15. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-12-06T17:00:00+01:00
+- Ende: 2011-12-06T19:58:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZedSOoOma5UVF-FSyTgWRik
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10536
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZfdaBsbsSq0J6Tnig5BNavSVOO-ITOkAdMpkgPpf43Qo/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_06.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 14. Sitzung vom 27. September 2011
+- TOP 2.: Führung der Bezeichnung „Kolpingstadt Kerpen“
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: 21. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 3.2: 12. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 3.3: 6. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 3.4: 15. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 3.5: 1. Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Kerpen
+- TOP 4.: Beitritt der Stadt Kerpen zum Institut für europäische Partnerschaften und internationale Zusammenarbeit (IPZ)
+- TOP 5.: Aktivitäten im Bereich der Städtepartnerschaften in 2012
+- TOP 6.: Interessenbekundungsverfahren Erftlagune
+- TOP 7.: Aktueller Sachstand Neues Hallenbad Kerpen
+- TOP 8.: Sachstandsbericht "Wartungsverträge für städtische Gebäude"
+- TOP 9.: Energieeinsparungen bei städtischen Gebäuden hier: Energieausweise
+- TOP 10.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 11.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen III. Quartal 2011
+- TOP 12.: Kostenbelastung durch EDV-Aufgaben der Stadt Kerpen / IT-Dienstleistungen der KDVZ
+- TOP 13.: Zentralisierung von IT-Dienstleistungen bei der KDVZ
+- TOP 14.: Personal-/Stellenplanangelegenheiten
+- TOP 14.1: Neueinstellungen Sozialarbeiter/innen, Erzieher/innen bzw. Streetworker/innen
+- TOP 14.2: Bereitstellung von Ausbildungsplätzen für das Jahr 2012
+- TOP 15.: Kostentransparenz städtischer Baumaßnahmen
+- TOP 16.: Illegale Waldumwandlung hier: Inanspruchnahme eines Waldsaumes in Kerpen-Türnich entlang der Gartengrundstücke an der Ursfelder Straße 8-44 im Landschaftsschutzgebiet
+- TOP 17.: Forstwirtschaftsplan 2012
+- TOP 18.: Mitteilungen
+- TOP 18.1: Nutzung des Platzes zwischen Thaliastraße und Hermann-Löns-Straße in Sindorf hier: Einrichtung eines Wochenmarktes
+- TOP 18.2: Holzdiebstahl im Stadtwald Kerpener "Parrig"
+- TOP 19.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 19.1: Einführung einer Kastrations- und Kennzeichnungspflicht für Freigängerkatzen
+- TOP 19.2: Investitionsmaßnahme Adolf-Kolping-Schule
+- TOP 20.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 21.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 21.1: Bau eines weiteren öffentlichen Kreisverkehrsplatzes am Europaring in Kerpen-Sindorf
+- TOP 22.: Verlängerung der Strom- und Gaslieferverträge für die städtischen Gebäude
+- TOP 23.: Abschluss der Gebäude- und Inventarversicherung
+- TOP 24.: Kostenerstattung im Rahmen einer Jugendhilfemaßnahme hier: Anstrebung eines Klageverfahrens
+- TOP 25.: Befristete Niederschlagung von Grundbesitzabgaben
+- TOP 26.: Befristete Niederschlagung einer Gewerbesteuerforderung
+- TOP 27.: Neuverpachtung des städtischen Eigenjagdbezirkes "Kerpener Parrig"
+- TOP 28.: Mitteilungen
+- TOP 29.: Anfragen gem. § 18 Geschäftsordnung
