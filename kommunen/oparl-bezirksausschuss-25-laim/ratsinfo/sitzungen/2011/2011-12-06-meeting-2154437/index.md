@@ -1,0 +1,89 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2011-12-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154437
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154437
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Radweg Agnes-Bernauer-Straße stadteinwärts zwischen Ossietzkystraße und Interim
+- TOP 1.2.2.: Anmietung des Schaukastens am Kirchenvorplatz Namen Jesu
+- TOP 2: Anträge
+- TOP 2.1.: SPD: U-Bahnline U 5 von Laim nach Pasing
+- TOP 2.2.: CSU: Planungen zum Weiterbau der U 5 nach Pasing
+- TOP 2.3.: UA Soziales, Schule und Sport: Information über Verfahrensrichtlinien und Dringlichkeitsstufen zur Vergabe von Plätzen in Kinderkrippen- und Kindergärten
+- TOP 2.4.: CSU: Schule an der Schrobenhausener Straße; Austausch des Mülleimer auf dem Sportgelände sowie Aufstellung eines zusätzlichen Mülleimers auf dem Schulgelände
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.500 Euro für die Erneuerung von Spielgeräten; Antragsteller: Kath. Kindergarten St. Willibald - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 2.250 Euro für die Erneuerung der Spielgeräte der Kindertagesstätte; Antragsteller: Kath. Kirchenstiftung St.-Philippus München - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über die Einrichtung / Änderung / Aufhebung eines Taxistandplatzes gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Taxistandplatz Gotthardstraße Neueinrichtung, Taxistandplatz Agnes-Bernauer-Straße Aufhebung (Vertagung aus der BA-Sitzung vom 08.11.11)
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses dem Budget des BA 25 in Höhe von 3.000 Euro für Faschingstreiben am 18.02.12; Antragsteller: Faschingsclub Laim e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Valpichlerstr. 11: Antrag auf Fällung einer Silberweide
+- TOP 4.2.: Fischartstr. 7: Antrag auf Fällung einer Rotbuche
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 20.06.11: Hohenwarter Straße; Parkscheibenzone, Haltverbot (Vertagt aus der BA-Sitzung vom 05.07.11) =&gt; dazu Schreiben Kreisverwaltungsreferat vom 07.11.11
+- TOP 4.4.: Schreiben Referat für Gesundheit und Umwelt vom 07.11.11: Erstellung eines Stadtteilplans in Begleitung mit dem Referat für Gesundheit und Umwelt; Protokoll der Infoveranstaltung vom 19.10.11
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 17.11.11: Flohmarkt auf dem Hogenbergplatz am 24.03. und 29.09.12
+- TOP 4.6.: Schreiben Spielen in der Stadt e.V. vom 17.11.11: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP 4.7.: Schreiben Direktorium vom 16.11.11: Bezirksausschüsse in "Stadtteilräte" umbenennen (Antrag Nr. 08-14 / B 03414 des BA 4 Schwabing-West vom 26.10.11)
+- TOP 5: Bauvorhaben
+- TOP 6: Sonstiges
+- TOP 6.1.: Mitgliederwechsel im UA Umwelt und Verkehr
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 08.11.11
+- TOP 7.2.: Sitzung UA Bau vom 10.11.11
+- TOP 7.3.: Sitzung UA Kultur vom 08.11.11
+- TOP 7.4.: Sitzung UA Soziales, Schule und Sport vom 21.11.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 03.11.11: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Lilalu e.V.
+- TOP 8.2.: Schreiben Direktorium vom 03.11.11: Zuwendung aus dem Budget des BA 25; Antrag Laimer Maibaumfreunde e.V. vom 07.02.11; Maitanz am 01.05.11
+- TOP 8.3.: Schreiben Direktorium vom 21.11.11: Bewilligung einer Zuwendung aus dem Budget des BA 25; Antragsteller: Großtagespflege rosarot & kunterblau
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 24.10.11: Sanierung des Laimer Angers / Belegung durch Veranstaltungen im Jahr 2011 (Schreiben BA vom 15.09.11)
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 11.10.11: Käthe-Bauer-Weg; Beschilderung mit Gefahrzeichen 138 StVO mit Zusatzzeichen "Schulweg" (Schreiben BA vom 15.09.11)
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 07.11.11: Willibaldplatz; Parkscheibenzone
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 02.11.11: Helmpertstr. 7; Neubau einer neuapostolischen Kirche / Tektur
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 08.11.11: Byecherstr. 30c: Neubau eines Wohnhauses / Vorbescheid
+- TOP 8.9.: Schreiben Referat für Stadtplanung und Bauordnung vom 14.11.11: Vorantreiben der Planungen für den Bau der Umweltverbundröhre, ggf. Bau und Zwischenfinanzierung durch die LH München (Antrag Nr. 08-14 / B 03280 vom 13.09.11)
+- TOP 8.10.: Schreiben Referat für Stadtplanung und Bauordnung vom 17.11.11: Aindorferstr. 74; Neubau eines Mehrfamilienhauses (7 WE) und eines Zweifamilienhauses mit Tiefgarage (9 Stpl.) / Vorbescheid
+- TOP 8.11.: Schreiben Baureferat vom 09.11.11: Absenkung der Randsteine Hönigschmidplatz (Schreiben BA vom 05.10.11)
+- TOP 8.12.: Schreiben Baureferat vom 27.09.11: Aufstellung von Hundeverbotsschildern auf dem Laimer Anger (Antrag Nr. 08-14 / B 03281 vom 13.09.11)
+- TOP 8.13.: Schreiben Baureferat vom 15.11.11: Errichtung eines Zaunes an der Nord-Westseite (Saherrstraße / Weßlingerstraße) des Spielplatzes Joergplatz (Antrag Nr. 08-14 / B 03335 vom 04.10.11)
+- TOP 8.14.: Schreiben Baureferat vom 17.11.11: Hinweis auf Rauchverbot auf Spielplätzen (Antrag Nr. 08-14 / B 03441 vom 08.11.11)
+- TOP 8.15.: Schreiben Baureferat vom 17.11.11: Willibaldstraße; Sanierung des östlichen Radweges zwischen Senftenauerstraße und Gatterburgstraße
+- TOP 8.16.: Schreiben Referat für Bildung und Sport vom 21.11.11: Schulleitungen im Stadtbezirk
+- TOP 8.17.: Schreiben Referat für Arbeit und Wirtschaft vom 28.10.11: Wirtschafts-Info 10/2011
+- TOP 8.18.: Schreiben Referat für Arbeit und Wirtschaft vom 14.11.11: Europe Direct Informationen 07/2011
+- TOP 8.19.: Schreiben Referat für Gesundheit und Umwelt vom 04.11.11: Einladung zum Messeforum "Innovative Dämm- und Baustoffe" am 02.12.11
+- TOP 8.20.: Schreiben Referat für Gesundheit und Umwelt vom 18.11.11: Einladung zum Morgenforum "Solarthermie: Die VDI Richtlinie 2169" am 06.12.11
+- TOP 8.21.: Bautenliste vom 31.10.11 - 06.11.11: 1. Erstantragsverfahren a) Geigerstr. 6
+- TOP 8.22.: Bautenliste vom 07.11.11-13.11.11: 1. Erstantragsverfahren a) Perhamerstr. 41
+- TOP 8.23.: Bautenliste vom 14.11.-20.11.11 1. Erstantragsverfahren a) St.-Ulrich-Str. 3 b) Fürstenrieder Str. 39
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 07.11.11: Baumaßnahmen der Stadtwerke München GmbH; Stichtag: 07.11.11
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 14.11.11: Baumaßnahmen der Stadtwerke München; Stichtag: 14.11.11
+- TOP 8.26.: Schreiben Stadtwerke München GmbH vom 21.11.11: Baumaßnahmen der Stadtwerke München; Stichtag: 21.11.11
+- TOP 8.27.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 12.10.11: Zukunftschancen für den ÖPNV München XXL verbreitern - nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München (Sitzungsvorlagen Nr. 08-14 / V 07337 )
+- TOP 8.28.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.11: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlagen Nr. 08-14 / V 07762)
+- TOP 8.29.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 08.11.11: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 07782)
+- TOP 8.30.: Beschluss des Ausschusses für Bildung und Sport vom 09.11.11: Mehrjahresinvestitionsprogramm (MIP) 2011-2015; 1. Investitonsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, 2. Priorisierung von Schulmaßnahmen, 3. verfahrenstechnische Neuerungen, 4. Stellungnahmen der Bezirksausschüsse (Sitzungsvorlagen Nr. 08-14 / V 07927)
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11: Mehrjahresinvestitionsprogramm 2011-2015; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011-2015 (Sitzungsvorlagen Nr. 08-14 / V 07926)
+- TOP 8.32.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11: Mehrjahresinvestitionsprogramm für die Jahre 2011-2015; diverse Gliederungsziffern (Sitzungsvorlagen Nr. 08-14 / V 07906)
+- TOP 8.33.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München (Sitzungsvorlagen Nr. 08-14 / V 07143)
+- TOP 8.34.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 09.11.11: Perspektive München; Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung (Sitzungsvorlagen Nr. 08-14 / V 07948)
+- TOP 8.35.: Ergänzung zum Beschluss des Bauausschusses vom 15.11.11: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern, Untersuchungsergebnisse und weiteres Vorgehen (Sitzungsvorlagen Nr. 08-14 / V 04822)
+- TOP 8.36.: Beschluss des Umweltausschusses vom 29.11.11: Lärmminderungsplanung für München; Entwurf des Lärmaktionsplans (Sitzungsvorlage Nr. 08-14 / V 08119)
+- TOP 8.37.: Beschluss des Sozialausschusses vom 01.12.11: Einführung des europäischen "Tag des Nachbarn" in München (Sitzungsvorlagen Nr. 08-14 / V 07950)
+- TOP 8.38.: Schreiben BA 12 Schwabing-Freimann vom 07.11.11: Antrag "Änderung der Straßenreinigungssatzung bzw. - sicherungsverordnung der Landeshauptstadt München"
+- TOP 8.39.: Schreiben Kath. Pfarrgemeinde zu den Hl. Zwölf Aposteln vom 25.10.11: Zuschuss aus dem Budget des BA 25 für das Pfarrfest am 17.07.11
+- TOP 8.40.: Schreiben Kath. Pfarrei zu den Heiligen Zwölf Aposteln vom 10.10.11: Verwendungsnachweis über den Budgetzuschuss für das Sommerfest
+- TOP 8.41.: Schreiben Spielen in der Stadt e.V. vom 04.11.11: Kurzbericht über die vom BA 25 bezuschussten Spielbuseinsätze 2011
+- TOP 8.42.: Schreiben Pädagogische Aktion / Spielen in der Stadt e.V. vom 28.10.11: Verwendungsnachweis über den Budgetzuschuss für Spielaktionen im Juli
+- TOP 8.43.: Schreiben Familienzentrum Laim vom 07.10.11: Verwendungsnachweis über den Budgetzuschuss für die Aktion "Spielaktion Spielorte und Spielideen"
+- TOP 8.44.: Schriftverkehr aus der BA-Sitzung vom 08.11.11
+- TOP 1.2: Bürgerpost an den BA
