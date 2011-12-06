@@ -1,0 +1,87 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2011-12-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2205972
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2205972
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Antrag des BA 4: Bezirksausschüsse in ?Stadtteilräte? umbenennen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Oettingenstraße 6 ? 8: Neubau eines Wohn- und Bürogebäudes (Vorbescheid)
+- TOP .2.: Viktualienmarkt: Nutzungsänderung zweier Ladenflächen
+- TOP .3.: Utzschneiderstraße 3: Umbau eines Wohnheims
+- TOP .4.: Maximilianstraße 6: Teilabbruch eines Ladengeschäfts (vertagt)
+- TOP .5.: Sendlinger Straße 45: Fassadenverlegung im EG
+- TOP .6.: Frauenplatz 12: Erweiterung und Umbau Kleingaststätte ?Guido al Duomo?
+- TOP .7.: Müllerstraße 22: Neubau eines Wohnhauses mit Laden
+- TOP .8.: NACHTRAG: Pettenbeckstraße: Errichtung eines Provisoriums für die Beratungsstelle ?Münchner Insel?
+- TOP .1.: UA: Rechtzeitige Vorlage der Unterlagen zur Anhörung nach § 13 der Bezirksaus-schusssatzung - Veranstaltungen auf öffentlichem Verkehrsgrund (Katalog Kreisverwaltungsreferat Nr. 20)
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .3.: Bräuhausstraße 6, Hofbräuhaus: Zeitliche Befristung eines Taxistand
+- TOP .4.: Prälat-Zistl-Straße, Schrannenhalle: Aufhebung eines Taxistands
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Angerhof, Vorfahrt ?Linde? in der Klosterhofstraße
+- TOP .1.: Baumfällung im Rahmen eines Bauvorhabens Hotterstraße 10 - 12
+- TOP .2.: Baumfällung im Rahmen eines Bauvorhabens Oettingenstraße, siehe auch B 3.1.1
+- TOP .3.: Anhörung zu einer Beschlussvorlage für den Planungsausschuss: Begegnungszonen / Shared Space?
+- TOP .1.: NACHTRAG: Budgetantrag: Mini-Festival ?Anfänge(r)? vom 15.-19.03.2012 der Gesellschaft zur Förderung des Puppenspiels e.V.
+- TOP .1.: Erstellung eines Stadtteilplans in Begleitung mit dem Referat für Gesundheit und Umwelt
+- TOP .2.: Platzvorschläge für die Sommer SpielAktion 2012
+- TOP .3.: Antrag des BA 25: Auslastung des Ferienangebots für Kinder
+- TOP .1.: Kassenbericht 2010
+- TOP .2.: Termin für das Neujahrstreffen
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Mehrjahresinvestitionsprogramm 2011 ? 2015, Referat für Bildung uns Sport
+- TOP 0.1.: Meldelisten Erstanträge
+- TOP 0.2.: Meldelisten Änderungsverfahren
+- TOP 0.3.: Meldelisten Änderungsverfahren, Zustimmungsverfahren, Vorbescheide, sowie Frei-stellungsverfahren, ohne Beachtung der Baukosten
+- TOP 0.4.: Antwortschreiben des Kommunalreferats zur Anfrage des BAs nach den Mietenkosten für Wohnungen eines Anwesens in der Müllerstraße, TOP 2011.10 B 4
+- TOP 0.5.: Beschluss des Planungsausschusses vom 30.11.2011: Bebauungsplan mit Grünordnung Nr. 2040, Franz-Joseph-Strauß-Ring, Prinzregentenstraße, Seitzstraße
+- TOP 0.6.: Zweckentfremdung von Wohnraum
+- TOP 0.7.: Beschluss des Planungsausschusses vom 24.11.2011: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V? - Wohnungsoffensive 2012 - 2016
+- TOP 0.8.: Protokoll zur Besprechung mit Vertretern des Amts für Wohnen und Migration zum Thema Zweckentfremdung von Wohnraum am 16.11.2011
+- TOP 0.9.: Antwortschreiben des Kommunalreferats zum Anliegen des BA das Toiletten-häuschen an der Maximiliansbrücke zur Umwandlung in einen Kiosk auszuschreiben
+- TOP 0.10.: Bekanntgabe im Planungsausschuss vom 07.12.2011: Wohnungsmarkt München ? Expertenbefragung 2011
+- TOP 0.11.: Beschluss des Planungsausschusses vom 07.12.2011: Zukunft des geförderten Wohnungsbaus in München
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Eilentscheidung des Vorsitzenden zur Chanukkafeier am 21.12.2011, St.-Jakobs-Platz
+- TOP 0.6.: Antwortschreiben der Markthallen München zur BA-Anfrage bezüglich der ?Probier-touren? auf dem Viktualienmarkt, TOP 2011.10 C 1.1
+- TOP 0.7.: Unterstützungsschreiben des BA 20 zum Schreiben des BA 1 bzgl. Christkindlmärkte Münchens
+- TOP 0.8.: Beschluss des Bauausschusses vom 06.12.2011: Änderung er Straßenreinigungs-satzung
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Antwortschreiben des KVR an die Antragsteller für ein Halteverbot vor der Kinderkrippe Reitmorstraße 29
+- TOP 0.3.: Beschluss des Umweltausschusses: Stadttauben
+- TOP 0.4.: Mobilfunkanzeige
+- TOP 0.5.: Schreiben der Markthallen München, wonach Dritte Schlüssel für die Poller auf dem St.-Anna-Platz besitzen
+- TOP 0.6.: Beschluss des Umweltausschusses vom 29.11.2011: Lärmminderungsplanung für München ? Entwurf eines Lärmaktionsplans
+- TOP 0.7.: Öffnung der Seitzstraße für den Radverkehr entgegen der Einbahnrichtung zwischen Thomas-Wimmer-Ring und Einfahrt des BRK
+- TOP 0.8.: Stadt und Fluss ? Innerstädtische Isarauen, Workshopergebnisse und weiteres Vorgehen
+- TOP 0.9.: Beschluss des Planungsausschusses vom 30.11.2011: 2. Stammstrecke ? Vorfinanzierung durch die Landeshauptstadt München
+- TOP 0.1.: Beschluss des Kinder- und Jugendhilfeausschusses und Sozialausschusses vom 08.11.2011: Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 0.2.: Beschluss des Sozialausschusses vom 01.12.2011: Einführung des europäischen ?Tag des Nachbarn?
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP .2.: ?Kennedys?, Sendlinger-Tor-Platz 11: Betriebszeit der Freischankfläche (vertagt)
+- TOP .2.: Neuhauser Straße 15 (?trendbox?): Warenstellage
+- TOP .2.: Schäfflertanz am 06.01.2011, Marienplatz
+- TOP 0.3.: Bekanntgabe in gemeinsamen Ausschüssen des Stadtrates vom 07.12.2011: Münchner Bürgerinnen- und Bürgerbefragung 2010
