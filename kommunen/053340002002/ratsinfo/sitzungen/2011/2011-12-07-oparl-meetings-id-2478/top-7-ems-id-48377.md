@@ -1,0 +1,8 @@
+# TOP 7: Neuaufstellung Verkehrsentwicklungsplan: 'clever mobil in Aachen'
+
+- Sitzung: öffentliche und nichtöffentliche Sitzung der Bezirksvertretung Aachen-Brand (2011-12-07)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=48377
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://ratsinfo.aachen.de/public/oparl/consultations?id=12565&bi=13258
