@@ -1,0 +1,8 @@
+# TOP 8: 1. Änderung des vorhabenbezogenen Bebauungsplanes Nr. 1115V "Parkstraße / Erbschlö" im vereinfachten Verfahren nach § 13 BauGB - Behandlung der Stellungnahmen und Satzungsbeschluss -
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Ausschusses für Stadtentwicklung, Wirtschaft und Bauen (2011-12-07)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/52251
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/24793
