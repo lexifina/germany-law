@@ -1,0 +1,63 @@
+# 17. Sitzung (Etat)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-12-07T17:02:00+01:00
+- Ende: 2011-12-07T22:25:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7811
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7811
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00317331.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Feststellung des Jahresabschlusses 2010 der Stadt Münster - einstimmig beschlossen
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Bericht über die Beteiligungen der Stadt Münster im Jahr 2010 (Beteiligungsbericht 2010) - zur Kenntnis genommen
+- TOP 4.2: Vorabgewinnausschüttung 2011 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.3: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - einstimmig geändert beschlossen
+- TOP 4.4: Wirtschaftsplan 2012 der citeq - einstimmig beschlossen
+- TOP 4.5: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 4.6: Wirtschaftsplan 2012 für Münster Marketing - ohne Beschlussfassung geschoben
+- TOP 4.7: Übertragung des Geschäftsanteils des Schweinezüchterverbandes Nord-West e.V. an der Messe und Congress Centrum Halle Münsterland GmbH - einstimmig beschlossen
+- TOP 4.8: Kapitalerhöhung bei der Flughafen Münster/Osnabrück GmbH - mehrheitlich beschlossen
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Satzung zur Änderung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten (Send und Kirmessen) in der Stadt Münster - einstimmig beschlossen
+- TOP 5.2: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 5.3: Abfallgebühren 2012 - einstimmig beschlossen
+- TOP 5.4: Straßenreinigungsgebühren 2012 - mehrheitlich beschlossen
+- TOP 5.5: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2012 - einstimmig beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Beitritt der Stadt Münster zur Einkaufsgenossenschaft kommunale Verwaltungen im Deutschen Stadtetag - einstimmig beschlossen
+- TOP 6.2: Handy-Parken (E-Parking / Mobile-Parking) in Münster - einstimmig geändert beschlossen
+- TOP 6.3: Aktueller Sachstand zu international ausgerichteten Bildungsangeboten - einstimmig beschlossen
+- TOP 6.4: Peter-Wust-Schule - einstimmig beschlossen
+- TOP 6.5: Errichtung einer städtischen Gesamtschule und auslaufende Auflösung der Paul-Gerhardt-Realschule - einstimmig geändert beschlossen
+- TOP 6.6: Lehranstalt für pharmazeutisch-technische Assistenten/innen Münster (PTA-Lehranstalt) - mehrheitlich geändert beschlossen
+- TOP 6.7: Errichtung einer neuen Sporthalle für das Ostviertel - einstimmig beschlossen
+- TOP 6.8: Machbarkeitsstudie für den Bau eines neuen Hallenbades an gleicher Stelle des ehemaligen Südbades - mehrheitlich geändert beschlossen
+- TOP 6.9: Wassertemperaturen in städtischen Freibädern, Nachrüstoptionen für eine Zusatzheizung - einstimmig beschlossen
+- TOP 6.10: Fortführung der Teilnahme am European Energy Award - einstimmig beschlossen
+- TOP 7: Haushaltsplan 2012 sowie Ergebnis- und Finanzplanung bis 2015
+- TOP 7.1: Anträge und Anregungen
+- TOP 7.1.1: Anregungen nach § 24 Gemeindeordnung NRW
+- TOP 7.1.2: Vorschläge zum Bürgerhaushalt
+- TOP 7.1.3: Sonstige Anträge und Einwendungen
+- TOP 7.1.4: Anträge aus der Politik
+- TOP 7.2: Veränderungsblätter/-listen
+- TOP 7.3: - Haushaltsplan der Stadt Münster für das Haushaltsjahr 2012 - mehrheitlich geändert beschlossen
+- TOP 8: Immobilienmanagement
+- TOP 8.1: Gebäudeleitlinien der Stadt Münster - vertagt
+- TOP 8.2: Weiterführung der Wärmedämmstandards in Münster mit schrittweiser Einführung des Passivhausstandards - ohne Beschlussfassung geschoben
+- TOP 8.3: Überprüfung der weitgespannten Tragwerke in städtischen Gebäuden - ohne Beschlussfassung geschoben
+- TOP 8.4: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - vertagt
+- TOP 8.5: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - vertagt
+- TOP 8.6: Optimierung bürgerorientierter Dienstleistungen: Sanierung Stadthaus 1 - vertagt
+- TOP 8.7: Schillergymnasium, Gertrudenstr.5 : Fenster- und Fassadensanierung - ohne Beschlussfassung geschoben
+- TOP 8.8: Ausschreibung der städtischen Liegenschaft "York-Ring / Steinfurter Straße" - einstimmig beschlossen
+- TOP 9: Verschiedenes
