@@ -1,0 +1,82 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2011-12-07T17:15:00+01:00
+- Ende: 2011-12-07T22:41:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1595
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1595
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 3.1: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4: Geschäftliches - erledigt
+- TOP 5: Der Bürgermeister hat das Wort - erledigt
+- TOP 6: Entschließungen - erledigt
+- TOP 7: Vorlagen zur Wahl - (offen)
+- TOP 7.1: Wahl zur stellvertretenden Bezirksverordnetenvorsteherin - gewählt
+- TOP 8: Vertagte Drucksachen aus vorangegangenen Sitzungen - (offen)
+- TOP 8.1: Wahl zum Bezirksstadtrat auf Vorschlag der Fraktion der Grünen - gewählt
+- TOP 9: Überreichung der Ernennungsurkunde und Vereidigung eines Mitgliedes des Bezirksamtes - erledigt
+- TOP 10: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 10.1: Verteilung der Geschäftsbereiche unter den Mitgliedern des Bezirksamtes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 10.2: Einführung eines neuen Mitgliedes in die Bezirksverordnetenversammlung Neukölln von Berlin - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 11: Vorlagen zur Wahl - (offen)
+- TOP 11.1: Wahl eines stellvertretenden Bürgerdeputierten in den Integrationsausschuss - gewählt
+- TOP 11.2: Nachwahl von Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 11.3: Nachwahl eines stellvertretenden Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 11.4: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 12: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Nachrücken eines Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.3: Benennung von Bezirksverordneten für den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Vereinbarung zur bezirklichen Rahmenkonzeption "Schule und Jugendhilfe" - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Mündliche Anfragen - (offen)
+- TOP 14.1: Übernachtungen im Columbiabad - beantwortet
+- TOP 14.2: Neuköllner Modell - beantwortet
+- TOP 14.3: Bezirklicher Schulraumbedarf - beantwortet
+- TOP 14.4: Leiharbeiter im Bezirksamt - beantwortet
+- TOP 14.5: Zusätzliches Haushaltsrisiko durch Baumaßnahmen - beantwortet
+- TOP 14.6: Insolvenz der Treberhilfe - beantwortet
+- TOP 14.7: Bildungsgutscheine in Neukölln - beantwortet
+- TOP 14.8: Jugendarbeit bei vorläufiger Haushaltsführung - beantwortet
+- TOP 14.9: Baustelle Zwickauer Damm - schriftlich beantwortet
+- TOP 14.10: Versorgungsauftrag Postdienstleistung gefährdet? - schriftlich beantwortet
+- TOP 15: Beschlussempfehlungen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Große Anfragen - (offen)
+- TOP 16.1: Säuft das Blumenviertel (wieder) ab? - beantwortet
+- TOP 16.2: Nutzung von Grundstücken im Sinne Neuköllns - beantwortet
+- TOP 16.3: Herauslösung der Schulstationen aus dem Jugendamt - beantwortet
+- TOP 16.4: Kompetenzbarrieren in Neuköllner Bibliotheken - beantwortet
+- TOP 16.5: Rechtsextremismus in Neukölln - vertagt
+- TOP 16.6: Wie geht es weiter mit dem Straßenausbaubeitragsgesetz (StrABG)? - vertagt
+- TOP 16.7: Öffentlicher Beschäftigungssektor und Bürgerarbeit - vertagt
+- TOP 16.8: Bauschäden ehemalige Frauenklinik - vertagt
+- TOP 17: Große Anfragen - schriftlich - erledigt
+- TOP 18: Anträge - (offen)
+- TOP 18.1: Pflegestützpunkt in Süd-Neukölln - überwiesen
+- TOP 18.2: Fahr-Rat - ohne Änderungen in der BVV beschlossen
+- TOP 18.3: Radweg Hannemannstraße - überwiesen
+- TOP 18.4: U-Bahnlinie 7 - überwiesen
+- TOP 18.5: Fair statt prekär: Tarifvertrag für Dozenten der VHS und der Musikschule - überwiesen
+- TOP 18.6: Überquerungshilfe Treptower/Harzer Straße - überwiesen
+- TOP 18.7: Durchfahrverbot für Lastkraftwagen - überwiesen
+- TOP 18.8: Anzahl der Bürgerdeputierten im Integrationsausschuss erhöhen - vertagt
+- TOP 18.9: Info über Aufhebung des Pfändungsschutzes - überwiesen
+- TOP 18.10: Initiative des Bezirkes gegen Rechtsextremismus - überwiesen
+- TOP 18.11: Treppengeländer am Buschkrugpark - überwiesen
+- TOP 18.12: Ehemalige Frauenklinik retten - überwiesen
+- TOP 19: Mitteilungen - erledigt
+- TOP 20: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 20.1: Bevölkerung bei der "Schweinegrippe" nicht im Stich lassen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 20.2: Verbesserung der notärztlichen Versorgung von Kindern in Neukölln - mit Zwischenbericht zur Kenntnis genommen
+- TOP 20.3: Therapeutische Versorgung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 20.4: Leitlinien für Patientenfürsprecher - mit Abschlussbericht zur Kenntnis genommen
