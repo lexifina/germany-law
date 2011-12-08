@@ -1,0 +1,55 @@
+# Sitzung des Rates der Stadt
+
+- Körperschaft: Stadt Castrop-Rauxel
+- Beginn: 2011-12-08T16:10:00+01:00
+- Ende: 2011-12-08T19:05:00+01:00
+- Ort: Ratssaal, Europaplatz 1, 44575 Castrop-Rauxel, ,
+- Status: durchgeführt
+- Gremium: https://castroprauxel.gremien.info/oparl/organization/RAT
+- Ratsinformationssystem: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-58
+- OParl: https://castroprauxel.gremien.info/oparl/meeting/ni_2006-RAT-58
+- Quelle: https://castroprauxel.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://castroprauxel.gremien.info/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2006-RAT-58
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Antrag von den Fraktionen SPD, CDU, FDP, Grüne, FWI und Die Linke; Resolution gegen Rechtsextremismus
+- TOP 3: Bestellung eines Bürgerbeauftragten
+- TOP 4: Antrag der FWI-Fraktion vom 14. November 2011; Änderung Schulentwicklungsplan
+- TOP 5: Soziale Stadt Habinghorst hier: Maßnahmen- und Finanzierungskonzept
+- TOP 6: Zweite Änderung der Hauptsatzung der Stadt Castrop-Rauxel vom 7. Dezember 2007
+- TOP 7: Rücknahme der Verfassungsbeschwerden gegen die Gemeindefinanzierungsgesetze 2009 und 2010
+- TOP 8: Beteiligung an der Einkaufsgemeinschaft Kommunaler Verwaltungen eG (EKVeG)
+- TOP 9: Auflösung der Gesellschaft bürgerlichen Rechts 'Hasenwinkel'
+- TOP 10: Finanzcontrolling: Unternehmensbericht Stand 20.10.2011
+- TOP 11: Sachstandsbericht Haushaltssicherungskonzept
+- TOP 12: Regionalbahn RB 43 Dortmund - Castrop-Rauxel - Wanne-Eickel - Dorsten (Emschertalbahn)
+- TOP 13: 1. Demografiebericht der Stadt Castrop-Rauxel
+- TOP 14: Ernennung des Wehrführers und der stellvertretenden Wehrführer der freiwilligen Feuerwehr der Stadt Castrop-Rauxel
+- TOP 15: Erlass einer Ordnungsbehördlichen Verordnung über das Offenhalten von Verkaufsstellen an Sonn- und Feiertagen
+- TOP 16: Änderung der Satzung über Erlaubnisse und Gebühren für Sondernutzungen an öffentlichen Straßen und Plätze in der Stadt Castrop-Rauxel (Sondernutzungssatzung)
+- TOP 17: Erhebung von Elternbeiträgen nach Inkrafttreten des 1. KiBiz-Änderungsgesetzes (Kinderbildungsgesetz - KiBiz) vom 01.08.2011
+- TOP 18: Genehmigung eines Dringlichkeitsentscheids gemäß § 60 Abs. 1 Satz 2 der Gemeindeordnung NW; hier: Haushaltsüberschreitung bei der Buchungsstelle 11.14/0279.785100 Neubau Turnhalle an der Janusz-Korczak-Gesamtschule (Konjunkturpaket 2) in Höhe von insgesamt 99.990,55 €
+- TOP 19: Muslimischer Waschungsraum auf dem Friedhof Merklinde - Bereitstellung zusätzlicher Haushaltsmittel bei den Buchungsstellen 55.06/0442.785400 und 55.06/0442.783100 sowie Änderung der Investitions-Dringlichkeitsliste 2011
+- TOP 20: Änderung der Investitions-Dringlichkeitsliste für das Jahr 2011 sowie überplanmäßige Mittelbereitstellung bei Buchungsstelle 54.01/0382.785800 (Endausbau Auf der Flur)
+- TOP 21: Erlass einer 1. Änderungssatzung zur Satzung zur Abänderung der Fristen bei der Dichtheitsprüfung von privaten Abwasserleitungen gemäß § 61 a Abs. 3 - 7 LWG NRW in der Stadt Castrop-Rauxel (Fristensatzung).
+- TOP 22: Erlass einer 3. Änderungssatzung zur Kreislaufwirtschafts- und Abfallsatzung des EUV Stadtbetriebes Castrop-Rauxel vom 07.12.2007.
+- TOP 23: Gebührenbedarfsberechnung 2012 'Straßenreinigung' und Erlass einer Straßenreinigungs- und Gebührensatzung
+- TOP 24: Gebührenbedarsberechnung 2012 und Erlass einer Gebührensatzung zur Entwässerungssatzung
+- TOP 25: Erlass einer 5. Änderungsentgeltordnung für Sonderleistungen des EUV Stadtbetriebes Castrop-Rauxel.
+- TOP 26: Benennung eines beratenden Mitgliedes des Jugendhilfeausschusses
+- TOP 27: Bereitstellung von 230.000 € für das Haushaltsjahr 2011 bei der Buchungsstelle 11.08.504100 -Beihilfen-
+- TOP 28: Nutzung des Versammlungsraums im Kindergarten Lummerland
+- TOP 29: Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen vom 16. November 2011; Umbesetzung der Ausschüsse
+- TOP 30: Antrag der Fraktionen SPD und Bündnis 90 / Die Grünen vom 14. November 2011; Einrichtung von Stellen für den Bundesfreiwilligendienst
+- TOP 31: Antrag der CDU-Fraktion vom 25. Oktober 2011; Änderung der Geschäftsordnung
+- TOP 32: Antrag der Fraktion Die Linke vom 20. Oktober 2011; Ausschussumbesetzung
+- TOP 33: Antrag der Fraktion Die Linke vom 26. September 2011; Technische Nachrüstung von Aufzügen in öffentlichen Gebäuden
+- TOP 34: Antrag der UBP-Fraktion vom 16. November 2011; Einführung einer Mobilfunk-Mast-Steuer
+- TOP 35: Anfragen der Ratsmitglieder
+- TOP 36: Mitteilungen der Verwaltung
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
