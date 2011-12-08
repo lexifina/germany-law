@@ -1,0 +1,63 @@
+# Beteiligungsausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-12-08T17:00:00+01:00
+- Ende: 2011-12-08T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-71
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQtMV5WQNc37PUXzD-MXg4Y
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3937
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Beteiligungsausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdy7j4ZKyEGQo-fb3-2uVtEYVa3rrOAzYodXfjKoV04v/Oeffentliche_Niederschrift_Beteiligungsausschuss_08.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 15. Sitzung des Beteiligungsausschusses am 04.10.2011
+- TOP 3: Protokoll über die gemeinsame Sitzung des Betriebsausschusses Entsorgung, des Betriebsausschusses Dienstleistungsbetriebe und des Beteiligungsausschusses am 04.10.2011
+- TOP 4: Kommunalbeirat der MVV Energie
+- TOP 5: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 6: Jahresabschluss 2010 der EntsorgungsBetriebe Solingen
+- TOP 7: Jahresabschluss 2010 der EntsorgungsBetriebe Solingen
+- TOP 8: Jahresabschluss 2010 des Technischen Betriebes Straßen und Grün
+- TOP 9: Jahresabschluss 2010 des Technischen Betriebes Straßen und Grün
+- TOP 10: Wirtschaftsplan 2012 der Technischen Betriebe Solingen
+- TOP 11: Wirtschaftsplan 2012 der Technischen Betriebe Solingen
+- TOP 12: Betriebssatzung des DBSG
+- TOP 13: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 14: Auslaufende Auflösung des Bereichs Beschäftigung und Qualifizierung der Bergischen Volkshochschule
+- TOP 15: Jahresabschluss 2010 der Bergischen Volkshochschule - Zweckverband der Städte Solingen - Wuppertal
+- TOP 16: Finanzierungsübertragung auf den VRR
+- TOP 17: Gründung der "Bergische Gesellschaft für Ressourceneffizienz mbH"
+- TOP 18: Bestandsaufnahme Anteilsverkauf/Alternativenbetrachtung Stadtwerke Solingen GmbH
+- TOP 19: Verschiedenes
+- TOP 20: Sachstand RWE-Aktien
+- TOP 21: Einführung eines Sozialtickets in Solingen
+- TOP 22: Sachstandsbericht Verkehrsverbund Rhein-Ruhr (VRR)
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 15. Sitzung des Beteiligungsausschusses am 04.10.2011
+- TOP 3: Protokoll über Fortsetzung der 15. Sitzung des Beteiligungsausschusses am 13.10.2011
+- TOP 4: Berichtswesen für die Betriebe und Gesellschaften der Stadt Solingen
+- TOP 5: Jahresabschluss 2010 der Entsorgung Solingen GmbH
+- TOP 6: Jahresabschluss 2010 der Entsorgung Solingen GmbH
+- TOP 7: Wirtschaftsplan 2012 der Entsorgung Solingen GmbH
+- TOP 8: Wirtschaftsplan 2012 der Entsorgung Solingen GmbH
+- TOP 9: Bestellung eines Wirtschaftsprüfers
+- TOP 10: Vorberatung von Gesellschafterbeschlüssen der Altenzentren der Stadt Solingen gemeinnützige GmbH im schriftlichem Umlaufverfahren
+- TOP 11: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 12: Vorberatung von Gesellschafterbeschlüssen der Städtisches Klinikum Solingen gemeinnützige GmbH im schriftlichen Umlaufverfahren
+- TOP 13: Vorberatung der Gesellschafterversammlung der Kunstmuseum Solingen Betriebsgesellschaft mbH am 19.12.2011
+- TOP 14: Vorberatung eines Gesellschafterbeschlusses der Solinger Bädergesellschaft mbH im schriftlichen Umlaufverfahren
+- TOP 15: Vorberatung eines Gesellschafterbeschlusses der Regionale 2006 GmbH i. L. im schriftlichen Umlaufverfahren
+- TOP 16: Vorberatung eines Gesellschafterbeschlusses der Bergischen Entwicklungsgesellschaft mbH (BEA) im schriftlichen Umlaufverfahren
+- TOP 17: Vorberatung der Gesellschafterversammlung der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG am 21. Dezember 2011
+- TOP 18: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) am 16.12.2011
+- TOP 19: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) am 16.12.2011
+- TOP 20: Vorberatung eines Gesellschafterbeschlusses der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 21: Vorberatung der Gesellschafterversammlung der Stadtwerke Solingen GmbH am 12.12.2011
+- TOP 22: Vorberatung von Gesellschafterbeschlüssen der Beteiligungsgesellschaft Stadt Solingen mbH im schriftlichen Umlaufverfahren
+- TOP 23: Verschiedenes
+- TOP 24: Genossenschaften und Dauerschuldverhältnisse
