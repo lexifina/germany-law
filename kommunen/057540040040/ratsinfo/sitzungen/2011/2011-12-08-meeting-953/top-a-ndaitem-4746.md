@@ -1,0 +1,6 @@
+# TOP A.: Öffentliche Sitzung
+
+- Sitzung: Haupt- und Finanzausschuss (16. Sitzung) (2011-12-08)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/4746
