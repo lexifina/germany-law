@@ -1,0 +1,64 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-12-08T17:00:00+01:00
+- Ende: 2011-12-08T19:24:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5215
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5215
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00169464.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00169464.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00169464.pdf
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - mehrheitlich beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Gewerbeflächen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87 - mehrheitlich beschlossen
+- TOP 7: Zuschüsse der Bezirksvertretung 8 - vertagt
+- TOP 8: Friedhöfe Eller und Unterbach - beantwortet
+- TOP 9: Renaturierung von Fließgewässern im Stadtbezirk 8 - beantwortet
+- TOP 10: Hundeauslaufflächen im Stadtbezirk 8 - beantwortet
+- TOP 11: Wohn- und Geschäftshaus Gumbertstraße 153 - beantwortet
+- TOP 12: Verschlammung Eselsbach - beantwortet
+- TOP 13: Arbeitskreis Kultur im Stadtbezirk 8 e.V. - beantwortet
+- TOP 14: JFE Chemnitzer Straße 51a - beantwortet
+- TOP 15: Einzelhandel im Stadtbezirk 8 - beantwortet
+- TOP 16: Platzverweise im Stadtbezirk 8 - beantwortet
+- TOP 17: LKW-Zufahrt zum Dillenburger Weg / Waagenstraße - beantwortet
+- TOP 18: LKW - Verkehr auf dem Sandträgerweg - beantwortet
+- TOP 19: Umweltzone im Stadtbezirk 8 - beantwortet
+- TOP 20: Förderung des Radverkehrs im Stadtbezirk 8 - beantwortet
+- TOP 21: Straßenbeleuchtung Erfurter Weg / Kamper Weg - beantwortet
+- TOP 22: Bürgersteig Höherweg - beantwortet
+- TOP 23: Unterirdische Containerstation im Bereich Kamper Weg - beantwortet
+- TOP 24: Behindertengerechte Haltestellen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 25: Verkehrsführung Reisholzer Straße / Schlesische Straße - einstimmig beschlossen
+- TOP 26: Beleuchtung Grünanlage Chemnitzer Straße - einstimmig beschlossen
+- TOP 27: Radwegeverbindung Hasseler Richtweg zum Eller Forst / Unterbacher See - einstimmig beschlossen
+- TOP 28: Fahrradständer Wasserspielplatz Schlosspark Eller - einstimmig beschlossen
+- TOP 29: Barrierefreiheit S-Bahnhof Eller - einstimmig beschlossen
+- TOP 30: Ausstattung Düssel - Fußwege - einstimmig beschlossen
+- TOP 31: Unterführung Vennhauser Allee - einstimmig beschlossen
+- TOP 32: Sitzmöglichkeiten am Denkmal Unterbach - zur Kenntnis genommen
+- TOP 33: Ergebnisse der Etatberatungen in den Fachausschüssen - zur Kenntnis genommen
+- TOP 34: Radverkehr Zwickauer Straße - zur Kenntnis genommen
+- TOP 35: Sitzungstermine der Bezirksvertretung 8 im Jahre 2012 - zur Kenntnis genommen
+- TOP 36: Fahrplanänderung Buslinie 737 - zur Kenntnis genommen
+- TOP 37: Baumfällungen an der Südlichen Düssel - zur Kenntnis genommen
+- TOP 38: Behindertengerechter Umbau von Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: Öffentlicher Bücherschrank im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 40: Barrierefreier Ausbau der Bushaltestelle Unterbach - zur Kenntnis genommen
+- TOP 41: Am Turnisch-Planergänzung - zur Kenntnis genommen
+- TOP 42: Bezirkshaushaltspläne - zur Kenntnis genommen
+- TOP 43: Geschwindigkeitsregelung Gubener Straße - zur Kenntnis genommen
+- TOP 44: Friedhöfe Eller und Unterbach - zur Kenntnis genommen
+- TOP 45: Hundeauslaufflächen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 46: Erscheinungsbild von Gleisflächen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 47: Postagentur Vennhausen - zur Kenntnis genommen
