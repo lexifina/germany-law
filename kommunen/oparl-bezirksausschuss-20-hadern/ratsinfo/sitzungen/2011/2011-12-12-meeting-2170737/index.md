@@ -1,0 +1,111 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2011-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2170737
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2170737
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Randsteine am Lorettoplatz
+- TOP 1.2.: Ortstermin Waldwiesenstraße
+- TOP 1.3.: Zustand Grundstück Terofalstraße 25
+- TOP 1.4.: Energetische Sanierung von 84 Wohnungen und Aufstockung der Gebäude Willibaldstraße 148 - 154 und Krokusstraße 63 - 69, Aktuelle Abstimmung mit der LBK
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Sanierung Skateboardplatz an der Ludlstraße (Grünen-Fraktion)
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, TSV München-Großhadern v. 1926 e.V., Erwerb von 2 Trikotsätzen für 2 Jugendmannschaften (Direktorium, 21.11.11)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des OB, hier: Aufstellen von Zeitungsverkaufseinrichtungen an den Standorten: Guardinistraße 108, 119, 152; Max-Lebsche-Platz 10; Sauerbruchstraße 2 a, 10; Senftenauerstraße 1; Würmtalstraße 130, 132 (Kreisverwaltungsreferat, 24.11.11)
+- TOP 5.3.: Budget der Bezirksausschüsse, ergon e.V., Projekt "Hadern - der blühende Obstgarten Münchens" vom 01.02. - 31.12.2012 (Direktorium, 01.12.11)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Würmtalstraße 166, Neubau eines Mehrfamilienhauses und dreier Reihenhäuser mit TG
+- TOP 6.2.: Planung der Einsätze der Münchner Sommer SpielAktion 2012 (Spielen in der Stadt, 17.11.11)
+- TOP 6.3.: Bezirksausschüsse in "Stadtteilräte" umbenennen, Antrag BA 4 Schwabing-West (Direktorium, 16.11.11)
+- TOP 6.4.: Stiftsbogen 12, Neubau Aufstockung (Referat für Stadtplanung und Bauordnung, 23.11.11)
+- TOP 6.5.: Verkehrsrechtliche Anordnung, hier: Haltverbot in der Senftenauerstraße westlich der Silberdistelstraße (Kreisverwaltungsreferat, 24.11.11)
+- TOP 6.6.: Ortstermin im Landschaftspark (Baureferat, 30.11.11)
+- TOP 6.7.: Beschlussentwurf für den Ausschuss für Stadtplanung und Bauordnung: Schaffung von Einkaufsmöglichkeiten in der Gelbhofstraße (Ziffer 1 des Antrages) (Referat für Stadtplanung und Bauordnung, 07.12.11)
+- TOP 6.8.: Wolkerweg 14, Erweiterung des Wohnstifts - Vorbescheid (Referat für Stadtplanung und Bauordnung, 07.12.11)
+- TOP 6.9.: Guardinistraße 109 - 123, Aufstockung eines Wohngebäudes - Vorbescheid (Referat für Stadtplanung und Bauordnung, 07.12.11)
+- TOP 6.10.: Gräfelfinger Straße 66 - 70 c, Aufstockung von Wohngebäuden zur Schaffung neuen Wohnraums - Vorbescheid (Referat für Stadtplanung und Bauordnung, 07.12.11)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Würmtalstraße 49, gem. Baumbestandsplan Nr. 25903
+- TOP 7.2.: Hochwaldstraße 18, 1 Ahorn
+- TOP 7.3.: Sauerbruchstraße 47, 1 Ahorn
+- TOP 7.4.: Toemlingerstraße 18, 1 Birke
+- TOP 7.5.: Rodensteinstraße 5, 2 Fichten
+- TOP 7.6.: Ginsterweg 10, 2 Thujen
+- TOP 7.7.: Großhaderner Straße 47, 1 Kastanie
+- TOP 7.8.: Hirtentäschelweg 3 a, 1 Tanne
+- TOP 7.9.: Haseneystraße 19, 3 Birken
+- TOP 7.10.: Heiglhofstraße 53 - 57, 1 Akazie
+- TOP 7.11.: Hirtentäschelweg 7 a, 1 Eibe
+- TOP 7.12.: Mäuselweg 14, 1 Birke
+- TOP 7.13.: Silberdistelstraße 49, 1 Fichte
+- TOP 7.14.: Willibaldstraße 110, 1 Birke
+- TOP 7.15.: Am Brombeerschlag 31, 2 Thujen
+- TOP 7.16.: Cochemstraße 10, 2 Birken
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Sonnenblumenstraße 31, 1 Ahorn (Referat für Stadtplanung und Bauordnung, 16.11.11)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Unveränderte Fortführung eines Gaststättenbetriebs, hier: "Gelat OK" Terofalstraße 8 (Kreisverwaltungsreferat, 22.11.11)
+- TOP 8.2.: Übersicht über die Schulleitungen im Stadtbezirk (Referat für Bildung und Sport, 21.11.11)
+- TOP 8.3.: Zweckentfremdung von Wohnraum, hier: - Silberblattstraße (Sozialreferat, 02.11.11) - Hertlstraße (Sozialreferat, 08.11.11) - Neufriedenheimer Straße (Sozialreferat, 23.11.11)
+- TOP 8.4.: Verkehrsrechtliche Anordnung, hier: Prälat-Wellenhofer-Straße Haltverbot (Kreisverwaltungsreferat, 28.11.11)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: Stiftsbogen 17 - 21; Einrichtung eines Verkehrshelferübergangs (Kreisverwaltungsreferat, 05.12.11)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Bezirkssportanlage am Wolkerweg (Referat für Bildung und Sport, 03.11.11)
+- TOP 9.2.: Nutzung Gelbhofstraße 6 (Referat für Stadtplanung und Bauordnung, 09.11.11)
+- TOP 9.3.: Verlängerung der U5 nach Pasing (Ziffer 2 des Antrages) (Baureferat, 03.11.11)
+- TOP 9.4.: Werbe-Plakattafeln an der Guardinistraße 33 / Ecke Kornwegerstraße (Referat für Stadtplanung und Bauordnung, 25.11.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Taktung Bus 167 (MVG, 02.11.11)
+- TOP 10.2.: Gehwegparken in der Ringstraße (PI 41, 04.11.11)
+- TOP 10.3.: Eigentumsverhältnisse am Haderner Stern (Amtsgericht München, Grundbuchamt, 22.11.11)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Antrag des BA 25 Laim vom 08.11.2011: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote
+- TOP 11.2.: Antrag des BA 12 Schwabing-Freimann vom 25.10.2011: Änderung der Straßenreinigungssatzung
+- TOP 11.3.: Termine für die "Regionalgespräche" mit der LBK (Referat für Stadtplanung und Bauordnung, 24.11.11)
+- TOP 11.4.: Urbanes Naturnetz für ganz München (Urbanes Wohnen e.V., 28.11.11)
+- TOP 11.5.: Einladung zum Abendforum "Anders Bauen wegen Klimawandel: Gebäude-Lüftung" am Dienstag, 13.12.2011 (Referat für Gesundheit und Umwelt, 29.11.11)
+- TOP 11.6.: Flyer Infoabende des Bauzentrums (Referat für Gesundheit und Umwelt, 29.11.11)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Ausschusses für Bildung und Sport vom 11.10.2011 und 12.10.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07785 (nach Antrag): Kindertagesstätten freigemeinnütziger Träger; Kinderkrippe Ludlstraße 53 Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008 - 2013 (Förderung 331.926,- ?, wovon der Freistaat Bayern 266.000,- ? trägt)
+- TOP 12.1.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07762: Haushaltsplan 2012 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere - zum "ASZ Kleinhadern-Blumenau" des "Caritasverbandes der Erzdiözese München und Freising" (CV) (Zuschuss underändert 207.101,- ?) und - zur "Altenwohnanlage Konrad-Dreher-Straße 19 - 23" des CV (Zuschuss unverändert 50.267,- ?)
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 08.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07782: Haushaltsplan 2012 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zum "Nachbarschaftstreff Blumenau" des "Deutschen Paritätischen Wohlfahrtsverbandes" (DPWV) (Zuschuss in 2012 antragsgemäß 57.500,- ?, in 2011 = 56.700,- ?), - zur "Nachbarschaftshilfe Kleinhadern, na klar!" (Zuschuss in 2012 antragsgemäß 30.000,- ?, in 2011 = 15.000,- ?, ab 2013 = 45.000,- ? wegen "Generalsanierung der Ludlstraße") und - zum Projekt "Krokusstraße 73" der Fa. "KOMPRO München Krokusstraße GmbH & Co. KG/WF" (Zuschuss antragsgemäß 3.120,- ? seit 2008, Laufzeit 5 Jahre)
+- TOP 12.3.: Beschluss des Sozialausschusses vom 01.12.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07950: Europäischer Tag des Nachbarn (Keine Beteiligung des BA Hadern "wegen einer Vielzahl ähnlicher Veranstaltungen")
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 29.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07911: Haushaltsplan 2012 Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum "Kinderhaus Wolkerweg" des "Bayer. Jugendrings" (BJR) (Zuschuss unverändert 198.148,- ?), - zum Projekt "PfiffTEEN Treffpunkt für Jugendliche" des BJR (Zuschuss unverändert 307.167,- ?), - zum "Treff 21, Schule-Beruf e.V." des DPWV (Zuschuss unverändert 341.335,- ?; beantragt waren 351.350,- ?), - zum Projekt "Studio im Netz SiN e.V." (Zuschuss unverändert 81.567,- ?), - zur "Schulsozialarbeit an 7 Grundschulen in den Stadtbezirken 10, 11, 14, 15, 17, 20-Hadern und 22" (Zuschuss unverändert 342.159,- ?; beantragt waren 344.467,- ?), - zum "Familienzentrum Hadern-Blumenau" des DPWV (Zuschuss in 2012 antragsgemäß 63.346,- ?, in 2011 62.675,- ?. Der Differenzbetrag von 671,- ? wurde dem aufgelösten Haushaltsposten für "Fachpersonal der Mütter-, Väter- und Familien-Zentren in Höhe von bisher 42.183,- ? entnommen. Der Restbetrag wurde 4 anderen Projekten zugeordnet.) und - zur "Nachbarschaft Neuhadern Bewohnertreff" des DPWV (Zuschuss unverändert 98.518,- ?)
+- TOP 12.5.: Ergänzung vom 02.11.2011 zum Beschluss des Bauausschusses vom 15.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 04822 (War vertagt mit dem Ziel, eine Pauschale zu bilden, mit der zunächst bis 2014 26 "priorisierte Haltestellen" mit mindestens 7 Punkten umgebaut werden sollen. Hadern hat keine Haltestellen mit 7 Punkten. In 2015 und 2016 sollen weitere Haltestellen mit 6 Punkten umgebaut werden, in Hadern die Haltestelle "Großhadern" der Linien 56 und N-41. Es werden 2 Kanten hergestellt.): ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern Untersuchungsergebnisse und weiteres Vorgehen, insbesondere zu den Haltestellen - Ährenfeld der Linien 56 und 167 (3 Punkte), - Ammerseestraße (Tram West Tangente = TWT, jeweils 0 Punkte), - Andreas-Vöst-Straße (TWT), - Aurikelstraße der Linie 54 (2 Punkte), - Blumenau der Linien 56, 167, 168 und N-41 (4 Punkte), - Drozzaweg (Kleinbus, jeweils 0 Punkte), - Ehrenmal (Kriegsgräberstätte) der Linien 56 und N-41 (2 Punkte), - Flemischweg der Linie 168 (1 Punkt), - Gelbhofstraße (Kleinbus), - Gräfelfinger Straße (Kleinbus), - Großhadern der Linien 56 und N-41 (6 Punkte / 2 Kanten), - Großhaderner Straße (Kleinbus), - Haderunstraße der Linien 56, 167 und N-41 (2 Punkte), - Hedernfeld (Kleinbus), - Holzapfelkreuth (TWT), - Hönigschmidplatz der Linien 168 und N- 41 (5 Punkte), - Klinikum Großhadern (Busbahnhof, jeweils 0 Punkte),
+- TOP 12.6.: - Klinikum Ost (Fremdgelände), - Kornwegerstraße der Linie 54 (0 Punkte), - Krokusstraße der Linien 56, 167 und N-41 (3 Punkte), - Kurparkstraße (Kleinbus), - Lorettoplatz (0 Punkte), - Marchioninistraße der Linien 56 und N-41 (2 Punkte), - Menaristraße der Linien 168 und N-41 (3 Punkte), - Platanenstraße der Linie 268 (barrierefrei), - Saalburgstraße der Linie 268 (0 Punkte), - Silberdistelstraße der Linien 168 und N-41 (1 Punkt), - Stiftsbogen (Kleinbus), - Terofalstraße der Linien 56, 167 und 168 (3 Punkte), - Tischlerstraße der Linien 166 und N-41 (1 Punkt), - Waldfriedhof (Busbahnhof), - Waldfriedhof-Haupteingang (TWT), - Waldhüterstraße der Linien 266 und 268 (1 Punkt), - Wastl-Witt-Straße der Linie 168 (1 Punkt), - Wildanger (Kleinbus), - Willibaldstraße der Linien 168 und N-41 (1 Punkt), - Wolkerweg (Kleinbus), - Zinkgrafstraße der Linien 266 und 268 (1 Punkt) sowie - Zöllerstraße der Linien 56 und 269 (2 Punkte)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Kulturausschusses vom 17.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08031 (laut Antrag): Mehrjahresinvestitionsprogramm (MIP) des Kulturreferates für die Jahre 2011 - 2015 und Stellungnahme zu den Anregungen der Bezirksausschüsse, insbesondere des BA Hadern zur abgeschlossenen Sanierung der Stadtbibliothek Hadern-Guardinistraße (Seite 9). Zu den weiteren Forderungen des BA Hadern auf - "Verwirklichung eines Stadtteilkulturzentrums am Max-Lebsche-Platz" und - "Einrichtung eines Stadtteil-Museums / -Archivs" nimmt das Kulturreferat auf Seite 16 und 17 Stellung. Hierauf wird Bezug genommen.
+- TOP 12.1.: Beschluss des Umweltschutzausschusses vom 29.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08119: Lärmminderungsplanung für München Entwurf des Lärmaktionsplans, insbesondere - zum "Fürstenrieder Wald, Großhadern" (Seite 14), - zum "lärmmindernden Fahrbahnbelag seit 2009 in der Fürstenrieder Straße zwischen Waldfriedhofstraße und BAB A 96" (Seite 40 - 41, Abschnitt 6.3.2.3, und Seite 175), - zur "Streckenverlängerung der U6-Süd nach Martinsried (1,3 km)" (Seite 72) und - zur "Neubaustrecke Tram-West-Tangente (8,7 km)" (Seite 72)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07906: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2015 Gliederungsziffern 3601 Natur- und Denkmalschutz 6100 Referat für Stadtplanung und Bauordnung 6101 Stadtentwicklungsplanung 6110 Lokalbaukommission 6130 Stadtplanung 6150 Städtebauförderung 6200 Wohnungsbauförderung, Wohnungsfürsorge
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07143: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP 12.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07926: Mehrjahresinvestitionsprogramm 2011 - 2015 Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011 - 2015, insbesondere zur "Sauerbruchstraße" (Anlage 1, Seite 5, MIP 179.02, und Anlage 4). Die bisherige Siedlungsmaßnahme am Stiftsbogen ist realisiert und entfällt daher aus dem MIP.
+- TOP 12.5.: Beschluss des Ausschusses für Bildung und Sport vom 09.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07927: Mehrjahresinvestitionsprogramm (MIP) 2011 - 2015 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Priorisierung von Schulbaumaßnahmen 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse, insbesondere - zur "Grundschule (GS) am Canisiusplatz 2" (Seite 3 und Anlage 1, Seite 11), - zur "GS / HS an der Guardinistraße 60" (Anlage 1, Seite 22), - zur "KiTa an der Großhaderner Straße 52 a" (Anlage 1, Seite 80), - zum "Neubau der Krippe an der Marchioninistraße 3 - 5" (Anlage 1, Seite 95), - zur "Krippe an der Violenstraße 2" (Anlage 1, Seite 97), - zum "Haus für Kinder an der Waldwiesenstraße 27" (Anlage 1, Seite 104), - zur "KiTa an der Heiglhofstraße 68" (Anlage 1, Seite 142) und - zum "Neubau einer Sporthalle des TSV M-Großhadern e.V." nach dem "Haderner Modell" (Anlage 1, Seite 166) sowie - zu den Anregungen des BA Hadern vom 12.10.2010 (Seite 23 - 25)
+- TOP 12.6.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07589: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2011 - 2015, Einzelplan 4 / Sozialbereich (Auf die Stellungnahme des BA 20 vom 11./12.10.2010 wird Bezug genommen.)
+- TOP 12.7.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 09.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 07948: PERSPEKTIVE MÜNCHEN Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz Öffentlichkeitsphase und Einarbeitung
+- TOP 12.8.: Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08187: Wohnungspolitisches Handlungsprogramm "Wohnen in München V" Wohnungsbauoffensive 2012 - 2016
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08020: Münchner Bürgerinnen- und Bürgerbefragung 2010, insbesondere zu den "Ergebnissen in Hadern" (Seite 41 - 57, Abschnitt 11.): 1. Statistik: - Anteil der Bewohner in 1-Personen-Haushalten = 34% (Seite 41, Abschnitt 11.1), - Anteil der Bewohner in Haushalten mit Kindern = 25% (Seite 42, Abschnitt 11.2), - Anteil der über 60-Jährigen = 31% (Seite 43, Abschnitt 11.3), - Anteil der Bewohner mit (Fach-)Abitur = 28% (Seite 44, Abschnitt 11.4), - Durchschnittl. Pro-Kopf-Einkommen = 1.615,- ? / Monat (Seite 45, Abschnitt 11.5) und - Durchschnittl. m²-Miete = 11,12 ? / Monat (Seite 46, Abschnitt 11.6).
+- TOP 12.2.: 2. Beurteilung des Wohnumfeldes: Zufriedenheit mit ... - der "Erreichbarkeit der Grün- und Freiflächen" = 87% (Seite 48, Abschnitt 11.7), - der "Attraktivität der Grün- und Freiflächen" = 76% (Seite 49, Abschnitt 11.8), - der "Parkmöglichkeit für eigenen PKW" = 58% (Seite 50, Abschnitt 11.9), - dem "Kulturangebot" = 42% (Seite 51, Abschnitt 11.10), - den "Einkaufmöglichkeiten im Viertel" = 76% (Seite 53, Abschnitt 11.11), - den "Sportmöglichkeiten" = 73% (Seite 53, Abschnitt 11.12), - dem "Angebot an niedergelassenen Ärzten" = 76% (Seite 54, Abschnitt 11.13), - der "Anbindung an öffentl. Verkehrsmittel" = 92% (Seite 55, Abschnitt 11.14), - den "Abstellmöglichkeiten für Fahrräder" = 68% (Seite 56, Abschnitt 11.15) und - der "Sicherheit in und außerhalb der Wohnung" = 79% (Seite 57, Abschnitt 11.16).
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
