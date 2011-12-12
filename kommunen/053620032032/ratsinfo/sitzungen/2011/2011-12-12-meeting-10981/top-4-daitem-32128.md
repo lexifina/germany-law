@@ -1,0 +1,7 @@
+# TOP 4.: Vorschau und Termine für das Jahr 2012
+
+- Sitzung: Behindertenbeirat (7. Sitzung) (2011-12-12)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/32128
+- Beschluss (Datei): Infotext (Vorschau und Termine für das Jahr 2012) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZYntafSP5HmEE6pIjRKhY1poXVRp046RlS_7QrhnbJ5Y/Infotext_TOP_4._-oeffentlich-_Behindertenbeirat_12.12.2011.pdf
