@@ -1,0 +1,71 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2011-12-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2217462
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2217462
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Grünanlage Karl-Lipp-Str. / Karlingerstr.: Lärmbelästigung
+- TOP 2.2.: Verkehrsbelastung Allacher Straße
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.1.: Bericht zur Informationsveranstaltung Gaslager Ludwigsfelder Straße (keine Beschlussfassung)
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine und Bekanntgaben
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Dirt-Bahn an der Triebstraße / Moosacher Straße
+- TOP 4.2.: Wartehäuschen für Haltestelle Merseburger Straße der Buslinie 175
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Sachstand Bahnhof Oberwiesenfeld
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Förderverein der Grundschule Amphionpark Trommelkurs für die 1. und 2. Klassen von Februar - April 2012
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Caritas-Zentrum Neuhausen/Moosach Fahrkarten für 2012 für bedürftige MoosacherInnen
+- TOP 3.4.: (E) Budget der Bezirksausschüsse AG-Buhlstraße e.V., Freizeitstätte boomerang Viedeoausstattung für Stadtteilprojekte
+- TOP 3.4.: Ein Brunnen für Moosach: Ergebnisse der Kunstkommission und Empfehlung
+- TOP 3.5.: (E) Ein Brunnen für Moosach: Ergebnis des Kunstwettbewerbes
+- TOP 6: Anhörungen
+- TOP 6.1.: Bezirksausschüsse in ?Stadtteilräte? umbenennen (Antrag des BA 4 Schwabing-West)
+- TOP 6.2.: Absolutes Haltverbot in der Wildermuthstr. / Einmündung Georg-Kainz-Str.
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Abfahrtsanzeiger im Sperrengeschoss am Moosacher Bahnhof (wurde umgestellt)
+- TOP 7.2.: Verschönerung der Pelkovenstraße (Ergebnis einer Ortsbesichtigung)
+- TOP 7.4.: Ausweitung des Halteverbotes in der Karlingerstraße vor dem Nachbarschaftstreff (Karlingerstr. 30 a)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Abgeschlossenheitsbescheinigungen (nicht öffentlich)
+- TOP 8.4.: Schulleitungen im Stadtbezirk
+- TOP 8.5.: Genehmigung für Arbeiten im Straßenraum: Hanauer Str. 1 (Reparatur einer Fernwärmeleitung)
+- TOP 8.6.: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag des BA 25 Laim)
+- TOP 8.7.: Änderung der Straßenreinigungssatzung (Antrag des BA 12 Schwabing-Freimann)
+- TOP 8.8.: Baubeginnsanzeige von Mobilfunkanlagen (nicht öffentlich)
+- TOP 8.9.: Fällung von Gefahrenbäumen 1. Riesstraße, Hanauer Straße, Triebstraße 2. Westfriedhof
+- TOP 8.10.: Verkehrsrechtliche Anordnung: Öffnung der in Richtung Osten einbahngeregelten Puchheimer Straße zwischen Zur Grünen Eiche und der Zufahrt zum Tengelmann-Markt für den gegenläufigen Radverkehr
+- TOP 8.11.: Verkehrsrechtliche Anordnung: Pelkovenstraße (absolutes Halteverbot zwischen Moos. St.-Martins-Platz und Feldmochinger Str. außerhalb der Parkbuchten
+- TOP 8.12.: Verkehrsrechtliche Anordnung: Aufhebung der Radwegbenutzungspflicht in der Pelkovenstraße zwischen Feldmochinger Straße und Hanauer Straße
+- TOP 8.13.: Wohnungsmarkt München ? Expertenbefragung 2011 (Vorlagen Nr. 08-14 / V 08216)
+- TOP 8.14.: Zukunft des geförderten Wohnungsbaus in München (Vorlagen Nr. 08-14 / V 08223)
+- TOP 8.15.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V?, Wohnungsbauoffensive 2012 ? 2016 (Vorlagen Nr. 08-14 / V 08187)
+- TOP 8.16.: Einführung des europäischen ?Tag des Nachbarn? in München (Vorlagen Nr. 08-14 / V 07950)
+- TOP 8.17.: 2. Stammstrecke, Vorfinanzierung durch die Landeshauptstadt München (Vorlagen Nr. 08-14 / V 08192)
+- TOP 8.18.: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes (Vorlagen Nr. 08-14 / V 08237)
+- TOP 8.19.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern (Vorlagen Nr. 08-14 / V 04822)
+- TOP 8.20.: Münchner Bürgerinnen und Bürgerbefragung 2010 (Vorlagen Nr. 08-14 / 08020)
+- TOP 8.21.: Haushaltsplan 2012, Sozialreferat: Produkt- und zielorientierte Ansätze für den bereich ?Förderung freier Träger? 1. des Stadtjugendamtes (Vorlagen Nr. 08-14 / V 07911) 2. des Amtes für Soziale Sicherung (Vorlagen Nr. 08-14 / 07762)
+- TOP 8.22.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011-2015 (Vorlagen Nr. 08-14 / 07926)
+- TOP 8.23.: Lämminderungsplan für München, Entwurf des Lärmaktionsplans (Vorlagen Nr. 08-14 / 08119)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
+- TOP 3: (E) Wochenmarktstandort Bunzlauer Straße, Stadtbezirk 10 ? Moosach ?Prüfung möglicher Standorte für einen Wochenmarkt im Quartierszentrum Moosach? (Ersatzstandort Flur-Nr. 1531) BA Antrag Nr. 02-08 / B 02505 des BA 10 vom 06.11.2007; ?Öffentliche Nutzung des städtischen Grundstücks Bunzlauer Straße? BA Antrag Nr. 08-14 / B 01607 des BA 10 vom 26.10.2009; ?Schaffung der baulichen Voraussetzungen für einen Wochenmarkt in der Bunzlauer Straße? BA Antrag Nr. 08-14 / B 02153 des BA 10 vom 17.05.2010 ?Provisorischer Wochenmarktstandort für Moosach? BA Antrag Nr. 08-14 / B 02954 des BA 10 vom 11.04.2011; ?Öffentl. Nutzung und Wochenmarkt an der Post in Moosach ermöglichen? Antrag Nr. 08/14 / A 01865 von Herrn Stadtrat Alexander Reissl vom 04.10.2010
