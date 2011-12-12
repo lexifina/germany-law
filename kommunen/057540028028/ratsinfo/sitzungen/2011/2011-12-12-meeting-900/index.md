@@ -1,0 +1,58 @@
+# Rat der Stadt Rheda-Wiedenbrück (14. Sitzung)
+
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Beginn: 2011-12-12T17:00:00+01:00
+- Ende: 2011-12-12T19:45:00+01:00
+- Ort: Rathaus der Stadt Rheda-Wiedenbrück, Rathausplatz 13, 33378 Rheda-Wiedenbrück, Raum 155
+- Status: 
+- Gremium: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/organization/1-1
+- Ratsinformationssystem: https://ratsinfo.rheda-wiedenbrueck.de/tops/?__=UGhVM0hpd2NXNFdFcExjZWYfdMdA7bfujAieKQPLQAo
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/meeting/900
+- Quelle: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYzVhQDGASL7iL8eczATUqPKvG-TfkRc1d-V5OzHHgHY/Bekanntmachung_Rat_der_Stadt_Rheda-Wiedenbrueck_12.12.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat der Stadt Rheda-Wiedenbrück) https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfF4wvnC95Lp9G6wH7Xl1ju809wYxKkjXr2F_5Xfbwfj/Oeffentliche_Niederschrift_Rat_der_Stadt_Rheda-Wiedenbrueck_12.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Mitteilung des Vorsitzenden und der Verwaltung
+- TOP 2: Erklärung von Ausschließungsgründen
+- TOP 3: Einwohnerfragestunde
+- TOP 4: Gesetz über die Sicherung von Tariftreue und Sozialstandards sowie fairen Wettbewerb bei der Vergabe öffentlicher Aufträge (Tariftreue- und Vergabegesetz Nordrhein-Westfalen - TVgG NRW); Antrag der FDP-Fraktion vom 27.10.2011 - 12 Ja-Stimme(n), 18 Nein-Stimme(n)
+- TOP 5: Antrag der SPD-Fraktion zur Verabschiedung einer Resolution gegenüber der Bundesregierung zur Stärkung der Kommunalfinanzen - Einstimmig
+- TOP 6: Antrag der CDU-Fraktion vom 28.11.2011 auf Vorbereitung einer Klage im Falle der Verabschiedung des Stärkungspaktgesetzes des Landes Nordrhein-Westfalen - mehrheitlich zugestimmt
+- TOP 7: - Umbesetzung im Schulausschuss - Umbesetzung im Aufsichtsrat der FGS – Fördergesellschaft Wirtschaft und Kultur mbH Rheda-Wiedenbrück - Einstimmig
+- TOP 8: Änderung der Zuständigkeitsordnung des Rates der Stadt Rheda-Wiedenbrück für die Fachausschüsse - Einstimmig
+- TOP 9: Bestimmung der Vorsitzenden und stellvertretenden Vorsitzenden der Ausschüsse - Einstimmig
+- TOP 10: Personelle Zusammensetzung des Jugendhilfeausschusses der Stadt Rheda-Wiedenbrück - Einstimmig
+- TOP 11: Satzung über die Erhebung von Elternbeiträgen für Kindertageseinrichtungen - einstimmig bei 1 Enthaltung
+- TOP 12: Satzung über die Erhebung von Elternbeiträgen für Kindertagespflege - einstimmig bei 1 Enthaltung
+- TOP 13: Familienförderung: Ausweitung des Anspruches auf Erwerb einer Familienkarte für die städtischen Freibäder auf alle eheähnlichen Lebensgemeinschaften - einstimmig bei 1 Enthaltung
+- TOP 14: Stiftung "Gemeinnützige Wohnungshilfe Rheda-Wiedenbrück" - Jahresabschluss 2010 - Kenntnisnahme
+- TOP 15: Jahresabschluss 2010 - Einbringung des Entwurfes gem. § 95 GO NRW - Einstimmig
+- TOP 16: Bekanntgabe der im Zeitraum seit Januar 2011 gem. § 83 II GO NRW geleisteten über- und außerplanmäßigen Aufwendungen und Auszahlungen - Kenntnisnahme
+- TOP 17: Überplanmäßige Bereitstellung von Haushaltsermächtigungen - 33 Ja-Stimme(n), 2 Nein-Stimme(n)
+- TOP 18: Neufassung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren - 34 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 19: Anpassung der Beitrags- und Gebührensatzung der Stadt Rheda-Wiedenbrück für die Inanspruchnahme der städtischen Abwasseranlagen - Einstimmig
+- TOP 20: Einbringung des Entwurfes der Haushaltssatzung mit Anlagen für das Haushaltsjahr 2012 - Einstimmig
+- TOP 21: Wirtschaftsplan 2011 des Betriebes Bauhof - Genehmigung einer Dringlichkeitsentscheidung zur Erhöhung des Ansatzes für investive Mittel - Einstimmig
+- TOP 22: Wirtschaftsplan für den Betrieb Bauhof für das Wirtschaftsjahr 2012 - Einstimmig
+- TOP 23: Wirtschaftsplan für den Eigenbetrieb Abwasser für das Wirtschaftsjahr 2012 Vorlage des Entwurfs - Einstimmig
+- TOP 24: Sanierung und Neubau der Feuer- und Rettungswache Wiedenbrück - 34 Ja-Stimme(n), 1 Enthaltung(en)
+- TOP 25: Feuerschutz Ausnahmegenehmigung zum Betrieb einer ständig besetzten Feuerwache mit hauptamtlichen Kräften - Bescheid der Bezirksregierung Detmold vom 30.09.2011 - Kenntnisnahme
+- TOP 26: Integriertes Handlungskonzept für den Historischen Stadtkern Wiedenbrück a) Grundsatzbeschluss b) Beschluss über eine Sanierungssatzung - 29 Ja-Stimme(n), 5 Nein-Stimme(n), 1 Enthaltung(en)
+- TOP 27: 2. Änderung des Bebauungsplans Nr. 280 "Walrawenweg" im vereinfachten Verfahren gem. § 13 BauGB a) Beratung und Beschlussfassung über die während der Offenlage gem. § 13 Abs. 1 Nr. 2 i. V. m. § 3 Abs. 2 BauGB und der Beteiligung der Behörden und Träger öffentlicher Belange gem. § 13 Abs. 1 Nr. 3 i. V. m. § 4 Abs. 2 BauGB eingegangenen Anregungen b) Satzungsbeschluss gem. § 10 (1) BauGB - Einstimmig
+- TOP 28: 73. Änderung des Flächennutzungsplanes „Sportplatz St. Vit"; Antrag auf Änderung des Regionalplans - Einstimmig
+- TOP 29: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 30: Bericht über den Bearbeitungsstand sämtlicher Fraktions- und Bürgeranträge - Kenntnisnahme
+- TOP 31: Dringende Anfragen und Anregungen
+- TOP II.: Nichtöffentliche Sitzung
+- TOP 32: Mitteilungen des Vorsitzenden und der Verwaltung
+- TOP 33: Erklärung von Ausschließungsgründen
+- TOP 34: Berichte der Vertreter der Stadt Rheda-Wiedenbrück in Unternehmen oder Einrichtungen, an denen die Stadt Rheda-Wiedenbrück beteiligt ist
+- TOP 35: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 35.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 36: Aufwandsentschädigung für Führungskräfte der Freiwilligen Feuerwehr Rheda-Wiedenbrück - Einstimmig
+- TOP 37: Aktueller Stand der städtischen Geldanlagen - Kenntnisnahme
+- TOP 38: Bericht zur Beschlusskontrolle - Kenntnisnahme
+- TOP 39: Dringende Anfragen und Anregungen
