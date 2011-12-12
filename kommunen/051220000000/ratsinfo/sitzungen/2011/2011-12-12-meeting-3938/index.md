@@ -1,0 +1,52 @@
+# Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-12-12T16:00:00+01:00
+- Ende: 2011-12-12T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-49
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWnU11giHsWGJhCV7lOh7C4
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3938
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtentwicklung, Umwelt, Klimaschutz und Mobilität) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcGHyK1U793ALOSs64wPGAjKhX5QF5CTqT3U6eyJTVlS/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtentwicklung-_Umwelt-_Klimaschutz_und_Mobilitaet_12.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Barrierefreier Ausbau des Bahnhofs Schaberg
+- TOP 4: Regionales Bioenergiemanagement für die Städte Wuppertal, Remscheid und Solingen sowie den Kreis Mettmann
+- TOP 5: Lärmaktionsplan der Stadt Solingen -Öffentlichkeitsbeteiligung
+- TOP 6: Festsetzung der Überschwemmungsgebiete am Eschbach und am Lobach durch die Bezirksregierung Düsseldorf
+- TOP 7: Tourismuskonzept Burg Müngsten - Sachstand Einzelmaßnahmen
+- TOP 8: Monitoring Brückenpark - Abschlussbericht
+- TOP 9: Fifty-fifty-Energiesparen
+- TOP 10: Finanzierungsübertragung auf den VRR
+- TOP 11: Prüfung zusätzlicher Tempo-30-Zonen
+- TOP 12: Ersatz für den durch die HSK-Maßnahme 182 wegfallenden Sportplatz Hermann-Löns-Weg-Nebenplatz
+- TOP 13: Einziehung des unterirdischen Fußgängerverbindungsweges von der Kirchstraße zur Straße Am Neumarkt
+- TOP 14: City 2013
+- TOP 15: Arbeitsprogramm Bauleitplanung
+- TOP 16: Arbeitsprogramm Bauleitplanung
+- TOP 17: Bauleitplanung Heiligenstock/Aachener Straße
+- TOP 18: Bauleitplanung Graf-Wilhelm-Platz/Neumarkt
+- TOP 19: Bauleitplanung Burger Landstraße/Dorperhof
+- TOP 20: Schäden Isarweg
+- TOP 21: Höhe von Sitzbänken im öffentlichen Raum
+- TOP 22: Verkehrsführung Dickenbusch
+- TOP 23: Schienenpersonenverkehr – Bahnhöfe
+- TOP 24: Spielplatz Graf-Engelbert-Straße/Elisenstraße - Sachstandsbericht
+- TOP 25: Nahverkehrsplanung
+- TOP 26: Schienenverkehr in Solingen
+- TOP 27: Ansiedlung eines IKEA Einrichtungshauses und eines angegliederten Fachmarktzentrums in Wuppertal-Oberbarmen - Projektstand
+- TOP 28: Verschiedenes
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Bauleitplanung Burger Landstraße/Dorperhof
+- TOP 2: Bauleitplanung Heiligenstock/Aachener Straße
+- TOP 3: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 4: Protokoll
+- TOP 5: Kundencenter am Hauptbahnhof Solingen-Ohligs
+- TOP 6: Schäden am Isarweg
+- TOP 7: Verschiedenes
