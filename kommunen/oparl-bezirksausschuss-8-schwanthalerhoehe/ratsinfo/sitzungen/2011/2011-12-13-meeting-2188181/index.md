@@ -1,0 +1,58 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2011-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2188181
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2188181
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Bushaltestellen-Standort: Kazmairstraße
+- TOP 4.2.: Haltverbot in der Landsberger Str. 84-90
+- TOP 4.3.: Sauberkeit an der neuen Bushaltestelle in der Kazmairstr. 56a
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Antwortschreiben des BA 7 Sendling-Westpark: Städtebauliche Entwicklung Hansa-/ Tübinger Straße
+- TOP 5.3.: Anhörung: Neubau in der Landsberger Str. 55
+- TOP 5.4.: Anhörung: Nutzungsänderung in der Parkstr. 31a
+- TOP 5.5.: Anhörung: Bauvorhaben in der Anglerstr. 4+6, Heimeranstr. 68 sowie in der Heimeranstr. 70
+- TOP 5.6.: Anhörung: Nutzungsänderung Guldeinstr. 50
+- TOP 5.7.: Anhörung: Vorbescheid Schrenkstr. 8, Westendstr. 66a
+- TOP 5.8.: Schreiben des KJR: Westendstr. 66a - Ein junges Haus für die Münchner Jugendarbeit
+- TOP 5.9.: Regionalgespräch: Terminauswahl 2012
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Antrag des BA 25: Ferienangebote für Kinder
+- TOP 6.2.: Spielen in der Stadt: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP 6.3.: Treffam - Treffpunkt Familie International: Erhalt von Beschäftigungsstellen oder Entwicklung von geeigneten Alternativen
+- TOP 6.4.: Ergebnisse des Fachgespräches zum Thema "Ganztagesbildung"
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: (E) Müllcontainer in der Trappentreustraße vor dem Kindergarten entfernen und dafür einen Radlständer anbringen Empfehlung Nr. 08-14 / E 01003 der Bürgerversammlung des Stadtbezirkes 08 - Schwanthalerhöhe am 30.06.2011
+- TOP 8.2.: Entscheidung: Verkaufseinrichtung in der Schwanthalerstr. 118
+- TOP 8.3.: Theresienwiese und Bavariapark: Bürgernutzung und Gestaltung
+- TOP 8.4.: Anhörung: Wendeverbot Landsberger Str. / Schrenkstr.
+- TOP 8.5.: Liste: Bauvorhaben der Stadtwerke München
+- TOP 8.6.: Antwortschreiben des RAW: Baumaßnahmen der SWM
+- TOP 8.7.: Beschlussvorlage: Stadttauben
+- TOP 8.8.: Antrag des BA 12 Schwabing-Freimann: Änderung der Straßenreinigungssatzung bzw. sicherungs-Verordnung der Landeshauptstadt München
+- TOP 8.9.: Antwortschreiben ADAC: Beleuchtung des Hochhaus-Neubaus
+- TOP 8.10.: Umfrage URBANES WOHNEN e.V.: Urbanes Naturnetz für ganz München!
+- TOP 8.11.: Anhörung: Freischankfläche Gaststätte Ridler, Gollierstr. 83
+- TOP 8.12.: Einrichtung eines Verkehrshelferüberganges in der Bavariastr 12d / 14d
+- TOP 8.13.: Beschlussvorlage: 2. Stammstrecke; Vorfinanzierung durch die Landeshauptstadt München
+- TOP 8.14.: Instandsetzungsarbeiten an der Donnersbergerbrücke
+- TOP 8.15.: Anhörung: Schaffung einer Anfahrtszone vor der Kindertagesstätte Schwanthalerstr. 111
+- TOP 9: Budget und Finanzen
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anhörung: Bezirksausschüsse in "Stadtteilräte" umbenennen
+- TOP 12: Protokoll und Umlauf
