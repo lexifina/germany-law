@@ -1,0 +1,139 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2011-12-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2091340
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2091340
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.1.: 08.11.2011
+- TOP 1.1.3: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.2.1: Vorstand
+- TOP 2.1.: Abrechnung der Verwaltungskosten
+- TOP 2.2.: Veranstaltung des Nordostforums am 23.4.2012 mögliches Thema: Ergebnis des Prüfauftrags des Planungsreferats zur städtebauliche Entwicklungsmaßnahme in unserem Stadtbezirk
+- TOP 2.3.: Schaffung von Räumlichkeiten für Kultur und bürgerschaftliche Nutzung im Baugebiet der ehemaligen Prinz-Eugen-Kaserne; ?13er Kulturzentrum?; Kulturbürgerhaus - Satzung; Änderungsantrag zum Beschlussentwurf
+- TOP 2.4.: Weitere Themen aus der Tagesordnung
+- TOP 2.5.: Verschiedenes
+- TOP 2.2.2: Unterausschuss Planung
+- TOP 2.1.: Prinz-Eugen-Park, Weiterentwicklung der Planung im zentralen Bereich, Information durch das Planungsreferat HA II/12.
+- TOP 2.2.: Leben am zentralen Platz im Prinz-Eugen-Park, Antrag.
+- TOP 2.3.: Fehlende Post- und Postbankfiliale in der Parkstadt Bogenhausen und Umgebung, Bürgerschreiben.
+- TOP 2.5.: Urbanes Naturnetz für ganz München, Anfrage Urbanes Wohnen e.V. vom 24.11.11
+- TOP 2.6.: Bebauungsplan mit Grünordnung Nr. 1539, Töginger Straße/ BAB A 94 (südlich), Bahnlinie München-Mühldorf (nördlich), S-Bahnlinie München-Ismaning (östlich), - Hüllgraben -, Anhörung.
+- TOP 2.2.3: Unterausschuss Verkehr
+- TOP 2.1.: Aufstellung von Zeitungsentnahmekästen (Verkaufseinrichtungen auf öffentlichem Grund) in der Englschalkinger Str. 14+73+74, Prinzregentenplatz 14+23, Musenberstr. 19, Freischützstr. 99; Beschluss des BA 13 vom 13.12.2011
+- TOP 2.2.: Prinzregentenstraße zw. Richard-Strauss-Straße und Prinzregentenplatz, Halteverbotsregelung und Verkehrssituation Isarring/ John F. Kennedybrücke Richtung Schwabing; Bürgerschreiben vom 03.11.2011
+- TOP 2.3.: Verlängerung Buslinie 100 ab Prinzregentenplatz, Verbesserungsvorschlag der Verkehrsanbindung, Bürgerschreiben vom 23.10.2011
+- TOP 2.4.: Weltenburger Str. 53, Ausfahrt Parkplatzareal Turnerschaft Jahn, Halteverbot für einen Stellplatz, Bürgerschreiben vom 29.10.2011
+- TOP 2.5.: Verlängerung der Buslinie 187 in Richtung Oberföhring; Unterschriftensammlung vom 27.10.2011
+- TOP 2.6.: Friedrich-Eckart-Straße / Nettelbeckstraße, Ersatz des Zebrastreifens durch eine Ampel; Bürgerschreiben vom 08.11.2011
+- TOP 2.7.: Johanneskirchner Straße zw. Freischützstraße und Cosimastraße, Durchsetzen von Parkverboten; Behindertengerechter Zugang und Instandhaltung S-Bahnhaltestelle Johanneskirchen; Bürgerschreiben vom 17.11.2011
+- TOP 2.8.: Revaler Straße, Verkehrssituation, Umsetzung Einbahnstraßenregelung aus dem Workshop vom 22.07.2011; Bürgerschreiben vom 23.11.2011
+- TOP 2.9.: Effnerstraße, weitere Abbiegerampel in Richtung Cosimastraße; Bürgerschreiben vom 25.11.2011
+- TOP 2.10.: Lohengrinstr. 21, Parkplätze für Generalkunsulat der Ver.Arab.Emirate; Antwort des Baureferates vom 10.11.2011 (zu TOP 2.3.7/09/11)
+- TOP 2.11.: Isaminger Straße: Wiederherstellung Parkplätze, Entschärfung der Randsteine; Herkomerplatz: Wiederherstellung Schrägparkplätze; Verkehrsplanung und Optimierung Ampelschaltung; Effnerplatz: verkehrsflüssigere Gestaltung und Parkplätze; Runde Abbiegespuren und flachere Randsteine im gesamten Stadtgebiet; Elektrastr./ Englschalkinger Str.: Wiedermontage Grüner Abbiegepfeil, Optimierung Ampelphasen und bessere Beleuchtung; Sternwart-/ Ismaninger Str.: Überprüfung Ampelschaltungen und Schaffung von Parkplätzen; Johanneskirchner-/Cosimastr.: Optimierung der Abbiegespuren; Johanneskirchner- /Freischützstr.: Ampelschaltung nur bis 20 Uhr; Richard-Strauss-Str. und Seitenstraßen: Verkehrsbeschleunigter Umbau; Föhringer Ring: Tempo 80-Zone; St. Emmeram: Rückbau der Busbuchten; 18 Bürgeranträge vom 27.10.2011
+- TOP 2.12.: S-Bahnhof Johanneskirchen, Behindertengerechter Zugang und Instandhaltung; Antrag SPD-Fraktion
+- TOP 2.13.: Radfahren in St. Emmeram gegen die Einbahnrichtung ermöglichen; Antrag SPD-Fraktion
+- TOP 2.14.: Bürgerworkshop vom 29.11.11 zum Thema Verkehr Bauvorhaben Prinz-Eugen: Effnerstraße, Installation zweier Lichtzeichenanlagen an Lohengrinstraße und Wahnfriedallee; Erschließung Prinz-Eugen-Park, östliche Zufahrt und Feuerwehrzufahrten; Bürgervorschläge vom 30.11.2011
+- TOP 2.16.: Mitteilung der MdBA
+- TOP 2.2.4: Unterausschuss Umwelt, Gesundheit
+- TOP 2.1.: 2.4.1 Baumfällungen (Anhörungen) 2.4.1.1 Seeligerstr. 8 2 Fichten, 1 Kiefer 2.4.1.2 Johanneskirchner Str. 163 1 Ahorn 2.4.1.3 Soldnerweg 8 1 Birke 2.4.1.4 Johanneskirchner Str. 148 7 Bäume 2.4.1.5 Regina-Ullmann-Str. 18-40 1 Esche (zweistämmig) 2.4.1.6 Denninger Str. 202-208 1 Weide (dreistämmig) 2.4.1.7 Denninger Str. 210-218 1 Flügelnuss (zweistämmig) 2.4.1.8 Trakehner Pl. 9 1 Tanne 2.4.1.9 Jankstr. 6 lt. Plan 2.4.1.10 Daglfinger Str. 14a 1 Schwarzkiefer (zweistämmig) 2.4.1.11 Oberföhringer Str. 274 2 Hainbuchen, 1 Lärche 2.4.1.12 Posener Str. 2a 1 Linde 2.4.1.13 Konitzer Str. 11 1 Robinie, 1 Eibe 2.4.1.14 Hermannstr. 6 1 Holunder, 1 Kiefer, 1 Fichte 2.4.1.15 Soldauer Str. 3 (Haus A) Lt. Plan 2.4.1.16 Soldauer Str. 3 (Haus B) Lt. Plan 2.4.1.17 Weltenburger Str. 37 3 Fichten 2.4.1.18 Denninger Str. 189 lt. Plan 2.4.1.19 Pienzenauerstr. 76 lt. Plan 2.4.1.20 Oberföhringer Str. 204 lt. Plan
+- TOP 2.2.: 2.4.2 Baumfällungen (Unterrichtungen) 2.4.2.1 Elbestr. 5 Abweichender Genehmigungsbescheid (Ersatzpflanzungsbescheid) 2.4.2.2 Normannenpl. 1 - 3 1 Tanne 2.4.2.3 Telramundstr. 16 Genehmigungsbescheid 2.4.2.4 Brahmsstr. 20 1 Fichte 2.4.2.5 Brahmsstr. 22 1 Blaufichte 2.4.2.6 Westpreußenstr. 28a Ablehnungsbescheid 2.4.2.7 Wesendonkstr. 77 1 Linde 2.4.2.8 Brahmsstr. 15 1 serbische Fichte 2.4.2.9 Kulmer Str. 18 1 Birke 2.4.2.10 Effnerstr. 76 2 Linden 2.4.2.11 Truderinger Str. 10 Unterrichtung des Baureferats über das Fällen von Gefahrenbäumen 2.4.2.12 Meistersingerstr. 56 1 Blauzeder 2.4.2.13 Rambaldistr. 39 Genehmigungs- bzw. Ablehnungsbescheid 2.4.2.14 Effnerstr. (FlNr. 291/6; Gem. Bogenhausen) 1 Linde 2.4.2.15 Effnerstr. 35 1 Spitzahorn 2.4.2.16 Marienburger Str. 65 1 Birke 2.4.2.17 Libauer Str. 51 1 Akazie 2.4.1.18 Flemingstr. 89 1 Birke
+- TOP 2.2.5: Unterausschuss Haushalt, Satzung
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Nord Süd Forum München e.V. Nachdruck der Broschüre "Münchens Kolonialviertel"
+- TOP 2.2.: Bezirksausschüsse in ?Stadtteilräte? umbenennen; BA4-Antrags-Nr. 08-14 / B 03414 vom 26.10.2011; Anhörung Direktorium vom 16.11.2011
+- TOP 2.3.: Mediation Rauchstraße, Abschlussbericht für das Haushaltsjahr 2011; Schreiben Fr. Dr. Jüsten vom 09.10.2011; - Gemeinsame Abschlusserklärung von VertreterInnen der Nachbarschaft im Umfeld Rauchstraße, Vertretern Corps Bavaria Rauchstraße 17 und SteG vom 13.12.2011
+- TOP 2.2.6: Unterausschuss Soziales, Bildung, Sport
+- TOP 2.1.: Kinderspielplatz Zamilapark, Einzäunung und Austausch des Sandes; Schreiben des Baureferates vom 16.11.2011 (zu TOP 2.6.2/11/11)
+- TOP 2.3.: Planung der Einsätze der Münchner Sommer-SpielAktion 2012; Schreiben von Pädagogische Aktion/Spielen in der Stadt e.V. vom 17.11.2011
+- TOP 2.4.: Bericht vom REGSAM ? Treffen im Sozialbürgerhaus am 01.12.2011
+- TOP 2.2.7: Unterausschuss Kultur, Projekte
+- TOP 2.1.: Kulturfaltplan: 1. Quartal 12, Stand der Bearbeitung
+- TOP 2.2.: Kulturtage im 13er, jährlich ab 2012; Bericht von der AG am 17.11.11, 19:00 Uhr, weiteres Vorgehen
+- TOP 3: Bürgeranträge (ohne Vorberatung)
+- TOP 3.1.: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und -sicherungs-Verordnung der Landeshauptstadt München; Antrag des BA 12 Schwabing-Freiman vom 25.10.2011, Antrags-Nr. 08-14 / B 03412; Schreiben vom 07.11.2011
+- TOP 3.2.: Zahlen über Auslastung bei den Ferienangeboten des Stadtjugendamtes, ggf. Ausweitung und Aufstockung der Ferienangebote; Antrag des BA 25 Laim vom 08.11.2011; Schreiben vom 14.11.2011
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 1: (E) Bogenhausen bleibt bunt! Resolution gegen die Veranstaltungen der rechtsextremen Gruppe Danubia Antrag Nr. 08-14 / B 03088 des Bezirksausschusses des Stadtbezirk 13 - Bogenhausen vom 07.06.2011
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 5.1.: Eröffnungsfeier Tram St. Emmeram - Bürgerfest der MVG auf dem Grundstück an der Cosimastr./ Ecke Englschalkinger Str., Flurstück 193/1, am 10.12.2011 von 11.00 - 19.00 Uhr; Zustimmung gemäß § 20 I Satz 1 BA-Satzung, z.Kt.
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.2.: Ein Englischer Garten. Park an der Oberfläche vereinigen
+- TOP 6.3.: Bedarf an Ganztagsschulplätzen ermitteln, Übermittlung der Daten
+- TOP 6.5.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern, Untersuchungsergebnisses und weiteres Vorgehen, Ergänzende Vorlage vom 02.11.201 zum Beschluss des Bauausschusses vom 15.11.2011; Plätze im 13. Stadtbezirk beleben ? Herkomerplatz umgestalten; BA-13-Antrags-Nr. 08-14 / B 02899 vom 12.04.2011
+- TOP 6.6.: Widmung des parallel laufenden Weges zu der Oberföhringer Straße; Beschluss des BA 13 vom 02.08.2011, Vollzug des Baureferates, Schreiben vom 21.11.2011
+- TOP 6.7.: Flughafenanbindung auf der S8-Trasse: Beschluss des Stadtplanungsausschusses vom 30.11.2011 - Tunnellösung beim vierspurigen Ausbau Daglfing / Johanneskirchen, BA-13-Antrags-Nr. 08-14 / B 03433 vom 08.11.2011 (zu TOP 3.1/11/11) - Veröffentlichung des Gutachtens zur Express-S-Bahn zum Flughafen im Interesse der Planungssicherheit; BV-13-Empfehlung Nr. 08-14 / E 00845 vom 21.10.2010 - Sofortige und vollständige Untertunnelung der Bahntrasse zum Flughafen vom Bereich des Autobahnzubringers Riem bis zu dem bereits bestehenden Bahntunnel in Unterföhring; BV-13-Empfehlung Nr. 08-14 / E 01141 vom 27.10.2011
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.7.1: Direktorium
+- TOP 7.1.: Protokoll zum BA-Vorsitzendentreffen am 15.09.2011
+- TOP 7.7.2: Baureferat
+- TOP 7.7.3: RGU
+- TOP 7.1.: Lärmminderungsplanung für München, Entwurf des Lärmaktionsplans; Beschluss des Umweltschutzausschusses vom 29.11.2011
+- TOP 7.7.4: KommRef.
+- TOP 7.7.5: KVR
+- TOP 7.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Ermlandstr. 1
+- TOP 7.2.: Beschilderung Effnerplatz, verkehrsrechtliche Anordnungen des KVR
+- TOP 7.3.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Schnorr-von-Carolsfeld-Str. 18
+- TOP 7.4.: Unveränderte Gaststättenfortführung: ?Oscar?, vormals ?Shisha Time?, Fritz-Meyer-Weg 55
+- TOP 7.7.6: Kulturref.
+- TOP 7.7.7: PlanungsReferat
+- TOP 7.1.: Meldeliste Erstantragsverfahren in der Zeit vom 24.10.2011 ? 27.11.2011: Donaustr. 38; Im Moosgrund 21; Asgardstr. ; Possartstr. 33; Englschalkinger Str. 77; Elektrastr. 11; Jankstr. 6; Oberföhringer Str. 204; Elektrastr. 6; Graudenzer Str. 15; Soldauer Str. 3; Denninger Str. ; Berenter Str. 30; Prinzregentenstr. 85; Oberföhringer Str. 27; Marienburger Str. 9
+- TOP 7.2.: Meldeliste Änderungsverfahren in der Zeit vom 24.10.2011 ? 27.11.2011: Richard-Strauss-Str. 82; Wimmerstr. 9; Merzstr. 1; Regina-Ullmann-Str. 6; Pienzenauerstr. 76; Englschalkinger Str. 77; Prinzregentenpl. 7
+- TOP 7.3.: Meldeliste Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide sowie Freistellungsverfahren in der Zeit vom 24.10.2011 ? 27.11.2011: Flemingstr. ; Donaustr. 38; Richard-Strauss-Str. 50; Denninger Str. 156; Zamdorfer Str. 14; Soldauer Str. 3; Oberföhringer Str.
+- TOP 7.4.: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes, Entscheidungen des Landesdenkmalrates vom 27.05 und 01.07.2011; Beschluss des Stadtplanungsausschusses vom 30.11.2011
+- TOP 7.5.: Wohnungsmarkt München ? Expertenbefragung 2011, Wohnungsmarktbarometer 2011; Bekanntgabe im Stadtplanungsausschuss vom 07.12.2011
+- TOP 7.6.: Mehrjahresinvestitionsprogramm 2011 ? 2015; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011 ? 2015; Beschluss des Stadtplanungsausschusses vom 09.11.2011
+- TOP 7.7.: Bebauungsplan mit Grünordnung Nr. 2036, Meistersingerstraße (westl.), Robert-Heger-Straße (südl.) - Teiländerung des Bebauungsplanes Nr. 43c; Billigungsbeschluss des Stadtplanungsausschusses vom 30.11.2011
+- TOP 7.8.: Zukunftschance für den ÖPNV München XXL verbreitern ? nicht verbauen: die INZELL-Initiative untersucht das Potenzial von Zweisystem U-S-Bahnfahrzeugen für die Region München; Beschluss des Stadtplanungsausschusses vom 12.10.2011
+- TOP 7.9.: Zukunft des geförderten Wohnungsbaus in München; Beschluss des Stadtplanungsausschusses vom 07.12.2011
+- TOP 7.10.: 2. Stammstrecke, Vorfinanzierung durch die Landeshauptstadt München; Beschluss des Stadtplanungsausschusses vom 30.11.2011
+- TOP 7.11.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V?, Wohnungsbauoffensive 2012 ? 2016; Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011
+- TOP 7.12.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015: Natur- und Denkmalschutz, Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Lokalbaukommission, Stadtplanung, Städtebauförderung, Wohnungsbauförderung, Wohnungsfürsorge; Beschluss des Stadtplanungsausschusses vom 09.11.2011
+- TOP 7.13.: Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München; Beschluss des Stadtplanungsausschusses vom 09.11.2011
+- TOP 7.14.: Perspektive München: Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung; Beschluss von Stadtplanungsausschuss und Umweltschutzausschuss vom 09.11.2011
+- TOP 7.7.8: Referat für Bildung und Sport
+- TOP 7.1.: Mehrjahresinvestitionsprogramm (MIP) 2011 ? 2015: Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, Priorisierung von Schulbaumaßnahmen, verfahrenstechnische Neuerungen; Beschluss des Ausschusses für Bildung und Sport vom 09.11.2011
+- TOP 7.2.: Kinderkrippe Arabellastraße 30, Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung? 2008-2013; Beschluss des Ausschusses für Bildung und Sport vom 30.11.2011
+- TOP 7.7.9: Soz.Ref.
+- TOP 7.1.: Münchner Bürgerinnen- und Bürgerbefragung 2010; Bekanntgabe in der gemeinsamen Sitzung des Stadtplanungsausschusses, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011
+- TOP 7.2.: Einführung des europäischen ?Tag des Nachbarn? in München; Beschluss des Sozialausschusses vom 01.12.2011
+- TOP 7.3.: Haushaltsplan 2012, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 29.11.2011
+- TOP 7.4.: Haushaltsplan 2012, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.2011
+- TOP 7.5.: Haushaltsplan 2012, Produkt- und zielorientierte Ansätze für den ?Bereich Förderung freier Träger? des Amtes für Soziale Sicherung; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.2011
+- TOP 7.6.: Haushaltsplan 2012, Produkt- und zielorientierte Ansätze für den ?Bereich Förderung freier Träger? des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.2011
+- TOP 7.7.: Zweckentfremdung von Wohnraum durch Abbruch; Hofererweg 6 vorher 305m² bzw. 1 WE, geplant 1074 m² bzw. 9 WE
+- TOP 7.7.10: POR
+- TOP 7.7.11: Kämmerei
+- TOP 7.7.12: RAW
+- TOP 7.7.13: MVG
+- TOP 7.7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.1.: Stromprojekt Cosimastraße, 45. - 49. KW (neu)
+- TOP 7.2.: Erdgasprojekt Savitsstraße, 45. - 51. KW
+- TOP 7.3.: Fernwärmeprojekt Erschließung Bogenhausen, Possartstraße, 43. - 49. KW
+- TOP 7.4.: Fernwärmeprojekt Erschließung Bogenhausen, Keplerstraße, 33. - 48. KW (neu)
+- TOP 7.7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Berichte
+- TOP 8.8.1: Berichte der BA-Beauftragten
+- TOP 8.8.2: Evtl. Bericht der Polizei
+- TOP 9: Sonstiges
+- TOP 9.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Mitteilungen der BA-Vorsitzenden
+- TOP 9.9.3: Mitteilungen der MdBA
+- TOP 9.9.4: Termine
+- TOP 10: Nichtöffentlicher Teil
+- TOP 10.1.: siehe Einladung zum nichtöffentlichen Teil
+- TOP 2.3.: Weitere Themen aus der aktuellen Tagesordnung
+- TOP 2.4.: Verschiedenes, Termine
+- TOP 6.1.: Freie Natur erschließen ? Feldweg entlang des Sechserbachs für Fußgänger und Radfahrer nutzbar machen
+- TOP 6.4.: Nutzung des Grundstückes des ab 31.07.2011 ehemals städtischen Kindergartens Rößeler Str. 3 für die Kinder- und Jugendarbeit
