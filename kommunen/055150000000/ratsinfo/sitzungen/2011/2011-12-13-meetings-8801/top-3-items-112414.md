@@ -1,0 +1,7 @@
+# TOP 3: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel
+
+- Sitzung: gemeinsame Sitzung der Bezirksvertretung Münster-West mit dem Ausschuss für Schule und Weiterbildung (2011-12-13)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/112414
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/48439
