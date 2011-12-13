@@ -1,0 +1,117 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2011-12-13T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2094204
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2094204
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Leuchtendes Herz" Kunstaktion "Leuchtendes Herz" am 24.12.2011
+- TOP 2: (E) Ganztageszug für die Grundschule Stielerstraße
+- TOP 2.1.: Antrag des BA 25: Aufforderung des Stadtjugendamts bzgl. Vorlage der Zahlen über die Auslastung bei den Ferienangeboten
+- TOP 2.1.: Vorkaufsrecht nach dem BauGB (0)
+- TOP 2.2.: Zweckentfremdung von Wohnraum (0)
+- TOP 2.3.: BA-Budget: Bescheide (2)
+- TOP 2.4.: Verwendungsnachweise (4)
+- TOP 2.5.: Beschlussvorlage des RGU bzgl. Erhalt alter Friedhöfe als Kulturstätten
+- TOP 2.6.: Beschlussvorlage des Sozialreferats bzgl. Einführung des europäischen ?Tag des Nachbarn?
+- TOP 2.7.: Beschlussvorlage des Sozialreferats bzgl. Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamts
+- TOP 2.8.: Beschlussvorlage bzw. Bekanntgabe des Sozialreferats bzgl. Münchner Bürgerbefragung 2010
+- TOP 2.9.: Beschlussvorlage des Kulturreferats bzgl. Mehrjahresinvestitionsprogramm 2011-2015
+- TOP 2.10.: Veranstaltungen des Kulturreferats im Dezember 2011
+- TOP 2.11.: Beschlussvorlage des Sozialreferats bzgl. Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration
+- TOP 2.12.: Beschlussvorlage des Sozialreferats bzgl. Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung
+- TOP 2.13.: Beschlussvorlage des Sozialreferats bzgl. Haushaltsplan 2012 ? Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? der Zentrale
+- TOP 2.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP 2.5.1: Berichte der Beauftragten
+- TOP 2.3.1: Bauvorhaben
+- TOP 2.1.: Lindwurmstr. 137: Neubau eines Wohn- und Geschäftshauses; Tektur
+- TOP 2.2.: Landwehrstr. 77-79: Teilnutzungsänderung und Erweiterung eines Wohnheims in ein Hotel, Abbruch eines Gewerbe-/ Neubau eines Wohngebäudes; Vorbescheid
+- TOP 2.3.: Baldestr. 16: Anbau von 4 Balkonen
+- TOP 2.4.: Fraunhoferstr. 10: Renovierung und Umbau einer Wohnung
+- TOP 2.5.: Poccistr. 5: Nutzungsänderung von Schulungsräumen in eine Spielothek
+- TOP 2.6.: Haydnstr. 10: Ausbau des Dachspeichers zu Wohnraum, Vergrößerung einer Gaube, Errichtung von zwei Dachterrassen und Anbau einer Fluchtleiter
+- TOP 2.7.: Isartalstr. 42: Erneuerung und Vergrößerung von Balkonen
+- TOP 2.8.: Müllerstr. 45: Teilung und Zusammenlegung sowie Grundrissänderungen von Wohneinheiten und Errichtung einer Tiefgarage
+- TOP 2.9.: Häberlstr. 10: Nutzungsänderung eines Dachraums zu Wohnzwecken und Einbau einer Dachgaube
+- TOP 2.10.: Buttermelcherstr. 12: Erstellung von vier Doppelstockgaragen
+- TOP 2.11.: Museumsinsel 1: Nutzungsänderung des Sammlungs- sowie des östlichen und westlichen Verbindungsbaus des Deutschen Museums zum Museum mit Versammlungsstätten einschl. Umbaumaßnahmen zur brandschutztechnischen Ertüchtigung; Tektur
+- TOP 2.12.: Schwanthalerstr. 95-97: Neubau eines Mehrfamilienhauses mit Gewerbeflächen und Tiefgarage
+- TOP 2.13.: Auenstr. 21: Neubau von Wohngebäuden; Vorbescheid
+- TOP 2.14.: Nachtrag: Goethestraße 32-34: Abbruch der Bestandsgebäude Goethestraße 32 (VGB + RGB) sowie des Behelfsbaus Goethestraße 34 (PLENUMSBESCHLUSS)
+- TOP 2.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 2.1.: Baumfällung Schmellerstr. 13
+- TOP 2.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1.: Umstrukturierung Klinikum der Universität ? Campus Innenstadt
+- TOP 2.1.: Baumaßnahmen SWM
+- TOP 2.2.: Neubau eines Hotels in der Schwanthalerstr. 42: Antwortschreiben der LBK zu Stellungnahme des BA 2
+- TOP 2.3.: Neubau zweier Wohnhäuser in der Haydnstr. 4-8: Antwortschreiben des Wohnungsamts
+- TOP 2.4.: Beschlussvorlage des RGU bzgl. Lärmminderungsplanung und Entwurf eines Lärmaktionsplans
+- TOP 2.5.: Dacherhöhung des Rückgebäudes, Aufstockung des Vordergebäudes und Nutzungsänderung im Rückgebäude von Kuttlerei in einen Wellness- und Pflegesalon in der Adlzreiterstr. 3: Antwortschreiben der LBK zu Stellungnahme des BA 2
+- TOP 2.6.: Beauftragung des Kommunalreferats bzgl. der Betreuung des ehemaligen Toilettenhäuschens am Holzplatz
+- TOP 2.7.: Beschlussvorlage des Planungsreferats bzgl. ?Umsteigen leicht gemacht am Hauptbahnhof?
+- TOP 2.8.: Mobilfunk-Anzeigen
+- TOP 2.9.: Beschlussvorlage des Planungsreferats bzgl. wohnungspolitischem Handlungsprogramm
+- TOP 2.10.: Beschlussvorlage des Baureferats bzgl. Radverkehrsanlagen in der Kapuzinerstr. und Kompensationsmaßnahmen Bus
+- TOP 2.11.: Beschlussvorlage des Referats für Arbeit und Wirtschaft bzgl. Sanierungsbedarf in U-Bahnhöfen und Modernisierung des U-Bahnhofs Sendlinger Tor
+- TOP 2.12.: Beschlussvorlage des Planungsreferats bzgl. ?Stadt und Fluss ? Innerstädtischer Isarraum?
+- TOP 2.13.: Beschlussvorlage des Planungsreferats bzgl. 2.Stammstrecke
+- TOP 2.14.: Beschlussvorlage des Planungsreferats bzgl. Zukunft des geförderten Wohnungsbaus in München
+- TOP 2.15.: Bekanntgabe des Planungsreferats bzgl. Wohnungsmarkt München ? Expertenbefragung 2011, Wohnungsmarktbarometer 2011
+- TOP 2.16.: Genehmigung des Bauvorhabens Lessingstraße 3, Schreiben der LBK vom 30.11.2011(zu TOP B 3.1.7 in 10/11)
+- TOP 2.17.: Sitzungsvorlage bzgl. ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 2.18.: Naturdenkmalverordnung mit Naturdenkmalliste
+- TOP 2.1.: Barrierefreier Zugang zur Isar auf Höhe der Reichenbachbrücke
+- TOP 2.5.1: Bericht des Beauftragten
+- TOP 2.2.1: Gaststättenangelegenheiten
+- TOP 2.1.: Reichenbachstr. 19: ?Beisl?- Erweiterung einer bestehenden Freischankfläche
+- TOP 2.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.1.: Hans-Sachs-Str. 3: Warenauslage
+- TOP 2.2.: Schillerstr. 23: Aufstellung eines mobilen Fahrradständers
+- TOP 2.3.: Schillerstr. 3a: Aufstellung eines mobilen Fahrradständers
+- TOP 2.4.: Häberlstr. 1: Warenauslagen
+- TOP 2.5.: Lindwurmstr. 123: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (PLENUMSBESCHLUSS)
+- TOP 2.2.3: Sonstige Entscheidungen
+- TOP 2.1.: (E) Verhinderung der Lkw-Falle Isartalstraße (Ziffer 2) Empfehlung Nr. 08-14 / E 00957 der Bürgerversammlung des 2. Stadtbezirkes Ludwigsvorstadt-Isarvorstadt am 19.05.2011
+- TOP 2: (E) Zebrastreifen an der Kreuzung Mai-/Waltherstraße (Ziffer 2 des Antrages) Empfehlung Nr. 08-14 / E 00954 der Bürger- versammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt vom 19.05.2011
+- TOP 3: (E) Deutlichere Kennzeichnung der Tempo-30-Zone in der Tumblingerstraße (Ziffer 1) Empfehlung Nr. 08-14 / E 00953 der Bürgerver- sammlung des 2. Stadtbezirkes Ludwigsvorstadt-Isarvorstadt am 19.05.2011
+- TOP 3.4.: (E) Dialog zwischen Akteuren und Anwohnern des Kulturstrandes an der Corneliusbrücke und Genehmigung des Strandes auch in Zukunft Empfehlung Nr. 08-14 / E 00575 der Bürger- versammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt vom 20.05.2010
+- TOP 3.3.2: Verkehr
+- TOP 3.1.: Aufhebung des Geradeausfahrgebots an der Kreuzung Bayer-/Hermann-Lingg-Str.
+- TOP 3.2.: Radfahren auf der Brücke am Westermühlbach (Höhe Holzstr.)
+- TOP 3.3.: Nachtrag: Errichtung einer Ladezone für die Rossmann-Filiale in der Fraunhoferstraße 11 (PLENUMSBESCHLUSS)
+- TOP 3.4.: Nachtrag: Schrägparken in der Haydnstraße (PLENUMSBESCHLUSS)
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 3.3.: Unveränderte Gaststättenfortführungen: - Ickstattstr. 2a: ?Marietta? - Hans-Sachs-Str. 3: ?Bamyan Narges? - Reichenbachstr. 55: ?Prince? - Pestalozzistr. 22: "Zum Wolfi" - Thalkirchner Str. 2: ehemals ?Erste Liga? (neuer Name steht noch nicht fest)
+- TOP 3.4.: Verkehrsrechtliche Anordnungen
+- TOP 3.5.: Erlaubnisbescheide: - Stephansplatz: ?Pink Christmas? - Reinigungsarbeiten an U-Bahnhöfen - Ausnahmezulassung für Baumaßnahmen an der Fernwärmeleitung an der Ickstatt-/Klenzestraße
+- TOP 3.6.: Antwortschreiben des RGU bzgl. Beschwerde eines Bürgers über Lärmemissionen durch die Braunauer Eisenbahnbrücke
+- TOP 3.7.: Überwachung des Grillverbots an der Isar
+- TOP 3.8.: Anbringung des Hinweisschildes ?Fußgänger? an der Grünanlage am Westermühlbach Ecke Kapuziner- Pestalozzistr.
+- TOP 3.9.: Stellungnahme des Baureferats bzgl. der Nutzung der Theresienwiese 2 und Freizeitnutzung der Theresienwiese
+- TOP 3.10.: Beschwerde eines Bürgers über Lokal in der Corneliusstr. 16
+- TOP 3.1.: Parkplätze in der Haydnstr.
+- TOP 3.2.: Versetzung der Pflanztröge Bayerstraße 15 (Eisdiele)
+- TOP 3.1.: Termine
+- TOP 3.1.: Runder Tisch des RBS bzgl. Änderung der Sprengel für die Grundschulen Klenzestr. 48, Tumblingerstr. 6 und Grundschule Am Gärtnerplatz/Klenzestr. 27 am 14.12.2011 um 15.30 Uhr im RBS, Zimmer 3076, Bayerstr. 28, 80335 München
+- TOP 3.3.: Sonstiges / Verschiedenes
+- TOP 3.1.: Stellungnahme zu Antrag des BA 4 bzgl. Umbenennung der Bezirksausschüsse in ?Stadtteilräte?
+- TOP 4: Allgemeine Unterrichtungen
+- TOP 4.1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 4.2.: Haushaltsplanentwurf 2012
+- TOP 3.5.: Sonstiges
+- TOP 2.1.: Anträge
+- TOP 2.2.: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4.: Unterrichtungen (siehe Beiblatt)
+- TOP 3.2.: Veranstaltungen
