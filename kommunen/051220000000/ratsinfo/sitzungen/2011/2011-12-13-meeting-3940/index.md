@@ -1,0 +1,54 @@
+# Haupt- und Personalausschuss
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-12-13T17:00:00+01:00
+- Ende: 2011-12-13T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-152
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZRYqqzzrb01AgK30SlF4vcw
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3940
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Personalausschuss) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbBaV9Q-7LUiB4KZW30bfFBveHSMKQ5Qk7ZxTbYd44CP/Oeffentliche_Niederschrift_Haupt-_und_Personalausschuss_13.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 3: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 4: Eingabe gemäß § 24 Gemeindeordnung NRW
+- TOP 5: Klingenstadt Solingen
+- TOP 6: Klingenstadt Solingen – Werbebringender Zusatzname auf den Ortsschildern
+- TOP 7: Namenszusätze für Kommunen
+- TOP 8: Bergische Kooperation zur Durchführung bestimmter Aufgaben der Gesundheitsverwaltungen
+- TOP 9: Gründung der "Bergische Gesellschaft für Ressourceneffizienz mbH"
+- TOP 10: Regionalagentur Bergisches Städtedreieck
+- TOP 11: Zukunft des Zöppkesmarktes
+- TOP 12: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstigen Amtshandlungen im Zusammenhang mit Lebensmitteln tierischen Ursprungs (Fleischhygienegebührensatzung)
+- TOP 13: Neuorganisation des Stadtdienstes 23 - Immobilienmanagement - sowie des Dienstleistungsbetriebs Gebäude (DBSG)
+- TOP 14: Betriebssatzung des DBSG
+- TOP 15: Betriebssatzung des DBSG
+- TOP 16: I. Nachtrag zum Stellenplan 2011
+- TOP 17: Ausgleich von Überstunden bei der Feuerwehr
+- TOP 18: Neufassung der Vergabeordnung
+- TOP 19: Kooperation der bergischen Gesundheitsämter
+- TOP 20: Teilnahme am Projekt "Zukunftsfaktor Bürgerengagement - Entwicklungswerkstatt für kommunale Engagementstrategien in NRW"
+- TOP 21: Verwaltungsabteilung des BVLA
+- TOP 22: Welterbe-Bewerbung Müngstener Brücke
+- TOP 23: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Bestellung von Dienstleitern
+- TOP 3: Bestellung des Leiters des Bergischen Veterinär- und Lebensmitteluntersuchungsamtes
+- TOP 4: Genehmigung einer Dienstreise nach Ness-Ziona/Israel
+- TOP 5: Verleihung von Ehrenringen der Stadt Solingen
+- TOP 6: Gestellung von Rettungsdienstleistungen
+- TOP 7: Neuvergabe städtischer Werbenutzungsrechte
+- TOP 8: Vorberatung eines Gesellschafterbeschlusses der Regionale 2006 GmbH i. L. im schriftlichen Umlaufverfahren
+- TOP 9: Vorberatung der Gesellschafterversammlung der Institut für Galvano- und Oberflächentechnik Solingen GmbH & Co. KG am 21. Dezember 2011
+- TOP 10: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) am 16.12.2011
+- TOP 11: Vorberatung der Gesellschafterversammlung der Gründer- und Technologiezentrum Solingen GmbH & Co. KG (GuT) am 16.12.2011
+- TOP 12: Vorberatung eines Gesellschafterbeschlusses der Wirtschaftsförderung Solingen Verwaltungs GmbH im schriftlichen Umlaufverfahren
+- TOP 13: Vorberatung eines Gesellschafterbeschlusses der Bergischen Entwicklungsgesellschaft mbH (BEA) im schriftlichen Umlaufverfahren
+- TOP 14: Überprüfung der Verfassungstreue
