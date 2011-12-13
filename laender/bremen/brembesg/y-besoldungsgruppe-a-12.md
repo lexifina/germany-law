@@ -6,7 +6,7 @@ Fachlehrerin2)3)4), Fachlehrer2)3)4)
 Kriminalhauptkommissarin4), Kriminalhauptkommissar4)
 Lehrerin, Lehrer
 - an allgemeinbildenden Schulen1)3)5) -
-- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern6)7) -
+- als Leiterin oder als Leiter einer Grundschule mit bis zu 80 Schülerinnen und Schülern6)7)-
 Lehrerin für die Primarstufe und Sekundarstufe I1)8) - kw -, Lehrer für die Primarstufe und Sekundarstufe I1)8) - kw-
 Polizeihauptkommissarin4), Polizeihauptkommissar4)
 Rechnungsrätin, Rechnungsrat

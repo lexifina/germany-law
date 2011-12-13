@@ -29,8 +29,8 @@ Beamtinnen und Beamte, die beim Landesamt für Verfassungsschutz verwendet werde
 9. Zulage für Beamtinnen und Beamte der Steuerverwaltung
 (1) Beamtinnen und Beamte der Fachrichtung Steuerverwaltung erhalten für die Zeit ihrer überwiegenden Verwendung im Außendienst der Steuerprüfung eine Stellenzulage nach Anlage 6.
 (2) Die Stellenzulage wird nicht neben einer Stellenzulage nach Nummer 6 gewährt.
-10. Zulage für Lehrerinnen und Lehrer als Pädagogische Mitarbeiterin oder Pädagogischer Mitarbeiter der Senatorin oder des Senators für Bildung und Wissenschaft
-Soweit sich aus dem Bundesbesoldungsgesetz in der am 31. August 2006 geltenden Fassung und den in der Besoldungsordnung A getroffenen Regelungen nichts Abweichendes ergibt und die Tätigkeit nicht bereits bei der Einstufung berücksichtigt worden ist, erhalten Lehrkräfte im Einstiegsamt und ersten Beförderungsamt ihrer Laufbahn als Pädagogische Mitarbeiterin oder Pädagogischer Mitarbeiter der Senatorin oder des Senators für Bildung und Wissenschaft eine Stellenzulage nach Anlage 6.
+10. Zulage für Lehrerinnen und Lehrer als Pädagogische Mitarbeiterin oder Pädagogischer Mitarbeiter der Senatorin für Bildung, Wissenschaft und Gesundheit
+Soweit sich aus dem Bundesbesoldungsgesetz in der am 31. August 2006 geltenden Fassung und den in der Besoldungsordnung A getroffenen Regelungen nichts Abweichendes ergibt und die Tätigkeit nicht bereits bei der Einstufung berücksichtigt worden ist, erhalten Lehrkräfte im Einstiegsamt und ersten Beförderungsamt ihrer Laufbahn als Pädagogische Mitarbeiterin oder Pädagogischer Mitarbeiter der Senatorin für Bildung, Wissenschaft und Gesundheit eine Stellenzulage nach Anlage 6.
 11. Zulage für Beamtinnen und Beamte mit Meisterprüfung oder Abschlussprüfung als staatlich geprüfte Technikerin oder staatlich geprüfter Techniker
 Beamtinnen und Beamte der Fachrichtung Technische Dienste der Laufbahngruppe 1, für die das Laufbahnrecht die Meisterprüfung oder die Abschlussprüfung als staatlich geprüfte Technikerin oder staatlich geprüfter Techniker vorschreibt, erhalten eine Stellenzulage nach Anlage 6.
 12. Allgemeine Stellenzulage
