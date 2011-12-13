@@ -1,0 +1,71 @@
+# Stadtrat (19. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2011-12-13T17:00:00+01:00
+- Ende: 2011-12-13T21:06:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeUBG0soUAH4SeHqeawtiHU
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/10523
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZR-PzioSkBcFeAEFDG4SYdJJcHPaDUFqhYR21-96dGGh/Bekanntmachung_Stadtrat_13.12.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZZLIlTBnp28Lq94ojxKh5EW7CRKaBX5_WwO2b4kI_A4_/Oeffentliche_Niederschrift_Stadtrat_13.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Führung der Bezeichnung „Kolpingstadt Kerpen“
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Antrag der BBK/UWG-Fraktion
+- TOP 2.2: Antrag der SPD-Fraktion
+- TOP 3.: Einbringung der Haushaltssatzung für das Jahr 2012
+- TOP 4.: Erlass von Ortsrecht
+- TOP 4.1: 2. Änderung der Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen
+- TOP 4.2: 21. Satzung zur Änderung der Satzung über die Friedhofsgebühren der Stadt Kerpen
+- TOP 4.3: 12. Satzung zur Änderung der Gebührensatzung zur Satzung über die Straßenreinigung in der Stadt Kerpen
+- TOP 4.4: 15. Satzung zur Änderung der Benutzungsgebührensatzung zur Entwässerungssatzung der Stadt Kerpen
+- TOP 4.5: 6. Satzung zur Änderung der Gebührensatzung zur Satzung über die Abfallentsorgung in der Stadt Kerpen
+- TOP 4.6: 1. Satzung zur Änderung der Vergnügungssteuersatzung der Stadt Kerpen
+- TOP 4.7: 9. Änderung der Vergabeordnung der Stadt Kerpen
+- TOP 5.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen III. Quartal 2011
+- TOP 6.: Bekanntgabe der in der Zeit vom 01.07. bis 30.09.2011 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NRW
+- TOP 7.: Eröffnungsbilanz und Jahresabschlüsse
+- TOP 8.: Trennwand im Sportlerheim Buir hier: Bereitstellung überplanmäßiger Haushaltsmittel
+- TOP 9.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.1: Bereitstellung von Ausbildungsplätzen für das Jahr 2012
+- TOP 10.: Stadtentwicklung und Bauleitplanung
+- TOP 10.1: Bebauungsplan KE Nr. 340 "Bachstraße" im Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 10.2: 67. Änderung des Flächennutzungsplanes "Stiftsstraße" im Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung gem. § 3 ( 2 ) BauGB
+- TOP 10.3: Bebauungsplan KE Nr. 344 "Stiftsstraße" im Stadtteil Kerpen hier: Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 10.4: Bebauungsplan KE Nr. 344 "Stiftsstraße" hier: Abschluss eines städtebaulichen Vertrages mit der Firma TerraD GmbH
+- TOP 11.: Resolution zum geplanten Bau eines neuen Kraftwerks BoAplus in Niederaußem
+- TOP 12.: Verbreiterung des Bahnsteiges am S-Bahn-Haltepunkt in Sindorf
+- TOP 13.: Vorgesehene Schließung des Bundeswehrstandortes Kerpen
+- TOP 13.1: Aktueller Sachstand - Vortrag von Kommodore Oberst Andreas Hoppe
+- TOP 13.2: Zukünftige Nutzung des Geländes der Boelcke-Kaserne
+- TOP 14.: Aktueller Sachstandsbericht Konjunkturpaket II
+- TOP 15.: Freiwillige Leistung der Stadt Kerpen an die private Kindertageseinrichtung Pänz in Kerpen-Sindorf
+- TOP 16.: Betriebsübergang der städtischen Kindertageseinrichtung Flohzirkus an einen anerkannten Träger der freien Jugendhilfe zum 01.08.2012
+- TOP 17.: Ausbauplanung u3 Hier: Kürzung der Förderhöhe
+- TOP 17a.: Beitritt der Stadt Kerpen zum Institut für europäische Partnerschaften und internationale Zusammenarbeit (IPZ)
+- TOP 17b.: Aktivitäten im Bereich der Städtepartnerschaften in 2012
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 21.1: Rastplätze für LKW an der BAB A4
+- TOP 22.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 23.: Genehmigung einer Dringlichkeitsentscheidung
+- TOP 23.1: Bau eines weiteren öffentlichen Kreisverkehrsplatzes am Europaring in Kerpen-Sindorf
+- TOP 23.1.1: Genehmigung und Änderungen bzw. Ergänzungen der Dringlichkeitsvorlage Drs-Nr.: 468.11 Bau eines weiteren öffentlichen Kreisverkehrsplatzes am Europaring in Kerpen-Sindorf
+- TOP 24.: Verlängerung der Strom- und Gaslieferverträge für die städtischen Gebäude
+- TOP 25.: Auftragsvergaben
+- TOP 25.1: Auftragsvergabe Kanal- und Straßenbauarbeiten Kirchweg
+- TOP 25.2: Auftragsvergabe Kanalsanierung und Fahrbahnerneuerung südlicher Teil Hahnenstraße
+- TOP 26.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 27.: Mitteilungen
+- TOP 28.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 29.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 30.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
