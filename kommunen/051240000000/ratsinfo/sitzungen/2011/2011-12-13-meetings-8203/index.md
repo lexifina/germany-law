@@ -1,0 +1,92 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-12-13T16:08:00+01:00
+- Ende: 2011-12-13T19:15:00+01:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8203
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8203
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung 29.11.2011 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00136542.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00137880.pdf
+
+## Tagesordnung
+
+- TOP -: Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss des Zweckverbandes Bergisches Volkshochschule für das Geschäftsjahr 2010 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2010 des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2010 der Delphin Vermögensverwaltung GmbH & Co. KG - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss 2010 der Delphin Verwaltungs GmbH - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss 2010 der CVUA-RRW AöR - Entgegennahme ohne Beschluss
+- TOP 2: Entlastungen
+- TOP 2.1: Jahresabschluss 2010 - Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan 2012 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan 2012 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan 2012 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 3.4: Wirtschaftsplan 2012 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Satzung der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 5.2: Auslaufende Auflösung des Bereichs Beschäftigung & Qualifizierung beim Zweckverband Bergische Volkshochschule - ungeändert beschlossen
+- TOP 5.2.1: Ergänzung: Auslaufende Auflösung des Bereichs Beschäftigung & Qualifizierung beim Zweckverband Bergische Volkshochschule - Entgegennahme ohne Beschluss
+- TOP 5.3: Gründung der Bergischen Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 5.3.1: Dringlichkeitsantrag zur Bergischen Gesellschaft für Ressourceneffizienz mbH - abgelehnt
+- TOP 5.4: Auflösung der TAG Tropolys Altgesellschafter GmbH - ungeändert beschlossen
+- TOP 5.5: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2011 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 5.6: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2011 der GWG und des Konzerns GWG - ungeändert beschlossen
+- TOP 5.7: Bestellung eines Abschlussprüfers für die Lokalfunk Wuppertal GmbH & Co. KG sowie Lokalfunk Wuppertal Beteiligungsgesellschaft mbH - ungeändert beschlossen
+- TOP 5.8: Verbandsversammlung 2011 des Wupperverbandes - ungeändert beschlossen
+- TOP 5.9: Beteiligungsbericht 2010 - Entgegennahme ohne Beschluss
+- TOP 5.10: Informationsrechte des Rates und Berichtspflichten im Zusammenhang mit Überwachungsaufgaben bei städtischen Unternehmen -mündlicher Bericht-
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Stand der Schulden und Kassenkredite zum 31.10.2011 - Entgegennahme ohne Beschluss
+- TOP 7.2: Zinsentwicklung im städtischen Kreditportfolio - Entgegennahme ohne Beschluss
+- TOP 7.3: Externe Einstellungen im Zeitraum Januar bis Oktober 2011 - Entgegennahme ohne Beschluss
+- TOP 7.4: Über- und außerplanmäßige Bereitstellung von Mitteln für 2011, Teil 2 - Entgegennahme ohne Beschluss
+- TOP 7.5: Bericht über die Eigenkapitalentwicklung der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 7.6: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 7.7: Sachstandsbericht zur Erarbeitung des Personalentwicklungskonzeptes - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: Sachstand Konzept Bürgerbeteiligung bei den Haushaltsplanberatungen - Entgegennahme ohne Beschluss
+- TOP 9: Verkäufe und Baumaßnahmen
+- TOP 10: Dienstanweisungen und Satzungen
+- TOP 10.1: 3. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 10.2: Kanalbeitragssatzung 2007-2010 - ungeändert beschlossen
+- TOP 10.3: Gebührensatzung zur Abfallwirtschaft 2012 - ungeändert beschlossen
+- TOP 10.4: Satzung über die Straßenreinigung und des Winterdienstes sowie die dazu erhebende Gebührensatzung ab dem 01.01.2012 - ungeändert beschlossen
+- TOP 10.5: Zwölfte Satzung zur Änderung der Gebührensatzung für die Friedhöfe der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1: Große Anfrage der FDP-Fraktion vom 10.11.11 -Beteiligung und Aufsichtsrechte des Rates bei Beschlüssen der Aufsichtsräte- - Entgegennahme ohne Beschluss
+- TOP 11.1.1: Antwort auf die Große Anfrage der FDP-Fraktion vom 10.11.11: Beteiligung und Aufsichtsrechte des Rates bei Beschlüssen der Aufsichtsräte - Entgegennahme ohne Beschluss
+- TOP 11.2: Große Anfrage der Fraktion DIE LINKE vom 16.11.2011-Architektenvertrag Umbauvorhaben Döppersberg- - Entgegennahme ohne Beschluss
+- TOP 11.2.1: Antwort auf die Große Anfrage der Ratsfraktion DIE LINKE vom 16. November 2011 Architektenvertrag Umbauvorhaben Döppersberg - Entgegennahme ohne Beschluss
+- TOP 11.3: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 28.11.11 -Folgen des OVG-Urteils vom 29.09.2011 zu Wettbüros (AZ 4 A 17/08)- - Entgegennahme ohne Beschluss
+- TOP 11.3.1: Antwort der Verwaltung auf die Große Anfrage der Fraktion Bündnis 90/ DIE GRÜNEN vom 28.11.2011 zu den Folgen des OVG Urteils vom 29.09.2011 zu Wettbüros - Entgegennahme ohne Beschluss
+- TOP 11.4: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 29.11.11 -Konzept zum Abbau des Beförderungsstaus- - Entgegennahme ohne Beschluss
+- TOP 11.4.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 29.11.11 -Konzept zum Abbau des Beförderungsstaus- - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen
+- TOP 12.1: Bergische Kooperation zur Durchführung bestimmter Aufgaben der Gesundheitsverwaltungen zum 01.04.2012 - ungeändert beschlossen
+- TOP 12.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2008 - ungeändert beschlossen
+- TOP 12.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2010 - ungeändert beschlossen
+- TOP 12.4: Festsetzung der Vergabewertgrenzen ab 01.01.2012 - ungeändert beschlossen
+- TOP 12.5: Soziale Stadt Oberbarmen/Wichlinghausen - Überarbeitung des integrierten Handlungskonzepts incl. Kosten- und Finanzierungsplan - ungeändert beschlossen
+- TOP 12.6: Genehmigung einer überplanmäßigen Ausgabe - ungeändert beschlossen
+- TOP 12.7: Bestellung des neuen Vertreters der Stadt Wuppertal und seines Vertreters in der Interessengemeinschaft Zeltplätze Bever-Talsperre e.V. - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 14: Alten- und Altenpflegeheime
+- TOP 14.1: Quartalsbericht III/2011 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 14.2: Quartalsbericht III/2011 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 14.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2012 - stationärer Bereich - - ungeändert beschlossen
+- TOP 14.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2012 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 15: Berichte und Mitteilungen
+- TOP 16: Kinder- und Jugendwohngruppen
+- TOP 16.1: KIJU 3. Quartalsbericht 2011 - Entgegennahme ohne Beschluss
+- TOP 16.2: Wirtschaftsplanung KIJU für das Jahr 2012 - ungeändert beschlossen
+- TOP 17: Berichte und Mitteilungen
