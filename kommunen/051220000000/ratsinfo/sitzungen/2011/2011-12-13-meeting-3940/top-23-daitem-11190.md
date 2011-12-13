@@ -1,0 +1,7 @@
+# TOP 23: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+
+- Sitzung: Haupt- und Personalausschuss (2011-12-13)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/11190
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/15966
