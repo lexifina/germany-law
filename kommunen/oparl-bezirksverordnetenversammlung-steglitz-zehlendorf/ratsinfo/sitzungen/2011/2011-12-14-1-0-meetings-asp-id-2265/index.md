@@ -1,0 +1,59 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2011-12-14T17:00:00+01:00
+- Ende: 2011-12-14T18:05:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2265
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2265
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Müll statt Kompetenz in Nikolassee? - beantwortet
+- TOP 3.2: Baumfällung - beantwortet
+- TOP 3.3: Wahlen zur Seniorenvertretung im Bezirk - beantwortet
+- TOP 3.4: Pflegestützpunkt Zehlendorf/Clayallee - beantwortet
+- TOP 3.5: Arbeit der Streetworker auf dem Hermann-Ehlers-Platz - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitswahlvorschläge - erledigt
+- TOP 4.1.1: Hildegard-Gräfin-von-Koenigsmarck-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.4: Wahl von stellvertretenden Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.5: Hildegard-Gräfin-von-Koenigsmarck-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.6: Verwaltungsrat des Kita-Eigenbetriebes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan X-B 1c "Dorf Stolpe, Ortsteil Wannsee" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan XII - 286 für die Grundstücke Wismarer Straße 1 / 17, Ostpreußen-damm 83, 83 A (Kolonie Eugen-Kleine-Brücke) im Bezirk Steglitz-Zehlendorf, Ortsteil Lichterfelde. [KlgAlg Eugen-Kleine-Brücke] - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Bildung von Ausschüssen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Fahrstuhl für den U-Bahnhof Oskar-Helene-Heim - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Ratswaage Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Grillplätze im Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: Beim Essen - Klima schützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Mehr gebundene Ganztagsschulen in unserem Bezirk - überwiesen
+- TOP 5.1.2: DEVA-Schießstand in Wannsee - überwiesen
+- TOP 5.1.3: Schulwege sichern - Zebrastreifen für das Schweizer Viertel - überwiesen
+- TOP 5.1.4: Platanen in der Schloßstraße - überwiesen
+- TOP 5.1.5: Seilbahnreparatur Spielplatz Bolchener Straße - überwiesen
+- TOP 5.1.6: West-Tangente sicherer machen - überwiesen
+- TOP 5.1.7: Fahrstreifen des Dahlemer Wegs vor der Straße Unter den Eichen - überwiesen
+- TOP 5.1.8: Tarifliche Perspektiven für VHS-Dozent/Innen schaffen - überwiesen
+- TOP 5.1.9: Ostpreußendamm / Ecke Osdorfer Straße - überwiesen
+- TOP 6: Große Anfragen - erledigt
+- TOP 6.1: Weihnachten fällt in der Kirchstraße aus! - zurückgezogen
+- TOP 7: Anträge - erledigt
+- TOP 7.1: Ratswaage Lankwitz in Stand setzen - zurückgezogen
+- TOP 8: Schlusswort des Vorstehers - erledigt
