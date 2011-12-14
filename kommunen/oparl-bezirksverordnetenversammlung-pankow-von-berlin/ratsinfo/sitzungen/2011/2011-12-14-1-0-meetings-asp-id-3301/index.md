@@ -1,0 +1,67 @@
+# 3. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2011-12-14T17:30:00+01:00
+- Ende: 2011-12-14T20:20:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3301
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3301
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=46703
+
+## Tagesordnung
+
+- TOP 1: Komplex1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - mit Änderungen in der BVV beschlossen
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl eines / einer Bezirksverordneten als Mitglied in den Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - gewählt
+- TOP 1.9: Erhalt der Grünfläche am Tempelgraben/ Am Anger Berlin-Wilhelmsruh/Rosenthal - ohne Änderungen in der BVV beschlossen
+- TOP 1.10: Verkehrssicherheit vor der Grundschule im Panketal verbessern - ohne Änderungen in der BVV beschlossen
+- TOP 1.11: Pankow als Ort der Vielfalt erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 1.12: Geschichte der Euthanasiemorde in Buch aufklären - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Erhebung von Beiträgen nach dem Straßenausbaubeitragsgesetz aussetzen II - überwiesen
+- TOP 1.14: Schnelles Breitbandinternet auch in Blankenfelde - überwiesen
+- TOP 1.15: Umzugsplanung fortschreiben und Gebäudekosten verringern - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Ehrendes Gedenken für Christa Wolf - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Waldflächen erhalten! - überwiesen
+- TOP 1.18: Neue Standorte für den Bau von Mietwohnungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Öffnungszeiten der Pankower Stadtbibliothek erweitern - überwiesen
+- TOP 1.20: Überlassung von Schulräumen - überwiesen
+- TOP 1.21: Verkehrssicherheit in der Hauptstraße im OT Rosenthal erhöhen - überwiesen
+- TOP 1.22: Geschäftsordnung Integrationsbeirat - ohne Änderungen in der BVV beschlossen
+- TOP 1.23: Keine Brötchentaste für Elterntaxis! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Zukunft für die "Gänsegruppe" - ohne Änderungen in der BVV beschlossen
+- TOP 1.25: Haushaltsberatung 2012 / 2013 (II) - beantwortet
+- TOP 1.26: Beschilderung Umleitung Blankenburger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Öffentlichkeit bei Baumarbeiten - überwiesen
+- TOP 1.28: Bürgeramt - überwiesen
+- TOP 1.29: Nordhof Pfefferberg - beantwortet
+- TOP 1.30: Erinnerung an "Die Palme" - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Nordhof Pfefferberg - Frei- und Grünfläche statt Bürohaus - überwiesen
+- TOP 1.32: Sitzungsplan der BVV 2012 und 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Mehr Bürgerdemokratie - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Rückrufservice - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.3: Spielstraße an der Gethsemanekirche - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Internetangebot Bürgerbeteiligung aufbauen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Generationsübergreifende Freizeiteinrichtung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.6: Botanische Vielfalt Pankow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Verbesserung der Querungssituation in der Berliner Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Tempo 30 in der Kastanienallee - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Ampel an der Kreuzung Rennbahnstraße und Gustav-Adolf-Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Friedhofspark in der Pappelallee 15/16/17 sichern, Spielplatzfläche neu ordnen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Mehr Sicherheit für Radfahrerinnen und Radfahrer in der Pappelallee und in der Stahlheimer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Freiwillige Feuerwehren schützen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Verbesserte Information bei Planfeststellungsverfahren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Bestellung von Mitgliedern im Verwaltungsrat des Eigenbetriebes "Kindergärten NordOst" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Bebauungsplanentwurf 3-5 für das Gelände zwischen Treskowstraße, Berliner Straße, der Straße Am Steinberg und Prenzlauer Promenade sowie für die Treskowstraße im Bezirk Pankow, Ortsteile Heinersdorf, Weißensee und Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Benennung eines Mitgliedes für den Vorstand der Albert Schweitzer Stiftung - Wohnen & Betreuen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.17: Aufstellung des Bebauungsplans 3-42 für das Gelände zwischen Wiltbergstraße, Karower Chaussee, Wolfgang-Heinz-Straße und Groscurthstraße im Bezirk Pankow, Ortsteil Buch sowie des Bebauungsplans 3-43 für das Gelände zwischen Wolfgang-Heinz-Straße, Karower Chaussee, Max-Burghardt-Straße, Friedrich-Richter-Straße, den Grundstücken Friedrich-Richter-Straße 8/10, 36/38, Bruno-Apitz-Straße 14 und Bruno-Apitz-Straße und im Bezirk Pankow, Ortsteil Buch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Beteiligung des Bezirks Pankow am Bundesprogramm „TOLERANZ FÖRDERN – KOMPETENZ STÄRKEN“ in 2012 mit Lokalen Aktionsplänen für den Gesamtbezirk Pankow und für Weißensee - mit Abschlussbericht zur Kenntnis genommen
