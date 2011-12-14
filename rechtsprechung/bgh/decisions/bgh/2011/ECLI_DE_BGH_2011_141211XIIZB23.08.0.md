@@ -1,0 +1,372 @@
+---
+ecli: "ECLI:DE:BGH:2011:141211XIIZB23.08.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 23/08"
+decided: "2011-12-14"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2011&Sort=1&Seite=119&nr=59762&anz=3712&pos=3576&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2011-12-14_XII_ZB_23_08_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/beamtvg/0014.md", "germany/bund/acts/bgb/1587.md", "germany/bund/acts/sgb_6/0077.md", "germany/bund/acts/versausglg/0048.md"]
+---
+
+# Bundesgerichtshof, XII ZB 23/08 vom 2011-12-14
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                             BESCHLUSS
+XII ZB 23/08
+
+                                      vom
+
+                              14. Dezember 2011
+
+                             in der Familiensache
+
+Nachschlagewerk:       ja
+
+BGHZ:                nein
+
+BGHR:                  ja
+
+
+
+BGB § 1587 a Abs. 2
+
+a) Die erst nach dem Ehezeitende getroffene Entscheidung des Ausgleichspflichtigen, die vorgezogene Altersrente unter Inkaufnahme eines Versorgungsabschlags
+   in Anspruch zu nehmen, hat zur Ehezeit keinen unmittelbaren Bezug mehr und
+   muss daher bei der Bewertung des Rentenanrechts außer Betracht bleiben (im
+   Anschluss an Senatsbeschluss vom 18. Mai 2011 - XII ZB 127/08 - FamRZ 2011,
+   1214).
+
+b) Auch nach § 10 a Abs. 1 Nr. 1 VAHRG können nur solche nachträglichen Umstände rechtlicher und tatsächlicher Art berücksichtigt werden, die rückwirkend einen anderen Ehezeitanteil oder eine andere Ausgleichsform ergeben. Hingegen
+   bleiben - unter Aufrechterhaltung des Stichtagsprinzips - die bei Ehezeitende bestehenden Bemessungsgrundlagen eines Anrechts festgeschrieben.
+
+BGH, Beschluss vom 14. Dezember 2011 - XII ZB 23/08 - OLG Karlsruhe
+                                                      AG Tauberbischofsheim
+
+                                         -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 14. Dezember 2011 durch
+    die Vorsitzende Richterin Dr. Hahne und die Richter Weber-Monecke,
+    Dr. Klinkhammer, Dr. Günter und Dr. Nedden-Boeger
+
+    beschlossen:
+
+
+          Die Rechtsbeschwerde gegen den Beschluss des 16. Zivilsenats
+          - Senat für Familiensachen - des Oberlandesgerichts Karlsruhe
+          vom 14. Januar 2008 wird auf Kosten des Antragsgegners zurückgewiesen.
+
+          Beschwerdewert: 1.000 €
+
+
+
+
+                                       Gründe:
+
+                                          I.
+
+1         Die Parteien streiten um die Durchführung des Versorgungsausgleichs.
+
+2         Die am 1. Februar 1955 geborene Antragstellerin (im Folgenden: Ehefrau) und der am 22. April 1944 geborene Antragsgegner (im Folgenden: Ehemann) hatten am 26. August 1986 die Ehe geschlossen. Aus der Ehe gingen
+    zwei gemeinsame - 1988 und 1991 geborene - Kinder hervor. Der Scheidungsantrag der Ehefrau wurde dem Ehemann am 15. September 2006 zugestellt.
+    Das Amtsgericht - Familiengericht - hat die Parteien mit Verbundurteil vom
+    17. April 2007 geschieden - insoweit seit 28. Juli 2007 rechtskräftig - und den
+    Versorgungsausgleich durchgeführt.
+
+3         Beide Ehegatten haben während der Ehezeit (1. August 1986 bis
+    31. August 2006, § 1587 Abs. 2 BGB aF) ausschließlich Versorgungsanwart-
+
+                                         -3-
+
+
+
+    schaften als Beamte erworben. Die Ehefrau verfügt bei dem Landesamt für Finanzen über eine Anwartschaft auf Ruhegehalt in Höhe von 566,84 € monatlich. Der Ehemann hat bei dem Landesamt für Besoldung und Versorgung
+    Baden-Württemberg eine Anwartschaft auf Ruhegehalt in Höhe von monatlich
+    1.288,38 € erworben.
+
+4         Nach dem Ende der Ehezeit beantragte der Ehemann die vorzeitige Versetzung in den Ruhestand, die zum 30. April 2007 bewilligt wurde. Infolgedessen musste er einen Versorgungsabschlag hinnehmen, so dass sich der Ehezeitanteil seiner Versorgung nur noch auf 1.208,04 € beläuft. Er bezieht Ruhegehalt in Höhe von 2.040 €. Die Ehefrau verfügte 2007 über ein durchschnittliches monatliches Nettoeinkommen in Höhe von 2.163 €.
+
+5         Das Amtsgericht hat den Versorgungsausgleich unter Zugrundelegung
+    der ungekürzten Anwartschaft des Ehemannes durchgeführt und zu Lasten seiner Versorgung bei dem Landesamt für Besoldung und Versorgung Baden-Württemberg Rentenanwartschaften in Höhe von monatlich 360,77 € bezogen
+    auf den 31. August 2006 auf dem Rentenversicherungskonto der Ehefrau bei
+    der Deutschen Rentenversicherung Bund begründet. Das Oberlandesgericht
+    hat die Beschwerde des Ehemannes, mit der er den Ausgleich unter Zugrundelegung der um den Versorgungsabschlag verminderten Anrechte sowie eine
+    Billigkeitskorrektur nach § 1587 c Nr. 1 BGB weiter verfolgt hat, zurückgewiesen. Dagegen richtet sich die zugelassene Rechtsbeschwerde des Ehemannes.
+
+
+
+
+                                          II.
+
+6         Die zulässige Rechtsbeschwerde hat keinen Erfolg.
+
+                                          -4-
+
+
+
+7            Für das Verfahren ist gemäß Art. 111 FGG-RG noch das bis Ende August 2009 geltende Verfahrensrecht anwendbar, weil das Verfahren vor diesem
+     Zeitpunkt eingeleitet worden ist (Senatsurteil BGHZ 184, 13 = FamRZ 2010,
+     357 Rn. 7). Nach § 48 VersAusglG findet das bis Ende August 2009 geltende
+     materielle Recht Anwendung, weil das Verfahren weder am 1. September 2009
+     noch danach abgetrennt oder ausgesetzt und das Ruhen nicht angeordnet war.
+
+8            1. Die Rechtsbeschwerde des Antragsgegners ist gemäß §§ 629 a
+     Abs. 2 Satz 1, 621 e Abs. 2 ZPO statthaft. Das Oberlandesgericht hat die
+     Rechtsbeschwerde im Tenor des Beschlusses uneingeschränkt zugelassen. An
+     die Zulassung ist der Senat gebunden (§§ 621 e Abs. 2 ZPO, 543 Abs. 2 Satz 2
+     ZPO).
+
+9            2. Das Oberlandesgericht hat zur Begründung seiner Entscheidung ausgeführt:
+
+10           Der Versorgungsabschlag, der auf der vorzeitigen Pensionierung beruhe,
+     sei im Versorgungsausgleich nur zu berücksichtigen, wenn diese vor dem Ende
+     der Ehezeit wirksam geworden sei, da sie nur dann einen Bezug zur Ehezeit
+     aufweise. Bei dem vorliegenden Antrag auf Versetzung in den vorzeitigen Ruhestand handele es sich um eine nachehezeitliche, individuelle Entscheidung
+     des Ehemannes, so dass der Versorgungsabschlag außer Betracht bleiben
+     müsse.
+
+11           Anhaltspunkte für einen (teilweisen) Ausschluss des Versorgungsausgleichs gemäß § 1587 c Nr. 1 BGB bestünden nicht. Zwar sei der Ausschlusstatbestand von Amts wegen zu berücksichtigen, allerdings trage der Ehemann
+     die Darlegungs- und Beweislast für das Vorliegen der Voraussetzungen der
+     Härteklausel. Dieser Darlegungslast sei er nicht nachgekommen. Soweit er sich
+     darauf berufe, dass die Ehefrau den Scheidungsantrag vor Ablauf des Tren-
+
+                                            -5-
+
+
+
+     nungsjahres eingereicht habe, sei das Amtsgericht zutreffend zu dem Schluss
+     gekommen, dass die Parteien bereits ab dem 18. Juli 2005 innerhalb der Ehewohnung getrennt gelebt hätten. Überdies sei das Urteil insoweit rechtskräftig.
+     Eine Benachteiligung des Ehemannes hinsichtlich der Einkommensverhältnisse
+     sei aufgrund seines Einkommens in Höhe von 2.040 € und eines solchen der
+     Ehefrau in Höhe von 2.136 € nicht nachvollziehbar. Angesichts der Tatsache,
+     dass dem Ehemann das Pensionärsprivileg noch bis zum Renteneintritt der
+     Ehefrau zugutekomme, ergebe sich kein erhebliches Ungleichgewicht. Ein solches sei ebenso wenig hinsichtlich der Vermögensverhältnisse ersichtlich; vielmehr habe der Ehemann nach seiner eigenen Aufstellung einen etwas höheren
+     Zugewinn erzielt als die Ehefrau. Unterhalt werde wechselseitig weder gezahlt
+     noch verlangt. Der Versorgungsausgleich sei deshalb nicht grob unbillig, sondern bewirke einen Ausgleich der ehebedingten Nachteile, die die Ehefrau
+     durch Erziehung und Versorgung der gemeinsamen Kinder erlitten habe.
+     Schließlich sei das Vorbringen des Ehemannes hinsichtlich eines Ausbruchs
+     der Ehefrau aus intakter Ehe trotz Hinweises unsubstantiiert geblieben. Es sei
+     für die Anwendung von § 1587 c Nr. 1 BGB ein außerordentlich schwerwiegendes oder langandauerndes Fehlverhalten erforderlich, der Vorwurf des Ehebruchs für sich allein sei nicht ausreichend.
+
+12         Diese Ausführungen halten der rechtlichen Nachprüfung stand.
+
+13         3. a) Das Beschwerdegericht hat zu Recht angenommen, dass sich der
+     Ausgleichsbetrag aus der ungekürzten Altersversorgung des Ehemannes errechnet.
+
+14         aa) Da der Ehemann erst nach dem Ende der Ehezeit individuell von der
+     Möglichkeit Gebrauch gemacht hat, sich vorzeitig in den Ruhestand versetzen
+     zu lassen, weshalb er gemäß § 14 Abs. 3 BeamtVG einen Versorgungsab-
+
+                                     -6-
+
+
+
+schlag hinnehmen muss, ist sein Anrecht nicht unter Berücksichtigung dieses
+Abschlages zu bewerten. Denn die Bewertung eines in der Ehezeit erworbenen
+Anrechts richtet sich nach dem Stichtagsprinzip, nach dem grundsätzlich der
+bei Ehezeitende erreichte Wert entscheidend ist (Senatsbeschlüsse vom
+18. Mai 2011 - XII ZB 127/08 - FamRZ 2011, 1214 Rn. 14; vom 13. Mai 2009
+- XII ZB 169/06 -   FamRZ    2009,   1347    Rn. 25;    vom   29. April   2009
+- XII ZB 182/07 - FamRZ 2009, 1309 Rn. 17; vom 9. Mai 2007 - XII ZB 77/06 -
+FamRZ 2007, 1542 Rn. 10 und vom 13. Mai 1987 - IVb ZB 118/82 - FamRZ
+1987, 918, 919). Das Stichtagsprinzip findet seinen Ausdruck in § 1587 a Abs. 2
+Nr. 2 BGB, wonach für die Bewertung des gesetzlichen Rentenrechts von dem
+Betrag auszugehen ist, der sich am Ende der Ehezeit aus den auf die Ehezeit
+entfallenden Entgeltpunkten "ohne Berücksichtigung des Zugangsfaktors" als
+Vollrente wegen Alters ergäbe. Diese für die Bewertung gesetzlicher Rentenanrechte ausdrücklich getroffene Regelung ist Ausdruck eines allgemeinen Bewertungsprinzips, welches ebenso für die Bewertung anderer Versorgungsanrechte gilt (Senatsbeschluss vom 18. Mai 2011 - XII ZB 127/08 - FamRZ 2011,
+1214 Rn. 14). Die erst nach dem Ehezeitende getroffene Entscheidung des
+Ausgleichspflichtigen, die vorgezogene Altersrente unter Inkaufnahme eines
+Versorgungsabschlags in Anspruch zu nehmen, hat zur Ehezeit keinen unmittelbaren Bezug mehr und muss daher bei der Bewertung des Rentenanrechts
+außer Betracht bleiben (Senatsbeschluss vom 18. Mai 2011 - XII ZB 127/08 -
+FamRZ 2011, 1214 Rn. 15; vgl. auch Senatsbeschlüsse vom 29. April 2009
+- XII ZB 182/07 -   FamRZ    2009,    1309    Rn. 18;   vom    4. März    2009
+- XII ZB 117/07 - FamRZ 2009, 948, 949; vom 29. Oktober 2008 - XII ZB 69/06 -
+FamRZ 2009, 107 Rn. 12; vom 1. Oktober 2008 - XII ZB 34/06 - FamRZ 2009,
+28 Rn. 11; vom 9. Mai 2007 - XII ZB 77/06 - FamRZ 2007, 1542 Rn. 8 und vom
+22. Juni 2005 - XII ZB 117/03 - FamRZ 2005, 1455, 1458).
+
+                                           -7-
+
+
+
+15          bb) Zu einer Verkürzung des Ausgleichswerts könnte nur eine vorzeitige
+     Inanspruchnahme der Altersrente noch während der Ehezeit führen, da in der
+     Regel angenommen werden kann, dass diese auch dem Ausgleichsberechtigten selbst zugutegekommen ist (Senatsbeschlüsse vom 18. Mai 2011
+     - XII ZB 127/08 - FamRZ 2011, 1214 Rn. 15 und vom 22. Juni 2005
+     - XII ZB 117/03 - FamRZ 2005, 1455, 1458). Nach der Rechtsprechung des
+     Senats ist § 1587 a Abs. 2 Nr. 2 BGB nämlich bei der Wertermittlung von Rentenanrechten aus der gesetzlichen Rentenversicherung zur Wahrung des Halbteilungsgrundsatzes verfassungskonform dahin auszulegen, dass der Zugangsfaktor bei der Berechnung des Ehezeitanteils nur dann und nur insoweit außer
+     Betracht bleibt, als die für seine Herabsetzung maßgeblichen Zeiten vorzeitigen
+     Rentenbezugs nicht in der Ehezeit zurückgelegt worden sind (Senatsbeschlüsse vom 4. März 2009 - XII ZB 117/07 - FamRZ 2009, 948; vom 29. Oktober
+     2008 - XII ZB 69/08 - FamRZ 2009, 107 Rn. 12; vom 1. Oktober 2008
+     - XII ZB 34/08 - FamRZ 2009, 28 Rn. 11; vom 9. Mai 2007 - XII ZB 77/06 -
+     FamRZ 2007, 1542 Rn. 8. und vom 22. Juni 2005 - XII ZB 117/03 - FamRZ
+     2005, 1455, 1458). Denn soweit die bereits zurückgelegten Kalendermonate
+     vorzeitigen Rentenbezugs in die Ehezeit fallen, steht bereits fest, dass der Versicherte eine gesetzliche Altersrente mit dem Zugangsfaktor 1,0 nicht mehr erreichen kann, so dass eine fiktive Berechnung des Altersruhegeldes mit diesem
+     Zugangsfaktor dem wirklichen Wert seiner Versorgung am Ende der Ehezeit
+     nicht entspricht (vgl. § 77 Abs. 2 Nr. 2 a SGB VI). Es wäre dann mit dem Halbteilungsgrundsatz nicht in Einklang zu bringen, wenn der Zugangsfaktor auch
+     insoweit unberücksichtigt bliebe, als die für seine Veränderung maßgeblichen
+     Zeiten vorzeitigen Rentenbezugs in die Ehezeit fallen (Senatsbeschlüsse vom
+     29. Oktober 2008 - XII ZB 69/08 - FamRZ 2009, 107 Rn. 12; vom 1. Oktober
+     2008   - XII ZB 34/08 -   FamRZ     2009,   28,   Rn. 11;   vom    9. Mai   2007
+
+                                          -8-
+
+
+
+     - XII ZB 77/06 -   FamRZ   2007,   1542    Rn. 8   und   vom   22. Juni   2005
+     - XII ZB 117/03 - FamRZ 2005, 1455, 1458).
+
+16           Es kann dahinstehen, ob die vorgenannte Rechtsprechung des Senats
+     zur gesetzlichen Rentenversicherung auch auf die Beamtenversorgung anzuwenden ist, wie die Rechtsbeschwerde meint. Denn hier liegen die Zeiten des
+     vorzeitigen Ruhegehaltsbezuges des Ehemannes vollständig außerhalb der
+     Ehezeit, so dass der hierdurch eintretende Versorgungsabschlag als nachehezeitliche Entwicklung beim Versorgungsausgleich nicht berücksichtigt werden
+     kann.
+
+17           b) Zwar sind seit Einführung des Abänderungsverfahrens nach § 10 a
+     VAHRG auch nachehezeitliche, auf individuellen Verhältnissen beruhende Änderungen, die einen anderen Ehezeitanteil des Anrechts ergeben, bereits bei
+     der Erstentscheidung zu berücksichtigen, um ein späteres Abänderungsverfahren zu vermeiden (Senatsbeschlüsse vom 18. Mai 2011 - XII ZB 127/08 -
+     FamRZ 2011, 1214 Rn. 16; vom 14. Oktober 1998 - XII ZB 174/94 - FamRZ
+     1999, 157 und vom 6. Juli 1988 - IVb ZB 151/84 - FamRZ 1988, 1148, 1150).
+     Für die Höhe einer Versorgung bleibt aber stets ihr am Ehezeitende erreichter
+     Wert maßgebend (Senatsbeschluss vom 18. Mai 2011 - XII ZB 127/08 - FamRZ
+     2011, 1214 Rn. 16). Zu beachten sind solche Wertänderungen, die ihre Ursache in Änderungen der für die jeweilige Versorgung maßgebenden Regelung
+     (z.B. Gesetz, Satzung oder Versorgungsordnung) haben, wenn sie eine allgemeine, nicht auf individuellen Umständen beruhende Änderung des Anrechts
+     zur Folge haben, die sich rückwirkend auch auf den Ehezeitanteil auswirkt (zum
+     schuldrechtlichen Versorgungsausgleich: Senatsbeschluss vom 24. Juni 2009
+     - XII ZB 137/07 - FamRZ 2009, 1735 Rn. 18 mwN).
+
+                                          -9-
+
+
+
+18         Für die Feststellung anderer für den Versorgungsausgleich erheblicher
+     Tatsachen kommt es dagegen allein auf die Verhältnisse im Zeitpunkt der
+     Rechtshängigkeit des Scheidungsantrags an. Nachehezeitliche Veränderungen
+     bleiben deswegen unberücksichtigt, sofern sie auf neu hinzugetretenen individuellen Umständen, wie einem späteren beruflichen Aufstieg oder einem zusätzlichen persönlichen Einsatz des Versicherten, beruhen (Senatsbeschlüsse
+     vom 24. Juni 2009 - XII ZB 137/07 - FamRZ 2009, 1735 Rn. 19; vom 11. Juni
+     2008 - XII ZB 154/07 - FamRZ 2008, 1512 Rn. 14 und vom 5. November 2008
+     - XII ZB 217/04 - FamRZ 2009, 205 Rn. 22).
+
+19         Auch nach § 10 a Abs. 1 Nr. 1 VAHRG können nur solche nachträglichen
+     Umstände rechtlicher und tatsächlicher Art berücksichtigt werden, die rückwirkend einen anderen Ehezeitanteil oder eine andere Ausgleichsform ergeben.
+     Hingegen bleiben - unter Aufrechterhaltung des Stichtagsprinzips - die bei Ehezeitende bestehenden Bemessungsgrundlagen eines Anrechts festgeschrieben
+     (vgl. Senatsbeschlüsse vom 18. Mai 2011 - XII ZB 127/08 - FamRZ 2011, 1214
+     Rn. 16; vom 13. Mai 2009 - XII ZB 77/06 - FamRZ 2009, 1347 Rn. 25; vom
+     29. April 2009 - XII ZB 182/07 - FamRZ 2007, 1309 Rn. 17 und vom 14. Oktober 1998 - XII ZB 174/94 - FamRZ 1999, 157). Der nachträglichen Veränderung
+     individueller Bemessungsgrundlagen der Versorgung kommt auch unter dem
+     Gesichtspunkt des § 10 a VAHRG keine Bedeutung zu (vgl. Senatsbeschluss
+     vom 14. März 2007 - XII ZB 142/06 - FamRZ 2007, 891 Rn. 16).
+
+20         Dies gilt auch für die nach Ende der Ehezeit vom Ehemann getroffene
+     Entscheidung, sich vorzeitig in den Ruhestand versetzen zu lassen, und damit
+     einen Versorgungsabschlag in Kauf zu nehmen, da es sich um eine individuelle
+     Entscheidung handelt, die keinen Bezug zur Ehezeit mehr aufweist. Dabei kann
+     dahinstehen, ob der Ehemann diesen Entschluss noch in der Ehezeit gefasst
+
+                                          - 10 -
+
+
+
+     hat, da er den Antrag auf Versetzung in den vorzeitigen Ruhestand jedenfalls
+     erst nach Ende der Ehezeit gestellt hat.
+
+21         c) Hierin liegt auch kein Verstoß gegen den Halbteilungsgrundsatz. Zwar
+     verbleibt dem Ehemann nach durchgeführtem Versorgungsausgleich nur noch
+     ein Ehezeitanteil seiner Versorgung von monatlich 847,27 €, während die Ehefrau - bezogen auf das Ende der Ehezeit - Versorgungsanrechte von insgesamt
+     927,61 € monatlich erwirbt. Damit geht jedoch einher, dass der Ehemann die
+     um den Versorgungsabschlag gekürzte Rente bereits seit Ablauf des 63. Lebensjahres bezieht. Sein um zwei Jahre vorgezogener und damit verlängerter
+     Rentenbezug spiegelt den versicherungsmathematischen Barwert einer betragshöheren Rente, die erst nach Erreichen der Regelaltersgrenze in Anspruch
+     genommen würde und nach seiner Wahl auch von ihm hätte bezogen werden
+     können, wieder. Indem sich der Ausgleich nach dem höheren, auf die Regelaltersgrenze bezogenen Rentenbetrag bemisst, wird auch nicht eine fiktive Berechnungshilfe an die Stelle eines realen Versorgungswertes gesetzt, was
+     - auch verfassungsrechtlich - unzulässig wäre. Vielmehr wird der Ausgleich auf
+     eine andere Berechnungsgrundlage gestellt, nämlich auf die gesetzliche, wonach die Wertberechnung nach den zum Ehezeitende bestehenden Verhältnissen vorzunehmen und auf den Zeitpunkt des Erreichens der Regelaltersgrenze
+     zu beziehen ist (vgl. Senatsbeschluss vom 18. Mai 2011 - XII ZB 127/08 -
+     FamRZ 2011, 1214 Rn. 17).
+
+22         Der Halbteilungsgrundsatz erfordert es dagegen nicht, den aufgrund einer individuellen nachehezeitlichen Entscheidung des Ehemannes beruhenden
+     Versorgungsabschlag zu berücksichtigen, wie die Rechtsbeschwerde meint.
+     Der genannte Grundsatz betrifft nur solche Anrechte und nachehezeitliche Entwicklungen von Anrechten, die in der Ehezeit liegen oder zumindest einen Bezug zur Ehezeit haben. Ließe man das Erfordernis des Ehezeitbezuges außer
+
+                                          - 11 -
+
+
+
+     Betracht, würde das gesetzlich verankerte Stichtagsprinzip ausgehebelt. Zudem
+     bestünde die Gefahr des Missbrauchs, wenn der Ausgleichsverpflichtete zu
+     Lasten des Ausgleichsberechtigten nach Ende der Ehezeit die vorzeitige Versetzung in den Ruhestand beantragen könnte und die dann verminderte Anwartschaft Berücksichtigung im Versorgungsausgleich fände.
+
+23         4. Eine Korrektur der Entscheidung aus Billigkeitsgründen gemäß
+     § 1587 c Nr. 1 BGB hat das Oberlandesgericht ebenfalls zu Recht nicht vorgenommen.
+
+24         a) Ein Versorgungsausgleich findet gemäß § 1587 c Nr. 1 BGB nur dann
+     nicht statt, soweit die Inanspruchnahme des Verpflichteten unter Berücksichtigung der beiderseitigen Verhältnisse, insbesondere des beiderseitigen Vermögenserwerbs während der Ehe oder im Zusammenhang mit der Scheidung,
+     grob unbillig wäre (Senatsbeschlüsse vom 5. November 2008 - XII ZB 53/06 -
+     FamRZ 2009, 303 Rn. 34; vom 25. April 2007 - XII ZB 206/06 - FamRZ 2007,
+     1084 Rn. 30 und vom 25. Mai 2005 - XII ZB 135/02 - FamRZ 2005, 1238,
+     1239). Eine unbillige Härte liegt nur vor, wenn eine rein schematische Durchführung des Versorgungsausgleichs unter den besonderen Gegebenheiten des
+     konkreten Falles dem Grundgedanken des Versorgungsausgleichs, eine dauerhaft gleichmäßige Teilhabe der Ehegatten an den in der Ehezeit erworbenen
+     Versorgungsanrechten zu gewährleisten, in unerträglicher Weise widersprechen würde (Senatsbeschlüsse vom 5. November 2008 - XII ZB 53/06 - FamRZ
+     2009, 303 Rn. 34; vom 17. Januar 2007 - XII ZB 168/01 - FamRZ 2007, 996
+     Rn. 27 und vom 29. März 2006 - XII ZB 2/02 - FamRZ 2006, 769, 770). Da
+     § 1587 c Nr. 1 BGB eine anspruchsbegrenzende Norm ist, muss der Ausgleichspflichtige, der die erstrebte Herabsetzung des Versorgungsausgleichs
+     begründen will, hierfür nach allgemeinen Darlegungs- und Beweislastregeln die
+     tatsächlichen Voraussetzungen geltend machen und bei ihrer Nichterweislich-
+
+                                          - 12 -
+
+
+
+     keit die Nachteile tragen (Senatsbeschluss vom 9. Mai 1990 - XII ZB 58/89 -
+     FamRZ 1990, 1341, 1342).
+
+25         b) Ob und in welchem Umfang die Durchführung des Versorgungsausgleichs nach § 1587 c Nr. 1 BGB grob unbillig erscheint, unterliegt tatrichterlicher Beurteilung, die vom Rechtsbeschwerdegericht nur daraufhin zu überprüfen ist, ob alle wesentlichen Umstände berücksichtigt wurden und das Ermessen in einer dem Gesetzeszweck entsprechenden Weise ausgeübt wurde (Senatsbeschlüsse vom 5. November 2008 - XII ZB 53/06 - FamRZ 2009, 303
+     Rn. 33; vom 11. September 2007 - XII ZB 107/04 - FamRZ 2007, 1964 Rn. 11;
+     vom 25. April 2007 - XII ZB 206/06 - FamRZ 2007, 1084 Rn. 29; vom 29. März
+     2006 - XII ZB 2/02 - FamRZ 2006, 769, 770 und vom 25. Mai 2005
+     - XII ZB 135/02 - FamRZ 2005, 1238).
+
+26         c) Gemessen daran ist die Abwägung des Oberlandesgerichts nicht zu
+     beanstanden. Der Ehemann ist seiner Darlegungslast zur unbilligen Härte trotz
+     des Hinweises des Oberlandesgerichts nicht hinreichend nachgekommen. Das
+     Oberlandesgericht hat die vorgebrachten Argumente zutreffend gewürdigt. Der
+     Scheidungsantrag wurde nicht verfrüht zugestellt, sondern nach Ablauf des
+     Trennungsjahres. Die Parteien verfügen über monatliche Einkünfte in nahezu
+     derselben Größenordnung. Der Vermögenserwerb in der Ehe hält sich ebenfalls
+     in etwa die Waage. Ein Ausbruch der Ehefrau aus intakter Ehe ist weder hinreichend schlüssig dargelegt, noch führte ein solcher für sich allein genommen zu
+     einer groben Unbilligkeit des Versorgungsausgleichs.
+
+27         Dass der Ehemann - wie er mit der Rechtsbeschwerde vorträgt - keine
+     Erwerbstätigkeit mehr ausüben könne, während die Ehefrau weiter arbeite und
+     ihre Altersversorgung weiter aufbauen könne, begründet ebenfalls keine grobe
+     Unbilligkeit. Eine solche könnte allenfalls dann in Betracht zu ziehen sein, wenn
+
+                                        - 13 -
+
+
+
+der Ehemann nicht nur keiner Erwerbstätigkeit mehr nachgehen könnte, sondern auch über keine sonstigen auskömmlichen Einkünfte verfügen würde, so
+dass sein Unterhalt nur durch den (weiteren) vorgezogenen Altersrentenbezug
+gesichert   werden     könnte   (vgl.   Senatsbeschlüsse    vom   18. Mai    2011
+- XII ZB 127/08 -    FamRZ      2011,    1214    Rn. 18;   vom    22. Juni   2005
+- XII ZB 117/03 - FamRZ 2005, 1455, 1458). Diese Voraussetzungen liegen hier
+jedoch nicht vor, da der Ehemann über eine Pension von 2.040 € verfügt und
+überdies noch bis zum Renteneintritt der elf Jahre jüngeren Ehefrau vom Pensionärsprivileg profitiert. Die Ehefrau hat wegen der Erziehung und Versorgung
+der gemeinsamen Kinder in der Ehezeit deutlich geringere Versorgungsanwartschaften erworben. Der Versorgungsausgleich gewährleistet ihr deshalb die
+gleichmäßige Teilhabe an den in der Ehezeit erworbenen Versorgungsanrechten.
+
+
+
+
+Hahne                      Weber-Monecke                            Klinkhammer
+
+              Günter                             Nedden-Boeger
+
+Vorinstanzen:
+AG Tauberbischofsheim, Entscheidung vom 17.04.2007 - 2 F 337/06 -
+OLG Karlsruhe, Entscheidung vom 14.01.2008 - 16 UF 91/07 -
