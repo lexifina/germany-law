@@ -1,0 +1,8 @@
+# TOP 6: Aktualisierung Masterplan Stadthäfen Münster
+
+- Sitzung: 17. Sitzung (2011-12-14)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/112345
+- Ergebnis: mehrheitlich geändert beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/48180
