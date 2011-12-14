@@ -1,0 +1,95 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2011-12-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2154607
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2154607
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Beleuchtung der Wege in der Grünanlage zwischen Aubing-Ost-Straße und Kastelburgstraße
+- TOP 2.2.: Errichtung von Reitwegen um das Gelände der Parkanlage Aubinger Lohe
+- TOP 2.3.: Parkende Lkw in der Aubinger Straße
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Kräheneckstr. 11 - Am Loferfeld 24 - Bergsonstr. 150 - Alzenauer Str. 8 - Streitbergstr. 72 - Hagenbachstr. 39
+- TOP 3.2.: Baumfällungen mit Bauvorhaben: - Aubinger Str. 103 gem.Baumbestandsplan Nr. 2011-28309
+- TOP 3.3.: Bescheid zum Fällungsantrag: - Krautgartenweg 44, Schr. Planungsreferat vom 17.11.11 - Ulrich-Corti-Str. 13, Schr. Planungsreferat vom 18.11.11 - Limesstr. 83, Schr. Planungsreferat vom 18.11.11
+- TOP 3.4.: Naturdenkmalverordnung vom 08.09.11 mit Naturdenkmalliste, Schr. Planungsreferat vom 30.11.11
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Tanzbestellung "Schäfflertänze"
+- TOP 4.2.: Einrichtung eines Seniorentrainingsparks im 22. Stadtbezirk
+- TOP 4.3.: Ampelphasen an der Kreuzung Bodensee- / Limesstraße
+- TOP 4.4.: Änderung des Flächennutzungsplanes der Flächen an der Nordseite der Bodenseestraße
+- TOP 4.5.: Rechtzeitiger Baubeginn für Campus Freiham
+- TOP 4.6.: Einrichtung eines Bildungslokals
+- TOP 5: Entscheidungen
+- TOP 1: Errichtung eines eingeschränkten Haltverbots auf der westlichen Seite der Leienfelsstraße ab Bad-Stebener-Weg bis zur Einmündung Aubinger Straße (Empfehlung Nr. 08-14 / E 00988 der Bürger- versammlung des 22. Stadtbezirkes Aubing- Lochhausen-Langwied am 28.06.2011)
+- TOP 2: Anlegen von Reitwegen im Umfeld der Reithöfe im 22. Stadtbezirk
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Schulleitungen im Stadtbezirk, Schr. Referat für Bildung und Sport vom 21.11.11
+- TOP 6.2.: Unterlagen zu dem gemeinsamen Ausschuss über Stadtteilpläne am 19.10.11, Schr. Referat für Gesundheit und Umwelt vom 07.11.11 (vertagt aus der letzten Sitzung)
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Mobilfunk-Suchkreismeldung im Suchkreis 14413 (UMTS), Anhörung RGU vom 21.11.11
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Neuaufstellung von Informationsschaukästen für die Standorte Bodenseestr./Ecke Aufseßer Platz/Limesstr., Raldolfzeller Str./Ecke Sipplinger Str., S-Bahnhof Westkreuz/Aubinger Str., Anhörung Kommunalreferat vom 18.11.11
+- TOP 6.2.: Mobilfunk-Suchkreismeldung im Suchkreis Müllerstadel-BAB (GSM und UMTS), Anhörung RGU vom 21.11.11
+- TOP 6.3.: Haltverbote in der Riesenburgstraße - verkehrsrechtliche Anordnung, Anhörung des KVR vom 24.11.11
+- TOP 6.4.: Umfrage an alle Münchner Bezirksausschüsse zu "Urbanes Naturnetz für ganz München", Schr. Verein Urbanes Wohnen e.V. vom 28.11.11
+- TOP 6.5.: Bebauungsplan mit Grünordnung Nr. 2009 - Goteboldstraße zwischen Lochhausener Straße und Müllerstadelstraße, Müllerstadelstraße zwischen Goteboldstraße und Paul-Ehrlich-Weg, Paul-Ehrlich-Weg zwischen Müllerstadelstraße und der Anrampung der Autobahnbrücke, Anhörung Planungsreferat vom 28.11.11
+- TOP 6.6.: Erweiterung des Friedhofs Aubing, Beschlussvorlage des Gesundheitsausschusses vom 19.01.12, Anhörung Ref. f. Gesundheit u. Umwelt
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 07.11.-13.11.11, v. 14.11.-20.11.11, v. 21.11.-27.11.11), Schr. Planungsreferat vom 14.11.11, 21.11.11, 29.11.11
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 14.11.11, 21.11.11, 28.11.11
+- TOP 6.3.: Situation am S-Bahnhof Neuaubing; Bahnhof Neuaubing, Schr. Referat für Arbeit und Wirtschaft vom 26.10.11
+- TOP 6.4.: Verkehrssituation in der Huislerstraße, Schr. KVR vom 17.11.11
+- TOP 6.5.: Baumaßnahmen der Stadtwerke: Stromprojekt Aufseßer Straße, Schr. SWM vom 17.11.11
+- TOP 6.6.: Prüfung der Nutzung des Grundstückes Georg-Böhmer-Str. 1, Schr. RGU vom 16.11.11
+- TOP 6.7.: Geschwindigkeitsbegrenzung in der Eschenrieder Straße nach der Autobahnbrücke der A8, Schr. KVR vom 22.11.11
+- TOP 6.8.: Autohändler mit Werkstatt am Germeringer Weg 5 - Überprüfung des Betriebes, Schr. KVR vom 23.11.11 und Schr. PI 45 vom 29.11.11
+- TOP 6.9.: Protokoll der Einwohnerversammlung "Ensemble Aubing" am 24.11.11
+- TOP 6.10.: Nutzung der Grünfläche Friedrichshafener Straße, Schr. Baureferat vom 24.11.11
+- TOP 6.11.: Bescheid für Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Münchner Stadtgebiet, Schr. Ref. f. Gesundheit u. Umwelt vom 22.11.11
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Bezirksausschüsse in "Stadtteilräte" umbenennen (BA-Antrag Nr. 3414 des BA 4), Anhörung Direktorium vom 16.11.11
+- TOP 7.2.: Friedhofserweiterung Aubing; - Erweiterung des Friedhofs Aubing; Einleitung eines Enteignungsverfahrens (Antrag Nr. 3080 vom 25.07.2001 und Nr. 2191 vom 29.12.2004) - Neuregelung für den Erwerb von Grabstellen auf dem Friedhof Aubing (BVE Nr. 135/22. vom 12.07.2001) - Friedhofserweiterung Aubing (BVE Nr. 999/22 vom 28.06.11) - Erweiterung Friedhof Aubing und Errichtung südlicher Zugang; Darstellung der künftigen Planungen des Friedhofs Aubing im Rahmen der Siedlungsmaßnahme Freiham Nord (BA-Antrag Nr. 421/22 vom 17.09.2008) - Errichtung einer Urnenmauer oder Urnenhalle und Sanierung des nördlichen Parkplatzes (BA-Antrag Nr. 1071/22 vom 22.04.11), Anhörung Referat für Gesundheit und Umwelt vom 29.11.11
+- TOP 7.3.: Altostr. 36 - Anbau einer Aufzugsanlage und Erschließungsbalkone Wohn- und Geschäftshaus (vertagt aus 10/12), Anhörung Planungsreferat vom 17.10.11
+- TOP 7.4.: Papinstr. 53, Abbruch Ostflügel und Anbau Gebäude für Büro- und Verwaltungsräume - Vorbescheid, Anhörung Planungsreferat vom 07.12.11
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung des Gastättenbetriebes: - Cocktail- und Shishabar im Westen, Limesstraße 105, Schr. KVR vom 10.11.11 - Taksim, Altostr. 37, Schr. KR vom 10.11.11
+- TOP 8.2.: Europe Direct Information 07/2011, Schr. Referat für Arbeit und Wirtschaft vom 14.11.11
+- TOP 8.3.: Wirtschafts-Info 11/2011, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.11.11
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Umweltschutzausschusses vom 29.11.11: - Lärmminderungsplan für München, Entwurf des Lärmaktionsplans (UA Planung)
+- TOP 10.2.: Beschluss des Sozialausschusses vom 01.12.11: - Verbot der Zweckentfremdung von Wohnraum - Einführung des europäischen "Tag des Nachbarn" in München (UA Soziales)
+- TOP 10.3.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 29.11.11: Haushaltsplan 2012 - Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamts (UA Soziales)
+- TOP 10.4.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, das Sozialausschusses und des Finanzausschusses vom 07.12.11: - Münchner Bürgerinnen- und Bürgerbefragung 2010 - Wohnungsmarkt München - Expertenbefragung 2011, Wohnungsmarktbarometer 2011 (UA Planung)
+- TOP 10.5.: Beschluss des Kulturausschusses vom 17.11.11: Sicherung des Standortes Ehrenbürgstraße 9 für Ateliers und Werkstätten - Erhalt und Öffnen des ehemaligen Zwangsarbeiterlagers und der unteren Denkmalschutz/Ensembleschutz stehende Anlage (UA Planung)
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 09.11.11: Erhalt Bahnübergang Freihamer Allee (BVE Nr. 996/22. vom 28.06.11) (UA Freiham)
+- TOP 10.7.: Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11: - Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016 und Hinweis/Ergänzung (UA Planung) - Zukunft des geförderten Wohnungsbaus in München (UA Planung)
+- TOP 10.8.: Beschluss des Ausschusses für Stadtplanung und Bauordnung am 30.11.11: - 2. Stammstrecke: Vorfinanzierung durch die LHM (UA Planung) - Ensemble ehemalige Dorfkerne im Sinne des Bayer. Denkmaschutzgesetzes (UA Planung)
+- TOP 10.9.: Beschluss des Verwaltungs- und Personalausschusses vom 16.11.11: Änderung der Satzung für die Bezirksausschüsses der LH München
+- TOP 10.10.: Beschluss des Bauausschusses vom 15.11.11: - ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Information zur Auslastung der Ferienangebote des Stadtjugendamtes, ggfs. Ausweitung und Aufstockung der Ferienangebote, Antrag des BA 25 vom 08.11.11
+- TOP 11.2.: Terminvorschläge für Regionalgespräch Bezirksausschüsse - LBK am 28.03.12, 04.04.12 oder 11.04.12, Schr. LBK vom 24.11.11
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 13: Nichtöffentliche Sitzung
