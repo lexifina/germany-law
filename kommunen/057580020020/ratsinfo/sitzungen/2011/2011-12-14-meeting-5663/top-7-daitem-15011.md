@@ -1,0 +1,11 @@
+# TOP 7.: 14. Änderung des Flächennutzungsplanes - Aufstellungsbeschluss - Beschluss zur Durchführung der frühzeitigen Bürgerbeteiligung und zur Beteiligung der Behörden
+
+- Sitzung: Planungsausschuss (10. Sitzung) (2011-12-14)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15011
+- Ergebnis: einstimmig, 0 Enthaltung(en)
+- Beratung: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/5513
+- Beschluss (Datei): Beschlusstext (14. Änderung des Flächennutzungsplanes
+- Aufstellungsbeschluss
+- Beschluss zur Durchführung der frühzeitigen Bürgerbeteiligung und zur Beteiligung der Behörden) https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWzjAlzgavEFuDcXk3teL2-3JlW2PuANDjyrXfDZZ7zu/Beschlusstext_116-2011_-oeffentlich-_Ausschuss_fuer_Planung-_Strassen_und_Verkehr_14.12.2011.pdf
