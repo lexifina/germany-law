@@ -1,0 +1,59 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2011-12-14T17:00:00+01:00
+- Ende: 2011-12-14T20:50:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2692
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2692
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=53767
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 1.1: Resolution gegen Rechtsextremismus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 3. Sitzung der BVV am 14.12.2011 - beantwortet
+- TOP 3: Konsensliste für die 3. Sitzung der BVV am 14.12.2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Bildung von Ausschüssen - korrigierte Fassung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.2: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.3: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.4: Wahl einer Bürgerdeputierten / einer stellv. Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.5: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.6: Wahl von stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.7: Gelände Karl-Bonhoeffer-Nervenklinik - überwiesen
+- TOP 3.8: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 3. Sitzung der BVV am 14.12.2011 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Bildung des temporären Ausschusses für transparente und moderne Öffentlichkeitsarbeit der Bezirksverordnetenversammlung - mit Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Abitur auch nach 13 Jahren am Gymnasium ermöglichen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: MSA an Gymnasien freiwillig - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Daten über Kinderschutz vergleichbar machen - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Gesundheitssituation insbesondere in Reinickendorf-Ost - überwiesen
+- TOP 8.1.1: Gesundheitssituation insbesondere in Reinickendorf-Ost - überwiesen
+- TOP 8.2: Schneeräumung in Reinickendorf - beantwortet
+- TOP 8.3: Kostenloses Internet für Bürgerinnen und Bürger in öffentlichen Gebäuden - beantwortet
+- TOP 8.3.1: W-LAN in den Publikumsverkehr geöffneten bezirklichen Gebäuden - überwiesen
+- TOP 8.4: Leerstand in Reinickendorf - beantwortet
+- TOP 8.4.1: Onlineportal zur Bewerbung auf Leerstand - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Individualleistungen nach dem Bildungs- und Teilhabepaket - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Kiezlotsinnen in Regelfinanzierung - überwiesen
+- TOP 12.2: Öffentlichkeitsbeteiligung bei bezirklichen Bebauungsplanverfahren online - überwiesen
+- TOP 12.3: Integrationspreis 2012 - überwiesen
+- TOP 12.4: Ladezone auf der Frohnauer Brücke - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Einsatz eines Computerprogramms für die Kita-Suche - überwiesen
+- TOP 13.2: Sitzgelegenheiten Quäkerstraße / Auguste-Viktoria-Allee - überwiesen
+- TOP 13.3: Teilnahme an Berliner Suchthilfestatistik - überwiesen
+- TOP 13.4: Sprachförderklassen für Kinder im Grundschulalter einrichten - überwiesen
