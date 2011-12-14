@@ -1,0 +1,185 @@
+---
+ecli: "ECLI:DE:BVerfG:2011:rs20111214.2bvr098710"
+court: "Bundesverfassungsgericht"
+spruchkoerper: "2"
+aktenzeichen: "2 BvR 987/10"
+decided: "2011-12-14"
+typ: "B"
+bverfge: "TRUE"
+zitiervorschlag: "BVerfG, Beschluss des Zweiten Senats vom 14. Dezember 2011\n- 2 BvR 987/10 -, Rn. 1-1,\n                    https://www.bverfg.de/e/rs20111214_2bvr098710"
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/12/rs20111214_2bvr098710.html"
+corpus_doc_id: "BVerfG_2011-12-14_S_2_BvR_0987_10_NA_NA_NA_NA.txt"
+cites_law: ["germany/bund/acts/bverfgg/0034a.md", "germany/bund/acts/grundgesetz/artikel/002.md"]
+---
+
+# Bundesverfassungsgericht, 2 BvR 987/10 vom 2011-12-14
+
+## Entscheidung
+
+BUNDESVERFASSUNGSGERICHT
+- 2 BVR 987/10 -
+- 2 BVR 1485/10 -
+- 2 BVR 1099/10 -
+
+
+
+
+                                  In den Verfahren
+                                        über
+                            die Verfassungsbeschwerden
+
+I.   1. des Herrn Prof. Dr. H...,
+
+     2. des Herrn Prof. Dr. N...,
+
+     3. des Herrn Prof. Dr. S...,
+
+     4. des Herrn Prof. Dr. Dr. h.c. S...,
+
+     5. des Herrn Prof. Dr. Dr. h.c. S...,
+
+- Bevollmächtigter zu 1., 2., 4., 5. : Prof. Dr. Karl Albrecht Schachtschneider,
+                                       Treiberpfad 28, 13469 Berlin -
+1) gegen die Währungspolitik der Bundesrepublik Deutschland (Hilfe für Griechenland) wegen Verletzung der Grundrechte der Beschwerdeführer aus Artikel 38 Absatz 1, Artikel 14 Absatz 1 und Artikel 2 Absatz 1 GG
+
+- 2 BVR 987/10 -,
+
+2) gegen a) die Bundesrepublik Deutschland wegen der Tatsache, dass sie finanzielle Hilfen für die Hellenische Republik mit den anderen Mitgliedern
+            der Euro-Gruppe vereinbart hat, finanzielle Hilfen für Griechenland gewährt, insbesondere durch das Gesetz zur Übernahme von Gewährleistungen zum Erhalt der für die Finanzstabilität in der Währungsunion erforderlichen Zahlungsfähigkeit der Hellenischen Republik
+            (Währungsunion-Finanzstabilitätsgesetz vom 7. Mai 2010 <BGBl I
+            S. 537>), Kredite der Kreditanstalt für Wiederaufbau an die Hellenische Republik gewährleistet und den Internationalen Währungsfonds
+            veranlasst, Griechenland finanziell zu unterstützen,
+
+          b) Vereinbarungen der Europäischen Union, insbesondere der Euro-Gruppe, in welchen finanzielle Hilfen für die Hellenische Republik auch
+             durch die Bundesrepublik Deutschland abgesprochen wurden,
+
+
+
+                                             1/5
+
+         c) den Beschluss der im Rat der Europäischen Union vereinigten Vertreter der Regierungen der Mitgliedstaaten der Europäischen Union, insbesondere der Regierungen der Euro-Gruppe, vom 10. beziehungsweise 9. Mai 2010 (Rat-Dok. 9614/10) und den Beschluss des Rates
+            der Europäischen Union (Wirtschaft und Finanzen, ECOFIN) vom
+            9. Mai 2010, einen europäischen Finanzstabilisierungsmechanismus
+            zu schaffen, einschließlich der Schlussfolgerungen dieses Rates (Rat-Dok. SN 2564/1/10 REV 1),
+
+         d) die Verordnung (EU) Nr. 407/2010 des Rates vom 11. Mai 2010 zur
+            Einführung eines europäischen Finanzstabilisierungsmechanismus
+            (ABl Nr. L 118/1),
+
+         e) das Gesetz zur Übernahme von Gewährleistungen im Rahmen eines
+            europäischen Stabilisierungsmechanismus vom 21. Mai 2010 (Euro-Stabilisierungsmechanismus-Gesetz, BGBl I S. 627),
+
+         f) die EFSF-Rahmenvereinbarung zwischen den Mitgliedstaaten der
+            Euro-Gruppe und der Europäischen Finanzstabilisierungsfazilität,
+            EFSF, vom 7. Juni 2010,
+
+         g) die Einrichtung der Zweckgesellschaft (European Financial Stability
+            Facility, Europäische Finanzstabilisierungsfazilität EFSF, Société Anonyme Luxemburgischen Rechts mit Sitz in Luxemburg) zur Abwicklung der Rettungsmaßnahmen zugunsten notleidender Staatshaushalte von Mitgliedern der Euro-Gruppe und die Beteiligung Deutschlands
+            an dieser Zweckgesellschaft,
+
+         h) die Praxis der Europäischen Zentralbank, Staatsanleihen der Mitglieder der Euro-Gruppe anzukaufen und Staatsanleihen jedweder Art der
+            Mitglieder der Euro-Gruppe zu refinanzieren,
+
+- 2 BVR 1485/10 -,
+
+II.      des Herrn Dr. G...,
+
+- Bevollmächtigte:1. Prof. Dr. Dietrich Murswiek,
+                     Lindenaustraße 17, 79199 Kirchzarten,
+                 2. Prof. Dr. Wolf-Rüdiger Bub,
+                    Promenadeplatz 9, 80333 München -
+
+gegen a) das Gesetz zur Übernahme von Gewährleistungen im Rahmen eines europäischen Stabilisierungsmechanismus vom 22. Mai 2010 (BGBl I
+         S. 627),
+
+
+
+
+                                        2/5
+
+b) die Mitwirkung der Bundesregierung an den intergouvernementalen Beschlüssen der im Rat der Europäischen Union vereinigten Vertreter der
+   Regierungen der dem Euro-Währungsgebiet angehörenden Mitgliedstaaten und der Regierungen der 27 EU-Mitgliedstaaten vom 10. Mai 2010
+   (Rat-Dok. 9614/10) sowie an dem Beschluss des Rates der EU vom
+   9. Mai 2010, einen europäischen Stabilisierungsmechanismus zu schaffen (Schlussfolgerungen des Rates [Wirtschaft und Finanzen] vom 9. Mai
+   2010, Rat-Dok. SN 2564/1/10 REV 1 vom 10. Mai 2010, S. 3) und an
+   dem Beschluss des Rates über die Verordnung Nr. 407/2010 vom
+   11. Mai 2010 des Rates zur Einführung eines europäischen Finanzstabilisierungsmechanismus (ABl Nr. L 118/1),
+
+c) die unter b) genannten Beschlüsse des Rates der Europäischen Union
+   sowie die unter b) genannte Verordnung des Rates,
+
+d) den Aufkauf von Staatsanleihen Griechenlands und anderer Mitgliedstaaten des Euro-Währungsgebiets durch die Europäische Zentralbank,
+
+e) die Mitwirkung der Bundesregierung an der außervertraglichen Änderung
+   der im Vertrag über die Arbeitsweise der Europäischen Union vorgesehenen Konzeption zur Sicherung der Preisstabilität des Euro; diese Mitwirkung besteht in den unter b) genannten Mitwirkungshandlungen an den
+   Beschlüssen der EU beziehungsweise der Mitgliedstaaten über den europäischen Stabilisierungsmechanismus in Verbindung mit der Mitwirkung an den im Rahmen der Europäischen Union beziehungsweise zwischen den Mitgliedstaaten des Euro-Währungsgebiets getroffenen
+   Beschlüssen über das „Griechenland-Rettungspaket“, dessen deutscher
+   Anteil mit dem Gesetz zur Übernahme von Gewährleistungen zum Erhalt
+   der für die Finanzstabilität in der Währungsunion erforderlichen Zahlungsfähigkeit der Hellenischen Republik (Währungsunion-Finanzstabilitätsgesetz - WFStG) vom 7. Mai 2010 (BGBl I S. 537) umgesetzt wurde,
+
+f) die Unterlassung der Kommission sowie des Rates der Europäischen
+   Union, die im Vertrag über die Arbeitsweise der Europäischen Union vorgesehenen Maßnahmen gegen die Überschuldung von Mitgliedstaaten
+   des Euro-Währungsgebiets zu ergreifen sowie gegen deren Missachtung
+   der im Vertrag vorgeschriebenen Haushaltsdisziplin vorzugehen und auf
+   diese Weise die Entstehung einer Zwangslage zu verhindern, mit der
+   jetzt die mit dem Vertrag unvereinbaren „Rettungspakete“
+   („Griechenland-Rettungspaket“ und europäischer Stabilisierungsmechanismus) gerechtfertigt werden,
+
+
+
+
+                                 3/5
+
+        g) die Unterlassung der Bundesregierung, Maßnahmen gegen diejenigen
+           Spekulanten zu ergreifen, die nach ihrer Darstellung gegen den Euro beziehungsweise gegen bestimmte Mitgliedstaaten des Euro-Währungsgebiets derart aggressiv spekulieren, dass zur Rettung der
+           Währungsstabilität die „Rettungspakete“ erforderlich sind
+
+- 2 BVR 1099/10 -
+
+hier:     Entscheidung über Auslagenerstattung
+
+hat das Bundesverfassungsgericht - Zweiter Senat - unter Mitwirkung der Richterinnen und Richter
+                                  Präsident Voßkuhle,
+                                  Di Fabio,
+                                  Lübbe-Wolff,
+                                  Gerhardt,
+                                  Landau,
+                                  Huber,
+                                  Hermanns
+
+am 14. Dezember 2011 beschlossen:
+
+Die Bundesrepublik Deutschland hat den Beschwerdeführern ihre notwendigen Auslagen zu einem Drittel zu erstatten.
+
+                                      Gründe:
+ Die Entscheidung beruht auf § 34a Abs. 3 BVerfGG. Die Verfassungsbeschwerden         1
+sind zwar zurückgewiesen worden, haben aber in der Sache zur Klärung einer Frage
+von grundsätzlicher Bedeutung beigetragen (vgl. BVerfGE 36, 146 <173 f.>; 109, 190
+<243 f.>). Die Frage nach der Zulässigkeit der Verfassungsbeschwerden wird unter
+dem Gesichtspunkt der Rüge einer Verletzung der dauerhaften Haushaltsautonomie
+des Deutschen Bundestages im Sinne der Beschwerdeführer beantwortet. Es entspricht der Billigkeit, ihnen die durch das Verfassungsbeschwerdeverfahren entstandenen notwendigen Auslagen in Höhe von einem Drittel zu erstatten.
+
+               Voßkuhle                                     Di Fabio
+
+              Lübbe-Wolff             Gerhardt              Landau
+
+                 Huber                                     Hermanns
+
+
+
+
+                                         4/5
+
+Bundesverfassungsgericht, Beschluss des Zweiten Senats vom 14. Dezember 2011
+- 2 BvR 987/10
+
+Zitiervorschlag BVerfG, Beschluss des Zweiten Senats vom 14. Dezember 2011 -
+                2 BvR 987/10 - Rn. (1 - 1), http://www.bverfg.de/e/
+                rs20111214_2bvr098710.html
+
+ECLI           ECLI:DE:BVerfG:2011:rs20111214.2bvr098710
+
+
+
+
+                                     5/5
