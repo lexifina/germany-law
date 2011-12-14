@@ -1,0 +1,59 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2011-12-14T17:00:00+01:00
+- Ende: 2011-12-14T20:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2468
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b9373a61d8f32e9185fe772
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - ungeändert beschlossen
+- TOP 2: Einführung und Verpflichtung eines neuen Ratsmitgliedes - ungeändert beschlossen
+- TOP 3: Genehmigung der Niederschriften über die Sitzungen des Rates der Stadt vom 12.10.2011 und 09.11.2011; die Niederschrift über die Sitzung des Rates der Stadt vom 12.10.2011 wurde inzwischen übersandt, die Niederschrift vom 09.11.2011 wird nachgereicht. - ungeändert beschlossen
+- TOP 4: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - ungeändert beschlossen
+- TOP 5: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen - (offen)
+- TOP 5.1: Gesellschafterdarlehen E 26 für Herstellung einer barrierefreien 24h-WC-Anlage im Centre Charlemagne - ungeändert beschlossen
+- TOP 5.2: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2011 - Gesellschafterdarlehen über 6,75 Mio. Euro <span style="color: #888a85" title="Zusatzinfo">(mit Nachtrag zurückgezogen)</span> - zurückgezogen
+- TOP 5.3: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2011 - Revitalisierung Umspannwerk Borngasse/Grunddienstbarkeit - ungeändert beschlossen
+- TOP 5.4: Über- und außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen – Haushaltsjahr 2011 - Bildung einer Steuerrückstellung aufgrund der Kapitalertragsteuerbelastung für das Jahr 2008 bei dem Betrieb gewerblicher Art -Unternehmen derWirtschaftsförderung- - ungeändert beschlossen
+- TOP 6: Kanalgebühren 2012 sowie Gebührenbedarfsberechnung 2012 - ungeändert beschlossen
+- TOP 7: 11. Nachtrag zur Satzung über die Entleerung von Kläreinrichtungen - ungeändert beschlossen
+- TOP 8: Neufassung der Benutzungsordnung und der Gebührenordnung der Stadtbibliothek - ungeändert beschlossen
+- TOP 9: 10. Nachtrag zum Taxentarif für die Stadt Aachen - ungeändert beschlossen
+- TOP 10: Satzung und Richtlinien für Kindertagespflege in der Stadt Aachen - ungeändert beschlossen
+- TOP 10.1: Satzung und Richtlinien für Kindertagespflege in der Stadt Aachen - ungeändert beschlossen
+- TOP 11: Entwicklung der StädteRegion Aachen - ungeändert beschlossen
+- TOP 12: Zusammenarbeit mit türkischen Städten - ungeändert beschlossen
+- TOP 13: Jahresabschluss und Lagebericht der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen für das Wirtschaftsjahr 2010 - geändert beschlossen
+- TOP 14: Wirtschaftsplan 2012 der eigenbetriebsähnlichen Einrichtung Gebäudemanagement der Stadt Aachen - ungeändert beschlossen
+- TOP 15: Wirtschaftsplan 2012 einschließlich mittelfristige Ergebnis- und Finanzplanung 2012 bis 2016 von Volkshochschule Aachen <span style="color: #888a85" title="Zusatzinfo">(mit Nachtrag zurückgezogen)</span> - zurückgezogen
+- TOP 16: Wirtschaftsplan für den Kulturbetrieb E 49 für das Wirtschaftsjahr 2012 - ungeändert beschlossen
+- TOP 17: Wirtschaftsplan Eurogress Aachen 2012 - ungeändert beschlossen
+- TOP 18: Vertragsverlängerung mit der Verbraucher-Zentrale NRW zur Finanzierung der Energieberatungsstelle Aachen für das Jahr 2014 - ungeändert beschlossen
+- TOP 19: Unterstützung der Charta zur Betreuung schwerstkranker und sterbender Menschen in Deutschland - Antrag der SPD-Fraktion vom 27.09.2011 - - ungeändert beschlossen
+- TOP 20: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 21: Anfragen - ungeändert beschlossen
+- TOP 22: Mitteilungen der Verwaltung und Ratsanträge - ungeändert beschlossen
+- TOP 23: Bebauungsplan Nr. 918 - Eupener Straße/ Salierallee - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen St. Vither Straße, Bertholdstraße, Goldbachstraße, Salierallee und Eupener Straße hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 24: Bebauungsplan Nr. 934 - Breslauer Straße/ Berliner Ring - für den Planbereich im Stadtbezirk Aachen-Mitte im Bereich zwischen Breslauer Straße, Berliner Ring und A 544 hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 25: Sachstandsbericht zum Stand einer möglichen Umfinanzierung des Tivoli-Stadions; hier: Antrag der Fraktion der SPD zur Tagesordnung - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 4.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.2: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.3: nicht öffentlicher Tagesordnungspunkt
+- TOP 5.4: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
