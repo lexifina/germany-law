@@ -1,0 +1,114 @@
+# 18. Sitzung (Verabschiedung Haushalt 2012)
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-12-14T18:07:00+01:00
+- Ende: 2011-12-14T22:22:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7803
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7803
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00316895.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 5.1: Anschreiben des Oberbürgermeisters an Münsteraner Bürgerinnen und Bürger
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Änderung der Straßenreinigungssatzung der Stadt Münster - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP -: Haushalt 2012
+- TOP -: Reden der Vorsitzenden der Fraktionen, der Gruppe und des fraktionslosen Ratsmitgliedes
+- TOP 10: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2012 - mehrheitlich beschlossen
+- TOP 11: Bürgerhaushalt 2011 - Beratung der 90 bestplatzierten Bürgervorschläge - mehrheitlich beschlossen
+- TOP 12: Handy-Parken (E-Parking / Mobile-Parking) in Münster - mehrheitlich geändert beschlossen
+- TOP 13: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - mehrheitlich geändert beschlossen
+- TOP 13.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM)
+- TOP 13.1.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM)
+- TOP 14: Optimierung bürgerorientierter Dienstleistungen: Sanierung Stadthaus 1 - von der Tagesordnung abgesetzt
+- TOP 15: Schillergymnasium, Gertrudenstr.5 und Ratsgymnasium, Bohlweg 7, : Fenster-und Fassadensanierung - einstimmig beschlossen
+- TOP 15.1: Schillergymnasium, Gertrudenstr.5 : Fenster- und Fassadensanierung
+- TOP 16: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 16.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2012 - einstimmig beschlossen
+- TOP 16.2: Abfallgebühren 2012 - einstimmig beschlossen
+- TOP 16.3: Straßenreinigungsgebühren 2012 - mehrheitlich beschlossen
+- TOP 16.4: Satzung zur Änderung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten (Send und Kirmessen) in der Stadt Münster - einstimmig beschlossen
+- TOP 16.5: Änderung der Entgeltordnung für das Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 16.5.1: Änderung der Entgeltordnung für das Bürgerhaus Kinderhaus
+- TOP 16.6: Änderung der Entgeltordnung für das Begegnungszentrum Meerwiese - einstimmig beschlossen
+- TOP 16.6.1: Änderung der Entgeltordnung für das Begegnungszentrum Meerwiese
+- TOP 16.7: Entgeltordnung Villa ten Hompel - einstimmig beschlossen
+- TOP 16.7.1: Entgeltordnung Villa ten Hompel
+- TOP 16.8: Änderung der Gewässergebührensatzung (GGS) - mehrheitlich beschlossen
+- TOP 17: Kapitalerhöhung bei der Flughafen Münster/Osnabrück GmbH - mehrheitlich beschlossen
+- TOP 18: Errichtung einer städtischen Gesamtschule und auslaufende Auflösung der Paul-Gerhardt-Realschule - mehrheitlich geändert beschlossen
+- TOP 19: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel - einstimmig geändert beschlossen
+- TOP 19.1: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel
+- TOP 20: Aktueller Sachstand zu international ausgerichteten Bildungsangeboten - einstimmig beschlossen
+- TOP 21: Peter-Wust-Schule - einstimmig beschlossen
+- TOP 21.1: Peter-Wust-Schule
+- TOP 22: Lehranstalt für pharmazeutisch-technische Assistenten/innen Münster (PTA-Lehranstalt) - mehrheitlich geändert beschlossen
+- TOP 23: Machbarkeitsstudie für den Bau eines neuen Hallenbades an gleicher Stelle des ehemaligen Südbades - mehrheitlich geändert beschlossen
+- TOP 24: Errichtung einer neuen Sporthalle für das Ostviertel - einstimmig beschlossen
+- TOP 25: Fortführung der Teilnahme am European Energy Award - einstimmig beschlossen
+- TOP 26: Rückbau von öffentlichen Spielplätzen - einstimmig geändert beschlossen
+- TOP 27: Extensivierung der Pflege von Rasen- und Wiesenflächen in öffentlichen Grünflächen - mehrheitlich abgelehnt
+- TOP -: Sonstige Ratsentscheidungen
+- TOP 28: Bestellung zum Stadtkämmerer - einstimmig beschlossen
+- TOP 29: Beitritt der Stadt Münster zur Einkaufsgenossenschaft kommunale Verwaltungen im Deutschen Städtetag - mehrheitlich beschlossen
+- TOP 30: Feststellung des Jahresabschlusses 2010 der Stadt Münster - einstimmig beschlossen
+- TOP 31: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 31.1: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 32: Wirtschaftspläne für das Jahr 2012
+- TOP 32.1: Wirtschaftsplan der Citeq für das Jahr 2012 - einstimmig beschlossen
+- TOP 32.2: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 32.3: Wirtschaftsplan 2012 für Münster Marketing - mehrheitlich beschlossen
+- TOP 32.4: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2012 - einstimmig beschlossen
+- TOP 33: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - von der Tagesordnung abgesetzt
+- TOP 34: Wassertemperaturen in städtischen Freibädern, Nachrüstoptionen für eine Zusatzheizung - einstimmig beschlossen
+- TOP 35: Bericht über die Beteiligungen der Stadt Münster im Jahr 2010 (Beteiligungsbericht 2010) - zur Kenntnis genommen
+- TOP 36: Übertragung des Geschäftsanteils des Schweinezüchterverbandes Nord-West e.V. an der Messe und Congress Centrum Halle Münsterland GmbH - einstimmig beschlossen
+- TOP 37: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 38: Allgemeine Vorschrift der Stadt Münster gem. Art. 3 Abs. 2 VO (EG) 1370/2007 zum Ausgleich von Mindereinnahmen im Ausbildungsverkehr - einstimmig beschlossen
+- TOP 39: Auslaufende Auflösung der Fürstenbergschule - Gemeinschaftshauptschule -, Andreas-Hofer-Straße 30, 48145 Münster, ab dem Schuljahr 2012/2013 - einstimmig beschlossen
+- TOP 40: Neukonzeptionierung des Bildungsnetzwerkes Münster - von der Tagesordnung abgesetzt
+- TOP 41: Weiterführung der Wärmedämmstandards in Münster mit schrittweiser Einführung des Passivhausstandards - einstimmig beschlossen
+- TOP 41.1: Weiterführung der Wärmedämmstandards in Münster mit schrittweiser Einführung des Passivhausstandards
+- TOP 42: Münster als Stadt des Friedens weiter profilieren: Bericht und Empfehlungen des Arbeitskreises Friedenskultur - mehrheitlich geändert beschlossen
+- TOP 43: Bauliche Veränderung im Gesundheitshaus, Umgestaltung des Eingangsbereichs - einstimmig beschlossen
+- TOP 44: Abschluss öffentlich-rechtlicher Vereinbarungen mit dem Kreis Recklinghausen und der Stadt Düsseldorf - einstimmig beschlossen
+- TOP 45: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 46: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 47: Verfahren zur Besetzung des Örtlichen Beirates nach § 18 d Sozialgesetzbuch (SGB) Zweites Buch (II) - einstimmig beschlossen
+- TOP 48: Bauleitplanung
+- TOP 48.1: Stadtbezirk Münster-Mitte
+- TOP 48.1.1: Veränderungssperre Nr. 104 für den Bereich des Bebauungsplans Nr. 538 - einstimmig beschlossen
+- TOP 49: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 49.1: Optionskommune - neue Produktgruppe schaffen - Mehr Transparenz im Haushalt ist das Ziel - mehrheitlich beschlossen
+- TOP 50: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 50.1: Kunst trifft Sport - Wettbewerb zur Gestaltung der Westkurve im Preußenstadion - verwiesen
+- TOP 50.2: Jedem jungen Menschen ein (Aus-)bildungsplatz - In gemeinsamer Verantwortung - Anlaufstelle für Jugendliche am Übergang Schule und Beruf - verwiesen
+- TOP 50.3: Erstellung einer neuen Wirtschaftlichkeitsanalyse für den Flughafen Münster-Osnabrück - verwiesen
+- TOP 50.4: Münster für Alle: Münsterpass bedarfsgerecht weiterentwickeln! - verwiesen
+- TOP 50.5: Medikamente umweltgerecht entsorgen - verwiesen
+- TOP 50.6: Obdachlosigkeit in Münster - SKM / Bischof-Hermann-Stiftung, Gebäude Friedrich-Ebertstr. 1/Dammstr. (ehemaliges HUK-Gebäude) - verwiesen
+- TOP 50.7: Angebote für Jugendliche und junge Erwachsene erhalten bzw. ausbauen - verwiesen
+- TOP 50.8: Arbeit des Mehrgenerationenhauses MuM dauerhaft finanziell und räumlich absichern - verwiesen
+- TOP 50.9: Betreuungsquote für Kinder unter drei Jahren ausbauen - verwiesen
+- TOP 50.10: Einrichtung von Betriebskitas durch Unternehmen unterstützen - verwiesen
+- TOP 50.11: Papierlose Ratsarbeit auf den Weg bringen - verwiesen
+- TOP 50.12: Rahmenkonzept für das städtische Stadion an der Hammer Straße erarbeiten und umsetzen - verwiesen
+- TOP 50.13: "Studierst Du nur oder wohnst Du schon?" - ausreichend Wohnraum für Studierende in Münster schaffen - verwiesen
+- TOP 50.14: Nutzung des Instruments der Ausgleichszahlung nach § 13 Bundesnaturschutzgesetz - verwiesen
+- TOP 50.15: Neuregelung des Verfahrens zur Verteilung der Sparkassenüberschüsse - verwiesen
+- TOP 50.16: Das Stadtmodell braucht ein Zuhause - dem Münster-Modell einen Raum geben - verwiesen
+- TOP 50.17: Gebührenfreies Girokonto für MünsterPass-InhaberInnen - verwiesen
+- TOP 51: Verschiedenes
