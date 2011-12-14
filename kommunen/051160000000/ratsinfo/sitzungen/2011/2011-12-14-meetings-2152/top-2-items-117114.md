@@ -1,0 +1,8 @@
+# TOP 2: Bürgerbeschwerde Rasseln
+
+- Sitzung: Ausschuss für Anregungen und Beschwerden (2011-12-14)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/117114
+- Ergebnis: Zur Kenntnis genommen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/13678
