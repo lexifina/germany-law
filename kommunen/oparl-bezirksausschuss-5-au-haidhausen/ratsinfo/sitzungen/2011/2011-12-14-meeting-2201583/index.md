@@ -1,0 +1,105 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2011-12-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2201583
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2201583
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Abbau der Radwege in der Wörth-, Stein- und Kirchenstraße
+- TOP .2.: Nächtliche Ruhestörung an der Basketballanlage Eduard-Schmid-Str.; Schreiben der PI 21
+- TOP .3.: Preysingstr. 33 und 35: Eingriff in die Hof- und Gartensituation
+- TOP .4.: Luftverschmutzung Haidhausen; dazu: Schreiben des RGU vom 25.11.2011
+- TOP .5.: Sonderaktion vor der Gaststätte Weincantina, E-Mail Hr. Dr. Reetz vom 07.12.2011; dazu auch: Stellungnahme der BI Ost vom 09.12.2011
+- TOP .5.: Anträge
+- TOP .1.: Furt am Preysingplatz, Antrag der SPD-Fraktion
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Kath. Männerfürsorgeverein München e.V. Gestaltung und Dekoration der Weihnachtsfeier 2011 - <div>nach Antrag</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Erziehungshilfezentrum Adelgundenheim Haushaltsgegenstände für junge Erwachsene - <div>nach Antrag</div>
+- TOP .3.: (E) Budget der Bezirksausschüsse Förderverein Wörtschule e.V. Exkursion auf einen Bauernhof v. 30.04. - 02.05.2012 u. 25. - 27.06.2012 - <div>nach Antrag</div>
+- TOP .4.: (E) Budget der Bezirksausschüsse KIM-Kino im Einstein e.V. Filmwerkstatt mit Kindern im Mai 2012 - <div>nach Antrag</div>
+- TOP .6.2: Anträge auf Sondernutzungserlaubnis bzw. Sperrzeitverlängerung
+- TOP .1.: Lucile-Grahn-Str. 25, "Hofpfisterei": Sondernutzungserlaubnis für einen mobilen Fahrradständer - <div>abweichend vom Entscheidungsvorschlag</div>
+- TOP .2.: Wörthstr. 10, "der Flohmarktladen": Sondernutzungserlaubnis für die Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>vertagt</div>
+- TOP .3.: Einsteinstr. 103, "Zum Lalla": Genehmigung einer Freischankfläche - <div>nach Antrag</div>
+- TOP .4.: Breisacher Str. 7, "Saladins Souk": Genehmigung einer Freischankfläche - <div>abweichend vom Entscheidungsvorschlag</div>
+- TOP .6.3: Sonstige Entscheidungen
+- TOP .1.: Widmung der Zufahrt zum Kegelhof - <div>nach Antrag</div>
+- TOP .2.: Aufwertung und Umgestaltung der öffentlichen Grünfläche St.-Wolfgangs-Platz; Beschluss des Bezirksausschusses 5 Au-Haidhausen vom 21.09.2011; hier: Schreiben des Baureferat Gartenbau vom 07.12.2011
+- TOP .1.: Bezirksausschüsse in "Stadtteilräte" umbenennen, Antrag des BA 4
+- TOP .2.: Plangenehmigung für den barrierefreien Ausbau des Bahnsteiges F Bahnhof München Ost - Pbf
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Abschlussarbeiten am BBZ Simon-Knoll-Platz durchführen
+- TOP .2.: Sporthalle der Berufsschulen an der Orleansstr. 46: Maßnahmen gegen Verletzungsgefahr durch rutschigen Boden
+- TOP .3.: Bonus-Markt für die Untere Au
+- TOP .4.: Fahrrad-Service-Station am Ostbahnhof
+- TOP .5.: Realisierung einer weiteren Hortgruppe am Orleansplatz 13; dazu auch: Schreiben des Oberbürgermeisters vom 02.11.2011
+- TOP .6.: Hortplatz-Mangel in der Au
+- TOP .7.: Barrierefreier Zugang zum Ärztehaus Weißenburger Platz 8
+- TOP .8.: Prüfung der Nutzung der Orleansstraße 11a als Kinderbetreuungseinrichtung
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Briefkästen am Ostbahnhof; Schreiben des RAW vom 04.11.2011
+- TOP .2.: Brunnen Orleansplatz; Schreiben des Baureferats vom 18.10.2011
+- TOP .3.: Instandsetzung der defekten Zaunfelder am Bahndamm entlang der Straße am Giesinger Feld; Schreiben des RAW an die DB Netz AG vom 17.11.2011
+- TOP .4.: Radlsicherheitscheck auf dem Weißenburger Platz; Schreiben des KVR vom 23.11.2011
+- TOP .8.3: Sonstige Unterrichtungen
+- TOP .1.: Änderung der Straßenreinigungssatzung, Antrag des BA12
+- TOP .2.: Baustelleneinrichtung in der Elsässer Straße (Hypopark), Verlängerung
+- TOP .3.: Zukunft des geförderten Wohnungsbaus in München, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2011
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Prinzregentenstr. 66, 1 Ahorn
+- TOP .1.: Errichtung eines Hauses für Kinder mit zwei 2 Krippen- und 2 Kindergartengruppen an der Welfenstraße (Regerhof), 5. Stadtbezirks Au-Haidhausen ? Produkt Nr. 1.1 ? Genehmigung des Nutzerbedarfsprogrammes; Beschluss des Ausschusses für Bildung und Sport
+- TOP .1.: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 08.11.2011
+- TOP .2.: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für der Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.2011
+- TOP .3.: Anhebung der Grenze des Schonvermögens auch bei Menschen mit Behinderung
+- TOP .1.: Franziskanerstr. 19; Nutzungsänderung eines Ladens mit genehmigungsfreiem Gastronomiebetrieb in Gastronomie mit Laden
+- TOP .2.: Nutzungsanfrage Mariahilfplatz, "Dinner in the sky"
+- TOP .3.: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP .1.: Überprüfung der Freischankflächen im 5. Stadtbezirk; Ergänzung zum Antrag 08-14/ B 03224; Schreiben der BI vom 07.11.2011
+- TOP .2.: Freischankfläche Steinstr. 9, "Safran": Schreiben der BI vom 02.11.2011
+- TOP .1.: Walserstr. 8: Abbruch eines Wohngebäudes
+- TOP .2.: Einsteinstr. 46: DG-Ausbau, Grundrissänderungen
+- TOP .3.: Sedanstr. 29: Anbau von Balkonen an der NO-Rückseite
+- TOP .4.: Innere Wiener Str. 28: Umbau eines Rückgebäudes, Einbau einer Wohnung - TEKTUR
+- TOP .5.: Bazeillesstr. 8: Große Instandsetzung der Grundschule sowie Neubau eines 3-Gruppen-Kindergartens mit integrierter Hausmeisterwohnung - TEKTUR
+- TOP .6.: Gravelottestr. 2: Nutzungsänderung eines Hobbyraums in eine Werkstatt mit Arbeitsbereich; Zusammenlegung der Wohnungen 9 und 10 im 3. OG
+- TOP .7.: Weißenburger Str. 42: Erweiterung des Verkaufsraums um ein Lager, Nutzungsänderung
+- TOP .1.: Mehrjahresinvestitionsprogramm 2011 ? 2015; Fortsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011 ? 2015; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.2011
+- TOP .2.: Kirchenstr. 14: Baugenehmigungsbescheid vom 27.10.2011
+- TOP .3.: Stadt und Fluss ? Innerstädtischer Isarraum, Workshopergebnisse und weiteres Vorgehen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2011 (BA-Antrag Nr. 08-14/ B 01164)
+- TOP .1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Wörthstr. 51
+- TOP .2.: Ampel unterhalb des Maximilianeums, Bürgeranliegen
+- TOP .3.: Fest vergebene Parkplätze am Müllerschen Volksbad
+- TOP .1.: PERSPEKTIVE MÜNCHEN: Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 09.11.2011
+- TOP .2.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Edlingerstr. 26
+- TOP .3.: Verkehrszählung am Haidenauplatz
+- TOP .4.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus um 2. Stadtbezirk Ludwigsvorstadt-Isarvorstadt; Beschluss des Bauausschusses vom 06.12.2011
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 11.01.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Donnerstag, 12.01.2012, 18.30 Uhr (?), Büro Diakonie, Elsässer Str. 30 UA Wirtschaft: Dienstag, 10.01.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30 UA Planung: Donnerstag, 12.01.2012, 20.00 Uhr (?), Büro Diakonie, Elsässer Str. 30 UA GUV: Montag, 09.01.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 18.01.2012, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: ?Regionalgespräch? Bezirksausschüsse ? LBK, Blumenstr. 19, Zi. 614, Terminauswahl: 15.02. / 22.02. / 29.02.2011, jeweils ab 17.00 Uhr
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
