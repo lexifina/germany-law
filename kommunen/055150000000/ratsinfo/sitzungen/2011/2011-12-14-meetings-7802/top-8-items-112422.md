@@ -1,0 +1,8 @@
+# TOP 8: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2012
+
+- Sitzung: 17. Sitzung (2011-12-14)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/112422
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/48505
