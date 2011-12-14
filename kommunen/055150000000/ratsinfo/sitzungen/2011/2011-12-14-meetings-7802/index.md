@@ -1,0 +1,94 @@
+# 17. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2011-12-14T17:07:00+01:00
+- Ende: 2011-12-14T22:21:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/7802
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/7802
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00316894.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen der Bezirksvertretungen
+- TOP 2.1: Antrag A-R/0062/2011 "Vorlagen standardisieren - Vergabeausschuss und Verwaltung entlasten" der Fraktion Bündnis 90/Die Grünen/GAL vom 11.10.2011 - einstimmig beschlossen
+- TOP 2.2: Antrag der FDP-Fraktion A-R/0043/2011 - einstimmig beschlossen
+- TOP 2.3: Rahmenbedingungen für die Errichtung und den Betrieb von Spielhallen - vertagt
+- TOP 2.4: Antrag A-R/0035/2011 der SPD-Fraktion vom 11.05.2011 an den Rat "Umgehungsstraße: Alternative Lärmschutzmöglichkeiten bei Ausschreibung zulassen" - mehrheitlich beschlossen
+- TOP 3: Überprüfung der weitgespannten Tragwerke in städtischen Gebäuden - zur Kenntnis genommen
+- TOP 4: Baulandentwicklung in Sprakel - mehrheitlich geändert beschlossen
+- TOP 5: Durchführung eines Expertenworkshops zum Thema "Öffentlichkeitsarbeit umweltfreundliche Mobilität" - mehrheitlich beschlossen
+- TOP 5.1: Durchführung eines Expertenworkshops zum Thema "Öffentlichkeitsarbeit umweltfreundliche Mobilität"
+- TOP 6: Aktualisierung Masterplan Stadthäfen Münster - mehrheitlich geändert beschlossen
+- TOP 7: Maßregelvollzug in Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen zum Haushalt 2012
+- TOP 8: Haushaltssatzung der Stadt Münster für das Haushaltsjahr 2012 - ohne Beschlussfassung geschoben
+- TOP 9: Bürgerhaushalt 2011 - Beratung der 90 bestplatzierten Bürgervorschläge - ohne Beschlussfassung geschoben
+- TOP 10: Handy-Parken (E-Parking / Mobile-Parking) in Münster - ohne Beschlussfassung geschoben
+- TOP 11: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM) - ohne Beschlussfassung geschoben
+- TOP 11.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM)
+- TOP 11.1.1: Managementkontrakt (MMK) mit der eigenbetriebsähnlichen Einrichtung Münster Marketing (MM)
+- TOP 12: Optimierung bürgerorientierter Dienstleistungen: Sanierung Stadthaus 1 - von der Tagesordnung abgesetzt
+- TOP 13: Schillergymnasium, Gertrudenstr.5 und Ratsgymnasium, Bohlweg 7, : Fenster-und Fassadensanierung - ohne Beschlussfassung geschoben
+- TOP 13.1: Schillergymnasium, Gertrudenstr.5 : Fenster- und Fassadensanierung
+- TOP 14: Änderung von Gebühren, Tarifen und Entgelten
+- TOP 14.1: Tarif für Leistungen der Abfallwirtschaftsbetriebe Münster 2012 - einstimmig beschlossen
+- TOP 14.2: Abfallgebühren 2012 - einstimmig beschlossen
+- TOP 14.3: Straßenreinigungsgebühren 2012 - mehrheitlich beschlossen
+- TOP 14.4: Satzung zur Änderung der Gebührensatzung für das Überlassen von Standplätzen bei Volksfesten (Send und Kirmessen) in der Stadt Münster - einstimmig beschlossen
+- TOP 14.5: Änderung der Entgeltordnung für das Bürgerhaus Kinderhaus - einstimmig beschlossen
+- TOP 14.5.1: Änderung der Entgeltordnung für das Bürgerhaus Kinderhaus
+- TOP 14.6: Änderung der Entgeltordnung für das Begegnungszentrum Meerwiese - einstimmig beschlossen
+- TOP 14.6.1: Änderung der Entgeltordnung für das Begegnungszentrum Meerwiese
+- TOP 14.7: Entgeltordnung Villa ten Hompel - einstimmig beschlossen
+- TOP 14.7.1: Entgeltordnung Villa ten Hompel
+- TOP 14.8: Änderung der Gewässergebührensatzung (GGS) - einstimmig beschlossen
+- TOP 15: Kapitalerhöhung bei der Flughafen Münster/Osnabrück GmbH - ohne Beschlussfassung geschoben
+- TOP 16: Errichtung einer städtischen Gesamtschule und auslaufende Auflösung der Paul-Gerhardt-Realschule - ohne Beschlussfassung geschoben
+- TOP 17: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel - ohne Beschlussfassung geschoben
+- TOP 17.1: Neuerrichtung einer Sekundarschule im Schulzentrum Roxel
+- TOP 18: Aktueller Sachstand zu international ausgerichteten Bildungsangeboten - einstimmig beschlossen
+- TOP 19: Peter-Wust-Schule - ohne Beschlussfassung geschoben
+- TOP 19.1: Peter-Wust-Schule
+- TOP 20: Lehranstalt für pharmazeutisch-technische Assistenten/innen Münster (PTA-Lehranstalt) - ohne Beschlussfassung geschoben
+- TOP 21: Machbarkeitsstudie für den Bau eines neuen Hallenbades an gleicher Stelle des ehemaligen Südbades - ohne Beschlussfassung geschoben
+- TOP 22: Errichtung einer neuen Sporthalle für das Ostviertel - einstimmig beschlossen
+- TOP 23: Fortführung der Teilnahme am European Energy Award - einstimmig beschlossen
+- TOP 24: Rückbau von öffentlichen Spielplätzen - einstimmig geändert beschlossen
+- TOP 25: Extensivierung der Pflege von Rasen- und Wiesenflächen in öffentlichen Grünflächen - einstimmig abgelehnt
+- TOP -: Vorberatung sonstiger Ratsentscheidungen
+- TOP 26: Bestellung zum Stadtkämmerer - einstimmig beschlossen
+- TOP 27: Beitritt der Stadt Münster zur Einkaufsgenossenschaft kommunale Verwaltungen im Deutschen Städtetag - ohne Beschlussfassung geschoben
+- TOP 28: Feststellung des Jahresabschlusses 2010 der Stadt Münster - einstimmig beschlossen
+- TOP 29: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 29.1: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 30: Wirtschaftspläne für das Jahr 2012
+- TOP 30.1: Wirtschaftsplan der Citeq für das Jahr 2012 - einstimmig beschlossen
+- TOP 30.2: Abfallwirtschaftsbetriebe Münster - mehrheitlich beschlossen
+- TOP 30.3: Wirtschaftsplan 2012 für Münster Marketing - ohne Beschlussfassung geschoben
+- TOP 30.4: Wirtschaftspläne der Kommunalen Stiftungen für das Jahr 2012 - einstimmig beschlossen
+- TOP 31: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - von der Tagesordnung abgesetzt
+- TOP 32: Wassertemperaturen in städtischen Freibädern, Nachrüstoptionen für eine Zusatzheizung - mehrheitlich beschlossen
+- TOP 33: Bericht über die Beteiligungen der Stadt Münster im Jahr 2010 (Beteiligungsbericht 2010) - zur Kenntnis genommen
+- TOP 34: Übertragung des Geschäftsanteils des Schweinezüchterverbandes Nord-West e.V. an der Messe und Congress Centrum Halle Münsterland GmbH - einstimmig beschlossen
+- TOP 35: Änderung der Straßenreinigungssatzung - einstimmig beschlossen
+- TOP 36: Allgemeine Vorschrift der Stadt Münster gem. Art. 3 Abs. 2 VO (EG) 1370/2007 zum Ausgleich von Mindereinnahmen im Ausbildungsverkehr - einstimmig beschlossen
+- TOP 37: Auslaufende Auflösung der Fürstenbergschule - Gemeinschaftshauptschule -, Andreas-Hofer-Straße 30, 48145 Münster, ab dem Schuljahr 2012/2013 - einstimmig beschlossen
+- TOP 38: Neukonzeptionierung des Bildungsnetzwerkes Münster - von der Tagesordnung abgesetzt
+- TOP 39: Weiterführung der Wärmedämmstandards in Münster mit schrittweiser Einführung des Passivhausstandards - ohne Beschlussfassung geschoben
+- TOP 39.1: Weiterführung der Wärmedämmstandards in Münster mit schrittweiser Einführung des Passivhausstandards
+- TOP 40: Münster als Stadt des Friedens weiter profilieren: Bericht und Empfehlungen des Arbeitskreises Friedenskultur - ohne Beschlussfassung geschoben
+- TOP 41: Bauliche Veränderung im Gesundheitshaus, Umgestaltung des Eingangsbereichs - einstimmig beschlossen
+- TOP 42: Abschluss öffentlich-rechtlicher Vereinbarungen mit dem Kreis Recklinghausen und der Stadt Düsseldorf - einstimmig beschlossen
+- TOP 43: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 44: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 45: Verfahren zur Besetzung des Örtlichen Beirates nach § 18 d Sozialgesetzbuch (SGB) Zweites Buch (II) - einstimmig beschlossen
+- TOP 46: Bauleitplanung
+- TOP 46.1: Stadtbezirk Mitte
+- TOP 46.1.1: Veränderungssperre Nr. 104 für den Bereich des Bebauungsplans Nr. 538 - einstimmig beschlossen
+- TOP 47: Verschiedenes
