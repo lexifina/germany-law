@@ -1,0 +1,108 @@
+# 3. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2011-12-15T17:30:00+01:00
+- Ende: 2011-12-15T22:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2545
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2545
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=83604
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Einheitliche Ämterstruktur ab dem 01.01.2012 - auch in Mitte alles in Sack und Tüten oder droht eine böse Bescherung? - beantwortet
+- TOP 5.2: Inklusionskonzept des Bezirks - beantwortet
+- TOP 5.3: Mauerpark - wie geht es weiter? - beantwortet
+- TOP 5.4: Sanierung der Carl-Bolle-Grundschule - beantwortet
+- TOP 5.5: Quartiersentwicklung transparent und bürgernah gestalten - beantwortet
+- TOP 5.6: Sanierung der Hermann-Herzog- / Trift-Grundschule - beantwortet
+- TOP 5.7: Strassenbäume vergessen? - beantwortet
+- TOP 5.8: Einheitsdenkmal auf der Schlossfreiheit - schriftlich beantwortet
+- TOP 5.9: Unzulässige Werbung am Eingangsgebäude des Bahnhofs Potsdamer Platz - schriftlich beantwortet
+- TOP 5.10: Jugendkonferenz in Mitte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Verfassungstreu per Unterschrift? - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Ist das Konsolidierungskonzept des Bezirks schon Makulatur? - beantwortet
+- TOP 7.2: Rathaus Wedding Neubau - beantwortet
+- TOP 7.3: Hamberger Großmarkt und Umgehungsstraße - beantwortet
+- TOP 7.4: Extremismusklausel - beantwortet
+- TOP 7.5: So ein Mist! - beantwortet
+- TOP 7.6: Extremismusklausel in Mitte - Gegen Recht und Gesetz! - beantwortet
+- TOP 7.7: Nachträgliche Personalkosten im Bezirk Mitte? - beantwortet
+- TOP 7.8: Verhaltenskodex Transparenz - im Bezirk angekommen? - beantwortet
+- TOP 7.9: Bierbikes in Mitte ausbremsen - beantwortet
+- TOP 7.10: Baustopp im Stadtgarten Moabit - beantwortet
+- TOP 7.11: Kletterhalle Seydlitzstraße: Merkwürdige Vertragsunterzeichnung - beantwortet
+- TOP 7.12: Kita: Zwischen Anspruch und Wirklichkeit - schriftlich beantwortet
+- TOP 7.13: Maßnahmen zur Suchtprävention in Mitte (Drs. 1963/III "Werbeflächen für Suchtprävention") - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Erlass einer Veränderungssperre mit der Bezeichnung 1-60/21 (Alexander/Schillingstraße) - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Sitzungskalender 2012 - ohne Änderungen in der BVV beschlossen
+- TOP 9.2: Wahl und Berufung der stimmberechtigten Mitglieder des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 9.3: Berufung der beratenden Mitglieder des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 9.4: Gründung einer Schule mit dem Förderschwerpunkt "Geistige Entwicklung" - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Wahl von Mitgliedern im Ehrenamtlichen Dienst - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Occupy-Bewegung - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Runder Tisch Wohnungsbaugesellschaften - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Besetzung des Jugendhilfeausschusses - zurückgezogen
+- TOP 12.3: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Wahl der Bürgerdeputierten - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Beim Essen Klima schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bibliotheksbusse auch für SeniorInnen - überwiesen
+- TOP 12.8: BürgerInnen-Beteiligung zur Beachtung von Einwänden bei der Umgestaltung von Ottopark und Kleinem Tiergarten für den Bauabschnitt zwischen Thusneldaallee und Stromstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Opernpalais ohne Café - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Bildung hat Vorrang: Lehrkräfte sollen lehren und nicht Schnee schaufeln! - überwiesen
+- TOP 12.11: Bezirkliche Dienstleistungsverträge - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Mehr Transparenz und Nachvollziehbarkeit für die Aufstellung unseres Bezirkshaushaltsplanes 2012/2013 - überwiesen
+- TOP 12.13: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Schulungen von BewohnerInnen-Beiräten und -FürsprecherInnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.15: Bildung von Ausschüssen II hier: Gremium für Geschäftsordnungsangelegenheiten - zurückgezogen
+- TOP 12.16: Unterstützung des Lokale-Agenda-Prozesses in Mitte - zurückgezogen
+- TOP 12.17: Ordnungswidrige Park(platz)nutzung flächendeckend unterbinden - zurückgezogen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Ampeln in Moabit - überwiesen
+- TOP 15.2: Umsetzen des Gesetzes zur Selbstbestimmung und Teilhabe in betreuten gemeinschaftlichen Wohnformen ( Wohnteilhabegesetz - WTG) - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Mehr Informationen über Bezirks- und Landespolitik verfügbar machen: Öffentliches WLAN-Angebot schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Postfuhramt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Aufstellung des Bebauungsplanes II-7b-1 (ehemaliges Kaufhaus Hertie) im Bezirk Mitte, Ortsteil Moabit, sowie die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch und die Beteiligung der Behörden gemäß § 4 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Neukonstituierung des Beirates für Migrannt/-innen und Flüchtlinge -Ausländerbeirat- beim Bezirksamt Mitte von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Bildung einer Spielplatzkommission im Bezirk Mitte und deren Geschäftsordnung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.5: Liegenschaft Gerichtstr. 37 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Verwaltungsvorschrift "Aktive Stadtzentren" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.7: Evangelisches Zentrum am Hauptbahnhof: Sozialverträglichkeit des Vorhabens unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Mitwirkung von Betroffenen in Untersuchungsgebieten für zukünftige Untersuchungs- und Sanierungsgebiete im Bezirk Mitte sicherstellen II - BVV-Beschluss Drs. 0870/III endlich umsetzen! hier: Räume für Stadtteilvertretungen Turm- und Müllerstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Information und Service für Menschen mit Behinderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Werbeflächen für Suchtprävention - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.12: Ferienwohnungen in Berlin-Mitte - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.13: Fahrrad statt Auto! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Hallenbad Plus-Plus: Nach Jahren des Kampfes - endlich Nägel mit Köpfen machen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Illegale Altkleidersammelcontainer bekämpfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Petriplatz - Teil des Gedächtnisses der Stadt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.17: Benennung einer Durchwegung zwischen See- und Ungarnstraße nach Elisabeth Schmitz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.18: Bevorzugung unter Weihnachtsmarktbetreibern in Mitte beenden! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Mediationsverfahren zur Beachtung von Einwänden bei der Umgestaltung von Ottopark und Kleinem Tiergarten (westlicher Teil) durchführen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Wetterstation auf dem Alexanderplatz - mit Abschlussbericht zur Kenntnis genommen
