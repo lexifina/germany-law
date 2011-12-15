@@ -1,0 +1,70 @@
+# Rat (18. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2011-12-15T17:00:00+01:00
+- Ende: 2011-12-15T21:00:00+01:00
+- Ort: Gaststätte F. A. Wagenfeld, Wagenfelder Straße 22, 32369 Rahden, Saal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZRLGx-tDvtZcnJKYgV0ipuo
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1130
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfXMYrjmG4-GMFbXdOvGwCMUJp5DITjFMQb5niQz17tM/Bekanntmachung_Rat_15.12.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZXj9mMxIPYf0WgA5Igl5ldGKzQO9V1vyOb0_ibd2eKih/Oeffentliche_Niederschrift_Rat_15.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 4.: Erlass einer Satzung über die Festsetzung der Steuersätze für die Grund- und Gewerbesteuer in der Stadt Rahden (Hebessatzsatzung) - Ohne Abstimmung
+- TOP 5.: Erlass einer 4. Satzung zur Änderung der Gebührensatzung zur Satzung über die Ordnung auf den Friedhöfen der Stadt Rahden vom 16.10.2003 - Einstimmig, 0 Enthaltungen
+- TOP 6.: Neufassung der „Satzung der Stadt Rahden vom _______ über die Entsorgung von Grundstücksentwässerungsanlagen (2012)“ - Einstimmig, 0 Enthaltungen
+- TOP 7.: Erlass der 4. Satzung vom __________ zur Änderung der Beitrags- und Gebührensatzung zur Entwässerungssatzung der Stadt Rahden vom 30.06.2005 - Einstimmig, 0 Enthaltungen
+- TOP 8.: 3. Satzung vom ____________ zur Änderung der Beitrags- und Gebührensatzung vom 30.06.2005 zur Wasserversorgungssatzung der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 9.: 13. Änderung des Bebauungsplanes Nr. 13 "Gerichtsstraße/Flachsstraße" im Bereich des Grundstückes Katzengasse 4, 6 und 8 Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 13. Änderung des Bebauungsplanes Nr. 13 "Gerichtsstraße/Flachsstraße" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 10.: 5. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" im Bereich der Grundstücke Hohe Mühle 7, 9, 11 und 13 a)Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) und über die Durchführung der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 5. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltung (Bruhn)
+- TOP 11.: Aktives Stadtzentrum Rahden; hier: Durchführung eines freiraumplanerischen Ideen- und Realisierungswettbewerbes bzw. Erarbeitung von Testentwürfen - 26 Stimmen dafür, 5 dagegen (FWG), 2 Enthaltungen (Thielemann,Peper)
+- TOP 12.: Konzept zur Bewirtschaftung der Wirtschaftswege und systematisches Erhaltungsmanagement für die Innerortsstraßen - Einstimmig, 1 Enthaltung (Steinkamp)
+- TOP 13.: Bau der Fischtreppe am Wehr 1 der Großen Aue in Pr. Ströhen; hier: Finanzierung einer Deckungslücke nach erfolgter Ausschreibung - Einstimmig, 0 Enthaltungen
+- TOP 14.: Fortschreibung des Brandschutzbedarfsplanes der Stadt Rahden - Einstimmig, 1 Enthaltung (Zimmermann)
+- TOP 15.: Anschaffung eines Mannschaftstransportfahrzeuges durch den Verein zur Förderung der Freiwilligen Feuerwehr der Stadt Rahden -Löschgruppe Tonnenheide- e. V. - Einstimmig, 0 Enthaltungen
+- TOP 16.: Beschaffung eines Staffel-Löschfahrzeuges (StLF 10/6) für die Löschgruppe Wehe - Einstimmig, 0 Enthaltungen
+- TOP 17.: Bauplanung für das Feuerwehrgerätehaus Wehe - Einstimmig, 0 Enthaltungen
+- TOP 18.: Feststellung des Jahresabschlusses der Stadt Rahden zum 31.12.2010 - Einstimmig. Der Bürgermeister nimmt an der Beratung und Beschlussfassung zu Punkt 2 nicht teil.
+- TOP 19.: Bekanntgabe der Erträge und Aufwendungen sowie Einzahlungen und Auszahlungen im Haushaltsjahr 2011 - Ohne Abstimmung
+- TOP 20.: Pflichtprüfung des Straßenbetriebes der Stadt Rahden für das Wirtschaftsjahr 2010; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 21.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Straßenbetrieb Stadt Rahden" für das Wirtschaftsjahr 2012 - Einstimmig, 0 Enthaltungen
+- TOP 22.: Pflichtprüfung des Wasserwerkes der Stadt Rahden für das Wirtschaftsjahr 2010; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 23.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Wasserwerk der Stadt Rahden und städtische Bäder" für das Wirtschaftsjahr 2012 - Einstimmig, 0 Enthaltungen
+- TOP 24.: Pflichtprüfung des Eigenbetriebes Abwasserentsorgung Stadt Rahden für das Wirtschaftsjahr 2010; hier: Feststellung des Jahresabschlusses - Einstimmig, 0 Enthaltungen
+- TOP 25.: Beratung über den Entwurf des Wirtschaftsplanes für den Eigenbetrieb "Abwasserentsorgung der Stadt Rahden" für das Wirtschaftsjahr 2012 - Einstimmig, 0 Enthaltungen
+- TOP 26.: Ansprechpartner für Seniorinnen/Senioren in der Stadt Rahden - Ohne Abstimmung
+- TOP 27.: Veranstaltung mit neu zugezogenen Bürger/innen - Ohne Abstimmung
+- TOP 28.: Neuwahl einer stellvertretenden Schiedsperson für den Schiedsamtsbezirk Pr. Ströhen - Einstimmig, 0 Enthaltungen
+- TOP 29.: Bekanntgaben
+- TOP 29.1: Krankenhaus Rahden
+- TOP 29.2: Fachmarktzentrum Weher Straße/Gartenstraße
+- TOP 29.3: Reetdach des Museumshofes
+- TOP 29.4: Sitzungskalender
+- TOP 29.5: Statistik Taxibus
+- TOP 29.6: NRW Tag
+- TOP 30.: Verschiedenes
+- TOP 30.1: Leserbrief
+- TOP 30.2: Rechtsangelegenheit Hachmann/Bruhn
+- TOP 30.3: Erweiterung des Lehrerzimmers des Gymnasiums
+- TOP 30.4: Dichtheitsprüfungen
+- TOP 30.5: Geschäft Müller
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 31.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 31.1: Aufnahme eines Kommunalkredites - Einstimmig, 0 Enthaltungen
+- TOP 32.: Bekanntgabe der im III. Quartal 2011 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 33.: Vergabe des Auftrages für die Erstellung eines Konzeptes zur Bewirtschaftung der Wirtschaftswege und zu einem systematischen Erhaltungsmanagement für Innerortsstraßen - Einstimmig, 2 Enthaltungen (U. Thielemann, Steinkamp)
+- TOP 34.: Auftragsvergaben - 26 Stimmen dafür, 5 dagegen (FWG), 2 Enthaltungen (Thielemann,Peper)
+- TOP 35.: Bekanntgaben
+- TOP 35.1: Stadtarchivarin
+- TOP 35.2: Rückzahlungen Konjunkturpaket
+- TOP 35.3: Stiftung Förderschulverband
+- TOP 36.: Verschiedenes
+- TOP 36.1: Rechtsangelegenheit Hachmann/Bruhn
