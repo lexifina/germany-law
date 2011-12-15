@@ -1,0 +1,52 @@
+# Rat (13. Sitzung)
+
+- Körperschaft: Stadt Spenge
+- Beginn: 2011-12-15T18:00:00+01:00
+- Ende: 2011-12-15T22:15:00+01:00
+- Ort: Bürgerzentrum Spenge, Poststraße 6 a, 32139 Spenge, Bürgerraum
+- Status: 
+- Gremium: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-11
+- Ratsinformationssystem: https://spenge.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZVrCugKSS_0yKfj2nz1RyjE
+- OParl: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1163
+- Quelle: https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQtniU2i6NtfvQofftXzDomIaZI6zYv8NJS3ZNIhP1oy/Bekanntmachung_Rat_15.12.2011.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://spenge.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZep6BxE0fg31GhDQH5HGZH4EwYIp3ZeA6NcV3etxmrbv/Oeffentliche_Niederschrift_Rat_15.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1: Begrüßung
+- TOP 2: Bericht über die Ausführung der Beschlüsse der letzten Sitzung
+- TOP 3: Bericht über die Tätigkeit der Ausschüsse
+- TOP 4: Fragen der Einwohnerinnen und Einwohner
+- TOP 4.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Beratung und Beschlussfassung über die Aufstellung der 5. Änderung des Bebauungsplanes Nr. 4a "Hannighorst" gem. § 2 Abs. 1 BauGB
+- TOP 6: Beratung und Beschlussfassung über den geänderten Wirtschaftsplan 2011 und den Wirtschaftsplan 2012 des Eigenbetriebes "Wirtschaftsbetrieb Spenge"
+- TOP 7: Beratung und Beschlussfassung über den Wirtschaftsplan 2012 des Eigenbetriebes "Wasserwerk"
+- TOP 8: Beratung und Beschlussfassung über die Satzungen der endgültigen Herstellung und Widmung der Gemeindestraßen "Auf dem Schlaage" und "Am Besebach"
+- TOP 9: Schulentwicklungsplanung der Stadt Spenge - Organisation der Grundschulen -
+- TOP 10: Erlass einer Satzung über die Erhebung von Vergnügungssteuer in der Stadt Spenge
+- TOP 11: Erlass einer Satzung über die Erhebung von Hundesteuer in der Stadt Spenge
+- TOP 12: Bekanntgabe von über- und außerplanmäßigen Aufwendungen und Auszahlungen im 3. Quartal 2011
+- TOP 13: Bauliche Unterhaltung und Instandsetzung der Sporthallen und des Kultur- und Jugendzentrums Charlottenburg Spenge; Zustimmung zu einem erheblichen überplanmäßigen Aufwand und einer erheblichen überplanmäßigen Auszahlung im Haushaltsjahr 2011; a) Sporthallen b) Kultur- und Jugendzentrum Charlottenburg Spenge
+- TOP 14: Bewirtschaftung der Gebäude und baulichen Anlagen diverser Liegenschaften der Stadt Spenge; Zustimmung zu einem erheblichen überplanmäßigen Aufwand und einer erheblichen überplanmäßigen Auszahlung im Haushaltsjahr 2011
+- TOP 15: Antwort auf die Anfrage der Ratsmitglieder Jan Christian Janßen und Uwe Brinkmann vom 21.10.2011 - Zukunft städtischer Gebäude und Einrichtungen am konkreten Beispiel des Freibades Lenzinghausen
+- TOP 16: Neufassung des Straßenverzeichnisses als Anlage zu § 2 der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Spenge
+- TOP 17: 2. vereinfachte Änderung des Bebauungsplanes Nr. 38b "Stiegelpotte II"; Beratung und Beschlussfassung über die im Rahmen der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13 Abs. 2 Ziffer 3 BauGB sowie der betroffenen Bürgerinnen und Bürger gem. § 13 Abs. 2 Ziffer 2 BauGB vorgebrachten Anregungen sowie Satzungsbeschluss
+- TOP 18: 8. vereinfachte Änderung des Bebauungsplanes Nr. 26 "Ortskern Va/I"; Beratung und Beschlussfassung über die im Rahmen der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gem. § 13 Abs. 2 Ziffer 3 BauGB sowie der betroffenen Bürgerinnen und Bürger gem. § 13 Abs. 2 Ziffer 2 BauGB vorgebrachten Anregungen sowie Satzungsbeschluss
+- TOP 19: Sanierung des Werburger Herrenhauses; Zustimmung zu einer erheblichen überplanmäßigen Auszahlung
+- TOP 19.1: Bericht über die örtliche Prüfung des Jahresabschlusses der Stadt Spenge zum 31.12.2010 und Beschlussfassung
+- TOP 20: Schriftliche Anfragen der Ratsmitglieder gemäß § 18 Abs. 1 Geschäftsordnung
+- TOP 21: Mitteilungen der Verwaltung
+- TOP 21.1: Breitbandbedarfserhebung
+- TOP 22: Verschiedenes
+- TOP 22.1: Abfallbehälter am neuen Bürgerzentrum
+- TOP 22.2: Gullydeckel auf der Biermannstraße
+- TOP 22.3: Lärmbelästigung für die Anwohner des Birkenweges
+- TOP 22.4: Spielplatz an der Niedernstraße im Ortsteil Hücker-Aschen
+- TOP 22.5: Fußläufiger Weg im Gewerbegebiet Wallenbrück
+- TOP 22.6: Umzug des Bauhofes
+- TOP 22.7: Verkrauteter Gehweg am Grundstück Schmidt in Lenzinghausen an der Dorfstraße
+- TOP 22.8: Elektrischer Türöffner am Gebäude des neuen Bürgerzentrums der neuen Bücherei
+- TOP 22.9: Errichtung einer Windenergieanlage in der südlichen Vorrangfläche für die Nutzung von Windenergie in Spenge-Bardüttingdorf
