@@ -1,0 +1,51 @@
+# 3. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2011-12-15T16:30:00+01:00
+- Ende: 2011-12-15T22:05:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3221
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3221
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=82901
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-02 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Wahl eines weiteren Mitgliedes des Bezirksamtes (Vorschlag DIE LINKE) - gewählt
+- TOP 8.2: Wahl von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.3: Wahl der Bürgerdeputierten und stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.4: Wahl von Bürgerdeputierten - gewählt
+- TOP 8.5: Wahl der Bürgerdeputierten und stellvertretenden Bürgerdeputierten für den Jugendhilfeausschuss - gewählt
+- TOP 8.6: Wahl einer Bürgerdeputierten und einer stellvertretenden Bürgerdeputierten für den Integrationsausschuss - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - gewählt
+- TOP 10: Nachfragen zu Großen Anfragen - erledigt
+- TOP 10.1: Sexuelle Gewalt gegenüber Kindern und Jugendlichen - beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Sitzungsterminplan 2012 der BVV Treptow-Köpenick von Berlin - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9 – 47 ("Uferweg Oberschöneweide") hier: Änderung Geltungsbereich - überwiesen
+- TOP 13.2: Vorschläge zur Abberufung und zur Bestellung von Vertreterinnen und Vertretern sowie deren Stellvertreterinnen und Stellvertreter für die Trägerversammlung des Jobcenter Berlin Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Mittel für Neugestaltung des Elcknerplatzes sichern - mit Änderungen in der BVV beschlossen
+- TOP 14.2: Erhalt der Zusammensetzung der Wohnbevölkerung in Alt-Treptow - im Ältestenrat zurückgezogen
+- TOP 14.3: Steganlage an der Großen Krampe - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Verkehrsleistung der S-Bahn in Treptow-Köpenick verbessern - überwiesen
+- TOP 14.5: Berichte des Bezirksamtes zu Ausschusssitzungen - überwiesen
+- TOP 14.6: Milieuschutzsatzung für Alt-Treptow - im Ältestenrat zurückgezogen
+- TOP 14.7: Ordnung und Sicherheit für Am Falkenberg/Ecke Stechapfelweg wieder herstellen – Kampf der Verwahrlosung - überwiesen
+- TOP 14.8: Ordnung und Sicherheit für Am Falkenberg/Ecke Strohblumenweg wieder herstellen – Kampf der Verwahrlosung - überwiesen
+- TOP 14.9: Bahnhof Erkner in Tarifbereich B eingliedern - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Straßenausbaubeitragsgesetz - vertagt
+- TOP 15.2: S-Bahn-Verkehr in Treptow-Köpenick - vertagt
