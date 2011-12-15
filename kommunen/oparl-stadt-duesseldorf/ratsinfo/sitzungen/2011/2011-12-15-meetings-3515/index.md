@@ -1,0 +1,60 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2011-12-15T09:00:00+01:00
+- Ende: 2011-12-15T19:55:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3515
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/3515
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00169612.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00169612.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00169612.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - einstimmig beschlossen
+- TOP 2: Genehmigung NS - vertagt
+- TOP 3: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 4: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 5: NKF-Jahresabschluss zum 31.12.2010 - Entwurf - mehrheitlich beschlossen
+- TOP 6: Amt 16 - Wirtschaftsplan 2012 - mehrheitlich beschlossen
+- TOP 7: Wirtschaftsplan des Stadtentwässerungsbetriebs der Landeshauptstadt Düsseldorf für das Jahr 2012 - B - einstimmig beschlossen
+- TOP 8: Wirtschaftsplanung des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseldorf für die Jahre 201 - zur Kenntnis genommen
+- TOP 9: Neufassung der Satzung über die Abwasserbeseitigung der Grundstücke im Stadtgebiet Düsseldorf (Abwas - einstimmig beschlossen
+- TOP 10: Kalkulation der Kanalbenutzungsgebühren des Stadtentwässerungsbetriebes der Landeshauptstadt Düsseld - einstimmig beschlossen
+- TOP 11: Satzung über Kostenersatz für Arbeiten an Anschlusskanälen im Stadtgebiet Düsseldorf - Beschluss - - einstimmig beschlossen
+- TOP 12: Richtlinien über die Erhebung von Entgelten für Leistungen der Chemisch-Biologischen Laboratorien de - einstimmig beschlossen
+- TOP 13: Gebührenkalkulation Straßenreinigung für 2012 - mehrheitlich beschlossen
+- TOP 13.1: ÄA Linke: Gebührenkalkulation Straßenreinigung - mehrheitlich abgelehnt
+- TOP 14: 26. Satzung zur Änderung der Satzung über die Reinigung der öffentlichen Straßen in der Landeshaupts - mehrheitlich beschlossen
+- TOP 15: Gebührenkalkulation Abfall für 2012 - mehrheitlich beschlossen
+- TOP 15.1: ÄA Linke: Gebühren für die Abfallbeseitigung
+- TOP 16: 22. Satzung zur Änderung der Gebührensatzung über die Abfallentsorgung in der Landeshauptstadt Düsse - mehrheitlich beschlossen
+- TOP 17: ÄA Freie Wähler: Änderung der Gebührensatzung über die Abfallentsorgung i - mehrheitlich abgelehnt
+- TOP 18: 10. Satzung zur Änderung der Satzung über die Abfallentsorgung in der Landeshauptstadt Düsseldorf - mehrheitlich beschlossen
+- TOP 19: Gebührentarife zur Gebührensatzung für die Friedhöfe - mehrheitlich beschlossen
+- TOP 20: Entgeltordnung des Garten-, Friedhofs- und Forstamtes - mehrheitlich beschlossen
+- TOP 21: Neufassung der Parkgebührenordnung - Änderung der Vorlage 66/75/2011 - mehrheitlich beschlossen
+- TOP 22: Neufestsetzung der Eintrittspreise in den städtischen Museen - mehrheitlich beschlossen
+- TOP 23: Änderung der Verwaltungsgebührensatzung - mehrheitlich beschlossen
+- TOP 24: Vergnügungssteuer - mehrheitlich beschlossen
+- TOP 24.1: ÄA Freie Wähler: Vergnügungssteuer - mehrheitlich abgelehnt
+- TOP 25: Etatberatung 2012
+- TOP 25.1: Haushaltssatzung der Landeshauptstadt Düsseldorf für das Haushaltsjahr 2012 mit Anlagen - mehrheitlich beschlossen
+- TOP 25.2: Vorschläge und Anregungen der Bezirksvertretungen - zur Kenntnis genommen
+- TOP 25.3: 1. VVZ zum Haushaltsplanentwurf 2012 - zur Kenntnis genommen
+- TOP 25.4: Stellenplan 2012 - zur Kenntnis genommen
+- TOP 26: Förderprogramm "Klimafreundliches Wohnen in Düsseldorf" - einstimmig beschlossen
+- TOP 27: Namensgebung Realschule In der Lohe, Schwannstraße 5 - einstimmig beschlossen
+- TOP 28: Angebot der Stadtbüchereien in den Stadtteilen - Bücherbus - einstimmig beschlossen
+- TOP 29: Art:card junior - mehrheitlich beschlossen
+- TOP 30: Abberufung und Bestellung von Prüferinnen und Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 31: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 32: Genehmigung 60er
+- TOP 32.1: Genehmigung 60er: Erneuerung des Geländers am "Unteren Rheinwerft" - einstimmig beschlossen
+- TOP 33: Planungsmaßnahmen
+- TOP 34: Plan Nr.:5280/029 Golzheimer Siedlung/ Nordöstlich Rotterdamer Straße - einstimmig beschlossen
+- TOP 35: Plan-Nr.:5477/125 Kö-Bogen 2.BA Satzungsbeschluss - mehrheitlich beschlossen
