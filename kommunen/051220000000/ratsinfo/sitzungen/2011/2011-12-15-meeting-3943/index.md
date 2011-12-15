@@ -1,0 +1,76 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2011-12-15T16:00:00+01:00
+- Ende: 2011-12-15T17:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZYKh_OMeenSBECnl_kGkLSQ
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3943
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeiO33MKCtehlZ58Cd_oQvCtyDPUP_0KowdTQoXjR2LK/Oeffentliche_Niederschrift_Rat_15.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 16. Sitzung des Rates am 13.10.2011
+- TOP 4: Vorschlag für die En-bloc-Abstimmung
+- TOP 5: Umbesetzung von Ausschüssen und Gremien
+- TOP 6: Umbesetzung von Ausschüssen und Gremien
+- TOP 7: Bergische Kooperation zur Durchführung bestimmter Aufgaben der Gesundheitsverwaltungen
+- TOP 8: Klingenstadt Solingen
+- TOP 9: Klingenstadt Solingen – Werbebringender Zusatzname auf den Ortsschildern
+- TOP 10: Namenszusätze für Kommunen
+- TOP 11: Bestandsaufnahme Anteilsverkauf/Alternativenbetrachtung Stadtwerke Solingen GmbH
+- TOP 12: Kommunalbeirat der MVV Energie
+- TOP 13: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 14: Gründung der Gesellschaft Zentrum für verfolgte Künste GmbH
+- TOP 15: Vergabe des Lokalen Agenda-Preises der Stadt Solingen 2011
+- TOP 16: I. Nachtrag zum Stellenplan 2011
+- TOP 17: I. Nachtrag zum Stellenplan 2011
+- TOP 18: Bürgerbeteiligte Haushaltssicherung für den Haushalt 2012
+- TOP 19: Umlage Landschaftsverband Rheinland
+- TOP 20: Bergische Kooperation zur Durchführung bestimmter Aufgaben der Gesundheitsverwaltungen
+- TOP 21: Kündigung der öffentlich-rechtlichen Vereinbarung zwischen dem Kreis Mettmann und der Stadt Solingen zur Wahrnehmung von Aufgaben nach dem Gesetz über das Apothekenwesen vom 16./20.12.1999
+- TOP 22: Gründung der "Bergische Gesellschaft für Ressourceneffizienz mbH"
+- TOP 23: Neufassung der Satzung über die Erhebung von Gebühren für Amtshandlungen auf dem Gebiet der Schlachttier- und Fleischuntersuchung und sonstigen Amtshandlungen im Zusammenhang mit Lebensmitteln tierischen Ursprungs (Fleischhygienegebührensatzung)
+- TOP 24: Betriebssatzung des DBSG
+- TOP 25: Betriebssatzung des DBSG
+- TOP 26: Jahresabschluss 2010 der EntsorgungsBetriebe Solingen
+- TOP 27: Jahresabschluss 2010 des Technischen Betriebes Straßen und Grün
+- TOP 28: Gebührenbedarfsberechnungen 2012
+- TOP 29: II. Änderungssatzung zur Satzung über die Abfallentsorgung in der Stadt Solingen
+- TOP 30: I. Änderungssatzung zur Satzung über die Straßenreinigung in der Stadt Solingen
+- TOP 31: I. Änderungssatzung zur Satzung der Stadt Solingen über die Entwässerung der Grundstücke und den Anschluss an die öffentliche Abwasseranlage (Entwässerungssatzung)
+- TOP 32: II. Änderungssatzung zur Satzung über die Entsorgung der Grundstücksentwässerungsanlagen in der Stadt Solingen (Entsorgungssatzung)
+- TOP 33: Entgeltberechnung für das Müllheizkraftwerk
+- TOP 34: Wirtschaftsplan 2012 der Technischen Betriebe Solingen
+- TOP 35: Finanzierungsübertragung auf den VRR
+- TOP 36: Bauleitplanung Burger Landstraße/Dorperhof
+- TOP 37: Verschiedenes
+- TOP 38: Anzahl von Leiharbeiterinnen und Leiharbeitern bei der Stadt Solingen
+- TOP 39: Rechtsanspruch U3 ab 2013
+- TOP 40: Zusammenlegung der Veterinärämter Wuppertal/Solingen Zusatzfragen von Ratsmitglied Weih in der Ratssitzung am 13. 10. 2011
+- TOP 41: Kosten Feuerwehrleitstelle
+- TOP 42: Kosten Feuerwehrleitstelle, Anfrage des RM Preuß aus der Ratssitzung am 13.10.2011
+- TOP 43: Verbesserung der Situation psychisch kranker und seelisch behinderter Kinder und Jugendlicher
+- TOP 44: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 45: Kooperation der bergischen Gesundheitsämter
+- TOP 46: Zukunft der Stadtwerke Solingen GmbH
+- TOP 47: Löschwasservertrag
+- TOP 48: Kulturpolitische Kooperations- und Fusionsszenarien für das bergische Städtedreieck Remscheid, Solingen und Wuppertal/ actori-Gutachten
+- TOP 49: Landtagsanhörung zum Stärkungspaket Stadtfinanzen
+- TOP 50: Interkommunale Zusammenarbeit der Städte Remscheid, Solingen und Wuppertal
+- TOP 51: Empfehlungen der Kommission zur Zukunft der bergischen Region
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 16. Sitzung des Rates am 13.10.2011
+- TOP 3: Verleihung von Ehrenringen der Stadt Solingen
+- TOP 4: Beförderung von Beamten
+- TOP 5: Löschwasservertrag
+- TOP 6: Löschwasservertrag
+- TOP 7: Bauleitplanung Burger Landstraße/Dorperhof
+- TOP 8: Verschiedenes
