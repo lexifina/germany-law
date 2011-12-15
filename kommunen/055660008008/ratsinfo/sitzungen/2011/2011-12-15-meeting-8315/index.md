@@ -1,0 +1,54 @@
+# Haupt-, Finanz- und Steuerungsausschuss (45. Sitzung)
+
+- Körperschaft: Stadt Emsdetten
+- Beginn: 2011-12-15T16:04:00+01:00
+- Ende: 2011-12-15T20:06:00+01:00
+- Ort: Rathaus, Am Markt 1, 48282 Emsdetten, Sitzungsraum 413
+- Status: 
+- Gremium: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-27
+- Ratsinformationssystem: https://emsdetten.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZchH6WluDiuRcOl7mC9OzA4
+- OParl: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/8315
+- Quelle: https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt-, Finanz- und Steuerungsausschuss) https://emsdetten.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY04eQrmwQYhTDKjRDCpXiRYYM2QxTikZcBll3e_XKYu/Oeffentliche_Niederschrift_Haupt--_Finanz-_und_Steuerungsausschuss_15.12.2011.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Niederschrift über die letzte Sitzung vom 18.10.2011
+- TOP 2.: Anträge und Anfragen; Eingänge
+- TOP 3.: Finanzangelegenheiten
+- TOP 3.1: Feststellung des Jahresabschlusses 2009, Behandlung des Fehlbetrages und Entlastung des Bürgermeisters - Zur Kenntnis genommen
+- TOP 3.2: Jahresabschluss 2010 - Bestätigter Entwurf - Einstimmig
+- TOP 3.3: Ausschüttung aus Allgemeiner Rücklage Abwasserwerk in Höhe des Jahresüberschusses 2008 und vorzeitige Ausschüttung Jahresüberschuss 2011 - Einstimmig
+- TOP 3.4: Kreditumschuldung zum 30.09.2011 - Zur Kenntnis genommen
+- TOP 4.: Etat/Budget
+- TOP 4.1: Managementbericht zum 31.10.2011 - Einstimmig
+- TOP 5.: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2012 - (kein Text vorhanden)
+- TOP 5.1: Wirtschaftsplan des Abwasserwerkes der Stadt Emsdetten für das Jahr 2012 - Einstimmig
+- TOP 6.: Stellenplan
+- TOP 6.1: Stellenplan 2012 - 14 Ja-Stimme(n), 0 Gegenstimme(n), 2 Enthaltung(en)
+- TOP 7.: Entwurf zur Haushaltssatzung 2012 (Produkte) - 12 Ja-Stimme(n), 3 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 8.: II. Nachtrag zur Satzung der Stadt Emsdetten über die Erhebung von Vergnügungssteuer (Vergnügungssteuersatzung) vom 29.11.2006 - 13 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 9.: VI. Nachtrag zur Gebührensatzung vom 31. Mai 2006 zur Satzung über die Abfallentsorgung in der Stadt Emsdetten vom 18.12.2009 - Einstimmig
+- TOP 10.: V. Nachtrag zur Satzung der Stadt Emsdetten über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren auf Grundlage der Gebührenkakulation und der Festsetzung der Gebühren für die Sommerreinigung und der Winterwartung ab 2012 - 13 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 11.: I. Nachtrag zur Beitrags- und Gebührensatzung der Stadt Emsdetten vom 17.02.2011 auf Grundlage der Gebührenkalkulation für das Jahr 2012 - (kein Text vorhanden)
+- TOP 11.1: I. Nachtrag zur Beitrags- und Gebührensatzung der Stadt Emsdetten vom 17.02.2011 auf Grundlage der Gebührenkalkulation für das Jahr 2012 - Einstimmig
+- TOP 12.: IX. Nachtrag zur Satzung der Stadt Emsdetten über die Umlegung des Unterhaltungsaufwandes der Stadt Emsdetten für fließende Gewässer II. Ordnung - Einstimmig
+- TOP 13.: Bebauungsplan
+- TOP 13.1: Bebauungsplan Nr. 12 T1 "Lauge", Teilaufhebung - Satzungsbeschluss - Einstimmig
+- TOP 13.2: Bebauungsplan Nr. 17 A "Industriegebiet Süd", 13. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 13.3: Bebauungsplan Nr. 17 D "Industriegebiet Süd", 5. Änderung - Satzungsbeschluss - Einstimmig
+- TOP 14.: Gestaltung Kreisverkehr Mühlenstraße/In der Lauge/Münsterstraße Hier: Aufstellung der Figur "Helga" von den "Alltagsmenschen" - 15 Ja-Stimme(n), 0 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 15.: Durchführung von Ausgleichsmaßnahmen - Einstimmig
+- TOP 16.: Schulangelegenheiten
+- TOP 16.1: Wahl der Schulleitungen der Emsdettener Schulen nach dem Schulgesetz hier: Entsendung von Mitgliedern der Schulträgerin in die erweiterten Schulkonferenzen - Einstimmig
+- TOP 16.2: Schulentwicklungsplanung weiterführende Schulen Vorbereitung einer Entscheidung - Einstimmig
+- TOP 17.: Allgemeine Angelegenheiten der Jugendhilfe
+- TOP 17.1: Neue Richtlinien des Jugendamtes der Stadt Emsdetten für die Wirtschaftliche Jugendhilfe einschließlich der Kostenheranziehung - Einstimmig
+- TOP 17.2: Übertragung des städtischen Zeltelagers auf die Kath. Kirchengemeinde St. Pankratius - Einstimmig
+- TOP 17.3: Interessenbekundung zum Modellvorhaben "Kommunale Präventionsketten" - Einstimmig
+- TOP 18.: Wahlen zu Funktionen
+- TOP 18.1: Wahl von Schiedspersonen - Einstimmig
+- TOP 19.: Bildung eines Beirates für Seniorinnen und Senioren (Seniorenbeirat) und eines Beirates für Menschen mit Behinderung - 13 Ja-Stimme(n), 2 Gegenstimme(n), 1 Enthaltung(en)
+- TOP 20.: Dienstanweisung über Stundung, Niederschlagung und Erlass von Forderungen - Zur Kenntnis genommen
+- TOP 21.: Verschiedenes
