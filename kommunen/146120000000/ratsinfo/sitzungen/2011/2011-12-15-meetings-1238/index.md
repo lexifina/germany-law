@@ -1,0 +1,53 @@
+# 35. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-12-15T14:00:00+01:00
+- Ende: 2011-12-16T22:45:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1238
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1238
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2011_12_15 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00082626.pdf
+- Wortprotokoll: Nachtrag_SR_2011_21_15 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00082788.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Aktuelle Stunde zum Thema "Dresden für Demokratie und Toleranz" - zur Kenntnis genommen
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Einrichtung der 38. Grundschule und eines Hortes am Standort Saalhausener Straße 61, 01159 Dresden, zum 1. August 2012 - punktweise Zustimmung
+- TOP 6: Einrichtung der 107. Mittelschule am Standort Hepkestraße 26, 01309 Dresden, zum 1. August 2012 - Zustimmung
+- TOP 7: Neues Verwaltungszentrum - Zustimmung mit Änderung
+- TOP 8: Errichtung einer Tiefgarage am Palaisplatz - Vertagung
+- TOP 9: Elbbrücke für Dresden - punktweise Zustimmung
+- TOP 10: Maßnahmen zu höherer Verkehrssicherheit in Striesen/Blasewitz/Johannstadt - Ablehnung
+- TOP 11: Erfüllung von Stadtratsbeschlüssen - punktweise Zustimmung
+- TOP 12: Einwohnerinnen- und Einwohnerfragestunde - Zustimmung
+- TOP 13: Finanzierungssicherheit für den Umbau des Dresdner Kulturpalastes - punktweise Zustimmung
+- TOP 14: Zweckungebundene Rücklagenbildung aus Steuermehreinnahmen - Ablehnung
+- TOP 15: Gesamtsanierung und Erweiterung der 90. Grundschule, Kleinlugaer Straße 25, 01259 Dresden, mit Neubau einer integrierten Einfeldsporthalle - Zustimmung mit Änderung
+- TOP 16: Standortentwicklung Gymnasium Dresden-Klotzsche, Karl-Marx-Straße 44 in 01109 Dresden - Zustimmung mit Änderung
+- TOP 17: Zukunftsfähigkeit durch Bildungsinvestitionen sichern - punktweise Zustimmung
+- TOP 18: Umverteilung von Ausgabe- und Einnahmeansätzen des Investitionshaushaltes des Stadtplanungsamtes für das Planjahr 2012 und 2013 und Umverteilung der Verpflichtungsermächtigungen 2011 für 2012 und 2013 sowie Einbindung von Projekten in die Bewirtschaf - Zustimmung
+- TOP 19: Feststellung der Jahresrechnung 2010 - Zustimmung
+- TOP 20: Neufassung der Rettungsdienstentgeltsatzung der Landeshauptstadt Dresden - Zustimmung
+- TOP 21: Errichtung des DLR_School_Lab TU Dresden und der Ausstellung "Cool Silicon" in den Technischen Sammlungen - Zustimmung
+- TOP 22: Novellierung der Richtlinie der Landeshauptstadt Dresden zur kommunalen Kulturförderung - Zustimmung mit Änderung
+- TOP 23: Gleichberechtigter Zugang zum Bildungspaket für junge Menschen nach § 3 Asylbewerberleistungsgesetz (AsylbLG) - Zustimmung mit Änderung
+- TOP 24: Freiflächengestaltung des historischen Gewandhausgrundstückes - Zustimmung mit Änderung
+- TOP 25: Aufhebung der Sanierungssatzung für das Sanierungsgebiet Langebrück "Ortsmitte" - Zustimmung
+- TOP 26: Sonderprogramm barrierefreier Haltestellenausbau - Zustimmung
+- TOP 27: Vorhabenbezogener Bebauungsplan Nr. 693,Dresden-Großzschachwitz, Geschäfts- und Parkhaus Pirnaer Landstraße - Vertagung
+- TOP 28: Bestellung eines Wirtschaftsprüfers zur Prüfung der Jahresabschlüsse der Geschäftsjahre 2011 bis 2013 des Eigenbetriebes Stadtentwässerung der Landeshauptstadt Dresden - Zustimmung
+- TOP 29: Bestellung eines Wirtschaftsprüfers für die Prüfung des Jahresabschlusses 2011 und 2012 einschließlich Prüfung Ordnungsmäßigkeit der Geschäftsführung nach § 53 HGrG für den Eigenbetrieb "Städtisches Friedhofs- und Bestattungswesen Dresden" - Zustimmung
+- TOP 30: Aktionsplan der Landeshauptstadt zur Umsetzung der UN-Behindertenrechtskonvention - Zustimmung mit Änderung
+- TOP 31: Mehr Selbstständigkeit für Schulen - Vertagung
+- TOP 32: Bürgerbeteiligung bei Stadtbahn-Neubauvorhaben - Ablehnung
+- TOP 33: Verkehrliche Folgen der Waldschlößchenbrücke bewältigen - Belastungen reduzieren - punktweise Zustimmung
+- TOP 34: Verbesserung der Zahlungsmoral der Landeshauptstadt Dresden und Verhinderung von Zahlungsverzögerungen bei ordnungsgemäß erbrachten Leistungen durch die freiwillige frühzeitige Umsetzung der EU-Richtlinie zur Bekämpfung von Zahlungsverzug - Vertagung
+- TOP 35: Freie Fahrt für Radfahrer in Dresdens Einbahnstraßen - Vertagung
+- TOP 36: Transparente Verwaltung: Informationsfreiheitssatzung für die Landeshauptstadt Dresden - Vertagung
+- TOP 38: Übertragung der Schwimmhallen und Bäder - Zustimmung mit Änderung
