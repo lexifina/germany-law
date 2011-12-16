@@ -1,0 +1,69 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2011-12-16T16:00:00+01:00
+- Ende: 2011-12-16T19:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1683
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1683
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit
+- TOP 2: Genehmigung der Tagesordnung - einstimmig zugestimmt
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde
+- TOP 5: üpl. Hilfe zur Erziehung - einstimmig zugestimmt
+- TOP 6: Abfallgebühren 2012 - einstimmig zugestimmt
+- TOP 7: Wirtschaftsplan 2012 GMN - zur Kenntnis genommen
+- TOP 8: Haushaltsplan 2012 - zur Kenntnis genommen
+- TOP 9: Mittelfristige Ergebnisplanung 2011 - 2015 - zur Kenntnis genommen
+- TOP 10: Investitionsprogramm 2011 - 2015 - zur Kenntnis genommen
+- TOP 11: Haushaltssatzung 2012 - zur Kenntnis genommen
+- TOP 12: Prüfung des Jahresabschlusses 2010 und der zwei Sonderhaushalte (Hesemann und Reindl) - einstimmig zugestimmt
+- TOP 13: GPA NRW - Überörtliche Prüfung Informationstechnologie der Stadt Neuss - einstimmig zugestimmt
+- TOP 14: Überörtliche Prüfung der Zahlungsabwicklung - einstimmig zugestimmt
+- TOP 15: Räumliches Strukturkonzept - zur Kenntnis genommen
+- TOP 16: B-Plan Nr. V477 - Dreikönigenviertel, Schillerstraße - Auslegung - einstimmig zugestimmt
+- TOP 17: Barrierefreier Umbau Bushaltestelle Gnadentaler Allee (stadteinwärts) - einstimmig zugestimmt
+- TOP 18: B-Plan V478, Stadionviertel, Lützowstraße - Auslegung - einstimmig zugestimmt
+- TOP 19: FNP-Änderung 125, - Hoisten, Schelmrather Hof - Aufstellung - einstimmig zugestimmt
+- TOP 20: B-Plan V479, - Hoisten, Am Schelmrather Hof (Biogasanlage) - Einleitung - einstimmig zugestimmt
+- TOP 21: B-Plan 453, - Pomona, Jülicher Landstraße - erneute Auslegung - einstimmig zugestimmt
+- TOP 22: B-Plan V282/1, - Innenstadt, Am Alten Weiher 6/7 - Einleitung - einstimmig zugestimmt
+- TOP 23: B-Plan 57/23, - Weissenberg, Am Kotthauser Weg - Satzung - einstimmig zugestimmt
+- TOP 24: Erschließung BPL 57/23 - Am Kotthauser Weg - einstimmig zugestimmt
+- TOP 25: Erschließung BPL V 43/11 - Furth-Mitte, Engelbertstraße (Demenzkompetenzzentrum Rheinland) - einstimmig zugestimmt
+- TOP 26: EU-Wasserrahmenrichtlinie (EU-WRRL) - Umsetzungsfahrpläne zu Maßnahmenprogrammen für Gewässer - einstimmig zugestimmt
+- TOP 27: Beitritt zum Bündnis "Kommunen für Biologische Vielfalt" - einstimmig zugestimmt
+- TOP 28: Grünfläche Katharina-Braeckeler-Straße, B-Plan Nr. 368, mit Restausbau Straßengrün und Radweg Kurze - einstimmig zugestimmt
+- TOP 29: Feststellung des Jahresabschlusses der Städtischen Friedhöfe Neuss zum 31.12.2010 und Beschluss über - einstimmig zugestimmt
+- TOP 30: Festsetzung von Gebühren für den Bereich "Bestattungswesen" der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 31: Wirtschaftsplan 2012 ff. der Städtischen Friedhöfe Neuss - einstimmig zugestimmt
+- TOP 32: Realschule Südstadt, Planung und Umbau Freianlagen - einstimmig zugestimmt
+- TOP 33: Wirtschaftsplan 2012 der LVN - einstimmig zugestimmt
+- TOP 34: Lärmschutzanlagen BPL 374 - Holzheim, Reuschenberger Straße/Am Sportplatz ("Glockenhütte") - einstimmig zugestimmt
+- TOP 35: FNP-Änderung 118a, - Holzheim, Blausteinsweg (Nord) - Auslegung - einstimmig zugestimmt
+- TOP 36: B-Plan 449, - Holzheim, Blausteinsweg (Nord) - Auslegung - einstimmig zugestimmt
+- TOP 37: B-Plan 8/6 - Holzheim, Münchener Straße / Hindenburgplatz - Auslegung - einstimmig zugestimmt
+- TOP 38: Straßenbegleitgrün Kruppstraße, zwischen Kreisverkehr am Blankenwasser und A 57 - einstimmig zugestimmt
+- TOP 39: Bebauungsplan Nr. 325 - Norf, Stiegergasse - - zur Kenntnis genommen
+- TOP 40: BPL 443 - Allerheiligen, Am Henselsgraben: Lärmschutzwall Süd - einstimmig zugestimmt
+- TOP 41: BPL 443 - Allerheiligen, Am Henselsgraben: Ausbau Stichweg Rankestraße - einstimmig zugestimmt
+- TOP 42: Erschließung BPL 443 - Allerheiligen, Am Henselsgraben: Baugebiet Süd - einstimmig zugestimmt
+- TOP 43: FNP-Änderung 118b, - Schlicherum, Am Kapellchen - Auslegung - einstimmig zugestimmt
+- TOP 44: Ausbau öffentliche Grünfläche "Am Alten Bach", (Allerheiligen) - einstimmig zugestimmt
+- TOP 45: Regionalplan im Bereich Holzheim - einstimmig zugestimmt
+- TOP 46: FNP-Änderung 124, - Uedesheim, Kreuzfeld / Rosellen, Am Schwarzen Graben - Aufstellung - zur Kenntnis genommen
+- TOP 47: B-Plan 465, - Uedesheim, Kreuzfeld - Aufstellung - zur Kenntnis genommen
+- TOP 48: Fahrradschutzstreifen Rheinfährstraße - einstimmig zugestimmt
+- TOP 49: Teilnahme der Stadt Neuss am Modellvorhaben Kommunale Präventionsketten - einstimmig zugestimmt
+- TOP 50: Übertragung von Aufgaben des Tiefbauamtes auf die InfraStruktur Neuss AÖR - vertagt
+- TOP 51: Masterplan- Öffentlichkeitsbeteiligung - zur Kenntnis genommen
+- TOP 52: Entwicklung der Schmutz- und Regenwassergebühren für 2012 - zur Kenntnis genommen
+- TOP 53: Info-Line - zur Kenntnis genommen
+- TOP 54: Kenntnisnahme üpl/apl III. 2011 - zur Kenntnis genommen
+- TOP 55: Einwohnerfragestunde
