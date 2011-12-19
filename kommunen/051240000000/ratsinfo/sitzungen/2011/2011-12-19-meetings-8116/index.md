@@ -1,0 +1,79 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2011-12-19T16:04:00+01:00
+- Ende: 2011-12-19T19:31:00+01:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8116
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8116
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00137538.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00137813.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Zur Situation Berliner Platz - abschließend zur Kenntnis genommen
+- TOP 2.1.1: Beantwortung der Anfrage der CDU- Fraktion zur Situation Berliner Platz - abschließend zur Kenntnis genommen
+- TOP 2.2: Überstunden der städtischen MitarbeiterInnen - abschließend zur Kenntnis genommen
+- TOP 2.2.1: Große Anfrage der Fraktion Die Linke VO/1024/11 v. 02.12.11 - abschließend zur Kenntnis genommen
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag gemäß § 24 Gemeindeordnung NRW auf Anordnung des Verbots für städtische Beschäftigte, eine Ganzkörperverschleierung (Burka) zu tragen
+- TOP 3.2: Bürgerantrag zum Grundstück der Fertighausausstellung
+- TOP 3.3: Bürgerantrag hinsichtlich einer Grundstücksangelegenheit
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Abschaffung der Sperrzeitenregelung - zurückgezogen
+- TOP 4.2: Einführung von Elektrofahrzeug-Parkausweisen - zur Vorberatung verwiesen
+- TOP 4.3: Bericht über Abstimmungsgespräche zum Offenhalten von Verkaufsstellen an Sonn- und Feiertagen - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: EU-Mittel für Energieeffizienz und Erneuerbare Energien nutzen - zurückgezogen
+- TOP 6: Ortsrecht
+- TOP 6.1: 2. Satzung zur Änderung der Abfallwirtschaftssatzung der Stadt Wuppertal vom 16. Dezember 2008 - ungeändert beschlossen
+- TOP 6.2: 3. Änderungssatzung der Satzung über die Erhebung von Anschlussbeiträgen, Abwassergebühren und Kostenersatz für Grundstücksanschlüsse in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Satzung über die Straßenreinigung und des Winterdienstes sowie die dazu erhebende Gebührensatzung ab dem 01.01.2012 - ungeändert beschlossen
+- TOP 6.4: Zwölfte Satzung zur Änderung der Gebührensatzung für die Friedhöfe der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.5: Änderung der Satzung über die Erhebung von Elternbeiträgen für den Besuch von Angeboten der Offenen Ganztagsschule im Primarbereich der Stadt Wuppertal (Elternbeitragssatzung OGS) - ungeändert beschlossen
+- TOP 6.6: Kanalbeitragssatzung 2007-2010 - ungeändert beschlossen
+- TOP 6.7: Gebührensatzung zur Abfallwirtschaft 2012 - ungeändert beschlossen
+- TOP 6.8: Änderung des Taxentarifs - ungeändert beschlossen
+- TOP 6.9: Entgeltordnung für den Verleih von Zelt- und Veranstaltungsmaterial - Materialpool - geändert beschlossen
+- TOP 6.10: Verordnung über das Offenhalten von Verkaufsstellen im Bezirk Oberbarmen - ungeändert beschlossen
+- TOP 6.11: Satzung der Jobcenter Wuppertal Anstalt öffentlichen Rechts - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2008 - ungeändert beschlossen
+- TOP 7.2: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2008 - ungeändert beschlossen
+- TOP 7.3: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2010 - ungeändert beschlossen
+- TOP 7.4: Über- und außerplanmäßige Bereitstellung von Mitteln für 2011, Teil 2 - Entgegennahme ohne Beschluss
+- TOP 7.5: Bereitstellung überplanmäßiger Investitionsmittel für das Verkehrsrechnersystem Wuppertal - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2010 des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.2: Jahresabschluss 2010 - Entlastung des Betriebsausschusses des Gebäudemanagements der Stadt Wuppertal - ungeändert beschlossen
+- TOP 8.3: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2012 - stationärer Bereich - - ungeändert beschlossen
+- TOP 8.4: Wirtschaftsplan der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Jahr 2011 - Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Wirtschaftsplan 2012 der Wirtschaftsförderung Wuppertal AöR - ungeändert beschlossen
+- TOP 8.6: Wirtschaftsplanung KIJU für das Jahr 2012 - ungeändert beschlossen
+- TOP 8.7: Wirtschaftsplan 2012 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.8: Gründung der Bergischen Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 8.9: Auflösung der TAG Tropolys Altgesellschafter GmbH - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1155 - Berliner Str., / Bredde - - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1135 - Am Schaffstal - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 1163 - Berliner Straße - - ungeändert beschlossen
+- TOP 9.4: 1. Änderung des vorhabenbezogenen Bebauungsplanes Nr. 1115V "Parkstraße / Erbschlö" im vereinfachten Verfahren nach § 13 BauGB - Behandlung der Stellungnahmen und Satzungsbeschluss - - ungeändert beschlossen
+- TOP 9.5: Vorhabenbezogener Bebauungsplan Nr. 1101V - Heckinghauser Str./ Feuerstr.- - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1175 - Gathe / Ludwigstr. / Markomannenstr. - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Soziale Stadt Oberbarmen/Wichlinghausen - Überarbeitung des integrierten Handlungskonzepts incl. Kosten- und Finanzierungsplan - ungeändert beschlossen
+- TOP 11.2: Festsetzung des Überschwemmungsgebietes des Morsbaches - ungeändert beschlossen
+- TOP 11.3: Festsetzung der Vergabewertgrenzen ab 01.01.2012 - geändert beschlossen
+- TOP 11.4: Bergische Kooperation zur Durchführung bestimmter Aufgaben der Gesundheitsverwaltungen zum 01.04.2012 - ungeändert beschlossen
+- TOP 11.5: Vorzeitige endgültige Auflösung der städtischen Gemeinschaftshauptschule Cronenberg, Berghauser Straße - ungeändert beschlossen
+- TOP 11.6: Errichtung der 6. Gesamtschule - geändert beschlossen
+- TOP 11.7: Auslaufende Auflösung der Gemeinschaftshauptschule Am Katernberg, Kruppstraße - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Entsendung einer Vertreterin/eines Vertreters der Stadt Wuppertal in den Betriebsausschuss der eigenbetriebsähnlichen Einrichtung aKDn-sozial des Zweckverbandes "KDN - Dachverband Kommunaler IT-Dienstleister" - ungeändert beschlossen
+- TOP 12.2: Benennung eines neuen Mitgliedes des Tierheimbeirates - ungeändert beschlossen
