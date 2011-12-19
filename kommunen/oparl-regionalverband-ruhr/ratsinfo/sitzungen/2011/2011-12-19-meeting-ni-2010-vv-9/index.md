@@ -1,0 +1,52 @@
+# 9. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2011-12-19T10:10:00+01:00
+- Ende: 2011-12-19T11:20:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-9
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-9
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-9
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VV-9
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-VV-9
+
+## Tagesordnung
+
+- TOP 1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Vorschlag für das Stadterneuerungsprogramm 2012 - Informationen zum Sachstand
+- TOP 2.2: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.3: Altlastenförderung 2012 - Unterrichtung und Beratung über die für eine Förderung im Jahr 2012 angemeldeten Vorhaben zur Gefährdungsabschätzung, Untersuchung und Sanierung von Altstandorten und Altablagerungen - Beratung und Beschlussfassung
+- TOP 2.4: Neue Prioritäten des MWEBWV im Landesstraßen- sowie im Bundesfernstraßenbau
+- TOP 2.5: Regionaler Vorschlag zum Jahresbauprogramm 2012 für die Maßnahmen des Landesstraßenausbauplanes
+- TOP 2.6: Jahresbauprogramm 2012 zum Um- und Ausbau von Landesstraßen bis 3 Mio. € Gesamtkosten: Entscheidung über die Prioritäten
+- TOP 2.7: Jahresbauprogramm 2012 zum Radwegebau an bestehenden Landesstraßen: Entscheidung über die Prioritäten
+- TOP 2.8: Förderprogramm für den kommunalen Straßen- und Radwegebau 2011; Programmerweiterung
+- TOP 2.9: Kunst- und Kulturförderung Projektförderung im Rahmen der Regionalen Kulturpolitik Kulturregion Niederrhein
+- TOP 2.10: Kulturregion Hellweg
+- TOP 2.11: Wasserwirtschaftliche Förderprogramme im Gewässerausbau, Rückblick 2010
+- TOP 2.12: Raumordnungsverfahren zur 110-/380 kV - Höchstspannungsleitung Dortmund-Kruckel nach Dauersberg Unterrichtung über Raumordnerische Beurteilung
+- TOP 2.13: 7. Änderung des Regionalplans für den Regierungsbezirk Münster (Teilabschnitt Emscher-Lippe) Kraftwerksstandort in der Stadt Datteln - aktueller Sachstand
+- TOP 2.14: Vorbereitung des neuen Regionalplans Ruhr - Sachstandsbericht
+- TOP 2.15: Innenstädte und Ortszentren in der Metropole Ruhr vor ruinösem Wettbewerb schützen Grundlagen in NRW zur Steuerung des großflächigen Einzelhandels schaffen!
+- TOP 2.16: Anfragen und Mitteilungen
+- TOP 3: Angelegenheiten nach RVR-Gesetz
+- TOP 3.1: Wahl eines beratenden Mitglieds der Verbandsversammlung
+- TOP 3.2: Einbringung des Haushalts 2012
+- TOP 3.3: Bildungsbericht Ruhr
+- TOP 3.4: ruhrFIS - Flächeninformationssystem Ruhr. Erhebung der Siedlungsflächenreserven - Ergebnisband
+- TOP 3.5: Angelegenheiten der RUHR.2010 GmbH - Jahresabschluss der Stiftung zum 31.12.2010
+- TOP 3.6: Angelegenheiten der RUHR.2010 GmbH - Jahresabschluss zum 31.12.2010
+- TOP 3.7: Angelegenheiten der TouristikEisenbahn Ruhrgebiet GmbH - TER - Jahresabschluss zum 31.12.2010
+- TOP 3.8: Konzept für ein neues Marketingformat der Route der Industriekultur Sommerhighlights 2012
+- TOP 3.9: Ergebnisrechnung 2010, Prüfbericht, der eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur
+- TOP 3.10: Wirtschaftsplan 2012 der eigenbetriebsähnlichen Einrichtung RVR-Route der Industriekultur
+- TOP 3.11: Windkraft auf dem Gebiet des Regionalverbands Ruhr
+- TOP 3.11.1: Antrag der CDU-Fraktion zum Thema 'Windkraft auf dem Gebiet des Regionalverbands Ruhr' (Drucksache 12/0493) Hier: Stellungnahme der Verwaltung
+- TOP 3.12: Fracking / keine Bereitstellung von RVR-Flächen Antrag von SPD/Bündnis 90/Die Grünen vom 08.12.2011
+- TOP 3.13: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
