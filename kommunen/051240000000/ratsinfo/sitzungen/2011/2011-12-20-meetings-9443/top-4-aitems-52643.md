@@ -1,0 +1,8 @@
+# TOP 4: Bebauungsplan Nr. 1162 V - Jesinghauser Straße
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung der Bezirksvertretung Langerfeld-Beyenburg !!Achtung: Änderung des Sitzungsbeginns!! (2011-12-20)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/agendaitems/52643
+- Ergebnis: ungeändert beschlossen
+- Beratung: http://oparl.wuppertal.de/oparl/bodies/0001/consultations/25049
