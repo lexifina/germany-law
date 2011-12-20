@@ -1,0 +1,123 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2011-12-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2508604
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2508604
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Protokoll der Oktober-Sitzung Protokoll der November-Sitzung
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Kindergarten in der Seybothstraße: Kindergarten gegen Zeitungskiosk? Oder Kindergarten und Zeitungskiosk? Bügerschreiben vom 20.11.11
+- TOP 2.2.: U1 bis Mangfallplatz = Endstation? Oder U1 bis Klinikum Harlaching = Endstation? Bürgerschreiben vom .. - <div>nach Antrag</div>
+- TOP 2.3.: Erhalt des Ensembles Mondstraße am Auer Mühlbach; Abdruck eines Bürgerschreibens an Herrn Oberbürgermeister Ude vom 22.11.11
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Grünpfeil an der Einmündung der Langobardenstraße in die Grünwalder Straße (Authariplatz); Antrag der CSU-Fraktion vom 15.11.11 (vertagt aus der Sitzung vom 15.11.11) - <div>nach Antrag</div>
+- TOP 3.2.: Ausbau des Hohlraums in der U-Bahnstation Wettersteinplatz als Tiefgarage; Antrag der CSU-Fraktion vom 18.10.2011 (vertagt aus der Sitzung vom 18.10.11 und 15.11.11) zu TOP 3.2.3.2 Stellungnahme des Elternbeirats der Grundschule an der Fromundstraße (vertagt aus der Sitzung vom 15.11.11) - siehe auch TOP 3.5.3.2 - - <div>nach Antrag mit Ergänzungen</div>
+- TOP 3.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Braunstraße - Einrichtung eines absoluten Haltverbots bis zur Einfahrt Braunstraße 6 (Zufahrt Wichtelakademie); Antrag der FDP-Fraktion vom 05.12.11 - <div>nach Antrag</div>
+- TOP 3.1.: Säbener Straße - Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Schreiben des KVR vom 08.11.11 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 15.11.11)
+- TOP 3.2.: Hans-Mielich-Straße; Hans-Mielich-Platz; Haltverbotsregelung nach Umbau; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 14.11.11 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 3.1.: Hinweisschilder mit dem Namen des Stadtbezirks Untergiesing bzw. Harlaching an div. Standorten im Stadtbezirk; BA-Antrag-Nr. 08-14 / B 02752 vom 15.02.11; Antwortschreiben des KVR 22.11.11 (positive Erledigung)
+- TOP 3.2.: Verkehrssicherheit an der Einmündung Grünwalder Straße / Bozener Straße; Anfrage des BA 18 aus der Sitzung vom 18.10.2011; Antwortschreiben der PI 23 vom 03.11.11 (neutrale Erledigung)
+- TOP 3.3.: Einrichtung eines gemeinsamen Fuß- und Radweges vom Fußgängerübergang Grünwalder- / Tegernseer Landstraße bis zur Einmündung Otkerstraße; BA-Antrags-Nr. 08-14 / B 03119 vom 21.06.11; Antwortschreiben des KVR vom 04.11.11 (negative Erledigung)
+- TOP 3.4.: Verkehrsschild "Achtung Kinder" in der Wunderhornstraße; Bürgeranliegen aus der Sitzung des BA 18 vom 20.09.11; Antwortschreiben des KVR vom 14.11.11 (siehe auch TOP 3.2.5.2 vom 15.11.11)
+- TOP 3.1.: 2. Stammstrecke - Vorfinanzierung durch die LHM; Sitzungsvorlagen Nr. 08-14 / V 08192; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.11 (VB)
+- TOP 3.2.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus im 2. Stadtbezirk Ludwigvorstadt-Isarvorstadt; Bedarfs- u. Konzeptgenehmigung; Sitzungsvorlage Nr. 08-14 / V 07788; Beschluss des Bauausschusses vom 06.12.2011 (SB)
+- TOP 3.3.: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern; Untersuchungsergebnisse und weiteres Vorgehen: Stadtratsantrag Nr.08-14 / A 00475 vom 12.12.08; Plätze im 13. Stadtbezirk beleben - Herkomerplatz umgestalten; BA-Antrag Nr. 08-14 / B 02899 vom 12.04.11; Sitzungsvorlagen Nr. 08-14 / V 04822; Ergänzende Vorlage zum Beschluss des Bauausschusses vom 15.11.11 (SB)
+- TOP 3.4.: Informationsschreiben zur grundhaften Erneuerung der Tierparkstraße, inklusive Thalkirchner Brücke und 50 m Siebenbrunner Straße; Schreiben des Baureferats vom 07.11.11
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Lärmsanierung Südring; Bürgeranfrage vom 07.11.11 (verwiesen aus der Sitzung vom 15.11.11)
+- TOP 3.1.: Änderung der Straßenreinigungssatzung bzw. -sicherungsverordnung der LHM; Antrag des BA 12 Schwabing-Freimann vom 25.10.11 mit der Bitte um Kenntnisnahme u. ggf. Unterstützung
+- TOP 3.1.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Naturdenkmalverordnung vom 08.09.11 mit Naturdenkmalliste; Schreiben der Unteren Naturschutzbehörde vom 30.11.11
+- TOP 3.2.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Landschaftsschutzverordnung / -bestandteil; Unterrichtung des Baureferats-Gartenbau
+- TOP 3.3.: Lärmminderungsplanung für München; Entwurf des Lärmaktionsplans; Sitzungsvorlage Nr. 08-14 / V 08119; Beschluss des Umweltschutzausschusses vom 29.11.11 (VB)
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2012; Schreiben der Pädagogischen Aktion / Spielen in der Stadt e.V. vom 17.11.11 mit der Bitte um Rückmeldung
+- TOP 3.1.: Wiederherstellung der Wasserstelle am Osramspielplatz; BA-Antrags-Nr. 08-14 / B 03314 vom 20.09.11; Antwortschreiben des Baureferats-Gartenbau vom 14.11.11 (positive Erledigung)
+- TOP 3.1.: Haushaltsplan 2012; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes; Sizungsvorlage Nr. 08-14 / V 07911; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 29.11.2011 (SB)
+- TOP 3.2.: Mehrjahresinvestitionsprogramm (MIP) 2011 - 2015 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Priorisierung von Schulbaumaßnahmen 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse Sitzungsvorlage Nr. 08-14 / V 07927; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 09.11.11 (VB)
+- TOP 3.3.: Haushaltsplan 2012; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration; Sitzungsvorlage Nr. 08-14 / V 07782; Beschluss des Kinder- u. Jugendhilfeausschusses u. des Sozialausschusses in der gemeinsamen Sitzung vom 08.11.11 (SB)
+- TOP 3.4.: Haushaltsplan 2012; Produkt- u. zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung; Sitzungsvorlage Nr. 08-14 / V 07762; Sitzungsvorlage Nr. 08-14 / V 07762; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- u. Jugendhilfeausschusses und des Sozialausschusses vom 08.11.11 (SB)
+- TOP 3.5.: Einführung des Europäischen "Tag des Nachbarn" in München (Ziffer 3); Empfehlung Nr. 08-14 / E 00963 der BÜV des 2. Stadtbezirks vom 19.05.11; Europäischer Tag des Nachbarn; Antrag des Seniorenbeirats vom 20.07.11; Sitzungsvorlage Nr. 08-14 / V 07950; Beschluss des Sozialausschusses vom 01.12.2011 (SB)
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Die LHM wird aufgefordert, das Gelände am Candidplatz schnellstmöglich für die Bebauung mit Wohnungen durch einen gemeinnützigen Wohnungsbauträger, alternativ einen der ortsansässigen Bauvereine, freizugeben und mit der Bebauung beginnen zu lassen; Antrag der CSU-Fraktion vom 15.11.11 (vertagt aus der Sitzung vom 15.11.11) - <div>nach Antrag mit Ergänzungen</div>
+- TOP 3.2.: Ausbau des Hohlraums in der U-Bahnstation Wettersteinplatz als Tiefgarage; Antrag der CSU-Fraktion vom 18.10.2011 (vertagt aus der Sitzung vom 18.10.11 und 15.11.11) zu TOP 3.2.3.2 Stellungnahme des Elternbeirats der Grundschule an der Fromundstraße (vertagt aus der Sitzung vom 15.11.11) - siehe auch TOP 3.2.3.2 -
+- TOP 3.3.: Antrag auf Erneuerung der Gehwegdecke zwischen dem Eingang des Vereinsgebäudes in der Grünwalder Str. 114 und der Harlachinger Straße - <div>nach Antrag</div>
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Haushamer Str. 8; Neubau eines Mehrfamilienhauses mit Garagen; Anhörung vom 30.11.11
+- TOP 3.2.: Griechenplatz 13; Neubau von zwei Mehrfamilienhäusern mit TGa (Griechenpl. 13 / Langobardenstr. 5 + 7) - VORBESCHEID; Anhörung vom 28.11.11
+- TOP 3.3.: Tierparkstr. 30; Errichtung eines Schaubereichs mit Voliere; Anhörung vom 24.11.11
+- TOP 3.4.: Grünwalder Str. 4; Sanierung und Umbau des städt. Stadions für die 3. Liga; Anhörung vom 17.11.11
+- TOP 3.5.: Weyarner Str. 20, Neubau eines Doppelhauses mit Garage - hier: DHH 1; Anhörung vom 02.12.11
+- TOP 3.6.: Weyarner Str. 20, Neubau eines Doppelhauses mit Garage - hier: DHH 2; Anhörung vom 02.12.11
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Renovierung des Hallenbades an der Klausener Straße; integrieren einer einfachen Sauna, eventuell auch durch einen Anbau an das bestehende Gebäude; BA-Antrag Nr. 08-14 / B 03299 vom 20.09.11; Antwortschreiben des RAW vom 26.10.11 (negative Erledigung)
+- TOP 3.2.: Aufforderung an den Präsidenten des Deutschen Städtetags, sich dafür einzusetzen, dass gesetzl. Grundlagen für den Erlass von kommunalen bodenrechtlichen Satzung für bereits überbaute Gebiete geschaffen werden; BA-Antrag Nr. 08-14 / B 03323 vom 20.09.2011; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 01.12.11 (neutrale Erledigung)
+- TOP 3.1.: Wohnungsmarkt München - Expertenbefragung 2011; Wohnungsmarktbarometer 2011; Sitzungsvorlagen Nr. 08-14 / V 08216; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.12.11
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW "Restaurant Bar Desire", Grünwalder Str. 14 a; Mitteilung vom 29.11.11 3.5.6.2.2 Kleingaststätte "Leo Gyros", Humboldtstraße 20; Mitteilung vom 21.11.11 3.5.6.2.3 Vereinsgaststätte "Campo d'Oro, Grünwalder Str. 114; Mitteilung vom 07.11.11 3.5.6.2.4 Kleingaststätte "Cafe Bar 23", Grünwalder Str. 9; Mitteilung vom 09.11.11
+- TOP 3.3.: Zukunft des geförderten Wohnungsbaus in München; Antrag Nr. 08-14 / A 02749 der Stadtratsfraktion DIE GRÜNEN/RL vom 06.09.11; Sitzungsvorlagen Nr. 08-14 / V 08223; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2011 (SB)
+- TOP 3.4.: Münchner Bürgerinnen- und Bürgerbefragung 2010; Sitzungsvorlage Nr. 08-14 / V 08020; Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011
+- TOP 3.5.: Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012 - 2016; Sitzungsvorlagen Nr. 08-14 / V 08187; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011 (VB) zu TOP 3.5.6.5 Hinweis / Ergänzung zum Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11 (VB)
+- TOP 3.6.: "Soziale Stadt" 2011 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt" Stadtbezirk 14 - Berg am Laim Stadtbezirk 16 - Ramersdorf-Perlach Stadtbezirk 17 - Obergiesing-Fasangarten Stadtbezirk 18 - Untergiesing-Harlaching Sitzungsvorlagen Nr. 08-14 / V 08186; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2011 (VB)
+- TOP 3.7.: Mitteilung des Kommunalreferats vom 28.11.11 über ein Grundstücksgeschäft (Erbbaurecht)
+- TOP 3.8.: Mehrjahresinvestitionsprogramm 2011 - 2015; Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011 - 2015; Sitzungsvorlagen Nr. 08-14 / V 07926; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11 (VB)
+- TOP 3.9.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung vom Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.9.1 Anwesen Rabenkopfstraße; Mitteilung vom 31.10.11 3.5.6.9.2 Anwesen Haushamer Str. 8; Mitteilung vom 16.11.11 3.5.6.9.3 Anwesen Reisachstraße; Mitteilung vojm 31.10.11
+- TOP 3.10.: Baufälle im 18. Stadtbezirk
+- TOP 3.1.: Grödner Straße 14; Neubau eines Mehrfamilienhauses mit TG; negative Stellungnahme des BA 18 zum BV vom 21.09.11; Abdruck der Baugenehmigung vom 09.11.11
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Bewerbung für den Weltkindertag am 20. September 2011 Bewerbung für den Kinderspieltag im Mai 2012
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Veranstaltung auf städtischer Grünanlage: hier: Harlachinger Burschenfest 2012 auf der städt. Grünanlage an der Oberbiberger Straße vom 25.05.12 bis 28.05.12; Zuleitung des KVR vom 18.11.11 mit der Bitte um Stellungnahme bis 29.12.11
+- TOP 3.1.: Konzept für den Aufbau eines oder mehrerer Kultur- und Kommunikationszentren in Harlaching; Bitte um Fristverlängerung bis Juni 2012; BA-Antrag-Nr. 08-14 / B 03321 des BA 18 vom 20.09.11; Zwischennachricht des Kulturreferats vom 08.11.11
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.1.: Bezirksausschüsse in "Stadtteilräte" umbenennen; BA-Antrags-Nr. 08-14 / B 03414 des BA 4 vom 26.10.11; Schreiben des Direktoriums vom 16.11.11 mit der Bitte um Stellungnahme
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Haushaltsplan 2012 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14 / V 08164; Beschluss des Finanzausschusses vom 13.12.2011 (VB) (Die Anlagen zum Haushaltsplan können in der BA-Geschäftsstelle Ost eingesehen werden.)
+- TOP 4.2.: Änderung der Satzung für die Bezirksausschüsse der LHM 1. Vorberatungen in der BA-Satzungskommission vom 04.10.11, Buchstaben "a" bis "h" und Anträge (siehe folgende Seiten) 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung des Anhangs 1 zur BA-Satzung (Beteiligung durch SWM GmbH) Sitzungsvorlage Nr. 08-14 / V 07993; Beschluss des Verwaltungs- u. Personalausschusses vom 16.11.2011 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
