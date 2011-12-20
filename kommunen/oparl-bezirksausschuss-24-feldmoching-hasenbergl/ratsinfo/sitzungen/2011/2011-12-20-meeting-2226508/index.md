@@ -1,0 +1,65 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2011-12-20T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2226508
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2226508
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse BildungsLokal Hasenbergl Theaterstück "Ein Bär sucht einen Freund" vom 25. - 27.01.2012
+- TOP 3.1.: Einrichtung von Fußgängerüberwegen in der Lassallestraße und in der Franz-Fackler-Straße
+- TOP 3.2.: Bericht zum aktuellen Stand der Belastung des 24. Stadtbezirkes durch Flughafen München und über die zu erwartenden Auswirkungen nach Bau der geplanten 3. Start- und Landebahn
+- TOP 3.3.: Realisierung der Kindertagesstätte Paul-Preuß-Straße/ Paul-Huml-Bogen/ Feldmoching
+- TOP 3.4.: Anbringung von Hundekotstationen bzw. -Mülleimer im Waldstück parallel an der Trollblumenstraße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 1. Geschwister-Löb- Str. 3 (Neubau e. Drei- u. e. Fünffamilienhauses mit TG) 2. Robinienstr. 60 (Neubau e. Hauses für Kinder) 3. Schleißheimer Str. 389 (Neubau einer Baustoffhandlung) 4. Leberblümchenstr. 20 (Umbau Wohn- u. Geschäftshaus in Kita) 5. Schwarzhölzlstr. 80 (Neubau einer Krippeneinrichtung - Vorbescheid) 6. Kristallstr. 13-35 (Neubau e. Wohnanlage mit TG - Vorbescheid)
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 1. Leberblümchenstr. 20 (Umbau Wohn- u. Geschäftshaus in Kita) 2. Rudbeckiastr. 7 (Neubau e. Dreispänners mit Garagen - Tektur Haus 3) 3. Schleißheimer STr. 389 (Neubau e. Baustoffhandlung) 4. Georg-Winkler-Str. 17 (Neubau e. Einfamilienhauses m. Garage, Haus 3) 5. Lerchenstr. 63 (Neubau von 4 Reihenhäusern mit Gargenstellplätzen) 6. Kristallstr. 13-35 (Neubau e. Wohnanlage m. TG - Vorbescheid)
+- TOP 5.3.: Direktorium: Bezirksausschüsse in "Stadtteilräte" umbenennen (Antrag BA 4)
+- TOP 5.4.: Markthallen München: neuer Standort Wochenmarkt Walter-Sedlmayr-Platz in Feldmoching (Schreiben von Geschäftsleuten)
+- TOP 5.5.: KVR: Aufhebung der Einbahnregelung Schwabenspiegelstraße
+- TOP 5.6.: Baureferat: Vorplanung für die Maßnahme Lerchenstraße / Herbergstraße - Anwohnerbeteiligung
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: KVR: Änderung der Radverkehrsführung in der Freud- und Gundermannstraße
+- TOP 6.2.: Baureferat: Grillzone am Lerchenauer See
+- TOP 6.3.: Refereat für Stadtplanung und Bauordnung: Vollzug des BnatschuG u. d. Bay NatSchuG; Naturdenkmalverordnung vom 08.09.2011 mit Naturdenkmalliste
+- TOP 6.4.: RGU: Vollzug d. abfall- und immissionsschutzrechtl. Bestimmungen; Änderungsgenehmigung f. Abfallentsorgungsanlage d. Fa. Rohprog GmbH, Detmoldstraße
+- TOP 6.5.: WWA München: Verkehrssicherung und Baumpflege am Würmkanal
+- TOP 6.6.: Patrizia Wohnen GmbH: Information zu Bebauung Onyxplatz 5
+- TOP 6.7.: MSE: Grundwasser Feldmoching; Protokoll zur Infoveranstaltung "Runder Tisch" am 23.11.2011
+- TOP 6.8.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.9.: Meldelisten Baumfällungsanträge
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: Baureferat: Unterrichtungen über das Fällen von Gefahrenbäumen im 24. Stadtbezirk
+- TOP 6.12.: Baureferat: Erinnerungsverfahren (§ 6.1 AufgrO: Baureife Maßnahme Kohlröschenstraße)
+- TOP 6.13.: KVR: Verkehrsrechtliche Anordnungen: 1. Sperre Blaukissenweg; Kennzeichnung als Sackgasse 2. Westseite der Schleißheimer Straße; Anordnung eines gegenläufigen Radweges 3. Am Blütenanger; einzelne Halteverbotsabschnitte
+- TOP 6.14.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Feldmochinger Str. 412
+- TOP 6.15.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund; Drehgenehmigung Dachauer Str. 467 (MAN-Zentrale) vom 10.12. bis 11.12.2011
+- TOP 6.16.: Beschlussvorlage Direktorium: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: a) Wohnungspolitisches Handlungsprogramm "Wohnen in München V" Wohnungsbauoffensive 2012 - 2016 b) + Hinweis/ Ergänzungen vom 30.11.2011
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnungsmarkt München - Expertenbefragung 2011; Wohnungsmarktbarometer 2011
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Zukunft des geförderten Wohnungsbaus in München
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: 2. Stammstrecke; Vorfinanzierung durch die Landeshauptstadt München
+- TOP 6.21.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Ensembles ehemalige Dorfkerne im Sinne des Bayer. Denkmalschutzgesetzes
+- TOP 6.22.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Münchner Bürgerinnen- und Bürgerbefragung 2010
+- TOP 6.23.: Beschlussvorlage Baureferat: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern (Ergänzung vom 02.11.2011)
+- TOP 6.24.: Beschlussvorlage Sozialreferat: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.25.: Beschlussvorlage Sozialreferat: Einführung des europäischen "Tag des Nachbarn" in München (Ziffer 3)
+- TOP 6.26.: RGU: Vollzug des BimSchuG; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 6.27.: Referat für Bildung und Sport: Die "Leitlinie Bildung" - Teil des Stadtenwicklungskonzeptes Perspektive München
+- TOP 6.28.: Ergebnisse aus dem vergangenen "18.Jetzt" am 08.10.2011
+- TOP 6.29.: Zuschuss aus dem BA-Budget: diverse Verwendungsnachweise/ Sachberichte
+- TOP 6.30.: Münchner Statistik (2. Quartalsheft, Jahrgang 2011)
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP 8.2.: Urbanes Wohnen e.V. München: Rundbrief "Urbanes Naturnetz für ganz München"
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
