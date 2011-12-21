@@ -1,8 +1,8 @@
 # Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren (Straßenreinigungssatzung - StrReinS -)
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2010-12-15 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/strassenreinigungssatzung_15_12_2010.pdf
+- Datum: 2011-12-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/strassenreinigungssatzung_21_12_2011.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
@@ -10,7 +10,7 @@
 
 Satzung der Stadt Köln über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren
 (Straßenreinigungssatzung - StrReinS -) vom 22. Dezember 2006
-in der Fassung der 4. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln (Straßenreinigungssatzung – StrReinS -) vom 15. Dezember 2010
+in der Fassung der 5. Satzung zur Änderung der Satzung über die Straßenreinigung und die Erhebung von Straßenreinigungsgebühren in der Stadt Köln (Straßenreinigungssatzung – StrReinS -) vom 21. Dezember 2011
 Der Oberbürgermeister der Stadt Köln hat gemeinsam mit einem Ratsmitglied, im Wege einer Dringlichkeitsentscheidung gemäß § 60 Abs. 1 S. 2 GO NRW, aufgrund der §§ 1, 3 und 4 des Gesetzes über die Reinigung öffentlicher Straßen (StrReinG NRW) vom 18. Dezember 1975 (SGV NRW 2061) in Verbindung mit den §§ 2, 4, 6, 12 und 20 des Kommunalabgabengesetzes für das Land Nordrhein-Westfalen (KAG) vom 21. Oktober 1969 (SGV NRW 610) und den §§ 7 und 77 Abs. 1 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14. Juli 1994 (SGV NRW 2023) - jeweils in der bei Erlass dieser Satzung geltenden Fassung - diese Satzung beschlossen:
 I.
 1. Das Straßenreinigungsverzeichnis nach § 2 Abs. 1 der Straßenreinigungssatzung ergibt sich aus der Anlage 1 dieser Satzung; die Anlage ist Bestandteil dieser Satzung.
@@ -41,7 +41,7 @@ Soweit am Fahrbahnrand abgesetzte Randstreifen in Anliegerstraßen von weniger a
 Bei Stichstrassen und Sackgassen sind auch die Eigentümer der an die Kopfseite angrenzenden Grundstücke verpflichtet, die angrenzende Fahrbahn in einer Tiefe, die der halben mittleren Breite der Stichstraße oder Sachgasse entspricht sowie den Gehweg zu reinigen. Überlappen sich die zu reinigenden Flächen zweier oder mehrerer Eigentümer mehr als geringfügig, ist jeder Eigentümer insoweit nur zur Reinigung des – im Zweifel durch diagonale Teilung der Überlappungsfläche gebildeten – ihm zugewandten Teils der Überlappungsfläche verpflichtet. Dies gilt auch im Wendehammer.
 (2) Die Stadt Köln überträgt auf die Anlieger die Winterwartung
 1. auf Gehwegen, sowie
-2. auf Fahrbahnen von Anliegerstraßen, soweit die Reinigung der Fahrbahn nach dem Straßenreinigungsverzeichnis dem Anlieger obliegt, und
+2. auf Fahrbahnen von Straßen, soweit die Reinigung der Fahrbahn nach dem Straßenreinigungsverzeichnis dem Anlieger obliegt, und
 3. auf Fahrbahnen und Gehwegen von Straßen und Straßenabschnitten nach Abs. 1 Satz 2.
 Dies gilt jedoch nicht für den Gehwegen zugehörige Radwege, die lediglich durch Farbmarkierungen (Flächen- oder Strickmarkierungen) auf den Gehwegen verlaufen, wenn nach dem anliegenden Straßenreinigungsverzeichnis die Stadt reinigungspflichtig ist. Ist ein Radweg vorhanden und liegt ein Teil des Gehwegs jenseits des Radweges, so ist auch für diesen Teil die Winterwartung übertragen, unabhängig davon, ob der Radweg dem Gehweg oder der Fahrbahn zugehört und ob der Anlieger zur Winterwartung des Radwegs berufen ist; ferner muss der Radweg an der Stelle geräumt und gestreut werden, an der er überquert werden soll.
 Ist ein Gehweg nicht vorhanden, ist ein mindestens 1,50 m breiter Teil der Straße längs der Grundstücksgrenze zu warten.
@@ -91,12 +91,12 @@ Die Stadt erhebt für die von ihr durchgeführte Reinigung der öffentlichen Str
 (2) Für die Ermittlung der Frontmeter gelten folgende Bestimmungen:
 1. Maßgebend sind alle an erschließende Straßen angrenzende und diesen zugewandte Grundstücksseiten (Frontlänge). Der erschließenden Straße zugewandt ist eine Grundstücksseite, wenn sie parallel oder in einem Winkel von weniger als 45° zur erschließenden Straße verläuft.
 2. Grenzt ein durch eine Straße erschlossenes Grundstück nicht an diese Straße und weist es im Übrigen keine ihr zugewandte Grundstücksseite auf, so wird die Frontlänge zugrunde gelegt, die sich bei einer gedachten Verlängerung dieser Straße in gerader Linie ergeben würde.
-Können bei einer kreisförmigen oder gebogenen Straßenführung mehrere Tangenten als gedachte Verlängerung gezogen werden, so ist die längste Frontlänge zugrunde zu legen. 3. Ergibt sich aus der Anwendung der Ziffern 1 und 2 keine zugrunde zu legende Frontlänge, gilt die Länge der rechtwinkligen Projektion der längsten Grundstücksseite auf die erschließende Straße oder deren gedachter Verlängerung als der Straße zugewandte Grundstücksseite. 4. Bei Eckabrundungen und -abschrägungen wird jeweils die Hälfte der Bogen- oder Abschrägungslänge der zugehörigen Straße zugerechnet. 5. Die ermittelte Frontlänge wird auf volle Meter abgerundet.
-(3) Die Kosten der Reinigung werden getrennt für die Berechnungsbereiche:
-1. Fahrbahnen,
+Können bei einer kreisförmigen oder gebogenen Straßenführung mehrere Tangenten als gedachte Verlängerung gezogen werden, so ist die längste Frontlänge zugrunde zu legen. 3. Ist ein Grundstück ausschließlich als Hinterlieger zu veranlagen, so sind lediglich die zwei längsten zugewandten Seiten zur Veranlagung heranzuziehen. Weist ein Anliegergrundstück zugleich zugewandte Seiten auf, so ist neben den angrenzenden Seiten lediglich die längste der zugewandten Seiten zur Veranlagung heranzuziehen. 4. Ergibt sich aus der Anwendung der Ziffern 1 bis 3 keine zugrunde zu legende Frontlänge, gilt die Länge der rechtwinkligen Projektion der längsten Grundstücksseite auf die erschließende Straße oder deren gedachter Verlängerung als der Straße zugewandte Grundstücksseite. 5. Bei Eckabrundungen und -abschrägungen wird jeweils die Hälfte der Bogen- oder Abschrägungslänge der zugehörigen Straße zugerechnet. 6. Die ermittelte Frontlänge wird auf volle Meter abgerundet.
 Seite 6 von 11
 
-2. Gehwege und 3. Fußgängergeschäftsstraßen
+(3) Die Kosten der Reinigung werden getrennt für die Berechnungsbereiche:
+
+1. Fahrbahnen, 2. Gehwege und 3. Fußgängergeschäftsstraßen
 
 festgestellt.
 (4) Der auf die Gebührenpflichtigen je Straßenart oder Straßenteil nach Maßgabe des § 3 StrReinG NW entfallende Vom-Hundertsatz der Reinigungskosten beträgt
@@ -128,13 +128,15 @@ Reinigungsaufwand
 1. Anliegerstraßen: Straßen, die überwiegend der Erschließung der angrenzenden oder der durch private Zuwegung mit ihnen verbundenen Grundstücke dienen.
 2. Hauptstraßen: Straßen, die der Erschließung von Grundstücken sowie dem durchgehenden innerörtlichen oder überörtlichen Verkehr dienen, insbesondere Haupterschließungsstraßen, Hauptverkehrsstraßen und Hauptgeschäftsstraßen mit Ausnahme der Strecken, die außerhalb von Baugebieten und von im Zusammenhang bebauten Ortsteilen liegen.
 3. Gehwege: Straßenteile, die dem Fußgängerverkehr dienen, sowie solche Wege, die nicht Teil einer Straße im Sinne der Ziffern 1. und 2. sind (selbständige Gehwege), einschließlich der in § 1 Abs. 3 Satz 5 bezeichneten Teile.
-4. Fußgängergeschäftsstraßen: Straßen, in denen die Frontlängen der Grundstücke mit Geschäften, Gaststätten und ähnlich gewerblich genutzten Räumen im Erdgeschoss überwiegen und die in ihrer gesamten Breite für den Fußgängerverkehr ausgebaut und -abgesehen von Anlieferverkehr- für den Fahrverkehr gesperrt sind. Als Straßen in diesem Sinne gelten auch sonstige Straßen, deren besonderer Reinigungsaufwand eine Zuordnung nach den Ziffern 1. bis 3. nicht zulässt.
+4. Fußgängergeschäftsstraßen: Straßen, in denen die Frontlängen der Grundstücke mit Geschäften, Gaststätten und ähnlich gewerblich genutzten Räumen im Erdgeschoss überwiegen und die in ihrer gesamten Breite für den Fußgängerverkehr ausgebaut und -abgesehen von Anlieferverkehr- für den Fahrverkehr gesperrt sind. Als Straßen in diesem Sinne gelten auch sonstige Straßen, deren
 
 Seite 7 von 11
 
+besonderer Reinigungsaufwand eine Zuordnung nach den Ziffern 1. bis 3. nicht zulässt.
+
 §8 Gebührensatz
 
-(1) Der Gebührensatz für ein Kalenderjahr je Frontmeter bei wöchentlich einmaliger Reinigung beträgt bei:
+(1) Der Gebührensatz für ein Kalenderjahr je Meter der Grundstücksseiten entlang der erschließenden Straße bei wöchentlich einmaliger Reinigung beträgt bei
 
 1
 
@@ -146,8 +148,8 @@ Fahrbahnen
 1.2 von Hauptstraßen
 1.2.1 ohne besonderen Reinigungsaufwand 1.2.2 mit besonderem Reinigungsaufwand
 
-3,81 € 9,26 €
-2,34 € 7,79 €
+3,84 € 9,20 €
+2,36 € 7,76 €
 
 Fahrbahnen mit besonderem Reinigungsaufwand sind Fahrbahnen, an denen kein abgegrenzter Gehweg vorhanden ist. Soweit Fahrbahnen von Straßen unter die Ziffern 1.1.2 und 1.2.2 fallen, sind sie in der als Anlage 2 beigefügten Aufstellung genannt. Diese Anlage ist Bestandteil der Satzung.
 
@@ -157,14 +159,14 @@ Gehwegen
 
 3
 
-Fußgängergeschäftsstraße
+Fußgängergeschäftsstraßen
 
 3.1 ohne besonderen Reinigungsaufwand
 
 3.2 mit besonderem Reinigungsaufwand
 
-5,45 €
-7,62 € 9,04 €
+5,50 €
+7,64 € 9,06 €
 
 Soweit Straßen unter die Ziffer 3.2 fallen, sind sie in der als Anlage 3 beigefügten Aufstellung genannt. Diese Anlage ist Bestandteil der Satzung.
 (2) Erfolgt die Reinigung mehrfach pro Woche, so vervielfachen sich die Gebühren entsprechend.
@@ -173,11 +175,10 @@ Soweit Straßen unter die Ziffer 3.2 fallen, sind sie in der als Anlage 3 beigef
 
 (1) Gebührenschuldner/in ist der/die Eigentümer/in des erschlossenen Grundstücks. Mehrere Gebührenschuldner/innen sind Gesamtschuldner/innen.
 Grundstückbezogene Benutzungsgebühren ruhen als öffentliche Last auf dem Grundstück.
-(2) Im Falle eines Eigentumswechsels ist der neue Eigentümer vom Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt. Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer
 
 Seite 8 von 11
 
-Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
+(2) Im Falle eines Eigentumswechsels ist der neue Eigentümer vom Beginn des Monats an gebührenpflichtig, der dem Monat der Rechtsänderung folgt. Ist im Rechtsänderungsvertrag geregelt, dass der Erwerber die Lasten zu einem früheren Zeitpunkt übernimmt, so ist er ab diesem Zeitpunkt neben dem Eigentümer Gebührenschuldner. Den Wechsel haben der bisherige und der neue Eigentümer unverzüglich der Stadt anzuzeigen und entsprechend nachzuweisen.
 (3) Die Gebührenschuldner/innen haben alle für die Errechnung der Gebühren erforderlichen Auskünfte zu erteilen und zu dulden, dass Beauftragte der Stadt nach Vorlage eines dienstlichen Ausweises das Grundstück betreten, um Feststellungen zu treffen, die für die ordnungsgemäße Gebührenerhebung notwendig sind.
 § 10 Entstehung, Änderung, Fälligkeit und Vorauszahlung der Gebühr
 (1) Die Gebührenpflicht für die Straßenreinigungsgebühr entsteht mit dem 1. des Monats, in dem die satzungsmäßige Reinigung der Straße begonnen wird. Sie erlischt mit dem Ende des Monats, in dem die satzungsmäßige Reinigung eingestellt wird.
@@ -185,14 +186,13 @@ An Wochenfeiertagen sowie bei Schnee und Eis erfolgt keine Reinigung. Eine Nachr
 (2) Ändern sich die Grundlagen für die Berechnung der Gebühr, so mindert oder erhöht sich die Benutzungsgebühr vom 1. des Monats an, der der Änderung folgt.
 (3) Es entsteht kein Anspruch auf Gebührenminderung oder –erstattung der Straßenreinigungsgebühr:
 a) bei Ausfall oder Einschränkung der satzungsmäßigen Reinigung durch Schwerpunktbildung zur Beseitigung von Laub oder infolge von Verunreinigungen nach Karnevalsveranstaltungen,
-b) bei Ausfall der satzungsmäßigen Reinigung durch unvorhersehbare Betriebsstörungen, durch Witterungseinflüsse (z.B. Winterdienst, Frost, Sturm, Starkregen), durch Straßenbauarbeiten oder durch andere zwingende Gründe bis zu einem zusammenhängenden Monat,
-c) bei Einschränkung der satzungsmäßigen Reinigung durch Witterungseinflüsse (z.B. Winterdienst, Frost, Sturm, Starkregen) und durch Straßenbauarbeiten bis zu drei zusammenhängenden Monaten im Kalenderjahr.
+b) bei Ausfall der satzungsmäßigen Reinigung durch unvorhersehbare Betriebsstörungen, durch Witterungseinflüsse (z.B. Frost, Sturm, Starkregen), durch Straßenbauarbeiten oder durch andere zwingende Gründe bis zu einem zusammenhängenden Monat,
+c) bei Einschränkung der satzungsmäßigen Reinigung durch Witterungseinflüsse (z.B. Frost, Sturm, Starkregen) und durch Straßenbauarbeiten bis zu drei zusammenhängenden Monaten im Kalenderjahr.
 Die Gebührenminderung oder -erstattung erfolgt für den Zeitraum, der die in b) und c) genannten Zeiten überschreitet. Dabei werden angefangene Monate als volle Monate gerechnet.
 (4) Die Gebührenschuldner/innen erhalten über die zu entrichtenden Beträge einen Gebührenbescheid, der mit dem Bescheid über andere Gemeindeabgaben verbunden sein kann.
-Bei Wohnungseigentümern/innen können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden. Der Gebührenbescheid wird den Wohnungseigentümern/innen oder dem/der Verwalter/in, den die
 Seite 9 von 11
 
-Wohnungseigentümer/innen nach dem Wohnungseigentumsgesetz bestellt haben, bekanntgegeben.
+Bei Wohnungseigentümern/innen können die Gebühren einheitlich für alle Mitglieder der Gemeinschaft festgesetzt werden. Der Gebührenbescheid wird den Wohnungseigentümern/innen oder dem/der Verwalter/in, den die Wohnungseigentümer/innen nach dem Wohnungseigentumsgesetz bestellt haben, bekanntgegeben.
 (5) Die Gebühren nach § 8 für ein Kalenderjahr werden am 15. Februar, 15. Mai, 15. August und 15. November zu je gleichen Teilbeträgen fällig. Die Stadt kann bestimmen, dass Kleinbeträge abweichend wie folgt fällig werden:
 Am 15. August mit dem Jahresbetrag, wenn dieser 15,- € nicht übersteigt, am 15. Februar und 15. August je zur Hälfte des Jahresbetrages, wenn dieser 30,- € nicht übersteigt.
 Ist der Gebührenbescheid noch nicht bekanntgegeben, hat der/die Gebührenschuldner/in zu den vorgenannten Fälligkeitstagen in Höhe der zuletzt festgesetzten Teilbeträge unaufgefordert Vorauszahlungen zu leisten.
@@ -205,35 +205,22 @@ Ist der Gebührenbescheid noch nicht bekanntgegeben, hat der/die Gebührenschuld
 wer vorsätzlich oder fahrlässig dieser Satzung zuwiderhandelt, insbesondere:
 1. vorgeschriebene oder übernommene Reinigungen nicht durchführt (§ 2 Abs. 1, § 4 Abs. 1 und 2),
 2. belästigende Staubentwicklung nicht verhindert (§ 4 Abs. 3 Satz 1),
-3. Kehricht und sonstige Abfälle nicht ordnungsgemäß entfernt (§ 4 Abs. 3 Satz 2),
 Seite 10 von 11
 
+3. Kehricht und sonstige Abfälle nicht ordnungsgemäß entfernt (§ 4 Abs. 3 Satz 2),
 4. Schnee nicht ordnungsgemäß entfernt und lagert, sowie Schnee- und Eisglätte nicht ordnungsgemäß bekämpft (§ 5 Abs. 1, § 2 Abs. 2 Sätze 1 und 2),
 5. die Beendigung der Übernahme der Reinigung nicht anzeigt (§ 2 Abs. 3 Satz 4).
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu 500,- € geahndet werden. II.
-In-Kraft-Treten Diese Satzung tritt am 01. Januar 2011 in Kraft.
+In-Kraft-Treten Diese Satzung tritt am 01. Januar 2012 in Kraft.
 Seite 11 von 11
 
 Anlage 1 zur Straßenreinigungssatzung
-Änderung des Straßenreinigungsverzeichnisses
+Straßenreinigungsverzeichnis
 gemäß § 3 Abs. 1 StrReinS
 
 STADTBEZIRK 1
 
-Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2011 Straße
-Alter Mühlenweg von Kaltenbornstr. bis Im Hasental von Teutonenstr. bis Cheruskerstr. von Cheruskerstr. bis Im Hasental
-Am Leystapel von Markmannsgasse bis Stadtteilgrenze Altstadt-Nord von Stadtteilgrenze Altstadt-Nord bis Holzmarkt Zugang zur Fußgängerbrücke (hinter Maritim-Hotel) Fußgängerbrücke einschließlich Zu- und Abgänge
-Bahnhofsvorplatz Platzfläche Treppenanlage zur Domebene Taxiumfahrt einschließlich Einstellplätze
-Balthasarstr. von Nr. 1 bis Nr. 2/3 bis Nr. 14/15 bis Nr. 20 und gegenüber bis Neusser Str. bis Riehler Str.
-Chlodwigplatz Fußgängerzone
-Dr.-Simons-Str. mit Stichstr. zum Parkplatz
-Eifelwall Platzfläche vor Hausnr. 3-7
-Eigelstein bis Eigelsteintorburg bis Ebertplatz
-Fort Rauch
-Gereonshof von Gereonsdriesch bis Spiesergasse von Von-Werth-Str./Hildeboldplatz bis Kaiser-Wilhelm-Ring Fußweg zum Gereonskloster Stichstraße zu Nr. 2a und 2b
-Günter-Wand-Platz
-Hans-Lommerzheim-Weg
-Herzogstr. von Schildergasse bis Nr. 4/9 bis Ende
+Straße
 
 Straßenart
 
@@ -245,377 +232,379 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
+Amsterdamer Str. von Riehler Str. bis Stadtbezirksgrenze
+
+H
+
+2
+
+An den Gelenkbogenhallen
+
+von Von-Gablenz-Str. bis Brügelmannstr. Seite Gelenkbogenhallen
+
 A
 
 1
 
-A
-
-2
+gegenüberliegende Seite
 
 A
 
-2
+1
 
-x 2 2
+1
+
+Bischofsgartenstr. Verbindungsstraße zur Trankgasse
 
 H
 
 7
 
 7
-
-H
-
-7
-
-7
-
-G
-
-3
-
-G
-
-3
-
-G
-
-15
-
-G
-
-15
-
-A
-
-15
-
-15
-
-A
-
-6
-
-A
-
-6
-
-A
-
-6
-
-A
-
-6
 
 A
 
 5
 
-H
-
-13
-
-A
+Brügelmannstr. von Deutz-Mülheimer-Str. bis DB Privatgelände
 
 A
 
 1
 
-A
-
 1
+
+Constantinstr.
 
 H
 
 3
 
+3
+
+Platzfläche Ecke Neuhöffer Str., Constantinstr., Opladener Str.
+
+G
+
+3
+
+Engelbertstr. von Roonstr. bis Richard-Wagner-Str.
+
 A
 
-3
+5
 
-6
-6 5
-13 13
-x x
-3
+5
+
+Gereonskloster
+
+(außer Platzfläche) entlang den Häusern Nr. 2-22
+
+A
+
+5
+
+Verbindungsstraße zwischen Christophstr. Nr. 7 und 7a
+
+A
+
+5
+
+1 Verbindungsweg von Hs Nr. 22 zum Gereonshof
+
+A
+
+5
+
+Gotenring von Justinianstr. bis Severinsbrücke 3. Fahrbahn von Hausnr. 48 bis An der Bastion 4. Fahrbahn von Langobarden bis Suevenstr.
+
+H
+
+5
+
+5
+
+H
+
+5
+
+5
+
+H
+
+5
+
+5
+
+Hohe Pforte
 
 H
 
 12
 
 12
+
+Im Klapperhof von Norbertstr. bis Spiesergasse/Hildeboldplatz von Spiesergasse/Hildeboldplatz bis Hohenzollernring
+
+A
+
+5
+
+5
+
+A
+
+7
+
+7
+
+Johannisstr. von Trankgasse bis Goldgasse von Goldgasse bis Machabäerstr. Omnibusbahnhof FG-Bereich zwischen Servasgasse und Jakordenstr.
+
+H
+
+12
+
+12
+
+H
+
+5
+
+5
+
+A
+
+12
+
+12
+
+A
+
+5
+
+Kartäuserwall
+
+A
+
+5
+
+5
+
+Kennedy-Ufer
+
+von Hyatt-Hotel bis Charles-de-Gaulle-Platz
+
+A
+
+2
+
+2
+
+von Charles-de-Gaulle-Platz bis Rheinparkweg Rheinseite
+
+A
+
+2
+
+von Charles-de-Gaulle-Platz bis Rheinparkweg gegenüberliegende
+
+A
+
+2
+
+2
+
+Seite der Rheinseite
+
+Verbindungsstraße zur Hermann-Pünder-Str.
+
+A
+
+2
+
+2
+
+Kostgasse
+
+A
+
+12
+
+Straße
+
+Straßenart
+
+Reinigungszuständigkeit/ Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Mengelbergstr. ungerade Hausnummern gegenüberliegende Seite
+
+A
+
+3
+
+3
+
+A
+
+3
+
+Perlengraben von Severinsbrücke bis Mengelbergstr./Friedenstr. von Mengelbergstr./Friedenstr. bis Blaubach Fußgängerbrücke
+
+H
+
+3
+
+H
+
+3
+
+3
+
+G
+
+3
+
+Schwalbengasse
+
+A
+
+5
+
+Siegesstr.
+
+A
+
+3
+
+3
+
+Spichernstr. 2. Fahrbahn
+
+H
+
+5
+
+5
+
+H
+
+5
+
+5
+
+Tel-Aviv-Str. von Ulrichgasse bis Mengelbergstr. von Mengelbergstr. bis Blaubach
+
+H
+
+3
+
+H
+
+3
+
+3
+
+Trankgasse
+
+von Komödienstr. bis Am Domhof
+
+H
+
+14
+
+14
+
+von Am Domhof bis Konrad-Adenauer-Ufer
+
+H
+
+5
+
+5
+
+Unterführung zum Konrad-Adenauer-Ufer in Richtung südl. und
+
+H
+
+5
+
+5
+
+nördl. Stadtteile
+
+obere Platzfäche zwischen Dom und Bahnhof
 
 FG
 
-12
+14
+
+Trierer Str. von Waisenhausgasse bis Stadtteilgrenze Altstadt-Süd von Stadtteilgrenze Altstadt-Süd bis Salierring von Salierring bis Luxemburger Str.
+
+H
+
+3
+
+3
+
+H
+
+3
+
+3
+
+H
+
+5
+
+5
+
+Von-Gablenz-Str.
+
+von Deutz-Mülheimer-Str. bis An den Gelenkbogenhallen
 
 A
 
 1
 
-x
-
-A
-
-5
-
-5
-
-A
-
-6
+Gehweg linke Seite von Deutz-Mülheimer-Str. bis Verbindungsweg
 
 G
 
-5
+1
 
-x
+vor den Hallen
 
-x
+Wevelinghovener Str. von Krefelder Str. bis Wickrather Str. von Wickrather Str. bis Prälat-Otto-Müller-Platz
 
 A
 
-12
+3
+
+3
+
+A
+
+3
+
+3
+
+Wolfgang-Anheisser-Str. von Brügelmannstraße bis einschließlich Wendeplatz
 
 A
 
 1
 
-FG
-
-13
-
-H
-
-11
-
-11
-
-Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2011 Straße
-
-Straßenart
-
-Reinigungszuständigkeit/ Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Heumarkt von Am Malzbüchel bis Am Leystapel vor Hausnr. 1 Busspur von Pipinstr. zu Am Malzbüchel vor Hausnr. 25 von Nr. 43 bis Seidmacherinnengäßchen ungerade Hausnummernseite Platzflächenseite von Unter Käster bis Salzgasse Platzflächenseite gerade Hausnummernseite von Salzgasse bis Markmannsgasse Platzflächenseite gerade Hausnummernseite Platzfläche
-
-H
-
-6
-
-H
-
-6
-
-H
-
-6
-
-H
-
-H
-
-12
-
-H
-
-12
-
-H
-
-12
-
-H
-
-12
-
-H
-
-12
-
-H
-
-12
-
-A
-
-Hohenzollernbrücke
-
-von Heinrich-Böll-Platz bis Stadtteilgrenze Altstadt-Nord
-
-A
-
-Treppenanlage zur Trankgassenwerft mit oberer Platzfläche
-
-A
-
-von Stadtteilgrenze Altstadt-Nord bis Hermann-Pünder-Str. (Brückenrampe) A
-
-Verbindungsstraße zur Hermann-Pünder-Str. (Brückenrampe)
-
-A
-
-2
-
-Holzmarkt
-
-H
-
-7
-
-Innere Kanalstr.
-
-gerade Hausnr. Seite, stadtauswärts
-
-H
-
-2
-
-3. Fahrbahn von Krefelder Str. bis Neusser Str.
-
-A
-
-3
-
-Verbindungsstraße zwischen Subbelrather Str. und Innere Kanalstr.
-
-H
-
-2
-
-Fußgängerbrücke zwischen Lentstr. und Adam-Wrede-Str. (einschließlich
-
-G
-
-Zu- und Abgänge)
-
-Judenkirchhofsweg Gehweg entlang Berufskolleg zum Parkplatz
-
-A
-
 1
-
-L.-Fritz-Gruber-Platz
-
-A
-
-5
-
-Leystapelwerft
-
-von Deutzer Brücke bis Stadtteilgrenze Altstadt-Nord
-
-G
-
-von Stadtteilgrenze Altstadt-Nord bis Malakoffturm
-
-G
-
-Markmannsgasse bis Nr. 5 bis Nr. 15 und Parkplatz Querspange (unter Maritim-Hotel)
-
-H
-
-7
-
-H
-
-6
-
-H
-
-3
-
-Neumarkt Platzfläche
-
-H
-
-13
-
-A
-
-Pantaleonstr. mit Platzfläche vor der Hausnr. 2
-
-A
-
-3
-
-6 6 6 12
-12 12 12
-2 2 2 2 7
-2 3 2
-x
-7 7
-7
-13 13
-3
-
-Bezirk: Innenstadt, Satzungsänderungen zum 01.01.2011 Straße
-Rathenauplatz außer Platzfläche
-Roonstr. Thurnmarkt
-Platzfläche Venloer Str.
-bis Hans-Böckler-Platz bis Innere Kanalstr. 3. Fahrbahn Weidengasse
-
-Straßenart
-
-Reinigungszuständigkeit/ Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-A
-
-6
-
-6
-
-H
-
-7
-
-7
-
-A
-
-7
-
-H
-
-7
-
-7
-
-H
-
-3
-
-3
-
-H
-
-3
-
-3
-
-A
-
-7
-
-7
 
 STADTBEZIRK 2
 
-Bezirk: Rodenkirchen, Satzungsänderungen zum 01.01.2011 Straße
+Straße
 
 Straßenart
 
@@ -627,238 +616,158 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-Badorfer Str.
+Am Südpark von Hausnr. 11 bis Ende
+
+A
+
+2
+
+A
+
+2
+
+Bernhardstr. von Schönhauser Str. bis Tacitusstr. von Tacitusstr. bis Hölderlinstr. von Hölderlinstr. bis Bayenthalgürtel
+
+A
+
+2
+
+A
+
+2
+
+A
+
+2
+
+Bischofsweg von Vorgebirgstr. bis Marktstr. bebaute Seite von Vorgebirgstr. bis Marktstr. unbebaute Seite
+
+A
+
+2
+
+A
+
+2
+
+Eckdorfer Str.
 
 A
 
 1
 
+von Hitzelerstr. bis Pingsdorfer Str. nördlicher Teil (Seite Hitzeler
+
+A
+
+Str. 99/Pingsdorfer Str. 4)
+
+von Hitzelerstr. bis Pingsdorfer Str. nördlicher Teil
+
+(gegenüberliegende Seite)
+
+von Pingsdorfer Str. nördlicher Teil bis Ende Seite (gerade Hausnr.
+
+A
+
+und Pingsdorfer Str. 5,9 und 10)
+
+Fritz-Hecker-Str. von Marienhof bis Leichweg/Landskronstr. Von Leichweg/Landskronstr. bis Sportplatzende
+
+A
+
 1
 
-Barbarastr.
+A
 
-von Hauptstr. bis Oststr.
+1
+
+Grimmelshausenstr. von Weißer Str. bis Auenweg von Auenweg bis Uferstr.
+
+A
+
+1
+
+A
+
+1
+
+Kendenicher Str. von Höninger Platz bis Kalscheurer Weg von Kalscheurer Weg bis Nr. 82/87
 
 A
 
 2
 
-x
-
-Teilstück von Hauptführung bis Friedenstr., vor Hausnr. 27
-
-x
-
-x
-
-bis Hausnr. 30 und gegenüber
-
 A
 
 2
 
-x
-
-bis Uferstr. gerade Hausnummernseite
+Marienburger Str. von Oberländer Ufer bis Unter den Ulmen von Unter den Ulmen bis Bonner Str.
 
 A
 
-2
-
-bis Uferstr. ungerade Hausnummernseite
+3
 
 A
 
-2
+3
 
-x
-
-Teilstück zwischen Postgebäude und Hintereingang Gebäude Hauptstr. 71-
-
-x
-
-73
-
-Bonner Str.
-
-von Kyllstr. bis Verteilerkreis
+Marktstr.
 
 H
 
 3
 
-3
-
-Stichstr. entlang Nr. 288a-d
+Mathiaskirchplatz von Bonner Str. bis Schillerstr. von Schillerstr. bis Bernhardstr. Stichstraße von Nr. 5-15 einschließlich Wendehammer (außer Platzfläche)
 
 A
 
 3
 
-Stichstr. von Stichstr. Nr. 288a-d zur Sonneckstr.
+A
+
+3
 
 A
 
 3
 
-3
-
-Stichstraße entlang Nr. 310-310R zur Rheinsteinstr.
+Neuer Weyerstraßerweg von Zollstockgürtel bis Grundstücksende Nr. 2/3 gerade Seite ca. 80 m von Zollstockgürtel ungerade Seite ca. 177 m von Zollstockgürtel von Grundstücksende Nr. 2/3 bis Ober Komarweg
 
 A
 
 3
 
-Verbindungsstraße zwischen den Stichstraßen entlang den Rückfronten
+A
 
 A
 
-3
+A
 
-Bonner Str. Nr. 292-294a
+1
 
-3. Fahrbahn von Nr. 352 - 488
+Rodderweg (Hauptführung)
 
 A
 
-3
+1
 
-3
-
-3. Fahrbahn (Busspur) von Nr. 490 bis Verteilerkreis
-
-A
-
-3
-
-Fahrbahn von Nr. 508 - 526
-
-A
-
-3
-
-3
-
-Brauneberger Str. ungerade Hausnr. Seite gerade Hausnr. Seite
-
-A
-
+2 2
+2 2 2
 2
-
-2
-
-A
-
-2
-
-Hauptstr.
-
-von Heinrich-Lübke-Ufer bis Maternusstr.
-
-H
-
-3
-
-3
-
-von Maternusstr. bis Walther-Rathenau-Str.
-
-H
-
-5
-
-5
-
-Verbindungsweg zum Maternusplatz zwischen den Häusern Nr. 100 und
-
-A
-
-3
-
-Nr. 102 ohne Hausdurchgang
-
-Rathausvorplatz (Parkplatz)
-
-A
-
-3
-
-3
-
-Heinrich-Lübke-Ufer von Militärringstr. bis Hauptstr. Parkplatz unter der Autobahnbrücke
-
-H
-
-3
-
-3
-
-G
-
-3
-
-Impekovener Str.
-
-x
-
-Kardorfer Str. von Hitzelerstr. bis Rösberger Str. ungerade Hausnr.Seite von Stichstr. 7-17 bis Hausnr. 45 Seite entlang der Grünanlage und Schule von Hitzelerstr. bis Pingsdorfer Str. beidseitig Stichstraße vor Nr. 11a-17, zwischen Nr. 19-25, 27-31 und 33-37 Stichstraße entlang den Grundstücken 11-17
-
-A
-
+1 x
 1
-
-A
-
-1
-
-A
-
-1
-
-A
-
-1
-
+1 1
+x x
+2 2
+3 3 3
+3 3 3
+3 3
 x
 
-x
-
-x
-
-x
-
-Kindergartengässchen
-
-x
-
-Neuer Weyerstraßerweg von Zollstockgürtel bis Hausnr. 75/77 bzw. 120 ungerade Seite ca. 65 m von Zollstockgürtel gerade Seite ca. 170 m von Zollstockgürtel bis Ober Komarweg
-
-A
-
-3
-
-A
-
-3
-
-A
-
-3
-
-A
-
-1
-
-Oedekovener Str.
-
-x
-
-Uedorfer Str.
-
-x
-
-Bezirk: Rodenkirchen, Satzungsänderungen zum 01.01.2011 Straße
-Uferstr. von Barbarastr. bis Walther-Rathenau-Str. bis Grüngürtelstr.
+Straße
+Uferstr. von Barbarastr. bis Walther-Rathenau-Str. von Walter-Rathenau-Str. bis Roonstr. von Roonstr. bis Grüngürtelstr.
+Walther-Rathenau-Str. von Hauptstr. bis Blücherstr. von Blücherstr. bis Uferstr. Parkplatz zwischen Nr. 5 und 9
 
 Straßenart
 
@@ -881,23 +790,32 @@ H
 3
 
 3
+
+H
+
+3
+
+3
+
+H
+
+2
+
+2
+
+H
+
+2
+
+2
+
+H
+
+1
 
 STADTBEZIRK 3
 
-Bezirk: Lindenthal, Satzungsänderungen zum 01.01.2011 Straße
-Am Sportpark Müngersdorf gerade HsNr. Seite von Aachener Str. bis Junkersdorfer Str. ungerade HsNr. Seite von Aachener Str. bis Ende Nr. 3
-An der Alten Post Stichstraße entlang den Häusern 22-28 von Aachener Str. bis Ostlandstr. von Ostlandstr. bis Potsdamer Str.
-Blumenallee von Nr. 1-11 und gegenüber von Nr. 13 und gegenüber bis Rosenweg von Rosenweg bis Vogelsanger Weg
-Erich-Deuser-Str. unbebaute Seite bebaute Seite
-Gottesweg von Rhöndorfer Str. bis Luxemburger Str. 3. Fahrbahn
-Göttinger Str.
-Innere Kanalstr. von Aachener Str. bis Woensamstr. (ungerade Hausnr.) Wohnweg Nr. 9-13 Parkplatz vor Nr. 9-13
-Leipziger Str. von Benfleetstr. bis Wendeplatz
-Ostlandstr. Wohnwege zu den Häusern Nr. 70-72, 74-80, 82-92 von Breslauer Str. bis Tilsiter Weg von Tilsiter Weg bis An der alten Post von An der Alten Post bis Schulstr.
-Pauliplatz ohne Platzfläche
-Potsdamer Str. von Gertrudisstr. bis An der Alten Post bis Lübecker Str. bis Bunzlauer Str. Wohnweg von Nr. 1-15 Parkplatz gegenüber Lübecker Str.21
-Siebengebirgsallee von Luxemburger Str. bis Petersberger Str. von Petersberger Str. bis Nassestr. bis Ende
-Wiener Weg
+Straße
 
 Straßenart
 
@@ -909,137 +827,144 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-A
-
-2
+Beller Weg von Schlehdornweg bis Holunderweg von Holunderweg bis Vogelsanger Weg Fußweg von Leipziger Str. bis Marienweg
 
 A
 
-2
-
-A
-
-2
+1
 
 x
+
+A
+
+1
+
+x
+
+x
+
+Kronstädter Str. von Ignystr. bis Bistritzer Str. von Bistritzer Str. bis Ende/Wendekreis
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+Lahnstr. von Randkanal bis An der Ronne von An der Ronne bis Spitzangerweg von Spitzangerweg bis Am Heidstamm Weg entlang den Häusern Nr. 40-46, 48-58, 60-70
+
+x
+
+x
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+Landgrafenstr. von Herderstr. bis Wüllnerstr. von Wüllnerstr. bis Rautenstrauchstr. von Rautenstraustr. bis Friedrich-Schmidt-Str.
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+1
+
+1
+
+Linnicher Str. von Stolberger Str. bis Wendehammer
+
+A
+
+1
+
+1
+
+Marsdorfer Str.
+
+von Wilhelm-von-Capitaine-Str. bis Statthalterhofweg
+
+H
+
+1
+
+x
+
+von Statthalterhofweg bis Nr. 59 und Seitenfront Thönneshofweg 34 H
+
+1
+
+x
+
+Remigiusstr. von Lotharstr. bis Arnulfstr. von Arnulfstr. bis Wendehammer bei Hausnr. 16 Fußweg zur Universitätsstr.
+Rhöndorfer Str. von Weißhausstr. bis Klettenberggürtel von Klettenberggürtel bis Drachenfelsstr.
+Robert-Koch-Str. von Zülpicher Str. bis Bardenheuerstr. von Bardenheuerstr. bis Kringsweg
+Sterrenhofweg von Beethovenstr. bis Frohnhofweg von Frohnhofweg bis Marsdorfer Str.
+Wendelinstr. von Lövenicher Weg bis Hausnr. 59/48 von Hausnr. 59/48 bis Belvederestr. von Belvederestr. bis Vitalisstr./Stolberger Str.
+Werthmannstr. von Decksteiner Str. bis Prälat-van-Acken-Str. von Prälat-von-Acken-Str. bis Nr. 34a und gegenüber
 
 A
 
 3
 
-3
-
-A
-
-1
-
-1
-
-x
-
-x
-
-A
-
-1
-
-x
-
-A
-
-1
-
-x
-
-A
-
-1
-
-A
-
-1
-
-A
-
-5
-
-A
-
-5
-
-A
-
-1
-
-x
-x 5 5
-1
-
-H
-
-2
-
-2
-
-G
-
-2
-
-A
-
-2
-
-A
-
-1
-
-1
-
-A
-
-1
-
 A
 
 3
 
-A
-
-1
-
-x 1 3 1
-
-A
-
-1
-
-1
-
-A
-
-1
-
-x
-
-A
-
-1
-
-1
-
-x
-
-x
-
-x
-
-A
-
-1
-
 H
 
 2
+
+H
+
+1
+
+A
+
+2
+
+A
+
+2
+
+A
+
+1
+
+A
+
+1
+
+A
+
+2
+
+A
 
 2
 
@@ -1047,23 +972,75 @@ H
 
 2
 
-2
+A
 
-H
-
-2
-
-2
+1
 
 A
 
 1
 
+3 3
+x
+2 1
+2 2
+x x
+2 2
+1 1
+
+Straße
+
+Straßenart
+
+Reinigungszuständigkeit/ Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+weiterführende Umfahrt von Nr. 23/44 bis 23/44
+
+A
+
 1
+
+2 Verbindungswege zwischen Nr. 11-13 und Nr. 17-19 zur Dürener
+
+Str.
+
+1 x
+
+Zaunstr. von Brauweilerstr. bis Widdersdorfer Landstr. von Widdersdorfer Landstr. bis Marderallee von Marderallee bis Nerzweg bis Ende Verbindungsweg zum Mittelweg neben Nr. 18-26
+
+H
+
+1
+
+x
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+x
+
+x
 
 STADTBEZIRK 4
 
-Bezirk: Ehrenfeld, Satzungsänderungen zum 01.01.2011 Straße
+Straße
 
 Straßenart
 
@@ -1074,12 +1051,108 @@ Fahrbahn
 Gehweg
 
 Stadt Anlieger Stadt Anlieger
+
+Ahornweg von Häuschensweg bis Am Haselbusch von Am Haselbusch bis An den Birken
+
+A
+
+1
+
+1
+
+A
+
+1
+
+1
+
+Borsigstr. von Teichstr. bis Subbelrather Str. 497 von Äußere Kanalstr. bis Alpenerstr.
+
+A
+
+1
+
+1
+
+A
+
+3
+
+3
+
+Ehrenfeldgürtel bis Stadtteilgrenze Ehrenfeld 3. Fahrbahn vor der Post von Stadteilgrenze Ehrenfeld bis Nußbaumerstr. Parkplatz zwischen Hausnr. 83 und 93 Arkade vor Hausnr. 130
+
+H
+
+5
+
+5
+
+H
+
+5
+
+5
+
+H
+
+5
+
+5
+
+H
+
+5
+
+H
+
+5
+
+Girlitzweg
+
+von Vitalisstr. bis 1. Bahnunterführung
+
+H
+
+1
+
+bis 2. Bahnunterführung
+
+A
+
+1
+
+Gehweg rechte Seite bis einschl. Hausnr. 28
+
+H
+
+1
+
+Gehweg linke Seite von 1. Bahnunterführung bis Hausnr. 15b
+
+A
+
+1
+
+bis Ende
+
+x
+
+x
+
+Stichstraße ab 2. Bahnunterführung bis Ende (entlang Hausnr. 17-
+
+x
+
+47)
 
 Görlinger-Zentrum
 
 von Schumacherring bis Stichstr. zu Nr. 1-7
 
 A
+
+6
 
 6
 
@@ -1095,70 +1168,120 @@ A
 
 6
 
+6
+
 von Nr. 2 und gegenüber bis Spielplatz
 
 FG
+
+6
 
 ab Spielplatz und gegenüber bis zum Fußweg zur Tollerstr.
 
 G
 
+6
+
 Stichstr. zwischen Nr. 12 - 22 und 19 -33
 
 FG
 
-Stichstraßen zu Nr. 1 - 7, 19 - 25, 27 - 33, neben Nr. 26, zu 30a/b, 39 - 45
+6
+
+Stichstraßen zu Nr. 1 - 7, 19 - 25, 27 - 33, neben Nr. 26, zu 30a/b,
 
 A
 
 6
 
-Stichstraße zu Nr. 6- Rückfront Hausnr.16 Fußweg zur Tollerstr./Schumacherring
+6
+
+39 - 45
+
+Stichstraße zu Nr. 6- Rückfront Hausnr.16
 
 A
 
 2
+
+2
+
+Fußweg zur Tollerstr./Schumacherring
 
 G
 
-Innere Kanalstr. von Woensamstr. bis Hornstr. 3. Fahrbahn von Nr. 67 bis Einfahrt Telekom
+6
+
+Grüner Weg
+
+A
+
+5
+
+5
+
+Hüttenstr. Parkplatz Ecke Ottostr.
 
 H
 
-2
+3
+
+3
 
 A
 
-2
-
-Lenauplatz Platzfläche
-
-A
-
-6
-
-A
+3
 
 Lichtstr.
 
 A
 
-5
+3
 
-6
-6 6 6 6 6
-2 6
-2 x
-6 6
-5
+3
 
-STADTBEZIRK 5
+Nußbaumerstr. von Liebigstr. bis Ehrenfeldgürtel von Ehrenfeldgürtel bis Iltisstr.
 
-Bezirk: Nippes, Satzungsänderungen zum 01.01.2011 Straße
-Freiherr-vom-Stein-Str. von Erzbergerplatz bis Nr. 5 und Nr. 8 bis Nr. 9 Parkplatz
-Geestemünder Str. entlang Seitenfront Franz-Greiß-Str. 2 Stichstraße gegenüber Nr. 36-38 bis Industriestr.
-Innere Kanalstr. von Hornstr. bis Adam-Wrede-Str. (ungerade Hausnr.) nur 3. Fahrbahn von Grabbestr. bis Adam-Wrede-Str.
-Riehler Gürtel Parkplatz vor Zooeingang 3. Fahrbahn von Amsterdamer Str. bis Stammheimerstr.
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+Ollenhauerring
+
+von Militärringstr. bis Görlinger Zentrum (Hauptführung)
+
+H
+
+2
+
+2
+
+von Hausnr. 1 bis Görlinger Zentrum
+
+H
+
+2
+
+2
+
+Ossendorfer Str. von Iltisstr. bis Äußere Kanalstr.
+
+A
+
+1
+
+1
+
+Straße
+von Äußere Kanalstr. bis Baadenberger Str. bis Ende
 
 Straßenart
 
@@ -1170,63 +1293,19 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-x
+A
 
-x
+1
 
-x
+1
 
 A
 
 1
 
-H
+1
 
-2
-
-H
-
-2
-
-H
-
-2
-
-2 x
-
-H
-
-2
-
-2
-
-A
-
-2
-
-2
-
-A
-
-3
-
-3
-
-A
-
-3
-
-3
-
-A
-
-3
-
-3
-
-STADTBEZIRK 6
-
-Bezirk: Chorweiler, Satzungsänderungen zum 01.01.2011 Straße
+Straße
 
 Straßenart
 
@@ -1238,63 +1317,47 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-Am Bachhof von Further Str. bis Fortuinweg
+Ossendorfer Weg von Mühlenweg/Sandweg bis Mathias-Brüggen-Str. von Mathias-Brüggen-Str. bis Nöckerstr. von Nöckerstr. bis Westendstr.
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+Unter Kirschen
+
+von Akazienweg bis Unter Bergamotten
 
 A
 
 1
 
-1
-
-Am Donatushof Parkplätze Stichstr. (ca. 130 m lang) entlang der Hausnr. 11b bis 13
+von Unter Bergamotten bis Erlenweg
 
 A
 
 1
 
-A
+Gehweg von Akazienweg bis Nr. 1a, von Nr. 5 bis Ende, von Nr. 2-8 A
 
-1
+und von Josef-Esser-Platz bis Ende
+
+Verbindungsweg zum Akazienweg
 
 1 x
 
-Daverkusenstr.
-
-H
-
-1
-
-x
-
-Parkplatz zwischen Hausnr. 9 und Merkenicher Hauptstr. 143
-
-A
-
-1
-
-Dernbacher Weg von Freusburgweg bis Hausnr. 23 Wohnwege entlang der Hausnr. 2-12, 18-24, 25-36, einschließlich der östlich verlaufenden Wegeverbindungen zum Freusburgweg
-
-x
-
-x
-
-x
-
-Fortuinweg von Am Bachhof bis Ende Stichstraße zu Nr. 15-18 Parkplatz
-
-A
-
-1
-
-1
-
-x
-
-A
-
-1
-
-Fühlinger Kirchweg von Amandusstr. bis Rheinkasseler Weg bis Alte Römerstr./Kuhlenweg
+Wilhelm-Schreiber-Str. Stichstraße zu Nr. 17-31 Wohnwege hinter Nr. 8-14 und zu Nr. 33-39 Verbindungswege zur Masiusstr. Verbindungswege zur Willi-Sieke-Str. entlang der Schule
 
 A
 
@@ -1302,133 +1365,53 @@ A
 
 x
 
-A
-
-1
-
 x
-
-Fühlinger Weg von Merianstr. bis einschl. DB-Unterführung Parkplatz am Windröschenweg
-
-H
-
-1
-
-1
-
-A
-
-1
-
-Gustorfer Weg von Stallagsweg bis Butzheimer Str. von Butzheimer Str. bis Epprather Weg
-
-A
-
-1
-
-x
-
-A
-
-1
-
-x
-
-Kirburger Weg
-
-H
-
-1
-
-x
-
-Stichstraßen zu Nr. 51-59, 79-93, 107-121, 135-153
 
 x
 
 x
 
-Stichstraße zu Hausnr. 21-33
-
 x
-
-Wohnwege zu Nr. 10-22, neben Nr. 34-42, hinter Nr. 137-145
-
-x
-
-Verbindungsweg zum Langenbacher Weg und Fußweg Marienberger
-
-x
-
-Hof/Bellinger Weg
-
-Orrer Str. von Chorbuschstr. bis Ortsende
-
-H
-
-1
-
-x
-
-Pariser Passage
 
 G
 
-6
-
-Verbindungsweg entlang Hausnr. 32a und 32b zum Trondheimer Weg
-
-G
-
-6
-
-Robert-Bosch-Str. von Industriestr. bis Morsestr. von Morsestr. bis Stichstraße zu Hausnr. 51-57 Stichstraßen zu Hausnr. 37-41 und 51-57
-
-H
-
 1
 
-x
+STADTBEZIRK 5
 
-A
+Straße
 
-1
+Straßenart
 
-x
+Reinigungszuständigkeit/ Reinigungshäufigkeit
 
-A
+Fahrbahn
 
-1
+Gehweg
 
-x
+Stadt Anlieger Stadt Anlieger
 
-Schaaffhausenstr.
-
-von Herstattallee bis Wendeplatz
+Bergstr. von Neusser Str. bis Merheimer Str. von Merheimer Str. bis Etzelstr.
 
 A
 
 2
 
-Verbindungswege neben Hausnr. 2 zum Berberitzenweg und neben Hausnr.
+A
 
-19 zum Paquetweg
+1
 
 2 x
 
-Bezirk: Chorweiler, Satzungsänderungen zum 01.01.2011 Straße
+Etzelstr.
 
-Straßenart
+von Mauenheimer Gürtel bis Artushof
 
-Reinigungszuständigkeit/ Reinigungshäufigkeit
+A
 
-Fahrbahn
+1
 
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Schulstr.
+von Artushof bis Bergstr.
 
 A
 
@@ -1436,7 +1419,7 @@ A
 
 x
 
-Stichstraße neben Nr. 55 einschließlich Wendeanlage
+von Bergstr. bis Schmiedegasse
 
 A
 
@@ -1444,144 +1427,55 @@ A
 
 x
 
-Wege entlang den Hausgrundstücken Nr. 15-19, 35-53, 21-35a, 61-63
-
-x
-
-Stichstr. neben Hausnr. 121 einschl. Wendeanlage
+von Schmiedegasse bis Bahnunterführung
 
 A
 
 1
 
-x
+1
 
-Wegeverbindung im Bereich Schulstr. 77,99,109 und dem Garagenhof
-
-x
-
-neben Hausnr. 89
-
-Strohflechterstr.
+bis Stadtteilgrenze Weidenpesch
 
 x
 
+von Stadtteilgrenze Weidenpesch bis Ossietzkystr./Longericher Str.
+
 x
 
-Stürzelberger Weg bis Ende Hausnr. 38
+Stichstraße zwischen Hausnr. 226 und 231/233
 
 A
 
 1
 
-x
+1
 
-Unnauer Weg von Lindweilerweg bis Soldiner Str. 3. Fahrbahn von Unnauer Weg bis Soldiner Str.
+Friedrich-Karl-Str. von Merheimer Str. bis Neusser Str. von Neusser Str. bis Niehler Kirchweg (Stadtteilgrenze Niehl) von Niehler Kirchweg (Stadtteilgrenze Niehl) bis Niehler Str. bis Amsterdamer Str. bis Boltensternstr. 6 Stichstraßen einschließlich Querstraße vor Nr. 31-77 Stichstraße zwischen Nr. 46-56 Stichstraße zwischen Nr. 224-236 Stichstraße von Nr. 238-270 mit rückwärtiger Verbindung
 
-A
+H
+
+2
+
+2
+
+H
 
 1
 
-x
+1
 
-A
+H
 
 1
 
-x
-
-STADTBEZIRK 7
-
-Bezirk: Porz, Satzungsänderungen zum 01.01.2011 Straße
-
-Straßenart
-
-Reinigungszuständigkeit/ Reinigungshäufigkeit
-
-Fahrbahn
-
-Gehweg
-
-Stadt Anlieger Stadt Anlieger
-
-Adolf-Kalsbach-Str. von Urbanusstr. bis Wendeplatz Verbindungsweg von Wendeplatz Adolf-Kalsbach-Str. bis Alte Burgstr.
-
-x
-
-x
-
-x
-
-Alte Burgstr. Verbindungsweg von Adolf-Kalsbach-Str. bis Alte Burgstr.
-
-x
-
-x
-
-x
-
-Am Liburer Wall
-
-von Margaretenstr. bis Alte Burgstr.
-
-x
-
-Am Schmelzofen von Glasstraße bis Glaskeramikweg von Am Schmelzofen bis Glasbläserweg Verbindungsweg südliche Richtung, östlich des Hausgrundstücks Am Schmelzofen 27, ausschließlich der Aufpflasterung Aufgepflasterte Teilfläche
-
-x x x x
-x
-
-Barbarastr. von Artilleriestr. bis Wendeanlage von Hausnr. 44 bis Hausnr. 66 Verbindungsweg zwischen Wendeanlage und Hermann-Löns-Str.
-
-A
-
 1
 
-x
+H
 
-x
+2
 
-A
-
-1
-
-Georg-Falck-Weg
-
-x
-
-x
-
-Glasbläserweg
-
-x
-
-Wohnwege zu den Häusern 2-8, 10-16, 18-24, 26-28, 30-36, 38-46
-
-x
-
-Glaskeramikweg Verbindungsweg zur Schillerstr. (nördlich Hausgrundstück Glaskeramikweg 2)
-
-x x
-
-Glasstr. von Bahnhofstr. bis Concordiaplatz Stichstr. von Glasstr. bis Am Schmelzofen (zwischen HausNr. 5 und HausNr. 17)
-
-x
-
-x
-
-x
-
-Hagelerweg von Margaretenstr. bis Alte Burgstr. von Alte Burgstr. bis Adolf-Kalsbach-Str.
-
-x
-
-x
-
-x
-
-x
-
-Humboldtstr. Verbindungswege zur Kasparstr.
+2
 
 H
 
@@ -1593,7 +1487,49 @@ x
 
 x
 
-Manfred-Faber-Weg von Richard-Landsberg-Weg bis zur Straße Haus Wolle Platzfläche gegenüber den Grundstücken Manfred-Faber-Weg 18-30, östlich der Fahrbahnfläche
+x
+
+x
+
+A
+
+1
+
+1
+
+A
+
+1
+
+1
+
+Graditzer Str. von Sebastianstr. bis Weidenpescher Str. von Weidenpescher Str. bis Schlenderhaner Str. Stichstraße zwischen Nr. 71 und Nr. 75
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+x
+
+Graseggerstr. von Wilhelm-Sollmann-Str. bis Zufahrt Krankenhaus von Zufahrt Krankenhaus bis Rambouxstr. Stichstraßen Verbindungswege
+
+A
+
+1
+
+x
+
+A
+
+1
 
 x
 
@@ -1601,17 +1537,65 @@ x
 
 x
 
-Oscar-Abisch-Weg ca. 6m langer Verbindungsweg von Hermann-Löns-Str. bis zur Aufweitung der Straße in Höhe der Grundstücke Oscar-Abisch-Weg 38/Hermann-LönsStr. 15 von vg. Verbindungsweg bis zum Wendebereich in Höhe der Grundstücke Oscar-Abisch-Weg 1 bzw. 2
+Heinrich-Hoerle-Str. 3. Fahrbahn von Nr. 1 bis 11
 
-x x
+A
 
-Richard-Landsberg-Weg von Oscar-Abisch-Weg bis Robert-Stern-Weg
+1
+
+x
+
+A
+
+1
+
+x
+
+Lämmerstr. von Liebigstr. bis Osterather Str. von Osterather Str. bis Hornstr.
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+Lokomotivstr. von Hausnr. 2 bis 92 und gegenüber Stichstraßen entlang Hausnr. 60-66 und 118-124 Verbindungsweg zwischen Hausnr. 4 und 6 zur Straße Am Alten Stellwerk
+
+A
+
+1
+
+1
 
 x
 
 x
 
-Bezirk: Porz, Satzungsänderungen zum 01.01.2011 Straße
+Mauenheimer Str. von Neusser Str. bis Schillstr. Platzfläche zwischen Schillstr. und Simon-Meister-Str. von Schillstr. bis Merheimer Str.
+
+A
+
+5
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+Straße
 
 Straßenart
 
@@ -1623,7 +1607,115 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-Robert-Stern-Weg von Hermann-Löns-Str. bis nördlich der Einmündung Georg-Fack-Weg
+von Merheimer Str. bis Kempener Str. Stichstraße vor Nr. 135-153
+
+A
+
+3
+
+3
+
+x
+
+x
+
+Merheimer Platz von Siebachstr. bis Merheimer Str. von Merheimer Str. bis Zonser Str.
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+Merheimer Str. von Innere Kanalstr. bis Merheimer Platz von Merheimer Platz bis Sechzigstr. von Sechzigstr. bis Kempener Str. von Kempener Str. bis Mauenheimer Gürtel von Mauenheimer Gürtel bis Friedrich-Karl-Str. von Friedrich-Karl-Str. bis Schmiedegasse
+
+H
+
+2
+
+2
+
+H
+
+5
+
+5
+
+H
+
+5
+
+5
+
+H
+
+2
+
+2
+
+H
+
+2
+
+2
+
+H
+
+2
+
+2
+
+Neue Kempener Str. von Schmiedegasse bis Nibelungenstr. von Nibelungenstr. bis Ende
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+Osterather Str.
+
+von Lämmerstr. bis Liebigstr.
+
+A
+
+2
+
+2
+
+von Liebigstr. bis Wendekreis (ohne die Stichstraße von Parkgürtel
+
+A
+
+2
+
+2
+
+bis Wendekreis)
+
+Rambouxstr. von Rüdellstr. bis Graseggerstr. von Graseggerstr. bis Wilhelm-Sollmann-Str. Stichstraße vor Nr. 10-16 Stichstraßen Verbindungswege
+
+A
+
+1
+
+x
+
+A
+
+1
 
 x
 
@@ -1633,15 +1725,659 @@ x
 
 x
 
-ca. 24m lange Stichstraße von der Einmündung Georg-Falck-Weg bis zu den Grundstücken Robert-Stern-Weg 22 und 24
+x
 
 x
+
+Scheibenstr.
+
+H
+
+1
+
+von Neusser Str. bis Einfahrt zur Pferderennbahn
+
+H
+
+1
+
+nur rechte Seite bis Lipizzaner Str. 2 (Rennbahnbereich)
+
+H
+
+1
+
+bis Sebastianstr. (beidseitig)
+
+H
+
+1
+
+158 m lange Stichstraße neben der Feuerwehr
+
+A
+
+1
+
+1
+
+Siebachstr. von Merheimer Platz bis Sechzigstr. von Sechzigstr. bis Kempener Str.
+
+A
+
+5
+
+5
+
+A
+
+5
+
+5
+
+Simonskaul von Neusser Str. bis Mönchsgasse von Mönchsgasse bis Nr. 48/77 von Nr. 48/77 bis Bahnüberführung von Bahnüberführung bis Graseggerstr.
+
+A
+
+1
+
+1
+
+A
+
+1
+
+1
+
+x
+
+x
+
+x
+
+x
+
+Weidenpescher Str. von Graditzer Str. bis Nesselrodestr. 3. Fahrbahn und Platzfläche Ecke Nesselrodestr.
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+Werkstattstr. Hauptführung bis Hausnr. 68 und gegenüber Stichstraße zu Hausnr. 2-16
+
+A
+
+2
+
+2
+
+A
+
+2
+
+Straße
+Gehweg vor Hausr. 2 und 10 Stichstraße zu Hausnr. 18-30 Gehweg vor Hausnr. 18 Stichstraße zu Hausnr. 30a-30c und Hausnr. 32-38a Gehweg vor Hausnr. 32-38a Gehweg von Verbindungsweg zu Hausnr. 30-30c Stichstraße von Hausr. 46/62 bis Wendehammer Stichstraße zu Hausnr. 70-86 Rundfahrt um die Häuser Hausnr. 17-39 Stichstraße zwischen Hausnr. 19 und 21 Stichstraße neben und hinter Hausnr. 103 Verbindungsweg neben Hausnr. 39 zur Sechzigstr. 72
+
+Straßenart
+
+Reinigungszuständigkeit/ Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+A
+
+2
+
+A
+
+2
+
+A
+
+2
+
+A
+
+2
+
+A
+
+2
+
+A
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+x
+
+x
+
+x
+
+A
+
+1
+
+STADTBEZIRK 6
+
+Straße
+
+Straßenart
+
+Reinigungszuständigkeit/ Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Am Hetzepetsch von Oranjehofstr. bis Zur Alten Gärtnerei
+
+x
+
+x
+
+Amandusstr.
+
+von Feldkasseler Weg bis Fühlinger Kirchweg
+
+A
+
+1
+
+x
+
+Platzfläche vor der Kirche
+
+x
+
+Fußweg neben Nr. 28 zum Rheindamm
+
+x
+
+Fußweg entlang der Westseite der Amanduskirche
+
+x
+
+Fußweg von Nr. 11a bi Seitenfront Feldkasseler Weg 186
+
+x
+
+Fußweg entlang Nr. 1-9 zum Wendeplatz Kasselberger Weg
+
+x
+
+Fußweg von Nr. 15a bis zum Wendeplatz Kasselberger Weg
+
+x
+
+Asternweg
+
+von Neusser Landstr. bis Chrysanthemenweg
+
+A
+
+1
+
+x
+
+von Chrysanthemenweg bis Ende
+
+A
+
+1
+
+x
+
+Verbindungswege zum Akeleiweg und Balsaminenweg
+
+x
+
+Berberitzenweg von Mercatorstr. bis Herstattallee von Herstattallee bis Ilexweg bis Ende der Bebauung
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+Bitterstr.
+
+von Hackhauser Weg bis An den Kaulen
+
+A
+
+1
+
+x
+
+von An den Kaulen bis Dornstr.
+
+A
+
+1
+
+x
+
+Stichstraße zu Nr. 14
+
+x
+
+x
+
+Verbindungsweg zwischen Bitterstr. und Hackenbroicher Str.
+
+x
+
+Blockstr. von Weilerweg bis Ludwig-Heinrich-Str. von Ludwig-Heinrich-Str. bis Ludwig-Heinrich-Str. bis Ende
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+x
+
+Fortuinweg
+
+von Am Bachhof bis Ende
+
+A
+
+1
+
+1
+
+Stichstraße zu Hausnr. 15-18
+
+x
+
+Parkplatz
+
+A
+
+1
+
+Stichstraße von Hausnr. 1a bis einschl. Ende des Schulgrundstücks A
+
+1
+
+Haselnußweg von Mercatorstr. bis Zypressenstr. von Zypressenstr. bis Taborplatz gerade Hausnummernseite von Hausnr. 15 und gegenüberliegende Seite bis Forststr. von Forststr. bis Mercatorstr.
+Pingenweg von Unnauer Weg bis Stadtteilgrenze Lindweiler von Stadtteilgrenze Lindweiler bis Volkhovener Weg
+Seerosenweg
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+A
+
+1
+
+1
+
+A
+
+1
+
+1
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+Stallagsweg
+
+von Bahndamm Jahannes-Albers-Str. bis Volkhovener Weg
+
+A
+
+1
+
+x
+
+von Volkhovener Weg bis Nettesheimer Str.
+
+A
+
+1
+
+x
+
+Wohnwege zu Nr. 118-140
+
+x
+
+Zur Alten Gärtnerei
+
+x
+
+Zypressenstr.
+
+A
+
+1
+
+1
+
+Stichstraßen zu Hausnr. 1-9, 11-19, 21-29 und 41
+
+x
+
+x
+
+Wohnwege zu Hausnr. 31-41 (Rückseite), 43-51
+
+x
+
+x
+
+Parkplätze neben Hausnr. 9, 19, 37 und 43 und seitlich von Hausnr. A
+
+1
+
+x
+
+31
+
+STADTBEZIRK 7
+
+Straße
+
+Straßenart
+
+Reinigungszuständigkeit/ Reinigungshäufigkeit
+
+Fahrbahn
+
+Gehweg
+
+Stadt Anlieger Stadt Anlieger
+
+Am Weißen Stein einschließlich Wendeanlage
+
+x
+
+x
+
+Bahnhofstr. bis Hauptstr. bis Mühlenstr. von Mühlenstr. bis Klingerstr. von Klingerstr. (3. Fahrbahn Höhe Hausnr. 78) bis Ende Passage zum Friedrich-Ebert-Platz
+
+A
+
+1
+
+FG
+
+H
+
+1
+
+H
+
+1
+
+G
+
+x 6
+x x 6
+
+Fauststr. von Dorotheenstr. bis Breslauer Str. von Breslauer Str. bis Frankfurter Str.
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+Gilgaustr. von Oberstr. bis Gartenstr. von Gartenstr. bis Kölner Str. von Kölner Str. bis Evastr. von Evastr. bis Am Blauen Stein Platzfläche
+
+A
+
+1
+
+1
+
+A
+
+1
+
+1
+
+A
+
+1
+
+x
+
+x
+
+x
+
+A
+
+2
+
+Haus Wolle
+
+x
+
+Heckenweg
+
+x
+
+Josefstr. von Bahnhofstr. bis Karlstr. von Karlstr. bis Steinstr.
+
+FG
+
+6
+
+A
+
+1
+
+1
+
+Königsberger Str.
+
+H
+
+1
+
+x
+
+Verbindungsweg zur Mülheimer Str.
+
+x
+
+Parkplatz Ecke Humboldtstr. / Königsberger Str.
+
+H
+
+1
+
+Parkplatz Ecke Dorotheenstr. / Königsberger Str.
+
+H
+
+1
+
+Lülsdorfer Str.
+
+von Sandbergstr. bis Nr. 191/196
+
+x
+
+x
+
+Von Hausnr. 191/196 bis Rheinbergstr./An der Mühle
+
+H
+
+1
+
+x
+
+Verbindungsweg von Lülsdorfer Str. zwischen Nr. 207/209 bis in der
+
+x
+
+Bohnenbitze
+
+Wohnwege zu den Häusern Nr. 227-241
+
+x
+
+Mühlenweg bis Am Maarhof von Nr. 1/Am Maarhof bis Gronaustr. - ungerade Seite gerade Seite von Gronaustr. bis Waldstr. von Waldstr. bis Friedensstr. Stichstraße neben Nr. 52-52b
+
+x
+
+x
+
+x
+
+x
+
+A
+
+1
+
+x
+
+H
+
+1
+
+x
+
+x
+
+Paul-Brätter-Str. bis Nr. 13/14 (Wendekreis) Verbindungsweg zur Magazinstr.
+
+A
+
+1
+
+A
+
+x 1
+
+Robert-Stern-Weg von Hermann-Löns-Str. bis nördlich der Einmündung Georg-FackWeg ca. 24m lange Stichstraße von der Einmündung Georg-Falck-Weg bis zu den Grundstücken Robert-Stern-Weg 22 und 24 ca. 20m lange Stichstr. zu den Grundstücken Robert-Stern-Weg 8 und 10 ca. 20m lange Stichstr. zu den Grundstücken Robert-Stern-Weg 16 und 18
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+Rolshover Kirchweg
+
+von Wissener Weg bis Allerseelenstr.
+
+A
+
+1
+
+x
+
+von Allerseelenstr. bis Am Grauen Stein
+
+A
+
+1
+
+x
+
+von Am Grauen Stein bis Am Altenberger Kreuz
+
+A
+
+1
+
+x
+
+Stichstraße zu Nr. 46-48
+
+A
+
+1
 
 x
 
 Tiergartenstr.
 
-von Friedensstr. bis Weg Haus Wolle
+von Friedensstr. bis Wendeanlage in Höhe Oscar-Abisch-Weg
 
 A
 
@@ -1649,25 +2385,18 @@ A
 
 x
 
-von der Grundstücksgrenze zwischen Hausnr. 39 und 41 bis zum
+ca. 25m lange Stichstraße nördlich des Grundstücks Tiergartenstraße 35 bis zum Übergang in den öffentlichen Fuß- und Radweg durch die Grünanlage
+ca. 20m lange Stichstraße entlang den Grundstücken Tiergartenstr. 27 a und 27 b ca. 20m lange Stichstraße entlang den Grundstücken Tiergartenstr. 31 a und 31 b
 
 x
 
 x
 
-Wendeplatz in Höhe Oscar-Abisch-Weg
-
-ca. 25m lange Stichstraße nördlich des Grundstücks Tiergartenstraße 35 bis
-
-x
-
-x
-
-zum Übergang in den öffentlichen Fuß- und Radweg durch die Grünanlage
+x x
 
 STADTBEZIRK 8
 
-Bezirk: Kalk, Satzungsänderungen zum 01.01.2011 Straße
+Straße
 
 Straßenart
 
@@ -1679,45 +2408,21 @@ Gehweg
 
 Stadt Anlieger Stadt Anlieger
 
-Am Bürgerpark Platzfläche und Verbindungsweg zwischen Thessaloniki-Allee/PeterStühlen-Str. und Bürgerpark Kalk
-
-Barcelona-Allee von Kalker Hauptstr. bis Geschwister-Katz-Str. von Geschwister-Katz-Str. bis Corintostr.
-
-H
-
-1
-
-H
-
-1
-
-Corintostr.
-
-von Straße des 17. Juni bis Barcelona-Allee / Istanbulstraße einschließlich
-
-H
-
-1
-
-der angrenzenden Kreisverkehrfläche
-
-Istanbulstr. Gehweg bebaute Seite
-
-H
-
-1
-
-G
-
-Martin-Köllen-Str.
+Albermannstr. von Eythstr. bis Buchforststr. von Buchforststr. bis Einmündung Stichstraße zu Nr. 14-24 von Einmündung Stichstraße zu Nr. 14-24 bis Falckensteinstr.
+von Falckensteinstr. bis Manteuffelstr. Stichstraße zu Nr. 14-24 gegenüber Nr. 14-24
+An der Rather Burg Verbindungsweg An der Rather Burg bis Nord-Östliche Grundstücksgrenze Rösrather Str. 601 von Nord-Östliche Grundstücksgrenze Rösrather Str. 601 bis Rösrather Str.
+Buchforststr. von Waldecker Str. bis Steinmetzstr. von Steinmetzstr. bis Thumbstr. Stichstraße zu Nr. 39-49a gegenüber Nr. 39-49a
+Burgstr. von Ostheimer Str. bis Oranienstr. von Oranienstr. bis Schulstr. Platzfläche vor Nr. 18-28 von Schulstr. bis Olpener Str.
+Fußfallstr. von Ostmerheimer Str. bis Bevingsweg von Bevingsweg bis Hohensyburgstr. Stichstraßen zu Nr. 5-25 und 29-53
+Gothaer Platz von Hausnr. 4-8 Platzfläche
+Hibiskusweg
+Höfestr. von Kalk-Mülheimer Str. bis Markt
+Johann-Classen-Str. von Manteuffelstr. bis Buchforststr. von Nr. 70/73 bis Eythstr. von Eythstr. bis Kasernenstr. Verbindungsstraße von Johann-Classen-Str. zur Steinmetzstr. (Hausnrn. 29 bis 23 und gegenüber)
+Kampgasse von Kuthstr. bis Homarstr. von Homarstr. bis Kürtenstr.
 
 A
 
-1
-
-Vorsterstr. von Peter-Stühlen-Str. bis Kalk-Mülheimer-Str. von Kalk-Mülheimer-Str. bis Josephskirchstr. Parkplatz Stichstraße zu Nr. 68/74, zu Nr. 68 gelegene Seite Stichstraße zu Nr. 68/74, zu Nr. 74 gelegene Seite
-
-A
+3
 
 3
 
@@ -1733,17 +2438,11 @@ A
 
 3
 
-A
-
 3
-
-Würzburger Str. von Ostheimer Str. bis Stadtteilgrenze Höhenberg von Stadtteilgrenze Höhenberg bis Oranienstr. Stichstraßen zwischen Nr. 1 und Nr. 3 zwischen Nr. 5 und Nr. 7
 
 A
 
 3
-
-A
 
 3
 
@@ -1752,18 +2451,346 @@ A
 3
 
 x
-1 1 1
+
+x
+
+A
+
 1
-3 3 3 3 3 3
+
+A
+
+1
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+3
+
+H
+
+2
+
+2
+
+H
+
+2
+
+2
+
+H
+
+2
+
+H
+
+2
+
+2
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+x
+
+A
+
+1
+
+1
+
+A
+
+1
+
+x
+
+x
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+2
+
+2
+
+A
+
+1
+
+1
+
+Kannebäckerstr. von Deutzer Ring bis Burgenlandstr. von Burgenlandstr. bis Wendeplatz
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+Kapitelstr. von Kalk-Mülheimer Str. bis Haus Nr. 5/12 von den Haus Nr. 7/14 bis Josephskirchstr. von Josephskirchstr. bis Markt
+
+A
+
+5
+
+5
+
+A
+
+5
+
+A
+
+5
+
+5
+
+Kratzweg von Hohensyburgstr. bis Kieskauler Weg von Kieskaulerweg bis Ostmerheimer Str. Parkplatz zwischen Hausnr. 12 und 20
+
+A
+
+1
+
+A
+
+1
+
+x
+
+A
+
+1
+
+Kuthstr.
+
+von Ostheimer Str. bis Kampgasse
+
+H
+
+5
+
+5
+
+von Kampgasse bis Zubringer/Nr. 180
+
+H
+
+2
+
+2
+
+Stichstraße vor Nr. 151/153
+
+x
+
+Verbindungsweg neben Kuthstr. 2 zur Vorfläche U-Bahnhof Vingst
+
+G
+
+2
+
+Vorfläche U-Bahnhof Vingst
+
+G
+
+2
+
+Verbindungsweg zwischen Kuthstr. 5 und 7 und Ostheimer Str. 74
+
+G
+
+2
+
+und 78
+
+Fußwegverbindung von Kuthstr. neben Hausnr. 14 zur Ostheimer
+
+G
+
+2
+
+Str. zwischen den Häusern Ostheimer Str. Nr. 48 und 60
+
+Platzfläche vor Hausnr. 36
+
+G
+
+2
+
+Lilienthalstr. von Buchforststr. bis Eythstr. von Eythstr. bis Dieselstr. von Dieselst. bis Kasernenstr.
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+A
+
+3
+
+3
+
+Lustheider Str. von Vingster Ring bis Sigrid-Undset-Str. von Sigrid-Undset-Str. bis Haus Lustheider Str. 1 Platzfläche von Nr. 27-31
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+Markt von Kapitelstr. bis Höfestr. von Höfestr. bis Feldstr. von Feldstr. bis Thumbstr. von Kapitelstr. bis Thumbstr.
+
+A
+
+5
+
+5
+
+A
+
+5
+
+5
+
+A
+
+5
+
+5
+
+A
+
+5
+
+Steinmetzstr.
+
+von Manteuffelstr. bis Falckensteinstr.
+
+A
+
+3
+
+3
+
+von Falckensteinstr. bis Eythstr.
+
+A
+
+3
+
+3
+
+von Eythstr. bis Dieselstr.
+
+A
+
+3
+
+3
+
+Verbindungsstraße von Steinmetzstr. zur Johann-Classen-Str.
+
+A
+
+3
+
+3
+
+(Hausnrn. 10 bis 16 und gegenüber)
+
+Stichstraße von Steinmetzstr. bis Wendehammer (Hausnrn. 1 bis 11 A
+
+3
+
+3
+
+und gegenüber)
 
 STADTBEZIRK 9
 
-Bezirk: Mülheim, Satzungsänderungen zum 01.01.2011 Straße
-Bachstr. von Mülheimer Freiheit bis Nr. 17 (Ende Parkplatz) bis Formesstr. bis Ende
-Clevischer Ring bis Berliner Str. bis Von-Sparr-Str. bis Düsseldorfer Str. 3. Fahrbahn von Keupstr. bis Hausnr. 10 3. Führung von Nr. 174 bis Tiefentalstr. 3. Fahrbahn von Hausnr. 101 bis Keupstr.
-Genovevastr. von Wiener Platz bis Bergisch Gladbacher Str. von Bergisch Gladbacher Str. bis Carl-Brisch-Str. von Carl-Brisch-Str. bis Keupstr. Blockinnenbereich Genovevastr., Keupstr. und Holweider Str.
-Keupstr. von Dünnwalder Str. bis Adamstr. bis Clevischer Ring bis Schanzenstr. bis Bergisch Gladbacher Str.
-Montanusstr. von Bergisch Gladbacher Str. bis Mündelstr. von Mündelstr. bis Frankfurter Str. Stichstraße neben Nr. 113
+Straße
 
 Straßenart
 
@@ -1774,6 +2801,8 @@ Fahrbahn
 Gehweg
 
 Stadt Anlieger Stadt Anlieger
+
+Bachstr. von Mülheimer Freiheit bis Nr. 17 (Ende Parkplatz) bis Formesstr. von Formesstr. bis Wallstr. von Wallstr. bis Andreaestr. von Andreaestr. bis Bergischer Ring
 
 A
 
@@ -1791,11 +2820,19 @@ A
 
 2
 
-H
+A
 
-3
+2
 
-3
+2
+
+A
+
+2
+
+2
+
+Bertoldistr.
 
 H
 
@@ -1803,121 +2840,237 @@ H
 
 2
 
-H
-
-2
-
-2
-
-H
-
-3
-
-3
-
-H
+Verbindungsweg entlang Graf-Adolf-Str. 3 zum Stadtgarten Mülheim A
 
 1
 
+Buchheimer Str. bis Adamstr. inkl. 2 Treppen (ohne Rolltreppe) bis Wallstr. bis Mülheimer Freiheit Parkplatz zwischen Nr. 56-64
+Burgwiesenstr. von Kochwiesenstr. bis Colonia-Allee von Colonia-Allee bis Isenburger Kirchweg von Isenburger Kirchweg bis Schulgrundstück Stichstraße zu Nr. 40-50
+Buschfeldstr. von Bergisch Gladbacher Str. bis Piccoloministr. von Piccoloministr. bis Ende Fußweg zum S-Bahn-Haltepunkt
+Herler Str. von Ackerstr. bis Alte Wipperführter Str. von Alte Wipperführter Str. bis Buchheimer Ring 3. Fahrbahn zwischen Alte Wipperfürther Str. und Johanniterstr.
+
+FG
+
+12
+
+A
+
+12
+
+12
+
+A
+
+5
+
+5
+
+A
+
+2
+
+2
+
+A
+
 1
 
-H
-
-3
-
-3
-
-H
-
-3
-
-3
-
-H
-
-3
-
-3
-
-H
-
-4
-
-4
+x
 
 A
 
-2
+1
+
+x
 
 A
 
-2
-
-A
-
-2
-
-2
-
-A
-
-4
-
-4
-
-A
-
-7
-
-7
-
-A
-
-4
-
-4
-
-A
-
-4
-
-4
+1
 
 x
 
 x
 
-Anlage 2 zur Straßenreinigungssatzung 01.01.2011
+x
 
-Ergänzung zur Aufstellung der Straßen für die Fahrbahnen mit besonderem Reinigungsaufwandgemäß § 8 Abs. 1 Ziffer 1.1.2 und 1.2.2 der Straßenreinigungssatzung
-
-Stadtbezirk
-
-Straßenbezeichnung
-
-Änderungen: keine Änderungen
-
-Anlage 3 zur Straßenreinigungssatzung 01.01.2011
-
-Ergänzung zur Aufstellung der Fußgängergeschäftsstraßen mit besonderem Reinigungsaufwand gemäß § 8 Abs. 1 Ziffer 3.2 der Straßenreinigungssatzung
-
-Stadtbezirk
-
-Straßenbezeichnung
+A
 
 1
 
-Eigelstein
+A
 
-von Eigelsteintorburg bis Ebertplatz
+1
 
-Vorstehende Satzung wird hiermit öffentlich bekanntgemacht.
-Es wird auf die Rechtsfolgen nach § 7 Abs. 6 Satz 1 der Gemeindeordnung für das Land Nordrhein-Westfalen hingewiesen. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
+1 x x
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+A
+
+2
+
+2
+
+Honschaftsstr. von Bergisch Gladbacher Str. bis Stadtteilgrenze Holweide/Eisenbahnunterführung von Stadtteilgrenze Holweide/Eisenbahnunterführung bis Wupperweg von Wupperweg bis Lippeweg Verbindungsweg zum Kinzigweg
+Maria-Himmelfahrt-Str. von Bergisch Gladbacher Str. bis Schnellweider Str. von Schnellweider Str. bis Schweinheimer Str.
+Piccoloministr. von Mülheimer Ring bis BAB A3 (Stadtteilgrenze Holweide) von BAB A3 (Stadtteilgrenze Holweide) bis Honschaftsstr. von Honschaftsstr. bis Gerhart-Hauptmann-Str. von Gerhart-Hauptmann-Str. bis Wasserwerkstr. Fußweg neben Nr. 264/268 Platzfläche vor Nr. 435
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+A
+
+1
+
+x
+
+A
+
+1
+
+x
+
+x
+
+x
+
+x
+
+x
+
+H
+
+1
+
+x
+
+H
+
+1
+
+x
+
+x
+
+H
+
+1
+
+Stichstraße neben Nr. 429-433
+
+A
+
+1
+
+1
+
+Strundener Str.
+
+von Mielenforster Str. bis Gierather Str.
+
+A
+
+1
+
+x
+
+nördliche Stichstr. zwischen den Grundstücken Strundener Str. 69
+
+x
+
+x
+
+und 75b bis einschl. Wendebereich
+
+Von-Lohe-Str.
+
+von Düsseldorfer Str. bis Fritz-Lehmann-Str.
+
+A
+
+1
+
+1
+
+von Fritz-Lehmann-Str. bis Böckingstr.
+
+A
+
+1
+
+1
+
+Platzfläche zwischen Nr. 8 und 14
+
+A
+
+2
+
+Wohnwege entlang Nr. 8-10 und Nr. 14 bis Seitenfront Böckingstr.
+
+A
+
+2
+
+10
+
+Anlage 2 zur Straßenreinigungssatzung 01.01.2012
+
+Aufstellung der Straßen für die Fahrbahnen mit besonderem Reinigungsaufwand gemäß § 8 Abs. 1 Ziffer 1.1.2 und 1.2.2 der Straßenreinigungssatzung
+
+Stadtbezirk
+
+Straßenbezeichnung
+
+Änderungen 1
+1 1 3 6
+8
+
+Gereonskloster (außer Platzfläche) entlang den Häusern Nr. 2-22 Verbindungsstraße zwischen Christophstr. Nr. 7 und 7a 1 Verbindungsweg von Hs Nr. 22 zum Gereonshof
+Hohe Pforte von Sternengasse bis Cäcilienstr.
+Schwalbengasse
+Wendelinstr. von Nr. 59/48 bis Belvederestr.
+Fortuinweg Stichstraße von Hausnr. 1a bis einschl. Ende des Schulgrundstücks
+Markt von Kapitelstr. bis Thumbstr.
+
+Anlage 3 zur Straßenreinigungssatzung 01.01.2012
+Aufstellung der Fußgängergeschäftsstraßen mit besonderem Reinigungsaufwand gemäß § 8 Abs. 1 Ziffer 3.2 der Straßenreinigungssatzung
+Änderungen
+Görlinger Zentrum von Nr. 2 und gegenüber bis Spielplatz Stichstr. zwischen Nr. 12 - 22 und 19 -33
+
+Vorstehende Satzung wird hiermit öffentlich bekanntgemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
 Köln, den 22.12.2006
 
 Der Oberbürgermeister In Vertretung gez. Kahlen Stadtdirektor
 
-- ABl StK 2006 S. 975, 2007 S. 615, 2008 S. 861, 2009 S. 1281, 2010 S. 1256 -
+- ABl StK 2006 S. 975, 2007 S. 615, 2008 S. 861, 2009 S. 1281, 2010 S. 1256, 2011 S. 1144 -
 
 Seite 1 von 1
