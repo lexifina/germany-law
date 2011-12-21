@@ -1,14 +1,15 @@
 # Friedhofssatzung der Stadt Köln
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2010-05-19 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/friedhofssatzung_19_05_2010.pdf
+- Datum: 2011-12-21 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/friedhofssatzung_21_12_2011.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
 Friedhofssatzung der Stadt Köln vom 19. Mai 2010
+in der Fassung der 1. Satzung zur Änderung der Friedhofssatzung der Stadt Köln vom 21. Dezember 2011
 
 Präambel
 Der Rat der Stadt Köln hat in seiner Sitzung vom 23.03.2010 aufgrund des § 7 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV NW 2023) sowie des § 4 des Gesetzes über das Friedhofs- und Bestattungswesen (Bestattungsgesetz NRW) vom 17.06.2003 (GV NRW S. 313 - jeweils in der bei Erlass der Satzung geltenden Fassung folgende Satzung beschlossen :
@@ -21,10 +22,11 @@ II. Ordnung auf den Friedhöfen
 III. Bestattungen
 § 8 Anmeldung zur Bestattung § 9 Särge und Urnen § 10 Bestattung § 11 Ruhezeit § 12 Umbettungen
 IV. Grabstätten
-§ 13 Allgemeine Vorschriften § 14 Grabkammern ohne Pflegeverpflichtung § 15 Urnengrabstätten ohne Pflegeverpflichtung § 16 Wahlgrabstätten § 17 Urnenwahlgrabstätten § 18 Baumgrabstätten § 19 Anonyme Urnengrabstätten § 20 Kindergrabstätten § 21 Sondergrabstätten für Tot- und Fehlgeborene § 22 Gemeinschaftsgrabstätten
+§ 13 Allgemeine Vorschriften § 14 Grabkammern ohne Pflegeverpflichtung § 15 Urnengrabstätten ohne Pflegeverpflichtung § 16 Wahlgrabstätten § 17 Urnenwahlgrabstätten § 18 Baumgrabstätten § 19 Anonyme Urnengrabstätten
 
 Seite 1 von 29
 
+§ 20 Kindergrabstätten § 21 Sondergrabstätten für Tot- und Fehlgeborene § 22 Gemeinschaftsgrabstätten
 § 23 Ehrengrabstätten § 24 Gräber der Opfer von Krieg- und Gewaltherrschaft § 25 Patenschaftsgrabstätten § 26 Naturwaldbestattung
 V. Gestaltung der Grabstätten
 § 27 Gestaltung der Friedhöfe und Friedhofsflure § 28 Gestaltung der Grabstätten § 29 Gestaltung der Grabmale und baulichen Anlagen § 30 Zustimmungserfordernis § 31 Anlieferung § 32 Fundamentierung und Befestigung § 33 Unterhaltung der Grabanlagen (Verkehrssicherungspflicht) § 34 Entfernung § 35 Gestaltung der Grabbeete § 36 Pflege der Grabbeete § 37 Vernachlässigung der Grabbeetpflege
@@ -273,7 +275,6 @@ Seite 18 von 29
 
 (2) Die Urnen werden in einem naturbelassenen Waldstück außerhalb der gestalteten Flächen des Ostfriedhofs im Regelfall ohne Namensnennung beigesetzt.
 (3) Ein Nutzungsrecht im Sinne der Friedhofssatzung wird nicht vergeben.
-(4) Das Angebot der Naturwaldbestattung ist zunächst bis zum 31.12.2011 befristet.
 V. Gestaltung der Grabstätten
 § 27 Gestaltung der Friedhöfe und Friedhofsfluren
 (1) Es werden Friedhöfe bzw. Friedhofsfluren mit und ohne besondere Gestaltungsvorschriften eingerichtet.
@@ -282,10 +283,9 @@ V. Gestaltung der Grabstätten
 Jede Grabstätte ist einschließlich des Grabmals und etwaiger sonstiger baulicher Anlagen so zu gestalten und zu unterhalten sowie an die Umgebung anzupassen, dass die Würde und der Charakter des Friedhofs in seinen einzelnen Teilen und in seiner Gesamtanlage gewahrt werden.
 § 29 Gestaltung der Grabmale und baulichen Anlagen
 (1) Bei Grabkammern ohne Pflegeverpflichtung ( § 14 ) und Urnengrabstätten ohne Pflegeverpflichtung ( §15 ) werden durch die Friedhofsverwaltung Basisplatten aus Basaltlava in der Größe 0,65 m x 0,50 m x 0,06 m bodenbündig verlegt. Nur hierauf dürfen liegende Steinplatten bis zu einer Größe von 0,35 m x 0,35 m in einer Mindeststärke von 0,10 m befestigt werden. Der Abstand zu den Seiten und nach hinten zur Außenkante der Basisplatte muss mindestens 0,075 m betragen. Grablampen/Vasen oder sonstige Utensilien dürfen auf der Basisplatte nicht fest montiert, sondern nur abgestellt werden. Zur Verbesserung der Standsicherheit ist ein Abstellen der Lampe/Vase mit einem Sockel von max. 0,15 m x 0,15 m x 0,08 m erlaubt. Wenn die Lampe/Vase in der Grundfläche (0,35 m x 0,35 m) der Schriftplatte integriert ist, darf sie auch befestigt werden. Die Höhe von Grabstein und Lampe darf die zulässige Gesamthöhe von 0,35 m nicht überschreiten.
-Auf schriftlichen Antrag kann einer nutzungsberechtigten Person gestattet werden, auf eigene Kosten die Basisplatte durch einen von ihr beauftragten Steinmetzbetrieb
+Auf schriftlichen Antrag kann einer nutzungsberechtigten Person gestattet werden, auf eigene Kosten die Basisplatte durch einen von ihr beauftragten Steinmetzbetrieb gegen eine gleichwertige Platte auszutauschen. Die Ersatzplatte muss dieselbe Größe besitzen und im Material dem Grabstein entsprechen.
 Seite 19 von 29
 
-gegen eine gleichwertige Platte auszutauschen. Die Ersatzplatte muss dieselbe Größe besitzen und im Material dem Grabstein entsprechen.
 (2) Bei Wahlgrabstätten (§ 16) und Urnenwahlgrabstätten (§ 17) darf das Grabmal die in § 35 Abs. 4 jeweils festgelegte Beetbreite nicht überschreiten.
 (3) Steineinfassungen und Steinplattenumrandungen sind mit der Außenkante auf der Grenze des Grabbeetes zu verlegen. Sie sind bodenbündig ohne Zwischenräume zum natürlich gewachsenen Boden des Umfelds zu verlegen.
 (4) Auf den Fluren 6 bis 10 des Friedhofs Rodenkirchen, Sürther Str. sind Steineinfassungen nicht zulässig. Wegeplatten aus Naturstein - 0,20 m x 0,30 m groß - sind an den seitlichen Rändern der Grabstätte bodenbündig verlegt, erlaubt.
@@ -425,7 +425,7 @@ Der Ausbau einer Grabstätte gem. § 16 oder 17 zu einer Gruft (unterirdische He
 
 Vorstehende Satzung wird hiermit öffentlich bekannt gemacht. (Hinweis auf § 7 GO NW nicht ins Kölner Stadtrecht übernommen.)
 
-Köln, den 19.5.2010 - ABl StK 2010, S. 383 -
+Köln, den 19.5.2010 - ABl StK 2010, S. 383, 2011, S. 1132 -
 
 Der Oberbürgermeister gez. Roters
 
