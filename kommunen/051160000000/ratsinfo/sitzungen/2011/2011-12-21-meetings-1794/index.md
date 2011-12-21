@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2011-12-21T14:00:00+01:00
+- Ende: 2011-12-21T17:40:00+01:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1794
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/1794
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift
+- TOP 2: Wahl eines Nachfolgers Verwaltungsrat Satdtsparkasse - Einstimmiger Beschluss
+- TOP 3: Zusatzname für Mönchengladbach - Kenntnisnahme
+- TOP 4: Genehmigung einer Dringlichkeitsentscheidung - Einstimmiger Beschluss
+- TOP 5: Genehmigung einer Dringlichkeitsentscheidung - üpl. Mittelbereitstellung Ausbau U3-Betreuung - Einstimmiger Beschluss
+- TOP 6: Betrauung der NVV mobil & aktiv GmbH - Einstimmiger Beschluss
+- TOP 7: Überplanmäßige Bereitstellung von Haushaltsmitteln bei Produkt 006.030.010 - Einstimmiger Beschluss
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2011 - Kenntnisnahme
+- TOP 9: Siebzehnter Nachtrag Kanal und Vierter Nachtrag Klärschlamm - Mit Stimmenmehrheit beschlossen
+- TOP 10: Dreiunddreißigster Nachtrag Straßenreinigungssatzung - Mit Stimmenmehrheit beschlossen
+- TOP 11: Vierzehnter Nachtrag Abfallgebühren - Mit Stimmenmehrheit beschlossen
+- TOP 12: Sechzehnter Nachtrag Benutzungsordnung Abfallentsorgungsanlagen - Mit Stimmenmehrheit beschlossen
+- TOP 13: Verzicht auf Stimmrechtsausübung - Einstimmiger Beschluss
+- TOP 14: Haushaltsplanentwurf 2012; HH-Satzung, Anlagen, HSK - Zur Kenntnis genommen
+- TOP 15: Bericht über die Untersuchung der städt. Kindertagesstätten - Kenntnisnahme
+- TOP 16: Ordnungsbehördliche Verordnungen Offenhalten Verkaufsstellen Wickrath - Mit Stimmenmehrheit beschlossen
+- TOP 17: Ordnungsbehördliche Verordnung Offenhalten verkaufsoffene Sonntage - Von Verwaltung zurückgezogen
+- TOP 18: Zweiter Nachtrag Satzung Kostenersatz Feuerwehr - Einstimmiger Beschluss
+- TOP 19: Sanierung von Außensportanlagen - Einstimmiger Beschluss
+- TOP 20: Zweiter Nachtrag Bädertarif - Ohne Abstimmung
+- TOP 20.1: Tarif für die Hallenbäder der Stadt MG - Mit Stimmenmehrheit beschlossen
+- TOP 21: Bestellung von ständigen Mitgliedern mit beratender Stimme in den Schul- und Bildungsausschuss - Einstimmiger Beschluss
+- TOP 22: Vereinbarung Versorgungsamt - Einstimmiger Beschluss
+- TOP 23: Vierter Nachtrag zur Elternbeitragssatzung - Einstimmiger Beschluss
+- TOP 24: Leistungsvereinbarung Cafe Pflaster Ry - Einstimmiger Beschluss
+- TOP 25: Leistungsvereinbarung über Familienpflege mit dem Caritasverband - Einstimmiger Beschluss
+- TOP 26: Verlängerung der Leistungsvereinbarung - Einstimmiger Beschluss
+- TOP 27: Änderung der Leistungsvereinbarung aufgrund Trägerwechsels der Erziehungsberatungsstelle Hauptstraße - Einstimmiger Beschluss
+- TOP 28: Entwicklung eines Quartierskonzeptes - Mit Stimmenmehrheit beschlossen
+- TOP 29: Bebauungsplan BP 700/O - Stadtbezirk Ost - Mit Stimmenmehrheit beschlossen
+- TOP 30: Bebauungsplan Nr. 715/S, Bebauungsplan der Innenentwicklung gemäß § 13a Baugesetzbuch (BauGB) - Einstimmiger Beschluss
+- TOP 31: Keine Atommülltransporte durch die Region Mönchengladbach! - Mit Stimmenmehrheit beschlossen
+- TOP 32: Ausgabe von Informationsbroschüren zur Organspende - Mit Stimmenmehrheit beschlossen
+- TOP 33: Umbesetzungen - Einstimmiger Beschluss
+- TOP 34: Verbesserung des Ratsinformationssystems - Vom Antragsteller zurückgezogen
+- TOP 35: Beschluss- und Aufgabenkontrolle - Zur Kenntnis genommen
+- TOP 36: Anfragen
