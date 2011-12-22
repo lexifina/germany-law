@@ -1,0 +1,21 @@
+# Beschluss des produktorientierten doppischen Haushaltes 2012 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen und Beschluss der Haushaltssatzung 2012
+
+- Körperschaft: Stadt Bad Pyrmont
+- Drucksache/Vorlage: 375/2011 2. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2011-12-22
+- Ratsinformationssystem: https://badpyrmont.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQWH9Db1J9ykbbjWLDF3oKY
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/3209
+- Quelle: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Beschluss des produktorientierten doppischen Haushaltes 2012 der Stadt Bad Pyrmont nach dem Neuen Kommunalen Rechnungswesen und Beschluss der Haushaltssatzung 2012) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZenrJgxv-nh0UUH2BPjERPg1NYIDCp_RLUNVLWyb-p_U/Beschlussvorlage_375-2011_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSZIJHFbUuMQCfz8TwW5KOHUrLeque4O4KWEKRArhnU6/Anlage_zur_Beschlussvorlage_375-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUDwYYCmMqvP7QQ6F5zP7Iq_Aq0b6OJgbJK_GFrzU9zM/Anlage_zur_Beschlussvorlage_375-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaTuZXwgSgvAHoUYffd0dqNJJwALHw1i9OsmjhZpYC-j/Anlage_zur_Beschlussvorlage_375-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcrSnqfWvu4VbJ5MyjibVHn6s0TxPz1w55Uddw35P1Yh/Anlage_zur_Beschlussvorlage_375-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdu4VJoEHbpnYbauFzCOHdlKilNjBtgKpZpa9hJJc3aN/Anlage_zur_Beschlussvorlage_375-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 1. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQMzvMOZKRIIP38h7eSzI1gsZZD_-ZRnKtXi-olEFKf9/Anlage_zur_Beschlussvorlage_375-2011_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdkmjNmk6otHUq3FEGRefJNSoKGGVfY96gVUNDkhv3ag/Anlage_zur_Beschlussvorlage_375-2011_2._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 375/2011 2. Ergänzung) https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR9D3S3E8gS8LiiFGql4kVKn6Urd8HFwQeXIQXul7tUF/Anlage_zur_Beschlussvorlage_375-2011_2._Ergaenzung.pdf
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/13997 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-40
+- Beratung:  https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/11077 https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
+- underDirectionOf: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-197
