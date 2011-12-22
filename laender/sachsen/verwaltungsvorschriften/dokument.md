@@ -1,8 +1,8 @@
-# 02.12.2005 – 21.12.2011
+# 22.12.2011 – 31.12.2018
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2005-12-02 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/4406.3
+- Datum: 2011-12-22 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/4406.4
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -18,7 +18,7 @@ Zur Entscheidung über Ansprüche aus Amtshaftung sind zuständig:
 
 a)
 
-das Staatsministerium der Justiz
+das Staatsministerium der Justiz und für Europa
 
 für Schäden, die durch seine Bediensteten, die Bediensteten der Behörde des Sächsischen Landesbeauftragten für die Unterlagen des Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen Republik sowie durch Bedienstete der Justizschule des Freistaates Sachsen am Bildungszentrum Niederbobritzsch verursacht worden sind;
 
@@ -62,7 +62,7 @@ Zur Entscheidung über die Inanspruchnahme von Bediensteten, die Dritten oder de
 
 a)
 
-das Staatsministerium der Justiz,
+das Staatsministerium der Justiz und für Europa,
 
 für Schäden, die durch Richter, Staatsanwälte, Beamte und vergleichbare Angestellte des höheren Dienstes sowie Bedienstete der in Nummer 1 Buchst. a genannten Behörden verursacht worden sind;
 
@@ -72,17 +72,21 @@ die in Nummer 1 Buchst. b bis i genannten Behörden
 
 jeweils für Schäden, die durch die übrigen Bediensteten ihres Geschäftsbereichs verursacht worden sind.
 
+3.
+
+Zur Entscheidung über Ansprüche auf Entschädigung wegen erlittener Nachteile infolge der unangemessenen Dauer eines Gerichtsverfahrens oder strafrechtlichen Ermittlungsverfahrens sind die in Nummer 1 Buchst. b bis g genannten Behörden hinsichtlich der Verfahren in ihrem Geschäftsbereich zuständig.
+
 II.
 
 Berichtspflichten
 
 1.
 
-Die nachgeordneten Dienststellen berichten den nach Ziffer I Nr. 2 zuständigen Behörden über schuldhafte Pflichtverletzungen von Bediensteten, durch die Dritten oder dem Freistaat Sachsen Schäden entstanden sind, oder wenn ein Dritter einen Schadensersatzanspruch geltend macht.
+Die nachgeordneten Dienststellen berichten den nach Ziffer I Nr. 2 zuständigen Behörden über schuldhafte Pflichtverletzungen von Bediensteten, durch die Dritten oder dem Freistaat Sachsen Schäden entstanden sind, oder wenn ein Dritter einen Schadensersatzanspruch oder einen Anspruch auf Entschädigung wegen unangemessener Dauer eines Gerichtsverfahrens oder strafrechtlichen Ermittlungsverfahrens geltend macht.
 
 2.
 
-Die nach Ziffer I Nr. 1 Buchst. b bis i zuständigen Behörden berichten dem Staatsministerium der Justiz, wenn durch Pflichtverletzungen von Bediensteten schuldhaft ein Schaden von mehr als 10 000 EUR verursacht wurde. Macht in diesem Fall ein Dritter einen Anspruch aus Amtshaftung geltend, ist dem Staatsministerium der Justiz vor Abschluss des Verfahrens unter Vorlage eines Entwurfs der abschließenden Verfügung zu berichten.
+Die nach Ziffer I Nr. 1 Buchst. b bis i zuständigen Behörden berichten dem Staatsministerium der Justiz und für Europa, wenn durch Pflichtverletzungen von Bediensteten schuldhaft ein Schaden von mehr als 10 000 EUR verursacht wurde. Macht in diesem Fall ein Dritter einen Anspruch aus Amtshaftung geltend, ist dem Staatsministerium der Justiz und für Europa vor Abschluss des Verfahrens unter Vorlage eines Entwurfs der abschließenden Verfügung zu berichten; entsprechendes gilt, wenn ein Dritter einen Anspruch auf Entschädigung wegen unangemessener Dauer eines Gerichtsverfahrens oder strafrechtlichen Ermittlungsverfahrens von mehr als 10 000 EUR geltend macht.
 
 3.
 
@@ -102,7 +106,7 @@ Schadensersatzansprüche gegenüber Richtern, Staatsanwälten und Beamten sind d
 
 3.
 
-Schadensersatzansprüche gegenüber Arbeitern und Angestellten sind gerichtlich geltend zu machen, sofern die außergerichtliche Geltendmachung erfolglos ist. Gegen den Anspruch auf Bezüge darf erst nach Vorliegen eines vollstreckbaren Titels aufgerechnet werden.
+Schadensersatzansprüche gegenüber Arbeitnehmern sind gerichtlich geltend zu machen, sofern die außergerichtliche Geltendmachung erfolglos ist. Gegen den Anspruch auf Bezüge darf erst nach Vorliegen eines vollstreckbaren Titels aufgerechnet werden.
 
 IV.
 
