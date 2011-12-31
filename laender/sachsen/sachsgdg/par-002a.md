@@ -1,5 +1,5 @@
 # § 2a Amtsarztkurs
-Das Staatsministerium für Soziales erlässt durch Rechtsverordnung Vorschriften über die Durchführung des Amtsarztkurses und zur Prüfung der Qualifikation als Amtsarzt. Dabei sind insbesondere zu regeln:
+Das Staatsministerium für Soziales und Verbraucherschutz erlässt durch Rechtsverordnung Vorschriften über die Durchführung des Amtsarztkurses und zur Prüfung der Qualifikation als Amtsarzt. Dabei sind insbesondere zu regeln:
 1. die Voraussetzungen für die Zulassung zur Fortbildung,
 2. das Ziel, der Inhalt, die Dauer und die Ausgestaltung der Fortbildung sowie die Bewertung der Leistungen während der Fortbildung,
 3. die Bestimmung der Einrichtung, in der die Fortbildung durchgeführt wird,
