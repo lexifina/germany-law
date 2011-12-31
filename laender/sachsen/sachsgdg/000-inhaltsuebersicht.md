@@ -12,6 +12,7 @@ Abschnitt II Aufgaben und Befugnisse des öffentlichen Gesundheitsdienstes
 § 8 Überwachungsaufgaben
 § 9 Befugnisse
 § 10 Anzeigepflicht, Berufsaufsicht
+§ 10a Gesundheitsfachberufe
 § 11 Gesundheitliche Aufklärung und Beratung
 § 12 Gerichts- und vollzugsärztlicher Dienst
 Abschnitt III Übergangs- und Schlußvorschriften
