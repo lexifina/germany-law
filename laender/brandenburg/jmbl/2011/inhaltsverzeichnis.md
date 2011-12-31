@@ -1,0 +1,524 @@
+# Justizministerialblatt für das Land Brandenburg 2011: JIV
+
+- Fundstelle: Justizministerialblatt für das Land Brandenburg 2011 Nr. JIV, S. I-VIII
+- Ausgabetag: 2011-12-31 (Kopf der Ausgabe)
+- Herausgeber: Justizministerialblatt für das Land Brandenburg
+- Quelle: https://bravors.brandenburg.de/fm/76/JMBl_JIV_2011.pdf (Landesregierung Brandenburg, BRAVORS (bravors.brandenburg.de))
+- Text: nur das Inhaltsverzeichnis (Seite 1) - die Ausgabe nennt Privatpersonen; der volle Text steht unter der Quelle
+
+---
+
+Justizministerialblatt
+
+
+für
+ das
+ Land
+ Brandenburg
+
+
+Herausgegeben
+ vom
+ Ministerium
+ der
+ Justiz
+
+Inhaltsverzeichnis
+
+21.
+Jahrgang
+2011
+ Zeitliche
+ Übersicht
+
+
+Inhalt
+
+
+Seite
+
+
+Allgemeine
+Verfügungen
+und
+Rundverfügungen
+
+Januar
+
+Einheitliche
+Vordrucke
+für
+die
+ordentliche
+Gerichts­ barkeit
+ des
+ Landes
+ Brandenburg
+ in
+ Betreuungssachen
+ und
+Familiensachen
+betreffend
+die
+Vormundschaft/
+ Pflegschaft/Unterbringung
+ (Vordruckreihe
+ BS/VS/US)
+ Allgemeine
+Verfügung
+des
+Präsidenten
+des
+ Brandenburgischen
+ Oberlandesgerichts
+ vom
+ 2.
+ Dezember
+ 2010
+ (1414­SH
+10­I)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 2
+
+Aktenordnung
+ für
+ die
+ Gerichte
+ der
+ Sozialgerichtsbarkeit
+ des
+ Landes
+ Brandenburg
+ (AktO­SG)
+ Allgemeine
+Verfügung
+des
+Ministers
+der
+Justiz
+ vom
+ 14.
+ Dezember
+ 2010
+ (1454­I.036)
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 2
+
+Februar
+
+Einrichtung
+ einer
+ Zentralabteilung
+ Diagnostik
+ in
+ der
+ Justizvollzugsanstalt
+ Luckau­Duben
+ Erlass
+ des
+ Ministeriums
+ der
+ Justiz
+ vom
+ 3.
+ Januar
+ 2011
+ (4402­IV.12)
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 10
+
+Gemeinsames
+ Lagebild
+ Organisierte
+ Kriminalität
+ Justiz/Polizei
+ des
+ Landes
+ Brandenburg
+ Gemeinsamer
+ Runderlass
+ des
+ Ministers
+ der
+ Justiz
+ (4201­III.5/6)
+ und
+ des
+ Ministers
+ des
+ Innern
+ (IV/8.23­6595)
+ vom
+3.
+Januar
+2011
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 10
+
+
+Inhalt
+
+
+Seite
+
+
+Einheitliche
+Vordrucke
+für
+die
+ordentliche
+Gerichts­ barkeit
+ des
+ Landes
+ Brandenburg
+ in
+ Familiensachen
+ (FamFG)
+und
+für
+den
+Versorgungsausgleich
+ (Vordruckreihe
+FS
+und
+V)
+ Allgemeine
+Verfügung
+des
+Präsidenten
+des
+ Brandenburgischen
+ Oberlandesgerichts
+ vom
+ 12.
+ Januar
+ 2011
+ (1414­SH
+9­I)
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 11
+
+März
+
+Abschiebung
+ausländischer
+Straftäter
+nach
+Teilverbüßung
+ Allgemeine
+Verfügung
+des
+Ministers
+der
+Justiz
+zur
+Än­ derung
+der
+Allgemeinen
+Verfügung
+vom
+20.
+März
+1997
+ vom
+ 2.
+ Februar
+ 2011
+ (4310­III.002)
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 18
+
+Gesetzliche
+ Unfallversicherung
+ der
+ Gefangenen
+ (Arbeitsunfälle
+im
+Sinne
+des
+SGB
+VII)
+ Rundverfügung
+ des
+ Ministers
+ der
+ Justiz
+ zur
+ Änderung
+ der
+ Rundverfügung
+ vom
+ 30.
+ Dezember
+ 2009
+ vom
+ 3.
+ Februar
+ 2011
+ (4525­IV.3)
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 18
+
+April
+
+Verpflegungsordnung
+für
+die
+Justizvollzugsanstalten
+ des
+ Landes
+ Brandenburg
+ Rundverfügung
+ des
+ Ministers
+ der
+ Justiz
+ zur
+ Änderung
+ der
+Rundverfügung
+vom
+16.
+April
+2007
+ vom
+ 11.
+ März
+ 2011
+ (4540­IV.3)
+ .
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+ 22
