@@ -1,3 +1,4 @@
 # Verordnung des Sächsischen Staatsministeriums für Soziales und Verbraucherschutz über die Weiterbildung und Prüfung für Tierärzte im Verwaltungsdienst des Öffentlichen Veterinärwesens im Freistaat Sachsen (Sächsische Tierarztweiterbildungsverordnung Öffentliches Veterinärwesen – SächsTierarztWÖVetVO)
 Vom 16. Oktober 2009
+Rechtsbereinigt mit Stand vom 1. Januar 2012
 Aufgrund von § 35 Abs. 4 des Gesetzes über Berufsausübung, Berufsvertretungen und Berufsgerichtsbarkeit der Ärzte, Zahnärzte, Tierärzte, Apotheker sowie der Psychologischen Psychotherapeuten und der Kinder- und Jugendlichenpsychotherapeuten im Freistaat Sachsen (Sächsisches Heilberufekammergesetz – SächsHKaG) vom 24. Mai 1994 (SächsGVBl. S. 935), das zuletzt durch Artikel 10 des Gesetzes vom 13. August 2009 (SächsGVBl. S. 438, 441) geändert worden ist, wird verordnet:
