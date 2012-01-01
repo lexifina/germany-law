@@ -44,7 +44,7 @@ Zehnter Abschnitt Interkommunaler Finanzausgleich
 § 27 Kulturumlage
 § 28 Sozialumlage
 Elfter Abschnitt Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
-§ 29 Schuldendienst für kommunale Altschulden auf gesellschaftliche Einrichtungen
+§ 29 (aufgehoben)
 § 29a Digitalfunk und e-Government-Basiskomponenten
 § 29b Sanktionszahlungen
 Zwölfter Abschnitt Gemeinsame Vorschriften, Verfahren und Inkrafttreten
