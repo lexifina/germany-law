@@ -1,4 +1,3 @@
-## Gesetz über den Kommunalen Versorgungsverband Sachsen (SächsGKV)
 # Inhaltsübersicht
 Erster Teil Aufbau und Rechtsstellung
 § 1 Rechtsstellung und Sitz
@@ -38,7 +37,7 @@ Vierter Teil Verfassung und Verwaltung
 § 26 Beschäftigte
 Fünfter Teil Finanzwirtschaft
 § 27 Wirtschaftsführung
-§ 28 Umlage
+§ 28 Umlage und Erstattung
 § 29 Auskunftspflicht
 § 30 Zahlung der Umlage
 Sechster Teil Aufsicht
@@ -51,5 +50,4 @@ Achter Teil Sondervermögen nach § 14a Bundesbesoldungsgesetz
 § 35 Anlage der Mittel
 § 36 Verwaltungsausschuss für die Angelegenheiten des Sondervermögens nach § 14a des Bundesbesoldungsgesetzes
 § 37 Satzung
-Neunter Teil Schlussvorschriften
-§ 38 In-Kraft-Treten und Schlussvorschriften
+Neunter Teil Schlussvorschriften § 38 In-Kraft-Treten und Schlussvorschriften
