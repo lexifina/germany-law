@@ -1,3 +1,5 @@
+## Elfter Abschnitt Gemeinsame Zahlungsverpflichtungen von Freistaat und Kommunen
+### § 29 (aufgehoben)
 # § 29a Digitalfunk und e-Government-Basiskomponenten
 (1) Die Kommunen beteiligen sich an den Betriebskosten des landesweiten Digitalfunks für Behörden und Organisationen mit Sicherheitsaufgaben mit 60 Prozent der jährlich entstehenden Kosten. Der Finanzierungsbeitrag an den Betriebskosten beträgt
 Finanzierungsbeitrag 1
