@@ -1,0 +1,69 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2012-01-09T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2494368
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2494368
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Wahl der / des Vorsitzenden des Unterausschusses Bauplanung, Baumaßnahmen und Vollzug der Zweckentfremdungsverordnung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Jugendarbeit des Stadtjugendamtes in Sendling
+- TOP 3.2.: Europäischer Tag des Nachbarn
+- TOP 3.3.: Haushaltsplan 2012; Förderung freier Träger
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Essensversorgungskonzept an Schulen und Kindertageseinrichtungen
+- TOP 4.2.: Sportinfrastrukturmaßnahmen in München
+- TOP 6.1.: Mobiler Fahrradständer Plinganserstr. 51
+- TOP 6.2.: Anordnung des Mischparkens im Bereich der Karwendelstraße nördlich der Dudenstraße auf beiden Straßenseiten
+- TOP 6.3.: Beschleunigung der Buslinie 152
+- TOP 6.4.: Sommercafe und Spieleaktionen für Kinder am Valleyspielplatz
+- TOP 6.5.: Einbeziehung der Parkflächen am Harras in das Parkraummanagement
+- TOP 6.6.: Notwendige Beschilderung des Fuß- und Radwegübergangs von der Albert-Roßhaupter-Str. in die Karwendelstr. - <div>Nachbesserungsbedarf durch KVR - nicht erledigt</div>
+- TOP 7.1.: Änderungen der BA-Satzung
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Flößergasse 2
+- TOP 8.3.: Bauvorhaben Bruderhofstr. 25 - 41
+- TOP 8.4.: Bauvorhaben Kidlerstr. 2
+- TOP 8.5.: Bauvorhaben Schmied-Kochel-Str. 20
+- TOP 8.6.: Bauvorhaben Brudermühlstr. 45
+- TOP 8.7.: Bauvorhaben Lindenschmitstr. 31
+- TOP 8.8.: Bauvorhaben Radlkoferstr. 2
+- TOP 8.9.: Bauvorhaben Plinganserstr. 57
+- TOP 8.10.: Bauvorhaben Daiserstr. 9
+- TOP 8.11.: Bauvorhaben Lipowskystr. 12a
+- TOP 8.12.: Bauvorhaben Lindwurmstraße 112
+- TOP 8.13.: Bauvorhaben Pfeuferstr. 37
+- TOP 8.14.: Bauvorhaben Implerstr. 10
+- TOP 8.15.: Bauvorhaben Ganghoferstr. 88
+- TOP 8.16.: Bauvorhaben Senserstr. 3
+- TOP 8.17.: Bauvorhaben Schöttlstr. 12
+- TOP 8.18.: Wettbewerb zur Bebauung des Grundstücks Plinganserstr. 27-31 und Kidlerstr. 34
+- TOP 8.19.: Wohnen in München V
+- TOP 9: Baureferat
+- TOP 9.1.: Straßenbauarbeiten Plinganserstraße / Lindwurmstraße
+- TOP 9.2.: Mehrjahresinvestitionsprogramm 2011 - 2015
+- TOP 9.3.: Widmung einer Teilstrecke des Max-Hirschberg-Weges
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Am Harras 3
+- TOP 10.2.: Baumfällung Karwendelstr. 1-3
+- TOP 10.3.: Baumfällung Aberlestraße / Danklstraße
+- TOP 10.4.: Baumfällung Fallstr. 7
+- TOP 10.5.: Naturdenkmalliste
+- TOP 10.6.: Fällung von Gefahrenbäumen im öffentlichen Raum
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Haushaltsplan 2012
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
