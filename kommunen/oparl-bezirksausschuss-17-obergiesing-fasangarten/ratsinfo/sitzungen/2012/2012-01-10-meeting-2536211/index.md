@@ -1,0 +1,98 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536211
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536211
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Bänke in der Watzmannstraße; Bürgerantrag vom 20.12.11
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 17 Obergiesing-Fasangarten; Einziehung einer Teilstrecke der Giesinger Bahnhofsstraße; Sitzungsvorlage Nr. 08-14 / V 08283; Beschluss des BA 17 vom 10.01.2012
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung von neuen Zeitungsverkaufseinrichtungen auf öffentlichem Grund (siehe Liste); Beschluss des BA 17 vom 10.01.2011
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Cincinnatistraße, Ecke Marklandstraße; Beschluss des BA 17 vom 10.01.2012
+- TOP 0.1.: Anhörungen zu Bauvorhaben TOP 5.1.3.1.1 Weißenseestr. 35; Neubau eines Pfarrzentrum; Anhörung vom 20.12.11 TOP 5.1.3.1.2 Untere Grasstraße 13; Abbruch des Bestandswohnhauses, Neubau zweier Stadthäuschen mit Duplexgarage; Anhörung vom 20.12.11 TOP 5.1.3.1.3 St.-Bonifatius-Str. 14; Aufteilung 2er DG-Wohnungen zu 4 Wohneinheiten; Anhörung vom 20.12.11 TOP 5.1.3.1.4 Kapellenfeldstr. 2; Neubau eines Doppelhauses / VORBESCHEID; Anhörung vom 19.12.11 TOP 5.1.3.1.5 Oberaudorfer Str. 1-15 / Scharfreiterstr. 1e-11 / Schwanseestr. 54-58; Aufstockung von Wohngebäuden u. Neubau von Nebengebäuden u. einer TG (83 Stpl.) - VORBESCHEID; Anhörung vom 13.12.11
+- TOP 0.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.1.1 SSW "PUB 21", Weinbauernstraße 12; Mitteilung vom 15.12.11
+- TOP 0.2.: Baufälle im 17. Stadtbezirk
+- TOP 0.3.: Maßnahmen zur Förderung des Wohnungstausches; BA-Antrag 08-14 / B 03267 des BA 9 vom 16.08.11; Abdruck des Antwortschreibens des Referats für Stadtpl. u. Bauordnung vom 12.12.11 mit der Bitte um Kenntnisnahme
+- TOP 0.4.: Wohnungspolitisches Handlungsprogramm "Wohnen in München V"; Wohnungsbauoffensive 2012 - 2016; Sitzungsvorlage Nr. 08-14 / V 08187; Hinweis/Ergänzung zum Beschluss der gemeinsamen Ausschüsse für Stadtpl. u. Bauordnung, des Kommunalausschusses, des Sozialausschusses u. d. Finanzausschusses vom 07.12.11 (VB)
+- TOP 0.5.: Bauvorhaben im Kommunalen Wohnungsbauprogramm; Liste im LHM-Intranet abrufbar: Standorte mit Baurechtserklärungen nach Stadtbezirken; Mitteilung des Sozialreferats vom 28.11.11
+- TOP 0.6.: Rettung der Kaskadenanlage im Ostfriedhof; BA-Antrag Nr. 08-14 / B 03488 vom 08.11.11; Zwischennachricht des RGU zum weiteren Vorgehen vom 30.11.11
+- TOP 0.7.: Mitteilung des Kommunalreferats vom 28.11.11 über ein Grundstücksgeschäft (Flst laut Liste - Erbbaurecht)
+- TOP 0.8.: Schwarzenbergstraße, Fl.Nr. 16176/109, Gemarkung Sektion VIII; Neubau eines Mehrfamilienhauses mit TG im geförderten Wohnungsbau - VORBESCHEID; Stellungnahme des BA 17 vom 14.12.11; Vorbescheid der Lbk vom 22.12.11
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Hort für die Schule an der Lincolnstraße; Bürgerschreiben vom 07.12.2011 (verwiesen aus der Sitzung vom 13.12.2011)
+- TOP 0.1.: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2011; Bau von Kunstrasenflächen auf städtischen Bezirkssportanlagen; Stadtratsantrag nr. 08-14 / A 01929; Sitzungsvorlage Nr. 08-14 / V 07818; Beschluss des Ausschusses für Bildung u. Sport des Stadtrats am 30.11.2011
+- TOP 0.1.: Stadtrat beschließt neues Essensversorgungskonzept - "Cook & Chill"-Verpflegung an Schulen u. Kindertageseinrichtungen; Abdruck eines Schreibens des BA 18 an das RBS vom 23.11.11 mit der Bitte um Kenntnisnahme u. ggf. Unterstützung
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: St.-Quirin-Straße - Haltverbot; Anhörung gem. § 13 der Satzung für die Bezirksausschüsse zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 19.12.11 mit der Bitte um Stellungnahme innerhalb 6 Wochen
+- TOP 0.1.: Verkehrssituation an der Kreuzung Tegernseer Landstraße / St.-Bonifatius-Straße; hier: Engstelle im Gehwegbereich Seite St.-Bonifatius-Straße; Schreiben des BA 17 vom 15.11.11; Antwortschreiben des KVR vom 06.12.11
+- TOP 0.2.: Entfernung der Plakatsäulen Ecke Tegernseer Landstraße / Chiemgaustraße aus Verkehrssicherheitsgründen; BA-Antrag Nr. 08-14 / B 03276 vom 12.07.11; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 30.11.11
+- TOP 0.1.: Zufahrt der Schulbusse zur geplanten Europäischen Schule im 17. Stadtbezirk; Antrag des UA Verkehr (vertagt aus der Sitzung vom 13.12.2011)
+- TOP 0.2.: Beantragung eines personenbezogenen Behindertenparkplatzes - Einzeichnung aller Behindertenparkplätze in der Umgebung; Antrag der CSU-Fraktion vom 28.12.11
+- TOP 0.3.: U-Bahn-Anzeigetafeln: Angabe der Minutenzahl für die nächste U-Bahn / deutlichere Anzeige ob Kurz- oder Langzug; Antrag der CSU-Fraktion vom 28.12.11
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau vom 30.11.11
+- TOP 0.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 5.4.4.2.1 Cincinnatistr. 31-55; Bescheid vom 14.12.11 5.4.4.2.2 Bantingstr. 11; Bescheid vom 21.12.11
+- TOP 0.3.: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) u. des Bayerischen Naturschutzgesetzes (BayNatSchG); Naturdenkmalverordnung vom 08.09.11 mit Naturdenkmalliste; Schreiben des Referats für Stadtplanung u. Bauordnung vom 30.11.11
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: Wirtstraße / Tegernseer Landstraße; 2 Eschen, 1 Ahorn; Anhörung vom 07.12.11
+- TOP 6.7.1.2.: Pennstraße; 1 Eiche, 1 Birke, 1 Fichte; Anhörung vom 27.12.11
+- TOP 6.7.1.3.: Amerstorfferstr. / Schwarzenbergstr.; 15 Bäume; Anhörung vom 27.12.11
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Haushaltsplan 2012 - Ansätze der zentralen Bereiche - Schlussabgleich Sitzungsvorlage Nr. 08-14 / V 08164; Beschluss des Finanzausschusses vom 13.12.2011 (VB)
+- TOP 7.2.: Änderung der Satzung für die Bezirksausschüsse der LHM 1. Vorberatungen in der BA-Satzungskommission vom 04.10.11 2. Umsetzung der Empfehlungen in eine Änderungssatzung sowie Änderung des Anhangs 1 zur BA-Satzung (Beteiligung durch die SWM GmbH) Beschluss der Vollversammlung des Stadtrats vom 23.11.11
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
