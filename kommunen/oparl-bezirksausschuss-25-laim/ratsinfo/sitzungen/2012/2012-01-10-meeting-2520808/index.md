@@ -1,0 +1,120 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-01-10T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2520808
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2520808
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Einrichtung einer Zone 30 in der Gotthardstraße von der Willibaldstraße bis (mindestens) zur Stroblstraße
+- TOP 1.2.2.: Erstellung Zebrastreifen in der Elsenheimerstr. 45
+- TOP 2: Anträge
+- TOP 2.1.: SPD: Interimslösungen für Kinderbetreuung
+- TOP 2.2.: SPD: Verbesserung der Querungsmöglichkeiten für Fußgänger an der Ostseite der Kreuzung Landsberger Straße / Elsenheimerstraße / Friedenheimer Brücke
+- TOP 2.3.: SPD: Einrichtung eines Zweirichtungsradweges auf der westllichen Seite der über die Lindauer Autobahn A 96 führenden Westendstraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - Zeitungsentnahmekästen) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Aindorferstr. 86, Landsberger Str. 290a, Westendstr. 174, Zschokkestr. 36, Zschokkestr. 70
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - Zeitungsentnahmekästen) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Wotanstr. 1
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 25.11.11: Verkehrsrechtliche Anordnung Westendstraße; Beschilderung mit Gefahrenzeichen "Kinder" und Zusatzzeichen "Schule"
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 01.12.11: Ausweichstelle für den Linienbusverkehr in der Senftenauerstraße
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 07.12.11: Haltverbote in der Agnes-Bernauer-Straße
+- TOP 4.4.: Schreiben Referat für Gesundheit und Umwelt vom 06.12.11: Fluglärm über Laim und dem westlichen München (Empfehlung Nr. 08-14 / E 01146 der Bürgerversammlung vom 15.11.11); Anhörung zu einer Beschlussvorlage für den Umweltausschuss am 31.01.11
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 12.12.11: Flohmarkt am 04.05.12 auf dem Spielplatz Ecke Von-der-Pfordten-Straße / Valpichlerstraße
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 12.12.11: Flohmarkt am 31.03.11 auf dem Hogenbergplatz
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 13.12.11: Situation der Radfahrer in der Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Lutz- bzw. Ossietzkystraße (Schreiben BA vom 22.06.11)
+- TOP 4.8.: Schreiben Referat für Arbeit und Wirtschaft vom 08.12.11: Beschleunigung der Buslinie 152 und Aufwertung zur Metrobuslinie; Anhörung zu einer Beschlussvorlage für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss am 24.01.12
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 16.12.11: Open-Air-Gottesdienst mit Gospelkonzert / Pfingstfeuer am 28.06.12 auf dem Laimer Anger
+- TOP 4.10.: Dauerbelegung der Parkplätze in der Hans-Thonauer-Straße durch ganzjähriges Abstellen von Wohnmobilen, Wohnmobilanhängern und sonstigen Anhängern (Schreiben BA vom 15.09.11)
+- TOP 4.11.: Schreiben Kreisverwaltungsreferat vom 22.12.11: Osterfeuerfeier am Laimer Anger am 08.04.12
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Landsberger Str. 240: Neubau eines Autozentrums mit Tiefgarage
+- TOP 5.2.: Von-der-Pfordten-Str. 38: Abbruch einer Garage und Neubau eines Einfamilienhauses mit Garage
+- TOP 6: Sonstiges
+- TOP 6.1.: Ergebnisse aus dem vergangenen "18.jetzt" am 08.10.11
+- TOP 6.2.: Projekt "Kinderort im Stadtteil sichtbar machen - Spielorte (neu) entdecken"; Rückmeldungen mit Handlungsbedarf
+- TOP 6.3.: Schreiben Planungsreferat vom 14.12.11: Langfristige Siedlungsentwicklung; Einladung zum Zukunftskongress am 02. und 03.02.12
+- TOP 6.4.: Schreiben Kommunalreferat vom 19.12.11: Terminvorankündigung; Informationsaustausch mit dem Kommunalreferat am 22.03.12
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sondersitzung vom 22.11.11
+- TOP 7.2.: BA-Sitzung vom 06.12.11
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 23.11.11. Lichtzeichenanlage Friedenheimer Brücke / Landsberger Straße / Elsenheimer Straße; Erreichbarkeit des S-Bahnhofes Hirschgarten (Schreiben BA vom 15.11.11)
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 06.12.11: Anzeige einer Versammlung unter freiem Himmel am 12.12.11 am Spielplatz Joergplatz
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 12.12.11: Ausweisung des über die Fürstenrieder Straße führenden Radweges auf der Südseite der Landsberger Straße (Laimer Kreisel) als Zweirichtungs-Radweg (BA-Antrag Nr. 08-14 / B 03450 vom 08.11.11)
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 15.12.11: Ausstattung der Lichtzeichenanlage an der Kreuzung Gotthardstraße / Fürstenrieder Straße mit einem taktil-akustischen Signal (BA-Antrag Nr. 08-14 / B 03445 vom 08.11.11)
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 18.11.11: Friedenheimer Brücke: Einrichtung einer Haltezone zum Ein- und Ausstieg; Neueinrichtung eines Taxistandplatzes; Haltverbot in den Haltestellenbereichen; verkehrsrechtliche Anordnung
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 20.12.11: Überprüfung der Freischankfläche vor der Gaststätte "Dillinger" am Laimer Platz 2 (BA-Antrag Nr. 08-14 / B 03443 vom 08.11.11)
+- TOP 8.9.: Schreiben Kreisverwaltungsreferat vom 02.09.11: Aufhebung der Radwegbenutzungspflicht in der Von-der-Pfordten-Straße
+- TOP 8.10.: Schreiben Kreisverwaltungsreferat vom 23.12.11: Gaststätte "1001 Nacht", Landsberger Str. 200; unveränderte Fortführung
+- TOP 8.11.: Schreiben Planungsreferat vom 21.11.11: Berchemstr. 14; Fällungsantrag vom 11.10.11
+- TOP 8.12.: Schreiben Planungsreferat vom 30.11.11: Einzelfällungsantrag Friedenheimer Str. 14-16
+- TOP 8.13.: Schreiben Planungsreferat vom 30.11.11: Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG); Naturdenkmalverordnung vom 08.09.11 mit Naturdenkmalliste
+- TOP 8.16.: Schreiben Planungsreferat vom 14.12.11: Landsberger Str. 214: Neubau eines gewerblich genutzten Gebäudes mit Freizeit- und Vergnügungsstätten (4 Spielotheken und 4 Spielhallen) sowie 41 Stellplätze
+- TOP 8.17.: Schreiben Planungsreferat vom 16.12.11: Valpichlerstr. 11; Fällungsantrag vom 24.10.11
+- TOP 8.18.: Schreiben Planungsreferat vom 20.12.11: Planfeststellungsverfahren nach dem Personenbeförderungsgesetz; Neubau eines Wendedreiecks der Stadtwerke München GmbH in München im Bereich des Knotens Westendstraße / Zschokkestraße / Tübinger Straße; Plangenehmigung einer Tektur
+- TOP 8.19.: Schreiben Baureferat vom 21.11.11: Unterrichtung über das Fällen von Gefahrenbäumen; Burgkmairstraße, Altmann- / Westendstraße, Grünanlage Hans-Thonauer- / Zschokkestraße, Grünanlage Sigl- / Brantstraße, Grünanlage Burgerplatz etc.
+- TOP 8.20.: Schreiben Baureferat vom 22.11.11: Unterrichtung über das Fällen von Gefahrenbäumen; Schule Camerloherstr. 110 und Droste-Hülshoff-Str. 5
+- TOP 8.22.: Schreiben Baureferat vom 28.11.11: Grünanlage vor Gotthardstr. 65-67 / Laimer Platz; Rückschnitt von Bäumen und Sträuchern (Schreiben BA vom 15.11.11)
+- TOP 8.23.: Schreiben Baureferat vom 29.11.11: Weiterführung der U 5 nach Pasing (Empfehlung Nr. 08-14 / E 01145 der Bürgerversammlung vom 15.11.11)
+- TOP 8.24.: Schreiben Baureferat vom 30.11.11: Straßenreinigung im Umfeld der U-Bahnhöfe Laimer Platz und Friedenheimer Straße sowie Beseitigung der seit langem abgestellten "Schrottfahrräder" (Schreiben BA vom 15.11.119
+- TOP 8.26.: Schreiben Baureferat vom 23.12.11: Erhöhung der Randsteinkante des Fußgängerüberweges an der westlichen Seite der Kreuzung Fürstenrieder Straße / Landsberger Straße (Antrag Nr. 08-14 / B 03446 vom 08.11.11)
+- TOP 8.27.: Schreiben Referat für Gesundheit und Umwelt vom 22.11.11: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München
+- TOP 8.28.: Schreiben Referat für Gesundheit und Umwelt vom 29.11.11: Flyer Infoabende Januar bis April 2012
+- TOP 8.29.: Schreiben Referat für Gesundheit und Umwelt vom 12.12.11: Fluglärm / Hubschrauberlärm über Laim (Schreiben BA vom 15.11.11)
+- TOP 8.30.: Schreiben Referat für Gesundheit und Umwelt vom 21.12.11: Einladung zum Fachforum "Knappe Rohstoffe - Ressourchen-Effizienz: Baustoffe der Zukunft am 25.01.12"
+- TOP 8.31.: Schreiben Sozialreferat vom 28.11.11: Bauvorhaben im Kommunalen Wohnungsbauprogramm; Liste im LHM-Intranet abrufbar: Standorte mit Baurechtsklärung nach Stadtbezirken
+- TOP 8.32.: Schreiben Sozialreferat vom 15.12.11: Unterlagen zur Veranstaltung "Ergebnisse zur REGSAM-Arbeit in den Gebieten mit besonderem Handlungsbedarf"
+- TOP 8.33.: Schreiben Referat für Bildung und Sport vom 09.11.11: Auskunft über den energetischen Zustand der Gebäude des Referates für Bildung und Sport / Zentrales Immobilienmanagement im Stadtbezirk Laim (Antrag Nr. 08-14 / B 03076 vom 07.06.11)
+- TOP 8.34.: Schreiben Referat für Bildung und Sport vom 28.11.11: Die "Leitlinie Bildung" - Teil des Stadtentwicklungskonzeptes Perspektive München
+- TOP 8.35.: Schreiben Referat für Bildung und Sport vom 07.12.11: Sicherung des Grundstücks Agnes-Bernauer-Straße, Flurstück Nr. 47, Gemarkung Laim, für schulische Zwecke der Grund- und Hauptschule an der Fürstenrieder Straße (Erweiterungsbau) (Antrag Nr. 08-14 / B 02879 vom 05.04.11 bzw. Schreiben BA vom 31.08.11)
+- TOP 8.37.: Schreiben Referat für Arbeit und Wirtschaft vom 23.11.11: Versetzen des Briefkastens an der Fürstenrieder Straße 30 (BA-Antrag Nr. 08-14 / B 03444 vom 08.11.11)
+- TOP 8.38.: Schreiben Referat für Arbeit und Wirtschaft vom 30.11.11: Wirtschafts-Info 11/2011
+- TOP 8.39.: Schreiben Referat für Arbeit und Wirtschaft vom 15.12.11: Europe Direct Informationen 08/2011
+- TOP 8.40.: Schreiben Referat für Arbeit und Wirtschaft vom 22.12.11: Wirtschafts-Info 12/2011
+- TOP 8.42.: Schreiben MVG vom 19.12.11: Information über Betriebskonzept während der Schienenschleifarbeiten vom 15. mit 19.01.12
+- TOP 8.43.: Schreiben Stadtkämmerei vom 02.12.11: Unterlagen für die Beratung und Verabschiedung des Haushaltsplanentwurfs 2012
+- TOP 8.44.: Bautenliste vom 21.11. - 27.11.11 1. Erstantragsverfahren a) Lautensackstr. 9 b) Landsberger Str. 240 c) Hönlestr. 60 d) Burgkmairstr. 9 e) Von-der-Pfordten-Str. 38
+- TOP 8.45.: Bautenliste vom 28.11.-04.12.11 1. Erstantragsverfahren a) Berchemstr. 32 b) Pronnerplatz 10 c) Elsenheimerstr. 28
+- TOP 8.46.: Bautenliste vom 05.12.-11.12.11 1. Erstantragsverfahren a) Fröbelplatz 13 b) Westendstr. 174
+- TOP 8.47.: Bautenliste vom 12.12.-18.12.11 1. Erstantragsverfahren a) Friedenheimer Str. 104
+- TOP 8.48.: Schreiben Stadtwerke München GmbH vom 28.11.11: Baumaßnahmen der Stadtwerke; Stichtag: 28.11.11
+- TOP 8.49.: Schreiben Stadtwerke München GmbH vom 05.12.11: Baumaßnahmen der Stadtwerke; Stichtag: 05.12.11
+- TOP 8.50.: Schreiben Stadtwerke München GmbH vom 12.12.11: Baumaßnahmen der Stadtwerke; Stichtag: 12.12.11
+- TOP 8.51.: Schreiben Stadtwerke München GmbH vom 19.12.11: Baumaßnahmen der Stadtwerke; Stichtag: 19.12.11
+- TOP 8.52.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 09.11.11: Perspektive München; Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung (Sitzungsvorlagen Nr. 08-14 / V 07948)
+- TOP 8.53.: Ergänzende Vorlage zum Beschluss des Bauausschusses vom 15.11.11: ÖPMV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern, Untersuchungsergebnisse und weiteres Vorgehen (Sitzungsvorlagen Nr. 08-14 / V 04822)
+- TOP 8.54.: Beschluss des Kulturausschusses vom 17.11.11: Mehrjahresinvestitionsprogramm des Kulturreferates für die Jahre 2011-2015 und Stellungnahme zu den Anregungen der Bezirksausschüsse (Sitzungsvorlagen Nr. 08-14 / V 08031)
+- TOP 8.55.: Beschluss der Vollversammlung vom 23.11.11: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Sitzungsvorlagen Nr. 08-14 / V 07993)
+- TOP 8.56.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 29.11.11: Haushaltsplan 2012; Produkt- und zielorientierte Ansätze für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlagen Nr. 08-14 / V 07911)
+- TOP 8.57.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.11: 2. Stammstrecke; Vorfinanzierung durch die LH München (Sitzungsvorlagen Nr. 08-14 / V 08192)
+- TOP 8.58.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.11: Zukunft des geförderten Wohnungsbaus in München (Sitzungsvorlagen Nr. 08-14 / V 08223)
+- TOP 8.59.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.12.11: Wohnungsmarkt München - Expertenbefragung 2011, Wohnungsmarktbarometer 2011 (Sitzungsvorlagen Nr. 08-14 / V 08216)
+- TOP 8.60.: Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11: Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016 (Sitzungsvorlagen Nr. 08-14 / V 08187)
+- TOP 8.61.: Hinweis / Ergänzung vom 30.11.11 zum Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11: Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016 (Sitzungsvorlagen Nr. 08-14 / V 08187)
+- TOP 8.62.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11: Münchner Bürgerinnen- und Bürgerbefragung 2010 (Sitzungsvorlagen Nr. 08-14 / V 08020)
+- TOP 8.63.: Schreiben BA 1 Altstadt-Lehel vom 09.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamts; ggf. Ausweitung und Aufstockung (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.64.: Schreiben BA 2 Ludwigsvorstadt-Isarvorstadt vom 15.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.65.: Schreiben BA 3 Maxvorstadt vom 07.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.66.: Schreiben BA 8 Schwanthalerhöhem vom 19.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.67.: Schreiben BA 9 Neuhausen-Nymphenburg vom 19.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.68.: Schreiben BA 10 Moosach vom 13.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.69.: Schreiben BA 13 Bogenhausen vom 20.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.70.: Schreiben BA 15 Trudering-Riem vom 16.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.71.: Schreiben BA 18 Untergiesing-Harlaching vom 23.11.11: Stadtrat beschließt neues Essensversorgungskonzept - "Cool & Chill" - Verpflegung; keine Befassung der Bezirksausschüsse - Protest des BA 18 aus der Sitzung am 15.11.11
+- TOP 8.72.: Schreiben BA 20 Hadern vom 14.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.73.: Schreiben BA 21 Pasing-Obermenzing vom 27.12.11: Information zur Auslastung der Ferienangebote des Stadtjugendamtes; ggf. Ausweitung und Aufstockung der Ferienangebote (Antrag Nr. 08-14 / B 03442 des BA 25 vom 08.11.11)
+- TOP 8.74.: Schreiben LILALU e.V. vom 02.12.11: LILALU Geschäftsbericht; Kurzbericht über die Verwendung des Budgetzuschusses
+- TOP 8.75.: Schreiben Kultur- und WohnWerkstatt vom 28.11.11: Rundbrief mit Umfrage an alle Münchner BAs zum Thema "Urbanes Naturnetz für ganz München! Neue Grüne Achsen nach dem Motto des Baureferates "Grünzüge in Fahrt bringen!""
+- TOP 8.76.: Schreiben Mieterbeirat der LH München vom 13.12.11: Protokoll des Mietertages vom 24.11.11
+- TOP 8.77.: Schreiben Bayerische Landesschule für Gehörlose vom 16.12.11: Information zum Ende der Bayerischen Landesschule für Gehörlose
+- TOP 8.78.: Münchner Statistik; 2. Quartalsheft, Jahrgang 2011
+- TOP 8.79.: Schriftverkehr aus der BA-Sitzung vom 06.12.11
+- TOP 1.2: Bürgerpost an den BA
