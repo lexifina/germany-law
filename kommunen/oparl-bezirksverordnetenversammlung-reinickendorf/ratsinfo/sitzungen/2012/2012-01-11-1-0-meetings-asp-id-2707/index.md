@@ -1,0 +1,53 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-01-11T17:05:00+01:00
+- Ende: 2012-01-11T19:30:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2707
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2707
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=53983
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - in der BVV abgelehnt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 4. Sitzung der BVV am 11.01.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 4. Sitzung der BVV am 11.01.2012 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 4. Sitzung der BVV am 11.01.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Aufstellung des Bebauungsplanes 12-39B - überwiesen
+- TOP 7.2: Aufstellung des Bebauungsplanes 12-36B - überwiesen
+- TOP 7.3: Erweiterung des Geltungsbereiches des Bebauungsplanentwurfs XX-256 - überwiesen
+- TOP 7.4: Aufstellung des Bebauungsplanes 12-41B - überwiesen
+- TOP 7.5: Aufstellung des Bebauungsplanes 12-40B - überwiesen
+- TOP 7.6: Aufstellung des Bebauungsplanes 12-42 B - überwiesen
+- TOP 7.7: Einrichtung einer Gemeinschaftsschule (Modellversuch) am Standort der Hannah-Höch- und der Greenwich-Schule - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Straßenbaumaßnahmen in Reinickendorf - beantwortet
+- TOP 8.2: Straßenausbau Ruppiner Chaussee - beantwortet
+- TOP 8.3: Mehrkosten aus Gesamtvertrag zu § 53 UrhG für Schulen im Bezirk - zurückgezogen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Wahl von Bürgerdeputierten in den Jugendhilfeausschuss - gewählt
+- TOP 11.2: Temporären Ausschuss für transparente und moderne Öffentlichkeitsarbeit öffentlich machen - in der BVV abgelehnt
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Förderung des Ehrenamtes in den bezirklichen Jugendeinrichtungen - überwiesen
+- TOP 12.2: Liste laufender und geplanter Baumaßnahmen im öffentlichen Straßenland des Bezirks - überwiesen
+- TOP 12.3: Schulverpflegung - überwiesen
+- TOP 12.4: Gehwegvorstreckung im Bereich Kreuzung Treskowstraße / Schlieperstraße prüfen - überwiesen
+- TOP 12.5: Planlos in die Zukunft? - überwiesen
+- TOP 12.6: Teilnahme an der Woche der Demokratie - überwiesen
+- TOP 12.7: Ausstellung "Kinder haben Rechte" ins Rathaus Reinickendorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Fußgängerampel am Südaufgang des S-Bahnhofs Waidmannslust - überwiesen
+- TOP 13.2: Angemessenes Gedenken an Harald Poelchau - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Fahrradampel Hermsdorfer Damm / Waidmannsluster Damm - überwiesen
