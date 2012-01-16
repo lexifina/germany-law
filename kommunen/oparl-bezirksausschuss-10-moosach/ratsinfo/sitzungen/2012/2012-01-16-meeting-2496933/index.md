@@ -1,0 +1,96 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2012-01-16T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2496933
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2496933
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Kurzparkzone in der Bingener Straße vor ?Norma?
+- TOP 2.2.: Eindämmung des Abstellens von Fahrzeugen auf den Gehwegen im Bereich der Feldmochinger Straße
+- TOP 2.3.: Verkehrsprobleme Untere Krautsstr. / Dresdner Straße
+- TOP 2.4.: ?LernCampus? Baubergerstraße
+- TOP 2.5.: Habib's Imbiss Unterschriftenaktion
+- TOP 2.6.: Gaslager Air Liquide
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: LKW-Parken Am Neubruch
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: BA-Schaukästen am Moosacher Stachus und am Moosacher St.-Martins-Platz
+- TOP 4.2.: Grünplanung der Gebäudevorhaben Bunzlauer Str. / Baubergerstr.
+- TOP 4.3.: Informationsveranstaltung Notrufsäulen in der U-Bahn
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Gehweg Bushaltestelle OEZ Ost
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: Bericht über derzeitige Belastung des Stadtbezirks 10 durch den Flughafen München und über die zu erwartenden Auswirkungen bei Bau der geplanten dritten Start- und Landebahn
+- TOP 4.4: Anträge der F.D.P.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse AWO Schulsozialarbeit Haldenberger Hauptschule Theater-AG ab 20.01.12 bis Juli 2012
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Moosacher Faschingsclub e.V. Kostüme und Jubiläums-Nadel für den Fasching 2011/2012
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB: Warenstellage Dachauer Str. 258
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB: Mobiler Fahrradständer Dachauer Str. 409 A
+- TOP 6: Anhörungen
+- TOP 6.1.: Nachbarschaftstreff Lauinger Straße ? Veränderungen in 2012
+- TOP 6.2.: Haltverbot im Wendehammer Brieger Straße
+- TOP 6.3.: Einrichtung von Kurzparkplätzen in der Pelkovenstraße Nordseite zwischen Dresdner Straße und Hirschstraße
+- TOP 6.4.: Nutzung des Simmerleinplatzes am 10.02. und 12.05.2012
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Aufstellung von Pollern in der Bunzlauer Straße vor Hausnummer 19 (Antrag Nr. 08-14 / B 03313)(wird vom Baureferat abgelehnt)
+- TOP 7.2.: Abmarkierung von Parkplätzen im Bereich Untere Krautstr. 23, 25 und 27 (Antrag Nr. 08-14 / B 03207) (wird durchgeführt)
+- TOP 7.3.: Pelkovenstr. 63: Sanierung und Umbau eines Wohn- und Geschäftshauses mit Bäckerladen und Anbau von 2 Wohnungen
+- TOP 7.4.: Öffnung der Gubestr. zwischen Bauberger- und Bunzlauer Straße für Radfahrer in beiden Richtungen (Antrag Nr. 08-14 / B 03491) (lt. Bebauungsplan ist Rad- und Fußweg vorgesehen)
+- TOP 7.5.: S-Bahn Moosach ? Hinweis auf Zugänge zur U-Bahn (Antrag Nr. 08-14 / B 02706) (lt. DB wurde Beschilderung angepasst)
+- TOP 7.6.: Reinigung der Unterführung am Moosacher Bahnhof sowie in anderen Bereichen (es konnte keine übermäßige Verschmutzung festgestellt werden)
+- TOP 7.7.: Beschilderung Kiss- und Ride-Platz Memminger Platz (Verkehrsschild nach alter Form wurde angebracht)
+- TOP 7.8.: Sicherung des Fußgängerüberweges über die Tramgleise in Höhe Bunzlauer Straße (KVR sieht keinen Beschilderungsbedarf)
+- TOP 7.9.: Einrichtung von Kurzparkplätzen in der Pelkovenstraße zwischen Moosacher St.-Martins-Platz und Feldmochinger Straße (Antrag Nr. 08-14 / B 03401) (Beschilderung wurde vorgenommen)
+- TOP 7.10.: Unterführung Memminger Platz ? Bunzlauer Straße (Umlaufsperren werden wieder angebracht; Mittelteiler sind nicht vorgesehen)
+- TOP 7.11.: Verbesserung der Signalisierung für Radfahrer an der Kreuzung Wintrichring / Nederlinger Straße (Antrag 08-14 / B 03359) (Zwischennachricht)
+- TOP 7.12.: Abfahrtszeiten der Buslinie 143 an der Haltestelle Amphionpark (Antrag aus der Einwohnerversammlung für Kinder- und Jugendliche)(Änderung lt. MVG nicht möglich)
+- TOP 7.13.: Ampelanlage Torgauer Straße / Feldmochinger Straße (Umplanung ist aufwendig und zeitintensiv)
+- TOP 7.14.: Schulweg und Kindergartensituation im Bereich Leipziger Straße / Chemnitzer Platz (LKW-Parkverbot sowie Anfahrtszone vor dem Kindergarten St. Martin wurden angeordnet)
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Mitteilung über ein Grundstücksgeschäft: Glogauer Str. 35, 37, 39
+- TOP 8.4.: Bauvorhaben im Kommunalen Wohnungsbauprogramm (Liste im LHM-Intranet abrufbar)
+- TOP 8.5.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen im gesamten Stadtgebiet München (Arbeiten zwischen 20.00 Uhr und 05.00 Uhr gestattet)
+- TOP 8.6.: Drehgenehmigung ?Aktenzeichen XY...ungelöst) vom 01.01.12 bis 31.12.12 im gesamten Stadtgebiet (Drehaufnahmen ohne Verkehrsbehinderungen, Fahraufnahmen)
+- TOP 8.7.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: ?Nova im Postsportpark?, Franz-Mader-Str. 11
+- TOP 8.8.: Fällung von Gefahrenbäumen
+- TOP 8.9.: Einbindung der Bezirksausschüsse beim neuen Essensversorgungskonzept an Schulen und Kindertageseinrichtungen (Antrag des BA 18 Untergiesing - Harlaching)
+- TOP 8.10.: Naturdenkmalverordnung vom 08.09.2011 mit Naturdenkmalliste
+- TOP 8.11.: Zweckentfremdung von Wohnraum: a) Weidmannstraße b) Hirschstraße
+- TOP 8.12.: Neuer Gewerbehof Nord
+- TOP 8.13.: Freigabe Radweg Pelkovenstraße
+- TOP 8.14.: Haltverbot in der Rathgeberstraße Ecke Donauwörther Straße
+- TOP 8.15.: PKW-Parkzone Hanauer Str. 15
+- TOP 8.16.: Information über Betriebskonzepte während der Schienenschleifarbeiten und eingleisigen Verkehre im Januar 2012
+- TOP 8.17.: Erweiterung Mobilfunkanlagen (nicht-öffentlich)
+- TOP 8.18.: Protokoll des Mietertages vom 24.11.11
+- TOP 8.19.: Investitionskostenzuschuss für Kinderkrippe Feldmochinger Str. 14 a (Vorlage Nr. 08-14 / V 8288)
+- TOP 8.20.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG?Wohnungen (Vorlage Nr. 08-14 / V 8373)
+- TOP 8.21.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V? (Ergänzung vom 30.11.11) (Vorlage Nr. 08-14 / V 8187)
+- TOP 8.22.: Preis für Stadtbildpflege ? Wettbewerb ?Denkmalschutz und Neues Bauen? (Vorlage Nr. 08-14 / V 8371)
+- TOP 8.23.: Neubau einer 4-gruppigen Kinderkrippe Donaustauferstraße; Verwaltungsinterne Erteilung des Projektauftrags und der Projektgenehmigung
+- TOP 8.24.: Bachräumungstermine 2012 für die Stadt- bzw. Stadtrandbäche
+- TOP 8.25.: Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2011 (Vorlage Nr. 08-14 / V 7818)
+- TOP 8.26.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012 (Vorlage Nr. 08-14 / V 8324) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.27.: Schüler/-innen und Klassenstand Berufliche Schulen (Vorlage Nr. 08-14 / V 8195) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.28.: Schüler- und Klassenzahlen an den städtischen Realschulen (Vorlage Nr. 08-14 / V 8217) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.29.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien (Vorlage Nr. 08-14 / V 8196) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.30.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München (Vorlage Nr. 08-14 / V 7993) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.31.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfs 2012 (Vorlage Nr. 08-14 / V 8164) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.32.: Mehrjahresinvestitionsprogramm Baureferat (Vorlage Nr. 08-14 / V 7979) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
