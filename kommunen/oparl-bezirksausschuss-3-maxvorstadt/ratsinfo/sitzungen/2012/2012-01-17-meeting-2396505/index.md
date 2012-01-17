@@ -1,0 +1,119 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2396505
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2396505
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Bürgerschreiben vom 27.12.2011 Ampelschaltung Gabelsbergerstraße: Wiederherstellung der ?Grünen Welle? (s. TOP C 2.1.6)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 47., 48., 49., 50., 51., 52. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 2.1.3.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Wittelsbacherplatz ? Finkenstraße ? Jägerstraße ? Kardinal-Döpfner-Straße Anhörung zum Aufstellungsbeschluss vom 30.11.2011 im Rahmen der Beteiligung der Träger öffentlicher Belange
+- TOP 2.1.4.: Vollzug der Baumschutzverordnung Nymphenburger Straße 43, Umbau und Erweiterung einer Augenklinik (s. TOP B 2.2.4)
+- TOP 2.1.5.: Vollzug der Baumschutzverordnung Karlstraße 47 a, Neubau eines Wohn- und Geschäftshauses (s. TOP B 2.2.5)
+- TOP 2.1.6.: Bauvorhaben Augustenstraße 57, Neubau einer Wohnanlage mit Kleingarage
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Rambergstr. 8, eine Robinie
+- TOP 2.2.2.: Akademiestraße 4, eine Rotbuche, (eine Rotbuche Baumveränderungen)
+- TOP 2.2.3.: Akademiestraße 4, ein Spitzahorn, eine Rosskastanie
+- TOP 2.2.4.: Vollzug der Baumschutzverordnung Nymphenburger Straße 43, Umbau und Erweiterung einer Augenklinik (s. TOP B 2.1.4)
+- TOP 2.2.5.: Vollzug der Baumschutzverordnung Karlstraße 47 a, Neubau eines Wohn- und Geschäftshauses (s. TOP B 2.1.5)
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Ladezone Brienner Straße 45/Augustenstraße 24
+- TOP 2.1.2.: Marlene-Dietrich-Straße: Anfahrtszone vor Kinderkrippen vertagt aus der Sitzung vom 06.12.2011
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Ladezone auf der Südseite der Marsstraße unmittelbar westlich der Hopfenstraße
+- TOP 2.1.4.: entfällt, s. TOP F 2.10 d)
+- TOP 2.1.5.: Kreisverwaltungsreferat, Verkehrsmanagement Aufhebung der bestehenden Ladezone in der Gabelsbergerstraße 54 BA-Antrag Nr. 08-14 / B 03459 des BA 3 vom 08.11.2011
+- TOP 2.1.6.: Bürgerschreiben vom 27.12.2011 Ampelschaltung Gabelsbergerstraße: Wiederherstellung der ?Grünen Welle? (s. TOP A.5.2.1)
+- TOP 2.1.7.: Kreisverwaltungsreferat, Verkehrsmanagement Erweiterung der Tempo-30-Zone Oskar-von-Miller-Ring/Kardinal-Döpfner-Straße/ Finkenstraße (Ost/West) um die Jägerstraße und den in Nord-Süd-Richtung verlaufenden Teil der Finkenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.2.: Aufstellung einer Litfaßsäule mit integrierter Toilette am Maßmannspielplatz BA-Antrag Nr. 3004 des BA 3 vom 10.05.2011 Ergebnis des Ortstermins vom 03.12.2011 - Standortsuche
+- TOP 2.2.3.: Kreisverwaltungsreferat, Sondernutzungserlaubnis Türkenstraße 16, mobiler Fahrradständer
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Sondernutzungserlaubnis, Erweiterung einer bestehenden Frei- schankfläche, Veterinärstraße 4
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 3. Radlnacht am 26.05.2012 mit Start am Odeonsplatz/Ludwigstraße
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Festakt zur Grundsteinlegung NS-Dokumentationszentrum am 09.03.2012
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Interessenbekundung an der Erstellung eines Stadtteilplanes für Senioren mit Unterstützung des Referates für Gesundheit und Umwelt Anfrage des Bezirksausschusses 2 Ludwigsvorstadt-Isarvorstadt vom 25.11.2011
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Treehouse e.V. Beschaffung von Bastelmaterial, Spielsachen und Möbel
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Türkenstraße 68 Projekt "Kinder treffen Künstler" im Mai/Juni 2012
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.2.: (E) Budget der Bezirksausschüsse "UKRAINA"-Gesellschaft e.V. München Konzertveranstaltung am 18.12.2011
+- TOP 3: (E) Errichtung eines "offenen Bücherschrankes" Empfehlung Nr. 08-14 / E 01123 der Bürgerversammlung des Stadtbezirkes 03 - Maxvorstadt am 20.10.2011
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Wohnungspolitisches Handlungsprogramm ?Wohnen in München V? Wohnungsbauoffensive 2012 ? 2016 Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommu nalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011 Sitzungsvorlagen Nr. 08-14 / V 08187
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage 2. Stammstrecke, Vorfinanzierung durch die Landeshauptstadt München Beschluss des ausschusses für Stadtplanung und Bauordnung vom 30.11.2011 Sitzungsvorlage Nr. 08-14 / V 08192
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Wohnungsmarkt München ? Expertenbefragung 2011, Wohnungsmarktbarometer 2011 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung am 07.12.2011 Sitzungsvorlage Nr. 08-14 / V 08216
+- TOP 1.4.: Baureferat, Tiefbau, Schreiben vom 23.11.2011 Begrünung der Karlstraße zwischen Seidl- und Pappenheimstraße Empfehlung Nr. 08-14 / E 00810 der BV des BA 3 vom 09.12.2010
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde Vollzug des Bundesnaturschutzgesetzes (BNatSchG) und des Bayerischen Naturschutzgesetzes (BayNatSchG): Naturdenkmalverordnung vom 08.09.2011 mit Naturdenkmalliste
+- TOP 1.6.: Baureferat Gartenbau Unterrichtung über das Fällen von Gefahrenbäumen in öffentlichen Grün- und Freiflächen
+- TOP 1.7.: Sozialreferat, Soziale Wohnraumförderung Bauvorhaben im Kommunalen Wohnungsbauprogramm Liste im LHM-Intranet abrufbar: Standorte mit Baurechtsklärungen nach Stadtbezirken
+- TOP 1.8.: Baureferat, Gartenbau, Baumschutzverordnung Unterrichtungen über das Fällen von Gefahrbäumen
+- TOP 1.9.: Baureferat Tiefbau Begrünung der Neureutherstraße durch ein paar wenige Blickfänge (Bürgerversammlungsempfehlung Nr. 08-14/E 00176 vom 13.12.2008) Antwort auf die Nachfrage des BA vom 09.12.2011
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Preis für Stadtbildpflege ? Wettbewerb ?Denkmalschutz und Neues Bauen?; -Erweiterung der Wettbewerbskriterien -zeitliche Stsreckung: Wechsel von dreijährigen und vierjährigen Turnus -Ergänzung der Wettbewersbezeichnung Beschluss des Ausschusses für Stadtplanung und Bauordnung am 11.01.2012 Sitzungsvorlage Nr. 08-14 / V 08371
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baureferat, Beschlussvorlage Schleißheimer Straße zwischen Elisabethsstraße und Maßmannstraße Kurzfristige Begrünung der Schleißheimer Straße zwischen Georgenstraße und Heßstraße Empfehlung Nr. 08-14 / E 00467 der BV des BA 3 am 19.11.2009 Beschluss des Bauausschusses vom 15.11.2011 Sitzungsvorlage Nr. 08-14 / V 07413
+- TOP 2.2.: Referat für Gesundheit und Umwelt, Immissionsschutz Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) und der Geräte- und Maschinen- schutzverordnung (32. BimSchv); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV; Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhjöfen im gesamten Stadtgebiet
+- TOP 2.3.: Baureferat, Tiefbau, Beschlussvorlage ÖPNV-Offensive IV: Ein- und austieg an Bushaltestellen verbessern, Untersuchungser- gebnisse und weiteres Vorgehen Ergänzende Vorlage zum Beschluss des Bauausschusses vom15.11.2011 Sitzungsvorlage Nr. 08-14 / V 04822
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsanordnungen Vollzug der Grünanlagensatzung vom 12.08.1991: Ausnahmebewilligung für eine Baustelleneinrichtung an der Ottostraße (Eschenanlage) für die Generalsanierung der IHK München (05.12.2011 ? 31.10.2014)
+- TOP 2.5.: Kreisverwaltungsreferat, Verkehrsanordnungen Abdruck der Zwischennachricht auf eine Bürgerbeschwerde über den Penny-Discounter in der Sandstraße 37
+- TOP 2.6.: Wiedereinrichtung des Zweirichtungs-Radwegs auf der Westseite Karlsplatz/Stachus vor dem Justizpalast zwischen Prielmayer- und Elisenstraße
+- TOP 2.7.: Sperrung von jeweils zwei Pkw-Parkplätzen vor der Türkenschule neben dem Fahrradständer, und Ecke Türken- und Akademiestraße neben den Glascontainern ab Janur 2012 zur Ablage von Christbäumen.
+- TOP 2.8.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Öffnung der in Richtung Westen einbahngeregelten Steinheilstraße zwischen Augusten- straße und Luisenstraße für den gegenläufigen Radverkeh
+- TOP 2.9.: Baureferat, Erinnerugsverfahren Fahrbahnsanierung in der Elisenstraße zwischen Dachauer Straße und Luisenstraße
+- TOP 2.10.: Baureferat, Erinnerungsverfahren a) Neureutherstsraße 1 ? 39, Fahrbahn zwischen Teng- und Nordendstraße b) Arcisstraße 21 Fahrbahn zwischen Gabelsberger- und Theresienstraße c) Gabelsbergerstsraße 22 ? 70, Fahrbahn zwischen Dachauer- und Luisenstraße d) von-der-Tann-Straße (Nordseite); Fahrbahn zwischen Ludwigstraße und Haus-Nr. 14
+- TOP 2.11.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Tempo-30-Zone; aufhebung der Vorfahrtregelung Otto- und Max-Joseph-Straße
+- TOP 2.12.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Anfahrtszone Kindergarten Erzgießereistraße 33
+- TOP 2.13.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Schäfflertänze im gesamten Stadtgebiet vom 3.01. bis 21.02.2011; Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.14.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Abdruck der Stellungnahme im Planfeststellungsverfahren nach dem Personenförderungsgesetz zur Errichtung einer Wendeschleife im Verlauf der Straßenbahnlinie 20/21 (Lothstraße)
+- TOP 2.15.: Referat für Gesundheit und Umwelt, Immissionsschutz Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchv); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV; Demontage eines Baukrans in der Augustenstraße 29 am 09. und 10.01.2012
+- TOP 2.16.: Baureferat, Informationsschreiben Anwohnertiefgarage Josephsplatz, Zeitplan für die Bauarbeiten, Ausweichstandort für den Bauernmarkt
+- TOP 3.1.: Sozialreferat Haushaltsplan 2012, Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes Sitzungsvorlage Nr. 08-14 / V 07911
+- TOP 3.2.: Sozialreferat, Beschlussvorlage Münchner BürgerInnen- und Bürgerbefragung 2010 Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bau- ordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011 Sitzungsvorlage Nr. 08-14 / V 08020
+- TOP 3.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Zukunft des geförderten Wohnungsbaus in München Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2011 Sitzungsvorlage Nr. 08-14 / V 08223
+- TOP 3.4.: Lilalu e.V., Sachbericht zur Förderung der Teilnahme von Kindern aus einkommensschwachen Familien an den Workshops des Sommerfestivals
+- TOP 3.5.: Bezirksausschuss 18 Untergiesing-Harlaching Stadtratsbeschluss über neues Essensversorgungskonzept - ?Cook & Chill?-Verpflegung an Schulen und Kindertageseinrichtungen Protestschreiben vom 23.11.2011 an das Referat für Bildung und Sport mit der Bitte um Kenntnisnahme und ggf. Unterstützung
+- TOP 3.6.: Sozialreferat und Referat für Stadtplanung und Bauordnung Münchner Bürgerinnen- und Bürgerbefragung 2010 Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des sSozialausschusses und des Finanzausschusses vom 07.12.2011 Sitzungsvorlage Nr. 08-14 / V 0820
+- TOP 3.7.: Referat für Bildung und Sport Terminauswahl des Referates für Gespräche mit Bezirksausschussmitgliedern Antwort des Stadtschulrats auf das Protestschreiben des BA
+- TOP 3.8.: Referat für Bildung und Sport, Beschlussvorlage Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel und Förderschulen der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates am 11.01.2012 Sitztungsvorlage Nr. 08-14 / V 08324
+- TOP 3.9.: Referat für Bildung und Sport, Beschlussvorlage Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule im Schuljahr 2011/2012 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates am 11.01.2012 Sitzungsvorlage Nr. 08-14 / V 08217
+- TOP 3.10.: Referat für Bildung und Sport, Beschlussvorlage Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011/2012 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates am 11.01.2012 Sitzungsvorlage Nr. 08-14 / V 08196
+- TOP 3.11.: Referat für Bildung und Sport, Beschlussvorlage Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2011/2012 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates am 11.01.20121 Sitzungsvorlage Nr. 08-14 / V 08195
+- TOP 3.12.: Referat für Bildung und Sport, Beschlussvorlage Kindertagesstätten sonstiger Träger; Haus für Kinder an der Schleißheimer Straße 41 im 3. Stadtbezirk Maxvorstadt Leistung eines Baukostenzuschusses nach dem BayKiBiG Beschluss des Ausschusses für Bildung und Sport des Stadtrates am 11.01.2012 Sitzungsvorlage Nr. 08 ? 14 / V 08362
+- TOP 3.13.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG-Wohnungen Beschluss des Ausschusses für Stadtplanung und Bauordnung am 11.01.2012
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.1.: Direktorium, Beschlussvorlage Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München Beschluss des Verwaltungs- und Personalausschusses vom 16.11.2011 Sitzungsvorlage Nr. 08-14 / V 07993
+- TOP 4.2.: Neuer Vorsitzender des Bezirksausschusses des 6. Stadtbezirkes Sendling
+- TOP 4.3.: Kommunalreferat Jährlicher Informationsaustausch mit den Bezirksausschüssen Terminvorankündigung
+- TOP 4.4.: Sprechstunden Januar bis Juli 2012
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.1.: entfällt
+- TOP 3: Aktuelle Sachstandsberichte
