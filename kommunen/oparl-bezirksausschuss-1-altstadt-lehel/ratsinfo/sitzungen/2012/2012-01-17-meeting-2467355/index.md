@@ -1,0 +1,110 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-01-17T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467355
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467355
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .1.: NACHTRAG: 3. Radlnacht am 26.05.2012, Start am Odeonsplatz
+- TOP .2.: NACHTRAG: ?München Narrisch? vom 19. - 21.02.2012
+- TOP .5: Allgemeine Themen
+- TOP .1.: Antrag des BA 4: Bezirksausschüsse in ?Stadtteilräte? umbenennen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Oettingenstraße 6 ? 8: Neubau eines Wohn- und Bürogebäudes (Vorbescheid) (vertagt)
+- TOP .2.: Utzschneiderstraße 3: Umbau eines Wohnheims (vertagt)
+- TOP .3.: Perusastraße 1: Nutzungsänderung von Büro und Gewerbeflächen und Wohn-nutzung in Praxisräume
+- TOP .4.: Residenzstraße 9: Errichtung einer Freischankfläche
+- TOP .5.: Maximilianstraße 38-40: Nutzungsänderung des 4.
+- TOP .6.: Sonnenstraße 25: Umbau und Erweiterung des bestehenden Geschäftshauses
+- TOP .7.: Maffeistraße 7, Umbau, Renovierung und Nutzungsänderung
+- TOP .8.: Sendlinger-Tor-Platz 11: Nutzungsänderung von Teilflächen
+- TOP .9.: Weinstraße 8: Umbau eines Geschäftsgebäudes
+- TOP .10.: Liebherrstraße 5: Nachträgliche Genehmigung der in den letzten Jahren vorgenommenen Umbauten und Nutzungsänderungen
+- TOP .11.: Englischer Garten 2-3: Bauliche und gestalterische Entwicklung im Umfeld des Chinesischen Turms
+- TOP .1.: Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064, Wittelbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße
+- TOP .1.: Bürger: Straßenreinigungsgebühren Westenriederstraße
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Café am Salvatorplatz?, Salvatorplatz 2a: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Zeitungsentnahmegeräte für die BILD, verschiedene Standorte
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Kinderfasching der kleinen Wiesnwirte am 12.02.2012, Marienplatz
+- TOP .2.: Kunstinstallation Ingo Maurer, Odeonsplatz
+- TOP .3.: Straßenfasching in der Theklastraße am 21.02.2012
+- TOP .4.: NACHTRAG: Big Band Konzert anlässlich der Special Olympic National Summer Games am 22.05.2012, Odeonsplatz
+- TOP .1.: Bürger: Schaltung der Ampel an der Sternstraße/Robert-Koch-Straße
+- TOP .2.: Bürger: Entwicklung der innerstädtischen Isar
+- TOP .3.: Bürger: Baumschnitt der Bäume vor den Anwesen St.-Anna-Platz 1 und 1a
+- TOP .1.: Baumfällung: Oettingenstraße 6 ? 8: Neubau eines Wohn- und Bürogebäudes (Vorbescheid) (vertagt)
+- TOP .2.: Fahrbahnsanierungen: - Franz-Joseph-Straße-Ring 4 - Sendlinger-Tor-Platz - Rochusberg zwischen Prannen- und Salvatorstraße - Sendlinger Straße zwischen Herzog-Wilhelm-Straße und Schmidstraße
+- TOP .3.: NACHTRAG: Änderung der Radverkehrsführung in der Maximilianstraße
+- TOP .4.: NACHTRAG: Austausch von Lichtzeichenanlagen an der Hauptfeuerwache/Oberanger und Oberanger/Hermann-Sack-Straße
+- TOP .1.: Informationsaustausch zwischen dem Kommunalreferat und den Bezirksausschüssen am Donnerstag, den 22.03.2012 um 18.00 Uhr im Kommunalreferat am Roßmarkt 3, Zi 232
+- TOP .2.: Kassenbericht 2010
+- TOP .3.: Informationsveranstaltung ?Platz der Opfer des Nationalsozialismus am 19.01.2012
+- TOP .4.: Regionalgespräche der LBK mit den Bezirksausschüssen voraussichtlich am 15.02.2012, Einladung erfolgt noch
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschluss des Verwaltungs- und Personalausschusses vom 16.11.2011: Änderung der Satzung für Bezirksausschüsse der Landeshauptstadt München
+- TOP 0.2.: Unterlagen für die Beratung und Verabschiedung des Haushaltsplansentwurfs 2012
+- TOP 0.3.: Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015 mit verbindlicher Planung für 2016; Entwurf für das Baureferat (Katalog steht neben den UA-Fächern)
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Beschluss des Planungsausschusses vom 07.12.2011: Bebauungsplan mit Grünordnung Nr. 2040 Franz-Joseph-Straße-Ring, Prinzregentenstraße, Seitzstraße
+- TOP 0.3.: Bauvorhaben im Kommunalen Wohnungsbauprogramm
+- TOP 0.4.: Vorbescheid Hotterstraße 10, TOP 2011.11 B 3.1.9 und TOP 2011.12 D 3.1 und Antwortschreiben zur BV-Anfrage Nr. 08-14 / Q345
+- TOP 0.5.: Antwortschreiben der LBK zum Bauvorhaben Maximilianstraße 6, TOP 2011.12 B 3.1.4
+- TOP 0.6.: Baugenehmigung und weitere Informationen zur Hotterstraße 10
+- TOP 0.7.: Beschluss des Planungsausschusses vom 11.01.2011: Preis für Stadtbildpflege
+- TOP 0.8.: Beschluss des Planungsausschusses vom 11.01.2011: Behilferechtliche Auswirkung der Landesbank-Krise auf die GBW AG - Wohnungen
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Schreiben des BA 5 zur Unterstützung eines Anliegens des BA 1 bzgl. der Christkindlmärkte, TOP 2011.10 C 0.1
+- TOP 0.6.: Jahresgenehmigung für Reinigungsarbeiten an U-Bahnhöfen
+- TOP 0.7.: Antwortschreiben zum BA-Anliegen auf Umwandlung der Lieferzone der ehemaligen Poststelle Ecke Reitmor- / Liebigstraße in Parkplätze, TOP 2011.11 C 1.1
+- TOP 0.8.: Zwischennachricht an einen Bürger bzgl. der Straßenmusik auf dem Marienplatz
+- TOP 0.9.: Sitzbänke am Thierschplatz
+- TOP 0.10.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Faschingszug der Damischen Ritter? am 05.02.2012 (Vorabanhörung)
+- TOP 0.11.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Inthronisation des Faschingsprinzenpaares der Narhalla? am 07.01.2012
+- TOP 0.12.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Rosenkranzgebet? jeden Samstag auf dem Marienplatz
+- TOP 0.13.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Radlnacht? am 16.05.2012
+- TOP 0.14.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Schäfflertanz? am 06.01.2012
+- TOP 0.15.: Antwortschreiben des KVR zur Anfrage des BA bzgl. des Glühweinstands ?Alpenwahn? vor dem Pschorr am Viktualienmarkt, TOP 2011.12 A 3.1
+- TOP 0.16.: Schreiben des BA 9 Neuhausen-Nymphenburg zur zeitlichen Ausdehnung des Christkindlmarktes
+- TOP 0.1.: Verkehrsrechtliche Anordnungen (Extraordner)
+- TOP 0.2.: Beschluss des Bauausschusses vom 15.11.2011: ÖPNV-Offensive IV: Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 0.3.: Naturdenkmalverordnung vom 08.09.2011 mit Naturdenkmalliste
+- TOP 0.4.: Schreiben des Planungsreferats zur Anfahrt der Tiefgarage ? Palais an der Oper
+- TOP 0.5.: Antwortschreiben zur BA-Anfrage bzgl. der Verkehrsampel am Altstadtring / Maximilianstraße, TOP 2011.10 D 1.4
+- TOP 0.6.: Antwortmail des KVR zur Ablehnung des BA eines eingeschränkten Halteverbots vor der Kinderkrippe Reitmorstraße, TOP 2011.09 D 3.4
+- TOP 0.7.: Sanierung der Straßenpflasterung in der Knöbelstraße zwischen Thierschstraße und Knöbelstraße 16 und Adelgundenstraße zwischen Maximilianstraße und Knöbelstraße
+- TOP 0.8.: Wiederherstellung des Marienhofs nach Abschluss der archäologischen Planungen
+- TOP 0.9.: Verkehrsrechtliche Anordnung Anfahrtszone vor der Kinderkrippe Reitmorstraße 29, TOP 2011.12 A 6 und D 4.10
+- TOP 0.10.: Fällung von Gefahrenbäumen
+- TOP 0.11.: Aufhebung eines eingeschränkten Halteverbots in der Liebigstraße
+- TOP 0.12.: Weiterleitung der Unterlagen Vorfahrt Linde an das Baureferat, TOP 2011.12 D 0.1
+- TOP 0.13.: Zusätzliche Fahrradabstellplätze am Viktualienmarkt
+- TOP 0.14.: Antwortschreiben zur Anfrage des BA nach Fahrradabstellplätzen auf dem St.-Anna-Platz, TOP 2011.11 D 1.1
+- TOP 0.15.: Antwortschreiben des KVR zum Bürgeranliegen bzgl. des Anlieferverkehrs in der Küchelbäckerstraße, TOP 2011.12 A 3.2
+- TOP 0.16.: Eilentscheidung des Vorsitzenden zum Beschlussentwurf zur Beschleunigung der Buslinie 152
+- TOP 0.1.: Verwendungsnachweis und Bericht zum geförderten Kunstprojekt ?art.homes?
+- TOP 0.2.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012: Schüler- und Klassenzahlen an verschiedenen städtischen Schultypen
+- TOP 0.3.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012: Schüler/innen und Klassenstand an den Beruflichen Schulen der LHM im Schuljahr 2011 / 2012
+- TOP 0.4.: Antwortschreiben der Planungsreferentin zur Einbeziehung des BAs in die Planungen zur Errichtung eines neuen Konzertsaals im Bereich des Deutschen Museums, TOP 2011.12 E 0.1
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
