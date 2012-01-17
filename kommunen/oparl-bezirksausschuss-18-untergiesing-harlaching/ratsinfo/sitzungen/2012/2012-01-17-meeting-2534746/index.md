@@ -1,0 +1,110 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2012-01-17T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2534746
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2534746
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Fahrbahnsanierung der Säbener Straße im Abschnitt zwischen Oberbiberger Straße und Naupliastraße; Antrag der SPD-Fraktion vom 04.01.2012 - <div>nach Antrag / Ergänzung</div>
+- TOP 3.1.: Zeitnahe Einrichtung von Zebrastreifen auf Höhe der Kreuzung Säbener Straße / Klausener Straße und Grödner Straße; BA-Antrag Nr. 08-14 / B 03503 vom 15.11.11; Antwortschreiben des KVR vom 20.12.11 (neutrale Erledigung)
+- TOP 3.2.: U-Bahn-Station Wettersteinplatz - Einbau eines Aufzugs auf Seite des Altenheimes / der Seniorenwohnanlagen (rechte Seite stadtauswärts); Bürgeranliegen des BA 18 aus der Sitzung vom 15.11.11; Antwortschreiben der SWM GmbH (negative Erledigung)
+- TOP 3.3.: Fahrradbrücke über den Giesinger Berg; BA-Antrag Nr. 08-14 / B 03469 des BA 18 vom 17.11.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung (neutrale Erledigung)
+- TOP 3.4.: Lärm minderndes Parkplatzkonzept für die Parkplatzsituation rund um das Krankenhaus Harlaching; BA-Antrags-Nr. 08-14 / B 03318 des BA 18 vom 20.09.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 06.12.11 (negative Erledigung)
+- TOP 3.5.: Haltverbotsmarkierungen - Grünwalder Straße / St.-Quirin-Platz - Bürgerschreiben aus der Sitzung des BA 18 vom 15.11.11; Antwortschreiben der PI 23 vom 08.12.11 sowie des KVR vom 16.12.11 (positive Erledigung)
+- TOP 3.1.: Regionalzughalt Menterschwaige prüfen; Antrag der Stadtratsfraktion Bündnis 90/DIE GRÜNEN vom 20.12.11 mit der Bitte um Kenntnisnahme
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Bericht zum aktuellen Stand der Belastung des Bezirks 18 durch den Flughafen München und über die zu erwartenden Auswirkungen nach dem Bau der geplanten dritten Start- u. Landebahn; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 19.12.11 - <div>nach Antrag / Zusatz</div>
+- TOP 3.2.: Ersatzpflanzung zum Regelfall machen; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 19.12.11 - <div>nach Antrag / Ergänzung</div>
+- TOP 3.1.: Vollzug der Wassergesetze; Erneuerung des Drosselablaufkanals R 284, Regenauslass Candidstraße, Unterquerung des Auer Mühlbachs; Wasserrechtliche Erlaubnis nach § 9 WHG, Art. 15 BayWG und Art. 20 BayWG; Schreiben des RGU vom 09.12.11 mit der Bitte um Stellungnahme bis 11.01.12 (Fristverlängerung gewährt)
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Zuleitung des Baureferats-Gartenbau
+- TOP 3.2.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 3.3.6.2.1 Lindenstraße 21; Bescheinigung vom 29.12.11
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Schüler- u. Klassenzahlen an den städt. Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2011/2012; Sitzungsvorlage Nr. 08-14 / V 08217; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 11.01.2012
+- TOP 3.2.: Schüler u. Klassenzahlen an den städt. und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011/2012; Sitzungsvorlage Nr. 08-14 / V 08196; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 11.01.2012
+- TOP 3.3.: Schüler/innen und Klassenstand; Berufliche Schulen der LHM im Schuljahr 2011/2012, Stand 20.10.2011; Sitzungsvorlage Nr. 08-14 / V 08195; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 11.01.2012
+- TOP 3.4.: Schüler- u. Klassenzahlen der öffentlichen Grund-, Mittel- u. Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012; Sitzungsvorlage Nr. 08-14 / V 08324; Bekanntgabe im Ausschuss für Bildung u. Sport des Stadtrates vom 11.01.2012
+- TOP 3.5.: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2011; Bau von Kunstrasenflächen auf städtischen Bezirkssportanlagen; Stadtratsantrag Nr. 08-14 / A 01929; Sitzungsvorlage Nr. 08-14 / V 07818; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates am 30.11.2011
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Tierparkstraße 30; Neugestaltung u. Erweiterung der Eisbärenanlage im Münchner Tierpark Hellabrunn; Anhörung vom 08.12.11 (vertagt aus der Sitzung vom 20.12.11)
+- TOP 3.2.: Seybothstraße 65; Erweiterung Hörsaalgebäude "Krankenhaus für Naturheilwesen" (Verwaltung / Diagnostik); Anhörung vom 13.12.11 (vertagt aus der Sitzung vom 20.12.11)
+- TOP 3.3.: Benediktenwandstr. 15; Abbruch eines Wohnhauses mit Garage, Neubau eines Mehrfamilienhauses (12 WE) mit TG; Anhörung vom 12.12.11 (vertagt aus der Sitzung vom 20.12.11)
+- TOP 3.4.: Schilcherweg 8; Neubau eines Einfamilienhauses mit Garage u. Stellplatz - VORBESCHEID; Anhörung vom 16.12.11 (vertagt aus der Sitzung vom 20.12.11)
+- TOP 3.5.: Willroiderstr. 2; Anbau an ein Einfamilienhaus; Anhörung vom 15.12.11 (vertagt aus der Sitzung vom 20.12.11)
+- TOP 3.6.: Quagliostraße 4-6; Abbruch eines Gewerbegebäudes u. Neubau eines Wohngebäudes mit TG - VORBESCHEID; Anhörung vom 15.12.11 (vertagt aus der Sitzung vom 20.12.11)
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Die LHM wird aufgefordert, dass ehemalige Gelände der Stadtgärtnerei neben der Pfarrei Heilige Familie Harlachinger Vereinen mietweise zur Verfügung zu stellen; BA-Antrag Nr. 08-14 / B 03468 vom 15.11.11; Antwortschreiben des Baureferats-Gartenbau vom 12.12.11 (negative Erledigung)
+- TOP 3.2.: Freiwillige Feuerwehr für den 18. Stadtbezirk auf dem Gelände des Klinikums München-Harlaching; BA-Antrag Nr. 08-14 / B 03317 vom 20.09.11; Antwortschreiben des KVR vom 09.12.11 (negative Erledigung)
+- TOP 3.3.: Wertstoffsammelstelle am Wettersteinplatz - Barrierefreiheit; BA-Antrag Nr. 08-14 / B 03506 vom 15.11.11; Antwortschreiben des AWM vom 13.12.11 (negative Erledigung)
+- TOP 3.4.: Maßnahmen zur Förderung des Wohnungstausches; BA-Antrags-Nr. 08-14 / B 03267 des BA 9 vom 16.08.11; Unterstützung des BA 18 aus der Sitzung vom 20.09.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 12.12.11 (positive Erledigung)
+- TOP 3.5.: 1. städtebauliches Entwicklungskonzept für den Stadtteil Altharlaching mit einem 2. geordneten Verkehrskonzept (mehr Parkplätze, weniger Lärm etc.); BA-Antrag Nr. 08-14 / B 03320 des BA 18 vom 20.09.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung (negative Erledigung)
+- TOP 3.6.: Gartenstadtcharakter in Harlaching; Ausschöpfung aller rechtlichen Möglichkeiten, die den Bau von weiteren großen Appartementblöcken erschweren, um den Charakter des Vierelts mit viel Grün u. lockerer Bebauung zu erhalten; BA-Antrag Nr. 08-14 / B 03322 vom 20.09.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 12.12.11 (neutrale Erledigung)
+- TOP 3.1.: Preis für Stadtbildpflege - Wettbewerb "Denkmalschutz und Neues Bauen"; - Erweiterung der Wettbewerbskriterien - zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus - Ergänzung der Wettbewerbsbezeichnung Sitzungsvorlagen Nr. 08-14 / V 08371; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 (VB)
+- TOP 3.2.: McGraw-Kaserne / ehem. Reichszeugmeisterei bzw. "University of Maryland": Fassadenrenovierung und stadtteilbezogene Nutzung Empfehlung Nr. 08-14 / E 00928 der BÜV des Stadtbezirkes 18 - Untergiesing-Harlaching am 28.10.2010; Sitzungsvorlagen Nr. 08-14 / V 08330; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 (SB)
+- TOP 3.3.: Keine Umbenennung der Birkenleiten; BA-Antrag Nr. 08-14 / B 03121 des BA 18 vom 21.06.11; Sitzungsvorlage Nr. 08-14 / V 08208; Kurzübersicht zum Beschluss des Kommunalausschusses vom 08.12.2011 (SB)
+- TOP 3.4.: Baufälle im 18. Stadtbezirk
+- TOP 3.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 3.5.6.5.1 Anwesen Autharistraße; Mitteilung vom 12.12.11 3.5.6.5.2 Anwesen Benediktenwandstraße; Mitteilung vom 27.12.11 3.5.6.5.3 Anwesen Weyarner Str.; Mitteilung vom 12.12.11 3.5.6.5.4 Anwesen Mondstraße; Mitteilung vom 06.12.11 3.5.6.5.5 Anwesen Harthauser Str. 96; Mitteilung vom 05.12.11
+- TOP 3.6.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG-Wohnungen; a) Aufforderung an die LHM, die zum Verkauf stehenden Wohnungen der GBW zu erwerben, insbesondere im 18. Stadtbezirk; BA-Antrag-Nr. 08-14 / B 03364 f) Erwerb der GBW-Wohnungen (insbesondere im 18. Stadtbezirk) durch die LHM unter der Priorität der Sozialverträglichkeit u. Berücksichtigung des Mieterschutzes; BÜV-Empfehlung Nr. 08-14 / E 01162 des Stadtbezirkes !8 Sitzungsvorlage Nr. 08-14 / V 08373; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 11.01.2012 (SB)
+- TOP 3.7.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.7.1 SSW "Gutshof Menterschwaige", Menterschwaigstraße 4; Mitteilung vom 27.12.11
+- TOP 3.8.: Bauvorhaben im Kommunalen Wohnungsbauprogramm; Liste im LHM-Intranet abrufbar: Standorte mit Baurechtsklärungen nach Stadtbezirken; Schreiben des Sozialreferats vom 28.11.2011
+- TOP 3.1.: BV Harthauser Str. 96, Fl.Nr. 12852/23, Gemarkung: Sektion VII; Neubau eines Mehrfamilienwohnhauses; negative Stellungnahme des BA 18 vom 21.09.11; Abdruck der Baugenehmigung vom 02.12.11
+- TOP 3.2.: BV Mondstraße 12, Fl.Nr. 13370/0, Gemarkung: Sektion VII; Neubau eines Stadthauses (2 WE); negative Stellungnahme des BA 18 vom 21.09.11; Baugenehmigung vom 09.12.11
+- TOP 3.3.: BV Reisachstr. 12, Fl.Nr. 12875/&143, Gemarkung: Sektion VII; Neubau eines Mehrfamilien- u. eines Doppelhauses mit Garagen; negative Stellungnahme des BA 18 vom 16.11.11; Baugenehmigung vom 30.12.11
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Maifeier am 01.05.2012 auf dem Hans-Mielich-Platz; Termin: 03.02.2012; Zuleitung des KVR vom 12.12.11 mit der Bitte um Stellungnahme bis 03.02.2012
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Zeitgemäßer Internetauftritt der Bezirksausschüsse; Antrag der Fraktion Bündnis 90/DIE GRÜNEN vom 19.12.11 - <div>nach Antrag</div>
+- TOP 4.2.: Wiederaufstellung des Briefkastens am Hans-Mielich-Platz; Bürgeranliegen (übernommen durch einen Antrag der SPD-Fraktion; vertagt aus der Sitzung vom 17.01.2012)
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.1.: Bauvorhaben Reichenhaller Str. 22 / 24 - Parksituation; Bürgeranliegen aus der Sitzung vom 20.12.2011 (ohne Vorgang)
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
