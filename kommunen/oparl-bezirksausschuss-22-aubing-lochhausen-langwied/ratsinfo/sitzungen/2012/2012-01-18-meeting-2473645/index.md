@@ -1,0 +1,105 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-01-18T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2473645
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2473645
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Paulaner kommt! Vorstellung Bauvorhaben durch Hrn. Steinfatt u. Hrn. Dahncke
+- TOP 1.1.5: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Haltverbot im Wendehammer in der Olchinger Straße
+- TOP 2.2.: Hortsituation Lochhausen
+- TOP 2.3.: Wertstoffcontainer für Freiham
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen mit Bauvorhaben: - Kastelburgstr., Gemarkung Aubing, Fl.Nr. 1611/2, Baumbestandsplan Nr. 2011-29419 - Streitbergstr. 40, Baumbestandsplan Nr. 2011-30259 - Walter-Brecht-Str. 1, Baumbestandsplan Nr. 2011-30312 - Wiesentfelser Str. 68, Baumbestandsplan Nr. 2011-30178
+- TOP 3.2.: Baumfällungen auf Anforderung: - Rabensteinstr. 35
+- TOP 3.4.: Ablehnungsbescheid für Baumfällung in der Streitbergstr. 72, Schr. Planungsreferat vom 28.12.11
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Herstellung eines Fußwegs zwischen Lidel- und Altostraße
+- TOP 4.2.: Übernahme der Trägerschaft des Kulturzentrums Ubostraße 9 durch das Kulturforum 22
+- TOP 5: Entscheidungen
+- TOP 5.1.: Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 22 Aubing-Lochhausen-Langwied; Widmung einer Teilfläche der Hans-Stützle-Straße
+- TOP 5.2.: Entscheidung gem. Vollmacht des Oberbürgermeisters vom 26.02.10 über die Projektplanung: Projektname: Mühlangerstraße, Wertstoffhof Projekt-Nr.: 5432
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltungen / Kooperationen Dezember 2011 und Januar 2012 (N), Schr. Kulturreferat vom 30.11.11 und 04.01.12
+- TOP 6.2.: Schülerentwicklung in den nächsten Jahren, Schr. Schulleitung GS Ravensburger Ring vom 08.12.11
+- TOP 6.3.: Unterlagen zur Veranstaltung vom 17.11.11 "Ergebnisse zur REGSAM-Arbeit in den Gebieten mit besonderem Handlungsbedarf", Schr. Sozialreferat vom 15.12.11
+- TOP 6.4.: "Auf Herz und Rampen prüfen" - Herstellung der Barrierefreiheit: Wertstoffsammelstelle an der S-Bahn-Station Aubing (Ziffer 2 des Antrags), Schr. Abfallwirtschaftsbetrieb München vom 21.12.11
+- TOP 6.5.: Inklusion Freiham, Schr. Planungsreferat vom 19.12.11
+- TOP 6.6.: Raumsituation an der Grundschule am Ravensburger Ring (Antrag Nr. 2804/22.), Schr. Referat für Bildung und Sport vom 21.12.11
+- TOP 6.7.: Bergsonstraße - Errichtung einer Skateanlage, Schr. Baureferat vom 12.12.11
+- TOP 6.8.: Erlaubnisbescheid für historische Schäfflertänze 2012, Schr. KVR vom 02.01.12
+- TOP 6.9.: Grabungen im Bauabschnitt Freiham, Schr. Planungsreferat vom 19.12.11 und Schr. Kommunalreferat vom 16.12.11 (BA-Antrag Nr. 08-14 / B 03511)
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Zuwendung aus dem Budget des BA 22, Initiative "Ortsgeister", Ausstellung zur Ortsgeschichte, Schr. Direktorium vom 06.12.11
+- TOP 6.2.: Bewilligungsbescheid für Zuwendung aus dem Budget des BA 22, Antragsteller: Initiative "Ortsgeister", Schr. Direktorium vom 02.12.11
+- TOP 6.3.: Bewilligungsbescheid für Zuwendung aus dem Budget des BA 22, Antragsteller: BRK Wasserwacht, OB München-West
+- TOP 6.4.: Zurückziehung des Antrags auf Bezuschussung aus dem Budget des BA 22, Antragsteller: Regsam zu Campus Freiham, Schr. Direktorium vom 19.12.11
+- TOP 6.5.: Verwendungsnachweis des SV Aubing über gewährten Zuschuss für Fußballturnier für Integrationsmannschaften, Schr. Direktorium vom 03.01.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.3.: Grabungen im Bauabschnitt Freiham, Schr. Planungsreferat vom 19.12.11 und Schr. Kommunalreferat vom 16.12.11 (BA-Antrag Nr. 08-14/B 03511)
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Einrichtung eines personenbezogenen Behindertenparkplatzes Am Aubinger Wasserturm 22, Anhörung KVR vom 09.12.11
+- TOP 6.2.: Altostr. 146 a, Neubau eines Doppelhauses mit Garage und Carport, Anhörung Planungsreferat vom 16.12.11
+- TOP 6.3.: Papinstr. 53, Abbruch Ostflügel und Anbau Gebäude für Büro- und Verwaltungsräume - Vorbescheid, Anhörung Planungsreferat vom 07.12.11 (vertagt aus 11/11)
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 28.11.-04.12.11, v. 05.12.-11.12.11, v. 12.12.-18.12.11, 19.12.-25.12.11, 26.12.-01.01.12), Schr. Planungsreferat vom 05.12.11, 12.12.11, 20.12.11, 30.12.11, 02.01.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 05.12.11, 12.12.11, 19.12.11
+- TOP 6.3.: Planfeststellung nach § 18 AEG für das Vorhaben "Erneuerung / Ersatzneubau der 110-kV Bahnstromleitung Nr. 427 Karlsfeld - Augsburg; Planfeststellungsabschnitt A, Regierungsbezirk Oberbayern"; Planfeststellungsbeschluss des Eisenbahn-Bundesamtes, Außenstelle München, vom 27.10.11; Schr. Planungsreferat vom 01.12.11
+- TOP 6.4.: Bauvorhaben im Kommunalen Wohnungsbauprogramm, Liste im LHM-Intranet abrufbar: Standorte mit Baurechtserklärungen nach Stadtbezirken, Schr. Sozialreferat vom 28.11.11
+- TOP 6.5.: Beseitigung der Straßenbeschädigung in der Bergsonstraße, Schr. Baureferat vom 30.11.11
+- TOP 6.6.: Verkehrssicherungspflicht, Schr. Ref. f. Arbeit u. Wirtschaft vom 24.11.11
+- TOP 6.8.: Geschwindigkeitsbegrenzung für Lkw auf 30 km/h, Schr. KVR vom 13.12.11
+- TOP 6.9.: Grabungen im Bauabschnitt Freiham, Schr. Planungsreferat vom 19.12.11 und Schr. Kommunalreferat vom 16.12.11
+- TOP 6.10.: Abstellen von Containern, Lkw-Anhängern etc. an der Lochhausener Straße, Schr. PI 45 vom 14.12.11
+- TOP 6.11.: Baumaßnahmen der SWM, hier: Fernwärmeprojekt Radolfzeller Straße, Schr. SWM vom 19.12.11
+- TOP 6.12.: Vollzug der Wassergesetze, Bachräumungstermine 2012 für die Stadt- bzw. Stadtrandbäche, Schr. Baureferat vom 14.12.11
+- TOP 6.14.: Fahrbahnmarkierung in der Altostraße in Richtung Lochhausen, Schr. Baureferat vom 21.12.11
+- TOP 6.15.: Verkehrsrechtliche Anordnung, Freigabe des Gehweges in der Altostraße für Radfahrer, Schr. KVR vom 26.10.11
+- TOP 6.16.: Verkehrsrechtliche Anordnung, Einrichtung einer Ausweichstelle für den Linienbusverkehr in der Pretzfelder Straße, Schr. KVR vom 09.11.11
+- TOP 6.17.: Prüfung, ob Sitzbänke in der Kronwinkler Straße außerhalb der für den Straßenbau ausgewiesenen Grundstücken errichtet werden können, Schr. Baureferat vom 22.12.11
+- TOP 6.18.: S4-West: Langzüge vollständig bis 2014 und barrierefreier Ausbau, Schr. Referat für Arbeit und Wirtschaft vom 28.12.11
+- TOP 6.20.: Aufstellung von Informationsschaukästen für Bezirksausschüsse im Bereich - S-Bahnhof Westkreuz/westliche Aubinger Straße, - der Ecke Radolfzeller Str./Sipplinger Straße, - Limesstraße / Ecke Bodenseestraße - Aufseßer Platz / Ecke Bodenseestraße, Schr. Kommunalreferat vom 03.01.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Kravogelstr., Schr. Sozialreferat vom 01.12.11 - Zwernitzer Str., Schr. Sozialreferat vom 07.12.11 und 12.12.11 - Walter-Brecht-Str., Schr. Sozialreferat vom 22.12.11
+- TOP 8.2.: Unterlagen für die Beratung und die Verabschiedung des Haushaltsplanentwurfes 2012, Schr. Stadtkämmerei vom 02.12.11
+- TOP 8.3.: Europe-Direct Information 08/2011, Schr. Ref. f. Abeit u. Wirtschaft vom 15.12.11
+- TOP 8.4.: Unveränderte Fortführung, Abgabe von alkoholischen u. alkoholfreien Getränken in einem Bordell, "Red Lounge", Lochhausener Str. 106 a, Schr. KVR vm 13.12.11
+- TOP 8.5.: Wirtschafts-Info 12/2011, Schr. Ref. f. Arbeit u. Wirtschaft vom 22.12.11
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.11: 2. Stammstrecke, Vorfinanzierung durch die LH München
+- TOP 10.2.: Beschluss der Vollversammlung vom 23.11.11: Sicherung der Biotop- und Landschaftspflege in der LH München
+- TOP 10.3.: Beschluss des Ausschusses für Stadplanung und Bauordnung vom 11.01.12: - Preis für Stadtbildpflege - Wettbewerb "Denkmalschutz und Neues Bauen" (UA Planung) - Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG - Wohnungen (UA Planung)
+- TOP 10.4.: Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 11.01.12: Schüler- und Klassenzahlen für das Schuljahr 2011/12 - der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten - an den städt. und den staatl. Realschulen und der Städt. Franz-Auweck-Abendschule - an den städt. und staatl. Gymnasien sowie den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art - der Beruflichen Schulen (UA Soziales)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Stadtrat beschließt neues Essenversorgungskonzept - "Cook & Chill"- Verpflegung an Schulen und Kinderttageseinrichtungen, keine Befassung der BA's, Schr. BA 18 vom 23.11.11
+- TOP 11.2.: Neuer BA-Vorsitzender in Sendling, Schr. BA 6 vom 13.12.11
+- TOP 11.3.: Terminvorankündigung, Jährlich im Kommunalreferat stattfindender Informationsaustausch am 22.03.12 ab 18.00 Uhr im Kommunalreferat, Roßmarkt 3, Zi. 232, Schr. Kommunalreferat vom 19.12.11
+- TOP 11.4.: Protokoll des Mietertages vom 24.11.11
+- TOP 11.5.: Protokollnotiz zum "Band-Contest" am 21.11.11, Schr. BA 21
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 15.02.2012 um 19.30 Uhr in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.1.: Pflegemaßnahmen für die Bäume der Freihamer Allee auf div. Flurstücken - Ergebnisprotokoll der Begehung, Schr. Baureferat vom 19.12.11
+- TOP 6.7.: Planfeststellung nach § 18 AEG; Neubau der S-Bahn-Station "Freiham", Bahn-km 4,301 der Strecke 5541 München-Westkreuz-Herrsching, Planfeststellungsbeschluss des Eisenbahn-Bundesamtes vom 05.12.11; Schr. Planungsreferat vom 14.12.11
+- TOP 6.19.: Sicherung des nördlichen Zugangs S-Bahn-Halt Aubing, Schr. Baureferat vom 21.12.11
