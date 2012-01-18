@@ -1,0 +1,99 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-01-18T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506315
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506315
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Wolfgangstraße zur 30km/h-Zone
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Förderverein SFZ An der Isar Tanzprojekt vom 23.01. - 04.03.2012
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Wörthstr. 10, ?Der Flohmarktladen?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .2.: Johannisplatz 21, ?Letoon?: Genehmigung einer Freischankfläche
+- TOP .3.: Gebsattelstr. 15, ?Dilan?: Erweiterung einer bestehenden Freischankfläche dazu auch: Schreiben von Fr. N. Meyer an die BI, Antwort der BI vom 15.12.2011
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Pennymarkt Preysingstr. 42, Antrag auf Einrichtung eines uneingeschränkten Haltverbots für PKW und einer Ladezone von Montag bis Samstag
+- TOP .1.: Austausch der Lichtzeichenanlage Auerfeld-/Welfenstraße
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Änderung der Satzung für die Bezirksausschüsse der Landeshauptstadt München; Beschluss der Vollversammlung des Stadtrates vom 23.11.2011, u.a.: BA-Budget: Keine Frist für Budgetanträge bis 1.000 ? (BA-Antrags-Nr. 08-14/ B 02822): Gleichbehandlung aller BA-Mitglieder bei der Erfüllung allgemeiner staatsbürgerlicher Pflichten (BA-Antrags-Nr. 08-14/ B 01141)
+- TOP .2.: Umgestaltung Breisacher Straße / Ecke Elsässer Straße
+- TOP .3.: Spielgeräte an der Postwiese reinigen und instand setzen
+- TOP .4.: Vergabe von Trainingszeiten in der neuen Sporthalle der Beruflichen Schulen am Simon-Knoll-Platz
+- TOP .5.: Außerschulische Nutzung von Schulsporthallen
+- TOP .6.: Verbesserungen anlässlich der Sanierung der Postwiese
+- TOP .7.: Schutz der Mieter beim Verkauf der GBW-Wohnungen in Haidhausen
+- TOP .8.: Ampelsituation Einmündung Comenius- / Wörthstraße, Übergang Kreuzung Sedan- / Metzstraße
+- TOP .9.: Fahrradständer auf dem Pariser Platz an der Ecke Gravelottestraße
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Radstellplätze in der Lilienstraße; Schreiben des Baureferats vom 02.12.2011
+- TOP .2.: Mobile Wertstofferfassung, Schreiben des Abfallwirtschaftsbetriebs München vom 08.12.2011
+- TOP .3.: Termine für Fertigstellung von Tagesheim und Hort an der Bazeillesschule
+- TOP .4.: Projektplanung Wörthstraße Ecke Breisacher Straße / Pariser Straße; hier: Schreiben des Baureferats vom 28.12.201
+- TOP .5.: Weiteres Vorgehen beim Eisenbahn-Südring, Schreiben des Planungsreferats vom 28.12.2011
+- TOP .6.: Kegelhof 3, Denkmalschutz, Aufstockung der Kegelhofmühle; Schreiben des Planungsreferats vom 14.12.2011
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: ?18.Jetzt? , Ergebnisse aus dem vergangenen ?18.Jetzt? am 08. Oktober 2011
+- TOP .2.: Schäfflertänze im Stadtgebiet auf öffentlichem Verkehrsgrund in der Zeit vom 06.01. - 21.02.2012, hier: Eilentscheidung der Vorsitzenden
+- TOP .3.: Bonusmarkt für die Untere Au, hier: Beschluss ?Prüfung der Schaffung von wohnortnaher Vollsortimentsbetriebe und der Schließung von Versorgungslücken in betroffenen Stadtvierteln? vom 06.12.2011
+- TOP .4.: Kindertagesstätten sonstiger Träger; Haus für Kinder am Preysingplatz 14 im 5. Stadtbezirk Au-Haidhausen; Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms ?Kinderbetreuungsfinanzierung 2008-2013?; Leistung eines Baukostenzuschussses nach dem BayKiBiG; Beschluss des Ausschusses für Bildung und Sport
+- TOP .5.: Errichtung eines Hauses für Kinder mit 2 Krippen- und 2 Kindergartengruppen an der Welfenstraße (Regerhof), 5. Stadtbezirk Haidhausen ? Produkt Nr. 1.1 ? Genehmigung des Nutzerbedarfsprogrammes; Beschluss des Ausschusses für Bildung und Sport
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Kinderbeteiligung, Gespräch mit der Kinderbeauftragten der Landeshauptstadt München
+- TOP .2.: Raumsituation an der Staatlichen FOS/BOS Technik München
+- TOP .1.: Einführung des europäischen ?Tag des Nachbarn? in München; Beschluss des Sozialausschusses vom 01.12.2011
+- TOP .2.: Haushaltplan 2012; Produkt- und zielorientierte Ansätze für den Bereich ?Förderung freier Träger? des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 29.11.2011
+- TOP .3.: Leitlinie Bildung; Bildung in München ? gerecht, zukunftssichernd, großstadtorientiert und weltoffen
+- TOP .1.: Postwiese, Internationales Kinderfest ?Cocuk Bayrami? am 26.04.2012
+- TOP .2.: Diverse Aktionen von AKA e.V. im Jahr 2012
+- TOP .3.: Schank- und Speisewirtschaft ?gast?, Rosenheimer Str. 5, Antrag auf Betriebszeitverlängerung des Wirtschaftsgartens
+- TOP .1.: Lucile-Grahn-Str. 38: Umbau/Nutzungsänderung von Büroflächen im 2. + 3. OG in 4 Wohnungen sowie einer Ladenfläche im EG in eine Gaststätte - TEKTUR
+- TOP .2.: Eggernstr. 5: Dachsanierung und -ausbau zu einer Wohnung und Anbau einer Liftanlage mit zwei Zugangspodesten
+- TOP .3.: Innere Wiener Str. 18: Erweiterung und Aufstockung
+- TOP .4.: Zustimmungsverfahren nach Art. 73 BayBO; Negativattest zur Zweckentfremdung von Wohnraum
+- TOP .1.: Wohnungsmarkt München ? Expertenbefragung 2011; Wohnungsmarktbarometer 2011, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.12.2011
+- TOP .2.: Anfrage zum Stand der Planungsüberlegungen für die Bunkerpodeste am Auer Mühlbach
+- TOP .3.: Anfrage des BA2 zum barrierefreien Zugang zur Isar auf Höhe der Reichenbachbrücke
+- TOP .4.: Terminverschiebung im März 2012
+- TOP .5.: Sonstiges: Veranstaltungshinweis, Literaturhinweis
+- TOP .1.: Beschleunigung der Buslinie 152 und Aufwertung zur Metrobuslinie; Beschlussentwurf für den gemeinsamen Ausschuss für Arbeit und Wirtschaft, Kreisverwaltungs- und Bauausschuss am 24.01.2012; Eilentscheidung der Vorsitzenden vom 10.01.2012
+- TOP .2.: 3. Radlnacht am 26.05.2012, Vorabanhörung wegen Streckenführung
+- TOP .3.: Prinzregentenstraße zw. Richard-Strauss-Straße und Prinzregentenplatz, Haltverbotsregelung, Schreiben des BA 13 und Bürgermail
+- TOP .4.: Verkehrssituation Preysingstraße
+- TOP .1.: Lärmminderungsplanung für München, Entwurf des Lärmaktionsplans; Beschluss des Umweltausschusses vom 29.11.2011
+- TOP .2.: Naturdenkmalverordnung vom 08.09.2011 mit Naturdenkmalliste
+- TOP .3.: Sportinfrastrukturmaßnahmen in München, Sachstandsbericht 2011, Bau von Kunstrasenflächen auf städtischen Bezirkssportanlagen, Beschluss des Ausschusses für Bildung und Sport am 30.11.2011
+- TOP .4.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 08.02.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Montag, 30.01.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 07.02.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 09.02.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 06.02.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 15.02.2012 19.00 Uhr (nicht-öffentlich), Baureferat, Friedenstr. 40, Zi. 0.413/ 0.415 20.30 Uhr (öffentlich), Baureferat, Friedenstr. 40, Zi. 0.413 / 0.415
+- TOP .4.: Sonstige Termine
+- TOP .1.: Terminvorankündigung: Jährlich im Kommunalreferat stattfindender Informationsaustausch, Donnerstag, 22.03.2012, ab 18.00 Uhr, Roßmarkt 3, Zi. 232
+- TOP .2.: NS-Dokumentationszentrum München: Tag des Gedenkens an die Opfer des Nationalsozialismus, 67. Jahrestag der Befreiung von Auschwitz, Konzert am 26. Januar 2012, Beginn: 19.30 Uhr, Allerheiligen-Hofkirche
+- TOP .3.: Einladung zum kleinen Festakt zur Überreichung der Spendengelder des Haidhauser Stadtteilfestes an den Förderverein der Mittelschule an der Wörthstraße, 26.01.2012. 19.00 Uhr, Untere Turnhalle des Schulhauses
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
