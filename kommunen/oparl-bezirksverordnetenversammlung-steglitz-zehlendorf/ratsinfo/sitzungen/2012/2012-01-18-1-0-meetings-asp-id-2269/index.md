@@ -1,0 +1,77 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-01-18T17:00:00+01:00
+- Ende: 2012-01-18T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2269
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2269
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Frei Parken in Steglitz-Zehlendorf - beantwortet
+- TOP 3.2: Bebauung am Stölpchensee - beantwortet
+- TOP 3.3: Verlagerung Flugrouten - beantwortet
+- TOP 3.4: Weihnachtsmarkt in Zehlendorf schon in trockenen Tüchern? - beantwortet
+- TOP 3.5: Technologie- und Gründungszentrum Fabeckstraße - beantwortet
+- TOP 3.6: Anstehendes Planungsverfahren in Lichterfelde-Süd - beantwortet
+- TOP 3.7: Wasserqualität in der Peter-Frankenfeld-Schule - schriftlich beantwortet
+- TOP 3.8: Finanzierung von Fahrdiensten für schulische Veranstaltungen - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl von Bürgerdeputierten für den Integrationsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Wahl eines stellvertretenden Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.4: Hildegard-Gräfin-von-Koenigsmarck-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Bebauungsplan 6-15 [Curtiusstraße] - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.2.2: Bebauungsplan 6-26 VE Bülowstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.3: Anträge - erledigt
+- TOP 4.3.1: Tempo 30 für "Sonnenhaus" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Gartenstadt Düppel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Fußgängerüberweg Dahlemer Weg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Sanierung der Stadtpark-Teiche - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Mehr gebundene Ganztagsschulen in unserem Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.5: Schulwege sichern - Zebrastreifen für das Schweizer Viertel - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.5.1: Besetzung eines Aufgabengebietes der / des Bezirksbehindertenbeauftragten - Entgeltgruppe 11 TV-L - - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Wahl der Bürgerdeputierten und deren Stellvertreter/innen sowie die Berufung von beratenden Mitgliedern und deren Stellvertreter/innen zu Mitgliedern des Jugendhilfeausschusses für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Neuwahl der Mitglieder des Widerspruchsbeirates in Sozialhilfeangelegenheiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringliche Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushaltsplan 2012/13) - überwiesen
+- TOP 5.2: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.2.1: "Haus am Waldsee" unterstützen - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: Einrichtung eines Gleichstellungsausschusses - überwiesen
+- TOP 5.3.2: Schließung Sparkassenfiliale Riemeisterstraße - Erhalt der SB-Automaten - überwiesen
+- TOP 5.3.3: Zehlendorf-Mitte stärken! - überwiesen
+- TOP 5.3.4: Fortführung des Jugendaudit-Projekts - überwiesen
+- TOP 5.3.5: Tempo 30 auf der gesamten Garystraße - überwiesen
+- TOP 5.3.6: Flächenmonitoring schon jetzt - überwiesen
+- TOP 5.3.7: Finanzierung Technologie- und Gründungszentrum Fabeckstraße jetzt absichern - überwiesen
+- TOP 5.3.8: Rechts vor links in der Augustastraße - überwiesen
+- TOP 5.3.9: Verzicht auf Grünpfeil in Lichterfelde-West - überwiesen
+- TOP 5.3.10: Stadtplatz Kirchstraße und Neugestaltung Teltower Damm - überwiesen
+- TOP 5.3.11: Arbeitsgruppe Stadtplatz Kirchstraße und Neugestaltung Teltower Damm - überwiesen
+- TOP 5.3.12: Kein Parken auf dem Gehweg der Augustastraße - überwiesen
+- TOP 5.3.13: Verkehrsinsel Kita Andréezeile - überwiesen
+- TOP 5.3.14: Radstreifen im Kreuzungsbereich Gartenstraße / Berliner Straße - überwiesen
+- TOP 5.4: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.4.1: BVV-Beschluss Nr. 1279 vom 22.06.2011 Neubildung eines Bezirksbehindertenbeirates gemäß § 7 Absatz 5 des Gesetzes über die Gleichberechtigung von Menschen mit und ohne Behinderung (Landesgleichberechtigungsgesetz – LGBG) - überwiesen
+- TOP 6: Wahlen - erledigt
+- TOP 6.1: Wahlvorschläge - erledigt
+- TOP 6.1.1: Wahl eines stellvertretenden Bezirksbürgermeisters und Bezirksstadtrates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Truman Plaza - Sachstand Januar 2012 - Bauen ohne Plan(-reife)? - beantwortet
+- TOP 7.2: Bebauungsplan 6-22 / Truman Plaza - beantwortet
+- TOP 8: Anträge - erledigt
+- TOP 8.1: Ladenstraße erhalten - überwiesen
+- TOP 9: Schlusswort des Vorstehers - erledigt
