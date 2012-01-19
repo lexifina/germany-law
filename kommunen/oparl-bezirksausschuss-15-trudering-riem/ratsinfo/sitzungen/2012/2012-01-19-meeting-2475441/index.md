@@ -1,0 +1,125 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2012-01-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2475441
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2475441
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1: (E) Ersatzbelegungszeiten für den Turnverein Riem-Dornach e.V.
+- TOP 2: (E) Stellplatz für einen Bauwagen des Pfadfinderstammes Cosuaneten
+- TOP 2.3.: Einführung der Umweltzone in Trudering sowie Überprüfung der Feinstaubwerte an der Kreuzung Am Mitterfeld/ Kirchtruderinger Straße Empfehlung Nr. 08-14/ E 01075 der Bürgerversammlung des Stadtbezirks 15 Trudering-Riem am 06.10.11
+- TOP 2.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des Oberbürgermeisters vom 26.11.2007: Aufstellung von neuen Zeitungsverkaufseinrichtungen auf öffentlichem Grund; Bajuwarenstr. 24, Salzmesserstr. 43, Friedenspromenade 85, Truderinger Str. 240, Truderinger Str. 263, St.-Augustinus-Str. 12
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung St. Augustinus Schäfflertanzgruppe am 29.01.2012
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Verkehrssituation Solalindenstraße München-Trudering
+- TOP 2.2.: Antrag auf Wegebeleuchtung im Bajuwarenpark
+- TOP 2.3.: Umfahrung Kirchtrudering
+- TOP 2.4.: Antrag der Gemeinde Aschheim auf Erweiterung der Bezeichnung "S-Bahnstation Riem" zu "S-Bahnstation Riem-Dornach"
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Welche Kosten entstehen an der Truderinger Straße?
+- TOP 3.2.: Ordnungsgemäße Nutzung der Verkehrsfläche "Rappenweg" im Gewerbegebiet
+- TOP 3.3.: Wie sieht die weitere Entwicklung beim Kieswerk Obermayr aus?
+- TOP 3.4.: Wegebefestigung Alexisweg, Toröffnung Am Vogelsang
+- TOP 3.5.: Schließen der Schulwegsicherheitslücken der Straße am Hochacker
+- TOP 3.6.: Spazier- und Radweg Riem
+- TOP 3.7.: Verkehrssicherheit in Kirchtrudering
+- TOP 3.8.: Antrag auf Ausweisung einer Parkfläche am Grundstück Josef-Brückl-Str. 23
+- TOP 3.9.: Chronische Verspätungen bei der Buslinie 146 in den Abendstunden
+- TOP 3.10.: Konkrete Umsetzung der Münchner Fahrradkampagne in Trudering
+- TOP 3.11.: Qualitätssicherung am Bau des Truderinger Gymnasiums
+- TOP 3.12.: Zusatzantrag zur Stellungnahme zum Bauvorhaben Sanierung und Umbau Familienzentrum Trudering
+- TOP 3.13.: Räume für die Städtische Musikschule sichern
+- TOP 3.14.: Hundeproblematik Messestadt Ost
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Verkehrssicherheit Heilwigstraße, Ottilienstraße - Friedenspromenade
+- TOP 4.2.: Umsetzung der LZA an der Kreuzung Friedenspromenade/ Ottilienstraße
+- TOP 4.3.: Sicherheit im Bereich Gehweg über Riemerbrücke erhöhen, "Verbindung schaffen"
+- TOP 5: Anhörungen
+- TOP 5.1.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich II/18 Riemer Straße (südlich), Töginger Straße BAB 94 (nördlich) und Bahnlinie München-Mühldorf (östlich) - Tierheim
+- TOP 5.2.: Verkehrshelferübergang an der Grundschule an der Forellenstr. 1
+- TOP 5.3.: Faschingsveranstaltung "Ruaßiger Samstag" am 18.02.11 in der Kirchtruderinger Straße
+- TOP 5.4.: Veranstaltung von Scuderia München e.V. auf der Sonderfreifläche Riem am 14.10.12 (alternativ 21.10.12)
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Öffentliche Anbindung des Truderinger Gymnasiums
+- TOP 7.2.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011/2012; Sitzungsvorlage Nr. 08-14/ V 08196, Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12
+- TOP 7.3.: Schüler/innen und Klassenstand; Berufliche Schulen in der Landeshauptstadt München im Schuljahr 2011/2012, Stand 20.10.11; Sitzungsvorlage Nr. 08-14/ V 08195, Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12
+- TOP 7.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2011/2012; Sitzungsvorlage Nr. 08-14/ V 08217, Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12
+- TOP 7.5.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012; Sitzungsvorlage Nr. 08-14/ V 08324, Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: Bauvorhaben Von-Gravenreuth-Str. 27; Eingangsbestätigung des Direktoriums zum Schreiben des BA 15 an den Oberbürgermeister vom 29.11.11
+- TOP 7.2.: Bauvorhaben Von-Gravenreuth-Str. 27: Schreiben des Bauträgers
+- TOP 7.3.: Verdichtungsvorhaben der Fa. Patrizia in Waldtrudering
+- TOP 7.4.: Bauvorhaben Leibengerstraße, Flurstück 1750/1; Neubau eines Freizeit- und Eventcenters
+- TOP 7.5.: Bauvorhaben Leibengerstraße Flurstück 1750/1; Neubau eines Backshops/ Cafés mit intergriertem Fahrscheinverkauf, einer Wartehalle und eines Freizeit- und Eventcenters
+- TOP 7.6.: Standort des Briefkastens in der Messestadt Ost
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Zusatzschilder für Straßen verdienter Münchnerinnen und Münchner im Stadtbezirk
+- TOP 7.2.: Ablehnungsbescheid vom 06.12.11 über Budgetmittel an das Nord Süd Forum e.V.
+- TOP 7.3.: Offener Brief des Nord Süd Forums München e.V. vom 05.12.11 zur Ablehnung des BA-Budgetmittelantrags
+- TOP 7.4.: Zuwendungsbescheid vom 27.12.11 über Budgetmittel an die Chorgemeinschaft St. Peter und Paul Trudering
+- TOP 7.5.: Sachbericht des Turn- und Sportvereins Trudering e.V. vom 07.12.11 über den Kauf von Trikots aus Budgetmitteln
+- TOP 7.6.: Verwendungsnachweis zum BA-Budgetzuschuss des TSV Trudering e.V. für den Kauf von Fußballjugendtrikots
+- TOP 7.7.: Verwendungsnachweis zum BA-Budgetzuschuss von Echo e.V.- Verein für integrative Spiel- und Kulturpädagogik für die Aktion "Vision Works"
+- TOP 7.8.: Verwendungsnachweis zum BA-Budgetzuschuss der Katholischen Kirchenstiftung Christi Himmelfahrt zum Festkonzert vom 14.10.11
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Bussardweg 5, Am Eulenhorst 72, Bergerwaldstr.39a, Häherweg 15, Birkhahnweg 18a Wachtelweg 20, Wasserburger Landstr.46, Kreuzerweg 46, Kreillerstr. 152, Kreillerstr. 154 Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: Friedhof Riem-Alter Teil; 8.2 Hippelstr. 74; 8.3 Dompfaffweg 9; 8.4 Waldtruderingerstr. 23; 8.5 Barbenweg 5; 8.6 Ickelsamerstr. 43; 8.7 Wimbachtalstr. 10; 8.8 Am Mitterfeld 150; 8.9 Heilwigstr. 4; 8.10 Hochalmstr. 25; 8.11 Mädelegabelstr. 93; 8.12 Von-Gravenreuth-Str. 27; 8.13; Toni-Schmid-Str. 39; 8.14 Heilwigstr. 57a; 8.15 Heilwigstr. 59; 8.16 Zauberwaldstr. 6a; 8.17 Kilihofstr. 29
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Langfristige Siedlungsentwicklung, Einladung zum Zukunftskongress am 02. und 03.02.12 im Literaturhaus München, Salvatorpl. 1; Terminvorankündigung: Jährlich im Kommunalreferat stattfindender Informationsaustausch am Donnerstag, 22.03.12, Roßmarkt 3
+- TOP 9.2.: Antrag des BA 18 Untergiesing-Harlaching vom 15.11.11 mit der Bitte um Unterstützung durch weitere Bezirksausschüsse zum neuen Essensversorgungskonzept "Cook& Chill" an Schulen und Kindertageseinrichtungen
+- TOP 9.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.4.: Rückmeldung des Baureferats zur Ergänzung des BA-Beschlusses vom 18.11.11 zum Ausbau der Graf-Lehndorff-Straße zwischen Bahnlinie und Mittbacher Straße, Projekt-Nr. 100358
+- TOP 9.5.: Zwei Bürgerschreiben zur Verschmutzung und Unordnung an der Heltauer Straße mit Antworten des Referats für Gesundheit und Umwelt vom 19.12.11
+- TOP 9.6.: Bauvorhaben im Kommunalen Wohnungsbauprogramm, Liste im Internet abrufbar: Standorte mit Baurechtserklärungen nach Stadtbezirken
+- TOP 9.7.: Gedächtniskapelle Michaeliburg an der Corinthstr., Städt. Flst. 1700 Gem. Perlach, Übernahme in den Bauunterhalt des Baureferats
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Bauvorhaben im Stadtbezirk im Zeitraum 05.12.11 - 01.01.12
+- TOP 10.2.: Abbruchanzeige: Ickelsamerstr. 43
+- TOP 10.3.: Abbruchanzeige: Funtenseestr. 9
+- TOP 10.4.: Abbruchanzeige: Kreillerstr. 144
+- TOP 10.5.: Abbruchanzeige: Groschenweg 25
+- TOP 10.6.: Abbruchanzeige: Wimbachtalstr. 10
+- TOP 10.7.: Schäfflertänze im Stadtgebiet auf öffentlichem Verkehrsgrund; Anhörungen vom 16.12.11 und 02.01.12, Eilentscheidungen der BA-Vorsitzenden vom 02.01.12 nach § 20 Abs. 1 der BA-Satzung, Erlaubnisbescheid vom 02.01.12
+- TOP 10.8.: Anzeige einer sich fortbewegenden Versammlung unter freiem Himmel am 12.02.12 in der Messestadt Ost, Thema "Erzieher/innen-Notstand"
+- TOP 10.9.: Gaststättenfortführung: Cafe Sportsbar Kanka, Selma-Lagerlöf-Str. 70, 81929 München
+- TOP 10.10.: Gaststättenfortführung: Al Vecchio Riem, Riemer Str. 354, 81929 München
+- TOP 10.11.: Parkplatz Riemer Friedhof (Am Mitterfeld), Verkehrsrechtliche Anordnung einer Kurzparkzone (Durchführung wird später gesondert mitgeteilt)
+- TOP 10.12.: Kindertagesstätten sonstiger Träger; Haus für Kinder Truderinger Str. 293; Leistung eines Investitionskostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen des Investitionsprogramms "Kinderbetreuungsfinanzierung" 2008-2013; Leistung eines Baukostenzuschusses nach Art. 27 BayKiBiG; Sitzungsvorlage Nr. 08-14/ V 08364, Beschluss des Ausschusses für Bildung und Sport vom 11.01.12
+- TOP 10.13.: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Nutzungsänderung im Anwesen Kreillerstr. 173, 1. Obergeschoss rechts für die Erweiterung der bestehenden Kindertageseinrichtung (Kindergarten); Sitzungsvorlage Nr. 08-14/ V 08241, Beschluss des Sozialausschusses vom 12.01.12
+- TOP 10.14.: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung der Nutzungsänderung der Wohnungen im Erdgeschoss des Anwesens Böcklerweg 16 zur Schaffung einer Tagespflegeeinrichtung; Sitzungsvorlage Nr. 08-14/ V 08242, Beschluss des Sozialausschusses vom 12.01.12
+- TOP 10.15.: Mehr Jugendräume für die Messestadt; Antrag Nr. 08-14/ A 02281 von DIE LINKE; Sitzungsvorlage Nr. 08-14/ V 07411, Beschluss des Kinder- und Jugendhilfeausschusses vom 29.11.11
+- TOP 10.16.: Messestadt Riem; Bebauungsplan mit Grünordnung Nr. 2065 Willy-Brandt-Allee (südlich), Astrid-Lindgren-Straße (westlich), Michael-Ende-Straße (beidseits), Elisabeth-Mann-Borgese-Straße (nördlich), Heinrich-Böll-Straße (östlich) (Teiländerung der Bebauungspläne mit Grünordnung Nr. 1728 h und Nr. 1728 l) Stadtbezirk 15 Trudering-Riem; Aufstellungsbeschluss, Sitzungsvorlage Nr. 08-14/ V 08094, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.11
+- TOP 10.17.: Zukunft des geförderten Wohnungsbaus in München, Antrag Nr. 08-14/ A 02749 des Stadtratsfraktion DIE GRÜNEN/ RL vom 06.09.11; Sitzungsvorlage Nr. 08-14/ V 08223, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.12.11
+- TOP 10.18.: Wohnungsmarkt München- Expertenbefragung 2011, Wohnungsmarktbarometer 2011; Sitzungsvorlage Nr. 08-14/ V 08216, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.12.11
+- TOP 10.19.: Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016; Sitzungsvorlage Nr. 08-14/ V 08187, Beschluss der gemeinsamen Ausschüsse für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11
+- TOP 10.20.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.21.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG- Wohnungen; a) Aufforderung an die LHM, die zum Verkauf stehenden Wohnungen der GBW zu erwerben, insbesondere im 18. Stadtbezirk; Antrag Nr. 08-14/ B 03364 des BA 18 Untergiesing-Harlaching; b) Günstigen Wohnraum erhalten- Einfluss nehmen auf den Verkauf der GBW-Wohnungen, Antrag Nr. 08-14/ A 02822 der Stadtratsfraktion DIE GRÜNEN/ Rosa Liste; c) GBW-Wohnungen in öffentlicher Hand behalten- städtische Wohnungsbaugesellschaften engagieren sich!, Antrag Nr. 08-14/ A 02823 der Stadtratsfraktion der CSU; d) Schutz der Mieter beim Verkauf der GBW-Wohnungen in Haidhausen, Antrag Nr. 08-14/ B 03386 des BA 5 Au-Haidhausen; e) Verkauf des GBW-Wohnungsbestandes an den Freistaat Bayern, Antrag Nr. 08-14/ B 03487 der BA 17 Obergiesing; f) Erwerb der GBW-Wohnungen (insbesondere im 18. Stadtbezirk) durch die Landeshauptstadt München unter der Priorität der Sozialverträglichkeit und des Mieterschutzes, Empfehlung Nr. 08-14/ E 01162 der Bürgerversammlung des Stadtbezirks 18 Untergiesing-Harlaching am 10.11.11; Sitzungsvorlage Nr. 08-14/ V 08373, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.12
+- TOP 10.22.: Preis für Stadtteilpflege- Wettbewerb "Denkmalschutz und neues Bauen"; Erweiterung der Wettbewerbskriterien, zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus, Ergänzung der Wettbewerbsbezeichnung; Sitzungsvorlage Nr. 08-14/ V 08371, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.12
+- TOP 10.23.: Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden, Baugesetzbuch- Klimanovelle; Sitzungsvorlage Nr. 08-14/ V 07684, Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 07.11.11
+- TOP 10.24.: 2. Stammstrecke, Vorfinanzierung durch die Landeshauptstadt München; Sitzungsvorlage Nr. 08-14/ V 08192, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.11
+- TOP 10.25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.26.: Einführung des europäischen "Tag des Nachbarn" in München (Ziffer 3), Empfehlung Nr. 08-14/ E 00963 der Bürgerversammlung des Stadtbezirks 02 Ludwigvorstadt-Isarvorstadt am 19.05.11; Europäischer Tag des Nachbarn, Antrag des Seniorenbeirats vom 20.07.11; Sitzungsvorlage Nr. 08-14/ V 07950, Beschluss des Sozialausschusses vom 01.12.11
+- TOP 10.27.: Münchner Bürgerinnen- und Bürgerbefragung 2010; Sitzungsvorlage Nr. 08-14/ V , Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.11
+- TOP 10.28.: Perspektive München, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung; Sitzungsvorlage Nr. 08-14/ V 07948, Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 09.11.11
+- TOP 10.29.: Sicherung der Biotop-und Landschaftspflege in der Landeshauptstadt München; Sitzungsvorlage Nr. 08-14/ V 07143, Beschluss der Vollversammlung des Stadtrats vom 23.11.11
+- TOP 10.30.: Mehrjahresinvestitionsprogramm für die Jahre 2011- 2015, Gliederungsziffern 3601 Natur- und Denkmalschutz, 6100 Referat für Stadtplanung und Bauordnung, 6101 Stadtentwicklungsplanung, 6110 Lokalbaukommission, 6130 Stadtplanung, 6150 Städtebauförderung, 6200 Wohnungsbauförderung, Wohnungsfürsorge, Stellungnahmen zu den Anträgen der Bezirksausschüsse 4, 9 und 10; Sitzungsvorlage Nr. 08-14/ V 07906, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11
+- TOP 10.31.: Mehrjahresinvestitionsprogramm 2011-2015, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011-2015; Sitzungsvorlage Nr. 08-14/ V 07926, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 09.11.11
+- TOP 10.32.: Entwurf des Mehrjahresinvestitionsprogramms für die Jahre 2011- 2015, Einzelplan 4/ Sozialbereich; Sitzungsvorlage Nr. 08-14/ V 07589, Beschluss in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 08.11.11
+- TOP 10.33.: Mehrjahresinvestitionsprogramm für die Jahre 2011-2015 mit verbindlicher Planung für 2016; Entwurf für das Baureferat; Sitzungsvorlage Nr. 08-14/ V 07979, Beschluss des Bauausschusses vom 15.11.11
+- TOP 10.34.: Haushaltsplan 2012, Ansätze der zentralen Bereiche, Schlussabgleich; Sitzungsvorlage Nr. 08-14/ V 08164, Beschluss der Vollversammlung des Stadtrats vom 14.12.11
