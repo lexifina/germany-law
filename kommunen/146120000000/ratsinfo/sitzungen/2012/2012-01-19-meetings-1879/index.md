@@ -1,0 +1,53 @@
+# 36. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-01-19T16:00:00+01:00
+- Ende: 2012-01-19T21:55:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1879
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1879
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_01_19 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00085326.pdf
+
+## Tagesordnung
+
+- TOP 1: Ausscheiden eines Stadtratsmitgliedes aus dem Stadtrat und Nachrücken einer Ersatzperson in den Stadtrat der Landeshauptstadt Dresden, Kommunalwahlkreis XII - Mandat Freie Demokratische Partei (FDP) - Zustimmung
+- TOP 2: Verpflichtung gemäß § 35 Abs. 1 SächsGemO - erledigt
+- TOP 3: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 4: Bericht der Oberbürgermeisterin
+- TOP 5: Fragestunde der Stadträtinnen und Stadträte
+- TOP 5.1: Bürgerentscheid zur Zukunft der städtischen Krankenhäuser
+- TOP 5.2: Wiener Loch
+- TOP 5.3: Blaue Tonnen
+- TOP 5.4: Einführung der Blauen Tonne
+- TOP 5.5: Plakatierung Bürgerentscheid Krankenhäuser
+- TOP 5.6: "Blaue Tonne"
+- TOP 5.7: Eintritt Schloßpark Pillnitz
+- TOP 5.8: Eintrittsgebühren für den Schlosspark Pillnitz
+- TOP 5.9: Entwicklung des Gehölzbestandes
+- TOP 5.10: Kommunale Krankenhäuser
+- TOP 5.11: Neurochirurgie im Krankenhaus Dresden-Neustadt
+- TOP 5.12: Verschmutzung der Leuchtstelen auf der Hauptstraße
+- TOP 5.13: Kosten für den Bürgerentscheid über die städtischen Krankenhäuser
+- TOP 5.14: Winterdorf Postplatz
+- TOP 6: Nachtrag zur Wahl der Vertreter/-innen der Landeshauptstadt Dresden und ihrer Stellvertreter/-innen in die Verbandsversammlung des Zweckverbandes für die Verbundsparkasse "Ostsächsische Sparkasse Dresden" - Vertagung
+- TOP 7: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 8: Tagesordnungspunkte ohne Debatte
+- TOP 9: Erweiterung des Zoos für eine artgerechte Elefantentierhaltung in Dresden - punktweise Zustimmung
+- TOP 10: Errichtung einer Tiefgarage am Palaisplatz - Zustimmung mit Änderung
+- TOP 11: Innovation statt Restriktion! Maßnahmen zur Verbesserung der Luftqualität - Zustimmung
+- TOP 12: Mehr Selbstständigkeit für Schulen - Vertagung
+- TOP 13: Verbesserung der Zahlungsmoral der Landeshauptstadt Dresden und Verhinderung von Zahlungsverzögerungen bei ordnungsgemäß erbrachten Leistungen durch die freiwillige frühzeitige Umsetzung der EU-Richtlinie zur Bekämpfung von Zahlungsverzug - Zustimmung
+- TOP 14: Freie Fahrt für Radfahrer in Dresdens Einbahnstraßen - Vertagung
+- TOP 15: Transparente Verwaltung: Informationsfreiheitssatzung für die Landeshauptstadt Dresden - Zustimmung
+- TOP 16: Neu- und Umbenennung von Straßen - punktweise Zustimmung
+- TOP 17: Weiterentwicklung und Präzisierung der Planungsziele für den Bebauungsplan Nr. 357 Dresden-Neustadt Nr. 33, Leipziger Vorstadt Veränderungssperre für ein Teilgebiet des Bebauungsplanes Nr. 357 Kenntnisnahme und Billigung der weiterentwickelten und - Zustimmung
+- TOP 18: Flächennutzungsplan-Änderung Nr. 49, Ortsamt Prohlis, Teilbereich Leubnitz-Neuostra/Am Pfaffenberg - Zustimmung
+- TOP 19: Änderungssatzung zur Satzung der Landeshauptstadt Dresden über die Regelung der Wochenmärkte (Wochenmarktsastzung) vom 23. Oktober 2008 - Verweisung
+- TOP 20: Budgetneutrale Veränderung im Finanzhaushalt - Amt für Wirtschaftsförderung - Zustimmung
+- TOP 21: Nutzung erneuerbarer Energien verbessern - Bürgersolargemeinschaft gründen! - Ablehnung
+- TOP 22: Stadtratsbegehren zur Durchführung eines Bürgerentscheids zur Sanierung der Königsbrücker Straße - Ablehnung
+- TOP 23: Qualitativ ansprechendes Imbissangebot an ausgewählten Standorten im Stadtkern ermöglichen - Zustimmung
+- TOP 24: Eilantrag zur Verkehrssicherheit der "kleinen" Albertbrücke für Fußgänger und Radfahrer - mangelnde Griffigkeit des Belages - Ablehnung
