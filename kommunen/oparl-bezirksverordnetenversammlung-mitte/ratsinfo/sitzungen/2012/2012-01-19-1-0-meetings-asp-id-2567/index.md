@@ -1,0 +1,96 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2012-01-19T17:30:00+01:00
+- Ende: 2012-01-19T23:00:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2567
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2567
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=84161
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=84460
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen in der BVV beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: B-Plan III 226 - Vorlage zur Kenntnisnahme vom 09.01.2012 - beantwortet
+- TOP 5.2: Weitere Nutzung des Gebäudes Müllerstrasse 35 (ehemals C&A) - beantwortet
+- TOP 5.3: Sind Hütten im Park ein Märchen oder ein planungs- und baurechtlicher Gau? - beantwortet
+- TOP 5.4: Mal eben "locker aus der Hüfte geschossen" oder mit Kalkül genannt? - schriftlich beantwortet
+- TOP 5.5: Vorläufige Haushaltswirtschaft und Soziale Stadt - schriftlich beantwortet
+- TOP 5.6: Weniger Hundekot in Mitte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Schuldnerberatung im Ortsteil Moabit - beantwortet
+- TOP 6.2: Ist Mitte Schlusslicht bei Haushaltsaufstellung? - vertagt
+- TOP 6.3: Nachhilfe in Geschichte aus Bayern? - schriftlich beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Bearbeitung von Anträgen auf Anwohnervignetten in Mitte - beantwortet
+- TOP 7.2: Ergebnisse der AG Roma - beantwortet
+- TOP 7.3: Projekt Spracherziehung in Mitte - schriftlich beantwortet
+- TOP 7.4: Conrad-Stiftung - rechtliche Prüfung des BVV-Beschlusses zur Drs. 2147/III "Nachlass Conrad / Stiftung Bürger für Mitte" - schriftlich beantwortet
+- TOP 7.5: Städtebauliche Kriminalprävention in Mitte - schriftlich beantwortet
+- TOP 7.6: Personalausstattung der Kindertagesstätten des Eigenbetriebs Kindergärten City in Mitte - schriftlich beantwortet
+- TOP 7.7: Dachausbau Rathaus Tiergarten: Trotz Haushaltssperre? - schriftlich beantwortet
+- TOP 7.8: Inanspruchnahme des Bildungspaketes der Bundesregierung - schriftlich beantwortet
+- TOP 7.9: Das Rathaus Wedding und die BIM - schriftlich beantwortet
+- TOP 7.10: Ausstattung des Öffentlichen Gesundheitsdienstes mit ÄrztInnen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Berufung beratender Mitglieder des JHA gemäß §35 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 8.2: Berufung eines stimmberechtigten Mitgliedes der BVV und dessen Stellvertreter für den Verwaltungsrat "Kindergärten City, Eigenbetrieb von Berlin" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 1 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 4 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.4: Wahl einer Schiedsperson für den Schiedsamtsbezirk Mitte 6 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplanentwurf I-B5s (Spandauer Vorstadt, mittlerer Bereich) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes I-B5s - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10.2: Erlass einer Veränderungssperre mit der Bezeichnung 1-60/21 (Alexander/Schillingstraße) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Benennung einer Durchwegung zwischen See- und Ungarnstraße nach Elisabeth Schmitz - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Schuldnerberatung in Tiergarten erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Investitionsblockade für Schulen und Sport vermeiden! - mit Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Digitaler Sitzungsservice für die Bezirksverordnetenversammlungen - überwiesen
+- TOP 12.2: Für Demokratie, Vielfalt und Toleranz - überwiesen
+- TOP 12.3: Nicht genutzte Fahrradständer - überwiesen
+- TOP 12.4: Fortschreibung des Schulentwicklungsplanes 2009 Berlin-Mitte - überwiesen
+- TOP 12.5: Handel mit "E-Zigaretten" - überwiesen
+- TOP 12.6: Wahl von Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Bildungspaket der Bundesregierung - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Internationaler Romatag 8. April 2012 - überwiesen
+- TOP 12.9: Leitlinien zur Wohnungslosenpolitik und Wohnungslosenrahmenplan - überwiesen
+- TOP 12.10: Frauenbeirat Stadtplanung einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: LIVE-Übertragung der BVV-Sitzungen - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Ende der Sondernutzung für das Grillen im Großen Tiergarten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Occupy-Bewegung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Ergebnis der Bürgerbeteiligung zum B-Planentwurf III-46-1 (Mittelpunktsbibliothek) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Weiterführung des Bebauungsplanes III-226 (Kolonie Virchow) mit geänderten Planinhalten, Durchführung der Öffentlichkeitsbeteiligung usw. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Gründung des Beirates für Menschen mit Behinderung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Integriertes Handlungs- und Entwicklungskonzept der Quartiersmanagement-Gebiete Moabit West, Moabit Ost, Magdeburger Platz, Reinickendorfer-/Pankstrasse, Soldiner Strasse, Sparrplatz, Brunnenviertel-Ackerstrasse und Brunnenviertel-Brunnenstrasse - Fortschreibung 2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Beschluss über die Einstellung des Bebauungsplanentwurf I-38 "Seydelstrasse" im Bezirk Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Verbraucherinformationsgesetz bürgerfreundlich umsetzen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.9: Keine zusätzliche Verkehrsbelastung der Siemensstraße! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Integration von behinderten Menschen in die Arbeitswelt fördern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Mütterprojekte in Mitte verstetigen! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: In der Mobilität eingeschränkte Menschen unterstützen – „Netzwerk Winter“ einrichten! - vertagt
+- TOP 16.13: Über Schutzgebiete im Bezirk informieren - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.14: Leipziger Straße - Metrobushaltestelle sicher und benutzerfreundlich gestalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Thusneldaallee für den gesamten motorisierten Verkehr schließen - auch für Busse - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: C&A - Aufgabe des Standortes Müllerstraße - vertagt
+- TOP 16.17: Beim Essen - Klima schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Toilettennutzung im Bereich um den "Tränenpalast" - vertagt
+- TOP 16.19: Durchführung einer Bürgerveranstaltung im Huttenkiez - mit Abschlussbericht zur Kenntnis genommen
