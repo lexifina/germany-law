@@ -1,0 +1,121 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-01-24T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427221
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427221
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Ausrichtung der Stadtteilkulturtage 2016
+- TOP .1.: Budget für eigene Veranstaltungen: ?Alt und Jung ? Grenzenlos? im Staatstheater am Gärtnerplatz
+- TOP .1.: Planung der Einsätze der Münchner Sommer SpielAktion 2012
+- TOP .2.: Änderung der Schulsprengel
+- TOP .3.: BA-Budget: Bescheide (1)
+- TOP .4.: Verwendungsnachweise (1)
+- TOP .6.: Stellungnahme des BA 1 zur Erstellung eines ?Seniorenstadtplans?
+- TOP .8.: Schreiben des BA 1 mit Wunsch auf Einbindung in die Planungen zur Errichtung eines neuen Konzertsaals im Bereich des Deutschen Museums
+- TOP .10.: Schreiben des BA 1 an die Urbanauten mit der Feststellung, dass die Bezirksausschüsse 1, 2 und 3 in die Jury des Architekturwettbewerbs ?Isar-Lust? eingebunden werden
+- TOP .11.: Sitzungsvorlage des RGU bzgl. Jubiläum ?450 Jahre Alter Südfriedhof? im Jahr 2013 ? Durchführung von Veranstaltungen
+- TOP .12.: Bekanntgabe des RBS bzgl. Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule für Schuljahr 2011/2012
+- TOP .13.: Bekanntgabe des RBS bzgl. Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011/2012
+- TOP .14.: Bekanntgabe des RBS bzgl. Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München im Schuljahr 2011/2012; Stand: 20.10.2011
+- TOP .15.: Bekanntgabe des RBS bzgl. Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012
+- TOP .16.: Beschlussvorlage des RBS bzgl. Sportinfrastrukturmaßnahmen in München ? Sachstandsbericht 2011; Bau von Kunstrasenflächen auf städtischen Bezirkssportanlagen
+- TOP .1.: Anfrage zum Stand der Planung für das Grundstück der Pfadfinder in der Pestalozzistraße
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Berücksichtigung der Sozialen Bodennutzung bei der Absiedelung von Teilen der Innenstadt-Kliniken und der daraus folgenden Zukunftsplanungen (PLENUMSBESCHLUSS)
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Lindwurmstraße 137: Neubau eines Wohn- und Geschäftshauses; Tektur (siehe auch TOP B 3.1.1 der TO 12/11)
+- TOP .2.: Müllerstraße 3-7: Umbau und Umnutzung des HKW-Turms (Eilentscheidung)
+- TOP .3.: Sonnenstraße 18: Nutzungsänderung Café zu Table-Dance-Bar
+- TOP .4.: Thalkirchner Straße 106: Umbau und Nutzungsänderung von Büro- und Technikräumen zu einer Jugendeinrichtung
+- TOP .5.: Poccistraße 7-9: Errichtung eines neuen Eingangs im Erdgeschoss, Umbau des Eingangsbereichs im Erdgeschoss
+- TOP .6.: Adlzreiterstraße 19: Errichtung eines Dachgeschosses; Vorbescheid
+- TOP .7.: Zenettistraße 40: Nutzungsänderung; Errichtung zweier Wohnungen im Dachgeschoss des Mittelbaus
+- TOP .8.: Aventinstraße 11: Nutzung eines Flachdachs als Dachterrasse (Nachgenehmigung Bestand)
+- TOP .9.: Auenstraße 21: Sanierung, Aufstockung, Dachausbau und Neubau von Wohngebäuden im Innenhof; Vorbescheid
+- TOP .10.: Landwehrstraße 46: Aufstockung und Nutzungsänderung des Vordergebäudes, Dachausbau sowie Errichtung einer Verbindungsbrücke zum Rückgebäude
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baumfällung Uhlandstraße 7 (Eilentscheidung)
+- TOP .2.: Baumfällung Lindwurmstraße 137 (Eilentscheidung)
+- TOP .3.: Baumfällung Auenstraße 106
+- TOP .4.: Baumfällung Auenstraße 21 (zu TOP B 3.1.9) PLENUMSBESCHLUSS
+- TOP .5.: Nachtrag: Baumfällung am Hauptbahnhofsvorplatz
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Fortschreibung der Erhaltungssatzung Ludwigsvorstadt-Isarvorstadt; Beschlussvorlage des Planungsreferats
+- TOP .1.: Baumaßnahmen der SWM
+- TOP .2.: Beschlussvorlage des Baureferats bzgl. Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015 mit verbindlicher Planung für 2016
+- TOP .3.: Bauvorhaben im Kommunalen Wohnungsbauprogramm
+- TOP .4.: Katalog des Baureferats über die zu fällenden Gefahrenbäume
+- TOP .5.: Bekanntgabe des Planungsreferats bzgl. Gesetz zur Förderung der klimagerechten Entwicklung in den Städten und Gemeinden, Baugesetzbuch-Klimanovelle
+- TOP .6.: Beschlussvorlage des Planungsreferats bzgl. Sicherung der Biotop- und Landschaftspflege in der Landeshauptstadt München
+- TOP .7.: Beschlussvorlage des Planungsreferats bzgl. Mehrjahresinvestitionsprogramm für die Jahre 2011 ? 2015
+- TOP .8.: Beschlussvorlage des Planungsreferats bzgl. Mehrjahresinvestitionsprogramm 2011- 2015, Festsetzung der Reihenfolge großer Siedlungsmaßnahmen für die Jahre 2011 - 2015
+- TOP .9.: Fällgenehmigung der Kastanie in der Waltherstraße 26
+- TOP .10.: Fällgenehmigung des Götterbaumes in der Buttermelcherstraße 19
+- TOP .12.: Ablehnungsbescheid des Planungsreferats bzgl. Bauvorhaben Schwanthalerstraße 3
+- TOP .13.: BV-Empfehlung Nr. 08-14/E00010: Bepflanzung des Grünstreifens vor dem AWO-Kindergarten in der Baumstraße 18 sowie Aufstellen von Mülleimern und Tütenspendern für Hundekot
+- TOP .14.: Beschlussvorlage des Planungsreferats bzgl. Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG-Wohnungen
+- TOP .15.: Beschlussvorlage des Planungsreferats bzgl. Preis für Stadtbildpflege ? Wettbewerb ?Denkmalschutz und Neues Bauen?
+- TOP .16.: Genehmigung des Bauvorhabens in der Sonnenstraße 22, Verfahrensnr. 31236-21
+- TOP .17.: Bekanntgabe des Planungsreferats bzgl. Wohnungsmarkt München ? Expertenbefragung 2011; Wohnungsmarktbarometer 2011
+- TOP .18.: Beschluss des Stadtrats bzgl. 2.Stammstrecke ? Vorfinanzierung durch die Landeshauptstadt München
+- TOP .19.: Beschlussvorlage des Planungsreferats bzgl. des Projekts Langfristige Siedlungsentwicklung
+- TOP .20.: Information der MVG über eingleisige Verkehre während der Arbeiten zur Fahrstromertüchtigung im Januar/Februar 2012 auf den Linien U3 und U6-Süd
+- TOP .21.: Glasfasererschließung der SWM
+- TOP .22.: Genehmigung des Bauvorhabens in der Erhardtstraße 12; Az.: 602-1.2-2011-19649-21
+- TOP .1.: Baumbepflanzungen auf den Zufahrtsstraßen zum Gärtnerplatz
+- TOP .2.: Barrierefreier Zugang zur Isar auf Höhe der Reichenbachbrücke
+- TOP .3.: Lärmminderungsplanung für München ? Entwurf eines Lärmaktionsplans
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: ?Café Glück?, Palmstraße 4: Erweiterung einer bestehenden Freischankfläche (PLENUMSBESCHLUSS)
+- TOP .2.: ?Cafè Bar 7?, Ehrengutstraße 4: Genehmigung einer Freischankfläche (PLENUMSBESCHLUSS)
+- TOP .3.: ?SSW Bamyan Narges?, Hans-Sachs-Straße 3: Erweiterung einer bestehenden Freischankfläche (PLENUMSBESCHLUSS)
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Lindwurmstraße 15: Aufstellung eines mobilen Fahrradständers (PLENUMSBESCHLUSS)
+- TOP .2.: Aufstellung von neuen Zeitungsentnahmegeräten für die Tageszeitung ?Bild? (PLENUMSBESCHLUSS)
+- TOP .3.: Rumfordstraße 36: Aufstellung eines mobilen Fahrradständers (PLENUMSBESCHLUSS)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Sonnwendfeuer auf der Theresienwiese 15.06.-17.06.2012 (vertagt in die Februarsitzung)
+- TOP .2.: Radlnacht am 26.05.2012 (Eilentscheidung des Vorsitzenden vom 16.01.2012)
+- TOP .3.2: Verkehr
+- TOP .1.: Einrichtung einer Ladezone für die Rossmann-Filiale in der Fraunhoferstraße 10 (Eilentscheidung des Vorsitzenden vom 04.01.2012)
+- TOP .2.: Fahrbahnsanierung Ruppertstraße mit Einmündung Lindwurmstraße (PLENUMSBESCHLUSS)
+- TOP .3.: Hotelanfahrtszone für das City Aparthotel in der Sonnenstraße 18b (PLENUMSBESCHLUSS)
+- TOP .4.: Austausch von Lichtzeichenanlagen an der Kapuziner-/Thalkirchnerstraße und Lindwurm-/Reisingerstraße (PLENUMSBESCHLUSS)
+- TOP .1.: BV-Empfehlung Nr. 08-14/E01172: Anlieger für Schäden durch Besucher des Oktoberfestes entschädigen (PLENUMSBESCHLUSS)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen: - Ehrengutstraße 4: ?Café Bar 7? - Kapuzinerstraße 23: ?Chang Noi ? Kleiner Elefant? - Baaderstraße 68: ?Tom & Mike`s Bar-Lounge-Treff? - Müllerstraße 17: ?Sunshine Pub? - Fraunhoferstraße 43: ?Rubybar? - Corneliusstraße 16: "Kirk-Bar"
+- TOP .4.: Verkehrsrechtliche Anordnungen: - Taxistandplatz Bayerstraße 83, Neuerrichtung - Rückverlegung der Haltestelle Münchner Stadtrundfahrten oHG am Bahnhofsplatz
+- TOP .5.: Erlaubnisbescheide: Fasching in der Reichenbachstraße am 21.02.2012
+- TOP .6.: Radwegsituation am Röcklplatz; Schreiben des KVR
+- TOP .7.: Beschluss des Bauausschusses vom 06.12.2011: Radverkehrsanlagen in der Kapuzinerstraße
+- TOP .8.: Radstreifen gegen die Einbahnrichtung in der Deutingerstraße; Schreiben des KVR
+- TOP .9.: Stellungnahme des KVR bzgl. Freischankflächen für Gaststätte ?Zappeforster? und Café ?Högl?
+- TOP .10.: Stellungnahme des KVR bzgl. Beschwerde über Getränkemarkt am Baaderplatz
+- TOP .11.: Fasching in der Reichenbachstraße am 21.02.2012 (Eilentscheidung des Vorsitzenden vom 30.12.2011)
+- TOP .12.: Beschleunigung der Buslinie 152 und Aufwertung zum Metrobus (Eilentscheidung des Vorsitzenden vom 30.12.2011)
+- TOP .13.: Schreiben des Baureferats bzgl. Pflanztröge in der Bayerstraße
+- TOP .14.: Stellungnahmen der beteiligten Stellen zu Beschwerde einer Bürgerin über die Verschmutzung der Straßen rund um das Winter-Tollwood auf der Theresienwiese
+- TOP .1.: Termine
+- TOP .1.: Informationsaustausch zwischen dem Kommunalreferat und den Bezirksausschüssen am Donnerstag, den 22.03.2012 um 18.00 Uhr im Kommunalreferat am Roßmarkt 3, Zi 232
+- TOP .3.: Sonstiges / Verschiedenes
+- TOP .5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Unterrichtungen (siehe Beiblatt)
+- TOP .11.: entfällt
+- TOP .2.: Veranstaltungen
+- TOP .9.: Erhalt des Bolzplatzes der Glockenbachwerkstatt
