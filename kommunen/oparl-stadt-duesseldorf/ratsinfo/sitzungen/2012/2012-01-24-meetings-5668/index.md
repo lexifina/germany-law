@@ -1,0 +1,56 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-01-24T17:00:00+01:00
+- Ende: 2012-01-24T21:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5668
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5668
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00170875.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00170875.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00170875.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Sachstandsbericht "Standort der Firma Gerro Plast GmbH, Heyestraße 178" - einstimmig beschlossen
+- TOP 3.1: Bunker Heyestraße - zur Kenntnis genommen
+- TOP 4: ÖPNV - Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Änderungsantrag der Fraktionen CDU und FDP zur Vorlage 66/127/2011 - einstimmig beschlossen
+- TOP 7: Sachstandsbericht zukünftige Linienführung Wehrhahnlinie - beantwortet
+- TOP 8: Wendeschleife 709 in Grafenberg - einstimmig beschlossen
+- TOP 9: Schulorganisatorische Maßnahme - Auflösung der Karl-Röttger-Tagesschule, Diepenstraße - zur Kenntnis genommen
+- TOP 9.1: Schulstandort Diepenstraße 24 - einstimmig beschlossen
+- TOP 10: Benennung der Planstraße 3428 in "Am Ringofen" - einstimmig beschlossen
+- TOP 11: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 12: Straßenbahnlinie am Staufenplatz - einstimmig beschlossen
+- TOP 13: Fußgängerübergang Haltestelle Burgmüllerstraße - einstimmig beschlossen
+- TOP 14: Haltestelle Burgmüllerstr - einstimmig beschlossen
+- TOP 15: Erhöhung der Verkehrssicherheit in der Wittelsbachstr. / Staufenplatz - einstimmig beschlossen
+- TOP 16: Radweg Wittelsbachstraße zwischen Staufenplatz und Ostpark - einstimmig beschlossen
+- TOP 17: Friedhofsentwicklungskonzept - einstimmig beschlossen
+- TOP 18: Sachstandsbericht Kastanienallee Altenbergstr. - einstimmig beschlossen
+- TOP 19: Sachstandsbericht Bushaltestelle Am Neuenhaus - einstimmig beschlossen
+- TOP 20: Sachstandsbericht Ausbau Am Gartenkamp - einstimmig beschlossen
+- TOP 21: Sachstandsbericht Torfbruchstraße - einstimmig beschlossen
+- TOP 22: Spielplatz im Neubaugebiet Am Quellenbusch - einstimmig beschlossen
+- TOP 23: Änderungsantrag der Fraktionen CDU und FDP zur Vorlage 177/22/2012 - einstimmig beschlossen
+- TOP 23.1: Umgestaltung der Benderstraße - mehrheitlich abgelehnt
+- TOP 24: Überquerung Knittkuhler Straße - einstimmig beschlossen
+- TOP 25: Beleuchtung Blanckertzstraße - einstimmig beschlossen
+- TOP 26: Sachstandsbericht Heyestraße - einstimmig beschlossen
+- TOP 27: Streukiste Dorfstraße - einstimmig beschlossen
+- TOP 28: Sachstandsbericht Umbau von Gleisanlagen und Haltestellen Benderstraße/ Heyestraße - einstimmig beschlossen
+- TOP 29: Sichtachse Forster Weg / Marthastrasse / Rennbahn - einstimmig beschlossen
+- TOP 30: Nutzung der Sitzungssäle in den Bezirksrathäusern - zur Kenntnis genommen
+- TOP 31: "Bäume entlang der Bergischen Landstraße" - zur Kenntnis genommen
+- TOP 32: Radverkehrsnetz Bezirk 7 Stufe 1 - zur Kenntnis genommen
+- TOP 33: Zustände City-Bereich Gerresheim u. a. - zur Kenntnis genommen
+- TOP 34: Wegeverbindung Hirschburgweg - Pfeifferbrücke, Ludenberger Straße - zur Kenntnis genommen
+- TOP 35: Ergebnisse der Haushaltsberatungen 2012 - zur Kenntnis genommen
+- TOP 36: Verkehrssicherheit an signalisierten Überwegen im Bereich von Straßenbahnschienen im Stadtbezirk 7 - zur Kenntnis genommen
