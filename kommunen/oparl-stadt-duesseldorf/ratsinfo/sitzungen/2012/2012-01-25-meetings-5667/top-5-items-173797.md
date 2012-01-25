@@ -1,0 +1,7 @@
+# TOP 5: Rechtsextreme Gruppierungen und Tendenzen in Düsseldorf
+
+- Sitzung: Integrationsausschuss (2012-01-25)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/173797
+- Ergebnis: zur Kenntnis genommen
