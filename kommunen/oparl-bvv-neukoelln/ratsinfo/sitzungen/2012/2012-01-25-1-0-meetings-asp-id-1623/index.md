@@ -1,0 +1,85 @@
+# 4. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-01-25T18:00:00+01:00
+- Ende: 2012-01-25T22:34:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1623
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1623
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Dringlichkeiten - erledigt
+- TOP 2: Geschäftliches - erledigt
+- TOP 3: Der Bürgermeister hat das Wort - erledigt
+- TOP 4: Entschließungen - erledigt
+- TOP 4.1: Naziaufmarsch entgegentreten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Vorlagen zur Wahl - (offen)
+- TOP 5.1: Wahl von ehrenamtlichen Sozialpfleger(n)/innen - gewählt
+- TOP 5.2: Wahl eines stellvertretenden Bürgerdeputierten in den Integrationsausschuss - gewählt
+- TOP 5.3: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verkehr und Tiefbau - gewählt
+- TOP 5.4: Wahl einer stellvertretenden Bürgerdeputierten in den Integrationsausschuss - gewählt
+- TOP 5.5: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verwaltung und Gleichstellung - gewählt
+- TOP 5.6: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Verwaltung und Gleichstellung - gewählt
+- TOP 5.7: Wahl von Mitgliedern in den Beirat für das Vivantes Klinikum Neukölln - gewählt
+- TOP 5.8: Wahl der Mitglieder in den Beirat für Migrationsangelegenheiten - gewählt
+- TOP 5.9: Wahl von ehrenamtlichen Sozialpflegern/-innen - gewählt
+- TOP 6: Vorlagen zur Beschlussfassung - ohne Änderungen im Ausschuss beschlossen (Beratungsfolge beendet)
+- TOP 6.1: Bezirkshaushaltsplan für die Jahre 2012/2013 (Doppelhaushalt) - überwiesen
+- TOP 6.2: Bebauungsplan 8-40 B vom 13.09.2011 ("Karl-Marx-Straße/Walterstraße") - ohne Änderungen in der BVV beschlossen
+- TOP 6.3: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Integrationsausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.3: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Verwaltung und Gleichstellung - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.4: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 7.5: Benennung einer Bezirksverordneten als Mitglied in den Jugendhilfeausschuss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Mündliche Anfragen - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.1: Vorläufige Haushaltswirtschaft und Soziale Stadt - beantwortet
+- TOP 8.2: Schulhausmeister - beantwortet
+- TOP 8.3: Verdrängung der Schüler und Schülerinnen aus der Helene-Nathan-Bibliothek - beantwortet
+- TOP 8.4: Symptombekämpfung oder Problemlösung: Wachschutz? - beantwortet
+- TOP 8.5: Drogenprävention am Hermannplatz - beantwortet
+- TOP 8.6: Internet-Plattform für Missstände im öffentlichen Raum auch in Neukölln? - beantwortet
+- TOP 8.7: Altkleider - beantwortet
+- TOP 8.8: Umbau des Parkplatzes am westlichen Ende der Parchimer Allee - beantwortet
+- TOP 8.9: Taizé-Treffen - schriftlich beantwortet
+- TOP 9: Vertagte Drucksachen aus vorangegangenen Sitzungen - beantwortet
+- TOP 9.1: Rechtsextremismus in Neukölln - beantwortet
+- TOP 9.2: Wie geht es weiter mit dem Straßenausbaubeitragsgesetz (StrABG)? - schriftlich beantwortet
+- TOP 9.3: Öffentlicher Beschäftigungssektor und Bürgerarbeit - beantwortet
+- TOP 9.4: Bauschäden ehemalige Frauenklinik - schriftlich beantwortet
+- TOP 9.5: Anzahl der Bürgerdeputierten im Integrationsausschuss erhöhen - in der BVV abgelehnt
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Genehmigung der Bezirkshaushaltsrechnung Neukölln für das Haushaltsjahr 2010 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Folgen der Einstellung des Wachschutzes an Neuköllner Schulen - beantwortet
+- TOP 11.2: Abrechnungsunregelmäßigkeiten bei ambulanten Pflegediensten - beantwortet
+- TOP 11.3: Alternativen zum Wachschutz? - beantwortet
+- TOP 11.4: Städtebauliche Kriminalprävention in Neukölln - beantwortet
+- TOP 11.5: Verbot für Mieterberatung? - beantwortet
+- TOP 12: Große Anfragen - schriftlich - beantwortet
+- TOP 13: Anträge - beantwortet
+- TOP 13.1: Haushaltsverabschiedung verschieben - vertagt
+- TOP 13.2: Honoraranpassungen JA, aber nicht zu Lasten der Bezirke - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Finanzielle Mittel für den Wachschutz an Neuköllner Schulen - mit Änderungen in der BVV beschlossen
+- TOP 13.4: Bushaltestelle Kielinger Straße barrierefrei - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Mieterberatung erhalten - überwiesen
+- TOP 13.6: Digitaler Sitzungsservice für die Bezirksverordnetenversammlungen - mit Änderungen in der BVV beschlossen
+- TOP 13.7: Mehr Sicherheit für Fußgänger am Wildenbruchplatz - überwiesen
+- TOP 13.8: Bezahlbaren Wohnraum schaffen - überwiesen
+- TOP 13.9: Späthstraßenbrücke öffnen - Einheit vollenden - überwiesen
+- TOP 13.10: Transparenz bei den Bezirksverordneten, Bürgerdeputierten und Bezirksamtsmitgliedern - vertagt
+- TOP 13.11: Transparente Aufstellung der Senatszuweisungen - vertagt
+- TOP 13.12: Mehr Sicherheit für Schulkinder - überwiesen
+- TOP 13.13: Datenschutz für Schüler garantieren - überwiesen
+- TOP 13.14: Identifikationsschilder von Ordnungsamtsmitarbeitern - vertagt
+- TOP 14: Mitteilungen - (offen)
+- TOP 14.1: Info über Aufhebung des Pfändungsschutzes - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 15.1: Zwei Wege im Landschaftspark-Süd mit Namen benennen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 15.2: Eigene Auswertungen bei Open Prosoz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 15.3: Veränderungssperre XIV-263b/26 - mit Abschlussbericht zur Kenntnis genommen
