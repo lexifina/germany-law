@@ -1,0 +1,57 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-01-25T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2424207
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2424207
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse CVJM München e.V. Ersatz defekter Spielgeräte
+- TOP .2.: (E) Budget der Bezirksausschüsse Wilhelmschule-Förderverein e.V. Projekt "Komm - wir finden eine Lösung"
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Belgradstr. 22, ?Fruchtoase?: Warenauslage
+- TOP .2.: Kurfürstenplatz 6 a, Kiosk: Zeitungsständer
+- TOP .3.: Verkaufseinrichtungen für ?WELT KOMPAKT? an 14 Standorten
+- TOP .2.2.: Kultur
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: City Bike Marathon München und nördliche Umgebung am 15.04.2012
+- TOP .2.1.: Planen
+- TOP .1.: Angererstr. 9: Neubau eines Wohngebäudes mit Gewerbeeinheiten und einer Tiefgarage (Tektur)
+- TOP .2.: Fürstenbergstr. 15/Lerchenauer Str. 24+28: Aushub und Verbau zum Neubau einer Wohnanlage (3 Mehrfamilienhäuser mit 48 WE + 7 Stadthäuser) inkl. Tiefgarage (58 Stellplätze) ? Antrag auf Teilbaugenehmigung
+- TOP .3.: Nordendstr. 46-48: Fassadensanierung, Umbau DG-Wohnung, Balkonanbau, Liftanbau
+- TOP .4.: Kathi-Kobus-Str. 22-24: Sanierung und Umbau der Dachterrasse mit Teil-Überdachung (in Stahlskelettbau als Staffelgeschoss)
+- TOP .5.: Franz-Joseph-Str. 27: DG-Ausbau zu Wohnzwecken mit Anbau einer Gaube + Außentreppe sowie nachträgliche Legalisierung Plattenlager
+- TOP .6.: Hörwarthstr. 43: EG rechts: Nutzungsänderung von Café/Konditorei mit Backstube zu einer Wohnung mit Arbeitszimmer, Anbau eines Balkons, Änderung der Fensteröffnungen
+- TOP .7.: Schleißheimer Str. 234: 1. Genehmigung des Alkoholverkaufs in einem Gastgarten 2. Vergrößerung dreier Dachgauben, Umbau einer Loggia in eine Dachgaube, Fenstereinbau Südfassade
+- TOP .8.: Viktor-Scheffel-Str. 10: Modernisierung Mehrfamilienhaus, Balkonerweiterungen, Anbau eines außenliegenden Personenaufzugs
+- TOP .9.: Vorbescheid Mainzer Str. 6: Energetische Sanierung der Wohnanlage mit DG-Ausbau, Anbau von Aufzügen und Balkonen sowie Errichtung eines Wohngebäudes mit TG im Innenhof
+- TOP .10.: Schleißheimer Str. 182: Nutzungsänderung eines Ladens in eine Gaststätte
+- TOP .11.: Tengstr. 28, Neuerrichtung des Daches, Anbau eines Personenaufzugs, Sanierung der Fassade, Wiederherstellung des historischen Giebels
+- TOP .12.: Infanteriestr. 11a: Neubau Pavillon IV mit Hochschulnutzung und Tiefgarage (Tektur)
+- TOP .13.: Lissi-Kaeser-Straße: Neubau eines Passiv-Mehrfamilienhauses mit Tiefgarage
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Überprüfung der Ampelschaltungen Lerchenauer Straße/Birnauer Straße und Lerchenauer Straße/Spiridon-Louis-Ring
+- TOP .2.: Bürger: Lärmbeschwerde über das Studentwohnheim Hiltenspergerstraße
+- TOP .3.: Grüne: Piktogramm ?Achtung Radfahrer? und rote Radwegmarkierung an der Kreuzung Elisabeth-/Hiltenspergerstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Urbanes Wohnen e.V.: Urbanes Naturnetz für ganz München (vertagt aus 12/11)
+- TOP .2.: Rümannstr. 25: Fällung einer Robinie
+- TOP .3.: Adelheidstr. 17: Fällung von 24 Bäumen
+- TOP .4.: Kölner Platz 1: Fällung eines Spitzahorn
+- TOP .2.2.: Verkehr
+- TOP .1.: Neue Linienführung der StadtBus-Linie 154 am Ackermannbogen (Beschlussvorlage zur Erledigung der Empfehlungen Nr. 08-14/E 01062-1066 aus der Bürgerversammlung 2011)
+- TOP .2.: Fahrbahnsanierungen a) Elisabethstraße zwischen Schleißheimer und Winzererstraße b) Bauerstraße zwischen Nordend- und Gentzstraße c) Hohenzollernstraße zwischen Schleißheimer Straße und Zentnerstraße
+- TOP .1.: Berufung einer/eines Behindertenbeauftragten
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
