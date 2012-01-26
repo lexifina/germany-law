@@ -1,0 +1,68 @@
+# 4. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-01-26T16:30:00+01:00
+- Ende: 2012-01-26T21:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3243
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3243
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=83104
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-03 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung von beratenden und stellvertretenden beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.2: Neuwahl eines Mitgliedes des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.3: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.4: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 8.5: Wahl von stellvertretenden Bürgerdeputierten - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Straßenausbaubeitragsgesetz - schriftlich beantwortet
+- TOP 10.2: S-Bahn-Verkehr in Treptow-Köpenick - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Lokaler Aktionsplan Schöneweide im Rahmen des Bundesprogramms "TOLERANZ FÖRDERN - KOMPETENZ STÄRKEN" - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Bebauungsplan 9-35b ("Müggelseedamm") hier: Reduzierung des Geltungsbereichs - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Bebauungsplan 9-30 ("Parkplatz Amtswäldchen"), Ortsteil Köpenick hier: Änderungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Bebauungsplan XV-38 ("Kleeblattsiedlung") hier: Planreife für das Vorhaben gemäß Antrag vom 5. Mai 2011 (Eingang: 26. Mai 2011) für das Grundstück Knospengrund 23 A bis 23 E im Bezirk Treptow-Köpenick, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Vorhabenbezogener Bebauungsplan 9-57 VE ("Marienhain") hier: Einleitungsbeschluss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Bebauungsplan XV-37eb ("Gartenstadt "Falkenberg": Buntzelstraße/Kirchsteig") hier: Inhaltliche Änderung zum Bezirksamtsbeschluss Nr. 53/00 vom 23.05.2000 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Genehmigung der im Haushaltsjahr 2010 in Anspruch genommenen über- und außerplanmäßigen Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Bebauungsplan 9 – 47 ("Uferweg Oberschöneweide") hier: Änderung Geltungsbereich - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan 9-56 ("Kiez Anne-Frank-Straße") hier: Reduzierung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.2: Bebauungsplan 9-39 G ("Ausschluss Einzelhandel Teilbereich Alt-Treptow") hier: Reduzierung des Geltungsbereiches - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Bebauungsplan 9-58 ("Rathenau-Hallen") hier: Aufstellungsbeschluss - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Eckwerte für Ausgaben (ohne Investitionen) sowie für Einnahmen zur Aufstellung des Bezirkshaushaltsplanes 2012/2013 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Stasiüberprüfung der Bezirksverordneten - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Erhaltungssatzung für Alt-Treptow - überwiesen
+- TOP 14.3: Straßenbahnlinie WISTA nach Schöneweide weiterführen - überwiesen
+- TOP 14.4: Radwege verbinden am Treptower Park - überwiesen
+- TOP 14.5: Änderung des § 34 (2) der Geschäftsordnung der Bezirksverordnetenversammlung Treptow-Köpenick von Berlin vom 27.10.2011 - überwiesen
+- TOP 14.6: Schillerpromenade 9-10 in Oberschöneweide - überwiesen
+- TOP 14.7: Umgang mit dem Straßenausbaubeitragsgesetz - überwiesen
+- TOP 14.8: Unübersichtliche Geschwindigkeitsanordnung in der Köpenicker Straße in Altglienicke beseitigen - überwiesen
+- TOP 14.9: Baumschutz in der Kiefholzstraße entlang des ehemaligen Görlitzer Bahndamms - überwiesen
+- TOP 14.10: Ja zur Städtepartnerschaft mit Teheran! - ein Signal gegen Kriegshetze und Boykott - in der BVV abgelehnt
+- TOP 14.11: Haltverbot in der Müggelheimer Straße - überwiesen
+- TOP 14.12: Verfahren bei Befangenheit von Bezirksverordneten - überwiesen
+- TOP 14.13: Offene Wohnungen transparent machen – Straftaten gegen die sexuelle Selbstbestimmung präventiv bekämpfen - überwiesen
+- TOP 14.14: Wegweiser in Adlershof - überwiesen
+- TOP 14.15: Verkehrsberuhigung Baumschulenstraße - überwiesen
+- TOP 14.16: Laterne vor der Grünauer Schule - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Missbilligung der Entscheidung über die Flugroutenführung des BER - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.18: Einwohnerversammlung bei auslaufenden Sozialwohnungen - mit Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Mehrkosten aus dem Gesamtvertrag zu § 53 UrhG für Schulen im Bezirk - vertagt
