@@ -1,0 +1,6 @@
+# TOP 6.: Mitteilungen
+
+- Sitzung: Umweltausschuss (10. Sitzung) (2012-01-31)
+- Körperschaft: Kolpingstadt Kerpen
+- Öffentlich: ja
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/agendaitem/32377
