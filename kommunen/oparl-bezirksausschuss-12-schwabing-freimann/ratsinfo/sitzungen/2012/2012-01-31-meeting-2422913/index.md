@@ -1,0 +1,127 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-01-31T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2422913
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2422913
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Eilentscheidungen: a) Wochenmarkt Münchner Freiheit ? Erweiterung der Marktveranstaltung auf Ganzjährig b) 3. Radlnacht am 26.05.2012 c) Baumfällungsantrag, Kaiserplatz 1, 1 Akazie (vertagt aus 12/11) d) Eilantrag bezüglich der Änderung der Sitzungsvorlage zur Trägerschaftsauswahl für den Nachbarschaftstreff in der Parkstadt Schwabing
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .10.: sonstiges
+- TOP .1.: Essensversorgungskonzept ? ?Cook & Chill?; Antrag des Bezirksausschusses 18
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Erweiterung einer bestehenden Freischankfläche, Leopoldstraße 64
+- TOP .2.: Anpassung einer bestehenden Freischankfläche an die neuen Freischankrichtlinien und geringfügige Erweiterung der Gesamtfläche, Ungererstraße 137
+- TOP .3.: Aufstellung von 12 Zeitungsverkaufseinrichtungen (diverse Orte)
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Biedersteiner Straße, 19-21, 1 Linde
+- TOP .2.: Carl-Orff-Bogen 100, 4 Linden
+- TOP .3.: Osterwaldstraße 60, Fl.Nr.: 1063/6, Neubau eines Einfamilienhauses mit Carport, Fällung von 12 Bäumen
+- TOP .4.: Neurißweg 6, Fl.Nr.: 309/787, Aufstockung eines Wohngebäudes, Fällung einer Scheinzypresse
+- TOP .5.: Keferstraße 12, 3 Bäume
+- TOP .6.: Hohenzollernstraße 3, 1 Kastanie
+- TOP .7.: Wallnerstraße 21, 5 Fichten
+- TOP .8.: Lillweg 46, 1 Buche
+- TOP .9.: Berliner Straße 60, 1 Pappel
+- TOP .10.: Am Blütenring 43 a, 1 Ahorn
+- TOP .11.: Domagkstr. 33, Flurnummer 880/110, 170 Bäume (ehemalige Funkkaserne)
+- TOP .12.: Leopoldstr. 250, Fl.Nr.: 837/0, Neubau eines Bürogebäudes mit Tiefgarage und Gaststätte, diverse Bäume
+- TOP .13.: Situlistr. 52 ? 58, 2 Fällungen, 13 Baumveränderungen
+- TOP .14.: Willi-Graf-Str., 4 Fichten, 1 Esche - Fällung der Esche wurde am 19.01.12 genehmigt
+- TOP .1.: Bauvorhaben: Kaulbachstraße 63?63a, Flurstück 3339/0, Neubau einer Wohnanlage mit Tiefgarage
+- TOP .2.: Bauvorhaben: Ungererstraße 175, Flurstück 966/0, Ausbau zu einer Rehaklinik mit Arztpraxis
+- TOP .3.: Bauvorhaben: Kaiserstr. 2, Flurstück 359/12 a) Nutzungsänderung eines Speichers in Wohnraum und Zusammenlegung mit der DG-Wohnung b) Abbruch und Neuerrichtung von Balkonen sowie Anbau einer Notleiter zur Sicherstellung des 2. Rettungsweges
+- TOP .1.: Benennung der Endhaltestelle der Tram 23 in ?Bauhausplatz? (BA-Antrag Nr.: B 01210)
+- TOP .2.: Erhalt des Baudenkmals Gartenhaus von Prof. Birkenholz aus dem Jahre 1923 (BA-Antrag Nr.: B 02327)
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Reischlweg 7, 1 Schwarzkiefer, 1 Fichte
+- TOP .2.: Oberndorfferstr. 7, 1 Silberahorn
+- TOP .3.: Heimstättenstr. 28, 1 Birke
+- TOP .4.: Unterrichtung über das Fällen von Gefahrenbäumen durch das Baureferats a) Karl-Theodor-Str. 14 und 16 / 20 und 48; je 1 Kirsche b) Clemensstr. 37, 1 Robinie c) diverse Orte d) diverse Orte e) Gysslingstraße, 1 Eschen-Ahorn) f) diverse Orte
+- TOP .5.: Zinnienstraße 11, 1 Fichte
+- TOP .1.: Naturdenkmalverordnung vom 08.09.2011 mit Naturdenkmalliste (incl. Äußerung zur gewünschten Änderung: hier: die sogenannte ?Heldenesche?
+- TOP .2.: Bauvorhaben im Kommunalen Wohnungsbauprogramm: Standorte mit Baurechtsklärungen nach Stadtbezirken; Information des Kommunalreferats
+- TOP .3.: Antworten auf den BA-Antrag Nr. B 03412 ?Änderung der Straßenreinigungssatzung? von folgenden BA's: 1, 2, 4, 6, 9, 10, 11, 13, 15, 17, 19, 20, 21 und 25
+- TOP .4.: Sachstand über den Verkauf der GBW AG (Landesbank-Wohnungen); Information der SPD-Stadtratsfraktion
+- TOP .5.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG ? Wohnungen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 Sitzungsvorlage Nr.: 08-14 / V 08373
+- TOP .6.: Preis für Stadtbildpflege ? Wettbewerb ?Denkmalschutz und Neues Bauen? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 Sitzungsvorlage Nr.: 08-14 / V 08371
+- TOP .7.: Perspektive München - Langfristige Siedlungsentwicklung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2012, Sitzungsvorlagen Nr. 08-14 / V 08420
+- TOP .8.: Baumaßnahme der Stadtwerke München: Fernwärme, Ungererstr. 158
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 12 Schwabing-Freimann Widmung des Fuß- und Radweges an der Tram 23
+- TOP .1.: Parklizensgebiet Biederstein ? Veränderung der bestehenden Parkregelung
+- TOP .1.: Errichtung eines personenbezogenen Behindertenparkplatzes am Arnold-Schönberg-Weg 23 (Ortstermin: 26.01.2012)
+- TOP .2.: Ausweisung der Fröttmaninger Heide als Naherholungsgebiet / Bürgerpark (BV-Empfehlung E 01042)
+- TOP .1.: Änderung der Parkzeitbegrenzung von 1 Stunde auf 2,5 Stunden in der Freisinger Landstraße ab Haus Nr. 14
+- TOP .2.: Verbesserung des Parallelweges entlang der U-Bahn zwischen Kieferngarten und Garching
+- TOP .3.: Bachufersanierung Altarm - Garchinger Mühlbach (siehe auch TOP C.5.3.1.)
+- TOP .1.: Schulwegsicherheit Kieferngartenstraße
+- TOP .2.: Schulwegsicherheit Kieferngartenstraße (BA-Antrag B 03509)
+- TOP .2.: Konzept für die Abfallbeseitigung in der Leopoldstraße zwischen Münchner Freiheit und Georgenstraße (BV-Empfehlung E 01021 vom 14.07.2011)
+- TOP .1.: Beibehalten eines dauerhaften absoluten Haltverbot in der Heidemannstraße Südseite östlich Kleinlappener Straße
+- TOP .2.: Errichtung eines absoluten Haltverbot auf der Nordwestseite der Georg-Muche-Straße
+- TOP .3.: Errichtung eines absoluten Haltverbot Am Kiefernwald
+- TOP .4.: Errichtung eines absoluten Haltverbot an der Reventlowstraße
+- TOP .5.: Öffnung der in Richtung Westen einbahngeregelten Seestraße zwischen Werneck- und Mandlstraße für den gegenläufigen Radverkehr
+- TOP .6.: Beschilderung des in der Unterführung Zinnienstraße baulich vom Gehweg getrennten Weg als gegenläufigen Radverkehr
+- TOP .7.: Beschilderung Neubauviertel Admiralbogen (Tempo-30-Zone)
+- TOP .8.: Antrag auf Genehmigung zur Anlage und zum Betrieb eines Hubschrauberlandeplatzes in Oberschleißheim
+- TOP .9.: Aufhebung der Hotelanfahrt Hohenzollernstraße 3
+- TOP .10.: Aufhebung des Taxistandplatzes in der Leopoldstraße 194 (vor dem Holiday Inn)
+- TOP .11.: Errichtung eines Haltverbots auf der Ostseite des Admiralbogens
+- TOP .1.: Errichtung und Betrieb einer Wasserkraftanlage am Garchinger Mühlbach im Bereich des Areals ?Freisinger Landstr. 72? (?WKA Freimann?) hier: Verschiebung des Standortes / Auflagenänderung
+- TOP .2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (2)
+- TOP .3.: Erinnerungsverfahren ? geplante Baumaßnahmen im öffenlichen Straßengrund im Stadtbezirk 12 a) Destouchesstraße 35 ? 61, Fahrbahn und Parkbucht b) Viktoriastraße 7 ? 27, Fahrbahn c) Lowithstraße 1 ? 9, Fahrbahn d) Morawitzkystraße 2 ? 6, Fahrbahn e) Am Wiesrain, Straßfeldweg, Obere Länge, Hackmahdgasse, Grasraimweg, Gassenfleckl, Längsweg f) Dillistraße, Fahrbahn g) Kaulbachstraße (Nord/Süd), Fahrbahn
+- TOP .4.: Konzept für die Abfallbeseitigung in der Leopoldstraße (Test von 100-Liter Abfallbehältern)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Gaudiblatt / 84 GHz - Raum für Gestaltung Nachbarschaftsfest am 23.06.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Wilhelmschule-Förderverein e.V. Gewaltpräventionsprojekt "Fels und Wasser"
+- TOP .1.: Parade und Veranstaltung anlässlich des St. Patrick's Day am 11.03.2012
+- TOP .2.: City Bike Marathon München am 15.04.2012
+- TOP .3.: Flohmarkt am Nikolaiplatz am 12.05.2012
+- TOP .1.: Kinderflohmärkte an der Münchner Freiheit des Kinder- und Jugendmuseums München
+- TOP .2.: Auswahl der Trägerschaft des neuen Nachbarschaftstreffs in der Parkstadt Schwabing
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Cafe ?Salve?, Kleingaststätte, Siegfriedstr. 19
+- TOP .2.: ?Raaz?, Schank- und Speisewirtschaft, Alfred-Arndt-Straße 1
+- TOP .3.: ?Casablanca?, Schank- und Speisewirtschaft, Clemensstraße 16
+- TOP .4.: ?Mini-Hofbräuhaus?, Trink- und Imbisskiosk mit Bewirtungsfläche im Freien, Gyßlingstr. 59
+- TOP .5.: ?Thai-Krung-Si?, Schank- und Speisewirtschaft, Giselastraße 8
+- TOP .6.: ?Agaxy?, Diskothek, Leopoldstraße 27
+- TOP .7.: ?Gunezrainer, Trink- und Imbisskiosk mit Bewirtungsfläche im Freien, Gunezrainerstr. 6
+- TOP .8.: ?Hanshe?, Schank- und Speisewirtschaft, Eisenacher Str. 2 c
+- TOP .1.: Zuwendungen / Rückforderungen aus dem Budget des BA 12 a) Mohr-Villa-Chor für die Maßnahme: Jahreskonzert
+- TOP .2.: Verwendungsnachweise / Danksagung a) Mohr-Villa-Chor für die Maßnahme: Jahreskonzert b) Theater Heppel & Ettlich für die Maßnahme: Das Heppel geht fremd c) Domagkatelier für die Maßnahme: Offene Domagkateliers 2011 d) E.F. Schumacher-Gesellschaft für die Maßnahme: Festakt und Symposium e) Rationaltheater für die Maßnahme: Theaterstück ?Herz aus Gift?
+- TOP .3.: Nachbarschaftstreff Parkstadt Schwabing ? Trägerschaftsauswahl für ein Projekt der Quartierbezogenen Bewohnerarbeit in der Parkstadt Beschluss des Sozialausschusses vom 12.01.2012 Sitzungsvorlage Nr. 08-14 / V 08240
+- TOP .4.: Schüler und Klassenzahlen - an den städtischen und staatlichen Realschulen - an den städtischen und staatlichen Gymnsasien - an den beruflichen Schulen - an den Grund- , Mittel- und Förderschulen, städt. Tageheiimen und Heilpädagogischen Tagesstätten Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 11.01.2012
+- TOP .5.: Brandschutzmaßnahme und Dachgeschossausbau am Oskar-von-Miller-Gymnasium in der Siegfriedstraße 22
+- TOP .6.: Maßnahmen zur Förderung des Wohnungstausches (Antwort des Referats für Stadtplanung und Bauordnung zum BA-Antrag B 03267 des 9. Stadtbezirkes)
+- TOP .7.: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2011 Bekanntgabe im Ausschuss für Bildung und Sport des Stadtrates vom 30.11.2011 Sitzungsvorlage Nr.: V 08-14 / V 05452
+- TOP .8.: Streetlife Festival / Corso Leopold ? Erfahrungsbericht 2010 und 2011 und Ausblick Beschluss des Kreisverwaltungsausschusses vom 24.01.2012 Sitzungsvorlage Nr. 08-14 / V 08447
+- TOP .9.: Ruhestörungen im Lokal OPA! OPA!
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
