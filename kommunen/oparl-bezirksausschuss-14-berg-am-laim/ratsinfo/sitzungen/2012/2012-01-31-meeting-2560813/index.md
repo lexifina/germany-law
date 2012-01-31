@@ -1,0 +1,89 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2012-01-31T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2560813
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2560813
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung über die Aufstellung von neuen Zeitungsverkaufseinrichtungen auf öffentlichem Grund: Friedenstr. 17, Josephsburgstr. 88, Kreillerstr. 47
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Friedenstr. 10 - Optimolgelände - Gesamtkonzeptplan Rettungswege, Feuerwehrzufahrten, Stellplätze - befristet vom 01.01.2011 - 11.01.2016
+- TOP 3.2.: Antrag zur Offenhaltung der Hachinger-Bach-Straße
+- TOP 3.3.: Erweiterung der Abstellanlage des S-Bahn-Betriebshofes München-Steinhausen - Planfeststellungsbeschluss -
+- TOP 3.1.: Taktverdichtung und bessere Pünktlichkeit auf der Linie 19
+- TOP 3.2.: Änderung der Fahrbahnmarkierung in der St.-Veit-Straße
+- TOP 3.3.: Änderung der Radverkehrsführung in der St.-Veit-Straße
+- TOP 3.4.: Änderung der Radverkehrsführung in der Hansjakobstraße
+- TOP 3.5.: Aktionen des AKA e.V. am Piusplatz und in der Gotteszeller Straße
+- TOP 3.6.: Kreuzung Berg-am-Laim-Str. / Leuchtenbergring
+- TOP 3.1.: Vollzug der Wassergesetze und des Gesetzes über die Umweltverträglichkeitsprüfung; Planfeststellungsverfahren für die Freilegung und den naturnahen Ausbau des Hachinger Bachs zwischen der Kampenwandstraße und dem Hüllgraben
+- TOP 3.1.: Stadtteilkulturzentrum für Berg am Laim - Rahmenbedingungen
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Projektteam Zirkus der Ludwig-Thoma-Realschule
+- TOP 3.2.: Theatervorstellungen ?Kunstdünger? an der Grundschule Grafinger Straße
+- TOP 3.3.: Antrag auf Budgetmittel des BA 14 für die Nachbereitung der Stadtteilwoche 2011
+- TOP 3.1.: Westerhamer Straße 11 / Grafinger Straße 46 / Aßlinger Straße 9 / Kreillerstraße 38 / Josephsburgstraße 120 /
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Friedenstr. 10 - Unveränderte Fortführung der Gaststätte "Die Burg"
+- TOP 4.3.: Baumkirchner Str. 57 - Unveränderte Fortführung der ESV-Vereinsgaststätte
+- TOP 4.4.: Preis für Stadtbildpflege; Wettbewerb "Denkmalschutz und Neues Bauen", - Erweiterung der Wettbewerbskriterien - zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus - Ergänzung der Wettbewerbsbezeichnung - RIS-Vorlagennummer V 08371
+- TOP 4.5.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V?- Wohnungsbauoffensive 2012 - 2016 - Vorlagennummer V 08187
+- TOP 4.6.: Wohnungsmarkt München - Expertenbefragung 2011 - Wohnungsmarktbarometer 2011 - Bekanntgabe - Vorlagennummer V 08216
+- TOP 4.7.: Zukunft des geförderten Wohnungsbau in München Antrag Nr. 08-14 / A 02749 der Stadtratsfraktion Die Grünen/RL vom 06.09.2011 - Vorlagennummer V 08223
+- TOP 4.8.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW-AG-Wohnungen; a) Aufforderung an die LHM, die zum Verkauf stehenden Wohnungen der GBW zu erwerben, insbesondere im18. Stadtbezirk - Antrag Nr. 08-14 / B 03364 BA 18 b) Günstigen Wohnraum erhalten - Einfluss nehmen auf den Verkauf der GBW Wohnungen - Antrag Nr. 08-14 / A 02822 der Grünentadtratsfraktion c) GBW-Wohnungen in öffentlicher Hand behalten - städtische Wohnungsbaugesellschaften engagieren sich ! - Antrag Nr. A 02823 der CSU-Stadtratsfraktion d) Schutz der Mieter beim Verkauf der GBW- Wohnungen in Haidhausen - Antrag Nr. 08-14 / B 03386 des BA 05 - Au-Haidhausen e) Verkauf des GBW-Wohnungsbestandes an den Freistaat Bayern - Antrag Nr. 08-14 / B 03487 des Bezirksausschusses des Stadtbezirkes 17 - Obergiesing f) Erwerb der GBW-Wohnungen (insbesondere im 18. Stadtbezirk) durch die Landeshauptstadt München unter der Priorität der Sozialverträglichkeit und Berücksichtigung des Mieterschutzes - Empfehlung Nr. 08-14 / E 01162 der BV 18
+- TOP 4.9.: Perspektive München - Langfristige Siedlungsentwicklung - Vorlagennummer V 08420 a) Sachstandsbericht b) Zukunftskongress
+- TOP 4.10.: Soziale-Stadt-Maßnahmen für 2012 ff. Unterführung Innsbrucker Ring (Höhe Piusplatz) Zweiter Bauabschnitt Piusplatz Erweiterung Führichschule
+- TOP 4.11.: Nutzungsänderung Levelingstraße 23
+- TOP 4.1.: Überwachung des ruhenden Verkehrs im Bereich Annabrunnner- und Kraiburger Straße
+- TOP 4.2.: Fahrradverkehr im Abschnitt zwischen Neumarkter und Berg-am-Laim-Straße
+- TOP 4.3.: Haltverbot in der St.-Michael-Straße südlich der Hachinger-Bach-Straße
+- TOP 4.4.: Haltverbot in der St.-Michael-Straße nördlich der Bad-Kreuther-Straße
+- TOP 4.5.: Aufhebung eines personenbezogenen Behindertenplatzes in der Gögginger Straße
+- TOP 4.1.: Lärmminderungsplan für München - Entwurf des Lärmaktionsplanes - Ergänzung zum Beschluss des Umweltausschusses vom 31.01.2012 - Vorlagennummer V 08119
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.1.: Sportinfrastrukturmaßnahmen in München Sachstandsbericht 2011 - Vorlagennr. V 07818
+- TOP 4.2.: Erweiterung und Modernisierung des Sonderpädagogischen Förderzentrums und der Mittelschule am Innsbrucker Ring 75/Echardinger Grünstreifen - Ausführungsgenehmigung für vorgezogene Maßnahmen - Vorlagennummer V 08356 1. Errichtung einer Baustellenzufahrt 2. Rodungsarbeiten und Baumschutzmaßnahmen 3. Kanalarbeiten 4. Abriss des Schulpavillons
+- TOP 4.3.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012 - V 08324
+- TOP 4.4.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2011/2012 - Vorlagennr.V 08217
+- TOP 4.5.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011/2012 - Vorlagennummer V 08196
+- TOP 4.6.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2011/2012 Stand 20.10.2011 - Vorlagennummer V 08195
+- TOP 4.7.: Wie geht?s weiter mit den Griechischen Schulen? - Antwort auf Stadtratsanfrage
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Verwendungsnachweis Sonnenblumenprojekt 2011
+- TOP 4.2.: Verwendungsnachweis Projektgruppe Kunst der Ludwig-Thoma-Realschule
+- TOP 4.1.: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 4.2.: Bad-Kissingen-Str. 61
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.6.: Baumschutz
