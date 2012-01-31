@@ -1,0 +1,71 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-01-31T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501396
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501396
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: Entscheidung gemäß OB-Vollmacht über Sondernutzungserlaubnis: 8 Anträge für Zeitungsverkaufseinrichtungen
+- TOP 2.2.: Entscheidung gemäß OB-Vollmacht über Sondernutzungserlaubnis: Antrag für einen Fahrradständer
+- TOP 2.3.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching-Hasenbergl Einziehung von Teilstrecken des Feld- und Waldweges Nr. 78 und der Frankaustraße
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Heimat- und Volkstrachtenverein Riadastoana Feldmoching e.V. Sanierung der Zunft- und Vereinsschilder
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Gesamtverein Feldmoching e.V. Dorffasching in Feldmoching am 19.02.2012
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt Evangliumskirche Konzerte 2012
+- TOP 3.1.: Bereitstellung von detaillierten Informationen für den BA 24 a) zu aktuellen und zukünftigen (= nach Bau einer 3. Start- und Landebahn) Flugbewegungen über dem 24. Stadtbezirk b) zu Auswirkungen auf die Taktung der S1 und auf den Straßenverkehr
+- TOP 3.2.: Antrag auf Einwirkung durch BA 24 auf Stadtrat und Behörden zur Unterbindung des Bauvorhabens eines Giftgaslagers an der Ludwigsfelder Str. 168 durch Fa. Air Liquide
+- TOP 3.3.: Antrag auf Unterstüztung durch BA 24 zur Erhaltung des alten Gärtnerhauses in der Borsigstr. 215 und Zuführung zu einer Nutzung als "Mehrgenerationenhaus"
+- TOP 3.4.: Antrag auf Ampel an der Kreuzung Feldmochinger Straße/ Himmelschlüsselstraße / Leberblümchenstraße und Niederalteicher Straße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Antrag auf Baumfällungen entlang der Schittgablerstraße
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Geschwister-Löb-Str. 3 (Neubau 2er Mehrfamilienhäuser mit TG - Vorbescheid) 5.2.2 Lerchenauer Str. 185 (Neubau eines Mehrfamilienhauses, 3er Stadthäuser und TG) 5.2.3 Lerchenauer Str. 240 (Errichtung eines Getränkemarktes) 5.2.4 Waldmeisterstr. 33 (Neubau eines Mehrfamilienhauses für 6 WE mit TG) 5.2.5 Wolfoltstr. 1 (Teilabbruch einer Gaststätte) 5.2.6 Aronstabstr. 9 (Neubau eines Dreifamilienhauses) 5.2.7 Tollkirschenweg (Neubau eines Hauses für Kinder mit 2 Kindergarten- und 4 Kinderkrippengruppen)
+- TOP 5.3.: Baureferat: Vorplanung für die Maßnahme Lerchenstraße / Herbergstraße
+- TOP 5.4.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: City Bike Marathon München und nördl. Umgebung am 15.04.2011
+- TOP 5.5.: KVR: Veranstaltung auf städtischer Grünanlage: Goldschmiedplatz: Flohmärkte des Bewohnerstammtisches Hasenbergl-Nord am 31.03., 28.04., 17.06.2012.......
+- TOP 5.6.: KVR: Veranstaltung auf städtischer Grünanlage: Dülfer Anger: Integrationsfest des Vereins für Integrations- und Bildungsförderung in München e.V. vom 15.05. - 20.05. und vom 25.05. -28.05.2012
+- TOP 5.7.: KVR: Veranstaltung auf städtischer Grünanlage: Dülfer Anger: 4. Nachbarschaftsfest des Deutsch-Türkischen Kulturvereins vom 31.05. - 04.06.2012
+- TOP 5.8.: KVR: Veranstaltung auf städtischer Grünanlage: Dülfer Anger: Open-Air-Konzert "Beats on Anger" (Veranstalter: Der Club, Die Kiste) am 28.07.2012
+- TOP 5.9.: KVR: Veranstaltung auf städtischer Grünanlage: Dülfer Anger: Gastspiel des Kinderzirkus Roberto vom 13.09. bis 23.09.2012
+- TOP 5.10.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Laufveranstaltung "Eternal Flame" mit Ziel Olympiastadion am 21.05.2012
+- TOP 5.11.: Bauvorhaben: 5.11.1 Feldmochinger Str. 367 (Nutzungsänderung eines Supermarktes zu einer Kita) 5.11.2 Feldmochinger Str. 383 (Abbruch eines Wohngebäudes mit angebautem Stadel) 5.11.3 Karlsfelder Str. 8 (Errichtung eines Lagergebäudes (als Ersatz für abgebranntes Lagergebäude)) 5.11.4 Karlsfelder Str. 16 (Neubau eines Wohngebäudes für ambul. betr. Wohngemeinschaft - Tektur zur Freiflächengestaltungsplan) 5.11.5 Leberlestraße (Errichtung von Wohngebäuden mit TG (Leberle-, Moriggl-, Paidar-, Raheinstraße) - Vorbescheid)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: KVR: Anbringung von Ortsteil-Hinweisschildern "Fasanerie"
+- TOP 6.2.: KVR: Zugeparkter Fußweg südl. Paul-Preuß-Straße
+- TOP 6.3.: KVR: Geschwindigkeitsbeschränkung auf der Karlsfelder Straße
+- TOP 6.4.: Baureferat: Nutzerbeteiligung bei der Planung des Jugendspielplatzes an der Schittgablerstraße
+- TOP 6.5.: Referat für Stadtplanung und Bauordnung: Luftverkehrsrechtliches Genehmigungsverfahren Hubschraubersonderlandeplatz
+- TOP 6.6.: RGU: Vollzug der Abfall- und immissionsschutzrechtlichen Bestimmungen; Schrott-Anton-GmbH
+- TOP 6.7.: RGU: Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG): Antrag der Fa. Air Liquide auf Errichtung und Betrieb einer Anlage zur Lagerung von Gasen sowie Füllanlage zur Abfüllung von Druckgasflaschen
+- TOP 6.8.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.9.: Meldelisten Baumfällanträge
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Karlsfelder Str. 85
+- TOP 6.12.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund: Drehgenehmigung Aktenzeichen XY... im gesamten Stadtbezirk vom 01.01. bis 31.12.2012
+- TOP 6.13.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Preis für Stadtbildpflege - Wettbewerb "Denkmalschutz und Neues Bauen"...
+- TOP 6.14.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG - Wohnungen
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Langfristige Siedlungsentwicklung: a) Sachstandsbericht b) Zukunftskongress
+- TOP 6.16.: Beschlussvorlage Baureferat: Mehrjahresinvestitionsprogramm für die Jahre 2011 - 2014 mit verbindl. Planung für 2016; Entwurf des Baureferates
+- TOP 6.17.: Beschlussvorlage Stadtkämmerei: Haushaltsplan 2012; Ansätze der zentralen Bereiche, Schlussabgleich
+- TOP 6.18.: Beschlussvorlage Referat für Bildung und Sport: Sportinfrastrukturmaßnahmen in München; Sachstandsbericht 2011; Bau von Kunstrasenflächen auf städtischen Bezirkssportanlagen
+- TOP 6.19.: Beschlussvorlage Referat für Bildung und Sport: Schüler/innen und Klassenstand; Berufliche Schulen der Landeshauptstadt München Schuljahr 2011/ 2012
+- TOP 6.20.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen an den städt. und staatlichen Gymnasien, Schulen des Zweiten Bildungsweges und Schulen besonderer Art Schuljahr 2011/ 2012
+- TOP 6.21.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen an städt. und staatl. Realschulen, und städt. Franz-Auweck-Abendschule Schuljahr 2011/2012
+- TOP 6.22.: Beschlussvorlage Referat für Bildung und Sport: Schüler- und Klassenzahlen der öffentl. Grund-, Mittel- und Förderschulen, der städt. Tagesheime und heilpädagogischen Tagesstätten für das Schuljahr 2011/2012
+- TOP 6.23.: Baureferat: Bachräumungstermine 2012 für die Stadt- bzw. Stadtrandbäche
+- TOP 6.24.: Mieterbeirat der Landeshauptstadt München: Protokoll des Mietertages vom 24.11.2011
+- TOP 6.25.: Sozialreferat: Broschüre "100 Jahre Wohnungsamt"
+- TOP 6.26.: Referat für Bildung und Sport: Städt. Willy-Brandt-Gesamtschule; Jahresbericht 2010/ 2011
+- TOP 6.27.: Zuschuss aus dem BA-Budget: diverse Verwendungsnachweise/ Sachberichte
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Urbanes Wohnen e.V. München: Rundbrief "Urbanes Naturnetz für ganz München"
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
