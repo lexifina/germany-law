@@ -1,0 +1,53 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-02-01T17:00:00+01:00
+- Ende: 2012-02-01T18:45:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5523
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5523
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00171541.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00171541.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00171541.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: ÖPNV - Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - einstimmig beschlossen
+- TOP 4: Am Turnisch - Planergänzung - Radweg - mehrheitlich beschlossen
+- TOP 5: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 6: Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben im Stadtbezirk 8 - beantwortet
+- TOP 7: Bunker Gatherweg - vertagt
+- TOP 8: Bunker Gatherweg - vertagt
+- TOP 9: Wellness Center Elbsee - vertagt
+- TOP 10: Jugendfreizeitstätte Kuthsweg - vertagt
+- TOP 11: Sachstandsbericht Ortsumgehungen - beantwortet
+- TOP 12: Grundstück Kuthsweg 16 - 20 - beantwortet
+- TOP 13: Haltestelle 'In den Maisbanden' - beantwortet
+- TOP 14: Papiercontainer in Vennhausen - beantwortet
+- TOP 15: Parken auf der Lasallestraße - vertagt
+- TOP 16: Duschräume Freiwillige Feuerwehr Unterbach, Gerrseheimer Landstraße 42 - einstimmig beschlossen
+- TOP 17: Unterrichtungstafel Düssel - einstimmig beschlossen
+- TOP 18: Maßgaben für die Gewärung von Zuschüssen durch die Bezirksvertretung 8 - einstimmig beschlossen
+- TOP 19: Radwegeplanung Am Turnisch - zurückgezogen
+- TOP 20: Bunker Gatherweg - einstimmig beschlossen
+- TOP 21: Fahrradstreifen Gubener Straße - zurückgezogen
+- TOP 22: Geschwindigkeitsregekung Eller Kamp - mehrheitlich beschlossen
+- TOP 23: Grundstück Kuthsweg 16 - 20 - einstimmig beschlossen
+- TOP 24: Verkehrsführung Reisholzer Straße / Schlesische Straße - zur Kenntnis genommen
+- TOP 25: Beschilderung Radwegeverbindung Hasseler Richtweg zum Eller Forst / Unterbacher See - zur Kenntnis genommen
+- TOP 26: LKW-Zufahrt zum Dillenburger Weg / Waagenstraße - zur Kenntnis genommen
+- TOP 27: Behindertengerechte Haltestellen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 28: Sachstand B-Planverfahren Am Kleinforst - zur Kenntnis genommen
+- TOP 29: Jugendfreizeiteinrichtung Chemnitzer Straße 51a - zur Kenntnis genommen
+- TOP 30: Fahrradständer Wasserspielplatz Schlosspark Eller - zur Kenntnis genommen
+- TOP 31: Gertrudisplatz - zur Kenntnis genommen
+- TOP 32: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 33: Papiercontainer in Vennhausen - zur Kenntnis genommen
+- TOP 34: Barrierefreiheit S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 35: Beleuchtung Grünanlage Chemnitzer Straße - zur Kenntnis genommen
+- TOP 36: Sachstand Ortsumgehungen - zur Kenntnis genommen
