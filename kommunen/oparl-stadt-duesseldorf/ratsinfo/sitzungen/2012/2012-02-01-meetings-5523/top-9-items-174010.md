@@ -1,0 +1,8 @@
+# TOP 9: Wellness Center Elbsee
+
+- Sitzung: Bezirksvertretung 8 (2012-02-01)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/174010
+- Ergebnis: vertagt
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/61104
