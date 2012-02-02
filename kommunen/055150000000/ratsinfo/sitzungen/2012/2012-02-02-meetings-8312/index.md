@@ -1,0 +1,57 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-02-02T17:07:00+01:00
+- Ende: 2012-02-02T20:47:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8312
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8312
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00318911.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Bekanntgabe von Anträgen und Eingaben
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 5.1: Sachstand OSMO-Hallen
+- TOP 5.2: Revitalisierung Flechtheim- / Rhenus-Speicher - von der Tagesordnung abgesetzt
+- TOP 5.3: Sachstand Baustellenabwicklung Dortmund-Ems-Kanal
+- TOP 5.4: Dortmund-Ems-Kanal - Kanalüberführung (KÜ) - einstimmig geändert beschlossen
+- TOP 5.5: Außengastronomie in der Innenstadt, Evaluation und Neuorientierung - von der Tagesordnung abgesetzt
+- TOP 5.6: Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen - von der Tagesordnung abgesetzt
+- TOP 5.7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtgebiet Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2012 - mehrheitlich beschlossen
+- TOP 5.8: Einrichtung eines Verfügungsfonds im Rahmen des Städtebauförderprogramms Aktive Stadt- und Ortsteilzentren für das Programmgebiet Münster-Innenstadt - von der Tagesordnung abgesetzt
+- TOP 5.9: Gestaltung der Schaltschränke im Bahnhofsviertel in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - von der Tagesordnung abgesetzt
+- TOP 5.10: Geschäftsbericht des Amtes für Wohnungswesen - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 7: Verkehr
+- TOP 7.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms - vertagt
+- TOP 7.2: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms - von der Tagesordnung abgesetzt
+- TOP 7.3: Zuschussmaßnahmen / Kommunaler Straßen- und Radwegebau 2012 - zur Kenntnis genommen
+- TOP 7.4: Verkehrsberuhigung auf der Gittruper Straße, Anträge nach § 24 GO NRW (lfd. Nr. 92/2011 vom 25.08.2011 und lfd. Nr. 96/2011) und Antrag Nr. A-O/0017/2011 der CDU-Fraktion der Bezirksvertretung Münster-Ost - mehrheitlich beschlossen
+- TOP 7.5: Mehr Sicherheit auf dem Nottulner Landweg - Tempo 30 - mehrheitlich beschlossen
+- TOP 7.6: Verbesserung der Verkehrssicherheit - Umgestaltung der Promenadenunterführung Mauritzstraße (Antrag Nr. 181/2010 nach § 24 GO NRW) - einstimmig beschlossen
+- TOP 7.7: Bröderichweg - barrierefreier Ausbau der Haltestelle "Salzmannstraße" (Maßnahme im Haltestellenprogramm 2012) - mehrheitlich beschlossen
+- TOP 7.8: Grevener Straße - Neubau einer barrierefreien Haltestelle (Maßnahme im Haltestellenprogramm 2012) - mehrheitlich geändert beschlossen
+- TOP 7.9: Planungsbeschluss neue Fußgängersignalanlage Kappenberger Damm/Werneweg/Kriegerweg - von der Tagesordnung abgesetzt
+- TOP 7.10: Kappenberger Damm/Düesbergweg/Geringhoffstraße - Ausbau von barrierefreien Haltestellen (Maßnahme im Haltestellenprogramm 2012) und Beseitigung einer Unfallhäufungsstelle - von der Tagesordnung abgesetzt
+- TOP 7.11: Ausbau der Fußgängerampel Westfalenstraße/An der Alten Kirche/Friedhofstraße zur Kreuzungsampel - von der Tagesordnung abgesetzt
+- TOP 7.12: Planung eines gemeinsamen Geh- und Radweges an der Davertstraße (K 39) zwischen Wittlerbaumer Weg und der Straße Zum Klosterholz - einstimmig beschlossen
+- TOP 7.13: Querungssituation an den Lichtsignalanlagen Albersloher Weg/Homannstraße und Blaukreuzwäldchen - von der Tagesordnung abgesetzt
+- TOP 8: Bauvorhaben
+- TOP 8.1: Vorstellung der Wettbewerbsergebnisse "Fortbildungszentrum der Industrie- und Handelskammer, Sentmaringer Weg"
+- TOP 8.2: Vorstellung der Wettbewerbsergebnisse "Fuß-/Radwegbrücke Fritz-Stricker-Straße / Schlaunstiege" - von der Tagesordnung abgesetzt
+- TOP 8.3: Alter Steinweg/Julius-Voos-Gasse - Neubau Polizeiwache
+- TOP 8.4: Bahnhofstraße 15 - Umbau/Sanierung der ehemaligen Bundesbahndirektion Münster, Bauteil 3
+- TOP 8.5: Corrensstraße - Neubau Organische Chemie und Biochemie
+- TOP 8.6: Marktallee 2 - 4
+- TOP 8.7: Humborgweg 3 - Abbruch eines Geschäftshauses und Neubau eines Wohn- und Geschäftshauses
+- TOP 8.8: Straßenplanung Johannisstraße / Rothenburg im Bereich Landesmuseum
+- TOP 9: Verschiedenes
