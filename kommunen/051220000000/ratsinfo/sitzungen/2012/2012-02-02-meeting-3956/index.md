@@ -1,0 +1,52 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2012-02-02T17:00:00+01:00
+- Ende: 2012-02-02T18:00:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZWCyyhzSVl6Xxwakycwqo9g
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/3956
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQNgZaL9VuDD5bUgF_FTyyK-XVbPmpX8qQOZ2QB1smoE/Oeffentliche_Niederschrift_Rat_02.02.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 17. Sitzung des Rates am 15.12.2011
+- TOP 4: Bestellung von Mitgliedern des Umlegungsausschusses der Stadt Solingen
+- TOP 5: Bestellung von Mitgliedern des Umlegungsausschusses der Stadt Solingen
+- TOP 6: Gründung eines örtlichen Beirats für das kommunale Jobcenter
+- TOP 7: Gründung der "Bergische Gesellschaft für Ressourceneffizienz mbH"
+- TOP 8: Verkaufsoffene Sonntage im Jahr 2012
+- TOP 9: Verkaufsoffene Sonntage im Jahr 2012
+- TOP 10: Beteiligungsbericht 2010 der Stadt Solingen
+- TOP 11: Umlage Landschaftsverband Rheinland
+- TOP 12: Stadtwerke Solingen
+- TOP 13: Zukunft der Stadtwerke
+- TOP 14: Bauleitplanung Graf-Wilhelm-Platz/Neumarkt
+- TOP 15: Bauleitplanung Graf-Wilhelm-Platz/Neumarkt
+- TOP 16: Bauleitplanung Fronhof
+- TOP 17: Verschiedenes
+- TOP 18: Zuwendungen an die Fraktionen im Rat der Stadt Solingen
+- TOP 19: Sitzungsplanung des Rates und der Ausschüsse im Jahr 2012
+- TOP 20: Folgen der Klimakatastrophe für Solingen
+- TOP 21: Veranstaltung der Bergischen Entwicklungsagentur am 12.12.2011
+- TOP 22: Löschwasservertrag
+- TOP 23: Versorgung von Fundtieren
+- TOP 24: Über- und außerplanmäßige Aufwendungen und Auszahlungen im Jahr 2011
+- TOP 25: Verfügung der Bezirksregierung Düsseldorf für den Haushalt 2011
+- TOP 26: Landtagsanhörung zum Stärkungspakt Stadtfinanzen
+- TOP 27: Termin für die Verleihung von Ehrenringen
+- TOP 28: Fundamentalistische Strömungen in der Stadt Solingen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Bauleitplanung Graf-Wilhelm-Platz/Neumarkt
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 17. Sitzung des Rates am 15.12.2011
+- TOP 4: Verschiedenes
+- TOP 5: Kommissarischer Stadtdienstleiter Fabian Kesseler
+- TOP 6: Dienstwagenregelung für Geschäftsführer städtischer Gesellschaften
+- TOP 7: Bestellung von Mitgliedern des Umlegungsausschusses der Stadt Solingen
