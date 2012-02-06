@@ -1,0 +1,82 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2012-02-06T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2494418
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2494418
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Erstellung einer Auflistung aller Einrichtungen für unbegleitet minderjährige Flüchtlinge
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Kindertagesstätte Lipowskystr. 15
+- TOP 4.2.: Schüler- und Klassenzahlen
+- TOP 4.3.: Neubau eines Schulkomplexes mit Saatlicher Wirtschaftsschule, Grundschule mit Tagesheim, Einfachsporthalle, Mensa und Räumen für die Ganztagesbetreuung, Kooperationseinrichtung, Lernküche und Elektrowerkstätten an der Meindlstraße 8 Umbau der bestehenden Grundschule an der Plinganserstr. 28
+- TOP 5.1.: Freischankfläche Plinganserstr. 49
+- TOP 6.1.: Mobiler Fahrradständer Aberlestr. 9
+- TOP 6.2.: Warenstellage Daiserstr. 2 - Denkmalensemble!
+- TOP 6.3.: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 6.4.: MVG-Unfallhilfswagen Alramstr. 7
+- TOP 6.5.: Parkraummanagement Karwendelstraße
+- TOP 6.6.: Beschleunigung der Buslinie 152; Verlegung der Haltestelle Hans-Fischer-Straße
+- TOP 6.7.: Eingleisiger Fahrbetrieb auf der U3 und U6 südwärts zwischen Goetheplatz und Harras bzw. Brudermühlstr.
+- TOP 7.1.: Voranmeldung der Budgetanträge der Sendlinger Kulturschmiede und der Himmelfahrtskirche für 2012
+- TOP 7.2.: Budgetantrag der Himmelfahrtskirche München-Sendling, Sechs Orgelkonzerte vom 25.02. - 07.04.2012; ? 1020,- - <div>nach Antrag</div>
+- TOP 7.3.: Budgetantrag der Himmelfahrtskirche München-Sendling, Konzert am 24.03.2012; ? 2000,- - <div>Kürzung auf ? 1500,-</div>
+- TOP 7.4.: Budgetantrag des Freunde der Freiwilligen Feuerwehr in Sendling e.V., Neuanschaffung einer Wärmebildkamera; ? 5622,75 - <div>nach Antrag</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Zechstr. 3
+- TOP 8.3.: Bauvorhaben Flößergasse 4 - 6
+- TOP 8.4.: Bauvorhaben Schäftlarnstr. 32
+- TOP 8.5.: Bauvorhaben Oberländerstr. 3b
+- TOP 8.6.: Bauvorhaben Daiserstr. 41
+- TOP 8.7.: Bauvorhaben Plinganserstr. 6
+- TOP 8.8.: Bauvorhaben Aberlestr. 31 - 35
+- TOP 8.9.: Bauvorhaben Valleystr. 38; Antwortschreiben
+- TOP 8.10.: Bauvorhaben Albert-Roßhaupter-Str. 3; Antwortschreiben
+- TOP 8.11.: Bauvorhaben Meindlstr. 5; Antwortschreiben
+- TOP 8.12.: Bebauungsplan Stemmerhof
+- TOP 8.13.: Aufhebung der Aufstellungsbeschlüsse Brudermühlstr. 44 - 54 und 49 - 53 sowie Impler-, Wackersberger-, Thalkirchner- und Gaißacher Str.
+- TOP 8.14.: Preis für Stadtbildpflege
+- TOP 8.15.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG-Wohnungen
+- TOP 8.16.: Perspektive München - langfristige Siedlungsentwicklung
+- TOP 8.17.: Zukunft des geförderten Wohnungsbaus in München
+- TOP 8.18.: Genossenschaftsidee fördern
+- TOP 8.19.: Wohnen in München V
+- TOP 8.20.: Dietramszeller Str. 15; Errichtung einer Traglufthalle
+- TOP 8.21.: Zweite S-Bahn-Stammstrecke
+- TOP 9: Baureferat
+- TOP 9.1.: Mittlerer Ring Südwest; Einhausung im Breich der Plinganserstr.
+- TOP 9.2.: Straßensanierungsarbeiten Plinganserstr. / Lindwurmstr.
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällungen Ganghoferstr. 122 - 126 und Kraelerstr. 5 - 13
+- TOP 10.2.: Baumfällungen Bruderhofstr. 41
+- TOP 10.3.: Baumfällungen Bauvorhaben Flößergasse 4 - 6
+- TOP 10.4.: Fällungsfreigabe Baumfällung Am Harras 3
+- TOP 10.5.: Grüninsel mit Ruhebank an der Kreuzung Albert-Roßhaupter-Str. / Karwendelstr.
+- TOP 10.6.: Weiterentwicklung des urbanen Naturnetzwerks
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Umgehende Instandsetzung der Pflasterung des Gehsteiges in Höhe der Engelhardstraße 26 - <div>nach Antrag</div>
+- TOP 2: (E) Verhinderung der Überdeckung des DB-Brückengeländers an der Lindwurmstraße, Ecke Poccistraße durch Werbung Empfehlung Nr. 08-14 / E 01091 der Bürgerversammlung des Stadtbezirkes 06 - Sendling am 13.10.2011 - <div>Änderungsantrag des BA wird durch LBK vollzogen</div>
+- TOP 12: Anträge
+- TOP 12.1.: Schaffung der baulichen Voraussetzungen zum Erhalt des Wochenmarktes am Margaretenplatz - <div>zustimmend zur Kenntnis genommen</div>
+- TOP 12.2.: Einrichtung eines WLAN-Hotspots im großen Sitzungssaal des Sozialbürgerhauses in der Meindlstraße
+- TOP 12.3.: Wegweiser für das ASZ Sendling in den U-Bahnstationen Harras und Implerstraße
+- TOP 12.4.: Altenwohnanlage in der Meindlstr.; Einplanung einer Tagespflege und einer Kurzzeitpflege
+- TOP 13: Verschiedenes
+- TOP 13.1.: Anlieger für Schäden durch Besucher des Oktorberfestes entschädigen
+- TOP 13.2.: Beteiligung des BA6 am Bergfest 2012
+- TOP 6.9.: Stumme Zeitungsverkäufer; verschiedene Örtlichkeiten
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
