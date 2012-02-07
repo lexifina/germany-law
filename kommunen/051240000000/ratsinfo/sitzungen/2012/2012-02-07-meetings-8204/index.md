@@ -1,0 +1,52 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und des gemeinsamen Betriebsausschusses APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-02-07T16:05:00+01:00
+- Ende: 2012-02-07T16:55:00+01:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8204
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8204
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung - Stand 20.01.2012 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00138321.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00139316.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2010/2011 - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2010/2011 - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Tanztheater Wuppertal Pina Bausch GmbH für das Geschäftsjahr 2011/2012 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan 2012 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 3.3: Wirtschaftsplan GMW 2012 - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Neubesetzung des Aufsichtsrates der BEG GmbH - geändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Bericht zur Umsetzung des Konjunkturprogramms - Entgegennahme ohne Beschluss
+- TOP 7.2: Finco-Bericht zum 31.12.2011 - Entgegennahme ohne Beschluss
+- TOP 7.3: Stand der Schulden und Kassenkredite zum 31.12.2011 - Entgegennahme ohne Beschluss
+- TOP 7.4: Externe Einstellungen im Zeitraum Januar bis Dezember 2011 - Entgegennahme ohne Beschluss
+- TOP 7.5: Soziale Stadt Oberbarmen/Wichlinghausen - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 9: Verkäufe und Baumaßnahmen
+- TOP 10: Dienstanweisungen und Satzungen
+- TOP 10.1: Satzung der Stadt Solingen - Entgegennahme ohne Beschluss
+- TOP 11: Anträge und Anfragen
+- TOP 11.1: Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 27.01.12 -Keine Zusammenarbeit mit der Uni gewünscht? - Entgegennahme ohne Beschluss
+- TOP 11.1.1: Antwort auf die Große Anfrage der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 27.01.2012 - Keine Zusammenarbeit mit der Uni gewünscht - Entgegennahme ohne Beschluss
+- TOP 12: Allgemeine Vorlagen
+- TOP 12.1: Aufstockung des Etats im Ressort Strassen und Verkehr - vertagt auf Rat
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 14: Alten- und Altenpflegeheime
+- TOP 14.1: Ausschreibung der Flachwäsche - ungeändert beschlossen
+- TOP 15: Berichte und Mitteilungen
+- TOP 16: Kinder- und Jugendwohngruppen
+- TOP 17: Berichte und Mitteilungen
