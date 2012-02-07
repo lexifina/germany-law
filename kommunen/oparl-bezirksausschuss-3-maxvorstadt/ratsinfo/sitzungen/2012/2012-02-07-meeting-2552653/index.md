@@ -1,0 +1,72 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-02-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2552653
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2552653
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 1.,2., 3. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 2.1.3.: Maximiliansplatz 5, Ertüchtigungsmaßnahmen Brandschutz und Nutzungsänderung in Teilbereichen
+- TOP 2.1.4.: Steinheilstraße 11, Dachgeschossausbau und Hofbebauung - Vorbescheid
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Türkenstraße 30, zwei Spitzahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Bürgerschreiben vom 02.01.2012 Teilweise Umgestaltung der Helholtzstraße zu einspurigem Verkehrsgrund vertagt aus der Sitzung vom 17.01.2012 (TOP C 2.1.8) Unterlagen liegen bereits vor.
+- TOP 2.2: Öffentlicher Raum
+- TOP 1: (E) Schaffung eines ordentlichen Regenwasser-/Schmelzwasserabfluss im Bereich Ecke Augusten-/Theresienstaße Empfehlung Nr. 08-14/ E 01118 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2011
+- TOP 1.2.: Entscheidung über Sondernutzungserlaubnis Mobiler Fahrradständer, Türkenstsraße 16 vertagt aus der Sitzung am 17.01.2012, TOP C 2.2.3 Unterlagen liegen bereits vor.
+- TOP 3: (E) Erhöhung der Anzahl der Abfallbehälter im Maßmannpark (die Größe sollte entsprechend dem Müllaufkommen gewählt werden)
+- TOP 4: (E) Wiederaufstellung der während der Baumaßnahme entfernten Poller auf dem Gehweg Blutenburgstraße 42 - 44 Empfehlung Nr. 08-14 / E 01102 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2011
+- TOP 4.5.: Kreisverwaltungsreferat, Entscheidung über Sondernutzungserlaubnis, Beschlussvorlage Aufstellung von neuen Zeitungsentnahmegeräten für die Tageszeitung ?Welt Kompakt? auf öffentlichem Grund im Stadtbezirk 3 Maxvorstadt
+- TOP 2.3: Gaststätten
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Schreiben des Bezirksausschusses 2 Ludwigsvorstadt-Isarvorstadt vom 25.11.2011 Interessenbekundung an der Erstellung eines Stadtteilplanes für Senioren vertagt aus der Sitzung vom 17.01.2012, TOP D 2.1 Unterlagen liegen bereits vor.
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung Perspektive München; langfristige Siedlungsentwicklung a) Sachstandsbericht b) Zukunftskongress Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2012 Sitzungsvorlage Nr. 08-14 / V 08420
+- TOP 1.2.: Referat für Gesundheit und Umwelt, Beschlussvorlage Lärmminderungsplan für München, Entwurf des Lärmaktionsplanes Ergänzung zum Beschluss des Umweltschutzausschusses vom 31.01.2012 Sitzungsvorlage Nr. 08-14 / V 08119
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung Zukunft des geförderten Wohnungsbaus in München Antrag Nr. 08-14 / A 02749 der Stadtratsfraktion Bündnis 90/Die Grünen/RL vom 06.09.2011 Sitzungsvorlage Nr. 08-14 / V 08223
+- TOP 1.4.: Referat für Stadtdplanung und Bauordnung Wohnungspolitisches Handlungsprogramm ?Wohnen in München V? Wohnungsbauoffensive 2012 ? 2016 Beschluss der Vollversammlung des Stadtrates vom 25.01.2012 Sitzungsvorlage Nr. 08-14 / V 08187
+- TOP 1.5.: Referat für Bildung und Sport, Beschlussvorlage Neubau eines außenliegenden Personen- und Lastenaufzuges am Schulgebäude Deroystraße 1 im BA 3 Beschluss des Ausschusses für Bildung und Sport des Stadtrtes vom 01.02.2012 Sitzungsvorlage Nr. 08-14 / V 08471
+- TOP 1.6.: Referat für Bildung und Sport, Beschlussvorlage Errichtung eines zweigruppigen Kindergartens integriert in den Neubau des Referates für Gesundheit und Umwelt an der Dachauer Straße 90 im BA 3 ? Produkt Nr. 1.1 - Sitzungsvorlage Nr. 08-14 / V 08489
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung Genossenschaftsidee fördern II ?Hamburger Modell? zur Grundstücksvergabe an Genossenschaften und Baugemeinschaf- ten darlegen Beschluss des Ausschusses für Stadtdplanung und Bauordnung vom 01.02.2012 Sitzungsvorlage Nr. 08-14 / V 08045
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Beschlussvorlage Veranstaltung auf öffentlichem Verkehrsgrund, Streetlife Festival/Corso Leopold Erfahrungsbereicht 2010 und 2011 und Ausblick Auftrag aus dem Kreisverwaltungsausschuss vom 02.03.2010 Beschluss des Kreisverwaltungsausschusses vom 24.01.2012 Sitzungsvorlage Nr. 08-14 / V 08447
+- TOP 2.2.: Stadtwerke München Glasfasererschließung im Zuständigkeitsbereich des BA 3, Baucluster 19 und 30
+- TOP 2.3.: Baumaßnahmen der Stadtwerke
+- TOP 2.4.: entfällt
+- TOP 2.5.: Faschingszug der ?Damischen Ritter?, Änderungen Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.6.: Kommunalreferat, Markthallen München Beschlussvorlage des BA 9 Neuhausen-Nymphenburg Einrichtung eines Bauernmarktes im Wohngebiet Arnulfpark BA-Antrag Nr. 08-14 / B 03164 des BA 3 Maxvorstadt vom 12.07.2011 Sitzungsvorlage Nr. 08-14 / V 08339
+- TOP 2.7.: Verkehrsregelung Kreuzung Ludwigstraße und Oskar-von-Miller-Ring am 29.11.2011 Schriftwechsel des Vorsitzenden mit der PI 12
+- TOP 3.1.: Einrichtung eines kleinkindgerechten Spielplatzes im Arnulfpark
+- TOP 4: Kultur
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
