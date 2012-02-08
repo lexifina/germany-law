@@ -1,0 +1,60 @@
+# 19. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-02-08T18:45:00+01:00
+- Ende: 2012-02-08T19:50:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8299
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8299
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00319158.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 7: Anregung der Integrationsrates "Sparkassenmittel einsetzen für Gleichstellung in der Stadt Münster" - verwiesen
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Beitritt der Stadt Münster zum Public Konsortium d-NRW - einstimmig beschlossen
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtgebiet Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2012 - mehrheitlich beschlossen
+- TOP 12: Bürgerhaushalt
+- TOP 12.1: Bürgerhaushalt 2011 - Erster Rechenschaftsbericht - einstimmig beschlossen
+- TOP 12.2: Weiterentwicklung Bürgerhaushalt - Eckpunkte des Verfahrens Bürgerhaushalt 2012 - einstimmig beschlossen
+- TOP 13: Optimierung bürgerorientierter Dienstleistungen: Sanierung Stadthaus 1 - von der Tagesordnung abgesetzt
+- TOP 14: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - von der Tagesordnung abgesetzt
+- TOP 15: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 15.1: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 16: Einrichtung eines Verfügungsfonds im Rahmen des Städtebauförderprogramms Aktive Stadt- und Ortsteilzentren für das Programmgebiet Münster-Innenstadt - von der Tagesordnung abgesetzt
+- TOP 17: Gestaltung der Schaltschränke im Bahnhofsviertel in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - von der Tagesordnung abgesetzt
+- TOP 18: Außengastronomie in der Innenstadt, Evaluation und Neuorientierung - von der Tagesordnung abgesetzt
+- TOP 19: Geschwister-Scholl-Gymnasium, - einstimmig beschlossen
+- TOP 20: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen / Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz) - einstimmig beschlossen
+- TOP 21: Abgabe des hälftigen Eigentums der Stadt Münster am Haus Rüschhaus in Münster-Nienberge - von der Tagesordnung abgesetzt
+- TOP 22: Umbenennung der Städtischen Bühnen Münster - mehrheitlich beschlossen
+- TOP 23: Einsatz eines künstlerischen Fachbeirats für den Kulturausschuss - einstimmig beschlossen
+- TOP 23.1: Einsatz eines künstlerischen Fachbeirats für den Kulturausschuss
+- TOP 24: Neue Kita in Mauritz-Ost - Einrichtungs- und Investorenbeschluss - einstimmig beschlossen
+- TOP 24.1: Neue Kita in Mauritz-Ost - Einrichtungs- und Investorenbeschluss
+- TOP 25: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 26: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 27: Bauleitplanung
+- TOP 27.1: Stadtbezirk Münster-West
+- TOP 27.1.1: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 28: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 28.1: Farbe bekennen: Kein Platz für Rassismus - mehrheitlich abgelehnt
+- TOP 28.2: Resolution: Münster sagt Nein zum Rechtsextremismus:Münster bleibt eine Stadt des Friedens und der Toleranz - einstimmig beschlossen
+- TOP 29: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 29.1: Bundesgartenschau nach Münster holen! - verwiesen
+- TOP 29.2: Gentechnikfreies Essen - verwiesen
+- TOP 29.3: Länger gemeinsam lernen in Berg-Fidel - Inklusive Pilotschule für alle bis Klasse 13¿ - verwiesen
+- TOP 29.4: Hindenburgplatz - Platz für Visionen, Wege zur Umsetzung - verwiesen
+- TOP 29.5: Süchte älterer Menschen erkennen und handeln! - verwiesen
+- TOP 30: Verschiedenes
