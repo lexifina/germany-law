@@ -1,0 +1,353 @@
+---
+ecli: "ECLI:DE:BGH:2012:080212IVZR2.11.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-04"
+aktenzeichen: "IV ZR 2/11"
+decided: "2012-02-08"
+typ: "U"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2012&Sort=1&Seite=11&nr=59458&anz=3531&pos=350&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-04_NA_2012-02-08_IV_ZR_2_11_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/vvg_2008/0012.md", "germany/bund/acts/zpo/0563.md"]
+---
+
+# Bundesgerichtshof, IV ZR 2/11 vom 2012-02-08
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+              IM NAMEN DES VOLKES
+                     URTEIL
+IV ZR 2/11                              Verkündet am:
+                                        8. Februar 2012
+                                        Heinekamp
+                                        Justizhauptsekretär
+                                        als Urkundsbeamter
+                                        der Geschäftsstelle
+
+                  in dem Rechtsstreit
+
+                                     -2-
+
+
+
+
+          Der IV. Zivilsenat des Bundesgerichtshofs hat durch die Richter
+    Wendt, Felsch, die Richterin Harsdorf-Gebhardt, den Richter Lehmann
+    und die Richterin Dr. Brockmöller auf die mündliche Verhandlung vom
+    8. Februar 2012
+
+
+    für Recht erkannt:
+
+
+          Auf die Revision des Klägers wird das Urteil des 10. Zivilsenats des Oberlandesgerichts Koblenz vom 3. Dezember 2010 aufgehoben.
+
+
+          Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an
+          das Berufungsgericht zurückverwiesen.
+
+
+          Streitwert: 10.000 €
+
+
+                                 Von Rechts wegen
+
+
+
+
+                                   Tatbestand:
+
+1         Der Kläger begehrt aus einer bei dem Beklagten gehaltenen Wohngebäudeversicherung mit den VGB 2005 Leistungen wegen eines am
+    10. Mai 2007 eingetretenen Leitungswasserschadens.
+
+
+2         Der Beklagte leistete Zahlungen von insgesamt 10.136,45 €. Mit
+    Abrechnungsschreiben vom 16. Juni 2008 wies er den Kläger darauf hin,
+    dass ein vermeintlich weitergehender Anspruch innerhalb von sechs Mo-
+
+                                       -3-
+
+
+
+
+    naten nach Zugang des Schreibens gerichtlich geltend gemacht wer den
+    müsse, dieser bei Verstreichenlassen der Frist "bereits allein durch
+    Fristablauf" erlösche.
+
+
+3            Mit der am 25. März 2009 eingegangenen Klage macht der Kläger
+    über den erhaltenen Betrag hinaus einen weiteren Teilbetrag von
+    10.000 € geltend.
+
+
+4            In den Vorinstanzen ist die Klage erfolglos geblieben, weil der Kläger die ihm gemäß § 12 Abs. 3 VVG a.F. gesetzte Frist versäumt habe
+    und der Beklagte deswegen leistungsfrei geworden sei. Mit der Revision
+    verfolgt der Kläger sein Zahlungsbegehren weiter.
+
+
+
+
+                                Entscheidungsgründe:
+
+
+5            Die Revision ist begründet. Sie führt zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an das Berufungsg ericht.
+
+
+
+
+6            I. Dieses hat im Wesentlichen ausgeführt:
+
+
+7            Der Beklagte habe dem Kläger 2008 noch eine Klagefrist gemäß
+    § 12 Abs. 3 VVG a.F. setzen können. Zwar sehe das Versicherungsvertragsgesetz (VVG) in seiner seit dem 1. Januar 2008 geltenden Fassung
+    keine Klageausschlussfrist mehr vor; eine solche Regelung sei ersatzlos
+    fortgefallen. Art. 1 Abs. 1 EGVVG bestimme demgegenüber jedoch die
+    Fortgeltung des alten VVG für Altverträge, wovon auch die Regelung in
+
+                                      -4-
+
+
+
+
+     § 12 Abs. 3 VVG a.F. erfasst werde. Dieser Grundsatz werde nur durch
+     Art. 1 Abs. 2 und Artt. 2 bis 6 EGVVG eingeschränkt. Dazu gehöre indes
+     die allein § 12 Abs. 3 VVG a.F. erfassende Ausnahmeregelung des Art. 1
+     Abs. 4 EGVVG nach dem ausdrücklich in Art. 1 Abs. 1 EGVVG erklärten
+     Willen des Gesetzgebers nicht.
+
+
+8          Art. 1 Abs. 4 EGVVG regele zudem nur den Ablauf einer noch
+     2007 gesetzten Klagefrist im Jahre 2008, nicht aber die streitgege nständliche Frage, ob diese Frist noch nach dem 31. Dezember 2007 gesetzt werden könne.
+
+
+9          Der Gesetzgeber habe schließlich mit Art. 1 Abs. 4 EGVVG - wie
+     der Gesetzesbegründung zu dessen nachträglicher Einfügung zu en tnehmen sei - nur eine Klarstellung zur entsprechenden Anwendung der
+     kürzeren neuen Verjährungsfristen in Art. 3 EGVVG auf die Ausschlussfrist des § 12 Abs. 3 VVG a.F. vornehmen wollen. Für eine Ausgestaltung
+     des Art. 1 Abs. 4 EGVVG als Spezial- und Ausnahmevorschrift zu Art. 1
+     Abs. 1 und 2 EGVVG, die eine Fristsetzung nach dem 31. Dezember
+     2007 ausschlösse, hätte er eine in diesem Sinn eindeutig formulierte R egelung getroffen.
+
+
+10         Die auch unter Berücksichtigung der Belehrungsanforderungen des
+     § 12 Abs. 3 VVG a.F. i.V.m. §§ 32, 39 VGB 2005 wirksam gesetzte Frist
+     habe der Kläger versäumt.
+
+
+
+
+11         II. Das hält rechtlicher Prüfung in dem entscheidenden Punkt, ob
+     nach 2007 noch eine Frist gemäß § 12 Abs. 3 VVG a.F. gesetzt werden
+     konnte, nicht stand; auf die vom Berufungsgericht bejahten weiteren
+
+                                       -5-
+
+
+
+
+     Wirksamkeitsvoraussetzungen einer Klagefristsetzung kommt es daher
+     nicht mehr an.
+
+
+12          1. Die bislang höchstrichterlich nicht beschiedene Frage wird alle rdings unterschiedlich beantwortet.
+
+
+13          a) Die Instanzrechtsprechung bejaht mehrheitlich eine Fristsetzung
+     jedenfalls innerhalb der Übergangsfrist bis Ende 2008, wobei sie sich
+     wesentlich auf das Fehlen einer entgegenstehenden gesetzlichen Au snahmeregelung vom Grundsatz der Fortgeltung des VVG a.F. in Art. 1
+     Abs. 1 und 2 EGVVG und die insoweit vom Gesetzgeber nicht eindeutig
+     formulierte Rechtslage bezieht (OLG Köln r+s 2011, 11, 12 f.; OLG Koblenz VersR 2011, 1554 f.; LG Wuppertal, Urteil vom 29. Oktober 2009 - 7
+     O 85/09, juris Rn. 17; LG Köln VersR 2010, 611; LG Dortmund VersR
+     2010, 193, 195 f. und VersR 2010, 196, 197; LG München r+s 2010,
+     317 f.; LG Dresden, Urteil vom 9. Februar 2011 - 8 S 603/09, unveröffentlicht).
+
+
+14          Weitergehend wird von Teilen der Literatur - gestützt auf Art. 1
+     Abs. 2 EGVVG - angenommen, dass die Klagefrist des § 12 Abs. 3 VVG
+     a.F. für bis Ende der Übergangszeit eingetretene Versicherungsfälle s ogar zeitlich unbegrenzt gesetzt werden könne (HK-VVG/Muschner,
+     2. Aufl. Art. 1 EGVVG Rn. 61-64, 70; ders. VersR 2008, 317, 318 f.;
+     2010, 738, 740; Mertens, VersR 2007, 825; Voit/Neuhaus, Berufs unfähigkeitsversicherung 2. Aufl. Kap. R Rn. 15; Neuhaus, r+s 2007, 177,
+     180; 441).
+
+
+15          b) Die herrschende Lehre und eine im Vordringen befindliche ober -
+     gerichtliche Rechtsprechung lehnen hingegen eine Fristsetzung gemäß
+
+                                       -6-
+
+
+
+
+     § 12 Abs. 3 VVG a.F. nach dem 31. Dezember 2007 unter Verweis auf
+     die Übergangsregelungen der Art. 1 Abs. 4 und Art. 3 Abs. 4, 2 EGVVG
+     ab (Armbrüster in Prölss/Martin, VVG 28. Aufl. Art. 1 EGVVG Rn. 46;
+     Beckmann in Bruck/Möller, VVG 9. Aufl. Einführung A Rn. 90; Brand in
+     Looschelders/Pohlmann, VVG Art. 1 EGVVG Rn. 23; ders. VersR 2011,
+     557, 564 f.; Burmann/Heß in Burmann/Heß/Höke/Stahl, Das neue VVG
+     im Straßenverkehrsrecht Rn. 467; Grote/Schneider, BB 2007, 2689,
+     2701; Daube, VersR 2009, 1599, 1601; Hering, SVR 2008, 5; Höra, r+s
+     2008, 89, 91; Jannsen in Jannsen/Schubach, Private Unfallversicherung
+     Ziff. 14 Rn. 2; Johannsen in Bruck/Möller aaO § 15 Rn. 3; Knappmann,
+     VRR 2007, 408; MünchKomm-VVG/Looschelders, Art. 1 EGVVG Rn. 29;
+     Marlow, VersR 2010, 198, 199; Spuhl in Marlow/Spuhl, Das neue V VG
+     kompakt 4. Aufl. Rn. 18; Münstermann, VK 2008, 37, 38; Rixecker, ZfS
+     2007, 430, 431; Schneider in Beckmann/Matusche-Beckmann, Versicherungsrechts-Handbuch 2. Aufl. § 1a Rn. 47; ders. VersR 2008, 859, 864;
+     Uyanik, VersR 2008, 468, 470; OLG Köln, r+s 2011, 150, 152; OLG Düsseldorf, Urteil vom 5. April 2011 - 4 U 144/10, bislang unveröffentlicht).
+
+
+16         2. Letztere Auffassung trifft zu.
+
+
+17         Das Ziel des VVG-Reformgesetzes ist insoweit eindeutig (a). Seine
+     Umsetzung im intertemporalen Kollisionsrecht des EGVVG weist nach
+     Gesetzeszweck, Entstehungsgeschichte und Gesetzessystematik im E rgebnis ebenso deutlich auf den Willen des Gesetzgebers hin, die Setzung einer Klagefrist gemäß § 12 Abs. 3 VVG a.F. nach 2007 ausnahmslos auszuschließen (b).
+
+
+18         a) Die materielle Ausschlussfrist des § 12 Abs. 3 VVG a.F., die
+     dem Versicherer Leistungsfreiheit verschaffte, wenn ein abgelehnter A n-
+
+                                       -7-
+
+
+
+
+     spruch nicht innerhalb von sechs Monaten gerichtlich geltend gemacht
+     wurde, ist mit dem Inkrafttreten des neuen VVG ersatzlos weggefalle n.
+     Der Gesetzgeber hat damit die Konsequenz daraus gezogen, dass diese
+     überkommene, im Zivilrecht einzigartige Privilegierung einer Vertragsse ite, deren Berechtigung seit längerem in Zweifel gezogen ( vgl. nur Senatsurteil vom 18. Dezember 1974 - IV ZR 123/73, VersR 1975, 229,
+     230; BVerfG VersR 2004, 1585, 1586; Römer in Römer/Langheid, VVG
+     2. Aufl. 2003 § 12 Rn. 32; MünchKomm-VVG/Looschelders aaO Rn. 28)
+     und von Versicherern deswegen vielfach auch nicht mehr angewandt
+     worden war (vgl. Brand, VersR 2011 aaO S. 564), nicht mehr zu rechtfertigen erschien. Er hat eine sachliche Grundlage für "eine derartige So nderregelung, die dem Versicherer die Möglichkeit gibt, die Verjährung sfrist zu Lasten des Vertragspartners einseitig zu verkürzen", nicht mehr
+     feststellen können (BT-Drucks. 16/3945 S. 64). Eine gegebenenfalls über
+     Jahre andauernde Fortgeltung dieser Regelung zu Lasten der Versich erungsnehmerseite ist damit nicht zu vereinbaren. Für eine dahingehende
+     Vorstellung des Gesetzgebers gibt es keinen Anhalt. Die zeitgleiche Abschaffung mit der Neukodifikation des VVG spricht dagegen.
+
+
+19            b) Diese Zielsetzung bestimmt auch das intertemporale Kollision srecht.
+
+
+20            Mit Art. 1 Abs. 1 Halbs. 1 EGVVG wurde ein Übergangszeitraum
+     von einem Jahr ab Inkrafttreten des VVG geschaffen mit der Folge, dass
+     für die bis Ende 2007 geschlossenen so genannten Altverträge das alte
+     Recht nicht bis zur vollständigen Vertragsabwicklung, sondern grun dsätzlich nur bis Ende 2008 anzuwenden ist, sofern nicht die in Art. 1
+     Abs. 1 Halbs. 2 EGVVG genannten Ausnahmeregeln davon Abweichendes bestimmen. Damit wollte der Reformgesetzgeber nicht nur einem
+
+                                      -8-
+
+
+
+
+     angesichts der Langlebigkeit von Versicherungsverträgen sonst best ehenden jahrelangen Nebeneinander von altem und neuem VVG entg egenwirken, sondern zugleich möglichst kurzfristig die mit der Neukodif ikation insgesamt angestrebte Stärkung der Rechtsstellung des Versicherungsnehmers umsetzen.
+
+
+21         Das ist mit den weiteren Übergangsregeln auch erreicht worden,
+     die die Setzung einer Klagefrist nach altem Recht nach dem Inkrafttreten
+     des neuen nicht mehr zulassen.
+
+
+22         aa) Bei reiner Wortbetrachtung der Ausnahmeregelungen scheint
+     allerdings Art. 1 Abs. 4 EGVVG, der sich allein mit der Klagefrist des
+     § 12 Abs. 3 VVG a.F. ausdrücklich befasst, Zweifel an deren Nichtanwendbarkeit wenigstens noch während der Übergangszeit zu wecken,
+     weil er nicht in den Katalog des Art. 1 Abs. 1 Halbs. 2 EGVVG aufgenommen ist, der nur Art. 1 Abs. 2 EGVVG und Artt. 2 bis 6 EGVVG als
+     Ausnahmen von der Grundregel in Art. 1 Abs. 1 Halbs. 1 EGVVG nennt.
+
+
+23         Das vernachlässigt jedoch bereits, dass die Klagefrist des § 12
+     Abs. 3 VVG a.F. ohne diese Regelung über Art. 3 Abs. 4 EGVVG der allgemeinen Fristenregelung für Verjährungen des Art. 3 Abs. 2 EGVVG
+     und damit einer - ihre Anwendung noch während der Übergangszeit in
+     Zweifel ziehenden - Ausnahmeregelung ausgesetzt gewesen wäre.
+
+
+24         bb) Die Entstehungsgeschichte des Art. 1 Abs. 4 EGVVG bestätigt
+     sodann den mit ihm ebenfalls intendierten sofortigen Anwendungsau sschluss mit Inkrafttreten des neuen VVG. Auf Empfehlung des Rechtsausschusses (BT-Drucks. 16/5862 S. 100) ist diese Bestimmung in die
+
+                                      -9-
+
+
+
+
+     Übergangsvorschriften aufgenommen worden. Die dafür gegebene B egründung
+
+           "Die schon bislang in Artikel 3 Abs. 4 enthaltene Übergangsregelung für Fristen nimmt auf die mit der beabsichtigten Abschaffung des bisherigen § 12 Abs. 3 VVG verbundenen Besonderheiten nicht ausreichend Rücksicht.
+           Diesem Bedürfnis entspricht die neue Regelung; sie sieht
+           vor, dass Klagefristen, die unter Geltung des bisherige n
+           VVG in Gang gesetzt wurden, nach sechs Monaten ausla ufen."
+
+25   belegt unmissverständlich, dass der Gesetzgeber für die Klagefrist o ffensichtlich Klarstellungsbedarf insoweit gesehen hat, als ihm bei der
+     angeordneten entsprechenden Anwendung der Verjährungsregeln - wie
+     zunächst vorgesehen - ein ordnungsgemäßer Ablauf einer noch 2007 in
+     zulässiger Weise gesetzten Klagefrist im Jahre 2008 nicht hinreichend
+     deutlich zum Ausdruck gekommen zu sein schien. Das ist nachvollzie hbar, weil das in der Regelung der Verjährungsfristen des Art. 3 EGVVG
+     enthaltene Günstigkeitsprinzip auf die anders geartete Klagefrist nicht
+     ohne weiteres übertragbar ist. Der Lauf gesetzter Fristen, nicht aber die
+     Zulassung von Neufristsetzungen in diesem Zeitraum ist mithin Gege nstand der mit Art. 1 Abs. 4 EGVVG getroffenen Regelung. Lediglich insoweit sollte eine Fortgeltung des alten Rechts allein bei bereits geset zten Klagefristen sichergestellt werden. Dies erlaubt im Gegenschluss nur
+     die Folgerung, dass eine weitergehende Anwendung ausgeschlossen
+     werden sollte.
+
+
+26         Bei einem anderen Verständnis hätte diese Regelung zudem ke inen eigenständigen Sinn. Mit einer Erlaubnis, Klagefristen jedenfalls bis
+     Ende 2008 oder gar noch darüber hinaus neu setzen zu dürfen, wäre der
+
+                                       - 10 -
+
+
+
+
+     Ablauf einer zuvor gesetzten Frist nicht regelungsbedürftig, sondern
+     selbstverständlich.
+
+
+27         Gleiches träfe auf die von der vorgenannten Mindermeinung in der
+     Literatur herangezogene Anwendung von Art. 1 Abs. 2 EGVVG zu, der
+     seinem Wortlaut nach umfassend für alle übergangsrechtlich bedeutsamen Ausnahmen gilt, es mithin einer weiteren Regelung - wie in § 1
+     Abs. 4 EGVVG - gerade nicht bedurft hätte, weil eine solche bereits getroffen war.
+
+
+28         cc) Aus der gesetzessystematischen Positionierung dieser Vorschrift in Abs. 4 des Art. 1 EGVVG und der Nichterwähnung in Art. 1
+     Abs. 1 Halbs. 2 EGVVG lässt sich für seinen Regelungsgehalt schließlich
+     auch nichts anderes herleiten. Dabei kann dahinstehen, ob dies
+     "schlichtweg aus Nachlässigkeit" geschehen (Brand VersR 2011 aaO
+     S. 565) oder "ob die Wahl des herausgehobenen Standorts durchaus
+     verständlich" ist (Schneider, VersR 2008 aaO). Inhaltlich ist Art. 1 Abs. 4
+     EGVVG - was die vorgenannte Begründung (BT-Drucks. 16/5862 aaO)
+     unterstreicht - als zusätzliche, besondere Übergangsregelung gegenüber
+     der allgemeinen zum Lauf von Fristen konzipiert. Damit ist er zugleich
+     eine - weitere - Einschränkung der Grundregel des Art. 1 Abs. 1 Halbs. 1
+     EGVVG, die die Geltung des neuen VVG ab 2008 festschreibt.
+
+
+29         dd) Vor diesem Hintergrund erhellt sich der für die Streitfrage entscheidende     Bedeutungsgehalt     dieser   Übergangsregelung:   Mit   der
+     - positiven - Festlegung des Schicksals bereits in Lauf gesetzter Fristen
+     über das Jahr 2007 hinaus wird zugleich - negativ - bestimmt, dass eine
+     Neufristsetzung nicht in Betracht kommt. Der ausdrücklich geregelte
+     Sachverhalt - Fristablauf - schließt mithin den anderen, nicht ausdrück-
+
+                                   - 11 -
+
+
+
+
+     lich geregelten - Neufristsetzung - aus (so überzeugend Brand aaO
+     S. 565).
+
+
+
+
+30         III. Die Sache ist nicht zur Entscheidung reif, § 563 Abs. 3 ZPO.
+     Das Berufungsgericht wird sich mit den - nach seinem rechtlichen Ansatz
+     folgerichtig bislang nicht geprüften - Voraussetzungen des geltend gemachten Versicherungsanspruchs und den dagegen erhobenen Einwendungen zu befassen haben.
+
+
+
+
+     Wendt                   Felsch                     Harsdorf-Gebhardt
+
+
+                Lehmann               Dr. Brockmöller
+
+
+
+
+     Vorinstanzen:
+     LG Trier, Entscheidung vom 25.02.2010 - 6 O 90/09 -
+     OLG Koblenz, Entscheidung vom 03.12.2010 - 10 U 345/10 -
