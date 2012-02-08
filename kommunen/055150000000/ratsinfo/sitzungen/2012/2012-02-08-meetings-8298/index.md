@@ -1,0 +1,62 @@
+# 18. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-02-08T17:32:00+01:00
+- Ende: 2012-02-08T19:40:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8298
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8298
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00319159.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge und Anregungen der Bezirksvertretungen
+- TOP 2.1: Antrag der CDU-Fraktion und der FDP-Fraktion an den Rat Nr. A-R/0077/2011 "Papierlose Ratsarbeit auf den Weg bringen" - einstimmig beschlossen
+- TOP 2.2: Antrag der Fraktion Bündnis 90 / Die Grünen / GAL Nr. A-R/0068/2011 "Erstellung einer neuen Wirtschaftlichkeitsanalyse für den Flughafen Münster/Osnabrück" - mehrheitlich beschlossen
+- TOP 2.3: Antrag der CDU-Fraktion Nr. A-R/0071/2011 "Medikamente umweltgerecht entsorgen" vom 01.12.2011 - einstimmig beschlossen
+- TOP 2.4: Anregung der Bezirksvertretung Münster-West Nr. ABV/0002/2011 "Änderung der Straßenreinigungssatzung der Stadt Münster" vom 17.11.2011 - einstimmig beschlossen
+- TOP 2.5: Gemeinsamer Antrag der CDU- und SPD-Fraktion an den Rat Nr. A-R/0078/2011 "Rahmenkonzept für das städtische Stadion an der Hammer Strasse erarbeiten und umsetzen", Städtisches Stadion Hammer Straße - Erhaltungs- und Sanierungsmaßnahmen" - einstimmig geändert beschlossen
+- TOP 2.6: Antrag der FDP-Fraktion an den Rat Nr. A-R/0066/2011 "Kunst trifft Sport - Wettbewerb zur Gestaltung der Westkurve im Preußenstadion" - mehrheitlich beschlossen
+- TOP 2.7: Antrag der Fraktion Bündnis90/ Die Grünen/ GAL Nr. A-R/0067/2011 an den Rat vom 22.11.2011 "Jedem jungen Menschen ein (Aus-)bildungsplatz in gemeinsamer Veranwortung - Anlaufstelle am Übergang Schule und Beruf - einstimmig beschlossen
+- TOP 2.8: Antrag der CDU-Fraktion Nr. A-R/0074/2011 "Arbeit des Mehrgenerationenhauses MuM dauerhaft finanziell und räumlich absichern" - einstimmig geändert beschlossen
+- TOP 2.9: Antrag an den Rat Nr. A-R/0076/2011: Einrichtung von Betriebskitas durch Unternehmen unterstützen - mehrheitlich beschlossen
+- TOP 2.10: Antrag der CDU-Fraktion Nr. A-R/0073/2011 "Angebote für Jugendliche und junge Erwachsene erhalten bzw. ausbauen" - mehrheitlich beschlossen
+- TOP 2.11: Antrag der CDU-Fraktion an den Rat Nr. A-R/0072/2011 vom 28.11.2011 "Obdachlosigkeit in Münster - SKM / Bischof-Hermann-Stiftung, Gebäude Friedrich-Ebertstr. 1/Dammstr. (ehemaliges HUK-Gebäude)" - einstimmig beschlossen
+- TOP 2.12: Antrag der Fraktion Bündnis 90/Die Grünen/GAL an den Rat A-R/0069/2011 vom 23.11.2011: "Münster für Alle: Münsterpass bedarfsgerecht weiterentwickeln!" - mehrheitlich beschlossen
+- TOP 2.13: Antrag der SPD-Fraktion an den Rat Nr. A-R/0080/2011 vom 20.12.2011 - mehrheitlich beschlossen
+- TOP 3: Dortmund-Ems-Kanal - Kanalüberführung (KÜ) - einstimmig beschlossen
+- TOP 3.1: Dortmund-Ems-Kanal - Kanalüberführung (KÜ)
+- TOP 4: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Institutionelle Förderung 2012) - einstimmig beschlossen
+- TOP 5: Zuschussmaßnahmen / Kommunaler Straßen- und Radwegebau 2012 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 6: Beitritt der Stadt Münster zum Public Konsortium d-NRW - einstimmig beschlossen
+- TOP 7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtgebiet Münster-Hiltrup, Ortsteil Hiltrup, für das Kalenderjahr 2012 - mehrheitlich beschlossen
+- TOP 8: Bürgerhaushalt
+- TOP 8.1: Bürgerhaushalt 2011 - Erster Rechenschaftsbericht - einstimmig beschlossen
+- TOP 8.2: Weiterentwicklung Bürgerhaushalt - Eckpunkte des Verfahrens Bürgerhaushalt 2012 - einstimmig beschlossen
+- TOP 9: Optimierung bürgerorientierter Dienstleistungen: Sanierung Stadthaus 1 - von der Tagesordnung abgesetzt
+- TOP 10: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - von der Tagesordnung abgesetzt
+- TOP 11: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 11.1: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - von der Tagesordnung abgesetzt
+- TOP 12: Einrichtung eines Verfügungsfonds im Rahmen des Städtebauförderprogramms Aktive Stadt- und Ortsteilzentren für das Programmgebiet Münster-Innenstadt - von der Tagesordnung abgesetzt
+- TOP 13: Gestaltung der Schaltschränke im Bahnhofsviertel in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - von der Tagesordnung abgesetzt
+- TOP 14: Außengastronomie in der Innenstadt, Evaluation und Neuorientierung - von der Tagesordnung abgesetzt
+- TOP 15: Geschwister-Scholl-Gymnasium, - einstimmig beschlossen
+- TOP 16: Änderung des "Allgemeinen Rahmens zur Aufnahme von Schülerinnen / Schülern in die städtischen Schulen (vgl. § 46 Abs. 1 Schulgesetz) - einstimmig beschlossen
+- TOP 17: Abgabe des hälftigen Eigentums der Stadt Münster am Haus Rüschhaus in Münster-Nienberge - von der Tagesordnung abgesetzt
+- TOP 18: Umbenennung der Städtischen Bühnen Münster - einstimmig beschlossen
+- TOP 19: Einsatz eines künstlerischen Fachbeirats für den Kulturausschuss - ohne Beschlussfassung geschoben
+- TOP 19.1: Einsatz eines künstlerischen Fachbeirats für den Kulturausschuss
+- TOP 20: Neue Kita in Mauritz-Ost - Einrichtungs- und Investorenbeschluss - einstimmig beschlossen
+- TOP 20.1: Neue Kita in Mauritz-Ost - Einrichtungs- und Investorenbeschluss
+- TOP 21: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig geändert beschlossen
+- TOP 22: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk West
+- TOP 23.1.1: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 24: Verschiedenes
