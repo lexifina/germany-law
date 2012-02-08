@@ -1,0 +1,69 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-02-08T17:00:00+01:00
+- Ende: 2012-02-08T21:15:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2742
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2742
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=54454
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 5. Sitzung der BVV am 08.02.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 5. Sitzung der BVV am 08.02.2012 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 5. Sitzung der BVV am 08.02.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Tätigkeitsbericht der Beauftragten für Menschen mit Behinderung des Bezirks Reinickendorf für den Zeitraum vom 01.01.2010 bis 31.12.2010 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Integration - überwiesen
+- TOP 8.2: Nachnutzung Flughafen Tegel - beantwortet
+- TOP 8.2.1: Flughafen Tegel – Nachnutzung (1): Sportplatz für Reinickendorfer Sportvereine sichern - überwiesen
+- TOP 8.2.2: Flughafen Tegel – Nachnutzung (2): Ohne Flughafen trotzdem schnell zum Flughafen – Für eine schnelle und direkte ÖPNV-Anbindung zum Flughafen BER - überwiesen
+- TOP 8.2.3: Flughafen Tegel – Nachnutzung (3): Beuth-Hochschul-Umzug schnell einleiten - überwiesen
+- TOP 8.2.4: Flughafen Tegel – Nachnutzung (4): Tegel Projekt GmbH ausreichend finanziell ausstatten - überwiesen
+- TOP 8.2.5: Flughafen Tegel – Nachnutzung (5): Online-Bürgerbeteiligung zur Nachnutzung auf www.reinickendorf.de anbieten - überwiesen
+- TOP 8.3: Ahnungslose Schulstadträtin? - beantwortet
+- TOP 8.4: Bürgerhaushalt in Reinickendorf einführen - beantwortet
+- TOP 8.4.1: Bürgerhaushalt in Reinickendorf einführen - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Benennung von fünf Mitgliedern der Bezirksverordnetenversammlung Reinickendorf für den bezirklichen Beirat der VIVANTES Netzwerk für Gesundheit GmbH - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Neuwahl der Mitglieder des Beirates in Sozialhilfeangelegenheiten und deren Stellvertreter - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Inkassounternehmen einsetzen - in der BVV abgelehnt
+- TOP 10.2: Einsatz eines Computerprogramms für die Kita-Suche - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Sprachförderklassen für Kinder im Grundschulalter einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Planlos in die Zukunft? - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Teilnahme an der Woche der Demokratie - überwiesen
+- TOP 10.6: Förderung des Ehrenamtes in den bezirklichen Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Autorenlesefonds - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Denkmal des Monats - überwiesen
+- TOP 12.3: Klimaschutz in Reinickendorf - überwiesen
+- TOP 12.4: Beirat für Frauen- und Mädchenangelegenheiten im Bezirk stärken - überwiesen
+- TOP 12.5: Stand der Baumaßnahmen im Bereich der bezirklichen Liegenschaften - überwiesen
+- TOP 12.6: Freifunk auf Bezirksgebäuden - überwiesen
+- TOP 12.7: Ehrenamtliches Engagement von Bürgerinnen und Bürgern mit Migrationshintergrund fördern - überwiesen
+- TOP 12.8: Integrationskonzept für den Bezirk Reinickendorf - überwiesen
+- TOP 12.9: Bericht Rechtsextremismus in Reinickendorf - überwiesen
+- TOP 12.10: Humboldt-Bibliothek - Verbindungstreppe zwischen Parkplatz und Zugangsweg - überwiesen
+- TOP 12.11: Vermeidung Durchgangsverkehr in den Nebenstraßen in Hermsdorf - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Sicherung des ehemaligen Einkaufszentrums in der Cité Foch - überwiesen
+- TOP 13.2: Verstärkung der Buslinie 120 - überwiesen
+- TOP 13.3: "Flughafen Tegel" bei www.berlin.de abbilden - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Open Data 2.0 für den Bezirk Reinickendorf verwenden - überwiesen
+- TOP 13.5: Waldweg an der B96 freilegen - ohne Änderungen in der BVV beschlossen
+- TOP 13.6: Instandsetzung und Wiedereröffnung des Frohnauer Kasinoturms beschleunigen - überwiesen
+- TOP 13.7: Betriebsfahrt der 222er-Buslinie - überwiesen
