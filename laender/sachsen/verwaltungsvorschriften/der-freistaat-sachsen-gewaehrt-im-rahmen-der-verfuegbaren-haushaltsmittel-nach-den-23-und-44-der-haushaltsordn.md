@@ -1,8 +1,8 @@
 # Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel nach den §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung – SäHO) in der Fassung der Bekanntmachung
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-08-18 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11467.1
+- Datum: 2012-02-10 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/12221.1
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -15,15 +15,28 @@ Rechtsgrundlage, Zuwendungszweck
 1.
 
 Der Freistaat Sachsen gewährt im Rahmen der verfügbaren Haushaltsmittel nach den §§ 23 und 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
-SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 2 des Gesetzes vom 12. Dezember 2008 (SächsGVBl. S. 866) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 225), zuletzt geändert durch Verwaltungsvorschrift vom 14. Juli 2010 (SächsABl. S. 1111), in der jeweils geltenden Fassung, auf Antrag Zuwendungen nach Maßgabe dieser Richtlinie.
+SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 2 des Gesetzes vom 15. Dezember 2010 (SächsGVBl. S. 387, 388) geändert worden ist, in der jeweils geltenden Fassung, und den Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (
+VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 226), zuletzt geändert durch Verwaltungsvorschrift vom 22. Dezember 2011 (SächsABl. 2012 S. 49), zuletzt enthalten in der Verwaltungsvorschrift vom 19. Dezember 2011 (SächsABl. SDr. S. S 1702), in der jeweils geltenden Fassung, auf Antrag Zuwendungen nach Maßgabe dieser Richtlinie.
 
 2.
 
-Zuwendungszweck ist die Beseitigung von Schäden an Wohngebäuden, Wohnungen und Wohngrundstücken, die vom Hochwasser im August 2010 entstanden sind. Dies schließt auch Schäden von wild abfließendem Wasser, Sturzflut, aufsteigendem Grundwasser, überlaufender Regenwasser- und Mischkanalisation sowie Hangrutsch ein.
+Soweit es sich bei den Zuwendungen um staatliche Beihilfen im Sinne des Artikels 107 Abs. 1 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) in der konsolidierten Fassung vom 30. März 2010 (ABl. Nr. C 83 vom 30.3.2010, S. 47) handelt, werden sie entweder
+
+–
+
+nach der Verordnung (EG) Nr. 800/2008 der Kommission vom 6. August 2008 zur Erklärung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit dem Gemeinsamen Markt in Anwendung der Artikel 87 und 88
+EG-Vertrag (allgemeine Gruppenfreistellungsverordnung – AGVO) (ABl. EU Nr. L 214 vom 9.8.2008, S. 3) oder
+
+–
+
+nach der Verordnung (EG) Nr. 1998/2006 der Kommission vom 15. Dezember 2006 über die Anwendung der Artikel 87 und 88
+EG-Vertrag auf „De-minimis“-Beihilfen (ABI. EU Nr. L 379 vom 28.12.2006, S. 5)
+
+sowie nach deren jeweiligen Nachfolgeregelung gewährt.
 
 3.
 
-Die Zuwendung ist mit dem Gemeinsamen Markt vereinbar (Artikel 107 Abs. 2 Buchst. b des Vertrages über die Arbeitsweise der Europäischen Union). Bis zur Bestätigung der Vereinbarkeit mit dem gemeinsamen Markt durch die europäische Kommission erfolgt die Förderung auf der beihilferechtlichen Grundlage der Bundesregelung Kleinbeihilfen.
+Zuwendungszweck ist die Verbesserung der Energieeffizienz von bestehenden, innerstädtischen Wohngebäuden auf der Basis einer energetischen Bewertung analog der Richtlinie des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) über die Förderung der Beratung zur sparsamen und rationellen Energieverwendung in Wohngebäuden vor Ort (Vor-Ort-Beratung) vom 10. September 2009 (BAnz. Nr. 144 S. 3360) in der jeweils geltenden Fassung.
 
 4.
 
@@ -35,37 +48,67 @@ Gegenstand der Förderung
 
 1.
 
-Gefördert werden Maßnahmen zur Wiederherstellung oder zur Neuerrichtung von beschädigten beziehungsweise zerstörten Wohngebäuden, Wohnungen und Wohngrundstücken, soweit diese nicht von für diesen Zweck gebundene Versicherungsleistungen und Spenden abgedeckt werden. Auf Ziffer IV Nr. 1 wird verwiesen.
+Gefördert wird die Durchführung von energetischen Sanierungsmaßnahmen an Wohngebäuden auf der Basis einer energetischen Bewertung. Gefördert wird im Einzelfall auch die Umnutzung von nicht dem Wohnen dienenden Gebäuden zu Wohngebäuden, die überwiegend dem Wohnen dienen sollen. Förderfähig sind insbesondere folgende investive Maßnahmen:
+
+1.1
+
+zur Verbesserung der Wärmedämmung insbesondere
+
+a)
+
+der Außenwände, Fenster und Hauseingangstüren,
+
+b)
+
+des Daches und der obersten Geschossdecken,
+
+c)
+
+der Kellerdecke, der Bodenplatte oder der erdberührenden Außenflächen beheizter Räume,
+
+1.2
+
+zur Nutzung erneuerbarer Energien insbesondere
+
+a)
+
+Solarthermische Anlagen,
+
+b)
+
+Biomasseanlagen,
+
+c)
+
+Wärmepumpen zur Nutzung von Geothermie und Umweltwärme,
+
+1.3
+
+zur Verbesserung der Effizienz der Energienutzung insbesondere
+
+a)
+
+Austausch von Kohle-, Öl-, Gas- oder Nachtspeicherheizungen durch Brennwert-Zentralheizungsanlagen, soweit sie nicht einer gesetzlichen Austauschpflicht unterliegen,
+
+b)
+
+energieeffiziente Lüftungsanlagen gemäß DIN 1946 T6 (Wärmebereitstellungsgrad von mindestens 80 Prozent, Leistungsaufnahme der Ventilatoren maximal 0,45 W/m³*h-1,
+
+c)
+
+Anlagen zur Kraft-Wärme-Kopplung.
+
+Windenergie- und Photovoltaikanlagen sind nicht förderfähig. Auch Einzelfeuerstätten mit einem Wirkungsgrad unter 85 Prozent werden nicht gefördert.
 
 2.
 
-Nicht gefördert werden Wohngebäude, Wohnungen und Wohngrundstücke,
-
-a)
-
-die zum Zeitpunkt des Hochwassers nicht bewohnbar waren, ausgenommen Gebäude, die sich bei Schadenseintritt noch im Rohbaustadium oder in der Rekonstruktion befanden und aus diesem Grund nicht bewohnt waren,
-
-b)
-
-soweit sie zum Rückbau vorgesehen waren oder vorgesehen sind.
-
-3.
-
-Nicht förderfähig sind insbesondere Maßnahmen zur Beseitigung von Schäden an
-
-a)
-
-Wochenendhäusern, Altenpflege-, Studentenwohn-, Asylbewerber- und Obdachlosenheimen,
-
-b)
-
-Nebengebäuden, Schuppen und Garagen, soweit sie nicht für die Funktionsfähigkeit des Wohngebäudes notwendig sind.
+Für die technische und wirtschaftliche Bauberatung und -betreuung wird ein Zuschuss gewährt.
 
 III.
 
 Zuwendungsempfänger
 
-Empfänger der Zuwendung ist der Eigentümer des beschädigten Wohngebäudes oder der beschädigten Wohnung. Die Zuwendung ist nicht übertragbar.
+Empfänger der Zuwendung ist der Eigentümer des Gebäudes oder einer Wohnung.
 
 IV.
 
@@ -73,112 +116,139 @@ Zuwendungsvoraussetzungen
 
 1.
 
-Der betroffene Eigentümer muss gegen das eingetretene Schadensereignis einen Versicherungsschutz haben. Der Antragsteller muss die Schäden bereits gemeldet und einen Anspruch auf Versicherungsleistung geltend gemacht haben. Die Versicherungsgesellschaft muss bestätigt haben, dass für das geschädigte Objekt im Zeitpunkt des Schadenseintritts Versicherungsschutz für das eingetretene Schadensereignis bestand. Die Verwendung der für diesen Zweck gebundenen Versicherungsleistung für nicht förderfähige Ausgaben ist nicht zulässig. Besteht kein Versicherungsschutz für das Schadensereignis, wird eine Förderung gewährt, sofern der Antragsteller mit Bestätigung einer Versicherungsgesellschaft nachweist, dass die Versicherung des betreffenden Objektes abgelehnt worden ist.
-
-2.
-
-Die Förderung setzt die Bestätigung der zuständigen Gemeindeverwaltung über die Beschädigung des Wohngebäudes durch Hochwasser im August 2010 voraus.
-
-3.
-
-Unter Wohngebäude sind Gebäude zu verstehen, die nach ihrer Zweckbestimmung überwiegend dem Wohnen dienen.
-
-4.
-
-Die Förderung setzt voraus, dass nach der Sächsischen Bauordnung (
-SächsBO) vom 28. Mai 2004 (SächsGVBl. S. 200), zuletzt geändert durch Artikel 2 Abs. 8 des Gesetzes vom 19. Mai 2010 (SächsGVBl. S. 142, 143), in der jeweils geltenden Fassung
+Die Förderung erfolgt in Gemeinden mit Funktionen eines Ober- oder Mittelzentrums gemäß der Verordnung der Sächsischen Staatsregierung über den Landesentwicklungsplan Sachsen (
+LEP 2003) vom 16. Dezember 2003 (SächsGVBl. S. 915), in der jeweils geltenden Fassung, und Grundzentren gemäß den jeweiligen Regionalplänen der Regionalen Planungsverbände in der jeweils geltenden Fassung. Die zuständige Gemeinde muss bestätigen, dass das Vorhaben
 
 a)
 
-eine Baugenehmigung nach § 63
-SächsBO erteilt ist oder
+zum Zeitpunkt der Antragstellung in einem Gebiet liegt, das nach dem städtebaulichen Entwicklungskonzept als integrierte Lage ausgewiesen ist oder
 
 b)
 
-nach § 62
-SächsBO genehmigungsfrei mit dem Vorhaben begonnen werden darf.
+den demographischen und wohnungspolitischen Zielsetzungen der Gemeinde entspricht.
+
+2.
+
+Das für die Sanierung vorgesehene Gebäude muss älter als 2 Jahre sein.
+
+3.
+
+Voraussetzung ist eine energetische Bewertung des Wohngebäudes und der Heizungsanlage nach der Verordnung über energiesparenden Wärmeschutz und energiesparende Anlagentechnik bei Gebäuden (
+Energieeinsparverordnung –
+EnEV) vom 24. Juli 2007 (BGBl. I S. 1519), geändert durch Artikel 1 der Verordnung vom 29. April 2009 (BGBl. I S. 954), in der jeweils geltenden Fassung. Die Bewertung muss den Ist-Zustand darstellen, Sanierungsmaßnahmen aufzeigen und eine Berechnung der erzielbaren Energieeinsparungen beinhalten. Die empfohlenen Sanierungsmaßnahmen müssen in einer unter energetischen und bauphysikalischen Gesichtspunkten sinnvollen Reihenfolge durchgeführt werden. Die energetische Bewertung muss durch eine nach § 21
+EnEV ausstellungsberechtigte Person erfolgen.
+
+4.
+
+Die energetische Bewertung darf zum Zeitpunkt der Antragstellung nicht älter als drei Jahre sein. Sie muss auf der Grundlage der Anforderungen der zum Zeitpunkt der Antragstellung geltenden Fassung der
+Energieeinsparverordnung erfolgen. Bereits durchgeführte Energiesparmaßnahmen sind nicht förderfähig.
 
 5.
 
-Die Vorgaben der Verordnung über energiesparenden Wärmeschutz und energiesparende Anlagentechnik bei Gebäuden (
-Energieeinsparverordnung –
-EnEV) vom 24. Juli 2007 (BGBl. I S. 1519), die durch Verordnung vom 29. April 2009 (BGBl. I S. 954) geändert worden ist, in der jeweils geltenden Fassung, sind einzuhalten.
+Nach der energetischen Sanierung müssen die Anforderungen des § 9
+EnEV übertroffen werden. Für Einzelanlagen nach Ziffer II Nr. 1.2 sind die Anteile aus § 5 des Gesetzes zur Förderung Erneuerbarer Energien im Wärmebereich (
+Erneuerbare-Energien-Wärmegesetz –
+EEWärmeG) vom 7. August 2008 (BGBl. I S. 1658), das durch Artikel 2 Abs. 68 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3051) geändert worden ist, sowie die technischen Mindestanforderungen aus der Anlage Nr. I, II beziehungsweise III
+EEWärmeG einzuhalten und durch einen Nachweis gemäß § 10
+EEWärmeG zu belegen. Erträge aus Photovoltaik-Anlagen dürfen für die Jahresbilanz der Anlagen nach Ziffer II Nr. 1.2 Buchst. c nicht berücksichtigt werden.
 
 6.
 
-Der Eigenanteil beträgt 1 000 EUR.
+Die Gesamtbelastung aus der Finanzierung und den sonstigen Aufwendungen muss auf Dauer tragbar erscheinen.
 
 7.
 
-Die Gesamtbelastung aus der Finanzierung und den sonstigen Aufwendungen muss auf Dauer tragbar erscheinen.
-
-8.
-
-Dem Vorhaben dürfen öffentlich-rechtliche Vorschriften nicht entgegenstehen.
+Nach der Verordnung (EG) Nr. 1998/2006 ist die Gewährung von „De-minimis“-Beihilfen in den in Artikel 1 der Verordnung genannten Bereichen ausgeschlossen.
 
 V.
 
-Art und Umfang, Höhe der Zuwendung, Bemessungsgrundlage
+Art, Umfang und Höhe der Zuwendung
 
 1.
+
+a)
 
 Zuwendungsart:
 
 Projektförderung
 
-2.
+b)
 
 Finanzierungsart:
 
-Anteilfinanzierung
+Anteilsfinanzierung bis zu einer Höchstgrenze
 
-3.
+c)
 
 Form der Zuwendung:
 
-öffentliches Darlehen als Ratendarlehen
+öffentliches Darlehen
 
-4.
+d)
 
 Höhe der Zuwendung:
 
-Die Höhe des Zuwendung ergibt sich aus den geplanten Ausgaben für die Beseitigung der Schäden abzüglich der Versicherungsleistungen, Spenden und Zuwendungen Dritter. Die Ausgaben für die Beseitigung der Schäden müssen durch einen unabhängigen Dritten, zum Beispiel Architekten, Bauleiter, Bausachverständigen oder sonstigen Sachverständigen der Versicherung, bestätigt werden. Bei einem selbstgenutzten Ersatzneubau beträgt die Höhe der Zuwendung maximal 50 000 EUR. Für jedes zum Haushalt gehörende Kind erhöht sich die maximale Zuwendungshöhe um 35 000 EUR. Für die Errichtung einer Einliegerwohnung, sofern diese von Angehörigen genutzt wird und bereits vor Eintritt des Schadensereignisses von diesen genutzt wurde, erhöht sich die maximale Zuwendungshöhe um 35 000 EUR. Die Mindestdarlehenshöhe beträgt 2 000 EUR.
+bis zu 90 Prozent der unmittelbar durch förderfähige Maßnahmen im Sinne von Ziffer II entstandenen Ausgaben einschließlich der Baunebenkosten, aber maximal 50 000 EUR je Wohneinheit eines geförderten Gebäudes. Die Darlehenshöhe muss mindestens 5 000 EUR betragen.
 
-5.
+e)
 
-Zinsen:
+Höhe der Zinsen:
 
-1,5 Prozent pro Jahr
+vom 1. bis zum 25. Jahr: 1,0 Prozent pro Jahr
 
-6.
-
-Laufzeit:
-
-20 Jahre. Im Einzelfall ist eine Verlängerung der Laufzeit auf insgesamt 30 Jahre möglich. Die Bewilligungsstelle entscheidet in Absprache mit dem Staatsministerium des Innern. Im 20. Jahr wird der Zins für die Restlaufzeit zu Marktkonditionen von der Bewilligungsstelle neu festgelegt.
-
-7.
+f)
 
 Tilgungsfreie Zeit:
 
-bis zu 1 Jahr ab Bewilligung
+bis zu einem Jahr ab Bewilligung
 
-8.
+g)
 
 Auszahlung:
 
 100 Prozent des Darlehensbetrages
 
-9.
+h)
 
-Bei der Ermittlung der Zuwendungshöhe werden die Kinder angerechnet, für die der Zuwendungsempfänger Kindergeld erhält.
+Annuitätische Tilgung:
 
-10.
+mindestens 2,0 Prozent pro Jahr, Tilgung des Gesamtdarlehensbetrags spätestens nach 25 Jahren, eine Anschlussfinanzierung/Umschuldung kann bei der Sächsischen Aufbaubank – Förderbank – (SAB) beantragt werden.
 
-Die Rückzahlung des Darlehens erfolgt in gleich großen Tilgungsraten. Die Zahlweise ist monatlich. Es kann einmal jährlich mit einer Ankündigung von 10 Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate eine vorzeitige teilweise Rückzahlung des Darlehens ohne Vorfälligkeitsentschädigung erfolgen. Der Sondertilgungsbetrag sollte mindestens 2 000 EUR betragen. Eine komplette Rückzahlung des Darlehens kann ebenfalls mit einer Ankündigung von 10 Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate ohne Vorfälligkeitsentschädigung erfolgen.
+Die Zahlweise ist monatlich. Es kann einmal jährlich mit einer Ankündigung von 10 Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate eine vorzeitige teilweise Rückzahlung des Darlehens ohne Vorfälligkeitsentschädigung erfolgen. Der Sondertilgungsbetrag sollte 10 Prozent des bewilligten Darlehens, jedoch mindestens 2 000 EUR betragen. Eine vollständige Rückzahlung des Darlehens kann ebenfalls mit einer Ankündigung von 10 Bankarbeitstagen zum Fälligkeitstermin der nächsten Rate ohne Vorfälligkeitsentschädigung erfolgen.
 
-11.
+2.
 
-Die Abruffrist beträgt 12 Monate nach Bewilligung. Eine Verlängerung der Abruffrist ist grundsätzlich nicht möglich. Bei Nichtabnahme eines bewilligten Darlehens können für die Bereitstellung des Darlehens Bereitstellungszinsen erhoben werden.
+Zuschuss für technische und wirtschaftliche Bauberatung und -betreuung
+
+a)
+
+Zuwendungsart:
+
+Projektförderung
+
+b)
+
+Finanzierungsart:
+
+Anteilsfinanzierung bis zu einer Höchstgrenze
+
+c)
+
+Form der Zuwendung:
+
+Zuschuss
+
+d)
+
+Höhe der Zuwendung:
+
+100 Prozent der nachgewiesenen Ausgaben für die technische und wirtschaftliche Bauberatung und -betreuung, jedoch höchstens 1 000 EUR je gefördertem Vorhaben.
+
+Der Zuschuss wird nach Vollauszahlung des Darlehens und Durchführung der Maßnahmen nach Ziffer II zum übernächsten Fälligkeitstermin der Rate des Darlehens mit der Restschuld verrechnet.
+
+3.
+
+Die Abruffrist beträgt 12 Monate nach Bewilligung. Sofern der Darlehensnehmer diese Frist nicht einhält, kann durch die Bewilligungsstelle eine Verlängerung erfolgen. Für den Zeitraum der Verlängerung der Abruffrist werden für den noch nicht abgenommenen Teil der Darlehensvaluta Zinsen in Höhe des Förderdarlehenszinses fällig. Bei Nichtabnahme des gesamten Darlehens wird für die Bereitstellung des Darlehens ein einmaliges Entgelt in Höhe von 1,0 Prozent des gesamten Darlehens, höchstens jedoch 1 000 EUR, fällig.
 
 VI.
 
@@ -188,75 +258,47 @@ Sonstige Zuwendungsbestimmungen
 
 Vorhabensbeginn
 
-a)
+1.1
 
-Eine Zuwendung kann grundsätzlich nur gewährt werden, wenn das Vorhaben noch nicht begonnen worden ist. Als Vorhabensbeginn ist grundsätzlich der Baubeginn oder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- und Leistungsvertrages oder eines notariellen Kaufvertrages zu werten. Ist in einem auf die Ausführung bezogenen Vertrag oder im Kaufvertrag ein Rücktrittsrecht für den Fall vereinbart, dass Zuwendungen nicht gewährt werden, gilt erst die Zahlungsansprüche auslösende Tätigkeit eines Auftragnehmers für Leistungen, die nicht der Baufreimachung zuzurechnen sind, als Baubeginn im Sinne der Nummer 1.3 der
-VwV zu § 44 SäHO . Ein bereits erfolgter Vorhabensbeginn insbesondere zur Wiederherstellung der Bewohnbarkeit oder zur Herstellung der Standsicherheit ist nicht förderschädlich, wenn ein Antrag auf Förderung nach dieser Richtlinie bis zum 30. November 2010 gestellt wurde.
+Als Vorhabensbeginn ist grundsätzlich der Baubeginn oder der Abschluss eines der Ausführung zuzurechnenden Lieferungs- und Leistungsvertrages zu werten. Planung, Baugrunduntersuchung sowie vorbereitende Erstellung von Gutachten gelten nicht als Beginn des Vorhabens. Die Durchführung und Finanzierung dieser Arbeiten bereits vor Beantragung der Zuwendung steht einer Anerkennung als zuwendungsfähige Ausgaben nicht entgegen.
 
-b)
+1.2
 
-Bei den nach dieser Richtlinie förderfähigen Baumaßnahmen gelten Planung und Baugrunduntersuchung nicht als Beginn des Vorhabens. Die Durchführung und Finanzierung dieser Arbeiten bereits vor Beantragung der Zuwendung steht einer Anerkennung als zuwendungsfähige Ausgaben nicht entgegen.
-
-c)
-
-Die Bewilligungsstelle kann im Ausnahmefall einen vorzeitigen förderunschädlichen Vorhabensbeginn genehmigen, wenn die sachliche Prüfung der Zuwendungsvoraussetzungen mit positivem Ergebnis abgeschlossen wurde und die Finanzierung gesichert erscheint. Mit der Genehmigung wird bescheinigt, dass die Ausführung des Projektes einer eventuellen späteren Förderung nicht entgegensteht. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. In der Genehmigung zum vorzeitigen förderunschädlichen Beginn ist ausdrücklich darauf hinzuweisen, dass aus ihr kein Rechtsanspruch auf eine Förderung abgeleitet werden kann, dass sie keine Zusicherung auf Bewilligung einer Zuwendung darstellt und dass eine spätere Förderung grundsätzlich nach den dann geltenden Richtlinien erfolgt.
+Die Bewilligungsstelle kann im Ausnahmefall einen vorzeitigen Vorhabensbeginn genehmigen. Mit der Genehmigung wird bescheinigt, dass die Ausführung des Projektes einer eventuellen späteren Förderung nicht entgegensteht. Der Zuwendungsempfänger trägt das Finanzierungsrisiko. In der Genehmigung zum vorzeitigen Vorhabensbeginn ist darauf hinzuweisen, dass hieraus kein Anspruch auf eine Förderung besteht und keine Zusicherung auf Bewilligung einer Zuwendung begründet.
 
 2.
 
-Für die Zuwendungen gelten die „Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung“ (
-ANBest-P ; Anlage 2 zur VwV zu § 44 SäHO). Auf die Einhaltung von Nummer 3 ANBest-P wird insbesondere für Maßnahmen zur Wiederherstellung der Bewohnbarkeit oder zur Herstellung der Standsicherheit verzichtet, wenn diese bis zum 30. November 2010 beauftragt worden sind.
+Für die Förderung finden die Allgemeinen Nebenbestimmungen für Zuwendungen zur Projektförderung (
+ANBest-P
+, Anlage 2 zur VwV zu § 44 SäHO) Anwendung. Ist der Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts und liegt kein Fall des § 98 Nr. 2 bis 6 des
+Gesetzes gegen Wettbewerbsbeschränkungen (
+
+GWB) in der Fassung der Bekanntmachung vom 15. Juli 2005 (BGBl. I S. 2114; 2009 I S. 3850), das zuletzt durch Artikel 2 Abs. 62 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044, 3050) geändert worden ist, in der jeweils geltenden Fassung, vor, ist es bei Zuwendungen bis zu 300 000 EUR ausreichend, wenn durch Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung dokumentiert wird, dass die Vergabe nach wettbewerblichen Gesichtspunkten und wirtschaftlichen Bedingungen erfolgt ist. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden sollen, bedarf dies der vorherigen Bestätigung durch die Bewilligungsstelle. Ist der Zuwendungsempfänger eine natürliche Person, sind die Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung erforderlich.
 
 3.
 
-Für ab 1. Dezember 2010 beauftragte Maßnahmen ist in Abweichung von Nummer 3 ANBest-P bei Zuwendungen ab 50 000 EUR bis zu 300 000 EUR die Einholung von mindestens drei vergleichbaren Angeboten fachkundiger und leistungsfähiger Anbieter und eine entsprechende Begründung der Entscheidung ausreichend, wenn
-
-a)
-
-dadurch dokumentiert wird, dass die Vergabe nach Wettbewerbsgesichtspunkten und wirtschaftlichen Bedingungen erfolgt ist,
-
-b)
-
-Zuwendungsempfänger eine natürliche Person, eine Personengesellschaft oder eine juristische Person des privaten Rechts ist und
-
-c)
-
-kein Fall des § 98 Nr. 2 bis 6 des
-Gesetzes gegen Wettbewerbsbeschränkungen (
-
-GWB) in der Fassung der Bekanntmachung vom 15. Juli 2005 (BGBl. I S. 2114, 2009 I S. 3850), das zuletzt durch Artikel 13 Abs. 21 des Gesetzes vom 25. Mai 2009 (BGBl. I S. 1102, 1136) geändert worden ist, in der jeweils geltenden Fassung vorliegt. Sofern im Ausnahmefall weniger als drei Angebote eingeholt werden sollen, bedarf dies der vorherigen Bestätigung durch die Bewilligungsstelle.
+Bei Förderdarlehen über 50 000 EUR ist das gesamte Darlehen im Grundbuch an rangbereiter Stelle zu Gunsten der SAB dinglich zu sichern. Die Bewilligungsstelle kann im Einzelfall freie Grundschuldteile zur Sicherung nutzen. Darüber hinaus kann die Sicherung mehrerer Darlehen für mehrere Objekte auf einem Objekt oder gegebenenfalls auf einem nicht zu fördernden Objekt des Antragstellers erfolgen, sofern dadurch eine werthaltigere Sicherung gegeben ist. Es können im Einzelfall zusätzliche Sicherheiten verlangt werden.
 
 4.
 
-Bei Förderdarlehen über 50 000 EUR ist das gesamte Darlehen im Grundbuch an rangbereiter Stelle zu Gunsten der Sächsischen Aufbaubank – Förderbank – (SAB) dinglich zu sichern. Es können im Einzelfall zusätzliche Sicherheiten verlangt werden.
+Die technische und wirtschaftliche Bauberatung und -betreuung ist nur in Verbindung mit einem Darlehen nach Ziffer V Nr. 1 förderfähig.
 
 5.
 
-Der Bauherr ist verpflichtet, für jede geförderte Baumaßnahme eine Baurechnung zu führen und auf Anforderung vorzulegen. Die Baurechnung besteht aus
-
-a)
-
-den Einnahmen und Ausgaben entsprechend der Obergruppen der DIN 276, Kosten im Hochbau, jeweils mit Rechnungsbelegen, ihrem Grunde nach bezeichnet, geordnet und getrennt von anderen Buchungen,
-
-b)
-
-der Baugenehmigung, Abweichungsentscheidungen nach § 67
-SächsBO und der denkmalschutzrechtlichen Genehmigung, soweit für das jeweilige Vorhaben erforderlich,
-
-c)
-
-dem Bewilligungsbescheid mit seinen Nebenbestimmungen,
-
-d)
-
-den dem Vorhaben zugrunde gelegten Bauvorlagen.
+Die Gesamtausgaben für die Sanierungsmaßnahmen sind je Wohngebäude in den dafür vorgesehenen Vordrucken darzustellen und dem Antrag auf Auszahlung beizufügen.
 
 6.
 
-Der geförderte Wohnraum darf innerhalb von 20 Jahren keiner anderen Nutzung als zu Wohnzwecken zugeführt und nicht zurückgebaut werden.
+Der Bauherr ist verpflichtet, für jede geförderte Baumaßnahme eine Baurechnung zu führen und auf Anforderung vorzulegen. Die Baurechnung besteht aus den Einnahmen und Ausgaben entsprechend den Obergruppen der DIN 276, Kosten im Hochbau, jeweils mit Rechnungsbelegen, ihrem Grunde nach bezeichnet, geordnet und getrennt von anderen Buchungen.
 
 7.
 
-Eine Förderung nach dieser Richtlinie kann durch andere Förderprogramme des Landes, des Bundes oder der Europäischen Union ergänzt werden, sofern dies die Fördervorschriften der anderen Programme zulassen und die Gesamtsumme der Fördermittel sowie der Versicherungsleistungen und Spenden die Gesamtkosten nicht übersteigt.
+Der geförderte Wohnraum darf innerhalb von 25 Jahren keiner anderen Nutzung zugeführt und nicht zurückgebaut werden.
+
+8.
+
+Eine Förderung nach dieser Richtlinie kann durch andere Förderprogramme des Landes, des Bundes oder der Europäischen Union ergänzt werden, sofern dies die Fördervorschriften der anderen Programme zulassen und die Gesamtsumme der Fördermittel die Summe der Gesamtkosten nicht übersteigt. Für Vorhaben an Wohngebäuden, die auch nach den Kapiteln A, E oder G der Richtlinie des Sächsischen Staatsministeriums für Umwelt und Landwirtschaft zur Integrierten Ländlichen Entwicklung im Freistaat Sachsen (Förderrichtlinie Integrierte Ländliche Entwicklung –
+RL ILE/2007) vom 18. Oktober 2007 (SächsABl. S. 1601), zuletzt geändert durch Verwaltungsvorschrift vom 18. April 2011 (SächsABl. S. 652), zuletzt enthalten in der Verwaltungsvorschrift vom 14. Dezember 2011 (SächsABl. SDr. S. S 1811), in der jeweils geltenden Fassung, gefördert werden, kann von der Gebietskulisse nach Ziffer IV Nr. 1 Satz 1 abgewichen werden.
 
 VII.
 
@@ -264,15 +306,15 @@ Verfahren
 
 1.
 
-Der Antrag für die Förderung ist bei der Sächsischen Aufbaubank – Förderbank – (SAB), Pirnaische Straße 9, 01069 Dresden auf den dafür vorgesehenen Vordrucken bis spätestens 31. Dezember 2010 zu stellen. Die Vordrucke sind bei der SAB erhältlich.
+Der Antrag ist bei der SAB auf den dafür vorgesehenen Vordrucken zu stellen. Die Vordrucke sind bei der SAB erhältlich. Die Bearbeitung erfolgt nach Eingang der vollständigen Antragsunterlagen.
 
 2.
 
-Bewilligungsstelle ist die SAB. Die Bearbeitung erfolgt erst nach Eingang der vollständigen Antragsunterlagen. Widerspruchsbehörde für Verwaltungsakte der Bewilligungsstelle ist die SAB.
+Bewilligungsstelle sowie Widerspruchsbehörde für Verwaltungsakte der Bewilligungsstelle ist die SAB.
 
 3.
 
-Die Auszahlung erfolgt nach Baufortschritt auf Antrag des Zuwendungsempfängers mittels der dafür vorgesehenen Vordrucke der SAB.
+Die Auszahlung erfolgt nach Abschluss der Maßnahme oder nach Baufortschritt und nach Prüfung des Auszahlungsantrags. Eine Bestätigung des Baufortschrittes durch den Bauleiter oder Architekten ist mit dem Auszahlungsantrag vorzulegen. Darlehenssummen von bis zu 25 000 EUR werden zu 100 Prozent nach Abschluss der Baumaßnahmen ausgezahlt. Darlehenssummen von mehr als 25 000 EUR kann die Bewilligungsstelle in bis zu drei Teilbeträgen nach Baufortschritt auszahlen.
 
 4.
 
@@ -288,24 +330,28 @@ dem Finanzierungsplan,
 
 c)
 
-der Baurechnung ohne die Belege,
+der Baurechnung ohne die Belege und
 
 d)
 
-der Bestätigung durch einen unabhängigen Dritten, zum Beispiel Architekten, Bauleiter, Bausachverständigen oder sonstigen Sachverständigen der Versicherung, dass die geförderten Maßnahmen entsprechend der Bewilligung durchgeführt wurden.
+der Bestätigung durch die Person, die die Bewertung nach Ziffer IV Nr. 3 vorgenommen hat, dass die geförderten Maßnahmen entsprechend der Bewilligung durchgeführt wurden.
 
 5.
 
 Für die Bewilligung, Auszahlung und Abrechnung der Zuwendung sowie für den Nachweis und die Prüfung der Verwendung und die gegebenenfalls erforderliche Aufhebung des Zuwendungsbescheides und die Rückforderung der gewährten Zuwendung gilt die
-VwV zu § 44 SäHO , soweit nicht in dieser Förderrichtlinie Abweichungen zugelassen worden sind.
+VwV zu § 44 SäHO , soweit nicht in dieser Richtlinie Abweichungen zugelassen worden sind.
+
+6.
+
+Das Staatsministerium des Innern kann zu Ziffer II Nr. 1 und Ziffer IV Nr. 1 und 5 im Einzelfall Ausnahmen zulassen.
 
 VIII.
 
-Inkrafttreten
+Inkrafttreten und Außerkrafttreten
 
-Diese Richtlinie tritt am Tag der Unterzeichnung in Kraft.
+Diese Richtlinie tritt am Tag nach ihrer Veröffentlichung in Kraft. Gleichzeitig treten die Richtlinie des Sächsischen Staatsministeriums des Innern über die Gewährung von Zuwendungen zur energetischen Sanierung von Wohnraum (RL Energetische Sanierung) vom 15. Juli 2008 (SächsABl. S. 977), geändert durch Richtlinie vom 10. Februar 2009 (SächsABl. S. 451), zuletzt enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), sowie die Richtlinie des Sächsischen Staatsministeriums des Innern zur Förderung der energetischen Sanierung von Wohnraum (RL Energetische Sanierung) vom 16. März 2010 (SächsABl. S. 508), zuletzt geändert durch Richtlinie vom 5. April 2011 (SächsABl. S. 603), enthalten in der Verwaltungsvorschrift vom 9. Dezember 2011 (SächsABl. SDr. S. S 1648), außer Kraft.
 
-Dresden, den 18. August 2010
+Dresden, den 19. Januar 2012
 
 Der Staatsminister des Innern
 
