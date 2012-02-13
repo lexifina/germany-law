@@ -1,0 +1,66 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-02-13T16:05:00+01:00
+- Ende: 2012-02-13T19:15:00+01:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8135
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8135
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatung - Stand: 06.02.2012 - 13.30 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00138846.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00139200.pdf
+
+## Tagesordnung
+
+- TOP 0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Übergeordnete Angelegenheiten (nur Rat)
+- TOP 1.1: Einbringung des Haushaltsplan-Entwurfs und des Haushaltssanierungsplans
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Kosten des Akkreditivs - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Antwort auf die Anfrage der Ratsfraktion DIE LINKE. (VO/1109/12) vom 13.01.12: Kosten des Akkreditivs - Entgegennahme ohne Beschluss
+- TOP 2.2: Fuhlrott-Sammlungen in Wuppertal erwünscht? - Entgegennahme ohne Beschluss
+- TOP 2.2.1: Fuhlrott-Sammlungen - Entgegennahme ohne Beschluss
+- TOP 2.3: Steinkohlekraftwerk Wilhelmshafen - Entgegennahme ohne Beschluss
+- TOP 2.3.1: Antwort auf die Anfrage der FDP-Fraktion - Entgegennahme ohne Beschluss
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Bürgerantrag mit Bürgeranregung "Sicherheit im Straßenverkehr - auch in Wuppertal - Nord"
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Keine Castor-Transporte von Jülich nach Ahaus - abgelehnt
+- TOP 4.2: Transparenz dient der Demokratie - zur Vorberatung verwiesen
+- TOP 4.3: Girls' Day in Wuppertal - Mädchen Macht Politik oder Wie werde ich Oberbürgermeisterin? - abgelehnt
+- TOP 4.5: Zukunft des Landhauses Sans Souci - abgelehnt
+- TOP 4.4: Resolution Stärkungspakt Stadtfinanzen - abgelehnt
+- TOP 4.6: Ermäßigtes Kulturticket - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Einführung von Elektrofahrzeug-Parkausweisen - abgesetzt
+- TOP 6: Ortsrecht
+- TOP 7: Haushaltsangelegenheiten
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Wirtschaftsplan 2012 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 8.2: Wirtschaftsplan GMW 2012 - ungeändert beschlossen
+- TOP 8.3: Jahresarbeitsprogramm 2012 der Bergischen Entwicklungsgesellschaft GmbH (BEA) - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Erhaltungs- und Gestaltungssatzung Sedansberg II - Bereich Siedlungsstraße - - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.1.1: Ergänzung zur Drucksache VO/0627/11 -Erhaltungs- und Gestaltungssatzung Sedansberg II - Bereich Siedlungstraße - Modifizierung des §3 der Satzung - erledigt durch Beschluss zu einem anderen TOP
+- TOP 9.1.2: Erhaltungs- und Gestaltungssatzung Sedansberg II -Bereich Siedlungsstraße - Satzungsbeschluss - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1164 - Friedrichstraße / Nordstraße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan Nr. 622 A 1 - Friedrich-Engels-Allee - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan Nr. 1103 - Holthauser Straße - Satzungsbeschluss - ungeändert beschlossen
+- TOP 9.5: Bebauungsplan Nr. 1143 - Laaker Teich - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Gremientätigkeiten von Herrn Oberbürgermeister Peter Jung - Entgegennahme ohne Beschluss
+- TOP 11.2: Teilnahme am Interessebekundungsverfahren zum Modellprojekt "Kommunale Präventionsketten" - abgesetzt
+- TOP 11.3: Weiterführung der integrativen Lerngruppen - zieldifferent - in der Sekundarstufe I - ungeändert beschlossen
+- TOP 11.4: Neufestlegung der Geschäftsbereiche der Beigeordneten gemäß § 71 Abs. 1 GO NRW - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Bennung eines neuen Mitgliedes des Tierheimbeirates - ungeändert beschlossen
+- TOP 12.2: Berufung von beratenden Mitgliedern in den Ausschuss für Schule und Bildung - ungeändert beschlossen
+- TOP 12.3: Neubesetzung des Aufsichtsrates der BEG GmbH - geändert beschlossen
+- TOP 12.4: Mitgliederversammlung des Städtetages Nordrhein-Westfalen am 13. Juni 2012 in Mönchengladbach - Benennung der stimmberechtigten Abgeordneten der Stadt Wuppertal - geändert beschlossen
+- TOP 12.5: Bennung eines neuen Vertreters im Ausschuss für Soziales, Familie und Gesundheit - ungeändert beschlossen
+- TOP 12.6: Ergänzung der interfraktionellen Vereinbarung über die Besetzung der Ratsausschüsse mit sachkundigen Einwohner/innen in der Wahlperiode 2009 - 2014 - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzungen / Benennung - ungeändert beschlossen
+- TOP 12.8: Benennung eines neuen Vertreters im Ausschuss für Finanzen, Beteiligung einschl. Zentrale Dienste und Betriebsausschuss APH/KIJU - ungeändert beschlossen
