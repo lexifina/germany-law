@@ -1,0 +1,74 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2012-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2496983
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2496983
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Kurzparkzone in der Bingener Straße vor ?Norma?
+- TOP 3: Berichte
+- TOP 3.3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ortstermin Leipziger Straße / Chemnitzer Platz
+- TOP 3.3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 3.3.4: Sonstige Berichte
+- TOP 3.1.: Termine und Bekanntgaben
+- TOP 4.4.1: Anträge der SPD
+- TOP 4.1.: Nutzung des Geländes des ehem. Olympiabahnhofs für Freizeitangebote
+- TOP 4.2.: Neuer Bewohnertreff für das Gebiet zwischen Baubergerstraße, Dachauer Straße, Wintrichring und Allacher Straße
+- TOP 4.4.2: Anträge der CSU
+- TOP 4.1.: Absperrung Grünanlagen Sickingerstraße und Franz-Mader-Straße
+- TOP 4.2.: Verbesserung der Straßenbeleuchtung in Abschnitten der Dachauer Straße
+- TOP 4.4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.1.: ?Olympiagleis-Draisine? für Moosach! Sportliche Freizeitgaudi am Olympiapark
+- TOP 4.4: Anträge der F.D.P.
+- TOP 1: (E) Optimierung von Ampelschaltungen zur besseren Abwicklung des untergeordneten Querverkehrs (z.B. Feldmochinger Str. / Merseburger Str.
+- TOP 1.2.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB: Aufstellung eines Fahrradständers Dachauer Str. 286
+- TOP 1.3.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB: 13 Anträge für Zeitungsverkaufseinrichtungen
+- TOP 1.4.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB: Freischankfläche Dresdner Str. 1
+- TOP 6: Anhörungen
+- TOP 6.1.: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 6.2.: Stop-Schild Gärtnerstr. / Hanauer Straße
+- TOP 6.3.: City-Bike-Marathon München und nördl. Umgebung am 15.04.2012
+- TOP 6.4.: Bauvorhaben Schragenhofstr. 31: Anbau eines Einspritz-Prüffelds
+- TOP 6.5.: Bauvorhaben Baubergerstr. 4: Neubau eines Wohnhauses (26 WE kommunal gefördert) mit integrierter Kinderkrippe und Tiefgarage
+- TOP 6.6.: Vollzug der Baumschutzverordnung: Fodermayrstr. 17
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anbringung eines Postkastens am Anwesen Schragenhofstr. 27 (Antrags-Nr. 08-14 / B 03393) (von der Post abgelehnt, aber Versetzung des Postkastens Menzinger Str. 56 in die Menzinger-/Schragenhofstr.)
+- TOP 7.2.: Aufstellung von Abfallbehältern und Aschenbechern in den Moosacher U-Bahnhöfen (Empfehlung Nr. 08-14 / E 1072 der Bürgerversammlung am 11.10.2011)(lt. MVG sind ausreichend Abfallbehälter vorhanden, Aschenbecher wegen des Rauchverbotes nicht erforderlich)
+- TOP 7.3.: Mögliche Verlegung des Autobahnkreisels von der Verdistraße an die Von-Kahr-Straße (Untersuchung der Vor- und Nachteile erst nach Stadtratsbefassung, derzeit keine Priorität)
+- TOP 7.4.: Wiederherstellung der Hacklhauswiese am Moosacher St.-Martins-Platz (Antrags-Nr. 08-14 / B 03403) (Nutzung als Festwiese möglich)
+- TOP 7.5.: Bau weiterer Sickerschächte im Bereich Abensbergstr. und Leipziger Str. (Antrags-Nr. 08-14 / B 03394) (sind im Bereich Abensbergstraße vorgesehen; im Bereich Leipziger Straße wurden neue Schachtabdeckungen eingebaut)
+- TOP 7.6.: Verlagerung Busbetriebshof Westendstraße (Antrags-Nr. 08-14 / B 03218) (Vorhaben wird nicht weiter verfolgt)
+- TOP 7.7.: Fragenkatalog zum Gaslager Air Liquide
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Vollzug der Grünanlagensatzung: Genehmigung für das Anlegen einer Baustellenzufahrt im Amphionpark
+- TOP 8.4.: Straßenbaumaßnahme In den Kirschen: Optimierung der Übergangssituation in Höhe der Bayerischen Landesschule für Blinde
+- TOP 8.5.: Drehgenehmigung ?K 11 ? Kommissare im Einsatz 13.01.12 bis 30.06.12 (Drehaufnahmen ohne Verkehrsbehinderungen, Fahraufnahmen)
+- TOP 8.6.: Drehgenehmigung für verschiedene Schäfflertanzaufführungen
+- TOP 8.7.: Bauvorhaben Bauberger-/Bunzlauer Straße: Ermächtigung zur Planung der Kinderkrippe, Genehmigung des Nutzerbedarfsprogramms, Finanzierung und Mittelbereitstellung für den Bau der Kinderkrippe)
+- TOP 8.8.: Haltverbot Wildermuthstr. / Georg-Kainz-Straße
+- TOP 8.9.: Haltverbot Wildermuthstr. / Georg-Kainz-Straße PKW-Parken / Anfahrtszone Leipziger Straße
+- TOP 8.10.: Verkehrsführung Bunzlauer Straße zwischen Dachauer Straße und Anwesen 23
+- TOP 8.11.: Unveränderte Fortführung eines Gaststättenbetriebes: Kleingartenwirtschaft NW 17, In den Kirschen 100
+- TOP 8.12.: Mobilfunk: Erweiterungsvorhaben an bestehenden Mobilfunkstandorten mit UMTS (nicht öffentlich)
+- TOP 8.13.: 2. Stammstrecke: Forderungen des Freistaates Bayern (Vorlagen-Nr. 08-14 / V 08567)
+- TOP 8.14.: Zukunft des geförderten Wohnungsbaus in München (Vorlagen-Nr. 08-14 / V 08223)
+- TOP 8.15.: Genossenschaftidee fördern II; ?Hamburger Modell? zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen (Vorlagen-Nr. 08-14 / V 08045)
+- TOP 8.16.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V?, Wohnungsbauoffensive 2012 ? 2016 (Vorlagen-Nr. 08-14 / V 08187) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.17.: Perspektive München: Langfristige Siedlungsentwicklung (Vorlagen-Nr. 08-14 / V 08420) (umfangreiche Unterlagen im Sitzungsordner)
+- TOP 8.18.: Brunnen für Moosach (Beschlussvorlage für den Bauausschuss am 14.02.2012)
+- TOP 8.19.: Neubau Dachauer Straße (Beschlussvorlage für den Bauausschuss am 14.02.2012)
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
