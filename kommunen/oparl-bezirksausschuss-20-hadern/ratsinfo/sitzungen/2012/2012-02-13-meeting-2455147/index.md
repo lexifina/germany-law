@@ -1,0 +1,103 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-02-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455147
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455147
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 3.2.: UA Verkehr
+- TOP 3.3.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, STÜPS Schulsozialarbeit, Mittelschule Blumenauer Str., Gewaltpräventionsprojekt vom 07. - 10.02.2012 (Direktorium, 16.01.12)
+- TOP 5.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund: Alpenveilchenstraße 49 (Kreisverwaltungsreferat, 05.01.12)
+- TOP 5.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters, hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Verkehrsgrund: Am Hedernfeld 5; Heiglhofstraße 54; Sauerbruchstraße 2 an der Seite der Würmtalstraße, Sauerbruchstraße 10, 48; Senftenauerstraße 1; Stiftsbogen 77; Terofalstraße 3, 51, 95; Würmtalstraße 2, 130, 132 (Kreisverwaltungsreferat, 25.01.12)
+- TOP 4: Einrichtung eines Parkverbotes für Wohnwagen, Anhänger und Lkw in der Kriegerheimstraße zwischen Pfingstrosen- und Aurikelstraße (Kreisverwaltungsreferat, 06.02.12)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Guardinistraße 22 - 34, Aufstockung eines Wohngebäudes (Referat für Stadtplanung und Bauordnung, 08.12.11) (vertagt aus 01/12)
+- TOP 6.2.: Gelbhofstraße 6, Umbau und Aufstockung eines Kindergartens / einer Kinderkrippe (Referat für Stadtplanung und Bauordnung, 23.01.12)
+- TOP 6.3.: Guardinistraße 38 - 54, Aufstockung (Referat für Stadtplanung und Bauordnung, 23.01.12)
+- TOP 6.4.: Erinnerungsverfahren: Kriegerheimstraße 6 (Baureferat, 17.01.12)
+- TOP 6.5.: Lichtzeichenanlagen-Bauprogramm 2012 (Kreisverwaltungsreferat, 20.01.12)
+- TOP 6.6.: Sonnblickstraße 13, Neubau eines Mehrfamilienhauses mit Tiefgarage (Referat für Stadtplanung und Bauordnung, 09.01.12)
+- TOP 6.7.: Änderung der Satzung der Münchner Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen, Antr. BA 7 vom 11.10.2011 (Direktorium, 27.01.12)
+- TOP 6.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 6.1.: Haseneystraße 19, 6 serbische Fichten
+- TOP 6.2.: Ringstraße 19 a, 1 Birke
+- TOP 6.3.: Stiftsbogen 102 - 116, 8 Pappeln und 1 Hainbuche
+- TOP 6.4.: Voglmaierstraße 1, 1 Weide
+- TOP 6.5.: Kleinhaderner Straße, 1 Lärche
+- TOP 6.6.: Guardinistraße 38 - 54, gem. Baumbestands- und Freiflächengestaltungsplan Nr. 31299
+- TOP 6.7.: Sonnblickstraße 13, gem. Baumbestandsplan Nr. 31567
+- TOP 6.8.: Konrad-Dreher-Straße 35, 1 Robinie
+- TOP 6.9.: Windeckstraße 31, 1 Zeder
+- TOP 6.10.: Maenherstraße 2 a, gem. Baumbestandsplan Nr. 32190
+- TOP 6.11.: Küchelstraße 13, gem. Baumbestandsplänen Nr. 995 und 1004
+- TOP 6.7.2: Fällung von Gefahrenbäumen
+- TOP 6.1.: Haderunstraße 32, 1 Fichte (Referat für Stadtplanung und Bauordnung, 17.01.12)
+- TOP 6.2.: Windeckstraße 48, 1 Ahorn (Referat für Stadtplanung und Bauordnung, 18.01.12)
+- TOP 6.3.: Senftenauerstraße 22 - 46, 1 Erbsenstrauch (Referat für Stadtplanung und Bauordnung, 27.12.11)
+- TOP 6.4.: Haderunstraße 27 - 29, 1 Sitkafichte (Referat für Stadtplanung und Bauordnung, 02.02.12)
+- TOP 6.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 6.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 6.1.: Willibaldstraße 110, 1 Birke (Referat für Stadtplanung und Bauordnung, 24.01.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Würmtalstraße (Sozialreferat, 05.01.12 und 23.01.12) - Waldklausenweg (Sozialreferat, 27.12.11)
+- TOP 8.2.: Generalinstandsetzung und Erweiterung des Schulgebäudes am Canisiusplatz 2; Informationsbrief an die Eltern, Lehrkräfte und Nachbarn zum geplanten Bauvorhaben (Referat für Bildung und Sport, 19.01.12)
+- TOP 8.3.: Werbenutzungsvertrag Bereisungskommission (Referat für Arbeit und Wirtschaft, 19.01.12)
+- TOP 8.4.: Information über eingleisige Verkehre während der Arbeiten zur Fahrstromertüchtigung im Januar / Februar 2012 (MVG, 04.01.12)
+- TOP 8.5.: Verkehrsrechtliche Anordnung, hier: Zeitänderung an der Schulbushaltestelle in der Pfingstrosenstraße 73; Verlängerung der dortigen Haltverbotszone (Kreisverwaltungsreferat, 29.12.11)
+- TOP 8.6.: Vollzug der Wassergesetze, Bachräumungstermine 2012 für die Stadt- bzw. Stadtrandbäche (Baureferat, 14.12.11)
+- TOP 8.7.: Verkehrsrechtliche Anordnung, hier: Haltverbot in der Wastl-Witt-Straße im Bereich der Bushaltestelle Flemischweg (Kreisverwaltungsreferat, 12.01.12)
+- TOP 8.8.: Verkehrsrechtliche Anordnung, hier: Haltverbot in der Senftenauerstraße westlich der Silberdistelstraße (Kreisverwaltungsreferat, 12.01.12)
+- TOP 8.9.: Programm "Bürgerinnen und Bürger gestalten ihre Stadt" Abrechnung der bereits gewährten Zuwendung, Antrag auf zusätzliche Förderung für den Naturlehrpfad auf der aufgelassenen Trambahntrasse (Direktorium, 26.01.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Umbenennung der Bushaltestelle "Ehrenmal" der Buslinie 56 in "Kriegsgräberstätte" (Referat für Arbeit und Wirtschaft, 27.12.11)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung "15 Jahre Kinderbeauftragte in München - Zusammenarbeit gestalten", Workshop am 07.03.2012 (Sozialreferat, 24.01.12)
+- TOP 11.2.: Terminvorankündigung, Jährlich im Kommunalreferat stattfindender Informationsaustausch am Donnerstag, 22.03.2012 (Kommunalreferat, 19.12.11)
+- TOP 11.3.: Sofortige Planungseinstellung Westtangente (Stadtratsantrag vom 30.12.11)
+- TOP 11.4.: Nutzung Anwesen Levkojenplatz 5
+- TOP 11.5.: "Regionalgespräche" Bezirksausschüsse mit der LBK (Referat für Stadtplanung und Bauordnung, 27.01.12)
+- TOP 11.6.: Termin für die Abgabe des Antrags auf Ganztagsklassen an Grundschulen (Schr. BA 19, 07.02.12)
+- TOP 11.7.: Broschüre Münchner Bürgerinnen- und Bürgerbefragung 2010 (Referat für Stadtplanung und Bauordnung und Sozialreferat, 02.02.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 14.12.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08192 (nach Antrag): 2. Stammstrecke Vorfinanzierung durch die Landeshauptstadt München (abgelehnt)
+- TOP 12.1.: Beschluss vom 25.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08187: Wohnungspolitisches Handlungsprogramm "Wohnen in München V" Wohnungsbauoffensive 2012 - 2016 (Auf den Referentenantrag wird Bezug genommen, S. 3 - 16.)
+- TOP 12.2.: Beschluss vom 25.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08223: Zukunft des geförderten Wohnungsbaus in München (Auf den Vortrag der Referentin vom 07.12.2011 wird Bezug genommen.)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08373: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG - Wohnungen (Nach Antrag in der Fassung des Ergänzungsantrages zu Punkt 1 vom 11.01.2012.)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 30.11.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08099 (nach Antrag): Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2054 Sauerbruchstraße (westlich), insbesondere - zum "Heizwerk des Klinikums Großhadern" (Seite 3, Abschnitt C 1) und - zur Forderung nach "Schallschutzwänden" zwischen dem Neubau auf der Südseite und dem Anwesen "Sauerbruchstraße 56" und auch der Nordseite des Neubaus (Seite 2, Anlage 4: Der BA-Vorstand hat dem Plan zugestimmt). Auf die Stellungnahmen des Planungsreferats (Seite 3) und des BA-Vorstands vom 28.10.2011 (E-Mail gem. Anlage 4) wird Bezug genommen (Seite 3). Der Stellungnahme des BA-Vorstands wird in Nr. 2 des Referentenantrages nur nach Maßgabe des Referentenvortrages in lit. C entsprochen (Seite 3 - 4). Hierauf wird ebenfalls Bezug genommen. Die Gesamtwohnfläche beträgt 512,31 m² (Unteranlage 1a der Anlage 3 zum Durchführungsvertrag Nr. 2054 mit dem "Vorhabenträger" (= Anlage 6 des Referentenantrages).
+- TOP 12.4.: Beschluss des Gesundheitsausschusses vom 19.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08366 (nach Antrag): Entfernung von Zigarettenautomaten in der Öffentlichkeit Empfehlung Nr. 08-14 / E 01054 der Bürgerversammlung des Stadtbezirkes 20 - Hadern vom 28.09.2011 (Abgelehnt wegen Fehlens einer gesetzlichen Handhabe.)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08420 (nach Antrag): PERSPEKTIVE MÜNCHEN Langfristige Siedlungsentwicklung, insbesondere zum "Testgebiet Stahleckplatz / Holzapfelkreuth (Anlage 1, S. 14 - 15) a) Sachstandsbericht b) Zukunftskongress
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08354: Schaffung von Einkaufsmöglichkeiten in der Gelbhofstraße Empfehlung Nr. 08-14 / E 01053 der Bürgerversammlung des Stadtbezirkes 20 - Hadern am 28.09.2011 (Der BA hat dem Referentenantrag vom 12.12.2011 zugestimmt.)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08045: Genossenschaftsidee fördern II "Hamburger Modell" zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08371 (nach Antrag): Preis für Stadtteilpflege - Wettbewerb "Denkmalschutz und Neues Bauen"; - Erweiterung der Wettbewerbskriterien - zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus - Ergänzung der Wettbewerbsbezeichnung
+- TOP 12.1.: Ergänzung zum Beschluss des Umweltschutzausschusses vom 31.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08119 (wurde am 29.11.2011 vertagt): Lärmminderungsplanung für München, insbesondere zur "Auswahl der Untersuchungsgebiete" (Anlage 1, Anhang 1, nach Seite 182 der Anlage 1) Entwurf des Lärmaktionsplans, insbesondere - zum "Fürstenrieder Wald, Großhadern" (Seite 14), - zum "lärmmindernden Fahrbahnbelag seit 2009 in der Fürstenrieder Straße zwischen Waldfriedhofstraße und BAB A 96" (Seite 40 - 41, Abschnitt 6.3.2.3, und Seite 175), - zur "Streckenverlängerung der U6-Süd nach Martinsried (1,3 km)" (Seite 72) und - zur "Neubaustrecke Tram-West-Tangente (8,7 km)" (Seite 72)
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Vollversammlung des Stadtrates vom 14.12.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08216: Wohnungsmarkt München - Expertenbefragung 2011 Wohnungsmarktbarometer 2011 (Für Hadern wird auf Seite 12 der Anlage 2 eine durchschnittliche Nettokaltmiete von 11,23 ?/m² festgestellt.)
+- TOP 12.2.: Bekanntgabe im Ausschuss für Stadtplanung und Bauordnung vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08196: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011 / 2012
+- TOP 12.3.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08217: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der Städt. Franz-Auweck-Abendschule; Schuljahr 2011 / 2012
+- TOP 12.4.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08195: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2011 / 2012 Stand: 20.10.2011
+- TOP 12.5.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08324: Schüler- und Klassenzahlen der öffentlichen Grund-, Haupt- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011 / 2012, insbesondere - zu den Grundschulen Am Hedernfeld (269 Schüler / 12 Klassen), an der Blumenauer Straße (137 / 8), am Canisiusplatz (299 / 13), an der Großhaderner Straße (302 / 12), an der Guardinistraße (160 / 8), an der Senftenauerstraße (277 / 13) und - zum "Schulverbund München-Südwest" (752 / 40), davon Mittelschulen an der Blumenauer Straße (239 / 13) und an der Guardinistraße (265 / 14) sowie - zu den Tagesheimen Am Hedernfeld (166 von 200 Plätzen) und an der Großhaderner Straße (194 von 200 Plätzen)
+- TOP 12.6.: Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011 zur Sitzungsvorlage-Nr. 08-14 / V 08020: Münchner Bürgerinnen- und Bürgerbefragung 2010, insbesondere zu den "Ergebnissen in Hadern" (Seite 41 - 57, Abschnitt 11.): 1. Statistik: - Anteil der Bewohner in 1-Personen-Haushalten = 34% (Seite 41, Abschnitt 11.1), - Anteil der Bewohner in Haushalten mit Kindern = 25% (Seite 42, Abschnitt 11.2), - Anteil der über 60-Jährigen = 31% (Seite 43, Abschnitt 11.3), - Anteil der Bewohner mit (Fach-)Abitur = 28% (Seite 44, Abschnitt 11.4), - Durchschnittl. Pro-Kopf-Einkommen = 1.615,- ? / Monat (Seite 45, Abschnitt 11.5) und - Durchschnittl. m²-Miete = 11,12 ? / Monat (Seite 46, Abschnitt 11.6).
+- TOP 12.7.: 2. Beurteilung des Wohnumfeldes: Zufriedenheit mit ... - der "Erreichbarkeit der Grün- und Freiflächen" = 87% (Seite 48, Abschnitt 11.7), - der "Attraktivität der Grün- und Freiflächen" = 76% (Seite 49, Abschnitt 11.8), - der "Parkmöglichkeit für eigenen PKW" = 58% (Seite 50, Abschnitt 11.9), - dem "Kulturangebot" = 42% (Seite 51, Abschnitt 11.10), - den "Einkaufsmöglichkeiten im Viertel" = 76% (Seite 53, Abschnitt 11.11), - den "Sportmöglichkeiten" = 73% (Seite 53, Abschnitt 11.12), - dem "Angebot an niedergelassenen Ärzten" = 76% (Seite 54, Abschnitt 11.13), - der "Anbindung an öffentl. Verkehrsmittel" = 92% (Seite 55, Abschnitt 11.14), - den "Abstellmöglichkeiten für Fahrräder" = 68% (Seite 56, Abschnitt 11.15) und - der "Sicherheit in und außerhalb der Wohnung" = 79% (Seite 57, Abschnitt 11.16).
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
