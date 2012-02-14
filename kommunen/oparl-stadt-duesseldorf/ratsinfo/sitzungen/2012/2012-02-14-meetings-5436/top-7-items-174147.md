@@ -1,0 +1,8 @@
+# TOP 7: B-Plan 5777/059 Gebiete in Flingern Nord; Satzung
+
+- Sitzung: Bezirksvertretung 2 (2012-02-14)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/174147
+- Ergebnis: mehrheitlich beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/60879
