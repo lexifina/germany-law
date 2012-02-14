@@ -1,0 +1,99 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-02-14T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467428
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467428
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Odeonsplatz 8: Gastronomie mit Livemusik
+- TOP .2.: Sendlinger-Tor-Platz 11: Schank- und Speisewirtschaft mit Musikdarbietungen
+- TOP .3.: Hotterstraße 12: Rückbau des Nordschalthauses des Umspannwerks
+- TOP .4.: Residenzstraße 9: Errichtung einer Freischankfläche (vertagt)
+- TOP .5.: Maximilianstraße 38 - 40: Nutzungsänderung des 4. OG (vertagt)
+- TOP .6.: Sonnenstraße 25: Umbau und Erweiterung des bestehenden Geschäftshauses (vertagt)
+- TOP .7.: Altheimer Eck 3: Neubau eines Wohn- und Geschäftshaues mit Vorder- und Rückgebäude (Vorbescheid)
+- TOP .10.: Brunnstraße 4: Neubau einer Wohnanlage mit Restaurant und Tiefgarage
+- TOP .11.: Marienplatz 25: Umbau eines Geschäftshauses (Vorbescheid)
+- TOP .12.: Maximilianstraße 38 ? 40: Nutzungsänderung 4. OG (Tektur)
+- TOP .13.: Frauenstraße 4: Neubau eines Hotels mit 32 Zimmern und einer Gaststätte
+- TOP .14.: NACHTRAG: Maximilianstraße 33: Nutzungsänderung mit baulichen Änderungen einer Nutzungseinheit mit Laden, Büros und Lager in einer Gaststätte
+- TOP .1.: Vorhabenbezogener Bebauungsplan ? Siemens Konzerngelände
+- TOP .2.: Mittelfristige Finanzplanung 2011 - 2015
+- TOP .2.1: Gaststätten
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Zeitungsentnahmegeräte für die BILD, verschiedene Standorte
+- TOP .2.: Sendlinger Straße 49: Warenstellage
+- TOP 1: (E) Wiedererrichtung der Bänke am St.-Anna-Platz
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: ?StadtLesen? vom 31.05. bis 03.06.2012, Odeonsplatz
+- TOP 1.2.: Manufaktum Gartentage vom 27.-28.04.2012, Alter Hof
+- TOP 1.3.: ?Geldbeutelwaschen? am 22.02.2012, Marienplatz
+- TOP 1.4.: ?Gourmetmarkt? vom 27.06. - 30.06.2012, Sendlinger-Tor-Platz
+- TOP 1.5.: ?Lesung zum Gedenken an die Bücherverbrennung? am 10.05.2012, Odeonsplatz
+- TOP 1.6.: ?Umzug des Narrhalla Prinzenwagens? am 21.01.2012
+- TOP 1.1.: Beschlussvorlage für den Kommunalausschuss vom 16.02.2012: Aufenthaltsqualität am Viktualienmarkt steigern ? Mehr Sitzgelegenheiten in Münchens guter Stube
+- TOP 1.1.: Parkplatz St. Anna-Straße
+- TOP 1.1.: Bürgeranliegen: Herumliegende Fahrräder an der S-Bahnhaltestelle Isartor
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 1 Altstadt-Lehel Umstufung einer Teilstrecke der Salvatorstraße
+- TOP 2: (E) Parkgebühren auch nachts (Ziffer 2), Besucherparkausweise (Ziffer 3), Bußgelder für "Querparker" (Ziffer 4)
+- TOP 2.1.: Motorradparkplätze am Odeonsplatz
+- TOP 2.2.: Lichtanzeigenanlagen-Bauprogramm 2012
+- TOP 2.3.: Fahrbahnsanierungen: - Steinsdorfstraße 1 ? 2 - Isartorplatz 1 - 5
+- TOP 2.1.: Treffen im Sub e.V. in der Unterausschusssitzung vom 07.02.2012
+- TOP 2.2.: Vorstellung der Kulturkonzeption für den ?Kulturstrand 2012? durch die Urbanauten
+- TOP 2.1.: Ortstermin Englischer Garten am 15.02.2012 um 16.00 Uhr
+- TOP 2.2.: Runder Tisch zur Residenzstraße am 09.02.2012 um 16.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13 (5. OG)
+- TOP 2.3.: Neugestaltung des ?Platzes der Opfer des Nationalsozialismus? Informations-veranstaltung für Anlieger am 16.02.2012 um 19.00 Uhr im Baureferat
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Beschluss der Vollversammlung vom 25.01.2012: Zukunft des geförderten Wohnungsbaus in München
+- TOP 0.3.: Beschluss der Vollversammlung vom 25.01.2012: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V?
+- TOP 0.4.: Beschluss des Planungsausschusses vom 01.02.2012: Genossenschaftsidee fördern II ?Hamburger Modell? zur Grundstücksvergabe an Genossenschaften und Baugemeinschaft darlegen
+- TOP 0.5.: Beschluss des Planungsausschusses vom 01.02.2012: Genossenschaftsidee fördern II ?Hamburger Modell? zur Grundstücksvergabe an Genossenschaften und Baugemein-schaft darlegen
+- TOP 0.6.: Beschluss des Planungsausschusses vom 18.01.2012: PERSPEKTIVE MÜNCHEN ? Langfristige Siedlungsentwicklung
+- TOP 0.7.: Beschluss des Planungsausschusses vom 11.01.2012: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG - Wohnungen&lt;
+- TOP 0.8.: Beschluss des Sozialausschusses vom 02.02.2012: Kostenänderung Bauvorhaben Am Einlaß
+- TOP 0.9.: Antwortschreiben der LBK zur Müllerstraße 22: Antrage wegen Nutzungsänderung Rückgebäude, TOP 2012.01 H
+- TOP 0.10.: Beschluss der Vollversammlung vom 01.02.2012: Wohnungspolitisches Handlungs-programm ?Wohnen in München V?
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Beschluss des Kreisverwaltungsausschusses vom 24.02.2012: Starker Kriminalitäts-anstieg an der Partymeile Sonnenstraße
+- TOP 0.6.: Beschluss des Kreisverwaltungsausschusses vom 24.02.2012: Veranstaltungen auf öffentlichem Verkehrsgrund ? Streetlife Festival / Corso Leopold, Erfahrungsbericht u.a.
+- TOP 0.7.: Schreiben bzgl. Vino Café, Hochbrückenstraße
+- TOP 0.8.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Damische Ritter? am 05.02.2012
+- TOP 0.9.: Beschluss des Kommunalausschusses als Werkausschuss für die Markthallen München vom 16.02.2012: Aufenthaltsqualität am Viktualienmarkt steigern
+- TOP 0.10.: Eilentscheidung des Vorsitzenden zur Veranstaltung ?Tanz der Marktfrauen? am 21.02.2012
+- TOP 0.11.: Rechtzeitige Vorlage der Unterlagen zur Anhörung nach § 13 der BA-Satzung Veranstaltungen auf öffentlichem Verkehrsgrund (Katalgo Kreisverwaltungsreferat Nr. 20)
+- TOP 0.12.: Protokoll des Ortstermins zum Außenbereich der Schrannenhalle am 25.01.2012
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Parkraummanagement ? Einbeziehung des Parkbuchtbereichs vorm ?Haus der Kunst? - Vorfahrt in der Oettingenstraße - Halteverbot Corneliusstraße Ecke Müllerstraße - Taxistand Schrannenhalle - Gegenläufiger Radverkehr Stollbergstraße
+- TOP 0.2.: Beschluss des Bauschuss vom 06.12.2011: Änderung der Straßenreingungssatzung
+- TOP 0.3.: Beschluss des Umweltausschusses vom 31.01.2012: Ergänzende Vorlage zum ?Lärmminderungsplan?
+- TOP 0.6.: Beschluss des Planungsausschusses vom 18.01.2012: Stadt und Fluss ? Innerstädtischer Isarraum, Workshopergebnisse und weiteres Vorgehen
+- TOP 0.7.: Schreiben des Vorsitzenden an das KVR bezüglich der Einrichtung von Behindertenparkplätzen in der Salvatorstraße
+- TOP 0.8.: Terminschiene Tal
+- TOP 0.9.: Beschluss der Vollversammlung vom 25.01.2012: 2. Stammstrecke ? Forderung des Freistaates Bayern, Bericht über Fachgespräche auf Arbeitsebene vom 13.01.2012
+- TOP 0.1.: Verwendungsnachweis Theater des Hölzernen Gelächters
+- TOP 0.2.: Zuwendung für MAXIDROM zurückgezogen
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 2.0: Bericht
+- TOP 2.1: Anträge
+- TOP 2.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .9.: Blumenstraße 4 ? 6: Emporen Schrannenhalle, Nutzungsänderung UG (Tektur)
+- TOP 1.3.2: Sonstige
+- TOP 0.5.: Abgabenachricht des KVR an das Baureferat bzgl. der Notausfahrt für das BRK aus der Seitzstraße
