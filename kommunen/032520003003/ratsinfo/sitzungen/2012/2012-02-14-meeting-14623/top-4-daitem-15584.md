@@ -1,0 +1,7 @@
+# TOP 4.: Sanierung des Chemieraumes der Max-Born-Realschule/Vorstellung der Maßnahme
+
+- Sitzung: Schul- und Jugendausschuss (2. Sitzung) (2012-02-14)
+- Körperschaft: Stadt Bad Pyrmont
+- Öffentlich: ja
+- OParl: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15584
+- Beratung: https://badpyrmont.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4537
