@@ -1,0 +1,61 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2012-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2505654
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2505654
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Neues Mitglied für den Unterausschuss Umwelt und Verkehr bestimmen
+- TOP 1.3.: Stellvertreter für den Unterausschussvorsitzenden Umwelt und Verkehr bestimmen
+- TOP 1.4.: Neues Mitglied für den Unterausschuss Budget bestimmen
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Anhörung: Nutzungsänderung Landsberger Str. 3
+- TOP 5.3.: Anhörung: Umbau und Nutzungsänderung Landsberger Str. 68 + 76
+- TOP 5.4.: Antwortschreiben: Plangutachten - MIP für das Baureferat 2011-2015
+- TOP 5.5.: Anhörung: Erlass von Erhaltungssatzungen in den Stadtbezirken 2 und 8
+- TOP 5.6.: Vollzug der Baumschutzverordnung; Grasserstr. 7
+- TOP 5.7.: Antwortschreiben Sozialreferat: Bauvorhaben im Kommunalen Wohnungsbauprogramm; Kazmairstr. 23-25
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Unterstützung für Treffam
+- TOP 6.2.: Antwortschreiben zu BA-Antrag Nr. 08-14 / B 03074; Hygienezustände an der Ridlerschule
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Rückwärtsparken in der Westendstraße
+- TOP 8.2.: ADAC - Beleuchtung des Verwaltungsgebäudes in der Hansastraße
+- TOP 8.3.: Erinnerungsverfahren: Fahrbahnsanierung - Ostseite der Donnersbergerbrücke
+- TOP 8.4.: Erinnerungsverfahren: Radwegsanierung in der Landsberger Straße
+- TOP 8.5.: Erinnerungsverfahren: Fahrbahnsanierung - Abfahrtsrampe Garmischer Straße
+- TOP 8.6.: Erinnerungsverfahren: Asphaltüberzug in der Bergmannstraße
+- TOP 8.7.: Antwortschreiben: Überschreitung des Tempolimits in der Tulbeckstraße
+- TOP 8.8.: Austausch von Lichtzeichenanlagen am Heimeranplatz und in der Barthstraße/Ridlerstraße
+- TOP 8.9.: Beschlussentwurf des Ausschusses für Arbeit und Wirtschaft: Anlieger für Schäden durch Besucher des Oktoberfestes entschädigen
+- TOP 8.10.: Entscheidung: Mobiler Fahrradständer in der Gollierstr. 33
+- TOP 8.11.: Entscheidung: Aufstellen von Verkaufseinrichtungen auf öffentlichem Grund an folgenden Orten - Ganghoferstr. 25, Westendstr. 141/Ecke Astallerstr., Gollierstr. 76, Ganghoferstr. 14, Ganghoferstr. 58, Franziska-Bilek-Weg 1-9
+- TOP 8.12.: Anhörung: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 13: (E) Zusätzliche Haltestelle der Buslinie 53 Kazmairstr./ Bergmannstr. Empfehlung Nr. 08-14 / E 01001 der Bürgerversammlung des Stadtbezirkes 8 - Schwanthalerhöhe am 30.06.2011
+- TOP 13.14.: Anhörung: Oldtimertreffen VW Typ 3 Am Bavariapark am 07.07.2012
+- TOP 13.15.: Wanderbaumallee Schwanthalerhöhe
+- TOP 13.16.: Anhörung: Baumfällungsantrag Alter Messeplatz 6a
+- TOP 13.17.: Bericht: Ortstermin Landsberger Str. 84-90
+- TOP 13.18.: Antwortschreiben RAW: Baumaßnahmen in der Ridlerstr. 90
+- TOP 13.19.: Antwortschreiben Baureferat: ÖPNV Offensive IV; Ein- und Ausstieg an Bushaltestellen verbessern
+- TOP 13.20.: Beschlussvorlage: 2. Stammstrecke; Forderungen des Freistaates Bayern
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse Init. Open Westend c/o S. Wiechmann Open Westend vom 23. - 25.03.2012
+- TOP 10: Anträge
+- TOP 11: Verschiedenes
+- TOP 11.1.: Neue Stadtteilbroschüre für die Schwanthalerhöhe
+- TOP 12: Protokoll und Umlauf
