@@ -1,0 +1,96 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2520853
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2520853
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Kreuzung Gotthard- / Stroblstraße
+- TOP 1.2.2.: Antrag auf Haltverbot vor dem Anwesen Joergstr. 6
+- TOP 2: Anträge
+- TOP 2.1.: Bündnis 90 / Die Grünen: Buslinie 131; Service an Sonn- und Feiertagen, Taktänderung
+- TOP 2.2.: Bündnis 90 / Die Grünen: Baustellen öffentlicher Verkehrsraum; Beeinträchtigung Fuß- und Radverkehr
+- TOP 2.3.: SPD: Runder Tisch zum Thema "Aufbau von Ganztageszügen in den Grundschulen des Stadtbezirkes 25 Laim"
+- TOP 2.4.: UA Soziales, Schule und Sport: Spielplatz Von-der-Pfordten-Straße; Ausstattung mit Kunstrasenplatz oder Soccer-Five-Platz sowie Skateboardrampen
+- TOP 2.5.: UA Soziales, Schule und Sport: Spielplatz Laimer Platz; bessere Pflege
+- TOP 2.6.: UA Soziales, Schule und Sport: Installation einer Ampel an der Kreuzung Gotthardstraße / Guido-Schneble-Straße / Riegerhofstraße
+- TOP 2.7.: UA Soziales, Schule und Sport: Verlegung der Müllabfuhrzeiten in der Camerloherstraße
+- TOP 2.8.: UA Soziales, Schule und Sport: Hellere Beleuchtung in der Laimer Unterführung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 7.041,83 ? für Umbau und Ausstattung der Kinderkrippe; Antragsteller: Drachenei e.V. - <div>nach Antrag</div>
+- TOP 3.2.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - Zeitungsentnahmekasten) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; Fachnerstr. 55
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Sozialreferat vom 24.10.11: Beteiligung am "Europäischen Jahr für Aktives Altern und der Solidarität zwischen den Generationen" (vertagt aus der BA-Sitzung vom 08.11.11)
+- TOP 4.2.: Schreiben Referat für Gesundheit und Umwelt vom 07.11.11: Erstellung eines Stadtteilplans in Begleitung mit dem Referat für Gesundheit und Umwelt; Protokoll der Infoveranstaltung vom 19.10.11 (vertagt aus der BA-Sitzung vom 06.12.11)
+- TOP 4.3.: Schreiben Spielen in der Stadt e.V. vom 17.11.11: Planung der Einsätze der Münchner Sommer SpielAktion 2012 (vertagt aus der BA-Sitzung vom 06.12.11)
+- TOP 4.4.: Schreiben Kreisverwaltungsreferat vom 05.01.12: Laimer Faschingstreiben auf dem Laimer Anger am 18.02.12
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 01.12.11: Ausweichstelle für den Linienbusverkehr in der Senftenauerstraße (vertagt aus der BA-Sitzung vom 10.01.12)
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 20.01.12: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 4.7.: Byecherstr. 10: Fällung von 2 Fichten und 2 Birken
+- TOP 4.8.: Joergstr. 79: Fällung von 2 Fichten
+- TOP 4.9.: Inderstorferstr. 57: Fällung von 1 Birke
+- TOP 4.10.: Lanzstr. 3: Fällung von 1 Flügelnuss und 1 Ahorn
+- TOP 4.11.: Lanzstr. 21: Fällung von 1 Flügelnuss
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Flotowstr. 48: Errichtung eines Anbaus mit vorgelagerter Terrasse / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.2.: Saherrstr. 6: Neubau "Wohnen im Viertel" mit Nachbarschaftstreff, hausärztlichem Betreuungszentrum und Tiefgarage / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.3.: Agnes-Bernauer-Str. 127: Neubau von zwei Mehrfamilienhäusern mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandsplan
+- TOP 5.4.: Aindorferstr. 72-74: Neubau eines Mehrfamilienhauses (12 WE) und eines Zweifamilienhauses mit Tiefgarage; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.5.: Fürstenrieder Str. 35: Anbau an ein Wohn- und Geschäftshaus und Neubau eines Doppelhauses (Variante 1); Neubau eines Wohn- und Geschäftsgebäudes und eines Doppelhauses (Variante 2) / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.6.: Landsberger Str. 160-162: Neubau eines Hotels mit Tiefgarage / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.7.: Landsberger Str. 191-191a: Neubau eines Büro- und Geschäftshauses mit Arztpraxen; hier: Bau- und Freiflächengestaltungs- und Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Arbeit und Wirtschaft vom 19.01.12: Werbenutzungsvertrag; Standorte für Säulenumwandlungen; Bereisungskommission am 28.02.12
+- TOP 6.2.: Schreiben Kinderbeauftragte der LH München vom 24.01.12: Einladung Workshop "15 Jahre Kinderbeauftragte in München - Zusammenarbeit gestalten" am 07.03.12
+- TOP 7: Protokolle
+- TOP 7.1.: Kinder- und Jugendbezirksausschusssitzung vom 02.12.11
+- TOP 7.2.: BA-Sitzung vom 10.01.12
+- TOP 7.3.: Ortstermin am Joergplatz vom 17.01.12
+- TOP 7.4.: Sitzung UA Soziales, Schule und Sport vom 23.01.12
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Referat für Bildung und Sport vom 28.11.11: Schule an der Schrobenhausener Straße; Austausch eines Mülleimers auf dem Sportgelände sowie Aufstellung eines zusätzlichen Mülleimers auf dem Schulgelände (Antrag Nr. 08-14 / B 03538 vom 06.12.11)
+- TOP 8.2.: Schreiben Referat für Bildung und Sport vom 21.12.11: Schule an der Schrobenhausener Straße; Umsetzung der Variante eines Neubaus mit Doppelturnhalle und Räume für die Ganztagesbetreuung (Antrag Nr. 08-14 / B 03278 vom 09.08.11)
+- TOP 8.4.: Schreiben Baureferat vom 23.12.11: Erhöhung der Randsteinkante des Fußgängerüberweges an der westlichen Seite der Kreuzung Fürstenrieder Straße / Landsberger Straße (Antrag Nr. 08-14 / B 03346 vom 08.11.11)
+- TOP 8.8.: Schreiben Planungsreferat vom 13.01.12: Aindorferstr. 77b; Neubau von 4 Einfamilienhäusern mit Garagen (Variante 1) bzw. von 6 Reihenhäusern mit Stellplätzen (Variante 2) / Vorbescheid
+- TOP 8.9.: Schreiben Planungsreferat vom 18.01.12: Camerloherstr. 5; Fällungsantrag vom 10.10.11
+- TOP 8.10.: Schreiben Direktorium vom 27.12.11: Bewilligung einer Zuwendung aus dem Budget des BA 25 Laim; Antragsteller: Kath. Kindergarten St. Willibald
+- TOP 8.11.: Schreiben Direktorium vom 27.12.11: Bewilligung einer Zuwendung aus dem Budget des BA 25 Laim; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.12.: Schreiben Direktorium vom 27.12.11: Bewilligung einer Zuwendung aus dem Budget des BA 25 Laim; Antragsteller: Kath. Kirchenstiftung St. Philippus München
+- TOP 8.13.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.14.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.15.: Schreiben Referat für Arbeit und Wirtschaft vom 29.12.11: Erneuerung der Sicherheitsstreifen an den Treppen zu den Bahnsteigen im S-Bahnhof Laim (Antrag Nr. 08-14 / B 03448 vom 08.11.11)
+- TOP 8.16.: Schreiben Referat für Arbeit und Wirtschaft vom 17.01.12: Versetzung der Telefonzelle an der Fürstenrieder Straße 30 sowie Ersatz von Telefonzellen am S-Bahnhof Laim durch Telefonsäulen (Antrag Nr. 08-14 / B 03447 vom 08.11.11)
+- TOP 8.17.: Schreiben Referat für Gesundheit und Umwelt vom 29.12.11: Keine Schließung der Zweigstelle Pasing des Referates für Gesundheit und Umwelt (Antrag Nr. 08-14 / B 03449 vom 08.11.11)
+- TOP 8.18.: Schreiben Kreisverwaltungsreferat vom 25.11.11: Haltverbot in der Guido-Schneble-Straße nördlich der Senftenauerstraße
+- TOP 8.19.: Schreiben Kreisverwaltungsreferat vom 25.11.11: Westendstraße; Beschilderung mit Gefahrenzeichen "Kinder" und Zusatzzeichen "Schule"
+- TOP 8.20.: Bautenliste vom 02.01.-08.01.12: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Flotowstr. 48
+- TOP 8.21.: Bautenliste vom 09.01.-15.01.12: 1. Erstantragsverfahren a) Aindorferstr. 72 b) Landsberger Str. 380 c) Agnes-Bernauer-Str. 127 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Saherrstr. 6
+- TOP 8.22.: Bautenliste vom 16.01.-22.01.12 1. Erstantragsverfahren a) Byecherstr. 30 b) Landsberger Str. 191 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Fürstenrieder Str. 35 b) Landsberger Str. 160
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 16.01.12: Baumaßnahmen der Stadtwerke; Stichtag: 16.01.12
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 23.01.12: Baumaßnahmen der Stadtwerke; Stichtag: 23.01.12
+- TOP 8.25.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art im Schuljahr 2011/2012 (Sitzungsvorlagen Nr. 08-14 / V 08196)
+- TOP 8.26.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städtischen Franz-Auweck-Abendschule; Schuljahr 2011/2012 (Sitzungsvorlagen Nr. 08-14 / V 08217)
+- TOP 8.27.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12: Schüler/innen und Klassenstand, Berufliche Schulen der Landeshauptstadt München im Schuljahr 2011/2012; Stand: 20.10.11 (Sitzungsvorlagen Nr. 08-14 / V 08195)
+- TOP 8.28.: Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.12: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städtischen Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012 (Sitzungsvorlagen Nr. 08-14 / V 08324)
+- TOP 8.29.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.12: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG - Wohnungen (Sitzungsvorlagen Nr. 08-14 / V 08373)
+- TOP 8.30.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.12: Preis für Stadtbildpflege - Wettbewerb "Denkmalschutz und neues Bauen"; Erweiterung der Wettbewerbskriterien, zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus, Ergänzung der Wettbewerbsbezeichnung (Sitzungsvorlagen Nr. 08-14 / V 08371)
+- TOP 8.31.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.12: Perspektive München; Langfristige Siedlungsentwicklung, a) Sachstandsbericht, b) Zukunftskongress (Sitzungsvorlagen Nr. 08-14 / V 08420)
+- TOP 8.32.: Beschluss der Vollversammlung vom 25.01.12: Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016 (Sitzungsvorlagen Nr. 08-14 / V 08187)
+- TOP 8.33.: Beschluss der Vollversammlung vom 25.01.12: Zukunft des geförderten Wohnungsbaus in München (Sitzungsvorlagen Nr. 08-14 / V 08223)
+- TOP 8.34.: Ergänzung zum Beschluss des Umweltausschusses vom 31.01.12: Lärmminderungsplanung für München, Entwurf der Lärmaktionsplans (Sitzungsvorlagen Nr. 08-14 / V 08119)
+- TOP 8.35.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.12: Genossenschaftsidee fördern II "Hamburger Modell" zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen (Sitzungsvorlagen Nr. 08-14 / V 08045)
+- TOP 8.36.: Schreiben Lilalu e.V. vom 21.11.11: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.37.: Schreiben BA 7 Sendling-Westpark vom 12.01.12: Nachnutzung des Areals der Bayerischen Landesschule für Gehörlose an der Fürstenrieder Str. 155
+- TOP 8.38.: Schreiben REGSAM vom 18.01.12: Verwendungsnachweis über Budgetzuschuss
+- TOP 8.39.: Schreiben Planungsreferat vom 02.01.12: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 16.12.-31.12.11
+- TOP 8.40.: Schreiben Sozialreferat vom 18.01.12: Zweckentfremdung von Wohnraum; Schäufeleinstraße (Schreiben BA vom 13.01.12)
+- TOP 8.41.: Schriftverkehr aus der BA-Sitzung vom 10.01.12
+- TOP 1.2: Bürgerpost an den BA
