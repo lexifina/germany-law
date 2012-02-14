@@ -1,0 +1,109 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-02-14T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536569
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536569
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.1.: Parklizenz im östlichen Bereich der Deisenhofener Straße - <div>Verweisung an Fachausschuss</div>
+- TOP 2.2.: Schilderpfähle vor der Schule an der St.-Martin-Straße
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Eltern-Kind-Init. Mäcki Löffel e.V. Feier zum 20jährigen Bestehen am 16.07.2011
+- TOP 4.2.: Eltern-Kind-Initiative Mäcki Löffel e.V., für die Maßnahme: Feier zum 20jährigen Bestehen am 16.07.2011; Antragssumme: 1036,97 ?; Beschlussvorlage des Direktoriums vom 13.01.2012
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Oberaudorfer Str. 1-15 / Scharfreiterstr. 1e-11 / Schwanseestr. 54-58; Aufstockung von Wohngebäuden u. Neubau von Nebengebäuden u. einer TG (83 Stpl.) - VORBESCHEID; Anhörung vom 13.12.11 (vertagt vom 10.01.2012)
+- TOP 0.2.: Fasangartenstr. 127a; Neubau einer rumänisch-orthodoxen Kirche für 150 - 180 Personen - VORBESCHEID; Anhörung vom 02.01.12 (vertagt vom 10.01.2012)
+- TOP 0.3.: Schwanseestraße; Errichtung eines Wohn-, Geschäfts- und Bürogebäudes - VORBESCHEID; Anhörung vom 02.01.12 (vertagt vom 10.01.2012)
+- TOP 0.4.: Deisenhofener Straße 4, Abbruch des Bestandsgebäudes und Neubau eines Rückgebäudes; Anhörung vom 31.01.2012
+- TOP 0.5.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße ? Chiemgaustr.; Aufwertung und Umgestaltung der Grünanlagen "An der Weißenseestraße" und "Am Katzenbuckel" - Zweiter Bauabschnitt; Anhörung durch das Baureferat zum Beschlussentwurf für den Bauausschuss am 13.03.2012 (Unterlagen werden nachgereicht)
+- TOP 0.1.: Vollzug der Erhaltungssatzung "Tegernseer Landstraße" - Unterrichtung über nicht baugenehmigungspflichtige Modernisierungsmaßnahmen
+- TOP 0.2.: St.-Bonifatius-Str. 4, Mitteilung vom 20.01.2012
+- TOP 0.3.: Tegernseer Platz 3, Mitteilung vom 03.01.2012
+- TOP 0.4.: "Soziale Stadt" 2011 - Stand der Umsetzung des Bund-Länder-Städtebauförderungsprogramms "Stadt- und Ortsteile mit besonderem Entwicklungsbedarf - die soziale Stadt"; Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2012
+- TOP 0.5.: a) Bebauungsplan mit Grünordnung Nr. 2000 - Lincolnstr. (südlich), General-Kalb-Weg (westlich), Marklandstraße (beiderseits), Fasangartenstraße und Kiefernstraße (nördlich), Tegernseer Landstraße (östlich) - "Wohnsiedlung Am Perlacher Forst" b) "Verdichtung der Siedlung am Perlacher Forst; Aufstellung eines Bebauungsplanes", - Satzungsbeschluss -; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2012
+- TOP 0.6.: McGraw-Kaserne / ehem. Reichszeugmeisterei bzw. "University of Maryland": Fassadenrenovierung und stadtteilbezogene Nutzung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012
+- TOP 0.7.: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW-AG-Wohnungen; a) Aufforderung an die LHM, die zum Verkauf stehenden Wohnungen der GBW zu erwerben, insbesondere im 18. Stadtbezirk - Antrag des BA 18 b) Günstigen Wohnraum erhalten - Einfluss nehmen auf den Verkauf der GBW Wohnungen - Antrag der Stadtratsfraktion DIE GRÜNEN / Rosa Liste c) GBW-Wohnungen in öffentlicher Hand behalten - städtische Wohnungsbaugesellschaften engagieren sich ! - Antrag der Stadtratsfraktion der CSU d) Schutz der Mieter beim Verkauf der GBW- Wohnungen in Haidhausen - Antrag des BA 05 - Au-Haidhausen e) Verkauf des GBW-Wohnungsbestandes an den Freistaat Bayern - Antrag des BA 17 vom 08.11.2011 f) Erwerb der GBW-Wohnungen (insbesondere im 18. Stadtbezirk) durch die Landeshauptstadt München unter der Priorität der Sozialverträglichkeit und Berücksichtigung des Mieterschutzes - Empfehlung Nr. 08-14 / E 01162 der BV 18; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012
+- TOP 0.8.: Genossenschaftsidee fördern II - "Hamburger Modell" zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.2012
+- TOP 0.9.: PERSPEKTIVE MÜNCHEN - Langfristige Siedlungsentwicklung; a) Sachstandsbericht; b) Zukunftkongress; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2012
+- TOP 0.10.: Preis für Stadtbildpflege; Wettbewerb "Denkmalschutz und Neues Bauen", - Erweiterung der Wettbewerbskriterien - zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus - Ergänzung der Wettbewerbsbezeichnung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012
+- TOP 0.11.: SSW "Attentat Griechischer Salat", Zugspitzstr. 10 - Unveränderte Fortführung
+- TOP 0.12.: SSW "Pizzeria Cafe Curto", Schlierseestr. 30 - Unveränderte Fortführung
+- TOP 0.1.: Hort für die Schule an der Lincolnstraße
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Neubau einer 4-gruppigen Kinderkrippe in der Deisenhofener-/Herzogstandstraße - Produkt 1.1 - Finanzierung und Mittelbereitstellung für den Bau der Kinderkrippe; Beschluss des Ausschusses für Bildung und Sport vom 01.02.2012
+- TOP 0.2.: Schüler- und Klassenzahlen der öffentlichen Grund-, Mittel- und Förderschulen, der städt. Tagesheime und Heilpädagogischen Tagesstätten für das Schuljahr 2011/2012; Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012
+- TOP 0.3.: Schüler- und Klassenzahlen an den städtischen Realschulen, den staatlichen Realschulen und der städt. Franz-Auweck-Abendschule; Schuljahr 2011/2012; Bekannt- gabe im Ausschuss für Bildung und Sport vom 11.01.2012
+- TOP 0.4.: Schüler- und Klassenzahlen an den städtischen und staatlichen Gymnasien sowie an den Schulen des Zweiten Bildungsweges und den Schulen besonderer Art 2011/2012; Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012
+- TOP 0.5.: Schüler/innen und Klassenstand Berufliche Schulen der Landeshauptstadt München im Schuljahr 2011/2012, Stand 20.10.2011; Bekanntgabe im Ausschuss für Bildung und Sport vom 11.01.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Verkehrsberuhigung Fasangartenstraße - Querungshilfe zwischen Auerspitzstraße und Münchberger Straße; Schreiben des Baureferats vom 26.01.2012 mit der Bitte um Stellungnahme
+- TOP 0.2.: Lichtzeichen-Bauprogramm 2012; Schreiben des Kreisverwaltungsreferats vom 20.01.2012 mit der Bitte um Stellungnahme
+- TOP 0.3.: Auerspitzstraße 41 ? Wendehammer; Erinnerungsverfahren des Baureferats-Tiefbau
+- TOP 0.4.: Wendelsteinstraße 2-6 und St.-Martin-Str. 2-18 ? Fahrbahnbelagserneuerung; Erinnerungsverfahren des Baureferats-Tiefbau
+- TOP 0.1.: Wallbergstraße 7 - Feuerwehrzufahrt - Verkehrsrechtliche Anordnung des Kreisverwaltungsreferats vom 08.12.2011
+- TOP 0.2.: 2. Stammstrecke - Forderungen des Freistaates Bayern - Bericht über Fachgespräch auf Arbeitsebene vom 13.01.2012; Beschluss der Vollversammlung des Stadtrats vom 25.02.2012
+- TOP 0.3.: S-Bahn-Unterführung Fasangarten; Antwortschreiben des Referats für Arbeit und Wirtschaft bzw. der DB Station&Service AG
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Buslinie 145 - Verlegung der Wendeschleife Kiesmüller-/Waldsassener Str.; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 09.01.2012
+- TOP 0.2.: Linienweg der Buslinie 145; Prüfung der derzeitigen Wendefahrt über Kiesmüller- und Waldsassener Straße durch die Regierung von Oberbayern am Maßstab des § 13 Personenbeförderungsgesetz (PBefG) - Kopien des Schriftverkehrs der antragstellenden Bürger/innen mit dem Referat für Arbeit und Wirtschaft sowie dem Bayerischen Staatsministerium für Wirtschaft, Infrastruktur, Verkehr und Technologie
+- TOP 0.1.: Lärmminderungsplanung für München - Entwurf des Lärmaktionsplans - Ergänzung zum Beschluss des Umweltausschusses vom 31.01.2012 (TOP 5.4.4.5. v. 13.12.2011)
+- TOP 0.2.: Wiederherstellung der Wertstoffsammelstelle Spixstraße / Wirtstraße; Antwortschreiben des Abfallwirtschaftsbetriebs München vom 11.01.2012
+- TOP 0.3.: Belastung des 17. Stadtbezirks durch Fluglärm; Zwischennachricht des Referats für Gesundheit und Umwelt vom 30.01.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Walchenseeplatz, Flohmärkte und Sommer-Café des Mütterladen Giesing; Anhörung durch das Kreisverwaltungsreferat vom 25.01.2012
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Deisenhofener Straße 54, 1 Eberesche, Antrag vom 13.01.2012 // 6.7.1.2 Pennstraße 40 ? 60, 1 Buche, Antrag vom 19.01.2012 // 6.7.1.3 Winlandstr. 24, 1 Bergahorn, Antrag vom 19.01.2012 // 6.7.1.4 Werinherstr. 40 ? 44, 1 Fichte, Antrag vom 22.12.2011 // 6.7.1.5 Holtzendorffstr. 26, 1 Tanne, Antrag vom 12.01.2012 // 6.7.1.6 Frasdorfer Str. 2, 1 Thuje, Antrag vom 25.01.2012 // 6.7.1.7 Schloß-Berg-Str. 10, 1 Rotfichte; Antrag vom 03.02.2012 // 6.7.1.8 St.-Quirin-Str. 19, 1 Pappel, 2 Eschen; Antrag vom 03.02.2012 // 6.7.1.9 Winlandstraße 26, 1 Feldahorn; Antrag vom 03.02.2012 //
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
