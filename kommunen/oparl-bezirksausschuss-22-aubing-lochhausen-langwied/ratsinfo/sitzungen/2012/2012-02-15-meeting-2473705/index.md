@@ -1,0 +1,96 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-02-15T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2473705
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2473705
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 1.1.5: Wertstoffhof Mühlangerstr., Vorstellung durch AWM-Mitarbeiter
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Paulaner Brauerei - Ansiedlung in Langwied
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Genehmigung der Baumfällung, Hagenbacher Str. 22, Schr. Planungsreferat vom 13.01.12
+- TOP 3.2.: Baumfällungen auf Anforderung: - Rothenbühler Str. - Hagenbacher Str. 22 - Grafrather Str. 27
+- TOP 3.3.: Baumfällungen zu Bauvorhaben: - Zwernitzer Str. 37, gem. Baumbestandsplan Nr. 2011-4478 - Überlinger Weg 14, gem. Baumbestandsplan Nr. 2011-31910 - Giggenbacherstr. 3, gem. Baumbestandsplan Nr. 2011-31942 (N) - Mooswiesenstr., Gemarkung Langwied, Fl.Nr. 159/0, gem. Baumbestandsplan Nr. 2012-906 (N) - Asmarchstr. 8, gem. Baumbestandsplan Nr. 2012-1946 (N) - Hohenesterstr. 7, gem. Baumbestandsplan Nr. 2011-32213 (N) - Allinger Str. 21, gem. Baumbestandsplan Nr. 2011-32107
+- TOP 3.4.: Unterrichtung über das Fällen von Gefahrenbäumen, hier: Langwieder See hinter Wasserwacht, Schr. Baureferat vom 17.01.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 4: Anträge
+- TOP 5: Entscheidungen
+- TOP 5.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des OB, hier Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, Bergsonstr. 106 / S-Bahnhof "Langwied",
+- TOP 5.2.: Anschluss von Langwied an das öffentliche Busnetz
+- TOP 3: ?Hundefreie Zone? in der Grünanlage am Langwieder Bach zwischen Krautgartenweg und Bahnlinie München-Augsburg Empfehlung Nr. 08-14 / E 00994 der Bürgerversammlung des Stadtbezirkes 22 Aubing-Lochhausen-Langwied am 28.06.2011
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf städtischer Grünanlage, hier: Kulturwochenende an der Wiesentfelser Str. südlich Haus-Nr. 57, 15.-17.06.12, Anhörung KVR vom 23.01.12
+- TOP 6.1.: Historische Schäfflertänze 2012, Änderungen in der Veranstaltungsliste, Schr. KVR vom 19.01.12
+- TOP 6.2.: Bestätigung für "Kinderfasching" am 19.02.12, Schr. KVR vom 16.01.12
+- TOP 6.3.: Schwimmbad der Grundschule an der Limesstraße, hier: Renovierung / Reparatur, Schr. Ref. f. Bildung u. Sport vom 04.01.12
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Widerrufsbescheid für Zuschuss aus dem Budget des BA 22, Antragstelle: Initiative "Verschönerung S-Bahnhof Aubing", Schr. Direktorium vom 16.01.12
+- TOP 6.2.: Budgetmittel für "Kinderball 2012", Schr. Direktorium vom 31.01.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.1.: Planfeststellungsverfahren nach § 18 AEG, Bahnübergangsbeseitigung Freihamer Allee mit Erstellung eines Ersatzweges (Verlängerung Centa-Hafenbrädl-Straße) und Erstellung einer Fuß- und Radwegunterführung, Anhörung Planungsreferat vom 24.01.12 - Eilentscheidung durch BA-Vorsitzenden -
+- TOP 6.1.: Gewerbegebiet Freiham, Vergabe von Gewerbegrundstücken, Schr. Ref. f. Arbeit u. Wirtschaft vom 11.01.12
+- TOP 6.2.: Wertstoffcontainer für Freiham, Schr. AWM vom 31.01.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Planfeststellungsverfahren nach § 18 AEG; Bahnübergangsbeseitigung Freihamer Allee mit Erstellung eines Ersatzweges (Verlängerung Centa-Hafenbrädl-Straße) und Erstellung einer Fuß- und Radwegunterführung, Anhörung Planungsreferat vom 24.01.12 - Eilentscheidung durch BA-Vorsitzenden -
+- TOP 6.2.: Erstmalige Herstellung der Industrie-, Huisler-, Hohenrechberg- und Mariabrunner Straße, Anhörung Baureferat vom 20.01.12
+- TOP 6.3.: Lichtzeichenanlagen-Bauprogramm 2012, Anhörung KVR vom 20.01.12
+- TOP 6.4.: Bodenseestr. 129, Nutzungsänderung: Wohngebäude zu Arbeiterwohnheim sowie Aufstockung, Anhörung Planungsreferat vom 23.01.12
+- TOP 6.5.: Ubostr. 27, Aufstockung einer landwirtschaftlichen Maschinenhalle, Einbau einer Wohnung im 1. OG, Vorbescheid, Anhörung Planungsreferat vom 23.01.12
+- TOP 6.6.: Altostr. 35-37, Einbau von Dachgauben (Altostr. 35) sowie DG-Ausbau (Altostr. 37), Anhörung Planungsreferat vom 23.01.12
+- TOP 6.7.: Altostr. 18, Neubau eines Fünfspänners und 3er Doppelhäuser mit Duplexgaragen und Stellplätzen, Anhörung Planungsreferat vom 23.01.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 02.01.-08.01.12, v. 09.01.-15.01.12, v.16.01.-22.01.12, v. 23.01.-29.01.12), Schr. Planungsreferat vom 09.01.12, 16.01.12, 24.01.12, 30.01.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke, Stichtag: 16.01.12, 23.01.12, 30.01.12
+- TOP 6.3.: Straßenbeleuchtung Lochhausen- Schussenriederstraße und S-Bahn-Unterführung Lochhausen, Schr. Baureferat vom 10.01.12
+- TOP 6.4.: Parkprobleme für Besucher des Friedhofs an der Schussenrieder Straße, Schr. KVR vom 10.01.12
+- TOP 6.5.: Verlängerung der Parkdauer bei den Kurzzeitparkplätzen in der Ranertstraße, Schr. KVR vom 04.01.12
+- TOP 6.6.: Mitteilung über ein Grundstücksgeschäft, Verkauf Wohnungen des besonderen Grundvermögens, Schr. Kommunalreferat vom 03.01.12
+- TOP 6.7.: Verkehrsrechtliche Anordnung, hier: Haltverbote in der Riesenburgstraße, Schr. KVR vom 30.12.11
+- TOP 6.8.: Verkehrsrechtliche Anordnung, hier: Aufhebung des absoluten Haltverbots im Bereich der Anwesen Eschenrieder Str. 88 bis 90, Schr. KVR vom 13.07.11
+- TOP 6.9.: Ampelphasen an der Kreuzung Bodensee- / Limesstraße, Schr. KVR vom 30.01.12
+- TOP 6.10.: "Auf Herz und Rampen prüfen" - Herstellung der Barrierefreiheit: S-Bahn-Station Aubing - Bau eines Aufzugs und Nachrüstung von Leitstreifen (Ziffer 1 des Antrags) und Ersetzung der Telefonzelle an der Ecke Ubostraße/Giglweg (Ziffer 3a), Schr. Referat für Arbeit und Wirtschaft vom 30.01.12
+- TOP 6.11.: Änderung des Flächennutzungsplanes der Flächen an der Nordseite der Bodenseestraße, Schr. Planungsreferat vom 27.01.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Zweckentfremdung von Wohnraum, Lochhausener Str., Anhörung Sozialreferat vom 26.01.12
+- TOP 7.2.: Gemeinde Karlsfeld, Bebauungsplan Nr. 85 "Am Burgfrieden", Flächennutzungsplan - Änderung, Anhörung Planungsreferat vom 31.01.12
+- TOP 7.3.: Bodenseestr. 105, Neubau von Lagerhallen (Bodenseestr. 105, 107, 113), Anhörung Planungsreferat vom 03.02.12
+- TOP 7.4.: Mooswiesenstr., Gemarkung Langwied, Fl.Nr. 159/0), Neubau eines Wertstoffhofes (Mooswiesenstr./ Mühlangerstr.), Anhörung Planungsreferat vom 03.02.12
+- TOP 7.5.: Am Bahnsportplatz, Gemarkung Aubing, Fl.Nr. 3539/21, Neubau eines Dreispänners mit Garagen, Anhörung Planungsreferat vom 03.02.12
+- TOP 7.6.: Erinnerungsverfahren, Sanierung Schussenriederstraße, Anhörung Baureferat vom 06.02.12
+- TOP 7.7.: Änderung der Satzung der BA`s: Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen, Anhörung Direktorium vom 27.01.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Unveränderte Fortführung "Lady Land" (zuvor Red Lounge), Ausschank v. alkoholischen und alkoholfreien Getränken in einem Bordell, Lochhausener Str. 106 a, Schr. KVR vom 05.01.12
+- TOP 8.2.: Unveränderte Fortführung "Luca's", Schank- und Speisewirtschaft, Limesstr. 105, Schr. KVR vom 24.01.12
+- TOP 8.3.: Wirtschafts-Info 01/2012, Schr. Referat für Arbeit und Wirtschaft am 31.01.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung vom 25.01.12: - Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016 - Zukunft des geförderten Wohnungsbaus in München - 2. Stammstrecke, Forderungen des Freistaates Bayern, Bericht über das Fachgespräch auf Arbeitsebene vom 13.01.12 - Friedhof Aubing
+- TOP 10.2.: Ergänzung zum Beschluss des Umweltschutzausschusses vom 31.01.12: Lärmminderungsplan für München, Entwurf eines Lärmaktionsplans
+- TOP 10.3.: Beschluss des Gesundheitsausschusses: Friedhof Aubing; 1. Errichtung einer Urnenmauer oder Urnenhalle 2. Sanierung des nördlichen Parkplatzes und Empfehlung Nr. 08-14 / E 999 der Bürgerversammlung vom 28.06.11
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.12: Perspektive München, Langfristige Siedlungsentwicklung
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.12: Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG - Wohnungen
+- TOP 10.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.12: Genossenschaftsidee fördern II "Hamburger Modell" zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Absage der "Regionalgespräche" Bezirksausschüsse - LBK, Schr. Planungsreferat vom 27.01.12
+- TOP 11.2.: Informationsveranstaltung der SWM am 20.03.12 um 18.00 Uhr in der SWM-Zentrale, Emmy-Noether-Str. 2, Raum D 0.00, Schr. SWM vom 08.02.12
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste Sitzung des Bezirksausschusses 22 am 14.03.12 um 19.30 Uhr im Bürgersaal Westkreuz, Friedrichshafener Str. 17
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.8.: Siedlungsschwerpunkt Freiham, Freiham Nord, Anhörung Planungsreferat vom 25.01.12
