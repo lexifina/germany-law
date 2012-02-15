@@ -1,0 +1,95 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-02-15T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506401
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506401
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .1.: Initiativenvernetzung ?Bündnis Bezahlbares Wohnen?
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Zuschuss für das Adelgundenheim, Schreiben vom 18.01.2012
+- TOP .2.: Verkehrsspiegel am Gebsattelberg gegenüber Herrgottseck/Schmausefalle
+- TOP .3.: Fußgängersituation nördlicher Kolumbusplatz
+- TOP .4.: Öffentliche Fläche An der Kreppe
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Projektteam "Sprachspiel" an der Grund- und Mittelschule an der Weilerstraße Theaterprojekt von März bis Mai 2012 - <div>nach Antrag</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Förderverein SFZ An der Isar Tanzprojekt vom 23.01. - 04.03.2012
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Ohlmüllerstr. 11, ?Cäsar's Vitamin Reich?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>vertagt</div>
+- TOP .2.: Wörthstr. 11, ?Lollo Rosso?: Erweiterung einer bestehenden Freischankfläche - <div>abweichend vom Entscheidungsvorschlag</div>
+- TOP .3.: Sondernutzungserlaubnis zum Aufstellen von Zeitungsentnahmegeräten der Verlage Axel Springer AG bzw. Jost GmbH & Co. KG, Entscheidung des BA5 vom 16.11.2011 hier: Schreiben der BI vom 10.01.2012 - <div>nach Antrag</div>
+- TOP .4.: Wörthstr. 10, ?Der Flohmarktladen?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund, NEU: Schreiben der BI Ost vom 16.01.2012, Schreiben des KVR-HA III vom 12.12.2011, Schreiben des Baureferats - H15 vom 19.01.2012 - <div>vertagt</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Flohmarkt des AKA e.V. am 12.05.2012 auf der Postwiese
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Furt am Preysingplatz
+- TOP .2.: Radweg in der Rosenheimer Straße - Südseite
+- TOP .3.: Radwege und Fußwege in der Rosenheimer Straße
+- TOP .4.: Radwegfurt am Haidenauplatz
+- TOP .5.: Linde am BBZ Simon-Knoll-Platz ausschneiden
+- TOP .6.: Schulwegsicherheit ROST
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Ampelschaltung Kreuzung Innere Wiener Straße / Kellerstraße auf Höhe der Loretokapelle, Schreiben des KVR vom 05.01.2012
+- TOP .2.: Tiefgaragenausfahrt in der Lothringer Straße, Schreiben des KVR vom 09.02.2012
+- TOP .3.: Ampel unterhalb des Maximilianeums, Schreiben des KVR vom 07.02.2012
+- TOP .4.: Lärm durch Busse in der Orleansstraße zwischen Balan- und Rosenheimer Straße; Schreiben des KVR vom 01.02.2012
+- TOP .5.: Freischankfläche ?La Grappa? am Regerplatz 2, Schreiben der BI vom 02.02.2012
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Unterhaltsmaßnahme ? Kleine Isar, Schreiben des Baureferats vom 25.01.2012
+- TOP .2.: 2. Stammstrecke; Forderungen des Freistaates Bayern, Bericht über Fachgespräch auf Arbeitsebene vom 13.01.2012
+- TOP .3.: Erinnerungsverfahren Schweigerstr. 2-10, Fahrbahnbelagserneuerung zw. Corneliusbrücke und Zeppelinstr.; Schreiben des Baureferats vom 23.01.2012
+- TOP .4.: Postwiese ? Information Termin Nutzer; Schreiben des Baureferats vom 03.02.2012
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Kellerstr. 19, 1 Esche
+- TOP .1.: Streicherprojekt, Gespräch mit Schulleitungen
+- TOP .2.: Verbesserung der Akustik in der Philharmonie am Gasteig, Vorstellung eines Konzeptes
+- TOP .2.: Förderung der weggefallenen Stellen von siaf e.V. mit kommunalen Mitteln
+- TOP .1.: BA- Anfrage zu Förderungsmöglichkeiten für Freie Träger; Schreiben des Sozialreferats vom 21.12.2011
+- TOP .3.: Rückblick auf die Projekte der Projektwerkstatt im Jahr 2011
+- TOP .1.: Balanstr. 14: Nutzungsänderung: Frisör in Praxis für Ostheopathie, Büro in Buchladen mit Café
+- TOP .2.: Marktveranstaltungen auf dem Orleansplatz 2012, Platzvergabe nach Grünanlagensatzung
+- TOP .1.: Zuwendung aus dem BA-Budget, Artionale in St. Johannes, Schreiben des Direktoriums vom 30.12.2011
+- TOP .1.: Kirchenstr. 11-13a: Neubau einer Einfachsporthalle und eines Tagesheims mit Ganztagsbetreuung, Mensa und SVE-Gruppe
+- TOP .2.: Gravelottestr. 1: Nutzungsänderung von Wohnung in Büro (1. OG/ Einh. 1.04) und von Büro in Wohnung (1. OG / Einh. 1.01)
+- TOP .3.: Rosenheimer Str. 30-32: Umbau und Nutzungsänderung von Wohn- und Gewerbeflächen zu Arztpraxis
+- TOP .4.: Sedanstr. 5: Anbau von Balkonen auf der Hofseite
+- TOP .1.: Preis für Stadtbildpflege ? Wettbewerb ?Denkmalschutz und Neues Bauen?; Erweiterung der Wettbewerbskriterien, Zeitliche Streckung; Wechsel von dreijährigen auf vierjährigen Turnus, Ergänzung der Wettbewerbsbezeichnung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.01.2012
+- TOP .5.: Beeinträchtigung der Bewohner durch neue Baumaßnahme (Rückgebäude Auerfeldstr. 14; Bürgerbeschwerde
+- TOP .2.: PERSPEKTIVE MÜNCHEN, Langfristige Siedlungsentwicklung, a) Sachstandsbericht b) Zukunftskongress; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 18.01.2012
+- TOP .3.: Walserstr. 8, Rückgebäude, Energetische Sanierung vom Keller- bis zum 1. Obergeschoss mit Fassadenerneurerung, Einbau eines Bades sowie von Schlafräumen (?); hier: Schreiben des Planungsreferats vom 05.01.2012
+- TOP .4.: Abbruch bestehendes Gebäude auf ehem. Teilfläche der Stadtwerke München Einsteinstr. 28 sowie Abbruch bestehendes Hortgebäude Kirchenstr. 13a; Beschluss der Vollversammlung des Stadtrates am 14.12.2011
+- TOP .5.: Innere Wiener Str. 26: Fassadensanierung, Abbruch von Balkonen und Anbau neuer Balkone an ein denkmalgeschütztes Mehrfamilienhaus; hier: Baugenehmigungsbescheid vom 17.01.2012
+- TOP .6.: Zukunft des geförderten Wohnungsbaus in München, Beschluss der Vollversammlung des Stadtrates vom 25.01.2012
+- TOP .7.: Genossenschaftsidee fördern II, ?Hamburger Modell? zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen; Beschluss des Ausschusses für Stadtplanung und Bauordnung am 01.02.2012
+- TOP .1.: Referat für Stadtplanung und Bauordnung zur Thematik Wörthstraße
+- TOP .2.: Anfrage des BA2 zum barrierefreien Zugang zur Isar auf Höhe der Reichenbachbrücke
+- TOP .3.: Lichtzeichenanlagen-Bauprogramm 2012, Kombinierte Vormerk- und Neuantragsliste für das Bauprogramm 2012
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 07.03.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Montag, 05.03.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 13.03.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 15.03.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 12.03.2012,19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 21.03.2012, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
