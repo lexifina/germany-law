@@ -1,0 +1,96 @@
+# 4. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2012-02-15T17:30:00+01:00
+- Ende: 2012-02-15T21:35:00+01:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3422
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3422
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=47197
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.9: Bürgerdeputierte - Wahl - gewählt
+- TOP 1.10: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.11: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.12: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.13: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.14: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.15: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.16: Wahl von Mitgliedern des Kuratoriums der Seniorenstiftung Prenzlauer Berg - gewählt
+- TOP 1.17: Wahl von 2 Bezirksverordneten als Mitglieder des Heimkuratoriums der Senioreneinrichtungen der Paritätischen Gesellschaft für Gesundheit- und Sozialdienste - gewählt
+- TOP 1.18: Wahl eines Bezirksverordneten in den Vorstand des Vereins der Städtepartnerschaft mit Kolobrzeg - gewählt
+- TOP 1.19: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 1.20: Wahl von 5 Bezirksverordneten als Mitglieder des Beirates der Vivantes-Netzwerk für Gesundheit GmbH - vertagt
+- TOP 1.21: Wahl eines Mitgliedes in den Beirat der Albert-Schweitzer-Stiftung - Wohnen & Betreuen - gewählt
+- TOP 1.22: Wahl der Mitglieder des Beirates in Sozialhilfeangelenheiten - gewählt
+- TOP 1.23: Wahl der Bürgerdeputierten für den Integrationsausschuss der Bezirksverordnetenversammlung für die VII. Wahlperiode - zurückgezogen
+- TOP 1.24: Entwurf des Doppelhaushaltsplan 2012/2013 für den Bezirk Pankow (einschließlich Vorbericht und Stellenplan) - überwiesen
+- TOP 1.25: Ältestenrat - ohne Änderungen im Ausschuss beschlossen
+- TOP 1.26: Verordnung über die Veränderungssperre XVIII-1/9 für das Grundstück Grundackerweg 6/8 im Bezirk Pankow, Ortsteil Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Berufung der beratenden Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VII. Wahlperiode - ohne Änderungen in der BVV beschlossen
+- TOP 1.28: Schnelles Breitbandinternet auch in Blankenfelde - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Verkehrssicherheit in der Hauptstraße im OT Rosenthal erhöhen - ohne Änderungen in der BVV beschlossen
+- TOP 1.30: Terminplan für die Haushaltsberatungen zum Doppelhaushaltsplanentwurf 2012/2013 - ohne Änderungen in der BVV beschlossen
+- TOP 1.31: Freigabe notwendiger Haushaltsmittel - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Wartelisten in Kindertagesstätten - Mythos oder Realität? - überwiesen
+- TOP 1.33: Veröffentlichung der Sitzungen - vertagt
+- TOP 1.34: Notbetrieb im Theater unterm Dach - erledigt
+- TOP 1.35: Verträge zwischen dem Fachbereich Kunst und Kultur und den KünstlerInnen im Thälmannpark - erledigt
+- TOP 1.36: Erhalt aller Parzellen der KGA Famos - vertagt
+- TOP 1.37: Weiteres Verfahren zur sog. "B2-Anbindung" in Karow anhalten - überwiesen
+- TOP 1.38: Kulturfinanzen - erledigt
+- TOP 1.39: Trägervertretung transparent gestalten - überwiesen
+- TOP 1.40: Mieterschutz beim Sanierungsvorhaben der GEWOBAG tatsächlich sichern - überwiesen
+- TOP 1.41: Windeignungsgebiete ausweisen - überwiesen
+- TOP 1.42: Millionenverluste für Pankow durch ungleiche Behandlung in der Abwicklung der Sanierungsgebiete - erledigt
+- TOP 1.43: Behinderung durch Weihnachtsbäume - ohne Änderungen in der BVV beschlossen
+- TOP 1.44: Bildung des Integrationsbeirates der VII. Wahlperiode - vertagt
+- TOP 1.45: Keine Honoraranpassung zu Lasten der Berliner Bezirke - vertagt
+- TOP 1.46: Schönhauser Allee umgestalten: Mehr Platz und Sicherheit für den Rad- und Fußverkehr! - überwiesen
+- TOP 1.47: Informationsfluss standardisieren und verbessern - überwiesen
+- TOP 1.48: Patenschaftsmodell Öffentliche Skulpturen in Pankow - ohne Änderungen in der BVV beschlossen
+- TOP 1.49: Digitaler Sitzungsservice für die Bezirksverordnetenversammlungen - vertagt
+- TOP 1.50: Lage des Fußgängerüberweges an der Einmündung Hubertusdamm in die Bahnhofstraße in Berlin - Karow - überwiesen
+- TOP 1.51: Pankower Tiertafel einrichten - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Demokratische Traditionen sichtbar machen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Endlich Sicherheit und Platz für die Schüler/innen der Rosa-Luxemburg-Oberschule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Schilderwald in der Langhansstraße im OT Weissensee - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.4: Botanische Vielfalt Pankow - vertagt
+- TOP 2.5: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - vertagt
+- TOP 2.6: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Sozialverträgliche Modernisierung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.8: Barrierefreies Wohnen in Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Zukunft der Parkraumbewirtschaftung im Ortsteil Prenzlauer Berg - vertagt
+- TOP 2.10: Verbesserung der Querungssituation an der Bucher Chaussee - vertagt
+- TOP 2.11: Sondernutzungsgebühren für "Call-a-bike"-Standorte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.12: Mehr Sicherheit für Radfahrerinnen und Radfahrer in der Pappelallee und in der Stahlheimer Straße - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.13: Fläche des ehemaligen Güterbahnhofs Greifswalder Straße für den Bezirk sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Choriner Straße - Umgestaltung im Bezirk Mitte als Vorbild nehmen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Stadtbad Oderberger Straße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Erhalt der Grünfläche am Tempelgraben/ Am Anger Berlin-Wilhelmsruh/Rosenthal - vertagt
+- TOP 2.17: Verkehrssicherheit vor der Grundschule im Panketal verbessern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.18: Geschichte der Euthanasiemorde in Buch aufklären - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.19: Ehrendes Gedenken für Christa Wolf - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.20: Erinnerung an "Die Palme" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.21: Umzugsplanung fortschreiben und Gebäudekosten verringern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.22: Keine Brötchentaste für Elterntaxis! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.23: Feststellung des Nichtzustandekommens des Bürgerbegehrens hinsichtlich der Kastanienallee im Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.24: Festsetzung von Eckwerten für die Aufstellung des Doppelhaushaltsplans 2012/2013 des Bezirks Pankow von Berlin nach 1. Fortschreibung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.25: Wirtschaftsplan des Eigenbetriebes „Kindergärten NordOst“ für das Jahr 2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.26: Umzug der Gruppen 1 und 2 des Tiefbau- und Landschaftsplanungsamtes in das Bürodienstgebäude Darßer Straße 203 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.27: Vergabe des bezirklichen Prädikates "Bewegungsfreundliche Kita" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.28: Bildung eines Frauenbeirates Pankow beim Bezirksamt Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
