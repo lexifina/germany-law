@@ -1,0 +1,78 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-02-22T17:10:00+01:00
+- Ende: 2012-02-22T22:40:00+01:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1657
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1657
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 5.1: Politisch motivierte Gewalttaten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl der Mitglieder in den Beirat für Menschen mit Behinderung - gewählt
+- TOP 6.2: Wahl eines stellvertretenden Bürgerdeputierten in den Ausschuss für Integration - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - gewählt
+- TOP 7.1: Verlängerung der Leistungsverträge der freien Träger in der Jugendhilfe - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - gewählt
+- TOP 8.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - gewählt
+- TOP 8.2: Mitteilungen von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2011 - überwiesen
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Individuelle Bedarfsfeststellung bei der Hilfe zur Pflege - beantwortet
+- TOP 9.2: Anzeigepflicht Trinkwasserversorgung - beantwortet
+- TOP 9.3: Kosten über dem Berliner Median? - beantwortet
+- TOP 9.4: Sanktionen am JobCenter verringern? - beantwortet
+- TOP 9.5: Prüfung der Musikschule - beantwortet
+- TOP 9.6: Mangelnde Hygiene im Vivantes-Klinikum Neukölln - beantwortet
+- TOP 9.7: Neuer baulicher Schandfleck im Ortsteil Buckow? - schriftlich beantwortet
+- TOP 9.8: Probejahr im Gymnasium - schriftlich beantwortet
+- TOP 9.9: Gefahr für Mieter gebannt? - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - beantwortet
+- TOP 10.1: Transparenz bei den Bezirksverordneten, Bürgerdeputierten und Bezirksamtsmitgliedern - überwiesen
+- TOP 10.2: Transparente Aufstellung der Senatszuweisungen - zurückgezogen
+- TOP 10.3: Identifikationsschilder von Ordnungsamtsmitarbeitern - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Bezirkshaushaltsplan für die Jahre 2012/2013 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen
+- TOP 11.2: Änderung der Geschäftsordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.3: Durchfahrverbot für Lastkraftwagen - vertagt
+- TOP 11.4: Pflegestützpunkt in Süd-Neukölln - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Überquerungshilfe Treptower/Harzer Straße - vertagt
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Pflegefamilien in Neukölln - vertagt
+- TOP 12.2: Sanierungsarbeiten in der Hufeisensiedlung - vertagt
+- TOP 12.3: Feinstaubwerte in Neukölln - vertagt
+- TOP 12.4: Haushaltssperren gefährden die Jugendarbeit - beantwortet
+- TOP 12.5: Kolonieabriss für A 100 ohne Baurecht - vertagt
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 13.1: Schulkapazitäten in Nordwest-Neukölln - im Ältestenrat zurückgezogen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Zeitnahe Kostenübernahme im Rahmen der Hilfe zur Pflege für Schwerstpflegebedürftige - überwiesen
+- TOP 14.2: Haltverbot Kanalstraße/Mistelweg - überwiesen
+- TOP 14.3: Haltverbot vor der Bushaltestelle Landhaussiedlung erweitern - überwiesen
+- TOP 14.4: Verkehr vor Kita beruhigen - überwiesen
+- TOP 14.5: Blumenviertel vor Grundwasser schützen - überwiesen
+- TOP 14.6: Städtischer Friedhof in der Köpenicker Straße in Rudow - überwiesen
+- TOP 14.7: Haushaltsvollzug 2012/2013 - vertagt
+- TOP 14.8: Verschmutzte Grünanlage an der Blaschkoallee - überwiesen
+- TOP 14.9: Spielplatz aufwerten - überwiesen
+- TOP 14.10: Produktergebnisse Budgetierung veröffentlichen und Schlüsse daraus ziehen - überwiesen
+- TOP 14.11: Keine Streichungen bei den freien Trägern - in der BVV abgelehnt
+- TOP 14.12: Haushalt zukünftig nach Ergebnissen der Produktbudgetierung aufstellen - überwiesen
+- TOP 14.13: Probejahr am Gymnasium bestehen - überwiesen
+- TOP 14.14: Erhalt der Schulstationen - gegenstandslos
+- TOP 14.15: Erhalt der Stadtteilmütter in vollem Umfang - gegenstandslos
+- TOP 14.16: Ausbau der Eltern- und Mütterkurse der VHS Neukölln - überwiesen
+- TOP 14.17: Verbesserung von Umwelterziehung und Hygiene im Von-der-Schulenburg-Park - überwiesen
+- TOP 14.18: Haushaltsverabschiedung verschieben - in der BVV abgelehnt
+- TOP 15: Mitteilungen - (offen)
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Bebauungsplan 8-49 ("Wildspitzweg") - mit Abschlussbericht zur Kenntnis genommen
