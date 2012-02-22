@@ -1,0 +1,21 @@
+# Einbringung des Entwurfs der Haushaltssatzung mit Haushaltsplan der Gemeinde Stemwede für das Haushaltsjahr 2012
+
+- Körperschaft: Gemeinde Stemwede
+- Drucksache/Vorlage: 2011 / 167 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2012-02-22
+- Ratsinformationssystem: https://stemwede.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZX5zvt29rc0VhQbf8jP9pGU
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/2129
+- Quelle: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Einbringung des Entwurfs der Haushaltssatzung mit Haushaltsplan der Gemeinde Stemwede für das Haushaltsjahr 2012) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUcEBmf1GGeTVcy7oREzWT4rXdfPOAkjDuRZlw7OaR_F/Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeKrOHMgiMqoLp_hkC8P3E0oaJh_SbSbt9ysdckPAoj-/Anlage_zur_Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRvCeeUMuFYqkW34HLXL39Kfl5_XIlObeCaB2h_nIbuo/Anlage_zur_Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcx9ps51SkoSA9l4T5bya1uOciIDmPX0CyPyEjUZ-kPv/Anlage_zur_Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV2sdI0ATLr74pk914BktaRkSy1E0QSAW6gAJNIJrrJ9/Anlage_zur_Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVagwbcvo4MBno1M3Fd-S2mUzdPXxdCBETfaUVK9e3yW/Anlage_zur_Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZakEbbS_71g7o_33bHCT6u7lvD12UcMPoWAEuNAyRMDi/Anlage_zur_Beschlussvorlage_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 1 zur Beschlussvorlage RAT 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZWdVwYnD8BA3sk3rWXXetlQlZGycg0VwglhqvVnT00lv/Anlage_1_zur_Beschlussvorlage_RAT_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 2 zur Beschlussvorlage RAT 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZ2BDRWf2wWc0Pq0MApMfRSjRiGotROp4haxmBf1dEC_/Anlage_2_zur_Beschlussvorlage_RAT_2011_-_167_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage 3 zur Beschlussvorlage RAT 2011 / 167 1. Ergänzung) https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRvDOac1cTtwZrTExfijxn1woJPII5c3GfXCbLOoRvNo/Anlage_3_zur_Beschlussvorlage_RAT_2011_-_167_1._Ergaenzung.pdf
+- Beratung:  https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2255 https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Beratung:  https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2258 https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-1
