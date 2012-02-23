@@ -1,0 +1,7 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 13. Sitzung des Ortsgemeinderates Herxheimweyher (2012-02-23)
+- Körperschaft: Ortsgemeinde Herxheimweyher
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2009-500-32%7Czt_0%7C2
+- Inhalt: nicht übernommen - der Punkt betrifft Privatpersonen
