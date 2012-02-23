@@ -1,0 +1,7 @@
+# TOP 4: Bericht des Bezirksamtes
+
+- Sitzung: 3. (öffentliche) Sitzung des Ausschusses für Stadtentwicklung und Tiefbau (2012-02-23)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=28670
+- Ergebnis: erledigt
