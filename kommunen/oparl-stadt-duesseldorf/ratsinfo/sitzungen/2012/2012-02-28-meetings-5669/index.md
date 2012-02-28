@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-02-28T17:00:00+01:00
+- Ende: 2012-02-28T21:00:00+01:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5669
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5669
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00172980.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00172980.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00172980.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Entwicklung des ehemaligen Glashüttengeländes - zur Kenntnis genommen
+- TOP 4: Energiesparendes Bauen auf dem Glashüttengelände - einstimmig beschlossen
+- TOP 5: Gerro Plast GmbH - einstimmig beschlossen
+- TOP 5.1: Situation der Mieten im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 6: Schülerverkehr Knittkuhl/Hubbelrath - zur Kenntnis genommen
+- TOP 6.1: Schülerspezialverkehr - zurückgezogen
+- TOP 6.2: Schülerspezialverkehr zur GGS Knittkuhl - einstimmig beschlossen
+- TOP 7: Sachstandsbericht Kastanienallee Altenbergstr. - zur Kenntnis genommen
+- TOP 8: Zulaufstrecke U73 - Heyestraße - zur Kenntnis genommen
+- TOP 9: Neue Haltestelle Schönaustraße/Ecke Heyestraße - einstimmig beschlossen
+- TOP 10: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2012 - mehrheitlich beschlossen
+- TOP 11: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 12: Wirtschafts- und Wanderweg Forster Weg - einstimmig beschlossen
+- TOP 12.1: Beleuchtung der Pfeiffer-Brücke - zurückgezogen
+- TOP 13: Beleuchtung im Quellenbusch - einstimmig beschlossen
+- TOP 14: Aufstellungsbeschluss für einen Bebauungsplan "Villa Sohl" - vertagt
+- TOP 15: Gartendenkmal „Villa Sohl“ - vertagt
+- TOP 16: Bunker Heyestraße - mehrheitlich beschlossen
+- TOP 17: Grundstück "Wendeschleife Heyestraße" - mehrheitlich beschlossen
+- TOP 18: Ortsumgehung Gerresheim - mehrheitlich beschlossen
+- TOP 19: Verbindung Possberg-Siedlung zur Gallberg-Siedlung - einstimmig beschlossen
+- TOP 20: Einrichtung einer Fußgängerbedarfsampel Ludenberger Straße - mehrheitlich beschlossen
+- TOP 21: Sitzungssaal der Bezirksvertretung - vertagt
+- TOP 22: Kennzeichnung des Parkraums Stichstraße Benderstraße - vertagt
+- TOP 23: "Staufenhalle" am Staufenplatz - vertagt
+- TOP 24: Fußgänger-Bedarfsampel Bushaltestelle Gallberg - vertagt
+- TOP 25: TG-Stellplätze Gerresheim-City (Grundstück "Von-Gahlen-Str./Marie-Curie-Str.") - vertagt
+- TOP 26: Platzverweise im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 27: Kinderlärm - neue Bestimmungen - zur Kenntnis genommen
+- TOP 28: Stadtbücherei Gerresheim - Aufzug zur ersten Etage - - zur Kenntnis genommen
+- TOP 29: Nahversorgung zwischen Heyestraße-Süd/Torfbruchstraße/Dreherstraße - zur Kenntnis genommen
+- TOP 30: Denkmalgeschützte Gebäude auf dem Gelände der ehemaligen Glashütte - zur Kenntnis genommen
