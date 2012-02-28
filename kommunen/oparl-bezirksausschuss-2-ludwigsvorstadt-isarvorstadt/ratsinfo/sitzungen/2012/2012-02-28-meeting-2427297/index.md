@@ -1,0 +1,104 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-02-28T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427297
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427297
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2.: Tagesordnung
+- TOP .3.: Genehmigung der Protokolle
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Berücksichtigung der Sozialen Bodennutzung bei der Absiedelung von Teilen der Innenstadt-Kliniken und der daraus folgenden Zukunftsplanungen
+- TOP .2.: Kulturtage 2012: Renovierung des Kapuzinertunnels durch freiwillige Jugendliche. Antrag von Beate Bidjanbeg
+- TOP .1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Stielerstraße Schäfflertanz am 10.02.2012
+- TOP .1.: BA-Budget: Bescheide ( )
+- TOP .2.: Verwendungsnachweise (1)
+- TOP .3.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bezüglich der Zukunft des geförderten Wohnungsbaus in München
+- TOP .4.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bezüglich des Wohnungspolitischen Handlungsprogramms ?Wohnen in München V? - Wohnungsbauoffensive 2012 - 2016
+- TOP .5.: Erstellung eines Stadtteilplans; Antwortschreiben des BA 3
+- TOP .6.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bzgl. Genossenschaftsidee fördern II - ?Hamburger Modell? zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen
+- TOP .7.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bzgl. Beihilferechtliche Auswirkungen der Landesbank-Krise auf die GBW AG-Wohnungen
+- TOP .8.: Schreiben an einen Bürger wegen Nutzung des Toilettenhäuschens am Holzplatz
+- TOP .9.: Platzzahlregulierung Hort Klenzestraße
+- TOP .10.: Antwortschreiben des Kulturreferats zum Wunsch des BAs auf Ausrichtung der Kulturtage 2016 im Stadtbezirk 2
+- TOP .11.: Sanierung des Spielplatzes am Europäischen Patentamt
+- TOP .12.: Beschluss des Kinder- und Jugendhilfeausschusses vom 10.01.2012: Elektronische Vergabe- und Vormerksystem für Kinderbetreuungsplätze
+- TOP .1.: Bürgeranliegen: Auswirkung der Schulsprengeländerung auf den Schulweg
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Auenstraße 21: Sanierung, Aufstockung, Dachausbau (Vorbescheid, vertagt)
+- TOP .2.: Holzstraße 4: Verfüllung des Grundstücks
+- TOP .3.: Adlzreiterstraße 23: Nutzungsänderung von EG-Wohnungen in ein Büro
+- TOP .4.: Adlzreiterstraße 25: Nutzungsänderung von Ladenwohnung in ein Büro
+- TOP .5.: Maistraße 32: Errichtung einer Balkonanlage
+- TOP .6.: Baaderstraße 49: Nutzungserweiterung im Kellergeschoss und Abgrabung Lichthof
+- TOP .7.: Thalkirchner Straße 16: Erstellung Maisonnette-Wohnungen, Balkonanlagen (Tektur)
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baumfällung Zenettistraße 32
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Betrieb einer Wasserkraftanlage am Werkkanal im Bereich der Braunauer Eisenbahnbrücke (Isarwerk III) ? Wittelsbacher Straße 24
+- TOP .2.: Werbeanlage Zenettistraße 20
+- TOP .1.: Baumaßnahmen SWM (Pettenkoferstraße)
+- TOP .2.: Genehmigung von Baumfällungen (Ahorn in der Uhlandstraße 7)
+- TOP .3.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bzgl. Preis für Stadtbildpflege - Wettbewerb ?Denkmalschutz und Neues Bauen?
+- TOP .4.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bzgl. Perspektive München ? Langfristige Siedlungsentwicklung
+- TOP .5.: Beschlussvorlage des Referats für Stadtplanung und Bauordnung bzgl. Stadt und Fluss ? Innerstädtischer Isarraum, Workshopergebnisse und weiteres Vorgehen
+- TOP .6.: Antwortschreiben der LBK zum Bauvorhaben Landwehrstraße 25
+- TOP .7.: Mobilfunkanzeigen
+- TOP .8.: Beschlussvorlage der Vollversammlung vom 01.02.2012; Wohnpolitisches Handlungsprogramm ?Wohnen in München V?
+- TOP .9.: Antwortschreiben der LBK zum Bauvorhaben Schwanthalerstraße 58
+- TOP .10.: Beschluss des Planungsausschusses vom 15.02.2012: Umstrukturierung Klinikum der Universität ? Campus Innenstadt, Nußbaum-, Lindwurm-, Goethe- und Ziemssenstraße
+- TOP .11.: Antwortschreiben der LBK zum Bauvorhaben Landwehrstraße 21
+- TOP .12.: Baugenehmigung Auenstraße 106
+- TOP .13.: Antwortschreiben an den Bürger auf eine Anfrage in der Bürgerversammlung vom 17.11.2011 zum Lärmminderungsplan
+- TOP .1.: Baumbepflanzungen auf den Zufahrtsstraßen zum Gärtnerplatz
+- TOP .2.: Lärmminderungsplanung für München ? Entwurf eines Lärmaktionsplans
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Die Theresienwiese (mit Bavariapark) wird als Grün-, Erholungs- und Freizeitnutzungsfläche ertüchtigt (PLENUMSBESCHLUSS)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .2.3: Sonstige Entscheidungen
+- TOP 1: (E) Lärmbelästigung durch After-Wiesn-Parties in der Mozartstraße
+- TOP 2: (E) Überprüfung der Notwendigkeit des Halteverbots in der Thalkirchner Straße 63-67 (Ziffer 1) Überprüfung der Parkplatzsituation für die Anwohner in der Thalkirchner Straße 63-67 wegen Baustellen (Ziffer 2)
+- TOP 3: (E) Verstärkte Kontrollen im Viertel gegen Sprayer (Ziffer 3)
+- TOP 3.1.: Sonnwendfeuer auf der Theresienwiese 15.06.-17.06.2012 (erledigt durch Eilentscheidung vom 08.02.2012)
+- TOP 3.2.: Kulturtage Ludwigsvorstadt-Isarvorstadt am 23.06.2012, Nußbaumpark
+- TOP 3.3.2: Verkehr
+- TOP 3.1.: Austausch von Lichtzeichenanlagen an der Lindwurm-/Reisingerstraße
+- TOP 3.2.: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 3.3.: Hotelanfahrtszone Schillerstraße 17 ?Hotel Rilano?
+- TOP 3.4.: Personenbezogener Behindertenparkplatz Baaderstraße 44a
+- TOP 3.1.: BV-Empfehlung Nr. 08-14/E01172: Anlieger für Schäden durch Besucher des Oktoberfestes entschädigen
+- TOP 3.1.: Versammlungen unter freiem Himmel
+- TOP 3.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 3.3.: Unveränderte Gaststättenfortführungen: - ?Alatlal?: Sonnenstraße 12 - ?Am Glockenbach?: Arndtstraße 2 - ?ELA?, Lindwurmstraße 139a - ?Tanzschule TWS?, Schützenstraße 8 - ?Tonkin?, Lindwurmstraße 65 - ?Orangha?, Klenzestraße 62 - ?Espresso Bar im KVR?, Ruppertstraße 11 - ?Firedragon?, Paul-Heyse-Straße 29 - ?Snäck's and Gebäck's?, Bayerstraße 91
+- TOP 3.4.: Verkehrsrechtliche Anordnungen: - Öffnung der in Richtung Süden einbahngeregelten Deutingerstraße zwischen Wittelsbacherstraße und Auenstraße für den gegenläufigen Radverkehr - Einrichtung einer Bücherbushaltestelle im Bavariaring - Öffnung der in Richtung Süden einbahngeregelten Deutingerstraße zwischen Wittelsbacherstraße und Auenstraße für den gegenläufigen Radverkehr
+- TOP 3.5.: Erlaubnisbescheide:
+- TOP 3.6.: Auftrittsorte der Schäfflertänze 2012
+- TOP 3.7.: Ampelschaltung an der Ecke Klenze-/Buttermelcherstraße; Antwortschreiben des KVR
+- TOP 3.8.: Aufstellung von Abfalleimern am Sendlinger Tor und vor dem KVR; Antwortschreiben des Baureferats
+- TOP 3.9.: Asphaltarbeiten Fahrbahn (Corneliusstraße 16-34; Zweibrückenstraße 10-12)
+- TOP 3.10.: Beschluss der Vollversammlung vom 25.01.2012: 2. Stammstrecke Forderung des Freistaats Bayern - Bericht über Fachgespräche auf Arbeitsebene vom 13.01.2012
+- TOP 3.11.: Endgültiger Beschluss der Vollversammlung vom 25.01.2012: Beschleunigung der Buslinie 152
+- TOP 3.12.: Eilentscheidung des Vorsitzenden, Ablehnung der Veranstaltung ?Die Käfer Alm? auf der Theresienwiese
+- TOP 3.1.: Termine
+- TOP 3.1.: Sitzung des UA Planen und Bauen: 12.03.2012 um 19.00 Uhr in der Gaststätte ?Rumpler?, Baumstraße 21, 80469 München Sitzung des UA KVR-Angelegenheiten: 13.03.2012 um 19.00 Uhr in der Gaststätte ?Schmeller Wirtshaus?, Schmellerstraße 17, 80337 München Sitzung des UA Kultur, Jugend, Soziales: 14.03.2012 um 19.00 Uhr in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München Vorstandssitzung: 19.03.2012 in der BA-Geschäftsstelle Mitte, Tal 13, 80331 München
+- TOP 3.2.: nächste BA-Sitzung: 27.03.2012 um 19.00 Uhr in der Gaststätte ?Zunfthaus?, Thalkirchner Str. 76, 80337 München
+- TOP 3.1.: Informationsveranstaltung der SWM am 20.03.2012, 18.00 Uhr, Emmy-Noether-Str. 2, Raum D 0.00
+- TOP 3.3.: Sonstiges / Verschiedenes
+- TOP 3.1.: Sozialreferat, Mietberatung Mieterbeiratswahlen 2012, Entsendung von Mitgliedern
+- TOP 3.5.: Sonstiges
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen
+- TOP 3.3.: Anhörungen
+- TOP 3.4.: Unterrichtungen (siehe Beiblatt)
+- TOP 3.2.: Veranstaltungen
+- TOP .13.: Klettergerüst aus Holzstämmen in der Nähe des KuBus
