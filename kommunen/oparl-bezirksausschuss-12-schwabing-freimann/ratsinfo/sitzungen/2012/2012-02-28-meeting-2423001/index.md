@@ -1,0 +1,98 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-02-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2423001
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2423001
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Errichtung eines eigenständigen Bezirksausschusses für Freimann (BV-Empfehlung Nr. E 01041 vom 19.076.2011)
+- TOP .2.: Budget für die eigene Veranstaltung ?Schwabinger Kinder- und Jugendforum 2012? in Höhe von insgesamt 1.500,00 ?
+- TOP .1.: Änderung der Satzung der Münchner Bezirksausschüsse Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen
+- TOP .2.: Mieterbeiratswahl 2012
+- TOP .10.: sonstiges
+- TOP .1.: Wahl des Baumschutzbeauftragten und Regelung des Aufgabenbereichs
+- TOP .1.: (E) Budget der Bezirksausschüsse Haus am Schuttberg e.V. Stadtteilfest Parkstadt-Schwabing am 05.05.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Theater Münchner Freiheit c/o E. Schäfer Theaterproduktion "Paarungszeit" im Heppel & Ettlich ab 23.02.2012
+- TOP .3.: Kinderflohmärkte
+- TOP .1.: Fehlende Kindergartenplätze in Schwabing
+- TOP .2.: Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien auf dem Gelände der ehemaligen Funkkaserne
+- TOP .1.: Leistungen aus dem Bildungspaket der Bundesregierung für Asylbewerber-Kinder im Erstaufnahmelager Bayernkaserne
+- TOP .2.: Erweiterung der Aufnahmeeinrichtung München Dependance Bayern Kaserne
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: ?Tapasita?, Schank- und Speisewirtschaft, Feilitzschstraße 10
+- TOP .1.: Rückforderungen aus dem Budget des BA 12 a) Regsam e.V. für die Maßnahme: Ferienprogramm im August 2011 b) Initiative ?Windsbraut? für die Maßnahme: Theaterprojekt ?Windsbraut?
+- TOP .2.: Bescheide / Zuwendungsbewilligungen aus dem Budget des BA 12 a) Wilhelmschule Förderverein e.V. für die Maßnahme: Gewaltpräventionsprojekt ?Fels und Wasser? ab. 15.02.2012 bis Juli 2012 b) Gaudiblatt / 84 Ghz für die Maßnahme: Nachbarschaftsfest am 23.06.2012
+- TOP .3.: Verwendungsnachweise a) Corso Leopold e.V. für die Veranstaltung ?Corso Leopold? b) Theater des Hölzernen Gelächters für die Theaterproduktion von Juni bis September
+- TOP .4.: Veranstaltungsbericht: Theater des Hölzernen Gelächters ?Verwirrungen oder Julchen in Königsberg?
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Osterwaldstraße 10, 10 Bäume
+- TOP .2.: Genterstr. 71, 3 Tannen
+- TOP .3.: Freisinger Landstr. 9, 2 Akazien
+- TOP .4.: Hohenzollernstr. 1, Fl.Nr.: 4452/0, Neubau eines Wohn- und Geschäftsgebäudes mit Tiefgarage, 3 Spitzahorn und 1 Rosskastanie
+- TOP .5.: Frankfurter Ring, Fl.Nr.: 264/0, Neubau eines Bürogebäudes mit Tiefgarage ? Antrag auf Teilbaugenehmigung
+- TOP .6.: Sondermeierstr. 84, Fl.Nr.: 580/20, Errichtung eines eingeschossigen Anbaus an ein Einfamilienhaus
+- TOP .7.: Schwedenstr. 27, Fl.Nr.: 1060/18, Abbruch und Neubau eines Einfamilienhauses, 3 Bäume
+- TOP .1.: Bauvorhaben: Brabanter Str. 1-7 / Luxemburger Str. 2-16 / Stengelstr. 1-27 / Ungererstraße 96-100), Modernisierung und Sanierung der Wohnanlagen mit Teilabbruch und Neubau - Vorbescheid
+- TOP .2.: Bauvorhaben: Habsburgerplatz, Flurstück 4468/13, Nutzungsänderung eines ehemaligen Trafohauses in eine Eisdiele - Vorbescheid
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Bauvorhaben: Siegesstr. 25, Flurstück 70/2, Änderung der Eingangssituation mit Änderung des Ladengeschäfts im EG, hofseitige Erweiterung im EG bis 3.OG, hofseitiger Anbau (2 Balkone im 1.-3- OG / Lift EG ? DG); RGB: hofseitiger Anbau (2 Wintergärten im EG / 2 Balkone im 1.OG / Lift EG ? DG); Abbruch und Wiederaufbau DG; Grundrissänderung 2. OG
+- TOP .5.: Bauvorhaben: Schackstr. 3, Flurstück 3374/0, Umbau eines Wohn- und Geschäftshauses mit DG-Ausbau sowie Anbau von Balkonen und Ausbau von Terrassen
+- TOP .6.: Kaiserstr. 7, Flurstück 361/8, Neubau eines Wohn- /Bürogebäudes (RGB) mit Tief- garage - Vorbescheid
+- TOP .7.: Grünecker Str., Flurstück 884/15, Neubau einer Wohnanlage mit Gemeinschaftsraum und Tiefgarage
+- TOP .1.: Neue Gebäudebezeichnung für die Heilig-Kreuz-Kirche in Fröttmaning
+- TOP .2.: Straßenbenennungen im Areal der ehemaligen Bayernkaserne
+- TOP .3.: Kiosk Münchner Freiheit ? Statusreport (ohne Unterlagen)
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Biedersteiner Str. 19-21, 1 Linde
+- TOP .2.: Keferstraße 12, 3 Bäume
+- TOP .3.: Berliner Straße 60, 1 Pappel
+- TOP .4.: Willi-Graf-Str., 4 Fichten
+- TOP .1.: Genossenschaftsidee fördern II - ?Hamburger Modell? zur Grundstücksvergabe Beschluss des Ausschusses für Stadtplanung und Bauordnung Sitzungsvorlage 08-14 / V 08045
+- TOP .2.: Baumaßnahmen der Stadtwerke München, Gas / Wasser, Heinrich-Groh-Straße
+- TOP .3.: Baugenehmigungsbescheid für Neurißweg 6, Fl.Nr.: 309/787, Aufstockung eines Wohngebäudes
+- TOP .4.: Wohnungspolitisches Handlungsprogramm ?Wohnen in München V?, Wohnungsbauoffensive 2012 -2016; Sitzungsvorlage Nr. 08-14 / V 08187
+- TOP .5.: Nutzung der Fröttmaninger Heide ? offener Brief des Heideflächenvereins vom 21.01.12
+- TOP .6.: Gerichtsentscheidung zur Werbeanlage Leinthalerstraße 1
+- TOP .7.: Baugenehmigung für Leopoldstr. 87, Erweiterung einer Freischankfläche (17 m² / 20 Sitzplätze)
+- TOP .8.: Baugenehmigung für Leopoldstr. 53, Fl.Nr.: 359/4, Neubau eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP .1.: Grüne Achse Schwabing ? Projektplanung zur Begrünung der Kreuzung Clemens- / Bismarckstraße
+- TOP .1.: Änderung der Parkzeitbeschränkung in der Lyonel-Feininger-Straße
+- TOP .2.: Aufhebung der Radwegbenutzungspflicht in der - Crailsheimstraße - Domagkstraße - Lilienthalallee - Soxhletstraße
+- TOP .3.: Parklizenzgebiet Biederstein ? Veränderung der bestehenden Parkregelung (C.3.1.1./01/12)
+- TOP .4.: Occamstraße ? Beschilderung mit Gefahrenzeichen ?Kinder?
+- TOP .1.: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP .1.: Säuberung / Ersetzung der Steine am Rondell nördlich des Ungererbades
+- TOP .2.: Grüne Achse Schwabing ? Neuer Übergangsweg für Fußgänger und Radfahrer von der Cflemensstraße über die Münchner Freiheit zur Marschallstraße
+- TOP .1.: Barrierefreie Verbindung über die BAB 9 / U 6 in Höhe des U-Bahnhof Fröttmaning
+- TOP .2.: Verbesserung der Schulwegsicherheit für die Grundschulkinder aus der Parkstadt (Ziffer 2 und 3)
+- TOP .1.: Münchner Wochen- und Bauernmärkte, hier: Fritz-Hommel-Weg
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund (2)
+- TOP .3.: 2. Stammstrecke ? Forderungen des Freistaates Bayern Bericht über Fachgespräch auf Arbeitsebene, Sizungsvorlagen Nr. 08-14 / V 08567 Beschluss der Vollversammlung des Stadtrates vom 25.01.2012
+- TOP .4.: Lärmbelästigung an der U-Bahn-Linie U6, Haltestelle Freimann, Antwort des Referats für Gesundheit und Umwelt auf ein Bürgeranliegen
+- TOP .5.: Bachufersanierung Altarm - Garchinger Mühlbach (Schreiben des RGU zum Bürgeranliegen )
+- TOP .6.: Schulwegsituation Grundschule Haimhauserstraße (Antwort des KVR an einen Bürger)
+- TOP .7.: Widmung des Fuß- und Radweges an der Tram 23 Sitzungsvorlage Nr. 08-14 / V 08375
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .5.3.: Sonstige Unterrichtungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
