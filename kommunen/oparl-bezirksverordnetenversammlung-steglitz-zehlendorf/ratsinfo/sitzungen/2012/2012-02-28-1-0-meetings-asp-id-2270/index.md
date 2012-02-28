@@ -1,0 +1,78 @@
+# 5. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-02-28T17:00:00+01:00
+- Ende: 2012-02-28T18:35:00+01:00
+- Ort: Schloßstr. 37, 12163 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2270
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2270
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung von Bürgerdeputierten und stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl von Bürgerdeputierten nach § 9 Abs. 2 BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-15 (Curtiusstraße / Lichterfelde-West) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Erlass der Veränderungssperre 6-15/40 (Curtiusstraße 28/34) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan X - B 16 (östlich Pacelliallee) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Bei Obstbaumpflanzungen auf alte Obstsorten setzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Fahrbahnmarkierungen Bruchwitzstraße/Mühlenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Ausschussanträge - erledigt
+- TOP 4.6.1: Institutionalisierung des Mitspracherechts junger Menschen im Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.7.1: Dialogdisplays in der Andréezeile und Breitensteinweg - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.2: Mobilitätsdienste erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.3: Ostpreußendamm / Ecke Osdorfer Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.4: Platanen in der Schloßstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.5: West-Tangente sicherer machen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.6: Schließung Sparkassenfiliale Riemeisterstraße - Erhalt der SB-Automaten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.7: Tempo 30 auf der gesamten Garystraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.8: Zehlendorf-Mitte stärken! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.9: Fortführung des Jugendaudit-Projekts - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.10: Finanzierung Technologie- und Gründungszentrum Fabeckstraße jetzt absichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.11: Arbeitsgruppe Stadtplatz Kirchstraße und Neugestaltung Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.7.12: Verkehrsinsel Kita Andréezeile - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Wahlen: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.1.1: Neuberufung von insgesamt zehn Patientenfürsprecher/innen für die zehn Krankenhäuser des Bezirks nach § 30 des Landeskrankenhausgesetzes (LKG) - überwiesen
+- TOP 5.2: Haushaltsangelegenheiten: Vorlagen zur Beschlussfassung - erledigt
+- TOP 5.2.1: Bezirksrechnung Steglitz-Zehlendorf für das Haushaltsjahr 2010 - überwiesen
+- TOP 5.3: Anträge - erledigt
+- TOP 5.3.1: 483 Mio. in 4 Wochen - überwiesen
+- TOP 5.3.2: Verkehrssicherheit Kreuzung Bruchwitzstraße/Schulstraße - überwiesen
+- TOP 5.3.3: Preiswertes Wohnen in Zehlendorf ermöglichen - überwiesen
+- TOP 5.3.4: Bezirkshaushalt transparent für alle Bürger - überwiesen
+- TOP 5.3.5: Zuschüsse des BA für den Bezirkssportbund in der gleichen Höhe belassen wie in der letzten Wahlperiode. Planungssicherheit gewähren. - überwiesen
+- TOP 5.3.6: Gehwegparken unterbinden - überwiesen
+- TOP 5.3.7: Mehr Transparenz beim Schulentwicklungsplan - überwiesen
+- TOP 5.3.8: Parkkolonie sichern - überwiesen
+- TOP 5.3.9: Transparente Bezirksamtsbeschlüsse - überwiesen
+- TOP 5.3.10: Graffiti S-Bahn Lankwitz - überwiesen
+- TOP 5.3.11: Bezirksamtsbeschlüsse öffentlich machen - überwiesen
+- TOP 5.3.12: Bushaltestelle Pücklerstraße/Brücke-Museum - überwiesen
+- TOP 5.3.13: Einrichtung eines Beratungs- und Unterstützungs-Zentrums - überwiesen
+- TOP 5.3.14: Denkmalschutz ernstnehmen - überwiesen
+- TOP 5.3.15: Dialog-Display für die Ehrenbergstraße - überwiesen
+- TOP 5.3.16: Durchfahrverbot LKW über 7,5 t in der Bruchwitzstraße - überwiesen
+- TOP 5.3.17: Flugrouten-Lärmüberwachung - überwiesen
+- TOP 5.3.18: Hinweisschilder zum Brücke-Museum - überwiesen
+- TOP 6: Dringlichkeiten - erledigt
+- TOP 6.1: Vorlage zur Beschlussfassung und dringl. Beschlussempfehlung von Ausschüssen - erledigt
+- TOP 6.1.1: Bezirkshaushaltsplan Steglitz-Zehlendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushaltsplan 2012/13) - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Dringlichkeitsanträge - erledigt
+- TOP 7: Große Anfragen - erledigt
+- TOP 7.1: Stellenbesetzung während der vorläufigen Haushaltswirtschaft? - Einstellung eines weiteren persönlichen Referenten für die Dezernentin der Abteilung Jugend, Gesundheit, Umwelt und Tiefbau - - beantwortet
+- TOP 8: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 8.1: Neuer Schulentwicklungsplan für den Bezirk Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Schlusswort des Bezirksverordnetenvorstehers - erledigt
