@@ -1,0 +1,65 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-02-28T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501448
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501448
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Sachsenspiegelstr. 24; Nutzungsänderung Wohngebäude zu einer ÜWG von Condrobs
+- TOP 1.2.: Kompro-B-Bauvorhaben im 24. Stadtbezirk
+- TOP 1.3.: Beschlussvorlage Baureferat: Feldmochinger Straße; Beseitigung des höhengleichen Bahnüberganges (Bedarfs- und Konzeptgenehmigung)
+- TOP 1.4.: Direktorium: Münchner Statistik (3. Quartalsheft; Jahrgang 2011)
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 24 Feldmoching-Hasenbergl Widmung der Gesamtstrecke des Blaukissenweges
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Heimat- und Volkstrachtenverein Riadastoana Feldmoching e.V. Sanierung der Zunft- und Vereinsschilder
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt Evangliumskirche Konzerte 2012
+- TOP 2.4.: Gewährung eines Zuschusses aus dem BA-Budget: IKARUS e.V.: "Angehörigentag am 23.03.2012 im Kulturhaus Milbertshofen"
+- TOP 2.5.: (E) Budget der Bezirksausschüsse TSV 54 - DJK München e.V. Turnier für E-Junioren am 26.04.2012
+- TOP 3.1.: Antrag auf Abhaltung einer Veranstaltung "Kulturtage 2016 im 24. Stadtbezirk"
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1. Göttnerstr. 8 (Umbau einer landwirtsch. Hofstelle in Kita) 5.1.2 Lerchenstr. 19 (Neubau eines Werkstattgebäudes auf Lagerplatz der Fa. I.E.C) 5.1.3 Schittgablerstraße (Neubau dreier Doppelhäuser mit 6 Garagen) 5.1.4 Schleißheimer Str. 393b (Neubau einer LKW-Karosseriebauhalle - Vorbescheid) 5.1.5 Sonnentaustr. 37 (Neubau eines Mehrfamilienhauses mit Garage - Vorbescheid)
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Ebereschenstr. 24 (Neubau eines Mehrfamilienhauses mit Garagen) 5.2.2 Karlsfelder Str. 42 (Neubau eines Mehrfamilienhauses) 5.2.3 Schittgablerstraße (Neubau dreier Doppelhäuser mit 6 Garagen) 5.2.4 LSG Schwarzhölzl (Teilbereiche) 5.2.5 Stösserstr. 2-6 (Errichtung 2er Fahrradhäuser) 5.2.6 Stüdlstr. 11b+c (Neubau eines Doppelhauses - Tektur)
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung: Gemeinde Karlsfeld; Bauleitverfahren: Bebauungsplan Nr. 85 "Am Burgfrieden"
+- TOP 5.4.: KVR: Lichtzeichenanlagen (LZA)-Bauprogramm 2012: LZA-Neubau an der Kreuzung Aschenbrenner-/Schleißheimer Straße
+- TOP 5.5.: KVR: verkehrsrechtliche Anordnung; Kurzparkzone Schleißheimer Str. 411
+- TOP 5.6.: KVR: Verkehrsrechtliche Anordnung; Zeichen 283 StVO am Frühlingsanger
+- TOP 5.7.: KVR: Veranstaltung auf städt. Grünanlage: Dülfer Anger; Integrationsfest des Vereins für Integrations- und Bildungsförderung in München e.V. vom 15.05. -20.05. und vom 25.05. - 28.05.2012
+- TOP 5.8.: KVR: Veranstaltung auf städt. Grünanlage: Dülfer Anger; 4. Nachbarschatsfest des Deutsch-Türkischen Kulturvereins vom 31.05. - 04.06.2012
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: KVR: Ampelschaltung für Sehbehinderte an den Kreuzungen Ittlinger-/Weitlstraße und Rainfarn-/Weitlstraße
+- TOP 6.2.: Baureferat: Anbringung von zusätzlicher Straßenbeleuchtung Lassallestraße/ Franz-Fackler-Straße
+- TOP 6.3.: Baureferat: Schnellstmögliche Realisierung der Kindertagesstätte Paul-Huml-Bogen (Paul-Preuß-Straße)
+- TOP 6.4.: Baureferat: Fehlende Metallnetze an den Tischtennisplatten Am Schnepfenweg und an der Grünanlage Aschenbrennerstraße
+- TOP 6.5.: Baureferat: Ersatz Tellerschaukel am Spielplatz Herbergstraße
+- TOP 6.6.: Baureferat: Hundekotstationen bzw. -mülleimer im Waldstück parallel an der Trollblumenstraße
+- TOP 6.7.: Baureferat: Aufstellung einer Parkbank an der Ecke Josef-Frankl-Straße/ Schaarschmidtstraße
+- TOP 6.8.: MVG: Bürgeranfrage: "Taktverdichtung der Buslinie 60 und der U-Bahnlinie U2?"
+- TOP 6.9.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.10.: Meldelisten Baumfällungsanträge
+- TOP 6.11.: Meldelisten Bauvorhaben
+- TOP 6.12.: Baureferat: Unterrichtung über das Fällen von Gefahrenbäumen
+- TOP 6.13.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Grohmannstr. 61
+- TOP 6.14.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund: Drehgenehmigung "K11- Kommissare im Einsatz" im Stadtgebiet: 13.01. bis 30.06.2012
+- TOP 6.15.: KVR: Verkehrsrechtliche Anordnungen: 6.15.1 Schulbushaltestelle Rothwiesenstraße (Änderung des Zeitzusatzes) 6.15.2 Würmhölzlstraße zwischen Am Pfaffensteig und Berchardweg (Tempo-30-Zone) 6.15.3 Paulckestraße Nordseite (Wegfall des Zeitzusatzes beim Z 283)
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Genossenschaftsidee fördern II; "Hamburger Modell" zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wohnungspolit. Handlungsprogramm "Wohnen in MÜnchen IV" - Neufassung vom 30.01.2012
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: 2. Stammstrecke; Forderungen des Freistaates Bayern; Bericht über Fachgespräch vom 13.01.2012
+- TOP 6.19.: Beschlussvorlage Baureferat: Feldmochinger Straße; Beseitigung des höhengleichen Bahnübergangs (Bedarfs- und Konzeptgenehmigung)
+- TOP 6.20.: Baureferat: Detmoldstraße; Bebauungsplan mit Grünordnung Nr. 1398a - Bauabschnitt II; erstmalige Herstellung)
+- TOP 6.21.: Baureferat: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen: Projektgenehmigung; Errichtung eines Hauses für Kinder (Kooperationseinrichtung) Tollkirschenweg
+- TOP 6.22.: Direktorium: Änderung der Satzung der Münchner Bezirksausschüsse: Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentl. Grünanlagen
+- TOP 6.23.: Wasserwirtschaftsamt München: Gewässer I. Ordnung; Würmkanal; Erstellung eines Gutachtens zur Verkehrssicherung und Baumpflege
+- TOP 6.24.: KVR: Auflagen zum Genehmigungsbescheid: Staffellauf "Eternal Flame"
+- TOP 6.25.: Zuschuss aus dem BA-Budget: diverse Verwendungsnachweise/ Sachberichte
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
