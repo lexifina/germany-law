@@ -1,0 +1,66 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-03-01T17:00:00+01:00
+- Ende: 2012-03-01T19:10:00+01:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5524
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5524
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00173185.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00173185.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00173185.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Verkehrsregelung Lassallestraße - einstimmig beschlossen
+- TOP 5: Verkehrsregelung Hasseler Richtweg - einstimmig beschlossen
+- TOP 6: Ladezone Zeppelinstraße 28 - vertagt
+- TOP 7: Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2012 - mehrheitlich beschlossen
+- TOP 8: Veranstaltungen in Eller auf dem Gertrudisplatz im Jahre 2012 - einstimmig beschlossen
+- TOP 9: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 8 - mehrheitlich beschlossen
+- TOP 10: Winterdienst Gubener Straße / Neusalzer Weg - beantwortet
+- TOP 11: Ehemalige Sportfläche Tannenhofweg - beantwortet
+- TOP 12: Bunker Am Bermeshau und Sandträger Weg / Neusalzer Weg - beantwortet
+- TOP 13: Schrägparken in Siedlungsgebieten - beantwortet
+- TOP 14: Lärmschutzmaßnahmen A 46 in Eller und Unterbach - beantwortet
+- TOP 15: Radweg Gubener Straße - beantwortet
+- TOP 16: Grundwasserkataster Vennhausen - beantwortet
+- TOP 17: Friedhofstaxi im Stadtbezirk 8 - beantwortet
+- TOP 18: Tauben Unterführung Gumbertstraße - beantwortet
+- TOP 19: Sauberkeitssituation Gertrudisplatz - beantwortet
+- TOP 20: Fußweg Vennhauser Allee / Veenpark - beantwortet
+- TOP 21: Parken auf der Lasallestraße - zurückgezogen
+- TOP 22: Verkehrsregelung Auf'm Großenfeld - einstimmig beschlossen
+- TOP 23: Kreuzung Reisholzer Straße / Schlesische Straße - einstimmig beschlossen
+- TOP 24: Verkehrsführung Unterführung Vennhauser Allee - mehrheitlich abgelehnt
+- TOP 25: Doggy Bags im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 26: Glascontainer in Vennhausen - mehrheitlich abgelehnt
+- TOP 27: Radweg Gubener Straße - zurückgezogen
+- TOP 28: Haltverbotbeschilderung Vennhauser Allee und Sandträgerweg - mehrheitlich abgelehnt
+- TOP 29: Jugendfreizeiteinrichtung Chemnitzer Straße - einstimmig beschlossen
+- TOP 30: Namensschild Jugendfreizeiteinrichtung - einstimmig beschlossen
+- TOP 31: Lärmschutz A 46 für Eller und Unterbach - einstimmig beschlossen
+- TOP 32: Schwimmbad Eller - einstimmig beschlossen
+- TOP 33: Verkehrsregelung Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 34: Geplanter Radweg Am Turnisch - einstimmig beschlossen
+- TOP 35: Bushaltestelle In der Elb - einstimmig beschlossen
+- TOP 36: Verkehrsregelung Breslauer Straße - zur Kenntnis genommen
+- TOP 37: Radroute zwischen Schlesische Straße und Bahnübergang Am Hackenbruch - zur Kenntnis genommen
+- TOP 38: Radverkehr Zwickauer Straße - zur Kenntnis genommen
+- TOP 39: Nebengebäude Schloss Eller - zur Kenntnis genommen
+- TOP 40: Wellness-Center Elbsee - zur Kenntnis genommen
+- TOP 41: Jugendfreizeitstätte Kuthsweg - zur Kenntnis genommen
+- TOP 42: Friedhofsentwicklungskonzept für den Friedhof Eller - zur Kenntnis genommen
+- TOP 43: Bunker Gatherweg - zur Kenntnis genommen
+- TOP 44: Geschwindigkeitsregelung Eller Kamp - zur Kenntnis genommen
+- TOP 45: Bunker Gatherweg - zur Kenntnis genommen
+- TOP 46: Grundstück Vennhauser Allee 250 - Gabionenwand Veenpark - zur Kenntnis genommen
+- TOP 47: Duschräume Freiwillige Feuerwehr Unterbach - zur Kenntnis genommen
+- TOP 48: Ausstattung Düssel - Fußwege - zur Kenntnis genommen
+- TOP 49: Ausbau der A 46 Anschlussstelle Düsseldorf-Süd - zur Kenntnis genommen
