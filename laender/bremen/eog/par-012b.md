@@ -1,15 +1,15 @@
 # § 12b Entwässerungsbaugenehmigungsverfahren
 (1) Die Entwässerungsbaugenehmigung ist auf amtlichem Vordruck bei der für die Abwasserbeseitigung zuständigen Behörde zu beantragen (Entwässerungsbauantrag). Dem Entwässerungsbauantrag sind folgende Unterlagen beizufügen:
-1. ein Auszug aus der Flurkarte im Maßstab 1:1000 oder 1:500 mit Umrandung des betreffenden Grundstücks;
+1. ein Auszug aus der Flurkarte im Maßstab 1:1 000 oder 1:500 mit Umrandung des betreffenden Grundstücks;
 2. der Kanaltiefenschein;
-3. ein Grundstücksentwässerungsplan im Maßstab 1:1000 oder 1:500 mit folgenden Darstellungen:
+3. ein Grundstücksentwässerungsplan im Maßstab 1:1 000 oder 1:500 mit folgenden Darstellungen:
 a) Darstellung des Gebäudes und der Entwässerungsleitungen auf dem Grundstück bis zum Anschlusspunkt am öffentlichen Straßenkanal. Die im Kanaltiefenschein angegebenen Kanalschächte und Anschlussstellen sind örtlich auf das geplante Bauvorhaben einzumessen und lagemäßig maßstabsgerecht einzutragen und zu vermaßen.
 b) Darstellung der einzelnen Abwasseranfallstellen und der Abteilung der verschiedenartigen Abwasserströme, insbesondere für Sanitärabwasser, Produktionsabwasser, Kühlwasser und Niederschlagswasser über die einzelnen Behandlungssysteme bis zu den Einleitungsstellen.
 c) Darstellung der einzelnen Behandlungssysteme bei Anlagen nach DIN 1999 und DIN 4040 mit zusätzlicher Angabe des Fabrikats und der vorschriftsmäßigen Bemessung.
 d) Darstellung der Einzugsgebiete von Bodenabläufen, insbesondere bei nicht überdachten Flächen (Erläuterung durch Schraffur oder auf andere geeignete Weise).
 e) Darstellung weiterer wichtiger Einrichtungen wie Speicherbecken und Absperrschieber;
-4. Grundrisse der einzelnen Gebäudegeschosse im Maßstab 1:1000 mit Eintragung der geplanten Nutzung der Räume, der Entwässerungsgegenstände und der Entwässerungsleitungen;
-5. Schnittzeichnungen mit Eintragungen der Entwässerungsleitungen von der entferntesten Einlaufstelle bis zu den öffentlichen Straßenkanälen. Es sind die Höhenangaben auf NN (bezogen auf Normal-Null) am Straßenkanal, an der Grundstücksgrenze, in den Schächten und Entwässerungsleitungen sowie die Zwischenlängen und Gefälle anzugeben. Die Keller- und Erdgeschossfußböden sind auf NN zu beziehen;
+4. Grundrisse der einzelnen Gebäudegeschosse im Maßstab 1:1 000 mit Eintragung der geplanten Nutzung der Räume, der Entwässerungsgegenstände und der Entwässerungsleitungen;
+5. Schnittzeichnungen mit Eintragungen der Entwässerungsleitungen von der entferntesten Einlaufstelle bis zu den öffentlichen Straßenkanälen. Es sind die Höhenangaben auf NN (bezogen auf Normal-Null) am Straßenkanal, an der Grundstücksgrenze, in den Schächten und Entwässerungsleitungen sowie die Zwischenlängen und Gefalle anzugeben. Die Keller- und Erdgeschossfußböden sind auf NN zu beziehen;
 6. die Baubeschreibung;
 7. ein Erläuterungsbericht mit folgenden Inhalten:
 a) Beschreibung des Fabrikationsvorganges/Arbeitsablaufes,

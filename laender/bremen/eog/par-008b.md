@@ -19,6 +19,6 @@ der Ort, an dem Abwasser vor der Vermischung mit anderem Abwasser behandelt word
 6. Vermischung:
 die Zusammenführung von Abwasserströmen unterschiedlicher Herkunft;
 7. Parameter:
-eine chemische, physikalische oder biologische Messgröße, die in der Anlage aufgeführt ist,
+eine chemische, physikalische oder biologische Messgröße, die in Anlage 2 aufgeführt ist,
 8. Mischungsrechnung:
 die Errechnung einer zulässigen Fracht oder Konzentration, die sich aus den die einzelnen Abwasserströme betreffenden Anforderungen dieses Ortsgesetzes ergibt.

@@ -1,1 +1,1 @@
-# Entwässerungsortsgesetz (EOG) in der Fassung der Bekanntmachung vom 3. Juli 2002
+# Entwässerungsortsgesetz (EOG) in der Fassung der Bekanntmachung vom 1. März 2012
