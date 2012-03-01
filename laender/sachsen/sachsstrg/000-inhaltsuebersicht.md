@@ -62,7 +62,7 @@ Zweiter Teil Straßenbaulastträger, Aufsicht und Zuständigkeit
 § 50 Behörden nach dem Bundesfernstraßengesetz
 § 50a Unterhaltung und Instandsetzung der Bundesstraßen
 § 51 Beleuchtung, Straßenreinigung, Winterdienst
-Dritter Teil Ordnungswidrigkeiten, Übergangs- und Schlußbestimmungen
+Dritter Teil Ordnungswidrigkeiten, Übergangs- und Schlussbestimmungen
 § 52 Ordnungswidrigkeiten
 § 53 Einteilung der vorhandenen öffentlichen Straßen
 § 54 Straßen- und Bestandsverzeichnisse
@@ -72,4 +72,4 @@ Dritter Teil Ordnungswidrigkeiten, Übergangs- und Schlußbestimmungen
 § 58 Sondernutzung
 § 59 (aufgehoben)
 § 60 (aufgehoben)
-§ 61 Schlußbestimmungen
+§ 61 Schlussbestimmungen
