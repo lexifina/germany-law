@@ -1,4 +1,4 @@
-# Verordnung des Sächsischen Staatsministeriums für Wirtschaft und Arbeit über die Straßen- und Bestandsverzeichnisse (StraBeVerzVO)
+# Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr über die Straßen- und Bestandsverzeichnisse (StraBeVerzVO)
 Vom 4. Januar 1995
-Rechtsbereinigt mit Stand vom 1. August 2008
+Rechtsbereinigt mit Stand vom 1. März 2012
 Aufgrund von § 4 Satz 5 des Straßengesetzes für den Freistaat Sachsen (Sächsisches Straßengesetz – SächsStrG) vom 21. Januar 1993 (SächsGVBl. S. 93), zuletzt geändert durch Artikel 8 des Gesetzes vom 4. Juli 1994 (SächsGVBl. S. 1261), wird verordnet:
