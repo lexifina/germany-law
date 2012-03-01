@@ -1,0 +1,6 @@
+# TOP 2.: Jugendarbeit in Kirchlengern
+
+- Sitzung: Ausschuss für Schule, Jugend, Familie und Kultur (7. Sitzung) (2012-03-01)
+- Körperschaft: Gemeinde Kirchlengern
+- Öffentlich: ja
+- OParl: https://kirchlengern.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15119
