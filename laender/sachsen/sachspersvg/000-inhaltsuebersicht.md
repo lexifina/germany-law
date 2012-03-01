@@ -1,4 +1,3 @@
-## Sächsisches Personalvertretungsgesetz (SächsPersVG) Rechtsbereinigt mit Stand vom 21. November 2010
 # Inhaltsverzeichnis
 Teil 1 Allgemeine Vorschriften
 § 1 Geltungsbereich
