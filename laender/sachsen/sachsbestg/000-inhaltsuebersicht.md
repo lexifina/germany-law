@@ -4,7 +4,7 @@ Erster Abschnitt Friedhofswesen
 § 2 Gemeindefriedhöfe
 § 3 Andere Friedhöfe und Bestattungsplätze
 § 4 Friedhöfe nichtgemeindlicher Träger
-§ 5 Standort-und Abstandsregeln
+§ 5 Standort- und Abstandsregeln
 § 6 Ruhezeit
 § 7 Benutzungsordnung der Gemeindefriedhöfe
 § 8 Schließung und Aufhebung von Bestattungsplätzen
@@ -27,7 +27,7 @@ Dritter Abschnitt Bestattungswesen
 § 20 Einäscherungsanlagen
 § 21 Bestatter, Totengräber
 § 22 Ausgrabung, Umbettung
-Vierter Abschnitt Ordnungswidrigkeiten, Ermächtigungen und Schlußbestimmungen
+Vierter Abschnitt Ordnungswidrigkeiten, Ermächtigungen und Schlussbestimmungen
 § 23 Ordnungswidrigkeiten
 § 24 Ermächtigungen
 § 25 Sonderbestimmungen
