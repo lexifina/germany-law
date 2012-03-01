@@ -1,8 +1,8 @@
 # Die Förderung nach dieser Richtlinie dient der Verbesserung der Bedingungen im schienen- und straßengebundenen öffentlichen Personennahverkehr (ÖPNV) im Freistaat Sachsen. 1.2 Der Freistaat Sachsen gewährt für diese Zwecke nach den §§ 23, 44 der Haus
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-12-31 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/11471.2
+- Datum: 2012-03-01 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/11471.3
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -24,13 +24,19 @@ Die Förderung nach dieser Richtlinie dient der Verbesserung der Bedingungen im 
 
 Der Freistaat Sachsen gewährt für diese Zwecke nach den §§ 23, 44 der Haushaltsordnung des Freistaates Sachsen (Sächsische Haushaltsordnung –
 SäHO) in der Fassung der Bekanntmachung vom 10. April 2001 (SächsGVBl. S. 153), die zuletzt durch Artikel 2 des Gesetzes vom 12. Dezember 2008 (SächsGVBl. S. 866) geändert worden ist, in der jeweils geltenden Fassung, und nach Maßgabe der Verwaltungsvorschriften des Sächsischen Staatsministeriums der Finanzen zur Sächsischen Haushaltsordnung (
-VwV-SäHO) vom 27. Juni 2005 (SächsABl. SDr. S. S 225), zuletzt geändert durch Verwaltungsvorschrift vom 14. Juli 2010 (SächsABl. S. 1111), in der jeweils geltenden Fassung, des § 8 Abs. 2 des Gesetzes zur Regionalisierung des öffentlichen Personennahverkehrs (
-Regionalisierungsgesetz –
+VwV-SäHO
+
+) vom 27. Juni 2005 (SächsABl. SDr. S. S 225), zuletzt geändert durch Verwaltungsvorschrift vom 14. Juli 2010 (SächsABl. S. 1111), in der jeweils geltenden Fassung, des § 8 Abs. 2 des Gesetzes zur Regionalisierung des öffentlichen Personennahverkehrs (
+Regionalisierungsgesetz
+–
 RegG) vom 27. Dezember 1993 (BGBl. I S. 2378, 2395), das zuletzt durch Gesetz vom 12. Dezember 2007 (BGBl. I S. 2871) geändert worden ist, des Gesetzes über Finanzhilfen des Bundes zur Verbesserung der Verkehrsverhältnisse der Gemeinden (
-Gemeindeverkehrsfinanzierungsgesetz –
+
+Gemeindeverkehrsfinanzierungsgesetz
+–
 GVFG) in der Fassung der Bekanntmachung vom 28. Januar 1988 (BGBl. I S. 100), zuletzt geändert durch Artikel 4 des Gesetzes vom 22. Dezember 2008 (BGBl. I S. 2986, 2998), des Gesetzes über den öffentlichen Personennahverkehr im Freistaat Sachsen (
-ÖPNVG) vom 14. Dezember 1995 (SächsGVBl. S. 412, 449), zuletzt geändert durch Artikel 10a des Gesetzes vom 29. Januar 2008 (SächsGVBl. S. 102, 133), der Verordnung des Sächsischen Staatsministeriums für Wirtschaft und Arbeit zur Finanzierung des öffentlichen Personennahverkehrs (
-ÖPNVFinVO) vom 29. April 2009 (SächsGVBl. S. 232) und dieser Richtlinie Zuwendungen für Maßnahmen zur Verbesserung des ÖPNV im Freistaat Sachsen.
+
+ÖPNVG) vom 14. Dezember 1995 (SächsGVBl. S. 412, 449), zuletzt geändert durch Artikel 10a des Gesetzes vom 29. Januar 2008 (SächsGVBl. S. 102, 133), der Verordnung des Sächsischen Staatsministeriums für Wirtschaft, Arbeit und Verkehr zur Finanzierung des öffentlichen Personennahverkehrs (
+ÖPNVFinVO) vom 29. April 2009 (SächsGVBl. S. 232), geändert durch Verordnung vom 21. Dezember 2010 (SächsGVBl. S. 444) und dieser Richtlinie Zuwendungen für Maßnahmen zur Verbesserung des ÖPNV im Freistaat Sachsen.
 
 1.3
 
@@ -52,8 +58,8 @@ Gegenstand der Förderung
 2.1
 
 Förderfähig sind Vorhaben, die der Verbesserung des ÖPNV dienen, insbesondere Investitionen in Infrastruktur und Fahrzeuge. Dabei können jedoch grundsätzlich nur solche Vorhaben gefördert werden, die den Anforderungen der Barrierefreiheit nach § 4 des Gesetzes zur Gleichstellung behinderter Menschen (
-Behindertengleichstellungsgesetz –
-BGG) vom 27. April 2002 (BGBl. I S. 1467, 1468), das zuletzt durch Artikel 12 des Gesetzes vom 19. Dezember 2007 (BGBl. I S. 3024, 3034) geändert worden ist, entsprechen. Nach Anhörung der zuständigen Behindertenbeauftragten oder der zuständigen Behindertenbeiräte können im Einzelfall auch Fahrzeuge ohne barrierefreie Ausstattung gefördert werden. Verfügt eine Gebietskörperschaft nicht über Behindertenbeauftragte oder Behindertenbeiräte, sind stattdessen die Verbände, die nach § 13 Abs. 3
+Behindertengleichstellungsgesetz
+– BGG) vom 27. April 2002 (BGBl. I S. 1467, 1468), das zuletzt durch Artikel 12 des Gesetzes vom 19. Dezember 2007 (BGBl. I S. 3024, 3034) geändert worden ist, entsprechen. Nach Anhörung der zuständigen Behindertenbeauftragten oder der zuständigen Behindertenbeiräte können im Einzelfall auch Fahrzeuge ohne barrierefreie Ausstattung gefördert werden. Verfügt eine Gebietskörperschaft nicht über Behindertenbeauftragte oder Behindertenbeiräte, sind stattdessen die Verbände, die nach § 13 Abs. 3
 BGG anerkannt sind, anzuhören.
 
 2.2
@@ -153,7 +159,8 @@ die Ausstattung von Fahrzeugen und Haltestellen mit Sicherheitstechnik, soweit s
 –
 
 Planungs- und Projektierungsleistungen (alle Leistungsphasen der Verordnung über die Honorare für Architekten- und Ingenieurleistungen [
-Honorarordnung für Architekten und Ingenieure –
+Honorarordnung für Architekten und Ingenieure
+–
 HOAI] vom 11. August 2009 [BGBl. I S. 2732]), Abnahme- und sonstige Kosten,
 
 –
@@ -197,7 +204,9 @@ mit dem Vorhaben eine Verbesserung des ÖPNV im Freistaat Sachsen erreichbar ist
 
 die Zielsetzungen des Nahverkehrsplanes gemäß § 8 Abs. 3 des
 Personenbeförderungsgesetzes (
+
 PBefG) in der Fassung der Bekanntmachung vom 8. August 1990 (BGBl. I S. 1690), das zuletzt durch Artikel 4 Abs. 21 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2258, 2272) geändert worden ist, in Verbindung mit § 5
+
 ÖPNVG beachtet wurden,
 
 –
@@ -289,6 +298,7 @@ Ausgaben, die ein anderer als der Träger des Vorhabens zu tragen verpflichtet i
 
 Umsatzsteuerbeträge, die der Träger des Vorhabens als Vorsteuer nach § 15 des
 Umsatzsteuergesetzes (
+
 UStG) in der Fassung der Bekanntmachung vom 21. Februar 2005 (BGBl. I S. 386), das zuletzt durch Artikel 2 Abs. 5 des Gesetzes vom 3. August 2010 (BGBl. I S. 1112, 1124) geändert worden ist, als Abzug geltend machen kann,
 
 –
@@ -372,8 +382,7 @@ Die Dauer der Zweckbindung geförderter Vorhaben – mit Ausnahme der Förderung
 
 6.2
 
-Bei der Förderung von Linienomnibussen hat die Einsatzdauer grundsätzlich mindestens acht Jahre, über- wiegend im Linienverkehr nach § 42
-PBefG zu betragen. Diese kann durch eine Laufleistung von mehr als 600 000 km überwiegend in dieser Verkehrsart ersetzt werden. Abweichend davon hat bei der Förderung von Midi- und Kleinbussen die Einsatzdauer mindestens sechs Jahre, überwiegend im Linienverkehr nach § 42
+Bei der Förderung von Linienomnibussen hat die Einsatzdauer grundsätzlich mindestens acht Jahre, über- wiegend im Linienverkehr nach § 42 PBefG zu betragen. Diese kann durch eine Laufleistung von mehr als 600 000 km überwiegend in dieser Verkehrsart ersetzt werden. Abweichend davon hat bei der Förderung von Midi- und Kleinbussen die Einsatzdauer mindestens sechs Jahre, überwiegend im Linienverkehr nach § 42
 PBefG zu betragen. Diese kann bei Midibussen durch eine Laufleistung von mehr als 500 000 km und bei Kleinbussen durch eine Laufleistung von mehr als 400 000 km überwiegend in dieser Verkehrsart ersetzt werden.
 
 6.3
@@ -439,9 +448,11 @@ Folgekostenberechnung,
 der Finanzierungsplan, aus dem der Finanzierungsanteil des Antragstellers und die gesicherte Gesamtfinanzierung (einschließlich Folgekosten) erkennbar sind.
 
 Für den Antrag ist ein Vordruck nach
-Muster 1a zu § 44 SäHO zu verwenden. Bei Anträgen von Eisenbahnverkehrsunternehmen gemäß § 3 Abs. 1 des
-Allgemeinen Eisenbahngesetzes
-(
+Muster 1a zu § 44 SäHO
+
+zu verwenden. Bei Anträgen von Eisenbahnverkehrsunternehmen gemäß § 3 Abs. 1 des
+Allgemeinen Eisenbahngesetzes (
+
 AEG) vom 27. Dezember 1993 (BGBl. I S. 2378, 2396, 1994 I S. 2439), das zuletzt durch Artikel 7 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2542, 2574) geändert worden ist, ist dem Antrag die Kopie der Genehmigung zur Erbringung von Verkehrsleistungen beizufügen, bei Anträgen von Eisenbahninfrastrukturunternehmen die Kopie der Genehmigung für das Betreiben der Infrastruktur. Die Bewilligungsbehörde kann weitergehende Unterlagen, die zur Feststellung der zuwendungsfähigen Ausgaben oder generell zur Beurteilung des Vorhabens erforderlich sind, beim Antragsteller nachfordern.
 
 7.3
@@ -450,7 +461,8 @@ Bewilligungsverfahren
 
 7.3.1
 
-Bewilligungsbehörde ist die örtlich zuständige Landesdirektion.
+Bewilligungsbehörde ist die gemäß der Verordnung des Sächsischen Staatsministeriums für Wirtschaft und Arbeit über die Zuständigkeiten zur Durchführung von Förderprogrammen und Fördermaßnahmen (Förderzuständigkeitsverordnung SMWA –
+SMWAFördZuVO) vom 20. Dezember 2005 (SächsGVBl. S. 378), zuletzt geändert durch Verordnung vom 21. Dezember 2010 (SächsGVBl. 2011 S. 37), in der jeweils geltenden Fassung, für die Förderung zuständige Behörde.
 
 7.3.2
 
@@ -710,7 +722,7 @@ Der durch die Bewilligungsbehörde geprüfte Maßnahmeplan der Kommune (Wiederau
 
 Die den Kommunen gewährten Abschlagszahlungen sind einzelmaßnahmebezogen auf die jeweilige Bewilligungssumme anzurechnen. Diese Abschläge mindern nicht die Bewilligungssumme, sie reduzieren jedoch den Auszahlungsbetrag.
 
-Soweit haushaltsrechtlich vorgesehen, ist die Oberfinanzdirektion (OFD) für die Zuwendungsbauprüfung zu beteiligen. Die Zustimmung der OFD gilt als erteilt, falls von dieser nach Aufforderung zur Stellungnahme nicht binnen 30 Tagen eine Stellungnahme vorliegt.
+Soweit haushaltsrechtlich vorgesehen, ist das Landesamt für Steuern und Finanzen für die Zuwendungsbauprüfung zu beteiligen. Die Zustimmung des Landesamtes für Steuern und Finanzen gilt als erteilt, falls von dieser nach Aufforderung zur Stellungnahme nicht binnen 30 Tagen eine Stellungnahme vorliegt.
 
 15.
 
