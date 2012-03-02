@@ -410,7 +410,7 @@ Nr. | Raumbezeichnung/Platzbedarf | Fläche pro Einheit [m²]
 29 | Verkehrsfläche | 15 Prozent
 * Die gekennzeichneten Bereiche können auch in Nebenräumen untergebracht werden.
 ** zuzüglich der für die Verkehrswege notwendige Flächen
-*** § 6 der Verordnung über Arbeitsstätten (Arbeitsstättenverordnung – ArbStättV) vom 12. August 2004 (BGBl. I S. 2179), die zuletzt durch Artikel 4 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 965) geändert worden ist, in der jeweils geltenden Fassung
+*** § 6 der Verordnung über Arbeitsstätten ( Arbeitsstättenverordnung – ArbStättV) vom 12. August 2004 (BGBl. I S. 2179), die zuletzt durch Artikel 4 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 965) geändert worden ist, in der jeweils geltenden Fassung
 4.3.2 Technikräume
 Die Vorgaben der Bausteine „Infrastruktur“ der Grundschutzkataloge des Bundesamtes für Sicherheit in der Informationstechnik (BSI) sind umzusetzen. Die nachfolgenden Räume sind den Bezeichnungen nach BSI-Grundschutz gleichzusetzen.
 Tabelle 2: Gleichsetzung der Raumbezeichnungen
@@ -448,7 +448,7 @@ Unabhängig vom Tageslichteinfall ist der Leitstellenraum, entsprechend den allg
 4. die Berufsgenossenschaftlichen Informationen (BGI) 856 „Hilfen für die Planung von Beleuchtungsanlagen von Räumen mit Bildschirm- und Büroarbeitsplätzen“, Ausgabe: März 2005, herausgegeben von der Verwaltungs-Berufsgenossenschaft und zu beziehen über C. L. Rautenberg-Druck.
 4.3.3.3 Lärmschutz
 Lärmschutzmaßnahmen sind einzurichten und durch entsprechende Messungen vor der Inbetriebnahme und während des Regelbetriebes nachzuweisen. Folgende Normen sind mindestens zu berücksichtigen und deren Vorgaben sind einzuhalten:
-1. die Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen (Lärm- und Vibrations-Arbeitsschutzverordnung – LärmVibrationsArbSchV) vom 6. März 2007 (BGBl. I S. 261), die zuletzt durch Artikel 3 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 964) geändert worden ist, in der jeweils geltenden Fassung;
+1. die Verordnung zum Schutz der Beschäftigten vor Gefährdungen durch Lärm und Vibrationen ( Lärm- und Vibrations-Arbeitsschutzverordnung – LärmVibrationsArbSchV) vom 6. März 2007 (BGBl. I S. 261), die zuletzt durch Artikel 3 der Verordnung vom 19. Juli 2010 (BGBl. I S. 960, 964) geändert worden ist, in der jeweils geltenden Fassung;
 2. die VDI-Richtlinie 2569 „Schallschutz und akustische Gestaltung im Büro“, Ausgabe: Januar 1990, in den jeweils geltenden Fassungen, zu beziehen über die Beuth Verlag GmbH, Berlin, und beim Deutschen Patentamt archivmäßig gesichert niedergelegt.
 4.3.3.4 Klimatechnik
 Die Klimatisierung des Leitstellenraums ist für eine Temperatur von 19 bis 24 Â°C und eine relative Luftfeuchtigkeit zwischen 40 und 70 Prozent auszulegen. Die Raumbelüftung muss mit einer Luftgeschwindigkeit von 0,1 m/s erfolgen. Folgende Normen sind mindestens zu berücksichtigen und deren Vorgaben sind einzuhalten:
