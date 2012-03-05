@@ -1,0 +1,68 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2012-03-05T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2574617
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2574617
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzen Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Neuwahl des Vorsitzenden des Unterausschusses Verkehr
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 2.1.: Abfallkörbe im Sendlinger Unterfeld
+- TOP 2.2.: Bericht von der Arbeit des Mieterbeirats
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Mieterbeiratswahl 2012; Entsendung von Mitgliedern
+- TOP 3.2.: Aktionstag für Familien am 04.05.2012
+- TOP 3.3.: Bewohnertreff Theresienhöhe
+- TOP 4: Referat für Bildung und Sport
+- TOP 5.1.: Ganghoferstr. 76; Erweiterung einer bestehenden Freischankfläche
+- TOP 6.1.: Bericht von der Unterausschusssitzung Verkehr am 13.02.2012
+- TOP 6.2.: Ostermarkt am Flaucher am 17.-18 und 24.-25.03.2012
+- TOP 6.3.: Rückumwandlung des Parkplatzes für Krafträder in der Valleystraße
+- TOP 6.4.: Unfallhilfewagen der MVG
+- TOP 6.5.: Einrichtung einer Spielstraße in der Valleystraße zwischen Danklstraße und Aberlestraße - <div>Vertagt bis zur Stellungnahme des Baureferates</div>
+- TOP 6.6.: Aufhebung der Bücherbushaltestelle in der Thalkirchner Straße auf Höhe Pullacher Platz
+- TOP 6.7.: Informationsveranstaltung der SWM am 20.03.12 um 18:00 Uhr
+- TOP 6.8.: Notwendige Beschilderung des Fuß- und Radwegübergangs von der Albert-Roßhaupter-Str. in die Karwendelstr. - <div>zustimmende Kenntnisnahme</div>
+- TOP 7.1.: Budgetantrag der Sendlinger Kulturschmiede e.V., Straßenfest am 28.07.2012; ? 1.800,- - <div>Zustimmung, einstimmig in voller Höhe</div>
+- TOP 7.2.: Änderung der BA-Satzung; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Aberlestr. 31 - 35, DG-Ausbau; Antwort
+- TOP 8.3.: Bauvorhaben Aberlestr. 31-35, Neubau 4 Wohnungen und Kinderkrippe; Antwort
+- TOP 8.4.: Bauvorhaben Schäftlarnstr. 32; Antwort
+- TOP 8.5.: Bauvorhaben Fallstr. 42; Antwort
+- TOP 8.6.: Bauvorhaben Königsdorfer Str., Anwohnerparkgarage; Antwort
+- TOP 8.7.: Zukunft des geförderten Wohnungsbaus in München
+- TOP 8.8.: Wohnen in München V
+- TOP 8.9.: 2te S-Bahnstammstrecke
+- TOP 8.10.: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen
+- TOP 8.11.: Bauvorhaben Senserstr. 3
+- TOP 8.12.: Werbung für Spielhallen auf Bussen der MVG
+- TOP 8.13.: Perspektive München; Leitlinie Ökologie
+- TOP 8.14.: Ökologischer Kriterienkatalog
+- TOP 9: Baureferat
+- TOP 9.1.: Bepflanzung einer Grünfläche an der Schöttlstraße / Fallstraße
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Lipowskystr. 28
+- TOP 10.2.: Baumfällung Fallstr. 34
+- TOP 10.3.: Weiterentwicklung des urbanen Naturnetzwerks
+- TOP 10.4.: Füttern von wilden Tauben
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Einrichtung einer Tempo-30-Zone Am Isarkanal; Einfahrtverbot in die Hans-Preißinger-Straße ab Parkplatz Am Isarkanal - <div>Zustimmung, einstimmig</div>
+- TOP 2: (E) Gegenläufiger Radverkehr auf der Südseite der Radlkoferstraße zulassen - <div>zustimmende Kenntnisnahme mit Vorbehalt</div>
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 13.1.: Mehrjahresinvestitionsprogramm 2011 ? 2015
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
