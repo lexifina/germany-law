@@ -1,0 +1,56 @@
+# 11. Sitzung des Planungsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2012-03-05T10:00:00+01:00
+- Ende: 2012-03-05T12:10:00+01:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-PA-11
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-PA-11
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-PA-11
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-PA-11
+
+## Tagesordnung
+
+- TOP 1: Formalia
+- TOP 1.1: Feststellung der Tagesordnung
+- TOP 1.2: Genehmigung der Niederschrift der 10. Sitzung des Planungsausschusses am 29.11.2011
+- TOP 2: Angelegenheiten nach Landesplanungsgesetz
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2: Städtebauförderung hier: Aufstellung des Stadterneuerungsprogramms 2012
+- TOP 2.3: Städtebauförderung hier: Abwicklung des Stadterneuerungsprogramms 2011
+- TOP 2.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.5: Jahresbericht 2011 zur ländlichen Entwicklung und Bodenordnung, Rückblick auf das vergangene Jahr
+- TOP 2.6: Gefährdungsabschätzung und Sanierung von Altlasten; Rückblick auf 2011
+- TOP 2.7: Wasserwirtschaftliche Förderprogramme im Gewässerausbau - Rückblick 2011
+- TOP 2.8: Übersicht über die Förderung auf dem Gebiet des Naturschutzes und der Landschaftspflege im Jahr 2011
+- TOP 2.9: Abschlussbericht über das Projekt Konjunkturpaket II Kenntnisnahme
+- TOP 2.10: Bericht über den aktuellen Stand der Überarbeitung des landesweiten Abfallwirtschaftsplans -Teilplan Siedlungsabfälle hier: Kenntnisnahme
+- TOP 2.11: Abgrabung im Bereich Ginderich - Pettenkaul hier: Anregung der Stadt Wesel zur Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99)
+- TOP 2.12: Kraftwerksstandort Bislich Vahnum hier: Anregung der Stadt Wesel zur Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99)
+- TOP 2.13: Anfragen und Mitteilungen
+- TOP 2.13.1: Anfrage der CDU-Fraktion zum Thema 'Deichsanierung Xanten-Wardt' vom 07.11.2011
+- TOP 2.13.2: Bericht über laufende Verfahren
+- TOP 2.13.3: Anfrage der CDU-Fraktion zu den Auswirkungen der Aufhebung der 1. Teilgenehmigung für das Steinkohlekraftwerk Trianel, Lünen, durch das OVG Münster
+- TOP 3: Angelegenheiten nach RVR-Gesetz
+- TOP 3.1: Haushaltsplan für das Jahr 2012 für die Referate 8, 9 und 15
+- TOP 3.2: Planfeststellungsverfahren für die Ausbaustrecke Oberhausen - Emmerich
+- TOP 3.2.1: Fortsetzung Betuwe. Hier: Mündlicher Bericht des Sprechers des Arbeitskreises Betuwe
+- TOP 3.2.2: Beteiligung im Planfeststellungsverfahren für die Ausbaustrecke Oberhausen - Emmerich Hier: Stellungnahme des RVR als Träger öffentlicher Belange
+- TOP 3.3: 2012: 100 Jahre Robert Schmidt - 100 Jahre regionales Denken und Handeln im Revier. Hier: Umsetzungs- und Finanzierungskonzept
+- TOP 3.4: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen
+- TOP 3.4.1: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen. Hier: Antrag für das Feld 'Falke-South' - Stellungnahmen der Regionalplanungsbehörde sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange
+- TOP 3.4.2: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen. Hier: Antrag für das Feld 'WeselGas' - Stellungnahmen der Regionalplanungsbehörde sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange
+- TOP 3.4.3: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen. Hier: Erlaubniserteilung für das Feld 'Donar' und Hinweise zu Stellungnahmen durch Bezirksregierung Arnsberg
+- TOP 3.5: Konzeptstudie Radschnellweg
+- TOP 3.6: Interkommunale Gewerbeflächenentwicklung im Ennepe-Ruhr-Kreis. Hier: Sachstandsbericht
+- TOP 3.7: Windenergieanlagen (WEA) auf Halden des RVR
+- TOP 3.8: Anfragen und Mitteilungen
+- TOP 3.8.1: Bericht über laufende Verfahren
+- TOP 3.8.2: Sachstand Abstimmung Regionales Radwegenetz
+- TOP 4: Regionaler Diskurs/ Regionalplan Ruhr
+- TOP 4.1: Regionaler Diskurs - ...auf dem Weg in die Zukunft der Metropole Ruhr. Hier: Dokumentation Regionalforum Herausforderungen
+- TOP 4.2: Ideenwettbewerb zur Zukunft der Metropole Ruhr. Hier: Sachstandsbericht
+- TOP 4.3: Regionaler Diskurs - ...auf dem Weg in die Zukunft der Metropole Ruhr. Hier: Sachstandsbericht Fachdialoge
