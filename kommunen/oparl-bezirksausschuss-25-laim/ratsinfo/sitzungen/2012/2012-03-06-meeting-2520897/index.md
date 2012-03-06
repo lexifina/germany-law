@@ -1,0 +1,97 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-03-06T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2520897
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2520897
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Vorstellung Münchner Mieter Initiativen Vernetzung "Bündnis Bezahlbares Wohnen"
+- TOP 1.2.2.: Fußgängerbrücken
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Haltverbot vor der Kreuzung Elsenheimer- / Landsberger Straße
+- TOP 2.2.: CSU: Fahrradabstellflächen am Laimer Platz
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 4.311,38 Euro für Kauf und Montage eines Klettergerüstes; Antragsteller: Elternbeirat der städt. Kita Riegerhofweg - <div>vertagt</div>
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 1.802 Euro für Erlebnistage im Bayerischen Wald vom 11.-15.06.12; Antragsteller: Stüps - Schulsozialarbeit (Laim), schule-beruf e.V. - <div>nach Antrag</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.450 Euro für das Aufstellen eines Maibaums auf dem Laimer Anger am 01.02.12; Antragsteller: Laimer Maibaumfreunde e.V. - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.4.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 3.150 Euro für Maitanz am 01.05.12 auf dem Laimer Anger; Antragsteller: Laimer Maibaumfreunde e.V. - <div>nach Antrag</div>
+- TOP 3.5.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 600 Euro für Gewaltpräventionsprojekt vom 14.-16.05.12; Antragsteller: Elternbeirat der Grundschule Droste-Hülshoff-Straße - <div>nach Antrag</div>
+- TOP 6: Beschlussvorlage Kreisverwaltungsreferat: Maßnahmen, um den Fußgängerüberweg an der Ampelanlage Gotthard-/ Stroblstraße sicherer zu gestalten (Empfehlung Nr. 08-14 / E 01157 der Bürgerversammlung vom 15.11.11) =&gt; dazu Schreiben Elternbeirat Camerloherschule vom 16.01.12 (Vertagung aus der BA-Sitzung vom 14.02.12) - <div>vertagt</div>
+- TOP 7: Beschlussvorlage Kreisverwaltungsreferat: Befreiung von der Benutzungspflicht für Radwege, wenn diese keine Mindeststandards aufweisen (Empfehlung Nr. 08-14 / E 01153 der Bürgerversammlung vom 15.11.11) - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Kreisverwaltungsreferat vom 31.01.12: Flohmarkt am 24.03.12 auf dem Laimer Platz
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 31.01.12: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Rappstraße
+- TOP 4.3.: Schreiben Baureferat vom 28.01.12: Erinnerungsverfahren Riegerhofstraße zwischen Valpichler- und Gotthardstraße
+- TOP 4.4.: Schreiben Direktorium vom 27.01.12: Änderung der Satzung der Münchner Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen (Antrag Nr. 08-14 / B 03354 des BA 7 Sendling-Westpark vom 11.10.11)
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 15.02.12: Flohmarkt am 05.05.12 auf dem Weißenfelderplatz
+- TOP 4.6.: Schreiben Sozialreferat vom 15.02.12: Aktionstag für Familien am 04.05.12
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 22.02.12: Flohmarkt am 17.03.12 auf dem Spielplatz Valpichlerstraße / Von-der-Pfordten-Straße
+- TOP 4.8.: Schreiben Referat für Gesundheit und Umwelt vom 22.02.12: Mobilfunk; Suchkreismeldung im Suchkreis Westend_Ost_Kapa_3G, Suchkreis-Nr. 510310414
+- TOP 4.9.: Schreiben Kreisverwaltungsreferat vom 20.01.12: Lichtzeichenanlagen-Bauprogramm 2012 (Vertagung aus der BA-Sitzung vom 14.02.12)
+- TOP 4.10.: Schreiben Stadtkämmerei vom 20.02.12: Mittelfristige Finanzplanung 2011-2015; Mehrjahresinvestitionsprogramm - Anhörungsverfahren Fortschreibung für die Jahre 2012 bis 2016
+- TOP 4.11.: Schreiben Kreisverwaltungsreferat vom 24.02.12: Maibaumfest am 15.04. und 01.05.12 auf dem Laimer Anger
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Von-der-Pfordten-Str. 38: Abbruch einer Garage und Neubau eines Einfamilienhauses mit Garage; hier: Baupläne und Baumbestandsplan
+- TOP 5.2.: Fachnerstr. 55: Sanierung und Änderung der Fassade, Nutzungsänderung von Pension und von Laden zu Wohnen, Anbau Balkone, DG-Neubau, Errichtung eines Mehrfamilienhauses mit Tiefgarage (Fachnerstr. 55 / Friedenheimer Str. 137 / Kirchwaldstr. 6) / Tektur; hier: Baupläne
+- TOP 5.3.: Riegerhofstr. 18-20: Erweiterung der Freisportanlage; hier: Baupläne, Freiflächengestaltungs- und Baumbestandsplan
+- TOP 5.4.: Byecherstr. 30: Neubau eines Einfamilienhauses; hier: Baupläne und Baumbestandsplan
+- TOP 5.5.: Altmannstr. 5: Abbruch eines Wohnhauses sowie Neubau eines Einfamilienhauses auf dem bestehenden Keller; hier: Baupläne und Baumbestandsplan
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Kultur vom 31.01.12
+- TOP 7.2.: BA-Sitzung vom 07.02.12
+- TOP 8: Umlauf
+- TOP 8.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8.2.: Schreiben Direktorium vom 02.02.12: Insolvenzantragsverfahren über das Vermögen von LILALU e.V.
+- TOP 8.3.: Schreiben Direktorium vom 27.02.12: Bewilligung einer Zuwendung aus dem BA-Budget; Antragsteller: Drachenei e.V.
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 18.07.11: Aufhebung der Radwegbenutzungspflicht in der Friedenheimer Straße zwischen Hogenberg- und Gotthardstraße sowie zwischen Heinrich-Heine- und Zschokkestraße
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 02.09.11: Aufhebung der Radwegbenutzungspflicht in der Senftenauerstraße
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 02.09.11: Aufhebung der Radwegbenutzungspflicht in der Siglstraße
+- TOP 8.7.: Schreiben Kreisverwaltungsreferat vom 07.02.2012: Erstellung Zebrastreifen in der Elsenheimerstraße (Schreiben BA vom 25.01.12)
+- TOP 8.8.: Schreiben Kreisverwaltungsreferat vom 22.02.12: Situation der Radfahrer in der Agnes-Bernauer-Straße zwischen Fürstenrieder Straße und Lutzstraße (Schreiben BA vom 25.01.12)
+- TOP 8.9.: Schreiben Baureferat vom 24.01.12: U-Bahnausbau nach Pasing; Umgehende Umsetzung der Planung gemäß dem Nahverkehrsplan von 2003 sowie Offenhaltung der Option einer späteren Weiterführung nach Freiham (Antrag Nr. 08-14 / B 03535 vom 06.12.11) sowie Planungen zum Weiterbau der U 5 nach Pasing; Auskunft zum Stand der Planung sowie zügige Vorantreibung der Planungen (Antrag Nr. 08-14 / B 03536 vom 06.12.11)
+- TOP 8.11.: Schreiben Planungsreferat vom 01.02.12: Liste der beantragten Abgeschlossenheitsbescheinigungen vom 16.01.-01.02.12
+- TOP 8.12.: Schreiben Planungsreferat vom 07.02.12: Landsberger Str. 240; Neubau eines Autozentrums mit Tiefgarage
+- TOP 8.13.: Schreiben Planungsreferat vom 02.02.12: Münchner Bürgerinnen- und Bürgerbefragung 2010
+- TOP 8.14.: Schreiben Planungsreferat vom 13.02.12: Lanzstr. 21; Fällungsantrag vom 12.01.12
+- TOP 8.15.: Schreiben Planungsreferat vom 14.02.12: Joergstr. 79; Fällungsantrag vom 28.12.11
+- TOP 8.16.: Schreiben Planungsreferat vom 14.02.12: Inderstorferstr. 57; Fällungsantrag vom 27.12.11
+- TOP 8.17.: Schreiben Planungsreferat vom 13.02.12: Rushaimerstr. 6; Hinterhofbebauung - Vorbescheid
+- TOP 8.18.: Schreiben Planungsreferat vom 14.02.12: Fürstenrieder Str. 35; Anbau an ein Wohn- und Geschäftshauses und Neubau eines Doppelhauses (Variante 1); Neubau eines Wohn- und Geschäftsgebäudes und eines Doppelhauses (Variante 2) / Vorbescheid
+- TOP 8.20.: Schreiben Planungsreferat vom 23.02.12: Fürstenrieder Str. 35: Anbau an ein Wohn- und Geschäftshaus und Neubau eines Doppelhauses (Variante 1); Neubau eines Wohn- und Geschäftsgebäudes und eines Doppelhauses (Variante 2) / Vorbescheid
+- TOP 8.21.: Schreiben Referat für Arbeit und Wirtschaft vom 31.01.12: Wirtschafts-Info 01/2012
+- TOP 8.22.: Schreiben Referat für Arbeit und Wirtschaft vom 16.02.12: Europe Direct Inforamtionen 01/2012
+- TOP 8.23.: Schreiben Sozialreferat vom 03.02.12: "Kinderorte im Stadtteil sichtbar machen - Spielorte (neu) entdecken!" - Dokumentation zum 1. Pilotprojekt in Laim 2011
+- TOP 8.24.: Schreiben Sozialreferat vom 22.02.12: Zweckentfremdung von Wohnraum durch Abbruch; Altmannstraße
+- TOP 8.25.: Schreiben Referat für Gesundheit und Umwelt vom 16.02.12: Einladung zum Fachforum "LED und LEC: Schöne und Lampen & Leuchten" am 07.03.12
+- TOP 8.26.: Schreiben Referat für Gesundheit und Umwelt vom 16.02.12: Einladung zur Veranstaltung "Holzbau für Kinder-, Jugend- und Bildungseinrichtungen" am 16.03.12
+- TOP 8.27.: Bautenliste vom 23.01.-29.01.12: 1. Erstantragsverfahren a) Riegerhofstr. 18 2. Änderungsverfahren a) Von-der-Pfordten-Str. 38
+- TOP 8.28.: Bautenliste vom 30.01.-05.02.12: 1. Erstantragsverfahren a) Mathunistr. 1 b) Altmannstr. 5 2. Änderungsverfahren a) Fachnerstr. 55 3. Abbruchanzeigen, Zustimmungsverfahrne, Vorbescheide etc. a) Altmannstr. 5
+- TOP 8.29.: Bautenliste vom 06.02.-12.02.12: 1. Erstantragsverfahren a) Schäufeleinstr. 20 b) Veit-Stoß-Str. 94 c) Fachnerstr. 29 d) Diesterweg 9 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Helmpertstr. 3 b) Rushaimerstr. 6
+- TOP 8.30.: Bautenliste vom 13.02.-19.02.12: 1. Änderungsverfahren a) Isbertstr. 8b
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 30.01.12: Baumaßnahmen der Stadtwerke München; Stichtag: 30.01.12
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 06.02.12: Baumaßnahmen der Stadtwerke München; Stichtag: 06.02.12
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 13.02.12: Baumaßnahmen der Stadtwerke München; Stichtag: 13.02.12
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 20.02.12: Baumaßnahmen der Stadtwerke München; Stichtag: 20.02.12
+- TOP 8.35.: Beschluss der Vollversammlung vom 25.01.12: Preis für Stadtbildpflege; Wettbewerb "Denkmalschutz und Neues Bauen", Erweiterung der Wettbewerbskriterien, zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus, Ergänzung der Wettbewerbsbezeichung (Sitzungsvorlage Nr. 08-14 / V 08371)
+- TOP 8.36.: Beschluss der Vollversammlung vom 25.01.12: 2. Stammstrecke; Forderungen des Freistaates Bayern, Bericht über Fachgespräch auf Arbeitsebene vom 13.01.12 (Sitzungsvorlagen Nr. 08-14 / V 08567)
+- TOP 8.37.: Beschluss der Vollversammlung vom 25.01.12: Zukunft des geförderten Wohnungsbaus in München (Sitzungsvorlage Nr. 08-14 / V 08223)
+- TOP 8.38.: Beschluss der Vollversammlung vom 25.01.12: Beschleunigung der Buslinie 152 (Sitzungsvorlage Nr. 08-14 / V 08417)
+- TOP 8.39.: Beschluss der Vollversammlung vom 01.02.12: Wohnungspolitisches Handlungsprogramm "Wohnen in München V", Wohnungsbauoffensive 2012-2016 (Sitzungsvorlage Nr. 08-14 / V 08187)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 01.02.12: Genossenschaftsidee fördern II, "Hamburger Modell" zur Grundstücksvergabe an Genossenschaften und Baugemeinschaften darlegen (Sitzungsvorlage Nr. 08-14 / V 08045)
+- TOP 8.41.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.12: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen (Sitzungsvorlage Nr. 08-14 / V 08771)
+- TOP 8.42.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 07.03.12: Perspektive München, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz, Öffentlichkeitsphase und Einarbeitung (Sitzungsvorlage Nr. 08-14 / V 07948)
+- TOP 8.43.: Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltausschusses vom 07.03.12: Ökologischer Kriterienkatalog (Sitzungsvorlage Nr. 08-14 / V 08797)
+- TOP 8.44.: Schreiben Laimer Maibaumfreunde e.V. vom 30.01.12: Verwendungsnachweis über Budgetzuschuss für Adventdult am 03. / 04.12.11
+- TOP 8.45.: Schreiben TU München vom 24.02.12: Kolloquium MVG-TUM: Der öffentliche Verkehr als Katalysator für die Stadtentwicklung
+- TOP 8.46.: Münchner Statistik; 3. Quartalsheft, Jahrgang 2011
+- TOP 8.47.: Schriftverkehr aus der BA-Sitzung vom 07.02.12
+- TOP 1.2: Bürgerpost an den BA
