@@ -1,0 +1,7 @@
+# TOP 11: Antrag eines Mitgliedes des Ortsrates Schiffdorf auf Installation einer Lautsprecheranlage im Ratssaal des Rathauses Schiffdorf
+
+- Sitzung: Ortsrat Schiffdorf (24. Sitzung) (2012-03-06)
+- Körperschaft: Gemeinde Schiffdorf
+- Öffentlich: ja
+- OParl: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/15489
+- Beratung: https://schiffdorf.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/4656
