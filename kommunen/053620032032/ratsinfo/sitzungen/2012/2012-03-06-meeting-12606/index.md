@@ -1,0 +1,64 @@
+# Haupt- und Finanzausschuss (16. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-03-06T17:02:00+01:00
+- Ende: 2012-03-06T22:20:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-483
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZY6_T4Yix8BOkbdjRPStuNQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12606
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Haupt- und Finanzausschuss) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWe27T680CURhNiVNkJA7Zvu6-0_kijs0CgoGi3oz0xT/Oeffentliche_Niederschrift_Haupt-_und_Finanzausschuss_06.03.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 15. Sitzung vom 06. Dezember 2011 - (kein Text vorhanden)
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Umbesetzung von Arbeitskreisen hier: Antrag der SPD-Fraktion - (kein Text vorhanden)
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: 13. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen; hier: Einteilung des Stadtgebietes in Bezirke und Ortschaften - (kein Text vorhanden)
+- TOP 3.2: Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen, Nutzung des Inventars und der Grillhütten, den Einsatz der Sachkundigen Aufsichtsperson, für Veranstaltungen der Stadt außerhalb städtischer Liegenschaften sowie Sonderleistungen.
+- TOP 3.3: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkausstellen aus besonderem Anlass - (kein Text vorhanden)
+- TOP 4.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen IV. Quartal 2011 - (kein Text vorhanden)
+- TOP 5.: Bereitstellung von Haushaltsmitteln für Beratungsleistungen im Jahr 2011 - (kein Text vorhanden)
+- TOP 6.: Rechtsgeschäfte der laufenden Verwaltung im liegenschaftlichen Bereich hier: Festlegung einer betragsmäßigen Obergrenze - (kein Text vorhanden)
+- TOP 7.: Anregungen und Beschwerden gem. § 24 GO NRW
+- TOP 7.1: Anregung und Beschwerde gem. § 24 GO NRW hier: Umwandlung des Einbahnstraßenteiles der Manheimer Straße im Stadtteil Buir in eine zweispurige Straße - (kein Text vorhanden)
+- TOP 8.: Personal-/Stellenplanangelegenheiten
+- TOP 8.1: Erweiterung des Stellenplanes 2012 Ausschreibung der Stelle eines / einer Beigeordneten - (kein Text vorhanden)
+- TOP 8.2: Organisations- und Personalvorlage 2012 - (kein Text vorhanden)
+- TOP 8.3: Umsiedlung Manheim hier: Erstattung Personalkostenmehraufwand - (kein Text vorhanden)
+- TOP 8.4: "Kerpener Kita-Standard" - (kein Text vorhanden)
+- TOP 8.5: Erfahrungsbericht über den Maßnahmenplan zur beruflichen Gleichstellung von Frauen und Männern bei der Stadtverwaltung Kerpen - (kein Text vorhanden)
+- TOP 8.6: Maßnahmenplan zur beruflichen Chancengleichheit bei der Stadtverwaltung Kerpen für die Jahre 2012 - 2014 - (kein Text vorhanden)
+- TOP 9.: Gutachten über den Sanierungsbedarf des Europagymnasiums hier: Erster Sachstandsbericht und Angaben zum Kostenrahmen für die Sanierung der kommenden Jahre - (kein Text vorhanden)
+- TOP 10.: Antrag zur Durchführung einer Bürgerbefragung zum Thema "Sanierung der Erftlagune" - (kein Text vorhanden)
+- TOP 11.: Beratung des Entwurfs der Haushaltssatzung für das Haushaltsjahr 2012 - (kein Text vorhanden)
+- TOP 12.: Nutzung von Wireless Local Area Network (W-Lan) in Fraktions- und Sitzungsräumen - (kein Text vorhanden)
+- TOP 13.: Sicherheitssituation am Horremer und Sindorfer Bahnhof hier: Sachstandsbericht - (kein Text vorhanden)
+- TOP 14.: Einrichtung eines kommunalen Integrationszentrums in Kerpen - (kein Text vorhanden)
+- TOP 15.: Mitteilungen
+- TOP 15.1: Förderung von Projekten der Stadt Kerpen durch die Marga und Walter Boll-Stiftung in den Bereichen Jugend und Soziales - (kein Text vorhanden)
+- TOP 15.2: Entwicklung des Wochenmarktes Sindorf
+- TOP 16.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 16.1: Verkauf von Grundstücken zur Wohnbebauung
+- TOP 16.2: Wiederherstellung der Skateranlage und des Parkplatzes an der Europaschule
+- TOP 17.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 18.: Neuabschluss der auslaufenden Strom- und Gaskonzessionsverträge bzw. Kommunalisierung der Strom- und Gasnetze in Kooperation mit den Städten Bedburg, Bergheim und Elsdorf sowie Gründung einer möglichen Netzgesellschaft
+- TOP 19.: Befristete Niederschlagung einer Gewerbesteuerforderung
+- TOP 20.: Verkauf des Grundstückes Gemarkung Horrem, Flur 16, Flurstück 391 - (kein Text vorhanden)
+- TOP 21.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 21.1: Verkauf einer städtischen Fläche im Stadtteil Kerpen
+- TOP 22.: Verkauf von städtischen Flächen im Bebauungsplanbereich KE 344 "Stiftsstraße" - (kein Text vorhanden)
+- TOP 23.: Neuverpachtung städtischer Eigenjagdbezirk Parrig - (kein Text vorhanden)
+- TOP 24.: Anmietung von Räumlichkeiten im Stiftsquartier
+- TOP 25.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 25.1: Bestellung eines stellvertretenden Amtsleiters der örtlichen Rechnungsprüfung - (kein Text vorhanden)
+- TOP 26.: Mitteilungen
+- TOP 27.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 27.1: Außenanlagen neues Hallenbad Kerpen hier: Sachstandsbericht
+- TOP 27.2: Gewährleistungen im Neuen Hallenbad Kerpen
+- TOP 27.3: Reinigungsleistungen
