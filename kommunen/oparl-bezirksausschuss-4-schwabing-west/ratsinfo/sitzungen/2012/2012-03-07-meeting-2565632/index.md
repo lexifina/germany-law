@@ -1,0 +1,70 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-03-07T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2565632
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2565632
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Mittelschule an der Elisabeth-Kohn-Straße Kauf von Spielekoffern und Spielmaterial
+- TOP .2.: (E) Budget der Bezirksausschüsse Projektteam Nikotinprävention, Hermann-Frieb-Realschule Nikotinpräventionsseminar "Fiese Falle" im April 2012
+- TOP .3.: Gymnastik im Luitpoldpark: Bitte um BA-Termin mit Verwaltung und Anwohnern
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Herzogstr. 79, ?Purpur ? Atelier für Floristik und Design?: Warenauslage
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Chorgemeinschaft Ackermannbogen Konzert am 18.03.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kreuzkirche München-Schwabing Konzertlesung am 09.03.2012
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: Theatervorstellungen des FestSpielHauses am 22., 23., 29. und 30.06.2012
+- TOP .2.: Luitpoldpark: Geschichtenfestival vom 30.05. bis 03.06.2012
+- TOP .3.: Luitpoldpark: Spielfest von MobilSpiel e.V. am 29.04.2012
+- TOP .4.: Luitpoldpark: Gymnastik und Spielnachmittage ab Mai 2012
+- TOP .2.1.: Planen
+- TOP .1.: Adams-Lehmann-Straße: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .2.: Pündterplatz 1: Nutzungsänderung Laden zu Coffeeshop
+- TOP .3.: Barlachstr. 36: Umbau und Nutzungsänderung 3. + 4. OG/Haus C zu heilpädagogischer Tagesstätte und Hort
+- TOP .4.: Lissi-Kaeser-Straße: Neubau einer Wohnanlage mit Tiefgarage ( Lissi-Kaeser-Straße / Petra-Kelly-Straße)
+- TOP .5.: Elisabethstr. 28: Anbau von Balkonen (auf der Straßenseite des Vordergebäudes)
+- TOP .6.: Rankestr. 14, DG-Erneuerung (2 WE), Balkonergänzung EG und Errichtung einer Notleiter (Tektur)
+- TOP .7.: Adelheidstr. 36: DG-Ausbau mit Galerie und Dachterrasse sowie Verbreiterung der Dachgauben
+- TOP .8.: Schleißheimer Str. 158, Nutzungsänderung von Kleingaststätte zu Laden, Fassadenänderung, Änderung des Logistikbereichs des Basic-Bioladens (Umbau und Nutzungsänderung: Verlegung von Büro- und Lagerräumen und Verkleinerung der Verkaufsfläche im EG sowie Änderung von Lagerräumen in einen Maschinenraum im Keller) - Tektur
+- TOP .9.: Fallmerayerstr. 36, Nutzungsänderung von Speichern in Wohnraum, Einbau von Galerien mit Wendeltreppe und Schaffung des zweiten Rettungswegs
+- TOP .10.: Adelheidstr. 17: Neubau eines Studentenwohnheims (1. BA)
+- TOP .11.: Georg-Birk-Straße: Neubau einer öffentlich geförderten Wohnanlage mit Supermarkt, Garage und Tiefgarage (Vorbescheid)
+- TOP .12.: Emanuelstr. 4: Neubau eines Wohnhauses (6 WE) mit Tiefgarage
+- TOP .13.: Herzogstr. 93: Dachgeschossausbau
+- TOP .14.: Schleißheimer Str. 129: Nutzungsänderung Drogerie/Bekleidungsgeschäft zu Laden für Brotzeiten und Backwaren sowie Stehcafe
+- TOP .2.2.: Wohnen
+- TOP .1.: Kinder- u. Jugendsprechstunde: Gefährliche Kreuzung Saar-/Clemens-/Winzererstraße
+- TOP .2.: Bürger: Grelle Schaufensterbeleuchtung in der Nordendstraße
+- TOP .3.: Bürger: Verkehrsbeeinträchtigung und Parkplatzwegfall durch Dauerbaustelle Viktoriastr. 9
+- TOP .4.: Bürger: Geschwindigkeitskontrollen in der Birnauer Straße
+- TOP .5.: Grüne: Belastung von Schwabing-West durch den Flughafen München und die 3. Startbahn
+- TOP .2.1.: Umwelt
+- TOP .1.: Elisabethstr. 28: Kronenrückschnitt bei einem Silberahorn wegen Anbau von Balkonen (vgl. TOP D.2.5)
+- TOP .2.: Winzererstr. 134 b ? 140: 1 Kätzchenweide, 1 Feldahorn, 1 Eschenahorn
+- TOP .3.: Georgenstr. 46: 1 Robinie
+- TOP .4.: Winzererstr. 25: Baumfällungen in Zusammenhang mit dem Neubau einer Wohnanlage
+- TOP .5.: Konradstr. 7: 1 Baum
+- TOP .2.2.: Verkehr
+- TOP .1.: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 2: (E) Radverkehr; Abgrenzung des Radweges vor der Berufsschule am Elisabethplatz
+- TOP 2.3.: Umgestaltung des Hohenzollernplatzes: Bitte um Terminvorschläge für Ortstermin
+- TOP 4: (E) Verbesserung der Sicht am Fußgängerübergang Centa-Herker-Bogen zur großen Wiese Verkehrssicherheit der Übergänge am Centa-Herker-Bogen
+- TOP 4.5.: Öffnung der Keuslinstraße zwischen Schleißheimer Straße und Hiltenspergerstraße für den gegenläufigen Radverkehr
+- TOP 4.6.: Ergebnisse des Ortstermins am 02.02.2012: 1 Entschärfung der Situation vor ?Basic? Schleißheimer Straße 2 Kreuzung Elisabeth-/Hiltenspergerstraße
+- TOP 4.1.: Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen (Anhörung zum Antrag des BA 7 Sendling-Westpark auf Änderung der BA-Satzung)
+- TOP 4.2.: Mieterbeiratswahl 2012: Entsendung von Mitgliedern
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
