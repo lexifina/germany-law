@@ -1,0 +1,60 @@
+# 21. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-03-08T17:00:00+01:00
+- Ende: 2012-03-08T21:30:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8314
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8314
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00320647.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Bekanntgabe oder Beantwortung von Anträgen und Eingaben
+- TOP 5: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 5.1: Revitalisierung Flechtheim-Rhenus-Speicher / Vorlage an den Aufsichtsrat der Stadtwerke Nr. 06/2012 - zur Kenntnis genommen
+- TOP 5.2: Mögliche Sicherungsmaßnahmen des Hafenseitenweges im Bereich der OSMO-Hallen - zur Kenntnis genommen
+- TOP 5.3: Projektentwicklung Hansaring / Hafenweg (Stroetmann) - zur Kenntnis genommen
+- TOP 5.4: Projektentwicklung Berliner Platz (Metropolis) - zur Kenntnis genommen
+- TOP 5.5: Konversion von britischen Stationierungskräften genutzten Liegenschaften in Münster - ohne Beschlussfassung geschoben
+- TOP 5.6: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstdt/Bahnhofsviertel, für das Kalenderjahr 2012 - einstimmig beschlossen
+- TOP 5.7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus, für das Kalenderjahr 2012 - einstimmig beschlossen
+- TOP 5.8: Außengastronomie in der Innenstadt, Evaluation und Neuorientierung - mehrheitlich geändert beschlossen
+- TOP 5.9: Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen - von der Tagesordnung abgesetzt
+- TOP 5.10: Einrichtung eines Verfügungsfonds im Rahmen des Städtebauförderprogramms Aktive Stadt- und Ortsteilzentren für das Programmgebiet Münster-Innenstadt - einstimmig beschlossen
+- TOP 5.11: Gestaltung der Schaltschränke im Bahnhofsviertel in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - einstimmig beschlossen
+- TOP 5.12: Straßenausbau im Bereich Landesmuseum / Aegidiimarkt - Integration und Aufwertung des öffentlichen Straßenraums - mehrheitlich geändert beschlossen
+- TOP 5.13: Bekämpfung von Schwarzarbeit - Bericht und Handlungsoptionen - - zur Kenntnis genommen
+- TOP 6: Stadtplanung
+- TOP 6.1: Stadtteilentwicklungskonzept / Bürgerbeteiligungsverfahren Münster-Kinderhaus - einstimmig beschlossen
+- TOP 6.2: Bebauungsplan Nr. 532 - Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.3: Bebauungsplan Nr. 529: Östlich Koburger Weg / südlich Sportanlage DJK / westlich Germania-Campus - zur Kenntnis genommen
+- TOP 6.4: Bebauungsplan Nr. 391, 3. Änderung - Kenntnissnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.5: 3. Änderung des Bebauungsplanes Nr. 391: - einstimmig beschlossen
+- TOP 6.6: 3. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - Weseler Straße / - ohne Beschlussfassung geschoben
+- TOP 6.7: Bebauungsplan Nr. 136, 7. Änderung: Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.8: Bebauungsplan Nr. 342, 4. Änderung: Kenntnisnahme des Entwurfs - zur Kenntnis genommen
+- TOP 6.9: Vorhabenbezogener Bebauungsplan Nr. 441, 1. Änderung - Beschluss zur Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 6.10: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 6.11: Baugeschehen im Bereich Sentruper Höhe nach Aufhebung der Erhaltungssatzung
+- TOP 7: Verkehr
+- TOP 7.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms - von der Tagesordnung abgesetzt
+- TOP 7.2: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms - von der Tagesordnung abgesetzt
+- TOP 7.3: Fritz-Stricker-Straße - Entlastungsstraße zwischen Mecklenbecker Straße und Weseler Straße - ohne Beschlussfassung geschoben
+- TOP 7.4: Planungsbeschluss neue Fußgängersignalanlage Kappenberger Damm/Werneweg/Kriegerweg - von der Tagesordnung abgesetzt
+- TOP 7.5: Kappenberger Damm/Düesbergweg/Geringhoffstraße - Ausbau von barrierefreien Haltestellen (Maßnahme im Haltestellenprogramm 2012) und Beseitigung einer Unfallhäufungsstelle - von der Tagesordnung abgesetzt
+- TOP 7.6: Querungssituation an den Lichtsignalanlagen Albersloher Weg/Homannstraße und Blaukreuzwäldchen - von der Tagesordnung abgesetzt
+- TOP 7.7: Ausbau der Fußgängerampel Westfalenstraße/An der Alten Kirche/Friedhofstraße zur Kreuzungsampel - von der Tagesordnung abgesetzt
+- TOP 8: Bauvorhaben
+- TOP 8.1: Bahnhofstraße 15 - Umbau/Sanierung der ehemaligen Bundesbahndirektion Münster, Bauteil 3 (Wiedervorstellung) - vertagt
+- TOP 8.2: Humborgweg 3 - Abbruch eines Geschäftshauses und Neubau eines Wohn- und Geschäftshauses (Wiedervorstellung)
+- TOP 8.3: Sonnenstraße 31 - Abbruch und Neubau eines Mehrfamilienhauses
+- TOP 8.4: Abbruch Bunker Wörthstraße
+- TOP 9: Verschiedenes
