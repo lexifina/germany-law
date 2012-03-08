@@ -1,0 +1,6 @@
+# TOP 2: Genehmigung der Tagesordnung
+
+- Sitzung: 21. Sitzung (2012-03-08)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/113968
