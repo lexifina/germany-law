@@ -1,1 +1,1 @@
-# Bremisches Gesetz zur Erleichterung von Investitionen vom 1. März 2011
+# Bremisches Gesetz zur Erleichterung von Investitionen vom 28. Februar 2012
