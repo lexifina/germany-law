@@ -1,8 +1,8 @@
 # Bekanntmachung des Sächsischen Staatsministeriums der Finanzen der Neufassung der Verwaltungsvorschrift des Sächsischen Staatsministeriums der Finanzen
 
 - Herausgeber: Freistaat Sachsen
-- Datum: 2010-04-30 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
-- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.6
+- Datum: 2012-03-09 (erster Tag der Gültigkeit der Fassung (Versionsliste der Quelle))
+- Quelle: https://www.revosax.sachsen.de/vorschrift/1197.7
 - Text: REVOSax-Seite der Fassung, als Text
 - Hinweis: REVOSax, Lesefassung der Staatsregierung; maßgeblich ist die amtliche Veröffentlichung
 
@@ -49,12 +49,15 @@ des Sächsischen Staatsministeriums der Finanzen
 (VwV-DKfz)
 
 [Geändert durch
-VwV vom 4. Mai 2006 (SächsABl. S. 498)
+VwV vom 4. Mai 2006 (SächsABl. S. 498),
 
-und durch
-VwV vom 6. April 2010 (SächsABl. S. 589)
+durch
+VwV vom 6. April 2010 (SächsABl. S. 589) und
 
-mit Wirkung vom 30. April 2010]
+durch
+VwV vom 1. März 2012 (SächsABl. S. 271)
+
+mit Wirkung vom 8. März 2012]
 
 Abschnitt I
 
@@ -112,30 +115,42 @@ Für Fahrten in einige Länder sind internationale Versicherungskarten für den 
 
 Dazu sind folgende Angaben nötig:
 
+–
+
 amtliches Kennzeichen,
+
+–
 
 Fahrgestell-Nummer,
 
+–
+
 Halter,
 
+–
+
 Kfz-Art und Typ,
+
+–
 
 eine Bestätigung, dass das Fahrzeug ein Dienstkraftfahrzeug des Landes ist.
 
 3.3
 
 Für Fremdschäden haftet das Land nach dem
-Pflichtversicherungsgesetz wie ein Haftpflichtversicherer im Rahmen der Mindestversicherungssummen. Werden diese Summen überstiegen, so haften Land und Fahrer nach den allgemeinen Vorschriften.
+Pflichtversicherungsgesetz wie ein Haftpflichtversicherer in der Höhe, die dem Durchschnitt der Versicherungsleistungen der zehn größten Kfz-Haftpflichtversicherungen Deutschlands entspricht. Werden diese Summen überstiegen, so haften Land und Fahrer nach den allgemeinen Vorschriften.
 
 3.4
 
 Der Fahrer haftet dem Land
 
-für Fremdschäden im Rahmen der Mindestversicherungssummen wie ein Haftpflichtversicherter gegenüber dem Versicherer nur bei Vorsatz oder bei Verletzung bestimmter versicherungsrechtlicher Obliegenheiten,
+–
 
-für Eigenschäden anlässlich von Dienstfahrten nur bei Vorsatz und grober Fahrlässigkeit sowie
+für Fremdschäden bis zu dem in Nummer 3.3 bezeichneten Betrag wie ein Haftpflichtversicherter gegenüber dem Versicherer nur bei Vorsatz oder bei Verletzung bestimmter versicherungsrechtlicher Obliegenheiten,
 
-für Eigenschäden anlässlich von Privatfahrten bei Vorsatz und für jede Fahrlässigkeit.
+–
+
+für Eigenschäden anlässlich von Dienstfahrten sowie von zulässigen Privatfahrten nur bei Vorsatz und grober Fahrlässigkeit.
 
 4
 
@@ -176,7 +191,7 @@ Den Mitgliedern der Staatsregierung, den Staatssekretären, dem Präsidenten des
 
 6.2
 
-Dem Präsidenten des Oberlandesgerichtes, dem Oberfinanzpräsidenten, den Regierungspräsidenten und dem Generalstaatsanwalt können Dienstkraftfahrzeuge zur vorrangigen Benutzung zugewiesen werden. Diese Dienstkraftfahrzeuge können bei allen dienstlichen Anlässen im Dienstbezirk und erforderlichenfalls auch außerhalb des Dienstbezirks benutzt werden.
+Dem Präsidenten des Oberlandesgerichtes, dem Präsidenten des Landesamtes für Steuern und Finanzen, dem Präsidenten der Landesdirektion Sachsen, den Vizepräsidenten der Landesdirektion Sachsen, dem Landespolizeipräsidenten und dem Generalstaatsanwalt können Dienstkraftfahrzeuge zur vorrangigen Benutzung zugewiesen werden. Diese Dienstkraftfahrzeuge können bei allen dienstlichen Anlässen im Dienstbezirk und erforderlichenfalls auch außerhalb des Dienstbezirks benutzt werden.
 
 7
 
@@ -251,7 +266,7 @@ Privatfahrten
 
 10.1
 
-Die Benutzung von Dienstkraftfahrzeugen außerhalb der dienstlichen Verwendung (Privatfahrten) – dazu gehören auch Fahrten zwischen Wohnung und Dienststelle – ist grundsätzlich unzulässig; auch private Umwegfahrten im Rahmen einer Dienstfahrt sind nicht zulässig.
+Die Benutzung von Dienstkraftfahrzeugen außerhalb der dienstlichen Verwendung (Privatfahrten) ist im Rahmen einer Dienstfahrt in angemessenem Umfang zulässig. Dies gilt nicht für Fahrten zwischen Wohnung und Dienststelle. Die privaten Fahrten sind in das Fahrtenbuch nach Nummer 16.1 Satz 1 einzutragen. Für die private Fahrt ist ein Entgelt in Höhe der unter Nummer 8.1 und Nummer 8.2 festgelegten Sätze zu zahlen.
 
 10.2
 
@@ -261,7 +276,11 @@ Der Dienststellenleiter oder ein von ihm beauftragter Bediensteter kann in beson
 
 Die unter Nummer 6 genannten Berechtigten dürfen das Dienstkraftfahrzeug auch für eigene Privatfahrten nach Maßgabe der Nummer 10.4 bis 10.7 benutzen, und zwar
 
+–
+
 die Mitglieder der Staatsregierung und die Staatssekretäre uneingeschränkt,
+
+–
 
 alle übrigen innerhalb des Freistaates Sachsen.
 
@@ -293,11 +312,19 @@ Die Aufsicht über die Führer von Dienstkraftfahrzeugen und über die Kraftfahr
 
 Die technische Aufsicht über die Fahrzeuge übt der zuständige kraftfahrtechnische Bedienstete aus. Seine Weisungen sind zu befolgen. Er ist insbesondere zuständig für
 
+–
+
 die Beratung des Dienststellenleiters oder des von ihm beauftragten Bediensteten sowie der Kraftfahrer in allen kraftfahrtechnischen Fragen;
+
+–
 
 die Untersuchung der Fahrzeuge hinsichtlich der Betriebs- und Verkehrssicherheit, die Wartung der Fahrzeuge, die Instandhaltung und Unterbringung sowie für die Abgabe gutachterlicher Äußerungen (Prüfungsberichte); dazu ist ihm die Fahrzeugakte vorzulegen;
 
+–
+
 die Prüfung der Kostenvoranschläge und Rechnungen über größere Instandsetzungen;
+
+–
 
 die technische und wirtschaftliche Prüfung der Belege.
 
@@ -315,7 +342,7 @@ Führung von Dienstkraftfahrzeugen
 
 12.1
 
-Dienstkraftfahrzeuge sollen in der Regel nur von den jeweils bestellten Kraftfahrern oder Maschinenführern geführt werden. Kraftfahrzeugtechnische Bedienstete, Sachverständige und Prüfer für den Kraftfahrzeug-Verkehr sind berechtigt, im Rahmen ihrer Tätigkeit Dienstkraftfahrzeuge selbst zu führen. Andere Bedienstete dürfen Dienstkraftfahrzeuge – außer in Notfällen – nur führen mit vorheriger schriftlicher Zustimmung des Dienststellenleiters oder seines Beauftragten. Bedienstete, die im Besitz einer Fahrerlaubnis sind und zu deren Berufsbild das Führen von Kraftfahrzeugen gehört, können zum Führen von Dienstkraftfahrzeugen verpflichtet werden.
+Dienstkraftfahrzeuge sollen in der Regel nur von den jeweils bestellten Kraftfahrern oder Maschinenführern geführt werden. Kraftfahrzeugtechnische Bedienstete, Sachverständige und Prüfer für den Kraftfahrzeug-Verkehr sind berechtigt, im Rahmen ihrer Tätigkeit Dienstkraftfahrzeuge selbst zu führen. Andere Bedienstete dürfen Dienstkraftfahrzeuge – außer in Notfällen – nur führen mit vorheriger schriftlicher Zustimmung des Dienststellenleiters oder seines Beauftragten. Bedienstete, die im Besitz einer Fahrerlaubnis sind und zu deren Berufsbild das Führen von Kraftfahrzeugen gehört, können zum Führen von Dienstkraftfahrzeugen verpflichtet werden. Die unter Nummer 6 genannten Berechtigten dürfen das personengebundene oder zur vorrangigen Benutzung zugewiesene Dienstkraftfahrzeug selbst führen. Ehepartner, Lebenspartner in einer eingetragenen Lebenspartnerschaft sowie Kinder des Nutzungsberechtigten, sofern sie im Besitz einer entsprechenden Fahrerlaubnis sind, dürfen bei Privatfahrten das Dienstkraftfahrzeug steuern, sofern der Nutzungsberechtigte selbst mit im Dienstkraftfahrzeug sitzt.
 
 12.2
 
@@ -336,7 +363,8 @@ Als Berufskraftfahrer darf eingesetzt werden, wer vom Amtsarzt oder dem ärztlic
 13.3
 
 Soweit die Berufskraftfahrer überwiegend im Personenreiseverkehr eingesetzt werden, gilt für die gesundheitlichen Anforderungen § 48 Abs. 4 der Verordnung über die Zulassung von Personen zum Straßenverkehr (
-Fahrerlaubnis-Verordnung –
+Fahrerlaubnis-Verordnung
+–
 FeV) vom 18. August 1998 (BGBl. I S. 2214), die zuletzt durch Artikel 5 des Gesetzes vom 11. September 2002 (BGBl. I S. 3574, 3585) geändert worden ist, in der jeweils geltenden Fassung, entsprechend. Die Untersuchungen sind nach längerer Krankheit oder anderer längerer Dienstunterbrechung aus Gesundheitsgründen, außerdem nach einem schweren Unfall, mindestens jedoch in Zeitabständen von drei Jahren zu wiederholen.
 
 13.4
@@ -357,7 +385,15 @@ Der unter Nummer 6 genannte Personenkreis ist berechtigt, das personengebundene 
 
 14.2
 
-Eine Genehmigung nach Nummer 12.1 Satz 3 kann für den Einzelfall oder generell erteilt werden, wenn der Bedienstete (Selbstfahrer) zum Führen von Kraftfahrzeugen gev class="td_last_1"> Pflichten der Kraftfahrer
+Eine Genehmigung nach Nummer 12.1 Satz 3 kann für den Einzelfall oder generell erteilt werden, wenn der Bedienstete (Selbstfahrer) zum Führen von Kraftfahrzeugen geeignet erscheint. Bei ausreichender Fahrpraxis kann von einer Fahrprobe abgesehen werden.
+
+14.3
+
+Die Mitnahme von im Dienst des Freistaates stehenden Personen durch Selbstfahrer ist zulässig, soweit dies zur Erledigung von Dienstgeschäften erforderlich ist.
+
+15
+
+Pflichten der Kraftfahrer
 
 15.1
 
@@ -475,9 +511,15 @@ An Dienstorten mit zehn oder mehr zum allgemeinen Dienstreiseverkehr oder zu Kur
 
 In die zentralen Fahrbereitschaften sind nicht einzubeziehen:
 
+–
+
 Einsatzfahrzeuge der Polizei,
 
+–
+
 Fahrzeuge, die aufgrund ihrer Ausstattung und Zweckbestimmung nicht zum allgemeinen Dienstreiseverkehr herangezogen werden können,
+
+–
 
 Selbstfahrerfahrzeuge, die aufgrund ihrer besonderen Verwendung für eine Zentralisierung nicht geeignet sind.
 
@@ -549,9 +591,15 @@ Dienstkraftfahrzeuge dürfen bei der zentralen Fahrbereitschaft nur angefordert 
 
 Bei der Anforderung sind der Einsatzzentrale anzugeben:
 
+–
+
 Fahrtziel, Name und Anzahl der zu befördernden Personen,
 
+–
+
 Ort und Zeitpunkt der Abfahrt,
+
+–
 
 Beginn und voraussichtliches Ende der dienstlichen Tätigkeit am Zielort.
 
