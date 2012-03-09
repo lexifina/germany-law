@@ -1,0 +1,61 @@
+# 6. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-03-09T16:30:00+01:00
+- Ende: 2012-03-09T21:15:00+01:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3245
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3245
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=96010
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-04 und VII-05 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Mehrkosten aus dem Gesamtvertrag zu § 53 UrhG für Schulen im Bezirk - beantwortet
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: - Entwurf des Bebauungsplans XVI-36 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplans XVI-36 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Entwurf des Bezirkshaushaltsplans Treptow-Köpenick für die Haushaltsjahre 2012 und 2013 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Dostojewski-Bibliothek - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Direktübertragung der Bezirksverordnetenversammlung im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Im I. Halbjahr 2011 zugelassene über- und außerplanmäßige Ausgaben - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.5: Bebauungsplan XV-11 („Hasselwerderstraße“) hier: - Änderung zum Bezirksamtsbeschluss Nr. 140/91 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Vorhabenbezogener Bebauungsplan 9-36 VE ("Bürgerbräu Friedrichshagen") hier: Einleitung des Planaufstellungsverfahrens - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.7: Unfallgefahr auf den Ersatzbrücken - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.8: Offene Wohnungen transparent machen – Straftaten gegen die sexuelle Selbstbestimmung präventiv bekämpfen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.9: Unübersichtliche Geschwindigkeitsanordnung in der Köpenicker Straße in Altglienicke beseitigen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Haltverbot in der Müggelheimer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Baumschutz in der Kiefholzstraße entlang des ehemaligen Görlitzer Bahndamms - ohne Änderungen in der BVV beschlossen
+- TOP 12.12: Radwege verbinden am Treptower Park - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Umgang mit dem Straßenausbaubeitragsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Straßenbahnlinie WISTA nach Schöneweide weiterführen - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Strandbad Müggelsee hier: Übernahme einer Teilfläche des Strandbades Müggelsee in das Verwaltungsvermögen des Bezirksamtes mit dem Ziel der Vergabe eines Erbbaurechts mit Bauverpflichtung an einen privaten Investor - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Änderung § 19 (3) der Geschäftsordnung - überwiesen
+- TOP 14.2: Rasche Hilfe für betroffene Mieterinnen und Mieter, insbesondere für Mieterinnen und Mieter mit Behinderungen - überwiesen
+- TOP 14.3: Computerwartung an Schulen - überwiesen
+- TOP 14.4: Naturnahe und nachhaltige Grünflächenpflege in Treptow-Köpenick - überwiesen
+- TOP 14.5: Nachvollziehbarkeit der Bezirksamtsbeschlüsse - überwiesen
+- TOP 14.6: Benennung Mittelpunktbibliothek Köpenick und der Bibliothek in Altglienicke - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Zusatzphase Rechtsabbiegen aus dem WISTA - überwiesen
+- TOP 14.8: Tramverbindung nach Rudow - überwiesen
+- TOP 14.9: Ausweisung der Kosten je Schlussbericht - überwiesen
+- TOP 14.10: Verfahren zur Haushaltsplanaufstellung 2012/2013 - mit Änderungen in der BVV beschlossen
+- TOP 14.11: Unterstützung und Sicherung der BAE Batterien GmbH am Standort Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Zukunft der Jugendarbeit und der Jugendsozialarbeit ab 2013 – Begleitantrag zum Bezirkshaushalt für die Jahre 2012 und 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Wohnungsbestand in Treptow-Köpenick - beantwortet
+- TOP 15.2: Betreiber des Strandbad Müggelsees - vertagt
