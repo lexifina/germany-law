@@ -1,0 +1,91 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-03-12T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455207
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455207
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Verlegung der Innenstadtkliniken - Verkehrssituation Großhadern
+- TOP 1.2.: Randale bei St. Ignatius
+- TOP 1.3.: Baumfällung Amarellenweg
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Soziales
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Förderverein der Grundschule am Canisiusplatz e.V., MFM-Projekt am 23./24.05.2012 (Direktorium, 13.02.12)
+- TOP 5.2.: Budget der Bezirksausschüsse, PA/Spielen in der Stadt e.V., Theater-/Tanzfestival "Rampenlichter", Mittelschule Guardinistraße (Direktorium, 23.02.12)
+- TOP 5.3.: Budget der Bezirksausschüsse, Elternbeirat der Grundschule an der Blumenauer Str., Anlegen eines Freiluft-Klassenzimmers (Direktorium, 23.02.12)
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters, hier: Aufstellung von neuen Zeitungsverkaufseinrichtungen, Willibaldstraße 130 (Kreisverwaltungsreferat, 22.02.12)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Mieterbeiratswahl 2012, Entsendung von Mitgliedern (Sozialreferat, 13.02.12)
+- TOP 6.2.: Veranstaltung in einer städtischen Grünanlage, hier: Circus Galliano vom 29.06. - 08.07.2012 auf dem Max-Lebsche-Platz (Kreisverwaltungsreferat, 16.02.12)
+- TOP 6.3.: Mittelfristige Finanzplanung 2011 - 2015, Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2012 - 2016 (Stadtkämmerei, 20.02.12)
+- TOP 6.4.: Zirkusprojekt Montessorischule auf dem Max-Lebsche-Platz für 30.06. - 06.07.2013 (Kreisverwaltungsreferat, 29.02.12)
+- TOP 6.5.: Erstellung einer Machbarkeitsstudie einschließlich Wirtschaftlichkeitsberechnung für neu zu schaffende Flächen beim Bau einer Einhausung auf der A 96 vom Mittleren Ring bis zur Stadtgrenze (Referat für Stadtplanung und Bauordnung, 02.03.12)
+- TOP 6.6.: Erinnerungsverfahren: Marchioninistraße 3 (Baureferat, 01.03.12)
+- TOP 6.7.: Buslinie N40; Verlegung der Haltestelle Am Ährenfeld (MVG, 06.03.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Efeustraße 22, 2 Fichten
+- TOP 7.2.: Hans-Grässel-Weg 11, gem. Baumbestandsplan Nr. 30508
+- TOP 7.3.: Asternstraße 3 a, 2 serbische Fichten
+- TOP 7.4.: Toemlingerstraße 15, gem. Baumbestandsplänen Nr. 2388 und 2395
+- TOP 7.5.: Enzianstraße 3, 1 Eschenahorn
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Fürstenrieder Straße 198, 1 Birke (Referat für Stadtplanung und Bauordnung, 31.01.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Verkehrsrechtliche Anordnung, hier: Aufhebung der Radwegbenutzungspflicht in der Senftenauerstraße (Kreisverwaltungsreferat, 02.02.12)
+- TOP 8.2.: Verlängerung der U5 nach Pasing (Ziffer 2 des Antrages) (Baureferat, 07.02.12)
+- TOP 8.3.: Zweckentfremdung von Wohnraum: - Gräfelfinger Straße (Sozialreferat, 31.01.12) - Pirmaterstraße (Sozialreferat, 13.02.12) - Heckenrosenstraße (Sozialreferat, 15.02.12) - Hans-Grässel-Weg (Sozialreferat, 22.02.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Beleuchtung des Weihnachtsbaumes an der Blumenauer Straße / Ecke Senftenauerstraße in der Adventszeit (Baureferat, 02.02.12)
+- TOP 9.2.: Plakattafeln Guardinistraße 33 / Ecke Kornwegerstraße (Referat für Stadtplanung und Bauordnung, 20.02.12)
+- TOP 9.3.: Zustand Gehweg Grundstück Terofalstraße 25 (Baureferat, 16.02.12)
+- TOP 9.4.: Einfriedung des Sandbereiches auf dem Spielplatz am Stahleckplatz (Baureferat, 02.02.12)
+- TOP 9.5.: Schulbushaltestelle Pfingstrosenstraße 73 (Kreisverwaltungsreferat, 24.02.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: Filiale Stadtsparkasse am Haderner Stern (Stadtsparkasse München, 06.02.12)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Einladung zur Veranstaltung "Holzbau für Kinder-, Jugend- und Bildungseinrichtungen" am Freitag, 16.03.2012 (Referat für Gesundheit und Umwelt, 16.02.12)
+- TOP 11.2.: Informationsveranstaltung der SWM am 20.03.2012 um 18.00 Uhr (SWM, 08.02.12)
+- TOP 11.3.: Planungen für den Landschaftspark Pasing-Hadern-Gräfelfing-Planegg, Vorschlag für Ortstermin des BA 21 am 23.05.2012
+- TOP 11.4.: Kolloquium MVG - TUM: Der öffentliche Verkehr als Katalysator für die Stadtentwicklung, Termine: 14.05.12, 18.06.12, 02.07.12 (TU München, 24.02.12)
+- TOP 11.5.: Ausstellung und Veranstaltungen: Rechtsradikalismus in Bayern (Feierwerk, 27.02.12)
+- TOP 11.6.: Rahmenkonzeption der Offenen Kinder- und Jugendarbeit in München (Sozialreferat, 22.02.12)
+- TOP 11.7.: Einladung zum Messeforum auf der Internationalen Handwerksmesse "Innovation bei Glas und Fenster" am Donnerstag, 15.03.2012 (Referat für Gesundheit und Umwelt, 27.02.12)
+- TOP 11.8.: Einladung zum jährlichen Informationsaustausch im Kommunalreferat am 22.03.2012 (Kommunalreferat, 29.02.12)
+- TOP 11.9.: Öffentlichkeitsphase Fortschreibung "PERSPEKTIVE MÜNCHEN", Einladung zur Informationsveranstaltung am 18.04.2012 im Vorfeld der Stadtbereichsveranstaltung "PERSPEKTIVE vor Ort" (Referat für Stadtplanung und Bauordnung, 01.03.12)
+- TOP 11.10.: Perspektive München - Öffentlichkeitsphase, Beteiligungsangebot und Information (Referat für Stadtplanung und Bauordnung, 02.02.12)
+- TOP 11.11.: Treffen der Internet-Beauftragten der Bezirksausschüsse (Direktorium, 29.02.12)
+- TOP 11.12.: Newsletter Bauzentrum München 03/2012 (Referat für Gesundheit und Umwelt, 02.02.12)
+- TOP 11.13.: Jour Fixe Bezirksausschüsse mit dem Kulturreferat am 26.03.2012 (Kulturreferat, 29.02.12)
+- TOP 11.14.: Münchner Selbsthilfejournal einBlick 01/2012 (Selbsthilfezentrum München, 02.02.12)
+- TOP 11.15.: Information über den Fuchsbandwurm am 23.03.2012 in der Volkshochschule Hadern (ergon e.V., 06.03.12)
+- TOP 11.16.: Internationale Woche gegen Rassismus 2012 (Feierwerk, 05.03.12)
+- TOP 11.17.: Fachtag "Tendenz rechts" am 24.04.2012 (Feierwerk, 07.03.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 25.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08223: Zukunft des geförderten Wohnungsbaus in München, insbesondere - zur "Höhe der staatlichen Fördermittel", - zu den "Auswirkungen der Kürzungen", - zu den "Kompensationsmöglichkeiten in den Förderpauschalen" und - zum "durchschnittlichen Förderaufwand" (Auf den Vortrag der Referentin vom 07.12.2011 wird Bezug genommen; Vertagt in das Sonderplenum am 01.02.2012).
+- TOP 12.2.: Beschluss vom 25.01.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08371 (nach Antrag): Preis für Stadtteilpflege (künftig 5 Preise à 2.600,- ?); Wettbewerb "Denkmalschutz und Neues Bauen", - Erweiterung der Wettbewerbskriterien um "energetische Sanierungen in Ensemble-Bereichen und in der Nähe von Baudenkmälern" sowie "Umnutzung und Umbauten von Baudenkmälern und besonders erhaltenswerten Bauten der 50er, 60er und 70er Jahre, die in den letzten 6 Jahren in München fertiggestellt worden sind und nicht an diesem Wettbewerb teilgenommen haben" - zeitliche Streckung: Wechsel von dreijährigen auf vierjährigen Turnus (ab 2012) - Ergänzung der Wettbewerbsbezeichnung um den Zusatz "Bauen und Sanieren in historischer Umgebung" Im Übrigen wird auf den Beschluss Bezug genommen (S. 5).
+- TOP 12.3.: Beschluss vom 01.02.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08567 (nach Antrag): 2. Stammstrecke (wird weiter als notwendig angesehen) Forderungen des Freistaates Bayern (erneut abgelehnt) Bericht über Fachgespräch auf Arbeitsebene vom 13.01.2012 (Bestätigung des Beschlusses vom 14.12.2011)
+- TOP 12.4.: Beschluss vom 01.02.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08187 (nach Antrag): Wohnungspolitisches Handlungsprogramm "Wohnen in München V" Wohnungsbauoffensive 2012 - 2016 (Auf den Referentenantrag wird Bezug genommen, S. 7 - 19.)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08771: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen (Wird nach Auffassung des Planungsreferates bereits umgesetzt.)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
