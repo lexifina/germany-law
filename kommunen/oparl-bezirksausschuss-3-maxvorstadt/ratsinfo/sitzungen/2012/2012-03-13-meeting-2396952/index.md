@@ -1,0 +1,116 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2396952
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2396952
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung vom 17.01.2012 vertagt aus der Sitzung vom 07.02.2012
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: E-Mail eines Bürgers vom 02.02.2012: Markierung eines Radweges in der Karlstraße zwischen Pappenheim- und Seidlstraße (s. TOP C 2.1.1)
+- TOP 5.2.2.: E-Mail eines Bürgers vom 23.02.2012 Aufhebung der Einbahnstraßenregelung in der Theresien/Türkenstraße (s. auch TOP C 2.1.8) und kurze Stellungnahme des Referates für Stadtplanung und Bauordnung
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 23.02.2012 Aktive Beteiligung des BA 3 Maxvorstadt am Projekt ?Urbanes Naturnetz für ganz München!? Neue Grüne Achsen nach dem Motto des Baureferates ?Grünzüge in Fahrt bringen!?
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 4., 5., 6., 7. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen 3., 4., KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Arcisstraße 47, Spitzboden-Ausbau mit zwei Wohneinheiten und brandschutztechnische Ertüchtigung des 1. Dachgeschosses
+- TOP 2.1.4.: Referat für Stadtplanung und Bauordnung Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Wittelsbacherplatz, Finkenstraße, Jägerstraße, Kardinal-Döpfner-Straße -Siemens-Konzernzentrale- (Teiländerung der Beb.Pläne Nrn. 12b und 1606)
+- TOP 2.1.5.: Türkenstraße 58 Umbau und Sanierungsmaßnahme mit Dachaufstockung
+- TOP 2.1.6.: Tag des offenen Denkmals am 09.09.2012
+- TOP 2.1.7.: Vollzug der Baumschutzverordnung Arnulfstraße 52
+- TOP 2.1.8.: Referat für Stadtplanung und Bauordnung Stellungnahme des BA 3 zu den Ergebnissen der Projektgruppe ?Kunstareal? Antrag auf Fristverlängerung zur Beantwortung der Stellungnahme des BA 3 vom 17.01.2012
+- TOP 2.1.9.: Baureferat, Beschlussvorlage Begrünung der Neureutherstraße, Bereich Daimlerstraße und Schraudolphstraße Begrünung (drei Bäume), Projektnummer 100569
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Marsstraße 11, eine Platane
+- TOP 2.2.2.: Adalbertstraße 76, ein Bergahorn
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: E-Mail eines Bürgers vom 02.02.2012: Markierung eines Radweges in der Karlstraße zwischen Pappenheim- und Seidlstraße (s. uch TOP A 5.2.1)
+- TOP 2.1.2.: Bürgerschreiben vom 02.01.2012 Teilweise Umgestaltung der Helmholtzstraße zu einspurigem Verkehrsgrund vertagt aus den Sitzungen vom 17.01.2012 und 07.02.2012 (TOP C 2.1.8 bzw. TOP C 2.1.1); Unterlagen liegen bereits vor.
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrssteuerung Lichtzeichenanlagen-Bauprogramm 2012 vertagt aus der Sitzung vom 07.02.2012, TOP C 2.1.2 Unterlagen liegen bereits vor.
+- TOP 2.1.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen, Anhörung Sperrung der Blutenburgstraße für Reisebusse über 20 Personen und Lkw über 7,5 t Empfehung Nr. 08-14 / E 01105 der Bürgerversammlung des BA 3 vom 20.10.2011
+- TOP 5: (E) Entfernen der Schrägparker in der Katharina-von-Bora-Straße und Bau eines Radweges zwischen der Karl- und Sophienstraße
+- TOP 6: (E) Verkehrsberuhigung in der Augustenstraße, ggf. temporär gesperrt
+- TOP 7: (E) Überprüfung der Standorte von Tempo-30- Verkehrszeichen in der Blutenburgstraße / Maillingerstraße / Nymphenburger Straße
+- TOP 7.8.: E-Mail eines Bürgers vom 23.02.2012 Aufhebung der Einbahnstraßenregelung in der Theresien/Türkenstraße (s. auch TOP A 5.2.2) und kurze Stellungnahme des Referates für Stadtplanung und Bauordnung
+- TOP 7.9.: Schreiben des Bezirksausschusses 7 Sendling-Westpark vom 16.12.2012 Keine Werbung für Spielotheken auf städtischen Bussen
+- TOP 7.10.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Einrichtung eines allgemeinen Behindertenparkplatzes in der Dachauer Straße 34
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Gabelsbergerstraße 4, Antrag auf Betriebszeitverlängerung; Antrag auf regelmäßige Beschallung des Wirtsgartens an Sonn- und Feiertagen
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Straßenfest zum Tag des Bayerischen Bieres, Oskar-von-Miller-Ring/Brienner Straßenfest am 23.04.2012
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Infostand auf dem Geschwister-Scholl-Platz am 22.5., 05.06. und 12.06. und 18.-19.06.2012 FirmenKontaktGespräch 2012
+- TOP 2.4.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Lesung des Instituts für Kunst und Forschung ?Brandfleck? zum Gedenken an die Bücher- verbrennung am Königsplatz, Wiese vor der Antikensammlung am 10.05.2012
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Projektteam "Soziale Kompetenz" der Grundschule an der Blutenburgstraße Sozialkompetenztraining ab 18.04.2012
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Beteiligung der Öffentlichkeit Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2064 Jägerstraße, Kardinal-Döpfner-Straße, Siemens Konzernzentrale
+- TOP 1.2.: Baureferat, Gartenbau, Unterhalt Unterrichtung über das Fällen von Gefahrbäumen im Stadtbezirk 3
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung 2. Stammstrecke, Forderungen des Freistaates Bayern Bericht über Fachgespräch auf Arbeitsebene vom 13.01.2012
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung Wohnungspolitisches Handlungsprogramm ?Wohnen in München V? Wohnungsbauoffensive 2012 ? 2016 Beschluss der Vollversammlung des Stadtrates vom 01.02.2012 Sitzungsvorlage Nr. 08-14 / V 08187 ? Neufassung vom 30.01.2012
+- TOP 1.5.: Baureferat, Vollzug der Baumschutzverordnung Unterrichtung über das Fällen von Gefahrbäumen im Stadtbezirk 3 Maxvorstadt
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Zukunft des geförderten Wohnungsbaus in München Antrag Nr. 08-14 / A 02749 der Stadtratsfraktion Bündnis 90/Die Grünen vom 06.09.2011 Sitzungsvorlage Nr. 08-14 / V 08223
+- TOP 1.7.: Baureferat, Gartenbau Eingehende Untersuchung der Bäume im Arnulfpark BA-Antrag Nr. 08-14 / B 03457 des BA 3 vom 08.11.2011 Antwortschreiben des Baureferates vom 24.01.2012
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung, Eilentscheidung des Vorsitzenden Maximiliansplatz 5, Ertüchtigungsmaßnahmen Brandschutz und Nutzungsänderung in Teilbereichen (s. TOP B 2.1.3/0212)
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 07.03.2012 Sitzungsvorlage Nr. 08-14 / V 08797
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung Beschlussvorlage für die gemeinsame Sitzung des Ausschusses für Stadtplanung und Bau- ordnung und des Umweltschutzausschusses am 07.03.2012 Sitzungsvorlage Nr. 08-14 / V 07948
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, verkehrsrechtliche Anordnung Öffnung der in Richtung Norden einbahngeregelten Fürstenstraße zwischen Rheinberger- straße und Theresienstraße für den gegenläufigen Radverkehr
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Schreiben vom 19.01.2012 an einen Bürger wegen Ladeflächen in der Sandstraße 37
+- TOP 2.3.: Einrichtung von Fahrradstraßen
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Geschwister-Scholl-Platz: Zeichen 260, Verbot für Krafträder und Kraftwagen und sonstige mehrspurige Kraftfahrzeuge
+- TOP 2.5.: Baumaßnahmen der Stadtwerke a) Blütenanger 17, Strom b) Max-Joseph-Stsraße 9, Fernwärme c) Lothstssraße 64, Fernwärme f) Gabelsbergerstraße 77 a, Strom g) Gabelsbergerstraße 50, Strom h) Arnulfstsraße 52, Strom g) Gabelsbergerstraße 50, Strom
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid und Gestattung für Faschingszug der Damischen Ritter am 05.02.2012
+- TOP 2.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Busparkverbot in der gesamten Deroystraße sowie in der Pappenheimstraße beidseitig zwischen Mars- und Karlstraße
+- TOP 2.8.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Fußgängerbereich Dachauer Straße/Rottmannstraße
+- TOP 2.9.: Referat für Stadtplanung und Bauordnung Beschlussvorlage ?Begegnungszonen/Shared Space? Antrag Nr. 08-14 / B 00963 des BA 3 vom 17.03.2009 Schreiben des Referates für Stadtplanung und Bauordnung vom 08.02.2012
+- TOP 2.10.: Schreiben eines Bürgers aus der Maxvorstadt Dank für die Bemühungen des BA 3
+- TOP 2.11.: Kulturreferat, Schreiben vom 17.02.2012 Änderungen bei der Ladezone Augustenstraße 31/33
+- TOP 2.12.: Ausschilderung des Bereiches der ehemaligen Schönfeld-Vorstadt Schreiben des Oberbürgermeisters an einen Bürger/eine Bürgerin
+- TOP 2.13.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Filmaufnahmen auf öffentlichem Verkehrsgrund a) Erika-Mann-Straße 59 am 29.02.2012 von 12.00 bis 16.00 Uhr b) Marsstraße, Seidlstraße, Arnulfstraße am 02.03.2012 von 12.00 bis 17.00 Uhr
+- TOP 2.14.: Einrichtung einer gemeinsamen Kurzparkzone mit Parkscheibenpflicht für die Kinderkrippen Marlene-Dietrich-Straße 12 und 25
+- TOP 2.15.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Nachtrag zur Anhörung zur Parade und Veranstaltung anlässlich des St. Patrick's Days am 11.03.2012 Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.16.: Original Münchner Schäfflertanz 2012 Auftrittsmeldungen, Änderungen
+- TOP 2.17.: Bezirksausschuss 1 Altstadt-Lehel Verzögerung der Wiederherstellung des Marienhofes
+- TOP 3.1.: Hofflohmärkte in der Maxvorstadt Termin: Samstag, 26.05.2012
+- TOP 3.2.: Direktorium, Abteilung für Bezirksausschussangelegenheiten Insolvenzantragsverfahren über das Vermögen des LILALU e.V. Schreibend es Direktoriums an den Insolvenzverwalter vom 02.02.2012
+- TOP 3.3.: Referat für Bildung und Sport Kindertagesstätten sonstiger Träger; Haus für Kinder an der Schleißheimer Stsraße 41 Beschluss des Kinder- und Jugendhilfeausschusses vom 10.01.2012 Sitzungsvorlage Nr. 08-14 / V 08362
+- TOP 3.4.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen Antrag Nr. 08-14 / A 02965 von DIE LINKE vom 07.12.2011 Beschluss des Ausschusses für Statplanung und Bauordnung vom 07.03.2011 Sitzungsvorlage Nr. 08-14/V 08771
+- TOP 3.5.: Kinderkrippe und Kindergarten Fünkchen e.V. Schreiben der Einrichtung an den Oberbürgermeister vom 27.01.2012
+- TOP 3.6.: Schreiben des Alten- und Service-Zentrums Maxvorstadt vom Februar 2012 Stadtteilplan für Senioren, Artikel im Münchner Wochenanzeiger vom 01.02.2012 und der Süddeutschen Zeitung vom 07.02.2012
+- TOP 4: Kultur
+- TOP 4.1.: Verbleib der staatlichen Lotterieverwaltung in München und evtl. gemeinsame Nutzung des derzeitigen Standortes der staatlichen Lotterieverwaltung mit "acatech"
+- TOP 4.2.: Der Bezirksausschuss 3 Maxvorstadt fordert Suche nach Ersatzstandort für acatech
+- TOP 4.3.: entfällt
+- TOP 4.4.: Direktorium, Budget Rückforderung an Theatergruppe ?post it - productions?
+- TOP 4.5.: Errichtung eines ?offenen Bücherschrankes? in der Maxvorstadt Empfehlung Nr. 08- 14 / E 01123 der Bürgerversammlung des BA 3 vom 20.10.2011 Schreiben des Vorsitzenden und der kommissarischen Vorsitzenden des UA Kultur an den berufsm. Stadtrat Dr. Küppers vom 19.02.2012
+- TOP 4.1.: Direktorium, Bezirksausschussangelegenheiten Änderung der Satzung der Münchner Bezirksausschüsse, Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen BA-Antrag Nr. 08-14 / B 03354 des BA 7 Sendling Westpark vom 11.10.2011
+- TOP 4.2.: Sozialreferat, Metberatung Mieterbeiratswahlen 2012, Entsendung von Mitgliedern
+- TOP 4.3.: Stadtkämmerei, Anhörung Mittelfristige Finanzplanung 2011 ? 2015, Mehrjahresinvestitionsprogramm Fortschreibung für die Jahre 2012 bis 2016
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
