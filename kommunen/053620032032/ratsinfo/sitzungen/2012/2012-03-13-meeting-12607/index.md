@@ -1,0 +1,68 @@
+# Stadtrat (20. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-03-13T17:00:00+01:00
+- Ende: 2012-03-13T20:10:00+01:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUuvlF9MIVm7RhmhH5P9tqc
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12607
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZef6sbUgsMGgJbDhLH46y-cVxIemJJYoIWEwN0hwu70A/Bekanntmachung_Stadtrat_13.03.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZX98Ymbh-XwHmF6KoUtUSrSlU1K8THTjXo9RJSTr9EWi/Oeffentliche_Niederschrift_Stadtrat_13.03.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Ausschüssen und Gremien
+- TOP 1.1: Besetzung des Ausschusses für Stadtplanung und Verkehr hier: Antrag des Stadtverordneten Erich Schütz
+- TOP 1.2: Besetzung des Schulausschusses hier: Benennung von beratenden Mitgliedern
+- TOP 1.3: Umbesetzung des Jugendhilfeausschusses / Stimmberechtigte Mitgliedschaft
+- TOP 1.4: Erweiterung und Besetzung der beratenden Sitze im Jugendhilfeausschuss
+- TOP 1.5: Wahl eines beratenden Mitglieds für den Jugendhilfeausschuss sowie Wahl eines stellvertretenden beratenden Mitglieds für den Jugendhilfeausschuss aus der Mitte des Integrationsausschusses Bestätigung durch den Stadtrat
+- TOP 1.6: Umbesetzung des Bau- und Feuerschutzausschusses hier: Antrag der BBK/UWG-Fraktion
+- TOP 2.: Erlass von Ortsrecht
+- TOP 2.1: 13. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen; hier: Einteilung des Stadtgebietes in Bezirke und Ortschaften
+- TOP 2.2: Satzung für das Jugendamt der Stadt Kerpen
+- TOP 2.3: Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen, Nutzung des Inventars und der Grillhütten, den Einsatz der Sachkundigen Aufsichtsperson, für Veranstaltungen der Stadt außerhalb städtischer Liegenschaften sowie Sonderleistungen.
+- TOP 2.4: Änderung der ordnungsbehördlichen Verordnung über das Offenhalten von Verkausstellen aus besonderem Anlass
+- TOP 3.: Erweiterung des Stellenplanes 2012 Ausschreibung der Stelle eines / einer Beigeordneten - (kein Text vorhanden)
+- TOP 4.: Haushaltssatzung für das Haushaltsjahr 2012 einschließlich des Stellenplanes - (kein Text vorhanden)
+- TOP 5.: Eröffnungsbilanz 2008
+- TOP 6.: Stadtentwicklung und Bauleitplanung
+- TOP 6.1: Überarbeitete Vorlage zur Stellungnahme der Stadt Kerpen zum 3. Rahmenbetriebsplan für die Fortführung des Tagebaus Hambach von 2020 bis 2030 und Sonderbetriebsplan betreffend die artenschutzrechtlichen Belange Tagebau Hambach bis 2020
+- TOP 6.2: Bebauungsplan KE Nr. 332 "Hahnenstraße" im Stadtteil Kerpen hier: 1.) Beschluss zur Aufstellung gem. § 2 (1) BauGB 2.) Verzicht auf die frühzeitige Unterrichtung und Erörterung gem. § 3 (1) BauGB 3.) Beschluss zur öffentlichen Auslegung gem. § 3 (2) BauGB
+- TOP 6.3: Bebauungsplan SI 232 A/1. Änderung "Gewerbegebiet Europaring", Stadtteil Sindorf hier: Beschluss zur Offenlage
+- TOP 6.4: Bebauungsplan SI 253 "Südlich Heppendorfer Straße", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.5: Bebauungsplan TÜ 249/2. Änderung "Rosentalstraße", Stadtteil Türnich hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 6.6: Ergebnisse der Bürgerwerkstatt Innenstadtentwicklung Sindorf
+- TOP 6.7: Projekt "Soziale Stadt" – Antrag der CDU Fraktion vom 17.01.2012
+- TOP 7.: Einspruch gem. § 57 GO NRW gegen den Beschluss des Ausschusses für Stadtplanung und Verkehr vom 14.02.2012; TOP 4.3 Nahversorgung in Türnich/Brüggen/Balkhausen
+- TOP 8.: Antrag zur Durchführung einer Bürgerbefragung zum Thema "Sanierung der Erftlagune"
+- TOP 9.: Einrichtung eines kommunalen Integrationszentrums in Kerpen
+- TOP 10.: Bekanntgabe der in der Zeit vom 01.10. bis 31.12.2011 entstandenen unerheblichen über- und außerplanmäßigen Ausgaben gem. § 83 Abs. 2 GO NW
+- TOP 10a.: Bereitstellung von Haushaltsmitteln für Beratungsleistungen im Jahr 2011
+- TOP 11.: Bericht über die Haushaltsführung der wesentlichen Haushaltspositionen IV. Quartal 2011
+- TOP 12.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1: Erfahrungsbericht über den Maßnahmenplan zur beruflichen Gleichstellung von Frauen und Männern bei der Stadtverwaltung Kerpen
+- TOP 12.2: Maßnahmenplan zur beruflichen Chancengleichheit bei der Stadtverwaltung Kerpen für die Jahre 2012 - 2014
+- TOP 13.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 14.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 15.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 15.1: Umgang mit dem Thema "Inklusion" in Kerpen
+- TOP 15.2: LKW-Rastplätze an der BAB A4 im Bereich Horrem hier: aktueller Sachstandsbericht
+- TOP 16.: Mitteilungen
+- TOP 17.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 18.: Verkauf von städtischen Flächen im Bebauungsplanbereich KE 344 "Stiftsstraße"
+- TOP 19.: Anmietung von Räumlichkeiten im Stiftsquartier
+- TOP 20.: Neuabschluss der auslaufenden Strom- und Gaskonzessionsverträge bzw. Kommunalisierung der Strom- und Gasnetze in Kooperation mit den Städten Bedburg, Bergheim und Elsdorf sowie Gründung einer möglichen Netzgesellschaft
+- TOP 21.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 21.1: Abberufung des bisherigen Amtsleiters/Bestellung des zukünftigen Amtsleiters des Rechnungsprüfungsamtes
+- TOP 21.2: Bestellung eines stellvertretenden Amtsleiters der örtlichen Rechnungsprüfung
+- TOP 22.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Mitteilungen
+- TOP 25.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 26.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
