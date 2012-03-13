@@ -1,0 +1,102 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-03-13T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536688
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536688
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Schulwegsicherheit Asam-Gymnasium ? Kreuzung Werinherstraße / Schlierseestraße; Abdruck des Schreibens der Schulleitung an Herrn Oberbürgermeister Ude
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Freie Fahrt für freie Radler; Antrag der Fraktion Bündnis 90/Die Grünen vom 16.02.2012
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: PA/Spielen in der Stadt e.V., für die Maßnahme: Theater-/Tanzfestival "Rampenlichter, Mittelschule Perlacher Straße; Antragssumme: 1.250,00 ?; Beschlussvorlage des Direktoriums vom 22.02.12 zu 4.1.1 Kostenaufschlüsselung des Vereins
+- TOP 4.2.: AntragstellerIn: Freundschaft zwischen Ausländern und Deutschen e.V., für die Maßnahme: Giesinger LiteraturMenü am 30.03., 11.05. und 19.11.2012; Antragssumme: 1.425,00 ?; Beschlussvorlage des Direktoriums vom 20.02.12
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Fachdienste für Migration und Integration Mission München e.V., für die Maßnahme: Giesinger LiteraturMenü 2012; Antragssumme: 200,00 ?; Antrag vom 08.02.2012
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Anhörungen zu Bauvorhaben 5.1.3.1.1 Deisenhofener Str. 4; Sanierung, Einbau eines Innenlifts, DG-Ausbau u. Erweiterung, Errichtung einer Dachterrasse; Anhörung vom 23.02.12
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Wohnungspolitisches Handlungsprogramm "Wohnen in München V"; Wohnungsbauoffensive 2012 - 2016; Sitzungsvorlagen Nr. 08-14 /V 08187 (Neufassung vom 30.01.12); Beschluss der Vollversammlung des Stadtrates vom 01.02.2012
+- TOP 0.3.: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen; Antrag Nr. 08-14 / A 02965 von DIE LINKE vom 07.12.11; Sitzungsvorlagen Nr. 08-14 / V 08771; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.03.11 (SB)
+- TOP 0.4.: Vollzug der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung u. Unterrichtung der Bezirksausschüsse 5.1.4.4.1 Anwesen Hohenschwangaustraße; Mitteilung vom 14.02.12
+- TOP 0.5.: Auslobung eines Wettbewerbs für die Gestaltung des Baumplatzes im Agfagelände; Schreiben des BA 17 vom 15.11.11; Antwortschreiben des Referats für Stadtpl. u. Bauordnung vom 13.02.12
+- TOP 0.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.6.1 SSW "El Dorado", St.-Bonifatius-Str. 14; Mitteilung vom 27.02.12
+- TOP 0.7.: Bauträgerauswahl für Baugrundstücke; Städtisches Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Sozial Betreutes Wohnhaus; Privates Grundstück für die Bebauung im Rahmen des Kommunalen Wohnungsbauprogramms - Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B); Aufnahme in das Förderprogramm Kommunales Wohnungsbauprogramm ; Teilprogramm für Benachteiligte am Wohnungsmarkt (KomPro/B); Aufnahme in das Förderprogramm Kommunales Wohnungsbauprogramm; Teilprogramm für Clearinghäuser (KomPro/C); Sitzungsvorlage Nr. 08-14 / V 08384; Beschluss des Sozialausschusses vom 08.03.12 (VB)
+- TOP 0.1.: BV Bacherstr. 1; Sanierung u. Umbau Bestandsgebäude, DG-Ausbau, Neuerrichtung Balkonanlage; Neubau zweier Reihenhäuser mit zwei Duplexgaragen; negative Stellungnahme des BA 17 vom 21.06.11; Schreiben der Lokalbaukommission vom 23.01.12
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Neubau einer 4-gruppigen Kinderkrippe in der Deisenhofener- / Herzogstandstraße im 17. Stadtbezirk Obergiesing-Fasangarten - Produkt 1.1 - Finanzierung u. Mittelbereitstellung für den Bau einer Kinderkrippe; Sitzungsvorlage Nr. 08-14 / V 08469; Beschluss des Ausschusses für Bildung u. Sport des Stadtrates vom 07.03.2012 (SB); Ergänzung vom 23.01.12
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Parklizenz im östlichen Bereich der Deisenhofener Straße; Bürgerantrag (verwiesen aus der Sitzung vom 14.02.2012)
+- TOP 0.1.: Schlierseestraße 47 - 75 - Ostfahrbahn; Erinnerungsverfahren; Zuleitung des Baureferats-Tiefbau mit der Bitte um Stellungnahme
+- TOP 0.1.: Öffnung der in Richtung Osten einbahngeregelten Anliegerfahrbahn der Werinherstraße zwischen Heimgartenstraße und Herzogstandstraße für den gegenläufigen Radverkehr; Anpassung nach Kreuzungsumbau u. Neuerrichtung einer Signalanlage; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.2.: Taxistandplatz Giesinger Bahnhofplatz: Verschiebung; Taxistandplatz Schlierseestraße: Aufhebung; Änderung der Sperrbeschilderung und Haltverbotsregelungen am Giesinger Bahnhofplatz; verkehrsrechtliche Anordnung nach § 45 StVO; Mitteilung des KVR
+- TOP 0.3.: Erneuerung der Eisenbahnüberführung über die Chiemgaustraße; Anfrage des BA 17 vom 20.12.11; Antwortschreiben des RAW vom 14.02.12
+- TOP 0.4.: Errichtung eines Zebrastreifens Lincolnstraße / Ecke Feuerbachstraße; BA-Antrag Nr. 08-14 / B 03548 vom 13.12.11; Antwortschreiben des KVR vom 17.02.12
+- TOP 0.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.6.: Lichtzeichenanlage für Blinde an der Werinherstraße / Ecke Tegernseer Landstraße; BA-Antrag Nr. 08-14 / B 03296 vom 12.07.11; Antwortschreiben des KVR vom 06.02.12
+- TOP 0.7.: Buslinie 145; Pressemitteilung der "Freien Wähler"
+- TOP 0.8.: Lichtzeichenanlagen-Bauprogramm 2012; Schreiben des BA 17 vom 17.02.2012; Antwort des KVR vom 23.02.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Unterrichtungen der UNB im Vollzug der Baumschutzverordnung 5.4.4.1.1 Amerstorfferstr. 13 (Gefahrenbaum); Bescheid vom 03.02.12 5.4.4.1.2 Winlandstraße 26; Bescheid vom 03.02.12 5.4.4.1.3 St.-Quirin-Str. 19; Bescheid vom 16.02.12
+- TOP 0.2.: Ökologischer Kriterienkatalog a) Fortschreibung b) Klimaschutzfahrplan 2 c) Energetisches Bauen in den ökologischen Kriterienkatalog mit aufnehmen Sitzungsvorlagen Nr. 08-14 / V 08797; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung u. Bauordnung u. des Umweltschutzausschusses vom 07.03.2012 (VB)
+- TOP 0.3.: PERSPEKTIVE MÜNCHEN - Aktualisierung der Leitlinie Ökologie; Themenschwerpunkt: Klimawandel u. Klimaschutz; Öffentlichkeitsphase u. Einarbeitung; Sitzungsvorlage Nr. 08-14 / V 07948; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung u. Bauordnung und des Umweltschutzausschusses vom 07.03.12 (VB); Hinweis / Ergänzung vom 07.02.12
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Festival der Marionetten in der Weißenseestraße / Ecke Untersbergstraße vom 01.11.12 bis 05.11.12; Zuleitung des KVR vom 06.02.12 mit der Bitte um Stellungnahme bis 30.03.12
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: Pennstraße 42; 2 Eichen, 1 Birke, 1 Buche
+- TOP 6.7.1.2.: Kiefernstr. 20 a; 2 Kiefern, 3 Fichten
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.1.: Änderung der Satzung der Münchner Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- u. Videoaufnahmen in öffentlichen Grünanlagen; BA-Antrags-Nr. 08-14 / B 03354 des BA 07 vom 11.10.11; Schreiben des Direktoriums vom 27.01.12 mit der Bitte um Stellungnahme
+- TOP 7.2.: Mittelfristige Finanzplanung 2011 - 2015; Mehrjahresinvestitionsprogramm - Anhörungsverfahren; Fortschreibung für die Jahre 2012 - 2016; Zuleitung der Stadtkämmerei vom 20.02.12 mit der Bitte um Stellungnahme bis 13.04.12
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Keine Werbung für Spielotheken auf städtischen Bussen und Bussen von Subunternehmern; Antrag des BA 7 vom 11.01.12; Antwortschreiben der MVG vom 06.02.12 mit der Bitte um Kenntnisnahme
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
