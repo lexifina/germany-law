@@ -1,0 +1,101 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-03-14T17:00:00+01:00
+- Ende: 2012-03-14T21:45:00+01:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2771
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2771
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=54940
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen im Ausschuss beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 6. Sitzung der BVV am 14.03.2012 - beantwortet
+- TOP 3: Konsensliste für die 6. Sitzung der BVV am 14.03.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3.1: Beschlussempfehlungen von Ausschüssen - Teil I - Haushalt - (offen)
+- TOP 3.1.1: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.2: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.3: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.4: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.5: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.6: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Änderungen in der BVV beschlossen
+- TOP 3.1.10: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.11: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.12: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.13: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.14: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.15: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.16: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.17: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.18: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.19: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.20: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.21: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.22: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.23: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - ohne Änderungen in der BVV beschlossen
+- TOP 3.1.24: Neue Fahrradstreifen und Fahrradwege bei den bezirklichen Maßnahmen stets prüfen! - überwiesen
+- TOP 3.2: Musikschule Reinickendorf zur Kooperation mit Partnerschulen entwickeln - überwiesen
+- TOP 3.3: Berufung von beratenden Mitgliedern des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 6. Sitzung der BVV am 14.03.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Ausschöpfung der Konjunkturprogramme - überwiesen
+- TOP 7.2: Fahrradstellplätze vor dem Rathaus-Altbau - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.3: Erlass der Verordnung über die Festsetzung des Bebauungsplanes 12-13 vom 12. April 2007 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Familienzentren versus Mädchen- und Frauenarbeit? - beantwortet
+- TOP 8.2: Arbeit der freien Träger im Jugendamt Reinickendorf - vertagt
+- TOP 8.3: Rückläufer in Reinickendorf - vertagt
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - Teil II - (offen)
+- TOP 10.1: Keine Veränderungen der Kündigungsfristen im Mietrecht - erledigt
+- TOP 10.2: Niedrigschwellige Sportangebote - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Spielplatz Zehntwerderweg / Wolfacher Pfad in Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Gasbeleuchtung in Frohnau / Hermsdorf - in der BVV abgelehnt
+- TOP 10.5: Erneuerung des Regenwasserkanals im Becherweg durch die Berliner Wasserbetriebe - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Rauchmelderpflicht endlich in Berlin durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Sicherung Friedhof auf dem Karl-Bonhoeffer-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Borsigwalde: 11. Ortsteil Reinickendorfs - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Projektmittelfonds "Schule" schaffen - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Endlich eine Gemeinschaftsschule im Märkischen Viertel? - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Öffentlichkeitsbeteiligung bei bezirklichen Bebauungsplanverfahren online - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Sitzgelegenheiten Quäkerstraße / Auguste-Viktoria-Allee - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Integrationspreis 2012 - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Integrationslotsinnen in Regelfinanzierung - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Teilnahme an Berliner Suchthilfestatistik - erledigt
+- TOP 10.16: Gelände Karl-Bonhoeffer-Nervenklinik - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Liste laufender und geplanter Baumaßnahmen im öffentlichen Straßenland des Bezirks - erledigt
+- TOP 10.18: Gehwegvorstreckung im Bereich Kreuzung Treskowstraße / Schlieperstraße prüfen - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Ausstellung "Kinder haben Rechte" ins Rathaus Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Fußgängerampel am Südaufgang des S-Bahnhofs Waidmannslust - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Ehrenamtliches Engagement von Bürgerinnen und Bürgern mit Migrationshintergrund fördern - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Beirat für Frauen- und Mädchenangelegenheiten im Bezirk stärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Honorare für Dozentinnen und Dozenten - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Stand der geschlechterbewussten Arbeit in den Jugendeinrichtungen - überwiesen
+- TOP 12.2: Frohnauer Straße instandsetzen - überwiesen
+- TOP 12.3: Europäisches Jahr für aktives Altern und Solidarität - überwiesen
+- TOP 12.4: Lärmschutz auf der Hennigsdorfer Straße und Heiligenseestraße umsetzen - überwiesen
+- TOP 12.5: Ideen für schöne Plätze in Reinickendorf - überwiesen
+- TOP 12.6: Tag der Elektromobilität 2012 - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Prioritätenliste für Bordabsenkungen des Behindertenbeirates von 2010 prüfen! - überwiesen
+- TOP 12.8: Grünpflege durch Beweidung - überwiesen
+- TOP 12.9: Einseitiges Halteverbot im Einmündungsbereich Thaterstr. durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Anschaffung eines Moduls für Sprachausgabe beim Fahrstuhl zwischen Alt- und Neubau im Rathaus Reinickendorf - überwiesen
+- TOP 12.11: Ehrenamtliche Sprachmittler / Dolmetscher - überwiesen
+- TOP 12.12: Betreuung von Obdachlosen in Reinickendorf sicher stellen! - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Trimm-Dich-Pfad im Tegel-Forst erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Trimm-Dich-Pfade - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Unterschutzstellung von Schul- und Feuerwehrgebäude auf dem Lübarser Dorfanger - überwiesen
