@@ -1,0 +1,51 @@
+# 38. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-03-15T16:00:00+01:00
+- Ende: 2012-03-15T22:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1881
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1881
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_03_15 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00090826.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Aktuelle Stunde zur Zukunft des Kulturpalastes - zur Kenntnis genommen
+- TOP 3: Sicherung der Zukunft von Kulturpalast und Philharmonie - punktweise Zustimmung
+- TOP 4: Weitere Öffnung des Kulturpalastes bis zum Ablauf der Betriebsgenehmigung - Ablehnung
+- TOP 5: Umbesetzung im Petitionsausschuss - gewählt
+- TOP 6: Nachwahl für die Verbandsversammlung und den Hauptausschuss des Zweckverbandes Oberelbe (Z-VOE) - gewählt
+- TOP 7: Umbesetzung im Ausschuss für Allgemeine Verwaltung, Ordnung und Sicherheit - gewählt
+- TOP 8: Umbesetzung im Ausschuss für Kultur - gewählt
+- TOP 9: Umbesetzung im Ausschuss für Wirtschaftsförderung - gewählt
+- TOP 10: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 11: Umbesetzung im Betriebsausschuss für IT-Dienstleistungen, Stadtentwässerung und Friedhofswesen - gewählt
+- TOP 12: Umbesetzung im Betriebsausschuss für Städtische Krankenhäuser und Kindertageseinrichtungen - gewählt
+- TOP 13: Umbesetzung im Zeitweiligen Ausschuss "Untersuchung des Verwaltungshandelns bei der Festsetzung von Straßenausbaubeiträgen" - gewählt
+- TOP 14: Umbesetzung im Ortsbeirat Prohlis - gewählt
+- TOP 15: Tagesordnungspunkte ohne Debatte
+- TOP 16: Verkauf des Grundstückes Liliengasse 19 - Vertagung
+- TOP 17: Neubau des Gymnasiums Bürgerwiese mit Dreifeldsporthalle, sowie Herstellung der Sport- und Pausenfreiflächen, Parkstraße 4, 01069 Dresden - Vertagung
+- TOP 18: Bebauungsplan Nr. 194 B, Dresden-Friedrichstadt Nr. 10, Stadthäuser (ehemaliges Bramsch-Areal) - Vertagung
+- TOP 19: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen im Jahr 2012 - Vertagung
+- TOP 20: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem regionalen Anlass an Sonntagen im Jahr 2012 - Vertagung
+- TOP 21: Schaffung eines "Dresdner Revolutionsweges" als Gedenkweg mit ausgewählten Stationen zur Erinnerung an die Ereignisse und den Verlauf der Friedlichen Revolution 19899/90 - Zustimmung
+- TOP 22: Sächsischer Familientag 2014 in Dresden
+- TOP 23: Festlegung des Kostensatzes zur Betreibung des Übergangswohnheimes Hechtstraße 10 - Vertagung
+- TOP 24: Festlegung des Kostensatzes zur Betreibung des Übergangswohnheimes Hubertusstraße 36 c - Vertagung
+- TOP 25: Vorhabenbezogener Bebauungsplan Nr. 6007, Dresden-Neustadt, Globus SB-Markt am Alten Leipziger Bahnhof - Vertagung
+- TOP 26: Vorhabenbezogener Bebauungsplan Nr. 6006, Dresden-Cotta, Am Frosch - Vertagung
+- TOP 27: Hochwasserschutz Laubegast - Weiteres Vorgehen einschließlich Umgang mit den Ergebnissen des Beteiligungsprozesses - Vertagung
+- TOP 28: Schlosspark Pillnitz muss unentgeltlich zugänglich bleiben - Zustimmung
+- TOP 29: Verbesserung der Bedingungen schulischer Integration von Schülerinnen und Schülern mit besonderen Bedarfen in Dresden - Vertagung
+- TOP 30: Sondervermögen Schulbauten - Vertagung
+- TOP 31: Deine Stadt - Dein Geld! Bürgerhaushalt jetzt vorbereiten! - Vertagung
+- TOP 32: Einrichtung von Fahrradstellplätzen - Vertagung
+- TOP 33: Schulleitungen in die Schulnetzplanung einbeziehen - Vertagung
+- TOP 34: Bildung eines Beirates zur Verbesserung der sozialen Integration wohnungsloser Menschen oder von Wohnungslosigkeit bedrohter Menschen in Dresden - Vertagung
+- TOP 35: Gerechte Kosten der Unterkunft und Heizung - jetzt richtiges schlüssiges Konzept für Dresden - Vertagung
+- TOP 36: Zukunftskonzept für die städtischen Krankenhäuser (10-Punkte-Plan) - Vertagung
