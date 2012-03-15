@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 10. Sitzung des Verbandsausschusses (2012-03-15)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2010-VA-11%7CAM-rvr-noe%7C2
