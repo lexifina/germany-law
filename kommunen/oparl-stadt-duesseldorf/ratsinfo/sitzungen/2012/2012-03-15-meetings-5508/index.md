@@ -1,0 +1,68 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-03-15T14:00:00+01:00
+- Ende: 2012-03-15T20:00:00+01:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5508
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5508
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00173920.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00173920.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00173920.pdf
+
+## Tagesordnung
+
+- TOP 1: Verleihung eines Ehrenringes - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - einstimmig beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell Rh Laubenburg: Stellt die Mittelvergabe an den Ring politischer Jugend ............. - beantwortet
+- TOP 4.2: Anfrage Rh Laubenburg:Aktivitäten des neonazistischen „Aktionsbüros Mittelrhein“ in Düsseldorf...... - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage der Ratsfraktion FREIE WÄHLER: Drogenrückstände bei Kindern - beantwortet
+- TOP 5.2: Anfrage SPD: Unterstützung des ESC durch die IDR - beantwortet
+- TOP 5.3: Anfrage Freie Wähler: Veröffentlichung von Bildern in den Ausschüssen - beantwortet
+- TOP 5.4: Anfrage Bü90/Grü: Städtischer Pressespiegel - beantwortet
+- TOP 5.5: Anfrage Linke: Videoüberwachung - beantwortet
+- TOP 5.6: Anfrage Linke: Geschäftsordnung - schriftlich beantwortet
+- TOP 5.7: Anfrage Linke: Abschiebungen 2011 - schriftlich beantwortet
+- TOP 5.8: Anfrage der Ratsfraktionen von FDP und CDU: Schloss Kalkum - schriftlich beantwortet
+- TOP 5.9: Anfrage CDU un FDP: Unterstützung von Demenzkranken - schriftlich beantwortet
+- TOP 5.10: Anfrage der SPD-Ratsfraktion: Erlass von Denkmalbereichssatzungen - schriftlich beantwortet
+- TOP 5.11: Anfrage Bü90/Grü: Plan B für den Hofgarten? - schriftlich beantwortet
+- TOP 5.12: Anfrage des Ratsherrn Raub: Zukunft des Franklinhofes - schriftlich beantwortet
+- TOP 5.13: Anfrage Rh Laubenburg: Nutzung von Bezirksverwaltungsstellen durch Parteien als Form verdeckter Part - schriftlich beantwortet
+- TOP 5.14: Anfrage Rh Laubenburg: Strom- und Gassperren 2011 - schriftlich beantwortet
+- TOP 6: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 7: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 8: Stadtbahnlinie U79, Aufzugnachrüstung U-Bf Nordstraße - einstimmig beschlossen
+- TOP 9: Lokale Agenda und Fairtrade Stadt - einstimmig beschlossen
+- TOP 10: Mitgliederversammlung des Städtetages NRW am 13. Juni 2012 in Mönchengladbach - zur Kenntnis genommen
+- TOP 11: Bestellung beratender Mitglieder des Jugendrates in Ausschüsse - einstimmig beschlossen
+- TOP 12: Abberufung und Bestellung von Prüferinnen und Prüfern für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 13: Neuwahl eines Schiedsmannes - einstimmig beschlossen
+- TOP 14: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 15: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 16: Planungsmaßnahmen
+- TOP 17: Integ.Handlungskonzept Rath/Mörsenbr. u. Wersten/Holthausen - einstimmig beschlossen
+- TOP 18: B-Plan 5777/059 Gebiete in Flingern Nord; Satzung - einstimmig beschlossen
+- TOP 19: B-Plan 5777/060 Nördlich Flinger Broich; Satzung - einstimmig beschlossen
+- TOP 20: BPl5782/10-OBStr-§13,Stell.Satzung - einstimmig beschlossen
+- TOP 21: Anträge
+- TOP 21.1: Antrag der SPD-Ratsfraktion: Kein Verkauf der IDR - mehrheitlich abgelehnt
+- TOP 21.2: Antrag SPD: Public Viewing EM 2012 - mehrheitlich abgelehnt
+- TOP 21.3: Antrag der Ratsfraktionen von FDP und CDU: Resolution zu den Ladenöffnungszeiten in Düsseldorf - mehrheitlich beschlossen
+- TOP 21.4: Antrag Linke: Düsseldorfer Tag gegen Rassismus und Ausländerfeindlichkeit - mehrheitlich abgelehnt
+- TOP 21.5: ÄA SPD: Düsseldorfer Tag gegen Rassismus und Ausländerfeindlichkeit - mehrheitlich abgelehnt
+- TOP 21.6: Antrag Linke: Musikbunker erhalten - verwiesen
+- TOP 21.7: ÄA SPD: Musikbunker erhalten - verwiesen
+- TOP 21.7.1: ÄA Bü90/Grü: Verbleib der Sana Kliniken im kommunalen Arbeitgeberverband - zur Kenntnis genommen
+- TOP 21.8: Antrag SPD: Weitergeltung TVöD bei den Sana-Kliniken - mehrheitlich abgelehnt
+- TOP 21.8.1: Antrag Linke: Verbleib der Sana Kliniken im kommunalen Arbeitgeberverband - mehrheitlich abgelehnt
+- TOP 21.9: Antrag Bü90/Grü: Frauenförderung ist Personalentwicklung - verwiesen
+- TOP 21.10: Antrag Bü90/Grü: Weltverbraucherschutztag - mehrheitlich abgelehnt
+- TOP 21.11: Antrag Linke: Gute Löhne im Öffentlichen Dienst - mehrheitlich abgelehnt
+- TOP 21.12: Antrag Linke: Lehren aus dem IDR-Skandal - mehrheitlich abgelehnt
