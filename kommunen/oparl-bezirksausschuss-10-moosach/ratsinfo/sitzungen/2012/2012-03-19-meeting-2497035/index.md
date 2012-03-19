@@ -1,0 +1,85 @@
+# BA 10 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 10: Moosach
+- Beginn: 2012-03-19T19:30:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/298
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2497035
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2497035
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung, Protokoll der letzten Sitzung
+- TOP 2: Bürgerinnen und Bürger haben das Wort
+- TOP 2.1.: Maßnahmen zur besseren Erkennbarkeit der Poller auf dem gemeinsamen Geh- und Radweg entlang der Dachauer Straße (Ostseite) zwischen Eininger Straße und Haylerstraße (Bürgerantrag)
+- TOP 2.2.: Beteiligung der Bezirksausschüsse an dem Projekt ?Langfristige Siedlungsentwicklung? (Antrag des BA 15 Trudering-Riem)
+- TOP 2.3.: Keine Werbung für Spielhallen auf städtischen Bussen (Antrag des BA 7 Sendling-Westpark)
+- TOP 3: Berichte
+- TOP 3.1: UA Jugend, Soziales, Schule und Kultur
+- TOP 3.2: UA Verkehr
+- TOP 3.3.1.: Bereisungskommission Werbeanlagen
+- TOP 3.3.2.: Bericht UA-Sitzung am 13.02.2012
+- TOP 3.4: Sonstige Berichte
+- TOP 3.4.1.: Termine und Bekanntgaben
+- TOP 4.1: Anträge der SPD
+- TOP 4.1.1.: Parkverbot und Sicherung der Grünfläche an der Straße Am Neubruch
+- TOP 4.1.2.: Lüftungsschacht U-Bahnhof Moosach Breslauer Str. / Bunzlauer Kurve
+- TOP 4.1.3.: Poller Breslauer Str. / Bunzlauer Kurve
+- TOP 4.2: Anträge der CSU
+- TOP 4.2.1.: Akustische Signale für sehbehinderte und blinde Menschen an der Kreuzung Allacher Straße / Waldhornstraße
+- TOP 4.3: Anträge Bündnis 90 / Die Grünen / ÖDP
+- TOP 4.4: Anträge der F.D.P.
+- TOP 1: (E) Wiederinbetriebnahme der Buslinie 50 zwischen Lassallestraße und Moosach Bahnhof Empfehlung Nr. 08-14 / E 01079 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 11.10.2011
+- TOP 1.2.: (E) Budget der Bezirksausschüsse PA/Spielen in der Stadt e.V. Theater-/Tanzfestival "Rampenlichter", Mittelschule Leipziger Straße
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Regsam e.V. 16. Moosacher Kulturtage vom 07. - 15.07.2012
+- TOP 4: (E) Linienführung der Busse 169/162/163 wie vor dem 12.12.2010 Empfehlung Nr. 08-14 / E 01069 der Bürgerversammlung des Stadtbezirkes 10 - Moosach am 11.10.2011
+- TOP 4.5.: Entscheidung über Sondernutzungserlaubnis gemäß Vollmacht des OB: Mobiler Fahrradständer Bunzlauer Str. 7
+- TOP 6: Anhörungen
+- TOP 6.1.: Lichtzeichenanlagen-Bauprogramm 2012
+- TOP 6.2.: Mehrjahresinvestitionsprogramm - Anhörungsverfahren, Fortschreibung für die Jahre 2012 - 2016
+- TOP 6.3.: Erstmalige Herstellung der Waldhornstraße zwischen Manzostraße und Auerhahnweg
+- TOP 6.4.: Festzug zum 50-jährigen Bestehen des Moosacher Faschingsclubs am 29.04.12
+- TOP 6.5.: Änderung der Satzung der Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen
+- TOP 6.6.: Vollzug der Baumschutzverordnung, Einzelmaßnahmen a) Feldmochinger Str. 29 b) Wildermuthstr. 67 c) Triebstr. 8 - 10 a d) Eininger Str. 8
+- TOP 6.7.: Mieterbeiratswahl 2012, Entsendung von Mitgliedern
+- TOP 7: Antworten auf Anträge des BA und der Bürgerversammlung
+- TOP 7.1.: Anlage eines Dirt-Bike-Platzes in den Brachflächen an der Triebstraße
+- TOP 7.2.: Sachstand ehemaliger Bahnhof Oberwiesenfeld (Projektplanung wird erarbeitet)
+- TOP 7.3.: Umrüstung der Grundwassermessstelle in der Wildermuthstraße
+- TOP 7.4.: Vorfahrtsregelung Parkbucht Dachauer Straße / Emmy-Noether-Straße
+- TOP 7.5.: Verspätungen und Ausfälle bei der Tram 20 (durch Fahrzeugmangel verursacht)
+- TOP 7.6.: Informationsveranstaltung zu den neuen Notrufsäulen in den U-Bahnhöfen
+- TOP 7.7.: Sicherung des Fußgängerüberweges über die Tramgleise in der Bunzlauer Straße
+- TOP 7.8.: Aufstellung eines Buswartehäuschens an der Haltestelle Merseburger Straße sowie Vergrößerung des Wartebereichs
+- TOP 7.9.: Protokoll der Informationsveranstaltung zum Vorhaben der Fa. Air Liquide
+- TOP 7.10.: Anordnung von Kurzparkplätzen vor Bingener Str. 46
+- TOP 7.11.: Erstmalige Erstellung der Dachauer Straße; Planung von Kurzparkplätzen vor dem Anwesen Dachauer Str. 340, 342
+- TOP 8: Unterrichtungen
+- TOP 8.1.: Baumaßnahmen der SWM
+- TOP 8.2.: Meldeliste Bauvorhaben
+- TOP 8.3.: Gespräch des Referates für Bildung und Sport mit den Bezirksausschüssen: Liste der vom Stadtrat mit Sondermitteln bedachten Maßnahmeprojekte
+- TOP 8.4.: Mitteilung über ein Grundstücksgeschäft: Bunzlauer Straße
+- TOP 8.5.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Pickelstraße
+- TOP 8.6.: Absolutes Haltverbot im Wendehammer Brieger Straße
+- TOP 8.7.: Genehmigung der Zweckentfremdung von Wohnraum: Simrockstraße
+- TOP 8.8.: Kanalbau Lassallestraße: Bedarfs- und Projektgenehmigung
+- TOP 8.9.: Protokoll der Bereisung der aus verkehrlichen Gründen abgelehnten Säulenstandorte
+- TOP 8.10.: Gehbahnsanierung Pelkovenstr. 56 - 60
+- TOP 8.11.: Fahrbahnsanierung Dachauer Str. 258 - 272
+- TOP 8.12.: Unveränderte Fortführung einer Schank- und Speisewirtschaft: ?Schnulli's?, Bunzlauer Str. 14
+- TOP 8.13.: Schreiben des BA 1 Altstadt-Lehel zur Situation am Marienhof
+- TOP 8.14.: Stellungnahme (Zustimmung) der Landeshauptstadt München zur Laufveranstaltung ?Eternal Flame? am 21.05.2012
+- TOP 8.15.: Aktionstag für Familien am 04.05.2012
+- TOP 8.16.: Vollzug der Baumschutzverordnung: Fällungsantrag Leipziger Str. 11
+- TOP 8.17.: Mobilfunk: Erweiterungsvorhaben an bestehenden Mobilfunkstandorten mit LTE (nicht öffentlich)
+- TOP 8.18.: Ökologischer Kriterienkatalog (Vorlagen Nr. 08-14/ V 08797)
+- TOP 8.19.: Novellierung des Bayerischen Landesplanungsgesetzes (Vorlagen Nr. 08-14/ V 08905)
+- TOP 8.20.: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen (Stadtratsantrag) (Vorlagen Nr. 08-14/ V 08771)
+- TOP 8.21.: Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger?
+- TOP 8.22.: Mehrjahresinvestitionsprogramm des Referates für Bildung und Sport (Vorlagen-Nr. 08-14 / V 07927)
+- TOP 3.3: UA Bau, Umwelt und Wirtschaft
+- TOP 4: Anträge
+- TOP 5: Entscheidungen, abschließende Behandlung von Bürgerversammlungsempfehlungen
