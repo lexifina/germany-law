@@ -1,0 +1,115 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-03-20T19:00:00+01:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467502
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467502
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: BA-Beauftragter für Rechtsradikalismus
+- TOP .1.: NACHTRAG: Vorstellung der Umgestaltung der Fugenarbeiten auf dem Marienplatz und der Umgestaltung des Marienplatz-Sperrengeschosses
+- TOP .1.: Unterausschuss: Aufstellung eines Bebauungsplans für das Hackenviertel (Beschluss aus der Sitzung vom 14.02.2012)
+- TOP 1: (E) Untersuchung der Belastung der Zentrumsbewohner durch Baumaßnahmen (Ziffer 1 der Empfehlung) Empfehlung Nr. 08-14 / E 01212 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 29.11.2011
+- TOP 2: (E) Öffnung des Knöbelblocks für Fußgänger (Teil b der Empfehlung) Empfehlung Nr. 08-14 / E 01216 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel vom 29.11.2011
+- TOP 2.3.1: Bauvorhaben
+- TOP 2.1.: Hotterstraße 12: Rückbau des Nordschalthauses des Umspannwerks
+- TOP 2.2.: Maximilianstraße 33: Nutzungsänderung mit baulichen Änderungen einer Nutzungseinheit mit Laden, Büros und Lager in einer Gaststätte
+- TOP 2.3.: Platz der Opfer des Nationalsozialismus: Neugestaltung des Platzes
+- TOP 2.1.: Mittelfristige Finanzplanung 2011 - 2015
+- TOP 2.2.: Antrag des BA 7: Keine Werbung für Spielotheken auf städtischen Bussen
+- TOP 2.3.: Antrag des BA 15: Beteiligung der Bezirksausschüsse im Anhörungsverfahren an dem Projekt ?Langfristige Siedlungsentwicklung?
+- TOP 2.2.1: Gaststätten
+- TOP 2.1.: ?Backspielhaus?, Rumfordstraße 5:Genehmigung einer Freischankfläche
+- TOP 2.2.: Gaststätte ?Zum Franziskaner?, Perusastraße 5: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.: Gaststätte ?deli?, Brienner Straße 7: Genehmigung einer Freischankfläche
+- TOP 2.4.: NACHTRAG: O8 Gastronomie GmbH (ehemaliges Filmcasino), Odeonsplatz 8: Genehmigung einer Freischankfläche
+- TOP 2.5.: NACHTRAG: ?Café am Jakobsplatz?, Sebastiansplatz 12: Genehmigung einer Freischankfläche
+- TOP 2.2.2: Sondernutzungen
+- TOP 2.1.: Warenstellage Sendlinger Straße 49 ?Der Gürtelmacher?: Erläuterung des Beschlusses vom 14.02.2012
+- TOP 2.2.: BILD-Zeitungsständer, verschiedene Standorte
+- TOP 2.3.: NACHTRAG: Zeitungsentnahmegeräte Presse-Betrieb, verschiedene Standorte
+- TOP 1: (E) Abfalleimer häufiger und gründlicher leeren Empfehlung Nr. 08-14 / E 01211 der Bürgerversammlung des Stadtbezirkes 1 Altstadt-Lehel am 29.11.2011
+- TOP 1.3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP 1.1.: Französischer Gourmetmarkt vom 26.-29.09.2012, Rindermarkt
+- TOP 1.2.: Standkonzert mit Sammlung des Volksbundes der Deutschen Kriegsgräberfürsorge am 25.10.2012, Odeonsplatz
+- TOP 1.3.: Nektar Beach vom 18.05. - 08.09.2012, Praterinsel
+- TOP 1.4.: Solidaritätslauf des Theresia-Geradinger-Gymnasiums am 25.05.2012, Am Anger
+- TOP 1.5.: Berufsinformationstag am 26.04.2012, Odeonsplatz
+- TOP 1.6.: Karfreitagsprozession am 13.04.2012, Salvatorplatz/Odeonsplatz
+- TOP 1.7.: Informationsveranstaltung der DLRG am 05.05.2012, Neuhauser Straße
+- TOP 1.8.: Französischer Gourmetmarkt vom 25.-28.04.2012, Rindermarkt
+- TOP 1.9.: NACHTRAG: Informationsveranstaltung der bayerischen Metall- und Elektroindustrie am 21.04.2012, Neuhauser Straße
+- TOP 1.10.: NACHTRAG: Spieleabende in der Neuhauser Straße vom 06.05 bis 30.09.2012
+- TOP 1.11.: NACHTRAG: Münchner Stadtlauf 2012 am 24.06.2012
+- TOP 1.12.: NACHTRAG: Irisch-Bayerisches Kulturfestival vom 04.05. bis 06.05.2012, Sendlinger-Tor-Platz
+- TOP 1.13.: NACHTRAG: Nachtrag zu den Special Olympics National Summer Games, Big Band Konzert am 22.05.2012, Odeonsplatz
+- TOP 1.14.: NACHTRAG: Münchner Bauerntag am 23.06.2012, Marienplatz
+- TOP 1.15.: Europatag am 11.05.2012, Marienplatz
+- TOP 1.16.: NACHTRAG: DGB-Kulturfest und Open-Air-Konzert am 05.05.2012, Marienplatz u.a. Standorte
+- TOP 1.17.: NACHTRAG: Lange Nacht der Musik am 28.04.2012, Odeonsplatz
+- TOP 1.1.: BA 7: Änderung der Satzung der Münchner Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen
+- TOP 1.2.: Stellungnahme zur Entscheidung des BA bezüglich der Straßenreinigungsgebühren in der Westenriederstraße und dem Abbau der Bänke
+- TOP 1.1.: Unterausschuss: Sperrung der Prälat-Zistl-Straße für den KFZ-Verkehr (Beschluss vom 14.02.2012)
+- TOP 1.2.: Bürger: Fußgängerampel Sternstraße
+- TOP 1.3.: Antwortschreiben an die Regierung von Oberbayern wegen des Parkplatzes an der St. Anna-Straße
+- TOP 1: (E) Tempo 30 innerhalb des Altstadtrings
+- TOP 1.2.: (E) Ausweitung der Parklizenz für Anwohner des Hackenviertels während der Bautätigkeiten
+- TOP 3: (E) Exklusive Anwohnerparkplätze für die Anwohner des Oberanger, des Unterer Anger und der Sendlinger Straße
+- TOP 4: (E) Sendlinger Straße als Fußgängerzone im gesamten Abschnitt Empfehlung Nr. 08-14 / E 01209 der Bürgerversammlung des 1. Stadtbezirkes ? Altstadt Lehel am 29.01.2011
+- TOP 5: (E) Rechte Gehbehinderter in der Innenstadt - Personen mit Schwerbehindertenausweis aG und Bl Taxifahrten in der Fußgängerzone erlauben
+- TOP 5.1.: Einrichtung eines Behindertenparkplatzes in der Müllerstraße 14
+- TOP 5.2.: Antrag des BA 2 auf Baumpflanzung in der Müller- und Corneliusstraße
+- TOP 5.3.: Baumfällung Oettingenstraße 20
+- TOP 5.1.: Vorstellung der Kulturkonzeption für den ?Kulturstrand 2012? durch die Urbanauten
+- TOP 5.2.: Kulturkonzept der Schrannenhalle
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Projektteam "Tanz" des Wilhelmsgymnasiums Projekt "Tanz und Schule" vom 16.04. - 27.07.12
+- TOP 5.1.: Tag des offenen Denkmals
+- TOP 5.2.: Stellungnahme zur Stadtrats-Anfrage zur künstlerischen Nutzung des Areals ?Auf der Insel?
+- TOP 5.1.: Mieterbeiratswahl 2012: Entsendung eines Kandidaten
+- TOP 5.2.: Informationsveranstaltung für Beitragszahler, Neugestaltung Tal
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Schreiben des Kommunalreferats zum BA-Antrag auf Erhalt des Bolzplatzes der Glockenbachwerkstatt
+- TOP 0.3.: Zwischennachricht der LBK zum Bauvorhaben Weinstraße 8, TOP 2012.01 B 3.1.9
+- TOP 0.4.: Antwortschreiben der LBK zum Bauvorhaben Odeonsplatz 8, TOP 2012.02 B 3.1.1
+- TOP 0.5.: Nachbereitungsschreiben zum Bauvorhaben Residenzstraße 9, TOP 2012.02 B 3.1.7
+- TOP 0.6.: Antrag des BA 15 auf eine Veranstaltung zur Nachverdichtung in Trudering und ggf. anderen Stadtbezirken
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Viktualienmarkt Erlaubnis auf Erweiterung des Sortiments eines Standes
+- TOP 0.6.: Bürgerschreiben bezüglich Müllentsorgung Unsöld-/Bruderstraße
+- TOP 0.7.: Antwortschreiben der LBK bzgl. des Glühweinstandes des Pschorr am Viktualienmarkt
+- TOP 0.8.: Beschluss des Planungsausschusses vom 07.03.2012: Novellierung des Bayerischen Landesplanungsgesetzes
+- TOP 0.1.: Verkehrsrechtliche Anordnungen:
+- TOP 0.2.: Antwortschreiben des Baureferats, Gartenbau an einen Bürger bzgl. des Baumschnitts der Bäume im Vorgarten des Anwesens St.-Anna-Platz 1 und 1a
+- TOP 0.3.: Gefahrenbaumfällung Rochusstraße 5
+- TOP 0.4.: Antwortschreiben des KVR an Herrn Stadtrat Reissl bzgl. der Verlegung eines Fußgängerüberwegs am Rindermarkt nach Norden
+- TOP 0.5.: Antwortschreiben des KVR zum Antrag des BA 1 bzgl. der Schaltung der Ampel an der Sternstraße/Robert-Koch-Straße, TOP 2012.01 D 1.1
+- TOP 0.6.: Antwortschreiben des KVR zum eingeschränkten Halteverbot vor der Kinderkrippe Reitmorstraße 29, TOP 2011.09 D 3.4 und 2012.01 D 4.6
+- TOP 0.7.: Beschluss des Planungs- und Umweltausschusses: Ökologischer Kriterienkatalog
+- TOP 0.8.: Beschluss des Planungs- und Umweltausschusses: PERSPEKTIVE MÜNCHEN: Aktualisierung Leitlinie Ökologie
+- TOP 0.9.: Antwortschreiben des KVR zur Lichtzeichenanlage Frauen-/Zwingerstraße, TOP 2012.02 D 3.2
+- TOP 0.1.: Kurzbericht Weihnachtsoratorium J.S. Bach in der St. Anna Kirche
+- TOP 0.2.: Veranstaltungsbericht Theater des Hölzernen Gelächters
+- TOP 0.3.: Beschluss des Planungsausschusses vom 07.03.2012: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen
+- TOP 0.4.: Beschluss des Ausschusses für Bildung und Sport vom 30.11.2011: MIP 2011 - 2015
+- TOP 0.5.: Beschluss des Kinder- und Jugendhilfe- und des Sozialausschusses vom 27.03.2012: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplans 2012 für den bereich ?Förderung freier Träger?: - des Sozialreferats/Zentrale - des Stadtjugendamtes - des Amtes für Wohnen und Migration - des Amtes für Soziale Sicherung
+- TOP 5.4: Unterrichtungen (siehe Anlage)
+- TOP 5.0: Bericht
+- TOP 5.1: Anträge
+- TOP 5.2: Entscheidungen
+- TOP 5.3: Anhörungen
+- TOP 1.3.2: Sonstige
