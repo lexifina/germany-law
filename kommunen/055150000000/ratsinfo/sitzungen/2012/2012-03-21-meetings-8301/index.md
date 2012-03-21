@@ -1,0 +1,83 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-03-21T17:54:00+01:00
+- Ende: 2012-03-21T22:26:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8301
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8301
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00321460.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Ratsmitglieder
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Streichung der Mittel für die Errichtung bzw. Realisierung des Baugebietes "Sprakel nördlich der Landwehr"
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Umbenennung des Hindenburgplatzes - mehrheitlich beschlossen
+- TOP 11: Städtisches Stadion Hammer Straße - Erhaltungs und Sanierungsmaßnahmen - von der Tagesordnung abgesetzt
+- TOP 12: Konversion von britischen Stationierungskräften genutzten Liegenschaften in Münster - einstimmig geändert beschlossen
+- TOP 12.1: Konversion von britischen Stationierungskräften genutzten Liegenschaften in Münster
+- TOP 13: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstdt/Bahnhofsviertel, für das Kalenderjahr 2012 - mehrheitlich beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Nord, Ortsteil Kinderhaus, für das Kalenderjahr 2012 - mehrheitlich beschlossen
+- TOP 15: Zukunftsinvestitionsgesetz - Inanspruchnahme der Fördermittel in der Stadt Münster (Abschlussbericht) - einstimmig beschlossen
+- TOP 16: Über- und außerplanmäßige Aufwendungen und Auszahlungen im 2. Halbjahr 2011 - zur Kenntnis genommen
+- TOP 17: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 18: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan - einstimmig beschlossen
+- TOP 18.1: Strategisches Flächenmanagement: Zwischenbericht und Einführung eines Flächenplanes als Anlage zum Haushaltsplan
+- TOP 19: Optimierung bürgerorientierter Dienstleistungen: Sanierung Stadthaus 1 - einstimmig geändert beschlossen
+- TOP 20: Optimierung bürgerorientierter Dienstleistungen: Mittelfristige Büroflächenplanung der Stadtverwaltung Münster - einstimmig beschlossen
+- TOP 21: Außengastronomie in der Innenstadt, Evaluation und Neuorientierung - mehrheitlich beschlossen
+- TOP 21.1: Außengastronomie in der Innenstadt, Evaluation und Neuorientierung
+- TOP 22: Einrichtung eines Verfügungsfonds im Rahmen des Städtebauförderprogramms Aktive Stadt- und Ortsteilzentren für das Programmgebiet Münster-Innenstadt - mehrheitlich beschlossen
+- TOP 22.1: Einrichtung eines Verfügungsfonds im Rahmen des Städtebauförderprogramms Aktive Stadt- und Ortsteilzentren für das Programmgebiet Münster-Innenstadt
+- TOP 23: Gestaltung der Schaltschränke im Bahnhofsviertel in Kooperation mit der Immobilien- und Standortgemeinschaft Bahnhofsviertel Münster e.V. - mehrheitlich beschlossen
+- TOP 24: Stadtteilentwicklungskonzept / Bürgerbeteiligungsverfahren Münster-Kinderhaus - mehrheitlich beschlossen
+- TOP 24.1: Stadtteilentwicklungskonzept / Bürgerbeteiligungsverfahren Münster-Kinderhaus
+- TOP 25: Feststellung des Jahresabschlusses und des Lageberichts der Städtischen Bühnen Münster für das Wirtschaftsjahr 2010/2011 - einstimmig beschlossen
+- TOP 26: Wirtschaftsplan 2012/2013 des Theater Münster - einstimmig beschlossen
+- TOP 27: Neufassung der Richtlinien über Verfügungen aus dem Sonderfonds "Hilfen für Schwangere, Mütter und Kinder zum Schutz des ungeborenen Lebens" - einstimmig beschlossen
+- TOP 28: Ersatzbau und Erweiterung der Kita "Vogel-von-Falkensteinstraße" in Trägerschaft der Caritas-Münster e.V. - einstimmig geändert beschlossen
+- TOP 29: Genehmigung der Dringlichkeitsentscheidung:Ausbau der Kindertagesbetreuung - Kurzfristige Erweiterung von Kindertageseinrichtungen durch Dependancen zur Sicherung des Rechtsanspruchs für u3- und ü3-Kinder - einstimmig beschlossen
+- TOP 30: Ersatzbau und Erweiterung der Kita der Elterninitiative "Krokodile" e.V. in Münster-Nienberge (Baugebiet Waltruper Weg) - einstimmig beschlossen
+- TOP 31: Sachstandsbericht zur aktuellen Kindertagesbetreuungsausbauplanung (Bezug V/0438/2011) - zur Kenntnis genommen
+- TOP 32: Teilnahme der Stadt Münster am Modellvorhaben "Kommunale Präventionsketten" - einstimmig beschlossen
+- TOP 33: Abgabe des hälftigen Eigentums der Stadt Münster am Haus Rüschhaus in Münster-Nienberge - mehrheitlich geändert beschlossen
+- TOP 33.1: Abgabe des hälftigen Eigentums der Stadt Münster am Haus Rüschhaus in Münster-Nienberge
+- TOP 34: Öffentliches Hearing zur Baumschutzsatzung / Anregung gem. § 24 GO NRW, Nr. 74/2010 - einstimmig beschlossen
+- TOP 35: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - Änderung der Richtlinien - einstimmig beschlossen
+- TOP 35.1: Förderprogramm Energieeinsparung und Altbausanierung der Stadt Münster - Änderung der Richtlinien
+- TOP 36: Beirat für Klimaschutz der Stadt Münster - Berufung der Stellvertreter für die Mitglieder des Beirates - einstimmig geändert beschlossen
+- TOP 37: Entgeltordnung für das Gesundheitshaus Münster - einstimmig beschlossen
+- TOP 38: Bauleitplanung
+- TOP 38.1: Stadtbezirk Münster-Mitte
+- TOP 38.1.1: 3. Änderung des Bebauungsplanes Nr. 391: - einstimmig beschlossen
+- TOP 38.2: Stadtbezirk Münster-West
+- TOP 38.2.1: 3. Änderung des Bebauungsplanes Nr. 342: Mecklenbeck - Weseler Straße / - mehrheitlich beschlossen
+- TOP 38.2.2: Vorhabenbezogener Bebauungsplan Nr. 441, 1. Änderung - Beschluss zur Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 39: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 39.1: Tempo 100 auf der A 1 im Stadtbereich Münster - mehrheitlich beschlossen
+- TOP 39.2: Ratsresolution -Kindertagesbetreuung bedarfsgerecht ausbauen - auf das Betreuungsgeld verzichten- - mehrheitlich beschlossen
+- TOP 39.3: Occupy - mehrheitlich abgelehnt
+- TOP 40: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 40.1: Weitere Nutzung der Konversionsflächen in Gievenbeck jetzt vorbereiten
+- TOP 40.2: Weniger Kosten, weniger Sorgen - KiTa-Investorenmodelle ermöglichen - verwiesen
+- TOP 40.3: Sozialgerechte Bodennutzung - verwiesen
+- TOP 40.4: "Reform der Zuschusspolitik - Den Haushalt steuerbarer machen und für Zuschüsse mittelfristige Sicherheiten geben" - verwiesen
+- TOP 40.5: Frauenförderpläne in den städtischen Beteiligungsgesellschaften - verwiesen
+- TOP 40.6: Diskriminierung nicht fördern - verwiesen
+- TOP 40.7: Runder Tisch gegen Rechts - verwiesen
+- TOP 40.8: Zweckentfremdungsverordnung - verwiesen
+- TOP 41: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 42: Landtagswahl 2012: Außerplanmäßige Mittelbereitstellung zur Durchführung der Landtagswahl in der Stadt Münster - einstimmig beschlossen
+- TOP 43: Verschiedenes
