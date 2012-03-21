@@ -1,0 +1,340 @@
+---
+ecli: "ECLI:DE:BGH:2012:210312XIIZB510.10.0"
+court: "Bundesgerichtshof"
+spruchkoerper: "Zivilsenat-12"
+aktenzeichen: "XII ZB 510/10"
+decided: "2012-03-21"
+typ: "B"
+bemerkung: "Leitsatzentscheidung"
+source_url: "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&Datum=2012&Sort=1&Seite=29&nr=60000&anz=3531&pos=870&Blank=1.pdf"
+corpus_doc_id: "BGH_Zivilsenat-12_LE_2012-03-21_XII_ZB_510_10_NA_NA_0.txt"
+cites_law: ["germany/bund/acts/bgb/0181.md", "germany/bund/acts/bgb/1598a.md", "germany/bund/acts/bgb/1600.md", "germany/bund/acts/bgb/1600a.md", "germany/bund/acts/bgb/1629.md", "germany/bund/acts/bgb/1712.md", "germany/bund/acts/bgb/1713.md", "germany/bund/acts/bgb/1795.md", "germany/bund/acts/bgb/1796.md", "germany/bund/acts/bgb/1909.md", "germany/bund/acts/famfg/0172.md", "germany/bund/acts/famfg/0173.md", "germany/bund/acts/famfg/0174.md", "germany/bund/acts/famfg/0181.md", "germany/bund/acts/famfg/0182.md"]
+---
+
+# Bundesgerichtshof, XII ZB 510/10 vom 2012-03-21
+
+## Entscheidung
+
+BUNDESGERICHTSHOF
+                                BESCHLUSS
+   XII ZB 510/10
+
+                                        vom
+
+                                   21. März 2012
+
+                                in der Familiensache
+
+   Nachschlagewerk:       ja
+   BGHZ:                  ja
+   BGHR:                  ja
+
+
+
+   BGB §§ 181, 1629, 1795; FamFG §§ 7, 172, 174
+
+a) Im Verfahren der Anfechtung der Vaterschaft ist der anfechtende (rechtliche) Vater
+   von der gesetzlichen Vertretung des minderjährigen Kindes kraft Gesetzes ausgeschlossen. Die Umgestaltung des Verfahrens von einem Klageverfahren in ein Verfahren der freiwilligen Gerichtsbarkeit und die Einführung des Verfahrensbeistands
+   zum 1. September 2009 haben daran nichts geändert (Abgrenzung zu Senatsbeschluss vom 7. September 2011 - XII ZB 12/11 - FamRZ 2011, 1788).
+
+b) Da der Vertretungsausschluss an das zu beseitigende Statusverhältnis geknüpft ist,
+   ist der Vater jedenfalls aufgrund der Rechtslage seit 1. September 2009 auch bei der
+   Anfechtung durch andere Berechtigte, insbesondere in den Fällen des § 1600 Abs. 1
+   Nr. 2 und 5 BGB, einheitlich von der Vertretung des Kindes ausgeschlossen (Abgrenzung zu Senatsurteilen BGHZ 170, 161 = FamRZ 2007, 538 und vom 27. März
+   2002 - XII ZR 203/99 - FamRZ 2002, 880).
+
+c) Die Mutter des Kindes ist in diesen Fällen von der Vertretung des Kindes ausgeschlossen, wenn sie mit dem (rechtlichen) Vater verheiratet ist. Aus ihrer notwendigen Beteiligung am Abstammungsverfahren folgt noch kein Ausschluss von der Vertretung des Kindes.
+
+
+   BGH, Beschluss vom 21. März 2012 - XII ZB 510/10 - OLG Düsseldorf
+                                                       AG Erkelenz
+
+                                           -2-
+
+
+
+    Der XII. Zivilsenat des Bundesgerichtshofs hat am 21. März 2012 durch die
+    Vorsitzende Richterin Dr. Hahne und die Richter Dose, Dr. Klinkhammer,
+    Dr. Günter und Dr. Nedden-Boeger
+
+    beschlossen:
+
+
+          Die Rechtsbeschwerde gegen den Beschluss des 7. Senats für
+          Familiensachen des Oberlandesgerichts Düsseldorf vom 24. September 2010 wird auf Kosten der Beteiligten zu 1 und 2 zurückgewiesen.
+
+          Wert: 2.000 €
+
+
+
+
+                                         Gründe:
+
+                                            I.
+
+1         Die Beteiligte zu 1 ist die Mutter des betroffenen Kindes, das im Juni
+    2005 geboren wurde. Der Beteiligte zu 3 hatte bereits im Juli 2005 die Vaterschaft zu dem Kind anerkannt. Diese Anerkennung ist nicht wirksam geworden,
+    weil die Mutter ihr nicht zugestimmt hat. Sie und der Beteiligte zu 2 sind seit
+    dem 16. April 2010 miteinander verheiratet. Unter dem 19. April 2010 erkannte
+    der Beteiligte zu 2 die Vaterschaft zu dem betroffenen Kind mit Zustimmung der
+    Mutter an. Der Beteiligte zu 3 ficht in einem weiteren Verfahren als möglicher
+    leiblicher Vater die Vaterschaft des Beteiligten zu 2 an.
+
+2         Im vorliegenden Verfahren hat das Amtsgericht zur Vertretung des betroffenen Kindes im Anfechtungsverfahren eine Ergänzungspflegschaft eingerichtet und das Jugendamt zum Pfleger bestellt. Die dagegen von den Beteilig-
+
+                                         -3-
+
+
+
+    ten zu 1 und 2 eingelegte Beschwerde hat das Oberlandesgericht zurückgewiesen. Dagegen wenden sich die Beteiligten zu 1 und 2 mit ihrer zugelassenen
+    Rechtsbeschwerde, mit welcher sie die Aufhebung der Ergänzungspflegschaft
+    erreichen wollen.
+
+
+
+
+                                           II.
+
+3         Die zulässige Rechtsbeschwerde hat keinen Erfolg.
+
+4         1. Das Oberlandesgericht hat in seinem in JAmt 2010, 505 veröffentlichten Beschluss die Auffassung vertreten, dass die Anordnung der Ergänzungspflegschaft geboten sei, weil die Eltern nach §§ 1629 Abs. 2 Satz 1 iVm § 1795
+    Abs. 1 Nr. 3 BGB von der Vertretung kraft Gesetzes ausgeschlossen seien.
+    Zwar gelte die Regelung nur für Rechtsstreitigkeiten. Ob damit auch echte
+    Streitverfahren der freiwilligen Gerichtsbarkeit erfasst seien, könne offenbleiben. Denn aus der Reform des Familienverfahrensrechts sei jedenfalls nicht zu
+    ersehen, dass die bisher unstreitig der Regelung des § 1795 Abs. 1 Nr. 3 BGB
+    unterfallenden Rechtsstreitigkeiten dessen Geltungsbereich entzogen werden
+    sollten. Das Abstammungsverfahren sei allein durch die Qualifizierung im neuen Verfahrensrecht nicht mehr Familienstreitsache. Materiell bleibe es aber ein
+    Streitverfahren, das sich durch einen Interessengegensatz der Beteiligten auszeichne. Der Beschränkung des Anwendungsbereichs des § 1629 Abs. 2 a
+    BGB auf Verfahren nach § 1598 a BGB lasse sich nichts Gegenteiliges entnehmen. Die Vorschrift belege vielmehr, dass der Gesetzgeber den Vertretungsausschluss der Sorgeberechtigten für angemessen halte. Die Bestellung
+    eines Ergänzungspflegers sei auch im Hinblick auf eine etwaig vorrangige Bestellung eines Verfahrensbeistands nicht entbehrlich. Dieser könne zwar den
+    Interessengegensatz abmildern und den Tatbestand der Vertretungsentziehung
+
+                                           -4-
+
+
+
+    nach § 1796 BGB beeinflussen. Jedoch sei der Verfahrensbeistand nicht gesetzlicher Vertreter des Kindes, so dass seine Bestellung auch nicht von der
+    vorrangigen Prüfung der gesetzlichen Vertretung nach §§ 1629 Abs. 2, 1795
+    BGB entbinde.
+
+5          2. Das hält einer rechtlichen Prüfung im Ergebnis stand.
+
+6          Der Beteiligte zu 2 ist als - rechtlicher - Vater und die Beteiligte zu 1 als
+    dessen Ehefrau von der gesetzlichen Vertretung des Kindes im Anfechtungsverfahren ausgeschlossen, so dass zu Recht nach § 1909 Abs. 1 Satz 1 BGB
+    eine Ergänzungspflegschaft angeordnet worden ist.
+
+7          a) Ob § 1795 BGB auf Abstammungsverfahren nach dem zum 1. September 2009 in Kraft getretenen FGG-Reformgesetz vom 17. Dezember 2008
+    (BGBl I 2008, 2586, im Folgenden: FGG-Reformgesetz) und der Umgestaltung
+    des Abstammungsverfahrens von einem Klageverfahren (Verfahren in Kindschaftssachen nach §§ 640 ff. ZPO) in ein Verfahren der freiwilligen Gerichtsbarkeit nach §§ 169 ff. FamFG weiter anwendbar ist, ist umstritten.
+
+8          Zum Teil wird davon ausgegangen, dass Abstammungssachen keinen
+    Rechtsstreit im Sinne von § 1795 Abs. 1 Nr. 3 BGB mehr darstellen und dass
+    die am Verfahren beteiligten Eltern aufgrund ihrer Stellung im Verfahren an der
+    gesetzlichen Vertretung des Kindes nicht gehindert sind (Helms in Helms/
+    Kieninger/Rittner Abstammungsrecht in der Praxis Rn. 74 ff.; Helms/Balzer ZKJ
+    2009, 348, 349 f.; Gutzeit in Kaiser/Schnitzler/Friederici BGB Familienrecht
+    2. Aufl. § 1600 a Rn. 8 f.).
+
+9          Demgegenüber wird die Auffassung vertreten, dass § 1795 Abs. 1 Nr. 3
+    BGB erweiternd auszulegen sei und die Eltern sowohl im Feststellungsverfahren als auch im Anfechtungsverfahren als Verfahrensbeteiligte analog § 1795
+
+                                          -5-
+
+
+
+     Abs. 2 BGB iVm § 181 BGB stets ausgeschlossen seien (Kieninger in
+     Helms/Kieninger/Rittner   Abstammungsrecht      in   der   Praxis   Rn. 225 ff.;
+     MünchKommZPO/Coester-Waltjen/Hilbig 3. Aufl. § 172 Rn. 33 ff.; Dressler
+     Rpfleger 2010, 297; Vogel FPR 2011, 353, 354; Stößer in Prütting/Helms
+     FamFG 2. Aufl. § 172 Rn. 4 ff.; anders noch Stößer FamRZ 2009, 923, 926).
+
+10         Schließlich wird im Ausgangspunkt übereinstimmend mit dem Oberlandesgericht eine Orientierung an der herkömmlichen Anwendung des § 1795
+     BGB auf Abstammungsverfahren vertreten, weil sich durch die Umgestaltung
+     des Verfahrensrechts an der Vertretungsberechtigung der Eltern nichts geändert habe (OLG Hamburg FamRZ 2010, 1825; KG Rpfleger 2011, 157;
+     Staudinger/Rauscher BGB [2011] § 1600 a Rn. 25 ff.; Erman/Hammermann
+     BGB 13. Aufl. § 1600 a Rn. 14a; MünchKommBGB/Wellenhofer BGB 6. Aufl.
+     § 1600 a Rn. 9 ff.; MünchKommBGB/Wagenitz 6. Aufl. § 1795 Rn. 34; Löhnig
+     FamRZ 2009, 1798, 1799; Klinkhammer in Schnitzler Münchener Anwaltshandbuch Familienrecht 3. Aufl. § 29 Rn. 62, 23; differenzierend nach der Verfahrensrolle des Kindes Grün Vaterschaftsfeststellung und -anfechtung 2. Aufl.
+     Rn. 211 ff.; ähnlich Schwonberg in Schulte-Bunert/Weinreich FamFG 3. Aufl.
+     § 172 Rn. 14 f.).
+
+11         b) Die Streitfrage bedarf im vorliegenden Fall zwar nur insoweit der Entscheidung, als die Anfechtung der Vaterschaft durch den (angeblichen) leiblichen Vater nach § 1600 Abs. 1 Nr. 2 BGB berührt ist. Ihre Beantwortung hängt
+     aber von der allgemeinen Beurteilung ab, inwiefern sich die Reform des Verfahrensrechts zum 1. September 2009 auf die gesetzliche Vertretung des Kindes
+     im Abstammungsverfahren ausgewirkt hat. Die Frage ist dahin zu beantworten,
+     dass der Gesetzgeber die gesetzliche Vertretung in Abstammungssachen nicht
+     geändert hat und sich aus der Neuregelung des Verfahrensrechts nur in solchen Fällen Änderungen ergeben, in denen die gesetzliche Vertretung durch
+
+                                          -6-
+
+
+
+     die sorgeberechtigten Eltern und deren Ausschluss nach der Rechtslage vor
+     dem 1. September 2009 maßgeblich von den Besonderheiten des früheren Verfahrensrechts abhingen.
+
+12         aa) Der in § 1795 Abs. 2 BGB iVm § 181 BGB zum Ausdruck kommende
+     Rechtsgedanke ist auf den Ausschluss des rechtlichen Vaters von der gesetzlichen Vertretung des Kindes weiter anzuwenden. Der Vater kann nicht gesetzlicher Vertreter des Kindes sein, wenn das Verfahren auf die Beseitigung des
+     zwischen ihm und dem Kind bestehenden Statusverhältnisses gerichtet ist (zur
+     vorgelagerten Entscheidung über das "Ob" der Anfechtung s. Senatsurteil
+     BGHZ 180, 51 = FamRZ 2009, 861; zum Verhältnis dieser Entscheidung zur
+     Vertretung im Anfechtungsverfahren OLG Brandenburg FamRZ 2010, 472). Die
+     Anfechtung der Vaterschaft ist insoweit unverändert durch den abstrakten Interessengegensatz von Kind und rechtlichem Vater gekennzeichnet, zumal die
+     Beseitigung der rechtlichen Vaterschaft dazu führt, dass dem Kind die Grundlage für elementare subjektive Rechte wie Unterhalt und Erbrecht entzogen wird.
+     Dass Vater und Kind im Einzelfall gleichgerichtete Interessen an der Beseitigung der Vaterschaft haben mögen, verhielt sich nach der bis zum 31. August
+     2009 geltenden Rechtslage nicht anders und hat den Gesetzgeber nicht dazu
+     veranlasst, in Verfahren auf Antrag des Vaters oder des Kindes dem Vater die
+     gesetzliche Vertretung des Kindes zu gestatten.
+
+13         (1) Durch das neue Verfahrensrecht ist allerdings die formale Gegnerschaft von Vater und Kind in diesen Fällen entfallen. Nach der Begründung des
+     Gesetzentwurfs der Bundesregierung sollte dadurch das Verfahren flexibler gestaltet werden und dies wiederum mit dem Vorteil verbunden sein, dass "die
+     Beteiligten nicht ohne Not in die Position von Gegnern gebracht werden", was
+     "insbesondere für das Kind im Verhältnis zum anfechtenden Vater" gelte
+     (BT-Drucks. 16/6308 S. 243 f.). Daraus lässt sich indessen nicht schließen,
+
+                                          -7-
+
+
+
+     dass der Gesetzgeber zugleich dem anfechtenden Vater abweichend von der
+     vorherigen Rechtslage nunmehr die gesetzliche Vertretung des Kindes einräumen wollte. Vielmehr ist zu beachten, dass es sich bei der gesetzlichen Vertretung um eine materiellrechtliche Frage handelt und der hierfür zu berücksichtigende Interessenkonflikt der am Statusverhältnis Beteiligten allein durch eine
+     Änderung der diesen zugedachten verfahrensrechtlichen Stellung nicht beseitigt
+     worden ist, worauf das Oberlandesgericht zutreffend hingewiesen hat. Dass der
+     Gesetzgeber den Änderungen im Verfahrensrecht keine Ausstrahlung auf die
+     gesetzliche Vertretung zugedacht hat, zeigt sich etwa an den speziellen Regelungen in § 1629 Abs. 2 Satz 3 2. Halbsatz, Abs. 2 a BGB, die durch das
+     FGG-Reformgesetz nicht angetastet worden sind. Dementsprechend ist im Vorfeld der FGG-Reform darauf verwiesen worden, dass für die gesetzliche Vertretung sowie den Ausschluss der Vertretung die allgemeinen Regeln des bürgerlichen Rechts gelten (Heiter FPR 2006, 417, 420), ohne dass dabei Auswirkungen der Verfahrensneuordnung auf die gesetzliche Vertretung in Betracht gezogen worden sind.
+
+14         Der Ausschluss des anfechtenden Vaters von der Vertretungsbefugnis
+     als Prozessgegner des Kindes war überdies schon nach früherem Recht gesetzlich nicht ausdrücklich geregelt, sondern nur aus dem Rechtsgedanken des
+     § 181 BGB herzuleiten. Denn es wurde vom Gesetzgeber offenbar als selbstverständlich angesehen, dass der Vormund bzw. Elternteil nicht zugleich für
+     sich und das Kind handeln kann (vgl. Staudinger/Engler [2004] § 1795 Rn. 29;
+     MünchKommBGB/Wagenitz 6. Aufl. § 1795 Rn. 35). Allein aus der Beseitigung
+     der Gegnerstellung von Vater und Kind nach § 1600 e Abs. 1 Nr. 1, 3 BGB lässt
+     sich indessen wie ausgeführt nicht der Schluss ziehen, dass dadurch dem Vater
+     die gesetzliche Vertretung zugewiesen werden sollte. Vielmehr ist davon auszugehen, dass der Gesetzgeber etwaige Konsequenzen des FGG-Reformgesetzes für die gesetzliche Vertretung des minderjährigen Kindes nicht beab-
+
+                                          -8-
+
+
+
+     sichtigt hat (Schwonberg in Schulte/Bunert/Weinreich FamFG 3. Aufl. § 172
+     Rn. 12; Stößer in Prütting/Helms FamFG 2. Aufl. § 172 Rn. 4) und somit der in
+     §§ 1795 Abs. 2, 181 BGB zum Ausdruck kommende Rechtsgedanke auf Vater
+     und Kind als Beteiligte des zu beseitigenden Statusverhältnisses weiterhin anzuwenden ist.
+
+15         (2) Der Senat hat allerdings zur früheren Rechtslage - was das Oberlandesgericht übersehen hat - im Fall der Vaterschaftsanfechtung nach § 1600
+     Abs. 1 Nr. 2 BGB einen Vertretungsausschluss des rechtlichen Vaters verneint
+     (Senatsurteil BGHZ 170, 161 = FamRZ 2007, 538 Rn. 14). Die Anfechtung
+     durch den (angeblichen) leiblichen Vater zeichnete sich indessen nach der bis
+     31. August 2009 bestehenden Rechtslage durch die Besonderheit aus, dass die
+     Klage nach § 1600 e Abs. 1 Satz 1 Nr. 4 BGB gegen das Kind und den rechtlichen Vater zu richten war. Der Senat ist dementsprechend von der - formalen -
+     Betrachtung ausgegangen, dass Vater und Kind in diesem Fall nicht Prozessgegner, sondern Streitgenossen waren. Demgegenüber hat der Senat bei der
+     Anfechtung durch die Mutter entschieden, dass diese das Kind schon für die
+     Zustellung der Beiladung nach § 640 e ZPO nicht vertreten könne (Senatsurteil
+     vom 27. März 2002 - XII ZR 203/99 - FamRZ 2002, 880, 882).
+
+16         Ob an dieser auf formalen Gründen beruhenden Unterscheidung festzuhalten ist (vgl. OLG Hamburg FamRZ 2010, 745), bedarf indessen keiner Entscheidung, weil jedenfalls in Folge der FGG-Reform die Grundlage für die unterschiedliche Behandlung der genannten Fälle entfallen ist. Durch die gesetzliche Neuregelung sind die genannten Besonderheiten, die sich insoweit aus
+     dem Verfahrensrecht ergeben haben, gleichzeitig mit der beseitigten Passivlegitimation entfallen. Der Gesetzgeber hat nur in Bezug auf die Aktivlegitimation
+     und die Antragsberechtigung an der bisherigen Bestimmung in § 1600 BGB
+     festgehalten. Dagegen ist die Regelung zur Passivlegitimation (§ 1600 e BGB)
+
+                                             -9-
+
+
+
+     ersatzlos aufgehoben worden, weil das Verfahren nunmehr als Verfahren der
+     freiwilligen Gerichtsbarkeit ohne einen förmlichen Antragsgegner zu führen ist
+     und die übrigen von der Anfechtung betroffenen Personen nach § 172 FamFG
+     vom Familiengericht nur noch als Beteiligte hinzuzuziehen sind. Damit unterscheidet sich das Anfechtungsverfahren auf Antrag des Vaters oder des Kindes
+     (§ 1600 Abs. 1 Nr. 1 und 4 BGB) nicht mehr von denjenigen auf Antrag der Mutter (Nr. 3), des (angeblichen) leiblichen Vaters (Nr. 2) und der anfechtungsberechtigten Behörde (Nr. 5), so dass der Vertretungsausschluss des Vaters einheitlich nach materiellen Kriterien zu beurteilen ist.
+
+17          Die vereinzelt vorgeschlagene Differenzierung danach, ob das Kind Antragsteller oder sonstiger Beteiligter ist (so Grün Vaterschaftsfeststellung und
+     -anfechtung 2. Aufl. Rn. 211 f.), vermag demgegenüber nicht zu überzeugen.
+     Denn der mit der Beseitigung des Statusverhältnisses verbundene Interessenkonflikt und die Wahrnehmung der Rechte des Kindes hängen nicht davon ab,
+     ob das Kind Antragsteller oder sonstiger Beteiligter des Verfahrens ist. Das
+     zeigt sich etwa daran, dass das Kind - vorbehaltlich der Entscheidung über das
+     "Ob" der Anfechtung (vgl. Senatsurteil BGHZ 180, 51 = FamRZ 2009, 861 und
+     zur Vertretung im Verfahren OLG Brandenburg FamRZ 2010, 472) - im Verlauf
+     des Abstammungsverfahrens als sonstiger Beteiligter nach § 1600 Abs. 1 Nr. 4
+     BGB einen eigenen Anfechtungsantrag ("Gegenantrag") stellen kann. Der Ausschluss von der Vertretungsbefugnis ist demnach, weil andere geeignete Kriterien fehlen, einheitlich an die Beteiligung am zu beseitigenden Statusverhältnis
+     der rechtlichen Vaterschaft zu knüpfen und gilt für den rechtlichen Vater somit
+     in allen Fällen der Vaterschaftsanfechtung.
+
+18          (3) Die Notwendigkeit der Ergänzungspflegschaft entfällt schließlich nicht
+     durch die nunmehr in § 174 FamFG vorgesehene Bestellung eines Verfahrensbeistands in Abstammungssachen. Zwar hat der Senat zur Entziehung der el-
+
+                                          - 10 -
+
+
+
+     terlichen Vertretungsbefugnis nach § 1629 Abs. 2 Satz 1 BGB iVm § 1796 BGB
+     in Kindschaftssachen entschieden, dass den Eltern auch im Fall eines erheblichen Interessengegensatzes die Vertretungsbefugnis nicht entzogen werden
+     darf, wenn bereits durch die Bestellung eines Verfahrensbeistands für eine
+     wirksame Interessenvertretung des Kindes Sorge getragen werden kann (Senatsbeschluss vom 7. September 2011 - XII ZB 12/11 - FamRZ 2011, 1788
+     Rn. 18 ff.). Insoweit unterscheiden sich aber Abstammungssachen von Kindschaftssachen bereits dadurch, dass das Kind zur Stellung eines Antrags nach
+     § 1600 Abs. 1 Nr. 4 BGB eines gesetzlichen Vertreters bedarf (§ 1600 a Abs. 3
+     BGB) und die vom Gesetzgeber in Kindschaftssachen angestellte Erwägung, in
+     die gesetzliche Vertretung des Kindes entsprechend der vorausgegangenen
+     Rechtslage nicht eingreifen zu wollen, für Abstammungssachen schon in Anbetracht der anderen Ausgangslage nicht greifen kann. Der Senat hat dementsprechend in jener Entscheidung die Kindschaftssachen von anderen Verfahren
+     abgegrenzt, in denen eine wirksame Interessenvertretung des Kindes auch
+     dessen gesetzliche Vertretung erfordert (Senatsbeschluss vom 7. September
+     2011 - XII ZB 12/11 - FamRZ 2011, 1788 Rn. 15), was in Abstammungssachen
+     der Fall ist.
+
+19          bb) Auch die Beteiligte zu 1 ist von der Vertretung des betroffenen Kindes im Anfechtungsverfahren ausgeschlossen.
+
+20          (1) Allerdings kann diese Folge nicht schon aus der nach § 172 Abs. 1
+     Nr. 2 FamFG vorgeschriebenen Beteiligung der Mutter am Verfahren hergeleitet
+     werden. Auch insoweit ist vielmehr davon auszugehen, dass der Gesetzgeber
+     im Zuge der FGG-Reform jedenfalls keine grundsätzlichen Änderungen an der
+     gesetzlichen Vertretung in Abstammungsverfahren vornehmen wollte. Ein allein
+     aus der Verfahrensbeteiligung hergeleiteter Vertretungsausschluss, der in allen
+     Abstammungsverfahren gelten müsste (so - konsequent - Kieninger in Helms/
+
+                                           - 11 -
+
+
+
+     Kieninger/Rittner Abstammungsrecht in der Praxis Rn. 229), widerspräche besonderen gesetzlichen Regelungen. So enthält § 1629 Abs. 2 Satz 3 2. Halbsatz BGB die ausdrückliche Bestimmung, dass der Mutter für die Feststellung
+     der Vaterschaft die Vertretung nicht nach § 1796 BGB entzogen werden kann.
+     Diese Regelung wäre gegenstandslos, wenn die Mutter von der gesetzlichen
+     Vertretung schon kraft Gesetzes ausgeschlossen wäre. Ein Ausschluss der
+     Mutter von der Vertretung widerspräche aber vor allem auch der bewussten
+     gesetzlichen Wertung, dass die Mutter grundsätzlich in der Lage ist, das Kind
+     seinen   Interessen    entsprechend     im     Verfahren   zu   vertreten   (zum
+     Normzweck vgl. Palandt/Diederichsen BGB 71. Aufl. § 1629 Rn. 28 sowie
+     MünchKommBGB/Huber 6. Aufl. § 1629 Rn. 62 jeweils mwN). Dass das Gesetz
+     die Mutter nicht generell als von der Vertretung im Abstammungsverfahren
+     ausgeschlossen ansieht, verdeutlicht ferner § 173 FamFG. Danach ist der sorgeberechtigte Elternteil von der Vertretung des Kindes (im Vaterschaftsfeststellungsverfahren) - erst - ausgeschlossen, wenn das Kind durch das Jugendamt
+     als Beistand vertreten wird, was wiederum einen entsprechenden Antrag des
+     - sorgeberechtigten - Elternteils nach §§ 1712, 1713 BGB voraussetzt. Dass bei
+     der Vertretung durch die Mutter schließlich nicht zwischen Feststellungs- und
+     Anfechtungsverfahren unterschieden werden kann, zeigt sich am vorliegenden
+     Fall der Anfechtung durch den leiblichen Vater, welche nach § 182 FamFG im
+     Erfolgsfall nicht nur dazu führt, dass das Nichtbestehen der Vaterschaft des
+     rechtlichen Vaters festgestellt wird, sondern (kraft Gesetzes) zugleich auch zur
+     Feststellung der Vaterschaft des Anfechtenden.
+
+21         (2) Die Mutter ist allerdings von der gesetzlichen Vertretung entsprechend § 1795 Abs. 1 Nr. 3 BGB dann ausgeschlossen, wenn sie mit dem
+     Vater verheiratet ist. Hier ist ähnlich wie in Bezug auf den Vertretungsausschluss des rechtlichen Vaters der in § 1795 Abs. 1 Nr. 3 BGB enthaltene
+     Rechtsgedanke heranzuziehen und - im Hinblick auf die Anfechtung durch den
+
+                                            - 12 -
+
+
+
+     leiblichen Vater abweichend von der früheren Rechtslage - von einer Verhinderung der Mutter auszugehen (Staudinger/Rauscher BGB [2011] § 1600 a
+     Rn. 28; Kaiser in Kaiser/Schnitzler/Friederici BGB Familienrecht 2. Aufl. § 1629
+     Rn. 85; MünchKommBGB/Wellenhofer 6. Aufl. § 1600 a Rn. 10).
+
+22         cc) Im Ergebnis ist den Vorinstanzen somit darin zu folgen, dass die Beteiligten zu 1 und 2 an der gesetzlichen Vertretung des betroffenen Kindes gehindert sind und die Anordnung einer Ergänzungspflegschaft für das Vaterschaftsanfechtungsverfahren erforderlich ist. Die Erfolgsaussicht der Anfechtung in der Hauptsache ist im Verfahren zur Anordnung einer Ergänzungspflegschaft schließlich nicht zu prüfen.
+
+
+
+
+     Hahne                                  Dose                       Klinkhammer
+
+                      Günter                             Nedden-Boeger
+
+
+     Vorinstanzen:
+     AG Erkelenz, Entscheidung vom 17.06.2010 - 22 F 161/10 -
+     OLG Düsseldorf, Entscheidung vom 24.09.2010 - II-7 UF 112/10 -
