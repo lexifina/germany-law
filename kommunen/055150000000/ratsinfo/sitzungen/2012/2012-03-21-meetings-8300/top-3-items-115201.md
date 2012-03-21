@@ -1,0 +1,8 @@
+# TOP 3: Landesinitiative StadtBauKultur NRW - Mitgliedschaft
+
+- Sitzung: 19. Sitzung (2012-03-21)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/115201
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/49296
