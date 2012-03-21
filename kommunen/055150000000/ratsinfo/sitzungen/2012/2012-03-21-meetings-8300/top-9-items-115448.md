@@ -1,0 +1,8 @@
+# TOP 9: Konversion von britischen Stationierungskräften genutzten Liegenschaften in Münster
+
+- Sitzung: 19. Sitzung (2012-03-21)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/115448
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/49262
