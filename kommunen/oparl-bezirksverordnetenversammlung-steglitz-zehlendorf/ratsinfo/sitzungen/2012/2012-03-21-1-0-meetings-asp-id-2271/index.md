@@ -1,0 +1,68 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-03-21T17:00:00+01:00
+- Ende: 2012-03-21T18:10:00+01:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2271
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2271
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Kleistgrab Wannsee - beantwortet
+- TOP 3.2: AV Wohnen - beantwortet
+- TOP 3.3: Verkehrschaos in der Bäkestraße - beantwortet
+- TOP 3.4: Städtebaulicher Vertrag - beantwortet
+- TOP 3.5: Werbung für den Girls-Day 2012 - beantwortet
+- TOP 3.6: Fällaktion am Waldsee - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 4.1.1: Mehr Geld für die Bezirke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.2.1: Neuberufung von insgesamt zehn Patientenfürsprecher/innen für die zehn Krankenhäuser des Bezirks nach § 30 des Landeskrankenhausgesetzes (LKG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6 - 28 B für die Grundstücke Ostpreußendamm 84 - 85 A und 89 sowie für Teilfächen der Grundstücke Ostpreußendamm 85 B - 88 und 89 A - 92 im Bezirk Steglitz-Zehlendorf, Ortsteil Lichterfelde - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Umbenennung des Gesundheitsausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Sommerbad und Saunalandschaft Lichterfelde erhalten! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Rechts vor links in der Augustastraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Stadtplatz Kirchstraße und Neugestaltung Teltower Damm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Kein Parken auf dem Gehweg der Augustastraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Verkehrssicherheit Kreuzung Bruchwitzstraße/Schulstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Parkkolonie sichern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Graffiti S-Bahn Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Durchfahrverbot LKW über 7,5 t in der Bruchwitzstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Mittagessensversorgung an Grundschulen - überwiesen
+- TOP 5.1.2: Eingang Friedhof Lankwitz - überwiesen
+- TOP 5.1.3: Mit Energiesparen Geld sparen - überwiesen
+- TOP 5.1.4: Alternative Streckenführung Buslinie 118 - überwiesen
+- TOP 5.1.5: Kreuzung Kaiser-Wilhelm-Straße/Ecke Zietenstraße - überwiesen
+- TOP 5.1.6: Baupfusch in der Grundschule am Buschgraben - überwiesen
+- TOP 5.1.7: Umbenennung des "Stadion Lichterfelde" am Ostpreußendamm in "Otto-Lilienthal-Stadion" - überwiesen
+- TOP 5.1.8: Schutzstreifen für Radverkehr in der Drakestraße - überwiesen
+- TOP 5.1.9: Benennung nach Martin Niemöller - überwiesen
+- TOP 5.1.10: Abgaben bezirklicher Liegenschaften an den Liegenschaftsfonds Berlin - überwiesen
+- TOP 5.1.11: Öffnung der Hans-Sachs-Straße für den Radverkehr - überwiesen
+- TOP 5.1.12: Schaukel der Grundschule am Buschgraben ersetzen - überwiesen
+- TOP 5.1.13: Bürger über die Entwicklung der Flugrouten weiter informieren - überwiesen
+- TOP 5.1.14: Eugen-Kleine-Brücke: Gehwegbenutzungspflicht für Radverkehr abschaffen - überwiesen
+- TOP 5.1.15: Durchfahrtsverbot für LKW im Jungfernstieg - überwiesen
+- TOP 5.1.16: Vandalismus in der Paul-Schneider-Grundschule verhindern - überwiesen
+- TOP 5.1.17: Hundefreundlicher Bezirk - überwiesen
+- TOP 5.1.18: Absenkung Bordsteine am zweiten Zugang zur Mühlenau-Schule - überwiesen
+- TOP 5.1.19: Hinweisschild auf den Seniorenclub "Club Steglitz" - überwiesen
+- TOP 5.1.20: FNP-Änderung Lichterfelde-Süd - überwiesen
+- TOP 5.1.21: Stadtteil-Bürgerforen einrichten! - Stärkung der Teilhabe der Einwohnerschaft im Bezirk vor Ort - überwiesen
+- TOP 5.1.22: Einrichtung eines Integrationsbeirates - überwiesen
+- TOP 6: Feststellungen - erledigt
+- TOP 6.1: Feststellung gem. § 25 (1) BezVG - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Schlusswort des Vorstehers - erledigt
