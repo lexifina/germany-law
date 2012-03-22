@@ -1,0 +1,54 @@
+# Rat (20. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2012-03-22T17:00:00+01:00
+- Ende: 2012-03-22T20:10:00+01:00
+- Ort: Grundschule Rahden, Schulstraße 2, 32369 Rahden, Aula
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZfAr-aI_C6FDXY05r4M9U1Y
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1150
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYaMjdBs0t7mRbJ-xNS1kx6HWwml_baEu6K9qk3iA31b/Bekanntmachung_Rat_22.03.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVL8bF38x6OTTgCSYk7AEmCWwj_Zo2IPWVzHxd1FLPkz/Oeffentliche_Niederschrift_Rat_22.03.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Fachärzte in Rahden
+- TOP 3.2: Wasserrichtlinie
+- TOP 4.: Förderprogramm "Jung kauft Alt - Junge Leute kaufen alte Häuser" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 5.: Erweiterung des Lehrerzimmers des Gymnasiums Rahden - 24 Stimmen dafür, 12 dagegen (SPD/Steinkamp, Kokemor, Kröger), 0 Enthaltungen
+- TOP 6.: Änderung der Entgeltordnung für den Bahnhof Rahden - Einstimmig, 1 Enthaltungen (Steinkamp)
+- TOP 7.: Antrag der Museumseisenbahn Rahden e. V. auf Übernahme der Kosten für die Gleissanierung im Streckenteil Rahden-Hahnenkamp - Einstimmig, 0 Enthaltungen
+- TOP 8.: Sachstandsbericht zu den Umbauplanungen der oberen Geschosse am Krankenhaus Rahden - Ohne Abstimmung
+- TOP 9.: Antrag der Fraktion Bündnis 90/Die Grünen zur Beantragung von Fördermitteln zur Erstellung eines integrierten Klimaschutzkonzeptes der Stadt Rahden - 21 Stimmen dafür, 15 dagegen (SPD/FWG/Die Grünen), 0 Enthaltungen
+- TOP 10.: Beratung und Beschlussfassung über den Stellenplan 2012 - Einstimmig, 0 Enthaltungen
+- TOP 11.: Entwurf der Haushaltssatzung 2012 mit Haushaltsplan - 21 Stimmen dafür, 15 dagegen (SPD/FWG/Die Grünen), 0 Enthaltungen
+- TOP 12.: Aufstellung des Bebauungsplanes Nr. 82 "Kleinendorfer Feld" sowie 71. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gem. § 8 Abs. 3 Baugesetzbuch (BauGB) a) Beratung und Beschlussfassung über das Ergebnis der frühzeitigen Beteiligung der Öf- fentlichkeit und der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentli- cher Belange b) Beratung und Beschlussfassung über die öffentliche Auslegung des Bebauungsplanes Nr. 82 "Kleinendorfer Feld" sowie des Änderungsplanes für die 71. Änderung des Flä- chennutzungsplanes gem. § 3 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 13.: 6. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" für den Bereich des Krankenhauses a) Beratung und Beschlussfassung über die Änderung des Bebauungsplanes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 6. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 1 Enthaltung (Spreen)
+- TOP 14.: 7. vereinfachte Änderung des Bebauungsplanes Nr. 4 "Alter Markt und Nördliches Ahlfeld" der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 15.: Ausweisung von Konzentrationszonen für die Windenergienutzung im Stadtgebiet Rahden; hier: 1. Erarbeitung einer aktuellen Potentialanalyse Windkraft für das gesamte Stadtgebiet 2. Aufstellungsbeschluss zur 72. Änderung des Flächennutzungsplanes der Stadt Rahden zur Darstellung von Konzentrationszonen für die Windenergienutzung 3. Aufstellungsbeschluss zur 1. Änderung des Bebauungsplanes Nr. 60 "Vorranggebiet Windenergieanlagen Fledderbruch/Mühlensteg" der Stadt Rahden - 35 Stimmen dafür, 1 dagegen (Kröger), 0 Enthaltungen
+- TOP 16.: Beitritt zum Aktionsbündnis Eisenbahnstrecke Bassum-Bünde e.V. - Einstimmig, 0 Enthaltungen
+- TOP 17.: Ernennung des Wehrführers und seiner Stellvertreter der Freiwilligen Feuerwehr der Stadt Rahden - Einstimmig, 0 Enthaltungen
+- TOP 18.: Neubesetzung der Schulleiterstelle an der Hauptschule Rahden - Einstimmig, 0 Enthaltungen
+- TOP 19.: Wiederwahl der Schiedsperson für den Schiedsamtsbezirk Varl - Einstimmig, 0 Enthaltungen
+- TOP 20.: Bekanntgaben
+- TOP 20.1: Verleihung der LWL-Preise 2012
+- TOP 20.2: Neubürgerempfang
+- TOP 21.: Verschiedenes
+- TOP 21.1: Speeddating mit Politikern an den weiterführenden Schulen
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 22.: Vergabe von Planungsleistungen - Einstimmig, 0 Enthaltungen
+- TOP 23.: Ernennung eines Ehrenstadtbrandmeisters - Einstimmig, 0 Enthaltungen
+- TOP 24.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 24.1: Beförderung eines Beamten - Einstimmig, 0 Enthaltungen
+- TOP 25.: Bekanntgaben
+- TOP 25.1: Nebeneinkünfte
+- TOP 25.2: Bündelausschreibung Strom
+- TOP 25.3: Verabschiedung von Stadtbrandmeister Dieter Meyer
+- TOP 26.: Verschiedenes
+- TOP 26.1: Landtagswahl 2012
