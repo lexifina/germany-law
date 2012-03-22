@@ -1,0 +1,51 @@
+# Gemeinderat (11. Sitzung)
+
+- Körperschaft: Gemeinde Aldenhoven
+- Beginn: 2012-03-22T18:00:00+01:00
+- Ende: 2012-03-22T22:30:00+01:00
+- Ort: Rathaus der Gemeinde Aldenhoven, Dietrich-Mülfahrt-Straße 11-13, 52457 Aldenhoven, Sitzungssaal
+- Status: 
+- Gremium: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/organization/1-4
+- Ratsinformationssystem: https://ratsinfo.aldenhoven.de/tops/?__=UGhVM0hpd2NXNFdFcExjZUIOpTDIrKc1xrkBont52Kw
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/meeting/1210
+- Quelle: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZf7iREnLBIJlz7nrA1q1Tza-psQvbZPnVey63Um_PnUD/Bekanntmachung_Gemeinderat_22.03.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Gemeinderat) https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYEVVOW8Bnn9P91HuYGHaQ996eXE74ZLs2_JYtG_5Gy8/Oeffentliche_Niederschrift_Gemeinderat_22.03.2012.pdf
+
+## Tagesordnung
+
+- TOP A.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Feststellung der Beschlussfähigkeit des Rates.
+- TOP 2.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 26.01.2012 -öffentlicher Teil-
+- TOP 3.: Spielhalle Ostring - Neubaumaßnahme
+- TOP 4.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 4.1: Bauleitplanung a.) 39. Änderung des Flächennutzungsplanes - Langweilerstraße b.) Bebauungsplan Nr. 53 N - Langweilerstraße II - hier: 1.) Zu a.) und b.) Beschluss über das Ergebnis der Beteiligung der Öffentlichkeit gemäß § 3 Abs. 1 BauGB sowie über die Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 1 BauGB und der Entscheidung über die Berücksichtigung im weiteren Planverfahren. 2.) Zu a.) und b.) Beschluss über die Offenlage - Einstimmig, 0 Enthaltung(en)
+- TOP 5.: Genehmigung von Dringlichkeitsbeschlüssen
+- TOP 5.1: Eintragung des Grundstücks Gemarkung Aldenhoven, Flur 22, Flurstücke 19 tlw., 20 tlw., 22 tlw., 23 tlw., 24 tlw., gem. § 3 Abs. 2 DSchG NW, nach Maßgabe des vom LVR-Amtes für Bodendenkmalpflege bereitgestellten Plans, in die Denkmalliste der Gemeinde Aldenhoven - Einstimmig, 0 Enthaltung(en)
+- TOP 6.: Finanzen, Haushalt
+- TOP 6.1: Feststellung der Jahresrechnung 2010 - Einstimmig, 0 Enthaltung(en)
+- TOP 6.2: Der Gemeindrat beschließt die als Anlage beigefügte Proritäteliste des Jahres 2012 - Einstimmig, 0 Enthaltung(en)Bürgermeister Tertel teilt mit, dass die Löschgruppe Freialdenhoven einen Antrag mit Planungsunterlagen zur Sanierung bzw. zum Umbau des Feuerwehrgerätehauses vorlegt habe. Trotz mehrfacher Aufforderung habe man allerdings kein
+- TOP 7.: Satzungen, Ortsrecht
+- TOP 7.1: Aufhebung der Baumschutzsatzung - 24 Ja-Stimme(n), 1 Nein-Stimme, 1 Stimmenthaltung
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Ausführung des Haushalts
+- TOP 8.2: Schulsituation
+- TOP 9.: Verschiedenes
+- TOP B.: NICHTÖFFENTLICHE SITZUNG
+- TOP 1.: Bericht der Verwaltung über die Durchführung der Beschlüsse der Sitzung vom 26.01.2012 -nichtöffentlicher Teil-.
+- TOP 2.: Beschluss über die Empfehlungen des Bauverwaltungsausschusses
+- TOP 2.1: Bauleitplanung Potentielle Flächen zur Ausweisung von Konzentrationszonen für die Windenergie hier: Standortanalyse - Einstimmig, 0 Enthaltung(en)
+- TOP 2.2: Bauleitplanung Antrag auf Ausweisung einer Konzentrationszone für die Errichtung von 3-4 Windenergieanlagen - Einstimmig, 0 Enthaltung(en)
+- TOP 3.: Auftragsvergaben
+- TOP 3.1: Anschaffung neuer Multifunktionsgeräte im Rathaus
+- TOP 3.1.1: Anschaffung neuer Multifunktionsgeräte im Rathaus - Einstimmig, 0 Enthaltung(en)
+- TOP 3.2: Vergabe der Stromkonzession zum 01.03.2014 - Gewichtung der Auswahlkriterien - Einstimmig, 0 Enthaltung(en)
+- TOP 4.: Mitteilung des Bürgermeisters gemäß § 18 Korruptionsbekämpfungsgesetz - Zur Kenntnis genommen
+- TOP 5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.: Interkommunale Zusammenarbeit auf dem Gebiet der VHS - Einstimmig, 0 Enthaltung(en)
+- TOP 7.: Bericht aus den Gremien
+- TOP 7.1: WOGA
+- TOP 7.2: indeland
+- TOP 8.: Sachstandsberichte der Verwaltung
+- TOP 8.1: Interkommunale Zusammenarbeit
+- TOP 9.: Verschiedenes
