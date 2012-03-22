@@ -1,0 +1,7 @@
+# TOP 4.: Mitteilung des Bürgermeisters gemäß § 18 Korruptionsbekämpfungsgesetz
+
+- Sitzung: Gemeinderat (11. Sitzung) (2012-03-22)
+- Körperschaft: Gemeinde Aldenhoven
+- Öffentlich: ja
+- OParl: https://ratsinfo.aldenhoven.de/webservice/oparl/v1.1/body/1/agendaitem/13346
+- Ergebnis: Zur Kenntnis genommen
