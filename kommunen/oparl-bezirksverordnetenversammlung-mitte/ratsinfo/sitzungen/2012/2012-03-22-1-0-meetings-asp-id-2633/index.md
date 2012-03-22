@@ -1,0 +1,108 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2012-03-22T17:30:00+01:00
+- Ende: 2012-03-22T23:10:00+01:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2633
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2633
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=85153
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=116&id=85464
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Standort Müllerstraße 35 - Gespräch mit Cushman & Wakefield LLP - beantwortet
+- TOP 5.2: Grundlagen zur Fortschreibung des Schulentwicklungsplanes (SEP) 2009 / Datenmaterial zur Drucksache 0120/IV - beantwortet
+- TOP 5.3: Auslaufende Belegungsbindung - beantwortet
+- TOP 5.4: Kommunen für biologische Vielfalt - beantwortet
+- TOP 5.5: Hintergründe Presseerklärung eines Bezirksamtsmitglieds - beantwortet
+- TOP 5.6: Was lange währt wird endlich gut: Wann zieht das Bezirksamt endlich aus dem Rathausturm aus? - beantwortet
+- TOP 5.7: Endlich Gewissheit für MÄDEA? - schriftlich beantwortet
+- TOP 5.8: Interessenbekundung Bürgerarbeit - schriftlich beantwortet
+- TOP 5.9: Jugendhilfetag 2014 in Berlin oder: Was lange währt wird gut. - schriftlich beantwortet
+- TOP 5.10: Unwürdiges Gezerre um den CSD Berlin 2012 - schriftlich beantwortet
+- TOP 5.11: Neues Handbuch für Jugendfreizeiteinrichtungen - schriftlich beantwortet
+- TOP 5.12: Schöner Blick für Anwohner und Touristen? - schriftlich beantwortet
+- TOP 5.13: Impfkosten im Bezirk Mitte - schriftlich beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Musisches Bildungszentrum Müllerstraße 158 - beantwortet
+- TOP 6.2: Mehr Schokolade - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Abrechnungsunregelmäßigkeiten bei ambulanten Pflegediensten - beantwortet
+- TOP 7.2: Olof-Palme-Zentrum: Abriss und Neubau statt Sanierung? - beantwortet
+- TOP 7.3: Entwicklung des Sportparks Poststadion - schriftlich beantwortet
+- TOP 7.4: Zwangsumzüge von Familien mit Kindern verhindern - Vereinbarung zwischen Jobcenter und Jugendamt beschließen - schriftlich beantwortet
+- TOP 7.5: Was macht das Gründerzentrum in Moabit-West? - schriftlich beantwortet
+- TOP 7.6: Veranstaltungsort Alexanderplatz? - schriftlich beantwortet
+- TOP 7.7: Senat kippt Straßenausbaubeitragsgesetz - wer bezahlt? - schriftlich beantwortet
+- TOP 7.8: Existenzgründungsberatungen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Beschluss über den Erlass einer Veränderungssperre mit der Bezeichnung 1-59/22 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplans 1-59 liegende Grundstück Brunnenstraße 183 und Entscheidung über die beigefügte Rechtsverordnung - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Benennung einer Privatstraße zwischen Invalidenstraße und Minna-Cauer-Straße im OT Moabit - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Gestaltungsentwurf für eine Informationstafel im Afrikanischen Viertel - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Dialogdisplays - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Räume für Stadtteilvertretung Müllerstraße - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Zweckentsprechende Räume für die Stadtteilvertretung Müllerstraße - in der BVV abgelehnt
+- TOP 11.6: Haushaltsplanaufstellung im Bezirk transparent gestalten! - überwiesen
+- TOP 11.7: Eine transparente Verwaltung ermöglichen! - vertagt
+- TOP 11.8: Ehemaliges Militärgefängnis Lehrter Strasse 60/61 Unter Denkmalsschutz Stellen - überwiesen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Ausserordentliche BVV am 24.Mai 2012 - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Europäisches Jahr für aktives Altern und Solidarität - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Olof-Palme-Zentrum: Eine jugendpolitische Notwendigkeit - überwiesen
+- TOP 12.4: Gerichtsstrasse wieder durchgängig öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Keine Haushaltsplanaufstellung ohne politische Schwerpunktsetzung - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Integration von behinderten Menschen in die Arbeitswelt fördern - Teil II - überwiesen
+- TOP 12.7: Wahl von PatientenfürsprecherInnen nach § 30 Landeskrankenhausgesetz (LKG) durch die Bezirksverordnetenversammlung Mitte - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Negative Auswirkungen des U-Bahnbaus reduzieren - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Neuer Anlauf für das Außenbecken des Seydlitzbades - Mitte gibt nicht auf! - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Naturnahe und nachhaltige Grünflächenpflege in Mitte - überwiesen
+- TOP 12.11: Dialog zwischen Bürgerschaft und Politik ermöglichen - überwiesen
+- TOP 12.12: Vereinfachte Antragstellung beim Bildungs- und Teilhabepaket - ohne Änderungen in der BVV beschlossen
+- TOP 12.13: Bürgerportal Maerker auch in Mitte? - ohne Änderungen in der BVV beschlossen
+- TOP 12.14: Auftaktveranstaltung Sanierungsgebiet Nördliche Luisenstadt II: Wake Me Up Before You Go-Go - überwiesen
+- TOP 12.15: Wahl von Stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen
+- TOP 12.16: Städtebauliche Kriminalprävention - überwiesen
+- TOP 12.17: Gesamtkostenübernahme GebärdendolmetscherInnen - überwiesen
+- TOP 12.18: Bürgerfreundliche Ausschilderung der Bezirksverordnetenversammlung - ohne Änderungen in der BVV beschlossen
+- TOP 12.19: Sicher essen auch in Berlin Mitte - überwiesen
+- TOP 12.20: Abstimmung der Förderprogramme in Mitte - überwiesen
+- TOP 12.21: Zeitnahe Kostenübernahme im Rahmen der Hilfe zur Pflege für Schwerstpflegebedürftige - überwiesen
+- TOP 12.22: Geschlechtersensible Haushaltsplanung (Gender Budgeting) im Haushalt des Bezirksamtes Mitte stärken - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Leitlinien zur Wohnungslosenpolitik und Wohnungslosenrahmenplan - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Faires Vertragsmodell für Musikschullehrer - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Sekretariat für die Gotzkowsky-Wartburg-Schule - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Alte Münze - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.3: Bildung einer Spielplatzkommission im Bezirk Mitte und deren Geschäftsordnung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Frauenbeirat Stadtplanung einrichten - vertagt
+- TOP 16.5: Aufstellung des Bebauungsplans 1-88C "Bahnbrücke Heidestraße" im Bezirk Mitte, Ortsteil Moabit, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß §3 Abs.1 Baugesetzbuch, die frühzeitige Beteiligung der Behörden gemäß §4 Abs.1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß §4 Abs.2 Baugesetzbuch - vertagt
+- TOP 16.6: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2011 - vertagt
+- TOP 16.7: Beschluss über das Ergebnis der Beteiligung der Behörden gemäß §4(2) Baugesetzbuch zum Bebauungsplanentwurf 1-67 "Lehrter Straße Mittelbereich" für die Grundstücke Lehrter Str. 20-31 und 35, die angrenzenden Flurstücke 161, 163 und 202 sowie die Teilflächen des Grundstücks Heidestraße 35,39 und des hier angrenzenden Flurstücks 211 im Bezirk Mitte, Ortsteil Moabit, die Einschränkung des räuml. Geltungsbereichs u. die Durchführung der öffentl. Auslegung. - vertagt
+- TOP 16.8: Aufstellung des Bebauungsplans 1-86B "südwestliche Friedrich-Wilhelm-Stadt" im Bezirk Mitte, Ortsteil Mitte, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, der frühzeitigen Beteiligung der Behörden gemäß§4 Abs. 1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - vertagt
+- TOP 16.9: Konzept zur Umsetzung der Initiative "Aktionsraum Plus Wedding/Moabit" im Bezirksamt Mitte - Fortschreibung 2012 - vertagt
+- TOP 16.10: Beschluss über das Ergebnis der Beteiligung der Behörden gemäß § 4 Abs 2 Baugesetzbuch zum Bebauungsplanentwurf 1-62 "Baufelder Heidestraße" für die beiderseits anliegenden Grundstücke d. Heidestr. zwischen Perleberger Str. und Invalidenstraße mit Ausnahme der Grundstücke zw. Minna-Cauer-Str. u. Invalidenstr. im Bezirk Mitte, Ortsteil Moabit, die Änderung des räuml. Geltungsbereichs des Bebauungsplanentwurfs 1-62 u. die Durchführung d. öffentlichen Auslegung gemäß § 3 Abs 2 - vertagt
+- TOP 16.11: Eckwertebeschluss zur Aufteilung des Produktsummenbugets, der Zuweisung für sonstige Transferausgaben und der Einnahmevorgaben in Vorbereitung des Doppelhaushaltsplans 2012/2013 - vertagt
+- TOP 16.12: Kinder ohne Kopftücher - vertagt
+- TOP 16.13: Zwischen Alexanderplatz und Humboldtforum: Berliner Bürgerforum behutsam im Dialog qualifizieren - vertagt
+- TOP 16.14: MÄDEA - vertagt
+- TOP 16.15: Kurz-, mittel- und langfristige Umsetzung des "Übereinkommens über die Rechte von Menschen mit Behinderungen" - vertagt
+- TOP 16.16: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für das C/O-Ausstellungsforum in Mitte - vertagt
