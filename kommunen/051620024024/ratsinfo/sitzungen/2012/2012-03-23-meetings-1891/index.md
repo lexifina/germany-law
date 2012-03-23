@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2012-03-23T16:08:00+01:00
+- Ende: 2012-03-23T19:37:00+01:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1891
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1891
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - zur Kenntnis genommen
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - einstimmig zugestimmt
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: Übertragung von Aufgaben des Tiefbauamtes auf die InfraStruktur Neuss AÖR - mehrheitlich zugestimmt
+- TOP 6: Verkaufsoffene Sonntage - zur Kenntnis genommen
+- TOP 7: Platz am Niedertor (Umbau des südwestlichen Teilbereiches) - einstimmig zugestimmt
+- TOP 8: Umgestaltung Am Konvent - mehrheitlich zugestimmt
+- TOP 9: Aufhebungsbeschluss V460/B - einstimmig zugestimmt
+- TOP 10: Bebauungsplan Nr. 460 - Norf, Nievenheimer Straße - - einstimmig zugestimmt
+- TOP 11: Ausbau Bataverstraße - einstimmig zugestimmt
+- TOP 12: Bebauungsplans Nr. 137/3 Aufstellung – Gnadental, Kölnerstraße/ Dunant Straße – - einstimmig zugestimmt
+- TOP 13: Planfeststellungsverfahren Ausbau L142 (Hoisten) - einstimmig zugestimmt
+- TOP 14: Satzungsbeschluss B-Plan V478 - einstimmig zugestimmt
+- TOP 15: Satzungsbeschluss B-Plan 453 - einstimmig zugestimmt
+- TOP 16: Satzungsbeschluss B-Plan V477 - mehrheitlich zugestimmt
+- TOP 17: Lessingplatz - mehrheitlich zugestimmt
+- TOP 18: Bebauungsplan Nr. 179/1 - Norf, Schellbergstraße (Steuerung Einzelhandel) - Aufstellung - einstimmig zugestimmt
+- TOP 19: Gewährung eines zweckgebundenen Zuschusses für die Neusser-Eine-Welt-Initiative (NEWI) e. V. zur Du - einstimmig zugestimmt
+- TOP 20: Gewährung eines zweckgebundenen Zuschusses für die neuss-agenda21 e. V. zur Durchführung der agenda- - einstimmig zugestimmt
+- TOP 21: Vertreter Jugendhilfeausschuss - einstimmig zugestimmt
+- TOP 22: Benennung der Teilnehmer für die Mitgliederversammlung 2012 des Städtetages Nordrhein-Westfalen - einstimmig zugestimmt
+- TOP 23: Konstituierung und Besetzung der Enquete Kommission "Handlungskonzept Demografie" - zur Kenntnis genommen
+- TOP 24: Stadthafen Neuss GmbH - Bewilligung von Planungskosten (Kopfgebäude und Cretschmarhallen) - mehrheitlich zugestimmt
+- TOP 25: Benennung von Personen als Stellvertretende Ausschussmitglieder für den Ausschuss des Wasser- und Bo - zur Kenntnis genommen
+- TOP 26: Beratung und Verabschiedung des "Neusser Transparenz- und Steuerungskodex - Leitlinien guter Unterne - vertagt
+- TOP 27: Einrichtung einer 4. Integrativen Lerngruppe in der Sekundarstufe I - einstimmig zugestimmt
+- TOP 28: Antrag der SPD Fraktion betr. Schließung Lern- und Spielgruppe Weckhoven - verwiesen
+- TOP 29: Antrag der CDU- und FDP- Fraktionen betr.: Bericht über die Situation der Horte - zur Kenntnis genommen
+- TOP 30: Antrag der Fraktion Bündnis 90/ die Grünen betr.: Die Lern- und Spielgruppe bleibt erhalten - zur Kenntnis genommen
+- TOP 31: Antrag der Fraktion Bündnis 90/ Die Grünen betr.: Hortschließung Oberstraße und inklusive OGS - zur Kenntnis genommen
+- TOP 32: Antrag der Fraktion Bündnis 90/ Die Grünen betr.: Frühlingsfest der Kulturen - keine Standgebühren - zur Kenntnis genommen
+- TOP 33: Antrag der CDU- und FDP- Fraktionen betr.: Kita-Navigator - einstimmig zugestimmt
+- TOP 34: Anfrage von Frau Stadtverordnete Benary-Höck betr.: Personelle Ausstattung Baratungsstelle - zur Kenntnis genommen
+- TOP 35: Anfrage von Herrn Stadtverordneten Ott betr.: B-Plan Nr. 143/6 Gnadental – Pfarrkirche St. Konrad - zur Kenntnis genommen
+- TOP 36: Anfrage von Herrn Stadtverordneten Ott betr.: B-Plan Nr. 151/0/1 Adolfstraße – Grundsatzbeschluss - zur Kenntnis genommen
+- TOP 36.1: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 37: Einwohnerfragestunde - zur Kenntnis genommen
