@@ -1,0 +1,59 @@
+# 10. Sitzung der Verbandsversammlung
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2012-03-26T10:05:00+02:00
+- Ende: 2012-03-26T12:30:00+02:00
+- Ort: Robert-Schmidt-Saal, Kronprinzenstraße 35 / Erdgeschoss, 45128 Essen
+- Status: durchgeführt
+- Gremium: https://ruhrparlament.de/oparl/organization/VV
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-10
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-VV-10
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=1&meeting_id=ni_2010-VV-10
+- Ergebnisprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-10
+- Wortprotokoll: Gesamtprotokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=7&meeting_id=ni_2010-VV-10
+
+## Tagesordnung
+
+- TOP -: Einführung und Verpflichtung eines neuen Mitglieds der Verbandsversammlung
+- TOP 1: Angelegenheiten nach Landesplanungsgesetz
+- TOP 1.1: Städtebauförderung hier: Aufstellung des Stadterneuerungsprogramms 2012
+- TOP 1.2: Förderprogramm für den kommunalen Straßen- und Radwegebau 2012 hier: Unterrichtung und Beschlussfassung
+- TOP 1.3: Förderprogramm für den kommunalen Sonder-Radwegebau 2012 (Radverkehrsförderung) hier: Unterrichtung und Beschlussfassung
+- TOP 1.4: Abschlussbericht über das Projekt Konjunkturpaket II Kenntnisnahme
+- TOP 1.5: Bericht über den aktuellen Stand der Überarbeitung des landesweiten Abfallwirtschaftsplans -Teilplan Siedlungsabfälle hier: Kenntnisnahme
+- TOP 1.6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7: Abgrabung im Bereich Ginderich - Pettenkaul hier: Anregung der Stadt Wesel zur Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99)
+- TOP 1.8: Kraftwerksstandort Bislich Vahnum hier: Anregung der Stadt Wesel zur Änderung des Regionalplans für den Regierungsbezirk Düsseldorf (GEP 99)
+- TOP 1.9: Anfragen und Mitteilungen
+- TOP 1.9.1: Beteiligung des Regionalverbandes Ruhr als Regionalplanungsbehörde an Fachverfahren - Mitteilung der Verwaltung
+- TOP 2: Angelegenheiten nach RVR-Gesetz
+- TOP 2.1: Wechsel in den Ausschüssen
+- TOP 2.2: Verabschiedung der Haushaltssatzung 2012
+- TOP 2.2.1: Verabschiedung der Haushaltssatzung 2012 Antrag der Fraktion DIE LINKE vom 20.03.2012
+- TOP 2.2.2: Verabschiedung der Haushaltssatzung 2012 Änderungsantrag der FDP-Fraktion vom 20.03.2012
+- TOP 2.3: Bericht über die Prüfung des Jahresabschlusses 2010, Feststellung des Jahresabschlusses 2010 und Entlastung des Regionaldirektors des RVR für das Haushaltsjahr 2010
+- TOP 2.4: Beschluss über die Behandlung des Jahresüberschusses 2010
+- TOP 2.5: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen. Hier: Antrag für das Feld 'WeselGas' - Stellungnahmen der Regionalplanungsbehörde sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange
+- TOP 2.6: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen. Hier: Erlaubniserteilung für das Feld 'Donar' und Hinweise zu Stellungnahmen durch Bezirksregierung Arnsberg
+- TOP 2.7: Beteiligung des Regionalverbandes Ruhr an bergrechtlichen Verfahren zur Aufsuchung von Kohlenwasserstoffen. Hier: Antrag für das Feld 'Falke-South' - Stellungnahmen der Regionalplanungsbehörde sowie des Regionalverbandes Ruhr als Träger öffentlicher Belange
+- TOP 2.8: Beteiligung im Planfeststellungsverfahren für die Ausbaustrecke Oberhausen - Emmerich Hier: Stellungnahme des RVR als Träger öffentlicher Belange
+- TOP 2.9: Regionaler Diskurs - ...auf dem Weg in die Zukunft der Metropole Ruhr. Hier: Dokumentation Regionalforum Herausforderungen
+- TOP 2.10: Grüne Hauptstadt Europas
+- TOP 2.10.1: Grüne Hauptstadt Europas Ergänzungsantrag der Fraktion DIE LINKE vom 20.03.2012 zur Drucksache 12/0548-1
+- TOP 2.11: Windenergieanlagen (WEA) auf Halden des RVR
+- TOP 2.12: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Gesellschaftsvertrag RZR II GmbH
+- TOP 2.13: Angelegenheiten der AGR Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Gesellschaftsvertrag AGR-DAR GmbH
+- TOP 2.14: Angelegenheiten der Freizeitgesellschaften - Auflösung der NFN - NaturFreizeitverbund Niederrhein GmbH
+- TOP 2.15: Bericht über die Beteiligungen des Regionalverbandes Ruhr für das Jahr 2010 nach der Gemeindeordnung NRW (GO NRW)
+- TOP 2.16: Feststellung des Jahresabschlusses der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün zum 31.12.2010
+- TOP 2.17: Eigenbetriebsähnliche Einrichtung RVR Ruhr Grün Jahresbericht 2011
+- TOP 2.18: Feststellung des Wirtschaftsplanes der eigenbetriebsähnlichen Einrichtung RVR Ruhr Grün für das Jahr 2012
+- TOP 2.19: Synergien bei der Waldbewirtschaftung durch die Kommunen Antrag der CDU-Fraktion vom 05.03.2012
+- TOP 2.20: Bildungsbericht Ruhr
+- TOP 2.20.1: Bildungsbericht Ruhr Ergänzungsantrag der Fraktion DIE LINKE vom 20.03.2012 zur Drucksache 12/0446
+- TOP 2.20.2: Bildungsbericht Ruhr, Drucksache 12/0446: Ergänzungsantrag der CDU-Fraktion im RVR vom 08.12.2011
+- TOP 2.21: Auftrag der Verbandsversammlung vom 10.10.2011: Erinnerungsorte/Industriekultur Ruhr
+- TOP 2.22: Großer Sport in der Metropole Ruhr und 'Ruhr Games' 2015
+- TOP 2.23: Anfragen und Mitteilungen
+- TOP 2.23.1: Anfrage der CDU-Fraktion vom 13.12.2011 in der VV am 19.12.2011 - Auswirkungen Aufhebung 1. Teilgenehmigung für das Steinkohlekraftwerk Trianel, Lünen hier: schriftl. Antwort der Verwaltung
