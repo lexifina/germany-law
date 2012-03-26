@@ -1,0 +1,6 @@
+# TOP 5: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 20. Sitzung des Ortsgemeinderates Insheim (2012-03-26)
+- Körperschaft: Ortsgemeinde Insheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2009-300-52%7Czt_8%7C2
