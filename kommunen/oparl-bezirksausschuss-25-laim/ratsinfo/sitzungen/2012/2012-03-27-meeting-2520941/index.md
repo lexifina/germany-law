@@ -1,0 +1,73 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-03-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2520941
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2520941
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Gotthardstraße
+- TOP 1.2.2.: Problematische Verkehrssituation in der Westendstraße (Vertagung aus der BA-Sitzung vom 10.01.12)
+- TOP 0: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.3.: Änderungen in den UAs Bauen und Kultur
+- TOP 2: Anträge
+- TOP 2.1.: Willibaldplatz muss schöner werden
+- TOP 2.2.: CSU: Erhalt von Standesamt und Versicherungsamt in Pasing
+- TOP 2.3.: SPD: Einrichtung eines Zweirichtungsradweges auf der westllichen Seite der über die Lindauer Autobahn A 96 führenden Westendstraße (Vertagung aus der BA-Sitzung vom 10.01.12)
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung aus dem Budget des BA 25 in Höhe von 3.000 Euro für ein Abenteuerwochenende im April 2012; Antragsteller: BoysToMen Mentoring München e.V. - <div>Abweichung von Referentenvorl.</div>
+- TOP 2: Beschlussvorlage Kreisverwaltungsreferat: Maßnahmen, um den Fußgängerüberweg an der Ampelanlage Gotthard-/ Stroblstraße sicherer zu gestalten (Empfehlung Nr. 08-14 / E 01157 der Bürgerversammlung vom 15.11.11) =&gt; dazu Schreiben Elternbeirat Camerloherschule vom 16.01.12 (Vertagung aus der BA-Sitzung vom 06.03.12) - <div>Abweichung von Referentenvorl.</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Sozialreferat vom 13.02.12: Mieterbeiratswahl 2012; Entsendung von Mitgliedern
+- TOP 4.2.: Schreiben Baureferat vom 23.02.12: Erinnerungsverfahren: Fahrbahnsanierung Laimer Kreisel / Wotanstraße
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 27.02.12: Parken Friedenheimer Brücke (Empfehlung Nr. 08-14 / E 01203 der Bürgerversammlung des 9. Stadtbezirkes Neuhausen-Nymphenburg vom 24.11.11)
+- TOP 4.4.: Schreiben Planungsreferat vom 02.03.12: Einhausung A 96; Anhörung zu einer Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung
+- TOP 4.5.: Schreiben Kreisverwaltungsreferat vom 02.03.12: Willibaldplatz, Parkregelung
+- TOP 4.6.: Schreiben Kreisverwaltungsreferat vom 07.03.12: Pfarrfest St. Ulrich am 16.05. und 10.06.12 auf dem Laimer Anger
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Valpichlerstr. 92-94: Ausbau von Dachgeschossen in Wohnungen sowie Errichtung von 17 Kfz-Stellplätzen
+- TOP 5.2.: Landsberger Str. 187: Umbau von Büroflächen, Änderung des Brandschutzkonzeptes; hier: Baupläne
+- TOP 5.3.: Gotthardstr. 99: Nutzungsänderung eines Wohngebäudes in ein teilgewerbliches Anwesen; hier: Baupläne
+- TOP 5.4.: Eckermannstr. 22: Erweiterung eines Wohnhauses
+- TOP 5.5.: Gotthardstr. 77: Aufstockung des Bestandsgebäudes mit einem Voll- und einem Staffelgeschoss / Vorbescheid; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Direktorium vom 29.02.12: Treffen der Internet-Beauftragten der Bezirksausschüsse
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 06.03.12
+- TOP 7.2.: Ortstermin UA Umwelt / Verkehr vom 16.03.12
+- TOP 7.3.: Sitzung UA Bau vom 21.03.12
+- TOP 7.4.: Ortstermin UA Umwelt / Verkehr vom 23.03.12
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Sozialreferat vom 22.02.12: Rahmenkonzeption der Offenen Kinder- und Jugendarbeit in München
+- TOP 8.2.: Schreiben Planungsreferat vom 12.03.12: Perspektive München, Öffentlichsphase - Termine
+- TOP 8.3.: Schreiben Baureferat vom 12.03.12: Spielplatz Laimer Platz; Verbesserung der Pflege und regelmäßige Müllentfernung (Antrag Nr. 08-14 / B 03729 vom 14.02.12)
+- TOP 8.4.: Schreiben Referat für Arbeit und Wirtschaft vom 28.02.12: Wirtschafts-Info 02/2012
+- TOP 8.5.: Schreiben Referat für Gesundheit und Umwelt vom 02.03.12: Newsletter Bauzentrum München Nr. 03_2012
+- TOP 8.6.: Schreiben Referat für Gesundheit und Umwelt vom 09.03.12: Einladung zum Fachforum "Große thermische Solaranlagen" am 27.03.12
+- TOP 8.7.: Schreiben Stadtwerke München GmbH vom 02.03.12: Baumaßnahmen der Stadtwerke; Fernwärmeprojekt Elsenheimerstraß
+- TOP 8.8.: Bautenliste vom 20.02.-26.02.12: 1. Erstantragsverfahren a) Landsberger Str. 187
+- TOP 8.9.: Bautenliste vom 27.02.-04.03.12 1. Erstantragsverfahren a) Gotthardstr. 99 b) Eckermannstr. 22
+- TOP 8.10.: Bautenliste vom 05.03.-11.03.12: 1. Änderungsverfahren a) Hartelstr. 6 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Gotthardstr. 77
+- TOP 8.11.: Schreiben Stadtwerke München GmbH vom 27.02.12: Baumaßnahmen der Stadtwerke; Stichtag: 27.02.12
+- TOP 8.12.: Schreiben Stadtwerke München GmbH vom 05.03.12: Baumaßnahmen der Stadtwerke; Stichtag: 05.03.12
+- TOP 8.13.: Schreiben Stadtwerke München GmbH vom 12.03.12: Baumaßnahmen der Stadtwerke; Stichtag: 12.03.12
+- TOP 8.14.: Beschluss des Kinder- und Jugendhilfeausschusses vom 29.11.11: Mehrjahresinvestitionsprogramm (MIP) 2011-2012; 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen, 2. Priorisierung von Schulbaumaßnahmen, 3. verfahrenstechnische Neuerungen, 4. Stellungnahme der Bezirksausschüsse (Sitzungsvorlagen Nr. 08-14 / V 07927)
+- TOP 8.15.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.12: Novellierung des Bayerischen Landesplanungsgesetzes (BayLplG) (Sitzungsvorlagen Nr. 08-14 / V 08905)
+- TOP 8.16.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 27.03.12: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung (Sitzungsvorlage Nr. 08-14 / V 08682)
+- TOP 8.17.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.12: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Stadtjugendamtes (Sitzungsvorlage Nr. 08-14 / V 08740)
+- TOP 8.18.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.12: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale (Sitzungsvorlage Nr. 08-14 / V 08669)
+- TOP 8.19.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 27.03.12: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration (Sitzungsvorlagen Nr. 08-14 / V 08770)
+- TOP 8.20.: Schreiben BA 1 Altstadt-Lehel vom 27.02.12: Situation am Marienhof
+- TOP 8.21.: Schreiben BA 15 Trudering-Riem vom 29.02.12: Anträge "Beteiligung der BAs am Projekt "langfristige Siedlungsentwicklung"" sowie "Nachverdichtung in Trudering und Riem"
+- TOP 8.22.: Schreiben Mieterbeirat der LH München vom 01.03.12: Wahl zum Mieterbeirat
+- TOP 8.23.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München (firm) vom 07.03.12: Fachtag "Tendenz rechts" am 24.04.12
+- TOP 8.24.: Schreiben Kreisjugendring München-Stadt vom 15.03.12: Einladung zur Informationsveranstaltung "Jugendbeteiligung" am 16.04.12
+- TOP 8.25.: Schriftverkehr aus der BA-Sitzung vom 06.03.12
+- TOP 1.2: Bürgerpost an den BA
