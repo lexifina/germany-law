@@ -1,0 +1,95 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-03-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2423089
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2423089
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP .3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Kurzbericht der Polizei
+- TOP .5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP .1.: Eilentscheidung: Baumfällungen Osterwaldstraße 10
+- TOP .10.: sonstiges
+- TOP .1.: Keine Werbung für Spielotheken auf städt. Bussen ? Antrag des BA 7 Sendling-Westpark
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2012 bis 2016 (siehe auch C.3.1. und D.3.2.1.)
+- TOP .2.: Straßenbaumaßnahmen: Ingolstädter Straße 45 (Öffnung des Mittelteilers)
+- TOP .1.: Ausweisung der Fröttmaninger Heide als Naherholungsgebiet / Bürgerpark
+- TOP .2.: Gestaltung der Einmündung der Marktstraße in die Marschallstraße
+- TOP .1.: Haltverbot in der Lyonel-Feininger-Straße
+- TOP .1.: Verkehrsbeeinträchtigung und Parkplatzwegfall im Anwesen Viktoriastr. 9 (Schreiben eines Bürgers an den BA 4)
+- TOP .2.: Erinnerungsverfahren ? geplante Baumaßnahmen im öffentlichen Straßengrund Ifflandstraße ? zwischen Dianastr. und Ifflandstr. 4
+- TOP .3.: Perspektive München ? Aktualisierung Leitlinie Ökologie Sitzungsvorlagen Nr. 08-14 / V 07948 incl. Hinweise und Ergänzungen vom 07.02.2012
+- TOP .4.: Sanierung der Morawitzkystraße mit einer Asphalttragdeckschicht zwischen Erwin-Plank-Weg und Clemensstraße
+- TOP .5.: Filmaufnahmen auf öffentlichem Verkehrsgrund (3)
+- TOP .6.: Barrierefreier Stadtteil Freimann (Ampel) - Antwort des Kreisverwaltungsreferates zum Schulprojekt ?Auf Herz und Rampen prüfen? der Mittelschule Situlistraße
+- TOP .7.: Zebrastreifen im Verlauf der Mandlstraße (Schreiben des Kreisverwaltungsreferats)
+- TOP .8.: Park-Regelungen in der Freisinger Landstraße (Antwort des Kreisverwaltungsreferates auf ein Bürgeranliegen)
+- TOP .9.: Novellierung des Bayerischen Landesplanungsgesetzes (BayLplG) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2012 Sitzungsvorlage Nr. 08-14 / V 08905; siehe auch TOP D.5.3.5.
+- TOP .10.: Erinnerungsverfahren ? geplante Baumaßnahmen im öffentlichen Straßengrund Radwegsanierung Berliner Str. 2-100 beidseitig
+- TOP .11.: Verbesserung des Parallelweges entlang der U-Bahn zwischen Kieferngarten und Garching (Antwort des Baureferats auf ein Bürgeranliegen)
+- TOP .12.: Grundwasserwanne und Stützwände Wiedenmayer-/Ifflandstraße unter Tivolistraße, Instandsetzung (Ausführungsgenehmigung); Sitzungsvorlage Nr.: 08-14 / V 08764 Beschluss des Bauausschusses vom 13.03.2012
+- TOP .13.: Erhalt und Schutz der übergeordnetten Grünverbindungen, Ruhezonen und Frischluft-schneisen (Antwort des Planungsreferates auf eine Stellungnahme des BA 12 zur BV-Empfehlung E 01004 des Stadtbezirkes 11 Milbertshofen-Am Hart)
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: (E) Budget der Bezirksausschüsse Mohr-Villa Freimann e.V. Zeichner-Wettbewerb mit Ausstellung im August/September 2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Init. "Public Domestic" Projekt "Public Domestic" von April - Juni 2012
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2012 bis 2016 (siehe auch B.3.2.1 und D.3.2.1.)
+- TOP .2.: Stadtteilfest an der Wilhelm-Wagenfeld-Str.aße am 05.05.2012
+- TOP .3.: Naturpädagogisches Projekt ?Auf zu neuen Schafen? am Fröttmaninger Berg und im Englischen Garten im Zeitraum 8 Juli bis 4. August 2012
+- TOP .1.: Verschönerung des Sport- und Freizeitgeländes an der Wilhelm-Wagenfeld-Str.
+- TOP .2.: Zuschüsse der Landeshauptstadt München für die Teestube / drohende Deckelung
+- TOP .3.: Lärm- und Schmutzbelästigung durch Gaststätte, Leopoldstraße
+- TOP .1.: Jugendhilfe für minderjährige unbegleitete Flüchtlinge in der Bayernkaserne
+- TOP .5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP .1.: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnung gleichstellen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2012 Sitzungsvorlagen Nr.: 08-14 / V 0871
+- TOP .2.: Mehrjahresinvestitionsprogramm 2011-2015 Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen; Priorisierung von Schulbaumaßnahmen; verfahrenstechnische Neuerungen und Stellungnahmen der Bezirksausschüsse; Sitzungsvorlage Nr. 08-14 / V 07927 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 30.11.2011
+- TOP .3.: Zuschussnehmerdatei 2011, Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, Sitzungsvorlage Nr. 08-14 / V 08740 des Sozialreferats / Zentrale, Sitzungsvorlage Nr. 08-14 / V 08669 des Amtes für Soziale Sicherung, Sitzungsvorlage Nr. 08-14 / V 08682 des Amtes für Wohnen und Migration, Sitzungsvorlage Nr. 08-14 / V 08770
+- TOP .4.: Kindertagesstätte sonstiger Träger; Haus für Kinder Georg-Muche-Straße 2 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 07.03.2012 Sitzungsvorlöage Nr. 08-14 / V 08678
+- TOP .5.: Zuwendungsbewilligungen / Bescheide für die Gewährung von Zuwendungen aus dem Budget des BA 12: a) Theater Münchner Freiheit für die Maßnahme: Theaterproduktion ?Paarungszeit? b) Haus am Schuttberg e.V. für die Maßnahme: Stadtteilfest ?Parkstadt-Schwabing?
+- TOP .6.: Erlaubnisbescheid für Kinderflohmärkte an der Münchner Freiheit
+- TOP .7.: Erlaubnisbescheid für Parade anlässlich des St. Patrick's Day am 11.03.2012
+- TOP .8.: Neubau einer offenen Einrichtung für Kinder, Jugendliche und Familien auf dem Gelände der ehemaligen Funkkaserne
+- TOP .9.: Initiative ?Windsbraut? - Anspruch auf vollen Zuschuss aus dem Budget des BA 12
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .3.1.: Baumfällungen
+- TOP .1.: Potsdamer Straße 12, 2 Ahorn-Bäume
+- TOP .2.: Domagkstraße 33, Nachtrag 2 Bäume
+- TOP .3.: Schwedenstraße 44, 3 Bäume (vertagt aus 02/12)
+- TOP .4.: Carl-Orff-Bogen 55, 1 Pappel
+- TOP .1.: Mehrjahresinvestitionsprogramm ? Fortschreibung für die Jahre 2012 bis 2016 (siehe auch B.3.2.1. und C.3.1.)
+- TOP .2.: Bebauungsplan mit Grünordnung Nr. 1967a, Domagkstr. (nördlich), Tramlinie 23 (westlich), Frankfurter Ring (südlich)
+- TOP .3.: Beteiligung der Bezirksausschüsse an dem Projekt ?Langfristige Siedlungsentwicklung? Antrag des BA 15 Trudering-Riem (siehe auch D.5.3.4.)
+- TOP .4.: Bebauungsplan mit Grünordnung Nr. 2031 b - Freisinger Landstraße (östlich), Garchinger Mühlbach (westlich) und Verlängerung Josef-Wirth-Weg (nördlich) Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanes
+- TOP .1.: Bebauung Bayernkaserne ? Situierung der Feuerwehr
+- TOP .5.2.: Genehmigte Baumfällungen
+- TOP .1.: Unterrichtung über das Fällen von Gefahrenbäumen durch das Baureferats a) Fröttmaninger Straße 21, Grundschule, 4 Bäume b) Situlistraße, St.-Albert-Kirche, 1 Robinie c) Keilbertstraße 14, 1 Baumweide (2-stämmig)
+- TOP .2.: Frankfurter Ring , Fl.Nr. 264, 3 Spitzahornbäume
+- TOP .1.: Baugenehmigung: Leopoldstr. 250, Neubau eines Bürogebäudes mit Tiefgarage und Gaststätte
+- TOP .2.: Ökologischer Kriterienkatalog: (Sitzungsvorlagen Nr. 08-14/V 08797) a) Fortschreibung, b) Klimaschutzfahrplan 2: Daunenmäntel für Häuser ? Passivhausstandard auf allen städtischen Grundstücken, c) Energetisches Bauen in den ökologischen Kriterienkatalog mit aufnehmen
+- TOP .3.: Wiederherstellung des Marienhofes (Schreiben des BA 1 Altstadt-Lehel)
+- TOP .4.: Veranstaltung zur Nachverdichtung in Trudering und ggfs. anderen Stadtbezirken ? Schreiben des BA 15 Trudering-Riem (siehe auch D.3.2.3)
+- TOP .5.: Novellierung des Bayerischen Landesplanungsgesetzes (BayLplG) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2012 Sitzungsvorlage Nr. 08-14 / V 08905; siehe auch TOP B.5.3.9.
+- TOP .6.: Baugenehmigung / Bescheid: Franz-Joseph-Str. 21, Nutzungsänderung einer Wohnung in ein Büro
+- TOP .7.: Neue Gebäudebezeichnung für die Kirche Hl. Kreuz ? Fröttmaning 1 Schreiben des Kommunalreferats zu einem Bürgeranliegen
+- TOP .8.: Baumaßnahmen der Stadtwerke München Mehrspartenprojekt Heinrich-Groh-Straße (Gas / Wasser / Strom)
+- TOP .1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP .1.: Anträge
+- TOP .5.: Unterrichtungen
+- TOP .2.: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .5.2.: Verkehrsrechtliche Anordnungen
+- TOP .3.2.: Sonstige Anhörungen
+- TOP .4.: Bürgeranliegen
+- TOP .5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP .1.: ?Tuc Tuc?, Schank- und Speisewirtschaft, Occamstr. 5
+- TOP .5.3.: Sonstige Unterrichtungen
