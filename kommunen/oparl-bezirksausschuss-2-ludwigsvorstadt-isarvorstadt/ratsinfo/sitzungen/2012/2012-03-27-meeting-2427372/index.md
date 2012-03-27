@@ -1,0 +1,103 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-03-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427372
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427372
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Capoeira Gerais München Veranstaltung "Batizado 2012" vom 04. - 06.05.2012
+- TOP .2.: Bestellung einer städtischen Leistung Kulturtage 2012
+- TOP .1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .1.: Bürgeranliegen: ?Teestube ?komm?-Streetwork
+- TOP .2.: Maibaumfest auf dem Karl-Heinrich-Ulrichs-Platz am 01,05.2012 PLENUMSBESCHLUSS
+- TOP 5.1.5: Sonstiges
+- TOP 5.1.1.: SPD-Fraktion: Kein weiteres Luxuswohn-Projekt in der Maistraße 11 ? Soziale Nachnutzung für die Frauenklinik
+- TOP 5.1.3.1: Bauvorhaben
+- TOP 5.1.1.: Goethestraße 18: Erweiterung eines Hotelgebäudes (Eilentscheidung)
+- TOP 5.1.2.: Ickstattstraße 1a: Umbau eines Appartment-Wohnhauses (Eilentscheidung)
+- TOP 5.1.3.: Bayerstraße 49: Nutzungsänderung Postbankgebäude
+- TOP 5.1.4.: Sonnenstraße 22: Nutzungsänderung von Laden und Kellerräumen
+- TOP 5.1.5.: Erhardstraße 10: Aufstockung, Abbruch und Neubau Hofbebauung (Vorbescheid)
+- TOP 5.1.6.: Ickstattstraße 5: Genehmigung eines Rückgebäudes als Nebengebäude
+- TOP 5.1.7.: Schubertstraße 8: Nutzungsänderung Wohnungen in Büros
+- TOP 5.1.8.: Schillerstraße 38: Nutzungsänderung WC in Lagerraum, Hausmeisterwohnung in Lager...
+- TOP 5.1.9.: Frauenhoferstraße 7: Neubau eines Wohn- und Bürogebäudes
+- TOP 5.1.10.: Schillerstraße 29: Nutzungsänderung Büros in Wohnungen
+- TOP 5.1.11.: Westermühlstraße 4: Dachgeschoss-Ausbau PLENUMSBESCHLUSS
+- TOP 5.1.12.: Herzog-Heinrich-Straße 22: Nutzungsänderung für Einzeletagen-Vermietung PLENUMSBESCHLUSS
+- TOP 5.1.13.: Zenettistraße 20: Zwei beleuchtete Großflächen PLENUMSBESCHLUSS
+- TOP 5.1.14.: Auenstraße 7: Verbreiterung und Verschiebung Dachgauben PLENUMSBESCHLUSS
+- TOP 5.1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 5.1.1.: Baumfällung Baaderstraße 66
+- TOP 5.1.2.: Baumfällung Museumsinsel 1
+- TOP 5.1.3.: Baumfällung Müllerstraße 31
+- TOP 5.1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 5.1.1.: Betrieb einer Wasserkraftanlage am Werkkanal im Bereich der Braunauer Eisenbahnbrücke (Isarwerk III) ? Wittelsbacher Straße 24 (vertagt aus der Sitzung vom 28.02.2012)
+- TOP 5.1.3.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus
+- TOP 5.1.1.: Ortsterminanfrage BA 5 zur Diskussion über den Zugang zur Isar südlich der Reichenbachbrücke
+- TOP 5.1.2.: Informationsveranstaltung des Planungsreferats zur Öffentlichkeitsphase Fortschreibung ?PERSPEKTIVE MÜNCHEN?
+- TOP 5.1.3.: Baumpflanzung auf den Zufahrtsstraßen zum Gärtnerplatz
+- TOP 5.1.4.: Schreiben an die LBK und das Sozialreferats mit der Bitte um Auskunft zur Frauenhoferstraße 10
+- TOP 5.1.2.1: Gaststättenangelegenheiten
+- TOP 5.1.1.: Bar ?Caberet Imperial?, Schillerstraße 16: Sperrzeitaufhebung
+- TOP 5.1.2.: Gaststätte ?Ruppert's?, Lindwurmstraße 159a: Genehmigung einer Freischankfläche
+- TOP 5.1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 5.1.1.: Jahnstraße 20. Warenstellage
+- TOP 5.1.2.3: Sonstige Entscheidungen
+- TOP 5.1.1.: Zusätzlicher Reinigungsdienst und Kontrollen an der Isar (Ziffer 1) Empfehlung Nr. 08-14 / E 00946 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 19.05.2011 Grillen an der Isar - Verstärkte Kontrollen und verbesserte Beschilderung BA-Antrag Nr. 08-14 / B 03127 des Bezirksausschusses des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt vom 28.06.2011
+- TOP 5.1.1.: Straßenfest in der Klenzestraße am 07.06.2012 (Ersatztermin: 09.06.2012)
+- TOP 5.1.2.: Straßenfest in der Geyerstraße am 09.06.2012 (Ersatztermin 16.06.2012)
+- TOP 5.1.3.: Straßenfest in der Hans-Sachs-Straße zur Wahl der Maikönigin am 30.04.2012 PLENUMSBESCHLUSS
+- TOP 5.1.3.2: Verkehr
+- TOP 5.1.1.: Austausch der Lichtzeichenanlagen Herzog-Heinrich-/Lindwurmstraße PLENUMSBESCHLUSS
+- TOP 5.1.1.: Bürgeranliegen: Gehwegparken Sonnenstraße
+- TOP 5.1.1: Termine
+- TOP 5.1.3: Sonstiges / Verschiedenes
+- TOP 5.1.1.: Sozialreferat, Mietberatung Mieterbeiratswahlen 2012, Entsendung von Mitgliedern (vertagt aus der Sitzung vom 28.02.2012)
+- TOP 5.1.2.: Städtische Telefonbücher ? Bericht aus der BA-Geschäftsstelle
+- TOP 5.1.&nbsp;: Unterrichtungen
+- TOP 5.1.1.: BA-Budget: Bescheide ( )
+- TOP 5.1.2.: Verwendungsnachweise ()
+- TOP 5.1.3.: Beschluss des Planungsausschusses vom 07.03.2012: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen
+- TOP 5.1.4.: Beschluss des Ausschusses für Bildung und Sport vom 31.11.2011: MIP 2011-2015
+- TOP 5.1.5.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012: Zuschussnehmerdatei 2012
+- TOP 5.1.6.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012: Zuschussnehmerdatei 2012 für den Bereich ?Förderung freier Träger? - des Sozialreferats/Zentrale - des Stadtjugendamts - des Amts für Soziale Sicherung - des Amts für Wohnen und Migration
+- TOP 5.1.7.: Anhörung Projekt ?Respect us? wegen Verwendungsnachweis
+- TOP 5.1.8.: Bekanntgabe in der Sitzung des Planungsausschusses vom 28.03.2012: Wanderungsmotivuntersuchung II - 2012/2011
+- TOP 5.1.9.: Beschluss der Vollversammlung vom 21.03.2012: Lärmminderungsplaung für München
+- TOP 5.1.1.: Baumaßnahmen SWM ()
+- TOP 5.1.2.: Beschluss des Planungs- und Umweltausschusses vom 07.03.2012: PERSPEKTIVE MÜNCHEN: Aktualisierung Leitbild Ökologie
+- TOP 5.1.3.: Beschluss des Planungs- und Umweltausschusses vom 07.03.2012: Ökologischer Kriterienkatalog
+- TOP 5.1.4.: Ausstellung "Neues Leben für die Isar" auch im Innenstadtbereich und während Schulzeit zeigen
+- TOP 5.1.5.: Bescheid zur Offenlegung des Westermühlbachs
+- TOP 5.1.6.: Antrag des BA 15 auf eine Veranstaltung zur Nachverdichtung in Trudering und ggf. anderen Stadtbezirken
+- TOP 5.1.7.: Beschluss des Kommunalausschusses vom 16.02.2012: Teilumbenennung, Auen-, Ehrengut-, Hefner-Alteneck- und Wittelsbacherstraße
+- TOP 5.1.8.: Beschluss des Bauausschusses vom 13.03.2012: Wittelsbacher Schwelle - Machbarkeitsstudie
+- TOP 5.1.9.: Beschluss des Planungsausschusses vom 07.03.2012: Novellierung des Bayerischen Landesplanungsgesetzes
+- TOP 5.1.10.: Antwortschreiben der LBK und Vorbescheid Auenstraße 21
+- TOP 5.1.11.: Beschluss der Vollversammlung vom 21.03.2012: Lärmminderungsplanung für München
+- TOP 5.1.12.: Beschluss der Vollversammlung vom 21.03.2012: Förderung von Genossenschaften und Baugemeinschaften
+- TOP 5.1.13.: Beschluss der Vollversammlung vom 21.03.2012: Erlass einer Erhaltungssatzung
+- TOP 5.1.1.: Versammlungen unter freiem Himmel
+- TOP 5.1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 5.1.3.: Unveränderte Gaststättenfortführungen: - ?Pizzeria Toto?, Ehrengutstraße 27 - ?La Fiesta?, Schwanthalerstraße 3 - Heuboden?, Kapuzinerstraße 2 - ?Happy Treff?, Walterstraße 21
+- TOP 5.1.4.: Verkehrsrechtliche Anordnungen: - - Frühlingsfest Theresienwiese
+- TOP 5.1.5.: Erlaubnisbescheide:
+- TOP 5.1.6.: Antwortschreiben des BA 1 bzgl. der herumliegenden Fahrräder am Breiterhof
+- TOP 5.1.7.: Antwortschreiben des Baureferats an einen Bürger bzgl. der Straßenreinigungsgebühren für die Veranlagung Am Glockenbach 3
+- TOP 5.1.1: Anträge
+- TOP 5.1.2: Entscheidungen
+- TOP 5.1.3.: Anhörungen
+- TOP 5.1.1.: Mittelfristige Finanzplanung 2011 - 2015: Mehrjahresinverstitionsprogramm; Fortschreibung für die Jahre 2012 ? 2016 (wird auch in den anderen Unterausschüssen vorberaten)
+- TOP 5.1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 5.1.2.: Veranstaltungen
