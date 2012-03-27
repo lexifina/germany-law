@@ -1,190 +1,134 @@
-# Entgeltordnung des Historischen Archivs der Stadt Köln für Auskünfte und Benutzung von Beständen des Archivs, für die Anfertigung von Reproduktio- nen und für die Einräumung von Nutzungsrechten
+# Entgeltordnung des Historischen Archivs der Stadt Köln für Auskünfte und Benutzung von Beständen des Archivs sowie für die Anfertigung von Reproduktionen
 
 - Gemeinde: Stadt Köln (ARS 053150000000)
-- Datum: 2003-09-04 (jüngstes Datum im Kopf des Dokuments)
-- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/entgeltordnung-historisches-archiv_2003_09_04.pdf
+- Datum: 2012-03-27 (jüngstes Datum im Kopf des Dokuments)
+- Quelle: https://www.stadt-koeln.de/mediaasset/content/satzungen/20120327_entgeltordnung.pdf
 - Text: PDF der Stadt, Textschicht (pdftotext)
 - Hinweis: Sammlung des Ortsrechts auf der Website der Stadt; rechtsverbindlich ist die amtliche Bekanntmachung
 
 ---
 
-Entgeltordnung des Historischen Archivs der Stadt Köln für Auskünfte und Benutzung von Beständen des Archivs, für die Anfertigung von Reproduktio-
-nen und für die Einräumung von Nutzungsrechten vom 04.September 2003
-Der Rat der Stadt Köln hat in seiner Sitzung vom 29.07.2003 aufgrund der §§ 41 Abs. 1 Buchstabe i und 76 der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV NW 2023) diese Entgeltordnung beschlossen:
+Entgeltordnung des Historischen Archivs der Stadt Köln für Auskünfte und Benutzung von Beständen des Archivs sowie für die Anfertigung von Reproduktionen vom 27.03.2012
+
+Der Rat der Stadt Köln hat in seiner Sitzung vom 27.03.2012 aufgrund des § 41 Abs. 1 Buchstabe i der Gemeindeordnung für das Land Nordrhein-Westfalen in der Fassung der Bekanntmachung vom 14.07.1994 (SGV NW 2023) diese Entgeltordnung beschlossen:
 
 I. Entgelte
+Für die Benutzung des Historischen Archivs der Stadt Köln werden folgende Entgelte erhoben:
 
-Teil A Entgelte für Auskünfte und Benutzungen des Archivs
+§1 Entgelt für Auskünfte und Benutzungen des Archivs
 
-1. Auskünfte und Bereitstellung von Unterlagen, die Nachforschungen in Archivbeständen und Archivbehelfen erfordern, je angefangene halbe Stunde 25,00 €
+(1a) Auskünfte und Beratungen sowie Vorbereitung von Archivalien zur
 
-2. Versendung von Archivalien, auch für Ausstellungen, je Ausleihvorgang 30,00 €
+Einsichtnahme und Benutzung im Historischen Archiv,
 
-3. Benutzung des Archiv- und Bibliotheksgutes, der Findmittel und
+(1b) Gutachten, Recherchen und Abwicklung von Ausleihen von Archivalien für
 
-technischen Einrichtungen im Lesesaal
+Ausstellungen
 
-für einen Tag (Tageskarte)
+erste halbe Stunde
+
+frei
+
+jede weitere angefangene halbe Stunde
+
+30,00 €.
+
+(2) Für Inhaberinnen und Inhaber des Köln-Passes sowie Schülerinnen/Schüler und
+
+Studentinnen/Studenten wird das Entgelt um 50 % ermäßigt.
+
+(3) Für Zwecke der Schulausbildung bzw. des Studiums entfällt für
+
+Schülerinnen/Schüler und Studentinnen/Studenten das Entgelt nach (1a).
+
+§2 Entgelte für die Anfertigung von Reproduktionen
+(1) Einzelentgelte für Ausdrucke, Kopien und digitale Reproduktionen bei Leistung im Historischen Archiv oder für den Versand:
+
+Seite 1 von 3
+
+1. DIN A 4, s/w
+
+0,30 €
+
+2. DIN A 3, s/w
+
+0,50 €
+
+3. DIN A 4, Farbe
+
+2,20 €
+
+4. DIN A 3, Farbe
+
+3,50 €
+
+5. Anfertigung einer digitalen Reproduktion je Scan
+
+0,30 €
+
+zzgl. Datenträger
+
+6. Zusammenstellung vorhandener Reproduktionen
 
 2,00 €
 
-für einen Monat (Monatskarte)
+zzgl. Datenträger
 
-15,00 €
+7. Anfertigung digitaler Reproduktionen von AV-Archivgut (Film, Video, Ton)
 
-für ein Jahr (Jahreskarte)
+Nach tatsächlichem Aufwand, jedoch mindestens 3,00 € je angefangener
 
-75,00 €
+10 MB, zzgl. Datenträger
 
-mit Zehnerkarte
+8. CD
 
-12,00 €
+2,00 €
 
-4. Benutzung technischer Einrichtungen zwecks Auswertung audio-
+9. DVD
 
-visueller Medien, für Film-, Bild- und Tonaufnahmen
+4,00 €
+
+10. Bereitstellung eines Downloads
+
+1,00 €
+
+(2) Vorbereitung der Archivalien für eine Reproduktion
 
 je angefangene halbe Stunde
 
 30,00 €
 
-5. Entgelte gemäß Nr. 1 werden nicht erhoben bei:
+zzgl. Materialkosten
 
-- Anfragen zur Vorbereitung wissenschaftlicher Arbeiten,
+(3) Beglaubigungen von Kopien und Reproduktionen je Seite
 
-- Anfragen von Schülerinnen und Schülern, Studentinnen und Studenten
+1,70 €
 
-- für Zwecke der Schulausbildung bzw. des Studiums,
+zzgl. Materialkosten
 
-- behördlichen Ersuchen um Bescheinigungen für Rentenanträge.
+(4) Alle digitalen Nutzungskopien werden ausschließlich auf vom Historischen
 
-6. Für Inhaberinnen und Inhaber des Familien-Passes, Sozialhilfeempfänger/innen, Schwerbehinderte, Arbeitslose, Auszubildende, Zivil- und Wehrdienstleistende, Schülerinnen und Schüler, Studentinnen und Studenten wird das Entgelt gemäß Nr. 3 um 50 % ermäßigt.
+Archiv Köln gelieferten Datenträgern zur Verfügung gestellt. Die Speicherung
 
-Seite 1 von 5
+der Daten auf Datenträgern der Benutzerinnen und Benutzer sowie ein
 
-Teil B Entgelte für die Anfertigung von Reproduktionen
+Mailversand sind nicht möglich.
 
-1. Fotografische Reproduktionen und Xerokopien (schwarz-weiß)
+§3 Zusätzliches Entgelt für Porto, Verpackung, Telefon, Versicherungsschutz sowie Dritt- und Sonderleistungen
+Das nach § 1 oder § 2 zu zahlende Entgelt erhöht sich, soweit für Porto und Verpackung bei Versendung der angefertigten Reproduktionen, Telefonate, Versicherungsschutz, die Ausführung von Arbeiten durch Dritte oder Sonderleistungen (konservatorische Vorbereitung von Reproduktionsarbeiten) Kosten anfallen.
 
-1.1 Mikrofilm (Negativ) (unperforiert, 32 x 45 mm), je Aufnahme
+Seite 2 von 3
 
-0,60 €
+§4 Mindestentgelt, Entgeltbefreiung
+(1) Für Anfertigung und Versand von Reproduktionen auf Rechnung wird ein Mindestentgelt von 10,00 € erhoben.
+(2) Von der Zahlung der Entgelte nach §§ 1, 2 und 3 sind Dienststellen und Einrichtungen der Stadtverwaltung Köln befreit, sofern die Entgeltfreiheit auf Gegenseitigkeit beruht.
 
-1.2 Kleinbildnegativ (perforiert, 24 x 36 mm) je Aufnahme analog / Digitalaufnahme (zzgl. Ziffer 1.7)
+II. Inkrafttreten
 
-4,00 €
+Die Entgeltordnung tritt mit Beschlussfassung des Rates der Stadt Köln in Kraft. Gleichzeitig tritt die Entgeltordnung des Historischen Archivs der Stadt Köln vom 29. Juli 2003 außer Kraft.
 
-1.3 Siegelaufnahmen analog / digital (zzgl. Ziffer 1.7)
+Köln, den 27.03.2012
 
-6,00 €
+Der Oberbürgermeister gez. Roters
 
-1.4 Mikrofilmduplizierung (nur ganze Filme) 30 m Film 65 m Film
-
-80,00 € 100,00 €
-
-1.5 Xerokopien DIN A 4 DIN A 3
-
-0,30 € 0,50 €
-
-1.6 Readerprinter-Rückvergrößerungen DIN A 4
-
-0,70 €
-
-1.7 Scan-Kopie je CD und Digitalaufnahmen zzgl. je Scan
-
-8,00 € 0,30 €
-
-1.8 E-Mail Versendung pro MB
-
-1,00 €
-
-2. Anfertigung von Siegelabgüssen
-
-Herstellung eines Abgusses, einfach,
-
-.
-
-mit Pressel
-
-(ggfs. zuzüglich der Herstellung eines Siegelnegativs)
-
-20,00 € 35,00 € 25,00 €
-
-3. Alle Reproduktionen werden grundsätzlich als Arbeitskopie hergestellt. Bei höherwertigen Reproduktionen, die eine weitere Nutzung ermöglichen, ist das Entgelt nach Teil C im Voraus mit den Entgelten nach diesem Teil zu entrichten.
-
-4. Benutzer, die Reproduktionen mit eigenen technischen Geräten herstellen, zahlen die Hälfte der o. g. Entgelte.
-
-5. Von der Zahlung der Entgelte für Reproduktionen wird befreit, wenn die Herstellung der Reproduktionen im Rahmen eines wissenschaftlichen Austausches erfolgt und die Entgeltfreiheit auf Gegenseitigkeit beruht.
-
-Seite 2 von 5
-
-Teil C Entgelte für die Einräumung von Nutzungsrechten und Nutzungsbefugnissen
-
-1. an Filmen je Sendeminute
-
-600,00 €
-
-2. an Tonträgern je Sendeminute
-
-100,00 €
-
-3. an sonstigem Archivgut (z. B. Fotos, Bildpostkarten, Urkunden, Akten, Hand-
-
-schriften, Plänen, Plakaten, Flugblättern und sonstige Druckschriften sowie Bü-
-
-chern und Zeitungen)
-
-3.1. bei audiovisueller Wiedergabe je Seite oder Stück
-
-50,00 €
-
-3.2. bei Wiedergabe in Printmedien (auch in Zeitungen und Zeitschriften)
-
-je Seite
-
-3.2.1. bei einer Auflage bis zu 800 Exemplaren
-
-25,00
-
-3.2.2. bei einer Auflage bis zu 10 000 Exemplaren
-
-50,00 €
-
-3.2.3. bei einer Auflage über 10 000 Exemplaren
-
-100,00 €
-
-bei Mehrfarbendruck (auch in Zeitungen und Zeitschriften) werden die Entgelte
-
-verdoppelt.
-
-4. für den Vertrieb von Siegelabgüssen unabhängig von der Auflagenhöhe
-
-je Siegel
-
-200,00 €
-
-5. Wiederholungen und Neuauflagen werden unbeschadet der Genehmigungsbedürftigkeit mit 50 % obiger Entgelte berechnet.
-
-6. Entgelte nach Teil C sind grundsätzlich im Voraus zu entrichten.
-
-7. Von der Zahlung dieser Entgelte wird befreit, wenn die Einräumung von Nutzungsrechten und Nutzungsbefugnissen im Rahmen eines wissenschaftlichen Austausches erfolgt und die Entgeltfreiheit auf Gegenseitigkeit beruht.
-
-Seite 3 von 5
-
-Teil D Auslagen Unbeschadet der nach Teil A, Teil B und Teil C dieser Entgeltordnung festzusetzenden Entgelte hat der Benutzer/die Benutzerin dem Historischen Archiv der Stadt Köln die entstehenden Auslagen zu ersetzen. Hierzu gehören insbesondere die Kosten für Porto und Verpackung bei Versendung der angefertigten Reproduktionen sowie Telefonkosten und Versicherungsprämien, auch die bei Ausführung von Arbeiten durch Dritte und für Sonderleistungen (konservatorische Vorbereitung von Reproduktionsarbeiten) anfallenden Kosten.
-Seite 4 von 5
-
-II. In-Kraft-Treten
-
-Die Entgeltordnung tritt am Tage nach ihrer Bekanntmachung im Amtsblatt der Stadt Köln in Kraft. Gleichzeitig tritt die Entgeltordnung des Historischen Archivs der Stadt Köln vom 26. September 1994 außer Kraft.
-
-Vorstehende Entgeltordnung des Historischen Archivs der Stadt Köln für Auskünfte und Benutzung von Beständen des Archivs, für die Anfertigung von Reproduktionen und für die Einräumung von Nutzungsrechten wird hiermit öffentlich bekannt gemacht.
-
-Köln, den 04.09.2003
-
-Der Oberbürgermeister gez.: Schramma
-
-ABl StK 2003, S. 512
-
-Seite 5 von 5
+Seite 3 von 3
