@@ -1,0 +1,54 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-03-27T17:00:00+02:00
+- Ende: 2012-03-27T20:20:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5670
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5670
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00174778.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00174778.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00174778.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Villa Sohl - vertagt
+- TOP 4: Aufstellungsbeschluss für einen Bebauungsplan "Villa Sohl" - vertagt
+- TOP 4.1: Gartendenkmal "Villa Sohl" - einstimmig beschlossen
+- TOP 4.2: Sitzungssaal der Bezirksvertretung - mehrheitlich abgelehnt
+- TOP 5: Unfall- und Kriminalitätsentwicklung im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 6: B-Plan Hardtstraße / Ludenberger Straße - vertagt
+- TOP 7: Bau- und Finanzierungsbeschluss zum Umbau des Kinderspielplatzes Am Bürgerhaus - einstimmig beschlossen
+- TOP 8: B-Plan-Vorentwurf Nr. 5976/02 - Nördlich „Nach den Mauresköthen“ - frühzeitigen Öffentlichkei - einstimmig beschlossen
+- TOP 8.1: B-Plan Nr.: 6076/034 "Östlich Heyestraße" Ergänzendes Verfahren, Satzung, Stellungnahmen - einstimmig beschlossen
+- TOP 8.2: Gymnasien im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 9: Friedhofsentwicklungskonzept - zur Kenntnis genommen
+- TOP 10: Düsseldorfer Sport Club 1899 e. V. (DSC 99) - zur Kenntnis genommen
+- TOP 11: Unterhaltung von Grundstücken und baulichen Anlagen im Stadtbezirk 7 (Haushalt 2012)- - einstimmig beschlossen
+- TOP 12: Bauern- und Handwerkermarkt auf der Gerricusplatz in Gerresheim im Jahre 2012 - einstimmig beschlossen
+- TOP 13: Widmung von Straßen - einstimmig beschlossen
+- TOP 14: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 15: Kennzeichnung des Parkraums Stichstraße Benderstraße - einstimmig beschlossen
+- TOP 16: "Staufenhalle" am Staufenplatz - einstimmig beschlossen
+- TOP 17: Fußgänger-Bedarfsampel Bushaltestelle Gallberg - einstimmig beschlossen
+- TOP 18: TG-Stellplätze Gerresheim-City (Grundstück "Von-Gahlen-Str./Marie-Curie-Str.") - einstimmig beschlossen
+- TOP 19: Sachstandsbericht Querung der Gleise in Gerresheim-Süd - einstimmig beschlossen
+- TOP 20: Umbau des Gerresheimer Bahnhofes - einstimmig beschlossen
+- TOP 21: Unterführung S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 22: Bahnsteige am S-Bahnhof Gerresheim - einstimmig beschlossen
+- TOP 22.1: Gehweg vor dem Wohnhaus Grimmstr. 43 - einstimmig beschlossen
+- TOP 23: Sicherung Haltestelle Burgmüllerstraße/Staufenplatz/Grafenberger Allee - einstimmig beschlossen
+- TOP 24: Lärmbelästigung am Gerricusplatz
+- TOP 25: Gastronomie Terrassengebühren - zur Kenntnis genommen
+- TOP 26: Erhöhung der Verkehrssicherheit in der Wittelsbachstr./Staufenplatz und Radweg - zur Kenntnis genommen
+- TOP 27: Überquerung Knittkuhler Straße - zur Kenntnis genommen
+- TOP 28: Sichtachse Forster Weg/Marthastr./Rennbahn - zur Kenntnis genommen
+- TOP 29: Schulstandort Diepenstraße 24 - zur Kenntnis genommen
+- TOP 30: Beleuchtung Blanckertzstraße - zur Kenntnis genommen
+- TOP 31: Straßenbahnlinie am Staufenplatz/Fußgängerübergang Haltestelle Burgmüllerstraße - zur Kenntnis genommen
+- TOP 32: Sachstandsbericht "Heyestraße" - zur Kenntnis genommen
