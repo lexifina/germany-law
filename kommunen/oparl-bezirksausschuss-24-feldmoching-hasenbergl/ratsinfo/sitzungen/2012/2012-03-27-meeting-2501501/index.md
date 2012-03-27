@@ -1,0 +1,65 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-03-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501501
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501501
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Deutsche Stiftung Denkmalschutz: Tag des offenen Denkmals am 09.09.2012
+- TOP 2: Entscheidungsfälle
+- TOP 3.1.: Neuauflage der Spielflächenversorgungspläne für München
+- TOP 3.2.: Chancengleichheit bei Aufnahme an Gymnasien für Kinder aus dem 24. Stadtbezirk - Feldmoching-Hasenbergl und anderen Randgebieten Münchens
+- TOP 3.3.: Grünfläche Lassallestraße/ Toni-Pfülf-Straße: Aufschotterung und Hundekotspender
+- TOP 3.4.: Sicherer Übergang für Kinder an der Straßenkreuzung Fortner-/Aschenbrenner- und Schleißheimer Straße stadteinwärts
+- TOP 3.5.: Kurzparkzone vor Paul-Preuß-Str. 2 und Abmarkierung Gehweg - Privatgrund
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1 Himmelschlüsselstraße (Neubau Kinderkrippe) 5.1.2 Linkstr. 56 (Nutzungsänderungen) 5.1.3 Müllritterstraße (Neubau Mehrfamilienhaus) 5.1.4 Dachauer Str. 568 (Nutzungsänderung "Busforum")
+- TOP 5.2.: Sozialreferat: Mieterberatswahl 2012; Entsendung von Mitgliedern
+- TOP 5.3.: Stadtkämmerei: Mittelfristige Finanzplanung 2011-2015; Fortschreibung für 2012-2016
+- TOP 5.4.: KVR: Veranstaltung auf städtischer Grünanlage; Dülfer Anger: Sommerfest des Vereins Kasrik e.V. vom 15.06. - 17.06.2012
+- TOP 5.5.: KVR: Veranstaltung auf städtischer Grünanlage; Dülfer Anger: Kirmesfest des Münchner Integrations- und Bildungsvereins e.V. vom 27.04. - 29.04.2012
+- TOP 5.6.: KVR: Veranstaltung auf städtischer Grünanlage; Grünanlage Weitlstraße: Gastspiel Zirkus Roberto vom 02.04. - 15.04.2012
+- TOP 5.7.: KVR: Austausch der Lichtzeichenanlage Feldmochinger Straße/ Gutmannstraße
+- TOP 5.8.: Baumfällungen im Rahmen von Bauvorhaben: 5.8.1 Aronstabstr. 27 5.8.2 Geschwister-Löb-Str. 3
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: KVR: Unsichere Verkehrslage in Feldmoching/ Josef-Frankl-Straße
+- TOP 6.2.: RGU: Vollzug der abfallrechtlichen Bestimmungen; Toni-Pfülf-Straße beidseitig
+- TOP 6.3.: Referat für Stadtplanung und Bauordnung: Zwischennachricht zum Hubschraubersondelandeplatz in OSH
+- TOP 6.4.: Referat für Stadtplanung und Bauordnung: Lärmminderungsplanung für München; Entwurf des Lärmaktionsplanes - Feldmochinger Anger als Ruhiges Gebiet benennen
+- TOP 6.5.: Referat für Stadtplanung und Bauordnung: Seperate Bürgerversammlungen zum Verkehrskonzept Münchner Norden
+- TOP 6.6.: Baureferat: Grünplanungen im 24. Stadtbezirk; aktueller Stand
+- TOP 6.7.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.8.: MSE: Grundwassersituation Feldmoching; Protokoll "Runder Tisch" am 29.02.2012
+- TOP 6.9.: Meldelisten Baumfällungsanträge
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: Baureferat: Detmoldstraße; Bauabschnitt 2; Erstmalige Herstellung
+- TOP 6.12.: Baureferat: Erinnerungsverfahren (§6 AufgrO)): Steinheide 16
+- TOP 6.13.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Caracciolastr. 34
+- TOP 6.14.: KVR: Bahnübergang Fasanerie - Feldmochinger Straße (Gleisbauarbeiten 12.04.- 13.04.2012)
+- TOP 6.15.: Baumassnahmen der SWM: Stromprojekt Am Gottesackerweg; Erdgasprojekt Schittgablerstraße
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Perspektive München; Aktualisierung Leitlinie Ökologie
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Eingetragene Lebenspartnerschaften im Zugang zu geförderten Wohnungen gleichstellen
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Novellierung des Bayerischen Landesplanungsgesetzes
+- TOP 6.19.: gemeinsame Beschlussvorlage Referat für Stadtplanung und Bauordnung / RGU: Ökologischer Kriterienkatalog
+- TOP 6.20.: Beschlussvorlage Referat für Bildung und Sport: Kindertagesstätten gemeinsütziger Träger; Kinderkrippe Josef-Frankl-Str. 47b; Leistung eines Investitionskostenzuschusses
+- TOP 6.21.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale
+- TOP 6.22.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für soziale Sicherung
+- TOP 6.23.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 6.24.: Beschlussvorlage Sozialreferat: Zuschussnehmerdatei 2012; Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 6.25.: Antrag BA 7: Werbung für Spielhallen auf Bussen der MVG
+- TOP 6.26.: Antrag BA 15: Beteiligung der BA's an dem Projekt "Langfristige Siedlungsentwicklung"
+- TOP 6.27.: Sozialreferat: Rahmenkonzeption der offenen Kinder- und Jugendarbeit in München
+- TOP 6.28.: Referat für Stadtplanung und Bauordnung: Perspektive München - Öffentlichkeitsphase; Beteiligungsangebot und Information
+- TOP 6.29.: BA-Budget: Theaterstück "der kleine Bär sucht einen Freund"; Dankschreiben
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
