@@ -1,0 +1,91 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-03-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2598846
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2598846
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Tempo 30 in der Hochstraße (aus Bürgerversammlung in BA verwiesen)
+- TOP .2.: Grünpaten-Aktion Wolfgangstraße, Schreiben von Green City e.V. vom 12.03.2012
+- TOP .3.: Zuschuss für das Adelgundenheim, Schreiben vom 07.03.2012
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Förderverein SFZ An der Isar Tanzprojekt vom 23.01. - 04.03.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Init. "Stadtviertellesung" Stadtviertellesungsnacht am 28.04.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Alten- und Service-Zentrum Haidhausen Flohmarkt am 05.05.2012
+- TOP .4.: Seifenkistenrennen des BA 5 am 29.07.2012
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Wörthstr. 10, ?Der Flohmarktladen?, Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP .2.: Falkenstr. 47, Entenbachstr. 57, Einsteinstr. 163, Weißenburger Str. 1, Rosenheimer Str. 52, Max-Weber-Platz 10, Orleansplatz 4: Aufstellung von Bild-Zeitungskästen
+- TOP .3.: Franziskanerstr. 19, ?Joe & Ben?: Genehmigung einer Freischankfläche
+- TOP .4.: Gebsattelstr. 15, ?Dilan?: Erweiterung der Freischankfläche, Schreiben des KVR vom 14.02.2012
+- TOP .5.: Lilienstr. 51, ?Wirtshaus in der Au?, Antrag auf Betriebszeitverlängerung der Freischankfläche
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Mieterbeiratswahl 2012, Entsendung von Mitgliedern
+- TOP .2.: Änderung der Satzung der Münchner Bezirksausschüsse; Unterrichtungsrecht bei Film-, Fernseh- und Videoaufnahmen in öffentlichen Grünanlagen, Schreiben des Direktoriums vom 27.01.2012
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Be- und Entladung des Getränkemarktes an der Ohlmüllerstraße/ Ecke Eduard-Schmid-Straße
+- TOP .2.: Fahrradbereinigungsaktion Rosenheimer Platz
+- TOP .3.: Möglichkeiten des Besuchs städtischer Schulen und Bildungseinrichtungen für Menschen mit Behinderungen
+- TOP .4.: Humboldtstraße / Claude-Lorrain-Straße einspurig kreuzen
+- TOP .5.: Geländer am Auer Mühlbach, Quellenstraße
+- TOP .6.: Überholte Fußwegplanung aus den 70er Jahren zwischen Max-Weber-Platz und Flurstraße endlich aufgeben
+- TOP .7.: Grundlagen für die Berechnung von Schüler/innen-Zahlen
+- TOP .8.: Stadtwerke / VHS / Ateliers "Einstein28"
+- TOP .9.: Was passiert mit der Philharmonie im Gasteig, wenn...
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Rückgebäude Auerfeldstr. 14a, Beeinträchtigung der Bewohner durch das neue Gebäude, Schreiben des RGU vom 12.04.2012
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Verkehrsrechtliche Anordnung anlässlich des Salvatorausschanks 2012
+- TOP .2.: Grundschule und Kindergarten Bazeillesstraße 8, Große Instandsetzung /Modernisierung des Schulgebäudes und Neubau eines dreigruppigen Kindergartens mit Offiziantendienstwohnung im 5. Stadtbezirk Au-Haidhausen, Ausführungsgenehmigung, Beschluss des Ausschusses für Bildung und Sport vom 07.03.2012
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Trogerstr. 7-9: Neubau einer Zentralen Sterilgutversorgungsabteilung
+- TOP .1.: Streicherprojekt, Gespräch mit Schulleitungen
+- TOP .2.: Holleschek und Schlick, Hörgang Textpassagen zur Stadtviertellesungsnacht am 28.04.2012
+- TOP .1.: Förderung der weggefallenen Stellen von siaf e.V. mit kommunalen Mitteln
+- TOP .2.: Münchner Bürgerinnen- und Bürgerbefragung 2010; Bekanntgabe in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Sozialausschusses und des Finanzausschusses vom 07.12.2011
+- TOP .3.: Bearbeitung von BA-Anträgen durch das Referat für Bildung und Sport
+- TOP .1.: Anfrage von Stadtrat Marian Offmann zur künstlerischen Nutzung des Areals ?Auf der Insel?
+- TOP .2.: Schreiben des BA 7 Sendling-Westpark zur Unterstützung des Antrages des BA 7 ?Keine Werbung für Spielotheken auf städt. Bussen?
+- TOP .1.: Ismaninger Str. 22: Errichtung eines OP-Zentrums Nord mit 8 OP-Sälen, Intensiv- und Normalpflege, Poliklinik, Arztdienstbereich für das Klinikum rechts der Isar der TU München
+- TOP .2.: Trogerstr.: Neubau Gebäude 524 ? Poliklinik und Bettenstation mit Kellergeschoss; Trogerstr.: Aufstockung Gebäude 524 ? Bettenstationen
+- TOP .3.: Trogerstr.: Zentrale Sterilgutversorgung (ZStGV)
+- TOP .4.: Johannisplatz 17: Erneuerung und Vergrößerung zweier Stahlbalkone
+- TOP .5.: Planung zur Postwiese
+- TOP .6.: Weißenburger Str. 29: Einbau einer Dachterrasse in ein Wohn- und Geschäftshaus
+- TOP .7.: Kellerstr. 34: Nutzungsänderung einer Kindertagesstätte in eine Eltern-Kind-Initiative (EKI) und Erweiterung EKI mit Nutzungsänderung Laden zu EKI
+- TOP .8.: Maria-Theresia-Str. 4a: DG-Ausbau und Nutzungsänderung einer Villa in ein MFH, Umbau des Rückgebäudes mit Nutzungsänderung im EG
+- TOP .9.: Johannispl. 5: DG-Neubau mit Dachterrasse, Aufzugseinbau und Erneuerung von Balkonen
+- TOP .1.: Planfeststellung nach § 18 AEG; 2. S-Bahn-Stammstrecke München, Planfeststellungsabschnitt 3 A Leuchtenbergring; Planänderungen zum Planfeststellungsbeschluss
+- TOP .2.: Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße: Kompensationsmaßnahmen Bus, barrierefreies Haltestellencap, Anhörung Baureferat vom 02.03.2012
+- TOP .1.: Ökologischer Kriterienkatalog, a) Fortschreibung, b) Klimaschutzfahrplan, c) Energetisches Bauen in den ökologischen Kriterienkatalog mit aufnehmen; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 07.03.2012
+- TOP .2.: Perspektive München, Aktualisierung Leitlinie Ökologie, Themenschwerpunkt: Klimawandel und Klimaschutz; Öffentlichkeitsphase und Einarbeitung; Beschluss in der gemeinsamen Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Umweltschutzausschusses vom 07.03.2012
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 04.04.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Donnerstag, 12.04.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 10.04.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 29.03.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 02.04.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 18.04.2012., 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
