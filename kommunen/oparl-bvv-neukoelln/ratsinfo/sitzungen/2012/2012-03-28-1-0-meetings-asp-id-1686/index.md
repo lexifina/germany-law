@@ -1,0 +1,80 @@
+# 6. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-03-28T17:10:00+02:00
+- Ende: 2012-03-28T22:34:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1686
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1686
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 5.1: Finanzausstattung - in der BVV abgelehnt
+- TOP 6: Vorlage zur Kenntnisnahme/Vorlage zur Wahl - erledigt
+- TOP 6.1: Annullierung der Wahl der Mitglieder in den Beirat für Migrationsangelegenheiten vom 25. Januar 2012 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 6.2: Wahl der Mitglieder in den Beirat für Migrationsangelegenheiten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Berufung eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7.2: Veränderungssperre 8-61/27 für das Grundstück Kanalstraße 8 im Bezirk Neukölln, Ortsteil Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlage zur Kenntnisnahme - erledigt
+- TOP 8.1: Fortschreibung des Frauenförderplans des Bezirksamtes Neukölln / Einzelbericht zur Strukturanalyse - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - erledigt
+- TOP 9.1: Mietübernahme durch das Jobcenter - beantwortet
+- TOP 9.2: Werbung im Sinne des Bezirksamtes? - beantwortet
+- TOP 9.3: Schüler dürfen nicht in die Schule gehen - beantwortet
+- TOP 9.4: FNP-Änderung Tempelhofer Feld - beantwortet
+- TOP 9.5: Abrechnungsunregelmäßigkeiten bei ambulanten Pflegediensten - beantwortet
+- TOP 9.6: Vermülltes Neukölln - schriftlich beantwortet
+- TOP 9.7: Überfordert der Kindersegen das Bezirksamt? - schriftlich beantwortet
+- TOP 9.8: Wochenmärkte in Britz - schriftlich beantwortet
+- TOP 9.9: Gemeindegebäude Ananias - schriftlich beantwortet
+- TOP 9.10: Unterschiedliche Liegezeiten für Reihengrabstätten - schriftlich beantwortet
+- TOP 9.11: Aktuelle Tarifauseinandersetzung - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 10.1: Durchfahrverbot für Lastkraftwagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Überquerungshilfe Treptower/Harzer Straße - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Pflegefamilien in Neukölln - beantwortet
+- TOP 10.4: Sanierungsarbeiten in der Hufeisensiedlung - schriftlich beantwortet
+- TOP 10.5: Feinstaubwerte in Neukölln - beantwortet
+- TOP 10.6: Kolonieabriss für A 100 ohne Baurecht - beantwortet
+- TOP 10.7: Haushaltsvollzug 2012/2013 - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Fair statt prekär: Tarifvertrag für Dozenten der VHS und der Musikschule - in der BVV abgelehnt
+- TOP 11.2: Initiative des Bezirkes gegen Rechtsextremismus - überwiesen
+- TOP 11.3: Transparenz bei den Bezirksverordneten, Bürgerdeputierten und Bezirksamtsmitgliedern - in der BVV abgelehnt
+- TOP 11.4: Blumenviertel vor Grundwasser schützen - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - erledigt
+- TOP 12.1: Gesundheitsstatus zugezogener Kinder - beantwortet
+- TOP 12.2: Arm gerechnet? - beantwortet
+- TOP 12.3: Schließanlagen in Neuköllner Schulen? - vertagt
+- TOP 12.4: Keine Sprechstunden des Wohnungsamtes? - vertagt
+- TOP 12.5: Integrationsbeauftragter deeskaliert? - vertagt
+- TOP 13: Große Anfragen - schriftlich - vertagt
+- TOP 14: Anträge - vertagt
+- TOP 14.1: Keine Wiedereinführung der Wohnberechtigungsscheine - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Haltverbot in der Scheveninger Straße - überwiesen
+- TOP 14.3: Denkmalschutz für Eternit-Hallen aufheben - überwiesen
+- TOP 14.4: Betriebszeitverlängerung der Buslinie 272 - überwiesen
+- TOP 14.5: Transparenz bei Bezirksamtssitzungen - vertagt
+- TOP 14.6: Eingeschränktes Haltverbot in der Köpenicker Straße 154 - überwiesen
+- TOP 14.7: Haltverbot für LKW Fahrzeuge in der Kanalstraße - überwiesen
+- TOP 14.8: Haushaltsdokumente maschinenlesbar veröffentlichen - überwiesen
+- TOP 14.9: Informationsveranstaltung über Rechtsextremismus - ohne Änderungen in der BVV beschlossen
+- TOP 14.10: Schulpflicht - in der BVV zurückgezogen
+- TOP 14.11: Beschulung der Kinder sichern - überwiesen
+- TOP 14.12: Kartellamtsverfahren Winterdienst einleiten - vertagt
+- TOP 14.13: Mehr Mittel für Impfstoffe - überwiesen
+- TOP 14.14: Freifunk auf Bezirksgebäuden - überwiesen
+- TOP 15: Mitteilungen - erledigt
+- TOP 15.1: Radweg Hannemannstraße - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Verschmutzte Grünanlage an der Blaschkoallee - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - in der BVV zurückgezogen
+- TOP 16.1: Kooperation zwischen Schule und Jugendhilfe - mit Abschlussbericht zur Kenntnis genommen
