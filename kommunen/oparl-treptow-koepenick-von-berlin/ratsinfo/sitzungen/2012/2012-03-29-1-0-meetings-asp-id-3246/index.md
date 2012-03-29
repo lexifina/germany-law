@@ -1,0 +1,55 @@
+# 7. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-03-29T16:30:00+02:00
+- Ende: 2012-03-29T21:40:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3246
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3246
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=96084
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-06 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 10.1: Betreiber des Strandbad Müggelsees - schriftlich beantwortet
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Verordnung über den Erlass der Veränderungssperre XVI-77/16 für das Grundstück Grenzweg 99 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Schillerpromenade 9-10 in Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: - Entwurf des Bebauungsplans XVI-36 nebst Begründung - Entwurf der Rechtsverordnung zum Bebauungsplans XVI-36 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Computerwartung an Schulen - mit Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Erläuterungsschilder an ehemaliger Alwin-Gerisch-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Informationsveranstaltung zu Standortschließung der Musikschule Joseph Schmidt - mit Änderungen in der BVV beschlossen
+- TOP 14.3: Schallschutz in der Grundschule und Kita in Müggelheim - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Prüfung der Radwegebenutzungspflicht - überwiesen
+- TOP 14.5: Maschinenlesbare Haushaltsunterlagen zur Weiterverarbeitung - überwiesen
+- TOP 14.6: Nachtragshaushalt 2013 - Jugendarbeit / Jugendsozialarbeit - vertagt
+- TOP 14.7: Unterstützung zur Gewinnung von Mitgliedern der Freiwilligen Feuerwehr - ohne Änderungen in der BVV beschlossen
+- TOP 14.8: Informationen über ökologische Baustoffe im Hausbau - überwiesen
+- TOP 14.9: Vernetzung von Jugend und Schule unterstützen - überwiesen
+- TOP 14.10: Transparente Vereinbarungen beim Müggelsee - überwiesen
+- TOP 14.11: Unterstützung für Wassersportvereine - überwiesen
+- TOP 14.12: Parkraumkonzept für WISTA Adlershof - überwiesen
+- TOP 14.13: Ausweitung der Tempo-30-Zone in Adlershof - überwiesen
+- TOP 14.14: Fahranzeigetafeln S-Bhf. Spindlersfeld und S-Bhf. Oberspree - ohne Änderungen in der BVV beschlossen
+- TOP 14.15: Sichere Querung der Michael-Brückner-Straße - überwiesen
+- TOP 14.16: Auffahrt Spindlersfelder Brücke - überwiesen
+- TOP 14.17: Kinder brauchen den besonderen Schutz unserer Gesellschaft (Resolution) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Pflege der bezirklichen Schulhöfe - beantwortet
+- TOP 15.2: Nutzung lizenzfreier Open-Source-Software in der Verwaltung - beantwortet
+- TOP 15.3: Reifenwerk Schmöckwitz - beantwortet
