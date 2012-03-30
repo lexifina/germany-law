@@ -1,0 +1,8 @@
+# TOP 7: Unterhaltung von Grundstücken und baulichen Anlagen
+
+- Sitzung: Bezirksvertretung 9 (2012-03-30)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/175417
+- Ergebnis: einstimmig beschlossen
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/consultations/61454
