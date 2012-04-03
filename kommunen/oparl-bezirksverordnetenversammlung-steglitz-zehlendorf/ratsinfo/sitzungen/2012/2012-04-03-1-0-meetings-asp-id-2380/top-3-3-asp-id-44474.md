@@ -1,0 +1,8 @@
+# TOP 3.3: Radstreifen im Kreuzungsbereich Gartenstraße / Berliner Straße
+
+- Sitzung: 5. öffentliche Sitzung des Ausschusses für Verkehr und Ordnung (2012-04-03)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=44474
+- Ergebnis: mit Änderungen im Ausschuss beschlossen
+- Beratung: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/consultations.asp?typ=i&id=44474
