@@ -1,0 +1,57 @@
+# 39. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-04-04T16:00:00+02:00
+- Ende: 2012-04-04T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1882
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1882
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_04_04 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00093251.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Aktuelle Stunde zur zukünftigen Schwerpunktsetzung bei der Gestaltung von Aktivitäten am und um den 13. Februar - zur Kenntnis genommen
+- TOP 4: 13. Februar - Würdig gedenken. Missbrauch verhindern! - punktweise Zustimmung
+- TOP 5: An Guernica erinnern - Vertagung
+- TOP 6: Wahl für den Hauptausschuss des Zweckverbandes Oberelbe (Z-VOE) - gewählt
+- TOP 7: Umbesetzung im Ortsbeirat Blasewitz - Zustimmung
+- TOP 8: Umbesetzung im Ortsbeirat Pieschen - Zustimmung
+- TOP 9: Umbesetzung im Ortsbeirat Loschwitz - Zustimmung
+- TOP 10: Tagesordnungspunkte ohne Debatte
+- TOP 11: Beschaffung der Spielstätten für Staatsoperette Dresden und Theater Junge Generation - Einleitung Wettbewerblicher Dialog durch die STESAD GmbH - punktweise Zustimmung
+- TOP 12: Instandsetzung, Modernisierung und Umbau des Kulturpalastes im Sinne der Erhaltung als Gemeindebedarfs- und Folgeeinrichtung - Entscheidung über den Variantenvergleich und das neue Finanzierungskonzept - punktweise Zustimmung
+- TOP 13: Eintrittspreise Dresdner Philharmonie ab der Spielzeit 2012/2013 - Zustimmung mit Änderung
+- TOP 14: Bebauungsplan Nr. 194 B, Dresden-Friedrichstadt Nr. 10, Stadthäuser (ehemaliges Bramsch-Areal) - Zustimmung
+- TOP 15: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013 - Vertagung
+- TOP 16: Anmietung einer Kindertageseinrichtung auf dem Grundstück Hauptstraße 4 in 01328 Dresden-Weißig - Vertagung
+- TOP 17: Verkauf des Grundstückes Liliengasse 19 - Vertagung
+- TOP 18: Neubau des Gymnasiums Bürgerwiese mit Dreifeldsporthalle, sowie Herstellung der Sport- und Pausenfreiflächen, Parkstraße 4, 01069 Dresden - Zustimmung
+- TOP 19: Umbau und Gesamtsanierung Schulgebäude Hans-Erlwein-Gymnasium, Eibenstocker Straße 30 in Dresden einschließlich Pausenflächen und Sportfreianlagen - Vertagung
+- TOP 20: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem Anlass an Sonntagen im Jahr 2012 - Zustimmung
+- TOP 21: Verordnung der Landeshauptstadt Dresden über das Offenhalten von Verkaufsstellen aus besonderem regionalen Anlass an Sonntagen im Jahr 2012 - Zustimmung mit Änderung
+- TOP 22: Sächsischer Familientag 2014 in Dresden - Vertagung
+- TOP 23: Festlegung des Kostensatzes zur Betreibung des Übergangswohnheimes Hechtstraße 10 - Zustimmung
+- TOP 24: Festlegung des Kostensatzes zur Betreibung des Übergangswohnheimes Hubertusstraße 36 c - Zustimmung
+- TOP 25: Vorhabenbezogener Bebauungsplan Nr. 6006, Dresden-Cotta, Am Frosch - Vertagung
+- TOP 26: Hochwasserschutz Laubegast - Weiteres Vorgehen einschließlich Umgang mit den Ergebnissen des Beteiligungsprozesses - Zustimmung mit Änderung
+- TOP 27: Verbesserung der Bedingungen schulischer Integration von Schülerinnen und Schülern mit besonderen Bedarfen in Dresden - Vertagung
+- TOP 28: Deine Stadt - Dein Geld! Bürgerhaushalt jetzt vorbereiten! - Vertagung
+- TOP 29: Einrichtung von Fahrradstellplätzen - Vertagung
+- TOP 30: Schulleitungen in die Schulnetzplanung einbeziehen - Vertagung
+- TOP 31: Bildung eines Beirates zur Verbesserung der sozialen Integration wohnungsloser Menschen oder von Wohnungslosigkeit bedrohter Menschen in Dresden - Vertagung
+- TOP 32: Gerechte Kosten der Unterkunft und Heizung - jetzt richtiges schlüssiges Konzept für Dresden - Vertagung
+- TOP 33: Zukunftskonzept für die städtischen Krankenhäuser (10-Punkte-Plan) - Vertagung
+- TOP 34: Wahl eines Friedensrichters für die Schiedsstelle Klotzsche der Landeshauptstadt Dresden - Zustimmung
+- TOP 35: Neufassung der Satzungen der Sammelstiftung der Stadt Dresden, der Stadtwaisenhaus-Stiftung mit Eugenienstiftung, der Sozialstiftung der Stadt Dresden und der Stadtstiftung Dresdner Kreuzchor - Zustimmung
+- TOP 36: Vorhabenbezogener Bebauungsplan Nr. 665, Dresden-Gruna, Fraunhofer Institutszentrum - Zustimmung
+- TOP 37: Vergabe einer Dienstleistungskonzession zur Organisation und Durchführung eines Thematischen Weihnachtsmarktes auf der hauptstraße - Zustimmung
+- TOP 38: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 39: Schulbau- und Schulsanierungsprogramm sportstrategisch anpacken - Vertagung
+- TOP 40: Satzung für den Neumarkt - Vertagung
+- TOP 41: Änderung der Hauptsatzung - Vertagung
+- TOP 42: Krankenhäuser stärken - Vertagung
