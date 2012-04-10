@@ -1,0 +1,109 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-04-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536807
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536807
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Freie Fahrt für freie Radler
+- TOP 3.2.: Europäische Schule München: gleichzeitige Realisierung aller drei Bauabschnitte
+- TOP 3.3.: Europäische Schule München: Lärmschutzwand zur Seite Frankenwaldstraße
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: Union Europäisch Türkischer Demokraten Bayern e.V., für die Maßnahme: Besuch von Jugendlichen in Pflegeheimen am Muttertag; Antragssumme: 289,64 ?; Beschlussvorlage des Direktoriums vom 22.03.12
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Antrag auf Freischankfläche ?Café Centro? - Tegernseer Platz 1; Entscheidungsvorlage des Kreisverwaltungsreferates vom 12.03.2012
+- TOP 0.2.: Antrag auf mobilen Fahrradständer an der St.-Martin-Straße 1; Entscheidungsvorlage des Kreisverwaltungsreferates vom 06.03.2012
+- TOP 0.3.: Antrag auf Freischankfläche Tegernseer Platz 4; Entscheidungsvorlage des Kreisverwaltungsreferates vom 29.03.2012
+- TOP 0.1.: Eslarner Str. 7 ? Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 02.03.12 (vertagt vom 13.03.12)
+- TOP 0.2.: Schwanseestr. 64 ? Neubau einer Wohnanlage mit Tiefgarage; Anhörung v. 07.03.12
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Weißenseestr. 35 ? Neubau eines Pfarrzentrums ? Negative Stellungnahme vom 13.01.2012 ? Abweichender Bescheid vom 19.03.2012
+- TOP 0.3.: Bebauungsplan mit Grünordnung Nr. 2000 ? Lincolnstraße (südlich), General-Kalb-Weg (westlich), Marklandstraße (beiderseits), Fasangartenstraße und Kiefernstraße (nördlich), Tegernseer Landstraße (östlich) - ?Wohnsiedlung Am Perlacher Forst? - Aufhebung des Aufstellungsbeschlusses -; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 01.02.12 bzw. der Vollversammlung des Stadtrates vom 29.02.2012
+- TOP 0.4.: Soziale Stadt Projekt im Sanierungsgebiet Tegernseer Landstraße ? Chiemgaustraße ? Aufwertung und Umgestaltung der Grünanlagen ?An der Weißenseestraße? und ?Am Katzenbuckel? - 2. Bauabschnitt; Beschluss des Bauausschusses vom 13.03.12 (SB)
+- TOP 0.5.: Beschlussvollzugskontrolle; Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2011 ? 31.12.2011; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung am 28.03.11
+- TOP 0.6.: Novellierung des Bayerischen Landesplanungsgesetzes; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 07.03.12
+- TOP 0.7.: Wanderungsmotivuntersuchung II ? 2010/2011; Bekanntgabe im Ausschuss für Stadtplanung u. Bauordnung am 28.03.11
+- TOP 0.8.: Förderung von Genossenschaften und Baugemeinschaften in München; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 28.03.12
+- TOP 0.1.: Entfernung der Plakatsäule Ecke Tegernseer Land- / Chiemgaustraße aus Verkehrssicherheitsgründen; Schreiben des Planungsreferates ? Lokalbaukommission vom 29.03.2012 an die Firma Ströer-DSM Medien GmbH
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Mehrjahresinvestitionsprogramm (MIP) 2011 - 2015 1. Investitionsmaßnahmen für Schulen, Kindertageseinrichtungen und Sportanlagen 2. Priorisierung von Schulbaumaßnahmen 3. verfahrenstechnische Neuerungen 4. Stellungnahmen der Bezirksausschüsse; Beschluss des Ausschusses für Bildung u. Sport vom 30.11.11
+- TOP 0.2.: Zuschussnehmerdatei 2012 Vollzug des Hausha?tsplanes 2012 für den Bereich "Förderung freier Träger" des Stadtjugendamtes
+- TOP 0.3.: Zuschussnehmerdatei 2012 Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Sozialreferates/Zentrale
+- TOP 0.4.: Zuschussnehmerdatei 2012 Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung
+- TOP 0.5.: Zuschussnehmerdatei 2012 Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: MVG-Leistungsprogramm 2013 - Anhörung der Bezirksausschüsse mit der Bitte um Stellungnahme bis 14.05.2012
+- TOP 0.2.: Einrichtung einer Einbahnstraßenregelung in einem Teilabschnitt der Frankenthaler Straße - Verbesserung der Schulwegsicherheit. Schreiben des BA 16 - Ramersdorf-Perlach - vom 12.03.2012
+- TOP 0.3.: Errichtung eines eingeschränkten Haltverbots in der Raintaler Straße: Anhörung durch das Kreisverwaltungsreferat vom 05.03.2012
+- TOP 0.1.: Brücke über den Giesinger Berg für Fußgänger und Radfahrer; Antrag der Fraktion Bündnis `90 / Die Grünen
+- TOP 0.2.: Überbrückung der Schneise am Giesinger Berg - Broschüre zum Anlass der Stadtratsentscheidung; Bürgerschreiben (E-Mail) vom 26.03.2012
+- TOP 0.3.: Brücke über die A 995 ? Querung zur Zufahrt zum Parkplatz Perlacher Forst, Antwortschreiben des Kreisverwaltungsreferates vom 28.02.2012
+- TOP 0.4.: Öffnung der in Richtung Norden einbahngeregelten Unteren Grasstraße zwischen 40 m nördlich Ichostraße und Kiesstraße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 13.12.2011
+- TOP 0.5.: Linienführung der Buslinie 145 - Petition an den Bayerischen Landtag; Schreiben des Landtagsabgeordneten Prof. Dr. Michael Piazolo vom 16.03.2012 an das Referat für Arbeit und Wirtschaft
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Kompostieranlage der Landeshauptstadt an der Fasangartenstraße; Schreiben des Referates für Gesundheit und Umwelt vom 02.03.2012 mit der Bitte um Stellungnahme
+- TOP 0.2.: Lärmminderungsplanung für München - Entwurf des Lärmaktionsplans; Beschluss der Vollversammlung des Stadtrats vom 21.03.2012
+- TOP 0.3.: Marklandstraße 18, Beseitigung eines Gefahrenbaumes; Bescheinigung der Unteren Naturschutzbehörde vom 15.03.2012 (ED)
+- TOP 0.1.: Deisenhofener Str. 60, Fällungsbescheid der Unteren Naturschutzbehörde vom 08.03.2012
+- TOP 0.1.: Forstarbeiten im geschützten Landschaftsbestandteil; Stellungnahme / Anfrage aus dem UA Umwelt
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Bauernmarkt auf dem Edelweißplatz
+- TOP 0.1.: Anhörung für div. Spielaktionen der Spiellandschaft Stadt e.V. u. Weiteren Veranstaltern im Jahr 2012 auf Grünanlagen; Zuleitung des KVR vom 02.04.12 mit der Bitte um Stellungnahme bis 19.04.12
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Oberviechtacher Straße 34, 1 Lärche, Antrag vom 05.03.2012 6.7.1.2 Cincinnatistr. 19-23, 1 Robinie, Antrag vom 07.03.2012 6.7.1.3 Aignerstr. 9, 2 Fichten, Antrag vom 06.03.2012 6.7.1.4 Aignerstr. 13, 1 Fichte, Antrag vom 06.03.2012 6.7.1.5 Wieskirchstr. 2, 1 Platane, Antrag vom 06.03.2012 6.7.1.6 Eslarner Str. 5, Antrag vom 15.03.2012
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Einhaltung der 3-Monatsfrist bei der Erledigung von Bürgerversammlungsempfehlungen; Rundschreiben des Oberbürgermeisters vom 26.03.2012 an die Referate
+- TOP 7.2.: Werbung für Spielotheken auf sämtlichen städtischen Fahrzeugen einstellen
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
