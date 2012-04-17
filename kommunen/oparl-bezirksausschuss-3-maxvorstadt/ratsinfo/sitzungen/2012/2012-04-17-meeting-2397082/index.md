@@ -1,0 +1,129 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2397082
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2397082
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 13.03.2012
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.2.: Anfrage eines Bürgers zur Straßenführung in der Veterinärstraße/Kaulbachstraße wegen Umbau der Tierklinik vom 09.03.2012 einschließlich Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 16.03.2012
+- TOP 1: Anträge (1)
+- TOP 1.1.: Antrag der Fraktion Bündnis 90/Die Grünen im BA 3 vom 23.02.2012 Aktive Beteiligung des BA 3 Maxvorstadt am Projekt ?Urbanes Naturnetz für ganz München!? Neu Grüne Achsen nach dem Motto des Baureferates ?Grünzüge in Fahrt bringen!? vertagt aus der Sitzung vom 13.03.2012 (TOP B 1.1) Unterlagen liegen bereits vor.
+- TOP 1.2.: Anfrage von Green City e.V. vom 19.03.2012 Wanderbaumallee im Arnulfpark und in der Heßstraße
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 9., 10., 11. , 12., 13. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 2.1.3.: Bezirksausschuss 15, Bitte um Unterstützung eines Antrages Die Landeshauptstadt München wird aufgefordert, Ihre Bezirksausschüsse an dem Projekt ?Langfristige Siedlungsentwicklung? zu beteiligen.
+- TOP 2.1.4.: Vollzug der Baumschutzverordnung Königinstraße 25, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.5.: Brienner Straße 12 ? 12 a BA I/Hsnr: 12: Sanierung und Umbau des Daches, des Treppenhauses, der Decken und Stützen, Nutzungsänderung BA II/Hsnr: 12 a: Abbruch und Neubau der Bauteile Hof-West, Hof-Ost, Finkenstraße 1. UG (TG), 2. UG und Außenanlagen
+- TOP 2.1.6.: Veterinärstraße 5, Umbau eines Gartenhauses in einen Seminarraum für ca. 30 Studenten
+- TOP 2.1.7.: Erzgießereistraße 2, Neubau eines Wohn- und Bürogebäudes mit Tiefgarage, Vorbescheid
+- TOP 2.1.8.: Steinheilstraße 13, Aufstockung eines Rückgebäudes um drei Geschosse , Vorbescheid
+- TOP 2.1.9.: Adalbertstraße 49, Neubau eines Rückgebäudes
+- TOP 2.1.10.: Augustenstraße 33 a, Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein ?Boardinghaus? mit Tiefgarage sowie Neubau eines Rückgebäudes
+- TOP 2.1.11.: Königinstraße 25, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.12.: Schellingstraße 127, Aufstockung des Rückgebäudes (Var. 1) bzw. Abbruch und Neubau des Rückgebäudes mit Nutzungsänderung in eine Pension (Var. 2), Vorbescheid
+- TOP 2.1.13.: Referat für Stadtplanung und Bauordnung Umstrukturierung des Areals der Tierärztlichen Fakultät der LMU München zwischen Veterinärstraße, Königinstraße und Englischer Garten
+- TOP 2.1.15.: Vollzug der Baumschutzverordnung Erzgießereistraße 2, Neubau eines Wohn- und Bürogebäudes mit Tiefgarage, Vorbescheid
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Kaulbachstraße 18, eine Esche
+- TOP 2.2.2.: Dachauer Straße 44, eine Weide
+- TOP 2.2.3.: Karlstraße 56/58, ein Baum unbekannter Art
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Ladezone Augustenstraße 31/33, Zeichen 283 StVO
+- TOP 2.1.2.: Münchner Verkehrsgesellschaft (MVG), Leistungsprogramm 2013
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.2.: Kreisverwaltungsreferat, Bezirksinspektion Mitte neue Verkaufseinrichtung auf öffentlichem Grund, Türkenstraße 69
+- TOP 2.2.3.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Neue Zeitungsentnahmegeräte für die Tageszeitung ?Süddeutsche Zeitung? auf öffent- lichem Grund laut Liste
+- TOP 2.2.4.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Theresienstraße 66, mobiler Fahrradständer
+- TOP 2.2.5.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Türkenstraße 16, mobiler Fahrradständer
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schellingstraße 122, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Schellingstraße 32, Genehmigung und Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.3.: Kurfürstenstsraße 2, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.4.: Dachauer Straße 29, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.5.: Amalienstraße 39, Genehmigung einer Freischankfläche
+- TOP 2.3.6.: Theresienstraße 18, Genehmigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro TUNIX Open-Air vom 25. bis 30.06.2012 auf der Wiese hinter der Glyptothek
+- TOP 2.4.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro 34. Stadtlauf 2012 am 24.06.2012
+- TOP 2.4.3.: UNICEF-Stand auf dem Geschwister-Scholl-Platz am 16.05.2012
+- TOP 2.4.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Münchner Bladenight 2012 (Termine: 07.05. bis 17.09.2012)
+- TOP 2.4.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 14.06. bis 24.06.2012
+- TOP 2.4.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Münchner Radlwoche auf dem sog. Odeonsplatz (07. - 09.05.2012) und dem Wittels- bacherplatz (10. und 11.05.2012) mit Radtour am 11.05.2012 (einschließlich Nachtrag)
+- TOP 2.4.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Pfarrfest der Kath. Pfarrei St. Benno am 16.06.2012 auf dem Ferdinand-Miller-Platz
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse KJR Spielhaus Sophienstraße Hip-Hop Workshop vom 15.05. - 31.07.12 und Ausflüge vom 10. - 12.09.12
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße 98 Tanzprojekt für die 2. Klassen vom 16.04. - Juli 2012
+- TOP 2.3.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Anhörung für die div. Spielaktionen der Spiellandschaft Stadt e.V. und weiteren Veranstal- tungen auf div. Grünanlagen ab April 2012
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Init. 84 GHz - Raum für Gestaltung Kunst im Karrée 2012 vom 13. - 15.07.2012
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Beschlussvorlage Novellierung des Bayerischen Landesplanungsgesetzes (BayLplG) Beschluss des Ausschusses für Stadtplanung und Bauordnung am 07.03.2012 Sitzungsvorlage Nr. 08-14 / V 08905
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Förderung von Genossenschaften und Baugemeinschaften in München Beschuss des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012 Sitzungsvorlage Nr. 08-14 / V 08117
+- TOP 1.3.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Beschlussvollzugskontroll (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusse für Stadtplanung und Bauordnung und der Vollversammlung des Stadtdrates im Zeitraum vom 01.07.2011 bis 31.12.2011 Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012
+- TOP 1.4.: Referat für Gesundheit und Umwelt, Beschlussvorlage Lärmminderungsplan für München, Entwurf des Lärmaktionsplans Beschluss der Vollversammlung des Stadtrates vom 21.03.2012 Sitzungsvorlage Nr. 08-14 / V 08119
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Beschussvorlage Wanderungsmotivuntersuchung II ? 2010/2011 ?Wer will wo und wie wohnen?? Bekanntgabae in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012 Sitzungsvorlage Nr. 08-14 / V 08792
+- TOP 1.6.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.7.: Antrag des BA 5 Nr. 08-14 / B 03805 ?Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss)?
+- TOP 1.8.: Baureferat, Tiefbau Platz der Opfer des Nationalsozialismus, Teilprojekt Neugestaltung des Platzes im 1. Stadtbezirk Altstadt-Lehel Beschluss des Bauausschusses vom 17.04.2012 Sitzungsvorlage Nr. 08-14 / V 08871
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Baumaßnahmen der Stadtwerke a) Neureutherstraße 20, Fernwärme Dachauer Straße, Wasser b) Brienner Straße 12, Strom Schraudolphstraße 3, Fernwärme Cluster 19 und 30, Glasfaser c) Brienner Straße 55, Strom
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid und Gestattungen für Parade und Veranstaltungen anlässlich des St.-Patric k's Day
+- TOP 2.3.: Referat für Gesundheit und Umwelt, Immissionsschutz Vollzug des Bundes-Immissionsschutzgesetzes (BimSchG) nd der Geräte- und Maschinen- lärmschutzverordnung (32. BImSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BImSchV, Schellingstraße 24, Demontage eines Turmdrehkrans
+- TOP 2.4.: Münchner Verkehrsgesellschaft mbH (MVG) Information über Betriebskonzept während der Inbetriebnahme des neuen Elektronischen Stellwerks und der Weichenerneuerung am Scheidplatz
+- TOP 2.5.: Antrag der CSU-Fraktion im Bezirksausschuss 13 Bogenhausen ?...die zuständigen Referate der Landeshauptstadt München sollen Sorge dafür tragen, dass auf sämtlichen städtischen Fahrzeugen im öffentlichen Nahverkehr, sowie in den dafür vorgesehenen Wartebereichen, Werbungen für Spielotheken gering gehalten werde...?.
+- TOP 2.6.: Kreisverwaltungsreferat, Verkehrsmanagement, Grundsatzangelegenheiten Radverkehr, Abgrenzung des Radweges vor der Berufsschule am Elisabethplatz Empfehlung Nr. 08-14 / E 01232 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt vom 20.10.2011, Beschluss des Bezirksausschusses 4 Schwabing West vom 07.03.2012
+- TOP 2.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Erweiterung einer Tempo-30-Zone um die Jägerstraße und die Finkenstraße (Nord/Süd)
+- TOP 2.8.: Schreiben des Vorsitzenden des BA 1 Altstadt-Lehel an das Bayerische Staatsministerium für Ernährung, Landwirtschaft und Forsten; Sperrung des Parkplatzes an der Galeriestraße
+- TOP 2.9.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Theresienstraße 48, Feuerwerk am 29.03.2012 in der Zeit von 20.00 Uhr bis 21.00 Uhr
+- TOP 2.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Anhörung Infostand mit kostsenlosem Kaffeeausschank des AIESEC München auf dem Geschwister-Scholl-Platz am 18. und 23.04.2012 von 08.00 Uhr bis 15.00 Uhr Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.11.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Königsplatz, Veranstaltungsübersicht 2012
+- TOP 2.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Osterfeuer am 07.04.2012 von ca. 20.30 Uhr bis 21.00 Uhr, Kath. Pfarramt St. Joseph Eilentscheidung des Vorsitzenden durch Fristablauf
+- TOP 2.13.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für das Straßenfest zum Tag des Bayerischen Bieres am 23.04.2012 am Oskar-von-Miller-Ring
+- TOP 3.1.: Sozialreferat, Beschlussvorlage Zuschussnehmerdatei 2012, Vollzug des Haushaltspla Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 27.03.2012 Sitzungsvorlage Nr. 08-14 / V 08669
+- TOP 3.2.: Sozialreferat, Beschlussvorlage Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugen- hilfeausschusses und des Sozialausschusses am 27.03.2012 Sitzungsvorlage Nr. 08-14 / V 08682
+- TOP 3.3.: Sozialreferat, Beschlussvorlage Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freiere Träger? des Amtes für Wohnen und Migration Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses am 27.03.2012 Sitzungsvorlage Nr. 08-14 / V 08770
+- TOP 3.4.: Sozialreferat, Beschlussvorlage Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger? des Stadtjugendamtes Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung am 27.03.2012 Sitzungsvorlage Nr. 08-14 / V 08740
+- TOP 3.5.: entfällt
+- TOP 3.6.: Sozialreferat, Sozialplanung Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 08.12.2011
+- TOP 4: Kultur
+- TOP 4.1.: Schreiben des Staatsministers für Wissenschaft, Forschung und Kunst vom 21.03.2012
+- TOP 4.1.: Sozialreferat, Mietberatung Mieterbeiratswahlen 2012, Entsendung von Mitgliedern vertagt aus der Sitzung vom 13.03.2012 Unterlagen liegen bereits vor
+- TOP 4.2.: Amtsnachfolge im BA 3
+- TOP 4.3.: Schreiben des Oberbürgermeisters an die Referate vom 26.03.2012 Einhaltung der Drei-Monats-Frist bei der Erledigung von Bürgerversammlungsempfehlungen
+- TOP 4.4.: Schreiben der Grundschule an der Türkenstraße vom 26.03.2012 Aufbau von vier Ganztagsklassen, Räumung des vom BA 3 genutzten Lagerraumes
+- TOP 4.5.: Antrag von Bündnis 90/Die Grünen des BA 14 vom 07.02.2012 Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 4.7.: Antrag des BA 2 vom 27.03.2012 Städtische Telefonbücher in elektronischer Form für BA-Mitglieder
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 4.6.: Direktorium, Bezirksausschussangelegenheiten BA-Budget, aktueller Stand
+- TOP 2.2.1.: Bürgerbeschwerde über Plakatierung zur Erotik-Messe (s. TOP C 2.2.1)
+- TOP 2.1.14.: Schreiben des Münchner Forums vom 22.03.2012 Das Münchner Forum übermittelt einen Programmbeschluss mit der Bitte um Übernahme durch den Bezirksausschuss.
+- TOP 3: Aktuelle Sachstandsberichte
