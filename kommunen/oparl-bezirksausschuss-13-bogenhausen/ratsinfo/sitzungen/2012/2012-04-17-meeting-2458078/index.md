@@ -1,0 +1,70 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2012-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2458078
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2458078
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.1.3: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.2.1: Vorstand
+- TOP 0: Gemeinsamer Unterausschuss Planung und Verkehr
+- TOP 0.1.: Bebauung des Geländes der Prinz-Eugen-Kaserne: erträgliche Baudichte und aufgelockerte, ansprechende Bebauung, Erhalt der Sportflächen, Schaffung der Infrastruktur vor Fertigstellung der Wohneinheiten, ausreichende Grünflächen, ausreichender Parkraum
+- TOP 0.2.2: Unterausschuss Planung
+- TOP 1: (E) Wissenschaftliche Begleitung der Entwicklung eines STADT-KLIMA-PARKS. Die öffentliche Grünfläche am Salzsenderweg als Modell-Fläche für zukünftige Naherholungsgebiete Empfehlung Nr. 08-14 / E 01144 der Bürgerversammlung des Stadtbezirkes 13 Bogenhausen am 27.10.2011
+- TOP 1.2.3: Unterausschuss Verkehr
+- TOP 1.1.: Parkverbotszone in der Grimmeisenstraße, Parken nur in den Parkbuchten
+- TOP 1.2.: Überprüfung und ggf. Tieferlegung der Randsteine bei Rad- und Fußwegübergängen entlang der Richard-Strauss-Straße und am Vogelweideplatz
+- TOP 1.2.4: Unterausschuss Umwelt, Gesundheit
+- TOP 1.2.5: Unterausschuss Haushalt, Satzung
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Palestrina Ensemble München Bogenhauser Sommerkonzert am 22.06.2012
+- TOP 1.2.: (E) Budget der Bezirksausschüsse SBZ Fideliopark, Kreisjugendring München-Stadt Stadtteilfest Bogenhausen am 23.06.2012
+- TOP 1.3.: (E) Budget der Bezirksausschüsse SBZ Fideliopark, Kreisjugendring München-Stadt Erneuerung des Fallschutzbereichs unter der Nestschaukel
+- TOP 1.2.6: Unterausschuss Soziales, Bildung, Sport
+- TOP 1.2.7: Unterausschuss Kultur, Projekte
+- TOP 3: Bürgeranträge (ohne Vorberatung)
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 4.1.: (E) Turnerschaft Jahn München von 1887 e. V. Sanierung des Daches über dem Mittelbau und Renovierung der Umkleide- und Sanitärräume
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Verdichtung des Filialnetzes/ der Verkaufspunkte der Deutschen Post AG im 13. Stadtbezirk Bogenhausen; Information der Bürgerinnen und Bürger
+- TOP 6.2.: Verlängerung der Buslinie 187 in Richtung Oberföhring
+- TOP 6.3.: Radfahren in St. Emmeram gegen die Einbahnrichtung ermöglichen
+- TOP 6.4.: Leben am zentralen Platz im Prinz-Eugen-Park; Vergabe des Grundstückes für den westlich anschließenden Gebäuderiegel an eine städtische Wohnungsbaugesellschaft, Vertragliche Auflage für einen Supermarkt mit Vollsortiment und ganzjähriger Gastronomie mit Freischankfläche im Erdgeschoss
+- TOP 6.5.: Überdachung der Treppenaufgänge am U-Bahnhof Arabellapark
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.7.1: Direktorium
+- TOP 7.7.2: Baureferat
+- TOP 7.7.3: RGU
+- TOP 7.7.4: KommRef.
+- TOP 7.7.5: KVR
+- TOP 7.7.6: Kulturref.
+- TOP 7.7.7: PlanungsReferat
+- TOP 7.7.8: Referat für Bildung und Sport
+- TOP 7.7.9: Soz.Ref.
+- TOP 7.7.10: POR
+- TOP 7.7.11: Kämmerei
+- TOP 7.7.12: RAW
+- TOP 7.7.13: MVG
+- TOP 7.7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Berichte
+- TOP 8.8.1: Berichte der BA-Beauftragten
+- TOP 8.8.2: Evtl. Bericht der Polizei
+- TOP 9: Sonstiges
+- TOP 9.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Mitteilungen der BA-Vorsitzenden
+- TOP 9.9.3: Mitteilungen der MdBA
+- TOP 9.9.4: Termine
+- TOP 10: Nichtöffentlicher Teil
