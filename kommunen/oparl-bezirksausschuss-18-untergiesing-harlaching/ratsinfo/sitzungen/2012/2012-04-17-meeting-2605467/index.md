@@ -1,0 +1,107 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2012-04-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2605467
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2605467
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Überbrückung der Schneise am Giesinger Berg; Broschüre zum Anlass der Stadtratsentscheidung; Bürgerschreiben vom 26.03.2012
+- TOP 2.2.: BV Benediktenwandstraße 21 / Rabenkopfstraße; Bürgerschreiben vom 23.03.2012
+- TOP 2.3.: Lärmbelästigung durch den Güterverkehr der Deutschen Bahn im Bereich der Pilgersheimer Straße
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Elternbeirat des Theodolinden-Gymnasiums c/o S. Walzer, für die Maßnahme: Fahrt der Theatergruppe nach Wales vom 10. - 15.07.2012; Antragssumme: 5.904,00 ?; Beschlussvorlage des Direktoriums vom 21.03.12
+- TOP 3.2.: AntragstellerIn: Elternbeirat des städt. Hauses für Kinder, für die Maßnahme: Kauf eines Spielhauses; Antragssumme: 16.775,00 ?; Beschluss des BA 18 aus der Sitzung vom 17.04.2012
+- TOP 3.3.: AntragstellerIn: Kirschbaum Kindergarten e.V., für die Maßnahme: Feier zum 25jährigen Jubiläum am 23.06.2012; Antragssumme: 1.790,00 ?; Beschlussvorlage des Direktoriums vom 02.04.12
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Verbesserung der Verkehrssituation am Hans-Mielich-Platz; Fuß- und Radweg durch den Spielplatz am Hans-Mielich-Platz durch Barrieren absichern; Antrag der SPD-Fraktion (verwiesen aus der Sitzung vom 20.03.2012)
+- TOP 3.1.: Leistungsprogramm 2013 der MVG (Fahrplanwechsel Dezember 2012); Zuleitung der MVG vom 29.03.12 mit der Bitte um Stellungnahme bis 14.05.2012
+- TOP 3.1.: Lärmschutzmaßnahmen auf dem Teilstück der Bahnstrecke im Bereich Untergiesing; BA-Antrag Nr. 08-14 / B 03614 vom 20.12.11; Antwortschreiben des RGU vom 21.03.12 (positive Erledigung)
+- TOP 3.2.: Grünpfeil an der Einmündung der Langobardenstraße in die Grünwalder Straße (Authariplatz); BA-Antrag Nr. 08-14 / B 03591 vom 20.12.11; Antwortschreiben des KVR vom 12.03.12 (negative Erledigung)
+- TOP 3.3.: Überprüfung des Autoverkehrs am Hans-Mielich-Platz; BA-Antrag Nr. 08-14 / B 03651 vom 17.01.12; Antwortschreiben des KVR vom 09.03.12 (neutrale Erledigung)
+- TOP 3.1.: Haltverbote in der Schönstraße im Bereich der Bushaltestelle Wilhelm-Kuhnert-Straße; verkehrsrechtliche Anordnung nach § 45 StVO; Unterrichtung des KVR
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Lärmminderungsplanung für München - Planungsstand der Machbarkeitsstudie Tegernseer Landstraße; BA-Antrag Nr. 08-14 / B 03696 vom 14.02.12; Antwortschreiben des RGU vom 05.03.12 (positive Erledigung)
+- TOP 3.1.: Lärmminderungsplanung München; Entwurf des Lärmaktionsplans; Sitzungsvorlage Nr. 08-14 / V 08119; Beschluss der Vollversammlung des Stadtrates vom 21.03.2012
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Protokoll der Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse vom 08.12.2011
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Bauvorhaben Mangfallstraße 25; Bürgerschreiben vom 10.03.2012 (verwiesen aus der Sitzung vom 20.03.2012)
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung von Verkaufseinrichtungen auf öffentlichem Grund in der Armanspergstraße 1; Beschluss des BA 18 vom 17.04.2012 (vertagt aus der Sitzung vom 20.03.12)
+- TOP 3.2.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Freischankfläche Pilgersheimer Str. 42; Beschluss des BA 18 vom 17.04.12
+- TOP 3.3.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Erweiterung einer bestehenden Freischankfläche am Hans-Mielich-Platz 2; Beschluss des BA 18 vom 17.04.2012
+- TOP 4: (E) Ortsbildschutz zur Sicherung der örtlichen Lebensqualität; Einführung einer Schutzkategorie für ortsbildprägende Gebäude Empfehlung Nr. 08-14 / E 01161 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching - am 10.11.2011
+- TOP 4.1.: Der BA 18 fordert die LHM auf, die Container im Vollmarpark auch tatsächlich als Hort / Kinderkrippe / Kindergarten zu nutzen; Antrag der CSU-Fraktion vom 23.03.12 - <div>nach Antrag</div>
+- TOP 4.2.: Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Antrag des BA 5 Au-Haidhausen mit der Bitte um Kenntnisnahme
+- TOP 4.1.: Vollzug von § 13 der BA-Satzung, Katalog-Angelegenheit Nr. 8.2 bzw. 8.3 (Werbenanlagen); Hans-Mielich-Platz, 1 Informationssäule; Anhörung vom 27.03.12
+- TOP 4.2.: Entwurf der Beschlussvorlage "Regulierung von Bauvorhaben durch die LHM"; Zuleitung des Referats für Stadtplanung und Bauordnung vom 28.03.12 mit der Bitte um Stellungnahme bis 20.04.2012
+- TOP 4.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 4.1.: Bozzarisstr. 2, Neubau einer Kinderkrippe mit 6 Gruppen sowie 2 Wohnungen; Anhörung vom 23.03.12
+- TOP 4.2.: Am Perlacher Forst 174; Neubau einer Wohnanlage mit TG (Haus 1: 5 WE, Haus 2: 5 WE, TG: 10 Stpl.) - Am Perlacher Forst 174 / Hertlingstr. 7; Anhörung vom 26.03.12
+- TOP 4.3.5.4.2: Baumbestandspläne
+- TOP 4.1.: Baustellenabsperrung um den U-Bahn-Abgang Wettersteinplatz; BA-Antrag Nr. 08-14 / B 03638 vom 17.01.12; Antwortschreiben des Baureferats vom 23.03.12 (neutrale Erledigung)
+- TOP 4.2.: Zukünftige Nutzung des Geländes der Osram AG als Wohnnutzung - Information und Einbeziehung des BA 18 in alle Planungen; BA-Antrag Nr. 08-14 / B 03611 vom 20.12.11; Zeitnah über den geplanten Umbau des Osram-Geländes informieren; BA-Antrag Nr. 08-14 / B 03612 vom 20.12.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 21.03.12 (positive Erledigung)
+- TOP 4.3.: BV Mondstraße 12 - Erhalt des Ensembles Mondstraße; Bürgerschreiben an Herrn OB Ude vom 24.11.11; Beschluss des BA 18 aus der Sitzung vom 20.12.11; Antwortschreiben der Lbk vom 19.03.12 (negative Erledigung)
+- TOP 4.1.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.1.1 Kleingartenwirtschaft "Zum Gartl", Nithartstraße 8; Mitteilung vom 13.03.12 3.5.6.1.2 Trink- u. Imbisskiosk "Kiosk am Pavianhaus", Tierparkstr. 30; Mitteilung vom 16.03.12 3.5.6.1.3 SSW "Al Dente", Schönstr. 21; Mitteilung vom 30.03.12
+- TOP 4.2.: Vollzug der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse 3.5.6.2.1 Anwesen St.-Magnus-Straße; Mitteilung vom 12.03.12 3.5.6.2.2 Anwesen Hertlingstraße; Mitteilung vom 30.03.12
+- TOP 4.3.: Mitteilung über ein Grundstücksgeschäft; hier: Flst. 13001 (Tlfl.) Sektion VII, 18. Stadtbezirk, an der Grünwalder Str. 22 und 24; unentgeltliche Rückübereignung; Schreiben des Kommunalreferats vom 12.03.12
+- TOP 4.4.: Förderung von Genossenschaften und Baugemeinschaften in München A) Mehrerlöse aus städtischen Grundstücksverkäufen dem Wohnungsmarkt erhalten; Stadtratsantrag Nr. 08-14 / A 02062 vom 15.12.10 B) Drastischer Anstieg der Baulandpreise - Hilfe für Baugemeinschaften u. Wohnungsbaugenossenschaften; Stadtratsantrag Nr. 08-14 / A 02072 vom 16.12.2010; Sitzungsvorlagen Nr. 08-14 / V 08117; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.03.12 (SB)
+- TOP 4.5.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung u. Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.11 - 31.12.11; Sitzungsvorlagen Nr. 08-14 / V 08806; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.12
+- TOP 4.6.: Baufälle im 18. Stadtbezirk
+- TOP 4.7.: Wanderungsmotivuntersuchung II - 2010/2011; Sitzungsvorlagen Nr. 08-14 / V 08792; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.12
+- TOP 4.3.6: UA Kultur und Veranstaltungen
+- TOP 4.1.: Veranstaltung im Freien in einer städt. Grünanlage; hier: Altarweihe und anschließendes Fest des Pfarramtes Hl. Familie / St.Anna-Kircherl am Harlachinger Berg am 17.06.2012; Zuleitung des KVR vom 27.03.12 mit der Bitte um Stellungnahme bis 29.05.12
+- TOP 4.2.: Veranstaltung auf öffentlichem Verkehrsgrund gem. § 29 der StVO; hier: Münchner Bladenight 2012 ab 07.05.2012; Start/Ziel: Am Bavariapark (Bezirk 8); Zuleitung des KVR vom 21.03.12 mit der Bitte um Stellungnahme bis 27.04.12
+- TOP 4.3.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Sommerfest Kinderwelt Harlaching in der Grünanlage an der Oberbiberger Straße am 14.07.2012 (ET 15.07.12); Zuleitung des KVR vom 08.03.12 mit der Bitte um Stellungnahme bis 08.05.12
+- TOP 4.4.: Anhörung zu div. Spielaktionen der Spiellandschaft Stadt e.V. und weiteren Veranstaltern auf div. Grünanlagen ab April 2012; Zuleitung des KVR vom 02.04.12 mit der Bitte um Stellungnahme bis 19.04.12
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.1.: Werbung für Spielotheken auf sämtlichen städtischen Fahrzeugen im öffentlichen Nahverkehr und Wartebereichen gering halten; Regeln des Glücksspielstaatsvertrages bei Genehmigungen ausreichend berücksichtigen; Antrag des BA 13 - Bogenhausen - vom 13.03.12 mit der Bitte um Kenntnisnahme
+- TOP 4.2.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen; Antrag des BA 14 mit der Bitte um Unterstützung
+- TOP 4.3.: Städtische Telefonbücher in elektronischer Form für BA-Mitglieder; Antrag des BA 2 mit der Bitte um Unterstützung
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 4.3.6.1: Bericht
+- TOP 4.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.3.6.3: Anträge
+- TOP 4.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 4.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 4.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
