@@ -1,0 +1,8 @@
+# TOP 5.: Erneuerung der „Arrenkamper Straße“
+
+- Sitzung: Betriebsausschuss für den Wirtschaftsbetrieb Gemeinde Stemwede und das Wasserwerk (6. Sitzung) (2012-04-18)
+- Körperschaft: Gemeinde Stemwede
+- Öffentlich: ja
+- OParl: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/6387
+- Ergebnis: Einstimmig, 0 Enthaltung(en)
+- Beratung: https://stemwede.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/consultation/2964
