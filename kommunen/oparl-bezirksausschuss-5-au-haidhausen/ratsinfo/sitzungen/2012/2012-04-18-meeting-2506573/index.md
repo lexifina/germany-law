@@ -1,0 +1,89 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-04-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506573
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506573
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .1.: Trampelpfad von Mariahilfstraße über Eduard-Schmid-Straße zur Isar pflastern; Telefonische Anfrage einer Anwohnerin aus der Eduard-Schmid-Str. 4
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Refugio München e.V. Umzugskosten und Einweihungsfeier - <div>vertagt</div>
+- TOP .2.: (E) Budget der Bezirksausschüsse Nachbarschaftshilfe in der Au e.V. Nachdruck der Broschüre "Nachbarschaft hilft in der Au" - <div>nach Antrag</div>
+- TOP .3.: (E) Budget der Bezirksausschüsse Nachbarschaftshilfe in der Au e.V. Fest zum 30jährigen Bestehen am 14.07.2012 - <div>abweichend</div>
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Wörthstr. 10, ?Der Flohmarktladen?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>vertagt</div>
+- TOP .2.: ASZ Wolfgangstraße 18: Genehmigung eines Flohmarktes auf öffentlichem Verkehrsgrund - <div>nach Antrag</div>
+- TOP .3.: Sommerstr. 8, ?Tante Emma in der Au?: Genehmigung einer Freischankfläche - <div>nach Antrag</div>
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Sanierung der Postwiese - <div>nach Antrag</div>
+- TOP .1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Preysingstr. 5
+- TOP .2.: MVG Leistungsprogramm 2013
+- TOP .3.: Orleansplatz, Charity Tour der Commerzbank am 17.07.2012
+- TOP .4.: Bauvorhaben, St.-Wolfgangs-Platz 11; Errichtung eines integrierten Kinderhauses (Kinderkrippe, -garten, -hort) - VORBESCHEID
+- TOP .8.1: Antwortschreiben zu BA-Anträgen
+- TOP .1.: Bearbeitung von BA-Anträgen durch das Referat für Bildung und Sport
+- TOP .2.: Rosenheimer Straße: Umsetzung von Maßnahmen zu Verkehrssicherheit
+- TOP .3.: Beschilderung im Baureferat
+- TOP .4.: Erlass einer Satzung für die Bereitstellung von Radabstellplätzen auf bebauten Grundstücken
+- TOP .8.2: Reaktionen auf BA-Schreiben
+- TOP .1.: Unzulässige ?Reservierung? von Parkplätzen am Müllerschen Volksbad, Zellstraße; Schreiben des KVR an die SWM vom 15.03.2012 zur Kenntnis
+- TOP .8.3: Weitere Unterrichtungen
+- TOP .1.: Einhaltung der 3-Monatsfrist bei der Erledigung von Bürgerversammlungsempfehlungen; Schreiben des Oberbürgermeisters vom 26.03.2012 an die Referate zur Kenntnis
+- TOP .2.: Unterrichtung des Baureferats über das Fällen von Gefahrenbäumen
+- TOP .8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP .1.: Regsam
+- TOP .2.: Kinder und Jugend
+- TOP .3.: Behinderte und Barrierefreiheit
+- TOP .4.: Ausländer und Flüchtlinge
+- TOP .5.: Frauen und Mädchen
+- TOP .6.: Internet
+- TOP .7.: Baumschutz
+- TOP .1.: Asamstr. 5; Baumbestandserklärung, FFG/Baumbestandsplan
+- TOP .1.: Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger? des Sozialreferats/Zentrale; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012
+- TOP .2.: Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger? des Stadtjugendamtes; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012
+- TOP .3.: Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger? des Amtes für Soziale Sicherung; Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 27.03.2012
+- TOP .4.: Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich ?Förderung freier Träger? des Amtes für Wohnen und Migration; Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012
+- TOP .5.: Einführung einheitlicher Ansprechpartner für Menschen mit Behinderung bei den Behörden der Landeshauptstadt München (BA-Antrag Nr. 08-14/ B 01138), Endlich Einführung des Antragslotsen / Prüfung der Einführung eines professionellen Fallmanagements im bereich Menschen mit Behinderung (BA-Antrag Nr. 08-14/ B 03230); Beschluss des Sozialausschusses vom 29.03.2012
+- TOP .6.: Termine für Fertigstellung von Tagesheim und Hort der Bazeillesschule; Schreiben des RBS vom 19.03.2012
+- TOP .7.: Protokoll der Informationsveranstaltung für die Bezirksausschüsse am 08.12.2011
+- TOP .8.: Förderung von Genossenschaften und Baugemeinschaften in München; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012
+- TOP .9.: Wanderungsmotivuntersuchung II ? 2010/2011; Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012
+- TOP .1.: Laufveranstaltung ?Munich Urban Cross? in den Isarauen am 29.07.2012 bzw. im Rahmen des Isarinselfests vom 31.08.-02.09.2012
+- TOP .2.: Postwiese, Spielplatzaktion / Spielangebote für Familien am 20.09.2012 von 14.00 -18.00 Uhr
+- TOP .3.: Steinstr. 79; Nutzungsänderung: Laden- zu Gaststättenraum
+- TOP .4.: Münchner Bladenight ab 07.05.2012
+- TOP .5.: Weißenburger Str. 25: Nutzungsänderung: Einzelhandels-Verkaufsfläche (Teilbereich) zu Backshop
+- TOP .6.: Spieleaktionen PA/ Spielen in der Stadt e.V. in den Frühlingsanlagen am 03.-05.08.2012
+- TOP .7.: Fahrradbeleuchtungs- und Befragungsaktion auf dem Pariser Platz am 12.05.2012
+- TOP .1.: ?Münchner Grün ist nicht braun?; Resolution des Münchner Forums zum Stadtgrün München; Schreiben des Münchner Forums vom 22.03.2012
+- TOP .1.: Ismaninger Str. 22: Errichtung eines OP-Zentrums Nord mit 8 OP-Sälen, Intensiv- und Normalpflege, Poliklinik, Arztdienstbereich für das Klinikum rechts der Isar der TU München
+- TOP .2.: Sckellstr. 4: Neuerrichtung des Hofgebäudes (zwei Wohneinheiten) mit Doppelparker ? VORBESCHEID
+- TOP .3.: Ruhestr. 7: Neubau eines Einfamilienhauses
+- TOP .4.: Senftlstr. 9: Nutzungsänderung Gaststätte mit Schießbahn in Büro (EG), 4 Kellerabteile in Lager; Neuaufbau des Dachstuhls mit 2-gesch. Ausbau; Teilerhöhung DG 1 (Hofseite), 8 Gauben Straßenseite / Teilrekonstruktion der historischen Zwerchhäuser (Straßenseite); 2 Gauben, 1 Loggia und 1 Dachterrasse (Hofseite)
+- TOP .5.: Senftlstr. 9: Anbau eines Außenaufzugs an die rückwärtige Hoffassade
+- TOP .6.: Orleanspl. 10-12: Umbau und Nutzungsänderung: Betriebswohnung zu Büroräume
+- TOP .1.: Vorstellung Projekt ?Isarkiesel?
+- TOP .1.: Berichte von wahrgenommenen Terminen
+- TOP .2.: Nächste UA-Sitzungen
+- TOP .1.: UA Kultur: Mittwoch, 02.05.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Montag, 07.05.2012, 19.00 Uhr, Diakonie Untergeschoss, Elsässer Str. 30 UA Wirtschaft: Dienstag, 15.05.2012, 19.30 Uhr, Diakonie Untergeschoss, Elsässer Str. 30 UA Planung: Donnerstag, 10.05.2012,19.30 Uhr, Diakonie Untergeschoss, Elsässer Str. 30 UA GUV: Montag, 14.05.2012, 19.00 Uhr, Diakonie Untergeschoss, Elsässer Str. 30
+- TOP .3.: Nächste BA-Sitzung
+- TOP .1.: Mittwoch, 23.05.2012, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP .4.: Sonstige Termine
+- TOP .1.: Einladung zum Münchner Tanzsportball am 05.05.2012 der Kindertafel-Glockenbach e.V.
+- TOP .1.: Entscheidungen
+- TOP .2.: Anhörungen
+- TOP .3.: Unterrichtungen
