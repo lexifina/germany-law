@@ -1,0 +1,77 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-04-18T17:00:00+02:00
+- Ende: 2012-04-18T20:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2796
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2796
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=55508
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 7. Sitzung der BVV am 18.04.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 7. Sitzung der BVV am 18.04.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 7. Sitzung der BVV am 18.04.2012 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Arbeit der freien Träger im Jugendamt Reinickendorf (Große Anfrage 14.03.2012) - beantwortet
+- TOP 5.2: Rückläufer in Reinickendorf (Große Anfrage 14.03.2012) - beantwortet
+- TOP 5.2.1: Rückläuferklassen in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Zweiter Aufgang am S-Bahnhof Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: "Flughafen Tegel" bei www.berlin.de abbilden - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Erlass der Verordnung über die Festsetzung des Bebauungsplans 12-25B vom 06. Januar 2010 mit Deckblatt vom 25. August 2010 - überwiesen
+- TOP 7.4: Auswertung der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB am Bebauungsplanverfahren 12-32B - überwiesen
+- TOP 7.5: Tätigkeitsbericht der Frauenbeauftragten für den Zeitraum vom 01.01.2011 bis 31.12.2011 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Schlager-Olymp im Freizeitpark Lübars - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung von beratenden Mitgliedern in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Mit Unterrichtungstafeln Touristen und Besucher nach Reinickendorf locken - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Nachnutzung TXL Vorrang für Arbeitsplätze (6): Airport Region Team Tegel - erledigt
+- TOP 10.3: Mobiltelefon als Reiseführer - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Spielhallenentwicklungskonzept vom 15. Juni 2011 für den Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Haltestelle Gorkistr. / Am Nordgraben - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: a) Beschluss des Bebauungsplanentwurfs 12-26B vom 17. Juni 2010 mit Deckblatt vom 29. April 2011 b) Beschluss über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 12-26B - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Ladezone auf der Frohnauer Brücke - erledigt
+- TOP 10.8: Klimaschutz in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Integrationskonzept für den Bezirk Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Humboldt-Bibliothek - Verbindungstreppe zwischen Parkplatz und Zugangsweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Sicherung des ehemaligen Einkaufszentrums in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Flughafen Tegel – Nachnutzung (1): Sportplatz für Reinickendorfer Sportvereine sichern - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Instandsetzung und Wiedereröffnung des Frohnauer Kasinoturms beschleunigen - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Betriebsfahrt der 222er-Buslinie - erledigt
+- TOP 10.15: Verstärkung der Buslinie 120 - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Stand der geschlechterbewussten Arbeit in den Jugendeinrichtungen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Tag der deutschen Sprache am 08.09.2012 - überwiesen
+- TOP 12.2: Liegenschaften in der Cité Foch - überwiesen
+- TOP 12.3: Barrierefreier Ausbau des Rathauses - überwiesen
+- TOP 12.4: Brücke Ernststraße - überwiesen
+- TOP 12.5: Wohnungsbedarf für Menschen mit Behinderungen - überwiesen
+- TOP 12.6: Bebauungsplan Mäckeritzwiesen - überwiesen
+- TOP 12.7: Prioritätenliste Radverkehr - überwiesen
+- TOP 12.8: Regelmäßiger Bericht Investitionsmaßnahmen - überwiesen
+- TOP 12.9: Fußgängerzone Gorkistraße - überwiesen
+- TOP 12.10: Regelmäßiger Bericht Baumaßnahmen - überwiesen
+- TOP 12.11: Grünrockweg - überwiesen
+- TOP 12.12: Härtefallfonds - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Kulturprojekte für Reinickendorfer Künstler - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Fahrrat einrichten - überwiesen
+- TOP 13.3: Reinigung und Entfernen von Graffitis im Bereich der S-Bahnstationen - ohne Änderungen in der BVV beschlossen
+- TOP 13.4: Betreuung IT-Systeme an Schulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.5: Mobilitätsdienste - überwiesen
+- TOP 13.6: Tegel-Terminal als architektonisch markantes Bauwerk erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Zweiter Ausgang für den S-Bahnhof Heiligensee - überwiesen
+- TOP 13.8: Alternative Zebrastreifenführung am Zeltinger Platz - ohne Änderungen in der BVV beschlossen
