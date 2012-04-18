@@ -1,0 +1,7 @@
+# TOP .4.: Senftlstr. 9: Nutzungsänderung Gaststätte mit Schießbahn in Büro (EG), 4 Kellerabteile in Lager; Neuaufbau des Dachstuhls mit 2-gesch. Ausbau; Teilerhöhung DG 1 (Hofseite), 8 Gauben Straßenseite / Teilrekonstruktion der historischen Zwerchhäuser (Straßenseite); 2 Gauben, 1 Loggia und 1 Dachterrasse (Hofseite)
+
+- Sitzung: BA 05 - Vollgremium (2012-04-18)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/332236
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/332236
