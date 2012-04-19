@@ -1,0 +1,7 @@
+# TOP .7.: NACHTRAG: FDP-Antrag: Zustand des Grünstreifen Bushaltebucht Thomas-Wimmer-Ring (westlich)
+
+- Sitzung: BA 01 - Vollgremium (2012-04-19)
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/332429
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/332429
