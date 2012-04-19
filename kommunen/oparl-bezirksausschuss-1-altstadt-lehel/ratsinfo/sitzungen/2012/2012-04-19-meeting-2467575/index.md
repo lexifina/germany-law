@@ -1,0 +1,109 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-04-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467575
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467575
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Unterausschuss: Aufstellung eines Bebauungsplans für das Hackenviertel (Beschluss aus der Sitzung vom 14.02.2012, vertagt)
+- TOP .2.: Bürger: Oettingenstraße 61 - 63
+- TOP .1.: (E) Erhalt des Radspielergartens in der derzeitigen Form Empfehlung Nr. 08-14 / E 01214 der Bürgerversammlung des Stadtbezirkes 01 - Altstadt-Lehel am 29.11.2011
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Blumenstraße 4-6 (Schrannenhalle): Einbau zweier Emporen (Tektur)
+- TOP .2.: Am Einlaß 3: Neubau eines Wohngebäudes
+- TOP .3.: Oettingenstraße 23: Umbau Gauben
+- TOP .4.: Frauenstraße 4: Neubau eines Hotels
+- TOP .5.: Weinstraße 8: Umbau eines Geschäftsgebäudes
+- TOP .6.: NACHTRAG: Lerchenfeldstraße 4-6: Teilabbruch mit Neubau (Tektur)
+- TOP .2.1: Gaststätten
+- TOP .1.: O8 Gastronomie GmbH (ehemaliges Filmcasino), Odeonsplatz 8: Genehmigung einer Freischankfläche (vertagt)
+- TOP .2.: ?Sotto casa?, Brunnstraße 1: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Münchner Radlwoche vom 07.05.-09.05.2012, Odeonsplatz
+- TOP .2.: Pfarrfest der Französischsprachigen Kath. Mission in der St.-Anna-Kirche
+- TOP .3.: Laufveranstaltung Munich Urban Cross am 29.07.2012, u.a. Praterinsel
+- TOP .4.: Kulturstrand 2012 vom 10.05.-12.08.2012 am Vater-Rhein-Brunnen
+- TOP .5.: Stadtmaiandacht am 04.05.2012, Marienplatz
+- TOP .6.: 17. Japanfest am Japanischen Teehaus am 15.07.2012
+- TOP .7.: NACHTRAG: Fahrradinformationsveranstaltung für Senioren am 30.05.2012, St.-Anna-Platz
+- TOP .8.: NACHTRAG: Eislaufveranstaltung Stachus
+- TOP .9.: NACHTRAG: 3. Münchner Radlnacht am 26.05.2012, Start und Ziel am Odeonsplatz
+- TOP .1.: Bürger: Abgestellte Fahrräder auf dem Marienplatz
+- TOP .2.: Bürger: Einbahnstraßenregelung Liebigstraße
+- TOP .3.: Bürger: Behindertenparkplätze und Radsteinabsenkungen in der Schrammerstraße
+- TOP .4.: Bürger: Bepflanzung an der Kreuzung Christoph-/Seitzstraße
+- TOP .5.: Bürger: Verkehrsführung Karl-Schranagel-Ring
+- TOP .6.: Bürger: Haltestellenregelung Odeonsplatz Bus Nr. 100
+- TOP .7.: NACHTRAG: FDP-Antrag: Zustand des Grünstreifen Bushaltebucht Thomas-Wimmer-Ring (westlich)
+- TOP 1: (E) Sperrung der Westenriederstraße zwischen Radlsteg und Viktualienmarkt für KFZ mit Ausnahme von Anlieger- und Lieferverkehr, Öffnung für den gegenläufigen Radverkehr
+- TOP 1.2.: (E) Verstärkte Überwachung des widerrechtlichen Parkens auf dem Sendlinger-Tor-Platz und dem Sebastiansplatz (Ziffer 2 der Empfehlung)
+- TOP 3: (E) Verstärkte Kontrolle des Verkehrs am Sebastiansplatz
+- TOP 4: (E) Freigabe des Wehrstegs an der Praterinsel für den Radverkehr
+- TOP 5: (E) Ampel an der St. Lukaskirche schneller schalten
+- TOP 5.1.: Austausch der Lichtzeichenanlagen Josephspitalstraße/Sonnenstraße und Steinsdorfstraße/Mariannenbrücke
+- TOP 5.2.: Verkehrsrechtliche Anordnungen: Radverkehr; Erweiterung der bestehenden Rad- und Fußverkehrsanlagen zur Optimierung und Verbesserung der Verkehrssicherheit am Isartorplatz
+- TOP 5.3.: Verkehrsrechtliche Anordnungen: Erweiterung der Fußgängerzone in die Sendlinger Straße - Verlegung von Behindertenparkplätzen
+- TOP 5.4.: Motorradparkplätze am Odeonsplatz
+- TOP 5.5.: Baumfällung Tattenbachstraße 10
+- TOP 5.6.: Baumfällung Lenbachplatz 8
+- TOP 5.7.: MVG Leistungsprogramm 2013
+- TOP 5.1.: Bürger: Informelle ?Michael Jackson Gedenkstätte? am Denkmal für Orlando di Lasso am Promenadeplatz.
+- TOP 5.1.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer des Alten- und Pflegeheimes Vincentinum e.V. Konzerte im Seniorenheim ab 13.05.2012
+- TOP 5.2.: (E) Budget der Bezirksausschüsse Theater des hölzernen Gelächters Theaterproduktion im Amphitheater von Juni - September 2012
+- TOP 5.3.: (E) Budget der Bezirksausschüsse Initiative "O.P.pheus" Doppelausstellung zu "O.P.pheus" vom 28.04. - 17.06.2012
+- TOP 5.1.: Informationsveranstaltung des Referats für Schule und Sprot mit den Bezirksausschüssen am 09.05.2012 um 16.00 Uhr, Bayerstraße 28, Raum 5.074
+- TOP 5.2.: Mieterbeiratswahl 2012: Entsendung eines Kandidaten (vertagt)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Einhaltung der 3-Monatsfrist bei der Erledigung von Bürgerversammlungsempfehlungen
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Bekanntgabe im Planungsausschuss vom 28.03.2012: Beschlussvollzugskontrolle
+- TOP 0.3.: Bekanntgabe im Planungsausschuss vom 28.03.2012: Förderung von Genossenschaften und Baugemeinschaften in München
+- TOP 0.4.: Antwortschreiben und Abdruck des Vorbescheid der LBK zum Bauvorhaben Marienplatz 25, TOP 2012.02 B 3.1.11
+- TOP 0.5.: Beschluss des Bauausschusses vom 17.04.2012: Platz der Opfer des Nationalsozialismus
+- TOP 0.6.: Gesprächsnotiz der Mietergemeinschaft Damenstiftstraße 11 mit der LBK
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Unerlaubte Nutzung des Öffentlichen Verkehrsgrundes
+- TOP 0.6.: Antwortschreiben zur Anfrage bzgl. herumstehenden Mülltonnen Bruder-/ Unsöld-straße, TOP 2012.03 A 3.3
+- TOP 0.7.: Baugenehmigung Container Münchner Insel Rindermarkt
+- TOP 0.8.: Schreiben des KVR bzgl. einer Ausnahmegenehmigung zur Anlieferung in der Salvatorstraße
+- TOP 0.9.: Eilentscheidung des Vorsitzenden zum Abbrennen eines Feuerwerks in der Prinzregentenstraße
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Prälat-Zistl-Straße 20 - Errichtung eines Zeichens Fußgängerzone in der Kardinal-Faulhaber-Straße
+- TOP 0.2.: Abdruck eines Schreibens des KVR an einen Bürger zur Verkehrssituation Salvatorstraße
+- TOP 0.3.: Beschluss des Bauausschusses vom 13.03.2012: Grundwasserwanne und Stützwäne Widenmayer-/Ifflandstraße unter Tivolistraße
+- TOP 0.4.: Beschluss des Bauausschusses vom 13.03.2012: Sendlinger Straße zwischen Färbergraben und Hackenstraße ? Umgestaltung in eine Fußgängerzone
+- TOP 0.5.: Beschluss der Vollversammlung vom 21.06.2012: Lämminderungsplanung
+- TOP 0.6.: Antwortschreiben zu einem BA-Beschluss: Umstufung einer Teilstrecke der Salvatorstraße, TOP 2012.02 D 2.1
+- TOP 0.7.: entfällt
+- TOP 0.8.: Antwortschreiben des KVR zur Anfrage des BA bzgl. der Schaltung der Lichtzeichenanlage an der Lukaskirche
+- TOP 0.9.: BA 8 zum Schreiben des bzgl. des Marienhofs
+- TOP 0.10.: Beglaubigter Beschluss des BA 1 vom 14.02.2012: Umstufung einer Teilstrecke der Salvatorstraße
+- TOP 0.11.: Bauarbeiten Sendlinger Straße von April bis Oktober 2012
+- TOP 0.12.: Beschluss des Bauausschusses vom 13.03.2012: Grundwasserwanne und Stützwände Widenmayer-/Ifflandstraße unter Tivolistraße, Instandsetzung
+- TOP 0.13.: Antwortschreiben des Bayerischen Staatsministeriums für Ernährung, Landwirtschaft und Forsten zur Sperrung des Behördenparkplatzes, TOP 2012.03 A 3.2
+- TOP 0.1.: Protokoll der Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse vom 08.12.2011
+- TOP 0.2.: Bekanntgabe in der Sitzung des Planungsausschusses vom 28.03.2012: Wanderungsmotivuntersuchung II . 2010/2011
+- TOP 0.3.: Verwendungsnachweis ?Musica Sacra St. Anna?
+- TOP 0.4.: Bewilligungsbescheid ?Tanz?, Wilhelmsgymnasium, TOP 2012.03 E 2.1
+- TOP 0.5.: Neue Eintrittspreise für die Bäder der SWM
+- TOP 5.4: Unterrichtungen (siehe Anlage)
+- TOP 5.0: Bericht
+- TOP 5.1: Anträge
+- TOP 5.2: Entscheidungen
+- TOP 5.3: Anhörungen
+- TOP .3.2: Sonstige
