@@ -1,0 +1,103 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2012-04-19T17:35:00+02:00
+- Ende: 2012-04-19T23:30:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2651
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2651
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=85579
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - beantwortet
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - beantwortet
+- TOP 2.2: der Fraktionen - beantwortet
+- TOP 2.3: der Ausschüsse - beantwortet
+- TOP 2.4: des Bezirksamtes - beantwortet
+- TOP 3: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Auswirkungen im Ordnungsamt durch Reduzierung der Personal- und Sachmittel - beantwortet
+- TOP 5.2: Sind die neuen Hinweisschilder im Rathaus Wedding barrierefrei? - beantwortet
+- TOP 5.3: "Allris besser nutzen" - beantwortet
+- TOP 5.4: Elektronische Systeme im Wartebereich im Rathaus Tiergarten - beantwortet
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Zukunft der Seniorenfreizeitstätten - beantwortet
+- TOP 7.2: Ist die Fortschreibung des Schulentwicklungsplanes (SEP) für Mitte heute oder morgen wichtig? - beantwortet
+- TOP 7.3: Bildungsgarantie für Kinder ohne deutsche Sprachkenntnisse an Mittes Schulen - Chancengleichheit ohne Wenn und Aber! - schriftlich beantwortet
+- TOP 7.4: Conrad-Stiftung: Antworten des Bezirksamtes auf die Anfrage zu den Ergebnissen der rechtlichen Prüfung des BVV-Beschlusses zur Drs. 2147/III - schriftlich beantwortet
+- TOP 7.5: Lückenschluss mit Hindernissen? Zum Senats-Gesetzentwurf für die Hortbetreuung von Schülerinnen und Schülern der 5. und 6. Klassen - schriftlich beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltspläne 2012 und 2013 - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Erlass einer Veränderungssperre mit der Bezeichnung 1-74B/20 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfes 1-74B (nördlich Nettelbeckplatz) für das Gelände zwischen Reinickendorfer Straße, Plantagen-, Adolf-, Scherer-, Wiesenstraße, Kösliner Straße und Weddingstraße sowie für die Grundstücke Pankstraße 88 – 92, Reini-ckendorfer Straße 19 – 26 und 110A und Weddingstraße 6 – 7 liegende Grundstück Pankstraße 87 – 88, Reinickendorfer Straße 21 – 24 im Bezirk usw. - überwiesen
+- TOP 9.2: Bebauungsplan 1-51 (östlich Brunnenstraße, nördlich Rheinsberger Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-51 - überwiesen
+- TOP 9.3: Umgang mit Drucksachen aus vorherigen Wahlperioden - mit Änderungen in der BVV beschlossen
+- TOP 9.4: Einberufung eines stellvertretenden stimmberechtigten Mitglieds in den Jugendhilfeausschuss gemäß § 35 Abs. 5 Nr. 2 AG KJHG I.V. mit § 35 Abs. 9 AG KJHG - ohne Änderungen in der BVV beschlossen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Änderungen der Begründung des vorhabenbezogenen Bebauungsplanentwurfs 1-43VE vom 31.Januar 2011 mit Deckblatt vom 12.Mai 2011 für die Grundstücke der Perleberger Strasse 42, Turmstrasse 25-26 und Stromstrasse 11-17 im Bezirk Mitte, Ortsteil Moabit nach der Rechtsprüfung durch die Senatsverwaltung für Stadtentwicklung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Bebauungsplan 1-18B "Wöhlertstraße" - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Bebauungsplan 1-57B (Securablock) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-57B - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Bebauungsplan 1-55B (nördlich Elisabethkirchstraße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-55B - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bebauungsplan 1-53 (westlich Brunnenstraße, südlich Rheinsberger Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans 1-53 - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Vorhabenbezogener Bebauungsplanentwurf 1-50 VE "Vabali Wellness & Spa" sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des vorhabenenbezogenen Bebauungsplanes 1-50 VE - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Beschluss über den Bebauungsplanentwurf I-32b „Holzufer“ und den Entwurf der Rechtsver-ordnung zur Festsetzung des Bebauungsplanes I-32b - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Mauerpark realisieren - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Babyklappen erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Missbilligung des Stadtrates für Finanzen - in der BVV abgelehnt
+- TOP 11.4: Auszug aus dem Rathausturm bis spätestens 30.06.2012 - vertagt
+- TOP 11.5: Besetzung des Hauptausschusses hier: Wahl einer Bürgerdeputierten - vertagt
+- TOP 11.6: Besetzung des Ausschusses für Wirtschaft und Arbeit hier: Wahl eines Bürgerdeputierten - vertagt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Eine transparente Verwaltung ermöglichen! - überwiesen
+- TOP 12.2: Integration behinderter Menschen - vertagt
+- TOP 12.3: Ersatz-Standort für den Weihnachtsmarkt und für das Gauklerfest am Opernpalais - vertagt
+- TOP 12.4: Änderung der GO der BVV §50(3) - vertagt
+- TOP 12.5: Barrierefreie Homepage der Stadt Berlin - vertagt
+- TOP 12.6: Kinder- und Jugendrechte stärken -politische Entscheidungen auf den Prüfstand - vertagt
+- TOP 12.7: Allris RSS-Feed: Abo für Drucksachen - vertagt
+- TOP 12.8: Bezahlbaren Wohnungsneubau ermöglichen - überwiesen
+- TOP 12.9: Steuerung der Fallkosten bei der ambulanten Hilfe zur Pflege (I) - vertagt
+- TOP 12.10: Exportierbarer Sitzungskalender - vertagt
+- TOP 12.11: Eine politische Lösung: Verantwortung für Schulsekretärinnen abgeben - vertagt
+- TOP 12.12: Steuerung der Fallkosten bei der ambulanten Hilfe zur Pflege (II) - vertagt
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Integration von behinderten Menschen in die Arbeitswelt fördern - Teil II - vertagt
+- TOP 15.2: Zeitnahe Kostenübernahme im Rahmen der Hilfe zur Pflege für Schwerstpflegebedürftige - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Runder Tisch Wohnungsbaugesellschaften - vertagt
+- TOP 16.2: Mehr Informationen über Bezirks- und Landespolitik verfügbar machen: Öffentliches WLAN-Angebot schaffen - vertagt
+- TOP 16.3: Beim Essen Klima schützen - vertagt
+- TOP 16.4: BürgerInnen-Beteiligung zur Beachtung von Einwänden bei der Umgestaltung von Ottopark und Kleinem Tiergarten für den Bauabschnitt zwischen Thusneldaallee und Stromstraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Opernpalais ohne Café - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.6: Frauenbeirat Stadtplanung einrichten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.7: Beteiligung der BVV an Baumpflanzplanungen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Aufstellung des Bebauungsplans 1-88C "Bahnbrücke Heidestraße" im Bezirk Mitte, Ortsteil Moabit, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß §3 Abs.1 Baugesetzbuch, die frühzeitige Beteiligung der Behörden gemäß §4 Abs.1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß §4 Abs.2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2011 - vertagt
+- TOP 16.10: Beschluss über das Ergebnis der Beteiligung der Behörden gemäß §4(2) Baugesetzbuch zum Bebauungsplanentwurf 1-67 "Lehrter Straße Mittelbereich" für die Grundstücke Lehrter Str. 20-31 und 35, die angrenzenden Flurstücke 161, 163 und 202 sowie die Teilflächen des Grundstücks Heidestraße 35,39 und des hier angrenzenden Flurstücks 211 im Bezirk Mitte, Ortsteil Moabit, die Einschränkung des räuml. Geltungsbereichs u. die Durchführung der öffentl. Auslegung. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.11: Aufstellung des Bebauungsplans 1-86B "südwestliche Friedrich-Wilhelm-Stadt" im Bezirk Mitte, Ortsteil Mitte, die Durchführung der frühzeitigen Öffentlichkeitsbeteiligung gemäß § 3 Abs. 1 Baugesetzbuch, der frühzeitigen Beteiligung der Behörden gemäß§4 Abs. 1 Baugesetzbuch sowie die Beteiligung der Behörden gemäß § 4 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.12: Konzept zur Umsetzung der Initiative "Aktionsraum Plus Wedding/Moabit" im Bezirksamt Mitte - Fortschreibung 2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.13: Beschluss über das Ergebnis der Beteiligung der Behörden gemäß § 4 Abs 2 Baugesetzbuch zum Bebauungsplanentwurf 1-62 "Baufelder Heidestraße" für die beiderseits anliegenden Grundstücke d. Heidestr. zwischen Perleberger Str. und Invalidenstraße mit Ausnahme der Grundstücke zw. Minna-Cauer-Str. u. Invalidenstr. im Bezirk Mitte, Ortsteil Moabit, die Änderung des räuml. Geltungsbereichs des Bebauungsplanentwurfs 1-62 u. die Durchführung d. öffentlichen Auslegung gemäß § 3 Abs 2 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.14: Eckwertebeschluss zur Aufteilung des Produktsummenbugets, der Zuweisung für sonstige Transferausgaben und der Einnahmevorgaben in Vorbereitung des Doppelhaushaltsplans 2012/2013 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.15: Beschluss über das Ergebnis der Beteiligung der Behörden gem. § 4 Abs. 2 Baugesetzbuch zum vorhabenbezogenen Bebauungsplanentwurf II-125-1VE „Kurfürstenzentrum“ und der Durchführung der öffentlichen Auslegung gem. § 3 Abs. 2 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.16: Teilung des Bebauungsplanes 1-70 (ehemaliges Haus der Statistik) im Bezirk Mitte, Ortsteil Mitte, in die Bebauungspläne 1-70a und 1-70b, die Aufstellung der Bebauungspläne im beschleunigten Verfahren gemäß § 13a BauGB und die Durchführung der Öffentlichkeitsbeteiligungen gemäß § 3 Abs. 1 Baugesetzbuch (BauGB) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.17: Liegenschaft Gerichtstr. 37 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.18: Kinder ohne Kopftücher - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.19: Nutzungspflicht Zentrale Vergabestelle - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.20: Zwischen Alexanderplatz und Humboldtforum: Berliner Bürgerforum behutsam im Dialog qualifizieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.21: Verwaltungsvorschrift "Aktive Stadtzentren" - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.22: MÄDEA - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.23: Transparenz II: Alle Angaben zum Liegenschafts- und Gebäudemanagement der BVV regelmäßig zur Verfügung stellen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.24: Ferienwohnungen in Berlin-Mitte - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.25: Kurz-, mittel- und langfristige Umsetzung des "Übereinkommens über die Rechte von Menschen mit Behinderungen" - vertagt
+- TOP 16.26: Zuschüsse für bürgerschaftliche Initiativen transparent gestalten - vertagt
+- TOP 16.27: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für das C/O-Ausstellungsforum in Mitte - vertagt
