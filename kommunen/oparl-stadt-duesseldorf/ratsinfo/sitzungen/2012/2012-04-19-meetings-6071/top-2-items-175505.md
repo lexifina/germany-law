@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung Niederschrift
+
+- Sitzung: Jugendrat (2012-04-19)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/175505
+- Ergebnis: vertagt
