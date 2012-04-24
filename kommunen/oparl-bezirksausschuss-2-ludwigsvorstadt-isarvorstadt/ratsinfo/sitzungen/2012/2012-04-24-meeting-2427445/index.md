@@ -1,0 +1,123 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-04-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427445
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427445
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: CSU-Fraktion: Zukunft der Frauenklinik in der Maistraße
+- TOP .2.: NACHTRAG: Unterausschuss KJS: Auswirkung der Haushaltsdeckelung für zuschussfinanzierte Einrichtungen der Sozialarbeit
+- TOP .1.: (E) Budget der Bezirksausschüsse Kunstzentrat e.V. Rambazamba-Festival am 29.04.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Green City e.V. Filmworkshop am 05.05. und 22.06.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Initiative "O.P.pheus" Doppelausstellung zu "O.P.pheus" vom 28.04. - 17.06.2012
+- TOP .4.: BA-Budget: 18. Stadtteilfest des Bezirksausschuss 2 ? Gewährung eines Zuschusses aus dem BA-Budget für eigene Veranstaltungen in Höhe von 2.985 Euro
+- TOP 1: (E) Bebauung ehemaliges Rodenstockgelände a) Wohnbebauung auf dem ehemaligen Rodenstockgelände Empfehlungen aus den Bürgerversammlungen vom 11.11.2010 und 19.05.2011 BETREFF NICHT VOLLSTÄNDIG
+- TOP 2: (E) Bebauung Rodenstockgelände a) Erhalt der Bäume am Rodenstockparkplatz zwischen Westermühlbach und Dreimühlenstraße (Ziffer 1) Empfehlung Nr. 08-14 / E 01174 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 17.11.2011 b) Auswirkungen der Neubebauung des Rodenstock- Geländes auf ein Gebäude in der Isartalstraße Empfehlung Nr. 08-14 / E 01178 der Bürgerversammlung des Stadtbezirkes 02 - Ludwigsvorstadt-Isarvorstadt am 17.11.2011
+- TOP 2.3.1: Bauvorhaben
+- TOP 2.1.: Erhardtstraße 11: Nutzungsänderung eines Büros in eine Zahnarztpraxis
+- TOP 2.2.: Bavariaring 8 ? 9: Neubau einer Wohnanlage mit Tiefgarage - VORBESCHEID
+- TOP 2.3.: Jahnstraße 46: Nutzungsänderung im EG: Laden bzw. Gaststätte zu Büroräumen
+- TOP 2.4.: Schwanthalerstraße 34: Nutzungsänderung in Facharztpraxen (2., 4., 5. u. 6. OG im Vordergebäude) und Praxis zu Wohnen (2. OG im Seitengebäude) sowie Errichtung einer Wohnung im Dachgeschoss (Vordergebäude)
+- TOP 2.5.: Müllerstraße 7, Errichtung einer Dachterrasse und eines Verbindungsstegs zwischen den Bauteilen A (Turm) und B - VORBESCHEID
+- TOP 2.6.: Schwanthalerstraße 18, 1 LED-Einzelbuchstaben-Schriftzug, 1 Ausleger
+- TOP 2.7.: Ehrengutstraße 16, Hofdecken-Sanierung, Anbau von Balkonen
+- TOP 2.8.: Sonnenstraße 22: Nutzungsänderung von Laden und Kellerräumen (Eilentscheidung)
+- TOP 2.9.: Auenstraße 7: Verbreiterung und Verschiebung Dachgauben (Eilentscheidung)
+- TOP 2.10.: Reichenbachstraße 13: Änderungen eines ausgebauten Dachgeschosses, Errichtung einer Hofüberdachung, Anbringen von Balkonen und einer Nottreppe (Reichenbachstr. 13) sowie Kellernutzungsänderung (Hof Buttermelcherstr. 2 a) - Tektur
+- TOP 2.11.: Hans-Sachs-Straße 18: Umbau und Brandschutzmaßnahmen mit Nutzungsänderung von Pförtner- und Ladenwohnung zu jeweils einem Laden, Umbau und Aufstockung des Seitenflügels, Erweiterungeines Wohnheims mit Nutzungsänderung von drei Wohnungen zu insgesamt 45 Wohnheimappartements, Errichtung von zweitem Flucht-Rettungsweg durch Umbau von Appartements für Flur und Fluchtwegzimmer - Tektur
+- TOP 2.12.: Schwanthalerstraße 10: Nutzungsänderung einer Bankfiliale in Läden und in ein orientalisches Cafe
+- TOP 2.13.: Schillerstraße 11 a: Nutzungsänderung Animierbar zu Spielcasino (146 m²) und 8 Pkw-Stellplätze
+- TOP 2.14.: Erhardtstraße 10: Neubau eines Wohngebäudes mit Tiefgarage
+- TOP 2.15.: NACHTRAG: Ickstattstraße 11: Abbruch und Erneuerung von Balkonen
+- TOP 2.16.: NACHTRAG: Corneliusstraße 20: Sanierung und Umbau des Gesamtanwesens mit Erhöhung Hoffassade
+- TOP 2.17.: NACHTRAG: Goethestraße 30-34: Neubau eines Büro- und Geschäftsgebäudes
+- TOP 2.18.: NACHTRAG: Baaderstraße 35: Aufstockung und DG-Ausbau (Vorbescheid)
+- TOP 2.19.: NACHTRAG: Holzstraße 11: Hofseitiger Ausbau eines Außenaufzugs, Errichtung von Balkonen
+- TOP 2.20.: NACHTRAG: Pettenkoferstraße 30: Errichtung von Balkonen
+- TOP 2.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 2.1.: Herzog-Heinrich-Straße 22: Nutzungsänderung für Einzeletagen-Vermietung (Eilentscheidung)
+- TOP 2.2.: Baumfällung Museumsinsel 1
+- TOP 2.3.: Baumfällung Ringeisstraße 1
+- TOP 2.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 2.1.: Betrieb einer Wasserkraftanlage am Werkkanal im Bereich der Braunauer Eisenbahnbrücke (Isarwerk III) ? Wittelsbacher Straße 24 (vertagt aus der Sitzung vom 28.02.2012 und 27.03.2012)
+- TOP 2.1.: Baumpflanzung auf den Zufahrtsstraßen zum Gärtnerplatz
+- TOP 2.2.: Verlegung der Bushaltestelle Hans-Fischer-Straße
+- TOP 2.3.: Bürgeranfrage Anwesen Aventinstraße 1
+- TOP 2.4.: Bürgeranfrage Anwesen Reifenstuelstraße 2
+- TOP 2.5.: Bürgeranfrage Fraunhoferstr. 10
+- TOP 2.6.: Terminverlegung der UA-Sitzung auf den 15.04.2012 in der BA-Geschäftsstelle Mitte
+- TOP 2.2.1: Gaststättenangelegenheiten
+- TOP 2.1.: Jack & Eddy?, Pestalozzistraße 7: Genehmigung einer Freischankfläche
+- TOP 2.2.: ?Asia Markt Thang Long?, Poccistraße 2: Genehmigung einer Kleinstfreischankfläche
+- TOP 2.3.: ?Cabaret Imperial?, Schillerstraße 16: Sperrzeitaufhebung in der Nacht vom 11.05 auf den 12.05.2012
+- TOP 2.4.: ?Rostiger Pudel?, Pestalozzistraße 20: Erweiterung einer Freischankfläche
+- TOP 2.5.: ?Eismeer?, Pestalozzistraße 21: Erweiterung einer Freischankfläche
+- TOP 2.6.: ?Tom & Mikes's Bar-Lounge Treff?, Baaderstraße 68: Genehmigung einer Freischankfläche
+- TOP 2.7.: ?Caffee & Lesen? Presse-Tabak, Müllerstraße 53: Genehmigung einer Freischankfläche
+- TOP 2.8.: ?Amorino Eiscafé?, Schützenstraße 8: Genehmigung einer Freischankfläche
+- TOP 2.9.: ?Mr. Mumble's?, Klenzestraße 5: Genehmigung einer Freischankfläche
+- TOP 2.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 2.1.: Schillerstr. 17, 3 Warenstellagen
+- TOP 2.2.: Sonnenstraße 14, Warenstellagen
+- TOP 2.3.: Buttermelcherstraße 5: Warenstellagen
+- TOP 2.4.: Poccistraße 2: Warenstellagen
+- TOP 2.5.: Goetheplatz 1: Flächenvergrößerung eines Blumenverkaufsstands
+- TOP 2.6.: Rumfordstraße 36: Fahrradständer
+- TOP 2.2.3: Sonstige Entscheidungen
+- TOP 1: (E) Zusätzlicher Reinigungsdienst und Kontrollen an der Isar (Ziffer 1) Empfehlung Nr. 08-14 / E 00946 der Bürgerversammlung des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt am 19.05.2011 Grillen an der Isar - Verstärkte Kontrollen und verbesserte Beschilderung BA-Antrag Nr. 08-14 / B 03127 des Bezirksausschusses des Stadtbezirkes 2 Ludwigsvorstadt-Isarvorstadt vom 28.06.2011
+- TOP 1.2.: BA-Antrag Nr. 08-14/B 3127 und BV-Empfehlung Nr. 08-14/E 946: Zusätzlicher Reinigungsdienst und Kontrollen an der Isar (vertagt)
+- TOP 1.3.: Ladezone Norma, Landwehrstraße 26
+- TOP 1.4.: (E) Parkplatzsituation für Anwohner in der Landwehrstraße und Umgebung
+- TOP 1.1.: Münchner Bladenight 2012
+- TOP 1.2.: 3. Münchner Radlnacht am 26.05.2012
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Leistungsprogramm 2013 der MVG (Fahrplanwechsel Dezember 2013)
+- TOP 1.2.: Beschleunigung der Buslinie 152 Thalkirchner Straße: Rückbau oder bauliche Anpassung der Aufpflasterungen an den Einmündungen der Ehrengut- und der Reifenstuelstraße?
+- TOP 1.1.: Gewerbliche Nutzung der WC-Anlage Bavariaring 5
+- TOP 1.2.: Kirk Bar?, Corneliusstraße 16: Betriebszeiterweiterung für die Freischankfläche
+- TOP 1.3.: NACHTRAG: Feuerwerksanzeige ?Frühlingsfest 2012? für den 04.05.2012
+- TOP 1.1.: Bürgeranliegen: Geländer an der Westermühlbach-Brücke
+- TOP 1.1: Termine
+- TOP 1.1.: Jährliche Gesprächsrunde im Referat für Bildung und Sport: Mittwoch, 09.05.2012, 16 Uhr, Bayerstraße 28, Raum 5.074 (Meldung der Teilnehmer und Themenwünsche bis 02.05.)
+- TOP 1.3: Sonstiges / Verschiedenes
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: Verwendungsnachweise
+- TOP 1.3.: Protokoll der Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 08.12.2012
+- TOP 1.4.: Abschließendes Schreiben des Amtes für Wohnen und Migration zum BA-Antrag Nr. 08-14/B 00029 ?Baaderstr. 50: Verdacht auf Zweckentfremdung von Wohnraum?
+- TOP 1.5.: Neue Eintrittspreise in Bädern der SWM
+- TOP 1.6.: Eilentscheidung des Vorsitzenden zur Spieleaktion der Spielelandschaft Stadt e.V.
+- TOP 1.7.: Beschluss des Planungs- und Bauausschusses vom 18.04.2012: Bewerbung der LHM um die Ausrichtung der Walk21 Konferenz 2013 in München
+- TOP 1.1.: Baumaßnahmen SWM
+- TOP 1.2.: Antwortschreiben des BA 1 zur Baumpflanzung auf den Zufahrtstraßen zum Gärtnerplatz
+- TOP 1.3.: Antwortschreiben zur Anfrage bzgl. der Fraunhoferstraße 10, TOP 2012.03 B 5.1.4
+- TOP 1.4.: Beschluss des Bauausschusses vom 13.03.2012: Wittelsbacher Schwelle
+- TOP 1.5.: Antwortschreiben zur Anfrage eines Bürgers bzgl. der Pflasterung Dreimühlenstraße
+- TOP 1.6.: Mobilfunkbauvorhaben
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen: - ?Mondrimi?, Westermühlstraße 13 - ?La Vecchia Masseria?, Mathildenstraße 3b - "Il Dottore", Pettenkoferstraße 1 - ?Babylon Kebabhaus?, Häberlstraße 1 - ?Pandora?, Auenstraße 100 - ?Devin?, Waltherstraße 15 - "Kokolores", Buttermelcherstraße 2 a - ?Le Pain Quotidien?, Gärtnerplatz 6 - Ruppert's?, Lindwurmstraße 159a - ?Kompromiss?, Geyerstraße 22
+- TOP 1.4.: Verkehrsrechtliche Anordnungen: - Regelung des Radfahrverkehrs im Bereich der Brücke über den Westermühlbach - Baaderstr. 44 a: Einrichtung eines personenbezogenen Behindertenparkplatzes - Fraunhoferstraße 10: Eingeschränktes Haltverbot von 7.00 Uhr bis 9.00 Uhr
+- TOP 1.5.: Erlaubnisbescheide
+- TOP 1.6.: Unterstützungsantrag des BA 13 Bogenhausen zum Antrag des BA 7 gegen Werbung für Spielotheken auf MVG-Bussen
+- TOP 1.7.: Zusätzliche Flächen für Sprayer im Stadtbezirk 2 zur Verfügung stellen Antwort des Baureferats Ingenieurbau auf die Forderung des BA 2 vom 29.02.2012
+- TOP 1.8.: Pflasterbelag im Dreimühlenviertel: Antwort des Baureferats Tiefbau auf eine Bürgeranfrage
+- TOP 1.9.: Eilentscheidung des Vorsitzenden zum Feuerwerk des Frühlingsfests auf der Theresienwiese am 27.04.2012
+- TOP 1.10.: Bürgeranfrage und Antwort bzgl. der Unterführung Lindwurmstraße
+- TOP 1.11.: Antwortschreiben zum Mehrjahresinvestitionsprogramm
+- TOP 1.5: Sonstiges
+- TOP 2.1: Anträge
+- TOP 2.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.2.: Veranstaltungen
