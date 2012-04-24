@@ -1,0 +1,63 @@
+# BA 19 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 19: Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln
+- Beginn: 2012-04-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/349
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2530922
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2530922
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Bericht über die Ergebnisse der bisherigen Arbeit
+- TOP 1.2.: Bürger und Bürgerinnen haben das Wort
+- TOP 1.3.: Feststellung der ordnungsgemäßen Ladung und Beschlussfähigkeit
+- TOP 1.4.: Festlegung der endgültigen Tagesordnung
+- TOP 1.5.: Genehmigung des Protokolls vom 27.03.12
+- TOP 2: Anträge
+- TOP 2.1.: Bildungseinrichtungen im Münchner Süden
+- TOP 2.2.: Bandfestival 2013
+- TOP 3: Unterausschuss Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Bürgertreff München Süd treff+tee e.V. Sommerfest am 23.06.2012
+- TOP 3.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt Passionskirche Theateraufführung am 27.04.2012
+- TOP 3.3.: (E) Budget der Bezirksausschüsse Maibaumverein Forstenried e.V. Maifeier am 01.05.2012
+- TOP 3.4.: (E) Budget der Bezirksausschüsse SG Falkenhorst Forstenried 1904 e.V. Sechs Trainingswochenenden im Jahr 2012
+- TOP 3.6.: (E) Budget der Bezirksausschüsse Tölzer Knabenchor gGmbH Konzert am 11.05.2012
+- TOP 3.7.: (E) Budget der Bezirksausschüsse Förderverein des Städt. Thomas-Mann-Gymnasiums e.V. Kauf von 10 Laptops für ein Schulprojekt
+- TOP 4: Unterausschuss Baumschutz und Umwelt
+- TOP 4.1.: Baumschutzliste
+- TOP 4.2.: Baubeginnsanzeige für Mobilfunksendeanlagen
+- TOP 4.3.: Mobilfunk Suchkreismeldung
+- TOP 4.4.: Mobilfunk Erweiterungsvorhaben
+- TOP 5: Unterausschuss Verkehr
+- TOP 5.1.: Haltverbot Kreuzungsbereich Königswieser- / Maxhofstr.
+- TOP 5.2.: Personenbezogener Behindertenparkplatz Fatimastr. 5
+- TOP 5.3.: MVG Leistungsprogramm 2013
+- TOP 5.4.: Parkplatzproblematik Maxhof
+- TOP 5.5.: Eingeschränktes Haltverbot Tölzer Str. 2
+- TOP 5.7.: Straßenabschnitt Hofmannstr. 4-10 (OBI)
+- TOP 6: Unterausschuss Bau und Planung
+- TOP 6.1.: Bauvorhaben lt. Liste
+- TOP 6.2.: Bpl. mit Grünordnung Nr. 2063; Kistlerhofstraße (südlich), Hofmannstraße (westlich)
+- TOP 7: Unterausschuss Soziales
+- TOP 7.1.: Modernisierung des Würmseeplatzes
+- TOP 8: Entscheidungsfälle
+- TOP 8.1.: Sondernutzungserlaubnis Schäftlarnstr. 178
+- TOP 8.2.: (E) Markthallen München (MHM); Wochenmarkt Thalkirchen
+- TOP 9: Anhörungen und Unterrichtungen
+- TOP 9.1.: Zukunft des Kindergartens Lollipop; BV-Empf. v. 07.04.11
+- TOP 9.2.: Veranstaltung Grünanlage Herterichstr. 141
+- TOP 9.3.: Veranstaltung Gierlinger Park
+- TOP 9.4.: Veranstaltung Flohmarkt Kistlerhofstr.
+- TOP 9.5.: Zweckentfremdung Allescherstr.
+- TOP 9.6.: Zweckentfremdung Siemensallee
+- TOP 9.7.: Anhörungsrecht zu Eckdatenbeschlüsse im Bauleitplanverfahren
+- TOP 9.8.: Ressourcenverschwendung bei Postsendungen
+- TOP 9.9.: Gaststättenfortführung Boschetsrieder Str. 140
+- TOP 9.10.: Gaststättenfortführung Gmunder Str. 13
+- TOP 0: Mitteilungen, Verschiedenes, Berichte
+- TOP 7.2.: Bericht
+- TOP 1: Allgemeiner Teil
