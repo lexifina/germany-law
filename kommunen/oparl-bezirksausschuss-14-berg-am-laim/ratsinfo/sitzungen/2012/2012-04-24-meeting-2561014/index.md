@@ -1,0 +1,83 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2012-04-24T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2561014
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2561014
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 1.7: Amtsniederlegung Anna von Chossy; Amtseinführung vonJakob Wilxmann
+- TOP 1.7.1.8.: Neuwahl eines Mitglieds im Unterausschuss Jugend, Schule, Sport
+- TOP 1.9: Neuwahl eines Ersatzmitglieds im Unterausschuss Soziales
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Berg-am-Laim-Str. 61 - Nutzungsänderung Laden zu Gaststätte
+- TOP 3.1.: Leistungsprogramm 2013 der MVG
+- TOP 3.2.: Austausch der Lichtzeichenanlage Ampfing-/ Mühldorfstraße
+- TOP 3.3.: Geschwindigkeitsbegrenzung in der Hansjakobstraße
+- TOP 3.4.: Geschwindigkeitsbegrenzung in der Else-Rosenfeld-Straße
+- TOP 3.5.: Sicher durch den Winter ? auch auf Münchner Gehwegen
+- TOP 3.6.: Einrichtung zweier allgemeiner Behindertenparkplätze in der Mühldorfstr. 1
+- TOP 3.7.: Sicherheit am Kindergarten Seebrucker Straße
+- TOP 3.1.: Lärmbelastung durch Gewerbebetrieb in der St.-Veit-Straße 91
+- TOP 3.2.: Lärmminderungsplanung für München - Lärmaktionsplan - Sachstandsbericht
+- TOP 3.1.: Sommerfest des SOS Beratungs- und Familienzentrums am 14.07.2012 an der St.-Michael-Straße
+- TOP 3.2.: Kinderfest des BA 14 am 23.06.2012
+- TOP 3.3.: Spielaktionen der Spiellandschaft Stadt e.V.
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Grundstück Griechische Schule und mögliche Schulsprengel-Änderung
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Mieterbeiratswahl 2012 - Entsendung von Mitgliedern
+- TOP 3.1.: Professionalisierung der BA-Arbeit durch zentrales Terminmanagement
+- TOP 3.2.: Genius Loci e.V.
+- TOP 3.3.: Elternbeirat der Kath. Kindertagesstätte St. Michael
+- TOP 3.4.: Maibaumverein Berg am Laim e.V.
+- TOP 3.5.: Mag's und More e.V. Nachbarschaftstreff Maikäfersiedlung
+- TOP 3.1.: Hansjakobstraße
+- TOP 3.2.: Silberkopfstraße 11
+- TOP 3.3.: Bad-Kreuther-Str. 8
+- TOP 3.4.: Hohenburgstraße 13
+- TOP 3.5.: Blombergstraße 17
+- TOP 3.6.: Kreillerstraße 100
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Ampfingstraße 48 - Unveränderte Gaststättenfortführung "Da Noi"
+- TOP 4.3.: Erhalt des Charakters der Echardinger Einkehr
+- TOP 4.4.: Bauvorhaben in der Berg-am-Laim-Straße - Sitzungsvorlage Nr. V 08859
+- TOP 4.5.: Wanderungsmotivuntersuchung II - 2010/2011 "Wer will wo und wie wohnen?" - V 08792
+- TOP 4.6.: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2011 - 31.12.2011 - Bekanntgabe - V 08806
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Zuschussnehmerdatei 2012 Vollzug des Haushaltsplanes 2012 für die Bereiche "Förderung freier Träger" des Sozialreferates/Zentrale / des Amtes für Soziale Sicherung / des Amtes für Wohnen und Migration und des Stadtjugendamtes
+- TOP 4.1.: Kinder- und Jugendtreff Zeugnerhof
+- TOP 4.1.: Siegsdorfer Str. 15
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 4.4.6.: Baumschutz
