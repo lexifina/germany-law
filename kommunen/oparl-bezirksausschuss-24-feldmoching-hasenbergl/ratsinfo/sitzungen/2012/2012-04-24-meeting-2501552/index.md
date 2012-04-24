@@ -1,0 +1,62 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-04-24T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501552
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501552
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Veränderung der Besetzung von Unterausschüssen aufgrund Fraktionsneugründung
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Kulturhistorischer Verein Feldmoching auf dem Gfild e.V. Feldmochinger Frühjahrssingen am 11.05.2012
+- TOP 3.1.: Geschwindigkeitsmessungen in der Tempo-30-Zone in der Aschenbrennerstraße
+- TOP 3.2.: Bezirkssportanlage Ebereschenstr. 15 - Schließung für Autoverkehr durch Pfosten
+- TOP 3.3.: Verbesserung der Sicherheit für Radfahrer in der Lerchenstraße
+- TOP 3.4.: Ausbau der Karlsfelder Straße in Ludwigsfeld
+- TOP 3.5.: Veröffentlichung von Sitzungsprotokollen künftig auch im Internet
+- TOP 3.6.: Beteiligung des BA 24 am Jubiläum "50 Jahre Siedlung am Lerchenauer See"
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Kommunalreferat - Vermessungsamt: Strassenbenennung im 24. Stadtbezirk; hier: Erschließungsstraße U-1627 im Gewerbegebiet zwischen DB-Nordring und Schittgablerstraße
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung: Walter-Sedlmayr-Platz; Errichtung einer Informationssäule
+- TOP 5.2.: KVR: Kurzparkzone an der Freudstr. 1 und 3
+- TOP 5.3.: KVR: verkehrsrechtliche Anordnungen: Z 283 StVO (absolutes Halteverbot) Rothwiesenstraße Z 283 StVO (absolutes Halteverbot) Ponkratzstraße
+- TOP 5.4.: KVR: Veranstalungen auf div. städtischen Grünanlagen: Spieleaktionen von "Spielen in der Stadt e.V" und weiteren Veranstaltern im Jahr 2012
+- TOP 5.5.: KVR: Veranstaltung auf städt. Grünanlage: Dülfer Anger: Sport- und Kulturveranstaltung des SV Kayserispor München e.V. vom 04.05.-06.05.12
+- TOP 5.6.: KVR: Veranstaltung auf städt. Grünanlage: Am Schnepfenweg/ Kohlröschenstraße: Flohmarkt am 28.07.2012 (Tag der Fasanerie; Privatstände)
+- TOP 5.7.: KVR: Veranstaltung auf städt. Grünanlage: Weitlstr. 125: KJR München-Stadt: Kindermitmachzirkus Nordini vom 06.08. - 11.08.2012
+- TOP 5.8.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Walter-Sedlmayr-Platz: Aktion "Spielen in der Stadt e.V.": Bewegungsbaustelle vom 01.05.-03.05.2012
+- TOP 5.9.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Walter-Sedlmayr-Platz: Sommerfest des KJR München-Stadt am 12.05.2012
+- TOP 5.10.: MVG: Leistungsprogramm 2013
+- TOP 5.11.: KVR: Veranstaltung auf städt. Grünanlage: Dülfer Anger: Terminverschiebung: Sommerfest des Kasrik e.V. vom 29.06.-01.07.2012
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: RGU: Grundwassersituation Feldmoching; Übertragung der Haftung auf Bauherren - Zwischenmitteilung - (BV-Empfehlung vom 15.03.2012)
+- TOP 6.2.: Kulturreferat: Kulturtage 2016 im 24. Stadtbezirk
+- TOP 6.3.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.4.: Meldelisten Baumfällungsanträge
+- TOP 6.5.: Meldelisten Bauvorhaben
+- TOP 6.6.: KVR: verkehrsrechtliche Anordnungen: Kurzparkzone Schleißheimer Strasse 411; Aufhebung der Einbahnregelung in der Schwabenspiegelstraße; Neubau einer Lichtsignalanlage am Knotenpunkt Lerchenauer Straße/ U-1627; Zeichen 283 StVO (absolutes Halteverbot) am Frühlingsanger
+- TOP 6.7.: KVR: Feuerwerk am 05.05.2012: Gelände Am Gottesackerweg/ Hammerschmiedstraße
+- TOP 6.8.: SWM: Netzbaumaßnahmen im 24. Stadtbezirk (1. Halbjahr 2012)
+- TOP 6.9.: SWM: Neue Bädereintrittspreise ab 01.05.2012
+- TOP 6.10.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Förderung von Genossenschaften und Baugemeinschaften in München
+- TOP 6.11.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Wanderungsmotivuntersuchung II - 2010/2011 "Wer will wo und wie wohnen?"
+- TOP 6.12.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Beschlussvollzugskontrollen (BVK): Bericht für Zeitraum 01.07.2011 - 31.12.2011
+- TOP 6.13.: Antrag BA 5: Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss)
+- TOP 6.14.: BAG Ost: Erlass von Bebauungsplänen keine Lösung für die Gartenstädte (Presseinformation des Referates für Stadtplanung und Bauordnung)
+- TOP 6.15.: Erzbischöfliches Ordinariat München: Errichtung "Pfarrverband Fasanerie-Feldmoching"
+- TOP 6.16.: Diakonie Hasenbergl: Neue Stadtorte
+- TOP 6.17.: BA-Budget: BA-Antrag BA 11: Verwendung zurückbezahlter Zuwendung aus Budget-Mitteln; Ablehnung eines Zuschusses wegen fehlender Mitwirkung
+- TOP 6.18.: Sozialreferat: EU-Jahr "Aktives Altern und Solidarität zwischen den Generationen 2012"; Fachheft mit Fakten und Maßnahmen zum Thema "Alt werden in München - ja gerne"
+- TOP 6.19.: Sozialreferat: Aktionsforum für Familien - Münchner Aktionstag für Familien am 04.05.12 "Nicht ohne meine Familie - Jugendliche in München"
+- TOP 6.20.: RGU: Zwischenmitteilung über aktuellen Stand des Genehmigungsverfahrens: Errichtung und Betrieb der Anlage von Fa. Air Liquide
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
