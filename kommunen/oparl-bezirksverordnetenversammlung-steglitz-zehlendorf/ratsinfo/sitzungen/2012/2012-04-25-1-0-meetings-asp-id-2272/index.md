@@ -1,0 +1,81 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-04-25T17:00:00+02:00
+- Ende: 2012-04-25T18:45:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2272
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2272
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Dauerbaustelle Brümmerstraße - beantwortet
+- TOP 3.2: Baumaßnahmen am Wilhelmplatz in Wannsee? - beantwortet
+- TOP 3.3: Kriterienkatalog Solaranlagen - beantwortet
+- TOP 3.4: Abschluss für den öffentlichen Dienst - beantwortet
+- TOP 3.5: Einkaufsparken in zweiter Reihe in der Clayallee - beantwortet
+- TOP 3.6: Spielplätze und Mängel in Berlin - beantwortet
+- TOP 3.7: Moderation Bürgerbeteiligung "Parks Range" in der Thermometersiedlung - beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Wahlen Wahlvorschläge - erledigt
+- TOP 4.1.1: Wahl einer Schiedsperson für den Schiedsamtsbezirk 5 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Wahl einer Schiedsperson für den Schiedsamtsbezirk 6 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.3: Hildegard-Gräfin-von-Koenigsmarck-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.4: Wahl einer stellvertretenden Bürgerdeputierten im Haushaltsausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen Vorlagen zur Beschlussfassung - erledigt
+- TOP 4.2.1: Berufung von beratenden Mitgliedern als eine in der Mädchenarbeit erfahrene Frau sowie eine in der Arbeit mit behinderten Kindern und Jugendlichen erfahrene Person und deren Vertretungen in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Berufung von beratenden Mitgliedern als Vertreter/innen sachverwandter Bereiche im Jugendhilfeausschuss für die IV.Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Berufung eines beratenden Mitglieds als Vertretung des Bezirkselternausschusses der Kindertagesstätten sowie dessen Vertretung in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.4: Berufung eines beratenden Mitglieds und eines stellvertretenden beratenden Mitglieds als Vertretung des Bezirksschulbeirats in den Jugendhilfeausschuss für die IV. Wahlperiode der BVV Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Wahlen Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: BVV-Beschluss Nr. 1279 vom 22.06.2011 Neubildung eines Bezirksbehindertenbeirates gemäß § 7 Absatz 5 des Gesetzes über die Gleichberechtigung von Menschen mit und ohne Behinderung (Landesgleichberechtigungsgesetz – LGBG) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: Bebauungsplan 6-17Ba [Ortsteilzentrum Kranoldplatz (Lichterfelde Ost)] - mit Abschlussbericht zur Kenntnis genommen
+- TOP 4.5: Anträge - erledigt
+- TOP 4.5.1: Übertragung von Mitteln aus dem Schul- und Sportanlagensanierungsprogramm von 2012 nach 2013 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Fortbestand der Wildtierpflege in Düppel sichern! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Öffnung Haupteingang zum Jagdschloss Glienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Parkplätze für die Besucher des Schwimmbads in der Finckensteinallee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Ladenstraße erhalten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.2: "Haus am Waldsee" unterstützen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.3: Bushaltestelle Pücklerstraße/Brücke-Museum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.4: Denkmalschutz ernstnehmen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.5: Flugrouten-Lärmüberwachung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.6: Hinweisschilder zum Brücke-Museum - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.7: Mehr Transparenz beim Schulentwicklungsplan - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.8: Alternative Streckenführung Buslinie 118 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.9: Durchfahrtsverbot für LKW über 7,5 t in der Gärtnerstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.10: Schutzstreifen für Radverkehr in der Drakestraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.11: Öffnung der Hans-Sachs-Straße für den Radverkehr - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6.12: Einrichtung eines Integrationsbeirates - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.2: Bürgerwille Treitschkestraße ermitteln - überwiesen
+- TOP 5.3: Ortsbezogene Bürgerbenachrichtigung und -beteiligung - überwiesen
+- TOP 5.4: Beförderung behinderter Kinder nach dem Wohnortprinzip - überwiesen
+- TOP 5.5: Den Schlachtensee bewahren, Müll und Schilderwald beseitigen - überwiesen
+- TOP 5.6: SEK-II für Montessori-Gemeinschaftsschule - überwiesen
+- TOP 5.7: Tunnelöffnung zwischen Jagdschlosspark und Glienicker Park - überwiesen
+- TOP 5.8: Sicherheit der Gehwegnutzung wieder herstellen - Sanierung des Weges über die Rehwiese - überwiesen
+- TOP 5.9: Anwohnerparken in der Pritchardstraße - überwiesen
+- TOP 5.10: Zukunft für den Hindenburgdamm - überwiesen
+- TOP 5.11: Flughafenexpress: Halt in Lichterfelde-Ost - überwiesen
+- TOP 5.12: Planung von Radwegen in Steglitz-Zehlendorf - überwiesen
+- TOP 5.13: Sichere Querung am Hindenburgdamm - überwiesen
+- TOP 5.14: Gehwegvorstreckungen entlang der Forststraße - überwiesen
+- TOP 5.15: Städtepartnerschaft zwischen dem Bezirk Steglitz-Zehlendorf von Berlin und dem Bezirk Songha von Seoul/Südkorea - überwiesen
+- TOP 5.16: Berichtspflicht für Ausschuss für Unregelmäßigkeiten - überwiesen
+- TOP 5.17: Rederecht für Seniorenvertreter in allen Ausschüssen - überwiesen
+- TOP 5.18: Truman Plaza - Missachtung der Rechte der BVV? - überwiesen
+- TOP 6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1: Tarifliche Perspektiven für VHS-Dozent/Innen schaffen - in der BVV abgelehnt
+- TOP 6.2: Radstreifen im Kreuzungsbereich Gartenstraße / Berliner Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.3: Transparente Bezirksamtsbeschlüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Schlusswort des Bezirksverordnetenvorstehers - erledigt
