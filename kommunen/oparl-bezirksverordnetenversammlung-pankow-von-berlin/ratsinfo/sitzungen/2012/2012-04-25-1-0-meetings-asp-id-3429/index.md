@@ -1,0 +1,75 @@
+# 6. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2012-04-25T17:30:00+02:00
+- Ende: 2012-04-25T21:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3429
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3429
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=48319
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Wahl der Mitglieder des Integrationsbeirates Pankow für die VII. Wahlperiode - gewählt
+- TOP 1.9: Wahl von 5 Mitgliedern in den Integrationsbeirat auf Vorschlag der Fraktionen - gewählt
+- TOP 1.10: Wahl der Patientenfürsprecherinnen und Patientenfürsprecher für die Krankenhäuser des Bezirks Pankow von Berlin für die VII. Wahlperiode - gewählt
+- TOP 1.11: Wahl eines Vorstandsmitglieds der Albert - Schweitzer - Stiftung Wohnen und Betreuen - gewählt
+- TOP 1.12: Wahl eines stellvertretenden Bürgerdeputierten - gewählt
+- TOP 1.13: Ratsinformationssystem ALLRIS optimieren - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Erhebung von Beiträgen nach dem Straßenausbaubeitragsgesetz aussetzen II - in der BVV abgelehnt
+- TOP 1.15: Lage des Fußgängerüberweges an der Einmündung Hubertusdamm in die Bahnhofstraße in Berlin - Karow - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Schönhauser Allee umgestalten: Mehr Platz und Sicherheit für den Rad- und Fußverkehr! - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Windeignungsgebiete ausweisen - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Informationsfluss standardisieren und verbessern - in der BVV abgelehnt
+- TOP 1.19: Wartelisten in Kindertagesstätten - Mythos oder Realität? - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Entwicklung Quartiersprägende Plätze - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Erhöhung der bezirklichen Zuweisungen - Resolution BVV Friedrichshain-Kreuzberg - ohne Änderungen in der BVV beschlossen
+- TOP 1.22: Mauerpark - aktuelle Entwicklungen im Bezirk Mitte - beantwortet
+- TOP 1.23: Nach über 20 Jahren - endlich den Mauerpark fertigstellen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Angebote der "Stillen Straße 10" sichern - überwiesen
+- TOP 1.25: Erkenntnisse zum "Fall Zoe" - zurückgezogen
+- TOP 1.26: Information als Voraussetzung für Bürgerbeteiligung - überwiesen
+- TOP 1.27: Freies WLAN für Pankow und Berlin - überwiesen
+- TOP 1.28: Wohnprojekt „Whien“: halboffene Unterbringung des Maßregelvollzuges für Menschen mit psychischen Erkrankungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.29: Aufbaukurse bei Deutsch als Fremdsprache fortführen - überwiesen
+- TOP 1.30: Beteiligung bei der Wahl zur Seniorenvertretung verbessern - überwiesen
+- TOP 1.31: Umgang und Information der BVV und Bürgern zu Baumaßnahmen im Bezirk - überwiesen
+- TOP 1.32: Weniger Verkehrslärm in der Karower Bahnhofstraße - überwiesen
+- TOP 1.33: Keine Thor Steinar-Bekleidung in bezirklichen Gebäuden - vertagt
+- TOP 1.34: Gedenktafeln am ehemaligen „Kaufhaus Jonaß“ wieder anbringen - ohne Änderungen in der BVV beschlossen
+- TOP 1.35: Denkmal des Monats - überwiesen
+- TOP 1.36: Antrag auf Änderung der Geschäftsordnung der BVV zur Überweisung in den zeitweiligen Geschäftsordnungsausschuss - überwiesen
+- TOP 1.37: Pilotprojekt flexible Betreuungszeiten - überwiesen
+- TOP 1.38: Ausweitung der Parkraumbewirtschaftung im Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.39: Suche nach Plätzen in Kindertageseinrichtungen im Bezirk erleichtern - überwiesen
+- TOP 1.40: Weltmädchentag im Bezirk Pankow - überwiesen
+- TOP 1.41: Potentiale für Wohnungsbau in Pankow aufzeigen - überwiesen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: EU-Bericht - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Kommunaler Klimaschutz (1): Bezirkliches Klimaschutzziel definieren - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Belegungs- und Mietpreisbindungen nach Aufhebung der Sanierungsgebiete sichern - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Bestehende kulturelle Infrastruktur erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.5: Bedeutung der "Filmstadt Weißensee" endlich angemessen würdigen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Änderung Bauordnung von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.7: „Trägerbezogene Budgets“ in der Eingliederungshilfe für Menschen mit seelischer Behinderung in Berlin beibehalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Umzugsplanung fortschreiben und Gebäudekosten verringern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.9: Verkehrssicherheit in der Hauptstraße im OT Rosenthal erhöhen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.10: Freigabe notwendiger Haushaltsmittel - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Behinderung durch Weihnachtsbäume - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Änderung der Sanierungsziele im Sanierungsgebiet Teutoburger Platz Grundstück: Schönhauser Allee 176, Christinenstraße 18 –19 (Pfefferberg) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Bildung der Spielplatzkommission im Bezirk Pankow - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.14: Information zum Jahresabschlussergebnis 2011 des Bezirks Pankow von Berlin - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.15: Benennung von 35 Privatwegen in der Anlage Einigkeit im Ortsteil Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Benennungsabsicht für eine Privatstraße im Ortsteil Pankow in „In den Floragärten“ - mit Abschlussbericht zur Kenntnis genommen
+- TOP 3: Wahl von 5 Bezirksverordneten als Mitglieder des Beirates der Vivantes-Netzwerk für Gesundheit GmbH - zurückgezogen
