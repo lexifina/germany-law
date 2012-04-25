@@ -1,0 +1,84 @@
+# 7. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-04-25T17:15:00+02:00
+- Ende: 2012-04-25T22:12:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1689
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1689
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließung - erledigt
+- TOP 5.1: Babyklappen nicht abschaffen - jedes Kind, das gerettet wird, zählt! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Bebauungsplan 8-19b ("Karl-Marx-Straße/Ringbahnstraße") - überwiesen
+- TOP 7.2: Veränderungssperre 8-48/28 für die Grundstücke Kanalstraße 5, 5 A und Stubenrauchstraße 90-92 im Bezirk Neukölln, Ortsteil Rudow - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - erledigt
+- TOP 9.1: Spielplatzmängel - beantwortet
+- TOP 9.2: Einrichten einer neuen Bushaltestelle Rudower Spinne/Neuköllner Straße - beantwortet
+- TOP 9.3: Bürknerstraße in Fahrradstraße umwandeln - beantwortet
+- TOP 9.4: Überlastung des Wohnungsamtes - beantwortet
+- TOP 9.5: Mehr Personal für das Bürgeramt? - beantwortet
+- TOP 9.6: Russisch in der Sozialkommission - beantwortet
+- TOP 9.7: Personalreduzierung bei Mobilitätshilfediensten - beantwortet
+- TOP 9.8: Trimm-Dich-Pfade in Neukölln - beantwortet
+- TOP 9.9: Kulturverlag oder Mehrgenerationenhaus - schriftlich beantwortet
+- TOP 9.10: Kostenfreier Personalausweis - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 10.1: Schließanlagen in Neuköllner Schulen? - beantwortet
+- TOP 10.2: Keine Sprechstunden des Wohnungsamtes? - beantwortet
+- TOP 10.3: Integrationsbeauftragter deeskaliert? - beantwortet
+- TOP 10.4: Transparenz bei Bezirksamtssitzungen - in der BVV abgelehnt
+- TOP 10.5: Kartellamtsverfahren Winterdienst einleiten - in der BVV abgelehnt
+- TOP 11: Beschlussempfehlungen - erledigt
+- TOP 11.1: Haltverbot Kanalstraße/Mistelweg - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: U-Bahnlinie 7 - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Mehr Sicherheit für Schulkinder - ohne Änderungen in der BVV beschlossen
+- TOP 11.4: Verkehr vor Kita beruhigen - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Haltverbot vor der Bushaltestelle Landhaussiedlung erweitern - ohne Änderungen in der BVV beschlossen
+- TOP 11.6: Denkmalschutz für Eternit-Hallen aufheben - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - erledigt
+- TOP 12.1: Situation der Fußgänger/innen und des Radverkehrs in Neukölln - beantwortet
+- TOP 12.2: Pflegemangel bei Grünflächen - beantwortet
+- TOP 12.3: Frühzeitig fördern - beantwortet
+- TOP 12.4: Wohnungssituation in Neukölln - beantwortet
+- TOP 13: Große Anfragen - schriftlich - erledigt
+- TOP 14: Anträge - erledigt
+- TOP 14.1: 50 Jahre Grundsteinlegung Gropiusstadt - seit 40 Jahren trägt sie diesen Namen - überwiesen
+- TOP 14.2: Frühjahrsputz im S-Bahn-Graben - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Freilufttrinker in Neukölln - überwiesen
+- TOP 14.4: Straßenabwasserkanal in der Kanalstraße verstopft - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Babyklappe und Geburten im Mutter-Kind-Zentrum des Vivantes Klinikum Neukölln sollen weiterhin unterstützt werden - ohne Änderungen in der BVV beschlossen
+- TOP 14.6: Bürgerbeteiligung bei der Bauleitplanung modernisieren - überwiesen
+- TOP 14.7: Neukölln fahrrad- und fußgänger/innenfreundlich (1): 400 neue Abstellplätze für den Bezirk - überwiesen
+- TOP 14.8: Pflegemangel bei Grünflächen abhelfen - überwiesen
+- TOP 14.9: Neukölln fahrrad- und fußgänger/innenfreundlich (2): Radverkehr in Karl-Marx-Straße - überwiesen
+- TOP 14.10: Elektroantrieb für das Drogenmobil - überwiesen
+- TOP 14.11: Neukölln fahrrad- und fußgänger/innenfreundlich (3): Vorrang für Radstreifen - überwiesen
+- TOP 14.12: Neukölln fahrrad- und fußgänger/innenfreundlich (4): Vorgestreckte Fahrradfurten für linksabbiegende Radfahrer/innen - überwiesen
+- TOP 14.13: Kleingartenflächen sichern - überwiesen
+- TOP 14.14: Neukölln fahrrad- und fußgänger/innenfreundlich (5): Kreuzungen in Wohngebieten bei Umbaumaßnahmen konsequent auf die Bedürfnisse von Fußgänger/innen und Radfahrer/innen zuschneiden - überwiesen
+- TOP 14.15: Nachhaltige Drogenprävention am Hermannplatz - überwiesen
+- TOP 14.16: Frauenklinik - in der BVV abgelehnt
+- TOP 14.17: Neukölln fahrrad- und fußgänger/innenfreundlich (6): Bezirkliche Radrouten ausschildern - überwiesen
+- TOP 14.18: Neukölln fahrrad- und fußgänger/innenfreundlich (7): Hinweis auf Rechtsabbieger/innen an der Autobahnauffahrt - überwiesen
+- TOP 14.19: Neukölln fahrrad- und fußgänger/innenfreundlich (8): Überquerungshilfe statt Zaun am S-Bahnhof Köllnische Heide - überwiesen
+- TOP 14.20: Neukölln fahrrad- und fußgänger/innenfreundlich (9): Sicherheit in der High-Deck-Siedlung - ohne Änderungen in der BVV beschlossen
+- TOP 14.21: Neukölln fahrrad- und fußgänger/innenfreundlich (10): Fußgängerüberweg Treptower Straße/Weigandufer - überwiesen
+- TOP 14.22: Neukölln fahrrad- und fußgänger/innenfreundlich (11): Fahrradumgehung Weichselplatz - überwiesen
+- TOP 14.23: Neukölln fahrrad- und fußgänger/innenfreundlich (12): "Zebrastreifen" in der Aronsstraße - überwiesen
+- TOP 15: Mitteilungen - erledigt
+- TOP 15.1: Zeitnahe Kostenübernahme im Rahmen der Hilfe zur Pflege für Schwerstpflegebedürftige - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 15.2: Haltverbot Kanalstraße/Mistelweg - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16: Vorlagen zur Kenntnisnahme - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.1: Verlängerung der Leistungsverträge der freien Träger in der Jugendhilfe - mit Abschlussbericht zur Kenntnis genommen
