@@ -1,0 +1,69 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-04-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2424599
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2424599
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Vorstand: Entscheidungsrecht der Bezirksausschüsse über den Abbau von Verkaufsständen
+- TOP .1.: (E) Budget der Bezirksausschüsse Elternbeirat Mittelschule an der Elisabeth-Kohn-Straße Theaterprojekt vom 23.04. - 24.05.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Haus am Schuttberg e.V. Leihgebühr der Großspielgeräte am 29.05.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Ikarus e.V. Angehörigentag am 23.03.2012
+- TOP .4.: (E) Budget der Bezirksausschüsse Stadtteilarbeit e.V. Ferienprogramm vom 29.05. - 01.06.2012
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 62, ?Ellenwoods?: 4 Postkartenständer
+- TOP .2.: Friedrichstr. 33, Kinderzahnarztpraxis: Mobiler Fahrradständer
+- TOP .3.: Verkaufseinrichtungen für die ?Süddeutsche Zeitung? an 15 Standorten
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Init. 84 GHz - Raum für Gestaltung Kunst im Karrée 2012 vom 13. - 15.07.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Ackermannbogen e.V. Anschaffung von 20 Bierbänken und 2 Biertische
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Luitpoldpark: Spendenlauf und Sportfest des Willi-Graf-Gymnasiums am 13. bzw. 24.07.2012
+- TOP .2.: Blade Night 2012: Strecken Nord kurz und Nord lang (wie 2011)
+- TOP .3.: Isabellastraße: Straßenfest zur Eröffnung von ?Kunst im Karree? am 13.07.2012
+- TOP .4.: Schleißheimer Str. 105: Anwohnerfest am 01.07.2012
+- TOP .5.: Elisabethplatz: Kunstprojekt ?public domestic? am 31.05.2012
+- TOP .1.: SPD-Fraktion: Überführung von GBW-Aktien in Staatseigentum
+- TOP .2.: Bürger: Verwahrloste Dauerbaustelle Tengstr. 45 / Ecke Hohenzollernstraße
+- TOP .2.1.: Planen
+- TOP .1.: Adams-Lehmann-Straße: Neubau eines Wohngebäudes mit 56 WE, Gemeinschaftsraum und Tiefgarage (Schwabing Hoch4 ? Vorbescheid)
+- TOP .2.: Petra-Kelly-Straße: Neubau einer genossenschaftlichen Wohnanlage mit Tiefgarage (wagnis eG)
+- TOP .3.: Lissi-Kaeser-Straße: Neubau eines Mehrfamilienhauses (13 WE) mit TG (Planungsgemeinschaft ?WoAIII - Wohnen ohne Auto III?)
+- TOP .4.: Kurfürstenplatz 3, Anbau eines Kleingüteraufzugs und Nutzungsänderung im KG in eine Vorbereitungsküche
+- TOP .5.: Schleißheimer Str. 234 (Tektur): Genehmigung des Alkoholverkaufs in einem Gastgarten
+- TOP .6.: Belgradstr. 152: Neubau einer Wohnanlage (96 WE) mit Tiefgarage (96 Stpl.) (vertagt aus 03/12 erneute Behandlung anhand des Baumbestands- und Flächennutzungsplans)
+- TOP .7.: Petra-Kelly-Straße (Tektur): Neubau zweier Wohnhäuser (25 WE) mit Tiefgarage (25 Stellplätze) ? WA 6 SO (neu: 24 WE)
+- TOP .8.: Kraepelinstr. 51 a: Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .9.: Agnesstr. 55: Erweiterung von 4 Eckbalkonen am Vordergebäude
+- TOP .10.: Isabellastr. 36 Neuerrichtung des Dachstuhls, DG-Ausbau, Erhöhung Treppenhauskopf, Errichtung Loggia, Gaube + Dachflächenfenster, Anbau eines Außenaufzugs, Abbruch und Neuerrichtung Balkone, Anbringung WDVS
+- TOP .11.: Emanuelstr. 20: Aufstockung des Rückgebäudes um ein Geschoss (Vorbescheid)
+- TOP .12.: Infanteriestr. 14: Umbau und Dachaufstockung sowie Nutzungsänderung: Hochschulgebäude zu Studentenwohnheim (Vorbescheid)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Burgunderstraße zur Fahrradstraße umwidmen
+- TOP .2.1.: Umwelt
+- TOP .1.: Isoldenstr. 1: Fällung zweier Linden
+- TOP .2.: Degenfeldstr. 10-14: Fällung einer Robinie
+- TOP .3.: Unertlstr. 35: Fällung einer Robinie
+- TOP .4.: Kölner Platz 7-8, Fällung zweier Linden
+- TOP .5.: Bonner Platz 4-5, Fällung zweier Schwarzkiefern und einer serbischen Fichte
+- TOP .6.: Baumpflanzungen in der Hörwarthstraße: Anfrage des Baureferats-Tiefbau zum BA-Antrag Nr. 08-14 / B 03513 vom 23.11.2011
+- TOP .7.: Kraepelinstr. 51a, Baumfällungen in Zusammenhang mit dem Neubau eines Mehrfamilienhauses mit Tiefgarage (s. TOP D 2.8)
+- TOP .2.2.: Verkehr
+- TOP .1.: Errichtung einer Lichtzeichenanlage an der Kreuzung Barbara-/Schwere-Reiter-Straße
+- TOP .2.: Leistungsprogramm 2013 der MVG (Fahrplanwechsel Dezember 2012)
+- TOP 3: (E) Zufahrt zur Parkharfe am Olympiastadion deutlicher beschildern (Ziffer 2 des Antrags)
+- TOP 3.4.: Errichtung von Radfahr- und Schutzstreifen in der Karl-Theodor-Straße und am Bonner Platz
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
