@@ -1,0 +1,22 @@
+# Besucherzahlen des Gartenhallenbades; hier: stündl. Frequentierung Juni 2011 – März 2012
+
+- Körperschaft: Stadt Wesseling
+- Drucksache/Vorlage: 172/2011 2. Ergänzung
+- Art: Mitteilungsvorlage
+- Datum: 2012-04-26
+- Ratsinformationssystem: https://ratsinfo.wesseling.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZQRWYiZfvVsIwEiQfzjSthY
+- OParl: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/paper/43382
+- Quelle: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Mitteilungsvorlage (Besucherzahlen des Gartenhallenbades; hier: stündl. Frequentierung Juni 2011 – März 2012) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUUGRFaeRP6-z2GHrvrhudK7iUf0ckdv-C-VYKK0VVEa/Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 1. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQmDzmE-_0APdG6z2hM0sIzzmBrFjyi0yQc-O09srR2W/Anlage_zur_Mitteilungsvorlage_172-2011_1._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 1. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfZEGe5CQonQ6FhPI5TZwOv0pppGeTHO6UdveKkoWiG3/Anlage_zur_Mitteilungsvorlage_172-2011_1._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 1. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZY1EkDUs44f2KkpqwWEbVIuk7LKlMVXXj4M2VsgI6tD7/Anlage_zur_Mitteilungsvorlage_172-2011_1._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 1. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZdfT3OmKxJPb3bWs0igVs6g5owvyrHt8DSqhokSluVx1/Anlage_zur_Mitteilungsvorlage_172-2011_1._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 2. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT70YKslSWpdG4oNJpoDo2IydbenM6IWvBIqYlKpmBI5/Anlage_zur_Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 2. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYp-le3FFeg6YB3KLE0eALOz9_N2NJTWG23kOSZS5Vgx/Anlage_zur_Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 2. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSMqRIR84zREW59qD0OhJlaVMWnSpbyM2nRG4m8uNMg4/Anlage_zur_Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 2. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbFXA7pqwnenEUcel77iT0WMZTTf6tR8gpZv2FNcUmiJ/Anlage_zur_Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 2. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd9JiAwH6a-r0NlWK_VcNikLFOh9gI4O-0ZXKWyPXCf-/Anlage_zur_Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Anlage: Mitteilungsvorlage (Anlage zur Mitteilungsvorlage 172/2011 2. Ergänzung) https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZaSjHZSninwknZAxu9pUCQqI45s_Dw-C--E-Uro5eUYU/Anlage_zur_Mitteilungsvorlage_172-2011_2._Ergaenzung.pdf
+- Beratung:  https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/meeting/4274 https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/1-10
+- underDirectionOf: https://ratsinfo.wesseling.de/webservice/oparl/v1.1/body/1/organization/3-54
