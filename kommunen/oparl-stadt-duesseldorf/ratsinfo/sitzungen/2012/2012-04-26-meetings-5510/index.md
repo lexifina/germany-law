@@ -1,0 +1,70 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-04-26T14:00:00+02:00
+- Ende: 2012-04-26T20:17:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5510
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5510
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176143.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176143.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176143.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - zur Kenntnis genommen
+- TOP 2: Genehmigung NS - zur Kenntnis genommen
+- TOP 3: Anfragen
+- TOP 3.1: Anfrage FREIE WÄHLER: Kostensteigerung für die Stadt - beantwortet
+- TOP 3.2: Anfrage Bü90-Grü: Kaum Wohnungsneubau in Düsseldorf in 2011 - beantwortet
+- TOP 3.3: Anfrage der SPD Ratsfraktion: Bundesfreiwilligendient - beantwortet
+- TOP 3.4: Anfrage von CDU und FDP: Auswirkungen des Gemeindefinanzreformgesetzes auf die Landeshauptstadt - schriftlich beantwortet
+- TOP 3.5: Anfrage Freie Wähler: Vorschlagsrecht bei Dezernentenwahl - schriftlich beantwortet
+- TOP 3.6: Anfrage der Ratsfraktion DIE LINKE: Regionales Bildungsbüro - schriftlich beantwortet
+- TOP 3.7: Anfrage SPD: Wann ist die Straßenbahn- und Bushaltestelle Wehrhahn S-Bahnhof endlich fertig? - schriftlich beantwortet
+- TOP 4: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 5: Bericht aus der Kleinen Kommission Kö-Bogen - beantwortet
+- TOP 6: Betrauung von städtischen Beteiligungsgesellschaften mit gemeinwirtschaftlichen Aufgaben - mehrheitlich beschlossen
+- TOP 7: Hospitalstraße 45, Städtische Realschule Benrath und Städtisches Schloß-Gymnasium Benrath - Umbau de - einstimmig beschlossen
+- TOP 8: Steinkaul 27, Dependance St.-Apollinaris Schule Städtische Katholische Grundschule - Sanierung des S - mehrheitlich beschlossen
+- TOP 9: EntlastungsstraßeDerendorf - Norderweiterung - mehrheitlich beschlossen
+- TOP 9.1: ÄA SPD: : Entlastungsstraße Derendorf – Norderweiterung - einstimmig abgelehnt
+- TOP 10: ÖPNV - Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie (Neufassung) - mehrheitlich beschlossen
+- TOP 10.1: Erg.Antrag Bü90-Grü: Straßenbahn- und Stadtbahnnetz nach Inbetriebnahme der Wehrhahn-Linie - mehrheitlich abgelehnt
+- TOP 11: Städtische Förderung zum Erwerb von Wohneigentum - einstimmig beschlossen
+- TOP 12: Städtische Förderung von baulichen Maßnahmen zur Reduzierung von Barrieren im Wohnungsbestand - einstimmig beschlossen
+- TOP 13: (Neufassung der Vorlage Freigabe verkaufsoffener Sonntagnachmittage im Jahre 2012 - mehrheitlich beschlossen
+- TOP 14: Ergebnis Interessenbekundung Kein Kind zurücklassen - Präventionsketten - einstimmig beschlossen
+- TOP 15: Änderung der Bestimmungen zur Verleihung des Heine-Preises und des Kunstpreises der Landeshaptstadt - mehrheitlich beschlossen
+- TOP 16: ÄA Linke: Änderung der Bestimmungen zur Verleihung des Heine-Preises und des Kunstpreises - mehrheitlich abgelehnt
+- TOP 17: Änderung der Bestimmungen zur Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Mu - zurückgezogen
+- TOP 18: Nachwahl von Juroren in das Preisgericht des Heine-Preises der Landeshauptstadt Düsseldorf - vertagt
+- TOP 19: Wahl von Juroren in das Preisgericht des Kunstpreises der Landeshauptstadt Düsseldorf - einstimmig beschlossen
+- TOP 20: Abberufung eines Prüfers und Bestellung einer Prüferin für das Rechnungsprüfungsamt - einstimmig beschlossen
+- TOP 21: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
+- TOP 22: Planungsmaßnahmen
+- TOP 23: BPlNr02/001-Elektrofachmärkte-§13,Stell.Änd.Satzung - mehrheitlich beschlossen
+- TOP 24: B-Plan Nr.: 6076/034 "Östlich Heyestraße" Ergänzendes Verfahren, Satzung, Stellungnahmen - einstimmig beschlossen
+- TOP 25: FNP-Ä 142-Südl.Hohenzollernallee-Stell.Plan - mehrheitlich beschlossen
+- TOP 26: BPl5777/056-Schlüter/hohenz.-St.Änd.Satzung - mehrheitlich beschlossen
+- TOP 27: Plan 5576/85 Innenstadt/Vergnügungsstätten - Veränderungssperre - einstimmig beschlossen
+- TOP 28: Bebauungsplan-Entwurf Nr. 5282/018 - Niederrheinstraße - Aufhebungsverfahren, Stellungnahmen, Satzun - einstimmig beschlossen
+- TOP 29: Bebauungsplan-Entwurf Nr. 5282/020 - Niederrheinstraße - Stellungnahmen, Änderungen in roter Farbe, - einstimmig beschlossen
+- TOP 30: Anträge
+- TOP 30.1: Antrag Bü90-Grü: Düsseldorf „all inclusive“ - eine Stadt für alle - mehrheitlich beschlossen
+- TOP 30.2: Antrag Bü90-Grü und SPD: Abfrage des Bedarfs einer Sekundarschule
+- TOP 30.3: Antrag Linke: Übertragung der Ratssitzungen per Live-Stream
+- TOP 30.3.1: Antrag Bü90/Grü: Informationen in Echtzeit
+- TOP 30.3.2: ÄA CDU, SPD, BÜ90/GRÜ, FDP: Übertragung der Ratssitzungen im Internet via Livestream
+- TOP 30.4: Antrag Die Linke: Gebührenfreier Perrsonalausweis für alle Düsselpass-Berechtigten
+- TOP 30.5: Antrag Freie Wähler: Architektuwettbewerb durchgehende Rheinuferpromenade - zurückgezogen
+- TOP 30.6: Antrag der Ratsfraktion DIE LINKE: Spitzengehälter in kommunalen Unternehmen begrenzen - einstimmig abgelehnt
+- TOP 30.7: Antrag der Ratsfraktion DIE LINKE: Keine Datenweitergabe an die Bundeswehr - einstimmig abgelehnt
+- TOP 30.7.1: ÄA SPD Keine Datenweitergabe an die Bundeswehr.
+- TOP 30.8: Antrag Bü90-Grü: Rauf aufs Rad in Düsseldorf - einstimmig abgelehnt
+- TOP 30.9: Antrag Bü90/Grü: Einrichtung eines Regionalen Energiemanagements - zur Kenntnis genommen
+- TOP 30.10: Antrag SPD: Schutz der natürlichen Ressourcen.......
+- TOP 30.11: Antrag SPD: Keine Übertragung der Kindertagesstätte an der Carl-Friedrich -Goerdeler-Straße in Garat - zur Kenntnis genommen
