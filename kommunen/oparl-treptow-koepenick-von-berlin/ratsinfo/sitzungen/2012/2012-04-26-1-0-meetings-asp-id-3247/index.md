@@ -1,0 +1,68 @@
+# 8. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-04-26T16:30:00+02:00
+- Ende: 2012-04-26T20:45:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3247
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3247
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=96578
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 2.1: Kein störendes Gewerbe im Ortskern Altglienicke - vertagt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-7 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Berufung von beratenden und stellvertretenden beratenden Mitgliedern des Jugendhilfeausschusses - gewählt
+- TOP 8.2: Vorzeitige Beendigung des Amtes eines stellvertretenden Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl eines Bürgerdeputierten für den Ausschuss für Wirtschaftsförderung, Tourismus und Immobilien - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Nachtragshaushalt 2013 - Jugendarbeit / Jugendsozialarbeit - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Nachvollziehbarkeit der Bezirksamtsbeschlüsse - überwiesen
+- TOP 12.2: Ausweisung der Kosten je Schlussbericht - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Verordnung über den Erlass der Veränderungssperre XVI-77/16 für das Grundstück Grenzweg 99 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Rahnsdorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Einleitung des Planaufstellungsverfahrens zum Bebauungsplan XVI-13-1 ("Lindenstraße 33") zur teilweisen Änderung des Bebauungsplans XVI-13 im Bezirk Treptow-Köpenick, Ortsteil Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.2: Vorhabenbezogener Bebauungsplan XV-19-1 VE („Auto-Zellmann“) hier: Planaufstellungsverfahren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13.3: Benennung der im Ortsteil Müggelheim auf einem Grundstück der Berliner Forsten gelegenen Privatstraße (Zuwegung zum Schulstandort Freilandlabor Kaniswall) in Am Kaniswall - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Änderung der Zusammensetzung der Arbeitsgruppe (AG) Öffentlichkeit und Pflege der Internetpräsentation des Bezirksamtes Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Reduzierung der Kosten für den Betrieb von Brunnen - überwiesen
+- TOP 14.2: Resolution der BVV Treptow-Köpenick zum Verzicht auf Flughafenschnellverfahren und Asylgewahrsam auf dem Flughafen BER - in der BVV abgelehnt
+- TOP 14.3: Witterungsschutz an den Haltestellen im Groß-Berliner Damm - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Belag Wuhlewanderweg erneuern - überwiesen
+- TOP 14.5: Offenlegung der Entscheidungsgrundlagen für die Standortschließung - überwiesen
+- TOP 14.6: Ampel Köpenicker Landstraße Ecke Straße am Plänterwald - überwiesen
+- TOP 14.7: Bus in Altglienicke in den B-Tarif überführen - überwiesen
+- TOP 14.8: Sichere Querung der Johannisthaler Chaussee - überwiesen
+- TOP 14.9: Monitoring für Bahnlärm in Friedrichshagen - überwiesen
+- TOP 14.10: Änderung der Geschäftsordnung "Mitsprache der Einwohnerschaft" - überwiesen
+- TOP 14.11: Einrichtung eines Kreisverkehrs in Altglienicke - überwiesen
+- TOP 14.12: Sackgasse Straße am Seddinsee - überwiesen
+- TOP 14.13: Straßennamenschilder wieder erkennen - überwiesen
+- TOP 14.14: Langer Abend der Politik - überwiesen
+- TOP 14.15: Veröffentlichung der Geschäftsordnung des Bezirksamtes - vertagt
+- TOP 14.16: Querungshilfe Wendenschloßstraße - überwiesen
+- TOP 14.17: Sichere Querung der Johannisthaler Chaussee - überwiesen
+- TOP 14.18: Uhrwerk am Bahnhof Schöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 14.19: Veröffentlichung von Bebauungsplänen - überwiesen
+- TOP 14.20: BVG Wartehäuschen und Haltestelle zusammenführen - überwiesen
+- TOP 14.21: Verkehrliche Erschließung Wohngebiet XV-37-A „Falkenberg“ in Bohnsdorf - überwiesen
+- TOP 14.22: Verlängerung temporärer GO-Ausschuss - im Ältestenrat zurückgezogen
+- TOP 14.23: Verkehrsregelung auf dem Adlergestell/ Godbersenstraße - überwiesen
+- TOP 14.24: Änderung der Geschäftsordnung vom 27.10.2011 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 14.25: Resolution zur Unterstützung der Wassersportvereine - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: Schließung der Zweigstelle der Musikschule Joseph Schmidt - vertagt
