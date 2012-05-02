@@ -1,0 +1,89 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-05-02T16:04:00+02:00
+- Ende: 2012-05-02T18:24:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8205
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8205
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand: 18.04.12) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00141256.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00142590.pdf
+
+## Tagesordnung
+
+- TOP -: Haushaltsplan/Haushaltssanierungsplan
+- TOP 1: Entwurf des Haushaltssanierungsplans 2012 - 2021 - geändert beschlossen
+- TOP 1.1: Anpassung des Entwurfs des Haushaltssanierungsplans 2012 -2021 an die formalen Vorgaben der Kommunalaufsicht - ungeändert beschlossen
+- TOP 1.2: Änderungsantrag zum Entwurf des Haushaltssanierungsplanes für die Jahre 2012 - 2021 - ungeändert beschlossen
+- TOP 1.2.1: Ergänzungsantrag zu TOP 1.2 "Änderungsantrag zum Entwurf des Haushaltssanierungsplanes für die Jahre 2012 - 2021" (VO/0146/12) - ungeändert beschlossen
+- TOP 1.3: Änderungsantrag zum Entwurf des Haushaltssanierungsplanes für die Jahre 2012 - 2021 - abgelehnt
+- TOP 1.4: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - Entgegennahme ohne Beschluss
+- TOP 1.4.1: Weitere Empfehlungen der Fachausschüsse zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - Entgegennahme ohne Beschluss
+- TOP 1.5: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - ungeändert beschlossen
+- TOP 1.5.1: Weitere Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - ungeändert beschlossen
+- TOP 1.6: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 1.7: Zweite Satzung zur Änderung der Hundesteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 1.8: Zweite Satzung zur Änderung der Vergnügungssteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 1.9: Änderung der Entgeltordnung des Stadtarchivs - ungeändert beschlossen
+- TOP 1.10: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Bergische Kooperation ausbauen - abgelehnt
+- TOP 1.11: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Förderung von Arbeitsplatzansiedlung und Stärkung des Wohnstandorts - abgelehnt
+- TOP 1.12: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Grund- und Gewerbesteuergarantie - abgelehnt
+- TOP 1.13: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" - Evaluation der Bettensteuer - abgelehnt
+- TOP 1.14: „Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Hundesteuer - abgelehnt
+- TOP 1.15: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Externe Ausschreibung des Betriebs der Stadthalle - abgelehnt
+- TOP 1.16: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Verkauf der Anteile an der Barmer Wohnungsbau AG - vertagen
+- TOP 2: Entwurf des Haushaltsplans 2012/2013 - geändert beschlossen
+- TOP 2.1: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2012/2013 - Entgegennahme ohne Beschluss
+- TOP 2.1.1: Weitere Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 2.2: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 2.2.1: Weitere Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 2.3: U3 - Ausbau - Veranschlagung zusätzlicher Kreditmittel - ungeändert beschlossen
+- TOP 2.4: Personalentwicklungskonzept - ungeändert beschlossen
+- TOP 3: Bürgerbeteiligung bei den Haushaltsplanberatungen: hier Ergebnisse des Meinungsforums im Internet - Entgegennahme ohne Beschluss
+- TOP -: Angelegenheiten der Beteiligungssteuerung
+- TOP 4: Jahresabschlüsse
+- TOP 4.1: Jahresabschluss 2010 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 4.2: Jahresabschluss 2011 der AWG Abfallwirtschaftsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 4.3: Jahresabschluss 2011 der Hotel AG - ungeändert beschlossen
+- TOP 4.4: Jahresabschluss 2011 der Lokalfunk Wuppertal GmbH & Co. KG - ungeändert beschlossen
+- TOP 4.5: Jahresabschluss 2011 der Lokalfunk Wuppertal Beteiligungsgesellschaft mbH Wuppertal - ungeändert beschlossen
+- TOP 5: Entlastungen
+- TOP 5.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 6: Wirtschaftspläne
+- TOP 7: Personelle Angelegenheiten
+- TOP 7.1: Neu-Besetzung des Aufsichtsrates der WSW Energie & Wasser AG - geändert beschlossen
+- TOP 8: Allgemeine Vorlagen
+- TOP 8.1: Gründung der Bergischen Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 8.2: Änderung des Gesellschaftsvertrages der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 8.3: Bestellung eines Abschlussprüfers für das Geschäftsjahr 2011 und 2012 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Berichte und Mitteilungen
+- TOP -: Finanzangelegenheiten
+- TOP 10: Berichtsvorlagen
+- TOP 10.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2011, Teil 3 - Entgegennahme ohne Beschluss
+- TOP 10.2: Finco-Bericht zum 31.03.2012 - Entgegennahme ohne Beschluss
+- TOP 10.3: Stand der Schulden und Kassenkredite zum 31.03.2012 - Entgegennahme ohne Beschluss
+- TOP 10.4: Externe Einstellungen im Zeitraum Januar bis März 2012 - Entgegennahme ohne Beschluss
+- TOP 10.5: Soziale Stadt Oberbarmen/Wichlinghausen - Sachstandsbericht April 2012 - Entgegennahme ohne Beschluss
+- TOP 11: Haushaltsangelegenheiten
+- TOP 11.1: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2011 - ungeändert beschlossen
+- TOP 11.2: Neufassung der Entgeltordnung für den Stadtbetrieb Orchester und Konzerte - geändert beschlossen
+- TOP 12: Verkäufe und Baumaßnahmen
+- TOP 12.1: Verkauf eines städtischen Grundstücks - Sachstandsbericht - Entgegennahme ohne Beschluss
+- TOP 12.1.1: Verkauf eines städtischen Grundstückes im Bereich der Straße Lante - abgelehnt
+- TOP 13: Dienstanweisungen und Satzungen
+- TOP 14: Anträge und Anfragen
+- TOP 14.1: Transparenz dient der Demokratie - abgelehnt
+- TOP 14.2: Große Anfrage der WfW-Fraktion vom 23.03.2012 -Fragen der Wählergemeinschaft für Wuppertal (WfW) zu finanziellen Aspekten der WSW-Tochtergesellschaften- - Entgegennahme ohne Beschluss
+- TOP 15: Allgemeine Vorlagen
+- TOP 16: Berichte und Mitteilungen
+- TOP -: Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 17: Alten- und Altenpflegeheime
+- TOP 17.1: Jahresabschluss 2011 der APH Service GmbH - ungeändert beschlossen
+- TOP 17.2: Quartalsbericht IV/2011 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 17.3: Quartalsbericht IV/2011 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 18: Berichte und Mitteilungen
+- TOP 19: Kinder- und Jugendwohngruppen
+- TOP 20: Berichte und Mitteilungen
