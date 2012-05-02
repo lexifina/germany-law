@@ -1,0 +1,8 @@
+# TOP 6.2: Maschinenlesbare Haushaltsunterlagen zur Weiterverarbeitung
+
+- Sitzung: 7. (öffentliche/nichtöffentliche) Sitzung des Ausschusses für Haushalt. Personal und Verwaltung (2012-05-02)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=29235
+- Ergebnis: vertagt
+- Beratung: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/consultations.asp?typ=i&id=29235
