@@ -1,0 +1,61 @@
+# 22. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-05-03T17:00:00+02:00
+- Ende: 2012-05-03T22:12:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8316
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8316
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00323259.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge und Eingaben
+- TOP 5: Beratungen mit externer Berichterstattung
+- TOP 5.1: Ausbau Dortmund-Ems-Kanal - aktueller Sachstand - vertagt
+- TOP 5.2: Bericht zum fortgeschriebenen Masterplan
+- TOP 5.3: Bauvorhaben "ehem. Dresdener Bank" Königstraße/Ecke Rothenburg - von der Tagesordnung abgesetzt
+- TOP 6: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 6.1: Schlossplatz (ehemals Hindenburgplatz) - Planungsgeschichte / Städtebauliche Rahmenbedingungen mit Nutzungs- und Funktionsansprüchen - zur Kenntnis genommen
+- TOP 6.2: Standorte-Entwicklungskonzept Britenwohnungen in Münster" -
+- TOP 6.3: Errichtung einzelner Windenergieanlagen an Standorten außerhalb der im Flächennutzungsplan der Stadt Münster dargestellten Konzentrationszonen für Windenergieanlagen - von der Tagesordnung abgesetzt
+- TOP 6.4: Landschaftsplan Roxeler Riedel -Offenlegungsbeschluss- - eingebracht
+- TOP 6.5: Abwicklung der naturschutzrechtlichen Eingriffsregelung in der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 6.6: Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen - einstimmig geändert beschlossen
+- TOP 6.7: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster/Mitte, Altstadt/Bahnhofsviertel, für das Kalenderjahr 2012 - 2. Advent - ohne Beschlussfassung geschoben
+- TOP 6.8: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mite, Bereich Hammer Straße, für das Kalenderjahr 2012 - einstimmig beschlossen
+- TOP 6.9: Taxitarife - von der Tagesordnung abgesetzt
+- TOP 6.10: CityLightBoards (CLB) in Münster - bei Stimmengleichheit abgelehnt
+- TOP 7: Stadtplanung
+- TOP 7.1: Vorstellung des überarbeiteten Wettbewerbsentwurfes Meckmannweg / schwarzer Kamp - - einstimmig geändert beschlossen
+- TOP 7.2: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - von der Tagesordnung abgesetzt
+- TOP 7.3: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 7.4: Bebauungsplan Nr. 527 - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - einstimmig geändert beschlossen
+- TOP 8: Verkehr
+- TOP 8.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms - von der Tagesordnung abgesetzt
+- TOP 8.2: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms - von der Tagesordnung abgesetzt
+- TOP 8.3: Bauliche Optimierungsmaßnahmen zur Beseitigung von Unfallhäufungsstellen im Bereich I. Nordtangente - einstimmig beschlossen
+- TOP 8.4: Planungsbeschluss neue Fußgängersignalanlage Kappenberger Damm/Werneweg/Kriegerweg - von der Tagesordnung abgesetzt
+- TOP 8.5: Kappenberger Damm/Düesbergweg/Geringhoffstraße - Ausbau von barrierefreien Haltestellen (Maßnahme im Haltestellenprogramm 2012) und Beseitigung einer Unfallhäufungsstelle - von der Tagesordnung abgesetzt
+- TOP 8.6: Querungssituation an den Lichtsignalanlagen Albersloher Weg/Homannstraße und Blaukreuzwäldchen - von der Tagesordnung abgesetzt
+- TOP 8.7: Ausbau der Fußgängerampel Westfalenstraße/An der Alten Kirche/Friedhofstraße zur Kreuzungsampel - von der Tagesordnung abgesetzt
+- TOP 8.8: Ergänzung der Lichtsignalanlage Grevener Straße/Westhoffstraße - einstimmig beschlossen
+- TOP 8.9: Antrag der SPD-Fraktion, Fraktion Bündnis 90/Die Grünen/GAL, Fraktion Die Linke.Münster, Ratsherr Pfau, Ratsherr Kersting, Ratsherr Langenfeld an den Rat Nr.32/2009 " Mehr Platz für mehr Radverkehr - Lücken im Netz schließen - Hindernisse für Fußgäng - von der Tagesordnung abgesetzt
+- TOP 8.10: Ergänzung der Lichtsignalanlage Warendorfer Straße/Dechaneistraße/Wiener Straße - vertagt
+- TOP 8.11: Einrichtung eines Linksabbiegestreifens vom Albersloher Weg (stadteinwärts) in den Keltenweg - einstimmig beschlossen
+- TOP 8.12: Umbau des Knotenpunktes Mecklenbecker Straße / Dingbängerweg zur Erhöhung der Verkehrssicherheit für Fußgänger und Radfahrer und zur Erhöhung der Leistungsfähigkeit - einstimmig beschlossen
+- TOP 9: Bauvorhaben
+- TOP 9.1: Bahnhofstraße 15 - Umbau/Sanierung der ehemaligen Bundesbahndirektion Münster, Bauteil 3
+- TOP 9.2: Sonnenstraße 31 - Abbruch und Neubau eines Mehrfamilienhauses
+- TOP 9.3: Tibusstraße1 a / Bergstraße - Neubau eines Wohn- und Geschäftshauses
+- TOP 9.4: Piusallee 36 - Abbruch und Neubau eines Mehrfamilienhauses
+- TOP 10: Sonstiges
+- TOP 10.1: Bestellung einer stellvertretenden Schriftführerin für die Sitzungen des Ausschusses für Stadtplanung, Stadtentwicklung, Verkehr und Wirtschaft - einstimmig beschlossen
+- TOP 11: Verschiedenes
