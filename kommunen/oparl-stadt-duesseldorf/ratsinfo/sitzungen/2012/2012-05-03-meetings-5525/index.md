@@ -1,0 +1,78 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-05-03T17:00:00+02:00
+- Ende: 2012-05-03T20:10:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5525
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5525
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176572.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176572.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176572.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Unfallstatistik und Kriminalitätsentwicklung 2011 im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 4: Schwimmbad Eller - zur Kenntnis genommen
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Spezialmarkt "Düsseldorfer Herbstfestival" - einstimmig beschlossen
+- TOP 7: "Designerbörse Mode, Möbel und Trödelkram" im Stahlwerk - einstimmig beschlossen
+- TOP 8: Trödelmärkte auf dem OBI-Parkplatz, Königsberger Straße 87, im Jahr 2012 - einstimmig beschlossen
+- TOP 9: Neuwahl einer Schiedsperson - zur Kenntnis genommen
+- TOP 10: Gumbertstraße - Umgestaltung der Zufahrt zum Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 11: Unterhaltung von städtischen Grundstücken und baulichen Anlagen - einstimmig beschlossen
+- TOP 12: Ladezone Zeppelinstraße 28 - einstimmig abgelehnt
+- TOP 13: Wohngebäude Josef-Stick-Straße / Von-Krüger-Straße - beantwortet
+- TOP 14: Rewe-Gelände Gerresheimer Landstraße - beantwortet
+- TOP 15: Regenrückhaltebecken Vennhauser Allee - beantwortet
+- TOP 16: Verkehrsregelung Markusquartier / Coburger Weg - beantwortet
+- TOP 17: Gartengrundstücke Reichenbacher Weg - beantwortet
+- TOP 18: Nachtlärm Güterbahnverkehr Stadtbezirk 8 - beantwortet
+- TOP 19: Bahnübergang Am Hackenbruch - beantwortet
+- TOP 20: Einmündungsbereich Büllenkothenweg / Deutzer Straße - beantwortet
+- TOP 21: Aktion 'Achtung Fußgänger' in Eller - beantwortet
+- TOP 22: Radweg Gubener Straße - beantwortet
+- TOP 23: Anmeldezahlen an Grundschulen im Stadtbezirk 8 - beantwortet
+- TOP 24: Bauvorhaben im Stadtbezirk 8 - beantwortet
+- TOP 25: Wohnbebauung Kamper Weg 176-180 - beantwortet
+- TOP 26: A 46 - Autobahnkreuz Düsseldorf-Süd - beantwortet
+- TOP 27: Moderne Mobilitätsangebote im Stadtbezirk 8 - beantwortet
+- TOP 28: Bunker- und Proberaumsituation im Stadtbezirk 8 - beantwortet
+- TOP 29: Verkehrssituation im Bereich Zufahrt A 46 / Anschluss Eller - beantwortet
+- TOP 30: Straßenverkehr im Stadtbezirk 8 - beantwortet
+- TOP 31: Kleinstspielplätze im Stadtbezirk 8 - beantwortet
+- TOP 32: Kita - Plätze im Stadtbezirk 8 - beantwortet
+- TOP 33: Zusätzliche Bushaltestelle auf der Rathelbeckstraße - mehrheitlich abgelehnt
+- TOP 34: Proberäume für Musiker im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 35: Gehwegverschmutzung durch Hundekot im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 36: Reinigung des Grundstückes Chemnitzer Straße 51 - einstimmig beschlossen
+- TOP 37: Bürgersteigabsenkung Ohlauer Straße / Reichenbacher Weg - einstimmig beschlossen
+- TOP 38: Behindertenparkplatz Gumbertstraße - mehrheitlich abgelehnt
+- TOP 39: Falschparker Gumbertstraße / Am Krahnap - einstimmig beschlossen
+- TOP 40: Barrierefreiheit S-Bahnhof Eller - einstimmig beschlossen
+- TOP 41: Straßenbelag Gothaer Weg - einstimmig beschlossen
+- TOP 42: Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 43: Bushaltestelle Eller-Süd S - einstimmig beschlossen
+- TOP 44: Graffitibeseitigung im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 45: Treppenlift S-Bahnhof Eller - einstimmig beschlossen
+- TOP 46: REWE Schlesische Straße - einstimmig beschlossen
+- TOP 47: Fahrradstreifen Gubener Straße / Neusalzer Weg - vertagt
+- TOP 48: Winterdienst Gubener Straße / Neusalzer Weg - zur Kenntnis genommen
+- TOP 49: Radwegplanung Am Turnisch - zur Kenntnis genommen
+- TOP 50: Verkehrsregelung Auf'm Großenfeld - zur Kenntnis genommen
+- TOP 51: Verkehrsregelung Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 52: Unterrichtungstafeln Düssel im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 53: Kreuzung Reisholzer Straße / Schlesische Straße - zur Kenntnis genommen
+- TOP 54: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf. - zur Kenntnis genommen
+- TOP 55: Sanierung S-Bahnhof Eller-Süd - zur Kenntnis genommen
+- TOP 56: Bushaltestelle In der Elb - zur Kenntnis genommen
+- TOP 57: Anmeldezahlen an Grundschulen im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 58: Kita-Plätze im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 59: Aktion 'Achtung Fußgänger' in Eller - zur Kenntnis genommen
+- TOP 60: Straßenverkehr im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 61: Kleinstspielplätze im Stadtbezirk 8 - zur Kenntnis genommen
