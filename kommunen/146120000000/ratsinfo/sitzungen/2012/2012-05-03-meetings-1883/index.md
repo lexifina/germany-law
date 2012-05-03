@@ -1,0 +1,61 @@
+# 40. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-05-03T16:00:00+02:00
+- Ende: 2012-05-03T22:10:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1883
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1883
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_05_03 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00096140.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Städtebaulicher Rahmenplan zur Entwicklung des Universitätsstandortes Dresden
+- TOP 2.2: Ganztagschulangebote
+- TOP 2.3: Erfüllung der Stadtratsbeschlüsse zur Neuordnung der Stadionverträge
+- TOP 2.4: Parksituation rund um den Körnerplatz
+- TOP 2.5: Investitionen der vergangenen 20 Jahre
+- TOP 2.6: 8. Mai -Tag der Befreiung
+- TOP 2.7: Gedenken 17. Juni
+- TOP 2.8: Dresden Dukes
+- TOP 2.9: Königsbrücker Straße
+- TOP 2.10: Genehmigungsrechtliche Verzögerungen im Gebiet des Bebauungsplanes Nr. 356
+- TOP 2.11: Bauarbeiten an der ehemaligen Getreidemühle
+- TOP 2.12: Fortschritte bei der Ausstattung mit Breiband-Internetzugang
+- TOP 2.13: Erarbeitung des neuen Dresdner Mietspiegels
+- TOP 2.14: Auslegung von Zeitungen in den Rathäusern
+- TOP 3: Wahl der Mitglieder und Stellvertreter des Stadtrates für die Jury Wettbewerblicher Dialog - Zustimmung
+- TOP 4: Nachwahl eines Aufsichtsratsmitgliedes der Dresdner Verkehrsbetriebe AG - gewählt
+- TOP 5: Umbesetzung im Ortsbeirat Altstadt - Zustimmung
+- TOP 6: Tagesordnungspunkte ohne Debatte
+- TOP 7: Fortschreibung Fachplan Kindertageseinrichtungen und Kindertagespflege für das Schuljahr 2012/2013 - Zustimmung mit Änderung
+- TOP 8: Anmietung einer Kindertageseinrichtung auf dem Grundstück Hauptstraße 4 in 01328 Dresden-Weißig - Zustimmung
+- TOP 9: Verkauf des Grundstückes Liliengasse 19 - Zustimmung mit Änderung
+- TOP 10: Umbau und Gesamtsanierung Schulgebäude Hans-Erlwein-Gymnasium, Eibenstocker Straße 30 in Dresden einschließlich Pausenflächen und Sportfreianlagen - Zustimmung mit Änderung
+- TOP 11: Sächsischer Familientag 2014 in Dresden
+- TOP 12: Vorhabenbezogener Bebauungsplan Nr. 6006, Dresden-Cotta, Am Frosch - Zustimmung
+- TOP 13: Verbesserung der Bedingungen schulischer Integration von Schülerinnen und Schülern mit besonderen Bedarfen in Dresden - Ablehnung
+- TOP 14: Deine Stadt - Dein Geld! Bürgerhaushalt jetzt vorbereiten! - Zustimmung mit Änderung
+- TOP 15: Einrichtung von Fahrradstellplätzen - Vertagung
+- TOP 16: Schulleitungen in die Schulnetzplanung einbeziehen - Vertagung
+- TOP 17: Bildung eines Beirates zur Verbesserung der sozialen Integration wohnungsloser Menschen oder von Wohnungslosigkeit bedrohter Menschen in Dresden - Vertagung
+- TOP 18: Gerechte Kosten der Unterkunft und Heizung - jetzt richtiges schlüssiges Konzept für Dresden - Vertagung
+- TOP 19: Zukunftskonzept für die städtischen Krankenhäuser (10-Punkte-Plan) - Vertagung
+- TOP 20: Schulbau- und Schulsanierungsprogramm sportstrategisch anpacken - Vertagung
+- TOP 21: Satzung für den Neumarkt - Zustimmung mit Änderung
+- TOP 22: Änderung der Hauptsatzung - Vertagung
+- TOP 23: Krankenhäuser stärken - Vertagung
+- TOP 24: Verlängerung der Königsufervereinbarung mit der PAN Veranstaltungslogistik- und Kulturgastronomie GmbH (PAN GmbH) um 10 Jahre - Zustimmung mit Änderung
+- TOP 25: Namensgebung der 14. Grundschule, Schweizer Straße 7 in 01069 Dresden - Zustimmung
+- TOP 26: Namensgebung der 35. Grundschule, Bünaustraße 12 in 01159 Dresden - Zustimmung
+- TOP 27: Satzung zur Änderung der Satzung der Landeshauptstadt Dresden über die Abfallwirtschaft - Zustimmung
+- TOP 28: Vorbildfunktion der Stadt Dresden erfüllen - Errichtung einer Photovoltaik-Anlage auf dem Rathausdach - Vertagung
+- TOP 29: Kommunale Sozialpolitik zur Bekämpfung von Armut im Alter - Vertagung
+- TOP 30: Grundstücksplanung für Kita- und Schulbedarf - Vertagung
+- TOP 31: Gleichstellung eingetragener Lebenspartnerschaften bei der Zweitwohnungssteuer - Vertagung
+- TOP 32: Änderung der Friedhofssatzung der Landeshauptstadt Dresden hinsichtlich des Lebenspartnerschaftsgesetzes - Vertagung
