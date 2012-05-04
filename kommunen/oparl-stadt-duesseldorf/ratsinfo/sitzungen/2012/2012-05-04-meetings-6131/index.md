@@ -1,0 +1,58 @@
+# Bezirksvertretung 1
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-05-04T14:00:00+02:00
+- Ende: 2012-05-04T18:08:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/32
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6131
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/6131
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176641.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176641.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00176641.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Genehmigung der Niederschrift 61/ - 1/2012 vom 27.01.2012 - einstimmig beschlossen
+- TOP 4: Zulassung Sachverständige - einstimmig beschlossen
+- TOP 5: Plan Nr. 5280/030 Denkmalbereichssatzung - Golzheimer - Siedlung - - einstimmig beschlossen
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Konzept Elternbesuchsdienst im Rahmen Bildung und Teilhabe - zur Kenntnis genommen
+- TOP 8: Münsterstraße - zur Kenntnis genommen
+- TOP 9: Öffentliche Beleuchtung Essener Straße - zur Kenntnis genommen
+- TOP 10: Bücherbummel auf der Königsallee im Jahre 2012 - einstimmig beschlossen
+- TOP 11: Eventmarkt - mehrheitlich beschlossen
+- TOP 12: Fischmärkte auf dem Tonhallenufer im Jahre 2012 - einstimmig beschlossen
+- TOP 13: Bolker Straße 33 - einstimmig beschlossen
+- TOP 14: Kö-Graben Geländer, Kö-Gärtchen Zaun - einstimmig beschlossen
+- TOP 15: Franklinhof - mehrheitlich beschlossen
+- TOP 16: Anwohnerquartiersgarage - einstimmig beschlossen
+- TOP 17: Parkraumüberwachung/Verkehrsüberwachung - einstimmig beschlossen
+- TOP 18: Kaiserstraße - einstimmig beschlossen
+- TOP 19: Bordstein Glockenstraße - einstimmig beschlossen
+- TOP 20: Rheinpark - einstimmig beschlossen
+- TOP 21: Radweg Fischerstraße/Cordobastraße - einstimmig beschlossen
+- TOP 22: Sachstand Umbau Stadthaus - einstimmig beschlossen
+- TOP 23: JVA Ulmenstraße - einstimmig beschlossen
+- TOP 24: Schwannstraße - einstimmig beschlossen
+- TOP 25: Konrad-Adenauer-Platz - einstimmig beschlossen
+- TOP 26: Franklinstraße - mehrheitlich beschlossen
+- TOP 27: Baumpflanzung Nordstraße - einstimmig beschlossen
+- TOP 28: Franklinhof - passieren lassen
+- TOP 29: Kö-Graben - passieren lassen
+- TOP 30: Wohnungslose - passieren lassen
+- TOP 31: Franklinhof - Stellplätze - passieren lassen
+- TOP 32: Gedenkort Ulmer Höh - passieren lassen
+- TOP 33: Ausgrabungsfunde in der Altstadt - passieren lassen
+- TOP 34: Matthias-Claudius-Schule - beantwortet
+- TOP 35: Mitteilungen der Verwaltung - zur Kenntnis genommen
+- TOP 36: Sachstand EKISO - zur Kenntnis genommen
+- TOP 37: Plan Nr. 5479/068 - Ulmer Höh - Auslobung Gutachterverfahren - einstimmig beschlossen
+- TOP 38: Blumenkübel City-Ost e.V. - einstimmig beschlossen
+- TOP 39: Blumenkübel Nordstraße - einstimmig beschlossen
+- TOP 40: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 41: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf. - zur Kenntnis genommen
