@@ -1,0 +1,99 @@
+# öffentliche/nicht öffentliche Sitzung des Rates der Stadt Wuppertal
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-05-07T16:06:00+02:00
+- Ende: 2012-05-07T20:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8136
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8136
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Tagesordnung zur Sitzung - Stand: 04.05.2012 - 10.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00142066.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00142293.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 1.1: Haushaltsreden
+- TOP 1.2: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - Entgegennahme ohne Beschluss
+- TOP 1.3: Weitere Empfehlungen der Fachausschüsse zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - Entgegennahme ohne Beschluss
+- TOP 1.4: Weitere Empfehlungen der Fachausschüsse zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - ungeändert beschlossen
+- TOP 1.5: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - ungeändert beschlossen
+- TOP 1.6: Weitere Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltssanierungsplans 2012 - 2021 - ungeändert beschlossen
+- TOP 1.7: Änderungsantrag zum Entwurf des Haushaltssanierungsplanes für die Jahre 2012 - 2021 - ungeändert beschlossen
+- TOP 1.8: Änderungsantrag zum Entwurf des Haushaltssanierungsplanes für die Jahre 2012 - 2021 - abgelehnt
+- TOP 1.9: Politik hat Vorbildfunktion II - Reduzierung der Stadtbezirke - Nichtbefassung beschlossen
+- TOP 1.10: Politik hat Vorbildfunktion I - Verkleinerung des Rates - Nichtbefassung beschlossen
+- TOP 1.11: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Bergische Kooperation ausbauen - abgelehnt
+- TOP 1.12: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Förderung von Arbeitsplatzansiedlung und Stärkung des Wohnstandorts - abgelehnt
+- TOP 1.13: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Grund- und Gewerbesteuergarantie - abgelehnt
+- TOP 1.14: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" - Evaluation der Bettensteuer - abgelehnt
+- TOP 1.15: „Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Hundesteuer - abgelehnt
+- TOP 1.16: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Externe Ausschreibung des Betriebs der Stadthalle - abgelehnt
+- TOP 1.17: Änderungsantrag zu VO/0100/12 "Entwurf des Haushaltssanierungsplans 2012 - 2021" / Verkauf der Anteile an der Barmer Wohnungsbau AG - vertagen
+- TOP 1.18: Entwurf des Haushaltssanierungsplans 2012 - 2021 - geändert beschlossen
+- TOP 1.19: Anpassung des Entwurfs des Haushaltssanierungsplans 2012 -2021 an die formalen Vorhaben der Kommunalaufsicht - ungeändert beschlossen
+- TOP 1.20: Änderung der Entgeltordnung für den Zoologischen Garten - ungeändert beschlossen
+- TOP 1.21: Zweite Satzung zur Änderung der Hundesteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 1.22: Zweite Satzung zur Änderung der Vergnügungssteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 1.23: Änderung der Entgeltordnung des Stadtarchivs - geändert beschlossen
+- TOP 1.23.1: Einführung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 1.24: Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2012/2013 - Entgegennahme ohne Beschluss
+- TOP 1.25: Weitere Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 1.26: Weitere Empfehlungen der Fachausschüsse zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 1.27: Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 1.28: Weitere Empfehlungen der Bezirksvertretungen zum Entwurf des Haushaltsplans 2012/2013 - ungeändert beschlossen
+- TOP 1.29: Bürgerbeteiligung bei den Haushaltsplanberatungen: hier Ergebnisse des Meinungsforums im Internet - Entgegennahme ohne Beschluss
+- TOP 1.30: Entwurf des Haushaltsplans 2012/2013 - erledigt durch Beschluss zu einem anderen TOP
+- TOP 1.31: 1. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2012/2013 - ungeändert beschlossen
+- TOP 1.32: 2. Veränderungsnachweisung zum Haushaltsplan-Entwurf 2012/2013 - ungeändert beschlossen
+- TOP 1.33: Haushaltssatzung 2012/2013 - ungeändert beschlossen
+- TOP 1.34: Mittelfristige Finanzplanung - Entgegennahme ohne Beschluss
+- TOP 1.35: Stellenplan - geändert beschlossen
+- TOP 2: Fragestunde (nur Rat)
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Bergische Zusammenarbeit ausbauen - Bergische Kommission – Empfehlungsbericht der Kommission ‚Zukunft der Bergischen Region‘ zur Weiterentwicklung der regionalen Kooperation im Bergischen Städtedreieck - abgelehnt
+- TOP 4.2: Gemeinsame Sitzung der Räte der Bergischen Großstädte Remscheid, Solingen und Wuppertal - abgelehnt
+- TOP 4.3: Einrichtung von bilingualen Zweigen an Wuppertaler Schulen - zur Vorberatung verwiesen
+- TOP 4.4: Resolution Städtenetzwerk gegen Atomkraft - abgesetzt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Transparenz dient der Demokratie - abgelehnt
+- TOP 6: Ortsrecht
+- TOP 6.1: Ordnungsbehördliche Verordnung über die Aufhebung der Sperrzeit in Schank- und Speisewirtschaften in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.2: Neufassung der Entgeltordnung für den Stadtbetrieb Orchester und Konzerte - geändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Über- und außerplanmäßige Bereitstellung von Mitteln für 2011, Teil 3 - Entgegennahme ohne Beschluss
+- TOP 7.2: Entwurf des Jahresabschlusses der Stadt Wuppertal zum 31.12.2011 - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Gründung der Bergischen Gesellschaft für Ressourceneffizienz mbH - ungeändert beschlossen
+- TOP 8.2: Änderung des Gesellschaftsvertrages der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2010 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.4: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.5: Bestellung eines Abschlussprüfers für das Geschäftsjahre 2011 und 2012 der Jobcenter Wuppertal AöR - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Regionales Gewerbeflächenkonzept - ungeändert beschlossen
+- TOP 9.2: Regionales Positionspapier Wohnen - ungeändert beschlossen
+- TOP 9.4: Regionales Positionspapier Freizeitwirtschaft und Kulturlandschaft - ungeändert beschlossen
+- TOP 9.4.1: Neuaufstellung des Regionalplans - abgelehnt
+- TOP 9.5: Regionales Klimaschutzteilkonzept Erneuerbare Energien - ungeändert beschlossen
+- TOP 9.6: Regionalplanfortschreibung, hier: Regionales Klimaschutzteilkonzept Anpassung an den Klimawandel - Entgegennahme ohne Beschluss
+- TOP 9.7: Kommunale Stellungnahme zum Arbeitsentwurf "Leitlinien Regionalplanfortschreibung" der Bezirksregierung Düsseldorf - ungeändert beschlossen
+- TOP 9.8: Neuaufstellung Regionalplan - Prozessdarstellung - Entgegennahme ohne Beschluss
+- TOP 9.9: Bebauungsplan Nr. 1081 - Mittelstandspark VohRang - ungeändert beschlossen
+- TOP 9.10: Bebauungsplan Nr. 1147 - Konradswüste - - ungeändert beschlossen
+- TOP 9.11: Bebauungsplan Nr. 1166 - Wilhelmstraße / Rommelspütt - - Dringlichkeitsentscheidung genehmigt
+- TOP 9.12: Erhaltungs-und Gestaltungssatzung Sedansberg I Bereich Wachtelstraße - Siedlung Pastorat-Neufassung - ungeändert beschlossen
+- TOP 9.13: Bebauungsplan Nr. 1178 - Turmhof - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Erstmalige Einrichtung einer Gruppe im offenen Ganztag an der Peter-Härtling-Schule - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennungen
+- TOP 12.1: Neu-Besetzung des Aufsichtsrates der WSW Energie & Wasser AG - geändert beschlossen
+- TOP 12.2: Wahl des Vertreters der Jagdgenossenschaft in den Jagdbeirat der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.3: Bestellung eines beratenden Mitgliedes für den Ausschuss für Finanzen und Beteiligungssteuerung und gemeinsamen Betriebsausschuss APH/KIJU - ungeändert beschlossen
+- TOP 12.4: Gremienbesetzungen - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - abgesetzt
+- TOP 12.6: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.7: Bennung eines neues Vertreters im Ausschuss für Schule und Bildung - ungeändert beschlossen
