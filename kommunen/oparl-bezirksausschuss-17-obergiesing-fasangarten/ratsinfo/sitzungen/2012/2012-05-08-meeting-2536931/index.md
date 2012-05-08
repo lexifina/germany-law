@@ -1,0 +1,91 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-05-08T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536931
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536931
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Änderung der Schaltzeiten an der Signalanlage Martin-Luther-/Weinbauernstraße; Schreiben (E-Mail) des Internationalen Kultur- und Bildungsvereins Messestadt e.V. München
+- TOP 2.2.: Verkehrssituation Haltestelle Fockensteinstraße - Buslinie 54; Bürgerschreiben (E-Mail) vom 20.04.2012 - <div>qualifizierte Vertagung</div>
+- TOP 2.3.: Parklizenz / Parkraumproblem Untersbergstraße; Bürgerschreiben (E-Mail) vom 23.04.2012
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen; Antrag des BA 14 - Berg am Laim - vom 27.03.2012 mit der Bitte um Unterstützung
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche Tegernseer Platz 4; Beschlussvorlage des Kreisverwaltungsreferates vom 29.03.2012 (vertagt aus der Sitzung vom 10.04.2012) - <div>vertagt</div>
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Aufstellung einer neuen Zeitungsverkaufseinrichtung auf öffentlichem Grund, Edelweißplatz; Beschlussvorlage des Kreisverwaltungsreferates vom 27.02. und ergänzende Angaben vom 17.04.2012 - <div>nach Antrag</div>
+- TOP 0.1.: Anhörung zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) 5.1.3.1.1 Pöllatstraße 11; Neubau eines intergenerativen Nachbarschaftstreffs mit Stützpunkt "Wohnen im Viertel" - Vorbescheid; Anhörung vom 16.04.12 5.1.3.1.2 Fasangartenstraße; Neubau eines Einzelhauses (Fasangarten-/Marklandstraße) - Vorbescheid; Anhörung vom 10.04.2012 5.1.3.1.3 Zugspitzstraße 21; Dachgeschossausbau; Anhörung vom 05.04.2012 (vertagt aus der Sitzung vom 10.04.2012)
+- TOP 0.2.: Öffentlichkeitsphase zur Fortschreibung der Perspektive München, hier: Beteiligungsmöglichkeiten / Bitte um einen fachlichen Beitrag; Schreiben des Referates für Stadtplanung und Bauordnung vom 18.04.2012 mit der Bitte um Hinweise und Vorschläge bis 30.05.2012
+- TOP 0.3.: Grundsatzbeschluss Ersatzneubau Krematorium in Verbindung mit dem Umbau der denkmalgeschützten Aussegnungshalle am Ostfriedhof, St.-Martin-Straße 41; Beschluss des Gesundheitsausschusses vom 14.06.2012
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.2.1 SSW "Warung Bali", Tegernseer Landstraße 231; Mitteilung vom 03.04.12 5.1.4.2.2 Vereinswirtschaft SC 1906, St.-Martin-Straße 35; Mitteilung vom 10.04.12 5.1.4.2.3 SSW "Tito`s XXS", Weinbauernstraße 12; Mitteilung vom 18.04.12
+- TOP 0.3.: Unterrichtungen der Lokalbaukommission im Vollzug der Bayerischen Bauordnung 5.1.4.3.1 Schwanseestraße 64, Neubau einer Wohnanlage mit Tiefgarage; Bescheid vom 03.04.12
+- TOP 0.1.: Anhörungsrecht für den BA über die Ergebnisse der Vorplanung und die städtebaulichen Eckdaten (sog. Eckdatenbeschluss); Antrag des BA 5 - Au-Haidhausen - vom 28.03.2012 zur Kenntnis
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Jahresdokumentation "Sport in München 2011 - mit Ausblick auf 2012"; Schreiben des Referates für Bildung und Sport - Sportamt vom 19.04.2012 (2 Bände bei den Vorsitzenden des BA bzw. des UA einsehbar)
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Parkraummanagement; Parklizenzgebiet "Silberhornstraße"; Veränderung der Parkregelung im Bereich Tegernseer Landstraße Ostseite; Verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 16.03.2012
+- TOP 0.2.: Kostenloses Kurzzeitparken; Sitzungsvorlage Nr. 08-14 / V 08921; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012
+- TOP 0.3.: Leihradsysteme für München und seine Region - Status, Perspektiven und Erfolgsfaktoren darstellen; Sitzungsvorlage Nr. 08-14 / V 08485; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012
+- TOP 0.4.: Linienführung Buslinie 145; Bürgerschreiben bzw. übermittelte Antwortschreiben von MVG und Baureferat an Herrn Stadtrat Schmid
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Vollzug der abfall- und immissionsschutzrechtlichen Bestimmungen; Kompostieranlage der Landeshauptstadt an der Fasangartenstraße; Schreiben des Referates für Gesundheit und Umwelt vom 02.03.2012 mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 10.04.2012)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1 Aignerstraße 13; Bescheid vom 12.04.12 5.4.4.1.2 Wieskirchstraße 2; Bescheid vom 12.04.12 5.4.4.1.3 Cincinnatistraße 1 - 29; Bescheid vom 12.04.12 5.4.4.1.4 Schloß-Berg-Straße 10; Bescheid vom 19.04.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Anhörungverfahren für Sommerfest KiTa Little Giants am 21.06.2012 an der Kesselberg-/Raintaler Straße; Zuleitung des KVR vom 13.04.12 mit der Bitte um Stellungnahme bis 21.05.12
+- TOP 0.2.: * Anhörungverfahren für Veranstaltung "Balkongärtnern / Kontaktbörse für Bewegungswillige" am 22.05. und 05.06.2012 im Weißenseepark; Zuleitung des KVR vom 24.04.12 mit der Bitte um Stellungnahme bis 14.05.12
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Bewerbung der Landeshauptstadt München um die Ausrichtung der WALK21 Konferenz 2013 in München; Sitzungsvorlage Nr. 08-14 / V 09107; Beschluss des Ausschusses für Stadtplanung und Bauordnung gemeinsam mit dem Bauausschuss vom 18.04.2012 und der Vollversammlung des Stadtrats vom 25.04.2012
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
