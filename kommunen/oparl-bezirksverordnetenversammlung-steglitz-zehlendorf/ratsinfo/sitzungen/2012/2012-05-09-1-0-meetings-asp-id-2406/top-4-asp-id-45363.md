@@ -1,0 +1,7 @@
+# TOP 4: Bericht über die Arbeit des Zentrums für Familienplanung
+
+- Sitzung: 4. öffentliche Sitzung des Ausschusses für Gesundheit und Gleichstellung (2012-05-09)
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/agendaItems.asp?id=45363
+- Ergebnis: (offen)
