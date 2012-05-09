@@ -1,0 +1,62 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-05-09T17:00:00+02:00
+- Ende: 2012-05-09T19:10:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2819
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2819
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=55831
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 8. Sitzung der BVV am 09.05.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 8. Sitzung der BVV am 09.05.2012 - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 8. Sitzung der BVV am 09.05.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Bericht über Sanierung im MV - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.2: Rauchmelderpflicht endlich in Berlin durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Nachtbriefkästen in Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Verbesserung der Fahrgastinformation bei der S-Bahn - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Borsigwalde: 11. Ortsteil Reinickendorfs - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Ausstellung "Kinder haben Rechte" ins Rathaus Reinickendorf - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Einseitiges Halteverbot im Einmündungsbereich Thaterstr. durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Jahresbericht des Patientenfürsprechers des Vivantes Humboldt-Klinikums und der Komfort-Klinik am Humboldt-Klinikum für das Jahr 2011 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Ein Flughafen zieht um - Details zum Umzug - zurückgezogen
+- TOP 8.2: Zukunft der Cité Foch - beantwortet
+- TOP 8.3: Gemeinschaftsschule im Märkischen Viertel - beantwortet
+- TOP 8.3.1: Gemeinschaftsschule im Märkischen Viertel unterstützen - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Benennung eines / einer Partnerschaftsbeauftragten - vertagt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Parkverbot Borsigdamm Richtung Eisenhammer Weg - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Vermeidung Durchgangsverkehr in den Nebenstraßen in Hermsdorf - überwiesen
+- TOP 10.3: Flughafen Tegel – Nachnutzung (2): Ohne Flughafen trotzdem schnell zum Flughafen – Für eine schnelle und direkte ÖPNV-Anbindung zum Flughafen BER - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Denkmal des Monats - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Familienhebammen des Projekts Nordstern - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Gesundheitsangebote für Menschen mit Migrationshintergrund - überwiesen
+- TOP 12.2: Klauseln gegen rechtsextreme Aktivitäten - überwiesen
+- TOP 12.3: Informationsfluss der BVV sicherstellen - mit Änderungen in der BVV beschlossen
+- TOP 12.4: Anonymisierte Bewerbungen - überwiesen
+- TOP 12.5: Aktionstage "Zu Fuß zur Schule" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Grabstellen für Muslime - überwiesen
+- TOP 12.7: Bericht über die bauliche Umsetzung von Fußgängerüberwegen - überwiesen
+- TOP 12.8: Prignitz-Express - überwiesen
+- TOP 12.9: Klimaschutz durch Solaranlagen - überwiesen
+- TOP 12.10: Zeltinger Platz - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Aktive Stadtzentren einrichten - überwiesen
+- TOP 13.2: Anbindung Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Lichtfarbe der neuen Elektrobeleuchtung an alte Gasbeleuchtung anpassen! - ohne Änderungen in der BVV beschlossen
