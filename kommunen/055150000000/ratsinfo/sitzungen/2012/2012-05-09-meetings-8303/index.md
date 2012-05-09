@@ -1,0 +1,66 @@
+# 21. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-05-09T17:45:00+02:00
+- Ende: 2012-05-09T21:51:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/258
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8303
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8303
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00323556.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung eines neuen Ratsmitgliedes
+- TOP 2: Aktuelle Stunde
+- TOP 3: Eingänge und Mitteilungen
+- TOP 4: Anregungen gem. § 24 der Gemeindeordnung
+- TOP 4.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 4.2: Bürgeranregung gemäß § 24 GO NRW "Keine Urantransporte durch Münster" - mehrheitlich beschlossen
+- TOP 5: Anfragen von Ratsmitgliedern
+- TOP 6: Anregungen der Bezirksvertretungen
+- TOP 6.1: Flexible Kinderbetreuung in Randzeiten und Notfällen einrichten - verwiesen
+- TOP 7: Anregungen des Integrationsrates
+- TOP 8: Anregungen der Kommunalen Seniorenvertretung Münster an den Rat
+- TOP 9: Fragestunde für Einwohnerinnen und Einwohner
+- TOP 10: Aktuelle Haushaltsentwicklung 2012 - zur Kenntnis genommen
+- TOP 11: Städtisches Stadion Hammer Straße - Erhaltungs und Sanierungsmaßnahmen - mehrheitlich geändert beschlossen
+- TOP 11.1: Städtisches Stadion Hammer Straße - Erhaltungs und Sanierungsmaßnahmen
+- TOP 12: Taxitarife - von der Tagesordnung abgesetzt
+- TOP 13: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mite, Bereich Hammer Straße, für das Kalenderjahr 2012 - mehrheitlich beschlossen
+- TOP 14: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster/Mitte, Altstadt/Bahnhofsviertel, für das Kalenderjahr 2012 - 2. Advent - mehrheitlich abgelehnt
+- TOP 15: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 16: Betrauungsakt für die Wirtschaftsförderung Münster GmbH und Änderungen des Gesellschaftsvertrages der Wirtschaftsförderung Münster GmbH - einstimmig beschlossen
+- TOP 17: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2011 - mehrheitlich geändert beschlossen
+- TOP 18: Künftige Nutzung der Stadthalle Hiltrup - von der Tagesordnung abgesetzt
+- TOP 19: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - von der Tagesordnung abgesetzt
+- TOP 20: Errichtung einzelner Windenergieanlagen an Standorten außerhalb der im Flächennutzungsplan der Stadt Münster dargestellten Konzentrationszonen für Windenergieanlagen - von der Tagesordnung abgesetzt
+- TOP 21: Freie Szene Am Hawerkamp -Selbstverwaltungsmodell- - zur Kenntnis genommen
+- TOP 22: Ersatzbauten und Ergänzung der Gebäude der Flüchtlingsunterkunft auf dem städtischen Grundstück Grevener Straße 217 - Errichtungs- und Baubeschluss - einstimmig beschlossen
+- TOP 23: Anbieterneutrale Beratung und Hilfeplanung der wohnbezogenen Hilfen für Menschen mit besonderen sozialen Schwierigkeiten (§ 67 SGB XII) - einstimmig beschlossen
+- TOP 24: Aufnahme des Zentrums für ambulante Rehabilitation als neues Mitglied in die Kommunale Gesundheitskonferenz - einstimmig beschlossen
+- TOP 25: Bauleitplanung
+- TOP 25.1: Stadtbezirk Münster-Mitte
+- TOP 25.2: Stadtbezirk Münster-West
+- TOP 25.2.1: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 25.2.2: Bebauungsplan Nr. 527 - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - einstimmig beschlossen
+- TOP 25.2.2.1: Bebauungsplan Nr. 527 - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung
+- TOP 26: Anträge von Ratsmitgliedern nach § 3 Abs. 1 der Geschäftsordnung des Rates (sofortige Beschlussfassung)
+- TOP 26.1: Schluss mit Bürokratiewahnsinn - mehrheitlich abgelehnt
+- TOP 27: Anträge von Ratsmitgliedern nach § 3 Abs. 2 der Geschäftsordnung des Rates (Verweisung an den Hauptausschuss)
+- TOP 27.1: Wim Wenders Bilderwelten in Münster - verwiesen
+- TOP 27.2: Wahlplakatierung - verwiesen
+- TOP 27.3: Gleichstellung ernst nehmen - Bewerbungsverfahren anonymisieren - verwiesen
+- TOP 27.4: Realistische Ersatzlösung für den SC Westfalia auf den Weg bringen - Verlagerung der Sport- und Vereinsflächen auf die Bezirkssportanlage Kinderhaus prüfen - verwiesen
+- TOP 27.5: Zuständigkeit des AUB für kommunalen Klimaschutz - verwiesen
+- TOP 27.6: Verkehrskonzept für das Hafenviertel entwickeln - Zusammenarbeit mit Anwohnern, Nutzern, Unternehmern und Eigentümern verbessern - verwiesen
+- TOP 27.7: Qualitätsentwicklung im Offenen Ganztag - auf dem Weg zum guten Ganztag für alle - verwiesen
+- TOP 28: Regelung des Verfahrens zur Wahl der Kommunalen Seniorenvertretung Münster 2012 - einstimmig beschlossen
+- TOP 29: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - einstimmig beschlossen
+- TOP 30: Änderung des Verfahrens zur Vergabe von Zuschüssen aus der Gewinnausschüttung der Sparkassen Münsterland-Ost - einstimmig beschlossen
+- TOP 31: Bestellung eines Mitglieds des Umlegungsausschusses - einstimmig beschlossen
+- TOP 32: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 33: Verschiedenes
