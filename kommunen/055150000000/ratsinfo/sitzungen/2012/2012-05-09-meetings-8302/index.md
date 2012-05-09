@@ -1,0 +1,59 @@
+# 20. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-05-09T17:17:00+02:00
+- Ende: 2012-05-09T21:26:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8302
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8302
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00323595.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Antrag der Fraktion DIE LINKE. Nr. A-R/0017/2012 "Runder Tisch gegen Rechts" - einstimmig geändert beschlossen
+- TOP 2.2: Antrag der CDU-Fraktion Nr. A-R/0060/2011 - einstimmig beschlossen
+- TOP 2.3: Antrag der Fraktion DIE LINKE Nr. A-R/0018/2012 an den Rat der Stadt Münster vom 12.03.2012 "Zweckentfremdungsverordnung" - einstimmig beschlossen
+- TOP 2.4: Antrag der Fraktion DIE LINKE. an den Rat A-R/0015/2012 vom 12.03.2012: Diskriminierung nicht fördern - mehrheitlich geändert beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion an den Rat Nr. A-R/0006/2012 "Süchte älterer Menschen erkennen und handeln" - einstimmig beschlossen
+- TOP 2.6: Antrag der Fraktion DIE LINKE Nr. A-R/0003/2012 "Gentechnikfreies Essen" vom 25.01.12 - einstimmig beschlossen
+- TOP 3: Kommunale Entwicklungszusammenarbeit - Gewährung von Zuschüssen (Projektförderung 2012) - einstimmig beschlossen
+- TOP 4: Überprüfung der weitgespannten Tragwerke in Städtischen Gebäuden - von der Tagesordnung abgesetzt
+- TOP 5: Errichtung einer neuen Sporthalle für das Ostviertel - einstimmig beschlossen
+- TOP 5.1: Errichtung einer neuen Sporthalle für das Ostviertel
+- TOP 6: Peter-Wust Schule, Neubau einer Zweifachsporthalle und perspektivische Erweiterung der Schule in zwei Bauabschnitten - einstimmig beschlossen
+- TOP 6.1: Peter-Wust Schule, Neubau einer Zweifachsporthalle und perspektivische Erweiterung der Schule in zwei Bauabschnitten
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 7: Aktuelle Haushaltsentwicklung 2012 - ohne Beschlussfassung geschoben
+- TOP 8: Städtisches Stadion Hammer Straße - Erhaltungs und Sanierungsmaßnahmen - ohne Beschlussfassung geschoben
+- TOP 8.1: Städtisches Stadion Hammer Straße - Erhaltungs und Sanierungsmaßnahmen
+- TOP 9: Taxitarife - von der Tagesordnung abgesetzt
+- TOP 10: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mite, Bereich Hammer Straße, für das Kalenderjahr 2012 - ohne Beschlussfassung geschoben
+- TOP 11: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster/Mitte, Altstadt/Bahnhofsviertel, für das Kalenderjahr 2012 - 2. Advent - ohne Beschlussfassung geschoben
+- TOP 12: Bürgeranregung gemäß § 24 GO NRW "Keine Urantransporte durch Münster" - ohne Beschlussfassung geschoben
+- TOP 13: Satzung zur Änderung der Verwaltungsgebührensatzung der Stadt Münster - einstimmig beschlossen
+- TOP 14: Betrauungsakt für die Wirtschaftsförderung Münster GmbH und Änderungen des Gesellschaftsvertrages der Wirtschaftsförderung Münster GmbH - einstimmig beschlossen
+- TOP 15: Anpassung der Tarife der Verkehrsgemeinschaft Münsterland zum 01.08.2012 - einstimmig beschlossen
+- TOP 16: Künftige Nutzung der Stadthalle Hiltrup - von der Tagesordnung abgesetzt
+- TOP 17: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - von der Tagesordnung abgesetzt
+- TOP 18: Errichtung einzelner Windenergieanlagen an Standorten außerhalb der im Flächennutzungsplan der Stadt Münster dargestellten Konzentrationszonen für Windenergieanlagen - von der Tagesordnung abgesetzt
+- TOP 19: Freie Szene Am Hawerkamp -Selbstverwaltungsmodell- - zur Kenntnis genommen
+- TOP 20: Ersatzbauten und Ergänzung der Gebäude der Flüchtlingsunterkunft auf dem städtischen Grundstück Grevener Straße 217 - Errichtungs- und Baubeschluss - ohne Beschlussfassung geschoben
+- TOP 21: Anbieterneutrale Beratung und Hilfeplanung der wohnbezogenen Hilfen für Menschen mit besonderen sozialen Schwierigkeiten (§ 67 SGB XII) - einstimmig beschlossen
+- TOP 22: Aufnahme des Zentrums für ambulante Rehabilitation als neues Mitglied in die Kommunale Gesundheitskonferenz - einstimmig beschlossen
+- TOP 23: Bauleitplanung
+- TOP 23.1: Stadtbezirk West
+- TOP 23.1.1: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - von der Tagesordnung abgesetzt
+- TOP 23.1.2: Bebauungsplan Nr. 527 - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung - ohne Beschlussfassung geschoben
+- TOP 23.1.2.1: Bebauungsplan Nr. 527 - Beschluss über die Stellungnahmen - Beschluss zur erneuten Offenlegung
+- TOP 24: Regelung des Verfahrens zur Wahl der Kommunalen Seniorenvertretung Münster 2012 - einstimmig beschlossen
+- TOP 25: Gewährung von Zuschüssen aus der Gewinnausschüttung der Sparkasse Münsterland Ost - ohne Beschlussfassung geschoben
+- TOP 26: Änderung des Verfahrens zur Vergabe von Zuschüssen aus der Gewinnausschüttung der Sparkassen Münsterland-Ost - ohne Beschlussfassung geschoben
+- TOP 27: Bestellung eines Mitglieds des Umlegungsausschusses - einstimmig beschlossen
+- TOP 28: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 29: Verschiedenes
