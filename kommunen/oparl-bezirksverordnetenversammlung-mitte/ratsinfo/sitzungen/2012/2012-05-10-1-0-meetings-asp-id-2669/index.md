@@ -1,0 +1,94 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2012-05-10T17:30:00+02:00
+- Ende: 2012-05-10T23:00:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2669
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2669
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=85965
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - ohne Änderungen im Ausschuss beschlossen
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Extremismusklausel zu den Akten legen! - beantwortet
+- TOP 5.2: Bibliothek als Ort für das Zusammentreffen und für die Auseinandersetzung mit unterschiedlichen Biografien (Drs. 0027/IV Living Library) - beantwortet
+- TOP 5.3: Informieren ist wichtig: Schließung des barrierefreien WCs im Rathaus Mitte wegen Sanierung - beantwortet
+- TOP 5.4: Dienstgebäude Karl-Marx-Allee 31 - beantwortet
+- TOP 5.5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Belegungsgebundene Wohnungen - Plant der Bezirk Freistellung von der Belegungsbindung? - beantwortet
+- TOP 6.2: 500 Arbeitsplätze in Mitte gefährdet! - beantwortet
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Auszug des Bezirksamtes aus dem Rathausturm am Standort Wedding - beantwortet
+- TOP 7.2: Illegale Altkleidersammelcontainer weiter bekämpfen - beantwortet
+- TOP 7.3: Mauerpark: Was sagen die 3 Weisen? - beantwortet
+- TOP 7.4: Ehemaliges Seniorenwohnhaus des Bezirksamtes Mitte Lehrter Straße 67 / Seylitzstraße 21/22 - Die restlichen SeniorInnen: "Hilflos und vergessen"!? - beantwortet
+- TOP 7.5: Sparrücklagen der Schulen von 2,2 Millionen Euro - beantwortet
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Doppelbezirkshaushaltsplans Mitte für die Haushaltspläne 2012 und 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Bebauungsplan 1-56B (westlich Brunnenstraße, südlich Anklamer Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-56B - überwiesen
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Beschluss über den Erlass einer Veränderungssperre mit der Bezeichnung 1-59/22 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplans 1-59 liegende Grundstück Brunnenstraße 183 und Entscheidung über die beigefügte Rechtsverordnung - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Erlass einer Veränderungssperre mit der Bezeichnung 1-74B/20 für das im Geltungsbereich des im Verfahren befindlichen Bebauungsplanentwurfes 1-74B (nördlich Nettelbeckplatz) für das Gelände zwischen Reinickendorfer Straße, Plantagen-, Adolf-, Scherer-, Wiesenstraße, Kösliner Straße und Weddingstraße sowie für die Grundstücke Pankstraße 88 – 92, Reini-ckendorfer Straße 19 – 26 und 110A und Weddingstraße 6 – 7 liegende Grundstück Pankstraße 87 – 88, Reinickendorfer Straße 21 – 24 im Bezirk usw. - ohne Änderungen in der BVV beschlossen
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Ernst Busch Hochschule - ab in die Mitte! - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Eine Sporthalle für das Lessing-Gymnasium - ohne Änderungen in der BVV beschlossen
+- TOP 11.3: Antrag zum Entwurf des Doppelbezirkshaushaltsplanes Mitte für die Jahre 2012 und 2013 zum Kapitel 3911, Titel 68128 "Hilfe zur Pflege nach SGB XII und AsylBLG" - in der BVV abgelehnt
+- TOP 11.4: Besetzung von Ausschüssen hier: Wahl von stellvertretenden Bürgerdeputierten im Ausschuss für Wirtschaft,Arbeit und Ordungsamt - ohne Änderungen in der BVV beschlossen
+- TOP 11.5: Feste im Lustgarten - ohne Änderungen in der BVV beschlossen
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Besetzung des Hauptausschusses hier: Wahl einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Besetzung des Ausschusses für Wirtschaft und Arbeit hier: Wahl eines Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.3: Integration behinderter Menschen - überwiesen
+- TOP 12.4: Ersatz-Standort für den Weihnachtsmarkt und für das Gauklerfest am Opernpalais - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Änderung der GO der BVV §50(3) - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.6: Barrierefreie Homepage der Stadt Berlin - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Kinder- und Jugendrechte stärken -politische Entscheidungen auf den Prüfstand - in der BVV abgelehnt
+- TOP 12.8: Allris RSS-Feed: Abo für Drucksachen - überwiesen
+- TOP 12.9: Steuerung der Fallkosten bei der ambulanten Hilfe zur Pflege (I) - überwiesen
+- TOP 12.10: Exportierbarer Sitzungskalender - überwiesen
+- TOP 12.11: Eine politische Lösung: Verantwortung für Schulsekretärinnen abgeben - überwiesen
+- TOP 12.12: Steuerung der Fallkosten bei der ambulanten Hilfe zur Pflege (II) - überwiesen
+- TOP 12.13: Auszug aus dem Rathausturm bis spätestens 30.06.2012 - überwiesen
+- TOP 12.14: Erlass einer Satzung gemäß §172, Abs.2 Baugesetzbuch für die Wohngebiete im nördlichen Moabit - überwiesen
+- TOP 12.15: Familienzentren - Landesmittel sinnvoll einsetzen - überwiesen
+- TOP 12.16: Mehr BVG zum Plötzensee - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Erstellung eines Altenhilfeplanes im Bezirk-Mitte oder "Moderne Generationenpolitik in Mitte" - überwiesen
+- TOP 12.18: Grünanlagen für Sport und Bewegung öffen! - überwiesen
+- TOP 12.19: Kostendeckende Außentrauungen - überwiesen
+- TOP 12.20: Monbijoupark: Bürgerbeteiligung nicht erst, wenn die Messen gesungen sind? - ohne Änderungen in der BVV beschlossen
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 14: Entschließungen - (offen)
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Brandmelder Wohnhäuser - ohne Änderungen in der BVV beschlossen
+- TOP 15.2: Integration von behinderten Menschen in die Arbeitswelt fördern - Teil II - ohne Änderungen in der BVV beschlossen
+- TOP 15.3: Dialog zwischen Bürgerschaft und Politik ermöglichen - ohne Änderungen in der BVV beschlossen
+- TOP 15.4: Auftaktveranstaltung Sanierungsgebiet Nördliche Luisenstadt II: Wake Me Up Before You Go-Go - ohne Änderungen in der BVV beschlossen
+- TOP 15.5: Zeitnahe Kostenübernahme im Rahmen der Hilfe zur Pflege für Schwerstpflegebedürftige - ohne Änderungen in der BVV beschlossen
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Runder Tisch Wohnungsbaugesellschaften - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.2: Mehr Informationen über Bezirks- und Landespolitik verfügbar machen: Öffentliches WLAN-Angebot schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.3: Beim Essen Klima schützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.4: Benennung einer Durchwegung zwischen See- und Ungarnstraße nach Elisabeth Schmitz - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.5: Rotes Rathaus bleibt Rotes Rathaus - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.6: Entwicklung und Verwendung von Stiftungsmitteln der Erika-Heß-Stiftung im Haushaltsjahr 2011 - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.7: Konkretisierung städtebaulicher Sanierungsziele für die Nördliche Luisenstadt - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.8: Teilung des Bebauungsplanes 1-62 „Baufelder Heidestraße“ im Bezirk Mitte, Ortsteile Mitte und Moabit, in die Bebauungspläne 1-62a „Heidestraße West“, 1-62b „Heidestraße Ost“ und 1-62c „Döberitzer Straße Süd“ und die Durchführung der öffentlichen Auslegungen gemäß § 3 Abs. 2 Baugesetzbuch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.9: Verbraucherinformationsgesetz bürgerfreundlich umsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 16.10: Kurz-, mittel- und langfristige Umsetzung des "Übereinkommens über die Rechte von Menschen mit Behinderungen" - vertagt
+- TOP 16.11: Petriplatz - Teil des Gedächtnisses der Stadt - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.12: Zuschüsse für bürgerschaftliche Initiativen transparent gestalten - vertagt
+- TOP 16.13: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für das C/O-Ausstellungsforum in Mitte - vertagt
