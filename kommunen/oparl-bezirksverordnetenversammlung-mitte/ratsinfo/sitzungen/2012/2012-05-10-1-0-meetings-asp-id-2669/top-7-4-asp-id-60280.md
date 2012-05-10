@@ -1,0 +1,8 @@
+# TOP 7.4: Ehemaliges Seniorenwohnhaus des Bezirksamtes Mitte Lehrter Straße 67 / Seylitzstraße 21/22 - Die restlichen SeniorInnen: "Hilflos und vergessen"!?
+
+- Sitzung: 8. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin (2012-05-10)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=60280
+- Ergebnis: beantwortet
+- Beratung: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/consultations.asp?typ=i&id=60280
