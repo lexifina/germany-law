@@ -1,0 +1,89 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-05-14T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455327
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455327
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Umgestaltung Spielplatz Am Hedernfeld
+- TOP 1.2.: Antrag auf Parkverbot im Bereich der Tiefgarageneinfahrt der Anwesen Stiftsbogen 63 - 81 a
+- TOP 1.3.: Archivraum für den Geschichtsverein Hadern e.V.
+- TOP 1.4.: Sauberkeit in der Blumenau
+- TOP 1.5.: Aufhebung der Radwegbenutzungspflicht Senftenauerstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 3.3.: Gemeinsamer UA Soziales und UA Kinder / Jugend / Schule / Sport 1. Termin am 17.04.2012 2. Termin am 19.04.2012 3. Termin am 02.05.2012
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, Kath. Pfarrei Fronleichnam, Kauf eines Zeltes (Direktorium, 19.04.12)
+- TOP 5.2.: Budget der Bezirksausschüsse, Förderverein der Grundschule Canisiusplatz e.V., Erste-Hilfe-Maßnahmen vom 11. - 29.06.2012 (Direktorium, 19.04.12)
+- TOP 5.3.: Budget der Bezirksausschüsse, Regsam e.V., Haderner Jugendkulturtag am 30.06.2012 (Direktorium, 30.04.12)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Gelbhofstraße 6, Umbau und Aufstockung eines Kindergartens / einer Kinderkrippe (Referat für Stadtplanung und Bauordnung, 29.03.12) (vertagt aus 04/12)
+- TOP 6.2.: Verlegung der Endhaltestelle "Wastl-Witt-Straße" für die MVG-Linie 168 (MVG, 19.04.12)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Neufriedenheimer Straße 71, Straßenfest Musischer Kindergarten Gittner am 23.06.2012 (Kreisverwaltungsreferat, 16.04.12)
+- TOP 6.4.: Öffentlichkeitsphase zur Fortschreibung der Perspektive München - Beteiligungsmöglichkeiten - Bitte um einen fachlichen Beitrag (Referat für Stadtplanung und Bauordnung, 18.04.12)
+- TOP 6.5.: Genehmigung des Haderner Jugendkulturtages am 30.06.2012 (REGSAM, 08.05.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Gräfelfinger Straße 83, 1 Linde
+- TOP 7.2.: Kornwegerstraße 55, 1 Ahorn
+- TOP 7.3.: Krokusstraße 59, 1 Spitzahorn und 1 Rotbuche
+- TOP 7.4.: Plazerstraße 6, 9 Fichten und 1 Lärche
+- TOP 7.5.: Willibaldstraße 116, 1 Nordmanntanne
+- TOP 7.6.: Wastl-Witt-Straße 5 - 9, 1 Robinie und 2 Ahornbäume
+- TOP 7.7.: Haseneystraße 36, 1 Konifere
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Niederhedernstraße (Sozialreferat, 23.04.12)
+- TOP 8.2.: Informationsflyer "Baumaßnahmen der SWM", 1. Halbjahr 2012 für den BA (SWM, 27.03.12)
+- TOP 8.3.: Baumaßnahmen der SWM, Stromprojekt Netztrafostation Rolf-Pinegger-Straße, Änderung im Terminablauf (SWM, 18.04.12)
+- TOP 8.4.: Information der Bezirksausschüsse, Neue Bädereintrittspreise (SWM, 03.04.12)
+- TOP 8.5.: Unveränderte Fortführung eines Gaststättenbetriebs: - "Cafehaus", Ossingerstraße 4 (Kreisverwaltungsreferat, 16.04.12) - "Hofmann", Gräfelfinger Straße 119 (Kreisverwaltungsreferat, 19.04.12)
+- TOP 8.6.: Jahresdokumentation "Sport in München 2011 - mit Ausblick auf 2012" (Referat für Bildung und Sport, 19.04.12)
+- TOP 8.7.: Straßenbauarbeiten in der Kriegerheimstraße zwischen Würmtalstraße und Lorettoplatz vom 15.05.2012 - 29.06.2012 (Baureferat, 07.05.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Aufhebung der Radwegbenutzungspflicht in der Senftenauerstraße (Kreisverwaltungsreferat, 17.04.12 und PI 41, 29.03.12)
+- TOP 9.2.: Verkehrssituation in der Waldwiesenstraße (Baureferat, 10.04.12)
+- TOP 9.3.: Waldfriedhof: - Akustik der Aussegnungshalle - Beschilderung - Toilettensituation (Referat für Gesundheit und Umwelt, 20.04.12)
+- TOP 9.4.: Toilettenanlage Lorettoplatz Buswendeschleife (Kommunalreferat, 19.04.12)
+- TOP 9.5.: Anliegerinformation zum Ausbau der Schröfelhofstraße (Baureferat, 08.05.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 10.1.: sb-Geschäftsstelle Haderner Stern (Stadtsparkasse München, 12.04.12)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Anträge des BA 21 Pasing-Obermenzing vom 17.04.2012: - Planung der Schulen an der Grandlstraße - Stopp des Feldversuchs mit Gigalinern; keine Routen über die A 8
+- TOP 11.2.: Flyer Infoabende des Bauzentrums Mai - Juli 2012 (Referat für Gesundheit und Umwelt, 11.04.12)
+- TOP 11.3.: Broschüre "Das Referat für Bildung und Sport auf einen Blick"
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 21.03.2012 (in der Fassung der Beschlussseite) zur Sitzungsvorlage-Nr. 08-14 / V 07948: PERSPEKTIVE MÜNCHEN Aktualisierung Leitlinie Ökologie Themenschwerpunkt: Klimawandel und Klimaschutz Öffentlichkeitsphase und Einarbeitung Auf die vom Planungsreferat erstellte inhaltliche Auslegung des Beschlusses (2 Seiten) wird Bezug genommen.
+- TOP 12.2.: Beschluss vom 21.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08797 (nach Antrag unter Berücksichtigung des Änderungsantrages vom 07.03.2012 in Anlage 1): Ökologischer Kriterienkatalog, insbesondere Abschnitt 1, lit. a - c
+- TOP 12.3.: Beschluss vom 21.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08905 (nach Antrag): Novellierung des Bayerischen Landesplanungsgesetzes (BayLplG), insbesondere zur Fortentwicklung des Landesentwicklungsprogramms (LEP)
+- TOP 12.1.: Beschluss vom 25.04.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09107: Bewerbung der Landeshauptstadt München um die Ausrichtung der "WALK21 Konferenz 2013" in München Auf Punkt 3 des neugefassten Referentenantrages wird hingewiesen (S. 3).
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08770 (nach Antrag in der Fassung vom 26.03.2012): Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, insbesondere - zur Elternzeitvertretung des Vereins für Sozialarbeit e.V. und des Nachbarschaftstreffs Blumenau (62.960,- ? in 2012 nach 56.700,- ? in 2011 gem. Gesamtübersicht Abschnitt 4.1.7, S.2 ), - zur "Nachbarschaft Kleinhadern, Na klar!" (30.000,- ? in 2012 nach 15.010,- ? in 2011), - zum Projekt der Firma "KOMPRO München Krokusstraße GmbH & Co. KG / WF" in der Krokusstr. 73 (je 3.120,- ? in 2008 - 2013) Die Neufassung des Referentenantrages betrifft den Stadtbezirk 12 (Anlage 2, Produkt 4.1.7/27, S. 1 und 3).
+- TOP 12.2.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08740 (nach Antrag): Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Stadtjugendamtes, insbesondere - zum Kinderhaus am Wolkerweg (198.149,- ?), - zum Projekt "PfiffTEEN Treffpunkt für Jugendliche" (307.167,- ?, beide in Anlage 1 a, Abschnitt 3.1.1, S.2 unten), sowie - zum "Treff 21, schule-beruf e.V." (341.335,- ?, S. 3), - zum "Studio im Netz (SiN) e.V." (81.567,- ?, S. 5), - zur "Schulsozialarbeit an 7 Grundschulen" des BJR, des "Münchner Trichters", des DPWV und des DW in mehreren Stadtbezirken (342.159,- ? in Abschnitt 3.1.2, S. 1), - zum "Familienzentrum Hadern - Blumenau" des DPWV (63.346,- ? in 2012 nach 62.675,- ? in 2011, Differenz 671,- ? = Budgetumschichtung von Nr. 17 a für das "Fachpersonal der Mütter-, Väter- und Familienzentren", deren besonderer Ansatz in 2012 aufgelöst wird, Abschnitt 3.2.1., S. 1) und - zur "Nachbarschaft Neuhadern Bewohnertreff" (98.518,- ?, Abschnitt 3.2.2, S. 1)
+- TOP 12.3.: Beschluss des Sozialausschusses in der gemeinsamen Sitzung des Kinder- und Jugendhilfeausschusses und des Sozialausschusses vom 27.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08682 (nach Antrag): Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Soziale Sicherung, insbesondere gemäß Anlage 1 a (S. 4) - zum ASZ Kleinhadern - Blumenau (207.101,- ?), - zur Altenwohnanlage Konrad-Dreher-Straße 19 - 23 (50.267,- ? auf S. 9 unten)
+- TOP 12.4.: Beschluss des Kinder- und Jugendhilfeausschusses und des Sozialausschusses in der gemeinsamen Sitzung vom 27.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08669 (nach Antrag): Zuschussnehmerdatei 2012, Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Sozialreferates / Zentrale, insbesondere zum überregionalen Projekt "REGSAM" (525.365,- ?), sonst keine Einzelprojekte in Hadern (Anlage 1, Abschnitt 7.3.2/1, S. 3)
+- TOP 12.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08117 (nach Antrag): Förderung von Genossenschaften und Baugemeinschaften in München (Die Ausführungen des Planungsreferates dienen der Kenntnisnahme.)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08485: Leihradsysteme für München und seine Region - Status, Perspektiven und Erfolgsfaktoren darstellen (Das Planungsreferat will sich weiterhin mit der Thematik befassen und dem Stadtrat wieder berichten.)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08921: Kostenloses Kurzzeitparken (Abgelehnt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 12.1.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08806: Beschlussvollzugskontrolle (BVK); Bericht über die der BVK unterliegenden Beschlüsse des Ausschusses für Stadtplanung und Bauordnung und der Vollversammlung des Stadtrates im Zeitraum vom 01.07.2011 - 31.12.2011, insbesondere - zum Parkraum-Management (Anlagen 2, 3 und 6), - zu den P+R-Anlagen (Anlage 5), - zu den B+R-Anlagen (Anlage 5) und - zur Wohnraumversorgung (Anlage 7)
+- TOP 12.2.: Bekanntgabe in der Sitzung des Ausschusses für Stadtplanung und Bauordnung vom 28.03.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08792: Wanderungsmotivuntersuchung II - 2010 / 2011 (Im Stadtbezirk Hadern ziehen 60 - 80 Haushalte zu, S. 7)
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
