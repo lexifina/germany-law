@@ -1,0 +1,66 @@
+# Stadtrat (21. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-05-15T17:00:00+02:00
+- Ende: 2012-05-15T19:44:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZdDDPdZNC8EgpNx9VUmv-6Q
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12733
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdOLjWJbO6Z54fAYDVkzzNJtDd__WCZBGu1D1h0c-grH/Bekanntmachung_Stadtrat_15.05.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZdE1U1Be_mqrGsdqJtzUX1uyT90la5v3GHsECfyQJ4y5/Oeffentliche_Niederschrift_Stadtrat_15.05.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einführung eines neuen Stadtverordneten
+- TOP 2.: Umbesetzung von Ausschüssen und Gremien
+- TOP 2.1: Umbesetzung von Ausschüssen hier: Antrag der CDU-Fraktion
+- TOP 2.2: Umbesetzung von Ausschüssen hier: Antrag der SPD-Fraktion
+- TOP 2.3: Umbesetzung von Ausschüssen und Gremien hier: Umbesetzung von Räten städtischer Kindertageseinrichtungen
+- TOP 2.4: Umbesetzung des Jugendhilfeausschusses im Bereich der beratenden Mitglieder
+- TOP 3.: Erlass von Ortsrecht
+- TOP 3.1: 14. Satzung zur Änderung der Hauptsatzung der Stadt Kerpen; hier: 1. Führung der Zusatzbezeichnung „Kolpingstadt“ 2. Festlegung der Aufwandsentschädigung für die Ortsvorsteher/innen
+- TOP 3.2: 10. Änderung der Vergabeordnung der Stadt Kerpen
+- TOP 3.3: 3.Änderung der Satzung der Stadt Kerpen über die Erhebung von Elternbeiträgen
+- TOP 3.4: Entgeltordnung für die Bäder der Stadt Kerpen
+- TOP 4.: Aktualisierung der Prognose der Schülerzahlen - (kein Text vorhanden)
+- TOP 5.: Verfahren Bewerbungen Beigeordnete/r
+- TOP 6.: Übersicht über die Ermächtigungsübertragungen aus dem Jahre 2011
+- TOP 7.: Errichtung und Betrieb einer Photovoltaik-Anlage auf einem Immissionsschutzwall in Buir hier: Gründung der Energiepartner Kerpen GmbH
+- TOP -: Ergänzungsvorlage zu TOP 7
+- TOP 1: Errichtung und Betrieb einer Photovoltaik-Anlage auf einem Immissionsschutzwall in Buir hier: Gründung der Energiepartner Kerpen GmbH
+- TOP 8.: Haushaltssatzung für das Haushaltsjahr 2012 einschließlich des Stellenplanes
+- TOP -: Ergänzungsvorlage zu TOP 8
+- TOP 1: Haushaltssatzung für das Haushaltsjahr 2012 einschließlich des Stellenplanes
+- TOP 9.: Stadtentwicklung und Bauleitplanung
+- TOP 9.1: 67. Änderung des Flächennutzungsplanes "Stiftsstraße" im Stadtteil Kerpen hier: Wirksamkeitsbeschluss
+- TOP 9.2: Verlängerung der Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE Nr. 339 "Sindorfer Straße" im Stadtteil Kerpen
+- TOP 9.3: Schaffung der Rechtsgrundlage für den hergestellten Teilbereich der Erschließungsanlage "Burgstraße", gelegen zwischen Broichmühlenstraße und Uhlandstraße im Stadtteil Kerpen hier: Beteiligung der Öffentlichkeit, der Träger öffentlicher Belange sowie der Behörden
+- TOP 9.4: Schaffung der Rechtsgrundlage für den hergestellten Teilbereich der Erschließungsanlage "Marienstraße", gelegen zwischen Kölner Straße und der ehemaligen Bahnanlege im Stadtteil Kerpen gem. § 125 (2) BauGB hier: Beteiligung der Öffentlichkeit, der Träger öffentlicher Belange sowie der Behörden
+- TOP 9.5: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 9.6: Bebauungsplan TÜ 345 "Wohnbebauung Platanenallee", Stadtteil Türnich 1. Aufstellungsbeschluss gem. § 2 (1) BauGB i.v.m. § 13a BauGB 2. Teilaufhebung des Bebauungsplanes Nr. 27 und Nr. 27/3. Änderung
+- TOP 9.7: Bebauungsplan SI 346 "Wohnanlage Breite Straße/Hüttenstraße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB i.V.m. § 13a BauGB
+- TOP 9.8: BP SI Nr. 346 "Wohnanlage Breite Straße/Hüttenstraße" im Stadtteil Sindorf; hier: Abschluss eines städtebaulichen Vertrages
+- TOP 9.9: Vereinbarung über die bergbauliche Inanspruchnahme der Kreisstraße K 4 sowie der Straßen und Wege im Eigentum bzw. der Baulast der Stadt Kerpen sowie der sich daraus ergebenden Ersatzmaßnahmen
+- TOP 10.: Sachstandsbericht zum Gutachten über den Sanierungsbedarf des Europagymnasiums
+- TOP 11.: Abschlussbericht über die Umsetzung der Maßnahmen aus dem Konjunkturpaket II
+- TOP 12.: Barrierefreie Umgestaltung von Bushaltestellen
+- TOP 13.: Außengelände Kindertagesstätte "Wunderkind" in Stadtteil Horrem
+- TOP 14.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 15.: Mitteilungen
+- TOP 16.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 17.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 17.1: Städtisches Grundstück Blatzheimer Weg am Sportplatz im Stadtteil Buir
+- TOP 17.2: Ausbaubeschluss für die St.-Quirinus-Straße im Stadtteil Mödrath
+- TOP 18.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 19.: Ergebnisse Interessenbekundungsverfahren Erftlagune
+- TOP 20.: Verkauf eines städtischen Grundstücks hier: Teilfläche aus dem Grundstück Gemarkung Kerpen, Flur 6, Flurstück 816
+- TOP 21.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 22.: Mitteilungen
+- TOP 23.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 24.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 25.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
