@@ -1,0 +1,92 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-05-15T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467650
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467650
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .1.: Umgestaltung Tal
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Bürger: Vergabe der Stände am Viktualienmarkt
+- TOP .1.: Vorstellung des Projekts ?Zwingermauer? und Entscheidung
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Hackenstraße 7: Instandsetzung, Umbau und Erweiterung eines Wohn-und Geschäftshauses mit Neubau, Tiefgarage (Vorbescheid)
+- TOP .2.: Zweibrückenstraße 11: Neubau eines Bürogebäudes (Tektur)
+- TOP .3.: Maximiliansplatz: Erweiterung der Freischankfläche
+- TOP .4.: Ländstraße 6: Nutzungsänderung eines Wohnheims in Boardinghaus und Wohnen
+- TOP .5.: Nachtrag: Hotterstraße 18: Nutzungsänderung EG und 1. OG
+- TOP .6.: NACHTRAG: Englischer Garten: Bauliche und gestalterische Entwicklung im Umfeld des Chinesischen Turms
+- TOP .7.: NACHTRAG: Altheimer Eck 1: Nutzungsänderung Wohn- in Gewerberäume
+- TOP .8.: NACHTRAG: Reitmorstraße 2a: DG-Umbau eines denkmalgeschützen Mehrfamilienhauses
+- TOP .9.: NACHTRAG: Rumfordstraße 5: Errichtung einer Freischankfläche
+- TOP .1.: Fortschreibung der Perspektive München
+- TOP .1.: UA: Reaktion auf die Antwort auf den BA-Antrag bzgl. der Fristen für Veranstaltungsanhörungen
+- TOP .2.1: Gaststätten
+- TOP .1.: Vereinsgaststätte ?Sub?, Müllerstraße 14: Genehmigung einer Freischankfläche
+- TOP .2.: ?Landersdorfer + Innerhofer Feinkoste?, Hackenstraße 10: Genehmigung einer Freischankfläche
+- TOP .3.: ?Comericial?, Theatinerstraße 16: Erweiterung einer bestehende Freischankfläche
+- TOP .4.: NACHTRAG: ?Ehemaliges Filmcasino?, Odeonsplatz 8: Genehmigung einer Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Rumfordstraße 43: Warenstellage
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Stabhoch- und Weitsprungveranstaltung ?Jump & Fly? am 05.06.2012, Odeonsplatz
+- TOP .2.: Festzug zum 125jährigen Jubiläum der Armbrust-Schützengilde ?Winzerer Fahndl? am 24.06.2012, Isartorplatz/Tal
+- TOP .3.: Isaraeltag am 16.06.2012, Max-Joseph-Platz
+- TOP .4.: Straßenfest am 14.07.2012 (Ersatztermin: 21.07.2012), Mariannenstraße
+- TOP .5.: Freibierausschank FC Bayern der Paulander Brauerei am 20,05.2012
+- TOP .6.: Informationsveranstaltung ?Überleben auf der Flucht? vom 19.07. - 22.07.2012, Odeonsplatz
+- TOP .7.: NACHTRAG: ?40 Jahre Condrops e.V.? am 22.06.2012, Odeonsplatz
+- TOP .8.: NACHTRAG: Streetlife Festival / Corso Leopold am 09./10.06.2012
+- TOP .9.: NACHTRAG: UniCredit Festspiel-Nacht am 23.06.2012, Kardina-Faulhaber-Straße
+- TOP .10.: NACHTRAG: Kunstprojekt THE FABRIC vom 15.-28.06.2012, Maximilianstraße/Thomas-Wimmer-Ring
+- TOP .11.: NACHTRAG: Kunstprojekt ?No Camp? vom 10.06.-08.07.2012, Grünfläche vor Maximilianstraße 42
+- TOP .12.: Stadtgründungsfest am 16./17.06.2012, verschiedene Orte
+- TOP .13.: Kunstaktion der Bayerischen Staatsoper am 23./24.06.2012, Odeonsplatz
+- TOP .14.: Nachtrag zur Anhörung: Fronleichnamsprozession ab Marienplatz am 07.06.2012
+- TOP .15.: Bennofest am 30.06.2012, Odeonsplatz
+- TOP .1.: Bürger: Illegales Parken in der Dürnbräugasse, Errichtung von Pollern
+- TOP .2.: UA: Bewirtschaftung des Behördenparkplatzes des Landschaftsministerium
+- TOP .1.: Baumfällung Reitmorstraße 54
+- TOP .2.: Baumfällung Sendlinger Straße 42-24a
+- TOP .3.: Baumfällung Oettingenstraße 20
+- TOP .4.: Baumfällung Kreuzstraße 9
+- TOP .5.: NACHTRAG: Vollsperrung vom Odeonsplatz bis zum Siegestor anlässlich der Feierlichkeiten zum Tag der Deutschen Einheit am 2. und 3. Oktober in München
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Kinderfest am St.-Anna-Platz" Kinderfest am St.-Anna-Platz am 16.06.2012
+- TOP 2: (E) Kulturverträglichkeit von Sondernutzungen (Ziffer 2)
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Init. "Under Construction" Ausstellung "Under Construction" vom 12.06. - 06.07.12
+- TOP 2.1.: Terminvorschläge für den Oktoberfest-Besuch 2012
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Schreiben des Planungsreferats zum Schreiben des BA 1 bzgl. der Verzögerungen der Wiederherstellung des Marienhofs, TOP 2012.02 A
+- TOP 0.3.: Beschluss des Planungsausschusses vom 02.05.2012: 42. städtischer Fassadenwettbewerb
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Antwortschreiben des AWM zur Anfrage des BA wegen einer Ansammlung von Mülltonnen an der Bruderstraße/Unsöldstraße, TOP 2012.03 A 3.3
+- TOP 0.6.: Widmungsfiktion des Platzes südlich der Schrannenhalle an der Blumenstraße
+- TOP 0.7.: Informationen zum Umzug der Bezirksinspektion Mitte
+- TOP 0.8.: Eilentscheidung des Vorsitzenden zu einer 1-stündigen Kunstaktionam 26.08.2012 auf dem Marienplatz
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: -
+- TOP 0.2.: Antwortschreiben der Unteren Naturschutzbehörde zum Fällungsantrag Oettingenstraße 20, TOP 2012.03 D 3.3
+- TOP 0.3.: Schreiben der Unteren Naturschutzbehörde zum Fällungsantrag Tattenbachstraße 10
+- TOP 0.4.: Beschluss des Planungsausschusses vom 02.05.2012: Kostenloses Kurzzeitparken
+- TOP 0.5.: Beschluss des Planungsausschusses vom 02.05.2012: Leihradsysteme für München und seine Regionen
+- TOP 0.1.: Beschluss des Planungsausschusses vom 18.04.2012: Bewerbung der LHM um die Ausrichtung der WALK21 Konferenz 2013 in München
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .3.2: Sonstige
