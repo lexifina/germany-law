@@ -1,0 +1,96 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-05-15T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2397434
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2397434
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers aus der Maxvorstadt wegen Lärmbelästigung durch eine Gaststätte in der Heßstraße (s. TOP C 2.3.3)
+- TOP 5.2.2.: Bürgerschreiben vom 26.04.2012 (s. TOP C 2.1.3) a) Häufigere Verkehrskontrollen entlang der Leopold- und Ludwigstraße durch die Polizei b) Abbau der Radverkehrsampel Ludwig-/Ecke Brienner Straße bzw. Angleichung der Grün phase der Fußgängerampel c) Radverkehrsampeln an den Ecken Ludwig-/Theresienstraße und Ludwig-/Schellingstraße durch Vorfahrtsschild und Zebrastreifen für Fußgänger ersetzen
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 14., 15., 16. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Karlstraße 47 a, Neubau eines Wohn- und Geschäftshauses, Tektur
+- TOP 2.1.4.: Vollzug der Baumschutzverordnung Max-Joseph-Straße 4, Umbau und Modernisierung Kammergebäude A+B+C (in Teilbe- reichen mit Nutzungsänderung)
+- TOP 2.1.5.: Vollzug der Baumschutzverordnung Adalbertstraße 49, Neubau eines Rückgebäudes
+- TOP 2.1.6.: Dachauer Straße 7, Nutzungsänderung: Laden zu Spielhalle und Table-Dance-Bar
+- TOP 2.1.7.: Zieblandstraße 45, DG-Aufstockung
+- TOP 2.1.8.: Erneuter Erlass der Erhaltungssatzung ?Georgen-/Zentnerstraße/Josephsplatz Anhörung zum Beschluss- und Satzungsentwurf
+- TOP 2.1.9.: Vollzug der Baumschutzverordnung Marsstraße 6-10, Umgestaltung ?Hotel Vi Vadi?
+- TOP 2.1.10.: Öffentlichkeitsphase zur Fortschreibung der Perspektive München
+- TOP 2.1.11.: Vollzug der Baumschutzverordnung Arcisstraße 57, Neubau/Erweiterung eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Rottmannstraße 8, 1 Robinie
+- TOP 2.2.2.: Barer Straße 82/84, ein Laubbaum
+- TOP 2.2.3.: Adelheidstraße 7, eine Kiefer
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Baureferat, Tiefbau Einrichtung einer Fahrradfurt in der Adalbertstraße zwischen Tengstraße und Isabella- straße; BA-Antrag Nr. 08-14 / B 03351 des BA 3 vom 11.10.2011
+- TOP 2.1.2.: Bezirksausschuss 21, Bitte um Unterstützung eines Antrags: Stopp des Feldversuchs mit Gigalinern; keine Routen über die A 8
+- TOP 2.1.3.: Bürgerschreiben vom 26.04.2012 (s. TOP A 5.2.2) a) Häufigere Verkehrskontrollen entlang der Leopold- und Ludwigstraße durch die Polizei b) Abbau der Radverkehrsampel Ludwig-/Ecke Brienner Straße bzw. Angleichung der Grünphase der Fußgängerampel c) Radverkehrsampeln an den Ecken Ludwig-/Theresienstraße und Ludwig-/Schellingstraße durch Vorfahrtsschild und Zebrastreifen für Fußgänger ersetzen
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Barer Straße 63, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Amalienstraße/Ecke Adalbertstraße Hs.Nr. 20, Zeitungsentnahmegerät für ?SZ?
+- TOP 2.2.3.: Baureferat, Beschlussvorlage Wegführung in Kunststeinplatten am Professor-Huber-Platz
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Theresienstraße 51, Genehmigung einer Freischankfläche
+- TOP 2.3.2.: Maximiliansplatz 9, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.3.: Schreiben eines Bürgers aus der Maxvorstadt wegen Lärmbelästigung durch eine Gast- stätte in der Heßstraße (s. TOP A 5.2.1)
+- TOP 2.3.4.: Nordendstraße 13, Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.5.: Luisenstraße 14, Genehmigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Basketballturnier in der Grünanlage Barer Straße, Alte Pinakothek am 09.06.2012 von 11.00 Uhr bis 21.00 Uhr
+- TOP 2.4.2.: Münchner Sportfestival am 01.07.2012 auf dem Königsplatz
+- TOP 2.4.3.: Feriensportkurs ?Skateboard-Workshop? auf der Skateanlage im Maßmannpark im August und September 2012
+- TOP 2.4.4.: Große Fronleichnamsprozession ab Marienplatz am 07.06.2012
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Bezirksausschuss 21, Bitte um Unterstützung eines Antrags: Halbjährlicher Sachstandsbericht zu allen Bauvorhaben des Referates für Bildung und Sport an den zuständigen Bezirksausschuss
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: 42. städtischer Fassadenwettbewerb; Fassadenpreise und Lobende Erwähnungen 2011 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 Sitzungsvorlage Nr. 08-14 / V 09151
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Busparkverbot in der Deroy- und Pappenheimstraße
+- TOP 2.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung nach § 45 Abs. 3 StVO: Kurzparkzone Marlene-Dietrich-Straße 12 (und 25)
+- TOP 2.3.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Antwortschreiben der BI Mitte auf das Schreiben eines Bürgers wegen Lärmbelästigung
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte Einrichten eines Radfahrstreifens auf der Südseite der Von-der-Tann-Straße
+- TOP 2.5.: Bewerbung der Landeshauptstadt München um die Ausrichtung der WALK21 Konferenz 2013 in München Beschluss der Vollversammlung vom 25.04.2012 Sitzungsvorlage Nr. 08-14 / V 09107
+- TOP 2.6.: Baumaßnahmen der Stadtwerke: a) Lenbachplatz 6/2, Fernwärme
+- TOP 2.7.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Aufhebung der Radwegbenutzungspflicht auf der Südseite des Oskar-von-Miller-Ringes zwischen Gabelsberger- und Kardinal-Döpfner-Straße und auf der Nordseite zwischen Fürsten- und Ludwigstraße
+- TOP 2.8.: Leihradsysteme für München und seine Region ? Status, Perspektiven und Erfolgsfaktoren darstellen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 Sitzungsvorlage Nr. 08-14 / V 08485
+- TOP 2.9.: Kostenloses Kurzzeitparken Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 Sitzungsvorlage Nr. 08-14 / V 08921
+- TOP 3.1.: Stadtwerke München, Bäder Information über neue Bädereintrittspreise ab 01.05.2012
+- TOP 3.2.: Erhalt der Zuschüsse zur Mittagsbetreuung in der Grundschule Schwindstraße für beide bisherigen Träger
+- TOP 3.3.: Referat für Bildung und Sport Erweiterung der städtischen Kindertagesstätte Schwindstraße 23 um eine vierte Hortgruppe
+- TOP 3.4.: Referat für Bildung und Sport, Beschlussvorlage Errichtung eines 2-gruppigen Kindergartens integriert in den Neubau des Referates für Gesundheit und Umwelt an der Dachauer Straße 90 im 3. Stadtbezirk Maxvorstadt - Produkt Nr. 1.1 -; Genehmigung des Nutzerbedarfsprogramms Beschluss des Kinder- und Jugendhilfeausschusses vom 31.01.2012 Sitzungsvorlage Nr. 008-14 / V 08489
+- TOP 3.5.: Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Grundschulen Blutenburgstraße 3, Hirschbergstraße 33 und Helmholtzstraße 6 Beschluss des Ausschusses für Bildung und Sport vom 02.05.2012 Sitzungsvorlage Nr. 08-14 / V 08960
+- TOP 4: Kultur
+- TOP 4.1.: Wahl des 2. stellvertretenden Vorsitzenden
+- TOP 4.2.: Wahl des Vorsitzenden UA Kultur
+- TOP 4.3.: Umzug der Bezirksinspektion Mitte: Mitteilung der BI-Leitung mit aktueller Telefonliste
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
