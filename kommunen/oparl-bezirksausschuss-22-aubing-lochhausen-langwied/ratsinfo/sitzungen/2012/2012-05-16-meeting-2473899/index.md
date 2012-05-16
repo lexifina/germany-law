@@ -1,0 +1,100 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-05-16T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2473899
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2473899
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Vortrag eines Mitgliedes des MLLV und BLLV zum Bildungscampus Freiham
+- TOP 1.5: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Müllhalde Papinstraße (N ) und Schr. Baureferat vom 09.05.12
+- TOP 2.2.: Freiham nächtlicher Baulärm
+- TOP 2.3.: Beseitigung von Müll und Unrat in der Brunhamstraße, Papinstraße und im Bereich des Bahnhofs und Bahnübergangs Neuaubing
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Limesstr. 79 - Hellensteinstr. 3 - Altostr. 99 e
+- TOP 3.2.: Baumfällungen zu Bauvorhaben:
+- TOP 3.3.: Fällungsgenehmigung Kunreuthstr. 47, Schr. Planungsreferat vom 24.04.12
+- TOP 3.3.2: Regsam-Beauftragte
+- TOP 3.3.3: Kinderbeauftragte
+- TOP 3.3.4: Jugendbeauftragte
+- TOP 3.3.5: Migrationsbeauftragte
+- TOP 3.3.6: Seniorenbeirat
+- TOP 3.3.7: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Schlaglöcher auf dem Weg rund um dem Lusssee
+- TOP 4.2.: Schülerzahlen Realschulen
+- TOP 4.3.: Schülerzahlen Gymnasien
+- TOP 4.4.: Radweg Eschenrieder Straße
+- TOP 4.5.: Querungshilfe Bergsonstraße
+- TOP 4.6.: Untersuchung Ensemble
+- TOP 4.7.: Ausfahrt Bergsonstraße
+- TOP 4.8.: Behandlung Antrag "Bildungscampus Freiham"
+- TOP 4.9.: Wertstoffcontainer Sponeckplatz
+- TOP 4.10.: Dringlichkeitsantrag: Radweg der Autobahndirektion Südbayern zur Langwieder Seenplatte
+- TOP 5: Entscheidungen
+- TOP 5.2.: Entscheidung über Sperrzeitänderung, hier: öffentliche Vergnügungsveranstaltung am 15.06.12, ISG Brunhamstr. 19a, Konzert- und Tanzveranstaltung
+- TOP 5.3.: Budget der Bezirksausschüsse Initiative "Geschichte der ISG in Neuaubing" Ausstellung zur Ortsgeschichte vom 09.06. - 17.06.2012
+- TOP 5.4.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche), hier: Limesstr. 112, Erweiterung einer bestehenden Freischankfläche
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf öffentlichen Verkehrsgrund: Straßenfest der Siedlervereinigung der Dornier-Eigenheimer Neuaubing e.V. in der Dietrichsteinstraße am 28.07.12, Anhörung KVR vom 23.04.12
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund: Festumzug des Kaninchenzuchtvereins B2 München zum 100-jährigen Gründungsfest am 08.07.12, Anhörung KVR vom 26.04.12
+- TOP 6.1.: Neue Bäderpreise, Schr. SWM vom 03.04.12
+- TOP 6.2.: Jahresdokumentation "Sport in München 2011 - mit Ausblick auf 2012", Schr. Referat für Bildung und Sport vom 19.04.12
+- TOP 6.3.: Feuerwerk am Langwieder See am 11.05.12, Schr. KVR vom 30.04.12
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6.6.3: UA Freiham
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Öffentlichkeitsphase zur Fortschreibung der Perspektive München, Anhörung Planungsreferat vom 18.04.12
+- TOP 6.2.: Voranfrage zur Straßenbenennung: 2 neue Straßen im Bereich Hellensteinstraße / Reußensteinstraße, Anhörung Kommunalreferat vom 25.04.12
+- TOP 6.3.: Papinstraße - Neubau eines Einfamilienhauses mit Doppelgarage (Vorbescheid), Anhörung Planungsreferat vom 25.04.12
+- TOP 6.4.: Kunreuthstr. 40-68, Erweiterung der Loggien durch Balkonanbau, Anhörung des Planungsreferats vom 25.04.12
+- TOP 6.5.: Bodenseestr. 228, Erweiterung einer Pizzeria durch Nutzungsänderung einer Verkaufsfläche (TEKTUR), Anhörung Planungsreferat vom 25.04.12
+- TOP 6.6.: Kurzparkzone Bodenseestr. 238, Anhörung KVR vom 26.04.12
+- TOP 6.7.: Verfahren nach § 4 BauGB, Gemeinde Karlsfeld, Bebauungsplan Nr. 82, Flächennutzungsplan - Änderung, Anhörung Planungsreferat vom 25.04.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 02.04.-08.04.12, v. 09.04.-15.04.12, 16.04.-22.04.12), Schr. Planungsreferat vom 10.04.12, 16.04.12, 24.04.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 16.04.12, 23.04.12
+- TOP 6.3.: Parkdauerverlängerung bei den Kurzzeitparkplätzen in der Ranertstraße - verkehrsrechtliche Anordnung, Schr. KVR vom 10.04.12
+- TOP 6.4.: Haltverbot im Wendehammer des Olchinger Weges, Schr. KVR vom 10.04.12
+- TOP 6.5.: Fernwärmeprojekt Wiesentfelser Straße, Schr. SWM vom 13.04.12
+- TOP 6.6.: Arbeiten im Straßenraum: Eschenrieder Straße/Brücke über die BAB A 8 (Umbau der Brücke über die BAB A 8), Schr. KVR vom 16.04.12
+- TOP 6.7.: Ausgleichsflächen Langwieder Haide, Schr. Planungsreferat vom 13.04.12
+- TOP 6.8.: Links-Abbiegen von der Bergsonstraße Richtung stadtauswärts in die Langenburgstraße und Links-Abbiegen von der Langenburgstraße in die Bergsonstraße, Schr. KVR vom 19.04.12
+- TOP 6.9.: Georg-Böhmer-Str. 1, Autoabstellplatz (Zwischenlager für Export), Schr. Planungsreferat vom 26.04.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Veranstaltung auf städtischer Grünanlage, Johannisfeuer auf der Grünanlage Sipplinger Str. am 22.06.12, Anhörung KVR vom 11.05.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Europe Direct Information 02/2012, Schr. Referat für Arbeit und Wirtschaft vom 19.04.12
+- TOP 8.2.: Unveränderte Fortführung der Gaststätte: "Brückerl", Goteboldstr. 189, Schr. KVR vom 19.04.12
+- TOP 8.3.: Zweckentfremdung von Wohnraum; Kallmünzer Str., Schr. Sozialreferat vom 25.04.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung des Stadtrates vom 31.03.12: Perspektive München - Aktualisierung Leitlinie Ökologie
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung gemeinsam mit dem Bauausschuss vom 18.04.12: Bewerbung der LHM um die Ausrichtung des WALK21 Konferenz 2013 im München (Hinweis/Ergänzung) (UA Planung)
+- TOP 10.3.: Beschluss des Sozialausschusses vom 03.05.12: Verbot der Zweckentfremdung von Wohnraum; Antrag auf Genehmigung einer Zweckentfremdung von Wohnraum durch Abbruch für die Errichtung einer Kindertageseinrichtung auf dem Grundstück Lochhausener Str. 250 (UA Soziales)
+- TOP 10.4.: Beschluss des Kinder- und Jugendhilfeausschusses und Sozialausschusses in der gemeinsamen Sitzung vom 27.03.12: - Zuschussnehmerdatei 2012: Vollzug des Haushaltsplanes 2012 für den Bereich "Förderung freier Träger" des Amtes für Wohnen und Migration, des Sozialreferats/Zentrale, des Stadtjugendamts (UA Soziales)
+- TOP 10.5.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.12: - Bebauungsplan mit Grünordnung Nr. 1998 a verlängerte Centa-Hafenbrädl-Straße (südlich), Kravogelstraße (westlich), Stadtgrenze (nordwestlich), ehemaliges Gleislager (östlich) (UA Planung) - Leihradsysteme für München und seine Region (UA Planung) - Kostenloses Kurzzeitparken (UA Planung)
+- TOP 10.6.: Beschluss der Vollversammlung des Stadtrates vom 16.05.12: - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/23 - Bahnlinie München-Herrsching (südlich), Kravogelstraße (westlich), Stadtgrenze (nördlich), ehemaliges Gleislager (östlich) (UA Planung)
+- TOP 10.7.: Beschluss der Vollversammlung des Stadtrates vom 25.04.12: - Bewerbung der LHM um Ausrichtung der WALK21 Konferenz 2013 im München
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Förderantrag auf ein Raumordnerisches Entwicklungskonzept München Süd-West, Schr. Planungsreferat vom April 2012
+- TOP 11.2.: Regionalgespräche bei der Lokalbaukommission - Terminvorschlag 16.07.12 oder 23.07.12
+- TOP 11.3.: Informationsveranstaltung für den BA am 21.06.12, Schr. Planungsreferat vom 10.04.12
+- TOP 11.4.: Planung der Schule an der Grandlstraße und Stopp des Feldversuchs mit Gigalinern, Anträge des BA 21 vom 17.04.12
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 13.06.12 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
