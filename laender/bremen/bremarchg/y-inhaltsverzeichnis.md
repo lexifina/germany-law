@@ -36,6 +36,7 @@ Abschnitt 3 | - Berufsgerichtsbarkeit -
 § 31 | Beeidigung und Verschwiegenheitspflicht
 § 32 | Untersuchungsführer
 § 33 | Durchführung des berufsgerichtlichen Verfahrens, Verjährung
+§ 33a | Rechtsschutz bei überlangen Gerichtsverfahren
 § 34 | Beteiligte des Verfahrens, Beistand
 § 35 | Ermittlungen, rechtliches Gehör
 § 36 | Antrag auf Einleitung des berufsgerichtlichen Verfahrens
