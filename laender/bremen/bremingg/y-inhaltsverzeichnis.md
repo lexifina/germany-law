@@ -34,6 +34,7 @@ Teil 4: | Berufspflichten und Berufsgerichtsbarkeit
 § 27 | Rügerecht des Vorstandes
 § 28 | Entscheidungen im berufsgerichtlichen Verfahren
 § 29 | Berufsgerichte
+§ 29a | Rechtsschutz bei überlangen Gerichtsverfahren
 Teil 5: | Ordnungswidrigkeiten, Übergangsvorschriften und Schlussbestimmungen
 § 30 | Ordnungswidrigkeiten
 § 31 | Übergangsvorschrift
