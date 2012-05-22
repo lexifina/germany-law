@@ -1,0 +1,102 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-05-22T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427520
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427520
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Init. "Atelierhaus Baum-/Klenzestraße" "Offene Ateliers" vom 22. - 24.06.2012
+- TOP .1.: Antrag des BA 21 auf einen halbjährigen Sachstandsbericht des Referates für Bildung und Sport zu allen Neubau- und Sanierungsvorhaben
+- TOP .5.1: Berichte der Beauftragten
+- TOP 1: (E) Maßnahmen zur Beseitigung der Lärmbelästigung durch die Braunauer Eisenbahnbrücke Lärmbelästigung durch Braunauer Eisenbahnbrücke vermeiden (Ziffer 3) Empfehlung Nr. 08-14 / E 00947 der Bürgerversammlung des Stadtbezirks 2 Ludwigsvorstadt-Isarvorstadt am 19.05.2011 Beseitigung der Lärmbelästigung durch die Braunauer Eisenbahnbrücke (Ziffer 3) Empfehlung Nr. 08-14 / E 00952 der Bürgerversammlung des Stadtbezirks 2 Ludwigsvorstadt-Isarvorstadt am 19.05.2011
+- TOP 1.3.1: Bauvorhaben
+- TOP 1.1.: Corneliusstraße 20: Sanierung und Umbau des Gesamtanwesens mit Erhöhung Hoffassade (vertagt)
+- TOP 1.2.: Goethestraße 30-34: Neubau eines Büro- und Geschäftsgebäudes (vertagt)
+- TOP 1.3.: Lessingstraße 10: Nutzungsänderung, Bürogebäude zu Mehrfamilienhaus
+- TOP 1.4.: Paul-Heyse-Straße 31a: Neubau einer Wohnanlage mit Laden und Tiefgarage
+- TOP 1.5.: Schwanthalerstraße 95 ? 97: Neubau eines Mehrfamilienhauses mit Gewerbefläche
+- TOP 1.6.: Tumblingerstraße 16: Erweiterung des Gastraums
+- TOP 1.7.: NACHTRAG: Zenettistraße 20: 2 Plakattafeln in Wandmontage
+- TOP 1.3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP 1.1.: Baumfällung Schubertstraße 1
+- TOP 1.2.: Baumfällung Pestalozzistraße 52-56
+- TOP 1.3.: Baumfällung Hans-Sachs-Straße 8
+- TOP 1.3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP 1.1.: Fortschreibung der Perspektive München
+- TOP 1.2.: Betrieb einer Wasserkraftanlage am Werkkanal im Bereich der Braunauer Eisenbahnbrücke (Isarwerk III) ? Wittelsbacher Straße 24 (vertagt aus der Sitzung vom 28.02.2012, 27.03.2012 und 24.03.2012)
+- TOP 1.3.: Beschlussvorlage für den gemeinsamen Planungs- und Bauausschuss: Neuer Steg über die Isar in Höhe der Klenzestraße - ?Klenzesteg?
+- TOP 1.5.1: Bericht des Beauftragten
+- TOP 1.1.: Radwegmarkierung Goethestraße zwischen Schwanthaler- und Bayerstraße
+- TOP 1.2.: Radwegmarkierung Goetheplatz- /straße an der Bushaltestelle Richtung Hauptbahnhof
+- TOP 1.2.1: Gaststättenangelegenheiten
+- TOP 1.1.: ?Restaurant Berber?, Schillerstraße 21: Genehmigung einer Freischankfläche
+- TOP 1.2.: ?Mr. Sub?, Morassistraße 2: Genehmigung einer Freischankfläche
+- TOP 1.3.: Feinkost ?Lava?, Pestalozzistraße 16: Erweiterung der Freischankfläche
+- TOP 1.4.: ?Oriental Palace?, Landwehrstraße 16: Genehmigung einer Freischankfläche PLENUMSBESCHLUSS
+- TOP 1.5.: ?City Restaurant Bar Cafe?, Sonnenstraße 18b: Genehmigung einer Freischankfläche PLENUMSBESCHLUSS
+- TOP 1.6.: Restaurant Lago di Garda?, Baaderstraße 2: Erweiterung und Änderung der bestehenden Freischankfläche
+- TOP 1.2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP 1.1.: Auenstr. 80, 1 Warenstellage
+- TOP 1.2.: Schwanthalerstraße 18: Warenstellagen PLENUMSBESCHLUSS
+- TOP 1.2.3: Sonstige Entscheidungen
+- TOP 1.1.: Festumzug der Banater Schwaben am 07.07.2012 von der Theresienhöhe 15 zur St.-Pauls-Kirche
+- TOP 1.2.: Straßenfest Baaderstraße am 07.07.2012
+- TOP 1.3.: Straßenfest Pestalozzi am 01.09.2012
+- TOP 1.3.2: Verkehr
+- TOP 1.1.: Verkehrsrechtliche Anordnung: Hotelanfahrtszone Landwehrstraße 19 vor dem Demas City Hotel
+- TOP 1.2.: Bürgeranliegen: Lärmbelästigung Thalkirchner Straße / Ecke Fliegenstraße PLENUMSBESCHLUSS
+- TOP 1.1: Termine
+- TOP 1.3: Sonstiges / Verschiedenes
+- TOP 1.&nbsp;: Unterrichtungen
+- TOP 1.1.: Abgeschlossene Vorkaufsrechtsprüfung in der Kapuzinerstraße
+- TOP 1.1.: BA-Budget: Bescheide
+- TOP 1.2.: Verwendungsnachweise
+- TOP 1.3.: Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 28.03.2012 zur Sprengeländerung der Grundschulen Klenzestr. 48, Tumblingerstr. 6 und Am Gärtnerplatz / Klenzestr. 27
+- TOP 1.4.: Beschluss des Planungs- und Bauausschusses vom 18.04.2012: Bewerbung der LHM um die Ausrichtung der Walk21 Konferenz 2013 in München
+- TOP 1.5.: Erneuerung der Bemalung im Kapuziner-Tunnel während des Stadtteilkulturfestes am 24.06.2012
+- TOP 1.6.: Antwortschreiben zum BA-Antrag Nr. 08-14/B 03735 ?Berücksichtigung einer sozial ausgewogenen Bodennutzung bei der Absiedelung von Teilen der Innenstadt-Kliniken?
+- TOP 1.7.: Beschluss der Vollversammlung vom 25.04.2012: Aktionsplan zur Umsetzung der UA-Behindertenrechtskommission ? Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen
+- TOP 1.8.: Beschluss des Planungsausschusses vom 23.05.2012: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters
+- TOP 1.1.: Baumaßnahmen SWM
+- TOP 1.2.: Staatstheater am Gärtnerplatz ? Sanierung und Instandsetzung sowie Bau einer Probenbühne
+- TOP 1.3.: Beschluss der Vollversammlung des Stadtrates vom 25.04.2012 zum Erlass einer Erhaltungssatzung in den Stadtbezirken 2 und 8 incl. Satzungsbeschluss Erhaltungssatzung ?Ludwigsvorstadt/Isarvorstadt?
+- TOP 1.4.: Beschluss des Planungsausschusses vom 02.05.2012: Fassadenpreis
+- TOP 1.6.: Informationsschreiben der Baywobau zur Baumaßnahme Rodenstock
+- TOP 1.7.: Antrag der CSU-Stadtratsfraktion ?Zukunft des Geländes der Frauenklinik in der Maistraße
+- TOP 1.8.: Antwortschreiben der LBK zur Anfrage bzgl. der Baumfällungen auf dem Rodenstockgelände, TOP 2012.02 A 5.1
+- TOP 1.9.: Informationsschreiben zum Werbenutzungsvertrag der LHM
+- TOP 1.10.: Vorbescheid Erhardstraße 10
+- TOP 1.11.: Beschluss des Planungsausschusses vom 23.05.2012: Nord-Süd-Querung der Altstadt für den Radverkehr
+- TOP 1.1.: Versammlungen unter freiem Himmel
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Grund
+- TOP 1.3.: Unveränderte Gaststättenfortführungen: - ?Bar Reichenbach?, Reichenbachstraße 22 - ?Osteria Amici??, Klenzestraße 47 - ?Seven?, Arnulfstraße 17 - ?Gabanyi Bar?, Beethovenplatz 2
+- TOP 1.4.: Verkehrsrechtliche Anordnungen: - Hotelanfahrtszone Schillerstraße 17
+- TOP 1.5.: Erlaubnisbescheide (2)
+- TOP 1.6.: Nachtbauarbeiten: - 19.04.-20.04.2012, Lindwurmstraße 75 - Kalenderwoche 17 und 18, Landsberger/Grasserstraße
+- TOP 1.7.: Beschluss des Planungsausschusses vom 02.05.2012: Kostenloses Kurzzeitparken
+- TOP 1.8.: Beschluss des Planungsausschusses vom 02.05.2012: Leihradsysteme
+- TOP 1.9.: Umzug der Bezirksinspektion Mitte
+- TOP 1.10.: Beschluss der Vollversammlung vom 25.04.2012: Bewerbung der Landeshauptstadt München um die Ausrichtung der WALK21 Konferenz 2013 in München
+- TOP 1.11.: Antrag des BA 21 auf Stopp des Feldversuchs mit Gigalinern; keine Routen über die A 8
+- TOP 1.12.: Eilentscheidung des Vorsitzenden zum Public Viewing auf der Theresienwiese
+- TOP 1.13.: Entscheidung des Oberbürgermeisters zur Freischankfläche ?Frenzy?, Frauenhoferstraße 20
+- TOP 1.14.: Absage Klenzestraßenfest
+- TOP 1.15.: Fahrbahnsanierung Landwehrstraße zwischen Schillerstraße und Paul-Heyse-Straße
+- TOP 1.16.: Bürgerbeschwerde an die Polizei über eine Gaststätte in der Thalkirchner Straße
+- TOP 1.5: Sonstiges
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.4: Unterrichtungen (siehe Beiblatt)
+- TOP 1.2.: Veranstaltungen
+- TOP 1.5.: Bürgeranfrage: Nachnutzung der Frauenklinik o.a. Mögliche Objekte für das Geburtshaus München im Stadtbezirk 2
