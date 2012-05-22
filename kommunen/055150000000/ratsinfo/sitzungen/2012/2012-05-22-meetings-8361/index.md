@@ -1,0 +1,53 @@
+# 27. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-05-22T17:02:00+02:00
+- Ende: 2012-05-22T19:54:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/90
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8361
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8361
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00324432.pdf
+
+## Tagesordnung
+
+- TOP 1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit eines Mitgliedes der Verwaltung erforderlich ist
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen
+- TOP 3.1.1: Anregungen gemäß § 24 der Gemeindeordnung für das Land Nordrhein-Westfalen - zur Kenntnis genommen
+- TOP 4: Entscheidungen
+- TOP 4.1: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Mitte für das Jahr 2012
+- TOP 4.1.1: Gewährung von Zuschüssen an örtliche Vereine, Verbände und sonstige Vereinigungen und Initiativen im Stadtbezirk Mitte für das Jahr 2012 - einstimmig beschlossen
+- TOP 4.2: Wiederwahl der Schiedsperson für den Bezirk 3 Münster - Hafen/Geist - einstimmig beschlossen
+- TOP 4.3: Manfred-von-Richthofen-Straße, Haltestelle "Andreas-Hofer-Straße" (stadteinwärts) - von der Tagesordnung abgesetzt
+- TOP 4.3.1: Wartehallen der Bushaltestelle Klarastift der Buslinie 14 in der Andreas-Hofer-Straße mit zusätzlichen Sitzgelegenheiten ausstatten - von der Tagesordnung abgesetzt
+- TOP 4.4: Straßenumbenennungen im Stadtbezirk Mitte
+- TOP 4.4.1: Umbenennung des Franz-Ludwig-Wegs in Heinrich-Hemsath-Weg - mehrheitlich beschlossen
+- TOP 4.4.2: Aufhebung des Straßennamens Humborgweg - mehrheitlich beschlossen
+- TOP 4.4.3: Umbenennung Jöttenweg
+- TOP 4.4.3.1: Umbenennung des Jöttenwegs in Paul-Wulf-Weg - mehrheitlich beschlossen
+- TOP 4.4.3.2: Namensgebung für Straßen auf den Prüfstand stellen - entfällt
+- TOP 4.4.3.3: Jöttenweg in Aurel-von-Szily-Weg umbenennen - entfällt
+- TOP 4.4.4: Umbenennung der Pfitznerstraße in Margarete-Moormann-Weg - mehrheitlich beschlossen
+- TOP 4.4.5: Verzicht auf Umbenennung des Stühmerwegs - einstimmig beschlossen
+- TOP 4.4.6: Umbenennung der Wagenfeldstraße in Robert-Blum-Straße - mehrheitlich beschlossen
+- TOP 5: Anhörungen
+- TOP 5.1: U3-Erweiterung der Kindertagesstätte Am Inselbogen
+- TOP 5.1.1: U3- Erweiterung der Kindertagesstätte Am Inselbogen, Gut Insel 24 - einstimmig beschlossen
+- TOP 5.1.2: U3-Erweiterung Kindertagesstätte Am Inselbogen, Freianlagen - einstimmig beschlossen
+- TOP 5.2: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - von der Tagesordnung abgesetzt
+- TOP 5.3: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2013 - einstimmig beschlossen
+- TOP 5.4: "Barrierefreies Bauen" im öffentlichen Verkehrsraum - einstimmig beschlossen
+- TOP 5.5: Landschaftsplan Roxeler Riedel -Offenlegungsbeschluss- - einstimmig beschlossen
+- TOP 6: Berichte
+- TOP 6.1: Für hindernisfreien Radverkehr - Prüfung von Umlaufsperren und Sperrpfosten im Stadtgebiet, Zwischenbericht zum Stand der Umsetzung - zur Kenntnis genommen
+- TOP 6.2: Schlossplatz (ehemals Hindenburgplatz) - Planungsgeschichte / Städtebauliche Rahmenbedingungen mit Nutzungs- und Funktionsansprüchen - zur Kenntnis genommen
+- TOP 7: Anregungen/Anträge und Anfragen
+- TOP 7.1: Verbleib der Gedenksteine für die Opfer der NS-Zeit - eingebracht
+- TOP 8: Stellungnahme der Verwaltung zu Anregungen/Anträgen und Anfragen
+- TOP 8.1: Fußgängerübergang frei halten - zur Kenntnis genommen
+- TOP 9: Abgabe neuer Anregungen/Anträge und Anfragen
+- TOP 10: Verschiedenes
