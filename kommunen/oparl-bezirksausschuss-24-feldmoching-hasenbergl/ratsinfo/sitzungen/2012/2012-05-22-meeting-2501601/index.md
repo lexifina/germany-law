@@ -1,0 +1,67 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-05-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501601
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501601
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: RBS: Jahresdokumentation "Sport in München 2011 - mit Ausblick auf 2012"
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget des Bezirksausschusses PA/Spielen in der Stadt e.V. 2 Spielbuseinsätze am 19./20.06.2012 und 10. - 12.07.2012
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Kath. Jugendsozialwerk München e.V. OpenAir "beats on anger" am 28.07.12
+- TOP 2.3.: Budget der Bezirksausschüsse Bildungslokal Hasenbergl, Pilot an der Grundschule Thelottstraße für Gesamtprojekt "ein Stadtteil wird bunt"
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Fasanerie aktiv e.V. Straßenfest am 28.07.2012
+- TOP 2.5.: (E) Budget der Bezirksausschüsse Kreisjugendring München-Stadt, FZT Lerchenauer Mobile Spielaktion zum Thema "Mittelalter"
+- TOP 2.6.: (E) Budget der Bezirksausschüsse Stadtteilkultur 2411 e.V. Konzert am 30.06.2012
+- TOP 2.7.: (E) Budget der Bezirksausschüsse Caritas-Kinder-und Jugendtreff "Jump In" Jugendfestival am 22.06.2012
+- TOP 8: (E) Durchführung eines jährlichen "Ramadama" im 24. Stadtbezirk ab 2013 (Ziffer II des Antrages) Empfehlung Nr. 08-14 / E 01265 der Bürgerversammlung des Stadtbezirkes 24 - Feldmoching-Hasenbergl am 15.03.2012
+- TOP 3.1.: Veröffentlichung von Sitzungsprotokollen künftig auch im Internet
+- TOP 3.2.: Anträge aus der 10. Kinder- und Jugendsprechstunde am 04.05.2012
+- TOP 3.3.: Anträge/ Umgestaltungswünsche im Rahmen der Aktion "Auf Herz und Rampen prüfen"
+- TOP 3.4.: Installation eines rollstuhlgerechten Spielgerätes bei der Ausgestaltung des Jugendspielplatzes an der Schittgablerstraße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Referat für Stadtplanung und Bauordnung: Bauleitverfahren in Nachbargemeinde Karlsfeld: 3. Änderung des Bebauungsplans Nr. 82
+- TOP 5.2.: Vollzug der Baumschutzverordnung (Baumfällung): Schwarzhölzlstraße (9 Weiden am Würmkanal)
+- TOP 5.3.: KVR: Veranstaltungen auf dem Dülfer Anger: Bitte um schriftlichen Regelungsvorschlag des BA 24 zu empfohlenen Zeitabständen
+- TOP 5.4.: KVR: Veranstaltung auf städt. Grünanlage: Skateboardworkshop vom RBS auf der Skateranlage Fasaneriesee/ Feldmoching am 01. bis 02.08.12, am 13. bis 14.08.12 und am 04. bis 05.09.12.
+- TOP 5.5.: KVR: Veranstaltung auf öffentl. Verkehrsgrund: Lassallestraße: Spielefest am Wochenmarkt am 23.06.2012
+- TOP 5.6.: KVR: Veranstaltung auf öffentl. Verkehrsgrund: Aronstabstraße: Straßenfest des Bürgervereins Lerchenau am 30.06.2012
+- TOP 5.7.: KVR: Veranstaltung auf öffentl. Verkehrsgrund: Schneeglöckchenstraße: Straßenfest der Interessengemeinschaft Fasanerie aktiv am 28.07.2012
+- TOP 5.8.: Baumfällungen im Rahmen von Bauvorhaben: Caracciolastr. 6-8 (Neubau einer Wohnanlage (21 WE) mit TG)
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Baureferat: Beleuchtung der Straßenkreuzung Feldmochinger Straße/ Himmelschlüsselstraße/ Leberblümchenstraße und Niederalteicher Straße
+- TOP 6.2.: Baureferat: Erstellung eines Gutachtens für den Bahnübergang Fasanerie (BV-Anfrage)
+- TOP 6.3.: Referat für Bildung und Sport: Chancengleichheit bei der Aufnahme an Gymnasien für Kinder aus dem 24. Stadtbezirk und anderen Randgebieten in München (BA-Antrag)
+- TOP 6.4.: Kommunalreferat: Antrag auf Umbenennung der Thelottstraße 24 -30
+- TOP 6.5.: Referat für Stadtplanung und Bauordnung: Auswirkungen bei Neubau einer 3. Start- und Landebahn am Flughafen (Zunahme Autoverkehr ... Taktverdichtung S1)
+- TOP 6.6.: RGU: Zurückgezogener Antrag der Fa. Air Liquide: Ludwigsfelder Str. 168
+- TOP 6.7.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.8.: Meldelisten Baumfällungsanträge
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: KVR: Versammlung unter freiem Himmel: Dachauer Str. 665 am 10.05.2012
+- TOP 6.11.: KVR: Filmaufnahmen auf öffentl. Verkehrsgrund: Daxetstr. 4 am 20.04.2012
+- TOP 6.12.: Baureferat: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen; Bauvorhaben: Himmelschlüsselstr. 1, Kinderkrippe Neubau - Projektkosten
+- TOP 6.13.: Baureferat: Erinnerungsverfahren Irisstraße
+- TOP 6.14.: Beschlussvorlage Direktorium: Bewerbung der LH München um die Ausrichtung der WALK21 Konferenz 2013 in München; Anlage Beschlussvorlage des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Bauausschusses mit Hinweis/Ergänzung vom 12.04.2012; Anlage 3: Stellungnahme der Stadtkämmerei vom 10.04.2012
+- TOP 6.15.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Leihradsysteme für München und seine Region - Status, Perspektiven und Erfolgsfaktoren darstellen
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Kostenloses Kurzzeitparken
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Perspektive München; Aktualisierung Leitlinie Ökologie (Änderungsanträge)
+- TOP 6.18.: Beschlussvorlage Referat für Gesundheit und Umwelt: Seniorenstadtpläne für München
+- TOP 6.19.: Beschlussvorlage Referat für Bildung und Sport: Kindertagesstätten geminnütziger Träger; Kinderkrippe Leberblümchenstr. 20
+- TOP 6.20.: Direktorium: Jahresbericht 2011 mit Jahresvorschau 2012
+- TOP 6.21.: RBS: Flyer: "Das Referat für Bildung und Sport auf einem Blick"
+- TOP 6.22.: Sozialreferat: Neuordnung der Sozialbürgerhäuser
+- TOP 6.23.: MVV: Zehnte MVV-Stadtrallye a, 12.05.2012
+- TOP 6.24.: Evangelisches Hilfswerk: Jahresbericht 2011
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
