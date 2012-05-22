@@ -1,0 +1,51 @@
+# Bezirksvertretung 7
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-05-22T17:00:00+02:00
+- Ende: 2012-05-22T19:30:00+02:00
+- Ort: Neusser Tor 12, 40625 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/38
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5671
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5671
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00177363.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00177363.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00177363.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Umgestaltung Benderstraße - vertagt
+- TOP 4: Neubau Kinderspielplatz Hallesche Straße im Grünzug „Am Quellenbusch“ - einstimmig beschlossen
+- TOP 5: "Home & Garden" auf der Galopprennbahn Grafenberg im Jahre 2012 - einstimmig beschlossen
+- TOP 6: Bildungsoffensive II - Offene Ganztagsschule (OGS) im Primarbereich in Düsseldorf. - zur Kenntnis genommen
+- TOP 7: Verwendung von Haushaltsmitteln - einstimmig beschlossen
+- TOP 8: Villa Sohl - zur Kenntnis genommen
+- TOP 9: Aufstellungsbeschluss für einen Bebauungsplan "Villa Sohl" - vertagt
+- TOP 10: Zwischen Ludenberger Straße und Hardtstraße - zur Kenntnis genommen
+- TOP 11: B-Plan Hardtstraße / Ludenberger Straße - einstimmig beschlossen
+- TOP 12: Zugang zur Gartenanlage "Quadenhof" - einstimmig beschlossen
+- TOP 13: Soldatengräber Friedhof Dorf Hubbelrath - einstimmig beschlossen
+- TOP 14: Straßenbeleuchtung Blanckertzstraße - einstimmig beschlossen
+- TOP 15: Zentrale Umsteigehaltestelle "Gerresheim Rathaus" - mehrheitlich beschlossen
+- TOP 16: Sicherheit für Rad- und Autofahrer - einstimmig beschlossen
+- TOP 17: Sachstandsbericht Seniorenheim der Sana - einstimmig beschlossen
+- TOP 18: Lärmbelästigung am Gerricusplatz - zur Kenntnis genommen
+- TOP 19: Untertunnelung Bahnhof Gerresheim - zur Kenntnis genommen
+- TOP 20: Musikkindergarten
+- TOP 21: Schulen mit Inklusion im Stadtbezirk 7 - zur Kenntnis genommen
+- TOP 22: Situation im Bereich "Alte Insel"
+- TOP 23: Gehweg vor dem Wohnhaus Grimmstraße 43 - zur Kenntnis genommen
+- TOP 24: Aufstellungsbeschluss Plan Nr. 5981/001 - Beiderseits Grütersaaper Weg / Aaper Wald / Segelflugwiese - zur Kenntnis genommen
+- TOP 25: Einrichtung einer Fußgängerbedarfsampel Ludenberger Straße - zur Kenntnis genommen
+- TOP 26: Bunker Heyestraße - zur Kenntnis genommen
+- TOP 27: Fußgänger-Bedarfsampel Bushaltestelle Gallberg - zur Kenntnis genommen
+- TOP 28: Ortsumgehung Gerresheim - zur Kenntnis genommen
+- TOP 29: Sicherung Haltestelle Burgmüllerstraße/Staufenplatz/Grafenberger Allee - zur Kenntnis genommen
+- TOP 30: Sachstandsbericht Ausbau "Am Gartenkamp" - zur Kenntnis genommen
+- TOP 31: Wirtschafts- und Wanderweg Forster Weg - zur Kenntnis genommen
+- TOP 32: Grünanlage "Am Wallgraben" - zur Kenntnis genommen
+- TOP 33: Sachstandsbericht Bushaltestelle "Am Neuenhaus" - zur Kenntnis genommen
+- TOP 34: Sachstandsbericht Querung der Gleise in Gerresheim-Süd, Umbau des Gerresheimer Bahnhofes - zur Kenntnis genommen
