@@ -1,0 +1,81 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-05-23T17:00:00+02:00
+- Ende: 2012-05-23T18:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2273
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2273
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Regenwasserrückhaltebecken in der Seehofstraße - beantwortet
+- TOP 3.2: Flugrouten: Mit dem "Tegeler Modell" Entlastung für den Berliner Südwesten? - beantwortet
+- TOP 3.3: Der Posener Platz und die Eibe - wo bleibt die Gedenktafel? - beantwortet
+- TOP 3.4: Geschlossene Jugendheime - Geschäfte mit Schwererziehbaren: Haasenburg GmbH - beantwortet
+- TOP 3.5: Seniorenspielplatz auf der Domäne Dahlem - beantwortet
+- TOP 3.6: Transparente Vergabeverfahren bei jeder Auftragsgröße - schriftlich beantwortet
+- TOP 3.7: Baumtod durch Falschparken? - beantwortet
+- TOP 3.8: Saubere Parks im Bezirk - schriftlich beantwortet
+- TOP 3.9: Zukunft Waldkindergarten Heckeshorn - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Abberufungen - erledigt
+- TOP 4.1.1: Abberufung eines Bürgerdeputierten im Ausschuss für Bauen und Immobilienverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.1.2: Abberufung eines Bürgerdeputierten im Ausschuss für Verkehr und Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Wahlen: Wahlvorschläge - erledigt
+- TOP 4.2.1: Wahl eines Bürgerdeputierten im Ausschuss für Bauen und Immobilienverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Wahl eines Bürgerdeputierten im Ausschuss für Verkehr und Ordnung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Wahl eines stellvertretenden Bürgerdeputierten im Ausschuss für Bauen und Immobilienverwaltung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.3.1: Sondermittel der BVV für die Sidonie-Scharfe-Stiftung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.2: Sondermittel der BVV für den Heimatverein Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.3: Sondermittel der BVV für den Bezirksjugendring Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.4: Sondermittel der BVV für den Verein Papageiensiedlung e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.5: Sondermittel der BVV für das Outreach Team Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.6: Sondermittel der BVV für Schützenverein Edelweiß e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3.7: Sondermittel der BVV für den Mittelhof e.V., Nachbarschaftshaus Lilienthal - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Bebauungspläne: Vorlagen zur Kenntnisnahme und Empfehlungen von Ausschüssen - erledigt
+- TOP 4.4.1: BVV-Beschluss Nr. 1298 vom 31.08.2011 Planreife beim B-Planverfahren 6-22 (Truman Plaza) Drucksache Nr. 1995/III - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Skateranlage an der Jugendwerkstatt Ostpreußendamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: DEVA-Schießstand in Wannsee - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Flächenmonitoring schon jetzt - in der BVV abgelehnt
+- TOP 4.5.4: Dialog-Display für die Ehrenbergstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Gehwegparken unterbinden - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Einrichtung eines Beratungs- und Unterstützungs-Zentrums - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: 483 Mio. in 4 Wochen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Hundefreundlicher Bezirk - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Schaukel der Grundschule am Buschgraben ersetzen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Kreuzung Kaiser-Wilhelm-Straße/Ecke Zietenstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Vandalismus in der Paul-Schneider-Grundschule verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Beförderung behinderter Kinder nach dem Wohnortprinzip - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Sichere Querung am Hindenburgdamm - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Anwohnerparken in der Pritchardstraße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: SEK-II für Montessori-Gemeinschaftsschule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Anträge - erledigt
+- TOP 5.1.1: Aufstellung einer Hinweistafel zu Nationalsozialistischen Forschungsinstituten in Berlin-Wannsee - überwiesen
+- TOP 5.1.2: Fair statt prekär: Arbeitsbedingungen an Musikschule und VHS verbessern - überwiesen
+- TOP 5.1.3: Landschaftsplanverfahren für das Gebiet südlich der Thermometer-Siedlung - überwiesen
+- TOP 5.1.4: Verbesserung der Verkehrssicherheit Berlepschstraße/Machnower Straße - überwiesen
+- TOP 5.1.5: Faire Löhne im Bezirk! - überwiesen
+- TOP 5.1.6: Verkehrsberuhigung Schillerstraße - überwiesen
+- TOP 5.1.7: Gegen das Grillen und Vermüllung von Schlachtensee und Krumme Lanke - überwiesen
+- TOP 5.1.8: B-Plan für "Eisenbahn-Landwirtschaft" - überwiesen
+- TOP 5.1.9: Lärmschutz S-Bahnhof Mexikoplatz - überwiesen
+- TOP 5.1.10: Infrastruktur des Gemeindeparks an der Malteserstraße wieder herrichten - überwiesen
+- TOP 5.1.11: Müllchaos Scabellstraße beseitigen - überwiesen
+- TOP 5.1.12: Heuwiese Lankwitz - überwiesen
+- TOP 5.1.13: Radstreifen Schorlemerallee - überwiesen
+- TOP 5.1.14: Es werde Licht - im Stadtpark Steglitz - überwiesen
+- TOP 5.1.15: Verbesserung des Stadtbildes - überwiesen
+- TOP 5.1.16: Haushaltsplan redaktionell überarbeiten - überwiesen
+- TOP 5.2: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 5.2.1: Benennung nach Martin Niemöller - überwiesen
+- TOP 6: Schlusswort des Vorstehers - erledigt
