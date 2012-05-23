@@ -1,0 +1,63 @@
+# 8. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-05-23T17:00:00+02:00
+- Ende: 2012-05-23T20:45:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1735
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1735
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - erledigt
+- TOP 6.1: Neuwahl zweier Mitglieder des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - erledigt
+- TOP 7.1: Bebauungsplan 8-19b vom 4.2.2011 mit Deckblatt vom 23.12.2011 („Karl-Marx-Straße/Ringbahnstraße“) - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlage zur Kenntnisnahme - erledigt
+- TOP 8.1: Mitteilungen von über- und außerplanmäßigen Ausgaben im 1. Halbjahr 2011 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Abgesenkte Bordsteine - beantwortet
+- TOP 9.2: Fixer-Stube am Hermannplatz - beantwortet
+- TOP 9.3: Bauzaun Grundschule am Regenweiher - beantwortet
+- TOP 9.4: Gefahr durch "Reichsdeutsche"? - beantwortet
+- TOP 9.5: Pro Diskurs - beantwortet
+- TOP 9.6: Jährliche Erhebung des Zahnstatus bzw. des Impfstatus - beantwortet
+- TOP 9.7: Baumaßnahmen für Buslinien X 7 und X 11 - beantwortet
+- TOP 9.8: Neubau von Wohnungen in der Gropiusstadt - beantwortet
+- TOP 9.9: Spielhallengesetz mit Erfolg? - beantwortet
+- TOP 9.10: Grillen in Neuköllner Grünanlagen - beantwortet
+- TOP 9.11: Naturschutz in Neukölln - schriftlich beantwortet
+- TOP 9.12: Wohnungsneubau in der Gropiusstadt - beantwortet
+- TOP 10: Beschlussempfehlungen - (offen)
+- TOP 10.1: Mehr Sicherheit für Fußgänger am Wildenbruchplatz - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Produktergebnisse Budgetierung veröffentlichen und Schlüsse daraus ziehen - in der BVV abgelehnt
+- TOP 10.3: Haushalt zukünftig nach Ergebnissen der Produktbudgetierung aufstellen - in der BVV abgelehnt
+- TOP 10.4: Verbesserung von Umwelterziehung und Hygiene im Von-der-Schulenburg-Park - in der BVV abgelehnt
+- TOP 10.5: Haushaltsdokumente maschinenlesbar veröffentlichen - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Betriebszeitverlängerung der Buslinie 272 - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Kleingartenflächen sichern - in der BVV abgelehnt
+- TOP 11: Große Anfragen - (offen)
+- TOP 11.1: Kosten der Unterkunft - beantwortet
+- TOP 11.2: Überregionaler Linienbusverkehr nach Berlin - beantwortet
+- TOP 11.3: Zukunft der Jugendeinrichtung Manege - beantwortet
+- TOP 11.4: Ethnisch getrennte Klassen - beantwortet
+- TOP 11.5: Mietschuldenübernahme durch das JobCenter Neukölln - beantwortet
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Hinweisschilder zur Hörberatung - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Kein Hausarrest für Seniorinnen, Senioren und Behinderte - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Parchimer Allee sicherer machen - überwiesen
+- TOP 13.4: Barrierefrei I Barrierefreier Internetauftritt des Stadtinformationssystems (www.berlin.de) - überwiesen
+- TOP 13.5: Barrierefrei II Barrierefreier Internetauftritt des Bezirks Neukölln - überwiesen
+- TOP 13.6: Unterstützung und Hilfe bei Mietschuldenübernahme - überwiesen
+- TOP 14: Mitteilungen - erledigt
+- TOP 15: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 16: Durchfahrverbot für Lastkraftwagen - (offen)
