@@ -1,0 +1,126 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-05-23T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506659
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506659
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Tagesordnung und Protokoll
+- TOP .1.: Beschluss über die endgültige Tagesordnung
+- TOP .2.: Genehmigung der Sitzungsniederschrift der Sitzungen vom 21.03.2012, 28.03.2012, 18.04.2012
+- TOP 3: Umbesetzungen im Bezirksausschuss
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.: Bestellung eines/einer Regsam-Beauftragten
+- TOP 3.4.: Bestellung eines/einer Beauftragten für Ausländer und Flüchtlinge
+- TOP 3.5.: Umbesetzung im UA Kultur und UA Wirtschaft
+- TOP 3.6.: Umbesetzung im Ferienausschuss
+- TOP 3.4.: Bürgerinnen und Bürger haben das Wort
+- TOP 3.4.1: Anwesende Bürgerinnen und Bürger
+- TOP 3.4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 3.1.: Gehbahnabsenkung Wörthstraße
+- TOP 3.2.: Patenschaft für Parkbank
+- TOP 3.3.: Spielende Kinder im Wendehammer Boosstr. / Am Feuerbächl
+- TOP 3.4.: Wolfgangstraße zur 30 km/h-Zone
+- TOP 3.5.: Anträge
+- TOP 3.6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Refugio München e.V. Umzugskosten und Einweihungsfeier - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 3.1.: Wörthstr. 10, ?Der Flohmarktladen?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund - <div>vertagt</div>
+- TOP 3.2.: Rosenheimer Str. 12, ?Pizzesco?: Erweiterung der bestehenden Freischankfläche - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.6.3: Weitere Entscheidungen
+- TOP 3.1.: Mittelfristige Finanzplanung 2011-2015; Mehrjahresinvestitionsprogramm ? Anhörungsverfahren, Fortschreibung für die Jahre 2012 bis 2016
+- TOP 3.2.: Public Viewing am Mariahilfplatz, Anfrage des RAW
+- TOP 3.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 3.1.: Verkehrsspiegel am Gebsattelberg gegenüber Herrgottseck / Schmausefalle
+- TOP 3.2.: Schulwegsicherheit ROST
+- TOP 3.3.: Instandsetzung der Zaunanlage am Giesinger Feld
+- TOP 3.4.: Humboldtstraße / Claude-Lorrain-Straße einspurig kreuzen
+- TOP 3.5.: Rolltreppen am S-Bahn-Haltepunkt Rosenheimer Platz in Betrieb halten
+- TOP 3.6.: Sachstand JVA Am Neudeck
+- TOP 3.7.: Parkscheinautomaten reinigen
+- TOP 3.8.: Fristverlängerung für 11 BA-Anträge und 16 Bürgerversammlungsempfehlungen zum Thema ?Paulanerabsiedlung?; Zwischennachricht des Planungsreferat vom 11.05.2012
+- TOP 3.8.2: Reaktionen auf BA-Schreiben
+- TOP 3.1.: Fußgängersituation nördlicher Kolumbusplatz; Schreiben des KVR vom 03.04.2012 zur Kenntnis
+- TOP 3.2.: Beleuchtung des Zebrastreifens am Hypopark; Schreiben des Baureferats vom 23.03.2012
+- TOP 3.3.: Lärmbelästigung durch Güterverkehr; Schreiben der DB Netz AG vom 03.04.2012
+- TOP 3.4.: Beparkung der Fläche ?An der Kreppe?, Schreiben des Baureferat vom 18.04.2012
+- TOP 3.5.: ?Vorfahrt achten? am Kirchlichen Zentrum; Schreiben der Verwaltung des Kirchlichen Zentrums vom 26.04.2012
+- TOP 3.6.: Verkehrssicherheit an der Haltestelle Haidenauplatz; Schreiben des RAW vom 24.04.2012
+- TOP 3.8.3: Weitere Unterrichtungen
+- TOP 3.1.: Städtische Telefonbücher in elektronischer Form für BA-Mitglieder; Antrag des BA 2
+- TOP 3.2.: Neueinrichtung eines Taxistandplatzes in der Orleansstraße 83; Beschluss des Bezirksausschusses des 5. Stadtbezirkes Au-Haidhausen vom 19.10.2011; hier: Schreiben des Oberbürgermeisters vom 18.04.2012
+- TOP 3.3.: Orleansstr. 34; Antrag auf Baumveränderung und -fällung; hier: Genehmigungsbescheid vom 19.04.2012 anlässlich akuter Umsturz- bzw. Bruchgefahr
+- TOP 3.4.: Orleansplatz; Freundschaftstreffen München ? Prag vom 12.05. - 28.05.2012; hier: Eilentscheidung der BA-Vorsitzenden vom 26.04.2012
+- TOP 3.5.: Mieterversammlung Senftlstr. 9 und Preysingstr. 33
+- TOP 3.6.: Kosten für Bank vor dem ASZ Wolfgangstraße
+- TOP 3.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 3.1.: Regsam
+- TOP 3.2.: Kinder und Jugend
+- TOP 3.1.: Seifenkistenrennen 2012?
+- TOP 3.3.: Behinderte und Barrierefreiheit
+- TOP 3.4.: Ausländer und Flüchtlinge
+- TOP 3.5.: Frauen und Mädchen
+- TOP 3.6.: Internet
+- TOP 3.7.: Baumschutz
+- TOP 3.1.: "Ein Abend mit Carlamaria Heim". Veranstaltung von Obalski & Astor" zum 80. Todestag von Carlamaria Heim. Zuschussantrag
+- TOP 3.2.: Streicherprojekt. Aktueller Stand der Dinge. Abschließende Stellungnahme?
+- TOP 3.1.: Zuschüsse der Landeshauptstadt München für die Teestube / drohende Deckelung
+- TOP 3.1.: Einführung einheitlicher Ansprechpartner für Menschen mit Behinderung bei den Behörden der Landeshauptstadt München (BA-Antrag Nr. 08-14/ B 01138); Endlich Einführung des Antragslotsen / Prüfung der Einführung eines professionellen Fallmanagements im Bereich Menschen mit Behinderung (BA-Antrag Nr. 08-14/ B 03230); Beschluss des Sozialausschusses vom 29.03.2012
+- TOP 3.1.: Live-Übertragung der Lisboa Bar zur Fußball-EM 2012 vom 08.06.-01.07.2012 in der Breisacher Str. / Ecke Elsässer Str.
+- TOP 3.2.: Ohlmüllerstr. 26; Nutzungsänderung eines Ladens zu einer Gaststätte
+- TOP 3.3.: Franziskanerstr. 2a; Gaststätte zu Laden; Nutzungsänderung Wohnen zu Appartements und eines Wohnbüros im Erdgeschoss
+- TOP 3.4.: Wörthstr. 34; Errichtung einer Freischankfläche, Anhörung im Rahmen des Baugenehmigungsverfahrens
+- TOP 3.5.: Bordeauxplatz, Anhörung für Sommerfest mit Public Viewing vom 09.06. - 01.07.2012
+- TOP 3.6.: Straßenfest der Ev.-Luth. Kirchengemeinde St. Johannes am 22.07.2012 auf dem Preysingplatz
+- TOP 3.7.: Weihnachtsmarkt auf dem Weißenburger Platz, Vergabeverfahren bei konkurrierenden Marktveranstaltungen
+- TOP 3.8.: Kolumbusplatz, Sommerfest des ASZ Untergiesing am 21.06.2012 anlässlich 25 Jahre Jubiläum
+- TOP 3.9.: Internationales Sommerfest am 21.07.2012 in der Metzstraße
+- TOP 3.1.: Rosenheimer Straße 4-6, Neubau eines Einfamilienhauses mit Garage (4 Stellpl.)
+- TOP 3.2.: Einstein 28 ? Präsentation im Bezirksausschuss dazu auch: Neubau Bildungszentrum Einsteinstraße 28, Bürgerschreiben vom 13.04.2012
+- TOP 3.3.: Wörthstr. 7: Errichtung einer Dachterrasse, Erneuerung und Erweiterung der Dachgaube
+- TOP 3.4.: Kellerstr. 5: Sanierung und Ausbau des Dachspitzes im Vordergebäude, Aufstockung des Rückgebäudes und Balkonanbau - TEKTUR
+- TOP 3.5.: Breisacher Str. 3: Dachgeschoss-Ausbau und -Umbau VDG
+- TOP 3.6.: Weißenburger Str. 27: Anbau 2er Balkonreihen (1. - 4. OG)
+- TOP 3.7.: Preysingstr. 33: Sanierung Gesamtanwesen mit Errichtung eines Rückgebäudes, Anbau eines Außenaufzugs und einer neuen Balkonanlage, DG-Ausbau (3 WE)
+- TOP 3.8.: Senftlstr. 9: Nutzungsänderung Gaststätte mit Schießbahn in Büro (EG), 4 Kellerabteile in Lager; Neuaufbau des Dachstuhls mit 2-gesch. Ausbau; Teilerhöhung DG 1 (Hofseite), 8 Gauben Straßenseite / Teilrekonstruktion der historischen Zwerchhäuser (Straßenseite); 2 Gauben, 1 Loggia und 1 Dachterrasse (Hofseite)
+- TOP 3.9.: Senftlstr. 9: Anbau eines Außenaufzugs an die rückwärtige Hoffassade
+- TOP 3.10.: Rosenheimer Str. 34: Nutzungsänderung im 2. OG: Wohnung zu Praxis
+- TOP 3.11.: Pöppelstr. 5: Sanierung und Umbau, Ausbau der Dachspeicher zu zwei Wohnungen sowie Anbau von Balkonanlagen auf der Hofseite - TEKTUR
+- TOP 3.12.: Beteiligung der BAs bei der Öffentlichkeitsphase zur Fortschreibung der Perspektive München
+- TOP 3.13.: Ohlmüllerstr. 10: Ausbau der DG-Wohnungen, Aufzugseinbau sowie Anbau von Balkonen
+- TOP 3.1.: Ruhestr. 7, Neubau Einfamilienhaus; hier: Schreiben der LBK vom 25.04.2012
+- TOP 3.1.: Tempo 30 in der Hochstraße (aus der Bürgerversammlung in BA verwiesen)
+- TOP 3.2.: Überbrückung der Schneise am Giesinger Berg, Broschüre, Bürgerschreiben vom 25.03.2012
+- TOP 3.3.: Willkommens-Radeln der Radlhauptstadt München; Schreiben von Green City e.V.
+- TOP 3.4.: ?Stopp des Feldversuchs mit Gigalinern; keine Routen über die A 8?, Antrag des BA 21
+- TOP 3.5.: Neuer Steg über die Isar in Höhe der Klenzestraße ?Klenzesteg?, Rahmenbedingungen und Erfordernisse, Auslobung eines Wettbewerbs; Anhörung zum Entwurf der Beschlussvorlage für die gemeinsame Sitzung des Ausschusses für Stadtplanung und Bauordnung und des Bauausschusses
+- TOP 3.6.: Lieferparkplätze Rosenheimer Straße; Ortstermin mit Stadtverwaltung
+- TOP 3.7.: Verkehrssituation in der Preysingstraße, Vorschlag der Bürgerinitiative und Antwort des Kirchlichen Zentrums
+- TOP 3.8.: Fahrradparken in der Wörthstraße, Ortstermin mit Stadtverwaltung
+- TOP 3.1.: Planfeststellung nach § 18 AEG; 2. S-Bahn-Stammstrecke München, Planfestellungsabschnitt 3A Leuchtenbergring; Planänderung zum Planfeststellungsbeschluss, hier: Abdruck der Stellungnahme der Landeshauptstadt München vom 18.04.2012
+- TOP 3.2.: Aufstellung eines Radwegerückbauprogrammes
+- TOP 3.1.: Berichte von wahrgenommenen Terminen
+- TOP 3.2.: Nächste UA-Sitzungen
+- TOP 3.1.: UA Kultur: Mittwoch, 06.06.2012 , 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Montag, 11.06.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 19.06.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 14.06.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 18.06.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 3.3.: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 27.06.2012, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 3.4.: Sonstige Termine
+- TOP 3.1.: ?Das Referat für Bildung und Sport trifft die Bezirksausschüsse?, 13.06.2012, 16.00 Uhr, Bayerstr. 28, Raum 5.074
+- TOP 3.2.: Besichtigung der Welfenhöfe
+- TOP 3.3.: Tag der offenen Tür bei der Tagesheimschule Hochstraße
+- TOP 3.4.: 15 Jahre Grenzgänge
+- TOP 3.5.: Stadtteilfest auf dem Johannisplatz am 08.07.2012, Teilnahme BA
+- TOP 3.6.: Termine anlässlich des Anhörungsverfahrens zur Nachfolgenutzung des Paulanergeländes
+- TOP 3.7.: Sommerfest 2012 der Polizeiinspektion 21, 11.07.2012, 14.00 ? 22.00 Uhr
+- TOP 3.1.: Entscheidungen
+- TOP 3.2.: Anhörungen
+- TOP 3.3.: Unterrichtungen
