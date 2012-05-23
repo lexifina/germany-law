@@ -1,0 +1,21 @@
+# Grundsatzbeschluss zu den Perspektiven der Windenergienutzung in Gronau
+
+- Körperschaft: Stadt Gronau
+- Drucksache/Vorlage: 24/2012 1. Ergänzung
+- Art: Beschlussempfehlung
+- Datum: 2012-05-23
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/vorgang/?__=UGhVM0hpd2NXNFdFcExjZRfYP4D8jluj62Ex5-Y7reE
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/paper/8225
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussempfehlung (Grundsatzbeschluss zu den Perspektiven der Windenergienutzung in Gronau) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTtYEc3YxiMYg-gYE95MEejnQ-UzR4NYPMS8Au1wcmqD/Beschlussempfehlung_24-2012_1._Ergaenzung.pdf
+- Anlage: Beschlussempfehlung (Handlungsempfehlungen Bez.-Reg.) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZttozOSPsBg_KcFOpD8uW1vNJUgiYLI1iG0de1Vgvos/Handlungsempfehlungen_Bez.-Reg..pdf
+- Anlage: Beschlussempfehlung (Übersichtsplan Konzentrationszonen FNP) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUNy-Yvb3EFiOzBmxWMB9zB6Nxr-QwdEtk2e3MaB-vaJ/Uebersichtsplan_Konzentrationszonen_FNP.pdf
+- Anlage: Beschlussempfehlung (Zone Lasterfeld FNP) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeYklqMDR1ht5bKHY_UmtiahHLTh37MDZLgnlpnjTNKe/Zone_Lasterfeld_FNP.pdf
+- Anlage: Beschlussempfehlung (Zone Kottiger Hook FNP) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZGlEvtiqE4jX3VEugMjHbSKj9HtWhcUM5zJjg8CZduk/Zone_Kottiger_Hook_FNP.pdf
+- Anlage: Beschlussempfehlung (Potentialuntersuchung 2001/Karten) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZcB5nzg1zav71Rtv2wmgVqjSwIkG069wGLP-aVrKVjOG/Potentialuntersuchung_2001-Karten.pdf
+- Anlage: Beschlussempfehlung (Potentialuntersuchung 2001/Text) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYjy6rRhSbZ2jP1etD0GcnqYUCVhlUp5yIArXqzSyzBv/Potentialuntersuchung_2001-Text.pdf
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2382 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2279 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2383 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-107
+- Beratung:  https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2310 https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- underDirectionOf: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/3-50
