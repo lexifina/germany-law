@@ -1,0 +1,7 @@
+# TOP .2.: Tagesordnung und Protokoll
+
+- Sitzung: BA 05 - Vollgremium (2012-05-23)
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/334588
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/334588
