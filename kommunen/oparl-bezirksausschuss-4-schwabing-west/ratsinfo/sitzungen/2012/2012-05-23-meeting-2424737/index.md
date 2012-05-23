@@ -1,0 +1,59 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-05-23T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2424737
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2424737
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Pfarrei St. Sebastian Tage der Freizeit und Gemeinschaft vom 28.05. - 01.06.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Pädagogische Aktion/Spielkultur e.V. 2. City Stories Geschichtenfestival vom 30.05. - 03.06.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Elternbeirat der Mittelschule Simmernstraße Workshop zum Thema Berufsorientierung
+- TOP .4.: Treffen im Referat für Bildung und Sport am 13.06.2012: Teilnehmer und Themenwünsche
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 152 ?Cafe Bar Imperium?: Erweiterung der Freischankfläche
+- TOP .2.: Pündterplatz 1, Gaststätte ?Black Bean?, Genehmigung einer Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Public Domestic" Projekt "Public Domestic" am 31.05.2012
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Grünanlage Rosa-Aschenbrenner-Bogen: Quartiersflohmarkt am 16.06.2012
+- TOP .2.: Südteil der Großen Wiese am Ackermannbogen: Nachbarschaftspicknick am 21.07.2012
+- TOP .2.1.: Planen
+- TOP .1.: Tengstr. 38: Errichtung eines Wintergartens und Erneuerung des Geländers auf der Dachterrasse im 6. OG; Nutzungsänderung Abstellraum (6. OG) zu Aufenthaltsraum
+- TOP .2.: Neuerlass der Erhaltungssatzung ?Georgen-/Zentnerstraße/Josephsplatz?
+- TOP .3.: Öffentlichkeitsphase zur Fortschreibung der Perspektive München
+- TOP .4.: Fortschreibung der Erhaltungssatzung ?Pündter- und Viktoriaplatz?
+- TOP .5.: Isoldenstraße: Neubau einer Wohnanlage mit Gewerbe und Tiefgarage - Vorbescheid
+- TOP .6.: Winzererstr. 47b ? 47c: Abbruch eines Gewerbebaus, Neubau eines Wohngebäudes (48 WE) mit 3 Gewerbeeinheiten im EG + Tiefgarage im UG (Zufahrt über Bestands-Tiefgarage in der Saarstraße)
+- TOP .7.: Kaiserstr. 57: Anbau dreier Balkone
+- TOP .8.: Bauerstr. 7: Dachgeschoss-Ausbau (3 WE)
+- TOP .9.: Lissi-Kaeser-Straße: Neubau einer Wohnanlage mit Tiefgarage - Tektur
+- TOP .10.: Agnesstr. 55: RGB: Abbruch Dachgiebel und Umbau zur Dachterrasse
+- TOP .11.: Schleißheimer Str. 83: Umbau 4. OG und DG-Ausbau
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Parkraummanagement in der Ackermannstraße zwischen Schwere-Reiter- und Winzererstraße
+- TOP .2.: Bürger: Landeanflüge über der Stadt München bzw. Schwabing-West
+- TOP .3.: Bürger: Absolutes Haltverbot links neben einer Garagenausfahrt am Ackermannbogen (Häuser Elisabeth-Kohn-Str. 33, 35, 37)
+- TOP .4.: Bürger: Burgunderstraße zur Fahrradstraße umwidmen (vertagt aus 04/12)
+- TOP .5.: BA (?): Höhere Sondernutzungsgebühren für Baustelleneinrichtungen (vertagt aus 04/12)
+- TOP .2.1.: Umwelt
+- TOP .1.: Zittelstr. 1-3: Fällung eines Spitzahorn
+- TOP .2.: Bamberger Str. 11: Umsetzung einer Linde, Fällung dreier Hainbuchen (Straßenbäume vor dem Grundstück)
+- TOP .3.: Winzererstr. 52: Fällung eines Bergahorn
+- TOP .2.2.: Verkehr
+- TOP .1.: Öffnung der in Richtung Westen einbahngeregelten Nebenfahrbahn der Karl-Theodor-Straße für den gegenläufigen Radverkehr
+- TOP .2.: Änderung der Radverkehrsführung in der Infanterie- und der Schwere-Reiter-Straße
+- TOP .3.: Änderung der Radverkehrsführung in der Belgradstraße
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
