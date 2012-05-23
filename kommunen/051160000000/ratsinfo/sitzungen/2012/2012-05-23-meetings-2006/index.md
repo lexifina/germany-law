@@ -1,0 +1,54 @@
+# Rat
+
+- Körperschaft: Stadt Mönchengladbach
+- Beginn: 2012-05-23T15:00:00+02:00
+- Ende: 2012-05-23T18:45:00+02:00
+- Ort: Ratssaal Rathaus Rheydt
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/organizations/gr/83
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2006
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/meetings/2006
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Niederschrift - Zur Kenntnis genommen
+- TOP 2: Konversion Joint Headquarter (JHQ) - Einstimmiger Beschluss
+- TOP 2.1: Ergänzungsantrag zur Konversion Joint Headquarter (JHQ); hier: Fraktionsantrag von SPD, Bündnis90/Die Grünen und FDP - Einstimmiger Beschluss
+- TOP 3: Benennung eines Mitgliedes für den Beirat bei den Justizvollzugsanstalten
+- TOP 4: Umbesetzung des Schul- und Bildungsausschusses - Einstimmiger Beschluss
+- TOP 5: Stellenplan 2012 - Mit Stimmenmehrheit beschlossen
+- TOP 5.1: Stellenplan 2012 - Mit Stimmenmehrheit beschlossen
+- TOP 6: Entwurf des Haushaltes 2012; Haushaltssatzung einschl. Anlagen und Haushaltssicherungskonzept
+- TOP 6.1: Schließung der Übergangsheime Luisental und Eickener Straße - Vom Antragsteller zurückgezogen
+- TOP 6.2: Anhebung des Gewerbesteuerhebesatzes - Vom Antragsteller zurückgezogen
+- TOP 6.3: Anhebung der Gebühren für Parkscheinautomaten und gebührenpflichtige Parkplätze - Vom Antragsteller zurückgezogen
+- TOP 6.4: Streichung der Straßenbaumaßnahmen im Haushaltsplan 2012 um 10 % - Vom Antragsteller zurückgezogen
+- TOP 6.5: Haushaltsicherungskonzept zum Haushaltsplan 2012 der Stadt MG - Prüfung v. Energiesparmaßnahmen
+- TOP 6.6: Haushaltsentwurf 2012 - Vom Antragsteller zurückgezogen
+- TOP 7: Maßnahmen zur Haushaltskonsolidierung 2010 - 152
+- TOP 8: Über- und außerplanmäßige Aufwendungen und Auszahlungen des Haushaltsjahres 2012 - Kenntnisnahme
+- TOP 9: Genehmigung einer Dringlichkeitsentscheidung für Investitionsmaßnahmen - P 0133 - Einstimmiger Beschluss
+- TOP 10: Darlehen für die Übernahme von Kleingärten und für den Laubenbau (2012) - Einstimmiger Beschluss
+- TOP 11: Beteiligung der NEW AG an der b_gas Eicken - Einstimmiger Beschluss
+- TOP 12: Beteiligung der NEW AG - Mit Stimmenmehrheit beschlossen
+- TOP 13: Vierter Nachtrag Gebührensatzung Rettungsdienst - Einstimmiger Beschluss
+- TOP 14: Ordnungsbehördliche Verordnung Offenhalten Hardt 24.06.2012 - Mit Stimmenmehrheit beschlossen
+- TOP 15: Bennende Vertreter für Betriebsausschuss KDN - Einstimmiger Beschluss
+- TOP 16: Ausbau OGS - Einstimmiger Beschluss
+- TOP 17: Neubau Kindertageseinrichtungen Stadbezirk Nord - Mit Stimmenmehrheit beschlossen
+- TOP 18: Umbesetzung des A/SGS - Einstimmiger Beschluss
+- TOP 19: Bebauungsplan Nr. 719/N - Stadtbezirk Nord - - Mit Stimmenmehrheit beschlossen
+- TOP 20: Bebauungsplan Nr. 713/S - Stadtbezirk Süd - Einstimmiger Beschluss
+- TOP 21: Wirtschaftsförderung -Beauftragung eines externen Gutachters - Mit Stimmenmehrheit abgelehnt
+- TOP 22: Erhöhung des Beteiligungsanteils an der GEM - Mit Stimmenmehrheit abgelehnt
+- TOP 23: Einrichtung einer IT-Kommission - Mit Stimmenmehrheit abgelehnt
+- TOP 24: Umbesetzung des Aufsichtsrates der Theater Krefeld und Mönchengladbach gGmbH; - Einstimmiger Beschluss
+- TOP 25: Umbesetzungen - Einstimmiger Beschluss
+- TOP 26: Umbesetzungen Aufsichtsrat der NEW Kommunalholding GmbH und BIS-Beirat - Einstimmiger Beschluss
+- TOP 27: Weihnachtsmärkte in Mönchengladbach - Einstimmiger Beschluss
+- TOP 28: Zuständigkeitsordnung; hier: Zuständigkeit des Vergabeausschusses - Mit Stimmenmehrheit abgelehnt
+- TOP 29: Umbesetzung von Gremien - Einstimmiger Beschluss
+- TOP 30: Anfragen
+- TOP 30.1: Anfrage RH Hendricks (CDU)
+- TOP 30.2: Anfrage RH Küpper (FDP)
