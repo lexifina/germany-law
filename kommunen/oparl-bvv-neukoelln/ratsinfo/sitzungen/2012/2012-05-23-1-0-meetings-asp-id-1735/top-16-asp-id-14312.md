@@ -1,0 +1,8 @@
+# TOP 16: Durchfahrverbot für Lastkraftwagen
+
+- Sitzung: 8. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin (2012-05-23)
+- Körperschaft: BVV-Neukölln
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/agendaItems.asp?id=14312
+- Ergebnis: (offen)
+- Beratung: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/consultations.asp?typ=i&id=14312
