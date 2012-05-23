@@ -1,0 +1,7 @@
+# TOP 1.: Kanalsanierung Kernstadt hier: Auftragsvergabe
+
+- Sitzung: Betriebsausschuss "Stadtwerke" (15. Sitzung) (2012-05-23)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/20830
+- Ergebnis: Einstimmiger Beschluss:
