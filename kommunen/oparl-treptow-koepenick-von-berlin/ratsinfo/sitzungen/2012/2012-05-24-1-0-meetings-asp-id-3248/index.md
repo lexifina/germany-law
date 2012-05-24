@@ -1,0 +1,65 @@
+# 9. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-05-24T16:30:00+02:00
+- Ende: 2012-05-24T21:02:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3248
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3248
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=97090
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-8 - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl von zwei Patientenfürsprecherinnen und einem Patientenfürsprecher - gewählt
+- TOP 8.2: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Wahl eines Bürgerdeputierten für den Ausschuss für Umwelt- und Naturschutz, Grünflächen - gewählt
+- TOP 8.4: Wahl einer stellvertretenden Bürgerdeputierten für den Ausschuss für Umwelt- und Naturschutz, Grünflächen - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Veröffentlichung der Geschäftsordnung des Bezirksamtes - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Planungsrechtliche Sicherung nach § 125 Abs. 2 BauGB zur Herstellung der Erschließungsanlage der Nalepastraße zw. Rummelsburger Landstraße und der Kleingartenanlage Wilhelmstrand im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - überwiesen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Wegweiser in Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.2: Naturnahe und nachhaltige Grünflächenpflege in Treptow-Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Zusatzphase Rechtsabbiegen aus dem WISTA - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.4: Tramverbindung nach Rudow - mit Änderungen in der BVV beschlossen
+- TOP 12.5: Informationen über ökologische Baustoffe im Hausbau - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Parkraumkonzept für WISTA Adlershof - mit Änderungen in der BVV beschlossen
+- TOP 12.7: Sichere Querung der Michael-Brückner-Straße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Reduzierung der Kosten für den Betrieb von Brunnen - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Offenlegung der Entscheidungsgrundlagen für die Standortschließung - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: BVG Wartehäuschen und Haltestelle zusammenführen - ohne Änderungen in der BVV beschlossen
+- TOP 12.11: Transparente Vereinbarungen beim Müggelsee - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XVI-78b („Am Stichkanal Süd“) hier: Einstellung des Bebauungsplans - überwiesen
+- TOP 13.2: Schließung des Bürgeramtes IV in 12527 Berlin, Wassersportallee 56 - überwiesen
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Umweltmonitoring JETZT für Trinkwasserschutzgebiete - überwiesen
+- TOP 14.2: Zentraler Standort für Hochschule für Schauspielkunst "Ernst Busch" - überwiesen
+- TOP 14.3: Handlungsfähigkeit des Bezirks sichern: Personalabbau stoppen - überwiesen
+- TOP 14.4: Fehlendes Ortseingangsschild "Berlin" Altglienicker Chaussee/ Schönefelder Chaussee - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Verkehrsrisiko bei der Ausfahrt aus der Straße Alter Segelfliegerdamm mindern - überwiesen
+- TOP 14.6: Pressemitteilungen im Bezirksamt - überwiesen
+- TOP 14.7: Fête de la Musique auf der Insel der Jugend - im Ausschuss zurückgezogen
+- TOP 14.8: Babyklappe und anonyme Geburten im Krankenhaus Köpenick - überwiesen
+- TOP 14.9: Kein störendes Gewerbe im Ortskern Altglienicke - mit Änderungen in der BVV beschlossen
+- TOP 14.10: Änderung der Geschäftsordnung "Beschlussprotokoll" - überwiesen
+- TOP 14.11: Höhenbegrenzungsmarkierung an der Bahnbrücke Köpenick - überwiesen
+- TOP 14.12: Eine weitere Gemeinschaftsschule einrichten - überwiesen
+- TOP 14.13: Änderung der Geschäftsordnung "Protokollbestätigung" - überwiesen
+- TOP 14.14: Änderung der Geschäftsordnung "Audioaufzeichnung" - überwiesen
+- TOP 14.15: Keine Reduzierung des Schallschutzes - mit Änderungen in der BVV beschlossen
+- TOP 14.16: Erhalt des Köpenicker Standorts der Joseph-Schmidt-Musikschule - überwiesen
+- TOP 15: Große Anfragen - (offen)
