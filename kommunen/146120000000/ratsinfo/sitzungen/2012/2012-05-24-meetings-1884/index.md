@@ -1,0 +1,51 @@
+# 41. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-05-24T16:00:00+02:00
+- Ende: 2012-05-24T21:50:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1884
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1884
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_05_24 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00098405.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Aktuelle Stunde zum Thema "Zukunft der städtischen Krankenhäuser Dresden-Friedrichstadt und Dresden-Neustadt" - zur Kenntnis genommen
+- TOP 3: Zukunftskonzept für die städtischen Krankenhäuser (10-Punkte-Plan) - Ablehnung
+- TOP 4: Krankenhäuser stärken - Ablehnung
+- TOP 5: Umsetzung Zukunftskonzept städtische Krankenhäuser - Zustimmung
+- TOP 6: Einrichtung eines Medizinischen Versorgungszentrums - Zustimmung
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Unterstützung der Kampagne "Weil Kinder Zeit brauchen" der Liga der Freien Wohlfahrtspflege Sachsen - punktweise Abstimmung
+- TOP 9: Umbesetzung im Jugendhilfeausschuss - Vertagung
+- TOP 10: Umbesetzung im VVO-Hauptausschuss - Vertagung
+- TOP 11: Einrichtung von Fahrradstellplätzen - Vertagung
+- TOP 12: Schulleitungen in die Schulnetzplanung einbeziehen - Vertagung
+- TOP 13: Bildung eines Beirates zur Verbesserung der sozialen Integration wohnungsloser Menschen oder von Wohnungslosigkeit bedrohter Menschen in Dresden - Vertagung
+- TOP 14: Gerechte Kosten der Unterkunft und Heizung - jetzt richtiges schlüssiges Konzept für Dresden - Vertagung
+- TOP 15: Schulbau- und Schulsanierungsprogramm sportstrategisch anpacken - Vertagung
+- TOP 16: Änderung der Hauptsatzung - Vertagung
+- TOP 17: Vorbildfunktion der Stadt Dresden erfüllen - Errichtung einer Photovoltaik-Anlage auf dem Rathausdach - Vertagung
+- TOP 18: Kommunale Sozialpolitik zur Bekämpfung von Armut im Alter - Vertagung
+- TOP 19: Grundstücksplanung für Kita- und Schulbedarf - Vertagung
+- TOP 20: Gleichstellung eingetragener Lebenspartnerschaften bei der Zweitwohnungssteuer - Vertagung
+- TOP 21: Änderung der Friedhofssatzung der Landeshauptstadt Dresden hinsichtlich des Lebenspartnerschaftsgesetzes - Vertagung
+- TOP 22: Zwei fünfte Klassen im kommenden Schuljahr für die 88. Mittelschule in Dresden Hosterwitz - Zustimmung
+- TOP 23: Vorhabenbezogener Bebauungsplan Nr. 6007, Dresden-Neustadt, Globus SB-Markt am Alten Leipziger Bahnhof - Vertagung
+- TOP 24: Vorhabenbezogener Bebauungsplan Nr. 655, Dresden-Neustadt, Einkaufszentrum und Bürgerhaus am Albertplatz - Vertagung
+- TOP 25: Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Dr.-Külz-Ring 19, Komplexsanierung in 6 Bauabschnitten - Vertagung
+- TOP 26: Änderung/Ergänzung der Satzung der Landeshauptstadt Dresden über die Erhebung von Verwaltungskosten für Amtshandlungen in weisungsfreien Angelegenheiten (Kostensatzung) vom 20. Dezember 2007 - Verweisung
+- TOP 27: Beitritt der Landeshauptstadt Dresden zur 'Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene' - Vertagung
+- TOP 28: Namensgebung der 59. Grundschule, Kurparkstraße 12 in 01324 Dresden - Vertagung
+- TOP 29: Umsetzung der 8. Änderung des Stasi-Unterlagen-Gesetzes vom 22.12.2011 - Vertagung
+- TOP 30: Veränderung der Planwerte von Einzahlungen und Auszahlungen für investive Maßnahmen des Finanzhaushaltes und Auszahlungen des Ergebnishaushaltes des Schulverwaltungsamtes und des Stadtplanungsamtes - punktweise Zustimmung
+- TOP 31: Gesellschafterfinanzierung von Investitionen der Mitteldeutschen Flughafen AG im Zusammenhang mit Infrastrukturmaßnahmen der Flughafen Dresden GmbH und der Flughafen Leipzig/Halle GmbH - einstimmig
+- TOP 32: Zweite Neufassung der Grundsätze zur Vergabe des Erlweinpreises der Landeshauptstadt Dresden - einstimmig
+- TOP 33: Dresdner Präventionsprogramm gegen Gewalt im Umfeld des Fußballs - Vertagung
+- TOP 34: Umgang mit Altersarmut in Dresden - Vertagung
+- TOP 35: Bündnis für Zukunftsinvestitionen - Vertagung
+- TOP 36: Heim-TÜV des Sächsischen Ausländerbeauftragten - Anregungen umsetzen - Vertagung
