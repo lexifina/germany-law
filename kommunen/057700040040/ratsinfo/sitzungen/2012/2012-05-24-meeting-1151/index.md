@@ -1,0 +1,59 @@
+# Rat (21. Sitzung)
+
+- Körperschaft: Stadt Rahden
+- Beginn: 2012-05-24T17:00:00+02:00
+- Ende: 2012-05-24T19:40:00+02:00
+- Ort: Rathaus, Lange Str. 9, 32369 Rahden, Sitzungssaal
+- Status: 
+- Gremium: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-9
+- Ratsinformationssystem: https://rahden.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZe--LPMPidEvkz4uf8Wslkk
+- OParl: https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/1151
+- Quelle: http://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZeKcPBDa9TufkM8oBl1mFDJiVoIITe9PFlQTuFz41aLr/Bekanntmachung_Rat_24.05.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://rahden.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbp2DtNhFh0j5g0FLT_kSyz_q-YoF4t2prHSWzKD_GXh/Oeffentliche_Niederschrift_Rat_24.05.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: ÖFFENTLICHE SITZUNG
+- TOP 1.: Eröffnung der Sitzung und Feststellung der Beschlussfähigkeit
+- TOP 2.: Anträge zur Niederschrift der letzten Sitzung
+- TOP 3.: Einwohnerfragestunde (Beginn 17.00 Uhr)
+- TOP 3.1: Schulwegsicherungsmaßnahme "Freiherr-vom-Stein-Straße/Am Klosterkamp
+- TOP 3.2: Wohnbaufläche im Bereich "Neuer Markt"
+- TOP 3.3: Gebäudekataster für schützenswerte Gebäude im Rahmen der Stadtsanierung
+- TOP 4.: Aufstellung eines vorhabenbezogenen Bebauungsplanes gemäß § 12 Baugesetzbuch (BauGB) für den Bereich „Solarpark Varlheide" in der Ortschaft Varl sowie 73. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 BauGB - 31 Stimmen dafür, 4 dagegen (Zimmermann, Staubach, Kröger, Steinkamp), 0 Enthaltungen
+- TOP 5.: 13. Änderung des Bebauungsplanes Nr. 13 "Gerichtsstraße/Flachsstraße" a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregun- gen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 6.: Aufstellung des Bebauungsplanes Nr. 80 "Eisenbahnstraße" und 67. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) - Einstimmig, 0 Enthaltungen
+- TOP 7.: 2. Änderung und Erweiterung des Bebauungsplanes Nr. 41 "Gewerbegebiet Pr. Ströhen" im Bereich des Grundstückes Schmiedestraße 8 a) Beratung und Beschlussfassung über die Änderung und Erweiterung des Bebauungs- planes im Verfahren gemäß § 13a Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Entwurf und über die öffentliche Auslegung der 2. Änderung und Erweiterung des Bebauungsplanes Nr. 41"Gewerbegebiet Pr. Ströhen" gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 BauGB und über die Beteiligung der Be- hörden und sonstigen Träger öffentlicher Belange gemäß § 13a Abs. 2 i.V.m. § 4 Abs. 2 BauGB - Einstimmig, 0 Enthaltungen
+- TOP 8.: 5. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregun- gen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 9.: 6. Änderung des Bebauungsplanes Nr. 8 "Am Krankenhaus" a) Beratung und Beschlussfassung über das Ergebnis der Beteiligung der Öffentlichkeit und der Beteiligung der Behörden und sonstigen Träger öffentlicher Belange sowie über die während der Offenlegung des Entwurfes des Bauleitplanes vorgebrachten Anregun- gen gemäß § 13a Abs. 2 i.V.m. § 3 Abs. 2 Baugesetzbuch (BauGB) b) Beratung und Beschlussfassung über den Satzungsbeschluss - Einstimmig, 0 Enthaltungen
+- TOP 10.: Aufstellung des vorhabenbezogenen Bebauungsplanes "Varler Straße/Kleines Feld" gemäß § 12 Baugesetzbuch (BauGB) und 69. Änderung des Flächennutzungsplanes der Stadt Rahden im Parallelverfahren gemäß § 8 Abs. 3 Baugesetzbuch (BauGB) Beratung und Beschlussfassung über die während der Offenlegung der Entwürfe der Bauleitpläne vorgebrachten Anregungen gemäß § 3 Abs. 2 BauGB Beratung und Beschlussfassung über den Satzungsbeschluss und über die endgültige Feststellung des Änderungsplanes für die 69. Änderung des Flächennutzungsplanes - Einstimmig, 0 Enthaltungen
+- TOP 11.: Einführung einer einwohnerbezogenen Sockelgebühr für die Benutzung der Abfallentsorgungsanlage des Kreises Minden-Lübbecke - Einstimmig, 1 Enthaltungen (Specht)
+- TOP 12.: Sparkassenangelegenheiten; a) Entlastung der Organe der Stadtsparkasse Rahden für das Geschäftsjahr 2011 b) Verteilung des Jahresüberschusses - Einstimmig, 0 Enthaltungen
+- TOP 13.: Bestellung einer Örtlichen Beauftragten für die Volkshochschule Altkreis Lübbecke - Einstimmig, 0 Enthaltungen
+- TOP 14.: Schulwegsicherungskonzept; hier: Schulwegsicherungsmaßnahmen "Freiherr-vom-Stein-Straße/Am Klosterkamp" - 29 Stimmen dafür, 6 dagegen, 0 Enthaltungen
+- TOP 15.: Folge- und Personalkosten bei Investitionen u. a.
+- TOP 16.: Bekanntgaben
+- TOP 16.1: Sachstandsbericht zum Krankenhaus Rahden
+- TOP 16.2: 2. Klimaolympiade
+- TOP 16.3: Einweihung Feuerwehrgerätehaus Rahden
+- TOP 16.4: Neubürgerempfang
+- TOP 17.: Verschiedenes
+- TOP 17.1: Stadtfest Rahden
+- TOP 17.2: Baumschutzsatzung
+- TOP 17.3: Öffnungszeiten der Toilettenanlage auf dem Parkplatz Ortgies
+- TOP 17.4: Bepflanzung am Bahnhofsvorplatz
+- TOP 17.5: Taxibus Rahden
+- TOP 17.6: Spielplatzpflege
+- TOP II.: NICHTÖFFENTLICHE SITZUNG
+- TOP 18.: Genehmigung von Dringlichkeitsentscheidungen
+- TOP 18.1: Erlass von Aussetzungszinsen - Einstimmig, 0 Enthaltungen
+- TOP 19.: Vergabe von Planungsleistungen - Einstimmig, 2 Enthaltungen (Die Grünen)
+- TOP 20.: Bekanntgabe der im I. Quartal 2012 abgeschlossenen Grundstücksverträge - Ohne Abstimmung
+- TOP 21.: Grundstücksangelegenheiten - Einstimmig, 0 Enthaltungen
+- TOP 22.: Bekanntgaben
+- TOP 22.1: Stadtarchiv Rahden
+- TOP 22.2: Brandschutzbedarfsplan
+- TOP 23.: Verschiedenes
+- TOP 23.1: Rederecht in Ausschüssen
+- TOP 23.2: Bekanntmachung von Ratssitzungen
