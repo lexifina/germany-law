@@ -1,0 +1,6 @@
+# TOP 4: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 7. Sitzung des Ausschusses für das Altenzentrum St. Josef der Ortsgemeinde Herxheim (2012-05-24)
+- Körperschaft: Ortsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2009-212-29%7Czt_0%7C2
