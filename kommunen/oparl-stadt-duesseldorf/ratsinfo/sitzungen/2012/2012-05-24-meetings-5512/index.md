@@ -1,0 +1,51 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-05-24T14:00:00+02:00
+- Ende: 2012-05-24T20:05:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5512
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5512
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00177462.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00177462.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00177462.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung TO - mehrheitlich beschlossen
+- TOP 2: Genehmigung NS - einstimmig beschlossen
+- TOP 3: Wahl eines Beigeordneten - mehrheitlich beschlossen
+- TOP 4: Aktuelle Anfragen
+- TOP 4.1: Anfrage aktuell; Auswirkungen des Aufstiegs von Fortuna Düsseldorf in die 1. Bundesliga auf die ESPR - beantwortet
+- TOP 4.2: Anfrage aktuell SPD: Verzögerung der Wiedereröffnung der Mahn- und Gedenkstätte - beantwortet
+- TOP 4.3: Anfrage aktuell Rh Laubenburg:Urteil des Bundessozialgerichts zur angemessenen Wohnungsgröße SGB - beantwortet
+- TOP 5: Anfragen
+- TOP 5.1: Anfrage Bü90-Grü: Klimaschutz im Schneckentempo - wann kommt der Masterplan Gebäudesanierung? - beantwortet
+- TOP 5.2: Anfrage Bü90-Grü: Forciert die Stadt Mietpreissteigerungen und Gentrifizierung in Flingern? - beantwortet
+- TOP 5.3: Anfrage SPD: Vermietung der Europatagbühne - zurückgezogen
+- TOP 5.4: Anfrage Rh Blanchard: Kein Verkauf und Abriss des Atelierhauses in Golzheim - beantwortet
+- TOP 5.5: Anfrage Linke: Widerspruch gegen Datenweitergabe - schriftlich beantwortet
+- TOP 5.6: Anfrage Linke: Bambi-Verleihung in Düsseldorf - schriftlich beantwortet
+- TOP 5.7: Anfrage Rh Cardeneo: Die Düsseldorfer Hotellerie und die Drupa - schriftlich beantwortet
+- TOP 5.8: Anfrage Rh Laubenburg: Veröffentlichung des Haushaltsplanentwurfs auf den städtischen Internetseiten - schriftlich beantwortet
+- TOP 6: Kö-Bogen, Oberflächengestaltung - 1.Bauabschnitt - mehrheitlich beschlossen
+- TOP 7: Ausbau Klärwerk-Nord auf 13 mg/l Gesamtstickstoff - Bedarfsbeschluss - - einstimmig beschlossen
+- TOP 8: Erlass einer Düsseldorfer Festbrennstoffverordnung nach der öffentlichen Auslegung - mehrheitlich beschlossen
+- TOP 9: Neufassung der Gebührensatzung für die Städtische Clara-Schumann-Musikschule - mehrheitlich beschlossen
+- TOP 10: Nachwahl von Juroren in das Preisgericht des Heine-Preises der Landeshauptstadt Düsseldorf - zurückgezogen
+- TOP 11: Anträge
+- TOP 11.1: Antrag SPD: Schutz der natürlichen Ressourcen....... - mehrheitlich abgelehnt
+- TOP 11.1.1: ÄA CDU und FDP: Schutz der natürlichen Ressourcen - Kein Fracking auf Düsseldorfer Stadtgebiet - zur Kenntnis genommen
+- TOP 11.2: Antrag CDU und FDP: Kooperationsmöglichkeiten der Deutschen Oper am Rhein (DOR) - zur Kenntnis genommen
+- TOP 11.2.1: Antrag SPD: Resolution:Fortführung der Theatergemeinschaft "Deutsche Oper am Rhein" mit der Stadt Du - zur Kenntnis genommen
+- TOP 11.3: Antrag SPD: Verfahren bei geplanten Betriebsträgerwechseln im Kindertagesstättenbereich - mehrheitlich abgelehnt
+- TOP 11.4: Antrag CDU und FDP: Änderung der Bestimmungen zur Verleihung des Heinrich-Heine-Preises - mehrheitlich beschlossen
+- TOP 11.5: Antrag Bü90/Grü:Färberstraße 136 - Chance für innovative Altenwohnungen in den „Bilker Höfen“ - mehrheitlich abgelehnt
+- TOP 11.6: Anttrag Bü90/Grü und SPD: Düsseldorf Besucherinnen und Besucher willkommen heißen - mehrheitlich abgelehnt
+- TOP 12: Kuratorium der Stiftung Museum Kunstpalast - Ersatzwahl - - einstimmig beschlossen
+- TOP 13: AR Deuteche Oper am Rhein - Ersatzwahl - einstimmig beschlossen
+- TOP 14: Aufsichtsrat der Quadriennale GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 15: Umbesetzung von Ausschüssen und sonstigen Gremien - einstimmig beschlossen
