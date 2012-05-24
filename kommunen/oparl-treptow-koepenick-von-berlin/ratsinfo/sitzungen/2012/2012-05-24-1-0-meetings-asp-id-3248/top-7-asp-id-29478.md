@@ -1,0 +1,7 @@
+# TOP 7: Mitteilungen des Vorstehers Nr. VII-8
+
+- Sitzung: 9. (öffentliche) Sitzung der Bezirksverordnetenversammlung (2012-05-24)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=29478
+- Ergebnis: ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
