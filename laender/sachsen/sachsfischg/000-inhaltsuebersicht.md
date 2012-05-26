@@ -38,7 +38,7 @@ Abschnitt 6 Fischereibehörden, Fischereiaufsicht, Fischereiverordnung, Förderu
 § 31 Aufgaben und Befugnisse der Fischereibehörden, Auskunftspflicht
 § 32 Aufgaben und Befugnisse der Fischereiaufseher
 § 33 Fischereiverordnung
-§ 34 Förderung der Fischerei, Fischereiabgabe
+§ 34 Förderung der Fischerei
 Abschnitt 7 Bußgeldvorschriften, Einschränkung von Grundrechten
 § 35 Bußgeldvorschriften
 § 36 Einschränkung von Grundrechten
