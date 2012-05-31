@@ -1,0 +1,7 @@
+# TOP 13.5: gesund genießen - gesunde Mittagsverpflegung in Schulen (SekI & II)
+
+- Sitzung: öffentliche/nicht öffentliche Sitzung des Sozial- und Gesundheitsausschusses (2012-05-31)
+- Körperschaft: Rheinkreis Neuss
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/agendaitems/6527
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0019/consultations/2834
