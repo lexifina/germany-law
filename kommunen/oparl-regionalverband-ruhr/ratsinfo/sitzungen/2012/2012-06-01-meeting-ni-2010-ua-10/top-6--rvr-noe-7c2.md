@@ -1,0 +1,6 @@
+# TOP 6: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 10. Sitzung des Umweltausschusses (2012-06-01)
+- Körperschaft: Regionalverband Ruhr
+- Öffentlich: nein
+- OParl: https://ruhrparlament.de/oparl/agendaItem/ni_2010-UA-10%7CAM-rvr-noe%7C2
