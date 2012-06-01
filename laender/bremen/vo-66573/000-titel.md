@@ -1,1 +1,1 @@
-# Verordnung über den Ladenschluss im Fischereihafen von Bremerhaven vom 29. Juni 2009
+# Verordnung über den Ladenschluss im Fischereihafen von Bremerhaven vom 23. Mai 2012
