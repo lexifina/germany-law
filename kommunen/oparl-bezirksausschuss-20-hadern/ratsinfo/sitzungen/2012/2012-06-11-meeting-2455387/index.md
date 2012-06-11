@@ -1,0 +1,73 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-06-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455387
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455387
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Archivraum für den Geschichtsverein Hadern e.V. (vertagt aus 05/12)
+- TOP 1.2.: Bauvorhaben in der Heiglhofstraße / Ecke Marchioninistraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Budget der Bezirksausschüsse, VDK-Hadern-Neuried 65 Jahre VdK Bayern am 20.05.2012 (Direktorium, 25.05.12) Sitzungsvorlage nr. 08-14 / V 09473
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Blumenauer Straße Sommerfest REGSAM e.V. am 21.07.2012 (Kreisverwaltungsreferat, 09.05.12)
+- TOP 6.2.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Wilhelm-Weitling-Straße Anwohnerfest am 14.07.2012 (Kreisverwaltungsreferat, 16.05.12)
+- TOP 6.3.: Stellungnahme der Bezirksausschüsse zum Entwurf des Lärmaktionsplans für München (Referat für Gesundheit und Umwelt, 24.05.12)
+- TOP 6.4.: Immastraße 11-15; Anwohnerfest am 28.07.12 (Kreisverwaltungsreferat, 29.05.12)
+- TOP 6.5.: Circusgastspiel am Max-Lebsche-Platz; Terminverlegung von 29.06.-08.07.12 auf den 02.07.-22.07.12 (Kreisverwaltungsreferat, 30.05.12)
+- TOP 6.6.: Erinnerungsort München / NS-Geschichte (Kulturreferat, 04.06.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Holzapfelkreuther Straße 22, 1 Platane
+- TOP 7.2.: Burg-Eltz-Weg 1, 1 Birke
+- TOP 7.3.: Stahleckstraße 13, 1 Tanne
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: - Waldwiesenstraße, 1 Linde (Straßenbegleitgrün) (Baureferat, 14.05.12) - Heiglhofstraße, 1 Linde (Straßenbegleitgrün) (Baureferat, 14.05.12)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Langbehnstraße 7, 1 Rotbuche
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Vollzug der Grünanlagensatzung vom 12.08.1991, Baustelleneinrichtung in der Grünanlage Sauerbruchstraße 50 - 56 (Kreisverwaltungsreferat, 03.05.12)
+- TOP 8.2.: Werbenutzungsvertrag der Landeshauptstadt München, Ergebnisse der Standortbereisung (Referat für Arbeit und Wirtschaft, 04.05.12)
+- TOP 8.3.: Baumaßnahmen der Stadtwerke München, - Max-Lebsche-Platz: Gas (SWM, 14.05.12) - Blumenauer Straße: Wasser - Forst-Kasten-Allee: Gas - Fürstenrieder Straße HW 5: Wasser - Rolf-Pinegger-Straße nahe 24 - N1589: Strom (SWM, 21.05.12)
+- TOP 8.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV), Ausnahmegenehmigung gem. § 7 Abs. 2 der 32. BImSchV zur Durchführung von Mäharbeiten des Straßenbegleitgrüns (Referat für Gesundheit und Umwelt, 07.05.12)
+- TOP 8.5.: Zweckentfremdung von Wohnraum: - Toemlingerstraße (Sozialreferat, 15.05.12) - Am Waldrand (Sozialreferat, 21.05.12) - Am Waldspitz (Sozialreferat, 21.05.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Haltverbot Großhaderner Straße (Kreisverwaltungsreferat, 04.05.12)
+- TOP 9.2.: Zaun Ossingerstraße 59 (Referat für Stadtplanung und Bauordnung, 02.05.12)
+- TOP 9.3.: Nutzung Canisiusplatz als Schulhof während der Bauphase (Baureferat, 27.04.12)
+- TOP 9.4.: Langfristige Siedlungsentwicklung am Beispiel "Holzapfelkreuth" (Referat für Stadtplanung und Bauordnung, 03.05.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Informationen für die Bezirksausschüsse zum Lärmaktionsplan (Münchner Forum, 15.05.12)
+- TOP 11.2.: Rückmeldung und Dank an den BA 20 für Zuschuss aus dem BA-Budget (Stüps, Schulsozialarbeit Blumenauer Schule, 23.04.12)
+- TOP 11.3.: Finanzierung der WALK21: Entnahme der Kosten aus Radverkehrspauschale - Auswirkungen (Antrag BA 9, 21.05.12)
+- TOP 11.4.: Oktoberfest 2012, Reservierungen der BA's (Direktorium, 23.05.12)
+- TOP 11.5.: 18.jetzt - Fest junger Erwachsener im Rathaus am 13.10.12 (Direktorium, 29.05.12)
+- TOP 11.6.: Regionalgespräch 2012 zwischen der Lokalbaukommission und den Bezirksausschüssen am 23.07.12 (Referat für Stadtplanung und Bauordnung, 30.05.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 25.04.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08559 (nach Antrag i.d.F. vom 29.03.2012): Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.2.: Beschluss vom 25.04.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09107 (nach Antrag): Bewerbung der Landeshauptstadt München um die Ausrichtung der "WALK21 Konferenz 2013" in München Auf Punkt 3 des neugefassten Referentenantrages wird hingewiesen (S. 3)
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08921: Kostenloses Kurzzeitparken (Abgelehnt)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08485: Leihradsysteme für München und seine Region - Status, Perspektiven und Erfolgsfaktoren darstellen (Das Planungsreferat will sich weiterhin mit der Thematik befassen und dem Stadtrat wieder berichten. Im Punkt 2 des Referentenantrages werden die Worte "geschäftsordnungsgemäß behandelt" durch "aufgegriffen" ersetzt.)
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 02.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09249: Grundschule Canisiusplatz 2 im 20. Stadtbezirk Hadern, Generalinstandsetzung und Erweiterung (die Realisierung mit prognostizierten Ausführungskosten i.H.v. 21.638.000 Euro wird genehmigt)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09314: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters (Architekten Gert Goergens und Heinrich Maluche)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
