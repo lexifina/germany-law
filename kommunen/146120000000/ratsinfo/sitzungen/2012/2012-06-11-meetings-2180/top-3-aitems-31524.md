@@ -1,0 +1,8 @@
+# TOP 3: Bebauungsplan Nr. 224.1, Dresden-Gompitz Nr. 3, Alte Gärtnereien
+
+- Sitzung: 36. Sitzung des Ortschaftsrates Gompitz (2012-06-11)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/31524
+- Ergebnis: Zustimmung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/10140
