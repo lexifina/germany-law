@@ -1,0 +1,113 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2397567
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2397567
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 15.05.2012
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers der Maxvorstadt zur ?Amalienpassage?
+- TOP 5.2.2.: Schreiben einer Kanzlei aus der Maxvorstadt (s. TOP C.2.1.1) Einrichtung einer werktäglichen Lieferzone (8 bis 18 Uhr) vor der Nymphenburger Straße 3
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 17.,18.,19. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 20. KW
+- TOP 2.1.3.: Vollzug der Baumschutzverordnung Seidlstraße 28, Modernisierung eines Bürogebäudes und Neugestaltung der Fassade
+- TOP 2.1.4.: Vollzug der Baumschutzverordnung Brienner Straße 39, Modernisierung eines Bürogebäudes und Neugestaltung der Fassade
+- TOP 2.1.5.: Vollzug der Baumschutzverordnung Adalbertstraße 76 (Tektur), Renovierung und Modernisierung des denkmalgeschützten Anwesens, DG-Ausbau, Anbau von Balkonen und eines Außenaufzugs, Wohnungserweiterungen der EG-Wohnungen in das Souterrain, Einbau einer Zentralheizung
+- TOP 2.1.6.: Katharina-von-Bora-Straße 5 ? 9, Neubau eines Verwaltungsgebäudes, Vorbescheid
+- TOP 2.1.7.: Theresienstraße 1 ? 5, Neubau eines Büro- und Geschäftshauses mit eingeschossiger Tiefgarage, Vorbescheid
+- TOP 2.1.8.: Görresstraße 38, Nutzungsänderung und Ausbau des Dachspeichers zu 3 Wohneinheiten, Vorbescheid
+- TOP 2.1.9.: Leopoldstraße 3, Aufstockung des Rückgebäudes der Ludwig-Maximilians-Universität, Vorbescheid
+- TOP 2.1.10.: Nymphenburger Straße 59, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP 2.1.11.: Dachauer Straße 21, Nutzungsänderung Gaststätte zu Spielothek
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Veterinärstraße 13: 1 Eberesche, 1 Trauerweide und 1 Bergahorn
+- TOP 2.2.2.: Theresienstraße 87: 1 Platane und 1 Weide
+- TOP 2.2.3.: Gabelsbergerstraße 103, eine Pappel
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Antrag der SPD-Fraktion im BA 3 vom 18.05.2012 Verlängerung der Fußgänger- und Radfahrerphase an der Lichtzeichenanlaage Odeons- platz/Brienner Straße
+- TOP 1.2.: Antrag der Fraktion Bündnis 90/Grüne im BA 3 vom 29.05.2012 Radweg entgegen der Einbahnrichtung in der Sophienstraße
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schreiben einer Kanzlei aus der Maxvorstadt (s. TOP A.5.2.2) Einrichtung einer werktäglichen Lieferzone (8 bis 18 Uhr) vor der Nymphenburger Straße 3
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Gabelsbergerstraße 65, neue Verkaufseinrichtung auf öffentlichem Grund
+- TOP 2.2.2.: Heßstraße/Ecke Schwindstraße, Zeitungsentnahmegerät für ?SZ?
+- TOP 2.2.3.: Türkenstraße 36, neue Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 4.5.: Referat für Gesundheit und Umwelt Entwurf des Lärmaktionsplanes für München
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Gabelsbergerstraße 58: Erweiterung einer bestehenden Freischankfläche
+- TOP 2.3.2.: Amalienstraße 77: Genehmigung einer Freischankfläche
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Kino Open Air auf dem Königsplatz vom 22.07. bis 02.08.2012
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Dachauer Straße TAMTAO-Trommelwoche vom 11. - 15.06.2012
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Orgelkonzerte" XX. Internationale Orgelkonzerte vom 04.09. - 17.09.2012
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Förderverein Komische Pinakothek e.V. Ausstellung vom 14. - 27.07.2012
+- TOP 2.3.: U-Bahn-Galerie: 1.Renovierung 2.Terminplanung September-Dezember 2012
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Init. "Kunst Vernissage" Kunst Vernissage vom 28.06. - 27.07.2012
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Planung für das Finanzamtsareal an der Deroystraße Antrag Nr. 08-14 / A 03280 der Stadträte Hans Dieter Kaplan, Christian Amlong, Oliver Belik Claudia Tausend, Beatrix Zurek und Dr. Reinhard Bauer vom 02.05.2012
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission, Untere Naturschutz- behörde Ablehnung der Fällung Karlsstraße 56 - 58
+- TOP 1.3.: Umstrukturierung des Areals der Tierärztlichen Fakultät der Ludwig-Maximilians-Universität zwischen Veterinärstraße, Königinstraße und Englischem Garten ? Grundsatzbeschluss und weiteres Vorgehen Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.2012 Sitzungsvorlage Nr. 08-14 / V 09287
+- TOP 1.4.: Neubau eines außenliegenden Personen- und Lastenaufzugs am Schulgebäude Deroystr. 1 Ausführungsgenehmigung Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 07.03.2012 Sitzungsvorlage Nr. 08-14 / V 08471
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Vorbescheid Türkenstraße 3-7 (Neubau von 2 Bürogebäuden mit Tiefgarage) Antwort auf die Stellungnahme des BA vom 10.02.2012
+- TOP 1.6.: Renovierung des Schmuck-Eingangs (Porticus) an der Ostseite des Alten Botanischen Gartens
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Genehmigungsbescheid für Münchner Blade Night 2012 vom 07.05. bis 10.09.2012 (Unterlagen wurden elektronisch übermittelt)
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Streetlife Festival/Corso Leopold; Erfahrungsbericht 2010 und 2011, Ausblick Antwortschreiben des KVR auf das Schreiben des BA 3 vom 06.03.2012
+- TOP 2.3.: Schreiben der Bayerischen Staatskanzlei vom 24.04.2012 Zentrale Feierlichkeiten zum Tag der Deutschen Einheit am 02. und 03.10.2012 in München
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung gem. § 45 StV: Zeichen ?Kreuzung oder Einmündung mit Vor- fahrt von rechts? an der Kreuzung Otto-/Max-Joseph-Straße
+- TOP 2.5.: Kommunalreferat, Vermessungsamt Straßenbenennung im 3. Stadtbezirk, Bernd-Eichinger-Platz
+- TOP 2.6.: Referat für Arbeit und Wirtschaft, Referent Dieter Reiter Werbenutzungsvertrag der Landeshauptstadt München, Ergebnisse der Standortbereisung
+- TOP 2.7.: Behindertengerechter Zugang zum Tengelmann-Markt in der Schellingstr. 68 durch eine Rampe auf öffentlichem Grund
+- TOP 2.8.: Nord-Süd-Querung der Altstadt für den Radverkehr ? Verkehrs- und Funktionskonzept a) Vorinformation des Stadtrats; b) Weiteres Vorgehen ? Anhörung der betroffenen Bezirksausschüsse, Verbände und Institutionen; c) Anträge Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.2012 Sitzungsvorlage Nr. 08-14 / V 02148 mit zwei Hinweisen/Ergänzungen
+- TOP 2.9.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkehrsrechtliche Anordnung eines gegenläufigen Radwegs auf der Südseite der Arnulfstraße östlich der Zufahrt des ZOB
+- TOP 2.10.: Baureferat Tiefbau Fahrbahnsanierung in der Elisenstraße zwischen Dachauer Straße und Luisenstraße
+- TOP 2.11.: Zur Finanzierung der WALK 21: Entnahme der Kosten aus Radverkehrspauschale - Auswirkungen
+- TOP 2.12.: Erlass einer Werbeanlagensatzung
+- TOP 2.13.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Open Air Veranstaltung auf dem Königsplatz am 03.06.2012 mit Paul Kalkbrenner Erlaubnisbescheid
+- TOP 2.14.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Basketballturnier auf dem Bassketballplatz Barer Straße/Theresienstraße am 09.06.2012 neuer Termin: 30.06.2012
+- TOP 2.15.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Erlaubnisbescheid für die Fronleichnamsprozession 2012
+- TOP 2.16.: Baumaßnahmen der Stadtwerke, Ringumorientierung Arcisstraße a) Görresstraße 20, 1. BA b)Görres-/Zentnerstraße, 2. BA c) Görres-/Winzererstraße, 3. BA d) Winzerer-/Agnesstraße, 4. BA
+- TOP 2.17.: Baureferat, Beschlussvorlage Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und -sicherungsver- ordnung der Landeshauptstadt München Beschluss des Bauausschusses vom 12.06.2012 Sitzungsvorlage Nr. 08-14 / V 08433
+- TOP 2.18.: Kreisverwaltungsreferat, Verkehrsmanagement, Strategische Konzepte, Grundsatzangele- genheiten Temporäre Fahrradstellplätze am Geschwister-Scholl-Platz
+- TOP 3.1.: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen Beschluss der Vollversammlung vom 25.04.2012 Sitzungsvorlage Nr. 08-14 / V 08559
+- TOP 4: Kultur
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Budget, Widerrufsbescheid des Direktoriums vom 07.05.2012 ?Die Kinomacher?
+- TOP 4.1.: Amtsnachfolge im BA 3
+- TOP 4.2.: Oktoberfest 2012, Reservierung für den BA 3
+- TOP 4.3.: Einrichtung eines regelmäßigen ?Saaldienstes? zur Vorbereitung unseres Sitzungssaales im Palais Dürckheim
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.1.3.: Bürgeranfrage vom Mai 2012 Parkplatz vor dem Anwesen Schellingstraße 26 (s. TOP A 5.2.3)
+- TOP 6: (E) Pflanzung einer Baumreihe entlang der gesamten Südseite der Akademiestraße Empfehlung Nr. 08-14 / E 01117 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2011
+- TOP 3: Aktuelle Sachstandsberichte
