@@ -1,0 +1,101 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2537052
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2537052
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Eröffnung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben/-anträge
+- TOP 2.1.: Geplantes City-Service-Center des Baureferats in der Aschauer Straße; Bürgeranliegen vom 16.05.2012 (E-Mail)
+- TOP 2.2.: Verkehrssituation Haltestelle Fockensteinstraße - Buslinie 54; Bürgerschreiben (E-Mail) vom 20.04.2012
+- TOP 2.3.: Sicherung des Bahndamms, Südring im Bereich Am Bergsteig / Kolumbusplatz; Bürgerschreiben vom (E-Mail) vom 23.05.2012
+- TOP 2.4.: Schulweghelfer an der Grundschule Weißenseestraße; Anliegen der Konrektorin und der Elternvertretung vom 23.05. bzw. 30.05.2012
+- TOP 2.5.: Sicherheit auf der Skateanlage in der Lincolnstraße; Bürgeranliegen (E-Mail) vom 24.05.2012
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Freizeitsportprogramm München; Antrag der Fraktion Bündnis`90/Die Grünen
+- TOP 4: Budget
+- TOP 4.4.1: Entscheidung über die Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 4.1.: AntragstellerIn: ARGE St.-Quirin-Fest München-Giesing, für die Maßnahme: St.-Quirin-Fest am 05.07.12; Antragssumme: ? ?; Antrag vom 15.05.2012
+- TOP 4.2.: AntragstellerIn: Nachbarschaftstreff Walchenseeplatz - Träger Sozialstation Berg am Laim Trudering gGmbH, Antragssumme: 3.000,00 ?; Antrag vom 10.05.2012
+- TOP 4.3.: AntragstellerIn: Verein zur Erhaltung und Pflege des Perlacher / Grünwalder Forstes e.V., für die Maßnahme: Waldfest am 21.07.12; Antragssumme: 1.480,00 ?; Antrag vom 21.05.2012
+- TOP 4.5.: Unterausschüsse
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Erschließung der Europäischen Schule München ausschließlich über die Herbert-Quandt-Straße ohne Anbindung zur Lincolnstraße; Bürgerantrag vom 07.05.2012 (persönlich eingebracht in der Sitzung am 08.05.2012, siehe TOP 5.3.1.1 - FF: UA Verkehr)
+- TOP 0.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche Tegernseer Platz 4; Beschlussvorlage des Kreisverwaltungsreferates vom 29.03.2012 (vertagt aus den Sitzungen vom 10.04. und 08.05.2012)
+- TOP 0.2.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Verkaufseinrichtung / Zeitungsentnahmekasten Tegernseer Landstraße 36; Beschlussvorlage des Kreisverwaltungsreferates vom 16.05.2012 (vgl. TOP 5.1.2.2 vom 08.05.2012)
+- TOP 0.3.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche Tegernseer Landstraße 125; Beschlussvorlage des Kreisverwaltungsreferates vom 21.05.2012
+- TOP 0.1.: 5.1.3.1 Anhörungen zu Bauvorhaben im Einzelfall auf Anforderung mit der Bitte um Stellungnahme binnen eines Monats (Katalog-Angelegenheit Nr.7.2) 5.1.3.1.1 Schwanseestr. 26; Nutzungsänderung einer Ladenfläche zu einer erlaubnisfreien Gaststätte; Anhörung vom 02.05.12 (vertagt aus der Sitzung vom 08.05.2012) 5.1.3.1.2 Eintrachtstr. 6 a; Nutzungsänderung zweier Läden in einen Spielsalon; Anhörung vom 21.05.12
+- TOP 0.1.: Baufälle im 17. Stadtbezirk
+- TOP 0.2.: 5.1.4.2 Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 5.1.4.2.1 SSW "Mystikon", Walchenseeplatz 4; Mitteilung vom 26.04.12 5.1.4.2.2 SSW "L`Orchidea", St.-Martins-Platz 3; Mitteilung vom 14.05.12 5.1.4.2.3 SSW "Severin`s", St.-Martins-Platz 5; Mitteilung vom 21.05.12 5.1.4.2.4 SSW "Upper Eat Side", Werinherstraße 15; Mitteilung vom 24.05.12 5.1.4.2.5 SSW "Lounge Sixty", Tegernseer Landstraße 131; Mitteilung vom 29.05.12
+- TOP 0.3.: 5.1.4.3 Unterrichtungen durch die Lokalbaukommission im Vollzug der Bayerischen Bauordnung 5.1.4.3.1 Bodelschwinghstraße 2, Vorbescheid; Zurückziehung vom 23.05.12
+- TOP 0.4.: 5.1.4.4 Unterrichtungen durch das Sozialreferat, Amt für Wohnen und Migration, im Vollzug der Satzung über das Verbot der Zweckentfremdung von Wohnraum 5.1.4.4.1 Anwesen Hohenschwangaustraße; Mitteilung vom 30.04.12
+- TOP 0.5.: Bebauungsplan mit Grünordnung Nr. 2000 ? Lincolnstraße (südlich), General-Kalb-Weg (westlich), Marklandstraße (beiderseits), Fasangartenstraße und Kiefernstraße (nördlich), Tegernseer Landstraße (östlich) - ?Wohnsiedlung Am Perlacher Forst? - Aufhebung des Aufstellungsbeschlusses -; Antwortschreiben des Referats für Stadtplanung und Bauordnung vom 26.04.12
+- TOP 0.6.: Werbenutzungsvertrag der Landeshauptstadt München, Ergebnisse der Standortbereisung; Schreiben des Referenten für Arbeit und Wirtschaft vom 04.05.2012
+- TOP 0.7.: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.2012
+- TOP 0: zuletzt in den UA verwiesene Themen
+- TOP 0.1.: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen; Beschluss des Sozialausschusses vom 29.03.12 sowie der Vollversammlung des Stadtrats vom 25.04.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Erschließung der Europäischen Schule München ausschließlich über die Herbert-Quandt-Straße ohne Anbindung zur Lincolnstraße; Bürgerantrag vom 07.05.2012 (persönlich eingebracht in der Sitzung am 08.05.2012, FF: UA Verkehr)
+- TOP 0.1.: Fahrradabstellkonzept (2. Realisierungsabschnitt), Anhörung der Bezirksausschüsse zu den Detailplanungen; Schreiben des Baureferats-Tiefbau vom 16.05.2012 mit der Bitte um Stellungnahme innerhalb von 6 Wochen
+- TOP 0.1.: Straßenbahnlinie 17 - Einsatz von Großraumfahrzeugen - Wiedereinführung des 7- / 8-Minuten-Taktes; Antwortschreiben des Referats für Arbeit und Wirtschaft vom 26.04.2012 zum Antrag vom 10.01.2012
+- TOP 0.2.: Herzogstand- / Werinherstraße, zusätzliche Beschilderung an der Signalanlage; Antwortschreiben des Kreisverwaltungsreferates vom 02.05.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (3)
+- TOP 0.1.: Stellungnahme der Bezirksausschüsse zum Entwurf des Lärmaktionsplans für München; Zuleitung des Referats für Gesundheit und Umwelt mit der Bitte um Stellungnahme bis zum 06.07.2012
+- TOP 0.1.: Lärmaktionsplan - öffentliche Auslegung; Schreiben des Münchner Forums e.V. vom 15.05.2012 an die Bezirksausschüsse in München (Bezug: TOP 5.4.3.1)
+- TOP 0.2.: Verschmutzung des Straßenbegleitgrüns in der Heimgartenstraße; Antwortschreiben des Baureferats-Gartenbau vom 09.05.2012
+- TOP 0.3.: Belastung des 17. Stadtbezirks durch Fluglärm; Antwortschreiben des Referats für Gesundheit und Umwelt vom 02.05.2012
+- TOP 0: zuletzt in den UA verwiesene Themen: (4)
+- TOP 0.1.: Anhörungverfahren für Veranstaltungen der Philippuskirche am 16.06. und 22.07.2012 am Franz-Eigl-Weg; Zuleitung des KVR vom 22.05.12 mit der Bitte um Stellungnahme bis 13.06.12
+- TOP 6: Berichte der Beauftragten
+- TOP 6.6.1: Ausländer/Innen
+- TOP 6.6.2: Behinderte
+- TOP 6.6.3: Genderfragen
+- TOP 6.6.4: Kinder
+- TOP 6.6.5: Jugend
+- TOP 6.6.6: Senioren/Innen
+- TOP 6.7: Baumschutz
+- TOP 6.7.1: Einzelfälle
+- TOP 6.7.1.1.: 6.7.1.1 Münchberger Straße 9, 1 Nadelbaum, Antrag vom 14.05.2012 6.7.1.2 Wikingerstraße 1 - 29, 1 Rotbuche, Antrag vom 21.05.2012 6.7.1.3 Seemüllerstraße 19, 1 Colorado-Tanne, Antrag vom 21.05.2012 6.7.1.4 Fasangartenstraße / Kreuzbichlweg, 6 Fichten, Antrag vom 29.05.2012 6.7.1.5 Pennstraße 2 - 12, 1 Birke, Antrag vom 24.05.2012
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.8: Mieterbeirat
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.7.3: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 7.1.: Dokumentation des Referats für Stadtplanung und Bauordnung "Stadtsanierung in München - Weißenseepark und Katzenbuckel * grün * lebendig * nah !"
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1: Termine der Sitzungen der Unterausschüsse
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 9: Nichtöffentlicher Teil
+- TOP 0.5.5.6: Sonstiges
+- TOP 8.8.1.1: UA Bau und Planung
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.3: Anhörungsfälle / Stellungnahmen
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.5.5: Anträge
+- TOP 8.8.1.2: UA Familie, Soziales, Ausbildung, Sport
+- TOP 8.8.1.3: UA Verkehr
+- TOP 8.8.1.4: UA Umwelt
