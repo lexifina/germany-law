@@ -1,0 +1,90 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2521043
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2521043
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Umgestaltung des Durchgangs am Laimer Platz von der Guido-Schneble-Straße zur Vosslerstraße so, dass eine Durchfahrt für Kraftfahrzeuge nicht mehr möglich ist
+- TOP 2.2.: CSU: Lärmgutachten zum Busbetriebshof Westend- / Zschokkestraße
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Kreisverwaltungsreferat: Entscheidung über Sondernutzungserlaubnis (Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Fürstenrieder Str. 18
+- TOP 3.2.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 930 Euro für Sommerfest am 08.07.12; Antragsteller: Kath. Pfarrei "Zu den Heiligen Zwölf Aposteln" - <div>Abweichung von Referentenvorl.</div>
+- TOP 3.3.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 4.311,38 Euro für den Kauf und Montage eines Klettergerüsts; Antragsteller: Elternbeirat der städt. Kita Riegerhofweg (Vertagung aus der BA-Sitzung vom 06.03.12) - <div>vertagt</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Gesundheit und Umwelt vom 25.04.12: Fluglärm über Laim und dem westlichen München (Empfehlung Nr. 08-14 / E 01146 der Bürgerversammlung vom 15.11.12); Anhörung zu einer Beschlussvorlage für den Umweltausschuss am 03.07.12
+- TOP 4.2.: Schreiben Kreisverwaltungsreferat vom 09.05.12: Anwohnerfest Fachnersiedlung am Weißenfelderplatz am 14.07.12
+- TOP 4.3.: Schreiben Kreisverwaltungsreferat vom 14.05.12: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Valpichlerstr. 90
+- TOP 4.4.: Mathunistr. 13: Fällung von 1 Kastanie und 3 Ahorn
+- TOP 4.5.: Schreiben Baureferat vom 25.05.12: Erinnerungsverfahren Fürstenrieder Str. 51 / Hogenbergstraße; Geh- und Fahrbahnwiederherstellung
+- TOP 4.6.: Schreiben Referat für Gesundheit und Umwelt vom 24.05.12: Stellungnahme der Bezirksausschüsse zum Entwurf des Lärmaktionsplans für München
+- TOP 4.7.: Schreiben Kreisverwaltungsreferat vom 31.05.12: Straßenfest Aindorferstraße am 28.07.12
+- TOP 4.8.: Schreiben Kreisverwaltungsreferat vom 31.05.12: Sommerfest in der städtischen Grünanlage Schrobenhausener Straße / Pfarrer-Endres-Weg am 08.07.12
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Rattenhuberstr. 13: Neubau eines Mehrfamilienhauses (5 WE) mit Tiefgarage (6 Stpl.); hier: Bau- und Baumbestandspläne
+- TOP 5.2.: Fürstenrieder Str. 8: Fassadenrücksprung im EG (Bistro), Fußgänger-Ausweichfläche; hier: Baupläne
+- TOP 5.3.: Fürstenrieder Str. 8b: Neubau eines Mehrfamilienhauses mit Tiefgarage sowie Herstellung einer Öffnung zur bestehenden Tiefgarage und eines unterirdischen Fahrradraums auf Fl.Nr. 25/6; hier: Bau-, Freiflächengestaltungs- und Baumbestandspläne
+- TOP 5.4.: Agnes-Bernauer-Str. 1: Neubau einer Garage im Innenhof (Agnes-Bernauer-Str. 1-5 / Lautensackstr. 6-16 / Ludwig-Richter-Str. 20 / Schedelstr. 1-11) / Vorbescheid (2 Varianten); hier: Baumbestandspläne
+- TOP 6: Sonstiges
+- TOP 6.1.: Schreiben Referat für Bildung und Sport vom 07.05.12: Das Referat für Bildung und Sport trifft die Bezirksausschüsse; Einladung für 11.07.12
+- TOP 6.2.: Schreiben Frau Bürgermeisterin Strobl vom 21.05.12: Oktoberfest 2012; Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse
+- TOP 6.3.: Schreiben Referat für Stadtplanung und Bauordnung vom 30.05.12: Regionalgespräch 2012 zwischen der Lokalbaukommission und den Bezirksausschüssen am 18.06.12
+- TOP 7: Protokolle
+- TOP 7.1.: BA-Sitzung vom 08.05.12
+- TOP 7.2.: Sitzung UA Bau vom 06.06.12
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Kreisverwaltungsreferat vom 16.01.12: Taxistandplatz Gotthardstraße (Laim): Neueinrichtung; Taxistandplatz Agnes-Bernauer-Straße (Laim): Aufhebung
+- TOP 8.2.: Schreiben Kreisverwaltungsreferat vom 15.05.12: Problematische Verkehrssituation Westendstraße; Trambahnhaltestelle Säulingstraße (Schreiben BA vom 25.04.12)
+- TOP 8.3.: Schreiben Kreisverwaltungsreferat vom 28.03.12: Änderung der Radwegverkehrsführung in der Agnes-Bernauer-Straße
+- TOP 8.4.: Schreiben Kreisverwaltungsreferat vom 18.05.12: Gaststätte "Mama`s Küche", Helmpertstr. 2; unveränderte Fortführung
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 22.05.12: Fußgängerampel Fürstenrieder Straße / Camerloherstraße (Schreiben BA vom 14.05.12)
+- TOP 8.6.: Schreiben Baureferat vom 26.04.12: Hellere Beleuchtung in der Laimer Unterführung (Antrag Nr. 08-14 / B 03732 vom 14.02.12)
+- TOP 8.7.: Schreiben Baureferat vom 14.05.12: Spielplatz Joergplatz (Schreiben BA vom 10.05.12)
+- TOP 8.8.: Schreiben Baureferat vom 16.05.12: Willibaldplatz muss schöner werden (Antrag Nr. 08-14 / B 03831 vom 27.03.12)
+- TOP 8.9.: Schreiben Baureferat vom 21.05.12: Baustellen öffentlicher Verkehrsraum; Beeinträchtigung Fuß- und Radverkehr (Antrag Nr. 08-14 / B 03727 vom 14.02.12)
+- TOP 8.10.: Schreiben Sozialreferat vom 02.05.12: Antrag auf Zweckentfremdung von Wohnraum; Agnes-Bernauer-Straße
+- TOP 8.11.: Schreiben Referat für Gesundheit und Umwelt vom 07.05.12: Lärmminderungsplanung; Aufnahme der Fürstenrieder Straße in den Lärmaktionsplan München als Untersuchungsgebiet (Antrag Nr. 08-14 / B 02383 vom 14.09.10)
+- TOP 8.12.: Schreiben Referat für Gesundheit und Umwelt vom 07.05.12: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmegenehmigung nach §7 Abs. 2 der 32. BImSchV für die Durchführung von Mäharbeiten des Straßenbegleitgrüns
+- TOP 8.13.: Schreiben Referat für Stadtplanung und Bauordnung vom 10.05.12: Überplanung des Geländes Zschokke- / Westend- / Hans-Thonauer-Straße; erneutes Lärmgutachten (Schreiben BA vom 24.02.12)
+- TOP 8.14.: Schreiben Referat für Stadtplanung und Bauordnung vom 11.05.12: Agnes-Bernauer-Str. 127: Neubau 2er Mehrfamilienhäuser (Haus 1 - 8 WE / Haus 2 - 5 WE) mit Tiefgarage (13 Stpl.)
+- TOP 8.15.: Schreiben Referat für Stadtplanung und Bauordnung vom 21.05.12: Westendstraße, Fl.Nr. 8485/0, Gemarkung Sektion V und Westendstr. 216, Fl.Nr. 8487/11, Gemarkung Sektion V; Errichtung von jeweils 4 Plakattafeln - befristet vom 01.05.12-01.05.13
+- TOP 8.16.: Schreiben Direktorium vom 14.05.12: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Kath. Pfarrei Fronleichnam, Pfarrjugend
+- TOP 8.17.: Schreiben Direktorium vom 14.05.12: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: PA / Spielen in der Stadt e.V.
+- TOP 8.18.: Schreiben Direktorium vom 29.05.12: Flyer "Münchner Appell" und Broschüre "Rechtsextreme Anmietungen - Schutz für Kommunen und Vermieter"
+- TOP 8.19.: Schreiben Direktorium vom April 2012: Jahresbericht 2011 mit Jahresvorschau 2012
+- TOP 8.20.: Schreiben Referat für Arbeit und Wirtschaft vom 04.05.12: Werbenutzungsvertrag der LH München; Ergebnisse der Standortbereisung
+- TOP 8.21.: Schreiben Referat für Arbeit und Wirtschaft vom 30.04.12: Wirtschafts-Info 04/2012
+- TOP 8.22.: Schreiben Referat für Bildung und Sport vom 18.05.12: Toilettenanlage Droste-Hülshoff-Schulen (Schreiben BA vom 25.04.12)
+- TOP 8.23.: Schreiben Stadtwerke München GmbH vom 23.04.12: Baumaßnahmen der SWM; Stromprojekt Fürstenrieder Straße
+- TOP 8.24.: Schreiben Stadtwerke München GmbH vom 23.04.12: Baumaßnahmen der SWM; Stromprojekt Netztrafostation Landsberger Str. 350 - Änderung im Terminablauf
+- TOP 8.25.: Schreiben Stadtwerke München GmbH vom 02.05.12: Baumaßnahmen der SWM; Fernwärmeprojekt Erschließung Friedenheim, Valpichlerstraße
+- TOP 8.26.: Bautenliste vom 23.04.-29.04.12: 1. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Agnes-Bernauer-Str. 139
+- TOP 8.27.: Bautenliste vom 30.04.-06.05.12 1. Erstantragsverfahren a) Schäufeleinstr. 2 b) Valpichlerstr. 29
+- TOP 8.28.: Bautenliste vom 07.05.-13.05.12: 1. Erstantragsverfahren a) Fürstenrieder Str. 8b b) Fürstenrieder Str. 8 c) Reutterstr. 21 d) Rattenhuberstr. 13 e) Landsberger Str. 306 2. Änderungsverfahren a) Landsberger Str. 240
+- TOP 8.29.: Bautenliste vom 14.05.-20.05.12: 1. Erstantragsverfahren a) Sulzbeckstr. 49 b) Landsberger Str. 187 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Siglstr. 7 b) Agnes-Bernauer-Str. 1
+- TOP 8.30.: Schreiben Stadtwerke München GmbH vom 30.04.12: Baumaßnahmen der Stadtwerke; Stichtag: 30.04.12
+- TOP 8.31.: Schreiben Stadtwerke München GmbH vom 07.05.12: Baumaßnahmen der Stadtwerke; Stichtag: 07.05.12
+- TOP 8.32.: Schreiben Stadtwerke München GmbH vom 14.05.12: Baumaßnahmen der Stadtwerke; Stichtag: 14.05.12
+- TOP 8.33.: Schreiben Stadtwerke München GmbH vom 21.05.12: Baumaßnahmen der Stadtwerke; Stichtag: 21.05.12
+- TOP 8.34.: Schreiben Stadtwerke München GmbH vom 29.05.12: Baumaßnahmen der Stadtwerke; Stichtag: 29.05.1
+- TOP 8.35.: Beschluss der Vollversammlung vom 25.04.12: Bewerbung der LH München um die Ausrichtung der WALD21 Konferenz 2013 in München (Sitzungsvorlage Nr. 08-14 / V 09107)
+- TOP 8.36.: Beschluss der Vollversammlung vom 25.04.12: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen (Sitzungsvorlage Nr. 08-14 / V 08559)
+- TOP 8.37.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.12: Kostenloses Kurzzeitparken (Sitzungsvorlage Nr. 08-14 / V 08921)
+- TOP 8.38.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 02.05.12: Leihradsysteme für München und seine Region - Status, Perspektiven und Erfolgsfaktoren darstellen (Sitzungsvorlage Nr. 08-14 / V 08485)
+- TOP 8.39.: Beschluss des Bauausschusses vom 08.05.12: Fuß- und Radwegeverbindung Hauptbahnhof-Laim-Pasing, Teilabschnitt Nymphenburger Vorfeld (Sitzungsvorlage Nr. 08-14 / V 07702)
+- TOP 8.40.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.12: Neubestellung des Heimatpflegers der LH München und seines Stellvertreters (Sitzungsvorlage Nr. 08-14 / V 09314)
+- TOP 8.41.: Beschluss des Bauausschusses vom 12.06.12: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und sicherungsverordnung der LH München; Verschmutzungsabgabe für Fast-Food-Betriebe (Empfehlung Nr. 08-14 / E 01155 der Bürgerversammlung Laim vom 15.11.11) (Sitzungsvorlagen Nr. 08-14 / V 08433)
+- TOP 8.42.: Schreiben BA 9 Neuhausen-Nymphenburg vom 22.05.12: Antrag zur Finanzierung der WALK21
+- TOP 8.43.: Schreiben Münchner Forum e.V. vom 15.05.12: Informationen für die Bezirksausschüsse zu Lärmaktionsplan
+- TOP 8.44.: Schreiben Münchner Forum e.V. vom 15.05.12: Lärmaktionsplan - öffentliche Auslegung 18.05.-18.06.12; Gelegenheit zur Stellungnahme
+- TOP 8.45.: Schriftverkehr aus der BA-Sitzung vom 08.05.12
+- TOP 1.2: Bürgerpost an den BA
