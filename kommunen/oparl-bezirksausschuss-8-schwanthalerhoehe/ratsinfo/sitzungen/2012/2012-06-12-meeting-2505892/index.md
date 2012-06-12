@@ -1,0 +1,56 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2012-06-12T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2505892
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2505892
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 3.1.: Reinigung der Straßen- und des Straßenbegleitgrüns im 8. Stadtbezirk
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Naturindianer Veranstaltung im Bavariapark
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Meldeliste
+- TOP 5.2.: Anhörung: Schwanthalerstr. 131
+- TOP 5.3.: Antwort: Bauvorhaben auf dem Grundstück Hans-Fischer-Str./Theresienhöhe
+- TOP 5.4.: Antwort zu BA-Antrag Nr. 2889, Kazmairstr. 23-25
+- TOP 5.5.: Anhörung: Nutzungsänderung Anglerstr. 4-6
+- TOP 5.6.: Regionalgespräch 2012 zwischen der Lokalbaukommission und den Bezirksausschüssen
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 7: Integration und Kultur
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 8 Schwanthalerhöhe Widmung eines Weges an der Theresienhöhe
+- TOP 8.2.: Anhörung: Freischankfläche für die Kongressbar
+- TOP 8.3.: Anhörung: Fahrradstellplatzkonzept (2. Realisierungsabschnitt)
+- TOP 8.4.: Anhörung: Oben Ohne Open Air am 21.07.2012 Am Bavariapark
+- TOP 8.5.: Anhörung: Straßenfest in der Gollierstraße am 11.08.2012 (18.08.2012)
+- TOP 8.6.: Münchner Forum: Lärmaktionsplan
+- TOP 8.7.: Kanalsanierung Landsbergerstr. (Augustiner Bräu)
+- TOP 8.8.: Vollzug der Grünanlagensatzung vom 12.08.1991; Ausnahmebewilligung zur Baustelleneinrichtung in der Schießstättstraße
+- TOP 8.9.: Antrag des BA 9 zur Finanzierung der WALK 21
+- TOP 8.10.: Antrag des BA 19 zu Werbeanlagen/-anhänger
+- TOP 8.11.: Antwort: Verunreinigungen am Gollierplatz
+- TOP 8.12.: Beschluss des Ausschusses für Arbeit und Wirtschaft: Nutzung der Theresienwiese - Querung während des Wiesn-Aufbaus trotz Sperrung ermöglichen
+- TOP 8.13.: Freischankfläche für das Da Maria in der Heimeranstraße 51
+- TOP 8.14.: Bauvorhaben der SWM, Stand 30.05.2012
+- TOP 8.15.: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und - sicherungsverordnung der Landeshauptstadt München
+- TOP 8.16.: Anhörung: Entwurf des Lärmaktionsplans für München
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: (E) Budget der Bezirksausschüsse westendstudios Tag der offenen Tür am 20./21.10.2012
+- TOP 9.2.: (E) Budget der Bezirksausschüsse IG-Feuerwache Erstellung eines Gartenpavillons
+- TOP 10: Anträge
+- TOP 10.1.: Errichtung einer Reformschule
+- TOP 10.2.: Bezuschussung aus dem Budget des BA 8: Kinder-Kultur-Sommer
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfest 2012, Reservierung der BAs
+- TOP 11.2.: Antwort des Oberbürgermeisters: Bannmeile an den beiden Münchner NSU-Tatorten
+- TOP 12: Protokoll und Umlauf
