@@ -1,0 +1,6 @@
+# TOP 9.: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: Öffentliche und nichtöffentliche Sitzung des Ortsgemeinderates der Gemeinde Weltersburg (2012-06-13)
+- Körperschaft: Ortsgemeinde Weltersburg
+- Öffentlich: nein
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-2426%7Czt_9%7C2
