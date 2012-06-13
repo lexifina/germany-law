@@ -1,0 +1,90 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-06-13T17:00:00+02:00
+- Ende: 2012-06-13T18:20:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2846
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2846
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=56325
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - erledigt
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 9. Sitzung der BVV am 13.06.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 9. Sitzung der BVV am 13.06.2012 - ohne Änderungen in der BVV beschlossen
+- TOP 3.2: Partnerschaftsbeauftragte / Partnerschaftsbeauftragter des Bezirks Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 9. Sitzung der BVV am 13.06.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 5.1: Benennung eines / einer Partnerschaftsbeauftragten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Haltestelle Gorkistr. / Am Nordgraben - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Öffentlichkeitsbeteiligung bei bezirklichen Bebauungsplanverfahren online - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Einsatz eines Computerprogramms für die Kita-Suche - überwiesen
+- TOP 7.4: Gehwegvorstreckung im Bereich Kreuzung Treskowstraße / Schlieperstraße prüfen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Förderung des Ehrenamtes in den bezirklichen Jugendeinrichtungen - überwiesen
+- TOP 7.6: Autorenlesefonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Sicherung des ehemaligen Einkaufszentrums in der Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Instandsetzung und Wiedereröffnung des Frohnauer Kasinoturms beschleunigen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.10: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.11: Honorare für Dozentinnen und Dozenten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Trimm-Dich-Pfade - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Trimm-Dich-Pfad im Tegel-Forst erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Aufstellung des Bebauungsplans 12-45 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Berufung eines beratenden Mitglieds des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9.2: Berufung eines stellvertretenden beratenden Mitgliedes in den Jugendhilfeausschuss - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Gesundheitssituation insbesondere in Reinickendorf-Ost - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Teilnahme an der Woche der Demokratie - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Stand der Baumaßnahmen im Bereich der bezirklichen Liegenschaften - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: Freifunk auf Bezirksgebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Flughafen Tegel – Nachnutzung (3): Beuth-Hochschul-Umzug schnell einleiten - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Flughafen Tegel – Nachnutzung (4): Tegel Projekt GmbH ausreichend finanziell ausstatten - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Flughafen Tegel – Nachnutzung (5): Online-Bürgerbeteiligung zur Nachnutzung auf www.reinickendorf.de anbieten - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Europäisches Jahr für aktives Altern und Solidarität - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Ideen für schöne Plätze in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Grünpflege durch Beweidung - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Frohnauer Straße instand setzen - erledigt
+- TOP 10.12: Lärmschutz auf der Hennigsdorfer Straße und Heiligenseestraße umsetzen - erledigt
+- TOP 10.13: Neue Fahrradstreifen und Fahrradwege bei den bezirklichen Maßnahmen stets prüfen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Bebauungsplan Mäckeritzwiesen - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Regelmäßiger Bericht Investitionsmaßnahmen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Tag der deutschen Sprache am 08.09.2012 - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Mobilitätsdienste - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Zweiter Ausgang für den S-Bahnhof Heiligensee - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Liegenschaften in der Cité Foch - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Wohnungsbedarf für Menschen mit Behinderungen - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Fußgängerzone Gorkistraße - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Grünrockweg - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Fahrrat einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.24: Härtefallfonds - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Prignitz-Express - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Zeltinger Platz - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Erhöhung der Zuwendung an freie Träger als Gemeinschaftsaufgabe betrachten - überwiesen
+- TOP 10.28: Keine Zwei-Klassen-Gesellschaft bei den freien Trägern - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Kostenübernahme durch das Sozialamt bei Heimaufenthalt - überwiesen
+- TOP 12.2: Seniorengerechte Ausstattung der Reinickendorfer Bibliotheken - überwiesen
+- TOP 12.3: Bekämpfung der Beifuß-Ambrosie - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Bekämpfung der Eichenprozessionsspinner - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Hinweis auf Lidy von Lüttwitz - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Keine Aufweichung des Nachtflugverbotes TXL - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Berliner Feuerwehr- und Rettungsdienst-Akademie (BFRA) auf dem TXL-Gelände - überwiesen
+- TOP 13.3: Kostenloses Parken für Schwimmtrainer im Bad des MV - überwiesen
+- TOP 13.4: Rehabilitation und Teilhabe behinderter Menschen SGB IX - Servicestelle § 23 - überwiesen
+- TOP 13.5: Ausgesuchte Daten der "Polizeilichen Kriminalitätsstatistik" dem Bezirksamt zugänglich machen - überwiesen
+- TOP 13.6: "Schlagloch-Sonderprogramm" für die Bezirke auflegen - ohne Änderungen in der BVV beschlossen
+- TOP 13.7: Schulsanierungen in bezirklicher Verantwortung belassen! - mit Änderungen in der BVV beschlossen
