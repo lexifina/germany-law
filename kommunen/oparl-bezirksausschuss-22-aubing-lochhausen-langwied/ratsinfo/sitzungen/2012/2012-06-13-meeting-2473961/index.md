@@ -1,0 +1,92 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-06-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2473961
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2473961
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Vorstellung Rahmenplanung Langwieder Haide durch Aurelis -Real-Estate
+- TOP 1.1.5: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Verlegung des Wertstoffcontainers Grabenfleckstr. / Altostr.
+- TOP 2.2.: Lärm- und Staubbelästigung durch Gewerbegebiet in der Bodenseestraße
+- TOP 2.3.: Verschmutzung der Aubinger Lohe
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Lichteneckstr. 12 c - Hagenbacher Str. - Lichtenfelser Str. 13 - Solnhofener Str. 9 - Grafrather Str. 27 - Überlinger Weg 16 - Solnhofener Str. 3
+- TOP 3.2.: Fällungsgenehmigung: - Eugen-Loher-Str., Fl.Nr. 2148/154
+- TOP 3.3.: Altostr. 99 e, Genehmigungsbescheid Gefahrenbaum, Schr. Planungsreferat vom 11.05.12
+- TOP 3.4.: Baumfällungen zu Bauvorhaben: - Kunreuthstr. 40-68, gem. Baumbestandsplan Nr. 2012-7550
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 3.3.6: Mieterbeirat
+- TOP 4: Anträge
+- TOP 5: Entscheidungen
+- TOP 5.1.: Budget der Bezirksausschüsse SOS Mütter- und Kindertageszentrum München Sommerfest am 13.07.2012
+- TOP 5.2.: Entlastung der Kreuzung Aubinger Straße / Hellensteinstraße, stärkere Absicherung der Querungsmöglichkeit Aubinger Straße auf Höhe der Kirche St. Lukas
+- TOP 3: (E) Kreuzungsbereich Radolfzeller Straße / Aubinger Straße / Hellensteinstraße Entlastung der Kreuzung Aubinger Straße / Hellensteinstraße, stärkere Absicherung der Querungsmöglichkeit Aubinger Straße auf Höhe der Kirche St. Lukas BA-Antrag Nr. 08-14 / B 02061 des Bezirksausschusses des Stadtbezirkes 22 ? Aubing-Lochhausen-Langwied vom 21.04.2010 Ergänzung der Ampelanlage an der Kreuzung Radolfzeller Straße /Aubinger Straße Empfehlung Nr. 08-14 / E 00599 der Bürgerversammlung des Stadtbezirkes 22 ? Aubing-Lochhausen-Langwied am 29.06.2010 Ergänzung der Ampelanlage Ecke Aubinger Straße / Radolfzeller Straße Empfehlung Nr. 08-14 / E 00987 der Bürgerversammlung des Stadtbezirkes 22 ? Aubing-Lochhausen-Langwied am 28.06.2011
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.1.: Veranstaltung auf städtischer Grünanlage, hier: Schulpicknick für Kinder und Eltern GS Wiesentfelser Str. 53 auf der Grünanlage an der Wiesentfelser Str. am 22.06.12, Anhörung KVR vom 22.05.12
+- TOP 6.2.: Hortsituation in Lochhausen. Schr. Ref. f. Bildung u. Sport vom 03.05.12
+- TOP 6.3.: Errichtung einer Skateranlage östlich des neuen Metro-Geländes, Schr. Direktorium vom 02.05.12
+- TOP 6.4.: Hilfe für Sonderpädagogisches Förderzentrum München-West, Schr. Förderzentrum
+- TOP 6.6.2: UA Budget
+- TOP 6.6.3: UA Freiham
+- TOP 6.5.: Gewerbegebiet Freiham, Vergabe eines Gewerbegrundstücks, Schr. Ref. f. Arbeit u. Wirtschaft vom 21.05.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.1.: Verkehrsrechtliche Anordnung, hier: Absolutes Haltverbot in der Grabenfleckstr., eingeschränktes Haltverbot in der Grabenfleckstr., Anhörung KVR vom 16.05.12
+- TOP 6.2.: Entwurf des Lärmaktionsplans für MÜnchen, Anhörung Ref. f. Gesundheit u. Umwelt vom 24.05.12
+- TOP 6.3.: Rückbau Außenreinigungsanlage DB Regio Werkstatt München Pasing, Bergsonstr. 110, Anhörung Planungsreferat vom 25.05.12
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 23.04.-29.04.12, 30.04.-06.05.12, 07.05.-13.05.12, 14.05.-20.05.12), Schr. Planungsreferat vom 02.05.12, 07.05.12, 14.05.12, 22.05.12
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 30.04.12, 07.05.12, 14.05.12, 21.05.12, 29.05.12
+- TOP 6.3.: Aufweitung der Engstelle in der Kurve an der Wiesentfelser Straße, Schr. Baureferat vom 11.05.12
+- TOP 6.4.: Verkehrsrechtliche Anordnung, Abbiegebeziehung Langenburgstraße (ehem. Verbindungsspange) / Bergsonstraße, Schr. KVR vom 12.12.11
+- TOP 6.7.: BAB A 8 - Umbau der Anschlussstelle Langwied, Schr. Baureferat vom 07.05.12
+- TOP 6.8.: Unterschutzstellung des Gleisdreiecks Aubing, Schr. Planungsreferat vom 03.05.12
+- TOP 6.9.: Bodenseestr., Autohandel, Schr. Planungsreferat vom 03.05.12
+- TOP 6.10.: Aus- und Einrückfahrten der Buslinie 57 nicht über die Pretzfelder-/Limesstraße, Schr. MVG vom 15.05.12
+- TOP 6.11.: Schussenrieder Str. 3, Eintragung in die Denkmalliste, Schr. Planungsreferat vom 21.05.12
+- TOP 6.12.: Verkehrsrechtliche Anordnung, hier: Badebuslinie der Münchner Linien GmbH & Co. KG Lochhausen Bahnhof - Langwieder See (Kreuzkapellenstraße), Schr. KVR vom 15.05.12
+- TOP 6.13.: Projekt "Agropolis Freiham", Schr. Planungsreferat vom 22.05.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Gleisdreieck Pasing, Paosostraße; Bau eines Fuß- und Radweges und einer Skateranlage im 22. Stadtbezirk, Anhörung Baureferat vom 01.06.2012
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Genehmigungsbescheid zur Durchführung von Mäharbeiten des Straßenbegleitgrüns, Schr. Ref. f. Gesundheit u. Umwelt vom 07.05.12
+- TOP 8.2.: Werbenutzungsvertrag der LH München, Ergebnisse der Standortbereisung, Schr. Ref. f. Arbeit u. Wirtschaft vom 04.05.12
+- TOP 8.3.: Unveränderte Fortführung "Euroclub", Ausschank von alkoholischen und alkoholfreien Getränken in einem Bordell, Bodenseestr. 131, Schr. KVR vom 04.05.12
+- TOP 8.4.: Unveränderte Fortführung Schank- und Speisewirtschaft "Taksim", Limesstr. 105, Schr. KVR vom 02.05.12
+- TOP 8.5.: Wirtschafts-Info 04/12, Schr. Ref. f. Arbeit u. Wirtschaft vom 30.04.12
+- TOP 8.6.: Ausnahmegenehmigung für Drehgenehmigung am Spatzenwinkel am 17.06. und 20.06.12, Schr. KVR vom 25.05.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss der Vollversammlung vom 25.04.12: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.12: - Neubestellung des Heimatpflegers der LH München und seines Stellvertreters - Bebauungsplan mit Grünordnung Nr. 1998b Bahnlinie München-Herrsching (südlich), Kravogelstr. (westlich), Papinstr. (südlich und östlich), Gewerbegebiet ehem. Ausbesserungswerk (nördlich) (Teiländerung des Bebauungsplanes Nr. 1127
+- TOP 10.3.: Beschluss des Ausschusses für Bildung und Sport am 21.06.12: Inklusion im Sport erleben
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Oktoberfest 2012, Reservierungen der BA's, Schr. Direktorium vom 23.05.12
+- TOP 11.2.: Finanzierung der WALK21, Antrag BA 9 vom 15.05.12
+- TOP 11.3.: Lärmaktionsplan, Schr. Münchner Forum vom 30.05.12
+- TOP 11.4.: 18.jetzt - Fest junger Erwachsener im Rathaus am 13.10.2012, Schr. Direktorium vom 29.05.12
+- TOP 11.5.: Regionalgespräch 2012 zwischen LBK und den Bezirksausschüssen: Termin 23.07.12 um 17 Uhr, Raum 614, Blumenstr. 19, Schr. Planungsreferat am 30.05.12
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 18.07.12 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.15.: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen, verwaltungsinterne Ausführungsgenehmigung: Bauvorhaben - Neubau Kinderkrippe an der Kastelburgstraße als Wiederholungsbau, Schr. Baureferat vom 15.03.12
+- TOP 6.14.: Müllproblem in Freiham, Schr. AWM vom 03.05.12
+- TOP 6.2.: Planung einer Bibliothek auf dem Bildungscampus Freiham, Schr. Planungsreferat vom 08.05.12
+- TOP 6.5.: Kein Baustellenverkehr für die Bebauung Freiham durch das bestehende Wohn-/Ortsgebiet - Nutzung der A 99 für die Baustellenlogistik, Schr. Planungsreferat vom 08.05.12
+- TOP 6.6.: Verkehrsgutachterliche Berücksichtigung verschiedener Straßen- und Kreuzungspunkte im Rahmen der Bauleitplanung Freiham, Schr. Planungsreferat vom 08.05.12
