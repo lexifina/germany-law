@@ -1,0 +1,66 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-06-13T17:00:00+02:00
+- Ende: 2012-06-13T22:54:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1738
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1738
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Wahl von Patientenfürsprecher/innen - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Aufhebung einer Schule mit sonderpädagogischem Förderschwerpunkt - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 8.1: Vorzeitige Beendigung eines Mandats als Bürgerdeputierter im Ausschuss für Bürgerdienste - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8.2: Nachrücken eines stellvertretenden Bürgerdeputierten als Bürgerdeputierter - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8.3: Berichte der Patientenfürsprecher/innen für das Jahr 2011 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Gewährung von Sachmitteln für freiwilliges Engagement in Nachbarschaften - beantwortet
+- TOP 9.2: "Parkschein" für Handwerker - schriftlich beantwortet
+- TOP 9.3: Küche kalt? - beantwortet
+- TOP 9.4: Jahresabschluss 2011 - beantwortet
+- TOP 9.5: Bündnisse für Wohnen und Mieten - beantwortet
+- TOP 9.6: Umgestaltung des Hermannplatzes - beantwortet
+- TOP 9.7: Generationsübergreifendes Wohnen in Neukölln - beantwortet
+- TOP 9.8: Prävention durch Zigarettenwerbung - beantwortet
+- TOP 9.9: Schließfachmisere in der Helene-Nathan-Bibliothek - beantwortet
+- TOP 9.10: Bildungsgutscheine für Pflegeberufe - beantwortet
+- TOP 10: Beschlussempfehlungen - beantwortet
+- TOP 10.1: Haltverbot in der Scheveninger Straße - ohne Änderungen in der BVV beschlossen
+- TOP 11: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 11.1: Weitere Kürzungen und Sperren im Bezirkshaushalt? - beantwortet
+- TOP 11.2: Chancengleiche Beschulung - beantwortet
+- TOP 11.3: Schulstandsort Karlsgartenstraße - beantwortet
+- TOP 11.4: Kinderarmut in Neukölln - beantwortet
+- TOP 11.5: Rechtsradikalismus und Gewalt im Neuköllner Sport - beantwortet
+- TOP 11.6: VHS im Einkaufszentrum? - beantwortet
+- TOP 12: Große Anfragen - schriftlich - (offen)
+- TOP 13: Anträge - (offen)
+- TOP 13.1: Abfederung der Honorarerhöhungen an Volkshochschulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Lehrer an Brennpunktschulen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Ausweisung von Kosten in Schlussberichten - überwiesen
+- TOP 13.4: Dokumente mit klaren Lizenzangaben versehen - überwiesen
+- TOP 13.5: Ausreichend Lehrpersonal an Neuköllner Grundschulen - überwiesen
+- TOP 13.6: Pressespiegel online veröffentlichen - überwiesen
+- TOP 13.7: Schließfächer in der Helene-Nathan-Bibliothek - überwiesen
+- TOP 13.8: Rathausvorplatz in Alfred-Scholz-Platz umbenennen - in der BVV zurückgezogen
+- TOP 13.9: Rauchverbot auf Kinderspielplätzen verhängen und kontrollieren - überwiesen
+- TOP 13.10: Konsensliste als Drucksache im ALLRIS - in der BVV zurückgezogen
+- TOP 13.11: Kündigungssperrfrist auf sieben Jahre verlängern - überwiesen
+- TOP 13.12: Einwohnerfragen als Drucksache im ALLRIS - überwiesen
+- TOP 13.13: Mietkosten sparen und VHS-Kursangebot ausweiten - in der BVV abgelehnt
+- TOP 13.14: Gebührensatzung für Fernbusunternehmen - in der BVV zurückgezogen
+- TOP 14: Mitteilungen - erledigt
+- TOP 15: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 15.1: Babyklappe und Geburten im Mutter-Kind-Zentrum des Vivantes Klinikum Neukölln sollen weiterhin unterstützt werden - mit Abschlussbericht zur Kenntnis genommen
