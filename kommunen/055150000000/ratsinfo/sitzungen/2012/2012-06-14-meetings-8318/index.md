@@ -1,0 +1,58 @@
+# 24. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-06-14T17:00:00+02:00
+- Ende: 2012-06-14T21:30:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/384
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8318
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8318
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00325482.pdf
+
+## Tagesordnung
+
+- TOP 1: Einführung und Verpflichtung neuer Mitglieder
+- TOP 2: Genehmigung der Tagesordnung
+- TOP 2.1: Festlegung der Tagesordnungspunkte, bei denen die Anwesenheit der Vorlagenersteller/innen zur Berichterstattung erforderlich ist.
+- TOP 3: Mitteilungen der Verwaltung
+- TOP 4: Anträge und Eingaben
+- TOP 4.1: Stellungnahme zum SPD-Antrag zum Schützenhof-Bunker als Sachstandsbericht zur Grundstücksentwicklung
+- TOP 5: Tagesordnungspunkte mit externer Berichterstattung
+- TOP 6: Stadtentwicklung, Stadterneuerung, Wohnen, Wirtschaft
+- TOP 6.1: Bericht zur Baulandentwicklung 2012 - zur Kenntnis genommen
+- TOP 6.2: Modellhafte Erprobung von Aktivierungs- und Prozessstrategien für "Neues Wohnen im Bestand", hier: Bahnhofsviertel - Sachstand und nächste Schritte - zur Kenntnis genommen
+- TOP 6.3: Standorte-Entwicklungskonzept Britenwohnungen in Münster- Sachstand und erste Zwischenergebnisse
+- TOP 6.4: Städtebauförderung: Programm "Stadtumbau West" Konversion York-Kaserne Gremmendorf, Konversion Oxford-Kaserne Gievenbeck - einstimmig beschlossen
+- TOP 6.5: Errichtung einzelner Windenergieanlagen an Standorten außerhalb der im Flächennutzungsplan der Stadt Münster dargestellten Konzentrationszonen für Windenergieanlagen - einstimmig geändert beschlossen
+- TOP 6.6: Landschaftsplan Roxeler Riedel - Offenlegungsbeschluss - - ohne Beschlussfassung geschoben
+- TOP 6.7: European Energy Award 2012 - Energiepolitisches Arbeitsprogramm - einstimmig beschlossen
+- TOP 6.8: Beachtung von DIN-Normen zur Barrierefreiheit bei öffentlich zugänglichen Gebäuden und Flächen - zur Kenntnis genommen
+- TOP 6.9: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der FDP-Fraktion, der Fraktion DIE LINKE. und der Ratsgruppe UWG/ÖDP an den Rat Nr. A-R/0051/2010 - ohne Beschlussfassung geschoben
+- TOP 6.10: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel - mehrheitlich beschlossen
+- TOP 6.11: Taxitarife - ohne Beschlussfassung geschoben
+- TOP 7: Stadtplanung
+- TOP 7.1: 42. Änderung FNP - Bebauungsplan Nr. 541 - Beschluss zur Aufstellung - mehrheitlich beschlossen
+- TOP 7.2: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - einstimmig geändert beschlossen
+- TOP 7.3: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 7.4: Bebauungsplan Nr. 532: Östlich der Straße "Am Schlossgarten" - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 8: Verkehr
+- TOP 8.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms
+- TOP 8.1.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms - ohne Beschlussfassung geschoben
+- TOP 8.1.2: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms - ohne Beschlussfassung geschoben
+- TOP 8.2: Ergebnisse zum Expertenworkshops "Öffentlichkeitsarbeit umweltfreundliche Mobilität" und weiteres Vorgehen - mehrheitlich beschlossen
+- TOP 8.3: Veranstaltung "Mobilität von morgen" - von der Tagesordnung abgesetzt
+- TOP 8.4: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2013 - mehrheitlich geändert beschlossen
+- TOP 8.5: Straßenausbau im Straßenumbau Aegidiistraße Rothenburg, Johannesstraße, Pferdegasse, Domplatz im Bereich des Landesmuseums - ohne Beschlussfassung geschoben
+- TOP 8.6: "Barrierefreies Bauen" im öffentlichen Verkehrsraum - einstimmig beschlossen
+- TOP 8.7: "Mehr Platz für mehr Radverkehr - Lücken im Netz schließen - Hindernisse für FußgängerInnen aus dem Weg räumen" Antrag an den Rat Nr. A-R/0032/2009 - einstimmig geändert beschlossen
+- TOP 8.8: Für hindernisfreien Radverkehr - Prüfung von Umlaufsperren und Sperrpfosten im Stadtgebiet, Zwischenbericht zum Stand der Umsetzung - zur Kenntnis genommen
+- TOP 8.9: Ergänzung der Lichtsignalanlage Warendorfer Straße/Dechaneistraße/Wiener Straße - vertagt
+- TOP 8.10: Bushaltestelle "Martin-Luther-King-Weg" (stadteinwärts) auf dem Albersloher Weg - einstimmig geändert beschlossen
+- TOP 8.11: Bau von zwei Bushaltestellen mit Querungshilfe am geplanten DB-Haltepunkt Roxel an der Pienersallee - einstimmig geändert beschlossen
+- TOP 9: Bauvorhaben
+- TOP 9.1: Neubau Polizeiwache - Julius-Voos-Gasse / Alter Steinweg
+- TOP 9.2: Bergstraße 75 - Umbau und Erweiterung eines Wohn- und Geschäftshauses
+- TOP 9.3: Aufstockung der Parkpalette am Stadthaus 2 zu Wohnzwecken, Südstraße
+- TOP 10: Verschiedenes
