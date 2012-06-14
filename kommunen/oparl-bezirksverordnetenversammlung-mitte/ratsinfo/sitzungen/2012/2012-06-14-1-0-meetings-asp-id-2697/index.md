@@ -1,0 +1,143 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Mitte von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Beginn: 2012-06-14T18:00:00+02:00
+- Ende: 2012-06-14T23:12:00+02:00
+- Ort: Karl-Marx-Allee 31, 10178 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-mitte/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2697
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/meetings.asp?id=2697
+- Quelle: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/download.asp?dtyp=105&id=86504
+
+## Tagesordnung
+
+- TOP 1: Bürgerfragestunde - erledigt
+- TOP 2: Mitteilungen - (offen)
+- TOP 2.1: des Vorstandes - erledigt
+- TOP 2.2: der Fraktionen - erledigt
+- TOP 2.3: der Ausschüsse - erledigt
+- TOP 2.4: des Bezirksamtes - erledigt
+- TOP 3: Konsenslisten - erledigt
+- TOP 4: Thematische Stunde - erledigt
+- TOP 5: Mündliche Anfragen - (offen)
+- TOP 5.1: Sprunghafter Anstieg der Gewerbeanmeldungen auch in Mitte? - erledigt
+- TOP 5.2: Betreff: Großer Tiergarten vs. Monbijoupark? - beantwortet
+- TOP 5.3: Musikautomaten - erledigt
+- TOP 5.4: Verantwortung für die Stele im Afrikanischen Viertel? - erledigt
+- TOP 5.5: Polizeiliche Führungszeugnisse für die ehrenamtliche Arbeit für Wohnungslose - erledigt
+- TOP 5.6: Aktuelle Personalsituation in der Einbürgerung - erledigt
+- TOP 5.7: Nutzung von bezirklichen Sportstätten - erledigt
+- TOP 5.8: Mehraufwand durch neues Hortgesetz - erledigt
+- TOP 5.9: Grundwassersanierungsmaßnahme Schillingstrasse - erledigt
+- TOP 5.10: Dauerausstellung "Nicht mißhandeln" - erledigt
+- TOP 5.11: Turnhalle Lessing - Gymnasium - erledigt
+- TOP 5.12: Gewerbetreibende in Mitte warten monatelang auf ihre Parkvignetten - erledigt
+- TOP 6: Dringlichkeitsanfragen - (offen)
+- TOP 6.1: Zusätzliche Sanierungsmittel für Berliner Schulen - hat Mitte einen Plan? - erledigt
+- TOP 6.2: Terminpflicht in Mittes Bürgerämtern von Dienstag bis Samstag - erledigt
+- TOP 7: Große Anfragen - (offen)
+- TOP 7.1: Salafismus in Mitte - erledigt
+- TOP 7.2: Außer Spesen nichts gewesen? - erledigt
+- TOP 7.3: Wasser für die Plansche im Schillerpark? - beantwortet
+- TOP 7.4: Haben Bibliotheken im Bezirk Mitte noch eine Zukunft? - erledigt
+- TOP 7.5: Verkehrssicherheit am Lützowufer Höhe Hiroshimasteg - erledigt
+- TOP 7.6: Personalabbau im Bezirksamt Mitte - erledigt
+- TOP 7.7: Wie ist der aktuelle Sachstand der Umsetzung des Antrages der BVV Drs 0270/IV vom 10.Mai 2012? - erledigt
+- TOP 7.8: Hortbetreuung an der Herrmann-Herzog- / Trift-Grundschule - erledigt
+- TOP 7.9: "Hütchenspieler" in den Straßen des Bezirks Mitte - erledigt
+- TOP 7.10: Geldspielautomaten in Imbissbuden - erledigt
+- TOP 7.11: Kein Hitzefrei für Mittes Kinder? Wann darf wieder geplanscht werden? - beantwortet
+- TOP 7.12: Nachfrage zur Antwort des Bezirksamtes Mitte auf die Große Anfrage 0277/IV der Fraktion Die Linke - erledigt
+- TOP 7.13: Einhaltung von § 6 Abs. 2 des Jugendschutzgesetzes in Verbindung mit Glücksspielgeräten - erledigt
+- TOP 7.14: Droht Mitte der personelle Kahlschlag und stehen die BürgerInnen bald vor leeren Amtsstuben? - erledigt
+- TOP 7.15: Verwirklichung des Bibliotheksentwicklungsplanes in Moabit - erledigt
+- TOP 7.16: Lärmbelästigung durch längere Betriebszeit im Flughafen Tegel - erledigt
+- TOP 7.17: Wo bleibt das Inselglück? Perspektiven der Moabiter Kulturtage - erledigt
+- TOP 7.18: Strukturelle und bauliche Veränderungen an Schulstandorten:Einhaltung der §§ 12 und 15 Bezirksverwaltungsgesetz – Entscheidungsbefugnisse und Unterrichtung der Be-zirksverordnetenversammlung - erledigt
+- TOP 7.19: Wie weiter mit dem Kletterzentrum? - erledigt
+- TOP 7.20: Eichenprozessionsspinner – Befall und Vorsorge - erledigt
+- TOP 8: Dringlichkeitsvorlagen zur Beschlussfassung - (offen)
+- TOP 8.1: Entwurf des Ergänzungsplanes 2012 - mit Änderungen in der BVV beschlossen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Zusammenlegung der Schiedsamtsbezirke Mitte 7 und Mitte 8 zum Schiedsamtsbezirk Mitte 7 - vertagt
+- TOP 9.2: Bebauungsplan III-46-1 sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplans III-46-1 - vertagt
+- TOP 9.3: Genehmigung der im Haushalt 2011 zugelassenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - vertagt
+- TOP 10: Vorlagen zur Beschlussfassung/Beschlussempfehlung - (offen)
+- TOP 10.1: Bebauungsplan 1-51 (östlich Brunnenstraße, nördlich Rheinsberger Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-51 - vertagt
+- TOP 10.2: Bebauungsplan 1-56B (westlich Brunnenstraße, südlich Anklamer Straße) sowie Entscheidung über den Entwurf der Rechtsverordnung zur Festsetzung des Bebauungsplanes 1-56B - vertagt
+- TOP 11: Dringlichkeitsanträge - (offen)
+- TOP 11.1: Bürgernahe Bürgerämter im Bezirk Mitte - vertagt
+- TOP 11.2: Stele im Afrikanischen Viertel drehen! - vertagt
+- TOP 11.3: Nächste Schritte für den Mauerpark - vertagt
+- TOP 11.4: Weihnachtsmarkt erhalten - und rund 80.000,00 € direkte Einnahmen sichern! - vertagt
+- TOP 12: Anträge - (offen)
+- TOP 12.1: Straßenbenennung Elisabeth-Schmitz-Pfad - vertagt
+- TOP 12.2: Erhalt der Bäume 197 und 197a - vertagt
+- TOP 12.3: Wiederherstellung der barocken Sichtachse Gendarmenmarkt – Kammergericht (jetzt Jüdisches Museum) - vertagt
+- TOP 12.4: Biologische Vielfalt in Mitte – Modellprojekt in der Afrikanischen Straße 13 konzipieren und verwirklichen - vertagt
+- TOP 12.5: Konsequente Transparenz statt Lippenbekenntnissen - vertagt
+- TOP 12.6: Anpassung Ausführungsverordnung (AV) Zuständigkeit - vertagt
+- TOP 12.7: Hansaviertel wieder verbinden - vertagt
+- TOP 12.8: Wiederanbringung der historischen Architravinschrift am Konzerthaus (ehem. Schauspielhaus) am Gendarmenmarkt - vertagt
+- TOP 12.9: Vermietung von Räumen in Schulen des Bezirkes - vertagt
+- TOP 12.10: Geldspielautomat in Gaststätten außerhalb von Spielhallen - vertagt
+- TOP 12.11: Asbestgefahr in Wohngebäuden aktuell bewerten und transparent machen - vertagt
+- TOP 12.12: Ausgesuchte Daten der "Polizeilichen Kriminalstatistik" zugänglich machen - vertagt
+- TOP 12.13: Pressespiegel online für alle Bürger - vertagt
+- TOP 12.14: Bibliotheksplanung in Moabit - vertagt
+- TOP 12.15: Bewährtes fortführen: Regelmäßige Quartiersräterunden - vertagt
+- TOP 12.16: Aktionstage "Zu Fuß zur Schule" unterstützen - ohne Änderungen in der BVV beschlossen
+- TOP 12.17: Wasser auf die Spielplätze - ohne Änderungen in der BVV beschlossen
+- TOP 12.18: Wahl eines Stellvertretenden Bürgerdeputierten - vertagt
+- TOP 12.19: Spielplatzentwicklungsplan - vertagt
+- TOP 12.20: Ausweich-Grillen im Monbijoupark: Grillflächen und Grillregeln - vertagt
+- TOP 12.21: Wasser für die Planschen - ohne Änderungen in der BVV beschlossen
+- TOP 12.22: Zwischenlösung für Umbau der Thusneldaallee zum attraktiven Stadtplatz - vertagt
+- TOP 12.23: Und jährlich grüßt der Einschulungsbericht… : Impf- und Rauchaufklärung bereits im Rahmen der Erstbesuche ausbauen - vertagt
+- TOP 12.24: Sicherung von belegungsgebundenem Wohnraum insbesondere von Behindertenwohnraum (2) - Unrechtmäßiges Handeln endlich verhindern - vertagt
+- TOP 12.25: Für ein ungefährliches Ein- und Aussteigen sorgen: M27 - vertagt
+- TOP 13: Dringliche Entschließungen - (offen)
+- TOP 13.1: Namentliche Abstimmung in der BVV transparent machen - vertagt
+- TOP 14: Entschließungen - (offen)
+- TOP 14.1: Kein personeller Kahlschlag in Mittes Bezirksverwaltung – Mitte darf keine Verantwortungs- und Servicewüste werden - vertagt
+- TOP 15: Anträge/Beschlussempfehlung - (offen)
+- TOP 15.1: Neubeschaffung von IT - Umweltzeichen "Blauer Engel" beachten - vertagt
+- TOP 15.2: Olof-Palme-Zentrum: Eine jugendpolitische Notwendigkeit - vertagt
+- TOP 15.3: Städtebauliche Kriminalprävention - vertagt
+- TOP 15.4: Gesamtkostenübernahme GebärdendolmetscherInnen - vertagt
+- TOP 15.5: Sicher essen auch in Berlin Mitte - vertagt
+- TOP 15.6: Integration behinderter Menschen - vertagt
+- TOP 15.7: Bezahlbaren Wohnungsneubau ermöglichen - vertagt
+- TOP 15.8: Steuerung der Fallkosten bei der ambulanten Hilfe zur Pflege (II) - vertagt
+- TOP 15.9: Auszug aus dem Rathausturm bis spätestens 30.06.2012 - vertagt
+- TOP 15.10: Erlass einer Satzung gemäß §172, Abs.2 Baugesetzbuch für die Wohngebiete im nördlichen Moabit - vertagt
+- TOP 15.11: "Moderne Generationenpolitik in Mitte" - vertagt
+- TOP 15.12: Kostendeckende Außentrauungen - vertagt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Voraussetzungen für die Abgabe des Rathausturmes schaffen! - vertagt
+- TOP 16.2: Bezirkliche Dienstleistungsverträge - vertagt
+- TOP 16.3: Mehr Transparenz und Nachvollziehbarkeit für die Aufstellung unseres Bezirkshaushaltsplanes 2012/2013 - vertagt
+- TOP 16.4: Digitaler Sitzungsservice für die Bezirksverordnetenversammlungen - vertagt
+- TOP 16.5: Potentiale des Moa-Bogens für Moabit nutzen - vertagt
+- TOP 16.6: Erhalt von Mietwohnungen - vertagt
+- TOP 16.7: Ausführungsverordnung Spielhallengesetz - vertagt
+- TOP 16.8: BVV-Beschluss 0070/IV nicht umsetzen - vertagt
+- TOP 16.9: Gerichtsstrasse wieder durchgängig öffnen - vertagt
+- TOP 16.10: Wahl von PatientenfürsprecherInnen nach § 30 Landeskrankenhausgesetz (LKG) durch die Bezirksverordnetenversammlung Mitte - vertagt
+- TOP 16.11: Negative Auswirkungen des U-Bahnbaus reduzieren - vertagt
+- TOP 16.12: Neuer Anlauf für das Außenbecken des Seydlitzbades - Mitte gibt nicht auf! - vertagt
+- TOP 16.13: Bürgerfreundliche Ausschilderung der Bezirksverordnetenversammlung - vertagt
+- TOP 16.14: Benennung einer Privatstraße zwischen Invalidenstraße und Minna-Cauer-Straße im OT Moabit - vertagt
+- TOP 16.15: Namensgebung für die 47. Grundschule im Bezirk Mitte - vertagt
+- TOP 16.16: Beschluss über das Ergebnis der frühzeitigen Beteiligung der Öffentlichkeit gemäß § 3 Abs 1 Baugesetzbuch, der frühzeitigen Beteiligung der Behörden und sonstigen Träger öffentlicher Be-lange gemäß § 4 Abs. 1 BauGB sowie der erneuten frühzeitigen Beteiligung der Öffentlichkeit ge-mäß § 3 Abs 1 Baugesetzbuch zum Bebauungsplanentwurf 1-60 „Schillingstraße Süd“ für die Grundstücke Holzmarktstraße 66, 69, 73 und 75 sowie die angrenzenden Flurstücke 266, 391 (teilweise), 395, 399 und 400 sowie eine T - vertagt
+- TOP 16.17: Nikolaiviertel die Wiege Berlins stärken (2) - vertagt
+- TOP 16.18: Maßnahmen zur Korruptionsprävention einleiten - vertagt
+- TOP 16.19: In der Mobilität eingeschränkte Menschen unterstützen – „Netzwerk Winter“ einrichten! - vertagt
+- TOP 16.20: BürgerInnen-Versammlung zur Neubebauung Bachstraße 1-2 (ehemaliges Konsistorium) - vertagt
+- TOP 16.21: Kurz-, mittel- und langfristige Umsetzung des "Übereinkommens über die Rechte von Menschen mit Behinderungen" - vertagt
+- TOP 16.22: Zuschüsse für bürgerschaftliche Initiativen transparent gestalten - vertagt
+- TOP 16.23: Abrissmoratorium Atelierhaus im Monbijoupark und Standortsicherung für das C/O-Ausstellungsforum in Mitte - vertagt
+- TOP 16.24: C&A - Aufgabe des Standortes Müllerstraße - vertagt
+- TOP 16.25: Toilettennutzung im Bereich um den "Tränenpalast" - vertagt
