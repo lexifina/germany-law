@@ -1,0 +1,65 @@
+# 10. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-06-14T16:30:00+02:00
+- Ende: 2012-06-14T20:55:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3249
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3249
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=97112
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgerfragestunde - schriftlich beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-09 - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Wahl einer weiteren stellvertretenden Schriftführerin/eines weiteren stellvertretenden Schriftführers - gewählt
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Veröffentlichung der Geschäftsordnung des Bezirksamtes - im Ältestenrat zurückgezogen
+- TOP 10: Nachfragen zu Großen Anfragen - (offen)
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Entwurf der geänderten Begründung zum vorhabenbezogenen Bebauungsplans 9-29 VE vom Mai 2012 im Bezirk Treptow-Köpenick von Berlin, Ortsteil Altglienicke - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12: Beschlussempfehlungen der Ausschüsse - (offen)
+- TOP 12.1: Strandbad Müggelsee hier: Übernahme einer Teilfläche des Strandbades Müggelsee in das Verwaltungsvermögen des Bezirksamtes mit dem Ziel der Vergabe eines Erbbaurechts mit Bauverpflichtung an einen privaten Investor - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.2: Rasche Hilfe für betroffene Mieterinnen und Mieter, insbesondere für Mieterinnen und Mieter mit Behinderungen - ohne Änderungen in der BVV beschlossen
+- TOP 12.3: Ausweitung der Tempo-30-Zone in Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 12.4: Auffahrt Spindlersfelder Brücke - ohne Änderungen in der BVV beschlossen
+- TOP 12.5: Ampel Köpenicker Landstraße Ecke Straße am Plänterwald - ohne Änderungen in der BVV beschlossen
+- TOP 12.6: Belag Wuhlewanderweg erneuern - ohne Änderungen in der BVV beschlossen
+- TOP 12.7: Querungshilfe Wendenschloßstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Verkehrsregelung auf dem Adlergestell/ Godbersenstraße - ohne Änderungen in der BVV beschlossen
+- TOP 12.9: Höhenbegrenzungsmarkierung an der Bahnbrücke Köpenick - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Umweltmonitoring JETZT für Trinkwasserschutzgebiete - mit Änderungen in der BVV beschlossen
+- TOP 12.11: Planungsrechtliche Sicherung nach § 125 Abs. 2 BauGB zur Herstellung der Erschließungsanlage der Nalepastraße zw. Rummelsburger Landstraße und der Kleingartenanlage Wilhelmstrand im Bezirk Treptow-Köpenick von Berlin, Ortsteil Oberschöneweide - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.12: Bebauungsplan XVI-78b („Am Stichkanal Süd“) hier: Einstellung des Bebauungsplans - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Regionales Entwicklungskonzept BER - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Handlungsfähigkeit des Bezirks sichern – Personalentwicklung ohne massiven Personalabbau - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Tempo 30 in der Semmelweisstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.3: Weiterführende Beratungen zum Bezirkshaushalt 2012/13 - ohne Änderungen in der BVV beschlossen
+- TOP 14.4: Barrierefreie Haltestellen in der Altstadt - überwiesen
+- TOP 14.5: Resolution "Handlungsfähigkeit des Bezirks sichern: Personalabbau stoppen" - in der BVV abgelehnt
+- TOP 14.6: Kenntnisnahme der Ziel- und Servicevereinbarungen - ohne Änderungen in der BVV beschlossen
+- TOP 14.7: Veränderung der Tagesordnung der BVV-Sitzung - überwiesen
+- TOP 14.8: Gesundheits- und Umweltmonitoring - in der BVV zurückgezogen
+- TOP 14.9: Änderung der Geschäftsordnung "Widerspruch zur Konsensliste" - überwiesen
+- TOP 14.10: Schienenersatzverkehr in Grünau - ohne Änderungen in der BVV beschlossen
+- TOP 14.11: Müllkapazitäten im Treptower Park erhöhen - überwiesen
+- TOP 14.12: Verfahren für die Kiezkassen - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Verbot von Alkohol- und Tabakwarenkonsum auf Spielplätzen - überwiesen
+- TOP 14.14: Verkehrsentlastung Goldmannpark - überwiesen
+- TOP 14.15: Abgeordnete Schilder entfernen - vertagt
+- TOP 14.16: Ideen für Freie Förderung - ohne Änderungen in der BVV beschlossen
+- TOP 14.17: Schulsanierungen in bezirklicher Verantwortung belassen! - ohne Änderungen in der BVV beschlossen
+- TOP 14.18: Umsetzung einer Gedenkstele in Adlershof - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - (offen)
+- TOP 15.1: WBS-Wohnungen in Treptow-Köpenick - vertagt
