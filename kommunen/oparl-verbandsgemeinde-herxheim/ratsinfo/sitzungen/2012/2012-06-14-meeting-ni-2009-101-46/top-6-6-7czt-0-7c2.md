@@ -1,0 +1,6 @@
+# TOP 6: nicht öffentlicher Tagesordnungspunkt
+
+- Sitzung: 18. Sitzung des Haupt- und Finanzausschusses der Verbandsgemeinde (2012-06-14)
+- Körperschaft: Verbandsgemeinde Herxheim
+- Öffentlich: nein
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2009-101-46%7Czt_0%7C2
