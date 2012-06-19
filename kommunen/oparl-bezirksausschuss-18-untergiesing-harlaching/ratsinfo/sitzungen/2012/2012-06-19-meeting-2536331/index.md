@@ -1,0 +1,121 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2012-06-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536331
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536331
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Verbesserung der Verkehrssituation am Wettersteinplatz; Abdruck eines Bürgerschreibens an das KVR vom 19.05.12
+- TOP 2.2.: Kein Fußballspielen im Rosengarten - Naturschutz; Abdruck eines Bürgerschreibens an das Baureferat - <div>Bürger telef. in KW 25 über das Ergebnis der BA-Sitzung informiert</div>
+- TOP 2.3.: Parkbucht Kreuzung Bozzarisstraße / Ecke Naupliastraße; Bürgeschreiben vom 06.06.12
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Spielmobil im Juli 2012; Antragssumme: 960,00 ?; Beschlussvorlage des Direktoriums vom 14.05.12
+- TOP 3.2.: 2.500,00 ? aus dem Budgetanteil für BA-eigene Maßnahmen zur Durchführung einer Einwohnerversammlung mit dem Thema: "Verbesserung der Parkplatzsituation / der Verkehrssituation rund um den Tierpark"; Antrag der CSU-Fraktion (siehe TOP 3.2.3.2)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Puppenzirkus vom 21.08.12 bis 26.08.12; Antragssumme: 6.000,00 ?; Antrag vom 28.05.12
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Ausbau des Radwegs vom Theodolindenplatz bis Großhesseloher Brücke und Absenkung aller Randsteine am Beginn der Radwege im 18. Stadtbezirk; Bürgerantrag (verwiesen aus der Sitzung vom 15.05.2012) - <div>nach Antrag</div>
+- TOP 3.2.: Ampelanlagen im 18. Stadtbezirk, insbesondere Authariplatz, Autharistraße und Wettersteinplatz; Bürgerantrag (verwiesen aus der Sitzung vom 15.05.2012)
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellung eines mobilen Fahrradständers in der St.-Magnus-Str. 34; Beschluss des BA 18 vom 19.06.2012
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Verbesserung der Parkplatzsituation / der Verkehrssituation rund um den Tierpark; Durchführung einer Einwohnerversammlung im Umgriff des Tierparks; Antrag der CSU-Fraktion
+- TOP 3.3.: Fahrbahnmarkierung in der Oberbiberger Straße zur Verhinderung des Parkens; Markierung des Fuß- u. Radwegs am U-Bahn-Aufgang Richtung Mangfallplatz; Antrag der CSU-Fraktion - <div>nach Antrag</div>
+- TOP 3.4.: Mangfallplatz - weitere Fahrradständer am südlichen U-Bahn-Aufgang; Antrag der CSU-Fraktion - <div>nach Antrag</div>
+- TOP 3.5.: Instandsetzung des Zauns und der Zugangstür zum Bahndamm rechts von der Bahnunterführung Claude-Lorrain-Straße zum Hans-Mielich-Platz; Antrag der SPD-Fraktion vom 19.06.12 - <div>nach Antrag</div>
+- TOP 3.6.: Schaffung von Fahrradabstellmöglichkeiten für Kunden der Firma ALDI in der Pilgersheimer Straße - <div>nach Antrag</div>
+- TOP 3.7.: Die LHM wird aufgefordert, dem BA 18 Pläne zu unterbreiten, wie die Parkraumsituation zu Spitzenzeiten rund um den Tierpark verbessert werden könnte - <div>nach Antrag</div>
+- TOP 3.8.: Konzept für die Umgestaltung der Hans-Mielich-Straße in Partizipation mit Bürgerinnen und Bürgern - <div>nach Antrag</div>
+- TOP 3.1.: Erinnerungsverfahren; Grünwalder Str. 1 - 5 und 13 - 17, Kreuzung Tegernseer Landstraße und Bereich Wettersteinplatz; prov. Instandsetzung schadhafter Fahrbahnabschnitte aus Gründen der Verkehrssicherheit; Zuleitung des Baureferats mit der Bitte um Stellungnahme (vertagt aus der Sitzung vom 15.05.2012)
+- TOP 3.2.: Erinnerungsverfahren; Tegernseer Landstraße 174 - Befestigung mit Abpollerung des Grünstreifens neben Ausfahrt; Zuleitung des Baureferats mit der Bitte um Stellungnahme
+- TOP 3.3.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Rotbuchenstraße 44; Schreiben des KVR vom 30.05.12 mit der Bitte um Stellungnahme bis 13.07.12
+- TOP 3.1.: Fußgängerüberweg Agilolfingerstraße / Thusneldastraße; Schreiben des BA 18 vom 23.03.12; Zwischennachricht des KVR vom 18.05.12
+- TOP 3.2.: Verbesserung der Verkehrssituation am Hans-Mielich-Platz1. Die LHM wird aufgefordert, am neu gestalteten Hans-Mielich-Platz eindeutige Verkehrsregelungen zu treffen; BA-Antrag Nr. 08-14 / B 03790 vom 20.03.12; Antwortschreiben des KVR vom 09.05.12 (neutrale Erledigung)
+- TOP 3.3.: Fahrbahnsanierung der Säbener Straße im Abschnitt zwischen Oberbiberger Straße und Naupliastraße; BA-Antrag Nr. 08-14 / B 03641 der SPD-Fraktion vom 04.01.2012; Antwortschreiben des Baureferats vom 07.05.12 mit der Bitte um Stellungnahme zum weiteren Verfahren
+- TOP 3.4.: Lärmbelästigung durch den Güterverkehr der Deutschen Bahn im Bereich der Pilgersheimer Straße; Bürgerschreiben aus der Sitzung des BA 18 vom 17.04.12; Antwortschreiben des RGU vom 08.05.12 (negative Erledigung)
+- TOP 3.5.: Verbot der Durchfahrt von Straßen mit Kopfsteinpflaster für Kraftfahrzeuge über 18t (o.ä.) in Harlaching; BA-Antrag Nr. 08-14 / B 03786 vom 20.03.12; Antwortschreiben des KVR vom 30.05.12 (negative Erledigung)
+- TOP 3.6.: Anbringen von weiteren Holz-"Barrieren" zwischen den Kurven Lindenbergstraße / Geiselgasteigstraße und dem Harlachinger Berg / Karolingerallee; BA-Antrag Nr. 08-14 / B 03788 vom 20.03.12; Antwortschreiben des Baureferats vom 22.05.12 (positive Erledigung)
+- TOP 3.7.: Wiedereinrichtung der Schulbushaltestelle in der Wunderhornstraße; Bürgeranliegen aus der Sitzung vom 17.01.12; Antwortschreiben des KVR vom 04.06.12 (positive Erledigung)
+- TOP 3.1.: Satzung der LHM über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS); Sitzungsvorlagen Nr. 08-14 / V 09305; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 13.06.12 (VB)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Bepflanzung Ecke Pilgersheimer Straße / Candidplatz; Antrag der Frakion Bündnis 90/DIE GRÜNEN vom 04.06.12 - <div>nach Antrag (mit Änderung)</div>
+- TOP 3.1.: Lärmminderungsplanung für München; Entwurf des Lärmaktionsplans; Zuleitung des RGU vom 24.05.12 mit der Bitte um Stellungnahme bis 06.07.12 zu 3.3.4.1 Lärmaktionsplan - öffentliche Auslegung, Gelegenheit zur Stellungnahme; Schreiben des Münchner Forums - Arbeitskreis Lärm vom 15.05.12
+- TOP 3.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 3.3.6.1.1 Anwesen Terhallestr. 7; Unterrichtung vom 11.05.12 3.3.6.1.2 Anwesen Terhallestr. 5; Unterrichtung vom 11.05.12
+- TOP 3.1.: Erinnerung an BA-Umfrage zum Urbanen Naturnet München; Schreiben des Vereins Urbanes Wohnen e.V. vom 30.05.12
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Bank für die neugestaltete Fläche vor dem Altenheim St. Franziskus im 18. Stadtbezirk; BA-Antrag Nr. 08-14 / B 03609 vom 20.12.11; Antwortschreiben des Baureferats vom 25.04.12 (positive Erledigung)
+- TOP 3.1.: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen; Sitzungsvorlage Nr. 08-14 / V 08559; Beschluss der Vollversammlung des Stadtrates vom 25.04.2012
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis gem. Vollmacht des Oberbürgermeisters vom 26.11.2007; hier: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund (Zeitungen) in der Schönstraße 94 und der Tegernseer Landstraße 146; Beschluss des BA 18 vom 19.06.12
+- TOP 3.1.: Erlass einer Werbeanlagensatzung; Antrag des BA 19 vom 23.05.12 mit der Bitte um Kenntnisnahme und ggfl Unterstützung
+- TOP 3.2.: Kindergarten- bzw. Kinderkrippen-Erweiterung des Vereins Karl & Liesl e.V. in der Kühbachstraße; Antrag der Kinderkrippe vom 24.05.12
+- TOP 3.3.: Sanierung des Grünstreifens in der Geiselgasteigstraße zwischen Isenschmidtstraße und Lindenstraße; Antrag der FDP-Fraktion vom 26.05.2012 - <div>nach Antrag</div>
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Gerhardstr. 2 - 4; Umbau u. Sanierung einer Gaststätte sowie Errichtung einer Freischankfläche (133 m²); Anhörung vom 10.05.12 (vertagt aus der Sitzung vom 15.05.12)
+- TOP 3.2.: Griechenplatz 13; Neubau zweier Mehrfamilienhäuser mit Tiefgarage (Griechenplatz 13 / Langobardenstr. 5+7); Anhörung vom 14.05.12 (vertagt aus der Sitzung vom 15.05.12)
+- TOP 3.3.: Anwesen Hermine-Bland-Straße; Neubau eines Einfamilienhauses mit Einliegerwohnung u. Carport; Anhörung vom 23.05.12
+- TOP 3.4.: Josef-Vötter-Str. 7; Neubau eines Doppelhauses mit Doppelstockgarage - hier: DHH 2; Anhörung vom 24.05.12
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Rückübereignung Flst. 13001 (Tlfl.), Sektion VII, 18. Stadtbezirk an der Grünwalder Str. 22 und 24; Nachfrage des BA 18 vom 23.04.12; Antwortschreiben des Kommunalreferats vom 07.05.12 (neutrale Erledigung)
+- TOP 3.2.: Freiwillige Feuerwehr für den 18. Stadtbezirk auf dem Gelände des Klinikums München-Harlaching; BA-Antrag Nr. 08-14 / B 03317 der CSU-Fraktion vom 14.06.11; Nachfrage des BA 18 aus der Sitzung vom 17.01.12; Antwortschreiben der Branddirektion vom 02.05.12 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR 3.5.6.2.1 SSW Waltramstraße; Mitteilung vom 10.05.12
+- TOP 3.3.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 3.5.6.3.1 Anwesen Geiselgasteigstraße; Mitteilung vom 04.05.12 3.5.6.3.2 Anwesen Sonnwendjochstraße; Mitteilung vom 04.05.12 3.5.6.3.3 Anwesen Rabenkopfstraße; Mitteilung vom 30.04.12
+- TOP 3.4.: Werbenutzungsvertrag der LHM; Ergebnisse der Standortbereisung; Schreiben des RAW vom 04.05.12
+- TOP 3.1.: BV Mangfallstr. 25; Neubau einer Wohnanlage mit Garage; negative Stellungnahme des BA 18; Genehmigungsbescheid der Lbk vom 15.05.12
+- TOP 3.2.: BV Rabenkopfstraße 5; Neubau eines Doppel- und eines Einzelhauses; Kopie eines Bürgerschreibens an die Lbk (siehe dazu auch TOP 3.5.4.1.4 und 3.5.4.1.6 der Sitzung vom 15.05.12)
+- TOP 3.3.: Meichelbeckstraße 6; Neubau eines Mehrfamilienhauses (9 WE) mit TG (9 Stpl.); negative Stellungnahme des BA 18 vom 16.02.12; Genehmigungsbescheid vom 29.05.12
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Anschluss für Abwasser, Wasser und Strom für die städtische Grünanlage an der Oberbiberger Straße; BA-Antrag Nr. 08-14 / B 03784 vom 20.03.12; Antwortschreiben des Baureferats vom 18.04.12 (negative Erledigung) - verwiesen aus der Sitzung vom 15.05.12 - Ortsbesichtigung durch den UA Kultur u. Veranstaltungen
+- TOP 3.1.: 18.jetzt - Fest junger Erwachsener im Rathaus am 13. Oktober 2012; Schreiben des Direktoriums mit der Bitte um Rückmeldung
+- TOP 3.1.: Neubestellung des Heimatpflegers der LHM und seines Stellvertreters; Sitzungsvorlagen Nr. 08-14 / V 09314; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 23.05.12
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und -sicherungsverordnung der LHM; Verschmutzungsabgabe für Fast-Food-Betriebe (Ziffer 1 des Antrags); Sitzungsvorlage Nr. 08-14 / B 08433; Beschluss des Bauausschusses vom 12.06.12 (VB)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
