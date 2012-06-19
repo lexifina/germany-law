@@ -1,0 +1,8 @@
+# TOP 5: Jahresbericht zur Abwasserbeseitigung 2011 der NEW AG
+
+- Sitzung: Planungs- und Bauausschuss (2012-06-19)
+- Körperschaft: Stadt Mönchengladbach
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/agendaitems/118053
+- Ergebnis: Kenntnisnahme
+- Beratung: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0011/consultations/14275
