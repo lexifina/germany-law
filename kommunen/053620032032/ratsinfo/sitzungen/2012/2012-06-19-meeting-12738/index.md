@@ -1,0 +1,54 @@
+# Ausschuss für Stadtplanung und Verkehr (18. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-06-19T17:00:00+02:00
+- Ende: 2012-06-19T20:24:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZevAKf2X3WdR_0X93jhIbUQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12738
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZeffhCoq2VAdh49fPpMsHhmzqz2aP5EZdSI9xw-wiQSl/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_19.06.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Umbesetzung von Arbeitskreisen
+- TOP 1.1: Umbesetzung des Arbeitskreises ÖPNV hier: Antrag der SPD-Fraktion
+- TOP 1.2: Umbesetzung des Arbeitskreises ÖPNV Teilnahme eines Mitglieds des Behindertenbeirates
+- TOP 1.3: Umbesetzung der Arbeitskreise ÖPNV und Tagebau Buir hier: Antrag der CDU-Fraktion
+- TOP 2.: Anregung und Beschwerde gem. § 24 Gemeindeordnung NRW; hier: Umbenennung der Straße "Am Muttenk", Stadtteil Kerpen
+- TOP 3.: Entscheidung über die Niederschrift der Sitzung des Ausschusses für Stadtplanung vom 14.02.2012 zum Tagesordnungspunkt 4.3 "Nahversorgung in Türnich/Brüggen/ Balkhausen".
+- TOP 4.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 17. Sitzung vom 24. April 2012
+- TOP 5.: Umsiedlung Manheim
+- TOP 5.1: Niederschrift der 2. Sitzung des Bürgerbeirates Manheim
+- TOP 5.2: Funktionsersatz für Friedhof und Friedhofshalle in Manheim-neu
+- TOP 5.3: Umsiedlung Manheim hier: Funktionsersatz für die Spielplätze
+- TOP 5.4: Bericht der Verwaltung
+- TOP 6.: Stadtentwicklung
+- TOP 6.1: Höhen- und Lageänderungen durch Sümpfungsmaßnahmen
+- TOP 6.2: Gelände der heutigen Boelcke-Kaserne in Kerpen hier: Einrichtung einer Biologischen Station
+- TOP 6.3: Niederschrift der 12. Sitzung des Arbeitskreises "Tagebau Buir" vom 28.03.2012
+- TOP 7.: Bauleitplanung
+- TOP 7.1: Bebauungsplan SI 254 "Nördlich Heppendorfer Straße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.2: Bebauungsplan KE Nr. 332 "Hahnenstraße", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 7.3: Bebauungsplan SI 232 A/1. Änderung "Gewerbegebiet Europaring", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 7.4: Bebauungsplan KE Nr. 344 "Stiftsstraße" im Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 7.5: Abschluss eines städtebaulichen Vertrages zur Realisierung eines Bauvorhabens im Bereich "Altes Hallenbad Kerpen"
+- TOP 7.6: Nahversorgung in Türnich, Balkhausen und Brüggen hier: Sachstand zur Planung Markt in Türnich
+- TOP 7.7: Innenstadtentwicklung in Kerpen
+- TOP 8.: Verkehrsplanung
+- TOP 8.1: Bahnsteigverbreiterung S-Bahnhaltepunkt Sindorf
+- TOP 8.2: Beschilderung zum und im Marienfeld
+- TOP 8.3: Eingerichtete Umleitung über K16 hier: Sperrung der Hüttenstraße zwischen der Karl-Ferdinand-Braun-Straße im Stadtteil Sindorf und Weiler Geilrath
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.1: Verkehrsberuhigende Maßnahmen Hohlweg im Stadttteil Buir
+- TOP 10.2: Scoping-Verfahren für die Gewerbe- und Industrie-Ansiedlungsbereiche (GIB) in den Stadtteilen Türnich und Sindorf
+- TOP 10.3: Pendlerparkplatz an der neuen Anschlussstelle der A4 bei Geilrath
+- TOP 10.4: Zeitplan für die Baumaßnahmen bezüglich der A4 neu hier: Fortsetzung der sog. "Pferdebrücke" bei Geilrath
+- TOP 11.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 12.: Mitteilungen
+- TOP 13.: Anfragen gem. § 18 Geschäftsordnung
