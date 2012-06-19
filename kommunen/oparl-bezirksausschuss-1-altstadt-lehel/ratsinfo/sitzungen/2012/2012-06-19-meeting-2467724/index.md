@@ -1,0 +1,84 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-06-19T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467724
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467724
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Hackenstraße 7: Instandsetzung, Umbau und Erweiterung, Neubau, Tiefgarage (Vorbescheid) (vertagt)
+- TOP .2.: Maximiliansplatz: Erweiterung der Freischankfläche (vertagt)
+- TOP .4.: Hotterstraße 18: Nutzungsänderung EG und 1. (vertagt)
+- TOP .6.: Altheimer Eck 1: Nutzungsänderung Wohn- in Gewerberäume (vertagt)
+- TOP .7.: Reitmorstraße 2a: DG-Umbau eines denkmalgeschützen Mehrfamilienhauses (vertagt)
+- TOP .8.: Rumfordstraße 5: Errichtung einer Freischankfläche (vertagt)
+- TOP .9.: Maximilianstraße 38: Nutzungsänderung eines Bistros
+- TOP .10.: Rumfordstraße 7: Nutzungsänderung Gewerbe in Gastronomie
+- TOP .11.: Theatinerstraße 16: Errichtung einer Freischankfläche
+- TOP .13.: Thierschplatz 3: Abbruch und Neuerrichtung des Dachstuhls, Wintergarten, Gauben
+- TOP .14.: Augustinerstraße 1: Neuerrichtung des Gebäudes Frauenplatz 2
+- TOP .1.: Bürgeranliegen: Werbefahrräder auf Gehwegen
+- TOP .2.: Bürgeranliegen: Verschiedene Anliegen Tal, Radlsteg, Westenriederstraße
+- TOP .2.: ?Augustiner?, Rumfordstraße 35: Erweiterung einer Freischankfläche
+- TOP .1.: Rumfordstraße 43: Warenstellage
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Straßenfest am Fortunabrunnen am 21.07.2012, Isartorplatz
+- TOP .2.: Lesbisches Angertorstraßenfest am 07.07.2012, Angertorstraße
+- TOP .3.: Bennofest am 30.06.2012, Odeonsplatz
+- TOP .4.: Klassik auf dem Odeonsplatz mit Probe vom 06.07. - 08.07.2012
+- TOP .5.: Oper für Alle am 14.07.2012, Marstallplatz bzw. Max-Joseph-Platz
+- TOP .6.: Griechisch-Bayerischer Kulturtag am 24.06.2012, Odeonsplatz
+- TOP .7.: Kirchenzug zum Gärtnerjahrtag 2012 am 07.08.2012 durch die Innenstadt
+- TOP .8.: Straßenfest am 21.07.2012 (Ersatztermin 28.07.), Tierschplatz, Tattenbachstraße
+- TOP .9.: Gemeindefest St. Lukas am 30.06.2012, Mariannenplatz
+- TOP .10.: Konzerte im Brunnenhof der Residenz
+- TOP .11.: ?Les Saveures de France? vom 22.-25.08.2012, Sendlinger-Tor-Platz
+- TOP .1.: Umgestaltung des Tals ? Alternativkonzept der Interessengemeinschaft Tal
+- TOP 1: (E) Wiedererrichtung einer Ampelanlage Ecke Rumford- / Klenzestraße
+- TOP 1.1.: Radverkehr in der Fußgängerzone
+- TOP 1.2.: Fahrradabstellplatzkonzept (2. Realisierungsabschnitt)
+- TOP 1.3.: Mitzeichung der Beschlussvorlage zur BV-Empfehlung Nr. 08-14/1207: ?Aschenbecher an Abgängen zu U- und S-Bahnhöfen anbringen? für den Ausschuss für Arbeit und Wirtschaft am 10.07.2012
+- TOP 1.4.: Stellungnahme des Bezirksausschuss zum Entwurf des Lärmakionsplans für München
+- TOP 1.5.: Baumfällung Altheimer Eck 15
+- TOP 1.6.: Baumfällung Sternstraße 30
+- TOP 1.7.: Projektplanung ?Umgestaltung Tal? - Beschlussvorlage für den Bauausschuss am 10.07.2012
+- TOP 1.2.: UA: Projekt ?Kinder rasen in der Stadt?
+- TOP 1: (E) Nutzung der Praterinsel a) Sanierung des Ateliergebäudes auf der Praterinsel BA-Antrags-Nr. 02-08 / B 01603 des Bezirksausschusses des Stadtbezirkes 01- Altstadt-Lehel vom 14.11.2006 b) Weiterführung der ?Tango-Montage? auf der Praterinsel 2010 Empfehlung Nr. 08-14 / E 00480 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 01.12.2009 c) Rückkehr zur Kulturellen Nutzung der Praterinsel Empfehlung Nr. 08-14 / E 00484 der Bürgerversammlung des Stadtbezirkes 01 ? Altstadt-Lehel am 01.12.2009
+- TOP 2: (E) Anleingebot für Hunde (Ziffer 4 der Empfehlung)
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.3.: Beschluss des Planungsausschusses vom 23.05.2012: Neubestellung des Heimatpflegers der LMH und seines Stellvertreters
+- TOP 0.4.: Beschluss der Vollversammlung vom 25.04.2012: Platz der Opfer des Nationalsozialismus
+- TOP 0.5.: Broschüre ?Rechtsextreme Anmietungen ? Schutz für Kommunen und Vermieter?
+- TOP 0.6.: Beschluss des Planungs-, Kommunal-, RAW-, und Finanzausschusses am 13.06.2012: Sozialgerechte Bodennutzung
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Informationsschreiben zum Werbenutzungsvertrag der LHM
+- TOP 0.6.: Beschluss des Bauausschusses vom 12.06.2012: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und sicherungsverordnung ? Verschmutzungsabgabe für Fast-Food-Betriebe
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Errichtung eines Zeichens 102 StVO ?Kreuzung oder Einmündung mit Vorfahrt rechts? an der Kreuzung Otto-/Max-Joseph-Straße - Einrichtung eines allgemeinen Behindertenparkplatzes in der Müllerstraße 14 - vorübergehende Errichtung von zusätzlichen Polizeianfahrtszonen in der Löwengrube
+- TOP 0.2.: Mobilfunkanzeig(n)
+- TOP 0.3.: Antwortschreiben des KVR zum Bürgeranliegen bzgl. auf dem Marienplatz abgestellter Fahrräder
+- TOP 0.4.: Beschluss der Vollversammlung vom 25.04.2012: Nord-Süd-Querung der Altstadt für den Radverkehr, Verkehrs- und Funktionskonzept
+- TOP 0.5.: Antwort an Bürgerin bzgl. ?Münzschlitzsperre?
+- TOP 0.6.: Information über eingleisige Verkehre während der Arbeiten zur Fahrstromertüchtigung
+- TOP 0.7.: Antrag des BA 5 auf Öffnung des Außenbereichs des Deutschen Museums/Museumsinsel für die Öffentlichkeit
+- TOP 0.1.: Dokumentation Figurenfestival vom 15.-19.03.2012
+- TOP 0.2.: Beschluss der Vollversammlung vom 25.04.2012: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention, Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen
+- TOP 2.4: Unterrichtungen (siehe Anlage)
+- TOP 1.1: Anträge
+- TOP 1.2: Entscheidungen
+- TOP 2.3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP 1.0: Bericht
