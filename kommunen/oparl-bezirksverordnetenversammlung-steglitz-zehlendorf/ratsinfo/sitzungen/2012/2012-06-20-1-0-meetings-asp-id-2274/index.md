@@ -1,0 +1,100 @@
+# 9. öffentliche Sitzung der Bezirksverordnetenversammlung Steglitz-Zehlendorf von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Steglitz-Zehlendorf
+- Beginn: 2012-06-20T17:00:00+02:00
+- Ende: 2012-06-20T19:05:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-steglitz-zehlendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2274
+- OParl: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/meetings.asp?id=2274
+- Quelle: https://www.sitzungsdienst-steglitz-zehlendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Geschäftliche Mitteilungen - erledigt
+- TOP 3: Kleine Anfragen - erledigt
+- TOP 3.1: Grundstücke kostenlos? - beantwortet
+- TOP 3.2: Vermarktung des Grundstücks Körnerstraße 53/Bergstraße 89 - beantwortet
+- TOP 3.3: Sicherstellung der gesetzlich verbürgten Betreuung nach Vollendung des 1. Lebensjahrs - beantwortet
+- TOP 3.4: Verkehrssituation in der Hochbaumstraße - beantwortet
+- TOP 3.5: Unterbringung der Gäste aus Partnerstädten - beantwortet
+- TOP 3.6: Öffentliche Grillplätze im Bezirk - beantwortet
+- TOP 3.7: Fazit Girls'Day 2012 - schriftlich beantwortet
+- TOP 3.8: Wasserwacht Wannsee - schriftlich beantwortet
+- TOP 3.9: Eichenprozessionsspinner in Schulen und Kitas - schriftlich beantwortet
+- TOP 3.10: Absperrgitter Busseallee - schriftlich beantwortet
+- TOP 4: Konsensliste A - Abschließende Behandlung ohne Aussprache - erledigt
+- TOP 4.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 4.1.1: Erschließung zum Bauvorhaben "Betreutes Wohnen" des Theodor-Wenzel-Werks nur von der Potsdamer Chaussee aus - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2: Haushaltsangelegenheiten: Ausschussanträge - erledigt
+- TOP 4.2.1: Sondermittel der BVV für den Potsdamer Ruder-Club Germania e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.2: Sondermittel der BVV für das THW - Helfervereinigung Berlin Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.3: Sondermittel der BVV für den Windsurfing Verein Berlin e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.4: Sondermittel der BVV für den Griechisch-Deutschen Förderverein e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.2.5: Sondermittel der BVV für den Städtepartnerschaftsverein Steglitz-Zehlendorf e.V. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.3: Bebauungspläne: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.3.1: Bebauungsplan 6-17Ba [Ortsteilzentrum Kranoldplatz (Lichterfelde Ost)] - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4: Anträge - erledigt
+- TOP 4.4.1: Kompetenzwirrwar bei der Schulsanierung verhindern - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.2: Anschluss an den Wannsee sicherstellen! - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.3: Fahrradabstellplätze am S-Bahnhof Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.4.4: Parlamentarische Ferien - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.5.1: Bezirkshaushalt transparent für alle Bürger - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.2: Mittagessensversorgung an Grundschulen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.3: Abgaben bezirklicher Liegenschaften an den Liegenschaftsfonds Berlin - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.4: Bürger über die Entwicklung der Flugrouten weiter informieren - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.5: Mit Energiesparen Geld sparen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.6: Eingang Friedhof Lankwitz - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.7: Absenkung Bordsteine am zweiten Zugang zur Mühlenau-Schule - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.8: Schutz der Natur in Lichterfelde-Süd - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.9: Tunnelöffnung zwischen Jagdschlosspark und Glienicker Park - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.10: Planung von Radwegen in Steglitz-Zehlendorf - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.11: Ortsbezogene Bürgerbenachrichtigung und -beteiligung - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.12: Den Schlachtensee bewahren, Müll und Schilderwald beseitigen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.13: Flughafenexpress: Halt in Lichterfelde-Ost - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.14: Verbesserung der Verkehrssicherheit Berlepschstraße/Machnower Straße - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.5.15: Verbesserung des Stadtbildes - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4.6: Vorlagen zur Beschlussfassung und Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 4.6.1: Fusion der Johann-Thienemann-Schule mit der 7. ISS (ehem. Friedrich-Bayer-Schule) am Standort Lauenburger Straße und Vorverlegung der am 17.03.2010 beschlossenen Fusion der Markus-Grundschule mit der Freiherr-von-Hünefeld-Grundschule am Standort Karl-Stieler-Straße um ein Jahr sowie Verkauf des Grundstücks am Osteweg. - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 5: Konsensliste B - Überweisungen in Ausschüsse - erledigt
+- TOP 5.1: Dringlichkeiten: Dringlichkeitsanträge - erledigt
+- TOP 5.1.1: Kein Verschenken bezirklicher Grundstücke - überwiesen
+- TOP 5.2: Anträge - erledigt
+- TOP 5.2.1: Schutz des Arboretums Schorlemer Allee sichern - Denkmalschutz beschließen - überwiesen
+- TOP 5.2.2: Einrichtung einer Ombudsstelle im Jugendamt - überwiesen
+- TOP 5.2.3: Parken Walter-Linse-Straße - überwiesen
+- TOP 5.2.4: Radfahrweg in der Kaiser-Wilhelm-Straße sicherer machen - überwiesen
+- TOP 5.2.5: Allris-Features freischalten - überwiesen
+- TOP 5.2.6: Stau vor der Ampelanlage Dahlemer Weg/Unter den Eichen - überwiesen
+- TOP 5.2.7: Sicherer Straßenverkehr für die Schüler der Brentano-Grundschule - überwiesen
+- TOP 5.2.8: Verkehrszeichen Nr. 237 (Radfahrweg) am Kranoldplatz entfernen - überwiesen
+- TOP 5.2.9: Fluglärmüberwachung in Steglitz-Zehlendorf - überwiesen
+- TOP 5.2.10: Baumpflanzung Tennstedter Straße 39, 12249 Berlin - überwiesen
+- TOP 5.2.11: Ehrenamtliche Winterhotline schaffen! - überwiesen
+- TOP 5.2.12: Verkehrszeichen Nr. 237 (Radfahrweg) Sedanstraße/Ecke Albrechtstraße entfernen - überwiesen
+- TOP 5.2.13: Erinnerung an Franz Kafka - überwiesen
+- TOP 5.2.14: Verkehrsgutachten Neugestaltung Kirchstraße - überwiesen
+- TOP 5.2.15: Fahrradbügel vor dem Stadtbad Lankwitz - überwiesen
+- TOP 5.2.16: Fahrbahnmarkierungen Domicil Seniorenpflegeheim - überwiesen
+- TOP 5.2.17: Querungshilfen Machnower Straße Höhe Gimpelsteig - überwiesen
+- TOP 5.2.18: Verlängerung absolutes Halteverbot Bushaltestelle Lerbacher Weg/St.-Marien-Krankenhaus Lankwitz - überwiesen
+- TOP 5.2.19: Kraterlandschaft Barsekowstraße - überwiesen
+- TOP 5.2.20: Radstreifen und Richtungsspuren Dahlemer Weg - überwiesen
+- TOP 5.2.21: Umstellung von Gas- auf Elektroleuchten - überwiesen
+- TOP 5.2.22: Spielstraße am Lauenburger Platz für den Verkehr schließen - überwiesen
+- TOP 5.2.23: Transparenz in Steglitz-Zehlendorf - Zugang zu Information erleichtern - überwiesen
+- TOP 5.2.24: Info-Stele für Winfried Freudenberg - überwiesen
+- TOP 5.2.25: Informationsstele zur Steglitzer Filmkunst - überwiesen
+- TOP 5.2.26: Ausschilderung Schloßparktheater - überwiesen
+- TOP 5.2.27: Fachtagung zum Thema ökologisch orientierte Grünpflege - überwiesen
+- TOP 5.2.28: Radweg Berlin-Leipzig sicherer machen - überwiesen
+- TOP 5.2.29: Schulweg sichern an der Finckensteinallee - überwiesen
+- TOP 5.2.30: Bordsteinabsenkung im Dreipfuhlpark - überwiesen
+- TOP 6: Beschlussempfehlungen von Ausschüssen - erledigt
+- TOP 6.1: Städtepartnerschaft zwischen dem Bezirk Steglitz-Zehlendorf von Berlin und dem Bezirk Songha von Seoul/Südkorea - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 6.2: Faire Löhne im Bezirk! - in der BVV abgelehnt
+- TOP 6.3: Haushaltsplan redaktionell überarbeiten - in der BVV abgelehnt
+- TOP 7: Schlusswort des Bezirksverordnetenvorstehers - erledigt
