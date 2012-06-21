@@ -1,0 +1,70 @@
+# 42. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-06-21T13:00:00+02:00
+- Ende: 2012-06-22T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1885
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1885
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_06_21 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00101099.pdf
+
+## Tagesordnung
+
+- TOP 1: Bekanntgabe nicht öffentlicher Beschlüsse
+- TOP 2: Bericht der Oberbürgermeisterin
+- TOP 3: Einwohnerinnen- und Einwohnerfragestunde
+- TOP 3.1: Sanierung der Kanalisation im Bereich Boderitzer Straße
+- TOP 3.2: Bevorzugung des öffentlichen Bus- und Stadtbahnverkehrs
+- TOP 3.3: Kinderbetreuung
+- TOP 3.4: Interessenten "Wiener Loch"
+- TOP 3.5: Sicherstellung keiner Neuverschuldung; Haushaltstransparenz gegenüber Bürgern
+- TOP 3.6: baulicher Zustand Schulen - Schulnetzplan
+- TOP 3.7: Baum- und Gehöltzschutzsatzung - § 22 Absatz 2 SächsNatSchG
+- TOP 3.8: Straßenausbau im Denkmalschutzgebiet Striesen und Blasewitz/Nordost
+- TOP 4: Umbesetzung im Jugendhilfeausschuss - gewählt
+- TOP 5: Umbesetzung im VVO-Hauptausschuss - gewählt
+- TOP 6: Umbesetzung im Beirat "Gesunde Städte" - gewählt
+- TOP 7: Tagesordnungspunkte ohne Debatte
+- TOP 8: Vorhabenbezogener Bebauungsplan Nr. 6007, Dresden-Neustadt, Globus SB-Markt am Alten Leipziger Bahnhof - Vertagung
+- TOP 9: Fortsetzung Sanierungsprozess Neues Rathaus Dresden, Dr.-Külz-Ring 19, Komplexsanierung in 6 Bauabschnitten - punktweise Zustimmung
+- TOP 10: Einrichtung von Fahrradstellplätzen - Zustimmung mit Änderung
+- TOP 11: Schulleitungen in die Schulnetzplanung einbeziehen - zurückgezogen
+- TOP 12: Bildung eines Beirates zur Verbesserung der sozialen Integration wohnungsloser Menschen oder von Wohnungslosigkeit bedrohter Menschen in Dresden - Ablehnung
+- TOP 13: Gerechte Kosten der Unterkunft und Heizung - jetzt richtiges schlüssiges Konzept für Dresden - Ablehnung
+- TOP 14: Schulbau- und Schulsanierungsprogramm sportstrategisch anpacken - punktweise Zustimmung
+- TOP 15: Änderung der Hauptsatzung - Ablehnung
+- TOP 16: Vorbildfunktion der Stadt Dresden erfüllen - Errichtung einer Photovoltaik-Anlage auf dem Rathausdach - Vertagung
+- TOP 17: Kommunale Sozialpolitik zur Bekämpfung von Armut im Alter - Ablehnung
+- TOP 18: Grundstücksplanung für Kita- und Schulbedarf - Ablehnung
+- TOP 19: Gleichstellung eingetragener Lebenspartnerschaften bei der Zweitwohnungssteuer - Zustimmung
+- TOP 20: Änderung der Friedhofssatzung der Landeshauptstadt Dresden hinsichtlich des Lebenspartnerschaftsgesetzes - Zustimmung
+- TOP 21: Beitritt der Landeshauptstadt Dresden zur 'Europäischen Charta für die Gleichstellung von Frauen und Männern auf lokaler Ebene' - Zustimmung
+- TOP 22: Namensgebung der 59. Grundschule, Kurparkstraße 12 in 01324 Dresden - Zustimmung
+- TOP 23: Umsetzung der 8. Änderung des Stasi-Unterlagen-Gesetzes vom 22.12.2011 - Zustimmung
+- TOP 24: Dresdner Präventionsprogramm gegen Gewalt im Umfeld des Fußballs - Vertagung
+- TOP 25: Umgang mit Altersarmut in Dresden - Ablehnung
+- TOP 26: Bündnis für Zukunftsinvestitionen - Ablehnung
+- TOP 27: Heim-TÜV des Sächsischen Ausländerbeauftragten - Anregungen umsetzen - Ablehnung
+- TOP 28: An Guernica erinnern - Ablehnung
+- TOP 29: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 30: Neufassung der Satzung der Landeshauptstadt Dresden über die Erstattung der notwendigen Schülerbeförderungskosten (Satzung Schülerbeförderungskosten-Erstattung) - Zustimmung mit Änderung
+- TOP 31: Satzung zur Regelung des Zugangs zu Informationen des eigenen Wirkungskreises der Landeshauptstadt Dresden (Informationsfreiheitssatzung) - Zustimmung mit Änderung
+- TOP 32: Eintrittspreise der Dresdner Musikfestspiele 2013 - Zustimmung mit Änderung
+- TOP 33: Zweite Stufe des Maßnahmeplan II zur Schaffung zusätzlicher Kindertagesbetreuungsplätze im Zeitraum 2012 bis 2013 auf Basis der aktuellen Bevölkerungsprognose - Zustimmung
+- TOP 34: Satzungsänderung der Übergangswohnheimsatzung vom 20. Dezember 2007 und befristete Weiterbetreibung des Übergangswohnheimes Buchenstraße 15 b sowie Festsetzung des Kostensatzes - Zustimmung
+- TOP 35: Kostensatzveränderung in Folge der Neuausrichtung und Instandsetzung des Übergangswohnheimes Emerich-Ambros-Ufer 59 zum Übergangswohnheim mit 32 Betten für Wohnungslose - Verweisung
+- TOP 36: Neubenennung einer Straße - Zustimmung
+- TOP 37: Bebauungsplan Nr. 187, Dresden-Cossebaude Nr. 4, Wohngebiet Weinbergstraße - Zustimmung
+- TOP 38: Vorhaben- und Erschließungsplan Nr. 552, Dresden-Übigau, Gewerbegebiet Werftstraße - Zustimmung
+- TOP 39: Mitgliedschaft der Landeshauptstadt Dresden im Verein "forum vergabe e.V." - Zustimmung
+- TOP 40: Auswahlkriterien für den Wasserkonzessionsvertrag - Zustimmung
+- TOP 41: Schulkapazitäten effektiver nutzen - Vertagung
+- TOP 42: Sondervermögen Schulbauten - Vertagung
+- TOP 43: Maßnahmen zur weiteren Planung und zur Umsetzung von Stadtratsbeschlüssen zur Sanierung und zum Ausbau des Schwimmkomplexes Freiberger Straße - Zustimmung mit Änderung
+- TOP 44: Kommunales Flächenmanagement für soziale und ökologische Ziele - Vertagung
+- TOP 45: Entwicklung von Instrumentarien zur frühzeitigen Beteiligung von Bürgern an Bauvorhaben - Vertagung
+- TOP 46: Dresdner Ehrenamtspass stärken und ausbauen - Zustimmung mit Änderung
+- TOP 47: Ausschreibung "Kinderbüro Dresden" - Ablehnung
