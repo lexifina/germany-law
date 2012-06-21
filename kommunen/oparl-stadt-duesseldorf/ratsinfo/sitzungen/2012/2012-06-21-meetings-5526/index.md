@@ -1,0 +1,63 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-06-21T17:00:00+02:00
+- Ende: 2012-06-21T19:15:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5526
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5526
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00178900.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00178900.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00178900.pdf
+
+## Tagesordnung
+
+- TOP 1: Fragestunde für Einwohnerinnen und Einwohner des Stadtbezirks 8 - zur Kenntnis genommen
+- TOP 2: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 3: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 8: Etat Ausstellungen und Veranstaltungen im Kulturbahnhof Eller - einstimmig beschlossen
+- TOP 9: Zuschuss Arbeitskreis Kultur im Stadtbezirk 8 e.V. - einstimmig beschlossen
+- TOP 10: Unterhaltung von städtischen Grundstücken und baulichen Anlagen im Stadtbezirk 8 - einstimmig beschlossen
+- TOP 11: Zuschüsse der Bezirksvertretung 8 - mehrheitlich beschlossen
+- TOP 12: Jugendfreizeiteinrichtungen im Stadtbezirk 8 - beantwortet
+- TOP 13: Bau- und Verkehrsvorhaben in Lierenfeld - beantwortet
+- TOP 14: Verkehrszählung Sturmstraße - beantwortet
+- TOP 15: Fahrradstreifen Gubener Straße / Neusalzer Weg - zur Kenntnis genommen
+- TOP 16: Baumbestand Menzelsee - einstimmig beschlossen
+- TOP 17: Erweiterungsfläche Parkplatz Festenbergstraße - einstimmig beschlossen
+- TOP 18: Bürgersteigabsenkung Dillenburger Weg - einstimmig beschlossen
+- TOP 19: Ladezone Gumbertstraße - zurückgezogen
+- TOP 20: Beschilderung der Kleingartenanlage Eller / Lierenfeld - mehrheitlich beschlossen
+- TOP 21: Tütenspender am Kleingartenverein Eller / Lierenfeld - einstimmig beschlossen
+- TOP 22: Fahrbahnsanierung Gothaer Weg - einstimmig beschlossen
+- TOP 23: Verkehrsführung Peter-Richarz-Straße - einstimmig beschlossen
+- TOP 24: Fahrbahnbegrenzung Parkplatz Eller-Mitte - einstimmig beschlossen
+- TOP 25: Fahrbahnsanierungen am Straußenkreuz und Am Kleinforst - einstimmig beschlossen
+- TOP 26: Bänke in den Stadtteilzentren des Stadtbezirks 8
+- TOP 27: Verkehrsführung Kreuzung Ronsdorfer Straße / Höherweg - zur Kenntnis genommen
+- TOP 28: Barrierefreier Ausbau der Haltestelle Schlesische Straße Bstg. 1 an der Reisholzer Straße / Am Turni - zur Kenntnis genommen
+- TOP 29: Bauvorhaben im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 30: Verkehrssituation im Bereich Zufahrt A 46 / Anschluss Eller - zur Kenntnis genommen
+- TOP 31: Mehrgenerationenspielplätze und Spielplatzgestaltung im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 32: Namensschild Jugendfreizeiteinrichtung Chemnitzer Straße - zur Kenntnis genommen
+- TOP 33: Straßenbelag Gothaer Weg - zur Kenntnis genommen
+- TOP 34: LKW-Zufahrt zum Dillenburger Weg / Waagenstraße - zur Kenntnis genommen
+- TOP 35: Einmündungsbereich Gumbertstraße / Am Krahnap - zur Kenntnis genommen
+- TOP 36: Reinigung des Grundstückes Chemnitzer Straße 51 - zur Kenntnis genommen
+- TOP 37: Radweg Gubener Straße - zur Kenntnis genommen
+- TOP 38: Proberäume für Musiker im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 39: A 46 - Lärmschutz für Eller und Unterbach - zur Kenntnis genommen
+- TOP 40: Treppenlift S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 41: Bushaltestelle Eller-Süd S - zur Kenntnis genommen
+- TOP 42: Abschlussbericht zur Altlastensanierung Veenpark - zur Kenntnis genommen
+- TOP 43: Abschließende Stellungnahme der Verwaltung zu den Freilaufflächen für Hunde - zur Kenntnis genommen
+- TOP 44: Barrierefreiheit S-Bahnhof Eller - zur Kenntnis genommen
+- TOP 45: Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 46: Gehwegverschmutzung durch Hundekot im Stadtbezirk 8 - zur Kenntnis genommen
