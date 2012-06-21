@@ -1,0 +1,53 @@
+# Bezirksvertretung Mitte
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2012-06-21T16:00:00+02:00
+- Ende: 2012-06-21T17:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-88
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZeikKZloTAihA_gTy7D7zNY
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4013
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Bezirksvertretung Mitte) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW_a_2-_RO9c0XjKTuy2a-Rz3m3gAwhJdvFI8AR9zkwf/Oeffentliche_Niederschrift_Bezirksvertretung_Mitte_21.06.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll
+- TOP 3: Innenstadtkonzept
+- TOP 4: Soziale Stadt - Solinger Nordstadt
+- TOP 5: Soziale Stadt - Solinger Nordstadt
+- TOP 6: Technische Außerbetriebsetzung und Schließung des Hallenbads Birker Straße
+- TOP 7: Technische Außerbetriebsetzung und Schließung des Hallenbads Birker Straße
+- TOP 8: Sachstand Innenstadtumfahrung
+- TOP 9: Fahrbahndeckenprogramm 2012
+- TOP 10: Umbau Knotenpunkt Weyersberger Straße - Friedrichstraße
+- TOP 11: Bauleitplanung Mummstraße
+- TOP 12: Bauleitplanung Maschinenstraße/Gärtnerstraße
+- TOP 13: Herstellung der Straßenentwässerung auf einem Abschnitt der Erschließungsanlage Halfesweg gemäß § 125 (2) Baugesetzbuch (BauGB)
+- TOP 14: Antrag zur Fällung eines Baumes am Technischen Berufskolleg Solingen, Blumenstraße 49
+- TOP 15: Nahverkehrsplan Solingen – Fortschreibung
+- TOP 16: Novellierung des Regionalplans
+- TOP 17: Verschiedenes
+- TOP 18: Lose Gehwegplatten an den Clemens-Galerien
+- TOP 19: Tunnel unter der Konrad-Adenauer-Straße
+- TOP 20: Raucherzone am Graf-Wilhelm-Platz
+- TOP 21: Gemüsehändler an der Kirchstraße
+- TOP 22: Sperrzone vor den Häusern Rolandstraße 12-16
+- TOP 23: Zukunft des Solinger Zöppkesmarktes
+- TOP 24: Verlagerung des Solinger Wochenmarktes
+- TOP 25: Bewohnerparken Klemens-Horn-Straße/Kurfürstenstraße sowie Nachtabschaltung LSA
+- TOP 26: Gefahrensituation im Solinger Südpark
+- TOP 27: Gemeinsamer Unterricht im Schuljahr 2012/13
+- TOP 28: Siedlungsmonitoring 2012 der Bezirksregierung Düsseldorf
+- TOP 29: Novellierung des Regionalplanes
+- TOP 30: City 2013 - Umgestaltung des Platzes Alter Markt
+- TOP 31: Bericht: Grundsicherung für Arbeitsuchende in Solingen
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Straßen- Wegebenennung für den Vorplatz des Mehrgenerationenhauses in Solingen-Mitte
+- TOP 3: Verschiedenes
+- TOP 4: Sportcafés im Bezirk Mitte
+- TOP 5: Glücksspiel im Stadtbezirk Mitte
