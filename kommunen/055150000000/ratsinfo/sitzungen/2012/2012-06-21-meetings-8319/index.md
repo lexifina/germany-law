@@ -1,0 +1,55 @@
+# 21. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-06-21T17:08:00+02:00
+- Ende: 2012-06-21T21:19:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/379
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8319
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8319
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich mit https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00326786.pdf
+
+## Tagesordnung
+
+- TOP 1: Festsetzung der Tagesordnung
+- TOP 2: Eingänge und Mitteilungen
+- TOP 3: Haushaltssteuerung und Finanzcontrolling
+- TOP 3.1: Liquiditäts- und Finanzierungsmöglichkeiten von Kommunen - Mündlicher Vortrag
+- TOP 3.2: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 - ohne Beschlussfassung geschoben
+- TOP 3.3: NKF-Gesamtabschluss zum 31.12.2010 der Stadt Münster (Entwurf) - einstimmig beschlossen
+- TOP 3.4: Entwurf des Jahresabschlusses zum 31.12.2011 der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 4: Beteiligungsmanagement/-controlling
+- TOP 4.1: Betrauungsakte für städtischen Gesellschaften und Eigenbetriebe - einstimmig beschlossen
+- TOP 4.2: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2011 - einstimmig beschlossen
+- TOP 4.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2011 - einstimmig beschlossen
+- TOP 4.4: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2011 - einstimmig beschlossen
+- TOP 4.5: Städtische Bühnen Münster- Übernahme des Tarifabschlusses 2012 - einstimmig beschlossen
+- TOP 4.6: Jahresabschluss 2011 der Stadtwerke Münster GmbH - einstimmig beschlossen
+- TOP 4.7: Jahresabschluss 2011 der Wohn+Stadtbau GmbH (W+S) - einstimmig beschlossen
+- TOP 4.8: Jahresabschluss 2011 der Wirtschaftsförderung Münster GmbH (WFM GmbH) - einstimmig beschlossen
+- TOP 4.9: Jahresabschluss 2011 der Westfälische Bauindustrie GmbH (WBI) - einstimmig beschlossen
+- TOP 4.10: Jahresabschluss 2011 der Westfälischer Zoologischer Garten Münster GmbH - einstimmig beschlossen
+- TOP 4.11: Jahresabschluss 2011 der Westfälisches Pferdemuseum Münster gGmbH (WPM) - einstimmig beschlossen
+- TOP 4.12: Änderung des Gesellschaftsvertrages und der Verlustabdeckungsvereinbarung der - einstimmig beschlossen
+- TOP 4.13: Bürgerhaushalt 2011 - Vorschlag 370 "1 Klimaschutz-Euro von jedem Fluggast des Flughafens Münster/Osnabrück (FMO)" - zur Kenntnis genommen
+- TOP 5: Gebühren und Entgelte
+- TOP 5.1: Erhebung von Straßenreinigungsgebühren - einstimmig beschlossen
+- TOP 6: Sonstige finanzwirtschaftliche Angelegenheiten
+- TOP 6.1: Gewinnausschüttung der Sparkasse Münsterland Ost - ohne Beschlussfassung geschoben
+- TOP 6.2: Gewährung eines Zuschusses zur Finanzierung der Geldeinlage in die Annette von Droste zu Hülshoff-Stiftung aus der Gewinnausschüttung der Sparkasse Münsterland-Ost - mehrheitlich beschlossen
+- TOP 6.3: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - einstimmig geändert beschlossen
+- TOP 6.4: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms - mehrheitlich beschlossen
+- TOP 6.5: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms - einstimmig beschlossen
+- TOP 6.6: Kleingartendarlehen an den Stadt- und Bezirksverband Münster der Kleingärtner e.V., Änderung der Vergaberichtlinien - einstimmig beschlossen
+- TOP 7: Immobilienmanagement
+- TOP 7.1: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der FDP-Fraktion, der Fraktion DIE LINKE. und der Ratsgruppe UWG/ÖDP an den Rat Nr. A-R/0051/2010 - mehrheitlich abgelehnt
+- TOP 7.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Stratmannweg, Mecklenbeck (Hof Schultmann) - einstimmig beschlossen
+- TOP 7.3: Errichtungsbeschluss: Neubau der Kindertageseinrichtung Kinderbachtal - östlich des Wuddi (Kinderhaus) - ohne Beschlussfassung geschoben
+- TOP 7.4: Bericht zur Baulandentwicklung 2012 - zur Kenntnis genommen
+- TOP 7.5: Überprüfung der weitgespannten Tragwerke in Städtischen Gebäuden - zur Kenntnis genommen
+- TOP 7.6: Künftige Nutzung der Stadthalle Hiltrup - einstimmig beschlossen
+- TOP 7.7: Priorisierung von gebäudebezogenen Maßnahmen - einstimmig geändert beschlossen
+- TOP 7.8: Oxford-Kaserne - Antrag der FDP-Fraktion - einstimmig beschlossen
+- TOP 8: Verschiedenes
