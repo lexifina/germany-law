@@ -1,0 +1,7 @@
+# TOP 3: Zöppkesmarkt (Dienstleistungskonzession)
+
+- Sitzung: Ausschuss für Kultur, Stadtmarketing und Tourismus (2012-06-21)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/15830
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/20128
