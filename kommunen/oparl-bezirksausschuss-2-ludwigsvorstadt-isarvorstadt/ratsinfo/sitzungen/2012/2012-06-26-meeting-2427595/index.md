@@ -1,0 +1,119 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-06-26T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427595
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427595
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: Eigene Veranstaltung des Bezirksausschusses 2 Tag des offenen Denkmals am 9. September 2012
+- TOP .2.: Neuauflage der Kulturgeschichtspfade für den Stadtbezirk Ludwigsvorstadt-Isarvorstadt
+- TOP .1.: (E) Budget der Bezirksausschüsse Die Kessel GbR Hüpfburg für Kinder vom 01.07. - 12.09.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Die Kessel GbR Nostalgie-Eisenbahn vom 01.07. - 12.09.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Die Kessel GbR 24 Frames, Kunstausstellung vom 01.07. - 12.09.2012
+- TOP .4.: (E) Budget der Bezirksausschüsse Init. "Die Vorleserinnen" Performance der Reihe "Let's perform" am 11., 12., 20. und 21.07.2012
+- TOP .5.: (E) Budget der Bezirksausschüsse Freundschaft zwischen Ausländern und Deutschen e.V. Sommerfest am 14.07.2012
+- TOP .6.: (E) Budget der Bezirksausschüsse Init. "Tipi" Anschaffung eines Tipis
+- TOP .7.: (E) Budget der Bezirksausschüsse Kindergruppe Baaderstraße e.V. verschiedene Anschaffungen
+- TOP .1.: Nachbarschaft Westermühlbach e.V.: Antrag auf Förderung durch das Stadtjugendamt PLENUMSBESCHLUSS
+- TOP .1.: Bürgeranliegen: Gymnasiumsplätze im Stadtbezirk 2
+- TOP .2.: Langfristige Entwicklung der Schulversorgung im Stadtbezirk 2 (Beschluss aus der Sitzung vom 22.05.2012, TOP A 6.1)
+- TOP .3.: Teilnahme des BA 2 an der Veranstaltung von REGSAM am 8.11.2012 (Beschluss aus der Sitzung vom 22.05.2012, TOP A 6.1)
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Projektplanung Jahnstraße 34
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Bayerstraße 35-37: Neubau eines Hotels mit Gastronomie und Tiefgarage
+- TOP .2.: Schwanthalerstraße 58: Errichtung eines Hotelgebäudes mit Garage über 3 UGs
+- TOP .3.: Klenzestraße 16: DG-Ausbau, Nutzungsänderung, Balkone, Schaufenster
+- TOP .4.: Klenzestraße 1: Neubau Beoarding Wohnen mit Tiefgarage, Nutzungsänderung
+- TOP .5.: Bavariaring5: Nutzungsänderung, Umbau, Sanierung des ehemaliges Brausebads
+- TOP .6.: Lindwurmstraße 45: Anbau im EG, Nutzungsänderung Wohn- zu Büroflächen
+- TOP .7.: Auenstraße 106: Neubau einer Wohnanlage mit Kinderkrippe und Kindergarten
+- TOP .8.: Haydnstraße 4-8, Neubau einer Wohnanlage mit Tiefgarage
+- TOP .9.: Müllerstraße 43: Nutzungsänderung Vereinsräume zu Büroräumen und Gaststätte
+- TOP .10.: Häberlstraße 13: Errichtung eines Balkons - PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baumfällungen Erhardtstraße 27
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Fahrradabstellplatzkonzept (2. Realisierungsabschnitt)
+- TOP .2.: Stellungnahme des Bezirksausschusses zum Entwurf des Lärmakionsplans für München
+- TOP .3.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße, Bauausschusses vom 10.07.2012 PLENUMSBESCHLUSS
+- TOP .4.: Erinnerungsverfahren St.-Paul-Straße PLENUMSBESCHLUSS
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: ?Cafe Konditorei Kubitschek?, Buttermelcherstraße 5: Kleinstfläche
+- TOP .2.: ?Restaurant Tenno?, Buttermelcherstraße 5: Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: ?Cafe Wiener?, Rumfordstraße 8: Erweiterung einer bestehenden Freischankfläche
+- TOP .4.: ?Cafe Trachtenvogl?, Reichenbachstraße 47: Erweiterung einer bestehenden Freischankfläche
+- TOP .5.: ?Sindbad Bistro?, Schwanthalerstraße 2: Aufhebung der Sperrzeit PLENUMSBESCHLUSS
+- TOP .6.: ?Cristal Hotel München?, Schwanthalerstraße 36: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Fraunhoferstraße 21: Warenstellage
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Standortgenehmigung für Parkscheinautomaten Müllerstraße 15
+- TOP .1.: Pfarrfest und Fahrzeugsegnung am 22.07.2012, Deutinger Straße
+- TOP .2.: Freigelände des alten Viehhofs: Kino Open Air mit Familien- und Kulturprogramm vom 05.07. bis 12.09.2012
+- TOP .3.: Gärtnerplatzfest und Open Air Konzert am 15.09. und 16.09.2012, Gärtnerplatz PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1.: Bekanntgabe des KVR im Plenum: Belästigung am Gärtnerplatz
+- TOP .1.: Bürgeranliegen: Anfrage zur Nutzung des Holzplatzes als Ort des nachbarschaftlichen Treffens
+- TOP .2.: Bürgeranliegen: Zugang von der Corneliusbrücke auf die Museumsinsel öffnen
+- TOP .1: Termine
+- TOP .1.: Sommerspielaktion am 10. und 11.07. mit dem Artmobil auf dem Schmellerplatz
+- TOP .2.: 18.Jetzt am 18.10.2012, Rückmeldung bis 02.07.2012
+- TOP .3: Sonstiges / Verschiedenes
+- TOP .1.: Sitzungstermine 2013
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Bewilligung der Budgetmittel für BA-Fest
+- TOP .4.: BA 8 zur Gestaltung der Unterführung Theresienhöhe / Hans-Fischer-Straße
+- TOP .5.: Beschluss des Sozialausschusses vom 05.07.2012: Mieterbeiratswahl 2012
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Antwortschreiben der LBK zum Bauvorhaben Schillerstraße 11a
+- TOP .3.: Antwortschreiben der Unteren Naturschutzbehörde zur Fällung Ringseisstraße 1
+- TOP .4.: Antrag des BA 5 auf Öffnung des Außenbereich des Deutschen Museums für die Öffentlichkeit
+- TOP .5.: Broschüre ?Rechtsextreme Anmietungen ? Schutz für Kommunen und Vermieter?
+- TOP .6.: Referat für Gesundheit und Umwelt, Jahresgenehmigung im Rahmen der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV)
+- TOP .7.: Beschluss des Planungsausschusses am 13.06.2012: Fahrradabstellsatzung
+- TOP .8.: Antwortschreiben des KVR zur Stellungnahme des BA 2 zm Mehrjahresinvestitionsprogramm, hier Fahrradabstellplätze am Hauptbahnhof
+- TOP .9.: Beschluss des Planungs-, Kommunal- und Finanzausschusses sowie des Ausschusses für Arbeit und Wirtschaft: Sozialgerechte Bodennutzung ? Der Münchner Weg: Fortschreibung der Stadtratsbeschlüsse
+- TOP .10.: Stadtwerke: Errichtung neuer Werbeanlagen an den Abgängen zum U-Bahnhof Sendlinger Tor
+- TOP .11.: Ersatzpflanzungen Geyerstraße 16 sind erfolgt
+- TOP .12.: Antwortschreiben der LBK zum Bauvorhaben Paul-Heyse-Straße 31
+- TOP .13.: Vorlage der Ablehnung der Plakattafeln Zenettistraße 20 durch den BA beim Oberbürgermeister
+- TOP .14.: Antwortschreiben der UNB an eine Bürgeranfrage bzgl. der Baumfällungen Rodenstock
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen: - ?Hofmann?, Schwanthalerstraße 86 - "Cafe Bar Flamingo?, Maistraße 10 - ?Korkenzieher?, Reichenbachstraße 19 - ?Bei Aminia?, Lindwurmstraße 21 - ?Pipasa?, Schwanthalerstraße 24 - ?Sushi Chili Haus?, Geyerstraße 18 - ?Bistro City Play?, Bayerstraße 33 - ?Goldener Drache?, Landwehrstraße 4
+- TOP .4.: Verkehrsrechtliche Anordnungen: - Hotelanfahrtszone Schillerstraße 17 - Parkraummanagement, Parklizenzgebiet ?Dreimühlenviertel?
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Information zum Oben Ohne Open-Air am 21.07.2012 am Bavariapark
+- TOP .7.: Eingleisiger U-Bahnbetrieb ab ca. 23 Uhr in den Nächten 20.-24.05.2012
+- TOP .8.: Straßenbauarbeiten Corneliusstraße zwischen Gärtnerplatz und Erhardstraße
+- TOP .9.: Antwortschreiben des KVR zu einer Lärmbeschwerde Thalkirchner Straße 10
+- TOP .10.: Anliegerinformation Sanierung Ruppertstraße
+- TOP .11.: Beschluss des RAW-Ausschusses vom 08.05.2012: Nutzung der Theresienwiese 1 ? Querung während des Wiesn-Aufbaus trotz Sperrung ermöglichen
+- TOP .12.: Schriftliche Anfrage der Stadtrats CSU zur Querung der Theresienwiese während der Aufbauzeit der Wiesn
+- TOP .13.: Beschluss des Bauausschusses vom 12.06.2012: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und sicherungsverordnung ? Verschmutzungsabgabe für Fast-Food-Betriebe
+- TOP .14.: Eilentscheidung des Vorsitzenden: Zustimmung zum Kinderstraßenfest der Pfarrei St. Maximilian am 18.07.2012 in der Deutingerstraße
+- TOP .15.: Lärmbelästigung durch After-Wiesn-Parties in der Mozartstraße: Abdruck eines Bürgerschreibens an die Bezirksinspektion Mitte
+- TOP .16.: Genehmigung Nachtbauarbeiten MVG
+- TOP .17.: Antwortschreiben des RAW auf einen Beschwerdebrief bzgl. Veranstaltungen auf der Theresienwiese
+- TOP .18.: Gewerbliche Nutzung der WC-Anlage Bavariaring 5
+- TOP .19.: Eilentscheidung zum Straßenfest mit EM-Fußballübertragung auf dem Karl-Ulrichs-Platz
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
