@@ -1,0 +1,73 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-06-26T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501651
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501651
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Fasanerie aktiv e.V. Straßenfest am 28.07.2012
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evang.-Luth. Kapernaumkirche Sommerfest am 14.07.2012
+- TOP 2.3.: Baureferat: Entscheidung gem. Vollmacht des OB ' s: Projektplanung Tollkirschenweg (erstmalige Herstellung)
+- TOP 2.4.: Baureferat: Entscheidung gem. Vollmacht des OB ' s: zusätzliche Beleuchtung der Strassenkreuzung Feldmochinger Straße/ Himmelschlüssel-/ Leberblümchenstraße und Niederalteicher Straße
+- TOP 5: (E) Einrichtung eines Wochenmarktes am Walter-Sedlmayr-Platz in Feldmoching Empfehlung Nr. 08-14 / E 00888 der Bürgerversammlung des 24. Stadtbezirks Felmoching-Hasenbergl vom 17.03.2011
+- TOP 5.6.: Grundstück Schwarzhölzlstr. 80/ Ecke Schlottwiesenweg: Räumung des Grundstückes (Entfernung von Unrat)
+- TOP 5.7.: RGU: Errichtung eines "Giftgaslagers" an der Ingolstädter Straße
+- TOP 3.1.: Anträge/ Umgestaltungswünsche im Rahmen der Aktion "Auf Herz und Rampen prüfen"
+- TOP 3.2.: Installation eines rollstuhlgerechten Spielgerätes bei der Ausgestaltung des Jugendspielplatzes an der Schittgablerstraße
+- TOP 3.3.: Installation eines Dialogdisplays an der Karlsfelderstraße zur Verbesserung der Schulwegsicherheit und zur Dokumentation der Verkehrsbelastung
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: Caracciolastr. 6-8
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: Ferchenbachstr. 13; Irisstr. 16
+- TOP 5.3.: Vollzug der Baumschutzverordnung (Baumfällungen): Am Blütenanger 3a; Caracciolastr. 17 -19; Linus-Funke-Weg 10 - 26
+- TOP 5.4.: KVR: Veranstaltung auf dem Dülfer Anger: Bitte um schriftlichen Regelungsvorschlag des BA zu empfohlenen Zeitabständen
+- TOP 5.5.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Radtour "Tour de Franz" am 22.07.2012
+- TOP 5.6.: RGU: Lärmminderungsplanung für München; Entwurf des Lärmaktionsplanes
+- TOP 5.7.: Baureferat: Fahrradstellplatzkonzept (2. Realisierungsabschnitt)
+- TOP 5.8.: Kulturreferat: Erinnerungsorte München/ NS-Geschichte. Hier: Zusatzschilder bei Straßenbenennungen
+- TOP 5.9.: KVR: Veranstaltung auf städt. Grünanlage: Skateboard Contest an der Skateboardanlage Feldmochinger Straße am 01.07.2012
+- TOP 5.10.: Sozialreferat: Stadtjugendamt / Förderung freier Träger; Haushaltsjahr 2013: Projekt: Interessengemeinschaft Ludwigsfeld
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Kommunalreferat: Stadteigenes Anwesen Feldmochinger Str. 215 / Immobilie altes Gärtnerhaus in der Fasanerie, Borsigstraße
+- TOP 6.2.: Referat für Stadtplanung und Bauordnung: "Giftgas-Anlage" in der Ludwigsfelder Straße. Rückplanung der im FLNPl ausgewiesenen Fläche (GI in GE); Zwischenmitteilung.
+- TOP 6.3.: RGU: Bereitstellung von detaillierten Informationen zu aktuellen und zukünftigen Flugbe- wegungen über dem 24. Stadtbezirk und zu Auswirkungen auf die Taktung der S1 und den Straßenverkehr.
+- TOP 6.4.: Baureferat: Querungshilfe Dülferstraße nahe Freizeitstätte s'Dülfer, Dülferstr. 34
+- TOP 6.5.: Baureferat: Bezirkssportanlage Ebereschenstr. 15 - Schließung für Autoverkehr
+- TOP 6.6.: Baureferat: Grillzone Kugystraße, nahe Goldschmiedplatz
+- TOP 6.7.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.8.: Meldelisten Baumfällungsanträge
+- TOP 6.9.: Meldelisten Bauvorhaben
+- TOP 6.10.: KVR: verkehrsrechtliche Anordnungen: Rothwiesenstraße (Z 283 absolutes Halteverbot); ab Blütenanger 7 (Fronleichnamsprozession)
+- TOP 6.11.: KVR: Filmaufnahmen auf öffentlichem Verkehrsgrund: Pappelallee am 22.05.2012; Thelottstr. 7 am 24.05.2012)
+- TOP 6.12.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Josef-Frankl-Str. 10; Schleißheimer Str. 405
+- TOP 6.13.: KVR: Arbeiten im Straßenraum: Bernhardstr. 53-59 (Entfernung Injektionsrohre) vom 11.06. - 29.06.2012); Lerchenstraße - Bahnübergang (Gleisarbeiten) vom 15.06. - 18.06.2012)
+- TOP 6.14.: Baureferat: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen; Baurvorhaben: Hardenstr. 18, Kinderkrioppe Neubau - Verwaltungsinterne Ausführungsgenehmigung
+- TOP 6.15.: RAW: Werbenutzungsvertrag der LHST München; Ergebnisse der Stadtortbereisung
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Verkehrskonzept Münchner Norden; Sachstandsbericht
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Neubestellung des Heimatpflegers der LHST München und seines Stellvertreters
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung (+ Kommunalreferat + RAW + Stadtkämmerei): Sozialgerechte Bodennutzung - Der Münchner Weg (Fortschreibung)
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Bebauungsplan Nr. 2071: Triebstraße (nördl) zwischen Bingener Straße und ehemaliger Trasser der Olympia-S-Bahn.
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Ergänzung der Bebauungspläne Nr. 118a und 1705: Triebstraße (südl.), ehem. Trasse der Olympia-S-Bahn (westl), Henckystraße (nördl), Hanauer Straße (östl)
+- TOP 6.21.: Beschlussvorlage Baureferat: Änderung der Straßenreinigungssatzung bzw. der -verordnung der LHST München; Verschmutzungsabgabe für Fast-Food-Betriebe
+- TOP 6.22.: Beschlussvorlage Kommunalreferat: Neubau eines Gartenbau-Stützpunktes in der Lindberghstr. 32 (12. Stadtbezirk) - Ausführungsgenehmigung
+- TOP 6.23.: Beschlussvorlage Sozialreferat: Aktionsplan zur Umsetzung der UN-Behindertenrechtskonvention (UN-BRK), Ergebnisse der Ist-Stand-Erhebung und weiteres Vorgehen.
+- TOP 6.24.: Direktorium: Flyer "Münchner Appell" und Broschüre "Rechtsextreme Anmietungen - Schutz für Kommunen und Vermieter"
+- TOP 6.25.: KJR: Broschüre "Angebote für Kinder und Jugendliche im KJR München-Stadt"
+- TOP 6.26.: KJR: Geschäftsbericht 2011
+- TOP 6.27.: KJR: Jahresbericht 2011
+- TOP 6.28.: Bürgerinitiative Gegen Giftgas im Münchner Westen: Dankschreiben für politische Unterstützung
+- TOP 6.29.: Direktorium: Münchner Statistik (4. Quartalsheft 2011)
+- TOP 6.30.: BA-Budget: Verwendungsnachweise
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
