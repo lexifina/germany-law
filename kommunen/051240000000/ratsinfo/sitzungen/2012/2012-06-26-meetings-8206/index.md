@@ -1,0 +1,67 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-06-26T16:05:00+02:00
+- Ende: 2012-06-26T17:42:00+02:00
+- Ort: Rathaus-Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8206
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8206
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung Stand 13.06.2012 http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00143288.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00144308.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2011 WSW Wuppertaler Stadtwerke GmbH und Konzern WSW - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss 2011 WSW Energie & Wasser AG - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2011 WSW mobil GmbH - ungeändert beschlossen
+- TOP 1.4: Jahresabschluss der Historische Stadthalle Wuppertal GmbH für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.5: Jahresabschluss der Historische Stadthalle Wuppertal Service GmbH für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.6: Jahresabschluss der Wuppertal Marketing GmbH für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.7: Jahresabschluss 2011 der HELIOS Klinikum Wuppertal GmbH - ungeändert beschlossen
+- TOP 1.8: Jahresabschluss 2011 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - ungeändert beschlossen
+- TOP 1.9: Jahresabschluss 2011 der Bergischen Entwicklungsagentur GmbH (BEA) - ungeändert beschlossen
+- TOP 1.10: Jahresabschluss 2011 der Wirtschafts- und Beschäftigungsförderungsgesellschaft Wuppertal mbH (WiBeFö GmbH) - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 3: Wirtschaftspläne
+- TOP 3.1: Wirtschaftsplan der Wuppertaler Bühnen GmbH für das Geschäftsjahr 2012/2013 - ungeändert beschlossen
+- TOP 3.2: Wirtschaftsplan für den Zweckverband Bergische Volkshochschule für das Geschäftsjahr 2012 - ungeändert beschlossen
+- TOP 4: Personelle Angelegenheiten
+- TOP 4.1: Besetzung des Aufsichtsrates der WSW Energie & Wasser AG - geändert beschlossen
+- TOP 4.2: Bestellung eines Mitglieds für den Aufsichtsrat der WSW Wuppertaler Stadtwerke GmbH - geändert beschlossen
+- TOP 4.3: Bestellung eines Mitglieds für den Aufsichtsrat der WSW mobil GmbH - geändert beschlossen
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Wahrnehmung von Gesellschafterrechten bei WSW-Tochtergesellschaften - ungeändert beschlossen
+- TOP 5.2: Änderung des Gesellschaftsvertrages der WSW Wuppertaler Stadtwerke GmbH - ungeändert beschlossen
+- TOP 5.3: Änderung des Gesellschaftsvertrages der WSW mobil GmbH - ungeändert beschlossen
+- TOP 5.4: Änderung des Gesellschaftsvertrages der Wuppertaler Quartierentwicklungsgesellschaft mbH (WQG) - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: Externe Einstellungen im Zeitraum Januar bis April 2012 - Entgegennahme ohne Beschluss
+- TOP 7.2: Bericht über das Bauinvestitionscontrolling der Stadt Wuppertal - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2009 - ungeändert beschlossen
+- TOP 8.2: Umsetzung des Haushaltssicherungskonzeptes 2010-2014 - Zielerreichung 2011 - Entgegennahme ohne Beschluss
+- TOP 9: Verkäufe und Baumaßnahmen
+- TOP 10: Dienstanweisungen und Satzungen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1: Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN vom 08.06.12 -Klimaschutz in der Grundstückswirtschaft- - abgelehnt
+- TOP 11.2: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern - vertagen
+- TOP 12: Allgemeine Vorlagen
+- TOP 12.1: Konzept zur städtebaulichen Steuerung von Spielhallen und Wettbüros in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 12.2: Stadtentwässerung - Maßnahmenkatalog 2013/Katalogentwurf 2014 - ungeändert beschlossen
+- TOP 12.3: Mitgliedschaft in der kommunalen Einkaufsgenossenschaft des Deutschen Städtetages - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 14: Alten- und Altenpflegeheime
+- TOP 14.1: Quartalsbericht I/2012 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 14.2: Quartalsbericht I/2012 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 14.3: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2012 bis 30.06.2014 - ungeändert beschlossen
+- TOP 15: Berichte und Mitteilungen
+- TOP 16: Kinder- und Jugendwohngruppen
+- TOP 17: Berichte und Mitteilungen
