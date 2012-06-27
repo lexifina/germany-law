@@ -1,0 +1,131 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-06-27T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2507211
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2507211
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP 2: Tagesordnung und Protokoll
+- TOP 3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1: Anwesende Bürgerinnen und Bürger
+- TOP 4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP 4.2.1.: Versorgungssituation in der Au
+- TOP 4.2.2.: Parksituation während der Auer Dult
+- TOP 4.2.3.: Überwachung des Durchfahrtsverbots am Genoveva-Schauer-Platz; Antwort der Polizeiinspektion 21 vom 24.05.2012
+- TOP 4.2.4.: Trampelpfad von der Mariahilfsstraße über die Eduard-Schmid-Straße zur Isar pflastern; Antwort Baureferat vom 23.05.12
+- TOP 4.2.5.: Nächtliche Reinigungsarbeiten mit Hochdruckreinigern am Orleansplatz; Stellungnahme des RGU vom 01.06.2012
+- TOP 4.2.6.: Anzeigetafeln in den U-Bahnhöfen Lehel und Max-Weber-Platz; Schreiben der MVG vom 25.05.2012
+- TOP 5: Anträge
+- TOP 6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP 6.1.1.: (E) Budget der Bezirksausschüsse Verein zur Förderung von Eigenarbeit e.V. Bürgerfest am 07.07.2012
+- TOP 6.1.2.: (E) Budget der Bezirksausschüsse AKA e.V. Internationales Stadtteilfest am 08.07.2012
+- TOP 6.1.3.: (E) Budget der Bezirksausschüsse Projekt-Laden International Haidhausen Internationales Sommer- und Straßenfest am 21.07.2012
+- TOP 6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP 6.2.1.: Wörthstr. 10, ?Der Flohmarktladen?: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund
+- TOP 6.2.2.: Metzstr. 8, ?Backspielhaus?: Genehmigung einer Freischankfläche
+- TOP 6.2.3.: Braystr. 22, ?Chi Bao Bao?: Erweiterung einer bestehenden Freischankfläche
+- TOP 6.2.4.: Falkenstr. 47 beim U-Bahnaufgang Kolumbusplatz: Antrag auf Erteilung einer Sondernutzungserlaubnis für einen Obstverkaufsstand
+- TOP 6.3: Weitere Entscheidungen
+- TOP 1.3.: Reinigung der ?Baumgräben? im Stadtbezirk Au-Haidhausen (Empfehlung Nr. 08-14/ E 01260)
+- TOP 8.1: Antwortschreiben zu BA-Anträgen
+- TOP 8.1.1.: Behandlung der Anträge zur Planung des ehemaligen Paulanergeländes; Schreiben des Planungsreferats vom 08.05.2012; BA-Schreiben vom 24.05.2012 zur Kenntnis
+- TOP 8.1.2.: GBW-Wohnungen in öffentlichem Eigentum behalten
+- TOP 8.1.3.: Einhaltung der Inklusionsstandards durch die GWG (MGS) im Wohnhaus Wolfgangstr. 15
+- TOP 8.1.4.: Abfallbehälter für die Ausfahrtschranke am Mariahilfplatz
+- TOP 8.1.5.: Erneuerung des Zebrastreifens Fußgängerübergang Höhe Wolfgangstr. 14
+- TOP 8.1.6.: Markierung der Haltestellen der Buslinie 152 am Fahrbahnrand
+- TOP 8.1.7.: Stellplätze für Mietfahrräder: Pariser Platz, Orleansplatz
+- TOP 8.1.8.: Öffnung des Außenbereichs des Deutschen Museums/ Museumsinsel für die Öffentlichkeit
+- TOP 8.2: Reaktionen auf BA-Schreiben
+- TOP 8.2.1.: Trogerstr. 7-9: Neubau Zentrale Sterilgutversorgung; Schreiben der LBK vom 23.06.2012
+- TOP 8.3: Weitere Unterrichtungen
+- TOP 8.3.1.: Wörthstr. 34-36 und 39-41, Ecke Breisacher Str. und Pariser Str., Herstellen von zwei Baumscheiben, Erinnerungsverfahren
+- TOP 8.3.2.: Antrag des BA 9 zur Finanzierung der WALK 21
+- TOP 8.3.3.: Antrag des BA 19 zu Werbeanlagen/-Anhänger
+- TOP 8.3.4.: Einrichtung eines Halteverbots auf dem Parkplatz der Muffathalle für den Zeitraum 23.06. - 24.06.2012; hier: Eilentscheidung der Vorsitzenden
+- TOP 8.3.5.: Straßenfest am Herrgottseck am 14.07.2012, hier: Eilentscheidung der Vorsitzenden
+- TOP 8.3.6.: AKA-Stadtteilfest am 08.07.2012 auf dem Johannisplatz, hier: Eilentscheidung der Vorsitzenden
+- TOP 8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 1: Regsam
+- TOP 2: Kinder und Jugend
+- TOP 2.1.: 18.jetzt - Fest junger Erwachsener im Rathaus am 13. Oktober 2012; Rückmeldung bis zum 02. Juli 2012; Schreiben Direktorium vom 29.05.2012
+- TOP 3: Behinderte und Barrierefreiheit
+- TOP 4: Ausländer und Flüchtlinge
+- TOP 5: Frauen und Mädchen
+- TOP 6: Internet
+- TOP 7: Baumschutz
+- TOP 2.1.: Vorstellung AKA e.V.
+- TOP 2.2.: Antrag des BA 21, Sachstandsbericht über sämtliche Neubau- und Sanierungsmaßnahmen durch das Referat für Bildung und Sport
+- TOP 2.3.: Aufhebung der Freispielflächenvorgaben für Kindertagesstätten in Haidhausen: BV-5-Empfehlung Nr. 08-14 / E 01261 08.03.2021; Beschlussvorlage des Ausschusses für Bildung und Sport des Stadtrates am 19.09.2012
+- TOP 3.1.: Grundschule und Kindergarten Bazeillesstr. 8, Ausführungsgenehmigung; Beschluss des Ausschusses für Bildung und Sport vom 23.05.2012
+- TOP 3.2.: Zweite Infoveranstaltung Jugendbeteiligung: ?junge Kreative in München? - welche Räume bietet München??; Stichwortprotokoll des Sozialreferates vom 17.04.2012
+- TOP 2.1.: Straßenfest in der Lothringer Straße am 28.07.2012 (Ersatztermin: 04.08.2012); Anh. KVR vom 01.06.2012
+- TOP 2.2.: ?Hamburger Fischmarkt auf Tour? am Orleansplatz vom 06.07. - 15.07.2012; Anh. KVR vom 05.06.2012
+- TOP 2.3.: Public Viewing Bordeauxplatz: Bürgerschreiben vom 05.06.2012
+- TOP 2.4.: Laufveranstaltung Munich Urban Cross am 01.09.2012
+- TOP 2.5.: Kinderspielplatz Preysinggarten, Beschwerde
+- TOP 2.6.: Freischankfläche Johannisplatz 11
+- TOP 3.1.: Werbenutzungsvertrag der Landeshauptstadt München, Schreiben des Referats für Arbeit und Wirtschaft vom 04.05.2012
+- TOP 3.2.: Markt am Wiener Platz
+- TOP 3.3.: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigung- und -sicherungsverordnung der LH München; Verschmutzungsabgabe für Fast-Food-Betriebe; Beschluss des Bauausschusses vom 12.06.2012
+- TOP 2.1.: Rettung Bestandsbegrünung in der Weißenburger Str. 20; Bürgeranliegen
+- TOP 2.2.: Ismaninger Str. 9, Gesamtsanierung Bürogebäude für den Bayerischen Landtag ? Teilabbruch, Neubau, Grundrissanpassung, Nutzungsänderung
+- TOP 2.3.: Rosenheimer Str. 112-114, Neubau Bürogebäude und Schulungszentrum IHK München - VORBESCHEID
+- TOP 2.4.: Hochstr. 8, Neubau ?Sudetendeutsches Museum München? - VORBESCHEID
+- TOP 2.5.: Barnabasstr. 1, Balkonanbau (Barnabasstr. 1+3 / St.-Wolfgangs-Platz 1+2/ Sieboldstr. 9)
+- TOP 2.6.: Rosenheimer Str. 15, Nutzungsänderung: Suite zu Fitnessraum
+- TOP 2.7.: Falkenstr. 7a, Aufstockung eines Bestandsgebäudes - VORBESCHEID
+- TOP 2.8.: Weißenburger Str. 37, Erweiterung einer Wohneinheit, DG-Ausbau
+- TOP 2.9.: Kirchenstr. 94, Nutzungsänderung einer Bäckerei in eine Wohnung (mit dafür notwendigen baulichen Änderungen)
+- TOP 2.10.: Kellerstr. 35, Neubau eines Dreispänners
+- TOP 2.11.: Senftlstr. 9: Nutzungsänderung Gaststätte mit Schießbahn in Büro (EG), 4 Kellerabteile in Lager; Neuaufbau des Dachstuhls mit 2-gesch. Ausbau; Teilerhöhung DG 1 (Hofseite), 8 Gauben Straßenseite / Teilrekonstruktion der historischen Zwerchhäuser (Straßenseite); 2 Gauben, 1 Loggia und 1 Dachterrasse (Hofseite) ? TEKTUR
+- TOP 2.12.: Schweigerstr. 2, Abbruch und Neubau Dachgeschoss mit Errichtung von Dachgauben
+- TOP 2.13.: Hochstr. 15: Neubau einer Lagerhalle für KFZ-Schrott und Abfall
+- TOP 2.14.: Johannispl. 12: Nutzungsänderung eines ehem. Speichers zu 2 Wohnungen, Errichtung von 2 Dachterrassen und 10 Gauben. Anbau eines Außenaufzugs
+- TOP 3.1.: Eingegangene Baulisten: 23.04.12 ? 29.04.12, 30.04.12 ? 06.05.12, 07.05.12 ? 13.05.12, 14.05.12 ? 20.05.12, 21.05.12 ? 27.05.12, 28.05.12 ? 03.06.12 zur Kenntnis
+- TOP 3.2.: Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 23.05.2012
+- TOP 3.3.: Prinzregentenstr. 66; Nutzungsänderung von Wohnen in Büro im 2. OG, Zusammenlegung zweier Büroeinheiten im 2. + 3. OG
+- TOP 2.1.: Fahrradstellplatzkonzept (2. Realisierungsabschnitt), Anhörung der Bezirksausschüsse zu den Detailplanungen
+- TOP 2.2.: Lärmaktionsplan; Schreiben des Münchner Forums vom 16.05.2012
+- TOP 2.3.: Fahrradständer und Radwege in Haidhausen, Bürgerschreiben vom 16.05.2012
+- TOP 2.4.: Verkehrsberuhigung in der Rosenheimer Straße zügig umsetzen; Beschlussvorlage Stand 07.12.2011 für den Stadtplanungsausschuss; Anhörung PlanR vom 31.05.2012
+- TOP 2.5.: Lärmaktionsplan für München (Entwurfsstand: 26.04.2012); Anhörung RGU vom 24.05.12
+- TOP 3.1.: Ampelschaltung Kreuzung Innere Wiener Straße / Kellerstraße auf Höhe der Loretokapelle
+- TOP 3.2.: Satzung der LH München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS); Beschluss des Stadtplanungsausschusses vom 13.06.2012
+- TOP 3.3.: Zu TOP 2.5: Verkehrsberuhigung Rosenheimer Straße: Lärmschutz für Anwohner (Ziffer 2 des Antrags); BV-5-Empfehlung Nr. 08-14 / E 01255 vom 08.03.2012; Zwischennachricht RGU vom 01.06.2012
+- TOP 1: Berichte von wahrgenommenen Terminen
+- TOP 2: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mittwoch, 04.07.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Montag, 02.07.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 10.07.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 12.07.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 09.07.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 3: Nächste BA-Sitzung
+- TOP 3.1.: Mittwoch, 18.07.2012, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 4: Sonstige Termine
+- TOP 4.1.: Einladung des Behindertenbeirats zum Thema ?Absenkung der Bordsteine an den Straßenübergängen auf drei Zentimeter?, Vorstellung der ?Doppelquerung?, Führung um den Marienplatz mit Simulationsbrillen, 11.07.2012, 18.00 Uhr, Burgstraße 4, Raum 200
+- TOP 6: Entscheidungen (1)
+- TOP 1: Barrierefreiheit auch bei Kirchen und kirchlichen Einrichtungen Empfehlung Nr. 08-14 / E 01258 ................... - <div></div>
+
+  						<div>nach Antrag</div>
+- TOP 1.2.: <div style="margin-bottom: 0.5em;"> <img src="../images/16_Abgesetzt.png" alt="Eine rote Handfläche" title="Abgesetzt" style="margin-right: 0.25em; vertical-align: middle;"/> <strong style="color: #CC0000; vertical-align: middle;">ABGESETZT</strong> </div> Barrierefreiheit auch bei Kirchen und kirchlichen Einrichtungen (Empfehlung Nr. 08-14/ E 01258)
+- TOP 7: Anhörungen (1)
+- TOP 8: Unterrichtungen (1)
+- TOP 1: Entscheidungen (2)
+- TOP 2: Anhörungen (2)
+- TOP 3: Unterrichtungen (2)
+- TOP 1: Entscheidungen (3)
+- TOP 2: Anhörungen (3)
+- TOP 3: Unterrichtungen (3)
+- TOP 1: Entscheidungen (4)
+- TOP 2: Anhörungen (4)
+- TOP 3: Unterrichtungen (4)
+- TOP 1: Entscheidungen (5)
+- TOP 2: Anhörungen (5)
+- TOP 3: Unterrichtungen (5)
+- TOP 4: (E) Reinigung der ?Baumgräben? im Stadtbezirk Au-Haidhausen Empfehlung Nr. 08-14 / E 01260 der Bürgerversammlung des Stadtbezirkes 5 Au-Haidhausen am 08.03.2012 - <div></div>
