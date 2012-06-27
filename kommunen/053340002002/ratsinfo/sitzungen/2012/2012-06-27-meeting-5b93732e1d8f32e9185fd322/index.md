@@ -1,0 +1,53 @@
+# öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen
+
+- Körperschaft: Aachen
+- Beginn: 2012-06-27T17:00:00+02:00
+- Ende: 2012-06-27T18:15:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.politik-bei-uns.de/organization/5b936b3d1d8f32e9185d8102
+- Ratsinformationssystem: http://ratsinfo.aachen.de/bi/to010.asp?SILFDNR=2597
+- OParl: https://oparl.politik-bei-uns.de/meeting/5b93732e1d8f32e9185fd322
+- Quelle: https://oparl.politik-bei-uns.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Eröffnung der Sitzung - (offen)
+- TOP 2: Genehmigung der Niederschrift über die Sitzungen des Rates der Stadt vom 25.04.2012 und 23.05.2012; die Niederschrift über die Sitzung des Rates der Stadt vom 23.05.2012 wird nachgereicht. - (offen)
+- TOP 3: Fragestunde für Einwohnerinnen und Einwohner; auf die Abhaltung der Fragestunde wurde ordnungsgemäß durch Veröffentlichung der Tagesordnung der Sitzung des Rates der Stadt in den Aachener Tageszeitungen hingewiesen. - (offen)
+- TOP 4: Über- und außerplanmäßige Ausgaben, Verpflichtungsermächtigungen - (offen)
+- TOP 4.1: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushaltsjahr 2012 - Beschaffung Hubrettungsfahrzeug 5-021501-900-00100-900-1- 78310000 - ungeändert beschlossen
+- TOP 4.2: Über- außerplanmäßige Aufwendungen / Auszahlungen / Verpflichtungsermächtigungen - Haushaltsjahr 2012 - Inanspruchnahme von investiven Zuwendungen aus Vorjahren zur Deckung von investiven Auszahlungen in Folgejahren - ungeändert beschlossen
+- TOP 4.3: Über- und außerplanmäßige Aufwendungen/Auszahlungen/Verpflichtungsermächtigungen - Haushaltsjahr 2012, U3 Ausbau - Baumaßnahmen Kindertagesstätten Bergstraße und Düppelstraße - ungeändert beschlossen
+- TOP 5: II. Änderung des Bebauungsplanes Nr. 888 - Krefelder Straße/ Soerser Weg (Sportpark Soers) für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Tivoli-Stadion, Krefelder Straße, südlicher Zufahrt zum Sportpark Soers und Stadionparkhaus hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 5.1: II. Änderung des Bebauungsplanes Nr. 888 - Krefelder Straße/ Soerser Weg (Sportpark Soers) für den Planbereich im Stadtbezirk Aachen-Laurensberg im Bereich zwischen Tivoli-Stadion, Krefelder Straße, südlicher Zufahrt zum Sportpark Soers und Stadionparkhaus hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB - ungeändert beschlossen
+- TOP 6: Bebauungsplan Nr. 928 - Rödgener Straße/ Wamichstraße - für den Planbereich im Stadtbezirk Aachen-Eilendorf im Bereich zwischen zwischen Rödgener Straße / Suttner Straße / Wamichstraße und Zehnthofweg hier: Satzungsbeschluss gem. § 10 Abs. 1 BauGB <span style="color: #888a85" title="Zusatzinfo">(Die Unterlagen werden nachgereicht.)</span> - ungeändert beschlossen
+- TOP 7: Jahresabschluss 2009/2010 von Stadttheater und Musikdirektion Aachen per 31.07.2010 - ungeändert beschlossen
+- TOP 8: Aufgabenabgrenzung Städteregion Aachen / Zweckverband Region Aachen - ungeändert beschlossen
+- TOP 9: Einrichtung einer zweiten Stelle für die Betriebsleitung des Aachener Stadtbetriebs (E 18) - ungeändert beschlossen
+- TOP 10: Teilnahme der Stadt Aachen am Pilotprojekt des Bundesfamilienministeriums "Kommunale Zeitpolitik für Familien" - ungeändert beschlossen
+- TOP 11: Änderung der Elternbeitragssatzung für den Besuch einer Kita Satzung über die Erhebung von Elternbeiträgen im Rahmen der Inanspruchnahme von Kindertageseinrichtungen im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) geändert durch den 2. Nachtrag vom 12.10.2011, hier: Elternbeitragsfreiheit für die 2. Einkommensstufe - ungeändert beschlossen
+- TOP 12: Änderung der Elternbeitragssatzung für die Inanspruchnahme der Tagespflege Satzung über die Erhebung von Elternbeiträgen im Rahmen der Förderung von Kindern in Kindertagespflege im Sinne des Gesetzes zur frühen Bildung und Förderung von Kindern (Kinderbildungsgesetz – KiBiz) hier: Kindertagespflege neue Satzung ab dem 01.08.2012 - ungeändert beschlossen
+- TOP 13: Änderung der Elternbeitragssatzung für die Inanspruchnahme der OGS Satzung über die Erhebung von Elternbeiträgen für die Teilnahme von Schülerinnen und Schülern an außerunterrichtlichen Förder- und Betreuungsangeboten in der Primarstufe der Schulen der Stadt Aachen (Offene Ganztagsschulen) geändert durch den 3. Nachtrag vom 12.10.2011, hier: Elternbeitragsfreiheit für die 2. Einkommensstufe - ungeändert beschlossen
+- TOP 14: Annahme einer Schenkung hier: Erneuerung der elektroakustischen Anlage im Krönungssaal des Aachener Rathauses - ungeändert beschlossen
+- TOP 15: Annahme einer Schenkung für die GGS Brander Feld - ungeändert beschlossen
+- TOP 16: Annahme einer Schenkung für die Gesamtschule Aachen Brand - ungeändert beschlossen
+- TOP 17: Benennung von Straßen - Vennbahnweg - ungeändert beschlossen
+- TOP 18: Anfragen - (offen)
+- TOP 19: Umbesetzung von Ausschüssen und anderen Gremien - ungeändert beschlossen
+- TOP 19.1: Aufsichtsrat der AWA Entsorgung GmbH - ungeändert beschlossen
+- TOP 19.2: Aufsichtsrat der MVA Weisweiler GmbH & Co. KG - ungeändert beschlossen
+- TOP 19.3: Besetzung von Ausschüssen, hier: Schulausschuss - ungeändert beschlossen
+- TOP 19.4: Verbandsversammlung des Zweckverbandes für das Studieninstitut für kommunale Verwaltung Aachen hier: Bestellung eines stellvertretenden Mitgliedes - ungeändert beschlossen
+- TOP 19.5: Besetzung des Aufsichtsrates bei der Alemannia Aachen Stadion GmbH - ungeändert beschlossen
+- TOP 20: Mitteilungen der Verwaltung und Ratsanträge - (offen)
+- TOP 21: Sachstand zum Stand der Entwicklung der Bewerbung „Kulturhauptstadt“ und die Auswirkungen auf die Stadt Aachen hier: Bewerbungsbuch - ungeändert beschlossen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
+- TOP 6: nicht öffentlicher Tagesordnungspunkt
+- TOP 6.1: nicht öffentlicher Tagesordnungspunkt
+- TOP 7: nicht öffentlicher Tagesordnungspunkt
+- TOP 7.1: nicht öffentlicher Tagesordnungspunkt
