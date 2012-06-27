@@ -1,0 +1,6 @@
+# TOP 2: Genehmigung der Niederschrift über die Sitzungen des Rates der Stadt vom 25.04.2012 und 23.05.2012; die Niederschrift über die Sitzung des Rates der Stadt vom 23.05.2012 wird nachgereicht.
+
+- Sitzung: öffentliche/nichtöffentliche Sitzung des Rates der Stadt Aachen (2012-06-27)
+- Körperschaft: Stadt Aachen
+- Öffentlich: ja
+- OParl: http://ratsinfo.aachen.de/public/oparl/agendaItems?id=51730
