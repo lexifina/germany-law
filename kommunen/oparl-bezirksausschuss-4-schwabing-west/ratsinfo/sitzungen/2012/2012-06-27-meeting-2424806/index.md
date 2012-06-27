@@ -1,0 +1,60 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-06-27T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2424806
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2424806
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Elternbeirat der Kindertagesstätte an der Birkenfeldstraße Nachbarschaftsfest am 22.06.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse BoysToMen Mentoring München e.V. Projektwoche vom 23. - 27.07.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse ANE Kindergarten-Arbeitskreis Neue Erziehung e.V. Jubiläumsfeier am 14.07.2012
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Hohenzollernstr. 86, Schuhhaus Birgmaier: Warenauslage
+- TOP .2.: Georgenstr. 144, ?Il Borgo?: Erweiterung der Freischankfläche
+- TOP .2.2.: Kultur
+- TOP .1.: Kino Open Air 2012: Finanzierung aus dem BA-Budget
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: Elisabethplatz: Straßenfest der SPD am 26.07.2012
+- TOP .2.: Luitpoldpark: Sommerfest ?Pro Animale? am 14.07.2012
+- TOP .2.1.: Planen
+- TOP .1.: Clemensstr. 105: Erneuerung und Vergrößerung von 4 Balkonen
+- TOP .2.: Herzogstr. 49, Neubau eines Mehrfamilienhauses mit Tiefgarage
+- TOP .3.: Hohenzollernstr. 59, Neubau eines Rückgebäudes (4 WE) mit Garage
+- TOP .4.: Isoldenstraße, Neubau einer Wohnanlage mit Gewerbe und TG
+- TOP .5.: Georgenstr. 48, Nutzungsänderung/Umbau eines Verkaufsladens in ein Ladenlokal mit Ausschank von alkoholischen Getränken
+- TOP .6.: Elisabethstr. 89-91, Nutzungsänderung und Umbau eines Bürogebäudes zu Wohnungen, Anbau einer Doppelfassade zur Lärm und Wärmeschutzertüchtigung und von Balkonen sowie geringfügige Erweiterung des Terrassengeschosses (Vorbescheid)
+- TOP .7.: Sailerstr. 2, Neubau eines Mehrfamilienhauses mit Außenlift (Vorbescheid)
+- TOP .8.: Römerstr. 33, Erweiterung einer DG-Wohnung mit Anbindung an den Dachspitz
+- TOP .9.: Adams-Lehmann-Str. 44, Nutzungsänderung Ladenfläche zu Dessertkochschule
+- TOP .10.: Emanuelstr. 2, Neubau eines Mehrfamilienhauses mit 2 Doppelparkern (Tektur)
+- TOP .11.: Petra-Kelly-Straße, Neubau zweier Wohnhäuser (25 WE) mit Tiefgarage (25 Stellplätze) ? WA 6 SO (Tektur)
+- TOP .2.2.: Wohnen
+- TOP .1.: Bürger: Isabellastraße zwischen Elisabeth- und Bauerstraße zur Spielstraße umwandeln
+- TOP .2.: Bürger: Vorgärten in der Adelheidstraße
+- TOP .3.: Bürger: Nächtliche Ruhestörungen durch Bewohner des Studentenwohnheims Agnesstraße
+- TOP .2.1.: Umwelt
+- TOP .1.: Leonhard-Frank-Str. 5-7: Fällung einer Eberesche und dreier Birken
+- TOP .2.: Herzogstr. 49: Baumveränderung in Zusammenhang mit dem Neubau eines Mehrfamilenhauses mit Tiefgarage
+- TOP .3.: Begrünung der Hörwarthstraße: Erneutes Schreiben des Baureferats
+- TOP .2.2.: Verkehr
+- TOP .1.: Umbau des Kreuzungsbereichs Saar-/Clemens-/Winzererstraße
+- TOP .2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Bauerstr. 27 a
+- TOP .3.: Nahverkehrsanbindung des künftigen Sozialbürgerhauses in der Heidemannstraße
+- TOP .4.: Entwurf des Lärmaktionsplans für München
+- TOP .5.: Sanierung von Bauschäden an der Zufahrt zur Mittelschule Elisabeth-Kohn-Str. 4
+- TOP .1.: Oktoberfest 2012: Reservierung für BA 4
+- TOP .2.: 18.jetzt ? Fest junger Erwachsener im Rathaus am 13.10.2012: Teilnahme BA 4?
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
