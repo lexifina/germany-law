@@ -1,0 +1,104 @@
+# 21. Sitzung
+
+- Körperschaft: Stadt Münster
+- Beginn: 2012-06-27T17:00:00+02:00
+- Ende: 2012-06-27T22:11:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://oparl.stadt-muenster.de/bodies/0001/organizations/gr/150
+- Ratsinformationssystem: https://oparl.stadt-muenster.de/bodies/0001/meetings/8304
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/meetings/8304
+- Quelle: https://oparl.stadt-muenster.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Niederschrift öffentlich https://oparl.stadt-muenster.de/bodies/0001/downloadfiles/a/00326391.pdf
+
+## Tagesordnung
+
+- TOP 1: Eingänge und Mitteilungen
+- TOP -: Beschlusspunkte des Hauptausschusses
+- TOP 2: Weitere Behandlung verwiesener Ratsanträge
+- TOP 2.1: Gemeinsamer Antrag der Fraktion Bündnis 90/Die Grünen/GAL und der Fraktion DIE LINKE. Nr. A-R/0023/2012, "Zuständigkeit des AUB für kommunalen Klimaschutz" - einstimmig geändert beschlossen
+- TOP 2.2: Antrag der Ratsgruppe UWG/ÖDP an den Rat Nr. A-R/0021/2012 "Gleichstellung erst nehmen - Bewerbungsverfahren anonymisieren" - einstimmig geändert beschlossen
+- TOP 2.3: Antrag der Ratsgruppe UWG/ÖDP an den Rat Nr. A-R/0020/2012 vom 26.04.2012 - mehrheitlich beschlossen
+- TOP 2.4: Antrag der Ratsgruppe UWG/ÖDP und von Herrn Ratsherr Powroznik Nr. A-R/0011/2012 - mehrheitlich beschlossen
+- TOP 2.5: Antrag der SPD-Fraktion an den Rat Nr. A-R/0012/2012 - einstimmig geändert beschlossen
+- TOP 2.6: Antrag an den Rat der Stadt Münster Nr. A-R/0004/2012 der Fraktion Bündnis 90 / Die Grünen / GAL vom 31.01.2012 - einstimmig beschlossen
+- TOP 2.7: Antrag der SPD-Fraktion an den Rat Nr. A-R/0022/2012 - einstimmig beschlossen
+- TOP 2.8: Antrag der UWG/ÖDP an den Rat Nr. A-R/0001/2012 vom 25.01.2012 "Bundesgartenschau nach Münster holen" - einstimmig beschlossen
+- TOP 3: Bericht über die Beschäftigung schwerbehinderter Menschen und schwerbehinderten Menschen Gleichgestellten bei der Stadt Münster - zur Kenntnis genommen
+- TOP 4: Erhebung von Straßenreinigungsgebühren - mehrheitlich beschlossen
+- TOP 5: Überprüfung der weitgespannten Tragwerke in Städtischen Gebäuden - zur Kenntnis genommen
+- TOP 6: Ergebnisse zum Expertenworkshops "Öffentlichkeitsarbeit umweltfreundliche Mobilität" und weiteres Vorgehen - mehrheitlich geändert beschlossen
+- TOP 7: Beantragung und Bewilligung von Zuschussmaßnahmen nach den Richtlinien zur Förderung des Kommunalen Straßen- und Radwegebaus (FöRi-kom-Stra) ab 2013 - mehrheitlich geändert beschlossen
+- TOP 8: Straßenausbau im Straßenumbau Aegidiistraße Rothenburg, Johannesstraße, Pferdegasse, Domplatz im Bereich des Landesmuseums - mehrheitlich beschlossen
+- TOP 9: Abwicklung der naturschutzrechtlichen Eingriffsregelung in der Stadt Münster - einstimmig beschlossen
+- TOP 9.1: Abwicklung der naturschutzrechtlichen Eingriffsregelung in der Stadt Münster
+- TOP 10: 6. Entwicklungspolitischer Nord-Süd-Preis der Stadt Münster / bürger:sinn:stiftung 2012 - zur Kenntnis genommen
+- TOP -: Vorberatung von Ratsentscheidungen
+- TOP 11: Nachhaltige kommunale Haushaltspolitik - Handlungsprogramm 2012 bis 2017 - ohne Beschlussfassung geschoben
+- TOP 12: Gemeinsamer Antrag der CDU-Fraktion, der SPD-Fraktion, der FDP-Fraktion, der Fraktion DIE LINKE. und der Ratsgruppe UWG/ÖDP an den Rat Nr. A-R/0051/2010 - mehrheitlich abgelehnt
+- TOP 13: Taxitarife - ohne Beschlussfassung geschoben
+- TOP 13.1: Taxitarife
+- TOP 14: Ordnungsbehördliche Verordnung über das Offenhalten der Verkaufsstellen im Stadtbezirk Münster-Mitte, Altstadt/Bahnhofsviertel - ohne Beschlussfassung geschoben
+- TOP 15: Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen - einstimmig beschlossen
+- TOP 15.1: Änderung der Satzung der Stadt Münster über Sondernutzungen an öffentlichen Straßen
+- TOP 16: NKF-Gesamtabschluss zum 31.12.2010 der Stadt Münster (Entwurf) - einstimmig beschlossen
+- TOP 17: Entwurf des Jahresabschlusses zum 31.12.2011 der Stadt Münster - von der Tagesordnung abgesetzt
+- TOP 18: Betrauungsakte für städtischen Gesellschaften und Eigenbetriebe - einstimmig beschlossen
+- TOP 19: Änderung des Gesellschaftsvertrages und der Verlustabdeckungsvereinbarung der - mehrheitlich beschlossen
+- TOP 20: Künftige Nutzung der Stadthalle Hiltrup - einstimmig beschlossen
+- TOP 20.1: Künftige Nutzung der Stadthalle Hiltrup
+- TOP 20.2: Künftige Nutzung der Stadthalle Hiltrup
+- TOP 21: Priorisierung von gebäudebezogenen Maßnahmen - einstimmig beschlossen
+- TOP 21.1: Priorisierung von gebäudebezogenen Maßnahmen an städtischen Gebäuden
+- TOP 22: Änderung der Abfallsatzung - einstimmig beschlossen
+- TOP 23: Städtebauförderung: Programm "Stadtumbau West" Konversion York-Kaserne Gremmendorf, Konversion Oxford-Kaserne Gievenbeck - einstimmig beschlossen
+- TOP 24: Entwicklung des Quartiers "Hörster Parkplatz" / Bült / Hörsterstraße / Korduanenstraße - einstimmig geändert beschlossen
+- TOP 25: Errichtung einzelner Windenergieanlagen an Standorten außerhalb der im Flächennutzungsplan der Stadt Münster dargestellten Konzentrationszonen für Windenergieanlagen - einstimmig beschlossen
+- TOP 25.1: Errichtung einzelner Windenergieanlagen an Standorten außerhalb der im Flächennutzungsplan der Stadt Münster dargestellten Konzentrationszonen für Windenergieanlagen
+- TOP 26: ÖPNV-Förderung gem. § 11 Abs. 2 ÖPNVG NRW in Münster - einstimmig beschlossen
+- TOP 27: Verkehrssicherheitsprogramm
+- TOP 27.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms - ohne Beschlussfassung geschoben
+- TOP 27.1.1: Priorisierung der Maßnahmen des Verkehrssicherheitsprogramms
+- TOP 27.2: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms - ohne Beschlussfassung geschoben
+- TOP 27.2.1: Finanzielle und personelle Ausstattung des Verkehrssicherheitsprogramms
+- TOP 28: Planungsschritte für die Errichtung einer Sekundarschule in Kinderhaus - einstimmig beschlossen
+- TOP 29: Städtische Bühnen Münster- Übernahme des Tarifabschlusses 2012 - einstimmig beschlossen
+- TOP 30: Kindertageseinrichtungen
+- TOP 30.1: Errichtungsbeschluss: Neubau der Kindertageseinrichtung Kinderbachtal - östlich des Wuddi (Kinderhaus) - ohne Beschlussfassung geschoben
+- TOP 30.1.1: Errichtungsbeschluss: Neubau der Kindertageseinrichtung Kinderbachtal - östlich des Wuddi (Kinderhaus)
+- TOP 30.2: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Stratmannweg, Mecklenbeck (Hof Schultmann) - ohne Beschlussfassung geschoben
+- TOP 30.2.1: Errichtungsbeschluss: Neubau einer Kindertageseinrichtung am Stratmannweg, Mecklenbeck (Hof Schultmann)
+- TOP 30.3: Erweiterung der Evangelischen Sternkindertagesstätte, Sternstraße 8-10 - ohne Beschlussfassung geschoben
+- TOP 30.4: Erweiterung der Evangelischen Andreas-Kindertageseinrichtung, Breslauer Strasse 154 (Coerde) - ohne Beschlussfassung geschoben
+- TOP 31: Maßnahmeprogramm Wohngebiet Kinderhaus-Brüningheide: Jahresbericht 2011 - zur Kenntnis genommen
+- TOP 32: Münster-Pass: Angebotsprofil, Perspektiven, Finanzierung - ohne Beschlussfassung geschoben
+- TOP 32.1: Münster-Pass: Angebotsprofil, Perspektiven, Finanzierung
+- TOP 33: Einrichtung einer Ombudsstelle für Kundinnen und Kunden des Jobcenter Münster - einstimmig beschlossen
+- TOP 33.1: Einrichtung einer Ombudsstelle für Kundinnen und Kunden des Jobcenter Münster
+- TOP 34: Landschaftsplan Roxeler Riedel -Offenlegungsbeschluss- - einstimmig beschlossen
+- TOP 35: Umweltpreis Münster - einstimmig beschlossen
+- TOP 35.1: Umweltpreis Münster
+- TOP 36: European Energy Award 2012 - Energiepolitisches Arbeitsprogramm - ohne Beschlussfassung geschoben
+- TOP 37: Feststellung von Jahresabschlüssen
+- TOP 37.1: Feststellung des Jahresabschlusses und Verwendung des Jahresgewinns der citeq zum 31.12.2011 - einstimmig beschlossen
+- TOP 37.2: Feststellung des Jahresabschlusses und des Lageberichts der AWM für das Wirtschaftsjahr 2011 - einstimmig beschlossen
+- TOP 37.3: Feststellung des Jahresabschlusses von Münster Marketing für das Wirtschaftsjahr 2011 - einstimmig beschlossen
+- TOP 37.4: Feststellung der Jahresabschlüsse 2011 der Kommunalen Stiftungen - einstimmig beschlossen
+- TOP 37.5: Feststellung des Jahresabschlusses 2011 der Altenzentrum Klarastift gGmbH - einstimmig beschlossen
+- TOP 37.6: Feststellung des Jahresabschlusses 2011 der Klarastift Service GmbH - einstimmig beschlossen
+- TOP 37.7: Feststellung des Jahresabschlusses 2011 der Ambulante Dienste Klarastift GmbH - einstimmig beschlossen
+- TOP 37.8: Feststellung des Jahresabschlusses 2011 der Sozialholding Klarastift GmbH - einstimmig beschlossen
+- TOP 38: Bauleitplanung
+- TOP 38.1: Stadtbezirk Mitte
+- TOP 38.1.1: Bebauungsplan Nr. 532: Östlich der Straße "Am Schlossgarten" - Beschluss über die Stellungnahmen - Satzungsbeschluss - einstimmig beschlossen
+- TOP 38.2: Stadtbezirk Mitte und Stadtbezirk Münster-Südost
+- TOP 38.2.1: 42. Änderung FNP - Bebauungsplan Nr. 541 - Beschluss zur Aufstellung - ohne Beschlussfassung geschoben
+- TOP 38.3: Stadtbezirk West
+- TOP 38.3.1: Bebauungsplan Nr. 323, 2. Änderung - Beschluss über die Stellungnahmen - Satzungsbeschluss - ohne Beschlussfassung geschoben
+- TOP 39: Satzung zur Änderung der Hauptsatzung der Stadt Münster - einstimmig beschlossen
+- TOP 40: Gewährung eines Zuschusses zur Finanzierung der Geldeinlage in die Annette von Droste zu Hülshoff-Stiftung aus der Gewinnausschüttung der Sparkasse Münsterland-Ost - ohne Beschlussfassung geschoben
+- TOP 41: Gewinnausschüttung der Sparkasse Münsterland Ost - ohne Beschlussfassung geschoben
+- TOP 42: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt - einstimmig beschlossen
+- TOP 42.1: Benennung von Mitgliedern für den Beirat der Justizvollzugsanstalt
+- TOP 43: Umbesetzungen in Ausschüssen des Rates und sonstigen Gremien - einstimmig beschlossen
+- TOP 44: Verschiedenes
