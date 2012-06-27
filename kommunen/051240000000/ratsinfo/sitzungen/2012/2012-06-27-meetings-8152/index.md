@@ -1,0 +1,65 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-06-27T16:03:00+02:00
+- Ende: 2012-06-27T16:16:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8152
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8152
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00143328.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00144076.pdf
+- Wortprotokoll: Nachtragsliste mit Ergebnissen der Vorberatungen http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00143828.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern - vertagen
+- TOP 4.2: Bildung statt Betreuungsgeld - ungeändert beschlossen
+- TOP 4.2.1: Änderungsantrag zu VO/0422/12 "Bildung statt Betreuungsgeld" - abgelehnt
+- TOP 4.3: Klimaschutz in der Grundstückswirtschaft - abgelehnt
+- TOP 4.4: Die Wählergemeinschaft für Wuppertal (WfW) beantragt die Entscheidung des Rates über die Sanierung oder den Neubau der Uni-Halle - abgelehnt
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 5.1: Einrichtung von bilingualen Zweigen an Wuppertaler Schulen
+- TOP 6: Ortsrecht
+- TOP 6.1: Gestaltungssatzung Döppersberg - ungeändert beschlossen
+- TOP 6.2: 2. Änderungssatzung der Gebührensatzung für Übergangseinrichtungen der Stadt Wuppertal - ungeändert beschlossen
+- TOP 6.3: Festsetzung der Pflegesätze für die Alten- und Altenpflegeheime der Stadt Wuppertal für die Zeit vom 01.07.2012 bis 30.06.2014 - ungeändert beschlossen
+- TOP 6.4: Änderung der verkaufsoffenen Sonntage im Stadtbezirk Vohwinkel - Dringlichkeitsentscheidung gefasst
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Feststellung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2009 - vertagen
+- TOP 7.2: Prüfung des Jahresabschlusses der Stadt Wuppertal zum 31.12.2009
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2011 der Wirtschaftsförderung Wuppertal AöR (WiFö AöR) - vertagen
+- TOP 9: Planverfahren
+- TOP 9.1: Abweichungssatzung Kuckelsberg - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1068 - Bayreuther Straße / Briller Straße - - ungeändert beschlossen
+- TOP 9.3: Bebauungsplan 1168 - Borner Schule - - ungeändert beschlossen
+- TOP 9.4: Bebauungsplan 1146 - Hohenstaufenstraße - - ungeändert beschlossen
+- TOP 9.5: Vorhabenbezogener Bebauungsplan Nr. 1149 V - Rheinische Str. / Linderhauser Str. - - ungeändert beschlossen
+- TOP 9.6: Bebauungsplan Nr. 1152 - Rather Straße - - ungeändert beschlossen
+- TOP 9.7: Bebauungsplan Nr. 1069 - Bredde / Berliner Straße - und Nr. 1155 - Berliner Straße / Bredde - - ungeändert beschlossen
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Erweiterung der städtischen Tageseinrichtung Carl - Schurz - Str. 21 durch Ausbau des Erdgeschosses um - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Aufgabe des Schenkendorff-Sportplatzes in Heckinghausen, Lortzingstr. 48 - ungeändert beschlossen
+- TOP 11.2: Stadtentwässerung - Maßnahmenkatalog 2013/Katalogentwurf 2014 - ungeändert beschlossen
+- TOP 11.3: Konzept zur städtebaulichen Steuerung von Spielhallen und Wettbüros in der Stadt Wuppertal - ungeändert beschlossen
+- TOP 11.4: Abgesetzt.
+- TOP 11.5: Zukunftspark Grüne Meile Wuppertal - ungeändert beschlossen
+- TOP 11.6: Bericht zur Chancengleichheit bei der Stadtverwaltung Wuppertal (Frauenförderplan) - ungeändert beschlossen
+- TOP 11.7: Mitgliedschaft in der kommunalen Einkaufsgenossenschaft des Deutschen Städtetages - ungeändert beschlossen
+- TOP 11.8: Kommunale Präventionsketten: Teilnahme der Stadt am Modellvorhaben "Kein Kind zurücklassen - Kommunen in NRW beugen vor" - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Neubestellung des Beirats bei der Justizvollzugsanstalt Wuppertal-Vohwinkel - geändert beschlossen
+- TOP 12.2: Nachwahl eines Mitglieds und eines Vertreters für den Beirat bei der Unteren Landschaftsbehörde - ungeändert beschlossen
+- TOP 12.3: Besetzung des Aufsichtsrates der WSW Energie & Wasser AG - geändert beschlossen
+- TOP 12.4: Bestellung eines Mitglieds für den Aufsichtsrat der WSW Wuppertaler Stadtwerke GmbH - geändert beschlossen
+- TOP 12.5: Bestellung eines Mitglieds für den Aufsichtsrat der WSW mobil GmbH - geändert beschlossen
+- TOP 12.6: Umbesetzung im Verwaltungsrat der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 12.7: Neubestellung des Beirats bei der Justizvollzugsanstalt Wuppertal-Ronsdorf - ungeändert beschlossen
