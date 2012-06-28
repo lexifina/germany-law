@@ -1,0 +1,6 @@
+# TOP 7: Informationsvorlage: "Schädlicher Alkoholkonsum Minderjähriger in Düsseldorf"
+
+- Sitzung: Jugendrat (2012-06-28)
+- Körperschaft: Stadt Duesseldorf
+- Öffentlich: ja
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/agendaitems/177371
