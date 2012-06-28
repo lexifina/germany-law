@@ -1,0 +1,6 @@
+# TOP 4: Ortskernsanierung, Beratung und Vorbereitung der Beschlussfassung über den II. Bauabschnitt "Bereich Am Markt / Am Pohlkamp / Kohlenhof"
+
+- Sitzung: Bauausschuss der Gemeinde Sögel (2012-06-28)
+- Körperschaft: Samtgemeinde Sögel
+- Öffentlich: ja
+- OParl: https://soegel.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/agendaitem/2116
