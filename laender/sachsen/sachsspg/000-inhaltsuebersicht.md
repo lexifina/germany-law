@@ -44,7 +44,7 @@ Abschnitt 6 Durchführungsbestimmungen
 § 32 Durchführungsbestimmungen
 Teil 2 Landesbank Sachsen Girozentrale
 Abschnitt 1 Allgemeine Vorschriften
-§ 33 Sparkassenzentralbank, Girozentrale
+§ 33 (aufgehoben)
 § 34 (aufgehoben)
 § 35 (aufgehoben)
 § 36 (aufgehoben)
@@ -62,7 +62,7 @@ Abschnitt 3 Jahresabschluss, Fusion
 Abschnitt4 Sonstige Vorschriften
 § 46 (aufgehoben)
 § 47 (aufgehoben)
-§ 48 Beteiligungsverband sächsischer Sparkassen
+§ 48 (aufgehoben)
 Teil 3 Sachsen-Finanzgruppe
 Abschnitt 1 Allgemeine Vorschriften
 § 49 Name, Rechtsform, Träger, Sitz, Satzung
@@ -81,9 +81,9 @@ Unterabschnitt 2 Vorstand
 Abschnitt 3 Geschäftsjahr, Jahresabschluss
 § 59 Geschäftsjahr
 § 60 Jahresabschluss
-Abschnitt 4 Übertragung der Trägerschaft und von Anteilen an der Sachsen LB
+Abschnitt 4 Übertragung der Trägerschaft
 § 61 Übertragung der Trägerschaft an sächsischen Sparkassen
-§ 62 Übertragung von Anteilen am Stammkapital der Sachsen LB
+§ 62 (aufgehoben)
 § 63 Gegenleistung
 § 64 Rückübertragung
 Abschnitt 5 Sonstige Vorschriften
@@ -92,3 +92,4 @@ Abschnitt 5 Sonstige Vorschriften
 Teil 4 Haftung für bestehende Verbindlichkeiten ab dem 19. Juli 2005
 § 67 Haftung für bestehende Verbindlichkeiten ab dem 19. Juli 2005
 § 68 Haftungsbeschränkung
+§ 69 Übergangsbestimmungen
