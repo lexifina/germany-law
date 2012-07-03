@@ -1,0 +1,70 @@
+# Stadtrat (22. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-07-03T17:01:00+02:00
+- Ende: 2012-07-03T20:02:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-523
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZeVY1rK9gGPQoFFTtu9Eq6k
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12742
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZVNlIVlt5XVoZSCE6InNeEly3lRqHsfdXrCLAYXu-t-N/Bekanntmachung_Stadtrat_03.07.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Stadtrat) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZaoe6sbq8HOHXmnuxmyKFNiY8UfgUz2xirDLo-Pt2vON/Oeffentliche_Niederschrift_Stadtrat_03.07.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Besetzung/Umbesetzung von Ausschüssen und Gremien
+- TOP 1.1: Wahl von sachkundigen Einwohner/innen; Teilnahme von Mitgliedern des Behindertenbeirates an Ausschusssitzungen
+- TOP 1.2: Umbesetzung des Bau- und Feuerschutzausschusses hier: Antrag der SPD-Fraktion
+- TOP 2.: Erlass von Ortsrecht
+- TOP 2.1: 10. Änderung der Zuständigkeitsordnung für die Ausschüsse des Rates der Stadt Kerpen
+- TOP 2.2: Satzung über die Erhebung von Gebühren für die Benutzung von Einrichtungen der Stadt Kerpen, Nutzung des Inventars und der Grillhütten, den Einsatz der Sachkundigen Aufsichtsperson sowie Sonderleistungen.
+- TOP 2.3: Änderung der Richtlinien für die Gewährung von Zuschüssen des Breiten- und/oder Leistungssports in der Stadt Kerpen
+- TOP 2.4: Neufassung der Ordnungsbehördlichen Verordnung zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung auf dem Gebiet der Kolpingstadt Kerpen / Einführung einer Kastrationspflicht für Katzen
+- TOP 2.5: Änderung der Sondernutzungssatzung
+- TOP 3.: Personal-/Stellenplanangelegenheiten
+- TOP 3.1: Wahl eines Beigeordneten
+- TOP 3.2: Ausschreibung der Stelle eines / einer Technischen Beigeordneten
+- TOP 3.3: Betriebszeitenerweiterung des Notarztdienstes in der Kolpingstadt Kerpen
+- TOP 3.4: Stellenplan 2012 hier: Abteilung 22.1, Einrichtung einer zusätzlichen Stelle (0,5 Stellen) im Bereich Fachberatung Kindertagespflege
+- TOP 3.5: Maßnahmenplan zur beruflichen Chancengleichheit bei der Stadtverwaltung Kerpen für die Jahre 2012- 2014
+- TOP 4.: Umsiedlung Manheim
+- TOP 4.1: Funktionsersatz für Friedhof und Friedhofshalle in Manheim-neu
+- TOP 4.2: Umsiedlung Manheim hier: Funktionsersatz für die Spielplätze
+- TOP 5.: Stadtentwicklung und Bauleitplanung
+- TOP 5.1: Bebauungsplan KE Nr. 332 "Hahnenstraße", Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.2: Bebauungsplan SI 232 A/1. Änderung "Gewerbegebiet Europaring", Stadtteil Sindorf hier: Satzungsbeschluss gem. § 10 BauGB
+- TOP 5.3: Bebauungsplan KE Nr. 344 "Stiftsstraße" im Stadtteil Kerpen hier: Satzungsbeschluss gem. § 10 (1) BauGB
+- TOP 5.4: Abschluss eines städtebaulichen Vertrages zur Realisierung eines Bauvorhabens im Bereich "Altes Hallenbad Kerpen"
+- TOP 5.5: Bahnsteigverbreiterung S-Bahnhaltepunkt Sindorf
+- TOP 5.6: Nutzungskonzept Marienfeld, stille Naherholung
+- TOP 6.: Ausschreibung Stromlieferung ab 01.01.2013
+- TOP 7.: Ausschreibung "Fachliche Begleitung Konzept Erftlagune"
+- TOP 8.: Freiwillige Leistung der Stadt Kerpen zum Ausbau u3 an die kath. Kindertageseinrichtung Montessori Kinderhaus St. Maria Königin
+- TOP 9.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 10.: Mitteilungen
+- TOP 10.1: Sitzung der Fluglärmschutzkommission am 28.06.2012
+- TOP 10.2: Umleitungsbeschilderung Hüttenstraße, Sindorf
+- TOP 11.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 12.1: Empfehlungen der Gemeindeprüfungsanstalt NRW
+- TOP 12.2: Verkehrsberuhigung Hohlweg, Buir
+- TOP 12.3: Nahversorgung in Türnich
+- TOP 12.4: Vermarktung des Baugebietes Wahlenpfad, Götzenkirchen
+- TOP 12.5: Außenanlagen Kita Wunderkind, Horrem
+- TOP 12.6: Straßenbeleuchtung Apollinarisstraße, Horrem
+- TOP 13.: Einwohner/innen - Fragestunde
+- TOP II.: Nichtöffentlicher Teil
+- TOP 14.: Weitere Vorgehens - und Verfahrensweise Gebäude Maastrichter Str. 5-7
+- TOP 14 a.: Verkauf eines städtischen Grundstücks aus der Gemarkung Kerpen
+- TOP 15.: Ausschreibung "Fachliche Begleitung Konzept Erftlagune"
+- TOP 16.: Sachstand und weiteres Vorgehen betr. Betriebsführung Erftlagune und Freibad Türnich
+- TOP 17.: Personal-/Stellenplanangelegenheiten
+- TOP 17.1: Ernennung eines Stadtoberverwaltungsrates zum Stadtverwaltungsdirektor
+- TOP 18.: Unterrichtung des Rates durch die Bürgermeisterin gem. § 55 Abs. 1 GO NRW
+- TOP 19.: Mitteilungen
+- TOP 20.: Berichte aus den Gremien, in denen die Stadt Kerpen vertreten ist
+- TOP 21.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 22.: Informationen über wichtige Angelegenheiten der städtischen Kapitalgesellschaften
