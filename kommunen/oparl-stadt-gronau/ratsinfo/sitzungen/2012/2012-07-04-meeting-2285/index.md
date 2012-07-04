@@ -1,0 +1,55 @@
+# Rat (30. Sitzung)
+
+- Körperschaft: Stadt Gronau
+- Beginn: 2012-07-04T17:00:00+02:00
+- Ende: 2012-07-04T20:44:00+02:00
+- Ort: Rathaus Gronau, Konrad-Adenauer-Straße 1, 48599 Gronau, Sitzungssaal
+- Status: 
+- Gremium: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-21
+- Ratsinformationssystem: https://gronau.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZUJB3xMZUf2otXh41CaXzJ4
+- OParl: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/2285
+- Quelle: https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZYHHRjm_Z2A-MtnTIB6VIlfA4oOSqUHMIf_C2L9pr_hL/Bekanntmachung_Rat_04.07.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://gronau.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTt-6btRFTkHqJRSOEZv7EnuN4Fgx_uVOmgkIVVOAiLU/Oeffentliche_Niederschrift_Rat_04.07.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Beschlussfähigkeit
+- TOP 2.: Einwohnerfragestunde
+- TOP 2.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.1.1: Niederschrift vom 23.05.2012
+- TOP 3.: Anregungen und Beschwerden gem. § 24 GO NRW Eingabe 06/2012; Errichtung eines innerstädtischen Einkaufszentrums - Antrag des Bürgervereins Dinkelaue vom 25.06.2012 - - Einstimmig, 0 Enthaltungen
+- TOP 4.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2010 Bestätigung und Feststellung des Ergebnisses sowie die Behandlung des Jahresfehlbetrages - Ohne Abstimmung
+- TOP 5.: Prüfung des Jahresabschlusses der Stadt Gronau (Westf.) für das Haushaltsjahr 2010 Entlastung des Bürgermeisters - Einstimmig, 0 Enthaltungen
+- TOP 6.: Jahresabschluss 2011 der Sparkasse Gronau Kenntnisnahme des Jahresabschlussergebnisses Beschluss über die Verwendung des Jahresüberschusses - Einstimmig, 1 Enthaltungen
+- TOP 7.: Jahresabschluss 2011 der Sparkasse Gronau Entlastung der Organe der Sparkasse Gronau - Einstimmig, 0 Enthaltungen
+- TOP 8.: Jahresabschluss 2011 der rock´n popmuseum GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 1 Enthaltungen
+- TOP 9.: Jahresabschluss 2011 der rock´n popmuseum GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 10.: Jahresabschluss 2011 der rock´n popmuseum GmbH 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 11.: Jahresabschluss 2011 der Kulturbüro Gronau GmbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 1 Enthaltungen
+- TOP 12.: Jahresabschluss 2011 der Kulturbüro Gronau GmbH 3. Entlastung des Geschäftsführers - Einstimmig, 0 Enthaltungen
+- TOP 13.: Jahresabschluss 2011 der Kulturbüro Gronau GmbH 4. Entlastung des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 14.: Jahresabschluss 2011 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 1. Feststellung des Jahresabschlusses 2. Ergebnisverwendung - Einstimmig, 0 Enthaltungen
+- TOP 15.: Jahresabschluss 2011 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 3. Entlastung der Geschäftsführerin - Einstimmig, 0 Enthaltungen
+- TOP 16.: Jahresabschluss 2011 der Chance Gemeinnützige Beschäftigungsgesellschaft der Stadt Gronau mbH 4. Entlastung der Mitglieder des Aufsichtsrates - Einstimmig, 0 Enthaltungen
+- TOP 17.: Jahresabschluss 2011 der GFA Gesellschaft für Arbeitsförderung mbH 1. Jahresabschlussergebnis 2011 2. Behandlung des Jahresfehlbetrages 3. Entlastungen - Ohne Abstimmung
+- TOP 18.: Beteiligung der Stadtwerke Gronau GmbH an der Trianel GmbH, Aachen Umwandlung von Rücklagen in Stammkapital (Kapitalerhöhung aus Gesellschaftsmitteln) - Einstimmig, 0 Enthaltungen
+- TOP 19.: Bürgerantrag Nr. 3/2011; Antrag auf Übernahme des Zins- und Tilgungsdienstes für die Errichtung eines Kunstrasenplatzes auf dem Sportplatzgelände Spechtholtshook (Vorlage 339/2011) - Einstimmig, 0 Enthaltungen
+- TOP 20.: Schulentwicklungsplanung 2011 bis 2016 - Maßnahmen zur Sicherung eines bedarfsgerechten Schulangebotes hier: Verlagerung des Schulstandortes Wilhelmschule - 27 Jastimmen, 12 Neinstimmen, 1 Enthaltungen
+- TOP 21.: Neue Schulform „Sekundarschule“ in Gronau - Längeres gemeinsames Lernen - Einstimmig, 0 Enthaltungen
+- TOP 22.: Änderung der Entgeltordnung für die Musikschule der Stadt Gronau - Einstimmig, 0 Enthaltungen
+- TOP 23.: Änderung der Elternbeitragssatzung in Kindertageseinrichtungen und der Tagespflegebeitragssatzung - Einstimmig, 1 Enthaltungen
+- TOP 24.: Vertrag zwischen der Stadt Gronau und dem DRK -gm. Gesellschaft für Soziale Arbeit und Bildung im Kreis Borken mbH - Einstimmig, 0 Enthaltungen
+- TOP 25.: Lärmschutzwand "Dr.-Selbert-Straße" hier: Konkretisierung des Bauprogramms - 35 Jastimmen, 4 Neinstimmen, 2 Enthaltungen
+- TOP 26.: Bebauungsplan Nr. 43 "Freiherr-von-Vincke-Straße", 2. Änderung, Stadtteil Gronau (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) Aufstellungsbeschluss Beteiligung der Öffentlichkeit Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 27.: Bebauungsplan Nr. 207 "Nieland", 3. Änderung, Stadtteil Epe (Bebauungsplan der Innenentwicklung gem. § 13a BauGB) 1. Aufstellungsbeschluss 2. Beteiligung der Öffentlichkeit 3. Beteiligung der Behörden - Einstimmig, 0 Enthaltungen
+- TOP 28.: Besetzung von Ausschüssen und sonstigen Gremien - Einstimmig, 0 Enthaltungen
+- TOP 29.: Wahl eines beratenden Mitglieds und dessen Stellvertreter/in für den Jugendhilfeausschuss aus der Mitte des Integrationsausschusses - Einstimmig, 0 Enthaltungen
+- TOP 30.: Berichte aus den Aufsichtsräten stadteigener Gesellschaften
+- TOP 31.: Mitteilungen der Verwaltung
+- TOP 32.: Anfragen
+- TOP 32.1: Zuwendungen durch Urteilsspruch an Gronauer Institutionen (RM Lüttikhuis)
+- TOP 32.2: Sperrung der Spielplätze auf dem Laga-Gelände? (RM von Borczyskowski)
+- TOP 32.3: Kanalausbau/-sanierung an der Spechtholtstraße (RM Hönerlage)
+- TOP 32.4: Terminierung des Abrisses der ehemaligen Hans-Christian-Andersen-Schule (RM Doetkotte)
