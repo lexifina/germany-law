@@ -1,0 +1,26 @@
+# Aufstellung des Bebauungsplanes Nr. 32 - Ortsteil Steinhagen - („Südlich Osterfeldstraße / östlich Cottbuser Straße)
+
+- Körperschaft: Gemeinde Steinhagen
+- Drucksache/Vorlage: VL-439-2009/2014 1. Ergänzung
+- Art: Beschlussvorlage
+- Datum: 2012-07-04
+- Ratsinformationssystem: https://ratsinfo.steinhagen.de/vorgang/?__=UGhVM0hpd2NXNFdFcExjZeYb6XHrcdfSpISpat_tRZA
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/paper/1522
+- Quelle: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Hauptdokument: Beschlussvorlage (Aufstellung des Bebauungsplanes Nr. 32 - Ortsteil Steinhagen - („Südlich Osterfeldstraße / östlich Cottbuser Straße)) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZT-yHFgkbH_8MCLhXz9BHxpT_tsG5B8xmtgqmSre5k9b/Beschlussvorlage_VL-439-2009-2014_1._Ergaenzung.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZV1zrz-_bBRH8pe1D5EDjQc5RTBxJKLTCFAP1qhA1FC-/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVNTthKNESBqhpSZKM7dJgqTnkjAb01ZRtKkeBnCKKOM/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZR8CmNOlj-_wpNJH5t0X87mykbM90uBXF_SMYLBnBjcO/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZUzc9StnEoPyE7Ne8e8C69Yzs9nN04EnWUdV7MS8Upd_/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZb4jQ7qfzi452kBOuQGUIvVCa0FxhdWr_B9OfqE_TKfE/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZa7j9DHyY-KvSLtE6D3OaUO2n0dKE1ORIdQoATEEtkg3/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZbIlCCuaFAKrAr1Ko_cwiIs_GlGhCJseduAknKhfOXPv/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZZwfPzwIoYxL3EQYKnYq7dmLX8bCt03GXe46Y-PFboRc/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVbMUiSoegs46hO-YJcSpFsDn6TCUOCgFpKDSrm2mH7e/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZVPa6v6PVyNkomJvmXfz82UyBVpxpLkKJRkB_IrffNJL/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZQnufiLDxssrxp2JuFcBjlSIDBmK1-SoucVeVsZ80kZo/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZW637IP4CawMBM3XlLG-M8wzao7j4q1aFP7fyuNqPPU8/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZd3Yqi_D_jl8Q814-fq_YjkY6a90F9hHuTFZIMzgzxwU/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Anlage: Beschlussvorlage (Anlage zur Beschlussvorlage VL-439-2009/2014) https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZfAdnI8UKPsPW2KQabTJYgp0LOyHlbHyZpY2DTyBPalu/Anlage_zur_Beschlussvorlage_VL-439-2009-2014.pdf
+- Beratung:  https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/meeting/1042 https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/1-9
+- underDirectionOf: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/organization/3-186
