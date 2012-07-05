@@ -1,0 +1,69 @@
+# Rat
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-07-05T14:00:00+02:00
+- Ende: 2012-07-05T21:10:00+02:00
+- Ort: Marktplatz 2, 40213 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/6
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5514
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5514
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00179667.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00179667.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00179667.pdf
+
+## Tagesordnung
+
+- TOP 1: Vereidigung des Beigeordneten Prof. Dr. Meyer-Falcke - zur Kenntnis genommen
+- TOP 2: Anerkennung TO - mehrheitlich beschlossen
+- TOP 3: Genehmigung NS - einstimmig beschlossen
+- TOP 4: Reihenfolge Vertretung des Oberbürgermeisters - mehrheitlich beschlossen
+- TOP 5: Aktuelle Anfragen
+- TOP 5.1: Anfrage aktuell der SPD: Keine Schiffe mehr nach Kaiserswerth? - beantwortet
+- TOP 5.2: Anfrage aktuell Freie Wähler: : Public Viewing beim 1. Bundesliga Heimspiel von Fortuna Düsseldorf - beantwortet
+- TOP 6: Anfragen
+- TOP 6.1: Anfrage CDU und FDP: Carsharing in Düsseldorf - beantwortet
+- TOP 6.2: Anfrage SPD: Ausbildung von Hartz IV BezieherInnen zu ErzieherInnen - beantwortet
+- TOP 6.3: Anfrage Die Linke: Feuerwehrkartell - beantwortet
+- TOP 6.4: Anfrage Die Linke: Einsatz von städtischen Betriebsprüferinnen im Bereich Gewerbesteuer - schriftlich beantwortet
+- TOP 6.5: Anfrage SPD: Reisholzer Hafen: Wie beteiligt sich die Verwaltung am Großprojekt? - schriftlich beantwortet
+- TOP 6.6: Anfrage Rh Wurm Wie geht es weiter mit „PLATZDA!“? - schriftlich beantwortet
+- TOP 6.7: Anfrage Rh Laubenburg: angfristige Verbindlichkeiten der Landeshauptstadt Düsseldorf durch „Investor - schriftlich beantwortet
+- TOP 6.8: Anfrage Rh Laubenburg: Steuereinnahmen der Landeshauptstadt Düsseldorf - schriftlich beantwortet
+- TOP 6.9: Anfrage Bü90-Grü: Restrukturierungsplan für die WestLB AG - schriftlich beantwortet
+- TOP 6.10: Anfrage Rfr. Kraft-Dlangamandla: Räumung des Occupy-Camps - schriftlich beantwortet
+- TOP 7: Bericht aus der Kleinen Kommission Wehrhahnl-Linie - zur Kenntnis genommen
+- TOP 8: Bericht aus der Kleinen Kommission Kö-Bogen - zur Kenntnis genommen
+- TOP 9: Fliednerstraße 32, Sanierung Bastionsmauer - Ausführungs- und Finanzierungsbeschluss - - mehrheitlich beschlossen
+- TOP 10: Übergabe Kita Carl-Fredrich-Goerdeler-Straße zu SOS Kinderdorf e.V. - mehrheitlich beschlossen
+- TOP 11: Richtlinien zur Umsetzung des Programms "GrunderwerbsfördR" - mehrheitlich beschlossen
+- TOP 12: Verwaltungsrat der Stadtsparkasse - einstimmig beschlossen
+- TOP 13: Jahresabschluss 2011 der Stadtsparkasse Düsseldorf - einstimmig beschlossen
+- TOP 14: Aufsichtsrat der Zukunftswerkstatt Düsseldorf GmbH - Ersatzwahl - - einstimmig beschlossen
+- TOP 15: Aufsichtsrat der Rhein Cargo GmbH & Co. KG - Neuwahl - - einstimmig beschlossen
+- TOP 16: Wiederbestellung von Mitgliedern des Gutachterausschusses für Grundstückswerte - einstimmig beschlossen
+- TOP 17: Tanzkongress 2013 - einstimmig beschlossen
+- TOP 18: Änderung der Bestimmungen zur Verleihung der Förderpreise für bildende Kunst, darstellende Kunst, Mu - mehrheitlich beschlossen
+- TOP 19: Satzung der unselbständigen Stiftung Metzeler - Kakiemon - einstimmig beschlossen
+- TOP 20: Annahme einer Schenkung für den Aquazoo/Löbbecke-Museum - einstimmig beschlossen
+- TOP 21: Neuwahl einer Schiedsperson - einstimmig beschlossen
+- TOP 22: Umbesetzung von Ausschüssen - einstimmig beschlossen
+- TOP 23: Regionalplanfortschreibung - Darstellung der städtischen Planungsüberlegungen für die Meldung an die - mehrheitlich beschlossen
+- TOP 23.1: Erg. Antrag SPD: Regionalplanfortschreibung: - zur Kenntnis genommen
+- TOP 23.2: Erg. Antrag Freie Wähler: ie Grenzen des Wachstums erkennen - Frei- und Grünflächen bewahren - zur Kenntnis genommen
+- TOP 23.3: Erg.Antrag Bü90/Grü: Regionalplanfortschreibung - zur Kenntnis genommen
+- TOP 24: Anträge
+- TOP 24.1: Antrag der Ratsfraktionen von CDU und FDP: Oberbilker Markt - einstimmig beschlossen
+- TOP 24.2: Antrag Die Linke: Kostenloses Internet in Düsseldorf - einstimmig abgelehnt
+- TOP 24.2.1: ÄA Bü90/GRÜ: Kostenloses Internet in Düsseldorf - zur Kenntnis genommen
+- TOP 24.3: Antrag Die Linke: Wahlrecht für alle Düsseldorferinnen und Düsseldorfer - einstimmig abgelehnt
+- TOP 24.4: Antrag Die Linke: Resolution: Fiskalpakt verhindern! - zur Kenntnis genommen
+- TOP 24.5: Antrag SPD: Tag des offenen Denkmals auf dem Tausendfüßler - einstimmig abgelehnt
+- TOP 24.6: Antrag SPD. Novellierung der Richtzahlen für den Stellplatz- und Fahrradabstellplatzbedarf
+- TOP 24.7: Antrag CDU und FDP: Kein Fracking auf Düsseldorfer Stadtgebiet
+- TOP 24.7.2: Antrag CDU, SPD; BÜ90/GRÜ und FDP: Kein Fracking auf Düsseldorfer Stadtgebiet
+- TOP 24.7.1: ÄA SPD: Kein Fracking auf Düsseldorfer Stadtgebiet
+- TOP 24.8: Antrag SPD: Veränderung von Produktzielen
+- TOP 24.9: Antrag Bü90-Grü und SPD: Bildungs- und Teilhabepaket - Konzept für nicht verausgabte Gelder
+- TOP 24.10: Antrag SPD und BÜ90-Grü. Bildung statt Betreuungsgeld
