@@ -1,0 +1,56 @@
+# Rat
+
+- Körperschaft: Klingenstadt Solingen
+- Beginn: 2012-07-05T17:00:00+02:00
+- Ende: 2012-07-05T18:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/organization/1-208
+- Ratsinformationssystem: https://sdnetrim.kdvz-frechen.de/rim4957/tops/?__=UGhVM0hpd2NXNFdFcExjZQx3Z5RqYd2W0G6FfryTHjc
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/meeting/4028
+- Quelle: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZRPDYcD4Rb_NANaRE_ZBtivs02ZjHe544AFTUcxFwsdg/Oeffentliche_Niederschrift_Rat_05.07.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 3: Protokoll über die 22. Sitzung des Rates am 24.05.2012
+- TOP 4: Protokoll über die 23. Sitzung des Rates am 05.07.2012
+- TOP 5: Vorschlag für die En-bloc-Abstimmung
+- TOP 6: Vorschlag für die En-bloc-Abstimmung
+- TOP 7: Umbesetzung von Ausschüssen und Gremien
+- TOP 8: Abberufung eines Vertreters der Stadt Solingen aus dem Aufsichtsrat der Wirtschaftsförderung Solingen GmbH & Co. KG und Bestellung eines Vertreters der Stadt Solingen in diesen Aufsichtsrat
+- TOP 9: Entwurf der Jahresrechnung 2011
+- TOP 10: Einbringung des Haushaltsentwurfs für das Jahr 2013
+- TOP 11: Jahresabschluss der Stadt-Sparkasse Solingen mit Gewinn- und Verlustrechnung zum 31.12.2011 und Lagebericht 2011
+- TOP 12: Jahresabschluss der Stadt-Sparkasse Solingen mit Gewinn- und Verlustrechnung zum 31.12.2011 und Lagebericht 2011
+- TOP 13: Bürgerenergieinvest - Beteiligung von Bürgerinnen und Bürgern an der Energiewende
+- TOP 14: Bürgerenergieinvest - Beteiligung von Bürgerinnen und Bürgern an der Energiewende
+- TOP 15: Bündnis für Toleranz und Zivilcourage stärken
+- TOP 16: Einrichtung eines kommunalen Integrationszentrums
+- TOP 17: Technische Außerbetriebsetzung und Schließung des Hallenbads Birker Straße
+- TOP 18: Technische Außerbetriebsetzung und Schließung des Hallenbads Birker Straße
+- TOP 19: Preisübersicht/Entgelte für die Benutzung der Hallen- und Freibäder der Solinger Bädergesellschaft mbH
+- TOP 20: Außerordentliche Kündigung der öffentlich-rechtlichen Vereinbarung
+- TOP 21: Soziale Stadt - Solinger Nordstadt
+- TOP 22: Soziale Stadt - Solinger Nordstadt
+- TOP 23: Bauleitplanung Düsseldorfer Straße/Forststraße
+- TOP 24: Bauleitplanung Mummstraße
+- TOP 25: Bauleitplanung Heiligenstock/Aachener Straße
+- TOP 26: Bauleitplanung Heiligenstock/Aachener Straße
+- TOP 27: Verschiedenes
+- TOP 28: Anatolia on Tour
+- TOP 29: Beteiligung der Öffentlichkeit zum Thema SWS-Rückkaufdebatte
+- TOP 30: Verkehrssituation im Bereich des Industriegebietes Scheuren
+- TOP 31: Polizeieinsatz am 1. Mai 2012
+- TOP II.: Nichtöffentlicher Teil
+- TOP 1: Befangenheitserklärungen gemäß § 31 Gemeindeordnung NRW
+- TOP 2: Protokoll über die 22. Sitzung des Rates am 24.05.2012
+- TOP 3: Protokoll über die 23. Sitzung des Rates am 05.07.2012
+- TOP 4: Einspruch gemäß § 57 Abs. 4 GO NRW
+- TOP 5: Zukunft der Stadtwerke
+- TOP 6: Verschiedenes
+- TOP 7: Gewerbeflächen in Solingen
+- TOP 8: Bauleitplanung Heiligenstock/Aachener Straße
