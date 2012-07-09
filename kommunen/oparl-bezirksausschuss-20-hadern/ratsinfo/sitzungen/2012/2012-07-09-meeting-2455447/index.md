@@ -1,0 +1,79 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-07-09T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455447
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455447
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Baustelle Willibaldstraße / Krokusstraße
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Budget
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters über die Projektplanung: Sanierung Bolzplatz Stiftsbogen 15 a (Baureferat, 12.06.12)
+- TOP 5.2.: Budget der Bezirksausschüsse, STÜPS Schulsozialarbeit an der Grundschule Blumenau, Präventionsprojekt von Oktober - Dezember 2012 (Direktorium, 21.06.12)
+- TOP 5.3.: Budget der Bezirksausschüsse, Regsam e.V., Blumenauer Sommerfest am 21.07.2012 (Direktorium, 21.06.12)
+- TOP 5.5.: Budget der Bezirksausschüsse, Johanniter-Unfall-Hilfe e.V., Workshopplätze vom 06.08.-09.09.2012 (Direktorium, 28.06.12)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Stellungnahme der Bezirksausschüsse zum Entwurf des Lärmaktionsplans für München (Referat für Gesundheit und Umwelt, 24.05.12) (Vertagt aus 06/12)
+- TOP 6.2.: Erinnerungsorte München / NS-Geschichte (Kulturreferat, 04.06.12) (Vertagt aus 06/12)
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Pelargonienweg Anwohnerstraßenfest am 21.07.2012 (Kreisverwaltungsreferat, 12.06.12) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.4.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Canisiusplatz Schulfest staatl. Grundschule am 13.07.2012 (Kreisverwaltungsreferat, 11.06.12) Eilentscheidung des Vorstandes: Zustimmung
+- TOP 6.5.: Stadtjugendamt / Förderung freier Träger, Haushaltsjahr: 2013 Projekt: Nachbarschaft Neuhadern, Bewohnertreff (Sozialreferat, 06.06.12)
+- TOP 6.6.: Erweiterung der BA-Vertretungen in Wettbewerben, Antrag BA 5 Au-Haidhausen (Direktorium, 26.06.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Sonnenblumenstraße 50, gem. Baumbestandsplan Nr. 9364
+- TOP 7.2.: Silberblattstraße 9, gem. Baumbestandsplan Nr. 10872
+- TOP 7.3.: Brunellenweg 45, 1 Föhre und 1 Tanne
+- TOP 7.4.: Fürstenrieder Straße 284, 1 Robinie
+- TOP 7.5.: Gräfelfinger Straße 108, 1 Ahorn
+- TOP 7.6.: Gräfelfinger Straße 73, 1 Weide
+- TOP 7.7.: Heiglhofstraße 28 a, 1 Blaukiefer und 1 Seidentanne
+- TOP 7.9.: Wildtaubenweg 3, 2 Scheinzypressen
+- TOP 7.10.: Willibaldstraße 114 - 114 a, 1 Schwarzkiefer
+- TOP 7.12.: Pfingstrosenstraße 1, gem. Baumbestandsplan Nr. 10695
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Burg-Eltz-Weg 1, 1 Birke (Referat für Stadtplanung und Bauordnung, 13.06.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Rohrkanalsanierung Fürstenried / Großhadern-Ost (Münchner Stadtentwässerung, 14.06.12)
+- TOP 8.2.: Baumaßnahmen der SWM: - Stromprojekt Netztrafostation Rolf-Pinegger-Straße, Änderung im Terminablauf (SWM, 06.06.12) - Stromprojekt Haseneystraße (SWM, 29.05.12) - Stromprojekt Rolf-Pinegger-Straße (SWM, 25.05.12)
+- TOP 8.3.: Auslagerung des städtischen Kindergartens Waldwiesenstraße 27 (Referat für Bildung und Sport, 29.05.12)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Terofalstraße (Sozialreferat, 24.05.12)
+- TOP 8.6.: Genehmigung der Bedarfsanmeldung: Sauerbruchstraße zwischen Tischlerstraße und Max-Lebsche-Platz (Baureferat, 18.06.12)
+- TOP 8.7.: Baumaßnahmen der SWM, Seismikmessungen in der Stadt München und in Freiham, Natürliche Energie aus der Tiefe: Geothermie (SWM, 15.06.12)
+- TOP 8.8.: Umbau und erstmalige Herstellung Schröfelhofstraße (Baureferat, 15.06.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.2.: Baumschnitt, Grünanlage zwischen Silberdistelstraße und westlicher Veilchenstraße (Baureferat, 25.05.12)
+- TOP 9.3.: Wertstoffsammelstelle Kriegerheimstraße / Pfingstrosenstraße (AWM, 29.05.12)
+- TOP 11: Verschiedenes
+- TOP 11.1.: Neuer Regionaler Sozialatlas (Sozialreferat, 15.06.12)
+- TOP 11.2.: Jahresbericht 2011 der GWG München (GWG, 04.06.12)
+- TOP 11.3.: Protokoll der Infoveranstaltung für Jugendbeauftragte der Bezirksausschüsse (Kreisjugendring München-Stadt, 31.05.12)
+- TOP 11.4.: Flyer "Münchner Appell" und Broschüre "Rechtsextreme Anmietungen - Schutz für Kommunen und Vermieter" (Direktorium, Fachstelle gegen Rechtsextremismus, 29.05.12)
+- TOP 11.6.: Neonazipropaganda in Pasing und Moosach (Feierwerk e.V., 20.06.12)
+- TOP 11.7.: Newsletter Condrobs (Condrobs, 25.06.12)
+- TOP 11.10.: Einladung zum Fachforum "Lüftungs-Anlagen im Wohnungsbau: Reinigung und Wartung" am Dienstag, 24.07.2012 (Referat für Gesundheit und Umwelt, 03.07.12)
+- TOP 11.1.: Vollversammlung
+- TOP 11.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08625 (zur Empfehlung der Bürgerversammlung Nr. 08-14 / E 00665 vom 28.09.2010): Einhausung A 96 (Derzeit keine Machbarkeitsstudie für das Stadtgebiet. Nach Vorliegen der Machbarkeitsstudie der Gemeinde Gräfelfing und nach Abschluss der laufenden Untersuchungen zum Handlungsprogramm "Mittlerer Ring (Landshuter Allee, Tegernseer Landstraße)" soll das Planungsreferat erneut berichten.)
+- TOP 11.3.: Vorberatende Ausschüsse
+- TOP 11.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 11.2.: Beschluss des Bauausschusses vom 12.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08433: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und -sicherungsverordnung der Landeshauptstadt München Verschmutzungsabgabe für Fast-Food-Betriebe (aus Rechtsgründen abgelehnt)
+- TOP 11.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09305: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) Die vom BA Hadern geforderte Erhöhung der Richtwerte für diverse Nutzungen wird vom Planungsreferat abgelehnt. In 3 - 4 Jahren soll eine Überprüfung erfolgen (S. 31 - 32).
+- TOP 11.4.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Ausschusses für Arbeit und Wirtschaft und des Finanzausschusses vom 13.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09511: Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse (Die Anrechnung des "fiktiven Wohnbaurechts" wird beibehalten. In "Altfällen" erfolgt eine Behandlung nach bisheriger Verwaltungspraxis. In "Neufällen" ist das sich ergebende Förder-Delta durch Vereinbarungen im städtebaulichen Vertrag zu binden. Für "Übergangsfälle" werden Lösungsvorschläge erarbeitet, die sich an den "tragenden Entscheidungsmaßstäben" orientieren.)
+- TOP 11.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 11.3.1: Gefasste Beschlüsse
+- TOP 11.3.2: Referentenanträge
