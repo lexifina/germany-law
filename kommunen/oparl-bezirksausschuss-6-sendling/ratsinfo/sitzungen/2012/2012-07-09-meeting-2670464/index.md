@@ -1,0 +1,61 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2012-07-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2670464
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2670464
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Mieterbeiratswahl 2012
+- TOP 3.2.: Regionaler Sozialatlas
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen
+- TOP 6.1.: Fahrradstellplatzkonzept Harras
+- TOP 6.2.: Straßenfest Engelhardstraße am 18.08.2012
+- TOP 6.3.: Straßenfest Daiserstr. 28.07.2012
+- TOP 6.4.: Straßenfest Margaretenplatz am 22.07.2012
+- TOP 6.5.: Baumaßnahmen der SWM
+- TOP 7.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 7.3.: Mitgliederwechsel in Unterausschüssen
+- TOP 7.4.: (E) Budget der Bezirksausschüsse Init. Historische Lernorte Sendling c/o L. Brux Recherchekosten 2012 für das Projekt "Sendling - arisiert" - <div>durch Antragsteller zurückgezogen</div>
+- TOP 7.5.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Implerstraße Instandsetzung und Neuanstrich der Schulhofmauer - <div>Vertagung bis Antwort von RBS vorliegt</div>
+- TOP 7.6.: (E) Budget der Bezirksausschüsse SpVgg Thalkirchen-Freundschaft e.V. Freundschaftsspiel am 13.07.2012 - <div>Bezuschussung in Höhe von  ? 1500,-</div>
+- TOP 7.7.: Bürgerschaftliche Nutzung im Sitzungssaal des SBH Meindlstraße
+- TOP 7.8.: Leserbrief an die SZ
+- TOP 7.9.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012 - <div>Zustimmung, einstimmig unter Bedingung</div>
+- TOP 7.10.: (E) Budget der Bezirksausschüsse Kantorat an der Himmelfahrtskirche München-Sendling Aufführung des Oratoriums "Paulus" - <div>Bezuschussung in Höhe von ? 2000,-</div>
+- TOP 7.11.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 10.08.2012 - <div>Bezuschussung in voller Höhe</div>
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Aberlestr. 31 - 35
+- TOP 8.3.: Veranstaltungen auf dem Gelände des HC Wacker
+- TOP 8.4.: Gestaltungsworkshop Clearinghaus Plinganserstraße
+- TOP 8.5.: Aufnahme der Mietwohnanlage im Umgriff Karwendelstraße (beidseitig), Dudenstraße (nördlich) und Plinganserstraße (westlich) in die Erhaltungssatzung BV-Empfehlung Nr. 08-14 / E 00685 / BA-Antrag Nr. 08-14 / B 02662
+- TOP 8.6.: Sozialgerechte Bodennutzung
+- TOP 8.7.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung
+- TOP 8.8.: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung
+- TOP 9: Baureferat
+- TOP 9.1.: Elektroanschlüsse und Christbaumfundament am Harras
+- TOP 9.2.: Markierung der Jogging-Strecke zwischen Schyrenbad und Großhesseloher Brücke
+- TOP 9.3.: Nutzungsüberlassung eines Teilstücks der Stemmerwiese an einen Imker
+- TOP 9.4.: Aufstellung von Abfalleimern und Aschenbechern an U-Bahnhöfen
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Kraelerstraße 5
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 1: (E) Errichtung von drei zusätzlichen Basketballkörben auf dem öffentlichen Spielplatz in den Neuhofener Anlagen Empfehlung Nr. 08-14 / E 01090 der Bürgerversammlung des Stadtbezirkes 6 Sendling am 13.10.2012 - <div>Zustimmung, einstimmig</div>
+- TOP 12: Anträge
+- TOP 13: Verschiedenes
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
