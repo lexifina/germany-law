@@ -1,0 +1,123 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-07-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2397691
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2397691
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 4.1.: Beantwortung der Fragen aus der Sitzung am 07.02.2012
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 30.05.2012 Beschwerde wegen Lärmbelästigung durch Gaststätte, Schellingstraße 23 (s. auch TOP C 2.3.1)
+- TOP 5.2.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 02.06.2012 Beschwerde über die zu geringe Anzahl an Abfallkörben in der Maxvorstadt
+- TOP 5.2.3.: Schreiben eines Bürgers aus der Maxvorstadt vom 07.06.2012 der eine verstärkte Kontrolle der Radfahrer im Universitätsviertel fordert (s. TOP C 2.2.2)
+- TOP 5.2.4.: Schreiben einer Bürgerin aus der Theresienstraße vom 18.06.2012 Beschwerde über nächtliche Straßenbauarbeiten (s. TOP C 2.2.4)
+- TOP 5.2.5.: Beschwerde einer Bürgerin aus der Maxvorstadt über ein Lokal in der Augustenstraße (Bestuhlung, Sperrstunde), s. auch TOP C 2.3.3
+- TOP 5.2.6.: Beschwerde eines Bürgers aus der Maxvorstadt vom 18.06.2012 Lärmbelästigung durch Roller Skater auf dem Georg-Elser-Platz (s. TOP C 2.2.6)
+- TOP 5.2.7.: Bitte einer Bürgerin aus der Maxvorstadt, der BA 3 möge sich für den Erhalt der Bäume auf dem Gebiet der Tierärztlichen Fakultät einsetzen
+- TOP 5.2.8.: Antrag eines Bürgers aus der Maxvorstadt vom 25.06.2012 zur Bildung einer Bürgerwehr gegen Verstöße im Gaststättenrecht
+- TOP 5.2.9.: Schreiben einer Bürgerin aus der Maxvorstadt vom 27.06.2012 Parklizenzgebiete Giselastraße und Schönfeldstraße (s. TOP C 2.1.3)
+- TOP 1: Anträge (1)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 21., 22., 23., 24., KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen
+- TOP 2.1.3.: Adalbertstraße 100, DG-Ausbau und Fassadensanierung, Anbau von Balkonen und einer Aufzuganlage
+- TOP 2.1.4.: Heßstraße 90, Einbau einer Wohnung in ein Nebengebäude, Vorbescheid
+- TOP 2.1.5.: Dachauer Straße 14, Nutzungsänderung Nebenflächen zu Gaststätte
+- TOP 2.1.6.: Enhuberstraße 1, Teilumbau mit Nutzungsänderung Wohnung in Gastraum sowie Büro in Wohnung
+- TOP 2.1.7.: Augustenstraße 117, Nutzungsänderung eines ehem. Speichers zu zwei Wohnungen, Errichtung von zwei Dachterrassen und vier Gauben
+- TOP 2.1.8.: Baureferat Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2056 Deroystraße (östlich) zwischen Tillystraße und Arnulfstraße
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Loristraße 6, eine Waldkiefer
+- TOP 2.2.2.: Adalbertstraße 96, eine Robinie
+- TOP 2.2.3.: Theresienstraße 60, eine Weide
+- TOP 2.2.4.: Nymphenburger Straße 46 a Rgb., eine Waldkiefer
+- TOP 2.2.5.: Loristraße 6-8, eine Zierkirsche
+- TOP 2.2.6.: Theresienstraße 90, ein japanischer Schnurbaum, 1 Eberesche
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 07.06.2012 der eine verstärkte Kontrolle der Radfahrer im Universitätsviertel fordert (s. TOP A 5.2.3)
+- TOP 2.1.2.: Einrichtung einer werktäglichen Anlieferungszone für Zulieferer in der Nymphenburger Straße/Kreuzung Stiglmaierplatz (TOP C 2.1.1/0612) Antwortschreiben der Polizeiinspektion 42 vom 25.06.2012
+- TOP 2.1.3.: Schreiben einer Bürgerin aus der Maxvorstadt vom 27.06.2012 Parklizenzgebiete Giselastraße und Schönfeldstraße (s. TOP A 5.2.9)
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 02.06.2012 Beschwerde über die zu geringe Anzahl an Abfallkörben in der Maxvorstadt (s. auch TOP A 5.2.2)
+- TOP 2.2.2.: (E) Budget der Bezirksausschüsse Urbanes Wohnen e.V. Wanderbaumallee ab 01.08.2012
+- TOP 2.2.3.: Der Bezirksausschuss 10 bittet um Unterstützung zur Empfehlung Nr. 08-14 / E 01072 der Bürgerversammlung des Stadtbezirkes 10 Moosach vom 11.10.2011 Aufstellung von Abfalleimern und Aschenbechern an den U-Bahnhöfen in Moosach
+- TOP 2.2.4.: Schreiben einer Bürgerin aus der Theresienstraße vom 18.06.2012 Beschwerde über nächtliche Straßenbauarbeiten (s. TOP A 5.2.4)
+- TOP 2.2.5.: Baureferat, Kunst im öffentichen Raum Ausstellungscontainer der Galerie Van de Loo auf dem Parkstreifen der Gabelsbergerstraße (auf Seite der Pinakothek) vom 14. bis 21.09.2012 anlässlich der Open Art 2012
+- TOP 2.2.6.: Beschwerde eines Bürgers aus der Maxvorstadt vom 18.06.2012 Lärmbelästigung durch Roller Skater auf dem Georg-Elser-Platz (s. TOP A 5.2.6)
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Schreiben eines Bürgers aus der Maxvorstadt vom 30.05.2012 Beschwerde wegen Lärmbelästigung durch Gaststätte, Schellingstraße 23 (s. TOP A 5.2.1) einschließlich Stellungnahme der Bezirksinspektion Mitte
+- TOP 2.3.2.: Kreisverwaltungsreferat, Freischankflächen Schelingstraße 45 Schellingstraße 23
+- TOP 2.3.3.: Beschwerde einer Bürgerin aus der Maxvorstadt über ein Lokal in der Augustenstraße (Bestuhlung, Sperrstunde), s. auch TOP A 5.2.5
+- TOP 2.3.4.: Antrag eines Bürgers aus der Maxvorstadt vom 25.06.2012 zur Bildung einer Bürgerwehr gegen Verstöße im Gaststättenrecht (s.auch TOP A 5.2.8)
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Kommunalreferat, Referat für Arbeit und Wirt- schaft, Beschlussvorlage Sozialgerechte Bodennutzung ? Der Münchner Weg, Fortschreibung der Stadtratsbe- schlüsse Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Kommu- nalausschusses, des Ausschusses für Arbeit und Wirtschaft und des Finanzausschusses vom 13.06.2012 Sitzungsvorlage Nr. 08-14 / V 09511
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung, Untere Naturschutzbehörde, Erlaubnisbescheid Fällungsantrag vom 17.04.2012, Adelheidstraße 7
+- TOP 1.3.: Sozialreferat, Amt für Wohnen und Migration, Wohnraumerhalt Vollzug der Erhaltungssatzung Georgen-/Zentnerstraße/Josephsplatz Genehmigung nicht baugenehmigungspflichtiger Modernisierungsmaßnahmen am Objekt Isabellastraße 13
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission, Baugenehmigung Türkenstraße 52, Abbruch und Neuerrichtung eines Wohn- und Geschäftshauses mit Tiefgarage
+- TOP 1.5.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich I/26, Linprunstraße (südlich), Sandstraße (westlich) Billigungsbeschluss und vorbehaltlich endgültiger Beschluss Sitzungsvorlage Nr. 08-14 / V 09545
+- TOP 1.6.: Referat für Stadtplanung und Bauordnung, Stadtplanung Bebauungsplan mit Grünordnung Nr. 1951, Linprunstraße (südlich), Sandstraße (westlich) (Teiländerung des Bebauungsplanes Nr. 496) Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 Sitzungsvorlage Nr. 08-14 / V 09607
+- TOP 1.7.: Referat für Stadtplanung und Bauordnung, Kommunalreferat, Referat für Arbeit und Wirt- schaft, Stadtkämmerei Sozialgerechte Bodennutzung ? Der Münchner Weg, Fortschreibung der Stadtratsbe- schlüsse A: Anpassung der Verwaltungspraxis zum fiktiven Wohnbaurecht B: Anträge Beschluss der Vollversammlung des Stadtrates vom 27.06.2012 Sitzungsvorlage Nr. 08-14 / V 09511
+- TOP 1.8.: Referat für Stadtplanung und Bauordnung, Referat für Bildung und Sport Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen ? Sachstandsbericht zum 31.03.2012 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und sport vom 04.07.2012 Sitzungsvorlage Nr. 08-14 / V 09477
+- TOP 1.9.: Referat für Stadtplanung und Bauordnung Erlass einer Erhaltungssatzung nach § 172 Abs. 1 Satz 1 Nr. 2 BauGB in den Stadtbezirken 3 (Maxvorstadt und 4 (Schwabing-West) Satzungsbeschluss Erhaltungssatzung ?Georgen-/, Zentnerstraße/Josephsplatz? Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 Sitzungsvorlage Nr. 08-14 / V 09551
+- TOP 1.10.: Referat für Stadtplanung und Bauordnung Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung Antrag Nr. 08-14 / A 02766 von Herrn Stadtrat Dr. Georg Kronawitter vom 22.09.2011 Antrag Nr. 08-14 / A 02873 der Stadtratsfraktion der CSU vom 03.11.2011 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom04.07.2012 Sitzungsvorlage Nr. 08-14 / V 09168
+- TOP 1.11.: Referat für Stadtplanung und Bauordnung Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Landeshauptstadt München) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 Sitzungsvorlage Nr. 08-14 / V 09600
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Ab- stellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.06.2012 Sitzungsvorlage Nr. 08-14 / V 09305
+- TOP 2.2.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Genehmigungsbescheid für Streetlife Festival/Corso Leopold am 09.06. und 10.06.2012
+- TOP 2.3.: Kreisverwaltungsreferats, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Pfarrfest derKath. Pfarrei St. Benno auf dem Ferdinand-Miller-Platz am 16.06.2012
+- TOP 2.4.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Hamburger Fischmarkt auf dem Wittelsbacherplatz vom 14.06. bis 24.06.2012
+- TOP 2.5.: Stadtwerke München Aufbau bzw. Austausch von Werbeanlagen in U-Bahnhöfen BA 3: U-Bahnhof Universität, Backlights an den Abgängen zur U-Bahn (an den Stürzen) ab Juli 2012
+- TOP 2.6.: Baumaßnahmen der Stadtwerke a) Karlstraße, Fernwärme b) Cluster 19, Glasfasererschließung c) Brienner Straße 53, Strom d) Schönfeldstraße 30, Strom f) Cluster 19 und 30, Telekommunikation g) Leopoldstraße 29, Stationsumbau h) Schellingstraße, REHA, Fernwärme e) Akademiestraße 11, Fernwärme
+- TOP 2.7.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid 34. Münchner Stadtlauf 2012 am 24.06.2012
+- TOP 2.8.: Referat für Gesundheit und Umwelt, Immissionsschutz Jahresgenehmigung für Arbeiten an Anlagen des ÖPNV im Rahmen der Geräte- und Maschinenlärmschutzverordnung (32. BimSchV); Ausnahmezulassung gem. § 7 Abs. 2 der 32. BimSchV für mechanische Instandhaltung Fahrweg Tram
+- TOP 2.9.: Kreisverwaltungsreferat, Verkehrsmanagement Aufhebung der Radwegbenutzungspflicht in der Luisenstraße
+- TOP 2.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Kunstaktion ?Ring um den Ring? der Bayer. Staatsoper am 23./24.06.2012 einschließlich Änderungsbescheid
+- TOP 2.11.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Arbeiten im Straßenraum, Donnersbergerbrücke (Brückensanierung), Bauphase 1 3. Verlängerung
+- TOP 2.12.: Baureferat, Tiefbau Radwegführung an der Kreuzung Loth-/Dachauer Straße
+- TOP 2.13.: Schreiben des Kreisverwaltungsreferates vom 15.06.2012 zur Beschlussvorlage BV-Emp- fehlung Nr. 08-14 / E 01110 ?Verkehrsberuhigung in der Augustenstraße, ggf. temporär gesperrt? (s. TOP C 2.1.6/0312)
+- TOP 2.14.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid 3. Münchner Sportfestival am 01.07.2012 auf dem Königsplatz
+- TOP 2.15.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Feuerwerk an der Königinstraße 5 am 03.07.2012 (Amerikanisches Generalkonsulat)
+- TOP 2.16.: Referat für Gesundheit und Umwelt, Immissionsschutz Jahresgenehmigung für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV), Straßenbau
+- TOP 2.17.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Ladezone Augustenstraße 31/33, Zeichen 283 StVO, Münchner Volkstheater
+- TOP 2.18.: Referat für Stadtplanung und Bauordnung, Verkehrsplanung Durchfahrtssperre am Königsplatz an Sonntagen BA-Antrag Nr. 2004 vom 13.03.2007
+- TOP 3.1.: Referat für Bildung und Sport, Beschlussvorlage Anhörungsverfahren zur Änderung der Volksschulorganisation in der Landeshauptstadt München; Sprengeländerung bzw. -errichtung der Grundschulen Blutenburgstraße 3, Hirschberg- straße 33 und Helmholtzstraße 6 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 02.05.2012 Sitzungsvorlage Nr. 08-14 / V 08960
+- TOP 3.2.: Referat für Bildung und Sport, Beschlussvorlage Errichtung eines Hauses für Kinder mit zwei Krippen- und zwei Kindergartengruppen inte- griert in den Neubau des Referates für Gesundheit und Umwelt an der Dachauer Straße 90 Beschuss des Kinder und Jugendhilfeausschusses vom 22.05.2012 Sitzungsvorlage Nr. 08-14 / V 9353
+- TOP 3.3.: Sozialreferat, Beschlussvorlage Mietereiratswahl 2012, Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder Beschluss des Sozialausschusses vom 05.07.2012 Sitzungsvorlage Nr. 08-14 / V 09342
+- TOP 4: Kultur
+- TOP 4.1.: Terminplanung 2013
+- TOP 4.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
