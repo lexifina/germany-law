@@ -1,0 +1,58 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2012-07-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2458339
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2458339
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.1.3: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.2.1: Vorstand
+- TOP 2.2.2: Unterausschuss Planung
+- TOP 2.2.3: Unterausschuss Verkehr
+- TOP 2.2.4: Unterausschuss Umwelt, Gesundheit
+- TOP 2.2.5: Unterausschuss Haushalt, Satzung
+- TOP 2.2.6: Unterausschuss Soziales, Bildung, Sport
+- TOP 2.2.7: Unterausschuss Kultur, Projekte
+- TOP 3: Bürgeranträge (ohne Vorberatung)
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 4.1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Recyclingcontainer Freischützstraße: Rückverlegung der 5 Wertstoffcontainer von der Freischützstr. 46 zur Freischützstr. 70
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.7.1: Direktorium
+- TOP 7.7.2: Baureferat
+- TOP 7.7.3: RGU
+- TOP 7.7.4: KommRef.
+- TOP 7.7.5: KVR
+- TOP 7.7.6: Kulturref.
+- TOP 7.7.7: PlanungsReferat
+- TOP 7.7.8: Referat für Bildung und Sport
+- TOP 7.7.9: Soz.Ref.
+- TOP 7.7.10: POR
+- TOP 7.7.11: Kämmerei
+- TOP 7.7.12: RAW
+- TOP 7.7.13: MVG
+- TOP 7.7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Berichte
+- TOP 8.8.1: Berichte der BA-Beauftragten
+- TOP 8.8.2: Evtl. Bericht der Polizei
+- TOP 9: Sonstiges
+- TOP 9.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Mitteilungen der BA-Vorsitzenden
+- TOP 9.9.3: Mitteilungen der MdBA
+- TOP 9.9.4: Termine
+- TOP 10: Nichtöffentlicher Teil
