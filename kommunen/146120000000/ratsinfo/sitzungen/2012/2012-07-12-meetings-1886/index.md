@@ -1,0 +1,68 @@
+# 43. Sitzung des Stadtrates
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-07-12T12:00:00+02:00
+- Ende: 2012-07-13T22:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://oparl.dresden.de/bodies/0001/organizations/gr/1
+- Ratsinformationssystem: http://oparl.dresden.de/bodies/0001/meetings/1886
+- OParl: http://oparl.dresden.de/bodies/0001/meetings/1886
+- Quelle: https://oparl.dresden.de/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung_SR_2012_07_12 http://oparl.dresden.de/bodies/0001/downloadfiles/a/00103623.pdf
+
+## Tagesordnung
+
+- TOP 1: Bericht der Oberbürgermeisterin
+- TOP 2: Fragestunde der Stadträtinnen und Stadträte
+- TOP 2.1: Kostenfreie Lernmittel zu Beginn des Schuljahres 2012/2013 - erledigt
+- TOP 2.2: Berichterstattung aus dem Stadtrat - erledigt
+- TOP 2.3: Schwimmhalle am Freiberger Platz - erledigt
+- TOP 2.4: Reparatur des Daches der Eishalle - erledigt
+- TOP 2.5: Bürgerhaushalt 2013/14 - erledigt
+- TOP 2.6: Stand der Vorbereitung und Schließung des Kulturpalastes - erledigt
+- TOP 2.7: Areal Straßburger Platz - Picknick - erledigt
+- TOP 2.8: Mögliche Folgen eines Brandereignisses unter dem Blauen Wunder (Loschwitzer Brücke) - erledigt
+- TOP 2.9: Medizinisches Versorgungszentrum an den städtischen Krankenhäusern - erledigt
+- TOP 2.10: Entwicklung Elberadweg - erledigt
+- TOP 2.11: Bürgerbüro Gorbitz - erledigt
+- TOP 2.12: Planungsstand Werkstattverfahren Seidnitz/Tolkewitz - erledigt
+- TOP 2.13: Fotoaktion in Kita sund Schulen - erledigt
+- TOP 3: Abschlussbericht des Zeitweiligen Ausschusses "Technisches Rathaus Hamburger Straße"
+- TOP 4: Tagesordnungspunkte ohne Debatte
+- TOP 5: Fortschreibung der Schulnetzplanung, Planteile Grundschulen, Mittelschulen, Gymnasien, berufsbildende Schulen, Schulen des zweiten Bildungsweges und Schulen in nicht kommunaler Trägerschaft - Zustimmung mit Änderung
+- TOP 6: Neubau einer 4-Feld-Sporthalle für das Gymnasium Dresden-Cotta, Cossebauder Str. 35, 01157 Dresden - Zustimmung mit Änderung
+- TOP 7: Schulkapazitäten effektiver nutzen - Vertagung
+- TOP 8: Sondervermögen Schulbauten - Vertagung
+- TOP 9: Investitionen in Schulinfrastruktur und Schulwegesicherheit als Einheit begreifen - Ablehnung
+- TOP 10: Vorhabenbezogener Bebauungsplan Nr. 6007, Dresden-Neustadt, Globus SB-Markt am Alten Leipziger Bahnhof - Zustimmung
+- TOP 11: Vorbildfunktion der Stadt Dresden erfüllen - Errichtung einer Photovoltaik-Anlage auf dem Rathausdach - Zustimmung mit Änderung
+- TOP 12: Dresdner Präventionsprogramm gegen Gewalt im Umfeld des Fußballs - Ersetzung
+- TOP 13: Entwicklung von Instrumentarien zur frühzeitigen Beteiligung von Bürgern an Bauvorhaben - Ablehnung
+- TOP 14: Kommunales Flächenmanagement für soziale und ökologische Ziele - Vertagung
+- TOP 15: Änderung/Ergänzung der Satzung der Landeshauptstadt Dresden über die Erhebung von Verwaltungskosten für Amtshandlungen in weisungsfreien Angelegenheiten (Kostensatzung) vom 20. Dezember 2007 - Zustimmung mit Änderung
+- TOP 16: Kostensatzveränderung in Folge der Neuausrichtung und Instandsetzung des Übergangswohnheimes Emerich-Ambros-Ufer 59 zum Übergangswohnheim mit 32 Betten für Wohnungslose - Zustimmung
+- TOP 17: Weiterführung Leasingvertrag bis zum Ende der Gesamtmietzeit 30.07.2020 für das Leasingobjekt Feuerwache Übigau - punktweise Zustimmung
+- TOP 18: Fortführung der Kooperationsvereinbarung zwischen dem Freistaat Sachsen, dem Land Hessen, der Stadt Frankfurt am Main sowie der Landeshauptstadt Dresden und der Forsythe Company gGmbH ab dem 01.01.2014 bis zum 31.12.2016 - punktweise Zustimmung
+- TOP 19: Fortsetzung des Mietverhältnisses zur Betreibung der kommunalen Kindertageseinrichtung Moritzburger Weg 67 c in 01109 Dresden durch einen Anschluss-Mietvertrag - Zustimmung
+- TOP 20: Aufnahme des Waldkindergartens Zschonergrund 2 in 01156 Dresden in den Bedarfsplan Kindertageseinrichtungen Dresden - Zustimmung
+- TOP 21: Bildung und Teilhabe aus einer Hand - Übertragung des Bildungspaketes vom Jobcenter Dresden auf die Landeshauptstadt Dresden - Zustimmung
+- TOP 22: Fortschreibung der Konsolidierung des Dresdner Straßennetzes Stand 2010 - Zustimmung
+- TOP 23: Stadtbahn 2020 - Sicherung der Vorplanung - Zustimmung
+- TOP 24: Vorplanung Straßenbahnverbindung Tiergartenstraße - Oskarstraße - punktweise Zustimmung
+- TOP 25: Fernwärmetrasse Dresden-Nord: Beschluss zum Fördergebietsumgriff und zur Maßnahme Fernwärmetrasse Dresden-Nord - Zustimmung
+- TOP 26: Vorhabenbezogener Bebauungsplan Nr. 698, Dresden-Nickern, Umnutzung eines Bestandsgebäudes - Zustimmung
+- TOP 27: Vorhabenbezogener Bebauungsplan Nr. 682, Dresden-Pieschen, Einkaufszentrum Großenhainer Straße - Zustimmung
+- TOP 28: Vorhabenbezogener Bebauungsplan Nr. 689, Dresden-Altstadt I, An der Herzogin Garten/Ostra-Allee/Am Schießhaus - Zustimmung
+- TOP 29: Vorhabenbezogener Bebauungsplan Nr. 6005, Dresden-Räcknitz, Fraunhofer IVI - Testoval - Zustimmung
+- TOP 30: Stadtgärtnern in Dresden ermöglichen und entwickeln - Ablehnung
+- TOP 31: Neuen Dresdner Mietspiegel aktualisieren und nutzerfreundlicher gestalten - Ablehnung
+- TOP 32: Öffentlichen Grillplatz "Am Hohen Stein" einrichten - Zustimmung mit Änderung
+- TOP 33: Standort "Bunker" in Prohlis - erhalten, Bürgerprojekte stärken - punktweise Abstimmung
+- TOP 34: Förderung von Hochwassereigenvorsorge - Ablehnung
+- TOP 35: Kindertageseinrichtungen Prellerstraße 8 - Zustimmung
+- TOP 36: Zweckgebundene Verwendung von Mitteln aus dem Verkauf der Immobilie "Haus der Jugend", Wiener Straße 41 - Ablehnung
+- TOP 37: Kleingärtner über Lkw-Trassenplanungen informieren – Einwohnerversammlung für Kaditz, Übigau und Mickten - Zustimmung mit Änderung
+- TOP 38: Umzugsbeihilfe auch an Studenten der Berufsakademie Sachsen - Staatliche Studienakademie Dresden ausgeben - Zustimmung
+- TOP 39: Plätze an den Kindertageseinrichtungen für die Erzieherinnen und Erzieher, sowie Grundschullehrerinnen und Grundschullehrer - Ablehnung
+- TOP 44: Beendigung des Wohnrückbauprogramms - Zustimmung mit Änderung
