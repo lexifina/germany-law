@@ -1,0 +1,60 @@
+# Rat (10. Sitzung)
+
+- Körperschaft: Gemeinde Wallenhorst
+- Beginn: 2012-07-12T18:00:00+02:00
+- Ende: 2012-07-12T22:40:00+02:00
+- Ort: Rathaus, Rathausallee 1, 49134 Wallenhorst, Ratssaal
+- Status: 
+- Gremium: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/organization/1-2
+- Ratsinformationssystem: https://wallenhorst.ratsinfomanagement.net/tops/?__=UGhVM0hpd2NXNFdFcExjZWX83oxe5Fa9fXo6LPqVkvs
+- OParl: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/meeting/803
+- Quelle: https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Bekanntmachung (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZTd37y_2gzrpxDyAK5p_WoqMjTuOL5O1i99ALmPkhNIf/Bekanntmachung_Rat_12.07.2012.pdf
+- Ergebnisprotokoll: Öffentliche Niederschrift (Rat) https://wallenhorst.ratsinfomanagement.net/webservice/oparl/v1.1/body/1/files/UGhVM0hpd2NXNFdFcExjZSi5-QmqYHjXd1rOXYOuBt_cyEQ9m1_D1Bl9CEtEm4fE/Oeffentliche_Niederschrift_Rat_12.07.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentliche Sitzung
+- TOP 1.: Begrüßung und Feststellung a) der Ordnungsmäßigkeit der Ladung b) der Beschlussfähigkeit und c) der Tagesordnung
+- TOP 2.: Genehmigung der Niederschrift über die Sitzung vom 31.05.2012
+- TOP 3.: Bericht des Bürgermeisters
+- TOP 3.1: Ausschussverweisungen
+- TOP 3.2: Umleitung der Buslinien während Umbaus der Großen Straße
+- TOP 3.3: Bildungsprojekt „Anschwung für frühe Hilfen“
+- TOP 4.: Sonstige Kommunalangelegenheiten
+- TOP 4.1: Antrag der Kooperationspartner SPD - Bündnis 90/Die Grünen - Wallenhorster Wählergemeinschaft auf Berücksichtigung einer Nahwärmeversorgung bei der Planung des Neubaugebietes "Barlager Brücke" - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.: Sonstige Sicherheits- und Ordnungsangelegenheiten
+- TOP 5.3: Potenzialanalyse ÖPNV Gewerbegebiete Wallenhorst und Hollage - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.1: ÖPNV – Umstellung der Strukturen auf nachfragegesteuerten Linienverkehr - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 5.2: ÖPNV - Neubau einer Zentrums-Haltestelle im OT Wallenhorst
+- TOP 6.: Jugendangelegenheiten
+- TOP 6.1: Einrichtung eines Jugendbeirates - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 6.2: Antrag der Katholischen Kirchengemeinde St. Josef Hollage auf Bezuschussung der Baumaßnahme Außentreppe Philipp-Neri-Haus - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 7.: Kindertagesstätten
+- TOP 7.1: Aussetzung der jährlichen Beitragsanpassung für das Kindergartenjahr 2012/2013 - mehrheitlich mit 18 Ja-Stimme(n), 14 Gegenstimme(n), 1 Stimmenthaltung(en) gefasst:
+- TOP 7.2: Einrichtung einer Krippengruppe im Andreaskindergarten hier: Beauftragung des Architekten - mehrheitlich mit 19 Ja-Stimme(n), 13 Gegenstimme(n), 0 Stimmenthaltung(en) gefasst:
+- TOP 7.3: Einrichtung einer Krippengruppe im Franziskus Kindergarten hier: Beauftragung des Architekten - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 8.: Familie und Soziales
+- TOP 8.1: Übernahme des Eigenanteils beim Mittagessen für Empfänger von BuT-Leistungen - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.: Bauleitpläne
+- TOP 9.1: 48. Änderung des Flächennutzungsplanes hier: Feststellungsbeschluss - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.2: 52. Änderung des Flächennutzungsplanes hier: Feststellungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.3: Bebauungsplan Nr. 257 "Wellmanns Hügel" hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.4: 53. Änderung des Flächennutzungsplanes hier: Feststellungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.5: Bebauungsplan Nr. 258 "Hollage West" hier: Satzungsbeschluss und Entscheidung über die vorgebrachten Anregungen und Abwägungsvorschläge - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.6: 1. Änderung des ´Vorhabenbezogenen Bebauungsplanes´ Nr. 227 „Östlich der Niedersachsenstraße“ hier: Aufstellungsbeschluss und Entwurfsbeschluss - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 9.7: Dorferneuerung hier: Ausbauplanung für den ´Schleptruper Kirchweg´ - Der TOP wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 10.: Sonstige Planungs- und Bauangelegenheiten
+- TOP 10.1: Bau eines Regenrückhaltebeckens im Bereich des „Fiesteler Grabens“ - Der TOP wurde zu Beginn der Sitzung von der Tagesordnung abgesetzt.
+- TOP 10.2: Vorhaben- und Erschließungsplan "Projekt Grüne Wiese Wallenhorst - Arkaden-Center" - Abstimmung über eine Änderung des Vorhaben- und Erschließungsplanes - Änderung des Durchführungsvertrages vom 22.02.2012 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 10.3: Benennung von Gemeindestraßen - Straße im Gewerbegebiet zwischen ´Hullerweg´ und ´Hansastraße´ - Straßen in den Baugebieten "Hollage West", "Fürstenauer Weg/Hansastraße" und "Wellmanns Hügel" - einstimmig, mit 13 Enthaltung(en) gefasst:
+- TOP 11.: Liegenschaften
+- TOP 11.1: 1] Widmung der neuen Teilstrecke der ´Niedersachsenstraße´ gemäß § 6 Niedersächsisches Straßengesetz 2] Einziehung der nicht mehr benötigten Teilstrecke der ´Niedersachsenstraße´, der Schustergasse und des Parkplatzes ´Alter Pyer Kirchweg´ gemäß § 8 Niedersächsisches Straßengesetz - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.: Kämmereiangelegenheiten
+- TOP 12.1: Über- und außerplanmäßige Aufwendungen und Auszahlungen für das Haushaltsjahr 2011 - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.2: Umlegung der „Niedersachsenstraße“ hier: Genehmigung einer außerplanmäßigen Verpflichtungsermächtigung - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.3: Genehmigung zur Annahme von Spenden (Entscheidung Rat) - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 12.4: Jahresabschluss 2011 der Wasserversorgung Wallenhorst GmbH - einstimmig, mit 0 Enthaltung(en) gefasst:
+- TOP 13.: Anfragen und Anregungen
+- TOP 13.1: Öffnung der Fensterlamellen
+- TOP 13.2: Befragung zur Pflege von Pflanzbeeten
