@@ -22,96 +22,103 @@ Nr. | Kostentatbestand | Kostensatz |
 15 | Gewerbewesen (ausgenommen Gaststättenwesen) |  | 
 150 | Gewerbeordnung (GewO) und Durchführungsvorschriften |  | 
 150.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gewerbeangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
- | Gewerbeanzeigen nach § 14 GewO |  | 
-150.01 | Einfache Einzelauskunft (Name, Tätigkeit, Betriebsstätte) | 6,50 | 
+ | Gewerbeanzeigen (§ 14 GewO) |  | 
+150.01 | Einfache Einzelauskunft (Name, Tätigkeit, Betriebsstätte) | 7,00 | 
  | Im automatisierten Verfahren | gebührenfrei | 
-150.02 | Erweiterte Einzelauskunft | 13,00 | 
- | Im automatisierten Verfahren | 10,00 | 
-150.03 | Anzeige über den Beginn oder die Verlegung eines Gewerbebetriebes sowie über Veränderungen und die Aufgabe des Gewerbes einschließlich des Empfangs der Anzeigebescheinigung nach § 14 Abs. 1 i.V.m. § 15 Abs. 1 GewO |  | 
- | Gewerbeanmeldung nach § 14 Abs. 4 Nr. 1 GewO | 15,00 | 
- | Gewerbeummeldung nach § 14 Abs. 4 Nr. 2 GewO | 7,50 | 
- | Gewerbeabmeldung nach § 14 Abs. 4 Nr. 3 GewO | gebührenfrei | 
-150.04 | Beanstandung einer Gewerbeanzeige | 15,00 | 
-150.05 | je Mehr- oder Ersatzausfertigung | 7,50 | 
-150.06 | Nachkontrolle eines Gewerbebetriebs, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 50,00 bis 750,00 | 
+150.02 | Erweiterte Einzelauskunft | 14,00 | 
+ | Im automatisierten Verfahren | 11,00 | 
+150.03 | Anzeige über den Beginn oder die Verlegung eines Gewerbebetriebes sowie über Veränderungen und die Aufgabe des Gewerbes einschließlich des Empfangs der Anzeigebescheinigung (§ 14 Absatz 1 i.V.m. § 15 Absatz 1 GewO) |  | 
+ | Gewerbeanmeldung (§ 14 Absatz 4 Nummer 1 GewO) | 16,00 | 
+ | Gewerbeummeldung (§ 14 Absatz 4 Nummer 2 GewO) | 8,00 | 
+ | Gewerbeabmeldung (§ 14 Absatz 4 Nummer 3 GewO) | gebührenfrei | 
+150.04 | Beanstandung einer Gewerbeanzeige | 16,00 | 
+150.05 | je Mehr- oder Ersatzausfertigung | 8,00 | 
+150.06 | Nachkontrolle eines Gewerbebetriebs, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 53,00 bis 791,00 | 
  | Schaustellungen von Personen |  | 
-150.07 | Erlaubnis nach § 33a GewO | 125,00 | 
+150.07 | Erlaubnis nach § 33a GewO | 132,00 | 
  | Spielgeräte und Spiele mit Gewinnmöglichkeiten |  | 
-150.08 | Erlaubnis zum Aufstellen technischer Spielgeräte mit Gewinnmöglichkeit nach § 33c Abs. 1 GewO | 285,00 bis 1.634,00 | 
-150.09 | Bestätigung der Geeignetheit eines Aufstellungsortes für Spielgeräte nach § 33c Abs. 3 GewO | 110,00 | 
-150.10 | Erlaubnis zum Veranstalten eines anderen Spieles mit Gewinnmöglichkeiten nach § 33d GewO | 110,00 bis 735,00 | 
-150.11 | Erlaubnis zum Betrieb einer Spielhalle oder eines ähnlichen Unternehmens | 410,00 bis 7.640,00 | 
+150.08 | Erlaubnis zum Aufstellen technischer Spielgeräte mit Gewinnmöglichkeit nach § 33c Absatz 1 GewO | 301,00 bis 1 724,00 | 
+150.09 | Bestätigung der Geeignetheit eines Aufstellungsortes für Spielgeräte nach § 33c Absatz 3 GewO | 385,00 | 
+150.10 | Erlaubnis zum Veranstalten eines anderen Spieles mit Gewinnmöglichkeiten nach § 33d GewO | 301,00 bis 1 724,00 | 
+150.11 | Erlaubnis zum Betrieb einer Spielhalle oder eines ähnlichen Unternehmens | 433,00 bis 8 060,00 | 
  | Pfandleihgewerbe |  | 
-150.12 | Erlaubnis zum Betrieb des Pfandleih- oder Pfandleihvermittlungsgewerbes nach § 34 GewO | 165,00 | 
+150.12 | Erlaubnis zum Betrieb des Pfandleih- oder Pfandleihvermittlungsgewerbes nach § 34 GewO | 174,00 | 
  | Bewachungsgewerbe |  | 
-150.13 | Erlaubnis zum Betrieb des Bewachungsgewerbes nach § 34a GewO | 374,00 bis 1.654,00 | 
-150.14 | Meldung je Wachperson nach § 9 Abs. 3 Bewachungsverordnung (BewachV) | 45,00 | 
-150.15 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 50,00 bis 350,00 | 
-150.16 | Abmeldung je Wachperson nach § 9 Abs. 3 BewachV | 6,00 | 
-150.17 | Abmeldung je Wachperson nach § 9 Abs. 3 BewachV nach behördlichem Hinweis | 40,00 | 
-150.18 | Untersagung der Beschäftigung einer Wachperson nach § 34a Abs. 4 GewO | 80,00 bis 500,00 | 
+150.13 | Erlaubnis zum Betrieb des Bewachungsgewerbes nach § 34a GewO | 395,00 bis 1 745,00 | 
+150.14 | Meldung je Wachperson gemäß § 9 Absatz 3 Bewachungsverordnung (BewachV) | 48,00 | 
+150.15 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 53,00 bis 370,00 | 
+150.16 | Abmeldung je Wachperson nachgemäß § 9 Absatz 3 BewachV | 7,00 | 
+150.17 | Abmeldung je Wachperson nach § 9 Absatz 3 BewachV nach behördlichem Hinweis | 43,00 | 
+150.18 | Untersagung der Beschäftigung einer Wachperson nach § 34a Absatz 4 GewO | 85,00 bis 528,00 | 
  | Versteigerergewerbe |  | 
-150.19 | Versteigerererlaubnis nach § 34b GewO | 110,00 | 
-150.20 | Erlaubnis nach § 34c Abs. 1 GewO | 165,00 | 
-150.21 | Untersagung eines Gewerbes wegen Unzuverlässigkeit oder aus anderen Gründen nach § 35 GewO | 215,00 bis 4.085,00 | 
+150.19 | Versteigerererlaubnis nach § 34b GewO | 116,00 | 
+ | Maklergewerbe |  | 
+150.20 | Erlaubnis nach § 34c Absatz 1 GewO | 378,00 | 
+150.21 | Untersagung eines Gewerbes wegen Unzuverlässigkeit oder aus anderen Gründen nach § 35 GewO | 227,00 bis 4 309,00 | 
  | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
-150.22 | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes | 365,00 | 
-150.23 | Zuverlässigkeitsüberprüfung nach § 38 Abs. 1 Satz 1 GewO | 50,00 bis 800,00 | 
-150.24 | Auskunftsanforderung nach § 38 Abs. 1 Satz 3 GewO | 35,00 | 
+150.22 | Gestattung der Wiederaufnahme eines untersagten Gewerbebetriebes | 385,00 | 
+150.23 | Zuverlässigkeitsüberprüfung nach § 38 Absatz 1 Satz 1 GewO | 53,00 bis 844,00 | 
+150.24 | Auskunftsanforderung nach § 38 Absatz 1 Satz 3 GewO | 37,00 | 
  | (zusätzlich zu den Kosten für das Führungszeugnis oder/und die Gewerbezentralregisterauskunft) |  | 
-150.25 | Fristverlängerungen nach § 49 Abs. 2 GewO | 15,00 | 
+150.25 | Fristverlängerungen nach § 49 Absatz 2 GewO | 16,00 | 
  | Reisegewerbe |  | 
-150.26 | Erteilung einer Reisegewerbekarte nach § 55 GewO | 110,00 | 
-150.27 | Erteilung einer Zweitschrift oder Ersatzausfertigung einer Reisegewerbekarte | 31,00 | 
-150.28 | Änderung oder Ergänzung der Reisegewerbekarte | 14,00 | 
-150.29 | Untersagung des Reisegewerbes nach § 59 GewO | 74,00 bis 204,00 | 
- | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
-150.30 | Untersagung eines Wanderlagers nach § 56a GewO | 110,00 | 
-150.31 | Ausstellung oder Verlängerung der Geltungsdauer einer Gewerbelegitimationskarte nach § 55b Abs. 2 GewO | 110,00 | 
-150.32 | Änderung oder Ergänzung der Gewerbelegitimationskarte | 15,00 | 
-150.33 | Erlaubnis nach § 60a GewO für die Veranstaltung von Glücksspielen auf Jahrmärkten und ähnlichen Veranstaltungen | 110,00 bis 369,00 | 
-150.34 | Festsetzung von Veranstaltungen nach § 69 Abs. 1 Gewerbeordnung | 52,00 bis 1.040,00 | 
-150.35 | Rücknahme und Widerruf von Gewerbeerlaubnissen nach den Vorschriften des Allgemeinen Verwaltungsrechts | 210,00 bis 4.085,00 | 
+150.26 | Erteilung einer Reisegewerbekarte nach § 55 GewO | 116,00 | 
+150.27 | Erteilung einer Zweitschrift oder Ersatzausfertigung einer Reisegewerbekarte | 33,00 | 
+150.28 | Änderung oder Ergänzung der Reisegewerbekarte | 15,00 | 
+150.29 | Untersagung des Reisegewerbes nach § 59 GewO | 78,00 | 
+ | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. | bis 216,00 | 
+150.30 | Untersagung eines Wanderlagers nach § 56a GewO | 116,00 | 
+150.31 | Ausstellung oder Verlängerung der Geltungsdauer einer Gewerbelegitimationskarte nach § 55b Absatz 2 GewO) | 116,00 | 
+150.32 | Änderung oder Ergänzung der Gewerbelegitimationskarte | 16,00 | 
+150.33 | Erlaubnis nach § 60 a GewO für die Veranstaltung von Glücksspielen auf Jahrmärkten und ähnlichen Veranstaltungen | 116,00 bis 390,00 | 
+150.34 | Festsetzung von Veranstaltungen nach § 69 Absatz 1 GewO | 55,00 bis 1 097,00 | 
+150.35 | Rücknahme und Widerruf von Gewerbeerlaubnissen nach den Vorschriften des Allgemeinen Verwaltungsrechts | 222,00 bis 4 309,00 | 
  | Auf die Festsetzung der Gebühr kann bei offenkundiger Vermögenslosigkeit zum Zeitpunkt der Verwaltungsentscheidung verzichtet werden. |  | 
 151 | Gewerberechtliche Nebengesetze |  | 
-151.00 | Untersagung der Betriebsfortsetzung nach § 16 Abs. 3 der Handwerksordnung | 110,00 bis 2.100,00 | 
+151.00 | Untersagung der Betriebsfortsetzung nach § 16 Absatz 3 der Handwerksordnung | 116,00 bis 2 216,00 | 
 16 | Gaststättenwesen |  | 
 160 | Amtshandlungen nach dem Bremischen Gaststättengesetz (BremGastG) und der Bremischen Gaststättenverordnung (BremGastV) |  | 
 160.00 | Genehmigungen, Erlaubnisse, Ausnahmebewilligungen, Bescheinigungen und andere Amtshandlungen in Gaststättenangelegenheiten, für die in diesem Gebührenverzeichnis weder eine Verwaltungsgebühr bestimmt noch Gebührenfreiheit vorgesehen ist | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes | 110,00 | 
- | Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist die Nr. 160.04 anzuwenden. Für die Rücknahme und den Widerruf ist die Nr. 150.35 anzuwenden. |  | 
-160.02 | Vorübergehende Erlaubnis zum Betrieb eines Gaststättengewerbes nach § 2 Abs. 3 BremGastG | 45,00 | 
-160.03 | Fristverlängerung nach § 2 Abs. 5 BremGastG | 15,00 | 
-160.04 | Anordnungen und Auflagen nach Erteilung der Erlaubnis nach § 2 Abs. 2 BremGastG und Anordnungen bei erlaubnisfreien Gaststättenbetrieben nach § 2 Abs. 6 BremGastG | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-160.05 | Beschäftigungsverbot nach § 5 BremGastG | 365,00 | 
-160.06 | Nachkontrolle eines Gaststättenbetriebs nach § 7 BremGastG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 50,00 bis 750,00 | 
-160.07 | Sperrzeitverkürzung bzw. Sperrzeitaufhebung nach § 4 BremGastV im Einzelfall | 15,00 | 
- | für einen Kalendermonat, bis zu einem Jahr | 110,00 | 
+160.01 | Erlaubnis zum Betrieb eines Gaststättengewerbes | 116,00 | 
+ | Für Auflagen und Bedingungen bei Erteilung der Erlaubnis ist die Nummer 160.04 anzuwenden; |  | 
+ | Für die Rücknahme und den Widerruf ist die Nummer 150.35 anzuwenden. |  | 
+160.02 | Vorübergehende Erlaubnis zum Betrieb eines Gaststättengewerbes nach § 2 Absatz 3 BremGastG | 48,00 | 
+160.03 | Fristverlängerung nach § 2 Absatz 5 BremGastG | 16,00 | 
+160.04 | Anordnungen und Auflagen nach Erteilung der Erlaubnis nach § 2 Absatz 2 BremGastG und Anordnungen bei erlaubnisfreien Gaststättenbetrieben nach § 2 Absatz 6 BremGastG | nach Zeit- und Sachaufwand zzgl. Auslagen | 
+160.05 | Beschäftigungsverbot nach § 5 BremGastG | 385,00 | 
+160.06 | Nachkontrolle eines Gaststättenbetriebs nach § 7 BremGastG, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 53,00 bis 791,00 | 
+160.07 | Sperrzeitverkürzung oder Sperrzeitaufhebung (§ 4 BremGastV) |  | 
+ | im Einzelfall | 16,00 | 
+ | für einen Kalendermonat, bis zu einem Jahr | 116,00 | 
 160.08 | Ausnahmen von der Sperrzeit nach § 4 BremGastV durch Allgemeinverfügung | gebührenfrei | 
-160.09 | Anzeigepflicht nach § 5 Abs. 1 BremGastV | 110,00 | 
-160.10 | Meldung je Wachperson nach § 5 Abs. 2 BremGastV | 45,00 | 
-160.11 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 50,00 bis 500,00 | 
-160.12 | Abmeldung je Wachperson nach § 5 Abs. 2 BremGastV | 6,00 | 
-160.13 | Abmeldung je Wachperson nach § 5 Abs. 2 BremGastV nach behördlichem Hinweis | 40,00 | 
-160.14 | Auskunftsanforderung nach § 5 Abs. 3 BremGastV (zusätzlich zu den Kosten für das Führungszeugnis) | 30,00 | 
-161 | Amtshandlungen nach der Bremischen Gaststättenverordnung (BremGastV) |  | 
-161.00 | Anzeigepflicht nach § 5 Abs. 1 BremGastV | 58,00 bis 325,00 | 
-161.01 | Meldung je Wachperson gemäß § 5 Abs. 2 BremGastV | 20,00 | 
-161.02 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 50,00 bis 350,00 | 
-161.03 | Abmeldung je Wachperson gemäß § 5 Abs. 2 BremGastV | 2,00 | 
-161.04 | Abmeldung je Wachperson gemäß § 5 Abs. 2 BremGastV nach behördlichem Hinweis | 40,00 | 
-161.05 | Auskunftsanforderung gemäß § 5 Abs. 3 BremGastV (zusätzlich zu den Kosten für das Führungszeugnis) | 30,00 | 
-162 | Sperrzeitverkürzung bzw. Sperrzeitaufhebung (§ 4 BremGastV) |  | 
-162.00 | Für Gaststättenbetriebe |  | 
- | im Einzelfall | 15,00 bis 29,00 | 
- | für einen Kalendermonat | 210,00 bis 426,00 | 
-162.01 | Für Spielhallen mit einer Grundfläche bis 75 m2 |  | 
+160.09 | Anzeigepflicht nach § 5 Absatz 1 BremGastV | 116,00 | 
+160.10 | Meldung je Wachperson gemäß § 5 Absatz 2 BremGastV | 48,00 | 
+160.11 | Überprüfung einer gemeldeten Wachperson aus besonderem Anlass | 53,00 bis 528,00 | 
+160.12 | Abmeldung je Wachperson gemäß § 5 Absatz 2 BremGastV | 7,00 | 
+160.13 | Abmeldung je Wachperson gemäß § 5 Absatz 2 BremGastV nach behördlichem Hinweis | 43,00 | 
+160.14 | Auskunftsanforderung gemäß § 5 Absatz 3 BremGastV (zusätzlich zu den Kosten für das Führungszeugnis) | 32,00 | 
+161 | Amtshandlungen nach der Verordnung zur Ausführung des Gaststättengesetzes vom 3. Mai 1971 (Brem.GBl. S. 131 - 711-b-2) |  | 
+161.00 | Anzeigepflicht nach § 13 der Verordnung zur Ausführung des Gaststättengesetzes | 58,00 bis 129,00 | 
+162 | Sperrzeitverkürzung bzw. Sperrzeitaufhebung (§ 12 GastVO) |  | 
+162.00 | Für Gaststätten mit einer Grundfläche bis 100 m2 |  | 
+ | im Einzelfall | 15,00 | 
+ | für einen Kalendermonat | 210,00 | 
+162.01 | Für Gaststätten mit einer Grundfläche von 101 bis zu 300 m2 |  | 
+ | im Einzelfall | 22,00 | 
+ | für einen Kalendermonat | 316,00 | 
+162.02 | Für Gaststätten mit einer Grundfläche über 300 m2 |  | 
+ | im Einzelfall | 29,00 | 
+ | für einen Kalendermonat | 426,00 | 
+ | Anmerkungen zu 162.00 bis 162.02: |  | 
+ | Wird die Erlaubnis für einzelne Räume beantragt, so richtet sich die Gebühr nach deren Grundfläche. |  | 
+162.03 | Für Spielhallen mit einer Grundfläche bis 75 m2 |  | 
  | im Einzelfall | 15,00 | 
  | für einen Kalendermonat | 223,00 | 
-162.02 | Für Spielhallen mit einer Grundfläche über 75 bis 150 m2 |  | 
+162.04 | Für Spielhallen mit einer Grundfläche über 75 bis 150 m2 |  | 
  | im Einzelfall | 31,00 | 
  | für einen Kalendermonat | 446,00 | 
-162.03 | Ausnahmen von der Sperrzeit nach § 4 BremGastV durch Allgemeinverfügung | gebührenfrei | 
+162.05 | Ausnahmen von der Sperrzeit nach § 11 der Verordnung zur Ausführung des Gaststättengesetzes durch Allgemeinverfügung | gebührenfrei | 
+165.00 | Nachkontrolle eines Gewerbebetriebes, die durch Beanstandung oder begründete Beschwerde erforderlich wird | 50,00 bis 550,00 | 
 170 | Bergbauberechtigungen |  | 
 170.00 | Einteilung einer Erlaubnis (§§ 6, 7, 11) |  | 
  | zu gewerblichen Zwecken | 575,00 bis zu 5.750,00 | 
@@ -162,19 +169,6 @@ Nr. | Kostentatbestand | Kostensatz |
 171.20 | Entscheidung über die Entschädigung für eine Wertminderung eines Grundstücks (§ 109 Abs. 4) | 115,00 bis 1.725,00 | 
 171.21 | Anerkennung anderer Personen (§ 64 Abs. 1 Satz 2) | 309,00 | 
 171.22 | Verzicht auf Einreichung von Unterlagen (§ 63 Abs. 3 Satz 2) | 115,00 bis 575,00 | 
-201 | Handelsklassengesetz (Handelsklassenkontrollen) Amtshandlungen aus Anlass der Überwachung nach § 5 |  | 
-201.01 | Beanstandungsprotokoll, je Partie | 40,00 | 
-201.02 | Nachkontrolle | 25,00 bis 200,00 | 
-202 | Verordnung (EG) Nr. 1028/2006 des Rates mit Vermarktungsnormen für Eier vom 19. Juni 2006 (ABl. Nr. L 186 S. 1) |  | 
-202.01 | Erlaubnis zum Sortieren von Eiern und Erteilung einer Packstellen-Kennnummer nach Art. 5 Abs. 2 Satz 1 | 60,00 | 
-202.02 | Widerruf der Erlaubnis nach Art. 5 Abs. 3 | 60,00 | 
-202.03 | Änderung der Erlaubnis zum Sortieren von Eiern oder Löschung einer Packstellen-Kennnummer jeweils auf Antrag | 25,00 | 
-202.04 | Kontrolle nach Art. 7 Abs. 2, wenn ein Verstoß gegen eine Rechtsvorschrift festgestellt wird | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-203 | Verordnung (EG) Nr. 543/2008 der Kommission vom 16. Juni 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr. 1234/2007 des Rates hinsichtlich der Vermarktungsnormen für Geflügelfleisch (ABl. Nr. L 157 S. 46, ber. ABl. Nr. L 257 S. 7) |  | 
-203.01 | Zulassung eines Geflügelschlachthofes nach Art. 12 Abs. 1 Satz 1 | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-203.02 | Kontrolle eines Betriebes nach Art. 12 Abs. 5 | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-203.03 | Kontrolle nach Art. 16 Abs. 2 | nach Zeit- und Sachaufwand zzgl. Auslagen | 
-203.04 | Kontrolle nach Art. 20 Abs. 3 | nach Zeit- und Sachaufwand zzgl. Auslagen | 
 701 | Handwerks- und Berufsrecht |  | 
  | Amtshandlungen nach der Handwerksordnung in der Fassung der Bekanntmachung vom 28. Dezember 1965 (BGBl. 1966 I S. 1), zuletzt geändert am 20. Dezember 1993 (BGBl. 1993 I, S. 2256) |  | 
 701.00 | Ausübungsberechtigung nach §§ 7a und 7b der Handwerksordnung (HwO) | 175,00 bis 450,00 | 
@@ -217,11 +211,11 @@ Nr. | Kostentatbestand | Kostensatz |
  |  | Zweite Verordnung zur Änderung der Kostenverordnung für Amtshandlungen der Wasser- u. Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt vom 28. September 1998 (BGBl. I S. 3120) | 
 810.01 | Bescheinigungen im Verfahren nach der Schiffsoffizier-Ausbildungsverordnung | 4,00 bis 23,00 | 
 811 | Bezeichnung der Fischereifahrzeuge |  | 
-811.00 | Eintragungsscheine nach der der Verordnung betreffend die Eintragung und Bezeichnung der zur Fischerei in der Nordsee außerhalb der Küstengewässer bestimmten Fahrzeuge vom 1. Juni 1884 (SaBremR 9510-a-1) | 34,50 | 
+811.00 | Eintragungsscheine nach der Verordnung betreffend die Eintragung und Bezeichnung der zur Fischerei in der Nordsee außerhalb der Küstengewässer bestimmten Fahrzeuge vom 1. Juni 1884 (SaBremR 9510-a-1) | 34,50 | 
 812 | Gefährliche Seefrachtgüter |  | 
 812.00 | Ausnahmegenehmigungen nach der Verordnung über die Beförderung gefährlicher Güter mit Seeschiffen vom 4. November 2003 (BGBl. I S. 2286) | 20,00 bis 300,00 | 
 814 | Maßnahmen der Seemannsämter |  | 
-814.00 | Ausstellung eines Seefahrtbuches Verlängerung der Gültigkeitsdauer eines Seefahrtsbuches Ersatz eines Seefahrtbuches bei Verlust Ausfertigung einer Musterrolle bei Erstausfertigung oder Generalmusterung Änderung der Musterrolle Ausfertigung einer Beilage zur Musterrolle An-, Um- oder Abmusterung sowie Generalmusterung von Besatzungsmitgliedern etc. Befreiung von Musterungserfordernis je Schiff Widerruf oder Rücknahme eines Antrages auf Vornahme einer Amtshandlung Zurückweisung des Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung | Die Gebührensätze richten sich nach der Kostenverordnung für Amtshandlungen der Seemannsämter - SeemannsÄKostV vom 21. Dezember 2001 (BGBl. I S. 4255) in der jeweiligen Fassung | 
+814.00 | Ausstellung eines Seefahrtbuches Verlängerung der Gültigkeitsdauer eines Seefahrtsbuches Ersatz eines Seefahrtbuches bei Verlust Ausfertigung einer Musterrolle bei Erstausfertigung oder Generalmusterung Änderung der Musterrolle Ausfertigung einer Beilage zur Musterrolle An-, Um- oder Abmusterung sowie Generalmusterung von Besatzungsmitgliedern etc. Befreiung von Musterungserfordernis je Schiff Widerruf oder Rücknahme eines Antrages auf Vornahme einer Amtshandlung Zurückweisung des Widerspruchs oder Rücknahme des Widerspruchs nach Beginn der sachlichen Bearbeitung | Die Gebührensätze richten sich nach der Kostenverordnung für Amtshandlungen der Seemannsämter - SeemannsÄKostV - vom 21. Dezember 2001 (BGBl. I S. 4255) in der jeweiligen Fassung | 
 814.01 | Ausstellung einer Fahrzeitbescheinigung |  | 
  | für eine Seite | 8,60 | 
  | für jede weitere Seite | 5,75 | 
