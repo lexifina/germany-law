@@ -1,0 +1,115 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2012-07-17T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2685707
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2685707
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Lärm an der Kreuzung Humboldt- / Pilgersheimer Straße; Bürgeranliegen (E-Mail) vom 27.06.12
+- TOP 2.2.: Zugang zur U-Bahn am Wettersteinplatz, Geschwindigkeitsüberwachung in der Grünwalder Straße; Bürgeranfrage (E-Mail) vom 03.07.12
+- TOP 2.3.: Parkprobleme in der Stresemannstraße; Kopie eines an das Kreisverwaltungsreferat gerichteten Bürgerschreibens vom 02.07.12
+- TOP 2.4.: Bauvorhaben Josef-Vötter-Straße 7; Kopie eines an die Lokalbaukommission gerichteten Bürgerschreibens vom 10. bzw. 23.06.12 (vgl. TOP 3.5.4.1.4 vom 19.06.12, zugestimmt)
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Vorstellung des Planungsstands zur Neustrukturierung der Heimag-Siedlung rund um die Säbener Straße, Ehlersstraße und August-Bebel-Straße; Vertretung der GEWOFAG Grundstücksgesellschaft mbH
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.1.: AntragstellerIn: Spiellandschaft Stadt e.V., für die Maßnahme: Puppenzirkus vom 21. - 26.08.2012; Antragssumme: 6.000,- ?; Beschlussvorlage des Direktoriums vom 14.06.12
+- TOP 3.2.: AntragstellerIn: Johanniter-Unfall-Hilfe e.V., für die Maßnahme: Workshopplätze für das LILALU Sommerprogramm vom 06.08. - 09.09.2012; Antragssumme: 1.950,- ?; Beschlussvorlage des Direktoriums vom 27.06.12
+- TOP 3.1.: Beschlussfassung über die Finanzierung des BA-Jahresempfangs am 27.09.12 aus dem Budgetanteil für BA-eigene Veranstaltungen in Höhe von bis zu 6.000,- ?; Antrag aus dem UA Kultur und Veranstaltungen (mündlich)
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Konzept für die Umgestaltung der Hans-Mielich-Straße in Partizipation mit Bürgerinnen und Bürgern; Antrag der SPD-Fraktion (vertagt aus der Sitzung vom 19.06.12)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Haltverbot Harthauser Straße 48 (Probebühne Gärtnerplatztheater); Anhörung durch das Kreisverwaltungsreferat vom 12.06.12 zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.2.: Aufhebung der Radwegbenutzungspflicht und Auflassung des Radweges im Schilcherweg; Anhörung durch das Kreisverwaltungsreferat vom 20.06.12 zur beabsichtigten verkehrsrechtlichen Anordnung
+- TOP 3.1.: Transparente Lärmschutzelemente für den Hans-Mielich-Platz im Zuge der Schienenlärmsanierung; BA-Antrag Nr. 08-14 / B 03854 des BA 18 vom 17.04.12; Antwortschreiben des Referats für Stadtplanung u. Bauordnung vom 31.05.12 (vertagt aus der Sitzung vom 19.06.12)
+- TOP 3.2.: Bauliche Verengung der Straße (stadtauswärts) auf Höhe der Kreuzung Säbener- / Grödner- / Klausener Straße zur Verbesserung der Schulwegsicherheit; Initiative des BA 18 aus dem Jahr 2011; Antwortschreiben des Baureferats - Tiefbau vom 08.06.12 (positive Erledigung)
+- TOP 3.3.: Sachstand zur Planung bzw. Umsetzung der Planung des Radverkehrsanschlusses Claude-Lorrain-Straße / Sachsenstraße; Antrag Nr. 08-14 / B 03855 des BA 18 vom 17.04.12; Antwortschreiben des Baureferats vom 05.06.12 (negative Erledigung)
+- TOP 3.4.: Anwesen Mangfallplatz 10 - Absenkung der Bordsteinkante und Errichtung einer Zufahrt für Rollstuhlfahrer; Antrag Nr. 08-14 / B 03785 des BA 18 vom 20.03.12; Antwortschreiben des Baureferats vom 22.06.12 (neutrale Erledigung)
+- TOP 3.5.: Anbringen von digitalen Informationstafeln zur Anzeige von Trambahnabfahrtszeiten am Theodolindenplatz, sowie auf der gesamten Trambahnstrecke zwischen Großhesseloher Brücke u. Wettersteinplatz; Antrag Nr. 08-14 / B 03787 des BA 18 vom 20.03. bzw. Nachfrage vom 22.05.12; Antwortschreiben der Münchner Verkehrsgesellschaft mbH vom 12.06.12 (negative Erledigung)
+- TOP 3.1.: Öffnung der in Richtung Osten einbahngeregelten Peißenbergstraße zwischen Bad-Wiessee-Straße und Otkerstraße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 21.03.12
+- TOP 3.2.: Öffnung der in Richtung Westen einbahngeregelten Elilandstraße zwischen Bad-Wiessee-Straße und Otkerstraße für den gegenläufigen Radverkehr; verkehrsrechtliche Anordnung des Kreisverwaltungsreferates vom 16.04.12
+- TOP 3.3.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus im 2., 5. und 18. Stadtbezirk; Beschluss des Bauausschusses vom 10.07.12
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Öffentliche Toilette / Dixi-WC für den Spielplatz am Hans-Mielich-Platz; Bürgeranliegen (ohne Vorgang - verwiesen aus der Sitzung vom 19.06.2012)
+- TOP 3.1.: Pflanztröge in der Hans-Mielich-Straße; Antrag Nr. 08-14 / B 03950 vom 22.05.12; Antwortschreiben des Kreisverwaltungsreferates vom 12.06.12 (neutrale Erledigung)
+- TOP 3.2.: Lärmminderungsplanung für München, Entwurf des Lärmaktionsplans; Antwortschreiben des Referates für Gesundheit und Umwelt zur Anfrage aus der Sitzung vom 17.04.12 (neutrale Erledigung)
+- TOP 3.1.: 3.3.6.1 Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutz verordnung 3.3.6.1.1 Anwesen Auerbergstraße; Unterrichtung vom 25.06.12
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Nutzung der Container in der Rotbuchenstraße / Am Hollerbusch als Kindergarten / Kinderkrippe; Antrag Nr. 08-14 / B 03852 vom 17.04.12; Antwortschreiben des Referats für Bildung und Sport vom 08.06.12 (positive Erledigung)
+- TOP 3.1.: Mieterbeiratswahl 2012; Berufung der stimmberechtigten Mitglieder; Bekanntgabe der stimmberechtigten Mitglieder; Sitzungsvorlage Nr. 08-14 / V 09342; Beschluss des Sozialausschusses vom 05.07.12 (VB)
+- TOP 3.2.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2012; Sitzungsvorlage Nr. 08-14 / V 09477; Beschluss des gemeinsamen Ausschusses für Stadtplanung u. Bauordnung und des Ausschusses für Bildung u. Sport vom 04.07.2012 (VB)
+- TOP 3.1.: Der Regionale Sozialatlas - ein neues Informationsinstrument des Sozialreferats; Schreiben des Sozialreferats vom 15.06.12
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: BV Bozzarisstraße 2 - Neubau einer Kinderkrippe; Leistung eines Baukostenzuschusses nach der Richtlinie zur Förderung von Investitionen im Rahmen eines Investitionsprogramms "Kinderbetreuungsfinanzierung 2008 - 2013"; Schreiben des BA 18 vom 23.04.12; Antwortschreiben des Referats für Bildung u. Sport vom 30.05.12 (neutrale Erledigung - verwiesen aus der Sitzung vom 19.06.12)
+- TOP 3.1.: Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gem. Vollmacht des Oberbürgermeisters vom 26.11.07; hier: Genehmigung einer Freischankfläche Aggensteinstraße 25, SSW "Goldene Kanne"; Beschlussvorlage des Kreisverwaltungsreferates vom 28.06.2012
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.1.: Birkenleiten 41, Fl.Nr. 12699/0, Gemarkung Sektion VII; Vollzug von § 2 Abs. 1 BA-Satzung, Anlage 1: Referat für Stadpl. u. Bauordnung, Katalog-Nr. 11.1; Änderung der Denkmalliste nach Art. 2 Denkmalschutzgesetz (DschG), hier: Bayerische Denkmalliste - Teil A: Baudenkmäler - LHM; Figur eines jungen Herrschers oder des Apoll; Zuleitung des Referats für Stadtpl u. Bauordnung vom 12.06.12 mit der Bitte um Stellungnahme bis 12.07.12 (Fristverlängerung beantragt - vertagt aus der Sitzung vom 19.06.12)
+- TOP 3.2.: Erweiterung der BA-Vertretungen in Wettbewerben; Antrag Nr. 08-14 / B 03849 des BA 5 - Au-Haidhausen - vom 28.03.12; Schreiben des Direktoriums vom 26.06.12 mit der Bitte um Stellungnahme bis 10.08.12
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.1.: Schönstraße 78; Anbau eines Wintergartens, Abbruch u. Erneuerung der Vorplatzüberdachung; Anhörung vom 05.06.12 (vertagt aus der Sitzung vom 19.06.12)
+- TOP 3.2.: Geiselgasteigstraße 54; Neubau eines Mehrfamilienhauses mit TG; Anhörung vom 05.06.12 (vertagt aus der Sitzung vom 19.06.12)
+- TOP 3.3.: Candidplatz 11; Nutzungsänderung: Büroräume zu Fitness-Center; Anhörung vom 20.06.12
+- TOP 3.4.: Karneidstr. 9; Neubau eines Wohnhauses mit TG - VORBESCHEID; Anhörung vom 27.06.12
+- TOP 3.5.: Reichenhaller Str. 16 - 18; Nutzungsänderung einer Billardhalle zu einem Probebereich für Musik u. Kunst u. zu Künstlerateliers; Anhörung vom 27.06.12
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Ortsbildschutz zur Sicherung der örtlichen Lebensqualität; Einführung einer Schutzkategorie für ortsbildprägende Gebäude; Empfehlung Nr. 08-14 / E 01161 der Bürgerversammlung des Stadtbezirkes 18 - Untergiesing-Harlaching - am 10.11.2011; Antwortschreiben des Referates für Stadtplanung und Bauordnung, Lokalbaukommission, vom 22.05.12 zur vom Antrag abweichenden Beschlussfassung des BA 18 vom 17.04.12 (positive Erledigung)
+- TOP 3.2.: Aufforderung an den Bundesgesetzgeber, § 34 BauGB dahingehend zu ändern, dass es Bundesländern u. Kommunen ermöglicht wird, örtlich bezogene Bauvorschriften (Satzungen/Gesetze) zu erlassen, die es gestatten, bodenrechtlich relevante, bauplanungsrechtliche Entscheidungen zu treffen. Aufforderung an den Bundesgesetzgeber, es durch entsprechende Gesetzesänderung den Bundesländern u. Kommunen zu ermöglichen, Satzungen/Vorschriften zu erlassen, die eine Regelung der Umwandlung von Mietwohnungen in Eigentumswohnungen gestatten; Antrag Nr. 08-14 / B 03791 des BA 18 vom 20.03.12; Antwortschreiben des Referates für Stadtplanung und Bauordnung vom 21.06.12 (neutrale Erledigung)
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung a) Gestaltung der Ausgleichs- u. Ersatzflächen den klimatischen Bedingungen anpassen b) Landwirtschaftliche Flächen in München erhalten! Sitzungsvorlagen Nr. 08-14 / V 09168; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.07.12 (VB)
+- TOP 3.3.: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der LHM); Sitzungsvorlage Nr. 08-14 / V 09600; Beschluss des Ausschusses für Stadtplanung u. Bauordnung vom 04.07.12 (VB)
+- TOP 3.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.5.: Vollzug der Satzung der LHM über das Verbot der Zweckentfremdung von Wohnraum; Unterrichtung nach Nr. 11 des Katalogs der Fälle der Vorberatung, Anhörung und Unterrichtung der Bezirksausschüsse; Mitteilungen des Sozialreferats 3.5.6.5.1 Anwesen Meichelbeckstraße; Mitteilung vom 04.06.12
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Anschluss für Abwasser, Wasser und Strom für die städtische Grünanlage an der Oberbiberger Straße; BA-Antrag Nr. 08-14 / B 03784 vom 20.03.12; Antwortschreiben des Baureferats vom 18.04.12 (negative Erledigung) - verwiesen aus der Sitzung vom 15.05.12 und 19.06.12
+- TOP 3.1.: Veranstaltung im Freien in einer städtischen Grünanlage; hier: Bewohnerfest in der Steingadener Straße (Grünanlage in der Kurve) am 08.09.12 oder 15.09.12; Zuleitung des KVR vom 27.06.12 mit der Bitte um Stellungnahme bis 10.08.12
+- TOP 3.2.: Veranstaltung auf öffentlichem Verkehrsgrund; hier: Platzfest auf dem Hans-Mielich-Platz am 04.09.12; Zuleitung des KVR vom 04.07.12 mit der Bitte um Stellungnahme bis 17.08.12
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Bezirksausschüsse in "Stadtteilräte" umbenennen; Beschluss des Verwaltungs- und Personalausschusses vom 11.07.2012
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
