@@ -1,0 +1,103 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-07-17T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2467806
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2467806
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: Amtsniederlegung Lutz Becherer
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Blumenstraße 17: Aufstockung eines Wohn- und Geschäftshauses
+- TOP .2.: Sonnenstraße 25: Nutzungsänderung Ladeneinheit zu Musikcafè
+- TOP .3.: Karlsplatz 3: Erweiterung des GD, Überbauung der Dachterrasse im Rückgebäude
+- TOP .4.: Tal 4: Aufstockung und Erweiterung eines Wohn- und Geschäftsgebäudes
+- TOP .5.: Neuhauser Straße 19-21: Neubau eines Wohn- und Geschäftshauses (Tektur)
+- TOP .6.: Thierschplatz 3:Abbruch und Neuerrichtung des Dachstuhls, Wirtsgarten, Gauben (vertagt)
+- TOP .7.: Hackenstraße 7: Instandsetzung, Umbau und Erweiterung Neubau, Tiefgarage (vertagt)
+- TOP .8.: Dienerstraße 17: Um- und Ausbau eines Ladenlokals zum ?Porsche Design Store?
+- TOP .9.: Oettingenstraße 27: Abbruch zweier Gauben, Neubau Wintergarten, Terrasse DG
+- TOP .10.: NACHTRAG: Theatinerstraße 44: Änderung Eingangssituation , Austausch Schaufensterelement
+- TOP .11.: NACHTRAG: Adelgundenstraße 19: Anbau von Balkonen an ein Wohngebäude
+- TOP .12.: NACHTRAG: Franz-Josef-Strauß-Ring 4: Errichtung eines Prüfungssaals
+- TOP .13.: NACHTRAG: Unterer Anger 3: Sanierung und Umbau eines Verwaltungsgebäudes
+- TOP .14.: NACHTRAG: Promenadeplatz 8: Erweiterung Frühstücksraum
+- TOP .15.: NACHTRAG: Frauenplatz 11: Aufzugserweiterung und Einbau Gauben
+- TOP .16.: NACHTRAG: Maximilianstraße 17: Umbau des Cherubin-Ballsaals und Konferenzbereichim ?Hotel Vier Jahreszeiten?
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Frozen-Joghurt-Eisdiele?, Rumfordstraße 7: Genehmigung einer Freischankfläche
+- TOP .2.: ?Nigin?, Dultstraße 1: Genehmigung einer Freischankfläche
+- TOP .3.: NACHTRAG: ?Kentuky Fried Chicken?, Tal 27: Erweiterung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Steinsdorfstraße 18: mobiler Fahrradständer
+- TOP .2.: Zweibrückenstraße 19: Fahrradständer
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: Informationsveranstaltung BRK am 08.12.2012, Odeonsplatz
+- TOP .2.: Informationsveranstaltung mit Sammlung der Johanniter-Unfall-Hilfe am 01.12.2012, Odeonsplatz
+- TOP .3.: Fußwallfahrt St. Pius am 27.07.2012, Start Odeonsplatz
+- TOP .4.: Informationsveranstaltung ?Da Sein für München? am 08.09.2012, Marienplatz
+- TOP .5.: Brunnenfest am 03.08.2012, Viktualienmarkt
+- TOP .6.: Veranstaltung des Fränkischen Weinbauernverbands vom 03.08.2012, Odeonsplatz
+- TOP .7.: NACHTRAG: Isarinselfest vom 31.08. bis 02.09.2012
+- TOP .8.: Kunstprojekt ?Fairdrop? vom 16.-22.10.2012, Thierschstraße/Adelgundenstraße
+- TOP .9.: NACHTRAG: Aktion ?Teller statt Tonne? am 25.08.2012, Odeonsplatz
+- TOP .1.: Ortstermin Prälat-Zistl-Straße
+- TOP .1.: Standortgenehmigung Parkscheinautomat Westenriederstraße 49
+- TOP .2.: (E) Wegesicherheit Stachus-UG Empfehlung Nr. 08-14 / E 01210 der Bürgerversammlung des Stadtbezirkes 1 - Altstadt-Lehel am 29.11.2011
+- TOP .1.: Radabstellplätze am St. Anna Platz
+- TOP .1.: UA: Projekt ?Kinder rasen in der Stadt?
+- TOP .1.: (E) Budget der Bezirksausschüsse Förderverein Komische Pinakothek e.V. Ausstellung "Fiese Bilder" vom 26.07. - 16.09.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Glockenbachwerkstatt e.V. Musik- und Kulturfestival vom 02. - 05.08.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP .5.: BA-Budget: Kunstausschuss St. Lukas: Kunstprojekt ?Transformation? vom 11.10.-13.10.2012
+- TOP .1.: Bestellung eines Ferienausschusses
+- TOP .2.: Termine 2013
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Beschluss des Verwaltungs- und Personalausschusses vom 11.07.2012: Bezirksausschüsse in ?Stadtteilräte? umbenennen
+- TOP 0.2.: Antwortschreiben des Direktoriums zum Antrag des BA 5 auf Erweiterung der BA-Vertretungen in Wettbewerben
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Antwortschreiben der LBK zum Bauvorhaben Zweibrückenstraße 11
+- TOP 0.3.: Beschluss der Vollversammlung vom 27.06.2012: Sozialgerechte Bodennutzung
+- TOP 0.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012: Kostenerhebung im Genehmigungsfreistellungsverfahren
+- TOP 0.7.: Antwortschreiben des Oberbürgermeisters bzgl. der Werbung für Spielhallen auf Bussen der MVG und Partnerunternehmen, zu TOP 2012.03 B 3.2.2
+- TOP 0.8.: Eilentscheidung der Stellvertretenden Vorsitzenden zur Beschlussvorlage Nr. 08-14/V 9854 ?Marienhof? für die gemeinsame Sitzung des Ausschusses für Stadtplanung und Bauordnung des Bauausschusses vom 11.07.2012
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Beschluss des Ausschusses für Arbeit und Wirtschaft vom 10.07.2012: Christkindlmarkt 2012
+- TOP 0.6.: Antwortschreiben des KVR zu einer Bürgerbeschwerde über Werbefahrräder auf Gehwegen, zu TOP 2012.06 C 1.1
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: -
+- TOP 0.2.: Bescheid zum Vollzug der Baumschutzverordnung Sendlinger Straße 42
+- TOP 0.3.: Bescheid zum Vollzug der Baumschutzverordnung Kreuzstraße 9
+- TOP 0.4.: Bürgerbeschwerde über Nachtbaustelle Steinsdorfstraße 8 - 10
+- TOP 0.5.: Antwortschreiben des Vorsitzenden zu einem Bürgerschreiben und einer BV-Empfehlung Nr. 08-14/ E 01222 bzgl. Befahrung der Fußgängerzone für Gehbehinderte
+- TOP 0.6.: Seismikmessungen in der Stadt München
+- TOP 0.7.: Gefahrenbaumfällung Salvator-/Theathinerstraße
+- TOP 0.8.: Antwortschreiben zur BA-Antrag Nr. 08-14/B 3890: Grünstreifen am Rand der Bushaltebucht Thomas-Wimmer-Ring
+- TOP 0.9.: Antwortschreiben zur BA-Antrag Nr. 08-14/B 788: Triftstraße / Einmündung Liebigstraße
+- TOP 0.10.: Fahrbahnsanierung ?Rochusberg? zwischen Prannenstraße und Salvatorstraße
+- TOP 0.11.: Beschluss des Bauausschusses vom 11.07.2012: Umgestaltung Tal - Verbesserungsmaßnahme
+- TOP 0.12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012: Satzung der LHM über Herstellung und Bereithaltung von Abstellplätzen für Fahrräder
+- TOP 0.13.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2012: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern: Dritte Startbahn: Ziel verfehlt!
+- TOP 0.1.: Beschluss des Sozialausschusses vom 05.07.2012: Mieterbeiratswahl 2012
+- TOP 0.2.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und für Bildung und Sport vom 04.07.2012: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
+- TOP .4.: (E) Budget der Bezirksausschüsse Initiative "Buchprojekt" Buchprojekt "Berufswunsch Kunst"
+- TOP 0.6.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung
