@@ -1,0 +1,126 @@
+# BA 05 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 5: Au-Haidhausen
+- Beginn: 2012-07-18T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/269
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506763
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506763
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit
+- TOP .2.: Beschluss über die endgültige Tagesordnung
+- TOP .3.: Genehmigung der Sitzungsniederschrift der letzten Sitzung
+- TOP .1.: Protokoll 23.05.2012
+- TOP .2.: Protokoll 27.06.2012
+- TOP .4.: Bürgerinnen und Bürger haben das Wort
+- TOP .4.1: Anwesende Bürgerinnen und Bürger
+- TOP .1.: Herz und Rampen
+- TOP .4.2: Schriftlich eingegangene Bürgeranliegen
+- TOP .1.: Sachbericht ASZ Flohmarkt
+- TOP .2.: ?Lange Nacht der elektronischen Musik? an der Reichenbachbrücke; Stellungnahme des KVR vom 18.06.2012
+- TOP .3.: Flyer ?Nachbarschaft hilft in der Au?
+- TOP .4.: Tanzprojekt SFZ An der Isar
+- TOP .5.: Neubauvorhaben Bereiteranger 15
+- TOP .6.: Praktikumsplatzbörse des AKA e.V.
+- TOP .7.: Lärmbelästigung Tram Linie 16
+- TOP .8.: Überwachung der Freischankflächen
+- TOP .9.: Defektes Geländer am Waldweg zum Bergsteig
+- TOP .10.: Platzgestaltung Breisacher-/Belfortstraße
+- TOP .5.: Anträge
+- TOP .6.1: Anträge auf einen Zuschuss aus dem BA-Budget
+- TOP .1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 10.08.2012
+- TOP .6.2: Sondernutzungserlaubnisse bzw. Sperrzeitverlängerung
+- TOP .1.: Rosenheimer Str. 14; ?Vero-e-Peso?, Genehmigung einer Freischankfläche
+- TOP .2.: Rosenheimer Str. 34; ?Manam?, Genehmigung einer Freischankfläche
+- TOP .3.: Metzstr. 37, ?Stehcafe am Eck?: Genehmigung einer Freischankfläche
+- TOP .6.3: Weitere Entscheidungen
+- TOP .1.: Nutzung des inneren Bereichs des Haidhauser Block 25 als halböffentliche Grünfläche für Anlieger (BV-Empfehlung Nr. 08-14/ E 01253)
+- TOP 2: (E) Regelmäßigere Reinigung am Vorplatz zum Ostbahnhof Empfehlung Nr. 08-14 / E 01259 der Bürgerversammlung des Stadtbezirkes 5 - Au-Haidhausen am 08.03.2012
+- TOP 2.3.: Rosenheimer Straße - Radwegrückbau zw. Am Lilienberg und Schleibinger Straße; Projektplanung
+- TOP 2.8.1: Antwortschreiben zu BA-Anträgen
+- TOP 2.1.: Deckung der Mehrkosten bei Teestube KOMM für 2013-2015 durch das Sozialreferat der Landeshauptstadt München
+- TOP 2.2.: Unterstützung der Resolution des Münchner Forums "Münchner Grün ist nicht braun"
+- TOP 2.3.: Baumscheiben in der Lothringer Straße
+- TOP 2.4.: Einrichtung einer Fläche für Boule-Spiele auf der Postwiese
+- TOP 2.5.: Öffnung des Außenbereichs des Deutschen Museums/ Museumsinsel für die Öffentlichkeit
+- TOP 2.8.2: Reaktionen auf BA-Schreiben
+- TOP 2.1.: Tempo 30 ohne Einschränkung auch in der Flurstraße; Schreiben des KVR vom 18.06.2012
+- TOP 2.2.: Geschwindigkeitsmessungen in der Wolfgangstraße; Schreiben der PI 21 vom 13.06.2012; Schreiben des Polizeipräsidiums München vom 13.06.2012
+- TOP 2.8.3: Weitere Unterrichtungen
+- TOP 2.1.: Mieterbeiratswahl 2012; Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder, Beschluss des Sozialausschusses vom 05.07.2012
+- TOP 2.2.: Bezirksausschüsse in ?Stadtteilräte? umbenennen; Beschluss des Verwaltungs- und Personalausschusses
+- TOP 2.3.: Verkehrsrechtliche Anordnung, Kirchenstr. 11, Widmungserweiterung
+- TOP 2.4.: Neuer BA-Vorsitzender in Berg am Laim
+- TOP 2.5.: Erweiterung der BA-Vertretung in Wettbewerben, Antrag des BA 5 vom 28.03.2012, Anhörung der übrigen Bezirksausschüsse
+- TOP 2.6.: Haltverbote für Filmaufnahmen in der Flurstraße für ?Das kleine Gespenst?, hier: Eilentscheidung der Vorsitzenden vom 09.07.2012
+- TOP 2.7.: Abhaltung von Mieterversammlungen, Schreiben des Direktoriums vom 31.05.2012
+- TOP 2.8.: Beschlussvorlage zum ?Klenzesteg?; hier:Schriftliche Zustimmung zu den mit Baureferat besprochenen Änderungen zur Kenntnis
+- TOP 2.9.: Mitarbeiterfest auf dem Preysingplatz am 24.07.2012; hier: Eilentscheidung der Vorsitzenden vom 09.07.2012
+- TOP 2.10.: Perspektive München; Stellungnahme des BA 5 vom 10.07.2012
+- TOP 2.11.: Dialog Display in München; Beschluss des Kreisverwaltungsausschusses am 24.07.2012
+- TOP 2.12.: Lichtzeichenanlage am Edlinger Platz
+- TOP 2.13.: Verfahren und Bearbeitung des Aufstellungsbeschlusses zur Umstrukturierung der Betriebsfläche der Paulaner Brauerei; Bericht aus der Vorstandssitzung
+- TOP 2.8.4: Unterrichtungen und Informationen (vgl. Infoblatt)
+- TOP 2.1.: Regsam
+- TOP 2.2.: Kinder und Jugend
+- TOP 2.3.: Behinderte und Barrierefreiheit
+- TOP 2.4.: Ausländer und Flüchtlinge
+- TOP 2.5.: Frauen und Mädchen
+- TOP 2.6.: Internet
+- TOP 2.7.: Baumschutz
+- TOP 2.1.: Kirchenstr. 11-13a
+- TOP 2.1.: Broschüre Kultur/Geschichtspfade, Neue Auflage/ Ergänzungen (Oktober 2009)
+- TOP 2.2.: Die ?Weiße Rose?: Ehrende Erinnerung (Antrag Juni 2008)
+- TOP 2.3.: Belebung Orleansplatz durch Kultur (März 2009)
+- TOP 2.4.: Alternative Angebote der Stadtwerke betreffs Künstler ?Einstein28? (Abriss des Gebäudes)
+- TOP 2.5.: Bericht ?Ein Abend für Carlamaria Heim? im ?neuen? KIM-Kino, 15.06.2012
+- TOP 2.6.: Kunstprojekt am Weißenburger Platz am 16.09.2012 (zusätzliche Vorbehandlung in UA Kultur); NEU: zusätzliche Anhörung Baureferat vom 13.07.2012
+- TOP 2.1.: Stadtjugendamt / Förderung freier Träger, Haushaltsjahr 2013 Projekt: Nachbarschaftshilfe in der Au / Stadtbezirk 5
+- TOP 2.1.: Sozialgerechte Bodennutzung ? Der Münchner Weg; Fortschreibung der Stadtratsbeschlüsse, Beschluss des Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschussses, des Ausschusses für Arbeit und Wirtschaft und des Finanzausschusses vom 13.06.2012
+- TOP 2.2.: REGSAM ? Grundlage für ein soziales München, Broschüre
+- TOP 2.1.: Nutzungsanfrage des RAW zum Mariahilfplatz: Ausweichmöglichkeit für Schausteller während des Oktoberfests
+- TOP 2.2.: Weißenburger Platz, Kunstaktion Berkan Karpat am 16.09.2012
+- TOP 2.3.: Isarinselfest vom 31.08. bis 02.09.2012
+- TOP 2.1.: Werbenutzungsvertrag der Landeshauptstadt München, Ergebnisse der StandortbereisungWerbenutzungsvertrag der Landeshauptstadt München, Ergebnisse der Standortbereisung
+- TOP 2.3.: Orleansplatz, Durchführung Europafest
+- TOP 2.1.: Langfristiges Konzept für die Entwicklung des Klinikums rechts der Isar
+- TOP 2.2.: Einsteinstr. 95; Neubau eines Mehrfamilienhauses mit Tiefgarage - VORBESCHEID
+- TOP 2.3.: Barnabasstr. 1, Balkonanbau (Barnabasstr. 1+3 / St.-Wolfgangs-Platz 1+2/ Sieboldstr. 9)
+- TOP 2.4.: Mariahilfplatz, Errichtung barrierefreier Zugang / Rampe zur Mariahilf-Kirche ? Nordseite
+- TOP 2.5.: Hochstr. 15: Neubau einer Lagerhalle für KFZ-Schrott und Abfall
+- TOP 2.6.: Johannispl. 12: Nutzungsänderung eines ehem. Speichers zu 2 Wohnungen, Errichtung von 2 Dachterrassen und 10 Gauben. Anbau eines Außenaufzugs
+- TOP 2.7.: Obere Johannisstr. 1, Neubau eines Mehrfamilienhauses (vier Wohneinheiten) mit Teilabbruch
+- TOP 2.8.: Balanstr. 12: Nutzungsänderung und Ausbau des Dachspeichers zu zwei Wohneinheiten ? VORBESCHEID
+- TOP 2.9.: Wörthstr. 5: Nutzungsänderung und Ausbau des Dachspeichers zu vier Wohneinheiten ? VORBESCHEID
+- TOP 2.10.: Wörthstr. 34: Nutzungsänderung und Ausbau des Dachspeichers zu drei Wohneinheiten ? VORBESCHEID
+- TOP 2.1.: Eingegangene Baulisten zur Kenntnis (04.06.2012 ? 10.06.2012, 11.06.2012 - 17.06.2012, 18.06.2012 ? 24.06.2012, 25.06.2012 ? 01.07.2012)
+- TOP 2.2.: Sozialgerechte Bodennutzung ? Der Münchner Weg; Fortschreibung der Stadtratsbeschlüsse; Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung, des Kommunalausschusses, des Ausschusses für Arbeit und Wirtschaft und des Finanzausschusses vom 13.06.2012; Beschluss der Vollversammlung des Stadtrats vom 27.06.2012
+- TOP 2.3.: Einsteinstr. 28, Neubau eines Schulgebäudes, Nutzungsänderung mit Aufstockung des Bestands ? VORBESCHEID; Behandlung in Stadtgestaltungskommission; Schreiben der LBK vom 21.06.2012
+- TOP 2.4.: Preysingstr. 33, Sanierung Gesamtanwesen mit Errichtung eines Rückgebäudes, Anbau eines Außenaufzugs und einer neuen Balkonanlage, Dachgeschoss-Ausbau (drei Wohneinheiten, hier: Genehmigungsbescheid vom 08.06.2012
+- TOP 2.5.: Ismaninger Str. 22, Errichtung eines OP-Zentrums Nord mit acht OP-Sälen, Intensiv- und Normalpflege, Poliklinik, Arztdienstbereich für das Klinikum rechts der Isar der TU München, hier: Zustimmungsbescheid vom 08.06.2012
+- TOP 2.6.: Einsteinstr. 28; Verwaltungsinterne Projektgenehmigung
+- TOP 2.1.: Abgrenzung des Bürgersteigs am Gebsattelberg von der Franziskanerstraße bis zum Herrgottseck für Radfahrer, Antrag des Seniorenbeirats
+- TOP 2.2.: Finanzierung der WALK 21, Antrag des BA 5?
+- TOP 2.3.: Verkehrsaufkommen Weilerstraße, Bürgerschreiben vom 27.06.2012
+- TOP 2.4.: Neubaustrecke Trambahn Steinhausen
+- TOP 2.5.: Austausch Lichtzeichenanlage Einstein-/Seeriederstraße
+- TOP 2.1.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung; Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012
+- TOP 2.3.: Radverkehrsanlage in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus, Beschluss des Bauausschusses vom 10.07.2012
+- TOP 2.1.: Berichte von wahrgenommenen Terminen
+- TOP 2.2.: Nächste UA-Sitzungen
+- TOP 2.1.: UA Kultur: Mittwoch, 05.09.2012, 18.30 Uhr, Haidhausen Museum, Kirchenstr. 24 UA WAS: Donnerstag, 13.09.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Wirtschaft: Dienstag, 11.09.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA Planung: Donnerstag, 13.09.2012, 19.30 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb. UA GUV: Montag, 10.09.2012, 19.00 Uhr, Büro Diakonie, Elsässer Str. 30, Rgb.
+- TOP 2.3.: Nächste BA-Sitzung
+- TOP 2.1.: Mittwoch, 19.09.2012, 19.00 Uhr, Pfarrsaal St. Wolfgang, St.-Wolfgangs-Platz 9
+- TOP 2.4.: Sonstige Termine
+- TOP 2.1.: Preis für Stadtbildpflege ? Wettbewerb Bauen und Sanieren in historischer Umgebung, Teilnahme BA?
+- TOP 2.2.: Bauvorhaben ?Sudetendeutsches Museum München?, Vorstellung der Planungen in BA 5?
+- TOP 2.1.: Entscheidungen
+- TOP 2.2.: Anhörungen
+- TOP 2.3.: Unterrichtungen
+- TOP 2.2.: Radfahrer auf dem Wiener Platz
