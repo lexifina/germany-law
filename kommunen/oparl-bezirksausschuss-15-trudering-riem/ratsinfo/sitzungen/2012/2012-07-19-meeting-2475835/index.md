@@ -1,0 +1,109 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2012-07-19T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2475835
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2475835
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 0.0.2: Genehmigung der Niederschrift der BA-Sitzung vom
+- TOP 0.0.3: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.0.5: Nachbesetzung in den Unterausschüssen
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 15 Trudering-Riem Widmung einer Teilstrecke der Bajuwarenstraße
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Christophorus-Schulverein, München e.V. 3. Interkulturelles Schulfußballturnier am 25.07.2012
+- TOP 1.4.: (E) Budget der Bezirksausschüsse ECHO e.V. Ausstattung "Denkarium"
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Verein der Freunde und Förderer der Musik in der Pfarrei St. Augustinus e.V. Orgelkonzert am 15.08.2012
+- TOP 2: Bürgerschreiben
+- TOP 2.1.: Autoraser in der Samoastraße
+- TOP 2.2.: Parkmöglichkeiten in der Waldstraße
+- TOP 2.3.: Lomeweg, Antrag für zwei Parkplätze
+- TOP 2.4.: Antrag auf Verlegung der Kfz-Verwahrstelle Thomas-Hauser-Straße 19
+- TOP 3: Antwortschreiben der Landeshauptstadt München
+- TOP 3.1.: Grundstücksverkauf 4. Bauabschnitt Wohnen in der Messestadt
+- TOP 3.2.: Brachliegende Grundstücke in der Messestadt
+- TOP 3.3.: Städtische Brachflächen dauerhaft entmüllen
+- TOP 3.4.: Konkrete Planungen für ein dauerhaftes Kulturzentrum Messestadt
+- TOP 3.5.: Radfahren auf dem Willy-Brandt-Platz und dem Platz der Menschenrechte
+- TOP 3.6.: LKW-Verbot in den Wohnstraßen der Messestadt
+- TOP 3.7.: Errichtung eines Waldkindergartens im Bereich des Riemer Wäldchens bzw. des Riemer Parks
+- TOP 3.8.: "Münchner Grün ist nicht braun" Resolution des Münchner Forums zum Stadtgrün in München
+- TOP 3.9.: Partizipation ernst nehmen - Entscheidungsrecht über örtliche Gedenktafeln für die Bezirksausschüsse
+- TOP 4: Anträge von BA-Mitgliedern
+- TOP 4.1.: Soziale Integrationsfähigkeit der Messestadt nicht überdehnen
+- TOP 4.2.: Von Innsbruck lernen: Realschule Messestadt Ost innovativ verwirklichen
+- TOP 4.3.: Sicherer Radweg im Bereich Rappenweg/ Schwablhofstraße
+- TOP 4.4.: Begrünung um die Feldkreuze an der Birthälmer Straße und in der Grünanlage an der Gartenstadtstraße
+- TOP 4.5.: Endlich Sitzbänke der Messestadt-Promenade renovieren
+- TOP 5: Anhörungen
+- TOP 5.1.: Neubaustrecke Trambahn Steinhausen von der Einsteinstraße bis zur Hultschiner Straße; Anhörung der Bezirksausschüsse
+- TOP 5.2.: Erweiterung der BA-Vertretungen in Wettbewerben; BA-Antrag Nr. 08-14/ B 03849 des BA 05 Au-Haidhausen vom 28.03.12; Anhörung der Bezirksausschüsse
+- TOP 5.3.: Aktionen des Echo e.V. im Riemer Park am 22.07., 13.-18.08. und 13.10.12
+- TOP 5.4.: 17. Drachenfest im Riemer Park am 22./23.09.12
+- TOP 5.5.: Chinesischer Staatszirkus Qiqihar, Flst. 1408(18, Gemarkung Trudering an der Olof-Palme-Str. 11 (Tower-Grundstück Teilfläche) ca. vom 21.12.12 - 06.01.13
+- TOP 6: Bürger-/Einwohnerversammlung
+- TOP 7: Unterausschüsse/Ortstermine
+- TOP 7.7.1: UA Schule und Soziales
+- TOP 7.1.: Ruhestörung durch Jugendliche am Kinderspielplatz in der Anton-Geisenhofer-Straße
+- TOP 7.7.2: UA Kultur:
+- TOP 7.7.3: UA Planung:
+- TOP 7.1.: 29. Änderung des Flächennutzungsplanes der Gemeinde Aschheim; Beteiligung der Behörden und sonstiger Träger öffentlicher Belange gemäß § 4 Abs. 2 BauGB; Schreiben des Referats für Stadtplanung und Bauordnung vom 18.06.12 an die Gemeinde Aschheim
+- TOP 7.2.: 30. Änderung des Flächennutzungsplan der Gemeinde Aschheim
+- TOP 7.3.: Bürgerschreiben vom 11.06.12 zu Baumfällungen im Rahmen von Baumaßnahmen auf dem Grundstück Feldbergstr. 58
+- TOP 7.4.: Bauvorhaben Fauststr. 68, Errichtung eines Mehrfamilienhauses (6 WE) mit TG
+- TOP 7.5.: Bauvorhaben Ingeborgstr. 52; Neubau eines Mehrfamilienhauses mit Garage
+- TOP 7.6.: Bauvorhaben Von-Gravenreuth-Str. 37; Neubau eines Mehrfamilienhauses mit TG
+- TOP 7.7.: Bauvorhaben Von-Gravenreuth-Str. 37; Neubau eines Einfamilienhauses mit Garage
+- TOP 7.8.: Bauvorhaben Matterhornstr. 24d
+- TOP 7.7.4: UA Bau und Verkehr:
+- TOP 7.1.: Schulweg in Kirchtrudering sichern
+- TOP 7.2.: Fragwürdige Verkehrsraumnutzung durch einen Autohandel auf dem Grundstück Wasserburger Landstr. 177/ Zaunkönigweg
+- TOP 7.7.5: UA Allgemeines:
+- TOP 7.1.: Bericht der Bezirksvereinigung Gartenstadt Trudering zur 25-Jahr-Feier am Feldkreuz Friedenspromenade am 23.06.12
+- TOP 7.2.: Bericht des Truderinger Burschenvereins von 1895 e.V. vom 04.07.12 zum Kauf der Modulbar
+- TOP 7.3.: Zuwendungsbescheid vom 25.06.12 über Budgetmittel an den Truderinger Burschenverein von 1895 e.V.
+- TOP 7.4.: Zuwendungsbescheid vom 25.06.12 über Budgetmittel an das Familienzentrum Messestadt Riem e.V.
+- TOP 7.7.6: UA Umwelt:
+- TOP 7.7.7: Ortstermine
+- TOP 8: Baumfällungen
+- TOP 8.1.: 8.1 Entscheidungen entgegen dem Votum des Bezirksausschusses: Markgrafenstr.14, Fauststr.72 Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen: 8.2 Heilwigstr. 51; 8.3 Sperberstr. 21a; 8.4 Toni-Schmid-Str. 21; 8.5 Windhukerstr. 18; 8.6 Georg-Thiele-Str. 1; 8.7 Josef-Hagn-Str. 13; 8.8 Graf-Lehndorff-Str. 10
+- TOP 9: Verschiedenes
+- TOP 9.1.: Termine: Runder Tisch zum Gymnasium Trudering: Protokoll der Sitzung vom 13.06.12 und Terminankündigung 10.10.12 Sitzungstermine des BA 15 Trudering-Riem im Jahr 2013
+- TOP 9.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.3.: Aufwandsentschädigung für Bezirksausschussvorsitzende; Anzahl der Termine und Nachweispflicht; Schreiben von Frau Bürgermeisterin Strobl an den Vorsitzenden des BA 1 Altstadt-Lehel
+- TOP 9.4.: Aufstellen von Abfalleimern und Aschenbechern an U-Bahnhöfen; Antrag des BA 10 Moosach mit der Bitte um Unterstützung durch weitere Bezirksausschüsse
+- TOP 9.5.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.6.: Der Regionale Sozialatlas - ein neues Informationsinstrument des Sozialreferats
+- TOP 9.7.: Flyer "Einheitliche Behördennummer 115 jetzt in München"
+- TOP 10: Unterrichtungen
+- TOP 10.1.: Bauvorhaben im Stadtbezirk im Zeitraum 04.06. - 08.07.12
+- TOP 10.2.: Abbruchanzeige: Dorotheenstr. 12
+- TOP 10.3.: Abbruchanzeige: Elfriedenstr. 33
+- TOP 10.4.: Abbruchanzeige: Jagdhornstr. 35
+- TOP 10.5.: Abbruchanzeige: Solalindenstr. 17
+- TOP 10.6.: Abbruchanzeige: Vogesenstr. 46d
+- TOP 10.7.: Erlaubnisbescheid Straßenfest in der Maria-Montessori-Straße am 29.07.12 (Ersatztermin 05.08.12)
+- TOP 10.8.: Bezirksausschüsse in "Stadtteilräte" umbenennen; BA-Antrag Nr. 08-14/ B 03414 des BA 04 Schwabing-West vom 26.10.11; Sitzungsvorlage Nr. 08-14/ V 09480, Beschluss des Verwaltungs- und Personalausschusses vom 11.07.12
+- TOP 10.9.: Information über Straßenbaumaßnahmen Graf-Lehndorff-Straße vom 09.07. bis vsl. 31.10.12
+- TOP 10.10.: Anliegerinformation über den Ausbau der Bushaltestellen Wasserburger Landstraße und Kulturzentrum Trudering (Buslinie 193); Maßnahme vom 25.06. bis vsl. 13.07.12
+- TOP 10.11.: Baumaßnahmen der SWM, Mehrspartenprojekt Graf-Lehndorff-Straße, Änderungen im Terminablauf
+- TOP 10.12.: Flyer über Seismikmessungen in München, Stadtteil Freiham
+- TOP 10.13.: Messestadt Riem, EM 227 Wohn- und Anliegerstraßen im 4. Bauabschnitt Wohnen; Projektkosten (Kostenobergrenze) 6.400.000 ?; Projektauftrag für die endgültige Herstellung; Sitzungsvorlage Nr. 08-14/ V 09444, Beschluss des Bauausschusses vom 10.07.12
+- TOP 10.14.: Mieterbeiratswahl 2012, Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder; Sitzungsvorlage Nr. 08-14/ V 09342, Beschluss des Sozialausschusses vom 05.07.12
+- TOP 10.15.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.12; Sitzungsvorlage Nr. 08-14/ V 09477, Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 04.07.12
+- TOP 10.16.: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Landeshauptstadt München); Sitzungsvorlage Nr. 08-14/ V 09600, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12
+- TOP 10.17.: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Ergebnisse des Beteiligungsverfahrens - Erlass einer Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) (Satzungsbeschluss) - Anträge: - Erlass einer Satzung zur Festlegung der Anzahl von Fahrradabstellplätzen in Wohnanlagen Antrag Nr. 5628 des Bezirksausschusses des 4. Stadtbezirks Schwabing-West vom 31.01.2001 - Fahrradabstellplätze in Neubaugebieten Antrag Nr. 02-08 / A 02539 von Herrn Stadtrat Schwartz und Herrn Stadtrat Mühlhaus vom 11.07.2005 - Fahrradabstellen 1: Fahrradstellplätze in Neubaugebieten sichern Antrag Nr. 08-14 / A 00238 der Stadtratsfraktion Bündnis 90/DIE GRÜNEN/RL vom 21.08.2008; Sitzungsvorlage Nr. 08-14/ V 09305, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12
+- TOP 10.18.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 10.19.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung Anträge a) Gestaltung der Ausgleichs- und Ersatzflächen den klimatischen Bedingungen anpassen Antrag Nr. 08-14 / A 02766 von Herrn Stadtrat Dr. Georg Kronawitter vom 22.09.2011 b) Landwirtschaftliche Flächen in München erhalten! Antrag Nr. 08-14 / A 02873 der Stadtratsfraktion der CSU vom 03.11.2011; Sitzungsvorlage Nr. 08-14/ V 09168, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12
+- TOP 10.20.: Verbundbericht 2011 und Chronik "40 Jahre MVV - eine Erfolgsgeschichte"
+- TOP 10.21.: Gesamtfortschreibung des Landesentwicklungsplans Bayern; Dritte Startbahn: Ziel verfehlt!; Antrag Nr. 08-14/ A 03393 der Stadtratsfraktion Bündnis 90/ Die Grünen/ Rosa Liste vom 20.06.12; Sitzungsvorlage Nr. 08-14/ V 09738, Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.12
