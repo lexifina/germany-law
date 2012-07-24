@@ -157,6 +157,7 @@ Nr. | Kostentatbestand | Kostensatz in EUR
  | Anmerkung: | 
  | Außer der Gebühr sind die Auslagen sowie sonstigen Aufwendungen für Pflege und Transport des Hundes zu erstatten. | 
 122.13 | Ausnahmegenehmigung für Osterfeuer | 35
+122.14 | Ausnahmegenehmigung für die Zucht von Katzen nach § 6 Absatz 7 des Ortsgesetzes über die öffentliche Ordnung | 24
 123 | Sonstiges | 
 123.0 | Verwaltung von Fundsachen | 
 123.00 | bei einem Schätzwert bis zu 15 EUR | gebührenfrei
@@ -249,3 +250,246 @@ Nr. | Kostentatbestand | Kostensatz in EUR
 150.32 | Verlängerung einer Unbedenklichkeitsbescheinigung | 17 bis 40
 150.33 | Festsetzung von Veranstaltungen nach § 69 Abs. 1 Gewerbeordnung | 52 bis 1 040
 150.36 | Rücknahme und Widerruf von Festsetzungen nach § 69 Gewerbeordnung nach den Vorschriften des Allgemeinen Verwaltungsrechts | 52 bis 673
+160 | Waffengesetz (WaffG) |  | 
+160.00 | § 3 Absatz 3 WaffG |  | 
+ | Zulassung einer Ausnahme von Alterserfordernissen | 30 bis 60 | 
+160.01 | a) | § 4 Absatz 3 | 
+ | Regelüberprüfung | 25 bis 75 | 
+ | b) | § 4 Absatz 4 Satz 1 WaffG | 20 bis 40
+ | Erstmalige Überprüfung des Fortbestehens des Bedürfnisses |  | 
+160.02 | § 9 Absatz 2 WaffG |  | 
+ | Nachträgliche Auflagen | 25 bis 250 | 
+160.03 | § 9 Absatz 3 WaffG |  | 
+ | Anordnung bei erlaubnisfreiem Betrieb einer Waffenherstellung, eines Waffenhandels oder einer Schießstätte | 40 bis 300 | 
+160.04 | § 10 Absatz 1 Satz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte einschließlich der Erwerbserlaubnis für eine Schusswaffe | 70 | 
+160.05 | § 10 Absatz 1 Satz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 13 Absatz 2 WaffG für Jäger einschließlich der Erwerbserlaubnis für eine Kurzwaffe | 45 | 
+160.06 | § 10 Absatz 1 Satz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 13 Absatz 3 WaffG für Jäger | 10 | 
+ | Anmerkung: |  | 
+ | Eintragung von Waffen siehe Nr. 160.15 |  | 
+160.07 | § 10 Absatz 1 Satz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 14 Absatz 2 WaffG für Sportschützen einschließlich der Erwerbserlaubnis für eine Schusswaffe | 45 | 
+160.08 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte für Sportschützen in Fällen des § 14 Absatz 4 WaffG | 60 | 
+160.09 | § 10 Absatz 1 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 16 Absatz 1 WaffG für Brauchtumsschützen einschließlich der Erwerbserlaubnis für die erste Schusswaffe | 45 | 
+160.10 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 17 Absatz 2 WaffG für Waffensammler | 250 | 
+160.11 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 17 Absatz 3 WaffG durch Umschreibung der vom Waffensammler hinterlassenen Waffenbesitzkarte | 150 | 
+160.12 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 18 Absatz 2 WaffG für Waffen - und Munitionssachverständige | 150 bis 300 | 
+160.13 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellen einer Waffenbesitzkarte in Fällen des § 20 Absatz 1 WaffG für Erben | 25 | 
+ | Anmerkung: |  | 
+ | Eintragung von Waffen siehe Nr. 160.15 |  | 
+160.14 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellung einer Waffenbesitzkarte in den Fällen der Anlage 2 Abschnitt 2 Unterabschnitt 3 Nummer 1.1 zum WaffG (ohne Bedürfnisprüfung) einschließlich Eintragung eines Voreintrages für eine Waffe | 45 | 
+160.15 | §§ 10 Absatz 1a, § 13 Absatz 3 Satz 2, § 14 Absatz 4 Satz 2 und § 20 Absatz 2 WaffG |  | 
+ | Eintragen einer Waffe oder eines wesentlichen Bestandteils in die Waffenbesitzkarte | 20 | 
+ | Anmerkung: |  | 
+ | Eintragen mehrerer Waffen oder wesentlicher Bestandteile innerhalb eines Erwerbsvorgangs (gleichzeitig vom selben Überlasser): |  | 
+ | a) | 2. bis 10. Waffe pro Waffe | 15
+ | b) | ab 11. Waffe pro Waffe | 10
+160.16 | § 10 Absatz 1 WaffG |  | 
+ | Ausstellung eines Folgedokuments für eine bereits vorhandene Waffenbesitzkarte in Fällen der § 10 Absatz 1 und 2 Satz 2, § 13 Absatz 3, § 14 Absatz 4 und |  | 
+ | § 20 WaffG je Dokument | 10 | 
+160.17 | § 10 Abs. 1 WaffG |  | 
+ | Ausstellung eines Folgedokumentes für eine bereits vorhandene Waffenbesitzkarte in Fällen des § 17 und § 18 WaffG je Dokument | 40 | 
+160.18 | § 10 Absatz 1 Satz 1 WaffG |  | 
+ | Eintragung einer Berechtigung zum Erwerb einer Schusswaffe in eine bereits ausgestellte Waffenbesitzkarte | Gebühr in Höhe der Gebühr für die Ausstellung der jeweiligen Waffenbesitzkarte | 
+160.19 | § 10 Absatz 2 Satz 1 WaffG |  | 
+ | Eintragung einer weiteren Personen in eine bereits vorhandene Waffenbesitzkarte | 35 | 
+160.20 | Ausstellung einer Ersatzausfertigung für ein in Verlust geratenes oder unleserliches waffenrechtliches Dokument | 25 bis 100 | 
+ | Anmerkung: |  | 
+ | Ersatzausfertigung einer Waffenbesitzkarte mindestens | 50 | 
+160.21 | Korrekturen in Erlaubnisdokumenten, wenn Fehler nicht durch Behörden verursacht wurden | 10 | 
+ | Anmerkung: |  | 
+ | Die Erhebung der Gebühr kann bei geringem Aufwand aus Billigkeitsgründen entfallen |  | 
+160.22 | § 10 Absatz 2 Satz 2 WaffG |  | 
+ | Ausstellung einer Vereins-Waffenbesitzkarte einschließlich der Erwerbserlaubnis für die erste Schusswaffe | 35 | 
+160.23 | § 10 Absatz 2 WaffG |  | 
+ | Eintragung oder Änderung einer verantwortlichen Person für vereinseigene Schusswaffen in eine Waffenbesitzkarte | 30 | 
+160.24 | § 10 Absatz 3 Satz 1 WaffG |  | 
+ | Eintragung der Berechtigung zum Munitionserwerb | 15 | 
+160.25 | § 10 Absatz 3 Satz 2 WaffG |  | 
+ | Ausstellung eines Munitionserwerbsscheins einschließlich der Eintragung einer Berechtigung zum Munitionserwerb | 30 bis 60 | 
+160.26 | § 10 Absatz 3 Satz 2 WaffG |  | 
+ | Ausstellung eines Munitionserwerbsscheines für Waffen- und Munitionssammler in Fällen des § 17 Absatz 2 WaffG einschließlich der Eintragung einer Berechtigung zum Munitionserwerb | 50 bis 200 | 
+160.27 | § 10 Absatz 3 Satz 2 WaffG |  | 
+ | Eintragung einer Berechtigung zum Munitionserwerb in einen Munitionserwerbsschein für Waffen- und Munitionssammler in Fällen des § 17 Absatz 2 WaffG (Änderung oder Erweiterung des Sammelthemas) | 50 bis 200 | 
+160.28 | § 10 Absatz 3 Satz 2 WaffG |  | 
+ | Ausstellung eines Munitionserwerbsscheines für Waffen- und Munitionssachverständige in Fällen des § 18 Absatz 2 WaffG einschließlich der Eintragung einer Berechtigung zum Munitionserwerb | 50 bis 200 | 
+160.29 | § 10 Absatz 3 Satz 2 WaffG |  | 
+ | Eintragung einer Berechtigung zum Munitionserwerb für Waffen- und Munitionssachverständige in Fällen des § 18 Absatz 2 WaffG | 15 bis 40 | 
+160.30 | § 10 Absatz 3 Satz 2 WaffG |  | 
+ | Eintragung einer Berechtigung zum Munitionserwerb in einen Munitionserwerbsschein; Ausnahme Sammler | je Eintragsvorgang 15 bis 40 | 
+160.31 | § 10 Absatz 4 Satz 1 und 2 WaffG |  | 
+ | Ausstellung oder Verlängerung eines Waffenscheins für gefährdete Personen in Fällen des § 19 WaffG | 50 bis 200 | 
+160.32 | § 10 Absatz 4 Satz 1 und 2 WaffG |  | 
+ | Ausstellung oder Verlängerung eines Waffenscheins für Bewachungsunternehmer und ihr Bewachungspersonal in Fällen des § 28 WaffG | 50 bis 200 | 
+ | Anmerkung zu den Nummern 160.31 und 160.32: |  | 
+ | Die Untergrenze ist insbesondere für Verlängerungen anzuwenden. |  | 
+160.33 | § 10 Absatz 4 WaffG |  | 
+ | Ausstellung eines Kleinen Waffenscheins | 50 | 
+160.34 | § 10 Absatz 5 WaffG |  | 
+ | Erlaubnis zum Schießen außerhalb von Schießstätten | 50 bis 200 | 
+160.35 | § 11 Absatz 1 WaffG |  | 
+ | Erlaubnis zum Erwerb von erlaubnispflichtigen Schusswaffen oder Munition | 20 | 
+160.36 | § 11 Absatz 2 WaffG |  | 
+ | Erlaubnis zum Erwerb von erlaubnispflichtigen Schusswaffen oder Munition | 20 | 
+160.37 | § 12 Absatz 5 WaffG |  | 
+ | Erteilung einer Ausnahme von den Erlaubnispflichten | 30 bis 150 | 
+160.38 | § 14 Absatz 2 Satz 3 WaffG |  | 
+ | Ausnahmen vom Erwerbsstreckungsgebot | 45 | 
+ | Anmerkung: |  | 
+ | Kann aus Billigkeitsgründen entfallen, wenn die Gründe nicht im Verantwortungsbereich des Betroffenen liegen (zum Beispiel bei Verlust des bisherigen Bestands durch Diebstahl, Brand oder ähnlichen Gründen) |  | 
+160.39 | § 14 Absatz 3 WaffG |  | 
+ | Erteilung einer Erwerbserlaubnis | 60 | 
+160.40 | § 16 Absatz 2 WaffG |  | 
+ | Bewilligung einer Ausnahme zum Führen von Waffen zur Brauchtumspflege | 50 | 
+160.41 | § 16 Absatz 3 WaffG |  | 
+ | Erlaubnis zum Schießen außerhalb von Schießstätten zur Brauchtumspflege | 30 bis 200 | 
+160.42 | § 17 Absatz 2 WaffG |  | 
+ | Umschreibung der Waffenbesitzkarte nach Änderung des Sammelthemas | 100 bis 250 | 
+160.43 | § 20 Absatz 6 WaffG |  | 
+ | Eintragung der Sicherung einer Schusswaffe je Waffe | 10 | 
+160.44 | § 20 Absatz 6 WaffG |  | 
+ | Austragung der Sicherung einer Schusswaffe je Waffe | 10 | 
+160.45 | § 20 Absatz 7 Satz 2 WaffG |  | 
+ | Zulassung der Ausnahme einer Blockierpflicht für Waffen einer Sammlung | 20 | 
+160.46 | § 21 Absatz 1 WaffG |  | 
+ | Erlaubnis zur Herstellung, Bearbeitung oder Instandsetzung von Schusswaffen oder Munition | 50 bis 3 000 | 
+160.47 | § 21 Absatz 1 in Verbindung mit § 21a WaffG |  | 
+ | Erlaubnis zur Herstellung, Bearbeitung oder Instandsetzung von Schusswaffen oder Munition als Stellvertretererlaubnis | 50 bis 3 000 | 
+160.48 | § 21 Absatz 1 WaffG |  | 
+ | Erlaubnis zum Handel mit Schusswaffen oder Munition | 50 bis 3 000 | 
+160.49 | § 21 Absatz 1 in Verbindung mit § 21a WaffG |  | 
+ | Erlaubnis zum Handel mit Schusswaffen oder Munition als Stellvertretererlaubnis | 50 bis 3 000 | 
+160.50 | § 21 Absatz 5 Satz 2 WaffG |  | 
+ | Bewilligung von Fristverlängerungen | 25 v.H. der Gebühr für die entsprechende Erlaubnis | 
+160.51 | § 21a in Verbindung mit § 21 Absatz 5 WaffG |  | 
+ | Bewilligung von Fristverlängerungen | 25 v.H. der Gebühr für die entsprechende Erlaubnis | 
+160.52 | § 22 Absatz 1 WaffG |  | 
+ | Prüfung der Fachkunde | 150 bis 300 | 
+160.53 | § 25 Absatz 2 WaffG |  | 
+ | Anordnung einer Kennzeichnung je Waffe | 20 | 
+160.54 | § 26 Absatz 1 WaffG |  | 
+ | Erlaubnis zum nicht gewerbsmäßigen Herstellen, Bearbeiten oder Instandsetzen von Schusswaffen | 75 bis 500 | 
+160.55 | § 27 Absatz 1 WaffG |  | 
+ | Erlaubnis zum Betrieb oder zur wesentliche Änderung einer Schießstätte ohne Abnahmeprüfung | 50 bis 250 | 
+ | Anmerkung: |  | 
+ | Beachte Nr. 161.06 |  | 
+160.56 | § 27 Absatz 4 WaffG |  | 
+ | Zulassung einer Ausnahme vom Mindestalter | 25 | 
+160.57 | § 28 Absatz 3 WaffG |  | 
+ | Zustimmung zur Überlassung von Schusswaffen und Munition an Wachpersonen pro Person | 35 | 
+160.58 | § 28 Absatz 4 WaffG |  | 
+ | Nachträgliche Aufnahme eines Zusatzes in einen Waffenschein | 15 | 
+160.59 | §§ 29, 30 Absatz 1 und 2 und § 31 Absatz 1 WaffG |  | 
+ | Verbringen von Schusswaffen oder Munition in, durch oder aus dem Geltungsbereich des Waffengesetzes |  | 
+ | a) | eine Position | 20
+ | b) | 2 bis 5 Positionen | 40
+ | c) | 6 bis 10 Positionen | 60
+ | d) | 11 bis 50 Positionen | 80
+ | e) | 51 bis 100 Positionen | 100
+ | f) | mehr als 100 Positionen | 120
+ | Anmerkung: |  | 
+ | Eine Position bestimmt sich wie folgt: |  | 
+ | Bei Waffen: identische Angaben nach § 29 Absatz 2 Satz 1 Nummer 2 AWaffV mit Ausnahme der Herstellungsnummern |  | 
+ | Bei Munition: identische Angaben nach § 29 Absatz 2 Satz 1 Nummer 3 AWaffV mit identischen Geschossen |  | 
+160.60 | § 31 Absatz 2 WaffG |  | 
+ | Allgemeine Erlaubnis zum Verbringen von Schusswaffen oder Munition zu Waffenhändlern in einen EU-Staat durch Inhaber einer Erlaubnis nach § 21 WaffG | 80 | 
+160.61 | § 32 Absatz 1 Satz 2 WaffG |  | 
+ | Verlängerung der Geltungsdauer der Einzelgenehmigung im Feld 4 des Europäischen Feuerwaffenpasses | 10 | 
+160.62 | § 32 Absatz 1 WaffG |  | 
+ | Erlaubnis zur Mitnahme von Schusswaffen oder Munition in die oder durch die Bundesrepublik Deutschland durch den Inhaber eines von einem Staat der Europäischen Union ausgestellten Europäischen Feuerwaffenpasses | 15 | 
+160.63 | § 32 Absatz 6 WaffG |  | 
+ | Ausstellen eines Europäischen Feuerwaffenpasses einschließlich der Eintragung der Waffen | 50 | 
+160.64 | § 32 Absatz 6 WaffG |  | 
+ | Ausstellung eines Folgedokuments für einen bereits vorhandenen Europäischen Feuerwaffenpass | 50 | 
+160.65 | § 32 Absatz 6 WaffG |  | 
+ | Eintragen oder Streichen einer oder mehreren Schusswaffen in den oder aus dem Europäischen Feuerwaffenpass | 15 | 
+160.66 | Änderung von sonstigen Eintragungen im Europäischen Feuerwaffenpass | 10 | 
+160.67 | § 34 Absatz 2 WaffG |  | 
+ | Austragen einer Waffe | 15 | 
+ | Austragen mehrerer Waffen innerhalb eines Überlassungsvorgangs (gleichzeitig an denselben Erwerber) |  | 
+ | a) | 2. bis 10. Waffe je Waffe | 12,50
+ | b) | ab 11. Waffe je Waffe | 10
+160.68 | § 36 Absatz 3 WaffG |  | 
+ | a) | Kontrolle von Maßnahmen zur sicheren Aufbewahrung erlaubnispflichtiger Schusswaffen, Munition oder verbotener Waffen am Aufbewahrungsort | 139
+ | b) | Gebühr für eine Nachkontrolle bei festgestellten Verstößen | 70
+160.69 | § 36 Absatz 6 WaffG |  | 
+ | Anordnung eines höheren Sicherheitsstandards bei der Aufbewahrung | 50 bis 200 | 
+160.70 | § 37 Absatz 1 Satz 3 und 4 WaffG |  | 
+ | Einziehung und Verwertung von Gegenständen nach Anzeige der Inbesitznahme | 20 bis 50 | 
+160.71 | § 39 Absatz 3 WaffG |  | 
+ | Anordnung zur Vorlage von Waffen oder Munition sowie Erlaubnisscheinen oder Ausnahmebewilligungen, sofern der Betroffene hierfür den Anlass gegeben hat. | 50 | 
+160.72 | § 41 WaffG |  | 
+ | Anordnung eines Besitz- oder Erwerbsverbots von Waffen und Munition | 75 bis 250 | 
+160.73 | § 41 WaffG |  | 
+ | Aufhebung eines Besitz- oder Erwerbsverbots von Waffen und Munition auf Antrag des Betroffenen | 75 bis 250 | 
+160.74 | § 42 Absatz 2 WaffG |  | 
+ | Zulassung einer Ausnahme des Verbots des Führens bei öffentlichen Veranstaltungen | 20 bis 200 | 
+160.75 | § 45 WaffG |  | 
+ | Widerruf oder Rücknahme einer waffenrechtlichen Erlaubnis, zu dem der oder die Berechtigte Anlass gegeben hat je Dokument | 50 bis 500 | 
+160.76 | § 46 Absatz 2 Satz 1 und Absatz 3 Satz 1 WaffG |  | 
+ | Anordnung weiterer Maßnahmen | 20 bis 100 | 
+160.77 | § 46 Absatz 2 Satz 2, Absatz 3 Satz 2 und Absatz 4 Satz 1 WaffG |  | 
+ | Sicherstellung eines oder mehrerer Gegenstände, die ohne die erforderliche Erlaubnis oder entgegen eines Verbots besessen werden | 50 bis 500 | 
+160.78 | § 46 Absatz 5 Satz 1 WaffG |  | 
+ | Einziehung und Verwertung oder Vernichtung eines oder mehrerer Gegenstände, die ohne die erforderliche Erlaubnis oder entgegen eines Verbots besessen werden | 50 bis 150 | 
+161 | Allgemeine Waffengesetz-Verordnung (AWaffV) |  | 
+161.00 | § 2 AWaffV |  | 
+ | Abnahme der Sachkundeprüfung | 50 bis 200 | 
+161.01 | § 3 Absatz 2 Satz 1 AWaffV |  | 
+ | Anerkennung von Sachkundelehrgängen | 100 bis 1 000 | 
+161.02 | § 3 Absatz 2 Satz 2 AWaffV |  | 
+ | Anerkennung des waffenrechtlichen Teils einer Prüfung zum Führen eines Luft- oder Wasserfahrzeuges | 50 bis 500 | 
+161.03 | § 9 Absatz 2 AWaffV |  | 
+ | Zulassung von Ausnahmen von den Beschränkungen des Schießbetriebes | 25 bis 100 | 
+161.04 | § 10 Absatz 1 Satz 5 AWaffV |  | 
+ | Festlegung der Anzahl von Aufsichtspersonen | 30 | 
+161.05 | § 10 Absatz 4 AWaffV |  | 
+ | Untersagung der Ausübung der Aufsicht | 50 bis 100 | 
+161.06 | § 12 Absatz 1 AWaffV |  | 
+ | Abnahme, Regel- und Sonderprüfungen einer Schießstätte | 50 bis 800 | 
+161.07 | § 12 Absatz 2 AWaffV |  | 
+ | Untersagung der Benutzung der Schießstätte | 50 bis 150 | 
+161.08 | § 13 Absatz 5 bis 8 AWaffV |  | 
+ | Zulassung einer gleichwertigen oder abweichenden Aufbewahrung | 25 bis 200 | 
+161.09 | § 14 AWaffV |  | 
+ | Zulassung einer abweichenden Aufbewahrung | 50 bis 250 | 
+161.10 | § 17 Absatz 2 Satz 2 AWaffV |  | 
+ | Abstempeln der Karteiblätter des Waffenherstellungsbuches | 15 pro angefangene 50 Stück | 
+161.11 | § 20 Absatz 4 AWaffV |  | 
+ | Zulassung einer Ausnahme | 30 | 
+161.12 | § 23 Absatz 2 AWaffV |  | 
+ | Gestattung der Teilnahme an einem Lehrgang im Verteidigungsschießen | 25 bis 100 | 
+161.13 | § 25 Absatz 1 und 2 AWaffV |  | 
+ | Untersagung von Lehrgängen und Übungen im Verteidigungsschießen sowie Anordnung der einstweiligen Einstellung der Lehrgänge oder des Schießbetriebes | 100 bis 200 | 
+161.14 | Sonstige Amtshandlungen, insbesondere Prüfungen und Untersuchungen, die im Interesse oder auf Veranlassung des Gebührenschuldners vorgenommen werden und in den Nummern 160 und 161 nicht aufgeführt sind | 10 bis 500 | 
+162 | Gebührenfreie Amtshandlungen nach dem Waffengesetz und der Allgemeinen Waffengesetz-Verordnung |  | 
+162.00 | § 20 Absatz 7 Satz 1 WaffG |  | 
+ | Zulassung einer Ausnahme |  | 
+ | Anmerkung: |  | 
+ | Gebührenfrei bis zur Zulassung eines entsprechenden Blockiersystems nach § 20 Absatz 4 WaffG |  | 
+162.01 | § 34 Absatz 2 WaffG |  | 
+ | Austragung einer Waffe bei Überlassung an die Waffenbehörde zur Vernichtung |  | 
+162.02 | § 36 Absatz 3 Satz 1 WaffG |  | 
+ | Nachweis der sicheren Aufbewahrung bei Aufforderung |  | 
+162.03 | § 37 Absatz 1 Satz 2 WaffG |  | 
+ | Sicherstellung von Gegenständen nach Anzeige der Inbesitznahme |  | 
+162.04 | § 37 Absatz 1 Satz 2 WaffG |  | 
+ | Anordnung zur Unbrauchbarmachung oder Überlassung |  | 
+160.05 | § 40 Absatz 5 Satz 2 WaffG |  | 
+ | Sicherstellung einer oder mehrerer verbotener Waffen |  | 
+162.06 | § 40 Absatz 5 Satz 2 WaffG |  | 
+ | Anordnung zur Unbrauchbarmachung oder Überlassung |  | 
+162.07 | § 55 Absatz 2 WaffG |  | 
+ | Bescheinigung über die Berechtigung zum Erwerb und Besitz und zum Führen von Waffen |  | 
+162.08 | § 56 WaffG |  | 
+ | Bescheinigung für Staatsgäste und andere Besucher |  | 
+162.09 | Amtshandlungen in Bezug auf Schusswaffen und Munition, die in dienstlichem Interesse von einem öffentlichen Bediensteten verwendet werden. |  | 
