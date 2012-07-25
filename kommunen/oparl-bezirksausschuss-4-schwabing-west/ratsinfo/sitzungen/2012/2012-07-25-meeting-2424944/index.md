@@ -1,0 +1,66 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-07-25T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2424944
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2424944
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Franz-Joseph-Str. 44, ?Best of Cashmere?: Aufstellung eines Kleiderständers
+- TOP .2.: Kurfürstenplatz 8: ?Lili & Milou Kids Design?: 2 Warenauslagen
+- TOP .3.: Belgradstr. 14: ?Julies?: 2 Warenauslagen
+- TOP .2.2.: Kultur
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "TAM TAM" TAM TAM Open-Air am 21.07.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative "Cézanne Duo München" Konzert am 05.10.2012
+- TOP .2.3.: Veranstaltungen
+- TOP .2.1.: Planen
+- TOP .1.: Hohenzollernstr. 158: Neuerrichtung Dachgeschosse mit Ausbau zu Wohnraum (1.+2. DG) / Errichtung eines Personenaufzugs / WDVS
+- TOP .2.: Speyerer Str. 14: Neubau eines Mehrfamilienhauses (41 WE) und einer Tiefgarage (91 Stellplätze) ? Tektur
+- TOP .3.: Lissi-Kaeser-Straße: Neubau eines Mehrfamilienhauses (13 WE) mit Tiefgarage - Tektur
+- TOP .4.: Fürstenbergstr. 11: Fassadenänderung, Balkonanbau bzw. -erweiterung, Einbau einer Dachterrasse
+- TOP .5.: Rankestr. 14: DG-Erneuerung (2 WE), Balkonergänzung EG und Errichtung einer Notleiter ? Tektur
+- TOP .6.: Hohenzollernplatz 7: Aufstockung eines Boardinghauses um 2 Geschosse (4.+5. OG) mit Flachdach
+- TOP .7.: Hohenzollernplatz 7: Aufstockung eines Boardinghauses (Gebäudeteil Emanuelstraße) - Tektur
+- TOP .8.: Hohenzollernplatz 7: DG-Umbau, Erweiterung Appartement 801 (8. OG)
+- TOP .9.: Petra-Kelly-Straße: Neubau eines Wohngebäudes (56 WE, Gemeinschaftsraum) mit Tiefgarage (Schwabing Hoch4)
+- TOP .10.: Agnesstr. 52: Energetische Sanierung und DG-Ausbau mit zwei Wohnungen im VGB und einer Wohnung im RGB
+- TOP .2.2.: Wohnen
+- TOP .1.: Caritas: Verlängerung des Schutzgitters vor dem Kinderhaus St. Sebastian
+- TOP .2.: Bürger: Überhandnahme von Rabenkrähen im Stadtgebiet
+- TOP .3.: Bürgerin: Abfallbehälter bei den neuen Bänken an der Clemens-/Apianstraße
+- TOP .4.: Bürgerin: Gebäude Hohenzollernstr. 95-97 künftig vom Straßenverkehr abgehängt?
+- TOP .2.1.: Umwelt
+- TOP .1.: Hiltenspergerstr. 93: Fällung einer Birke
+- TOP .2.: Hiltenspergerstr. 97: Fällung einer Birke und eines Ahorn
+- TOP .3.: Burgunderstr. 11-13: Fällung einer Eberesche
+- TOP .4.: Mainzer Str. 14: Fällung einer Winterlinde
+- TOP .5.: Hohenstaufenstr. 4: Fällung einer Esche
+- TOP .6.: Clemensstr. 119/Hiltenspergerstr. 68: Fällung zweier Thujenbäume
+- TOP .2.2.: Verkehr
+- TOP .1.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Winzererstr. 25
+- TOP .2.: Änderung der Vorfahrtsregelung an den Kreuzungen Georgen-/Zentnerstraße und Georgen-/Hiltenspergerstraße
+- TOP .3.: Einrichtung eines allgemeinen Behindertenparkplatzes vor der Postfiliale Angererstr. 7 d
+- TOP .4.: Herstellung der Gehbahn gegenüber Therese-Studer-Str. 26: Projektgenehmigung
+- TOP .5.: Linksabbiegeverbot an der Kreuzung Schleißheimer Straße/Karl-Theodor-Straße/ Ackermannstraße
+- TOP .6.: Bauliche Anpassung der Rümann-/Isoldenstraße an die künftige Verkehrsbelastung
+- TOP .1.: Ferienausschuss am 29.08.2012: 1. Namentliche Benennung der Mitglieder und ihrer VertreterInnen 2. Wahl einer/eines Vorsitzenden
+- TOP .2.: Sitzungstermine 2013
+- TOP .3.: Erweiterung der BA-Vertretungen in Wettbewerben Anhörung zum Antrag des BA 5 auf Änderung der BA-Satzung
+- TOP .4.: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien: Anhörung zu einem Antrag des BA 19
+- TOP .1.: Winzererstraße: "Rechts vor Links" an der Kreuzung mit der Saar- bzw. Clemensstraße sowie an den Einmündungen der Mitterwieser- und der Herzogstraße
+- TOP .2.: Einrichtung eines absoluten Haltverbots an der Ackermannstraße zur Sicherung der Tiefgaragenausfahrt der Häuser Elisabeth-Kohn-Str. 33, 35 und 37
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
