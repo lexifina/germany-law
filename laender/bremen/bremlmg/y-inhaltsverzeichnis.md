@@ -17,7 +17,7 @@ Abschnitt 3 | Anforderungen an Rundfunkprogramme und Veranstalter
 § 12 | Programmauftrag
 § 13 | Vielfalt
 § 14 | Programmgrundsätze
-§ 15 | Werbung, Sponsoring, Teleshopping
+§ 15 | Werbung, Sponsoring, Teleshopping, Gewinnspiele
 § 16 | Verantwortlichkeit
 § 17 | Eingabe- und Beschwerderecht, Auskunftspflicht
 § 18 | Aufzeichnungspflicht und Einsichtnahmerecht
@@ -33,6 +33,7 @@ Unterabschnitt 1 | Terrestrik und Satelliten
 Kapitel 1 | Zuordnung
 § 25 | Zuordnung von Übertragungskapazitäten
 § 26 | Zuordnungsverfahren
+§ 26a | Rücknahme und Widerruf
 § 27 | Zuordnung von Übertragungskapazitäten zwischen Ländern
 Kapitel 2 | Zuweisung
 § 28 | Zuweisung von Übertragungskapazitäten durch die Landesmedienanstalt
@@ -59,9 +60,10 @@ Abschnitt 7 | Bremische Landesmedienanstalt
 § 46 | Medienkompetenz
 § 47 | Modellversuche
 § 48 | Aufsicht über private Rundfunkveranstalter
-§ 49 | Zusammensetzung des Landesrundfunkausschusses
+§ 49 | Zusammensetzung des Medienrates
 § 50 | Mitgliedschaft, persönliche Voraussetzungen
-§ 51 | Aufgaben und Arbeitsweise des Landesrundfunkausschusses, Kostenerstattung
+§ 50a | Wahl und Amtszeit des Medienrates
+§ 51 | Aufgaben und Arbeitsweise des Medienrates, Kostenerstattung
 § 52 | Aufgaben der Direktorin oder des Direktors
 § 53 | Wahl, Amtsdauer, Abberufung der Direktorin oder des Direktors
 § 54 | Finanzierung und Haushaltswesen
@@ -70,14 +72,12 @@ Abschnitt 8 | Datenschutz
 § 56 | Geltung von Datenschutzvorschriften
 § 57 | Datenschutzkontrolle
 § 58 | Datenverarbeitung für publizistische Zwecke
-Abschnitt 9 | Bußgeldvorschriften
+Abschnitt 9 | Bußgeld-, Übergangs- und Schlussvorschriften
 § 59 | Ordnungswidrigkeiten
-Abschnitt 10 | Ausführungsbestimmungen zu medienrechtlichen Staatsverträgen und Bundesgesetzen
 § 60 | Ausführungsbestimmung zu § 35 des Rundfunkstaatsvertrages
 § 61 | Zuständigkeit für den Datenschutz
 § 62 | Aufsicht bei Telemedien
 § 63 | Zuständigkeit bei Ordnungswidrigkeiten
-Abschnitt 11 | Übergangs- und Schlussvorschriften
 § 64 | Übergangsvorschrift
 § 65 | Überprüfungsklausel
-§ 66 | In- und Außer-Kraft-Treten
+§ 66 | Inkrafttreten, Außerkrafttreten

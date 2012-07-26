@@ -1,1 +1,1 @@
-# Bremisches Landesmediengesetz (BremLMG) vom 22. März 2005
+# Bremisches Landesmediengesetz (BremLMG) vom 17. Juli 2012
