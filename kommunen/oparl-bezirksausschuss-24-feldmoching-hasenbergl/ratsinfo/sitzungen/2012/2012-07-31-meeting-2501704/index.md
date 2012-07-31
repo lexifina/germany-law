@@ -1,0 +1,76 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-07-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501704
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501704
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Feldmochinger Rossler e.V. Feldmochinger Rosstag am 14.10.2012
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 10.08.2012
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08. - 09.09.2012
+- TOP 2.4.: (E) Budget der Bezirksausschüsse ETC e.V. Projekt "Ein Stadtteil wird bunt" vom 11.06. - 03.07.2012
+- TOP 2.5.: Baureferat: Entscheidung gem. Vollmacht des OB's: Projektplanung Tollkirschenweg (erstmalige Herstellung)
+- TOP 3.1.: Tieferlegung der zum Flughafen führenden S1 zwischen Fasanerie und Feldmoching
+- TOP 3.2.: Abstimmung U-Bahn Ankunfts- und Busabfahrzeiten Linie 172 am U-Bahnhof Feldmoching
+- TOP 3.3.: Errichtung eines Kinderspielplatzes in Feldmoching
+- TOP 3.4.: Verkehrssicherheitsmaßnahme im Bereich Einmündung Himmelschlüssel-/Lasallestraße
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: Göttnerstr. 8 und Rothwiesenstraße
+- TOP 5.2.: Werbeanlagen: Lerchenauer Str. 270
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung: Bebauungsplan mit Grünordnung Fortnerstraße (westlich) und Thelottstraße (südlich)
+- TOP 5.4.: Direktorium: Erweiterung der BA-Vertretungen in Wettbewerben
+- TOP 5.5.: KVR: Austausch Lichtzeichenanlage am Knotenpunkt Lerchenauer-/Lerchenstraße
+- TOP 5.6.: KVR: Veranstaltungen auf dem Dülfer Anger: Bitte um schriftlichen Regelungsvorschlag des BA 24 zu empfohlenen Zeitabständen
+- TOP 5.7.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Tag der offenen Tür der Freiwilligen Feuerwehr am 16.09.2012 in der Heimperthstraße
+- TOP 5.8.: KVR: Veranstaltung auf öffentlicher Grünanlage: Nachbarschaftsfest des Vereins Föderation Isl. Vereine EU auf dem Dülfer Anger vom 12.10. bis 14.10.2012
+- TOP 5.9.: KVR: Veranstaltung auf dem Lerchenauer See: Nutzung des Lerchenauer Sees für die Durchführung von Stand Up Paddling Kursen
+- TOP 5.10.: Direktorium: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien
+- TOP 5.11.: Direktorium: Einführung eines Entscheidungsrechtes im Katalog der BA-Satzung? Hier: Kein Verkauf städt. Grundstücke ohne Zustimmung des BA, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können
+- TOP 5.12.: KVR: Halteverbot im Franz-Sperr-Weg an der Einmündung in die Franz-Fackler-Straße
+- TOP 5.13.: Entwurf Beschlussvorlage Kulturreferat: Erinnerungsorte München
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: KVR: Einrichtung einer Kurzparkzone an der Freudstr. 1 und 3
+- TOP 6.2.: Referat für Stadtplanung und Bauordnung: Neuauflage der Spielflächenversorgungspläne für München
+- TOP 6.3.: Baureferat: Grünfläche Lassallestraße/ Toni-Pfülf-Straße - Aufschotterung und Hundekotbeutelspender
+- TOP 6.4.: WSB Bayern: Aufstellen einer Doppelschaukel in der Wohnanlage um Wellenkampstraße
+- TOP 6.5.: PI 43: Sicherheit im Park nächst GS an der Ittlinger Straße und Geschwindigkeitsüberwachungsstellen in der Herbergstraße
+- TOP 6.6.: PI 43: Kreuzung Dülfer-/ Schaarschmidtstraße - Missachten des verkehrsberuhigten Bereiches und Geschwindigkeitskontrolle Herbert-Kadner-Straße
+- TOP 6.7.: Baureferat: Bürgerantrag "Walter-Sedlmayr-Platz - Begrünungsaktion möglich?"
+- TOP 6.8.: Referat für Stadtplanung und Bauordnung: Autobahnanschluss Münchner Norden
+- TOP 6.9.: Patrizia Wohnen GmbH: Sanierung Betriebsgebäude Granatstr. 10 (Ludwigsfeld)
+- TOP 6.10.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.11.: Meldelisten Baumfällungsanträge
+- TOP 6.12.: Meldelisten Bauvorhaben
+- TOP 6.13.: Referat für Stadtplanung und Bauordnung: Ablehnung Baumfällungsanträge Stanigplatz und Berberitzenstraße
+- TOP 6.14.: KVR: Arbeiten im Straßenraum: Kreuzungsbereich Gundermann-/ Eberwurzstraße vom 06.08. bis 24.08.2012
+- TOP 6.15.: Baureferat: Erinnerungsverfahren (§6.1 AufgrO): Dahlienstr. 4, Lerchenauer Str. 162
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Fahrradabstellplatzsatzung - FabS (Ergebnisse Beteiligungsverfahren , Satzungsbeschluss, Anträge); Hinweis/Ergänzung vom 03.07.2012
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern: Dritte Startbahn: Ziel verfehlt!
+- TOP 6.18.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung
+- TOP 6.19.: Beschlussvorlage Referat für Stadtplanung und Bauordnung (+ RBS): Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2012
+- TOP 6.20.: Beschlussvorlage Referat für Stadtplanung und Bauordnung (+ Kommunalreferat + RAW + Stadtkämmerei): Sozialgerechte Bodennutzung - Der Münchner Weg; Fortschreibung der Stadtratbeschlüsse
+- TOP 6.21.: Beschlussvorlage Direktorium: Bezirksausschüsse in "Stadtteilräte" umbenennen
+- TOP 6.22.: Beschlussvorlage Kreisverwaltungsreferat: "Dialog-Display" in München; München setzt auf den Einsatz mobiler Geschwindigkeitsmessanzeiger; Anbringung einer Fahrgeschwindigkeitsanzeige...in der Harthauser Straße
+- TOP 6.23.: Beschlussvorlage Kommunalreferat: Straßenbenennung im 24. Stadtbezirk Feldmoching-Hasenbergl: Wilhelmine-Reichard-Straße
+- TOP 6.24.: Beschlussvorlage Referat für Gesundheit und Umwelt: Fa. Air Liquide, Ludwigsfelder Str. 168; Rücknahme des Antrages
+- TOP 6.25.: Beschlussvorlage Sozialreferat: Mieterbeiratswahl 2012; Berufung der stimmberechtigten Mitglieder; Bekanntgabe der beratenden Mitglieder
+- TOP 6.26.: BA 10: Aufstellung von Abfalleimern und Aschenbechern an U-Bahnhöfen
+- TOP 6.27.: Stadtkämmerei: Haushaltsplan 2012 der Landeshauptstadt München
+- TOP 6.28.: Sozialreferat: der Regionale Sozialatlas - ein neues Informationsinstrument des Sozialreferates
+- TOP 6.29.: Bundesministerium des Innern: Flyer "Einheitliche Behördennummer 115"
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: BA 8: Antrag auf Satzungsänderung bzgl. Budgetvergabe
+- TOP 8.2.: Planung Fahrradständer am Walter-Sedlmayr-Platz
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Kath. Kirchenstiftung St. Agnes "Haus für Kinder" Neugestaltung der Spiel-Aussenanlage
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
