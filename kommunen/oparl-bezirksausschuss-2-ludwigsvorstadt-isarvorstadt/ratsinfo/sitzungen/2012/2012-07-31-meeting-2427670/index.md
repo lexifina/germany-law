@@ -1,0 +1,133 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-07-31T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427670
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427670
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 10.08.2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Mathilde-Eller-Schule Internationales Sommerfest am 23.06.12
+- TOP .4.: (E) Budget der Bezirksausschüsse Init. "Tipi" Anschaffung eines Tipis
+- TOP .5.: (E) Budget der Bezirksausschüsse Kindergruppe Baaderstraße e.V. verschiedene Anschaffungen
+- TOP .6.: (E) Budget der Bezirksausschüsse Initiative "0090 entertainment-respect us" Projekt "Music for the One God" am 20.07.2012
+- TOP .7.: (E) Budget der Bezirksausschüsse Caritasverband der Erzdiözese München und Freising e.V. Fußballturnier am 19.07.2012
+- TOP .8.: (E) Budget der Bezirksausschüsse Elternvertreter der Ganztagsklasse 1 g der Grundschule an der Tumblingerstraße 6 Musikprojekt von Oktober 2012 - Juli 2013
+- TOP .1.: Erinnerungsorte München, Beschlussentwurf für den Kulturausschuss PLENUMSBESCHLUSS
+- TOP .2.: Antrag des Bezirksausschuss 8 ? Schwanthalerhöhe auf Satzungsänderung bzgl. Budgetvergabe (siehe Unterrichtungen A 4.6)
+- TOP .5.1: Berichte der Beauftragten
+- TOP .1.: Weitere Fahrradabstellplätze in der Lindwurmstraße
+- TOP .2.: Verbreiterung Radweg Thalkirchner Straße
+- TOP .3.: Bordsteinabsenkung Wittelsbacher Brücke
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Morassistraße 4: DG-Ausbau Vorderhaus, Erweiterung der beiden Wohneinheiten im 4. OG (4 L + 4 R) zu Maisonette-Wohnungen
+- TOP .2.: Schwanthalerstraße 58 - 60: Errichtung eines Hotelgebäudes mit Frühstücksraum, Bürogebäudes im Hinterhof, Duplex-Tiefgarage, Lager- und Technikräume
+- TOP .3.: Platenstraße 1: Nutzungsänderung Wohnung in Büroräume
+- TOP .4.: Fraunhoferstraße 10: Renovierung und Umbau einer Wohnung
+- TOP .5.: Isartalstraße 32: DG-Ausbau, Anbau Fassadenaufzug und Balkone, Zusammenlegung zweier Einheiten im EG ? Tektur
+- TOP .6.: Bavariaring 5: Umbau und Sanierung des ehemaligen Brausebades, Nutzungsänderung, Galerieeinbau, Freischankanlage
+- TOP .7.: Baaderstraße 34: Anbau eines Personenaufzugs an der Hoffassade - VGB
+- TOP .8.: Geyerstraße 13: DG-Neubau, Nutzungsänderung im EG (Büro zu Wohnen), Umbau der Wohnung im 1. OG in 2 WE, Umbau der Wohnungen vom 2. - 4. OG, Einbau eines Aufzugs (UG - DG)
+- TOP .9.: Fraunhoferstraße 10: Nutzungsänderung 1. + 2. OG: Einbau von vier Wohnungen in ehemaliger Pension, Abbruch und Neubau Dachstuhl, Einbau einer zusätzlichen Wohnung in DG sowie eines Personenaufzugs, Anbau von Balkonen (hofseitig), Fenster-Änderung (straßenseitig) PLENUMSBESCHLUSS
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baumfällung Deutingerstraße 2
+- TOP .2.: Baumfällung Grasserstraße 10-14
+- TOP .3.: Baumfällung Mozartstraße 23
+- TOP .4.: Baumfällung Zweibrückenstraße 12
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Erinnerungsverfahren gem. AufgrO: ?Pestalozzi- /Stephanstr.: Einbau einer Überquerungshilfe?
+- TOP .2.: Goethestr. 34: Nachtrag in die Denkmalliste
+- TOP .3.: Erinnerungsverfahren gem. AufgrO: St.-Paul-Straße
+- TOP .4.: Änderung der Beteiligungsrechte der Bezirksauschüsse im Bereich der SWM bei Veräußerungen von Immobilien (BA-Antrags-Nr. 08-14 / B 03454 des Bezirksausschusses 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln) / Alternativvorschlag des RAW und des SWM
+- TOP .5.: Kein Verkauf städtischer Grundstücke, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können, ohne Zustimmung des zuständigen Bezirksausschusses (BA-Antrags-Nr. 08-14 / B 03929 des Bezirksausschusses 16 Ramersdorf-Perlach)
+- TOP .5.1: Bericht des Beauftragten
+- TOP .1.: Hackerbrücke wird Fahrradstraße
+- TOP .2.: Radverkehr im südlichen Bahnhofsviertel; Tempo 30 in der Goethestraße ? Ergänzung: (zwischen Pettenkofer- u. Bayerstraße)
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Kapuzinerstraße 2: Freischankfläche
+- TOP .2.: Sendlinger-Tor-Platz 5: Freischankfläche
+- TOP .3.: Dreimühlenstraße 10: Freischankfläche
+- TOP .4.: Goetheplatz 2: Freischankfläche
+- TOP .5.: Lindwurmstraße 159a: Freischankfläche
+- TOP .6.: Bavariaring 5: Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Sonnenstraße 14: Warenstellage
+- TOP .2.: Körnerstraße 5: Warenstellagen und Zeitungsständer
+- TOP .3.: Goethestraße 11: Erweiterung der Warenauslage
+- TOP .4.: Lindwurmstraße 56-58: Aufstellen von Warenauslagen
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Hans-Sachs-Straßenfest in der Hans-Sachs-Straße und Ickstattstraße am 18.08.2012
+- TOP .2.: Kunst im öffentlichen Raum - ?Die keltische Spur? am 21.09.2012 am Isarufer, südlich der Wittelsbacherbrücke
+- TOP .3.: München Marathon am 14.10.2012 PLENUMSBESCHLUSS
+- TOP .4.: Pestalozzistraßenfest am 01.09.2012, Nachtrag (siehe auch 2012.05 TOP C 3.1.2) PLENUMSBESCHLUSS
+- TOP .3.2: Verkehr
+- TOP .1.: Austausch Lichtzeichenanlage Auenstraße / Klenzestraße
+- TOP .1.: Bürgeranliegen: Verschmutzte Pflanztröge vor Bayerstr. 13 und 15 entfernen
+- TOP .1: Termine
+- TOP .3: Sonstiges / Verschiedenes
+- TOP .1.: Sitzungstermine 2013
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 04.07.2012 (VB): Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen; Sitzungsvorlagen Nr. 08-14 / V 09477
+- TOP .4.: Kunst im öffentlichen Raum - ?Wasserfall? aus japanischem Papier an der Zenneckbrücke, Eilentscheidung des stellv. Vorsitzenden vom 29.06.2012
+- TOP .5.: Erlaubnisbescheid: Straßenfest des BA 2 am 20.07. und 21.07.2012, Am Glockenbach und Karl-Heinrich-Ulrichs-Platz
+- TOP .6.: Antrag des Bezirksausschuss 8 ? Schwanthalerhöhe auf Satzungsänderung bzgl. Budgetvergabe
+- TOP .7.: Unterausschuss KJS: Auswirkung der Haushaltsdeckelung für zuschussfinanzierte Einrichtungen der Sozialarbeit
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 (VB): Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses; Sitzungsvorlagen Nr. 08-14 / V 09600
+- TOP .3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 (VB): Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung; Sitzungsvorlagen Nr. 08-14 / V 09168
+- TOP .4.: Referat für Stadtplanung und Bauordnung, Kommunalreferat, Referat für Arbeit und Wirtschaft, Beschlussvorlage Sozialgerechte Bodennutzung ? Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse; Sitzungsvorlagen Nr. 08-14 / V 09511
+- TOP .5.: Vollzug der Erhaltungssatzung ?Schlachthofviertel?: Modernisierungmaßnahme Maistr. 10
+- TOP .6.: Baugenehmigung Ickstattstr. 1a
+- TOP .7.: Stellungnahme des Baureferates bezüglich der Anzeige von Fällungen im Öffentlichen Raum (siehe TOP II 4.6 aus 04/2012)
+- TOP .8.: Schreiben des Baureferates zur Unterführung Hans-Fischer-Straße / Theresienhöhe
+- TOP .9.: Antwort des Direktoriums zum Antrag des BA5 ?Erweiterung der BA-Vertretungen in Wettbewerben?
+- TOP .10.: Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012: Fahrradabstellsatzung
+- TOP .11.: Antwortschreiben der LBK, Vorbescheid Klenzestraße 1
+- TOP .12.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2012 (VB): Gesamtfortschreibung des Landesentwicklungsprogramms Bayern ?Dritte Startbahn: Ziel verfehlt!?; Sitzungsvorlagen Nr. 08-14/V 09738
+- TOP .13.: Errichtung einer Uhr am Baldeplatz; hier: Antwortschreiben des Baureferates (BA-Antrag Nr. 08-14/B323, 2012.03 II7)
+- TOP .14.: Bauvorhaben Bayerstraße 35; Antwortschreiben der LBK
+- TOP .15.: Bürgeranliegen Zugang von der Corneliusbrücke auf die Museumsinsel öffnen (siehe 06.2012 TOP C 5.2); Antwortschreiben der LBK
+- TOP .16.: Schubertstraße 8, Dachgeschoss-Ausbau, Aufzugsanbau, Anbau von Wintergärten und Balkonen ? (siehe 03.2012 TOP B 3.1.7); Antwortschreiben der LBK
+- TOP .17.: Rückbau von asbesthaltigem Material auf dem ehemaligen Rodenstock-Areal; Antwortschreiben des Referats für Gesundheit und Umwelt (siehe auch 2012.06 TOP II 7)
+- TOP .18.: Zenettistraße 20, 2 Plakattafeln in Wandmontage (unbeleuchtet); Antwortschreiben der Lokalbaukommission (siehe auch 2012.05 TOP B 3.1.7)
+- TOP .19.: ?Dialog-Display? in München; Beschluss des Kreisverwaltungsausschusses vom 24.07.2012 (Sitzungsvorlage Nr. 08-14 7 V 09260)
+- TOP .20.: Information über Betriebskonzept der MVG während der Fahrtreppenerneuerung am U-Bahnhof Königsplatz
+- TOP .21.: Radverkehrsanlagen in der Kapuzinerstraße zwischen Lindwurmstraße und Auenstraße und Kompensationsmaßnahmen Bus; hier: Antwort des Baureferates auf Stellungnahme des Bezirksausschusses (siehe auch 2012.06 TOP B 3.3.3)
+- TOP .22.: Nord-Süd-Querung der Altstadt für den Radverkehr, Beschluss der Vollversammlung (Sitzungsvorlagen Nr. 08-14 / V 02148)
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Baustelleneinrichtung an der Nußbaumstr. ?Aufstellen eines Schuttcontainers bei der Kirche, Zufahrt mit einem Transportfahrzeug?
+- TOP .7.: Nächtliche Lärmbelästigung durch ein Lokal in der Buttermelcherstr.
+- TOP .8.: Wiederholte Lärmbelästigung durch ein Lokal in der Müllerstr.
+- TOP .9.: Störung der Nachtruhe durch Straßenreinigung in der Auenstr. (siehe 05/2012, II.2); hier: Antwort des Baureferates
+- TOP .10.: Zwischennachricht zur Radwegmarkierung Goethestraße, Goetheplatz (BA-Anträge Nr. 08-14/B 4013 und 4015)
+- TOP .11.: Eilentscheidung des stellv. Vorsitzenden: Nußbaumpark, Sommerfest am 14. und 15.07.2012
+- TOP .12.: Information der SWM: Baumaßnahmen entlang der Lindwurmstraße
+- TOP .13.: Bürgerbeschwerde über ein Lokal in der Müllerstraße
+- TOP .14.: Bürgerbeschwerde über ein Lokal in der Maistraße; Antwort des KVR Verkehrsüberwachung
+- TOP .15.: Bürgerbeschwerde wg. Zunahme von Spiellokalen; Antworten des KVR und Polizei
+- TOP .16.: Bürgerbeschwerde wg. Parkraumbewirtschaftung
+- TOP .17.: Bürgerbeschwerde über ein Lokal in der Maistraße; Antwort des KVR Bezirksinspektion (siehe auch TOP C 4.14)
+- TOP .18.: Nutzung des Holzplatzes; Schreiben einer Hausverwaltung an den Oberbürgermeister
+- TOP .1.: Beschluss des Verwaltungs- und Personalausschusses vom 11.07.2012: Bezirksausschüsse in ?Stadtteilräte umbenennen?; Sitzungsvorlage Nr. 08-14 / V 09480
+- TOP .5: Sonstiges
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .2.: Veranstaltungen
