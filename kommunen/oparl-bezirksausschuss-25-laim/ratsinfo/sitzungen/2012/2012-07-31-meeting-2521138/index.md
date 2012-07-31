@@ -1,0 +1,92 @@
+# BA 25 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 25: Laim
+- Beginn: 2012-07-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/379
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2521138
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2521138
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1.1: Die Bürger und Bürgerinnen haben das Wort
+- TOP 1.2.1.: Spielplatz Pronner Platz
+- TOP 1.2.2.: Bauvorhaben Agnes-Bernauer-Str. 139
+- TOP 1.2.3.: Parkverbot in der Schäufeleinstraße
+- TOP 1.2.4.: Bauvorhaben Fürstenrieder Str. 8b (Neubau eines Mehrfamilienhauses mit Tiefgarage und Herstellen einer Öffnung zur Bestandstiefgarage und eines unterirdischen Fahrradraums auf Fl.Nr. 25/6) sowie Fürstenrieder Str. 8a (Fassadenrücksprung EG für Fußgängeraus- weichfläche)
+- TOP 1.2.5.: Parksituation in der Parkharfe Maxstattstraße
+- TOP 1.2.6.: Lkw-Parkplatz Camerloherstr. 115 / Ecke Rushaimerstraße
+- TOP 2: Anträge
+- TOP 2.1.: CSU: Kosten für die am Spielplatz Joergplatz neu aufzustellende Bank
+- TOP 2.2.: Bündnis 90 / Die Grünen: Kreuzungsbereich Aindorfer - / Guido-Schneble-Straße
+- TOP 2.3.: Bündnis 90 / Die Grünen: Kreuzungsbereich Aindorfer- / Rushaimerstraße
+- TOP 2.4.: Bündnis 90 / Die Grünen: Änderung der Baumschutzverordnung
+- TOP 3: Entscheidungsfälle
+- TOP 3.1.: Beschlussvorlage Direktorium: Entscheidung über die Gewährung eines Zuschusses aus dem Budget des BA 25 in Höhe von 750 Euro für Offene Spielaktion für Kinder von 3 bis 12 Jahren vom 19.09. - 28.09.12; Antragsteller: Familienzentrum Laim, DKSB München e.V. - <div>nach Antrag</div>
+- TOP 4: Stellungnahmen/Anhörungen
+- TOP 4.1.: Schreiben Referat für Gesundheit und Umwelt vom 24.05.12: Stellungnahme der Bezirksausschüsse zum Entwurf des Lärmaktionsplans für München (Vertagung aus der BA-Sitzung vom 03.07.12) =&gt; dazu: Stellungnahme des UA Umwelt und Verkehr
+- TOP 4.2.: Schreiben Direktorium vom 26.06.12: Erweiterung der BA-Vertretungen in Wettbewerben (Antrag Nr. 08-14 / B 03849 des BA 5 Au-Haidhausen vom 28.03.12)
+- TOP 4.3.: Schreiben Direktorium vom 11.07.12: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien
+- TOP 4.4.: Camerloherstr. 209: Fällung von 2 Lärchen
+- TOP 4.5.: Agricolastr. 64: Fällung von 1 Fichte
+- TOP 4.6.: Neubeuerner Str. 10: Fällung von 1 Weide
+- TOP 4.7.: Wilhelm-Riehl-Str. 12: Fällung von 1 Fichte
+- TOP 5: Bauvorhaben
+- TOP 5.1.: Riegerhofstr. 31: Erhöhung Kniestock, DG-Ausbau zu 2 Wohnungen (Riegerhofstr. 31) sowie Aufstockung eines Vollgeschosses mit 2 Wohnungen (Riegerhofstr. 33) / Vorbescheid; hier: Baupläne
+- TOP 5.2.: Hogenbergstr. 23: Neubau eines Doppelhauses mit Garagen (Haus 1); hier: Baupläne
+- TOP 5.3.: Hogenbergstr. 23: Neubau eines Doppelhauses mit Garagen (Haus 2); hier: Baupläne
+- TOP 5.4.: Neuburgerstr. 8: Umbau eines Mehrfamilienhauses (3WE) / Neubau eines Mehrfamilienhauses (3 WE) mit Tiefgarage / Vorbescheid; hier: Baupläne
+- TOP 5.5.: Fürstenrieder Str. 37: Dachaufstockung eines Wohn- und Geschäftshauses mit Neubau RGB und Tiefgarage / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.6.: Fürstenrieder Str. 37 a: Dachaufstockung eines Wohn- und Geschäftshauses mit Neubau RGB und Tiefgarage / Vorbescheid; hier: Bau- und Baumbestandspläne
+- TOP 5.7.: Byecherstr. 30c: Neubau eines Einfamilienhauses mit Carport; hier: Bau- und Baumbestandspläne
+- TOP 5.8.: Geyerspergerstr. 51: Neubau eines Doppelhauses / Vorbescheid; hier: Baupläne
+- TOP 6: Sonstiges
+- TOP 7: Protokolle
+- TOP 7.1.: Sitzung UA Soziales, Schule und Sport vom 18.06.12
+- TOP 7.2.: Sitzung UA Kultur vom 19.06.12
+- TOP 7.3.: Sitzung UA Soziales, Schule und Sport vom 21.06.12
+- TOP 7.4.: BA-Sitzung vom 03.07.12
+- TOP 8: Umlauf
+- TOP 8.1.: Schreiben Direktorium vom 28.06.12: BA-Beauftragte gegen Rechtsextremismus
+- TOP 8.2.: Schreiben Direktorium vom 13.07.12: Zuwendungsbewilligung aus dem Budget des BA 25; Antragsteller: Elternbeirat der städt. Kita Riegerhofweg
+- TOP 8.3.: Schreiben Direktorium vom 18.07.12: Verwendungsnachweis über Budgetzuschuss; Antragsteller: Faschingsclub Laim e.V.
+- TOP 8.4.: Schreiben BA-G West vom 18.07.12: BA-Antrag "Runder Tisch zum Thema "Aufbau von Ganztageszügen in den Grundschulen im Stadtbezirk"
+- TOP 8.5.: Schreiben Kreisverwaltungsreferat vom 13.06.12: Einrichtung eines personenbezogenen Behindertenparkplatzes im Bereich Valpichlerstr. 90
+- TOP 8.6.: Schreiben Kreisverwaltungsreferat vom 26.06.12: Laimer Anger; Anhörungsverfahren Laimer Fischtage vom 06.07.-15.07.12
+- TOP 8.7.: Schreiben Referat für Stadtplanung und Bauordnung vom 25.06.12: Fachnerstr. 55: Sanierung und Änderung der Fassade, Nutzungsänderung von Pension und von Laden zu Wohnen, Anbau Balkone, DG-Neubau, Errichtung eines Mehrfamilienhauses mit Tiefgarage (Fachnerstr. 55 / Friedenheimer Str. 137 / Kirchwaldstr. 6) / Tektur
+- TOP 8.8.: Schreiben Referat für Stadtplanung und Bauordnung vom 16.07.12: Liste der eingereichten Anträge auf Abgeschlossenheitsbescheinigungen
+- TOP 8.9.: Schreiben Baureferat vom 29.06.12: Ausstellung "Stadtgrün in München: 1939-2014"
+- TOP 8.10.: Schreiben Baureferat vom 06.07.12: Spielplatz Weißenfelderplatz
+- TOP 8.11.: Schreiben Stadtwerke München GmbH vom 20.06.12: Baumaßnahmen der SWM; Wasserprojekt Fürstenrieder Straße
+- TOP 8.12.: Schreiben Referat für Arbeit und Wirtschaft vom 29.07.12: Wirtschafts-Info 06/2012
+- TOP 8.13.: Bautenliste vom 25.06.-01.07.12: 1. Erstantragsverfahren a) Käthe-Bauer-Weg 17
+- TOP 8.14.: Bautenliste vom 02.07.-08.07.12 1. Erstantragsverfahren a) Junkerstr. 43 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide a) Fürstenrieder Str. 37 a b) Fürstenrieder Str. 37
+- TOP 8.15.: Bautenliste vom 09.07.-15.07.12: 1. Erstantragsverfahren a) Byecherstraße 2. Abbruchanzeigen, Zustimmungsverfahren, Vorbescheide etc. a) Geyerspergerstr. 51 b) Siglstr. 19
+- TOP 8.16.: Schreiben Stadtwerke München GmbH vom 25.06.12: Baumaßnahmen der Stadtwerke; Stichtag: 25.06.12
+- TOP 8.17.: Schreiben Stadtwerke München GmbH vom 02.07.12: Baumaßnahmen der Stadtwerke; Stichtag: 02.07.12
+- TOP 8.18.: Schreiben Stadtwerke München GmbH vom 09.07.12: Baumaßnahmen der Stadtwerke; Stichtag: 09.07.12
+- TOP 8.19.: Schreiben Stadtwerke München GmbH vom 16.07.12: Baumaßnahmen der Stadtwerke; Stichtag: 16.07.12
+- TOP 8.20.: Beschluss der Vollversammlung vom 27.06.12: Sozialgerechte Bodennutzung - Der Münchner Weg, Fortschreibung der Stadtratsbeschlüsse (Sitzungsvorlage Nr. 08-14 / V 09511)
+- TOP 8.21.: Beschluss der Vollversammlung vom 27.06.12: Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und -sicherungsverordnung der LH München; Verschmutzungsabgabe für Fast-Food-Betriebe (Sitzungsvorlage Nr. 08-14 / V 08433)
+- TOP 8.22.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 04.07.12: Arbeitsgruppe Aufbauoffensive Kindertageseinrichtungen; Sachstandsbericht zum 31.03.12 (Sitzungsvorlage Nr. 08-14 / V 09477)
+- TOP 8.23.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (Sitzungsvorlage Nr. 08-14 / V 09168)
+- TOP 8.24.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der LH München) (Sitzungsvorlage Nr. 08-14 / V 09600)
+- TOP 8.25.: Hinweis / Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12: Satzung der LH München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS9 (Sitzungsvorlage Nr. 08-14 / V 09305)
+- TOP 8.26.: Beschluss des Sozialausschusses vom 05.07.12: Mieterbeiratswahl 2012; Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder (Sitzungsvorlage Nr. 08-14 / V 09342)
+- TOP 8.27.: Beschluss des Verwaltungs- und Personalausschusses vom 11.07.12: Bezirksausschüsse in " Stadtteilräte" umbenennen (Sitzungsvorlage Nr. 08-14 / V 09480)
+- TOP 8.28.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.12: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern (Sitzungsvorlage Nr. 08-14 / V 09738)
+- TOP 8.29.: Beschluss des Kreisverwaltungsausschusses vom 24.07.12: "Dialog-Display" in München (Sitzungsvorlage Nr. 08-14 / V 09260)
+- TOP 8.30.: Antrag BA 8 Schwanthalerhöhe vom 10.07.12: Antrag auf Satzungsänderung bzgl. Budgetvergabe
+- TOP 8.31.: Schreiben BA 9 Neuhausen-Nymphenburg vom 19.06.12: BA 25 Laim; Stellungnahme zur Beschlussvorlage "Erhöhung der Anzahl der Fahrradabstellplätze am S-Bahnhof Laim"
+- TOP 8.32.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 03.07.12: Vernetzte Welten
+- TOP 8.33.: Schreiben PI 41 vom 05.07.12: Parkende Lkws in der Inderstorferstraße
+- TOP 8.34.: Schreiben Pro Bahn Oberbayern vom 05.07.12: Bushaltestelle Hirschgarten Bahnhof der Buslinie 152
+- TOP 8.35.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 09.07.12: Broschüre "Demokratie ist (k)ein Kindergeburtstag"
+- TOP 8.36.: Schreiben Elternbeirat der Grundschule an der Droste-Hülshoff-Str. 9 vom 11.07.12: Unterstützung für das Gewaltpräventionsprojekt "Wehr dich doch" vom Theater Trampelmuse
+- TOP 8.37.: Schreiben mux.de vom 11.07.12: Seniorenplan
+- TOP 8.38.: Schreiben Fachinformationsstelle gegen Rechtsextremismus in München vom 16.07.12: Tagung: 25 Jahre Forschungsschwerpunkt Rechtsextremismus / Neonazismus am 05. / 06.10.12
+- TOP 8.39.: Schriftverkehr aus der BA-Sitzung vom 03.07.12
+- TOP 1.2: Bürgerpost an den BA
