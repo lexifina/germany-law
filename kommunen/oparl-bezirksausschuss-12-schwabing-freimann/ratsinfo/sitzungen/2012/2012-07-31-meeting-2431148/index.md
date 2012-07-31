@@ -1,0 +1,110 @@
+# BA 12 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 12: Schwabing-Freimann
+- Beginn: 2012-07-31T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/306
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2431148
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2431148
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Eröffnung und Begrüßung, Feststellung der Anwesenheit und Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP 1: (E) Bessere Sicherung der Tramgleise in der Parkstadt Schwabing (Ziffer 2) Empfehlung Nr. 08-14 / E 01026 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 14.07.2011 Schritttempo für Radler an der Tramstation Münchner Freiheit Empfehlung Nr. 08-14 / E 01023 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 14.07.2011 Mehr Sicherheit für Fußgänger am Bus- und Trambahnhof Münchner Freiheit Empfehlung Nr. 08-14 / E 01022 der Bürgerversammlung des Stadtbezirkes 12 - Schwabing-Freimann am 14.07.2011
+- TOP 1.2.: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 1.3.: Infos und Tipps, Kurzbericht des Vorsitzenden
+- TOP 1.4.: Kurzbericht der Polizei
+- TOP 1.5.: Aktuelle Viertelstunde, Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Bezirksausschüsse in ?Stadtteilräte? umbenennen ? Sitzungsvorlage Nr.: 08-14 / V 09480 (BA-Antrag B 03414 des Bezirksausschusses 4 Schwabing-West) Beschluss des Verwaltungs- und Personalausschusses vom 11.07.2012
+- TOP 1.2.: ?Stadtgrün in München? - Antwort der Baureferentin zur Anregung des ?Münchner Forums?
+- TOP 1.3.: BA-Beauftragte gegen Rechtsextremismus (Zwischennachricht des Direktoriums vom 28.06.2012)
+- TOP 1.4.: Eilentscheidung: Kita-Sommerfest am 06.07.2012, Oskar-Schlemmer-Str.
+- TOP 1.5.: Besetzung des Feriensenats 2012
+- TOP 1.10.: sonstiges
+- TOP 1.1.: Sitzungstermine 2013
+- TOP 1.1.: Genehmigung einer Freischankfläche, Clemensstraße 15
+- TOP 1.2.: Genehmigung einer Freischankfläche, Marktstraße 16
+- TOP 1.3.1.: Baumfällungen
+- TOP 1.1.: Osterwaldstr. 110, 1 Ahorn, zweistämmig
+- TOP 1.2.: Amsterdamer Str. 1, 1 Laubbaum
+- TOP 1.3.: Schlößlanger 47, 1 Tanne
+- TOP 1.4.: Situlistr. 52-58, diverse Bäume
+- TOP 1.5.: Georgenstr. 2, 1 Esche
+- TOP 1.6.: Grasmeierstr. 8, 1 Ahorn
+- TOP 1.1.: Bauvorhaben incl. Baumfällungen: Situlistraße 78, Flurstück: 45/13, Neubau eines Doppelhauses mit Garage - Vorbescheid
+- TOP 1.2.: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien (Satzungsänderung)
+- TOP 1.3.: Bauvorhaben Frankfurter Ring 183, Flurstück 880/6, Neubau einer Produktionshalle mit Kantine und Wohnungen für Betriebsmitarbeiter
+- TOP 1.4.: Bauvorhaben Werner-Heisenberg-Allee 25, Flurstück 312/7, ?Allianz Arena?, Anbau eines Windfangs
+- TOP 1.5.: Städtebauliche Entwicklungsmaßnahme Bayernkaserne: 1. Anhörung des Bezirksausschusses zum Entwurf des Grundsatz- und Eckdatenbeschlusses, a) Anpassung der Eckdaten, b) Durchführung eines städtebaulichen und landschaftsplanerischen Wettbewerbs, c) Erweiterte Öffentlichkeitsbeteiligung 2. Antwort auf den BA-Antrag Nr. 08-14/B 04069 vom 26.06.2012 zu diesem Thema
+- TOP 1.1.: Erweiterung und Zweckentfremdung von Wohnraum, Siegfriedstraße 19
+- TOP 1.1.: Anträge des BA 12 zur ehemaligen Bayern Kaserne (siehe auch D.5.1.2.) BA-Antrag B 03734: Zwischennutzungen bis zum Abschluss der Neubauplanungen BA-Antrag B 03733: Stopp der Abbrucharbeiten
+- TOP 1.5.2.: Genehmigte Baumfällungen
+- TOP 1.1.: Heidemannstr. 11-11c, Fällung einer Robinie
+- TOP 1.2.: Weisgerberstr. 8, Ablehnung der Fällung des Spitzahorn und der Rotbuche
+- TOP 1.1.: Mieterbeiratswahl 2012: Berufung der stimmberechtigten Mitglieder, Bekanntgabe der beratenden Mitglieder Beschluss des Sozialausschusses vom 05.07.2012; Sitzungsvorlage Nr. 08-14/V 09342
+- TOP 1.2.: Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Landeshauptstadt München); Sitzungsvorlage Nr.: 08-14 / V 09600 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012
+- TOP 1.3.: Sozialgerechte Bodennutzung ? Der Münchner Weg; Fortschreibung der Stadtratsbeschlüsse; Sitzungsvorlage Nr.: 08-14 / V 09511 Beschluss der Vollversammlung des Stadtrates vom 27.06.2012
+- TOP 1.4.: Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung Sitzungsvorlage Nr.: 08-14 / V 09168 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012
+- TOP 1.5.: Erlass einer Erhaltungssatzung ?Pündter- und Viktoriaplatz? Sitzungsvorlage Nr.: 08-14 / V 09550 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012
+- TOP 1.6.: Bebauungsplan mit Grünordnung Nr. 2031 b - Freisinger Landstraße (östlich), Garchinger Mühlbach (westlich) und Verlängerung Josef-Wirth-Weg (nördlich) Antrag auf Einleitung eines vorhabenbezogenen Bebauungsplanes Sitzungsvorlage Nr.: 08-14 / V 09284 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012
+- TOP 1.7.: Bebauungsplan mit Grünordnung Nr. 1967a, Domagkstr. (nördlich), Tramlinie 23 (westlich), Frankfurter Ring (südlich) und Aufhebung des nicht überplanten Restbereichs vom Aufstellungsbeschluss für den Bebauungsplan Nr. 1967 Sitzungsvorlage Nr.: 08-14 / V 09519 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012
+- TOP 1.8.: Kleinhesselohe 3, Nutzungsänderung im 1. OG (Pavillon 2): Speicherräume zu Büroflächen (Baugenehmigungsbescheid der Lokalbaukommission vom 28.06.2012)
+- TOP 1.9.: Erweiterung der BA-Vertretungen im Wettbewerben (BA-Antrag B 03849 des Bezirksausschusses 5 Au-Haidhausen)
+- TOP 1.10.: Erneuerung der Heidemannstraße ? zwischen Lützelsteiner Straße und Freisinger Landstraße Beschluss des Bauausschusses vom 12.06.2012; Sitzungsvorlage Nr.: 08-14 / V 08665
+- TOP 1.11.: Baumaßnahme der SWM ? Leopoldstraße Stromprojekt Netztrafostation
+- TOP 1.12.: Baumaßnahme der SWM ? Georg-Wopfner-Str. Stromprojekt
+- TOP 1.13.: Bauträgerauswahl bei der Vergabe städtischer Grundstücke; Festlegung der Ausschreibungskriterien für die Fläche WA am Frankfurter Ring (Funkkaserne-Nord) Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2012 Sitzungsvorlage Nr.: 08-14 / V 09815
+- TOP 1.14.: Widmung einer Teilstrecke des Admiralbogens als Ortsstraße Sitzungsvorlage Nr. 08-14 / V 09435
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: Bessere Sicherung der Tramgleise in der Parkstadt Schwabing (Ziffer 2)
+- TOP 1.1.: Auflassung des Radweges in der Mainzer Straße zwischen Karl-Theodor- und Rheinstraße
+- TOP 1.1.: Bauliche Anpassung an die künftige Verkehrsbelastung am Mildreed-Scheel-Bogen / Isoldenstraße / Rümannstraße
+- TOP 1.1.: Aufstellung von Hundetüten / Abfallkorb-Automaten im Freimanner Hölzl
+- TOP 1.2.: MVG-Ersatzbusbetrieb für die U 6 im Sommer 2013: Haltestelle an der Ungererstraße
+- TOP 1.1.: Errichtung eines absoluten Haltverbot in der Walter-Gropius-Straße Westseite (nördlich der Marcel-Breuer-Str. auf einer Länge von ca. 15 m)
+- TOP 1.2.: Aufhebung der Radwegbenutzungspflicht in der Traubestraße
+- TOP 1.3.: Parkbeschränkung auf PKW auf der Zufahrt zur Deponie Nord / Freisinger Landstr.
+- TOP 1.5.: Aufhebung der Radwegbenutzungspflicht an der Münchner Freiheit (Radwegschiene)
+- TOP 1.6.: Aufhebung eines personenbezogenen Behindertenparkplatzes im Bereich Heinrich-Geißler-Straße 10
+- TOP 1.7.: Neueinrichtung eines Taxistandplatzes am U-Bahnhof Nordfriedhof für ein Taxi aus der Gemeinde Obererding
+- TOP 1.1.: Information über Pendelzugbetrieb wegen Bauarbeiten im Spätverkehr auf der U3-Nord
+- TOP 1.2.: Filmaufnahmen auf öffentlichem Verkehrsgrund (3)
+- TOP 1.3.: Information zur Fahrbahnsanierung Ifflandstr./Wiedenmayerstraße des Baureferats (Anliegerinformation)
+- TOP 1.4.: Farradabstellplatzsatzung ? Ergänzungen zum Beschluss des Ausschusses für Stadtplanung und Bauordnung; Sitzungsvorlagen Nr.: 08-14 / V 09305
+- TOP 1.5.: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern ? Dritte Start- und Landebahn: Ziel verfehlt!; Sitzugnsvorlage Nr.: 08-14 / V 09738 Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2012
+- TOP 1.6.: ?Dialog-Display? in München ? München setzt auf den Einsatz mobiler Geschwindigkeitsanzeiger und Anbringung einer Fahrtgeschwindigkeitskontrollanzeige im 18. Stadtbezirk; Beschluss des Kreisverwaltungsausschusses vom 27.07.2012 Sitzungsvorlage Nr. 08-14 / V 09260
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.1.: (E) Budget der Bezirksausschüsse Init. "Glasanarchie in Beton" Ausstellung vom 19. - 21.10.2012
+- TOP 1.2.: (E) Budget der Bezirksausschüsse Hochschule für Technik, Stuttgart Erstellung einer Dokumentation
+- TOP 1.3.: (E) Budget der Bezirksausschüsse Kulturverein Alte Heide e.V. Theaterstück "(unter)HALTUNGSSCHADEN im Januar/Februar 2013
+- TOP 1.4.: (E) Budget der Bezirksausschüsse Innere Mission München, Diakonie in München und Oberbayern e.V. Sommerfest am 18.07.2012
+- TOP 1.5.: (E) Budget der Bezirksausschüsse Evangelisches Hilfswerk München gGmbH Sommerfest der Teestube "komm"-Streetwork am 10.08.2012
+- TOP 1.6.: (E) Budget der Bezirksausschüsse Initiative "Buchprojekt" Buchprojekt "Berufswunsch Kunst"
+- TOP 1.7.: (E) Budget der Bezirksausschüsse Johanniter-Unfall-Hilfe e.V. Workshopplätze vom 06.08.-09.09.2012
+- TOP 1.1.: Kunstaktion im Fußgängertunnel an der Ungererstraße am 07.09.2012
+- TOP 1.2.: Sommerfest Haidpark City e.V. am 14.09.2012 auf dem Gelände Am Kiefernwald
+- TOP 1.1.: Stadtbibliothek für den Münchner Norden (BA-Antrag B 03669)
+- TOP 1.2.: Anträge des BA 12 zur ehemaligen Bayern Kaserne (siehe auch B.5.1.1.) BA-Antrag B 03734: Zwischennutzungen bis zum Abschluss der Neubauplanungen BA-Antrag B 03733: Stopp der Abbrucharbeiten
+- TOP 1.5.2.: Unveränderte Fortführung von Gaststättenbetrieben
+- TOP 1.1.: Siedlungsgebiet Freimanner Heide ?Heidetreff? - Trägerschaftsvergabe für ein Projekt der Quartiersbezogenen Bewohnerarbeit in der Freimanner Heidemannstraße Beschluss des Sozialausschusses vom 05.07.2012; Sitzungsvorlage Nr. 08-14/V 09406
+- TOP 1.2.: Zuschüsse der Landeshauptstadt München für die Teestube / drohende Deckelung; Schreiben des Sozialreferats vom 20.06.2012
+- TOP 1.3.: Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.12.2012, Sitzungsvorlagen Nr. 08-14 / V 09477 Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 04.07.2012
+- TOP 1.4.: Kindertagesstätten sonstiger Träger; Haus für Kinder an der Brabanter Straße 4; Leistung eines Baukostenzuschusses nach dem BayKiBiG; Sitzungsvorlage Nr.: 08-14 / V 09576 Beschluss des Ausschusses für Bildung und Sport des Stadtrates vom 04.07.2012
+- TOP 1.5.: Erlaubnisbescheid für das Schwabinger Wirtefest am 07.07.2012
+- TOP 1.6.: Zuwendungsbewilligungen / Bescheide a) Seidlvilla e.V. für die Maßnahme: Sommerfest am 14.07.2012 in Höhe von 750,00 ? b) Elternbeirat der Kindertagesstätte an der Birkenfeldstraße für die Maßnahme: Nachbarschaftsfest am 22.06.2012 in Höhe von 500,00 ? c) Interessengemeinschaft Auensiedlung e.V. für die Maßnahme: 60 Jahrfeier am 30.06.2012 und Erstellung einer Chronik in Höhe von 750,00 ? d) Brick e.V. für die Maßnahme: Aufstellung einer Skateboardrampe in Höhe von 1.742,13 ? e) Simmernschule???
+- TOP 1.7.: Erlaubnisbescheid für das Pfarrfest der Kath. Kirchenstiftung St. Ursula am 14.07.2012 am Kaiserplatz
+- TOP 1.8.: Antrag des BA 8 Schwanthalerhöhe auf Satzungsänderung bzgl. Budgetvergabe
+- TOP 1.1: Nächste BA-, UA- und Regionalausschuss-Sitzungen
+- TOP 1.1.: Anträge
+- TOP 1.5.: Unterrichtungen
+- TOP 1.2.: Entscheidungen
+- TOP 1.3.: Anhörungen
+- TOP 1.3.2.: Sonstige Anhörungen
+- TOP 1.4.: Bürgeranliegen
+- TOP 1.5.1.: Erledigte BA-Anträge und BV-Empfehlungen
+- TOP 1.4.: Kurzparkzone Freisinger Landstraße ? Änderung der Parkzeit von 1er Stunde auf 2 Stunden
+- TOP 1.5.3.: Sonstige Unterrichtungen
+- TOP 1.5.2.: Verkehrsrechtliche Anordnungen
