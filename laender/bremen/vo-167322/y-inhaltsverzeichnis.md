@@ -10,6 +10,7 @@ Teil 1 Ausbildung
 § 5 | Leistungsbewertung
 § 6 | Voraussetzungen für die Zulassung, Zulassung
 Teil 2 Prüfungen
+§ 6a | Schulischer Teil der Fachhochschulreife
 § 7 | Abschluss des Bildungsgangs und Berechtigungen
 § 8 | Durchführung der Abschlussprüfung der Berufsfachschule für Assistenten
 § 9 | Durchführung der Abiturprüfung

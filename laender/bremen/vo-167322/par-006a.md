@@ -1,0 +1,11 @@
+## Teil 2 Prüfungen
+# § 6a Schulischer Teil der Fachhochschulreife
+(1) Schülerinnen und Schülern, die den doppelqualifizierenden Bildungsgang der Berufsfachschule für Assistenten ohne Abschluss der Allgemeinen Hochschulreife verlassen, wird auf Antrag frühestens nach dem Besuch der ersten beiden Schulhalbjahre der Qualifikationsphase der schulische Teil der Fachhochschulreife zuerkannt, wenn folgende Bedingungen erfüllt sind:
+1. In den beiden Leistungsfächern müssen je zwei Kurse belegt und insgesamt mindestens 40 Punkte bei zweifacher Wertung erreicht sein.
+2. Es müssen elf Grundkurse belegt und in diesen insgesamt 55 Punkte bei einfacher Wertung erreicht sein.
+3. Unter den nach Nummer 1 zu belegenden und nach Nummer 2 anzurechnenden Kursen müssen je zwei Kurse in Deutsch, einer fortgesetzten Fremdsprache, einer Gesellschaftswissenschaft, Mathematik und einer Naturwissenschaft (Biologie, Physik oder Chemie) enthalten sein. Außer den genannten Fächern können aus weiteren Fächern höchstens je zwei Halbjahreskurse angerechnet werden.
+4. In zwei der vier anzurechnenden Leistungskurse und in sieben der elf anzurechnenden Grundkurse müssen jeweils fünf Punkte der einfachen Wertung erreicht sein. Mit null Punkten bewertete Kurse gelten als nicht belegt. Themengleiche oder -ähnliche Fächer werden nur einmal angerechnet.
+5. Leistungen aus der Einführungsphase werden nicht angerechnet.
+(2) Für abgehende Schülerinnen und Schüler, die am Ende des 3. oder 4. Halbjahres der Qualifikationsphase den schulischen Teil der Fachhochschulreife erwerben wollen, gelten die Bedingungen gemäß Absatz 1 mit der Maßgabe, dass nur Leistungen eingebracht werden dürfen, die in zwei aufeinander folgenden Halbjahren erbracht wurden.
+(3) Die Gesamtpunktzahl von mindestens 95 und höchstens 285 Punkten, die sich aus den anzurechnenden Kursen nach Absatz 1 und 2 ergibt, wird nach der Tabelle der Anlage zu § 6a in eine Durchschnittsnote umgerechnet.
+(4) Eine Bescheinigung über den schulischen Teil der Fachhochschulreife dokumentiert das Ergebnis.
