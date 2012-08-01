@@ -16,6 +16,7 @@ Abschnitt 3 Vorkurs und Einführungsphase
 § 12 Grundlagen der Leistungsbewertung
 § 13 Bewertung von Leistungen
 § 14 Klassenarbeiten
+§ 14a Pflichtbereich und Wahlbereich
 § 15 Halbjahresinformationen und Zeugnisse
 § 16 Versetzung
 § 17 Nichtversetzung und Wiederholung
