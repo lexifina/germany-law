@@ -1,0 +1,99 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-08-07T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2397829
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2397829
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Beschwerde eines Immobilienbesitzers aus der Maxvorstadt Lärmbelästigung durch Be- und Entladen vor dem Anwesen Glückstraße 2
+- TOP 5.2.2.: Anfrage einer Gastronomin aus der Maxvorstadt vom 10.07.2012 Antwortschreiben des KVR, Verkehrsmanagement vom 11.07.2012
+- TOP 5.2.3.: Schreiben einer Hausverwaltung aus der Maxvorstadt Beschwerde über Lärmbelästigung durch eine Gaststätte in der Neureutherstraße 21 (s. TOP C 2.3.3)
+- TOP 5.2.4.: Anfrage von Bürgern aus der Maxvorstadt zur ärztlichen Versorgung im Arnulfpark
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 25., 26., 27., 28., 29., 30. KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 22./23. KW
+- TOP 2.1.3.: Amalienstraße 51 Sanierung eines Wohnhauses sowie Ausbau des restlichen Dachgeschosses
+- TOP 2.1.4.: Steinheilstraße 13 Aufstockung eines Rückgebäudes um drei Geschosse (Wohnnutzung) ? Vorbescheid (Antrag 1)
+- TOP 2.1.5.: Steinheilstsraße 13 Aufstockung eines Rückgebäudes um drei Geschosse (Wohnnutzung) ? Vorbescheid (Antrag 2)
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Schraudolphstraße 17, ein Baum unbekannter Art
+- TOP 2.2.2.: Akademiestraße 21 ? 25/Türkensstsraße 98, eine Rosskastanie, eine Robinie
+- TOP 2.2.3.: Schleißheimer Straße 72, eine Ulme
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Änderung der Vorfahrtregelungen an den Kreuzungen Georgenstraße/Zentnerstraße und Georenstraße/Hiltenspergerstraße
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Austausch von Lichtzeichenanlagen
+- TOP 2.1.3.: Bürgeranfrage vom 07.06.2012 Verstärkte Kontrolle der Radfahrer im Universitätsviertel und Frage des UA-Vorsitzenden an die Polizei nach einem speziellen Konzept zur wirkungsvollen Ordnung/Überwachung des Radverkehrs vertagt aus der Sitzung vom 10.07.2012 (Unterlagen liegen bereits vor)
+- TOP 2.1.4.: Antrag aus der Einwohnerversammlung vom 12.07.2012 Parkplätze in der Kardinal-Döpfner-Straße nur für Parklizenzinhaber
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Baureferat, Tiefbau, Erinnerungsverfahren Begrünung Neureutherstraße Hausnrn.: 6-8 und 32-36
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Freischankflächen a) Augustenstraße 47 a b) Anfrage einer Gastronomin aus der Maxvorstadt vom 10.07.2012 Antwortschreiben des KVR, Verkehrsmanagement vom 11.07.2012 (s. Auch TOP A 5.2.2) c) Schellingstraße 45 vertagt aus der Sitzung vom 10.07.2012, Unterlagen liegen bereits vor
+- TOP 2.3.2.: Schreiben eines Bürgers aus der Maxvorstadt vom 30.05.2012 Beschwerde wegen Lärmbelästigung durch Gaststätte, Schellingstraße 23 (s. TOP A 5.2.1) einschließlich Stellungnahme der Bezirksinspektion Mitte vertagt aus der Sitzung vom 10.07.2012, Unterlagen liegen bereits vor
+- TOP 2.3.3.: Schreiben einer Hausverwaltung aus der Maxvorstadt Beschwerde über Lärmbelästigung durch eine Gaststätte in der Neureutherstraße 21 (s. TOP A 5.2.3)
+- TOP 2.4: Veranstaltungen
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Takatukaland e.V. Errichtung einer Spiellandschaft
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Initiative "Buchprojekt" Buchprojekt "Berufswunsch Kunst"
+- TOP 2.2.: Baureferat, Hchbau, Gestaltung öffentlicher Raum BA-Antrag Nr. 02143 des BA 3 vom 15.05.2007 Zusätzliche Hinweise auf Sehenswürdigkeiten und touristische Anziehungspunkte Antrag auf Fristverlängerung bis 15.01.2013
+- TOP 2.3.: Kulturreferat, Stadtgeschichte Erinnerungsorte München BA-Antrag Nr. 08-14 / B 03000 des BA 08 Schwanthalerhöhe vom 10.05.2012 Beschluss geplant für den Kulturausschuss am 27.09.2012
+- TOP 2.4.: (E) Budget der Bezirksausschüsse Kunstpavillon e.V. Ausstellung vom 13.09. - 21.10.2012
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung, Beschlussvorlage Gesamtfortschreibung des Landesentwicklungsprogramms Bayern Dritte Startbahn: Ziel verfehlt! Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2012 Sitzungsvorlage Nr. 08-14 / V 09738
+- TOP 1.2.: Referat für Stadtplanung und Bauordnung Bebauungspslan mit Grünordnung Nr. 1951, Linprunstraße (südlich), Sandstraße (westlich) Teiländerung des Bebauungsplanes Nr. 496, Sitzungsvorlage Nr. 08-14 / V 09607 Billigungsbeschluss und vorbehaltlicher Satzungsbeschluss, Planauslegung
+- TOP 1.3.: Der Bezirksausschuss 3 Maxvorstadt regt an, dass Staddtrat und das Referat für Stadtplanung und Bauordnung, das Baureferat, das Referat für Gesundheit und Umwelt bzw. deren Dienststellen und das Stadtarchiv für das Jahr 2014 eine Ausstellung "Stadtgrün in München 1839-2014" ausrichten.
+- TOP 1.4.: Referat für Stadtplanung und Bauordnung, LBK Vorbescheid Erzgießereistraße 2 Antwort auf Stellungnahme des BA vom 17.04.2012
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Antwortschreiben vom 25.06.2012 zum Schreiben des BA vom 14.06.2012 , Konzert David Guetta auf dem Königsplatz (TOP C 2.4.2/0612)
+- TOP 2.2.: 2.2.1 Änderung der Straßenreinigungs- und -sicherungs-Verordnung der Landeshauptstadt München, Antrag des BA 12 vom 23.10.2011 (s. TOP C 1.1.1/0312) Antwortschreiben des BA 12 Schwabing-Freimann zur Anfrage des BA 3 vom 16.03.2012
+- TOP 2.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.4.: Baureferat, Gartenbau Antwortschreiben der Baureferentin vom zum Antrag von StR Karl Richter vom 02.03.2012 Ausstellung: ?Stadtgrün in München: 1939 - 2014
+- TOP 2.5.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro, Erlaubnisbescheid Straßenfest in der Türkenstraße am 14.07.2012 (Ersatztermin: 21.07.2012
+- TOP 2.6.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro nicht genehmigungspflichtiges Feuerwerk auf dem Gelände der Akademie der Bildenden Künste, Akademiestraße 2 ? 4 am 13.07.2012 um 12.00 Uhr und um 17.00 Uhr
+- TOP 2.7.: Referat für Stadtplanung und Bauordnung, Beschlussvorlage Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Ab- stellplätzen für Fahrräder (Fahrradabstellplatzsatzung ? FabS) Hinweis/Ergänzung zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 Sitzungsvorlage Nr. 08-14 / V 09305
+- TOP 2.8.: Baumaßnahmen der Stadtwerke a) Cluster 30 Maxvorstadt, Telekommunikation b) Heßstraße 24, Reparatur der Versorgungsleitung c) Katharina-von-Bora-Straße 8, Reparatur der Versorgungsleitung d) Oskar-von-Miller-Ring 20, Mittelspannungskabellegung g) Platz der Opfer des Nationalsozialismus, Energie e) Karlstraße 47a, Fernwärme f) Cluster 19, TU-Viertel, Telekommunikation
+- TOP 2.9.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Sperrung der Blutenburgstraße für Reisebusse über 20 Personen und Lkw über 7,5 t Empfehlung Nr. 08-14 / E 01105 der Bürgerversammlung des 3. Stadtbezirkes Maxvorstadt am 20.10.2011 Beschluss des Kreisverwaltungsausschusses vom 24.07.2012 Sitzungsvorlage Nr. 08-14 / 09837
+- TOP 2.10.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Open Air Veranstaltung auf dem Königsplatz am 21.07.2012, David Guetta, Erlaubnisbescheid
+- TOP 2.11.: MVG, Information über das Betriebskonzept während der Fahrtreppenerneuerung am U-Bahnhof Königsplatz
+- TOP 2.12.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Italienischer Markt ?Piazza Italiana? am Wittelsbacherplatz vom 07.09. bis 16.09.2012
+- TOP 2.13.: Referat für Stadtplanung und Bauordnung, Stadtentwicklungsplanung Nord-Süd-Querung der Altstadt für den Radverkehr, Verkehrs- und Funktionskonzept a) vorinformation des Stadtrates b) weiteres Vorgehen ? Anhörung der betroffenen Bezirksausschüsse, Verbände und Institutionen c) Anträge Sitzungsvorlage Nr. 08-14 / V 02148 Beschluss der Vollversammlung des Stadtrates vom 25.07.2012
+- TOP 2.14.: Kommunalreferat, Beschlussvorlage Wochenmärkte fördern und attraktiver machen Antrag Nr. 08-14 / B 03269 des BA 9 Neuhausen-Nymphenburg vom 16.08.2011 Sitzungsvorlage Nr. 08-14 / V 09031
+- TOP 2.15.: Kreisverwaltungsreferat, Bezirksinspektion Mitte Antrag auf Erweiterung einer Freischankfläche Schellingsraße 32, Entscheidung des Oberbürgermeisters beantragt
+- TOP 2.16.: Stadtwerke MVG Information über Betriebskonzept während der Schienenschleifarbeiten an der U1, U2 und U3 im August / September 2012
+- TOP 3.1.: Referat für Bildung und Sport, Zentrales Immobilienmanagement Generalinstandsetzung der Berufsschulanlage Luisenstraße 9-11, Bauteil E und F im 3. Stadtbezirk Maxvorstadt
+- TOP 4: Kultur
+- TOP 4.1.: Baureferat, Hochbau Schreiben des Baureferates vom 09.07.2012 an die Stadträte Josef Schmid, Richard Quaas und Ursula Sabathil sowie Dr. Oskar Holl zur Beantragung von Fristverlängerungen zu fol- genden BA- bzw. Stadtratsanträgen: 02-08 / B 02143; 08-14 / A 03176, 03203 und 04032
+- TOP 4.2.: Kulturreferat NS-Dokumentationszentrum ? aktueller Stand der Planung Sitzungsvorlage Nr. 08-14 / V 09796 Beschluss des Kulturausschusses vom 12.07.2012
+- TOP 4.1.: Direktorium, Abteilung für Bezirksausschussangelegenheiten Bezirksausschüsse in ?Stadtteilräte? umbenennen Antrag Nr. 08-14 / B 03414 des BA 4 Schwabing-West vom 26.10.2011 Beschluss des Verwaltungs- und Personalausschusses vom 11.07.2012 Sitzungsvorlage Nr. 08-14 / V 09480
+- TOP 4.2.: Direktorium Erweiterung der BA-Vertretungen in Wettbewerben BA-Antrag Nr. 08-14 / B 03849 des BA 5 Au-Haidhausen vom 28.03.2012 Antwortschreiben des Direktoriums vom 26.06.2012
+- TOP 4.3.: Direktorium, Fachstelle gegen Rechtsextremismus ?BA-Beauftragte gegen Rechtsextremismus?, Schreiben der Fachstelle vom 28.06.2012
+- TOP 4.4.: Antrag des Bezirksausschusses 8 Schwanthalerhöhe vom 04.07.2012 mit der Bitte um Unterstützung durch die anderen Bezirksausschüsse
+- TOP 4.5.: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien
+- TOP 4.6.: Direktorium, Entscheidungsrechte Kein Verkauf städtischer Grundstücke ohne Zustimmung des zuständigen Bezirksaus- schusses, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können BA-Antrag Nr. 08-14 / B 03929 des BA 16 Ramersdorf-Perlach vom 09.05.2012
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 3: Aktuelle Sachstandsberichte
