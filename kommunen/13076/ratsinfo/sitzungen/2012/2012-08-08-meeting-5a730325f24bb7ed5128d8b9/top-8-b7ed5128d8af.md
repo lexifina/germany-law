@@ -1,0 +1,8 @@
+# TOP 8: Kündigung der Mitgliedschaft des Landkreises im Landschaftspflegeverband "Sternberger Endmoränengebiet" e. V. zum 31.12.2012
+
+- Sitzung: Sitzung des Ausschusses für Umwelt, Naturschutz, Abfallwirtschaft und Ordnung und Sicherheit (2012-08-08)
+- Körperschaft: Landkreis Ludwigslust-Parchim
+- Öffentlich: ja
+- OParl: https://oparl.politik-bei-uns.de/agenda_item/5a730325f24bb7ed5128d8af
+- Ergebnis: abgelehnt
+- Beratung: https://oparl.politik-bei-uns.de/consultation/5a730325f24bb7ed5128d8ac
