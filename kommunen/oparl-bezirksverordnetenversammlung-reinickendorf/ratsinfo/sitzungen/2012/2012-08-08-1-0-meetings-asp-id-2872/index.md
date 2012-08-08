@@ -1,0 +1,66 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-08-08T17:00:00+02:00
+- Ende: 2012-08-08T21:35:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2872
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2872
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=56652
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 10. Sitzung der BVV am 08.08.2012 - beantwortet
+- TOP 3: Konsensliste für die 10. Sitzung der BVV am 08.08.2012 - ohne Änderungen in der BVV beschlossen
+- TOP 3.1: Intensive Planung für die Grundschulentwicklung in Reinickendorf bis zur September-BVV - erledigt
+- TOP 3.1.1: Peter-Witte-Schule bleibt offen! - ohne Änderungen in der BVV beschlossen
+- TOP 3.2: Peter-Witte-Schule bleibt offen - Aktueller Sachstand und Ausblick - beantwortet
+- TOP 3.2.1: Umgang mit Sachverständigengutachten - ohne Änderungen in der BVV beschlossen
+- TOP 3.3: Peter-Witte-Grundschule - beantwortet
+- TOP 3.3.1: Peter-Witte-Grundschule - ohne Änderungen in der BVV beschlossen
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 10. Sitzung der BVV am 08.08.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Niedrigschwellige Sportangebote - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Mit Unterrichtungstafeln Touristen und Besucher nach Reinickendorf locken - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Rauchmelderpflicht endlich in Berlin durchsetzen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.4: Individualleistungen nach dem Bildungs- und Teilhabepaket - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.5: Fußgängerampel am Südaufgang des S-Bahnhofs Waidmannslust (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.6: Humboldt-Bibliothek - Verbindungstreppe zwischen Parkplatz und Zugangsweg (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.7: Reinigung und Entfernen von Graffitis im Bereich der S-Bahnstationen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Jahresbericht der Patientenfürsprecherin des Medical Park Berlin Humboldtmühle für das Jahr 2011 - überwiesen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Persönliches Budget - beantwortet
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Wahl der Patientenfürsprecher / Patientenfürsprecherinnen für die Krankenhäuser im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - überwiesen
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Ballfangschutznetz Hermann-Schulz-Grundschule - erledigt
+- TOP 10.2: Sauberkeit im öffentlichen Straßenland - ohne Änderungen in der BVV beschlossen
+- TOP 10.3: Naturschutz auf der NEB-Insel durchsetzen - ohne Änderungen in der BVV beschlossen
+- TOP 10.4: W-LAN in dem Publikumsverkehr geöffneten bezirklichen Gebäuden - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Bericht Rechtsextremismus in Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.6: Prioritätenliste für Bordabsenkungen des Behindertenbeirates von 2010 prüfen! - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Anschaffung eines Moduls für Sprachausgabe beim Fahrstuhl zwischen Alt- und Neubau im Rathaus Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Unterschutzstellung von Schul- und Feuerwehrgebäude auf dem Lübarser Dorfanger - ohne Änderungen in der BVV beschlossen
+- TOP 10.9: Ehrenamtliche Sprachmittler / Dolmetscher - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Prioritätenliste Radverkehr - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Bericht über die bauliche Umsetzung von Fußgängerüberwegen - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Klimaschutz durch Solaranlagen - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Gesundheitsangebote für Menschen mit Migrationshintergrund - ohne Änderungen in der BVV beschlossen
+- TOP 10.14: Grabstellen für Muslime - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Anonymisierte Bewerbungen - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: 60. Jahrestag des Aufstandes in Ost-Berlin und der DDR in besonderer Weise vorbereiten - überwiesen
+- TOP 12.2: Versickerung von Niederschlägen auf bezirkseigenen Grundstücken wirtschaftlich optimieren - überwiesen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: "Schrottimmobilien" verhindern - Baugesetzbuch reformieren - überwiesen
+- TOP 13.2: Familienhebammen - ohne Änderungen in der BVV beschlossen
+- TOP 13.3: Sichere Überquerung des Zeltinger Platzes durch Fußgängerampel - ohne Änderungen in der BVV beschlossen
