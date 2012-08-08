@@ -1,0 +1,89 @@
+# BA 01 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 1: Altstadt-Lehel
+- Beginn: 2012-08-08T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/253
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2706379
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2706379
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .2: Protokoll der letzten Sitzung
+- TOP .3: Bürgeranliegen, u.a. Fragen an Polizei und Bezirksinspektion
+- TOP .4: Anhörungen (ohne Vorbehandlung)
+- TOP .5: Allgemeine Themen
+- TOP .1.: NACHTRAG: Bürgeranliegen: Wettbüro in der Frauenstraße
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Thierschplatz 3:Abbruch und Neuerrichtung des Dachstuhls, Wirtsgarten, Gauben (vertagt)
+- TOP .2.: Hackenstraße 7: Instandsetzung, Umbau und Erweiterung Neubau, Tiefgarage
+- TOP .3.: Adelgundenstraße 19: Anbau von Balkonen an ein Wohngebäude
+- TOP .4.: Franz-Josef-Strauß-Ring 4: Errichtung eines Prüfungssaals
+- TOP .5.: Unterer Anger 3: Sanierung und Umbau eines Verwaltungsgebäudes
+- TOP .6.: Promenadeplatz 8: Erweiterung Frühstücksraum
+- TOP .7.: Frauenplatz 11: Aufzugserweiterung und Einbau Gauben
+- TOP .8.: Maximilianstraße 17: Umbau des Cherubin-Ballsaals und Konferenzbereich im ?Hotel Vier Jahreszeiten?
+- TOP .9.: Hotterstraße 18: Nutzungsänderungen, Einbau Gauben (Tektur)
+- TOP .10.: Färbergraben 14: Neubau eines Büro- und Geschäftshauses (Tektur)
+- TOP .11.: Neuhauser Straße 43: Erweiterung eines Geschäftshauses (Vorbescheid)
+- TOP .1.: Antrag des BA 19: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich SWM bei Veräußerung von Immobilien
+- TOP .1.: Bürgeranliegen: Beschwerde über einen Gastronomiebetrieb in der Thierschstraße
+- TOP .2.: BA-Antrag: Aufnahme des Fußgängerzonenabschnitts Sendlinger Straße in den Geltungsbereich der Altstadtfußgängerzonensatzung
+- TOP .3.: NACHTRAG: Bürgeranliegen: Straßenmusik und Betteln im Tal
+- TOP .2.1: Gaststätten
+- TOP .1.: ?Zum Spöckmeier?, ?Sasou?: Temporäre Verlegung von zwei Freischankflächen in der Rosenstraße
+- TOP .2.: ?Bianco Rosso e Nero?, Hochbrückenstraße 4: Erweiterung einer bestehenden Freischankfläche
+- TOP .3.: ?Santo Anger?, Blumenstraße 25: Erweiterung einer bestehenden Freischankfläche
+- TOP .4.: NACHTRAG: ?Zum alten Hackerhaus?, Sendlinger Straße 14: Genehmigung einer temporären Freischankfläche
+- TOP .2.2: Sondernutzungen
+- TOP .1.: Rosental 4: Warenstellage
+- TOP .3.1: Veranstaltungen auf öffentlichem Verkehrsgrund
+- TOP .1.: München Marathon am 14.10.2012, verschiedene Orte
+- TOP .2.: Begleitprogramm Oktoberfestumzug am 23.09.2012, Salvatorplatz
+- TOP .3.: Prinzenpaarproklamation am 11.11.2012, Marienplatz
+- TOP .4.: ?Gemeinsam Sport ? Gemeinsam Spaß? am 25.08.2012, Marienplatz
+- TOP .5.: NACHTRAG: Michel Jackson Veranstaltung am 29.08.2012, Promenadeplatz
+- TOP .6.: NACHTRAG: Informationsveranstaltung zum Zentrallandwirtschaftsfest am 06.09.2012, Marienplatz
+- TOP .7.: Rosenkranzgebet am 13.10.2012, Marienplatz
+- TOP .8.: NACHTRAG: Streetlife Festival/Corso Leopold vom 8.-9.9.2012
+- TOP .9.: NACHTRAG: Munich Urban Cross-Lauf am 01.09.2012
+- TOP .10.: NACHTRAG: Informationsveranstaltung zum Tag des Kindes am 20.09.2012, Richard-Strauss-Brunnen
+- TOP .11.: NACHTRAG: Kulturveranstaltung ?Nachtschwärmer? am 07.09.2012, Innenstadt
+- TOP .12.: NACHTRAG: Kunstprojekt ?Fair Drop?, Standortänderung
+- TOP .1.: Antrag des BA 7 Sendling-Westpark: Kein Platz für (Neo-) Nazis, Änderung des Katalogs der BA-Satzung
+- TOP .1.: NACHTRAG: Bürgeranliegen: Nasse Sitze durch Fahrgäste mit nassen Badessachen in der Tram 18
+- TOP .1.: Beschlussentwurf für den Kulturausschuss: Erinnerungsorte München
+- TOP .2.: Anfrage des BA 2: Besuch Kinder- und Jugendmuseum, Terminanfrage
+- TOP .3.: NACHTRAG: Antrag des BA 8 und Initiative BA-Vorsitzendentreffen: Stadtteilbezug beim Budget der Bezirksausschüsse, Anpassung der BA-Satzung und der Budgetrichtlinien
+- TOP .1.: Die nächste BA-Sitzung am 19. September findet an einem MITTWOCH statt.
+- TOP .2.: Antrage des BA 2: Beteiligung an einer Veranstaltung mit Regsam zum Thema ?Gentrifikation?
+- TOP 0: Unterrichtungen
+- TOP 0.1.: Meldelisten Erstanträge, Änderungsverfahren, Vorbescheide
+- TOP 0.2.: Beschluss der Vollversammlung des Stadtrates am 25.07.2012: Marienhof
+- TOP 0.3.: Antwortschreiben der LBK zum Bauvorhaben Augustinerstraße 1
+- TOP 0.1.: Veranstaltungen auf öffentlichem Verkehrsgrund, Genehmigungen (Extraordner)
+- TOP 0.2.: Anmeldung von Versammlungen unter freiem Himmel (Extraordner)
+- TOP 0.3.: Filmaufnahmen auf öffentlichem Verkehrsgrund (Extraordner)
+- TOP 0.4.: Unveränderte Gaststättenfortführungen (Extraordner)
+- TOP 0.5.: Bürgerbeschwerde über Gastronomie am Marstallplatz
+- TOP 0.6.: Bürger: Aufstellung von öffentlichen Toiletten an der Isar auf der Höhe der Praterinsel
+- TOP 0.7.: Beschluss des RAW-Ausschusses vom 10.07.2012: Aschenbecher an U- und S-Bahnen
+- TOP 0.1.: Verkehrsrechtliche Anordnungen: - Rückbeschliderung Z. 283 StVO mit dem Zusatz ?Einsatzfahrzeuge frei? in der Löwengrube
+- TOP 0.2.: Beschluss des Kreisverwaltungsausschusses vom 24.07.2012: ?Dialog-Display? in München
+- TOP 0.3.: Information der SWM zum Betriebskonzept währen der Fahrtreppenerneuerung am U-Bahnhof Königsplatz
+- TOP 0.4.: Antwortschreiben zum BA-Antrag Nr. 08-14 / E 788: Triftstraße/Einmündung Liebigstraße
+- TOP 0.5.: Schreiben des KVR zu Motorradstellplätzen am Odeonsplatz
+- TOP 0.6.: Beschluss der Vollversammlung: Nord-Süd-Querung der Altstadt für den Radverkehr
+- TOP 0.7.: Schreiben zur Verkehrsberuhigung für die Prälat-Zistl-Straße
+- TOP 0.1.: Antrag des BA 8 auf Änderung der BA-Satzung in Budgetangelegenheiten
+- TOP 0.2.: Protokoll des Treffens der Bezirksausschüsse mit dem Kulturreferat
+- TOP .4: Unterrichtungen (siehe Anlage)
+- TOP .0: Bericht
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3: Anhörungen
+- TOP .3.2: Sonstige
