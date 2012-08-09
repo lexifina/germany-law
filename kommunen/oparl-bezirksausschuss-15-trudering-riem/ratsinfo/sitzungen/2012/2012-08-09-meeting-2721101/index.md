@@ -1,0 +1,53 @@
+# BA 15 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 15: Trudering-Riem
+- Beginn: 2012-08-09T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/325
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2721101
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2721101
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: TOP 0
+- TOP 0.0.1: Änderungen der vorläufigen Tagesordnung
+- TOP 1: Entscheidungsangelegenheiten
+- TOP 1.1.: 1.1 Entscheidung über Sondernutzungserlaubnis (Freischankfläche) gemäß Vollmacht des Oberbürgermeisters vom 26.11.07, Freischankfläche für den ?Müller - Backshop?, Truderinger Str. 304
+- TOP 2: Anhörungen
+- TOP 2.1.: Kein Verkauf städtischer Grundstücke ohne Zustimmung des zuständigen Bezirksausschusses die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können; Antrag Nr. 08-14 / B 03929 des BA 16 vom 09.05.2012; Zuleitung des Direktoriums vom 19.07.2012 mit der Bitte um Stellungnahme
+- TOP 2.2.: Erinnerungsorte in München; Antrag Nr. 08-14 / B 03000 des BA 8 Schwanthalerhöhe vom 10.05.2012; Beschlussentwurf für die Sitzung des Kulturausschusses am 27.09.2012; Zuleitung des Kulturreferats vom 19.07.2012 mit der Bitte um Stellungnahme
+- TOP 0: TOP 3 UA Planung
+- TOP 0.1.: Bauvorhaben Dresselstr.25,
+- TOP 0.2.: Bauvorhaben Wasserburger Landstr. 133
+- TOP 0.3.: Bauvorhaben Gottschalkstr. 14
+- TOP 0.4.: Bauvorhaben Toni-Schmid-Str. 21
+- TOP 4: Baumfällungen
+- TOP 4.1.: Entscheidungen entgegen dem Votum des Bezirksausschusses: Bergerwaldstr.26, Windhuker Str.18, Rotkelchenweg 21a, Adlerstr.8a Entscheidungen der Unteren Naturschutzbehörde aus anderen Gründen: Baumfällungen auf öffentlichen Grün- und Freiflächen:
+- TOP 4.2.: Markgrafenstr. (Plan)
+- TOP 4.3.: Veronikastr.8
+- TOP 4.4.: Matterhornstr. 39
+- TOP 4.5.: Feldbergstr. 27
+- TOP 4.6.: Martin-Empl-Ring 10
+- TOP 4.7.: Dresselstr.24 (Plan)
+- TOP 4.8.: Schneefinkenweg 8 (Plan)
+- TOP 4.9.: In der Heuluss 47 (Plan)
+- TOP 4.10.: Monikastr.8 (Plan)
+- TOP 4.11.: Taku-Fort-Str.4a
+- TOP 4.12.: Gerstäckerstr.10
+- TOP 4.13.: Gerstäckerstr.82
+- TOP 4.14.: Chammünsterstr.40
+- TOP 4.15.: Stockerweg 12 Plan
+- TOP 4.16.: In der Heuluß 43
+- TOP 4.17.: Mönchbergstr.32
+- TOP 4.18.: Fauststr.72
+- TOP 4.19.: Gottschalkstr.14 Plan
+- TOP 4.20.: Sulzer-Belchen-Weg 12
+- TOP 4.21.: Tangastr.31 Plan
+- TOP 4.22.: Großfriedrichsburger Str.19
+- TOP 0: TOP 5
+- TOP 0.1.: Sonstiges
+- TOP 0.2.: Kampfhunde im 15. Stadtbezirk - <div>WL an das KVR</div>
+- TOP 0.3.: Einkaufsvielfalt auf der Wasserburger Landstraße
