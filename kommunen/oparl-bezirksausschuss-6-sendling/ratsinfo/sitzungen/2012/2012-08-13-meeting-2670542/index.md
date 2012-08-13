@@ -1,0 +1,80 @@
+# BA 06 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 6: Sendling
+- Beginn: 2012-08-13T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/276
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2670542
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2670542
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Beschluss über die Tagesordnung / Genehmigung des Protokolls der letzten Sitzung
+- TOP 2: Referatsvertreter nehmen Stellung
+- TOP 3: Soziales und Sozialreferat
+- TOP 3.1.: Einstiegstreppe ins Schwimmerbecken des Südbades
+- TOP 3.2.: Seniorenstadtplan
+- TOP 3.3.: Informationsveranstaltung des Sozialreferates für die Bezirksausschüsse am 29.11.12
+- TOP 4: Referat für Bildung und Sport
+- TOP 4.1.: Drohende Schließung der Kindertagesstätte Jenaplan
+- TOP 5.1.: Freischankfläche Daiserstr. 20
+- TOP 6.1.: Warenstellage Brudermühlstr. 25
+- TOP 6.2.: Mobiler Fahrradständer Gaissacher Str. 18
+- TOP 6.3.: Aufhebung der Radwegbenutzungspflicht in der Thalkirchner Straße
+- TOP 6.4.: Umbau der Stellplatzanlage und Rückbau der Baustellenzufahrt an der Bezirkssportanlage Thalkirchner Straße 209
+- TOP 6.5.: Verkehrsregelung Oktoberfest 2012
+- TOP 6.6.: Containerstrandort Meindlstraße
+- TOP 6.7.: Verkehrssicherheit für Fußgänger und Radfahrer am südlichen Übergang des Herzog-Ernst-Platzes
+- TOP 6.8.: Bergfest 2012 in Sendling
+- TOP 6.9.: Radwegführung und - beschilderung in der Plinganserstraße, stadtauswärts, südl. der Post
+- TOP 6.10.: Sichtbehinderung durch abgestellte Räder und Fahrzeuge der Firma Joeys Pizza im Bereich Lindwurmstr. 112
+- TOP 6.11.: Fahrbahnsanierung Am Isarkanal
+- TOP 6.12.: Fahrradabstellplatzsatzung
+- TOP 6.13.: Dialog-Display in München
+- TOP 7.1.: (E) Budget der Bezirksausschüsse Isarland e.V. 1. Münchner Bergfest vom 20.07. bis 22.07.2012 - <div>Ablehnung, einstimmig - fehlender Stadtbezirksbezug</div>
+- TOP 7.2.: (E) Budget der Bezirksausschüsse Kantorat an der Himmelfahrtskirche München-Sendling 5. Sendlinger-Orgelnacht - <div>Bezuschussung in Höhe von  ? 2.500,-</div>
+- TOP 7.3.: (E) Budget der Bezirksausschüsse Elternbeirat der Grundschule an der Implerstraße Instandsetzung und Neuanstrich der Schulhofmauer - <div>Vertagt </div>
+- TOP 7.4.: Budgetantrag der Sendlinger Kulturschmiede, Ausstellung Rosa & Alois Barbist - ein fast vergessenes Architekturbüro; ? 2.500,-
+- TOP 7.5.: Bürgerschaftliche Nutzung des Sitzungssaals im Sozialbürgerhaus Sendling
+- TOP 7.6.: Änderung der Beteiligungsrechte der BAs im Bereich der SWM bei Veräußerung von Immobilien
+- TOP 7.7.: Kein Verkauf städtischer Grundstücke ohne Zustimmung des zuständigen Bezirksausschusses, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können
+- TOP 7.8.: Oktoberfest 2012; Reservierung der Ratsboxe am 26.09.2012, 17:00 Uhr für den BA6
+- TOP 8: Referat für Stadtplanung und Bauordnung
+- TOP 8.1.: Meldelisten Bauvorhaben
+- TOP 8.2.: Bauvorhaben Plinganserstr. 6; Nutzungsänderung Verkaufslager 2, Remise
+- TOP 8.3.: Bauvorhaben Plinganserstr. 6; Nutzungsänderung Haupthaus
+- TOP 8.4.: Bauvorhaben Steinerstr. 8 - 8b
+- TOP 8.5.: Spielbetrieb bzw. Nutzung des Sportgeländes des HC-Wacker und der Bezirkssportanlage Demleitnerstraße
+- TOP 8.6.: Schaffung von neuem Wohnraum im "MK6" des Sendlinger Dreiecks durch Erhöhung des Wohnanteils auf bis zu 50 Prozent - <div>zur Kenntnis genommen</div>
+- TOP 8.7.: Keine Werbung für Spielotheken, Spielhallen, Spielcasinos u.ä. auf städtischen Werbeflächen bzw. Werbeflächen städtischer Tochtergesellschaften - <div>zur Kenntnis genommen</div>
+- TOP 8.8.: Aufnahme des Hauses Pfeuferstraße 44 in die Denkmalliste
+- TOP 8.9.: Sozialgerechte Bodennutzung
+- TOP 8.10.: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern
+- TOP 9: Baureferat
+- TOP 9.1.: Umwandlung des Bolzplatzes in den Neuhofener Anlagen in eine Gartenfläche
+- TOP 9.2.: Aktuelle Planungen für den Kleinkinderspielplatz am Max-Hirschberg-Weg
+- TOP 9.3.: Ausstellung: Stadtgrün in München; 175 Jahre Flaucher-Park - <div>Rückfrage an Baureferat</div>
+- TOP 9.4.: Änderung der Straßenreinigungssatzung
+- TOP 9.5.: Nutzung der Stemmerwiese
+- TOP 10: Baum- und Umweltschutz
+- TOP 10.1.: Baumfällung Daiserstr. 3
+- TOP 10.2.: Urbanstr. 1; Ablehnung der Baumfällung
+- TOP 11: Bürgerversammlungsempfehlungen
+- TOP 12: Anträge
+- TOP 12.1.: Der Sendlinger Bezirksausschuss unterzeichnet den Protest- und Forderungsaufruf des "Bündnis bezahlbares Wohnen" und tritt diesem Bündnis bei
+- TOP 12.2.: Erhalt und Ausbau der Montessorischule an der Reutberger Straße 10
+- TOP 12.3.: Verschiedene Forderungen zur Barrierefreiheit in Sendling
+- TOP 12.4.: Beleuchtung für den Basketballkorb im Valleyplatz
+- TOP 12.5.: Verkauf der Anwesen Königsdorfer Str. 15 und 17
+- TOP 12.6.: Zustand des Radwegs im Bereich des Anwesens Plinganserstr. 52
+- TOP 13: Verschiedenes
+- TOP 13.1.: Erinnerungsorte München
+- TOP 13.2.: Neuer Werkstattplatz für die Kunstschmiede Heinecker in der Pfeuferstraße - <div>zur Kenntnis genommen</div>
+- TOP 13.3.: Wegweisung und Umgebungspläne während der Wiesnaufbau-Sperrung der Theresienwiese
+- TOP 13.4.: Protokoll des Treffens des Kulturreferates mit den Bezirksausschüssen
+- TOP 5: Gaststättenangelegenheiten
+- TOP 6: Verkehrsangelegenheiten
+- TOP 7: BA- und BA-Satzungsangelegenheiten / Budget
