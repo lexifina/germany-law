@@ -1,0 +1,100 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-08-13T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455507
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455507
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Fahrräder auf dem Gehweg Sauerbruchstraße
+- TOP 1.2.: Spielwiese und Schachbrett am Stiftsbogen
+- TOP 1.3.: Alten- und Servicezentrum am Stiftsbogen
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Verkehr
+- TOP 3.2.: UA Wohnen, Bau und Umwelt
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.2.: Gehwegnasen Ossingerstraße auf Höhe Mäuselweg und Vingerstraße (UA Verkehr)
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Entscheidung gem. Vollmacht des Oberbürgermeisters über die Projektplanung: Sanierung Bolzplatz Stiftsbogen 15 a (Baureferat, 12.06.12) (Vertagt aus 07/12)
+- TOP 5.2.: Zuschuss für Johanniter-Unfall-Hilfe e.V. (Direktorium, 13.07.12)
+- TOP 5.2.: Budget der Bezirksausschüsse, Johanniter-Unfall-Hilfe e.V., Workshopplätze vom 06.08.-09.09.2012 (Direktorium, 13.07.2012)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Erweiterungen der BA-Vertretungen in Wettbewerben, Antrag BA 5 Au-Haidhausen (Direktorium, 26.06.12) (Vertagt aus 07/12)
+- TOP 6.2.: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien, Antrag BA 19 Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln (Direktorium, 11.07.12)
+- TOP 6.3.: Kein Verkauf städtischer Grundstücke ohne Zustimmung des zuständigen Bezirksausschusses, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können, Antrag BA 16 Ramersdorf-Perlach (Direktorium, 19.07.12)
+- TOP 6.4.: Erinnerungsorte München, Beschlussvorlage für den Kulturausschuss (Kulturreferat, 19.07.12)
+- TOP 6.5.: Veranstaltung in einer städtischen Grünanlage, hier: Flohmarkt zugunsten des Städt. Kindergartens Ludwig-Wörl-Weg auf dem Max-Lebsche-Platz am 21.09.2012 (Kreisverwaltungsreferat, 23.07.12)
+- TOP 6.6.: Guardinistraße 22, Aufstockung einer Wohnanlage (Guardinistraße 22 - 54 / Stiftsbogen 12 - 18) - Vorbescheid (Referat für Stadtplanung und Bauordnung, 17.07.12)
+- TOP 6.7.: Kein Platz für (Neo-)Nazis, Antrag BA 7 Sendling-Westpark (Direktorium, 30.07.12)
+- TOP 6.8.: Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien, Antrag BA 8 Schwanthalerhöhe, Initiative von Frau Bürgermeisterin Strobl (Direktorium, 26.07.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Arnikaweg 21, 1 Birke
+- TOP 7.2.: Hohenklingenstraße 1, 3 Hemlock-Tannen
+- TOP 7.3.: Wildanger 27, 2 Thujen
+- TOP 7.4.: Windeckstraße 63, 2 Fichten
+- TOP 7.5.: Würmtalstraße 148 a, 1 Schwarzkiefer
+- TOP 7.6.: Heckenrosenstraße 3, 1 Fichte
+- TOP 7.7.: Arnikaweg 7, gem. Baumbestandsplan Nr. 14924
+- TOP 7.8.: Gräfelfinger Straße 108, 1 Ahorn
+- TOP 7.9.: Am Wiesenhang 24, 1 Birke
+- TOP 7.10.: Am Wiesenhang 25, 1 Kiefer
+- TOP 7.11.: Haseneystraße 37, gem. Baumbestandsplan Nr. 14516
+- TOP 7.12.: Leostraße 2, 1 Fichte
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Gräfelfinger Straße 108, 1 Spitzahorn (Referat für Stadtplanung und Bauordnung, 12.07.12)
+- TOP 7.2.: Fürstenrieder Straße 284, 1 Pappel (Referat für Stadtplanung und Bauordnung, 11.07.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Baumaßnahmen der Stadtwerke München, hier: - Wasserprojekt Blumenauer Straße (SWM, 20.07.12)
+- TOP 8.2.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung für Arbeiten an den städtischen Trinkwasserrohrleitungen in der Fürstenrieder Straße auf Höhe Hausnummer 166 (Referat für Gesundheit und Umwelt, 23.07.12)
+- TOP 8.3.: Neues Mitglied für den Mieterbeirat (Sozialreferat, 24.07.12)
+- TOP 8.4.: Unveränderte Fortführung einer Gaststätte, hier: - "Dreher-Stuben", Konrad-Dreher-Straße 12 a (Kreisverwaltungsreferat, 18.07.12)
+- TOP 8.5.: Zweckentfremdung von Wohnraum, hier: - Holzapfelkreuther Straße (Sozialreferat, 05.07.12) - Silberdistelstraße (Sozialreferat, 06.07.12) - Willibaldstraße (Sozialreferat, 26.06.12) - Sonnenblumenstraße (Sozialreferat, 28.06.12)
+- TOP 8.6.: Dienststellenverständigung: Erweiterung der städtischen Kindertageseinrichtung Waldwiesenstraße 27 (Referat für Bildung und Sport, 02.07.12)
+- TOP 8.7.: Ausstellung: Stadtgrün in München 1939 - 2014; "Münchner Grün ist nicht braun" (Baureferat, 29.06.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Archivraum für den Geschichtsverein Hadern e.V. im Objekt Würmtalstraße 126 (Kommunalreferat, 09.07.12)
+- TOP 9.2.: Machbarkeitsstudie zur Einhausung der A 96 in Gräfelfing (Referat für Stadtplanung und Bauordnung, 28.06.12)
+- TOP 9.3.: Überhängende Sträucher Grundstück Franz-Kendler-Straße / Ecke Heiglhofstraße (Baureferat, 04.07.12)
+- TOP 9.4.: Realisierung des Alten- und Servicezentrums am Stiftsbogen (Oberbürgermeister Ude, 10.07.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: Oktoberfest 2012, Reservierung in der Ratsboxe für die Münchner Bezirksausschüsse, Termin BA 20: Donnerstag, 27.09.2012 (Direktorium, 24.07.12)
+- TOP 11.2.: Protokoll des Jour Fixe der Bezirksausschüsse mit dem Kulturreferat am 26.03.2012 (Kulturreferat, 25.06.12)
+- TOP 11.3.: Tagung: 25 Jahre Forschungsschwerpunkt Rechtsextremismus / Neonazismus am 05. und 06.10.2012 (Feierwerk, 16.06.12)
+- TOP 11.4.: Broschüre "Demokratie ist (k)ein Kindergeburtstag" (Feierwerk, 09.07.12)
+- TOP 11.5.: Antrag BA 8 Schwanthalerhöhe vom 04.07.2012: Antrag auf Satzungsänderung bzgl. Budgetvergabe
+- TOP 11.6.: Broschüre "Vernetzte Welten" (Feierwerk, 03.07.12)
+- TOP 11.7.: Angebote des Hausbesuchsdienstes der Kinderkrankenschwestern des RGU (Referat für Gesundheit und Umwelt, 30.07.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 27.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09314 (nach Antrag): Neubestellung des Heimatpflegers der Landeshauptstadt München und seines Stellvertreters (Architekten Dipl. Ing. Gert F. Goergens und Dipl. Ing. Heinrich Maluche)
+- TOP 12.2.: Beschluss vom 27.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09511 (nach Antrag): Sozialgerechte Bodennutzung - Der Münchner Weg Fortschreibung der Stadtratsbeschlüsse (Die Anrechnung des "fiktiven Wohnbaurechts" wird beibehalten. In "Altfällen" erfolgt eine Behandlung nach bisheriger Verwaltungspraxis. In "Neufällen" ist das sich ergebende Förder-Delta durch Vereinbarungen im städtebauliche Vertrag zu binden. Für "Übergangsfälle" werden Lösungsvorschläge erarbeitet, die sich an den "tragenden Entscheidungsmaßstäben" orientieren.)
+- TOP 12.3.: Beschluss vom 27.06.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08433 (nach Antrag): Änderung der Straßenreinigungssatzung bzw. der Straßenreinigungs- und -sicherungsverordnung der Landeshauptstadt München Verschmutzungsabgabe für Fast-Food-Betriebe (aus Rechtsgründen abgelehnt)
+- TOP 12.1.: Beschluss vom 25.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09738: Gesamtfortschreibung des Landesentwicklungsprogramms Bayern
+- TOP 12.2.: Beschluss vom 25.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09480: Bezirksausschüsse in "Stadtteilräte" umbenennen (abgelehnt, auch vom BA Hadern mit Beschluss vom 12.12.2011)
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 11.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 08625 (vertagt): Einhausung A 96 (Derzeit keine Machbarkeitsstudie für das Stadtgebiet. Nach Vorliegen der Machbarkeitsstudie der Gemeinde Gräfelfing und nach Abschluss der laufenden Untersuchungen zum Handlungsprogramm "Mittlerer Ring (Landshuter Allee, Tegernseer Landstraße)" soll das Planungsreferat erneut berichten.)
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09535 (nach Antrag): Vorhabenbezogener Bebauungsplan mit Grünordnung Nr. 2054 Sauerbruchstraße (westlich), Flurstücke 167/13, 167/25, 167/1 (Freifläche) und 177 (Teilfläche), Teiländerung der Bebauungspläne 1600 und 1918, Satzungsbeschluss, insbesondere "Kenntnisnahme vom (notariellen) Abschluss des Durchführungsvertrages" und "Bitte an das Referat für Bildung und Sport zur Berichtigung des Infrastrukturkonzeptes vom 09.11.2011" (Tagesheim, Hort- und Grundschulplätze im Erweiterungsbau der Grundschule am Canisiusplatz)
+- TOP 12.1.: Beschluss des Kreisverwaltungsausschusses vom 24.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09260 (war von der Vollversammlung vertagt): "Dialog-Display" in München, Einsatz mobiler / fester Geschwindigkeitsanzeiger, insbesondere in Harlaching, Theodor-Linden-Platz
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.1.: Hinweis / Ergänzung vom 03.07.2012 zum Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09305 (nach Antrag unter Berücksichtigung der beschlossenen Ergänzung vom 04.07.2012 und eines Ergänzungsantrages): Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) Die vom BA Hadern geforderte Erhöhung der Richtwerte für diverse Nutzungen wird vom Planungsreferat abgelehnt. In 3 - 4 Jahren soll eine Überprüfung erfolgen (S. 31 - 32). Die Satzung tritt am 01.01.2013 in Kraft.
+- TOP 12.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09168 (vertagt): Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (Bei deren Festlegung werden die klimatischen Auswirkungen berücksichtigt.)
+- TOP 12.3.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09600 (vertagt): Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung Antrag auf Änderung des Kommunalen Kostenverzeichnisses (Anlage zur Satzung über die Erhebung von Verwaltungskosten für Amtshandlungen im eigenen Wirkungskreis der Landeshauptstadt München): Für Erklärungen, dass ein Bauvorhaben gemäß den Vorgaben eines Bebauungsplanes als "Freisteller" ohne Durchführung eines Baugenehmigungsverfahrens durchgeführt werden könne (Art. 58 Abs. 3 Satz 4 BayBO), werden Gebühren in Höhe von 35,- bis 75,- ? erhoben.
+- TOP 12.4.: Beschluss des gemeinsamen Ausschusses für Stadtplanung und Bauordnung und des Ausschusses für Bildung und Sport vom 04.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09477 (nach Antrag): Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2012 (Errichtung einer Geschäftsstelle mit jährlichen Kosten in Höhe von 80.820,- ?)
+- TOP 12.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
