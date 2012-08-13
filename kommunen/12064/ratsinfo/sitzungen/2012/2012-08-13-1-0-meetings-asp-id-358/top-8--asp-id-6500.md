@@ -1,0 +1,7 @@
+# TOP 8: Informationsvorlage zum Tätigkeitsbericht der unteren Bauaufsichtsbehörden im Land Brandenburg <span style="color: #888a85" title="Zusatzinfo">(Einreicher: Landrat)</span>
+
+- Sitzung: 26. Sitzung des Ausschusses für Bau (2012-08-13)
+- Körperschaft: Landkreis Märkisch-Oderland
+- Öffentlich: ja
+- OParl: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/agendaItems.asp?id=6500
+- Beratung: https://ratsinfo-online.net/landkreis-mol-bi/oparl/1.0/consultations.asp?typ=i&id=6500
