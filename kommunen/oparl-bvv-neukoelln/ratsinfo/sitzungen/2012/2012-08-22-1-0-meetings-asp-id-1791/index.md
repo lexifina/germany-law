@@ -1,0 +1,71 @@
+# 10. öffentliche Sitzung der Bezirksverordnetenversammlung Neukölln von Berlin
+
+- Körperschaft: BVV-Neukölln
+- Beginn: 2012-08-22T17:00:00+02:00
+- Ende: 2012-08-22T22:22:00+02:00
+- Ort: Karl-Marx-Str. 83, 12040 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=1791
+- OParl: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/meetings.asp?id=1791
+- Quelle: https://www.sitzungsdienst-neukoelln.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Einwohnerfragestunde - erledigt
+- TOP 2: Dringlichkeiten - erledigt
+- TOP 3: Geschäftliches - erledigt
+- TOP 4: Der Bürgermeister hat das Wort - erledigt
+- TOP 5: Entschließungen - erledigt
+- TOP 6: Vorlagen zur Wahl - (offen)
+- TOP 6.1: Neuwahl der Mitglieder des Beirates für Sozialhilfeangelegenheiten - gewählt
+- TOP 7: Vorlagen zur Beschlussfassung - (offen)
+- TOP 7.1: Bebauungsplan XIV-274aa - "Waßmannsdorfer Dreieck" - ohne Änderungen in der BVV beschlossen
+- TOP 7.2: Bebauungsplan 8-53 - "Dörferblick" - ohne Änderungen in der BVV beschlossen
+- TOP 8: Vorlagen zur Kenntnisnahme - erledigt
+- TOP 9: Mündliche Anfragen - (offen)
+- TOP 9.1: Rückstellungen bei Einschulungen - beantwortet
+- TOP 9.2: Digitale Beglaubigungen - beantwortet
+- TOP 9.3: Baumfällungen am Maybachufer? - beantwortet
+- TOP 9.4: Brandschutzmängel an den Neuköllner Schulen - beantwortet
+- TOP 9.5: Wespenplage in der Bruno-Taut-Schule - beantwortet
+- TOP 9.6: Sportunterrichtsausfall an der Fritz-Karsen-Schule? - beantwortet
+- TOP 9.7: Verbreitung von rechtsextremen Parolen - beantwortet
+- TOP 9.8: Grundstück Flughafenstraße/Hermannstraße - beantwortet
+- TOP 9.9: Zustand Neuköllner U-Bahnhöfe? - beantwortet
+- TOP 9.10: Bildungs- und Teilhabepaket - schriftlich beantwortet
+- TOP 9.11: Baurechtsstreitigkeiten des Bezirks - schriftlich beantwortet
+- TOP 9.12: Baumschutz bei Baumaßnahmen - schriftlich beantwortet
+- TOP 10: Vertagte Drucksachen aus vorangegangenen Sitzungen - erledigt
+- TOP 11: Beschlussempfehlungen - (offen)
+- TOP 11.1: Kündigungssperrfrist auf sieben Jahre verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 12: Große Anfragen - (offen)
+- TOP 12.1: Finanzielle Kürzungen bei Pflegestützpunkten in 2013 - beantwortet
+- TOP 12.2: Präventionsangebote für Kinder die von schulfremden Personen belästigt werden - schriftlich beantwortet
+- TOP 12.3: Baustelle Zwickauer Damm - beantwortet
+- TOP 12.4: Wegfall Förderstunden - beantwortet
+- TOP 12.5: Schlaglochprogramm - beantwortet
+- TOP 12.6: Haushaltssichernde Maßnahmen - beantwortet
+- TOP 12.7: Präventionskette - beantwortet
+- TOP 12.8: Bauvorhaben von ECE in Neukölln? - beantwortet
+- TOP 12.9: Kita-Versorgung sichern - beantwortet
+- TOP 13: Große Anfragen - schriftlich - (offen)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Finanzielle Kürzungen bei Pflegestützpunkten in 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Zugang "Tempelhofer Freiheit" im Südosten erleichtern - überwiesen
+- TOP 14.3: Umstellen der Fußgängerampel Johannisthaler Chaussee/Ecke Petunienweg - überwiesen
+- TOP 14.4: Warensortiment der Spätverkaufsstellen - ohne Änderungen in der BVV beschlossen
+- TOP 14.5: Keine Einsparung von Personalmitteln - in der BVV abgelehnt
+- TOP 14.6: U-Bahnhof Zwickauer Damm sanieren - überwiesen
+- TOP 14.7: Programm "Berlin Arbeit" sinnvoll nutzen - überwiesen
+- TOP 14.8: Demokratie stärken - Rechtsextremismus bekämpfen - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Sondernutzungserlaubnis an Kreuzungen - überwiesen
+- TOP 14.10: Rückübertragung Kolonie Fliedergrund - überwiesen
+- TOP 14.11: Ampelreparatur in der Jugendverkehrsschule im Wörnitzweg - überwiesen
+- TOP 14.12: Arbeitsschutz im Rathaus Neukölln erhöhen - überwiesen
+- TOP 14.13: Bildungsgutscheine für nachhaltige berufliche Qualifikationen - überwiesen
+- TOP 15: Mitteilungen - erledigt
+- TOP 16: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 16.1: Blumenviertel vor Grundwasser schützen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 16.2: Veränderungssperre 8-61/27 für das Grundstück Kanalstraße 8 im Bezirk Neukölln, Ortsteil Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 16.3: Veränderungssperre 8-48/28 für die Grundstücke Kanalstraße 5, 5 A und Stubenrauchstraße 90-92 im Bezirk Neukölln, Ortsteil Rudow - zur Kenntnis genommen (Beratungsfolge beendet)
