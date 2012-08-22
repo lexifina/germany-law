@@ -1,0 +1,112 @@
+# BA 22 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 22: Aubing-Lochhausen-Langwied
+- Beginn: 2012-08-22T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/363
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2474092
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2474092
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung der Tagesordnung
+- TOP 1.1.3: Genehmigung der Sitzungsniederschrift
+- TOP 1.1.4: Bericht des Vorsitzenden
+- TOP 2: Bürgeranliegen
+- TOP 2.1.: Antrag auf Verbesserung der Parkplatzsituation und der Verkehrssituation Federseestr. 1 / Ecke Ziegeleistr. (UA Planung, vertagt aus 07/12)
+- TOP 2.2.: Straßenführung Bodenseestr. (UA Planung, vertagt aus 07/12)
+- TOP 2.3.: Einhaltung des Bebauungsplanes Nr. 2005 - Huislerstr., Hohenrechbergstr., Industriestr. (UA Planung, vertagt aus 07/12)
+- TOP 2.4.: Öffentliche Erörterung zum Bebauungsplan mit Grünordnung Nr. 2068
+- TOP 2.5.: Containerstandplatz Federseestr.
+- TOP 2.6.: Ensembleschutz für Anwesen Im Stocket 13
+- TOP 2.7.: Veränderungen am Spielplatz Waidachanger
+- TOP 2.8.: Veranstaltung am 05.08.2012 auf dem Parkplatz des Praktiker-Baumarkts am Gleisdreieck in Neuaubing
+- TOP 2.9.: Kabel auf dem Gehweg Hoheneckstr. und Limesstr.
+- TOP 2.10.: Information der Hauseigentümer über das Projekt Geothermie-Anlage in Freiham und die Seismikmessungen im 22. Stadtbezirk
+- TOP 3: Berichte der Beauftragten und Beiräte
+- TOP 3.3.1: Baumschutzbeauftragte
+- TOP 3.1.: Baumfällungen auf Anforderung: - Langwieder Hauptstr. 49 - Ehrenbürgstr. 8 - Bodenseestr. 257 - Kunreuthstr. 61 - 63 - Grafrather Str. 20 - Vestastr. 22 - Trimburgerstr. 12 - Leienfelsstr. 43 - Hittoweg 11 - Lichtenfelser Str. 2 a
+- TOP 3.2.: Baumfällungen zu Bauvorhaben: - Karl-Harz-Weg 23, gem. Baumbestandsplan Nr. 2012-14768 - Bodenseestr. 113, gem. Baumbestandsplan Nr. 2012-13367
+- TOP 3.3.: Fällungsgenehmigung: - Langwieder Hauptstr. 49, Schr. Planungsreferat vom 30.07.12 - Leienfelsstr. 43, Schr. Planungsreferat vom 06.08.12
+- TOP 3.4.: Unterrichtung über das Fällen von Gefahrenbäumen: - Bienenheimstr. 7, Liste Baureferat vom 24.07.12
+- TOP 3.3.2: Kinderbeauftragte
+- TOP 3.3.3: Jugendbeauftragte
+- TOP 3.3.4: Migrationsbeauftragte
+- TOP 3.3.5: Seniorenbeirat
+- TOP 3.3.6: Mieterbeirat
+- TOP 4: Anträge
+- TOP 4.1.: Prüfung der Denkmalschutzwürdigkeit des Bahngebäudes in der Varnhagenstr. 41-43
+- TOP 4.2.: Freizeitgelände Wiesentfelser Straße - Zustand der Skater-Anlage und Beleuchtung für Fußballfeld
+- TOP 4.3.: Dringlichkeitsantrag: Verlegung der Bushaltestelle Ecke Kronwinkler Str. / Bergsonstr.
+- TOP 5: Entscheidungen
+- TOP 5.1.: Antrag auf Zuschuss aus dem Budget des BA 22, Antragsteller: Dr. Dieter Birmann und Barbara Kuhn
+- TOP 6: Berichte der Unterausschüsse
+- TOP 6.6.1: UA Soziales, Bildung, Sport und Kultur
+- TOP 6.3.: Veranstaltung auf öffentlichem Verkehrsgrund, hier: Festzug (Start: Schwemmstr.) und Standkonzert am Aubinger Kriegerdenkmal (auf Höhe Altostr. 36) anlässlich des Aubinger Herbstfestes am 13.09.2012, Anhörung KVR vom 09.08.12
+- TOP 6.1.: Schülerzahl Realschule, Schr. Referat für Bildung und Sport vom 17.07.12
+- TOP 6.2.: Praktikumsplatzbörse München-West, Schr. Kreisjugendring München-Stadt vom 18.07.12
+- TOP 6.3.: Veranstaltungen im August 2012, Schr. Kulturreferat vom 31.07.12
+- TOP 6.5.: Angebote des Hausbesuchsdienstes der Kinderkrankenschwestern des RGU, Schr. Referat für Gesundheit und Umwelt vom 30.07.12
+- TOP 6.6.: Pressespiegel zum Kulturwochenende Neuaubing-West Freiham 2012, Schr. Kulturreferat vom 09.08.12
+- TOP 6.7.: Protokoll Jour Fixe der Bezirksausschüsse mit dem Kulturreferat am 26.03.2012, Schr. Kulturreferat vom 25.06.12
+- TOP 6.8.: Einlassvorbehalt für Veranstalter in München, Schr. Direktorium vom 03.08.12
+- TOP 6.9.: Durchführung von Mieterversammlungen durch den Bezirksausschuss, Schr. OB Ude vom 30.07.12
+- TOP 6.6.2: UA Budget
+- TOP 6.1.: Ablehnung einer beantragten Zuwendung aus dem Budget des BA 22, Johanniter-Unfall-Hilfe e.V., Schr. Direktorium vom 25.07.12
+- TOP 6.2.: Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien, Anhörung Direktorium vom 26.07.12
+- TOP 6.6.3: UA Freiham
+- TOP 6.3.: Kontaktschleife an der Ampel Freihamer Weg / Bodenseestraße; Ampelschaltung an der Kreuzung Bodensee- / Limesstr., Schr. KVR vom 02.08.12
+- TOP 6.6.4: UA Planung, Umwelt, Bau und Verkehr
+- TOP 6.2.: Austausch der Lichtzeichenanlage Bodensee- / Mainaustr., Anhörung KVR vom 06.07.12 (vertagt aus 07/12)
+- TOP 6.3.: Bebauungsplan mit Grünordnung Nr. 2034: Lochhausener Str. (südlich), Mettnauer Str. (westlich), Rossittener Str. und Spatzenwinkel (nördlich), Pirolstr. (östlich), Anhörung Planungsreferat vom 13.07.12 (vertagt aus 07/12)
+- TOP 6.4.: Erwin-Hischler-Str., Neubau eines Verwaltungs- und Schulungszentrums mit Tiefgarage, Anhörung Planungsreferat vom 12.07.12 (vertagt aus 07/12)
+- TOP 6.5.: Bergsonstr. 106, Errichtung einer Betonzentrale, Anhörung Planungsreferat vom 06.07.12 (vertagt aus 07/12)
+- TOP 6.1.: Baufälle im 22. Stadtbezirk (v. 02.-08.07.12, 09.-15.07.12, 16.-22.07.12, 23.-29.07.12, 30.07.-05.08.12)
+- TOP 6.2.: Baumaßnahmen der Stadtwerke München, Stichtag: 09.07.12, 16.07.12, 23.07.12, 30.07.12, 06.08.12
+- TOP 6.4.: Errichtung von Fußgängerüberwegen in der Limes- / Aubinger Str., Schr. KVR vom 10.07.12 (vertagt aus 07/12)
+- TOP 6.5.: Verkauf des Anwesens in der Schussenrieder Str. 3, Schr. Kommuanlreferat vom 10.07.12 (vertagt aus 07/12)
+- TOP 6.6.: Errichtung einer Querungshilfe zur Bushaltestelle "Kronwinklerstraße" in der Bergsonstraße, Schr. KVR vom 13.07.12 (vertagt aus 07/12)
+- TOP 6.7.: Baumaßnahmen der SWM, hier: - Wasserprojekt Huislerstr., Schr. SWM vom 20.07.12 - Fernwärmeprojekt Limesstr., Instandsetzung, Schr. SWM vom 06.08.12
+- TOP 6.8.: Skateranlage im 22. Stadtbezirk, Schr. Baureferat vom 19.07.12
+- TOP 6.9.: Vollzug des Allgemeinen Eisenbahngesetzes (AEG); Plangenehmigung nach § 18, 18 b AEG i.V.m. § 74 Abs. 6 Verwaltungsverfahrensgesetz (VwVfG); Rückbau der Außenreinigungsanlage DB Regio Werkstatt München Pasing, Bergonstr. 110, Schr. Planungsreferat vom 23.07.12
+- TOP 6.11.: Müllhalde Papinstr., Schr. Baureferat vom 11.07.12
+- TOP 6.12.: Verkehrsrechtliche Anordnung, hier: Absolutes Haltverbot in der Grabenfleckstr., Eingeschränktes Haltverbot in der Grabenfleckstr., Schr. KVR vom 25.06.12
+- TOP 6.15.: Planfeststellungsbeschluss für das Bauvorhaben: Barrierefreier Ausbau der S-Bahn München, Haltepunkt Harthaus Strecke 5541 München-Westkreuz - Herrsching, Schr. Planungsreferat vom 24.07.12
+- TOP 6.16.: Lärmsanierung an Schienenwegen des Bundes, Strecke 5503 München Hbf - Augsburg Hbf, Abschnitt München Lochhausen km 9,542 - 9,777, Anzeige nächtlicher Bauarbeiten an Wochenenden im Stadtbereich von München Lochhausen, Schr. DB vom 05.07.12
+- TOP 6.17.: Kontaktschleife an der Ampel Freihamer Weg / Bodenseestr.; Ampelschaltung an der Kreuzung Bodensee- / Limesstr., Schr. KVR vom 02.08.12
+- TOP 6.18.: Vollzug der Grünanlagensatzung vom 12.08.1991, Baustelleneinrichtung an der Industriestr. 72, Schr. KVR vom 02.08.12
+- TOP 6.19.: Container Hornbergerstr., Schr. AWM vom 20.07.12
+- TOP 6.20.: Beschilderung Fuß- und Radweg Limesstraße, Schr. KVR vom 08.08.12
+- TOP 7: Anhörungen / Stellungnahmen
+- TOP 7.1.: Änderung der Beteiligungsrechte der Bezirksausschüsse im Bereich der SWM bei Veräußerungen von Immobilien, Anhörung Direktorium vom 11.07.12 (vertagt aus 07/12)
+- TOP 7.2.: Kein Verkauf städtischer Grundstücke ohne Zustimmung des zuständigen Bezirksausschusses, die sich für eine Gemeinbedarfsnutzung jeglicher Art eignen können, Anhörung Direktorium vom 19.07.12
+- TOP 7.3.: Kein Platz für (Neo-)Nazis, Anhörung Direktorium vom 30.07.12
+- TOP 7.4.: Kinder entscheiden in ihrem Stadtteil, Anhörung Direktorium vom 01.08.12
+- TOP 8: Unterrichtungen / Bekanntgaben
+- TOP 8.1.: Zweckentfremdung von Wohnraum: - Waidachanger, Schr. Sozialreferat vom 24.07.12 - Rabensteinstr., Schr. Sozialreferat vom 25.07.12 - Rohrsängerplatz, Schr. Sozialreferat vom 11.07.12 - Hoheneckstr., Schr. Sozialreferat vom 08.08.12
+- TOP 8.2.: Wirtschafts-Info 07/2012, Schr. Referat für Arbeit und Wirtschaft vom 30.07.12
+- TOP 8.3.: Unveränderte Fortführung der Gaststätte: - "Soccer Park", Colmdorfstr. 3, Schr. KVR vom 26.07.12
+- TOP 8.4.: Vollzug des Bundes-Immissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Ausnahmezulassung gemäß § 7 Abs. 2 der 32. BImSchV, Erschließungsarbeiten in der Limesstr. 73 - 85, Schr. Referat für Gesundheit und Umwelt vom 06.08.12
+- TOP 9: Antworten der Stadt / Sonstige Antworten
+- TOP 10: Stadtrats- und Ausschussbeschlüsse / Bekanntgaben im Stadtrat
+- TOP 10.1.: Beschluss des Kreisverwaltungsausschusses vom 24.07.12: - "Dialog-Display" in München
+- TOP 10.2.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 04.07.12: - Hinweis / Ergänzung vom 03.07.12: Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) - Entwicklungsziele für Ausgleichsflächen in der Bauleitplanung (UA Planung) - Kostenerhebung im Genehmigungsfreistellungsverfahren nach der Bayerischen Bauordnung; Antrag auf Änderung des Kommunalen Kostenverzeichnisses
+- TOP 10.3.: Beschluss der Vollversammlung vom 25.07.12: - Bezirksausschüsse in "Stadtteilräte" umbenennen - Gesamtfortschreibung des Landesentwicklungsprogramms für Bayern - Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung für den Bereich IV/28: Aubing-Ost-Str. (südlich), Hornberger Str. (westlich), Bahnlinie München-Pasing-Buchloe (nördlich), Berberichweg (östlich), Joseph-Suder-Bogen (östlich) - Billigungsbeschluss und vorbehaltlich endgültiger Beschluss (UA Planung)
+- TOP 10.4.: Beschluss des Ausschusses für Stadtplanung und Bauordnung vom 13.06.12: - Bebauungsplan mit Grünordnung Nr. 1998 b, Bahnlinie München - Herrsching (südlich), Kravogelstr. (westlich), Papinstr. (südlich und östlich), Gewerbegebiet ehemaliges Ausbesserungswerk (nördlich) (UA Planung)
+- TOP 11: Termin, Ankündigungen, Verschiedenes
+- TOP 11.1.: Informationsveranstaltung für den Bezirksausschuss des 22. Stadtbezirkes am Mittwoch, den 24.10.2012, Schr. Planungsreferat vom 24.07.12
+- TOP 11.2.: BA-Termin Oktoberfest 2012: Samstag, 06.10.2012
+- TOP 11.3.: Umbenennung des östlichen Teils der "Kreuzkapellenstraße" im 22. Stadtbezirk, Schr. BA 23 Allach-Untermenzing vom 25.07.12
+- TOP 12: Nächste BA- und Unterausschuss-Sitzungen
+- TOP 12.1.: Nächste BA-Sitzung am Mittwoch, den 19.09.12 in der Gaststätte "Bay. Schnitzel- und Hendlhaus", Limesstr. 63
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 6.1.: Erinnerungsorte München, Anhörung Kulturreferat vom 19.07.12
+- TOP 6.6.: Gleisdreieck Pasing, Paosostr., Bau eines Fuß- und Radweges und einer Skateranlage im Stadtbezirk 22, Anhörung Baureferat vom 01.06.12 (vertagt aus 07/12)
+- TOP 6.14.: Mitteilung über ein Grundstücksgeschäft: Hans-Stützle-Str., FlNr. 3508/29, Schr. Kommunalreferat vom 24.07.12
+- TOP 6.21.: Planfeststellung nach § 18 AEG für das Vorhaben Beseitigung des Bahnübergangs Freihamer Allee, Bahn-km 5,000 der Strecke 5541 München-Westkreuz - Herrsching - Planfeststellungsbeschluss, Schr. Planungsreferat vom 07.08.12
+- TOP 6.13.: Barrierefreiheit im 22. Stadtbezirk, Schr. Kulturreferat vom 24.07.12
