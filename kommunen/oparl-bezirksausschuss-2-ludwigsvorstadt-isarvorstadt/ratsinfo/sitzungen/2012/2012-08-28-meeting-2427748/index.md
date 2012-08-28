@@ -1,0 +1,102 @@
+# BA 02 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 2: Ludwigsvorstadt-Isarvorstadt
+- Beginn: 2012-08-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/257
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2427748
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2427748
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP .2: Tagesordnung
+- TOP .3: Genehmigung der Protokolle
+- TOP .1.: (E) Budget der Bezirksausschüsse Initiative "Tanz und Spaß an der Bewegung" Projekt "Tanz und Spaß an der Bewegung" am 23.09.2012
+- TOP .2.: (E) Budget der Bezirksausschüsse Initiative "Wandinstallation" Wandinstallation ab Ende September 2012
+- TOP .3.: (E) Budget der Bezirksausschüsse Caritasverband der Erzdiözese München und Freising e.V. Weltkindertagsfest am 21.09.2012
+- TOP .4.: NACHTRAG: Eigene Veranstaltung des Bezirksausschusses 2: Kinder- und Jugendeinwohnerversammlung am 21.09.2012
+- TOP .1.: Antrag der Stadtratsfraktion DIE GRÜNEN/RL und Initiative des Vorsitzendentreffens: Kinder entscheiden in ihrem Stadtteil
+- TOP .1.: Spielplatz Fleischerstr. - Schmellerwiese, Einrichtung von Schließzeiten
+- TOP .5.1: Berichte der Beauftragten
+- TOP .3.1: Bauvorhaben
+- TOP .1.: Jahnstr. 52, Einbau einer neuen Loggia in der nördl. Dachfläche und eines Dachflächenfensters sowie Vergrößerung zweier Dachflächenfenster in einer DG-Wohnung eines denkmalgeschützten Stadthauses
+- TOP .2.: Baldestr. 6, Anbau von Balkonen
+- TOP .3.: Auenstr. 32, DG-Ausbau, Erneuerung des Dachstuhls, Anbau einer Aufzugsanlage, Anbau von Balkonen, Nutzungsänderung EG: Wohn- zu Gewerbeeinheit, Einbau von versenkbaren Parkstapelsystemen im Hinterhof, Nachrüsten einer WDVS
+- TOP .4.: Poccistr. 7-9, Umbau und Nutzungsänderung eines Bürogebäudes mit 1 Nutzungseinheit, Aufteilung in 2 Nutzungseinheiten sowie Anbau einer Fluchttreppe
+- TOP .5.: Isartalstr. 44 a, Aufstockung eines Wohn- und Bürogebäudes mit zwei Dachgeschossen (12 WE) - VORBESCHEID
+- TOP .6.: Sonnenstr. 18b, Errichtung eines Wirtsgartens
+- TOP .7.: Zenettistr. 40, Umbau und Nutzungsänderung im Dachgeschoss W13 + W14 und Änderung der Wohnungszugänge im EG-DG1
+- TOP .8.: Karlspl. 25, Neubau ?Hotel Königshof? mit weitgehend gleicher Nutzungsaufteilung ? VORBESCHEID
+- TOP .9.: Arndtstr. 11, Anbau von fünf Balkonen inklusive einer Notleiter
+- TOP .10.: Lindwurmstr. 123, Erneuerung von sechs Garagen mit fünf Mehrfachparkern und Errichtung einer Wohnung
+- TOP .11.: Kapuzinerpl. 5, Paulaner Bräuhaus: Errichtung eines neuen Oberlichtes
+- TOP .12.: Bavariaring 8-9, Neubau einer Wohnanlage mit Tiefgarage ? VORBESCHEID
+- TOP .13.: Geyerstr. 14, Sanierung und Umbau Gesamtanwesen mit Errichtung eines Außenaufzugs, Dachgeschoss-Ausbau (zwei Wohneinheiten) sowie Anbau von Balkonanlagen (straßen- und hofseitig)
+- TOP .3.2: Empfehlungen des Baumschutzbeauftragten
+- TOP .1.: Baaderstr. 9a, Antrag auf Baumfällung
+- TOP .2.: Isartalstr. 44a, Antrag auf Baumfällung
+- TOP .3.: Goethestr. 55, Antrag auf Baumfällung
+- TOP .4.: Mathildenstraße 8, Antrag auf Baumfällung
+- TOP .3.3: Sonstige Anhörungen / Stellungnahmen
+- TOP .1.: Erinnerungsverfahren: Jahnstr. 34, Sanierung Bauschaden
+- TOP .1.: NACHTRAG: Baumpflanzaktion des Kinder- und Jugendmuseums am 13.10.2012 im Rahmen der Initiative ?Plant-for-the-Planet?
+- TOP .5.1: Bericht des Beauftragten
+- TOP .2.1: Gaststättenangelegenheiten
+- TOP .1.: Landwehrstr. 40: Freischankfläche
+- TOP .2.: Kapuzinerstr. 7: Freischankfläche
+- TOP .3.: Bahnhofsplatz 2, Hbf-Zwischengeschoss: Sperrzeitaufhebung
+- TOP .4.: Müllerstr. 17/links: Freischankfläche
+- TOP .5.: Corneliusstr. 6: Genehmigung einer Freischankfläche
+- TOP .6.: Adlzreiterstraße 18: Erweiterung einer bestehenden Freischankfläche
+- TOP .7.: Kapuzinerstraße 2: Verlegung und Verkleinerung einer bestehenden Freischankfläche
+- TOP .2.2: Sondernutzungen (Warenstellagen etc.)
+- TOP .1.: Klenzestr. 69: Aufstellung von Verkaufseinrichtungen
+- TOP .2.: Schwanthalerstr. 10: Aufstellung von Verkaufseinrichtungen
+- TOP .2.3: Sonstige Entscheidungen
+- TOP .1.: Informations- und Beteiligungsveranstaltung des KJR zum Thema ?Isar? am 21.09.2012 auf dem Platz vor dem Forum der Technik
+- TOP .2.: Gärtnerplatzfest und Open Air am 15. und 16.09.2012 auf dem Gärtnerplatz
+- TOP .3.: NACHTRAG: Kunst im öffentlichen Raum ? Kunstaktion ?Fekr?, 20./21.10.2012 am Gärtnerplatz
+- TOP .3.2: Verkehr
+- TOP .1.: Hotelanfahrtszone Mittererstr. für das Anwesen Schwanthalerstr. 42/44; Verkehrsrechtliche Anhörung ?Anfahrt von Hotelgästen erlaubt?
+- TOP .1.: Kein Platz für (Neo-) Nazis; Antrag des Bezirksausschusses 7 Sendling-Westpark (BA-Antrags-Nr: 08-14 / B 03848)
+- TOP .1: Termine
+- TOP .3: Sonstiges / Verschiedenes
+- TOP .&nbsp;: Unterrichtungen
+- TOP .1.: BA-Budget: Bescheide
+- TOP .2.: Verwendungsnachweise
+- TOP .3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP .4.: Künstlerische Nutzung des Areals ?Auf der Insel?, Antwort der Stadtbaurätin Prof. Dr.(I) Merk an Herrn Stadtrat Offman
+- TOP .5.: Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien
+- TOP .6.: Pressespiegel Kulturtage Ludwigsvorstadt-Isarvorstadt 2012
+- TOP .7.: Kurzbericht zur geförderten Maßnahme Offenen Ateliers 2012 Atelierhaus Klenze-/Baumstr.
+- TOP .1.: Baumaßnahmen SWM
+- TOP .2.: Bürgeranliegen: Bebauung Fraunhoferstr. / Ehrhardtstr.
+- TOP .5.: Zwischenbenachrichtigung an einen Bürger bzgl. der Umnutzung des Pissoirs am Holzplatz
+- TOP .6.: Gefahrenbaum Hans-Fischer-Straße, 1 Linde
+- TOP .1.: Versammlungen unter freiem Himmel
+- TOP .2.: Filmaufnahmen auf öffentlichem Grund
+- TOP .3.: Unveränderte Gaststättenfortführungen
+- TOP .4.: Verkehrsrechtliche Anordnungen
+- TOP .5.: Erlaubnisbescheide
+- TOP .6.: Bürgeranliegen: Sperrung der Theresienwiese wegen Auf- und Abbauarbeiten für das Oktoberfest
+- TOP .7.: Bürgeranliegen: Parkplatznot im Viertel ?Dreimühlen?
+- TOP .8.: Bürgeranliegen: Erweiterung der Parkmöglichkeiten im Hauptbahnhofviertel
+- TOP .9.: Bürgeranliegen: Jahnstr., Aufstellen von Pflanzgefäßen auf öffentlichem Straßengrund
+- TOP .10.: Radwegmarkierung Goethestraße zwischen Schwanthaler- und Bayerstraße
+- TOP .11.: Markierung des Fahrradweges Goetheplatz/Goethestraße an der Bushaltestelle Richtung Hauptbahnhof mit einem Fahrradsymbol
+- TOP .12.: Beschluss des Ausschusses für Arbeit und Wirtschaft am 10.07.2012: Wegweisung und Umgebungspläne während der Wiesnaufbau-Sperrung der Theresienwiese (Sitzungsvorlage Nr. 08-14 / V 09627)
+- TOP .13.: Stellungnahme des Baureferats Gartenbau zum BA-Antrag Nr. 08-14/B 3551: Nutzung der Theresienwiese als Grün-, Erholungs- und Freizeitfläche unter Einbeziehung des Bavariaparks
+- TOP .14.: Antwortschreiben des Baureferats zur BA-Anfrage nach verschlossenen Abfallbehältern an der Isar
+- TOP .15.: Antwortschreiben zu einem Bürgeranliegen bzgl. einer Gaststätte in der Zenettistraße
+- TOP .16.: Schreiben des KVR zur Anschaffung von ?Dialog-Displays? zur Geschwindigkeitsanzeige
+- TOP .1: Anträge
+- TOP .2: Entscheidungen
+- TOP .3.: Anhörungen
+- TOP .4: Unterrichtungen (siehe Beiblatt)
+- TOP .5: Sonstiges
+- TOP .2.: Veranstaltungen
+- TOP .4.: Verwaltungsgerichtsurteil zum Antrag auf Einrichtung einer Spielhalle (Passage Tal 32)
