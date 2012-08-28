@@ -1,0 +1,67 @@
+# BA 14 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 14: Berg am Laim
+- Beginn: 2012-08-28T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/319
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2561282
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2561282
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1.: Begrüßung, Beschlussfähigkeit, Entschuldigungen, Tagesordnung
+- TOP 1.1.2.: Protokolle
+- TOP 1.1.3.: Ausläufe
+- TOP 1.1.4.: Bürgerfragen
+- TOP 1.1.5.: Berichte aus den Unterausschüssen
+- TOP 1.1.6.: Berichte der Beauftragten
+- TOP 2: Entscheidungsfälle
+- TOP 3: Anhörungsfälle/Stellungnahmen
+- TOP 3.3.1.: Bereich UA Planung, Verkehr und Umwelt
+- TOP 3.1.: Baumkirchner Straße - 2. Bauabschnitt zwischen Kreillerstraße und Neumarkter Straße
+- TOP 3.2.: Sicher durch den Winter ? auch auf Münchner Gehwegen
+- TOP 3.3.: Starke Verschmutzung der Friedenstr. und Grafinger Str. sowie Teile des Bahnhofsareals
+- TOP 3.4.: Beschleunigung der Buslinien 144 und 145 - Baumaßnahmen an den Haltestellen
+- TOP 3.1.: Erinnerungsorte München
+- TOP 3.2.: Straßenfest des Bürgerkreises Berg a. Laim am 16.09.2012 in der Baumkirchner Straße
+- TOP 3.3.: Maibaumumlegen des Maibaumvereins e.V. am 13.10.2012 in der Baumkirchner Straße
+- TOP 3.3.3.: Bereich Jugend/Schule
+- TOP 3.1.: Kinder entscheiden in ihrem Stadtteil - Antrag Nr. 08-14 / A 02754
+- TOP 3.3.4.: Bereich Soziales
+- TOP 3.1.: Kein Verkauf städtischer Grundstücke, ohne Zustimmung des zuständigen Bezirksausschusses, die sich für eineGemeinbedarfsnutzung jeglicher Art eignen können;
+- TOP 3.2.: Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien - BA-Antrags-Nr. 08/14 - B 04100 des BA 8 - Schwanthalerhöhe
+- TOP 3.3.: Kein Platz für (Neo-) Nazis Ziffer 2
+- TOP 4: Unterrichtungsfälle/Bekanntgaben
+- TOP 4.4.1.: Bereich Unterausschuss Planung, Verkehr und Umwelt
+- TOP 4.1.: Unterrichtung über Bauvorhaben im Stadtbezirk
+- TOP 4.2.: Grafinger Straße 35 - Unveränderte Fortführung "Grafinger Stuben"
+- TOP 4.3.: Erweiterung und Modernisierung Förderzentrum Innsbrucker Ring
+- TOP 4.1.: Stellungnahme Kultfabrik zu Reinigungsarbeiten rund um den Ostbahnhof
+- TOP 4.2.: Warmlaufen der Dieselloks im Bereich der nördlichen Friedenstraße
+- TOP 4.3.: Information über Betriebskonzept während der Schienenschleifarbeiten U1 & U2
+- TOP 4.4.3.: Bereich Jugend, Schule, Sport
+- TOP 4.4.4.: Bereich Unterausschuss Soziales
+- TOP 4.1.: Ressourcenverschwendung durch überflüssige Postsendungen stoppen
+- TOP 4.2.: Soziale Dienste e.V.
+- TOP 4.3.: Projektteam "Sport" der Ludwig-Thoma-Realschule
+- TOP 4.4.: Maibaumverein Berg am Laim e.V.
+- TOP 4.5.: Katholische Integrationskindertagesstätte St. Michael
+- TOP 5: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 5.5.1.: Termine der UA - Sitzungen
+- TOP 5.5.1.1.: Unterausschuss Planung, Verkehr und Umwelt
+- TOP 5.5.1.2.: Unterausschuss Fest und Kultur
+- TOP 5.5.1.3.: Unterausschuss Jugend und Schule
+- TOP 5.5.1.4.: Unterausschuss Soziales
+- TOP 5.5.1.5.: Unterausschuss Budget
+- TOP 5.5.2.: Ankündigungen
+- TOP 5.5.3.: Sonstiges/Verschiedenes
+- TOP 4.4.1.1.: Planungsangelegenheiten
+- TOP 4.4.1.2.: Verkehrsangelegenheiten
+- TOP 4.4.1.3.: Umweltangelegenheiten
+- TOP 4.4.2.: Bereich Fest/Kultur
+- TOP 4.4.5.: Bereich Budget
+- TOP 5.4.6.: Baumschutz
