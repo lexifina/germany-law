@@ -1,0 +1,51 @@
+# 11. Sitzung des Wirtschaftsausschusses
+
+- Körperschaft: Regionalverband Ruhr
+- Beginn: 2012-08-28T10:00:00+02:00
+- Ende: 2012-08-28T11:40:00+02:00
+- Ort: Externe Sitzung, siehe Einladung,
+- Status: durchgeführt
+- Gremium: 
+- Ratsinformationssystem: https://ruhrparlament.de/oparl/meeting/ni_2010-WA-11
+- OParl: https://ruhrparlament.de/oparl/meeting/ni_2010-WA-11
+- Quelle: https://rvr-online.gremien.info/oparl (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-WA-11
+- Wortprotokoll: oeffentliches Protokoll https://ruhrparlament.de/api.php?id=69&inline=1&document_type_id=8&meeting_id=ni_2010-WA-11
+
+## Tagesordnung
+
+- TOP 1: Feststellung der form- und fristgerechten Einladung sowie Genehmigung der Tagesordnung
+- TOP 2: Genehmigung der Niederschrift der Sitzung vom 29.05.2012
+- TOP 3: Angelegenheiten der Wirtschaftsförderung metropoleruhr GmbH - Jahresabschluss zum 31.12.2011
+- TOP 4: Angelegenheiten der Ruhr Tourismus GmbH
+- TOP 4.1: Angelegenheiten der Ruhr Tourismus GmbH - Jahresabschluss zum 31.12.2011
+- TOP 4.2: Angelegenheiten der Ruhr Tourismus GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2012
+- TOP 4.3: Angelegenheiten der Ruhr Tourismus GmbH - Änderung des Gesellschaftsvertrages
+- TOP 5: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH
+- TOP 5.1: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss zum 31.12.2011
+- TOP 5.2: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Konzernabschluss zum 31.12.2011
+- TOP 5.3: Angelegenheiten der Abfallentsorgungs-Gesellschaft Ruhrgebiet mbH - Jahresabschluss der RZR II Herten GmbH zum 31.12.2011
+- TOP 6: Angelegenheiten der Kultur Ruhr GmbH
+- TOP 6.1: Angelegenheiten der Kultur Ruhr GmbH - Jahresabschluss zum 31.12.2011
+- TOP 6.2: Angelegenheiten der Kultur Ruhr GmbH - Übernahme der Anteile des Vereins pro Ruhrgebiet e. V. (VpR)
+- TOP 6.3: Angelegenheiten der Kultur Ruhr GmbH - Gesellschaftsvertrag, Verlängerung der Nebenabrede (2012-2014)
+- TOP 6.4: Angelegenheiten der Kultur Ruhr GmbH - Bericht über die Ergebnisentwicklung zum 30.06.2012
+- TOP 7: Angelgenheiten der Freizeitgesellschaften
+- TOP 7.1: Angelegenheiten der Freizeitgesellschaften - Jahresabschlüsse der Freizeitgesellschaften des RVR zum 31.12.2011
+- TOP 7.2: Angelegenheiten der Freizeitgesellschaften - Bericht über die Ergebnisentwicklung zum 30.06.2012
+- TOP 7.3: Angelegenheiten der Freizeitgesellschaften - Haushaltsansätze 2013
+- TOP 7.4: Angelegenheiten der Freizeitgesellschaften - Entwicklung der Freizeitzentren Kemnade und Xanten
+- TOP 8: Eckpunkte des Operationellen Programms EFRE 2014 - 2020 für Wachstum und Beschäftigung
+- TOP 9: Angelegenheiten der Umweltzentrum Westfalen GmbH - Jahresabschluss zum 31.12.2011
+- TOP 10: Angelegenheiten der Ruhrwind Herten GmbH - Änderung des Gesellschaftsvertrages
+- TOP 11: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH
+- TOP 11.1: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH - Jahresabschluss zum 31.12.2011
+- TOP 11.2: Angelegenheiten der Betreibergesellschaft Silbersee II Haltern am See mbH - Änderung des Gesellschaftsvertrages
+- TOP 12: Netzwerk Industrienatur - Natur und Mensch auf offenen Industriebrachen im Ruhrgebiet
+- TOP 13: Anträge
+- TOP 14: Anfragen und Mitteilungen
+- TOP 1: nicht öffentlicher Tagesordnungspunkt
+- TOP 2: nicht öffentlicher Tagesordnungspunkt
+- TOP 3: nicht öffentlicher Tagesordnungspunkt
+- TOP 4: nicht öffentlicher Tagesordnungspunkt
+- TOP 5: nicht öffentlicher Tagesordnungspunkt
