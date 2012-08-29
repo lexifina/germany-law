@@ -1,0 +1,60 @@
+# BA 04 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 4: Schwabing-West
+- Beginn: 2012-08-29T19:00:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/263
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2425015
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2425015
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Begrüßung und Beschlussfähigkeit
+- TOP .2.: Beschluss über zu behandelnde Anträge und die endgültige Tagesordnung
+- TOP .3.: Genehmigung des Protokolls der letzten Sitzung
+- TOP .4.: Fragen an Polizei und Bezirksinspektion
+- TOP .5.: Bürgeranliegen
+- TOP .1.: Budget der Bezirksausschüsse hpkj e.V. Projekt "Baby Bedenkzeit" ab 25.10.2012
+- TOP .2.1.: Wirtschaft
+- TOP .1.: Ainmillerstr. 28: ?es ce? Damenbekleidung: Aufstellung eines Kleiderständers
+- TOP .2.: Verkaufseinrichtung für die Süddeutsche Zeitung: Standortwechsel
+- TOP .3.: Schleißheimer Str. 122, ?Sarahs Moden?: Aufstellung eines Kleiderständers
+- TOP .4.: Nordendstr. 39, ?Tea for you?: Warenauslage
+- TOP .2.2.: Kultur
+- TOP .1.: Erinnerungsorte München Anhörung zu einer Beschlussvorlage für den Kulturausschuss
+- TOP .2.: (E) Budget der Bezirksausschüsse Urbanes Wohnen e.V. Erstellung eines Films
+- TOP .2.3.: Veranstaltungen
+- TOP .1.: München Marathon am 14.10.2012
+- TOP .2.: Luitpoldpark: Feuerwerk anlässlich einer Hochzeit im Bamberger Haus am 21.09.2012
+- TOP .2.1.: Planen
+- TOP .1.: Belgradstr. 128 a: Neubau eines Mehrfamilienhauses mit Tiefgarage ? Vorbescheid
+- TOP .2.: Wilhelm-Meister-Str. 5: Neubau eines Doppelhauses mit einer Einliegerwohnung
+- TOP .3.: Emanuelstr. 4: Neubau eines Wohnhauses mit Tiefgarage - Tektur
+- TOP .4.: Zentnerstr. 32: Einbau 2. Fluchtweg mit RWA-Öffnung, Erweiterung Wohnung 2. DG / Nordhälfte mit Dachterrasse, Einbau von Gauben in 2. Dachebene
+- TOP .5.: Herzogstr. 93: DG-Ausbau
+- TOP .6.: Viktor-Scheffel-Str. 10: DG-Erneuerung und Balkonerweiterungen DG
+- TOP .7.: Clemensstr. 45: Abbruch des Dachstuhls und Neuerrichtung einer DG-Wohnung
+- TOP .8.: Petra-Kelly-Straße (wagnis e.G.): Neubau einer genossenschaftlichen Wohnanlage mit Tiefgarage - Tektur
+- TOP .9.: Adelheidstr. 13 a: Neubau Studentenwohnungen (2. Bauabschnitt) ? Vorbescheid
+- TOP .10.: Degenfeldstr. 7: Baulückenschließung durch Neubau eines Wohnhauses (Degenfeldstr. 7) sowie Anbau von Balkonen (Unertlstr. 34) - Vorbescheid
+- TOP .11.: Lerchenauer Str. 22: Aufstockung des bestehenden Anwesens und Nutzungsänderung Lager zu Atelier ? Tektur
+- TOP .12.: Kraepelinstr. 51 a: Neubau eines Mehrfamilienhauses mit Tiefgarage - Tektur
+- TOP .13.: Petra-Kelly-Straße: Neubau eines Wohngebäudes (56 WE, Gemeinschaftsraum) mit Tiefgarage (Schwabing Hoch4) sowie dafür beantragte Baumfällungen (vertagt aus 07/12)
+- TOP .2.2.: Wohnen
+- TOP .2.1.: Umwelt
+- TOP .1.: Wilhelm-Meister-Str. 5: Fällung einer Esche wegen Neubauvorhaben (s. TOP D 2.2)
+- TOP .2.: Agnesstr. 1 - 5: Fällung einer Kastanie
+- TOP .3.: Schwere-Reiter-Str. 37: Fällung eines Silberahorn
+- TOP .4.: Deidesheimer Str. 20, Fällung einer Schwatrzkiefer
+- TOP .5.: Kölner Platz 1, Fällung von 3 Kastanien und Baumveränderungen an einer Birke
+- TOP .2.2.: Verkehr
+- TOP .1.: Schleißheimer Straße zwischen Hohenzollern- und Herzogstraße: Markierung eines Radfahrstreifens auf der Fahrbahn (vgl. BA-Antrag v. 07.03.2012)
+- TOP .2.: Änderung der Vorfahrtsregelungen in der Clemensstraße
+- TOP .1.: Kein Verkauf städtischer Grundstücke, die sich für eine Gemeinbedarfsnutzung eignen können, ohne Zustimmung des zuständigen Bezirksausschusses Anhörung zu einem Antrag des BA 16 Ramersdorf-Perlach auf Änderung der BA-Satzung
+- TOP .2.: Kein Platz für (Neo-)Nazis: Anhörung zu einem Antrag des BA 7 Sendling-Westpark auf Änderung der BA-Satzung
+- TOP .1.: Höhere Sondernutzungsgebühren für Baustelleneinrichtungen von über einem halben Jahr Dauer
+- TOP .1.: Anträge
+- TOP .2.: Entscheidungen und Anhörungen
