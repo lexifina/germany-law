@@ -1,0 +1,7 @@
+# TOP 6.: Auftragsvergaben Umbau und Erweiterung der gemeindlichen Kita Ströhen
+
+- Sitzung: Ausschuss für Schulen, Jugend, Sport und Kultur (26. Sitzung) (2012-08-29)
+- Körperschaft: Gemeinde Steinhagen
+- Öffentlich: ja
+- OParl: https://ratsinfo.steinhagen.de/webservice/oparl/v1.1/body/1/agendaitem/5164
+- Ergebnis: Abstimmungsergebnis: Einstimmig ja 
