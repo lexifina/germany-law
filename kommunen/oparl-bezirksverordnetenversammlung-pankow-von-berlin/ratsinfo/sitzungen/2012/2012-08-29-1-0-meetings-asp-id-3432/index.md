@@ -1,0 +1,90 @@
+# 8. ordentliche Tagung der Bezirksverordnetenversammlung Pankow von Berlin
+
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Beginn: 2012-08-29T17:30:00+02:00
+- Ende: 2012-08-29T21:30:00+02:00
+- Ort: BVV-Saal , Bezirksamt Pankow von Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-pankow/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3432
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/meetings.asp?id=3432
+- Quelle: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/download.asp?dtyp=105&id=49639
+
+## Tagesordnung
+
+- TOP 1: Komplex 1 - (offen)
+- TOP 1.1: Abstimmung über die Tagesordnung - erledigt
+- TOP 1.2: Einwohnerfragestunde - erledigt
+- TOP 1.3: Geschäftliche Mitteilungen - erledigt
+- TOP 1.4: Dringlichkeitsanträge - erledigt
+- TOP 1.5: Mündliche Anfrage - erledigt
+- TOP 1.6: Bericht des Bezirksamtes - erledigt
+- TOP 1.7: Konsensliste - erledigt
+- TOP 1.8: Berufung beratender Mitglieder des Kinder- und Jugendhilfeausschusses der Bezirksverordnetenversammlung für die VII. Wahlperiode - gewählt
+- TOP 1.9: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.10: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.11: Wahl von Bürgerdeputierten - gewählt
+- TOP 1.12: Beschluss über den Bebauungsplan 3-27 für die Grundstücke Rykestraße 33 und Rykestraße 34 im Bezirk Pankow, Ortsteil Prenzlauer Berg - ohne Änderungen in der BVV beschlossen
+- TOP 1.13: Weitere Verlängerung der Veränderungssperre 3-5/8 im Bezirk Pankow, Ortsteil Heinersdorf für das Grundstück Prenzlauer Promenade 45, 46 - ohne Änderungen in der BVV beschlossen
+- TOP 1.14: Nachweis der im Haushaltsjahr 2011 in Anspruch genommenen über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen - überwiesen
+- TOP 1.15: Angebote der "Stillen Straße 10" sichern - ohne Änderungen in der BVV beschlossen
+- TOP 1.16: Suche nach Plätzen in Kindertageseinrichtungen im Bezirk erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 1.17: Weniger Verkehrslärm in der Karower Bahnhofstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.18: Keine generellen Freistellungen von Belegungsbindungen - ohne Änderungen in der BVV beschlossen
+- TOP 1.19: Umsetzung der "Barrierefreie Informationstechnik-Verordnung (BITV 2.0)" - ohne Änderungen in der BVV beschlossen
+- TOP 1.20: Fläche an der Südseite des Pankower Angers - ohne Änderungen in der BVV beschlossen
+- TOP 1.21: Verbesserung des Services bei bürgernahen Diensten - Einsatz von Quick-Response-Codes prüfen - in der BVV abgelehnt
+- TOP 1.22: Lücken im Fahrrad-Routennetz schließen - überwiesen
+- TOP 1.23: Mauerpark fertigstellen - Kinderbauernhof schützen! - ohne Änderungen in der BVV beschlossen
+- TOP 1.24: Außenstelle der IGA 2017 im Pankower Ortsteil Buch - überwiesen
+- TOP 1.25: Teilnahme der BVV-Mitglieder am Portal Abgeordnetenwatch - überwiesen
+- TOP 1.26: Ehrengrabstätte für Peter Fechter - ohne Änderungen in der BVV beschlossen
+- TOP 1.27: Transparenz bei Maßnahmen zur Korruptionsbekämpfung - überwiesen
+- TOP 1.28: Ost-West-Verbindung durch den Mauerpark sichern! - überwiesen
+- TOP 1.29: Kiezkultur erhalten – Spätverkaufsstellen dauerhaft sichern - überwiesen
+- TOP 1.30: Infoportal Stadtentwicklung - überwiesen
+- TOP 1.31: Beflaggung zum Fest an der Panke - ohne Änderungen in der BVV beschlossen
+- TOP 1.32: Zusammenarbeit zwischen Bezirk und JobCenter transparent gestalten - überwiesen
+- TOP 1.33: Nachhaltige Sicherung von parkverträglichem Kleingewerbe im Mauerpark - überwiesen
+- TOP 1.34: Erweiterte Straßenbeschilderung im Pankower Ortsteil Buch - überwiesen
+- TOP 1.35: Freigabe der Programmschnittstelle API (application programming interface) des ALLRIS-Systems - überwiesen
+- TOP 1.36: Zusätzliche Tischtennisplatten für den Platz Stargarder Str. / Dunckerstraße - mit Änderungen in der BVV beschlossen
+- TOP 1.37: Erhalt des Denkmals „Gleimtunnel“ - überwiesen
+- TOP 1.38: Erweitertes Führungszeugnis bei Kontakt mit Minderjährigen - überwiesen
+- TOP 1.39: Nachvollziehbarkeit der Bezirksamtsbeschlüsse - überwiesen
+- TOP 1.40: Kreuzung Bizetstraße/Mahlerstraße: Fußgängerüberweg vor der Bibliothek einrichten - zurückgezogen
+- TOP 1.41: Erhalt der „Kirche von Unten“ in der Kremmener Straße - ohne Änderungen in der BVV beschlossen
+- TOP 1.42: Elektrofahrzeuge im Bezirksamt - überwiesen
+- TOP 1.43: Änderung der BVV-Tagesordnung - überwiesen
+- TOP 1.44: Kreuzung Berliner Allee/Indira-Gandhi-Straße: südwestliche Querung der Berliner Allee verbessern! - überwiesen
+- TOP 1.45: Parkraumbewirtschaftung nördliche Torstraße - ohne Änderungen in der BVV beschlossen
+- TOP 1.46: Ausgesuchte Daten der „Polizeilichen Kriminalstatistik“ dem Bezirksamt zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 1.47: Verankerung der Zusammenarbeit der BVV mit der Seniorenvertretung des Bezirks in der Geschäftsordnung - überwiesen
+- TOP 1.48: "Kulturprodukte" der Produktionsrealität anpassen - ohne Änderungen in der BVV beschlossen
+- TOP 1.49: Fußgänger am Knoten Berliner Allee-Rennbahnstraße-Bernkasteler Straße - überwiesen
+- TOP 1.50: Die Anton-Saefkow-Straße für den Radverkehr in beide Richtungen öffnen - ohne Änderungen in der BVV beschlossen
+- TOP 2: Komplex 2 - (offen)
+- TOP 2.1: Vertagte Drucksachen aus der 7. BVV - (offen)
+- TOP 2.1.1: Frühzeitige Unterrichtung über Baumaßnahmen der Senatsverwaltung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.1.2: Entwurf des Doppelhaushaltsplan 2012/2013 für den Bezirk Pankow (einschließlich Vorbericht und Stellenplan) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.2: Fortschreibung der Behindertenkonzeption - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3: Mauerpark fertig stellen - jetzt. - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.3.1: Nach über 20 Jahren - endlich den Mauerpark fertigstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.4: Milieuschutzverordnung für das bisherige Sanierungsgebiet Wollankstraße aufstellen! - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.5: Berichterstattung der gemeinsamen Einrichtung - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.6: Antrag zur Einrichtung von Besuchsdiensten - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.7: Sozialverträgliche Modernisierung - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.8: Teilhabekonzept Menschen mit Beeinträchtigungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.9: Schwimmhalle Thomas-Mann-Straße sanieren! - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.10: Erhalt der Grünfläche am Tempelgraben/ Am Anger Berlin-Wilhelmsruh/Rosenthal - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.11: Neue Standorte für den Bau von Mietwohnungen - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.12: Erhalt aller Parzellen der KGA Famos - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.13: Lage des Fußgängerüberweges an der Einmündung Hubertusdamm in die Bahnhofstraße in Berlin - Karow - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.14: Keine Honoraranpassung zu Lasten der Berliner Bezirke - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.15: Bessere BürgerInnenbeteiligung bei der Erarbeitung von Entwicklungskonzepten für den Bezirk - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.16: Markt am Kollwitzplatz - mit Zwischenbericht zur Kenntnis genommen
+- TOP 2.17: Aufteilung der Mittel für die ehrenamtliche Arbeit von Bürgerinnen und Bürgern zur Verbesserung der öffentlichen Infrastruktur - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.18: Bebauungsplan 3-35 für die Grundstücke Breite Straße 35, 35 A, Schulstraße 5-7 sowie eine Teilfläche des Bleichröder Parks zwischen Breite Straße und Schulstraße im Bezirk Pankow, Ortsteil Pankow - frühzeitige Beteiligung der Öffentlichkeit - frühzeitige Beteiligung der Behörden und sonstigen Träger öffentlicher Belange - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.19: Bebauungsplanentwurf 3-27 für die Grundstücke Rykestraße 33 und Rykestraße 34 im Bezirk Pankow, Ortsteil Prenzlauer Berg - mit Abschlussbericht zur Kenntnis genommen
+- TOP 2.20: Neubesetzung des Stiftungsrates der Stiftung Pfefferwerk - mit Abschlussbericht zur Kenntnis genommen
