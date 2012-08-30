@@ -1,0 +1,7 @@
+# TOP 4: Prioritätensetzung für die Bebauungspläne des Bezirk, 2. Lesung
+
+- Sitzung: Öffentliche außerordentliche Sitzung des Ausschusses für Stadtentwicklung und Grünanlagen (2012-08-30)
+- Körperschaft: Bezirksverordnetenversammlung Pankow von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-pankow.de/oi/oparl/1.0/agendaItems.asp?id=28974
+- Ergebnis: erledigt
