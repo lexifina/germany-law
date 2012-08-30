@@ -1,0 +1,7 @@
+# TOP 5: Auftragsvergaben
+
+- Sitzung: 23. Sitzung des Ortsgemeinderates Rohrbach (2012-08-30)
+- Körperschaft: Ortsgemeinde Rohrbach
+- Öffentlich: ja
+- OParl: https://herxheim.gremien.info/oparl/agendaItem/ni_2009-400-55%7Czt_1%7C1
+- Beschluss (Datei): Beschluss - Top 5 https://herxheim.gremien.info/api.php?id=69&inline=1&document_type_id=5&agenda_item_id=ni_2009-400-55%7Czt_1%7C1
