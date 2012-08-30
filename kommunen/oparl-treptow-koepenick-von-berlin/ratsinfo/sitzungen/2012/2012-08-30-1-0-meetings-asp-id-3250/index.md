@@ -1,0 +1,58 @@
+# 11. (öffentliche) Sitzung der Bezirksverordnetenversammlung
+
+- Körperschaft: Treptow-Köpenick von Berlin
+- Beginn: 2012-08-30T16:30:00+02:00
+- Ende: 2012-08-30T21:15:00+02:00
+- Ort: Neue Krugallee 4, 12435 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-treptow-koepenick/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=3250
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/meetings.asp?id=3250
+- Quelle: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: sidono https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/download.asp?dtyp=116&id=95873
+
+## Tagesordnung
+
+- TOP 1: Organisatorische Mitteilungen - erledigt
+- TOP 2: Dringlichkeiten und Tagesordnung - erledigt
+- TOP 3: Konsensliste - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Bürgeranfragen - beantwortet
+- TOP 5: Informationen des BzBm - erledigt
+- TOP 6: Mündliche Anfragen - beantwortet
+- TOP 7: Mitteilungen des Vorstehers Nr. VII-10 und Nr. VII-11 - erledigt
+- TOP 8: Personelles/Wahlen - (offen)
+- TOP 8.1: Neuwahl von Mitgliedern des Beirates in Sozialhilfeangelegenheiten - gewählt
+- TOP 8.2: Abberufung eines beratenden Mitgliedes des Jugendhilfeausschusses - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 8.3: Berufung eines beratenden Mitgliedes des Jugendhilfeausschusses - gewählt
+- TOP 8.4: Vorzeitige Beendigung des Amtes einer Bürgerdeputierten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 9: Vertagte Tagesordnungspunkte - (offen)
+- TOP 9.1: Abgeordnete Schilder entfernen - vertagt
+- TOP 9.2: WBS-Wohnungen in Treptow-Köpenick - vertagt
+- TOP 10: Nachfragen zu Großen Anfragen - gegenstandslos
+- TOP 11: Vorlagen zur Beschlussfassung - (offen)
+- TOP 11.1: Gründung einer eigenständigen Grundschule am Schulstandort Hänselstraße 14 (12437 Berlin) - ohne Änderungen in der BVV beschlossen
+- TOP 11.2: Maßnahmeplan zur finanziellen Konsolidierung und Neustrukturierung der Projekte von Jugendarbeit und Jugendsozialarbeit - ohne Änderungen in der BVV beschlossen
+- TOP 12: Beschlussempfehlungen der Ausschüsse - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 12.1: Verkehrliche Erschließung Wohngebiet XV-37-A „Falkenberg“ in Bohnsdorf - mit Änderungen in der BVV beschlossen
+- TOP 12.2: Zentraler Standort für Hochschule für Schauspielkunst "Ernst Busch" - ohne Änderungen in der BVV beschlossen
+- TOP 13: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 13.1: Bebauungsplan XV-37b-1 VE ("Parkdeck Hedwigshöhe") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.2: Bebauungsplan XV-37ea-1 VE ("Erweiterung Krankenhaus Hedwigshöhe") hier: Einleitung des Planaufstellungsverfahrens - überwiesen
+- TOP 13.3: Vorschläge zur Abberufung und zur Bestellung von Stellvertretern für die Trägerversammlung des Jobcenters Berlin Treptow-Köpenick - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 13.4: Benennung von 3 Privatstraßen im Ortsteil Köpenick auf den Grundstücken Friedrichshagener Straße 9 und 9A, 12555 Berlin in An der Filmfabrik Am Werksgarten Am Filmlager - zur Kenntnis genommen (Beratungsfolge beendet)
+- TOP 14: Anträge - (offen)
+- TOP 14.1: Wartehäuschen am Glienicker Weg - ohne Änderungen in der BVV beschlossen
+- TOP 14.2: Beleuchtung Fußweg zwischen Forum Köpenick und Hämmerlingstraße - überwiesen
+- TOP 14.3: Regionales Entwicklungskonzept BER - Erweiterung - überwiesen
+- TOP 14.4: Gemeinsamer Geh- und Radweg Stellingdamm - überwiesen
+- TOP 14.5: Durchsuchbarkeit von Bezirksseiten - überwiesen
+- TOP 14.6: Unterstützung von Kooperationen zwischen Museen und Schulen - überwiesen
+- TOP 14.7: Schienenersatzverkehr Vorfahrt gewähren - überwiesen
+- TOP 14.8: Fahlenbergbrücke - ohne Änderungen in der BVV beschlossen
+- TOP 14.9: Bebauungsplan Treptower/Twintower - mit Änderungen in der BVV beschlossen
+- TOP 14.10: Freischalten von RSS im AllRIS - im Ältestenrat zurückgezogen
+- TOP 14.11: Informationen, Anträge und Publikationen in leichter Sprache - ohne Änderungen in der BVV beschlossen
+- TOP 14.12: Querungshilfe Kiefholzstraße - ohne Änderungen in der BVV beschlossen
+- TOP 14.13: Erhalt eines Lückekinderangebotes im Sozialraum Oberschöneweide - ohne Änderungen in der BVV beschlossen
+- TOP 15: Große Anfragen - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 15.1: Reduzierung der Verwaltungsstandorte - beantwortet
