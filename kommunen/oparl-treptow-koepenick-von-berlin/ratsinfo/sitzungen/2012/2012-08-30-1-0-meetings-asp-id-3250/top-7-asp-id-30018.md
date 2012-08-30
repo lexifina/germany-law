@@ -1,0 +1,7 @@
+# TOP 7: Mitteilungen des Vorstehers Nr. VII-10 und Nr. VII-11
+
+- Sitzung: 11. (öffentliche) Sitzung der Bezirksverordnetenversammlung (2012-08-30)
+- Körperschaft: Treptow-Köpenick von Berlin
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-treptow-koepenick.de/oi/oparl/1.0/agendaItems.asp?id=30018
+- Ergebnis: erledigt
