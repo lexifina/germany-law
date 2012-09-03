@@ -1,0 +1,7 @@
+# TOP 16: Pflanzung von Robinien an der Korkenziehertrasse
+
+- Sitzung: Bezirksvertretung Wald (2012-09-03)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/7704
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/15618
