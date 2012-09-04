@@ -1,0 +1,6 @@
+# TOP 1: Vergabe der Dienstleistungskonzession zur Ausrichtung des Zöppkesmarktes für die Jahre 2013 bis 2017
+
+- Sitzung: Haupt- und Personalausschuss (2012-09-04)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/767
