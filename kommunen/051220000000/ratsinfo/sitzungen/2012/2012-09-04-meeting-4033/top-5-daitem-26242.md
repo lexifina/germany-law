@@ -1,0 +1,7 @@
+# TOP 5: Fortschreibung Nahverkehrsplan - ÖPNV-Leistungsangebot
+
+- Sitzung: Bezirksvertretung Gräfrath (2012-09-04)
+- Körperschaft: Klingenstadt Solingen
+- Öffentlich: ja
+- OParl: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/agendaitem/26242
+- Beratung: https://sdnetrim.kdvz-frechen.de/rim4957/webservice/oparl/v1.1/body/1/consultation/19722
