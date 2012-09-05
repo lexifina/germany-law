@@ -1,0 +1,7 @@
+# TOP 5.: Sanierung/Erneuerung der Heizzentrale im Kindergarten Houverath
+
+- Sitzung: Bau- und Feuerwehrausschuss (19. Sitzung) (2012-09-05)
+- Körperschaft: Stadt Bad Münstereifel
+- Öffentlich: ja
+- OParl: https://ratsinfo.bad-muenstereifel.de/webservice/oparl/v1.1/body/1/agendaitem/21792
+- Ergebnis: Beschluss: Einstimmig
