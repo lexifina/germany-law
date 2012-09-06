@@ -1,0 +1,68 @@
+# Bezirksvertretung 8
+
+- Körperschaft: Stadt Duesseldorf
+- Beginn: 2012-09-06T17:00:00+02:00
+- Ende: 2012-09-06T19:05:00+02:00
+- Ort: Gertrudisplatz 8, 40229 Düsseldorf
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/organizations/gr/39
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5527
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/meetings/5527
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00181445.pdf
+- Ergebnisprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00181445.pdf
+- Wortprotokoll: Einladung http://ris-oparl.itk-rheinland.de/Oparl/bodies/0015/downloadfiles/a/00181445.pdf
+
+## Tagesordnung
+
+- TOP 1: Anerkennung Tagesordnung - einstimmig beschlossen
+- TOP 2: Genehmigung Niederschrift - einstimmig beschlossen
+- TOP 3: Neubau einer Wellness-Anlage mit Sauna-, Spa-, Gastronomie- und Fitnessangebot - mehrheitlich beschlossen
+- TOP 4: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 6: Auf'm Großenfeld - Einrichtung einer Einbahnstraße - einstimmig beschlossen
+- TOP 7: Unterhaltung von städtischen Grundstücken - einstimmig beschlossen
+- TOP 8: Bänke in den Stadtteilzentren des Stadtbezirks 8 - einstimmig beschlossen
+- TOP 9: Monitoring Elbsee - zur Kenntnis genommen
+- TOP 10: Wartehalle In den Maisbanden - beantwortet
+- TOP 11: U3 - Plätze im Stadtbezirk 8 - beantwortet
+- TOP 12: Grundstück Gödinghover Weg 11 - beantwortet
+- TOP 13: Kinderspielplatz Bunzlauer Weg / Sandträgerweg - beantwortet
+- TOP 14: Wellness - Center Elbsee - beantwortet
+- TOP 15: Wohnungsbau im Stadtbezirk 8 - beantwortet
+- TOP 16: Bürgerbüros Eller und Unterbach - beantwortet
+- TOP 17: Jugendfreizeitstätten im Stadtbezirk 8 - beantwortet
+- TOP 18: Bunker Gatherweg - beantwortet
+- TOP 19: Bezirkssportanlagen Eller und Lierenfeld - beantwortet
+- TOP 20: Bunker Gatherweg - beantwortet
+- TOP 21: Schloss Eller - beantwortet
+- TOP 22: Wegeführung Monckartzhofweg - beantwortet
+- TOP 23: Gesamtnutzungskonzept Unterbacher See - beantwortet
+- TOP 24: Freilaufflächen für Hunde im Stadtbezirk 8 - beantwortet
+- TOP 25: Zufahrt und Parkmöglichkeiten Unterbacher See Südstrand - beantwortet
+- TOP 26: Haltverbotregelung Annweiler Straße / Klein-Eller - einstimmig beschlossen
+- TOP 27: Lärmschutz A46 - einstimmig beschlossen
+- TOP 28: Nachbarschaftspark Eller / Lierenfeld - Ausgang Am Hackenbruch - einstimmig beschlossen
+- TOP 29: Parkplatzsituation Gatherweg, Am Stufstock und Unterbacher Straße - einstimmig beschlossen
+- TOP 30: Jugendtreff Youth4U, Gerresheimer Landstraße 89 - einstimmig beschlossen
+- TOP 31: Durchgang Vennhauser Allee zum Veenpark - mehrheitlich beschlossen
+- TOP 32: Parkzeitenregelung Vennhauser Allee - mehrheitlich abgelehnt
+- TOP 33: Grundstück Königsberger Straße 91 - einstimmig beschlossen
+- TOP 34: Verteilung der Mittel aus BuT - hier: Schulsozialarbeit (SSA) - zur Kenntnis genommen
+- TOP 35: Monitoring Elbesse - zur Kenntnis genommen
+- TOP 36: Einzelhandel im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 37: Tütenspender im Stadtbezirk 8 - zur Kenntnis genommen
+- TOP 38: Bürgersteigabsenkung Ohlauer Straße / Reichenbacher Weg - zur Kenntnis genommen
+- TOP 39: Verkehrsführung Peter-Richarz-Straße - zur Kenntnis genommen
+- TOP 40: Verkehrsregelung Markusquartier / Coburger Weg - zur Kenntnis genommen
+- TOP 41: Baumbestand Menzelsee - zur Kenntnis genommen
+- TOP 42: Fahrbahnsanierungen Am Straußenkreuz und Am Kleinforst - zur Kenntnis genommen
+- TOP 43: Fahrbahnsanierung Gothaer Weg - zur Kenntnis genommen
+- TOP 44: Verkehrsführung Kreuzungsbereich Ronsdorfer Straße / Höherweg - zur Kenntnis genommen
+- TOP 45: Gumbertstraße - Neugestaltung der Zufahrt zum Parkplatz Eller-Mitte - zur Kenntnis genommen
+- TOP 46: Bürgersteigabsenkung Dillenburger Weg / Sturmstraße - zur Kenntnis genommen
+- TOP 47: Tütenspender an der Kleingartenanlage Eller / Lierenfeld - zur Kenntnis genommen
+- TOP 48: Erweiterungsfläche Parkplatz Festenbergstraße - zur Kenntnis genommen
+- TOP 49: Postagentur Vennhausen - zur Kenntnis genommen
+- TOP 50: Beschilderung der Kleingartenanlage Eller / Lierenfeld - zur Kenntnis genommen
+- TOP 51: Sauberkeitssituation Gertrudisplatz - zur Kenntnis genommen
