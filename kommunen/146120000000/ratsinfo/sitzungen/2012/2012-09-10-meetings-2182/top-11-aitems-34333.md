@@ -1,0 +1,8 @@
+# TOP 11: Fortschreibung des Integrierten Stadtentwicklungskonzeptes 2025+
+
+- Sitzung: 38. Sitzung des Ortschaftsrates Gompitz (2012-09-10)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/34333
+- Ergebnis: ausgereicht
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/9949
