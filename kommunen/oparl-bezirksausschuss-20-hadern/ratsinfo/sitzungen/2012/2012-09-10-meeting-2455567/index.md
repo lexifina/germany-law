@@ -1,0 +1,81 @@
+# BA 20 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 20: Hadern
+- Beginn: 2012-09-10T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/355
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2455567
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2455567
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Die Bürgerinnen und Bürger haben das Wort
+- TOP 1.1.: Baumfällungen am Bauvorhaben Hans-Grässel-Weg 11
+- TOP 2: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 3: Ausschussberichte
+- TOP 3.1.: UA Wohnen, Bau und Umwelt
+- TOP 3.2.: UA Kinder / Jugend / Schule / Sport
+- TOP 4: Anträge, Anfragen und Schreiben an die Stadtverwaltung
+- TOP 5: Entscheidungsfälle
+- TOP 5.1.: Errichtung von Lärmschutzwällen an der A 96 (Referat für Gesundheit und Umwelt, 20.08.12)
+- TOP 5.2.: Budget der Bezirksausschüsse, Schulpiraten e.V., Einbau eines Spiel- und Klettergerüstes (Direktorium, 27.08.12)
+- TOP 6: Anhörungsfälle
+- TOP 6.1.: Guardinistraße 22, Aufstockung einer Wohnanlage (Guardinistraße 22 - 54 / Stiftsbogen 12 - 18) - Vorbescheid (Referat für Stadtplanung und Bauordnung, 17.07.12) (vertagt aus 08/12)
+- TOP 6.2.: Kinder entscheiden in ihrem Stadtteil, Antrag der Stadtratsfraktion der Grünen und Initiative von Frau Bürgermeisterin Strobl (Direktorium, 07.08.12)
+- TOP 6.3.: Erinnerungsverfahren: Kornwegerstraße Hausnr. 38 - 42 (Baureferat, 10.08.12)
+- TOP 6.4.: Beschlussvorlage: Bericht zu REGSAM, Bericht Vertragszeitraum 2010 - 2012, REGSAM neu entdecken, Beschluss Vertragszeitraum 2013 - 2015, REGSAM - ein starkes Netzwerk für München (Sozialreferat, 20.08.12)
+- TOP 7: Baumschutz
+- TOP 7.7.1: Einzelfällanträge / Baumbestandspläne
+- TOP 7.1.: Rodensteinstraße 6, gem. Baumbestandsplan Nr. 15827
+- TOP 7.2.: Primelstraße 11, 1 Eibe
+- TOP 7.3.: Luzernenweg 3 - 8, 1 Eberesche, Zwetschgengruppe Wastl-Witt-Straße 38 - 46, 1 Eberesche
+- TOP 7.4.: Stiftsbogen 83 - 93, 1 Eberesche
+- TOP 7.5.: Waldwiesenstraße 28 c, 1 Säulenwacholder
+- TOP 7.6.: Rolandseckstraße 14, Haus 1 - 3, gem. Baumbestandsplänen Nr. 16360, 16362 und 16363
+- TOP 7.7.: Guardinistraße 94 - 98, 1 Rot-Eiche
+- TOP 7.8.: Waldeslust 9, 1 Tanne
+- TOP 7.9.: Am Waldrand 3, 1 Hemlocktanne
+- TOP 7.10.: Eichhornstraße 3 a, 1 Kiefer
+- TOP 7.11.: Wolkerweg 1 - 13 a, 4 Schwarzkiefern, 1 Eberesche und 1 Kirschbaum
+- TOP 7.12.: Stiftsbogen 15 a, gem. Baumbestandsplan, 5 Spitzahornbäume und 1 Linde
+- TOP 7.7.2: Fällung von Gefahrenbäumen
+- TOP 7.1.: 23 Bäume auf dem Waldfriedhof, Liste des Baureferates vom 01.08.12
+- TOP 7.2.: Sauerbruchstraße 43 - 45, 2 Fichten (Referat für Stadtplanung und Bauordnung, 28.08.12)
+- TOP 7.7.3: Widerspruch gegen einen Ablehnungsbescheid
+- TOP 7.7.4: Entscheidungen abweichend von der Bezirksausschuss-Beschlusslage
+- TOP 7.1.: Würmtalstraße 148 a, 1 Schwarzkiefer (Referat für Stadtplanung und Bauordnung, 17.08.12)
+- TOP 8: Unterrichtungsfälle
+- TOP 8.1.: Zweckentfremdung von Wohnraum, hier: - Würmtalstraße (Sozialreferat, 16.08.12)
+- TOP 8.2.: Einlassvorbehalt für Veranstalter in München (Direktorium, 03.08.12)
+- TOP 8.3.: Durchführung von Mieterversammlungen durch den Bezirksausschuss (OB Ude, 30.07.12)
+- TOP 8.4.: "Dialog-Display" in München (Kreisverwaltungsreferat, 03.08.12)
+- TOP 9: Antworten der Stadt
+- TOP 9.1.: Bezirkssportanlage Wolkerweg 17 (Referat für Bildung und Sport, 13.08.12)
+- TOP 9.2.: Zur Finanzierung der WALK21: Entnahme der Kosten aus der Radverkehrspauschale - Auswirkungen (Baureferat, 14.08.12)
+- TOP 9.3.: Sitzgelegenheiten Max-Lebsche-Platz (Baureferat, 08.08.12)
+- TOP 9.4.: Kindertageseinrichtung Blumenauer Straße 9 (Referat für Bildung und Sport, 14.08.12)
+- TOP 9.5.: Untersuchungsauftrag zur erstmaligen Herstellung der Sauerbruchstraße (Baureferat, 02.08.12)
+- TOP 9.6.: Begrünung Containerstandplatz Schröfelhofstraße (Baureferat, 21.08.12)
+- TOP 9.7.: Baustelle Krokusstraße 59, Beschwerde wegen Lärm und Baumaterialien auf dem Gehweg (Referat für Stadtplanung und Bauordnung, 16.08.12)
+- TOP 10: Sonstige Antworten auf Anfragen des Bezirksausschusses
+- TOP 11: Verschiedenes
+- TOP 11.1.: BA-Sitzungstermine 2013
+- TOP 11.2.: Einladungs-Flyer "Neue Dimensionen des Rechtsextremismus" (Direktorium, 21.08.12)
+- TOP 11.3.: Errichtungsdekret "Pfarrverband Hadern" (Erzbischöfliches Ordinariat München, 03.08.12)
+- TOP 11.4.: Münchner Selbsthilfejournal "einBlick" 3/2012 ist online (Selbsthilfezentrum München, 04.09.12)
+- TOP 12: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 12.1.: Vollversammlung
+- TOP 12.1.: Beschluss vom 25.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09480 (nach Antrag): Bezirksausschüsse in "Stadtteilräte" umbenennen (abgelehnt, auch vom BA Hadern mit Beschluss vom 12.12.2011)
+- TOP 12.2.: Beschluss vom 25.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09305 (nach Antrag in der Fassung des Ausschussbeschlusses vom 04.07.2012): Satzung der Landeshauptstadt München über die Herstellung und Bereithaltung von Abstellplätzen für Fahrräder (Fahrradabstellplatzsatzung - FabS) Das Planungsreferat wird beauftragt, im Zuge der Umsetzung darauf zu dringen, dass im Freien rahmenanschließbare Fahrradständer verwendet werden (Punkt 3 des Beschlusses). Die vom BA Hadern geforderte Erhöhung der Richtwerte für diverse Nutzungen ist abgelehnt. In 3 - 4 Jahren soll jedoch eine Überprüfung erfolgen (S. 31 - 32). Die Satzung tritt am 01.01.2013 in Kraft.
+- TOP 12.3.: Beschluss vom 25.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09477 (nach Antrag): Arbeitsgruppe Ausbauoffensive Kindertageseinrichtungen - Sachstandsbericht zum 31.03.2012 (Errichtung einer Geschäftsstelle mit jährlichen Kosten in Höhe von 80.820,- ?)
+- TOP 12.4.: Beschluss vom 25.07.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09738 (nach Antrag): Gesamtfortschreibung des Landesentwicklungsprogramms Bayern
+- TOP 12.2.: Senatsbeschlüsse
+- TOP 12.1.: Beschluss des Ausschusses für Bildung und Sport vom 02.05.2012 zur Sitzungsvorlage-Nr. 08-14 / V 09249 (nach Antrag): Grundschule Canisiusplatz 2 Generalinstandsetzung und Erweiterung (Kosten: 21.638.000,- ?)
+- TOP 12.3.: Vorberatende Ausschüsse
+- TOP 12.4.: Bekanntgaben
+- TOP 13: Nichtöffentliche Sitzung
+- TOP 12.3.1: Gefasste Beschlüsse
+- TOP 12.3.2: Referentenanträge
