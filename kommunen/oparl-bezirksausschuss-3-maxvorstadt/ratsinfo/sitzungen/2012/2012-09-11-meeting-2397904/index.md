@@ -1,0 +1,106 @@
+# BA 03 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 3: Maxvorstadt
+- Beginn: 2012-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/262
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2397904
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2397904
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP .1.: Kreisverwaltungsreferat; Antwortschreiben zum Thema Open-Air-Konzerte auf dem Königsplatz
+- TOP 1: Begrüßung, Feststellung der Anwesenheit und der Beschlussfähigkeit
+- TOP 2: Beschluss über die endgültige Tagesordnung
+- TOP 3: Genehmigung der Niederschrift der letzten Sitzung
+- TOP 4: Fragen an die Polizei
+- TOP 5: Bürgeranliegen
+- TOP 5.1: Der Bürger hat das Wort
+- TOP 5.2: Bürgerpost an den BA 3
+- TOP 5.2.1.: Schreiben einer Hausverwaltung aus der Maxvorstadt Beschwerde über Lärmbelästigung durch drei Gaststätten in der Kurfürstenstraße (s. TOP C 2.3.2)
+- TOP 5.2.2.: Schreiben einer Bürgerin aus der Maxvorstadt Wiedererrichtung der Bänke an der Akademiestraße (s. TOP C 2.2.1)
+- TOP 5.2.3.: Ausbesserung des Straßenbelags am Fußgängerübergang über die Türkenstraße südlich der Schellingstraße (s. TOP C 2.1.4)
+- TOP 5.2.5.: Schreiben einer Bürgerin aus der Maxvorstadt Beschwerde über Lärmbelästigung durch ein Lokal in der Barer Straße (s. TOP C 2.3.4)
+- TOP 1: Anträge (1)
+- TOP 2: Entscheidungen und Anhörungen (1)
+- TOP 2.1: Bauvorhaben
+- TOP 2.1.1.: Listen der Bauvorhaben: 31., KW
+- TOP 2.1.2.: Listen der Abgeschlossenheitsbescheinigungen: 29./30. KW
+- TOP 2.1.3.: Steinheilstraße 13 Aufstockung eines Rückgebäudes um drei Geschosse (Wohnnutzung) ? Vorbescheid (Antrag 1), vertagt aus dem Ferienausschuss
+- TOP 2.1.4.: Steinheilstraße 13 Aufstockung eines Rückgebäudes um drei Geschosse (Wohnnutzung) ? Vorbescheid (Antrag 2), vertagt aus dem Ferienausschuss
+- TOP 2.1.5.: Lämmerstraße 13 ? Vorbescheid Umbau und Umgestaltung zur Domsingschule (Lämmerstr. 3/Marsstr. 5)
+- TOP 2.1.6.: Augustenstraße 67 - Vorbescheid Aufstockung des Rückgebäudes
+- TOP 2.1.7.: Amalienstraße 23 Nutzungsänderung: Rückbau bestuhlte Arkade zu Gastraumerweiterung
+- TOP 2.1.8.: Augustenstraße 33 a Aufstockung und Nutzungsänderung eines Gewerbegebäudes in ein ?Boardinghaus? mit Tiefgarage sowie Neubau des Rückgebäudes
+- TOP 2.1.9.: Adalbertstraße 82 Erneuerung Dachstuhl und DG-Ausbau, Balkonerneuerung
+- TOP 2.1.10.: Thorwaldsenstraße 12 Umbau 2. OG und DG eines denkmalgeschützten Mehrfamilienhauses
+- TOP 2.1.11.: Arnulfstraße 60 Aufstockung eines Parkdecks
+- TOP 2.1.12.: Kunstareal München ? Kunst, Kultur, Wissen a) Sachstandsbericht; b) weiteres Vorgehen; c) Stadtratsanträge Anhörung zur Beschlussvorlage für den Ausschuss für Stadtplanung und Bauordnung vom 26.09.2012
+- TOP 2.2: Baumfällungen
+- TOP 2.2.1.: Karlstraße 47 a, 4 Scheinakazien
+- TOP 2.3: Aktuelle Sachstandsberichte (1)
+- TOP 1: Anträge (2)
+- TOP 1.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 1.3.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2: Entscheidungen und Anhörungen (2)
+- TOP 2.1: Verkehr
+- TOP 2.1.1.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichtung einer zeitlich beschränkten ?Wartezone? für Lkw an der Ostseite der Spatenstraße
+- TOP 2.1.2.: Kreisverwaltungsreferat, Verkehrsanordnungen Einrichten von Radfahrstreifen in der Gabelsbergerstraße
+- TOP 2.1.3.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Austausch von Lichtzeichenanlagen, vertagt aus dem Ferienausschuss
+- TOP 2.1.4.: Ausbesserung des Straßenbelags am Fußgängerübergang über die Türkenstraße südlich der Schellingstraße
+- TOP 2.1.5.: Referat für Stadtplanung und Bauordnung Planfeststellungsverfahren zum Neubau der 2. S-Bahn-Stammstrecke, Abschnitt ?München West?, Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof, 2. Planänderung (umfangrei che Unterlagen in der BA-Geschäfsstelle)
+- TOP 2.1.7.: Sitzungsvorlage des Baureferates (Sitzungsvorlagen-Nr. 08-14 / V 09958) zur Empfehlung aus der Bürgerversammlung am 20.10.2011 (Empfehlung Nr. 08-14 / E 01122) Verbesserung der Baustellensituation im Bereich Sandstraße
+- TOP 2.1.8.: Kreisverwaltungsreferat, Verkehrsmanagement, Verkehrsanordnungen Verkürzung des Taxistandplatzes Elisenstraße
+- TOP 2.2: Öffentlicher Raum
+- TOP 2.2.1.: Schreiben einer Bürgerin aus der Maxvorstadt Wiedererrichtung der Bänke an der Akademiestraße
+- TOP 2.2.2.: Kreisverwaltungsreferat, Aufstellung von Verkaufseinrichtungen a) Türkenstraße 76, 1 Bank, Blumentöpfe und Kerzenständer b) Zeitungsentnahmegeräte für die Tageszeitung ?tz? für diverse Standorte in der Maxvor- stadt sowie für die Tageszeitung ?Münchner Merkur? für die Aufstellorte Nymphenburger Straße/Dachauer Straße 2 (nordwestl. U-Bahn-Aufgang, Löwenbräu- keller) und Arnulfstraße 2
+- TOP 2.3: Gaststätten
+- TOP 2.3.1.: Kreisverwaltungsreferat, Freischankflächen a) Schleißheimer Straße 100, Erweiterung
+- TOP 2.3.2.: Schreiben einer Hausverwaltung aus der Maxvorstadt Beschwerde über Lärmbelästigung durch drei Gaststätten in der Kurfürstenstraße (s. TOP A 5.2.1)
+- TOP 2.3.3.: Kreisverwaltungsreferat, Sperrzeitänderung Dachauer Str. 12, Aufhebung der Sperrzeit während des Oktoberfestes 2012
+- TOP 2.3.4.: Schreiben einer Bürgerin aus der Maxvorstadt Beschwerde über Lärmbelästigung durch ein Lokal in der Barer Straße (s. TOP A 5.2.5)
+- TOP 2.4: Veranstaltungen
+- TOP 2.4.1.: Kreisverwaltungsreferat, Veranstaltungs- und Versammlungsbüro Zentrale Feierlichkeiten zum Tag der Deutschen Einheit am 02/03.10.2012
+- TOP 2.5: Aktuelle Sachstandsberichte (2)
+- TOP 1: Anträge (3)
+- TOP 2: Entscheidungen und Anhörungen (3)
+- TOP 2.1.: Jährliche Informationsveranstaltung des Sozialreferats für die Bezirksausschüsse am 29.11.2012 ? Anmeldung bis 08.10.2012
+- TOP 2.2.: Antrag der Stadtratsfraktion DIE GRÜNEN/RL und Initiative des Vorsitzendentreffens: Kinder entscheiden in ihrem Stadtteil
+- TOP 2.3.: Bericht zu REGSAM, Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung vom 09.10.2012
+- TOP 2.4.: Veranstaltung des BA 3 anlässlich der Fertigstellung des Kinderspielplatzes an der Akademiestraße; Bezuschussung der Veranstaltung mit 1.000 Euro
+- TOP 1: Anträge (4)
+- TOP 2: Entscheidungen und Anhörungen (4)
+- TOP 3: Aktuelle Sachstandsberichte und Berichte des Unterausschussvorsitzenden
+- TOP 3.1.: Renovierung U-Bahn-Galerie
+- TOP 3.2.: U-Bahn-Galerie: Ausstellungsplan
+- TOP 3.3.: U-Bahn-Galerie: Neue Vorschläge
+- TOP 3.4.: Holocaust-Gedenktag 2013
+- TOP 1: Planung und Umwelt
+- TOP 1.1.: Referat für Stadtplanung und Bauordnung, Lokalbaukommission Abdruck des Urteils des Verwaltungsgerichts zum abgelehnten Antrag auf Einrichtung einer Spielhalle in der Passage Tal 32
+- TOP 1.2.: Baumfällung Dachauer Straße 243
+- TOP 2: Verkehr und öffentlicher Raum
+- TOP 2.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 2.2.: Verlängerung der Fußgänger- und Radfahrerphase an der Lichtzeichenanlage Odeonsplatz/Briennerstraße
+- TOP 2.3.: Baumaßnahmen der Stadtwerke a) Stromprojekt Schraudolphstraße b) Fernwärmeprojekt Amalienstraße c) Mehrspartenprojekt Dachauer Straße
+- TOP 2.4.: Kreisverwaltungsreferat, Verkehrsabteilung Eingangsbestätigung für das Schreiben des BA bzgl. der Situation an der Baustelle Türkenstraße 35
+- TOP 2.5.: Kreisverwaltungsreferat Anschaffung von ?Dialog-Displays? zur Geschwindigkeitsanzeige
+- TOP 2.6.: Direktorium, Stadtarchiv Antwortschreiben zur Bezeichnung ?Alter Nördlicher Friedhof?
+- TOP 3.1.: Schreiben der Deutschen Post AG bzgl. Schließung der Filiale Georgenstraße 41 und Neueröffnung in diesem Bereich
+- TOP 3.2.: Antwortschreiben des Stadtschulrats Rainer Schweppe zu den Zuschüssen zur Mittagsbe treuung in der Grundschule Schwindstraße (BA-Antrag Nr. 08-14 / B 03542, siehe auch TOP D 1.2/0612)
+- TOP 4: Kultur
+- TOP 4.1.: Kulturreferat, Stadtteilkultur Temporäre ergänzende Zusatztafel im Umgriff des Obelisken auf dem Karolinenplatz Zwischennachricht zum BA-Antrag Nr. 08-14 / B 4107 vom 10.07.2012
+- TOP 4.1.: Direktorium Kein Platz für (Neo-) Nazis Anhörung der Bezirksausschüsse zum Antrag Nr. 08-14 / B 03848 des BA 7 Sendling- Westpark auf Änderung der BA-Satzung
+- TOP 4.2.: Direktorium Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien Anhörung der Bezirksausschüsse zur Initiative der Bürgermeisterin vom 20.06.2012 und zum Antrag Nr. 08-14 / B 04100 des BA 8 Schwanthalerhöhe vom 10.07.2012
+- TOP 4.3.: Ortstermin zu den Parkplätzen Kardinal-Döpfner-Straße am 18.09.2012 um 15 Uhr, Ecke Glückstraße
+- TOP 4.4.: Bürgersprechstunde: Besetzung im 2. Halbjahr 2012
+- TOP 1: Nächste BA- und UA-Sitzungen
+- TOP 1: (E) Verbesserung der Baustellensituation im Bereich Sandstraße Empfehlung Nr. 08-14 / E 01122 der Bürgerversammlung des Stadtbezirkes 3 Maxvorstadt am 20.10.2011
+- TOP 3: Soziales und Bildung (1)
+- TOP 3: Soziales und Bildung (2)
+- TOP 2.1.6.: Schreiben eines Mitglieds des BA 9 Ampelanlagen an den Kreuzungen Nymphenburger Straße/Stiglmaierplatz und an der Grundschule Blutenburgstraße 3 (s. TOP C 2.1.6)
+- TOP 2.3.2.: Vorschlag eines Ortstermins zur Pflanzung einer Baumreihe entlang der gesamten Südseite der Akademiestraße
+- TOP 3: Aktuelle Sachstandsberichte
