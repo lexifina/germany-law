@@ -1,0 +1,69 @@
+# BA 24 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 24: Feldmoching-Hasenbergl
+- Beginn: 2012-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/373
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2501756
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2501756
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 2: Entscheidungsfälle
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Evang.-Luth. Pfarramt, Evangeliumskirche Musical-Potpourri am 20. und 27.10.2012
+- TOP 2.2.: KVR: Entscheidung gem. Vollmacht des OB's: 2.2.1 8 Anträge auf Zeitungsverkaufseinrichtungen 2.2.2 2 Anträge auf Zeitungsverkaufseinrichtungen
+- TOP 2.3.: (E) Budget der Bezirksausschüsse Diakonie Hasenbergl e.V. Projekt "Brücken zwischen uns - Multikulturelles Leben in Deutschland" vom 22.10. bis 31.10.2012
+- TOP 3.1.: notwendige Geschwindigkeitsbeschränkungen (Tempo 30) in der Blodigstraße (Bürgerantrag)
+- TOP 3.2.: Verlegung der Einstiegshilfe im Behindertenbereich am Feldmochinger See (CSU-Fraktion)
+- TOP 3.3.: Wiederherstellung der Holzverkleidung im Deckenbereich der Unterführung am Lerchenauer See (CSU-Fraktion)
+- TOP 4: Die Bürgerinnen und Bürger haben das Wort
+- TOP 5: Anhörungsfälle
+- TOP 5.1.: Bauvorhaben: 5.1.1 Am Blütenanger 71 5.1.2 Detmoldstr. 14 5.1.3 Fortnerstr. 18 5.1.4 Lerchenauer Str. 197 5.1.5 Max-Müllner-Str. 13-15 5.1.6 Schleißheimer Str. 443
+- TOP 5.2.: Baumfällungen im Rahmen von Bauvorhaben: 5.2.1 Dülferstr. 77 5-2-2 Fortnerstr- 18
+- TOP 5.3.: Referat für Stadtplanung und Bauordnung: Höhenfreimachung Bahnübergang Fasanerie Nord: Planungen Baureferat für Straßentunnel stoppen, ergänzend Tieferlegung Bahnstrecke planen und mit DB verhandeln (-&gt; Entwurf Beschlussvorlage zu BV-Empfehlung der BV am 15.03.2012)
+- TOP 5.4.: Referat für Stadtplanung und Bauordnung: Bauleitplanung für den Bereich Ludwigsfelder Straße (südlich); Änderung des Flächennutzungsplanes (-&gt; Entwurf Beschlussvorlage)
+- TOP 5.5.: Sozialreferat: Bericht zu REGSAM (-&gt; Entwurf Beschlussvorlage)
+- TOP 5.6.: Direktorium: Anpassung der BA-Satzung und der Budget-Richtlinien: Stadtteilbezug beim Budget der Bezirksausschüsse
+- TOP 5.7.: Direktorium: Anpassung der BA-Satzung und der Budget-Richtlinien: Kein Platz für (Neo-) Nazis
+- TOP 5.8.: Direktorium: Anpassung der BA-Satzung und der Budget-Richtlinien: Kinder entscheiden in ihrem Stadtteil
+- TOP 5.9.: KVR: Erweiterung der Parkscheibenzone an der Waldmeisterstr. 72
+- TOP 5.10.: KVR: Absolutes Halteverbot Thaddäus-Robl-Straße
+- TOP 5.11.: KVR: Veranstaltungen auf Privatgrund und städt. Grünanlage: ABIX-Herbstfest an der Weitlstr. 125 am 15.09.2012
+- TOP 5.12.: KVR: Vollzug des Sprengstoffgesetzes: Feuerwerk Kategorie II an der Feldmochinger Str. 389 am 05.10.2012
+- TOP 5.13.: KVR: Veranstaltung auf öffentlichem Verkehrsgrund: Festzug zum Feldmochinger Rosstag am 14.10.2012
+- TOP 5.14.: Kommunalreferat - Markthallen München: Münchner Wochenmärkte - Standort Feldmoching Walter-Sedlmayr-Platz
+- TOP 6: Unterrichtungsfälle
+- TOP 6.1.: Direktorium: Anfrage BA 24 zur Budget-Verwendung; Sammeln von Spenden bei einer bezuschussten Veranstaltung
+- TOP 6.2.: Referat für Bildung und Sport: Bezirkssportanlage Grohmannstr. 63; Untersuchungsbericht zur Schadstoffbelastung von Sportplätzen
+- TOP 6.3.: Referat für Stadtplanung und Bauordnung: Geplante Streckenführung der Staatsstraße 2342; Offenlegung von Sanierung und Bebauung von Flächen.... (-&gt; Antwortschreiben zu BV-Anfrage vom 15.03.2012)
+- TOP 6.4.: Baureferat: Fehlende Müllbehälter im Zugangsbereich zum S-Bahnhof Fasanerie (Antwort zu Bürgerantrag)
+- TOP 6.5.: Baureferat: Wunsch nach verankerten Flossen, Klettergerät, Beachvolleyballfeld am Feldmochinger See bzw. Fasaneriesee (-&gt; Antrag 10/9 der Kinder- und Jugendsprechstunde)
+- TOP 6.6.: Baureferat: Mehr Sicherheit und Sauberkeit im Park neben der GS an der Ittlinger Straße (-&gt; Antrag 10/2 der Kinder- und Jugendsprechstunde)
+- TOP 6.7.: KVR: Stand Up Paddling (SUP) auf dem Lerchenauer See (Ablehnung)
+- TOP 6.8.: aktuelle Grundwasserdaten der Messungen des RGU
+- TOP 6.9.: Meldelisten Baumfällungsanträge
+- TOP 6.10.: Meldelisten Bauvorhaben
+- TOP 6.11.: KVR: unveränderte Fortführung eines Gaststättenbetriebes: Feldmochinger Str. 412
+- TOP 6.12.: KVR: verkehrsrechtliche Anordnungen: 6.12.1 Blodigstraße im Bereich Bushaltestelle Stanigplatz (Halteverbot) 6.12.2 Freudstr. 1 bis 3 (Kurzparkzone)
+- TOP 6.13.: Baureferat: Erinnerungsverfahren (§ 6 AufgrO): Espenstr./Rudbeckiastr./Waldmeisterstr.
+- TOP 6.14.: Baureferat: Bauprogramm 2011 zur Realisierung von Kinderbetreuungsplätzen; Verwaltungsinterne Ausführungsgenehmigung Tollkirschenweg, Haus für Kinder
+- TOP 6.15.: SWM: Baumaßnahmen: Stromprojekt Schleißheimer Straße
+- TOP 6.16.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Fahrradabstellplatzsatzung - FabS; - Beschlussfassung zu Hinweis/Ergänzung vom 03.07.2012 und Inkrafttreten - Bechlussfassung zu Anlage 1 (neu)
+- TOP 6.17.: Beschlussvorlage Referat für Stadtplanung und Bauordnung: Verkehrskonzept Münchner Norden - 2. Hinweis/ Ergänzung vom 31.05.2012
+- TOP 6.18.: Direktorium: Wohnungs- und Mietprobleme der Stadtteilbewohner; Engagement der BA's
+- TOP 6.19.: Direktorium: Einlassvorbehalt für Veranstalter in München
+- TOP 6.20.: KVR: Aufstellung von sog. "Dialog-Displays" in München
+- TOP 6.21.: KVR: Planung Tollkirschenweg; Haltemöglichkeiten an der Nordseite des Weges
+- TOP 6.22.: RAW: Beschluss zur Forderung: "Aschenbecher an Abgängen zu U- und S-Bahnhöen anbringen".
+- TOP 6.23.: Grundwasser Feldmoching: Nord-West-Sammelkanal; Ergebnisse der Grundwassermodellierungen. 6.23.1 Prüfbericht vom 30.07.2012 6.23.2 Geotechnische Stellungnahme vom 01.08.2012
+- TOP 6.24.: BA-Budget: Verwendungsnachweise
+- TOP 6.25.: Paritätischer Wohlfahrtsverband: Begleitdienst für ältere Menschen im Münchner Norden
+- TOP 7: Berichte
+- TOP 8: Verschiedenes/ Termine
+- TOP 8.1.: Stadtratsanfrage zu "Kommunale Wohnungsbörse einrichten" (Auszug aus Rathausumschau vom 31.07.2012)
+- TOP 8.2.: RGU: Angebote des Hausbesuchsdienstes der Kinderkrankenschwestern des RGU
+- TOP 1: Begrüßung; Feststellung der Beschlussfähigkeit; Genehmigung
+- TOP 3: Anträge
