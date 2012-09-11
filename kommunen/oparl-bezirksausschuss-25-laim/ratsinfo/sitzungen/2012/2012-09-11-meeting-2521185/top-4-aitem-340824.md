@@ -1,0 +1,7 @@
+# TOP 4: Stellungnahmen/Anhörungen
+
+- Sitzung: BA 25 - Vollgremium (2012-09-11)
+- Körperschaft: Bezirksausschuss 25: Laim
+- Öffentlich: ja
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/agendaitem/340824
+- Beratung: https://www.muenchen-transparent.de/oparl/v1.0/consultation/340824
