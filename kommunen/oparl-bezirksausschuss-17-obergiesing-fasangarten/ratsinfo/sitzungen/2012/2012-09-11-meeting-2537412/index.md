@@ -1,0 +1,84 @@
+# BA 17 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 17: Obergiesing-Fasangarten
+- Beginn: 2012-09-11T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/337
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2537412
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2537412
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.3: Protokoll/e
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.2.2.2: Fragen an die Polizei
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 2.2.4: Bericht aus dem Stadtrat
+- TOP 3: Anträge/Anfragen
+- TOP 3.1.: Mehr Platz im Weißenseepark - Sitzmöglichkeiten ausbauen
+- TOP 3.1.: (E) Budget der Bezirksausschüsse Verein "Freunde Giesings e.V." Ausstellungsprojekt "Amis in Giesing" - München 1945 - 1992 von 11. bis 28.10.2012
+- TOP 3.4.2: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.5.1: UA Bau und Planung
+- TOP 0: zuletzt in den UA verwiesene Themen: (1)
+- TOP 0.1.: Erinnerungsverfahren; Projektname: St.-Martin-Str. 60 mit Seite Hohenwaldeckstraße; Schreiben des Baureferat mit der Bitte um Stellungnahme.
+- TOP 0.2.: Änderung des Flächennutzungsplanes mit integrierter Landschaftsplanung und Bebauungsplan mit Grünordnung Nr. XXXX; Regerstraße (nordwestlich), Welfenstraße (südlich) und Ohlmüllerstraße (westlich) - Umstrukturierung der Betriebsflächen der Paulaner Brauerei im Stadtbezirk 5 - - Aufstellungsbeschluss -
+- TOP 0.4.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Giesinger Bahnhofspl. 2, Gemarkung: Sektion VIII; Neubau eines Gesundheitszentrums mit Tiefgarage; Schreiben des PlanR vom 20.08.2012 mit der Bitte um Stellungnahme
+- TOP 0.5.: Chiemgaustr. 44, 1 City-Light-Säule, hinterleuchtet; Anhörung des PlanR vom 08.08.2012;
+- TOP 0.6.: Soyerhofstr. 17, 1 City-Light-Säule, hinterleuchtet; Anhörung des PlanR vom 09.08.2012
+- TOP 0.7.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Brecherspitzstraße 6a, Gemarkung: Sektion VIII, Fl.Nr.: 15691/0; Nutzungsänderung einer Gaststätte in ein Wettbüro; Schreiben des PlanR 30.08.2012 mit der Bitte um Stellungnahme
+- TOP 0.8.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung, Walchenseeplatz 6, Gemarkung: Sektion VIII, Fl.Nr.: 15913/34; Neubau von 6 Wohnungen im Hinterhof sowie einer Wohnung im best. Dachgeschoss; Schreiben des PlanR vom 30.08.2012 mit der Bitte um Stellungnahme
+- TOP 0.10.: Vollzug von § 3 der BA-Satzung; Katalog-Angelegenheit Nr. 7.2; Anhörung im Einzelfall auf Anforderung; Chiemgaustr. 34a - 34b, Gemarkung: Sektion VIII, Fl.Nr.: 16169/19; Neubau eines Mehrfamilienhauses mit Tiefgarage; Schreiben des PlanR vom 04.09.2012 mit der Bitte um Stellungnahme
+- TOP 0.1.: Europäische Schule München: Lärmschutzwand zur Seite Frankenwaldstraße; BA Antrags-Nr. 08-14 / B 03917 des Bezirksausschusses des Stadtbezirks 17 vom 10.04.2012; Antwortschreiben des Referat für Stadtplanung und Bauordnung vom 06.07.2012
+- TOP 0.2.: Geplantes City-Service-Center des Baureferats in der Aschauer Straße; Bebauungsplan mit Grünordnung Nr. 2070 Aschauer Straße (östlich) Chiemgaustraße (südlich) (Grundstück Fl.Nr. 16236 / 16) (Teiländerung des Bebauungsplans Nr. 1748) - Aufstellungsbeschluss - BA-Antrags-Nr. 08-14 / B 04074 des Bezirksausschuss 17 vom 12.06.2012 - Beteiligung und Einbeziehung des Bezirksausschusses 17 in das Verfahren -; Antwortschreiben des PlanR vom 02.08.2012; BA-Antrags-Nr. 08-14 / B 04151 des Bezirksausschuss 17 vom 10.07.2012; Antwortschreiben des PlanR vom 27.08.2012
+- TOP 0.3.: Baufälle im 17. Stadtbezirk
+- TOP 0.4.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.6.: Gaststätten (unveränderte Fortführungen); Mitteilungen des KVR
+- TOP 0.7.: Alpenstr. 14 Vorkaufrecht nach dem BauGB; Schreiben des Kommunalreferat vom 25.07.2012 über den Abschluss des Vorkaufsrechtsprüfungsverfahrens
+- TOP 0.8.: Mitteilung des Kommunalreferats vom 26.06.2012 über ein Grundstücksgeschäft, hier Untersbergstraße Flst. 16040 (Verkauf)
+- TOP 0.9.: Dritte Startbahn: Ziel verfehlt! Gesamtfortschreibung des Landesentwicklungsprogramms Bayern Antrag Nr. 08-14 / 03393 der Stadtratsfraktion Bündnis 90 / Die Grünen / Rosa Liste vom 20.06.2012 Sitzungsvorlage Nr. 08-14 / V 09738
+- TOP 0.1.: Bericht zu REGSAM; Bericht Vertragszeitraum 2010 - 2012; REGSAM neu denken; Beschluss Vertragszeitraum 2013 - 2015; REGSAM - ein starkes Netzwerk für München; Beschlussentwurf für den Kinder- und Jugendhilfeausschuss und den Sozialausschuss in der gemeinsamen Sitzung am 09.10.2012; Schreiben des Sozialreferat vom 20.08.2012 mit der Bitte um Stellungnahme
+- TOP 0.1.: Mediation zu Nutzerkonflikten am Walchenseeplatz, Schreiben des Sozialreferats vom 24.07.2012 (siehe TOP 5.2.6.1 der BA-Sitzung vom 10.07.2012)
+- TOP 0.4.: Studie "Älter werden in München" - Untersuchungskonzeption - Ermächtigung zur Auftragsvergabe - Satzungserlass zur Befragung von Haushalten SitzungsvorlagenNr. 08-14 / V 10069; Beschluss des Verwaltungs- und Personalausschusses als Feriensenat vom 05.09.2012
+- TOP 0.1.: Entschärfung der Gefahrenquellen an der Kreuzung St.-Martin-Straße und Eintrachtstraße; Bürgerschreiben vom 10.07.2012
+- TOP 0.2.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 0.1.: Freie Fahrt für freie Radler; BA-Antrags-Nr. 08-14 / B 03915 des Bezirksausschusses des Stadtbezirk 17 vom 10.04.2012; Antwortschreiben des KVR vom 02.07.2012
+- TOP 0.4.: Gleisbaumaßnahme in der Tegernseer Landstraße; Einrichtung von Kurzparkplätzen und Ermöglichung des Parkens für betroffene Anwohner in den umliegenden Parklizenzgebieten; Verkehrsrechtliche Anordnung des KVR vom 03.08.2012 (siehe BA-Sitzung vom 10.07.2012, TOP 5.3.6.1
+- TOP 0.6.: Prüfung der Realisierbarkeit eines Durchstichs / Verlängerung der Herbert-Quandt-Straße nach Süden bis zur Lincolnstraße zur späteren Andienung der Europäischen Schule München; Ablehnungsschreiben des PlanR vom 16.08.2012
+- TOP 0.7.: Erweiterung der Parklizenzgebiete im 17. Stadtbezirk (Walchenseeplatz bzw. St.-Martins-Platz) um verschiedene Straßenabschnitte; Antwortschreiben des KVR vom 06.08.2012
+- TOP 0.8.: Errichtung von Radverkehrsanlagen zur Erschließung der Schule an der Ichostraße (Ziffer 2 des Antrages); Zwischennachricht des PlanR vom 18.07.2012
+- TOP 0.9.: Vollzug des BundesImmissionsschutzgesetzes (BImSchG) und der Geräte- und Maschinenlärmschutzverordnung (32. BImSchV); Jahresgenehmigungen für Arbeiten an Anlagen des öffentlichen Personen-Nahverkehrs (ÖPNV)/Straßenbau Firma ITG Tief- und Straßenbau GmbH; Schreiben des RGU vom 20.07.2012; Bescheid des RGU vom 09.03.2012;
+- TOP 0.11.: Maßnahmen zum Schutz von Schulweghelfern und Kinder an der Chiemgau-/Traunsteiner Straße; BA-Antrag Nr. 08-14 / B 04145 des Bezirksausschusses des Stadtbezirks 17 vom 12.06.2012; Antwortschreiben des KVR vom 28.08.2012
+- TOP 0.5.4: UA Umwelt
+- TOP 0: zuletzt in den UA verwiesene Themen: (2)
+- TOP 0.1.: Unterrichtungen der Unteren Naturschutzbehörde im Vollzug der Baumschutzverordnung 5.4.4.1.1 Winlandstr. 28; Bescheid vom 17.08.2012; 5.4.4.1.2 Schlierseestr. 55-67, Bescheid vom 17.08.2012; 5.4.4.1.3 Hohenschwangaustr. 8, Bescheid vom 16.07.2012; 5.4.4.1.4 Deisenhofener Str. 60, Bescheid vom 16.07.2012; 5.4.4.1.5 Traunsteiner Str. 1, Bescheid vom 16.07.2012;
+- TOP 0.5.4.5: Anträge
+- TOP 0.1.: Erinnerungsorte München; BA-Antrag-Nr. 08-14 / B 03000 des Bezirksausschusses des Stadtbezirks 08 - Schwanthalerhöre vom 10.05.2012; Beschlussentwurf für den Kulturausschuss am 27.09.2012;
+- TOP 0.6.1: Ausländer/Innen
+- TOP 0.6.3: Genderfragen
+- TOP 0.6.4: Kinder
+- TOP 0.6.5: Jugend
+- TOP 0.6.6: Senioren/Innen
+- TOP 0.1.: 1. Winlandstr. 3, 1 Zuckerahorn, Antrag vom 31.07.2012; 2. Pennstr. 75, 1 Linde, Antrag vom 06.08.2012; 3. Kiesmüllerstr. 2a, 1 Erle, Antrag vom 12.08.2012; 4. Fasangartenstr. 143, 1 Silbertanne, 1 Nussbaum, Antrag vom 20.08.2012; 5. Balanstr. 390, 1 Tanne, 1 Buche, Antrag vom 22.08.2012; 6. Oberaudorferstr. 17, 1 Robinie, Antrag vom 15.08.2012;
+- TOP 6.7.2: Baumbestandspläne
+- TOP 6.7.2.2.: Vollzug von § 13 der BA-Satzung; Katalog-Angelegenheit Nr. 9.1, Vollzug der Baumschutzverordnung; Nutzungsänderungen, St.-Martin-Str. 34
+- TOP 7: Sonstige Fälle
+- TOP 7.7.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 7.7.2: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 7.2.: Bezirksausschuss-Geschäftsstelle Ost Änderung der Internen Organisation und Vertretungsregelung ab 01.08.2012
+- TOP 7.3.: Bezirksausschüsse in "Stadtteilräte" umbenennen; BA-Antrags-Nr. 08-14 / B 03414 des Bezirksausschusses des Stadtbezirks 4 vom 26.10.2011; Ergebnis des Beschlusses der Vollversammlung des Stadtrates vom 25.07.2012
+- TOP 8: Termine, Ankündigungen, Verschiedenes
+- TOP 8.8.1.5: UA Kultur, Vereine, Initiativen
+- TOP 8.8.2: Ankündigungen
+- TOP 8.8.3: Verschiedenes
+- TOP 0.5.4.6: Sonstiges
+- TOP 0.5.5.1: Bericht
+- TOP 0.5.5.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 0.5.5.4: Unterrichtungsfälle / Bekanntgaben
+- TOP 0.5.4.3: Anhörungsfälle / Stellungnahmen
