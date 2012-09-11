@@ -1,0 +1,70 @@
+# öffentliche / nicht öffentliche Sitzung des Ausschusses für Finanzen und Beteiligungssteuerung und gemeinsamer Betriebsausschuss APH / KIJU
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-09-11T16:03:00+02:00
+- Ende: 2012-09-11T18:13:00+02:00
+- Ort: Rathaus Barmen, Ratssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/118
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8207
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8207
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung (Stand 28.08.2012) http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00145267.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00146475.pdf
+
+## Tagesordnung
+
+- TOP -: Teil A - Angelegenheiten der Beteiligungssteuerung
+- TOP 1: Jahresabschlüsse
+- TOP 1.1: Jahresabschluss 2011 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 1.2: Jahresabschluss der GWG und des Konzerns GWG für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 1.3: Jahresabschluss 2011 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 2: Entlastungen
+- TOP 2.1: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2011 - ungeändert beschlossen
+- TOP 3: Wirtschaftspläne
+- TOP 4: Personelle Angelegenheiten
+- TOP 5: Allgemeine Vorlagen
+- TOP 5.1: Fortführung der Bergischen Entwicklungsagentur GmbH - ungeändert beschlossen
+- TOP 5.2: Änderung des Gesellschaftsvertrages der Wuppertaler Quartierentwicklungsgesellschaft mbH (WQG) - ungeändert beschlossen
+- TOP 5.3: Verlagerung der Aufgabenwahrnehmung der „Jugendberufshilfe“ vom Jugendamt auf das Jobcenter - Entgegennahme ohne Beschluss
+- TOP 5.4: Leistungsanpassung im ÖPNV-Angebot der WSW mobil GmbH - ungeändert beschlossen
+- TOP 6: Berichte und Mitteilungen
+- TOP -: Teil B - Finanzangelegenheiten
+- TOP 7: Berichtsvorlagen
+- TOP 7.1: 2. Erfahrungsbericht über die Umsetzung des Kooperationsprojektes "Bergisches Veterinär- und Lebensmittelüberwachungsamt Remscheid-Solingen-Wuppertal" - Entgegennahme ohne Beschluss
+- TOP 7.2: Stand der Schulden und Kassenkredite zum 30.06.2012 - Entgegennahme ohne Beschluss
+- TOP 7.3: Finco-Bericht zum 30.06.2012 - Entgegennahme ohne Beschluss
+- TOP 7.4: Personalentwicklungskonzept -Inhalte der Zielvereinbarungen- - Entgegennahme ohne Beschluss
+- TOP 7.5: Externe Einstellungen im Zeitraum Januar bis Juli 2012 - Entgegennahme ohne Beschluss
+- TOP 8: Haushaltsangelegenheiten
+- TOP 8.1: Haushaltssanierungsplan 2012-2021 - Reindruck - Entgegennahme ohne Beschluss
+- TOP 8.2: Haushaltssanierungsplan 2012-2021 -1. Fortschreibung- - ungeändert beschlossen
+- TOP 8.3: Bürgerbeteiligung bei den Haushaltsplanberatungen hier: Evaluation der Wuppertaler Bürgerbeteiligung - Entgegennahme ohne Beschluss
+- TOP 9: Verkäufe und Baumaßnahmen
+- TOP 10: Dienstanweisungen und Satzungen
+- TOP 11: Anträge und Anfragen
+- TOP 11.1: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern - zurückgezogen
+- TOP 11.1.1: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern (Antrag der Fraktion BÜNDNIS 90/GRÜNEN vom 18.04.2012) - Weiteres Vorgehen der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 11.2: Papierloser Rat - ungeändert beschlossen
+- TOP 12: Allgemeine Vorlagen
+- TOP 12.1: Zweite Satzung zur Änderung der Vergnügungssteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 12.2: Wechsel des städtischen Vertreters in der Gesellschafterversammlung der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 12.3: Erhöhung des Zuschusses für das Hopster - Fiala - Haus/ Genehmigung überplanmäßiger Ermächtigungen - ungeändert beschlossen
+- TOP 12.4: Genehmigung einer außerplanmäßigen Ausgabe - ungeändert beschlossen
+- TOP 12.5: Einführung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 12.6: Parkhaus Ohligsmühle - Parkzeitregelung - Entgegennahme ohne Beschluss
+- TOP 12.7: Umstellung der Finanzierung des Winterdienstes - ungeändert beschlossen
+- TOP 13: Berichte und Mitteilungen
+- TOP -: Teil C - Angelegenheiten der Eigenbetriebe APH und KIJU
+- TOP 14: Alten- und Altenpflegeheime
+- TOP 14.1: Jahresabschluss 2011 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 14.2: Entlastung der Betriebsleitung APH für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 14.3: Quartalsbericht II/2012 zur wirtschaftlichen Situation der APH - stationärer Bereich - - Entgegennahme ohne Beschluss
+- TOP 14.4: Quartalsbericht II/2012 zur wirtschaftlichen Situation der APH - Fachbereich Senioren und Freizeit - - Entgegennahme ohne Beschluss
+- TOP 15: Berichte und Mitteilungen
+- TOP 16: Kinder- und Jugendwohngruppen
+- TOP 16.1: Jahresabschluss 2011 KIJU - ungeändert beschlossen
+- TOP 16.2: Entlastung der Betriebsleitung KIJU für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 16.3: Empfehlung eines Wirtschaftsprüfers für den Jahresabschluss 2012 - ungeändert beschlossen
+- TOP 16.4: Bericht über das 2. Quartal 2012, KIJU - Entgegennahme ohne Beschluss
+- TOP 17: Berichte und Mitteilungen
