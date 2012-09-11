@@ -1,0 +1,7 @@
+# TOP 3: Bereitstellung öffentlicher Toiletten
+
+- Sitzung: Ausschuss für Grundstücke und Gebäude (21. Sitzung) (2012-09-11)
+- Körperschaft: Stadt Rheda-Wiedenbrück
+- Öffentlich: ja
+- OParl: https://ratsinfo.rheda-wiedenbrueck.de/webservice/oparl/v1.1/body/1/agendaitem/9277
+- Ergebnis: 11 Ja-Stimme(n), 1 Enthaltung(en)
