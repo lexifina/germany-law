@@ -1,0 +1,6 @@
+# TOP 1.: Eröffnung der Sitzung
+
+- Sitzung: öffentliche und nichtöffentliche Sitzung des Werksausschusses der Verbandsgmeinde (2012-09-11)
+- Körperschaft: Verbandsgemeinde Westerburg
+- Öffentlich: ja
+- OParl: https://westerburg.gremien.info/oparl/agendaItem/ni_AD-2341%7Czt_1%7C1
