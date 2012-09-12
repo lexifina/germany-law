@@ -1,0 +1,123 @@
+# 11. öffentliche Sitzung der Bezirksverordnetenversammlung Reinickendorf
+
+- Körperschaft: Bezirksverordnetenversammlung Reinickendorf
+- Beginn: 2012-09-12T17:00:00+02:00
+- Ende: 2012-09-12T21:30:00+02:00
+- Ort: Eichborndamm 215, 13437 Berlin
+- Status: 
+- Gremium: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/organizations.asp?typ=gr&id=1
+- Ratsinformationssystem: https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/bezirksverordnetenversammlung/online/to010.asp?SILFDNR=2886
+- OParl: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/meetings.asp?id=2886
+- Quelle: https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/system.asp (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung https://www.sitzungsdienst-reinickendorf.de/oi/oparl/1.0/download.asp?dtyp=105&id=57193
+
+## Tagesordnung
+
+- TOP 1: Mitteilungen und ggf. Anerkennung von Dringlichkeiten - ohne Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 2: Einwohnerfragestunde - (offen)
+- TOP 2.1: Einwohneranfragen für die 11. Sitzung der BVV am 12.09.2012 - beantwortet
+- TOP 3: Konsensliste - (offen)
+- TOP 3.1: Konsensliste für die 11. Sitzung der BVV am 12.09.2012 - mit Änderungen in der BVV beschlossen (Beratungsfolge beendet)
+- TOP 4: Mündliche Anfragen - (offen)
+- TOP 4.1: Mündliche Anfragen für die 11. Sitzung der BVV am 12.09.2012 - beantwortet
+- TOP 5: Beratung offener Drucksachen aus der letzten Sitzung / den letzten Sitzungen - (offen)
+- TOP 6: Feststellungen - (offen)
+- TOP 6.1: Feststellung über die vorzeitige Beendigung des Amtes als Bürgerdeputierter gemäß § 25 Bezirksverwaltungsgesetz - ohne Änderungen in der BVV beschlossen
+- TOP 7: Vorlagen zur Kenntnisnahme - (offen)
+- TOP 7.1: Spielplatz Zehntwerderweg / Wolfacher Pfad in Waidmannslust - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.2: Projektmittelfonds "Schule" schaffen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.3: Gelände Karl-Bonhoeffer-Nervenklinik - überwiesen
+- TOP 7.4: Bericht Rechtsextremismus in Reinickendorf (Zwischenbericht) - mit Zwischenbericht zur Kenntnis genommen
+- TOP 7.5: Flughafen Tegel – Nachnutzung (1): Sportplatz für Reinickendorfer Sportvereine sichern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.6: Denkmal des Monats - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.7: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.8: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.9: Entwurf des Haushaltsplans Reinickendorf für die Haushaltsjahre 2012 und 2013 (Doppelhaushalt) - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.10: Stand der geschlechterbewussten Arbeit in den Jugendeinrichtungen - überwiesen
+- TOP 7.11: Tag der deutschen Sprache am 08.09.2012 - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.12: Kulturprojekte für Reinickendorfer Künstler - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.13: Mobilitätsdienste - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.14: Tegel-Terminal als architektonisch markantes Bauwerk erhalten - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.15: Fußgängerzone Gorkistraße - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.16: Härtefallfonds - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.17: Informationsfluss der BVV sicherstellen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.18: Anbindung Cité Foch - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.19: Aktionstage "Zu Fuß zur Schule" unterstützen - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.20: Familienhebammen des Projekts Nordstern - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.21: Keine Aufweichung des Nachtflugverbotes TXL - mit Abschlussbericht zur Kenntnis genommen
+- TOP 7.22: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan 12-41B (Zeltinger Platz), für die Grundstücke Zeltinger Platz 1 / 17, 2 / 18, 1A (teilweise), 2A (teilweise), Wiltinger Straße1 - 3, Zeltinger Straße 1, 2, Edelhofdamm 1, 2 sowie Burgfrauenstraße 1 im Bezirk Reinickendorf, Ortsteil Frohnau - überwiesen
+- TOP 7.23: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan 12-42B (Ludolfingerplatz), für die Grundstücke Ludolfingerplatz 1 - 9, Welfenallee 1 / 7, 6 / 8, Karmeliter Weg 3 – 4a, 6B, Sigismundkorso 1, 2, 87, Ludolfingerweg 2 / 4, 5 – 5A, Maximiliankorso 1 – 3, 74 / 74A, 76 sowie Gralsburgsteig 4 / 6 im Bezirk Reinickendorf, Ortsteil Frohnau - überwiesen
+- TOP 7.24: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan XX-256a (Berliner Straße / Bernstorffstraße), für das Gelände zwischen dem Grundstück Schloßstraße 5/Königsweg 9, dem Königsweg, der Bernstorffstraße und der Berliner Straße sowie für die angrenzenden Straßenflächen in Berlin-Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 7.25: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan 12-36B (Heinsestraße), für die Grundstücke Heinsestraße 22 – 54, Hermsdorfer Damm 176 / 182, Schramberger Straße 42 / 44, 49 /55, Backnanger Straße 8 – 16, Fellbacher Straße 3 – 5, 26 – 31 und Heidenheimer Straße 2 / 12 im Bezirk Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 7.26: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan 12-39B (Schulzendorfer Straße), für die Grundstücke Grundstücke Glaskrautstraße 4/20, 22/Bilsenkrautstraße 8, 24/46, Damkitzstraße 35/ Schulzendorfer Straße 20, 37/45, Schulzendorfer Straße 22/46, 50/66, 68/Am Dachsbau 50/52, Am Dachsbau 54/58 und Bilsenkrautstraße 1/7, 4/6 im Bezirk Reinickendorf, Ortsteil Heiligensee. - überwiesen
+- TOP 7.27: Auswertung der eingegangenen Stellungnahmen aus der frühzeitigen Öffentlichkeits- und Behördenbeteiligung zum Bebauungsplan 12-40B (Falkenplatz), für die Grundstücke Falkenplatz 1/Eichelhäherstraße 26, 2, 3/9A, 6, 10, 8/Habichtstraße 1, Stößerstraße2-4, 30-34, Sandhauser Straße 1/7, 4/8E, Rabenhorststraße 5/9, 2/10A, Habichtstraße 1A/5, 2, Rabenstraße 1/3, 2/4A, Eichelhäherstraße 18/24, 19, Falkenhorststraße 3, 5/7, 40, Turmfalkenstraße 21-21A, 25/29B, 33/35 im Bezirk Reinickendorf, Ortsteil Ko - überwiesen
+- TOP 7.28: Aufstellung des Bebauungsplans 12-37 (Hohefeldstraße) für die Grundstücke Hohefeldstraße 1 / 55A, Hermsdorfer Damm 184 - 185, Schloßstraße 25 / 28 in Berlin Reinickendorf, Ortsteil Hermsdorf - überwiesen
+- TOP 7.29: Weiterführung der Prüfgruppe "Korruptionsbekämpfung" - mit Abschlussbericht zur Kenntnis genommen
+- TOP 8: Große Anfragen - (offen)
+- TOP 8.1: Bebauung der Insel im Tegeler Hafen - beantwortet
+- TOP 8.1.1: Bebauung der Insel im Tegeler Hafen - überwiesen
+- TOP 8.2: "Vom Berliner Senat" verordneter Personalabbau "in den Bezirken" bis 2016 - beantwortet
+- TOP 8.2.1: "Vom Berliner Senat" verordneter Personalabbau "in den Bezirken" bis 2016 Konzeption bezirklicher Personalabbau - überwiesen
+- TOP 9: Vorlagen zur Beschlussfassung - (offen)
+- TOP 9.1: Genehmigung der Bezirkshaushaltsrechnung und der über- und außerplanmäßigen Ausgaben und Verpflichtungsermächtigungen für das Haushaltsjahr 2010 - überwiesen
+- TOP 9.2: Beschluss über den Entwurf der Verordnung zur Veränderungssperre 12-45 / 45 für das Grundstück Buddestraße 12A, 12D, 12E im Bezirk Reinickendorf, Ortsteil Tegel - überwiesen
+- TOP 9.3: Wahl der Schiedsfrau Petra Vogt für den Schiedsamtsbezirk Reinickendorf 1 Wahl des Schiedsmannes Hilmar Ruminski für den Schiedsamtsbezirk Reinickendorf 2 - gewählt
+- TOP 9.4: Beschlussfassung über die Sitzungstermine der Bezirksverordnetenversammlung für das Jahr 2013 - ohne Änderungen in der BVV beschlossen
+- TOP 9.5: Wahl der Patientenfürsprecher / Patientenfürsprecherinnen für die Krankenhäuser im Bezirk Reinickendorf gemäß § 30 Landeskrankenhausgesetz (LKG) - vertagt
+- TOP 10: Beschlussempfehlungen von Ausschüssen - (offen)
+- TOP 10.1: Kennzeichnungspflicht für Ordnungsamtsmitarbeiter - ohne Änderungen in der BVV beschlossen
+- TOP 10.2: Open Data 2.0 für den Bezirk Reinickendorf verwenden - erledigt
+- TOP 10.3: Seniorengerechte Ausstattung der Reinickendorfer Bibliotheken - erledigt
+- TOP 10.4: Kostenübernahme durch das Sozialamt bei Heimaufenthalt - ohne Änderungen in der BVV beschlossen
+- TOP 10.5: Kostenloses Parken für Schwimmtrainer am Bad des MV - erledigt
+- TOP 10.6: Berliner Feuerwehr- und Rettungsdienst-Akademie (BFRA) auf dem TXL-Gelände - ohne Änderungen in der BVV beschlossen
+- TOP 10.7: Ausgesuchte Daten der "Polizeilichen Kriminalitätsstatistik" dem Bezirksamt zugänglich machen - ohne Änderungen in der BVV beschlossen
+- TOP 10.8: Bürgerhaushalt in Reinickendorf einführen - überwiesen
+- TOP 10.9: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Für eine bürgerorientierte, transparente und moderne Öffentlichkeitsarbeit der Bezirksverordnetenversammlung Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.10: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Überarbeitung der Internetseiten des Bezirks und der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 10.11: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines Newsletters der BVV - ohne Änderungen in der BVV beschlossen
+- TOP 10.12: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines Newsletters der BVV - Technische Umsetzung - ohne Änderungen in der BVV beschlossen
+- TOP 10.13: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Öffentliche Dokumentation der "Kiezrunden" nach § 78 KJHG - überwiesen
+- TOP 10.14: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Live-Übertragung der BVV-Sitzungen im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 10.15: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bezirkshaushalt transparenter gestalten - Haushalt im OpenData-Format bereit stellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.16: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bessere Durchsuchbarkeit der BVV Vorgänge und Drucksachen - Volltextsuche einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.17: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Bessere Durchsuchbarkeit der BVV Vorgänge und Drucksachen - Suche mit Filtern einrichten - ohne Änderungen in der BVV beschlossen
+- TOP 10.18: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einheitliche E-Mail-Adressen für Bezirksverordnete und Bürgerdeputierte - ohne Änderungen in der BVV beschlossen
+- TOP 10.19: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Verlinkung mit Social-Media-Angeboten - ohne Änderungen in der BVV beschlossen
+- TOP 10.20: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Verlinkung auf die Internetseiten der Fraktionen - ohne Änderungen in der BVV beschlossen
+- TOP 10.21: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines Mängelmelders für Reinickendorf - ohne Änderungen in der BVV beschlossen
+- TOP 10.22: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Forum für projektbezogene Bürgerbeteiligung im Internet - ohne Änderungen in der BVV beschlossen
+- TOP 10.23: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Projektbezogenes Bürgervotum im Internet - mit Änderungen in der BVV beschlossen
+- TOP 10.24: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - ALLRIS-Fortbildung für Bezirksverordnete - ohne Änderungen in der BVV beschlossen
+- TOP 10.25: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einrichtung eines WLAN-Zugangs in den Sitzungsräumen - ohne Änderungen in der BVV beschlossen
+- TOP 10.26: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Einfachere Bereitstellung von Drucksachen - Mehrdateien-Zugriff erleichtern - ohne Änderungen in der BVV beschlossen
+- TOP 10.27: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Papierlose BVV anstreben - ohne Änderungen in der BVV beschlossen
+- TOP 10.28: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Zulassung von tragbaren Computern und Tablet-Computern - ohne Änderungen in der BVV beschlossen
+- TOP 10.29: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Konferenztechnik in den Sitzungsräumen - ohne Änderungen in der BVV beschlossen
+- TOP 10.30: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Aufzeichnungstechnik für Sitzungen bereit stellen - ohne Änderungen in der BVV beschlossen
+- TOP 10.31: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Verwendung der Tonprotokolle - ohne Änderungen in der BVV beschlossen
+- TOP 10.32: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Elektronische Infotafel im Zuschauerbereich des BVV-Saals - ohne Änderungen in der BVV beschlossen
+- TOP 10.33: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Kooperation mit Schulen verstärken - ohne Änderungen in der BVV beschlossen
+- TOP 10.34: Transparente und moderne Öffentlichkeitsarbeit im Bezirk Reinickendorf - Begrenzte Verlängerung der Tätigkeit des temporären Ausschusses - ohne Änderungen in der BVV beschlossen
+- TOP 11: Anträge - (offen)
+- TOP 11.1: Bürgerinnen und Bürger vor Lärm schützen - überwiesen
+- TOP 12: Ersuchen - (offen)
+- TOP 12.1: Kitahalbtagsplätze auch nachmittags - überwiesen
+- TOP 12.2: Lehrpfad der Brüder Humboldt in Tegel einrichten - überwiesen
+- TOP 12.3: Rechte Symbole erkennen - Ordnungsamtsmitarbeiterinnen und Ordnungsamtsmitarbeiter fortbilden - überwiesen
+- TOP 12.4: Ausstellung "Berliner Tatorte" im Rathaus Reinickendorf zeigen - überwiesen
+- TOP 12.5: Schul- und Sportstättensanierungsprogramm 2013 - überwiesen
+- TOP 12.6: Kiefheider Weg - überwiesen
+- TOP 12.7: Bereich befristetes Parken am Ludolfingerplatz verlängern - ohne Änderungen in der BVV beschlossen
+- TOP 12.8: Neue Planungen zur Tegeler Hafeninsel öffentlich in Tegel vorstellen - mit Änderungen in der BVV beschlossen
+- TOP 12.9: S-Bahnwegweiser Bahnhof Schulzendorf sichtbar machen - ohne Änderungen in der BVV beschlossen
+- TOP 12.10: Merkblatt Brandschutz - ohne Änderungen in der BVV beschlossen
+- TOP 13: Empfehlungen - (offen)
+- TOP 13.1: Spielflächen und Spielgeräte Wohngebiet Lübars - Waidmannslust pflegen und erhalten - ohne Änderungen in der BVV beschlossen
+- TOP 13.2: Unfallschwerpunkt BAB-Abfahrt Waidmannsluster Damm - überwiesen
+- TOP 13.3: Wohnraum für Menschen mit Migrationshintergrund - überwiesen
+- TOP 13.4: Einrichtung eines Shuttle-Service für das Strandbad Tegeler See - überwiesen
+- TOP 13.5: Für Aufzugsreparatur im Kunst-Zentrum Tegel-Süd einsetzen - überwiesen
+- TOP 13.6: Autorenlesefonds - überwiesen
+- TOP 13.7: Auch auf den Bahnhöfen der S 25 dynamische Fahrgastinformationsanzeigen vorsehen - überwiesen
+- TOP 13.8: Bäume an Bahndämmen der S-Bahn überprüfen - ohne Änderungen in der BVV beschlossen
