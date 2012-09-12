@@ -1,0 +1,76 @@
+# öffentliche/nicht öffentliche Sitzung des Hauptausschusses
+
+- Körperschaft: Instance 0001
+- Beginn: 2012-09-12T16:00:00+02:00
+- Ende: 2012-09-12T16:45:00+02:00
+- Ort: Rathaus Barmen, Sitzungssaal
+- Status: 
+- Gremium: http://oparl.wuppertal.de/oparl/bodies/0001/organizations/gr/4
+- Ratsinformationssystem: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8153
+- OParl: http://oparl.wuppertal.de/oparl/bodies/0001/meetings/8153
+- Quelle: https://oparl.wuppertal.de/oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Einladung: Einladung mit den Ergebnissen der Vorberatungen  - Stand: 30.08.2012 - 09.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00145461.pdf
+- Ergebnisprotokoll: Niederschrift - öffentlicher Teil http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00146236.pdf
+- Wortprotokoll: Einladung mit Ergebnissen der Vorberatungen - Stand: 07.09.2012 - 10.00 Uhr http://oparl.wuppertal.de/oparl/bodies/0001/downloadfiles/a/00145871.pdf
+
+## Tagesordnung
+
+- TOP 1: Übergeordnete Angelegenheiten
+- TOP 2: Fragestunde (nur Rat)
+- TOP 2.1: Baugenehmigung Fettenberger Weg
+- TOP 2.1.1: Baugenehmigung Fettenberger Weg
+- TOP 2.2: Die Wählergemeinschaft für Wuppertal (WfW) hat Fragen zur Sanierung bzw. Neubau der Uni-Halle
+- TOP 2.2.1: Große Anfrage: Sanierung bzw. Neubau der Unihalle
+- TOP 3: Anregungen und Beschwerden gem. § 24 GO (nur Hauptausschuss)
+- TOP 3.1: Antrag der Bürgergemeinschaft Kemna e.V. auf Reduzierung der zulässigen Höchstgeschwindigkeit auf der L 527 im Bereich Kemna
+- TOP 3.2: Bürgerantrag - ungeändert beschlossen
+- TOP 4: Fraktionsanträge
+- TOP 4.1: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern
+- TOP 4.1.1: Pilotprojekt anonymisierte Bewerbungen bei der Stadt und ihren Töchtern (Antrag der Fraktion BÜNDNIS 90/GRÜNEN vom 18.04.2012) - Weiteres Vorgehen der Verwaltung - Entgegennahme ohne Beschluss
+- TOP 4.2: Papierloser Rat - ungeändert beschlossen
+- TOP 4.3: Asphaltmischwerk am Uhlenbruch - abgelehnt
+- TOP 4.4: Beitritt zur Kampagne "Vermögenssteuer jetzt" - abgelehnt
+- TOP 4.5: Zinsen für Dispositionskredite bei der Stadtsparkasse Wuppertal - abgelehnt
+- TOP 4.6: Zahlungsaufforderungen der Stadtkasse - zur Entscheidung verwiesen
+- TOP 4.7: (nur Rat) Zukunftsfähiges Mobilitätskonzept für Wuppertal
+- TOP 5: Fraktionsanträge, die vom Rat zur Vorberatung verwiesen wurden (§ 8 der Geschäftsordnung für den Rat der Stadt)
+- TOP 6: Ortsrecht
+- TOP 6.1: Zweite Satzung zur Änderung der Vergnügungssteuersatzung vom 16.12.2008 - ungeändert beschlossen
+- TOP 6.2: Einführung einer Infrastrukturförderabgabe - ungeändert beschlossen
+- TOP 6.3: Umstellung der Finanzierung des Winterdienstes - ungeändert beschlossen
+- TOP 7: Haushaltsangelegenheiten
+- TOP 7.1: Haushaltssanierungsplan 2012-2021 -1. Fortschreibung- - ungeändert beschlossen
+- TOP 7.2: Haushaltssanierungsplan 2012-2021 - Reindruck - Entgegennahme ohne Beschluss
+- TOP 7.3: Erhöhung des Zuschusses für das Hopster - Fiala - Haus - ungeändert beschlossen
+- TOP 7.4: Genehmigung einer außerplanmäßigen Ausgabe - ungeändert beschlossen
+- TOP 8: Angelegenheiten des Beteiligungsmanagements
+- TOP 8.1: Jahresabschluss 2011 KIJU - ungeändert beschlossen
+- TOP 8.2: Entlastung des Betriebsausschusses der Kinder- und Jugendwohngruppen der Stadt Wuppertal (KIJU) für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 8.3: Jahresabschluss 2011 der Stadtsparkasse Wuppertal - ungeändert beschlossen
+- TOP 8.4: Jahresabschluss 2011 für die Alten- und Altenpflegeheime der Stadt Wuppertal - stationärer Bereich und Nebenbetrieb Fachbereich Senioren und Freizeit - - ungeändert beschlossen
+- TOP 8.5: Entlastung des Betriebsausschusses der Alten- und Altenpflegeheime der Stadt Wuppertal (APH) für das Geschäftsjahr 2011 - ungeändert beschlossen
+- TOP 8.6: Jahresabschluss 2011 des Eigenbetriebes Straßenreinigung Wuppertal (ESW) - ungeändert beschlossen
+- TOP 8.7: Entlastung des Betriebsausschusses des Eigenbetriebes Straßenreinigung Wuppertal (ESW) für 2011 - ungeändert beschlossen
+- TOP 9: Planverfahren
+- TOP 9.1: Bebauungsplan Nr. 1164 - Friedrichstraße / Nordstraße - ungeändert beschlossen
+- TOP 9.2: Bebauungsplan Nr. 1135 - Am Schaffstal - - ungeändert beschlossen
+- TOP 9.3: Landschaftsplanverfahren - Landschaftsplan Wuppertal-Nord Offenlegungsbeschluß
+- TOP 10: Baumaßnahmen
+- TOP 10.1: Errichtung der 6. Gesamtschule - ungeändert beschlossen
+- TOP 11: Allgemeine Vorlagen
+- TOP 11.1: Kooperationsvereinbarung zwischen der Region Köln/Bonn und dem Bergischen Städtedreieck
+- TOP 11.2: Wuppertaler Sortimentskonzept - ungeändert beschlossen
+- TOP 11.3: Fortschreibung des Wuppertaler Mietspiegels zum 18.09.2012 - Entgegennahme ohne Beschluss
+- TOP 11.4: Fortführung der Bergischen Entwicklungsagentur GmbH - ungeändert beschlossen
+- TOP 11.5: Bildung der Einigungsstelle der Stadtverwaltung Wuppertal gemäß § 67 Landespersonalvertretungsgesetz NRW (LPVG NRW) - ungeändert beschlossen
+- TOP 11.6: Leistungsanpassung im ÖPNV-Angebot der WSW mobil GmbH - zur Entscheidung verwiesen
+- TOP 11.7: Ausbau der Betreuungsplätze für Kinder unter 3 Jahren in Tageseinrichtungen für Kinder - ungeändert beschlossen
+- TOP 11.8: Reitwegeregelung NRW - ungeändert beschlossen
+- TOP 12: Gremienbesetzung / Benennung
+- TOP 12.1: Umbesetzung von Hauptausschuss - ungeändert beschlossen
+- TOP 12.2: Wechsel des städtischen Vertreters in der Gesellschafterversammlung der Wendepunkt - Wuppertaler Krisendienst gGmbH - ungeändert beschlossen
+- TOP 12.3: Gremienumbesetzungen - geändert beschlossen
+- TOP 12.4: Gremienumbesetzung - ungeändert beschlossen
+- TOP 12.5: Umbesetzung von Gremien - ungeändert beschlossen
+- TOP 12.6: Gremienbesetzungen / Benennung - ungeändert beschlossen
+- TOP 12.7: Gremienbesetzungen / Benennung - ungeändert beschlossen
