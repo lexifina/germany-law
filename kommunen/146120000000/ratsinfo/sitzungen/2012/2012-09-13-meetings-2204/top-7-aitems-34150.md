@@ -1,0 +1,8 @@
+# TOP 7: Weitere Anwendung der Gehölzschutzsatzung vom 16. Juni 1995 bei kommunalen Vorhaben
+
+- Sitzung: 40. Sitzung des Ortschaftsrates Mobschatz (2012-09-13)
+- Körperschaft: Instance 0001
+- Öffentlich: ja
+- OParl: http://oparl.dresden.de/bodies/0001/agendaitems/34150
+- Ergebnis: Ablehnung
+- Beratung: http://oparl.dresden.de/bodies/0001/consultations/10312
