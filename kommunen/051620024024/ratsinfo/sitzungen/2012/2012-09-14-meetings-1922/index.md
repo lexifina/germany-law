@@ -1,0 +1,52 @@
+# Rat der Stadt Neuss
+
+- Körperschaft: Stadt Neuss
+- Beginn: 2012-09-14T16:00:00+02:00
+- Ende: 2012-09-14T19:00:00+02:00
+- Ort: 
+- Status: 
+- Gremium: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/organizations/gr/7
+- Ratsinformationssystem: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1922
+- OParl: http://ris-oparl.itk-rheinland.de/Oparl/bodies/0009/meetings/1922
+- Quelle: https://ris-oparl.itk-rheinland.de/Oparl/system (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Feststellung der ordnungsgemäß erfolgten Ladung und Beschlussfähigkeit - zur Kenntnis genommen
+- TOP 2: Genehmigung der Tagesordnung - mehrheitlich zugestimmt
+- TOP 3: Umbesetzung von Ausschüssen und Gremien - zur Kenntnis genommen
+- TOP 4: Einwohnerfragestunde - zur Kenntnis genommen
+- TOP 5: CSM - abgesetzt
+- TOP 6: Bebauungsplan Nr. 8/3 No - St. Andreas-Straße - Auslegung - einstimmig zugestimmt
+- TOP 6.1: Lebensmittelmarkt am Lessingplatz in Norf - Beschluss über den städtebaulichen Entwurf - mehrheitlich zugestimmt
+- TOP 7: Bahnhofsentwicklungskonzept - einstimmig zugestimmt
+- TOP 8: Bebauungsplan Nr. 162/2 – Weissenberg, Kita Römerstraße - - mehrheitlich zugestimmt
+- TOP 9: Neuaufstellung des FNP - Windernergie - verwiesen
+- TOP 10: Bebauungsplan Nr. 470 - Stadionviertel, Rheydter Straße - Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 11: VEP Nr. V 282/1 - Innenstadt, Am Alten Weiher 6/7 - Satzungsbeschluss - mehrheitlich zugestimmt
+- TOP 12: VEP Nr. V 442 - Stadionviertel, Kamillianergelände - Einleitung - einstimmig zugestimmt
+- TOP 13: BPL 34/3 - Stadionviertel, Bismarckstraße - Umbau der Nebenanlage - einstimmig zugestimmt
+- TOP 14: Ausbau Stichweg Florastraße - einstimmig zugestimmt
+- TOP 15: Annostraße - Wiederherstellung im Zuge der Kanalsanierung - einstimmig zugestimmt
+- TOP 16: BPL 448 - Furth-Süd, Karl-Arnold-Straße: Erschließung Jobcenter Rhein-Kreis Neuss - einstimmig zugestimmt
+- TOP 17: Ausbauplanung von Betreuungsplätzen für Kinder - einstimmig zugestimmt
+- TOP 18: Einführung des "Kita-Navigators" - einstimmig zugestimmt
+- TOP 19: Änderung der städtischen Förderrichtlinie - einstimmig zugestimmt
+- TOP 20: Herrichtung der Jugendräume Barbaraviertel - einstimmig zugestimmt
+- TOP 21: Jugendspielplatz Am Henselsgraben, Allerheiligen - einstimmig zugestimmt
+- TOP 22: Abwasserbeseitigungskonzept 2013 - 2018 - einstimmig zugestimmt
+- TOP 23: Haushaltsplan 2013 - einstimmig zugestimmt
+- TOP 24: Jahresabschluss 2011 - einstimmig zugestimmt
+- TOP 25: Genehmigung einer Dringlichkeitsentscheidung Nr. 74 - einstimmig zugestimmt
+- TOP 26: Genehmigung einer Dringlichkeitsentscheidung Nr. 75 - einstimmig zugestimmt
+- TOP 27: Konferenz der Ratsmitglieder beim Städtetag NRW am 13.12.2012 - einstimmig zugestimmt
+- TOP 28: Antrag: Einrichtung einer Kleinwasserkraftanlage am Lauf des Erftmühlengrabens - einstimmig zugestimmt
+- TOP 29: Resolution des Rates der Stadt Neuss zum Entwurf des Umlagengenehmigungsgesetzes NRW - abgesetzt
+- TOP 30: Rücknahme Einstellungsstopp für Auszubildende über Bedarf - mehrheitlich abgelehnt
+- TOP 31: Antrag der Fraktionen CDU und FDP betr.: Erstellung eines langfristigen Ausbildungskonzeptes - mehrheitlich zugestimmt
+- TOP 32: Antrag der UWG-Fraktion betr.: Bürgernahe und transparente Rats- und Ausschussarbeit - mehrheitlich zugestimmt
+- TOP 32.1: Anfrage von Herrn Stadtverordneten Jansen betr.: Melderegisterauskünfte der Stadt Neuss - zur Kenntnis genommen
+- TOP 33: Papierlose Ratsarbeit
+- TOP 34: Sitzungsübersicht 2013 - mehrheitlich zugestimmt
+- TOP 35: Sachstand Planung Kopfgebäude - zur Kenntnis genommen
+- TOP 36: Einwohnerfragestunde - zur Kenntnis genommen
