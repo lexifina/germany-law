@@ -69,9 +69,9 @@ T-Shirt, Polohemden oder Sweatshirt aus dunkelblauem Stoff, auch mit der Aufschr
 angeordnet werden.
 2 Persönliche Schutzkleidung Die Schutzausrüstung besteht aus
 a)
-Feuerwehrjacke in der Farbe dunkelblau,
+Feuerwehrjacke,
 b)
-Feuerwehrhose in der Farbe dunkelblau,
+Feuerwehrhose,
 c)
 Feuerwehrhelm,
 d)
