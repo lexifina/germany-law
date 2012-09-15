@@ -31,13 +31,13 @@ Abschnitt 4 Rettungsdienst
 § 26 Rettungsdienstplanung
 § 27 Rettungsmittel
 § 28 Notärztliche Versorgung
-§ 29 Personal und Fahrzeuge
+§ 29 Personal, Fahrzeuge, Ausstattung und Ausrüstung
 § 30 Luftrettungsdienst
 § 31 Mitwirkung im Rettungsdienst
 § 32 Benutzungsentgelte
 § 33 Schiedsstelle für den Rettungsdienst
 § 34 Einrichtungen des Trägers des bodengebundenen Rettungsdienstes
-§ 35 Große Anzahl von Verletzten oder Erkrankten
+§ 35 Großschadensereignis
 Abschnitt 5 Katastrophenschutz
 § 36 Vorbereitende Aufgaben
 § 37 Aufgaben bei Katastrophen
@@ -83,5 +83,5 @@ Abschnitt 10 Ergänzende Bestimmungen
 § 72 Datenschutz
 § 73 Ordnungswidrigkeiten
 § 74 Einschränkungen von Grundrechten
-§ 75 Evaluierung der Kosten
+§ 75 (aufgehoben)
 § 76 Übergangsvorschriften
