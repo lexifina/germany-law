@@ -1,0 +1,7 @@
+# TOP 2: Genehmigung des Protokolls der 9. Sitzung am 16.08.2012
+
+- Sitzung: 10. öffentliche (außerplanmäßígen) Sitzung des Ausschusses für Schule (2012-09-18)
+- Körperschaft: Bezirksverordnetenversammlung Mitte
+- Öffentlich: ja
+- OParl: https://www.sitzungsdienst-mitte.de/oi/oparl/1.0/agendaItems.asp?id=63389
+- Ergebnis: vertagt
