@@ -1,0 +1,8 @@
+# TOP 5: Bundesweite Ausschreibung einer Dienstleistungskonzession Stadtfest Münster
+
+- Sitzung: 13. Sitzung (2012-09-18)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/119721
+- Ergebnis: einstimmig beschlossen
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/50562
