@@ -1,0 +1,62 @@
+# Ausschuss für Stadtplanung und Verkehr (20. Sitzung)
+
+- Körperschaft: Kolpingstadt Kerpen
+- Beginn: 2012-09-18T17:00:00+02:00
+- Ende: 2012-09-18T20:45:00+02:00
+- Ort: Rathaus Kolpingstadt Kerpen, Jahnplatz 1, 50171 Kerpen, Raum 200
+- Status: 
+- Gremium: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/organization/1-605
+- Ratsinformationssystem: https://ratsinfo.stadt-kerpen.de/tops/?__=UGhVM0hpd2NXNFdFcExjZbvf9ur1qEVrQCEsFoOiuzQ
+- OParl: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/meeting/12746
+- Quelle: https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/system (OParl-Schnittstelle des Ratsinformationssystems)
+- Ergebnisprotokoll: Öffentliche Niederschrift (Ausschuss für Stadtplanung und Verkehr) https://ratsinfo.stadt-kerpen.de/webservice/oparl/v1.0/body/1/files/UGhVM0hpd2NXNFdFcExjZWSXqY1Sb0JRjCkePDaLgKol0iQrry9M8yoivkoabZYb/Oeffentliche_Niederschrift_Ausschuss_fuer_Stadtplanung_und_Verkehr_18.09.2012.pdf
+
+## Tagesordnung
+
+- TOP I.: Öffentlicher Teil
+- TOP 1.: Einwohner/innen - Fragestunde
+- TOP 2.: Besetzung des Arbeitskreise für Verkehrsplanung und Verkehrssicherheit hier: Mitglieder des Allgemeinen Deutschen Fahrrad-Clubs (ADFC)
+- TOP 3.: Anregungen und Beschwerden gemäß § 24 GO NRW
+- TOP 3.1: Anregungen und Beschwerden gem. § 24 GO NRW hier: Namensgebung des Platzes zwischen Hermann-Löns-Straße und Thaliastraße
+- TOP 4.: Bericht über die Ausführung der Beschlüsse/Aufträge/Empfehlungen aus der 18. Sitzung vom 19. Juni 2012
+- TOP 5.: Umsiedlung Manheim
+- TOP 5.1: Niederschrift der 3. Sitzung des Bürgerbeirates Manheim
+- TOP 5.2: Vorstellung der Vorentwürfe für die "Stadtplätze" in Manheim-neu
+- TOP 5.3: Sachstand zu den Grünplanungen in Manheim-neu
+- TOP 5.4: Bericht der Verwaltung
+- TOP 6.: Stadtentwicklung
+- TOP 6.1: Anlage einer Storchenwiese – Anpflanzung von Bäumen für Neugeborene
+- TOP 6.2: Ausweisung von weiteren Vorrangflächen für Windkraftanlagen auf Kerpener Stadtgebiet -Ergebnis der Untersuchung
+- TOP 6.3: Ergebnisse der Lärmmessungen an der A4 in Horrem
+- TOP 6.4: Teilnahme der Stadt Kerpen an den Sitzungen des Braunkohlenausschusses
+- TOP 6.5: Änderung des Regionalplanes zur Erweiterung des Gewerbegebietes Türnich III - Tauschflächen zur Kompensation der Flächenerweiterung - hier: Austausch der Tauschfläche 5 (bei Geilrath) in Sindorf gegen eine Fläche im Stadtteil Buir
+- TOP 6.6: Nahversorgung im Stadtteil Türnich – geplanter Neubau eines Vollsortimenters am Marktplatz in Türnich – hier: Sachstandsbericht
+- TOP 7.: Bauleitplanung
+- TOP 7.1: Bebauungsplan SI 254 "Nördlich Heppendorfer Straße", Stadtteil Sindorf hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.2: Bebauungsplan SI 346 "Wohnanlage Breite Straße/Hüttenstraße", Stadtteil Sindorf hier: Beschluss zur Offenlage
+- TOP 7.3: Bebauungsplan SI Nr. 346 "Wohnanlage Breite Straße/Hüttenstraße"; hier: Abschluss eines Erschließungsvertrages
+- TOP 7.4: 64. Änderung des Flächennutzungsplanes "Verkehrsspange K 55/B 477n", Stadtteil Blatzheim hier: Beschluss zur Offenlage
+- TOP 7.5: 66. Änderung des Flächennutzungsplanes "Nördlich Giffelsberger Weg", Stadtteil Blatzheim hier: Aufstellungsbeschluss gem. § 2 (1) BauGB
+- TOP 7.6: Bebauungsplan BL 343 "Nördlich Giffelsberger Weg", Stadtteil Blatzheim 1. Aufstellungsbeschluss gem. § 2 (1) BauGB 2. Teilaufhebung des Bebauungsplanes Nr. 1/1. Änderung
+- TOP 7.7: Bebauungsplan BL Nr. 343 "Nördlich Giffelsberger Weg" hier: Abschluss eines Städtebaulichen Vertrages gemäß § 11 BauGB zur Ausarbeitung städtebaulicher Planungen
+- TOP 7.8: Schaffung der Rechtsgrundlage für einen Teilbereich der Erschließungsanlage "Vinzenzstraße" im Stadtteil Kerpen gem. § 125 (2) BauGB hier: Beteiligung der Öffentlichkeit sowie der Behörden
+- TOP 7.9: Weitere Verlängerung einer Veränderungssperre für den Geltungsbereich des Bebauungsplanes KE 338 "Hahnenpassage" im Stadtteil Kerpen gem. § 17 (2) BauGB
+- TOP 7.10: Bebauungsplan Regengasse hier: Sachstandsbericht
+- TOP 8.: Verkehrsplanung
+- TOP 8.1: Niederschrift der 6. Sitzung des Arbeitskreises ÖPNV vom 04.07.2012
+- TOP 8.2: Niederschrift der 11. Sitzung des Arbeitskreises für und Verkehrssicherheit vom 06.09.2012
+- TOP 8.3: Umsetzung des Radverkehrskonzeptes Kerpen
+- TOP 8.3.1: Umsetzung des Radverkehrskonzeptes Kerpen - Umsetzung von Infrastrukturmaßnahmen für das Jahr 2012
+- TOP 8.3.2: Umsetzung des Radverkehrskonzeptes Kerpen -Öffentlichkeitsarbeit
+- TOP 8.4: Konzept zur Verkehrsberuhigung der Städtebaulichen Entwicklungsmaßnahme Vogelrutherfeld südlich Heppendorfer Straße
+- TOP 8.5: Unfallschwerpunkt an der Ein-/Ausfahrt des HIT-Marktes in Sindorf, Kerpener Straße hier: Sachstandsbericht
+- TOP 8.6: Errichtung einer Fußgänger- und Radverkehrsbrücke zwischen Sindorf und Kerpen - (kein Text vorhanden)
+- TOP 8.7: Baustellenverkehr nach Manheim-neu während der Bauzeit
+- TOP 9.: Mitteilungen
+- TOP 10.: Anfragen gem. § 18 Geschäftsordnung
+- TOP 10.1: Vergnügungsstätten und Wettbüros in der Stadt Kerpen hier: Sachstandsbericht
+- TOP 10.2: Ampelanlage an der L 122 im Bereich der Anschlussstelle A4 hier: Sachstandsbericht
+- TOP 10.3: Neubau Bahnhofsgebäude Horrem hier: Sachstand sowie Möglichkeit der Einrichtung einer "Kiss&Ride-Zone"
+- TOP II.: Nichtöffentlicher Teil
+- TOP 11.: Mitteilungen
+- TOP 12.: Anfragen gem. § 18 Geschäftsordnung
