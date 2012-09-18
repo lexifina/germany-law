@@ -1,0 +1,67 @@
+# BA 08 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 8: Schwanthalerhöhe
+- Beginn: 2012-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/287
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2506008
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2506008
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Begrüßung
+- TOP 2: Annahme der Tagesordnung und Feststellung der Beschlussfähigkeit
+- TOP 3: Referatsvertreter nehmen Stellung
+- TOP 4: Bürgerinnen und Bürger haben das Wort
+- TOP 4.1.: Wettbüros an der Ecke Ligsalz-/Schwanthalerstraße
+- TOP 4.2.: Sperrung der Theresienwiese
+- TOP 4.3.: Baustelle in der Geroltstraße
+- TOP 5: Bauen, Planen, Wohnen und Gewerbe
+- TOP 5.1.: Anhörung: Tulbeckstr. 4; Umbau und Aufstockung VGB, Umbau und Errichtung neues DG/RGB, Anbau von Balkonen
+- TOP 5.2.: Handlungsmöglichkeiten der BAs bei Wohnungs- und Mietproblemen
+- TOP 5.3.: Meldeliste 06.08.2012 - 12.08.2012, 20.08.2012 - 26.08.2012, 27.08.2012 - 02.09.2012, 03.09.2012-09.09.2012, 10.09.2012-16.09.2012
+- TOP 5.4.: Nutzungsänderung Landsberger Str. 135 - Ablehnungsbescheid
+- TOP 5.5.: Lärmbelästigung in der Landsberger Str. 150, Antwort KVR und Planungsreferat
+- TOP 5.6.: Baudenkmal Kazmairstr. 32
+- TOP 6: Soziales, Jugend und Senioren
+- TOP 6.1.: Fachtag regionale Netzwerkstrukturen in München
+- TOP 6.2.: Angebote des Hausbesuchsdienstes der Kinderkrankenschwestern des RGU
+- TOP 6.3.: Anhörung: Bericht zur REGSAM
+- TOP 6.4.: Dienststellenverständigung: städtischer Hort Guldeinstr. 27 II
+- TOP 6.5.: Anhörung: Kinder entscheiden in ihrem Stadtteil
+- TOP 6.6.: Durchführung eines Kinder-BA?
+- TOP 7: Integration und Kultur
+- TOP 7.1.: Anhörung: Erinnerungsorte München
+- TOP 7.2.: Antwortschreiben: Individuelles Gedenken auch in München - Stolpersteine auf öffentlichem Grund zulassen!
+- TOP 7.3.: Einlassvorbehalt für Veranstalter in München
+- TOP 7.4.: Anhörung: Kein Platz für (Neo-) Nazis
+- TOP 8: Umwelt und Verkehr
+- TOP 8.1.: Anhörung: Haltverbot Donnersberger Brücke
+- TOP 8.2.: Ausnahmegenehmigung für das Feriencamp Naturindianer
+- TOP 8.3.: Antwortschreiben: Mehr Sicherheit für Fußgänger/innen und Radfahrer/innen! Umgestaltung der Landsberger Straße - Höhe Holzapfelstraße
+- TOP 8.4.: Fällungsantrag Theresienhöhe 13 - Mitteilung UNB vom 25.07.2012
+- TOP 8.5.: Überschreitung des Tempolimits in der Tulbeckstraße
+- TOP 8.6.: Verwarnung trotz gültigen Parkausweises
+- TOP 8.7.: "Dialog-Display" in München
+- TOP 8.8.: Haltverbot in der Trappentreustraße im Bereich der Bushaltestelle Kazmairstraße, verkehrsrechtliche Anordnung vom 18.07.2012
+- TOP 8.9.: Anhörung: Baumfällung Ridlerstr. 75
+- TOP 8.10.: Antwortschreiben: Antrag zur Verbesserung der Situation für Radfahrer auf der Hackerbrücke
+- TOP 8.11.: Entscheidung: Aufstellung von neuen Verkaufseinrichtungen auf öffentlichem Grund in der Ligsalzstr. 31 - <div>nach Antrag</div>
+- TOP 8.12.: Anhörung: Neubau einer 2. S-Bahn-Stammstrecke in München, PFA 1 "München West", Bereich Laim bis Karlsplatz mit Haltepunkt Hauptbahnhof - 2. Planänderung
+- TOP 8.13.: Gestaltung der Unterführung Theresienhöhe/Hans-Fischer-Straße - weiteres Vorgehen
+- TOP 8.14.: Gebühr für die Verwendung von Einweggeschirr
+- TOP 8.15.: Unterrichtung über das Fällen von Gefahrenbäumen: Theresienhöhe
+- TOP 8.16.: Anhörung: Böllerschießen zum Auftakt der Wiesn im Ausstellungspark westlich der Ruhmeshalle
+- TOP 9: Budget und Finanzen
+- TOP 9.1.: Anhörung: Stadtteilbezug beim Budget der Bezirksausschüsse; Anpassung der BA-Satzung und der Budgetrichtlinien
+- TOP 9.2.: Bezuschussung aus dem Budget des BA 8; Antrag des Kreisjugendrings München-Stadt vom 23.05.2012
+- TOP 9.3.: Zuschuss für das Evangelische Migrationszentrum für die "Nacht der Chöre" am 19.05.12
+- TOP 10: Anträge
+- TOP 10.1.: Gefahrloses Passieren des Fuß- und Radwegs in der Landsberger Straße 55, Antrag der SPD-Fraktion
+- TOP 11: Verschiedenes
+- TOP 11.1.: Sitzungstermine und Termin der Bürgerversammlung 2013
+- TOP 11.2.: Anhörung: Durchführung von Informationsveranstaltungen zu Brennpunktthemen durch die Bezirksausschüsse
+- TOP 12: Protokoll und Umlauf
