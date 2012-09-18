@@ -1,0 +1,93 @@
+# BA 18 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 18: Untergiesing-Harlaching
+- Beginn: 2012-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/344
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2536449
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2536449
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 1: Allgemeines
+- TOP 1.1.1: Begrüßung, Beschlussfähigkeit, Entschuldigungen
+- TOP 1.1.2: Tagesordnung
+- TOP 1.1.3: Protokolle
+- TOP 2: Aktuelles
+- TOP 2.2.1: Bürgeranliegen
+- TOP 2.2.1.1: Anwesende Bürgerinnen und Bürger
+- TOP 2.2.1.2: Bürgerschreiben / -anträge
+- TOP 2.1.: Radlunfälle am Schrafnagelberg; Schreiben des Jugendtreffs Akku vom 22.08.12
+- TOP 2.2.: Problempunkt Wettersteinplatz; Bürgerschreiben vom 02.08.12
+- TOP 2.3.: Vorfahrstbeschilderung an der Kreuzung Aretinstraße / Lautererstraße; Bürgerschreiben vom 02.09.12
+- TOP 2.4.: Benennung Wettersteinplatz / Wettersteinstraße; Unterscheidung durch Zusätze; Bürgerschreiben vom 28.08.12
+- TOP 2.5.: Verkehrssicherheit am Hans-Mielich-Platz; Bürgerschreiben vom 05.09.12
+- TOP 2.2.2: Behördenvertreter
+- TOP 2.2.2.1: Vortrag städtischer Referate
+- TOP 2.1.: Urbanes Naturnetz München - Präsentation der Konzeption
+- TOP 2.2.2.2: Fragen an Polizei und Bezirksinspektion
+- TOP 2.2.3: Bericht des Vorsitzenden
+- TOP 3: Unterausschüsse
+- TOP 3.3.1: UA Budgetangelegenheiten
+- TOP 3.3.1.3.1: Information des Bezirksausschusses über neu eingegangene Anträge auf Gewährung von Zuschüssen aus dem Budget für die Bezirksausschüsse
+- TOP 3.1.: Kinder entscheiden in ihrem Stadtteil; festes Budget für Kinder- u. Jugendbeteiligung; Änderung der BA-Satzung; Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.09.11, Initiative von Frau Bürgermeisterin Strobl im Treffen der BA-Vorsitzenden; Schreiben des Direktoriums vom 01.08.12 mit der Bitte um Stellungnahme - siehe auch TOP 3.4.4.2
+- TOP 3.3.2: UA Verkehr
+- TOP 3.1.: Änderung der Radverkehrsführung in der Tierparkstraße und auf der Thalkirchner Brücke; Anhörung gem. § 13 der BA-Satzung zu einer verkehrsrechtlichen Anordnung nach § 45 StVO; Zuleitung des KVR vom 10.08.12 mit der Bitte um Stellungnahme innerhalb 6 Wochen (vertagt aus der Sitzung vom 21.08.12)
+- TOP 3.2.: Einrichtung eines personenbezogenen Behindertenparkplatzes in der Rotbuchenstraße 18; Zuleitung des KVR mit der Bitte um Stellungnahme bis 28.09.12
+- TOP 3.1.: U1 bis Mangfallplatz = Endstation? Oder U1 bis Klinikum Harlaching = Endstation? Bürgerantrag; BA-Antrag Nr. 08-14 / B 03617 vom 20.11.11; Antwortschreiben des Referats für Stadtplanung u. Bauordnung (neutrale Erledigung)
+- TOP 3.2.: Ausbau des Radwegs vom Theodolindenplatz bis Großhesseloher Brücke und Absenkung aller Randsteine am Beginn der Radwege im 18. Stadtbezirk; BA-Antrag Nr. 08-14 / B 04053 vom 19.06.12; Antwortschreiben des Baureferats vom 23.08.12 (positive Erledigung)
+- TOP 3.3.: Beseitigung einer Gefahrenstelle auf dem Schulweg zur Agilolfingerschule; Bürgeranliegen aus der Sitzungdes BA 18 vom 20.03.12; Antwortschreiben des KVR vom 27.08.12 (positive Erledigung)
+- TOP 3.3.3: UA Umwelt
+- TOP 3.1.: Vollzug der Wassergesetze; Einleiten von Mischwasser aus Entlastungsanlagen (Regenauslässe) durch die Münchner Stadtentwässerung (MSE); Zuleitung des RGU vom 08.08.12 mit der Bitte um Stellungnahme bis 15.10.12
+- TOP 3.1.: Katalog der Fälle der Anhörung oder Unterrichtung der Bezirksausschüsse im Vollzug der Baumschutzverordnung; Unterrichtung über das Fällen von Gefahrenbäumen; Mitteilung des Baureferats-Gartenbau vom 24.07.12
+- TOP 3.3.4: UA Soziales
+- TOP 3.1.: Bericht zu REGSAM; Bericht Vertragszeitraum 2010 - 2012; REGSAM neu denken; Beschluss Vertragszeitraum 2013 - 2015; REGSAM - ein starkes Netzwerk für München; Zuleitung des Sozialreferats mit der Bitte um Stellungnahme zum Beschlussentwurf bis 02.10.2012
+- TOP 3.2.: Kinder entscheiden in ihrem Stadtteil; festes Budget für Kinder- u. Jugendbeteiligung; Änderung der BA-Satzung; Antrag Nr. 08-14 / A 02754 der Stadtratsfraktion DIE GRÜNEN/RL vom 09.09.11, Initiative von Frau Bürgermeisterin Strobl im Treffen der BA-Vorsitzenden; Schreiben des Direktoriums vom 01.08.12 mit der Bitte um Stellungnahme - siehe auch TOP 3.1.4.1
+- TOP 3.1.: Studie "Älter werden in München" - Untersuchungskonzeption - Ermächtigung zur Auftragsvergabe - Satzungserlass zur Befragung von Haushalten Sitzungsvorlagen Nr. 08-14 / V 10069; Beschluss des Verwaltungs- u. Personalausschusses als Feriensenat vom 05.09.12
+- TOP 3.1.: Herzliche Einladung zum Weltkindertag 2012 in Neuhausen-Nymphenburg am 20.09.12; Schreiben des Sozialreferats vom 31.08.12
+- TOP 3.3.5: UA Bau und Planung
+- TOP 3.1.: (E) Vollzug des Bayerischen Straßen- und Wegegesetzes im Stadtbezirk 18 Untergiesing-Harlaching; Widmungserweiterung der Gesamtstrecke des Scharfzantweges; Sitzungsvorlage Nr. 08-14 / V 09914; Beschluss des BA 18 vom 18.09.2012
+- TOP 3.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 3.3.5.4.1: Anhörungen zu Bauvorhaben
+- TOP 3.3.5.4.2: Baumbestandspläne
+- TOP 3.1.: Kindergartenneubau St. Franziskus; Schreiben des Elternbeirats vom 05.04.2012; BA-Antrag Nr. 08-14 / B 03957 vom 15.05.12; Antwortschreiben des RBS vom 03.08.12 (neutrale Erledigung)
+- TOP 3.2.: Kindergarten bzw. Kinderkrippen-Erweiterung des Vereins Karl & Liesl e.V. in der Kühbachstraße; BA-Antrag Nr. 08-14 / B 04066 des BA 18 vom 19.06.12; Antwortschreiben des RBS vom 22.08.12 (positive Erledigung)
+- TOP 3.3.: Soyerhofstr. 17, Fl.Nr. 12890/7, Gemarkung Sektion VII, McGraw-Kaserne / ehem. Reichszeugmeisterei bzw. "Unisversity of Maryland": Fassadenrenovierung und stadtteilbezogene Nutzung; Empfehlung Nr. 08-14 / E 00928 der BÜV des 18. Stadtbezirks vom 28.10.10; Beschluss des Ausschusses für Stadtplanung u. Bauordnung ovm 11.01.12; Zwischennachricht des Referats für Stadtplanung u. Bauordnung
+- TOP 3.1.: Baufälle im 18. Stadtbezirk
+- TOP 3.2.: Bauprogramm zur Realisierung von Kinderbetreuungsplätzen - Bericht zum Bauprogramm 2011 - Fortschreibung im Bauprogramm 2012 - Änderung des MIP 2011 - 2015 Sitzungsvorlage Nr. 08-14 / V 09604 Beschluss der Vollversammlung des Stadtrats vom 25.07.12
+- TOP 3.3.: Mietspiegel für München; Aufnahme von Bestandsmieten in den Münchner Mietspiegel; Antrag Nr. 1/2012 des Mieterbeirats vom 16.04.12; Sitzungsvorlage Nr. 08-14 / V 09836; Beschluss des Sozialausschusses vom 20.09.12 (VB)
+- TOP 3.3.6: UA Kultur und Veranstaltungen
+- TOP 3.1.: Veranstaltung in einer städtischen Grünanlage am 29.09.12; hier: Wiese neben dem Osramspielplatz - Kinder und Familienfest; Zuleitung des KVR mit der Bitte um Stellungnahme bis 20.09.12
+- TOP 3.1.: Stadtbezirksplan für den 18. Stadtbezirk; Schreiben der Verwaltungs-Verlag GmbH mit der Bitte um Terminvorschlag (vertagt aus der Sitzung vom 21.08.12)
+- TOP 4: Sonstige Fälle
+- TOP 4.4.1: Sonstige Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 4.4.2: Sonstige Anträge
+- TOP 4.4.3: Sonstige Anhörungsfälle / Stellungnahmen
+- TOP 4.4.3.1: Baumschutzfälle
+- TOP 4.4.4: Sonstige Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 4.4.5: Sonstige Unterrichtungsfälle / Bekanntgaben
+- TOP 4.1.: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 5: Berichte der Beauftragten / Polizei
+- TOP 5.5.1: Kinder
+- TOP 5.5.2: Senioren/-innen
+- TOP 5.5.3: Ausländer /-innen
+- TOP 5.5.4: Jugend
+- TOP 5.5.5: Sport und Vereine
+- TOP 5.5.6: Polizei
+- TOP 6: Termine, Ankündigungen, Sonstiges, Verschiedenes
+- TOP 6.6.1: Termine der UA - Sitzungen
+- TOP 6.6.2: Ankündigungen
+- TOP 6.6.3: Sonstiges / Verschiedenes
+- TOP 7: Nichtöffentlicher Teil
+- TOP 3.3.6.1: Bericht
+- TOP 3.3.6.2: Entscheidungsfälle / Beschlussvorlagen der Stadtverwaltung
+- TOP 3.3.6.3: Anträge
+- TOP 3.3.6.4: Anhörungsfälle / Stellungnahmen
+- TOP 3.3.6.5: Antworten der Verwaltung auf Anträge und Anfragen
+- TOP 3.3.6.6: Unterrichtungsfälle / Bekanntgaben
+- TOP 3.3.6.7: Sonstiges
+- TOP 3.7: Anträge gemäß § 7 Abs. 4 BA-GeschO
