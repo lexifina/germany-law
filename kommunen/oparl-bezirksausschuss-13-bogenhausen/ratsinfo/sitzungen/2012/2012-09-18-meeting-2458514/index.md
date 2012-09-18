@@ -1,0 +1,65 @@
+# BA 13 - Vollgremium
+
+- Körperschaft: Bezirksausschuss 13: Bogenhausen
+- Beginn: 2012-09-18T19:30:00+02:00
+- Ende: 
+- Ort: 
+- Status: 
+- Gremium: https://www.muenchen-transparent.de/oparl/v1.0/organization/gremium/313
+- Ratsinformationssystem: https://www.muenchen-transparent.de/termine/2458514
+- OParl: https://www.muenchen-transparent.de/oparl/v1.0/meeting/2458514
+- Quelle: https://www.muenchen-transparent.de/oparl/v1.0 (OParl-Schnittstelle des Ratsinformationssystems)
+
+## Tagesordnung
+
+- TOP 0: (* Unterlagen liegen bereits den Fraktionen bzw. Ihnen selbst vor)
+- TOP 1: Allgemeines
+- TOP 1.1.1: Ordnungsgemäße Ladung, Beschlussfähigkeit
+- TOP 1.1.2: Genehmigung des Protokolls der Sitzung vom
+- TOP 1.1.3: Genehmigung der Tagesordnung
+- TOP 2: Unterausschüsse (Vorbehandelte Angelegenheiten)
+- TOP 2.2.1: Vorstand
+- TOP 2.2.2: Unterausschuss Planung
+- TOP 2.2.3: Unterausschuss Verkehr
+- TOP 2.1.: Auskunft zur Kooperationseinrichtung am Schimmelweg; Sicherstellen einer ausreichend verkehrlichen Lösung (Erschließung, Stellplatzproblematik)
+- TOP 2: (E) Fußgängerampel an der Denninger Straße (am Forum Bogenhausen)
+- TOP 2.2.4: Unterausschuss Umwelt, Gesundheit
+- TOP 2.2.5: Unterausschuss Haushalt, Satzung
+- TOP 2.1.: (E) Budget der Bezirksausschüsse Verein für Stadtteilkultur im Münchner Nordosten e.V. Stadtteilmagazin "NordOstMagazin"
+- TOP 2.2.: (E) Budget der Bezirksausschüsse Pfarramt St. Lorenz Konzert am 08.12.2012
+- TOP 2.2.6: Unterausschuss Soziales, Bildung, Sport
+- TOP 2.2.7: Unterausschuss Kultur, Projekte
+- TOP 3: Bürgeranträge (ohne Vorberatung)
+- TOP 4: Entscheidungsfälle (ohne Vorberatung)
+- TOP 5: Anhörungen (ohne Vorberatung)
+- TOP 6: Erledigung von Beschlüssen
+- TOP 6.1.: Maria-Theresia Straße nördlich Europaplatz; Instandsetzung der Straßenoberfläche
+- TOP 6.2.: Platz zur Deutschen Einheit: Zugang zum Rodelhügel und zu den Kinderspielplätzen durch Absenken der Bordsteine erleichtern
+- TOP 6.3.: Stadtrat soll mit Bürgern und BA erarbeitetes Verkehrskonzept zur Verkehrsberuhigung vor Beginn der Baumaßnahmen Prinz-Eugen-Park umsetzen und den entgegenstehenden Beschluss von SPD/Grünen-Stadtratsfraktion korrigieren!
+- TOP 6.4.: Schulwegsicherheit an der Haltestelle Cosimabad der Linien 16/18 Prüfung einer temporären Auffangampel; Anpassung der Fahrpläne
+- TOP 6.5.: Wieder Langzüge auf der S-8
+- TOP 7: Unterrichtungen (ohne Vorberatung)
+- TOP 7.7.1: Direktorium
+- TOP 7.7.2: Baureferat
+- TOP 7.7.3: RGU
+- TOP 7.7.4: KommRef.
+- TOP 7.7.5: KVR
+- TOP 7.7.6: Kulturref.
+- TOP 7.7.7: PlanungsReferat
+- TOP 7.7.8: Referat für Bildung und Sport
+- TOP 7.7.9: Soz.Ref.
+- TOP 7.7.10: POR
+- TOP 7.7.11: Kämmerei
+- TOP 7.7.12: RAW
+- TOP 7.7.13: MVG
+- TOP 7.7.14: sonst. städt. Betriebe (SWM, Messe)
+- TOP 7.7.15: Sonstige (Bahn AG, Post)
+- TOP 8: Berichte
+- TOP 8.8.1: Berichte der BA-Beauftragten
+- TOP 8.8.2: Evtl. Bericht der Polizei
+- TOP 9: Sonstiges
+- TOP 9.9.1: Tagesordnungspunkt (betrifft Privatpersonen)
+- TOP 9.9.2: Mitteilungen der BA-Vorsitzenden
+- TOP 9.9.3: Mitteilungen der MdBA
+- TOP 9.9.4: Termine
+- TOP 10: Nichtöffentlicher Teil
