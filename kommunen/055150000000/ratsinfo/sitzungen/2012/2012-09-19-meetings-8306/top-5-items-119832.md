@@ -1,0 +1,8 @@
+# TOP 5: Wiederwahl der Beigeordneten Stadträtin Dr. Andrea Hanke
+
+- Sitzung: 22. Sitzung (2012-09-19)
+- Körperschaft: Stadt Münster
+- Öffentlich: ja
+- OParl: https://oparl.stadt-muenster.de/bodies/0001/agendaitems/119832
+- Ergebnis: ohne Beschlussfassung geschoben
+- Beratung: https://oparl.stadt-muenster.de/bodies/0001/consultations/50610
